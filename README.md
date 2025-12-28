@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="figs/banner.png" alt="LazyingArt banner" />
+</p>
+
 # LazyEarn — Lazy Money Lab + Earn From Scratch
 
 Earn.lazying.art is a cinematic field guide for anyone who wants money to feel like a slow ritual instead of a sprint. The site shows three layers—**Lazy Money**, **Lazy Earn**, **Earn From Scratch**—and the repo carries those stories forward with research drops you can remix.
