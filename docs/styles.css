@@ -1,6 +1,28 @@
 :root {
-  color-scheme: dark;
+  color-scheme: light;
   font-size: 16px;
+  --bg: #f6f7fb;
+  --panel: rgba(255, 255, 255, 0.86);
+  --panel-glass: rgba(255, 255, 255, 0.7);
+  --text: #0f172a;
+  --muted: #5b6478;
+  --accent: linear-gradient(120deg, #5fd3ff, #9b7bff 40%, #ff9ec6);
+  --border: rgba(15, 23, 42, 0.12);
+  --glow: 0 20px 60px rgba(79, 170, 255, 0.18);
+  --nav-bg: rgba(255, 255, 255, 0.8);
+  --bg-gradient: radial-gradient(circle at 20% -20%, #e7ecff, transparent 55%),
+    radial-gradient(circle at 80% 0, #f2e8ff, transparent 40%),
+    linear-gradient(135deg, #f7f8ff, #eef2ff 60%, #fdf2f8);
+  --bg-glow: radial-gradient(circle at 50% 20%, rgba(120, 166, 255, 0.18), transparent),
+    radial-gradient(circle at 10% 80%, rgba(255, 173, 209, 0.18), transparent 40%),
+    radial-gradient(circle at 90% 70%, rgba(120, 221, 255, 0.2), transparent 45%);
+  --orb-1: #7dd3fc;
+  --orb-2: #c4b5fd;
+  --orb-3: #fbcfe8;
+}
+
+[data-theme="dark"] {
+  color-scheme: dark;
   --bg: #05060a;
   --panel: rgba(13, 16, 24, 0.85);
   --panel-glass: rgba(19, 22, 31, 0.65);
@@ -9,6 +31,16 @@
   --accent: linear-gradient(120deg, #66f0ff, #c471ff 40%, #ffb8d2);
   --border: rgba(255, 255, 255, 0.1);
   --glow: 0 20px 60px rgba(102, 240, 255, 0.15);
+  --nav-bg: rgba(7, 8, 14, 0.75);
+  --bg-gradient: radial-gradient(circle at 20% -20%, #18142a, transparent 55%),
+    radial-gradient(circle at 80% 0, #1e1f3d, transparent 40%),
+    linear-gradient(135deg, #070610, #05060a 60%, #070b16);
+  --bg-glow: radial-gradient(circle at 50% 20%, rgba(36, 119, 204, 0.25), transparent),
+    radial-gradient(circle at 10% 80%, rgba(255, 149, 213, 0.2), transparent 40%),
+    radial-gradient(circle at 90% 70%, rgba(106, 231, 255, 0.25), transparent 45%);
+  --orb-1: #66f0ff;
+  --orb-2: #c471ff;
+  --orb-3: #ffb8d2;
 }
 
 *,
@@ -22,9 +54,7 @@ body {
   min-height: 100vh;
   font-family: "Space Grotesk", "Sora", system-ui, -apple-system, BlinkMacSystemFont,
     "Segoe UI", sans-serif;
-  background: radial-gradient(circle at 20% -20%, #18142a, transparent 55%),
-    radial-gradient(circle at 80% 0, #1e1f3d, transparent 40%),
-    linear-gradient(135deg, #070610, #05060a 60%, #070b16);
+  background: var(--bg-gradient);
   color: var(--text);
   line-height: 1.6;
   overflow-x: hidden;
@@ -34,9 +64,7 @@ body::before {
   content: "";
   position: fixed;
   inset: 0;
-  background: radial-gradient(circle at 50% 20%, rgba(36, 119, 204, 0.25), transparent),
-    radial-gradient(circle at 10% 80%, rgba(255, 149, 213, 0.2), transparent 40%),
-    radial-gradient(circle at 90% 70%, rgba(106, 231, 255, 0.25), transparent 45%);
+  background: var(--bg-glow);
   filter: blur(120px);
   z-index: -2;
 }
@@ -65,20 +93,20 @@ body::before {
 .orb-one {
   top: -80px;
   left: -40px;
-  background: #66f0ff;
+  background: var(--orb-1);
 }
 
 .orb-two {
   bottom: 10%;
   right: 10%;
-  background: #c471ff;
+  background: var(--orb-2);
   animation-delay: 4s;
 }
 
 .orb-three {
   top: 40%;
   right: -10%;
-  background: #ffb8d2;
+  background: var(--orb-3);
   animation-delay: 8s;
 }
 
@@ -107,7 +135,7 @@ body::before {
   padding: 1rem 1.25rem;
   border: 1px solid var(--border);
   border-radius: 999px;
-  background: rgba(7, 8, 14, 0.75);
+  background: var(--nav-bg);
   backdrop-filter: blur(14px);
 }
 
@@ -181,7 +209,7 @@ body::before {
 
 .language-switch select {
   appearance: none;
-  background: rgba(255, 255, 255, 0.05);
+  background: var(--panel-glass);
   border: 1px solid var(--border);
   border-radius: 999px;
   color: var(--text);
@@ -189,6 +217,26 @@ body::before {
   padding: 0.6rem 2.5rem 0.6rem 1rem;
   cursor: pointer;
   min-width: 150px;
+}
+
+.theme-toggle button {
+  appearance: none;
+  border: 1px solid var(--border);
+  background: var(--panel-glass);
+  color: var(--text);
+  border-radius: 999px;
+  padding: 0.6rem 1rem;
+  font: inherit;
+  cursor: pointer;
+  display: inline-flex;
+  align-items: center;
+  gap: 0.4rem;
+}
+
+.theme-toggle button:hover,
+.theme-toggle button:focus-visible {
+  outline: none;
+  box-shadow: var(--glow);
 }
 
 .language-switch::after {
@@ -333,12 +381,12 @@ body::before {
 
 .cta.secondary {
   border-color: var(--border);
-  background: rgba(255, 255, 255, 0.04);
+  background: var(--panel-glass);
 }
 
 .cta.ghost {
   border-color: transparent;
-  background: rgba(255, 255, 255, 0.05);
+  background: var(--panel-glass);
 }
 
 .cta:hover,

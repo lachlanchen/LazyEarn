@@ -137,8 +137,10 @@ const ideaState = { mode: "default", key: "", email: "" };
 const ideaBtn = document.querySelector(".generator-btn");
 const ideaOutput = document.querySelector(".idea-output");
 const languageSelect = document.getElementById("language-select");
+const themeToggle = document.getElementById("theme-toggle");
 const form = document.querySelector(".cta-form");
 const parallaxItems = document.querySelectorAll(".orb, .hero-card");
+const THEME_KEY = "lazyearn_theme";
 
 const pdfEntries = {
   "high-growth": {
@@ -172,6 +174,7 @@ const pdfEntries = {
   initializeLanguage();
   setupIdeaGenerator();
   setupForm();
+  setupThemeToggle();
   setupSmoothScroll();
   setupObserver();
   setupParallax();
@@ -455,6 +458,25 @@ function setFooterYear() {
   if (footerYear) {
     footerYear.textContent = new Date().getFullYear();
   }
+}
+
+function setupThemeToggle() {
+  if (!themeToggle) return;
+  const savedTheme = safeGetLocalStorage(THEME_KEY);
+  applyTheme(savedTheme === "dark" ? "dark" : "light");
+  themeToggle.addEventListener("click", () => {
+    const nextTheme =
+      document.documentElement.dataset.theme === "dark" ? "light" : "dark";
+    applyTheme(nextTheme);
+    safeSetLocalStorage(THEME_KEY, nextTheme);
+  });
+}
+
+function applyTheme(theme) {
+  document.documentElement.dataset.theme = theme;
+  if (!themeToggle) return;
+  themeToggle.setAttribute("aria-pressed", theme === "dark");
+  themeToggle.textContent = theme === "dark" ? "🌙 Dark" : "☀️ Light";
 }
 
 function safeGetLocalStorage(key) {
