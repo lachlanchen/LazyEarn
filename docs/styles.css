@@ -124,9 +124,9 @@ body::before {
 }
 
 .logo img {
-  width: clamp(120px, 14vw, 140px);
-  height: clamp(120px, 14vw, 140px);
-  border-radius: 18px;
+  width: clamp(84px, 10vw, 96px);
+  height: clamp(84px, 10vw, 96px);
+  border-radius: 14px;
   object-fit: contain;
   display: block;
   flex-shrink: 0;
