@@ -124,11 +124,14 @@ body::before {
 }
 
 .logo img {
-  width: 28px;
-  height: 28px;
-  border-radius: 6px;
+  width: clamp(120px, 14vw, 140px);
+  height: clamp(120px, 14vw, 140px);
+  border-radius: 18px;
   object-fit: contain;
   display: block;
+  flex-shrink: 0;
+  background: #fff;
+  padding: 6px;
 }
 
 .logo span,
