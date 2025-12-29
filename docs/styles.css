@@ -112,12 +112,23 @@ body::before {
 }
 
 .logo {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
   text-decoration: none;
   font-weight: 600;
   color: var(--text);
   letter-spacing: 0.04em;
   text-transform: lowercase;
   font-size: clamp(1.6rem, 2.5vw, 2.2rem);
+}
+
+.logo img {
+  width: 28px;
+  height: 28px;
+  border-radius: 6px;
+  object-fit: contain;
+  display: block;
 }
 
 .logo span,
