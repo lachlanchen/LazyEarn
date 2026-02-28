@@ -1,133 +1,117 @@
 [English](../README.md) · [العربية](README.ar.md) · [Español](README.es.md) · [Français](README.fr.md) · [日本語](README.ja.md) · [한국어](README.ko.md) · [Tiếng Việt](README.vi.md) · [中文 (简体)](README.zh-Hans.md) · [中文（繁體）](README.zh-Hant.md) · [Deutsch](README.de.md) · [Русский](README.ru.md)
 
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/lachlanchen/lachlanchen/main/logos/banner.png" alt="Bannière LazyingArt" />
-</p>
+[![LazyingArt banner](https://github.com/lachlanchen/lachlanchen/raw/main/figs/banner.png)](https://github.com/lachlanchen/lachlanchen/blob/main/figs/banner.png)
 
-# LazyEarn — Laboratoire de revenus passifs + gagner en partant de zéro
+Options de langue : **Français (version actuelle)**. Des variantes multilingues du README sont prévues dans `i18n/` (dossier existant).
+
+# LazyEarn — Laboratoire Lazy Money + Earn From Scratch
 
 [![Site](https://img.shields.io/badge/Site-earn.lazying.art-0ea5e9?logo=googlechrome&logoColor=white)](https://earn.lazying.art)
+[![Audience](https://img.shields.io/badge/Audience-Investing%20%2F%20Entrepreneurs-8b5cf6?logo=bookstack&logoColor=white)](https://github.com/lachlanchen/LazyEarn)
 [![Deploy](https://img.shields.io/badge/Deploy-GitHub%20Pages-222222?logo=githubpages&logoColor=white)](https://pages.github.com/)
 [![Sponsor](https://img.shields.io/badge/Sponsor-lachlanchen-ea4aaa?logo=githubsponsors&logoColor=white)](https://github.com/sponsors/lachlanchen)
-[![Stack](https://img.shields.io/badge/Stack-HTML%20%7C%20CSS%20%7C%20Vanilla%20JS-16a34a)](#-aperçu)
-[![i18n](https://img.shields.io/badge/i18n-9%20languages-f59e0b)](#-configuration)
+[![Stack](https://img.shields.io/badge/Stack-HTML%20%7C%20CSS%20%7C%20Vanilla%20JS-16a34a)](#overview)
+[![i18n](https://img.shields.io/badge/i18n-9%20languages-f59e0b)](#configuration)
+[![Mode](https://img.shields.io/badge/Mode-Static%20Frontend-10b981?logo=javascript&logoColor=white)](#overview)
 
-Earn.lazying.art est un guide de terrain cinématographique pour celles et ceux qui veulent que l’argent ressemble à un rituel lent plutôt qu’à un sprint. Le site présente trois couches: **Lazy Money**, **Lazy Earn**, **Earn From Scratch**. Ce dépôt prolonge ces récits avec des publications de recherche que vous pouvez remixer.
+Earn.lazying.art est un guide immersif pour celles et ceux qui veulent que l’argent cesse d’être un sprint et devienne un rituel continu. Le site montre trois couches : **Lazy Money**, **Lazy Earn**, **Earn From Scratch**. Ce dépôt prolonge ces récits avec des contenus de recherche que vous pouvez réutiliser.
 
-> _« Build less. Live more. »_ — l’esprit LazyEarn
+> _« Build less. Live more. »_ — L’esprit LazyEarn
+
+## 🗂️ Cartographie rapide
+
+| Emplacement | Objectif | Pourquoi c’est important |
+| --- | --- | --- |
+| `docs/` | Source du site public (`index.html`, `styles.css`, `script.js`) | Site visible qui alimente `earn.lazying.art` |
+| `investment/` | Fiches de recherche en Markdown | Source narrative et analytique de référence |
+| `investment_pdfs/` | Artéfacts LaTeX/PDF compilés | Livrables exploitables de qualité portfolio |
+| `figs/` | Ressources de marque | Identité visuelle et références de bannière |
+| `i18n/` | Fichiers README traduits | Points d’entrée multilingues du dépôt |
 
 ## 🧭 Aperçu
 
-LazyEarn est un projet statique de style GitHub Pages avec deux volets majeurs:
+LazyEarn est un projet statique orienté GitHub Pages avec deux volets principaux :
 
-1. Un frontend de production dans `docs/` (HTML, CSS, JS vanilla, chaînes i18n, pages de visualisation PDF intégrées).
-2. Un pipeline de recherche utilisant des briefs source en Markdown dans `investment/` et des artefacts LaTeX/PDF compilés dans `investment_pdfs/` (également reflétés dans `docs/investment_pdfs/` pour la diffusion web).
+1. Un frontend de production dans `docs/` (HTML, CSS, JS vanilla, chaînes i18n, pages intégrées de visualisation PDF).
+2. Un pipeline de recherche utilisant des briefs Markdown dans `investment/` et des artefacts LaTeX/PDF compilés dans `investment_pdfs/` (également répliqués dans `docs/investment_pdfs/` pour la diffusion web).
 
-Domaine de production principal (depuis `docs/CNAME`): `earn.lazying.art`.
+Domaine de production principal (depuis `docs/CNAME`) : `earn.lazying.art`.
 
-## 🛋️ Idées Lazy Money
+## 🧭 Vision et philosophie
 
-- **Encerclez le flux avant le travail.** Imaginez la boucle de revenus la plus confortable possible, puis n’ajoutez que les étapes nécessaires pour qu’elle tourne en continu.
-- **Concevez comme une galerie.** Panneaux en verre, statistiques flottantes, dégradés en boucle. Chaque visuel est là pour ralentir votre respiration et rendre la planification financière poétique.
-- **Curez la recherche comme une sortie lounge.** Les rapports se lisent comme la page d’accueil: chaleureux, conversationnels, généreux, et faciles à partager avec des amis ou des investisseurs.
+- **Tracer le flux avant le travail** : définir la boucle de revenus la plus utile, puis n’ajouter que les tâches nécessaires pour qu’elle tourne.
+- **Concevoir comme une galerie** : cartes vitrées, dégradés doux et motion apaisante pour que la planification financière paraisse intentionnelle.
+- **Curer la recherche comme une capsule de lounge** : les rapports sont rédigés pour être lus à la fois de manière narrative et décisionnelle.
 
 ## ✨ Fonctionnalités
 
-- Expérience d’accueil cinématographique couvrant les récits Lazy Money, Lazy Earn et Earn From Scratch.
-- Générateur Idea Playground pour des expériences de monétisation aléatoires.
-- Système i18n à l’exécution piloté par `docs/translations.json` avec repli en anglais.
-- Persistance de la langue via le local storage (`lazyEarnLang`).
-- Persistance du thème via le local storage (`lazyearn_theme`).
-- Vitrine de recherche avec téléchargement PDF direct, routes de visualisation intégrée et liens vers les sources Markdown.
-- Routage des slugs du visualiseur PDF via hash/query (`#high-growth`, `#financial-freedom`, `?file=financial-freedom-zh`, etc.).
+- Expérience d’accueil cinématique avec les récits Lazy Money, Lazy Earn et Earn From Scratch.
+- Générateur Idea Playground pour des expériences de monétisation randomisées.
+- Système i18n côté runtime alimenté par `docs/translations.json` avec repli vers l’anglais.
+- Clé de persistance de langue : `lazyEarnLang`.
+- Clé de persistance de thème : `lazyearn_theme`.
+- Vitrine de recherche avec téléchargement PDF direct, routes de visualiseur intégré et liens vers les sources Markdown.
+- Routage du visualiseur PDF par hash/query (`#high-growth`, `#financial-freedom`, `?file=financial-freedom-zh`, etc.).
+- Distribution compatible GitHub Pages sans étape de build pour la coquille du site.
 
 ## 🧩 Ce que contient le site
 
 | Section | Focus | Énergie |
 | --- | --- | --- |
-| **Lazy Money Lab** | Comment l’argent peut circuler pendant que vous vous reposez | Des boucles empilées, pas des tâches |
-| **Lazy Earn Stack** | Cartographie système pour automatisations, coffres d’idées et indice de relaxation | Structuré mais apaisant |
-| **Earn From Scratch** | Playbook Étincelle → Conception → Expansion pour débutants | Partir de zéro, éviter la culture du grind |
-| **Idea Playground** | Générateur interactif de nouvelles expériences lazy-earn | Touchez pour remixer des idées |
-| **Research Drop** | Étagère vivante pour briefs et dossiers écrits | Conviction long format |
+| **Lazy Money Lab** | Comment l’argent peut continuer à circuler pendant que vous vous reposez | Des boucles empilées, pas des tâches |
+| **Lazy Earn Stack** | Automatisation, coffre d’idées et indice de relaxation | Structuré mais calme |
+| **Earn From Scratch** | Étincelle → création → extension pour débutants | Commencer de zéro, sans culture du grind |
+| **Idea Playground** | Générateur interactif de nouveaux tests de monétisation | Touchez pour réaménager les idées |
+| **Research Drop** | Bibliothèque vivante de notes de type dossier d’investissement | Conviction longue durée |
 
-## 📈 Coffre de recherche investissement
+## 📈 Réserve de recherche investissement
 
-<table style="width:100%; border-collapse:collapse;">
-  <tr>
-    <th align="left" style="padding:8px; border-bottom:1px solid #ccc;">Ce que vous obtenez</th>
-    <th align="left" style="padding:8px; border-bottom:1px solid #ccc;">Markdown</th>
-    <th align="left" style="padding:8px; border-bottom:1px solid #ccc;">PDF</th>
-  </tr>
-  <tr>
-    <td style="padding:10px 8px;">
-      <strong>High-Growth Dossier</strong><br/>
-      Analyses narratives de neuf actions américaines (IA, biotech, semi-conducteurs, énergie propre, cloud), avec tableaux de potentiel et sources annotées.
-    </td>
-    <td style="padding:10px 8px; white-space:nowrap;">
-      <a href="https://github.com/lachlanchen/LazyEarn/blob/main/investment/high-growth-stocks.md">Markdown →</a>
-    </td>
-    <td style="padding:10px 8px; white-space:nowrap;">
-      <a href="https://earn.lazying.art/pdf-viewer.html#high-growth">PDF →</a>
-    </td>
-  </tr>
-  <tr>
-    <td style="padding:10px 8px;">
-      <strong>Financial Freedom Playbook</strong><br/>
-      Principes intemporels mêlés à des idées d’automatisation modernes: tableaux d’allocation du capital, rituels trimestriels et idées de noms pour de futurs drops Lazy Money.
-    </td>
-    <td style="padding:10px 8px; white-space:nowrap;">
-      <a href="https://github.com/lachlanchen/LazyEarn/blob/main/investment/financial_freedom.md">Markdown →</a>
-    </td>
-    <td style="padding:10px 8px; white-space:nowrap;">
-      <a href="https://earn.lazying.art/pdf-viewer.html#financial-freedom">PDF →</a>
-    </td>
-  </tr>
-  <tr>
-    <td style="padding:10px 8px;">
-      细腻讲解理性消费、复利投资、多元收入与自动化工具的组合，并附 Lazy Money 风格的资本分配与季度仪式。
-    </td>
-    <td style="padding:10px 8px; white-space:nowrap;">
-      <a href="https://github.com/lachlanchen/LazyEarn/blob/main/investment/financial_freedom_zh.md">Markdown →</a>
-    </td>
-    <td style="padding:10px 8px; white-space:nowrap;">
-      <a href="https://earn.lazying.art/pdf-viewer.html?file=financial-freedom-zh">PDF →</a>
-    </td>
-  </tr>
-</table>
+| Ce que vous obtenez | Markdown | PDF |
+| --- | --- | --- |
+| **Dossier High-Growth** | Couverture de neuf valeurs américaines avec tableaux de potentiel de hausse et analyse liée aux sources.
+Récits narratifs pour IA, biotech, semi-conducteurs, énergie propre et cloud.
+[`Open markdown`](https://github.com/lachlanchen/LazyEarn/blob/main/investment/high-growth-stocks.md) | [Open PDF](https://earn.lazying.art/pdf-viewer.html#high-growth) |
+| **Financial Freedom Playbook** | Principes + idées d’automatisation, tableaux d’allocation de capital, rituels trimestriels et nouvelles idées.
+[`Open markdown`](https://github.com/lachlanchen/LazyEarn/blob/main/investment/financial_freedom.md) | [Open PDF](https://earn.lazying.art/pdf-viewer.html#financial-freedom) |
+[`打开 Markdown`](https://github.com/lachlanchen/LazyEarn/blob/main/investment/financial_freedom_zh.md) | [打开 PDF](https://earn.lazying.art/pdf-viewer.html?file=financial-freedom-zh) |
 
 ## 🗂️ Structure du projet
 
 ```text
 LazyEarn/
 ├── README.md
-├── docs/                      # Site de production (source de vérité GitHub Pages)
-│   ├── index.html             # Page d’accueil principale
-│   ├── styles.css             # Styles du site
-│   ├── script.js              # Logique client, i18n/thème/stockage, générateur d’idées, routage PDF
-│   ├── translations.json      # Packs de traduction à l’exécution
-│   ├── pdf-viewer.html        # Visualiseur PDF paramétrable
-│   ├── research-viewer.html   # Page de recherche intégrée
-│   ├── CNAME                  # Domaine personnalisé: earn.lazying.art
-│   └── investment_pdfs/       # PDFs servis sur le web
-├── investment/                # Briefs de recherche en Markdown
-├── investment_pdfs/           # LaTeX + PDFs compilés
-├── figs/                      # Ressources de marque/bannière/logo
-└── i18n/                      # Ressources README multilingues
+├── AGENTS.md
+├── .github/
+│   └── FUNDING.yml
+├── docs/                      # Production site (GitHub Pages source of truth)
+│   ├── index.html             # Main landing page
+│   ├── styles.css             # Site styling
+│   ├── script.js              # i18n/theme/storage, idea generator, PDF routing
+│   ├── translations.json      # Runtime translation packs
+│   ├── pdf-viewer.html        # Parameterized PDF viewer
+│   ├── research-viewer.html   # Inline research page
+│   ├── CNAME                  # Custom domain: earn.lazying.art
+│   └── investment_pdfs/       # Web-delivered PDFs
+├── investment/                # Markdown research briefs
+├── investment_pdfs/           # LaTeX + compiled PDFs
+├── investment_pdfs/README.md  # Build notes for dossier workflow
+├── figs/                      # Brand assets (logo/banner)
+├── i18n/                     # Translated README variants
+└── .auto-readme-work/         # Pipeline scratch context
 ```
 
 ## 🧱 Prérequis
 
-Site principal:
+Pour le site principal :
 
-- N’importe quel navigateur moderne (pour l’aperçu local).
-- Aucune toolchain de build Node/Python requise.
+- N’importe quel navigateur moderne.
+- Aucune dépendance Node/Python n’est nécessaire pour exécuter le site.
 
-Workflow PDF de recherche (optionnel):
+Pour le workflow de génération de recherche (optionnel) :
 
-- `pandoc` (pour la génération Markdown → LaTeX).
-- `xelatex` (pour la compilation LaTeX → PDF).
+- `pandoc` (Markdown → LaTeX)
+- `xelatex` (LaTeX → PDF)
 
 ## 🚀 Installation
 
@@ -136,11 +120,11 @@ git clone https://github.com/lachlanchen/LazyEarn.git
 cd LazyEarn
 ```
 
-Aucune étape d’installation de paquet n’est nécessaire pour le site web lui-même.
+Aucune étape d’installation de dépendances n’est nécessaire pour le site lui-même.
 
 ## 🧪 Utilisation
 
-### 1. Prévisualiser le site en local
+### 1) Prévisualiser le site en local
 
 ```bash
 # macOS
@@ -150,16 +134,16 @@ open docs/index.html
 xdg-open docs/index.html
 ```
 
-### 2. Ouvrir les ressources de recherche
+### 2) Explorer les livrables de recherche
 
-- Exemples de visualisation intégrée:
+- Exemples de visualisation intégrée :
   - `docs/pdf-viewer.html#high-growth`
   - `docs/pdf-viewer.html#financial-freedom`
   - `docs/pdf-viewer.html?file=financial-freedom-zh`
-- PDFs directs dans `docs/investment_pdfs/...`
+- PDF directs dans `docs/investment_pdfs/...`
 - Sources Markdown dans `investment/...`
 
-### 3. Régénérer un dossier PDF (exemple)
+### 3) Régénérer un dossier PDF (exemple)
 
 ```bash
 pandoc investment/high-growth-stocks.md \
@@ -168,7 +152,7 @@ pandoc investment/high-growth-stocks.md \
 cd investment_pdfs/high-growth-stocks && xelatex high-growth-stocks.tex
 ```
 
-### 4. Compiler dans `build/` et synchroniser le PDF vers le site (workflow recommandé)
+### 4) Publier les PDF pour le site (workflow recommandé)
 
 ```bash
 cd investment_pdfs/high-growth-stocks
@@ -178,23 +162,22 @@ cp build/high-growth-stocks.pdf ./high-growth-stocks.pdf
 cp build/high-growth-stocks.pdf ../../docs/investment_pdfs/high-growth-stocks/high-growth-stocks.pdf
 ```
 
-Le `.gitignore` du dépôt exclut déjà les fichiers temporaires LaTeX et `investment_pdfs/**/build/*` (sauf `.gitkeep`).
+Le `.gitignore` du dépôt exclut déjà les sorties LaTeX temporaires et `investment_pdfs/**/build/*` (sauf `.gitkeep`).
 
 ## ⚙️ Configuration
 
-Le comportement à l’exécution repose sur des fichiers et le navigateur:
+Le comportement runtime est orienté navigateur et piloté par des fichiers :
 
-- Source des traductions: `docs/translations.json`
-- Texte de repli: intégré dans `docs/script.js` (anglais)
-- Clé de persistance de langue: `lazyEarnLang`
-- Clé de persistance de thème: `lazyearn_theme`
-- Attributs i18n du DOM utilisés par l’UI: `data-i18n`, `data-i18n-placeholder`
-
-Les packs de traduction actuellement détectés incluent: `en`, `zh-Hant`, `zh-Hans`, `ja`, `ko`, `vi`, `ar`, `fr`, `es`.
+- Source des traductions : `docs/translations.json`
+- Fallback anglais intégré dans `docs/script.js`
+- Attributs i18n DOM : `data-i18n`, `data-i18n-placeholder`
+- Clé de persistance de langue : `lazyEarnLang`
+- Clé de persistance de thème : `lazyearn_theme`
+- Packs de traduction observés dans `docs/translations.json` : `en`, `zh-Hant`, `zh-Hans`, `ja`, `ko`, `vi`, `ar`, `fr`, `es`
 
 ## 🔗 Exemples
 
-Utilisez des slugs de visualiseur précis pour un accès direct:
+Utilisez des slugs de visualiseur pour des liens profonds rapides :
 
 ```text
 # Hash-based
@@ -205,7 +188,7 @@ https://earn.lazying.art/pdf-viewer.html#financial-freedom
 https://earn.lazying.art/pdf-viewer.html?file=financial-freedom-zh
 ```
 
-Carte des slugs connus d’après le comportement du site:
+Slugs connus du comportement du site :
 
 - `high-growth`
 - `financial-freedom`
@@ -213,88 +196,56 @@ Carte des slugs connus d’après le comportement du site:
 
 ## 🛠️ Notes de développement
 
-- Les conventions de formatage de ce dépôt utilisent une indentation de deux espaces en HTML/CSS/JS.
-- Privilégiez des classes descriptives et des attributs de données i18n pour les éléments porteurs de texte.
-- Les briefs Markdown doivent utiliser des titres en sentence-case clairs et des noms de fichiers en lower-kebab-case.
-- Aucune suite de tests automatisés n’est actuellement configurée; une vérification manuelle est attendue.
+- Les conventions de formatage utilisent une indentation de deux espaces en HTML/CSS/JS.
+- Privilégiez des noms de classes descriptifs et des attributs i18n pour les éléments textuels.
+- Les briefs Markdown devraient utiliser des titres de style sentence-case et des noms de fichier en minuscules avec tirets.
+- Aucune suite de tests automatisée n’est actuellement configurée ; une vérification manuelle est attendue.
 
 ## 🧯 Dépannage
 
-- Les changements du JSON de traduction ne sont pas visibles:
-  - `docs/script.js` récupère `translations.json` avec `cache: "no-store"`; faites un rechargement forcé du navigateur si des données obsolètes persistent.
-- Les préférences de langue/thème semblent bloquées:
-  - Effacez les clés de local storage `lazyEarnLang` et `lazyearn_theme` pour l’origine du site.
-- Le PDF ne s’affiche pas dans le visualiseur:
-  - Confirmez que le fichier existe dans `docs/investment_pdfs/...` et que le slug/hash correspond aux valeurs attendues.
-- Avertissements/erreurs de build LaTeX:
-  - Relancez `xelatex` plusieurs fois le temps que les références se stabilisent; vérifiez les polices et les liens en ouvrant le PDF généré.
+- Les changements du JSON i18n semblent obsolètes :
+  - Faites un hard-refresh après vos modifications (le chargement utilise une logique sensible au cache).
+- Les préférences de langue/thème ne se mettent pas à jour :
+  - Effacez les clés de stockage local `lazyEarnLang` et `lazyearn_theme` pour l’origine `earn.lazying.art`.
+- Le visualiseur PDF est vide :
+  - Confirmez que le PDF visé existe dans `docs/investment_pdfs/...` et que le slug/hash correspond exactement.
+- La compilation LaTeX affiche des warnings ou erreurs de citation :
+  - Relancez `xelatex` après correction des problèmes de police/liens et vérifiez directement le PDF généré.
 
 ## 🗺️ Feuille de route
 
-- Étendre et maintenir les variantes README multilingues dans `i18n/` avec une stratégie de ligne d’options de langue canonique unique.
+- Étendre les variantes README multilingues et garder la liste de changement de langue synchronisée.
 - Clarifier/documenter les différences canoniques entre `docs/pdf-viewer.html` et `docs/research-viewer.html`.
-- Ajouter des vérifications CI légères pour l’intégrité Markdown/liens et une validation optionnelle de build PDF.
-- Continuer à enrichir le coffre de recherche avec des livrables Markdown + PDF appariés.
+- Ajouter des contrôles CI légers pour l’intégrité des liens Markdown et une validation PDF optionnelle.
+- Poursuivre l’enrichissement du coffre de recherche avec des livrables Markdown + PDF appariés.
 
-## 🤝 Contribuer
+## 🤝 Contribution
 
-N’hésitez pas à forker, remixer ou proposer des PR d’amélioration: finition visuelle, nouvelles expériences lazy-money, ajustements d’accessibilité ou couches de traduction sont tous bienvenus.  
-Ouvrez une issue si vous souhaitez coordonner des orientations créatives plus ambitieuses.
+N’hésitez pas à forker, réutiliser ou proposer des PR d’amélioration : finition visuelle, nouveaux essais de revenus paresseux, accessibilité ou couches de traduction sont les bienvenus.
 
-Checklist PR (recommandée):
+Checklist PR recommandée :
 
 - Décrire clairement le changement visible pour l’utilisateur.
-- Mentionner les ressources liées (Markdown + PDF) si applicable.
-- Inclure des captures d’écran/prévisualisations PDF pour les changements visuels.
-- Confirmer la vérification manuelle (aperçu navigateur, test d’ouverture PDF).
+- Mentionner les actifs associés (`investment/` + `investment_pdfs/`) quand pertinent.
+- Ajouter captures d’écran ou prévisualisations PDF pour les changements visuels.
+- Confirmer la vérification manuelle (prévisualisation navigateur, test d’ouverture de PDF).
 
-## ❤️ Soutenir le Lazy Lab
+## ❤️ Support
 
-Maintenir des expériences ouvertes et soignées demande du temps, du design et de l’hébergement. Si ce projet vous a donné des idées ou vous a aidé à raconter votre histoire, vous pouvez soutenir l’écosystème Lazying au sens large.
+| Donate | PayPal | Stripe |
+| --- | --- | --- |
+| [![Donate](https://camo.githubusercontent.com/24a4914f0b42c6f435f9e101621f1e52535b02c225764b2f6cc99416926004b7/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f446f6e6174652d4c617a79696e674172742d3045413545393f7374796c653d666f722d7468652d6261646765266c6f676f3d6b6f2d6669266c6f676f436f6c6f723d7768697465)](https://chat.lazying.art/donate) | [![PayPal](https://camo.githubusercontent.com/d0f57e8b016517a4b06961b24d0ca87d62fdba16e18bbdb6aba28e978dc0ea21/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f50617950616c2d526f6e677a686f754368656e2d3030343537433f7374796c653d666f722d7468652d6261646765266c6f676f3d70617970616c266c6f676f436f6c6f723d7768697465)](https://paypal.me/RongzhouChen) | [![Stripe](https://camo.githubusercontent.com/1152dfe04b6943afe3a8d2953676749603fb9f95e24088c92c97a01a897b4942/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f5374726970652d446f6e6174652d3633354246463f7374796c653d666f722d7468652d6261646765266c6f676f3d737472697065266c6f676f436f6c6f723d7768697465)](https://buy.stripe.com/aFadR8gIaflgfQV6T4fw400) |
 
-<div align="center">
-<table style="margin:0 auto; text-align:center; border-collapse:collapse;">
-  <tr>
-    <td style="text-align:center; vertical-align:middle; padding:6px 12px;">
-      <a href="https://chat.lazying.art/donate">https://chat.lazying.art/donate</a>
-    </td>
-    <td style="text-align:center; vertical-align:middle; padding:6px 12px;">
-      <a href="https://chat.lazying.art/donate"><img src="https://raw.githubusercontent.com/lachlanchen/lachlanchen/main/figs/donate_button.svg" alt="Faire un don" height="44"></a>
-    </td>
-  </tr>
-  <tr>
-    <td style="text-align:center; vertical-align:middle; padding:6px 12px;">
-      <a href="https://paypal.me/RongzhouChen">
-        <img src="https://img.shields.io/badge/PayPal-Donate-003087?logo=paypal&logoColor=white" alt="Faire un don avec PayPal">
-      </a>
-    </td>
-    <td style="text-align:center; vertical-align:middle; padding:6px 12px;">
-      <a href="https://buy.stripe.com/aFadR8gIaflgfQV6T4fw400">
-        <img src="https://img.shields.io/badge/Stripe-Donate-635bff?logo=stripe&logoColor=white" alt="Faire un don avec Stripe">
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td style="text-align:center; vertical-align:middle; padding:6px 12px;"><strong>WeChat</strong></td>
-    <td style="text-align:center; vertical-align:middle; padding:6px 12px;"><strong>Alipay</strong></td>
-  </tr>
-  <tr>
-    <td style="text-align:center; vertical-align:middle; padding:6px 12px;"><img alt="QR WeChat" src="https://raw.githubusercontent.com/lachlanchen/lachlanchen/main/figs/donate_wechat.png" width="240"/></td>
-    <td style="text-align:center; vertical-align:middle; padding:6px 12px;"><img alt="QR Alipay" src="https://raw.githubusercontent.com/lachlanchen/lachlanchen/main/figs/donate_alipay.png" width="240"/></td>
-  </tr>
-</table>
-</div>
+## 📬 Contact
 
-**支援 / Donate**
+- Email : `lach@lazying.art`
+- Compte X : @lachlanchen
+- Coordination communauté et idées : MP sur les réseaux sociaux et les fils d’issue du dépôt.
 
-- ご支援は研究・開発と運用の継続に役立ち、より多くのオープンなプロジェクトを皆さんに届ける力になります。  
-- 你的支持将用于研发与运维，帮助我持续公开分享更多项目与改进。  
-- Votre soutien finance ma recherche, le développement et les opérations afin que je puisse continuer à partager davantage de projets ouverts et d’améliorations.
+Informations de financement supplémentaires dans les métadonnées du dépôt :
 
-Signaux supplémentaires de sponsor/financement dans les métadonnées du dépôt:
-
-- GitHub Sponsors: `lachlanchen`
-- Les liens de financement personnalisés incluent:
+- GitHub Sponsors : `lachlanchen`
+- Liens de soutien :
   - `https://github.com/sponsors/lachlanchen`
   - `https://lazying.art`
   - `https://chat.lazying.art`
@@ -304,8 +255,6 @@ Signaux supplémentaires de sponsor/financement dans les métadonnées du dépô
 
 Aucun fichier `LICENSE` n’est actuellement présent dans ce dépôt.
 
-Hypothèse pour les contributeurs: tant qu’une licence n’est pas ajoutée par les mainteneurs, les droits et conditions de réutilisation ne sont pas explicitement accordés. Si ce n’est pas intentionnel, ajoutez un fichier de licence (par exemple MIT/Apache-2.0/variante CC selon l’intention du projet).
+En attendant qu’un fichier de licence explicite soit ajouté par les mainteneurs, les droits et conditions de réutilisation ne sont pas formellement accordés.
 
----
-
-Questions, collaborations ou idées lazy-money amusantes? DM @lachlanchen ou email `lach@lazying.art`.
+Si vous voulez rapidement poser une base de réutilisation ouverte, ajoutez une licence standard (MIT / Apache-2.0 / variante CC) adaptée à l’intention du projet.

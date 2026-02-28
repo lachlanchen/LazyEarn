@@ -1,133 +1,114 @@
 [English](../README.md) · [العربية](README.ar.md) · [Español](README.es.md) · [Français](README.fr.md) · [日本語](README.ja.md) · [한국어](README.ko.md) · [Tiếng Việt](README.vi.md) · [中文 (简体)](README.zh-Hans.md) · [中文（繁體）](README.zh-Hant.md) · [Deutsch](README.de.md) · [Русский](README.ru.md)
 
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/lachlanchen/lachlanchen/main/logos/banner.png" alt="LazyingArt banner" />
-</p>
+[![LazyingArt banner](https://github.com/lachlanchen/lachlanchen/raw/main/figs/banner.png)](https://github.com/lachlanchen/lachlanchen/blob/main/figs/banner.png)
+
 
 # LazyEarn — Lazy Money Lab + Earn From Scratch
 
 [![Site](https://img.shields.io/badge/Site-earn.lazying.art-0ea5e9?logo=googlechrome&logoColor=white)](https://earn.lazying.art)
+[![Audience](https://img.shields.io/badge/Audience-Investing%20%2F%20Entrepreneurs-8b5cf6?logo=bookstack&logoColor=white)](https://github.com/lachlanchen/LazyEarn)
 [![Deploy](https://img.shields.io/badge/Deploy-GitHub%20Pages-222222?logo=githubpages&logoColor=white)](https://pages.github.com/)
 [![Sponsor](https://img.shields.io/badge/Sponsor-lachlanchen-ea4aaa?logo=githubsponsors&logoColor=white)](https://github.com/sponsors/lachlanchen)
 [![Stack](https://img.shields.io/badge/Stack-HTML%20%7C%20CSS%20%7C%20Vanilla%20JS-16a34a)](#overview)
 [![i18n](https://img.shields.io/badge/i18n-9%20languages-f59e0b)](#configuration)
+[![Mode](https://img.shields.io/badge/Mode-Static%20Frontend-10b981?logo=javascript&logoColor=white)](#overview)
 
-Earn.lazying.art 是一份帶有電影感的實作指南，寫給希望把金錢變成慢節奏儀式、而不是衝刺賽的人。網站分成三層敘事：**Lazy Money**、**Lazy Earn**、**Earn From Scratch**。這個倉庫延續了這些故事，並提供可自由重組的研究內容。
+Earn.lazying.art 是一本偏向「慢節奏儀式」的金錢實戰手冊，而不是催促你衝刺的操作指南。網站透過三層敘事展開：**Lazy Money**、**Lazy Earn**、**Earn From Scratch**，而這個 repository 則延續這些故事，提供可重組、可再創作的研究素材。
 
-> _「Build less. Live more.」_ — LazyEarn ethos
+> _「Build less. Live more.」_ — LazyEarn 理念
+
+## 🗂️ 快照總覽
+
+| 位置 | 用途 | 為何重要 |
+| --- | --- | --- |
+| `docs/` | 正式站台原始碼（`index.html`、`styles.css`、`script.js`） | 為 `earn.lazying.art` 提供正式服務的前端 |
+| `investment/` | Markdown 研究簡報 | 研究敘事與分析的權威來源 |
+| `investment_pdfs/` | 編譯完成的 LaTeX/PDF 檔案 | 可共享、可展示等級的成果輸出 |
+| `figs/` | 品牌素材 | 視覺識別與橫幅（banner）參考 |
+| `i18n/` | README 翻譯檔 | 多語版本入口 |
 
 ## 🧭 概覽
 
-LazyEarn 是一個靜態、GitHub Pages 風格的專案，主要由兩大部分組成：
+LazyEarn 是一個以 GitHub Pages 為導向的靜態專案，核心由兩大區塊組成：
 
-1. `docs/` 內的正式前端（HTML、CSS、vanilla JS、i18n 字串、內嵌 PDF 檢視頁）。
-2. 研究內容流程：`investment/` 的 Markdown 原始報告，與 `investment_pdfs/` 的 LaTeX/PDF 編譯產物（亦同步到 `docs/investment_pdfs/` 供網站使用）。
+1. `docs/` 的正式前端（HTML、CSS、vanilla JS、i18n 字串、內嵌 PDF 檢視頁）。
+2. 研究流程：`investment/` 中的 Markdown 原始簡報，以及 `investment_pdfs/` 的編譯 LaTeX/PDF（也會同步到 `docs/investment_pdfs/` 供網站投放）。
 
-主要正式網域（來自 `docs/CNAME`）：`earn.lazying.art`。
+正式上線主網域（來自 `docs/CNAME`）：`earn.lazying.art`。
 
-## 🛋️ Lazy money ideas
+## 🧭 願景與方法論
 
-- **先圈出現金流，再開始工作。** 先構想最理想、最舒適的收入循環，再只加入能讓它順暢運轉的必要步驟。
-- **像策展一樣設計。** 玻璃感面板、懸浮數據、循環漸層。每個視覺元素都用來放慢呼吸，讓理財規劃更像詩。
-- **把研究做成 lounge drop。** 報告讀起來要像首頁一樣：溫暖、對話感、帶點奢華，能自然分享給朋友或投資人。
+- **先畫出流動再開始工作**：先構築高品質的現金流迴路，再只補上讓它持續運作的任務。
+- **像畫廊一樣設計**：玻璃感卡片、柔和漸層、平靜動效，讓規劃金錢也能帶有意圖與儀式感。
+- **把研究打磨成 lounge drop**：報告同時兼具敘事可讀性與決策可用性。
 
-## ✨ 功能
+## ✨ 功能特色
 
-- 具電影感的首頁體驗，涵蓋 Lazy Money、Lazy Earn、Earn From Scratch 三層敘事。
-- Idea Playground 生成器，可隨機產生變現實驗靈感。
-- 由 `docs/translations.json` 驅動、具英文後備的執行期 i18n 系統。
-- 使用 local storage 保存語言偏好（`lazyEarnLang`）。
-- 使用 local storage 保存主題偏好（`lazyearn_theme`）。
-- 研究展示區提供 PDF 直接下載、內嵌檢視路由與 Markdown 原始連結。
-- PDF 檢視器支援 hash/query slug 路由（`#high-growth`、`#financial-freedom`、`?file=financial-freedom-zh` 等）。
+- 具電影感的落地頁體驗，整合 **Lazy Money**、**Lazy Earn**、**Earn From Scratch** 三條敘事線。
+- Idea Playground 生成器可隨機產生變現實驗靈感。
+- 由 `docs/translations.json` 驅動的執行期 i18n，並以英文為 fallback。
+- 語言保存鍵：`lazyEarnLang`。
+- 主題保存鍵：`lazyearn_theme`。
+- 研究展示支援直接下載 PDF、內嵌檢視路由，以及 Markdown 原文連結。
+- PDF 檢視器支援 hash/query 路由（`#high-growth`、`#financial-freedom`、`?file=financial-freedom-zh` 等）。
+- GitHub Pages 相容的靜態發佈，不需為網站外殼額外建置步驟。
 
 ## 🧩 網站內容
 
-| 區塊 | 核心 | 調性 |
+| 區塊 | 專注 | 感受 |
 | --- | --- | --- |
-| **Lazy Money Lab** | 研究如何在你休息時讓資金持續流動 | 疊加循環，不靠待辦清單 |
-| **Lazy Earn Stack** | 自動化、靈感資料庫與放鬆指數的系統地圖 | 結構清晰但節奏平穩 |
-| **Earn From Scratch** | 給新手的 Spark → Craft → Stretch 操作手冊 | 從零開始，避開苦幹文化 |
-| **Idea Playground** | 互動式生成器，探索新的 lazy-earn 實驗 | 點一下就能重混想法 |
-| **Research Drop** | 持續更新的報告與研究檔案書架 | 長文深度、建立信念 |
+| **Lazy Money Lab** | 讓你休息時也能讓資金繼續流動 | 疊加式迴路，不是待辦清單 |
+| **Lazy Earn Stack** | 自動化路徑圖、靈感庫與放鬆指數 | 結構完整，但語氣平靜 |
+| **Earn From Scratch** | 為新手設計的 Spark → Craft → Stretch | 從零開始，遠離硬拼文化 |
+| **Idea Playground** | 互動式產生器，快速混合新嘗試 | 點一下就可重組想法 |
+| **Research Drop** | 持續更新的投資風格簡報 | 深度敘述 + 決策信心 |
 
-## 📈 投資研究資料庫
+## 📈 投資研究資料倉
 
-<table style="width:100%; border-collapse:collapse;">
-  <tr>
-    <th align="left" style="padding:8px; border-bottom:1px solid #ccc;">你會拿到什麼</th>
-    <th align="left" style="padding:8px; border-bottom:1px solid #ccc;">Markdown</th>
-    <th align="left" style="padding:8px; border-bottom:1px solid #ccc;">PDF</th>
-  </tr>
-  <tr>
-    <td style="padding:10px 8px;">
-      <strong>High-Growth Dossier</strong><br/>
-      針對九檔美股（AI、生技、半導體、潔淨能源、雲端）提供敘事式解析，包含上行空間表格與註解來源。
-    </td>
-    <td style="padding:10px 8px; white-space:nowrap;">
-      <a href="https://github.com/lachlanchen/LazyEarn/blob/main/investment/high-growth-stocks.md">Markdown →</a>
-    </td>
-    <td style="padding:10px 8px; white-space:nowrap;">
-      <a href="https://earn.lazying.art/pdf-viewer.html#high-growth">PDF →</a>
-    </td>
-  </tr>
-  <tr>
-    <td style="padding:10px 8px;">
-      <strong>Financial Freedom Playbook</strong><br/>
-      以恆久原則融合現代自動化思路：資本配置表、季度儀式，以及未來 Lazy Money 內容的命名靈感。
-    </td>
-    <td style="padding:10px 8px; white-space:nowrap;">
-      <a href="https://github.com/lachlanchen/LazyEarn/blob/main/investment/financial_freedom.md">Markdown →</a>
-    </td>
-    <td style="padding:10px 8px; white-space:nowrap;">
-      <a href="https://earn.lazying.art/pdf-viewer.html#financial-freedom">PDF →</a>
-    </td>
-  </tr>
-  <tr>
-    <td style="padding:10px 8px;">
-      細膩講解理性消費、複利投資、多元收入與自動化工具的組合，並附 Lazy Money 風格的資本配置與季度儀式。
-    </td>
-    <td style="padding:10px 8px; white-space:nowrap;">
-      <a href="https://github.com/lachlanchen/LazyEarn/blob/main/investment/financial_freedom_zh.md">Markdown →</a>
-    </td>
-    <td style="padding:10px 8px; white-space:nowrap;">
-      <a href="https://earn.lazying.art/pdf-viewer.html?file=financial-freedom-zh">PDF →</a>
-    </td>
-  </tr>
-</table>
+| 你會拿到什麼 | Markdown | PDF |
+| --- | --- | --- |
+| **High-Growth Dossier** | 九檔美股覆蓋報告，含上行空間表與來源連結分析。
+另附 AI、生技、半導體、清潔能源、雲端的敘事梳理。 | [`Open markdown`](https://github.com/lachlanchen/LazyEarn/blob/main/investment/high-growth-stocks.md) | [Open PDF](https://earn.lazying.art/pdf-viewer.html#high-growth) |
+| **Financial Freedom Playbook** | 原則框架 + 自動化構想、資本配置表、季度儀式與新想法種子。 | [`Open markdown`](https://github.com/lachlanchen/LazyEarn/blob/main/investment/financial_freedom.md) | [Open PDF](https://earn.lazying.art/pdf-viewer.html#financial-freedom) |
+涵蓋理性消費、複利、收入結構與成長節奏。 | [`打開 Markdown`](https://github.com/lachlanchen/LazyEarn/blob/main/investment/financial_freedom_zh.md) | [打開 PDF](https://earn.lazying.art/pdf-viewer.html?file=financial-freedom-zh) |
 
 ## 🗂️ 專案結構
 
 ```text
 LazyEarn/
 ├── README.md
-├── docs/                      # 正式網站（GitHub Pages 來源真實檔）
-│   ├── index.html             # 主登入頁
-│   ├── styles.css             # 網站樣式
-│   ├── script.js              # 用戶端邏輯：i18n/主題/儲存、靈感生成器、PDF 路由
-│   ├── translations.json      # 執行期翻譯包
-│   ├── pdf-viewer.html        # 參數化 PDF 檢視器
-│   ├── research-viewer.html   # 內嵌研究頁
-│   ├── CNAME                  # 自訂網域：earn.lazying.art
-│   └── investment_pdfs/       # 網站可直接提供的 PDF
-├── investment/                # Markdown 研究簡報
-├── investment_pdfs/           # LaTeX + 編譯後 PDF
-├── figs/                      # 品牌橫幅/Logo 素材
-└── i18n/                      # 多語 README 資源目錄
+├── AGENTS.md
+├── .github/
+│   └── FUNDING.yml
+├── docs/                      # Production site (GitHub Pages source of truth)
+│   ├── index.html             # Main landing page
+│   ├── styles.css             # Site styling
+│   ├── script.js              # i18n/theme/storage, idea generator, PDF routing
+│   ├── translations.json      # Runtime translation packs
+│   ├── pdf-viewer.html        # Parameterized PDF viewer
+│   ├── research-viewer.html   # Inline research page
+│   ├── CNAME                  # Custom domain: earn.lazying.art
+│   └── investment_pdfs/       # Web-delivered PDFs
+├── investment/                # Markdown research briefs
+├── investment_pdfs/           # LaTeX + compiled PDFs
+├── investment_pdfs/README.md  # Build notes for dossier workflow
+├── figs/                      # Brand assets (logo/banner)
+├── i18n/                     # Translated README variants
+└── .auto-readme-work/         # Pipeline scratch context
 ```
 
 ## 🧱 先決條件
 
-核心網站：
+核心網站:
 
-- 任何現代瀏覽器（用於本機預覽）。
-- 不需要 Node/Python 建置工具鏈。
+- 任一現代瀏覽器。
+- 運行網站本身不需要安裝 Node/Python 套件。
 
-研究 PDF 流程（可選）：
+研究流程（可選）:
 
-- `pandoc`（Markdown → LaTeX）。
-- `xelatex`（LaTeX → PDF）。
+- `pandoc`（Markdown → LaTeX）
+- `xelatex`（LaTeX → PDF）
 
 ## 🚀 安裝
 
@@ -136,11 +117,11 @@ git clone https://github.com/lachlanchen/LazyEarn.git
 cd LazyEarn
 ```
 
-網站本身不需要額外的套件安裝步驟。
+網站本身無需額外安裝相依套件。
 
 ## 🧪 使用方式
 
-### 1. 在本機預覽網站
+### 1) 本機預覽站點
 
 ```bash
 # macOS
@@ -150,16 +131,16 @@ open docs/index.html
 xdg-open docs/index.html
 ```
 
-### 2. 開啟研究資產
+### 2) 探索研究輸出
 
 - 內嵌檢視器範例：
   - `docs/pdf-viewer.html#high-growth`
   - `docs/pdf-viewer.html#financial-freedom`
   - `docs/pdf-viewer.html?file=financial-freedom-zh`
-- 直接 PDF 位於 `docs/investment_pdfs/...`
-- 原始 Markdown 位於 `investment/...`
+- `docs/investment_pdfs/...` 的直接 PDF
+- `investment/...` 中的源 Markdown
 
-### 3. 重新產生研究 PDF（範例）
+### 3) 重新產生研究報告 PDF（示例）
 
 ```bash
 pandoc investment/high-growth-stocks.md \
@@ -168,7 +149,7 @@ pandoc investment/high-growth-stocks.md \
 cd investment_pdfs/high-growth-stocks && xelatex high-growth-stocks.tex
 ```
 
-### 4. 建置到 `build/` 並同步 PDF 到網站（建議流程）
+### 4) 釋出網站用 PDF（建議流程）
 
 ```bash
 cd investment_pdfs/high-growth-stocks
@@ -178,23 +159,22 @@ cp build/high-growth-stocks.pdf ./high-growth-stocks.pdf
 cp build/high-growth-stocks.pdf ../../docs/investment_pdfs/high-growth-stocks/high-growth-stocks.pdf
 ```
 
-倉庫中的 `.gitignore` 已排除 LaTeX 暫存輸出與 `investment_pdfs/**/build/*`（`.gitkeep` 除外）。
+Repo 的 `.gitignore` 已排除 LaTeX 的暫存輸出與 `investment_pdfs/**/build/*`（`.gitkeep` 除外）。
 
-## ⚙️ 設定
+## ⚙️ 配置
 
-執行期行為由檔案與瀏覽器端控制：
+執行期行為以瀏覽器與檔案驅動：
 
 - 翻譯來源：`docs/translations.json`
-- 後備文案：`docs/script.js` 內嵌（英文）
-- 語言儲存 key：`lazyEarnLang`
-- 主題儲存 key：`lazyearn_theme`
-- UI 使用的 i18n DOM 屬性：`data-i18n`、`data-i18n-placeholder`
-
-目前偵測到的翻譯包包含：`en`、`zh-Hant`、`zh-Hans`、`ja`、`ko`、`vi`、`ar`、`fr`、`es`。
+- 英文 fallback 文字內嵌於 `docs/script.js`
+- i18n DOM 屬性：`data-i18n`、`data-i18n-placeholder`
+- 語言保存鍵：`lazyEarnLang`
+- 主題保存鍵：`lazyearn_theme`
+- `docs/translations.json` 目前包含的語系：`en`、`zh-Hant`、`zh-Hans`、`ja`、`ko`、`vi`、`ar`、`fr`、`es`
 
 ## 🔗 範例
 
-可用指定的 viewer slug 直接存取：
+可用直接的 viewer slug 進行快速深鏈：
 
 ```text
 # Hash-based
@@ -205,96 +185,64 @@ https://earn.lazying.art/pdf-viewer.html#financial-freedom
 https://earn.lazying.art/pdf-viewer.html?file=financial-freedom-zh
 ```
 
-根據網站行為整理的已知 slug：
+網站行為中已知的 slug：
 
 - `high-growth`
 - `financial-freedom`
 - `financial-freedom-zh`
 
-## 🛠️ 開發說明
+## 🛠️ 開發備註
 
-- 本倉庫格式慣例：HTML/CSS/JS 皆使用兩個空白縮排。
-- 建議對文案元素使用描述性 class 與 i18n data 屬性。
-- Markdown 報告建議使用清楚的 sentence-case 標題與 lower-kebab-case 檔名。
-- 目前未配置自動化測試；需進行手動驗證。
+- HTML/CSS/JS 格式約定採用兩個空格縮排。
+- 建議對承載文案的元素使用描述式 class 名稱與 i18n data 屬性。
+- Markdown 報告建議使用 sentence case 標題與 lower-kebab-case 檔名。
+- 目前未配置自動化測試，建議進行手動驗證。
 
 ## 🧯 疑難排解
 
-- 翻譯 JSON 修改後看不到變化：
-  - `docs/script.js` 以 `cache: "no-store"` 取得 `translations.json`；若仍有快取請強制重新整理。
-- 語言/主題偏好看起來被鎖住：
-  - 清除該網站來源下 local storage 的 `lazyEarnLang` 與 `lazyearn_theme`。
-- PDF 在檢視器無法顯示：
-  - 確認檔案存在於 `docs/investment_pdfs/...`，且 slug/hash 與預期值一致。
-- LaTeX 建置警告/錯誤：
-  - 交叉引用穩定前可重跑 `xelatex` 多次；並以開啟產生的 PDF 檢查字型與連結。
+- Translation JSON 修改後看似未更新：
+  - 重新整理頁面（loader 有快取感知的取檔行為）。
+- 語言/主題偏好沒有更新：
+  - 清除 `earn.lazying.art` 網域下的 local storage 鍵 `lazyEarnLang` 與 `lazyearn_theme`。
+- PDF 檢視器空白：
+  - 確認 `docs/investment_pdfs/...` 中有目標 PDF，且 slug/hash 完全一致。
+- LaTeX 建置出現警告或引用錯誤：
+  - 解決字型與連結問題後再次執行 `xelatex`，並直接開啟生成的 PDF 檢查。
 
 ## 🗺️ 路線圖
 
-- 持續擴充並維護 `i18n/` 下的多語 README，採用單一 canonical 語言導覽列策略。
-- 釐清並文件化 `docs/pdf-viewer.html` 與 `docs/research-viewer.html` 的正規差異。
-- 新增輕量 CI 檢查：Markdown/連結完整性與可選的 PDF 建置驗證。
-- 持續擴充研究資料庫，維持 Markdown + PDF 成對交付。
+- 擴展更多語系 README，並持續同步語言切換清單。
+- 明確補充 `docs/pdf-viewer.html` 與 `docs/research-viewer.html` 之間的規格差異。
+- 加入輕量 CI 檢查 Markdown 連結完整性與可選 PDF 建置驗證。
+- 持續擴充研究倉，保持 Markdown 與 PDF 雙版本交付。
 
 ## 🤝 貢獻
 
-歡迎 fork、remix 或提交 PR 改進：視覺打磨、新的 lazy-money 實驗、無障礙優化或翻譯層都很歡迎。  
-若想協作較大型的創意方向，也歡迎先開 issue 討論。
+歡迎 fork、重混，或提交 PR 改進：包含視覺優化、新 Lazy-money 實驗、無障礙改善、或翻譯層都很歡迎。
 
-PR 檢查清單（建議）：
+建議 PR 清單：
 
 - 清楚描述使用者可見的變更。
-- 有關聯的資產（Markdown + PDF）請一併說明。
-- 視覺變更請附截圖/PDF 預覽。
-- 確認手動驗證（瀏覽器預覽、PDF 開啟測試）。
+- 若適用，註明相關資產（`investment/` + `investment_pdfs/`）。
+- 視覺或文件更新請附上截圖與 PDF 預覽。
+- 確認已進行手動驗證（瀏覽器預覽、PDF 開啟測試）。
 
-## ❤️ 支持 Lazy Lab
+## ❤️ Support
 
-維護開放且具美感的實驗，需要時間、設計與主機成本。如果這個專案啟發了你，或幫助你更好地說出自己的故事，歡迎支持更廣泛的 Lazying 生態。
+| Donate | PayPal | Stripe |
+| --- | --- | --- |
+| [![Donate](https://camo.githubusercontent.com/24a4914f0b42c6f435f9e101621f1e52535b02c225764b2f6cc99416926004b7/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f446f6e6174652d4c617a79696e674172742d3045413545393f7374796c653d666f722d7468652d6261646765266c6f676f3d6b6f2d6669266c6f676f436f6c6f723d7768697465)](https://chat.lazying.art/donate) | [![PayPal](https://camo.githubusercontent.com/d0f57e8b016517a4b06961b24d0ca87d62fdba16e18bbdb6aba28e978dc0ea21/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f50617950616c2d526f6e677a686f754368656e2d3030343537433f7374796c653d666f722d7468652d6261646765266c6f676f3d70617970616c266c6f676f436f6c6f723d7768697465)](https://paypal.me/RongzhouChen) | [![Stripe](https://camo.githubusercontent.com/1152dfe04b6943afe3a8d2953676749603fb9f95e24088c92c97a01a897b4942/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f5374726970652d446f6e6174652d3633354246463f7374796c653d666f722d7468652d6261646765266c6f676f3d737472697065266c6f676f436f6c6f723d7768697465)](https://buy.stripe.com/aFadR8gIaflgfQV6T4fw400) |
 
-<div align="center">
-<table style="margin:0 auto; text-align:center; border-collapse:collapse;">
-  <tr>
-    <td style="text-align:center; vertical-align:middle; padding:6px 12px;">
-      <a href="https://chat.lazying.art/donate">https://chat.lazying.art/donate</a>
-    </td>
-    <td style="text-align:center; vertical-align:middle; padding:6px 12px;">
-      <a href="https://chat.lazying.art/donate"><img src="https://raw.githubusercontent.com/lachlanchen/lachlanchen/main/figs/donate_button.svg" alt="Donate" height="44"></a>
-    </td>
-  </tr>
-  <tr>
-    <td style="text-align:center; vertical-align:middle; padding:6px 12px;">
-      <a href="https://paypal.me/RongzhouChen">
-        <img src="https://img.shields.io/badge/PayPal-Donate-003087?logo=paypal&logoColor=white" alt="Donate with PayPal">
-      </a>
-    </td>
-    <td style="text-align:center; vertical-align:middle; padding:6px 12px;">
-      <a href="https://buy.stripe.com/aFadR8gIaflgfQV6T4fw400">
-        <img src="https://img.shields.io/badge/Stripe-Donate-635bff?logo=stripe&logoColor=white" alt="Donate with Stripe">
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td style="text-align:center; vertical-align:middle; padding:6px 12px;"><strong>WeChat</strong></td>
-    <td style="text-align:center; vertical-align:middle; padding:6px 12px;"><strong>Alipay</strong></td>
-  </tr>
-  <tr>
-    <td style="text-align:center; vertical-align:middle; padding:6px 12px;"><img alt="WeChat QR" src="https://raw.githubusercontent.com/lachlanchen/lachlanchen/main/figs/donate_wechat.png" width="240"/></td>
-    <td style="text-align:center; vertical-align:middle; padding:6px 12px;"><img alt="Alipay QR" src="https://raw.githubusercontent.com/lachlanchen/lachlanchen/main/figs/donate_alipay.png" width="240"/></td>
-  </tr>
-</table>
-</div>
+## 📬 聯繫方式
 
-**支援 / Donate**
+- Email: `lach@lazying.art`
+- X 帳號: @lachlanchen
+- 社群與想法協作：可於社群平台與倉庫議題區留言。
 
-- ご支援は研究・開発と運用の継続に役立ち、より多くのオープンなプロジェクトを皆さんに届ける力になります。  
-- 你的支持將用於研發與運維，幫助我持續公開分享更多專案與改進。  
-- Your support sustains my research, development, and ops so I can keep sharing more open projects and improvements.
+額外的資助訊息位於專案 metadata：
 
-倉庫中其他贊助/資助訊號：
-
-- GitHub Sponsors：`lachlanchen`
-- 自訂資助連結包含：
+- GitHub Sponsors: `lachlanchen`
+- 相關連結：
   - `https://github.com/sponsors/lachlanchen`
   - `https://lazying.art`
   - `https://chat.lazying.art`
@@ -302,10 +250,8 @@ PR 檢查清單（建議）：
 
 ## 📄 授權
 
-此倉庫目前尚未提供 `LICENSE` 檔案。
+此儲存庫目前尚未包含 `LICENSE` 檔案。
 
-給貢獻者的假設：在維護者新增授權前，權利與重用條款尚未被明確授予。若這並非原意，請新增授權檔（例如符合專案意圖的 MIT/Apache-2.0/CC 類型）。
+除非維護者補上正式授權條款，否則在此階段無法視為正式授權可自由重用。
 
----
-
-有問題、合作提案或有趣的 lazy-money 點子？可私訊 @lachlanchen，或寄信至 `lach@lazying.art`。
+如果你想快速建立開放使用基準，請新增符合專案性質的標準授權（MIT / Apache-2.0 / CC 變體）。
