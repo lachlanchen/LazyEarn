@@ -8,17 +8,17 @@ _All market data references closing prices around **12–13 Nov 2025**. Analyst 
 
 ## Comparison of 10 High-Growth Stocks (Price & Targets)
 
-| Company (Ticker) | Sector | Market Cap | Current Price | Avg 12–18 mo Target | Growth Drivers & Outlook |
-| --- | --- | --- | --- | --- | --- |
-| **NVIDIA (NVDA)** | AI/Semiconductors | Large-cap | ~$193.8 | ~$237 avg; $300 bull | AI chip demand; dominant GPU platform | 
-| **Palantir (PLTR)** | AI/Software | Large-cap | ~$184.2 | ~$192 avg; $255 high | Explosive AI platform adoption (gov + commercial) |
-| **Vertex (VRTX)** | Biotechnology | Large-cap | ~$434.2 | ~$492 avg | CF franchise + gene/cell therapy pipeline |
-| **CRISPR Therapeutics (CRSP)** | Biotechnology | Mid-cap | ~$55.2 | ~$73 avg | First FDA-approved CRISPR gene therapy + robust pipeline |
-| **Tesla (TSLA)** | Clean Energy/EV | Large-cap | ~$430.6 | ~$480–490 bull | EV/FSD leadership, robotics, energy storage |
-| **Enphase Energy (ENPH)** | Clean Energy/Solar | Mid-cap | ~$30.7 | ~$42 avg | Solar microinverters + storage demand |
-| **Snowflake (SNOW)** | Cloud Software | Large-cap | ~$269.8 | ~$261 avg; $325 high | Data cloud platform for analytics/AI |
-| **AMD (AMD)** | Semiconductors | Large-cap | ~$258.9 | ~$278 avg; $300 bull | CPUs gaining share; push into AI GPUs |
-| **Datadog (DDOG)** | Cloud Software | Mid-cap | ~$189.4 | ~$192 avg; $220+ bull | Cloud observability for IT & AI systems |
+| Company (Ticker)               | Sector             | Market Cap | Current Price | Avg 12–18 mo Target   | Growth Drivers & Outlook                                 |
+| ------------------------------ | ------------------ | ---------- | ------------- | --------------------- | -------------------------------------------------------- |
+| **NVIDIA (NVDA)**              | AI/Semiconductors  | Large-cap  | ~$193.8       | ~$237 avg; $300 bull  | AI chip demand; dominant GPU platform                    |
+| **Palantir (PLTR)**            | AI/Software        | Large-cap  | ~$184.2       | ~$192 avg; $255 high  | Explosive AI platform adoption (gov + commercial)        |
+| **Vertex (VRTX)**              | Biotechnology      | Large-cap  | ~$434.2       | ~$492 avg             | CF franchise + gene/cell therapy pipeline                |
+| **CRISPR Therapeutics (CRSP)** | Biotechnology      | Mid-cap    | ~$55.2        | ~$73 avg              | First FDA-approved CRISPR gene therapy + robust pipeline |
+| **Tesla (TSLA)**               | Clean Energy/EV    | Large-cap  | ~$430.6       | ~$480–490 bull        | EV/FSD leadership, robotics, energy storage              |
+| **Enphase Energy (ENPH)**      | Clean Energy/Solar | Mid-cap    | ~$30.7        | ~$42 avg              | Solar microinverters + storage demand                    |
+| **Snowflake (SNOW)**           | Cloud Software     | Large-cap  | ~$269.8       | ~$261 avg; $325 high  | Data cloud platform for analytics/AI                     |
+| **AMD (AMD)**                  | Semiconductors     | Large-cap  | ~$258.9       | ~$278 avg; $300 bull  | CPUs gaining share; push into AI GPUs                    |
+| **Datadog (DDOG)**             | Cloud Software     | Mid-cap    | ~$189.4       | ~$192 avg; $220+ bull | Cloud observability for IT & AI systems                  |
 
 ---
 
@@ -107,35 +107,36 @@ _All market data references closing prices around **12–13 Nov 2025**. Analyst 
 
 ## 1. Ranking by Average Analyst Upside
 
-| Rank | Company | Current Price | Avg Target | Potential Upside |
-| --- | --- | --- | --- | --- |
-| 1 | CRISPR Therapeutics (CRSP) | $51.11 | $73.41 | **+43.6%** |
-| 2 | Enphase Energy (ENPH) | $28.91 | $36.72 | **+27.0%** |
-| 3 | NVIDIA (NVDA) | $186.86 | $233.76 | **+25.1%** |
-| 4 | Datadog (DDOG) | $185.97 | $207.38 | **+11.5%** |
-| 5 | Vertex (VRTX) | $434.52 | $482.53 | **+11.0%** |
-| 6 | Palantir (PLTR) | $172.14 | $187.87 | **+9.1%** |
-| 7 | Snowflake (SNOW) | $256.92 | $270.02 | **+5.1%** |
-| 8 | AMD (AMD) | $247.96 | $240.03 | **−3.2%** |
-| 9 | Tesla (TSLA) | $401.99 | $382.54 | **−4.8%** |
+| Rank | Company                    | Current Price | Avg Target | Potential Upside |
+| ---- | -------------------------- | ------------- | ---------- | ---------------- |
+| 1    | CRISPR Therapeutics (CRSP) | $51.11        | $73.41     | **+43.6%**       |
+| 2    | Enphase Energy (ENPH)      | $28.91        | $36.72     | **+27.0%**       |
+| 3    | NVIDIA (NVDA)              | $186.86       | $233.76    | **+25.1%**       |
+| 4    | Datadog (DDOG)             | $185.97       | $207.38    | **+11.5%**       |
+| 5    | Vertex (VRTX)              | $434.52       | $482.53    | **+11.0%**       |
+| 6    | Palantir (PLTR)            | $172.14       | $187.87    | **+9.1%**        |
+| 7    | Snowflake (SNOW)           | $256.92       | $270.02    | **+5.1%**        |
+| 8    | AMD (AMD)                  | $247.96       | $240.03    | **−3.2%**        |
+| 9    | Tesla (TSLA)               | $401.99       | $382.54    | **−4.8%**        |
 
 ## 2. Ranking by Bull-Case (High) Target
 
-| Rank | Company | High Target | Bull Upside |
-| --- | --- | --- | --- |
-| 1 | Enphase Energy (ENPH) | $67.00 | **+132%** |
-| 2 | CRISPR Therapeutics (CRSP) | $105.00 | **+105%** |
-| 3 | NVIDIA (NVDA) | $350.00 | **+109%** |
-| 4 | Snowflake (SNOW) | $440.00 | **+71%** |
-| 5 | Tesla (TSLA) | $600.00 | **+49%** |
-| 6 | Palantir (PLTR) | $255.00 | **+48%** |
-| 7 | AMD (AMD) | $345.00 | **+39%** |
-| 8 | Vertex (VRTX) | $575.00 | **+32%** |
-| 9 | Datadog (DDOG) | $240.00 | **+29%** |
+| Rank | Company                    | High Target | Bull Upside |
+| ---- | -------------------------- | ----------- | ----------- |
+| 1    | Enphase Energy (ENPH)      | $67.00      | **+132%**   |
+| 2    | CRISPR Therapeutics (CRSP) | $105.00     | **+105%**   |
+| 3    | NVIDIA (NVDA)              | $350.00     | **+109%**   |
+| 4    | Snowflake (SNOW)           | $440.00     | **+71%**    |
+| 5    | Tesla (TSLA)               | $600.00     | **+49%**    |
+| 6    | Palantir (PLTR)            | $255.00     | **+48%**    |
+| 7    | AMD (AMD)                  | $345.00     | **+39%**    |
+| 8    | Vertex (VRTX)              | $575.00     | **+32%**    |
+| 9    | Datadog (DDOG)             | $240.00     | **+29%**    |
 
 ---
 
 ## Source Notes
+
 - Prices and market caps use latest closes via Investing.com, Yahoo, Nasdaq, etc.
 - Average and high targets reference MarketBeat, TipRanks, MarketWatch, and Nasdaq analyst aggregators.
 - Company commentary pulls from Barchart, 247WallSt, SimplyWallSt, Morningstar, Gurufocus, and official filings.
@@ -144,8 +145,9 @@ _All market data references closing prices around **12–13 Nov 2025**. Analyst 
 ---
 
 ### Next Steps
-1. Prioritize the top 3–4 names that align with your thematic focus (e.g., AI hardware vs biotech vs clean energy).  
-2. Build a research watchlist with target buy ranges and catalysts.  
+
+1. Prioritize the top 3–4 names that align with your thematic focus (e.g., AI hardware vs biotech vs clean energy).
+2. Build a research watchlist with target buy ranges and catalysts.
 3. Monitor upcoming earnings, product launches, and regulatory decisions for inflection points.
 
-*Prepared for LazyingArt’s investment research vault.*
+_Prepared for LazyingArt’s investment research vault._

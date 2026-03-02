@@ -8,11 +8,11 @@ This dossier is the complementary chapter to the high-growth report: it explains
 
 ## 1. North Star Principles
 
-| Principle | What It Means | Lazy Execution |
-| --- | --- | --- |
-| **Design for naps first** | Build a schedule that assumes 50% of your time is unbooked. | Create asynchronous offerings (auto-delivery templates, evergreen cohorts) and insert live sessions only for delight. |
-| **Stack curiosity yields** | Follow fascinations, not niches. Curiosity yields content, content yields products. | Maintain a “Spark Vault” (Notion/Obsidian). Each spark must become either a tweet thread, a downloadable template, or a high-touch concierge offer within two weeks. |
-| **Own the distribution loops** | Never rely on a single platform. Automations should always output to email + one owned channel. | For every artifact (newsletter, dossier, template) set up: ConvertKit drip + RSS-to-Telegram + on-site archive snippet. |
+| Principle                      | What It Means                                                                                   | Lazy Execution                                                                                                                                                       |
+| ------------------------------ | ----------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Design for naps first**      | Build a schedule that assumes 50% of your time is unbooked.                                     | Create asynchronous offerings (auto-delivery templates, evergreen cohorts) and insert live sessions only for delight.                                                |
+| **Stack curiosity yields**     | Follow fascinations, not niches. Curiosity yields content, content yields products.             | Maintain a “Spark Vault” (Notion/Obsidian). Each spark must become either a tweet thread, a downloadable template, or a high-touch concierge offer within two weeks. |
+| **Own the distribution loops** | Never rely on a single platform. Automations should always output to email + one owned channel. | For every artifact (newsletter, dossier, template) set up: ConvertKit drip + RSS-to-Telegram + on-site archive snippet.                                              |
 
 ---
 
@@ -34,12 +34,12 @@ This dossier is the complementary chapter to the high-growth report: it explains
 
 ## 3. Capital Allocation Blueprint
 
-| Bucket | % of recurring revenue | Purpose |
-| --- | --- | --- |
-| **Automation Upkeep** | 20% | Pay for Make/Zapier, no-code dev sprints, AI tokens, analytics. |
-| **Research & Assets** | 30% | Commission data pulls, pay contractors to design future PDFs, sponsor guest writers. |
-| **Experiment Stipend** | 10% | Micro-grants for community members who pilot a Lazy Earn loop (gets you deal flow + success stories). |
-| **Freedom Fund** | 40% | Treasury that compounds outside the operating business (index funds, short-term Treasuries, or DeFi yields depending on risk appetite). |
+| Bucket                 | % of recurring revenue | Purpose                                                                                                                                 |
+| ---------------------- | ---------------------- | --------------------------------------------------------------------------------------------------------------------------------------- |
+| **Automation Upkeep**  | 20%                    | Pay for Make/Zapier, no-code dev sprints, AI tokens, analytics.                                                                         |
+| **Research & Assets**  | 30%                    | Commission data pulls, pay contractors to design future PDFs, sponsor guest writers.                                                    |
+| **Experiment Stipend** | 10%                    | Micro-grants for community members who pilot a Lazy Earn loop (gets you deal flow + success stories).                                   |
+| **Freedom Fund**       | 40%                    | Treasury that compounds outside the operating business (index funds, short-term Treasuries, or DeFi yields depending on risk appetite). |
 
 This split ensures the brand never runs dry on content while compounding wealth away from operating risk.
 
@@ -49,7 +49,7 @@ This split ensures the brand never runs dry on content while compounding wealth 
 
 1. **Q1 – Atmosphere Audit**
    - Refresh the site’s hero copy, color palette, and interactive sections.
-   - Review *all* automations; remove steps that no longer serve the current revenue mix.
+   - Review _all_ automations; remove steps that no longer serve the current revenue mix.
 
 2. **Q2 – Dossier Double-Release**
    - Publish one macro report (e.g., “Slow Fi in Clean Energy”) and one micro playbook (e.g., “Automated dealflow for indie angels”).
@@ -67,11 +67,11 @@ This split ensures the brand never runs dry on content while compounding wealth 
 
 ## 5. Future Drops & Naming Ideas
 
-| Working Name | Concept | Status |
-| --- | --- | --- |
-| **SlowFi Atlas** | Mapping cities/bubbles with low burn + high vibe (housing cost, co-working quality, creative scene). | Drafting |
-| **Automation Tea Room** | Curated library of ready-to-run automation packs (Notion + Zapier + prompt recipes). | Scoping |
-| **Lazy Capital Club** | Quarterly salons where investors/patrons get first access to dossiers, share deal flow, and co-fund experiments. | On Deck |
+| Working Name            | Concept                                                                                                          | Status   |
+| ----------------------- | ---------------------------------------------------------------------------------------------------------------- | -------- |
+| **SlowFi Atlas**        | Mapping cities/bubbles with low burn + high vibe (housing cost, co-working quality, creative scene).             | Drafting |
+| **Automation Tea Room** | Curated library of ready-to-run automation packs (Notion + Zapier + prompt recipes).                             | Scoping  |
+| **Lazy Capital Club**   | Quarterly salons where investors/patrons get first access to dossiers, share deal flow, and co-fund experiments. | On Deck  |
 
 Each name leans into lounge energy while signaling the value prop.
 
@@ -85,4 +85,4 @@ Each name leans into lounge energy while signaling the value prop.
 - [ ] **Recruit two collaborators**: one data analyst for future dossiers, one automation specialist to keep Lazy Earn systems fresh.
 - [ ] **Schedule monthly “Lazy Money standdown”** where you review revenue vs. the Freedom Fund targets; aim to push 40%+ of net income into the Freedom bucket.
 
-Treat this document as a living plan—update it whenever a new obsession appears or a loop matures. Financial freedom here is not “retire early”; it’s “live inside your favorite day while the money hums quietly in the background.” Trust the lounge.***
+Treat this document as a living plan—update it whenever a new obsession appears or a loop matures. Financial freedom here is not “retire early”; it’s “live inside your favorite day while the money hums quietly in the background.” Trust the lounge.\*\*\*

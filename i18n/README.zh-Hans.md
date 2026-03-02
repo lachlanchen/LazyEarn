@@ -1,8 +1,6 @@
 [English](../README.md) · [العربية](README.ar.md) · [Español](README.es.md) · [Français](README.fr.md) · [日本語](README.ja.md) · [한국어](README.ko.md) · [Tiếng Việt](README.vi.md) · [中文 (简体)](README.zh-Hans.md) · [中文（繁體）](README.zh-Hant.md) · [Deutsch](README.de.md) · [Русский](README.ru.md)
 
-
 [![LazyingArt banner](https://github.com/lachlanchen/lachlanchen/raw/main/figs/banner.png)](https://github.com/lachlanchen/lachlanchen/blob/main/figs/banner.png)
-
 
 # LazyEarn — Lazy Money Lab + Earn From Scratch
 
@@ -20,13 +18,13 @@ Earn.lazying.art 是一份更像“慢节奏仪式”而非“冲刺战役”的
 
 ## 🗂️ 快速总览
 
-| 位置 | 用途 | 为什么重要 |
-| --- | --- | --- |
-| `docs/` | 生产环境网站源码（`index.html`、`styles.css`、`script.js`） | 为 `earn.lazying.art` 提供正式站点 |
-| `investment/` | Markdown 研究简报 | 研究叙事和分析的权威来源 |
-| `investment_pdfs/` | 编译后的 LaTeX/PDF 成果 | 便于分享的投资级输出 |
-| `figs/` | 品牌素材 | 品牌视觉与横幅资源 |
-| `i18n/` | README 翻译文件 | 多语言入口文件 |
+| 位置               | 用途                                                        | 为什么重要                         |
+| ------------------ | ----------------------------------------------------------- | ---------------------------------- |
+| `docs/`            | 生产环境网站源码（`index.html`、`styles.css`、`script.js`） | 为 `earn.lazying.art` 提供正式站点 |
+| `investment/`      | Markdown 研究简报                                           | 研究叙事和分析的权威来源           |
+| `investment_pdfs/` | 编译后的 LaTeX/PDF 成果                                     | 便于分享的投资级输出               |
+| `figs/`            | 品牌素材                                                    | 品牌视觉与横幅资源                 |
+| `i18n/`            | README 翻译文件                                             | 多语言入口文件                     |
 
 ## 🧭 概览
 
@@ -56,22 +54,22 @@ LazyEarn 是一个面向 GitHub Pages 的静态项目，包含两个核心部分
 
 ## 🧩 站点内容有哪些
 
-| 板块 | 聚焦 | 氛围 |
-| --- | --- | --- |
-| **Lazy Money Lab** | 你休息时也能让资金持续流动 | 叠加式循环，而非任务清单 |
-| **Lazy Earn Stack** | 自动化路线图、灵感库与放松指数 | 结构清晰但节奏平稳 |
+| 板块                  | 聚焦                                  | 氛围                     |
+| --------------------- | ------------------------------------- | ------------------------ |
+| **Lazy Money Lab**    | 你休息时也能让资金持续流动            | 叠加式循环，而非任务清单 |
+| **Lazy Earn Stack**   | 自动化路线图、灵感库与放松指数        | 结构清晰但节奏平稳       |
 | **Earn From Scratch** | 从 Spark → Craft → Stretch 的新手入门 | 从零起步，拒绝“卷”式文化 |
-| **Idea Playground** | 用于生成新 lazy-earn 实验的互动工具 | 点击即可重新混搭想法 |
-| **Research Drop** | 持续更新的投资式简报 | 长文本深度与决策信念 |
+| **Idea Playground**   | 用于生成新 lazy-earn 实验的互动工具   | 点击即可重新混搭想法     |
+| **Research Drop**     | 持续更新的投资式简报                  | 长文本深度与决策信念     |
 
 ## 📈 投研成果仓库
 
-| 你将获得 | Markdown | PDF |
-| --- | --- | --- |
-| **High-Growth Dossier** | 覆盖九只美股（AI、生物科技、半导体、清洁能源和云计算）的上行区间表与来源链接分析。
-并附带 AI、生物科技、半导体、清洁能源和云计算等领域的叙事梳理。 | [`查看 Markdown`](https://github.com/lachlanchen/LazyEarn/blob/main/investment/high-growth-stocks.md) | [查看 PDF](https://earn.lazying.art/pdf-viewer.html#high-growth) |
-| **Financial Freedom Playbook** | 原则框架 + 自动化点子、资本配置表、季度仪式与新想法种子。
-适合用于复盘长期投资与执行节奏。 | [`查看 Markdown`](https://github.com/lachlanchen/LazyEarn/blob/main/investment/financial_freedom.md) | [查看 PDF](https://earn.lazying.art/pdf-viewer.html#financial-freedom) |
+| 你将获得                                                        | Markdown                                                                                              | PDF                                                                    |
+| --------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------- |
+| **High-Growth Dossier**                                         | 覆盖九只美股（AI、生物科技、半导体、清洁能源和云计算）的上行区间表与来源链接分析。                    |
+| 并附带 AI、生物科技、半导体、清洁能源和云计算等领域的叙事梳理。 | [`查看 Markdown`](https://github.com/lachlanchen/LazyEarn/blob/main/investment/high-growth-stocks.md) | [查看 PDF](https://earn.lazying.art/pdf-viewer.html#high-growth)       |
+| **Financial Freedom Playbook**                                  | 原则框架 + 自动化点子、资本配置表、季度仪式与新想法种子。                                             |
+| 适合用于复盘长期投资与执行节奏。                                | [`查看 Markdown`](https://github.com/lachlanchen/LazyEarn/blob/main/investment/financial_freedom.md)  | [查看 PDF](https://earn.lazying.art/pdf-viewer.html#financial-freedom) |
 
 ## 🗂️ 项目结构
 
@@ -229,8 +227,8 @@ https://earn.lazying.art/pdf-viewer.html?file=financial-freedom-zh
 
 ## ❤️ Support
 
-| Donate | PayPal | Stripe |
-| --- | --- | --- |
+| Donate                                                                                                                                                                                                                                                                                                                                                     | PayPal                                                                                                                                                                                                                                                                                                                                                          | Stripe                                                                                                                                                                                                                                                                                                                                                              |
+| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | [![Donate](https://camo.githubusercontent.com/24a4914f0b42c6f435f9e101621f1e52535b02c225764b2f6cc99416926004b7/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f446f6e6174652d4c617a79696e674172742d3045413545393f7374796c653d666f722d7468652d6261646765266c6f676f3d6b6f2d6669266c6f676f436f6c6f723d7768697465)](https://chat.lazying.art/donate) | [![PayPal](https://camo.githubusercontent.com/d0f57e8b016517a4b06961b24d0ca87d62fdba16e18bbdb6aba28e978dc0ea21/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f50617950616c2d526f6e677a686f754368656e2d3030343537433f7374796c653d666f722d7468652d6261646765266c6f676f3d70617970616c266c6f676f436f6c6f723d7768697465)](https://paypal.me/RongzhouChen) | [![Stripe](https://camo.githubusercontent.com/1152dfe04b6943afe3a8d2953676749603fb9f95e24088c92c97a01a897b4942/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f5374726970652d446f6e6174652d3633354246463f7374796c653d666f722d7468652d6261646765266c6f676f3d737472697065266c6f676f436f6c6f723d7768697465)](https://buy.stripe.com/aFadR8gIaflgfQV6T4fw400) |
 
 ## 📬 联系方式

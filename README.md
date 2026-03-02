@@ -1,6 +1,5 @@
 [English](README.md) · [العربية](i18n/README.ar.md) · [Español](i18n/README.es.md) · [Français](i18n/README.fr.md) · [日本語](i18n/README.ja.md) · [한국어](i18n/README.ko.md) · [Tiếng Việt](i18n/README.vi.md) · [中文 (简体)](i18n/README.zh-Hans.md) · [中文（繁體）](i18n/README.zh-Hant.md) · [Deutsch](i18n/README.de.md) · [Русский](i18n/README.ru.md)
 
-
 [![LazyingArt banner](https://github.com/lachlanchen/lachlanchen/raw/main/figs/banner.png)](https://github.com/lachlanchen/lachlanchen/blob/main/figs/banner.png)
 
 Language options: **English (current draft)**. Multilingual README variants are planned under `i18n/` (directory exists).
@@ -21,13 +20,13 @@ Earn.lazying.art is a cinematic field guide for anyone who wants money to feel l
 
 ## 🗂️ Snapshot map
 
-| Location | Purpose | Why it matters |
-| --- | --- | --- |
-| `docs/` | Production website source (`index.html`, `styles.css`, `script.js`) | Public site that powers `earn.lazying.art` |
-| `investment/` | Markdown research briefs | Canonical narrative and analytical source-of-truth |
-| `investment_pdfs/` | Compiled LaTeX/PDF artifacts | Shareable portfolio-grade outputs |
-| `figs/` | Brand assets | Visual identity and banner references |
-| `i18n/` | Translated README files | Multilingual repository entry points |
+| Location           | Purpose                                                             | Why it matters                                     |
+| ------------------ | ------------------------------------------------------------------- | -------------------------------------------------- |
+| `docs/`            | Production website source (`index.html`, `styles.css`, `script.js`) | Public site that powers `earn.lazying.art`         |
+| `investment/`      | Markdown research briefs                                            | Canonical narrative and analytical source-of-truth |
+| `investment_pdfs/` | Compiled LaTeX/PDF artifacts                                        | Shareable portfolio-grade outputs                  |
+| `figs/`            | Brand assets                                                        | Visual identity and banner references              |
+| `i18n/`            | Translated README files                                             | Multilingual repository entry points               |
 
 ## 🧭 Overview
 
@@ -57,19 +56,20 @@ Primary production domain (from `docs/CNAME`): `earn.lazying.art`.
 
 ## 🧩 What’s inside the site
 
-| Section | Focus | Energy |
-| --- | --- | --- |
-| **Lazy Money Lab** | How money can flow while you stay rested | Stacked loops, not tasks |
-| **Lazy Earn Stack** | Automation map, idea vault, and relaxation index | Structured but calm |
-| **Earn From Scratch** | Spark → craft → stretch for beginners | Start from zero, skip grind culture |
-| **Idea Playground** | Interactive generator for new lazy-earn experiments | Tap to remix ideas |
-| **Research Drop** | Living shelf for investment-like briefs | Long-form conviction |
+| Section               | Focus                                               | Energy                              |
+| --------------------- | --------------------------------------------------- | ----------------------------------- |
+| **Lazy Money Lab**    | How money can flow while you stay rested            | Stacked loops, not tasks            |
+| **Lazy Earn Stack**   | Automation map, idea vault, and relaxation index    | Structured but calm                 |
+| **Earn From Scratch** | Spark → craft → stretch for beginners               | Start from zero, skip grind culture |
+| **Idea Playground**   | Interactive generator for new lazy-earn experiments | Tap to remix ideas                  |
+| **Research Drop**     | Living shelf for investment-like briefs             | Long-form conviction                |
 
 ## 📈 Investment research vault
 
-| What you get | Markdown | PDF |
-| --- | --- | --- |
-| **High-Growth Dossier** | Nine U.S. equities coverage with upside tables and source-linked analysis.
+| What you get            | Markdown                                                                   | PDF |
+| ----------------------- | -------------------------------------------------------------------------- | --- |
+| **High-Growth Dossier** | Nine U.S. equities coverage with upside tables and source-linked analysis. |
+
 Narrative rundowns for AI, biotech, semiconductors, clean energy, and cloud.
 [`Open markdown`](https://github.com/lachlanchen/LazyEarn/blob/main/investment/high-growth-stocks.md) | [Open PDF](https://earn.lazying.art/pdf-viewer.html#high-growth) |
 | **Financial Freedom Playbook** | Principles + automation ideas, capital allocation tables, quarterly rituals, and new idea seeds.
@@ -232,8 +232,8 @@ Recommended PR checklist:
 
 ## ❤️ Support
 
-| Donate | PayPal | Stripe |
-| --- | --- | --- |
+| Donate                                                                                                                                                                                                                                                                                                                                                     | PayPal                                                                                                                                                                                                                                                                                                                                                          | Stripe                                                                                                                                                                                                                                                                                                                                                              |
+| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | [![Donate](https://camo.githubusercontent.com/24a4914f0b42c6f435f9e101621f1e52535b02c225764b2f6cc99416926004b7/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f446f6e6174652d4c617a79696e674172742d3045413545393f7374796c653d666f722d7468652d6261646765266c6f676f3d6b6f2d6669266c6f676f436f6c6f723d7768697465)](https://chat.lazying.art/donate) | [![PayPal](https://camo.githubusercontent.com/d0f57e8b016517a4b06961b24d0ca87d62fdba16e18bbdb6aba28e978dc0ea21/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f50617950616c2d526f6e677a686f754368656e2d3030343537433f7374796c653d666f722d7468652d6261646765266c6f676f3d70617970616c266c6f676f436f6c6f723d7768697465)](https://paypal.me/RongzhouChen) | [![Stripe](https://camo.githubusercontent.com/1152dfe04b6943afe3a8d2953676749603fb9f95e24088c92c97a01a897b4942/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f5374726970652d446f6e6174652d3633354246463f7374796c653d666f722d7468652d6261646765266c6f676f3d737472697065266c6f676f436f6c6f723d7768697465)](https://buy.stripe.com/aFadR8gIaflgfQV6T4fw400) |
 
 ## 📬 Contact

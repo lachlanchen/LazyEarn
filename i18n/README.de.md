@@ -1,6 +1,5 @@
 [English](../README.md) · [العربية](README.ar.md) · [Español](README.es.md) · [Français](README.fr.md) · [日本語](README.ja.md) · [한국어](README.ko.md) · [Tiếng Việt](README.vi.md) · [中文 (简体)](README.zh-Hans.md) · [中文（繁體）](README.zh-Hant.md) · [Deutsch](README.de.md) · [Русский](README.ru.md)
 
-
 [![LazyingArt banner](https://github.com/lachlanchen/lachlanchen/raw/main/figs/banner.png)](https://github.com/lachlanchen/lachlanchen/blob/main/figs/banner.png)
 
 Sprachauswahl: **Englisch (aktueller Entwurf)**. Mehrsprachige README-Varianten sind unter `i18n/` vorgesehen (Verzeichnis ist vorhanden).
@@ -21,13 +20,13 @@ Earn.lazying.art ist ein cineastischer Praxisleitfaden für alle, die Geldverdie
 
 ## 🗂️ Snapshot map
 
-| Location | Purpose | Why it matters |
-| --- | --- | --- |
-| `docs/` | Produktionsquellen der Website (`index.html`, `styles.css`, `script.js`) | Öffentliche Seite, die `earn.lazying.art` betreibt |
-| `investment/` | Research-Berichte als Markdown | Kanonische narrative und analytische Grundlage |
-| `investment_pdfs/` | Kompilierte LaTeX/PDF-Artefakte | Teilbare Ausgaben im Portfolio-Format |
-| `figs/` | Brand-Assets | Visuelle Identität und Bannerdaten |
-| `i18n/` | Übersetzte README-Dateien | Mehrsprachige Einstiegspunkte des Repositories |
+| Location           | Purpose                                                                  | Why it matters                                     |
+| ------------------ | ------------------------------------------------------------------------ | -------------------------------------------------- |
+| `docs/`            | Produktionsquellen der Website (`index.html`, `styles.css`, `script.js`) | Öffentliche Seite, die `earn.lazying.art` betreibt |
+| `investment/`      | Research-Berichte als Markdown                                           | Kanonische narrative und analytische Grundlage     |
+| `investment_pdfs/` | Kompilierte LaTeX/PDF-Artefakte                                          | Teilbare Ausgaben im Portfolio-Format              |
+| `figs/`            | Brand-Assets                                                             | Visuelle Identität und Bannerdaten                 |
+| `i18n/`            | Übersetzte README-Dateien                                                | Mehrsprachige Einstiegspunkte des Repositories     |
 
 ## 🧭 Overview
 
@@ -57,19 +56,20 @@ Primäre Produktions-Domain (aus `docs/CNAME`): `earn.lazying.art`.
 
 ## 🧩 What’s inside the site
 
-| Section | Focus | Energy |
-| --- | --- | --- |
-| **Lazy Money Lab** | Wie Geld fließen kann, während du entspannt bleibst | Geschichtete Schleifen statt einzelner Aufgaben |
-| **Lazy Earn Stack** | Automatisierungskarte, Idea Vault und Relaxation Index | Strukturiert, aber ruhig |
-| **Earn From Scratch** | Funke → Verarbeitung → Skalierung für Einsteiger | Von null starten, Grind-Kultur überspringen |
-| **Idea Playground** | Interaktiver Generator für neue Lazy-Earn-Experimente | Tippe, um Ideen neu zu mischen |
-| **Research Drop** | Permanentes Regal für investitionsnahe Dossiers | Langfristige Überzeugung |
+| Section               | Focus                                                  | Energy                                          |
+| --------------------- | ------------------------------------------------------ | ----------------------------------------------- |
+| **Lazy Money Lab**    | Wie Geld fließen kann, während du entspannt bleibst    | Geschichtete Schleifen statt einzelner Aufgaben |
+| **Lazy Earn Stack**   | Automatisierungskarte, Idea Vault und Relaxation Index | Strukturiert, aber ruhig                        |
+| **Earn From Scratch** | Funke → Verarbeitung → Skalierung für Einsteiger       | Von null starten, Grind-Kultur überspringen     |
+| **Idea Playground**   | Interaktiver Generator für neue Lazy-Earn-Experimente  | Tippe, um Ideen neu zu mischen                  |
+| **Research Drop**     | Permanentes Regal für investitionsnahe Dossiers        | Langfristige Überzeugung                        |
 
 ## 📈 Investment research vault
 
-| What you get | Markdown | PDF |
-| --- | --- | --- |
-| **High-Growth Dossier** | Neun US-Aktien mit Aufwärts-Tabellen und quellengestützter Analyse.
+| What you get            | Markdown                                                            | PDF |
+| ----------------------- | ------------------------------------------------------------------- | --- |
+| **High-Growth Dossier** | Neun US-Aktien mit Aufwärts-Tabellen und quellengestützter Analyse. |
+
 Narrative Ausführungen für KI, Biotech, Halbleiter, Erneuerbare Energien und Cloud.
 [`Open markdown`](https://github.com/lachlanchen/LazyEarn/blob/main/investment/high-growth-stocks.md) | [Open PDF](https://earn.lazying.art/pdf-viewer.html#high-growth) |
 | **Financial Freedom Playbook** | Prinzipien + Automatisierungsideen, Kapitalallokations-Tabellen, Quartalsrituale und neue Ideenquellen.
@@ -233,8 +233,8 @@ Empfohlene PR-Checkliste:
 
 ## ❤️ Support
 
-| Donate | PayPal | Stripe |
-| --- | --- | --- |
+| Donate                                                                                                                                                                                                                                                                                                                                                     | PayPal                                                                                                                                                                                                                                                                                                                                                          | Stripe                                                                                                                                                                                                                                                                                                                                                              |
+| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | [![Donate](https://camo.githubusercontent.com/24a4914f0b42c6f435f9e101621f1e52535b02c225764b2f6cc99416926004b7/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f446f6e6174652d4c617a79696e674172742d3045413545393f7374796c653d666f722d7468652d6261646765266c6f676f3d6b6f2d6669266c6f676f436f6c6f723d7768697465)](https://chat.lazying.art/donate) | [![PayPal](https://camo.githubusercontent.com/d0f57e8b016517a4b06961b24d0ca87d62fdba16e18bbdb6aba28e978dc0ea21/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f50617950616c2d526f6e677a686f754368656e2d3030343537433f7374796c653d666f722d7468652d6261646765266c6f676f3d70617970616c266c6f676f436f6c6f723d7768697465)](https://paypal.me/RongzhouChen) | [![Stripe](https://camo.githubusercontent.com/1152dfe04b6943afe3a8d2953676749603fb9f95e24088c92c97a01a897b4942/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f5374726970652d446f6e6174652d3633354246463f7374796c653d666f722d7468652d6261646765266c6f676f3d737472697065266c6f676f436f6c6f723d7768697465)](https://buy.stripe.com/aFadR8gIaflgfQV6T4fw400) |
 
 ## 📬 Contact

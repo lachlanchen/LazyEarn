@@ -165,7 +165,8 @@ const pdfEntries = {
       "细致讲解理性消费、复利投资、多元收入与自动化工具的结合，并附上 Lazy Money 风格的资本分配表与季度仪式。",
     pdf: "investment_pdfs/financial_freedom_zh/financial_freedom_zh.pdf",
     download: "investment_pdfs/financial_freedom_zh/financial_freedom_zh.pdf",
-    markdown: "https://github.com/lachlanchen/LazyEarn/blob/main/investment/financial_freedom_zh.md",
+    markdown:
+      "https://github.com/lachlanchen/LazyEarn/blob/main/investment/financial_freedom_zh.md",
   },
 };
 
@@ -216,7 +217,9 @@ function initializeLanguage() {
 }
 
 function hookLanguageSelect(selectEl) {
-  if (!selectEl) return;
+  if (!selectEl) {
+    return;
+  }
   selectEl.value = currentLanguage;
   selectEl.addEventListener("change", (event) => {
     setLanguage(event.target.value);
@@ -241,21 +244,42 @@ function detectLanguage() {
 }
 
 function normalizeLanguageCode(code) {
-  if (!code) return null;
+  if (!code) {
+    return null;
+  }
   const value = code.toLowerCase();
   if (value.includes("zh")) {
-    if (value.includes("tw") || value.includes("hk") || value.includes("mo") || value.includes("hant")) {
+    if (
+      value.includes("tw") ||
+      value.includes("hk") ||
+      value.includes("mo") ||
+      value.includes("hant")
+    ) {
       return "zh-Hant";
     }
     return "zh-Hans";
   }
-  if (value.startsWith("ja")) return "ja";
-  if (value.startsWith("ko")) return "ko";
-  if (value.startsWith("vi")) return "vi";
-  if (value.startsWith("ar")) return "ar";
-  if (value.startsWith("fr")) return "fr";
-  if (value.startsWith("es")) return "es";
-  if (value.startsWith("en")) return "en";
+  if (value.startsWith("ja")) {
+    return "ja";
+  }
+  if (value.startsWith("ko")) {
+    return "ko";
+  }
+  if (value.startsWith("vi")) {
+    return "vi";
+  }
+  if (value.startsWith("ar")) {
+    return "ar";
+  }
+  if (value.startsWith("fr")) {
+    return "fr";
+  }
+  if (value.startsWith("es")) {
+    return "es";
+  }
+  if (value.startsWith("en")) {
+    return "en";
+  }
   return null;
 }
 
@@ -301,7 +325,9 @@ function applyTranslations() {
 }
 
 function getString(lang, key) {
-  if (!key) return "";
+  if (!key) {
+    return "";
+  }
   const langStrings = translationsData[lang]?.strings;
   if (langStrings && langStrings[key]) {
     return langStrings[key];
@@ -310,7 +336,9 @@ function getString(lang, key) {
 }
 
 function getIdeaText(lang, key) {
-  if (!key) return "";
+  if (!key) {
+    return "";
+  }
   const langIdeas = translationsData[lang]?.ideas;
   if (langIdeas && langIdeas[key]) {
     return langIdeas[key];
@@ -328,7 +356,9 @@ function formatString(lang, key, replacements = {}) {
 }
 
 function setupIdeaGenerator() {
-  if (!ideaBtn || !ideaOutput || !ideaKeys.length) return;
+  if (!ideaBtn || !ideaOutput || !ideaKeys.length) {
+    return;
+  }
   ideaBtn.addEventListener("click", () => {
     const key = ideaKeys[Math.floor(Math.random() * ideaKeys.length)];
     const text = getIdeaText(currentLanguage, key);
@@ -340,12 +370,16 @@ function setupIdeaGenerator() {
 }
 
 function setupForm() {
-  if (!form || !ideaOutput) return;
+  if (!form || !ideaOutput) {
+    return;
+  }
   form.addEventListener("submit", (event) => {
     event.preventDefault();
     const emailInput = form.querySelector("input[type=email]");
     const email = emailInput?.value?.trim();
-    if (!email) return;
+    if (!email) {
+      return;
+    }
     form.reset();
     ideaState.mode = "form";
     ideaState.key = "";
@@ -355,14 +389,18 @@ function setupForm() {
 }
 
 function renderIdeaOutput() {
-  if (!ideaOutput) return;
+  if (!ideaOutput) {
+    return;
+  }
   ideaOutput.classList.remove("typing");
   if (ideaState.mode === "idea" && ideaState.key) {
     ideaOutput.textContent = getIdeaText(currentLanguage, ideaState.key);
     return;
   }
   if (ideaState.mode === "form" && ideaState.email) {
-    ideaOutput.textContent = formatString(currentLanguage, "form.success", { email: ideaState.email });
+    ideaOutput.textContent = formatString(currentLanguage, "form.success", {
+      email: ideaState.email,
+    });
     return;
   }
   ideaState.mode = "default";
@@ -370,7 +408,9 @@ function renderIdeaOutput() {
 }
 
 function typeIdea(text) {
-  if (!ideaOutput) return;
+  if (!ideaOutput) {
+    return;
+  }
   const content = text || getString(currentLanguage, "idea.default");
   ideaOutput.classList.add("typing");
   ideaOutput.textContent = "";
@@ -406,7 +446,7 @@ function setupObserver() {
         }
       });
     },
-    { threshold: 0.15 }
+    { threshold: 0.15 },
   );
 
   document.querySelectorAll(".section, .card, .idea-card").forEach((el) => {
@@ -416,7 +456,9 @@ function setupObserver() {
 }
 
 function setupParallax() {
-  if (!parallaxItems.length) return;
+  if (!parallaxItems.length) {
+    return;
+  }
   window.addEventListener("pointermove", (event) => {
     const x = (event.clientX / window.innerWidth - 0.5) * 20;
     const y = (event.clientY / window.innerHeight - 0.5) * 20;
@@ -428,13 +470,17 @@ function setupParallax() {
 
 function setupStandaloneViewer() {
   const shell = document.querySelector(".viewer-shell");
-  if (!shell) return;
+  if (!shell) {
+    return;
+  }
 
   const params = new URLSearchParams(window.location.search);
   let slug = params.get("file");
   if (!slug) {
     const hash = window.location.hash.replace("#", "").trim();
-    if (hash) slug = hash;
+    if (hash) {
+      slug = hash;
+    }
   }
   slug = slug || "high-growth";
   const entry = pdfEntries[slug] || pdfEntries["high-growth"];
@@ -445,11 +491,21 @@ function setupStandaloneViewer() {
   const downloadEl = document.getElementById("downloadPdf");
   const markdownEl = document.getElementById("markdownLink");
 
-  if (titleEl) titleEl.textContent = entry.title;
-  if (descEl) descEl.textContent = entry.description;
-  if (frameEl) frameEl.setAttribute("src", entry.pdf);
-  if (downloadEl) downloadEl.setAttribute("href", entry.download);
-  if (markdownEl) markdownEl.setAttribute("href", entry.markdown);
+  if (titleEl) {
+    titleEl.textContent = entry.title;
+  }
+  if (descEl) {
+    descEl.textContent = entry.description;
+  }
+  if (frameEl) {
+    frameEl.setAttribute("src", entry.pdf);
+  }
+  if (downloadEl) {
+    downloadEl.setAttribute("href", entry.download);
+  }
+  if (markdownEl) {
+    markdownEl.setAttribute("href", entry.markdown);
+  }
   document.title = `${entry.title} · earn.lazying.art`;
 }
 
@@ -461,12 +517,13 @@ function setFooterYear() {
 }
 
 function setupThemeToggle() {
-  if (!themeToggle) return;
+  if (!themeToggle) {
+    return;
+  }
   const savedTheme = safeGetLocalStorage(THEME_KEY);
   applyTheme(savedTheme === "dark" ? "dark" : "light");
   themeToggle.addEventListener("click", () => {
-    const nextTheme =
-      document.documentElement.dataset.theme === "dark" ? "light" : "dark";
+    const nextTheme = document.documentElement.dataset.theme === "dark" ? "light" : "dark";
     applyTheme(nextTheme);
     safeSetLocalStorage(THEME_KEY, nextTheme);
   });
@@ -474,7 +531,9 @@ function setupThemeToggle() {
 
 function applyTheme(theme) {
   document.documentElement.dataset.theme = theme;
-  if (!themeToggle) return;
+  if (!themeToggle) {
+    return;
+  }
   themeToggle.setAttribute("aria-pressed", theme === "dark");
   themeToggle.textContent = theme === "dark" ? "🌙 Dark" : "☀️ Light";
 }

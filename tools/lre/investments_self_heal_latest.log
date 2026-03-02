@@ -1,0 +1,14 @@
+perl: warning: Setting locale failed.
+perl: warning: Please check that your locale settings:
+	LC_ALL = "C.UTF-8",
+	LC_CTYPE = "C.UTF-8",
+	LANG = "C.UTF-8"
+    are supported and installed on your system.
+perl: warning: Falling back to the standard locale ("C").
+status=ok run_dir=/Users/lachlan/.openclaw/workspace/LRE/self_evolve_runs/20260303-001217-invest-review/codex/lre-invest-review-20260303-003318
+result_json=/Users/lachlan/.openclaw/workspace/LRE/self_evolve_runs/20260303-001217-invest-review/codex/lre-invest-review-20260303-003318/result.json
+latest_result=/Users/lachlan/.openclaw/workspace/LRE/self_evolve_runs/20260303-001217-invest-review/codex/latest-result.json
+run_dir=/Users/lachlan/.openclaw/workspace/LRE/self_evolve_runs/20260303-001217-invest-review
+self_evolve_result=/Users/lachlan/.openclaw/workspace/LRE/self_evolve_runs/20260303-001217-invest-review/codex/latest-result.json
+self_evolve_prompt=/Users/lachlan/Local/Clawbot/AgInTi/lab_prompt_tools/lre/lre_self_evolve_investments_prompt.md
+self_evolve_validation=/Users/lachlan/.openclaw/workspace/LRE/self_evolve_runs/20260303-001217-invest-review/self_evolve_validation.json

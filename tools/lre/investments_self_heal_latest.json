@@ -1,0 +1,38 @@
+{
+  "diagnosis": [
+    "`investment_queries.txt` is too broad/generic, so runs miss macro regime, valuation stress, and asymmetry-specific signal terms.",
+    "`prompt_lre_investment_finder.sh` hardcodes `google-news` for all queries, which hurts background retrieval and increases low-value Google News navigation opens.",
+    "Run health checks are brittle: zero-byte `query-*.json` files can still produce `weak_signal=false` because screenshot count masks extraction failure.",
+    "Fallback detection checks only the primary run folder (`$run_path`) and can miss valid `-fallback` outputs, causing unnecessary fallback2 retries.",
+    "`prompt_lre_self_evolve.sh` validation expects `analysis` instead of schema field `diagnosis`, so self-evolve results can fail validation/apply despite valid output."
+  ],
+  "query_strategy_updates": [
+    "Adopt 3 intent buckets in query files: `news|`, `general|`, `scholar|` (scholar max 1/8 queries, only for technical claims).",
+    "Use a keyword frame per theme: `macro driver + transmission channel + investable proxy + risk/valuation term` (example transmission channels: power, credit, supply chain, regulation).",
+    "Append source and anti-noise operators for high-signal retrieval on key queries: `Reuters OR FT OR WSJ OR company filing -site:news.google.com -site:google.com`.",
+    "Force at least one disconfirming-risk query per theme (e.g., demand slowdown, margin compression, policy reversal) and one monitor-trigger query (monthly KPI/threshold).",
+    "Set engine mix target per run: ~50% `google-news` (timely), ~40% `google` (background/filings), ~10% `google-scholar` (only evidence-heavy technical edges)."
+  ],
+  "prompt_patch": [
+    "Patch `lab_prompt_tools/lre/lre_self_evolve_investments_prompt.md`: require explicit output sections for `engine_routing_plan`, `source_tier_policy`, `risk_monitor_signals`, and `split_decision` (yes/no + why).",
+    "Patch `lab_prompt_tools/lre/lre_investments_prompt.md`: require each high-conviction idea to include at least 1 disconfirming signal and 2 measurable monthly monitoring triggers (numeric or binary).",
+    "Patch `lab_prompt_tools/lre/investment_queries.txt` format to support prefixed lines (`news|...`, `general|...`, `scholar|...`) and seed with balanced macro/valuation/asymmetry templates."
+  ],
+  "script_patch": [
+    "Fix validation mismatch in `lab_prompt_tools/lre/prompt_lre_self_evolve.sh`: replace required field `analysis` with `diagnosis` to match schema.",
+    "Patch `lab_prompt_tools/lre/prompt_lre_investment_finder.sh`: add `choose_engine()` (reuse logic pattern from ideas/profile scripts) and route by query prefix/token instead of always `google-news`.",
+    "Patch `prompt_lre_investment_finder.sh` fallback detection: check `query-*.json` across `${run_label}`, `${run_label}-fallback`, and `${run_label}-fallback2` before deciding additional retries.",
+    "Patch stats block in `prompt_lre_investment_finder.sh`: treat zero-byte/invalid JSON as failure; compute `weak_signal` from parseable JSON ratio + valid opened items, not screenshot count alone.",
+    "Add URL-quality filter post-run (new helper script, e.g. `lab_prompt_tools/lre/prompt_lre_investment_source_filter.py`): flag/penalize hosts like `news.google.com`, `google.com/*`; trigger auto-rerun with `google` + source operators when low-quality host ratio >40%.",
+    "Split workflow into focused tools (recommended: yes): create `prompt_lre_investment_news_collector.sh`, `prompt_lre_investment_risk_checker.sh`, and `prompt_lre_investment_thesis_monitor.sh`, then aggregate outputs in `prompt_lre_investment_finder.sh`."
+  ],
+  "recommended_queries": [
+    "hyperscaler capex guidance 2026 datacenter ROI microsoft alphabet amazon earnings call",
+    "AI inference demand power constraint utility interconnection queue data center 2026 Reuters",
+    "semiconductor equipment book-to-bill memory cycle risk 2026 ASML TSMC Samsung guidance",
+    "software valuation dispersion rule of 40 free cash flow yield compression 2026",
+    "credit spreads MOVE index dollar liquidity regime shift equity drawdown risk 2026",
+    "small cap cybersecurity platform consolidation asymmetric upside insider buying 2026"
+  ],
+  "next_experiment": "Implement 4 low-risk fixes first (`diagnosis` validator key, engine routing, fallback path detection, weak-signal scoring), run one investment cycle, and pass only if: parseable JSON ratio >= 70%, low-quality host ratio <= 40%, and each high-conviction output includes >=2 monthly monitor triggers; then roll out the 3-tool split."
+}

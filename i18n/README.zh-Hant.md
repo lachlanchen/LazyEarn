@@ -1,8 +1,6 @@
 [English](../README.md) · [العربية](README.ar.md) · [Español](README.es.md) · [Français](README.fr.md) · [日本語](README.ja.md) · [한국어](README.ko.md) · [Tiếng Việt](README.vi.md) · [中文 (简体)](README.zh-Hans.md) · [中文（繁體）](README.zh-Hant.md) · [Deutsch](README.de.md) · [Русский](README.ru.md)
 
-
 [![LazyingArt banner](https://github.com/lachlanchen/lachlanchen/raw/main/figs/banner.png)](https://github.com/lachlanchen/lachlanchen/blob/main/figs/banner.png)
-
 
 # LazyEarn — Lazy Money Lab + Earn From Scratch
 
@@ -20,13 +18,13 @@ Earn.lazying.art 是一本偏向「慢節奏儀式」的金錢實戰手冊，而
 
 ## 🗂️ 快照總覽
 
-| 位置 | 用途 | 為何重要 |
-| --- | --- | --- |
-| `docs/` | 正式站台原始碼（`index.html`、`styles.css`、`script.js`） | 為 `earn.lazying.art` 提供正式服務的前端 |
-| `investment/` | Markdown 研究簡報 | 研究敘事與分析的權威來源 |
-| `investment_pdfs/` | 編譯完成的 LaTeX/PDF 檔案 | 可共享、可展示等級的成果輸出 |
-| `figs/` | 品牌素材 | 視覺識別與橫幅（banner）參考 |
-| `i18n/` | README 翻譯檔 | 多語版本入口 |
+| 位置               | 用途                                                      | 為何重要                                 |
+| ------------------ | --------------------------------------------------------- | ---------------------------------------- |
+| `docs/`            | 正式站台原始碼（`index.html`、`styles.css`、`script.js`） | 為 `earn.lazying.art` 提供正式服務的前端 |
+| `investment/`      | Markdown 研究簡報                                         | 研究敘事與分析的權威來源                 |
+| `investment_pdfs/` | 編譯完成的 LaTeX/PDF 檔案                                 | 可共享、可展示等級的成果輸出             |
+| `figs/`            | 品牌素材                                                  | 視覺識別與橫幅（banner）參考             |
+| `i18n/`            | README 翻譯檔                                             | 多語版本入口                             |
 
 ## 🧭 概覽
 
@@ -56,22 +54,22 @@ LazyEarn 是一個以 GitHub Pages 為導向的靜態專案，核心由兩大區
 
 ## 🧩 網站內容
 
-| 區塊 | 專注 | 感受 |
-| --- | --- | --- |
-| **Lazy Money Lab** | 讓你休息時也能讓資金繼續流動 | 疊加式迴路，不是待辦清單 |
-| **Lazy Earn Stack** | 自動化路徑圖、靈感庫與放鬆指數 | 結構完整，但語氣平靜 |
-| **Earn From Scratch** | 為新手設計的 Spark → Craft → Stretch | 從零開始，遠離硬拼文化 |
-| **Idea Playground** | 互動式產生器，快速混合新嘗試 | 點一下就可重組想法 |
-| **Research Drop** | 持續更新的投資風格簡報 | 深度敘述 + 決策信心 |
+| 區塊                  | 專注                                 | 感受                     |
+| --------------------- | ------------------------------------ | ------------------------ |
+| **Lazy Money Lab**    | 讓你休息時也能讓資金繼續流動         | 疊加式迴路，不是待辦清單 |
+| **Lazy Earn Stack**   | 自動化路徑圖、靈感庫與放鬆指數       | 結構完整，但語氣平靜     |
+| **Earn From Scratch** | 為新手設計的 Spark → Craft → Stretch | 從零開始，遠離硬拼文化   |
+| **Idea Playground**   | 互動式產生器，快速混合新嘗試         | 點一下就可重組想法       |
+| **Research Drop**     | 持續更新的投資風格簡報               | 深度敘述 + 決策信心      |
 
 ## 📈 投資研究資料倉
 
-| 你會拿到什麼 | Markdown | PDF |
-| --- | --- | --- |
-| **High-Growth Dossier** | 九檔美股覆蓋報告，含上行空間表與來源連結分析。
-另附 AI、生技、半導體、清潔能源、雲端的敘事梳理。 | [`Open markdown`](https://github.com/lachlanchen/LazyEarn/blob/main/investment/high-growth-stocks.md) | [Open PDF](https://earn.lazying.art/pdf-viewer.html#high-growth) |
-| **Financial Freedom Playbook** | 原則框架 + 自動化構想、資本配置表、季度儀式與新想法種子。 | [`Open markdown`](https://github.com/lachlanchen/LazyEarn/blob/main/investment/financial_freedom.md) | [Open PDF](https://earn.lazying.art/pdf-viewer.html#financial-freedom) |
-涵蓋理性消費、複利、收入結構與成長節奏。 | [`打開 Markdown`](https://github.com/lachlanchen/LazyEarn/blob/main/investment/financial_freedom_zh.md) | [打開 PDF](https://earn.lazying.art/pdf-viewer.html?file=financial-freedom-zh) |
+| 你會拿到什麼                                      | Markdown                                                                                                | PDF                                                                                                  |
+| ------------------------------------------------- | ------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------- |
+| **High-Growth Dossier**                           | 九檔美股覆蓋報告，含上行空間表與來源連結分析。                                                          |
+| 另附 AI、生技、半導體、清潔能源、雲端的敘事梳理。 | [`Open markdown`](https://github.com/lachlanchen/LazyEarn/blob/main/investment/high-growth-stocks.md)   | [Open PDF](https://earn.lazying.art/pdf-viewer.html#high-growth)                                     |
+| **Financial Freedom Playbook**                    | 原則框架 + 自動化構想、資本配置表、季度儀式與新想法種子。                                               | [`Open markdown`](https://github.com/lachlanchen/LazyEarn/blob/main/investment/financial_freedom.md) | [Open PDF](https://earn.lazying.art/pdf-viewer.html#financial-freedom) |
+| 涵蓋理性消費、複利、收入結構與成長節奏。          | [`打開 Markdown`](https://github.com/lachlanchen/LazyEarn/blob/main/investment/financial_freedom_zh.md) | [打開 PDF](https://earn.lazying.art/pdf-viewer.html?file=financial-freedom-zh)                       |
 
 ## 🗂️ 專案結構
 
@@ -229,8 +227,8 @@ https://earn.lazying.art/pdf-viewer.html?file=financial-freedom-zh
 
 ## ❤️ Support
 
-| Donate | PayPal | Stripe |
-| --- | --- | --- |
+| Donate                                                                                                                                                                                                                                                                                                                                                     | PayPal                                                                                                                                                                                                                                                                                                                                                          | Stripe                                                                                                                                                                                                                                                                                                                                                              |
+| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | [![Donate](https://camo.githubusercontent.com/24a4914f0b42c6f435f9e101621f1e52535b02c225764b2f6cc99416926004b7/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f446f6e6174652d4c617a79696e674172742d3045413545393f7374796c653d666f722d7468652d6261646765266c6f676f3d6b6f2d6669266c6f676f436f6c6f723d7768697465)](https://chat.lazying.art/donate) | [![PayPal](https://camo.githubusercontent.com/d0f57e8b016517a4b06961b24d0ca87d62fdba16e18bbdb6aba28e978dc0ea21/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f50617950616c2d526f6e677a686f754368656e2d3030343537433f7374796c653d666f722d7468652d6261646765266c6f676f3d70617970616c266c6f676f436f6c6f723d7768697465)](https://paypal.me/RongzhouChen) | [![Stripe](https://camo.githubusercontent.com/1152dfe04b6943afe3a8d2953676749603fb9f95e24088c92c97a01a897b4942/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f5374726970652d446f6e6174652d3633354246463f7374796c653d666f722d7468652d6261646765266c6f676f3d737472697065266c6f676f436f6c6f723d7768697465)](https://buy.stripe.com/aFadR8gIaflgfQV6T4fw400) |
 
 ## 📬 聯繫方式

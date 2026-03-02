@@ -1,6 +1,5 @@
 [English](../README.md) · [العربية](README.ar.md) · [Español](README.es.md) · [Français](README.fr.md) · [日本語](README.ja.md) · [한국어](README.ko.md) · [Tiếng Việt](README.vi.md) · [中文 (简体)](README.zh-Hans.md) · [中文（繁體）](README.zh-Hant.md) · [Deutsch](README.de.md) · [Русский](README.ru.md)
 
-
 [![LazyingArt banner](https://github.com/lachlanchen/lachlanchen/raw/main/figs/banner.png)](https://github.com/lachlanchen/lachlanchen/blob/main/figs/banner.png)
 
 Tùy chọn ngôn ngữ: **English (bản nháp hiện tại)**. Các bản README đa ngôn ngữ đang được lên kế hoạch trong `i18n/` (thư mục đã có).
@@ -21,13 +20,13 @@ Tùy chọn ngôn ngữ: **English (bản nháp hiện tại)**. Các bản READ
 
 ## 🗂️ Bản đồ nhanh
 
-| Vị trí | Mục đích | Lý do quan trọng |
-| --- | --- | --- |
-| `docs/` | Nguồn website production (`index.html`, `styles.css`, `script.js`) | Trang công khai vận hành `earn.lazying.art` |
-| `investment/` | Tài liệu nghiên cứu dạng Markdown | Nguồn gốc chuẩn cho phần kể chuyện và phân tích |
-| `investment_pdfs/` | Tài liệu LaTeX/PDF đã biên dịch | Bản đầu ra có thể chia sẻ, cấp độ chuyên nghiệp |
-| `figs/` | Tài nguyên thương hiệu | Nhận diện hình ảnh và banner |
-| `i18n/` | Các file README đã dịch | Điểm vào repository theo nhiều ngôn ngữ |
+| Vị trí             | Mục đích                                                           | Lý do quan trọng                                |
+| ------------------ | ------------------------------------------------------------------ | ----------------------------------------------- |
+| `docs/`            | Nguồn website production (`index.html`, `styles.css`, `script.js`) | Trang công khai vận hành `earn.lazying.art`     |
+| `investment/`      | Tài liệu nghiên cứu dạng Markdown                                  | Nguồn gốc chuẩn cho phần kể chuyện và phân tích |
+| `investment_pdfs/` | Tài liệu LaTeX/PDF đã biên dịch                                    | Bản đầu ra có thể chia sẻ, cấp độ chuyên nghiệp |
+| `figs/`            | Tài nguyên thương hiệu                                             | Nhận diện hình ảnh và banner                    |
+| `i18n/`            | Các file README đã dịch                                            | Điểm vào repository theo nhiều ngôn ngữ         |
 
 ## 🧭 Tổng quan
 
@@ -57,19 +56,20 @@ Tên miền production chính (từ `docs/CNAME`): `earn.lazying.art`.
 
 ## 🧩 Nội dung bên trong website
 
-| Phần | Trọng tâm | Năng lượng |
-| --- | --- | --- |
-| **Lazy Money Lab** | Cách để tiền chảy trong khi bạn vẫn nghỉ ngơi | Chuỗi vòng lặp chồng lớp, không phải việc làm |
-| **Lazy Earn Stack** | Bản đồ tự động hóa, kho ý tưởng và chỉ số thư giãn | Tổ chức chặt chẽ nhưng điềm tĩnh |
-| **Earn From Scratch** | Bật lửa → chế tác → mở rộng cho người mới | Bắt đầu từ con số 0, loại bỏ văn hóa bám mặt nặng nề |
-| **Idea Playground** | Trình tạo tương tác cho các thí nghiệm kiếm tiền mới | Chạm để remix ý tưởng |
-| **Research Drop** | Kệ trưng bày sống cho các báo cáo đầu tư | Bài viết dài có mức độ thuyết phục cao |
+| Phần                  | Trọng tâm                                            | Năng lượng                                           |
+| --------------------- | ---------------------------------------------------- | ---------------------------------------------------- |
+| **Lazy Money Lab**    | Cách để tiền chảy trong khi bạn vẫn nghỉ ngơi        | Chuỗi vòng lặp chồng lớp, không phải việc làm        |
+| **Lazy Earn Stack**   | Bản đồ tự động hóa, kho ý tưởng và chỉ số thư giãn   | Tổ chức chặt chẽ nhưng điềm tĩnh                     |
+| **Earn From Scratch** | Bật lửa → chế tác → mở rộng cho người mới            | Bắt đầu từ con số 0, loại bỏ văn hóa bám mặt nặng nề |
+| **Idea Playground**   | Trình tạo tương tác cho các thí nghiệm kiếm tiền mới | Chạm để remix ý tưởng                                |
+| **Research Drop**     | Kệ trưng bày sống cho các báo cáo đầu tư             | Bài viết dài có mức độ thuyết phục cao               |
 
 ## 📈 Kho nghiên cứu đầu tư
 
-| Bạn nhận được gì | Markdown | PDF |
-| --- | --- | --- |
-| **Hồ sơ tăng trưởng cao** | Chín mã cổ phiếu Mỹ với bảng upside và phân tích liên kết nguồn.
+| Bạn nhận được gì          | Markdown                                                         | PDF |
+| ------------------------- | ---------------------------------------------------------------- | --- |
+| **Hồ sơ tăng trưởng cao** | Chín mã cổ phiếu Mỹ với bảng upside và phân tích liên kết nguồn. |
+
 Bản tóm tắt theo câu chuyện cho AI, sinh học, chất bán dẫn, năng lượng sạch, và điện toán đám mây.
 [`Mở markdown`](https://github.com/lachlanchen/LazyEarn/blob/main/investment/high-growth-stocks.md) | [Mở PDF](https://earn.lazying.art/pdf-viewer.html#high-growth) |
 | **Financial Freedom Playbook** | Nguyên tắc + ý tưởng tự động hóa, bảng phân bổ vốn, nghi thức theo quý, và mầm mống ý tưởng mới.
@@ -232,8 +232,8 @@ Checklist PR đề xuất:
 
 ## ❤️ Support
 
-| Donate | PayPal | Stripe |
-| --- | --- | --- |
+| Donate                                                                                                                                                                                                                                                                                                                                                     | PayPal                                                                                                                                                                                                                                                                                                                                                          | Stripe                                                                                                                                                                                                                                                                                                                                                              |
+| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | [![Donate](https://camo.githubusercontent.com/24a4914f0b42c6f435f9e101621f1e52535b02c225764b2f6cc99416926004b7/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f446f6e6174652d4c617a79696e674172742d3045413545393f7374796c653d666f722d7468652d6261646765266c6f676f3d6b6f2d6669266c6f676f436f6c6f723d7768697465)](https://chat.lazying.art/donate) | [![PayPal](https://camo.githubusercontent.com/d0f57e8b016517a4b06961b24d0ca87d62fdba16e18bbdb6aba28e978dc0ea21/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f50617950616c2d526f6e677a686f754368656e2d3030343537433f7374796c653d666f722d7468652d6261646765266c6f676f3d70617970616c266c6f676f436f6c6f723d7768697465)](https://paypal.me/RongzhouChen) | [![Stripe](https://camo.githubusercontent.com/1152dfe04b6943afe3a8d2953676749603fb9f95e24088c92c97a01a897b4942/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f5374726970652d446f6e6174652d3633354246463f7374796c653d666f722d7468652d6261646765266c6f676f3d737472697065266c6f676f436f6c6f723d7768697465)](https://buy.stripe.com/aFadR8gIaflgfQV6T4fw400) |
 
 ## 📬 Liên hệ
