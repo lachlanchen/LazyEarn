@@ -217,6 +217,21 @@ Luck does not replace effort, but it strongly shapes outcomes:
 
 The right response is not cynicism. It is to build a system that benefits from good luck when it appears and survives bad luck when it arrives.
 
+### 5.5 Access-and-resilience scoreboard (quarterly)
+
+To keep this section operational, track one compact scoreboard instead of relying on narrative instinct.
+
+| Layer | Signal to track | Primary source | Decision use |
+| --- | --- | --- | --- |
+| **System stress** | broad market stress pulse | OFR Financial Stress Index (`https://www.financialresearch.gov/financial-stress-index/`) | falling stress with stable access supports gradual risk re-entry |
+| **Bank resilience** | vulnerability narrative and channel-level stress commentary | Fed Financial Stability Report (`https://www.federalreserve.gov/publications/financial-stability-report.htm`) | improving resilience does not automatically mean broad credit access |
+| **Credit standards** | lender tightening/easing by segment | Fed SLOOS (`https://www.federalreserve.gov/data/sloos.htm`) | tightening is an early warning for entrant access constraints |
+| **Entrant credit access** | small-business and community-lending distribution | FFIEC CRA Data Products (`https://www.ffiec.gov/data/cra/data-products`) | weak entrant credit despite lower stress implies unequal transmission |
+| **Ownership-entry pipeline** | firm entry/exit and cohort dynamics | Census BDS API (`https://www.census.gov/topics/business-economy/dynamics/data/api.html`) | strong formation with weak persistence signals churn, not durable ownership gains |
+| **Household stress realization** | delinquency transitions and debt-burden outcomes | NY Fed Household Debt + Fed DSR/FOR (`https://www.newyorkfed.org/microeconomics/hhdc/background`, `https://www.federalreserve.gov/releases/dsr/`) | confirms whether access and burden are becoming balance-sheet damage |
+
+If system stress improves but entrant access and household outcomes do not, treat the cycle as asymmetric: resilience for incumbents, friction for new owners.
+
 ## 6. Who can build wealth?
 
 Almost anyone can improve their financial position. Not everyone can follow the same path, at the same speed, with the same risk.
@@ -265,7 +280,7 @@ This is why one of the deepest wealth questions is:
 
 ## 8. How wealth is built in practice
 
-Wealth usually comes from combining five engines.
+Wealth usually comes from combining six engines plus one execution loop.
 
 ### 8.1 Increase earning power
 
@@ -358,6 +373,24 @@ Use this loop when deciding whether to accelerate ownership (housing, business e
 | **Defensive** | tightening access + rising burden + worsening transitions | delay large leverage, increase runway, protect downside |
 | **Neutral** | mixed signals, no broad stress acceleration | continue dollar-cost ownership, avoid concentrated bets |
 | **Offensive (controlled)** | stable access + manageable burden + contained transitions | add ownership exposure in staged tranches, keep risk limits fixed |
+
+### 8.7 Scenario-ready leverage stress test (10-minute version)
+
+Before increasing leverage, run one scenario stress check using supervisory-style shocks:
+
+- Scenario anchor: Fed 2026 stress paths (`https://www.federalreserve.gov/publications/2026-stress-test-scenarios.htm`).
+- Burden anchor: Fed DSR/FOR (`https://www.federalreserve.gov/releases/dsr/`).
+- Household stress anchor: NY Fed Household Debt and Credit (`https://www.newyorkfed.org/microeconomics/hhdc/background`).
+- Asset-side anchor: FHFA HPI (`https://www.fhfa.gov/house-price-index`) plus inflation reality check via BLS CPI (`https://www.bls.gov/cpi/home.htm`).
+
+| Test block | Pass condition | Fail condition | Action if fail |
+| --- | --- | --- | --- |
+| **Income shock tolerance** | cash-flow plan survives unemployment/income hit assumptions | negative monthly cash flow for multiple quarters | reduce fixed commitments and delay new leverage |
+| **Payment burden tolerance** | debt-service share remains within pre-set safe range | burden rises above your red-line threshold | deleverage first, then reassess |
+| **Asset drawdown tolerance** | no forced sale under house/equity drawdown | margin call, forced refi, or liquidity break | increase liquidity buffer and reduce concentration |
+| **Inflation-adjusted resilience** | real income holds up versus fixed obligations | real income erosion plus rising debt burden | prioritize pricing power, wage/skill upgrades, and lower fixed costs |
+
+Rule: do not scale leverage only because stress indicators are quiet; scale only after your own balance sheet passes this stress check.
 
 ## 9. A simple wealth-building operating system
 

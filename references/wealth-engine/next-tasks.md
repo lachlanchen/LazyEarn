@@ -1,6 +1,6 @@
 # Next tasks
 
-Updated: 2026-04-05 (cycle_005 round_02 question_bank)
+Updated: 2026-04-05 (cycle_005 round_03 book_markdown)
 
 Measured review anchors (from this round):
 - `references/wealth-engine/knowledge/` currently misses 8 planned artifacts:
@@ -16,8 +16,8 @@ Measured review anchors (from this round):
   - expected: `tools/validate-site-content.sh` or `tools/validate-site-content.js`
 - Claim-level citation density in `investment/wealth-from-first-principles.md` remains weak in key sections:
   - `section_3_url_lines = 10`
-  - `section_5_url_lines = 0`
-  - `section_8_url_lines = 0`
+  - `section_5_url_lines = 7`
+  - `section_8_url_lines = 5`
 - Research/viewer localization drift (`research.*` + `viewer.backToResearch`, equal-to-English counts in 29-key scope):
   - `zh-Hant = 18/29` (missing: `0`)
   - `zh-Hans = 18/29` (missing: `0`)
@@ -57,6 +57,9 @@ Done when: the appendix ties money and wealth to energy, material throughput, lo
 
 4. Compile after material book edits instead of waiting only for round 09.
 Done when: any cycle that materially changes the markdown or TeX book also refreshes both PDF distribution targets or leaves an explicit blocker note in the round summary.
+
+5. Mirror new markdown book mechanisms into TeX in the next book_tex round.
+Done when: markdown-only additions (for example section-level scoreboards or stress-test tables) are reflected in `wealth-from-first-principles.tex` with equivalent structure and source links.
 
 ## Priority 0 - Highest-value sequence (execute in order)
 
