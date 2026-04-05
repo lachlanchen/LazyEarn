@@ -379,6 +379,24 @@ When a claim sounds good, rank it before acting:
 
 Practical rule: only take concentrated risk when claim quality is at least level 4 and your downside is survivable.
 
+### 9.3 Household stress dashboard (monthly or quarterly)
+
+If your goal is durable wealth, monitor stress signals before balance-sheet damage becomes visible.
+
+| Signal | What it tracks | Where to check | Practical read |
+| --- | --- | --- | --- |
+| **Debt-service burden** | fixed payment pressure relative to disposable income | Federal Reserve DSR/FOR (`releases/dsr`) | persistent rise means less room for compounding and higher fragility |
+| **Expected missed-payment risk** | household expectation of future delinquency | New York Fed SCE | rising expectations often warn before realized defaults |
+| **Realized delinquency transitions** | movement from current to 30/60/90+ day delinquency | New York Fed Household Debt and Credit | confirms whether stress is broadening or contained |
+| **Difficulty paying bills** | self-reported financial strain and liquidity stress | CFPB Making Ends Meet | shows stress in cash-flow reality, not just credit files |
+| **Real income momentum** | income growth net of inflation | BEA Personal Income + BLS CPI | weak real income with high debt service is a high-risk mix |
+
+Use order of operations:
+
+1. Track expectations (`SCE`) and debt-service burden (`DSR/FOR`) as early signals.
+2. Confirm with realized delinquency transitions (NY Fed Household Debt).
+3. Adjust leverage, liquidity buffers, and fixed-cost commitments before stress compounds.
+
 ## 10. A 90-day plan
 
 ### Days 1-30: map reality
@@ -461,7 +479,10 @@ This is a curated starter map, not an exhaustive library.
 | **Federal Reserve H.6** | broad money and component trends | weekly/monthly U.S. money stock release |
 | **Federal Reserve Z.1 + DFA + EFA** | sector balance sheets, distributional and geographic detail | quarterly U.S. flow-of-funds stack |
 | **Federal Reserve SCF** | household assets, liabilities, and ownership concentration | triennial microdata benchmark |
+| **Federal Reserve DSR/FOR** | household debt-service and fixed-obligation burden | quarterly U.S. household burden release |
 | **New York Fed Household Debt and Credit** | delinquency transitions and debt composition by household slices | quarterly U.S. credit panel |
+| **New York Fed SCE** | inflation, labor, credit access, and expected delinquency signals | monthly U.S. household expectations survey |
+| **CFPB Making Ends Meet** | direct household stress and bill-payment strain indicators | annual survey reports with data files |
 | **BEA Personal Income and Outlays** | income, consumption, and personal saving path | monthly U.S. national accounts release |
 | **BLS CPI + CEX** | inflation pressure and household spending structure | monthly CPI and annual spending detail |
 | **FHFA House Price Index** | housing wealth regime and regional price dynamics | monthly/quarterly U.S. house-price indices |
@@ -469,13 +490,15 @@ This is a curated starter map, not an exhaustive library.
 | **WID + WIID + OECD IDD/WDD** | cross-country inequality and distribution comparisons | global inequality and OECD harmonized datasets |
 | **World Bank CWON + PIP + Findex + IDS** | comprehensive wealth, poverty, inclusion, and debt context | global development and debt datasets |
 | **IMF WEO + GDD + BIS data portal** | macro regime, debt cycle, and cross-country financial benchmarks | global macro-financial references |
+| **SEC EDGAR API docs + FRED/ALFRED** | reproducible filings ingestion and revision-aware macro pulls | API docs plus vintage-aware archive layer |
+| **FRASER historical archive** | primary-source monetary and financial history documents | long-run policy and publication archive |
 
 ## 12. Source notes
 
 Primary web references used for this guide were checked on **2026-04-05** and include:
 
-- Federal Reserve releases: H.6, Z.1, DFA, EFA, and SCF
-- Federal Reserve Bank of New York: Household Debt and Credit report
+- Federal Reserve releases: H.6, Z.1, DFA, EFA, SCF, and DSR/FOR
+- Federal Reserve Bank of New York: Household Debt and Credit report, Survey of Consumer Expectations
 - U.S. BEA: Personal Income and Outlays
 - U.S. BLS: CPI and Consumer Expenditure Surveys
 - U.S. Census: Wealth and Asset Ownership tables (SIPP) and P70BR-211 brief
@@ -485,12 +508,14 @@ Primary web references used for this guide were checked on **2026-04-05** and in
 - BIS Data Portal
 - World Bank: The Changing Wealth of Nations 2024, Global Findex, PIP, IDS
 - WID.world, WIID, and OECD IDD/WDD
+- CFPB: Making Ends Meet survey data and "Your Money, Your Goals"
+- SEC: EDGAR API documentation
+- St. Louis Fed: FRED API docs, ALFRED, and FRASER archive
 - Yale/Coursera, "Financial Markets"
 - Open Yale Courses, "Financial Theory"
 - MIT OpenCourseWare, "Blockchain and Money"
 - OpenStax, "Principles of Economics 3e"
 - Khan Academy, "Personal Finance"
-- CFPB, "Your Money, Your Goals"
 - Investor.gov financial tools and calculators
 - Federal Reserve Education, "Making Personal Finance Decisions Curriculum"
 

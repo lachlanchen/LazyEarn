@@ -1,6 +1,6 @@
 # Next tasks
 
-Updated: 2026-04-05 (cycle_002 round_02 question_bank)
+Updated: 2026-04-05 (cycle_002 round_03 book_markdown)
 
 ## Priority A - Evidence pipeline (execute first)
 
@@ -67,3 +67,7 @@ Done when: at least 8 stress signals are mapped and each has a documented interp
 15. Create `references/wealth-engine/knowledge/question-evidence-gates.md` for `M1`, `O2`, `L1`, `I1`, and `R1`.
 Output: one row per question with `minimum_evidence`, `falsifier`, `must_not_conflate`, and `decision_use`.
 Done when: each question has explicit pass/fail evidence conditions and one disconfirming test.
+
+16. Mirror markdown section `9.3 Household stress dashboard` into `investment_pdfs/wealth-from-first-principles/wealth-from-first-principles.tex`.
+Output: TeX subsection with the same five signals and a source-aware interpretation sequence.
+Done when: markdown and TeX both expose the same dashboard logic and source families.
