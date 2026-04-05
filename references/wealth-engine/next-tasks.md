@@ -1,6 +1,6 @@
 # Next tasks
 
-Updated: 2026-04-05 (cycle_005 round_07 website_sync)
+Updated: 2026-04-05 (cycle_005 round_08 translation_and_catalog)
 
 Measured review anchors (from this round):
 - `references/wealth-engine/knowledge/` currently misses 7 planned artifacts:
@@ -17,15 +17,15 @@ Measured review anchors (from this round):
   - `section_3_url_lines = 10`
   - `section_5_url_lines = 7`
   - `section_8_url_lines = 5`
-- Research/viewer localization drift (`research.*` + `viewer.backToResearch`, equal-to-English counts in 29-key scope):
-  - `zh-Hant = 18/29` (missing: `0`)
-  - `zh-Hans = 18/29` (missing: `0`)
-  - `ja = 24/29` (missing: `5`)
-  - `ko = 24/29` (missing: `5`)
-  - `vi = 24/29` (missing: `5`)
-  - `ar = 24/29` (missing: `5`)
-  - `fr = 24/29` (missing: `5`)
-  - `es = 24/29` (missing: `5`)
+- Research/viewer localization drift (`research.*` + `viewer.backToResearch`, equal-to-English counts in 30-key scope):
+  - `zh-Hant = 30/30` (missing: `0`, equal-to-English: `18`)
+  - `zh-Hans = 30/30` (missing: `0`, equal-to-English: `18`)
+  - `ja = 25/30` (missing: `5`, equal-to-English: `24`)
+  - `ko = 25/30` (missing: `5`, equal-to-English: `24`)
+  - `vi = 25/30` (missing: `5`, equal-to-English: `24`)
+  - `ar = 25/30` (missing: `5`, equal-to-English: `24`)
+  - `fr = 25/30` (missing: `5`, equal-to-English: `24`)
+  - `es = 25/30` (missing: `5`, equal-to-English: `24`)
 - Build warning baseline from cycle_005 round_04 (`wealth-from-first-principles`):
   - `microtype warnings = 1`
   - `overfull_hbox = 1`
@@ -33,9 +33,9 @@ Measured review anchors (from this round):
   - `underfull_vbox = 3`
 - Source-ledger schema is still pre-migration:
   - header is `date, category, title, url, note` (missing planned fields `source_type`, `update_cadence`, `last_verified_on`)
-- Research card action gap closed in cycle_005 round_07:
-  - `financial-freedom-zh` now has a direct on-site CTA in `docs/index.html` and is wired in `docs/script.js`.
-  - follow-up: localize the new `research.viewChinese` key across non-English packs in `docs/translations.json`.
+- Research card action gap closed in cycle_005 round_07 and localized in cycle_005 round_08:
+  - `financial-freedom-zh` has a direct on-site CTA in `docs/index.html` and route wiring in `docs/script.js`.
+  - `research.viewChinese` is now present in all runtime locale packs in `docs/translations.json`.
 - Language-scope split is now documented in `README.md`: runtime UI locales in `docs/translations.json` are `9`, while translated README variants under `i18n/` are `10`.
 - Viewer alias table is now documented in `README.md` and should be kept in sync with `docs/script.js`.
 
@@ -98,8 +98,8 @@ Done when: one canonical route model is documented in README and reflected in `d
 
 ## Priority 0A - Immediate sync fixes
 
-- `P0A-1` Localize the new Chinese-edition CTA label (`research.viewChinese`) in `docs/translations.json`.
-Done when: all runtime locales render a localized label for the Financial Freedom Chinese-edition CTA and no locale falls back to English for this key.
+- `P0A-1` Native-review the new locale strings for `research.viewChinese` and the DP-5-expanded `research.point4`.
+Done when: `ja`, `ko`, `vi`, `ar`, `fr`, and `es` have reviewed phrasing that matches local conventions while keeping route terms and method IDs (`QE-5`, `HS-8`, `LL-6`, `DP-5`) intact.
 
 ## Priority 1 - Evidence products and decision layer
 

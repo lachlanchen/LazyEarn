@@ -92,7 +92,7 @@ const fallbackStrings = {
   "research.point1": `Distinction-first answers on money creation, ownership, leverage, inequality, and risk.`,
   "research.point2": `Primary-source coverage across Fed, NY Fed, BLS, Census, IMF, BIS, World Bank, OECD, and SEC resources.`,
   "research.point3": `Question -> evidence -> claim workflow with SQ-5 source quality gates.`,
-  "research.point4": `Operational additions: household stress dashboard, credit-conditions transmission check, and QE-5/HS-8/LL-6 methods for decision-ready monitoring.`,
+  "research.point4": `Operational additions: household stress dashboard, credit-conditions transmission check, and QE-5/HS-8/LL-6/DP-5 methods for decision-ready monitoring.`,
   "research.point5": `Latest additions: a channel-map lens from system credit to household outcomes, plus EV-7 entry-vs-incumbent tests for ownership access timing.`,
   "research.pdf": `Download PDF`,
   "research.viewInline": `View on-site`,

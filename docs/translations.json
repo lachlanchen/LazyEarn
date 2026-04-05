@@ -97,7 +97,7 @@
       "research.point1": "Distinction-first answers on money creation, ownership, leverage, inequality, and risk.",
       "research.point2": "Primary-source coverage across Fed, NY Fed, BLS, Census, IMF, BIS, World Bank, OECD, and SEC resources.",
       "research.point3": "Question -> evidence -> claim workflow with SQ-5 source quality gates.",
-      "research.point4": "Operational additions: household stress dashboard, credit-conditions transmission check, and QE-5/HS-8/LL-6 methods for decision-ready monitoring.",
+      "research.point4": "Operational additions: household stress dashboard, credit-conditions transmission check, and QE-5/HS-8/LL-6/DP-5 methods for decision-ready monitoring.",
       "research.point5": "Latest additions: a channel-map lens from system credit to household outcomes, plus EV-7 entry-vs-incumbent tests for ownership access timing.",
       "research.pdf": "Download PDF",
       "research.md": "Read Markdown",
@@ -119,7 +119,8 @@
       "viewer.backToResearch": "← Back to Research Drop",
       "research.asset2ZhTitle": "Financial freedom playbook (Chinese edition)",
       "research.asset2ZhDesc": "Chinese edition covering rational spending, compounding, diversified income, and automation routines with a Lazy Money-style allocation table.",
-      "research.asset2ZhRoute": "Chinese viewer slug: <code>financial-freedom-zh</code> (aliases: <code>financial_freedom_zh</code>, <code>financial-freedom-zh-cn</code>)."
+      "research.asset2ZhRoute": "Chinese viewer slug: <code>financial-freedom-zh</code> (aliases: <code>financial_freedom_zh</code>, <code>financial-freedom-zh-cn</code>).",
+      "research.viewChinese": "View Chinese edition"
     },
     "ideas": {
       "lazySprint": "Launch a 5-day Lazy Earn sprint teaching people to automate one newsletter ad slot, then sell replay access.",
@@ -232,7 +233,7 @@
       "research.point1": "Distinction-first answers on money creation, ownership, leverage, inequality, and risk.",
       "research.point2": "Primary-source coverage across Fed, NY Fed, BLS, Census, IMF, BIS, World Bank, OECD, and SEC resources.",
       "research.point3": "Question -> evidence -> claim workflow with SQ-5 source quality gates.",
-      "research.point4": "新增操作層：家戶壓力儀表板、信用條件傳導檢查，以及 QE-5/HS-8/LL-6 方法，用於可決策監測。",
+      "research.point4": "新增操作層：家戶壓力儀表板、信用條件傳導檢查，以及 QE-5/HS-8/LL-6/DP-5 方法，用於可決策監測。",
       "research.point5": "最新補充：新增從系統信用到家戶結果的傳導地圖視角，並加入 EV-7 的新進者與既有者進入測試。",
       "research.pdf": "Download PDF",
       "research.md": "Read Markdown",
@@ -254,7 +255,8 @@
       "viewer.backToResearch": "← 返回研究專欄",
       "research.asset2ZhTitle": "財務自由手冊（中文版）",
       "research.asset2ZhDesc": "中文版聚焦理性消費、複利投資、多元收入與自動化習慣，並附 Lazy Money 風格的資產配置表。",
-      "research.asset2ZhRoute": "中文閱讀路由：<code>financial-freedom-zh</code>（別名：<code>financial_freedom_zh</code>、<code>financial-freedom-zh-cn</code>）。"
+      "research.asset2ZhRoute": "中文閱讀路由：<code>financial-freedom-zh</code>（別名：<code>financial_freedom_zh</code>、<code>financial-freedom-zh-cn</code>）。",
+      "research.viewChinese": "查看中文版"
     },
     "ideas": {
       "lazySprint": "啟動為期 5 天的“Lazy Earn”衝刺，教人們如何自動化一個時事通訊廣告位，然後出售重播權限。",
@@ -367,7 +369,7 @@
       "research.point1": "Distinction-first answers on money creation, ownership, leverage, inequality, and risk.",
       "research.point2": "Primary-source coverage across Fed, NY Fed, BLS, Census, IMF, BIS, World Bank, OECD, and SEC resources.",
       "research.point3": "Question -> evidence -> claim workflow with SQ-5 source quality gates.",
-      "research.point4": "新增操作层：家庭压力仪表板、信用条件传导检查，以及 QE-5/HS-8/LL-6 方法，用于决策就绪监测。",
+      "research.point4": "新增操作层：家庭压力仪表板、信用条件传导检查，以及 QE-5/HS-8/LL-6/DP-5 方法，用于决策就绪监测。",
       "research.point5": "最新补充：新增从系统信用到家庭结果的传导地图视角，并加入 EV-7 的新进入者与既有者进入测试。",
       "research.pdf": "Download PDF",
       "research.md": "Read Markdown",
@@ -389,7 +391,8 @@
       "viewer.backToResearch": "← 返回研究专栏",
       "research.asset2ZhTitle": "财务自由手册（中文版）",
       "research.asset2ZhDesc": "中文版聚焦理性消费、复利投资、多元收入与自动化习惯，并附 Lazy Money 风格的资产配置表。",
-      "research.asset2ZhRoute": "中文阅读路由：<code>financial-freedom-zh</code>（别名：<code>financial_freedom_zh</code>、<code>financial-freedom-zh-cn</code>）。"
+      "research.asset2ZhRoute": "中文阅读路由：<code>financial-freedom-zh</code>（别名：<code>financial_freedom_zh</code>、<code>financial-freedom-zh-cn</code>）。",
+      "research.viewChinese": "查看中文版"
     },
     "ideas": {
       "lazySprint": "启动为期 5 天的“Lazy Earn”冲刺，教人们如何自动化一个时事通讯广告位，然后出售重播权限。",
@@ -502,7 +505,7 @@
       "research.point1": "Distinction-first answers on money creation, ownership, leverage, inequality, and risk.",
       "research.point2": "Primary-source coverage across Fed, NY Fed, BLS, Census, IMF, BIS, World Bank, OECD, and SEC resources.",
       "research.point3": "Question -> evidence -> claim workflow with SQ-5 source quality gates.",
-      "research.point4": "Operational additions: household stress dashboard, credit-conditions transmission check, and QE-5/HS-8/LL-6 methods for decision-ready monitoring.",
+      "research.point4": "Operational additions: household stress dashboard, credit-conditions transmission check, and QE-5/HS-8/LL-6/DP-5 methods for decision-ready monitoring.",
       "research.pdf": "Download PDF",
       "research.md": "Read Markdown",
       "research.cardTitle": "What the guide covers",
@@ -519,7 +522,8 @@
       "research.viewInline": "View on-site",
       "viewer.backToResearch": "← Back to Research Drop",
       "research.asset2ZhTitle": "Financial freedom playbook (Chinese edition)",
-      "research.asset2ZhDesc": "Chinese edition covering rational spending, compounding, diversified income, and automation routines with a Lazy Money-style allocation table."
+      "research.asset2ZhDesc": "Chinese edition covering rational spending, compounding, diversified income, and automation routines with a Lazy Money-style allocation table.",
+      "research.viewChinese": "中文版を見る"
     },
     "ideas": {
       "lazySprint": "1 つのニュースレター広告スロットを自動化し、リプレイ アクセスを販売する方法を人々に教える 5 日間の Lazy Earn スプリントを開始します。",
@@ -632,7 +636,7 @@
       "research.point1": "Distinction-first answers on money creation, ownership, leverage, inequality, and risk.",
       "research.point2": "Primary-source coverage across Fed, NY Fed, BLS, Census, IMF, BIS, World Bank, OECD, and SEC resources.",
       "research.point3": "Question -> evidence -> claim workflow with SQ-5 source quality gates.",
-      "research.point4": "Operational additions: household stress dashboard, credit-conditions transmission check, and QE-5/HS-8/LL-6 methods for decision-ready monitoring.",
+      "research.point4": "Operational additions: household stress dashboard, credit-conditions transmission check, and QE-5/HS-8/LL-6/DP-5 methods for decision-ready monitoring.",
       "research.pdf": "Download PDF",
       "research.md": "Read Markdown",
       "research.cardTitle": "What the guide covers",
@@ -649,7 +653,8 @@
       "research.viewInline": "View on-site",
       "viewer.backToResearch": "← Back to Research Drop",
       "research.asset2ZhTitle": "Financial freedom playbook (Chinese edition)",
-      "research.asset2ZhDesc": "Chinese edition covering rational spending, compounding, diversified income, and automation routines with a Lazy Money-style allocation table."
+      "research.asset2ZhDesc": "Chinese edition covering rational spending, compounding, diversified income, and automation routines with a Lazy Money-style allocation table.",
+      "research.viewChinese": "중국어판 보기"
     },
     "ideas": {
       "lazySprint": "사람들에게 하나의 뉴스레터 광고 슬롯을 자동화하고 재생 액세스를 판매하도록 교육하는 5일간의 Lazy Earn 스프린트를 시작하세요.",
@@ -762,7 +767,7 @@
       "research.point1": "Distinction-first answers on money creation, ownership, leverage, inequality, and risk.",
       "research.point2": "Primary-source coverage across Fed, NY Fed, BLS, Census, IMF, BIS, World Bank, OECD, and SEC resources.",
       "research.point3": "Question -> evidence -> claim workflow with SQ-5 source quality gates.",
-      "research.point4": "Operational additions: household stress dashboard, credit-conditions transmission check, and QE-5/HS-8/LL-6 methods for decision-ready monitoring.",
+      "research.point4": "Operational additions: household stress dashboard, credit-conditions transmission check, and QE-5/HS-8/LL-6/DP-5 methods for decision-ready monitoring.",
       "research.pdf": "Download PDF",
       "research.md": "Read Markdown",
       "research.cardTitle": "What the guide covers",
@@ -779,7 +784,8 @@
       "research.viewInline": "View on-site",
       "viewer.backToResearch": "← Back to Research Drop",
       "research.asset2ZhTitle": "Financial freedom playbook (Chinese edition)",
-      "research.asset2ZhDesc": "Chinese edition covering rational spending, compounding, diversified income, and automation routines with a Lazy Money-style allocation table."
+      "research.asset2ZhDesc": "Chinese edition covering rational spending, compounding, diversified income, and automation routines with a Lazy Money-style allocation table.",
+      "research.viewChinese": "Xem ban tieng Trung"
     },
     "ideas": {
       "lazySprint": "Khởi động chương trình chạy nước rút Kiếm tiền lười biếng kéo dài 5 ngày hướng dẫn mọi người tự động hóa một vùng quảng cáo bản tin, sau đó bán quyền truy cập phát lại.",
@@ -892,7 +898,7 @@
       "research.point1": "Distinction-first answers on money creation, ownership, leverage, inequality, and risk.",
       "research.point2": "Primary-source coverage across Fed, NY Fed, BLS, Census, IMF, BIS, World Bank, OECD, and SEC resources.",
       "research.point3": "Question -> evidence -> claim workflow with SQ-5 source quality gates.",
-      "research.point4": "Operational additions: household stress dashboard, credit-conditions transmission check, and QE-5/HS-8/LL-6 methods for decision-ready monitoring.",
+      "research.point4": "Operational additions: household stress dashboard, credit-conditions transmission check, and QE-5/HS-8/LL-6/DP-5 methods for decision-ready monitoring.",
       "research.pdf": "Download PDF",
       "research.md": "Read Markdown",
       "research.cardTitle": "What the guide covers",
@@ -909,7 +915,8 @@
       "research.viewInline": "View on-site",
       "viewer.backToResearch": "← Back to Research Drop",
       "research.asset2ZhTitle": "Financial freedom playbook (Chinese edition)",
-      "research.asset2ZhDesc": "Chinese edition covering rational spending, compounding, diversified income, and automation routines with a Lazy Money-style allocation table."
+      "research.asset2ZhDesc": "Chinese edition covering rational spending, compounding, diversified income, and automation routines with a Lazy Money-style allocation table.",
+      "research.viewChinese": "عرض النسخة الصينية"
     },
     "ideas": {
       "lazySprint": "قم بإطلاق برنامج Lazy Earn السريع لمدة 5 أيام لتعليم الأشخاص كيفية أتمتة فتحة إعلانية واحدة للرسالة الإخبارية، ثم بيع حق الوصول إلى إعادة التشغيل.",
@@ -1022,7 +1029,7 @@
       "research.point1": "Distinction-first answers on money creation, ownership, leverage, inequality, and risk.",
       "research.point2": "Primary-source coverage across Fed, NY Fed, BLS, Census, IMF, BIS, World Bank, OECD, and SEC resources.",
       "research.point3": "Question -> evidence -> claim workflow with SQ-5 source quality gates.",
-      "research.point4": "Operational additions: household stress dashboard, credit-conditions transmission check, and QE-5/HS-8/LL-6 methods for decision-ready monitoring.",
+      "research.point4": "Operational additions: household stress dashboard, credit-conditions transmission check, and QE-5/HS-8/LL-6/DP-5 methods for decision-ready monitoring.",
       "research.pdf": "Download PDF",
       "research.md": "Read Markdown",
       "research.cardTitle": "What the guide covers",
@@ -1039,7 +1046,8 @@
       "research.viewInline": "View on-site",
       "viewer.backToResearch": "← Back to Research Drop",
       "research.asset2ZhTitle": "Financial freedom playbook (Chinese edition)",
-      "research.asset2ZhDesc": "Chinese edition covering rational spending, compounding, diversified income, and automation routines with a Lazy Money-style allocation table."
+      "research.asset2ZhDesc": "Chinese edition covering rational spending, compounding, diversified income, and automation routines with a Lazy Money-style allocation table.",
+      "research.viewChinese": "Voir l'edition chinoise"
     },
     "ideas": {
       "lazySprint": "Lancez un sprint Lazy Earn de 5 jours pour apprendre aux gens à automatiser un espace publicitaire pour la newsletter, puis vendez l'accès à la rediffusion.",
@@ -1152,7 +1160,7 @@
       "research.point1": "Distinction-first answers on money creation, ownership, leverage, inequality, and risk.",
       "research.point2": "Primary-source coverage across Fed, NY Fed, BLS, Census, IMF, BIS, World Bank, OECD, and SEC resources.",
       "research.point3": "Question -> evidence -> claim workflow with SQ-5 source quality gates.",
-      "research.point4": "Operational additions: household stress dashboard, credit-conditions transmission check, and QE-5/HS-8/LL-6 methods for decision-ready monitoring.",
+      "research.point4": "Operational additions: household stress dashboard, credit-conditions transmission check, and QE-5/HS-8/LL-6/DP-5 methods for decision-ready monitoring.",
       "research.pdf": "Download PDF",
       "research.md": "Read Markdown",
       "research.cardTitle": "What the guide covers",
@@ -1169,7 +1177,8 @@
       "research.viewInline": "View on-site",
       "viewer.backToResearch": "← Back to Research Drop",
       "research.asset2ZhTitle": "Financial freedom playbook (Chinese edition)",
-      "research.asset2ZhDesc": "Chinese edition covering rational spending, compounding, diversified income, and automation routines with a Lazy Money-style allocation table."
+      "research.asset2ZhDesc": "Chinese edition covering rational spending, compounding, diversified income, and automation routines with a Lazy Money-style allocation table.",
+      "research.viewChinese": "Ver edicion en chino"
     },
     "ideas": {
       "lazySprint": "Lance un sprint de Lazy Earn de 5 días para enseñar a las personas a automatizar un espacio publicitario en el boletín y luego vender acceso a repetición.",
