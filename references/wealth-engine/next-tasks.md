@@ -1,6 +1,6 @@
 # Next tasks
 
-Updated: 2026-04-05 (cycle_007 round_08 translation_and_catalog)
+Updated: 2026-04-05 (cycle_007 round_09 build_and_verify)
 
 Measured review anchors (from this round):
 - `references/wealth-engine/knowledge/` currently misses 7 planned artifacts:
@@ -26,11 +26,11 @@ Measured review anchors (from this round):
   - `ar = 31/31` (missing: `0`, equal-to-English: `26`)
   - `fr = 31/31` (missing: `0`, equal-to-English: `26`)
   - `es = 31/31` (missing: `0`, equal-to-English: `26`)
-- Build warning baseline from cycle_006 round_09 (`wealth-from-first-principles`):
+- Build warning baseline from cycle_007 round_09 (`wealth-from-first-principles`):
   - `microtype warnings = 1`
-  - `overfull_hbox = 2`
-  - `underfull_hbox = 102`
-  - `underfull_vbox = 4`
+  - `overfull_hbox = 3`
+  - `underfull_hbox = 120`
+  - `underfull_vbox = 5`
 - Source-ledger schema is still pre-migration:
   - header is `date, category, title, url, note` (missing planned fields `source_type`, `update_cadence`, `last_verified_on`)
 - Research card action gap closed in cycle_005 round_07 and localized in cycle_005 round_08:
@@ -66,8 +66,8 @@ Done when: touched paragraphs avoid generic filler and instead contain a clear c
 1. Implement `tools/validate-site-content.js` and run it in-round before website-facing edits.
 Done when: it validates card/viewer slug parity, alias collisions, docs PDF existence, and mirrored PDF parity, and returns non-zero with actionable error lines.
 
-2. Close remaining runtime i18n key gaps for `ja`, `ko`, `vi`, `ar`, `fr`, `es`.
-Done when: each locale includes `research.asset1Route`, `research.asset2Route`, `research.asset2ZhRoute`, and `research.asset3Route` (missing `0/31`).
+2. Run native-review localization pass for runtime `research.*` and `viewer.backToResearch` strings in `ja`, `ko`, `vi`, `ar`, `fr`, and `es`.
+Done when: each listed locale keeps `missing=0` in the 31-key scope and reduces `equal-to-English` counts below the current `26` baseline.
 
 3. Raise citation density in `investment/wealth-from-first-principles.md` sections 3, 5, and 8 with source-mapped edits.
 Done when: each target section reaches at least `9` URL-bearing lines and each added citation maps to an official source family in `citation-map.tsv`.
@@ -190,9 +190,9 @@ Done when: all rows are migrated cleanly and TSV parsing remains valid.
 
 ## Priority 2 - Localization and polishing
 
-16. Localize research/viewer keys in `docs/translations.json` for `ja`, `ko`, `vi`, `ar`, `fr`, `es`.
+16. Native-review runtime research/viewer localization quality in `docs/translations.json` for `ja`, `ko`, `vi`, `ar`, `fr`, and `es`.
 Scope: `research.*` and `viewer.backToResearch`.
-Done when: each listed locale has `0` missing scoped keys in the `31`-key scope (including cycle_006 `research.point6` and route keys `research.asset1Route`, `research.asset2Route`, `research.asset2ZhRoute`, `research.asset3Route`) and fewer English-equal values than current baseline.
+Done when: each listed locale preserves `0` missing keys in the 31-key scope and lowers English-equal values below the current baseline (`26`) while keeping slug/code tokens unchanged.
 
 17. Sync wealth-refinery sections from `README.md` into `i18n/README.*.md`.
 Scope: mission loop, methods (`QE-5`, `HS-8`, `LL-6`, `DP-5`, `RC-6`, `CC-7`), cycle_006/007 mechanism notes, and research vault routing.
@@ -205,7 +205,7 @@ Done when: one 14-day pass is executed and at least 10 daily entries include `so
 Done when: at least 15 cards with `Distinction`, `Common confusion`, `Quick test question`, and `Example`.
 
 20. Reduce TeX warning profile in `investment_pdfs/wealth-from-first-principles/wealth-from-first-principles.tex`.
-Baseline to beat: `microtype=1`, `overfull_hbox=2`, `underfull_hbox=102`, `underfull_vbox=4`.
+Baseline to beat: `microtype=1`, `overfull_hbox=3`, `underfull_hbox=120`, `underfull_vbox=5`.
 Done when: at least 8 warning lines are removed (priority on `Channel map` and `Official data and references` table blocks) without content loss versus markdown.
 
 ## Priority 1.5 - Credit data integration follow-up
