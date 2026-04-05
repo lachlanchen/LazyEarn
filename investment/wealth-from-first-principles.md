@@ -2,7 +2,7 @@
 
 _A practical field guide to money, value, ownership, and financial independence_
 
-_Author: LayzingArt_
+_Author: LazyingArt LLC_
 
 This guide is written around a simple set of questions:
 
