@@ -37,9 +37,11 @@ Inputs:
 
 Required actions:
 1. Stage candidate changes:
-   - run: git add -A ':!*.DS_Store' ':!**/.DS_Store' ':!runtime/logs/wealth-engine/' ':!runtime/logs/wealth-engine/**' ':!references/wealth-engine/.codex_wealth_session' ':!references/wealth-engine/.baseline_untracked' ':!references/wealth-engine/wealth-refinery.lock'
+   - run: git add -A ':!*.DS_Store' ':!**/.DS_Store' ':!runtime/logs/wealth-engine/' ':!runtime/logs/wealth-engine/**' ':!references/wealth-engine/.codex_wealth_session' ':!references/wealth-engine/.baseline_untracked' ':!references/wealth-engine/wealth-refinery.lock' ':!.auto-readme-work/' ':!.auto-readme-work/**' ':!AGENTS.md'
+   - if that git add exits non-zero only because the excluded ignored paths triggered Git advice, continue the flow instead of failing the step.
 2. Remove files from staging that were already untracked at pipeline start:
    - for each line in $baseline_untracked_file, run: git reset -q HEAD -- "<path>" (ignore errors)
+   - also run: git reset -q HEAD -- .auto-readme-work AGENTS.md (ignore errors)
 3. If staging is empty, print "No changes to commit for step: $commit_message" and exit successfully.
 4. Otherwise:
    - git commit -m "$commit_message"
@@ -50,6 +52,8 @@ Important:
 - Do not amend previous commits.
 - Do not use force push.
 - Do not run extra refactors or content edits in this step.
+- Prefer one shell execution block that completes the full stage/reset/commit/push flow.
+- It is acceptable and expected to tolerate the staging command's ignored-path warning when the exclusion set is already correct.
 PROMPT
 
 attempts=0

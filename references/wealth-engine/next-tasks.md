@@ -1,6 +1,6 @@
 # Next tasks
 
-Updated: 2026-04-05 (cycle_004 round_10 review_and_next_tasks)
+Updated: 2026-04-05 (cycle_005 round_01 resource_scan)
 
 Measured review anchors (from this round):
 - `references/wealth-engine/knowledge/` currently misses 8 planned artifacts:
@@ -39,10 +39,29 @@ Measured review anchors (from this round):
 - Language-scope split is now documented in `README.md`: runtime UI locales in `docs/translations.json` are `9`, while translated README variants under `i18n/` are `10`.
 - Viewer alias table is now documented in `README.md` and should be kept in sync with `docs/script.js`.
 
+## Priority 0A - Visible book upgrades
+
+1. Create `references/wealth-engine/knowledge/book-architecture-plan.md`.
+Done when: each major book chapter has `chapter`, `core_question`, `why_it_matters`, `decision_lens`, `best_visual_or_table`, and `key_source_family`.
+
+2. Deliver one visible book-design tranche across markdown and TeX.
+Done when: at least one of the following is materially improved in both book surfaces:
+- cover/front matter,
+- chapter-open framing,
+- pull-quote or callout treatment,
+- mechanism table or diagram,
+- appendix or study-path block.
+
+3. Add one source-backed appendix on real-world production and constraint.
+Done when: the appendix ties money and wealth to energy, material throughput, logistics, infrastructure, time, or storage constraints without drifting into shallow analogy.
+
+4. Compile after material book edits instead of waiting only for round 09.
+Done when: any cycle that materially changes the markdown or TeX book also refreshes both PDF distribution targets or leaves an explicit blocker note in the round summary.
+
 ## Priority 0 - Highest-value sequence (execute in order)
 
 1. Build `references/wealth-engine/knowledge/core-series-watchlist.md` for Tier 1 `M1`, `O2`, `L1`.
-Done when: at least 9 rows (>=3 per question) with `question_id`, `series_name`, `series_id_or_table`, `source`, `frequency`, `unit`, `note`, and direct official release/table links.
+Done when: at least 9 rows (>=3 per question) with `question_id`, `series_name`, `series_id_or_table`, `source`, `frequency`, `unit`, `note`, and direct official release/table links, including at least one row each from OFR FSI, Census BDS API, and FFIEC CRA source families.
 
 2. Create `references/wealth-engine/knowledge/citation-map.tsv` for sections 3, 5, and 8 of the markdown book.
 Done when: each target section has mapped rows with `book_section`, `claim_snippet`, `question_id`, `source_family`, `last_checked_date`.

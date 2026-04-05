@@ -1,12 +1,32 @@
 # Resource Map
 
 Updated: 2026-04-05  
-Round seed: cycle_004 / round_01_resource_scan
+Round seed: cycle_005 / round_01_resource_scan
 
 ## Selection rules used in this scan
 - Prefer official or primary institutions with transparent methods.
 - Prefer sources with download/API access, not just commentary.
 - Capture freshness signals (release dates, update cadence, or version tags).
+
+## Cycle 005 additions: financial-stability and ownership-entry data rails
+- Federal Reserve Financial Stability Report hub  
+  https://www.federalreserve.gov/publications/financial-stability-report.htm  
+  Why keep: primary Fed financial-stability publication surface with HTML/PDF/chart-data releases listed by edition; page shows 2025 editions and a last-update stamp of Nov 07, 2025.
+- Federal Reserve 2026 Stress Test Scenarios  
+  https://www.federalreserve.gov/publications/2026-stress-test-scenarios.htm  
+  Why keep: official supervisory scenario paths and assumptions (macro + market variable trajectories) for 2026 bank-resilience stress calibration.
+- OFR Financial Stress Index (OFR FSI)  
+  https://www.financialresearch.gov/financial-stress-index/  
+  Why keep: daily stress monitor with downloadable data and transparent indicator structure (33 variables across credit, valuation, funding, safe assets, and volatility).
+- U.S. Census Business and Workforce Dynamics API (BDS Time Series)  
+  https://www.census.gov/topics/business-economy/dynamics/data/api.html  
+  Why keep: confirms Business Dynamics Statistics (1978-2023) are API-accessible (not just static tables), which improves reproducible ownership-entry and business-formation analysis.
+- FFIEC CRA Data Products  
+  https://www.ffiec.gov/data/cra/data-products  
+  Why keep: official national aggregates, geography/institution reports, and flat files for CRA small-business/small-farm lending with coverage through 2024 and explicit update metadata (last updated Feb 23, 2026).
+- FDIC Bank Data Guide: Data Downloads  
+  https://www.fdic.gov/bank-data-guide/data-downloads  
+  Why keep: direct links to call-report bulk files, quarterly financial APIs, and aggregate time-series data with explicit update cadence markers (last updated Feb 18, 2026).
 
 ## Cycle 004 additions: mortgage-credit and small-business credit flow
 - FHFA National Mortgage Database (NMDB) Aggregate Statistics  
