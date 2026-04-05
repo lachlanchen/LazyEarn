@@ -39,6 +39,28 @@ Measured review anchors (from this round):
 - Language-scope split is now documented in `README.md`: runtime UI locales in `docs/translations.json` are `9`, while translated README variants under `i18n/` are `10`.
 - Viewer alias table is now documented in `README.md` and should be kept in sync with `docs/script.js`.
 
+## Priority 0S - Story, history, physics, and philosophy depth
+
+1. Create `references/wealth-engine/knowledge/historical-case-ledger.md`.
+Done when: at least 12 rows capture `case_id`, `episode`, `date_range`, `actors_or_institutions`, `question_it_helps`, `mechanism`, `what_it_does_not_prove`, `source_1`, and `source_2`.
+
+2. Create `references/wealth-engine/knowledge/physics-and-philosophy-source-map.md`.
+Done when: it maps at least 12 usable sources across physical constraint, production, energy/material throughput, time/storage, ownership, value, ethics, prudence, and agency, with one-line notes on where each source belongs in the book.
+
+3. Create `references/wealth-engine/knowledge/book-section-evidence-map.md`.
+Done when: each major chapter/section has `governing_question`, `historical_anchor`, `best_table_or_diagram`, `physics_or_philosophy_lens`, `core_source_family`, and `decision_use`.
+
+4. Increase chapter substance, not just line count.
+Done when: each major chapter touched in upcoming rounds gains at least one of:
+- a real historical episode,
+- a named institution or thinker,
+- a dated factual comparison,
+- a physics-of-production or constraint explanation,
+- or a source-backed philosophical distinction tied to decision-making.
+
+5. Raise paragraph density in book-writing rounds.
+Done when: touched paragraphs avoid generic filler and instead contain a clear claim/distinction plus at least one of mechanism, dated fact, named actor/institution, sourced comparison, or practical implication.
+
 ## Cycle 007 launch queue (highest value, executable)
 
 1. Implement `tools/validate-site-content.js` and run it in-round before website-facing edits.

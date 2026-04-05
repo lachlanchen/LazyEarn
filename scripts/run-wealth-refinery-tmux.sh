@@ -46,13 +46,15 @@ VERBOSE=0
 RESTART=0
 DETACHED=0
 RESUME_FROM_STATE=1
+START_CYCLE_SET=0
+START_ROUND_SET=0
 
 while [ $# -gt 0 ]; do
   case "$1" in
     --session) SESSION="${2:-}"; shift ;;
     --cycles) CYCLES="${2:-}"; shift ;;
-    --start-cycle) START_CYCLE="${2:-}"; shift ;;
-    --start-round) START_ROUND="${2:-}"; shift ;;
+    --start-cycle) START_CYCLE="${2:-}"; START_CYCLE_SET=1; shift ;;
+    --start-round) START_ROUND="${2:-}"; START_ROUND_SET=1; shift ;;
     --model) MODEL="${2:-}"; shift ;;
     --reasoning) REASONING="${2:-}"; shift ;;
     --new-session) NEW_SESSION=1 ;;
@@ -77,7 +79,13 @@ fi
 mkdir -p "$ROOT_DIR/runtime/logs/wealth-engine"
 LOG_FILE="$ROOT_DIR/runtime/logs/wealth-engine/tmux-runner.log"
 
-runner="cd \"$ROOT_DIR\" && ./scripts/wealth-refinery.sh --cycles \"$CYCLES\" --start-cycle \"$START_CYCLE\" --start-round \"$START_ROUND\" --model \"$MODEL\" --reasoning \"$REASONING\" --sleep-seconds \"$SLEEP_SECONDS\""
+runner="cd \"$ROOT_DIR\" && ./scripts/wealth-refinery.sh --cycles \"$CYCLES\" --model \"$MODEL\" --reasoning \"$REASONING\" --sleep-seconds \"$SLEEP_SECONDS\""
+if [ "$START_CYCLE_SET" -eq 1 ]; then
+  runner+=" --start-cycle \"$START_CYCLE\""
+fi
+if [ "$START_ROUND_SET" -eq 1 ]; then
+  runner+=" --start-round \"$START_ROUND\""
+fi
 if [ "$NEW_SESSION" -eq 1 ]; then
   runner+=" --new-session"
 fi
