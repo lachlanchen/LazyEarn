@@ -1,7 +1,7 @@
 # Question Bank
 
 Updated: 2026-04-05  
-Seed round: cycle_007 / round_02_question_bank
+Seed round: cycle_008 / round_02_question_bank
 
 ## Distinctions to protect
 
@@ -35,6 +35,9 @@ Seed round: cycle_007 / round_02_question_bank
 | Fiscal-flow support vs private balance-sheet healing | Higher public outlays can coexist with fragile household leverage dynamics. |
 | Capital-flow tailwind vs ownership diffusion | Foreign inflows can raise valuations without broadening participation. |
 | Archival policy narrative vs real-time decision signal | Historical documents explain mechanism but do not replace timely risk indicators. |
+| Entry volume vs entrant durability | More business applications can coexist with weak survival or weak owner-income progression. |
+| Global liquidity regime vs domestic credit pass-through | Cross-border funding easing does not guarantee broader household/small-firm credit access. |
+| Productivity growth vs real purchasing-power gain | Output per hour can rise while real wage/wealth progress stalls under cost shocks. |
 
 ## Tier 1 questions (highest priority)
 
@@ -132,6 +135,16 @@ Seed round: cycle_007 / round_02_question_bank
 | U29 | Do higher monthly fiscal deficits in stress windows correspond to lower household stress, or to delayed stress realization? | Flow support vs durable household balance-sheet repair | Debt-service and delinquency metrics improve durably in the same or next two windows after deficit widening | Treasury MTS/FiscalData, Fed DSR/FOR, NY Fed Household Debt, Fed SHED |
 | U30 | Is a filing-quality ownership method (cash generation and balance-sheet discipline) more durable than macro-timing rules across cycles? | Process quality vs macro-call precision | Filing-quality screens fail to outperform survival-adjusted macro-timing rules across at least one full cycle regime set | SEC Financial Statement and Notes Data Sets, NBER cycle chronology, Fed H.8/H.4.1 regime context |
 
+## Unanswered priority questions (cycle_008 sharpen pass)
+
+| ID | Sharpened question | What must be distinguished | What would falsify the working hypothesis | First evidence pull |
+| --- | --- | --- | --- | --- |
+| U31 | Do surges in new business applications translate into durable owner-income and owner-wealth gains, or mostly short-lived churn? | Entry volume vs entrant durability | Owner-income and owner-wealth participation do not improve after sustained BFS acceleration windows | Census BFS, Census BDS API, IRS SOI, Fed DFA, SCF |
+| U32 | When residential and commercial property prices rise together, is broad household wealth rising, or mainly incumbent mark-to-market gains? | Market-wide valuation move vs participation broadening | First-time ownership and median net-worth participation improve proportionally during synchronized RPP/CPP upswings | BIS RPP, BIS CPP, Fed DFA, Census wealth tables, HMDA modified LAR |
+| U33 | In liquidity-tightening phases, which channel moves first for household outcomes: global FX-credit tightening, domestic bank standards, or payment burden? | Global liquidity regime vs domestic pass-through channel | Household stress outcomes show no consistent lead relation with either GLI or standards/burden signals | BIS GLI, Fed SLOOS, Fed DSR/FOR, NY Fed Household Debt, Treasury TIC |
+| U34 | Are real wealth-building windows better explained by productivity gains or by temporary energy-cost relief? | Productivity-led compounding vs cost-shock relief | Real income and saving do not respond more strongly to productivity improvement windows than to energy-cost easing windows | BLS LPC, EIA STEO, BLS CPI, BEA Personal Income, BLS CEX |
+| U35 | Which ownership-allocation rule remains durable when entry is strong but liquidity and property valuations are unstable? | Opportunity flow vs balance-sheet fragility | Candidate rule fails survival criteria across at least one `high entry + tight liquidity` or `high entry + high valuation` regime | Census BFS, BIS GLI, BIS RPP, BIS CPP, Fed DSR/FOR, NY Fed Household Debt |
+
 ## Evidence gates for Tier 1 answers
 
 - `M1`: require at least one stock-flow consistent trace from system credit expansion to a household balance-sheet channel.
@@ -178,3 +191,11 @@ Seed round: cycle_007 / round_02_question_bank
 - `U28`: require simultaneous valuation and participation cuts; reject claims based only on aggregate asset-price gains.
 - `U29`: require monthly-to-quarterly alignment and one delay-window test before inferring stress relief from deficits.
 - `U30`: require one survival metric (drawdown or insolvency proxy) and one compounding metric; return-only tests are insufficient.
+
+## Evidence gates for cycle_008 unanswered set
+
+- `U31`: require entry, survival/progression, and ownership-participation evidence in the same window; application counts alone cannot pass.
+- `U32`: require joint valuation and participation decomposition; reject conclusions based only on property price levels.
+- `U33`: require one explicit lead-lag matrix across GLI, standards, and burden measures with at least one rejected channel.
+- `U34`: require real (inflation-adjusted) outcomes and at least one counterexample window where energy and productivity signals diverge.
+- `U35`: require both survival and compounding metrics across at least two unstable-regime windows before promoting a durable rule.
