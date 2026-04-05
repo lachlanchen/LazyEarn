@@ -1,6 +1,6 @@
 # Next tasks
 
-Updated: 2026-04-05 (cycle_007 round_09 build_and_verify)
+Updated: 2026-04-05 (cycle_007 round_10 review_and_next_tasks)
 
 Measured review anchors (from this round):
 - `references/wealth-engine/knowledge/` currently misses 7 planned artifacts:
@@ -38,6 +38,26 @@ Measured review anchors (from this round):
   - `research.viewChinese` is now present in all runtime locale packs in `docs/translations.json`.
 - Language-scope split is now documented in `README.md`: runtime UI locales in `docs/translations.json` are `9`, while translated README variants under `i18n/` are `10`.
 - Viewer alias table is now documented in `README.md` and should be kept in sync with `docs/script.js`.
+
+## Cycle 008 review queue (highest value, concrete)
+
+1. Build `tools/validate-site-content.js` and run it before every website/build round.
+Done when: one command verifies slug parity (`docs/index.html` vs `docs/script.js`), alias collisions, docs PDF existence, and mirrored PDF hash parity, and exits non-zero on mismatch.
+
+2. Create `knowledge/core-series-watchlist.md` and `knowledge/question-evidence-gates.md` first-pass versions.
+Done when: both files exist with schema-complete starter rows for `M1`, `O2`, and `L1`.
+
+3. Create `knowledge/citation-map.tsv` and raise citation density in book sections 3, 5, and 8.
+Done when: mapped citation rows exist for all three sections and each target section reaches at least 9 URL-bearing lines in markdown with matching source families mirrored to TeX.
+
+4. Run one TeX warning-reduction pass focused on table-heavy blocks (`9.6` and source tables).
+Done when: warning counts improve versus current baseline (`overfull_hbox=3`, `underfull_hbox=120`, `underfull_vbox=5`) without dropping substantive content.
+
+5. Run native-review localization pass for `ja`, `ko`, `vi`, `ar`, `fr`, and `es` in the 31-key `research.*` + `viewer.backToResearch` scope.
+Done when: all six locales keep `missing=0` and reduce `equal-to-English` counts below 26 while preserving slug/code tokens.
+
+6. Create `knowledge/cycle-clock-lead-lag-panel.md` and run a `CC-7` pilot on `U26`, `U27`, and `U29`.
+Done when: at least 8 panel rows exist plus 3 pilot rows (one per question) with one rejected signal case and one promoted action rule.
 
 ## Priority 0S - Story, history, physics, and philosophy depth
 
