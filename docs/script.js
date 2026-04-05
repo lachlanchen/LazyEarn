@@ -88,7 +88,7 @@ const fallbackStrings = {
   "footer.pages": `GitHub Pages`,
   "research.tag": `Research Drop`,
   "research.heading": `Money and wealth, from first principles`,
-  "research.copy": `We are building a living field guide to money, wealth, ownership, compounding, and financial independence. It runs with a reproducible refinery loop: question bank, source ledger, methods playbook, and synced book/PDF/website outputs. Cycle_013 added a historical transmission test (`9.10.1`) and active study-route planning for durable wealth methods.`,
+  "research.copy": `We are building a living field guide to money, wealth, ownership, compounding, and financial independence. It runs with a reproducible refinery loop: question bank, source ledger, methods playbook, and synced book/PDF/website outputs. The current cycle is cycle_014, which adds historical constrained-vs-countercase transmission scaffolding in Chapter 9 and a companion sequence for irreversible risk decisions.`,
   "research.point1": `Distinction-first answers on money creation, ownership, leverage, inequality, and risk.`,
   "research.point2": `Primary-source coverage across Fed, NY Fed, BLS, Census, IMF, BIS, World Bank, OECD, and SEC resources.`,
   "research.point3": `Question -> evidence -> claim workflow with SQ-5 source quality gates.`,
@@ -96,7 +96,7 @@ const fallbackStrings = {
   "research.point5": `Latest additions: a channel-map lens from system credit to household outcomes, plus EV-7 entry-vs-incumbent tests for ownership access timing.`,
   "research.point6": `Cycle 007-010 sync: liquidity-and-cycle clock checks (H.4.1/H.8/NFCI/TIC/MTS/ECI/NBER), entry-and-property-price pulse checks (BFS/BDS/RPP/CPP/GLI/LPC/STEO), credit-access-and-burden bridge checks (DDP/SCE Credit Access/CEX PUMD/SIPP/OECD), and cadence-aware stress classification checks (release calendar/chargeoff/G.17/FSIC/SOI PUF) with EP-6, CAB-9, and CAS-10 wiring.`,
   "research.point7": `Cycle 011 extension: 9.10 Constraint-first lens for money-growth episodes, plus the new HC-5 historical-case conversion method to connect major episodes (for example Jekyll Island, Great Depression, Great Inflation, 1973-74 Oil Shock) to actionable ownership decisions.`,
-  "research.point8": `Cycle 012-013 extension: 9.11 Money, debt, and physical constraints decision map plus 9.10.1 Great Recession transmission, adding channel-first sequencing for liquidity, access, valuation, burden, and throughput risks before durable wealth calls.`,
+  "research.point8": `Cycle 012-014 extension: 9.11 Money, debt, and physical constraints decision map, 9.10.1 Great Recession transmission, and 9.11.1 Historical constraint test: 1973-74 oil shock and transmission lag, adding constrained-vs-countercase transfer rules for channel-first wealth-readiness decisions.`,
   "research.pdf": `Download PDF`,
   "research.viewInline": `View on-site`,
   "research.viewChinese": `View Chinese edition`,
@@ -108,7 +108,7 @@ const fallbackStrings = {
   "research.stat2": `official sources`,
   "research.stat3": `synced surfaces`,
   "research.asset1Title": `Wealth from first principles`,
-  "research.asset1Desc": `A practical field guide to money, wealth, debt, and physical capacity with distinction checklists, evidence ladders, stress dashboards, credit channel maps, ownership-entry execution loops, entry-and-property-price pulse checks, credit-access-and-burden bridge checks, cadence-aware stress classification checks, debt-throughput sequencing, historical transmission checks, and source-linked methods you can apply immediately.`,
+  "research.asset1Desc": `A practical field guide to money, wealth, debt, and physical capacity with distinction checklists, evidence ladders, stress dashboards, credit channel maps, ownership-entry execution loops, entry-and-property-price pulse checks, credit-access-and-burden bridge checks, cadence-aware stress classification checks, debt-throughput sequencing, historical transmission checks (Great Recession and 1973-74), and source-linked methods you can apply immediately.`,
   "research.asset1Route": `Viewer slug: <code>wealth-from-first-principles</code> (aliases: <code>wealth</code>, <code>wealth-guide</code>, <code>wealth_from_first_principles</code>, <code>wealth-field-guide</code>).`,
   "research.asset2Title": `Financial freedom playbook`,
   "research.asset2Desc": `Timeless principles blended with modern automation ideas—capital allocation tables, quarterly rituals, and name ideas for future Lazy Money drops.`,
@@ -123,15 +123,17 @@ const fallbackStrings = {
 };
 
 const syncedEnglishResearchStrings = {
+  "research.copy":
+    "We are building a living field guide to money, wealth, ownership, compounding, and financial independence. It runs with a reproducible refinery loop: question bank, source ledger, methods playbook, and synced book/PDF/website outputs. The current cycle is cycle_014, which adds historical constrained-vs-countercase transmission scaffolding in Chapter 9 and a companion sequence for irreversible risk decisions.",
   "research.point6":
     "Cycle 007-010 sync: liquidity-and-cycle clock checks (H.4.1/H.8/NFCI/TIC/MTS/ECI/NBER), entry-and-property-price pulse checks (BFS/BDS/RPP/CPP/GLI/LPC/STEO), credit-access-and-burden bridge checks (DDP/SCE Credit Access/CEX PUMD/SIPP/OECD), and cadence-aware stress classification checks (release calendar/chargeoff/G.17/FSIC/SOI PUF) with EP-6, CAB-9, and CAS-10 wiring.",
   "research.point7":
     "Cycle 011 extension: 9.10 Constraint-first lens for money-growth episodes, plus the new HC-5 historical-case conversion method to connect major episodes (for example Jekyll Island, Great Depression, Great Inflation, 1973-74 Oil Shock) to actionable ownership decisions.",
   "research.point8":
-    "Cycle 012-013 extension: 9.11 Money, debt, and physical constraints decision map plus 9.10.1 Great Recession transmission, adding channel-first sequencing for liquidity, access, valuation, burden, and throughput risks before durable wealth calls.",
+    "Cycle 012-014 extension: 9.11 Money, debt, and physical constraints decision map, 9.10.1 Great Recession transmission, and 9.11.1 Historical constraint test: 1973-74 oil shock and transmission lag, adding constrained-vs-countercase transfer rules for channel-first wealth-readiness decisions.",
   "research.stat1": "research questions",
   "research.asset1Desc":
-    "A practical field guide to money, wealth, debt, and physical capacity with distinction checklists, evidence ladders, stress dashboards, credit channel maps, ownership-entry execution loops, entry-and-property-price pulse checks, credit-access-and-burden bridge checks, cadence-aware stress classification checks, debt-throughput sequencing, historical transmission checks, and source-linked methods you can apply immediately.",
+    "A practical field guide to money, wealth, debt, and physical capacity with distinction checklists, evidence ladders, stress dashboards, credit channel maps, ownership-entry execution loops, entry-and-property-price pulse checks, credit-access-and-burden bridge checks, cadence-aware stress classification checks, debt-throughput sequencing, historical transmission checks (Great Recession and 1973-74), and source-linked methods you can apply immediately.",
   "research.asset1Route":
     "Viewer slug: <code>wealth-from-first-principles</code> (aliases: <code>wealth</code>, <code>wealth-guide</code>, <code>wealth_from_first_principles</code>, <code>wealth-field-guide</code>).",
 };
@@ -178,7 +180,7 @@ const pdfEntries = {
     descriptionKey: "research.asset1Desc",
     title: "Wealth from first principles",
     description:
-      "A practical field guide to money, wealth, debt, and physical capacity with distinction checklists, evidence ladders, stress dashboards, credit channel maps, ownership-entry execution loops, entry-and-property-price pulse checks, credit-access-and-burden bridge checks, cadence-aware stress classification checks, debt-throughput sequencing, historical transmission checks, and source-linked methods you can apply immediately.",
+      "A practical field guide to money, wealth, debt, and physical capacity with distinction checklists, evidence ladders, stress dashboards, credit channel maps, ownership-entry execution loops, entry-and-property-price pulse checks, credit-access-and-burden bridge checks, cadence-aware stress classification checks, debt-throughput sequencing, historical transmission checks (Great Recession and 1973-74), and source-linked methods you can apply immediately.",
     pdf: "investment_pdfs/wealth-from-first-principles/wealth-from-first-principles.pdf",
     download: "investment_pdfs/wealth-from-first-principles/wealth-from-first-principles.pdf",
     markdown: "https://github.com/lachlanchen/LazyEarn/blob/main/investment/wealth-from-first-principles.md",

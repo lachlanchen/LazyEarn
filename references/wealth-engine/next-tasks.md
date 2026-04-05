@@ -1,6 +1,6 @@
 # Next tasks
 
-Updated: 2026-04-06 (cycle_014 round_01_resource_scan)
+Updated: 2026-04-06 (cycle_014 round_07_website_sync)
 
 ## Cycle 014 book-tex follow-up (round_04_book_tex)
 
@@ -19,6 +19,12 @@ Updated: 2026-04-06 (cycle_014 round_01_resource_scan)
 1. Add a short cycle_014 reader-facing section to translated `i18n/README.*.md` variants so the public language pages include the same book-sync signal as English.
 2. Refresh `README.md` roadmap cadence counters (`cycle_013`/`cycle_014`) whenever the next book-facing chapter-9 historical countercase entry lands.
 3. Keep the side-product table in README aligned with the newly introduced `HCT-6` method and planned `historical-transmission-countercase` artifact.
+
+## Cycle 014 website_sync follow-up (round_07_website_sync)
+
+1. Add Cycle 014 wording for `research.copy`, `research.point8`, and `research.asset1Desc` to all non-English runtime locale packs in `docs/translations.json` so the site surface is not English-skewed.
+2. Add a dedicated reader-facing cycle_014 route note in `docs/index.html` for the Chapter 9 sequencing between 9.10/9.10.1/9.11/9.11.1 and constrained-vs-countercase comparisons.
+3. Add a parity check in upcoming maintenance so `docs/index.html` visible bullet strings and `docs/script.js` synced English strings remain aligned after each cycle update.
 
 ## Cycle 014 resource scan follow-up (round_01_resource_scan)
 
