@@ -2,6 +2,36 @@
 
 Updated: 2026-04-06 (cycle_014 round_07_website_sync)
 
+## Cycle 014 review and next-implementation queue (round_10_review_and_next_tasks)
+
+1. Raise markdown evidence density in:
+   1. `investment/wealth-from-first-principles.md` section 3 to at least `9` URL-bearing lines.
+   2. section 5 to at least `9` URL-bearing lines.
+   3. section 8 to at least `9` URL-bearing lines.
+   Done when each section has mechanism-backed claims mapped to named institutions and dated context.
+
+2. For each of `U64`-`U69` in `references/wealth-engine/knowledge/question-bank.md`, add the missing evidence-pull/falsifier block and map each to a specific place in sections 3, 5, 8, or 9.
+   Done when at least one falsifier, one irreversible-risk test, and one decision-use line exist per question.
+
+3. Add one dated historical mechanism paragraph in section 5 tied to a named distribution/ownership divergence case and one in section 8 tied to constrained-resource transmission.
+   Done when both paragraphs include at least one named institution and one practical decision implication.
+
+4. Add one explicit reversible-vs-irreversible risk distinction in section 5 or 8 and cross-reference it to `U67` or `U69`.
+   Done when readers get a reusable test rule (non-reversible trigger and exit condition) and it appears in review notes.
+
+5. Migrate `references/wealth-engine/knowledge/source-ledger.tsv` to:
+   - `date, category, title, url, source_type, update_cadence, last_verified_on, note`
+   Done when all legacy rows include `source_type`, `update_cadence`, and `last_verified_on` populated with current values.
+
+6. Before the next website-facing cycle, enforce one parity check step:
+   - slug alias parity (`docs/index.html` vs `docs/script.js`)
+   - mirrored PDF existence between `investment_pdfs/...` and `docs/investment_pdfs/...`
+   - required section-anchor presence in both PDFs after any chapter edits
+   Done when the validator returns non-zero on any mismatch and surfaces actionable line-level diffs.
+
+7. Add one concrete physical-constraint case paragraph in section 8 and one in section 9 that links throughput limits, leverage choice, and wealth durability.
+   Done when at least one chapter-visible example names energy/capacity/labor channel tension and one practical implication for leverage scheduling.
+
 ## Cycle 014 book-tex follow-up (round_04_book_tex)
 
 1. Mirror `subsection 9.11.x` "Historical constraint test: 1973-74 oil shock and transmission lag" into `investment/wealth-from-first-principles.md` and align heading/table language with TeX before the next markdown-focused pass.
