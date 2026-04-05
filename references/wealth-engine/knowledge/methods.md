@@ -134,3 +134,23 @@ Minimum schema for `signal-lead-lag-matrix.md`:
 ```text
 question_id | target_outcome | candidate_signal | source | frequency | tested_lag_window | observed_lead_periods | consistency_score | false_signal_note | action_rule
 ```
+
+## 9) EV-7 method (entry-vs-incumbent access tests)
+
+Use this method for `U11` and `U13` when you need to separate incumbent gains from new-owner entry conditions.
+
+| Step | Action | Output |
+| --- | --- | --- |
+| 1 | Define one entrant metric and one incumbent metric for the same market segment. | comparable pair |
+| 2 | Align period and geography so comparisons are like-for-like (same release window and scope). | clean comparison frame |
+| 3 | Add one access condition signal and one stress outcome signal for timing context. | transmission context |
+| 4 | State one falsifier before reading results. | pre-committed invalidation rule |
+| 5 | Apply one decision threshold (for example widening entrant-incumbent gap for 2 releases). | action trigger |
+| 6 | Record caveat and confidence level (`high`, `medium`, `low`). | claim quality tag |
+| 7 | Write one behavior implication (defer leverage, continue staged ownership, or increase defense). | decision-use line |
+
+Minimum schema for `entry-vs-incumbent-access-tests.md`:
+
+```text
+question_id | entrant_metric | incumbent_metric | data_source | timing_window | decision_threshold | falsifier | confidence | decision_use
+```

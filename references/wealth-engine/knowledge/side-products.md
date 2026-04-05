@@ -14,6 +14,7 @@ Purpose: track practical artifacts that make the wealth repository easier to stu
 | `knowledge/question-evidence-gates.md` | planned | Forces falsifiable pass/fail framing for Tier 1 questions | question-bank + methods + source-ledger | Create first rows for M1, O2, L1, I1, R1 |
 | `knowledge/household-stress-watchlist.md` | planned | Converts stress indicators into a practical monitoring routine | DSR/FOR + SCE + NY Fed debt + CFPB MEM | Draft 8-signal watchlist with risk-read rules |
 | `knowledge/signal-lead-lag-matrix.md` | planned | Makes timing claims testable for access/stress signals before outcome moves | question-bank + methods + source-ledger | Seed rows for U7 and U9 with explicit lag windows |
+| `knowledge/entry-vs-incumbent-access-tests.md` | planned | Separates ownership-entry access conditions from incumbent balance-sheet outcomes | question-bank + methods + mortgage/small-business sources | Draft first 6 test rows for U11 and U13 |
 | `knowledge/distinction-cards.md` | planned | Quick review cards for core conceptual distinctions | question-bank | Draft 15 cards with examples |
 | `knowledge/daily-prompts.md` | planned | Keeps learning cadence consistent during short study sessions | question-bank + resource-map | Promote prompt pack below into standalone file |
 
@@ -94,6 +95,21 @@ Purpose: track practical artifacts that make the wealth repository easier to stu
   - `false_signal_note`
   - `action_rule`
 - Exit criterion: `U7` and `U9` each have at least 3 tested signals with one accepted action rule and one rejected weak signal.
+
+### G) Entry-vs-incumbent-access-tests brief
+
+- Goal: avoid conflating incumbent asset gains with broad ownership access expansion.
+- Minimum schema:
+  - `question_id`
+  - `entrant_metric`
+  - `incumbent_metric`
+  - `data_source`
+  - `timing_window`
+  - `decision_threshold`
+  - `falsifier`
+  - `confidence`
+  - `decision_use`
+- Exit criterion: at least 6 rows covering both `U11` and `U13` with one explicit falsifier per row.
 
 ## Starter prompt pack (14 days)
 

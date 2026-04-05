@@ -14,7 +14,7 @@ Measured review anchors (from this round):
   - `knowledge/daily-prompts.md`
 - Site consistency checker is still missing: `tools/validate-site-content.sh` or `tools/validate-site-content.js`.
 - Claim-level citation density in `investment/wealth-from-first-principles.md` remains weak in key sections:
-  - `section_3_url_lines = 0`
+  - `section_3_url_lines = 6`
   - `section_5_url_lines = 0`
   - `section_8_url_lines = 0`
 - Research/viewer localization drift (`research.*` + `viewer.backToResearch`, equal-to-English counts):
@@ -26,11 +26,11 @@ Measured review anchors (from this round):
   - `ar = 24/24`
   - `fr = 24/24`
   - `es = 24/24`
-- Build warning baseline from cycle_003 round_09 (`wealth-from-first-principles`):
+- Build warning baseline from cycle_004 round_04 (`wealth-from-first-principles`):
   - `microtype warnings = 1`
   - `overfull_hbox = 1`
-  - `underfull_hbox = 60`
-  - `underfull_vbox = 1`
+  - `underfull_hbox = 74`
+  - `underfull_vbox = 2`
 - Language-scope messaging remains mismatched: runtime UI locales in `docs/translations.json` are `9`, while translated README variants under `i18n/` are `10`.
 - Viewer alias support now exists in `docs/script.js`, but alias routes are not documented in `README.md`.
 
