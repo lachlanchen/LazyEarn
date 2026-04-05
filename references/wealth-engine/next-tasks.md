@@ -1,6 +1,6 @@
 # Next tasks
 
-Updated: 2026-04-05 (cycle_009 round_04 book_tex)
+Updated: 2026-04-05 (cycle_009 round_05 side_products)
 
 Measured review anchors (from this round):
 - `references/wealth-engine/knowledge/` currently misses 7 planned artifacts:
@@ -36,6 +36,8 @@ Measured review anchors (from this round):
 - Question-bank scope now includes cycle_009 unanswered set `U36`-`U40`:
   - new focus rails: Fed DDP revision metadata, SCE Credit Access survey microdata, Census SIPP datasets, BLS CEX PUMD, OECD household debt indicator.
   - next bottleneck: no dedicated bridge artifact yet for mapping these rails into one lead-lag and decision-use table.
+- Side-product method coverage now includes `CAB-9` in `knowledge/methods.md` and a dedicated bridge brief in `knowledge/side-products.md`.
+  - next bottleneck: the executable artifact `knowledge/credit-access-and-burden-bridge.md` still needs first-pass rows.
 - Markdown/TeX sync for section `9.8 Credit-access and burden bridge` is now complete:
   - mirrored in `wealth-from-first-principles.tex` with bridge table, sequence rule, and source-note updates in cycle_009 round_04.
   - next follow-up: verify the generated PDFs in cycle_009 round_09 include the mirrored section and source additions.

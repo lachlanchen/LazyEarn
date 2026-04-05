@@ -350,3 +350,37 @@ Minimum schema for `cycle-clock-lead-lag-panel.md`:
 ```text
 question_id | signal | source | release_cadence | lag_test_window | target_outcome | lead_result | false_signal_note | action_rule
 ```
+
+## 21) CAB-9 method (credit-access-and-burden bridge)
+
+Use this method to execute cycle_009 questions `U36`-`U40` without mixing revision artifacts, access signals, and burden outcomes.
+
+Target artifact: `knowledge/credit-access-and-burden-bridge.md`
+
+Protect these distinctions on every pass:
+- revision artifact vs real regime shift,
+- applicant self-selection vs lender denial,
+- debt stock leverage vs payment-burden leverage,
+- valuation gains vs burden-tier stress.
+
+| Step | Action | Output |
+| --- | --- | --- |
+| 1 | Lock review window and list all release/revision events first (DDP feed or equivalent release notes). | revision-aware time window |
+| 2 | Pull one application-intent signal and one approval-outcome signal from the same cadence family where possible. | access split signal pair |
+| 3 | Pull one burden signal and one stress-realization signal, then align lags explicitly. | burden-to-outcome timing map |
+| 4 | Add one distribution rail (SIPP or CEX PUMD slice) to avoid aggregate-only conclusions. | household-tier context |
+| 5 | Add one comparator rail (for example OECD household debt) to check whether local movement is isolated or broad. | regime context check |
+| 6 | Write one falsifier before drafting decision use. | pre-committed invalidation rule |
+| 7 | Classify the row as `access tightening`, `burden tightening`, `mixed`, or `improving`. | regime class |
+| 8 | Write one decision-use line and one caveat; do not close the row without both. | actionable implication + guardrail |
+| 9 | Record next pull date and cadence owner (`monthly` or `quarterly`). | maintenance hook |
+
+Minimum schema for `credit-access-and-burden-bridge.md`:
+
+```text
+question_id | window | revision_event_note | application_intent_signal | approval_outcome_signal | burden_signal | stress_outcome_signal | distribution_signal | comparator_signal | regime_class | falsifier | decision_use | caveat | next_pull
+```
+
+Quality rule:
+- A row is incomplete if it lacks either `falsifier` or `decision_use`.
+- Do not infer supply-side tightening from origination slowdown alone; require explicit intent/outcome split evidence.
