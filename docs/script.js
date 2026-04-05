@@ -189,8 +189,11 @@ const pdfEntries = {
     download: "investment_pdfs/financial_freedom_zh/financial_freedom_zh.pdf",
     markdown:
       "https://github.com/lachlanchen/LazyEarn/blob/main/investment/financial_freedom_zh.md",
+    grid: false,
   },
 };
+
+const DEFAULT_RESEARCH_SLUG = "wealth-from-first-principles";
 
 (async function initLazyEarn() {
   await loadTranslations();
@@ -512,12 +515,15 @@ function setupResearchCatalog() {
     return;
   }
 
+  const wiredSlugs = new Set();
   cards.forEach((card) => {
     const slug = card.getAttribute("data-research-slug");
     const entry = pdfEntries[slug];
     if (!entry) {
+      console.warn(`[research-catalog] Missing pdfEntries mapping for slug "${slug}"`);
       return;
     }
+    wiredSlugs.add(slug);
 
     const downloadEl = card.querySelector('[data-research-link="download"]');
     const viewEl = card.querySelector('[data-research-link="view"]');
@@ -531,6 +537,15 @@ function setupResearchCatalog() {
     }
     if (markdownEl) {
       markdownEl.setAttribute("href", entry.markdown);
+    }
+  });
+
+  Object.entries(pdfEntries).forEach(([slug, entry]) => {
+    if (entry.grid === false) {
+      return;
+    }
+    if (!wiredSlugs.has(slug)) {
+      console.warn(`[research-catalog] Entry "${slug}" has no matching .asset-card in index.html`);
     }
   });
 }
@@ -558,8 +573,13 @@ function setupStandaloneViewer() {
       slug = hash;
     }
   }
-  slug = slug || "wealth-from-first-principles";
-  const entry = pdfEntries[slug] || pdfEntries["wealth-from-first-principles"];
+  slug = slug || DEFAULT_RESEARCH_SLUG;
+  let entry = pdfEntries[slug];
+  if (!entry) {
+    console.warn(`[research-viewer] Unknown slug "${slug}", falling back to "${DEFAULT_RESEARCH_SLUG}"`);
+    slug = DEFAULT_RESEARCH_SLUG;
+    entry = pdfEntries[slug];
+  }
   const title = getCatalogText(entry, "title");
   const description = getCatalogText(entry, "description");
 
@@ -579,7 +599,7 @@ function setupStandaloneViewer() {
     frameEl.setAttribute("src", entry.pdf);
   }
   if (downloadEl) {
-    downloadEl.setAttribute("href", entry.download);
+    downloadEl.setAttribute("href", entry.download || entry.pdf);
   }
   if (markdownEl) {
     markdownEl.setAttribute("href", entry.markdown);

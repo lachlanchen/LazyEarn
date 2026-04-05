@@ -1,6 +1,6 @@
 # Next tasks
 
-Updated: 2026-04-05 (cycle_002 round_07 website_sync)
+Updated: 2026-04-05 (cycle_002 round_08 translation_and_catalog)
 
 ## Priority A - Evidence pipeline (execute first)
 
