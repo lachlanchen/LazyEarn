@@ -1,7 +1,7 @@
 # Question Bank
 
 Updated: 2026-04-05  
-Seed round: cycle_010 / round_02_question_bank
+Seed round: cycle_011 / round_02_question_bank
 
 ## Distinctions to protect
 
@@ -48,6 +48,12 @@ Seed round: cycle_010 / round_02_question_bank
 | Cross-country bank soundness vs household burden stress | A stable banking system does not guarantee low household fragility. |
 | Tax-record income concentration vs household wealth concentration | Taxable income skew and balance-sheet concentration can move at different speeds. |
 | Signal freshness vs signal level | Release-cadence-aware reads can outperform stale mixed-frequency interpretations. |
+| Institutional architecture vs operational reality | Design-era institutions do not guarantee present-day access outcomes without release-mechanism checks. |
+| Distribution by design vs distribution by outcome | Inclusive architecture can still produce concentration without entrant access evidence. |
+| Crisis control vs justice of outcomes | Temporary liquidity rescue can stabilize prices while delaying durable ownership repair. |
+| Physical constraint signal vs finance signal | Capacity bottlenecks can move wealth through a different lag than balance-sheet liquidity. |
+| Production bottleneck lag vs credit-cycle speed | Financial easing can look strong before real throughput restores output or employment. |
+| Agency-preserving ownership vs passive exposure | Durable wealth requires ownership rights and control, not just exposure to asset price movement. |
 
 ## Tier 1 questions (highest priority)
 
@@ -174,6 +180,28 @@ Seed round: cycle_010 / round_02_question_bank
 | U43 | Which cross-country fragility composite leads household stress best: bank-soundness indicators, household leverage-burden indicators, or a combined signal? | Bank-system fragility vs household leverage fragility | No composite delivers a stable lead signal across repeated country-window tests | IMF FSIC, OECD Household debt indicator, BIS DSR, IMF WEO |
 | U44 | Do shifts in tax-record income concentration lead or lag shifts in wealth concentration and ownership participation? | Tax-record income concentration vs household wealth concentration | Wealth concentration/participation moves independently of tax-record concentration after timing alignment | IRS SOI individual PUF, Fed DFA, SCF, Census wealth tables |
 | U45 | Does release-cadence-aware signal construction outperform naive mixed-frequency reads for stress-regime classification? | Signal freshness vs signal level | Cadence-aware pipeline does not improve out-of-sample regime classification versus naive alignment | Fed Statistical Release Calendar, Fed DDP announcements feed, Fed H.8/H.4.1/G.17, Fed SLOOS, NY Fed Household Debt |
+
+## Unanswered priority questions (cycle_011 sharpen pass)
+
+| ID | Sharpened question | What must be distinguished | What would falsify the working hypothesis | First evidence pull |
+| --- | --- | --- | --- | --- |
+| U46 | When system liquidity expands, which channel first changes practical access: central-bank reserves, bank balance-sheet risk appetite, or borrower approval? | Operational transmission channel vs aggregate liquidity growth | No segment-level access shift is visible after liquidity expansion within two windows | Fed H.4.1, Fed H.8, Fed EFA, NY Fed SCE Credit Access |
+| U47 | Does historical design bias still route liquidity disproportionately through incumbent institutions during stress windows? | Institutional architecture vs current access equity | Entrant approval rates improve at the same pace as incumbent concentration across two windows | Federal Reserve History: Jekyll Island Conference, Fed H.8, FFIEC CRA, Census wealth tables |
+| U48 | In external supply shocks, which mechanism hurts wealth composition first: valuation, debt burden, or participation? | Asset-value shock vs cash-flow stress vs owner-entry shock | All three channels move in sync with no detectable lead differences across cohorts | Federal Reserve History: Oil Shock of 1973-74, EIA Monthly Energy Review, Fed DSR/FOR, NY Fed Household Debt |
+| U49 | After regime shifts like the Great Inflation, do durable ownership gains come from valuation reset or better access durability? | Price recovery vs durable entry durability | Participation and survival metrics improve without corresponding access durability after valuation recovery | Federal Reserve History: The Great Inflation, Fed H.4.1, Fed H.8, Fed DSR/FOR, Fed DFA |
+| U50 | Can fiscal-stabilization periods be separated from durable ownership repair using household burden and participation metrics? | Fiscal cushioning vs ownership repair | Households show no burden improvement or participation repair beyond a temporary valuation or spending effect | IMF Fiscal Monitor October 2025, Treasury Debt to the Penny, Fed DSR/FOR, Census wealth tables |
+| U51 | How much of inequality drift is valuation concentration versus entry exclusion under current global-financial vulnerability conditions? | Cross-border capital effects vs domestic entry exclusion | Household-entry or participation metrics rise proportionally with valuation gains in all cohorts | UNCTAD World Investment Report 2025, IMF Global Financial Stability Report, OECD Household debt indicator, Fed DFA |
+| U52 | What long-horizon ownership method survives repeated inflation-capacity-mismatch windows? | Return-maximizing method vs ruin-protective method | Candidate method passes a valuation window but fails in a capacity-mismatch or credit-approval pullback window | Federal Reserve History: Great Depression, Great Inflation, IMF GFSR, IMF FSIC |
+
+## Evidence gates for cycle_011 unanswered set
+
+- `U46`: require one series from H.4.1/H.8 plus one borrower-approval/usage source, with a 2-4 release lead-lag map.
+- `U47`: require at least one incumbent-vs-entrant comparison and one explicit rejection case before any architecture conclusion.
+- `U48`: require separate burden, valuation, and participation series before ranking channel leadership.
+- `U49`: require regime-split decomposition and one failed-transfer case before confirming valuation-led recovery claims.
+- `U50`: require distinction between short-run resilience and medium-run owner participation in all interpretations.
+- `U51`: require country/region case splits and one false-positive signal note before concluding capital-inflow benefit.
+- `U52`: require one out-of-sample durability window across both inflation and capacity stress windows.
 
 ## Evidence gates for Tier 1 answers
 

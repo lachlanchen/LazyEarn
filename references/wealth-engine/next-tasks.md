@@ -36,9 +36,9 @@ Measured review anchors (from this round):
   - note: `underfull_hbox` increased versus prior tracked baseline (`152 -> 172`).
 - Source-ledger schema is still pre-migration:
   - header is `date, category, title, url, note` (missing planned fields `source_type`, `update_cadence`, `last_verified_on`)
-- Question-bank scope now includes cycle_010 unanswered set `U41`-`U45`:
-  - new focus rails: Fed Charge-Off/Delinquency release, Fed G.17, IMF FSIC, IRS SOI individual PUF, and release-cadence metadata from Fed/OECD API guidance.
-  - next bottleneck: no cadence-aware stress-classification panel yet combines bank credit quality, household access, production capacity, and cross-country fragility checks.
+- Question-bank scope now includes cycle_011 unanswered set `U46`-`U52`:
+  - new focus rails: Great Depression / Great Inflation / Oil Shock historical essays and cross-cycle access-through-ownership evidence logic.
+  - next bottleneck: no combined historical-constraint lens yet connects federal liquidity transmission to durable owner-entry outcomes across U46-U52.
 - Markdown/TeX sync for section `9.9 Cadence-aware stress classification panel` is now complete:
   - `wealth-from-first-principles.tex` now mirrors section `9.9` panel logic and cycle_010 rails in both `Official data and references` and `Source notes`.
   - next bottleneck: build-time marker checks still need to assert section `9.9` presence and rail coverage in both PDF targets.
@@ -100,7 +100,7 @@ Done when: one canonical route is documented in `README.md`, and `docs/index.htm
 8. Extend `knowledge/source-ledger.tsv` schema with `source_type`, `update_cadence`, and `last_verified_on`.
 Done when: header and rows are migrated cleanly with TSV validity preserved.
 
-9. Draft first-pass cycle_010 evidence memos for `U41`-`U45`.
+9. Draft first-pass cycle_011 evidence memos for `U46`-`U52`.
 Done when: each memo includes `hypothesis`, `falsifier`, `must_not_conflate`, `first_evidence_pull`, and one `decision_use` line using at least one cycle_010 resource rail.
 
 10. Verify compiled artifacts for sections `9.8` and `9.9` after TeX sync.
