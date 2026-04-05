@@ -1,9 +1,11 @@
 # Next tasks
 
-Updated: 2026-04-05 (cycle_012 round_02 question_bank)
+Updated: 2026-04-05 (cycle_012 round_06 readme_sync)
 
 ## Cycle 012 immediate follow-up
 
+0. Keep README, website runtime cards, and route catalogs in one-line sync during each book-facing edit:
+   - check `README.md` highlights, `docs/index.html` research card labels, and `docs/script.js` route aliases when introducing new cycle sections.
 1. Mirror Cycle 012 Round 3 book changes into LaTeX:
    - add Section 9.11 Money, debt, and physical constraints decision map,
    - port the U53-U57 table to `wealth-from-first-principles.tex`,

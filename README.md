@@ -65,9 +65,23 @@ Primary production domain (from `docs/CNAME`): `earn.lazying.art`.
 - Entry-and-property-price pulse guidance (BFS, BDS, BIS RPP/CPP/GLI, LPC, STEO) synced into markdown and TeX guide surfaces.
 - Credit-access-and-burden bridge guidance (DDP, SCE Credit Access, CEX PUMD, SIPP, OECD debt rails) synced into markdown and TeX guide surfaces.
 - Cadence-aware stress classification panel guidance (release-cadence integrity, charge-off/delinquency, access friction, capacity rails, and concentration checks) synced into markdown and TeX guide surfaces.
+- Money, debt, and physical-constraint decision map guidance (liquidity, sovereign stress, access friction, valuation, debt burden, and throughput sequencing) synced into markdown and TeX guide surfaces.
 - A codex-driven wealth refinery loop with a question bank, methods playbook, side-product catalog, and source ledger.
 - PDF viewer routing via hash/query (`#high-growth`, `#financial-freedom`, `?file=financial-freedom-zh`, etc.).
 - GitHub Pages-compatible static distribution with no build step for the website shell.
+
+## 🧠 Why this repository exists
+
+- Give a **mechanism-first, source-aware** education path for:
+  - what money is,
+  - how wealth is produced under physical and institutional constraints,
+  - how ownership and leverage interact, and
+  - how to avoid fragile conclusions by separating revision risk from durable signals.
+- Keep three surfaces coherent as first-class artifacts:
+  - `investment/wealth-from-first-principles.md` for readable argument and methods,
+  - `investment_pdfs/wealth-from-first-principles/wealth-from-first-principles.tex` for reference-grade structure, and
+  - `docs/index.html` + `docs/script.js` + `docs/translations.json` for discovery.
+- Add one new mechanism-focused block every few cycles, then immediately align references, method IDs, and execution artifacts.
 
 ## 🧩 What’s inside the site
 
@@ -193,6 +207,23 @@ Narrative rundowns for AI, biotech, semiconductors, clean energy, and cloud.
   - force mechanism/actor/scope-limit discipline for major cycles (`U46`-`U52`),
   - prepare a reusable ledger so future chapters can use one consistent historical evidence format.
 
+## 🔁 Book sync highlights (cycle_012)
+
+- Added a new practical mechanism block in the main guide:
+  - `9.11 Money, debt, and physical constraints decision map`.
+- Synced the same mechanism into TeX:
+  - `Money, debt, and physical constraints decision map`.
+- Expanded official-source coverage in both book surfaces:
+  - IMF Fiscal Monitor debt and fiscal-space material,
+  - UNCTAD debt and investment reports,
+  - IEA World Energy Outlook + IEA Oil Market Report,
+  - BIS Quarterly Review March 2026,
+  - and existing burden/access rails (`BIS DSR` and `Fed DSR/FOR`) for durability checks.
+- Practical purpose:
+  - separate temporary liquidity or payment cushioning from durable ownership gains,
+  - compare whether liquidity, access, valuation, and throughput channels lead first,
+  - and mark irreversible risk channels before making allocation calls.
+
 ## 🧪 Wealth refinery loop
 
 The repository now carries a durable research loop so book, PDF, README, and site copy can evolve with traceable methods.
@@ -225,6 +256,7 @@ Current method signals (synced with the main book):
 - `EP-6` method for entry-and-property-price pulse panel maintenance (entry, valuation, liquidity, and real-conversion rails).
 - `CAB-9` method for credit-access-and-burden bridge checks on cycle_009 questions (`U36`-`U40`) with intent-vs-outcome and burden-vs-durability guardrails.
 - `CAS-10` method for cadence-aware stress classification checks on cycle_010 questions (`U41`-`U45`) with release-date freshness tags and naive-vs-cadence comparison guards.
+- `CDL-6` method for cycle_012 debt-throughput decision mapping (`U53`-`U58`) across `liquidity`, `access`, `valuation`, `burden`, and `throughput` signals.
 
 ### Next side-product builds (already scoped)
 
@@ -239,6 +271,7 @@ Current method signals (synced with the main book):
 | `references/wealth-engine/knowledge/entry-and-property-price-pulse.md` | Keeps entry, durability, valuation, and liquidity signals separate before broad access claims (`U31`-`U35`). | `signal`, `source`, `frequency`, `last_release`, `next_release`, `question_id`, `decision_use` |
 | `references/wealth-engine/knowledge/credit-access-and-burden-bridge.md` | Connects revision-aware macro credit signals to household access and burden outcomes before leverage decisions (`U36`-`U40`). | `question_id`, `signal`, `series_or_table`, `source`, `frequency`, `lead_lag_hypothesis`, `falsifier`, `decision_use` |
 | `references/wealth-engine/knowledge/cadence-aware-stress-classification-panel.md` | Converts cycle_010 mixed-cadence stress questions into an as-known-on-date regime panel (`U41`-`U45`). | `question_id`, `signal_block`, `series_or_table`, `source`, `release_date`, `as_known_on_date`, `freshness_tag`, `naive_read`, `cadence_aware_read`, `regime_tag`, `decision_use`, `caveat` |
+| `references/wealth-engine/knowledge/debt-throughput-decision-map.md` | Converts cycle_012 debt, sovereign, and throughput questions into release-aware channel comparisons before durable wealth conclusions (`U53`-`U58`). | `question_id`, `window`, `liquidity_signal`, `access_signal`, `valuation_signal`, `burden_signal`, `throughput_signal`, `first_lead_channel`, `first_lag_channel`, `falsifier`, `must_not_conflate`, `irreversible_risk_test`, `fragility_class`, `decision_use`, `caveat`, `next_pull` |
 
 ## 🗂️ Project structure
 
