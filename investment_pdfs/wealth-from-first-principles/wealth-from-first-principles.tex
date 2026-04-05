@@ -408,6 +408,34 @@ When a claim sounds attractive, rank it before acting:
 
 Practical rule: only take concentrated risk when claim quality is at least level 4 and downside remains survivable.
 
+\section{Household stress dashboard (monthly or quarterly)}
+
+If the goal is durable wealth, track stress signals before visible balance-sheet damage appears.
+
+\begin{center}
+\small
+\begin{tabularx}{\textwidth}{>{\raggedright\arraybackslash}p{0.20\textwidth}>{\raggedright\arraybackslash}p{0.22\textwidth}>{\raggedright\arraybackslash}p{0.20\textwidth}X}
+\toprule
+\textbf{Signal} & \textbf{What it tracks} & \textbf{Where to check} & \textbf{Practical read} \\
+\midrule
+Debt-service burden & Fixed payment pressure relative to disposable income. & Federal Reserve DSR/FOR. & Persistent rise means less room for compounding and higher fragility. \\
+Expected missed-payment risk & Household expectation of future delinquency. & New York Fed SCE. & Rising expectations often appear before realized defaults. \\
+Realized delinquency transitions & Movement from current to 30/60/90+ day delinquency. & New York Fed Household Debt and Credit. & Confirms whether stress is broadening or contained. \\
+Difficulty paying bills & Self-reported financial strain and liquidity stress. & CFPB Making Ends Meet. & Captures household pressure not always visible in credit files. \\
+Real income momentum & Income growth net of inflation. & BEA Personal Income + BLS CPI. & Weak real income with high debt service is a high-risk mix. \\
+\bottomrule
+\end{tabularx}
+\normalsize
+\end{center}
+
+Use order of operations:
+
+\begin{enumerate}
+  \item Track expectations (SCE) and debt-service burden (DSR/FOR) as early signals.
+  \item Confirm with realized delinquency transitions (NY Fed Household Debt).
+  \item Adjust leverage, liquidity buffers, and fixed-cost commitments before stress compounds.
+\end{enumerate}
+
 \chapter{Who can get wealth and what should they do first}
 
 Almost anyone can improve their financial condition. Not everyone should use the same strategy. A useful sequence is:
@@ -531,7 +559,10 @@ Federal Reserve Education: \textit{Making Personal Finance Decisions} & curricul
 Federal Reserve H.6 & Broad money and component trends. & Weekly/monthly U.S. money stock release. \\
 Federal Reserve Z.1 + DFA + EFA & Sector balance sheets, distributional and geographic detail. & Quarterly U.S. flow-of-funds stack. \\
 Federal Reserve SCF & Household assets, liabilities, and ownership concentration. & Triennial microdata benchmark. \\
+Federal Reserve DSR/FOR & Household debt-service and fixed-obligation burden. & Quarterly U.S. household burden release. \\
 New York Fed Household Debt and Credit & Delinquency transitions and debt composition by household slices. & Quarterly U.S. credit panel. \\
+New York Fed SCE & Inflation, labor, credit access, and expected delinquency signals. & Monthly U.S. household expectations survey. \\
+CFPB Making Ends Meet & Direct household stress and bill-payment strain indicators. & Annual survey reports with data files. \\
 BEA Personal Income and Outlays & Income, consumption, and personal saving path. & Monthly U.S. national accounts release. \\
 BLS CPI + CEX & Inflation pressure and household spending structure. & Monthly CPI and annual spending detail. \\
 FHFA House Price Index & Housing wealth regime and regional price dynamics. & Monthly/quarterly U.S. house-price indices. \\
@@ -539,6 +570,8 @@ U.S. Census wealth tables (SIPP) & Household wealth and debt distribution in pub
 WID + WIID + OECD IDD/WDD & Cross-country inequality and distribution comparisons. & Global inequality and OECD harmonized datasets. \\
 World Bank CWON + PIP + Findex + IDS & Comprehensive wealth, poverty, inclusion, and debt context. & Global development and debt datasets. \\
 IMF WEO + GDD + BIS data portal & Macro regime, debt cycle, and cross-country financial benchmarks. & Global macro-financial references. \\
+SEC EDGAR API docs + FRED/ALFRED & Reproducible filings ingestion and revision-aware macro pulls. & API docs plus vintage-aware archive layer. \\
+FRASER historical archive & Primary-source monetary and financial history documents. & Long-run policy and publication archive. \\
 \bottomrule
 \end{longtable}
 
@@ -547,8 +580,8 @@ IMF WEO + GDD + BIS data portal & Macro regime, debt cycle, and cross-country fi
 Primary references checked for this edition on 2026-04-05:
 
 \begin{itemize}
-  \item Federal Reserve releases: \href{https://www.federalreserve.gov/releases/h6/current/default.htm}{H.6}, \href{https://www.federalreserve.gov/releases/z1/}{Z.1}, \href{https://www.federalreserve.gov/releases/z1/dataviz/dfa/index.html}{DFA}, \href{https://www.federalreserve.gov/releases/efa/enhanced-financial-accounts.htm}{EFA}, and \href{https://www.federalreserve.gov/econres/scfindex.htm}{SCF}
-  \item Federal Reserve Bank of New York, \href{https://www.newyorkfed.org/microeconomics/hhdc}{Household Debt and Credit}
+  \item Federal Reserve releases: \href{https://www.federalreserve.gov/releases/h6/current/default.htm}{H.6}, \href{https://www.federalreserve.gov/releases/z1/}{Z.1}, \href{https://www.federalreserve.gov/releases/z1/dataviz/dfa/index.html}{DFA}, \href{https://www.federalreserve.gov/releases/efa/enhanced-financial-accounts.htm}{EFA}, \href{https://www.federalreserve.gov/econres/scfindex.htm}{SCF}, and \href{https://www.federalreserve.gov/releases/dsr/}{DSR/FOR}
+  \item Federal Reserve Bank of New York, \href{https://www.newyorkfed.org/microeconomics/hhdc}{Household Debt and Credit} and \href{https://www.newyorkfed.org/microeconomics/sce}{Survey of Consumer Expectations}
   \item U.S. BEA, \href{https://www.bea.gov/data/income-saving/personal-income}{Personal Income and Outlays}
   \item U.S. BLS, \href{https://www.bls.gov/cpi/home.htm}{CPI} and \href{https://www.bls.gov/cex/}{Consumer Expenditure Surveys}
   \item U.S. Census, \href{https://www.census.gov/topics/income-poverty/wealth/data/tables.html}{Wealth and Asset Ownership tables (SIPP)} and \href{https://www2.census.gov/library/publications/2025/demo/p70br-211.pdf}{P70BR-211}
@@ -558,12 +591,14 @@ Primary references checked for this edition on 2026-04-05:
   \item BIS, \href{https://data.bis.org/}{Data Portal}
   \item World Bank, \href{https://www.worldbank.org/en/publication/the-changing-wealth-of-nations}{The Changing Wealth of Nations 2024}, \href{https://www.worldbank.org/en/publication/globalfindex/download-data}{Global Findex}, \href{https://datacatalog.worldbank.org/search/dataset/0038020/poverty-and-equity-database-poverty-and-inequality-platform}{PIP}, and \href{https://www.worldbank.org/en/programs/debt-statistics/ids}{IDS}
   \item \href{https://wid.world/}{WID.world}, \href{https://www.wider.unu.edu/database/world-income-inequality-database-wiid}{WIID}, and \href{https://www.oecd.org/en/data/datasets/income-and-wealth-distribution-database.html}{OECD IDD/WDD}
+  \item CFPB, \href{https://www.consumerfinance.gov/data-research/making-ends-meet-survey-data/}{Making Ends Meet survey data} and \href{https://www.consumerfinance.gov/your-money-your-goals/}{Your Money, Your Goals}
+  \item SEC, \href{https://www.sec.gov/edgar/sec-api-documentation}{EDGAR API documentation}
+  \item St. Louis Fed, \href{https://fred.stlouisfed.org/docs/api/fred/fred/}{FRED API docs}, \href{https://alfred.stlouisfed.org/help/downloaddata}{ALFRED}, and \href{https://fraser.stlouisfed.org/}{FRASER}
   \item Yale / Coursera, \href{https://www.coursera.org/learn/financial-markets-global}{Financial Markets}
   \item Open Yale Courses, \href{https://oyc.yale.edu/economics/econ-251}{Financial Theory}
   \item MIT OpenCourseWare, \href{https://ocw.mit.edu/courses/15-s12-blockchain-and-money-fall-2018/}{Blockchain and Money}
   \item OpenStax, \href{https://openstax.org/books/principles-economics-3e/pages/preface}{Principles of Economics 3e}
   \item Khan Academy, \href{https://www.khanacademy.org/college-careers-more/personal-finance}{Personal Finance}
-  \item CFPB, \href{https://www.consumerfinance.gov/your-money-your-goals/}{Your Money, Your Goals}
   \item Investor.gov, \href{https://www.investor.gov/use-financial-tools-and-calculators}{Use Financial Tools and Calculators}
   \item Federal Reserve Education, \href{https://www.federalreserveeducation.org/teaching-resources/personal-finance/curriculum/making-personal-finance-decisions-curriculum}{Making Personal Finance Decisions Curriculum}
 \end{itemize}

@@ -1,6 +1,6 @@
 # Next tasks
 
-Updated: 2026-04-05 (cycle_002 round_03 book_markdown)
+Updated: 2026-04-05 (cycle_002 round_04 book_tex)
 
 ## Priority A - Evidence pipeline (execute first)
 
@@ -68,6 +68,6 @@ Done when: at least 8 stress signals are mapped and each has a documented interp
 Output: one row per question with `minimum_evidence`, `falsifier`, `must_not_conflate`, and `decision_use`.
 Done when: each question has explicit pass/fail evidence conditions and one disconfirming test.
 
-16. Mirror markdown section `9.3 Household stress dashboard` into `investment_pdfs/wealth-from-first-principles/wealth-from-first-principles.tex`.
-Output: TeX subsection with the same five signals and a source-aware interpretation sequence.
-Done when: markdown and TeX both expose the same dashboard logic and source families.
+16. Optimize typesetting for the synced `9.3 Household stress dashboard` and expanded official-data table in TeX.
+Output: refined column widths/line breaks in `wealth-from-first-principles.tex` with fewer table-related warnings.
+Done when: at least 8 warning lines tied to those table blocks are removed after two-pass `xelatex`.
