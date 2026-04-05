@@ -2,6 +2,19 @@
 
 Updated: 2026-04-06 (cycle_015 round_09_build_and_verify)
 
+## Cycle 015 review and next-tasks (round_10_review_and_next_tasks)
+
+1. Add at least 8 URL-backed mechanism lines across section 8.1–8.7 in `investment/wealth-from-first-principles.md`, each tied to one named institution + one measurable channel.
+   Done when: each subsection has a short evidence-to-mechanism paragraph and at least one decision implication sentence that references an access or ownership transition.
+2. Seed at least two concrete historical transfer passages in section 8 (parallel to section 9), each one pairing a constrained case with a non-constrained counter-case.
+   Done when: each case pair is anchored to U66–U69, references official archival sources, and states one "when to act / when not to act" rule.
+3. Add one compact chapter-level block in section 9 that formalizes ownership-control permanence and irreversibility as a wealth filter, then connect it to U67 and U69 checks.
+   Done when: the block appears before 9.10, with one explicit reversible-vs-irreversible decision rule and one short falsifier for the rule.
+4. Migrate `knowledge/source-ledger.tsv` to include `source_type`, `update_cadence`, `last_verified_on` for existing cycle_015 rows in macro/financial-stability categories.
+   Done when: legacy rows are backfilled and one-line verification notes are present on each newly touched row.
+5. Create/complete `knowledge/question-evidence-gates.md` entries for `U64`–`U69` under a `QE-5`-compatible schema.
+   Done when: each row includes hypothesis, minimum evidence, falsifier, must-not-conflate, reversible/irreversible tag, and explicit `decision_use`.
+
 ## Cycle 015 build_and_verify follow-up (round_09_build_and_verify)
 
 1. Keep the PDF mirror in sync after any TeX edits:
