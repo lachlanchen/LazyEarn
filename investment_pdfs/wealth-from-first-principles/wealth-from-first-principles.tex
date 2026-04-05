@@ -352,9 +352,35 @@ Luck matters more than people like to admit:
 
 The right conclusion is not fatalism. It is to build a process that benefits from good luck when it appears and survives bad luck when it arrives.
 
+\section{Access-and-resilience scoreboard (quarterly)}
+
+To keep this chapter operational, track one compact scoreboard rather than relying on narrative instinct.
+
+\begin{center}
+\small
+\begin{tabularx}{\textwidth}{>{\raggedright\arraybackslash}p{0.18\textwidth}>{\raggedright\arraybackslash}p{0.20\textwidth}>{\raggedright\arraybackslash}p{0.24\textwidth}X}
+\toprule
+\textbf{Layer} & \textbf{Signal to track} & \textbf{Primary source} & \textbf{Decision use} \\
+\midrule
+System stress & Broad market stress pulse. & OFR Financial Stress Index (\url{financialresearch.gov/financial-stress-index}) & Falling stress with stable access supports gradual risk re-entry. \\
+Bank resilience & Vulnerability narrative and channel-level stress commentary. & Fed Financial Stability Report (\url{federalreserve.gov/publications/financial-stability-report.htm}) & Improving resilience does not automatically mean broad credit access. \\
+Credit standards & Lender tightening/easing by segment. & Fed SLOOS (\url{federalreserve.gov/data/sloos.htm}) & Tightening is an early warning for entrant access constraints. \\
+Entrant credit access & Small-business and community-lending distribution. & FFIEC CRA Data Products (\url{ffiec.gov/data/cra/data-products}) & Weak entrant credit despite lower stress implies unequal transmission. \\
+Ownership-entry pipeline & Firm entry/exit and cohort dynamics. & Census BDS API (\url{census.gov/topics/business-economy/dynamics/data/api.html}) & Strong formation with weak persistence signals churn, not durable ownership gains. \\
+Household stress realization & Delinquency transitions and debt-burden outcomes. & NY Fed Household Debt + Fed DSR/FOR & Confirms whether access and burden are becoming balance-sheet damage. \\
+\bottomrule
+\end{tabularx}
+\normalsize
+\end{center}
+
+\begin{notebox}
+\textbf{Asymmetric cycle warning}\par
+If system stress improves but entrant access and household outcomes do not, treat the cycle as asymmetric: resilience for incumbents, friction for new owners.
+\end{notebox}
+
 \chapter{How wealth is built in practice}
 
-Wealth typically grows through a stack of five engines rather than a single trick.
+Wealth typically grows through a stack of six engines plus one execution loop rather than a single trick.
 
 \section{Engine 1: increase earning power}
 
@@ -422,6 +448,37 @@ Offensive (controlled) & Stable access, manageable burden, contained transitions
 \end{tabularx}
 \normalsize
 \end{center}
+
+\section{Scenario-ready leverage stress test (10-minute version)}
+
+Before increasing leverage, run one scenario stress check using supervisory-style shocks:
+
+\begin{itemize}
+  \item Scenario anchor: Fed 2026 stress paths (\url{federalreserve.gov/publications/2026-stress-test-scenarios.htm}).
+  \item Burden anchor: Fed DSR/FOR (\url{federalreserve.gov/releases/dsr/}).
+  \item Household stress anchor: NY Fed Household Debt and Credit (\url{newyorkfed.org/microeconomics/hhdc/background}).
+  \item Asset-side anchor: FHFA HPI (\url{fhfa.gov/house-price-index}) plus BLS CPI (\url{bls.gov/cpi/home.htm}).
+\end{itemize}
+
+\begin{center}
+\small
+\begin{tabularx}{\textwidth}{>{\raggedright\arraybackslash}p{0.19\textwidth}>{\raggedright\arraybackslash}p{0.24\textwidth}>{\raggedright\arraybackslash}p{0.24\textwidth}X}
+\toprule
+\textbf{Test block} & \textbf{Pass condition} & \textbf{Fail condition} & \textbf{Action if fail} \\
+\midrule
+Income shock tolerance & Cash-flow plan survives unemployment/income-hit assumptions. & Negative monthly cash flow for multiple quarters. & Reduce fixed commitments and delay new leverage. \\
+Payment burden tolerance & Debt-service share remains within pre-set safe range. & Burden rises above your red-line threshold. & Deleverage first, then reassess. \\
+Asset drawdown tolerance & No forced sale under house/equity drawdown. & Margin call, forced refi, or liquidity break. & Increase liquidity buffer and reduce concentration. \\
+Inflation-adjusted resilience & Real income holds up versus fixed obligations. & Real income erosion plus rising debt burden. & Prioritize pricing power, skill/wage upgrades, and lower fixed costs. \\
+\bottomrule
+\end{tabularx}
+\normalsize
+\end{center}
+
+\begin{signalbox}
+\textbf{Rule}\par
+Do not scale leverage only because stress indicators are quiet; scale only after your own balance sheet passes this stress check.
+\end{signalbox}
 
 \section{Distinction checklist before major money decisions}
 

@@ -1,6 +1,6 @@
 # Next tasks
 
-Updated: 2026-04-05 (cycle_005 round_03 book_markdown)
+Updated: 2026-04-05 (cycle_005 round_04 book_tex)
 
 Measured review anchors (from this round):
 - `references/wealth-engine/knowledge/` currently misses 8 planned artifacts:
@@ -27,11 +27,11 @@ Measured review anchors (from this round):
   - `ar = 24/29` (missing: `5`)
   - `fr = 24/29` (missing: `5`)
   - `es = 24/29` (missing: `5`)
-- Build warning baseline from cycle_004 round_09 (`wealth-from-first-principles`):
+- Build warning baseline from cycle_005 round_04 (`wealth-from-first-principles`):
   - `microtype warnings = 1`
   - `overfull_hbox = 1`
-  - `underfull_hbox = 74`
-  - `underfull_vbox = 2`
+  - `underfull_hbox = 89`
+  - `underfull_vbox = 3`
 - Source-ledger schema is still pre-migration:
   - header is `date, category, title, url, note` (missing planned fields `source_type`, `update_cadence`, `last_verified_on`)
 - Research card action gap:
@@ -142,7 +142,7 @@ Done when: all 14 prompts include explicit `question_id` mapping.
 Done when: at least 15 cards with `Distinction`, `Common confusion`, `Quick test question`, and `Example`.
 
 20. Reduce TeX warning profile in `investment_pdfs/wealth-from-first-principles/wealth-from-first-principles.tex`.
-Baseline to beat: `microtype=1`, `overfull_hbox=1`, `underfull_hbox=74`, `underfull_vbox=2`.
+Baseline to beat: `microtype=1`, `overfull_hbox=1`, `underfull_hbox=89`, `underfull_vbox=3`.
 Done when: at least 8 warning lines are removed (priority on `Channel map` and `Official data and references` table blocks) without content loss versus markdown.
 
 ## Priority 1.5 - Credit data integration follow-up
