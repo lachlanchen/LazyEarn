@@ -1,6 +1,6 @@
 # Next tasks
 
-Updated: 2026-04-05 (cycle_011 round_06 readme_sync)
+Updated: 2026-04-05 (cycle_011 round_07 website_sync)
 
 Measured review anchors (from this round):
 - `references/wealth-engine/knowledge/` currently misses 9 planned artifacts:
@@ -92,8 +92,11 @@ Done when: section URL-line counts improve from `6/6/4` to at least `9/9/9`, wit
 5. Run one TeX warning-reduction pass on table-heavy content (`9.6` and source tables).
 Done when: warning profile improves against current baseline (`microtype=1`, `overfull_hbox=4`, `underfull_hbox=172`, `underfull_vbox=6`) and before/after counts are logged.
 
-6. Reduce runtime localization fallback in `ja/ko/vi/ar/fr/es` for the 31-key `research.*` + `viewer.backToResearch` scope.
-Done when: each locale keeps `missing=0` and reduces `equal-to-English` below the current `26` baseline while preserving slug/code tokens.
+6. Reduce runtime localization fallback in `ja/ko/vi/ar/fr/es` for the `research.*` + `viewer.backToResearch` scope.
+Done when: each locale keeps `missing=0` and reduces `equal-to-English` below the current baseline while preserving slug/code tokens.
+
+6.1 Add Cycle 011-specific phrasing for `research.point7` across all six runtime locales.
+Done when: `ja/ko/vi/ar/fr/es` all include a native sentence for `research.point7` (not English fallback), while preserving the anchor tokens and alias strings referenced in the section card.
 
 7. Resolve canonical viewer route policy between `pdf-viewer.html` and `research-viewer.html`.
 Done when: one canonical route is documented in `README.md`, and `docs/index.html` links plus `docs/script.js` comments follow the same policy.
