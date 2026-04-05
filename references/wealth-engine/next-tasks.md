@@ -1,6 +1,6 @@
 # Next tasks
 
-Updated: 2026-04-05 (cycle_011 round_09 build_and_verify)
+Updated: 2026-04-05 (cycle_011 round_10 review_and_next_tasks)
 
 Measured review anchors (from this round):
 - `references/wealth-engine/knowledge/` currently misses 9 planned artifacts:
@@ -74,6 +74,48 @@ Measured review anchors (from this round):
   - Fed Statistical Release Calendar, Fed Charge-Off/Delinquency release, Fed G.17 release, IMF FSIC dataset, IRS SOI individual PUF page, and OECD Data Explorer API explainer.
   - immediate follow-up: use these rails to seed first-pass rows in `core-series-watchlist.md`, `question-evidence-gates.md`, and `credit-access-and-burden-bridge.md`.
 - Cycle_011 readme surface now reflects both cycle_011 book-sync status (`9.10`) and HC-5 / `historical-case-ledger` scaffolding.
+
+## Cycle 011 immediate review follow-up (round_10)
+
+1. **Create the missing evidence artifacts required to operationalize cycle_011 questions**
+Done when each listed artifact exists and has first-pass operational rows:
+- `knowledge/core-series-watchlist.md` (`M1`, `O2`, `L1`, and `U46`-`U52`)
+- `knowledge/question-evidence-gates.md` (`U46`-`U52` with hypothesis, falsifier, must-not-conflate, decision_use)
+- `knowledge/household-stress-watchlist.md` (>=8 rows with signal, frequency, and source family)
+- `knowledge/citation-map.tsv` (section tags for `section_3`, `section_5`, `section_8`, `section_9`)
+- `knowledge/historical-case-ledger.md` (case rows for Great Depression, Great Inflation, Oil Shock 1973-74, and Jekyll Island)
+
+2. **Increase section-level factual depth and mechanism coverage in the markdown book**
+Done when URL-bearing lines rise in:
+- section 3: `>=9`
+- section 5: `>=9`
+- section 8: `>=9`
+and added lines include either a dated mechanism example, named institution actor, physical constraint lens, or explicit practical implication.
+
+3. **Stabilize citation infrastructure**
+Done when `knowledge/source-ledger.tsv` migration is complete with header fields:
+`source_type`, `update_cadence`, `last_verified_on`,
+and all legacy rows receive new columns without dropping source links.
+
+4. **Ship executable validation for all future rounds**
+Done when `tools/validate-site-content.js` (or `.sh`) checks all of:
+- markdown viewer/card slug parity between `docs/index.html` and `docs/script.js`,
+- alias collision detection in route entries,
+- required PDF paths existence and mirror-hash parity between `investment_pdfs/...` and `docs/investment_pdfs/...`,
+- section marker checks for `9.8`, `9.9`, and `9.10` in both PDF targets.
+
+5. **Finish cycle_011 decision readiness for unanswered questions**
+Done when each of `U46`-`U52` has:
+- one evidence memo (hypothesis/falsifier/first evidence pull),
+- one must-not-conflate note,
+- one `decision_use` line tied to at least one cycle_010 official rail.
+
+6. **Improve non-English runtime locale quality where visible**
+Done when `ja`, `ko`, `vi`, `ar`, `fr`, and `es` reduce English fallback for at least:
+- `research.point6`, `research.point7`, `research.asset1Desc`, and `viewer.backToResearch`.
+
+7. **Raise the physics/philosophy treatment density in Chapter 6/9**
+Done when one short dedicated subsection in Chapter 6 and one in Chapter 9 map the physical-capacity constraint logic to wealth outcomes with source-backed links.
 
 ## Cycle 011 launch queue (highest value, concrete)
 
