@@ -1,6 +1,6 @@
 # Next tasks
 
-Updated: 2026-04-06 (cycle_015 round_09_build_and_verify)
+Updated: 2026-04-06 (cycle_016 round_01_resource_scan)
 
 ## Cycle 015 review and next-tasks (round_10_review_and_next_tasks)
 
@@ -14,6 +14,20 @@ Updated: 2026-04-06 (cycle_015 round_09_build_and_verify)
    Done when: legacy rows are backfilled and one-line verification notes are present on each newly touched row.
 5. Create/complete `knowledge/question-evidence-gates.md` entries for `U64`–`U69` under a `QE-5`-compatible schema.
    Done when: each row includes hypothesis, minimum evidence, falsifier, must-not-conflate, reversible/irreversible tag, and explicit `decision_use`.
+
+## Cycle 016 resource scan follow-up (round_01_resource_scan)
+
+1. Ingest the new Cycle 016 materials from `resource-map.md` into a preliminary evidence queue by category for direct use in chapter 4/5/8/9 planning.
+   Done when: at least six new entries are present in both `resource-map.md` and `source-ledger.tsv` with one-line relevance notes.
+2. Convert two high-signal historical/institutional entries (Volcker transition, Türkiye Article IV, ECB FSR) into provisional evidence anchors for U64–U69 notes in `question-bank.md`.
+   Done when: each selected entry has a mapped `question_id` and explicit use-case note.
+3. Add one cycle-01 `findings.md` synthesis to capture which sources are best for: inflation regime credibility, shock transmission, and personal-finance behavior.
+   Done when: it includes citation priority, freshness checks, and one reusable "if not used in current markdown round, revisit in Round 2" flag.
+4. Extend `source-ledger.tsv` with at least three institution-level primary records that were missing from previous cycles (Fed Annual Report, BIS Annual Report 2025, FSR/ECB pressure-transmission note).
+   Done when: each new row has a fresh date and explicit topical note tied to a real mechanism.
+5. Draft one immediate content gap decision for the next round:
+   - choose whether to place the Volcker case in section 9 as a stability doctrine anchor or section 3 as institutional-historical mechanism.
+   Done when the decision is recorded in this file and reflected in the next-cycle `next-tasks.md` preamble.
 
 ## Cycle 015 build_and_verify follow-up (round_09_build_and_verify)
 

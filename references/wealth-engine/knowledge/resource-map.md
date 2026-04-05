@@ -1,7 +1,33 @@
 # Resource Map
 
 Updated: 2026-04-06  
-Round seed: cycle_015 / round_01_resource_scan
+Round seed: cycle_016 / round_01_resource_scan
+
+## Cycle 016 additions: comparative surveillance, institutional history, and constraint-aware behavior
+- IMF Country Report No. 26/43 (Türkiye): 2025 Article IV Consultation, press release package and staff report  
+  https://www.imf.org/-/media/files/publications/cr/2026/english/1turea2026001-source-pdf.pdf  
+  Why keep: a modern, high-inflation case study with explicit policy mix tradeoffs (fiscal, monetary, FX) useful for constrained-resource and transmission sections.
+- World Bank Global Economic Prospects, January 2026 PDF  
+  https://thedocs.worldbank.org/en/doc/7ce50b5aa95bef66048680bba9926ec8-0050012026/original/GEP-Jan-2026.pdf  
+  Why keep: provides official global growth and policy-risk framing for chapter-level macro assumptions and inequality-trajectory context.
+- Federal Reserve History: Volcker's anti-inflation measures (primary archive PDF)  
+  https://www.federalreservehistory.org/-/media/Project/FedHistory/FedHistory/Documents/essaysPDFs/Volckers-Announcement-of-AntiInflation-Measures--Federal-Reserve-History.pdf  
+  Why keep: high-signal institutional episode on regime change, operating procedures, and inflation-control credibility.
+- Federal Reserve Board speech: Bernanke on a century of U.S. central banking  
+  https://www.federalreserve.gov/newsevents/speech/bernanke20130710a.htm  
+  Why keep: long-form official lecture-style source tying central bank history, inflation regime shifts, and modern doctrine.
+- European Central Bank, Financial Stability Review 2025 press briefing deck  
+  https://www.ecb.europa.eu/home/doc/ecb.fsr_202505_slides~c165e0f7f4.fi.pdf  
+  Why keep: concise institutional treatment of trade-policy shocks, sovereign capacity constraints, and financial-sector spillovers.
+- Federal Reserve Board, Annual Report 2024  
+  https://www.federalreserve.gov/publications/files/2024-annual-report.pdf  
+  Why keep: primary institutional governance/operations source for monetary authority behavior and financial-system-facing machinery.
+- BIS Annual Report 2025  
+  https://www.bis.org/about/areport/areport2025.pdf  
+  Why keep: institutional cross-border stability reference with comparative framing for concentration and resilience narratives.
+- CFPB: financial well-being overview slides  
+  https://files.consumerfinance.gov/f/documents/cfpb_financial_well-being_overview_slides.pdf  
+  Why keep: practical, behavior-linked material for personal-finance and decision-quality sections.
 
 ## Cycle 015 additions: supervisory stress-testing transparency and comparative resilience
 - Federal Reserve Board requests comment on proposals to improve annual stress-test transparency and public accountability  
