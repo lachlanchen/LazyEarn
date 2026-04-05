@@ -1,6 +1,6 @@
 # Next tasks
 
-Updated: 2026-04-05 (cycle_008 round_09 build_and_verify)
+Updated: 2026-04-05 (cycle_008 round_10 review_and_next_tasks)
 
 Measured review anchors (from this round):
 - `references/wealth-engine/knowledge/` currently misses 7 planned artifacts:
@@ -20,12 +20,12 @@ Measured review anchors (from this round):
 - Research/viewer localization drift (`research.*` + `viewer.backToResearch`, equal-to-English counts in 31-key scope):
   - `zh-Hant = 31/31` (missing: `0`, equal-to-English: `18`)
   - `zh-Hans = 31/31` (missing: `0`, equal-to-English: `18`)
-  - `ja = 31/31` (missing: `0`, equal-to-English: `26`)
-  - `ko = 31/31` (missing: `0`, equal-to-English: `26`)
-  - `vi = 31/31` (missing: `0`, equal-to-English: `26`)
-  - `ar = 31/31` (missing: `0`, equal-to-English: `26`)
-  - `fr = 31/31` (missing: `0`, equal-to-English: `26`)
-  - `es = 31/31` (missing: `0`, equal-to-English: `26`)
+  - `ja = 31/31` (missing: `0`, equal-to-English: `24`)
+  - `ko = 31/31` (missing: `0`, equal-to-English: `24`)
+  - `vi = 31/31` (missing: `0`, equal-to-English: `24`)
+  - `ar = 31/31` (missing: `0`, equal-to-English: `24`)
+  - `fr = 31/31` (missing: `0`, equal-to-English: `24`)
+  - `es = 31/31` (missing: `0`, equal-to-English: `24`)
 - Build warning baseline from cycle_008 round_09 (`wealth-from-first-principles`):
   - `microtype warnings = 1`
   - `overfull_hbox = 4`
@@ -38,6 +38,33 @@ Measured review anchors (from this round):
   - `research.viewChinese` is now present in all runtime locale packs in `docs/translations.json`.
 - Language-scope split is now documented in `README.md`: runtime UI locales in `docs/translations.json` are `9`, while translated README variants under `i18n/` are `10`.
 - Viewer alias table is now documented in `README.md` and should be kept in sync with `docs/script.js`.
+- Viewer route policy is still split across two files:
+  - both `docs/pdf-viewer.html` and `docs/research-viewer.html` exist, while current CTAs route to `pdf-viewer.html`.
+- Research card/panel catalog surfaces are intentionally asymmetric:
+  - `docs/index.html` has 3 card slugs, while `docs/script.js` has 4 canonical `pdfEntries` (extra: `financial-freedom-zh` route-only panel).
+
+## Cycle 009 review queue (highest value, concrete)
+
+1. Implement and run `tools/validate-site-content.js` in every website/build round.
+Done when: one command validates card-vs-catalog slug parity, alias collisions, required docs PDF existence, and mirror hash parity, and exits non-zero on mismatch.
+
+2. Create first-pass `knowledge/core-series-watchlist.md` and `knowledge/question-evidence-gates.md`.
+Done when: both files exist with schema-complete starter rows for `M1`, `O2`, and `L1`, each with one explicit `decision_use` line.
+
+3. Create `knowledge/citation-map.tsv` and execute citation lift in book sections 3, 5, and 8.
+Done when: markdown section URL-line counts move from `6/6/4` to at least `9/9/9`, and the same source families are mirrored into TeX.
+
+4. Run one TeX warning-reduction pass on table-heavy blocks (`9.6` and source tables).
+Done when: warning profile improves versus baseline (`overfull_hbox=4`, `underfull_hbox=136`, `underfull_vbox=5`) and build notes capture before/after counts.
+
+5. Reduce runtime research localization fallback for `ja`, `ko`, `vi`, `ar`, `fr`, and `es`.
+Done when: each locale keeps `missing=0/31` and reduces `equal-to-English` below current `24` baseline while preserving slug/code tokens.
+
+6. Resolve canonical viewer route policy (`pdf-viewer.html` vs `research-viewer.html`).
+Done when: one canonical policy is documented in `README.md`, and `docs/index.html` links plus `docs/script.js` comments align with it.
+
+7. Build decision artifacts for cycle_008 unanswered set (`U31`-`U35`).
+Done when: `entry-and-property-price-pulse.md` has at least 8 schema-complete rows and memos for `U31`-`U35` include `hypothesis`, `falsifier`, and `decision_use`.
 
 ## Cycle 008 review queue (highest value, concrete)
 
@@ -54,7 +81,7 @@ Done when: mapped citation rows exist for all three sections and each target sec
 Done when: warning counts improve versus current baseline (`overfull_hbox=4`, `underfull_hbox=136`, `underfull_vbox=5`) without dropping substantive content.
 
 5. Run native-review localization pass for `ja`, `ko`, `vi`, `ar`, `fr`, and `es` in the 31-key `research.*` + `viewer.backToResearch` scope.
-Done when: all six locales keep `missing=0` and reduce `equal-to-English` counts below 26 while preserving slug/code tokens, including cycle_008 wording for `research.point6`, `research.asset1Desc`, and `research.asset1Route`.
+Done when: all six locales keep `missing=0` and reduce `equal-to-English` counts below 24 while preserving slug/code tokens, including cycle_008 wording for `research.point6`, `research.asset1Desc`, and `research.asset1Route`.
 
 6. Create `knowledge/cycle-clock-lead-lag-panel.md` and run a `CC-7` pilot on `U26`, `U27`, and `U29`.
 Done when: at least 8 panel rows exist plus 3 pilot rows (one per question) with one rejected signal case and one promoted action rule.
@@ -96,7 +123,7 @@ Done when: touched paragraphs avoid generic filler and instead contain a clear c
 Done when: it validates card/viewer slug parity, alias collisions, docs PDF existence, and mirrored PDF parity, and returns non-zero with actionable error lines.
 
 2. Run native-review localization pass for runtime `research.*` and `viewer.backToResearch` strings in `ja`, `ko`, `vi`, `ar`, `fr`, and `es`.
-Done when: each listed locale keeps `missing=0` in the 31-key scope and reduces `equal-to-English` counts below the current `26` baseline.
+Done when: each listed locale keeps `missing=0` in the 31-key scope and reduces `equal-to-English` counts below the current `24` baseline.
 
 3. Raise citation density in `investment/wealth-from-first-principles.md` sections 3, 5, and 8 with source-mapped edits.
 Done when: each target section reaches at least `9` URL-bearing lines and each added citation maps to an official source family in `citation-map.tsv`.
@@ -221,7 +248,7 @@ Done when: all rows are migrated cleanly and TSV parsing remains valid.
 
 16. Native-review runtime research/viewer localization quality in `docs/translations.json` for `ja`, `ko`, `vi`, `ar`, `fr`, and `es`.
 Scope: `research.*` and `viewer.backToResearch`.
-Done when: each listed locale preserves `0` missing keys in the 31-key scope and lowers English-equal values below the current baseline (`26`) while keeping slug/code tokens unchanged.
+Done when: each listed locale preserves `0` missing keys in the 31-key scope and lowers English-equal values below the current baseline (`24`) while keeping slug/code tokens unchanged.
 
 17. Sync wealth-refinery sections from `README.md` into `i18n/README.*.md`.
 Scope: mission loop, methods (`QE-5`, `HS-8`, `LL-6`, `DP-5`, `RC-6`, `CC-7`), cycle_006/007 mechanism notes, and research vault routing.
