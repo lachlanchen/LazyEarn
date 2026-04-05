@@ -607,6 +607,38 @@ Physical-throughput rail & Energy production/consumption and energy-price pressu
 3) If a major method revision lands, freeze threshold updates until revision-aware checks are complete.
 \end{notebox}
 
+\section{Liquidity-and-cycle clock (monthly and quarterly)}
+
+Use this clock to avoid a common analytical error: treating all ``easy money'' signals as equivalent.
+
+It separates central-bank liquidity (H.4.1), commercial-bank transmission (H.8), financial-conditions pressure (NFCI), external funding pressure (TIC), fiscal-flow cushioning (MTS), labor-cost pressure (ECI), and ex-post cycle dating (NBER chronology).
+
+\begin{center}
+\small
+\begin{tabularx}{\textwidth}{>{\raggedright\arraybackslash}p{0.18\textwidth}>{\raggedright\arraybackslash}p{0.22\textwidth}>{\raggedright\arraybackslash}p{0.20\textwidth}X}
+\toprule
+\textbf{Clock block} & \textbf{What to monitor} & \textbf{Primary source} & \textbf{Practical read for wealth decisions} \\
+\midrule
+Central-bank liquidity pulse & Reserve and central-bank balance-sheet path. & Fed H.4.1 & Reserve growth can support system liquidity but does not prove broad household credit access. \\
+Commercial-bank transmission pulse & Bank asset/liability expansion by category. & Fed H.8 & If H.4.1 expands while H.8 transmission is flat, treat access claims cautiously. \\
+Financial-conditions pressure & Broad tightness/ease across funding, credit, and risk markets. & Chicago Fed NFCI & Persistent tightening raises fragility tolerance requirements before adding leverage. \\
+External capital-flow tailwind & Cross-border portfolio and funding flow regime. & Treasury TIC & Weaker inflow support can pressure valuation-dependent ownership strategies. \\
+Fiscal-flow cushion & Receipts, outlays, and deficit path. & Treasury MTS/FiscalData & Wider deficits can cushion cash flow temporarily but do not replace balance-sheet repair. \\
+Labor-cost pressure rail & Compensation-cost acceleration and wage-pressure persistence. & BLS ECI & Rising labor costs with weak productivity often compress margin of safety for firms and households. \\
+Cycle anchor & Recession/expansion turning-point chronology. & NBER chronology & Use as a regime label for post-mortems and threshold calibration, not as a real-time trigger. \\
+\bottomrule
+\end{tabularx}
+\normalsize
+\end{center}
+
+\begin{notebox}
+\textbf{Sequence rule}\par
+1) Label regime state with NBER chronology for historical calibration.\par
+2) Compare H.4.1 versus H.8 first to test liquidity-versus-transmission divergence.\par
+3) Cross-check with NFCI and TIC before assuming valuation support is durable.\par
+4) Use MTS and ECI as cash-flow and cost-pressure context, then confirm with DSR/FOR and NY Fed household-stress data before increasing leverage.
+\end{notebox}
+
 \chapter{Who can get wealth and what should they do first}
 
 Almost anyone can improve their financial condition. Not everyone should use the same strategy. A useful sequence is:
@@ -734,6 +766,7 @@ Federal Reserve SLOOS & Lending standards and loan demand by major credit segmen
 Federal Reserve SHED & Household financial well-being, emergency capacity, and payment stress. & Annual U.S. household survey. \\
 Federal Reserve DSR/FOR & Household debt-service and fixed-obligation burden. & Quarterly U.S. household burden release. \\
 Federal Reserve G.19 & Consumer-credit stock and revolving/nonrevolving composition. & Monthly U.S. consumer-credit release. \\
+Federal Reserve H.4.1 + H.8 & Central-bank liquidity pulse versus commercial-bank transmission pulse. & Weekly U.S. balance-sheet releases. \\
 Fed FEDS note on G.19 revisions & Method and source-change context for credit-union estimate comparability. & Revision documentation and statistical note. \\
 New York Fed Household Debt and Credit & Delinquency transitions and debt composition by household slices. & Quarterly U.S. credit panel. \\
 New York Fed SCE & Inflation, labor, credit access, and expected delinquency signals. & Monthly U.S. household expectations survey. \\
@@ -742,7 +775,7 @@ CFPB Making Ends Meet & Direct household stress and bill-payment strain indicato
 BEA Personal Income and Outlays & Income, consumption, and personal saving path. & Monthly U.S. national accounts release. \\
 BEA Fixed Assets & Produced-capital stock, depreciation, and investment structure. & Annual U.S. fixed-asset update cycle. \\
 BEA Distribution of Personal Income & Distributional disposable income and inequality decomposition. & Annual distributional national-accounts release. \\
-BLS CPI + CEX & Inflation pressure and household spending structure. & Monthly CPI and annual spending detail. \\
+BLS CPI + CEX + ECI & Inflation pressure, household spending structure, and labor-cost pressure. & Monthly CPI/ECI and annual spending detail. \\
 EIA Monthly Energy Review (MER) & Economy-wide energy production/consumption/price throughput context. & Monthly U.S. energy data release. \\
 FHFA House Price Index & Housing wealth regime and regional price dynamics. & Monthly/quarterly U.S. house-price indices. \\
 FHFA National Mortgage Database (NMDB) & Mortgage origination, performance, and outstanding-balance structure. & Release-based U.S. mortgage sample and aggregate statistics. \\
@@ -757,6 +790,9 @@ IRS SOI Publication 1304 & AGI and tax-share distribution cross-check from filed
 WID + WIID + OECD IDD/WDD & Cross-country inequality and distribution comparisons. & Global inequality and OECD harmonized datasets. \\
 World Bank CWON + PIP + Findex + IDS & Comprehensive wealth, poverty, inclusion, and debt context. & Global development and debt datasets. \\
 IMF WEO + GDD + BIS data portal + ECB CES & Macro regime, debt cycle, and expectations-sensitive cross-country benchmarks. & Global macro-financial and expectations references. \\
+Chicago Fed NFCI + Treasury TIC + Treasury MTS & Cycle-clock cross-check for financial conditions, external flows, and fiscal-flow cushioning. & Weekly/monthly cycle-timing rails. \\
+NBER cycle chronology & Ex-post recession/expansion dating for regime calibration. & Long-run U.S. turning-point chronology. \\
+SEC Financial Statement and Notes Data Sets & Reproducible statement-level factor extraction for ownership-quality screens. & Quarterly filing-derived dataset releases. \\
 SEC EDGAR API docs + FRED/ALFRED & Reproducible filings ingestion and revision-aware macro pulls. & API docs plus vintage-aware archive layer. \\
 FRASER historical archive & Primary-source monetary and financial history documents. & Long-run policy and publication archive. \\
 \bottomrule
@@ -767,12 +803,12 @@ FRASER historical archive & Primary-source monetary and financial history docume
 Primary references checked for this edition on 2026-04-05:
 
 \begin{itemize}
-  \item Federal Reserve releases: \href{https://www.federalreserve.gov/releases/h6/current/default.htm}{H.6}, \href{https://www.federalreserve.gov/releases/z1/}{Z.1}, \href{https://www.federalreserve.gov/releases/z1/dataviz/dfa/index.html}{DFA}, \href{https://www.federalreserve.gov/releases/efa/enhanced-financial-accounts.htm}{EFA}, \href{https://www.federalreserve.gov/econres/scfindex.htm}{SCF}, \href{https://www.federalreserve.gov/releases/dsr/}{DSR/FOR}, and \href{https://www.federalreserve.gov/releases/g19/}{G.19}
+  \item Federal Reserve releases: \href{https://www.federalreserve.gov/releases/h6/current/default.htm}{H.6}, \href{https://www.federalreserve.gov/releases/z1/}{Z.1}, \href{https://www.federalreserve.gov/releases/z1/dataviz/dfa/index.html}{DFA}, \href{https://www.federalreserve.gov/releases/efa/enhanced-financial-accounts.htm}{EFA}, \href{https://www.federalreserve.gov/econres/scfindex.htm}{SCF}, \href{https://www.federalreserve.gov/releases/dsr/}{DSR/FOR}, \href{https://www.federalreserve.gov/releases/g19/}{G.19}, \href{https://www.federalreserve.gov/releases/h41/}{H.4.1}, and \href{https://www.federalreserve.gov/releases/h8/}{H.8}
   \item Federal Reserve FEDS note, \href{https://www.federalreserve.gov/econres/notes/feds-notes/a-note-on-the-new-credit-union-estimates-in-the-g-19-consumer-credit-statistical-release-20250708.html}{new credit-union estimates in G.19}
   \item Federal Reserve surveys: \href{https://www.federalreserve.gov/data/sloos.htm}{SLOOS} and \href{https://www.federalreserve.gov/publications/report-economic-well-being-us-households.htm}{SHED}
   \item Federal Reserve Bank of New York, \href{https://www.newyorkfed.org/microeconomics/hhdc}{Household Debt and Credit} and \href{https://www.newyorkfed.org/microeconomics/sce}{Survey of Consumer Expectations}
   \item U.S. BEA, \href{https://www.bea.gov/data/income-saving/personal-income}{Personal Income and Outlays}, \href{https://www.bea.gov/data/special-topics/distribution-of-personal-income}{Distribution of Personal Income}, and \href{https://www.bea.gov/itable/fixed-assets}{Fixed Assets}
-  \item U.S. BLS, \href{https://www.bls.gov/cpi/home.htm}{CPI} and \href{https://www.bls.gov/cex/}{Consumer Expenditure Surveys}
+  \item U.S. BLS, \href{https://www.bls.gov/cpi/home.htm}{CPI}, \href{https://www.bls.gov/eci/}{Employment Cost Index (ECI)}, and \href{https://www.bls.gov/cex/}{Consumer Expenditure Surveys}
   \item U.S. EIA, \href{https://www.eia.gov/totalenergy/data/monthly/previous.php}{Monthly Energy Review}
   \item U.S. Census, \href{https://www.census.gov/topics/income-poverty/wealth/data/tables.html}{Wealth and Asset Ownership tables (SIPP)}, \href{https://www.census.gov/topics/income-poverty/income-inequality/data/data-tables/cps-data-tables.html}{CPS income/inequality tables}, and \href{https://www2.census.gov/library/publications/2025/demo/p70br-211.pdf}{P70BR-211}
   \item U.S. FHFA, \href{https://www.fhfa.gov/house-price-index}{House Price Index datasets} and \href{https://www.fhfa.gov/data/nmdb}{National Mortgage Database (NMDB)}
@@ -781,12 +817,15 @@ Primary references checked for this edition on 2026-04-05:
   \item IMF, \href{https://data.imf.org/Datasets/WEO}{World Economic Outlook} and \href{https://data.imf.org/en/datasets/IMF.FAD%3AGDD}{Global Debt Database}
   \item BIS, \href{https://data.bis.org/}{Data Portal} and \href{https://data.bis.org/topics/DSR}{Debt Service Ratios}
   \item ECB, \href{https://www.ecb.europa.eu/stats/ecb_surveys/consumer_exp_survey/html/index.en.html}{Consumer Expectations Survey} and \href{https://www.ecb.europa.eu/stats/ecb_surveys/bank_lending_survey/html/index.en.html}{Bank Lending Survey}
+  \item Chicago Fed, \href{https://www.chicagofed.org/research/data/nfci/current-data}{National Financial Conditions Index (NFCI)}
+  \item U.S. Treasury, \href{https://home.treasury.gov/data/treasury-international-capital-tic-system/release-dates-of-tic-data}{TIC release calendar} and \href{https://www.fiscal.treasury.gov/reports-statements/mts/}{Monthly Treasury Statement (MTS) program page}
+  \item NBER, \href{https://www.nber.org/research/data/us-business-cycle-expansions-and-contractions}{U.S. business cycle expansions and contractions chronology}
   \item World Bank, \href{https://www.worldbank.org/en/publication/the-changing-wealth-of-nations}{The Changing Wealth of Nations 2024}, \href{https://www.worldbank.org/en/publication/globalfindex/download-data}{Global Findex}, \href{https://datacatalog.worldbank.org/search/dataset/0038020/poverty-and-equity-database-poverty-and-inequality-platform}{PIP}, and \href{https://www.worldbank.org/en/programs/debt-statistics/ids}{IDS}
   \item \href{https://wid.world/}{WID.world}, \href{https://www.wider.unu.edu/database/world-income-inequality-database-wiid}{WIID}, and \href{https://www.oecd.org/en/data/datasets/income-and-wealth-distribution-database.html}{OECD IDD/WDD}
   \item HMDA sources, \href{https://ffiec.cfpb.gov/data-publication/modified-lar}{FFIEC modified LAR} and \href{https://www.consumerfinance.gov/about-us/newsroom/2025-hmda-data-on-mortgage-lending-now-available/}{CFPB 2025 HMDA release notes}
   \item Federal Reserve Small Business Credit Survey, \href{https://www.fedsmallbusiness.org/reports/survey/}{all survey years reports}
   \item CFPB, \href{https://www.consumerfinance.gov/data-research/consumer-credit-trends/}{Consumer Credit Trends}, \href{https://www.consumerfinance.gov/data-research/making-ends-meet-survey-data/}{Making Ends Meet survey data}, \href{https://www.consumerfinance.gov/data-research/small-business-lending/}{Small Business Lending}, and \href{https://www.consumerfinance.gov/your-money-your-goals/}{Your Money, Your Goals}
-  \item SEC, \href{https://www.sec.gov/edgar/sec-api-documentation}{EDGAR API documentation}
+  \item SEC, \href{https://www.sec.gov/edgar/sec-api-documentation}{EDGAR API documentation} and \href{https://www.sec.gov/data-research/sec-markets-data}{Financial Statement and Notes Data Sets}
   \item St. Louis Fed, \href{https://fred.stlouisfed.org/docs/api/fred/fred/}{FRED API docs}, \href{https://alfred.stlouisfed.org/help/downloaddata}{ALFRED}, and \href{https://fraser.stlouisfed.org/}{FRASER}
   \item Yale / Coursera, \href{https://www.coursera.org/learn/financial-markets-global}{Financial Markets}
   \item Open Yale Courses, \href{https://oyc.yale.edu/economics/econ-251}{Financial Theory}
