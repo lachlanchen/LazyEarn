@@ -272,10 +272,10 @@ print(sid)
 PY
 }
 
-jsonl_has_context_overflow() {
-  local json_file="$1"
-  [ -f "$json_file" ] || return 1
-  grep -qi "ran out of room in the model's context window" "$json_file"
+file_has_context_overflow() {
+  local path="$1"
+  [ -f "$path" ] || return 1
+  grep -qiE "ran out of room in the model's context window|context_length_exceeded|input exceeds the context window|Failed to run pre-sampling compact|remote compaction failed" "$path"
 }
 
 SESSION_INIT_RESULT=""
@@ -286,14 +286,25 @@ run_codex_resume() {
   local json_file="$3"
   local attempts=0
   local cmd=(codex exec resume "$sid" --json -m "$MODEL" -c "model_reasoning_effort=\"$REASONING\"" --dangerously-bypass-approvals-and-sandbox --skip-git-repo-check)
+  local stderr_file=""
   cmd+=(-)
   while :; do
-    if "${cmd[@]}" < "$prompt_file" > "$json_file"; then
+    stderr_file="$(mktemp)"
+    if "${cmd[@]}" < "$prompt_file" > "$json_file" 2>"$stderr_file"; then
+      if [ -s "$stderr_file" ]; then
+        cat "$stderr_file" >&2
+      fi
+      rm -f "$stderr_file"
       return 0
     fi
-    if jsonl_has_context_overflow "$json_file"; then
+    if [ -s "$stderr_file" ]; then
+      cat "$stderr_file" >&2
+    fi
+    if file_has_context_overflow "$json_file" || file_has_context_overflow "$stderr_file"; then
+      rm -f "$stderr_file"
       return 42
     fi
+    rm -f "$stderr_file"
     attempts=$((attempts + 1))
     if [ "$attempts" -ge 3 ]; then
       return 1
