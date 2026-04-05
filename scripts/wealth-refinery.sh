@@ -272,24 +272,13 @@ print(sid)
 PY
 }
 
-run_codex_new_session_init() {
-  local prompt_file="$1"
-  local json_file="$2"
-  local attempts=0
-  local cmd=(codex exec --json -m "$MODEL" -c "model_reasoning_effort=\"$REASONING\"" --dangerously-bypass-approvals-and-sandbox -C "$ROOT_DIR" --skip-git-repo-check)
-  cmd+=(-)
-  while :; do
-    if "${cmd[@]}" < "$prompt_file" > "$json_file"; then
-      return 0
-    fi
-    attempts=$((attempts + 1))
-    if [ "$attempts" -ge 3 ]; then
-      return 1
-    fi
-    log "Init command failed; retrying in 5 seconds (attempt $((attempts + 1))/3)"
-    sleep 5
-  done
+jsonl_has_context_overflow() {
+  local json_file="$1"
+  [ -f "$json_file" ] || return 1
+  grep -qi "ran out of room in the model's context window" "$json_file"
 }
+
+SESSION_INIT_RESULT=""
 
 run_codex_resume() {
   local sid="$1"
@@ -302,6 +291,9 @@ run_codex_resume() {
     if "${cmd[@]}" < "$prompt_file" > "$json_file"; then
       return 0
     fi
+    if jsonl_has_context_overflow "$json_file"; then
+      return 42
+    fi
     attempts=$((attempts + 1))
     if [ "$attempts" -ge 3 ]; then
       return 1
@@ -309,6 +301,83 @@ run_codex_resume() {
     log "Resume command failed; retrying in 5 seconds (attempt $((attempts + 1))/3)"
     sleep 5
   done
+}
+
+initialize_session() {
+  local init_prompt="$PROMPT_DIR/000_init.md"
+  local init_json="$RUNTIME_LOG_DIR/000_init.jsonl"
+  local attempts=0
+  local cmd=(codex exec --json -m "$MODEL" -c "model_reasoning_effort=\"$REASONING\"" --dangerously-bypass-approvals-and-sandbox -C "$ROOT_DIR" --skip-git-repo-check)
+  local sid=""
+  SESSION_INIT_RESULT=""
+
+  cat >"$init_prompt" <<EOF
+Session initialization only.
+
+You are the Wealth Refinery agent for this repository.
+Repo root: $ROOT_DIR
+Mission file: $MISSION_FILE
+Driver script: $ROOT_DIR/scripts/wealth-refinery.sh
+
+You will repeatedly refine this repo about money and wealth.
+Your job across future turns is to:
+- search for better sources,
+- ask better questions,
+- improve the Markdown book,
+- improve the TeX book,
+- improve README.md,
+- improve docs/index.html, docs/script.js, and docs/translations.json,
+- compile the PDF with xelatex when needed,
+- store useful intermediate knowledge under references/wealth-engine/,
+- favor visible, reader-facing book improvements when modifying the book,
+- favor real stories, historical episodes, named institutions, and source-backed physics/philosophy treatment when they genuinely improve understanding,
+- and never run git commands because the driver script handles commit/push.
+
+Hard guardrails for all future turns:
+- Work only inside this repository.
+- Keep each round small, linear, and additive.
+- Use web research when facts are current or source-sensitive.
+- Prefer official or primary sources where possible.
+- Store concise summaries in repo files, not only in chat output.
+- Do not leave background processes behind.
+- Do not run git add, git commit, or git push.
+
+For this initialization step only:
+- Do not run commands.
+- Do not read or write files.
+- Reply with exactly: READY_WEALTH_REFINERY_SESSION
+EOF
+
+  cmd+=(-)
+  while :; do
+    if "${cmd[@]}" < "$init_prompt" > "$init_json"; then
+      break
+    fi
+    attempts=$((attempts + 1))
+    if [ "$attempts" -ge 3 ]; then
+      return 1
+    fi
+    log "Init command failed; retrying in 5 seconds (attempt $((attempts + 1))/3)"
+    sleep 5
+  done
+
+  if ! grep -q "READY_WEALTH_REFINERY_SESSION" "$init_json"; then
+    return 1
+  fi
+  sid="$(extract_session_id_from_jsonl "$init_json")"
+  [ -n "$sid" ] || return 1
+  printf '%s\n' "$sid" > "$SESSION_FILE"
+  SESSION_INIT_RESULT="$sid"
+}
+
+rotate_session_after_context_overflow() {
+  local old_sid="$1"
+  local cycle_id="$2"
+  local round_display="$3"
+  local slug="$4"
+  log "Context window exhausted for session $old_sid during $cycle_id round $round_display $slug. Rotating to a fresh Codex session."
+  initialize_session || return 1
+  log "Using session ID: $SESSION_INIT_RESULT"
 }
 
 git_commit_push_if_needed() {
@@ -478,53 +547,9 @@ if [ "$NEW_SESSION" -eq 0 ] && [ -f "$SESSION_FILE" ]; then
 fi
 
 if [ -z "$session_id" ]; then
-  init_prompt="$PROMPT_DIR/000_init.md"
-  init_json="$RUNTIME_LOG_DIR/000_init.jsonl"
-  cat >"$init_prompt" <<EOF
-Session initialization only.
-
-You are the Wealth Refinery agent for this repository.
-Repo root: $ROOT_DIR
-Mission file: $MISSION_FILE
-Driver script: $ROOT_DIR/scripts/wealth-refinery.sh
-
-You will repeatedly refine this repo about money and wealth.
-Your job across future turns is to:
-- search for better sources,
-- ask better questions,
-- improve the Markdown book,
-- improve the TeX book,
-- improve README.md,
-- improve docs/index.html, docs/script.js, and docs/translations.json,
-- compile the PDF with xelatex when needed,
-- store useful intermediate knowledge under references/wealth-engine/,
-- favor visible, reader-facing book improvements when modifying the book,
-- favor real stories, historical episodes, named institutions, and source-backed physics/philosophy treatment when they genuinely improve understanding,
-- and never run git commands because the driver script handles commit/push.
-
-Hard guardrails for all future turns:
-- Work only inside this repository.
-- Keep each round small, linear, and additive.
-- Use web research when facts are current or source-sensitive.
-- Prefer official or primary sources where possible.
-- Store concise summaries in repo files, not only in chat output.
-- Do not leave background processes behind.
-- Do not run git add, git commit, or git push.
-
-For this initialization step only:
-- Do not run commands.
-- Do not read or write files.
-- Reply with exactly: READY_WEALTH_REFINERY_SESSION
-EOF
   log "Initializing Codex wealth session"
-  run_codex_new_session_init "$init_prompt" "$init_json"
-  if ! grep -q "READY_WEALTH_REFINERY_SESSION" "$init_json"; then
-    echo "Init missing READY_WEALTH_REFINERY_SESSION marker." >&2
-    exit 1
-  fi
-  session_id="$(extract_session_id_from_jsonl "$init_json")"
-  [ -n "$session_id" ] || { echo "Failed to extract session id." >&2; exit 1; }
-  printf '%s\n' "$session_id" > "$SESSION_FILE"
+  initialize_session || { echo "Failed to initialize session." >&2; exit 1; }
+  session_id="$SESSION_INIT_RESULT"
 fi
 
 log "Using session ID: $session_id"
@@ -627,8 +652,27 @@ $(round_instruction "$round" "$round_dir")
 Final response: DONE_CYCLE_${cycle}_ROUND_${round}_${slug}
 EOF
 
-    log "Running $cycle_id round $(printf '%02d' "$round") $slug"
-    run_codex_resume "$session_id" "$prompt_file" "$json_file"
+    round_display="$(printf '%02d' "$round")"
+    log "Running $cycle_id round $round_display $slug"
+    if run_codex_resume "$session_id" "$prompt_file" "$json_file"; then
+      :
+    else
+      resume_status=$?
+      if [ "$resume_status" -eq 42 ]; then
+        rotate_session_after_context_overflow "$session_id" "$cycle_id" "$round_display" "$slug" || {
+          echo "Failed to rotate session after context-window overflow." >&2
+          exit 1
+        }
+        session_id="$SESSION_INIT_RESULT"
+        if ! run_codex_resume "$session_id" "$prompt_file" "$json_file"; then
+          echo "Failed to rerun $cycle_id round $round_display $slug after rotating to a fresh session." >&2
+          exit 1
+        fi
+      else
+        echo "Failed to run $cycle_id round $round_display $slug." >&2
+        exit 1
+      fi
+    fi
     git_commit_push_if_needed "wealth refinery: $cycle_id round $(printf '%02d' "$round") $slug"
 
     printf '%s\t%s\t%s\n' "$(date -u '+%Y-%m-%dT%H:%M:%SZ')" "$cycle_id" "$slug" >> "$STATE_FILE"
