@@ -64,6 +64,7 @@ Primary production domain (from `docs/CNAME`): `earn.lazying.art`.
 - Liquidity-and-cycle clock guidance (H.4.1, H.8, NFCI, TIC, MTS, ECI, NBER) synced into markdown and TeX guide surfaces.
 - Entry-and-property-price pulse guidance (BFS, BDS, BIS RPP/CPP/GLI, LPC, STEO) synced into markdown and TeX guide surfaces.
 - Credit-access-and-burden bridge guidance (DDP, SCE Credit Access, CEX PUMD, SIPP, OECD debt rails) synced into markdown and TeX guide surfaces.
+- Cadence-aware stress classification panel guidance (release-cadence integrity, charge-off/delinquency, access friction, capacity rails, and concentration checks) synced into markdown and TeX guide surfaces.
 - A codex-driven wealth refinery loop with a question bank, methods playbook, side-product catalog, and source ledger.
 - PDF viewer routing via hash/query (`#high-growth`, `#financial-freedom`, `?file=financial-freedom-zh`, etc.).
 - GitHub Pages-compatible static distribution with no build step for the website shell.
@@ -160,6 +161,24 @@ Narrative rundowns for AI, biotech, semiconductors, clean energy, and cloud.
   - separate access tightening from burden tightening,
   - require a burden-and-durability cross-check before leverage escalation.
 
+## 🔁 Book sync highlights (cycle_010)
+
+- Added a new practical mechanism block in the main guide:
+  - `9.9 Cadence-aware stress classification panel (monthly and quarterly)`.
+- Synced the same mechanism into TeX:
+  - `Cadence-aware stress classification panel (monthly and quarterly)`.
+- Expanded official-source coverage in both book surfaces:
+  - Federal Reserve Statistical Release Calendar + DDP announcements feed + OECD API guidance,
+  - Federal Reserve Charge-Off and Delinquency release,
+  - New York Fed SCE Credit Access + Federal Reserve SLOOS,
+  - Federal Reserve `G.17` + `H.8` + `H.6`,
+  - IMF `FSIC` + BIS `DSR`,
+  - IRS SOI individual PUF + Federal Reserve `DFA` + `SCF`.
+- Practical purpose:
+  - prevent stale/fresh signal mixing in stress reads,
+  - separate `access-fragile`, `capacity-fragile`, and `distribution-fragile` regimes before leverage changes,
+  - require "as-known-on-date" checks before escalating ownership risk.
+
 ## 🧪 Wealth refinery loop
 
 The repository now carries a durable research loop so book, PDF, README, and site copy can evolve with traceable methods.
@@ -170,7 +189,7 @@ The repository now carries a durable research loop so book, PDF, README, and sit
 | Source map | `references/wealth-engine/knowledge/resource-map.md` | Curated source families and selection logic |
 | Source ledger | `references/wealth-engine/knowledge/source-ledger.tsv` | Date-stamped source entries with notes |
 | Question bank | `references/wealth-engine/knowledge/question-bank.md` | Tiered research questions and distinctions |
-| Methods playbook | `references/wealth-engine/knowledge/methods.md` | Question -> evidence -> claim process, SQ-5 rubric, and execution methods (`QE-5`, `HS-8`, `LL-6`, `EV-7`, `DP-5`, `RC-6`, `CC-7`, `EP-6`, `CAB-9`) |
+| Methods playbook | `references/wealth-engine/knowledge/methods.md` | Question -> evidence -> claim process, SQ-5 rubric, and execution methods (`QE-5`, `HS-8`, `LL-6`, `EV-7`, `DP-5`, `RC-6`, `CC-7`, `EP-6`, `CAB-9`, `CAS-10`) |
 | Daily prompts pack | `references/wealth-engine/knowledge/daily-prompts.md` | 14-day question-linked study prompts plus logging template |
 | Side-products catalog | `references/wealth-engine/knowledge/side-products.md` | Checklists, prompt packs, and planned study artifacts |
 | Round outputs | `references/wealth-engine/cycles/` | Per-round notes, findings, and summaries |
@@ -191,6 +210,7 @@ Current method signals (synced with the main book):
 - `CC-7` method for mixed-cadence cycle-clock lead-lag testing on cycle_007 questions (`U26`, `U27`, `U29`).
 - `EP-6` method for entry-and-property-price pulse panel maintenance (entry, valuation, liquidity, and real-conversion rails).
 - `CAB-9` method for credit-access-and-burden bridge checks on cycle_009 questions (`U36`-`U40`) with intent-vs-outcome and burden-vs-durability guardrails.
+- `CAS-10` method for cadence-aware stress classification checks on cycle_010 questions (`U41`-`U45`) with release-date freshness tags and naive-vs-cadence comparison guards.
 
 ### Next side-product builds (already scoped)
 
@@ -203,6 +223,7 @@ Current method signals (synced with the main book):
 | `references/wealth-engine/knowledge/cycle-clock-lead-lag-panel.md` | Aligns liquidity/conditions/flow signals into one testable timing panel for cycle_007 questions (`U26`, `U27`, `U29`). | `question_id`, `signal`, `source`, `release_cadence`, `lag_test_window`, `target_outcome`, `lead_result`, `false_signal_note`, `action_rule` |
 | `references/wealth-engine/knowledge/entry-and-property-price-pulse.md` | Keeps entry, durability, valuation, and liquidity signals separate before broad access claims (`U31`-`U35`). | `signal`, `source`, `frequency`, `last_release`, `next_release`, `question_id`, `decision_use` |
 | `references/wealth-engine/knowledge/credit-access-and-burden-bridge.md` | Connects revision-aware macro credit signals to household access and burden outcomes before leverage decisions (`U36`-`U40`). | `question_id`, `signal`, `series_or_table`, `source`, `frequency`, `lead_lag_hypothesis`, `falsifier`, `decision_use` |
+| `references/wealth-engine/knowledge/cadence-aware-stress-classification-panel.md` | Converts cycle_010 mixed-cadence stress questions into an as-known-on-date regime panel (`U41`-`U45`). | `question_id`, `signal_block`, `series_or_table`, `source`, `release_date`, `as_known_on_date`, `freshness_tag`, `naive_read`, `cadence_aware_read`, `regime_tag`, `decision_use`, `caveat` |
 
 ## 🗂️ Project structure
 
