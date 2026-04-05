@@ -1,6 +1,6 @@
 # Next tasks
 
-Updated: 2026-04-05 (cycle_004 round_08 translation_and_catalog)
+Updated: 2026-04-05 (cycle_004 round_09 build_and_verify)
 
 Measured review anchors (from this round):
 - `references/wealth-engine/knowledge/` currently misses 8 planned artifacts:
@@ -120,3 +120,6 @@ Done when: at least 8 tracked series/tables spanning NMDB, HMDA modified LAR, NY
 
 22. Create `references/wealth-engine/knowledge/entry-vs-incumbent-access-tests.md` for `U11` and `U13`.
 Done when: it contains at least 6 test rows with `question_id`, `entrant_metric`, `incumbent_metric`, `data_source`, `timing_window`, `decision_threshold`, and one explicit falsifier per row.
+
+23. Add a direct Chinese-edition viewer CTA in `docs/index.html` for `financial-freedom-zh`.
+Done when: the Research card actions include an on-site link to `pdf-viewer.html?file=financial-freedom-zh`, and route text/buttons remain aligned with `docs/script.js` canonical/alias mapping.
