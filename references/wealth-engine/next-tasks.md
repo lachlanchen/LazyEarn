@@ -1,6 +1,6 @@
 # Next tasks
 
-Updated: 2026-04-05 (cycle_001 round_10 review)
+Updated: 2026-04-05 (cycle_002 round_01 resource_scan)
 
 ## Priority A - Evidence pipeline (execute first)
 
@@ -59,3 +59,7 @@ Done when: script exits non-zero on missing catalog slugs, missing PDF files, or
 13. Reduce remaining TeX layout warnings in `wealth-from-first-principles.tex` without harming readability.
 Focus: chapter 2 overfull line and table-heavy underfull lines.
 Done when: overfull warnings are removed and underfull warnings are meaningfully reduced after two-pass `xelatex`.
+
+14. Create `references/wealth-engine/knowledge/household-stress-watchlist.md` using Fed DSR/FOR, NY Fed SCE, CFPB Making Ends Meet, and NY Fed Household Debt.
+Output: one table with `signal`, `source`, `series_or_table`, `frequency`, `lead_or_lag`, `risk_read`.
+Done when: at least 8 stress signals are mapped and each has a documented interpretation rule.

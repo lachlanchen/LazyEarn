@@ -1,7 +1,7 @@
 # Resource Map
 
 Updated: 2026-04-05  
-Round seed: cycle_001 / round_01_resource_scan
+Round seed: cycle_002 / round_01_resource_scan
 
 ## Selection rules used in this scan
 - Prefer official or primary institutions with transparent methods.
@@ -39,6 +39,12 @@ Round seed: cycle_001 / round_01_resource_scan
 - U.S. BEA Personal Income and Outlays  
   https://www.bea.gov/data/income-saving/personal-income  
   Why keep: monthly U.S. income, disposable income, consumption, and saving releases (current release metadata shown as Mar 13, 2026).
+- Federal Reserve Household Debt Service and Financial Obligations Ratios (FOR)  
+  https://www.federalreserve.gov/releases/dsr/  
+  Why keep: official U.S. household debt burden time series with a current release stamp (Jan 13, 2026 shown).
+- BIS Credit to the Non-financial Sector (TOTAL_CREDIT)  
+  https://data.bis.org/topics/TOTAL_CREDIT  
+  Why keep: cross-country credit stock series for government and private nonfinancial sectors with update notes (Mar 16, 2026 update posted).
 
 ## Wealth, inequality, and inclusion
 - World Inequality Database (WID.world)  
@@ -71,6 +77,12 @@ Round seed: cycle_001 / round_01_resource_scan
 - U.S. Census Wealth of Households: 2023 (P70BR-211)  
   https://www2.census.gov/library/publications/2025/demo/p70br-211.pdf  
   Why keep: concise national wealth composition brief sourced from 2024 SIPP public-use data.
+- ECB Distributional Wealth Accounts (DWA) dataset  
+  https://data.ecb.europa.eu/data/datasets/DWA  
+  Why keep: quarterly euro-area distributional wealth/accounting series, useful bridge between macro accounts and household inequality.
+- IMF Financial Access Survey (FAS) dataset  
+  https://data.imf.org/en/datasets/IMF.STA%3AFAS  
+  Why keep: global demand/supply-side financial inclusion indicators with downloadable panel data and metadata.
 
 ## Investing and household finance practice
 - SEC Search Filings (EDGAR)  
@@ -106,13 +118,28 @@ Round seed: cycle_001 / round_01_resource_scan
 - FHFA House Price Index datasets  
   https://www.fhfa.gov/house-price-index  
   Why keep: long-run U.S. house price indices with monthly/quarterly/annual downloadable datasets.
+- CFPB Making Ends Meet Survey Data  
+  https://www.consumerfinance.gov/data-research/making-ends-meet-survey-data/  
+  Why keep: micro-level household financial stress/well-being survey program with public data and annual report links.
+- New York Fed Survey of Consumer Expectations (SCE)  
+  https://www.newyorkfed.org/microeconomics/sce  
+  Why keep: monthly expectations microdata on inflation, labor, credit access, and delinquency expectations.
 
 ## Data access and reproducibility layer
 - St. Louis Fed FRED API documentation  
   https://fred.stlouisfed.org/docs/api/fred/fred/  
   Why keep: stable machine-readable access layer for macro and market series with release/series endpoints.
+- SEC EDGAR API documentation  
+  https://www.sec.gov/edgar/sec-api-documentation  
+  Why keep: primary API reference for company submissions, facts, and filing ingestion workflows.
+- St. Louis Fed ALFRED data download help  
+  https://alfred.stlouisfed.org/help/downloaddata  
+  Why keep: vintage-aware downloads for revision history and point-in-time backtesting.
 
 ## Financial history and long-run comparators
 - NBER Jordà-Schularick-Taylor Macrohistory Database  
   https://www.nber.org/research/data/jorda-schularick-taylor-macrohistory  
   Why keep: long-run macro-financial panel (17 advanced economies since 1870) for historical regime comparisons.
+- FRASER (Federal Reserve Archival System for Economic Research)  
+  https://fraser.stlouisfed.org/  
+  Why keep: official archive for historical policy documents, bulletins, and monetary/financial primary texts.
