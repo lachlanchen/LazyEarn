@@ -1,6 +1,20 @@
 # Next tasks
 
-Updated: 2026-04-06 (cycle_015 round_08_translation_and_catalog)
+Updated: 2026-04-06 (cycle_015 round_09_build_and_verify)
+
+## Cycle 015 build_and_verify follow-up (round_09_build_and_verify)
+
+1. Keep the PDF mirror in sync after any TeX edits:
+   - regenerate `investment_pdfs/wealth-from-first-principles/build/wealth-from-first-principles.pdf`,
+   - copy it to both `investment_pdfs/...` and `docs/investment_pdfs/...`.
+   Done when timestamps and sizes agree on both files and build logs contain no fatal errors.
+2. Track warning trend for chapter 9 visible material:
+   - reduce chronic `Overfull`/`Underfull` warnings in dense text blocks,
+   - especially around long mechanism paragraphs and source/reference bullet/table lines.
+   Done when the warning profile materially improves before the next structural book edit.
+3. Keep viewer route checks explicit:
+   - verify `docs/index.html` route hooks (`data-research-slug`, `pdf-viewer` links, route blocks) remain in lockstep with `docs/script.js` `pdfEntries`.
+   Done when a manual or scripted pass confirms no missing `slug`/`alias` coverage before each round handoff.
 
 ## Cycle 015 translation_and_catalog follow-up (round_08_translation_and_catalog)
 
