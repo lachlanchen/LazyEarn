@@ -775,6 +775,40 @@ Apply this rule:
 - The 1973–74 oil-shock period matches an `A+/-` pattern with high constraint persistence, so ownership scaling should be delayed.
 - The 1946–1951 period matches a cleaner `A+B+C` sequence in several channels, so controlled scaling can be defended where downside rules hold.
 
+### 9.11.4 Irreversibility gate for durable wealth decisions
+
+Even when income, prices, and policy all improve together in the same quarter, one part of the system can still have become permanently scarred.
+
+Financial systems exhibit a reversible/irreversible split:
+
+- A mark-to-market gain can reverse in the next downturn.
+- A borrower exclusion, foreclosure, or ownership-control shift often lasts through the cycle and changes future option value.
+- A policy narrative can improve sentiment while legal access, underwriting terms, or firm entry capacity remain blocked.
+
+This distinction matters most for leverage decisions in fragile windows.  
+Borrowing is the bridge from "good idea" to durable ownership. If one bridge component fails permanently, the whole structure fails later.
+
+Use this irreversible gate before each scaling step:
+
+1. **Reversible stress screen**: debt-service burden, valuation spread, or expectation indicators should trend in a better direction.
+2. **Irreversibility scan**: check forced-sale rates, denied-credit concentration, or denied-business formation persistence for the same window and two windows after.
+3. **Decision gate**:
+   - If all three are non-worsening and improving, proceed with a staged ownership increase.
+   - If any irreversible marker worsens, reduce leverage first, widen liquidity reserve, and defer new entry-risk positions.
+
+| Loss class | Practical marker | Reversibility | Why this is decisive for wealth durability |
+| --- | --- | --- | --- |
+| **Market noise** | temporary valuation drop, short-run spread widening | usually reversible | usually repairable with time, price risk and refinancing cycles |
+| **Flow stress** | debt-burden and delinquency escalation without control-loss | conditionally reversible | can recover if debt-service improves quickly and access opens |
+| **Control-loss stress** | foreclosure, branch closure exposure, ownership concentration in refinancing rounds | usually irreversible without a full reset | reduces future access, agency, and option value even if balances recover later |
+
+The 2007–2009 Great Recession evidence on 2009 credit-access lag (New York Fed remarks plus Fed program rollouts) is a useful control case: balance-sheet support came quickly, while real borrower access remained segmented for a later window.
+
+The 1946–1951 post-war normalization is a useful counter-case: policy framework changes coincided with access and serviceability improvements before a durable ownership wave.
+
+Action implication:
+before increasing leveraged ownership because policy rates or asset values are improving, require both a better burden trend (`Fed DSR/FOR`) and a cleaner access trend (`HMDA modified LAR` + SLOOS slices). If not, assume the downside leg is non-reversible in the near term.
+
 ## 10. A 90-day plan
 
 ### Days 1-30: map reality

@@ -1,6 +1,19 @@
 # Next tasks
 
-Updated: 2026-04-06 (cycle_016 round_02_question_bank)
+Updated: 2026-04-06 (cycle_016 round_03_book_markdown)
+
+## Cycle 016 book-markdown follow-up (round_03_book_markdown)
+
+1. Add the new `9.11.4 Irreversibility gate for durable wealth decisions` in `investment/wealth-from-first-principles.md` and connect it directly to `U67`-`U69` interpretation.
+   Done when: each of `reversible stress`, `irreversibility scan`, and `decision gate` rules are explicitly named in section 9.x.
+2. Keep a paired historical counterpoint in section 9:
+   - 2009/Great Recession as a control where liquidity led but borrower access lagged,
+   - post-war normalization as a counter-case where policy normalization and access improved together.
+   Done when: both are cited in one paragraph before section 9.11.4 with an explicit risk-timed action implication.
+3. In the next `book-tex` round, mirror 9.11.4 into `investment_pdfs/wealth-from-first-principles/wealth-from-first-principles.tex` and keep a `reversibility` note in `Source notes`.
+   Done when: section heading, gate table rows, and action rule appear in LaTeX consistently.
+4. Add one targeted check in `references/wealth-engine/knowledge/source-ledger.tsv` for a source-backed irreversibility marker row (`foreclosure`, `denial`, or `forced-exit`) mapped to `U67` and `U69`.
+   Done when: the row includes update cadence and last-verified metadata.
 
 ## Cycle 016 question-bank follow-up (round_02_question_bank)
 
