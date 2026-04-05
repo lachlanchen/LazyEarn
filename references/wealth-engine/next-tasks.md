@@ -1,6 +1,20 @@
 # Next tasks
 
-Updated: 2026-04-06 (cycle_015 round_05_side_products)
+Updated: 2026-04-06 (cycle_015 round_06_readme_sync)
+
+## Cycle 015 readme_sync follow-up (round_06_readme_sync)
+
+1. Keep the README cycle tracker synchronized when cycle_015 chapter-9 constrained-vs-countercase content lands in markdown and TeX in later rounds.
+   Done when the first public section-9 transfer rule from the round_05 side-product is described in both English README and the corresponding cycle-015 chapter landing route language.
+2. Keep method-state lists in README (and side-product catalog) consistent:
+   - `HCT-6` active-state and `historical-transmission-countercase.md` status.
+   - `resource-map`, `question-bank`, and `side-products` references mention the same method scope.
+   - the `next_review` or equivalent pull window is updated after each chapter-facing handoff.
+   Done when `next-tasks.md`, README, and `knowledge/side-products.md` point to the same scope and cadence.
+3. Keep this round's README update focused and durable:
+   - no stale or duplicate cycle sections,
+   - no contradictory cycle counter phrasing,
+   - and at least one visible reader-facing section per future cycle.
 
 ## Cycle 015 side-products follow-up (round_05_side_products)
 

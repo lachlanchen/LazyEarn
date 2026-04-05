@@ -19,7 +19,11 @@ Localization scope split (synced for this round):
 [![i18n](https://img.shields.io/badge/i18n-9%20languages-f59e0b)](#configuration)
 [![Mode](https://img.shields.io/badge/Mode-Static%20Frontend-10b981?logo=javascript&logoColor=white)](#overview)
 
-Earn.lazying.art is a cinematic field guide for people who want clearer thinking about money, wealth, ownership, and financial independence. The site still carries the **Lazy Money**, **Lazy Earn**, and **Earn From Scratch** language, but the research layer is now centered on a more serious question set: what money is, where wealth comes from, who can build it, why outcomes differ, and which methods and resources are actually useful.
+Last synced to mission cycle: **cycle_015** (`2026-04-06`).
+
+Earn.lazying.art is a source-aware repository for people who want deeper, practical understanding of money, wealth, ownership, and long-horizon financial resilience. The research layer now centers on mechanism-first questions: what money is, where wealth comes from, who captures it, why outcomes diverge, and how to distinguish temporary opportunity from durable advantage.
+
+The public language layer still includes **Lazy Money**, **Lazy Earn**, and **Earn From Scratch**, while the core content emphasizes evidence, mechanisms, and decision quality.
 
 > _“Build less. Live more.”_ — LazyEarn ethos
 
@@ -34,6 +38,7 @@ Earn.lazying.art is a cinematic field guide for people who want clearer thinking
 | `scripts/wealth-refinery.sh` | Round driver entrypoint | Keeps round execution consistent outside Codex git actions |
 | `figs/` | Brand assets | Visual identity and banner references |
 | `i18n/` | Translated README files | Multilingual repository entry points |
+| `references/wealth-engine/knowledge/historical-transmission-countercase.md` | Historical constrained-vs-countercase ledger | Supports chapter 9 mechanism transfer rules and reversibility checks |
 
 ## 🧭 Overview
 
@@ -44,6 +49,15 @@ LazyEarn is a static GitHub Pages-oriented project with two major parts:
 
 Primary production domain (from `docs/CNAME`): `earn.lazying.art`.
 
+### Cycle_015 operating focus
+
+- Keep mechanism design and evidence discipline aligned across:
+  - `investment/wealth-from-first-principles.md`
+  - `investment_pdfs/wealth-from-first-principles/wealth-from-first-principles.tex`
+  - `references/wealth-engine/knowledge/` side assets
+- Emphasize constrained transmission thinking, reversibility, and real-capacity limits before leverage recommendations.
+- Preserve one shared research contract for the public site and reader-facing outputs through small, reviewable rounds.
+
 ## 🧭 Vision and philosophy
 
 - **Circle the flow before the work**: draft the highest-quality income loop, then add only the tasks that keep it running.
@@ -52,20 +66,20 @@ Primary production domain (from `docs/CNAME`): `earn.lazying.art`.
 
 ## ✨ Features
 
-- Cinematic landing experience with Lazy Money, Lazy Earn, and Earn From Scratch narratives.
+- Public landing experience aligned with practical wealth-education pathways.
 - Idea Playground generator for randomized monetization experiments.
 - Runtime i18n system powered by `docs/translations.json` with English fallback.
 - Language persistence key: `lazyEarnLang`.
 - Theme persistence key: `lazyearn_theme`.
 - Research showcase with direct PDF download, inline viewer routes, and Markdown source links.
 - A primary money-and-wealth field guide covering money creation, ownership, compounding, inequality, and practical wealth-building methods.
-- Household stress dashboard plus credit-conditions transmission check guidance (standards, credit flow, debt burden, delinquency transitions, and resilience signals) synced into markdown and TeX guide surfaces.
-- Revision-aware credit-and-capacity check guidance (credit pulse, revision guardrails, real-capacity rails, and throughput rails) synced into markdown and TeX guide surfaces.
+- Household stress and transmission guidance (standards, credit flow, debt burden, delinquency transitions, and resilience signals) synced into markdown and TeX guide surfaces.
+- Revision-aware credit-and-capacity check guidance (revision risk, real-capacity signals, and throughput sequencing) synced into markdown and TeX guide surfaces.
 - Liquidity-and-cycle clock guidance (H.4.1, H.8, NFCI, TIC, MTS, ECI, NBER) synced into markdown and TeX guide surfaces.
 - Entry-and-property-price pulse guidance (BFS, BDS, BIS RPP/CPP/GLI, LPC, STEO) synced into markdown and TeX guide surfaces.
 - Credit-access-and-burden bridge guidance (DDP, SCE Credit Access, CEX PUMD, SIPP, OECD debt rails) synced into markdown and TeX guide surfaces.
-- Cadence-aware stress classification panel guidance (release-cadence integrity, charge-off/delinquency, access friction, capacity rails, and concentration checks) synced into markdown and TeX guide surfaces.
-- Money, debt, and physical-constraint decision map guidance (liquidity, sovereign stress, access friction, valuation, debt burden, and throughput sequencing) synced into markdown and TeX guide surfaces.
+- Cadence-aware stress classification panel guidance (release-cadence integrity, charge-off and delinquency drift, access friction, and capacity concentration checks) synced into markdown and TeX guide surfaces.
+- Money, debt, and physical-constraint decision map guidance (sovereign risk, access frictions, valuation, debt burden, and throughput sequencing) synced into markdown and TeX guide surfaces.
 - A codex-driven wealth refinery loop with a question bank, methods playbook, side-product catalog, and source ledger.
 - PDF viewer routing via hash/query (`#high-growth`, `#financial-freedom`, `?file=financial-freedom-zh`, etc.).
 - GitHub Pages-compatible static distribution with no build step for the website shell.
@@ -255,6 +269,19 @@ Narrative rundowns for AI, biotech, semiconductors, clean energy, and cloud.
   - keep throughput constraints and access lag in the same decision loop,
   - and prepare a reusable constrained-vs-non-constrained episode workflow for future chapter-9 updates.
 
+## 🔁 Book sync highlights (cycle_015)
+
+- Added the constrained historical method layer for transmission work:
+  - `HCT-6` in `references/wealth-engine/knowledge/methods.md`.
+- Added and activated operational evidence ledger rows for constrained-vs-countercase pairs:
+  - `references/wealth-engine/knowledge/historical-transmission-countercase.md`.
+- Linked those rows into chapter-9 planning artifacts so readers now have reusable mechanism transfer rules.
+- Expanded side-product tracking in `references/wealth-engine/knowledge/side-products.md` with a cycle_015 refresh state.
+- Practical purpose:
+  - convert historical episodes into reproducible decision tests,
+  - enforce reversibility and falsifier gates before allocation claims,
+  - and keep chapter surfaces and operational notes aligned by method tag.
+
 ## 🧪 Wealth refinery loop
 
 The repository now carries a durable research loop so book, PDF, README, and site copy can evolve with traceable methods.
@@ -265,7 +292,7 @@ The repository now carries a durable research loop so book, PDF, README, and sit
 | Source map | `references/wealth-engine/knowledge/resource-map.md` | Curated source families and selection logic |
 | Source ledger | `references/wealth-engine/knowledge/source-ledger.tsv` | Date-stamped source entries with notes |
 | Question bank | `references/wealth-engine/knowledge/question-bank.md` | Tiered research questions and distinctions |
-| Methods playbook | `references/wealth-engine/knowledge/methods.md` | Question -> evidence -> claim process, SQ-5 rubric, and execution methods (`QE-5`, `HS-8`, `LL-6`, `EV-7`, `DP-5`, `RC-6`, `CC-7`, `EP-6`, `CAB-9`, `CAS-10`, `HC-5`) |
+| Methods playbook | `references/wealth-engine/knowledge/methods.md` | Question -> evidence -> claim process, SQ-5 rubric, and execution methods (`QE-5`, `HS-8`, `LL-6`, `EV-7`, `DP-5`, `RC-6`, `CC-7`, `EP-6`, `CAB-9`, `CAS-10`, `HC-5`, `HCT-6`) |
 | Daily prompts pack | `references/wealth-engine/knowledge/daily-prompts.md` | 14-day question-linked study prompts plus logging template |
 | Side-products catalog | `references/wealth-engine/knowledge/side-products.md` | Checklists, prompt packs, and planned study artifacts |
 | Round outputs | `references/wealth-engine/cycles/` | Per-round notes, findings, and summaries |
@@ -456,7 +483,7 @@ Known slugs from site behavior:
 - Expand multilingual README variants and keep the language-switch list in sync.
 - Clarify/document canonical differences between `docs/pdf-viewer.html` and `docs/research-viewer.html`.
 - Keep the wealth field guide fresh with better sources, better questions, and tighter methods.
-- Add a constrained-vs-countercase historical transmission template into chapter 9 before the next markdown-facing expansion.
+- Finalize `U64`-`U69` constrained-vs-countercase integration in chapter 9 and keep README/doc/site sync language updated as each case reaches reader-facing maturity.
 - Run the codex-driven wealth refinery pipeline on a daily basis to keep books, README, and website synchronized.
 - Add lightweight CI checks for Markdown link integrity and optional PDF build validation.
 - Continue growing the research vault with paired Markdown + PDF deliverables.
