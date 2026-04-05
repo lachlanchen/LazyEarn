@@ -1,6 +1,6 @@
 # Next tasks
 
-Updated: 2026-04-05 (cycle_007 round_10 review_and_next_tasks)
+Updated: 2026-04-05 (cycle_008 round_05 side_products)
 
 Measured review anchors (from this round):
 - `references/wealth-engine/knowledge/` currently misses 7 planned artifacts:
@@ -60,13 +60,13 @@ Done when: all six locales keep `missing=0` and reduce `equal-to-English` counts
 Done when: at least 8 panel rows exist plus 3 pilot rows (one per question) with one rejected signal case and one promoted action rule.
 
 7. Create `references/wealth-engine/knowledge/entry-and-property-price-pulse.md` from BFS + BIS rails.
-Done when: at least 8 rows map `signal`, `source`, `frequency`, `last_release`, `next_release`, `question_id`, and `decision_use` using Census BFS, BIS RPP, BIS CPP, and BIS GLI sources.
+Done when: the file exists with schema-complete starter rows (>=8) using `BFS`, `BDS`, `RPP`, `CPP`, and `GLI`, plus one real-conversion rail (`LPC` or `STEO`).
 
 8. Draft first-pass evidence memos for cycle_008 question IDs `U31`-`U35`.
 Done when: each memo has `hypothesis`, `falsifier`, `must_not_conflate`, `first_evidence_pull`, and one `decision_use` line tied to BFS/LPC/STEO/BIS rails.
 
-9. Mirror markdown section `9.7 Entry-and-property-price pulse` into TeX and keep source-family parity.
-Done when: TeX includes an equivalent section/table with the same source families (`BFS`, `BDS`, `BIS RPP/CPP/GLI`, `BLS LPC`, `EIA STEO`) and no downgrade in practical decision rules.
+9. Execute one follow-up `EP-6` maintenance pass after initial panel creation.
+Done when: a second dated pass updates `last_release`/`next_release` fields, adds one panel-level caution note, and records at least one changed decision-use line versus the first pass.
 
 ## Priority 0S - Story, history, physics, and philosophy depth
 

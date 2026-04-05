@@ -276,6 +276,33 @@ Chapter target:
 - one physics or philosophy lens when relevant,
 - one final decision frame for the reader.
 
+## 20) EP-6 method (entry-and-property-price pulse panel)
+
+Use this method to build and maintain `entry-and-property-price-pulse.md` without collapsing distinct mechanisms into one noisy headline.
+
+Protect these distinctions on every pull:
+- entry flow vs entrant durability,
+- valuation gains vs participation gains,
+- global liquidity easing vs local credit-access improvement.
+
+| Step | Action | Output |
+| --- | --- | --- |
+| 1 | Pull entry-flow and durability rails separately. | BFS/BDS split signal |
+| 2 | Pull residential and commercial property rails separately. | RPP/CPP split valuation signal |
+| 3 | Pull global liquidity overlay and classify as `easing`, `neutral`, or `tightening`. | GLI regime tag |
+| 4 | Add one real-conversion context rail (`LPC` or `STEO`) before writing decision use. | conversion context note |
+| 5 | Record release timestamps and next scheduled update window for each signal. | `last_release` + `next_release` coverage |
+| 6 | Write one decision-use line per row and one panel-level caution. | actionable implication + guardrail |
+
+Minimum schema for `entry-and-property-price-pulse.md`:
+
+```text
+signal | source | frequency | last_release | next_release | question_id | decision_use
+```
+
+Quality rule:
+- Do not write a panel conclusion unless at least one entry signal, one property signal, and one liquidity signal are all updated inside the same review window.
+
 ## 11) DP-5 method (daily prompt execution loop)
 
 Use this method with `knowledge/daily-prompts.md` to turn short study sessions into reusable research output.

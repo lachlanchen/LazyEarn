@@ -19,6 +19,7 @@ Purpose: track practical artifacts that make the wealth repository easier to stu
 | `knowledge/daily-prompts.md` | active | Keeps learning cadence consistent during short study sessions and ties each session to a question ID | question-bank + methods + source-ledger | Run one 14-day pilot and capture decision-use notes |
 | `knowledge/revision-aware-capacity-checklist.md` | planned | Turns revision-aware credit reads plus real-capacity rails into one repeatable regime classification layer | question-bank (`U21`-`U25`) + methods (`RC-6`) + source-ledger | Draft first 6 rows and attach one action rule per row |
 | `knowledge/cycle-clock-lead-lag-panel.md` | planned | Aligns mixed-cadence cycle signals into one lead-lag decision panel for liquidity, conditions, flows, and stress | question-bank (`U26`,`U27`,`U29`) + methods (`CC-7`) + source-ledger | Draft first 8 rows and include at least one rejected signal case |
+| `knowledge/entry-and-property-price-pulse.md` | planned | Prevents conflating entry momentum, valuation moves, and liquidity backdrop when assessing broad wealth access | question-bank (`U31`-`U35`) + methods (`EP-6`) + source-ledger | Draft first 8 rows using BFS, BDS, RPP, CPP, GLI, and one real-conversion rail |
 
 ## Side-product briefs
 
@@ -158,6 +159,22 @@ Purpose: track practical artifacts that make the wealth repository easier to stu
   - Use `CC-7` from `knowledge/methods.md`.
   - Include at least one explicitly rejected signal row (signal moved but target did not confirm).
 - Exit criterion: at least 8 rows covering `U26`, `U27`, and `U29`, with at least one promoted and one demoted signal.
+
+### K) Entry-and-property-price pulse brief
+
+- Goal: keep entry, durability, valuation, and liquidity signals separate before drawing access conclusions.
+- Minimum schema:
+  - `signal`
+  - `source`
+  - `frequency`
+  - `last_release`
+  - `next_release`
+  - `question_id`
+  - `decision_use`
+- Method hook:
+  - Use `EP-6` from `knowledge/methods.md`.
+  - Keep at least one signal each from entry (`BFS` or `BDS`), property (`RPP` or `CPP`), and liquidity (`GLI`) in every review window.
+- Exit criterion: at least 8 rows with complete release fields and one panel-level caution line per update pass.
 
 ## Starter prompt pack (14 days)
 
