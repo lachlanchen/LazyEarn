@@ -72,3 +72,46 @@ Before inserting a new paragraph into the markdown or TeX book, check:
 | Wed | Evidence memo drafting | mini-memo files |
 | Thu | Book sync (markdown + TeX) | section edits |
 | Fri | Side products and synthesis | methods/checklists/prompts |
+
+## 6) QE-5 sprint (question-evidence-gates)
+
+Use this quick cycle to produce one high-quality row in `question-evidence-gates.md`.
+
+| Step | Time box | Action | Output |
+| --- | --- | --- | --- |
+| 1 | 10 min | Pick one question ID and restate as one falsifiable hypothesis. | `question_id` + hypothesis line |
+| 2 | 15 min | Write one explicit falsifier and one "must not conflate" guardrail. | falsifier + distinction guardrail |
+| 3 | 20 min | Select minimum evidence set (at least 1 level metric + 1 distribution metric). | `minimum_evidence` list |
+| 4 | 25 min | Evaluate pass/fail/inconclusive based on observed direction and caveats. | provisional status |
+| 5 | 20 min | Write one decision-use sentence and one next-pull instruction. | behavior/policy implication |
+
+Starter row template:
+
+```text
+question_id:
+hypothesis:
+minimum_evidence:
+falsifier:
+must_not_conflate:
+status: pass | fail | inconclusive
+decision_use:
+next_pull:
+```
+
+## 7) HS-8 method (household-stress-watchlist)
+
+Use this method to build an eight-signal watchlist that leads to action, not dashboard theater.
+
+| Step | Action | Output |
+| --- | --- | --- |
+| 1 | Pick signal set across expectations, burden, realized delinquencies, and cash-flow strain. | balanced signal coverage |
+| 2 | For each signal, define `lead_or_lag` relative to delinquency outcomes. | timing map |
+| 3 | Set one interpretation rule per signal (`risk_read`) using plain language. | action rule per signal |
+| 4 | Add one cross-check pair (for example SCE vs NY Fed delinquencies). | contradiction check |
+| 5 | Define review cadence (monthly + quarterly rollup) and escalation trigger. | operating routine |
+
+Minimum schema for `household-stress-watchlist.md`:
+
+```text
+signal | source | series_or_table | frequency | lead_or_lag | risk_read
+```

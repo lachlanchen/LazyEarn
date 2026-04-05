@@ -11,6 +11,8 @@ Purpose: track practical artifacts that make the wealth repository easier to stu
 | `knowledge/core-series-watchlist.md` | planned | Converts source pages into exact series IDs and table codes | source-ledger | Create first version for M1, O2, L1 |
 | `knowledge/household-balance-sheet-bundle.md` | planned | Aligns household risk/wealth variables across data systems | Fed EFA, NY Fed CCP, Census SIPP, FHFA, CPI | Add variable dictionary and join keys |
 | `knowledge/citation-map.tsv` | planned | Links book claims to specific data families and release pages | markdown + TeX + source-ledger | Start with sections 3, 5, and 8 claims |
+| `knowledge/question-evidence-gates.md` | planned | Forces falsifiable pass/fail framing for Tier 1 questions | question-bank + methods + source-ledger | Create first rows for M1, O2, L1, I1, R1 |
+| `knowledge/household-stress-watchlist.md` | planned | Converts stress indicators into a practical monitoring routine | DSR/FOR + SCE + NY Fed debt + CFPB MEM | Draft 8-signal watchlist with risk-read rules |
 | `knowledge/distinction-cards.md` | planned | Quick review cards for core conceptual distinctions | question-bank | Draft 15 cards with examples |
 | `knowledge/daily-prompts.md` | planned | Keeps learning cadence consistent during short study sessions | question-bank + resource-map | Promote prompt pack below into standalone file |
 
@@ -49,6 +51,32 @@ Purpose: track practical artifacts that make the wealth repository easier to stu
   - `Quick test question`
   - `Example`
 - Exit criterion: at least 15 cards covering all distinction categories in the question bank.
+
+### D) Question-evidence-gates brief
+
+- Goal: convert high-value questions into falsifiable claim gates before narrative writing.
+- Minimum schema:
+  - `question_id`
+  - `hypothesis`
+  - `minimum_evidence`
+  - `falsifier`
+  - `must_not_conflate`
+  - `status`
+  - `decision_use`
+  - `next_pull`
+- Exit criterion: Tier 1 set (`M1`, `O2`, `L1`, `I1`, `R1`) each has one completed row.
+
+### E) Household-stress-watchlist brief
+
+- Goal: build a small monitoring layer that turns macro/credit signals into practical risk decisions.
+- Minimum schema:
+  - `signal`
+  - `source`
+  - `series_or_table`
+  - `frequency`
+  - `lead_or_lag`
+  - `risk_read`
+- Exit criterion: at least 8 signals spanning expectations, burden, delinquency transitions, and reported financial strain.
 
 ## Starter prompt pack (14 days)
 
