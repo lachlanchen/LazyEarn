@@ -150,6 +150,7 @@ const THEME_KEY = "lazyearn_theme";
 
 const pdfEntries = {
   "wealth-from-first-principles": {
+    aliases: ["wealth", "wealth-guide", "wealth_from_first_principles"],
     titleKey: "research.asset1Title",
     descriptionKey: "research.asset1Desc",
     title: "Wealth from first principles",
@@ -160,6 +161,7 @@ const pdfEntries = {
     markdown: "https://github.com/lachlanchen/LazyEarn/blob/main/investment/wealth-from-first-principles.md",
   },
   "high-growth": {
+    aliases: ["high-growth-stocks", "high_growth_stocks"],
     titleKey: "research.asset3Title",
     descriptionKey: "research.asset3Desc",
     title: "High-growth dossier",
@@ -170,6 +172,7 @@ const pdfEntries = {
     markdown: "https://github.com/lachlanchen/LazyEarn/blob/main/investment/high-growth-stocks.md",
   },
   "financial-freedom": {
+    aliases: ["financial_freedom"],
     titleKey: "research.asset2Title",
     descriptionKey: "research.asset2Desc",
     title: "Financial freedom playbook",
@@ -180,6 +183,7 @@ const pdfEntries = {
     markdown: "https://github.com/lachlanchen/LazyEarn/blob/main/investment/financial_freedom.md",
   },
   "financial-freedom-zh": {
+    aliases: ["financial_freedom_zh", "financial-freedom-zh-cn"],
     titleKey: "research.asset2ZhTitle",
     descriptionKey: "research.asset2ZhDesc",
     title: "Financial freedom playbook (Chinese edition)",
@@ -194,6 +198,42 @@ const pdfEntries = {
 };
 
 const DEFAULT_RESEARCH_SLUG = "wealth-from-first-principles";
+const catalogAliasMap = buildCatalogAliasMap(pdfEntries);
+
+function normalizeResearchSlug(value) {
+  return String(value || "")
+    .trim()
+    .toLowerCase()
+    .replace(/[_\s]+/g, "-");
+}
+
+function buildCatalogAliasMap(entries) {
+  const aliasMap = new Map();
+  Object.entries(entries).forEach(([slug, entry]) => {
+    const aliases = Array.isArray(entry.aliases) ? entry.aliases : [];
+    [slug, ...aliases].forEach((aliasRaw) => {
+      const alias = normalizeResearchSlug(aliasRaw);
+      if (!alias) {
+        return;
+      }
+      const existing = aliasMap.get(alias);
+      if (existing && existing !== slug) {
+        console.warn(`[research-catalog] Alias collision "${alias}" maps to "${existing}" and "${slug}"`);
+        return;
+      }
+      aliasMap.set(alias, slug);
+    });
+  });
+  return aliasMap;
+}
+
+function resolveCatalogSlug(rawSlug) {
+  const normalized = normalizeResearchSlug(rawSlug);
+  if (!normalized) {
+    return DEFAULT_RESEARCH_SLUG;
+  }
+  return catalogAliasMap.get(normalized) || normalized;
+}
 
 (async function initLazyEarn() {
   await loadTranslations();
@@ -517,11 +557,15 @@ function setupResearchCatalog() {
 
   const wiredSlugs = new Set();
   cards.forEach((card) => {
-    const slug = card.getAttribute("data-research-slug");
+    const rawSlug = card.getAttribute("data-research-slug");
+    const slug = resolveCatalogSlug(rawSlug);
     const entry = pdfEntries[slug];
     if (!entry) {
-      console.warn(`[research-catalog] Missing pdfEntries mapping for slug "${slug}"`);
+      console.warn(`[research-catalog] Missing pdfEntries mapping for slug "${rawSlug}"`);
       return;
+    }
+    if (rawSlug !== slug) {
+      card.setAttribute("data-research-slug", slug);
     }
     wiredSlugs.add(slug);
 
@@ -566,17 +610,19 @@ function setupStandaloneViewer() {
   }
 
   const params = new URLSearchParams(window.location.search);
-  let slug = params.get("file");
-  if (!slug) {
+  let requestedSlug = params.get("file");
+  if (!requestedSlug) {
     const hash = window.location.hash.replace("#", "").trim();
     if (hash) {
-      slug = hash;
+      requestedSlug = hash;
     }
   }
-  slug = slug || DEFAULT_RESEARCH_SLUG;
+  let slug = resolveCatalogSlug(requestedSlug || DEFAULT_RESEARCH_SLUG);
   let entry = pdfEntries[slug];
   if (!entry) {
-    console.warn(`[research-viewer] Unknown slug "${slug}", falling back to "${DEFAULT_RESEARCH_SLUG}"`);
+    console.warn(
+      `[research-viewer] Unknown slug "${requestedSlug || slug}", falling back to "${DEFAULT_RESEARCH_SLUG}"`,
+    );
     slug = DEFAULT_RESEARCH_SLUG;
     entry = pdfEntries[slug];
   }

@@ -1,6 +1,6 @@
 # Next tasks
 
-Updated: 2026-04-05 (cycle_003 round_06 readme_sync)
+Updated: 2026-04-05 (cycle_003 round_08 translation_and_catalog)
 
 Measured review anchors (from this round):
 - `references/wealth-engine/knowledge/` still misses 7 planned artifacts.
@@ -9,6 +9,7 @@ Measured review anchors (from this round):
 - Research/viewer localization drift remains high: `ja`, `ko`, `vi`, `ar`, `fr`, `es` are `24/24` English-equal keys; `zh-Hans` and `zh-Hant` are `20/24`.
 - No dedicated lead-lag matrix artifact exists yet for timing-sensitive questions (`U7`, `U9`).
 - README language messaging is ambiguous between runtime UI packs and translated README files.
+- Viewer alias support is now implemented, but accepted alias routes are not documented for maintainers/readers.
 
 ## Priority 0 - Execute now (in order)
 
@@ -92,3 +93,7 @@ Done when: each row includes `target_outcome`, `tested_lag_window`, `observed_le
 
 21. Clarify language coverage in `README.md` by separating runtime UI locales from translated README variants.
 Done when: badge text and adjacent copy state exact counts and scopes for both runtime (`docs/translations.json`) and document-level (`i18n/README.*.md`) language coverage.
+
+22. Document research viewer slug aliases in `README.md` (and optionally inline code comments in `docs/script.js`).
+Scope: `wealth-from-first-principles`, `high-growth`, `financial-freedom`, `financial-freedom-zh` plus supported alias variants.
+Done when: one canonical slug table and alias notes are published so inbound-link troubleshooting no longer depends on reading JS source.
