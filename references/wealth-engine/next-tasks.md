@@ -1,6 +1,6 @@
 # Next tasks
 
-Updated: 2026-04-06 (cycle_015 round_06_readme_sync)
+Updated: 2026-04-06 (cycle_015 round_07_website_sync)
 
 ## Cycle 015 readme_sync follow-up (round_06_readme_sync)
 
@@ -15,6 +15,18 @@ Updated: 2026-04-06 (cycle_015 round_06_readme_sync)
    - no stale or duplicate cycle sections,
    - no contradictory cycle counter phrasing,
    - and at least one visible reader-facing section per future cycle.
+
+## Cycle 015 website_sync follow-up (round_07_website_sync)
+
+1. Keep docs research card route framing aligned with chapter-9 sequence:
+   `9.10` → `9.10.1` → `9.11` → `9.11.1` → `HCT-6` constrained-vs-countercase checks.
+   Done when `docs/index.html` carries the route in a dedicated reader-facing block with translated string keys.
+2. Remove stale cycle marker drift from website copy:
+   - replace remaining `cycle_014` references in active English-facing reader strings with `cycle_015`.
+   Done when script fallback/en-translation sync no longer advertises stale cycle state.
+3. Expand website translation parity for new route-copy keys:
+   `research.routeIntro`, `research.routeStep1`...`research.routeStep5`.
+   Done when fallback and active translation path both resolve these keys for English and default to English for other locales if not yet localized.
 
 ## Cycle 015 side-products follow-up (round_05_side_products)
 

@@ -88,7 +88,7 @@ const fallbackStrings = {
   "footer.pages": `GitHub Pages`,
   "research.tag": `Research Drop`,
   "research.heading": `Money and wealth, from first principles`,
-  "research.copy": `We are building a living field guide to money, wealth, ownership, compounding, and financial independence. It runs with a reproducible refinery loop: question bank, source ledger, methods playbook, and synced book/PDF/website outputs. The current cycle is cycle_014, which adds historical constrained-vs-countercase transmission scaffolding in Chapter 9 and a companion sequence for irreversible risk decisions.`,
+  "research.copy": `We are building a living field guide to money, wealth, ownership, and financial independence. It runs with a reproducible refinery loop: question bank, source ledger, methods playbook, and synced book/PDF/website outputs. Cycle_015 adds constrained-vs-countercase transmission scaffolding in Chapter 9 and explicit route guidance before leverage or debt-timing claims.`,
   "research.point1": `Distinction-first answers on money creation, ownership, leverage, inequality, and risk.`,
   "research.point2": `Primary-source coverage across Fed, NY Fed, BLS, Census, IMF, BIS, World Bank, OECD, and SEC resources.`,
   "research.point3": `Question -> evidence -> claim workflow with SQ-5 source quality gates.`,
@@ -96,7 +96,7 @@ const fallbackStrings = {
   "research.point5": `Latest additions: a channel-map lens from system credit to household outcomes, plus EV-7 entry-vs-incumbent tests for ownership access timing.`,
   "research.point6": `Cycle 007-010 sync: liquidity-and-cycle clock checks (H.4.1/H.8/NFCI/TIC/MTS/ECI/NBER), entry-and-property-price pulse checks (BFS/BDS/RPP/CPP/GLI/LPC/STEO), credit-access-and-burden bridge checks (DDP/SCE Credit Access/CEX PUMD/SIPP/OECD), and cadence-aware stress classification checks (release calendar/chargeoff/G.17/FSIC/SOI PUF) with EP-6, CAB-9, and CAS-10 wiring.`,
   "research.point7": `Cycle 011 extension: 9.10 Constraint-first lens for money-growth episodes, plus the new HC-5 historical-case conversion method to connect major episodes (for example Jekyll Island, Great Depression, Great Inflation, 1973-74 Oil Shock) to actionable ownership decisions.`,
-  "research.point8": `Cycle 012-014 extension: 9.11 Money, debt, and physical constraints decision map, 9.10.1 Great Recession transmission, and 9.11.1 Historical constraint test: 1973-74 oil shock and transmission lag, adding constrained-vs-countercase transfer rules for channel-first wealth-readiness decisions.`,
+  "research.point8": `Cycle 012-015 extension: 9.11 Money, debt, and physical constraints decision map, 9.10.1 Great Recession transmission, 9.11.1 Historical constraint test: 1973-74 oil shock and transmission lag, and HCT-6 constrained-vs-countercase transmission scaffolding for explicit reversibility and durability checks.`,
   "research.pdf": `Download PDF`,
   "research.viewInline": `View on-site`,
   "research.viewChinese": `View Chinese edition`,
@@ -120,22 +120,34 @@ const fallbackStrings = {
   "research.asset3Desc": `Narrative rundowns for nine high-growth U.S. equities (AI, biotech, semiconductors, clean energy, cloud) with upside tables and annotated sources.`,
   "research.asset3Route": `Viewer slug: <code>high-growth</code> (aliases: <code>high-growth-stocks</code>, <code>high_growth_stocks</code>).`,
   "form.success": `Invite sent to {{email}}. Expect a lazy hello soon.`,
+  "research.routeIntro": `Start at the Chapter 9 transmission sequence to align your interpretation before any wealth timing conclusion:`,
+  "research.routeStep1": "`9.10` Constraint-first lens for money-growth episodes",
+  "research.routeStep2": "`9.10.1` Historical mechanism test: Great Recession transmission",
+  "research.routeStep3": "`9.11` Money, debt, and physical constraints decision map",
+  "research.routeStep4": "`9.11.1` Historical constraint test: 1973-74 oil shock and transmission lag",
+  "research.routeStep5": "`HCT-6` constrained-vs-countercase transmission checks and reversibility flags",
 };
 
 const syncedEnglishResearchStrings = {
   "research.copy":
-    "We are building a living field guide to money, wealth, ownership, compounding, and financial independence. It runs with a reproducible refinery loop: question bank, source ledger, methods playbook, and synced book/PDF/website outputs. The current cycle is cycle_014, which adds historical constrained-vs-countercase transmission scaffolding in Chapter 9 and a companion sequence for irreversible risk decisions.",
+    "We are building a living field guide to money, wealth, ownership, and financial independence. It runs with a reproducible refinery loop: question bank, source ledger, methods playbook, and synced book/PDF/website outputs. Cycle_015 adds constrained-vs-countercase transmission scaffolding in Chapter 9 and explicit route guidance before leverage or debt-timing claims.",
   "research.point6":
     "Cycle 007-010 sync: liquidity-and-cycle clock checks (H.4.1/H.8/NFCI/TIC/MTS/ECI/NBER), entry-and-property-price pulse checks (BFS/BDS/RPP/CPP/GLI/LPC/STEO), credit-access-and-burden bridge checks (DDP/SCE Credit Access/CEX PUMD/SIPP/OECD), and cadence-aware stress classification checks (release calendar/chargeoff/G.17/FSIC/SOI PUF) with EP-6, CAB-9, and CAS-10 wiring.",
   "research.point7":
     "Cycle 011 extension: 9.10 Constraint-first lens for money-growth episodes, plus the new HC-5 historical-case conversion method to connect major episodes (for example Jekyll Island, Great Depression, Great Inflation, 1973-74 Oil Shock) to actionable ownership decisions.",
   "research.point8":
-    "Cycle 012-014 extension: 9.11 Money, debt, and physical constraints decision map, 9.10.1 Great Recession transmission, and 9.11.1 Historical constraint test: 1973-74 oil shock and transmission lag, adding constrained-vs-countercase transfer rules for channel-first wealth-readiness decisions.",
+    "Cycle 012-015 extension: 9.11 Money, debt, and physical constraints decision map, 9.10.1 Great Recession transmission, 9.11.1 Historical constraint test: 1973-74 oil shock and transmission lag, and HCT-6 constrained-vs-countercase transmission scaffolding for explicit reversibility and durability checks.",
   "research.stat1": "research questions",
   "research.asset1Desc":
     "A practical field guide to money, wealth, debt, and physical capacity with distinction checklists, evidence ladders, stress dashboards, credit channel maps, ownership-entry execution loops, entry-and-property-price pulse checks, credit-access-and-burden bridge checks, cadence-aware stress classification checks, debt-throughput sequencing, historical transmission checks (Great Recession and 1973-74), and source-linked methods you can apply immediately.",
   "research.asset1Route":
     "Viewer slug: <code>wealth-from-first-principles</code> (aliases: <code>wealth</code>, <code>wealth-guide</code>, <code>wealth_from_first_principles</code>, <code>wealth-field-guide</code>).",
+  "research.routeIntro": "Start at the Chapter 9 transmission sequence to align your interpretation before any wealth timing conclusion:",
+  "research.routeStep1": "`9.10` Constraint-first lens for money-growth episodes",
+  "research.routeStep2": "`9.10.1` Historical mechanism test: Great Recession transmission",
+  "research.routeStep3": "`9.11` Money, debt, and physical constraints decision map",
+  "research.routeStep4": "`9.11.1` Historical constraint test: 1973-74 oil shock and transmission lag",
+  "research.routeStep5": "`HCT-6` constrained-vs-countercase transmission checks and reversibility flags",
 };
 
 const fallbackIdeas = {
