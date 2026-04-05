@@ -28,11 +28,12 @@ Measured review anchors (from this round):
   - `ar = 31/31` (missing: `0`, equal-to-English: `26`)
   - `fr = 31/31` (missing: `0`, equal-to-English: `26`)
   - `es = 31/31` (missing: `0`, equal-to-English: `26`)
-- Build warning baseline from cycle_009 round_09 (`wealth-from-first-principles`):
+- Build warning baseline from cycle_010 round_09 (`wealth-from-first-principles`):
   - `microtype warnings = 1`
   - `overfull_hbox = 4`
-  - `underfull_hbox = 152`
+  - `underfull_hbox = 172`
   - `underfull_vbox = 6`
+  - note: `underfull_hbox` increased versus prior tracked baseline (`152 -> 172`).
 - Source-ledger schema is still pre-migration:
   - header is `date, category, title, url, note` (missing planned fields `source_type`, `update_cadence`, `last_verified_on`)
 - Question-bank scope now includes cycle_010 unanswered set `U41`-`U45`:
@@ -85,7 +86,7 @@ Done when: each file exists with schema-complete starter rows for `M1/O2/L1` and
 Done when: section URL-line counts improve from `6/6/4` to at least `9/9/9`, with corresponding source-family mirrors in TeX.
 
 4. Run one TeX warning-reduction pass on table-heavy content (`9.6` and source tables).
-Done when: warning profile improves against current baseline (`microtype=1`, `overfull_hbox=4`, `underfull_hbox=152`, `underfull_vbox=6`) and before/after counts are logged.
+Done when: warning profile improves against current baseline (`microtype=1`, `overfull_hbox=4`, `underfull_hbox=172`, `underfull_vbox=6`) and before/after counts are logged.
 
 5. Reduce runtime localization fallback in `ja/ko/vi/ar/fr/es` for the 31-key `research.*` + `viewer.backToResearch` scope.
 Done when: each locale keeps `missing=0` and reduces `equal-to-English` below the current `26` baseline while preserving slug/code tokens.
