@@ -1,12 +1,32 @@
 # Resource Map
 
 Updated: 2026-04-05  
-Round seed: cycle_003 / round_01_resource_scan
+Round seed: cycle_004 / round_01_resource_scan
 
 ## Selection rules used in this scan
 - Prefer official or primary institutions with transparent methods.
 - Prefer sources with download/API access, not just commentary.
 - Capture freshness signals (release dates, update cadence, or version tags).
+
+## Cycle 004 additions: mortgage-credit and small-business credit flow
+- FHFA National Mortgage Database (NMDB) Aggregate Statistics  
+  https://www.fhfa.gov/data/nmdb  
+  Why keep: official mortgage performance/origination/outstanding-balance system with downloadable CSV panels and updated documentation; page and dataset release date shown as Mar 27, 2026.
+- CFPB HMDA 2025 data release (with FFIEC Modified LAR platform link)  
+  https://www.consumerfinance.gov/about-us/newsroom/2025-hmda-data-on-mortgage-lending-now-available/  
+  Why keep: current official release note for loan-level mortgage disclosure data (2025 LAR), including filer count and direct link to FFIEC modified-LAR downloads (Mar 31, 2026 update).
+- FFIEC HMDA Modified LAR platform  
+  https://ffiec.cfpb.gov/data-publication/modified-lar  
+  Why keep: primary loan-level mortgage data endpoint (institution files plus combined file) referenced by CFPB release workflow.
+- Federal Reserve Small Business Credit Survey (all survey years)  
+  https://www.fedsmallbusiness.org/reports/survey/  
+  Why keep: ongoing national credit-conditions evidence for firms under 500 employees, with 2026 outputs from the 2025 survey and linked data/methodology assets.
+- New York Fed Household Debt and Credit background + Data Bank page  
+  https://www.newyorkfed.org/microeconomics/hhdc/background.html  
+  Why keep: includes quarterly report downloads and direct links to underlying national/state debt and delinquency datasets for reproducible stress and leverage tracking.
+- CFPB Small Business Lending Database (Section 1071 implementation surface)  
+  https://www.consumerfinance.gov/data-research/small-business-lending/  
+  Why keep: official data-publication and filing-spec hub for upcoming comprehensive small-business lending disclosures; includes latest filing guide/spec links.
 
 ## Cycle 003 additions: credit conditions and distribution monitoring
 - Federal Reserve SHED hub (Economic Well-Being of U.S. Households)  

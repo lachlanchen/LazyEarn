@@ -112,3 +112,8 @@ Done when: at least 15 cards with `Distinction`, `Common confusion`, `Quick test
 20. Reduce TeX warning profile in `investment_pdfs/wealth-from-first-principles/wealth-from-first-principles.tex`.
 Baseline to beat: `microtype=1`, `overfull_hbox=1`, `underfull_hbox=60`, `underfull_vbox=1`.
 Done when: at least 5 warning lines are removed (priority on section `9.4` and `Official data and references` table blocks) without content-loss versus markdown.
+
+## Priority 1.5 - Credit data integration follow-up
+
+21. Create `references/wealth-engine/knowledge/mortgage-and-small-business-credit-watchlist.md`.
+Done when: at least 8 tracked series/tables spanning NMDB, HMDA modified LAR, NY Fed household debt data bank, SBCS, and CFPB small-business-lending publication assets with columns `question_id`, `signal`, `source`, `frequency`, `cadence_risk`, `decision_use`.
