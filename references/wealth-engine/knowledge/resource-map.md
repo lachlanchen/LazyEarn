@@ -432,3 +432,30 @@ Round seed: cycle_012 / round_01_resource_scan
 - FRASER (Federal Reserve Archival System for Economic Research)  
   https://fraser.stlouisfed.org/  
   Why keep: official archive for historical policy documents, bulletins, and monetary/financial primary texts.
+
+## Cycle 013 additions: primary institutional sources
+
+### Wealth and macro flow infrastructure
+
+- [Federal Reserve Board - FRASER/Z.1 release feed](https://www.federalreserve.gov/feeds/z1.html) keeps the official Distributional Financial Accounts, flow-of-funds tables, and revised household/debt/liquidity series current.
+- [Federal Reserve Board - Beige Book](https://www.federalreserve.gov/monetarypolicy/publications/beige-book-default.htm) provides eight annual regional sentiment snapshots (January 2026 onward) that are useful for production and constraints narratives.
+- [Bureau of Economic Analysis - Personal Income and Outlays](https://www.bea.gov/products/personal-income) gives up-to-date household income/saving dynamics and linked NIPA references.
+- [Bureau of Economic Analysis - NIPA Handbook](https://www.bea.gov/resources/methodologies/nipa-handbook) is the main methodological anchor for interpreting income, capital formation, and production aggregates.
+
+### Global institutions and capital flows
+
+- [OECD Income and Wealth Distribution Database](https://www.oecd.org/social/income-distribution-database.htm) offers updated inequality and wealth distribution snapshots with periodic 2025 refreshes.
+- [United Nations Conference on Trade and Development - World Investment Report 2025](https://unctad.org/publication/world-investment-report-2025) documents durable patterns and the weak/volatile side of foreign capital flows.
+- [International Monetary Fund - Article IV Consultation press releases](https://www.imf.org/en/publications/cr) are useful for cross-country fiscal and resilience case studies in a single source family.
+- [International Monetary Fund - IMF Executive Board concludes 2026 Article IV Consultation with the United States](https://www.imf.org/en/news/articles/2026/04/01/pr-26102-usa-imf-executive-board-concludes-2026-article-iv-consult) is a concise case snapshot for cycle-level macro-institutional context.
+
+### Energy constraints and long-horizon fiscal policy
+
+- [EIA Short-Term Energy Outlook](https://www.eia.gov/outlooks/steo/outlook.php) and [AEO retrospective archive](https://www.eia.gov/outlooks/aeo/retrospective/) give production/price forward paths that directly affect real-economy investing narratives.
+- [Congressional Budget Office - Long-Term Budget Outlook executive summary](https://www.cbo.gov/system/files/2025-03/61187-LTBO-Executive-Summary.pdf) is now current with 2026-era assumptions used for debt trajectory and tax/benefit pressure discussions.
+- [Bank for International Settlements - Publications list](https://www.bis.org/publ/quarterly.htm) keeps global financial stability analysis and banking constraint updates in one place.
+
+### Personal finance and investing behavior
+
+- [CFPB Financial Literacy Annual Report (FY 2025)](https://www.consumerfinance.gov/data-research/research-reports/financial-literacy-annual-report/) provides direct behavioral measurement data for investor readiness and decision quality.
+- [Berkshire Hathaway 2025 Annual Report and letter](https://www.berkshirehathaway.com/2025ar/202510-k.pdf) gives a long-form historical-in-the-market example of practical capital allocation behavior.

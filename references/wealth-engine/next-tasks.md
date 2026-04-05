@@ -483,3 +483,13 @@ Done when: any new `overfull`/`underfull` lines introduced by the `9.6` table bl
 
 32. Run a `CC-7` pilot for `U26`, `U27`, and `U29` before scaling the full cycle-clock panel.
 Done when: at least 3 starter rows (one per question) are logged with `lead_result`, one `false_signal_note`, and one promoted `action_rule`.
+
+## Cycle 013 resource follow-ups
+- Ingest IMF Article IV press release series + staff documentation into the question bank for country-level comparative finance case studies.
+- Add a short subsection on energy-constrained growth in `investment/wealth-from-first-principles.md` using EIA AEO/STEO assumptions and outputs.
+- Draft a wealth-inequality bridge section: OECD IDD/WDD data + CBO Long-Term Budget Outlook + BEA income dynamics.
+
+## Cycle 013 resource follow-ups (cleaned)
+- Ingest IMF Article IV press release series plus staff documentation into the question bank for country-level comparative finance case studies.
+- Add a short subsection on energy-constrained growth in investment/wealth-from-first-principles.md using EIA AEO/STEO assumptions and outputs.
+- Draft a wealth-inequality bridge section using OECD income/wealth data, CBO long-term budget outlook, and BEA personal income series.
