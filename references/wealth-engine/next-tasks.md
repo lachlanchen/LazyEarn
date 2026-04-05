@@ -8,6 +8,12 @@ Updated: 2026-04-06 (cycle_014 round_01_resource_scan)
 2. Add one non-energy constrained historical transmission countercase in the same chapter family (source-backed), then map both cases to `U56` and `U57` in `knowledge/source-ledger.tsv` and `knowledge/question-bank.md`.
 3. If TeX edits continue in chapter 9, keep `investment_pdfs/wealth-from-first-principles/wealth-from-first-principles.tex` rebuilt after structural changes and note warning drift (overfull/underfull) in the next build-round notes.
 
+## Cycle 014 side-products follow-up (round_05_side_products)
+
+1. Draft `knowledge/historical-transmission-countercase.md` with at least 3 constrained vs counter-case pairs (targeting `U64`-`U69`) that explicitly compare transmission channels and outcomes.
+2. Add one pre-committed falsifier and one reversibility read per pair; keep transfer rules tied to reader-ready decisions, not narrative verdicts.
+3. Feed the new countercase rows back into chapter-9 planning and question placement during the next markdown book pass.
+
 ## Cycle 014 resource scan follow-up (round_01_resource_scan)
 
 1. Integrate the new IMF/UNCTAD/BIS/ECB/Fed sources into `knowledge/historical-case-ledger.md` with dated mechanism notes for at least:

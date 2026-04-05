@@ -538,3 +538,43 @@ next_pull
 
 Quality rule:
 - A row is incomplete if any of `liquidity_signal`, `access_signal`, `throughput_signal`, `falsifier`, `must_not_conflate`, or `decision_use` is missing.
+
+## 25) HCT-6 method (historical countercase transmission test)
+
+Use this method when one episode alone is likely to overfit your conclusion about money-to-wealth transmission.
+
+Goal:
+- Force two-episode comparison: one constrained transmission case and one non-constrained countercase with similar policy questions.
+
+| Step | Action | Output |
+| --- | --- | --- |
+| 1 | Pick one target question and one mechanism hypothesis. | clear mechanism hypothesis |
+| 2 | Select one constrained episode and one comparator episode with the same core mechanism target. | comparable episode set |
+| 3 | For each episode, record aligned channels: `liquidity`, `access`, `burden`, `throughput`, and `participation`. | 5-channel comparison frame |
+| 4 | Set one falsifier and one `must not conflate` note before writing inference. | invalidation + guardrail |
+| 5 | Compare reversibility and durability of ownership effects. | reversibility and durability verdict |
+| 6 | Produce one transfer rule and one caveat for reader action. | practical implication + guardrail |
+
+Minimum schema for `knowledge/historical-transmission-countercase.md`:
+
+```text
+question_id
+anchor_mechanism
+episode_constrained
+episode_counter_case
+date_window_constrained
+date_window_counter_case
+liquidity_signal
+access_signal
+burden_signal
+throughput_signal
+participation_signal
+falsifier
+must_not_conflate
+reversibility_read
+transfer_rule
+next_pull
+```
+
+Quality rule:
+- Keep a strict one-to-one lesson field per episode and require both episodes to include at least one comparable `release-lag` note.
