@@ -63,6 +63,8 @@ Before inserting a new paragraph into the markdown or TeX book, check:
 4. Did we avoid averaging away distributional differences?
 5. Does the paragraph end with a practical implication?
 6. Does the surrounding section become more useful to the reader in a visible way, not only in hidden maintenance?
+7. Did we add at least one substantive anchor such as a mechanism, dated fact, named actor/institution, historical episode, or sourced comparison?
+8. If the paragraph uses philosophy or physics, is it tied to a real conceptual dispute or a real-world constraint rather than metaphor alone?
 
 ## 5) Weekly refinery cadence (lightweight)
 
@@ -187,10 +189,11 @@ The goal is not decorative churn. The goal is one reader-visible upgrade that im
 | 2 | Define the question the upgrade must answer for the reader. | reader-facing purpose |
 | 3 | Tie the upgrade to at least one distinction and one source family before writing. | coherence + evidence anchor |
 | 4 | If using physics, use it only where the physical world directly constrains money or wealth: energy, material throughput, logistics, extraction, infrastructure, time, storage, or thermodynamic limits. | real-world constraint framing |
-| 5 | Add one concrete artifact, not just prose polish: a table, a mechanism diagram, a pull quote, a callout box, a chapter-opening frame, or an appendix block. | visible structural improvement |
-| 6 | Check that the new artifact sharpens the book's central argument rather than turning it into a loose encyclopedia. | fit-to-thesis check |
-| 7 | If the markdown or TeX book changed materially, compile with XeLaTeX and sync both PDF copies in the same round when safe to do so. | updated build artifacts |
-| 8 | Record what improved, what still looks weak, and what should be the next visible upgrade. | actionable round notes |
+| 5 | Prefer one real story, historical episode, institutional turning point, or named thinker when it materially improves the section. | narrative/historical anchor |
+| 6 | Add one concrete artifact, not just prose polish: a table, a mechanism diagram, a pull quote, a callout box, a chapter-opening frame, or an appendix block. | visible structural improvement |
+| 7 | Check that the new artifact sharpens the book's central argument rather than turning it into a loose encyclopedia. | fit-to-thesis check |
+| 8 | If the markdown or TeX book changed materially, compile with XeLaTeX and sync both PDF copies in the same round when safe to do so. | updated build artifacts |
+| 9 | Record what improved, what still looks weak, and what should be the next visible upgrade. | actionable round notes |
 
 Preferred visible upgrades, in descending order:
 
@@ -204,6 +207,74 @@ Default rule:
 
 - In any cycle that touches the book, aim for at least one visibly meaningful improvement to the reading experience.
 - If forced to choose between a hidden maintenance edit and a clear reader-facing improvement, prefer the reader-facing improvement unless accuracy would suffer.
+
+## 16) SH-7 method (stories and history integration)
+
+Use this method when adding narrative material to the book, README, or website.
+
+The goal is not anecdotal color. The goal is a real episode that sharpens mechanism, incentives, or institutional change.
+
+| Step | Action | Output |
+| --- | --- | --- |
+| 1 | Pick one event, institution, thinker, company, market episode, or policy turn directly tied to the question. | precise story candidate |
+| 2 | Lock the basic facts: date range, actors, place, institution, and what changed. | factual spine |
+| 3 | Verify with at least one official/primary source or one high-quality book plus one independent corroborating source. | source-backed narrative rail |
+| 4 | State the mechanism the story illustrates. | causal lesson |
+| 5 | State what the story does not prove. | scope limit |
+| 6 | Connect it back to the reader's decision problem or conceptual map. | practical link |
+| 7 | Capture the source family and short takeaway in round notes or side-product files. | reusable story ledger |
+
+Minimum story note template:
+
+```text
+story_id:
+episode:
+date_range:
+actors_or_institutions:
+question_it_helps:
+mechanism:
+what_it_does_not_prove:
+source_1:
+source_2:
+decision_use:
+```
+
+## 17) PP-6 method (physics and philosophy integration)
+
+Use this method when the book touches physical constraint, metaphysics of value, ethics, agency, ownership, or decision philosophy.
+
+| Step | Action | Output |
+| --- | --- | --- |
+| 1 | Write the exact question first: physical, philosophical, or both. | scoped question |
+| 2 | For physics, anchor claims in real constraints such as energy, throughput, infrastructure, storage, extraction, time, or irreversible loss. | physical rail |
+| 3 | For philosophy, anchor claims in explicit distinctions such as `means vs ends`, `instrumental vs intrinsic value`, `freedom vs security`, `ownership vs control`, or `prudence vs greed`. | philosophical rail |
+| 4 | Use source-backed material: textbooks, serious books, lectures, papers, official histories, or primary texts where appropriate. | source rail |
+| 5 | Translate the idea into economic or financial consequence without collapsing into slogan or metaphor. | applied implication |
+| 6 | End with one caution about misuse or overreach. | guardrail |
+
+## 18) PSC-6 method (paragraph, section, and chapter substance check)
+
+Use this method whenever a book round touches more than a few lines.
+
+Paragraph target:
+- one claim or distinction,
+- one mechanism, example, or dated fact,
+- one evidence or source rail,
+- one practical implication or transition.
+
+Section target:
+- one governing question,
+- one reason it matters,
+- one evidence map,
+- one story/table/diagram/callout anchor,
+- one closing synthesis.
+
+Chapter target:
+- one central tension,
+- one section sequence that resolves it,
+- one historical or institutional spine,
+- one physics or philosophy lens when relevant,
+- one final decision frame for the reader.
 
 ## 11) DP-5 method (daily prompt execution loop)
 

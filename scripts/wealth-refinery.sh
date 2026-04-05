@@ -11,15 +11,19 @@ using repeated `codex exec` calls in one shared session.
 Default behavior:
 - 100 outer cycles
 - 10 rounds per cycle
+- auto-resume from the next unfinished round when prior state exists and no explicit start position is provided
 - small additive edits only
 - commits and pushes after each round when changes exist
 
 Options:
   --cycles <n>             outer loop count (default: 100)
   --start-cycle <n>        start from cycle n (default: 1)
+  --start-round <n>        start from round n within the start cycle (default: 1)
   --model <name>           Codex model (default: gpt-5.3-codex)
   --reasoning <effort>     none|minimal|low|medium|high|xhigh (default: high)
   --new-session            start a fresh Codex session
+  --resume-from-state      resume from the next unfinished round using references/wealth-engine/state.tsv
+  --no-resume-from-state   disable automatic resume detection
   --sandbox <mode>         Codex sandbox (default: danger-full-access)
   --approval <mode>        Codex approval (default: never)
   --no-commit-push         do not commit or push
@@ -31,12 +35,14 @@ Options:
 Examples:
   ./scripts/wealth-refinery.sh --cycles 3 --new-session
   ./scripts/wealth-refinery.sh --cycles 100 --sleep-seconds 10
+  ./scripts/wealth-refinery.sh --resume-from-state
 USAGE
 }
 
 ROOT_DIR="$(cd "$(dirname "${BASH_SOURCE[0]}")/.." && pwd)"
 CYCLES="100"
 START_CYCLE="1"
+START_ROUND="1"
 MODEL="gpt-5.3-codex"
 REASONING="high"
 NEW_SESSION=0
@@ -46,14 +52,20 @@ COMMIT_PUSH=1
 SLEEP_SECONDS="2"
 STOP_FILE=""
 VERBOSE=0
+RESUME_FROM_STATE=1
+START_CYCLE_SET=0
+START_ROUND_SET=0
 
 while [ $# -gt 0 ]; do
   case "$1" in
     --cycles) CYCLES="${2:-}"; shift ;;
-    --start-cycle) START_CYCLE="${2:-}"; shift ;;
+    --start-cycle) START_CYCLE="${2:-}"; START_CYCLE_SET=1; shift ;;
+    --start-round) START_ROUND="${2:-}"; START_ROUND_SET=1; shift ;;
     --model) MODEL="${2:-}"; shift ;;
     --reasoning) REASONING="${2:-}"; shift ;;
     --new-session) NEW_SESSION=1 ;;
+    --resume-from-state) RESUME_FROM_STATE=1 ;;
+    --no-resume-from-state) RESUME_FROM_STATE=0 ;;
     --sandbox) SANDBOX="${2:-}"; shift ;;
     --approval) APPROVAL="${2:-}"; shift ;;
     --no-commit-push) COMMIT_PUSH=0 ;;
@@ -74,12 +86,17 @@ case "$REASONING" in
     ;;
 esac
 
-for n in "$CYCLES" "$START_CYCLE" "$SLEEP_SECONDS"; do
+for n in "$CYCLES" "$START_CYCLE" "$START_ROUND" "$SLEEP_SECONDS"; do
   if ! [[ "$n" =~ ^[0-9]+$ ]]; then
     echo "Expected integer option, got '$n'." >&2
     exit 1
   fi
 done
+
+if [ "$START_ROUND" -lt 1 ] || [ "$START_ROUND" -gt 10 ]; then
+  echo "Expected --start-round between 1 and 10, got '$START_ROUND'." >&2
+  exit 1
+fi
 
 if ! command -v codex >/dev/null 2>&1; then
   echo "codex CLI not found in PATH." >&2
@@ -98,6 +115,7 @@ METHODS_FILE="$KNOWLEDGE_DIR/methods.md"
 SIDE_PRODUCTS_FILE="$KNOWLEDGE_DIR/side-products.md"
 SOURCE_LEDGER_FILE="$KNOWLEDGE_DIR/source-ledger.tsv"
 STATE_FILE="$REF_DIR/state.tsv"
+LAST_STOP_FILE="$REF_DIR/last-stop.tsv"
 SESSION_FILE="$REF_DIR/.codex_wealth_session"
 BASELINE_UNTRACKED_FILE="$REF_DIR/.baseline_untracked"
 RUNTIME_LOG_DIR="$ROOT_DIR/runtime/logs/wealth-engine"
@@ -160,6 +178,8 @@ Core content goals:
 - Explain what wealth is.
 - Explain who can build wealth and why paths differ.
 - Expand into adjacent lenses when useful: business, commercial systems, finance, economics, mathematics, the physics of the real world underlying production and constraint, and philosophy.
+- Add real stories, historical episodes, institutional histories, and biographies when they sharpen causal understanding instead of merely decorating the prose.
+- Give physics and philosophy dedicated, source-backed treatment when they help explain constraint, production, time, agency, value, ethics, ownership, and decision-making.
 - Curate courses, books, tutorials, datasets, and online repositories.
 - Keep searching for better sources and better questions.
 - Produce useful side products such as glossaries, question banks, methods, source ledgers, and next-task lists.
@@ -179,19 +199,30 @@ Book ambition and style goals:
   - do not add shallow "physics analogies" for style alone.
 - Make each book-editing round more intriguing and useful:
   - add concrete methods,
+  - add real stories and historical episodes with dates, institutions, and causal lessons,
   - sharpen distinctions,
   - improve tables and diagrams,
   - deepen appendices,
+  - strengthen the physics and philosophy sections with real sources,
   - and strengthen citations for high-impact claims.
 - The default preference should be to make at least one visibly meaningful book improvement in every cycle, not merely one invisible maintenance edit.
 - Compile the book aggressively whenever book-facing files change enough to justify it, rather than waiting only for a dedicated build round.
 - Preserve coherence: every new section must fit the book's central argument and not feel like a random encyclopedia dump.
+- Each paragraph, section, and chapter touched should become more substantial by adding one or more of:
+  - a mechanism,
+  - a dated fact,
+  - a named institution, person, or event,
+  - a historical or comparative example,
+  - a source-backed philosophical distinction,
+  - or a practical implication.
+- Avoid generic filler, vague motivation, and recycled finance clichés.
 
 Operating rules:
 - Work only in this repository.
 - Make small, additive, professional improvements.
 - Use web research when claims are current, unstable, or source-sensitive.
 - Prefer official or primary sources where possible.
+- When adding stories or histories, prefer named dates, actors, institutions, books, archives, official histories, or primary documents over unsourced anecdotes.
 - Store intermediate knowledge in references/wealth-engine/.
 - Compile the TeX book with xelatex when appropriate and copy the PDF into docs/investment_pdfs/.
 - Do not run git commands inside codex exec turns. The driver script commits and pushes after each round.
@@ -208,6 +239,10 @@ for seed in "$RESOURCE_MAP_FILE" "$QUESTION_BANK_FILE" "$METHODS_FILE" "$SIDE_PR
     : > "$seed"
   fi
 done
+
+if [ ! -f "$LAST_STOP_FILE" ]; then
+  printf 'timestamp\tlast_completed_cycle\tlast_completed_round\tlast_completed_slug\tnext_cycle\tnext_round\tsession_id\n' > "$LAST_STOP_FILE"
+fi
 
 extract_session_id_from_jsonl() {
   local json_file="$1"
@@ -305,13 +340,30 @@ round_slug() {
   esac
 }
 
+round_number_from_slug() {
+  case "$1" in
+    resource_scan) echo "1" ;;
+    question_bank) echo "2" ;;
+    book_markdown) echo "3" ;;
+    book_tex) echo "4" ;;
+    side_products) echo "5" ;;
+    readme_sync) echo "6" ;;
+    website_sync) echo "7" ;;
+    translation_and_catalog) echo "8" ;;
+    build_and_verify) echo "9" ;;
+    review_and_next_tasks) echo "10" ;;
+    *) echo "" ;;
+  esac
+}
+
 round_instruction() {
   case "$1" in
     1)
       cat <<EOF
 Round objective:
-- Search for fresh, high-quality resources about money, wealth, investing, financial history, inequality, and personal finance.
+- Search for fresh, high-quality resources about money, wealth, investing, financial history, inequality, personal finance, philosophy, and real-world production/constraint.
 - Prefer official and primary sources where possible.
+- Include books, lectures, archives, official histories, and serious long-form material when they support richer stories or section depth.
 - Update:
   - $RESOURCE_MAP_FILE
   - $SOURCE_LEDGER_FILE
@@ -327,16 +379,17 @@ Round objective:
   - $QUESTION_BANK_FILE
   - $NEXT_TASKS_FILE
   - $2/questions.md
-- Focus on unanswered questions like money creation, ownership, leverage, inequality, risk, and durable wealth methods.
+- Focus on unanswered questions like money creation, ownership, leverage, inequality, risk, durable wealth methods, historical turning points, and the role of physical and philosophical constraints.
 EOF
       ;;
     3)
       cat <<EOF
 Round objective:
 - Improve the Markdown book at investment/wealth-from-first-principles.md.
-- Add or refine useful explanations, tables, methods, curated resources, appendices, and study paths.
+- Add or refine useful explanations, tables, methods, curated resources, appendices, study paths, real stories, and historical episodes.
 - Make at least one visible reader-facing improvement when reasonable: stronger section framing, a better table, a mechanism explanation, a callout, or a guided reading sequence.
 - Keep the book practical, source-aware, readable, and structurally intriguing without becoming gimmicky.
+- For every paragraph, section, or chapter you touch, increase substance with dated facts, named institutions or thinkers, source-backed history, real physics-of-production constraints, philosophy where useful, and explicit practical implications.
 - Write notes to:
   - $2/book-notes.md
 EOF
@@ -347,7 +400,7 @@ Round objective:
 - Improve the TeX book at investment_pdfs/wealth-from-first-principles/wealth-from-first-principles.tex.
 - Keep it visually polished and structurally aligned with the Markdown book.
 - Prefer visible upgrades when justified: stronger cover/chapter-open pages, cleaner hierarchy, pull quotes, callout boxes, diagrams, tables, appendices, and study-path elements.
-- Improve typesetting, section flow, and source notes if helpful.
+- Improve typesetting, section flow, source notes, and the rendering of substantial new content such as real stories, historical sidebars, physics/philosophy sections, and fact-dense tables.
 - If the book changed materially, compile with xelatex in this round as well instead of waiting only for the build round.
 - Write notes to:
   - $2/typesetting-notes.md
@@ -357,7 +410,7 @@ EOF
       cat <<EOF
 Round objective:
 - Create or refine side products that make the repo more useful.
-- Examples: glossary, learning paths, checklists, methods, source-ledger notes, daily study prompts, or side-product briefs.
+- Examples: glossary, learning paths, checklists, methods, source-ledger notes, daily study prompts, timelines, historical case ledgers, chapter evidence maps, or side-product briefs.
 - Update:
   - $METHODS_FILE
   - $SIDE_PRODUCTS_FILE
@@ -413,6 +466,7 @@ Round objective:
   - $NEXT_TASKS_FILE
   - $2/review.md
 - Keep recommendations concrete and executable.
+- Explicitly identify where the book still needs more substantial paragraphs, historical grounding, stronger physics/philosophy treatment, or better factual density.
 EOF
       ;;
   esac
@@ -445,6 +499,7 @@ Your job across future turns is to:
 - compile the PDF with xelatex when needed,
 - store useful intermediate knowledge under references/wealth-engine/,
 - favor visible, reader-facing book improvements when modifying the book,
+- favor real stories, historical episodes, named institutions, and source-backed physics/philosophy treatment when they genuinely improve understanding,
 - and never run git commands because the driver script handles commit/push.
 
 Hard guardrails for all future turns:
@@ -474,13 +529,47 @@ fi
 
 log "Using session ID: $session_id"
 
-for cycle in $(seq "$START_CYCLE" "$CYCLES"); do
+effective_start_cycle="$START_CYCLE"
+effective_start_round="$START_ROUND"
+
+if [ "$RESUME_FROM_STATE" -eq 1 ] && [ "$START_CYCLE_SET" -eq 0 ] && [ "$START_ROUND_SET" -eq 0 ] && [ -s "$STATE_FILE" ]; then
+  last_state_line="$(tail -n 1 "$STATE_FILE" 2>/dev/null || true)"
+  if [ -n "$last_state_line" ]; then
+    IFS=$'\t' read -r _ last_cycle_id last_slug <<< "$last_state_line"
+    if [[ "$last_cycle_id" =~ ^cycle_([0-9]+)$ ]]; then
+      last_cycle_num=$((10#${BASH_REMATCH[1]}))
+      last_round_num="$(round_number_from_slug "$last_slug")"
+      if [ -n "$last_round_num" ]; then
+        if [ "$last_round_num" -lt 10 ]; then
+          effective_start_cycle="$last_cycle_num"
+          effective_start_round="$((last_round_num + 1))"
+        else
+          effective_start_cycle="$((last_cycle_num + 1))"
+          effective_start_round="1"
+        fi
+        log "Auto-resume selected: last completed $last_cycle_id $last_slug; next start is $(printf 'cycle_%03d' "$effective_start_cycle") round $(printf '%02d' "$effective_start_round")"
+      fi
+    fi
+  fi
+fi
+
+if [ "$effective_start_cycle" -gt "$CYCLES" ]; then
+  log "Resume position is beyond target cycle limit ($CYCLES). Nothing to do."
+  exit 0
+fi
+
+for cycle in $(seq "$effective_start_cycle" "$CYCLES"); do
   cycle_id="$(printf 'cycle_%03d' "$cycle")"
   cycle_dir="$CYCLES_DIR/$cycle_id"
   mkdir -p "$cycle_dir"
   log "Starting $cycle_id"
 
-  for round in $(seq 1 10); do
+  round_start="1"
+  if [ "$cycle" -eq "$effective_start_cycle" ]; then
+    round_start="$effective_start_round"
+  fi
+
+  for round in $(seq "$round_start" 10); do
     slug="$(round_slug "$round")"
     round_dir="$cycle_dir/$(printf 'round_%02d_%s' "$round" "$slug")"
     mkdir -p "$round_dir"
@@ -543,6 +632,23 @@ EOF
     git_commit_push_if_needed "wealth refinery: $cycle_id round $(printf '%02d' "$round") $slug"
 
     printf '%s\t%s\t%s\n' "$(date -u '+%Y-%m-%dT%H:%M:%SZ')" "$cycle_id" "$slug" >> "$STATE_FILE"
+    next_cycle_id="$cycle_id"
+    next_round_num="$((round + 1))"
+    if [ "$round" -ge 10 ]; then
+      next_cycle_id="$(printf 'cycle_%03d' "$((cycle + 1))")"
+      next_round_num="1"
+    fi
+    {
+      printf 'timestamp\tlast_completed_cycle\tlast_completed_round\tlast_completed_slug\tnext_cycle\tnext_round\tsession_id\n'
+      printf '%s\t%s\t%02d\t%s\t%s\t%02d\t%s\n' \
+        "$(date -u '+%Y-%m-%dT%H:%M:%SZ')" \
+        "$cycle_id" \
+        "$round" \
+        "$slug" \
+        "$next_cycle_id" \
+        "$next_round_num" \
+        "$session_id"
+    } > "$LAST_STOP_FILE"
 
     if [ -n "$STOP_FILE" ] && [ -f "$STOP_FILE" ]; then
       log "Stop file detected at $STOP_FILE. Stopping after $cycle_id $slug."

@@ -1,6 +1,6 @@
 # Next tasks
 
-Updated: 2026-04-05 (cycle_006 round_09 build_and_verify)
+Updated: 2026-04-05 (cycle_006 round_10 review_and_next_tasks)
 
 Measured review anchors (from this round):
 - `references/wealth-engine/knowledge/` currently misses 7 planned artifacts:
@@ -14,18 +14,18 @@ Measured review anchors (from this round):
 - Site consistency checker is still missing in `tools/` (existing `tools/lre/` has no validator script):
   - expected: `tools/validate-site-content.sh` or `tools/validate-site-content.js`
 - Claim-level citation density in `investment/wealth-from-first-principles.md` remains weak in key sections:
-  - `section_3_url_lines = 10`
-  - `section_5_url_lines = 7`
-  - `section_8_url_lines = 5`
-- Research/viewer localization drift (`research.*` + `viewer.backToResearch`, equal-to-English counts in 30-key scope):
-  - `zh-Hant = 30/30` (missing: `0`, equal-to-English: `18`)
-  - `zh-Hans = 30/30` (missing: `0`, equal-to-English: `18`)
-  - `ja = 25/30` (missing: `5`, equal-to-English: `24`)
-  - `ko = 25/30` (missing: `5`, equal-to-English: `24`)
-  - `vi = 25/30` (missing: `5`, equal-to-English: `24`)
-  - `ar = 25/30` (missing: `5`, equal-to-English: `24`)
-  - `fr = 25/30` (missing: `5`, equal-to-English: `24`)
-  - `es = 25/30` (missing: `5`, equal-to-English: `24`)
+  - `section_3_url_lines = 6`
+  - `section_5_url_lines = 6`
+  - `section_8_url_lines = 4`
+- Research/viewer localization drift (`research.*` + `viewer.backToResearch`, equal-to-English counts in 31-key scope):
+  - `zh-Hant = 31/31` (missing: `0`, equal-to-English: `18`)
+  - `zh-Hans = 31/31` (missing: `0`, equal-to-English: `18`)
+  - `ja = 27/31` (missing: `4`, equal-to-English: `26`)
+  - `ko = 27/31` (missing: `4`, equal-to-English: `26`)
+  - `vi = 27/31` (missing: `4`, equal-to-English: `26`)
+  - `ar = 27/31` (missing: `4`, equal-to-English: `26`)
+  - `fr = 27/31` (missing: `4`, equal-to-English: `26`)
+  - `es = 27/31` (missing: `4`, equal-to-English: `26`)
 - Build warning baseline from cycle_006 round_09 (`wealth-from-first-principles`):
   - `microtype warnings = 1`
   - `overfull_hbox = 2`
@@ -38,6 +38,23 @@ Measured review anchors (from this round):
   - `research.viewChinese` is now present in all runtime locale packs in `docs/translations.json`.
 - Language-scope split is now documented in `README.md`: runtime UI locales in `docs/translations.json` are `9`, while translated README variants under `i18n/` are `10`.
 - Viewer alias table is now documented in `README.md` and should be kept in sync with `docs/script.js`.
+
+## Cycle 007 launch queue (highest value, executable)
+
+1. Implement `tools/validate-site-content.js` and run it in-round before website-facing edits.
+Done when: it validates card/viewer slug parity, alias collisions, docs PDF existence, and mirrored PDF parity, and returns non-zero with actionable error lines.
+
+2. Close remaining runtime i18n key gaps for `ja`, `ko`, `vi`, `ar`, `fr`, `es`.
+Done when: each locale includes `research.asset1Route`, `research.asset2Route`, `research.asset2ZhRoute`, and `research.asset3Route` (missing `0/31`).
+
+3. Raise citation density in `investment/wealth-from-first-principles.md` sections 3, 5, and 8 with source-mapped edits.
+Done when: each target section reaches at least `9` URL-bearing lines and each added citation maps to an official source family in `citation-map.tsv`.
+
+4. Create two missing core knowledge artifacts first: `core-series-watchlist.md` and `question-evidence-gates.md`.
+Done when: both files exist with schema-complete first-pass rows for `M1`, `O2`, and `L1`.
+
+5. Run one warning-reduction pass on wealth TeX table-heavy blocks.
+Done when: `overfull_hbox` is reduced below `2` and `underfull_hbox` is reduced below `102` without removing content.
 
 ## Cycle 006 sprint (recommended execution order)
 
@@ -150,7 +167,7 @@ Done when: all rows are migrated cleanly and TSV parsing remains valid.
 
 16. Localize research/viewer keys in `docs/translations.json` for `ja`, `ko`, `vi`, `ar`, `fr`, `es`.
 Scope: `research.*` and `viewer.backToResearch`.
-Done when: each listed locale has `0` missing scoped keys (including cycle_006 `research.point6` and alias-aware `research.asset1Route`) and fewer English-equal values than current baseline.
+Done when: each listed locale has `0` missing scoped keys in the `31`-key scope (including cycle_006 `research.point6` and route keys `research.asset1Route`, `research.asset2Route`, `research.asset2ZhRoute`, `research.asset3Route`) and fewer English-equal values than current baseline.
 
 17. Sync wealth-refinery sections from `README.md` into `i18n/README.*.md`.
 Scope: mission loop, methods (`QE-5`, `HS-8`, `LL-6`, `DP-5`, `RC-6`), cycle_006 revision-aware mechanism notes, and research vault routing.

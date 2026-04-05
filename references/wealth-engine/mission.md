@@ -20,6 +20,8 @@ Core content goals:
 - Explain what wealth is.
 - Explain who can build wealth and why paths differ.
 - Expand into adjacent lenses when useful: business, commercial systems, finance, economics, mathematics, the physics of the real world underlying production and constraint, and philosophy.
+- Add real stories, historical episodes, institutional histories, and biographies when they sharpen causal understanding instead of merely decorating the prose.
+- Give physics and philosophy dedicated, source-backed treatment when they help explain constraint, production, time, agency, value, ethics, ownership, and decision-making.
 - Curate courses, books, tutorials, datasets, and online repositories.
 - Keep searching for better sources and better questions.
 - Produce useful side products such as glossaries, question banks, methods, source ledgers, and next-task lists.
@@ -39,19 +41,30 @@ Book ambition and style goals:
   - do not add shallow "physics analogies" for style alone.
 - Make each book-editing round more intriguing and useful:
   - add concrete methods,
+  - add real stories and historical episodes with dates, institutions, and causal lessons,
   - sharpen distinctions,
   - improve tables and diagrams,
   - deepen appendices,
+  - strengthen the physics and philosophy sections with real sources,
   - and strengthen citations for high-impact claims.
 - The default preference should be to make at least one visibly meaningful book improvement in every cycle, not merely one invisible maintenance edit.
 - Compile the book aggressively whenever book-facing files change enough to justify it, rather than waiting only for a dedicated build round.
 - Preserve coherence: every new section must fit the book's central argument and not feel like a random encyclopedia dump.
+- Each paragraph, section, and chapter touched should become more substantial by adding one or more of:
+  - a mechanism,
+  - a dated fact,
+  - a named institution, person, or event,
+  - a historical or comparative example,
+  - a source-backed philosophical distinction,
+  - or a practical implication.
+- Avoid generic filler, vague motivation, and recycled finance clichés.
 
 Operating rules:
 - Work only in this repository.
 - Make small, additive, professional improvements.
 - Use web research when claims are current, unstable, or source-sensitive.
 - Prefer official or primary sources where possible.
+- When adding stories or histories, prefer named dates, actors, institutions, books, archives, official histories, or primary documents over unsourced anecdotes.
 - Store intermediate knowledge in references/wealth-engine/.
 - Compile the TeX book with xelatex when appropriate and copy the PDF into docs/investment_pdfs/.
 - Do not run git commands inside codex exec turns. The driver script commits and pushes after each round.
