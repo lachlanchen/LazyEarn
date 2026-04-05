@@ -195,7 +195,7 @@ Scope: `research.*` and `viewer.backToResearch`.
 Done when: each listed locale has `0` missing scoped keys in the `31`-key scope (including cycle_006 `research.point6` and route keys `research.asset1Route`, `research.asset2Route`, `research.asset2ZhRoute`, `research.asset3Route`) and fewer English-equal values than current baseline.
 
 17. Sync wealth-refinery sections from `README.md` into `i18n/README.*.md`.
-Scope: mission loop, methods (`QE-5`, `HS-8`, `LL-6`, `DP-5`, `RC-6`), cycle_006 revision-aware mechanism notes, and research vault routing.
+Scope: mission loop, methods (`QE-5`, `HS-8`, `LL-6`, `DP-5`, `RC-6`, `CC-7`), cycle_006/007 mechanism notes, and research vault routing.
 Done when: each language README includes equivalent sections and current live paths.
 
 18. Operationalize `references/wealth-engine/knowledge/daily-prompts.md` with one full run log.
