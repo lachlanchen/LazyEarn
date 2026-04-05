@@ -224,6 +224,23 @@ Narrative rundowns for AI, biotech, semiconductors, clean energy, and cloud.
   - compare whether liquidity, access, valuation, and throughput channels lead first,
   - and mark irreversible risk channels before making allocation calls.
 
+## 🔁 Book sync highlights (cycle_013)
+
+- Added a companion historical mechanism test in the main guide:
+  - `9.10.1 Historical mechanism test: Great Recession transmission (Dec 2007–Jun 2009)`.
+- Synced the same mechanism into TeX in the corresponding section:
+  - `9.10.1 Historical mechanism test: Great Recession transmission (Dec 2007--Jun 2009)`.
+- Expanded source scaffolding in both markdown and TeX surfaces:
+  - Federal Reserve History: Great Recession essays and bank-credit program timeline,
+  - New York Fed archive speech and macro policy context tied to the transmission sequence.
+- Added side-product readiness updates for cycle_013:
+  - active `knowledge/study-paths.md` path artifact was introduced in the side-product catalog (`SP-6`),
+  - next-follow-up tracks first-path publication and continuation-rules.
+- Practical purpose:
+  - separate crisis-era liquidity effects from durable owner-creation outcomes,
+  - force readers to apply historical mechanism tests before interpreting current leverage and stress signals,
+  - and make the next study sequence more action-oriented.
+
 ## 🧪 Wealth refinery loop
 
 The repository now carries a durable research loop so book, PDF, README, and site copy can evolve with traceable methods.
@@ -257,8 +274,11 @@ Current method signals (synced with the main book):
 - `CAB-9` method for credit-access-and-burden bridge checks on cycle_009 questions (`U36`-`U40`) with intent-vs-outcome and burden-vs-durability guardrails.
 - `CAS-10` method for cadence-aware stress classification checks on cycle_010 questions (`U41`-`U45`) with release-date freshness tags and naive-vs-cadence comparison guards.
 - `CDL-6` method for cycle_012 debt-throughput decision mapping (`U53`-`U58`) across `liquidity`, `access`, `valuation`, `burden`, and `throughput` signals.
+- `SP-6` method for study-path design and side-product sequencing, including decision checkpoints and failure-mode control.
 
 ### Next side-product builds (already scoped)
+
+- Active now: `references/wealth-engine/knowledge/study-paths.md` (new cycle_013 learning-route artifact).
 
 | Artifact | Why it matters | Minimum schema |
 | --- | --- | --- |
