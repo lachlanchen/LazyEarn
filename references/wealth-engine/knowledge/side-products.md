@@ -23,6 +23,7 @@ Purpose: track practical artifacts that make the wealth repository easier to stu
 | `knowledge/credit-access-and-burden-bridge.md` | planned | Converts cycle_009 access and leverage questions into one revision-aware decision panel | question-bank (`U36`-`U40`) + methods (`CAB-9`) + source-ledger | Draft first 10 rows with intent/outcome split, burden/stress pair, and falsifier per row |
 | `knowledge/cadence-aware-stress-classification-panel.md` | planned | Converts cycle_010 mixed-cadence stress questions into an as-known-on-date regime panel with explicit fragility tags | question-bank (`U41`-`U45`) + methods (`CAS-10`) + source-ledger | Draft first 12 rows with release-date fields and naive-vs-cadence comparison notes |
 | `knowledge/historical-case-ledger.md` | planned | Converts historical and institutional episodes into structured case rows for chapter framing and narrative consistency | cycle_011 open historical questions + methods (`HC-5`) + question-bank (`U46`-`U52`) | Seed first 4 rows for Jekyll Island, Great Depression, Great Inflation, and 1973-74 Oil Shock |
+| `knowledge/debt-throughput-decision-map.md` | planned | Converts cycle_012 debt-constraint and transmission questions into a release-aware map across liquidity, access, valuation, burden, and throughput channels | cycle_012 unanswered set (`U53`-`U58`) + methods (`CDL-6`) + source-ledger + historical-case-ledger | Draft one row per question ID with explicit lead/lag class and irreversible-risk flags |
 
 ## Side-product briefs
 
@@ -244,6 +245,34 @@ Purpose: track practical artifacts that make the wealth repository easier to stu
   - use `HC-5` from `knowledge/methods.md`;
   - keep mechanism, scope limits, and practical implication in separate fields for quick reuse.
 - Exit criterion: at least 12 rows covering the Priority 0S + cycle_011 historical anchors, including `Jekyll Island`, `Great Depression`, `Great Inflation`, and `1973-74 Oil Shock`, each with `what_it_does_not_prove` and `decision_use`.
+
+### O) Debt-throughput decision map brief
+
+- Goal: convert cycle_012 unresolved questions into a channel-by-channel mechanism sheet before the next narrative claims pass.
+- Minimum schema:
+  - `question_id`
+  - `window`
+  - `liquidity_signal`
+  - `access_signal`
+  - `valuation_signal`
+  - `burden_signal`
+  - `throughput_signal`
+  - `first_lead_channel`
+  - `first_lag_channel`
+  - `falsifier`
+  - `must_not_conflate`
+  - `irreversible_risk_test`
+  - `fragility_class`
+  - `decision_use`
+  - `caveat`
+  - `next_pull`
+- Method hook:
+  - use `CDL-6` from `knowledge/methods.md`;
+  - block conclusions unless all five signal families are present.
+- Exit criterion: at least 6 completed rows (`U53`-`U58`) with:
+  - one lead and one lag channel,
+  - one falsifier and one irreversibility marker,
+  - one explicit decision-use line.
 
 ## Starter prompt pack (14 days)
 

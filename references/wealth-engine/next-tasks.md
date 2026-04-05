@@ -11,6 +11,10 @@ Updated: 2026-04-05 (cycle_012 round_02 question_bank)
 2. In the next build round, run PDF verification and confirm the new 9.11 section and tables render with clear line breaks and stable heading markers.
 3. Add direct links (where useful) to the new Section 11.5 rows so official source provenance remains easy to trace from table row to source-note block.
 4. Confirm `git`-tracked `summary.md` and `typesetting-notes.md` for this book_tex round are populated and include warning/line-break follow-up actions.
+5. Execute the new `knowledge/debt-throughput-decision-map.md` pass using `CDL-6`:
+   - seed one complete row for each cycle_012 question `U53`-`U58`,
+   - include one lead and one lag channel with one falsifier + one irreversible-risk flag,
+   - and tag each row as `liquidity-first`, `access-first`, `valuation-first`, `throughput-first`, or `mixed`.
 
 1. Create first-pass historical/evidence rows from the cycle_012 debt and institutional sources:
    - `references/wealth-engine/knowledge/historical-case-ledger.md`: add entries for IMF Fiscal Monitor sequencing, UNCTAD debt reports, and the 1973-74 oil-shock-era constraint lens.

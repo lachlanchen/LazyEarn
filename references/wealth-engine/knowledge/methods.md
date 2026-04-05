@@ -457,3 +457,50 @@ decision_use
 Quality rule:
 - Do not include episodes that only repeat a generic moral.
 - Every row must include both `what_it_does_not_prove` and `decision_use`.
+
+## 24) CDL-6 method (channel-deployment and leverage durability matrix)
+
+Use this method for cycle_012 questions `U53`-`U58` when multiple transmission channels and constraints must be compared without collapsing into a single "money is up/down" conclusion.
+
+Goal:
+- Isolate channel leadership (bank liquidity, access, asset-price pass-through, and physical-throughput pressure) before writing durable wealth inferences.
+- Flag when a channel lead is reversible versus when it implies long-run fragility in ownership.
+
+Protect these distinctions on every row:
+- aggregate liquidity growth vs channel allocation,
+- sovereign stress vs private-credit tightening vs valuation transmission,
+- temporary burden relief vs durable ownership improvement,
+- capacity-constrained growth vs nominal-growth growth.
+
+| Step | Action | Output |
+| --- | --- | --- |
+| 1 | Lock one review window with explicit release date anchors and regime label (tightening, reflation, stress, or recovery). | window + revision boundary |
+| 2 | Pull at least one source for each required family: `liquidity`, `access`, `valuation`, `burden`, and `throughput`. | 5-rail evidence set |
+| 3 | Record one lead signal and one lag signal for each required family before comparing outcomes. | channel lead-lag map |
+| 4 | Add one falsifier and one `must not conflate` sentence before any decision use. | invalidation discipline |
+| 5 | Classify each row as `liquidity-lead`, `access-constraint`, `throughput-capacity`, `valuation-led`, or `mixed`. | regime class |
+| 6 | Tag any row with irreversible-risk flags when ownership-control, entry path, or legal control appears permanently weakened. | irreversibility marker |
+| 7 | Write one decision-use line tied to a practical action (defensive mode, staged entry, or evidence hold). | intervention cue |
+
+Minimum schema for `knowledge/debt-throughput-decision-map.md`:
+
+```text
+question_id
+window
+liquidity_signal
+access_signal
+valuation_signal
+burden_signal
+throughput_signal
+first_lead_channel
+first_lag_channel
+falsifier
+must_not_conflate
+irreversible_risk_test
+fragility_class
+decision_use
+next_pull
+```
+
+Quality rule:
+- A row is incomplete if any of `liquidity_signal`, `access_signal`, `throughput_signal`, `falsifier`, `must_not_conflate`, or `decision_use` is missing.
