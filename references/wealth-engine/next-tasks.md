@@ -110,8 +110,8 @@ Done when: all 14 prompts include explicit `question_id` mapping.
 Done when: at least 15 cards with `Distinction`, `Common confusion`, `Quick test question`, and `Example`.
 
 20. Reduce TeX warning profile in `investment_pdfs/wealth-from-first-principles/wealth-from-first-principles.tex`.
-Baseline to beat: `microtype=1`, `overfull_hbox=1`, `underfull_hbox=60`, `underfull_vbox=1`.
-Done when: at least 5 warning lines are removed (priority on section `9.4` and `Official data and references` table blocks) without content-loss versus markdown.
+Baseline to beat: `microtype=1`, `overfull_hbox=1`, `underfull_hbox=74`, `underfull_vbox=2`.
+Done when: at least 8 warning lines are removed (priority on `Channel map` and `Official data and references` table blocks) without content loss versus markdown.
 
 ## Priority 1.5 - Credit data integration follow-up
 

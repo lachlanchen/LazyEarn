@@ -227,6 +227,32 @@ At the personal level, money usually arrives through:
 
 That list is useful because it forces a practical question: which channels are one-time, and which can become repeatable without requiring the same effort every time?
 
+\section{Channel map: from system credit to household outcomes}
+
+A common error is to track only one layer (for example, policy rates) and ignore access, flow, and stress transmission.
+
+\begin{center}
+\small
+\begin{tabularx}{\textwidth}{>{\raggedright\arraybackslash}p{0.18\textwidth}>{\raggedright\arraybackslash}p{0.22\textwidth}>{\raggedright\arraybackslash}p{0.24\textwidth}X}
+\toprule
+\textbf{Layer} & \textbf{What to observe} & \textbf{Primary source} & \textbf{Why it matters} \\
+\midrule
+Money and balance-sheet expansion & Broad money and sector balance-sheet growth. & Fed H.6 + Fed Z.1 & Indicates whether system liquidity is expanding or contracting. \\
+Credit access conditions & Lending standards and approval friction. & Fed SLOOS & Tightening can block ownership entry before headline stress appears. \\
+Mortgage entry and borrower mix & Loan-level mortgage distribution and origination composition. & HMDA modified LAR + CFPB HMDA release notes & Helps separate incumbent gains from new-owner entry. \\
+Household stress realization & Delinquency transitions and debt-burden outcomes. & NY Fed Household Debt and Credit + Fed DSR/FOR & Confirms whether tighter access is translating into balance-sheet damage. \\
+Mortgage performance detail & Origination, payment, and performance structure. & FHFA NMDB & Adds granular context to leverage quality and fragility. \\
+Small-business credit conditions & Approval, denial, and financing constraints for firms under 500 employees. & Fed SBCS + CFPB Small Business Lending & Tracks business-equity ownership channels beyond wage income. \\
+\bottomrule
+\end{tabularx}
+\normalsize
+\end{center}
+
+\begin{notebox}
+\textbf{Practical read}\par
+If this full sequence is improving, ownership entry conditions are usually broadening. If access tightens while burden and delinquencies rise, prioritize liquidity and resilience before adding leverage.
+\end{notebox}
+
 \chapter{What wealth is}
 
 The accounting identity is simple:
@@ -371,6 +397,31 @@ Compounding only works if you avoid ruin. Insurance, diversification, liquidity 
 \textbf{A practical formula}\par
 Wealth growth = (earning power x savings rate x years x compounding x ownership share) - ruin
 \end{signalbox}
+
+\section{Ownership entry execution loop (quarterly)}
+
+Use this loop when deciding whether to accelerate ownership (housing, business equity, or market risk) or stay defensive.
+
+\begin{enumerate}
+  \item \textbf{Access check}: are standards tightening, and are entrant channels improving or worsening? (Fed SLOOS, HMDA, SBCS)
+  \item \textbf{Burden check}: is payment burden rising faster than real income? (Fed DSR/FOR, BEA Personal Income, BLS CPI)
+  \item \textbf{Stress check}: are expectations and delinquency transitions worsening together? (NY Fed SCE, NY Fed Household Debt and Credit)
+  \item \textbf{Action check}: if two or more checks are red, prioritize liquidity and lower fixed commitments before adding leverage.
+\end{enumerate}
+
+\begin{center}
+\small
+\begin{tabularx}{\textwidth}{>{\raggedright\arraybackslash}p{0.24\textwidth}>{\raggedright\arraybackslash}p{0.34\textwidth}X}
+\toprule
+\textbf{Decision state} & \textbf{Signal pattern} & \textbf{Practical move} \\
+\midrule
+Defensive & Tightening access, rising burden, worsening transitions. & Delay large leverage, increase runway, and protect downside. \\
+Neutral & Mixed signals with no broad stress acceleration. & Continue gradual ownership accumulation and avoid concentrated bets. \\
+Offensive (controlled) & Stable access, manageable burden, contained transitions. & Add ownership exposure in staged tranches with fixed risk limits. \\
+\bottomrule
+\end{tabularx}
+\normalsize
+\end{center}
 
 \section{Distinction checklist before major money decisions}
 
@@ -600,6 +651,10 @@ BEA Personal Income and Outlays & Income, consumption, and personal saving path.
 BEA Distribution of Personal Income & Distributional disposable income and inequality decomposition. & Annual distributional national-accounts release. \\
 BLS CPI + CEX & Inflation pressure and household spending structure. & Monthly CPI and annual spending detail. \\
 FHFA House Price Index & Housing wealth regime and regional price dynamics. & Monthly/quarterly U.S. house-price indices. \\
+FHFA National Mortgage Database (NMDB) & Mortgage origination, performance, and outstanding-balance structure. & Release-based U.S. mortgage sample and aggregate statistics. \\
+FFIEC HMDA modified LAR + CFPB HMDA release notes & Loan-level mortgage distribution, originations, and borrower mix context. & Annual HMDA filing cycle with current release notes. \\
+Federal Reserve Small Business Credit Survey (SBCS) & Credit access, denial, and financing conditions for firms under 500 employees. & Annual survey reports with subgroup cut tables. \\
+CFPB Small Business Lending (Section 1071) & Filing and publication surface for small-business lending disclosures. & Rule-driven filing/publishing cadence with specification updates. \\
 BIS Debt Service Ratios (DSR) & Cross-country debt burden and early-warning leverage context. & Quarterly international debt-service statistics. \\
 U.S. Census wealth tables (SIPP) & Household wealth and debt distribution in public-use tables. & Annual SIPP-based wealth publication. \\
 U.S. Census CPS income/inequality tables & Household, family, and person income distribution baselines. & Annual CPS ASEC update cycle. \\
@@ -623,7 +678,7 @@ Primary references checked for this edition on 2026-04-05:
   \item U.S. BEA, \href{https://www.bea.gov/data/income-saving/personal-income}{Personal Income and Outlays} and \href{https://www.bea.gov/data/special-topics/distribution-of-personal-income}{Distribution of Personal Income}
   \item U.S. BLS, \href{https://www.bls.gov/cpi/home.htm}{CPI} and \href{https://www.bls.gov/cex/}{Consumer Expenditure Surveys}
   \item U.S. Census, \href{https://www.census.gov/topics/income-poverty/wealth/data/tables.html}{Wealth and Asset Ownership tables (SIPP)}, \href{https://www.census.gov/topics/income-poverty/income-inequality/data/data-tables/cps-data-tables.html}{CPS income/inequality tables}, and \href{https://www2.census.gov/library/publications/2025/demo/p70br-211.pdf}{P70BR-211}
-  \item U.S. FHFA, \href{https://www.fhfa.gov/house-price-index}{House Price Index datasets}
+  \item U.S. FHFA, \href{https://www.fhfa.gov/house-price-index}{House Price Index datasets} and \href{https://www.fhfa.gov/data/nmdb}{National Mortgage Database (NMDB)}
   \item IRS SOI, \href{https://www.irs.gov/statistics/soi-tax-stats-individual-income-tax-returns-complete-report-publication-1304}{Publication 1304} and \href{https://www.irs.gov/statistics/soi-tax-stats-irs-data-book}{IRS Data Book}
   \item Bank of England, \href{https://www.bankofengland.co.uk/quarterly-bulletin/2014/q1/money-creation-in-the-modern-economy}{Money creation in the modern economy}
   \item IMF, \href{https://data.imf.org/Datasets/WEO}{World Economic Outlook} and \href{https://data.imf.org/en/datasets/IMF.FAD%3AGDD}{Global Debt Database}
@@ -631,7 +686,9 @@ Primary references checked for this edition on 2026-04-05:
   \item ECB, \href{https://www.ecb.europa.eu/stats/ecb_surveys/consumer_exp_survey/html/index.en.html}{Consumer Expectations Survey}
   \item World Bank, \href{https://www.worldbank.org/en/publication/the-changing-wealth-of-nations}{The Changing Wealth of Nations 2024}, \href{https://www.worldbank.org/en/publication/globalfindex/download-data}{Global Findex}, \href{https://datacatalog.worldbank.org/search/dataset/0038020/poverty-and-equity-database-poverty-and-inequality-platform}{PIP}, and \href{https://www.worldbank.org/en/programs/debt-statistics/ids}{IDS}
   \item \href{https://wid.world/}{WID.world}, \href{https://www.wider.unu.edu/database/world-income-inequality-database-wiid}{WIID}, and \href{https://www.oecd.org/en/data/datasets/income-and-wealth-distribution-database.html}{OECD IDD/WDD}
-  \item CFPB, \href{https://www.consumerfinance.gov/data-research/consumer-credit-trends/}{Consumer Credit Trends}, \href{https://www.consumerfinance.gov/data-research/making-ends-meet-survey-data/}{Making Ends Meet survey data}, and \href{https://www.consumerfinance.gov/your-money-your-goals/}{Your Money, Your Goals}
+  \item HMDA sources, \href{https://ffiec.cfpb.gov/data-publication/modified-lar}{FFIEC modified LAR} and \href{https://www.consumerfinance.gov/about-us/newsroom/2025-hmda-data-on-mortgage-lending-now-available/}{CFPB 2025 HMDA release notes}
+  \item Federal Reserve Small Business Credit Survey, \href{https://www.fedsmallbusiness.org/reports/survey/}{all survey years reports}
+  \item CFPB, \href{https://www.consumerfinance.gov/data-research/consumer-credit-trends/}{Consumer Credit Trends}, \href{https://www.consumerfinance.gov/data-research/making-ends-meet-survey-data/}{Making Ends Meet survey data}, \href{https://www.consumerfinance.gov/data-research/small-business-lending/}{Small Business Lending}, and \href{https://www.consumerfinance.gov/your-money-your-goals/}{Your Money, Your Goals}
   \item SEC, \href{https://www.sec.gov/edgar/sec-api-documentation}{EDGAR API documentation}
   \item St. Louis Fed, \href{https://fred.stlouisfed.org/docs/api/fred/fred/}{FRED API docs}, \href{https://alfred.stlouisfed.org/help/downloaddata}{ALFRED}, and \href{https://fraser.stlouisfed.org/}{FRASER}
   \item Yale / Coursera, \href{https://www.coursera.org/learn/financial-markets-global}{Financial Markets}
