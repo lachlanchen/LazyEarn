@@ -1,6 +1,6 @@
 # Next tasks
 
-Updated: 2026-04-05 (cycle_010 round_06 readme_sync)
+Updated: 2026-04-05 (cycle_010 round_07 website_sync)
 
 Measured review anchors (from this round):
 - `references/wealth-engine/knowledge/` currently misses 9 planned artifacts:
@@ -58,12 +58,12 @@ Measured review anchors (from this round):
   - section `9.8` bridge notes, `CAB-9` method references, and the planned `knowledge/credit-access-and-burden-bridge.md` artifact row.
 - README now includes cycle_010 sync details:
   - section `9.9` cadence-aware stress panel notes, `CAS-10` method references, and the planned `knowledge/cadence-aware-stress-classification-panel.md` artifact row.
-- Website research copy is now cycle_009-synced in English:
-  - `docs/index.html`, `docs/script.js`, and `docs/translations.json` (`en`) now reference cycle `007-009` and include the credit-access-and-burden bridge + `CAB-9`.
-  - next bottleneck: runtime website copy still needs a cycle_010 sync pass for `9.9`/`CAS-10` wording.
+- Website research copy is now cycle_010-synced in English:
+  - `docs/index.html`, `docs/script.js`, and `docs/translations.json` (`en`) now reference cycle `007-010` and include cadence-aware stress classification wording with `CAS-10`.
+  - next bottleneck: non-English locale packs still need the same cycle_010 wording parity on key research strings.
 - Translation-and-catalog sync now includes non-English runtime packs for core cycle_009 keys:
-  - all locale packs now include cycle `007-009` semantics for `research.point6`,
-  - all locale packs now include bridge-aware wording for `research.asset1Desc`,
+  - non-English locale packs still reflect cycle `007-009` semantics for `research.point6`,
+  - non-English locale packs still reflect pre-cycle_010 wording for `research.asset1Desc`,
   - all locale packs now include the `wealth-field-guide` alias in `research.asset1Route`.
   - remaining quality gap: `ja`, `ko`, `vi`, `ar`, `fr`, and `es` still use English wording for `research.point6` and `research.asset1Desc` (semantically correct, not natively localized).
 - Viewer route policy is still split across two files:
@@ -106,8 +106,8 @@ Done when: both PDF targets include section `9.9` and its core rails (Fed releas
 10. Create first-pass `knowledge/cadence-aware-stress-classification-panel.md` using `CAS-10`.
 Done when: at least 12 rows cover `U41-U45`, include release-date and freshness fields, and record one naive-vs-cadence comparison note per review window.
 
-11. Sync cycle_010 research wording into website runtime strings and locale packs.
-Done when: `docs/index.html`, `docs/script.js`, and `docs/translations.json` (`en`) reference cycle `007-010` and include concise `9.9`/`CAS-10` language while preserving existing slug/code tokens and locale key completeness.
+11. Propagate cycle_010 research wording to non-English locale packs.
+Done when: all non-English runtime packs in `docs/translations.json` keep key completeness and update `research.point6` + `research.asset1Desc` to cycle `007-010` semantics with `CAS-10` while preserving slug/code tokens.
 
 ## Cycle 009 review queue (highest value, concrete)
 
