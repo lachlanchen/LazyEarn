@@ -1,6 +1,6 @@
 # Next tasks
 
-Updated: 2026-04-05 (cycle_003 round_10 review_and_next_tasks)
+Updated: 2026-04-05 (cycle_004 round_06 readme_sync)
 
 Measured review anchors (from this round):
 - `references/wealth-engine/knowledge/` currently misses 8 planned artifacts:
@@ -31,8 +31,8 @@ Measured review anchors (from this round):
   - `overfull_hbox = 1`
   - `underfull_hbox = 74`
   - `underfull_vbox = 2`
-- Language-scope messaging remains mismatched: runtime UI locales in `docs/translations.json` are `9`, while translated README variants under `i18n/` are `10`.
-- Viewer alias support now exists in `docs/script.js`, but alias routes are not documented in `README.md`.
+- Language-scope split is now documented in `README.md`: runtime UI locales in `docs/translations.json` are `9`, while translated README variants under `i18n/` are `10`.
+- Viewer alias table is now documented in `README.md` and should be kept in sync with `docs/script.js`.
 
 ## Priority 0 - Highest-value sequence (execute in order)
 
@@ -56,11 +56,11 @@ Required checks:
 - scoped localization drift report for `research.*` and `viewer.backToResearch`.
 Done when: script returns non-zero on mismatch and emits actionable failure lines.
 
-6. Clarify language coverage in `README.md` with explicit scope split.
-Done when: README states exact counts and meaning for runtime locales (`docs/translations.json`) versus translated README variants (`i18n/README.*.md`).
+6. Keep language coverage scope split in `README.md` synchronized with runtime and repo translation surfaces.
+Done when: any change to runtime locales (`docs/translations.json`) or translated README variants (`i18n/README.*.md`) is reflected in README counts and wording within the same update round.
 
-7. Document canonical and alias research viewer slugs in `README.md`.
-Done when: one slug table covers canonical slugs and accepted alias variants for:
+7. Keep canonical and alias research viewer slug mapping in `README.md` synchronized with `docs/script.js`.
+Done when: README slug table remains exact-match with `pdfEntries` canonical slugs and accepted aliases for:
 - `wealth-from-first-principles`
 - `high-growth`
 - `financial-freedom`

@@ -4,6 +4,11 @@
 
 Language options: English plus translated variants under `i18n/` (work in progress; some variants may lag the latest English research updates).
 
+Localization scope split (synced for this round):
+
+- Runtime website locales in `docs/translations.json`: `9` (`en`, `zh-Hant`, `zh-Hans`, `ja`, `ko`, `vi`, `ar`, `fr`, `es`).
+- Translated README variants in `i18n/`: `10` (`ar`, `es`, `fr`, `ja`, `ko`, `vi`, `zh-Hans`, `zh-Hant`, `de`, `ru`) plus English source README.
+
 # LazyEarn — Money, Wealth, and Earn From Scratch
 
 [![Site](https://img.shields.io/badge/Site-earn.lazying.art-0ea5e9?logo=googlechrome&logoColor=white)](https://earn.lazying.art)
@@ -106,6 +111,7 @@ Current method signals (synced with the main book):
 - `QE-5` sprint method for falsifiable question-evidence gates.
 - `HS-8` method for building an action-oriented household stress watchlist.
 - `LL-6` method for testing lead-lag signal timing before making predictive stress claims.
+- `EV-7` method for entrant-vs-incumbent access testing on ownership-entry questions (`U11`, `U13`).
 
 ### Next side-product builds (already scoped)
 
@@ -231,10 +237,12 @@ https://earn.lazying.art/pdf-viewer.html?file=financial-freedom-zh
 
 Known slugs from site behavior:
 
-- `wealth-from-first-principles`
-- `high-growth`
-- `financial-freedom`
-- `financial-freedom-zh`
+| Canonical slug | Accepted aliases |
+| --- | --- |
+| `wealth-from-first-principles` | `wealth`, `wealth-guide`, `wealth_from_first_principles` |
+| `high-growth` | `high-growth-stocks`, `high_growth_stocks` |
+| `financial-freedom` | `financial_freedom` |
+| `financial-freedom-zh` | `financial_freedom_zh`, `financial-freedom-zh-cn` |
 
 ## 🛠️ Development notes
 
