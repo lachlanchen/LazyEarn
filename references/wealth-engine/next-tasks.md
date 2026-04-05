@@ -1,6 +1,6 @@
 # Next tasks
 
-Updated: 2026-04-05 (cycle_005 round_08 translation_and_catalog)
+Updated: 2026-04-05 (cycle_005 round_09 build_and_verify)
 
 Measured review anchors (from this round):
 - `references/wealth-engine/knowledge/` currently misses 7 planned artifacts:
@@ -80,6 +80,7 @@ Required checks:
 - card/viewer slug parity (`docs/index.html` vs `docs/script.js`),
 - alias collision detection and canonical resolution sanity,
 - `pdfEntries` file existence under `docs/investment_pdfs/`,
+- mirrored PDF freshness/parity check for catalog slugs (`investment_pdfs/...` vs `docs/investment_pdfs/...`),
 - scoped localization drift report for `research.*` and `viewer.backToResearch`.
 Done when: script returns non-zero on mismatch and emits actionable failure lines.
 
