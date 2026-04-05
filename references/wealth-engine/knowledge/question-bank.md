@@ -1,7 +1,7 @@
 # Question Bank
 
 Updated: 2026-04-05  
-Seed round: cycle_011 / round_02_question_bank
+Seed round: cycle_012 / round_02_question_bank
 
 ## Distinctions to protect
 
@@ -192,6 +192,26 @@ Seed round: cycle_011 / round_02_question_bank
 | U50 | Can fiscal-stabilization periods be separated from durable ownership repair using household burden and participation metrics? | Fiscal cushioning vs ownership repair | Households show no burden improvement or participation repair beyond a temporary valuation or spending effect | IMF Fiscal Monitor October 2025, Treasury Debt to the Penny, Fed DSR/FOR, Census wealth tables |
 | U51 | How much of inequality drift is valuation concentration versus entry exclusion under current global-financial vulnerability conditions? | Cross-border capital effects vs domestic entry exclusion | Household-entry or participation metrics rise proportionally with valuation gains in all cohorts | UNCTAD World Investment Report 2025, IMF Global Financial Stability Report, OECD Household debt indicator, Fed DFA |
 | U52 | What long-horizon ownership method survives repeated inflation-capacity-mismatch windows? | Return-maximizing method vs ruin-protective method | Candidate method passes a valuation window but fails in a capacity-mismatch or credit-approval pullback window | Federal Reserve History: Great Depression, Great Inflation, IMF GFSR, IMF FSIC |
+
+## Unanswered priority questions (cycle_012 sharpen pass)
+
+| ID | Sharpened question | What must be distinguished | What would falsify the working hypothesis | First evidence pull |
+| --- | --- | --- | --- | --- |
+| U53 | In the latest macro episodes, does the first pass of new liquidity show up more in bank balance-sheet structure, household-facing credit access, or asset prices? | Aggregate liquidity growth vs channel allocation | No stable lead appears in any channel after release alignment in two cycles | IMF WEO update, Fed H.4.1/H.8, Fed EFA / Z.1 |
+| U54 | During external-debt stress, which transmission channel leads ownership outcomes first: sovereign budget pressure, private lending tightening, or valuation decline? | Sovereign risk vs private credit squeeze vs valuation pass-through | Ownership concentration does not co-move with either debt-service stress or tightening indicators after event alignment | UNCTAD external debt report, IMF Fiscal Monitor, UNCTAD World of Debt, Fed DFA |
+| U55 | When energy throughput shifts (IEA oil and energy outlook updates), do productive-leverage methods remain more robust than debt-fueled expansion for durable wealth? | Production-constrained growth vs leverage-driven growth | Debt-led methods outperform in all matched throughput-constrained windows without downside in debt-burden channels | IEA Oil Market Report Mar 2026, IEA WEO 2025, Fed DSR/FOR |
+| U56 | How much of IMF fiscal expansion shows up as durable household wealth ownership versus temporary payment relief, and who receives each channel? | Durable ownership gains vs short-cycle payment cushioning | Payment relief and ownership concentration move together with no divergence in participation/ownership after one-quarter lag | IMF Fiscal Monitor Apr 2026/2025, IMF WEO methodology notes, Census wealth tables, Fed DFA |
+| U57 | Do historical institutional designs (Federal Reserve Act / early Fed committee design) still leave access biases that modern data alone cannot reveal? | Institutional architecture vs current operation | Current release-based access and burden metrics can be explained without any entrant/ incumbent split for a full cycle window | Federal Reserve History: Federal Reserve Act Signed, FRB archive (Reserve Bank Organization Committee), Fed SLOOS |
+| U58 | Which risks are truly irreversible for durable wealth under repeated debt and energy constraints: nominal wealth drawdown, entrant exclusion, or legal/formal ownership fragility? | Reversible price noise vs irreversible loss of option value | All three risks rise and fall in lockstep with no lead asymmetry in constrained windows | BIS Quarterly Review Mar 2026, Fed DSR/FOR, UNCTAD debt reports, IEA oil market outlook |
+
+## Evidence gates for cycle_012 unanswered set
+
+- `U53`: require one source from each channel family (bank/system liquidity, borrower access, and asset-price or valuation), plus an aligned lead-lag mapping by release timing.
+- `U54`: require one sovereign-debt metric and one direct borrower-access outcome metric before concluding which transmission dominates.
+- `U55`: require one throughput indicator (energy) plus one leverage/burden indicator before promoting any productivity claim in constrained windows.
+- `U56`: require decomposition into ownership participation and payment-relief channels before attributing fiscal effects to durable wealth outcomes.
+- `U57`: require at least one entrant vs incumbent split in at least one modern window and one historical counterfactual anchor.
+- `U58`: require explicit irreversible-loss criteria (for example forced sale, sustained access downgrade, or control-loss markers) before concluding fragility class.
 
 ## Evidence gates for cycle_011 unanswered set
 

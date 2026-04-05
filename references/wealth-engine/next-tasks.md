@@ -1,6 +1,6 @@
 # Next tasks
 
-Updated: 2026-04-05 (cycle_012 round_01 resource_scan)
+Updated: 2026-04-05 (cycle_012 round_02 question_bank)
 
 ## Cycle 012 immediate follow-up
 
@@ -10,6 +10,7 @@ Updated: 2026-04-05 (cycle_012 round_01 resource_scan)
 2. Map the new IMF/UNCTAD/IEA cycle_012 entries into a watchlist artifact (`knowledge/core-series-watchlist.md`) so sovereign risk and real-capacity questions gain explicit source cadence and revision context.
 3. Add an explicit "constraint-first lens" research note in the book pipeline for next writing round, seeded by `IEA WEO 2025` and `IEA Oil Market Report March 2026`.
 4. Continue source-ledger hardening by adding `source_type`, `update_cadence`, and `last_verified_on` for newly added cycle_012 rows in a constrained migration pass.
+5. Convert the new cycle_012 unresolved agenda into `knowledge/question-bank.md` (`U53`-`U58`) and ensure the round artifact file exists at `cycles/cycle_012/round_02_question_bank/questions.md`.
 
 Measured review anchors (from this round):
 - `references/wealth-engine/knowledge/` currently misses 9 planned artifacts:
