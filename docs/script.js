@@ -92,6 +92,7 @@ const fallbackStrings = {
   "research.point1": `Distinction-first answers on money creation, ownership, leverage, inequality, and risk.`,
   "research.point2": `Primary-source coverage across Fed, NY Fed, BLS, Census, IMF, BIS, World Bank, OECD, and SEC resources.`,
   "research.point3": `Question -> evidence -> claim workflow with SQ-5 source quality gates.`,
+  "research.point4": `Operational additions: household stress dashboard plus QE-5 and HS-8 methods for decision-ready monitoring.`,
   "research.pdf": `Download PDF`,
   "research.viewInline": `View on-site`,
   "research.md": `Read Markdown`,
@@ -212,10 +213,24 @@ async function loadTranslations() {
       throw new Error(`Failed to load translations: ${response.status}`);
     }
     const data = await response.json();
-    translationsData = {
-      ...translationsData,
-      ...data,
-    };
+    const merged = { ...translationsData };
+    Object.entries(data).forEach(([lang, pack]) => {
+      const basePack = merged[lang] || {};
+      const incomingPack = pack || {};
+      merged[lang] = {
+        ...basePack,
+        ...incomingPack,
+        strings: {
+          ...(basePack.strings || {}),
+          ...(incomingPack.strings || {}),
+        },
+        ideas: {
+          ...(basePack.ideas || {}),
+          ...(incomingPack.ideas || {}),
+        },
+      };
+    });
+    translationsData = merged;
     if (!translationsData.en) {
       translationsData.en = fallbackTranslations.en;
     }

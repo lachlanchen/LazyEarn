@@ -1,6 +1,6 @@
 # Next tasks
 
-Updated: 2026-04-05 (cycle_002 round_06 readme_sync)
+Updated: 2026-04-05 (cycle_002 round_07 website_sync)
 
 ## Priority A - Evidence pipeline (execute first)
 
@@ -41,7 +41,7 @@ Done when: all 14 prompts include explicit `question_id` references.
 ## Priority C - Surface sync and quality checks
 
 9. Localize research/viewer website keys for non-English locales in `docs/translations.json`.
-Scope keys: `research.*`, `viewer.backToResearch`, `research.asset2ZhTitle`, `research.asset2ZhDesc`.
+Scope keys: `research.*` (including `research.point4`), `viewer.backToResearch`, `research.asset2ZhTitle`, `research.asset2ZhDesc`.
 Done when: `ja`, `ko`, `vi`, `ar`, `fr`, and `es` no longer rely on English strings for those keys.
 
 10. Mirror the new English README wealth-refinery sections into `i18n/README.*.md` files.
