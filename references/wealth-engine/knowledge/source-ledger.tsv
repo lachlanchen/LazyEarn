@@ -1,1 +1,25 @@
 date	category	title	url	note
+2026-04-05	macro_money	Federal Reserve H.6 Money Stock Measures	https://www.federalreserve.gov/releases/h6/current/default.htm	Current release page; Mar 24 2026 release listed with broad money series.
+2026-04-05	macro_money	Federal Reserve Z.1 Financial Accounts (Mar 19 2026)	https://www.federalreserve.gov/releases/z1/20260319/z1.pdf	Q4 2025 flow-of-funds and balance-sheet release PDF with detailed tables.
+2026-04-05	wealth_distribution	Federal Reserve Distributional Financial Accounts (DFA)	https://www.federalreserve.gov/releases/z1/dataviz/dfa/index.html	Quarterly U.S. wealth distribution by percentile and demographic groups.
+2026-04-05	wealth_distribution	Federal Reserve Survey of Consumer Finances (SCF)	https://www.federalreserve.gov/econres/scfindex.htm	Benchmark U.S. household assets/liabilities survey; latest wave 2022.
+2026-04-05	money_theory	Bank of England Money creation in the modern economy	https://www.bankofengland.co.uk/quarterly-bulletin/2014/q1/money-creation-in-the-modern-economy	Central-bank explainer on how commercial banks create deposits via lending.
+2026-04-05	global_macro	BIS Data Portal	https://data.bis.org/	Global macro-financial statistics portal with release calendar and API links.
+2026-04-05	global_macro	IMF World Economic Outlook dataset	https://data.imf.org/Datasets/WEO	Download and API endpoint for WEO vintages; useful for cross-country macro baselines.
+2026-04-05	fiscal	U.S. Treasury Debt to the Penny	https://fiscaldata.treasury.gov/datasets/debt-to-the-penny/	Daily U.S. public debt stock dataset for fiscal context.
+2026-04-05	inequality	World Inequality Database (WID.world)	https://wid.world/	Open inequality data with methodological references and country coverage.
+2026-04-05	inequality	UNU-WIDER World Income Inequality Database (WIID)	https://www.wider.unu.edu/database/world-income-inequality-database-wiid	Versioned dataset hub; latest listed version 29 April 2025.
+2026-04-05	inequality	OECD Income and Wealth Distribution Databases	https://www.oecd.org/en/data/datasets/income-and-wealth-distribution-database.html	Harmonized IDD and WDD inequality databases for OECD-country comparisons.
+2026-04-05	wealth	World Bank The Changing Wealth of Nations 2024	https://www.worldbank.org/en/publication/the-changing-wealth-of-nations	Comprehensive wealth accounting framework with technical and reproducibility materials.
+2026-04-05	financial_inclusion	World Bank Global Findex download data	https://www.worldbank.org/en/publication/globalfindex/download-data	Financial inclusion indicator waves including 2024 and earlier rounds.
+2026-04-05	poverty_inequality	World Bank Poverty and Inequality Platform dataset	https://datacatalog.worldbank.org/search/dataset/0038020/poverty-and-equity-database-poverty-and-inequality-platform	Core global poverty and inequality database catalog entry with metadata links.
+2026-04-05	sovereign_debt	World Bank International Debt Statistics (IDS)	https://www.worldbank.org/en/programs/debt-statistics/ids	External debt tables for LMICs with historical archive links.
+2026-04-05	financial_history	NBER Jordà-Schularick-Taylor Macrohistory Database	https://www.nber.org/research/data/jorda-schularick-taylor-macrohistory	Long-run macro-financial panel for 17 advanced economies since 1870.
+2026-04-05	investing	SEC Search Filings (EDGAR)	https://www.sec.gov/search-filings	Primary company filing access point with search tools and EDGAR API links.
+2026-04-05	investing	Investor.gov Financial Tools and Calculators	https://www.investor.gov/use-financial-tools-and-calculators	SEC-linked investor education toolkit including compound-interest and retirement tools.
+2026-04-05	consumer_credit	CFPB Consumer Credit Card Market Report 2025	https://www.consumerfinance.gov/data-research/research-reports/the-consumer-credit-card-market-2025/	Latest CFPB card-market report; published Dec 30 2025.
+2026-04-05	banking_access	FDIC National Survey of Unbanked and Underbanked Households	https://www.fdic.gov/household-survey	2023 wave with data download and interactive dashboard access.
+2026-04-05	financial_literacy	FINRA National Financial Capability Study	https://www.finrafoundation.org/national-financial-capability-study	2024 report and survey datasets for state-level capability tracking.
+2026-04-05	inflation	BLS Consumer Price Index home	https://www.bls.gov/cpi/home.htm	Official CPI release calendar, latest release PDFs, and archive access.
+2026-04-05	household_spending	BLS Consumer Expenditure Surveys home	https://www.bls.gov/cex/	Official household spending tables and microdata resources.
+2026-04-05	tax_data	IRS SOI Tax Stats Data Book	https://www.irs.gov/statistics/soi-tax-stats-irs-data-book	FY 2024 administrative and tax collection aggregates for U.S. context.
