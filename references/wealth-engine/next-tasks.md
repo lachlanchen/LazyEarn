@@ -4,11 +4,13 @@ Updated: 2026-04-05 (cycle_012 round_10 review_and_next_tasks)
 
 ## Cycle 013 immediate follow-up (round_03_book_markdown)
 
-1. Mirror the new `9.10.1 Historical mechanism test: Great Recession transmission` into `investment_pdfs/wealth-from-first-principles/wealth-from-first-principles.tex`.
+1. [DONE: round_04_book_tex] Mirror the new `9.10.1 Historical mechanism test: Great Recession transmission` into `investment_pdfs/wealth-from-first-principles/wealth-from-first-principles.tex`.
    - Add the historical mechanism ladder and pre-leverage checks under the 9.10 block.
    - Mirror the four new source anchors in the LaTeX `Official data and references` and `Source notes` sections.
    - Keep section markers and heading numbering aligned for PDF verification rounds.
 2. Add at least one companion historical mechanism in section 9.x that contrasts a non-crisis inflation/constrained-growth regime (for example, the 1973–74 oil shock sequence) using named official sources and a similar check list.
+3. In the next verification/build round, confirm `9.10.1` appears in both PDF targets and that the heading is readable in the mirrored `docs/investment_pdfs/...` output.
+4. Optionally run a targeted typography cleanup pass if warning reduction remains in scope (notable hbox overfulls in dense narrative/table sections).
 
 ## Cycle 012 review and execution priorities (round_10)
 
