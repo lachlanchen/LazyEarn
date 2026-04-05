@@ -690,6 +690,36 @@ Decision rule for the map:
 - If at least two anchors show stress in the same window, keep strategy in defense posture: raise liquidity reserves, reduce fixed obligations, and avoid speculative leverage.
 - Promote ownership scaling only when `U53`, `U55`, and `U56` are broadly aligned and no red flag remains unresolved.
 
+### 9.11.1 Historical constraint test: 1973–74 oil shock and transmission lag
+
+The 1973–74 oil shock is a compact example of why financial softness does not always produce durable ownership progress.
+
+In late 1973, crude supply shocks and embargo-linked disruption raised energy prices sharply and pulled up transport and production costs across the economy. Even where liquidity conditions were eventually managed to stabilise, the first damage was non-financial: throughput and margin compression. In that environment, households and new entrants could not translate broad asset valuation support into the same durability gains as incumbents. This is precisely the sequence implied by the `U55` and `U53` anchors:
+
+- **Physical bottleneck arrives first**: the production and logistics rail weakens before balance-sheet repair broadens.
+- **Policy liquidity is necessary but not sufficient**: central-bank and bank balance-sheet expansion must pass through borrower access, not just market functioning.
+- **Ownership durability lags headline finance**: valuations can rise in aggregate while new participant access remains narrow.
+
+Use this three-step check when shocks are energy-heavy:
+
+| Shock check | What to watch | Practical decision implication |
+| --- | --- | --- |
+| **Throughput pressure** | EIA MER + STEO energy-output and price signals | if throughput remains constrained, keep ownership growth staged even if risk assets stabilize |
+| **Transmission asymmetry** | Fed H.4.1 vs H.8 and lending-friction updates | if liquidity improves without access improvement, avoid short-horizon leverage expansion |
+| **Fragility carryover** | OFR DSR/FOR burden + New York Fed SCE expectations | if burden and expectations worsen together, prioritise runway and debt-service headroom |
+
+Practical test:
+
+1. Ask whether the same shock increased production costs for small firms and households, not just market prices.
+2. Only score `U55` as green when throughput, access, and burden improve in the same cycle window.
+3. If this test is mixed, treat aggressive ownership steps as speculative and keep leverage in a defensive envelope.
+
+Institutional references for this mechanism are in the official history and energy archive sources already cited in this guide, especially:
+
+- Federal Reserve History: Oil Shock of 1973-74
+- International Energy Agency (IEA) production/price archives
+- FRASER historical archive
+
 ## 10. A 90-day plan
 
 ### Days 1-30: map reality

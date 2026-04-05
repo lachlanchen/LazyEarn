@@ -20,6 +20,12 @@ Updated: 2026-04-06 (cycle_014 round_01_resource_scan)
 2. Add at least two `evidence_pull`-quality rounds for `U67` and `U69` that explicitly test reversibility versus irreversibility.
 3. Before the next book markdown pass, map one question from each of `U64`, `U66`, and `U69` to specific section placements in chapter 3 or chapter 9.
 
+## Cycle 014 book-markdown follow-up (round_03_book_markdown)
+
+1. Mirror new subsection `9.11.1 Historical constraint test: 1973–74 oil shock and transmission lag` into `investment_pdfs/wealth-from-first-principles/wealth-from-first-principles.tex` and ensure heading/table formatting remains readable in both PDF targets.
+2. Add a companion `9.11.x` mini-case in TeX or markdown that contrasts a non-energy constrained transmission episode (for example a post-war inflation disinflation transition) using comparable source families.
+3. In `knowledge/source-ledger.tsv` and `knowledge/question-bank.md`, tag this new subsection as a concrete historical evidence example for `U56` and `U57` with one practical falsifier condition.
+
 ## Cycle 013 review and next-round priorities (round_10_review_and_next_tasks)
 
 1. Create `references/wealth-engine/knowledge/citation-map.tsv`, `references/wealth-engine/knowledge/question-evidence-gates.md`, and `references/wealth-engine/knowledge/study-paths.md` to close the remaining infrastructure gap before the next writing pass.
