@@ -3,6 +3,35 @@
 Updated: 2026-04-05  
 Round seed: cycle_012 / round_01_resource_scan
 
+## Cycle 014 additions: IMF/UNCTAD surveillance, monetary institution history, and financial stability
+- IMF World Economic Outlook, January 2026 report tables (text bundle)  
+  https://www.imf.org/-/media/Files/Publications/WEO/2026/January/English/text.ashx  
+  Why keep: primary macro forecast tables for global growth and inflation paths, useful when updating chapter arguments on macro trajectory and long-horizon wealth growth assumptions.
+- IMF Executive Board 2026 Article IV consultation (United States)  
+  https://www.imf.org/en/News/Articles/2026/04/01/pr-26102-usa-imf-executive-board-concludes-2026-article-iv-consult  
+  Why keep: official 2026 macro-policy snapshot for a major economy, useful to validate institutional-policy context used in leverage and resilience sections.
+- UNCTAD World Economic Situation and Prospects 2026  
+  https://unctad.org/publication/world-economic-situation-and-prospects-2026  
+  Why keep: official UNCTAD macro outlook with structural-development framing and inequality-relevant growth narrative.
+- UNCTAD Global Investment Trends Monitor No. 50  
+  https://unctad.org/publication/global-investment-trends-monitor-no-50  
+  Why keep: investment-flow mechanism archive combining official FDI and cross-border capital allocation patterns, directly usable for ownership-entry and productive-capital chapters.
+- European Central Bank, Financial Stability vulnerabilities remain elevated  
+  https://www.ecb.europa.eu/press/pr/date/2025/html/ecb.pr251126~4c11ba04d3.en.html  
+  Why keep: official late-2025 financial stability communication on geoeconomic and tariffs risks, valuable for physical-financial constraint and credit-condition sections.
+- BIS Annual Report 2024  
+  https://www.bis.org/about/areport/areport2024.pdf  
+  Why keep: primary institutional report on BIS governance and global financial-cooperation framing for cross-border stability and leverage channels.
+- Federal Reserve History: The Great Recession and its aftermath  
+  https://www.federalreservehistory.org/essays/great-recession-and-its-aftermath  
+  Why keep: official historical analysis of crisis transmission and policy response, useful as a named mechanism case for debt and risk narratives.
+- Federal Reserve History: Dodd-Frank Wall Street Reform and Consumer Protection Act of 2010  
+  https://www.federalreservehistory.org/essays/dodd-frank-act  
+  Why keep: official archival narrative on post-2008 supervision and legal architecture change, useful for ownership-and-intermediation constraints.
+- World Bank Global Economic Prospects  
+  https://www.worldbank.org/en/publication/global-economic-prospects  
+  Why keep: primary annual outlook source for longer-horizon global macro and development comparisons where income/wealth accumulation is modelled.
+
 ## Cycle 012 additions: macro cycles, sovereign-debt risk, inequality lenses, and production constraints
 - IMF World Economic Outlook Update, January 2026: Global Economy: Steady amid Divergent Forces  
   https://www.imf.org/en/publications/weo/issues/2026/01/19/world-economic-outlook-update-january-2026  

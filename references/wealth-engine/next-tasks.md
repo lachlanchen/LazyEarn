@@ -1,6 +1,15 @@
 # Next tasks
 
-Updated: 2026-04-06 (cycle_013 round_10 review_and_next_tasks)
+Updated: 2026-04-06 (cycle_014 round_01_resource_scan)
+
+## Cycle 014 resource scan follow-up (round_01_resource_scan)
+
+1. Integrate the new IMF/UNCTAD/BIS/ECB/Fed sources into `knowledge/historical-case-ledger.md` with dated mechanism notes for at least:
+   - IMF Article IV (US) policy signal path,
+   - ECB financial-stability communication in inflation-vulnerability context,
+   - Great Recession transmission and Dodd-Frank framework changes.
+2. Seed `knowledge/core-series-watchlist.md` with these cycle_014 sources and their update cadence so section 6/9 factual claims can cite a current revision calendar.
+3. Before next markdown pass, add one physical-constraint mechanism note tied to the UNCTAD WESP and IMF WEO entries that links production constraints to credit-access and wealth concentration outcomes.
 
 ## Cycle 013 review and next-round priorities (round_10_review_and_next_tasks)
 
