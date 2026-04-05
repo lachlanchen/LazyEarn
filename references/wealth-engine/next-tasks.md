@@ -1,15 +1,61 @@
 # Next tasks
 
-1. Build `references/wealth-engine/knowledge/core-series-watchlist.md` with exact series/table IDs for:
-   Fed H.6/Z.1/DFA/SCF/EFA, NY Fed household credit, BLS CPI/CEX, BIS credit and property prices, IMF WEO/GDD, World Bank PIP/Findex, Census SIPP wealth tables, and FHFA HPI.
-2. Draft three data-backed mini-memos from the Tier 1 bank:
-   M1 (credit entry channels), O2 (ownership concentration), and L1 (delinquency thresholds).
-3. Add inline citations from the source map into `investment/wealth-from-first-principles.md` sections on money creation, ownership, leverage, and inequality.
-4. Extend `source-ledger.tsv` note format with source-type and update-cadence tags so refresh checks can be automated.
-5. Build `knowledge/household-balance-sheet-bundle.md` aligning variable definitions across NY Fed CCP, Fed EFA, Census SIPP, FHFA HPI, and CPI.
-6. Reduce remaining TeX line-break warnings (chapter 2 paragraph and official-data table row wraps) while preserving readability.
-7. Create `knowledge/citation-map.tsv` (section -> claim -> question_id -> source family -> last_checked_date).
-8. Promote the 14-day starter prompt pack into `knowledge/daily-prompts.md` and keep it synced with question-bank IDs.
-9. Mirror the new README "wealth refinery loop" section into `i18n/` variants and keep labels consistent with live paths.
-10. Localize the updated website research-copy keys (`research.*`) for non-English translation packs instead of fallback English text.
-11. Localize new viewer/catalog keys (`viewer.backToResearch`, `research.viewInline`, `research.asset2ZhTitle`, `research.asset2ZhDesc`) for `ja`, `ko`, `vi`, `ar`, `fr`, and `es`.
+Updated: 2026-04-05 (cycle_001 round_10 review)
+
+## Priority A - Evidence pipeline (execute first)
+
+1. Build `references/wealth-engine/knowledge/core-series-watchlist.md` with exact series/table IDs for Tier 1 questions `M1`, `O2`, and `L1`.
+Output: one row per series with `question_id`, `series_name`, `series_id_or_table`, `source`, `frequency`, `unit`, `note`.
+Done when: at least 9 rows (>=3 per question) with direct links to official release tables.
+
+2. Create `references/wealth-engine/knowledge/citation-map.tsv` to map book claims to source families.
+Output columns: `book_section`, `claim_snippet`, `question_id`, `source_family`, `last_checked_date`.
+Done when: sections 3, 5, and 8 of the money/wealth book each have mapped claim rows.
+
+3. Add inline citations to `investment/wealth-from-first-principles.md` for source-sensitive claims in sections 3, 5, and 8.
+Output: markdown claim sentences with nearby citation markers linked to official sources.
+Done when: every macro, inequality, and leverage claim in those sections has at least one source anchor.
+
+4. Mirror those citations into `investment_pdfs/wealth-from-first-principles/wealth-from-first-principles.tex` so PDF and markdown stay aligned.
+Output: TeX source notes/footnotes aligned to the same claims and source families.
+Done when: markdown and TeX cite the same evidence set for the edited sections.
+
+5. Extend `references/wealth-engine/knowledge/source-ledger.tsv` schema for refresh automation.
+Output columns added: `source_type`, `update_cadence`, `last_verified_on`.
+Done when: all existing rows are migrated and still parse as tab-separated fields.
+
+## Priority B - Analysis deliverables
+
+6. Draft three data-backed mini-memos from the Tier 1 bank: `M1`, `O2`, `L1`.
+Output path: `references/wealth-engine/knowledge/memos/` with one file per question.
+Done when: each memo follows the methods template and includes one claim, one caveat, and one decision implication.
+
+7. Build `references/wealth-engine/knowledge/household-balance-sheet-bundle.md` aligning variables across NY Fed CCP, Fed EFA, Census SIPP, FHFA HPI, and BLS CPI.
+Output: variable dictionary, unit harmonization notes, and join guidance.
+Done when: at least one reproducible alignment example is documented.
+
+8. Promote the 14-day starter prompts into `references/wealth-engine/knowledge/daily-prompts.md` and map each prompt to a question ID.
+Output: checklist-style daily schedule tied to Tier 1/2/3 IDs.
+Done when: all 14 prompts include explicit `question_id` references.
+
+## Priority C - Surface sync and quality checks
+
+9. Localize research/viewer website keys for non-English locales in `docs/translations.json`.
+Scope keys: `research.*`, `viewer.backToResearch`, `research.asset2ZhTitle`, `research.asset2ZhDesc`.
+Done when: `ja`, `ko`, `vi`, `ar`, `fr`, and `es` no longer rely on English strings for those keys.
+
+10. Mirror the new English README wealth-refinery sections into `i18n/README.*.md` files.
+Output: translated sections for mission loop, methods signals, and research vault routing.
+Done when: language variants include equivalent sections and correct live paths.
+
+11. Resolve the dual-viewer ambiguity between `docs/pdf-viewer.html` and `docs/research-viewer.html`.
+Output: choose one canonical viewer path and update docs/navigation accordingly.
+Done when: README, site links, and docs folder comments all describe the same viewer model.
+
+12. Add a lightweight consistency checker script for slugs, PDF paths, and translation key coverage.
+Suggested path: `tools/validate-site-content.sh` (or `.js`).
+Done when: script exits non-zero on missing catalog slugs, missing PDF files, or missing locale keys.
+
+13. Reduce remaining TeX layout warnings in `wealth-from-first-principles.tex` without harming readability.
+Focus: chapter 2 overfull line and table-heavy underfull lines.
+Done when: overfull warnings are removed and underfull warnings are meaningfully reduced after two-pass `xelatex`.
