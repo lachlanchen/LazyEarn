@@ -8,3 +8,5 @@
 4. Extend `source-ledger.tsv` note format with source-type and update-cadence tags so refresh checks can be automated.
 5. Build `knowledge/household-balance-sheet-bundle.md` aligning variable definitions across NY Fed CCP, Fed EFA, Census SIPP, FHFA HPI, and CPI.
 6. Reduce remaining TeX line-break warnings (chapter 2 paragraph and official-data table row wraps) while preserving readability.
+7. Create `knowledge/citation-map.tsv` (section -> claim -> question_id -> source family -> last_checked_date).
+8. Promote the 14-day starter prompt pack into `knowledge/daily-prompts.md` and keep it synced with question-bank IDs.
