@@ -241,6 +241,20 @@ Narrative rundowns for AI, biotech, semiconductors, clean energy, and cloud.
   - force readers to apply historical mechanism tests before interpreting current leverage and stress signals,
   - and make the next study sequence more action-oriented.
 
+## 🔁 Book sync highlights (cycle_014)
+
+- Added a new historical transmission test subsection in the main guide:
+  - `9.11.1 Historical constraint test: 1973--74 oil shock and transmission lag`.
+- Aligned the same subsection in TeX with table and decision framing so both book surfaces render the same mechanism test.
+- Added source coverage in chapter 9 structure for:
+  - Federal Reserve History (`Oil Shock of 1973-74`),
+  - International Energy Agency (`MER`/`STEO` context),
+  - FRASER historical archive.
+- Practical purpose:
+  - make transmission lag effects visible before leverage decisions,
+  - keep throughput constraints and access lag in the same decision loop,
+  - and prepare a reusable constrained-vs-non-constrained episode workflow for future chapter-9 updates.
+
 ## 🧪 Wealth refinery loop
 
 The repository now carries a durable research loop so book, PDF, README, and site copy can evolve with traceable methods.
@@ -274,6 +288,8 @@ Current method signals (synced with the main book):
 - `CAB-9` method for credit-access-and-burden bridge checks on cycle_009 questions (`U36`-`U40`) with intent-vs-outcome and burden-vs-durability guardrails.
 - `CAS-10` method for cadence-aware stress classification checks on cycle_010 questions (`U41`-`U45`) with release-date freshness tags and naive-vs-cadence comparison guards.
 - `CDL-6` method for cycle_012 debt-throughput decision mapping (`U53`-`U58`) across `liquidity`, `access`, `valuation`, `burden`, and `throughput` signals.
+- `HC-5` method for historical-case conversion (`historical evidence to reusable mechanism rows`).
+- `HCT-6` method for historical constrained-vs-countercase transmission testing (newly added in round_05 side-products).
 - `SP-6` method for study-path design and side-product sequencing, including decision checkpoints and failure-mode control.
 
 ### Next side-product builds (already scoped)
@@ -292,6 +308,7 @@ Current method signals (synced with the main book):
 | `references/wealth-engine/knowledge/credit-access-and-burden-bridge.md` | Connects revision-aware macro credit signals to household access and burden outcomes before leverage decisions (`U36`-`U40`). | `question_id`, `signal`, `series_or_table`, `source`, `frequency`, `lead_lag_hypothesis`, `falsifier`, `decision_use` |
 | `references/wealth-engine/knowledge/cadence-aware-stress-classification-panel.md` | Converts cycle_010 mixed-cadence stress questions into an as-known-on-date regime panel (`U41`-`U45`). | `question_id`, `signal_block`, `series_or_table`, `source`, `release_date`, `as_known_on_date`, `freshness_tag`, `naive_read`, `cadence_aware_read`, `regime_tag`, `decision_use`, `caveat` |
 | `references/wealth-engine/knowledge/debt-throughput-decision-map.md` | Converts cycle_012 debt, sovereign, and throughput questions into release-aware channel comparisons before durable wealth conclusions (`U53`-`U58`). | `question_id`, `window`, `liquidity_signal`, `access_signal`, `valuation_signal`, `burden_signal`, `throughput_signal`, `first_lead_channel`, `first_lag_channel`, `falsifier`, `must_not_conflate`, `irreversible_risk_test`, `fragility_class`, `decision_use`, `caveat`, `next_pull` |
+| `references/wealth-engine/knowledge/historical-transmission-countercase.md` | Compares constrained transmission episodes against non-constrained counter-cases before drawing mechanism-level lessons (`U64`-`U69`). | `question_id`, `anchor_mechanism`, `episode_constrained`, `episode_counter_case`, `liquidity_signal`, `access_signal`, `burden_signal`, `throughput_signal`, `participation_signal`, `falsifier`, `must_not_conflate`, `reversibility_read`, `transfer_rule`, `next_pull` |
 
 ## 🗂️ Project structure
 
@@ -439,6 +456,7 @@ Known slugs from site behavior:
 - Expand multilingual README variants and keep the language-switch list in sync.
 - Clarify/document canonical differences between `docs/pdf-viewer.html` and `docs/research-viewer.html`.
 - Keep the wealth field guide fresh with better sources, better questions, and tighter methods.
+- Add a constrained-vs-countercase historical transmission template into chapter 9 before the next markdown-facing expansion.
 - Run the codex-driven wealth refinery pipeline on a daily basis to keep books, README, and website synchronized.
 - Add lightweight CI checks for Markdown link integrity and optional PDF build validation.
 - Continue growing the research vault with paired Markdown + PDF deliverables.

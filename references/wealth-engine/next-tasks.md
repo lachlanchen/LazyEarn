@@ -14,6 +14,12 @@ Updated: 2026-04-06 (cycle_014 round_01_resource_scan)
 2. Add one pre-committed falsifier and one reversibility read per pair; keep transfer rules tied to reader-ready decisions, not narrative verdicts.
 3. Feed the new countercase rows back into chapter-9 planning and question placement during the next markdown book pass.
 
+## Cycle 014 readme_sync follow-up (round_06_readme_sync)
+
+1. Add a short cycle_014 reader-facing section to translated `i18n/README.*.md` variants so the public language pages include the same book-sync signal as English.
+2. Refresh `README.md` roadmap cadence counters (`cycle_013`/`cycle_014`) whenever the next book-facing chapter-9 historical countercase entry lands.
+3. Keep the side-product table in README aligned with the newly introduced `HCT-6` method and planned `historical-transmission-countercase` artifact.
+
 ## Cycle 014 resource scan follow-up (round_01_resource_scan)
 
 1. Integrate the new IMF/UNCTAD/BIS/ECB/Fed sources into `knowledge/historical-case-ledger.md` with dated mechanism notes for at least:
