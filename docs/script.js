@@ -96,6 +96,7 @@ const fallbackStrings = {
   "research.point5": `Latest additions: a channel-map lens from system credit to household outcomes, plus EV-7 entry-vs-incumbent tests for ownership access timing.`,
   "research.pdf": `Download PDF`,
   "research.viewInline": `View on-site`,
+  "research.viewChinese": `View Chinese edition`,
   "research.md": `Read Markdown`,
   "viewer.backToResearch": `← Back to Research Drop`,
   "research.cardTitle": `What the guide covers`,
@@ -576,6 +577,7 @@ function setupResearchCatalog() {
 
     const downloadEl = card.querySelector('[data-research-link="download"]');
     const viewEl = card.querySelector('[data-research-link="view"]');
+    const viewZhEl = card.querySelector('[data-research-link="view-zh"]');
     const markdownEl = card.querySelector('[data-research-link="markdown"]');
 
     if (downloadEl) {
@@ -583,6 +585,15 @@ function setupResearchCatalog() {
     }
     if (viewEl) {
       viewEl.setAttribute("href", `pdf-viewer.html#${slug}`);
+    }
+    if (viewZhEl) {
+      const rawZhSlug = card.getAttribute("data-research-slug-zh");
+      const zhSlug = resolveCatalogSlug(rawZhSlug || "financial-freedom-zh");
+      if (!pdfEntries[zhSlug]) {
+        console.warn(`[research-catalog] Missing pdfEntries mapping for zh slug "${rawZhSlug}"`);
+      } else {
+        viewZhEl.setAttribute("href", `pdf-viewer.html?file=${zhSlug}`);
+      }
     }
     if (markdownEl) {
       markdownEl.setAttribute("href", entry.markdown);

@@ -1,6 +1,6 @@
 # Next tasks
 
-Updated: 2026-04-05 (cycle_005 round_05 side_products)
+Updated: 2026-04-05 (cycle_005 round_07 website_sync)
 
 Measured review anchors (from this round):
 - `references/wealth-engine/knowledge/` currently misses 7 planned artifacts:
@@ -33,8 +33,9 @@ Measured review anchors (from this round):
   - `underfull_vbox = 3`
 - Source-ledger schema is still pre-migration:
   - header is `date, category, title, url, note` (missing planned fields `source_type`, `update_cadence`, `last_verified_on`)
-- Research card action gap:
-  - `financial-freedom-zh` is cataloged in `docs/script.js` and README, but there is still no direct on-site CTA in `docs/index.html`.
+- Research card action gap closed in cycle_005 round_07:
+  - `financial-freedom-zh` now has a direct on-site CTA in `docs/index.html` and is wired in `docs/script.js`.
+  - follow-up: localize the new `research.viewChinese` key across non-English packs in `docs/translations.json`.
 - Language-scope split is now documented in `README.md`: runtime UI locales in `docs/translations.json` are `9`, while translated README variants under `i18n/` are `10`.
 - Viewer alias table is now documented in `README.md` and should be kept in sync with `docs/script.js`.
 
@@ -97,8 +98,8 @@ Done when: one canonical route model is documented in README and reflected in `d
 
 ## Priority 0A - Immediate sync fixes
 
-- `P0A-1` Add a direct Chinese-edition viewer CTA in `docs/index.html` for `financial-freedom-zh`.
-Done when: the Financial Freedom card actions include an on-site link to `pdf-viewer.html?file=financial-freedom-zh`, and route text/buttons remain aligned with `docs/script.js` canonical/alias mapping.
+- `P0A-1` Localize the new Chinese-edition CTA label (`research.viewChinese`) in `docs/translations.json`.
+Done when: all runtime locales render a localized label for the Financial Freedom Chinese-edition CTA and no locale falls back to English for this key.
 
 ## Priority 1 - Evidence products and decision layer
 
