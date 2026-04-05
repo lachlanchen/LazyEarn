@@ -1,6 +1,6 @@
 # Next tasks
 
-Updated: 2026-04-05 (cycle_002 round_04 book_tex)
+Updated: 2026-04-05 (cycle_002 round_06 readme_sync)
 
 ## Priority A - Evidence pipeline (execute first)
 
@@ -46,7 +46,7 @@ Done when: `ja`, `ko`, `vi`, `ar`, `fr`, and `es` no longer rely on English stri
 
 10. Mirror the new English README wealth-refinery sections into `i18n/README.*.md` files.
 Output: translated sections for mission loop, methods signals, and research vault routing.
-Done when: language variants include equivalent sections and correct live paths.
+Done when: language variants include equivalent sections, correct live paths, and cycle_002 method updates (household stress dashboard, QE-5, HS-8 side-product framing).
 
 11. Resolve the dual-viewer ambiguity between `docs/pdf-viewer.html` and `docs/research-viewer.html`.
 Output: choose one canonical viewer path and update docs/navigation accordingly.

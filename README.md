@@ -2,7 +2,7 @@
 
 [![LazyingArt banner](https://github.com/lachlanchen/lachlanchen/raw/main/figs/banner.png)](https://github.com/lachlanchen/lachlanchen/blob/main/figs/banner.png)
 
-Language options: **English (current draft)**. Multilingual README variants are planned under `i18n/` (directory exists).
+Language options: English plus translated variants under `i18n/` (work in progress; some variants may lag the latest English research updates).
 
 # LazyEarn — Money, Wealth, and Earn From Scratch
 
@@ -54,6 +54,7 @@ Primary production domain (from `docs/CNAME`): `earn.lazying.art`.
 - Theme persistence key: `lazyearn_theme`.
 - Research showcase with direct PDF download, inline viewer routes, and Markdown source links.
 - A primary money-and-wealth field guide covering money creation, ownership, compounding, inequality, and practical wealth-building methods.
+- Household stress dashboard guidance (DSR/FOR, SCE, delinquency transitions, bill-stress signals, and real-income momentum) synced into markdown and TeX guide surfaces.
 - A codex-driven wealth refinery loop with a question bank, methods playbook, side-product catalog, and source ledger.
 - PDF viewer routing via hash/query (`#high-growth`, `#financial-freedom`, `?file=financial-freedom-zh`, etc.).
 - GitHub Pages-compatible static distribution with no build step for the website shell.
@@ -101,6 +102,16 @@ Current method signals (synced with the main book):
 - Distinction-first reasoning (`flow vs stock`, `median vs mean`, `volatility vs ruin`, `nominal vs real`).
 - Evidence ladder mindset (anecdote -> official statistical releases).
 - Source quality gate (SQ-5) before promoting claims into core narrative sections.
+- Household stress dashboard operating sequence for early warning and leverage/liquidity adjustment.
+- `QE-5` sprint method for falsifiable question-evidence gates.
+- `HS-8` method for building an action-oriented household stress watchlist.
+
+### Next side-product builds (already scoped)
+
+| Artifact | Why it matters | Minimum schema |
+| --- | --- | --- |
+| `references/wealth-engine/knowledge/question-evidence-gates.md` | Converts Tier 1 questions into pass/fail evidence gates before narrative claims. | `question_id`, `hypothesis`, `minimum_evidence`, `falsifier`, `must_not_conflate`, `status`, `decision_use`, `next_pull` |
+| `references/wealth-engine/knowledge/household-stress-watchlist.md` | Turns macro/credit stress signals into a repeatable monitoring routine. | `signal`, `source`, `series_or_table`, `frequency`, `lead_or_lag`, `risk_read` |
 
 ## 🗂️ Project structure
 
