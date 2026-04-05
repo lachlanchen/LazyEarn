@@ -1,6 +1,6 @@
 # Next tasks
 
-Updated: 2026-04-05 (cycle_005 round_09 build_and_verify)
+Updated: 2026-04-05 (cycle_005 round_10 review_and_next_tasks)
 
 Measured review anchors (from this round):
 - `references/wealth-engine/knowledge/` currently misses 7 planned artifacts:
@@ -38,6 +38,26 @@ Measured review anchors (from this round):
   - `research.viewChinese` is now present in all runtime locale packs in `docs/translations.json`.
 - Language-scope split is now documented in `README.md`: runtime UI locales in `docs/translations.json` are `9`, while translated README variants under `i18n/` are `10`.
 - Viewer alias table is now documented in `README.md` and should be kept in sync with `docs/script.js`.
+
+## Cycle 006 sprint (recommended execution order)
+
+1. Build `references/wealth-engine/knowledge/core-series-watchlist.md` for Tier 1 `M1`, `O2`, `L1`.
+Done when: at least 9 rows (>=3 per question) include concrete series/table IDs and direct official links.
+
+2. Build `references/wealth-engine/knowledge/citation-map.tsv` for sections 3, 5, and 8, then apply inline citations in markdown.
+Done when: mapped rows exist for each section and each target section has at least 3 official-source anchors.
+
+3. Mirror the same citation families into TeX and rebuild synced PDFs.
+Done when: markdown/TeX citation families match and refreshed PDF copies exist in both required targets.
+
+4. Implement `tools/validate-site-content.js` with slug parity, alias collision checks, PDF existence, mirrored-PDF freshness/parity, and scoped localization drift reporting.
+Done when: script fails fast on mismatch with actionable error lines.
+
+5. Create `references/wealth-engine/knowledge/question-evidence-gates.md` first-pass rows for `M1`, `O2`, `L1`, `I1`, `R1`.
+Done when: each row has hypothesis, minimum evidence, falsifier, must-not-conflate guardrail, status, and decision-use.
+
+6. Run one full 14-day execution pass using `references/wealth-engine/knowledge/daily-prompts.md` + `DP-5`.
+Done when: at least 10 daily entries capture `source_anchor`, `observed_signal`, `caveat`, and `decision_use`.
 
 ## Priority 0A - Visible book upgrades
 
