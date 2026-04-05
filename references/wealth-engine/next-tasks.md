@@ -1,6 +1,6 @@
 # Next tasks
 
-Updated: 2026-04-05 (cycle_011 round_08 translation_and_catalog)
+Updated: 2026-04-05 (cycle_011 round_09 build_and_verify)
 
 Measured review anchors (from this round):
 - `references/wealth-engine/knowledge/` currently misses 9 planned artifacts:
@@ -28,12 +28,12 @@ Measured review anchors (from this round):
   - `ar = 32/32` (missing: `0`, equal-to-English: `25`)
   - `fr = 32/32` (missing: `0`, equal-to-English: `25`)
   - `es = 32/32` (missing: `0`, equal-to-English: `25`)
-- Build warning baseline from cycle_010 round_09 (`wealth-from-first-principles`):
-  - `microtype warnings = 1`
+- Build warning baseline from cycle_011 round_09 (`wealth-from-first-principles`):
+  - `microtype warnings = 0`
   - `overfull_hbox = 4`
-  - `underfull_hbox = 172`
+  - `underfull_hbox = 198`
   - `underfull_vbox = 6`
-  - note: `underfull_hbox` increased versus prior tracked baseline (`152 -> 172`).
+  - note: `underfull_hbox` increased versus prior tracked baseline (`172 -> 198`) and still merits follow-up during next typography pass.
 - Source-ledger schema is still pre-migration:
   - header is `date, category, title, url, note` (missing planned fields `source_type`, `update_cadence`, `last_verified_on`)
 - Question-bank scope now includes cycle_011 unanswered set `U46`-`U52`:
@@ -108,7 +108,7 @@ Done when: header and rows are migrated cleanly with TSV validity preserved.
 Done when: each memo includes `hypothesis`, `falsifier`, `must_not_conflate`, `first_evidence_pull`, and one `decision_use` line using at least one cycle_010 resource rail.
 
 10. Verify compiled artifacts for sections `9.8` and `9.9` after TeX sync.
-Done when: both PDF targets include both sections and all core rails, and build notes record the check outcome.
+Round_11 status note: both PDF targets currently include visible rendered sections `6.15 Credit-access and burden bridge (monthly and quarterly)`, `6.16 Cadence-aware stress classification panel (monthly and quarterly)`, and `6.17 Constraint-first lens for money-growth episodes` with key source-note rails confirmed, and this was logged in `round_09_build_and_verify/build-notes.md`.
 
 11. Convert Cycle 011 historical-signal sources into narrative-ready case rows.
 Done when: `knowledge/historical-case-ledger.md` has first-pass entries for `Jekyll Island`, `Great Depression`, `Great Inflation`, and `Oil Shock of 1973-74` with mechanism, actor/institution, and `decision_use` fields completed.
