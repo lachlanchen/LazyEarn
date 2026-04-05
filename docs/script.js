@@ -94,7 +94,7 @@ const fallbackStrings = {
   "research.point3": `Question -> evidence -> claim workflow with SQ-5 source quality gates.`,
   "research.point4": `Operational additions: household stress dashboard, credit-conditions transmission check, and QE-5/HS-8/LL-6/DP-5 methods for decision-ready monitoring.`,
   "research.point5": `Latest additions: a channel-map lens from system credit to household outcomes, plus EV-7 entry-vs-incumbent tests for ownership access timing.`,
-  "research.point6": `Cycle 007 sync: liquidity-and-cycle clock checks (H.4.1/H.8/NFCI/TIC/MTS/ECI/NBER) and CC-7 mixed-cadence lead-lag wiring for U26/U27/U29.`,
+  "research.point6": `Cycle 007-008 sync: liquidity-and-cycle clock checks (H.4.1/H.8/NFCI/TIC/MTS/ECI/NBER), plus entry-and-property-price pulse checks (BFS/BDS/RPP/CPP/GLI/LPC/STEO) and EP-6 panel wiring.`,
   "research.pdf": `Download PDF`,
   "research.viewInline": `View on-site`,
   "research.viewChinese": `View Chinese edition`,
@@ -106,7 +106,7 @@ const fallbackStrings = {
   "research.stat2": `official sources`,
   "research.stat3": `synced surfaces`,
   "research.asset1Title": `Wealth from first principles`,
-  "research.asset1Desc": `A practical field guide to money and wealth with distinction checklists, evidence ladders, stress dashboards, credit channel maps, ownership-entry execution loops, and source-linked methods you can apply immediately.`,
+  "research.asset1Desc": `A practical field guide to money and wealth with distinction checklists, evidence ladders, stress dashboards, credit channel maps, ownership-entry execution loops, entry-and-property-price pulse checks, and source-linked methods you can apply immediately.`,
   "research.asset1Route": `Viewer slug: <code>wealth-from-first-principles</code> (aliases: <code>wealth</code>, <code>wealth-guide</code>, <code>wealth_from_first_principles</code>).`,
   "research.asset2Title": `Financial freedom playbook`,
   "research.asset2Desc": `Timeless principles blended with modern automation ideas—capital allocation tables, quarterly rituals, and name ideas for future Lazy Money drops.`,
@@ -118,6 +118,13 @@ const fallbackStrings = {
   "research.asset3Desc": `Narrative rundowns for nine high-growth U.S. equities (AI, biotech, semiconductors, clean energy, cloud) with upside tables and annotated sources.`,
   "research.asset3Route": `Viewer slug: <code>high-growth</code> (aliases: <code>high-growth-stocks</code>, <code>high_growth_stocks</code>).`,
   "form.success": `Invite sent to {{email}}. Expect a lazy hello soon.`,
+};
+
+const syncedEnglishResearchStrings = {
+  "research.point6":
+    "Cycle 007-008 sync: liquidity-and-cycle clock checks (H.4.1/H.8/NFCI/TIC/MTS/ECI/NBER), plus entry-and-property-price pulse checks (BFS/BDS/RPP/CPP/GLI/LPC/STEO) and EP-6 panel wiring.",
+  "research.asset1Desc":
+    "A practical field guide to money and wealth with distinction checklists, evidence ladders, stress dashboards, credit channel maps, ownership-entry execution loops, entry-and-property-price pulse checks, and source-linked methods you can apply immediately.",
 };
 
 const fallbackIdeas = {
@@ -162,7 +169,7 @@ const pdfEntries = {
     descriptionKey: "research.asset1Desc",
     title: "Wealth from first principles",
     description:
-      "A practical field guide to money and wealth with distinction checklists, evidence ladders, stress dashboards, credit channel maps, ownership-entry execution loops, and source-linked methods.",
+      "A practical field guide to money and wealth with distinction checklists, evidence ladders, stress dashboards, credit channel maps, ownership-entry execution loops, entry-and-property-price pulse checks, and source-linked methods.",
     pdf: "investment_pdfs/wealth-from-first-principles/wealth-from-first-principles.pdf",
     download: "investment_pdfs/wealth-from-first-principles/wealth-from-first-principles.pdf",
     markdown: "https://github.com/lachlanchen/LazyEarn/blob/main/investment/wealth-from-first-principles.md",
@@ -285,6 +292,13 @@ async function loadTranslations() {
     if (!translationsData.en) {
       translationsData.en = fallbackTranslations.en;
     }
+    translationsData.en = {
+      ...translationsData.en,
+      strings: {
+        ...(translationsData.en.strings || {}),
+        ...syncedEnglishResearchStrings,
+      },
+    };
     ideaKeys = Object.keys(translationsData.en?.ideas || fallbackIdeas);
   } catch (error) {
     console.warn("Using built-in English copy for translations.", error);
