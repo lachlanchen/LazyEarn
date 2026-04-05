@@ -94,7 +94,7 @@ const fallbackStrings = {
   "research.point3": `Question -> evidence -> claim workflow with SQ-5 source quality gates.`,
   "research.point4": `Operational additions: household stress dashboard, credit-conditions transmission check, and QE-5/HS-8/LL-6/DP-5 methods for decision-ready monitoring.`,
   "research.point5": `Latest additions: a channel-map lens from system credit to household outcomes, plus EV-7 entry-vs-incumbent tests for ownership access timing.`,
-  "research.point6": `Cycle 006 sync: revision-aware credit-and-capacity checks (G.19 + revision guardrails + BEA/EIA rails) and RC-6 method wiring for U21-U25.`,
+  "research.point6": `Cycle 007 sync: liquidity-and-cycle clock checks (H.4.1/H.8/NFCI/TIC/MTS/ECI/NBER) and CC-7 mixed-cadence lead-lag wiring for U26/U27/U29.`,
   "research.pdf": `Download PDF`,
   "research.viewInline": `View on-site`,
   "research.viewChinese": `View Chinese edition`,
