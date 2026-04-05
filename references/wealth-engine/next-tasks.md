@@ -1,6 +1,6 @@
 # Next tasks
 
-Updated: 2026-04-05 (cycle_010 round_01 resource_scan)
+Updated: 2026-04-05 (cycle_010 round_02 question_bank)
 
 Measured review anchors (from this round):
 - `references/wealth-engine/knowledge/` currently misses 8 planned artifacts:
@@ -34,9 +34,9 @@ Measured review anchors (from this round):
   - `underfull_vbox = 6`
 - Source-ledger schema is still pre-migration:
   - header is `date, category, title, url, note` (missing planned fields `source_type`, `update_cadence`, `last_verified_on`)
-- Question-bank scope now includes cycle_009 unanswered set `U36`-`U40`:
-  - new focus rails: Fed DDP revision metadata, SCE Credit Access survey microdata, Census SIPP datasets, BLS CEX PUMD, OECD household debt indicator.
-  - next bottleneck: no dedicated bridge artifact yet for mapping these rails into one lead-lag and decision-use table.
+- Question-bank scope now includes cycle_010 unanswered set `U41`-`U45`:
+  - new focus rails: Fed Charge-Off/Delinquency release, Fed G.17, IMF FSIC, IRS SOI individual PUF, and release-cadence metadata from Fed/OECD API guidance.
+  - next bottleneck: no cadence-aware stress-classification panel yet combines bank credit quality, household access, production capacity, and cross-country fragility checks.
 - Side-product method coverage now includes `CAB-9` in `knowledge/methods.md` and a dedicated bridge brief in `knowledge/side-products.md`.
   - next bottleneck: the executable artifact `knowledge/credit-access-and-burden-bridge.md` still needs first-pass rows.
 - Markdown/TeX sync for section `9.8 Credit-access and burden bridge` is now complete:
@@ -71,7 +71,7 @@ Measured review anchors (from this round):
 Done when: one command validates index-card vs catalog slug parity, alias collisions, docs PDF existence, mirror hash parity, and section `9.8` marker presence in both PDF targets; it exits non-zero on mismatch.
 
 2. Create first-pass foundational artifacts: `knowledge/core-series-watchlist.md`, `knowledge/question-evidence-gates.md`, and `knowledge/credit-access-and-burden-bridge.md`.
-Done when: each file exists with schema-complete starter rows for `M1/O2/L1` and `U36-U40`, each row has one explicit `decision_use`, and at least one starter row cites one of the newly added cycle_010 rails (Fed Charge-Off/Delinquency, Fed G.17, IMF FSIC, IRS SOI PUF, or OECD API source guidance).
+Done when: each file exists with schema-complete starter rows for `M1/O2/L1` and `U36-U45`, each row has one explicit `decision_use`, and at least one starter row cites one of the newly added cycle_010 rails (Fed Charge-Off/Delinquency, Fed G.17, IMF FSIC, IRS SOI PUF, or OECD API source guidance).
 
 3. Create `knowledge/citation-map.tsv` and execute citation lift in markdown sections 3, 5, and 8.
 Done when: section URL-line counts improve from `6/6/4` to at least `9/9/9`, with corresponding source-family mirrors in TeX.
@@ -87,6 +87,9 @@ Done when: one canonical route is documented in `README.md`, and `docs/index.htm
 
 7. Extend `knowledge/source-ledger.tsv` schema with `source_type`, `update_cadence`, and `last_verified_on`.
 Done when: header and rows are migrated cleanly with TSV validity preserved.
+
+8. Draft first-pass cycle_010 evidence memos for `U41`-`U45`.
+Done when: each memo includes `hypothesis`, `falsifier`, `must_not_conflate`, `first_evidence_pull`, and one `decision_use` line using at least one cycle_010 resource rail.
 
 ## Cycle 009 review queue (highest value, concrete)
 

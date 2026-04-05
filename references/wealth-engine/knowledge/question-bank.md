@@ -1,7 +1,7 @@
 # Question Bank
 
 Updated: 2026-04-05  
-Seed round: cycle_009 / round_02_question_bank
+Seed round: cycle_010 / round_02_question_bank
 
 ## Distinctions to protect
 
@@ -43,6 +43,11 @@ Seed round: cycle_009 / round_02_question_bank
 | Panel attrition vs structural household change | Survey panel churn can mimic real shifts in leverage or ownership behavior. |
 | Debt-to-income vs debt-service-to-income | Stock leverage and cash-flow burden imply different fragility signals. |
 | Documentation map vs current statistical level | Guide pages explain structure, while release series carry live macro values. |
+| Bank asset-quality deterioration vs borrower credit-access tightening | Rising charge-offs can appear before household access visibly worsens. |
+| Production capacity weakness vs financial valuation strength | Asset and credit growth can diverge from real capacity utilization. |
+| Cross-country bank soundness vs household burden stress | A stable banking system does not guarantee low household fragility. |
+| Tax-record income concentration vs household wealth concentration | Taxable income skew and balance-sheet concentration can move at different speeds. |
+| Signal freshness vs signal level | Release-cadence-aware reads can outperform stale mixed-frequency interpretations. |
 
 ## Tier 1 questions (highest priority)
 
@@ -160,6 +165,16 @@ Seed round: cycle_009 / round_02_question_bank
 | U39 | Which leverage measure provides the earliest and most stable household-fragility warning across countries and U.S. cohorts? | Debt stock metric vs payment-burden metric | Alternative leverage measures show no consistent lead over stress outcomes across windows/cohorts | OECD Household debt indicator, Fed DSR/FOR, Census SIPP datasets, NY Fed Household Debt |
 | U40 | Which household wealth-building rule remains durable when market returns are positive but credit access is constrained? | Return opportunity vs financing-access constraint | Candidate rule outperforms only in easy-credit windows and fails during access-rationed periods | NY Fed SCE Credit Access, BLS CEX PUMD, SCF, Fed DFA, BLS CPI |
 
+## Unanswered priority questions (cycle_010 sharpen pass)
+
+| ID | Sharpened question | What must be distinguished | What would falsify the working hypothesis | First evidence pull |
+| --- | --- | --- | --- | --- |
+| U41 | Do bank charge-off and delinquency deteriorations lead household credit-access tightening before payment-burden deterioration becomes visible? | Bank asset quality vs borrower access quantity | Access and approval signals do not weaken before or alongside worsening charge-off trends | Fed Charge-Off/Delinquency release, Fed SLOOS, NY Fed SCE Credit Access, Fed DSR/FOR, NY Fed Household Debt |
+| U42 | When capacity utilization weakens but credit aggregates still expand, are observed wealth gains mostly valuation effects rather than broad household balance-sheet strengthening? | Real capacity regime vs financial-claim expansion | Median disposable-income resilience and participation measures strengthen proportionally despite falling utilization | Fed G.17, Fed H.8/H.6, BEA Personal Income, Fed DFA, Census wealth tables |
+| U43 | Which cross-country fragility composite leads household stress best: bank-soundness indicators, household leverage-burden indicators, or a combined signal? | Bank-system fragility vs household leverage fragility | No composite delivers a stable lead signal across repeated country-window tests | IMF FSIC, OECD Household debt indicator, BIS DSR, IMF WEO |
+| U44 | Do shifts in tax-record income concentration lead or lag shifts in wealth concentration and ownership participation? | Tax-record income concentration vs household wealth concentration | Wealth concentration/participation moves independently of tax-record concentration after timing alignment | IRS SOI individual PUF, Fed DFA, SCF, Census wealth tables |
+| U45 | Does release-cadence-aware signal construction outperform naive mixed-frequency reads for stress-regime classification? | Signal freshness vs signal level | Cadence-aware pipeline does not improve out-of-sample regime classification versus naive alignment | Fed Statistical Release Calendar, Fed DDP announcements feed, Fed H.8/H.4.1/G.17, Fed SLOOS, NY Fed Household Debt |
+
 ## Evidence gates for Tier 1 answers
 
 - `M1`: require at least one stock-flow consistent trace from system credit expansion to a household balance-sheet channel.
@@ -222,3 +237,11 @@ Seed round: cycle_009 / round_02_question_bank
 - `U38`: require decomposition into valuation, participation, and burden channels; two-channel explanations cannot pass.
 - `U39`: require a common timing protocol across leverage metrics and stress outcomes, with one out-of-sample validation window.
 - `U40`: require survival-adjusted and real (inflation-adjusted) performance checks in both easy-credit and constrained-credit windows.
+
+## Evidence gates for cycle_010 unanswered set
+
+- `U41`: require one bank-asset-quality measure and one borrower-access measure with explicit lead-lag window; aggregate credit growth alone cannot pass.
+- `U42`: require joint read of capacity utilization, credit growth, and at least one distributional household outcome before claiming durable wealth strengthening.
+- `U43`: require common frequency/timing protocol across countries and one out-of-sample validation window for each candidate composite.
+- `U44`: require percentile-aligned timing comparison between tax-record concentration and wealth concentration/participation metrics; level-only comparison is insufficient.
+- `U45`: require real-time data-availability simulation (what was known when) and an out-of-sample score comparison versus naive mixed-frequency alignment.
