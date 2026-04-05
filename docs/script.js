@@ -96,6 +96,7 @@ const fallbackStrings = {
   "research.point5": `Latest additions: a channel-map lens from system credit to household outcomes, plus EV-7 entry-vs-incumbent tests for ownership access timing.`,
   "research.point6": `Cycle 007-010 sync: liquidity-and-cycle clock checks (H.4.1/H.8/NFCI/TIC/MTS/ECI/NBER), entry-and-property-price pulse checks (BFS/BDS/RPP/CPP/GLI/LPC/STEO), credit-access-and-burden bridge checks (DDP/SCE Credit Access/CEX PUMD/SIPP/OECD), and cadence-aware stress classification checks (release calendar/chargeoff/G.17/FSIC/SOI PUF) with EP-6, CAB-9, and CAS-10 wiring.`,
   "research.point7": `Cycle 011 extension: 9.10 Constraint-first lens for money-growth episodes, plus the new HC-5 historical-case conversion method to connect major episodes (for example Jekyll Island, Great Depression, Great Inflation, 1973-74 Oil Shock) to actionable ownership decisions.`,
+  "research.point8": `Cycle 012 extension: 9.11 Money, debt, and physical constraints decision map, adding channel-first sequencing for liquidity, access, valuation, burden, and throughput risk before allocation calls.`,
   "research.pdf": `Download PDF`,
   "research.viewInline": `View on-site`,
   "research.viewChinese": `View Chinese edition`,
@@ -107,7 +108,7 @@ const fallbackStrings = {
   "research.stat2": `official sources`,
   "research.stat3": `synced surfaces`,
   "research.asset1Title": `Wealth from first principles`,
-  "research.asset1Desc": `A practical field guide to money and wealth with distinction checklists, evidence ladders, stress dashboards, credit channel maps, ownership-entry execution loops, entry-and-property-price pulse checks, credit-access-and-burden bridge checks, cadence-aware stress classification checks, and source-linked methods you can apply immediately.`,
+  "research.asset1Desc": `A practical field guide to money, wealth, debt, and physical capacity with distinction checklists, evidence ladders, stress dashboards, credit channel maps, ownership-entry execution loops, entry-and-property-price pulse checks, credit-access-and-burden bridge checks, cadence-aware stress classification checks, debt-throughput sequencing, and source-linked methods you can apply immediately.`,
   "research.asset1Route": `Viewer slug: <code>wealth-from-first-principles</code> (aliases: <code>wealth</code>, <code>wealth-guide</code>, <code>wealth_from_first_principles</code>, <code>wealth-field-guide</code>).`,
   "research.asset2Title": `Financial freedom playbook`,
   "research.asset2Desc": `Timeless principles blended with modern automation ideas—capital allocation tables, quarterly rituals, and name ideas for future Lazy Money drops.`,
@@ -126,9 +127,11 @@ const syncedEnglishResearchStrings = {
     "Cycle 007-010 sync: liquidity-and-cycle clock checks (H.4.1/H.8/NFCI/TIC/MTS/ECI/NBER), entry-and-property-price pulse checks (BFS/BDS/RPP/CPP/GLI/LPC/STEO), credit-access-and-burden bridge checks (DDP/SCE Credit Access/CEX PUMD/SIPP/OECD), and cadence-aware stress classification checks (release calendar/chargeoff/G.17/FSIC/SOI PUF) with EP-6, CAB-9, and CAS-10 wiring.",
   "research.point7":
     "Cycle 011 extension: 9.10 Constraint-first lens for money-growth episodes, plus the new HC-5 historical-case conversion method to connect major episodes (for example Jekyll Island, Great Depression, Great Inflation, 1973-74 Oil Shock) to actionable ownership decisions.",
+  "research.point8":
+    "Cycle 012 extension: 9.11 Money, debt, and physical constraints decision map, adding channel-first sequencing for liquidity, access, valuation, burden, and throughput risk before allocation calls.",
   "research.stat1": "research questions",
   "research.asset1Desc":
-    "A practical field guide to money and wealth with distinction checklists, evidence ladders, stress dashboards, credit channel maps, ownership-entry execution loops, entry-and-property-price pulse checks, credit-access-and-burden bridge checks, cadence-aware stress classification checks, and source-linked methods you can apply immediately.",
+    "A practical field guide to money, wealth, debt, and physical capacity with distinction checklists, evidence ladders, stress dashboards, credit channel maps, ownership-entry execution loops, entry-and-property-price pulse checks, credit-access-and-burden bridge checks, cadence-aware stress classification checks, debt-throughput sequencing, and source-linked methods you can apply immediately.",
   "research.asset1Route":
     "Viewer slug: <code>wealth-from-first-principles</code> (aliases: <code>wealth</code>, <code>wealth-guide</code>, <code>wealth_from_first_principles</code>, <code>wealth-field-guide</code>).",
 };
