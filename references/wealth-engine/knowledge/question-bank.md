@@ -1,7 +1,7 @@
 # Question Bank
 
 Updated: 2026-04-05  
-Seed round: cycle_003 / round_02_question_bank
+Seed round: cycle_004 / round_02_question_bank
 
 ## Distinctions to protect
 
@@ -19,8 +19,11 @@ Seed round: cycle_003 / round_02_question_bank
 | Return on capital vs return to access | Ownership compounding depends on entry access, not only asset quality. |
 | Risk price vs risk capacity | A risk can be "cheap" in markets but still unacceptable for a household balance sheet. |
 | Credit price vs credit quantity | Lower rates do not guarantee access when standards tighten. |
+| Credit application volume vs approval rate | More applications can coexist with tighter approval and weaker access. |
 | Stated expectations vs revealed behavior | Survey sentiment can lead, but realized borrowing/spending validates signal quality. |
 | Gross income share vs after-tax disposable share | Distribution conclusions change materially after taxes and transfers. |
+| Debt stock vs payment burden | Same balance can imply very different fragility under different rates/terms. |
+| Incumbent ownership gains vs new-owner entry | Rising net worth for owners can hide stalled ownership access for entrants. |
 
 ## Tier 1 questions (highest priority)
 
@@ -78,6 +81,16 @@ Seed round: cycle_003 / round_02_question_bank
 | U9 | Which signal turns first in stress cycles: expectations, credit-access tightening, or realized burden? | Leading signal vs contemporaneous signal | No signal leads stress outcomes by at least one release period across the latest cycle | NY Fed SCE, ECB CES, Fed SLOOS, Fed DSR/FOR, NY Fed Household Debt |
 | U10 | Does high-risk origination mix change before aggregate delinquency transitions rise? | Credit-mix shift vs aggregate balance growth | High-risk origination share stays flat before later delinquency increases | CFPB Consumer Credit Trends, NY Fed Household Debt, FDIC survey |
 
+## Unanswered priority questions (cycle_004 sharpen pass)
+
+| ID | Sharpened question | What must be distinguished | What would falsify the working hypothesis | First evidence pull |
+| --- | --- | --- | --- | --- |
+| U11 | In credit-tightening phases, is ownership entry constrained before incumbent owners show stress? | Incumbent balance-sheet resilience vs entrant access rationing | First-time/entrant mortgage and business-credit access does not deteriorate before broader delinquency pickup | Fed SLOOS, HMDA modified LAR, FHFA NMDB, NY Fed Household Debt, SBCS |
+| U12 | Does payment-flow relief (rate resets/refinance/payment declines) reduce household stress faster than income growth alone? | Debt stock vs payment burden | Delinquency transitions do not improve after observable payment-burden relief windows | FHFA NMDB, Fed DSR/FOR, NY Fed Household Debt, BEA personal income |
+| U13 | During asset-price upcycles, do ownership gains come mainly from valuation on existing owners or from net-new owner entry? | Valuation channel vs participation channel | Participation and entry shares rise enough to explain top-line wealth gains without valuation concentration | Fed DFA, SCF, Census wealth tables, FHFA HPI, HMDA modified LAR |
+| U14 | Which small-business credit indicator most reliably leads household-side stress: denial rates, pricing, or application pullback? | Firm-credit signal vs household-stress signal | SBCS/1071-related deterioration does not lead household delinquency or stress indicators by at least one reporting window | Fed SBCS, CFPB small-business-lending hub, NY Fed Household Debt, SCE |
+| U15 | What leverage policy keeps ownership compounding durable across inflation, disinflation, and slowdown regimes? | Leverage multiple vs liquidity-and-coverage discipline | Rule performs well in one regime but fails survival criteria in another | NBER JST, Fed DSR/FOR, NY Fed Household Debt, FHFA HPI, BLS CPI |
+
 ## Evidence gates for Tier 1 answers
 
 - `M1`: require at least one stock-flow consistent trace from system credit expansion to a household balance-sheet channel.
@@ -92,3 +105,11 @@ Seed round: cycle_003 / round_02_question_bank
 - `U8`: require decomposition into pre-tax, post-tax, and valuation channels before claiming a dominant inequality mechanism.
 - `U9`: require timing comparison across at least two independent signal families (expectations, access, burden).
 - `U10`: require product/risk-slice evidence, not aggregate credit growth alone.
+
+## Evidence gates for cycle_004 unanswered set
+
+- `U11`: require separate entrant vs incumbent cuts and at least one access metric plus one stress metric.
+- `U12`: require payment-burden evidence and timing comparison against income-flow changes before attribution.
+- `U13`: require decomposition into valuation, participation, and leverage components before concluding mechanism.
+- `U14`: require one lead-lag test with explicit horizon (at least one reporting interval) and a rejected null signal.
+- `U15`: require cross-regime stress test and explicit survival criterion (no insolvency/forced sale/prolonged negative cash flow).
