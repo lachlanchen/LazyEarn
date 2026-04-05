@@ -643,6 +643,33 @@ Practical decision rule:
 2. Require production-capacity or real-cost relief signals before treating valuation strength as durable wealth progress.
 3. Use debt-service and participation checks as mandatory confirmations of any nominal improvement.
 
+### 9.10.1 Historical mechanism test: Great Recession transmission (Dec 2007–Jun 2009)
+
+The Great Recession is a durable lesson in transmission asymmetry.
+
+From 2007 to 2009, the Federal Reserve reduced the policy rate from 5.25% to the effective lower bound, expanded non-traditional liquidity support, and launched facilities such as the TAF, TSLF, PDCF, and TALF. At the same time, official New York Fed remarks in 2009 noted that banks were absorbing unusually high demand for balance-sheet support while C&I and CRE lending standards remained very tight before easing in a later phase.
+
+That sequence matters because it shows a common pattern in wealthy decision-making:
+
+- **Liquidity channel can lead**: policy support can arrive quickly and improve system functioning.
+- **Balance-sheet capacity can lag**: if capital and underwriting pressure stay high, new entrant access does not recover in step.
+- **Real owner-entry can stay weak**: valuations can rise or stabilize while durable ownership expansion stays concentrated.
+
+Use this as a three-stage check when deciding on leverage in any downturn recovery:
+
+1. Did policy liquidity support materially improve funding and collateral conditions for the whole system?
+2. Did commercial-bank or primary-dealer standards for new borrowers improve for at least two review windows?
+3. Did participation indicators (entry flow, first-time borrower access, business formation durability) rise alongside burden-improvement?
+
+If you answer `yes` to stage 1 but `no` to both stage 2 and stage 3, treat the period as **transmission-first, ownership-second** and keep expansion defensive.
+
+Anchor pages used:
+
+- Federal Reserve History, “The Great Recession”: `https://www.federalreservehistory.org/essays/great-recession-of-200709`
+- Federal Reserve History, “The Great Recession and After”: `https://www.federalreservehistory.org/time-period/great-recession-and-its-aftermath`
+- Federal Reserve History, “Federal Reserve Credit Programs during the Meltdown”: `https://www.federalreservehistory.org/essays/fed-credit-programs`
+- New York Fed testimony (May 28, 2009) on C&I and CRE lending standards: `https://www.newyorkfed.org/newsevents/speeches/2009/sch090528`
+
 ### 9.11 Money, debt, and physical constraints decision map
 
 When liquidity, sovereign debt, and production bottlenecks pull in different directions, the useful question is not "what is improving?" but "what has improved in ways that can be owned and carried forward?"
