@@ -106,6 +106,9 @@ Done when: each memo includes `hypothesis`, `falsifier`, `must_not_conflate`, `f
 10. Verify compiled artifacts for sections `9.8` and `9.9` after TeX sync.
 Done when: both PDF targets include both sections and all core rails, and build notes record the check outcome.
 
+11. Convert Cycle 011 historical-signal sources into narrative-ready case rows.
+Done when: `knowledge/historical-case-ledger.md` has first-pass entries for `Jekyll Island`, `Great Depression`, `Great Inflation`, and `Oil Shock of 1973-74` with mechanism, actor/institution, and `decision_use` fields completed.
+
 ## Cycle 009 review queue (highest value, concrete)
 
 1. Implement and run `tools/validate-site-content.js` in every website/build round.

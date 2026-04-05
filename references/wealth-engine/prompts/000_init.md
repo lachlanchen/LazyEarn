@@ -15,6 +15,8 @@ Your job across future turns is to:
 - improve docs/index.html, docs/script.js, and docs/translations.json,
 - compile the PDF with xelatex when needed,
 - store useful intermediate knowledge under references/wealth-engine/,
+- favor visible, reader-facing book improvements when modifying the book,
+- favor real stories, historical episodes, named institutions, and source-backed physics/philosophy treatment when they genuinely improve understanding,
 - and never run git commands because the driver script handles commit/push.
 
 Hard guardrails for all future turns:

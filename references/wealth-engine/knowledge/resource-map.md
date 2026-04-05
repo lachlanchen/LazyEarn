@@ -1,12 +1,73 @@
 # Resource Map
 
 Updated: 2026-04-05  
-Round seed: cycle_010 / round_01_resource_scan
+Round seed: cycle_011 / round_01_resource_scan
+
+## Cycle 011 additions: monetary history, institutional design, behavior, and constraint planning
+- Federal Reserve Board - Transcripts and other historical materials  
+  https://www.federalreserve.gov/monetarypolicy/fomc_historical.htm  
+  Why keep: primary FOMC process archive for policy process history and transmission timing, with complete-by-year lists of transcripts, minutes, teаlbooks, and records useful for event-based narrative and decision-lag analysis.
+- Federal Reserve History: Creation of the Bretton Woods System  
+  https://www.federalreservehistory.org/essays/bretton-woods-created  
+  Why keep: core historical essay on the 1944 IMF/WB monetary order launch, including FRASER-linked documents and source bibliography for historical mechanism tracing in the chapter on institutions and wealth.
+- Federal Reserve History: The Panic of 1907  
+  https://www.federalreservehistory.org/essays/panic-of-1907  
+  Why keep: formal institutional narrative on crisis transmission before modern lender-of-last-resort architecture, including production-side impact and regulatory evolution, suitable for the historical-crisis section.
+- Federal Reserve History: Gold Reserve Act of 1934  
+  https://www.federalreservehistory.org/essays/gold-reserve-act  
+  Why keep: primary account of the 1934 monetary gold and ESF regime shift, with clear implications for central bank autonomy, credit conditions, and institutional design.
+- Federal Reserve History: Gramm-Leach-Bliley Act  
+  https://www.federalreservehistory.org/essays/gramm-leach-bliley-act  
+  Why keep: official treatment of financial modernization and integration of banking with securities/insurance activities, useful for modern risk-distribution and moral hazard questions.
+- IMF 2025 Financial Access Survey Results (Press release + FAS link)  
+  https://www.imf.org/en/news/articles/2025/10/29/pr-25351-imf-releases-the-2025-financial-access-survey-results  
+  Why keep: official 2025 fintech and financial inclusion update with headline numbers, methodology framing, and explicit data-availability path through FAS assets.
+- BIS Annual Economic Report 2025  
+  https://www.bis.org/publ/arpdf/ar2025e.htm  
+  Why keep: primary global financial-stability review (June 29, 2025), especially for capital-flow, policy-risk, and debt-market regime context.
+- BIS Annual Report 2024/25  
+  https://www.bis.org/about/areport/areport2025.htm  
+  Why keep: official institutional and governance context for BIS’s central-bank coordination role, plus annual financial statements and policy direction references.
+- BIS Quarterly Review 2025: Global survey of household perceptions and expectations  
+  https://www.bis.org/publ/qtrpdf/r_qt2509c.htm  
+  Why keep: long-form survey evidence on inflation expectations and trust in institutions across 31 economies; valuable for behavioral channels in money/wealth formation.
+- UNCTAD A World of Debt 2024: A growing burden to global prosperity  
+  https://unctad.org/publication/world-debt-2024  
+  Why keep: official UN debt burden assessment with 2023 debt and debt-service figures, supporting wealth and sovereign-finance inequality chapters.
+- EIA Annual Energy Outlook 2025  
+  https://www.eia.gov/outlooks/aeo/tables_side_xls.php  
+  Why keep: explicit release schedule plus scenario tables on energy supply, prices, and consumption, useful for real-world production throughput and inflation constraint mechanisms.
+- EIA analysis and projection data (monthly forecasts)  
+  https://www.eia.gov/analysis/projection-data.php  
+  Why keep: official data access point for STEO/AEO/IEO projections with release dates and file formats, useful for production/energy constraint signal timing.
 
 ## Selection rules used in this scan
 - Prefer official or primary institutions with transparent methods.
 - Prefer sources with download/API access, not just commentary.
 - Capture freshness signals (release dates, update cadence, or version tags).
+
+## Cycle 011 additions: historical episodes, mandate design, and sovereign-finance overlays
+- Federal Reserve History: The Great Depression (financial panic to institutional redesign)
+  https://www.federalreservehistory.org/essays/great-depression
+  Why keep: historical treatment linking 1929-1941 contraction, central bank response limits, and reforms including the 1932-35 package that changed the Fed's crisis and reserve architecture.
+- Federal Reserve History: The Great Inflation (policy regime and expectation anchoring)
+  https://www.federalreservehistory.org/essays/great-inflation
+  Why keep: long-form account of the 1965-1982 inflation regime plus connections to the 1946 Employment Act and the credibility path to the current Federal Reserve dual-mandate framework.
+- Federal Reserve History: The Meeting at Jekyll Island (1910 institutional design roots)
+  https://www.federalreservehistory.org/essays/jekyll-island-conference
+  Why keep: primary institutional archive for the founding design process and named participants, useful when explaining why centralized liquidity management became necessary.
+- Federal Reserve History: Oil Shock of 1973-74
+  https://www.federalreservehistory.org/-/media/Project/FedHistory/FedHistory/Documents/essaysPDFs/Oil-Shock-of-1973-74-_-Federal-Reserve-History.pdf
+  Why keep: primary account of real-world energy bottlenecks on inflation, output, and policy timing, with quoted price and production details for mechanism-rich examples.
+- UNCTAD World Investment Report 2025 (International investment in the digital economy)
+  https://unctad.org/topic/investment/world-investment-report
+  Why keep: official FDI outlook and annex tables with 2025 report sections on finance, value chains, and productive investment patterns; useful for connecting wealth formation to capital mobility and industrial policy.
+- IMF Fiscal Monitor, October 2025 (public spending and fiscal resilience)
+  https://www.imf.org/en/Publications/FM/Issues/2025/10/07/fiscal-monitor-october-2025
+  Why keep: official fiscal outlook and efficiency analysis with downloadable report content, useful for linking sovereign balance-sheet constraints to wealth outcomes and future returns.
+- IMF Global Financial Stability Report, October 2025 (system-level financial vulnerabilities)
+  https://www.imf.org/en/publications/gfsr/issues/2025/10/14/global-financial-stability-report-october-2025
+  Why keep: official macroprudential diagnostics on valuations, sovereign debt exposure, and NBFI transmission risks; useful for cross-asset risk channels in the wealth narrative.
 
 ## Cycle 010 additions: release-timing, credit-quality, production, and API rails
 - Federal Reserve Statistical Release Calendar  
