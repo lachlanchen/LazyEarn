@@ -1,6 +1,6 @@
 # Next tasks
 
-Updated: 2026-04-05 (cycle_002 round_01 resource_scan)
+Updated: 2026-04-05 (cycle_002 round_02 question_bank)
 
 ## Priority A - Evidence pipeline (execute first)
 
@@ -63,3 +63,7 @@ Done when: overfull warnings are removed and underfull warnings are meaningfully
 14. Create `references/wealth-engine/knowledge/household-stress-watchlist.md` using Fed DSR/FOR, NY Fed SCE, CFPB Making Ends Meet, and NY Fed Household Debt.
 Output: one table with `signal`, `source`, `series_or_table`, `frequency`, `lead_or_lag`, `risk_read`.
 Done when: at least 8 stress signals are mapped and each has a documented interpretation rule.
+
+15. Create `references/wealth-engine/knowledge/question-evidence-gates.md` for `M1`, `O2`, `L1`, `I1`, and `R1`.
+Output: one row per question with `minimum_evidence`, `falsifier`, `must_not_conflate`, and `decision_use`.
+Done when: each question has explicit pass/fail evidence conditions and one disconfirming test.

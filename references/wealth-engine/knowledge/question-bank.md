@@ -1,7 +1,7 @@
 # Question Bank
 
 Updated: 2026-04-05  
-Seed round: cycle_001 / round_02_question_bank
+Seed round: cycle_002 / round_02_question_bank
 
 ## Distinctions to protect
 
@@ -15,6 +15,9 @@ Seed round: cycle_001 / round_02_question_bank
 | Nominal gains vs real gains | Inflation can erase financial progress that looks positive in nominal terms. |
 | Asset price inflation vs goods inflation | Wealth effects and living-cost pressure move through different channels. |
 | Correlation vs causation | Useful strategy requires mechanism, not just pattern matching. |
+| Mark-to-market wealth vs spendable cash flow | Net worth can rise while cash fragility still worsens. |
+| Return on capital vs return to access | Ownership compounding depends on entry access, not only asset quality. |
+| Risk price vs risk capacity | A risk can be "cheap" in markets but still unacceptable for a household balance sheet. |
 
 ## Tier 1 questions (highest priority)
 
@@ -51,3 +54,22 @@ Seed round: cycle_001 / round_02_question_bank
 | H1 | Which century-scale patterns repeat across credit booms, inflation episodes, and inequality shifts? | Structural cycle vs one-off shock | NBER JST, IMF GDD, BIS, WID |
 | H2 | Which country-level institutions most reliably convert income growth into broad-based wealth ownership? | GDP growth vs ownership distribution | CWON 2024, OECD IDD/WDD, Global Findex, PIP |
 | H3 | What is the best "wealth progress" metric that combines net worth, cash-flow resilience, and optional time? | Balance-sheet stock vs life-optional autonomy | SCF, CEX, bespoke metric design |
+
+## Unanswered priority questions (cycle_002 sharpen pass)
+
+| ID | Sharpened question | What must be distinguished | What would falsify the working hypothesis | First evidence pull |
+| --- | --- | --- | --- | --- |
+| U1 | Does marginal credit creation reach households mainly via mortgage channels, business payroll channels, or fiscal-transfer channels first? | Credit origin vs household receipt | Household cash-flow relief does not improve when credit aggregates expand | Fed Z.1, Fed EFA, NY Fed Household Debt, Treasury fiscal flows |
+| U2 | At what debt-service burden does delinquency risk accelerate nonlinearly by age and income tier? | Linear stress vs threshold stress | Delinquency transitions remain flat across rising DSR buckets | Fed DSR/FOR, NY Fed Household Debt, CFPB Making Ends Meet, SCE |
+| U3 | Which ownership path compounds faster net of ruin risk: concentrated private equity, public equities, or housing leverage? | Return maximization vs survival-adjusted compounding | Higher headline CAGR coincides with materially higher insolvency/forced-sale frequency | SCF, FHFA HPI, NY Fed Household Debt, SEC filings |
+| U4 | How much of inequality drift is valuation effects on existing owners versus net new ownership entry? | Price effect vs participation effect | Top-share gains persist even when participation rates broaden materially | Fed DFA, SCF, WID, Census wealth tables |
+| U5 | Which household early-warning signal leads actual stress most reliably: expectations, debt-service ratio, or realized delinquency transitions? | Leading indicator vs coincident indicator | Candidate signal has no lead advantage versus default/delinquency outcomes | SCE, Fed DSR/FOR, NY Fed Household Debt, CFPB MEM |
+| U6 | What durable wealth method survives across inflation, disinflation, and recession regimes without leverage blowups? | Regime-specific tactic vs robust method | Method fails in one of three macro regimes after inflation adjustment | NBER JST, BIS TOTAL_CREDIT, CPI, DFA |
+
+## Evidence gates for Tier 1 answers
+
+- `M1`: require at least one stock-flow consistent trace from system credit expansion to a household balance-sheet channel.
+- `O2`: require both percentile concentration data and participation-rate data before drawing ownership conclusions.
+- `L1`: require threshold tests (not just correlation) and one out-of-sample check.
+- `I1`: require decomposition into earnings, valuation, and participation components.
+- `R1`: require explicit ruin criteria (insolvency, forced sale, prolonged negative cash flow), not volatility alone.
