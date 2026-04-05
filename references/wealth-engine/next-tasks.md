@@ -150,7 +150,7 @@ Done when: all rows are migrated cleanly and TSV parsing remains valid.
 
 16. Localize research/viewer keys in `docs/translations.json` for `ja`, `ko`, `vi`, `ar`, `fr`, `es`.
 Scope: `research.*` and `viewer.backToResearch`.
-Done when: each listed locale has `0` missing scoped keys (including cycle_006 `research.point6`) and fewer English-equal values than current baseline.
+Done when: each listed locale has `0` missing scoped keys (including cycle_006 `research.point6` and alias-aware `research.asset1Route`) and fewer English-equal values than current baseline.
 
 17. Sync wealth-refinery sections from `README.md` into `i18n/README.*.md`.
 Scope: mission loop, methods (`QE-5`, `HS-8`, `LL-6`, `DP-5`, `RC-6`), cycle_006 revision-aware mechanism notes, and research vault routing.

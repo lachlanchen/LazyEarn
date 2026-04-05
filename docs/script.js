@@ -107,7 +107,7 @@ const fallbackStrings = {
   "research.stat3": `synced surfaces`,
   "research.asset1Title": `Wealth from first principles`,
   "research.asset1Desc": `A practical field guide to money and wealth with distinction checklists, evidence ladders, stress dashboards, credit channel maps, ownership-entry execution loops, and source-linked methods you can apply immediately.`,
-  "research.asset1Route": `Viewer slug: <code>wealth-from-first-principles</code> (aliases: <code>wealth</code>, <code>wealth-guide</code>).`,
+  "research.asset1Route": `Viewer slug: <code>wealth-from-first-principles</code> (aliases: <code>wealth</code>, <code>wealth-guide</code>, <code>wealth_from_first_principles</code>).`,
   "research.asset2Title": `Financial freedom playbook`,
   "research.asset2Desc": `Timeless principles blended with modern automation ideas—capital allocation tables, quarterly rituals, and name ideas for future Lazy Money drops.`,
   "research.asset2Route": `Viewer slug: <code>financial-freedom</code> (alias: <code>financial_freedom</code>).`,
