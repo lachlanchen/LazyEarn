@@ -1,6 +1,6 @@
 # Next tasks
 
-Updated: 2026-04-05 (cycle_010 round_08 translation_and_catalog)
+Updated: 2026-04-05 (cycle_010 round_10 review_and_next_tasks)
 
 Measured review anchors (from this round):
 - `references/wealth-engine/knowledge/` currently misses 9 planned artifacts:
@@ -74,40 +74,37 @@ Measured review anchors (from this round):
   - Fed Statistical Release Calendar, Fed Charge-Off/Delinquency release, Fed G.17 release, IMF FSIC dataset, IRS SOI individual PUF page, and OECD Data Explorer API explainer.
   - immediate follow-up: use these rails to seed first-pass rows in `core-series-watchlist.md`, `question-evidence-gates.md`, and `credit-access-and-burden-bridge.md`.
 
-## Cycle 010 launch queue (highest value, concrete)
+## Cycle 011 launch queue (highest value, concrete)
 
 1. Implement `tools/validate-site-content.js` as a required pre-check for website/build rounds.
 Done when: one command validates index-card vs catalog slug parity, alias collisions, docs PDF existence, mirror hash parity, and section `9.8` plus `9.9` marker presence in both PDF targets; it exits non-zero on mismatch.
 
-2. Create first-pass foundational artifacts: `knowledge/core-series-watchlist.md`, `knowledge/question-evidence-gates.md`, and `knowledge/credit-access-and-burden-bridge.md`.
-Done when: each file exists with schema-complete starter rows for `M1/O2/L1` and `U36-U45`, each row has one explicit `decision_use`, and at least one starter row cites one of the newly added cycle_010 rails (Fed Charge-Off/Delinquency, Fed G.17, IMF FSIC, IRS SOI PUF, or OECD API source guidance).
+2. Create first-pass foundational artifacts: `knowledge/core-series-watchlist.md`, `knowledge/question-evidence-gates.md`, `knowledge/credit-access-and-burden-bridge.md`, and `knowledge/cadence-aware-stress-classification-panel.md`.
+Done when: each file exists with schema-complete starter rows for `M1/O2/L1` and `U36-U45`, each row has one explicit `decision_use`, and at least one starter row in each file cites one cycle_010 official rail (Charge-Off/Delinquency, `G.17`, `FSIC`, `SOI PUF`, or OECD API guidance).
 
-3. Create `knowledge/citation-map.tsv` and execute citation lift in markdown sections 3, 5, and 8.
+3. Close the remaining missing planned artifacts: `knowledge/household-stress-watchlist.md`, `knowledge/signal-lead-lag-matrix.md`, `knowledge/distinction-cards.md`, and `knowledge/household-balance-sheet-bundle.md`.
+Done when: each file exists with a published minimum schema section and starter content (`>=8` rows for watchlist/matrix artifacts, one worked example table for bundle/cards artifacts).
+
+4. Create `knowledge/citation-map.tsv` and execute citation lift in markdown sections 3, 5, and 8.
 Done when: section URL-line counts improve from `6/6/4` to at least `9/9/9`, with corresponding source-family mirrors in TeX.
 
-4. Run one TeX warning-reduction pass on table-heavy content (`9.6` and source tables).
+5. Run one TeX warning-reduction pass on table-heavy content (`9.6` and source tables).
 Done when: warning profile improves against current baseline (`microtype=1`, `overfull_hbox=4`, `underfull_hbox=172`, `underfull_vbox=6`) and before/after counts are logged.
 
-5. Reduce runtime localization fallback in `ja/ko/vi/ar/fr/es` for the 31-key `research.*` + `viewer.backToResearch` scope.
+6. Reduce runtime localization fallback in `ja/ko/vi/ar/fr/es` for the 31-key `research.*` + `viewer.backToResearch` scope.
 Done when: each locale keeps `missing=0` and reduces `equal-to-English` below the current `26` baseline while preserving slug/code tokens.
 
-6. Resolve canonical viewer route policy between `pdf-viewer.html` and `research-viewer.html`.
+7. Resolve canonical viewer route policy between `pdf-viewer.html` and `research-viewer.html`.
 Done when: one canonical route is documented in `README.md`, and `docs/index.html` links plus `docs/script.js` comments follow the same policy.
 
-7. Extend `knowledge/source-ledger.tsv` schema with `source_type`, `update_cadence`, and `last_verified_on`.
+8. Extend `knowledge/source-ledger.tsv` schema with `source_type`, `update_cadence`, and `last_verified_on`.
 Done when: header and rows are migrated cleanly with TSV validity preserved.
 
-8. Draft first-pass cycle_010 evidence memos for `U41`-`U45`.
+9. Draft first-pass cycle_010 evidence memos for `U41`-`U45`.
 Done when: each memo includes `hypothesis`, `falsifier`, `must_not_conflate`, `first_evidence_pull`, and one `decision_use` line using at least one cycle_010 resource rail.
 
-9. Verify compiled artifacts for section `9.9` after TeX sync.
-Done when: both PDF targets include section `9.9` and its core rails (Fed release calendar, Charge-Off/Delinquency, G.17, IMF FSIC, IRS SOI PUF, OECD API guidance), and build notes record the check outcome.
-
-10. Create first-pass `knowledge/cadence-aware-stress-classification-panel.md` using `CAS-10`.
-Done when: at least 12 rows cover `U41-U45`, include release-date and freshness fields, and record one naive-vs-cadence comparison note per review window.
-
-11. Replace English fallback wording in cycle_010 research keys for `ja`, `ko`, `vi`, `ar`, `fr`, and `es`.
-Done when: each listed locale keeps key completeness and uses native phrasing for `research.point6` + `research.asset1Desc` while preserving slug/code tokens and cycle `007-010`/`CAS-10` semantics.
+10. Verify compiled artifacts for sections `9.8` and `9.9` after TeX sync.
+Done when: both PDF targets include both sections and all core rails, and build notes record the check outcome.
 
 ## Cycle 009 review queue (highest value, concrete)
 
