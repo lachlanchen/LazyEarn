@@ -25,6 +25,8 @@ Earn.lazying.art is a cinematic field guide for people who want clearer thinking
 | `docs/` | Production website source (`index.html`, `styles.css`, `script.js`) | Public site that powers `earn.lazying.art` |
 | `investment/` | Markdown research briefs | Canonical source of truth for money, wealth, and investing research |
 | `investment_pdfs/` | Compiled LaTeX/PDF artifacts | Shareable portfolio-grade outputs |
+| `references/wealth-engine/` | Mission, source map, question bank, methods, and round logs | Research memory and operating layer for continuous refinement |
+| `scripts/wealth-refinery.sh` | Round driver entrypoint | Keeps round execution consistent outside Codex git actions |
 | `figs/` | Brand assets | Visual identity and banner references |
 | `i18n/` | Translated README files | Multilingual repository entry points |
 
@@ -52,6 +54,7 @@ Primary production domain (from `docs/CNAME`): `earn.lazying.art`.
 - Theme persistence key: `lazyearn_theme`.
 - Research showcase with direct PDF download, inline viewer routes, and Markdown source links.
 - A primary money-and-wealth field guide covering money creation, ownership, compounding, inequality, and practical wealth-building methods.
+- A codex-driven wealth refinery loop with a question bank, methods playbook, side-product catalog, and source ledger.
 - PDF viewer routing via hash/query (`#high-growth`, `#financial-freedom`, `?file=financial-freedom-zh`, etc.).
 - GitHub Pages-compatible static distribution with no build step for the website shell.
 
@@ -77,6 +80,27 @@ Narrative rundowns for AI, biotech, semiconductors, clean energy, and cloud.
 | **Financial Freedom Playbook** | Principles + automation ideas, capital allocation tables, quarterly rituals, and new idea seeds.
 [`Open markdown`](https://github.com/lachlanchen/LazyEarn/blob/main/investment/financial_freedom.md) | [Open PDF](https://earn.lazying.art/pdf-viewer.html#financial-freedom) |
 [`打开 Markdown`](https://github.com/lachlanchen/LazyEarn/blob/main/investment/financial_freedom_zh.md) | [打开 PDF](https://earn.lazying.art/pdf-viewer.html?file=financial-freedom-zh) |
+
+## 🧪 Wealth refinery loop
+
+The repository now carries a durable research loop so book, PDF, README, and site copy can evolve with traceable methods.
+
+| Artifact | Location | Role |
+| --- | --- | --- |
+| Mission | `references/wealth-engine/mission.md` | Defines operating rules and sync surfaces |
+| Source map | `references/wealth-engine/knowledge/resource-map.md` | Curated source families and selection logic |
+| Source ledger | `references/wealth-engine/knowledge/source-ledger.tsv` | Date-stamped source entries with notes |
+| Question bank | `references/wealth-engine/knowledge/question-bank.md` | Tiered research questions and distinctions |
+| Methods playbook | `references/wealth-engine/knowledge/methods.md` | Question -> evidence -> claim process and SQ-5 rubric |
+| Side-products catalog | `references/wealth-engine/knowledge/side-products.md` | Checklists, prompt packs, and planned study artifacts |
+| Round outputs | `references/wealth-engine/cycles/` | Per-round notes, findings, and summaries |
+| Next-task queue | `references/wealth-engine/next-tasks.md` | Prioritized follow-up execution list |
+
+Current method signals (synced with the main book):
+
+- Distinction-first reasoning (`flow vs stock`, `median vs mean`, `volatility vs ruin`, `nominal vs real`).
+- Evidence ladder mindset (anecdote -> official statistical releases).
+- Source quality gate (SQ-5) before promoting claims into core narrative sections.
 
 ## 🗂️ Project structure
 
