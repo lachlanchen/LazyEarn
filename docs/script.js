@@ -190,6 +190,16 @@ const pdfEntries = {
     aliases: ["wealth", "wealth-guide", "wealth_from_first_principles", "wealth-field-guide"],
     titleKey: "research.asset1Title",
     descriptionKey: "research.asset1Desc",
+    routeGuide: {
+      introKey: "research.routeIntro",
+      stepKeys: [
+        "research.routeStep1",
+        "research.routeStep2",
+        "research.routeStep3",
+        "research.routeStep4",
+        "research.routeStep5",
+      ],
+    },
     title: "Wealth from first principles",
     description:
       "A practical field guide to money, wealth, debt, and physical capacity with distinction checklists, evidence ladders, stress dashboards, credit channel maps, ownership-entry execution loops, entry-and-property-price pulse checks, credit-access-and-burden bridge checks, cadence-aware stress classification checks, debt-throughput sequencing, historical transmission checks (Great Recession and 1973-74), and source-linked methods you can apply immediately.",
@@ -618,6 +628,8 @@ function setupResearchCatalog() {
     const viewEl = card.querySelector('[data-research-link="view"]');
     const viewZhEl = card.querySelector('[data-research-link="view-zh"]');
     const markdownEl = card.querySelector('[data-research-link="markdown"]');
+    const routeIntroEl = card.querySelector('[data-i18n="research.routeIntro"]');
+    const routeListEl = card.querySelector(".route-list");
 
     if (downloadEl) {
       downloadEl.setAttribute("href", entry.download || entry.pdf);
@@ -636,6 +648,22 @@ function setupResearchCatalog() {
     }
     if (markdownEl) {
       markdownEl.setAttribute("href", entry.markdown);
+    }
+
+    if (routeIntroEl && entry.routeGuide?.introKey) {
+      const intro = getString(currentLanguage, entry.routeGuide.introKey);
+      if (intro) {
+        routeIntroEl.textContent = intro;
+        routeIntroEl.setAttribute("data-i18n", entry.routeGuide.introKey);
+      }
+    }
+    if (routeListEl && Array.isArray(entry.routeGuide?.stepKeys) && entry.routeGuide.stepKeys.length) {
+      routeListEl.innerHTML = "";
+      entry.routeGuide.stepKeys.forEach((stepKey) => {
+        const li = document.createElement("li");
+        li.textContent = getString(currentLanguage, stepKey) || stepKey;
+        routeListEl.appendChild(li);
+      });
     }
   });
 

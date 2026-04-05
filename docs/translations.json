@@ -238,7 +238,7 @@
       "nav.research": "Research",
       "research.tag": "Research Drop",
       "research.heading": "Money and wealth, from first principles",
-      "research.copy": "我們正在建立一部關於金錢、財富、所有權、複利與財務獨立的動態指南。它以可重複的精煉流程運行：問題庫、來源分類、方法手冊，並同步更新書本、PDF 與網站內容。Cycle_014 進一步加入了 9.10.1 與 9.11.1 的歷史傳導測試，並建立可比對的約束與反例比較框架。",
+      "research.copy": "我們正在建立一部關於金錢、財富、所有權、複利與財務獨立的動態指南。它以可重複的精煉流程運行：問題庫、來源分類、方法手冊，並同步更新書本、PDF 與網站內容。Cycle_015 加入 9.10 和 9.11 的先行約束路徑，並在槓桿與負債時點前提供反例可比對框架。",
       "research.point1": "Distinction-first answers on money creation, ownership, leverage, inequality, and risk.",
       "research.point2": "Primary-source coverage across Fed, NY Fed, BLS, Census, IMF, BIS, World Bank, OECD, and SEC resources.",
       "research.point3": "Question -> evidence -> claim workflow with SQ-5 source quality gates.",
@@ -246,7 +246,7 @@
       "research.point5": "最新補充：新增從系統信用到家戶結果的傳導地圖視角，並加入 EV-7 的新進者與既有者進入測試。",
       "research.point6": "Cycle 007-010 同步：新增流動性與循環時鐘（H.4.1/H.8/NFCI/TIC/MTS/ECI/NBER）、入場與資產價格脈衝檢查（BFS/BDS/RPP/CPP/GLI/LPC/STEO）、信用可得性與負擔橋接檢查（DDP/SCE Credit Access/CEX PUMD/SIPP/OECD），以及節奏感知壓力分類檢查（release calendar/chargeoff/G.17/FSIC/SOI PUF），並加入 EP-6、CAB-9 與 CAS-10 佈線。",
       "research.point7": "循環 011 補充：加入「9.10 先行約束視角」，並用新的 HC-5 歷史案例轉化方法，將關鍵事件（如 Jekyll Island、1929 年大蕭條、Great Inflation、1973-74 石油危機）對應到可執行的所有權決策。",
-      "research.point8": "Cycle_014 擴展：9.11 的貨幣、債務與實體約束決策圖，並加入 9.10.1 與 9.11.1 歷史傳導測試，將流動性、可及性、估值、負擔與產能風險做為先行排序，以便做出更穩健的耐久財富決策。",
+      "research.point8": "Cycle_015 擴展：9.11 的貨幣、債務與實體約束決策圖，新增 9.10.1 大衰退傳導、9.11.1（1973-74 石油衝擊）歷史約束測試，並加入 HCT-6 可逆性與可持久性檢查。",
       "research.pdf": "Download PDF",
       "research.md": "Read Markdown",
       "research.cardTitle": "What the guide covers",
@@ -268,7 +268,13 @@
       "research.asset2ZhTitle": "財務自由手冊（中文版）",
       "research.asset2ZhDesc": "中文版聚焦理性消費、複利投資、多元收入與自動化習慣，並附 Lazy Money 風格的資產配置表。",
       "research.asset2ZhRoute": "中文閱讀路由：<code>financial-freedom-zh</code>（別名：<code>financial_freedom_zh</code>、<code>financial-freedom-zh-cn</code>）。",
-      "research.viewChinese": "查看中文版"
+      "research.viewChinese": "查看中文版",
+      "research.routeIntro": "在進行任何財富時機結論前，先從第 9 章傳導順序開始：",
+      "research.routeStep1": "`9.10` 先以約束優先透鏡檢視貨幣增長事件",
+      "research.routeStep2": "`9.10.1` 歷史機制檢驗：大衰退傳導",
+      "research.routeStep3": "`9.11` 貨幣、債務與實體約束決策圖",
+      "research.routeStep4": "`9.11.1` 歷史約束測試：1973-74 石油衝擊與傳導滯後",
+      "research.routeStep5": "`HCT-6` 可比對與反例框架，以及可逆性標示"
     },
     "ideas": {
       "lazySprint": "啟動為期 5 天的“Lazy Earn”衝刺，教人們如何自動化一個時事通訊廣告位，然後出售重播權限。",
@@ -407,7 +413,13 @@
       "research.asset2ZhTitle": "财务自由手册（中文版）",
       "research.asset2ZhDesc": "中文版聚焦理性消费、复利投资、多元收入与自动化习惯，并附 Lazy Money 风格的资产配置表。",
       "research.asset2ZhRoute": "中文阅读路由：<code>financial-freedom-zh</code>（别名：<code>financial_freedom_zh</code>、<code>financial-freedom-zh-cn</code>）。",
-      "research.viewChinese": "查看中文版"
+      "research.viewChinese": "查看中文版",
+      "research.routeIntro": "在做出任何財富時機結論前，先從第 9 章傳導序列開始：",
+      "research.routeStep1": "`9.10` 先看约束优先透镜",
+      "research.routeStep2": "`9.10.1` 历史机制测试：大衰退传导",
+      "research.routeStep3": "`9.11` 货币、债务与实物约束决策图",
+      "research.routeStep4": "`9.11.1` 历史约束测试：1973-74 石油危机与传导滞后",
+      "research.routeStep5": "`HCT-6` 可反驳与可逆性风险标记"
     },
     "ideas": {
       "lazySprint": "启动为期 5 天的“Lazy Earn”冲刺，教人们如何自动化一个时事通讯广告位，然后出售重播权限。",

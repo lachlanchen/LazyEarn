@@ -1,6 +1,18 @@
 # Next tasks
 
-Updated: 2026-04-06 (cycle_015 round_07_website_sync)
+Updated: 2026-04-06 (cycle_015 round_08_translation_and_catalog)
+
+## Cycle 015 translation_and_catalog follow-up (round_08_translation_and_catalog)
+
+1. Extend `research.routeIntro` / `research.routeStep*` entries across all runtime locales in `docs/translations.json` (especially `ja`, `ko`, `vi`, `ar`, `fr`, and `es`) so Chapter 9 route guidance is localized rather than silently falling back to English.
+   Done when all locales contain the five route steps plus route intro and the site no longer mixes English route bullets for non-English selectors.
+2. Keep catalog wiring parity checks in the next validation pass:
+   - every `.asset-card` route block in `docs/index.html` has a corresponding `routeGuide` path in `pdfEntries` for each localized entry variant,
+   - every route-bearing `entry.routeGuide` has `introKey` + `stepKeys`,
+   - and `setupResearchCatalog()` populates `data-i18n` and `.route-list` elements consistently.
+   Done when any missing route keys are surfaced in CI/manual review before the next cycle handoff.
+3. Add route-visibility checks into the next website QA pass for the wealth card and ensure route text remains aligned with current chapter-9 naming (`9.10`, `9.10.1`, `9.11`, `9.11.1`, `HCT-6`) after any chapter renumbering.
+   Done when renamed headings trigger at least one explicit review follow-up in this file before the next book round.
 
 ## Cycle 015 readme_sync follow-up (round_06_readme_sync)
 
