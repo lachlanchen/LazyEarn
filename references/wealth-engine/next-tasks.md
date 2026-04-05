@@ -1,6 +1,6 @@
 # Next tasks
 
-Updated: 2026-04-05 (cycle_009 round_05 side_products)
+Updated: 2026-04-05 (cycle_009 round_06 readme_sync)
 
 Measured review anchors (from this round):
 - `references/wealth-engine/knowledge/` currently misses 7 planned artifacts:
@@ -46,6 +46,9 @@ Measured review anchors (from this round):
   - `research.viewChinese` is now present in all runtime locale packs in `docs/translations.json`.
 - Language-scope split is now documented in `README.md`: runtime UI locales in `docs/translations.json` are `9`, while translated README variants under `i18n/` are `10`.
 - Viewer alias table is now documented in `README.md` and should be kept in sync with `docs/script.js`.
+- README now includes cycle_009 sync details:
+  - section `9.8` bridge notes, `CAB-9` method references, and the planned `knowledge/credit-access-and-burden-bridge.md` artifact row.
+  - next follow-up: sync the same cycle_009 wording into website runtime strings (`research.point6` / `research.asset1Desc`) and locale packs.
 - Viewer route policy is still split across two files:
   - both `docs/pdf-viewer.html` and `docs/research-viewer.html` exist, while current CTAs route to `pdf-viewer.html`.
 - Research card/panel catalog surfaces are intentionally asymmetric:
@@ -79,6 +82,9 @@ Done when: at least 10 rows map `question_id`, `signal`, `series_or_table`, `sou
 
 9. Verify PDF outputs include mirrored section `9.8 Credit-access and burden bridge`.
 Done when: cycle_009 round_09 build artifacts in both PDF targets include section `9.8` and the added official-data/source-note rails (DDP, SCE Credit Access, SIPP datasets, CEX PUMD, OECD household debt, FOF).
+
+10. Sync website research copy to cycle_009 additions across `docs/index.html`, `docs/script.js`, and `docs/translations.json`.
+Done when: English runtime keys `research.point6` and `research.asset1Desc` mention cycle_009 access-and-burden bridge context, and non-English packs keep `missing=0/31` in the research/viewer key scope.
 
 ## Cycle 008 review queue (highest value, concrete)
 
