@@ -4,6 +4,13 @@ Updated: 2026-04-05 (cycle_012 round_02 question_bank)
 
 ## Cycle 012 immediate follow-up
 
+1. Mirror Cycle 012 Round 3 book changes into LaTeX:
+   - add Section 9.11 Money, debt, and physical constraints decision map,
+   - port the U53-U57 table to `wealth-from-first-principles.tex`,
+   - and include the new IMF/UNCTAD/IEA rows in the LaTeX official references block.
+2. In the next build round, run PDF verification and confirm the new 9.11 section and tables render with clear line breaks and stable heading markers.
+3. Add direct links (where useful) to the new Section 11.5 rows so official source provenance remains easy to trace from table row to source-note block.
+
 1. Create first-pass historical/evidence rows from the cycle_012 debt and institutional sources:
    - `references/wealth-engine/knowledge/historical-case-ledger.md`: add entries for IMF Fiscal Monitor sequencing, UNCTAD debt reports, and the 1973-74 oil-shock-era constraint lens.
    - add explicit mechanism, actor, and decision-use notes for `IMF Fiscal Monitor`, `UNCTAD debt reports`, and `BIS Quarterly Review March 2026`.

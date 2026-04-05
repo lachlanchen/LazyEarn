@@ -643,6 +643,26 @@ Practical decision rule:
 2. Require production-capacity or real-cost relief signals before treating valuation strength as durable wealth progress.
 3. Use debt-service and participation checks as mandatory confirmations of any nominal improvement.
 
+### 9.11 Money, debt, and physical constraints decision map
+
+When liquidity, sovereign debt, and production bottlenecks pull in different directions, the useful question is not "what is improving?" but "what has improved in ways that can be owned and carried forward?"
+
+Use this map to convert headlines into decision quality:
+
+| Question anchor | Main mechanism | First signal to validate | Main practical implication |
+| --- | --- | --- | --- |
+| **U53: where liquidity lands first** | central-bank and bank balance-sheet timing versus borrower access | Fed H.4.1 and Fed H.8 cadence alignment, then Fed EFA/DFA recipient mix | Delay non-essential leverage if access gains are absent after liquidity expansion |
+| **U54: debt stress transmission** | sovereign debt-service stress can tighten credit indirectly through risk premia and collateral standards | UNCTAD debt burden review + IMF Fiscal Monitor debt and fiscal-space chapter | Assume valuation support can be temporary unless entrant access and burden improve together |
+| **U55: throughput and durability** | energy/logistics pressure can erode margins before financial recovery completes | IEA World Energy Outlook + IEA Oil Market Report Mar 2026 alongside Fed DSR/FOR | Prefer productive leverage methods over debt-fueled expansion during throughput stress |
+| **U56: fiscal pass-through type** | fiscal expansion can be payment relief, balance-sheet repair, or ownership enabling | IMF Fiscal Monitor Apr 2026/2025 and WEO fiscal comparison table | Scale commitment only after participation and debt-service trends move in the same direction |
+| **U57: architecture versus operating reality** | institutional design changes who can transmit policy, but operations still determine real entry | Federal Reserve Act archive, Jekyll Island design archive, Fed SLOOS | Use institutional claims as context, not a substitute for access, burden, and participation checks |
+
+Decision rule for the map:
+
+- Start each review by marking **one red flag** among the five anchors.
+- If at least two anchors show stress in the same window, keep strategy in defense posture: raise liquidity reserves, reduce fixed obligations, and avoid speculative leverage.
+- Promote ownership scaling only when `U53`, `U55`, and `U56` are broadly aligned and no red flag remains unresolved.
+
 ## 10. A 90-day plan
 
 ### Days 1-30: map reality
@@ -764,6 +784,10 @@ This is a curated starter map, not an exhaustive library.
 | **OECD Household debt indicator** | harmonized household debt-to-disposable-income comparator | international leverage regime cross-check |
 | **OECD Data Explorer API guidance** | reproducible mixed-frequency OECD pulls and cadence-aware query design | API method reference for SDMX endpoint usage |
 | **World Bank CWON + PIP + Findex + IDS** | comprehensive wealth, poverty, inclusion, and debt context | global development and debt datasets |
+| **IMF Fiscal Monitor** | sovereign debt sustainability, fiscal capacity, and policy pass-throughs | quarterly IMF macro-finance policy monitor |
+| **UNCTAD Debt Data/World Investment Report** | cross-country sovereign and private debt stress in commodity and trade-sensitive economies | annual debt review and mid-year updates |
+| **IEA World Energy Outlook** | global energy production capacity and system-wide throughput constraints | annual global energy outlook publication |
+| **IEA Oil Market Report** | short- to medium-term supply-demand shocks and petroleum market tightness | quarterly oil-market review |
 | **IMF WEO + GDD + BIS data portal + ECB CES** | macro regime, debt cycle, and expectations-sensitive cross-country benchmarks | global macro-financial and expectations references |
 | **IMF Financial Soundness Indicators (FSIC)** | cross-country banking-system fragility and macroprudential comparators | country-level financial soundness indicators with metadata access |
 | **Chicago Fed NFCI + Treasury TIC + Treasury MTS** | cycle-clock cross-check for financial conditions, external flows, and fiscal-flow cushioning | weekly/monthly cycle-timing rails |
@@ -816,6 +840,9 @@ Primary web references used for this guide were checked on **2026-04-05** and in
 - U.S. Treasury TIC release calendar and Monthly Treasury Statement (MTS) program page
 - NBER U.S. business cycle expansions and contractions chronology
 - St. Louis Fed: FRED API docs, ALFRED, and FRASER archive
+- International Monetary Fund (IMF) Fiscal Monitor and Global Debt Database
+- UNCTAD (United Nations Conference on Trade and Development) debt and development finance materials
+- International Energy Agency (IEA) World Energy Outlook and Oil Market Report
 - Federal Reserve History essays on the Great Depression, Great Inflation, 1973-74 Oil Shock, and the Meeting at Jekyll Island
 - Yale/Coursera, "Financial Markets"
 - Open Yale Courses, "Financial Theory"
