@@ -13,6 +13,7 @@ Purpose: track practical artifacts that make the wealth repository easier to stu
 | `knowledge/citation-map.tsv` | planned | Links book claims to specific data families and release pages | markdown + TeX + source-ledger | Start with sections 3, 5, and 8 claims |
 | `knowledge/question-evidence-gates.md` | planned | Forces falsifiable pass/fail framing for Tier 1 questions | question-bank + methods + source-ledger | Create first rows for M1, O2, L1, I1, R1 |
 | `knowledge/household-stress-watchlist.md` | planned | Converts stress indicators into a practical monitoring routine | DSR/FOR + SCE + NY Fed debt + CFPB MEM | Draft 8-signal watchlist with risk-read rules |
+| `knowledge/signal-lead-lag-matrix.md` | planned | Makes timing claims testable for access/stress signals before outcome moves | question-bank + methods + source-ledger | Seed rows for U7 and U9 with explicit lag windows |
 | `knowledge/distinction-cards.md` | planned | Quick review cards for core conceptual distinctions | question-bank | Draft 15 cards with examples |
 | `knowledge/daily-prompts.md` | planned | Keeps learning cadence consistent during short study sessions | question-bank + resource-map | Promote prompt pack below into standalone file |
 
@@ -77,6 +78,22 @@ Purpose: track practical artifacts that make the wealth repository easier to stu
   - `lead_or_lag`
   - `risk_read`
 - Exit criterion: at least 8 signals spanning expectations, burden, delinquency transitions, and reported financial strain.
+
+### F) Signal-lead-lag-matrix brief
+
+- Goal: stop timing mistakes by forcing explicit lead-lag tests before claiming one signal predicts another.
+- Minimum schema:
+  - `question_id`
+  - `target_outcome`
+  - `candidate_signal`
+  - `source`
+  - `frequency`
+  - `tested_lag_window`
+  - `observed_lead_periods`
+  - `consistency_score`
+  - `false_signal_note`
+  - `action_rule`
+- Exit criterion: `U7` and `U9` each have at least 3 tested signals with one accepted action rule and one rejected weak signal.
 
 ## Starter prompt pack (14 days)
 

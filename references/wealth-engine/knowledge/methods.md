@@ -115,3 +115,22 @@ Minimum schema for `household-stress-watchlist.md`:
 ```text
 signal | source | series_or_table | frequency | lead_or_lag | risk_read
 ```
+
+## 8) LL-6 method (lead-lag signal matrix)
+
+Use this method when a question depends on timing order (for example `U7` and `U9`).
+
+| Step | Action | Output |
+| --- | --- | --- |
+| 1 | Define one target outcome first (for example delinquency transition rate) and list at least 3 candidate precursor signals. | target + candidate set |
+| 2 | Align units and frequency before testing (monthly vs quarterly, rate vs level, seasonally adjusted status). | comparable series panel |
+| 3 | Test directional lead windows (for example 1-4 releases) and record first reliable lead point. | lead-window map |
+| 4 | Log false positives (signal moved but outcome did not) and false negatives (outcome moved without signal). | reliability notes |
+| 5 | Write one operational action rule per signal tied to lead evidence, not narrative preference. | decision trigger |
+| 6 | Recheck quarterly and downgrade any signal whose lead stability breaks for two consecutive updates. | maintenance rule |
+
+Minimum schema for `signal-lead-lag-matrix.md`:
+
+```text
+question_id | target_outcome | candidate_signal | source | frequency | tested_lag_window | observed_lead_periods | consistency_score | false_signal_note | action_rule
+```

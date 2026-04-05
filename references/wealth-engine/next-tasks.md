@@ -1,12 +1,13 @@
 # Next tasks
 
-Updated: 2026-04-05 (cycle_003 round_04 book_tex)
+Updated: 2026-04-05 (cycle_003 round_05 side_products)
 
 Measured review anchors (from this round):
 - `references/wealth-engine/knowledge/` still misses 7 planned artifacts.
 - `tools/` still misses the site consistency checker script.
 - `investment/wealth-from-first-principles.md` sections 3, 5, and 8 each currently have `0` URL citation lines.
 - Research/viewer localization drift remains high: `ja`, `ko`, `vi`, `ar`, `fr`, `es` are `24/24` English-equal keys; `zh-Hans` and `zh-Hant` are `20/24`.
+- No dedicated lead-lag matrix artifact exists yet for timing-sensitive questions (`U7`, `U9`).
 
 ## Priority 0 - Execute now (in order)
 
@@ -83,3 +84,7 @@ Done when: each new row includes a falsifier, one explicit lead-lag check, and a
 
 19. Tune typesetting for mirrored section `9.4` and the expanded `Official data and references` table in TeX.
 Done when: at least 5 warning lines linked to the new section/table blocks are removed while preserving content parity with markdown.
+
+20. Create `references/wealth-engine/knowledge/signal-lead-lag-matrix.md` for cycle_003 timing questions.
+Coverage: `U7` and `U9` first, with at least three candidate signals each.
+Done when: each row includes `target_outcome`, `tested_lag_window`, `observed_lead_periods`, one rejected weak signal, and one accepted action rule.
