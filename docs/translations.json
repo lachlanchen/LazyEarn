@@ -528,7 +528,11 @@
       "viewer.backToResearch": "← Back to Research Drop",
       "research.asset2ZhTitle": "Financial freedom playbook (Chinese edition)",
       "research.asset2ZhDesc": "Chinese edition covering rational spending, compounding, diversified income, and automation routines with a Lazy Money-style allocation table.",
-      "research.viewChinese": "中文版を見る"
+      "research.viewChinese": "中文版を見る",
+      "research.asset1Route": "ビューアースラッグ: <code>wealth-from-first-principles</code>（別名: <code>wealth</code>、<code>wealth-guide</code>、<code>wealth_from_first_principles</code>）。",
+      "research.asset2Route": "ビューアースラッグ: <code>financial-freedom</code>（別名: <code>financial_freedom</code>）。",
+      "research.asset3Route": "ビューアースラッグ: <code>high-growth</code>（別名: <code>high-growth-stocks</code>、<code>high_growth_stocks</code>）。",
+      "research.asset2ZhRoute": "中国語版ビューアースラッグ: <code>financial-freedom-zh</code>（別名: <code>financial_freedom_zh</code>、<code>financial-freedom-zh-cn</code>）。"
     },
     "ideas": {
       "lazySprint": "1 つのニュースレター広告スロットを自動化し、リプレイ アクセスを販売する方法を人々に教える 5 日間の Lazy Earn スプリントを開始します。",
@@ -661,7 +665,11 @@
       "viewer.backToResearch": "← Back to Research Drop",
       "research.asset2ZhTitle": "Financial freedom playbook (Chinese edition)",
       "research.asset2ZhDesc": "Chinese edition covering rational spending, compounding, diversified income, and automation routines with a Lazy Money-style allocation table.",
-      "research.viewChinese": "중국어판 보기"
+      "research.viewChinese": "중국어판 보기",
+      "research.asset1Route": "뷰어 슬러그: <code>wealth-from-first-principles</code> (별칭: <code>wealth</code>, <code>wealth-guide</code>, <code>wealth_from_first_principles</code>).",
+      "research.asset2Route": "뷰어 슬러그: <code>financial-freedom</code> (별칭: <code>financial_freedom</code>).",
+      "research.asset3Route": "뷰어 슬러그: <code>high-growth</code> (별칭: <code>high-growth-stocks</code>, <code>high_growth_stocks</code>).",
+      "research.asset2ZhRoute": "중문 뷰어 슬러그: <code>financial-freedom-zh</code> (별칭: <code>financial_freedom_zh</code>, <code>financial-freedom-zh-cn</code>)."
     },
     "ideas": {
       "lazySprint": "사람들에게 하나의 뉴스레터 광고 슬롯을 자동화하고 재생 액세스를 판매하도록 교육하는 5일간의 Lazy Earn 스프린트를 시작하세요.",
@@ -794,7 +802,11 @@
       "viewer.backToResearch": "← Back to Research Drop",
       "research.asset2ZhTitle": "Financial freedom playbook (Chinese edition)",
       "research.asset2ZhDesc": "Chinese edition covering rational spending, compounding, diversified income, and automation routines with a Lazy Money-style allocation table.",
-      "research.viewChinese": "Xem ban tieng Trung"
+      "research.viewChinese": "Xem ban tieng Trung",
+      "research.asset1Route": "Slug trinh xem: <code>wealth-from-first-principles</code> (bi danh: <code>wealth</code>, <code>wealth-guide</code>, <code>wealth_from_first_principles</code>).",
+      "research.asset2Route": "Slug trinh xem: <code>financial-freedom</code> (bi danh: <code>financial_freedom</code>).",
+      "research.asset3Route": "Slug trinh xem: <code>high-growth</code> (bi danh: <code>high-growth-stocks</code>, <code>high_growth_stocks</code>).",
+      "research.asset2ZhRoute": "Slug trinh xem ban tieng Trung: <code>financial-freedom-zh</code> (bi danh: <code>financial_freedom_zh</code>, <code>financial-freedom-zh-cn</code>)."
     },
     "ideas": {
       "lazySprint": "Khởi động chương trình chạy nước rút Kiếm tiền lười biếng kéo dài 5 ngày hướng dẫn mọi người tự động hóa một vùng quảng cáo bản tin, sau đó bán quyền truy cập phát lại.",
@@ -927,7 +939,11 @@
       "viewer.backToResearch": "← Back to Research Drop",
       "research.asset2ZhTitle": "Financial freedom playbook (Chinese edition)",
       "research.asset2ZhDesc": "Chinese edition covering rational spending, compounding, diversified income, and automation routines with a Lazy Money-style allocation table.",
-      "research.viewChinese": "عرض النسخة الصينية"
+      "research.viewChinese": "عرض النسخة الصينية",
+      "research.asset1Route": "معرف العارض: <code>wealth-from-first-principles</code> (اسماء بديلة: <code>wealth</code>، <code>wealth-guide</code>، <code>wealth_from_first_principles</code>).",
+      "research.asset2Route": "معرف العارض: <code>financial-freedom</code> (اسم بديل: <code>financial_freedom</code>).",
+      "research.asset3Route": "معرف العارض: <code>high-growth</code> (اسماء بديلة: <code>high-growth-stocks</code>، <code>high_growth_stocks</code>).",
+      "research.asset2ZhRoute": "معرف العارض للنسخة الصينية: <code>financial-freedom-zh</code> (اسماء بديلة: <code>financial_freedom_zh</code>، <code>financial-freedom-zh-cn</code>)."
     },
     "ideas": {
       "lazySprint": "قم بإطلاق برنامج Lazy Earn السريع لمدة 5 أيام لتعليم الأشخاص كيفية أتمتة فتحة إعلانية واحدة للرسالة الإخبارية، ثم بيع حق الوصول إلى إعادة التشغيل.",
@@ -1060,7 +1076,11 @@
       "viewer.backToResearch": "← Back to Research Drop",
       "research.asset2ZhTitle": "Financial freedom playbook (Chinese edition)",
       "research.asset2ZhDesc": "Chinese edition covering rational spending, compounding, diversified income, and automation routines with a Lazy Money-style allocation table.",
-      "research.viewChinese": "Voir l'edition chinoise"
+      "research.viewChinese": "Voir l'edition chinoise",
+      "research.asset1Route": "Slug du lecteur : <code>wealth-from-first-principles</code> (alias : <code>wealth</code>, <code>wealth-guide</code>, <code>wealth_from_first_principles</code>).",
+      "research.asset2Route": "Slug du lecteur : <code>financial-freedom</code> (alias : <code>financial_freedom</code>).",
+      "research.asset3Route": "Slug du lecteur : <code>high-growth</code> (alias : <code>high-growth-stocks</code>, <code>high_growth_stocks</code>).",
+      "research.asset2ZhRoute": "Slug du lecteur (edition chinoise) : <code>financial-freedom-zh</code> (alias : <code>financial_freedom_zh</code>, <code>financial-freedom-zh-cn</code>)."
     },
     "ideas": {
       "lazySprint": "Lancez un sprint Lazy Earn de 5 jours pour apprendre aux gens à automatiser un espace publicitaire pour la newsletter, puis vendez l'accès à la rediffusion.",
@@ -1193,7 +1213,11 @@
       "viewer.backToResearch": "← Back to Research Drop",
       "research.asset2ZhTitle": "Financial freedom playbook (Chinese edition)",
       "research.asset2ZhDesc": "Chinese edition covering rational spending, compounding, diversified income, and automation routines with a Lazy Money-style allocation table.",
-      "research.viewChinese": "Ver edicion en chino"
+      "research.viewChinese": "Ver edicion en chino",
+      "research.asset1Route": "Slug del visor: <code>wealth-from-first-principles</code> (alias: <code>wealth</code>, <code>wealth-guide</code>, <code>wealth_from_first_principles</code>).",
+      "research.asset2Route": "Slug del visor: <code>financial-freedom</code> (alias: <code>financial_freedom</code>).",
+      "research.asset3Route": "Slug del visor: <code>high-growth</code> (alias: <code>high-growth-stocks</code>, <code>high_growth_stocks</code>).",
+      "research.asset2ZhRoute": "Slug del visor (edicion china): <code>financial-freedom-zh</code> (alias: <code>financial_freedom_zh</code>, <code>financial-freedom-zh-cn</code>)."
     },
     "ideas": {
       "lazySprint": "Lance un sprint de Lazy Earn de 5 días para enseñar a las personas a automatizar un espacio publicitario en el boletín y luego vender acceso a repetición.",

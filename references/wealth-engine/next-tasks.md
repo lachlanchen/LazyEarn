@@ -1,6 +1,6 @@
 # Next tasks
 
-Updated: 2026-04-05 (cycle_006 round_10 review_and_next_tasks)
+Updated: 2026-04-05 (cycle_007 round_08 translation_and_catalog)
 
 Measured review anchors (from this round):
 - `references/wealth-engine/knowledge/` currently misses 7 planned artifacts:
@@ -20,12 +20,12 @@ Measured review anchors (from this round):
 - Research/viewer localization drift (`research.*` + `viewer.backToResearch`, equal-to-English counts in 31-key scope):
   - `zh-Hant = 31/31` (missing: `0`, equal-to-English: `18`)
   - `zh-Hans = 31/31` (missing: `0`, equal-to-English: `18`)
-  - `ja = 27/31` (missing: `4`, equal-to-English: `26`)
-  - `ko = 27/31` (missing: `4`, equal-to-English: `26`)
-  - `vi = 27/31` (missing: `4`, equal-to-English: `26`)
-  - `ar = 27/31` (missing: `4`, equal-to-English: `26`)
-  - `fr = 27/31` (missing: `4`, equal-to-English: `26`)
-  - `es = 27/31` (missing: `4`, equal-to-English: `26`)
+  - `ja = 31/31` (missing: `0`, equal-to-English: `26`)
+  - `ko = 31/31` (missing: `0`, equal-to-English: `26`)
+  - `vi = 31/31` (missing: `0`, equal-to-English: `26`)
+  - `ar = 31/31` (missing: `0`, equal-to-English: `26`)
+  - `fr = 31/31` (missing: `0`, equal-to-English: `26`)
+  - `es = 31/31` (missing: `0`, equal-to-English: `26`)
 - Build warning baseline from cycle_006 round_09 (`wealth-from-first-principles`):
   - `microtype warnings = 1`
   - `overfull_hbox = 2`

@@ -205,6 +205,7 @@ const pdfEntries = {
 };
 
 const DEFAULT_RESEARCH_SLUG = "wealth-from-first-principles";
+const DEFAULT_RESEARCH_ZH_SLUG = "financial-freedom-zh";
 const catalogAliasMap = buildCatalogAliasMap(pdfEntries);
 
 function normalizeResearchSlug(value) {
@@ -589,7 +590,7 @@ function setupResearchCatalog() {
     }
     if (viewZhEl) {
       const rawZhSlug = card.getAttribute("data-research-slug-zh");
-      const zhSlug = resolveCatalogSlug(rawZhSlug || "financial-freedom-zh");
+      const zhSlug = resolveCatalogSlug(rawZhSlug || DEFAULT_RESEARCH_ZH_SLUG);
       if (!pdfEntries[zhSlug]) {
         console.warn(`[research-catalog] Missing pdfEntries mapping for zh slug "${rawZhSlug}"`);
       } else {
