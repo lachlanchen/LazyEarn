@@ -1,6 +1,6 @@
 # Next tasks
 
-Updated: 2026-04-05 (cycle_009 round_08 translation_and_catalog)
+Updated: 2026-04-05 (cycle_009 round_09 build_and_verify)
 
 Measured review anchors (from this round):
 - `references/wealth-engine/knowledge/` currently misses 7 planned artifacts:
@@ -26,11 +26,11 @@ Measured review anchors (from this round):
   - `ar = 31/31` (missing: `0`, equal-to-English: `24`)
   - `fr = 31/31` (missing: `0`, equal-to-English: `24`)
   - `es = 31/31` (missing: `0`, equal-to-English: `24`)
-- Build warning baseline from cycle_008 round_09 (`wealth-from-first-principles`):
+- Build warning baseline from cycle_009 round_09 (`wealth-from-first-principles`):
   - `microtype warnings = 1`
   - `overfull_hbox = 4`
-  - `underfull_hbox = 136`
-  - `underfull_vbox = 5`
+  - `underfull_hbox = 152`
+  - `underfull_vbox = 6`
 - Source-ledger schema is still pre-migration:
   - header is `date, category, title, url, note` (missing planned fields `source_type`, `update_cadence`, `last_verified_on`)
 - Question-bank scope now includes cycle_009 unanswered set `U36`-`U40`:
@@ -40,7 +40,8 @@ Measured review anchors (from this round):
   - next bottleneck: the executable artifact `knowledge/credit-access-and-burden-bridge.md` still needs first-pass rows.
 - Markdown/TeX sync for section `9.8 Credit-access and burden bridge` is now complete:
   - mirrored in `wealth-from-first-principles.tex` with bridge table, sequence rule, and source-note updates in cycle_009 round_04.
-  - next follow-up: verify the generated PDFs in cycle_009 round_09 include the mirrored section and source additions.
+  - cycle_009 round_09 build verification confirms both PDF targets include section `9.8` and official rails (`DDP`, `SCE Credit Access`, `SIPP`, `CEX PUMD`, `OECD household debt`, `FOF`).
+  - next follow-up: automate this section-and-rails check inside site/build validation tooling.
 - Research card action gap closed in cycle_005 round_07 and localized in cycle_005 round_08:
   - `financial-freedom-zh` has a direct on-site CTA in `docs/index.html` and route wiring in `docs/script.js`.
   - `research.viewChinese` is now present in all runtime locale packs in `docs/translations.json`.
@@ -72,7 +73,7 @@ Done when: both files exist with schema-complete starter rows for `M1`, `O2`, an
 Done when: markdown section URL-line counts move from `6/6/4` to at least `9/9/9`, and the same source families are mirrored into TeX.
 
 4. Run one TeX warning-reduction pass on table-heavy blocks (`9.6` and source tables).
-Done when: warning profile improves versus baseline (`overfull_hbox=4`, `underfull_hbox=136`, `underfull_vbox=5`) and build notes capture before/after counts.
+Done when: warning profile improves versus baseline (`overfull_hbox=4`, `underfull_hbox=152`, `underfull_vbox=6`) and build notes capture before/after counts.
 
 5. Reduce runtime research localization fallback for `ja`, `ko`, `vi`, `ar`, `fr`, and `es`.
 Done when: each locale keeps `missing=0/31` and reduces `equal-to-English` below current `24` baseline while preserving slug/code tokens.
@@ -86,8 +87,8 @@ Done when: `entry-and-property-price-pulse.md` has at least 8 schema-complete ro
 8. Create `knowledge/credit-access-and-burden-bridge.md` for cycle_009 unanswered set (`U36`-`U40`).
 Done when: at least 10 rows map `question_id`, `signal`, `series_or_table`, `source`, `frequency`, `lead_lag_hypothesis`, `falsifier`, and `decision_use` across DDP feed, SCE Credit Access, SIPP, CEX PUMD, OECD household debt, and Fed DSR/FOR rails.
 
-9. Verify PDF outputs include mirrored section `9.8 Credit-access and burden bridge`.
-Done when: cycle_009 round_09 build artifacts in both PDF targets include section `9.8` and the added official-data/source-note rails (DDP, SCE Credit Access, SIPP datasets, CEX PUMD, OECD household debt, FOF).
+9. Automate regression checks for mirrored section `9.8` bridge content.
+Done when: a validator command asserts both PDF targets still contain section `9.8` plus rails (`DDP`, `SCE Credit Access`, `SIPP`, `CEX PUMD`, `OECD household debt`, `FOF`) and exits non-zero on regression.
 
 10. Native-review locale quality for cycle_009 research keys in `docs/translations.json`.
 Done when: `ja`, `ko`, `vi`, `ar`, `fr`, and `es` each replace English fallback wording with native phrasing for `research.point6` and `research.asset1Desc` while preserving slug/code tokens and `missing=0/31` in the research/viewer key scope.
@@ -104,7 +105,7 @@ Done when: both files exist with schema-complete starter rows for `M1`, `O2`, an
 Done when: mapped citation rows exist for all three sections and each target section reaches at least 9 URL-bearing lines in markdown with matching source families mirrored to TeX.
 
 4. Run one TeX warning-reduction pass focused on table-heavy blocks (`9.6` and source tables).
-Done when: warning counts improve versus current baseline (`overfull_hbox=4`, `underfull_hbox=136`, `underfull_vbox=5`) without dropping substantive content.
+Done when: warning counts improve versus current baseline (`overfull_hbox=4`, `underfull_hbox=152`, `underfull_vbox=6`) without dropping substantive content.
 
 5. Run native-review localization pass for `ja`, `ko`, `vi`, `ar`, `fr`, and `es` in the 31-key `research.*` + `viewer.backToResearch` scope.
 Done when: all six locales keep `missing=0` and reduce `equal-to-English` counts below 24 while preserving slug/code tokens, including cycle_008 wording for `research.point6`, `research.asset1Desc`, and `research.asset1Route`.
@@ -287,7 +288,7 @@ Done when: one 14-day pass is executed and at least 10 daily entries include `so
 Done when: at least 15 cards with `Distinction`, `Common confusion`, `Quick test question`, and `Example`.
 
 20. Reduce TeX warning profile in `investment_pdfs/wealth-from-first-principles/wealth-from-first-principles.tex`.
-Baseline to beat: `microtype=1`, `overfull_hbox=4`, `underfull_hbox=136`, `underfull_vbox=5`.
+Baseline to beat: `microtype=1`, `overfull_hbox=4`, `underfull_hbox=152`, `underfull_vbox=6`.
 Done when: at least 8 warning lines are removed (priority on `Channel map` and `Official data and references` table blocks) without content loss versus markdown.
 
 ## Priority 1.5 - Credit data integration follow-up
