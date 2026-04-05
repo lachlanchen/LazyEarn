@@ -567,6 +567,31 @@ Sequence rule:
 
 If entry is strong but durability is weak and liquidity is tightening, prefer staged ownership with larger liquidity buffers over aggressive leverage.
 
+### 9.8 Credit-access and burden bridge (monthly and quarterly)
+
+This bridge is for a specific failure mode: credit totals look acceptable, but access and payment pressure are worsening underneath.
+
+Use it to connect revision-aware macro reads (`U36`) with household-level access, burden, and durability questions (`U37`-`U40`).
+
+| Bridge block | What to monitor | Primary source | Practical read |
+| --- | --- | --- | --- |
+| **Release/revision checkpoint** | release notes, revision notices, and comparability events before threshold updates | Federal Reserve DDP home + announcements feed (`https://www.federalreserve.gov/datadownload/default.htm`, `https://www.federalreserve.gov/feeds/DataDownload.html`) | do not treat post-revision jumps as regime shifts until revision-aware reruns are complete |
+| **Application-intent pulse** | expected application behavior and access sentiment | NY Fed SCE Credit Access Survey (`https://www.newyorkfed.org/microeconomics/sce/credit-access`) | falling intent can signal demand retreat before formal denial metrics move |
+| **Approval-friction pulse** | rejection and partial-approval behavior | NY Fed SCE Credit Access Survey (`https://www.newyorkfed.org/microeconomics/sce/credit-access`) | worsening outcomes with flat intent is stronger evidence of supply-side tightening |
+| **Household burden heterogeneity** | payment pressure and leverage distribution by household type | Fed DSR/FOR + Census SIPP datasets (`https://www.federalreserve.gov/releases/dsr/`, `https://www.census.gov/programs-surveys/sipp/data/datasets.html`) | aggregate burden can look stable while stress rises in specific household tiers |
+| **Spending-fragility cross-check** | budget stress by spending composition and income tier | BLS CEX PUMD (`https://www.bls.gov/cex/pumd.htm`) | rising fixed-cost share with weak real income reduces error tolerance for leverage |
+| **Cross-country leverage comparator** | household debt relative to disposable income | OECD Household debt indicator (`https://www.oecd.org/en/data/indicators/household-debt.html`) | helps separate local noise from broader leverage-regime pressure |
+| **Balance-sheet mapping aid** | sector-account structure and instrument mapping for interpretation | Federal Reserve FOF guide + Z.1 (`https://www.federalreserve.gov/apps/fof/`, `https://www.federalreserve.gov/releases/z1/`) | prevents mixing definitions when linking macro balances to household outcomes |
+
+Sequence rule:
+
+1. Run the release/revision checkpoint first; freeze threshold changes if comparability is unclear.
+2. Split access into intent and approval pulses; do not infer "tight credit" from originations alone.
+3. Verify burden heterogeneity and spending fragility before increasing fixed obligations.
+4. Use cross-country and balance-sheet mapping context to avoid overfitting to one local print.
+
+If access worsens and burden heterogeneity rises at the same time, prioritize liquidity and staged ownership over leverage acceleration.
+
 ## 10. A 90-day plan
 
 ### Days 1-30: map reality
@@ -654,9 +679,12 @@ This is a curated starter map, not an exhaustive library.
 | **Federal Reserve DSR/FOR** | household debt-service and fixed-obligation burden | quarterly U.S. household burden release |
 | **Federal Reserve G.19** | consumer-credit stock and revolving/nonrevolving composition | monthly U.S. consumer-credit release |
 | **Federal Reserve H.4.1 + H.8** | central-bank liquidity pulse versus commercial-bank transmission pulse | weekly U.S. balance-sheet releases |
+| **Federal Reserve DDP + announcements feed** | release/revision-aware monitoring before updating lead-lag thresholds | Board statistical download rail plus dated release and revision notes |
+| **Federal Reserve Financial Accounts Guide (FOF)** | table and instrument mapping for flow-of-funds interpretation | interactive documentation layer for Z.1 structure |
 | **Fed FEDS note on G.19 revisions** | method and source-change context for credit-union estimate comparability | revision documentation and statistical note |
 | **New York Fed Household Debt and Credit** | delinquency transitions and debt composition by household slices | quarterly U.S. credit panel |
 | **New York Fed SCE** | inflation, labor, credit access, and expected delinquency signals | monthly U.S. household expectations survey |
+| **New York Fed SCE Credit Access Survey** | credit application intent, approval outcomes, and access friction | rotating credit-access module with downloadable microdata |
 | **CFPB Consumer Credit Trends** | consumer credit flow by product/risk group and geography | monthly U.S. dashboard updates |
 | **CFPB Making Ends Meet** | direct household stress and bill-payment strain indicators | annual survey reports with data files |
 | **BEA Personal Income and Outlays** | income, consumption, and personal saving path | monthly U.S. national accounts release |
@@ -664,6 +692,7 @@ This is a curated starter map, not an exhaustive library.
 | **BEA Open Data API** | reproducible API access layer for macro/distribution pulls | API access with release schedule linkage |
 | **BEA Distribution of Personal Income** | distributional disposable income and inequality decomposition | annual distributional national-accounts release |
 | **BLS CPI + CEX + ECI** | inflation pressure, household spending structure, and labor-cost pressure | monthly CPI/ECI and annual spending detail |
+| **BLS CEX Public Use Microdata (PUMD)** | reproducible household spending microdata for stress segmentation | interview/diary files in machine-usable formats |
 | **BLS Productivity and Costs (LPC)** | labor productivity and unit labor costs for real-compounding context | quarterly U.S. productivity release |
 | **EIA Monthly Energy Review (MER)** | economy-wide energy production/consumption/price throughput context | monthly U.S. energy data release |
 | **EIA Short-Term Energy Outlook (STEO)** | near-term energy-price and supply-demand baseline | monthly U.S. outlook with explicit release schedule |
@@ -673,9 +702,11 @@ This is a curated starter map, not an exhaustive library.
 | **BIS RPP + CPP + GLI** | property valuation regime and global liquidity backdrop | monthly property updates and quarterly global-liquidity updates |
 | **ECB Bank Lending Survey (BLS)** | euro-area credit standards and loan-demand cycle comparisons | quarterly euro-area lending survey |
 | **U.S. Census wealth tables (SIPP)** | household wealth and debt distribution in public-use tables | annual SIPP-based wealth publication |
+| **U.S. Census SIPP datasets** | panel-level household data for leverage and ownership distribution work | historical and current panel/wave dataset rails |
 | **U.S. Census CPS income/inequality tables** | household, family, and person income distribution baselines | annual CPS ASEC update cycle |
 | **IRS SOI Publication 1304** | AGI and tax-share distribution cross-check from filed returns | annual individual return statistics report |
 | **WID + WIID + OECD IDD/WDD** | cross-country inequality and distribution comparisons | global inequality and OECD harmonized datasets |
+| **OECD Household debt indicator** | harmonized household debt-to-disposable-income comparator | international leverage regime cross-check |
 | **World Bank CWON + PIP + Findex + IDS** | comprehensive wealth, poverty, inclusion, and debt context | global development and debt datasets |
 | **IMF WEO + GDD + BIS data portal + ECB CES** | macro regime, debt cycle, and expectations-sensitive cross-country benchmarks | global macro-financial and expectations references |
 | **Chicago Fed NFCI + Treasury TIC + Treasury MTS** | cycle-clock cross-check for financial conditions, external flows, and fiscal-flow cushioning | weekly/monthly cycle-timing rails |
@@ -689,16 +720,21 @@ This is a curated starter map, not an exhaustive library.
 Primary web references used for this guide were checked on **2026-04-05** and include:
 
 - Federal Reserve releases: H.6, Z.1, DFA, EFA, SCF, DSR/FOR, and G.19
+- Federal Reserve Data Download Program (DDP) home and DDP announcements feed
+- Federal Reserve Financial Accounts Guide (FOF)
 - Federal Reserve FEDS note on G.19 credit-union estimate revisions
 - Federal Reserve surveys: SLOOS and SHED
 - Federal Reserve Bank of New York: Household Debt and Credit report, Survey of Consumer Expectations
+- Federal Reserve Bank of New York: Survey of Consumer Expectations Credit Access Survey module
 - U.S. BEA: Personal Income and Outlays, Distribution of Personal Income
 - U.S. BEA: Fixed Assets tables
 - U.S. BLS: CPI, Employment Cost Index (ECI), and Consumer Expenditure Surveys
+- U.S. BLS: Consumer Expenditure Public Use Microdata (PUMD)
 - U.S. BLS: Productivity and Costs (LPC)
 - U.S. EIA: Monthly Energy Review
 - U.S. EIA: Short-Term Energy Outlook (STEO)
 - U.S. Census: Wealth and Asset Ownership tables (SIPP), CPS income/inequality tables, and P70BR-211 brief
+- U.S. Census: SIPP datasets page (panel and wave files)
 - U.S. Census: Business Formation Statistics (BFS) and Business Dynamics Statistics (BDS) API
 - U.S. FHFA: House Price Index datasets
 - IRS SOI Publication 1304 and IRS Data Book
@@ -710,6 +746,7 @@ Primary web references used for this guide were checked on **2026-04-05** and in
 - ECB Consumer Expectations Survey (CES) and Bank Lending Survey (BLS)
 - World Bank: The Changing Wealth of Nations 2024, Global Findex, PIP, IDS
 - WID.world, WIID, and OECD IDD/WDD
+- OECD Household debt indicator
 - CFPB: Consumer Credit Trends, Making Ends Meet survey data, and "Your Money, Your Goals"
 - SEC: EDGAR API documentation and Financial Statement and Notes Data Sets
 - Federal Reserve H.4.1 and H.8 release pages

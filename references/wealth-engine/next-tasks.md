@@ -1,6 +1,6 @@
 # Next tasks
 
-Updated: 2026-04-05 (cycle_009 round_02 question_bank)
+Updated: 2026-04-05 (cycle_009 round_03 book_markdown)
 
 Measured review anchors (from this round):
 - `references/wealth-engine/knowledge/` currently misses 7 planned artifacts:
@@ -36,6 +36,8 @@ Measured review anchors (from this round):
 - Question-bank scope now includes cycle_009 unanswered set `U36`-`U40`:
   - new focus rails: Fed DDP revision metadata, SCE Credit Access survey microdata, Census SIPP datasets, BLS CEX PUMD, OECD household debt indicator.
   - next bottleneck: no dedicated bridge artifact yet for mapping these rails into one lead-lag and decision-use table.
+- Markdown book now includes section `9.8 Credit-access and burden bridge`:
+  - follow-up required: mirror section `9.8` into TeX with equivalent tables/sequence rules in cycle_009 round_04.
 - Research card action gap closed in cycle_005 round_07 and localized in cycle_005 round_08:
   - `financial-freedom-zh` has a direct on-site CTA in `docs/index.html` and route wiring in `docs/script.js`.
   - `research.viewChinese` is now present in all runtime locale packs in `docs/translations.json`.
@@ -71,6 +73,9 @@ Done when: `entry-and-property-price-pulse.md` has at least 8 schema-complete ro
 
 8. Create `knowledge/credit-access-and-burden-bridge.md` for cycle_009 unanswered set (`U36`-`U40`).
 Done when: at least 10 rows map `question_id`, `signal`, `series_or_table`, `source`, `frequency`, `lead_lag_hypothesis`, `falsifier`, and `decision_use` across DDP feed, SCE Credit Access, SIPP, CEX PUMD, OECD household debt, and Fed DSR/FOR rails.
+
+9. Mirror markdown section `9.8 Credit-access and burden bridge` into `wealth-from-first-principles.tex`.
+Done when: TeX includes equivalent bridge blocks, sequence rule, and cited sources (DDP, SCE Credit Access, SIPP datasets, CEX PUMD, OECD household debt, FOF), with formatting adapted for print layout.
 
 ## Cycle 008 review queue (highest value, concrete)
 
