@@ -1,6 +1,6 @@
 # Next tasks
 
-Updated: 2026-04-05 (cycle_011 round_07 website_sync)
+Updated: 2026-04-05 (cycle_011 round_08 translation_and_catalog)
 
 Measured review anchors (from this round):
 - `references/wealth-engine/knowledge/` currently misses 9 planned artifacts:
@@ -19,15 +19,15 @@ Measured review anchors (from this round):
   - `section_3_url_lines = 6`
   - `section_5_url_lines = 6`
   - `section_8_url_lines = 4`
-- Research/viewer localization drift (`research.*` + `viewer.backToResearch`, equal-to-English counts in 31-key scope):
-  - `zh-Hant = 31/31` (missing: `0`, equal-to-English: `18`)
-  - `zh-Hans = 31/31` (missing: `0`, equal-to-English: `18`)
-  - `ja = 31/31` (missing: `0`, equal-to-English: `26`)
-  - `ko = 31/31` (missing: `0`, equal-to-English: `26`)
-  - `vi = 31/31` (missing: `0`, equal-to-English: `26`)
-  - `ar = 31/31` (missing: `0`, equal-to-English: `26`)
-  - `fr = 31/31` (missing: `0`, equal-to-English: `26`)
-  - `es = 31/31` (missing: `0`, equal-to-English: `26`)
+- Research/viewer localization drift (`research.*` + `viewer.backToResearch`, equal-to-English counts in 32-key scope):
+  - `zh-Hant = 32/32` (missing: `0`, equal-to-English: `17`)
+  - `zh-Hans = 32/32` (missing: `0`, equal-to-English: `17`)
+  - `ja = 32/32` (missing: `0`, equal-to-English: `25`)
+  - `ko = 32/32` (missing: `0`, equal-to-English: `25`)
+  - `vi = 32/32` (missing: `0`, equal-to-English: `25`)
+  - `ar = 32/32` (missing: `0`, equal-to-English: `25`)
+  - `fr = 32/32` (missing: `0`, equal-to-English: `25`)
+  - `es = 32/32` (missing: `0`, equal-to-English: `25`)
 - Build warning baseline from cycle_010 round_09 (`wealth-from-first-principles`):
   - `microtype warnings = 1`
   - `overfull_hbox = 4`
@@ -96,7 +96,7 @@ Done when: warning profile improves against current baseline (`microtype=1`, `ov
 Done when: each locale keeps `missing=0` and reduces `equal-to-English` below the current baseline while preserving slug/code tokens.
 
 6.1 Add Cycle 011-specific phrasing for `research.point7` across all six runtime locales.
-Done when: `ja/ko/vi/ar/fr/es` all include a native sentence for `research.point7` (not English fallback), while preserving the anchor tokens and alias strings referenced in the section card.
+Done in cycle_011 round_08: `research.point7` now added with local wording in all locale packs, with explicit non-English variants for `ja/ko/vi/ar/fr/es`.
 
 7. Resolve canonical viewer route policy between `pdf-viewer.html` and `research-viewer.html`.
 Done when: one canonical route is documented in `README.md`, and `docs/index.html` links plus `docs/script.js` comments follow the same policy.
