@@ -1,6 +1,6 @@
 # Next tasks
 
-Updated: 2026-04-05 (cycle_003 round_02 question_bank)
+Updated: 2026-04-05 (cycle_003 round_03 book_markdown)
 
 Measured review anchors (from this round):
 - `references/wealth-engine/knowledge/` still misses 7 planned artifacts.
@@ -80,3 +80,6 @@ Done when: at least 6 signals are mapped with `signal`, `source`, `series_or_tab
 
 18. Extend `references/wealth-engine/knowledge/question-evidence-gates.md` with cycle_003 unanswered set (`U7`, `U8`, `U9`, `U10`) after Tier 1 rows are complete.
 Done when: each new row includes a falsifier, one explicit lead-lag check, and a decision-use sentence linked to leverage or allocation behavior.
+
+19. Mirror markdown section `9.4 Credit-conditions transmission check` into `investment_pdfs/wealth-from-first-principles/wealth-from-first-principles.tex`.
+Done when: TeX includes equivalent sequence + table coverage (SLOOS, CFPB trends, BIS DSR, NY Fed transitions, SHED) and compiles successfully in two-pass `xelatex`.

@@ -397,6 +397,27 @@ Use order of operations:
 2. Confirm with realized delinquency transitions (NY Fed Household Debt).
 3. Adjust leverage, liquidity buffers, and fixed-cost commitments before stress compounds.
 
+### 9.4 Credit-conditions transmission check (monthly or quarterly)
+
+A recurring mistake is to watch only interest rates and ignore access conditions.
+
+Use this transmission sequence:
+
+1. **Access**: are banks tightening standards? (Fed SLOOS)
+2. **Flow**: are household credit originations and inquiries slowing? (CFPB Consumer Credit Trends)
+3. **Outcome**: are debt burden and delinquencies actually worsening? (BIS DSR + NY Fed Household Debt)
+
+| Signal layer | What it tracks | Where to check | Practical read |
+| --- | --- | --- | --- |
+| **Credit standards** | lender risk appetite and approval friction | Federal Reserve SLOOS | tighter standards can reduce credit access even before policy rates move |
+| **Credit flow** | origination and inquiry momentum by product/risk group | CFPB Consumer Credit Trends | slowing flow after tightening suggests transmission is active |
+| **Debt burden** | debt-service pressure versus income | BIS DSR + Fed DSR/FOR | persistent burden rise increases fragility and narrows margin for error |
+| **Realized stress** | transition into delinquency buckets | NY Fed Household Debt and Credit | confirms whether pressure is becoming balance-sheet damage |
+| **Household resilience** | bill stress, income shock capacity, and coping behavior | Fed SHED | cross-checks whether macro credit signals match lived conditions |
+
+If standards tighten but flow does not slow, transmission may be delayed or policy-sensitive.  
+If flow slows and delinquencies rise together, prioritize liquidity and deleveraging over return-chasing.
+
 ## 10. A 90-day plan
 
 ### Days 1-30: map reality
@@ -479,17 +500,24 @@ This is a curated starter map, not an exhaustive library.
 | **Federal Reserve H.6** | broad money and component trends | weekly/monthly U.S. money stock release |
 | **Federal Reserve Z.1 + DFA + EFA** | sector balance sheets, distributional and geographic detail | quarterly U.S. flow-of-funds stack |
 | **Federal Reserve SCF** | household assets, liabilities, and ownership concentration | triennial microdata benchmark |
+| **Federal Reserve SLOOS** | lending standards and loan demand by major credit segment | quarterly U.S. bank lending survey |
+| **Federal Reserve SHED** | household financial well-being, emergency capacity, and payment stress | annual U.S. household survey |
 | **Federal Reserve DSR/FOR** | household debt-service and fixed-obligation burden | quarterly U.S. household burden release |
 | **New York Fed Household Debt and Credit** | delinquency transitions and debt composition by household slices | quarterly U.S. credit panel |
 | **New York Fed SCE** | inflation, labor, credit access, and expected delinquency signals | monthly U.S. household expectations survey |
+| **CFPB Consumer Credit Trends** | consumer credit flow by product/risk group and geography | monthly U.S. dashboard updates |
 | **CFPB Making Ends Meet** | direct household stress and bill-payment strain indicators | annual survey reports with data files |
 | **BEA Personal Income and Outlays** | income, consumption, and personal saving path | monthly U.S. national accounts release |
+| **BEA Distribution of Personal Income** | distributional disposable income and inequality decomposition | annual distributional national-accounts release |
 | **BLS CPI + CEX** | inflation pressure and household spending structure | monthly CPI and annual spending detail |
 | **FHFA House Price Index** | housing wealth regime and regional price dynamics | monthly/quarterly U.S. house-price indices |
+| **BIS Debt Service Ratios (DSR)** | cross-country debt-burden and early-warning leverage context | quarterly international debt-service statistics |
 | **U.S. Census wealth tables (SIPP)** | household wealth and debt distribution in public-use tables | annual SIPP-based wealth publication |
+| **U.S. Census CPS income/inequality tables** | household, family, and person income distribution baselines | annual CPS ASEC update cycle |
+| **IRS SOI Publication 1304** | AGI and tax-share distribution cross-check from filed returns | annual individual return statistics report |
 | **WID + WIID + OECD IDD/WDD** | cross-country inequality and distribution comparisons | global inequality and OECD harmonized datasets |
 | **World Bank CWON + PIP + Findex + IDS** | comprehensive wealth, poverty, inclusion, and debt context | global development and debt datasets |
-| **IMF WEO + GDD + BIS data portal** | macro regime, debt cycle, and cross-country financial benchmarks | global macro-financial references |
+| **IMF WEO + GDD + BIS data portal + ECB CES** | macro regime, debt cycle, and expectations-sensitive cross-country benchmarks | global macro-financial and expectations references |
 | **SEC EDGAR API docs + FRED/ALFRED** | reproducible filings ingestion and revision-aware macro pulls | API docs plus vintage-aware archive layer |
 | **FRASER historical archive** | primary-source monetary and financial history documents | long-run policy and publication archive |
 
@@ -498,17 +526,20 @@ This is a curated starter map, not an exhaustive library.
 Primary web references used for this guide were checked on **2026-04-05** and include:
 
 - Federal Reserve releases: H.6, Z.1, DFA, EFA, SCF, and DSR/FOR
+- Federal Reserve surveys: SLOOS and SHED
 - Federal Reserve Bank of New York: Household Debt and Credit report, Survey of Consumer Expectations
-- U.S. BEA: Personal Income and Outlays
+- U.S. BEA: Personal Income and Outlays, Distribution of Personal Income
 - U.S. BLS: CPI and Consumer Expenditure Surveys
-- U.S. Census: Wealth and Asset Ownership tables (SIPP) and P70BR-211 brief
+- U.S. Census: Wealth and Asset Ownership tables (SIPP), CPS income/inequality tables, and P70BR-211 brief
 - U.S. FHFA: House Price Index datasets
+- IRS SOI Publication 1304 and IRS Data Book
 - Bank of England, "Money creation in the modern economy"
 - IMF: WEO and Global Debt Database
-- BIS Data Portal
+- BIS Data Portal and Debt Service Ratios (DSR)
+- ECB Consumer Expectations Survey (CES)
 - World Bank: The Changing Wealth of Nations 2024, Global Findex, PIP, IDS
 - WID.world, WIID, and OECD IDD/WDD
-- CFPB: Making Ends Meet survey data and "Your Money, Your Goals"
+- CFPB: Consumer Credit Trends, Making Ends Meet survey data, and "Your Money, Your Goals"
 - SEC: EDGAR API documentation
 - St. Louis Fed: FRED API docs, ALFRED, and FRASER archive
 - Yale/Coursera, "Financial Markets"
