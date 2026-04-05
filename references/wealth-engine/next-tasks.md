@@ -1,99 +1,114 @@
 # Next tasks
 
-Updated: 2026-04-05 (cycle_003 round_08 translation_and_catalog)
+Updated: 2026-04-05 (cycle_003 round_10 review_and_next_tasks)
 
 Measured review anchors (from this round):
-- `references/wealth-engine/knowledge/` still misses 7 planned artifacts.
-- `tools/` still misses the site consistency checker script.
-- `investment/wealth-from-first-principles.md` sections 3, 5, and 8 each currently have `0` URL citation lines.
-- Research/viewer localization drift remains high: `ja`, `ko`, `vi`, `ar`, `fr`, `es` are `24/24` English-equal keys; `zh-Hans` and `zh-Hant` are `20/24`.
-- No dedicated lead-lag matrix artifact exists yet for timing-sensitive questions (`U7`, `U9`).
-- README language messaging is ambiguous between runtime UI packs and translated README files.
-- Viewer alias support is now implemented, but accepted alias routes are not documented for maintainers/readers.
+- `references/wealth-engine/knowledge/` currently misses 8 planned artifacts:
+  - `knowledge/core-series-watchlist.md`
+  - `knowledge/household-balance-sheet-bundle.md`
+  - `knowledge/citation-map.tsv`
+  - `knowledge/question-evidence-gates.md`
+  - `knowledge/household-stress-watchlist.md`
+  - `knowledge/signal-lead-lag-matrix.md`
+  - `knowledge/distinction-cards.md`
+  - `knowledge/daily-prompts.md`
+- Site consistency checker is still missing: `tools/validate-site-content.sh` or `tools/validate-site-content.js`.
+- Claim-level citation density in `investment/wealth-from-first-principles.md` remains weak in key sections:
+  - `section_3_url_lines = 0`
+  - `section_5_url_lines = 0`
+  - `section_8_url_lines = 0`
+- Research/viewer localization drift (`research.*` + `viewer.backToResearch`, equal-to-English counts):
+  - `zh-Hant = 18/24`
+  - `zh-Hans = 18/24`
+  - `ja = 24/24`
+  - `ko = 24/24`
+  - `vi = 24/24`
+  - `ar = 24/24`
+  - `fr = 24/24`
+  - `es = 24/24`
+- Build warning baseline from cycle_003 round_09 (`wealth-from-first-principles`):
+  - `microtype warnings = 1`
+  - `overfull_hbox = 1`
+  - `underfull_hbox = 60`
+  - `underfull_vbox = 1`
+- Language-scope messaging remains mismatched: runtime UI locales in `docs/translations.json` are `9`, while translated README variants under `i18n/` are `10`.
+- Viewer alias support now exists in `docs/script.js`, but alias routes are not documented in `README.md`.
 
-## Priority 0 - Execute now (in order)
+## Priority 0 - Highest-value sequence (execute in order)
 
 1. Build `references/wealth-engine/knowledge/core-series-watchlist.md` for Tier 1 `M1`, `O2`, `L1`.
-Output schema: `question_id`, `series_name`, `series_id_or_table`, `source`, `frequency`, `unit`, `note`.
-Done when: at least 9 rows (>=3 per question) with direct official release/table links.
+Done when: at least 9 rows (>=3 per question) with `question_id`, `series_name`, `series_id_or_table`, `source`, `frequency`, `unit`, `note`, and direct official release/table links.
 
-2. Create `references/wealth-engine/knowledge/citation-map.tsv` mapping book claims to sources.
-Output columns: `book_section`, `claim_snippet`, `question_id`, `source_family`, `last_checked_date`.
-Done when: sections 3, 5, and 8 each have mapped rows tied to official source families.
+2. Create `references/wealth-engine/knowledge/citation-map.tsv` for sections 3, 5, and 8 of the markdown book.
+Done when: each target section has mapped rows with `book_section`, `claim_snippet`, `question_id`, `source_family`, `last_checked_date`.
 
-3. Add inline citations to `investment/wealth-from-first-principles.md` for sections 3, 5, and 8.
-Output: source-sensitive claims with nearby links/citation markers.
-Done when: each of sections 3/5/8 includes at least 3 official-source anchors and no high-impact claim is uncited.
+3. Add inline citations to `investment/wealth-from-first-principles.md` sections 3, 5, and 8.
+Done when: each section has at least 3 official-source anchors and no high-impact claim in those sections is uncited.
 
 4. Mirror the same citation set into `investment_pdfs/wealth-from-first-principles/wealth-from-first-principles.tex` and rebuild.
-Output: TeX citations aligned to markdown claims, plus two-pass XeLaTeX build and PDF copy to both sync targets.
-Done when: markdown and TeX cite the same source families for edited claims and build succeeds.
+Done when: markdown/TeX citation families match, two-pass XeLaTeX succeeds, and synced PDF copies are updated in both required targets.
 
-5. Add a consistency checker script at `tools/validate-site-content.sh` (or `.js`).
-Checks required: catalog slug parity (`index.html` vs `script.js`), mapped PDF existence under `docs/investment_pdfs/`, and research/viewer key coverage per locale.
-Done when: script exits non-zero on any mismatch and prints actionable failure lines.
+5. Add site consistency checker script (`tools/validate-site-content.js` preferred).
+Required checks:
+- card/viewer slug parity (`docs/index.html` vs `docs/script.js`),
+- alias collision detection and canonical resolution sanity,
+- `pdfEntries` file existence under `docs/investment_pdfs/`,
+- scoped localization drift report for `research.*` and `viewer.backToResearch`.
+Done when: script returns non-zero on mismatch and emits actionable failure lines.
+
+6. Clarify language coverage in `README.md` with explicit scope split.
+Done when: README states exact counts and meaning for runtime locales (`docs/translations.json`) versus translated README variants (`i18n/README.*.md`).
+
+7. Document canonical and alias research viewer slugs in `README.md`.
+Done when: one slug table covers canonical slugs and accepted alias variants for:
+- `wealth-from-first-principles`
+- `high-growth`
+- `financial-freedom`
+- `financial-freedom-zh`
+
+8. Resolve viewer duplication policy between `docs/pdf-viewer.html` and `docs/research-viewer.html`.
+Done when: one canonical route model is documented in README and reflected in `docs/index.html` links and `docs/script.js` comments.
 
 ## Priority 1 - Evidence products and decision layer
 
-6. Create `references/wealth-engine/knowledge/question-evidence-gates.md`.
-Coverage: `M1`, `O2`, `L1`, `I1`, `R1`.
-Done when: each row has `minimum_evidence`, `falsifier`, `must_not_conflate`, `status`, `decision_use`, `next_pull`.
+9. Create `references/wealth-engine/knowledge/question-evidence-gates.md` for `M1`, `O2`, `L1`, `I1`, `R1`.
+Done when: each row includes `minimum_evidence`, `falsifier`, `must_not_conflate`, `status`, `decision_use`, `next_pull`.
 
-7. Create `references/wealth-engine/knowledge/household-stress-watchlist.md`.
-Signal mix: expectations, burden, lending standards, consumer-credit flow, and delinquency transitions.
-Done when: at least 8 signals with `signal`, `source`, `series_or_table`, `frequency`, `lead_or_lag`, `risk_read`, including at least one signal each from SLOOS, CFPB Consumer Credit Trends, BIS DSR, and NY Fed household credit.
+10. Create `references/wealth-engine/knowledge/signal-lead-lag-matrix.md` for `U7` and `U9`.
+Done when: each question has >=3 candidate signals and includes one rejected weak signal plus one accepted action rule.
 
-8. Draft three mini-memos in `references/wealth-engine/knowledge/memos/` for `M1`, `O2`, `L1`.
-Done when: each memo includes one explicit claim, one caveat, and one decision implication.
+11. Create `references/wealth-engine/knowledge/household-stress-watchlist.md`.
+Done when: at least 8 signals with `signal`, `source`, `series_or_table`, `frequency`, `lead_or_lag`, `risk_read`, including SLOOS, CFPB Consumer Credit Trends, BIS DSR, and NY Fed household credit coverage.
 
-9. Build `references/wealth-engine/knowledge/household-balance-sheet-bundle.md`.
-Scope: NY Fed CCP, Fed EFA, Census SIPP, FHFA HPI, BLS CPI.
+12. Create `references/wealth-engine/knowledge/credit-conditions-watchlist.md`.
+Done when: at least 6 transmission-focused signals with `signal`, `source`, `series_or_table`, `frequency`, `transmission_link`, and one-line interpretation rules.
+
+13. Draft three mini-memos in `references/wealth-engine/knowledge/memos/` for `M1`, `O2`, `L1`.
+Done when: each memo has one explicit claim, one caveat, and one decision implication.
+
+14. Build `references/wealth-engine/knowledge/household-balance-sheet-bundle.md`.
 Done when: variable dictionary, harmonization notes, and one reproducible alignment example are present.
 
-10. Extend `references/wealth-engine/knowledge/source-ledger.tsv` schema.
+15. Extend `references/wealth-engine/knowledge/source-ledger.tsv` schema.
 Columns to add: `source_type`, `update_cadence`, `last_verified_on`.
-Done when: all existing rows are migrated and tab-separated parsing remains clean.
+Done when: all rows are migrated cleanly and TSV parsing remains valid.
 
-## Priority 2 - Surface coherence and quality hardening
+## Priority 2 - Localization and polishing
 
-11. Resolve viewer duplication between `docs/pdf-viewer.html` and `docs/research-viewer.html`.
-Decision required: canonical viewer route and policy for legacy page.
-Done when: README, `docs/index.html`, and inline comments/documentation describe one canonical model.
-
-12. Localize research/viewer keys in `docs/translations.json` for `ja`, `ko`, `vi`, `ar`, `fr`, `es`.
+16. Localize research/viewer keys in `docs/translations.json` for `ja`, `ko`, `vi`, `ar`, `fr`, `es`.
 Scope: `research.*` and `viewer.backToResearch`.
-Done when: those locales are no longer `24/24` English-equal for the scoped keys.
+Done when: these locales are no longer `24/24` English-equal for the scoped keys.
 
-13. Sync wealth-refinery sections from `README.md` into `i18n/README.*.md`.
-Scope: mission loop, methods signals (`QE-5`, `HS-8`), and research vault routing.
-Done when: each language file includes equivalent sections and live paths.
+17. Sync wealth-refinery sections from `README.md` into `i18n/README.*.md`.
+Scope: mission loop, methods (`QE-5`, `HS-8`, `LL-6`), and research vault routing.
+Done when: each language README includes equivalent sections and current live paths.
 
-14. Promote the 14-day prompt pack into `references/wealth-engine/knowledge/daily-prompts.md`.
+18. Promote the 14-day prompt pack into `references/wealth-engine/knowledge/daily-prompts.md`.
 Done when: all 14 prompts include explicit `question_id` mapping.
 
-15. Create `references/wealth-engine/knowledge/distinction-cards.md`.
+19. Create `references/wealth-engine/knowledge/distinction-cards.md`.
 Done when: at least 15 cards with `Distinction`, `Common confusion`, `Quick test question`, and `Example`.
 
-16. Reduce remaining TeX warnings in `wealth-from-first-principles.tex`, including the recurring `microtype` footnote warning.
-Done when: overfull warnings are removed or reduced materially, underfull warnings in key table blocks are reduced, and the `microtype` warning is fixed or explicitly documented in source comments.
-
-17. Create `references/wealth-engine/knowledge/credit-conditions-watchlist.md` as a focused transmission dashboard.
-Core sources: Fed SLOOS, CFPB Consumer Credit Trends, BIS DSR, ECB CES.
-Done when: at least 6 signals are mapped with `signal`, `source`, `series_or_table`, `frequency`, `transmission_link`, and a one-line interpretation rule.
-
-18. Extend `references/wealth-engine/knowledge/question-evidence-gates.md` with cycle_003 unanswered set (`U7`, `U8`, `U9`, `U10`) after Tier 1 rows are complete.
-Done when: each new row includes a falsifier, one explicit lead-lag check, and a decision-use sentence linked to leverage or allocation behavior.
-
-19. Tune typesetting for mirrored section `9.4` and the expanded `Official data and references` table in TeX.
-Done when: at least 5 warning lines linked to the new section/table blocks are removed while preserving content parity with markdown.
-
-20. Create `references/wealth-engine/knowledge/signal-lead-lag-matrix.md` for cycle_003 timing questions.
-Coverage: `U7` and `U9` first, with at least three candidate signals each.
-Done when: each row includes `target_outcome`, `tested_lag_window`, `observed_lead_periods`, one rejected weak signal, and one accepted action rule.
-
-21. Clarify language coverage in `README.md` by separating runtime UI locales from translated README variants.
-Done when: badge text and adjacent copy state exact counts and scopes for both runtime (`docs/translations.json`) and document-level (`i18n/README.*.md`) language coverage.
-
-22. Document research viewer slug aliases in `README.md` (and optionally inline code comments in `docs/script.js`).
-Scope: `wealth-from-first-principles`, `high-growth`, `financial-freedom`, `financial-freedom-zh` plus supported alias variants.
-Done when: one canonical slug table and alias notes are published so inbound-link troubleshooting no longer depends on reading JS source.
+20. Reduce TeX warning profile in `investment_pdfs/wealth-from-first-principles/wealth-from-first-principles.tex`.
+Baseline to beat: `microtype=1`, `overfull_hbox=1`, `underfull_hbox=60`, `underfull_vbox=1`.
+Done when: at least 5 warning lines are removed (priority on section `9.4` and `Official data and references` table blocks) without content-loss versus markdown.
