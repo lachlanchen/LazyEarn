@@ -1,7 +1,57 @@
 # Resource Map
 
 Updated: 2026-04-05  
-Round seed: cycle_011 / round_01_resource_scan
+Round seed: cycle_012 / round_01_resource_scan
+
+## Cycle 012 additions: macro cycles, sovereign-debt risk, inequality lenses, and production constraints
+- IMF World Economic Outlook Update, January 2026: Global Economy: Steady amid Divergent Forces  
+  https://www.imf.org/en/publications/weo/issues/2026/01/19/world-economic-outlook-update-january-2026  
+  Why keep: official post-crisis macro outlook with dated projections, downloadable full report, and press materials useful for chapter 3 and forward-looking risk framing.
+- IMF Fiscal Monitor, April 2025 (PDF)  
+  https://www.imf.org/-/media/Files/Publications/fiscal-monitor/2025/April/English/text.ashx  
+  Why keep: official long-form fiscal framework with debt, revenue, and policy-risk sections aligned with wealth/inequality and long-term fiscal constraint arguments.
+- IMF Fiscal Monitor, April 2026 (press briefing page)  
+  https://www.imf.org/en/publications/fm/issues/2026/04/15/fiscal-monitor-april-2026  
+  Why keep: gives official release cadence and event context for fiscal risk tracking and upcoming IMF baseline assumptions in the sovereign-finance chapter.
+- World Economic Outlook (January 2026 Update) data/technical notes  
+  https://www.imf.org/en/publications/weo/weo-database/changes  
+  Why keep: captures WEO methodology and database changes, useful for improving source notes where macro forecast assumptions directly feed wealth/income claims.
+- BIS Quarterly Review, March 2026  
+  https://www.bis.org/publ/qtrpdf/r_qt2603.htm  
+  Why keep: up-to-date BIS macro-financial analysis in late-cycle conditions; directly relevant to leverage, liquidity, and transmission pathways.
+- UNCTAD External debt sustainability and development (2025)  
+  https://unctad.org/publication/external-debt-sustainability-and-development-2025  
+  Why keep: official public-debt and debt-service trends (2024–2025), valuable for chapter 6 sovereign constraints and real-economy crowding effects.
+- UNCTAD World of Debt 2025: It is time for reform  
+  https://unctad.org/system/files/official-document/osgttinf2025d4_en.pdf  
+  Why keep: long-form debt burden analysis and updated debt/GDP comparators for developing-country constraint channels.
+- UNCTAD World Investment Report 2025 launch statement  
+  https://unctad.org/osgstatement/launch-world-investment-report-2025  
+  Why keep: official framing around productive FDI weakness versus volatile financial flows, useful for ownership and long-horizon wealth-path sections.
+- OECD Income and Wealth Distribution Databases (IDD update policy note)  
+  https://www.oecd.org/social/income-distribution-database.htm  
+  Why keep: official multi-country inequality dataset with 2024/2025 update cadence, useful for section 5 and durable-wealth concentration discussion.
+- OECD Distribution of household wealth in line with national accounts (2026 working paper)  
+  https://www.oecd.org/content/dam/oecd/en/publications/reports/2025/12/distribution-of-household-wealth-in-line-with-national-accounts_ec97b58e/65d3d98c-en.pdf  
+  Why keep: provides a modern methodological bridge between micro wealth data and macro national accounts (2026 edition), strengthening mechanism-based inequality claims.
+- World Inequality Report 2026 download and teaching resources  
+  https://wir2026.wid.world/download/  
+  Why keep: primary 2026 inequality flagship entry point with downloadable full report and chapter materials for chapter-level historical and policy context.
+- IEA World Energy Outlook 2025  
+  https://www.iea.org/reports/world-energy-outlook-2025  
+  Why keep: official long-form production/energy-constraint source that supports real-world throughput arguments and monetary/financial transmission sections.
+- IEA Oil Market Report March 2026 (with demand forecast revisions)  
+  https://www.iea.org/reports/oil-market-report-march-2026  
+  Why keep: supply-disruption case study for physical constraints, inflation pass-through, and policy response timing.
+- Federal Reserve History: Federal Reserve Act Signed into Law  
+  https://www.federalreservehistory.org/essays/federal-reserve-act-signed  
+  Why keep: official institutional-history anchor for central-bank origin, mandate evolution, and ownership structure of money.
+- Federal Reserve Board / Bernanke lecture archive (Lecture 1)  
+  https://www.federalreserve.gov/newsevents/files/bernanke-lecture-one-20120320.pdf  
+  Why keep: official long-form lecture on Fed role, the Great Depression, and monetary policy; useful for richer historical episodes and mechanics.
+- Federal Reserve History archive: Reserve Bank Organization Committee (1914)  
+  https://www.federalreservehistory.org/-/media/Project/FedHistory/FedHistory/Documents/essaysPDFs/Reserve-Bank-Organization-Committee-_-Federal-Reserve-History.pdf  
+  Why keep: primary archival material on district design, governance architecture, and infrastructure decisions for money transmission.
 
 ## Cycle 011 additions: monetary history, institutional design, behavior, and constraint planning
 - Federal Reserve Board - Transcripts and other historical materials  

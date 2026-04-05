@@ -1,6 +1,15 @@
 # Next tasks
 
-Updated: 2026-04-05 (cycle_011 round_10 review_and_next_tasks)
+Updated: 2026-04-05 (cycle_012 round_01 resource_scan)
+
+## Cycle 012 immediate follow-up
+
+1. Create first-pass historical/evidence rows from the cycle_012 debt and institutional sources:
+   - `references/wealth-engine/knowledge/historical-case-ledger.md`: add entries for IMF Fiscal Monitor sequencing, UNCTAD debt reports, and the 1973-74 oil-shock-era constraint lens.
+   - add explicit mechanism, actor, and decision-use notes for `IMF Fiscal Monitor`, `UNCTAD debt reports`, and `BIS Quarterly Review March 2026`.
+2. Map the new IMF/UNCTAD/IEA cycle_012 entries into a watchlist artifact (`knowledge/core-series-watchlist.md`) so sovereign risk and real-capacity questions gain explicit source cadence and revision context.
+3. Add an explicit "constraint-first lens" research note in the book pipeline for next writing round, seeded by `IEA WEO 2025` and `IEA Oil Market Report March 2026`.
+4. Continue source-ledger hardening by adding `source_type`, `update_cadence`, and `last_verified_on` for newly added cycle_012 rows in a constrained migration pass.
 
 Measured review anchors (from this round):
 - `references/wealth-engine/knowledge/` currently misses 9 planned artifacts:
