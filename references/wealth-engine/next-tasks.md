@@ -11,6 +11,9 @@ Updated: 2026-04-05 (cycle_012 round_06 readme_sync)
    - port the U53-U57 table to `wealth-from-first-principles.tex`,
    - and include the new IMF/UNCTAD/IEA rows in the LaTeX official references block.
 2. In the next build round, run PDF verification and confirm the new 9.11 section and tables render with clear line breaks and stable heading markers.
+2a. After this round 9 build pass, reduce `wealth-from-first-principles.tex` typography noise before further structural edits:
+   - target warning profile: `Overfull hbox <= 4`, `Underfull hbox <= 210`, `Underfull vbox <= 6`.
+   - reduce table/list line-breaking spikes around new section-9/wealth engine blocks.
 3. Add direct links (where useful) to the new Section 11.5 rows so official source provenance remains easy to trace from table row to source-note block.
 4. Confirm `git`-tracked `summary.md` and `typesetting-notes.md` for this book_tex round are populated and include warning/line-break follow-up actions.
 5. Execute the new `knowledge/debt-throughput-decision-map.md` pass using `CDL-6`:
