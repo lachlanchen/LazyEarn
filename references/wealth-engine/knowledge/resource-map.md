@@ -1,12 +1,32 @@
 # Resource Map
 
 Updated: 2026-04-05  
-Round seed: cycle_009 / round_01_resource_scan
+Round seed: cycle_010 / round_01_resource_scan
 
 ## Selection rules used in this scan
 - Prefer official or primary institutions with transparent methods.
 - Prefer sources with download/API access, not just commentary.
 - Capture freshness signals (release dates, update cadence, or version tags).
+
+## Cycle 010 additions: release-timing, credit-quality, production, and API rails
+- Federal Reserve Statistical Release Calendar  
+  https://www.federalreserve.gov/data/releaseschedule.htm  
+  Why keep: Board-level master schedule across releases with monthly drill-down links and a visible maintenance stamp (Last Update: February 26, 2026), useful for cadence-aware pull planning.
+- Federal Reserve Charge-Off and Delinquency Rates on Loans and Leases at Commercial Banks  
+  https://www.federalreserve.gov/releases/chargeoff/  
+  Why keep: primary U.S. bank credit-quality rail with SA/NSA slices and explicit definitions for charge-offs and delinquency status; page shows Last update: February 24, 2026.
+- Federal Reserve Industrial Production and Capacity Utilization (G.17)  
+  https://www.federalreserve.gov/releases/g17/  
+  Why keep: core production/capacity utilization release with published 2026 release dates and release-time rules (monthly 9:15 a.m.; annual revision at noon), strengthening real-economy constraint tracking.
+- IMF Financial Soundness Indicators (FSIC)  
+  https://data.imf.org/Datasets/FSIC  
+  Why keep: official macroprudential indicator dataset spanning core/additional FSIs with direct API and metadata access, useful for cross-country banking-system fragility checks.
+- IRS SOI Individual Public-Use Microdata Files  
+  https://www.irs.gov/statistics/soi-tax-stats-individual-public-use-microdata-files  
+  Why keep: official tax-return microdata access page (currently listing Tax Years 2012-2015) with a recent maintenance stamp (Page Last Reviewed or Updated: 17-Mar-2026), useful for distributional/tax-incidence modeling extensions.
+- OECD data via API explainer  
+  https://www.oecd.org/en/data/insights/data-explainers/2024/09/api.html  
+  Why keep: official OECD Data Explorer API documentation (dated 30 April 2025) with SDMX query structure, rate-limit guidance, and Python/R examples for reproducible cross-country pulls.
 
 ## Cycle 009 additions: machine-readable Fed rails and household microdata
 - Federal Reserve Data Download Program (DDP) home  

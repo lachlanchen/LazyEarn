@@ -1,6 +1,6 @@
 # Next tasks
 
-Updated: 2026-04-05 (cycle_009 round_10 review_and_next_tasks)
+Updated: 2026-04-05 (cycle_010 round_01 resource_scan)
 
 Measured review anchors (from this round):
 - `references/wealth-engine/knowledge/` currently misses 8 planned artifacts:
@@ -61,6 +61,9 @@ Measured review anchors (from this round):
   - both `docs/pdf-viewer.html` and `docs/research-viewer.html` exist, while current CTAs route to `pdf-viewer.html`.
 - Research card/panel catalog surfaces are intentionally asymmetric:
   - `docs/index.html` has 3 card slugs, while `docs/script.js` has 4 canonical `pdfEntries` (extra: `financial-freedom-zh` route-only panel).
+- Cycle_010 resource scan added six official rails:
+  - Fed Statistical Release Calendar, Fed Charge-Off/Delinquency release, Fed G.17 release, IMF FSIC dataset, IRS SOI individual PUF page, and OECD Data Explorer API explainer.
+  - immediate follow-up: use these rails to seed first-pass rows in `core-series-watchlist.md`, `question-evidence-gates.md`, and `credit-access-and-burden-bridge.md`.
 
 ## Cycle 010 launch queue (highest value, concrete)
 
@@ -68,7 +71,7 @@ Measured review anchors (from this round):
 Done when: one command validates index-card vs catalog slug parity, alias collisions, docs PDF existence, mirror hash parity, and section `9.8` marker presence in both PDF targets; it exits non-zero on mismatch.
 
 2. Create first-pass foundational artifacts: `knowledge/core-series-watchlist.md`, `knowledge/question-evidence-gates.md`, and `knowledge/credit-access-and-burden-bridge.md`.
-Done when: each file exists with schema-complete starter rows for `M1/O2/L1` and `U36-U40`, and each row has one explicit `decision_use`.
+Done when: each file exists with schema-complete starter rows for `M1/O2/L1` and `U36-U40`, each row has one explicit `decision_use`, and at least one starter row cites one of the newly added cycle_010 rails (Fed Charge-Off/Delinquency, Fed G.17, IMF FSIC, IRS SOI PUF, or OECD API source guidance).
 
 3. Create `knowledge/citation-map.tsv` and execute citation lift in markdown sections 3, 5, and 8.
 Done when: section URL-line counts improve from `6/6/4` to at least `9/9/9`, with corresponding source-family mirrors in TeX.
