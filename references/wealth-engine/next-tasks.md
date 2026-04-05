@@ -1,6 +1,6 @@
 # Next tasks
 
-Updated: 2026-04-05 (cycle_008 round_05 side_products)
+Updated: 2026-04-05 (cycle_008 round_09 build_and_verify)
 
 Measured review anchors (from this round):
 - `references/wealth-engine/knowledge/` currently misses 7 planned artifacts:
@@ -26,10 +26,10 @@ Measured review anchors (from this round):
   - `ar = 31/31` (missing: `0`, equal-to-English: `26`)
   - `fr = 31/31` (missing: `0`, equal-to-English: `26`)
   - `es = 31/31` (missing: `0`, equal-to-English: `26`)
-- Build warning baseline from cycle_007 round_09 (`wealth-from-first-principles`):
+- Build warning baseline from cycle_008 round_09 (`wealth-from-first-principles`):
   - `microtype warnings = 1`
-  - `overfull_hbox = 3`
-  - `underfull_hbox = 120`
+  - `overfull_hbox = 4`
+  - `underfull_hbox = 136`
   - `underfull_vbox = 5`
 - Source-ledger schema is still pre-migration:
   - header is `date, category, title, url, note` (missing planned fields `source_type`, `update_cadence`, `last_verified_on`)
@@ -51,7 +51,7 @@ Done when: both files exist with schema-complete starter rows for `M1`, `O2`, an
 Done when: mapped citation rows exist for all three sections and each target section reaches at least 9 URL-bearing lines in markdown with matching source families mirrored to TeX.
 
 4. Run one TeX warning-reduction pass focused on table-heavy blocks (`9.6` and source tables).
-Done when: warning counts improve versus current baseline (`overfull_hbox=3`, `underfull_hbox=120`, `underfull_vbox=5`) without dropping substantive content.
+Done when: warning counts improve versus current baseline (`overfull_hbox=4`, `underfull_hbox=136`, `underfull_vbox=5`) without dropping substantive content.
 
 5. Run native-review localization pass for `ja`, `ko`, `vi`, `ar`, `fr`, and `es` in the 31-key `research.*` + `viewer.backToResearch` scope.
 Done when: all six locales keep `missing=0` and reduce `equal-to-English` counts below 26 while preserving slug/code tokens, including cycle_008 wording for `research.point6`, `research.asset1Desc`, and `research.asset1Route`.
@@ -234,7 +234,7 @@ Done when: one 14-day pass is executed and at least 10 daily entries include `so
 Done when: at least 15 cards with `Distinction`, `Common confusion`, `Quick test question`, and `Example`.
 
 20. Reduce TeX warning profile in `investment_pdfs/wealth-from-first-principles/wealth-from-first-principles.tex`.
-Baseline to beat: `microtype=1`, `overfull_hbox=3`, `underfull_hbox=120`, `underfull_vbox=5`.
+Baseline to beat: `microtype=1`, `overfull_hbox=4`, `underfull_hbox=136`, `underfull_vbox=5`.
 Done when: at least 8 warning lines are removed (priority on `Channel map` and `Official data and references` table blocks) without content loss versus markdown.
 
 ## Priority 1.5 - Credit data integration follow-up
