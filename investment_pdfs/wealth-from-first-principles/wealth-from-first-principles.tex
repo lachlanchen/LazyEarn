@@ -1,0 +1,512 @@
+\documentclass[11pt,openany]{book}
+
+\usepackage{fontspec}
+\usepackage{geometry}
+\geometry{paper=a4paper, margin=1in}
+\usepackage{xcolor}
+\usepackage{graphicx}
+\usepackage{booktabs}
+\usepackage{tabularx}
+\usepackage{array}
+\usepackage{longtable}
+\usepackage{enumitem}
+\usepackage{hyperref}
+\usepackage{xurl}
+\usepackage{titlesec}
+\usepackage{fancyhdr}
+\usepackage{microtype}
+\usepackage{setspace}
+\usepackage[most]{tcolorbox}
+
+\setmainfont{TeX Gyre Pagella}
+\setsansfont{TeX Gyre Heros}
+\setmonofont{DejaVu Sans Mono}
+\setstretch{1.08}
+
+\definecolor{ink}{HTML}{14213D}
+\definecolor{gold}{HTML}{B98A2F}
+\definecolor{paper}{HTML}{FBF8F1}
+\definecolor{mist}{HTML}{E8EEF5}
+\definecolor{signal}{HTML}{F4E8C8}
+\definecolor{line}{HTML}{D7D1C3}
+
+\hypersetup{
+  colorlinks=true,
+  linkcolor=ink,
+  urlcolor=ink,
+  pdftitle={Wealth From First Principles},
+  pdfauthor={LayzingArt}
+}
+
+\titleformat{\chapter}[display]
+  {\normalfont\sffamily\bfseries\Huge\color{ink}}
+  {\filleft\Large\color{gold}\thechapter}
+  {1ex}
+  {\titlerule[1pt]\vspace{1ex}\filright}
+
+\titleformat{\section}
+  {\normalfont\sffamily\bfseries\Large\color{ink}}
+  {\thesection}
+  {0.75em}
+  {}
+
+\pagestyle{fancy}
+\fancyhf{}
+\fancyhead[LE,RO]{\sffamily\small\thepage}
+\fancyhead[RE]{\sffamily\small Wealth From First Principles}
+\fancyhead[LO]{\sffamily\small LayzingArt}
+\setlength{\headheight}{14pt}
+
+\setlist[itemize]{leftmargin=1.4em}
+\setlist[enumerate]{leftmargin=1.6em}
+\setlength{\parindent}{0pt}
+\setlength{\parskip}{0.75em}
+
+\newtcolorbox{signalbox}{
+  colback=signal,
+  colframe=gold,
+  boxrule=0.6pt,
+  arc=2pt,
+  left=10pt,
+  right=10pt,
+  top=8pt,
+  bottom=8pt
+}
+
+\newtcolorbox{notebox}{
+  colback=mist,
+  colframe=ink,
+  boxrule=0.6pt,
+  arc=2pt,
+  left=10pt,
+  right=10pt,
+  top=8pt,
+  bottom=8pt
+}
+
+\begin{document}
+\frontmatter
+
+\begin{titlepage}
+\pagecolor{paper}
+\color{ink}
+\vspace*{2.8cm}
+{\sffamily\Huge\bfseries Wealth From First Principles\par}
+\vspace{0.4cm}
+{\Large A practical field guide to money, value, ownership, and financial independence\par}
+\vspace{1.4cm}
+\begin{signalbox}
+\textbf{Core thesis}\par
+Money is a claim on resources. Wealth is durable control over assets, cash flow, capabilities, and time. Most lasting wealth comes from ownership, compounding, and staying in the game long enough for good decisions to matter.
+\end{signalbox}
+\vfill
+{\large LayzingArt\par}
+{\large April 2026\par}
+\end{titlepage}
+\nopagecolor
+
+\tableofcontents
+
+\mainmatter
+
+\chapter{The shortest useful answers}
+
+This book is organized around a cluster of recurring questions:
+
+\begin{itemize}
+  \item What is money?
+  \item Where does it come from?
+  \item What is wealth?
+  \item Who can build it?
+  \item Why do some people build more of it than others?
+  \item What methods actually work in practice?
+\end{itemize}
+
+\begin{center}
+\begin{tabularx}{\textwidth}{>{\raggedright\arraybackslash}p{0.29\textwidth}X}
+\toprule
+\textbf{Question} & \textbf{Working answer} \\
+\midrule
+What is money? & A shared accounting and settlement tool used to price things, exchange claims, and move purchasing power through time. \\
+Where does money come from? & At the system level, mostly from bank lending, central bank liabilities, government spending, and external flows. At the personal level, from labor, business revenue, investment income, transfers, and asset sales. \\
+What is wealth? & Assets minus liabilities, plus the practical ability of those assets and capabilities to keep producing value later. \\
+Who can build wealth? & Many people can improve their position, but not from identical starting points and not with identical strategies. \\
+Why do some people get richer faster? & They combine ownership, skill, leverage, compounding time, institutional support, and luck. \\
+\bottomrule
+\end{tabularx}
+\end{center}
+
+\begin{signalbox}
+\textbf{A sentence worth remembering}\par
+Money is a flow tool. Wealth is a stock of productive claims.
+\end{signalbox}
+
+\chapter{What money is}
+
+Money is easy to use and surprisingly hard to define cleanly. The practical definition is better than the metaphysical one: money is whatever a society widely accepts for pricing, payment, settlement, and the storage of near-term purchasing power.
+
+\section{The three classic functions}
+
+\begin{enumerate}
+  \item \textbf{Unit of account}. Wages, rents, profits, taxes, and debts are stated in money.
+  \item \textbf{Medium of exchange}. Money removes the need for barter.
+  \item \textbf{Store of value}. Money lets people move purchasing power over time, though inflation weakens this function.
+\end{enumerate}
+
+In ordinary life, the money people use most is not paper currency. It is bank deposits. This is why public debates about money often go wrong: people imagine cash, while modern economies mainly transact with digitally recorded bank liabilities.
+
+\section{What money is not}
+
+Money is not the same thing as income, profit, capital, or wealth.
+
+\begin{itemize}
+  \item \textbf{Income} is what arrives over a period.
+  \item \textbf{Profit} is what remains after costs.
+  \item \textbf{Capital} is a productive asset base.
+  \item \textbf{Wealth} is accumulated net value and durable capability.
+\end{itemize}
+
+Someone can have large money inflows and little wealth if they retain no ownership and save none of the surplus. Another person can look modest on an income statement while quietly building substantial wealth through assets that keep compounding.
+
+\section{Why people accept money}
+
+People accept money because it sits inside a web of trust and enforcement:
+
+\begin{itemize}
+  \item taxes are due in it,
+  \item contracts are written in it,
+  \item banks and payment rails settle in it,
+  \item and everyone expects everyone else to accept it.
+\end{itemize}
+
+Money, then, is not only an object. It is also a legal and social arrangement.
+
+\chapter{Where money comes from}
+
+This question contains two different levels of analysis: the macro system and the household.
+
+\section{System-level creation}
+
+The Bank of England's explainer on money creation remains one of the clearest official public summaries of the modern process: most money in the economy is created by commercial banks when they make loans. That alone clears up a common misunderstanding. Banks do not simply lend out pre-existing piles of household deposits in a mechanical way. Lending creates deposits.
+
+\begin{notebox}
+\textbf{Operational distinction}\par
+\textbf{Money creation} is about the architecture of the monetary system.\par
+\textbf{Money earning} is about who captures value inside that system.
+\end{notebox}
+
+At the macro level, the main channels are:
+
+\begin{center}
+\begin{tabularx}{\textwidth}{>{\raggedright\arraybackslash}p{0.25\textwidth}X>{\raggedright\arraybackslash}p{0.22\textwidth}}
+\toprule
+\textbf{Channel} & \textbf{Mechanism} & \textbf{Practical implication} \\
+\midrule
+Commercial bank lending & New loans create new deposits. & Broad money expands when credit expands. \\
+Central bank liabilities & The central bank issues reserves and currency. & This anchors settlement, liquidity, and monetary policy. \\
+Government spending and transfers & Public spending injects purchasing power into firms and households. & Public budgets shape demand, safety nets, and infrastructure. \\
+External inflows & Exports, remittances, and capital inflows add purchasing power. & Open economies can receive strong support from outside demand and capital. \\
+\bottomrule
+\end{tabularx}
+\end{center}
+
+\section{Household-level acquisition}
+
+At the personal level, money usually arrives through:
+
+\begin{itemize}
+  \item wages and salaries,
+  \item business revenue,
+  \item freelance or service income,
+  \item investment income,
+  \item asset sales,
+  \item public transfers,
+  \item gifts and inheritances,
+  \item and sometimes debt.
+\end{itemize}
+
+That list is useful because it forces a practical question: which channels are one-time, and which can become repeatable without requiring the same effort every time?
+
+\chapter{What wealth is}
+
+The accounting identity is simple:
+
+\begin{center}
+\fbox{\parbox{0.72\textwidth}{\centering \large \textbf{Wealth = Assets - Liabilities}}}
+\end{center}
+
+But life is more interesting than a single equation. Wealth is also the ability of your assets, skills, and systems to keep generating future options.
+
+\section{The six capitals view}
+
+\begin{center}
+\begin{tabularx}{\textwidth}{>{\raggedright\arraybackslash}p{0.23\textwidth}X X}
+\toprule
+\textbf{Capital type} & \textbf{Examples} & \textbf{Wealth effect} \\
+\midrule
+Financial capital & Cash, stocks, bonds, funds & Generates optionality, interest, dividends, liquidity. \\
+Human capital & Skills, health, judgment, reputation & Raises earning power and resilience. \\
+Business capital & Equity, customer relationships, retained earnings & Scales profits beyond a single worker's hours. \\
+Intellectual capital & Software, research, brand, process know-how & Makes high-margin repeatable output possible. \\
+Social capital & Trust, network quality, distribution access & Improves deal flow and lowers friction. \\
+Physical capital & Property, equipment, infrastructure & Supports rent, production, and durability. \\
+\bottomrule
+\end{tabularx}
+\end{center}
+
+The World Bank's \textit{Changing Wealth of Nations 2024} report is helpful here because it insists that wealth cannot be reduced to GDP. A country may grow output while depleting the underlying asset base that future growth depends on. The same is true for a household or a business. Revenue alone can hide depletion.
+
+\section{Income versus ownership}
+
+Labor income is necessary. Ownership income changes the slope of the curve.
+
+Workers are paid once for a unit of labor. Owners may get paid repeatedly from the same asset:
+
+\begin{itemize}
+  \item dividends from equity,
+  \item rent from property,
+  \item royalties from intellectual property,
+  \item subscription revenue from software,
+  \item licensing income from systems and templates.
+\end{itemize}
+
+This is one reason wealth inequality persists. The more income is tied to assets rather than hours, the easier it becomes to compound.
+
+\chapter{Why wealth is uneven}
+
+Any honest discussion of wealth has to hold two truths at once:
+
+\begin{itemize}
+  \item personal decisions matter,
+  \item and starting conditions matter.
+\end{itemize}
+
+\section{Structural differences}
+
+Large wealth gaps are shaped by:
+
+\begin{itemize}
+  \item family wealth and inheritance,
+  \item education quality,
+  \item health,
+  \item geography,
+  \item institutional stability,
+  \item discrimination,
+  \item access to credit,
+  \item and exposure to inflation, violence, or policy failure.
+\end{itemize}
+
+These are not excuses. They are real constraints that change what is feasible, how long the path takes, and how much risk a person can absorb.
+
+\section{Strategic differences}
+
+Even among people with similar beginnings, strong divergences emerge from:
+
+\begin{itemize}
+  \item savings rate,
+  \item skill scarcity,
+  \item ownership share,
+  \item concentration versus diversification,
+  \item time horizon,
+  \item decision quality under uncertainty,
+  \item and the ability to avoid ruin.
+\end{itemize}
+
+\section{Luck and path dependence}
+
+Luck matters more than people like to admit:
+
+\begin{itemize}
+  \item entering a rising industry,
+  \item finding an extraordinary mentor,
+  \item meeting a cofounder,
+  \item starting in the right city,
+  \item surviving a crisis that eliminates competitors.
+\end{itemize}
+
+The right conclusion is not fatalism. It is to build a process that benefits from good luck when it appears and survives bad luck when it arrives.
+
+\chapter{How wealth is built in practice}
+
+Wealth typically grows through a stack of five engines rather than a single trick.
+
+\section{Engine 1: increase earning power}
+
+For most people, the highest-return early move is increasing the value of their work. Rare skills, reliable execution, communication ability, sales ability, and domain judgment often beat portfolio optimization in the beginning.
+
+\section{Engine 2: create margin}
+
+If income rises while spending rises just as fast, wealth stalls. Margin is what lets a future exist. That usually means:
+
+\begin{itemize}
+  \item automating transfers,
+  \item keeping fixed costs sane,
+  \item avoiding chronic high-interest debt,
+  \item and making lifestyle inflation a choice rather than an instinct.
+\end{itemize}
+
+\section{Engine 3: buy productive assets}
+
+Durable wealth tends to come from ownership of productive assets such as diversified equity, profitable businesses, intellectual property, or cash-flowing property bought at disciplined prices.
+
+\section{Engine 4: use leverage carefully}
+
+Not all leverage is debt. In modern work, the most useful leverage is often:
+
+\begin{itemize}
+  \item code,
+  \item media,
+  \item audience,
+  \item systems,
+  \item and reusable products.
+\end{itemize}
+
+Financial leverage can help, but it punishes mistakes brutally. Informational, technical, and distribution leverage are often safer for builders than borrowed money.
+
+\section{Engine 5: stay in the game}
+
+Compounding only works if you avoid ruin. Insurance, diversification, liquidity buffers, and modest position sizing are not boring side notes. They are the conditions that allow compounding to survive.
+
+\begin{signalbox}
+\textbf{A practical formula}\par
+Wealth growth = (earning power x savings rate x years x compounding x ownership share) - ruin
+\end{signalbox}
+
+\chapter{Who can get wealth and what should they do first}
+
+Almost anyone can improve their financial condition. Not everyone should use the same strategy. A useful sequence is:
+
+\begin{center}
+\begin{tabularx}{\textwidth}{>{\raggedright\arraybackslash}p{0.17\textwidth}X X}
+\toprule
+\textbf{Stage} & \textbf{Goal} & \textbf{Best first move} \\
+\midrule
+Survival & Stop chaos and stabilize cash flow & Eliminate acute leaks, secure income, stop high-cost debt growth. \\
+Stability & Build slack & Emergency fund, bill automation, simple budget, insurance basics. \\
+Surplus & Create investable cash & Raise income, cut unhelpful recurring costs, automate savings. \\
+Ownership & Acquire productive assets & Buy diversified assets or build small owned products. \\
+Autonomy & Make work more optional & Increase recurring cash flow and improve system resilience. \\
+\bottomrule
+\end{tabularx}
+\end{center}
+
+The first goal is not status. It is margin. The second is ownership.
+
+\chapter{Can a thing get money?}
+
+Yes. A company, property, fund, or software product can receive cash flows because legal and economic systems assign rights to those structures.
+
+\begin{itemize}
+  \item A rental property receives rent.
+  \item A company receives revenue.
+  \item A software product receives subscriptions.
+  \item A fund receives dividends and interest from underlying holdings.
+\end{itemize}
+
+But assets do not enjoy the result. Owners, creditors, and beneficiaries ultimately capture the economic benefit. This is why the deepest practical wealth question is not only ``How do I make money?'' but ``What do I own that keeps producing after I stop pushing?''
+
+\chapter{A 90-day operating system}
+
+\section{Days 1-30: map reality}
+
+\begin{itemize}
+  \item Calculate net worth.
+  \item List every debt and interest rate.
+  \item Track spending for one month.
+  \item Build a one-page personal balance sheet.
+  \item Identify one skill with the highest probability of lifting income.
+\end{itemize}
+
+\section{Days 31-60: create margin}
+
+\begin{itemize}
+  \item Cut one recurring cost that adds little value.
+  \item Automate a transfer to savings or investment.
+  \item Reduce the highest-friction debt.
+  \item Build a starter emergency fund.
+  \item Launch one simple side-income offer.
+\end{itemize}
+
+\section{Days 61-90: buy or build assets}
+
+\begin{itemize}
+  \item Fund a diversified investment account.
+  \item Build one reusable digital asset: template, guide, calculator, lesson, or workflow.
+  \item Set a weekly review ritual.
+  \item Choose one long game and commit to it for a year.
+\end{itemize}
+
+\chapter{Resource map}
+
+\section{Books}
+
+\begin{longtable}{>{\raggedright\arraybackslash}p{0.28\textwidth}p{0.22\textwidth}p{0.38\textwidth}}
+\toprule
+\textbf{Book} & \textbf{Best for} & \textbf{Why it matters} \\
+\midrule
+\endhead
+\textit{The Psychology of Money} by Morgan Housel & behavior & A clear guide to how temperament shapes financial outcomes. \\
+\textit{The Intelligent Investor} by Benjamin Graham & investing discipline & Classic value-investing framework and defensive mindset. \\
+\textit{A Random Walk Down Wall Street} by Burton G. Malkiel & index investing & Strong baseline case for low-cost evidence-aware investing. \\
+\textit{I Will Teach You to Be Rich} by Ramit Sethi & cash-flow systems & Practical setup for accounts, automation, spending, and investing. \\
+\textit{The Millionaire Next Door} by Thomas J. Stanley and William D. Danko & lifestyle design & Useful reminder that quiet behavior often beats visible consumption. \\
+\textit{The Ascent of Money} by Niall Ferguson & financial history & Places modern finance inside a long historical arc. \\
+\textit{The Simple Path to Wealth} by J.L. Collins & simple accumulation & Clear, low-friction long-term compounding approach. \\
+\textit{Capital in the Twenty-First Century} by Thomas Piketty & inequality & Essential if you want to understand concentration of wealth at scale. \\
+\bottomrule
+\end{longtable}
+
+\section{Courses and tutorials}
+
+\begin{longtable}{>{\raggedright\arraybackslash}p{0.32\textwidth}p{0.22\textwidth}p{0.32\textwidth}}
+\toprule
+\textbf{Resource} & \textbf{Format} & \textbf{Use} \\
+\midrule
+\endhead
+Yale / Coursera: \textit{Financial Markets} & online course & Markets, risk, behavioral finance, and institutional basics. \\
+Open Yale Courses: \textit{Financial Theory} & free lectures & Finance as part of the wider economic system. \\
+MIT OCW: \textit{Blockchain and Money} & free graduate course & Money, payments, crypto, and regulation. \\
+MIT OCW: \textit{Principles of Microeconomics} & free course & Incentives, trade-offs, pricing, and firm behavior. \\
+OpenStax: \textit{Principles of Economics 3e} & free textbook & Broad economics foundation. \\
+Khan Academy: \textit{Personal Finance} & free course & Saving, debt, taxes, insurance, and investing basics. \\
+Investor.gov calculators & practical tools & Compound-interest and savings-goal modeling. \\
+CFPB: \textit{Your Money, Your Goals} & toolkit & Goals, bills, debt, credit, and consumer decision support. \\
+Federal Reserve Education: \textit{Making Personal Finance Decisions} & curriculum & Twenty lessons grounded in economic theory. \\
+\bottomrule
+\end{longtable}
+
+\section{Online repositories}
+
+\begin{itemize}
+  \item \href{https://github.com/joshjluo/personal-finance-guide}{joshjluo/personal-finance-guide}
+  \item \href{https://github.com/philschatz/economics-book}{philschatz/economics-book}
+  \item \href{https://github.com/VladZn/gb-personal-finance}{VladZn/gb-personal-finance}
+  \item \href{https://github.com/brandonhimpfen/awesome-finance}{brandonhimpfen/awesome-finance}
+  \item \href{https://github.com/georgezouq/awesome-ai-in-finance}{georgezouq/awesome-ai-in-finance}
+\end{itemize}
+
+\chapter{Source notes}
+
+Primary references checked for this edition on 2026-04-05:
+
+\begin{itemize}
+  \item Bank of England, \href{https://www.bankofengland.co.uk/quarterly-bulletin/2014/q1/money-creation-in-the-modern-economy}{Money creation in the modern economy}
+  \item Federal Reserve, \href{https://www.federalreserve.gov/econres/scfindex.htm}{Survey of Consumer Finances}
+  \item World Bank, \href{https://www.worldbank.org/en/publication/the-changing-wealth-of-nations}{The Changing Wealth of Nations 2024}
+  \item Yale / Coursera, \href{https://www.coursera.org/learn/financial-markets-global}{Financial Markets}
+  \item Open Yale Courses, \href{https://oyc.yale.edu/economics/econ-251}{Financial Theory}
+  \item MIT OpenCourseWare, \href{https://ocw.mit.edu/courses/15-s12-blockchain-and-money-fall-2018/}{Blockchain and Money}
+  \item OpenStax, \href{https://openstax.org/books/principles-economics-3e/pages/preface}{Principles of Economics 3e}
+  \item CFPB, \href{https://www.consumerfinance.gov/your-money-your-goals/}{Your Money, Your Goals}
+  \item Investor.gov, \href{https://www.investor.gov/use-financial-tools-and-calculators}{Use Financial Tools and Calculators}
+  \item Federal Reserve Education, \href{https://www.federalreserveeducation.org/teaching-resources/personal-finance/curriculum/making-personal-finance-decisions-curriculum}{Making Personal Finance Decisions Curriculum}
+\end{itemize}
+
+\backmatter
+
+\begin{signalbox}
+\textbf{Final takeaway}\par
+The most useful wealth strategy is usually not flashy: earn better, spend with intention, own productive things, compound patiently, and avoid decisions that remove you from the game.
+\end{signalbox}
+
+\end{document}
