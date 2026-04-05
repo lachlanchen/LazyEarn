@@ -108,10 +108,13 @@ const fallbackStrings = {
   "research.asset1Route": `Viewer slug: <code>wealth-from-first-principles</code> (aliases: <code>wealth</code>, <code>wealth-guide</code>).`,
   "research.asset2Title": `Financial freedom playbook`,
   "research.asset2Desc": `Timeless principles blended with modern automation ideas—capital allocation tables, quarterly rituals, and name ideas for future Lazy Money drops.`,
+  "research.asset2Route": `Viewer slug: <code>financial-freedom</code> (alias: <code>financial_freedom</code>).`,
   "research.asset2ZhTitle": `Financial freedom playbook (Chinese edition)`,
   "research.asset2ZhDesc": `Chinese edition covering rational spending, compounding, diversified income, and automation routines with a Lazy Money-style allocation table.`,
+  "research.asset2ZhRoute": `Chinese viewer slug: <code>financial-freedom-zh</code> (aliases: <code>financial_freedom_zh</code>, <code>financial-freedom-zh-cn</code>).`,
   "research.asset3Title": `High-growth dossier`,
   "research.asset3Desc": `Narrative rundowns for nine high-growth U.S. equities (AI, biotech, semiconductors, clean energy, cloud) with upside tables and annotated sources.`,
+  "research.asset3Route": `Viewer slug: <code>high-growth</code> (aliases: <code>high-growth-stocks</code>, <code>high_growth_stocks</code>).`,
   "form.success": `Invite sent to {{email}}. Expect a lazy hello soon.`,
 };
 

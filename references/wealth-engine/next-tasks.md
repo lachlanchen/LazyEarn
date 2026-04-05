@@ -1,6 +1,6 @@
 # Next tasks
 
-Updated: 2026-04-05 (cycle_004 round_06 readme_sync)
+Updated: 2026-04-05 (cycle_004 round_08 translation_and_catalog)
 
 Measured review anchors (from this round):
 - `references/wealth-engine/knowledge/` currently misses 8 planned artifacts:
@@ -17,15 +17,15 @@ Measured review anchors (from this round):
   - `section_3_url_lines = 6`
   - `section_5_url_lines = 0`
   - `section_8_url_lines = 0`
-- Research/viewer localization drift (`research.*` + `viewer.backToResearch`, equal-to-English counts):
-  - `zh-Hant = 18/24`
-  - `zh-Hans = 18/24`
-  - `ja = 24/24`
-  - `ko = 24/24`
-  - `vi = 24/24`
-  - `ar = 24/24`
-  - `fr = 24/24`
-  - `es = 24/24`
+- Research/viewer localization drift (`research.*` + `viewer.backToResearch`, equal-to-English counts in 29-key scope):
+  - `zh-Hant = 18/29` (missing: `0`)
+  - `zh-Hans = 18/29` (missing: `0`)
+  - `ja = 24/29` (missing: `5`)
+  - `ko = 24/29` (missing: `5`)
+  - `vi = 24/29` (missing: `5`)
+  - `ar = 24/29` (missing: `5`)
+  - `fr = 24/29` (missing: `5`)
+  - `es = 24/29` (missing: `5`)
 - Build warning baseline from cycle_004 round_04 (`wealth-from-first-principles`):
   - `microtype warnings = 1`
   - `overfull_hbox = 1`
@@ -97,7 +97,7 @@ Done when: all rows are migrated cleanly and TSV parsing remains valid.
 
 16. Localize research/viewer keys in `docs/translations.json` for `ja`, `ko`, `vi`, `ar`, `fr`, `es`.
 Scope: `research.*` and `viewer.backToResearch`.
-Done when: these locales are no longer `24/24` English-equal for the scoped keys.
+Done when: each listed locale has `0` missing scoped keys and fewer English-equal values than current baseline.
 
 17. Sync wealth-refinery sections from `README.md` into `i18n/README.*.md`.
 Scope: mission loop, methods (`QE-5`, `HS-8`, `LL-6`), and research vault routing.
