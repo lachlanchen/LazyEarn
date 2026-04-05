@@ -539,6 +539,34 @@ Sequence rule:
 3. Cross-check with NFCI and TIC before assuming valuation support is durable.
 4. Use MTS and ECI as cash-flow and cost-pressure context, then confirm with household stress data (`DSR/FOR`, NY Fed Household Debt) before increasing leverage.
 
+### 9.7 Entry-and-property-price pulse (monthly and quarterly)
+
+This pulse is designed to prevent a recurring mistake: treating high entry activity or rising property prices as automatic evidence of broad, durable wealth progress.
+
+It keeps three distinctions active at once:
+
+- entry flow vs entrant durability,
+- valuation gains vs participation gains,
+- and global liquidity easing vs local credit access improvement.
+
+| Pulse block | What to monitor | Primary source | Practical read |
+| --- | --- | --- | --- |
+| **Entry flow pulse** | business application and formation momentum | Census BFS (`https://www.census.gov/econ/bfs/index.html`) | rising entry flow is opportunity flow, not yet proof of durable ownership gains |
+| **Entrant durability check** | cohort persistence and growth quality | Census BDS API (`https://www.census.gov/topics/business-economy/dynamics/data/api.html`) | weak persistence after strong entry suggests churn risk |
+| **Residential valuation pressure** | cross-country housing valuation momentum and revisions | BIS RPP (`https://data.bis.org/topics/RPP/tables-and-dashboards`) | synchronized housing price rises can widen incumbent gains before entry broadens |
+| **Commercial refinancing pressure** | office/retail/industrial price regime and release cadence | BIS CPP (`https://data.bis.org/topics/CPP`) | weak commercial pricing with tight funding can become a balance-sheet drag |
+| **Funding regime overlay** | cross-border FX-credit tightening/easing backdrop | BIS GLI (`https://data.bis.org/topics/GLI`) | tighter global liquidity can transmit into stricter domestic credit access |
+| **Real-economy conversion check** | productivity and energy-cost context for real wealth conversion | BLS LPC + EIA STEO (`https://www.bls.gov/lpc/`, `https://www.eia.gov/outlooks/steo/index.php`) | entry and valuation are more durable when productivity supports real income and energy pressure is contained |
+
+Sequence rule:
+
+1. Read BFS first as an opportunity-flow signal, then confirm durability with BDS.
+2. Read RPP/CPP next to separate incumbent mark-to-market gains from broad ownership entry.
+3. Overlay GLI before concluding that easier valuations imply easier financing.
+4. Confirm real conversion with LPC and STEO before increasing leverage or concentrated ownership risk.
+
+If entry is strong but durability is weak and liquidity is tightening, prefer staged ownership with larger liquidity buffers over aggressive leverage.
+
 ## 10. A 90-day plan
 
 ### Days 1-30: map reality
@@ -633,11 +661,16 @@ This is a curated starter map, not an exhaustive library.
 | **CFPB Making Ends Meet** | direct household stress and bill-payment strain indicators | annual survey reports with data files |
 | **BEA Personal Income and Outlays** | income, consumption, and personal saving path | monthly U.S. national accounts release |
 | **BEA Fixed Assets** | produced-capital stock, depreciation, and investment structure | annual U.S. fixed-asset update cycle |
+| **BEA Open Data API** | reproducible API access layer for macro/distribution pulls | API access with release schedule linkage |
 | **BEA Distribution of Personal Income** | distributional disposable income and inequality decomposition | annual distributional national-accounts release |
 | **BLS CPI + CEX + ECI** | inflation pressure, household spending structure, and labor-cost pressure | monthly CPI/ECI and annual spending detail |
+| **BLS Productivity and Costs (LPC)** | labor productivity and unit labor costs for real-compounding context | quarterly U.S. productivity release |
 | **EIA Monthly Energy Review (MER)** | economy-wide energy production/consumption/price throughput context | monthly U.S. energy data release |
+| **EIA Short-Term Energy Outlook (STEO)** | near-term energy-price and supply-demand baseline | monthly U.S. outlook with explicit release schedule |
 | **FHFA House Price Index** | housing wealth regime and regional price dynamics | monthly/quarterly U.S. house-price indices |
+| **U.S. Census BFS + BDS API** | business-entry pulse and cohort durability checks | weekly/monthly entry flow plus annual cohort dynamics |
 | **BIS Debt Service Ratios (DSR)** | cross-country debt-burden and early-warning leverage context | quarterly international debt-service statistics |
+| **BIS RPP + CPP + GLI** | property valuation regime and global liquidity backdrop | monthly property updates and quarterly global-liquidity updates |
 | **ECB Bank Lending Survey (BLS)** | euro-area credit standards and loan-demand cycle comparisons | quarterly euro-area lending survey |
 | **U.S. Census wealth tables (SIPP)** | household wealth and debt distribution in public-use tables | annual SIPP-based wealth publication |
 | **U.S. Census CPS income/inequality tables** | household, family, and person income distribution baselines | annual CPS ASEC update cycle |
@@ -662,13 +695,18 @@ Primary web references used for this guide were checked on **2026-04-05** and in
 - U.S. BEA: Personal Income and Outlays, Distribution of Personal Income
 - U.S. BEA: Fixed Assets tables
 - U.S. BLS: CPI, Employment Cost Index (ECI), and Consumer Expenditure Surveys
+- U.S. BLS: Productivity and Costs (LPC)
 - U.S. EIA: Monthly Energy Review
+- U.S. EIA: Short-Term Energy Outlook (STEO)
 - U.S. Census: Wealth and Asset Ownership tables (SIPP), CPS income/inequality tables, and P70BR-211 brief
+- U.S. Census: Business Formation Statistics (BFS) and Business Dynamics Statistics (BDS) API
 - U.S. FHFA: House Price Index datasets
 - IRS SOI Publication 1304 and IRS Data Book
 - Bank of England, "Money creation in the modern economy"
 - IMF: WEO and Global Debt Database
 - BIS Data Portal and Debt Service Ratios (DSR)
+- BIS Residential Property Prices (RPP), Commercial Property Prices (CPP), and Global Liquidity Indicators (GLI)
+- U.S. BEA Open Data API hub
 - ECB Consumer Expectations Survey (CES) and Bank Lending Survey (BLS)
 - World Bank: The Changing Wealth of Nations 2024, Global Findex, PIP, IDS
 - WID.world, WIID, and OECD IDD/WDD

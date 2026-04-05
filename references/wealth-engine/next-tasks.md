@@ -65,6 +65,9 @@ Done when: at least 8 rows map `signal`, `source`, `frequency`, `last_release`, 
 8. Draft first-pass evidence memos for cycle_008 question IDs `U31`-`U35`.
 Done when: each memo has `hypothesis`, `falsifier`, `must_not_conflate`, `first_evidence_pull`, and one `decision_use` line tied to BFS/LPC/STEO/BIS rails.
 
+9. Mirror markdown section `9.7 Entry-and-property-price pulse` into TeX and keep source-family parity.
+Done when: TeX includes an equivalent section/table with the same source families (`BFS`, `BDS`, `BIS RPP/CPP/GLI`, `BLS LPC`, `EIA STEO`) and no downgrade in practical decision rules.
+
 ## Priority 0S - Story, history, physics, and philosophy depth
 
 1. Create `references/wealth-engine/knowledge/historical-case-ledger.md`.
