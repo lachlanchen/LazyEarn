@@ -245,3 +245,6 @@ Done when: each brief includes `hypothesis`, `falsifier`, `must_not_conflate`, `
 
 30. Create `references/wealth-engine/knowledge/cycle-clock-lead-lag-panel.md` for `U26`, `U27`, and `U29`.
 Done when: at least 8 rows align `signal`, `release_cadence`, `lag_test_window`, `target_outcome`, `lead_result`, `false_signal_note`, and `action_rule` using NBER turning points as regime anchors.
+
+31. Mirror markdown section `9.6 Liquidity-and-cycle clock` into the TeX book with equivalent table structure.
+Done when: `investment_pdfs/wealth-from-first-principles/wealth-from-first-principles.tex` contains a synced `9.6` subsection with the same source families (H.4.1, H.8, NFCI, TIC, MTS, ECI, NBER) and build output remains clean enough for release.

@@ -510,6 +510,35 @@ Decision rule:
 2. If credit and capacity are both improving with contained burden, scale ownership gradually with fixed downside limits.
 3. If a major method revision lands, freeze threshold updates until revision-aware rechecks are complete.
 
+### 9.6 Liquidity-and-cycle clock (monthly and quarterly)
+
+Use this clock to avoid a common analytical error: treating all "easy money" signals as equivalent.
+
+It separates:
+- central-bank liquidity (`H.4.1`),
+- commercial-bank balance-sheet transmission (`H.8`),
+- financial-conditions tightening/easing (`NFCI`),
+- external funding pressure (`TIC`),
+- fiscal-flow cushioning (`MTS`),
+- labor-cost pressure (`ECI`),
+- and ex-post cycle dating (`NBER`).
+
+| Clock block | What to monitor | Primary source | Practical read for wealth decisions |
+| --- | --- | --- | --- |
+| **Central-bank liquidity pulse** | reserve and central-bank balance-sheet path | Fed H.4.1 (`https://www.federalreserve.gov/releases/h41/`) | reserve growth can support system liquidity but does not prove broad household credit access |
+| **Commercial-bank transmission pulse** | bank asset/liability expansion by category | Fed H.8 (`https://www.federalreserve.gov/releases/h8/`) | if H.4.1 expands while H.8 credit transmission is flat, treat access claims cautiously |
+| **Financial-conditions pressure** | broad tightness/ease across funding, credit, and risk markets | Chicago Fed NFCI (`https://www.chicagofed.org/research/data/nfci/current-data`) | persistent tightening raises fragility tolerance requirements before adding leverage |
+| **External capital-flow tailwind** | cross-border portfolio and funding flow regime | Treasury TIC (`https://home.treasury.gov/data/treasury-international-capital-tic-system/release-dates-of-tic-data`) | weaker inflow support can pressure valuation-dependent ownership strategies |
+| **Fiscal-flow cushion** | receipts, outlays, and deficit path | Treasury MTS/FiscalData (`https://www.fiscal.treasury.gov/reports-statements/mts/`) | wider deficits can cushion cash flow temporarily but are not a substitute for balance-sheet repair |
+| **Labor-cost pressure rail** | compensation-cost acceleration and wage-pressure persistence | BLS ECI (`https://www.bls.gov/eci/`) | rising labor costs with weak productivity often compress margin of safety for firms and households |
+| **Cycle anchor** | recession/expansion turning-point chronology | NBER cycle chronology (`https://www.nber.org/research/data/us-business-cycle-expansions-and-contractions`) | use as a regime label for post-mortems and threshold calibration, not as a real-time trigger |
+
+Sequence rule:
+1. Label regime state with NBER chronology for historical calibration.
+2. Compare H.4.1 versus H.8 first to test liquidity-versus-transmission divergence.
+3. Cross-check with NFCI and TIC before assuming valuation support is durable.
+4. Use MTS and ECI as cash-flow and cost-pressure context, then confirm with household stress data (`DSR/FOR`, NY Fed Household Debt) before increasing leverage.
+
 ## 10. A 90-day plan
 
 ### Days 1-30: map reality
@@ -596,6 +625,7 @@ This is a curated starter map, not an exhaustive library.
 | **Federal Reserve SHED** | household financial well-being, emergency capacity, and payment stress | annual U.S. household survey |
 | **Federal Reserve DSR/FOR** | household debt-service and fixed-obligation burden | quarterly U.S. household burden release |
 | **Federal Reserve G.19** | consumer-credit stock and revolving/nonrevolving composition | monthly U.S. consumer-credit release |
+| **Federal Reserve H.4.1 + H.8** | central-bank liquidity pulse versus commercial-bank transmission pulse | weekly U.S. balance-sheet releases |
 | **Fed FEDS note on G.19 revisions** | method and source-change context for credit-union estimate comparability | revision documentation and statistical note |
 | **New York Fed Household Debt and Credit** | delinquency transitions and debt composition by household slices | quarterly U.S. credit panel |
 | **New York Fed SCE** | inflation, labor, credit access, and expected delinquency signals | monthly U.S. household expectations survey |
@@ -604,7 +634,7 @@ This is a curated starter map, not an exhaustive library.
 | **BEA Personal Income and Outlays** | income, consumption, and personal saving path | monthly U.S. national accounts release |
 | **BEA Fixed Assets** | produced-capital stock, depreciation, and investment structure | annual U.S. fixed-asset update cycle |
 | **BEA Distribution of Personal Income** | distributional disposable income and inequality decomposition | annual distributional national-accounts release |
-| **BLS CPI + CEX** | inflation pressure and household spending structure | monthly CPI and annual spending detail |
+| **BLS CPI + CEX + ECI** | inflation pressure, household spending structure, and labor-cost pressure | monthly CPI/ECI and annual spending detail |
 | **EIA Monthly Energy Review (MER)** | economy-wide energy production/consumption/price throughput context | monthly U.S. energy data release |
 | **FHFA House Price Index** | housing wealth regime and regional price dynamics | monthly/quarterly U.S. house-price indices |
 | **BIS Debt Service Ratios (DSR)** | cross-country debt-burden and early-warning leverage context | quarterly international debt-service statistics |
@@ -615,6 +645,9 @@ This is a curated starter map, not an exhaustive library.
 | **WID + WIID + OECD IDD/WDD** | cross-country inequality and distribution comparisons | global inequality and OECD harmonized datasets |
 | **World Bank CWON + PIP + Findex + IDS** | comprehensive wealth, poverty, inclusion, and debt context | global development and debt datasets |
 | **IMF WEO + GDD + BIS data portal + ECB CES** | macro regime, debt cycle, and expectations-sensitive cross-country benchmarks | global macro-financial and expectations references |
+| **Chicago Fed NFCI + Treasury TIC + Treasury MTS** | cycle-clock cross-check for financial conditions, external flows, and fiscal-flow cushioning | weekly/monthly cycle-timing rails |
+| **NBER cycle chronology** | ex-post recession/expansion dating for regime calibration | long-run U.S. turning-point chronology |
+| **SEC Financial Statement and Notes Data Sets** | reproducible statement-level factor extraction for ownership-quality screens | quarterly filing-derived dataset releases |
 | **SEC EDGAR API docs + FRED/ALFRED** | reproducible filings ingestion and revision-aware macro pulls | API docs plus vintage-aware archive layer |
 | **FRASER historical archive** | primary-source monetary and financial history documents | long-run policy and publication archive |
 
@@ -628,7 +661,7 @@ Primary web references used for this guide were checked on **2026-04-05** and in
 - Federal Reserve Bank of New York: Household Debt and Credit report, Survey of Consumer Expectations
 - U.S. BEA: Personal Income and Outlays, Distribution of Personal Income
 - U.S. BEA: Fixed Assets tables
-- U.S. BLS: CPI and Consumer Expenditure Surveys
+- U.S. BLS: CPI, Employment Cost Index (ECI), and Consumer Expenditure Surveys
 - U.S. EIA: Monthly Energy Review
 - U.S. Census: Wealth and Asset Ownership tables (SIPP), CPS income/inequality tables, and P70BR-211 brief
 - U.S. FHFA: House Price Index datasets
@@ -640,7 +673,11 @@ Primary web references used for this guide were checked on **2026-04-05** and in
 - World Bank: The Changing Wealth of Nations 2024, Global Findex, PIP, IDS
 - WID.world, WIID, and OECD IDD/WDD
 - CFPB: Consumer Credit Trends, Making Ends Meet survey data, and "Your Money, Your Goals"
-- SEC: EDGAR API documentation
+- SEC: EDGAR API documentation and Financial Statement and Notes Data Sets
+- Federal Reserve H.4.1 and H.8 release pages
+- Chicago Fed National Financial Conditions Index (NFCI)
+- U.S. Treasury TIC release calendar and Monthly Treasury Statement (MTS) program page
+- NBER U.S. business cycle expansions and contractions chronology
 - St. Louis Fed: FRED API docs, ALFRED, and FRASER archive
 - Yale/Coursera, "Financial Markets"
 - Open Yale Courses, "Financial Theory"
