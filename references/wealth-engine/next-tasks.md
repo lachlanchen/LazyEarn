@@ -1,6 +1,6 @@
 # Next tasks
 
-Updated: 2026-04-05 (cycle_009 round_03 book_markdown)
+Updated: 2026-04-05 (cycle_009 round_04 book_tex)
 
 Measured review anchors (from this round):
 - `references/wealth-engine/knowledge/` currently misses 7 planned artifacts:
@@ -36,8 +36,9 @@ Measured review anchors (from this round):
 - Question-bank scope now includes cycle_009 unanswered set `U36`-`U40`:
   - new focus rails: Fed DDP revision metadata, SCE Credit Access survey microdata, Census SIPP datasets, BLS CEX PUMD, OECD household debt indicator.
   - next bottleneck: no dedicated bridge artifact yet for mapping these rails into one lead-lag and decision-use table.
-- Markdown book now includes section `9.8 Credit-access and burden bridge`:
-  - follow-up required: mirror section `9.8` into TeX with equivalent tables/sequence rules in cycle_009 round_04.
+- Markdown/TeX sync for section `9.8 Credit-access and burden bridge` is now complete:
+  - mirrored in `wealth-from-first-principles.tex` with bridge table, sequence rule, and source-note updates in cycle_009 round_04.
+  - next follow-up: verify the generated PDFs in cycle_009 round_09 include the mirrored section and source additions.
 - Research card action gap closed in cycle_005 round_07 and localized in cycle_005 round_08:
   - `financial-freedom-zh` has a direct on-site CTA in `docs/index.html` and route wiring in `docs/script.js`.
   - `research.viewChinese` is now present in all runtime locale packs in `docs/translations.json`.
@@ -74,8 +75,8 @@ Done when: `entry-and-property-price-pulse.md` has at least 8 schema-complete ro
 8. Create `knowledge/credit-access-and-burden-bridge.md` for cycle_009 unanswered set (`U36`-`U40`).
 Done when: at least 10 rows map `question_id`, `signal`, `series_or_table`, `source`, `frequency`, `lead_lag_hypothesis`, `falsifier`, and `decision_use` across DDP feed, SCE Credit Access, SIPP, CEX PUMD, OECD household debt, and Fed DSR/FOR rails.
 
-9. Mirror markdown section `9.8 Credit-access and burden bridge` into `wealth-from-first-principles.tex`.
-Done when: TeX includes equivalent bridge blocks, sequence rule, and cited sources (DDP, SCE Credit Access, SIPP datasets, CEX PUMD, OECD household debt, FOF), with formatting adapted for print layout.
+9. Verify PDF outputs include mirrored section `9.8 Credit-access and burden bridge`.
+Done when: cycle_009 round_09 build artifacts in both PDF targets include section `9.8` and the added official-data/source-note rails (DDP, SCE Credit Access, SIPP datasets, CEX PUMD, OECD household debt, FOF).
 
 ## Cycle 008 review queue (highest value, concrete)
 
