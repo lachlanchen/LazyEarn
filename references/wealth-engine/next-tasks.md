@@ -176,3 +176,11 @@ Done when: it contains at least 6 test rows with `question_id`, `entrant_metric`
 
 23. Draft cycle_005 question briefs for `U16`-`U20` in `references/wealth-engine/knowledge/memos/`.
 Done when: each brief contains `hypothesis`, `falsifier`, `must_not_conflate`, `first_evidence_pull`, `timing_window`, and one `decision_use` line tied to OFR/FSR/CRA/BDS evidence rails.
+
+## Priority 1.6 - cycle_006 resource-scan follow-up
+
+24. Create `references/wealth-engine/knowledge/credit-cycle-and-real-constraint-watchlist.md`.
+Done when: at least 10 rows map `question_id`, `signal`, `source`, `series_or_table`, `frequency`, `lead_or_lag`, `decision_use` across `G.19`, `SLOOS`, NY Fed household debt, ECB BLS, BEA fixed assets, and EIA MER.
+
+25. Add one book-facing mechanism table that ties financial-claim growth to physical-constraint rails.
+Done when: markdown and TeX both include one aligned table that references at least one BEA fixed-assets source and one EIA MER source, with no analogy-only framing.

@@ -8,6 +8,23 @@ Round seed: cycle_005 / round_01_resource_scan
 - Prefer sources with download/API access, not just commentary.
 - Capture freshness signals (release dates, update cadence, or version tags).
 
+## Cycle 006 additions: consumer-credit cycle and physical-constraint rails
+- Federal Reserve Consumer Credit (G.19)  
+  https://www.federalreserve.gov/releases/g19/  
+  Why keep: monthly primary U.S. household credit stock/flow release with explicit cadence ("around the fifth business day") and current release metadata (last update shown as Mar 06, 2026).
+- Federal Reserve FEDS Note: New credit union estimates in G.19  
+  https://www.federalreserve.gov/econres/notes/feds-notes/a-note-on-the-new-credit-union-estimates-in-the-g-19-consumer-credit-statistical-release-20250708.html  
+  Why keep: methodology note with DOI and accessible data link for a major 2025 benchmark/source revision in a principal federal indicator.
+- ECB Euro area Bank Lending Survey (BLS) hub  
+  https://www.ecb.europa.eu/stats/ecb_surveys/bank_lending_survey/html/index.en.html  
+  Why keep: quarterly credit-supply and loan-demand survey with release calendar (Jan/Apr/Jul/Oct) and current 2026 publication history.
+- BEA Fixed Assets Tables  
+  https://www.bea.gov/itable/fixed-assets  
+  Why keep: official reproducible capital-stock/depreciation/investment tables; page documents Sep 26, 2025 update scope (2020-2024 revisions).
+- EIA Monthly Energy Review (MER) data hub  
+  https://www.eia.gov/totalenergy/data/monthly/previous.php  
+  Why keep: official U.S. energy production/consumption/stock/price series with explicit release and next-release dates (Feb 24, 2026 and Mar 26, 2026 shown), useful for real-world throughput constraints.
+
 ## Cycle 005 additions: financial-stability and ownership-entry data rails
 - Federal Reserve Financial Stability Report hub  
   https://www.federalreserve.gov/publications/financial-stability-report.htm  
