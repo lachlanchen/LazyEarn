@@ -26,6 +26,12 @@ Updated: 2026-04-06 (cycle_014 round_07_website_sync)
 2. Add a dedicated reader-facing cycle_014 route note in `docs/index.html` for the Chapter 9 sequencing between 9.10/9.10.1/9.11/9.11.1 and constrained-vs-countercase comparisons.
 3. Add a parity check in upcoming maintenance so `docs/index.html` visible bullet strings and `docs/script.js` synced English strings remain aligned after each cycle update.
 
+## Cycle 014 build_and_verify follow-up (round_09_build_and_verify)
+
+1. Run a second pass quality pass on typography in `wealth-from-first-principles.tex` and reduce warning pressure in section 6/6.17/6.18 blocks where long mechanism blocks are currently underfull-heavy.
+2. Add a lightweight CI/manual check that confirms mirrored PDFs are byte-identical (or at least same page count and target headings present) between `investment_pdfs/wealth-from-first-principles/wealth-from-first-principles.pdf` and `docs/investment_pdfs/wealth-from-first-principles/wealth-from-first-principles.pdf`.
+3. Decide whether section-number text shown in `docs/index.html` should be updated from legacy `9.11.1`/`9.10.1` wording to match the rendered chapter label format in the PDF while preserving conceptual intent.
+
 ## Cycle 014 resource scan follow-up (round_01_resource_scan)
 
 1. Integrate the new IMF/UNCTAD/BIS/ECB/Fed sources into `knowledge/historical-case-ledger.md` with dated mechanism notes for at least:
