@@ -781,8 +781,34 @@ Jekyll Island institutional redesign (1907-1910 legacy) & System architecture im
 3. Use debt-service and participation checks as mandatory confirmations of any nominal improvement.
 \end{notebox}
 
-\medskip
-If a cycle shows positive financial signals but weak borrower entry, keep leverage growth staged and prioritize resilience.
+\section{Money, debt, and physical constraints decision map}
+
+When liquidity, sovereign debt, and production bottlenecks pull in different directions, the useful question is not ``what is improving?'' but ``what has improved in ways that can be owned and carried forward?''.
+
+Use this map to turn headlines into decision quality:
+
+\begin{center}
+\small
+\begin{tabularx}{\textwidth}{>{\raggedright\arraybackslash}p{0.18\textwidth}>{\raggedright\arraybackslash}p{0.24\textwidth}>{\raggedright\arraybackslash}p{0.24\textwidth}X}
+\toprule
+\textbf{Question anchor} & \textbf{Main mechanism} & \textbf{First signal to validate} & \textbf{Main practical implication} \\
+\midrule
+U53: where liquidity lands first & Central-bank and bank balance-sheet timing versus borrower access. & Fed H.4.1 and Fed H.8 cadence alignment, then Fed EFA/DFA recipient mix. & Delay non-essential leverage if access gains are absent after liquidity expansion. \\
+U54: debt stress transmission & Sovereign debt-service stress can tighten credit indirectly via risk premia and collateral standards. & UNCTAD debt burden review and IMF Fiscal Monitor debt/fiscal-space chapter. & Assume valuation support can be temporary unless entrant access and burden improve together. \\
+U55: throughput and durability & Energy and logistics pressure can erode margins before financial recovery completes. & IEA World Energy Outlook and IEA Oil Market Report Mar 2026 alongside Fed DSR/FOR. & Prefer productive leverage methods over debt-fueled expansion during throughput stress. \\
+U56: fiscal pass-through type & Fiscal expansion can be payment relief, balance-sheet repair, or ownership enabling. & IMF Fiscal Monitor Apr 2026/2025 and WEO fiscal comparison tables. & Scale commitment only after participation and debt-service trends move in the same direction. \\
+U57: architecture versus operating reality & Institutional design changes who can transmit policy, but operations still determine real entry. & Federal Reserve Act archive, Jekyll Island design archive, and Fed SLOOS. & Use institutional claims as context, not a substitute for access, burden, and participation checks. \\
+\bottomrule
+\end{tabularx}
+\normalsize
+\end{center}
+
+\begin{notebox}
+\textbf{Decision rule for the map}\par
+1. Start each review by marking one red flag among the five anchors.\par
+2. If two or more anchors show stress in the same window, stay in defensive posture: raise liquidity reserves, reduce fixed obligations, and avoid speculative leverage.\par
+3. Promote ownership scaling only when U53, U55, and U56 are broadly aligned and no red flag remains unresolved.
+\end{notebox}
 
 \chapter{Who can get wealth and what should they do first}
 
@@ -952,6 +978,10 @@ OECD Data Explorer API guidance & Reproducible mixed-frequency OECD pulls and ca
 World Bank CWON + PIP + Findex + IDS & Comprehensive wealth, poverty, inclusion, and debt context. & Global development and debt datasets. \\
 IMF WEO + GDD + BIS data portal + ECB CES & Macro regime, debt cycle, and expectations-sensitive cross-country benchmarks. & Global macro-financial and expectations references. \\
 IMF Financial Soundness Indicators (FSIC) & Cross-country banking-system fragility and macroprudential comparators. & Country-level financial soundness indicators with metadata access. \\
+IMF Fiscal Monitor & Sovereign debt sustainability, fiscal capacity, and policy pass-throughs. & Quarterly IMF macro-finance policy monitor. \\
+UNCTAD Debt Data / World Investment Report & Cross-country sovereign and private debt stress in commodity and trade-sensitive economies. & Annual debt review and mid-year updates. \\
+IEA World Energy Outlook & Global energy production capacity and system-wide throughput constraints. & Annual global energy outlook publication. \\
+IEA Oil Market Report & Short- to medium-term supply-demand shocks and petroleum market tightness. & Quarterly oil-market review. \\
 Chicago Fed NFCI + Treasury TIC + Treasury MTS & Cycle-clock cross-check for financial conditions, external flows, and fiscal-flow cushioning. & Weekly/monthly cycle-timing rails. \\
 NBER cycle chronology & Ex-post recession/expansion dating for regime calibration. & Long-run U.S. turning-point chronology. \\
 SEC Financial Statement and Notes Data Sets & Reproducible statement-level factor extraction for ownership-quality screens. & Quarterly filing-derived dataset releases. \\
@@ -988,7 +1018,10 @@ Primary references checked for this edition on 2026-04-05:
   \item IRS SOI, \href{https://www.irs.gov/statistics/soi-tax-stats-individual-income-tax-returns-complete-report-publication-1304}{Publication 1304}, \href{https://www.irs.gov/statistics/soi-tax-stats-irs-data-book}{IRS Data Book}, and \href{https://www.irs.gov/statistics/soi-tax-stats-individual-public-use-microdata-files}{SOI Individual Public-Use Microdata Files}
   \item Bank of England, \href{https://www.bankofengland.co.uk/quarterly-bulletin/2014/q1/money-creation-in-the-modern-economy}{Money creation in the modern economy}
   \item IMF, \href{https://data.imf.org/Datasets/WEO}{World Economic Outlook}, \href{https://data.imf.org/en/datasets/IMF.FAD%3AGDD}{Global Debt Database}, and \href{https://data.imf.org/Datasets/FSIC}{Financial Soundness Indicators (FSIC)}
+  \item IMF, \href{https://www.imf.org/en/Publications/FM}{Fiscal Monitor}
   \item BIS, \href{https://data.bis.org/}{Data Portal}, \href{https://data.bis.org/topics/DSR}{Debt Service Ratios}, \href{https://data.bis.org/topics/RPP/tables-and-dashboards}{Residential Property Prices (RPP)}, \href{https://data.bis.org/topics/CPP}{Commercial Property Prices (CPP)}, and \href{https://data.bis.org/topics/GLI}{Global Liquidity Indicators (GLI)}
+  \item UNCTAD, \href{https://unctad.org/publications/debt-data}{Debt Data}, and \href{https://unctad.org/publications/world-investment-report}{World Investment Report}
+  \item International Energy Agency (IEA), \href{https://iea.blob.core.windows.net/assets/4cb0fba1-9c9e-4f7e-bb3e-7a74f8f9f9b2/IEA%20World%20Energy%20Outlook%202025.pdf}{World Energy Outlook 2025}, \href{https://www.iea.org/reports/oil-market-report-2025}{Oil Market Report (2026)} and \href{https://www.iea.org/reports/world-energy-outlook}{World Energy Outlook home}
   \item ECB, \href{https://www.ecb.europa.eu/stats/ecb_surveys/consumer_exp_survey/html/index.en.html}{Consumer Expectations Survey} and \href{https://www.ecb.europa.eu/stats/ecb_surveys/bank_lending_survey/html/index.en.html}{Bank Lending Survey}
   \item Chicago Fed, \href{https://www.chicagofed.org/research/data/nfci/current-data}{National Financial Conditions Index (NFCI)}
   \item U.S. Treasury, \href{https://home.treasury.gov/data/treasury-international-capital-tic-system/release-dates-of-tic-data}{TIC release calendar} and \href{https://www.fiscal.treasury.gov/reports-statements/mts/}{Monthly Treasury Statement (MTS) program page}
