@@ -17,6 +17,7 @@ Purpose: track practical artifacts that make the wealth repository easier to stu
 | `knowledge/entry-vs-incumbent-access-tests.md` | planned | Separates ownership-entry access conditions from incumbent balance-sheet outcomes | question-bank + methods + mortgage/small-business sources | Draft first 6 test rows for U11 and U13 |
 | `knowledge/distinction-cards.md` | planned | Quick review cards for core conceptual distinctions | question-bank | Draft 15 cards with examples |
 | `knowledge/daily-prompts.md` | active | Keeps learning cadence consistent during short study sessions and ties each session to a question ID | question-bank + methods + source-ledger | Run one 14-day pilot and capture decision-use notes |
+| `knowledge/revision-aware-capacity-checklist.md` | planned | Turns revision-aware credit reads plus real-capacity rails into one repeatable regime classification layer | question-bank (`U21`-`U25`) + methods (`RC-6`) + source-ledger | Draft first 6 rows and attach one action rule per row |
 
 ## Side-product briefs
 
@@ -123,6 +124,21 @@ Purpose: track practical artifacts that make the wealth repository easier to stu
   - Use `DP-5` from `knowledge/methods.md`.
   - Log at least `source_anchor`, `observed_signal`, `caveat`, and `decision_use` for each day.
 - Exit criterion: one complete 14-day run with at least 10 days containing source-backed notes.
+
+### I) Revision-aware capacity checklist brief
+
+- Goal: prevent false confidence from headline credit growth by forcing revision-aware and real-capacity cross-checks.
+- Minimum schema:
+  - `question_id`
+  - `window`
+  - `credit_pulse_signal`
+  - `series_version_note`
+  - `capacity_signal`
+  - `throughput_signal`
+  - `regime_class`
+  - `decision_use`
+  - `caveat`
+- Exit criterion: at least 6 rows spanning `U21`-`U25`, with at least one row explicitly labeled `constraint-led fragility`.
 
 ## Starter prompt pack (14 days)
 

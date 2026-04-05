@@ -99,6 +99,25 @@ decision_use:
 next_pull:
 ```
 
+## 12) RC-6 method (revision-aware credit and capacity check)
+
+Use this method for `U21`-`U25` when you need to avoid false inference from headline credit growth alone.
+
+| Step | Action | Output |
+| --- | --- | --- |
+| 1 | Define one analysis window and lock the exact series/version used before calculations. | reproducible window + version note |
+| 2 | Measure the credit pulse split (revolving vs nonrevolving where available). | credit-composition signal |
+| 3 | Run a revision guardrail pass (compare unrevised read vs revision-aware read). | revision sensitivity check |
+| 4 | Pull one real-capacity rail and one throughput rail (for example fixed assets + energy flow). | capacity/throughput pair |
+| 5 | Classify regime state (`credit-led expansion`, `balanced expansion`, `constraint-led fragility`, or `mixed`). | regime label |
+| 6 | Write one action line (increase ownership slowly, hold neutral, or prioritize defense) plus one caveat. | decision-use + caveat |
+
+Minimum schema for `revision-aware-capacity-checklist.md`:
+
+```text
+question_id | window | credit_pulse_signal | series_version_note | capacity_signal | throughput_signal | regime_class | decision_use | caveat
+```
+
 ## 7) HS-8 method (household-stress-watchlist)
 
 Use this method to build an eight-signal watchlist that leads to action, not dashboard theater.

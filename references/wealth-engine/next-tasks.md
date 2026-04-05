@@ -192,3 +192,6 @@ Done when: each brief includes `hypothesis`, `falsifier`, `must_not_conflate`, `
 
 27. Create `references/wealth-engine/knowledge/revision-aware-threshold-tests.md` for `U22`.
 Done when: at least 4 rows compare `series_version`, `threshold_estimate`, `window`, `stability_result`, and `decision_impact` using G.19 revision-aware framing.
+
+28. Create `references/wealth-engine/knowledge/revision-aware-capacity-checklist.md` for `U21`-`U25`.
+Done when: at least 6 rows include `question_id`, `window`, `credit_pulse_signal`, `series_version_note`, `capacity_signal`, `throughput_signal`, `regime_class`, `decision_use`, and `caveat`.
