@@ -2,6 +2,12 @@
 
 Updated: 2026-04-06 (cycle_014 round_01_resource_scan)
 
+## Cycle 014 book-tex follow-up (round_04_book_tex)
+
+1. Mirror `subsection 9.11.x` "Historical constraint test: 1973-74 oil shock and transmission lag" into `investment/wealth-from-first-principles.md` and align heading/table language with TeX before the next markdown-focused pass.
+2. Add one non-energy constrained historical transmission countercase in the same chapter family (source-backed), then map both cases to `U56` and `U57` in `knowledge/source-ledger.tsv` and `knowledge/question-bank.md`.
+3. If TeX edits continue in chapter 9, keep `investment_pdfs/wealth-from-first-principles/wealth-from-first-principles.tex` rebuilt after structural changes and note warning drift (overfull/underfull) in the next build-round notes.
+
 ## Cycle 014 resource scan follow-up (round_01_resource_scan)
 
 1. Integrate the new IMF/UNCTAD/BIS/ECB/Fed sources into `knowledge/historical-case-ledger.md` with dated mechanism notes for at least:
