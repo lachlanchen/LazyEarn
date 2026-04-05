@@ -26,6 +26,7 @@ Updated: 2026-04-05 (cycle_012 round_06 readme_sync)
 4. Continue source-ledger hardening by adding `source_type`, `update_cadence`, and `last_verified_on` for newly added cycle_012 rows in a constrained migration pass.
 5. Convert the new cycle_012 unresolved agenda into `knowledge/question-bank.md` (`U53`-`U58`) and ensure the round artifact file exists at `cycles/cycle_012/round_02_question_bank/questions.md`.
 6. Add `research.point8` to non-English locale blocks in `docs/translations.json` so cycle_012 Research Drop messaging is structurally consistent across all runtime languages, then verify locale coverage in the next review.
+7. Add a lightweight catalog/translation drift check in `tools/validate-site-content.js` (or equivalent) to fail when locale packs diverge on `research.point*` key coverage.
 
 Measured review anchors (from this round):
 - `references/wealth-engine/knowledge/` currently misses 9 planned artifacts:

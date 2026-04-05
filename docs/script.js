@@ -178,7 +178,7 @@ const pdfEntries = {
     descriptionKey: "research.asset1Desc",
     title: "Wealth from first principles",
     description:
-      "A practical field guide to money and wealth with distinction checklists, evidence ladders, stress dashboards, credit channel maps, ownership-entry execution loops, entry-and-property-price pulse checks, credit-access-and-burden bridge checks, cadence-aware stress classification checks, and source-linked methods.",
+      "A practical field guide to money, wealth, debt, and physical capacity with distinction checklists, evidence ladders, stress dashboards, credit channel maps, ownership-entry execution loops, entry-and-property-price pulse checks, credit-access-and-burden bridge checks, cadence-aware stress classification checks, debt-throughput sequencing, and source-linked methods you can apply immediately.",
     pdf: "investment_pdfs/wealth-from-first-principles/wealth-from-first-principles.pdf",
     download: "investment_pdfs/wealth-from-first-principles/wealth-from-first-principles.pdf",
     markdown: "https://github.com/lachlanchen/LazyEarn/blob/main/investment/wealth-from-first-principles.md",
