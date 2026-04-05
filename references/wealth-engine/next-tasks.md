@@ -1,6 +1,6 @@
 # Next tasks
 
-Updated: 2026-04-05 (cycle_003 round_01 resource_scan)
+Updated: 2026-04-05 (cycle_003 round_02 question_bank)
 
 Measured review anchors (from this round):
 - `references/wealth-engine/knowledge/` still misses 7 planned artifacts.
@@ -77,3 +77,6 @@ Done when: overfull warnings are removed or reduced materially, underfull warnin
 17. Create `references/wealth-engine/knowledge/credit-conditions-watchlist.md` as a focused transmission dashboard.
 Core sources: Fed SLOOS, CFPB Consumer Credit Trends, BIS DSR, ECB CES.
 Done when: at least 6 signals are mapped with `signal`, `source`, `series_or_table`, `frequency`, `transmission_link`, and a one-line interpretation rule.
+
+18. Extend `references/wealth-engine/knowledge/question-evidence-gates.md` with cycle_003 unanswered set (`U7`, `U8`, `U9`, `U10`) after Tier 1 rows are complete.
+Done when: each new row includes a falsifier, one explicit lead-lag check, and a decision-use sentence linked to leverage or allocation behavior.

@@ -1,7 +1,7 @@
 # Question Bank
 
 Updated: 2026-04-05  
-Seed round: cycle_002 / round_02_question_bank
+Seed round: cycle_003 / round_02_question_bank
 
 ## Distinctions to protect
 
@@ -18,20 +18,23 @@ Seed round: cycle_002 / round_02_question_bank
 | Mark-to-market wealth vs spendable cash flow | Net worth can rise while cash fragility still worsens. |
 | Return on capital vs return to access | Ownership compounding depends on entry access, not only asset quality. |
 | Risk price vs risk capacity | A risk can be "cheap" in markets but still unacceptable for a household balance sheet. |
+| Credit price vs credit quantity | Lower rates do not guarantee access when standards tighten. |
+| Stated expectations vs revealed behavior | Survey sentiment can lead, but realized borrowing/spending validates signal quality. |
+| Gross income share vs after-tax disposable share | Distribution conclusions change materially after taxes and transfers. |
 
 ## Tier 1 questions (highest priority)
 
 | ID | Question | Key distinction | Evidence anchors |
 | --- | --- | --- | --- |
-| M1 | Through which sectors does new bank credit enter first, and who receives it? | Money growth vs allocation channel | Fed H.6, Fed Z.1, Fed EFA, NY Fed household credit |
+| M1 | Through which sectors does new bank credit enter first, and who receives it? | Money growth vs allocation channel | Fed H.6, Fed Z.1, Fed EFA, Fed SLOOS, NY Fed household credit |
 | M2 | What share of liquidity growth ends up in asset prices versus consumer prices versus debt service relief? | Asset inflation vs goods inflation | Fed H.6, Fed Z.1, FHFA HPI, BLS CPI, NY Fed household credit |
 | M3 | How often do fiscal expansions coincide with private credit contractions, and what happens to household balance sheets? | Public balance sheet vs private balance sheet | Treasury Debt to the Penny, Fed Z.1, Fed EFA, IMF GDD |
 | O1 | Which ownership forms generate repeatable cash flow with the lowest ongoing labor input? | Labor income vs ownership income | SCF, IRS SOI, SEC filings, Fed DFA |
 | O2 | How concentrated are productive assets by percentile, age, and household type? | Mean wealth vs median ownership | Fed DFA, SCF, Census wealth tables, HFCS |
-| L1 | What debt-service or leverage thresholds best predict transition into delinquency? | Productive leverage vs distress leverage | NY Fed household credit, CFPB card report, FDIC unbanked survey |
+| L1 | What debt-service or leverage thresholds best predict transition into delinquency? | Productive leverage vs distress leverage | Fed DSR/FOR, NY Fed household credit, CFPB card report, CFPB credit trends, FDIC unbanked survey |
 | L2 | When does mortgage leverage improve wealth outcomes, and when does it increase fragility? | Convexity upside vs forced-sale downside | FHFA HPI, NY Fed household credit, SCF |
-| I1 | How much of wealth inequality is explained by ownership gaps versus earnings gaps? | Wealth inequality vs income inequality | WID, WIID, SCF, Fed DFA |
-| R1 | Which risks are tolerable volatility and which are true ruin risks for households? | Volatility vs insolvency | NBER JST, NY Fed household credit, FDIC survey |
+| I1 | How much of wealth inequality is explained by ownership gaps versus earnings gaps? | Wealth inequality vs income inequality | Fed DFA, SCF, BEA DPI, Census CPS income tables, IRS SOI, WID, WIID |
+| R1 | Which risks are tolerable volatility and which are true ruin risks for households? | Volatility vs insolvency | NBER JST, NY Fed household credit, Fed SHED, FDIC survey |
 
 ## Tier 2 questions (next wave)
 
@@ -66,6 +69,15 @@ Seed round: cycle_002 / round_02_question_bank
 | U5 | Which household early-warning signal leads actual stress most reliably: expectations, debt-service ratio, or realized delinquency transitions? | Leading indicator vs coincident indicator | Candidate signal has no lead advantage versus default/delinquency outcomes | SCE, Fed DSR/FOR, NY Fed Household Debt, CFPB MEM |
 | U6 | What durable wealth method survives across inflation, disinflation, and recession regimes without leverage blowups? | Regime-specific tactic vs robust method | Method fails in one of three macro regimes after inflation adjustment | NBER JST, BIS TOTAL_CREDIT, CPI, DFA |
 
+## Unanswered priority questions (cycle_003 sharpen pass)
+
+| ID | Sharpened question | What must be distinguished | What would falsify the working hypothesis | First evidence pull |
+| --- | --- | --- | --- | --- |
+| U7 | Do tighter bank lending standards lead weaker consumer-credit flow before delinquency transitions rise? | Credit price vs credit quantity | Credit flow and delinquency trends remain unchanged after meaningful standards tightening | Fed SLOOS, CFPB Consumer Credit Trends, NY Fed Household Debt, BIS DSR |
+| U8 | Are current distribution shifts mostly valuation-driven, or do after-tax disposable income shares also move? | Gross income share vs after-tax disposable share | After-tax disposable income shares remain flat while observed stress/inequality gaps widen | BEA DPI, Census CPS income tables, IRS SOI Publication 1304, Fed DFA |
+| U9 | Which signal turns first in stress cycles: expectations, credit-access tightening, or realized burden? | Leading signal vs contemporaneous signal | No signal leads stress outcomes by at least one release period across the latest cycle | NY Fed SCE, ECB CES, Fed SLOOS, Fed DSR/FOR, NY Fed Household Debt |
+| U10 | Does high-risk origination mix change before aggregate delinquency transitions rise? | Credit-mix shift vs aggregate balance growth | High-risk origination share stays flat before later delinquency increases | CFPB Consumer Credit Trends, NY Fed Household Debt, FDIC survey |
+
 ## Evidence gates for Tier 1 answers
 
 - `M1`: require at least one stock-flow consistent trace from system credit expansion to a household balance-sheet channel.
@@ -73,3 +85,10 @@ Seed round: cycle_002 / round_02_question_bank
 - `L1`: require threshold tests (not just correlation) and one out-of-sample check.
 - `I1`: require decomposition into earnings, valuation, and participation components.
 - `R1`: require explicit ruin criteria (insolvency, forced sale, prolonged negative cash flow), not volatility alone.
+
+## Evidence gates for cycle_003 unanswered set
+
+- `U7`: require both standards and flow measures, plus one explicit lead-lag window before interpreting delinquency outcomes.
+- `U8`: require decomposition into pre-tax, post-tax, and valuation channels before claiming a dominant inequality mechanism.
+- `U9`: require timing comparison across at least two independent signal families (expectations, access, burden).
+- `U10`: require product/risk-slice evidence, not aggregate credit growth alone.
