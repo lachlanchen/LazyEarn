@@ -1,6 +1,6 @@
 # Next tasks
 
-Updated: 2026-04-05 (cycle_008 round_10 review_and_next_tasks)
+Updated: 2026-04-05 (cycle_009 round_02 question_bank)
 
 Measured review anchors (from this round):
 - `references/wealth-engine/knowledge/` currently misses 7 planned artifacts:
@@ -33,6 +33,9 @@ Measured review anchors (from this round):
   - `underfull_vbox = 5`
 - Source-ledger schema is still pre-migration:
   - header is `date, category, title, url, note` (missing planned fields `source_type`, `update_cadence`, `last_verified_on`)
+- Question-bank scope now includes cycle_009 unanswered set `U36`-`U40`:
+  - new focus rails: Fed DDP revision metadata, SCE Credit Access survey microdata, Census SIPP datasets, BLS CEX PUMD, OECD household debt indicator.
+  - next bottleneck: no dedicated bridge artifact yet for mapping these rails into one lead-lag and decision-use table.
 - Research card action gap closed in cycle_005 round_07 and localized in cycle_005 round_08:
   - `financial-freedom-zh` has a direct on-site CTA in `docs/index.html` and route wiring in `docs/script.js`.
   - `research.viewChinese` is now present in all runtime locale packs in `docs/translations.json`.
@@ -65,6 +68,9 @@ Done when: one canonical policy is documented in `README.md`, and `docs/index.ht
 
 7. Build decision artifacts for cycle_008 unanswered set (`U31`-`U35`).
 Done when: `entry-and-property-price-pulse.md` has at least 8 schema-complete rows and memos for `U31`-`U35` include `hypothesis`, `falsifier`, and `decision_use`.
+
+8. Create `knowledge/credit-access-and-burden-bridge.md` for cycle_009 unanswered set (`U36`-`U40`).
+Done when: at least 10 rows map `question_id`, `signal`, `series_or_table`, `source`, `frequency`, `lead_lag_hypothesis`, `falsifier`, and `decision_use` across DDP feed, SCE Credit Access, SIPP, CEX PUMD, OECD household debt, and Fed DSR/FOR rails.
 
 ## Cycle 008 review queue (highest value, concrete)
 

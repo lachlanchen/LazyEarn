@@ -1,7 +1,7 @@
 # Question Bank
 
 Updated: 2026-04-05  
-Seed round: cycle_008 / round_02_question_bank
+Seed round: cycle_009 / round_02_question_bank
 
 ## Distinctions to protect
 
@@ -38,6 +38,11 @@ Seed round: cycle_008 / round_02_question_bank
 | Entry volume vs entrant durability | More business applications can coexist with weak survival or weak owner-income progression. |
 | Global liquidity regime vs domestic credit pass-through | Cross-border funding easing does not guarantee broader household/small-firm credit access. |
 | Productivity growth vs real purchasing-power gain | Output per hour can rise while real wage/wealth progress stalls under cost shocks. |
+| Release metadata vs macro signal change | Revision and publication notes can be misread as real economic turning points. |
+| Applicant self-selection vs lender denial | Lower origination can come from demand withdrawal, not only tighter approvals. |
+| Panel attrition vs structural household change | Survey panel churn can mimic real shifts in leverage or ownership behavior. |
+| Debt-to-income vs debt-service-to-income | Stock leverage and cash-flow burden imply different fragility signals. |
+| Documentation map vs current statistical level | Guide pages explain structure, while release series carry live macro values. |
 
 ## Tier 1 questions (highest priority)
 
@@ -145,6 +150,16 @@ Seed round: cycle_008 / round_02_question_bank
 | U34 | Are real wealth-building windows better explained by productivity gains or by temporary energy-cost relief? | Productivity-led compounding vs cost-shock relief | Real income and saving do not respond more strongly to productivity improvement windows than to energy-cost easing windows | BLS LPC, EIA STEO, BLS CPI, BEA Personal Income, BLS CEX |
 | U35 | Which ownership-allocation rule remains durable when entry is strong but liquidity and property valuations are unstable? | Opportunity flow vs balance-sheet fragility | Candidate rule fails survival criteria across at least one `high entry + tight liquidity` or `high entry + high valuation` regime | Census BFS, BIS GLI, BIS RPP, BIS CPP, Fed DSR/FOR, NY Fed Household Debt |
 
+## Unanswered priority questions (cycle_009 sharpen pass)
+
+| ID | Sharpened question | What must be distinguished | What would falsify the working hypothesis | First evidence pull |
+| --- | --- | --- | --- | --- |
+| U36 | Do release/revision events in Federal Reserve data rails materially alter inferred lead-lag conclusions on money and credit transmission? | Revision artifact vs real regime shift | Lead-lag rankings remain stable after revision-aware reruns using release-metadata windows | Fed DDP announcements feed, Fed H.6, Fed H.8, Fed H.4.1, Fed Z.1 |
+| U37 | In household credit slowdowns, what moves first: tighter lender approval behavior or applicant self-withdrawal? | Supply rationing vs demand retreat | Approval outcomes and application-intent metrics do not diverge before delinquency/burden deterioration | NY Fed SCE Credit Access, Fed SLOOS, CFPB Consumer Credit Trends, NY Fed Household Debt |
+| U38 | Are ownership gaps widening mainly through asset-mix valuation effects or through persistent leverage-burden differences across household tiers? | Portfolio valuation mix vs cash-flow burden inequality | Ownership concentration measures do not move with tier-level burden differences once asset-mix effects are controlled | Fed DFA, Census SIPP datasets, Fed DSR/FOR, BLS CEX PUMD |
+| U39 | Which leverage measure provides the earliest and most stable household-fragility warning across countries and U.S. cohorts? | Debt stock metric vs payment-burden metric | Alternative leverage measures show no consistent lead over stress outcomes across windows/cohorts | OECD Household debt indicator, Fed DSR/FOR, Census SIPP datasets, NY Fed Household Debt |
+| U40 | Which household wealth-building rule remains durable when market returns are positive but credit access is constrained? | Return opportunity vs financing-access constraint | Candidate rule outperforms only in easy-credit windows and fails during access-rationed periods | NY Fed SCE Credit Access, BLS CEX PUMD, SCF, Fed DFA, BLS CPI |
+
 ## Evidence gates for Tier 1 answers
 
 - `M1`: require at least one stock-flow consistent trace from system credit expansion to a household balance-sheet channel.
@@ -199,3 +214,11 @@ Seed round: cycle_008 / round_02_question_bank
 - `U33`: require one explicit lead-lag matrix across GLI, standards, and burden measures with at least one rejected channel.
 - `U34`: require real (inflation-adjusted) outcomes and at least one counterexample window where energy and productivity signals diverge.
 - `U35`: require both survival and compounding metrics across at least two unstable-regime windows before promoting a durable rule.
+
+## Evidence gates for cycle_009 unanswered set
+
+- `U36`: require revision-aware and revision-naive runs side by side; reject any signal claim that does not report both.
+- `U37`: require at least one application-intent measure and one approval-outcome measure before calling a supply-side tightening.
+- `U38`: require decomposition into valuation, participation, and burden channels; two-channel explanations cannot pass.
+- `U39`: require a common timing protocol across leverage metrics and stress outcomes, with one out-of-sample validation window.
+- `U40`: require survival-adjusted and real (inflation-adjusted) performance checks in both easy-credit and constrained-credit windows.
