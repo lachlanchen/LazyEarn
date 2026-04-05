@@ -14,6 +14,7 @@ Updated: 2026-04-05 (cycle_012 round_10 review_and_next_tasks)
 5. Build and publish the first `knowledge/study-paths.md` side-product (1/3/6-week path) tied to Chapter 9 questions, and add one "what to watch next" continuation rule. Keep the path anchored on `SP-6` and unresolved cycle_013 research questions.
 6. Add English cycle_013 sync in `docs/translations.json` and schedule the pending non-English locale follow-up:
    - bring `research.copy`, `research.point8`, and `research.asset1Desc` to cycle_013 alignment in `zh-Hant`, `zh-Hans`, `ja`, `ko`, `vi`, `ar`, `fr`, and `es` where still stale.
+7. Re-run build-and-verify typography pass for `wealth-from-first-principles` and reduce the remaining high-frequency Underfull hbox noise in the large source-heavy chapter sections while keeping the new cycle_013 tables and callouts intact.
 
 ## Cycle 012 review and execution priorities (round_10)
 
