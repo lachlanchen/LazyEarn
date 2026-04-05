@@ -420,3 +420,40 @@ as_of_date | question_id | signal_block | source | series_or_table | release_dat
 Quality rule:
 - Do not classify a window unless at least one signal is present from each block: `asset_quality`, `access`, `capacity_credit`, `cross_country_fragility`, and `concentration_participation`.
 - Any row missing `release_date` or `falsifier_check` fails method compliance.
+
+## 23) HC-5 method (historical-case conversion)
+
+Use this method to convert historical sources into reusable case rows for chapters, memos, or side-products.
+
+Goal:
+- Preserve mechanism clarity
+- Distinguish causation from coincidence
+- Deliver a reader-facing lesson with practical transferability
+
+| Step | Action | Output |
+| --- | --- | --- |
+| 1 | Choose one named episode with a bounded date window and primary actor group. | `episode` + `date_range` |
+| 2 | Map the episode to one or two explicit book questions (`money_supply_path`, `ownership_entry`, `constraint_sharing`, `inequality_channel`, etc.). | `question_it_helps` list |
+| 3 | Confirm facts with one official archival or institutional source family and one secondary anchor. | `source_1`, `source_2` |
+| 4 | State the exact mechanism the episode illustrates (for example, who got credit first, who got collateral-first access, who was blocked by constraint). | `mechanism` |
+| 5 | State what it does not prove, including one confounding path. | `what_it_does_not_prove` |
+| 6 | Translate the episode into one decision-use rule tied to the reader's stage (`entry`, `durability`, `distribution`, `resilience`). | `decision_use` |
+
+Minimum schema for `knowledge/historical-case-ledger.md`:
+
+```text
+case_id
+episode
+date_range
+actors_or_institutions
+question_it_helps
+mechanism
+what_it_does_not_prove
+source_1
+source_2
+decision_use
+```
+
+Quality rule:
+- Do not include episodes that only repeat a generic moral.
+- Every row must include both `what_it_does_not_prove` and `decision_use`.

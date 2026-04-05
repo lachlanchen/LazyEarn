@@ -22,6 +22,7 @@ Purpose: track practical artifacts that make the wealth repository easier to stu
 | `knowledge/entry-and-property-price-pulse.md` | planned | Prevents conflating entry momentum, valuation moves, and liquidity backdrop when assessing broad wealth access | question-bank (`U31`-`U35`) + methods (`EP-6`) + source-ledger | Draft first 8 rows using BFS, BDS, RPP, CPP, GLI, and one real-conversion rail |
 | `knowledge/credit-access-and-burden-bridge.md` | planned | Converts cycle_009 access and leverage questions into one revision-aware decision panel | question-bank (`U36`-`U40`) + methods (`CAB-9`) + source-ledger | Draft first 10 rows with intent/outcome split, burden/stress pair, and falsifier per row |
 | `knowledge/cadence-aware-stress-classification-panel.md` | planned | Converts cycle_010 mixed-cadence stress questions into an as-known-on-date regime panel with explicit fragility tags | question-bank (`U41`-`U45`) + methods (`CAS-10`) + source-ledger | Draft first 12 rows with release-date fields and naive-vs-cadence comparison notes |
+| `knowledge/historical-case-ledger.md` | planned | Converts historical and institutional episodes into structured case rows for chapter framing and narrative consistency | cycle_011 open historical questions + methods (`HC-5`) + question-bank (`U46`-`U52`) | Seed first 4 rows for Jekyll Island, Great Depression, Great Inflation, and 1973-74 Oil Shock |
 
 ## Side-product briefs
 
@@ -224,6 +225,25 @@ Purpose: track practical artifacts that make the wealth repository easier to stu
   - do not accept rows missing `release_date`, `falsifier_check`, or `decision_use`;
   - require at least one row from each signal block: `asset_quality`, `access`, `capacity_credit`, `cross_country_fragility`, and `concentration_participation`.
 - Exit criterion: at least 12 rows across `U41`-`U45`, plus one explicit naive-vs-cadence comparison note per review window.
+
+### N) Historical-case ledger brief
+
+- Goal: convert historical episodes into reusable, decision-facing case rows for chapters, memos, and future synthesis.
+- Minimum schema:
+  - `case_id`
+  - `episode`
+  - `date_range`
+  - `actors_or_institutions`
+  - `question_it_helps`
+  - `mechanism`
+  - `what_it_does_not_prove`
+  - `source_1`
+  - `source_2`
+  - `decision_use`
+- Method hook:
+  - use `HC-5` from `knowledge/methods.md`;
+  - keep mechanism, scope limits, and practical implication in separate fields for quick reuse.
+- Exit criterion: at least 12 rows covering the Priority 0S + cycle_011 historical anchors, including `Jekyll Island`, `Great Depression`, `Great Inflation`, and `1973-74 Oil Shock`, each with `what_it_does_not_prove` and `decision_use`.
 
 ## Starter prompt pack (14 days)
 

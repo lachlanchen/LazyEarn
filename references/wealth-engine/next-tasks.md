@@ -1,6 +1,6 @@
 # Next tasks
 
-Updated: 2026-04-05 (cycle_011 round_04 book_tex)
+Updated: 2026-04-05 (cycle_011 round_05 side_products)
 
 Measured review anchors (from this round):
 - `references/wealth-engine/knowledge/` currently misses 9 planned artifacts:
@@ -108,6 +108,7 @@ Done when: both PDF targets include both sections and all core rails, and build 
 
 11. Convert Cycle 011 historical-signal sources into narrative-ready case rows.
 Done when: `knowledge/historical-case-ledger.md` has first-pass entries for `Jekyll Island`, `Great Depression`, `Great Inflation`, and `Oil Shock of 1973-74` with mechanism, actor/institution, and `decision_use` fields completed.
+Status: scaffolding added in this round (`HC-5` method + historical-case brief and dependency row); file content still to be seeded next round.
 
 12. Mirror Chapter 9.10 (constraint-first historical lens) into TeX in cycle_011 book_tex.
 Done when: `investment_pdfs/wealth-from-first-principles/wealth-from-first-principles.tex` includes `Constraint-first lens for money-growth episodes` and new history rails appear in both relevant reference/source-note blocks.
