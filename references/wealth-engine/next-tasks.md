@@ -1,9 +1,9 @@
 # Next tasks
 
-Updated: 2026-04-05 (cycle_005 round_04 book_tex)
+Updated: 2026-04-05 (cycle_005 round_05 side_products)
 
 Measured review anchors (from this round):
-- `references/wealth-engine/knowledge/` currently misses 8 planned artifacts:
+- `references/wealth-engine/knowledge/` currently misses 7 planned artifacts:
   - `knowledge/core-series-watchlist.md`
   - `knowledge/household-balance-sheet-bundle.md`
   - `knowledge/citation-map.tsv`
@@ -11,7 +11,6 @@ Measured review anchors (from this round):
   - `knowledge/household-stress-watchlist.md`
   - `knowledge/signal-lead-lag-matrix.md`
   - `knowledge/distinction-cards.md`
-  - `knowledge/daily-prompts.md`
 - Site consistency checker is still missing in `tools/` (existing `tools/lre/` has no validator script):
   - expected: `tools/validate-site-content.sh` or `tools/validate-site-content.js`
 - Claim-level citation density in `investment/wealth-from-first-principles.md` remains weak in key sections:
@@ -135,8 +134,8 @@ Done when: each listed locale has `0` missing scoped keys and fewer English-equa
 Scope: mission loop, methods (`QE-5`, `HS-8`, `LL-6`), and research vault routing.
 Done when: each language README includes equivalent sections and current live paths.
 
-18. Promote the 14-day prompt pack into `references/wealth-engine/knowledge/daily-prompts.md`.
-Done when: all 14 prompts include explicit `question_id` mapping.
+18. Operationalize `references/wealth-engine/knowledge/daily-prompts.md` with one full run log.
+Done when: one 14-day pass is executed and at least 10 daily entries include `source_anchor`, `observed_signal`, `caveat`, and `decision_use`.
 
 19. Create `references/wealth-engine/knowledge/distinction-cards.md`.
 Done when: at least 15 cards with `Distinction`, `Common confusion`, `Quick test question`, and `Example`.

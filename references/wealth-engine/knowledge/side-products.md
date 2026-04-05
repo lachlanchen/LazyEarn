@@ -16,7 +16,7 @@ Purpose: track practical artifacts that make the wealth repository easier to stu
 | `knowledge/signal-lead-lag-matrix.md` | planned | Makes timing claims testable for access/stress signals before outcome moves | question-bank + methods + source-ledger | Seed rows for U7 and U9 with explicit lag windows |
 | `knowledge/entry-vs-incumbent-access-tests.md` | planned | Separates ownership-entry access conditions from incumbent balance-sheet outcomes | question-bank + methods + mortgage/small-business sources | Draft first 6 test rows for U11 and U13 |
 | `knowledge/distinction-cards.md` | planned | Quick review cards for core conceptual distinctions | question-bank | Draft 15 cards with examples |
-| `knowledge/daily-prompts.md` | planned | Keeps learning cadence consistent during short study sessions | question-bank + resource-map | Promote prompt pack below into standalone file |
+| `knowledge/daily-prompts.md` | active | Keeps learning cadence consistent during short study sessions and ties each session to a question ID | question-bank + methods + source-ledger | Run one 14-day pilot and capture decision-use notes |
 
 ## Side-product briefs
 
@@ -111,7 +111,22 @@ Purpose: track practical artifacts that make the wealth repository easier to stu
   - `decision_use`
 - Exit criterion: at least 6 rows covering both `U11` and `U13` with one explicit falsifier per row.
 
+### H) Daily-prompts brief
+
+- Goal: keep research momentum during short sessions while preserving evidence discipline.
+- Minimum schema:
+  - `day`
+  - `question_id`
+  - `prompt`
+  - `suggested_output`
+- Execution note:
+  - Use `DP-5` from `knowledge/methods.md`.
+  - Log at least `source_anchor`, `observed_signal`, `caveat`, and `decision_use` for each day.
+- Exit criterion: one complete 14-day run with at least 10 days containing source-backed notes.
+
 ## Starter prompt pack (14 days)
+
+Canonical version now lives in `knowledge/daily-prompts.md`.
 
 Use one prompt per day for short focused study blocks.
 

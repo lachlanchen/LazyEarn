@@ -185,3 +185,29 @@ Default rule:
 
 - In any cycle that touches the book, aim for at least one visibly meaningful improvement to the reading experience.
 - If forced to choose between a hidden maintenance edit and a clear reader-facing improvement, prefer the reader-facing improvement unless accuracy would suffer.
+
+## 11) DP-5 method (daily prompt execution loop)
+
+Use this method with `knowledge/daily-prompts.md` to turn short study sessions into reusable research output.
+
+| Step | Time box | Action | Output |
+| --- | --- | --- | --- |
+| 1 | 5 min | Pick one row by `day` and restate the prompt as one testable question. | focused question sentence |
+| 2 | 10 min | Pull one official/primary source anchor tied to the selected `question_id`. | source anchor with URL or table ID |
+| 3 | 10 min | Write one observed signal and one caveat (what the signal does not prove). | signal + caveat pair |
+| 4 | 5 min | Add one decision-use line (what should change in behavior, risk posture, or monitoring). | action implication |
+| 5 | 5 min | Log a one-line note in the current cycle round file and add any source to `source-ledger.tsv` if new. | durable research trace |
+
+Minimum daily output template:
+
+```text
+date:
+day:
+question_id:
+prompt:
+source_anchor:
+observed_signal:
+caveat:
+decision_use:
+next_pull:
+```
