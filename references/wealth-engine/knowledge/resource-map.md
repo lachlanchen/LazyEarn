@@ -1,12 +1,35 @@
 # Resource Map
 
 Updated: 2026-04-05  
-Round seed: cycle_008 / round_01_resource_scan
+Round seed: cycle_009 / round_01_resource_scan
 
 ## Selection rules used in this scan
 - Prefer official or primary institutions with transparent methods.
 - Prefer sources with download/API access, not just commentary.
 - Capture freshness signals (release dates, update cadence, or version tags).
+
+## Cycle 009 additions: machine-readable Fed rails and household microdata
+- Federal Reserve Data Download Program (DDP) home  
+  https://www.federalreserve.gov/datadownload/default.htm  
+  Why keep: primary Board download rail for selected statistical releases; page documents current platform behavior (for example, DDP "View chart" retirement and FRED handoff on December 18).
+- Federal Reserve DDP announcements feed  
+  https://www.federalreserve.gov/feeds/DataDownload.html  
+  Why keep: chronological release and code-change feed with dated 2026 notices and next-release timing notes, useful for monitoring source revisions before they propagate into downstream analysis.
+- New York Fed SCE Credit Access Survey  
+  https://www.newyorkfed.org/microeconomics/sce/credit-access  
+  Why keep: rotating household-credit module with clear cadence (fielded every four months) and direct downloads for chart data, questionnaire, complete microdata, and methodology.
+- U.S. Census SIPP datasets  
+  https://www.census.gov/programs-surveys/sipp/data/datasets.html  
+  Why keep: official panel-microdata entry point with direct year/panel access (2018-2024 and 1984-2014 lists) and a visible page revision marker (July 9, 2025).
+- BLS Consumer Expenditure Public Use Microdata (PUMD)  
+  https://www.bls.gov/cex/pumd.htm  
+  Why keep: high-quality household spending microdata rail with explicit file formats (SAS, STATA, ASCII), interview/diary split, and page maintenance metadata (last modified January 22, 2025).
+- OECD Household debt indicator  
+  https://www.oecd.org/en/data/indicators/household-debt.html  
+  Why keep: standardized cross-country household leverage indicator with definition clarity (debt relative to disposable income) and direct handoff into OECD Data Explorer source tables.
+- Federal Reserve Financial Accounts Guide (FOF)  
+  https://www.federalreserve.gov/apps/fof/  
+  Why keep: searchable documentation layer that maps Z.1 flow-of-funds/balance-sheet series to underlying sources, improving traceability when converting aggregate claims into source-backed mechanics.
 
 ## Cycle 008 additions: entry nowcasting, property-price risk, and programmatic rails
 - U.S. Census Business Formation Statistics (BFS)  
