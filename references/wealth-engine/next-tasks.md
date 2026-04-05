@@ -12,6 +12,7 @@ Updated: 2026-04-05 (cycle_012 round_10 review_and_next_tasks)
 3. In the next verification/build round, confirm `9.10.1` appears in both PDF targets and that the heading is readable in the mirrored `docs/investment_pdfs/...` output.
 4. Optionally run a targeted typography cleanup pass if warning reduction remains in scope (notable hbox overfulls in dense narrative/table sections).
 5. Build and publish the first `knowledge/study-paths.md` side-product (1/3/6-week path) tied to Chapter 9 questions, and add one "what to watch next" continuation rule. Keep the path anchored on `SP-6` and unresolved cycle_013 research questions.
+6. Add one localized `research.point8` update pass in `docs/translations.json` to ensure cycle_013 wording is consistent across runtime locales and not only fallback English for this key.
 
 ## Cycle 012 review and execution priorities (round_10)
 
