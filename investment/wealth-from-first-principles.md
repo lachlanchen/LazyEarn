@@ -619,6 +619,30 @@ Classification sequence:
 
 If cadence integrity is unclear (missing release, major revision, or broken comparability), freeze threshold updates and keep policy in defensive mode.
 
+### 9.10 Constraint-first lens for money-growth episodes
+
+Financial systems often become more liquid while ownership remains concentrated.
+The hard-to-see risk is treating a system-level expansion as proof of broad wealth improvement.
+
+This lens tracks three questions during turning points:
+
+- which institutions gained immediate traction first,
+- which constraint became the limiting factor next (finance, production, or wages),
+- and whether durable owner entry improved or only valuations changed.
+
+| Episode | Signal that looked positive | Constraint that limited durable ownership |
+| --- | --- | --- |
+| **The Great Depression (1929-1939)** | policy and bank responses stabilized some markets and institutions | credit channels and depositor confidence remained fragile, so entry stayed constrained for many households and small firms |
+| **The Great Inflation and disinflation transition (1960s-1980s)** | nominal asset and debt markets showed regime shifts quickly | inflation and tightening hit debt-service budgets faster than ownership entry, making nominal gains uneven across households |
+| **1973-74 Oil Shock** | liquidity policy and valuation moves often damped immediate panic | energy and logistics bottlenecks reduced real margins, so some financial gains failed to become durable household progress |
+| **Jekyll Island institutional redesign (1907-1910 legacy)** | system architecture improved central-bank coordination over time | operational transmission still depends on policy-to-borrower access, so design intent alone does not guarantee new-owner access |
+
+Practical decision rule:
+
+1. If a cycle shows positive financial signals but weak borrower entry, keep leverage growth staged and prioritize resilience.
+2. Require production-capacity or real-cost relief signals before treating valuation strength as durable wealth progress.
+3. Use debt-service and participation checks as mandatory confirmations of any nominal improvement.
+
 ## 10. A 90-day plan
 
 ### Days 1-30: map reality
@@ -747,6 +771,10 @@ This is a curated starter map, not an exhaustive library.
 | **SEC Financial Statement and Notes Data Sets** | reproducible statement-level factor extraction for ownership-quality screens | quarterly filing-derived dataset releases |
 | **SEC EDGAR API docs + FRED/ALFRED** | reproducible filings ingestion and revision-aware macro pulls | API docs plus vintage-aware archive layer |
 | **FRASER historical archive** | primary-source monetary and financial history documents | long-run policy and publication archive |
+| **Federal Reserve History: The Great Depression** | banking-system and policy response under collapse-era stress | historical mechanism reference for credit-access and solvency transmission |
+| **Federal Reserve History: The Great Inflation** | inflation, rates, and debt burden dynamics during a long disinflation cycle | historical mechanism reference for real-compounding versus nominal-marking regimes |
+| **Federal Reserve History: Oil Shock of 1973-74** | production and energy constraints during a global supply shock | historical mechanism reference for real-throughput versus financial-signaling sequencing |
+| **Federal Reserve History: The Meeting at Jekyll Island** | institutional architecture and the creation of modern central banking institutions | historical reference for design intent versus operational access outcomes |
 
 ## 12. Source notes
 
@@ -788,6 +816,7 @@ Primary web references used for this guide were checked on **2026-04-05** and in
 - U.S. Treasury TIC release calendar and Monthly Treasury Statement (MTS) program page
 - NBER U.S. business cycle expansions and contractions chronology
 - St. Louis Fed: FRED API docs, ALFRED, and FRASER archive
+- Federal Reserve History essays on the Great Depression, Great Inflation, 1973-74 Oil Shock, and the Meeting at Jekyll Island
 - Yale/Coursera, "Financial Markets"
 - Open Yale Courses, "Financial Theory"
 - MIT OpenCourseWare, "Blockchain and Money"
