@@ -17,6 +17,7 @@ Purpose: track practical artifacts that make the wealth repository easier to stu
 | `knowledge/entry-vs-incumbent-access-tests.md` | planned | Separates ownership-entry access conditions from incumbent balance-sheet outcomes | question-bank + methods + mortgage/small-business sources | Draft first 6 test rows for U11 and U13 |
 | `knowledge/distinction-cards.md` | planned | Quick review cards for core conceptual distinctions | question-bank | Draft 15 cards with examples |
 | `knowledge/daily-prompts.md` | active | Keeps learning cadence consistent during short study sessions and ties each session to a question ID | question-bank + methods + source-ledger | Run one 14-day pilot and capture decision-use notes |
+| `knowledge/study-paths.md` | active | turns chapter sequence into practical study routines tied to unresolved questions and side products | mission + question-bank + methods (`SP-6`) + citation-map + source-ledger | Publish first draft with one 1-week and one 4-week progression plus completion rubric |
 | `knowledge/revision-aware-capacity-checklist.md` | planned | Turns revision-aware credit reads plus real-capacity rails into one repeatable regime classification layer | question-bank (`U21`-`U25`) + methods (`RC-6`) + source-ledger | Draft first 6 rows and attach one action rule per row |
 | `knowledge/cycle-clock-lead-lag-panel.md` | planned | Aligns mixed-cadence cycle signals into one lead-lag decision panel for liquidity, conditions, flows, and stress | question-bank (`U26`,`U27`,`U29`) + methods (`CC-7`) + source-ledger | Draft first 8 rows and include at least one rejected signal case |
 | `knowledge/entry-and-property-price-pulse.md` | planned | Prevents conflating entry momentum, valuation moves, and liquidity backdrop when assessing broad wealth access | question-bank (`U31`-`U35`) + methods (`EP-6`) + source-ledger | Draft first 8 rows using BFS, BDS, RPP, CPP, GLI, and one real-conversion rail |
@@ -258,6 +259,25 @@ Purpose: track practical artifacts that make the wealth repository easier to stu
   - `burden_signal`
   - `throughput_signal`
   - `first_lead_channel`
+
+### P) Study paths brief
+
+- Goal: convert broad learning goals into a practical reading route that preserves causality and decision quality.
+- Minimum schema:
+  - `path_id`
+  - `audience_level`
+  - `duration`
+  - `start_question_ids`
+  - `chapter_stops`
+  - `checkpoints`
+  - `decision_rhythm`
+  - `failure_modes`
+  - `continuation_rule`
+- Execution note:
+  - Use `SP-6` from `knowledge/methods.md`.
+  - Keep one decision rule per checkpoint and one falsification check per checkpoint type.
+- Exit criterion:
+  - At least one 4-stop and one 6-stop path completed with complete `chapter_stops`, `checkpoints`, and `failure_modes`.
   - `first_lag_channel`
   - `falsifier`
   - `must_not_conflate`

@@ -11,6 +11,7 @@ Updated: 2026-04-05 (cycle_012 round_10 review_and_next_tasks)
 2. Add at least one companion historical mechanism in section 9.x that contrasts a non-crisis inflation/constrained-growth regime (for example, the 1973–74 oil shock sequence) using named official sources and a similar check list.
 3. In the next verification/build round, confirm `9.10.1` appears in both PDF targets and that the heading is readable in the mirrored `docs/investment_pdfs/...` output.
 4. Optionally run a targeted typography cleanup pass if warning reduction remains in scope (notable hbox overfulls in dense narrative/table sections).
+5. Build and publish the first `knowledge/study-paths.md` side-product (1/3/6-week path) tied to Chapter 9 questions, and add one "what to watch next" continuation rule. Keep the path anchored on `SP-6` and unresolved cycle_013 research questions.
 
 ## Cycle 012 review and execution priorities (round_10)
 

@@ -239,6 +239,40 @@ source_2:
 decision_use:
 ```
 
+## 17) SP-6 method (study path and side-product design)
+
+Use this method when turning a heavy chapter into a practical reader sequence.
+
+| Step | Action | Output |
+| --- | --- | --- |
+| 1 | Pick one reader target (`foundation`, `debt`, `inequality`, `ownership`) and one completion window (`1/3/6-week`) and lock scope. | scoped path objective |
+| 2 | Select 4-8 chapter checkpoints from the book and one source family for each checkpoint. | chapter-to-source map |
+| 3 | Add one decision ritual per checkpoint (for example `what to do next`, `what to monitor`, `what to ignore`). | recurring decision practice |
+| 4 | Build one micro-exemplar at each checkpoint from question-bank entries and side-product rows. | example-to-question linkage |
+| 5 | Include one explicit failure mode for each checkpoint and one correction rule. | robustness to misuse |
+| 6 | Add a one-page "where to continue" bridge for the next path so the reader can self-advance without re-entry friction. | continuity design |
+| 7 | Verify each checkpoint uses at least one distinction and one real mechanism from `question-bank` + `mission` goals. | consistency and rigor |
+
+Minimum schema for `knowledge/study-paths.md`:
+
+```text
+path_id:
+audience_level:
+duration:
+target_questions:
+chapter_stops:
+decision_rhythms:
+failure_modes:
+continuation_rule:
+```
+
+Preferred structure:
+
+- **Core ladder**: one chapter sequence (3, 4, 5, 6, 7, 8, 9, glossary/appendix).
+- **Question spine**: three questions from the unanswered tier that each checkpoint helps resolve.
+- **Source ladder**: one official source family per checkpoint to avoid anecdotal drift.
+- **Decision ladder**: a clear action change between checkpoints (for example "from observation to sizing", "from sizing to timing").
+
 ## 17) PP-6 method (physics and philosophy integration)
 
 Use this method when the book touches physical constraint, metaphysics of value, ethics, agency, ownership, or decision philosophy.
