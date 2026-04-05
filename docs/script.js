@@ -95,6 +95,7 @@ const fallbackStrings = {
   "research.pdf": `Download PDF`,
   "research.viewInline": `View on-site`,
   "research.md": `Read Markdown`,
+  "viewer.backToResearch": `← Back to Research Drop`,
   "research.cardTitle": `What the guide covers`,
   "research.cardCopy": `Core questions, practical methods, official datasets, and decision-ready explanations tied to real evidence.`,
   "research.stat1": `tier-1 questions`,
@@ -104,6 +105,8 @@ const fallbackStrings = {
   "research.asset1Desc": `A practical field guide to money and wealth with distinction checklists, evidence ladders, and source-linked methods you can apply immediately.`,
   "research.asset2Title": `Financial freedom playbook`,
   "research.asset2Desc": `Timeless principles blended with modern automation ideas—capital allocation tables, quarterly rituals, and name ideas for future Lazy Money drops.`,
+  "research.asset2ZhTitle": `Financial freedom playbook (Chinese edition)`,
+  "research.asset2ZhDesc": `Chinese edition covering rational spending, compounding, diversified income, and automation routines with a Lazy Money-style allocation table.`,
   "research.asset3Title": `High-growth dossier`,
   "research.asset3Desc": `Narrative rundowns for nine high-growth U.S. equities (AI, biotech, semiconductors, clean energy, cloud) with upside tables and annotated sources.`,
   "form.success": `Invite sent to {{email}}. Expect a lazy hello soon.`,
@@ -146,6 +149,8 @@ const THEME_KEY = "lazyearn_theme";
 
 const pdfEntries = {
   "wealth-from-first-principles": {
+    titleKey: "research.asset1Title",
+    descriptionKey: "research.asset1Desc",
     title: "Wealth from first principles",
     description:
       "A practical field guide to money and wealth with distinction checklists, evidence ladders, and source-linked methods.",
@@ -154,6 +159,8 @@ const pdfEntries = {
     markdown: "https://github.com/lachlanchen/LazyEarn/blob/main/investment/wealth-from-first-principles.md",
   },
   "high-growth": {
+    titleKey: "research.asset3Title",
+    descriptionKey: "research.asset3Desc",
     title: "High-growth dossier",
     description:
       "Narrative rundowns for nine high-growth U.S. equities (AI, biotech, semiconductors, clean energy, cloud) with upside tables and annotated sources.",
@@ -162,6 +169,8 @@ const pdfEntries = {
     markdown: "https://github.com/lachlanchen/LazyEarn/blob/main/investment/high-growth-stocks.md",
   },
   "financial-freedom": {
+    titleKey: "research.asset2Title",
+    descriptionKey: "research.asset2Desc",
     title: "Financial freedom playbook",
     description:
       "Timeless principles blended with modern automation ideas—capital allocation tables, quarterly rituals, and name ideas for future Lazy Money drops.",
@@ -170,9 +179,11 @@ const pdfEntries = {
     markdown: "https://github.com/lachlanchen/LazyEarn/blob/main/investment/financial_freedom.md",
   },
   "financial-freedom-zh": {
-    title: "Financial freedom playbook · 中文",
+    titleKey: "research.asset2ZhTitle",
+    descriptionKey: "research.asset2ZhDesc",
+    title: "Financial freedom playbook (Chinese edition)",
     description:
-      "细致讲解理性消费、复利投资、多元收入与自动化工具的结合，并附上 Lazy Money 风格的资本分配表与季度仪式。",
+      "Chinese edition covering rational spending, compounding, diversified income, and automation routines with a Lazy Money-style allocation table.",
     pdf: "investment_pdfs/financial_freedom_zh/financial_freedom_zh.pdf",
     download: "investment_pdfs/financial_freedom_zh/financial_freedom_zh.pdf",
     markdown:
@@ -189,6 +200,7 @@ const pdfEntries = {
   setupSmoothScroll();
   setupObserver();
   setupParallax();
+  setupResearchCatalog();
   setupStandaloneViewer();
   setFooterYear();
 })();
@@ -332,6 +344,7 @@ function applyTranslations() {
   }
 
   renderIdeaOutput();
+  setupStandaloneViewer();
 }
 
 function getString(lang, key) {
@@ -478,6 +491,44 @@ function setupParallax() {
   });
 }
 
+function setupResearchCatalog() {
+  const cards = document.querySelectorAll(".asset-card[data-research-slug]");
+  if (!cards.length) {
+    return;
+  }
+
+  cards.forEach((card) => {
+    const slug = card.getAttribute("data-research-slug");
+    const entry = pdfEntries[slug];
+    if (!entry) {
+      return;
+    }
+
+    const downloadEl = card.querySelector('[data-research-link="download"]');
+    const viewEl = card.querySelector('[data-research-link="view"]');
+    const markdownEl = card.querySelector('[data-research-link="markdown"]');
+
+    if (downloadEl) {
+      downloadEl.setAttribute("href", entry.download || entry.pdf);
+    }
+    if (viewEl) {
+      viewEl.setAttribute("href", `pdf-viewer.html#${slug}`);
+    }
+    if (markdownEl) {
+      markdownEl.setAttribute("href", entry.markdown);
+    }
+  });
+}
+
+function getCatalogText(entry, type) {
+  const key = type === "title" ? entry.titleKey : entry.descriptionKey;
+  const fallback = entry[type] || "";
+  if (!key) {
+    return fallback;
+  }
+  return getString(currentLanguage, key) || fallback;
+}
+
 function setupStandaloneViewer() {
   const shell = document.querySelector(".viewer-shell");
   if (!shell) {
@@ -494,6 +545,8 @@ function setupStandaloneViewer() {
   }
   slug = slug || "wealth-from-first-principles";
   const entry = pdfEntries[slug] || pdfEntries["wealth-from-first-principles"];
+  const title = getCatalogText(entry, "title");
+  const description = getCatalogText(entry, "description");
 
   const titleEl = document.getElementById("viewerTitle");
   const descEl = document.getElementById("viewerDescription");
@@ -502,10 +555,10 @@ function setupStandaloneViewer() {
   const markdownEl = document.getElementById("markdownLink");
 
   if (titleEl) {
-    titleEl.textContent = entry.title;
+    titleEl.textContent = title;
   }
   if (descEl) {
-    descEl.textContent = entry.description;
+    descEl.textContent = description;
   }
   if (frameEl) {
     frameEl.setAttribute("src", entry.pdf);
@@ -516,7 +569,7 @@ function setupStandaloneViewer() {
   if (markdownEl) {
     markdownEl.setAttribute("href", entry.markdown);
   }
-  document.title = `${entry.title} · earn.lazying.art`;
+  document.title = `${title} · earn.lazying.art`;
 }
 
 function setFooterYear() {
