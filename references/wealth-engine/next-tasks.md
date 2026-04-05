@@ -11,3 +11,4 @@
 7. Create `knowledge/citation-map.tsv` (section -> claim -> question_id -> source family -> last_checked_date).
 8. Promote the 14-day starter prompt pack into `knowledge/daily-prompts.md` and keep it synced with question-bank IDs.
 9. Mirror the new README "wealth refinery loop" section into `i18n/` variants and keep labels consistent with live paths.
+10. Localize the updated website research-copy keys (`research.*`) for non-English translation packs instead of fallback English text.
