@@ -183,7 +183,7 @@ Done when: each brief contains `hypothesis`, `falsifier`, `must_not_conflate`, `
 Done when: at least 10 rows map `question_id`, `signal`, `source`, `series_or_table`, `frequency`, `lead_or_lag`, `decision_use` across `G.19`, `SLOOS`, NY Fed household debt, ECB BLS, BEA fixed assets, and EIA MER.
 
 25. Add one book-facing mechanism table that ties financial-claim growth to physical-constraint rails.
-Done when: markdown and TeX both include one aligned table that references at least one BEA fixed-assets source and one EIA MER source, with no analogy-only framing.
+Done when: markdown and TeX both include one aligned table (current markdown anchor: Section `9.5`) that references at least one BEA fixed-assets source and one EIA MER source, with no analogy-only framing.
 
 ## Priority 1.7 - cycle_006 question-bank follow-up
 

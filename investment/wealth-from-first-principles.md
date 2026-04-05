@@ -489,6 +489,27 @@ Use this transmission sequence:
 If standards tighten but flow does not slow, transmission may be delayed or policy-sensitive.  
 If flow slows and delinquencies rise together, prioritize liquidity and deleveraging over return-chasing.
 
+### 9.5 Revision-aware credit-and-capacity check (quarterly)
+
+A frequent failure mode is treating one headline credit series as a complete regime signal.
+
+Use this additional check so you do not confuse:
+- a statistical revision for a real behavioral shift, or
+- nominal credit growth for durable wealth capacity.
+
+| Check block | What to track | Where to check | Practical read |
+| --- | --- | --- | --- |
+| **Consumer-credit pulse** | revolving/nonrevolving acceleration and composition shifts | Federal Reserve G.19 (`https://www.federalreserve.gov/releases/g19/`) | faster unsecured growth with flat real income is a fragility warning, not automatic progress |
+| **Revision guardrail** | method and source changes that alter comparability | Fed FEDS note on G.19 credit-union estimates (`https://www.federalreserve.gov/econres/notes/feds-notes/a-note-on-the-new-credit-union-estimates-in-the-g-19-consumer-credit-statistical-release-20250708.html`) | rerun thresholds on revision-aware windows before updating policy rules |
+| **Cross-market standards check** | whether tightening/easing is local or broad across banking systems | ECB Bank Lending Survey + Fed SLOOS (`https://www.ecb.europa.eu/stats/ecb_surveys/bank_lending_survey/html/index.en.html`, `https://www.federalreserve.gov/data/sloos.htm`) | if both tighten, assume access friction is structural, not temporary |
+| **Real-capacity rail** | fixed-asset growth relative to credit and income growth | BEA Fixed Assets + BEA Personal Income (`https://www.bea.gov/itable/fixed-assets`, `https://www.bea.gov/data/income-saving/personal-income`) | weak capital-stock growth with strong credit growth can signal claim inflation over productive base |
+| **Physical-throughput rail** | energy production/consumption and energy-price pressure | EIA Monthly Energy Review + BLS CPI (`https://www.eia.gov/totalenergy/data/monthly/previous.php`, `https://www.bls.gov/cpi/home.htm`) | energy stress with high leverage usually narrows household error tolerance |
+
+Decision rule:
+1. If credit pulse is rising while burden is rising and real-capacity rails are flat, stay defensive on leverage.
+2. If credit and capacity are both improving with contained burden, scale ownership gradually with fixed downside limits.
+3. If a major method revision lands, freeze threshold updates until revision-aware rechecks are complete.
+
 ## 10. A 90-day plan
 
 ### Days 1-30: map reality
@@ -574,15 +595,20 @@ This is a curated starter map, not an exhaustive library.
 | **Federal Reserve SLOOS** | lending standards and loan demand by major credit segment | quarterly U.S. bank lending survey |
 | **Federal Reserve SHED** | household financial well-being, emergency capacity, and payment stress | annual U.S. household survey |
 | **Federal Reserve DSR/FOR** | household debt-service and fixed-obligation burden | quarterly U.S. household burden release |
+| **Federal Reserve G.19** | consumer-credit stock and revolving/nonrevolving composition | monthly U.S. consumer-credit release |
+| **Fed FEDS note on G.19 revisions** | method and source-change context for credit-union estimate comparability | revision documentation and statistical note |
 | **New York Fed Household Debt and Credit** | delinquency transitions and debt composition by household slices | quarterly U.S. credit panel |
 | **New York Fed SCE** | inflation, labor, credit access, and expected delinquency signals | monthly U.S. household expectations survey |
 | **CFPB Consumer Credit Trends** | consumer credit flow by product/risk group and geography | monthly U.S. dashboard updates |
 | **CFPB Making Ends Meet** | direct household stress and bill-payment strain indicators | annual survey reports with data files |
 | **BEA Personal Income and Outlays** | income, consumption, and personal saving path | monthly U.S. national accounts release |
+| **BEA Fixed Assets** | produced-capital stock, depreciation, and investment structure | annual U.S. fixed-asset update cycle |
 | **BEA Distribution of Personal Income** | distributional disposable income and inequality decomposition | annual distributional national-accounts release |
 | **BLS CPI + CEX** | inflation pressure and household spending structure | monthly CPI and annual spending detail |
+| **EIA Monthly Energy Review (MER)** | economy-wide energy production/consumption/price throughput context | monthly U.S. energy data release |
 | **FHFA House Price Index** | housing wealth regime and regional price dynamics | monthly/quarterly U.S. house-price indices |
 | **BIS Debt Service Ratios (DSR)** | cross-country debt-burden and early-warning leverage context | quarterly international debt-service statistics |
+| **ECB Bank Lending Survey (BLS)** | euro-area credit standards and loan-demand cycle comparisons | quarterly euro-area lending survey |
 | **U.S. Census wealth tables (SIPP)** | household wealth and debt distribution in public-use tables | annual SIPP-based wealth publication |
 | **U.S. Census CPS income/inequality tables** | household, family, and person income distribution baselines | annual CPS ASEC update cycle |
 | **IRS SOI Publication 1304** | AGI and tax-share distribution cross-check from filed returns | annual individual return statistics report |
@@ -596,18 +622,21 @@ This is a curated starter map, not an exhaustive library.
 
 Primary web references used for this guide were checked on **2026-04-05** and include:
 
-- Federal Reserve releases: H.6, Z.1, DFA, EFA, SCF, and DSR/FOR
+- Federal Reserve releases: H.6, Z.1, DFA, EFA, SCF, DSR/FOR, and G.19
+- Federal Reserve FEDS note on G.19 credit-union estimate revisions
 - Federal Reserve surveys: SLOOS and SHED
 - Federal Reserve Bank of New York: Household Debt and Credit report, Survey of Consumer Expectations
 - U.S. BEA: Personal Income and Outlays, Distribution of Personal Income
+- U.S. BEA: Fixed Assets tables
 - U.S. BLS: CPI and Consumer Expenditure Surveys
+- U.S. EIA: Monthly Energy Review
 - U.S. Census: Wealth and Asset Ownership tables (SIPP), CPS income/inequality tables, and P70BR-211 brief
 - U.S. FHFA: House Price Index datasets
 - IRS SOI Publication 1304 and IRS Data Book
 - Bank of England, "Money creation in the modern economy"
 - IMF: WEO and Global Debt Database
 - BIS Data Portal and Debt Service Ratios (DSR)
-- ECB Consumer Expectations Survey (CES)
+- ECB Consumer Expectations Survey (CES) and Bank Lending Survey (BLS)
 - World Bank: The Changing Wealth of Nations 2024, Global Findex, PIP, IDS
 - WID.world, WIID, and OECD IDD/WDD
 - CFPB: Consumer Credit Trends, Making Ends Meet survey data, and "Your Money, Your Goals"
