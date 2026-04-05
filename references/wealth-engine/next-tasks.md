@@ -1,77 +1,75 @@
 # Next tasks
 
-Updated: 2026-04-05 (cycle_002 round_09 build_and_verify)
+Updated: 2026-04-05 (cycle_002 round_10 review_and_next_tasks)
 
-## Priority A - Evidence pipeline (execute first)
+Measured review anchors (from this round):
+- `references/wealth-engine/knowledge/` still misses 7 planned artifacts.
+- `tools/` still misses the site consistency checker script.
+- `investment/wealth-from-first-principles.md` sections 3, 5, and 8 each currently have `0` URL citation lines.
+- Research/viewer localization drift remains high: `ja`, `ko`, `vi`, `ar`, `fr`, `es` are `24/24` English-equal keys; `zh-Hans` and `zh-Hant` are `20/24`.
 
-1. Build `references/wealth-engine/knowledge/core-series-watchlist.md` with exact series/table IDs for Tier 1 questions `M1`, `O2`, and `L1`.
-Output: one row per series with `question_id`, `series_name`, `series_id_or_table`, `source`, `frequency`, `unit`, `note`.
-Done when: at least 9 rows (>=3 per question) with direct links to official release tables.
+## Priority 0 - Execute now (in order)
 
-2. Create `references/wealth-engine/knowledge/citation-map.tsv` to map book claims to source families.
+1. Build `references/wealth-engine/knowledge/core-series-watchlist.md` for Tier 1 `M1`, `O2`, `L1`.
+Output schema: `question_id`, `series_name`, `series_id_or_table`, `source`, `frequency`, `unit`, `note`.
+Done when: at least 9 rows (>=3 per question) with direct official release/table links.
+
+2. Create `references/wealth-engine/knowledge/citation-map.tsv` mapping book claims to sources.
 Output columns: `book_section`, `claim_snippet`, `question_id`, `source_family`, `last_checked_date`.
-Done when: sections 3, 5, and 8 of the money/wealth book each have mapped claim rows.
+Done when: sections 3, 5, and 8 each have mapped rows tied to official source families.
 
-3. Add inline citations to `investment/wealth-from-first-principles.md` for source-sensitive claims in sections 3, 5, and 8.
-Output: markdown claim sentences with nearby citation markers linked to official sources.
-Done when: every macro, inequality, and leverage claim in those sections has at least one source anchor.
+3. Add inline citations to `investment/wealth-from-first-principles.md` for sections 3, 5, and 8.
+Output: source-sensitive claims with nearby links/citation markers.
+Done when: each of sections 3/5/8 includes at least 3 official-source anchors and no high-impact claim is uncited.
 
-4. Mirror those citations into `investment_pdfs/wealth-from-first-principles/wealth-from-first-principles.tex` so PDF and markdown stay aligned.
-Output: TeX source notes/footnotes aligned to the same claims and source families.
-Done when: markdown and TeX cite the same evidence set for the edited sections.
+4. Mirror the same citation set into `investment_pdfs/wealth-from-first-principles/wealth-from-first-principles.tex` and rebuild.
+Output: TeX citations aligned to markdown claims, plus two-pass XeLaTeX build and PDF copy to both sync targets.
+Done when: markdown and TeX cite the same source families for edited claims and build succeeds.
 
-5. Extend `references/wealth-engine/knowledge/source-ledger.tsv` schema for refresh automation.
-Output columns added: `source_type`, `update_cadence`, `last_verified_on`.
-Done when: all existing rows are migrated and still parse as tab-separated fields.
+5. Add a consistency checker script at `tools/validate-site-content.sh` (or `.js`).
+Checks required: catalog slug parity (`index.html` vs `script.js`), mapped PDF existence under `docs/investment_pdfs/`, and research/viewer key coverage per locale.
+Done when: script exits non-zero on any mismatch and prints actionable failure lines.
 
-## Priority B - Analysis deliverables
+## Priority 1 - Evidence products and decision layer
 
-6. Draft three data-backed mini-memos from the Tier 1 bank: `M1`, `O2`, `L1`.
-Output path: `references/wealth-engine/knowledge/memos/` with one file per question.
-Done when: each memo follows the methods template and includes one claim, one caveat, and one decision implication.
+6. Create `references/wealth-engine/knowledge/question-evidence-gates.md`.
+Coverage: `M1`, `O2`, `L1`, `I1`, `R1`.
+Done when: each row has `minimum_evidence`, `falsifier`, `must_not_conflate`, `status`, `decision_use`, `next_pull`.
 
-7. Build `references/wealth-engine/knowledge/household-balance-sheet-bundle.md` aligning variables across NY Fed CCP, Fed EFA, Census SIPP, FHFA HPI, and BLS CPI.
-Output: variable dictionary, unit harmonization notes, and join guidance.
-Done when: at least one reproducible alignment example is documented.
+7. Create `references/wealth-engine/knowledge/household-stress-watchlist.md`.
+Signal mix: expectations, burden, delinquency transitions, and household strain.
+Done when: at least 8 signals with `signal`, `source`, `series_or_table`, `frequency`, `lead_or_lag`, `risk_read`.
 
-8. Promote the 14-day starter prompts into `references/wealth-engine/knowledge/daily-prompts.md` and map each prompt to a question ID.
-Output: checklist-style daily schedule tied to Tier 1/2/3 IDs.
-Done when: all 14 prompts include explicit `question_id` references.
+8. Draft three mini-memos in `references/wealth-engine/knowledge/memos/` for `M1`, `O2`, `L1`.
+Done when: each memo includes one explicit claim, one caveat, and one decision implication.
 
-## Priority C - Surface sync and quality checks
+9. Build `references/wealth-engine/knowledge/household-balance-sheet-bundle.md`.
+Scope: NY Fed CCP, Fed EFA, Census SIPP, FHFA HPI, BLS CPI.
+Done when: variable dictionary, harmonization notes, and one reproducible alignment example are present.
 
-9. Localize research/viewer website keys for non-English locales in `docs/translations.json`.
-Scope keys: `research.*` (including `research.point4`), `viewer.backToResearch`, `research.asset2ZhTitle`, `research.asset2ZhDesc`.
-Done when: `ja`, `ko`, `vi`, `ar`, `fr`, and `es` no longer rely on English strings for those keys.
+10. Extend `references/wealth-engine/knowledge/source-ledger.tsv` schema.
+Columns to add: `source_type`, `update_cadence`, `last_verified_on`.
+Done when: all existing rows are migrated and tab-separated parsing remains clean.
 
-10. Mirror the new English README wealth-refinery sections into `i18n/README.*.md` files.
-Output: translated sections for mission loop, methods signals, and research vault routing.
-Done when: language variants include equivalent sections, correct live paths, and cycle_002 method updates (household stress dashboard, QE-5, HS-8 side-product framing).
+## Priority 2 - Surface coherence and quality hardening
 
-11. Resolve the dual-viewer ambiguity between `docs/pdf-viewer.html` and `docs/research-viewer.html`.
-Output: choose one canonical viewer path and update docs/navigation accordingly.
-Done when: README, site links, and docs folder comments all describe the same viewer model.
+11. Resolve viewer duplication between `docs/pdf-viewer.html` and `docs/research-viewer.html`.
+Decision required: canonical viewer route and policy for legacy page.
+Done when: README, `docs/index.html`, and inline comments/documentation describe one canonical model.
 
-12. Add a lightweight consistency checker script for slugs, PDF paths, and translation key coverage.
-Suggested path: `tools/validate-site-content.sh` (or `.js`).
-Done when: script exits non-zero on missing catalog slugs, missing PDF files, or missing locale keys.
+12. Localize research/viewer keys in `docs/translations.json` for `ja`, `ko`, `vi`, `ar`, `fr`, `es`.
+Scope: `research.*` and `viewer.backToResearch`.
+Done when: those locales are no longer `24/24` English-equal for the scoped keys.
 
-13. Reduce remaining TeX layout warnings in `wealth-from-first-principles.tex` without harming readability.
-Focus: chapter 2 overfull line and table-heavy underfull lines.
-Done when: overfull warnings are removed and underfull warnings are meaningfully reduced after two-pass `xelatex`.
+13. Sync wealth-refinery sections from `README.md` into `i18n/README.*.md`.
+Scope: mission loop, methods signals (`QE-5`, `HS-8`), and research vault routing.
+Done when: each language file includes equivalent sections and live paths.
 
-14. Create `references/wealth-engine/knowledge/household-stress-watchlist.md` using Fed DSR/FOR, NY Fed SCE, CFPB Making Ends Meet, and NY Fed Household Debt.
-Output: one table with `signal`, `source`, `series_or_table`, `frequency`, `lead_or_lag`, `risk_read`.
-Done when: at least 8 stress signals are mapped and each has a documented interpretation rule.
+14. Promote the 14-day prompt pack into `references/wealth-engine/knowledge/daily-prompts.md`.
+Done when: all 14 prompts include explicit `question_id` mapping.
 
-15. Create `references/wealth-engine/knowledge/question-evidence-gates.md` for `M1`, `O2`, `L1`, `I1`, and `R1`.
-Output: one row per question with `minimum_evidence`, `falsifier`, `must_not_conflate`, and `decision_use`.
-Done when: each question has explicit pass/fail evidence conditions and one disconfirming test.
+15. Create `references/wealth-engine/knowledge/distinction-cards.md`.
+Done when: at least 15 cards with `Distinction`, `Common confusion`, `Quick test question`, and `Example`.
 
-16. Optimize typesetting for the synced `9.3 Household stress dashboard` and expanded official-data table in TeX.
-Output: refined column widths/line breaks in `wealth-from-first-principles.tex` with fewer table-related warnings.
-Done when: at least 8 warning lines tied to those table blocks are removed after two-pass `xelatex`.
-
-17. Investigate and resolve the recurring `microtype` footnote patch warning in the main TeX build.
-Output: either a configuration fix in `wealth-from-first-principles.tex` or an explicit documented exception in build notes.
-Done when: the warning `Unable to apply patch 'footnote'` no longer appears, or the reason and accepted tradeoff are documented in the TeX source comments.
+16. Reduce remaining TeX warnings in `wealth-from-first-principles.tex`, including the recurring `microtype` footnote warning.
+Done when: overfull warnings are removed or reduced materially, underfull warnings in key table blocks are reduced, and the `microtype` warning is fixed or explicitly documented in source comments.
