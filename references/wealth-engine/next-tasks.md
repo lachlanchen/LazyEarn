@@ -1,6 +1,15 @@
 # Next tasks
 
-Updated: 2026-04-06 (cycle_015 round_03_book_markdown)
+Updated: 2026-04-06 (cycle_015 round_04_book_tex)
+
+## Cycle 015 book-tex follow-up (round_04_book_tex)
+
+1. Copy the latest TeX compile output from `investment_pdfs/wealth-from-first-principles/wealth-from-first-principles.pdf` to `docs/investment_pdfs/wealth-from-first-principles/wealth-from-first-principles.pdf` after each chapter-9 structural edit and verify timestamps.
+   Done when the docs PDF always follows the source PDF timestamp.
+2. Keep chapter 9 TeX/Mardown parity around the new `9.11.x` transmission sections and ensure each has stable labels for future anchor checks.
+   Done when `\label{subsec:postwar-normalization-countercase}` and `\label{subsec:quarterly-transmission-audit}` remain stable through future PDF builds.
+3. Reduce warning pressure in dense section 9 material by splitting long lines/URL phrasing where needed and comparing underfull counts before/after.
+   Done when warning profile improves materially (especially underfull count in chapter 9 source-heavy blocks).
 
 ## Cycle 015 book-markdown follow-up (round_03_book_markdown)
 
