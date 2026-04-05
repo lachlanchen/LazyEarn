@@ -7,4 +7,4 @@
 3. Add inline citations from the source map into `investment/wealth-from-first-principles.md` sections on money creation, ownership, leverage, and inequality.
 4. Extend `source-ledger.tsv` note format with source-type and update-cadence tags so refresh checks can be automated.
 5. Build `knowledge/household-balance-sheet-bundle.md` aligning variable definitions across NY Fed CCP, Fed EFA, Census SIPP, FHFA HPI, and CPI.
-6. Add a short "distinctions" box to the book (flow vs stock, median vs mean, volatility vs ruin, nominal vs real).
+6. Sync the new markdown sections (distinction checklist, evidence ladder, and upgraded official-data table) into TeX/PDF outputs.

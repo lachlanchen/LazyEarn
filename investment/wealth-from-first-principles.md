@@ -353,6 +353,32 @@ Wealth growth = (earning power x savings rate x years x compounding x ownership 
 
 That is not academic. It is operational.
 
+### 9.1 Distinction checklist before any major money decision
+
+Use this checklist before changing jobs, taking debt, buying assets, or changing your long-term allocation.
+
+| Distinction | Common mistake | Better prompt |
+| --- | --- | --- |
+| **Income flow vs wealth stock** | treating a raise as wealth creation | "How much of this new income turns into owned assets after 12 months?" |
+| **Nominal gain vs real gain** | ignoring inflation and tax drag | "What is the after-tax, after-inflation result?" |
+| **Average outcome vs median outcome** | copying advice built for top deciles | "What happens at the median household, not just the mean?" |
+| **Volatility vs ruin** | accepting strategies with hidden blow-up risk | "Can this plan survive a bad 2-3 year sequence?" |
+| **Productive leverage vs fragile leverage** | using debt for status consumption | "Does this leverage increase durable cash flow or only fixed obligations?" |
+| **Money creation vs money distribution** | assuming liquidity reaches everyone equally | "Who gets the new credit first, and who carries the lag?" |
+| **Asset inflation vs goods inflation** | confusing portfolio gains with better purchasing power | "Did my real spending power rise, or just the mark-to-market value?" |
+
+### 9.2 Evidence ladder for financial claims
+
+When a claim sounds good, rank it before acting:
+
+1. **Anecdote**: one person, one cycle, low reliability.
+2. **Backtest or narrative**: useful for hypotheses, not final decisions.
+3. **Cross-sectional evidence**: multiple households or countries, still fragile to omitted variables.
+4. **Long-run panel evidence**: better for stress-testing across regimes.
+5. **Official statistical releases**: baseline for macro and household reality checks.
+
+Practical rule: only take concentrated risk when claim quality is at least level 4 and your downside is survivable.
+
 ## 10. A 90-day plan
 
 ### Days 1-30: map reality
@@ -430,21 +456,35 @@ This is a curated starter map, not an exhaustive library.
 
 ### 11.5 Official data and references
 
-| Source | Why it matters |
-| --- | --- |
-| **Bank of England: Money creation in the modern economy** | clear public explanation of how broad money is created |
-| **Federal Reserve: Survey of Consumer Finances** | best U.S. household balance-sheet reference |
-| **World Bank: The Changing Wealth of Nations 2024** | national wealth framework beyond GDP |
-| **World Inequality Database** | long-run inequality and wealth concentration data |
-| **Our World in Data** | visual overviews of inequality, growth, and development |
+| Source | Use this for | Cadence / scope |
+| --- | --- | --- |
+| **Federal Reserve H.6** | broad money and component trends | weekly/monthly U.S. money stock release |
+| **Federal Reserve Z.1 + DFA + EFA** | sector balance sheets, distributional and geographic detail | quarterly U.S. flow-of-funds stack |
+| **Federal Reserve SCF** | household assets, liabilities, and ownership concentration | triennial microdata benchmark |
+| **New York Fed Household Debt and Credit** | delinquency transitions and debt composition by household slices | quarterly U.S. credit panel |
+| **BEA Personal Income and Outlays** | income, consumption, and personal saving path | monthly U.S. national accounts release |
+| **BLS CPI + CEX** | inflation pressure and household spending structure | monthly CPI and annual spending detail |
+| **FHFA House Price Index** | housing wealth regime and regional price dynamics | monthly/quarterly U.S. house-price indices |
+| **U.S. Census wealth tables (SIPP)** | household wealth and debt distribution in public-use tables | annual SIPP-based wealth publication |
+| **WID + WIID + OECD IDD/WDD** | cross-country inequality and distribution comparisons | global inequality and OECD harmonized datasets |
+| **World Bank CWON + PIP + Findex + IDS** | comprehensive wealth, poverty, inclusion, and debt context | global development and debt datasets |
+| **IMF WEO + GDD + BIS data portal** | macro regime, debt cycle, and cross-country financial benchmarks | global macro-financial references |
 
 ## 12. Source notes
 
 Primary web references used for this guide were checked on **2026-04-05** and include:
 
+- Federal Reserve releases: H.6, Z.1, DFA, EFA, and SCF
+- Federal Reserve Bank of New York: Household Debt and Credit report
+- U.S. BEA: Personal Income and Outlays
+- U.S. BLS: CPI and Consumer Expenditure Surveys
+- U.S. Census: Wealth and Asset Ownership tables (SIPP) and P70BR-211 brief
+- U.S. FHFA: House Price Index datasets
 - Bank of England, "Money creation in the modern economy"
-- Federal Reserve, "Survey of Consumer Finances"
-- World Bank, "The Changing Wealth of Nations 2024"
+- IMF: WEO and Global Debt Database
+- BIS Data Portal
+- World Bank: The Changing Wealth of Nations 2024, Global Findex, PIP, IDS
+- WID.world, WIID, and OECD IDD/WDD
 - Yale/Coursera, "Financial Markets"
 - Open Yale Courses, "Financial Theory"
 - MIT OpenCourseWare, "Blockchain and Money"
