@@ -107,6 +107,23 @@ If you want more money without borrowing, you must usually do one of four things
 3. sell access or attention,
 4. or own assets that distribute cash.
 
+### 3.3 Channel map: from system credit to household outcomes
+
+The practical mistake is to track only one layer (for example, rates) and ignore access, flow, and stress.
+
+Use this compact channel map:
+
+| Layer | What to observe | Primary source | Why it matters for wealth-building |
+| --- | --- | --- | --- |
+| **Money and balance-sheet expansion** | broad money and sector balance-sheet growth | Federal Reserve H.6 (`https://www.federalreserve.gov/releases/h6/current/default.htm`) + Federal Reserve Z.1 (`https://www.federalreserve.gov/releases/z1/`) | tells you whether system liquidity is expanding or contracting |
+| **Credit access conditions** | lending standards and approval friction | Federal Reserve SLOOS (`https://www.federalreserve.gov/data/sloos.htm`) | tightening can block ownership entry before headline stress appears |
+| **Mortgage entry and borrower mix** | loan-level mortgage distribution and origination composition | FFIEC HMDA modified LAR (`https://ffiec.cfpb.gov/data-publication/modified-lar`) + CFPB HMDA release notes (`https://www.consumerfinance.gov/about-us/newsroom/2025-hmda-data-on-mortgage-lending-now-available/`) | helps separate incumbent gains from new-owner entry |
+| **Household debt stress realization** | delinquency transitions and debt-burden outcomes | NY Fed Household Debt and Credit (`https://www.newyorkfed.org/microeconomics/hhdc/background`) + Fed DSR/FOR (`https://www.federalreserve.gov/releases/dsr/`) | confirms whether tighter access is translating into real damage |
+| **Mortgage performance detail** | origination, payment, and performance structure | FHFA NMDB (`https://www.fhfa.gov/data/nmdb`) | adds loan-level context to leverage quality and fragility |
+| **Small-business credit conditions** | approval, denial, and financing constraints for firms under 500 employees | Fed Small Business Credit Survey (`https://www.fedsmallbusiness.org/reports/survey/`) + CFPB small-business-lending hub (`https://www.consumerfinance.gov/data-research/small-business-lending/`) | relevant for ownership paths built through business equity, not only wages |
+
+If you monitor this full sequence, you can distinguish "money is available somewhere" from "ownership access is improving for you."
+
 ## 4. What wealth is
 
 Wealth is larger than money.
@@ -320,6 +337,27 @@ That means:
 - and avoiding hidden tail risks.
 
 A durable 12% annual compounding path beats a short-lived 40% path that ends in a blow-up.
+
+### 8.6 Ownership entry execution loop (quarterly)
+
+Use this loop when deciding whether to accelerate ownership (housing, business equity, or market risk) or stay defensive.
+
+1. **Access check**
+   - Are standards tightening materially? (Fed SLOOS)
+   - Are entrant channels improving or worsening? (HMDA modified LAR, SBCS)
+2. **Burden check**
+   - Is payment burden rising faster than real income? (Fed DSR/FOR + BEA personal income + BLS CPI)
+3. **Stress check**
+   - Are expectations and delinquency transitions both worsening? (NY Fed SCE + Household Debt and Credit)
+4. **Action check**
+   - If 2 or more checks are red, prioritize liquidity, lower fixed commitments, and slower leverage.
+   - If most checks are stable/improving, increase ownership gradually with pre-set downside limits.
+
+| Decision state | Signal pattern | Practical move |
+| --- | --- | --- |
+| **Defensive** | tightening access + rising burden + worsening transitions | delay large leverage, increase runway, protect downside |
+| **Neutral** | mixed signals, no broad stress acceleration | continue dollar-cost ownership, avoid concentrated bets |
+| **Offensive (controlled)** | stable access + manageable burden + contained transitions | add ownership exposure in staged tranches, keep risk limits fixed |
 
 ## 9. A simple wealth-building operating system
 
