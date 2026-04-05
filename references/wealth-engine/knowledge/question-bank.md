@@ -293,3 +293,21 @@ Seed round: cycle_012 / round_02_question_bank
 - `U43`: require common frequency/timing protocol across countries and one out-of-sample validation window for each candidate composite.
 - `U44`: require percentile-aligned timing comparison between tax-record concentration and wealth concentration/participation metrics; level-only comparison is insufficient.
 - `U45`: require real-time data-availability simulation (what was known when) and an out-of-sample score comparison versus naive mixed-frequency alignment.
+
+## Unanswered priority questions (cycle_013 sharpen pass)
+
+| ID | Sharpened question | What must be distinguished | What would falsify the working hypothesis | First evidence pull |
+| --- | --- | --- | --- |
+| U59 | Through which borrower-use channels does new bank-created credit first arrive when policy or reserves expand? | Credit quantity growth vs channel allocation (households, business working capital, mortgage credit, asset finance) | Expansion in broad aggregates is not matched by any channel split change for at least two release windows | Fed H.6, Fed Z.1, Fed SLOOS, NY Fed SCE, Fed EFA |
+| U60 | Can a durable-wealth method remain stable when output and energy throughput are weakly growing, even if leverage and asset values rise? | Leverage-driven nominal gains vs throughput-constrained real conversion (cash flow, depreciation, energy-cost drag) | High-leverage methods remain equally durable across low-throughput windows in both debt-service and capacity comparisons | EIA STEO/MER, BEA Fixed Assets, Fed DSR/FOR, BIS TOTAL_CREDIT |
+| U61 | Are inequality gains in expansion phases driven by broader ownership entry or by valuation gains concentrated among incumbents? | Participation channel vs valuation channel vs burden channel | Ownership participation (owner entries, first-time borrower access, entrant survival) rises enough to explain concentration changes | Fed DFA, OECD IDD/WDD, CBO LTBO, Census wealth tables |
+| U62 | Which losses are reversible in wealth journeys and which are irreversible for ownership quality (control, legal tenure, equity, or agency)? | Mark-to-market fluctuation vs irreversible ownership-control impairment | Repeated nominal drawdowns do not increase forced-sale, foreclosure, dilution, or ownership-loss signals | CFPB Making Ends Meet data, HMDA modified LAR, FDIC unbanked survey, SEC filing sets |
+| U63 | Do historical institutional turning points still leave a detectable transmission imprint in current-cycle money and ownership outcomes? | Institutional design memory vs present-day channel behavior | Modern release-aligned windows show no persistent difference in access sequencing after major institutional stress events | IMF Article IV releases, Federal Reserve historical essays, BIS/IMF vulnerability assessments |
+
+## Evidence gates for cycle_013 unanswered set
+
+- `U59`: require one stock measure (system liquidity and credit aggregates) and one channel measure (consumer credit / business credit / mortgage split) before inferring channel steering.
+- `U60`: require one physical-capacity rail and one leverage-burden rail in the same window before promoting a method as durable.
+- `U61`: require both concentration and participation metrics before concluding distribution improvement; valuation-only shifts are insufficient.
+- `U62`: require one reversible-volatility indicator and one irreversible-control signal before assigning fragility class.
+- `U63`: require one explicit historical mechanism (for example oil shock, inflation regime, or crisis redesign) as a comparator in at least one modern cycle.
