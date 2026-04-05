@@ -8,3 +8,9 @@
 # Ignore in-repo LaTeX build folders (but keep .gitkeep so dirs exist)
 investment_pdfs/**/build/*
 !investment_pdfs/**/build/.gitkeep
+
+# Wealth refinery runtime artifacts
+runtime/logs/wealth-engine/
+references/wealth-engine/.codex_wealth_session
+references/wealth-engine/.baseline_untracked
+references/wealth-engine/wealth-refinery.lock

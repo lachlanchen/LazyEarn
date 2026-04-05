@@ -87,23 +87,25 @@ const fallbackStrings = {
   "footer.github": `GitHub`,
   "footer.pages": `GitHub Pages`,
   "research.tag": `Research Drop`,
-  "research.heading": `High-growth stocks, the lazy way`,
-  "research.copy": `We built a LazyingArt-style dossier covering nine U.S. companies across AI, biotech, semiconductors, clean energy, and software. It's a medium-term playbook for investors who love futuristic vibes and patient upside.`,
-  "research.point1": `📊 Ranked price/target tables so you can scan upside fast.`,
-  "research.point2": `🧠 Narrative breakdowns for each company’s growth engines.`,
-  "research.point3": `📝 Sources + methodology so you can remix or fact-check instantly.`,
+  "research.heading": `Money and wealth, from first principles`,
+  "research.copy": `We are building a living field guide to money, wealth, ownership, compounding, and financial independence. The goal is not vague inspiration. It is a practical library of explanations, methods, resources, and polished research artifacts you can actually use.`,
+  "research.point1": `Clear answers on money creation, wealth, ownership, and compounding.`,
+  "research.point2": `Curated books, courses, tutorials, datasets, and online repositories.`,
+  "research.point3": `Markdown, TeX, PDF, README, and website kept in sync by a codex refinement loop.`,
   "research.pdf": `Download PDF`,
   "research.viewInline": `View on-site`,
   "research.md": `Read Markdown`,
-  "research.cardTitle": `What’s inside`,
-  "research.cardCopy": `Sector mix: AI hardware/software, biotech gene editing, EV + solar, cloud data. All curated with the same dreamy rigor we use for Lazy Earn experiments.`,
-  "research.stat1": `tickers`,
-  "research.stat2": `ranking tables`,
-  "research.stat3": `page PDF`,
-  "research.asset1Title": `High-growth dossier`,
-  "research.asset1Desc": `Narrative rundowns for nine high-growth U.S. equities (AI, biotech, semiconductors, clean energy, cloud) with upside tables and annotated sources.`,
+  "research.cardTitle": `What the guide covers`,
+  "research.cardCopy": `Money creation, wealth ladders, ownership versus labor, inequality, practical wealth systems, and a curated resource map for deeper study.`,
+  "research.stat1": `core questions`,
+  "research.stat2": `resource buckets`,
+  "research.stat3": `refinery rounds`,
+  "research.asset1Title": `Wealth from first principles`,
+  "research.asset1Desc": `A practical field guide to what money is, where it comes from, what wealth is, why outcomes differ, and which resources and methods are worth using.`,
   "research.asset2Title": `Financial freedom playbook`,
   "research.asset2Desc": `Timeless principles blended with modern automation ideas—capital allocation tables, quarterly rituals, and name ideas for future Lazy Money drops.`,
+  "research.asset3Title": `High-growth dossier`,
+  "research.asset3Desc": `Narrative rundowns for nine high-growth U.S. equities (AI, biotech, semiconductors, clean energy, cloud) with upside tables and annotated sources.`,
   "form.success": `Invite sent to {{email}}. Expect a lazy hello soon.`,
 };
 
@@ -143,6 +145,14 @@ const parallaxItems = document.querySelectorAll(".orb, .hero-card");
 const THEME_KEY = "lazyearn_theme";
 
 const pdfEntries = {
+  "wealth-from-first-principles": {
+    title: "Wealth from first principles",
+    description:
+      "A practical field guide to money, wealth, ownership, compounding, inequality, and useful resources.",
+    pdf: "investment_pdfs/wealth-from-first-principles/wealth-from-first-principles.pdf",
+    download: "investment_pdfs/wealth-from-first-principles/wealth-from-first-principles.pdf",
+    markdown: "https://github.com/lachlanchen/LazyEarn/blob/main/investment/wealth-from-first-principles.md",
+  },
   "high-growth": {
     title: "High-growth dossier",
     description:
@@ -482,8 +492,8 @@ function setupStandaloneViewer() {
       slug = hash;
     }
   }
-  slug = slug || "high-growth";
-  const entry = pdfEntries[slug] || pdfEntries["high-growth"];
+  slug = slug || "wealth-from-first-principles";
+  const entry = pdfEntries[slug] || pdfEntries["wealth-from-first-principles"];
 
   const titleEl = document.getElementById("viewerTitle");
   const descEl = document.getElementById("viewerDescription");

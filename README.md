@@ -4,7 +4,7 @@
 
 Language options: **English (current draft)**. Multilingual README variants are planned under `i18n/` (directory exists).
 
-# LazyEarn — Lazy Money Lab + Earn From Scratch
+# LazyEarn — Money, Wealth, and Earn From Scratch
 
 [![Site](https://img.shields.io/badge/Site-earn.lazying.art-0ea5e9?logo=googlechrome&logoColor=white)](https://earn.lazying.art)
 [![Audience](https://img.shields.io/badge/Audience-Investing%20%2F%20Entrepreneurs-8b5cf6?logo=bookstack&logoColor=white)](https://github.com/lachlanchen/LazyEarn)
@@ -14,19 +14,19 @@ Language options: **English (current draft)**. Multilingual README variants are 
 [![i18n](https://img.shields.io/badge/i18n-9%20languages-f59e0b)](#configuration)
 [![Mode](https://img.shields.io/badge/Mode-Static%20Frontend-10b981?logo=javascript&logoColor=white)](#overview)
 
-Earn.lazying.art is a cinematic field guide for anyone who wants money to feel like a slow ritual instead of a sprint. The site shows three layers: **Lazy Money**, **Lazy Earn**, **Earn From Scratch**. This repo carries those stories forward with research drops you can remix.
+Earn.lazying.art is a cinematic field guide for people who want clearer thinking about money, wealth, ownership, and financial independence. The site still carries the **Lazy Money**, **Lazy Earn**, and **Earn From Scratch** language, but the research layer is now centered on a more serious question set: what money is, where wealth comes from, who can build it, why outcomes differ, and which methods and resources are actually useful.
 
 > _“Build less. Live more.”_ — LazyEarn ethos
 
 ## 🗂️ Snapshot map
 
-| Location           | Purpose                                                             | Why it matters                                     |
-| ------------------ | ------------------------------------------------------------------- | -------------------------------------------------- |
-| `docs/`            | Production website source (`index.html`, `styles.css`, `script.js`) | Public site that powers `earn.lazying.art`         |
-| `investment/`      | Markdown research briefs                                            | Canonical narrative and analytical source-of-truth |
-| `investment_pdfs/` | Compiled LaTeX/PDF artifacts                                        | Shareable portfolio-grade outputs                  |
-| `figs/`            | Brand assets                                                        | Visual identity and banner references              |
-| `i18n/`            | Translated README files                                             | Multilingual repository entry points               |
+| Location | Purpose | Why it matters |
+| --- | --- | --- |
+| `docs/` | Production website source (`index.html`, `styles.css`, `script.js`) | Public site that powers `earn.lazying.art` |
+| `investment/` | Markdown research briefs | Canonical source of truth for money, wealth, and investing research |
+| `investment_pdfs/` | Compiled LaTeX/PDF artifacts | Shareable portfolio-grade outputs |
+| `figs/` | Brand assets | Visual identity and banner references |
+| `i18n/` | Translated README files | Multilingual repository entry points |
 
 ## 🧭 Overview
 
@@ -51,6 +51,7 @@ Primary production domain (from `docs/CNAME`): `earn.lazying.art`.
 - Language persistence key: `lazyEarnLang`.
 - Theme persistence key: `lazyearn_theme`.
 - Research showcase with direct PDF download, inline viewer routes, and Markdown source links.
+- A primary money-and-wealth field guide covering money creation, ownership, compounding, inequality, and practical wealth-building methods.
 - PDF viewer routing via hash/query (`#high-growth`, `#financial-freedom`, `?file=financial-freedom-zh`, etc.).
 - GitHub Pages-compatible static distribution with no build step for the website shell.
 
@@ -64,12 +65,13 @@ Primary production domain (from `docs/CNAME`): `earn.lazying.art`.
 | **Idea Playground**   | Interactive generator for new lazy-earn experiments | Tap to remix ideas                  |
 | **Research Drop**     | Living shelf for investment-like briefs             | Long-form conviction                |
 
-## 📈 Investment research vault
+## 📈 Research vault
 
-| What you get            | Markdown                                                                   | PDF |
-| ----------------------- | -------------------------------------------------------------------------- | --- |
-| **High-Growth Dossier** | Nine U.S. equities coverage with upside tables and source-linked analysis. |
-
+| What you get | Markdown | PDF |
+| --- | --- | --- |
+| **Wealth From First Principles** | A practical field guide to what money is, where it comes from, what wealth is, who can build it, why wealth gaps persist, and which books, courses, tutorials, datasets, and repositories are worth your time.
+[`Open markdown`](https://github.com/lachlanchen/LazyEarn/blob/main/investment/wealth-from-first-principles.md) | [Open PDF](https://earn.lazying.art/pdf-viewer.html#wealth-from-first-principles) |
+| **High-Growth Dossier** | Nine U.S. equities coverage with upside tables and source-linked analysis.
 Narrative rundowns for AI, biotech, semiconductors, clean energy, and cloud.
 [`Open markdown`](https://github.com/lachlanchen/LazyEarn/blob/main/investment/high-growth-stocks.md) | [Open PDF](https://earn.lazying.art/pdf-viewer.html#high-growth) |
 | **Financial Freedom Playbook** | Principles + automation ideas, capital allocation tables, quarterly rituals, and new idea seeds.
@@ -137,22 +139,24 @@ xdg-open docs/index.html
 ### 2) Explore research outputs
 
 - Inline viewer examples:
+  - `docs/pdf-viewer.html#wealth-from-first-principles`
   - `docs/pdf-viewer.html#high-growth`
   - `docs/pdf-viewer.html#financial-freedom`
   - `docs/pdf-viewer.html?file=financial-freedom-zh`
 - Direct PDFs in `docs/investment_pdfs/...`
 - Source Markdown in `investment/...`
 
-### 3) Regenerate a dossier PDF (example)
+### 3) Regenerate the main money-and-wealth guide PDF
 
 ```bash
-pandoc investment/high-growth-stocks.md \
-  -s -V author="LazyingArt" -V title="High-Growth U.S. Stocks" \
-  -o investment_pdfs/high-growth-stocks/high-growth-stocks.tex
-cd investment_pdfs/high-growth-stocks && xelatex high-growth-stocks.tex
+cd investment_pdfs/wealth-from-first-principles
+mkdir -p build
+xelatex -output-directory=build wealth-from-first-principles.tex
+cp build/wealth-from-first-principles.pdf ./wealth-from-first-principles.pdf
+cp build/wealth-from-first-principles.pdf ../../docs/investment_pdfs/wealth-from-first-principles/wealth-from-first-principles.pdf
 ```
 
-### 4) Publish PDFs for the site (recommended workflow)
+### 4) Regenerate another dossier PDF (example)
 
 ```bash
 cd investment_pdfs/high-growth-stocks
@@ -190,6 +194,7 @@ https://earn.lazying.art/pdf-viewer.html?file=financial-freedom-zh
 
 Known slugs from site behavior:
 
+- `wealth-from-first-principles`
 - `high-growth`
 - `financial-freedom`
 - `financial-freedom-zh`
@@ -216,6 +221,8 @@ Known slugs from site behavior:
 
 - Expand multilingual README variants and keep the language-switch list in sync.
 - Clarify/document canonical differences between `docs/pdf-viewer.html` and `docs/research-viewer.html`.
+- Keep the wealth field guide fresh with better sources, better questions, and tighter methods.
+- Run the codex-driven wealth refinery pipeline on a daily basis to keep books, README, and website synchronized.
 - Add lightweight CI checks for Markdown link integrity and optional PDF build validation.
 - Continue growing the research vault with paired Markdown + PDF deliverables.
 
