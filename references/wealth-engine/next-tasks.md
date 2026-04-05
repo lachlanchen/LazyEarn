@@ -1,6 +1,6 @@
 # Next tasks
 
-Updated: 2026-04-05 (cycle_009 round_07 website_sync)
+Updated: 2026-04-05 (cycle_009 round_08 translation_and_catalog)
 
 Measured review anchors (from this round):
 - `references/wealth-engine/knowledge/` currently misses 7 planned artifacts:
@@ -50,7 +50,11 @@ Measured review anchors (from this round):
   - section `9.8` bridge notes, `CAB-9` method references, and the planned `knowledge/credit-access-and-burden-bridge.md` artifact row.
 - Website research copy is now cycle_009-synced in English:
   - `docs/index.html`, `docs/script.js`, and `docs/translations.json` (`en`) now reference cycle `007-009` and include the credit-access-and-burden bridge + `CAB-9`.
-  - remaining gap: non-English locale packs still carry cycle `007`/`007-008` wording for `research.point6` and pre-bridge wording for `research.asset1Desc`.
+- Translation-and-catalog sync now includes non-English runtime packs for core cycle_009 keys:
+  - all locale packs now include cycle `007-009` semantics for `research.point6`,
+  - all locale packs now include bridge-aware wording for `research.asset1Desc`,
+  - all locale packs now include the `wealth-field-guide` alias in `research.asset1Route`.
+  - remaining quality gap: `ja`, `ko`, `vi`, `ar`, `fr`, and `es` still use English wording for `research.point6` and `research.asset1Desc` (semantically correct, not natively localized).
 - Viewer route policy is still split across two files:
   - both `docs/pdf-viewer.html` and `docs/research-viewer.html` exist, while current CTAs route to `pdf-viewer.html`.
 - Research card/panel catalog surfaces are intentionally asymmetric:
@@ -85,8 +89,8 @@ Done when: at least 10 rows map `question_id`, `signal`, `series_or_table`, `sou
 9. Verify PDF outputs include mirrored section `9.8 Credit-access and burden bridge`.
 Done when: cycle_009 round_09 build artifacts in both PDF targets include section `9.8` and the added official-data/source-note rails (DDP, SCE Credit Access, SIPP datasets, CEX PUMD, OECD household debt, FOF).
 
-10. Complete non-English localization sync for cycle_009 website research copy in `docs/translations.json`.
-Done when: all non-English locale packs update `research.point6` and `research.asset1Desc` to include cycle_009 access-and-burden bridge context while preserving `missing=0/31` in the research/viewer key scope.
+10. Native-review locale quality for cycle_009 research keys in `docs/translations.json`.
+Done when: `ja`, `ko`, `vi`, `ar`, `fr`, and `es` each replace English fallback wording with native phrasing for `research.point6` and `research.asset1Desc` while preserving slug/code tokens and `missing=0/31` in the research/viewer key scope.
 
 ## Cycle 008 review queue (highest value, concrete)
 
