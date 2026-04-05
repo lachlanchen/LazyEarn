@@ -1,12 +1,41 @@
 # Resource Map
 
 Updated: 2026-04-05  
-Round seed: cycle_005 / round_01_resource_scan
+Round seed: cycle_007 / round_01_resource_scan
 
 ## Selection rules used in this scan
 - Prefer official or primary institutions with transparent methods.
 - Prefer sources with download/API access, not just commentary.
 - Capture freshness signals (release dates, update cadence, or version tags).
+
+## Cycle 007 additions: liquidity, cycle timing, and filing-quality rails
+- Federal Reserve H.8 release dates  
+  https://www.federalreserve.gov/releases/h8/  
+  Why keep: weekly commercial-bank balance-sheet release cadence is explicit (Friday at 4:15 p.m. ET, holiday-adjusted) with current update metadata (last update shown as Apr 03, 2026).
+- Federal Reserve H.4.1 release dates  
+  https://www.federalreserve.gov/releases/h41/  
+  Why keep: primary central-bank balance-sheet publication rail with explicit weekly cadence (Thursday at 4:30 p.m. ET, holiday-adjusted) and current update metadata (last update shown as Apr 02, 2026).
+- Chicago Fed National Financial Conditions Index (NFCI) current data  
+  https://www.chicagofed.org/research/data/nfci/current-data  
+  Why keep: weekly, broad financial-conditions signal (105 indicators) with explicit update time (Wednesday 8:30 a.m. ET) plus downloadable CSV and technical documentation.
+- NBER U.S. business cycle expansions and contractions  
+  https://www.nber.org/research/data/us-business-cycle-expansions-and-contractions  
+  Why keep: primary chronology for U.S. recession/expansion turning points with direct Excel/PDF/JSON downloads used to anchor cycle-regime comparisons.
+- SEC SEC & Markets Data Library (Financial Statement and Notes Data Sets)  
+  https://www.sec.gov/data-research/sec-markets-data  
+  Why keep: official SEC data inventory confirms XBRL-derived "Financial Statement and Notes Data Sets" with current listing metadata (Feb. 2026).
+- U.S. Treasury TIC release dates and revision notes  
+  https://home.treasury.gov/data/treasury-international-capital-tic-system/release-dates-of-tic-data  
+  Why keep: authoritative schedule/rules for cross-border capital-flow data (4:00 p.m. ET releases, 2026 dates shown, revision and lag mechanics documented).
+- U.S. Treasury Monthly Treasury Statement (MTS) program page  
+  https://www.fiscal.treasury.gov/reports-statements/mts/  
+  Why keep: fiscal-flow reference page explicitly states migration to FiscalData (Nov 25, 2025) with machine-readable formats (CSV/JSON/XML) and current maintenance stamp (last modified Jan 15, 2026).
+- BLS Employment Cost Index (ECI) home  
+  https://www.bls.gov/eci/  
+  Why keep: official labor-cost pressure series with posted release schedule (next release noted as Apr 30, 2026) and current publication notices relevant to wage/inflation regime tracking.
+- Federal Reserve FOMC historical materials by year  
+  https://www.federalreserve.gov/monetarypolicy/fomc_historical_year.htm  
+  Why keep: official policy-history archive with meeting materials indexed by year and explicit page maintenance metadata (last update shown as Jan 16, 2026).
 
 ## Cycle 006 additions: consumer-credit cycle and physical-constraint rails
 - Federal Reserve Consumer Credit (G.19)  

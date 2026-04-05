@@ -78,6 +78,9 @@ Done when: both files exist with schema-complete first-pass rows for `M1`, `O2`,
 5. Run one warning-reduction pass on wealth TeX table-heavy blocks.
 Done when: `overfull_hbox` is reduced below `2` and `underfull_hbox` is reduced below `102` without removing content.
 
+6. Build `references/wealth-engine/knowledge/liquidity-and-stress-clock.md` from cycle_007 resource rails.
+Done when: at least 8 rows map `signal`, `source`, `release_cadence`, `last_verified_on`, `question_id`, and `decision_use` using H.4.1, H.8, NFCI, TIC, MTS, ECI, NBER cycle dates, and SEC statement datasets.
+
 ## Cycle 006 sprint (recommended execution order)
 
 1. Build `references/wealth-engine/knowledge/core-series-watchlist.md` for Tier 1 `M1`, `O2`, `L1`.
