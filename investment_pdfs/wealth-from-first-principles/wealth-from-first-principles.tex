@@ -747,6 +747,43 @@ Distribution concentration pulse & Tax-record concentration shift versus wealth/
 
 If cadence integrity is unclear (missing release, major revision, or broken comparability), freeze threshold updates and keep policy in defensive mode.
 
+\section{Constraint-first lens for money-growth episodes}
+
+Financial systems often become more liquid while ownership remains concentrated.
+The main risk is treating a system-level expansion as proof of broad wealth improvement.
+
+This lens keeps three questions active:
+\begin{itemize}
+  \item which institutions gained traction first,
+  \item which constraint became limiting next (finance, production, or wages),
+  \item and whether durable owner entry improved, or only valuation changed.
+\end{itemize}
+
+\begin{center}
+\small
+\begin{tabularx}{\textwidth}{>{\raggedright\arraybackslash}p{0.24\textwidth}>{\raggedright\arraybackslash}p{0.35\textwidth}X}
+\toprule
+\textbf{Episode} & \textbf{Signal that looked positive} & \textbf{Constraint that limited durable ownership} \\
+\midrule
+The Great Depression (1929-1939) & Policy and bank responses stabilized some markets and institutions. & Credit channels and depositor confidence remained fragile, so entry stayed constrained for many households and small firms. \\
+The Great Inflation and disinflation transition (1960s-1980s) & Nominal asset and debt markets showed regime shifts quickly. & Inflation and tightening hit debt-service budgets faster than ownership entry, making nominal gains uneven across households. \\
+The 1973-74 Oil Shock & Liquidity policy and valuation moves often reduced immediate panic. & Energy and logistics bottlenecks reduced real margins, so some financial gains failed to become durable household progress. \\
+Jekyll Island institutional redesign (1907-1910 legacy) & System architecture improved central-bank coordination over time. & Operational transmission still depends on policy-to-borrower access, so design intent alone does not guarantee new-owner access. \\
+\bottomrule
+\end{tabularx}
+\normalsize
+\end{center}
+
+\begin{notebox}
+\textbf{Practical decision rule}\par
+1. If a cycle has positive financial signals but weak borrower entry, keep leverage growth staged and prioritize resilience.\par
+2. Require production-capacity or real-cost relief signals before treating valuation strength as durable wealth progress.\par
+3. Use debt-service and participation checks as mandatory confirmations of any nominal improvement.
+\end{notebox}
+
+\medskip
+If a cycle shows positive financial signals but weak borrower entry, keep leverage growth staged and prioritize resilience.
+
 \chapter{Who can get wealth and what should they do first}
 
 Almost anyone can improve their financial condition. Not everyone should use the same strategy. A useful sequence is:
@@ -920,6 +957,10 @@ NBER cycle chronology & Ex-post recession/expansion dating for regime calibratio
 SEC Financial Statement and Notes Data Sets & Reproducible statement-level factor extraction for ownership-quality screens. & Quarterly filing-derived dataset releases. \\
 SEC EDGAR API docs + FRED/ALFRED & Reproducible filings ingestion and revision-aware macro pulls. & API docs plus vintage-aware archive layer. \\
 FRASER historical archive & Primary-source monetary and financial history documents. & Long-run policy and publication archive. \\
+Federal Reserve History: The Great Depression & Banking-system and policy response under collapse-era stress. & Historical mechanism reference for credit-access and solvency transmission. \\
+Federal Reserve History: The Great Inflation & Inflation, rates, and debt-burden dynamics during long disinflation cycles. & Historical mechanism reference for real-compounding versus nominal-marking regimes. \\
+Federal Reserve History: Oil Shock of 1973-74 & Production and energy constraints during a global supply shock. & Historical reference for real-throughput versus financial-signaling sequencing. \\
+Federal Reserve History: The Meeting at Jekyll Island & Institutional architecture and birth of modern central-bank design. & Historical reference for design intent versus operational access outcomes. \\
 \bottomrule
 \end{longtable}
 
@@ -958,8 +999,9 @@ Primary references checked for this edition on 2026-04-05:
   \item Federal Reserve Small Business Credit Survey, \href{https://www.fedsmallbusiness.org/reports/survey/}{all survey years reports}
   \item CFPB, \href{https://www.consumerfinance.gov/data-research/consumer-credit-trends/}{Consumer Credit Trends}, \href{https://www.consumerfinance.gov/data-research/making-ends-meet-survey-data/}{Making Ends Meet survey data}, \href{https://www.consumerfinance.gov/data-research/small-business-lending/}{Small Business Lending}, and \href{https://www.consumerfinance.gov/your-money-your-goals/}{Your Money, Your Goals}
   \item SEC, \href{https://www.sec.gov/edgar/sec-api-documentation}{EDGAR API documentation} and \href{https://www.sec.gov/data-research/sec-markets-data}{Financial Statement and Notes Data Sets}
-  \item St. Louis Fed, \href{https://fred.stlouisfed.org/docs/api/fred/fred/}{FRED API docs}, \href{https://alfred.stlouisfed.org/help/downloaddata}{ALFRED}, and \href{https://fraser.stlouisfed.org/}{FRASER}
-  \item Yale / Coursera, \href{https://www.coursera.org/learn/financial-markets-global}{Financial Markets}
+\item St. Louis Fed, \href{https://fred.stlouisfed.org/docs/api/fred/fred/}{FRED API docs}, \href{https://alfred.stlouisfed.org/help/downloaddata}{ALFRED}, and \href{https://fraser.stlouisfed.org/}{FRASER}
+\item Federal Reserve History essays on the Great Depression, Great Inflation, 1973-74 Oil Shock, and the Meeting at Jekyll Island (\href{https://www.federalreservehistory.org/}{federalreservehistory.org})
+\item Yale / Coursera, \href{https://www.coursera.org/learn/financial-markets-global}{Financial Markets}
   \item Open Yale Courses, \href{https://oyc.yale.edu/economics/econ-251}{Financial Theory}
   \item MIT OpenCourseWare, \href{https://ocw.mit.edu/courses/15-s12-blockchain-and-money-fall-2018/}{Blockchain and Money}
   \item OpenStax, \href{https://openstax.org/books/principles-economics-3e/pages/preface}{Principles of Economics 3e}

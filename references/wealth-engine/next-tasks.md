@@ -1,6 +1,6 @@
 # Next tasks
 
-Updated: 2026-04-05 (cycle_011 round_03 book_markdown)
+Updated: 2026-04-05 (cycle_011 round_04 book_tex)
 
 Measured review anchors (from this round):
 - `references/wealth-engine/knowledge/` currently misses 9 planned artifacts:
@@ -111,6 +111,10 @@ Done when: `knowledge/historical-case-ledger.md` has first-pass entries for `Jek
 
 12. Mirror Chapter 9.10 (constraint-first historical lens) into TeX in cycle_011 book_tex.
 Done when: `investment_pdfs/wealth-from-first-principles/wealth-from-first-principles.tex` includes `Constraint-first lens for money-growth episodes` and new history rails appear in both relevant reference/source-note blocks.
+Status: completed in cycle_011 round_04 on 2026-04-05 (section 9.10 now mirrored and reference rows added).
+
+13. Verify TeX -> PDF propagation for section 9.10 after each markdown-TeX sync.
+Done when: both the distribution PDF targets include section `9.10` marker and all new historical rail entries after each edit.
 
 ## Cycle 009 review queue (highest value, concrete)
 
