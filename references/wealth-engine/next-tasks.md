@@ -59,6 +59,9 @@ Done when: all six locales keep `missing=0` and reduce `equal-to-English` counts
 6. Create `knowledge/cycle-clock-lead-lag-panel.md` and run a `CC-7` pilot on `U26`, `U27`, and `U29`.
 Done when: at least 8 panel rows exist plus 3 pilot rows (one per question) with one rejected signal case and one promoted action rule.
 
+7. Create `references/wealth-engine/knowledge/entry-and-property-price-pulse.md` from BFS + BIS rails.
+Done when: at least 8 rows map `signal`, `source`, `frequency`, `last_release`, `next_release`, `question_id`, and `decision_use` using Census BFS, BIS RPP, BIS CPP, and BIS GLI sources.
+
 ## Priority 0S - Story, history, physics, and philosophy depth
 
 1. Create `references/wealth-engine/knowledge/historical-case-ledger.md`.

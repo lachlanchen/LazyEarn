@@ -1,12 +1,35 @@
 # Resource Map
 
 Updated: 2026-04-05  
-Round seed: cycle_007 / round_01_resource_scan
+Round seed: cycle_008 / round_01_resource_scan
 
 ## Selection rules used in this scan
 - Prefer official or primary institutions with transparent methods.
 - Prefer sources with download/API access, not just commentary.
 - Capture freshness signals (release dates, update cadence, or version tags).
+
+## Cycle 008 additions: entry nowcasting, property-price risk, and programmatic rails
+- U.S. Census Business Formation Statistics (BFS)  
+  https://www.census.gov/econ/bfs/index.html  
+  Why keep: high-frequency U.S. entry-nowcasting rail (weekly and monthly business applications/formations) with explicit 2026 methodology/update notices, including annual update details and release schedule linkage.
+- BLS Productivity and Costs (LPC)  
+  https://www.bls.gov/lpc/  
+  Why keep: official labor-productivity and unit-labor-cost signal with explicit release timing metadata (next release date published on page), useful for real-income and wealth-compounding context.
+- EIA Short-Term Energy Outlook (STEO)  
+  https://www.eia.gov/outlooks/steo/index.php  
+  Why keep: monthly U.S. energy-market baseline with explicit release and next-release stamps plus a linked data browser; strengthens physical-constraint and inflation-risk tracking.
+- BIS Residential Property Prices (RPP) dashboards  
+  https://data.bis.org/topics/RPP/tables-and-dashboards  
+  Why keep: cross-country housing-price data with dashboard + bulk-download rails and an explicit January 2026 update notice documenting classification and back-calculation revisions.
+- BIS Commercial Property Prices (CPP) overview  
+  https://data.bis.org/topics/CPP  
+  Why keep: commercial real-estate price rail (office/retail/industrial) with monthly update cadence, frequencies metadata, and explicit last/next release dates.
+- BIS Global Liquidity Indicators (GLI) overview  
+  https://data.bis.org/topics/GLI  
+  Why keep: cross-border FX-credit and global-liquidity monitor with quarterly cadence plus explicit last/next release metadata; directly relevant for leverage and external-financing risk regimes.
+- BEA Open Data hub  
+  https://www.bea.gov/open-data  
+  Why keep: official API access surface for BEA datasets with release-schedule linkage; improves reproducible pulls for growth, income, investment, and distribution workflows.
 
 ## Cycle 007 additions: liquidity, cycle timing, and filing-quality rails
 - Federal Reserve H.8 release dates  
