@@ -1,6 +1,18 @@
 # Next tasks
 
-Updated: 2026-04-06 (cycle_015 round_04_book_tex)
+Updated: 2026-04-06 (cycle_015 round_05_side_products)
+
+## Cycle 015 side-products follow-up (round_05_side_products)
+
+1. Feed the seeded `knowledge/historical-transmission-countercase.md` pairs (`HCT-1969`, `HCT-2009`, `HCT-2010s-S`) into the next chapter-9 markdown pass.
+   Done when each chosen pair has one direct `question_id` anchor in `question-bank.md` and one reader-facing transfer-rule sentence in section 9.
+2. Expand countercase coverage beyond three pairs if chapter 9 grows into new transmission regimes in `investment/wealth-from-first-principles.md`.
+   Done when each new episode added in chapter 9 has a paired constrained and counter-case row in the ledger.
+3. Keep HCT-6 review hygiene before each chapter edit:
+   - update `last_reviewed`,
+   - verify `falsifier` + `must_not_conflate`,
+   - add next-pull window.
+   Done when the ledger includes one new pull date for every pair before each cycle handoff.
 
 ## Cycle 015 book-tex follow-up (round_04_book_tex)
 

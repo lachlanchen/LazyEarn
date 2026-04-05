@@ -25,7 +25,7 @@ Purpose: track practical artifacts that make the wealth repository easier to stu
 | `knowledge/cadence-aware-stress-classification-panel.md` | planned | Converts cycle_010 mixed-cadence stress questions into an as-known-on-date regime panel with explicit fragility tags | question-bank (`U41`-`U45`) + methods (`CAS-10`) + source-ledger | Draft first 12 rows with release-date fields and naive-vs-cadence comparison notes |
 | `knowledge/historical-case-ledger.md` | planned | Converts historical and institutional episodes into structured case rows for chapter framing and narrative consistency | cycle_011 open historical questions + methods (`HC-5`) + question-bank (`U46`-`U52`) | Seed first 4 rows for Jekyll Island, Great Depression, Great Inflation, and 1973-74 Oil Shock |
 | `knowledge/debt-throughput-decision-map.md` | planned | Converts cycle_012 debt-constraint and transmission questions into a release-aware map across liquidity, access, valuation, burden, and throughput channels | cycle_012 unanswered set (`U53`-`U58`) + methods (`CDL-6`) + source-ledger + historical-case-ledger | Draft one row per question ID with explicit lead/lag class and irreversible-risk flags |
-| `knowledge/historical-transmission-countercase.md` | planned | Builds constrained vs non-constrained episode pairs for transmission-reversal testing and lesson transfer | cycle_014 question cluster (`U64`-`U69`) + methods (`HC-5`, `HCT-6`) + source-ledger | Add one constrained episode and one countercase before the next chapter-9 upgrade |
+| `knowledge/historical-transmission-countercase.md` | active | Builds constrained vs non-constrained episode pairs for transmission-reversal testing and lesson transfer | `cycle_015` chapter-9 updates + methods (`HC-5`, `HCT-6`) + source-ledger | Refresh row set before each round that edits chapter 9 |
 
 ## Side-product briefs
 
@@ -289,6 +289,7 @@ Purpose: track practical artifacts that make the wealth repository easier to stu
   - at least 3 constrained vs counter-case pairs across `U64`-`U69`;
   - each pair has `falsifier` and `transfer_rule`;
   - at least one pair includes both stress-channel and access-channel movement in the same month.
+ - Current status: seeded first three rows (`HCT-1969`, `HCT-2009`, `HCT-2010s-S`) in `knowledge/historical-transmission-countercase.md`.
 
 ### P) Study paths brief
 
