@@ -1,6 +1,6 @@
 # Next tasks
 
-Updated: 2026-04-05 (cycle_011 round_05 side_products)
+Updated: 2026-04-05 (cycle_011 round_06 readme_sync)
 
 Measured review anchors (from this round):
 - `references/wealth-engine/knowledge/` currently misses 9 planned artifacts:
@@ -73,6 +73,7 @@ Measured review anchors (from this round):
 - Cycle_010 resource scan added six official rails:
   - Fed Statistical Release Calendar, Fed Charge-Off/Delinquency release, Fed G.17 release, IMF FSIC dataset, IRS SOI individual PUF page, and OECD Data Explorer API explainer.
   - immediate follow-up: use these rails to seed first-pass rows in `core-series-watchlist.md`, `question-evidence-gates.md`, and `credit-access-and-burden-bridge.md`.
+- Cycle_011 readme surface now reflects both cycle_011 book-sync status (`9.10`) and HC-5 / `historical-case-ledger` scaffolding.
 
 ## Cycle 011 launch queue (highest value, concrete)
 
@@ -108,7 +109,7 @@ Done when: both PDF targets include both sections and all core rails, and build 
 
 11. Convert Cycle 011 historical-signal sources into narrative-ready case rows.
 Done when: `knowledge/historical-case-ledger.md` has first-pass entries for `Jekyll Island`, `Great Depression`, `Great Inflation`, and `Oil Shock of 1973-74` with mechanism, actor/institution, and `decision_use` fields completed.
-Status: scaffolding added in this round (`HC-5` method + historical-case brief and dependency row); file content still to be seeded next round.
+Status: scaffolding added in round_05 (`HC-5` method + historical-case brief and dependency row); readme sync in round_06 now records this as active follow-up.
 
 12. Mirror Chapter 9.10 (constraint-first historical lens) into TeX in cycle_011 book_tex.
 Done when: `investment_pdfs/wealth-from-first-principles/wealth-from-first-principles.tex` includes `Constraint-first lens for money-growth episodes` and new history rails appear in both relevant reference/source-note blocks.

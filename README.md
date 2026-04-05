@@ -179,6 +179,20 @@ Narrative rundowns for AI, biotech, semiconductors, clean energy, and cloud.
   - separate `access-fragile`, `capacity-fragile`, and `distribution-fragile` regimes before leverage changes,
   - require "as-known-on-date" checks before escalating ownership risk.
 
+## 🔁 Book sync highlights (cycle_011)
+
+- Added a new historical-method scaffold in the main guide:
+  - `9.10 Constraint-first lens for money-growth episodes`.
+- Synced the same constraint-first historical lens into TeX:
+  - `Constraint-first lens for money-growth episodes`.
+- Added a new case-construction method for historical evidence shaping:
+  - `HC-5` (historical-case conversion) in `references/wealth-engine/knowledge/methods.md`
+  - planned executable artifact `knowledge/historical-case-ledger.md` in `references/wealth-engine/knowledge/side-products.md`
+- Practical purpose:
+  - make historical episodes support decision questions (rather than remain narrative-only),
+  - force mechanism/actor/scope-limit discipline for major cycles (`U46`-`U52`),
+  - prepare a reusable ledger so future chapters can use one consistent historical evidence format.
+
 ## 🧪 Wealth refinery loop
 
 The repository now carries a durable research loop so book, PDF, README, and site copy can evolve with traceable methods.
@@ -189,7 +203,7 @@ The repository now carries a durable research loop so book, PDF, README, and sit
 | Source map | `references/wealth-engine/knowledge/resource-map.md` | Curated source families and selection logic |
 | Source ledger | `references/wealth-engine/knowledge/source-ledger.tsv` | Date-stamped source entries with notes |
 | Question bank | `references/wealth-engine/knowledge/question-bank.md` | Tiered research questions and distinctions |
-| Methods playbook | `references/wealth-engine/knowledge/methods.md` | Question -> evidence -> claim process, SQ-5 rubric, and execution methods (`QE-5`, `HS-8`, `LL-6`, `EV-7`, `DP-5`, `RC-6`, `CC-7`, `EP-6`, `CAB-9`, `CAS-10`) |
+| Methods playbook | `references/wealth-engine/knowledge/methods.md` | Question -> evidence -> claim process, SQ-5 rubric, and execution methods (`QE-5`, `HS-8`, `LL-6`, `EV-7`, `DP-5`, `RC-6`, `CC-7`, `EP-6`, `CAB-9`, `CAS-10`, `HC-5`) |
 | Daily prompts pack | `references/wealth-engine/knowledge/daily-prompts.md` | 14-day question-linked study prompts plus logging template |
 | Side-products catalog | `references/wealth-engine/knowledge/side-products.md` | Checklists, prompt packs, and planned study artifacts |
 | Round outputs | `references/wealth-engine/cycles/` | Per-round notes, findings, and summaries |
@@ -219,6 +233,7 @@ Current method signals (synced with the main book):
 | `references/wealth-engine/knowledge/question-evidence-gates.md` | Converts Tier 1 questions into pass/fail evidence gates before narrative claims. | `question_id`, `hypothesis`, `minimum_evidence`, `falsifier`, `must_not_conflate`, `status`, `decision_use`, `next_pull` |
 | `references/wealth-engine/knowledge/household-stress-watchlist.md` | Turns macro/credit stress signals into a repeatable monitoring routine. | `signal`, `source`, `series_or_table`, `frequency`, `lead_or_lag`, `risk_read` |
 | `references/wealth-engine/knowledge/signal-lead-lag-matrix.md` | Forces explicit timing tests for questions where ordering matters (`U7`, `U9`). | `question_id`, `target_outcome`, `candidate_signal`, `source`, `frequency`, `tested_lag_window`, `observed_lead_periods`, `consistency_score`, `false_signal_note`, `action_rule` |
+| `references/wealth-engine/knowledge/historical-case-ledger.md` | Converts major episodes into reusable decision-facing case rows for chapters and cycle_011 questions. | `case_id`, `episode`, `date_range`, `actors_or_institutions`, `question_it_helps`, `mechanism`, `what_it_does_not_prove`, `source_1`, `source_2`, `decision_use` |
 | `references/wealth-engine/knowledge/revision-aware-capacity-checklist.md` | Prevents false confidence from headline credit growth by combining revision guardrails with capacity/throughput rails (`U21`-`U25`). | `question_id`, `window`, `credit_pulse_signal`, `series_version_note`, `capacity_signal`, `throughput_signal`, `regime_class`, `decision_use`, `caveat` |
 | `references/wealth-engine/knowledge/cycle-clock-lead-lag-panel.md` | Aligns liquidity/conditions/flow signals into one testable timing panel for cycle_007 questions (`U26`, `U27`, `U29`). | `question_id`, `signal`, `source`, `release_cadence`, `lag_test_window`, `target_outcome`, `lead_result`, `false_signal_note`, `action_rule` |
 | `references/wealth-engine/knowledge/entry-and-property-price-pulse.md` | Keeps entry, durability, valuation, and liquidity signals separate before broad access claims (`U31`-`U35`). | `signal`, `source`, `frequency`, `last_release`, `next_release`, `question_id`, `decision_use` |
