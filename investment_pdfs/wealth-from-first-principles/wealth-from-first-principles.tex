@@ -639,6 +639,44 @@ Cycle anchor & Recession/expansion turning-point chronology. & NBER chronology &
 4) Use MTS and ECI as cash-flow and cost-pressure context, then confirm with DSR/FOR and NY Fed household-stress data before increasing leverage.
 \end{notebox}
 
+\section{Entry-and-property-price pulse (monthly and quarterly)}
+
+Use this pulse to avoid a recurring mistake: treating high entry activity or rising property prices as automatic evidence of broad, durable wealth progress.
+
+It keeps three distinctions active:
+\begin{itemize}
+  \item entry flow versus entrant durability,
+  \item valuation gains versus participation gains,
+  \item and global liquidity easing versus local credit-access improvement.
+\end{itemize}
+
+\begin{center}
+\small
+\begin{tabularx}{\textwidth}{>{\raggedright\arraybackslash}p{0.18\textwidth}>{\raggedright\arraybackslash}p{0.20\textwidth}>{\raggedright\arraybackslash}p{0.20\textwidth}X}
+\toprule
+\textbf{Pulse block} & \textbf{What to monitor} & \textbf{Primary source} & \textbf{Practical read} \\
+\midrule
+Entry flow pulse & Business application and formation momentum. & U.S. Census BFS & Rising entry flow is opportunity flow, not yet proof of durable ownership gains. \\
+Entrant durability check & Cohort persistence and growth quality. & U.S. Census BDS API & Weak persistence after strong entry suggests churn risk. \\
+Residential valuation pressure & Cross-country housing valuation momentum and revisions. & BIS RPP & Synchronized housing price rises can widen incumbent gains before entry broadens. \\
+Commercial refinancing pressure & Office/retail/industrial price regime and release cadence. & BIS CPP & Weak commercial pricing with tight funding can become a balance-sheet drag. \\
+Funding regime overlay & Cross-border FX-credit tightening/easing backdrop. & BIS GLI & Tighter global liquidity can transmit into stricter domestic credit access. \\
+Real-economy conversion check & Productivity and energy-cost context for real wealth conversion. & BLS LPC + EIA STEO & Entry and valuation are more durable when productivity supports real income and energy pressure is contained. \\
+\bottomrule
+\end{tabularx}
+\normalsize
+\end{center}
+
+\begin{notebox}
+\textbf{Sequence rule}\par
+1) Read BFS first as an opportunity-flow signal, then confirm durability with BDS.\par
+2) Read RPP/CPP next to separate incumbent mark-to-market gains from broad ownership entry.\par
+3) Overlay GLI before concluding that easier valuations imply easier financing.\par
+4) Confirm real conversion with LPC and STEO before increasing leverage or concentrated ownership risk.
+\end{notebox}
+
+If entry is strong but durability is weak and liquidity is tightening, prefer staged ownership with larger liquidity buffers over aggressive leverage.
+
 \chapter{Who can get wealth and what should they do first}
 
 Almost anyone can improve their financial condition. Not everyone should use the same strategy. A useful sequence is:
@@ -774,15 +812,20 @@ CFPB Consumer Credit Trends & Consumer credit flow by product/risk group and geo
 CFPB Making Ends Meet & Direct household stress and bill-payment strain indicators. & Annual survey reports with data files. \\
 BEA Personal Income and Outlays & Income, consumption, and personal saving path. & Monthly U.S. national accounts release. \\
 BEA Fixed Assets & Produced-capital stock, depreciation, and investment structure. & Annual U.S. fixed-asset update cycle. \\
+BEA Open Data API & Reproducible API access layer for macro/distribution pulls. & API access with release schedule linkage. \\
 BEA Distribution of Personal Income & Distributional disposable income and inequality decomposition. & Annual distributional national-accounts release. \\
 BLS CPI + CEX + ECI & Inflation pressure, household spending structure, and labor-cost pressure. & Monthly CPI/ECI and annual spending detail. \\
+BLS Productivity and Costs (LPC) & Labor productivity and unit labor costs for real-compounding context. & Quarterly U.S. productivity release. \\
 EIA Monthly Energy Review (MER) & Economy-wide energy production/consumption/price throughput context. & Monthly U.S. energy data release. \\
+EIA Short-Term Energy Outlook (STEO) & Near-term energy-price and supply-demand baseline. & Monthly U.S. outlook with explicit release schedule. \\
 FHFA House Price Index & Housing wealth regime and regional price dynamics. & Monthly/quarterly U.S. house-price indices. \\
+U.S. Census BFS + BDS API & Business-entry pulse and cohort durability checks. & Weekly/monthly entry flow plus annual cohort dynamics. \\
 FHFA National Mortgage Database (NMDB) & Mortgage origination, performance, and outstanding-balance structure. & Release-based U.S. mortgage sample and aggregate statistics. \\
 FFIEC HMDA modified LAR + CFPB HMDA release notes & Loan-level mortgage distribution, originations, and borrower mix context. & Annual HMDA filing cycle with current release notes. \\
 Federal Reserve Small Business Credit Survey (SBCS) & Credit access, denial, and financing conditions for firms under 500 employees. & Annual survey reports with subgroup cut tables. \\
 CFPB Small Business Lending (Section 1071) & Filing and publication surface for small-business lending disclosures. & Rule-driven filing/publishing cadence with specification updates. \\
 BIS Debt Service Ratios (DSR) & Cross-country debt burden and early-warning leverage context. & Quarterly international debt-service statistics. \\
+BIS RPP + CPP + GLI & Property valuation regime and global liquidity backdrop. & Monthly property updates and quarterly global-liquidity updates. \\
 ECB Bank Lending Survey (BLS) & Euro-area credit standards and loan-demand cycle comparisons. & Quarterly euro-area lending survey. \\
 U.S. Census wealth tables (SIPP) & Household wealth and debt distribution in public-use tables. & Annual SIPP-based wealth publication. \\
 U.S. Census CPS income/inequality tables & Household, family, and person income distribution baselines. & Annual CPS ASEC update cycle. \\
@@ -807,15 +850,16 @@ Primary references checked for this edition on 2026-04-05:
   \item Federal Reserve FEDS note, \href{https://www.federalreserve.gov/econres/notes/feds-notes/a-note-on-the-new-credit-union-estimates-in-the-g-19-consumer-credit-statistical-release-20250708.html}{new credit-union estimates in G.19}
   \item Federal Reserve surveys: \href{https://www.federalreserve.gov/data/sloos.htm}{SLOOS} and \href{https://www.federalreserve.gov/publications/report-economic-well-being-us-households.htm}{SHED}
   \item Federal Reserve Bank of New York, \href{https://www.newyorkfed.org/microeconomics/hhdc}{Household Debt and Credit} and \href{https://www.newyorkfed.org/microeconomics/sce}{Survey of Consumer Expectations}
-  \item U.S. BEA, \href{https://www.bea.gov/data/income-saving/personal-income}{Personal Income and Outlays}, \href{https://www.bea.gov/data/special-topics/distribution-of-personal-income}{Distribution of Personal Income}, and \href{https://www.bea.gov/itable/fixed-assets}{Fixed Assets}
-  \item U.S. BLS, \href{https://www.bls.gov/cpi/home.htm}{CPI}, \href{https://www.bls.gov/eci/}{Employment Cost Index (ECI)}, and \href{https://www.bls.gov/cex/}{Consumer Expenditure Surveys}
-  \item U.S. EIA, \href{https://www.eia.gov/totalenergy/data/monthly/previous.php}{Monthly Energy Review}
+  \item U.S. BEA, \href{https://www.bea.gov/data/income-saving/personal-income}{Personal Income and Outlays}, \href{https://www.bea.gov/data/special-topics/distribution-of-personal-income}{Distribution of Personal Income}, \href{https://www.bea.gov/itable/fixed-assets}{Fixed Assets}, and \href{https://www.bea.gov/resources/developer-tools}{Open Data API hub}
+  \item U.S. BLS, \href{https://www.bls.gov/cpi/home.htm}{CPI}, \href{https://www.bls.gov/eci/}{Employment Cost Index (ECI)}, \href{https://www.bls.gov/cex/}{Consumer Expenditure Surveys}, and \href{https://www.bls.gov/lpc/}{Productivity and Costs (LPC)}
+  \item U.S. EIA, \href{https://www.eia.gov/totalenergy/data/monthly/previous.php}{Monthly Energy Review} and \href{https://www.eia.gov/outlooks/steo/index.php}{Short-Term Energy Outlook (STEO)}
+  \item U.S. Census, \href{https://www.census.gov/econ/bfs/index.html}{Business Formation Statistics (BFS)} and \href{https://www.census.gov/topics/business-economy/dynamics/data/api.html}{Business Dynamics Statistics (BDS) API}
   \item U.S. Census, \href{https://www.census.gov/topics/income-poverty/wealth/data/tables.html}{Wealth and Asset Ownership tables (SIPP)}, \href{https://www.census.gov/topics/income-poverty/income-inequality/data/data-tables/cps-data-tables.html}{CPS income/inequality tables}, and \href{https://www2.census.gov/library/publications/2025/demo/p70br-211.pdf}{P70BR-211}
   \item U.S. FHFA, \href{https://www.fhfa.gov/house-price-index}{House Price Index datasets} and \href{https://www.fhfa.gov/data/nmdb}{National Mortgage Database (NMDB)}
   \item IRS SOI, \href{https://www.irs.gov/statistics/soi-tax-stats-individual-income-tax-returns-complete-report-publication-1304}{Publication 1304} and \href{https://www.irs.gov/statistics/soi-tax-stats-irs-data-book}{IRS Data Book}
   \item Bank of England, \href{https://www.bankofengland.co.uk/quarterly-bulletin/2014/q1/money-creation-in-the-modern-economy}{Money creation in the modern economy}
   \item IMF, \href{https://data.imf.org/Datasets/WEO}{World Economic Outlook} and \href{https://data.imf.org/en/datasets/IMF.FAD%3AGDD}{Global Debt Database}
-  \item BIS, \href{https://data.bis.org/}{Data Portal} and \href{https://data.bis.org/topics/DSR}{Debt Service Ratios}
+  \item BIS, \href{https://data.bis.org/}{Data Portal}, \href{https://data.bis.org/topics/DSR}{Debt Service Ratios}, \href{https://data.bis.org/topics/RPP/tables-and-dashboards}{Residential Property Prices (RPP)}, \href{https://data.bis.org/topics/CPP}{Commercial Property Prices (CPP)}, and \href{https://data.bis.org/topics/GLI}{Global Liquidity Indicators (GLI)}
   \item ECB, \href{https://www.ecb.europa.eu/stats/ecb_surveys/consumer_exp_survey/html/index.en.html}{Consumer Expectations Survey} and \href{https://www.ecb.europa.eu/stats/ecb_surveys/bank_lending_survey/html/index.en.html}{Bank Lending Survey}
   \item Chicago Fed, \href{https://www.chicagofed.org/research/data/nfci/current-data}{National Financial Conditions Index (NFCI)}
   \item U.S. Treasury, \href{https://home.treasury.gov/data/treasury-international-capital-tic-system/release-dates-of-tic-data}{TIC release calendar} and \href{https://www.fiscal.treasury.gov/reports-statements/mts/}{Monthly Treasury Statement (MTS) program page}
