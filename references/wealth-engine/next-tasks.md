@@ -1,6 +1,22 @@
 # Next tasks
 
-Updated: 2026-04-06 (cycle_016 round_01_resource_scan)
+Updated: 2026-04-06 (cycle_016 round_02_question_bank)
+
+## Cycle 016 question-bank follow-up (round_02_question_bank)
+
+1. Replace the cycle_016 question framing in `references/wealth-engine/knowledge/question-bank.md` with falsifiable, channel-ordered distinctions for `U64`-`U69`, including explicit irreversible-risk and ownership-control language.
+   Done when: each question has one falsifier, one irreversibility test anchor, and one actionable method implication.
+2. Populate `references/wealth-engine/cycles/cycle_016/round_02_question_bank/questions.md` with:
+   - the sharpened `U64`-`U69` prompts,
+   - one expected evidence rail per question (liquidity/access/valuation, or participation/control),
+   - and one provisional section-placement plan for each question (sections 5, 8, or 9 + fallback in 3).
+   Done when: every row includes evidence source families and a section anchor.
+3. In `references/wealth-engine/next-tasks.md`, add explicit follow-up from this round:
+   - first evidence pull for `U64`/`U66` should separate release-lag windows by recipient class (household/small firm).
+   - `U69` should not be used as a leverage rule until a throughput stress check (`IEA STEO/MER`-style rail) and a debt-burden rail (`Fed DSR/FOR`) agree.
+   Done when: criteria appear in a new cycle_016 follow-up summary.
+4. Write `references/wealth-engine/cycles/cycle_016/round_02_question_bank/summary.md` with concise outcomes, sources used, and the immediate next evidence pull priority.
+   Done when: the summary names what still blocks `question-bank -> markdown` progress.
 
 ## Cycle 015 review and next-tasks (round_10_review_and_next_tasks)
 
