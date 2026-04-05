@@ -720,6 +720,61 @@ Institutional references for this mechanism are in the official history and ener
 - International Energy Agency (IEA) production/price archives
 - FRASER historical archive
 
+### 9.11.2 Historical counter-case: 1946-1951 post-war normalization and ownership broadening
+
+The 1970s oil-shock case shows how a real throughput squeeze can delay durable ownership gains even when financial signals improve.
+This post-war normalization case shows the opposite sequence: a period where financing channels, legal credit architecture, and capacity reconversion were the binding steps, while energy logistics pressure was not the primary limiter.
+
+Between 1946 and 1951, U.S. policy shifted from wartime finance conditions toward a more normal banking and monetary framework (including the Treasury-Federal Reserve Accord of 1951), while federal housing and business-credit channels expanded access for first-time owners and entrants.
+The practical pattern is that ownership durability improved alongside access and debt-service conditions, not only by nominal valuation lifts.
+
+The main mechanism for this counter-case is:
+
+- **Policy normalization first** changed the operating constraints on credit intermediation;
+- **Access broadening second** improved who could borrow and enter, not only who already held balance-sheet scale;
+- **Ownership durability third** followed as durable entry and repayment margins became more coherent.
+
+Use this sequence as a diagnostic when evaluating whether a "policy relief" cycle is transmissive or merely cosmetic.
+
+| Counter-case rail | What to observe | Practical implication |
+| --- | --- | --- |
+| **Access-first transmission** | HMDA/LAR cohort access trends, SLOOS easing by risk/borrower slice, and early business-entry persistence signals | if entrant access widens before leverage intensity expands, favor stage-gated entry methods over valuation-chasing |
+| **Debt-service rail** | debt-burden improvement (`DSR/FOR`) while asset prices remain stable or below prior peak | if service stress eases before valuation surges, prioritize debt restructuring and ownership expansion together |
+| **Institutional rule-quality rail** | post-war legal-financial architecture changes that reduce frictions (policy coordination, underwriting access, channel consistency) | treat institutional claims as a transmission constraint check, not as a standalone signal |
+
+Reader-facing decision test:
+1. If policy supports are accompanied by improving access and burden simultaneously, staged growth can be advanced earlier than in constrained-throughput episodes.
+2. If valuation or headline price support rises without broad access and burden improvement, keep allocation defensive and treat any gains as potentially temporary.
+
+Institutional references for this mechanism are in:
+
+- Federal Reserve History on the Treasury-Federal Reserve Accord and related post-war policy normalization
+- FRB/NBER macro timing records for early post-war cycle chronology
+- Federal Reserve History and FRASER resources on pre- and post-war credit/monetary policy transitions
+
+### 9.11.3 Quarterly transmission audit for wealth decisions
+
+The preceding two episodes differ in one practical way: who gets ownership access first, and whether that access is durable under stress.
+
+Use this four-slot audit before raising ownership exposure in any environment:
+
+| Audit slot | What to check | Failure signal | Action |
+| --- | --- | --- | --- |
+| **A. Signal direction** | policy easing, money/credit liquidity, and debt-service trend | only one channel improves | no scaling unless corroborated by access data |
+| **B. Access breadth** | first-time borrower/share of new owner entry; small-firm entry persistence | concentration stays incumbent-first | keep defensive leverage and narrow position sizing |
+| **C. Constraint persistence** | freight/energy bottlenecks, small-bank credit frictions, and wage-income stress | rising pinch points while prices rise | stage entries and preserve liquidity buffers |
+| **D. Reversibility** | 1–2 quarter deterioration in any slot and whether losses remain reversible without forced exits | irreversible leverage stress risk | pause discretionary scaling and review capital structure |
+
+Decision rules:
+
+1. If `A+B+C` are improving and reversibility stays healthy, add ownership gradually in predetermined tranches.
+2. If `A` improves but `B` does not, treat the period as transmission-first and keep defensive posture.
+3. If `B+C` are improving but `A` is mixed, keep exposure fixed and avoid leverage escalation until signal direction confirms.
+
+Apply this rule:
+- The 1973–74 oil-shock period matches an `A+/-` pattern with high constraint persistence, so ownership scaling should be delayed.
+- The 1946–1951 period matches a cleaner `A+B+C` sequence in several channels, so controlled scaling can be defended where downside rules hold.
+
 ## 10. A 90-day plan
 
 ### Days 1-30: map reality

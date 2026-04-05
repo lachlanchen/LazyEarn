@@ -1,6 +1,15 @@
 # Next tasks
 
-Updated: 2026-04-06 (cycle_015 round_02_question_bank)
+Updated: 2026-04-06 (cycle_015 round_03_book_markdown)
+
+## Cycle 015 book-markdown follow-up (round_03_book_markdown)
+
+1. Mirror the non-energy counter-case (`9.11.2`) and the new operational audit (`9.11.3`) in `investment/wealth-from-first-principles.md` into `investment_pdfs/wealth-from-first-principles/wealth-from-first-principles.tex` and add matching source-note anchors.
+   Done when the heading, audit table, and action-rule structure appear in both chapter text and LaTeX outputs.
+2. Add one `9.11.2` entry in `references/wealth-engine/knowledge/source-ledger.tsv` linking the post-war normalization case to `U65` and `U69`, with one falsification line.
+   Done when source-ledger captures channel sequence, institution, and practical decision implication.
+3. Map the 9.11 sequence (`9.11.2`, `9.11.3`) against `U64`-`U69` in `references/wealth-engine/knowledge/question-bank.md` follow-up notes (and keep one fallback anchor for section 5/8).
+   Done when each listed question has a primary chapter anchor and a fallback section tag, including the new `A+B+C` method anchor.
 
 ## Cycle 015 question-bank follow-up (round_02_question_bank)
 
