@@ -1,7 +1,54 @@
 # Resource Map
 
-Updated: 2026-04-05  
-Round seed: cycle_012 / round_01_resource_scan
+Updated: 2026-04-06  
+Round seed: cycle_015 / round_01_resource_scan
+
+## Cycle 015 additions: supervisory stress-testing transparency and comparative resilience
+- Federal Reserve Board requests comment on proposals to improve annual stress-test transparency and public accountability  
+  https://www.federalreserve.gov/newsevents/pressreleases/bcreg20251024a.htm  
+  Why keep: official DFAST design rationale from the Federal Reserve in late 2025, directly useful for chapter 9’s stress-calibration framework and model-accountability logic.
+- Federal Reserve Board extends the DFAST comment period until February 21, 2026 for model and scenario transparency changes  
+  https://www.federalreserve.gov/newsevents/pressreleases/bcreg20251121a.htm  
+  Why keep: provides consultation timeline and final-rule sequencing details for the 2026 stress-test methodology review.
+- Federal Reserve Board finalizes hypothetical 2026 supervisory stress-test scenarios and maintains buffer requirements  
+  https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260204a.htm  
+  Why keep: official final scenario design and shock logic with explicit macro-path values (including 10% unemployment peak), useful for a modern credit-plus-real-asset transmission example.
+- Federal Reserve Board stress capital buffer extension letters 2026  
+  https://www.federalreserve.gov/supervisionreg/dfa-stress-capital-buffer-extension-letters-2026.htm  
+  Why keep: bank-by-bank extension letters and board actions show how aggregate scenario outcomes map to institution-specific capital-policy outcomes.
+- Federal Reserve Board proposal details for Modifications to the Capital Plan Rule and Stress Capital Buffer Requirement (R-1866)  
+  https://www.federalreserve.gov/apps/proposals/FR-2025-0026-01/details  
+  Why keep: explains the mechanics proposed to reduce SCB volatility, adjust reporting, and improve forward-looking capital planning quality.
+- Federal Reserve Board final 2026 supervisory stress test methodology PDF  
+  https://www.federalreserve.gov/publications/files/2026-final-supervisory-stress-test-scenarios-20260204.pdf  
+  Why keep: machine-readable details of the final variable paths and policy guidance for scenario calibration.
+- Federal Reserve Board — Dodd-Frank Act Stress Tests 2026 hub  
+  https://www.federalreserve.gov/supervisionreg/dfa-stress-tests-2026.htm  
+  Why keep: primary source family for yearly scenarios, methodology, comments, and supervisory letters.
+- Office of the Comptroller of the Currency: Dodd-Frank Act Stress Test (company-run) page and 2026 templates/instructions  
+  https://www.occ.gov/publications-and-resources/forms/dodd-frank-act-stress-test/index-dodd-frank-act-stress-test.html  
+  Why keep: links Federal Reserve-style stress-testing practice to bank-run stress regimes and reporting templates from an independent U.S. regulator.
+- European Banking Authority/Euro-area stress-test context (ECB/2025 bank stress-test outcomes)  
+  https://www.bankingsupervision.europa.eu/press/pr/date/2025/html/ssm.pr250801~24ec6ae308.en.html  
+  Why keep: gives a cross-jurisdiction comparison for adverse macro scenarios, resilience, and CET1 depletion assumptions.
+- ECB, Reverse stress test on geopolitical risk across 110 direct-supervision banks (2026)  
+  https://www.bankingsupervision.europa.eu/press/pr/date/2025/html/ssm.pr251212~69f656d4bf.en.html  
+  Why keep: adds a reverse-stress-testing framework case where scenario outcomes are prescribed, useful for reversibility/disaster-boundary treatment.
+- Financial Stability Board work programme and reform cadence for 2026  
+  https://www.fsb.org/publication/fsb-work-programme/  
+  Why keep: provides global systemic-risk priorities and timeline for financial system reform and resilience implementation.
+- Financial Stability Board 2025 G-SIB list  
+  https://www.fsb.org/2025/11/fsb-publishes-2025-g-sib-list/  
+  Why keep: adds official global systemic-importance context and bucket movement data directly relevant to concentrated financial power/wealth questions.
+- UNCTAD World Economic Situation and Prospects 2026  
+  https://unctad.org/publication/world-economic-situation-and-prospects-2026  
+  Why keep: flagship multilateral macro outlook with production-capacity and debt constraints framing, useful for macro-infrastructure and inequality transmission sections.
+- UNCTAD Global Trade Update (March 2026): reforming trade rules to drive development  
+  https://unctad.org/publication/global-trade-update-march-2026-reforming-trade-rules-drive-development  
+  Why keep: adds a concrete policy-shaping mechanism for trade openness, capital mobility, and long-horizon productive-investment outcomes.
+- UNCTAD official 2026 trade and investment monitoring note on global economic policy uncertainty  
+  https://unctad.org/system/files/official-document/diaeiainf2026d1_en.pdf  
+  Why keep: methodologically useful for mapping investment-channel sensitivity to uncertainty and policy-friction regimes in chapter 9.
 
 ## Cycle 014 additions: IMF/UNCTAD surveillance, monetary institution history, and financial stability
 - IMF World Economic Outlook, January 2026 report tables (text bundle)  

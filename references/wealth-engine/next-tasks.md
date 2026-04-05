@@ -1,6 +1,14 @@
 # Next tasks
 
-Updated: 2026-04-06 (cycle_014 round_07_website_sync)
+Updated: 2026-04-06 (cycle_015 round_01_resource_scan)
+
+## Cycle 015 resource-scan follow-up (round_01_resource_scan)
+
+1. Add the new supervisory resilience sources from Cycle 015 into a new cross-jurisdiction comparison block in chapter 9:
+   - Fed DFAST + SCB proposal mechanics, OCC company-run stress process, ECB reverse-stress methodology, and FSB G-SIB concentration context.
+   Done when section 9 includes one paragraph on scenario design choices versus implementation discipline, with one explicit reversibility implication and one non-reversible stress boundary.
+2. Add these Cycle 015 sources to `references/wealth-engine/knowledge/source-ledger.tsv` verification cadence notes before the next markdown pass, especially for the stress scenario and capital-policy links.
+3. Seed a short `knowledge/historical-case-ledger.md` entry for the 2026 stress-test consultative cycle and 2025-26 ECB stress process, tied to practical wealth-risk decisions from `U64`-`U69`.
 
 ## Cycle 014 review and next-implementation queue (round_10_review_and_next_tasks)
 
