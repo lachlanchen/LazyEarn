@@ -22,7 +22,7 @@ Updated: 2026-04-06 (cycle_014 round_07_website_sync)
 
 ## Cycle 014 website_sync follow-up (round_07_website_sync)
 
-1. Add Cycle 014 wording for `research.copy`, `research.point8`, and `research.asset1Desc` to all non-English runtime locale packs in `docs/translations.json` so the site surface is not English-skewed.
+1. Extend Cycle 014 wording for `research.copy`, `research.point8`, and `research.asset1Desc` to the remaining non-English runtime locale packs in `docs/translations.json` (`ja`, `ko`, `vi`, `ar`, `fr`, and `es`). `en` and `zh-Hant` are now aligned.
 2. Add a dedicated reader-facing cycle_014 route note in `docs/index.html` for the Chapter 9 sequencing between 9.10/9.10.1/9.11/9.11.1 and constrained-vs-countercase comparisons.
 3. Add a parity check in upcoming maintenance so `docs/index.html` visible bullet strings and `docs/script.js` synced English strings remain aligned after each cycle update.
 
