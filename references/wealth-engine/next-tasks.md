@@ -248,3 +248,6 @@ Done when: at least 8 rows align `signal`, `release_cadence`, `lag_test_window`,
 
 31. Run a warning-audit pass on TeX section `9.6 Liquidity-and-cycle clock` after compilation.
 Done when: any new `overfull`/`underfull` lines introduced by the `9.6` table block are either removed or explicitly documented with bounded rationale in build notes.
+
+32. Run a `CC-7` pilot for `U26`, `U27`, and `U29` before scaling the full cycle-clock panel.
+Done when: at least 3 starter rows (one per question) are logged with `lead_result`, one `false_signal_note`, and one promoted `action_rule`.

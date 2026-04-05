@@ -301,3 +301,25 @@ caveat:
 decision_use:
 next_pull:
 ```
+
+## 19) CC-7 method (cycle-clock lead-lag panel)
+
+Use this method for `U26`, `U27`, and `U29` when testing whether liquidity, conditions, flow, or fiscal signals lead stress and cycle outcomes.
+
+The goal is to avoid mixed-cadence timing mistakes when combining weekly, monthly, and quarterly releases.
+
+| Step | Action | Output |
+| --- | --- | --- |
+| 1 | Lock one regime window and mark turning-point anchors first. | analysis window + regime labels |
+| 2 | Define one target outcome for the row (for example delinquency transition, burden rise, or access slowdown). | explicit target outcome |
+| 3 | Normalize signal cadence onto one decision calendar and record publication lag assumptions. | aligned timing panel |
+| 4 | Test at least two lag windows per signal and store directional lead results. | lead-lag test log |
+| 5 | Write one `false_signal_note` for any signal that moved without target confirmation. | rejected-signal evidence |
+| 6 | Promote only signals with stable lead behavior into an `action_rule`; demote unstable signals. | action-ready signal set |
+| 7 | Record one caveat and one next pull before closing the row. | bounded claim + next step |
+
+Minimum schema for `cycle-clock-lead-lag-panel.md`:
+
+```text
+question_id | signal | source | release_cadence | lag_test_window | target_outcome | lead_result | false_signal_note | action_rule
+```

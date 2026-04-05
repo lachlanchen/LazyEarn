@@ -18,6 +18,7 @@ Purpose: track practical artifacts that make the wealth repository easier to stu
 | `knowledge/distinction-cards.md` | planned | Quick review cards for core conceptual distinctions | question-bank | Draft 15 cards with examples |
 | `knowledge/daily-prompts.md` | active | Keeps learning cadence consistent during short study sessions and ties each session to a question ID | question-bank + methods + source-ledger | Run one 14-day pilot and capture decision-use notes |
 | `knowledge/revision-aware-capacity-checklist.md` | planned | Turns revision-aware credit reads plus real-capacity rails into one repeatable regime classification layer | question-bank (`U21`-`U25`) + methods (`RC-6`) + source-ledger | Draft first 6 rows and attach one action rule per row |
+| `knowledge/cycle-clock-lead-lag-panel.md` | planned | Aligns mixed-cadence cycle signals into one lead-lag decision panel for liquidity, conditions, flows, and stress | question-bank (`U26`,`U27`,`U29`) + methods (`CC-7`) + source-ledger | Draft first 8 rows and include at least one rejected signal case |
 
 ## Side-product briefs
 
@@ -139,6 +140,24 @@ Purpose: track practical artifacts that make the wealth repository easier to stu
   - `decision_use`
   - `caveat`
 - Exit criterion: at least 6 rows spanning `U21`-`U25`, with at least one row explicitly labeled `constraint-led fragility`.
+
+### J) Cycle-clock lead-lag panel brief
+
+- Goal: convert cycle_007 timing questions into one mixed-cadence panel that can support concrete action rules.
+- Minimum schema:
+  - `question_id`
+  - `signal`
+  - `source`
+  - `release_cadence`
+  - `lag_test_window`
+  - `target_outcome`
+  - `lead_result`
+  - `false_signal_note`
+  - `action_rule`
+- Method hook:
+  - Use `CC-7` from `knowledge/methods.md`.
+  - Include at least one explicitly rejected signal row (signal moved but target did not confirm).
+- Exit criterion: at least 8 rows covering `U26`, `U27`, and `U29`, with at least one promoted and one demoted signal.
 
 ## Starter prompt pack (14 days)
 
