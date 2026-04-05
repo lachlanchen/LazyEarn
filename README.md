@@ -60,6 +60,7 @@ Primary production domain (from `docs/CNAME`): `earn.lazying.art`.
 - Research showcase with direct PDF download, inline viewer routes, and Markdown source links.
 - A primary money-and-wealth field guide covering money creation, ownership, compounding, inequality, and practical wealth-building methods.
 - Household stress dashboard plus credit-conditions transmission check guidance (standards, credit flow, debt burden, delinquency transitions, and resilience signals) synced into markdown and TeX guide surfaces.
+- Revision-aware credit-and-capacity check guidance (credit pulse, revision guardrails, real-capacity rails, and throughput rails) synced into markdown and TeX guide surfaces.
 - A codex-driven wealth refinery loop with a question bank, methods playbook, side-product catalog, and source ledger.
 - PDF viewer routing via hash/query (`#high-growth`, `#financial-freedom`, `?file=financial-freedom-zh`, etc.).
 - GitHub Pages-compatible static distribution with no build step for the website shell.
@@ -87,6 +88,22 @@ Narrative rundowns for AI, biotech, semiconductors, clean energy, and cloud.
 [`Open markdown`](https://github.com/lachlanchen/LazyEarn/blob/main/investment/financial_freedom.md) | [Open PDF](https://earn.lazying.art/pdf-viewer.html#financial-freedom) |
 [`打开 Markdown`](https://github.com/lachlanchen/LazyEarn/blob/main/investment/financial_freedom_zh.md) | [打开 PDF](https://earn.lazying.art/pdf-viewer.html?file=financial-freedom-zh) |
 
+## 🔁 Book sync highlights (cycle_006)
+
+- Added a new practical mechanism block in the main guide:
+  - `9.5 Revision-aware credit-and-capacity check (quarterly)`.
+- Synced the same mechanism into TeX:
+  - `Revision-aware credit-and-capacity check (quarterly)`.
+- Expanded official-source coverage in both book surfaces:
+  - Federal Reserve `G.19`,
+  - Fed FEDS note on `G.19` credit-union estimate revisions,
+  - BEA Fixed Assets,
+  - EIA Monthly Energy Review,
+  - ECB Bank Lending Survey.
+- Practical purpose:
+  - avoid confusing statistical revisions with real regime shifts,
+  - avoid treating nominal credit growth as durable wealth capacity.
+
 ## 🧪 Wealth refinery loop
 
 The repository now carries a durable research loop so book, PDF, README, and site copy can evolve with traceable methods.
@@ -97,7 +114,7 @@ The repository now carries a durable research loop so book, PDF, README, and sit
 | Source map | `references/wealth-engine/knowledge/resource-map.md` | Curated source families and selection logic |
 | Source ledger | `references/wealth-engine/knowledge/source-ledger.tsv` | Date-stamped source entries with notes |
 | Question bank | `references/wealth-engine/knowledge/question-bank.md` | Tiered research questions and distinctions |
-| Methods playbook | `references/wealth-engine/knowledge/methods.md` | Question -> evidence -> claim process and SQ-5 rubric |
+| Methods playbook | `references/wealth-engine/knowledge/methods.md` | Question -> evidence -> claim process, SQ-5 rubric, and execution methods (`QE-5`, `HS-8`, `LL-6`, `EV-7`, `DP-5`, `RC-6`) |
 | Daily prompts pack | `references/wealth-engine/knowledge/daily-prompts.md` | 14-day question-linked study prompts plus logging template |
 | Side-products catalog | `references/wealth-engine/knowledge/side-products.md` | Checklists, prompt packs, and planned study artifacts |
 | Round outputs | `references/wealth-engine/cycles/` | Per-round notes, findings, and summaries |
@@ -114,6 +131,7 @@ Current method signals (synced with the main book):
 - `LL-6` method for testing lead-lag signal timing before making predictive stress claims.
 - `EV-7` method for entrant-vs-incumbent access testing on ownership-entry questions (`U11`, `U13`).
 - `DP-5` method for running short daily prompt sessions and logging source-backed decision notes.
+- `RC-6` method for revision-aware credit and capacity checks on cycle_006 questions (`U21`-`U25`).
 
 ### Next side-product builds (already scoped)
 
@@ -122,6 +140,7 @@ Current method signals (synced with the main book):
 | `references/wealth-engine/knowledge/question-evidence-gates.md` | Converts Tier 1 questions into pass/fail evidence gates before narrative claims. | `question_id`, `hypothesis`, `minimum_evidence`, `falsifier`, `must_not_conflate`, `status`, `decision_use`, `next_pull` |
 | `references/wealth-engine/knowledge/household-stress-watchlist.md` | Turns macro/credit stress signals into a repeatable monitoring routine. | `signal`, `source`, `series_or_table`, `frequency`, `lead_or_lag`, `risk_read` |
 | `references/wealth-engine/knowledge/signal-lead-lag-matrix.md` | Forces explicit timing tests for questions where ordering matters (`U7`, `U9`). | `question_id`, `target_outcome`, `candidate_signal`, `source`, `frequency`, `tested_lag_window`, `observed_lead_periods`, `consistency_score`, `false_signal_note`, `action_rule` |
+| `references/wealth-engine/knowledge/revision-aware-capacity-checklist.md` | Prevents false confidence from headline credit growth by combining revision guardrails with capacity/throughput rails (`U21`-`U25`). | `question_id`, `window`, `credit_pulse_signal`, `series_version_note`, `capacity_signal`, `throughput_signal`, `regime_class`, `decision_use`, `caveat` |
 
 ## 🗂️ Project structure
 
