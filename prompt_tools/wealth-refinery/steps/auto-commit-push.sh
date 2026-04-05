@@ -52,12 +52,23 @@ Important:
 - Do not run extra refactors or content edits in this step.
 PROMPT
 
-cat "$prompt_file" | codex exec \
-  --model "$model" \
-  -c "reasoning_effort=\"$reasoning_effort\"" \
-  --dangerously-bypass-approvals-and-sandbox \
-  -C "$repo_path" \
-  --skip-git-repo-check \
-  -
+attempts=0
+while :; do
+  if cat "$prompt_file" | codex exec \
+    --model "$model" \
+    -c "reasoning_effort=\"$reasoning_effort\"" \
+    --dangerously-bypass-approvals-and-sandbox \
+    -C "$repo_path" \
+    --skip-git-repo-check \
+    -; then
+    break
+  fi
+  attempts=$((attempts + 1))
+  if [ "$attempts" -ge 3 ]; then
+    echo "Commit/push codex step failed after 3 attempts." >&2
+    exit 1
+  fi
+  sleep 5
+done
 
 echo "Commit/push step completed for: $commit_message"

@@ -216,18 +216,40 @@ PY
 run_codex_new_session_init() {
   local prompt_file="$1"
   local json_file="$2"
+  local attempts=0
   local cmd=(codex exec --json -m "$MODEL" -c "model_reasoning_effort=\"$REASONING\"" --dangerously-bypass-approvals-and-sandbox -C "$ROOT_DIR" --skip-git-repo-check)
   cmd+=(-)
-  "${cmd[@]}" < "$prompt_file" > "$json_file"
+  while :; do
+    if "${cmd[@]}" < "$prompt_file" > "$json_file"; then
+      return 0
+    fi
+    attempts=$((attempts + 1))
+    if [ "$attempts" -ge 3 ]; then
+      return 1
+    fi
+    log "Init command failed; retrying in 5 seconds (attempt $((attempts + 1))/3)"
+    sleep 5
+  done
 }
 
 run_codex_resume() {
   local sid="$1"
   local prompt_file="$2"
   local json_file="$3"
+  local attempts=0
   local cmd=(codex exec resume "$sid" --json -m "$MODEL" -c "model_reasoning_effort=\"$REASONING\"" --dangerously-bypass-approvals-and-sandbox --skip-git-repo-check)
   cmd+=(-)
-  "${cmd[@]}" < "$prompt_file" > "$json_file"
+  while :; do
+    if "${cmd[@]}" < "$prompt_file" > "$json_file"; then
+      return 0
+    fi
+    attempts=$((attempts + 1))
+    if [ "$attempts" -ge 3 ]; then
+      return 1
+    fi
+    log "Resume command failed; retrying in 5 seconds (attempt $((attempts + 1))/3)"
+    sleep 5
+  done
 }
 
 git_commit_push_if_needed() {
