@@ -62,6 +62,7 @@ Primary production domain (from `docs/CNAME`): `earn.lazying.art`.
 - Household stress dashboard plus credit-conditions transmission check guidance (standards, credit flow, debt burden, delinquency transitions, and resilience signals) synced into markdown and TeX guide surfaces.
 - Revision-aware credit-and-capacity check guidance (credit pulse, revision guardrails, real-capacity rails, and throughput rails) synced into markdown and TeX guide surfaces.
 - Liquidity-and-cycle clock guidance (H.4.1, H.8, NFCI, TIC, MTS, ECI, NBER) synced into markdown and TeX guide surfaces.
+- Entry-and-property-price pulse guidance (BFS, BDS, BIS RPP/CPP/GLI, LPC, STEO) synced into markdown and TeX guide surfaces.
 - A codex-driven wealth refinery loop with a question bank, methods playbook, side-product catalog, and source ledger.
 - PDF viewer routing via hash/query (`#high-growth`, `#financial-freedom`, `?file=financial-freedom-zh`, etc.).
 - GitHub Pages-compatible static distribution with no build step for the website shell.
@@ -123,6 +124,23 @@ Narrative rundowns for AI, biotech, semiconductors, clean energy, and cloud.
   - separate valuation tailwinds from broad ownership access,
   - force mixed-cadence signals into one explicit timing workflow before leverage decisions.
 
+## 🔁 Book sync highlights (cycle_008)
+
+- Added a new practical mechanism block in the main guide:
+  - `9.7 Entry-and-property-price pulse (monthly and quarterly)`.
+- Synced the same mechanism into TeX:
+  - `Entry-and-property-price pulse (monthly and quarterly)`.
+- Expanded official-source coverage in both book surfaces:
+  - U.S. Census `BFS` and `BDS` API rails,
+  - BIS `RPP`, `CPP`, and `GLI`,
+  - BLS `Productivity and Costs (LPC)`,
+  - EIA `Short-Term Energy Outlook (STEO)`,
+  - BEA `Open Data API`.
+- Practical purpose:
+  - separate entry momentum from entrant durability,
+  - separate valuation moves from broad participation gains,
+  - require liquidity and real-conversion context before leverage escalation.
+
 ## 🧪 Wealth refinery loop
 
 The repository now carries a durable research loop so book, PDF, README, and site copy can evolve with traceable methods.
@@ -133,7 +151,7 @@ The repository now carries a durable research loop so book, PDF, README, and sit
 | Source map | `references/wealth-engine/knowledge/resource-map.md` | Curated source families and selection logic |
 | Source ledger | `references/wealth-engine/knowledge/source-ledger.tsv` | Date-stamped source entries with notes |
 | Question bank | `references/wealth-engine/knowledge/question-bank.md` | Tiered research questions and distinctions |
-| Methods playbook | `references/wealth-engine/knowledge/methods.md` | Question -> evidence -> claim process, SQ-5 rubric, and execution methods (`QE-5`, `HS-8`, `LL-6`, `EV-7`, `DP-5`, `RC-6`, `CC-7`) |
+| Methods playbook | `references/wealth-engine/knowledge/methods.md` | Question -> evidence -> claim process, SQ-5 rubric, and execution methods (`QE-5`, `HS-8`, `LL-6`, `EV-7`, `DP-5`, `RC-6`, `CC-7`, `EP-6`) |
 | Daily prompts pack | `references/wealth-engine/knowledge/daily-prompts.md` | 14-day question-linked study prompts plus logging template |
 | Side-products catalog | `references/wealth-engine/knowledge/side-products.md` | Checklists, prompt packs, and planned study artifacts |
 | Round outputs | `references/wealth-engine/cycles/` | Per-round notes, findings, and summaries |
@@ -152,6 +170,7 @@ Current method signals (synced with the main book):
 - `DP-5` method for running short daily prompt sessions and logging source-backed decision notes.
 - `RC-6` method for revision-aware credit and capacity checks on cycle_006 questions (`U21`-`U25`).
 - `CC-7` method for mixed-cadence cycle-clock lead-lag testing on cycle_007 questions (`U26`, `U27`, `U29`).
+- `EP-6` method for entry-and-property-price pulse panel maintenance (entry, valuation, liquidity, and real-conversion rails).
 
 ### Next side-product builds (already scoped)
 
@@ -162,6 +181,7 @@ Current method signals (synced with the main book):
 | `references/wealth-engine/knowledge/signal-lead-lag-matrix.md` | Forces explicit timing tests for questions where ordering matters (`U7`, `U9`). | `question_id`, `target_outcome`, `candidate_signal`, `source`, `frequency`, `tested_lag_window`, `observed_lead_periods`, `consistency_score`, `false_signal_note`, `action_rule` |
 | `references/wealth-engine/knowledge/revision-aware-capacity-checklist.md` | Prevents false confidence from headline credit growth by combining revision guardrails with capacity/throughput rails (`U21`-`U25`). | `question_id`, `window`, `credit_pulse_signal`, `series_version_note`, `capacity_signal`, `throughput_signal`, `regime_class`, `decision_use`, `caveat` |
 | `references/wealth-engine/knowledge/cycle-clock-lead-lag-panel.md` | Aligns liquidity/conditions/flow signals into one testable timing panel for cycle_007 questions (`U26`, `U27`, `U29`). | `question_id`, `signal`, `source`, `release_cadence`, `lag_test_window`, `target_outcome`, `lead_result`, `false_signal_note`, `action_rule` |
+| `references/wealth-engine/knowledge/entry-and-property-price-pulse.md` | Keeps entry, durability, valuation, and liquidity signals separate before broad access claims (`U31`-`U35`). | `signal`, `source`, `frequency`, `last_release`, `next_release`, `question_id`, `decision_use` |
 
 ## 🗂️ Project structure
 
