@@ -237,3 +237,11 @@ Done when: at least 4 rows compare `series_version`, `threshold_estimate`, `wind
 
 28. Create `references/wealth-engine/knowledge/revision-aware-capacity-checklist.md` for `U21`-`U25`.
 Done when: at least 6 rows include `question_id`, `window`, `credit_pulse_signal`, `series_version_note`, `capacity_signal`, `throughput_signal`, `regime_class`, `decision_use`, and `caveat`.
+
+## Priority 1.8 - cycle_007 question-bank follow-up
+
+29. Draft cycle_007 briefs for `U26`-`U30` in `references/wealth-engine/knowledge/memos/`.
+Done when: each brief includes `hypothesis`, `falsifier`, `must_not_conflate`, `first_evidence_pull`, `timing_window`, and one concrete `decision_use` tied to H.4.1, H.8, NFCI, TIC, MTS, ECI, or SEC filing-data rails.
+
+30. Create `references/wealth-engine/knowledge/cycle-clock-lead-lag-panel.md` for `U26`, `U27`, and `U29`.
+Done when: at least 8 rows align `signal`, `release_cadence`, `lag_test_window`, `target_outcome`, `lead_result`, `false_signal_note`, and `action_rule` using NBER turning points as regime anchors.

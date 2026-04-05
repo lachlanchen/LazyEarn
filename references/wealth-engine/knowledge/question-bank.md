@@ -1,7 +1,7 @@
 # Question Bank
 
 Updated: 2026-04-05  
-Seed round: cycle_006 / round_02_question_bank
+Seed round: cycle_007 / round_02_question_bank
 
 ## Distinctions to protect
 
@@ -30,6 +30,11 @@ Seed round: cycle_006 / round_02_question_bank
 | Indicator revision vs macro regime shift | Method changes can look like turning points unless revisions are isolated first. |
 | Household credit stock vs credit quality | Balance growth can look healthy while borrower quality deteriorates under the surface. |
 | Financial-claim growth vs physical-throughput growth | Paper wealth can outpace real productive capacity and hide fragility buildup. |
+| Central-bank liquidity vs bank-created credit | Reserve expansion does not guarantee broad household credit transmission. |
+| Release cadence shift vs economic regime shift | Publication timing or methodology changes can be misread as real turning points. |
+| Fiscal-flow support vs private balance-sheet healing | Higher public outlays can coexist with fragile household leverage dynamics. |
+| Capital-flow tailwind vs ownership diffusion | Foreign inflows can raise valuations without broadening participation. |
+| Archival policy narrative vs real-time decision signal | Historical documents explain mechanism but do not replace timely risk indicators. |
 
 ## Tier 1 questions (highest priority)
 
@@ -117,6 +122,16 @@ Seed round: cycle_006 / round_02_question_bank
 | U24 | Does consumer-credit growth outpacing income and fixed-asset growth widen ownership inequality? | Debt-funded spending vs ownership-forming investment | Median ownership participation and median net worth rise alongside faster credit growth | Fed G.19, BEA Personal Income, BEA Fixed Assets, Fed DFA, Census wealth tables |
 | U25 | Which wealth method remains robust when financial claims grow faster than energy and real-capacity rails? | Nominal-return regime vs real-capacity regime | Candidate method fails to preserve real purchasing power or stress resilience in capacity-constrained periods | EIA MER, BEA Fixed Assets, BLS CPI, NBER JST, Fed DSR/FOR |
 
+## Unanswered priority questions (cycle_007 sharpen pass)
+
+| ID | Sharpened question | What must be distinguished | What would falsify the working hypothesis | First evidence pull |
+| --- | --- | --- | --- | --- |
+| U26 | Does Federal Reserve balance-sheet expansion lead commercial-bank balance-sheet expansion, and with what lag? | Central-bank liquidity provision vs private-bank credit transmission | H.4.1 expansions show no consistent lead relationship versus H.8 loan/asset expansion across multiple windows | Fed H.4.1, Fed H.8, Fed Z.1, Fed SLOOS |
+| U27 | Around U.S. cycle turning points, which signal leads first: tighter financial conditions, weaker capital inflows, or labor-cost pressure? | Financial-conditions shock vs external-financing shock vs wage-cost squeeze | No signal family shows stable lead behavior before NBER turning points in repeated episodes | NBER cycle dates, Chicago Fed NFCI, Treasury TIC, BLS ECI |
+| U28 | Do stronger cross-border capital inflows primarily raise incumbent asset valuations rather than broadening new-owner participation? | Valuation uplift vs participation broadening | Participation and first-time ownership measures rise proportionally with valuation gains during inflow upswings | Treasury TIC, Fed DFA, Census wealth tables, HMDA modified LAR |
+| U29 | Do higher monthly fiscal deficits in stress windows correspond to lower household stress, or to delayed stress realization? | Flow support vs durable household balance-sheet repair | Debt-service and delinquency metrics improve durably in the same or next two windows after deficit widening | Treasury MTS/FiscalData, Fed DSR/FOR, NY Fed Household Debt, Fed SHED |
+| U30 | Is a filing-quality ownership method (cash generation and balance-sheet discipline) more durable than macro-timing rules across cycles? | Process quality vs macro-call precision | Filing-quality screens fail to outperform survival-adjusted macro-timing rules across at least one full cycle regime set | SEC Financial Statement and Notes Data Sets, NBER cycle chronology, Fed H.8/H.4.1 regime context |
+
 ## Evidence gates for Tier 1 answers
 
 - `M1`: require at least one stock-flow consistent trace from system credit expansion to a household balance-sheet channel.
@@ -155,3 +170,11 @@ Seed round: cycle_006 / round_02_question_bank
 - `U23`: require entrant/risk-tier segmentation and at least one "still-rationed" check; aggregate growth alone is insufficient.
 - `U24`: require a three-way decomposition (credit growth, income growth, fixed-asset growth) before drawing inequality-channel claims.
 - `U25`: require real-return and survival checks under at least one capacity-constrained period; nominal returns alone cannot pass.
+
+## Evidence gates for cycle_007 unanswered set
+
+- `U26`: require explicit lead-lag testing between H.4.1 and H.8 components across at least three non-overlapping windows.
+- `U27`: require one aligned timing panel (NBER dates + NFCI + TIC + ECI) and at least one rejected lead candidate.
+- `U28`: require simultaneous valuation and participation cuts; reject claims based only on aggregate asset-price gains.
+- `U29`: require monthly-to-quarterly alignment and one delay-window test before inferring stress relief from deficits.
+- `U30`: require one survival metric (drawdown or insolvency proxy) and one compounding metric; return-only tests are insufficient.
