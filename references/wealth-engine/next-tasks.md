@@ -1,6 +1,6 @@
 # Next tasks
 
-Updated: 2026-04-05 (cycle_003 round_05 side_products)
+Updated: 2026-04-05 (cycle_003 round_06 readme_sync)
 
 Measured review anchors (from this round):
 - `references/wealth-engine/knowledge/` still misses 7 planned artifacts.
@@ -8,6 +8,7 @@ Measured review anchors (from this round):
 - `investment/wealth-from-first-principles.md` sections 3, 5, and 8 each currently have `0` URL citation lines.
 - Research/viewer localization drift remains high: `ja`, `ko`, `vi`, `ar`, `fr`, `es` are `24/24` English-equal keys; `zh-Hans` and `zh-Hant` are `20/24`.
 - No dedicated lead-lag matrix artifact exists yet for timing-sensitive questions (`U7`, `U9`).
+- README language messaging is ambiguous between runtime UI packs and translated README files.
 
 ## Priority 0 - Execute now (in order)
 
@@ -88,3 +89,6 @@ Done when: at least 5 warning lines linked to the new section/table blocks are r
 20. Create `references/wealth-engine/knowledge/signal-lead-lag-matrix.md` for cycle_003 timing questions.
 Coverage: `U7` and `U9` first, with at least three candidate signals each.
 Done when: each row includes `target_outcome`, `tested_lag_window`, `observed_lead_periods`, one rejected weak signal, and one accepted action rule.
+
+21. Clarify language coverage in `README.md` by separating runtime UI locales from translated README variants.
+Done when: badge text and adjacent copy state exact counts and scopes for both runtime (`docs/translations.json`) and document-level (`i18n/README.*.md`) language coverage.

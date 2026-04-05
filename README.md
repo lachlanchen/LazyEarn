@@ -54,7 +54,7 @@ Primary production domain (from `docs/CNAME`): `earn.lazying.art`.
 - Theme persistence key: `lazyearn_theme`.
 - Research showcase with direct PDF download, inline viewer routes, and Markdown source links.
 - A primary money-and-wealth field guide covering money creation, ownership, compounding, inequality, and practical wealth-building methods.
-- Household stress dashboard guidance (DSR/FOR, SCE, delinquency transitions, bill-stress signals, and real-income momentum) synced into markdown and TeX guide surfaces.
+- Household stress dashboard plus credit-conditions transmission check guidance (standards, credit flow, debt burden, delinquency transitions, and resilience signals) synced into markdown and TeX guide surfaces.
 - A codex-driven wealth refinery loop with a question bank, methods playbook, side-product catalog, and source ledger.
 - PDF viewer routing via hash/query (`#high-growth`, `#financial-freedom`, `?file=financial-freedom-zh`, etc.).
 - GitHub Pages-compatible static distribution with no build step for the website shell.
@@ -105,6 +105,7 @@ Current method signals (synced with the main book):
 - Household stress dashboard operating sequence for early warning and leverage/liquidity adjustment.
 - `QE-5` sprint method for falsifiable question-evidence gates.
 - `HS-8` method for building an action-oriented household stress watchlist.
+- `LL-6` method for testing lead-lag signal timing before making predictive stress claims.
 
 ### Next side-product builds (already scoped)
 
@@ -112,6 +113,7 @@ Current method signals (synced with the main book):
 | --- | --- | --- |
 | `references/wealth-engine/knowledge/question-evidence-gates.md` | Converts Tier 1 questions into pass/fail evidence gates before narrative claims. | `question_id`, `hypothesis`, `minimum_evidence`, `falsifier`, `must_not_conflate`, `status`, `decision_use`, `next_pull` |
 | `references/wealth-engine/knowledge/household-stress-watchlist.md` | Turns macro/credit stress signals into a repeatable monitoring routine. | `signal`, `source`, `series_or_table`, `frequency`, `lead_or_lag`, `risk_read` |
+| `references/wealth-engine/knowledge/signal-lead-lag-matrix.md` | Forces explicit timing tests for cycle_003 questions where ordering matters (`U7`, `U9`). | `question_id`, `target_outcome`, `candidate_signal`, `source`, `frequency`, `tested_lag_window`, `observed_lead_periods`, `consistency_score`, `false_signal_note`, `action_rule` |
 
 ## 🗂️ Project structure
 
