@@ -1,6 +1,6 @@
 # Next tasks
 
-Updated: 2026-04-05 (cycle_004 round_09 build_and_verify)
+Updated: 2026-04-05 (cycle_004 round_10 review_and_next_tasks)
 
 Measured review anchors (from this round):
 - `references/wealth-engine/knowledge/` currently misses 8 planned artifacts:
@@ -12,9 +12,10 @@ Measured review anchors (from this round):
   - `knowledge/signal-lead-lag-matrix.md`
   - `knowledge/distinction-cards.md`
   - `knowledge/daily-prompts.md`
-- Site consistency checker is still missing: `tools/validate-site-content.sh` or `tools/validate-site-content.js`.
+- Site consistency checker is still missing in `tools/` (existing `tools/lre/` has no validator script):
+  - expected: `tools/validate-site-content.sh` or `tools/validate-site-content.js`
 - Claim-level citation density in `investment/wealth-from-first-principles.md` remains weak in key sections:
-  - `section_3_url_lines = 6`
+  - `section_3_url_lines = 10`
   - `section_5_url_lines = 0`
   - `section_8_url_lines = 0`
 - Research/viewer localization drift (`research.*` + `viewer.backToResearch`, equal-to-English counts in 29-key scope):
@@ -26,11 +27,15 @@ Measured review anchors (from this round):
   - `ar = 24/29` (missing: `5`)
   - `fr = 24/29` (missing: `5`)
   - `es = 24/29` (missing: `5`)
-- Build warning baseline from cycle_004 round_04 (`wealth-from-first-principles`):
+- Build warning baseline from cycle_004 round_09 (`wealth-from-first-principles`):
   - `microtype warnings = 1`
   - `overfull_hbox = 1`
   - `underfull_hbox = 74`
   - `underfull_vbox = 2`
+- Source-ledger schema is still pre-migration:
+  - header is `date, category, title, url, note` (missing planned fields `source_type`, `update_cadence`, `last_verified_on`)
+- Research card action gap:
+  - `financial-freedom-zh` is cataloged in `docs/script.js` and README, but there is still no direct on-site CTA in `docs/index.html`.
 - Language-scope split is now documented in `README.md`: runtime UI locales in `docs/translations.json` are `9`, while translated README variants under `i18n/` are `10`.
 - Viewer alias table is now documented in `README.md` and should be kept in sync with `docs/script.js`.
 
@@ -68,6 +73,11 @@ Done when: README slug table remains exact-match with `pdfEntries` canonical slu
 
 8. Resolve viewer duplication policy between `docs/pdf-viewer.html` and `docs/research-viewer.html`.
 Done when: one canonical route model is documented in README and reflected in `docs/index.html` links and `docs/script.js` comments.
+
+## Priority 0A - Immediate sync fixes
+
+- `P0A-1` Add a direct Chinese-edition viewer CTA in `docs/index.html` for `financial-freedom-zh`.
+Done when: the Financial Freedom card actions include an on-site link to `pdf-viewer.html?file=financial-freedom-zh`, and route text/buttons remain aligned with `docs/script.js` canonical/alias mapping.
 
 ## Priority 1 - Evidence products and decision layer
 
@@ -120,6 +130,3 @@ Done when: at least 8 tracked series/tables spanning NMDB, HMDA modified LAR, NY
 
 22. Create `references/wealth-engine/knowledge/entry-vs-incumbent-access-tests.md` for `U11` and `U13`.
 Done when: it contains at least 6 test rows with `question_id`, `entrant_metric`, `incumbent_metric`, `data_source`, `timing_window`, `decision_threshold`, and one explicit falsifier per row.
-
-23. Add a direct Chinese-edition viewer CTA in `docs/index.html` for `financial-freedom-zh`.
-Done when: the Research card actions include an on-site link to `pdf-viewer.html?file=financial-freedom-zh`, and route text/buttons remain aligned with `docs/script.js` canonical/alias mapping.

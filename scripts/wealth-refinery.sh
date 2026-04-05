@@ -159,10 +159,33 @@ Core content goals:
 - Explain where money comes from.
 - Explain what wealth is.
 - Explain who can build wealth and why paths differ.
-- Expand into adjacent lenses when useful: business, commerce, finance, economics, mathematics, physics analogies, and philosophy.
+- Expand into adjacent lenses when useful: business, commercial systems, finance, economics, mathematics, the physics of the real world underlying production and constraint, and philosophy.
 - Curate courses, books, tutorials, datasets, and online repositories.
 - Keep searching for better sources and better questions.
 - Produce useful side products such as glossaries, question banks, methods, source ledgers, and next-task lists.
+
+Book ambition and style goals:
+- The main book must change visibly and usefully over time, not only in hidden metadata or minor wording.
+- Keep the book reasonable and proper: ambitious, information-dense, elegant, and disciplined, but not gaudy or gimmicky.
+- Prefer larger, visible improvements when touching the book:
+  - stronger cover page and chapter-open pages,
+  - more intentional section hierarchy,
+  - pull quotes and callout boxes where they sharpen understanding,
+  - diagrams and tables that explain mechanisms clearly,
+  - appendices, study paths, glossaries, and guided reading sequences,
+  - clearer cross-links between money, wealth, business, commercial systems, finance, economics, mathematics, real-world physical constraints, and philosophy.
+- When adding interdisciplinary material, focus on real explanatory value:
+  - use physics only where the physical structure of the world matters directly, such as energy, scarcity, throughput, infrastructure, thermodynamic limits, logistics, extraction, and production constraints;
+  - do not add shallow "physics analogies" for style alone.
+- Make each book-editing round more intriguing and useful:
+  - add concrete methods,
+  - sharpen distinctions,
+  - improve tables and diagrams,
+  - deepen appendices,
+  - and strengthen citations for high-impact claims.
+- The default preference should be to make at least one visibly meaningful book improvement in every cycle, not merely one invisible maintenance edit.
+- Compile the book aggressively whenever book-facing files change enough to justify it, rather than waiting only for a dedicated build round.
+- Preserve coherence: every new section must fit the book's central argument and not feel like a random encyclopedia dump.
 
 Operating rules:
 - Work only in this repository.
@@ -172,6 +195,7 @@ Operating rules:
 - Store intermediate knowledge in references/wealth-engine/.
 - Compile the TeX book with xelatex when appropriate and copy the PDF into docs/investment_pdfs/.
 - Do not run git commands inside codex exec turns. The driver script commits and pushes after each round.
+- When choosing between an invisible internal note and a strong reader-facing improvement, prefer the reader-facing improvement unless it would reduce accuracy or coherence.
 EOF
 fi
 
@@ -310,8 +334,9 @@ EOF
       cat <<EOF
 Round objective:
 - Improve the Markdown book at investment/wealth-from-first-principles.md.
-- Add or refine useful explanations, tables, methods, and curated resources.
-- Keep the book practical, source-aware, and readable.
+- Add or refine useful explanations, tables, methods, curated resources, appendices, and study paths.
+- Make at least one visible reader-facing improvement when reasonable: stronger section framing, a better table, a mechanism explanation, a callout, or a guided reading sequence.
+- Keep the book practical, source-aware, readable, and structurally intriguing without becoming gimmicky.
 - Write notes to:
   - $2/book-notes.md
 EOF
@@ -321,7 +346,9 @@ EOF
 Round objective:
 - Improve the TeX book at investment_pdfs/wealth-from-first-principles/wealth-from-first-principles.tex.
 - Keep it visually polished and structurally aligned with the Markdown book.
+- Prefer visible upgrades when justified: stronger cover/chapter-open pages, cleaner hierarchy, pull quotes, callout boxes, diagrams, tables, appendices, and study-path elements.
 - Improve typesetting, section flow, and source notes if helpful.
+- If the book changed materially, compile with xelatex in this round as well instead of waiting only for the build round.
 - Write notes to:
   - $2/typesetting-notes.md
 EOF
@@ -373,6 +400,7 @@ Round objective:
   - investment_pdfs/wealth-from-first-principles/wealth-from-first-principles.pdf
   - docs/investment_pdfs/wealth-from-first-principles/wealth-from-first-principles.pdf
 - Verify the main links and slugs still make sense.
+- Check that recent visible book improvements actually render well in the PDF, especially tables, callouts, chapter-open pages, appendices, and navigation cues.
 - Write notes to:
   - $2/build-notes.md
 EOF
@@ -416,6 +444,7 @@ Your job across future turns is to:
 - improve docs/index.html, docs/script.js, and docs/translations.json,
 - compile the PDF with xelatex when needed,
 - store useful intermediate knowledge under references/wealth-engine/,
+- favor visible, reader-facing book improvements when modifying the book,
 - and never run git commands because the driver script handles commit/push.
 
 Hard guardrails for all future turns:

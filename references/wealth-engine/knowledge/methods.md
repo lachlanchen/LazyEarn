@@ -62,6 +62,7 @@ Before inserting a new paragraph into the markdown or TeX book, check:
 3. Did we avoid mixing nominal and real outcomes without saying so?
 4. Did we avoid averaging away distributional differences?
 5. Does the paragraph end with a practical implication?
+6. Does the surrounding section become more useful to the reader in a visible way, not only in hidden maintenance?
 
 ## 5) Weekly refinery cadence (lightweight)
 
@@ -154,3 +155,33 @@ Minimum schema for `entry-vs-incumbent-access-tests.md`:
 ```text
 question_id | entrant_metric | incumbent_metric | data_source | timing_window | decision_threshold | falsifier | confidence | decision_use
 ```
+
+## 10) BU-8 method (book upgrade protocol)
+
+Use this method whenever a round touches `investment/wealth-from-first-principles.md` or `investment_pdfs/wealth-from-first-principles/wealth-from-first-principles.tex`.
+
+The goal is not decorative churn. The goal is one reader-visible upgrade that improves understanding, navigation, or decision quality.
+
+| Step | Action | Output |
+| --- | --- | --- |
+| 1 | Pick one book spine target: `cover`, `chapter opener`, `mechanism explanation`, `table`, `diagram`, `callout`, `appendix`, or `study path`. | explicit visible target |
+| 2 | Define the question the upgrade must answer for the reader. | reader-facing purpose |
+| 3 | Tie the upgrade to at least one distinction and one source family before writing. | coherence + evidence anchor |
+| 4 | If using physics, use it only where the physical world directly constrains money or wealth: energy, material throughput, logistics, extraction, infrastructure, time, storage, or thermodynamic limits. | real-world constraint framing |
+| 5 | Add one concrete artifact, not just prose polish: a table, a mechanism diagram, a pull quote, a callout box, a chapter-opening frame, or an appendix block. | visible structural improvement |
+| 6 | Check that the new artifact sharpens the book's central argument rather than turning it into a loose encyclopedia. | fit-to-thesis check |
+| 7 | If the markdown or TeX book changed materially, compile with XeLaTeX and sync both PDF copies in the same round when safe to do so. | updated build artifacts |
+| 8 | Record what improved, what still looks weak, and what should be the next visible upgrade. | actionable round notes |
+
+Preferred visible upgrades, in descending order:
+
+1. Stronger chapter-open pages that state the chapter question, why it matters, and the decision lens.
+2. Mechanism diagrams or compact tables that clarify how money, ownership, leverage, production, and constraint interact.
+3. Pull quotes and callout boxes for sharp distinctions, warnings, or decision rules.
+4. Appendices, glossaries, and guided study paths that help the reader keep going after the main narrative.
+5. Cover-page and front-matter improvements that make the work feel serious, elegant, and memorable.
+
+Default rule:
+
+- In any cycle that touches the book, aim for at least one visibly meaningful improvement to the reading experience.
+- If forced to choose between a hidden maintenance edit and a clear reader-facing improvement, prefer the reader-facing improvement unless accuracy would suffer.
