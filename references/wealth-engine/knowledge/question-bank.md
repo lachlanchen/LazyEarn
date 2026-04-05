@@ -1,7 +1,7 @@
 # Question Bank
 
-Updated: 2026-04-05  
-Seed round: cycle_012 / round_02_question_bank
+Updated: 2026-04-06  
+Seed round: cycle_014 / round_02_question_bank
 
 ## Distinctions to protect
 
@@ -311,3 +311,23 @@ Seed round: cycle_012 / round_02_question_bank
 - `U61`: require both concentration and participation metrics before concluding distribution improvement; valuation-only shifts are insufficient.
 - `U62`: require one reversible-volatility indicator and one irreversible-control signal before assigning fragility class.
 - `U63`: require one explicit historical mechanism (for example oil shock, inflation regime, or crisis redesign) as a comparator in at least one modern cycle.
+
+## Unanswered priority questions (cycle_014 sharpen pass)
+
+| ID | Sharpened question | What must be distinguished | What would falsify the working hypothesis | First evidence pull |
+| --- | --- | --- | --- |
+| U64 | When official liquidity/credit aggregates rise, does channel flow favor asset markets, mortgage credit, or wage-and-enterprise credit first for households and small firms? | Aggregate liquidity creation vs household/small-firm channel allocation | No consistent lead appears across channels in a two-release window after aggregate expansion |
+| U65 | Do IMF and IMF-supported fiscal-macro signals (WEO, IMF Fiscal Monitor, Article IV style surveillance) imply durable ownership access or mainly short-horizon valuation support? | Durable ownership-entry vs valuation-driven wealth gains | Ownership participation and first-time entry do not diverge from valuation-only gains once burden and delay are controlled |
+| U66 | How much of wealth concentration in the post-2010 era comes from incumbency-preserving channels versus fresh ownership entry after major credit and FDI waves? | Entrant access vs incumbent compounding | Entrant survival/ownership-participation metrics do not worsen relative to incumbent concentration during high-flow investment windows |
+| U67 | In stress episodes, which risk is most irreversible first: debt-servicing strain, productive-capacity displacement, or legal-access architecture lock-in? | Reversible nominal stress vs irreversible wealth-loss channels | Reversal of one stress episode restores all three channels without lagged debt/entry/access damage |
+| U68 | Do policy and institutional reforms (for example Dodd-Frank architecture, ECB stability messaging, BIS governance updates) improve borrower access and distribution, or only bank-system stability optics? | Stability optics vs access outcomes | Bank-level stability indicators improve while borrower access, approval, and participation remain flat for two cycles |
+| U69 | Under real-energy/transit constraints, do productive-leverage methods outperform debt-led methods over a 6-12 month horizon in actual wealth progression and option-value retention? | Real-capacity-led growth vs debt-led headline growth | Debt-led methods deliver equal or better real cash-flow growth and lower forced-entry/foreclosure losses in constrained periods |
+
+## Evidence gates for cycle_014 unanswered set
+
+- `U64`: require one system-liquidity source and one borrower/firmship channel source, mapped with explicit 1-2 release lag windows.
+- `U65`: require decomposition into valuation and participation outcomes before attributing IMF-style macro messaging to distribution improvements.
+- `U66`: require one entrant-only channel and one incumbent retention metric before claiming concentration change.
+- `U67`: require one reversible and one irreversible metric before classifying regime risk.
+- `U68`: require both system stability and access-quality outcomes before claiming reform-level success.
+- `U69`: require one physical-capacity indicator and one leverage/burden indicator before promoting a productive-leverage claim.

@@ -11,6 +11,15 @@ Updated: 2026-04-06 (cycle_014 round_01_resource_scan)
 2. Seed `knowledge/core-series-watchlist.md` with these cycle_014 sources and their update cadence so section 6/9 factual claims can cite a current revision calendar.
 3. Before next markdown pass, add one physical-constraint mechanism note tied to the UNCTAD WESP and IMF WEO entries that links production constraints to credit-access and wealth concentration outcomes.
 
+## Cycle 014 question-bank follow-up (round_02_question_bank)
+
+1. Resolve the cycle_014 question set (`U64`-`U69`) in `knowledge/question-bank.md` with at least one evidence pull per question from:
+   - IMF WEO/Article IV rail,
+   - UNCTAD WESP / Global Investment Trends,
+   - ECB/BIS/Fed institution-architecture and stress materials.
+2. Add at least two `evidence_pull`-quality rounds for `U67` and `U69` that explicitly test reversibility versus irreversibility.
+3. Before the next book markdown pass, map one question from each of `U64`, `U66`, and `U69` to specific section placements in chapter 3 or chapter 9.
+
 ## Cycle 013 review and next-round priorities (round_10_review_and_next_tasks)
 
 1. Create `references/wealth-engine/knowledge/citation-map.tsv`, `references/wealth-engine/knowledge/question-evidence-gates.md`, and `references/wealth-engine/knowledge/study-paths.md` to close the remaining infrastructure gap before the next writing pass.
