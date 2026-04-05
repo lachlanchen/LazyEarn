@@ -1,6 +1,24 @@
 # Next tasks
 
-Updated: 2026-04-05 (cycle_012 round_06 readme_sync)
+Updated: 2026-04-05 (cycle_012 round_10 review_and_next_tasks)
+
+## Cycle 012 review and execution priorities (round_10)
+
+1. Close highest-value infrastructure gaps blocking long-cycle follow-through:
+   - create `references/wealth-engine/knowledge/debt-throughput-decision-map.md` (U53-U58),
+   - create `references/wealth-engine/knowledge/core-series-watchlist.md`,
+   - create `references/wealth-engine/knowledge/citation-map.tsv`,
+   - and migrate `references/wealth-engine/knowledge/source-ledger.tsv` to include `source_type`, `update_cadence`, `last_verified_on`.
+2. Raise section-level evidence density in markdown where still weak:
+   - section 3 target `>=9` URL-bearing lines,
+   - section 5 target `>=9` URL-bearing lines,
+   - section 8 target `>=9` URL-bearing lines.
+3. Add at least one physics-anchored execution paragraph to one weak section this cycle (prefer section 8), with one dated historical mechanism and one practical implication.
+4. Finalize `tools/validate-site-content.js` (or `.sh`) and require it in build/review rounds for:
+   - slug/alias parity,
+   - asset-path and PDF-mirror checks,
+   - and section-marker checks in both wealth PDFs.
+5. Reduce non-English drift for `research.point8` and keep `research.point7`/`point8` copy quality above raw English fallback in all locales where still untranslated.
 
 ## Cycle 012 immediate follow-up
 
