@@ -7,8 +7,8 @@ Seed a high-quality, source-sensitive resource base for money, wealth, investing
 
 ## What was added this round
 - Added a structured starter map in `knowledge/resource-map.md`.
-- Added 24 vetted entries to `knowledge/source-ledger.tsv`.
-- Focused on official or primary institutions first (Fed, BIS, IMF, World Bank, OECD, SEC, CFPB, FDIC, BLS, IRS, Bank of England), then one high-value long-run research dataset (NBER JST macrohistory).
+- Expanded the source ledger to 33 vetted entries via a second refresh pass.
+- Focused on official or primary institutions first (Fed, NY Fed, BIS, IMF, World Bank, OECD, ECB, Census, SEC, CFPB, FDIC, BLS, IRS, FHFA, Bank of England), then one high-value long-run research dataset (NBER JST macrohistory).
 
 ## Highest-value fresh signals captured
 - Federal Reserve Z.1 release PDF dated March 19, 2026 (Q4 2025 data).
@@ -17,10 +17,13 @@ Seed a high-quality, source-sensitive resource base for money, wealth, investing
 - Global Findex portal listing 2024 indicators alongside prior waves.
 - CFPB Consumer Credit Card Market Report 2025 published December 30, 2025.
 - WIID page identifying version 29 April 2025.
+- IMF Global Debt Database page confirms 190-country public/private debt panel back to 1950 plus API/download links.
+- NY Fed household credit report file for 2025Q4 adds loan-type, delinquency transition, and state/age breakdowns.
+- U.S. Census `Wealth of Households: 2023` brief confirms SIPP-based wealth composition with 2024 SIPP public-use data.
 
 ## Why this set is useful
 - It covers both system-level money creation and household-level outcomes.
-- It links measurement layers: macro aggregates, distributional statistics, micro household surveys, investor filings, and financial capability data.
+- It links measurement layers: macro aggregates, debt panels, distributional statistics, micro household surveys, investor filings, and financial capability data.
 - It includes long-run comparators so current claims can be stress-tested against history.
 
 ## Gaps to handle next

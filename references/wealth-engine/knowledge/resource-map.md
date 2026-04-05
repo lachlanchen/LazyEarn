@@ -33,6 +33,12 @@ Round seed: cycle_001 / round_01_resource_scan
 - IMF World Economic Outlook dataset  
   https://data.imf.org/Datasets/WEO  
   Why keep: comparable global macro series and downloadable vintage documentation.
+- IMF Global Debt Database (GDD)  
+  https://data.imf.org/en/datasets/IMF.FAD%3AGDD  
+  Why keep: global private and public nonfinancial debt panel (190 economies, back to 1950) with API/download links.
+- U.S. BEA Personal Income and Outlays  
+  https://www.bea.gov/data/income-saving/personal-income  
+  Why keep: monthly U.S. income, disposable income, consumption, and saving releases (current release metadata shown as Mar 13, 2026).
 
 ## Wealth, inequality, and inclusion
 - World Inequality Database (WID.world)  
@@ -56,6 +62,15 @@ Round seed: cycle_001 / round_01_resource_scan
 - World Bank International Debt Statistics (IDS)  
   https://www.worldbank.org/en/programs/debt-statistics/ids  
   Why keep: sovereign external debt tables for LMICs and archive continuity back to 1985.
+- ECB Household Finance and Consumption Survey (HFCS)  
+  https://www.ecb.europa.eu/stats/ecb_surveys/hfcs/html/index.en.html  
+  Why keep: harmonized euro-area household wealth/debt survey with anonymized microdata access and wave-level methods.
+- U.S. Census Wealth and Asset Ownership Data Tables  
+  https://www.census.gov/topics/income-poverty/wealth/data/tables.html  
+  Why keep: SIPP-based household wealth and debt tables including 2023 detailed and state-level tables (published July 2025).
+- U.S. Census Wealth of Households: 2023 (P70BR-211)  
+  https://www2.census.gov/library/publications/2025/demo/p70br-211.pdf  
+  Why keep: concise national wealth composition brief sourced from 2024 SIPP public-use data.
 
 ## Investing and household finance practice
 - SEC Search Filings (EDGAR)  
@@ -82,6 +97,20 @@ Round seed: cycle_001 / round_01_resource_scan
 - IRS SOI Tax Stats Data Book  
   https://www.irs.gov/statistics/soi-tax-stats-irs-data-book  
   Why keep: annual U.S. tax-administration aggregates useful for fiscal and distribution context.
+- Federal Reserve Enhanced Financial Accounts (EFA)  
+  https://www.federalreserve.gov/releases/efa/enhanced-financial-accounts.htm  
+  Why keep: richer detail layer on top of Financial Accounts; includes distributional and geographic household detail with update stamps.
+- New York Fed Household Debt and Credit Report (CMD / CCP)  
+  https://www.newyorkfed.org/medialibrary/interactives/householdcredit/data/pdf/HHDC_2025Q4  
+  Why keep: quarterly U.S. consumer credit panel with delinquency transitions, debt composition, and state/age cuts.
+- FHFA House Price Index datasets  
+  https://www.fhfa.gov/house-price-index  
+  Why keep: long-run U.S. house price indices with monthly/quarterly/annual downloadable datasets.
+
+## Data access and reproducibility layer
+- St. Louis Fed FRED API documentation  
+  https://fred.stlouisfed.org/docs/api/fred/fred/  
+  Why keep: stable machine-readable access layer for macro and market series with release/series endpoints.
 
 ## Financial history and long-run comparators
 - NBER Jordà-Schularick-Taylor Macrohistory Database  

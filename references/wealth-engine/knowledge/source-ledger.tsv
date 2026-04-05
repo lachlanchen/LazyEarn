@@ -23,3 +23,12 @@ date	category	title	url	note
 2026-04-05	inflation	BLS Consumer Price Index home	https://www.bls.gov/cpi/home.htm	Official CPI release calendar, latest release PDFs, and archive access.
 2026-04-05	household_spending	BLS Consumer Expenditure Surveys home	https://www.bls.gov/cex/	Official household spending tables and microdata resources.
 2026-04-05	tax_data	IRS SOI Tax Stats Data Book	https://www.irs.gov/statistics/soi-tax-stats-irs-data-book	FY 2024 administrative and tax collection aggregates for U.S. context.
+2026-04-05	macro_debt	IMF Global Debt Database (GDD)	https://data.imf.org/en/datasets/IMF.FAD%3AGDD	Global public/private nonfinancial debt panel for 190 economies since 1950 with API/download links.
+2026-04-05	household_income	U.S. BEA Personal Income	https://www.bea.gov/data/income-saving/personal-income	Monthly income, disposable income, consumption, and saving release hub (Mar 13 2026 release shown).
+2026-04-05	wealth_distribution	ECB Household Finance and Consumption Survey (HFCS)	https://www.ecb.europa.eu/stats/ecb_surveys/hfcs/html/index.en.html	Harmonized euro-area household wealth/debt survey with methods and microdata access workflow.
+2026-04-05	wealth_distribution	U.S. Census Wealth and Asset Ownership Data Tables	https://www.census.gov/topics/income-poverty/wealth/data/tables.html	SIPP-based wealth/debt tables including detailed and state-level releases for 2023.
+2026-04-05	wealth_distribution	U.S. Census Wealth of Households: 2023 (P70BR-211)	https://www2.census.gov/library/publications/2025/demo/p70br-211.pdf	Short-form wealth composition brief using 2024 SIPP public-use data.
+2026-04-05	household_credit	Federal Reserve Enhanced Financial Accounts (EFA)	https://www.federalreserve.gov/releases/efa/enhanced-financial-accounts.htm	Expanded Financial Accounts layer with geographic and distributional household detail.
+2026-04-05	household_credit	New York Fed Household Debt and Credit Report (2025Q4)	https://www.newyorkfed.org/medialibrary/interactives/householdcredit/data/pdf/HHDC_2025Q4	Quarterly credit-panel report with delinquency transitions, loan-type balances, and state/age cuts.
+2026-04-05	housing_wealth	FHFA House Price Index datasets	https://www.fhfa.gov/house-price-index	Long-run U.S. house price index system with downloadable monthly, quarterly, and annual files.
+2026-04-05	data_access	St. Louis Fed FRED API documentation	https://fred.stlouisfed.org/docs/api/fred/fred/	Machine-readable release and series access for reproducible data pulls and vintage-aware tracking.
