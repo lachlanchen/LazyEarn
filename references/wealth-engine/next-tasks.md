@@ -1,6 +1,6 @@
 # Next tasks
 
-Updated: 2026-04-05 (cycle_010 round_02 question_bank)
+Updated: 2026-04-05 (cycle_010 round_03 book_markdown)
 
 Measured review anchors (from this round):
 - `references/wealth-engine/knowledge/` currently misses 8 planned artifacts:
@@ -37,6 +37,9 @@ Measured review anchors (from this round):
 - Question-bank scope now includes cycle_010 unanswered set `U41`-`U45`:
   - new focus rails: Fed Charge-Off/Delinquency release, Fed G.17, IMF FSIC, IRS SOI individual PUF, and release-cadence metadata from Fed/OECD API guidance.
   - next bottleneck: no cadence-aware stress-classification panel yet combines bank credit quality, household access, production capacity, and cross-country fragility checks.
+- Markdown book now includes section `9.9 Cadence-aware stress classification panel`:
+  - section `9.9` operationalizes cycle_010 distinctions (`U41`-`U45`) inside the main field guide and extends `11.5`/`12` with the same source rails.
+  - next bottleneck: section `9.9` is not yet mirrored into `wealth-from-first-principles.tex` or enforced in build-time marker checks.
 - Side-product method coverage now includes `CAB-9` in `knowledge/methods.md` and a dedicated bridge brief in `knowledge/side-products.md`.
   - next bottleneck: the executable artifact `knowledge/credit-access-and-burden-bridge.md` still needs first-pass rows.
 - Markdown/TeX sync for section `9.8 Credit-access and burden bridge` is now complete:
@@ -90,6 +93,9 @@ Done when: header and rows are migrated cleanly with TSV validity preserved.
 
 8. Draft first-pass cycle_010 evidence memos for `U41`-`U45`.
 Done when: each memo includes `hypothesis`, `falsifier`, `must_not_conflate`, `first_evidence_pull`, and one `decision_use` line using at least one cycle_010 resource rail.
+
+9. Mirror markdown section `9.9` into `investment_pdfs/wealth-from-first-principles/wealth-from-first-principles.tex` and include it in artifact verification.
+Done when: TeX contains section `9.9` with equivalent panel logic and source rails (Fed release calendar, Charge-Off/Delinquency, G.17, IMF FSIC, IRS SOI PUF, OECD API guidance), both PDF targets include the section heading, and build notes record this check.
 
 ## Cycle 009 review queue (highest value, concrete)
 

@@ -592,6 +592,33 @@ Sequence rule:
 
 If access worsens and burden heterogeneity rises at the same time, prioritize liquidity and staged ownership over leverage acceleration.
 
+### 9.9 Cadence-aware stress classification panel (monthly and quarterly)
+
+A common analytical error is mixing fast and slow releases as if they were simultaneous observations.
+This panel forces an "as-known-on-date" read before classifying the regime.
+
+| Panel block | What to monitor | Primary source | Classification use |
+| --- | --- | --- | --- |
+| **Cadence integrity rail** | release date, revision date, and data-availability lag by series | Fed Statistical Release Calendar + Fed DDP announcements + OECD API guidance (`https://www.federalreserve.gov/data/releaseschedule.htm`, `https://www.federalreserve.gov/feeds/DataDownload.html`, `https://www.oecd.org/en/data/insights/data-explainers/2024/09/api.html`) | prevents false regime labels caused by stale or misaligned inputs |
+| **Bank asset-quality pulse** | charge-off and delinquency drift by major loan segment | Fed Charge-Off and Delinquency release (`https://www.federalreserve.gov/releases/chargeoff/`) | flags whether credit quality deterioration is emerging before household stress is fully visible |
+| **Borrower-access pulse** | credit application intent and approval friction | NY Fed SCE Credit Access + Fed SLOOS (`https://www.newyorkfed.org/microeconomics/sce/credit-access`, `https://www.federalreserve.gov/data/sloos.htm`) | separates demand retreat from lender-side tightening |
+| **Production-capacity pulse** | industrial production and capacity-utilization trend versus credit expansion | Fed G.17 + Fed H.8/H.6 (`https://www.federalreserve.gov/releases/g17/`, `https://www.federalreserve.gov/releases/h8/`, `https://www.federalreserve.gov/releases/h6/current/default.htm`) | detects valuation-heavy expansions with weak real-capacity support |
+| **Cross-country fragility pulse** | banking-system soundness and household leverage stress comparators | IMF FSIC + BIS DSR (`https://data.imf.org/Datasets/FSIC`, `https://data.bis.org/topics/DSR`) | tests whether local stress signals are idiosyncratic or part of a broader fragility regime |
+| **Distribution concentration pulse** | tax-record concentration shift versus wealth/participation movement | IRS SOI individual PUF + Fed DFA + SCF (`https://www.irs.gov/statistics/soi-tax-stats-individual-public-use-microdata-files`, `https://www.federalreserve.gov/releases/dfa/`, `https://www.federalreserve.gov/econres/scfindex.htm`) | detects concentration-heavy gains that do not translate into broad ownership progress |
+
+Classification sequence:
+
+1. Build the panel in "as-known-on-date" form; do not backfill late releases into earlier decision windows.
+2. Mark each signal as `fresh` or `stale` based on its official release cadence and observed lag.
+3. Assign regime tags:
+   - `access-fragile`: asset-quality deterioration with weakening access signals before broad burden deterioration.
+   - `capacity-fragile`: capacity utilization weakens while credit aggregates still expand.
+   - `distribution-fragile`: concentration rises while participation proxies remain flat or deteriorate.
+   - `broad fragility`: two or more fragility tags active with cross-country fragility confirmation.
+4. Only scale leverage or concentrated ownership when fragility tags are stable-to-improving for at least two consecutive observation windows.
+
+If cadence integrity is unclear (missing release, major revision, or broken comparability), freeze threshold updates and keep policy in defensive mode.
+
 ## 10. A 90-day plan
 
 ### Days 1-30: map reality
@@ -679,7 +706,10 @@ This is a curated starter map, not an exhaustive library.
 | **Federal Reserve DSR/FOR** | household debt-service and fixed-obligation burden | quarterly U.S. household burden release |
 | **Federal Reserve G.19** | consumer-credit stock and revolving/nonrevolving composition | monthly U.S. consumer-credit release |
 | **Federal Reserve H.4.1 + H.8** | central-bank liquidity pulse versus commercial-bank transmission pulse | weekly U.S. balance-sheet releases |
+| **Federal Reserve Statistical Release Calendar** | release timing and cadence metadata for mixed-frequency panel construction | official Board release schedule with dated update notices |
 | **Federal Reserve DDP + announcements feed** | release/revision-aware monitoring before updating lead-lag thresholds | Board statistical download rail plus dated release and revision notes |
+| **Federal Reserve Charge-Off and Delinquency Rates** | bank asset-quality deterioration and delinquency drift by loan segment | quarterly U.S. commercial-bank credit-quality release |
+| **Federal Reserve G.17 (Industrial Production and Capacity Utilization)** | production-capacity regime checks against credit expansion | monthly U.S. industrial production and utilization release |
 | **Federal Reserve Financial Accounts Guide (FOF)** | table and instrument mapping for flow-of-funds interpretation | interactive documentation layer for Z.1 structure |
 | **Fed FEDS note on G.19 revisions** | method and source-change context for credit-union estimate comparability | revision documentation and statistical note |
 | **New York Fed Household Debt and Credit** | delinquency transitions and debt composition by household slices | quarterly U.S. credit panel |
@@ -705,10 +735,13 @@ This is a curated starter map, not an exhaustive library.
 | **U.S. Census SIPP datasets** | panel-level household data for leverage and ownership distribution work | historical and current panel/wave dataset rails |
 | **U.S. Census CPS income/inequality tables** | household, family, and person income distribution baselines | annual CPS ASEC update cycle |
 | **IRS SOI Publication 1304** | AGI and tax-share distribution cross-check from filed returns | annual individual return statistics report |
+| **IRS SOI Individual Public-Use Microdata Files** | tax-record concentration and distribution-timing analysis | annual IRS microdata release rail |
 | **WID + WIID + OECD IDD/WDD** | cross-country inequality and distribution comparisons | global inequality and OECD harmonized datasets |
 | **OECD Household debt indicator** | harmonized household debt-to-disposable-income comparator | international leverage regime cross-check |
+| **OECD Data Explorer API guidance** | reproducible mixed-frequency OECD pulls and cadence-aware query design | API method reference for SDMX endpoint usage |
 | **World Bank CWON + PIP + Findex + IDS** | comprehensive wealth, poverty, inclusion, and debt context | global development and debt datasets |
 | **IMF WEO + GDD + BIS data portal + ECB CES** | macro regime, debt cycle, and expectations-sensitive cross-country benchmarks | global macro-financial and expectations references |
+| **IMF Financial Soundness Indicators (FSIC)** | cross-country banking-system fragility and macroprudential comparators | country-level financial soundness indicators with metadata access |
 | **Chicago Fed NFCI + Treasury TIC + Treasury MTS** | cycle-clock cross-check for financial conditions, external flows, and fiscal-flow cushioning | weekly/monthly cycle-timing rails |
 | **NBER cycle chronology** | ex-post recession/expansion dating for regime calibration | long-run U.S. turning-point chronology |
 | **SEC Financial Statement and Notes Data Sets** | reproducible statement-level factor extraction for ownership-quality screens | quarterly filing-derived dataset releases |
@@ -719,7 +752,8 @@ This is a curated starter map, not an exhaustive library.
 
 Primary web references used for this guide were checked on **2026-04-05** and include:
 
-- Federal Reserve releases: H.6, Z.1, DFA, EFA, SCF, DSR/FOR, and G.19
+- Federal Reserve releases: H.6, Z.1, DFA, EFA, SCF, DSR/FOR, G.19, G.17, and Charge-Off/Delinquency
+- Federal Reserve Statistical Release Calendar
 - Federal Reserve Data Download Program (DDP) home and DDP announcements feed
 - Federal Reserve Financial Accounts Guide (FOF)
 - Federal Reserve FEDS note on G.19 credit-union estimate revisions
@@ -737,16 +771,16 @@ Primary web references used for this guide were checked on **2026-04-05** and in
 - U.S. Census: SIPP datasets page (panel and wave files)
 - U.S. Census: Business Formation Statistics (BFS) and Business Dynamics Statistics (BDS) API
 - U.S. FHFA: House Price Index datasets
-- IRS SOI Publication 1304 and IRS Data Book
+- IRS SOI Publication 1304, IRS Data Book, and IRS SOI Individual Public-Use Microdata Files
 - Bank of England, "Money creation in the modern economy"
-- IMF: WEO and Global Debt Database
+- IMF: WEO, Global Debt Database, and Financial Soundness Indicators (FSIC)
 - BIS Data Portal and Debt Service Ratios (DSR)
 - BIS Residential Property Prices (RPP), Commercial Property Prices (CPP), and Global Liquidity Indicators (GLI)
 - U.S. BEA Open Data API hub
 - ECB Consumer Expectations Survey (CES) and Bank Lending Survey (BLS)
 - World Bank: The Changing Wealth of Nations 2024, Global Findex, PIP, IDS
 - WID.world, WIID, and OECD IDD/WDD
-- OECD Household debt indicator
+- OECD Household debt indicator and OECD Data Explorer API explainer
 - CFPB: Consumer Credit Trends, Making Ends Meet survey data, and "Your Money, Your Goals"
 - SEC: EDGAR API documentation and Financial Statement and Notes Data Sets
 - Federal Reserve H.4.1 and H.8 release pages
