@@ -301,7 +301,7 @@ Known slugs from site behavior:
 
 | Canonical slug | Accepted aliases |
 | --- | --- |
-| `wealth-from-first-principles` | `wealth`, `wealth-guide`, `wealth_from_first_principles` |
+| `wealth-from-first-principles` | `wealth`, `wealth-guide`, `wealth_from_first_principles`, `wealth-field-guide` |
 | `high-growth` | `high-growth-stocks`, `high_growth_stocks` |
 | `financial-freedom` | `financial_freedom` |
 | `financial-freedom-zh` | `financial_freedom_zh`, `financial-freedom-zh-cn` |

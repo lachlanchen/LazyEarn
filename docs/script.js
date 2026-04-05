@@ -107,7 +107,7 @@ const fallbackStrings = {
   "research.stat3": `synced surfaces`,
   "research.asset1Title": `Wealth from first principles`,
   "research.asset1Desc": `A practical field guide to money and wealth with distinction checklists, evidence ladders, stress dashboards, credit channel maps, ownership-entry execution loops, entry-and-property-price pulse checks, and source-linked methods you can apply immediately.`,
-  "research.asset1Route": `Viewer slug: <code>wealth-from-first-principles</code> (aliases: <code>wealth</code>, <code>wealth-guide</code>, <code>wealth_from_first_principles</code>).`,
+  "research.asset1Route": `Viewer slug: <code>wealth-from-first-principles</code> (aliases: <code>wealth</code>, <code>wealth-guide</code>, <code>wealth_from_first_principles</code>, <code>wealth-field-guide</code>).`,
   "research.asset2Title": `Financial freedom playbook`,
   "research.asset2Desc": `Timeless principles blended with modern automation ideas—capital allocation tables, quarterly rituals, and name ideas for future Lazy Money drops.`,
   "research.asset2Route": `Viewer slug: <code>financial-freedom</code> (alias: <code>financial_freedom</code>).`,
@@ -125,6 +125,8 @@ const syncedEnglishResearchStrings = {
     "Cycle 007-008 sync: liquidity-and-cycle clock checks (H.4.1/H.8/NFCI/TIC/MTS/ECI/NBER), plus entry-and-property-price pulse checks (BFS/BDS/RPP/CPP/GLI/LPC/STEO) and EP-6 panel wiring.",
   "research.asset1Desc":
     "A practical field guide to money and wealth with distinction checklists, evidence ladders, stress dashboards, credit channel maps, ownership-entry execution loops, entry-and-property-price pulse checks, and source-linked methods you can apply immediately.",
+  "research.asset1Route":
+    "Viewer slug: <code>wealth-from-first-principles</code> (aliases: <code>wealth</code>, <code>wealth-guide</code>, <code>wealth_from_first_principles</code>, <code>wealth-field-guide</code>).",
 };
 
 const fallbackIdeas = {
@@ -164,7 +166,7 @@ const THEME_KEY = "lazyearn_theme";
 
 const pdfEntries = {
   "wealth-from-first-principles": {
-    aliases: ["wealth", "wealth-guide", "wealth_from_first_principles"],
+    aliases: ["wealth", "wealth-guide", "wealth_from_first_principles", "wealth-field-guide"],
     titleKey: "research.asset1Title",
     descriptionKey: "research.asset1Desc",
     title: "Wealth from first principles",
