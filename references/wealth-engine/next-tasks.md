@@ -1,6 +1,6 @@
 # Next tasks
 
-Updated: 2026-04-05 (cycle_005 round_01 resource_scan)
+Updated: 2026-04-05 (cycle_005 round_02 question_bank)
 
 Measured review anchors (from this round):
 - `references/wealth-engine/knowledge/` currently misses 8 planned artifacts:
@@ -149,3 +149,6 @@ Done when: at least 8 tracked series/tables spanning NMDB, HMDA modified LAR, NY
 
 22. Create `references/wealth-engine/knowledge/entry-vs-incumbent-access-tests.md` for `U11` and `U13`.
 Done when: it contains at least 6 test rows with `question_id`, `entrant_metric`, `incumbent_metric`, `data_source`, `timing_window`, `decision_threshold`, and one explicit falsifier per row.
+
+23. Draft cycle_005 question briefs for `U16`-`U20` in `references/wealth-engine/knowledge/memos/`.
+Done when: each brief contains `hypothesis`, `falsifier`, `must_not_conflate`, `first_evidence_pull`, `timing_window`, and one `decision_use` line tied to OFR/FSR/CRA/BDS evidence rails.

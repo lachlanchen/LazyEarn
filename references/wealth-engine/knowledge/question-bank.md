@@ -1,7 +1,7 @@
 # Question Bank
 
 Updated: 2026-04-05  
-Seed round: cycle_004 / round_02_question_bank
+Seed round: cycle_005 / round_02_question_bank
 
 ## Distinctions to protect
 
@@ -24,6 +24,9 @@ Seed round: cycle_004 / round_02_question_bank
 | Gross income share vs after-tax disposable share | Distribution conclusions change materially after taxes and transfers. |
 | Debt stock vs payment burden | Same balance can imply very different fragility under different rates/terms. |
 | Incumbent ownership gains vs new-owner entry | Rising net worth for owners can hide stalled ownership access for entrants. |
+| Supervisory stress scenario vs realized macro path | Stress-test assumptions are a design tool, not a forecast. |
+| Bank resilience vs borrower access | Stronger bank balance sheets do not automatically imply broader credit access. |
+| Business formation burst vs durable owner wealth | Entry counts can rise even when long-run owner outcomes stay weak. |
 
 ## Tier 1 questions (highest priority)
 
@@ -91,6 +94,16 @@ Seed round: cycle_004 / round_02_question_bank
 | U14 | Which small-business credit indicator most reliably leads household-side stress: denial rates, pricing, or application pullback? | Firm-credit signal vs household-stress signal | SBCS/1071-related deterioration does not lead household delinquency or stress indicators by at least one reporting window | Fed SBCS, CFPB small-business-lending hub, NY Fed Household Debt, SCE |
 | U15 | What leverage policy keeps ownership compounding durable across inflation, disinflation, and slowdown regimes? | Leverage multiple vs liquidity-and-coverage discipline | Rule performs well in one regime but fails survival criteria in another | NBER JST, Fed DSR/FOR, NY Fed Household Debt, FHFA HPI, BLS CPI |
 
+## Unanswered priority questions (cycle_005 sharpen pass)
+
+| ID | Sharpened question | What must be distinguished | What would falsify the working hypothesis | First evidence pull |
+| --- | --- | --- | --- | --- |
+| U16 | When bank-resilience indicators improve, does broad borrower access improve too, or does access remain tight for entrants? | Bank resilience vs borrower access | Entrant approval/access metrics improve in lockstep with resilience improvements across at least two release windows | Fed Financial Stability Report, Fed SLOOS, HMDA modified LAR, FFIEC CRA, Fed SBCS |
+| U17 | After market stress falls (OFR FSI easing), which access channel reopens first: mortgage entry, small-business credit, or consumer credit flow? | Stress relief vs access pass-through | No channel shows a consistent lead response after stress easing windows | OFR FSI, Fed SLOOS, HMDA modified LAR, FFIEC CRA, CFPB Consumer Credit Trends |
+| U18 | Do business-formation increases translate into durable ownership gains, or mainly short-lived churn? | Entry volume vs durable ownership | Owner-income or net-worth concentration metrics do not improve despite sustained formation gains | Census BDS API, IRS SOI, SCF, Fed DFA |
+| U19 | Which household leverage rule still survives under supervisory-style shock assumptions (deep unemployment + asset drawdown)? | Scenario resilience vs backtest comfort | Candidate rule fails survival criteria under 2026 stress-scenario-style shock paths | Fed 2026 Stress Test Scenarios, Fed DSR/FOR, NY Fed Household Debt, FHFA HPI, BLS CPI |
+| U20 | Does CRA small-business lending expansion predict lower later household stress in the same cycle window? | Small-business credit access vs household-stress realization | Delinquency/stress outcomes show no improvement after observed CRA expansion windows | FFIEC CRA Data Products, Fed SBCS, NY Fed Household Debt, CFPB Making Ends Meet |
+
 ## Evidence gates for Tier 1 answers
 
 - `M1`: require at least one stock-flow consistent trace from system credit expansion to a household balance-sheet channel.
@@ -113,3 +126,11 @@ Seed round: cycle_004 / round_02_question_bank
 - `U13`: require decomposition into valuation, participation, and leverage components before concluding mechanism.
 - `U14`: require one lead-lag test with explicit horizon (at least one reporting interval) and a rejected null signal.
 - `U15`: require cross-regime stress test and explicit survival criterion (no insolvency/forced sale/prolonged negative cash flow).
+
+## Evidence gates for cycle_005 unanswered set
+
+- `U16`: require one resilience measure and one entrant-access measure, and reject inference if only aggregate bank-health data moves.
+- `U17`: require explicit lead-lag testing across at least three channels (mortgage, small-business, consumer credit) after stress easing.
+- `U18`: require both formation and persistence/progression evidence before claiming ownership broadening.
+- `U19`: require scenario-based stress check and one liquidation/insolvency guardrail, not return metrics alone.
+- `U20`: require one geography/time alignment rule and one rejected null signal before claiming transmission from CRA lending to household stress.
