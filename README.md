@@ -98,6 +98,7 @@ The repository now carries a durable research loop so book, PDF, README, and sit
 | Source ledger | `references/wealth-engine/knowledge/source-ledger.tsv` | Date-stamped source entries with notes |
 | Question bank | `references/wealth-engine/knowledge/question-bank.md` | Tiered research questions and distinctions |
 | Methods playbook | `references/wealth-engine/knowledge/methods.md` | Question -> evidence -> claim process and SQ-5 rubric |
+| Daily prompts pack | `references/wealth-engine/knowledge/daily-prompts.md` | 14-day question-linked study prompts plus logging template |
 | Side-products catalog | `references/wealth-engine/knowledge/side-products.md` | Checklists, prompt packs, and planned study artifacts |
 | Round outputs | `references/wealth-engine/cycles/` | Per-round notes, findings, and summaries |
 | Next-task queue | `references/wealth-engine/next-tasks.md` | Prioritized follow-up execution list |
@@ -112,6 +113,7 @@ Current method signals (synced with the main book):
 - `HS-8` method for building an action-oriented household stress watchlist.
 - `LL-6` method for testing lead-lag signal timing before making predictive stress claims.
 - `EV-7` method for entrant-vs-incumbent access testing on ownership-entry questions (`U11`, `U13`).
+- `DP-5` method for running short daily prompt sessions and logging source-backed decision notes.
 
 ### Next side-product builds (already scoped)
 
@@ -119,7 +121,7 @@ Current method signals (synced with the main book):
 | --- | --- | --- |
 | `references/wealth-engine/knowledge/question-evidence-gates.md` | Converts Tier 1 questions into pass/fail evidence gates before narrative claims. | `question_id`, `hypothesis`, `minimum_evidence`, `falsifier`, `must_not_conflate`, `status`, `decision_use`, `next_pull` |
 | `references/wealth-engine/knowledge/household-stress-watchlist.md` | Turns macro/credit stress signals into a repeatable monitoring routine. | `signal`, `source`, `series_or_table`, `frequency`, `lead_or_lag`, `risk_read` |
-| `references/wealth-engine/knowledge/signal-lead-lag-matrix.md` | Forces explicit timing tests for cycle_003 questions where ordering matters (`U7`, `U9`). | `question_id`, `target_outcome`, `candidate_signal`, `source`, `frequency`, `tested_lag_window`, `observed_lead_periods`, `consistency_score`, `false_signal_note`, `action_rule` |
+| `references/wealth-engine/knowledge/signal-lead-lag-matrix.md` | Forces explicit timing tests for questions where ordering matters (`U7`, `U9`). | `question_id`, `target_outcome`, `candidate_signal`, `source`, `frequency`, `tested_lag_window`, `observed_lead_periods`, `consistency_score`, `false_signal_note`, `action_rule` |
 
 ## 🗂️ Project structure
 

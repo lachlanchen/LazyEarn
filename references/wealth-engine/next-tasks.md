@@ -131,7 +131,7 @@ Scope: `research.*` and `viewer.backToResearch`.
 Done when: each listed locale has `0` missing scoped keys and fewer English-equal values than current baseline.
 
 17. Sync wealth-refinery sections from `README.md` into `i18n/README.*.md`.
-Scope: mission loop, methods (`QE-5`, `HS-8`, `LL-6`), and research vault routing.
+Scope: mission loop, methods (`QE-5`, `HS-8`, `LL-6`, `DP-5`), and research vault routing.
 Done when: each language README includes equivalent sections and current live paths.
 
 18. Operationalize `references/wealth-engine/knowledge/daily-prompts.md` with one full run log.
