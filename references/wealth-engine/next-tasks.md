@@ -1,6 +1,6 @@
 # Next tasks
 
-Updated: 2026-04-05 (cycle_005 round_10 review_and_next_tasks)
+Updated: 2026-04-05 (cycle_006 round_02 question_bank)
 
 Measured review anchors (from this round):
 - `references/wealth-engine/knowledge/` currently misses 7 planned artifacts:
@@ -184,3 +184,11 @@ Done when: at least 10 rows map `question_id`, `signal`, `source`, `series_or_ta
 
 25. Add one book-facing mechanism table that ties financial-claim growth to physical-constraint rails.
 Done when: markdown and TeX both include one aligned table that references at least one BEA fixed-assets source and one EIA MER source, with no analogy-only framing.
+
+## Priority 1.7 - cycle_006 question-bank follow-up
+
+26. Draft cycle_006 briefs for `U21`-`U25` in `references/wealth-engine/knowledge/memos/`.
+Done when: each brief includes `hypothesis`, `falsifier`, `must_not_conflate`, `first_evidence_pull`, `timing_window`, and one concrete `decision_use`.
+
+27. Create `references/wealth-engine/knowledge/revision-aware-threshold-tests.md` for `U22`.
+Done when: at least 4 rows compare `series_version`, `threshold_estimate`, `window`, `stability_result`, and `decision_impact` using G.19 revision-aware framing.

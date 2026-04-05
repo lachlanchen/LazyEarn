@@ -1,7 +1,7 @@
 # Question Bank
 
 Updated: 2026-04-05  
-Seed round: cycle_005 / round_02_question_bank
+Seed round: cycle_006 / round_02_question_bank
 
 ## Distinctions to protect
 
@@ -27,6 +27,9 @@ Seed round: cycle_005 / round_02_question_bank
 | Supervisory stress scenario vs realized macro path | Stress-test assumptions are a design tool, not a forecast. |
 | Bank resilience vs borrower access | Stronger bank balance sheets do not automatically imply broader credit access. |
 | Business formation burst vs durable owner wealth | Entry counts can rise even when long-run owner outcomes stay weak. |
+| Indicator revision vs macro regime shift | Method changes can look like turning points unless revisions are isolated first. |
+| Household credit stock vs credit quality | Balance growth can look healthy while borrower quality deteriorates under the surface. |
+| Financial-claim growth vs physical-throughput growth | Paper wealth can outpace real productive capacity and hide fragility buildup. |
 
 ## Tier 1 questions (highest priority)
 
@@ -104,6 +107,16 @@ Seed round: cycle_005 / round_02_question_bank
 | U19 | Which household leverage rule still survives under supervisory-style shock assumptions (deep unemployment + asset drawdown)? | Scenario resilience vs backtest comfort | Candidate rule fails survival criteria under 2026 stress-scenario-style shock paths | Fed 2026 Stress Test Scenarios, Fed DSR/FOR, NY Fed Household Debt, FHFA HPI, BLS CPI |
 | U20 | Does CRA small-business lending expansion predict lower later household stress in the same cycle window? | Small-business credit access vs household-stress realization | Delinquency/stress outcomes show no improvement after observed CRA expansion windows | FFIEC CRA Data Products, Fed SBCS, NY Fed Household Debt, CFPB Making Ends Meet |
 
+## Unanswered priority questions (cycle_006 sharpen pass)
+
+| ID | Sharpened question | What must be distinguished | What would falsify the working hypothesis | First evidence pull |
+| --- | --- | --- | --- | --- |
+| U21 | During consumer-credit expansions, does new credit primarily relieve near-term constraints or mostly defer stress into later delinquency windows? | Liquidity relief vs deferred fragility | Delinquency and debt-burden metrics do not rise after credit acceleration windows | Fed G.19, Fed DSR/FOR, NY Fed Household Debt, CFPB Consumer Credit Trends |
+| U22 | Do major indicator-method revisions (for example G.19 credit-union updates) materially change inferred leverage thresholds? | Measurement revision vs real behavior shift | Threshold estimates remain stable after revision-adjusted re-estimation | Fed G.19, Fed FEDS Note on G.19 credit-union estimates, NY Fed Household Debt, CFPB card report |
+| U23 | When lending standards ease, which borrower tiers receive incremental credit first and which remain rationed? | Aggregate easing vs distribution of access | Access and credit-flow gains are evenly distributed with no persistent entrant/risk-tier gap | Fed SLOOS, ECB BLS, CFPB Consumer Credit Trends, HMDA modified LAR, FFIEC CRA |
+| U24 | Does consumer-credit growth outpacing income and fixed-asset growth widen ownership inequality? | Debt-funded spending vs ownership-forming investment | Median ownership participation and median net worth rise alongside faster credit growth | Fed G.19, BEA Personal Income, BEA Fixed Assets, Fed DFA, Census wealth tables |
+| U25 | Which wealth method remains robust when financial claims grow faster than energy and real-capacity rails? | Nominal-return regime vs real-capacity regime | Candidate method fails to preserve real purchasing power or stress resilience in capacity-constrained periods | EIA MER, BEA Fixed Assets, BLS CPI, NBER JST, Fed DSR/FOR |
+
 ## Evidence gates for Tier 1 answers
 
 - `M1`: require at least one stock-flow consistent trace from system credit expansion to a household balance-sheet channel.
@@ -134,3 +147,11 @@ Seed round: cycle_005 / round_02_question_bank
 - `U18`: require both formation and persistence/progression evidence before claiming ownership broadening.
 - `U19`: require scenario-based stress check and one liquidation/insolvency guardrail, not return metrics alone.
 - `U20`: require one geography/time alignment rule and one rejected null signal before claiming transmission from CRA lending to household stress.
+
+## Evidence gates for cycle_006 unanswered set
+
+- `U21`: require a lead-lag window test (at least two reporting intervals) and separate revolving vs nonrevolving credit behavior before attributing stress transmission.
+- `U22`: require both pre-revision and revision-adjusted runs; reject conclusions drawn from a single unreconciled series version.
+- `U23`: require entrant/risk-tier segmentation and at least one "still-rationed" check; aggregate growth alone is insufficient.
+- `U24`: require a three-way decomposition (credit growth, income growth, fixed-asset growth) before drawing inequality-channel claims.
+- `U25`: require real-return and survival checks under at least one capacity-constrained period; nominal returns alone cannot pass.
