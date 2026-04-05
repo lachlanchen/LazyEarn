@@ -225,7 +225,7 @@ run_codex_resume() {
   local sid="$1"
   local prompt_file="$2"
   local json_file="$3"
-  local cmd=(codex exec resume "$sid" --json --full-auto -m "$MODEL" -c "model_reasoning_effort=\"$REASONING\"" --dangerously-bypass-approvals-and-sandbox --skip-git-repo-check)
+  local cmd=(codex exec resume "$sid" --json -m "$MODEL" -c "model_reasoning_effort=\"$REASONING\"" --dangerously-bypass-approvals-and-sandbox --skip-git-repo-check)
   cmd+=(-)
   "${cmd[@]}" < "$prompt_file" > "$json_file"
 }
