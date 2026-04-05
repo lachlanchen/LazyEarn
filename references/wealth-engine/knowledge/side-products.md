@@ -21,6 +21,7 @@ Purpose: track practical artifacts that make the wealth repository easier to stu
 | `knowledge/cycle-clock-lead-lag-panel.md` | planned | Aligns mixed-cadence cycle signals into one lead-lag decision panel for liquidity, conditions, flows, and stress | question-bank (`U26`,`U27`,`U29`) + methods (`CC-7`) + source-ledger | Draft first 8 rows and include at least one rejected signal case |
 | `knowledge/entry-and-property-price-pulse.md` | planned | Prevents conflating entry momentum, valuation moves, and liquidity backdrop when assessing broad wealth access | question-bank (`U31`-`U35`) + methods (`EP-6`) + source-ledger | Draft first 8 rows using BFS, BDS, RPP, CPP, GLI, and one real-conversion rail |
 | `knowledge/credit-access-and-burden-bridge.md` | planned | Converts cycle_009 access and leverage questions into one revision-aware decision panel | question-bank (`U36`-`U40`) + methods (`CAB-9`) + source-ledger | Draft first 10 rows with intent/outcome split, burden/stress pair, and falsifier per row |
+| `knowledge/cadence-aware-stress-classification-panel.md` | planned | Converts cycle_010 mixed-cadence stress questions into an as-known-on-date regime panel with explicit fragility tags | question-bank (`U41`-`U45`) + methods (`CAS-10`) + source-ledger | Draft first 12 rows with release-date fields and naive-vs-cadence comparison notes |
 
 ## Side-product briefs
 
@@ -200,6 +201,29 @@ Purpose: track practical artifacts that make the wealth repository easier to stu
   - do not accept rows missing either `falsifier` or `decision_use`;
   - require intent/outcome split evidence before calling supply-side tightening.
 - Exit criterion: at least 10 rows across `U36`-`U40`, with at least one row each labeled `access tightening`, `burden tightening`, and `mixed`.
+
+### M) Cadence-aware stress classification panel brief
+
+- Goal: stop mixed-frequency timing errors by forcing an "as-known-on-date" panel before stress-regime classification.
+- Minimum schema:
+  - `as_of_date`
+  - `question_id`
+  - `signal_block`
+  - `source`
+  - `series_or_table`
+  - `release_date`
+  - `data_lag_days`
+  - `freshness_flag`
+  - `observed_direction`
+  - `fragility_tag`
+  - `falsifier_check`
+  - `decision_use`
+  - `next_pull`
+- Method hook:
+  - use `CAS-10` from `knowledge/methods.md`;
+  - do not accept rows missing `release_date`, `falsifier_check`, or `decision_use`;
+  - require at least one row from each signal block: `asset_quality`, `access`, `capacity_credit`, `cross_country_fragility`, and `concentration_participation`.
+- Exit criterion: at least 12 rows across `U41`-`U45`, plus one explicit naive-vs-cadence comparison note per review window.
 
 ## Starter prompt pack (14 days)
 

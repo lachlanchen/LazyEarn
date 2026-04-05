@@ -384,3 +384,39 @@ question_id | window | revision_event_note | application_intent_signal | approva
 Quality rule:
 - A row is incomplete if it lacks either `falsifier` or `decision_use`.
 - Do not infer supply-side tightening from origination slowdown alone; require explicit intent/outcome split evidence.
+
+## 22) CAS-10 method (cadence-aware stress classification panel)
+
+Use this method to execute cycle_010 questions `U41`-`U45` without mixing stale and fresh signals.
+
+Target artifact: `knowledge/cadence-aware-stress-classification-panel.md`
+
+Protect these distinctions on every pass:
+- fresh signal vs stale signal,
+- bank asset quality vs borrower access,
+- capacity weakness vs credit expansion,
+- tax-record concentration vs wealth participation,
+- local fragility noise vs cross-country fragility regime.
+
+| Step | Action | Output |
+| --- | --- | --- |
+| 1 | Lock one `as_of_date` and keep only data that was available by that date. | real-time decision window |
+| 2 | Record release date and lag for each signal; tag each as `fresh` or `stale`. | cadence integrity layer |
+| 3 | Pull one bank asset-quality signal and one borrower-access signal with explicit lag window. | U41 signal pair |
+| 4 | Pull one capacity-utilization signal and one credit-growth signal in the same window. | U42 comparison block |
+| 5 | Pull one bank-soundness and one household-leverage comparator across countries. | U43 comparator block |
+| 6 | Pull one tax-record concentration signal and one wealth/participation signal with percentile alignment. | U44 concentration block |
+| 7 | Run one naive mixed-frequency read and one cadence-aware read for the same window. | U45 comparison read |
+| 8 | Apply falsifier checks before assigning any fragility tag. | pre-committed invalidation |
+| 9 | Classify window as `access-fragile`, `capacity-fragile`, `distribution-fragile`, `broad fragility`, or `neutral`. | regime label |
+| 10 | Write one decision-use line and one next-pull date; row is incomplete without both. | action + maintenance hook |
+
+Minimum schema for `cadence-aware-stress-classification-panel.md`:
+
+```text
+as_of_date | question_id | signal_block | source | series_or_table | release_date | data_lag_days | freshness_flag | observed_direction | fragility_tag | falsifier_check | decision_use | next_pull
+```
+
+Quality rule:
+- Do not classify a window unless at least one signal is present from each block: `asset_quality`, `access`, `capacity_credit`, `cross_country_fragility`, and `concentration_participation`.
+- Any row missing `release_date` or `falsifier_check` fails method compliance.

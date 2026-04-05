@@ -1,9 +1,9 @@
 # Next tasks
 
-Updated: 2026-04-05 (cycle_010 round_04 book_tex)
+Updated: 2026-04-05 (cycle_010 round_05 side_products)
 
 Measured review anchors (from this round):
-- `references/wealth-engine/knowledge/` currently misses 8 planned artifacts:
+- `references/wealth-engine/knowledge/` currently misses 9 planned artifacts:
   - `knowledge/core-series-watchlist.md`
   - `knowledge/household-balance-sheet-bundle.md`
   - `knowledge/citation-map.tsv`
@@ -12,6 +12,7 @@ Measured review anchors (from this round):
   - `knowledge/signal-lead-lag-matrix.md`
   - `knowledge/distinction-cards.md`
   - `knowledge/credit-access-and-burden-bridge.md`
+  - `knowledge/cadence-aware-stress-classification-panel.md`
 - Site consistency checker is still missing in `tools/` (existing `tools/lre/` has no validator script):
   - expected: `tools/validate-site-content.sh` or `tools/validate-site-content.js`
 - Claim-level citation density in `investment/wealth-from-first-principles.md` remains weak in key sections:
@@ -40,6 +41,8 @@ Measured review anchors (from this round):
 - Markdown/TeX sync for section `9.9 Cadence-aware stress classification panel` is now complete:
   - `wealth-from-first-principles.tex` now mirrors section `9.9` panel logic and cycle_010 rails in both `Official data and references` and `Source notes`.
   - next bottleneck: build-time marker checks still need to assert section `9.9` presence and rail coverage in both PDF targets.
+- Side-product method coverage now includes `CAS-10` in `knowledge/methods.md` and a matching brief in `knowledge/side-products.md`.
+  - next bottleneck: the executable artifact `knowledge/cadence-aware-stress-classification-panel.md` is not yet drafted with first-pass rows.
 - Side-product method coverage now includes `CAB-9` in `knowledge/methods.md` and a dedicated bridge brief in `knowledge/side-products.md`.
   - next bottleneck: the executable artifact `knowledge/credit-access-and-burden-bridge.md` still needs first-pass rows.
 - Markdown/TeX sync for section `9.8 Credit-access and burden bridge` is now complete:
@@ -96,6 +99,9 @@ Done when: each memo includes `hypothesis`, `falsifier`, `must_not_conflate`, `f
 
 9. Verify compiled artifacts for section `9.9` after TeX sync.
 Done when: both PDF targets include section `9.9` and its core rails (Fed release calendar, Charge-Off/Delinquency, G.17, IMF FSIC, IRS SOI PUF, OECD API guidance), and build notes record the check outcome.
+
+10. Create first-pass `knowledge/cadence-aware-stress-classification-panel.md` using `CAS-10`.
+Done when: at least 12 rows cover `U41-U45`, include release-date and freshness fields, and record one naive-vs-cadence comparison note per review window.
 
 ## Cycle 009 review queue (highest value, concrete)
 
