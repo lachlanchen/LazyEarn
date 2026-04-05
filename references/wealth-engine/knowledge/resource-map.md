@@ -1,12 +1,38 @@
 # Resource Map
 
 Updated: 2026-04-05  
-Round seed: cycle_002 / round_01_resource_scan
+Round seed: cycle_003 / round_01_resource_scan
 
 ## Selection rules used in this scan
 - Prefer official or primary institutions with transparent methods.
 - Prefer sources with download/API access, not just commentary.
 - Capture freshness signals (release dates, update cadence, or version tags).
+
+## Cycle 003 additions: credit conditions and distribution monitoring
+- Federal Reserve SHED hub (Economic Well-Being of U.S. Households)  
+  https://www.federalreserve.gov/publications/report-economic-well-being-us-households.htm  
+  Why keep: annual household-finance stress and resilience survey; 2024 wave is posted and page last update is May 28, 2025.
+- Federal Reserve Senior Loan Officer Opinion Survey (SLOOS)  
+  https://www.federalreserve.gov/data/sloos.htm  
+  Why keep: quarterly primary source on lending standards and loan demand for businesses and households; useful leading signal for credit tightening.
+- BEA Distribution of Personal Income (DPI)  
+  https://www.bea.gov/data/special-topics/distribution-of-personal-income  
+  Why keep: official bridge between national income accounts and household distribution using CPS ASEC plus tax/administrative inputs.
+- CFPB Consumer Credit Trends dashboard  
+  https://www.consumerfinance.gov/data-research/consumer-credit-trends/  
+  Why keep: monthly originations/inquiries by product and risk group; last dashboard update shown as March 2026.
+- BIS Debt Service Ratios (DSR) overview  
+  https://data.bis.org/topics/DSR  
+  Why keep: cross-country household and private-sector debt-burden series with quarterly release cadence and explicit early-warning framing.
+- ECB Consumer Expectations Survey (CES)  
+  https://www.ecb.europa.eu/stats/ecb_surveys/consumer_exp_survey/html/index.en.html  
+  Why keep: monthly euro-area household expectations dataset with scheduled releases and links to aggregate and microdata.
+- U.S. Census CPS income and inequality tables  
+  https://www.census.gov/topics/income-poverty/income-inequality/data/data-tables/cps-data-tables.html  
+  Why keep: official long-run household/family/person income and inequality table system tied to CPS ASEC annual releases.
+- IRS SOI Publication 1304 (Individual Income Tax Returns Complete Report)  
+  https://www.irs.gov/statistics/soi-tax-stats-individual-income-tax-returns-complete-report-publication-1304  
+  Why keep: percentile-level AGI and tax-share references from filed returns, useful for ownership/income distribution cross-checks.
 
 ## Money and macro plumbing
 - Federal Reserve H.6 Money Stock Measures  

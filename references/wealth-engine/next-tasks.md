@@ -1,6 +1,6 @@
 # Next tasks
 
-Updated: 2026-04-05 (cycle_002 round_10 review_and_next_tasks)
+Updated: 2026-04-05 (cycle_003 round_01 resource_scan)
 
 Measured review anchors (from this round):
 - `references/wealth-engine/knowledge/` still misses 7 planned artifacts.
@@ -37,8 +37,8 @@ Coverage: `M1`, `O2`, `L1`, `I1`, `R1`.
 Done when: each row has `minimum_evidence`, `falsifier`, `must_not_conflate`, `status`, `decision_use`, `next_pull`.
 
 7. Create `references/wealth-engine/knowledge/household-stress-watchlist.md`.
-Signal mix: expectations, burden, delinquency transitions, and household strain.
-Done when: at least 8 signals with `signal`, `source`, `series_or_table`, `frequency`, `lead_or_lag`, `risk_read`.
+Signal mix: expectations, burden, lending standards, consumer-credit flow, and delinquency transitions.
+Done when: at least 8 signals with `signal`, `source`, `series_or_table`, `frequency`, `lead_or_lag`, `risk_read`, including at least one signal each from SLOOS, CFPB Consumer Credit Trends, BIS DSR, and NY Fed household credit.
 
 8. Draft three mini-memos in `references/wealth-engine/knowledge/memos/` for `M1`, `O2`, `L1`.
 Done when: each memo includes one explicit claim, one caveat, and one decision implication.
@@ -73,3 +73,7 @@ Done when: at least 15 cards with `Distinction`, `Common confusion`, `Quick test
 
 16. Reduce remaining TeX warnings in `wealth-from-first-principles.tex`, including the recurring `microtype` footnote warning.
 Done when: overfull warnings are removed or reduced materially, underfull warnings in key table blocks are reduced, and the `microtype` warning is fixed or explicitly documented in source comments.
+
+17. Create `references/wealth-engine/knowledge/credit-conditions-watchlist.md` as a focused transmission dashboard.
+Core sources: Fed SLOOS, CFPB Consumer Credit Trends, BIS DSR, ECB CES.
+Done when: at least 6 signals are mapped with `signal`, `source`, `series_or_table`, `frequency`, `transmission_link`, and a one-line interpretation rule.
