@@ -1,6 +1,16 @@
 # Next tasks
 
-Updated: 2026-04-05 (cycle_012 round_10 review_and_next_tasks)
+Updated: 2026-04-06 (cycle_013 round_10 review_and_next_tasks)
+
+## Cycle 013 review and next-round priorities (round_10_review_and_next_tasks)
+
+1. Create `references/wealth-engine/knowledge/citation-map.tsv`, `references/wealth-engine/knowledge/question-evidence-gates.md`, and `references/wealth-engine/knowledge/study-paths.md` to close the remaining infrastructure gap before the next writing pass.
+2. Raise factual density in markdown where URL-bearing lines are below target: section 3 is `6`, section 5 is `6`, section 8 is `4`; target is `>=9` for each and each added line should carry a mechanism, named institution/event, or practical implication.
+3. Add one substantial dated historical mechanism paragraph in both section 3 and section 8 with named actors and an explicit decision-use implication.
+4. Add one section-9 physical mechanism subsection linking production capacity, energy/material limits, or labor bottlenecks to ownership and leverage outcomes.
+5. Finalize `tools/validate-site-content.js` with mandatory checks for `docs/index.html`/`docs/script.js` slug parity, required PDF existence and mirror-hash parity, and section-anchor presence in both PDF outputs.
+6. Migrate `references/wealth-engine/knowledge/source-ledger.tsv` from `date, category, title, url, note` to `date, category, title, url, source_type, update_cadence, last_verified_on, note` and backfill `last_verified_on` on all legacy rows.
+7. Replace English fallback in visible non-English locale packs for `research.point7` and `research.point8`, with immediate focus on `ja`, `ko`, `vi`, `ar`, `fr`, and `es`.
 
 ## Cycle 013 immediate follow-up (round_03_book_markdown)
 
