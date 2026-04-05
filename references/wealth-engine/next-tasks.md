@@ -1,6 +1,19 @@
 # Next tasks
 
-Updated: 2026-04-06 (cycle_015 round_01_resource_scan)
+Updated: 2026-04-06 (cycle_015 round_02_question_bank)
+
+## Cycle 015 question-bank follow-up (round_02_question_bank)
+
+1. Resolve the cycle_015 sharpened set (`U64`-`U69`) in `knowledge/question-bank.md` by assigning each question to one primary section in chapter 9 and one fallback section in chapter 3/5/8.
+   Done when each has a chapter mapping and one explicit decision-use line.
+2. Add one or two reverse-test cases for `U67` and `U69` using irreversible risk outcomes (foreclosure, denied entry, capacity lock-in) plus a control case where risks reverse.
+   Done when reversal/non-reversal criteria are documented in the same block used for extraction planning.
+3. For `U64`-`U66`, collect an initial extraction plan with exact release windows (or monthly/quarterly frequency conversions) before the next markdown pass.
+   Done when each entry has one chosen liquidity source, one channel source, and one lag setting.
+4. Keep round artifact file in place:
+   - `references/wealth-engine/cycles/cycle_015/round_02_question_bank/questions.md`
+   - `references/wealth-engine/cycles/cycle_015/round_02_question_bank/summary.md`
+   Done when these are updated with this round’s sharper agenda and sources status.
 
 ## Cycle 015 resource-scan follow-up (round_01_resource_scan)
 

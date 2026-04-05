@@ -1,7 +1,7 @@
 # Question Bank
 
 Updated: 2026-04-06  
-Seed round: cycle_014 / round_02_question_bank
+Seed round: cycle_015 / round_02_question_bank
 
 ## Distinctions to protect
 
@@ -331,3 +331,23 @@ Seed round: cycle_014 / round_02_question_bank
 - `U67`: require one reversible and one irreversible metric before classifying regime risk.
 - `U68`: require both system stability and access-quality outcomes before claiming reform-level success.
 - `U69`: require one physical-capacity indicator and one leverage/burden indicator before promoting a productive-leverage claim.
+
+## Unanswered priority questions (cycle_015 sharpen pass)
+
+| ID | Sharpened question | What must be distinguished | What would falsify the working hypothesis | First evidence pull | Decision-use line |
+| --- | --- | --- | --- | --- |
+| U64 | When official liquidity expands (money stock, bank balance-sheet risk appetite, or policy signaling), which channel receives the first net flow to households and small firms: asset-market valuation, mortgage credit, business credit, or wage/transfer relief? | Aggregate liquidity creation vs channel sequencing and beneficiary class | Two aligned windows show no stable lead across channels after liquidity expansion | Fed H.6, Fed Z.1, Fed H.8/H.4.1, Fed SLOOS | If mortgage or business-credit leads, prioritize access-first ownership methods over asset-representation bets. |
+| U65 | Does IMF/Fiscal surveillance signaling (Article IV, IMF WEO, IMF Fiscal Monitor) mainly explain durable ownership-entry gains, or mostly temporary valuation and sentiment effects? | Macro narrative signal vs durable ownership mechanisms | Participation and owner-survival gains do not exceed valuation and leverage effects after burden/timing controls | IMF Article IV, IMF WEO, IMF Fiscal Monitor, Fed DFA, Census wealth tables | If durable entry signals fail, label macro-signaling claims as confidence-cycle aids, not durable wealth strategy. |
+| U66 | Is rising wealth concentration after 2010 driven more by incumbency-preserving channel structure than by constrained entry conditions under high-flow investment and inflow regimes? | Incumbent compounding vs denied entry/retention squeeze | Entrant first-time owner share and entrant survival improve at the same pace as concentration gains | UNCTAD WESP, UNCTAD WIT, SCF, HMDA modified LAR | If entrant durability weakens while concentration rises, add a hard cap rule for concentration-exposed allocation in method guidance. |
+| U67 | In stress episodes, which failure type is least reversible: debt-service stress, productive-capacity displacement, or legal-access architecture lock-in that blocks future ownership entry? | Reversible macro stress vs irreversible wealth-control loss | All three channels revert in the same window with no lagged increase in foreclosure, involuntary exit, or denied-entry markers | Fed DSR/FOR, FDIC unbanked and branch-level exclusion data, HMDA modified LAR, CFPB Making Ends Meet | If any irreversible channel leads, convert the current cycle's leverage recommendations to a lower baseline.
+| U68 | Do reform and resilience materials (Dodd-Frank implementation notes, ECB stability releases, BIS governance updates) improve borrower access and owner progression or only stability optics for banks? | Institutional architecture vs realized borrower outcomes | Stability metrics improve while borrower approvals, delinquencies, and ownership progression remain unchanged for two windows | BIS Annual Reports/FSR, ECB financial stability releases, Fed DFAST notices, CFPB small-business credit reports | If borrower outcomes remain flat, publish this as a stability-only intervention in section 9.
+| U69 | Under real-energy or transport-constrained conditions (6-12 month horizon), do productive-capacity-led methods outperform debt-led methods on real cash flow and option-value retention? | Real-capacity path vs nominal leverage-led return illusions | Debt-led methods match or beat productive-capacity methods in real cash flow, survivability, and optionality retention under throughput strain | IEA STEO/MER, IEA WEO 2025/2026, Fed DSR/FOR, BEA NIPA real GDP | If debt-led claims fail under strain, restrict leverage intensity and require throughput checks before compounding rules. |
+
+## Evidence gates for cycle_015 unanswered set
+
+- `U64`: require one system-liquidity series and one first-mile recipient series with 1-2 release-window lead-lag mapping.
+- `U65`: require decomposition into valuation, participation, burden, and timing before concluding macro-signaling durability.
+- `U66`: require one entrant-only concentration denominator and one incumbent-only denominator for every concentration claim.
+- `U67`: require one irreversible marker (foreclosure, forced sale, ownership-control change) and one reversible marker (valuation/price spread compression) before classification.
+- `U68`: require both stress-test optics and borrower-level access/entry metrics before claiming architecture-wide access repair.
+- `U69`: require throughput constraints and debt-service/burden metrics jointly before endorsing productive-capacity-first claims.
