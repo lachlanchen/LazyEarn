@@ -216,7 +216,7 @@ PY
 run_codex_new_session_init() {
   local prompt_file="$1"
   local json_file="$2"
-  local cmd=(codex -s "$SANDBOX" -a "$APPROVAL" exec --json -m "$MODEL" -c "model_reasoning_effort=\"$REASONING\"")
+  local cmd=(codex exec --json -m "$MODEL" -c "model_reasoning_effort=\"$REASONING\"" --dangerously-bypass-approvals-and-sandbox -C "$ROOT_DIR" --skip-git-repo-check)
   cmd+=(-)
   "${cmd[@]}" < "$prompt_file" > "$json_file"
 }
@@ -225,7 +225,7 @@ run_codex_resume() {
   local sid="$1"
   local prompt_file="$2"
   local json_file="$3"
-  local cmd=(codex -s "$SANDBOX" -a "$APPROVAL" exec resume "$sid" --json --full-auto -m "$MODEL" -c "model_reasoning_effort=\"$REASONING\"")
+  local cmd=(codex exec resume "$sid" --json --full-auto -m "$MODEL" -c "model_reasoning_effort=\"$REASONING\"" --dangerously-bypass-approvals-and-sandbox -C "$ROOT_DIR" --skip-git-repo-check)
   cmd+=(-)
   "${cmd[@]}" < "$prompt_file" > "$json_file"
 }
