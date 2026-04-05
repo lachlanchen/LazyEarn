@@ -1,6 +1,6 @@
 # Next tasks
 
-Updated: 2026-04-05 (cycle_002 round_08 translation_and_catalog)
+Updated: 2026-04-05 (cycle_002 round_09 build_and_verify)
 
 ## Priority A - Evidence pipeline (execute first)
 
@@ -71,3 +71,7 @@ Done when: each question has explicit pass/fail evidence conditions and one disc
 16. Optimize typesetting for the synced `9.3 Household stress dashboard` and expanded official-data table in TeX.
 Output: refined column widths/line breaks in `wealth-from-first-principles.tex` with fewer table-related warnings.
 Done when: at least 8 warning lines tied to those table blocks are removed after two-pass `xelatex`.
+
+17. Investigate and resolve the recurring `microtype` footnote patch warning in the main TeX build.
+Output: either a configuration fix in `wealth-from-first-principles.tex` or an explicit documented exception in build notes.
+Done when: the warning `Unable to apply patch 'footnote'` no longer appears, or the reason and accepted tradeoff are documented in the TeX source comments.
