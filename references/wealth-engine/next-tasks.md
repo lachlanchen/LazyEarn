@@ -1,6 +1,13 @@
 # Next tasks
 
-Updated: 2026-04-06 (cycle_021 round_03_book_markdown)
+Updated: 2026-04-06 (cycle_021 round_04_book_tex)
+
+## Cycle 021 book_tex follow-up (round_04_book_tex)
+
+1. Resolve the recurring underfull hbox/vbox warnings reported in the Chapter 11 source-note region (currently concentrated around the historical reference rows) before adding further long source-note rows.
+2. Keep the 2-pass XeLaTeX requirement in the build gate after any future markdown-driven edits; this round ran two passes and kept the PDF at 52 pages.
+3. Add a concise note in `30-day constrained wealth study track` tying `9.10.2` to concrete non-U.S. source pulls (ECB and BoJ), replacing the generic ``one non-U.S. central-bank release'' wording.
+4. Carry one stable anchor block in `section 9.10` with three-phase sequence language so the printed layout keeps this mechanism visibly easy to scan.
 
 ## Cycle 021 book_markdown follow-up (round_03_book_markdown)
 
