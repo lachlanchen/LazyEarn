@@ -667,6 +667,7 @@ function setupResearchCatalog() {
       routeListEl.innerHTML = "";
       entry.routeGuide.stepKeys.forEach((stepKey) => {
         const li = document.createElement("li");
+        li.setAttribute("data-i18n", stepKey);
         li.textContent = getString(currentLanguage, stepKey) || stepKey;
         routeListEl.appendChild(li);
       });

@@ -1,6 +1,6 @@
 # Next tasks
 
-Updated: 2026-04-06 (cycle_016 round_07_website_sync)
+Updated: 2026-04-06 (cycle_016 round_08_translation_and_catalog)
 
 ## Cycle 016 side-products follow-up (round_05_side_products)
 
@@ -40,6 +40,15 @@ Updated: 2026-04-06 (cycle_016 round_07_website_sync)
    Done when local load checks show six route steps and no unresolved route-key warnings in the browser console.
 3. Add a post-update web-facing note in `references/wealth-engine/cycles/cycle_016/round_07_website_sync/summary.md` before moving to next book/translation synchronization round.
 4. In the next translation pass, add `research.routeStep6` to each localized `docs/translations.json` research route block (`ja`, `ko`, `vi`, `ar`, `fr`, `es`, `zh-Hant`, `zh-Hans`) so non-English readers do not briefly fall back to English for the final step.
+   Done: completed in `references/wealth-engine/cycles/cycle_016/round_08_translation_and_catalog`.
+
+## Cycle 016 translation_and_catalog follow-up (round_08_translation_and_catalog)
+
+1. Keep website translation route-copy parity for route sequence keys and route steps across all active locales.
+   Done: `research.routeIntro` and `research.routeStep1` through `research.routeStep6` now exist in all listed locale blocks in `docs/translations.json`, and non-English cards now render six route steps without fallback.
+2. Make catalog wiring resilient on language switches.
+   Done: route list items in `docs/script.js` are now rebuilt with `data-i18n` keys so `setupResearchCatalog()` updates correctly when locale changes through `applyTranslations()`.
+3. Add one follow-up validation pass for route translation quality in non-English locales (especially `zh-Hant`, `zh-Hans`, `ja`, `ko`, `vi`, `ar`, `fr`, `es`) so route steps move from functional parity to readable parity.
 
 ## Cycle 016 book-tex follow-up (round_04_book_tex)
 
