@@ -2,6 +2,30 @@
 
 Updated: 2026-04-06 (cycle_022 round_08_translation_and_catalog)
 
+## Cycle 022 review_and_next_tasks follow-up (round_10_review_and_next_tasks)
+
+Priority:
+1. Chapter 4.2 strengthening (must-do before any new evidence additions):
+   - add one operational paragraph in `4.2 Why time matters` that links compounding persistence to irreversible ownership-control outcomes,
+   - include a concrete physical mechanism (`delivery lag`, `replacement lag`, or `storage/energy conversion limits`),
+   - add one falsifier and one `must_not_conflate` rule.
+2. Chapter 9 historical coherence (must-do before next build):
+   - in `9.11.2`, replace the 1970s opening framing with a dated post-war transmission case,
+   - add one measurable timing/outcome value in each main historical row,
+   - and keep any section/date routing labels aligned to the current `U94`-`U101` mapping.
+3. Factual density and testability in `9.10` and `9.11`:
+   - add one compact numeric/temporal field per major row (`lag_days`, `lag_months`, or `outcome_horizon`),
+   - keep each row naming at least one institution and one transmission channel.
+4. Explicit decision bridge in Chapter 9:
+   - add a short reader-facing callout near the 9.11 gate that links optionality, irreversibility, and stage-gating,
+   - include a forward reference back to 4.2 and a clear action rule.
+5. Evidence-control synchronization:
+   - make sure `9.10`, `9.11.1`-`9.11.5` each has `falsifier`, `must_not_conflate`, and `decision_use` in the active side-product/evidence artifact,
+   - and add missing non-U.S. comparator rows before the next chapter-facing handoff.
+6. Pre-publish source sanity:
+   - for 1930s, 1933, 1973–74, 1946–1951, and 2008 claims, keep one primary anchor plus one mirror/ledger anchor,
+   - verify section note parity between `investment/wealth-from-first-principles.md` and `investment_pdfs/wealth-from-first-principles/wealth-from-first-principles.tex`.
+
 ## Cycle 022 build_and_verify follow-up (round_09_build_and_verify)
 
 1. Add a quick pre-merge check that validates:
