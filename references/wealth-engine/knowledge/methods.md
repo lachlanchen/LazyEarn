@@ -848,3 +848,54 @@ SPH-6 workflow:
 Acceptance gate:
 - no `active` artifact should have an empty `next_action`;
 - active/needs_review artifacts must define both a specific owner and date.
+
+## 30) TC-6 method (time-control wealth checks)
+
+Use this method when a reader is deciding whether to stage or pause leverage and ownership-scaling moves after instability or policy changes.
+
+Goal:
+- Keep compounding decisions linked to three independent clocks: cash, control, and production.
+
+Inputs:
+- Chapter 4 / 4.2 framing
+- one window of comparable stress and policy data
+- one chapter-facing action decision
+
+Minimum schema:
+
+```text
+check_id
+window_start
+window_end
+cash_clock_signal
+cash_clock_status
+control_clock_signal
+control_clock_status
+production_clock_signal
+production_clock_status
+ownership_access_indicator
+decision_rule
+falsifier
+must_not_conflate
+next_review
+owner
+```
+
+TC-6 workflow:
+
+1. Define the decision window (for example last 12 months).
+2. For each clock, pick one primary and one backup signal.
+3. Score each clock as `green`, `yellow`, or `red`.
+4. Add one lag comparison where possible and one explicit stop condition per check.
+5. Apply this default ladder:
+   - any red clock requires defensive posture,
+   - one green and two yellow needs staged action,
+   - three green allows acceleration only if ownership access indicators also improve.
+6. Add one falsifier before converting the check into an action rule.
+7. Add one `must_not_conflate` guard before applying any scaling decision.
+8. Add one review date no later than one quarter from the check date.
+
+Default cadence:
+
+- `owner` should record who runs each check.
+- refresh checks every 4 to 12 weeks in this cycle class.

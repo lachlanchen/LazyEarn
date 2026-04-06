@@ -1,6 +1,17 @@
 # Next tasks
 
-Updated: 2026-04-06 (cycle_024 round_04_book_tex)
+Updated: 2026-04-06 (cycle_024 round_05_side_products)
+
+## Cycle 024 side_products follow-up (round_05_side_products)
+
+1. Finish `knowledge/wealth-time-control-checklist.md` to at least six seeded rows (`TC-24.4` through `TC-24.6`).
+2. Add one explicit non-U.S. comparator signal row in `knowledge/wealth-time-control-checklist.md` before Chapter 4 uses checklist language for scaling or acceleration.
+3. For each new checklist row, include:
+   - one lag comparison,
+   - one `falsifier`,
+   - one `must_not_conflate`,
+   - one concrete stop condition.
+4. In the same cycle, link completed checklist rows to `U112` and `U114` in the next applicable side-product/evidence mapping pass.
 
 ## Cycle 024 question_bank follow-up (round_02_question_bank)
 

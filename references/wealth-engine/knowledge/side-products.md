@@ -30,6 +30,7 @@ Purpose: track practical artifacts that make the wealth repository easier to stu
 | `knowledge/historical-case-ledger.md` | planned | Converts historical and institutional episodes into structured case rows for chapter framing and narrative consistency | cycle_011 open historical questions + methods (`HC-5`) + question-bank (`U46`-`U52`) | Seed first 4 rows for Jekyll Island, Great Depression, Great Inflation, and 1973-74 Oil Shock |
 | `knowledge/debt-throughput-decision-map.md` | planned | Converts cycle_012 debt-constraint and transmission questions into a release-aware map across liquidity, access, valuation, burden, and throughput channels | cycle_012 unanswered set (`U53`-`U58`) + methods (`CDL-6`) + source-ledger + historical-case-ledger | Draft one row per question ID with explicit lead/lag class and irreversible-risk flags |
 | `knowledge/historical-transmission-countercase.md` | active | Builds constrained vs non-constrained episode pairs for transmission-reversal testing and lesson transfer | `cycle_015` chapter-9 updates + methods (`HC-5`, `HCT-6`) + source-ledger | Refresh row set before each round that edits chapter 9 |
+| `knowledge/wealth-time-control-checklist.md` | active | turns Chapter 4 time-control framing into a leverage-timing routine with one compact action ladder | chapter 4 (`4.2`), methods (`TC-6`), question-bank (`U112`, `U114`) | seed 3 more rows, add explicit stop rules, and add one non-U.S. comparator note |
 
 | `knowledge/side-product-audit-checklist.md` | planned | keeps side products synchronized to methods, catalog scope, and chapter handoff cadence | methods.md + side-products.md + chapter-facing artifacts | Seed a per-cycle audit queue and run SPH-6 before major edits |
 
@@ -456,6 +457,37 @@ Updated status (cycle_019):
   - all cataloged `active` artifacts have a non-empty `last_reviewed` and one explicit owner;
   - each `active` artifact has a documented `next_action`;
   - unresolved `open_gap` entries are tracked by next-cycle review date.
+
+### U) Time-control wealth-checklist brief
+
+- Goal: keep the three-clock logic from Chapter 4.2 operational by making every leverage decision pass through a reproducible time-control check.
+- File: `knowledge/wealth-time-control-checklist.md`
+- Round status: planned in Cycle 24, Round 5; active build follows first six seeded rows.
+- Core decision rule:
+  - do not scale exposure when either control-clock or production-clock is red, even if cash-clock is improving.
+- Minimum schema:
+  - `check_id`
+  - `window_start`
+  - `window_end`
+  - `cash_clock_signal`
+  - `cash_clock_status`
+  - `control_clock_signal`
+  - `control_clock_status`
+  - `production_clock_signal`
+  - `production_clock_status`
+  - `ownership_access_indicator`
+  - `decision_rule`
+  - `falsifier`
+  - `must_not_conflate`
+  - `next_review`
+  - `owner`
+- Method hook:
+  - apply `TC-6` from `knowledge/methods.md`.
+  - require explicit lag notes and one two-window comparison per check.
+- Exit criterion:
+  - at least 6 checks with explicit `decision_rule`,
+  - one falsifier and one `must_not_conflate` field per check,
+  - and one stop/hold condition in every window with green/yellow/red scoring.
 
 ## Starter prompt pack (14 days)
 
