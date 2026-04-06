@@ -3,6 +3,29 @@
 Updated: 2026-04-06  
 Round seed: cycle_024 / round_01_resource_scan
 
+## Cycle 025 additions: rates, aggregate bank stress, and liquidity fragility
+- Federal Reserve Board - Selected Interest Rates (H.15, Daily)
+  https://www.federalreserve.gov/releases/h15/
+  Why keep: official daily rates and release-timing surface for short-run price/distribution and credit-cost channels used in financing and interest-rate transmission analysis.
+- FDIC - Quarterly Banking Profile
+  https://www.fdic.gov/quarterly-banking-profile
+  Why keep: official bank-sector stress signal surface for profits, loan quality, and deposit/liquidity dynamics with explicit quarterly cadence and access to full QBP PDFs.
+- FDIC Quarterly Banking Profile Q4 2025 release
+  https://www.fdic.gov/media/177188
+  Why keep: post-2025 comparative condition profile with return-on-assets, income, and credit-quality context for resilience comparison in section 9 machinery.
+- GAO - Federal Deposit Insurance Act: Federal Agency Efforts to Identify and Mitigate Systemic Risk from the March 2023 Bank Failures
+  https://www.gao.gov/products/gao-25-107023
+  Why keep: primary congressional audit source on systemic-risk exception, deposit insurance sequencing, and governance trade-offs during bank-failure episodes.
+- Financial Stability Board - Global Monitoring Report on Non-bank Financial Intermediation 2025
+  https://www.fsb.org/publication/global-monitoring-report-on-non-bank-financial-intermediation/
+  Why keep: global NBFI concentration and market-structure context for transmission models where nonbanks substitute for traditional bank channels.
+- Financial Stability Board - Vulnerabilities in Government Bond-backed Repo Markets
+  https://www.fsb.org/publication/vulnerabilities-in-government-bond-backed-repo-markets/
+  Why keep: forward-looking repo-market fragility assessment with leverage, concentration, rehypothecation, and data-gap implications for liquidity transmission.
+- Financial Stability Board - FSB warns of financial stability challenges in repo markets (press release, 2026)
+  https://www.fsb.org/2026/02/fsb-warns-of-financial-stability-challenges-in-repo-markets/
+  Why keep: concise narrative summary with key transmission estimates (for example, roughly $16T in government-bond-backed repo) useful for public-facing timing/counterparty framing.
+
 ## Cycle 024 additions: crisis mechanics, constraint diagnostics, and updated measurement
 - IMF - World Economic Outlook: October 2025 (release page)
   https://www.imf.org/en/Publications/WEO/Issues/2025/10/14/world-economic-outlook-october-2025

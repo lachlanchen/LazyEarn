@@ -2,6 +2,12 @@
 
 Updated: 2026-04-06 (cycle_024 round_10_review_and_next_tasks)
 
+## Cycle 025 resource scan follow-up (round_01_resource_scan)
+
+1. Add FDIC Quarterly Banking Profile and H.15 (Selected Interest Rates) evidence rows into chapter-side mapping before the next `book_markdown` pass, especially in sections on financing cost and bank-condition transmission.
+2. Thread GAO-25-107023 findings into one concrete `must_not_conflate` and one falsifier row before using bank-failure coordination as a general rule for wealth-transfer claims in Chapter 9.
+3. Add FSB repo-market fragility notes to `knowledge/side-products.md` with one explicit hard-stop condition (balance-sheet opacity, collateral mismatch, and rehypothecation concentration) before any repo-risk acceleration recommendation.
+
 ## Cycle 024 readme_sync follow-up (round_06_readme_sync)
 
 1. After this README sync round, run the next `website_sync` round to update `docs/translations.json`, `docs/script.js`, and `docs/index.html` route labels only after parity checks against this README cycle text.
