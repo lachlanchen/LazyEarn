@@ -1,12 +1,18 @@
 # Next tasks
 
-Updated: 2026-04-06 (cycle_019 round_06_readme_sync)
+Updated: 2026-04-06 (cycle_019 round_07_website_sync)
 
 ## Cycle 019 readme_sync follow-up (round_06_readme_sync)
 
 1. After any future docs or route-copy edit, re-check that `README.md` and `docs/index.html` cycle status text stay coherent.
 2. In the next content-facing round, keep the `Book sync highlights` section limited to artifact changes that were actually made (for example markdown/TeX updates vs. sync text updates).
 3. Keep the summary file for `cycle_019/round_06_readme_sync` as the source of record for what was synced and what remained pending.
+
+## Cycle 019 website_sync follow-up (round_07_website_sync)
+
+1. Verify after this round that `docs/index.html` and `docs/translations.json` English research copy agree on the same money-and-wealth field-guide scope and cycle label.
+2. Confirm `docs/script.js` synced English strings (especially `syncedEnglishResearchStrings`) still override translations.json for cycle-facing research keys `research.copy` and `research.point9`.
+3. Before the next content-facing round, add one short entry in this section if any locale route-action keys regress outside English, and fix them before opening the next book-facing handoff.
 
 ## Cycle 019 side_products follow-up (round_05_side_products)
 
