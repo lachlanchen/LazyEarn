@@ -909,3 +909,8 @@ Done when: at least 3 starter rows (one per question) are logged with `lead_resu
 - Add a mirrored 30-day study track table in `investment_pdfs/wealth-from-first-principles/wealth-from-first-principles.tex` so PDF readers receive the same execution scaffold as the markdown.
 - Add a reusable checklist variant to `references/wealth-engine/knowledge/side-products.md` so the sequence can be reused as a standalone study path.
 - Verify chapter anchors after adding `Section 11.6` in markdown are reflected in any website snippets that expose headings or section anchors.
+
+## Cycle 017 Round 4 follow-up
+- Align `investment_pdfs/wealth-from-first-principles/wealth-from-first-principles.tex` source-note text and callout styling with the new Chapter 11 study-track table; then rerun and document warning-profile change in the next build-oriented round.
+- Carry the 30-day constrained wealth study sequence into website study navigation (if a chapter-11 snippet is surfaced) using a concise action-first card format.
+- Decide whether to reduce existing underfull/overfull warnings around Chapter 11 tables by splitting very long table rows or adding shorter text variants.
