@@ -1,6 +1,6 @@
 # Next tasks
 
-Updated: 2026-04-06 (cycle_024 round_03_book_markdown)
+Updated: 2026-04-06 (cycle_024 round_04_book_tex)
 
 ## Cycle 024 question_bank follow-up (round_02_question_bank)
 
@@ -16,6 +16,11 @@ Updated: 2026-04-06 (cycle_024 round_03_book_markdown)
 2. Expand `4.2` with one historical timing footnote tying the 2008–2009 misalignment and post-2020 replacement-chain lag to irreversible ownership-control loss before next build check.
 3. Add a source-ledger source-control row for the new `4.2` study path using one of IMF or EIA/USGS sources plus a corresponding `must_not_conflate` line.
 4. Before the next review round, link one `4.2` checkpoint (`cash/control/production` clocks) to `U112` and `U114` evidence questions in `questions.md` and side-product mappings.
+
+## Cycle 024 book_tex follow-up (round_04_book_tex)
+
+1. Completed: mirrored markdown `4.2 Why time matters` in `investment_pdfs/wealth-from-first-principles/wealth-from-first-principles.tex` with the three-clock framework, decision ladder, and study-path checkpoint list.
+2. Next: track warning-density deltas for Chapter 4 during the next build round and only tune typography there if the new section materially increases warning volume.
 
 ## Cycle 024 review_and_next_tasks follow-up (round_01_resource_scan)
 
