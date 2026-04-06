@@ -2,6 +2,12 @@
 
 Updated: 2026-04-06 (cycle_017 round_05_side_products)
 
+## Cycle 017 readme_sync follow-up (round_06_readme_sync)
+
+1. Before the next markdown or website update, run a one-line check that `README.md` and `docs/index.html` route/cycle labels match `cycle_017` state and the same active method artifacts (`CHM-6`, `chapter-evidence-map`, source-ledger coverage).
+2. Keep this README section list synchronized with any new chapter-facing mechanism additions by adding a `Book sync highlights (cycle_0xx)` entry for each cycle handoff.
+3. In the next round, add a short entry to `references/wealth-engine/cycles/cycle_017/...` noting whether website-facing research guidance and the README reader pathway remained in sync.
+
 ## Cycle 017 resource scan follow-up (round_01_resource_scan)
 
 1. Convert the top-priority Cycle 17 resources into source-ready evidence anchors before the next chapter-facing edit:

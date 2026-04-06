@@ -19,11 +19,19 @@ Localization scope split (synced for this round):
 [![i18n](https://img.shields.io/badge/i18n-9%20languages-f59e0b)](#configuration)
 [![Mode](https://img.shields.io/badge/Mode-Static%20Frontend-10b981?logo=javascript&logoColor=white)](#overview)
 
-Last synced to mission cycle: **cycle_016** (`2026-04-06`).
+Last synced to mission cycle: **cycle_017** (`2026-04-06`).
 
-Earn.lazying.art is a source-aware repository for people who want deeper, practical understanding of money, wealth, ownership, and long-horizon financial resilience. The research layer now centers on mechanism-first questions: what money is, where wealth comes from, who captures it, why outcomes diverge, and how to distinguish temporary opportunity from durable advantage.
+Earn.lazying.art is a source-aware, mechanism-first repository for people building clear mental models of money, wealth, ownership, and long-horizon financial resilience.
 
-The public language layer still includes **Lazy Money**, **Lazy Earn**, and **Earn From Scratch**, while the core content emphasizes evidence, mechanisms, and decision quality.
+The repository keeps a single claim pipeline through shared artifacts:
+
+- `investment/wealth-from-first-principles.md` for readable explanation
+- `investment_pdfs/wealth-from-first-principles/wealth-from-first-principles.tex` for reference-grade structure
+- `investment_pdfs/wealth-from-first-principles/wealth-from-first-principles.pdf` for publishable output
+- `docs/index.html` + `docs/translations.json` for public discovery and route wiring
+- `references/wealth-engine/` for operating memory (`mission`, methods, source ledger, and side-products)
+
+The public language layer still includes **Lazy Money**, **Lazy Earn**, and **Earn From Scratch**, while core content emphasizes evidence, mechanism, and decision quality.
 
 > _“Build less. Live more.”_ — LazyEarn ethos
 
@@ -50,22 +58,22 @@ LazyEarn is a static GitHub Pages-oriented project with two major parts:
 
 Primary production domain (from `docs/CNAME`): `earn.lazying.art`.
 
-### Cycle_016 operating focus
+### Cycle_017 operating focus
 
 - Keep mechanism design and evidence discipline aligned across:
   - `investment/wealth-from-first-principles.md`
   - `investment_pdfs/wealth-from-first-principles/wealth-from-first-principles.tex`
   - `references/wealth-engine/knowledge/` side assets
-- Keep the chapter 9 irreversibility and transmission work synchronized across markdown and TeX.
+- Keep chapter 9 mechanism work synchronized across markdown, TeX, and route-ready summaries.
 - Apply chapter-level evidence mapping before each reader-facing handoff.
-- Use `CHM-6` to keep chapter-level claims linked to questions, sources, and decision implications before major edits.
-- Preserve one shared research contract for the public site and reader-facing outputs through small, reviewable rounds.
+- Use `CHM-6` to keep chapter-level claims linked to questions, sources, and decision implications in each major edit.
+- Keep README language, method IDs, and route guidance coherent with website copy.
 
 ## 🧭 Vision and philosophy
 
-- **Circle the flow before the work**: draft the highest-quality income loop, then add only the tasks that keep it running.
-- **Design like a gallery**: glassy cards, soft gradients, and calm motion so planning money feels intentional.
-- **Curate research as a lounge drop**: reports are written to be readable in both narrative and decision format.
+- **Mechanism before systems**: define money, ownership, and control channels before selecting tactics.
+- **Evidence before recommendation**: every claim is connected to explicit source quality and interpretation boundaries.
+- **Actionable decision framing**: each section should separate temporary signal from durable control.
 
 ## ✨ Features
 
@@ -86,6 +94,15 @@ Primary production domain (from `docs/CNAME`): `earn.lazying.art`.
 - A codex-driven wealth refinery loop with a question bank, methods playbook, side-product catalog, and source ledger.
 - PDF viewer routing via hash/query (`#high-growth`, `#financial-freedom`, `?file=financial-freedom-zh`, etc.).
 - GitHub Pages-compatible static distribution with no build step for the website shell.
+
+## 🧭 Reader pathways
+
+- Start with `investment/wealth-from-first-principles.md`.
+- Use `docs/index.html` → Research Drop for the same guide in HTML + PDF route form.
+- Validate active methods and open follow-ups in:
+  - `references/wealth-engine/knowledge/methods.md`
+  - `references/wealth-engine/knowledge/chapter-evidence-map.md` (when present)
+  - `references/wealth-engine/next-tasks.md`.
 
 ## 🧠 Why this repository exists
 
@@ -296,6 +313,19 @@ Narrative rundowns for AI, biotech, semiconductors, clean energy, and cloud.
   - reduce claim drift between markdown and TeX before each structural handoff,
   - keep high-impact section claims tied to explicit falsifiers and decision implication rules,
   - and make chapter 9 `9.10`–`9.11.4` updates auditable via a shared evidence ledger.
+
+## 🔁 Book sync highlights (cycle_017)
+
+- Added a README synchronization checkpoint so the public repo index matches the current mission-cycle state and active method stack:
+  - `cycle_017` state text,
+  - chapter evidence workflow references,
+  - and reader pathway framing for book and publication outputs.
+- Confirmed website-facing language blocks in `README` now explicitly point to:
+  - shared source-and-method artifacts under `references/wealth-engine/`,
+  - and the same research pipeline used by `docs/index.html` + `docs/translations.json`.
+- Practical purpose:
+  - reduce copy drift between docs, book scope notes, and operational loop records,
+  - keep readers aligned on what changed and where the evidence gate sits before the next editing handoff.
 
 ## 🧪 Wealth refinery loop
 
