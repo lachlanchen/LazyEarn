@@ -1,6 +1,14 @@
 # Next tasks
 
-Updated: 2026-04-06 (cycle_020 round_05_side_products)
+Updated: 2026-04-06 (cycle_020 round_06_readme_sync)
+
+## Cycle 020 readme_sync follow-up (round_06_readme_sync)
+
+1. Keep `README.md` and the website runtime cycle label aligned once this round's cycle_020 highlights are committed.
+2. Track website copy drift explicitly:
+   - if `docs/index.html`/`docs/script.js`/`docs/translations.json` still report `Cycle_019`, add one short remediation line and resolve it before the next content-facing handoff.
+3. Keep `Book sync highlights` entries constrained to material reader-facing updates only (for this round: `9.11.5` and its TeX/source-note linkage).
+4. Record the date this sync completes in the next readme/website cycle note pair.
 
 ## Cycle 020 book_tex follow-up (round_04_book_tex)
 

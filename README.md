@@ -19,7 +19,7 @@ Localization scope split (synced for this round):
 [![i18n](https://img.shields.io/badge/i18n-9%20languages-f59e0b)](#configuration)
 [![Mode](https://img.shields.io/badge/Mode-Static%20Frontend-10b981?logo=javascript&logoColor=white)](#overview)
 
-Last synced to mission cycle: **cycle_019** (`2026-04-06`).
+Last synced to mission cycle: **cycle_020** (`2026-04-06`).
 
 Earn.lazying.art is a source-aware, mechanism-first repository for people building clear mental models of money, wealth, ownership, and long-horizon financial resilience.
 
@@ -72,6 +72,13 @@ LazyEarn is a static GitHub Pages-oriented project with two major parts:
 2. A research pipeline using Markdown source briefs in `investment/` and compiled LaTeX/PDF artifacts in `investment_pdfs/` (also mirrored to `docs/investment_pdfs/` for web delivery).
 
 Primary production domain (from `docs/CNAME`): `earn.lazying.art`.
+
+### Cycle_020 operating focus
+
+- Consolidate documentation after the `9.11.5` historical mechanism work introduced in this cycle.
+- Keep the readme and `references/wealth-engine/next-tasks.md` aligned on the current active questions and evidence-readiness tasks (`U80`+ block, `U86` comparator follow-up).
+- Confirm website-facing cycle messaging remains coherent in the next `website_sync` round.
+- No markdown/TeX/PDF content edits were made in this readme-only sync round.
 
 ### Cycle_019 operating focus
 
@@ -361,6 +368,18 @@ Narrative rundowns for AI, biotech, semiconductors, clean energy, and cloud.
 - Practical purpose:
   - reduce copy drift between docs, book scope notes, and operational loop records,
   - keep readers aligned on what changed and where the evidence gate sits before the next editing handoff.
+
+## 🔁 Book sync highlights (cycle_020)
+
+- Added a historical mechanism block in the main guide:
+  - `9.11.5 Historical mechanism case: 1930–33 banking contraction and the ownership lag`.
+- Mirrored that same mechanism into TeX with source-note upgrades in
+  `investment_pdfs/wealth-from-first-principles/wealth-from-first-principles.tex`.
+- Added explicit source-backed links in the chapter references:
+  - Federal Reserve History `bank-holidays`
+  - Federal Reserve History `the-great-depression-and-its-aftermath`
+- Practical purpose:
+  - strengthen the mechanism/evidence bridge for constrained wealth claims and keep the historical comparator path ready for `U86` evidence mapping.
 
 ## 🔁 Book sync highlights (cycle_018)
 
