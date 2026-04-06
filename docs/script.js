@@ -202,6 +202,9 @@ const pdfEntries = {
     descriptionKey: "research.asset1Desc",
     routeGuide: {
       introKey: "research.routeIntro",
+      actionKey: "research.routeAction",
+      actionHref:
+        "https://github.com/lachlanchen/LazyEarn/blob/main/references/wealth-engine/knowledge/constrained-wealth-30-day-sprint.md",
       stepKeys: [
         "research.routeStep1",
         "research.routeStep2",
@@ -642,6 +645,7 @@ function setupResearchCatalog() {
     const markdownEl = card.querySelector('[data-research-link="markdown"]');
     const routeIntroEl = card.querySelector('[data-i18n="research.routeIntro"]');
     const routeListEl = card.querySelector(".route-list");
+    const routeActionEl = card.querySelector('[data-research-link="route-action"]');
 
     if (downloadEl) {
       downloadEl.setAttribute("href", entry.download || entry.pdf);
@@ -677,6 +681,16 @@ function setupResearchCatalog() {
         li.textContent = getString(currentLanguage, stepKey) || stepKey;
         routeListEl.appendChild(li);
       });
+    }
+    if (routeActionEl && entry.routeGuide?.actionKey) {
+      const actionLabel = getString(currentLanguage, entry.routeGuide.actionKey);
+      if (actionLabel) {
+        routeActionEl.textContent = actionLabel;
+        routeActionEl.setAttribute("data-i18n", entry.routeGuide.actionKey);
+      }
+      if (entry.routeGuide.actionHref) {
+        routeActionEl.setAttribute("href", entry.routeGuide.actionHref);
+      }
     }
   });
 

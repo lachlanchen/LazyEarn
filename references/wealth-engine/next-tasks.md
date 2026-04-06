@@ -17,8 +17,9 @@ Updated: 2026-04-06 (cycle_018 round_01_resource_scan)
    - `research.routeStep1` through `research.routeStep7`,
    - `research.routeTitle`,
    - route wiring through `pdfEntries["wealth-from-first-principles"].routeGuide`.
-2. Add localized `research.routeStep7` and `research.routeTitle` entries for non-English locales once translation parity work resumes; keep this until all locales render step 7 without English fallback.
+2. Add localized `research.routeStep7` and `research.routeTitle` entries for all non-English locales so step 7 renders without English fallback; completed in round_08 and should be re-checked with one locale smoke test each round.
 3. Keep `README.md` route-cycle status text current after each website sync so there is no stale cycle mismatch in the mission-facing narrative.
+4. Keep `research.routeAction` parity in non-English locales and connect any catalog-driven route actions through `pdfEntries[...]` rather than hard-coded card text.
 
 ## Cycle 018 resource_scan follow-up (round_01_resource_scan)
 
