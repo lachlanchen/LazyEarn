@@ -66,7 +66,7 @@ Primary production domain (from `docs/CNAME`): `earn.lazying.art`.
   - `references/wealth-engine/knowledge/side-products.md`,
   - `references/wealth-engine/knowledge/constrained-wealth-30-day-sprint.md`.
 - Keep README claims tied to explicit cycle state and avoid implying chapter/PDF structural changes that are not yet made.
-- Current website-facing research-cycle language in `docs/index.html` remains at cycle_017; README records this as an active sync status note until the next website round.
+- Research-cycle language in `docs/index.html` is now aligned to `cycle_018`, including the 30D-SW constrained-wealth execution framing and Chapter 9 route gating.
 - Practical purpose:
   - convert mechanism insights into timed, reversible action routines;
   - keep readers aligned between evidence framing, method gates, and operational study tracks.

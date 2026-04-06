@@ -11,6 +11,15 @@ Updated: 2026-04-06 (cycle_018 round_01_resource_scan)
    - `knowledge/side-products.md` shows sprint as active,
    - sprint content is referenced in any next-cycle markdown/TeX sync notes if used operationally.
 
+## Cycle 018 website_sync follow-up (round_07_website_sync)
+
+1. Confirm the new wealth-route sequence includes 7 items in `docs/index.html`, `docs/script.js`, and `docs/translations.json` before the next website-facing handoff:
+   - `research.routeStep1` through `research.routeStep7`,
+   - `research.routeTitle`,
+   - route wiring through `pdfEntries["wealth-from-first-principles"].routeGuide`.
+2. Add localized `research.routeStep7` and `research.routeTitle` entries for non-English locales once translation parity work resumes; keep this until all locales render step 7 without English fallback.
+3. Keep `README.md` route-cycle status text current after each website sync so there is no stale cycle mismatch in the mission-facing narrative.
+
 ## Cycle 018 resource_scan follow-up (round_01_resource_scan)
 
 1. Add a compact non-U.S. comparison passage in section 9 using 2025–2026 Bank of England policy and financial-stability materials before the next markdown expansion.
