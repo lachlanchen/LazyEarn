@@ -19,7 +19,7 @@ Localization scope split (synced for this round):
 [![i18n](https://img.shields.io/badge/i18n-9%20languages-f59e0b)](#configuration)
 [![Mode](https://img.shields.io/badge/Mode-Static%20Frontend-10b981?logo=javascript&logoColor=white)](#overview)
 
-Last synced to mission cycle: **cycle_020** (`2026-04-06`).
+Last synced to mission cycle: **cycle_021** (`2026-04-06`).
 
 Earn.lazying.art is a source-aware, mechanism-first repository for people building clear mental models of money, wealth, ownership, and long-horizon financial resilience.
 
@@ -72,6 +72,17 @@ LazyEarn is a static GitHub Pages-oriented project with two major parts:
 2. A research pipeline using Markdown source briefs in `investment/` and compiled LaTeX/PDF artifacts in `investment_pdfs/` (also mirrored to `docs/investment_pdfs/` for web delivery).
 
 Primary production domain (from `docs/CNAME`): `earn.lazying.art`.
+
+### Cycle_021 operating focus
+
+- Confirm README and website-facing core research messaging are aligned to the active cycle.
+- Keep the reader route and evidence-output map centered on the Chapter 9 historical mechanism chain:
+  - `9.10` through `9.11.5`
+  - `HCT-6` constrained-vs-countercase checks
+  - `CHM-6` evidence mapping
+  - `30D-SW` constrained-wealth execution checks
+- Keep `investment/wealth-from-first-principles.md`, `investment_pdfs/wealth-from-first-principles/wealth-from-first-principles.tex`, and `investment_pdfs/wealth-from-first-principles/wealth-from-first-principles.pdf` in cycle-sync with website routes.
+- No markdown/TeX/PDF content edits were made in this readme-only sync round.
 
 ### Cycle_020 operating focus
 

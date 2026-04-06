@@ -2,6 +2,10 @@
 
 Updated: 2026-04-06 (cycle_021 round_04_book_tex)
 
+## Cycle 021 readme_sync follow-up (round_06_readme_sync)
+
+1. Align non-English `docs/translations.json` entries for `research.copy` and `research.point9` with the current `cycle_021` English runtime narrative after this readme sync.
+
 ## Cycle 021 side_products follow-up (round_05_side_products)
 
 1. Run `SPH-6` immediately and complete the new `knowledge/side-product-audit-checklist.md` pre-flight rows.
