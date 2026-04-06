@@ -999,3 +999,9 @@ Done when: at least 3 starter rows (one per question) are logged with `lead_resu
 1. Mirror the new `Section 3.4` timing framework into `investment_pdfs/wealth-from-first-principles/wealth-from-first-principles.tex` in the next book-tex round, including the three-window table structure.
 2. Add one forward-reference from Section 9.* (`Constraint-first`/`decision map` area) back to `3.4` so the sequence is reused during later reviews.
 3. Add a concise reader-facing source note under section 12 for the new "first-mile sequencing" logic if wording shifts from macro-only phrasing.
+
+## Cycle 018 Book-TeX follow-up (round_04_book_tex)
+
+1. Add a dedicated `\label` and/or mini-cross-reference for the new section 3.4 so later decision chapters can point explicitly to the first-mile sequencing ladder.
+2. Reduce any new warning pressure around the new table if needed (prefer line-break-safe compact wording before structural refactors).
+3. Decide whether `window 0 / window 1 / window 2` ladder should be elevated into a reusable macro for future section repeats in the document.
