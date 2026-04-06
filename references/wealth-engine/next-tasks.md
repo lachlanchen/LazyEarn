@@ -1,6 +1,12 @@
 # Next tasks
 
-Updated: 2026-04-06 (cycle_019 round_05_side_products)
+Updated: 2026-04-06 (cycle_019 round_06_readme_sync)
+
+## Cycle 019 readme_sync follow-up (round_06_readme_sync)
+
+1. After any future docs or route-copy edit, re-check that `README.md` and `docs/index.html` cycle status text stay coherent.
+2. In the next content-facing round, keep the `Book sync highlights` section limited to artifact changes that were actually made (for example markdown/TeX updates vs. sync text updates).
+3. Keep the summary file for `cycle_019/round_06_readme_sync` as the source of record for what was synced and what remained pending.
 
 ## Cycle 019 side_products follow-up (round_05_side_products)
 

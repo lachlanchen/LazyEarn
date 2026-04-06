@@ -19,7 +19,7 @@ Localization scope split (synced for this round):
 [![i18n](https://img.shields.io/badge/i18n-9%20languages-f59e0b)](#configuration)
 [![Mode](https://img.shields.io/badge/Mode-Static%20Frontend-10b981?logo=javascript&logoColor=white)](#overview)
 
-Last synced to mission cycle: **cycle_018** (`2026-04-06`).
+Last synced to mission cycle: **cycle_019** (`2026-04-06`).
 
 Earn.lazying.art is a source-aware, mechanism-first repository for people building clear mental models of money, wealth, ownership, and long-horizon financial resilience.
 
@@ -34,6 +34,21 @@ The repository keeps a single claim pipeline through shared artifacts:
 The public language layer still includes **Lazy Money**, **Lazy Earn**, and **Earn From Scratch**, while core content emphasizes evidence, mechanism, and decision quality.
 
 > _“Build less. Live more.”_ — LazyEarn ethos
+
+## 🧭 Mission and operating method
+
+LazyEarn is a source-aware, mechanism-first pipeline for money and wealth education. It keeps three things in one loop:
+
+1. A clear mission model (money, wealth, ownership, and durable control).
+2. Reusable methods and side-products in `references/wealth-engine/knowledge/` (`methods`, `question-bank`, `source-ledger`, `chapter-evidence-map`, `next-tasks`).
+3. One canonical book draft plus publish outputs in `investment/` and `investment_pdfs/`, then route those outputs through `docs/`.
+
+When a new mechanism or source is added, evidence and delivery should move in this order:
+
+- Validate method/evidence in `references/wealth-engine/knowledge/`.
+- Reflect the same mechanism in `investment/wealth-from-first-principles.md`.
+- Mirror it in `investment_pdfs/wealth-from-first-principles/wealth-from-first-principles.tex`.
+- Keep public exposure aligned in `docs/index.html`, `docs/script.js`, and `docs/translations.json`.
 
 ## 🗂️ Snapshot map
 
@@ -57,6 +72,13 @@ LazyEarn is a static GitHub Pages-oriented project with two major parts:
 2. A research pipeline using Markdown source briefs in `investment/` and compiled LaTeX/PDF artifacts in `investment_pdfs/` (also mirrored to `docs/investment_pdfs/` for web delivery).
 
 Primary production domain (from `docs/CNAME`): `earn.lazying.art`.
+
+### Cycle_019 operating focus
+
+- Keep this round aligned to documentation-facing sync quality across mission, methods, and output surfaces.
+- Make the README explicitly show the current cycle, the active method artifacts, and the book/output chain.
+- Confirm website research-copy and routing language remain consistent with what is currently documented in this README.
+- No markdown/TeX/PDF content edits were made in this readme-only sync round.
 
 ### Cycle_018 operating focus
 
