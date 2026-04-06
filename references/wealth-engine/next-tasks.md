@@ -1,6 +1,6 @@
 # Next tasks
 
-Updated: 2026-04-06 (cycle_016 round_05_side_products)
+Updated: 2026-04-06 (cycle_016 round_06_readme_sync)
 
 ## Cycle 016 side-products follow-up (round_05_side_products)
 
@@ -14,6 +14,21 @@ Updated: 2026-04-06 (cycle_016 round_05_side_products)
    - `9.11.4 Irreversibility gate for durable wealth decisions` is tagged to `U67` and `U69`,
    - reversible/irreversible language remains consistent between markdown and TeX.
 4. Add at least one `must_not_conflate` row to the map before each future chapter-facing edit, and set `next_review` to the next evidence window.
+
+## Cycle 016 readme_sync follow-up (round_06_readme_sync)
+
+1. Keep README cycle state and chapter-evidence scope synchronized after each chapter-facing handoff:
+   - `references/wealth-engine/knowledge/methods.md` lists `CHM-6`.
+   - `references/wealth-engine/knowledge/chapter-evidence-map.md` is called out as an active artifact with `cadence_owner` and `next_review`.
+   - README captures the cycle_016 evidence-map work in the book-sync highlights section.
+2. Keep method-state and side-product scope identical across:
+   - `README.md`,
+   - `references/wealth-engine/knowledge/side-products.md`,
+   - `next-tasks.md` entries for cycle 016.
+   Done when all three surfaces reflect the same active artifact list before the next markdown/TeX pass.
+3. Add a reader-facing follow-up note if chapter 9 expands beyond seeded map rows:
+   - update `chapter-evidence-map.md` coverage in the next README cycle_016+ section before the next markdown pass.
+   - include one note on what changed in the new row.
 
 ## Cycle 016 book-tex follow-up (round_04_book_tex)
 

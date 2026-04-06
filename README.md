@@ -19,7 +19,7 @@ Localization scope split (synced for this round):
 [![i18n](https://img.shields.io/badge/i18n-9%20languages-f59e0b)](#configuration)
 [![Mode](https://img.shields.io/badge/Mode-Static%20Frontend-10b981?logo=javascript&logoColor=white)](#overview)
 
-Last synced to mission cycle: **cycle_015** (`2026-04-06`).
+Last synced to mission cycle: **cycle_016** (`2026-04-06`).
 
 Earn.lazying.art is a source-aware repository for people who want deeper, practical understanding of money, wealth, ownership, and long-horizon financial resilience. The research layer now centers on mechanism-first questions: what money is, where wealth comes from, who captures it, why outcomes diverge, and how to distinguish temporary opportunity from durable advantage.
 
@@ -39,6 +39,7 @@ The public language layer still includes **Lazy Money**, **Lazy Earn**, and **Ea
 | `figs/` | Brand assets | Visual identity and banner references |
 | `i18n/` | Translated README files | Multilingual repository entry points |
 | `references/wealth-engine/knowledge/historical-transmission-countercase.md` | Historical constrained-vs-countercase ledger | Supports chapter 9 mechanism transfer rules and reversibility checks |
+| `references/wealth-engine/knowledge/chapter-evidence-map.md` | Chapter-level claim and evidence map | Keeps high-impact chapter claims tied to questions, source state, and decision implications |
 
 ## 🧭 Overview
 
@@ -49,13 +50,15 @@ LazyEarn is a static GitHub Pages-oriented project with two major parts:
 
 Primary production domain (from `docs/CNAME`): `earn.lazying.art`.
 
-### Cycle_015 operating focus
+### Cycle_016 operating focus
 
 - Keep mechanism design and evidence discipline aligned across:
   - `investment/wealth-from-first-principles.md`
   - `investment_pdfs/wealth-from-first-principles/wealth-from-first-principles.tex`
   - `references/wealth-engine/knowledge/` side assets
-- Emphasize constrained transmission thinking, reversibility, and real-capacity limits before leverage recommendations.
+- Keep the chapter 9 irreversibility and transmission work synchronized across markdown and TeX.
+- Apply chapter-level evidence mapping before each reader-facing handoff.
+- Use `CHM-6` to keep chapter-level claims linked to questions, sources, and decision implications before major edits.
 - Preserve one shared research contract for the public site and reader-facing outputs through small, reviewable rounds.
 
 ## 🧭 Vision and philosophy
@@ -282,6 +285,18 @@ Narrative rundowns for AI, biotech, semiconductors, clean energy, and cloud.
   - enforce reversibility and falsifier gates before allocation claims,
   - and keep chapter surfaces and operational notes aligned by method tag.
 
+## 🔁 Book sync highlights (cycle_016)
+
+- Added a new chapter-level evidence discipline in the cycle_016 materials:
+  - `CHM-6` in `references/wealth-engine/knowledge/methods.md`.
+- Added a chapter evidence map artifact:
+  - `references/wealth-engine/knowledge/chapter-evidence-map.md` (seeded with chapter 9 claims and `question_id` mappings).
+- Added chapter-evidence-map scope to the side-products catalog so the same mapping is discoverable as a reader-facing QA product.
+- Practical purpose:
+  - reduce claim drift between markdown and TeX before each structural handoff,
+  - keep high-impact section claims tied to explicit falsifiers and decision implication rules,
+  - and make chapter 9 `9.10`–`9.11.4` updates auditable via a shared evidence ledger.
+
 ## 🧪 Wealth refinery loop
 
 The repository now carries a durable research loop so book, PDF, README, and site copy can evolve with traceable methods.
@@ -292,7 +307,7 @@ The repository now carries a durable research loop so book, PDF, README, and sit
 | Source map | `references/wealth-engine/knowledge/resource-map.md` | Curated source families and selection logic |
 | Source ledger | `references/wealth-engine/knowledge/source-ledger.tsv` | Date-stamped source entries with notes |
 | Question bank | `references/wealth-engine/knowledge/question-bank.md` | Tiered research questions and distinctions |
-| Methods playbook | `references/wealth-engine/knowledge/methods.md` | Question -> evidence -> claim process, SQ-5 rubric, and execution methods (`QE-5`, `HS-8`, `LL-6`, `EV-7`, `DP-5`, `RC-6`, `CC-7`, `EP-6`, `CAB-9`, `CAS-10`, `HC-5`, `HCT-6`) |
+| Methods playbook | `references/wealth-engine/knowledge/methods.md` | Question -> evidence -> claim process, SQ-5 rubric, and execution methods (`QE-5`, `HS-8`, `LL-6`, `EV-7`, `DP-5`, `RC-6`, `CC-7`, `EP-6`, `CAB-9`, `CAS-10`, `HCT-6`, `CHM-6`) |
 | Daily prompts pack | `references/wealth-engine/knowledge/daily-prompts.md` | 14-day question-linked study prompts plus logging template |
 | Side-products catalog | `references/wealth-engine/knowledge/side-products.md` | Checklists, prompt packs, and planned study artifacts |
 | Round outputs | `references/wealth-engine/cycles/` | Per-round notes, findings, and summaries |
@@ -317,11 +332,14 @@ Current method signals (synced with the main book):
 - `CDL-6` method for cycle_012 debt-throughput decision mapping (`U53`-`U58`) across `liquidity`, `access`, `valuation`, `burden`, and `throughput` signals.
 - `HC-5` method for historical-case conversion (`historical evidence to reusable mechanism rows`).
 - `HCT-6` method for historical constrained-vs-countercase transmission testing (newly added in round_05 side-products).
+- `CHM-6` method for chapter claim evidence mapping (question-to-claim-to-source-to-decision).
 - `SP-6` method for study-path design and side-product sequencing, including decision checkpoints and failure-mode control.
 
 ### Next side-product builds (already scoped)
 
-- Active now: `references/wealth-engine/knowledge/study-paths.md` (new cycle_013 learning-route artifact).
+- Active now:
+  - `references/wealth-engine/knowledge/study-paths.md` (new cycle_013 learning-route artifact),
+  - `references/wealth-engine/knowledge/chapter-evidence-map.md` (new cycle_016 chapter-evidence audit artifact).
 
 | Artifact | Why it matters | Minimum schema |
 | --- | --- | --- |
@@ -329,6 +347,7 @@ Current method signals (synced with the main book):
 | `references/wealth-engine/knowledge/household-stress-watchlist.md` | Turns macro/credit stress signals into a repeatable monitoring routine. | `signal`, `source`, `series_or_table`, `frequency`, `lead_or_lag`, `risk_read` |
 | `references/wealth-engine/knowledge/signal-lead-lag-matrix.md` | Forces explicit timing tests for questions where ordering matters (`U7`, `U9`). | `question_id`, `target_outcome`, `candidate_signal`, `source`, `frequency`, `tested_lag_window`, `observed_lead_periods`, `consistency_score`, `false_signal_note`, `action_rule` |
 | `references/wealth-engine/knowledge/historical-case-ledger.md` | Converts major episodes into reusable decision-facing case rows for chapters and cycle_011 questions. | `case_id`, `episode`, `date_range`, `actors_or_institutions`, `question_it_helps`, `mechanism`, `what_it_does_not_prove`, `source_1`, `source_2`, `decision_use` |
+| `references/wealth-engine/knowledge/chapter-evidence-map.md` | Maps high-impact chapter claims to questions, source state, mechanism notes, and decision implications for auditable chapter updates. | `chapter`, `book_heading`, `claim_id`, `question_id`, `fallback_anchor`, `distinction`, `mechanism`, `source_family`, `source_anchor`, `source_state`, `falsifier`, `must_not_conflate`, `decision_use`, `next_review`, `cadence_owner` |
 | `references/wealth-engine/knowledge/revision-aware-capacity-checklist.md` | Prevents false confidence from headline credit growth by combining revision guardrails with capacity/throughput rails (`U21`-`U25`). | `question_id`, `window`, `credit_pulse_signal`, `series_version_note`, `capacity_signal`, `throughput_signal`, `regime_class`, `decision_use`, `caveat` |
 | `references/wealth-engine/knowledge/cycle-clock-lead-lag-panel.md` | Aligns liquidity/conditions/flow signals into one testable timing panel for cycle_007 questions (`U26`, `U27`, `U29`). | `question_id`, `signal`, `source`, `release_cadence`, `lag_test_window`, `target_outcome`, `lead_result`, `false_signal_note`, `action_rule` |
 | `references/wealth-engine/knowledge/entry-and-property-price-pulse.md` | Keeps entry, durability, valuation, and liquidity signals separate before broad access claims (`U31`-`U35`). | `signal`, `source`, `frequency`, `last_release`, `next_release`, `question_id`, `decision_use` |
