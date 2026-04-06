@@ -1,7 +1,7 @@
 # Question Bank
 
 Updated: 2026-04-06  
-Seed round: cycle_019 / round_02_question_bank
+Seed round: cycle_024 / round_02_question_bank
 
 ## Distinctions to protect
 
@@ -54,6 +54,30 @@ Seed round: cycle_019 / round_02_question_bank
 | Physical constraint signal vs finance signal | Capacity bottlenecks can move wealth through a different lag than balance-sheet liquidity. |
 | Production bottleneck lag vs credit-cycle speed | Financial easing can look strong before real throughput restores output or employment. |
 | Agency-preserving ownership vs passive exposure | Durable wealth requires ownership rights and control, not just exposure to asset price movement. |
+
+## Unanswered priority questions (cycle_024 sharpen pass)
+
+| ID | Sharpened question | What must be distinguished | What would falsify the working hypothesis | First evidence pull |
+| --- | --- | --- | --- | --- |
+| U110 | In a liquidity-expansion window, which household and business channels receive net money-creation first: mortgage credit, consumer credit, or business/real-capital credit? | New money stock growth vs channel-specific allocation to new-asset ownership pathways | Channel ranking shows no consistent sequence advantage and no channel translates into faster first-owner claims | Fed H.6, Fed H.8, Fed G.19, HMDA modified LAR, Fed Z.1 |
+| U111 | How much of observed wealth concentration is durable ownership transfer versus mark-to-market revaluation in each major cycle window? | Ownership gain via transfer of control rights vs valuation-only gain | Participation and durable ownership measures rise at the same pace as top-tail net worth gains for all cohorts | Fed DFA, SCF, Census wealth tables, SEC beneficial-owner disclosures |
+| U112 | Where is the leverage point at which debt moves from productive leverage to fragility for different income and age cohorts? | Linear leverage accumulation vs nonlinear collapse thresholds | A single leverage rule predicts outcomes equally well across age-income tiers and stress regimes | Fed DSR/FOR, CFPB Making Ends Meet, CFPB card report, FDIC charge-off and failure statistics |
+| U113 | Does inequality drift stem more from participation denial (who can own) or valuation channeling (who can ride repricing)? | Entry exclusion vs valuation concentration | Entry and owner-control metrics remain flat while concentration metrics rise and then are interpreted as durable progress | Fed DFA, WID, OECD IDD/WDD, SCF, IRS SOI |
+| U114 | Which stress markers are reversible and which are irreversible for durable wealth and control (for example temporary payment stress vs ownership lockout)? | Volatility stress vs irreversible ownership-loss risk | Reversible and irreversible markers are not separable once release timing is aligned to stress windows | CFPB Consumer Credit Trends, CFPB Making Ends Meet, HMDA modified LAR, Fed DSR/FOR |
+| U115 | In throughput-constrained periods (energy, logistics, replacement bottlenecks), which wealth-building methods preserve autonomy and optionality? | Financial optimization without physical throughput vs production-aware compounding | Constrained periods do not change method ranking after throughput indicators and debt-service outcomes are controlled | IEA STEO, USGS Mineral Commodity Summaries, EIA STEO/MER, BEA fixed assets |
+| U116 | Which historical turning-point chain best predicts present-day transmission breakpoints: Great Depression bank run sequence, 1973-74 oil shock transmission, or 2008 crisis regime? | Historical analog validity vs structural uniqueness | No chain reproduces both channel-order and ownership impact in two modern windows | Federal Reserve History (Bank Holiday, 1933), BIS annual report archives, IMF Financial Stability Monitor |
+| U117 | What philosophical gate should switch strategy from volatility-capture to ownership-resilience when physical or institutional constraint depth is high? | Efficiency-first framing vs autonomy-first framing | Strategy quality remains unchanged when constraint depth crosses a measured threshold | IADI Core Principles, OECD IDD/WDD, BLS and BEA real economy throughput summaries |
+
+## Evidence gates for cycle_024 unanswered set
+
+- `U110`: require channel-level disaggregation plus release-aware timing between credit-creation aggregates and owner-entry proxies in at least two windows.
+- `U111`: require parallel control-rights indicators and valuation-only indicators for each concentration move before classifying durable ownership gains.
+- `U112`: require debt burden, liquidity coverage, and stress outcome splits by income and age before raising any cohort-level leverage threshold.
+- `U113`: require explicit decomposition into participation, valuation, and control-share components before drawing inequality conclusions.
+- `U114`: require one reversible marker (payment delay, temporary delinq) and one irreversible marker (foreclosure, account termination, denied underwriting) in each stress window.
+- `U115`: require at least one throughput indicator (energy/logistics) and one debt-service/autonomy indicator before recommending scaling methods in constrained windows.
+- `U116`: require one archival comparator and one modern release-aligned episode before generalizing historical sequence claims.
+- `U117`: require one explicit stop condition linking constraint depth to strategy-switch timing in methods or side-product implementation notes.
 
 ## Tier 1 questions (highest priority)
 

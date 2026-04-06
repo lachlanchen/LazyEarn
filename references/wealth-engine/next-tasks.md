@@ -1,6 +1,14 @@
 # Next tasks
 
-Updated: 2026-04-06 (cycle_024 round_01_resource_scan)
+Updated: 2026-04-06 (cycle_024 round_02_question_bank)
+
+## Cycle 024 question_bank follow-up (round_02_question_bank)
+
+1. Move `U110`-`U117` from exploratory notes into chapter-facing evidence-control artifacts before the next markdown pass.
+2. In `knowledge/side-products.md` and/or `knowledge/methods.md`, add `falsifier`, `must_not_conflate`, and `decision_use` entries for `U110`, `U111`, and `U112`.
+3. Add explicit non-U.S. comparator rows (for example BoJ/Norway) before transferring `U116` claims from historical sequences into methods.
+4. For `U115` and `U117`, define one constraint-depth threshold per method so Chapter 4 and Chapter 9 can switch from leverage-first to resilience-first rules.
+5. For `U114`, add a short irreversibility check template in `knowledge/side-products.md` that requires foreclosure/control-loss confirmation before any “risk re-entry” guidance.
 
 ## Cycle 024 review_and_next_tasks follow-up (round_01_resource_scan)
 
