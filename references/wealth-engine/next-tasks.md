@@ -20,6 +20,12 @@ Updated: 2026-04-06 (cycle_019 round_07_website_sync)
 2. In the next locale pass, localize any remaining English-only `research.route*` entries in `ja`, `ko`, `vi`, `ar`, `fr`, `es` if route text should be fully localized.
 3. If additional aliases are added in `pdfEntries`, add test coverage for canonical slug and alias resolution, including `view` and `?file=` paths in `pdf-viewer.html`.
 
+## Cycle 019 build_and_verify follow-up (round_09_build_and_verify)
+
+1. Before the next build round, keep `investment_pdfs/wealth-from-first-principles/build/wealth-from-first-principles.pdf`, `investment_pdfs/wealth-from-first-principles/wealth-from-first-principles.pdf`, and `docs/investment_pdfs/wealth-from-first-principles/wealth-from-first-principles.pdf` hash-identical after successful XeLaTeX runs.
+2. If warnings are still high in the build log, do a targeted line-wrap cleanup pass before adding more table-dense material, and record `Underfull \\hbox`, `Overfull \\hbox`, and `Underfull \\vbox` counts in the next `build-notes.md` entry.
+3. Keep a short note on whether `wealth-from-first-principles` chapter content (especially section 3.5, section 9.11 blocks, and source-note appendix tables) remains visually usable in the next render pass.
+
 ## Cycle 019 side_products follow-up (round_05_side_products)
 
 1. Run one short execution pass of `SP-3` and `SP-3b` in `knowledge/study-paths.md` and mark one path state as `completed`.
