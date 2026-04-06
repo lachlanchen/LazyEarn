@@ -2,6 +2,15 @@
 
 Updated: 2026-04-06 (cycle_018 round_01_resource_scan)
 
+## Cycle 018 side-products follow-up (round_05_side_products)
+
+1. Seed `knowledge/constrained-wealth-30-day-sprint.md` with actual series IDs or table links for each 6-block row and map each block to one `question_id`.
+2. Add one small completion marker (`first_sprint_completed_on`) in `knowledge/constrained-wealth-30-day-sprint.md` after each full 30-day run.
+3. Validate that side-product metadata now remains aligned:
+   - `knowledge/methods.md` includes `30D-SW`,
+   - `knowledge/side-products.md` shows sprint as active,
+   - sprint content is referenced in any next-cycle markdown/TeX sync notes if used operationally.
+
 ## Cycle 018 resource_scan follow-up (round_01_resource_scan)
 
 1. Add a compact non-U.S. comparison passage in section 9 using 2025–2026 Bank of England policy and financial-stability materials before the next markdown expansion.

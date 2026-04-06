@@ -419,6 +419,41 @@ Quality rule:
 - A row is incomplete if it lacks either `falsifier` or `decision_use`.
 - Do not infer supply-side tightening from origination slowdown alone; require explicit intent/outcome split evidence.
 
+## 22) 30D-SW method (30-day constrained-wealth sprint)
+
+Use this method when readers need a short execution track that converts chapter 9 mechanisms into bounded weekly action.
+
+| Step | Action | Output |
+| --- | --- | --- |
+| 1 | Pick one audience stage (`survival`, `stability`, `scaling`) and lock a 30-day horizon with start/end dates. | staged sprint scope |
+| 2 | Select exactly two question IDs with high action pressure (for example `U64`-`U69`). | explicit question focus |
+| 3 | For each 5-day block, assign one source family and one mechanism from chapter 9 (`liquidity`, `access`, `valuation`, `burden`, `throughput`). | block-to-source mechanism map |
+| 4 | Define one decision action and one reversal condition per block (`reduce leverage`, `pause growth`, `raise liquidity buffer`, `upgrade skill/ownership mix`). | actionable control sequence |
+| 5 | Add one `fail_condition` and one `stop_rule` per block; if triggered, downgrade risk and hold sequence. | safety system |
+| 6 | Require one evidence-review checkpoint per block with one unresolved question note. | evidence + learning continuity |
+| 7 | End with a `continuation_rule` that requires a reversibility checkpoint before stepping into next intensity stage. | persistence-aware rollout |
+
+Minimum schema for `knowledge/constrained-wealth-30-day-sprint.md`:
+
+```text
+day_window:
+focus:
+source_family:
+primary_signal:
+action_rule:
+fail_condition:
+stop_rule:
+evidence_review_note:
+continuation_rule:
+reversibility_marker:
+```
+
+Quality guardrails:
+
+- Each block must include one reason tied to ownership durability or debt-service sustainability.
+- At least one block must include a physical constraint indicator (inventory lead time, logistics strain, infrastructure capacity, energy input, or replacement lag).
+- Do not move to block N+1 unless the prior block logs reversibility state and evidence review.
+
 ## 22) CAS-10 method (cadence-aware stress classification panel)
 
 Use this method to execute cycle_010 questions `U41`-`U45` without mixing stale and fresh signals.
