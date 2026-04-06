@@ -1,6 +1,12 @@
 # Next tasks
 
-Updated: 2026-04-06 (cycle_022 round_07_website_sync)
+Updated: 2026-04-06 (cycle_022 round_08_translation_and_catalog)
+
+## Cycle 022 translation_and_catalog follow-up (round_08_translation_and_catalog)
+
+1. Extend the locale smoke check beyond en + `zh-Hant` + `zh-Hans` to include one romanized locale (`vi`, `ko`, or `ja`) for `research.point9`, `research.point8`, `research.routeStep7`, `research.routeStep8`, and new `research.routeStep9`.
+2. Reconcile remaining `Cycle_021` references inside `docs/translations.json` research strings where they describe the active chapter route or route-step count.
+3. Keep a single canonical source for English route text in `docs/script.js` (`syncedEnglishResearchStrings`) and run a one-shot post-edit validation that `research.routeStep8/9` and `research.routeIntro` match `docs/index.html`.
 
 ## Cycle 022 website_sync follow-up (round_07_website_sync)
 
