@@ -1,6 +1,12 @@
 # Next tasks
 
-Updated: 2026-04-06 (cycle_023 round_08_translation_and_catalog)
+Updated: 2026-04-06 (cycle_023 round_09_build_and_verify)
+
+## Cycle 023 build_and_verify follow-up (round_09_build_and_verify)
+
+1. Add a script-level check that `docs/index.html` route-step fallback text for `research.routeStep8` and `research.routeStep9` matches canonical English in `docs/script.js` after route text edits.
+2. In the next build round, add a simple parity check that `wealth-from-first-principles` assets resolve in both `pdf-viewer.html#<slug>` and `pdf-viewer.html?file=<slug>` formats and that hash parity between `investment_pdfs/.../build` and both mirrored PDFs is unchanged.
+3. Continue tracking warning trend and add a small typography cleanup task only if `Underfull \\hbox` or `Overfull \\hbox` rise by more than 15% from this round.
 
 ## Cycle 023 website_sync follow-up (round_07_website_sync)
 
