@@ -101,6 +101,16 @@ Seed round: cycle_019 / round_02_question_bank
 | Capital intensification vs throughput expansion | Financial scaling without physical-constraint relief can create fragile paper wealth disconnected from real production capacity. |
 | Leverage for agency vs leverage for extraction | Borrowing that increases claim quality is qualitatively different from borrowing that only captures volatility. |
 
+## Distinctions refresh (cycle_021)
+
+| Distinction | Why it matters |
+| --- | --- |
+| First-mile channel choice vs aggregate liquidity size | A large balance-sheet expansion can still fail households if it never reaches new-owner channels. |
+| Legal control rights vs nominal net-worth claims | Net worth can rise while legal and voting/equity control remains concentrated. |
+| Access repair vs valuation repair | Temporary price rebounds can mask long-run gaps in entry, durability, and ownership transfer. |
+| Regime stress vs irreversibility | Volatility episodes can reverse; foreclosure and denial can permanently narrow future options. |
+| Throughput headroom vs financial headroom | Leverage can look abundant in finance data while physical replacement and logistics constraints still throttle durable output. |
+
 ## Unanswered priority questions (cycle_020 sharpen pass)
 
 | ID | Sharpened question | What must be distinguished | What would falsify the working hypothesis | First evidence pull |
@@ -112,6 +122,28 @@ Seed round: cycle_019 / round_02_question_bank
 | U84 | Which risk signal most robustly predicts household transition into irreversible fragility: payment burden, credit standards, or early delinquency transition? | Volatility risk vs ruin risk | The leading-signal hypothesis fails under rolling-window prediction tests after release-date adjustment | NY Fed SCE, CFPB Consumer Credit Trends, Fed DSR/FOR, FDIC bank failures |
 | U85 | In physical-constraint regimes (energy, replacement goods, logistics), which wealth-building methods remain robust after one-rate-cycle and one-commodity-shock cycle? | Financial optimization vs constraint-compliant strategy | Constrained-regime stress does not alter performance ranking of methods that are currently considered durable | EIA STEO, BEA fixed assets, IEA energy indicators, OECD productivity tables |
 | U86 | What historical turning-point sequence most reliably forecasts present-day transmission breakpoints: 1930-33 banking closures, 2008 crisis, or 2020 liquidity shock variants? | Historical echo vs contemporary structural regime | Cross-period sequencing does not show comparable channel-ordering in two independent historical windows | Federal Reserve History (1930s/1933), BIS annual reports, IMF Financial Sector Monitor |
+
+## Unanswered priority questions (cycle_021 sharpen pass)
+
+| ID | Sharpened question | What must be distinguished | What would falsify the working hypothesis | First evidence pull |
+| --- | --- | --- | --- |
+| U87 | When liquidity and credit aggregates rise together, which first-mile channel absorbs net money creation first: household consumptive credit, mortgage credit, small-firm credit, or valuation-led asset channels? | Money stock expansion vs channel allocation to household/firms/asset markets | No consistent lead appears in two release windows across channels after expansion | Fed H.4.1, Fed H.8, Fed Z.1, NY Fed Household Debt and Credit, Fed SLOOS |
+| U88 | How much of new top-quintile wealth growth is durable ownership transfer versus valuation/mark-to-market claims without new control rights? | Durable ownership transfer vs valuation-only gains | Top-quintile growth occurs without measurable ownership/participation movement | Fed DFA, SEC beneficial-owner data, HMDA modified LAR, Census wealth tables |
+| U89 | Which leverage structures preserve long-term wealth optionality in inflation and rate-shock windows: maturity-capped, covenant-bounded, mixed-income stress-tested vs broad debt scaling? | Productive leverage (cash-flow and optionality preserving) vs fragility leverage | Fragile and durable profiles converge in distress frequency and recovery costs | Fed DSR/FOR, CFPB Making Ends Meet, BIS TOTAL_CREDIT, NY Fed Household Debt |
+| U90 | How much of post-2010 inequality drift is participation exclusion versus valuation concentration? | Participation channel vs valuation/channel-only concentration | Participation and entrant ownership metrics move in step with concentration gains | OECD IDD/WDD, SCF, Fed DFA, IRS SOI, Census wealth tables |
+| U91 | Which household shock is the clearest irreversibility trigger: repeated payment burden shock, credit-denial lockout, or forced ownership-loss events? | Reversible market-volatility stress vs irreversible control/ownership damage | Repeated payment stress does not reduce future access/ownership-control outcomes | CFPB Making Ends Meet, HMDA modified LAR, FDIC unbanked survey, Fed DSR/FOR |
+| U92 | During physical-constraint windows (energy, replacement, logistics), which durable-wealth methods remain superior after a rate-cycle reset: infrastructure-led, cashflow-led ownership, or leveraged expansion? | Constraint-aware conversion vs financial-conversion illusion | Leveraged methods outperform in constrained windows while remaining low in foreclosures and high in owner-income growth | EIA STEO/MER, BEA fixed assets, IEA Energy Perspectives, Fed DSR/FOR |
+| U93 | Which historical sequence most reliably forecasts current transmission breakpoints: 1930-33, 1973-74 oil shock, or the 2008 redesign period? | Historical comparator sequence vs contemporary mechanics | No sequence shows comparable channel-order advantage after release-aware alignment | Federal Reserve historical essays on 1933, ECB historical inflation archives, IMF FSS / BIS FSR |
+
+## Evidence gates for cycle_021 unanswered set
+
+- `U87`: require one base-money series and one borrower/small-firm channel series plus release-aware lead-lag mapping across at least two windows.
+- `U88`: require legal-beneficial ownership indicators and valuation-only indicators in the same window before treating concentration gains as durable ownership transfer.
+- `U89`: require maturity/coupon/contract-type split, burden measure, and survival outcome before classifying any leverage structure as durable.
+- `U90`: require separate concentration and participation metrics with entrants and incumbents by at least one income tier.
+- `U91`: require one irreversible marker (foreclosure, forced sale, denied access) and one reversible marker in each stress window before sequencing risk priorities.
+- `U92`: require at least one throughput indicator and one debt-service/optionity indicator before recommending constrained-regime scaling up.
+- `U93`: require one primary archival comparator and one modern release-aligned panel before using any historical sequence as a strategy template.
 
 ## Unanswered priority questions (cycle_002 sharpen pass)
 

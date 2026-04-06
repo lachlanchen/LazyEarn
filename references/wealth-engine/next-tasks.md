@@ -1,6 +1,18 @@
 # Next tasks
 
-Updated: 2026-04-06 (cycle_021 round_01_resource_scan)
+Updated: 2026-04-06 (cycle_021 round_02_question_bank)
+
+## Cycle 021 question_bank follow-up (round_02_question_bank)
+
+1. In the next question-evidence pass, add `falsifier`, `must_not_conflate`, and `decision_use` fields for `U87`-`U93` in a dedicated evidence-control map before any further book rewrite.
+2. Confirm section placement from `round_02/question_bank/questions.md`:
+   - `U87` in `9.10`,
+   - `U88` and `U90` in `9.11.1`,
+   - `U89` and `U91` in `9.11.3` / `9.11.4`,
+   - `U92` in `9.8`,
+   - `U93` in `9.11.2`.
+3. For `U92` and `U93`, add at least one explicit source-backed case in Chapter 9 that pairs a current channel measurement with one historical comparator before build_or_verify.
+4. Add one constraint note from `U91` into the methods-side-product layer so irreversible-control losses become a hard stop rule in method guidance.
 
 ## Cycle 021 resource_scan follow-up (round_01_resource_scan)
 
