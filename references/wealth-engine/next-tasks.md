@@ -9,6 +9,13 @@ Updated: 2026-04-06 (cycle_024 round_05_side_products)
 3. For any new cycle label, require one check row in `next-tasks.md` that confirms both English and one romanized locale route text point to the same `research.routeStep1` through `research.routeStep9` sequence.
 4. Add a direct parity note after website sync confirming `research.point9`, `research.routeIntro`, and `research.routeStep1` through `research.routeStep9` match across English and one romanized locale.
 
+## Cycle 024 website_sync follow-up (round_07_website_sync)
+
+1. Extend non-English locale parity from English `Cycle_024` execution framing:
+   - Update `docs/translations.json` locale entries for `research.point9` (and optionally `research.routeIntro`/`routeStep` text) so at least `zh-Hant` and one of `fr`, `es`, `ja`, `ko`, or `vi` do not retain stale `Cycle_023` labels.
+2. After each locale update, run one smoke check from `docs/index.html`/`docs/script.js` to confirm no stale `Cycle_023` execution copy remains in rendered research cards.
+3. Record the locale-level parity results in the next cycle’s notes before the next readme/book-facing handoff.
+
 ## Cycle 024 side_products follow-up (round_05_side_products)
 
 1. Finish `knowledge/wealth-time-control-checklist.md` to at least six seeded rows (`TC-24.4` through `TC-24.6`).
