@@ -2,6 +2,15 @@
 
 Updated: 2026-04-06 (cycle_022 round_08_translation_and_catalog)
 
+## Cycle 022 build_and_verify follow-up (round_09_build_and_verify)
+
+1. Add a quick pre-merge check that validates:
+   - `index.html` wealth card slug `data-research-slug="wealth-from-first-principles"` exists,
+   - `docs/script.js` has matching `pdfEntries` canonical/alias entries,
+   - and `pdfEntries` routeGuide step keys align with `research.routeStep1..9` for English.
+2. Preserve the current three-pass compile flow only when LaTeX writes cross-reference deltas; continue to track `Underfull \\hbox`, `Overfull \\hbox`, and `Underfull \\vbox` counts in round summaries.
+3. If warnings remain this high after content edits, schedule a dedicated typography pass focusing on table heading and long prose line-break pressure around chapter 9 source blocks.
+
 ## Cycle 022 translation_and_catalog follow-up (round_08_translation_and_catalog)
 
 1. Extend the locale smoke check beyond en + `zh-Hant` + `zh-Hans` to include one romanized locale (`vi`, `ko`, or `ja`) for `research.point9`, `research.point8`, `research.routeStep7`, `research.routeStep8`, and new `research.routeStep9`.
