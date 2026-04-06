@@ -8,6 +8,12 @@ Updated: 2026-04-06 (cycle_020 round_07_website_sync)
 2. Reconfirm `Cycle_020` cycle label in `docs/index.html` static research copy and the JS-driven synced-English override path (`syncedEnglishResearchStrings`) after any future book-facing edits.
 3. Run one fast locale smoke test for one RTL or Asian locale once route-step count changes again.
 
+## Cycle 020 translation_and_catalog follow-up (round_08_translation_and_catalog)
+
+1. Verify non-English locales now show both `research.routeStep7` and `research.routeStep8`, and that `30D-SW` is no longer listed as step 7 in locales that had it.
+2. Add a quick locale smoke check in at least `zh-Hant` and one western locale for route list count and ordering after every future route-key change.
+3. In the next translation pass, lift any obvious non-English-only placeholders in `research.copy` / `research.point9` away from `Cycle_019` where consistency is intended.
+
 ## Cycle 020 readme_sync follow-up (round_06_readme_sync)
 
 1. Keep `README.md` and the website runtime cycle label aligned once this round's cycle_020 highlights are committed.
