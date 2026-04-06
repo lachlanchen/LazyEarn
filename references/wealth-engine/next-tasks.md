@@ -2,6 +2,14 @@
 
 Updated: 2026-04-06 (cycle_021 round_04_book_tex)
 
+## Cycle 021 website_sync follow-up (round_07_website_sync)
+
+1. After this round, run a fast route-text smoke check in English plus one CJK locale to verify:
+   - `research.point9` is still `Cycle_021`.
+   - `research.routeIntro` contains the "Chapter 9 first, then 30D-SW execution gate" pattern.
+   - `research.routeStep8` stays explicit about stop conditions.
+2. If a locale drifts from this structure, update the matching locale entry in `docs/translations.json` and keep en as the source of truth in script fallback.
+
 ## Cycle 021 readme_sync follow-up (round_06_readme_sync)
 
 1. Align non-English `docs/translations.json` entries for `research.copy` and `research.point9` with the current `cycle_021` English runtime narrative after this readme sync.
