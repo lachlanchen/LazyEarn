@@ -8,6 +8,15 @@ Updated: 2026-04-06 (cycle_017 round_05_side_products)
 2. Keep this README section list synchronized with any new chapter-facing mechanism additions by adding a `Book sync highlights (cycle_0xx)` entry for each cycle handoff.
 3. In the next round, add a short entry to `references/wealth-engine/cycles/cycle_017/...` noting whether website-facing research guidance and the README reader pathway remained in sync.
 
+## Cycle 017 website_sync follow-up (round_07_website_sync)
+
+1. Before the next website content refresh, align all major locale copy in `docs/translations.json` for `research.copy`, `research.point8`, and `research.point9` with the active `cycle_017` state.
+2. After this round of website edits, verify one route-aware regression pass:
+   - open `docs/index.html` in at least two locales,
+   - confirm all six `research.routeStep*` entries render in the selected language,
+   - and confirm `setupResearchCatalog()` resolves slug routes without warnings.
+3. Add one follow-up note in `references/wealth-engine/cycles/cycle_017/round_07_website_sync/summary.md` about whether locale copy parity and route rendering stayed coherent.
+
 ## Cycle 017 resource scan follow-up (round_01_resource_scan)
 
 1. Convert the top-priority Cycle 17 resources into source-ready evidence anchors before the next chapter-facing edit:
