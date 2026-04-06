@@ -116,7 +116,8 @@ const fallbackStrings = {
   "research.asset2Route": `Viewer slug: <code>financial-freedom</code> (alias: <code>financial_freedom</code>).`,
   "research.asset2ZhTitle": `Financial freedom playbook (Chinese edition)`,
   "research.asset2ZhDesc": `Chinese edition covering rational spending, compounding, diversified income, and automation routines with a Lazy Money-style allocation table.`,
-  "research.asset2ZhRoute": `Chinese viewer slug: <code>financial-freedom-zh</code> (aliases: <code>financial_freedom_zh</code>, <code>financial-freedom-zh-cn</code>).`,
+  "research.asset2ZhRoute":
+    "Chinese viewer slug: <code>financial-freedom-zh</code> (aliases: <code>financial_freedom_zh</code>, <code>financial-freedom-zh-cn</code>, <code>financial-freedom-cn</code>).",
   "research.asset3Title": `High-growth dossier`,
   "research.asset3Desc": `Narrative rundowns for nine high-growth U.S. equities (AI, biotech, semiconductors, clean energy, cloud) with upside tables and annotated sources.`,
   "research.asset3Route": `Viewer slug: <code>high-growth</code> (aliases: <code>high-growth-stocks</code>, <code>high_growth_stocks</code>).`,
@@ -251,7 +252,7 @@ const pdfEntries = {
     markdown: "https://github.com/lachlanchen/LazyEarn/blob/main/investment/financial_freedom.md",
   },
   "financial-freedom-zh": {
-    aliases: ["financial_freedom_zh", "financial-freedom-zh-cn"],
+    aliases: ["financial_freedom_zh", "financial-freedom-zh-cn", "financial-freedom-cn"],
     titleKey: "research.asset2ZhTitle",
     descriptionKey: "research.asset2ZhDesc",
     title: "Financial freedom playbook (Chinese edition)",

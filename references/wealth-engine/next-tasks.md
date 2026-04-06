@@ -16,6 +16,13 @@ Updated: 2026-04-06 (cycle_024 round_05_side_products)
 2. After each locale update, run one smoke check from `docs/index.html`/`docs/script.js` to confirm no stale `Cycle_023` execution copy remains in rendered research cards.
 3. Record the locale-level parity results in the next cycle’s notes before the next readme/book-facing handoff.
 
+## Cycle 024 translation_and_catalog follow-up (round_08_translation_and_catalog)
+
+1. Complete a locale-level alias smoke check for the `financial-freedom` Chinese viewer route:
+   - verify `financial-freedom-cn` resolves via `pdfEntries` in `docs/script.js`.
+   - verify `pdf-viewer.html?file=financial-freedom-cn` opens the Chinese PDF route card.
+2. Add a follow-up check before the next readme/book-facing pass that `research.point9`, `research.routeIntro`, and `research.routeStep1` through `research.routeStep9` are aligned across English and at least one non-CJK locale (`fr`, `es`, `ar`, or `vi`) once those locales are refreshed.
+
 ## Cycle 024 side_products follow-up (round_05_side_products)
 
 1. Finish `knowledge/wealth-time-control-checklist.md` to at least six seeded rows (`TC-24.4` through `TC-24.6`).
