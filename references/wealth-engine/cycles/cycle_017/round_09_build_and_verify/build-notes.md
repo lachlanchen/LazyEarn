@@ -1,0 +1,22 @@
+# Cycle 17 Round 9 Build Notes
+
+- Ran `xelatex` (3 passes) in `/home/lachlan/ProjectsLFS/LazyEarn/investment_pdfs/wealth-from-first-principles` with output directory `build/`:
+  - `build/build-round9-01.log`
+  - `build/build-round9-02.log`
+  - `build/build-round9-03.log`
+- Copied rebuilt PDF to:
+  - `/home/lachlan/ProjectsLFS/LazyEarn/investment_pdfs/wealth-from-first-principles/wealth-from-first-principles.pdf`
+  - `/home/lachlan/ProjectsLFS/LazyEarn/docs/investment_pdfs/wealth-from-first-principles/wealth-from-first-principles.pdf`
+- Build output:
+  - 47 pages.
+  - No fatal TeX errors.
+  - `rerunfilecheck` warning on first pass only; resolved after reruns.
+  - No broken route/slugs observed in `docs/index.html`/`docs/script.js`/`pdf viewer` wiring references.
+- Render checks (PDF text scan):
+  - Chapter 9 TOC and chapter sections still present.
+  - Chapter 11 content is present and includes `6.18.4 Irreversibility gate for durable wealth decisions` and `Study path for this chapter`.
+  - Source notes remain present.
+- Warning profile:
+  - `Underfull \hbox` appears (244 occurrences, concentrated in end-of-section narrative/table blocks).
+  - `Overfull \hbox` appears (8 occurrences).
+  - No new warnings introduced compared to prior build baseline; warnings remained structurally similar.

@@ -23,6 +23,15 @@ Updated: 2026-04-06 (cycle_017 round_05_side_products)
 2. Keep `research.routeIntro` and `research.routeStep1` through `research.routeStep6` localized sufficiently to avoid English fallback in non-English UIs; document any missing locale blocks before the next website-facing round.
 3. Before the next cycle, confirm `docs/script.js` `pdfEntries` canonical slugs, aliases, and `routeGuide` step keys remain unchanged while translation updates land.
 
+## Cycle 017 build_and_verify follow-up (round_09_build_and_verify)
+
+1. If warnings regress after the next chapter-visible LaTeX edits, run a `Underfull/Overfull` cleanup pass before merging content/layout changes.
+2. Keep a one-line check in the next build round that `docs/index.html` research card links resolve to:
+   - `investment_pdfs/wealth-from-first-principles/wealth-from-first-principles.pdf`,
+   - `investment_pdfs/high-growth-stocks/high-growth-stocks.pdf`,
+   - `investment_pdfs/financial_freedom/financial-freedom.pdf` (or `financial_freedom_zh/financial-freedom-zh.pdf` where applicable).
+3. Add a manual visual PDF scan log for Chapter 11 content blocks before the next markdown/translation release.
+
 ## Cycle 017 resource scan follow-up (round_01_resource_scan)
 
 1. Convert the top-priority Cycle 17 resources into source-ready evidence anchors before the next chapter-facing edit:
