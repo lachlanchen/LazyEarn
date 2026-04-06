@@ -712,6 +712,39 @@ Anchor pages used:
 - Federal Reserve History, “Federal Reserve Credit Programs during the Meltdown”: `https://www.federalreservehistory.org/essays/fed-credit-programs`
 - New York Fed testimony (May 28, 2009) on C&I and CRE lending standards: `https://www.newyorkfed.org/newsevents/speeches/2009/sch090528`
 
+### 9.10.2 Cross-jurisdiction transmission check: ECB and BoJ as counterweights
+
+Money-growth can look synchronized across jurisdictions while transmission differs by legal and banking architecture.
+
+For 2025-26 policy discussion, compare two non-U.S. references with the same sequencing template:
+
+- **ECB monetary developments (Jan 2026 annex)** emphasizes bank-lending conditions, balance-sheet resilience, and risk conditions that can delay the spread of support to households and SMEs even when headline conditions soften.
+- **Bank of Japan Annual Review 2025** describes credit-channel management under a long low-rate era where policy calibration shifts between market liquidity and intermediary behavior.
+
+The useful question is not whether liquidity exists, but where it is converted into new durable owner access.
+
+| Sequence check | What happened in the reference cycle | What this implies for wealth decisions |
+| --- | --- | --- |
+| **Policy signal phase** | institutions lowered stress, stabilised markets, and framed transmission expectations | a stabilizing signal is necessary, but it is only the first phase of transmission |
+| **Intermediary response phase** | banks and non-bank lenders adjust standards and risk appetite at different speeds across sectors | prioritize borrower-access metrics before concluding that policy support has reached owners |
+| **Owner-entry phase** | persistent gaps can remain in first-time borrower access even when liquidity appears ample | do not raise leverage or concentration exposure until entry durability is improving |
+
+Decision gate (short version):
+
+1. If policy and transmission signals improve but first-time entry and burden are still diverging, keep strategic posture defensive.
+2. If all three phases show improvement for two consecutive windows, controlled expansion in ownership methods can be reconsidered.
+3. If any phase stalls, hold fixed-cost commitments and preserve optionality for household-level decision freedom.
+
+This section maps directly into `U93` (`historical/macro sequencing`) and `U87` (`channel leadership`):
+- it tests whether "policy-first" episodes produce durable owner-entry, and
+- it gives a practical falsifier when transmission appears cosmetic.
+
+Primary sources used in this subsection:
+
+- ECB press release annex for monetary developments (Jan 2026): `https://www.ecb.europa.eu/press/pdf/md/ecb.md2601_annex~df0e665d8e.en.pdf`
+- Bank of Japan Annual Review 2025: `https://www.boj.or.jp/en/about/activities/act/data/ar2025.pdf`
+- IMF WEO 2026 launch note (global growth-risk context): `https://www.imf.org/en/news/articles/2026/01/21/tr-01212026-weo-press-conference-on-release-of-the-january-2026-world-economic-outlook-update`
+
 ### 9.11 Money, debt, and physical constraints decision map
 
 When liquidity, sovereign debt, and production bottlenecks pull in different directions, the useful question is not "what is improving?" but "what has improved in ways that can be owned and carried forward?"

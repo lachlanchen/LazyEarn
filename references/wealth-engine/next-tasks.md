@@ -1,6 +1,14 @@
 # Next tasks
 
-Updated: 2026-04-06 (cycle_021 round_02_question_bank)
+Updated: 2026-04-06 (cycle_021 round_03_book_markdown)
+
+## Cycle 021 book_markdown follow-up (round_03_book_markdown)
+
+1. Mirror `9.10.2` into TeX before the next build run, including a concise source-note mini-block for ECB/BoJ references in `investment_pdfs/wealth-from-first-principles/wealth-from-first-principles.tex`.
+2. Extend Chapter 9 question mapping notes so `9.10.2` is explicitly linked to `U87` and `U93` in the next `question-evidence` pass.
+3. Add one concise philosophical line in `4.2` (or nearby) that connects optionality and irreversibility to the transmission framework in Chapter 9.
+4. Tighten source anchors for new non-U.S. references by adding one stable short link target plus one archival mirror path where available.
+5. In the next build_and_verify round, confirm cross-jurisdiction `9.10.2` narrative remains readable at PDF scale and table text does not exceed layout width.
 
 ## Cycle 021 question_bank follow-up (round_02_question_bank)
 
