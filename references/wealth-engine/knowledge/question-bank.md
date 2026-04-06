@@ -1,7 +1,7 @@
 # Question Bank
 
 Updated: 2026-04-06  
-Seed round: cycle_017 / round_02_question_bank
+Seed round: cycle_019 / round_02_question_bank
 
 ## Distinctions to protect
 
@@ -212,6 +212,26 @@ Seed round: cycle_017 / round_02_question_bank
 - `U56`: require decomposition into ownership participation and payment-relief channels before attributing fiscal effects to durable wealth outcomes.
 - `U57`: require at least one entrant vs incumbent split in at least one modern window and one historical counterfactual anchor.
 - `U58`: require explicit irreversible-loss criteria (for example forced sale, sustained access downgrade, or control-loss markers) before concluding fragility class.
+
+## Unanswered priority questions (cycle_019 question-bank pass)
+
+| ID | Sharpened question | What must be distinguished | What would falsify the working hypothesis | First evidence pull |
+| --- | --- | --- | --- | --- |
+| U59 | Do cross-jurisdiction financial-stability reports describe the same money-creation transmission path, or do channels diverge by institution and policy regime? | System liquidity expansion vs practical household-access transmission | Households show no channel divergence in the first-pass allocation of credit after a liquidity policy move across two jurisdictions | RBA FSR 2026, Banque de France RSF, ECB/BoE FSR pages, BIS GLI `gli2507` |
+| U60 | When wealth rises fastest, is ownership broadening occurring, or is growth mostly incumbent valuation drift? | Ownership-compounding vs incumbent mark-to-market drift | Median ownership participation and entrant-entry proxies improve at the same pace as top-tier net-worth gains without concentration controls | Fed DFA, SCF, Census wealth tables, CFPB Making Ends Meet |
+| U61 | What leverage threshold (stock and service burden) still preserves owner optionality under inflation and energy constraint pressure? | Productive leverage scaling vs fragility-accelerating leverage | Household distress/debt-service stress rises before production/replacement or cash-flow resilience improves at the same leverage point | Fed DSR/FOR, EIA STEO March 2026 PDF, BEA Fixed Assets, NY Fed Household Debt |
+| U62 | Which phase does policy support improve: temporary payment relief or durable wealth entry, and for whom? | Public support vs durable owner entry and control | Fiscal support windows improve payment metrics without persistent improvements in ownership entry, net worth durability, or persistence metrics | IMF Fiscal Monitor Oct 2025, Treasury Debt to the Penny, CFPB Making Ends Meet, Fed DFA |
+| U63 | At what point do rising risk prices become survivability risk for household wealth plans, and what is the practical stop rule? | Volatility tolerance vs ruin prevention | Drawdown episodes remain survivable while policy-relevant indicators are still worsening (no stop-rule signal) | CFPB Making Ends Meet, Fed G.19/DSR, NBER JST, OFR FSI |
+| U64 | Do historical turning points (for example 1930-31 and 1933) imply that liquidity and access failures are primarily sequencing failures, not only level failures? | Sequence timing vs absolute level mismatch | Timing windows cannot distinguish when stress transitions into access rationing, and no entry-quality loss occurs before the sequence gap | Federal Reserve History: Banking Panics 1930-31, Federal Reserve History: Bank Holiday of 1933, Federal Reserve History: Emergency Banking Act 1933 |
+
+## Evidence gates for cycle_019 unanswered set
+
+- `U59`: require one liquidity-series family and one borrower-access-family per jurisdiction, plus a lead-lag map before claiming cross-country comparability.
+- `U60`: require concentration and participation decomposition before concluding ownership broadening.
+- `U61`: require both leverage and throughput/conversion checks, with an explicit irreversibility test.
+- `U62`: require decomposition into short-run payment relief and medium-run ownership participation before drawing policy conclusions.
+- `U63`: require ruin-probability guardrail and a decision-stop threshold for each strategy recommendation.
+- `U64`: require at least one historical counterfactual with comparable policy sequencing before importing lessons into current chapter 9 framing.
 
 ## Evidence gates for cycle_011 unanswered set
 

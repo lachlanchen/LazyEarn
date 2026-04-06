@@ -1,6 +1,20 @@
 # Next tasks
 
-Updated: 2026-04-06 (cycle_019 round_01_resource_scan)
+Updated: 2026-04-06 (cycle_019 round_02_question_bank)
+
+## Cycle 019 question_bank follow-up (round_02_question_bank)
+
+1. Convert new `U59`-`U64` into evidence-control rows in `knowledge/question-bank.md` and one `question-evidence` pass:
+   - keep each row tied to `question_id`, `falsifier`, `must_not_conflate`, and `decision_use`;
+   - map each to one of Sections `9.10`, `9.11`, `9.11.1`, `9.11.2`, or `9.11.4` where possible.
+2. Populate `references/wealth-engine/cycles/cycle_019/round_02_question_bank/questions.md` as the first section-placement sheet for `U59`-`U64`:
+   - one primary section and one fallback section each;
+   - one evidence family and one decision-use sentence per question.
+3. Add cross-source pairing for the new questions before the next chapter draft:
+   - money-creation allocation (`U59`), durable ownership (`U60`), leverage+throughput (`U61`), and policy support durability (`U62`) should each include one additional source from the round_019 resource set and one from pre-existing core sources.
+4. Before the next manuscript-facing round, test one concrete prediction for `U64` with a historical turn-point matrix:
+   - compare 1930-31 panic/bank-holiday sequencing against one contemporary stress window.
+5. Keep `next-tasks.md` refreshed after this cycle once `questions.md` and `summary.md` exist so execution order remains visible for cycle_019.
 
 ## Cycle 019 resource_scan follow-up (round_01_resource_scan)
 
