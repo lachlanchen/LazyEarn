@@ -8,6 +8,12 @@ Updated: 2026-04-06 (cycle_024 round_10_review_and_next_tasks)
 2. Thread GAO-25-107023 findings into one concrete `must_not_conflate` and one falsifier row before using bank-failure coordination as a general rule for wealth-transfer claims in Chapter 9.
 3. Add FSB repo-market fragility notes to `knowledge/side-products.md` with one explicit hard-stop condition (balance-sheet opacity, collateral mismatch, and rehypothecation concentration) before any repo-risk acceleration recommendation.
 
+## Cycle 025 question_bank follow-up (round_02_question_bank)
+
+1. Resolve the new `U118`-`U125` question set from `knowledge/question-bank.md` into chapter-facing section mapping before the next `book_markdown` and `book_tex` handoff.
+2. Add explicit `falsifier` and `must_not_conflate` rows for `U121`, `U123`, and `U125` in `knowledge/methods.md` or `knowledge/side-products.md` before any strategy-change guidance uses these questions.
+3. Add one non-U.S. comparator row (BoJ, Norges Bank, ECB, or Bank of Canada) to at least one of `U118`, `U121`, and `U124` before applying historical or transmission claims in methods.
+
 ## Cycle 024 readme_sync follow-up (round_06_readme_sync)
 
 1. After this README sync round, run the next `website_sync` round to update `docs/translations.json`, `docs/script.js`, and `docs/index.html` route labels only after parity checks against this README cycle text.

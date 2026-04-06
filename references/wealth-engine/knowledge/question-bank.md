@@ -55,6 +55,34 @@ Seed round: cycle_024 / round_02_question_bank
 | Production bottleneck lag vs credit-cycle speed | Financial easing can look strong before real throughput restores output or employment. |
 | Agency-preserving ownership vs passive exposure | Durable wealth requires ownership rights and control, not just exposure to asset price movement. |
 
+| Creation rights vs valuation gain | A reserve or liquidity expansion can lift prices quickly while owner-entry remains constrained for long periods. |
+| Inclusion lag vs price timing | Ownership-entry timing can diverge from index performance for many release windows, especially after stress. |
+| Leverage efficiency vs leverage survivability | The same credit expansion can improve short-term growth while increasing irreversible ownership-loss risk under adverse regimes. |
+
+## Unanswered priority questions (cycle_025 sharpen pass)
+
+| ID | Sharpened question | What must be distinguished | What would falsify the working hypothesis | First evidence pull |
+| --- | --- | --- | --- | --- |
+| U118 | In a rate or liquidity regime shift, which sector and household classes receive net new claims first: mortgage credit, consumer credit, business capital, or government-backed channels? | Net money creation, sector timing, and recipient class heterogeneity | Lending flows rise uniformly across sectors and cohorts with no discernible sequence after release-date alignment | Fed H.6, Fed G.19, HMDA modified LAR, Fed Z.1 |
+| U119 | How much of observed wealth concentration is durable ownership transfer versus temporary valuation effects in each major cycle window? | Ownership-control change versus valuation-only gain | Concentration can be explained by valuation effects while ownership-control proxies move in the opposite direction | Fed DFA, SCF, Census wealth tables, SEC beneficial-owner disclosures |
+| U120 | Where is the leverage boundary at which debt moves from productive growth to irreversible loss risk for different income and age cohorts? | Linear leverage accumulation versus nonlinear fragility boundaries | A single linear leverage rule predicts outcomes equally across boom, stagnation, and shock windows for all cohorts | Fed DSR/FOR, CFPB Making Ends Meet, CFPB Consumer Credit Trends, FDIC charge-off and failure statistics |
+| U121 | How much of inequality drift comes from participation denial (who can own or start) versus valuation channeling (existing holders reaping repricing)? | Entry/access deprivation versus valuation concentration | Participation and control-share metrics improve in the same windows as concentration for all cohorts | Fed DFA, OECD IDD/WDD, WID, SCF, IRS SOI |
+| U122 | Which stress signals are reversible (cash-flow stress) and which are irreversible (control loss, denied underwriting) for durable wealth and methods? | Volatility versus irreversibility in ownership pathways | Reversible and irreversible markers are not separable once lag windows and release cadence are aligned | CFPB Consumer Credit Trends, CFPB Making Ends Meet, HMDA modified LAR, Fed DSR/FOR |
+| U123 | In physical-throughput-constrained periods, which wealth-building methods preserve autonomy and optionality under volatile leverage costs? | Finance-first optimization versus throughput-safe accumulation | Throughput-constrained settings do not materially shift method ranking after replacing with energy/material and debt-service controls | IEA STEO, USGS Mineral Commodity Summaries, EIA MER, BEA fixed assets |
+| U124 | Which historical turning-point chain is most useful today: Great Depression bank-closure policy, 1973-74 oil-shock transmission, or 2008 balance-sheet repair regime? | Structural transferability versus period specificity | One chain explains both channel order and ownership outcomes across modern windows without adjustment | Federal Reserve History (1930s-1933), IMF Financial Stability Monitor, BIS annual report archives |
+| U125 | At what evidence threshold should strategy shift from return-capture to ownership-preservation when constraints intensify? | Efficiency-seeking versus survival-preserving rules | Strategy quality does not improve when constraint-depth thresholds are applied across cohorts and windows | IADI Core Principles, OECD IDD/WDD, BEA fixed assets, BLS macro summaries |
+
+## Evidence gates for cycle_025 unanswered set
+
+- `U118`: require at least two credit-creation aggregates and one recipient-channel proxy per window before claiming a sequence edge.
+- `U119`: require both ownership-control and valuation indicators in parallel before labeling concentration changes as durable progress.
+- `U120`: require debt burden, delinquency path, and age/income splits before setting leverage guardrails.
+- `U121`: require participation metrics plus control-share metrics before attributing inequality change to valuation alone.
+- `U122`: require one reversible and one irreversible marker in each stress window before action rules are changed.
+- `U123`: require at least one production-throughput indicator plus one debt-service/autonomy indicator before method upgrades in constrained windows.
+- `U124`: require one archival comparator and one modern release-aligned episode before transferring historical sequence claims.
+- `U125`: require explicit stop conditions (control-loss, liquidity-sequencing break) before switching strategy frameworks.
+
 ## Unanswered priority questions (cycle_024 sharpen pass)
 
 | ID | Sharpened question | What must be distinguished | What would falsify the working hypothesis | First evidence pull |
