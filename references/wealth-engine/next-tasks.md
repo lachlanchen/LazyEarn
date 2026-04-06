@@ -1,6 +1,25 @@
 # Next tasks
 
-Updated: 2026-04-06 (cycle_023 round_09_build_and_verify)
+Updated: 2026-04-06 (cycle_023 round_10_review_and_next_tasks)
+
+## Cycle 023 review_and_next_tasks follow-up (round_10_review_and_next_tasks)
+
+1. Chapter-gap closure for this review pass (highest priority):
+   - Expand `4.2 Why time matters` into one substantial paragraph-plus framework: define one physical constraint mechanism (`delivery lag`, `replacement lag`, or `inventory/energy conversion lag`) and link it directly to irreversible ownership-control outcomes.
+   - Add one explicit falsifier and one `must_not_conflate` sentence for `4.2` before adding any new historical comparisons in Chapter 9.
+2. Historical grounding with testable timing in Chapter 9:
+   - In `9.10` and `9.11`, add one compact date + institution + timing/outcome field (`lag_days`, `lag_weeks`, or `outcome_horizon`) to each major mechanism row.
+   - For `9.10.1`, make the 2007-2009 sequence a dated step map (policy support, standards response, borrower-entry response) and record one quantified lag anchor for each step.
+   - In `9.11.2`, replace the current `1970s` opener with the 1946-1951 normalization opening narrative and include a measurable timing anchor tied to policy-action and first-time borrower access.
+3. Bridge to philosophy and physics in decision flow:
+   - Add one 2-3 sentence link in `9.11.4` explicitly crossing back to `4.2` on time preference, optionality, and irreversibility.
+   - Add one explicit statement in `9.11.7` that non-transport/availability constraints are a hard stop condition for staged ownership scaling.
+4. Factual density and evidence-control completeness:
+   - Ensure each of `9.11.1` through `9.11.7` has a short, explicit `falsifier` and `decision_use` mapping in side-product/evidence artifacts before the next markdown-to-TeX content sync.
+   - Complete `9.10` tables with one measurable outcome column (`outcome_horizon` or equivalent) so readers can compare transmission speed across episodes.
+5. Mapping and portability rigor:
+   - In `question-bank` and chapter-facing notes, move unresolved `U102`-`U109` from abstract notes into Chapter 9 call-to-action positions with one non-U.S. comparator per row.
+   - Require `cross-jurisdiction-transmission-checklist.md` rows for at least one Nordic or East Asian comparator before any `U105`/`U106` claim is reused as a rule.
 
 ## Cycle 023 build_and_verify follow-up (round_09_build_and_verify)
 
