@@ -2,6 +2,12 @@
 
 Updated: 2026-04-06 (cycle_022 round_08_translation_and_catalog)
 
+## Cycle 023 book_markdown follow-up (round_03_book_markdown)
+
+1. Add the new portability drill in `9.11.7` to `investment_pdfs/wealth-from-first-principles/wealth-from-first-principles.tex` so print and HTML remain synchronized.
+2. Add one explicit `falsifier` line for `9.11.7` in `knowledge/source-ledger.tsv` and map this section to `U93` and `U87` in `knowledge/question-bank.md`.
+3. After sync, add one short portability-ready decision prompt in `knowledge/side-products.md` before allowing concentrated leverage re-acceleration.
+
 ## Cycle 023 question_bank follow-up (round_02_question_bank)
 
 1. Move the cycle_023 unanswered set from exploratory notes into first-pass chapter-facing placements:

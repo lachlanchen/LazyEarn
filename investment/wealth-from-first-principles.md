@@ -945,6 +945,41 @@ Institutional references for this mechanism:
 - ECB bank-lending framework and country tables (for access/credit diagnostics in crisis episodes)  
   https://www.ecb.europa.eu/stats/ecb_surveys/bank_lending_survey/html/index.en.html
 
+### 9.11.7 Portability drill for policy narratives
+
+This is the practical part of Chapter 9 for people who read foreign policy headlines and want to avoid copying the wrong lesson.
+
+Before transferring any policy template to your own wealth plan, run this two-channel drill first:
+
+1. **Policy continuity channel**: identify whether system-level liquidity, rates, and risk-spread conditions were stable enough to claim an improved environment.
+2. **Ownership access channel**: identify whether first-time borrower access, small-firm entry durability, and debt-service stress moved positively in the same window.
+
+Use the cases below as the minimum viable comparison set:
+
+| Episode | What improved fast | What improved slower | Ownership implication |
+| --- | --- | --- | --- |
+| **2008–09 U.S. and U.K. stabilization phase** | liquidity backstops, collateral support, and headline market conditions | borrower access and SME/first-time entry quality remained uneven across regions and product lines | treat the period as `policy first, access second`; leverage should stay staged until access metrics catch up |
+| **2025–26 ECB and 2025 BoJ reference cycle** | central-bank transmission communication and stability framing improved around policy rate and balance-sheet conditions | bank- and intermediary-level underwriting, plus collateral routing, remained uneven, so cross-household access did not become immediate | require one extra confirmation window for access and burden before scaling concentrated ownership exposure |
+
+Decision use:
+
+1. If policy continuity is strong but access does not improve, keep the leverage plan in defensive mode.
+2. If both channels improve for two windows (including first-time borrower and burden), controlled ownership scaling can resume.
+3. If physical capacity or labor-cost pressure remains tight (energy, logistics, productivity) while channel convergence is weak, prioritize optionality, runway, and reversible experiments.
+
+Falsifier for portability: if this drill does not show improved access and burden for new owners, the policy lesson is context-specific and should not be copied as a rule.
+
+Source anchors:
+
+- ECB bank-lending survey and monetary developments framework (Jan 2026 annex)  
+  https://www.ecb.europa.eu/press/pdf/md/ecb.md2601_annex~df0e665d8e.en.pdf
+- Bank of Japan Annual Review 2025  
+  https://www.boj.or.jp/en/about/activities/act/data/ar2025.pdf
+- IMF WEO 2026 launch note on global growth-risk context  
+  https://www.imf.org/en/news/articles/2026/01/21/tr-01212026-weo-press-conference-on-release-of-the-january-2026-world-economic-outlook-update
+- Federal Reserve History, Great Depression transition pages  
+  https://www.federalreservehistory.org/essays/great-depression-and-its-aftermath
+
 ## 10. A 90-day plan
 
 ### Days 1-30: map reality
