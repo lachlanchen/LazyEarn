@@ -1,6 +1,6 @@
 # Next tasks
 
-Updated: 2026-04-06 (cycle_022 round_02_question_bank)
+Updated: 2026-04-06 (cycle_022 round_03_book_markdown)
 
 ## Cycle 022 question_bank follow-up (round_02_question_bank)
 
@@ -19,6 +19,13 @@ Updated: 2026-04-06 (cycle_022 round_02_question_bank)
    - and constraints sections (`4.2` / `7.x` candidates).
 2. Add one non-U.S. production-constraint comparator paragraph in Chapter 9 using the USGS mineral-dependence and UNCTAD commodity-exposure evidence.
 3. Add at least one decision-use note or falsifier linked to each new source group in `knowledge/source-ledger.tsv` and `knowledge/side-products.md` so the chapter has explicit guardrails before the next book-pass.
+
+## Cycle 022 book_markdown follow-up (round_03_book_markdown)
+
+1. Mirror `9.11.6 Cross-jurisdiction transmission check` into `investment_pdfs/wealth-from-first-principles/wealth-from-first-principles.tex` with the same two-channel framing (`policy continuity` vs `ownership access`) and the same action rule language before the next build check.
+2. Add at least one official non-U.S. source anchor tied to `9.11.6` in `knowledge/source-ledger.tsv` (for example ECB, Bank of England, or Bank of Japan data/reports) with a clear `must_not_conflate` note.
+3. Add one reuse-ready study prompt in `references/wealth-engine/knowledge/side-products.md` or `knowledge/methods.md` that explicitly links this cross-jurisdiction check to leverage and ownership-decision cadence.
+4. In `references/wealth-engine/cycles/cycle_022/round_04_side_products/side-product-notes.md` or equivalent, test whether current learners can distinguish policy support from access expansion using one short diagnostic exercise.
 
 ## Cycle 021 review_and_next_tasks follow-up (round_10_review_and_next_tasks)
 

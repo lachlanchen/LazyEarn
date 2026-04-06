@@ -914,6 +914,37 @@ Use the same three-step gate from this historical window in any current stress r
 2. Track **borrower-level access** at least one to two windows after continuity improves (`SLOOS`, HMDA modified LAR cohorts).
 3. Track **household burden and entry durability**; only then stage leverage or concentrated ownership increases.
 
+### 9.11.6 Cross-jurisdiction transmission check: policy calm is not the same as owner access
+
+One recurring blind spot is treating policy normalization in one economy as proof that the same timing rule should transfer elsewhere. This section makes ownership transmission testable across borders by separating these two questions:
+
+- What did the system stabilize first (capital markets, bank liquidity, confidence)?
+- When did access to durable ownership or small-firm financing reopen for outsiders?
+
+Use this compact transfer test before copying a strategy from another country:
+
+| Episode | First sign that improved | What remained structurally delayed | Wealth decision rule |
+| --- | --- | --- | --- |
+| 1930–33 U.S. banking contraction | bank continuity, confidence, and balance-sheet stabilization after bank holiday | broad borrower access and new owner entry | do not increase leverage until access indicators and household burden converge |
+| 2008–09 U.S. and U.K. stabilization phase (financial support programs) | system liquidity and market spread support improved quickly in policy headlines | credit to small borrowers and SMEs remained uneven across regions | delay aggressive balance-sheet scaling if entry remains concentrated |
+| Advanced-economy pandemic support phase (2020–21) | broad liquidity operations and refinancing support expanded fast | collateral eligibility and underwriting quality improvements lagged in pockets | require a second-stage access diagnostic before closing new ownership scaling |
+
+To use this section practically, run two parallel series:
+
+1. `Policy continuity channel`: rates, liquidity instruments, and spread behavior.
+2. `Ownership access channel`: borrower initiation, credit approval concentration, and first-time entry persistence.
+
+Only when both improve together should strategic scaling be considered; if continuity improves first and access remains fragmented, treat the episode as a temporary transmission gap, not a durable wealth phase.
+
+Institutional references for this mechanism:
+
+- Federal Reserve History on the Great Depression banking architecture transitions  
+  https://www.federalreservehistory.org/essays/great-depression-and-aftermath
+- FDIC failed bank and assisted institution records  
+  https://www.fdic.gov/resources/resolutions/bank-failures/
+- ECB bank-lending framework and country tables (for access/credit diagnostics in crisis episodes)  
+  https://www.ecb.europa.eu/stats/ecb_surveys/bank_lending_survey/html/index.en.html
+
 ## 10. A 90-day plan
 
 ### Days 1-30: map reality
