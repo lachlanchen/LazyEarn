@@ -1,6 +1,21 @@
 # Next tasks
 
-Updated: 2026-04-06 (cycle_019 round_02_question_bank)
+Updated: 2026-04-06 (cycle_019 round_03_book_markdown)
+
+## Cycle 019 book_markdown follow-up (round_03_book_markdown)
+
+1. Finish the Chapter 3 cross-jurisdiction transmission subsection in `investment/wealth-from-first-principles.md` and check it against the cycle_019 resource set:
+   - keep a dated institution pairing (`RBA` March 2026 and `Banque de France` Dec 2025),
+   - keep one measurable access/throughput or burden channel, and
+   - keep one concrete decision implication per condition row.
+2. Update `references/wealth-engine/cycles/cycle_019/round_03_book_markdown/book-notes.md` with:
+   - paragraph-level additions,
+   - source anchors used,
+   - and which section(s) require TeX mirror on the next round.
+3. After this markdown pass, add chapter mapping for the new subsection in `next markdown` tasks:
+   - map to `3.5`,
+   - plus follow-on mapping to `9.10`/`9.11` in the next operating pass.
+4. Before next build, ensure README and docs still describe the active `Book sync highlights` and route language aligned with chapter-priority updates.
 
 ## Cycle 019 question_bank follow-up (round_02_question_bank)
 

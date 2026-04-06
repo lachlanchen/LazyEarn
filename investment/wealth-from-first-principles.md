@@ -142,6 +142,30 @@ Use one practical control:
 - If **windows 0 and 1** are positive but **window 2** is weak, reduce leverage speed and test concentration and duration before scaling ownership.
 - Move to staged scaling only when windows 1 and 2 both strengthen in sequence.
 
+### 3.5 Cross-country transmission contrast (RBA and Banque de France)
+
+Cross-border comparison helps separate what is central-bank choice from what is transmission reality.
+
+In 2026, both the Reserve Bank of Australia and the Banque de France reported resilience planning against financial pressure, but they emphasized different immediate constraints:
+
+- The RBA FSR (March 2026) highlights household and corporate borrowing conditions as critical to broad transmission quality.
+- The Banque de France December 2025 RSF emphasizes bank and non-bank stability channels in a euro-area setting with explicit attention to real-exposure risk and borrower-side fragility.
+- BIS global liquidity (`gli2507`) reports provide a cross-border counterpart to test whether domestic policy easing reaches non-bank and cross-jurisdiction participants in time.
+
+A practical contrast:
+
+| Condition tested | Australia (RBA FSR) | France (Banque de France RSF) | Decision implication |
+| --- | --- | --- | --- |
+| **Monetary support arrives before borrower access improves** | policy transmission appears orderly at bank/official level | policy and supervision hold resilience but still show channel frictions | favor runoff controls and do not infer durable ownership gains yet |
+| **Credit allocation remains uneven** | some households and entrants still face tighter effective access | borrower-risk segmentation remains a central bottleneck despite strong institutional language | use one additional access test (`window 1`) before scaling leverage |
+| **Cross-border liquidity weakens** | non-resident funding conditions can reduce transmission into domestic credit tails | cross-border FX-credit pressure can amplify refinancing stress for exposed lenders and borrowers | postpone valuation-led ownership expansion and keep entry staged until `window 1` and real burden metrics both improve |
+
+Use this as a three-step check when deciding on leverage in any environment with mixed policy and liquidity signals:
+
+1. Verify domestic policy support and stability signals are improving (`window 0`).
+2. Verify access tests (`window 1`) improve in the same or next window, especially for first-time borrowers and non-incumbent entrants.
+3. Verify ownership-quality metrics (`window 2`) improve before increasing concentration-sensitive positions.
+
 ## 4. What wealth is
 
 Wealth is larger than money.
