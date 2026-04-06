@@ -1,6 +1,6 @@
 # Next tasks
 
-Updated: 2026-04-06 (cycle_016 round_09_build_and_verify)
+Updated: 2026-04-06 (cycle_016 round_10_review_and_next_tasks)
 
 ## Cycle 016 side-products follow-up (round_05_side_products)
 
@@ -97,6 +97,37 @@ Updated: 2026-04-06 (cycle_016 round_09_build_and_verify)
 3. Check for render and warning regressions in chapter-level LaTeX blocks (especially chapter-open transitions and tables).
    - done when no fatal errors and PDF page count remains stable.
 4. Next follow-up: in the next build pass, reduce dense URL wrap pressure in chapter 11 source-note and appendix blocks (notably around lines 247--732) to trim Overfull/Underfull warnings before adding further reader-visible material.
+
+## Cycle 016 review and next-tasks (round_10_review_and_next_tasks)
+
+1. Strengthen chapter substance before adding more visual upgrades:
+   - add at least 3 substantial explanatory paragraphs in section 9 that each conclude with an explicit decision-use implication tied to wealth persistence.
+   - target the sections on transmission mechanics, constrained households/firms, and durable decision rules.
+   Done when markdown and TeX both carry each paragraph and labels remain stable for cross-reference.
+
+2. Deepen historical grounding with paired mechanism episodes:
+   - add one constrained-period transfer episode (policy, regulation, or crisis window) in chapter 9.
+   - add one counter-case in the same chapter that shows the mechanism failing or reversing.
+   Done when both episodes include one named institution, one measurable channel, and one reversible/irreversible distinction sentence.
+
+3. Add explicit physics/philosophy framing where money claims meet physical limits:
+   - create a short bridge paragraph (or box) in chapter 5 or 9 connecting throughput, storage time, leverage scheduling, and irreversibility.
+   - place a corresponding TeX callout box so the material is reader-visible in the PDF.
+   Done when the bridge is present in both markdown and TeX and references at least one measurable example.
+
+4. Raise factual density in chapter 9 and appendix-facing blocks:
+   - increase source-backed evidence lines in 9.11.x and surrounding appendices by 30% (minimum one concise evidence line per mechanism paragraph).
+   - ensure each added claim is linked to a source row with `source_type`, `update_cadence`, and `last_verified_on`.
+   Done when source-ledger coverage and book footnotes are aligned for each new mechanism claim.
+
+5. Tighten evidence operations before next markdown pass:
+   - complete `references/wealth-engine/knowledge/chapter-evidence-map.md` at least through sections 9.9--9.11.4 and add one `must_not_conflate` row for each.
+   - create one reviewer checklist row for each `question_id` in `U64`-`U69` noting reversibility/irreversibility test.
+   Done when the map can be used as the pre-edit gate before markdown/TeX edits.
+
+6. Keep reader-facing sync in one lane:
+   - update `README.md`, `investment/wealth-from-first-principles.md`, and `docs/index.html` so cycle milestones and section priorities describe the same next chapter goals.
+   Done when no mismatched section numbering or cycle labels remain between these three surfaces.
 
 ## Cycle 015 review and next-tasks (round_10_review_and_next_tasks)
 
