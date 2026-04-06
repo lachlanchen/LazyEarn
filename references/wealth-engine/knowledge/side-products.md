@@ -18,7 +18,7 @@ Purpose: track practical artifacts that make the wealth repository easier to stu
 | `knowledge/entry-vs-incumbent-access-tests.md` | planned | Separates ownership-entry access conditions from incumbent balance-sheet outcomes | question-bank + methods + mortgage/small-business sources | Draft first 6 test rows for U11 and U13 |
 | `knowledge/distinction-cards.md` | planned | Quick review cards for core conceptual distinctions | question-bank | Draft 15 cards with examples |
 | `knowledge/daily-prompts.md` | active | Keeps learning cadence consistent during short study sessions and ties each session to a question ID | question-bank + methods + source-ledger | Run one 14-day pilot and capture decision-use notes |
-| `knowledge/study-paths.md` | active | turns chapter sequence into practical study routines tied to unresolved questions and side products | mission + question-bank + methods (`SP-6`) + citation-map + source-ledger | Publish first draft with one 1-week and one 4-week progression plus completion rubric |
+| `knowledge/study-paths.md` | active | turns chapter sequence into practical study routines tied to unresolved questions and side products | mission + question-bank + methods (`SP-6`) + citation-map + source-ledger | Maintain two seeded paths (`SP-3`, `SP-3b`) with completion states and run first 2-week pilot |
 | `knowledge/constrained-wealth-30-day-sprint.md` | active | converts chapter 9 constrained-wealth framework into a calendar-based execution ladder | chapter 9 + question-bank + methods (`30D-SW`) + source-ledger | seed 6-block starter with reversibility gate per block, then publish completed phase-1 track |
 | `knowledge/revision-aware-capacity-checklist.md` | planned | Turns revision-aware credit reads plus real-capacity rails into one repeatable regime classification layer | question-bank (`U21`-`U25`) + methods (`RC-6`) + source-ledger | Draft first 6 rows and attach one action rule per row |
 | `knowledge/cycle-clock-lead-lag-panel.md` | planned | Aligns mixed-cadence cycle signals into one lead-lag decision panel for liquidity, conditions, flows, and stress | question-bank (`U26`,`U27`,`U29`) + methods (`CC-7`) + source-ledger | Draft first 8 rows and include at least one rejected signal case |
@@ -326,6 +326,11 @@ Purpose: track practical artifacts that make the wealth repository easier to stu
   - one lead and one lag channel,
   - one falsifier and one irreversibility marker,
   - one explicit decision-use line.
+
+Updated status (cycle_019):
+
+- `knowledge/study-paths.md` now includes an executable `SP-3` path (2-week foundation track) and an `SP-3b` path (1-week transmission-and-access track).
+- Both entries include explicit `status`, `failure_modes`, `continuation_rule`, and `next_review` fields.
 
 ### Q2) 30-day constrained-wealth study sprint brief
 

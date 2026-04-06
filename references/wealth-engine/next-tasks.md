@@ -1,6 +1,15 @@
 # Next tasks
 
-Updated: 2026-04-06 (cycle_019 round_04_book_tex)
+Updated: 2026-04-06 (cycle_019 round_05_side_products)
+
+## Cycle 019 side_products follow-up (round_05_side_products)
+
+1. Run one short execution pass of `SP-3` and `SP-3b` in `knowledge/study-paths.md` and mark one path state as `completed`.
+2. After one run, add one explicit unresolved-question note and one completion rubric to `knowledge/study-paths.md`.
+3. Keep `methods.md` and `side-products.md` aligned with each new study-path revision:
+   - SP-6 schema fields remain complete,
+   - path statuses stay current (`active`/`needs_review`/`completed`).
+4. Before any next major chapter-facing edit, verify whether path checkpoints need re-alignment to newly added markdown/TeX sections.
 
 ## Cycle 019 book_tex follow-up (round_04_book_tex)
 

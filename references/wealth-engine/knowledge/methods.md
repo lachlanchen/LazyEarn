@@ -260,11 +260,22 @@ path_id:
 audience_level:
 duration:
 target_questions:
+start_date:
 chapter_stops:
 decision_rhythms:
 failure_modes:
 continuation_rule:
+status:
+next_review:
+notes:
 ```
+
+Governance checks for SP-6:
+
+- keep one `status` (`active`, `needs_review`, `completed`) per path,
+- keep at least one measurable `failure_mode` and one `continuation_rule`,
+- keep every `path_id` tied to at least one `question_id` and one `chapter_stop`,
+- mark each path as `needs_review` if `target_questions` changes after a book round edit.
 
 Preferred structure:
 
