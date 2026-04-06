@@ -1,12 +1,18 @@
 # Next tasks
 
-Updated: 2026-04-06 (cycle_023 round_07_website_sync)
+Updated: 2026-04-06 (cycle_023 round_08_translation_and_catalog)
 
 ## Cycle 023 website_sync follow-up (round_07_website_sync)
 
 1. Keep `docs/index.html`, `docs/script.js`, and `docs/translations.json` in-cycle labels aligned with README (`Cycle_023`) before each next cross-cycle handoff.
 2. Add one locale smoke check entry for `research.point9`, `research.routeStep8`, and `research.routeStep9` in one romanized locale (`vi`, `ko`, or `ja`) to confirm route text mirrors English after this update.
 3. In the next `build_and_verify` round, verify the wealth guide action links resolve to the correct `wealth-from-first-principles` canonical route entries after any future route text changes.
+
+## Cycle 023 translation_and_catalog follow-up (round_08_translation_and_catalog)
+
+1. Extend route-text parity to one additional runtime locale in `docs/translations.json` (`fr`, `es`, or `ar`) by adding/refreshing `research.point8`, `research.point9`, `research.routeStep8`, `research.routeStep9`, and `research.routeIntro` to match the English Cycle 023 sequence.
+2. Add a short locale smoke check in the next round to verify that non-English locales with route blocks (`ko`, `vi`, plus the new locale above) no longer fallback to English for `research.routeIntro` and `research.routeStep1` through `research.routeStep9`.
+3. Keep `docs/script.js` route keys (`routeStep8`/`routeStep9`) as the canonical English source and document any new locale additions only after parity checks pass against `docs/index.html` route rendering.
 
 ## Cycle 023 readme_sync follow-up (round_06_readme_sync)
 
