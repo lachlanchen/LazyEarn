@@ -1,6 +1,16 @@
 # Next tasks
 
-Updated: 2026-04-06 (cycle_017 round_10_review_and_next_tasks)
+Updated: 2026-04-06 (cycle_018 round_01_resource_scan)
+
+## Cycle 018 resource_scan follow-up (round_01_resource_scan)
+
+1. Add a compact non-U.S. comparison passage in section 9 using 2025–2026 Bank of England policy and financial-stability materials before the next markdown expansion.
+2. Add one measurement-caveat note to section 5/8 using ONS wealth methodology (Great Britain total-wealth methods) to sharpen international comparison.
+3. Translate the IMF Financial Access Survey 2025 and CFPB 2025 Consumer Response signals into at least one `question_id`-ready evidence note in `knowledge/question-bank.md`.
+4. Add one explicit link from New York Fed 2026 Household Debt and Credit data to section 9’s liquidity-to-access and stress-response discussion.
+5. Re-check which new source rows need `source_type`, `update_cadence`, and `last_verified_on` when the next ledger-schema alignment pass resumes.
+
+ 
 
 ## Cycle 017 review_and_next_tasks follow-up (round_10_review_and_next_tasks)
 

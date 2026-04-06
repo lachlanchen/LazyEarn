@@ -1,7 +1,39 @@
 # Resource Map
 
 Updated: 2026-04-06  
-Round seed: cycle_017 / round_01_resource_scan
+Round seed: cycle_018 / round_01_resource_scan
+
+## Cycle 018 additions: cross-country monetary institutions, wealth statistics, and access channels
+- Bank of England Annual Report 2025 (PDF)
+  https://www.bankofengland.co.uk/-/media/boe/files/annual-report/2025/boe-2025.pdf
+  Why keep: annual institutional review of monetary, financial stability, and macro-policy operations used to compare UK central-bank scope, communication rhythm, and governance against the U.S./EU examples used in chapter 4 and 9.
+- Bank of England Financial Stability Report, December 2025 (PDF)
+  https://www.bankofengland.co.uk/-/media/boe/files/financial-stability-report/2025/financial-stability-report-december-2025.pdf
+  Why keep: institution-level stress-work and resilience narrative with data as of Nov 2025, plus 2025 UK bank-capital stress-test outputs, useful for cross-country credit-stability examples.
+- Bank of England March 2026 Monetary Policy Summary and Minutes
+  https://www.bankofengland.co.uk/monetary-policy-summary-and-minutes/2026/march-2026
+  Why keep: real-time policy-mechanism source on rate decisions and inflation/energy transmission channels under external commodity shocks in 2026.
+- Bank of England Speech by Alan Taylor, "Getting the right directions" (March 02, 2026)
+  https://www.bankofengland.co.uk/speech/2026/march/speech-by-alan-taylor-getting-the-right-directions
+  Why keep: lecture-style institutional history and mandate-design reflection that supports a chapter-level bridge on mandate constraints and financial-stability trade-offs.
+- IMF: Financial Access Survey 2025 press release
+  https://www.imf.org/en/News/Articles/2025/10/29/pr-25351-imf-releases-the-2025-financial-access-survey-results
+  Why keep: official release on the 2025 FAS methodology expansion and fintech access indicators; supports chapter sections on wealth transmission through access and inclusion channels.
+- IMF: Financial Access Survey 2025 annual report PDF
+  https://data.imf.org/-/media/iData/External-Storage/Documents/7FC05452C6C743D2BFB6188D2E248A38/en/2025-FAS-Annual-Report.pdf
+  Why keep: downloadable official PDF companion to the 2025 FAS release with institutional definitions and trend framing for financial inclusion channels.
+- Federal Reserve Bank of New York: Household Debt and Credit Report (Quarterly Report, Feb 10, 2026)
+  https://www.newyorkfed.org/newsevents/news/research/2026/20260210
+  Why keep: timely household-balance and delinquency breakdown that helps connect credit-availability narratives to distributional wealth outcomes and irreversibility risk.
+- Office for National Statistics: Household total wealth in Great Britain quality and methods guide
+  https://www.ons.gov.uk/peoplepopulationandcommunity/personalandhouseholdfinances/incomeandwealth/methodologies/householdtotalwealthingreatbritainqualityandmethodsguide
+  Why keep: directly relevant non-U.S. wealth-statistics comparability material with a 27 Mar 2026 revision note; supports robust discussion of measurement uncertainty.
+- Office for National Statistics: Wealth and Assets Survey and financial assets
+  https://www.ons.gov.uk/aboutus/transparencyandgovernance/freedomofinformationfoi/wealthandassetssurveyandfinancialassets
+  Why keep: survey and data-source anchor for ONS household wealth methodology in British contexts, useful for international comparison and method-transfer caveats.
+- CFPB: 2025 Consumer Response Annual Report
+  https://www.consumerfinance.gov/data-research/research-reports/2025-consumer-response-annual-report/
+  Why keep: official U.S. consumer complaint-journey source with measurable complaint and resolution outcomes for household financial-well-being and stress-response discussion.
 
 ## Cycle 017 additions: historical liquidity stress, lending frictions, wealth architecture, and constraint rails
 - Federal Reserve History: Banking panics of 1930-31  
