@@ -1,6 +1,12 @@
 # Next tasks
 
-Updated: 2026-04-06 (cycle_022 round_05_side_products)
+Updated: 2026-04-06 (cycle_022 round_06_readme_sync)
+
+## Cycle 022 readme_sync follow-up (round_06_readme_sync)
+
+1. Add one explicit README section linking `investment/wealth-from-first-principles.md` to `investment_pdfs/wealth-from-first-principles/wealth-from-first-principles.tex` and `investment_pdfs/.../pdf` as the primary output chain.
+2. In the README chapter-synced highlights, keep only changes that were actually made this cycle (`9.11.6` + CX-6 + side-product method activation).
+3. Before the next website/content sync round, confirm whether `docs/index.html` and script-driven research copy still advertise `Cycle_021` and plan a one-step alignment update if so.
 
 ## Cycle 022 side_products follow-up (round_05_side_products)
 

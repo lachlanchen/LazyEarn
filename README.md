@@ -19,7 +19,7 @@ Localization scope split (synced for this round):
 [![i18n](https://img.shields.io/badge/i18n-9%20languages-f59e0b)](#configuration)
 [![Mode](https://img.shields.io/badge/Mode-Static%20Frontend-10b981?logo=javascript&logoColor=white)](#overview)
 
-Last synced to mission cycle: **cycle_021** (`2026-04-06`).
+Last synced to mission cycle: **cycle_022** (`2026-04-06`).
 
 Earn.lazying.art is a source-aware, mechanism-first repository for people building clear mental models of money, wealth, ownership, and long-horizon financial resilience.
 
@@ -72,6 +72,16 @@ LazyEarn is a static GitHub Pages-oriented project with two major parts:
 2. A research pipeline using Markdown source briefs in `investment/` and compiled LaTeX/PDF artifacts in `investment_pdfs/` (also mirrored to `docs/investment_pdfs/` for web delivery).
 
 Primary production domain (from `docs/CNAME`): `earn.lazying.art`.
+
+### Cycle_022 operating focus
+
+- Keep the money-and-wealth core synchronized across markdown (`investment/wealth-from-first-principles.md`), TeX/PDF (`investment_pdfs/wealth-from-first-principles`), and side-product planning (`methods.md`, `side-products.md`, `next-tasks.md`).
+- Consolidate the Chapter 9 transmission layer around:
+  - `9.11.1` historical transmission lag,
+  - `9.11.5` constrained-vs-countercase ownership lag,
+  - and `9.11.6` policy-continuity vs ownership-access sequencing.
+- Complete `knowledge/cross-jurisdiction-transmission-checklist.md` seed rows and maintain `SQ-5` + falsifier guardrails before the next chapter-facing handoff.
+- Keep route-language alignment on a shared sequence and stop conditions for readers before the next website sync round.
 
 ### Cycle_021 operating focus
 
@@ -403,6 +413,19 @@ Narrative rundowns for AI, biotech, semiconductors, clean energy, and cloud.
   - make chapter 9 mechanisms operational in short time windows;
   - keep evidence discipline and reversibility checks explicit before increasing risk exposure.
 
+## 🔁 Book sync highlights (cycle_022)
+
+- Added and mirrored a new cross-jurisdiction transmission logic block in Chapter 9 (`9.11.6`):
+  - policy continuity vs ownership access
+  - transmission-lag mapping
+  - and a practical decision gate before leverage scaling.
+- Added `CX-6` to `references/wealth-engine/knowledge/methods.md` and registered `knowledge/cross-jurisdiction-transmission-checklist.md` as an active side-product in `knowledge/side-products.md`.
+- Confirmed the new sequencing is reflected in the readme-facing cycle narrative and the side-product follow-up queue.
+- Practical purpose:
+  - separate temporary policy calm from durable access expansion,
+  - keep chapter 9 claim transfer conservative,
+  - and prepare a reusable comparator checklist for next chapter-facing updates.
+
 ## 🧪 Wealth refinery loop
 
 The repository now carries a durable research loop so book, PDF, README, and site copy can evolve with traceable methods.
@@ -438,6 +461,7 @@ Current method signals (synced with the main book):
 - `CDL-6` method for cycle_012 debt-throughput decision mapping (`U53`-`U58`) across `liquidity`, `access`, `valuation`, `burden`, and `throughput` signals.
 - `HC-5` method for historical-case conversion (`historical evidence to reusable mechanism rows`).
 - `HCT-6` method for historical constrained-vs-countercase transmission testing (newly added in round_05 side-products).
+- `CX-6` method for cross-jurisdiction transmission checks (`policy continuity` vs `ownership access` with explicit `falsifier` and `must_not_conflate` gates).
 - `CHM-6` method for chapter claim evidence mapping (question-to-claim-to-source-to-decision).
 - `SP-6` method for study-path design and side-product sequencing, including decision checkpoints and failure-mode control.
 - `30D-SW` method for a constrained-wealth 30-day execution rhythm with action/stop/reversal rules.
