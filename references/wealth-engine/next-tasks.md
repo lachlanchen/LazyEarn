@@ -987,3 +987,9 @@ Done when: at least 3 starter rows (one per question) are logged with `lead_resu
 - Align `investment_pdfs/wealth-from-first-principles/wealth-from-first-principles.tex` source-note text and callout styling with the new Chapter 11 study-track table; then rerun and document warning-profile change in the next build-oriented round.
 - Carry the 30-day constrained wealth study sequence into website study navigation (if a chapter-11 snippet is surfaced) using a concise action-first card format.
 - Decide whether to reduce existing underfull/overfull warnings around Chapter 11 tables by splitting very long table rows or adding shorter text variants.
+
+## Cycle 018 Question-bank follow-up (round_02_question_bank)
+
+1. Create evidence-gates for `U78`–`U85` (cycle_018 set) in a dedicated tracking artifact (or extend existing question-gate source), with explicit falsifier and must-not-conflate lines for each.
+2. Add first-wave source-ledger rows for `U78`–`U85` with `source_type`, `release_cadence`, and `last_verified_on`.
+3. Add two memo briefs in the next methods pass for `U78` and `U83`, including decision-use thresholds tied to concrete lead/lag windows.
