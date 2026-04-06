@@ -14,6 +14,12 @@ Updated: 2026-04-06 (cycle_019 round_07_website_sync)
 2. Confirm `docs/script.js` synced English strings (especially `syncedEnglishResearchStrings`) still override translations.json for cycle-facing research keys `research.copy` and `research.point9`.
 3. Before the next content-facing round, add one short entry in this section if any locale route-action keys regress outside English, and fix them before opening the next book-facing handoff.
 
+## Cycle 019 translation_and_catalog follow-up (round_08_translation_and_catalog)
+
+1. Re-run a quick locale smoke test (`zh-Hant`, `zh-Hans`, plus one romanized locale) after this wiring pass to confirm `research.copy`, `research.point8`, and `research.point9` remain coherent with cycle messaging.
+2. In the next locale pass, localize any remaining English-only `research.route*` entries in `ja`, `ko`, `vi`, `ar`, `fr`, `es` if route text should be fully localized.
+3. If additional aliases are added in `pdfEntries`, add test coverage for canonical slug and alias resolution, including `view` and `?file=` paths in `pdf-viewer.html`.
+
 ## Cycle 019 side_products follow-up (round_05_side_products)
 
 1. Run one short execution pass of `SP-3` and `SP-3b` in `knowledge/study-paths.md` and mark one path state as `completed`.

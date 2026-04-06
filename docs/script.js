@@ -264,7 +264,17 @@ const DEFAULT_RESEARCH_ZH_SLUG = "financial-freedom-zh";
 const catalogAliasMap = buildCatalogAliasMap(pdfEntries);
 
 function normalizeResearchSlug(value) {
-  return String(value || "")
+  const rawValue = String(value || "").trim();
+  if (!rawValue) {
+    return "";
+  }
+  let normalized = rawValue;
+  try {
+    normalized = decodeURIComponent(rawValue);
+  } catch (error) {
+    normalized = rawValue;
+  }
+  return normalized
     .trim()
     .toLowerCase()
     .replace(/[_\s]+/g, "-");
@@ -290,12 +300,23 @@ function buildCatalogAliasMap(entries) {
   return aliasMap;
 }
 
-function resolveCatalogSlug(rawSlug) {
+function resolveCatalogSlug(rawSlug, fallback = DEFAULT_RESEARCH_SLUG) {
   const normalized = normalizeResearchSlug(rawSlug);
   if (!normalized) {
-    return DEFAULT_RESEARCH_SLUG;
+    return fallback;
   }
-  return catalogAliasMap.get(normalized) || normalized;
+  const alias = catalogAliasMap.get(normalized);
+  if (alias) {
+    return alias;
+  }
+  return pdfEntries[normalized] ? normalized : fallback;
+}
+
+function buildViewerHref(slug, useQuery = false) {
+  const viewerSlug = resolveCatalogSlug(slug);
+  return useQuery
+    ? `pdf-viewer.html?file=${encodeURIComponent(viewerSlug)}`
+    : `pdf-viewer.html#${encodeURIComponent(viewerSlug)}`;
 }
 
 (async function initLazyEarn() {
@@ -628,7 +649,7 @@ function setupResearchCatalog() {
   const wiredSlugs = new Set();
   cards.forEach((card) => {
     const rawSlug = card.getAttribute("data-research-slug");
-    const slug = resolveCatalogSlug(rawSlug);
+    const slug = resolveCatalogSlug(rawSlug, null);
     const entry = pdfEntries[slug];
     if (!entry) {
       console.warn(`[research-catalog] Missing pdfEntries mapping for slug "${rawSlug}"`);
@@ -651,7 +672,7 @@ function setupResearchCatalog() {
       downloadEl.setAttribute("href", entry.download || entry.pdf);
     }
     if (viewEl) {
-      viewEl.setAttribute("href", `pdf-viewer.html#${slug}`);
+      viewEl.setAttribute("href", buildViewerHref(slug));
     }
     if (viewZhEl) {
       const rawZhSlug = card.getAttribute("data-research-slug-zh");
@@ -659,7 +680,7 @@ function setupResearchCatalog() {
       if (!pdfEntries[zhSlug]) {
         console.warn(`[research-catalog] Missing pdfEntries mapping for zh slug "${rawZhSlug}"`);
       } else {
-        viewZhEl.setAttribute("href", `pdf-viewer.html?file=${zhSlug}`);
+        viewZhEl.setAttribute("href", buildViewerHref(zhSlug, true));
       }
     }
     if (markdownEl) {
@@ -727,7 +748,13 @@ function setupStandaloneViewer() {
       requestedSlug = hash;
     }
   }
-  let slug = resolveCatalogSlug(requestedSlug || DEFAULT_RESEARCH_SLUG);
+  let slug = resolveCatalogSlug(requestedSlug || DEFAULT_RESEARCH_SLUG, null);
+  if (!slug) {
+    console.warn(
+      `[research-viewer] Unknown slug "${requestedSlug}", falling back to "${DEFAULT_RESEARCH_SLUG}"`,
+    );
+    slug = DEFAULT_RESEARCH_SLUG;
+  }
   let entry = pdfEntries[slug];
   if (!entry) {
     console.warn(
