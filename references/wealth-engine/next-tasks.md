@@ -20,6 +20,11 @@ Updated: 2026-04-06 (cycle_024 round_10_review_and_next_tasks)
 2. Connect `U93`/`U87`-style chapter-facing evidence mapping to this new calibration block by adding one row in `knowledge/question-bank.md` evidence notes for `U116` and `U118`.
 3. Before this markdown pass is closed, add one explicit one-sentence caution in section 11.5 that valuation-led cycles can lag ownership-entry recovery in the first transmission window.
 
+## Cycle 025 book_tex follow-up (round_04_book_tex)
+
+1. Mirror `### 3.6 Historical calibration for the first-mile lag` in TeX with one additional official-source anchor (e.g., US Federal Reserve or FDIC episode archive pages) for each crisis row before the next major build-check or methodology handoff.
+2. Keep this section-level timing framework synchronized with any future edits to Chapter 9 transmission rows, so the book's three-window logic remains citation-consistent across formats.
+
 ## Cycle 024 readme_sync follow-up (round_06_readme_sync)
 
 1. After this README sync round, run the next `website_sync` round to update `docs/translations.json`, `docs/script.js`, and `docs/index.html` route labels only after parity checks against this README cycle text.
