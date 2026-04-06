@@ -1,6 +1,17 @@
 # Next tasks
 
-Updated: 2026-04-06 (cycle_020 round_10_review_and_next_tasks)
+Updated: 2026-04-06 (cycle_021 round_01_resource_scan)
+
+## Cycle 021 resource_scan follow-up (round_01_resource_scan)
+
+1. Add evidence-control rows for the Jan 2026 FOMC materials in `investment/wealth-from-first-principles.md`:
+   - `3.5` (policy-signaling and expectation mechanics),
+   - `9.10` (rate decision transmission),
+   - `9.11` (stress-channel and risk-sharing implications).
+2. Add one non-U.S. comparator mini-block in section 9 using the new Bank of Japan Annual Review + ECB monetary developments links, with one date and one measurable implication each.
+3. Add one personal-finance behavior note from CFPB FY24 outcomes to `5.x`, tied to at least one falsifier/must-not-conflate clause in the next methods-side-product pass.
+4. In the next `question-bank` pass, map one IMF WEO/forecast source line to a `question_id` where inequality or household-level forecast uncertainty affects the mechanism argument.
+5. Keep this resource set synchronized by adding a concise entry in this `next-tasks.md` and linking to this round’s `findings.md` after chapter-facing usage.
 
 ## Cycle 020 review_and_next_tasks (round_10_review_and_next_tasks)
 

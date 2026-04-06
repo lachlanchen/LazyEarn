@@ -3,6 +3,35 @@
 Updated: 2026-04-06  
 Round seed: cycle_019 / round_01_resource_scan
 
+## Cycle 021 additions: 2026 policy communication, monetary transmission mechanisms, and physical constraints
+- Federal Reserve Board - Minutes of the Federal Open Market Committee, January 27-28 2026
+  https://www.federalreserve.gov/monetarypolicy/files/fomcminutes20260128.pdf
+  Why keep: direct meeting archive for policy reaction-function language, uncertainty wording, and rate-path framing in a near-term policy regime transition.
+- Federal Reserve Board - Press conference statement, January 28 2026
+  https://www.federalreserve.gov/mediacenter/files/FOMCpresconf20260128.pdf
+  Why keep: primary communication artifact for the Jan 2026 policy decision, useful for mapping how official messaging affects expectations and market channels.
+- Federal Reserve Board - Speech: Philip Jefferson, Economic outlook and monetary-policy implementation (January 16 2026)
+  https://www.federalreserve.gov/newsevents/speech/jefferson20260116a.htm
+  Why keep: official long-form remarks on inflation risk, resilience trade-offs, and policy implementation; useful for chapter-level interpretation of monetary transmission.
+- Federal Reserve Board - FEDS Note: The central-bank balance-sheet trilemma
+  https://www.federalreserve.gov/econres/notes/feds-notes/the-central-bank-balance-sheet-trilemma-20260114.html
+  Why keep: mechanism-oriented primary analysis on central-bank balance-sheet management under simultaneous inflation, financial stability, and output objectives.
+- International Monetary Fund - World Economic Outlook Update, January 2026: press conference transcript
+  https://www.imf.org/en/news/articles/2026/01/21/tr-01212026-weo-press-conference-on-release-of-the-january-2026-world-economic-outlook-update
+  Why keep: official speech-to-public framing of global macro scenarios, useful for wealth forecast assumptions and cross-country comparison in section 3.
+- International Monetary Fund - World Economic Outlook Update, January 2026 source text PDF
+  https://www.imf.org/-/media/files/publications/weo/2026/january/english/text.pdf
+  Why keep: compact primary data appendix and projections from the IMF report, with direct comparables for growth-risk assumptions and fiscal outlook.
+- European Central Bank - Monetary developments in the euro area (January 2026) annex
+  https://www.ecb.europa.eu/press/pdf/md/ecb.md2601_annex~df0e665d8e.en.pdf
+  Why keep: monthly monetary statistics summary for cross-jurisdiction liquidity and lending-condition comparisons.
+- Bank of Japan - Annual Review 2025
+  https://www.boj.or.jp/en/about/activities/act/data/ar2025.pdf
+  Why keep: non-US central-bank architecture, policy transmission, and financial system context with dated institutional sequencing useful for comparative history.
+- Consumer Financial Protection Bureau - Annual Performance Report FY 2024 (English PDF)
+  https://files.consumerfinance.gov/f/documents/cfpb_annual-performance-report_fy24.pdf
+  Why keep: official account of enforcement, complaint, and compliance trends that complements household finance behavior chapters.
+
 ## Cycle 020 additions: meeting-level archives, non-US monetary case material, and foundational references
 - Federal Reserve Board - Minutes of the Federal Open Market Committee, March 19 2025
   https://www.federalreserve.gov/monetarypolicy/files/fomcminutes20250319.pdf
