@@ -166,6 +166,30 @@ Use this as a three-step check when deciding on leverage in any environment with
 2. Verify access tests (`window 1`) improve in the same or next window, especially for first-time borrowers and non-incumbent entrants.
 3. Verify ownership-quality metrics (`window 2`) improve before increasing concentration-sensitive positions.
 
+### 3.6 Historical calibration for the first-mile lag
+
+The same structure is visible in major historical episodes, which helps separate policy noise from ownership reality.
+
+- **1933-1934 transition (U.S. banking and deposit reset):** confidence in financial intermediaries returned before broad access improved for new entrants. The institutional repair of banks came first; durable owner-entry widened only after risk-control and credit standards re-aligned.
+- **Great Recession (late 2007 to 2010):** liquidity and valuation support strengthened before many household/SME access measures normalized. Mortgage credit growth improved at different speeds across cohorts, while debt-service stress and delinquency outcomes stayed elevated for longer pockets.
+- **1973-1974 oil shock:** the first squeeze was physical and logistic, so money/valuation responses were often faster than durable household method recovery.
+
+This pattern suggests the falsifier for any "cheap money implies easy wealth scaling" claim:
+
+| Episode | Window 0 signal | What lagged | Likely owner-level result |
+| --- | --- | --- | --- |
+| **1933-34 bank reset** | emergency support + banking stabilization | durable first-owner credit flow | inherited structures improved before broad entry acceleration |
+| **Great Recession** | policy support + system liquidity normalization | first-time borrower mix and debt-burden improvement | valuation-led gains were stronger than ownership expansion initially |
+| **1973-74 oil shock** | inflation-control and liquidity responses | replacement throughput and small-firm refinancing stability | growth in nominal assets did not immediately produce durable owner expansion |
+
+### Practical implication
+
+If your new data snapshot matches only Window 0, classify your posture as **"policy cushion, ownership unknown."**
+
+If Window 1 lags and Window 2 is weak, classify your posture as **"stability without access."**
+
+Only when all three windows move together should you classify the moment as a **reliable accumulation phase** for leverage-dependent ownership building.
+
 ## 4. What wealth is
 
 Wealth is larger than money.

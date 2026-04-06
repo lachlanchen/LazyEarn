@@ -14,6 +14,12 @@ Updated: 2026-04-06 (cycle_024 round_10_review_and_next_tasks)
 2. Add explicit `falsifier` and `must_not_conflate` rows for `U121`, `U123`, and `U125` in `knowledge/methods.md` or `knowledge/side-products.md` before any strategy-change guidance uses these questions.
 3. Add one non-U.S. comparator row (BoJ, Norges Bank, ECB, or Bank of Canada) to at least one of `U118`, `U121`, and `U124` before applying historical or transmission claims in methods.
 
+## Cycle 025 book_markdown follow-up (round_03_book_markdown)
+
+1. Add source-linked footnotes or inline links in the new `### 3.6` historical calibration block so the two crisis references (`1933-1934`, `2008–2009`) are tied directly to official archives before the next `book_tex` pass.
+2. Connect `U93`/`U87`-style chapter-facing evidence mapping to this new calibration block by adding one row in `knowledge/question-bank.md` evidence notes for `U116` and `U118`.
+3. Before this markdown pass is closed, add one explicit one-sentence caution in section 11.5 that valuation-led cycles can lag ownership-entry recovery in the first transmission window.
+
 ## Cycle 024 readme_sync follow-up (round_06_readme_sync)
 
 1. After this README sync round, run the next `website_sync` round to update `docs/translations.json`, `docs/script.js`, and `docs/index.html` route labels only after parity checks against this README cycle text.
