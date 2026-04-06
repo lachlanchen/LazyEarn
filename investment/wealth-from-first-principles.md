@@ -851,6 +851,36 @@ The 1946–1951 post-war normalization is a useful counter-case: policy framewor
 Action implication:
 before increasing leveraged ownership because policy rates or asset values are improving, require both a better burden trend (`Fed DSR/FOR`) and a cleaner access trend (`HMDA modified LAR` + SLOOS slices). If not, assume the downside leg is non-reversible in the near term.
 
+### 9.11.5 Historical mechanism case: 1930–33 banking contraction and the ownership lag
+
+The 1930–33 period is a high-signal contrast case for the book’s core premise: financial stabilization can arrive before durable ownership transmission.
+
+From the 1930 bank panics through the March 1933 bank holiday, the sequence was roughly:
+
+- deposits and confidence were failing first,
+- policy architecture changed quickly after March 9, 1933 (`Emergency Banking Act`) and reopening of banks,
+- confidence and balance-sheet liquidity recovered earlier than broad borrower entry or durable owner formation.
+
+That ordering matters because it shows why one should separate stabilization from ownership access.
+
+| Date window | Institutional action | What improves first | What usually lags |
+| --- | --- | --- | --- |
+| 1930–1932 | bank failures, stress disclosures, ad hoc liquidity support | nominal confidence and headline banking system support | new borrower access and small-firm persistence |
+| March 5–13, 1933 | national bank holiday and Emergency Banking Act implementation (`https://www.federalreservehistory.org/essays/bank-holidays`) | payment system continuity and immediate liquidity management | household credit quality normalization and entrant ownership |
+| Mid-1933 to 1934 | emergency legal architecture consolidation and FDIC introduction (`https://www.federalreservehistory.org/time-period/the-great-depression-and-its-aftermath`) | depositor trust and banking structure | durable debt-serviced ownership progress |
+
+The practical implication is unchanged in modern cycles:
+
+- If a stability policy sequence looks successful but entry remains concentrated and delinquency/DSR friction remains elevated, treat the period as **fragile transmission**.
+- A stable banking shell does not guarantee a stable ownership ladder.
+- A good signal in this sequence is only when credit standards, debtor burden, and entrant persistence improve in the same recovery window.
+
+Use the same three-step gate from this historical window in any current stress read:
+
+1. Confirm **system continuity** without overfitting to one headline (`bank`/`stability` series alone is not enough).
+2. Track **borrower-level access** at least one to two windows after continuity improves (`SLOOS`, HMDA modified LAR cohorts).
+3. Track **household burden and entry durability**; only then stage leverage or concentrated ownership increases.
+
 ## 10. A 90-day plan
 
 ### Days 1-30: map reality

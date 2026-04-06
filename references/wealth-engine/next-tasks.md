@@ -1,6 +1,6 @@
 # Next tasks
 
-Updated: 2026-04-06 (cycle_019 round_07_website_sync)
+Updated: 2026-04-06 (cycle_020 round_03_book_markdown)
 
 ## Cycle 020 resource_scan follow-up (round_01_resource_scan)
 
@@ -10,6 +10,12 @@ Updated: 2026-04-06 (cycle_019 round_07_website_sync)
 3. Add at least one explicit source-note citation in the chapter for the NBER monetary-history source and attach one falsifier + one must-not-conflate constraint in question-bank.
 4. Confirm which of these sources are PDF-dominant and mirror PDF/HTML links in both `investment/wealth-from-first-principles.md` and `investment_pdfs/wealth-from-first-principles/wealth-from-first-principles.tex`.
 5. Re-scan for additional official lecture or historical-archive sources in the next resource pass (especially from central-bank archives on communication and speech transcripts).
+
+## Cycle 020 book_markdown follow-up (round_03_book_markdown)
+
+1. Mirror `### 9.11.5` in `investment_pdfs/wealth-from-first-principles/wealth-from-first-principles.tex` with compact table formatting.
+2. Before the next build, bind this subsection to `U86` in the chapter-mapping notes so the 1930-33 sequence is treated as an executable historical comparator, not anecdote.
+3. Re-check the section order so `9.11.5` remains within Chapter 9 and does not interrupt the transition into `## 10. A 90-day plan`.
 
 ## Cycle 019 readme_sync follow-up (round_06_readme_sync)
 
