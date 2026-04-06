@@ -1,6 +1,6 @@
 # Next tasks
 
-Updated: 2026-04-06 (cycle_016 round_08_translation_and_catalog)
+Updated: 2026-04-06 (cycle_016 round_09_build_and_verify)
 
 ## Cycle 016 side-products follow-up (round_05_side_products)
 
@@ -85,6 +85,18 @@ Updated: 2026-04-06 (cycle_016 round_08_translation_and_catalog)
    Done when: criteria appear in a new cycle_016 follow-up summary.
 4. Write `references/wealth-engine/cycles/cycle_016/round_02_question_bank/summary.md` with concise outcomes, sources used, and the immediate next evidence pull priority.
    Done when: the summary names what still blocks `question-bank -> markdown` progress.
+
+## Cycle 016 build_and_verify follow-up (round_09_build_and_verify)
+
+1. Rebuild `investment_pdfs/wealth-from-first-principles/wealth-from-first-principles.pdf` from the TeX source and mirror it into `docs/investment_pdfs/wealth-from-first-principles/wealth-from-first-principles.pdf`.
+   - Done: executed three-pass XeLaTeX in `build/`, copied output to both target PDFs.
+2. Verify catalog links and slugs still resolve in site data:
+   - keep aliases and routes for `wealth-from-first-principles`, `high-growth`, and `financial-freedom` aligned in `docs/script.js`.
+   - keep card-route keys (`research.routeStep1`..`research.routeStep6`) aligned in `docs/index.html`.
+   - done when route card renders six steps in English and non-English views.
+3. Check for render and warning regressions in chapter-level LaTeX blocks (especially chapter-open transitions and tables).
+   - done when no fatal errors and PDF page count remains stable.
+4. Next follow-up: in the next build pass, reduce dense URL wrap pressure in chapter 11 source-note and appendix blocks (notably around lines 247--732) to trim Overfull/Underfull warnings before adding further reader-visible material.
 
 ## Cycle 015 review and next-tasks (round_10_review_and_next_tasks)
 
