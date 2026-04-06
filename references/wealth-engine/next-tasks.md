@@ -1,6 +1,18 @@
 # Next tasks
 
-Updated: 2026-04-06 (cycle_018 round_01_resource_scan)
+Updated: 2026-04-06 (cycle_019 round_01_resource_scan)
+
+## Cycle 019 resource_scan follow-up (round_01_resource_scan)
+
+1. Add one compact cross-country stability comparison in Chapter 9 using RBA March 2026 and Banque de France Dec 2025 materials:
+   - include one named institution per regime (RBA, Banque de France), one date window, and one measurable stress channel.
+2. Convert at least four of the newly found resources into evidence-control rows before the next markdown edit:
+   - RBA FSR, BIS GLI, IMF Fiscal Monitor, CFPB Making Ends Meet, and EIA STEO.
+   - each row should include explicit `question_id`, `falsifier`, and `must_not_conflate`.
+3. Add one short reuse gate for the new physical-contraint material:
+   - map `BEA NIPA Handbook` and `EIA STEO March 2026` to one mechanism sentence in the physics/conversion section, with a durable ownership threshold or irreversibility test.
+4. Refresh `references/wealth-engine/cycles/cycle_019/round_01_resource_scan/findings.md` in the next cycle if additional high-value sources are added, especially from official central-bank archives published after March 2026.
+
 
 ## Cycle 018 build_and_verify follow-up (round_09_build_and_verify)
 

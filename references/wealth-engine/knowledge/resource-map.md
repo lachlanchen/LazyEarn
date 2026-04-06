@@ -1,7 +1,33 @@
 # Resource Map
 
 Updated: 2026-04-06  
-Round seed: cycle_018 / round_01_resource_scan
+Round seed: cycle_019 / round_01_resource_scan
+
+## Cycle 019 additions: cross-jurisdiction stability, liquidity transmission, and household behavior
+- Reserve Bank of Australia Financial Stability Review – March 2026
+  https://www.rba.gov.au/publications/fsr/2026/mar/
+  Why keep: half-yearly Australian central-bank stability review used for comparative infrastructure, household burden, and bank-lending conditions during a volatile global period.
+- Reserve Bank of Australia Financial Stability Review – March 2026 (PDF)
+  https://www.rba.gov.au/publications/fsr/2026/mar/pdf/financial-stability-review-2026-03.pdf
+  Why keep: primary 53-page source with report cut-off date and explicit policy framing on liquidity/operational/geopolitical risk, prudential standards, and household stress markers.
+- Bank for International Settlements – Global Liquidity Indicators at end-March 2025
+  https://www.bis.org/statistics/gli2507.htm
+  Why keep: cross-border liquidity signal that complements domestic credit metrics by showing global FX-credit growth and borrower-residency composition.
+- Banque de France Financial Stability Report (December 2025)
+  https://www.banque-france.fr/system/files/2026-01/2025S2_RSF%20conso_vf.pdf
+  Why keep: French institutional perspective on household exposure, bank buffers, credit risk and policy response in a euro-area sovereign-policy regime.
+- IMF Fiscal Monitor, October 2025
+  https://www.imf.org/en/publications/fm/issues/2025/10/07/fiscal-monitor-october-2025
+  Why keep: official fiscal-policy efficiency and public-spending composition analysis for connecting public-budget design to medium-term inequality and wealth outcomes.
+- CFPB Making Ends Meet Survey Data
+  https://www.consumerfinance.gov/data-research/making-ends-meet-survey-data/
+  Why keep: consumer-status survey suite (and public data access) to support behavior-to-stress channels in personal-finance, delinquency, and resilience claims.
+- BEA NIPA Handbook: Concepts and Methods
+  https://www.bea.gov/resources/methodologies/nipa-handbook
+  Why keep: primary methodology source linking income, production, and accounting treatment in long-run wealth/performance narrative.
+- EIA Short-Term Energy Outlook (March 2026)
+  https://www.eia.gov/outlooks/steo/pdf/steo_text.pdf
+  Why keep: direct forecasts and scenario assumptions for energy-output and price shocks, useful for production-throughput, replacement, and inflation pass-through mechanics.
 
 ## Cycle 018 additions: cross-country monetary institutions, wealth statistics, and access channels
 - Bank of England Annual Report 2025 (PDF)
