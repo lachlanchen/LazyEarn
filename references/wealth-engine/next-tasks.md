@@ -1,6 +1,14 @@
 # Next tasks
 
-Updated: 2026-04-06 (cycle_023 round_05_side_products)
+Updated: 2026-04-06 (cycle_023 round_06_readme_sync)
+
+## Cycle 023 readme_sync follow-up (round_06_readme_sync)
+
+1. Keep README explicitly aligned with the live cycle state and output chain:
+   - markdown -> TeX -> repo PDF -> docs PDF -> website route layers.
+2. Keep the README Chapter 9 sequence and method mention aligned with `docs/index.html` route copy before the next website-sync pass.
+3. Add one reader-facing statement in README on where side-products and methods connect to `9.11.6` portability decisions.
+4. Update legacy cycle numbering labels in README only after `docs/index.html` and `docs/translations.json` receive the same cycle label in one pass.
 
 ## Cycle 023 book_tex follow-up (round_04_book_tex)
 

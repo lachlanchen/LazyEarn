@@ -19,7 +19,7 @@ Localization scope split (synced for this round):
 [![i18n](https://img.shields.io/badge/i18n-9%20languages-f59e0b)](#configuration)
 [![Mode](https://img.shields.io/badge/Mode-Static%20Frontend-10b981?logo=javascript&logoColor=white)](#overview)
 
-Last synced to mission cycle: **cycle_022** (`2026-04-06`).
+Last synced to mission cycle: **cycle_023** (`2026-04-06`).
 
 Earn.lazying.art is a source-aware, mechanism-first repository for people building clear mental models of money, wealth, ownership, and long-horizon financial resilience.
 
@@ -50,6 +50,15 @@ When a new mechanism or source is added, evidence and delivery should move in th
 - Mirror it in `investment_pdfs/wealth-from-first-principles/wealth-from-first-principles.tex`.
 - Keep public exposure aligned in `docs/index.html`, `docs/script.js`, and `docs/translations.json`.
 
+### Current output chain
+
+For each major chapter-facing update, the repository keeps this chain:
+
+Markdown brief (`investment/...`) -> LaTeX source (`investment_pdfs/.../wealth-from-first-principles.tex`) ->  
+repo PDF (`investment_pdfs/wealth-from-first-principles/wealth-from-first-principles.pdf`) ->  
+site PDF (`docs/investment_pdfs/wealth-from-first-principles/wealth-from-first-principles.pdf`) ->  
+reader routes (`docs/index.html` + `docs/script.js` + `docs/translations.json`).
+
 ## 🗂️ Snapshot map
 
 | Location | Purpose | Why it matters |
@@ -73,15 +82,18 @@ LazyEarn is a static GitHub Pages-oriented project with two major parts:
 
 Primary production domain (from `docs/CNAME`): `earn.lazying.art`.
 
-### Cycle_022 operating focus
+### Cycle_023 operating focus
 
-- Keep the money-and-wealth core synchronized across markdown (`investment/wealth-from-first-principles.md`), TeX/PDF (`investment_pdfs/wealth-from-first-principles`), and side-product planning (`methods.md`, `side-products.md`, `next-tasks.md`).
-- Consolidate the Chapter 9 transmission layer around:
-  - `9.11.1` historical transmission lag,
-  - `9.11.5` constrained-vs-countercase ownership lag,
-  - and `9.11.6` policy-continuity vs ownership-access sequencing.
-- Complete `knowledge/cross-jurisdiction-transmission-checklist.md` seed rows and maintain `SQ-5` + falsifier guardrails before the next chapter-facing handoff.
-- Keep route-language alignment on a shared sequence and stop conditions for readers before the next website sync round.
+- Keep the money-and-wealth outputs synchronized across markdown (`investment/wealth-from-first-principles.md`), TeX (`investment_pdfs/wealth-from-first-principles/wealth-from-first-principles.tex`), and website route surfaces (`docs/index.html`, `docs/script.js`, `docs/translations.json`).
+- Record reader-facing evidence discipline in the side-product layer:
+  - `knowledge/methods.md` now includes `CX-7` portability-gates,
+  - `knowledge/side-products.md` tracks the cross-jurisdiction checklist with source/falsifier constraints,
+  - `references/wealth-engine/cycles/cycle_023/round_05_side_products` stores seed rows and process notes.
+- Consolidate Chapter 9 transmission around:
+  - `9.10` constraint-first lens,
+  - `9.11` money/debt/constraint decision map,
+  - `9.11.6` policy continuity vs ownership-access checks.
+- Confirm the route card and method list in README map to the same Chapter 9 sequence shown on the website (`research.routeStep1` to `research.routeStep9`) before each cross-cycle handoff.
 
 ### Cycle_021 operating focus
 
