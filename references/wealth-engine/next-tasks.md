@@ -1,6 +1,13 @@
 # Next tasks
 
-Updated: 2026-04-06 (cycle_022 round_08_translation_and_catalog)
+Updated: 2026-04-06 (cycle_023 round_04_book_tex)
+
+## Cycle 023 book_tex follow-up (round_04_book_tex)
+
+1. Review the newly added `9.11.7` subsection in TeX for line-length and table-width behavior after the next compile.
+2. Keep the portability-drill mapping aligned in `knowledge/source-ledger.tsv` and `knowledge/question-bank.md` under `U93`/`U87`.
+3. If table overflow appears, shorten the longest rows with concise labels plus one canonical source line.
+4. On the next TeX pass, capture overfull/underfull trend deltas for the same `9.11.7` blocks so warning drift is explicitly tracked.
 
 ## Cycle 023 book_markdown follow-up (round_03_book_markdown)
 
