@@ -17,6 +17,12 @@ Updated: 2026-04-06 (cycle_017 round_05_side_products)
    - and confirm `setupResearchCatalog()` resolves slug routes without warnings.
 3. Add one follow-up note in `references/wealth-engine/cycles/cycle_017/round_07_website_sync/summary.md` about whether locale copy parity and route rendering stayed coherent.
 
+## Cycle 017 translation_and_catalog follow-up (round_08_translation_and_catalog)
+
+1. Add a two-locale sanity pass on `docs/translations.json` `research.copy`, `research.point8`, and `research.point9` after each localization sync.
+2. Keep `research.routeIntro` and `research.routeStep1` through `research.routeStep6` localized sufficiently to avoid English fallback in non-English UIs; document any missing locale blocks before the next website-facing round.
+3. Before the next cycle, confirm `docs/script.js` `pdfEntries` canonical slugs, aliases, and `routeGuide` step keys remain unchanged while translation updates land.
+
 ## Cycle 017 resource scan follow-up (round_01_resource_scan)
 
 1. Convert the top-priority Cycle 17 resources into source-ready evidence anchors before the next chapter-facing edit:
