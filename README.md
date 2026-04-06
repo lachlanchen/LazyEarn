@@ -19,7 +19,7 @@ Localization scope split (synced for this round):
 [![i18n](https://img.shields.io/badge/i18n-9%20languages-f59e0b)](#configuration)
 [![Mode](https://img.shields.io/badge/Mode-Static%20Frontend-10b981?logo=javascript&logoColor=white)](#overview)
 
-Last synced to mission cycle: **cycle_023** (`2026-04-06`).
+Last synced to mission cycle: **cycle_024** (`2026-04-06`).
 
 Earn.lazying.art is a source-aware, mechanism-first repository for people building clear mental models of money, wealth, ownership, and long-horizon financial resilience.
 
@@ -37,27 +37,46 @@ The public language layer still includes **Lazy Money**, **Lazy Earn**, and **Ea
 
 ## 🧭 Mission and operating method
 
-LazyEarn is a source-aware, mechanism-first pipeline for money and wealth education. It keeps three things in one loop:
+LazyEarn is a source-aware, mechanism-first pipeline for money and wealth education. It keeps four things in one loop:
 
 1. A clear mission model (money, wealth, ownership, and durable control).
 2. Reusable methods and side-products in `references/wealth-engine/knowledge/` (`methods`, `question-bank`, `source-ledger`, `chapter-evidence-map`, `next-tasks`).
-3. One canonical book draft plus publish outputs in `investment/` and `investment_pdfs/`, then route those outputs through `docs/`.
+3. A compact evidence contract (`question-bank` -> `methods` -> `source-ledger` -> `chapter-evidence-map`) that keeps each claim linked to falsifiers, source states, and decision use.
+4. A clear reader-facing delivery path (`investment/` -> `investment_pdfs/` -> `docs/index.html`/`script.js`/`translations.json`) that keeps claim sequencing and route-step messaging consistent across surfaces.
+5. A simple consistency check each round: if one claim moves in `question-bank.md`, the same chain must be updated in `source-ledger.tsv`, `chapter-evidence-map.md`, `wealth-from-first-principles.md`, `wealth-from-first-principles.tex`, and reader-facing route descriptors.
 
 When a new mechanism or source is added, evidence and delivery should move in this order:
 
-- Validate method/evidence in `references/wealth-engine/knowledge/`.
-- Reflect the same mechanism in `investment/wealth-from-first-principles.md`.
+- Validate method/evidence in `references/wealth-engine/knowledge/methods.md` and `references/wealth-engine/knowledge/question-bank.md`.
+- Pull or update evidence rows in `references/wealth-engine/knowledge/source-ledger.tsv`.
+- Reflect the mechanism in `investment/wealth-from-first-principles.md`.
 - Mirror it in `investment_pdfs/wealth-from-first-principles/wealth-from-first-principles.tex`.
 - Keep public exposure aligned in `docs/index.html`, `docs/script.js`, and `docs/translations.json`.
 
 ### Current output chain
 
-For each major chapter-facing update, the repository keeps this chain:
+For each chapter-facing update, the repository keeps this chain:
 
 Markdown brief (`investment/...`) -> LaTeX source (`investment_pdfs/.../wealth-from-first-principles.tex`) ->  
 repo PDF (`investment_pdfs/wealth-from-first-principles/wealth-from-first-principles.pdf`) ->  
 site PDF (`docs/investment_pdfs/wealth-from-first-principles/wealth-from-first-principles.pdf`) ->  
 reader routes (`docs/index.html` + `docs/script.js` + `docs/translations.json`).
+
+### Evidence contract for readers
+
+| Artifact | Role in the reader-facing contract |
+| --- | --- |
+| `knowledge/question-bank.md` | Defines the top mechanism questions (`U`-level priorities, distinction set, and priority order). |
+| `knowledge/methods.md` | Encodes claim gates (`SQ-5`), falsifier logic, and practical decision preconditions. |
+| `knowledge/source-ledger.tsv` | Tracks canonical source state, method-to-source traceability, and explicit `must_not_conflate` fields. |
+| `knowledge/chapter-evidence-map.md` | Keeps chapter-level claim bundles mapped to question IDs, source states, and decision consequences. |
+| `knowledge/side-products.md` | Converts high-impact claims into practical reader prompts, checklists, and execution rules. |
+
+### Current release health (README-visible)
+
+- `README.md` remains synced to `cycle_024` and now describes the evidence and delivery contract in one line.
+- `investment/wealth-from-first-principles.md` and `investment_pdfs/wealth-from-first-principles/wealth-from-first-principles.tex` are the canonical money/wealth thesis pair to keep synchronized.
+- `docs/index.html`, `docs/script.js`, and `docs/translations.json` retain the previous `Cycle_023` copy in some route/point strings; this is expected to be resolved in the next `website_sync` round.
 
 ## 🗂️ Snapshot map
 
@@ -94,6 +113,17 @@ Primary production domain (from `docs/CNAME`): `earn.lazying.art`.
   - `9.11` money/debt/constraint decision map,
   - `9.11.6` policy continuity vs ownership-access checks.
 - Confirm the route card and method list in README map to the same Chapter 9 sequence shown on the website (`research.routeStep1` to `research.routeStep9`) before each cross-cycle handoff.
+
+### Cycle_024 operating focus
+
+- Keep this round documentation-first: make sure README and side-product references stay synchronized before any book or website wording claims move to new cycle labels.
+- Expose the new cycle frontier from `references/wealth-engine/next-tasks.md`:
+  - `U110`-`U117` clarification in the question bank,
+  - `knowledge/wealth-time-control-checklist.md` as a Chapter 4 bridge to `U112` and `U114`,
+  - explicit `falsifier`/`must_not_conflate` fields before applying claims in chapter-facing pathways.
+- Keep `knowledge/side-products.md`, `knowledge/chapter-evidence-map.md`, and `references/wealth-engine/mission.md` consistent for method-to-reader transfer.
+- Confirm this front-page README section points to the same Chapter 9 reader path that `docs` currently shows (`research.routeStep1` to `research.routeStep9`) until the next dedicated website-sync pass updates cycle text in all locales.
+- After the round, this section should be rechecked so README and website route strings are aligned on the same cycle label and same `30D-SW` framing before any book-facing claims escalate.
 
 ### Cycle_021 operating focus
 

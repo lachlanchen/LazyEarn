@@ -2,6 +2,13 @@
 
 Updated: 2026-04-06 (cycle_024 round_05_side_products)
 
+## Cycle 024 readme_sync follow-up (round_06_readme_sync)
+
+1. After this README sync round, run the next `website_sync` round to update `docs/translations.json`, `docs/script.js`, and `docs/index.html` route labels only after parity checks against this README cycle text.
+2. Before the next markdown pass, add one short `readme-notes.md` checkpoint for any future cycle change where Chapter 4 (`U112`/`U114`, `wealth-time-control-checklist`) and Chapter 9 (`30D-SW`) artifacts cross-reference.
+3. For any new cycle label, require one check row in `next-tasks.md` that confirms both English and one romanized locale route text point to the same `research.routeStep1` through `research.routeStep9` sequence.
+4. Add a direct parity note after website sync confirming `research.point9`, `research.routeIntro`, and `research.routeStep1` through `research.routeStep9` match across English and one romanized locale.
+
 ## Cycle 024 side_products follow-up (round_05_side_products)
 
 1. Finish `knowledge/wealth-time-control-checklist.md` to at least six seeded rows (`TC-24.4` through `TC-24.6`).
