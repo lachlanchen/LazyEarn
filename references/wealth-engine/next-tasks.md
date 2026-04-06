@@ -2,6 +2,14 @@
 
 Updated: 2026-04-06 (cycle_021 round_04_book_tex)
 
+## Cycle 021 side_products follow-up (round_05_side_products)
+
+1. Run `SPH-6` immediately and complete the new `knowledge/side-product-audit-checklist.md` pre-flight rows.
+2. Add one non-U.S. comparator row in `knowledge/historical-readiness-checklist.md` (target: `U86`) before the next chapter-facing handoff.
+3. Keep the side-product queue current by assigning owners and next actions for every `active` artifact listed in the new audit checklist.
+4. After this side-products pass, add `open_gap` closure dates in `knowledge/side-product-audit-checklist.md` for any resolved items.
+5. Before the next content pass, confirm every claim-linked side-product has one matching `lock_checks` row in SPH-6 format.
+
 ## Cycle 021 book_tex follow-up (round_04_book_tex)
 
 1. Resolve the recurring underfull hbox/vbox warnings reported in the Chapter 11 source-note region (currently concentrated around the historical reference rows) before adding further long source-note rows.

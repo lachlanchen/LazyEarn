@@ -737,3 +737,57 @@ Quality rule:
   - falsifier,
   - must_not_conflate,
   - decision_use.
+
+## 29) SPH-6 method (side-product hygiene and sync protocol)
+
+Use this method at the end of each cycle and each major chapter-facing handoff to keep side products usable, current, and cross-anchored.
+
+Goal:
+- Keep the side-product stack auditable, avoid duplication, and prevent stale artifacts from silently steering decisions.
+
+Inputs:
+- `side-products.md`
+- one cycle `summary.md`
+- one or more side-product artifacts (for example `historical-readiness-checklist.md`, `study-paths.md`, `question-evidence-gates.md`)
+- relevant book/website sync notes
+
+Quality checks:
+- Each artifact in the active catalog has a maintainer or owner.
+- Each active artifact has a minimum refresh cadence stated (`daily`, `weekly`, `monthly`, or `per-cycle`).
+- At least one artifact in active use has a recorded "last_reviewed" date.
+- Non-US, non-mainstream comparators are present where geography-sensitive claims are made.
+- Any high-impact claim artifact has:
+  - one named mechanism,
+  - one explicit caveat,
+  - one practical action cue.
+
+Minimum row schema for `knowledge/side-product-audit-checklist.md`:
+
+```text
+artifact_path
+status
+method_tag
+owner_or_update_path
+last_reviewed
+lock_checks
+open_gap
+next_action
+```
+
+SPH-6 workflow:
+
+1. Pull all active artifacts from `knowledge/side-products.md`.
+2. For each artifact, assign one maintainer and one refresh cadence.
+3. For each artifact, log:
+   - `lock_checks` (for example `SCM` = source-catalog mirror check, `CAT` = method alignment, `RLS` = cycle roll-forward sync),
+   - `open_gap` (at most 3 items),
+   - `next_action`.
+4. Mark each artifact as `active`, `needs_review`, `paused`, or `deprecated`.
+5. Before a chapter-facing handoff, require that:
+   - `chapter-facing` claims with side-product support have at least one complete audit row,
+   - no artifact has unresolved `open_gap` in `must_run`.
+6. Archive stale artifacts only when their use-case is superseded and a replacement is identified.
+
+Acceptance gate:
+- no `active` artifact should have an empty `next_action`;
+- active/needs_review artifacts must define both a specific owner and date.

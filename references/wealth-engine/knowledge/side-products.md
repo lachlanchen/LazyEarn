@@ -30,6 +30,8 @@ Purpose: track practical artifacts that make the wealth repository easier to stu
 | `knowledge/debt-throughput-decision-map.md` | planned | Converts cycle_012 debt-constraint and transmission questions into a release-aware map across liquidity, access, valuation, burden, and throughput channels | cycle_012 unanswered set (`U53`-`U58`) + methods (`CDL-6`) + source-ledger + historical-case-ledger | Draft one row per question ID with explicit lead/lag class and irreversible-risk flags |
 | `knowledge/historical-transmission-countercase.md` | active | Builds constrained vs non-constrained episode pairs for transmission-reversal testing and lesson transfer | `cycle_015` chapter-9 updates + methods (`HC-5`, `HCT-6`) + source-ledger | Refresh row set before each round that edits chapter 9 |
 
+| `knowledge/side-product-audit-checklist.md` | planned | keeps side products synchronized to methods, catalog scope, and chapter handoff cadence | methods.md + side-products.md + chapter-facing artifacts | Seed a per-cycle audit queue and run SPH-6 before major edits |
+
 ## Side-product briefs
 
 ### A) Core-series watchlist brief
@@ -404,6 +406,27 @@ Updated status (cycle_019):
   - seeded with at least three rows covering U79/U86;
   - each row has a distinct comparator episode and one falsifier;
   - rows are updated after each chapter-9 historical insertion.
+
+### T) Side-product audit brief
+
+- Goal: keep cataloged side products current, owned, and aligned with chapter-facing edits.
+- Minimum schema:
+  - `artifact_path`
+  - `status`
+  - `method_tag`
+  - `owner_or_update_path`
+  - `last_reviewed`
+  - `lock_checks`
+  - `open_gap`
+  - `next_action`
+- Method hook:
+  - use `SPH-6` from `knowledge/methods.md`;
+  - keep non-U.S./comparator-sensitive artifacts with geography checks;
+  - keep no active artifact without refresh cadence and owner.
+- Exit criterion:
+  - all cataloged `active` artifacts have a non-empty `last_reviewed` and one explicit owner;
+  - each `active` artifact has a documented `next_action`;
+  - unresolved `open_gap` entries are tracked by next-cycle review date.
 
 ## Starter prompt pack (14 days)
 
