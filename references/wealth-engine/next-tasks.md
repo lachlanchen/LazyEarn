@@ -12,6 +12,26 @@ Updated: 2026-04-06 (cycle_018 round_01_resource_scan)
    - confirm hash parity among build + public PDF copies,
    - confirm route/slug rendering for `research.routeStep1` to `research.routeStep7`.
 
+## Cycle 018 review_and_next_tasks (round_10_review_and_next_tasks)
+
+1. Expand chapter-evidence governance before next chapter-facing edits:
+   - add chapter-evidence rows for `9.10`, `9.11`, `9.11.1`, `9.11.2`, `9.11.3`, `9.11.4`, and `9.5`–`9.8`.
+   - every row must include `question_id`, `falsifier`, `must_not_conflate`, and `decision_use`.
+2. Bind Cycle_018 questions `U78`–`U85` to operational artifacts:
+   - add evidence-control rows in `references/wealth-engine/knowledge/question-bank.md` follow-up notes and at least one corresponding source-traceable row in `source-ledger.tsv`.
+3. Add one explicit non-U.S. historical mechanism block in Chapter 9:
+   - one compact insertion using official cross-country material (for example BoE/ECB/Turkey IMF sequence),
+   - include one named institution, one date window, and one practical implication sentence.
+4. Upgrade the physical-constraint/philosophy bridge:
+   - add one dedicated paragraph or callout linking finance claims to throughput/replacement limits and ownership-control durability,
+   - cite official rails already present in `references/wealth-engine/knowledge/resource-map.md` and `source-ledger.tsv`.
+5. Strengthen chapter factual density before next markdown/TeX sync:
+   - add at least one additional source-backed sentence in each of sections `9.10`, `9.11`, `9.11.1`, and `9.11.4`.
+6. Update `constrained-wealth-30-day-sprint.md` with a Cycle_018 block:
+   - tie at least one 6-block segment to `U78`–`U85`,
+   - and include explicit reversibility stop rules in each active segment.
+
+
 ## Cycle 018 side-products follow-up (round_05_side_products)
 
 1. Seed `knowledge/constrained-wealth-30-day-sprint.md` with actual series IDs or table links for each 6-block row and map each block to one `question_id`.
