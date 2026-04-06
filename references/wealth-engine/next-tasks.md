@@ -23,6 +23,15 @@ Updated: 2026-04-06 (cycle_024 round_05_side_products)
    - verify `pdf-viewer.html?file=financial-freedom-cn` opens the Chinese PDF route card.
 2. Add a follow-up check before the next readme/book-facing pass that `research.point9`, `research.routeIntro`, and `research.routeStep1` through `research.routeStep9` are aligned across English and at least one non-CJK locale (`fr`, `es`, `ar`, or `vi`) once those locales are refreshed.
 
+## Cycle 024 build_and_verify follow-up (round_09_build_and_verify)
+
+1. Add a route-input parity check that verifies:
+   - `pdf-viewer.html#wealth-from-first-principles`
+   - `pdf-viewer.html?file=wealth-from-first-principles`
+   both resolve to the same catalog entry and PDF page stream.
+2. Add an explicit alias smoke check for `financial-freedom-cn` and `financial-freedom_zh` resolving to the same Chinese `financial-freedom` catalog entry.
+3. Continue tracking LaTeX warning volume for dense table blocks; schedule typography cleanup only if warning count increases materially after content growth.
+
 ## Cycle 024 side_products follow-up (round_05_side_products)
 
 1. Finish `knowledge/wealth-time-control-checklist.md` to at least six seeded rows (`TC-24.4` through `TC-24.6`).
