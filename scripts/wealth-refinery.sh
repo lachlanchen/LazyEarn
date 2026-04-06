@@ -278,6 +278,93 @@ file_has_context_overflow() {
   grep -qiE "ran out of room in the model's context window|context_length_exceeded|input exceeds the context window|Failed to run pre-sampling compact|remote compaction failed" "$path"
 }
 
+file_has_usage_limit() {
+  local path="$1"
+  [ -f "$path" ] || return 1
+  grep -qiE "hit your usage limit|usage limit for GPT-5|try again at [0-9]{1,2}:[0-9]{2}|try again in [0-9]" "$path"
+}
+
+usage_limit_retry_epoch_from_file() {
+  local path="$1"
+  python3 - "$path" <<'PY'
+import datetime as dt
+import re
+import sys
+
+path = sys.argv[1]
+try:
+    text = open(path, "r", encoding="utf-8", errors="ignore").read()
+except FileNotFoundError:
+    print("")
+    raise SystemExit
+
+now = dt.datetime.now().astimezone()
+
+match = re.search(r"try again in\s+(?:(\d+)\s*h(?:ours?)?\s*)?(?:(\d+)\s*m(?:in(?:utes?)?)?\s*)?(?:(\d+)\s*s(?:ec(?:onds?)?)?)?", text, re.I)
+if match and any(part for part in match.groups()):
+    hours = int(match.group(1) or 0)
+    minutes = int(match.group(2) or 0)
+    seconds = int(match.group(3) or 0)
+    target = now + dt.timedelta(hours=hours, minutes=minutes, seconds=seconds)
+    print(int(target.timestamp()))
+    raise SystemExit
+
+match = re.search(r"try again at\s+([0-9]{1,2}):([0-9]{2})(?::([0-9]{2}))?\s*([AP]M)", text, re.I)
+if match:
+    hour = int(match.group(1))
+    minute = int(match.group(2))
+    second = int(match.group(3) or 0)
+    meridiem = match.group(4).upper()
+    if meridiem == "AM":
+        hour = 0 if hour == 12 else hour
+    else:
+        hour = 12 if hour == 12 else hour + 12
+    target = now.replace(hour=hour, minute=minute, second=second, microsecond=0)
+    if target <= now:
+        target += dt.timedelta(days=1)
+    print(int(target.timestamp()))
+    raise SystemExit
+
+print("")
+PY
+}
+
+wait_for_usage_limit_reset() {
+  local epoch="$1"
+  local target_epoch=""
+  local now_epoch=""
+  local remaining=""
+  local sleep_for=""
+
+  now_epoch="$(date +%s)"
+  if [[ "$epoch" =~ ^[0-9]+$ ]] && [ "$epoch" -gt "$now_epoch" ]; then
+    target_epoch="$((epoch + 5))"
+  else
+    target_epoch="$((now_epoch + 900))"
+  fi
+
+  log "Usage limit reached for model $MODEL. Backing off until $(date -d "@$target_epoch" '+%Y-%m-%d %H:%M:%S %Z')."
+
+  while :; do
+    now_epoch="$(date +%s)"
+    remaining="$((target_epoch - now_epoch))"
+    if [ "$remaining" -le 0 ]; then
+      break
+    fi
+    if [ "$remaining" -lt 60 ]; then
+      sleep_for="$remaining"
+    else
+      sleep_for="60"
+    fi
+    sleep "$sleep_for"
+    now_epoch="$(date +%s)"
+    remaining="$((target_epoch - now_epoch))"
+    if [ "$remaining" -gt 0 ]; then
+      log "Usage-limit backoff active. Retrying in ${remaining}s."
+    fi
+  done
+}
+
 SESSION_INIT_RESULT=""
 
 run_codex_resume() {
@@ -287,6 +374,7 @@ run_codex_resume() {
   local attempts=0
   local cmd=(codex exec resume "$sid" --json -m "$MODEL" -c "model_reasoning_effort=\"$REASONING\"" --dangerously-bypass-approvals-and-sandbox --skip-git-repo-check)
   local stderr_file=""
+  local retry_epoch=""
   cmd+=(-)
   while :; do
     stderr_file="$(mktemp)"
@@ -304,6 +392,15 @@ run_codex_resume() {
       rm -f "$stderr_file"
       return 42
     fi
+    if file_has_usage_limit "$json_file" || file_has_usage_limit "$stderr_file"; then
+      retry_epoch="$(usage_limit_retry_epoch_from_file "$json_file")"
+      if [ -z "$retry_epoch" ]; then
+        retry_epoch="$(usage_limit_retry_epoch_from_file "$stderr_file")"
+      fi
+      rm -f "$stderr_file"
+      wait_for_usage_limit_reset "$retry_epoch"
+      continue
+    fi
     rm -f "$stderr_file"
     attempts=$((attempts + 1))
     if [ "$attempts" -ge 3 ]; then
@@ -320,6 +417,8 @@ initialize_session() {
   local attempts=0
   local cmd=(codex exec --json -m "$MODEL" -c "model_reasoning_effort=\"$REASONING\"" --dangerously-bypass-approvals-and-sandbox -C "$ROOT_DIR" --skip-git-repo-check)
   local sid=""
+  local stderr_file=""
+  local retry_epoch=""
   SESSION_INIT_RESULT=""
 
   cat >"$init_prompt" <<EOF
@@ -361,9 +460,27 @@ EOF
 
   cmd+=(-)
   while :; do
-    if "${cmd[@]}" < "$init_prompt" > "$init_json"; then
+    stderr_file="$(mktemp)"
+    if "${cmd[@]}" < "$init_prompt" > "$init_json" 2>"$stderr_file"; then
+      if [ -s "$stderr_file" ]; then
+        cat "$stderr_file" >&2
+      fi
+      rm -f "$stderr_file"
       break
     fi
+    if [ -s "$stderr_file" ]; then
+      cat "$stderr_file" >&2
+    fi
+    if file_has_usage_limit "$init_json" || file_has_usage_limit "$stderr_file"; then
+      retry_epoch="$(usage_limit_retry_epoch_from_file "$init_json")"
+      if [ -z "$retry_epoch" ]; then
+        retry_epoch="$(usage_limit_retry_epoch_from_file "$stderr_file")"
+      fi
+      rm -f "$stderr_file"
+      wait_for_usage_limit_reset "$retry_epoch"
+      continue
+    fi
+    rm -f "$stderr_file"
     attempts=$((attempts + 1))
     if [ "$attempts" -ge 3 ]; then
       return 1
