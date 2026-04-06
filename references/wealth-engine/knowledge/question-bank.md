@@ -91,6 +91,28 @@ Seed round: cycle_019 / round_02_question_bank
 | H2 | Which country-level institutions most reliably convert income growth into broad-based wealth ownership? | GDP growth vs ownership distribution | CWON 2024, OECD IDD/WDD, Global Findex, PIP |
 | H3 | What is the best "wealth progress" metric that combines net worth, cash-flow resilience, and optional time? | Balance-sheet stock vs life-optional autonomy | SCF, CEX, bespoke metric design |
 
+## Distinctions refresh (cycle_020)
+
+| Distinction | Why it matters |
+| --- | --- |
+| Money creation (net claims) vs liquidity redistribution (existing claims) | New claims can change ownership opportunities; redistribution often changes composition without changing aggregate access potential. |
+| Ownership gain via revaluation vs gain via new control rights | Price increases can raise net worth without increasing durable ownership power or cash-flow autonomy. |
+| Temporary stress relief vs irreversible ownership repair | Rate reductions and balance-sheet forbearance can delay distress, but they do not automatically restore long-run wealth-building capacity. |
+| Capital intensification vs throughput expansion | Financial scaling without physical-constraint relief can create fragile paper wealth disconnected from real production capacity. |
+| Leverage for agency vs leverage for extraction | Borrowing that increases claim quality is qualitatively different from borrowing that only captures volatility. |
+
+## Unanswered priority questions (cycle_020 sharpen pass)
+
+| ID | Sharpened question | What must be distinguished | What would falsify the working hypothesis | First evidence pull |
+| --- | --- | --- | --- |
+| U80 | How much of observed credit growth represents net money-creation for households versus transfer among existing claims, and which channels reach first-time owner-holders first? | Money stock growth vs household ownership access | Household entry and claim depth metrics improve at no higher rate than credit aggregates | Fed H.6, Fed Z.1, NY Fed Household Debt and Credit, Treasury fiscal-flow series |
+| U81 | Through which sequence do durable ownership channels activate across regimes: real economy capital formation, mortgage balance sheets, or business-credit networks? | Productive ownership entry vs passive exposure to repricing | Ownership metrics track equity prices while new-entry ownership remains flat across cohorts | Fed DFA, SCF, HMDA, BEA fixed-assets, S&P Compustat |
+| U82 | Which household leverage forms preserve optionality and which destroy it across downturn, stagnation, and recovery phases? | Productive leverage vs destructive leverage | Leverage plans maintain the same ruin profile in stressed households across all three regimes | Fed DSR/FOR, CFPB Making Ends Meet, BIS credit-to-GDP metrics, NY Fed Household Debt |
+| U83 | What share of inequality movement is ownership-denominator widening/concentration versus valuation and valuation-channel timing? | Ownership participation gap vs valuation amplification | Participation and entry rise while concentration/owner share remains unchanged in stressed subgroups | Fed DFA, SCF, WID, Census wealth tables, IRS SOI |
+| U84 | Which risk signal most robustly predicts household transition into irreversible fragility: payment burden, credit standards, or early delinquency transition? | Volatility risk vs ruin risk | The leading-signal hypothesis fails under rolling-window prediction tests after release-date adjustment | NY Fed SCE, CFPB Consumer Credit Trends, Fed DSR/FOR, FDIC bank failures |
+| U85 | In physical-constraint regimes (energy, replacement goods, logistics), which wealth-building methods remain robust after one-rate-cycle and one-commodity-shock cycle? | Financial optimization vs constraint-compliant strategy | Constrained-regime stress does not alter performance ranking of methods that are currently considered durable | EIA STEO, BEA fixed assets, IEA energy indicators, OECD productivity tables |
+| U86 | What historical turning-point sequence most reliably forecasts present-day transmission breakpoints: 1930-33 banking closures, 2008 crisis, or 2020 liquidity shock variants? | Historical echo vs contemporary structural regime | Cross-period sequencing does not show comparable channel-ordering in two independent historical windows | Federal Reserve History (1930s/1933), BIS annual reports, IMF Financial Sector Monitor |
+
 ## Unanswered priority questions (cycle_002 sharpen pass)
 
 | ID | Sharpened question | What must be distinguished | What would falsify the working hypothesis | First evidence pull |

@@ -84,6 +84,13 @@ Updated: 2026-04-06 (cycle_019 round_07_website_sync)
    - compare 1930-31 panic/bank-holiday sequencing against one contemporary stress window.
 5. Keep `next-tasks.md` refreshed after this cycle once `questions.md` and `summary.md` exist so execution order remains visible for cycle_019.
 
+## Cycle 020 question_bank follow-up (round_02_question_bank)
+
+1. Convert the new `U80`-`U86` unanswered set into `knowledge/question-evidence-gates.md` entries with `question_id`, `falsifier`, `must_not_conflate`, and `decision_use` fields before the next markdown pass.
+2. Map `U80`, `U81`, and `U83` into chapter `9.11.x` evidence rows and keep `U86` in the historical appendix with 1930-33 versus modern stress comparators.
+3. For `U85`, add one durable-wealth constraint test in section `9.8` using BEA fixed-assets and EIA STEO traces, with an explicit irreversibility stop rule.
+4. Refresh `investment/wealth-from-first-principles.md` and `docs/index.html` wording so they note the active question-bank cycle as cycle_020 before the next readme/website sync.
+
 ## Cycle 019 resource_scan follow-up (round_01_resource_scan)
 
 1. Add one compact cross-country stability comparison in Chapter 9 using RBA March 2026 and Banque de France Dec 2025 materials:
