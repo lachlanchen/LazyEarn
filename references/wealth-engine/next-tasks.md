@@ -2,6 +2,15 @@
 
 Updated: 2026-04-06 (cycle_021 round_04_book_tex)
 
+## Cycle 022 resource_scan follow-up (round_01_resource_scan)
+
+1. Pull the new fiscal and resource-constraint sources into `investment/wealth-from-first-principles.md` as explicit evidence anchors in:
+   - fiscal-debt channels (`4.x`, `6.x` candidates),
+   - historical transmission sections (`9.10`, `9.11`),
+   - and constraints sections (`4.2` / `7.x` candidates).
+2. Add one non-U.S. production-constraint comparator paragraph in Chapter 9 using the USGS mineral-dependence and UNCTAD commodity-exposure evidence.
+3. Add at least one decision-use note or falsifier linked to each new source group in `knowledge/source-ledger.tsv` and `knowledge/side-products.md` so the chapter has explicit guardrails before the next book-pass.
+
 ## Cycle 021 review_and_next_tasks follow-up (round_10_review_and_next_tasks)
 
 1. Add one substantial chapter-facing paragraph to section `4.2 Why time matters` that ties compounding, risk, and irreversible choice to one physical limit (throughput, replacement lag, or storage constraint), with one falsifier each.

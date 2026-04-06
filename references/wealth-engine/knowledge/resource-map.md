@@ -32,6 +32,26 @@ Round seed: cycle_019 / round_01_resource_scan
   https://files.consumerfinance.gov/f/documents/cfpb_annual-performance-report_fy24.pdf
   Why keep: official account of enforcement, complaint, and compliance trends that complements household finance behavior chapters.
 
+## Cycle 022 additions: long-horizon fiscal constraints, historic crisis architecture, and production bottlenecks
+- Congressional Budget Office - The Budget and Economic Outlook: 2026 to 2036
+  https://www.cbo.gov/system/files/2026-02/61882-Outlook-2026.pdf
+  Why keep: long-horizon fiscal and macro baseline with explicit debt, deficit, and growth paths for translating policy choices into long-run distributional impact.
+- Federal Reserve History - The Great Recession and Its Aftermath (PDF)
+  https://www.federalreservehistory.org/-/media/Project/FedHistory/FedHistory/Documents/essaysPDFs/The-Great-Recession-and-Its-Aftermath-_-Federal-Reserve-History.pdf
+  Why keep: primary historical mechanism archive with clear links among housing leverage, liquidity support, and post-crisis institutional responses.
+- Bank for International Settlements - Annual Economic Report 2025
+  https://www.bis.org/publ/arpdf/ar2025e.htm
+  Why keep: comparative global-financial architecture review with policy, trade, and financial stability narratives useful for cross-institutional transmission context.
+- UNCTAD - State of Commodity Dependence 2025 (PDF)
+  https://unctad.org/system/files/official-document/ditccom2025d3_en.pdf
+  Why keep: commodity exposure atlas showing concentration, trade dependence, and structural vulnerability useful for physical-resource constraint sections.
+- OECD - To Have and Have Not: How to Bridge the Gap in Opportunities
+  https://www.oecd.org/content/dam/oecd/en/publications/reports/2025/09/to-have-and-have-not-how-to-bridge-the-gap-in-opportunities_f642138a/dec143ad-en.pdf
+  Why keep: high-quality inequality and wealth-opportunity framework with transfer channels, inheritance effects, and policy-design constraints.
+- U.S. Geological Survey - Mineral Commodity Summaries 2025 (PDF)
+  https://pubs.usgs.gov/periodicals/mcs2025/mcs2025.pdf
+  Why keep: production-capacity and critical-mineral context for real-resource channels, replacement lags, and sectoral throughput bottlenecks.
+
 ## Cycle 020 additions: meeting-level archives, non-US monetary case material, and foundational references
 - Federal Reserve Board - Minutes of the Federal Open Market Committee, March 19 2025
   https://www.federalreserve.gov/monetarypolicy/files/fomcminutes20250319.pdf
