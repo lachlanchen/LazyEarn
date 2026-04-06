@@ -12,7 +12,7 @@ Purpose: track practical artifacts that make the wealth repository easier to stu
 | `knowledge/household-balance-sheet-bundle.md` | planned | Aligns household risk/wealth variables across data systems | Fed EFA, NY Fed CCP, Census SIPP, FHFA, CPI | Add variable dictionary and join keys |
 | `knowledge/citation-map.tsv` | planned | Links book claims to specific data families and release pages | markdown + TeX + source-ledger | Start with sections 3, 5, and 8 claims |
 | `knowledge/chapter-evidence-map.md` | active | Keeps chapter claims tied to question IDs, source families, and decision implications | markdown + TeX + question-bank + source-ledger + methods | Seed chapter-9 rows and refresh map after each chapter-facing markdown edit |
-| `knowledge/cross-jurisdiction-transmission-checklist.md` | active | Gives a reusable routine for separating policy-continuity shifts from ownership-access expansion | chapter 9 + methods (`CX-6`) + question-bank (`U87`, `U93`) + source-ledger | Add first 8 rows with U87/U93 test cases and two falsifiers each |
+| `knowledge/cross-jurisdiction-transmission-checklist.md` | active | Gives a reusable routine for separating policy-continuity shifts from ownership-access expansion | chapter 9 + methods (`CX-6`, `CX-7`) + question-bank (`U87`, `U93`) + source-ledger | Seeded with 6 rows; expand to 8 rows; require confidence + review-date gates before chapter-facing transfer language |
 | `knowledge/question-evidence-gates.md` | planned | Forces falsifiable pass/fail framing for Tier 1 questions | question-bank + methods + source-ledger | Create first rows for M1, O2, L1, I1, R1 |
 | `knowledge/household-stress-watchlist.md` | planned | Converts stress indicators into a practical monitoring routine | DSR/FOR + SCE + NY Fed debt + CFPB MEM | Draft 8-signal watchlist with risk-read rules |
 | `knowledge/signal-lead-lag-matrix.md` | planned | Makes timing claims testable for access/stress signals before outcome moves | question-bank + methods + source-ledger | Seed rows for U7 and U9 with explicit lag windows |
@@ -38,6 +38,8 @@ Purpose: track practical artifacts that make the wealth repository easier to stu
 ### R) Cross-jurisdiction transmission checklist brief
 
 - Goal: keep readers from mistaking policy-lifecycle support for durable ownership-access transfer across geographies and eras.
+- File: `knowledge/cross-jurisdiction-transmission-checklist.md`
+- Round status: seeded with 6 entries in Cycle 23, Round 5 for `U87` and `U93` framing.
 - Core decision rule:
   - require both policy continuity and ownership-access channels to improve before scaling leverage for owner-entry.
 - Minimum schema:
@@ -52,7 +54,11 @@ Purpose: track practical artifacts that make the wealth repository easier to stu
   - `falsifier`
   - `must_not_conflate`
   - `decision_use`
-- Method hook: apply `CX-6` (newly added in `methods.md`) and link each row to `U87` and `U93`.
+- Method hook: apply `CX-6` and `CX-7` in `methods.md`.
+- Decision quality gates:
+  - add `review_date` on each row before transfer claims are written into narrative assets,
+  - keep confidence in {`low`, `medium`, `high`},
+  - and map each row to `U87` or `U93` before reuse in chapter-level prompts.
 - Exit criterion:
   - 8 rows across mixed eras (at least 3 U.S., 3 non-U.S. episodes).
   - each row has explicit two-channel evidence and one confidence grade.

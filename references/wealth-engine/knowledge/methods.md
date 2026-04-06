@@ -243,6 +243,28 @@ Quality checks:
 - Reject rows that lack a clear delay/lag characterization.
 - Always include at least one non-U.S. comparison before declaring a transfer pattern reusable.
 
+## 19) CX-7 method (cross-jurisdiction portability readiness)
+
+Use this method when reusing a transmission claim outside its originating jurisdiction.
+
+| Step | Action | Output |
+| --- | --- | --- |
+| 1 | State the transfer claim in one sentence and define the intended reader action. | explicit transfer claim |
+| 2 | Add two-channel evidence requirements: policy continuity (rate/liquidity/stability signal) and ownership access (entry/approval/underwriting signal). | channel completeness map |
+| 3 | Add a source pair where channel and lag are measurable in both jurisdictions. | comparable source-pair |
+| 4 | Add one falsifier for each channel before any conclusion. | falsifier set |
+| 5 | Add one `must_not_conflate` line that explicitly blocks valuation or liquidity substitution. | conflation guardrail |
+| 6 | Write one staged decision action with explicit cadence (`pause`, `stage`, `scale`) and a review date. | staged decision use |
+| 7 | If confidence is not at least medium-high, route to one additional comparator row before chapter transfer. | comparator completion rule |
+
+Use this method with `knowledge/cross-jurisdiction-transmission-checklist.md` and chapter 9 portability rows (`9.11.7`) before making broad ownership-transfer recommendations.
+
+Quality checks:
+- Use explicit confidence tags: `high`, `medium`, or `low`.
+- Require both source rows to record geography, release period, and publication timestamp.
+- A chapter-facing transfer claim is not allowed when `confidence = low` unless a second comparator row is added first.
+- For rows with `confidence = medium`, add one extra `review_date` check after one policy/market regime turn before scaling.
+
 ## 16) SH-7 method (stories and history integration)
 
 Use this method when adding narrative material to the book, README, or website.

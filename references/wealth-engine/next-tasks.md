@@ -1,6 +1,6 @@
 # Next tasks
 
-Updated: 2026-04-06 (cycle_023 round_04_book_tex)
+Updated: 2026-04-06 (cycle_023 round_05_side_products)
 
 ## Cycle 023 book_tex follow-up (round_04_book_tex)
 
@@ -14,6 +14,14 @@ Updated: 2026-04-06 (cycle_023 round_04_book_tex)
 1. Add the new portability drill in `9.11.7` to `investment_pdfs/wealth-from-first-principles/wealth-from-first-principles.tex` so print and HTML remain synchronized.
 2. Add one explicit `falsifier` line for `9.11.7` in `knowledge/source-ledger.tsv` and map this section to `U93` and `U87` in `knowledge/question-bank.md`.
 3. After sync, add one short portability-ready decision prompt in `knowledge/side-products.md` before allowing concentrated leverage re-acceleration.
+
+## Cycle 023 side_products follow-up (round_05_side_products)
+
+1. Finish `knowledge/cross-jurisdiction-transmission-checklist.md` with 8 seeded rows, preserving at least 4 non-U.S. comparator episodes.
+2. Add confidence labels and explicit source-link fields (`source_1`, `source_2`) for each seeded row before chapter-facing transfer.
+3. Add one explicit `must_not_conflate` and one `falsifier` for each high-impact row before using it in decision prompts.
+4. Mirror the checklist schema references in `knowledge/methods.md` and mark any weak or missing rows for next-pass evidence pulls.
+5. Add one constrained/non-constrained comparator pair in the checklist before applying any medium-confidence transfer claim to narrative guidance.
 
 ## Cycle 023 question_bank follow-up (round_02_question_bank)
 
