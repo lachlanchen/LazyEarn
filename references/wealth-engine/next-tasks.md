@@ -1,6 +1,15 @@
 # Next tasks
 
-Updated: 2026-04-06 (cycle_023 round_10_review_and_next_tasks)
+Updated: 2026-04-06 (cycle_024 round_01_resource_scan)
+
+## Cycle 024 review_and_next_tasks follow-up (round_01_resource_scan)
+
+1. Add one macro-assumption paragraph anchored to IMF WEO October 2025 in `investment/wealth-from-first-principles.md`, then mirror the same dated assumptions in relevant TeX metadata/comments before the next book pass.
+2. Thread BIS Basel III framework `d609` into Chapter 9 risk architecture as a replacement for generic leverage claims, and add one `must_not_conflate` line in side-products.
+3. Add Fed Waller speech-derived decision language to the route/expectation sections, then cross-link to `4.2` and `9.11`.
+4. Place IEA Electricity 2026 and USGS MCS 2026 in one constrained-capacity subsection with at least one practical implication for production throughput and ownership timing.
+5. For OECD IDD/WDD methodology sources, add one chapter-facing source note and one `decision_use` note in side-products before claiming multi-country comparability.
+6. Re-check `resource-map` and `source-ledger.tsv` formatting after each cycle pass so no duplicate canonical URLs accumulate.
 
 ## Cycle 023 review_and_next_tasks follow-up (round_10_review_and_next_tasks)
 

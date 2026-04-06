@@ -1,7 +1,33 @@
 # Resource Map
 
 Updated: 2026-04-06  
-Round seed: cycle_019 / round_01_resource_scan
+Round seed: cycle_024 / round_01_resource_scan
+
+## Cycle 024 additions: crisis mechanics, constraint diagnostics, and updated measurement
+- IMF - World Economic Outlook: October 2025 (release page)
+  https://www.imf.org/en/Publications/WEO/Issues/2025/10/14/world-economic-outlook-october-2025
+  Why keep: official comparative baseline on post-pandemic growth, debt, and inflation risks with explicit scenario framing for Section 3 macro assumptions and global transmission comparisons.
+- IMF - World Economic Outlook 2025/10 full text PDF
+  https://www.imf.org/-/media/files/publications/weo/2025/english/text.pdf
+  Why keep: machine-readable text source for cross-country macro assumptions and historical baseline checks used in wealth accumulation and resilience scenarios.
+- Bank for International Settlements - Core bank group monitoring framework (Basel III monitoring / press package)
+  https://www.bis.org/bcbs/publ/d609.htm
+  Why keep: official Basel III and capital-surveillance reference material for Chapter 9 risk architecture, especially for credibility and leverage controls.
+- Federal Reserve - Governor Waller remarks on policy communication and expectations (June 23, 2026)
+  https://www.federalreserve.gov/newsevents/speech/waller20260223a.htm
+  Why keep: primary remarks on expectation management and forward-guidance mechanics; useful for Section 1/4 causal links between time, irreversibility, and wealth choices.
+- International Energy Agency - Electricity 2026 report
+  https://www.iea.org/reports/electricity-2026
+  Why keep: energy-system planning and production-capacity analysis for physical constraints chapters and infrastructure/wealth transmission discussion.
+- U.S. Geological Survey - Mineral Commodity Summaries 2026 PDF
+  https://pubs.usgs.gov/periodicals/mcs2026/mcs2026.pdf
+  Why keep: updated global mineral-resource exposure and import-reliance baseline for production and real-side constraints.
+- OECD - Wealth and wealth distribution metadata: data sources and yearly coverage
+  https://www.oecd.org/content/dam/oecd/en/data/datasets/income-and-wealth-distribution-databases/idd-metadata-sources-and-income-years.pdf
+  Why keep: methodological bridge for historical inequality/wealth claims and cross-country comparability in evidence-control rows.
+- OECD - Wealth and wealth distribution main concepts and definitions
+  https://www.oecd.org/content/dam/oecd/en/data/datasets/income-and-wealth-distribution-databases/wdd-main-concepts.pdf
+  Why keep: concise definitions for chapter-level use when moving between household-level wealth mechanics and aggregate distribution statements.
 
 ## Cycle 023 additions: cross-border stability architecture, deposit insurance frameworks, and production constraints
 - Bank of Japan - Financial System Report 2025 (October issue)
