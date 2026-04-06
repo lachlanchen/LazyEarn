@@ -19,6 +19,7 @@ Purpose: track practical artifacts that make the wealth repository easier to stu
 | `knowledge/distinction-cards.md` | planned | Quick review cards for core conceptual distinctions | question-bank | Draft 15 cards with examples |
 | `knowledge/daily-prompts.md` | active | Keeps learning cadence consistent during short study sessions and ties each session to a question ID | question-bank + methods + source-ledger | Run one 14-day pilot and capture decision-use notes |
 | `knowledge/study-paths.md` | active | turns chapter sequence into practical study routines tied to unresolved questions and side products | mission + question-bank + methods (`SP-6`) + citation-map + source-ledger | Publish first draft with one 1-week and one 4-week progression plus completion rubric |
+| `knowledge/constrained-wealth-30-day-sprint.md` | planned | converts chapter 9 constrained-wealth framework into a calendar-based execution ladder | chapter 9 + question-bank + methods (`30D-SW`) + source-ledger | publish a 30-day starter table with one reversibility gate per block |
 | `knowledge/revision-aware-capacity-checklist.md` | planned | Turns revision-aware credit reads plus real-capacity rails into one repeatable regime classification layer | question-bank (`U21`-`U25`) + methods (`RC-6`) + source-ledger | Draft first 6 rows and attach one action rule per row |
 | `knowledge/cycle-clock-lead-lag-panel.md` | planned | Aligns mixed-cadence cycle signals into one lead-lag decision panel for liquidity, conditions, flows, and stress | question-bank (`U26`,`U27`,`U29`) + methods (`CC-7`) + source-ledger | Draft first 8 rows and include at least one rejected signal case |
 | `knowledge/entry-and-property-price-pulse.md` | planned | Prevents conflating entry momentum, valuation moves, and liquidity backdrop when assessing broad wealth access | question-bank (`U31`-`U35`) + methods (`EP-6`) + source-ledger | Draft first 8 rows using BFS, BDS, RPP, CPP, GLI, and one real-conversion rail |
@@ -325,6 +326,28 @@ Purpose: track practical artifacts that make the wealth repository easier to stu
   - one lead and one lag channel,
   - one falsifier and one irreversibility marker,
   - one explicit decision-use line.
+
+### Q2) 30-day constrained-wealth study sprint brief
+
+- Goal: translate chapter 9's constrained-wealth lenses into a 30-day sequence with explicit control rules.
+- Minimum schema:
+  - `day_window`
+  - `focus`
+  - `source_family`
+  - `primary_signal`
+  - `action_rule`
+  - `fail_condition`
+  - `stop_rule`
+  - `evidence_review_note`
+  - `next_block_decision`
+- Method hook:
+  - use `30D-SW` from `knowledge/methods.md`;
+  - require one explicit reversibility marker in each block;
+  - require one stop condition before moving to the next block.
+- Exit criterion:
+  - one complete 30-day starter track (at least 6 blocks),
+  - one explicit weekly review logic with a decision rule,
+  - one continuation rule based on reversibility, not price alone.
 
 ### R) Chapter-evidence map brief
 

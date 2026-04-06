@@ -617,3 +617,36 @@ next_review
 
 Quality rule:
 - A claim row is incomplete without `source_state`, one mechanism sentence, and one decision-implication sentence.
+
+## 27) 30D-SW method (30-day constrained-wealth study sprint)
+
+Use this method when a reader should turn a chapter lens into a practical 30-day execution block.
+
+Goal: turn abstract sequence checks into decision-ready daily rhythm for access, burden, stress, and scaling.
+
+| Step | Action | Output |
+| --- | --- | --- |
+| 1 | Pick one objective for the sprint (`access`, `debt-service`, `ownership scaling`, `resilience`, or `risk control`) and set a start/end date. | objective + sprint window |
+| 2 | Assign one leading signal per 5-day block from an official source family (money, access, burden, stress, constraints). | 6-week map with explicit signal rails |
+| 3 | Define one action rule per block that is impossible to justify without the signal improving. | action policy map |
+| 4 | Add one reversal test and one stop rule for each block. | failure-mode map |
+| 5 | Run a weekly review with two checks: `2+ green` signals needed to advance, `1 must-not-worsen` signal to continue existing actions. | sprint review outcome |
+| 6 | End with one continuation decision (advance, hold, or reset) tied to a reversible vs irreversible marker list. | next_sprint state |
+
+Minimum schema for `knowledge/30-day-constrained-wealth-sprint.md`:
+
+```text
+day_window
+focus
+source_family
+primary_signal
+action_rule
+fail_condition
+stop_rule
+evidence_review_note
+next_block_decision
+```
+
+Quality rule:
+- At least one block must explicitly use an irreversibility check (`forced-sale`, `denial concentration`, or `cash-flow irreversibility proxy`).
+- No block should have action without at least one official/primary signal family attached.

@@ -1,6 +1,6 @@
 # Next tasks
 
-Updated: 2026-04-06 (cycle_017 round_02_question_bank)
+Updated: 2026-04-06 (cycle_017 round_05_side_products)
 
 ## Cycle 017 resource scan follow-up (round_01_resource_scan)
 
@@ -36,6 +36,13 @@ Updated: 2026-04-06 (cycle_017 round_02_question_bank)
    - and one decision-use guardrail line.
 3. Before the next chapter-facing markdown pass, convert at least four of `U70`-`U77` into provisional `knowledge/question-evidence-gates.md` rows using QE-5 schema fields and explicit falsifiers.
 4. In the next evidence-map pass, map at least two of `U70`-`U77` into chapter 5 and two into chapter 9 claim rows with explicit irreversibility/reversibility language and one `must_not_conflate` each.
+
+## Cycle 017 side-products follow-up (round_05_side_products)
+
+1. Create `knowledge/constrained-wealth-30-day-sprint.md` using the new `30D-SW` method from `knowledge/methods.md`.
+2. Seed the sprint with one 30-day sample track connected to chapter 9 checkpoints and at least one irreversibility gate (`forced-sale`, `denial concentration`, or equivalent).
+3. Update `knowledge/side-products.md` with one completion-ready status line and the next step once the sprint has a reproducible first draft.
+4. After seeding the sprint, update this section with one concrete review date and a "ready for study-path reuse" decision.
 
 ## Cycle 016 side-products follow-up (round_05_side_products)
 
