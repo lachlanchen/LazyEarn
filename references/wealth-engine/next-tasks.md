@@ -2,6 +2,31 @@
 
 Updated: 2026-04-06 (cycle_021 round_04_book_tex)
 
+## Cycle 021 review_and_next_tasks follow-up (round_10_review_and_next_tasks)
+
+1. Add one substantial chapter-facing paragraph to section `4.2 Why time matters` that ties compounding, risk, and irreversible choice to one physical limit (throughput, replacement lag, or storage constraint), with one falsifier each.
+2. In Chapter 9, add explicit historical paragraphs with date + institution + measurable outcome for at least:
+   - `9.10 Historical mechanism test` (Great Recession transmission),
+   - `9.11.1` (1973–74 oil shock transmission lag),
+   - `9.11.5` (1930–33 banking contraction).
+3. Expand `9.11` and `9.10.2` with one recurring cross-jurisdiction comparator template:
+   - date,
+   - policy regime change,
+   - two observable series (for example credit spread, approval/funding metric, or payroll-linked indicator),
+   - one decision implication.
+4. Strengthen philosophy/physics treatment by adding one reusable bridge pass in Chapter 9:
+   - `9.11` → `4.2` link language on irreversibility,
+   - explicit constraints lens for ownership conversion and delayed access.
+5. Increase factual density in chapter evidence surfaces:
+   - add a third numeric column (or equivalent compact field) to the largest Chapter 9 source tables,
+   - remove uncited mechanism claims in `3.x` and `9.x` before the next markdown pass.
+6. In `knowledge/side-products.md`, add `round_10_review_and_next_tasks` closure notes for the highest-priority claim-control tasks above and mark whether each requires source pull, bridge paragraph, or both.
+7. In the next markdown-to-TeX sync pass, prioritize mirroring:
+   - the new 4.2 bridge paragraph,
+   - one historical paragraph in `9.10`,
+   - one historical paragraph in `9.11.5`,
+   before the next build round.
+
 ## Cycle 021 build_and_verify follow-up (round_09_build_and_verify)
 
 1. Before the next content pass, run a tiny pre-build route integrity check script (or equivalent command sequence) that verifies:
