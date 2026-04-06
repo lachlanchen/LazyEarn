@@ -499,3 +499,36 @@ Seed round: cycle_019 / round_02_question_bank
 - `U83`: require energy/throughput and fixed-capital/credit-burden rails before claiming method superiority.
 - `U84`: require one primary archival episode and one modern comparator window before adopting a historical regime rule.
 - `U85`: require one rule-behavior test under high-uncertainty windows before formalizing governance prioritization.
+
+## Distinctions refresh (cycle_022)
+
+| Distinction | Why it matters |
+| --- | --- |
+| Fiscal-financing channel (primary demand, transfer, or valuation) vs durable ownership channel (legal control, income flow, survivability) | Budget headlines can look positive while ownership remains inaccessible if claims stay in legacy channels. |
+| Entry signal vs control signal | New approvals or permits that do not become long-dwell ownership do not resolve household-level wealth asymmetry. |
+| Throughput-constrained durability vs paper-return durability | Positive spreads can be achieved briefly in credit-fueled episodes, but constrained production rails can erase compounding capacity later. |
+| Historical analogy vs historical mechanism transfer | Same event title (for example, inflation shock) can produce different wealth outcomes if transmission sequence differs. |
+
+## Unanswered priority questions (cycle_022 question-bank pass)
+
+| ID | Sharpened question | What must be distinguished | What would falsify the working hypothesis | First evidence pull | Decision-use line |
+| --- | --- | --- | --- | --- |
+| U94 | In fiscal-expansion episodes, which channel absorbs the first durable net-money increase: household credit, small-business credit, mortgage channels, or asset-price valuation? | New public spending support vs money reaching first-mile wealth-building channels | If household/owner-entry rails do not lead valuation channels after expansion by one-two windows | CBO budget and outlook tables, Treasury Debt to the Penny, Fed H.6, Fed H.8, NY Fed household debt and credit | Treat allocation claims as viable only when first-mile channels improve before or alongside valuation channels. |
+| U95 | How much of “wealth recovery” after crisis is ownership transfer versus valuation re-rating of pre-existing claims? | Legal-control ownership transfer vs valuation re-pricing | If legal-owner share and owner-control proxies fail to diverge from asset-price moves in recovery windows | Federal Reserve historical essays on the Great Recession, Fed DFA, SCF, SEC beneficial-owner disclosures | If ownership-control markers do not move with recovery, classify gains as valuation repair and reduce ownership-progression recommendations. |
+| U96 | Which leverage structures preserve optionality under stress: maturity-capped debt with stable cash flow, mixed-rate debt, or high-currency/maturity mismatch debt? | Productive leverage design vs leverage-as-amplifier | If fragility does not vary across structures with similar burden levels, no structure-specific rule is justified | Fed DSR/FOR, BIS Quarterly Review materials, CFPB Making Ends Meet, BIS TOTAL_CREDIT, NY Fed Household Debt | Escalate leverage rules only when contract quality improves both burden and survival outcomes in the same stress window. |
+| U97 | How much of current inequality in wealth progress is ownership-denominator narrowing versus concentration-amplified valuation gains for existing owners? | Participation widening vs incumbent concentration | If entrant entry and entrant-income durability rise together with concentration, inequality claims require reclassification | OECD IDD/WDD, SCF, CBO LTBO, Fed DFA, Census wealth tables | Use inequality claims only when participation denoms and concentration are jointly reported, not when valuation alone changes. |
+| U98 | In household risk transitions, which marker should dominate: high debt-service burden, irreversible access lockout, or recurring drawdown stress? | Reversible volatility vs irreversible control/access erosion | If reversibility markers and lockout markers evolve identically across windows, singular ruin-priority rules are weak | CFPB Making Ends Meet, FDIC foreclosure/bank-failure indicators, Fed DSR/FOR | Shift recommendations immediately to survival mode when irreversible lockout leads before pure volatility metrics recover. |
+| U99 | During material physical-constraint windows (energy, minerals, logistics), which wealth-building method keeps both cash-flow growth and optionality highest? | Throughput-limited physical conversion vs debt-led valuation conversion | If debt-led methods outperform physical-constrained windows without constraint-adjusted downside, then throughput gating is not required | USGS Mineral Commodity Summaries 2025, EIA STEO/MER, BEA fixed assets, IEA energy outlooks, Fed DSR/FOR | If constraint windows persist, treat high-dependency or long-lead replacement projects as lower-conviction until replacement-rate metrics recover. |
+| U100 | Which historical transmission comparator is most predictive for current sequence decisions: 1930s banking closures, the 1973-74 oil shock, or the 2008 Great Recession? | Historical sequence structure vs single-cycle narrative memory | If lead-lag order differs across all three candidate windows, use a cycle-internal benchmark instead of historical transfer | Federal Reserve historical essays (1930-31 and 1973-74), BIS AR 2025, IMF GFSR 2025 | Use only one historical comparator when two modern windows replicate its channel-order signature; avoid anchoring on unmatched anecdotes. |
+| U101 | Which philosophical decision rule should dominate under uncertainty: optionality-first, return-first, or participation-first? | Value growth vs agency/option value vs inclusion/entry stability | If a single rule does not dominate both high-uncertainty and constrained windows, rules must be regime-dependent | Federal Reserve historical essays, OECD IDD/WDD, CBO LTBO, OECD wealth-distribution series, Fed DFA | Keep method rules regime-conditioned: prioritize optionality and participation thresholds when uncertainty or constraint bands widen. |
+
+## Evidence gates for cycle_022 unanswered set
+
+- `U94`: require one fiscal source and one recipient-channel source, then explicit lead-lag mapping against valuation metrics.
+- `U95`: require legal ownership/proxy ownership and valuation proxies in the same windows before calling any recovery durable.
+- `U96`: require debt structure, burden, and survival rails before endorsing any specific leverage type.
+- `U97`: require participant-denominator and incumbent-denominator tracking before attributing inequality movement to concentration or policy design.
+- `U98`: require one reversible and one irreversible marker before ranking risk transitions.
+- `U99`: require at least one commodity/throughput constraint indicator and one cash-flow/optionalities indicator before constrained-regime method ranking.
+- `U100`: require two comparable historical windows and one current window before selecting a comparator as route guidance.
+- `U101`: require a regime-split test (normal, constrained, high-uncertainty) before publishing any philosophical prioritization as default.

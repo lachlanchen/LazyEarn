@@ -1,6 +1,15 @@
 # Next tasks
 
-Updated: 2026-04-06 (cycle_021 round_04_book_tex)
+Updated: 2026-04-06 (cycle_022 round_02_question_bank)
+
+## Cycle 022 question_bank follow-up (round_02_question_bank)
+
+1. Convert `U94`-`U101` into explicit evidence-control fields in `knowledge/question-bank.md`:
+   - `falsifier`,
+   - `must_not_conflate`,
+   - and a concise `Decision-use` rule (where not yet present).
+2. In `cycles/cycle_022/round_02_question_bank/questions.md`, map `U94`-`U101` to primary and fallback sections so chapter routing is explicit before the next markdown-facing pass.
+3. Before the next book pass, add `U95`, `U97`, `U98`, and `U101` as closure-ready rows in either `knowledge/methods.md` or `knowledge/side-products.md` so risk, inequality, and philosophical guidance carry hard stop rules.
 
 ## Cycle 022 resource_scan follow-up (round_01_resource_scan)
 
