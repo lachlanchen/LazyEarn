@@ -1,6 +1,19 @@
 # Next tasks
 
-Updated: 2026-04-06 (cycle_016 round_04_book_tex)
+Updated: 2026-04-06 (cycle_016 round_05_side_products)
+
+## Cycle 016 side-products follow-up (round_05_side_products)
+
+1. Build `knowledge/chapter-evidence-map.md` for chapter 9 and use it as the source of truth for high-impact claims in `9.10` through `9.11.4`.
+2. Require each mapped claim in chapter 9 to include:
+   - one primary `question_id`,
+   - one fallback anchor,
+   - one falsifier,
+   - and one `decision_use` sentence.
+3. Before the next markdown/TeX bridge round, use the chapter evidence map to verify:
+   - `9.11.4 Irreversibility gate for durable wealth decisions` is tagged to `U67` and `U69`,
+   - reversible/irreversible language remains consistent between markdown and TeX.
+4. Add at least one `must_not_conflate` row to the map before each future chapter-facing edit, and set `next_review` to the next evidence window.
 
 ## Cycle 016 book-tex follow-up (round_04_book_tex)
 

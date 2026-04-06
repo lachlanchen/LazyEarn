@@ -1,6 +1,6 @@
 # Side Products Catalog
 
-Updated: 2026-04-05  
+Updated: 2026-04-06  
 Purpose: track practical artifacts that make the wealth repository easier to study and maintain.
 
 ## Active and planned side products
@@ -11,6 +11,7 @@ Purpose: track practical artifacts that make the wealth repository easier to stu
 | `knowledge/core-series-watchlist.md` | planned | Converts source pages into exact series IDs and table codes | source-ledger | Create first version for M1, O2, L1 |
 | `knowledge/household-balance-sheet-bundle.md` | planned | Aligns household risk/wealth variables across data systems | Fed EFA, NY Fed CCP, Census SIPP, FHFA, CPI | Add variable dictionary and join keys |
 | `knowledge/citation-map.tsv` | planned | Links book claims to specific data families and release pages | markdown + TeX + source-ledger | Start with sections 3, 5, and 8 claims |
+| `knowledge/chapter-evidence-map.md` | active | Keeps chapter claims tied to question IDs, source families, and decision implications | markdown + TeX + question-bank + source-ledger + methods | Seed chapter-9 rows and refresh map after each chapter-facing markdown edit |
 | `knowledge/question-evidence-gates.md` | planned | Forces falsifiable pass/fail framing for Tier 1 questions | question-bank + methods + source-ledger | Create first rows for M1, O2, L1, I1, R1 |
 | `knowledge/household-stress-watchlist.md` | planned | Converts stress indicators into a practical monitoring routine | DSR/FOR + SCE + NY Fed debt + CFPB MEM | Draft 8-signal watchlist with risk-read rules |
 | `knowledge/signal-lead-lag-matrix.md` | planned | Makes timing claims testable for access/stress signals before outcome moves | question-bank + methods + source-ledger | Seed rows for U7 and U9 with explicit lag windows |
@@ -324,6 +325,31 @@ Purpose: track practical artifacts that make the wealth repository easier to stu
   - one lead and one lag channel,
   - one falsifier and one irreversibility marker,
   - one explicit decision-use line.
+
+### R) Chapter-evidence map brief
+
+- Goal: keep chapter-level claims auditable and useful through explicit question anchors and decision implications.
+- Minimum schema:
+  - `chapter`
+  - `book_heading`
+  - `claim_id`
+  - `question_id`
+  - `fallback_anchor`
+  - `distinction`
+  - `mechanism`
+  - `source_family`
+  - `source_anchor`
+  - `source_state`
+  - `falsifier`
+  - `must_not_conflate`
+  - `decision_use`
+  - `next_review`
+- Method hook:
+  - use `CHM-6` from `knowledge/methods.md`;
+  - require evidence-state and decision-use completion before claiming chapter closure.
+- Exit criterion:
+  - chapter 9 has at least 8 mapped claims for sections 9.10 to 9.11.4;
+  - each mapped claim has one primary question ID and one fallback anchor.
 
 ## Starter prompt pack (14 days)
 

@@ -578,3 +578,42 @@ next_pull
 
 Quality rule:
 - Keep a strict one-to-one lesson field per episode and require both episodes to include at least one comparable `release-lag` note.
+
+## 26) CHM-6 method (chapter evidence-map design)
+
+Use this method when chapter claims are likely to drift from the question bank, source ledger, or intended reader action.
+
+Goal:
+- Keep every high-impact claim auditable by tying it to one or more question IDs and source families.
+- Keep chapter editing and side-product synthesis aligned and repeatable.
+
+| Step | Action | Output |
+| --- | --- | --- |
+| 1 | Pick one chapter slice and lock the top 5-8 claims it must justify. | `book_heading` and `claim_id` set |
+| 2 | Map each claim to one primary `question_id` and one fallback anchor. | primary + fallback mapping |
+| 3 | Tag each claim with one source family and one current confidence state (`verified`, `seeded`, `to_pull`, `stale`). | evidence state |
+| 4 | Add a distinct mechanism and one decision implication before closing the claim row. | mechanism + decision_use |
+| 5 | Add one falsifier and one confusion guard for each claim. | falsifier + confusion guard |
+| 6 | Link each claim to a review date and one maintenance owner (`weekly`, `monthly`, `quarterly`). | next_review + cadence |
+
+Minimum schema for `knowledge/chapter-evidence-map.md`:
+
+```text
+chapter
+book_heading
+claim_id
+question_id
+fallback_anchor
+distinction
+mechanism
+source_family
+source_anchor
+source_state
+falsifier
+must_not_conflate
+decision_use
+next_review
+```
+
+Quality rule:
+- A claim row is incomplete without `source_state`, one mechanism sentence, and one decision-implication sentence.
