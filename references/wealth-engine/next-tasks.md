@@ -10,6 +10,14 @@ Updated: 2026-04-06 (cycle_021 round_04_book_tex)
    - `research.routeStep8` stays explicit about stop conditions.
 2. If a locale drifts from this structure, update the matching locale entry in `docs/translations.json` and keep en as the source of truth in script fallback.
 
+## Cycle 021 translation_and_catalog follow-up (round_08_translation_and_catalog)
+
+1. In the next pass, run a locale smoke check in `en`, `zh-Hant` (or `zh-Hans`) after changing any `research` route keys to confirm:
+   - `research.routeIntro` still references the Chapter 9-first, then 30D-SW execution order;
+   - `research.routeStep1` through `research.routeStep8` remain present and ordered;
+   - `research.point9` has been updated beyond `Cycle_020` framing.
+2. If a new research slug alias is added in `docs/script.js`, add alias-resolution coverage in both `pdf-viewer.html#<slug>` and `?file=<slug>` formats before release.
+
 ## Cycle 021 readme_sync follow-up (round_06_readme_sync)
 
 1. Align non-English `docs/translations.json` entries for `research.copy` and `research.point9` with the current `cycle_021` English runtime narrative after this readme sync.

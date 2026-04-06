@@ -280,7 +280,9 @@ function normalizeResearchSlug(value) {
   return normalized
     .trim()
     .toLowerCase()
-    .replace(/[_\s]+/g, "-");
+    .replace(/[_\s]+/g, "-")
+    .replace(/-+/g, "-")
+    .replace(/^-+|-+$/g, "");
 }
 
 function buildCatalogAliasMap(entries) {
