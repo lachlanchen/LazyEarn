@@ -2,6 +2,19 @@
 
 Updated: 2026-04-06 (cycle_021 round_04_book_tex)
 
+## Cycle 021 build_and_verify follow-up (round_09_build_and_verify)
+
+1. Before the next content pass, run a tiny pre-build route integrity check script (or equivalent command sequence) that verifies:
+   - `docs/index.html` viewer links resolve to canonical slugs in `pdfEntries`.
+   - alias slugs from content cards resolve through both `pdf-viewer.html#<slug>` and `pdf-viewer.html?file=<slug>`.
+2. Keep two-pass `xelatex` as a default for this file until warning volume stabilizes, and record warning counts for:
+   - `Underfull \hbox`
+   - `Overfull \hbox`
+   - `Underfull \vbox`
+3. Keep a manual PDF render sanity check step for chapter-open/navigation readability after each major structural edit to Chapter 9, especially:
+   - chapter table/appendix sections around the 9.10–9.11 route guidance.
+4. Preserve a canonical PDF manifest for the copied outputs (`investment_pdfs/.../build`, repo root, docs folder) with hash comparison after each publishable build.
+
 ## Cycle 021 website_sync follow-up (round_07_website_sync)
 
 1. After this round, run a fast route-text smoke check in English plus one CJK locale to verify:
