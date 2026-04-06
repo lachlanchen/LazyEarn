@@ -1,6 +1,14 @@
 # Next tasks
 
-Updated: 2026-04-06 (cycle_020 round_07_website_sync)
+Updated: 2026-04-06 (cycle_020 round_09_build_and_verify)
+
+## Cycle 020 build_and_verify follow-up (round_09_build_and_verify)
+
+1. Keep a 2-pass XeLaTeX run in the build gate after any chapter-facing edits to TeX.
+2. Retain warning count tracking for each build run (`Underfull \hbox`, `Overfull \hbox`, `Underfull \vbox`).
+3. Keep page-route integrity checks as a build gate: all `pdf-viewer.html#<slug>` and `?file=<slug>` values in `docs/index.html` resolve to `pdfEntries`.
+4. Keep page-route integrity checks as a build gate: both canonical PDF copies remain byte-identical after every build.
+5. If warning totals rise after edits, run a small line-wrap and table-width cleanup pass before adding new historical table density.
 
 ## Cycle 020 website_sync follow-up (round_07_website_sync)
 

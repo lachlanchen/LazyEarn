@@ -1,0 +1,23 @@
+# Round 9 summary
+
+- Objective: compile and sync `wealth-from-first-principles` PDF artifacts, verify route/link slugs, and capture render-readiness checks.
+- Files changed:
+  - `references/wealth-engine/cycles/cycle_020/round_09_build_and_verify/build-notes.md`
+  - `build/wealth-from-first-principles.pdf`
+  - `investment_pdfs/wealth-from-first-principles/wealth-from-first-principles.pdf`
+  - `docs/investment_pdfs/wealth-from-first-principles/wealth-from-first-principles.pdf`
+- Compilation performed:
+  - `xelatex -interaction=nonstopmode -output-directory=/home/lachlan/ProjectsLFS/LazyEarn/build investment_pdfs/wealth-from-first-principles/wealth-from-first-principles.tex`
+  - Re-run once for stable cross-reference state.
+- Verification completed:
+  - Confirmed viewer slugs and route alias set in `docs/index.html` and `docs/script.js` are aligned and complete.
+  - Confirmed all PDF copies exist and are byte-identical after sync (`181069` bytes; SHA-256 `e26f692dc4dc0a16cbbe878f339fb398447ff6c9d200a7a6fd53c66b46e383a7`).
+  - Confirmed PDF text extract contains chapter-structure and usability cues (`Contents`, `Core thesis`, `A sentence worth remembering`, `Control ladder`, `Source notes`).
+- Warnings captured in `build/wealth-from-first-principles.log`:
+  - `Underfull \hbox`: 255
+  - `Overfull \hbox`: 12
+  - `Underfull \vbox`: 10
+- Sources used: none (artifact build and local consistency checks only).
+- Next steps:
+  - Keep an eye on the warning drift if this round adds more tables/callout-heavy content in Chapters 9-11.
+  - Add route/slug validation to build gate as a recurring check before future content handoffs.
