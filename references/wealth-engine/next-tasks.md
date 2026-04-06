@@ -8,6 +8,11 @@ Updated: 2026-04-06 (cycle_025 round_06_readme_sync)
 2. Record a short checkpoint in `references/wealth-engine/cycles/cycle_025/round_06_readme_sync/readme-notes.md` whenever future cycle-label changes touch Chapter 4/3 and Chapter 9 bridges (`U112`/`U114`, `FML-6`, `30D-SW`).
 3. Keep README cycle text and route-sequence assertions in sync with `cycle_025` outputs by checking against `docs/index.html`, `docs/script.js`, and `docs/translations.json` before each non-readme handoff.
 
+## Cycle 025 website_sync follow-up (round_07_website_sync)
+
+1. Add a route-parity checkpoint after this website-sync round confirming one romanized locale keeps `research.point9`, `research.routeIntro`, and all `research.routeStep1` through `research.routeStep9` aligned with English meaning (not just text), including both `routeStep8`/`routeStep9`.
+2. Add a targeted translation audit whenever `research.point9` or route keys change: no `routeStep9` key may be missing, and `routeStep8` must remain the `9.11.6` / `9.11.7` step.
+
 ## Cycle 025 resource scan follow-up (round_01_resource_scan)
 
 1. Add FDIC Quarterly Banking Profile and H.15 (Selected Interest Rates) evidence rows into chapter-side mapping before the next `book_markdown` pass, especially in sections on financing cost and bank-condition transmission.
