@@ -2,6 +2,16 @@
 
 Updated: 2026-04-06 (cycle_018 round_01_resource_scan)
 
+## Cycle 018 build_and_verify follow-up (round_09_build_and_verify)
+
+1. Before the next content-intense TeX pass, trim the underfull/overfull line-break pressure in Chapter 11 source-note and constraint map blocks before adding further visible content:
+   - current baseline is `Underfull \hbox: 244`, `Overfull \hbox: 9`, `Underfull \vbox: 9`;
+   - keep PDF output at 48 pages unless chapter structure changes.
+2. Keep build verification explicit in `round_09_build_and_verify`:
+   - confirm 2-pass XeLaTeX success,
+   - confirm hash parity among build + public PDF copies,
+   - confirm route/slug rendering for `research.routeStep1` to `research.routeStep7`.
+
 ## Cycle 018 side-products follow-up (round_05_side_products)
 
 1. Seed `knowledge/constrained-wealth-30-day-sprint.md` with actual series IDs or table links for each 6-block row and map each block to one `question_id`.
