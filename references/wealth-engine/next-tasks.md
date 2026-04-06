@@ -1,6 +1,6 @@
 # Next tasks
 
-Updated: 2026-04-06 (cycle_024 round_05_side_products)
+Updated: 2026-04-06 (cycle_024 round_10_review_and_next_tasks)
 
 ## Cycle 024 readme_sync follow-up (round_06_readme_sync)
 
@@ -42,6 +42,39 @@ Updated: 2026-04-06 (cycle_024 round_05_side_products)
    - one `must_not_conflate`,
    - one concrete stop condition.
 4. In the same cycle, link completed checklist rows to `U112` and `U114` in the next applicable side-product/evidence mapping pass.
+
+## Cycle 024 review_and_next_tasks follow-up (round_10_review_and_next_tasks)
+
+1. Resolve stale-readme sync artifacts before any content handoff:
+   - In `README.md`, remove or reframe the "Cycle 023 operating focus" and stale text that says web route strings are still on Cycle_023.
+   - Add one explicit note that chapter `9.10/9.11` + `30D-SW` execution is the current reader-facing cycle in one place.
+   - Add one check box in `README.md` that confirms English route keys and the same locale in `translations.json` share identical `research.point9`, `research.routeIntro`, and `research.routeStep1`-`research.routeStep9`.
+
+2. Raise chapter 4 depth for time-control as a physics-oriented mechanism pass:
+   - Extend `investment/wealth-from-first-principles.md#4.2` with one substantial second paragraph that names a physical bottleneck clock (replacement chain, logistics lead time, or throughput recovery) and maps the clock to irreversible ownership-control outcomes.
+   - Add one explicit `falsifier` and one `must_not_conflate` sentence in the same subsection before any Chapter 9 historical transfer blocks claim support.
+   - Mirror the same mechanism in `wealth-from-first-principles.tex` and seed one `question-bank` hook for `U112`/`U114` + `U117`.
+
+3. Push Chapter 9 factual density to comparable decision-ready levels:
+   - In `9.10` and `9.11.*`, add one compact date + institution + lag field (`lag_days`, `lag_weeks`, or `outcome_horizon`) per mechanism block row or step.
+   - Add explicit timing ladders for `9.10.1`, `9.11.1`, and `9.11.2` with at least one quantified transmission lag in each block.
+   - Add at least one non-U.S. comparator in each of `9.11.2`, `9.11.6`, and `9.11.7` with measurable transmission timing outcomes, not only institutional label lists.
+
+4. Strengthen philosophy/physics bridge and irreversibility gating:
+   - Add a short bridge in `9.11.4` linking `4.2` (time preference, optionality, control loss) to the irreversibility decision ladder.
+   - Add one explicit hard-stop condition for real-capacity/transport constraints in Chapter 9 method switches (when non-transport channels are limiting, staged ownership scaling stops).
+   - Ensure each high-impact block in `9.11.1`-`9.11.7` carries at least one decision-use line tied to irreversibility or access quality.
+
+5. Complete Chapter 9 evidence-control coverage before next markdown-to-TeX sync:
+   - Expand `knowledge/chapter-evidence-map.md` from the current 2 seeded rows to at least 6 seeded rows covering:
+     `9.10`, `9.10.1`, `9.11`, `9.11.1`, `9.11.4`, `9.11.5`, `9.11.6`, `9.11.7`.
+   - For each row add `falsifier`, `must_not_conflate`, and `decision_use` with concrete channel-specific wording.
+   - Add a `U110`-`U117` routing note to `methods.md` or `side-products.md` before claiming any unresolved question in prose.
+
+6. Tighten locale/route parity before the next sync:
+   - Fix locale blocks where `routeStep8`/`routeStep9` are mis-keyed (e.g., vi block currently exposes the `30D-SW` clause in step 8 and should keep two-step sequencing).
+   - Require one smoke check row in `next-tasks.md` for at least one romanized locale where `research.routeIntro`, `research.routeStep1`, and `research.routeStep9` all differ from English only by language, not by meaning.
+   - Keep `docs/translations.json` locale blocks for `research.point8`, `research.point9`, `research.routeIntro`, and `research.routeStep*` aligned to English `script.js` keys for the same route sequence.
 
 ## Cycle 024 question_bank follow-up (round_02_question_bank)
 
