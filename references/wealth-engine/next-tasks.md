@@ -1,6 +1,6 @@
 # Next tasks
 
-Updated: 2026-04-06 (cycle_016 round_06_readme_sync)
+Updated: 2026-04-06 (cycle_016 round_07_website_sync)
 
 ## Cycle 016 side-products follow-up (round_05_side_products)
 
@@ -29,6 +29,17 @@ Updated: 2026-04-06 (cycle_016 round_06_readme_sync)
 3. Add a reader-facing follow-up note if chapter 9 expands beyond seeded map rows:
    - update `chapter-evidence-map.md` coverage in the next README cycle_016+ section before the next markdown pass.
    - include one note on what changed in the new row.
+
+## Cycle 016 website_sync follow-up (round_07_website_sync)
+
+1. Keep the website research guidance aligned with cycle_016 scope:
+   - update `research.point` and route sequence text to mention `9.11.4` and `CHM-6`.
+   - keep `index.html` and `script.js` route keys aligned (`research.routeStep1` through `research.routeStep6`).
+   - keep `README.md`, `docs/index.html`, and `docs/script.js` using compatible cycle language.
+2. Confirm that the wealth guide route card in `index.html` renders all enabled step keys from `pdfEntries["wealth-from-first-principles"].routeGuide`.
+   Done when local load checks show six route steps and no unresolved route-key warnings in the browser console.
+3. Add a post-update web-facing note in `references/wealth-engine/cycles/cycle_016/round_07_website_sync/summary.md` before moving to next book/translation synchronization round.
+4. In the next translation pass, add `research.routeStep6` to each localized `docs/translations.json` research route block (`ja`, `ko`, `vi`, `ar`, `fr`, `es`, `zh-Hant`, `zh-Hans`) so non-English readers do not briefly fall back to English for the final step.
 
 ## Cycle 016 book-tex follow-up (round_04_book_tex)
 
