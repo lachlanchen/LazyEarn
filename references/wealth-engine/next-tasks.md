@@ -904,3 +904,8 @@ Done when: at least 3 starter rows (one per question) are logged with `lead_resu
 1. Keep the chapter-9 irreversibility gate in `investment_pdfs/wealth-from-first-principles/wealth-from-first-principles.tex` in stable sync with the markdown (`investment/wealth-from-first-principles.md`) and preserve the `\label{subsec:irreversibility-gate}` anchor for future checks.
 2. Add one source-backed irreversibility marker reference row in `references/wealth-engine/knowledge/source-ledger.tsv` tied to the new `U67`/`U69` interpretation (forced-sale or denied-entry concentration signal families).
 3. Before the next build round, confirm `investment_pdfs/wealth-from-first-principles/wealth-from-first-principles.pdf` and `docs/investment_pdfs/wealth-from-first-principles/wealth-from-first-principles.pdf` timestamps remain synchronized after TeX changes.
+
+## Cycle 017 Round 3 follow-up
+- Add a mirrored 30-day study track table in `investment_pdfs/wealth-from-first-principles/wealth-from-first-principles.tex` so PDF readers receive the same execution scaffold as the markdown.
+- Add a reusable checklist variant to `references/wealth-engine/knowledge/side-products.md` so the sequence can be reused as a standalone study path.
+- Verify chapter anchors after adding `Section 11.6` in markdown are reflected in any website snippets that expose headings or section anchors.

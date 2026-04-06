@@ -946,6 +946,21 @@ This is a curated starter map, not an exhaustive library.
 | **Federal Reserve History: Oil Shock of 1973-74** | production and energy constraints during a global supply shock | historical mechanism reference for real-throughput versus financial-signaling sequencing |
 | **Federal Reserve History: The Meeting at Jekyll Island** | institutional architecture and the creation of modern central banking institutions | historical reference for design intent versus operational access outcomes |
 
+## 11.6 30-day constrained wealth study track
+
+Use this sequence if you want evidence-backed reading plus light implementation.
+
+| Day | Focus | Concrete action |
+| --- | --- | --- |
+| 1-5 | Money mechanics baseline | Read Chapter 9.11, then track Fed H.6 money stock, FRED inflation, and BEA PCE or personal income releases for two weeks. |
+| 6-10 | Ownership and leverage | Read Chapter 6 and 8, then map one household balance sheet (yours or a case study) against SCF categories. |
+| 11-15 | Constraint-first diagnosis | Read Chapter 11.5 and Chapter 9.11, then test one historical episode with at least two sources from the official list above. |
+| 16-20 | Policy transmission and risk | Read Chapter 4 and 9.11.3, then build a "policy-to-money" timeline using one Federal Reserve and one central bank of another region (ECB or RBA). |
+| 21-25 | Portfolio and income resilience | Read Chapter 7 and 10, then create a three-line financial plan: income, spending, leverage, and liquidity reserves by quarter. |
+| 26-30 | Irreversibility checks | Read Chapters 2, 3, and 9.11.4. Define and document two irreversible wealth decisions to delay and two to execute. |
+
+The point of this track is not to read faster; it is to keep each chapter tied to one official source and one irreversible decision. If a section does not generate a new rule for your behavior, file it under "intended but not practiced" and return later.
+
 ## 12. Source notes
 
 Primary web references used for this guide were checked on **2026-04-05** and include:
