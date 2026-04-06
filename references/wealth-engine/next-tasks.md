@@ -2,6 +2,15 @@
 
 Updated: 2026-04-06 (cycle_019 round_07_website_sync)
 
+## Cycle 020 resource_scan follow-up (round_01_resource_scan)
+
+1. Turn the new Fed and BoC/SNB entries into at least one chapter-level evidence map entry each:
+   - FOMC 2025-03-19 and 2025-12-10, plus BoC March 2026 policy decision.
+2. Build one short non-U.S. comparison subsection in chapter 9 using BoC March 2026 and SNB 2025 stability context.
+3. Add at least one explicit source-note citation in the chapter for the NBER monetary-history source and attach one falsifier + one must-not-conflate constraint in question-bank.
+4. Confirm which of these sources are PDF-dominant and mirror PDF/HTML links in both `investment/wealth-from-first-principles.md` and `investment_pdfs/wealth-from-first-principles/wealth-from-first-principles.tex`.
+5. Re-scan for additional official lecture or historical-archive sources in the next resource pass (especially from central-bank archives on communication and speech transcripts).
+
 ## Cycle 019 readme_sync follow-up (round_06_readme_sync)
 
 1. After any future docs or route-copy edit, re-check that `README.md` and `docs/index.html` cycle status text stay coherent.

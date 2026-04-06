@@ -3,6 +3,41 @@
 Updated: 2026-04-06  
 Round seed: cycle_019 / round_01_resource_scan
 
+## Cycle 020 additions: meeting-level archives, non-US monetary case material, and foundational references
+- Federal Reserve Board - Minutes of the Federal Open Market Committee, March 19 2025
+  https://www.federalreserve.gov/monetarypolicy/files/fomcminutes20250319.pdf
+  Why keep: direct, meeting-level record of policy expectation shifts before the first half of 2026 path, useful for expectation-formation and signaling mechanics in section 9.
+- Federal Reserve Board - FOMC press conference statement, December 10 2025
+  https://www.federalreserve.gov/mediacenter/files/FOMCpresconf20251210.pdf
+  Why keep: primary statement transcript for a policy turn in a high-volatility inflation and credit environment.
+- Federal Reserve Board - Minutes of the Federal Open Market Committee, December 10 2025
+  https://www.federalreserve.gov/monetarypolicy/files/fomcminutes20251210.pdf
+  Why keep: cross-check of policy communication with measured action, useful for decision-lag and credibility analysis.
+- Bank of Canada press release: Bank of Canada maintains policy rate at 2¼% (March 18 2026)
+  https://www.bankofcanada.ca/2026/03/fad-press-release-2026-03-18/
+  Why keep: non-U.S. policy rate decision source with explicit market-confidence and global-risk framing, good for comparative liquidity chapters.
+- Bank of Canada summary of Governing Council deliberations: fixed announcement date of March 18 2026
+  https://www.bankofcanada.ca/2026/04/summary-governing-council-deliberations-fixed-announcement-date-of-march-18-2026/
+  Why keep: institutional deliberation source that explains internal policy process and tradeoff language for section-level mechanism writing.
+- Bank of Canada Financial Stability Report 2025
+  https://www.bankofcanada.ca/2025/05/financial-stability-report-2025/
+  Why keep: direct risk-assessment source focused on household debt, bank resilience, and real-economy transmission in a non-U.S. regime.
+- Bank of Canada annual reports and quarterly financial reports directory
+  https://www.bankofcanada.ca/publications/annual-reports-quarterly-financial-reports/
+  Why keep: official accounting and governance baseline to support wealth + institutional structure discussion in chapter 2 and 9.
+- Swiss National Bank Financial Stability Report 2025
+  https://www.snb.ch/en/publications/financial-stability-report/2025/stabrep_2025/
+  Why keep: complementary non-U.S. stability architecture with explicit links between credit, real estate, and funding stress indicators.
+- Swiss National Bank decisions page (monetary policy assessments and news conferences)
+  https://www.snb.ch/en/the-snb/mandates-goals/monetary-policy/decisions
+  Why keep: structured comparison source for cross-country policy-cycle timing and forward guidance cadence.
+- SNB press summary: publication of Financial Stability Report 2025
+  https://www.snb.ch/en/publications/communication/press-releases/2025/pre_20250619_1
+  Why keep: official release trigger and context for the stability report publication, useful for publication-and-reaction sequencing.
+- NBER books-and-chapters: A Monetary History of the United States, 1867-1960
+  https://www.nber.org/books-and-chapters/monetary-history-united-states-1867-1960
+  Why keep: canonical long-form historical source on money, banking, and crisis transmission for deeper historical grounding.
+
 ## Cycle 019 additions: cross-jurisdiction stability, liquidity transmission, and household behavior
 - Reserve Bank of Australia Financial Stability Review – March 2026
   https://www.rba.gov.au/publications/fsr/2026/mar/
