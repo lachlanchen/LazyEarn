@@ -1,6 +1,12 @@
 # Next tasks
 
-Updated: 2026-04-06 (cycle_022 round_06_readme_sync)
+Updated: 2026-04-06 (cycle_022 round_07_website_sync)
+
+## Cycle 022 website_sync follow-up (round_07_website_sync)
+
+1. Run a quick locale smoke check (English + at least one Chinese locale) for `research.routeStep1` through `research.routeStep9`, `research.point9`, and `research.point8` after adding the `9.11.6` step.
+2. Confirm `research.routeStep9` and `30D-SW` stop/decision language are present in non-English `docs/translations.json` copies where practical; prioritize en + `zh-Hant` + one romanized locale.
+3. Keep `Cycle_022` execution messaging in one place for future rounds by preserving `syncedEnglishResearchStrings` as the en runtime source of truth in `docs/script.js`.
 
 ## Cycle 022 readme_sync follow-up (round_06_readme_sync)
 
