@@ -1,6 +1,6 @@
 # Next tasks
 
-Updated: 2026-04-06 (cycle_020 round_04_book_tex)
+Updated: 2026-04-06 (cycle_020 round_05_side_products)
 
 ## Cycle 020 book_tex follow-up (round_04_book_tex)
 
@@ -12,6 +12,15 @@ Updated: 2026-04-06 (cycle_020 round_04_book_tex)
 4. Carry one small source-note sync checklist into the next review round so each new case has explicit source-anchor lines in both:
    - `Appendix: Official references and sources`
    - `Source notes` in TeX
+
+## Cycle 020 side_products follow-up (round_05_side_products)
+
+1. Before the next chapter-facing pass, run `HRC-6` for every new historical episode proposed for chapter 9 and require one readiness row before adding any transfer language.
+2. Seed at least one non-U.S. comparator row in `knowledge/historical-readiness-checklist.md` so U79/U86-type comparisons avoid geography concentration.
+3. Keep `knowledge/side-products.md`, `knowledge/methods.md`, and `knowledge/historical-readiness-checklist.md` in lockstep:
+   - method tag present in the side-product row,
+   - checklist rows include `falsifier` + `must_not_conflate` + `decision_use`.
+4. After the next markdown/TeX chapter edit, add a short note on whether side-product constraints improved claim calibration in chapter 9.
 
 ## Cycle 020 resource_scan follow-up (round_01_resource_scan)
 

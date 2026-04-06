@@ -16,6 +16,7 @@ Purpose: track practical artifacts that make the wealth repository easier to stu
 | `knowledge/household-stress-watchlist.md` | planned | Converts stress indicators into a practical monitoring routine | DSR/FOR + SCE + NY Fed debt + CFPB MEM | Draft 8-signal watchlist with risk-read rules |
 | `knowledge/signal-lead-lag-matrix.md` | planned | Makes timing claims testable for access/stress signals before outcome moves | question-bank + methods + source-ledger | Seed rows for U7 and U9 with explicit lag windows |
 | `knowledge/entry-vs-incumbent-access-tests.md` | planned | Separates ownership-entry access conditions from incumbent balance-sheet outcomes | question-bank + methods + mortgage/small-business sources | Draft first 6 test rows for U11 and U13 |
+| `knowledge/historical-readiness-checklist.md` | active | Forces comparability checks for new historical mechanisms before claim transfer | historical-transmission-countercase + chapter 9 + methods (`HRC-6`) + question-bank | Seed U79/U86-ready rows and run one read/compare cycle per round |
 | `knowledge/distinction-cards.md` | planned | Quick review cards for core conceptual distinctions | question-bank | Draft 15 cards with examples |
 | `knowledge/daily-prompts.md` | active | Keeps learning cadence consistent during short study sessions and ties each session to a question ID | question-bank + methods + source-ledger | Run one 14-day pilot and capture decision-use notes |
 | `knowledge/study-paths.md` | active | turns chapter sequence into practical study routines tied to unresolved questions and side products | mission + question-bank + methods (`SP-6`) + citation-map + source-ledger | Maintain two seeded paths (`SP-3`, `SP-3b`) with completion states and run first 2-week pilot |
@@ -378,6 +379,31 @@ Updated status (cycle_019):
 - Exit criterion:
   - chapter 9 has at least 8 mapped claims for sections 9.10 to 9.11.4;
   - each mapped claim has one primary question ID and one fallback anchor.
+
+### S) Historical readiness checklist brief
+
+- Goal: avoid converting one-off historical episodes into overfit conclusions before comparison checks.
+- Minimum schema:
+  - `question_id`
+  - `chapter_anchor`
+  - `anchor_mechanism`
+  - `constrained_episode`
+  - `counter_case_episode`
+  - `actor_or_institution`
+  - `key_channels`
+  - `comparability_lag_notes`
+  - `irreversibility_marker`
+  - `falsifier`
+  - `must_not_conflate`
+  - `decision_use`
+  - `next_pull`
+- Method hook:
+  - use `HRC-6` from `knowledge/methods.md`;
+  - require explicit lag/cadence comparability and one non-narrative decision-use line per row.
+- Exit criterion:
+  - seeded with at least three rows covering U79/U86;
+  - each row has a distinct comparator episode and one falsifier;
+  - rows are updated after each chapter-9 historical insertion.
 
 ## Starter prompt pack (14 days)
 

@@ -1,6 +1,6 @@
 # Methods Playbook
 
-Updated: 2026-04-05  
+Updated: 2026-04-06  
 Scope: wealth-engine research and writing workflow
 
 ## 1) Question -> Evidence -> Claim loop
@@ -696,3 +696,44 @@ next_block_decision
 Quality rule:
 - At least one block must explicitly use an irreversibility check (`forced-sale`, `denial concentration`, or `cash-flow irreversibility proxy`).
 - No block should have action without at least one official/primary signal family attached.
+
+## 28) HRC-6 method (historical readiness and comparator check)
+
+Use this method before adding a new historical episode into a working chapter or side-product.
+
+Goal:
+- Keep one real case from becoming a loose anecdote by forcing structured comparability, explicit lag control, and failure-mode checks.
+
+| Step | Action | Output |
+| --- | --- | --- |
+| 1 | Pick one target question and one anchor mechanism. | mechanism statement |
+| 2 | Choose one constrained episode and one counter-case with the same mechanism target. | episode pair |
+| 3 | Define comparability constraints (institution, geography, reporting cadence, and minimum two-window lag check). | comparability lock |
+| 4 | Record at least three signal classes (liquidity, access, burden, throughput, participation, valuation) for each episode. | channel panel |
+| 5 | Set one falsifier and one `must_not_conflate` guard before drafting inference language. | invalidation lock |
+| 6 | Produce one decision-use sentence and one stop/hold rule that follows the episode evidence. | practical implication |
+
+Minimum schema for `knowledge/historical-readiness-checklist.md`:
+
+```text
+question_id
+chapter_anchor
+anchor_mechanism
+constrained_episode
+counter_case_episode
+actor_or_institution
+key_channels
+comparability_lag_notes
+irreversibility_marker
+falsifier
+must_not_conflate
+decision_use
+next_pull
+```
+
+Quality rule:
+- A row is incomplete if one of the following is missing:
+  - comparability lock (`lag`, `cadence`, or geography),
+  - falsifier,
+  - must_not_conflate,
+  - decision_use.
