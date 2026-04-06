@@ -1,6 +1,13 @@
 # Next tasks
 
-Updated: 2026-04-06 (cycle_016 round_03_book_markdown)
+Updated: 2026-04-06 (cycle_016 round_04_book_tex)
+
+## Cycle 016 book-tex follow-up (round_04_book_tex)
+
+1. Mirror the markdown `9.11.4 Irreversibility gate for durable wealth decisions` into `investment_pdfs/wealth-from-first-principles/wealth-from-first-principles.tex` with stable heading, table rows, and action implication language.
+2. Keep `\label{subsec:irreversibility-gate}` stable in the TeX source so later review can anchor to the section reliably.
+3. Add a source-ledger mapping row for the irreversibility layer (`forced-sale`, `denial`, or `foreclosure`) with `source_type`, `update_cadence`, and `last_verified_on` so the new gate has traceable source metadata.
+4. Confirm `investment_pdfs/wealth-from-first-principles/wealth-from-first-principles.pdf` and `docs/investment_pdfs/wealth-from-first-principles/wealth-from-first-principles.pdf` stay synchronized after each structural TeX edit.
 
 ## Cycle 016 book-markdown follow-up (round_03_book_markdown)
 
@@ -765,3 +772,9 @@ Done when: at least 3 starter rows (one per question) are logged with `lead_resu
 - Add question-evidence-gate rows for `U59`-`U63` with explicit falsifier and must-not-conflate lines in the next evidence pass.
 - Build a first-pass watchlist row set for U59/U60/U61 tying channel, burden, and throughput rail families (H.6/Z.1, DSR/FOR, EIA, IMF).
 - Pilot one historical-to-current transmission mapping row for U63 using IMF Article IV + Federal Reserve historical essays + BIS vulnerability assessment rails.
+
+## Cycle 016 book-tex follow-up (round_04_book_tex)
+
+1. Keep the chapter-9 irreversibility gate in `investment_pdfs/wealth-from-first-principles/wealth-from-first-principles.tex` in stable sync with the markdown (`investment/wealth-from-first-principles.md`) and preserve the `\label{subsec:irreversibility-gate}` anchor for future checks.
+2. Add one source-backed irreversibility marker reference row in `references/wealth-engine/knowledge/source-ledger.tsv` tied to the new `U67`/`U69` interpretation (forced-sale or denied-entry concentration signal families).
+3. Before the next build round, confirm `investment_pdfs/wealth-from-first-principles/wealth-from-first-principles.pdf` and `docs/investment_pdfs/wealth-from-first-principles/wealth-from-first-principles.pdf` timestamps remain synchronized after TeX changes.
