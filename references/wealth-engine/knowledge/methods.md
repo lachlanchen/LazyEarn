@@ -208,6 +208,41 @@ Default rule:
 - In any cycle that touches the book, aim for at least one visibly meaningful improvement to the reading experience.
 - If forced to choose between a hidden maintenance edit and a clear reader-facing improvement, prefer the reader-facing improvement unless accuracy would suffer.
 
+## 18) CX-6 method (cross-jurisdiction transmission check)
+
+Use this method when a mechanism appears portable but jurisdiction context differs.
+
+| Step | Action | Output |
+| --- | --- | --- |
+| 1 | Define the transfer claim (for example "policy calm implies broader ownership access"). | Explicit transfer hypothesis |
+| 2 | Separate the two channels: policy continuity (rates, liquidity, spread behavior) and ownership access (approval, borrower entry, persistence). | Clean two-column reading frame |
+| 3 | Choose one constrained and one unconstrained source series from each channel with aligned dates and revision behavior. | Comparable evidence pairs |
+| 4 | Add one falsifier for each channel before interpreting improvement. | Channel-specific invalidation rules |
+| 5 | Add one `must_not_conflate` line that blocks treatment of valuation/liquidity gains as equivalent to durable access gains. | Conflation guardrail |
+| 6 | Record one action rule and one caveat (`scale now`, `stage`, or `pause` + caveat). | Decision-use link |
+
+Minimum schema for `cross-jurisdiction-transmission-checklist.md`:
+
+```text
+case_id
+episode_label
+jurisdiction_pair
+policy_continuity_signal
+ownership_access_signal
+signal_lag
+source_1
+source_2
+falsifier
+must_not_conflate
+decision_use
+confidence
+```
+
+Quality checks:
+- Keep only episodes where policy channel and access channel are both documented.
+- Reject rows that lack a clear delay/lag characterization.
+- Always include at least one non-U.S. comparison before declaring a transfer pattern reusable.
+
 ## 16) SH-7 method (stories and history integration)
 
 Use this method when adding narrative material to the book, README, or website.

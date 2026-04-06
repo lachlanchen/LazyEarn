@@ -1,6 +1,13 @@
 # Next tasks
 
-Updated: 2026-04-06 (cycle_022 round_04_book_tex)
+Updated: 2026-04-06 (cycle_022 round_05_side_products)
+
+## Cycle 022 side_products follow-up (round_05_side_products)
+
+1. Seed `knowledge/cross-jurisdiction-transmission-checklist.md` with 8 entries before the next `book_markdown` handoff, including at least 4 non-U.S. comparator rows.
+2. For the new side-product rows, force both `falsifier` and `must_not_conflate` fields before any claim-transfer use in `question-bank` or `side-products` mapping.
+3. Link every seeded checklist row to `source-ledger.tsv` sources and at least one of `U87`/`U93` with explicit transfer implication notes.
+4. Add one short review ritual in this checklist linking Chapter 9 `9.11.6` to the leverage/ownership scaling decision cadence for readers.
 
 ## Cycle 022 book_tex follow-up (round_04_book_tex)
 
