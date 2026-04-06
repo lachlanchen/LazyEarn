@@ -21,6 +21,16 @@ Updated: 2026-04-06 (cycle_018 round_01_resource_scan)
 
  
 
+## Cycle 018 readme_sync follow-up (round_06_readme_sync)
+
+1. Keep `README.md` and the public route copy in sync before the next book-facing edit:
+   - confirm `docs/index.html` `Research Drop` cycle text and route framing are reflected in `README` in either "aligned" or "pending sync" wording.
+2. Keep this README block set to one active cycle summary plus one "documentation scope" note:
+   - side-product outcomes,
+   - method additions,
+   - and book output scope only when outputs actually changed.
+3. If round_06 adds new operational assets again, extend `references/wealth-engine/cycles/cycle_018/round_06_readme_sync/summary.md` with completion confidence and explicit next action.
+
 ## Cycle 017 review_and_next_tasks follow-up (round_10_review_and_next_tasks)
 
 1. Close the chapter evidence-map bottleneck before the next visible book edit:

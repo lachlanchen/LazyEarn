@@ -19,7 +19,7 @@ Localization scope split (synced for this round):
 [![i18n](https://img.shields.io/badge/i18n-9%20languages-f59e0b)](#configuration)
 [![Mode](https://img.shields.io/badge/Mode-Static%20Frontend-10b981?logo=javascript&logoColor=white)](#overview)
 
-Last synced to mission cycle: **cycle_017** (`2026-04-06`).
+Last synced to mission cycle: **cycle_018** (`2026-04-06`).
 
 Earn.lazying.art is a source-aware, mechanism-first repository for people building clear mental models of money, wealth, ownership, and long-horizon financial resilience.
 
@@ -57,6 +57,19 @@ LazyEarn is a static GitHub Pages-oriented project with two major parts:
 2. A research pipeline using Markdown source briefs in `investment/` and compiled LaTeX/PDF artifacts in `investment_pdfs/` (also mirrored to `docs/investment_pdfs/` for web delivery).
 
 Primary production domain (from `docs/CNAME`): `earn.lazying.art`.
+
+### Cycle_018 operating focus
+
+- Keep this cycle focused on operational side-product maturity in `references/wealth-engine/` so chapter-level decisions are easier to execute repeatedly.
+- Keep side-products and methods synchronized for chapter 9-to-action translation:
+  - `references/wealth-engine/knowledge/methods.md` (`30D-SW`),
+  - `references/wealth-engine/knowledge/side-products.md`,
+  - `references/wealth-engine/knowledge/constrained-wealth-30-day-sprint.md`.
+- Keep README claims tied to explicit cycle state and avoid implying chapter/PDF structural changes that are not yet made.
+- Current website-facing research-cycle language in `docs/index.html` remains at cycle_017; README records this as an active sync status note until the next website round.
+- Practical purpose:
+  - convert mechanism insights into timed, reversible action routines;
+  - keep readers aligned between evidence framing, method gates, and operational study tracks.
 
 ### Cycle_017 operating focus
 
@@ -327,6 +340,17 @@ Narrative rundowns for AI, biotech, semiconductors, clean energy, and cloud.
   - reduce copy drift between docs, book scope notes, and operational loop records,
   - keep readers aligned on what changed and where the evidence gate sits before the next editing handoff.
 
+## 🔁 Book sync highlights (cycle_018)
+
+- Added a 30-day constrained-wealth execution method:
+  - `30D-SW` in `references/wealth-engine/knowledge/methods.md`;
+  - `constrained-wealth-30-day-sprint.md` seeded as an active side-product with reversible-action blocks.
+- Updated `references/wealth-engine/knowledge/side-products.md` status/next-step state so `constrained-wealth-30-day-sprint.md` is active and aligned with chapter 9 operationalization.
+- Updated `references/wealth-engine/next-tasks.md` with explicit completion criteria for first pilot fill-in and completion markers.
+- Practical purpose:
+  - make chapter 9 mechanisms operational in short time windows;
+  - keep evidence discipline and reversibility checks explicit before increasing risk exposure.
+
 ## 🧪 Wealth refinery loop
 
 The repository now carries a durable research loop so book, PDF, README, and site copy can evolve with traceable methods.
@@ -337,7 +361,7 @@ The repository now carries a durable research loop so book, PDF, README, and sit
 | Source map | `references/wealth-engine/knowledge/resource-map.md` | Curated source families and selection logic |
 | Source ledger | `references/wealth-engine/knowledge/source-ledger.tsv` | Date-stamped source entries with notes |
 | Question bank | `references/wealth-engine/knowledge/question-bank.md` | Tiered research questions and distinctions |
-| Methods playbook | `references/wealth-engine/knowledge/methods.md` | Question -> evidence -> claim process, SQ-5 rubric, and execution methods (`QE-5`, `HS-8`, `LL-6`, `EV-7`, `DP-5`, `RC-6`, `CC-7`, `EP-6`, `CAB-9`, `CAS-10`, `HCT-6`, `CHM-6`) |
+| Methods playbook | `references/wealth-engine/knowledge/methods.md` | Question -> evidence -> claim process, SQ-5 rubric, and execution methods (`QE-5`, `HS-8`, `LL-6`, `EV-7`, `DP-5`, `RC-6`, `CC-7`, `EP-6`, `CAB-9`, `CAS-10`, `HCT-6`, `CHM-6`, `30D-SW`) |
 | Daily prompts pack | `references/wealth-engine/knowledge/daily-prompts.md` | 14-day question-linked study prompts plus logging template |
 | Side-products catalog | `references/wealth-engine/knowledge/side-products.md` | Checklists, prompt packs, and planned study artifacts |
 | Round outputs | `references/wealth-engine/cycles/` | Per-round notes, findings, and summaries |
@@ -364,12 +388,14 @@ Current method signals (synced with the main book):
 - `HCT-6` method for historical constrained-vs-countercase transmission testing (newly added in round_05 side-products).
 - `CHM-6` method for chapter claim evidence mapping (question-to-claim-to-source-to-decision).
 - `SP-6` method for study-path design and side-product sequencing, including decision checkpoints and failure-mode control.
+- `30D-SW` method for a constrained-wealth 30-day execution rhythm with action/stop/reversal rules.
 
 ### Next side-product builds (already scoped)
 
 - Active now:
   - `references/wealth-engine/knowledge/study-paths.md` (new cycle_013 learning-route artifact),
   - `references/wealth-engine/knowledge/chapter-evidence-map.md` (new cycle_016 chapter-evidence audit artifact).
+  - `references/wealth-engine/knowledge/constrained-wealth-30-day-sprint.md` (new cycle_018 constrained-wealth execution scaffold).
 
 | Artifact | Why it matters | Minimum schema |
 | --- | --- | --- |
@@ -385,6 +411,7 @@ Current method signals (synced with the main book):
 | `references/wealth-engine/knowledge/cadence-aware-stress-classification-panel.md` | Converts cycle_010 mixed-cadence stress questions into an as-known-on-date regime panel (`U41`-`U45`). | `question_id`, `signal_block`, `series_or_table`, `source`, `release_date`, `as_known_on_date`, `freshness_tag`, `naive_read`, `cadence_aware_read`, `regime_tag`, `decision_use`, `caveat` |
 | `references/wealth-engine/knowledge/debt-throughput-decision-map.md` | Converts cycle_012 debt, sovereign, and throughput questions into release-aware channel comparisons before durable wealth conclusions (`U53`-`U58`). | `question_id`, `window`, `liquidity_signal`, `access_signal`, `valuation_signal`, `burden_signal`, `throughput_signal`, `first_lead_channel`, `first_lag_channel`, `falsifier`, `must_not_conflate`, `irreversible_risk_test`, `fragility_class`, `decision_use`, `caveat`, `next_pull` |
 | `references/wealth-engine/knowledge/historical-transmission-countercase.md` | Compares constrained transmission episodes against non-constrained counter-cases before drawing mechanism-level lessons (`U64`-`U69`). | `question_id`, `anchor_mechanism`, `episode_constrained`, `episode_counter_case`, `liquidity_signal`, `access_signal`, `burden_signal`, `throughput_signal`, `participation_signal`, `falsifier`, `must_not_conflate`, `reversibility_read`, `transfer_rule`, `next_pull` |
+| `references/wealth-engine/knowledge/constrained-wealth-30-day-sprint.md` | Converts chapter 9 constrained-wealth mechanisms into a 30-day action runway with reversibility rules and stop conditions. | `day_window`, `focus`, `source_family`, `primary_signal`, `action_rule`, `fail_condition`, `stop_rule`, `evidence_review_note`, `continuation_rule`, `reversibility_marker` |
 
 ## 🗂️ Project structure
 
