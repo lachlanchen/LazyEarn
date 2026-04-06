@@ -13,6 +13,7 @@ Purpose: track practical artifacts that make the wealth repository easier to stu
 | `knowledge/citation-map.tsv` | planned | Links book claims to specific data families and release pages | markdown + TeX + source-ledger | Start with sections 3, 5, and 8 claims |
 | `knowledge/chapter-evidence-map.md` | active | Keeps chapter claims tied to question IDs, source families, and decision implications | markdown + TeX + question-bank + source-ledger + methods | Seed chapter-9 rows and refresh map after each chapter-facing markdown edit |
 | `knowledge/cross-jurisdiction-transmission-checklist.md` | active | Gives a reusable routine for separating policy-continuity shifts from ownership-access expansion | chapter 9 + methods (`CX-6`, `CX-7`) + question-bank (`U87`, `U93`) + source-ledger | Seeded with 6 rows; expand to 8 rows; require confidence + review-date gates before chapter-facing transfer language |
+| `knowledge/first-mile-transmission-checklist.md` | planned | Forces policy-to-access ladder validation before any claim that transmission has reached durable ownership | chapter 3 + chapter 9 + methods (`FML-6`) + question-bank (`U118`, `U121`, `U123`, `U125`) | Seed 4+ rows and include explicit Window 0/1/2 labels per row |
 | `knowledge/question-evidence-gates.md` | planned | Forces falsifiable pass/fail framing for Tier 1 questions | question-bank + methods + source-ledger | Create first rows for M1, O2, L1, I1, R1 |
 | `knowledge/household-stress-watchlist.md` | planned | Converts stress indicators into a practical monitoring routine | DSR/FOR + SCE + NY Fed debt + CFPB MEM | Draft 8-signal watchlist with risk-read rules |
 | `knowledge/signal-lead-lag-matrix.md` | planned | Makes timing claims testable for access/stress signals before outcome moves | question-bank + methods + source-ledger | Seed rows for U7 and U9 with explicit lag windows |
@@ -182,6 +183,38 @@ Purpose: track practical artifacts that make the wealth repository easier to stu
   - `decision_use`
   - `caveat`
 - Exit criterion: at least 6 rows spanning `U21`-`U25`, with at least one row explicitly labeled `constraint-led fragility`.
+
+### P) First-mile transmission checklist brief
+
+- Goal: prevent policy support and bank-system signals from being interpreted as durable ownership transfer without access and burden confirmation.
+- File: `knowledge/first-mile-transmission-checklist.md`
+- Core decision rule:
+  - classify each episode by the order of signal windows:
+    - Window 0 improved only: policy cushion, ownership unknown
+    - Window 0 and Window 1 improved: staged opportunity
+    - Window 0/1 without Window 2: fragile transmission
+    - all three improved in sequence: reliable accumulation window
+- Minimum schema:
+  - `question_id`
+  - `episode_label`
+  - `window_0_signal`
+  - `window_1_signal`
+  - `window_2_signal`
+  - `lag_pattern`
+  - `entrant_channel`
+  - `incumbent_channel`
+  - `falsifier`
+  - `must_not_conflate`
+  - `hard_stop_condition`
+  - `decision_use`
+  - `confidence`
+  - `review_date`
+- Method hook:
+  - use `FML-6` from `knowledge/methods.md`
+- Exit criterion:
+  - at least 4 seeded rows covering `U118` through `U125`;
+  - every active row has a dated evidence window, one falsifier, and one explicit hard-stop condition;
+  - no entry is reused in chapter guidance until `confidence` is `medium` or `high`.
 
 ### J) Cycle-clock lead-lag panel brief
 

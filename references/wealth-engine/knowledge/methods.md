@@ -259,6 +259,45 @@ Use this method when reusing a transmission claim outside its originating jurisd
 
 Use this method with `knowledge/cross-jurisdiction-transmission-checklist.md` and chapter 9 portability rows (`9.11.7`) before making broad ownership-transfer recommendations.
 
+## 20) FML-6 method (first-mile lag mapping)
+
+Use this method when a claim about policy transmission must pass the three-window ownership ladder from Chapter 3 (`Window 0 -> 1 -> 2`).
+
+| Step | Action | Output |
+| --- | --- | --- |
+| 1 | Fix one episode and lock the analysis window to comparable releases. | aligned dates + release set |
+| 2 | Record the first observable change in policy continuity (Window 0), then the first change in access (Window 1), then access-quality and burden (Window 2). | explicit lag sequence |
+| 3 | Add one entrant channel and one incumbent channel metric in the same window. | disaggregated access split |
+| 4 | Add one falsifier for Window 0/1/2 transfer order before interpreting results. | falsifier set |
+| 5 | Add one `must_not_conflate` line on valuation versus ownership-control interpretation. | distinction guardrail |
+| 6 | Add one hard-stop condition where any Window 1 or Window 2 weakness halts risk-taking even if Window 0 is positive. | regime action rule |
+| 7 | Save all rows with confidence labels (`low`, `medium`, `high`) and an explicit review date. | transferability quality control |
+
+Minimum schema for `first-mile-transmission-checklist.md`:
+
+```text
+question_id
+episode_label
+window_0_signal
+window_1_signal
+window_2_signal
+lag_pattern
+entrant_channel
+incumbent_channel
+falsifier
+must_not_conflate
+hard_stop_condition
+decision_use
+confidence
+review_date
+```
+
+Apply `FML-6` to:
+- `U118` (channel sequencing across households, firms, and channels)
+- `U121` (participation versus valuation concentration transfer)
+- `U123` (constrained-throughput method ranking)
+- `U125` (strategy-shift trigger under control-loss pressure)
+
 Quality checks:
 - Use explicit confidence tags: `high`, `medium`, or `low`.
 - Require both source rows to record geography, release period, and publication timestamp.

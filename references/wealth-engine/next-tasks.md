@@ -25,6 +25,12 @@ Updated: 2026-04-06 (cycle_024 round_10_review_and_next_tasks)
 1. Mirror `### 3.6 Historical calibration for the first-mile lag` in TeX with one additional official-source anchor (e.g., US Federal Reserve or FDIC episode archive pages) for each crisis row before the next major build-check or methodology handoff.
 2. Keep this section-level timing framework synchronized with any future edits to Chapter 9 transmission rows, so the book's three-window logic remains citation-consistent across formats.
 
+## Cycle 025 side_products follow-up (round_05_side_products)
+
+1. Seed `knowledge/first-mile-transmission-checklist.md` from `methods.md` `FML-6` with rows for `U118`, `U121`, `U123`, and `U125` before any strategy-scaling language uses transmission ladder outcomes.
+2. For all seeded rows, include one non-U.S. comparator episode and record one explicit `hard_stop_condition` tied to access weakness or cash-flow fragility.
+3. Convert checklist rows into chapter-facing evidence control before any narrative claim uses first-mile lag sequencing as a readiness signal in chapter 3 or chapter 9.
+
 ## Cycle 024 readme_sync follow-up (round_06_readme_sync)
 
 1. After this README sync round, run the next `website_sync` round to update `docs/translations.json`, `docs/script.js`, and `docs/index.html` route labels only after parity checks against this README cycle text.
