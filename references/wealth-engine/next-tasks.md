@@ -2,6 +2,19 @@
 
 Updated: 2026-04-06 (cycle_022 round_08_translation_and_catalog)
 
+## Cycle 023 question_bank follow-up (round_02_question_bank)
+
+1. Move the cycle_023 unanswered set from exploratory notes into first-pass chapter-facing placements:
+   - prioritize `U102` and `U103` in `9.10` and `9.11` with explicit recipient-channel lead-lag notes,
+   - map `U104` and `U107` into `4.2`/`4.4` as production-constraint decision gates,
+   - route `U108` into `9.11.4` and `U109` into `4.2` before the next book pass.
+2. Add `must_not_conflate` notes in `knowledge/side-products.md` or `knowledge/methods.md` for:
+   - `stability -> access`,
+   - `valuation -> ownership`,
+   - `volatility -> ruin`.
+3. Expand evidence pull for `U105` and `U106` with one primary non-U.S. source pair per comparator (Norway/BoJ and IMF/OECD channeling).
+4. In the next book pass, add one compact evidence-control row for each of `U102-U109` linking: hypothesis, falsifier, data source, and decision-use.
+
 ## Cycle 023 resource_scan follow-up (round_01_resource_scan)
 
 1. Fold non-U.S. financial-system architecture sources into Chapter 9:
