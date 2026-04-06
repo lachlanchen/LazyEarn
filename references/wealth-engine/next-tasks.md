@@ -2,6 +2,16 @@
 
 Updated: 2026-04-06 (cycle_022 round_08_translation_and_catalog)
 
+## Cycle 023 resource_scan follow-up (round_01_resource_scan)
+
+1. Fold non-U.S. financial-system architecture sources into Chapter 9:
+   - add a BoJ FSR comparator point in `9.10`/`9.11` and a short `falsifier` note around liquidity-support timing,
+   - use Norges Bank FSR 2025 H1 for a Nordic bank-liquidity/transmission comparison in `9.11`.
+2. Add a production-constraint section in Chapter 4 or 7 using OECD Global Debt Report 2026 and the BoT Q4 2025 MPC report to connect debt structure, import dependence, and constrained-capacity channels.
+3. Add `source-ledger.tsv` evidence-control fields (`must_not_conflate`, `decision_use`) for IADI deposit-insurance records before using them as support in methods or side-products.
+4. Add one decision-use side-product row mapping the IADI framework to `30D-SW` risk controls, explicitly separating liquidity support from ownership-continuity claims.
+5. Re-scan non-U.S. public safety-net and macro-stability pages (BoJ FSR, BoT MPR, Norges FSR) for any updated 2026 follow-ups before the next `book_markdown` cycle.
+
 ## Cycle 022 review_and_next_tasks follow-up (round_10_review_and_next_tasks)
 
 Priority:

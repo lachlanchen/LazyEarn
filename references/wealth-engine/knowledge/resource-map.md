@@ -3,6 +3,26 @@
 Updated: 2026-04-06  
 Round seed: cycle_019 / round_01_resource_scan
 
+## Cycle 023 additions: cross-border stability architecture, deposit insurance frameworks, and production constraints
+- Bank of Japan - Financial System Report 2025 (October issue)
+  https://www.boj.or.jp/en/research/brp/fsr/fsr251023.htm
+  Why keep: annual central-bank assessment of monetary-and-financial stability design, useful for chapter comparisons on non-U.S. transmission, stress testing, and infrastructure resilience.
+- Norges Bank - Financial Stability Report 2025 H1 (web report)
+  https://www.norges-bank.no/en/news-events/publications/financial-stability-report/2025-1-financial-stability/web-report-2025-1-financial-stability/
+  Why keep: detailed Norwegian case material on bank profitability, liquidity stress testing, and systemic vulnerabilities, directly useful for cross-jurisdiction comparator sections.
+- Bank of Thailand - Monetary Policy Report 2025 Q4
+  https://www.bot.or.th/content/dam/bot/documents/en/our-roles/monetary-policy/mpc-publication/monetary-policy-report/MPR_2025_Q4.pdf
+  Why keep: official policy-report text for emerging-economy transmission channels, policy-rate tradeoffs, and production/credit constraints under growth uncertainty.
+- International Association of Deposit Insurers - Core Principles for Effective Deposit Insurance Systems (September 2025)
+  https://www.iadi.org/uploads/Core-Principles-September-2025.pdf
+  Why keep: primary standard-setting source for deposit safety architecture and crisis-contingency design, useful for wealth-transmission, bank-confidence, and financial safety-net chapters.
+- IADI - Revised Core Principles press release
+  https://www.iadi.org/2025/11/press-release-iadi-revised-iadi-core-principles/
+  Why keep: confirms release context and timing of September 2025 framework revisions; useful for methodology discipline around safety-net claims.
+- OECD - Global Debt Report 2026: Sustaining Debt Market Resilience Under Growing Pressure
+  https://www.oecd.org/en/publications/global-debt-report-2026_e9d80efd-en/full-report.html
+  Why keep: modern sovereign and corporate debt-market diagnostics with liquidity and investor-base analysis, relevant to debt burden, credit risk transmission, and macro-constraint narratives.
+
 ## Cycle 021 additions: 2026 policy communication, monetary transmission mechanisms, and physical constraints
 - Federal Reserve Board - Minutes of the Federal Open Market Committee, January 27-28 2026
   https://www.federalreserve.gov/monetarypolicy/files/fomcminutes20260128.pdf
