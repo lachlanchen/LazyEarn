@@ -1,6 +1,12 @@
 # Next tasks
 
-Updated: 2026-04-06 (cycle_023 round_06_readme_sync)
+Updated: 2026-04-06 (cycle_023 round_07_website_sync)
+
+## Cycle 023 website_sync follow-up (round_07_website_sync)
+
+1. Keep `docs/index.html`, `docs/script.js`, and `docs/translations.json` in-cycle labels aligned with README (`Cycle_023`) before each next cross-cycle handoff.
+2. Add one locale smoke check entry for `research.point9`, `research.routeStep8`, and `research.routeStep9` in one romanized locale (`vi`, `ko`, or `ja`) to confirm route text mirrors English after this update.
+3. In the next `build_and_verify` round, verify the wealth guide action links resolve to the correct `wealth-from-first-principles` canonical route entries after any future route text changes.
 
 ## Cycle 023 readme_sync follow-up (round_06_readme_sync)
 

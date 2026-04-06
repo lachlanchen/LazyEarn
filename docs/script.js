@@ -96,8 +96,8 @@ const fallbackStrings = {
   "research.point5": `Latest additions: a channel-map lens from system credit to household outcomes, plus EV-7 entry-vs-incumbent tests for ownership access timing.`,
   "research.point6": `Cycle 007-010 sync: liquidity-and-cycle clock checks (H.4.1/H.8/NFCI/TIC/MTS/ECI/NBER), entry-and-property-price pulse checks (BFS/BDS/RPP/CPP/GLI/LPC/STEO), credit-access-and-burden bridge checks (DDP/SCE Credit Access/CEX PUMD/SIPP/OECD), and cadence-aware stress classification checks (release calendar/chargeoff/G.17/FSIC/SOI PUF) with EP-6, CAB-9, and CAS-10 wiring.`,
   "research.point7": `Cycle 011 extension: 9.10 Constraint-first lens for money-growth episodes, plus the new HC-5 historical-case conversion method to connect major episodes (for example Jekyll Island, Great Depression, Great Inflation, 1973-74 Oil Shock) to actionable ownership decisions.`,
-  "research.point8": `Cycle 012-020 extension: 9.11 Money, debt, and physical constraints decision map, 9.10.1 Great Recession transmission, 9.11.1 historical constraint test on the 1973-74 oil shock transmission lag, 9.11.4 irreversibility gate, and 9.11.5 historical mechanism case (1930-33 ownership lag), with CHM-6 alignment across reader routes and publication surfaces.`,
-  "research.point9": `Cycle_022 execution layer: markdown, TeX/PDF, README, and website surfaces remain aligned through 9.11.6, CHM-6 claim mapping, and 30D-SW execution checks.`,
+  "research.point8": `Cycle 012-023 extension: 9.11 Money, debt, and physical constraints decision map, 9.10.1 Great Recession transmission, 9.11.1 historical constraint test on the 1973-74 oil shock transmission lag, 9.11.4 irreversibility gate, 9.11.5 historical mechanism case (1930-33 ownership lag), plus CHM-6/CX-7 alignment across reader routes and publication surfaces.`,
+  "research.point9": `Cycle_023 execution layer: markdown, TeX/PDF, README, and website surfaces remain aligned through 9.11.6, 9.11.7 portability checks, CHM-6 claim mapping, and 30D-SW execution checks.`,
   "research.pdf": `Download PDF`,
   "research.viewInline": `View on-site`,
   "research.viewChinese": `View Chinese edition`,
@@ -130,7 +130,7 @@ const fallbackStrings = {
   "research.routeStep5": "`HCT-6` constrained-vs-countercase transmission checks and reversibility flags",
   "research.routeStep6": "`9.11.4` Irreversibility gate for durable wealth decisions",
   "research.routeStep7": "`9.11.5` Historical mechanism case: 1930-33 and the ownership lag",
-  "research.routeStep8": "`9.11.6` Cross-jurisdiction transmission check: policy continuity is not owner access",
+  "research.routeStep8": "`9.11.6` Cross-jurisdiction transmission check; `9.11.7` portability drill: policy continuity is not owner access",
   "research.routeStep9": "`30D-SW` Constrained-wealth execution method and stop conditions",
   "research.routeAction": `Open the 30D-SW execution plan and reversibility checks`,
 };
@@ -145,7 +145,7 @@ const syncedEnglishResearchStrings = {
   "research.point8":
     "Cycle 012-020 extension: 9.11 Money, debt, and physical constraints decision map, 9.10.1 Great Recession transmission, 9.11.1 historical constraint test on the 1973-74 oil shock transmission lag, 9.11.4 irreversibility gate, and 9.11.5 historical mechanism case (1930-33 ownership lag), with CHM-6 alignment across reader routes and publication surfaces.",
   "research.point9":
-    "Cycle_022 execution layer: markdown, TeX/PDF, README, and website surfaces remain aligned through 9.11.6, CHM-6 claim mapping, and 30D-SW execution checks.",
+    "Cycle_023 execution layer: markdown, TeX/PDF, README, and website surfaces remain aligned through 9.11.6, 9.11.7 portability checks, CHM-6 claim mapping, and 30D-SW execution checks.",
   "research.stat1": "research questions",
   "research.asset1Desc":
     "A practical field guide to money, wealth, debt, and physical capacity with distinction checklists, evidence ladders, stress dashboards, credit channel maps, ownership-entry execution loops, entry-and-property-price pulse checks, credit-access-and-burden bridge checks, cadence-aware stress classification checks, debt-throughput sequencing, historical transmission checks (Great Recession and 1973-74), and source-linked methods you can apply immediately.",
@@ -159,7 +159,7 @@ const syncedEnglishResearchStrings = {
   "research.routeStep5": "`HCT-6` constrained-vs-countercase transmission checks and reversibility flags",
   "research.routeStep6": "`9.11.4` Irreversibility gate for durable wealth decisions",
   "research.routeStep7": "`9.11.5` Historical mechanism case: 1930-33 and the ownership lag",
-  "research.routeStep8": "`9.11.6` Cross-jurisdiction transmission check: policy continuity is not owner access",
+  "research.routeStep8": "`9.11.6` Cross-jurisdiction transmission check; `9.11.7` portability drill: policy continuity is not owner access",
   "research.routeStep9": "`30D-SW` Constrained-wealth execution method and stop conditions",
   "research.routeAction": "Open the 30D-SW execution plan and reversibility checks",
 };
