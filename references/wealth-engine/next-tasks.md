@@ -1,6 +1,32 @@
 # Next tasks
 
-Updated: 2026-04-06 (cycle_017 round_05_side_products)
+Updated: 2026-04-06 (cycle_017 round_10_review_and_next_tasks)
+
+## Cycle 017 review_and_next_tasks follow-up (round_10_review_and_next_tasks)
+
+1. Close the chapter evidence-map bottleneck before the next visible book edit:
+   - extend `references/wealth-engine/knowledge/chapter-evidence-map.md` from the current 2 seeded rows to full coverage for chapter 9 mechanisms aligned with `U53`-`U58`.
+   - each added row must include explicit `falsifier`, `must_not_conflate`, and `decision_use` to make every claim auditable.
+   - keep rows grouped by section number so markdown/TeX drift is avoidable in the next bridge round.
+2. Add at least three substantial paragraph upgrades in `investment/wealth-from-first-principles.md` and mirror into `investment_pdfs/wealth-from-first-principles/wealth-from-first-principles.tex`:
+   - one in the transmission section on why liquidity can rise while practical access remains rationed,
+   - one in the ownership and participation section on why incumbent gains are not the same as new-owner entry,
+   - one in the irreversible-risk section on when temporary stress relief should not change wealth posture.
+   Each paragraph must finish with one explicit practical implication sentence.
+3. Make historical grounding explicit and operational:
+   - add one constrained historical episode block in section 9 using the 1930-31 panics + 1933 Bank Holiday + Emergency Banking Act sequence (dates, institution, mechanism),
+   - add one non-U.S. or post-comparator block (for example Turkey IMF Article IV 2025 or 1930s/Volcker counterpoint) in the same mechanism cluster,
+   - pair each with a measurable indicator and one decision threshold line.
+4. Add a dedicated physics/philosophy bridge callout in chapter 3 or 9:
+   - connect money/wealth claims to non-negotiable throughput constraints (energy, fixed-capital replacement, logistics, storage/lead time),
+   - anchor it to `BEA NIPA methodology`, `EIA MER`, and one wealth-production metric (not a purely financial proxy),
+   - include one reversible-versus-irreversible framing sentence tied to ownership.
+5. Raise factual density in chapter 9 and appendices:
+   - add at least six source-backed evidence snippets (minimum two per major subsection) in the markdown and a mirrored compact source notes block in TeX.
+   - prefer one date, one institution, and one measurable channel per snippet.
+6. Keep sync discipline tight after each round:
+   - after the next markdown/TeX change, verify `README.md` `Book sync highlights` and `docs/index.html` research-copy point to the same chapter priority set,
+   - then run the existing route/slug check against `docs/script.js` `pdfEntries` aliases and `docs/translations.json` `research.point9`.
 
 ## Cycle 017 readme_sync follow-up (round_06_readme_sync)
 
