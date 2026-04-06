@@ -1,6 +1,12 @@
 # Next tasks
 
-Updated: 2026-04-06 (cycle_020 round_06_readme_sync)
+Updated: 2026-04-06 (cycle_020 round_07_website_sync)
+
+## Cycle 020 website_sync follow-up (round_07_website_sync)
+
+1. Extend `research.routeStep8` across at least the `ja`, `ko`, `vi`, `ar`, `fr`, and `es` locales so 30D-SW remains explicit for non-English users.
+2. Reconfirm `Cycle_020` cycle label in `docs/index.html` static research copy and the JS-driven synced-English override path (`syncedEnglishResearchStrings`) after any future book-facing edits.
+3. Run one fast locale smoke test for one RTL or Asian locale once route-step count changes again.
 
 ## Cycle 020 readme_sync follow-up (round_06_readme_sync)
 

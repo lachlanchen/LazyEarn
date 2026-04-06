@@ -88,7 +88,7 @@ const fallbackStrings = {
   "footer.pages": `GitHub Pages`,
   "research.tag": `Research Drop`,
   "research.heading": `Money and wealth, from first principles`,
-  "research.copy": `This guide links the same research pipeline to three surfaces: markdown, publication-grade TeX/PDF, and the website. Cycle_019 keeps all three aligned through the question bank, source ledger, methods layer, and side-product execution notes before claims are translated into guidance.`,
+  "research.copy": `This guide links the same research pipeline to three surfaces: markdown, publication-grade TeX/PDF, and the website. Cycle_020 keeps all three aligned through the question bank, source ledger, methods layer, and side-product execution notes before claims are translated into guidance.`,
   "research.point1": `Distinction-first answers on money creation, ownership, leverage, inequality, and risk.`,
   "research.point2": `Primary-source coverage across Fed, NY Fed, BLS, Census, IMF, BIS, World Bank, OECD, and SEC resources.`,
   "research.point3": `Question -> evidence -> claim workflow with SQ-5 source quality gates.`,
@@ -96,8 +96,8 @@ const fallbackStrings = {
   "research.point5": `Latest additions: a channel-map lens from system credit to household outcomes, plus EV-7 entry-vs-incumbent tests for ownership access timing.`,
   "research.point6": `Cycle 007-010 sync: liquidity-and-cycle clock checks (H.4.1/H.8/NFCI/TIC/MTS/ECI/NBER), entry-and-property-price pulse checks (BFS/BDS/RPP/CPP/GLI/LPC/STEO), credit-access-and-burden bridge checks (DDP/SCE Credit Access/CEX PUMD/SIPP/OECD), and cadence-aware stress classification checks (release calendar/chargeoff/G.17/FSIC/SOI PUF) with EP-6, CAB-9, and CAS-10 wiring.`,
   "research.point7": `Cycle 011 extension: 9.10 Constraint-first lens for money-growth episodes, plus the new HC-5 historical-case conversion method to connect major episodes (for example Jekyll Island, Great Depression, Great Inflation, 1973-74 Oil Shock) to actionable ownership decisions.`,
-  "research.point8": `Cycle 012-017 extension: 9.11 Money, debt, and physical constraints decision map, 9.10.1 Great Recession transmission, 9.11.1 historical constraint test on the 1973-74 oil shock transmission lag, and 9.11.4 irreversibility gate with CHM-6 alignment across reader routes and publication surfaces.`,
-  "research.point9": `Cycle_019 execution layer: website/README/surface alignment stays current through 30D-SW execution checks, CHM-6 evidence mapping, and guide action routes.`,
+  "research.point8": `Cycle 012-020 extension: 9.11 Money, debt, and physical constraints decision map, 9.10.1 Great Recession transmission, 9.11.1 historical constraint test on the 1973-74 oil shock transmission lag, 9.11.4 irreversibility gate, and 9.11.5 historical mechanism case (1930-33 ownership lag), with CHM-6 alignment across reader routes and publication surfaces.`,
+  "research.point9": `Cycle_020 execution layer: alignment remains current through 9.11.5 evidence, CHM-6 mapping, and 30D-SW execution checks across website, README, and method/output surfaces.`,
   "research.pdf": `Download PDF`,
   "research.viewInline": `View on-site`,
   "research.viewChinese": `View Chinese edition`,
@@ -129,21 +129,22 @@ const fallbackStrings = {
   "research.routeStep4": "`9.11.1` Historical constraint test: 1973-74 oil shock and transmission lag",
   "research.routeStep5": "`HCT-6` constrained-vs-countercase transmission checks and reversibility flags",
   "research.routeStep6": "`9.11.4` Irreversibility gate for durable wealth decisions",
-  "research.routeStep7": "`30D-SW` Constrained-wealth execution method and stop conditions",
+  "research.routeStep7": "`9.11.5` Historical mechanism case: 1930-33 and the ownership lag",
+  "research.routeStep8": "`30D-SW` Constrained-wealth execution method and stop conditions",
   "research.routeAction": "Open the 30D-SW execution plan",
 };
 
 const syncedEnglishResearchStrings = {
   "research.copy":
-    "This guide links the same research pipeline to three surfaces: markdown, publication-grade TeX/PDF, and the website. Cycle_019 keeps all three aligned through the question bank, source ledger, methods layer, and side-product execution notes before claims are translated into guidance.",
+    "This guide links the same research pipeline to three surfaces: markdown, publication-grade TeX/PDF, and the website. Cycle_020 keeps all three aligned through the question bank, source ledger, methods layer, and side-product execution notes before claims are translated into guidance.",
   "research.point6":
     "Cycle 007-010 sync: liquidity-and-cycle clock checks (H.4.1/H.8/NFCI/TIC/MTS/ECI/NBER), entry-and-property-price pulse checks (BFS/BDS/RPP/CPP/GLI/LPC/STEO), credit-access-and-burden bridge checks (DDP/SCE Credit Access/CEX PUMD/SIPP/OECD), and cadence-aware stress classification checks (release calendar/chargeoff/G.17/FSIC/SOI PUF) with EP-6, CAB-9, and CAS-10 wiring.",
   "research.point7":
     "Cycle 011 extension: 9.10 Constraint-first lens for money-growth episodes, plus the new HC-5 historical-case conversion method to connect major episodes (for example Jekyll Island, Great Depression, Great Inflation, 1973-74 Oil Shock) to actionable ownership decisions.",
   "research.point8":
-    "Cycle 012-017 extension: 9.11 Money, debt, and physical constraints decision map, 9.10.1 Great Recession transmission, 9.11.1 historical constraint test on the 1973-74 oil shock transmission lag, and 9.11.4 irreversibility gate with CHM-6 alignment across reader routes and publication surfaces.",
+    "Cycle 012-020 extension: 9.11 Money, debt, and physical constraints decision map, 9.10.1 Great Recession transmission, 9.11.1 historical constraint test on the 1973-74 oil shock transmission lag, 9.11.4 irreversibility gate, and 9.11.5 historical mechanism case (1930-33 ownership lag), with CHM-6 alignment across reader routes and publication surfaces.",
   "research.point9":
-    "Cycle_019 execution layer: website/README/surface alignment stays current through 30D-SW execution checks, CHM-6 evidence mapping, and guide action routes.",
+    "Cycle_020 execution layer: alignment remains current through 9.11.5 evidence, CHM-6 mapping, and 30D-SW execution checks across website, README, and method/output surfaces.",
   "research.stat1": "research questions",
   "research.asset1Desc":
     "A practical field guide to money, wealth, debt, and physical capacity with distinction checklists, evidence ladders, stress dashboards, credit channel maps, ownership-entry execution loops, entry-and-property-price pulse checks, credit-access-and-burden bridge checks, cadence-aware stress classification checks, debt-throughput sequencing, historical transmission checks (Great Recession and 1973-74), and source-linked methods you can apply immediately.",
@@ -156,7 +157,8 @@ const syncedEnglishResearchStrings = {
   "research.routeStep4": "`9.11.1` Historical constraint test: 1973-74 oil shock and transmission lag",
   "research.routeStep5": "`HCT-6` constrained-vs-countercase transmission checks and reversibility flags",
   "research.routeStep6": "`9.11.4` Irreversibility gate for durable wealth decisions",
-  "research.routeStep7": "`30D-SW` Constrained-wealth execution method and stop conditions",
+  "research.routeStep7": "`9.11.5` Historical mechanism case: 1930-33 and the ownership lag",
+  "research.routeStep8": "`30D-SW` Constrained-wealth execution method and stop conditions",
   "research.routeAction": "Open the 30D-SW execution plan",
 };
 
@@ -213,6 +215,7 @@ const pdfEntries = {
         "research.routeStep5",
         "research.routeStep6",
         "research.routeStep7",
+        "research.routeStep8",
       ],
     },
     title: "Wealth from first principles",
