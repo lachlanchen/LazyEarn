@@ -1149,3 +1149,11 @@ Done when: at least 3 starter rows (one per question) are logged with `lead_resu
 1. Add a dedicated `\label` and/or mini-cross-reference for the new section 3.4 so later decision chapters can point explicitly to the first-mile sequencing ladder.
 2. Reduce any new warning pressure around the new table if needed (prefer line-break-safe compact wording before structural refactors).
 3. Decide whether `window 0 / window 1 / window 2` ladder should be elevated into a reusable macro for future section repeats in the document.
+
+## Cycle 19 - Review and next tasks (Round 10)
+- [ ] Expand chapter-evidence-map coverage for new sections (especially 9.10, 9.11.1-9.11.4) and tie each high-impact claim to one or more source-ledger rows.
+- [ ] Add explicit historical case paragraphs in sections 9.10 and 9.11.* that name institutions, dates, and outcomes (not just abstract mechanisms).
+- [ ] Add one repeatable physics/philosophy bridge pass to chapter-open and appendices (friction, constraints, irreversibility, and signal transmission examples).
+- [ ] Increase factual density in appendix-style tables with one additional data column and one concrete metric per large subsection.
+- [ ] Run a full sync pass: README section map, docs viewer slugs/catalog, and translation keys for English must match current chapter set.
+- [ ] Regenerate PDFs after substantive edits and record any latex warnings around tables/callouts/chapter-open pages.
