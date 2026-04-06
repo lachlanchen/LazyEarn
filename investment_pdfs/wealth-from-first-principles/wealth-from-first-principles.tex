@@ -1065,6 +1065,51 @@ The 1946--1951 counter-case remains useful as a positive contrast where policy f
 before increasing leveraged ownership because policy rates or asset values are improving, require both a better burden trend \texttt{(Fed DSR/FOR)} and cleaner access trend \texttt{(HMDA modified LAR + SLOOS slices)}. If not, assume downside may be non-reversible in the near term.
 \end{signalbox}
 
+\subsection{Historical mechanism test: 1930--33 banking contraction and the ownership lag}
+\label{subsec:great-depression-ownership-lag}
+
+The 1930--33 sequence is a practical reference point for transmission logic:
+
+\begin{itemize}
+  \item systemic stress and confidence losses first reduced access channels,
+  \item policy and liquidity architecture then stabilized settlement and bank balance sheets,
+  \item durable owner-entry recovery lagged those stabilization steps in many cohorts.
+\end{itemize}
+
+\begin{center}
+\small
+\begin{tabularx}{\textwidth}{>{\raggedright\arraybackslash}p{0.18\textwidth}>{\raggedright\arraybackslash}p{0.22\textwidth}>{\raggedright\arraybackslash}p{0.27\textwidth}X}
+\toprule
+\textbf{Window} & \textbf{Institutional action} & \textbf{What improved first} & \textbf{What usually lagged} \\
+\midrule
+1930--1932 & panic-era bank distress and partial support response & depositor confidence and headline banking-system continuity. & borrower access and new-owner entry remained weak. \\
+Mar 5--13, 1933 & national bank holiday and Emergency Banking Act implementation. & payment continuity and immediate intermediation control. & durable debt-service and entrant ownership recovery. \\
+Mid-1933 to 1934 & emergency legal architecture consolidation and FDIC-era stabilization. & legal banking confidence and institutional clarity. & small-borrower access and entry persistence in a durable sense. \\
+\bottomrule
+\end{tabularx}
+\normalsize
+\end{center}
+
+Decision sequence for this sequence is the same as the modern gate:
+
+\begin{enumerate}
+  \item confirm system continuity,
+  \item confirm borrower-level access after at least one additional reporting window,
+  \item confirm debt burden and entry durability before scaling leverage.
+\end{enumerate}
+
+\begin{notebox}
+\textbf{Practical implication}\par
+A stable banking shell does not guarantee a stable ownership ladder. For leverage decisions, require \textbf{continuity + access + entry durability} rather than continuity alone.
+\end{notebox}
+
+\noindent Primary links for this mechanism:
+\begin{itemize}
+  \item Federal Reserve History, \href{https://www.federalreservehistory.org/essays/bank-holidays}{Bank Holidays}
+  \item Federal Reserve History, \href{https://www.federalreservehistory.org/time-period/the-great-depression-and-its-aftermath}{Great Depression and Its Aftermath}
+  \item Federal Reserve History, \href{https://fraser.stlouisfed.org/title/banking/2019}{Federal Reserve banking-archival portal (historical banking architecture context)}
+\end{itemize}
+
 \chapter{Who can get wealth and what should they do first}
 
 Almost anyone can improve their financial condition. Not everyone should use the same strategy. A useful sequence is:
@@ -1243,6 +1288,8 @@ SEC Financial Statement and Notes Data Sets & Reproducible statement-level facto
 SEC EDGAR API docs + FRED/ALFRED & Reproducible filings ingestion and revision-aware macro pulls. & API docs plus vintage-aware archive layer. \\
 FRASER historical archive & Primary-source monetary and financial history documents. & Long-run policy and publication archive. \\
 Federal Reserve History: The Great Depression & Banking-system and policy response under collapse-era stress. & Historical mechanism reference for credit-access and solvency transmission. \\
+Federal Reserve History: Bank holidays (1930--1933) & Banking-system continuity and reopening sequencing under stress. & Historical mechanism reference for resilience before durable owner-entry recovery. \\
+Federal Reserve History: Great Depression and Its Aftermath & Policy and institution sequencing around the 1933 bank holiday period. & Historical reference for continuity-versus-entry lag in crisis recovery. \\
 Federal Reserve History: The Great Inflation & Inflation, rates, and debt-burden dynamics during long disinflation cycles. & Historical mechanism reference for real-compounding versus nominal-marking regimes. \\
 Federal Reserve History: Oil Shock of 1973-74 & Production and energy constraints during a global supply shock. & Historical reference for real-throughput versus financial-signaling sequencing. \\
 Federal Reserve History: Treasury-Federal Reserve Accord of 1951 & Post-war institutional and credit-channel normalization during policy transition. & Historical reference for transmission becoming access-oriented rather than purely nominal. \\
@@ -1316,12 +1363,14 @@ Primary references checked for this edition on 2026-04-05:
   \item Federal Reserve Small Business Credit Survey, \href{https://www.fedsmallbusiness.org/reports/survey/}{all survey years reports}
   \item CFPB, \href{https://www.consumerfinance.gov/data-research/consumer-credit-trends/}{Consumer Credit Trends}, \href{https://www.consumerfinance.gov/data-research/making-ends-meet-survey-data/}{Making Ends Meet survey data}, \href{https://www.consumerfinance.gov/data-research/small-business-lending/}{Small Business Lending}, and \href{https://www.consumerfinance.gov/your-money-your-goals/}{Your Money, Your Goals}
   \item SEC, \href{https://www.sec.gov/edgar/sec-api-documentation}{EDGAR API documentation} and \href{https://www.sec.gov/data-research/sec-markets-data}{Financial Statement and Notes Data Sets}
-\item St. Louis Fed, \href{https://fred.stlouisfed.org/docs/api/fred/fred/}{FRED API docs}, \href{https://alfred.stlouisfed.org/help/downloaddata}{ALFRED}, and \href{https://fraser.stlouisfed.org/}{FRASER}
+  \item St. Louis Fed, \href{https://fred.stlouisfed.org/docs/api/fred/fred/}{FRED API docs}, \href{https://alfred.stlouisfed.org/help/downloaddata}{ALFRED}, and \href{https://fraser.stlouisfed.org/}{FRASER}
+  \item Federal Reserve History: \href{https://www.federalreservehistory.org/essays/bank-holidays}{Bank Holidays}
+  \item Federal Reserve History: \href{https://www.federalreservehistory.org/time-period/the-great-depression-and-its-aftermath}{The Great Depression and Its Aftermath}
   \item Federal Reserve History essays on the Great Depression, Great Inflation, 1973-74 Oil Shock, Treasury-Federal Reserve Accord of 1951, and the Meeting at Jekyll Island (\href{https://www.federalreservehistory.org/}{federalreservehistory.org})
-\item Federal Reserve History: \href{https://www.federalreservehistory.org/essays/great-recession-of-200709}{The Great Recession}
-\item Federal Reserve History: \href{https://www.federalreservehistory.org/time-period/great-recession-and-its-aftermath}{The Great Recession and Its Aftermath}
-\item Federal Reserve History: \href{https://www.federalreservehistory.org/essays/fed-credit-programs}{Fed Credit Programs During the Meltdown}
-\item New York Fed, \href{https://www.newyorkfed.org/newsevents/speeches/2009/sch090528}{credit-access remarks on C\&I and CRE (May 28, 2009)}
+  \item Federal Reserve History: \href{https://www.federalreservehistory.org/essays/great-recession-of-200709}{The Great Recession}
+  \item Federal Reserve History: \href{https://www.federalreservehistory.org/time-period/great-recession-and-its-aftermath}{The Great Recession and Its Aftermath}
+  \item Federal Reserve History: \href{https://www.federalreservehistory.org/essays/fed-credit-programs}{Fed Credit Programs During the Meltdown}
+  \item New York Fed, \href{https://www.newyorkfed.org/newsevents/speeches/2009/sch090528}{credit-access remarks on C\&I and CRE (May 28, 2009)}
 \item Yale / Coursera, \href{https://www.coursera.org/learn/financial-markets-global}{Financial Markets}
   \item Open Yale Courses, \href{https://oyc.yale.edu/economics/econ-251}{Financial Theory}
   \item MIT OpenCourseWare, \href{https://ocw.mit.edu/courses/15-s12-blockchain-and-money-fall-2018/}{Blockchain and Money}

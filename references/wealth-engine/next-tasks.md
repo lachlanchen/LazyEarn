@@ -1,6 +1,17 @@
 # Next tasks
 
-Updated: 2026-04-06 (cycle_020 round_03_book_markdown)
+Updated: 2026-04-06 (cycle_020 round_04_book_tex)
+
+## Cycle 020 book_tex follow-up (round_04_book_tex)
+
+1. Run a 2-pass XeLaTeX check before the next markdown-facing handoff and record warning deltas (`Underfull \hbox`, `Overfull \hbox`, `Underfull \vbox`).
+2. Copy the updated book PDF into both canonical targets and verify parity:
+   - `investment_pdfs/wealth-from-first-principles/wealth-from-first-principles.pdf`
+   - `docs/investment_pdfs/wealth-from-first-principles/wealth-from-first-principles.pdf`
+3. If warnings remain in Chapter 11 source-note clusters, reduce line-break pressure around the new historical footnote/table prose before adding more table-density in Chapter 9/11.
+4. Carry one small source-note sync checklist into the next review round so each new case has explicit source-anchor lines in both:
+   - `Appendix: Official references and sources`
+   - `Source notes` in TeX
 
 ## Cycle 020 resource_scan follow-up (round_01_resource_scan)
 
@@ -13,7 +24,8 @@ Updated: 2026-04-06 (cycle_020 round_03_book_markdown)
 
 ## Cycle 020 book_markdown follow-up (round_03_book_markdown)
 
-1. Mirror `### 9.11.5` in `investment_pdfs/wealth-from-first-principles/wealth-from-first-principles.tex` with compact table formatting.
+1. Mirror `### 9.11.5` in `investment_pdfs/wealth-from-first-principles/wealth-from-first-principles.tex` with compact table formatting.  
+   Done: completed in cycle_020 round_04_book_tex.
 2. Before the next build, bind this subsection to `U86` in the chapter-mapping notes so the 1930-33 sequence is treated as an executable historical comparator, not anecdote.
 3. Re-check the section order so `9.11.5` remains within Chapter 9 and does not interrupt the transition into `## 10. A 90-day plan`.
 
