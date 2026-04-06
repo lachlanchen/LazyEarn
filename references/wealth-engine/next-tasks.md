@@ -1,6 +1,17 @@
 # Next tasks
 
-Updated: 2026-04-06 (cycle_019 round_03_book_markdown)
+Updated: 2026-04-06 (cycle_019 round_04_book_tex)
+
+## Cycle 019 book_tex follow-up (round_04_book_tex)
+
+1. Finish a visual layout check of the new Section 3.5 table in `investment_pdfs/wealth-from-first-principles/wealth-from-first-principles.tex`:
+   - verify cell text stays readable and does not overrun margins,
+   - tighten column widths or re-line-break if needed.
+2. Before the next build round, copy `investment_pdfs/wealth-from-first-principles/wealth-from-first-principles.pdf` into
+   `docs/investment_pdfs/wealth-from-first-principles/wealth-from-first-principles.pdf` and verify PDF parity checks.
+3. Keep documenting warning behavior and warning reduction opportunities in
+   `references/wealth-engine/cycles/cycle_019/round_04_book_tex/typesetting-notes.md`.
+4. Keep markdown/TeX drift tracking current by re-checking that `investment/wealth-from-first-principles.md` and TeX remain aligned for all new section insertions through Chapter 3 before the next markdown-facing pass.
 
 ## Cycle 019 book_markdown follow-up (round_03_book_markdown)
 
