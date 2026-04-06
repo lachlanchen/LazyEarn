@@ -1,6 +1,12 @@
 # Next tasks
 
-Updated: 2026-04-06 (cycle_024 round_10_review_and_next_tasks)
+Updated: 2026-04-06 (cycle_025 round_06_readme_sync)
+
+## Cycle 025 readme_sync follow-up (round_06_readme_sync)
+
+1. Add a post-`website_sync` route-copy check after `Cycle_025` website update: confirm `research.point9`, `research.routeIntro`, and `research.routeStep1` through `research.routeStep9` are identical in English and one romanized locale, with `Cycle_025` label and sequence semantics.
+2. Record a short checkpoint in `references/wealth-engine/cycles/cycle_025/round_06_readme_sync/readme-notes.md` whenever future cycle-label changes touch Chapter 4/3 and Chapter 9 bridges (`U112`/`U114`, `FML-6`, `30D-SW`).
+3. Keep README cycle text and route-sequence assertions in sync with `cycle_025` outputs by checking against `docs/index.html`, `docs/script.js`, and `docs/translations.json` before each non-readme handoff.
 
 ## Cycle 025 resource scan follow-up (round_01_resource_scan)
 

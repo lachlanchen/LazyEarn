@@ -19,7 +19,7 @@ Localization scope split (synced for this round):
 [![i18n](https://img.shields.io/badge/i18n-9%20languages-f59e0b)](#configuration)
 [![Mode](https://img.shields.io/badge/Mode-Static%20Frontend-10b981?logo=javascript&logoColor=white)](#overview)
 
-Last synced to mission cycle: **cycle_024** (`2026-04-06`).
+Last synced to mission cycle: **cycle_025** (`2026-04-06`).
 
 Earn.lazying.art is a source-aware, mechanism-first repository for people building clear mental models of money, wealth, ownership, and long-horizon financial resilience.
 
@@ -74,9 +74,18 @@ reader routes (`docs/index.html` + `docs/script.js` + `docs/translations.json`).
 
 ### Current release health (README-visible)
 
-- `README.md` remains synced to `cycle_024` and now describes the evidence and delivery contract in one line.
+- `README.md` is synced to `cycle_025`, with the current evidence and delivery contract now explicitly documented.
 - `investment/wealth-from-first-principles.md` and `investment_pdfs/wealth-from-first-principles/wealth-from-first-principles.tex` are the canonical money/wealth thesis pair to keep synchronized.
-- `docs/index.html`, `docs/script.js`, and `docs/translations.json` retain the previous `Cycle_023` copy in some route/point strings; this is expected to be resolved in the next `website_sync` round.
+- `docs/index.html`, `docs/script.js`, and `docs/translations.json` still reflect `Cycle_024` route-copy in `research.point9`, `research.routeIntro`, and `research.routeStep*`; this is expected to be resolved in the next `website_sync` round.
+
+### Cycle_025 operating focus
+
+- Keep the repository's money/wealth mission language and operational chain aligned at the README layer while chapter and source edits are still transitioning from round_05 side-products into route-facing handoff.
+- Confirm the active focus remains:  
+  - `investment/wealth-from-first-principles.md` and `investment_pdfs/wealth-from-first-principles/wealth-from-first-principles.tex` are synchronized for core mechanism updates.  
+  - `knowledge/question-bank.md` is using `U118`–`U125` as the unresolved core lens set and `knowledge/methods.md` is advancing `FML-6`.  
+  - `knowledge/side-products.md` and seeded checklists keep the `first-mile-transmission-checklist` and `30D-SW` pathway explicit for read-time execution.
+- Track route-sequencing parity even when labels lag: the chapter path is unchanged (`9.10` → `9.10.1` → `9.11` → `9.11.1` → `HCT-6` → `9.11.4` → `9.11.5` → `9.11.6`/`9.11.7` → `30D-SW`) and this sequence should remain identical across English and at least one additional locale when website copy is refreshed.
 
 ## 🗂️ Snapshot map
 
