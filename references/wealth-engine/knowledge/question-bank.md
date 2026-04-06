@@ -1,7 +1,7 @@
 # Question Bank
 
 Updated: 2026-04-06  
-Seed round: cycle_016 / round_02_question_bank
+Seed round: cycle_017 / round_02_question_bank
 
 ## Distinctions to protect
 
@@ -377,3 +377,27 @@ Seed round: cycle_016 / round_02_question_bank
 - `U67`: require both one irreversible marker and one reversible marker before assigning a hard risk-order rank.
 - `U68`: require concurrent borrower-level access and borrower-outcome measures before attributing reform success.
 - `U69`: require throughput indicators and debt-service/burden metrics together before endorsing productive-capacity-first guidance in constrained regimes.
+
+## Unanswered priority questions (cycle_017 sharpen pass)
+
+| ID | Sharpened question | What must be distinguished | What would falsify the working hypothesis | First evidence pull | Decision-use line |
+| --- | --- | --- | --- | --- |
+| U70 | When monetary base, bank credit, and bank-balance-sheet risk tolerance rise together, which channel gets the first durable increase: household credit, small-firm credit, mortgage credit, or asset valuation support? | Liquidity creation vs channel allocation sequencing | No consistent channel lead appears across 1-3 release windows | Fed H.6, Fed H.4.1, Fed H.8, Fed SLOOS, ECB BLS 2026 releases |
+| U71 | How much of observed concentration can be explained by incumbency lock-in versus delayed new-owner entry in credit-normalization windows? | Owner concentration vs entry durability | Entrant density, entrant durability, and first-time approval quality improve in step with concentration gains | Fed DFA, HMDA modified LAR, SCF, HFCS, OECD wealth distribution |
+| U72 | Under what burden and volatility conditions does leverage move from productive to fragile, and which debt-structure gives the fastest irrecoverable wealth damage? | Productive leverage vs debt-led fragility; reversible stress vs irreversibility | Durable cash-flow growth survives equally when burden rises in otherwise similar households with lower leverage dispersion | Fed DSR/FOR, NY Fed Household Credit, CFPB Making Ends Meet, Fed SHED |
+| U73 | Which inequality moves are structural (participation and ownership access) versus valuation-driven snapshots in 2025+ OECD and U.S. cases? | Distribution spread vs participation and entry channels | Median owner progression and entrant-access measures remain flat while headline concentration rises | OECD mapping trends, OECD wealth distributional-results handbook, IMF WEO, Census wealth tables |
+| U74 | Which risk transition should govern action rules: volatility and drawdown, or irreversible wealth-control loss (foreclosure, forced sale, denied entry)? | Temporary financial stress vs irreversible loss of agency and access | Volatility and drawdown recovery happens without any measurable rise in irreversible control-loss markers | Fed DSR/FOR, CFPB MEM, FDIC charge-off/delinquency, HMDA modified LAR |
+| U75 | Do productive-wealth methods remain superior only when throughput and storage-time constraints are supportive, and how should they be paused when physical constraints tighten? | Real throughput conversion vs paper-financial expansion | Productive-capacity-led methods remain equal to or better than debt-led methods in constrained windows without energy/throughput correction | IEA WEO 2025/2026, IEA Oil Market Report Jan 2026, BEA fixed assets, EIA MER, Fed DSR/FOR |
+| U76 | Which historical institutional episodes should be treated as regime-shifters for current chapter structure: 1930s panics, 1973-74 oil shock, or post-crisis supervision redesigns? | Policy break vs temporary communication break | No consistent transmission differences remain between episodes after controlling for release metadata and methodology differences | Fed History essays, Federal Reserve Board lecture archive, ECB financial-stability releases, BIS Quarterly Review 2026 |
+| U77 | What philosophical/agency rule should a durable-wealth method use when outcomes are uncertain: maximize optionality, maximize current value, or maximize participation under known reversibility bounds? | Value growth vs option value vs participation sovereignty | Optionality-maximizing methods fail to beat survival and access metrics over one correction window | Fed DFA, OECD household debt distribution, CBO LTBO, SEC filings and ownership disclosures |
+
+## Evidence gates for cycle_017 unanswered set
+
+- `U70`: require one liquidity rail and one recipient-channel rail with explicit release-lag windows before any first-mile claim.
+- `U71`: require entrant-denominator and incumbent-denominator metrics plus one access-quality rail in each concentration claim.
+- `U72`: require one burden measure, one liquidity measure, and one irreversibility marker before classifying leverage as productive.
+- `U73`: require one structural (participation/entry) indicator and one valuation indicator before attributing inequality change to policy or growth effects.
+- `U74`: require one reversible marker and one irreversible marker for each risk regime classification.
+- `U75`: require at least one throughput rail and one debt-burden rail before publishing constrained-regime method guidance.
+- `U76`: require one primary-archival source and one comparative modern-release source before treating any historical episode as a current regime rule.
+- `U77`: require one agency/participation metric and one return-quality metric before endorsing allocation heuristics under uncertainty.

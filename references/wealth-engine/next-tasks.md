@@ -1,6 +1,6 @@
 # Next tasks
 
-Updated: 2026-04-06 (cycle_017 round_01_resource_scan)
+Updated: 2026-04-06 (cycle_017 round_02_question_bank)
 
 ## Cycle 017 resource scan follow-up (round_01_resource_scan)
 
@@ -22,6 +22,20 @@ Updated: 2026-04-06 (cycle_017 round_01_resource_scan)
    - presence of publication/update timestamp,
    - and whether a PDF mirror exists when archive-level persistence matters.
    - done when one-line checks for these sources are recorded in `references/wealth-engine/cycles/cycle_017/round_02_*`.
+
+## Cycle 017 question_bank follow-up (round_02_question_bank)
+
+1. Convert the Cycle 17 resource additions into a sharpened unanswered set (`U70`-`U77`) in `references/wealth-engine/knowledge/question-bank.md`:
+   - money creation routing,
+   - ownership concentration vs entrant durability,
+   - leverage and fragility, and
+   - constraint-aware durable-wealth methods.
+2. Add a concrete section-placement sheet in `references/wealth-engine/cycles/cycle_017/round_02_question_bank/questions.md` with:
+   - one primary section and one fallback section per question,
+   - one evidence family,
+   - and one decision-use guardrail line.
+3. Before the next chapter-facing markdown pass, convert at least four of `U70`-`U77` into provisional `knowledge/question-evidence-gates.md` rows using QE-5 schema fields and explicit falsifiers.
+4. In the next evidence-map pass, map at least two of `U70`-`U77` into chapter 5 and two into chapter 9 claim rows with explicit irreversibility/reversibility language and one `must_not_conflate` each.
 
 ## Cycle 016 side-products follow-up (round_05_side_products)
 
