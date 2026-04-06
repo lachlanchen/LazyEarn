@@ -1,6 +1,13 @@
 # Next tasks
 
-Updated: 2026-04-06 (cycle_022 round_03_book_markdown)
+Updated: 2026-04-06 (cycle_022 round_04_book_tex)
+
+## Cycle 022 book_tex follow-up (round_04_book_tex)
+
+1. Tidy the remaining `Underfull \hbox` pressure from long source-note rows in Chapter 9 and Appendix source blocks before adding more dense historical comparators.
+2. Before the next `book_markdown` pass, re-check that `9.11.6` in `investment/wealth-from-first-principles.md` and TeX keep the two-channel wording (`policy continuity` vs `ownership access`) identical in intent.
+3. Run a quick PDF readability pass for the updated `9.11.6` table and decision gate at print scale, and confirm there is no reflow-induced ambiguity.
+4. Add one explicit non-U.S. comparator in `knowledge/source-ledger.tsv` for this section with a `must_not_conflate` line that prevents treating liquidity support and durable entry as equivalent.
 
 ## Cycle 022 question_bank follow-up (round_02_question_bank)
 
