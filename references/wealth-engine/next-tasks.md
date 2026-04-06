@@ -1,6 +1,6 @@
 # Next tasks
 
-Updated: 2026-04-06 (cycle_024 round_02_question_bank)
+Updated: 2026-04-06 (cycle_024 round_03_book_markdown)
 
 ## Cycle 024 question_bank follow-up (round_02_question_bank)
 
@@ -9,6 +9,13 @@ Updated: 2026-04-06 (cycle_024 round_02_question_bank)
 3. Add explicit non-U.S. comparator rows (for example BoJ/Norway) before transferring `U116` claims from historical sequences into methods.
 4. For `U115` and `U117`, define one constraint-depth threshold per method so Chapter 4 and Chapter 9 can switch from leverage-first to resilience-first rules.
 5. For `U114`, add a short irreversibility check template in `knowledge/side-products.md` that requires foreclosure/control-loss confirmation before any “risk re-entry” guidance.
+
+## Cycle 024 book_markdown follow-up (round_03_book_markdown)
+
+1. Mirror the new `4.2` control-clock/production-clock framing in `investment_pdfs/wealth-from-first-principles/wealth-from-first-principles.tex` with the same three-clock decision rule and study checklist.
+2. Expand `4.2` with one historical timing footnote tying the 2008–2009 misalignment and post-2020 replacement-chain lag to irreversible ownership-control loss before next build check.
+3. Add a source-ledger source-control row for the new `4.2` study path using one of IMF or EIA/USGS sources plus a corresponding `must_not_conflate` line.
+4. Before the next review round, link one `4.2` checkpoint (`cash/control/production` clocks) to `U112` and `U114` evidence questions in `questions.md` and side-product mappings.
 
 ## Cycle 024 review_and_next_tasks follow-up (round_01_resource_scan)
 

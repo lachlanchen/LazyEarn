@@ -200,7 +200,34 @@ Two people can earn the same salary and end up with radically different wealth b
 - one avoids ruin,
 - and one keeps their expenses from rising as fast as their income.
 
-Time plus compounding can dominate short bursts of brilliance.
+Time plus compounding can dominate short bursts of brilliance, but only when control is not lost first.
+
+A useful way to see it is with three clocks that rarely move together:
+
+| Clock | What it tracks | Why it can dominate outcomes |
+| --- | --- | --- |
+| **Cash-clock** | cash flow and debt service burden | Determines survival through weak months and weak quarters. |
+| **Control-clock** | legal ownership continuity, refinancing access, renewal terms | Controls whether compounding opportunities remain available after stress. |
+| **Production-clock** | how fast assets, inventories, and replacement spending can recover | Determines whether income can physically restart before optionality decays. |
+
+Historically, these clocks were visibly misaligned during the 2008–2009 Great Recession: in many U.S. households, liquidity improved with Federal Reserve support before credit access and durable ownership recoveries aligned. The practical result was that some owners could hold claims on expensive assets while not truly improving long-run compounding capacity. The Federal Reserve and FHFA data patterns from that period show that valuation strength and ownership quality often diverged. A similar misalignment appeared in 2020–2021 logistics bottleneck windows, where financial support arrived faster than replacement chains for housing and small equipment in some sectors.
+
+This is why the guide treats **time as a control variable**, not merely a passive backdrop.
+
+- If the **cash-clock** is improving while the **control-clock** is not, the strategy should prioritize optionality-preserving liquidity and lower contract fragility.
+- If the **control-clock** improves but the **production-clock** is broken, prefer low-acceleration methods and avoid leverage that assumes instant throughput.
+- If all three clocks improve together, compounding can convert temporary stress support into durable ownership gains.
+
+> **Decision rule (practical):** stage any leverage increase only after you can identify at least one source of control-clock improvement in the same window as improving cash coverage (for example lower delinquency-transition risk and stable refinancing access).
+
+Study path for this chapter:
+
+1. Read the full money-to-ownership sequence in `3.4` and test it against your own recent history.
+2. Audit one method you used in the last 12 months with this checklist:
+   - Did your cash burden improve?
+   - Did your ownership-control metrics improve?
+   - Did your production/replacement path improve, or were you depending on deferred replacement?
+3. Keep only the methods that pass at least two of these three checks in a full cycle window.
 
 ## 5. Why some people build wealth faster than others
 
