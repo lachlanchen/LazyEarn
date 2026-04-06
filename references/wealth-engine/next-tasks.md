@@ -1,6 +1,23 @@
 # Next tasks
 
-Updated: 2026-04-06 (cycle_020 round_09_build_and_verify)
+Updated: 2026-04-06 (cycle_020 round_10_review_and_next_tasks)
+
+## Cycle 020 review_and_next_tasks (round_10_review_and_next_tasks)
+
+1. Finish highest-impact manuscript depth passes before next book-facing edits:
+   - add one mechanism-rich paragraph (with falsifier) in `3.3`, `3.4`, and `5.5`;
+   - strengthen source-traceable links in at least one of `3.5` or `4.1` to connect money claims to physical conversion limits.
+2. Expand Chapter 9 historical grounding with at least two explicit comparator sequences:
+   - one in `9.10`/`9.10.1` and
+   - one in `9.11`/`9.11.5`,
+   each containing date + named institution + decision implication.
+3. Add one recurring physics/philosophy bridge between `4.1` and `9.11` on throughput/replacement and irreversible ownership loss; keep wording concrete and operational.
+4. Increase source density in 9.x by adding compact evidence mini-boxes to `9.11`, `9.11.1`, `9.11.2`, `9.11.4`, and `9.11.5` in both Markdown and TeX.
+5. Fix stale README wording that still references `cycle_018` in any remaining copy tied to the money-and-wealth field-guide while `cycle_020` is now live.
+6. Add a locale smoke check artifact for route-step order and count (English + one RTL or one CJK locale) after each route-key change.
+7. Before the next build_and_verify round, include a pre-flight check that:
+   - all 7→8 route keys remain present and ordered (`research.routeStep1` through `research.routeStep8`) and
+   - `pdfEntries` + alias mapping resolves both `pdf-viewer.html#<slug>` and `?file=<slug>` forms.
 
 ## Cycle 020 build_and_verify follow-up (round_09_build_and_verify)
 
