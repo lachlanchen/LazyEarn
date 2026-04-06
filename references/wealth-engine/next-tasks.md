@@ -993,3 +993,9 @@ Done when: at least 3 starter rows (one per question) are logged with `lead_resu
 1. Create evidence-gates for `U78`–`U85` (cycle_018 set) in a dedicated tracking artifact (or extend existing question-gate source), with explicit falsifier and must-not-conflate lines for each.
 2. Add first-wave source-ledger rows for `U78`–`U85` with `source_type`, `release_cadence`, and `last_verified_on`.
 3. Add two memo briefs in the next methods pass for `U78` and `U83`, including decision-use thresholds tied to concrete lead/lag windows.
+
+## Cycle 018 Book-markdown follow-up (round_03_book_markdown)
+
+1. Mirror the new `Section 3.4` timing framework into `investment_pdfs/wealth-from-first-principles/wealth-from-first-principles.tex` in the next book-tex round, including the three-window table structure.
+2. Add one forward-reference from Section 9.* (`Constraint-first`/`decision map` area) back to `3.4` so the sequence is reused during later reviews.
+3. Add a concise reader-facing source note under section 12 for the new "first-mile sequencing" logic if wording shifts from macro-only phrasing.

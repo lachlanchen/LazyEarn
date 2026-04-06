@@ -124,6 +124,24 @@ Use this compact channel map:
 
 If you monitor this full sequence, you can distinguish "money is available somewhere" from "ownership access is improving for you."
 
+### 3.4 A first-mile timing check: when money becomes durable ownership
+
+When you hear a liquidity, credit, or fiscal headline, test it with this sequence before acting:
+
+| Window | What should change first | Why it matters | Common wrong conclusion |
+| --- | --- | --- | --- |
+| **Window 0 (announcement)** | reserves, liquidity spread, or budget flow indicators rise | this only confirms system intention | "Liquidity is rising, so ownership access has recovered." |
+| **Window 1 (allocation)** | lending standards, approval mix, and small-firm/first-time borrower conditions improve | this shows whether transmission reaches new owners, not just incumbents | "Tightening is easing because policy is easier; approval quality matters less." |
+| **Window 2 (ownership quality)** | durable metrics improve (first-time owner entry, low debt-service stress, cohort persistence) | this is the durability test that converts a financial reprieve into real wealth-building capacity | "Valuation or index strength is enough to justify leverage expansion." |
+
+That order is often uneven. The useful lesson is that `window 0 < window 1 < window 2` is the best-case ordering for sustainable wealth-building. If window 1 stalls while window 0 rises, the cycle is often "policy-positive but access-weak." If window 2 stalls while window 1 improves, transmission is often fragile and concentration-biased.
+
+Use one practical control:
+
+- If only **window 0** is positive, protect cash-flow flexibility.
+- If **windows 0 and 1** are positive but **window 2** is weak, reduce leverage speed and test concentration and duration before scaling ownership.
+- Move to staged scaling only when windows 1 and 2 both strengthen in sequence.
+
 ## 4. What wealth is
 
 Wealth is larger than money.
