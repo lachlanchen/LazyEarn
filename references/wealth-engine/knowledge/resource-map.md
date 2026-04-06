@@ -1,7 +1,48 @@
 # Resource Map
 
 Updated: 2026-04-06  
-Round seed: cycle_016 / round_01_resource_scan
+Round seed: cycle_017 / round_01_resource_scan
+
+## Cycle 017 additions: historical liquidity stress, lending frictions, wealth architecture, and constraint rails
+- Federal Reserve History: Banking panics of 1930-31  
+  https://www.federalreservehistory.org/essays/banking-panics-1930-31  
+  Why keep: primary historical source on liquidity shocks, correspondent banking fragility, and the distributive credit effects of panics; useful for the chapter's transmission and irreversibility discussion.
+- Federal Reserve History: Bank Holiday of 1933  
+  https://www.federalreservehistory.org/essays/bank_holiday_of_1933  
+  Why keep: institutional emergency response source showing suspension of payments, withdrawal constraints, and the institutional preconditions for deposit confidence restoration.
+- Federal Reserve History: Banking Panics of 1930-31 PDF  
+  https://www.federalreservehistory.org/-/media/Project/FedHistory/FedHistory/Documents/essaysPDFs/Banking-Panics-of-1930-31-_-Federal-Reserve-History.pdf  
+  Why keep: citation-ready PDF archive version of the same episode, with comparable mechanistic details and historical statistics references.
+- Federal Reserve History: Bank Holiday of 1933 PDF  
+  https://www.federalreservehistory.org/-/media/Project/FedHistory/FedHistory/Documents/essaysPDFs/Bank-Holiday-of-1933-_-Federal-Reserve-History.pdf  
+  Why keep: archive-format proof of bank shutdown mechanics, gold-standard pressure, and policy sequencing from March 1933.
+- Federal Reserve History: Emergency Banking Act of 1933 PDF  
+  https://www.federalreservehistory.org/-/media/Project/FedHistory/FedHistory/Documents/essaysPDFs/Emergency-Banking-Act-of-1933-_-Federal-Reserve-History.pdf  
+  Why keep: primary legal-institutional source for bank recapitalization and confidence restoration architecture during systemic runs.
+- European Central Bank: January 2026 Bank Lending Survey (BLS) press release  
+  https://www.ecb.europa.eu/press/pr/date/2026/html/ecb.pr260203~5d990c4134.en.html  
+  Why keep: real-time, post-2025 credit-supply signal with sector-by-sector tightening data and survey mechanics around risk tolerance, confidence, and funding conditions.
+- Bank for International Settlements: Next-generation monetary and financial system press release  
+  https://www.bis.org/press/p250624.htm  
+  Why keep: gives a contemporary institutional architecture perspective on tokenized money rails and central-bank-led payment/safety design tradeoffs.
+- Bank for International Settlements: BIS Quarterly Review, March 2026  
+  https://www.bis.org/publ/qtrpdf/r_qt2603.htm  
+  Why keep: global macro-financial review with current leverage and market-transmission context for cross-border credit risk framing.
+- OECD: Mapping trends and gaps in household wealth across OECD countries (2025)  
+  https://www.oecd.org/en/publications/mapping-trends-and-gaps-in-household-wealth-across-oecd-countries_4bb6ec53-en.html  
+  Why keep: recent long-form inequality/economic-structure paper on wealth trajectory and barrier effects in intergenerational accumulation.
+- OECD: Handbook on compilation of household distributional results in line with national accounts  
+  https://www.oecd.org/en/publications/oecd-handbook-on-the-compilation-of-household-distributional-results-on-income-consumption-and-saving-in-line-with-national-accounts-totals_5a3b9119-en.html  
+  Why keep: methods source for reconciling micro wealth, income, and consumption inequalities with macro accounts in wealth-mechanism sections.
+- OECD: Inheritance Taxation in OECD Countries (2021)  
+  https://www.oecd.org/tax/tax-policy/inheritance-taxation-in-oecd-countries-e2879a7d-en.htm  
+  Why keep: institutional-long-form treatment of wealth-transfer channels, timing of concentration, and the tax-design side of wealth persistence.
+- International Energy Agency: Oil Market Report, January 2026  
+  https://www.iea.org/reports/oil-market-report-january-2026  
+  Why keep: fresh production/throughput signal for physical-energy constraint episodes and inflation-through-supply transmission.
+- International Energy Agency: World Energy Outlook 2025 free dataset  
+  https://www.iea.org/data-and-statistics/data-product/world-energy-outlook-2025-free-dataset  
+  Why keep: updated scenario data for supply, demand, and price-path context; useful for chapters linking real outputs to macro-financial expectations.
 
 ## Cycle 016 additions: comparative surveillance, institutional history, and constraint-aware behavior
 - IMF Country Report No. 26/43 (Türkiye): 2025 Article IV Consultation, press release package and staff report  

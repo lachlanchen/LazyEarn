@@ -1,6 +1,27 @@
 # Next tasks
 
-Updated: 2026-04-06 (cycle_016 round_10_review_and_next_tasks)
+Updated: 2026-04-06 (cycle_017 round_01_resource_scan)
+
+## Cycle 017 resource scan follow-up (round_01_resource_scan)
+
+1. Convert the top-priority Cycle 17 resources into source-ready evidence anchors before the next chapter-facing edit:
+   - `banking panics 1930-31`, `bank holiday 1933`, and `emergency banking act 1933` → `financial_history` and `monetary_stability` mechanisms.
+   - `ECB Jan 2026 BLS` and `BIS Quarterly Review March 2026` → `credit_conditions` and `macro_financial_stability` mechanisms.
+   - `OECD wealth + distributional methods` and `OECD inheritance taxation` → `wealth_distribution` and `fiscal_policy` mechanisms.
+   - `IEA 2025 WEO dataset` and `IEA Oil Market Report Jan 2026` → `real_constraints` and `energy_capability` mechanisms.
+2. Add a minimum of two provisional `U`-mapped evidence notes in `references/wealth-engine/knowledge/question-bank.md` (likely around constrained access, transmission, and irreversibility) with:
+   - one hypothesis sentence,
+   - one falsifier,
+   - one `decision_use` implication.
+3. Before the next markdown/TeX bridge round, prepare a short reuse matrix (resource → section → question_id) in `references/wealth-engine/cycles/cycle_017/round_02_*` using:
+   - 1930s banking episodes for section 9 history/constraint framing,
+   - ECB/BIS sources for section 5 or 9 credit and liquidity framing,
+   - OECD/IEA sources for sections 3 and 8 bridge material.
+4. Verify URL stability for all newly added resources by checking:
+   - page availability,
+   - presence of publication/update timestamp,
+   - and whether a PDF mirror exists when archive-level persistence matters.
+   - done when one-line checks for these sources are recorded in `references/wealth-engine/cycles/cycle_017/round_02_*`.
 
 ## Cycle 016 side-products follow-up (round_05_side_products)
 
