@@ -12,7 +12,6 @@
 \usepackage{setspace}
 \usepackage[most]{tcolorbox}
 \usepackage{enumitem}
-\usepackage{tikz}
 
 \setmainfont{TeX Gyre Pagella}
 \setsansfont{TeX Gyre Heros}
@@ -57,7 +56,6 @@
 \setlength{\parskip}{0.75em}
 
 \newtcolorbox{coverbox}{
-  enhanced,
   colback=paper,
   colframe=ember,
   boxrule=0.8pt,
@@ -69,7 +67,6 @@
 }
 
 \newtcolorbox{chapterbox}{
-  enhanced,
   colback=mist,
   colframe=ink,
   boxrule=0.6pt,
@@ -82,7 +79,6 @@
 }
 
 \newtcolorbox{notebox}{
-  enhanced,
   colback=paper,
   colframe=shadow,
   boxrule=0.5pt,
@@ -107,17 +103,6 @@
 \pagecolor{paper}
 \color{ink}
 \thispagestyle{empty}
-\begin{tikzpicture}[remember picture, overlay]
-  \draw[color=ember, line width=1pt]
-    ([xshift=1.25cm,yshift=-1.25cm]current page.north west)
-    rectangle
-    ([xshift=-1.25cm,yshift=1.25cm]current page.south east);
-  \draw[color=shadow, line width=0.5pt]
-    ([xshift=1.55cm,yshift=-1.55cm]current page.north west)
-    rectangle
-    ([xshift=-1.55cm,yshift=1.55cm]current page.south east);
-\end{tikzpicture}
-
 \vspace*{2.2cm}
 {\sffamily\Large\color{ember}\textsc{LazyingArt LLC}\par}
 \vspace{1.6cm}
