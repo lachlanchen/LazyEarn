@@ -1,0 +1,5388 @@
+1
+00:00:00,000 --> 00:00:05,000
+Well, today I wanted to talk about exchanges and clearing
+
+2
+00:00:05,000 --> 00:00:07,600
+houses, primarily stock exchanges.
+
+3
+00:00:10,400 --> 00:00:14,760
+So, these are places where shares in
+
+4
+00:00:14,760 --> 00:00:17,240
+corporations are traded.
+
+5
+00:00:17,240 --> 00:00:19,440
+And I think it's good to
+
+6
+00:00:19,440 --> 00:00:21,640
+devote a whole session to them
+
+7
+00:00:21,640 --> 00:00:28,240
+because exchange is central to economics.
+
+8
+00:00:28,240 --> 00:00:32,699
+In fact, I was struck recently, I was rereading the
+
+9
+00:00:32,699 --> 00:00:38,099
+presidential address of my old teacher.
+
+10
+00:00:38,099 --> 00:00:40,289
+When I was an undergraduate
+
+11
+00:00:40,289 --> 00:00:42,480
+at University of Michigan, I took
+
+12
+00:00:42,480 --> 00:00:45,800
+a course by Professor Kenneth Boulding.
+
+13
+00:00:48,480 --> 00:00:53,280
+And then, I suppose I'm influenced by him, but he
+
+14
+00:00:53,280 --> 00:00:56,000
+gave a, when he was elected president of the American
+
+15
+00:00:56,000 --> 00:00:58,000
+Union, he gave a lecture on the importance of
+
+16
+00:00:58,000 --> 00:00:58,239
+exchange.
+
+17
+00:00:58,240 --> 00:01:00,240
+And then, he was elected president of the American
+
+18
+00:01:00,240 --> 00:01:01,240
+Economic Association.
+
+19
+00:01:01,240 --> 00:01:04,739
+He gave a talk about economics.
+
+20
+00:01:04,739 --> 00:01:08,240
+And he had an interesting definition of economics.
+
+21
+00:01:08,240 --> 00:01:09,740
+What is economics?
+
+22
+00:01:09,740 --> 00:01:10,990
+There's a lot of definitions
+
+23
+00:01:10,990 --> 00:01:12,240
+given for the field, but one
+
+24
+00:01:12,240 --> 00:01:17,240
+definition is the theory of the allocation of scarce
+
+25
+00:01:17,240 --> 00:01:19,240
+resources, right?
+
+26
+00:01:19,240 --> 00:01:24,740
+That's by some definition what the essence of economics is.
+
+27
+00:01:24,740 --> 00:01:28,000
+But Boulding said, that doesn't sound right to him,
+
+28
+00:01:28,000 --> 00:01:29,000
+but it's the science.
+
+29
+00:01:29,000 --> 00:01:32,000
+It's about the allocation of scarce resources.
+
+30
+00:01:32,000 --> 00:01:35,000
+And so is, even the
+
+31
+00:01:35,000 --> 00:01:38,000
+family is an instrument of scarce
+
+32
+00:01:38,000 --> 00:01:39,000
+resources.
+
+33
+00:01:39,000 --> 00:01:48,000
+So, Boulding said in, it was his 1969 presidential address,
+
+34
+00:01:48,000 --> 00:01:54,000
+that economics is the study of exchange.
+
+35
+00:01:54,000 --> 00:01:55,000
+All right.
+
+36
+00:01:55,000 --> 00:02:01,000
+So, obviously, it's prices and quantities that economics
+
+37
+00:02:01,000 --> 00:02:06,000
+emphasizes, and those are parameters of an exchange.
+
+38
+00:02:06,000 --> 00:02:13,000
+So, we'll say that equals economics.
+
+39
+00:02:13,000 --> 00:02:14,000
+I'm reminded of another book.
+
+40
+00:02:14,000 --> 00:02:16,000
+I'm talking in very general terms first, and then I'm
+
+41
+00:02:16,000 --> 00:02:19,000
+going to focus in on stock exchanges.
+
+42
+00:02:19,000 --> 00:02:23,000
+But I'm reminded of another really important book, which I
+
+43
+00:02:23,000 --> 00:02:24,000
+read so many years ago.
+
+44
+00:02:24,000 --> 00:02:25,000
+It's called, The Great Exchange.
+
+45
+00:02:25,000 --> 00:02:34,000
+It's a book by Carl
+
+46
+00:02:34,000 --> 00:02:43,000
+Polanyi, called The Great Transformation.
+
+47
+00:02:43,000 --> 00:02:49,000
+And that was written in 1944.
+
+48
+00:02:49,000 --> 00:02:51,000
+What is the great transformation?
+
+49
+00:02:51,000 --> 00:02:54,000
+Well, for Polanyi, it's the invention of exchange.
+
+50
+00:02:54,000 --> 00:03:00,000
+So, what is the most important invention of man?
+
+51
+00:03:00,000 --> 00:03:03,000
+Maybe it's exchange.
+
+52
+00:03:03,000 --> 00:03:12,000
+According to his history of humankind, this was a relatively
+
+53
+00:03:12,000 --> 00:03:16,000
+recent invention, Neolithic, or more recent than that.
+
+54
+00:03:16,000 --> 00:03:20,000
+He argues that in primitive societies, there is really no
+
+55
+00:03:20,000 --> 00:03:23,000
+arms length.
+
+56
+00:03:23,000 --> 00:03:27,000
+So, what is the arm length exchange?
+
+57
+00:03:27,000 --> 00:03:30,000
+An arms length exchange is one
+
+58
+00:03:30,000 --> 00:03:33,000
+where you just quote a price
+
+59
+00:03:33,000 --> 00:03:36,000
+and a quantity, and you don't have any other business.
+
+60
+00:03:36,000 --> 00:03:39,000
+You know, the price and the quantity sum it up.
+
+61
+00:03:39,000 --> 00:03:41,000
+It's a business transaction.
+
+62
+00:03:41,000 --> 00:03:43,500
+But Polanyi argued that until
+
+63
+00:03:43,500 --> 00:03:46,000
+just something on the order of
+
+64
+00:03:46,000 --> 00:03:49,000
+10,000 years ago, there were no business transactions.
+
+65
+00:03:49,000 --> 00:03:54,000
+And so, there was really no gift exchange.
+
+66
+00:03:54,000 --> 00:03:57,000
+There were relationships people had.
+
+67
+00:03:57,000 --> 00:04:00,000
+And you would solidify a relationship by making a gift
+
+68
+00:04:00,000 --> 00:04:01,000
+to someone else.
+
+69
+00:04:01,000 --> 00:04:04,000
+And then, that person would later reciprocate.
+
+70
+00:04:04,000 --> 00:04:08,000
+But there's no price, there's no exchange.
+
+71
+00:04:08,000 --> 00:04:11,000
+So, he claims that the development of our civilization
+
+72
+00:04:11,000 --> 00:04:13,000
+is really the result of
+
+73
+00:04:13,000 --> 00:04:15,000
+the development of the idea of
+
+74
+00:04:15,000 --> 00:04:18,000
+exchange, and then an amplification of the idea, as
+
+75
+00:04:18,000 --> 00:04:21,000
+it became more and more pervasive.
+
+76
+00:04:21,000 --> 00:04:22,500
+By the way, I've since
+
+77
+00:04:22,500 --> 00:04:24,000
+learned, I thought Polanyi was very
+
+78
+00:04:24,000 --> 00:04:27,000
+impressive, but some anthropologists question
+
+79
+00:04:27,000 --> 00:04:32,000
+whether there wasn't exchange more than 10,000 years ago.
+
+80
+00:04:32,000 --> 00:04:34,000
+And they cite evidence.
+
+81
+00:04:34,000 --> 00:04:36,500
+One kind of evidence that's
+
+82
+00:04:36,500 --> 00:04:39,000
+found of this is that certain
+
+83
+00:04:39,000 --> 00:04:44,000
+commodities, even in the Paleolithic times, certain
+
+84
+00:04:44,000 --> 00:04:48,000
+commodities are found far from where they were mined.
+
+85
+00:04:48,000 --> 00:04:50,500
+Like flint to make stone
+
+86
+00:04:50,500 --> 00:04:53,000
+tools, or ochre to make body
+
+87
+00:04:53,000 --> 00:04:54,000
+paint.
+
+88
+00:04:54,000 --> 00:04:55,500
+And they figured out where,
+
+89
+00:04:55,500 --> 00:04:57,000
+you can do a chemical analysis,
+
+90
+00:04:57,000 --> 00:05:00,000
+and you can figure out where it was mined.
+
+91
+00:05:00,000 --> 00:05:02,500
+And then, if you find
+
+92
+00:05:02,500 --> 00:05:05,000
+that it arrived somewhere 1,000 miles
+
+93
+00:05:05,000 --> 00:05:08,000
+away, there must have been exchange, right?
+
+94
+00:05:08,000 --> 00:05:10,000
+The cavemen, no?
+
+95
+00:05:13,000 --> 00:05:15,000
+Okay, it could have been that they just killed someone,
+
+96
+00:05:15,000 --> 00:05:16,000
+right.
+
+97
+00:05:16,000 --> 00:05:17,000
+So, I guess nobody knows.
+
+98
+00:05:17,000 --> 00:05:22,000
+But anyway, some anthropologists argue that there
+
+99
+00:05:22,000 --> 00:05:23,000
+was exchange.
+
+100
+00:05:23,000 --> 00:05:26,000
+Maybe it was too pervasive.
+
+101
+00:05:26,000 --> 00:05:27,500
+Of course, people did kill a
+
+102
+00:05:27,500 --> 00:05:29,000
+lot of people in those days,
+
+103
+00:05:29,000 --> 00:05:31,000
+too, anthropologists report.
+
+104
+00:05:31,000 --> 00:05:34,000
+So, maybe Polanyi had it exactly right.
+
+105
+00:05:34,000 --> 00:05:35,500
+But I think he had
+
+106
+00:05:35,500 --> 00:05:37,000
+it at least approximately right, that
+
+107
+00:05:37,000 --> 00:05:39,000
+exchange has become a bigger
+
+108
+00:05:39,000 --> 00:05:41,000
+and bigger part of our lives.
+
+109
+00:05:41,000 --> 00:05:44,000
+And that's modern civilization.
+
+110
+00:05:44,000 --> 00:05:45,000
+So, I think that's the question.
+
+111
+00:05:45,000 --> 00:05:47,000
+I think that's the question.
+
+112
+00:05:47,000 --> 00:05:50,000
+And that's modern civilization.
+
+113
+00:05:50,000 --> 00:05:59,000
+So, I'm going to talk mostly about financial exchange.
+
+114
+00:05:59,000 --> 00:06:02,000
+That's the subject of this course.
+
+115
+00:06:02,000 --> 00:06:04,000
+But I can be a little bit more general.
+
+116
+00:06:04,000 --> 00:06:10,000
+I wanted to start by distinguishing a broker and a
+
+117
+00:06:10,000 --> 00:06:11,000
+dealer.
+
+118
+00:06:11,000 --> 00:06:13,000
+What's the difference?
+
+119
+00:06:13,000 --> 00:06:15,000
+It's a fundamental thing.
+
+120
+00:06:15,000 --> 00:06:21,000
+A broker, actually, I've got this almost as a slogan.
+
+121
+00:06:21,000 --> 00:06:24,500
+A broker acts on behalf of
+
+122
+00:06:24,500 --> 00:06:28,000
+others as an agent to earn a
+
+123
+00:06:28,000 --> 00:06:30,000
+commission.
+
+124
+00:06:30,000 --> 00:06:33,500
+So, it's for others, trades for
+
+125
+00:06:33,500 --> 00:06:37,000
+others as an agent for a
+
+126
+00:06:37,000 --> 00:06:38,000
+commission.
+
+127
+00:06:38,000 --> 00:06:40,000
+So, it's for others, trades for
+
+128
+00:06:40,000 --> 00:06:42,000
+others as an agent for a
+
+129
+00:06:42,000 --> 00:06:43,000
+commission.
+
+130
+00:06:43,000 --> 00:06:50,000
+A commission is a fee.
+
+131
+00:06:50,000 --> 00:06:52,000
+What is a dealer?
+
+132
+00:06:52,000 --> 00:06:58,000
+A dealer trades for himself
+
+133
+00:06:58,000 --> 00:07:04,000
+or herself, acting as a principal,
+
+134
+00:07:04,000 --> 00:07:11,000
+not an agent, and profits from a markup.
+
+135
+00:07:11,000 --> 00:07:19,000
+So, I can give you an example of each.
+
+136
+00:07:19,000 --> 00:07:21,000
+When you buy or sell a
+
+137
+00:07:21,000 --> 00:07:23,000
+house, do you get a real estate
+
+138
+00:07:23,000 --> 00:07:27,000
+broker or a real estate dealer?
+
+139
+00:07:27,000 --> 00:07:29,000
+That's almost obvious, right?
+
+140
+00:07:29,000 --> 00:07:31,000
+Because you think, you've heard
+
+141
+00:07:31,000 --> 00:07:33,000
+the term real estate broker so
+
+142
+00:07:33,000 --> 00:07:34,000
+many times.
+
+143
+00:07:34,000 --> 00:07:36,000
+When you buy or sell a
+
+144
+00:07:36,000 --> 00:07:38,000
+house, you commission a broker, and
+
+145
+00:07:38,000 --> 00:07:39,000
+you agree on a contract
+
+146
+00:07:39,000 --> 00:07:40,000
+that pays the real estate broker.
+
+147
+00:07:40,000 --> 00:07:43,000
+A certain sum of money, maybe
+
+148
+00:07:43,000 --> 00:07:46,000
+6% of the value of the house,
+
+149
+00:07:46,000 --> 00:07:50,000
+if a buyer is found.
+
+150
+00:07:50,000 --> 00:07:54,000
+And then the broker doesn't buy your house, right?
+
+151
+00:07:54,000 --> 00:07:57,000
+So, the broker is an agent.
+
+152
+00:07:57,000 --> 00:07:59,500
+And the 6% is the commission
+
+153
+00:07:59,500 --> 00:08:02,000
+that the broker gets, if he or
+
+154
+00:08:02,000 --> 00:08:05,000
+she is successful in finding
+
+155
+00:08:05,000 --> 00:08:08,000
+the other side of the deal.
+
+156
+00:08:08,000 --> 00:08:09,000
+So, that's the real estate broker.
+
+157
+00:08:09,000 --> 00:08:11,000
+What's an example of a dealer?
+
+158
+00:08:11,000 --> 00:08:13,000
+An antique dealer.
+
+159
+00:08:13,000 --> 00:08:15,000
+Right?
+
+160
+00:08:15,000 --> 00:08:19,000
+Suppose you're buying a chest of drawers for your apartment.
+
+161
+00:08:19,000 --> 00:08:21,000
+You go to an antique
+
+162
+00:08:21,000 --> 00:08:23,000
+store, and there's someone there, your
+
+163
+00:08:23,000 --> 00:08:31,000
+antique dealer, who has furniture that he now owns,
+
+164
+00:08:31,000 --> 00:08:34,000
+having bought it, and then sells
+
+165
+00:08:34,000 --> 00:08:37,000
+you and makes a profit by
+
+166
+00:08:37,000 --> 00:08:38,000
+selling it.
+
+167
+00:08:38,000 --> 00:08:39,500
+And then the dealer makes a
+
+168
+00:08:39,500 --> 00:08:41,000
+profit by selling to you at a
+
+169
+00:08:41,000 --> 00:08:44,000
+higher price, namely, with a markup.
+
+170
+00:08:44,000 --> 00:08:46,500
+He marks up the price
+
+171
+00:08:46,500 --> 00:08:49,000
+that he paid for the item.
+
+172
+00:08:49,000 --> 00:08:51,000
+So, let me just ask
+
+173
+00:08:51,000 --> 00:08:53,000
+you, why is it that way?
+
+174
+00:08:53,000 --> 00:08:57,000
+Why are antiques sold by dealers and real estate by
+
+175
+00:08:57,000 --> 00:09:00,000
+brokers?
+
+176
+00:09:00,000 --> 00:09:04,000
+I recently had a discussion with Guillermo Ordeñez, who's
+
+177
+00:09:04,000 --> 00:09:06,000
+an assistant professor here.
+
+178
+00:09:06,000 --> 00:09:11,000
+He said, well, maybe there are real estate dealers.
+
+179
+00:09:11,000 --> 00:09:17,000
+Oliver helped us and found, actually, in Germany, a couple
+
+180
+00:09:17,000 --> 00:09:22,000
+of real estate dealers, but only, like, a couple.
+
+181
+00:09:22,000 --> 00:09:25,000
+And we couldn't find any in the U.S.
+
+182
+00:09:25,000 --> 00:09:26,500
+And we searched around in
+
+183
+00:09:26,500 --> 00:09:28,000
+many other countries, and there was
+
+184
+00:09:28,000 --> 00:09:30,000
+just virtually none.
+
+185
+00:09:30,000 --> 00:09:32,000
+No real estate dealers.
+
+186
+00:09:32,000 --> 00:09:34,000
+Anyone have any idea why?
+
+187
+00:09:34,000 --> 00:09:35,000
+I'm asking you to think.
+
+188
+00:09:35,000 --> 00:09:36,500
+Or does anyone come from
+
+189
+00:09:36,500 --> 00:09:38,000
+a country where they have real
+
+190
+00:09:38,000 --> 00:09:39,000
+estate dealers?
+
+191
+00:09:39,000 --> 00:09:41,000
+And that would end it, if
+
+192
+00:09:41,000 --> 00:09:43,000
+you – I bet not, right?
+
+193
+00:09:43,000 --> 00:09:45,000
+Well, what about antique brokers?
+
+194
+00:09:45,000 --> 00:09:46,000
+Why not that?
+
+195
+00:09:46,000 --> 00:09:49,000
+Have you ever heard of an antique broker?
+
+196
+00:09:49,000 --> 00:09:52,000
+Maybe there are, you know.
+
+197
+00:09:52,000 --> 00:09:54,000
+But it's an interesting question.
+
+198
+00:09:54,000 --> 00:09:57,000
+It seems like some markets are naturally dealer markets, and
+
+199
+00:09:57,000 --> 00:09:59,000
+some are broker markets.
+
+200
+00:09:59,000 --> 00:10:02,000
+We thought of one explanation why.
+
+201
+00:10:02,000 --> 00:10:03,000
+We thought of a market
+
+202
+00:10:03,000 --> 00:10:04,000
+that was a little bit different.
+
+203
+00:10:04,000 --> 00:10:09,000
+We thought of an explanation why there aren't real estate
+
+204
+00:10:09,000 --> 00:10:12,000
+dealers, at least in the United States.
+
+205
+00:10:12,000 --> 00:10:15,000
+We learned that a dealer has
+
+206
+00:10:15,000 --> 00:10:18,000
+to pay income tax on the profits
+
+207
+00:10:18,000 --> 00:10:20,000
+from a deal.
+
+208
+00:10:20,000 --> 00:10:22,000
+And that is at a higher
+
+209
+00:10:22,000 --> 00:10:24,000
+rate than a capital gains tax.
+
+210
+00:10:24,000 --> 00:10:27,000
+And so, that closes people out.
+
+211
+00:10:27,000 --> 00:10:28,500
+You wouldn't want to be a
+
+212
+00:10:28,500 --> 00:10:30,000
+real estate dealer, because you end
+
+213
+00:10:30,000 --> 00:10:33,000
+up paying a higher tax.
+
+214
+00:10:33,000 --> 00:10:37,000
+The other thing is, I wonder if there's something about
+
+215
+00:10:37,000 --> 00:10:43,000
+information that someone who deals in real estate – it's
+
+216
+00:10:43,000 --> 00:10:44,500
+just too hard to know
+
+217
+00:10:44,500 --> 00:10:46,000
+what to pay for a house.
+
+218
+00:10:46,000 --> 00:10:49,000
+You know, it's so subjective.
+
+219
+00:10:49,000 --> 00:10:50,000
+You can make big mistakes if
+
+220
+00:10:50,000 --> 00:10:51,000
+you're going to buy houses and
+
+221
+00:10:51,000 --> 00:10:53,000
+then resell them at a markup,
+
+222
+00:10:53,000 --> 00:10:55,000
+because the market is just so
+
+223
+00:10:55,000 --> 00:10:56,000
+variable.
+
+224
+00:10:56,000 --> 00:11:00,000
+And, you know, it ultimately changes quickly.
+
+225
+00:11:00,000 --> 00:11:01,000
+Maybe, you know, it's too risky.
+
+226
+00:11:01,000 --> 00:11:02,000
+I don't know.
+
+227
+00:11:02,000 --> 00:11:03,000
+I'm trying to think.
+
+228
+00:11:03,000 --> 00:11:04,500
+But, of course, there are
+
+229
+00:11:04,500 --> 00:11:06,000
+real estate dealers, just very rare.
+
+230
+00:11:06,000 --> 00:11:11,000
+So, we're going to talk about stock markets.
+
+231
+00:11:11,000 --> 00:11:13,000
+And which do you think stock markets are?
+
+232
+00:11:13,000 --> 00:11:18,000
+Are they dealer markets or broker markets?
+
+233
+00:11:18,000 --> 00:11:21,000
+Well, the answer is both.
+
+234
+00:11:21,000 --> 00:11:24,000
+And now, it's not as clear.
+
+235
+00:11:24,000 --> 00:11:30,000
+And I'll come back to this.
+
+236
+00:11:30,000 --> 00:11:37,000
+The New York Stock Exchange in
+
+237
+00:11:37,000 --> 00:11:44,000
+New York is a broker market.
+
+238
+00:11:44,000 --> 00:11:47,000
+Or they would say an auction market.
+
+239
+00:11:47,000 --> 00:11:51,000
+It's a continuous double auction market, where a broker
+
+240
+00:11:51,000 --> 00:11:55,000
+facilitates the trades.
+
+241
+00:11:55,000 --> 00:11:58,000
+The NASDAQ market is a dealer market.
+
+242
+00:11:58,000 --> 00:11:59,000
+It's a broker market.
+
+243
+00:11:59,000 --> 00:12:00,000
+It's a dealer market.
+
+244
+00:12:00,000 --> 00:12:03,000
+So, you pay commissions to your
+
+245
+00:12:03,000 --> 00:12:06,000
+broker at the New York Stock
+
+246
+00:12:06,000 --> 00:12:11,000
+Exchange, you pay a markup to your dealer at NASDAQ.
+
+247
+00:12:11,000 --> 00:12:24,000
+So, I'm just trying to think.
+
+248
+00:12:24,000 --> 00:12:27,000
+I thought I will start by talking about stock exchange
+
+249
+00:12:27,000 --> 00:12:34,000
+and historically.
+
+250
+00:12:34,000 --> 00:12:39,000
+And I have a lot to say.
+
+251
+00:12:39,000 --> 00:12:40,000
+I can't cover it all.
+
+252
+00:12:40,000 --> 00:12:42,000
+I was going to start with ancient Rome.
+
+253
+00:12:42,000 --> 00:12:44,000
+I think I mentioned that before.
+
+254
+00:12:44,000 --> 00:12:49,000
+But I'm getting there in my notes.
+
+255
+00:12:49,000 --> 00:12:54,000
+The ancient Roman Stock Exchange is the first stock
+
+256
+00:12:54,000 --> 00:12:56,000
+exchange that I think anyone knows about.
+
+257
+00:12:57,000 --> 00:13:07,000
+But traders, I'm relying on the research of Ulrica
+
+258
+00:13:07,000 --> 00:13:14,000
+Maumandiere, who has studied the ancient Roman Stock
+
+259
+00:13:14,000 --> 00:13:17,000
+Exchange as much as can be studied.
+
+260
+00:13:17,000 --> 00:13:19,000
+There's not that much evidence about it.
+
+261
+00:13:19,000 --> 00:13:22,000
+But the traders met outdoors on
+
+262
+00:13:22,000 --> 00:13:25,000
+the Roman Forum at the Temple
+
+263
+00:13:25,000 --> 00:13:27,000
+of Castor.
+
+264
+00:13:27,000 --> 00:13:33,000
+That's where you went to buy and sell shares.
+
+265
+00:13:33,000 --> 00:13:35,000
+The shares in Latin were called partes.
+
+266
+00:13:35,000 --> 00:13:38,000
+I don't know if I covered this or not.
+
+267
+00:13:38,000 --> 00:13:41,000
+And the companies were called publicani.
+
+268
+00:13:41,000 --> 00:13:49,000
+And the peculiar nature of the ancient Roman corporations is
+
+269
+00:13:49,000 --> 00:13:52,000
+that they sold, their customers were the government.
+
+270
+00:13:52,000 --> 00:13:53,000
+And they were the people who
+
+271
+00:13:53,000 --> 00:13:54,000
+were the people who were the
+
+272
+00:13:54,000 --> 00:13:56,000
+customers with the government.
+
+273
+00:13:56,000 --> 00:14:00,000
+And so, they did services for the government, like provide
+
+274
+00:14:00,000 --> 00:14:02,000
+horses for the army, or they
+
+275
+00:14:02,000 --> 00:14:04,000
+would feed the geese on the
+
+276
+00:14:04,000 --> 00:14:06,000
+Roman Forum, on the Roman capital.
+
+277
+00:14:06,000 --> 00:14:09,000
+They always fed the geese there, because the geese were
+
+278
+00:14:09,000 --> 00:14:11,500
+hallow in ancient Rome, because
+
+279
+00:14:11,500 --> 00:14:14,000
+they once warned of an invasion
+
+280
+00:14:14,000 --> 00:14:15,000
+by cackling.
+
+281
+00:14:15,000 --> 00:14:17,000
+So, there was a publicanus
+
+282
+00:14:17,000 --> 00:14:19,000
+that was in charge of feeding
+
+283
+00:14:19,000 --> 00:14:20,000
+the geese.
+
+284
+00:14:20,000 --> 00:14:21,500
+But that seemed to, the
+
+285
+00:14:21,500 --> 00:14:23,000
+geese were the people who were
+
+286
+00:14:23,000 --> 00:14:25,000
+the most important people.
+
+287
+00:14:25,000 --> 00:14:29,000
+And also, they would talk about share prices.
+
+288
+00:14:29,000 --> 00:14:30,500
+It's known that they would
+
+289
+00:14:30,500 --> 00:14:32,000
+go up and down, even then.
+
+290
+00:14:32,000 --> 00:14:35,000
+But there's no data on their share prices.
+
+291
+00:14:35,000 --> 00:14:37,500
+It seemed that there was a
+
+292
+00:14:37,500 --> 00:14:40,000
+long gap for stock exchanges after
+
+293
+00:14:40,000 --> 00:14:46,000
+the fall of the Roman Empire, and the publicani disappeared.
+
+294
+00:14:46,000 --> 00:14:51,000
+And there were various, there's a wide variety of financial
+
+295
+00:14:51,000 --> 00:14:52,000
+enrangements.
+
+296
+00:14:52,000 --> 00:14:55,000
+There were various corporations.
+
+297
+00:14:55,000 --> 00:14:57,500
+But the advent of, the
+
+298
+00:14:57,500 --> 00:15:00,000
+rebirth of the stock exchange really
+
+299
+00:15:00,000 --> 00:15:08,000
+didn't occur until 1602 in Amsterdam, when the, I mentioned
+
+300
+00:15:08,000 --> 00:15:11,000
+this before, when the Dutch East India Company started
+
+301
+00:15:11,000 --> 00:15:13,000
+trading.
+
+302
+00:15:13,000 --> 00:15:20,000
+And then, Jonathan's Coffee House.
+
+303
+00:15:21,000 --> 00:15:23,000
+I like that story.
+
+304
+00:15:23,000 --> 00:15:27,500
+In London, lots of people
+
+305
+00:15:27,500 --> 00:15:32,000
+would get together and talk there.
+
+306
+00:15:32,000 --> 00:15:35,500
+And coffee houses were, became
+
+307
+00:15:35,500 --> 00:15:39,000
+a big thing in late 1600s.
+
+308
+00:15:39,000 --> 00:15:44,000
+And somebody started posting stock prices on the wall at
+
+309
+00:15:44,000 --> 00:15:48,000
+Jonathan's Coffee House by, what was the date?
+
+310
+00:15:50,000 --> 00:15:53,000
+And so, the London Stock Exchange
+
+311
+00:15:53,000 --> 00:15:56,000
+grew out of Jonathan's Coffee House.
+
+312
+00:15:56,000 --> 00:15:58,500
+And then, moving forward in time, now
+
+313
+00:15:58,500 --> 00:16:01,000
+we're going to get lots of countries,
+
+314
+00:16:01,000 --> 00:16:05,000
+but I'll mention the New York Stock Exchange.
+
+315
+00:16:05,000 --> 00:16:11,500
+The traders of shares in the United States
+
+316
+00:16:11,500 --> 00:16:18,000
+met outside, and in 1792, under a buttonwood tree.
+
+317
+00:16:18,000 --> 00:16:21,000
+I'll put buttonwood, that's a curious name.
+
+318
+00:16:21,000 --> 00:16:25,500
+I think that's just a common
+
+319
+00:16:25,500 --> 00:16:30,000
+tree that we still have around.
+
+320
+00:16:30,000 --> 00:16:32,000
+And they signed the agreement to
+
+321
+00:16:32,000 --> 00:16:34,000
+form the New York Stock Exchange.
+
+322
+00:16:34,000 --> 00:16:42,000
+But then, what else?
+
+323
+00:16:42,000 --> 00:16:44,000
+Next in my little history.
+
+324
+00:16:44,000 --> 00:16:45,000
+India.
+
+325
+00:16:46,000 --> 00:16:53,000
+By the 1850s, there were in Mumbai, or
+
+326
+00:16:53,000 --> 00:17:00,000
+then called Bombay, there were traders under a
+
+327
+00:17:00,000 --> 00:17:02,000
+famous banyan tree.
+
+328
+00:17:02,000 --> 00:17:07,000
+They're all outdoors in Bombay.
+
+329
+00:17:07,000 --> 00:17:09,500
+These banyan trees are
+
+330
+00:17:09,500 --> 00:17:12,000
+more impressive than buttonwood trees.
+
+331
+00:17:12,000 --> 00:17:14,000
+But it was by 1880.
+
+332
+00:17:15,000 --> 00:17:21,000
+1875, the Bombay Stock Exchange was founded.
+
+333
+00:17:21,000 --> 00:17:26,000
+So, that's the BSE.
+
+334
+00:17:26,000 --> 00:17:28,000
+So, that's been around for over 100 years.
+
+335
+00:17:28,000 --> 00:17:30,000
+But things have happened more recently.
+
+336
+00:17:30,000 --> 00:17:33,000
+And one thing that's been shaking things
+
+337
+00:17:33,000 --> 00:17:36,000
+up, these are very venerable old institutions.
+
+338
+00:17:36,000 --> 00:17:39,500
+What's been shaking things up
+
+339
+00:17:39,500 --> 00:17:43,000
+is the advent of electronic trading.
+
+340
+00:17:43,000 --> 00:17:44,000
+And these were kind
+
+341
+00:17:44,000 --> 00:17:45,000
+of old-fashioned, venerable institutions.
+
+342
+00:17:45,000 --> 00:17:47,500
+Do you know what happens
+
+343
+00:17:47,500 --> 00:17:50,000
+at the New York Stock Exchange?
+
+344
+00:17:50,000 --> 00:17:52,000
+What happened then and still happens today?
+
+345
+00:17:52,000 --> 00:17:55,000
+There's a floor called the trading floor.
+
+346
+00:17:55,000 --> 00:17:57,500
+And the various brokers meet there,
+
+347
+00:17:57,500 --> 00:18:00,000
+just like in Jonathan's Coffee House.
+
+348
+00:18:00,000 --> 00:18:02,000
+They actually physically come to
+
+349
+00:18:02,000 --> 00:18:04,000
+the floor and they stand around.
+
+350
+00:18:04,000 --> 00:18:08,000
+And there are posts for each stock.
+
+351
+00:18:08,000 --> 00:18:11,000
+And if today you think you have a customer
+
+352
+00:18:11,000 --> 00:18:14,000
+who wants to buy IBM stock, then you go over
+
+353
+00:18:14,000 --> 00:18:15,000
+to the IBM crowd.
+
+354
+00:18:15,000 --> 00:18:18,000
+And there's a crowd of brokers there who are trading.
+
+355
+00:18:18,000 --> 00:18:20,000
+And you just do it.
+
+356
+00:18:20,000 --> 00:18:26,000
+Verbally, you talk to them and you make a trade.
+
+357
+00:18:26,000 --> 00:18:27,000
+That's really old-fashioned.
+
+358
+00:18:27,000 --> 00:18:29,500
+There is something more electronic and modern
+
+359
+00:18:29,500 --> 00:18:32,000
+about the New York Stock Exchange, but that
+
+360
+00:18:32,000 --> 00:18:36,000
+specialist post behavior still persists.
+
+361
+00:18:36,000 --> 00:18:37,000
+Most of the world is switching over.
+
+362
+00:18:37,000 --> 00:18:40,000
+Most of the world is switching over to electronic trading.
+
+363
+00:18:40,000 --> 00:18:43,500
+And so, things happen that – so, for
+
+364
+00:18:43,500 --> 00:18:47,000
+example, in India, they developed another stock exchange
+
+365
+00:18:47,000 --> 00:18:50,000
+called the National Stock Exchange.
+
+366
+00:18:50,000 --> 00:18:56,000
+And that was in 1992.
+
+367
+00:18:56,000 --> 00:19:00,000
+And the National Stock Exchange was all electronic.
+
+368
+00:19:00,000 --> 00:19:02,000
+And so, it was the modern version.
+
+369
+00:19:02,000 --> 00:19:06,000
+It's rapidly gaining on the Bombay Stock Exchange.
+
+370
+00:19:07,000 --> 00:19:12,000
+So, let me go a little bit more forward.
+
+371
+00:19:12,000 --> 00:19:16,000
+China, because of the communist government, did
+
+372
+00:19:16,000 --> 00:19:20,000
+not have a stock exchange until 1990.
+
+373
+00:19:20,000 --> 00:19:27,000
+And there were two stock exchanges founded
+
+374
+00:19:27,000 --> 00:19:34,000
+in China in 1990, Shanghai and Shenzhen.
+
+375
+00:19:34,000 --> 00:19:35,000
+And at least the Shanghai Stock
+
+376
+00:19:35,000 --> 00:19:36,000
+Exchange is owned by the Chinese.
+
+377
+00:19:36,000 --> 00:19:40,000
+And that's why Laura Cha, when she talked to
+
+378
+00:19:40,000 --> 00:19:44,000
+us about that, she was on the China Securities
+
+379
+00:19:44,000 --> 00:19:46,500
+Regulatory Commission, which actually
+
+380
+00:19:46,500 --> 00:19:49,000
+owned the Shanghai Stock Exchange.
+
+381
+00:19:49,000 --> 00:19:57,000
+So, that's the – oh, Latin America.
+
+382
+00:19:57,000 --> 00:20:04,000
+Sao Paulo Stock Exchange, 1890.
+
+383
+00:20:06,000 --> 00:20:09,000
+Mexico has only one stock exchange,
+
+384
+00:20:09,000 --> 00:20:12,000
+but it was founded in 1894.
+
+385
+00:20:12,000 --> 00:20:13,500
+So, we seem to have
+
+386
+00:20:13,500 --> 00:20:15,000
+like two different kinds of exchanges.
+
+387
+00:20:15,000 --> 00:20:18,500
+We have the old exchanges, at least 100
+
+388
+00:20:18,500 --> 00:20:22,000
+years old, and we have the new electronic exchanges.
+
+389
+00:20:22,000 --> 00:20:24,500
+Things have really sped up
+
+390
+00:20:24,500 --> 00:20:27,000
+with the advent of electronic exchanges.
+
+391
+00:20:27,000 --> 00:20:30,500
+So, I mentioned the New York Stock Exchange, which started
+
+392
+00:20:30,500 --> 00:20:34,000
+on the street, outdoors, and is an old-fashioned exchange that –
+
+393
+00:20:34,000 --> 00:20:35,000
+– that's the New York Stock Exchange.
+
+394
+00:20:35,000 --> 00:20:38,000
+It's a very old-fashioned exchange
+
+395
+00:20:38,000 --> 00:20:41,000
+that has been slow to update.
+
+396
+00:20:41,000 --> 00:20:46,500
+But more recently, we have –
+
+397
+00:20:46,500 --> 00:20:52,000
+I mentioned it already – NASDAQ.
+
+398
+00:20:52,000 --> 00:20:57,500
+That's the – it stands for originally
+
+399
+00:20:57,500 --> 00:21:03,000
+National Association of Securities Dealers Automatic Quotation System,
+
+400
+00:21:03,000 --> 00:21:04,000
+which was created in the 1970s.
+
+401
+00:21:05,000 --> 00:21:10,000
+The interesting story about NASDAQ, in the 70s,
+
+402
+00:21:10,000 --> 00:21:15,000
+the New York Stock Exchange was highly prestigious.
+
+403
+00:21:15,000 --> 00:21:19,000
+It was the big board, the place.
+
+404
+00:21:19,000 --> 00:21:23,000
+And a critical element of a stock exchange is that
+
+405
+00:21:23,000 --> 00:21:27,000
+in order to get your stocks traded on the exchange,
+
+406
+00:21:27,000 --> 00:21:30,000
+you have to satisfy listing requirements.
+
+407
+00:21:30,000 --> 00:21:31,500
+So, the New York Stock Exchange would
+
+408
+00:21:31,500 --> 00:21:33,000
+examine any corporation that wanted to be –
+
+409
+00:21:33,000 --> 00:21:36,000
+listed on the exchange.
+
+410
+00:21:36,000 --> 00:21:39,000
+And it was the prestigious, big exchange.
+
+411
+00:21:39,000 --> 00:21:41,000
+So, it had high standards.
+
+412
+00:21:41,000 --> 00:21:44,000
+So, the company had to have a history of earnings.
+
+413
+00:21:44,000 --> 00:21:47,000
+It had to have the right
+
+414
+00:21:47,000 --> 00:21:50,000
+kind of management structure and board.
+
+415
+00:21:50,000 --> 00:21:53,000
+A lot of things were checked out by the exchange.
+
+416
+00:21:53,000 --> 00:21:57,000
+And as a result, the way it would work in the
+
+417
+00:21:57,000 --> 00:22:01,000
+1970s, a startup company could never get traded on the exchange.
+
+418
+00:22:01,000 --> 00:22:04,500
+It would be traded instead by
+
+419
+00:22:04,500 --> 00:22:08,000
+brokers off exchange or over the counter.
+
+420
+00:22:08,000 --> 00:22:13,000
+So, OTC means over the counter.
+
+421
+00:22:13,000 --> 00:22:16,000
+That means not on an exchange.
+
+422
+00:22:16,000 --> 00:22:22,500
+So, in the 1970s and earlier, the over-the-counter brokers would
+
+423
+00:22:22,500 --> 00:22:29,000
+deal with each other informally with the New York Stock Exchange.
+
+424
+00:22:29,000 --> 00:22:32,000
+Or actually, out on the street.
+
+425
+00:22:32,000 --> 00:22:34,500
+They would meet each other out on
+
+426
+00:22:34,500 --> 00:22:37,000
+the sidewalk originally, and then they got telephones.
+
+427
+00:22:37,000 --> 00:22:41,500
+And they had some record, which they called pink
+
+428
+00:22:41,500 --> 00:22:46,000
+sheets, because they were traditionally printed on pink paper.
+
+429
+00:22:46,000 --> 00:22:50,500
+These were lists of dealers buy and
+
+430
+00:22:50,500 --> 00:22:55,000
+sell quotes on prices of over-the-counter stocks.
+
+431
+00:22:55,000 --> 00:22:57,000
+The National Association of Securities
+
+432
+00:22:57,000 --> 00:22:59,000
+deals with the stock market.
+
+433
+00:22:59,000 --> 00:23:01,500
+And the dealers then was
+
+434
+00:23:01,500 --> 00:23:04,000
+an organization of these over-the-counter traders.
+
+435
+00:23:04,000 --> 00:23:08,000
+And in the early 70s, they
+
+436
+00:23:08,000 --> 00:23:12,000
+set up the first computerized system.
+
+437
+00:23:12,000 --> 00:23:15,000
+They decided that everyone's telephoning everybody.
+
+438
+00:23:15,000 --> 00:23:21,500
+Let's create a system that really
+
+439
+00:23:21,500 --> 00:23:28,000
+works and that gets us the information.
+
+440
+00:23:29,000 --> 00:23:33,000
+And so, that was the NASDAQ system.
+
+441
+00:23:33,000 --> 00:23:36,500
+The first computer-based system, which has now
+
+442
+00:23:36,500 --> 00:23:40,000
+increasingly taken over much of the world.
+
+443
+00:23:40,000 --> 00:23:42,500
+I shouldn't imply that New York Stock
+
+444
+00:23:42,500 --> 00:23:45,000
+Exchange was entirely a laggard on this.
+
+445
+00:23:45,000 --> 00:23:50,000
+Electronics played a role in stocks going back very early.
+
+446
+00:23:50,000 --> 00:23:53,000
+The New York Stock Exchange used telegraph
+
+447
+00:23:53,000 --> 00:23:56,000
+in the 19th century to convey prices.
+
+448
+00:23:56,000 --> 00:23:58,000
+And they invented ticker tape machines.
+
+449
+00:23:58,000 --> 00:24:01,000
+A ticker tape machine is an electronic
+
+450
+00:24:01,000 --> 00:24:04,000
+printer that would print out stock prices.
+
+451
+00:24:04,000 --> 00:24:07,500
+And in fact, Thomas Edison, the inventor, his
+
+452
+00:24:07,500 --> 00:24:11,000
+first invention was actually a ticker tape machine.
+
+453
+00:24:11,000 --> 00:24:13,000
+That was in, I think,
+
+454
+00:24:13,000 --> 00:24:15,000
+the 1870s that printed stock prices.
+
+455
+00:24:15,000 --> 00:24:17,000
+But all it was, was a
+
+456
+00:24:17,000 --> 00:24:19,000
+record of what had traded recently.
+
+457
+00:24:19,000 --> 00:24:24,000
+It wasn't a system that helped you trade.
+
+458
+00:24:24,000 --> 00:24:26,000
+It just reported what had happened.
+
+459
+00:24:26,000 --> 00:24:27,000
+It was historical.
+
+460
+00:24:28,000 --> 00:24:30,500
+So, I wanted to show you
+
+461
+00:24:30,500 --> 00:24:33,000
+what NASDAQ created in the 70s.
+
+462
+00:24:33,000 --> 00:24:37,000
+And it's an order book that would
+
+463
+00:24:37,000 --> 00:24:41,000
+be visible to everyone who trades on it.
+
+464
+00:24:41,000 --> 00:24:48,500
+So, prior to discussing that, I want
+
+465
+00:24:48,500 --> 00:24:56,000
+to tell you about different kinds of orders.
+
+466
+00:24:58,000 --> 00:25:01,000
+If you buy and sell stock, and you call up
+
+467
+00:25:01,000 --> 00:25:04,000
+a broker, and you say, I want to buy and sell,
+
+468
+00:25:04,000 --> 00:25:08,000
+the simplest kind of order is a market order.
+
+469
+00:25:12,000 --> 00:25:15,000
+And you would specify the quantity.
+
+470
+00:25:15,000 --> 00:25:16,500
+You would say, I want to buy,
+
+471
+00:25:16,500 --> 00:25:18,000
+and the name of the company, of course.
+
+472
+00:25:18,000 --> 00:25:20,500
+I want to buy 100 shares of General
+
+473
+00:25:20,500 --> 00:25:23,000
+Motors, or I want to sell 100 shares.
+
+474
+00:25:23,000 --> 00:25:26,000
+But you don't name a price.
+
+475
+00:25:26,000 --> 00:25:29,000
+You'll find out whatever the price was.
+
+476
+00:25:29,000 --> 00:25:32,000
+The broker will get you the best price.
+
+477
+00:25:32,000 --> 00:25:34,500
+If he or she is a good broker,
+
+478
+00:25:34,500 --> 00:25:37,000
+we'll try to get you the best price.
+
+479
+00:25:37,000 --> 00:25:40,000
+But it'll still be unknown to
+
+480
+00:25:40,000 --> 00:25:43,000
+you, because you didn't specify it.
+
+481
+00:25:43,000 --> 00:25:45,000
+You might be unhappy with the price.
+
+482
+00:25:45,000 --> 00:25:48,000
+The price might be too high.
+
+483
+00:25:48,000 --> 00:25:50,000
+And then the broker will say to you,
+
+484
+00:25:50,000 --> 00:25:52,000
+well, if you're unhappy, you should have told me.
+
+485
+00:25:52,000 --> 00:25:53,000
+You could have told me not
+
+486
+00:25:53,000 --> 00:25:54,000
+to pay more than a certain amount.
+
+487
+00:25:54,000 --> 00:25:54,500
+You could have told me not
+
+488
+00:25:54,500 --> 00:25:55,000
+to pay more than a certain amount.
+
+489
+00:25:56,000 --> 00:25:58,000
+For a buy.
+
+490
+00:25:58,000 --> 00:25:59,500
+Or not to take less than
+
+491
+00:25:59,500 --> 00:26:01,000
+a certain amount for a sell.
+
+492
+00:26:01,000 --> 00:26:05,000
+So, the alternative is a limit order.
+
+493
+00:26:07,000 --> 00:26:10,000
+And so, with a limit order,
+
+494
+00:26:10,000 --> 00:26:13,000
+you give both quantity and price.
+
+495
+00:26:15,000 --> 00:26:19,000
+So, if it's a buy, I want to buy so many shares,
+
+496
+00:26:19,000 --> 00:26:23,000
+but I don't want to pay more than such and such a price.
+
+497
+00:26:23,000 --> 00:26:26,000
+Then the broker will keep that on its mind.
+
+498
+00:26:26,000 --> 00:26:31,000
+And then you can ask for the price on his or her
+
+499
+00:26:31,000 --> 00:26:36,000
+books until, well, whatever the agreement between you and the broker is.
+
+500
+00:26:36,000 --> 00:26:38,000
+It might expire after the day is over.
+
+501
+00:26:38,000 --> 00:26:40,000
+Or you could ask to
+
+502
+00:26:40,000 --> 00:26:42,000
+have it kept on the book.
+
+503
+00:26:42,000 --> 00:26:47,500
+And when the price becomes available, which is no higher
+
+504
+00:26:47,500 --> 00:26:53,000
+than your specified price, then the order will be executed.
+
+505
+00:26:53,000 --> 00:26:55,000
+Otherwise, it won't be executed.
+
+506
+00:26:55,000 --> 00:26:58,000
+And you specify both a quantity and a price,
+
+507
+00:26:58,000 --> 00:27:01,000
+and the order will be filled or partly filled.
+
+508
+00:27:01,000 --> 00:27:05,000
+You might not be able to get all of your quantity, but they'll
+
+509
+00:27:05,000 --> 00:27:09,000
+fill as much as they can of it at that price or lower.
+
+510
+00:27:09,000 --> 00:27:16,000
+And there's another kind of order called a stop order.
+
+511
+00:27:16,000 --> 00:27:23,000
+With a stop order, you also specify quantity.
+
+512
+00:27:23,000 --> 00:27:28,000
+You also specify quantity and price.
+
+513
+00:27:28,000 --> 00:27:29,000
+But it's different.
+
+514
+00:27:29,000 --> 00:27:33,000
+With a limit order, you would
+
+515
+00:27:33,000 --> 00:27:37,000
+buy, say it's a buy limit order.
+
+516
+00:27:37,000 --> 00:27:39,000
+Well, let's talk about sell.
+
+517
+00:27:39,000 --> 00:27:42,500
+If it's a sell limit order, you would sell
+
+518
+00:27:42,500 --> 00:27:46,000
+the quantity at such and such a price or higher.
+
+519
+00:27:46,000 --> 00:27:49,000
+With a stop order, you would sell that
+
+520
+00:27:49,000 --> 00:27:52,000
+quantity at such and such a price or lower.
+
+521
+00:27:52,000 --> 00:27:54,000
+I have to make that clear.
+
+522
+00:27:54,000 --> 00:28:00,000
+A stop order, also called a stop loss order, is an order that you can
+
+523
+00:28:00,000 --> 00:28:06,000
+place with the broker to indicate that I'm worried that this stock might really collapse.
+
+524
+00:28:06,000 --> 00:28:09,000
+I'm holding it, but I want you to
+
+525
+00:28:09,000 --> 00:28:12,000
+sell it if the price starts falling a lot.
+
+526
+00:28:12,000 --> 00:28:15,000
+So, suppose the price is 100 today.
+
+527
+00:28:15,000 --> 00:28:18,000
+I could put a stop loss order at 80.
+
+528
+00:28:18,000 --> 00:28:19,500
+And then, at least I know I
+
+529
+00:28:19,500 --> 00:28:21,000
+can't lose more than 20% of my investment.
+
+530
+00:28:21,000 --> 00:28:25,000
+Because the broker will immediately sell it when
+
+531
+00:28:25,000 --> 00:28:29,000
+the price of that stock falls below 80.
+
+532
+00:28:29,000 --> 00:28:31,000
+There's also a buy stop order.
+
+533
+00:28:31,000 --> 00:28:34,000
+And that would be something that someone would
+
+534
+00:28:34,000 --> 00:28:37,000
+rationally do if that person had shorted a stock.
+
+535
+00:28:37,000 --> 00:28:39,500
+So, if you had shorted a stock, and you were
+
+536
+00:28:39,500 --> 00:28:42,000
+worried that the price would go up and ruin you,
+
+537
+00:28:42,000 --> 00:28:46,500
+you can leave with your broker a buy stop order
+
+538
+00:28:46,500 --> 00:28:51,000
+to buy the stock whenever the price exceeds a certain amount.
+
+539
+00:28:51,000 --> 00:28:54,000
+And you would do that to prevent yourself
+
+540
+00:28:54,000 --> 00:28:57,000
+from having unlimited losses on your short position.
+
+541
+00:28:57,000 --> 00:28:59,000
+There's other kinds of orders, but
+
+542
+00:28:59,000 --> 00:29:01,000
+those are the main kinds of orders.
+
+543
+00:29:01,000 --> 00:29:07,000
+Now, I wanted to talk particularly about limit orders.
+
+544
+00:29:07,000 --> 00:29:09,000
+That's the most important kind.
+
+545
+00:29:09,000 --> 00:29:13,000
+A lot of advisors say, never place a market order.
+
+546
+00:29:13,000 --> 00:29:15,000
+Why should you ever do a market order?
+
+547
+00:29:15,000 --> 00:29:18,000
+There's always some price that you'd be unhappy with.
+
+548
+00:29:18,000 --> 00:29:19,000
+You might as well say that.
+
+549
+00:29:21,000 --> 00:29:29,000
+And so, some exchanges don't even allow market orders.
+
+550
+00:29:29,000 --> 00:29:31,000
+So, let's talk about limit orders.
+
+551
+00:29:31,000 --> 00:29:36,500
+And what I wanted to show you
+
+552
+00:29:36,500 --> 00:29:42,000
+was what a NASDAQ level 2 customer sees.
+
+553
+00:29:42,000 --> 00:29:45,500
+NASDAQ is an organization, now it's a
+
+554
+00:29:45,500 --> 00:29:49,000
+firm traded on its own stock exchange.
+
+555
+00:29:49,000 --> 00:29:51,000
+It's called NASDAQ OMX.
+
+556
+00:29:51,000 --> 00:29:53,000
+If you want to subscribe to
+
+557
+00:29:53,000 --> 00:29:55,000
+NASDAQ, it's very expensive, I understand.
+
+558
+00:29:55,000 --> 00:29:59,000
+So, you can subscribe at level 1
+
+559
+00:29:59,000 --> 00:30:03,000
+or level 2, which is more expensive.
+
+560
+00:30:03,000 --> 00:30:05,500
+I was going to show you an example
+
+561
+00:30:05,500 --> 00:30:08,000
+of what you would see on your computer screen,
+
+562
+00:30:08,000 --> 00:30:10,500
+if you subscribe to NASDAQ
+
+563
+00:30:10,500 --> 00:30:13,000
+level 2 for a particular stock.
+
+564
+00:30:13,000 --> 00:30:16,500
+And so, this is a
+
+565
+00:30:16,500 --> 00:30:20,000
+hypothetical limit order book for Microsoft.
+
+566
+00:30:21,000 --> 00:30:23,000
+And it's a very interesting thing.
+
+567
+00:30:23,000 --> 00:30:28,000
+What it shows, this is not live,
+
+568
+00:30:28,000 --> 00:30:33,000
+but it would be live on your screen.
+
+569
+00:30:33,000 --> 00:30:36,000
+These numbers would be changing before your
+
+570
+00:30:36,000 --> 00:30:39,000
+eyes, flashing back and forth before your eyes.
+
+571
+00:30:39,000 --> 00:30:41,000
+And so, I've just frozen
+
+572
+00:30:41,000 --> 00:30:43,000
+it at a moment in time.
+
+573
+00:30:43,000 --> 00:30:45,000
+So, what do we have?
+
+574
+00:30:45,000 --> 00:30:47,000
+We have six columns here.
+
+575
+00:30:47,000 --> 00:30:49,000
+This first column is the shares.
+
+576
+00:30:49,000 --> 00:30:51,000
+And this is the shares.
+
+577
+00:30:51,000 --> 00:30:55,000
+And this is the shares that people want to buy.
+
+578
+00:30:55,000 --> 00:30:58,000
+So, the first three columns correspond to those.
+
+579
+00:30:58,000 --> 00:31:01,000
+So, the bid is the price
+
+580
+00:31:01,000 --> 00:31:04,000
+they're bidding to buy these shares.
+
+581
+00:31:04,000 --> 00:31:07,000
+Remember, NASDAQ is a dealer market.
+
+582
+00:31:07,000 --> 00:31:10,000
+So, these dealers are making these bids,
+
+583
+00:31:10,000 --> 00:31:13,000
+or people are making them through a dealer.
+
+584
+00:31:13,000 --> 00:31:16,500
+And MPID is the marketplace ID, where
+
+585
+00:31:16,500 --> 00:31:20,000
+these bids and offers are being made.
+
+586
+00:31:21,000 --> 00:31:27,500
+So, the first one shown, someone is offering to
+
+587
+00:31:27,500 --> 00:31:34,000
+buy 100 shares of Microsoft at a price of $25.23.
+
+588
+00:31:34,000 --> 00:31:37,000
+And that is listed on ARCAX.
+
+589
+00:31:37,000 --> 00:31:39,000
+ARCAX, there's an interesting, so
+
+590
+00:31:39,000 --> 00:31:41,000
+I didn't mention that exchange.
+
+591
+00:31:41,000 --> 00:31:45,000
+It's now part of the New York Stock Exchange.
+
+592
+00:31:45,000 --> 00:31:47,000
+Maybe I'll come back to that in a minute.
+
+593
+00:31:47,000 --> 00:31:49,000
+But let me just continue to explain this.
+
+594
+00:31:49,000 --> 00:31:53,000
+This slide.
+
+595
+00:31:53,000 --> 00:31:55,500
+Now, you note that the bid
+
+596
+00:31:55,500 --> 00:31:58,000
+prices are arranged in declining order, right?
+
+597
+00:31:58,000 --> 00:32:00,000
+They go down as you move down.
+
+598
+00:32:00,000 --> 00:32:03,000
+The computer has sorted all the orders.
+
+599
+00:32:03,000 --> 00:32:05,000
+These are all the unfilled orders.
+
+600
+00:32:05,000 --> 00:32:07,000
+Someone called their broker and said,
+
+601
+00:32:07,000 --> 00:32:09,000
+I want to buy 100 shares.
+
+602
+00:32:09,000 --> 00:32:15,000
+And the broker entered the bid through ARCAX.
+
+603
+00:32:15,000 --> 00:32:17,000
+ARCAX.
+
+604
+00:32:17,000 --> 00:32:21,000
+And it's now on the NASDAQ screen.
+
+605
+00:32:21,000 --> 00:32:24,500
+Someone else had a much bigger
+
+606
+00:32:24,500 --> 00:32:28,000
+buy order, wants to buy 9,430 shares.
+
+607
+00:32:28,000 --> 00:32:31,000
+And this came in directly to NASDAQ.
+
+608
+00:32:31,000 --> 00:32:36,000
+But it's a penny less, $25.22.
+
+609
+00:32:36,000 --> 00:32:39,000
+And so, you can just see what's going down.
+
+610
+00:32:39,000 --> 00:32:40,500
+Now, the other side of this,
+
+611
+00:32:40,500 --> 00:32:42,000
+is that clear what we're seeing here?
+
+612
+00:32:42,000 --> 00:32:44,000
+The other side of the screen is the buy orders.
+
+613
+00:32:44,000 --> 00:32:45,000
+And it's exactly the same.
+
+614
+00:32:45,000 --> 00:32:46,000
+Except that here, the buy orders are the same.
+
+615
+00:32:46,000 --> 00:32:48,000
+Except that here, the numbers go
+
+616
+00:32:48,000 --> 00:32:50,000
+up as you move down the screen.
+
+617
+00:32:50,000 --> 00:32:55,000
+Because the computer has sorted them in the reverse order.
+
+618
+00:32:55,000 --> 00:33:00,000
+So, that represents what various people are willing to buy.
+
+619
+00:33:00,000 --> 00:33:07,000
+So, somebody is willing to buy 2,400 shares at $25.24.
+
+620
+00:33:07,000 --> 00:33:08,000
+Okay.
+
+621
+00:33:08,000 --> 00:33:10,000
+And somebody, well, actually,
+
+622
+00:33:10,000 --> 00:33:12,000
+there's two different customers.
+
+623
+00:33:12,000 --> 00:33:14,000
+This one placed the order first.
+
+624
+00:33:14,000 --> 00:33:16,000
+So, I think that's the problem.
+
+625
+00:33:16,000 --> 00:33:18,000
+The first one is the priority.
+
+626
+00:33:18,000 --> 00:33:20,000
+It's by the one who placed it first.
+
+627
+00:33:20,000 --> 00:33:22,000
+Somebody else at the Cincinnati Exchange, I
+
+628
+00:33:22,000 --> 00:33:24,000
+guess that's what that means, offered to
+
+629
+00:33:24,000 --> 00:33:28,000
+buy 8,200 shares at the very same price.
+
+630
+00:33:28,000 --> 00:33:31,000
+But it's listed as a separate order.
+
+631
+00:33:31,000 --> 00:33:32,000
+And so on.
+
+632
+00:33:32,000 --> 00:33:36,000
+So, now, you're sitting here looking at this screen now.
+
+633
+00:33:36,000 --> 00:33:39,500
+And you notice that this ask price
+
+634
+00:33:39,500 --> 00:33:43,000
+here is higher than the bid price there.
+
+635
+00:33:43,000 --> 00:33:45,000
+So, what does that mean to you?
+
+636
+00:33:46,000 --> 00:33:50,000
+It means there's no trade, right?
+
+637
+00:33:50,000 --> 00:33:53,500
+Because somebody wants, someone is
+
+638
+00:33:53,500 --> 00:33:57,000
+offering to sell at $25.24.
+
+639
+00:33:57,000 --> 00:34:01,000
+And somebody is offering to buy at $25.23.
+
+640
+00:34:01,000 --> 00:34:03,000
+It's no trade.
+
+641
+00:34:03,000 --> 00:34:05,000
+Until somebody changes their price.
+
+642
+00:34:05,000 --> 00:34:08,000
+That's no surprise, because these orders would
+
+643
+00:34:08,000 --> 00:34:11,000
+be filled very quickly, if there's a crossing.
+
+644
+00:34:11,000 --> 00:34:14,000
+See, these two lines don't cross.
+
+645
+00:34:14,000 --> 00:34:17,000
+So, it's like if you plotted these curves.
+
+646
+00:34:17,000 --> 00:34:20,000
+There's supply and demand curves, right?
+
+647
+00:34:20,000 --> 00:34:25,000
+We could plot the amount at various prices.
+
+648
+00:34:25,000 --> 00:34:29,000
+Well, you could see I'd have a
+
+649
+00:34:29,000 --> 00:34:33,000
+supply and demand curve that don't cross.
+
+650
+00:34:33,000 --> 00:34:35,000
+Normally, they have to cross somewhere,
+
+651
+00:34:35,000 --> 00:34:37,000
+and then there's a market-clearing price.
+
+652
+00:34:37,000 --> 00:34:40,000
+These things normally don't cross, because if they
+
+653
+00:34:40,000 --> 00:34:43,000
+did cross, it would immediately disappear from the screen.
+
+654
+00:34:43,000 --> 00:34:47,000
+Someone would finish the order and then sell.
+
+655
+00:34:47,000 --> 00:34:50,500
+But you sitting at the screen now have
+
+656
+00:34:50,500 --> 00:34:54,000
+a pretty good idea what the price is.
+
+657
+00:34:54,000 --> 00:34:58,500
+A NASDAQ Level 2 is better than a NASDAQ Level
+
+658
+00:34:58,500 --> 00:35:03,000
+1, because Level 1 just gives you the first row.
+
+659
+00:35:03,000 --> 00:35:06,000
+It's cheaper to subscribe to that.
+
+660
+00:35:06,000 --> 00:35:10,000
+What NASDAQ Level 1 gives you is the inside spread.
+
+661
+00:35:10,000 --> 00:35:13,000
+It would tell you that there is $100.
+
+662
+00:35:13,000 --> 00:35:16,000
+And then, if you want to hit that
+
+663
+00:35:16,000 --> 00:35:19,000
+order, you could take either side of that.
+
+664
+00:35:19,000 --> 00:35:23,000
+But it doesn't tell you the whole picture.
+
+665
+00:35:23,000 --> 00:35:25,500
+If you know NASDAQ Level 2, you
+
+666
+00:35:25,500 --> 00:35:28,000
+know a lot more about the market.
+
+667
+00:35:28,000 --> 00:35:30,000
+And if you're going to play the
+
+668
+00:35:30,000 --> 00:35:32,000
+game of trading, you want to know this.
+
+669
+00:35:32,000 --> 00:35:35,000
+So, for example, you know that it might be
+
+670
+00:35:35,000 --> 00:35:38,000
+hard for a price to fall rapidly below $0.25.
+
+671
+00:35:38,000 --> 00:35:40,000
+But if you're going to play the
+
+672
+00:35:40,000 --> 00:35:42,000
+game of trading, you want to know this.
+
+673
+00:35:42,000 --> 00:35:45,500
+It's going to fall below $25.22,
+
+674
+00:35:45,500 --> 00:35:49,000
+because there's a big buyer down there.
+
+675
+00:35:49,000 --> 00:35:52,000
+And so, it's going to be hard
+
+676
+00:35:52,000 --> 00:35:55,000
+for the price to fall below that.
+
+677
+00:35:55,000 --> 00:35:58,500
+If you saw the screen in real life, these
+
+678
+00:35:58,500 --> 00:36:02,000
+numbers would be just blinking, changing rapidly before you.
+
+679
+00:36:02,000 --> 00:36:06,500
+And trades that were there 20 seconds
+
+680
+00:36:06,500 --> 00:36:11,000
+ago would be gone in a flash.
+
+681
+00:36:11,000 --> 00:36:16,000
+So, you've got to move fast to execute these trades.
+
+682
+00:36:16,000 --> 00:36:18,500
+On a fully automated system,
+
+683
+00:36:18,500 --> 00:36:21,000
+the trades would be executed automatically.
+
+684
+00:36:21,000 --> 00:36:23,000
+And this is becoming, electronic
+
+685
+00:36:23,000 --> 00:36:25,000
+trading is taking over the world.
+
+686
+00:36:25,000 --> 00:36:29,000
+And the orders can be executed
+
+687
+00:36:29,000 --> 00:36:33,000
+by computers that make it instant.
+
+688
+00:36:33,000 --> 00:36:36,000
+So that you don't even, the number doesn't even appear
+
+689
+00:36:36,000 --> 00:36:39,000
+on the screen long enough for you to see it.
+
+690
+00:36:39,000 --> 00:36:40,000
+So, one development that's coming up.
+
+691
+00:36:40,000 --> 00:36:41,000
+So, you've got to move fast to execute these trades.
+
+692
+00:36:41,000 --> 00:36:47,500
+And the next one that's coming in
+
+693
+00:36:47,500 --> 00:36:54,000
+now is what's called high frequency trading.
+
+694
+00:36:54,000 --> 00:37:02,000
+HFT, which is trading that is done by computers.
+
+695
+00:37:02,000 --> 00:37:04,500
+Once you have a system like this, when you have to
+
+696
+00:37:04,500 --> 00:37:07,000
+trade through a floor broker on the New York Stock Exchange,
+
+697
+00:37:07,000 --> 00:37:10,000
+it has to proceed at human pace, right?
+
+698
+00:37:10,000 --> 00:37:12,000
+So, you make a telephone call to your broker.
+
+699
+00:37:12,000 --> 00:37:15,000
+Your broker makes another telephone call to the representative
+
+700
+00:37:15,000 --> 00:37:18,000
+on the floor of the New York Stock Exchange.
+
+701
+00:37:18,000 --> 00:37:22,000
+That person walks over to the crowd and
+
+702
+00:37:22,000 --> 00:37:26,000
+then discusses, indicates what, it's like a poker game.
+
+703
+00:37:26,000 --> 00:37:27,500
+You don't want to reveal your hand,
+
+704
+00:37:27,500 --> 00:37:29,000
+but you kind of feel people out.
+
+705
+00:37:29,000 --> 00:37:34,000
+And then after a little discussion, you reach a trade.
+
+706
+00:37:34,000 --> 00:37:36,500
+But when you have something that you can
+
+707
+00:37:36,500 --> 00:37:39,000
+hit on a computer, it just goes instantly.
+
+708
+00:37:39,000 --> 00:37:42,000
+And then you'll start programming trading.
+
+709
+00:37:42,000 --> 00:37:45,500
+And that's been an important phenomenon, because you
+
+710
+00:37:45,500 --> 00:37:49,000
+see these things moving faster than you can.
+
+711
+00:37:49,000 --> 00:37:54,000
+These prices disappear and reappear so fast that
+
+712
+00:37:54,000 --> 00:37:59,000
+you can't quite know, you can't act fast enough.
+
+713
+00:37:59,000 --> 00:38:08,000
+So, we have algorithmic trading or program trading.
+
+714
+00:38:08,000 --> 00:38:16,000
+And so, that goes back to practically to the 1970s.
+
+715
+00:38:16,000 --> 00:38:19,500
+Certainly by the 80s, program trading
+
+716
+00:38:19,500 --> 00:38:23,000
+was becoming a big and important phenomenon.
+
+717
+00:38:23,000 --> 00:38:26,000
+And it's becoming increasingly important now.
+
+718
+00:38:26,000 --> 00:38:30,000
+High-frequency trading now, brokers will
+
+719
+00:38:30,000 --> 00:38:34,000
+invoke what are called millisecond strategies.
+
+720
+00:38:34,000 --> 00:38:36,000
+You can actually flash an order.
+
+721
+00:38:36,000 --> 00:38:37,000
+You can actually flash an order.
+
+722
+00:38:37,000 --> 00:38:38,000
+You can actually flash an order.
+
+723
+00:38:38,000 --> 00:38:40,500
+You can actually flash an order on some of
+
+724
+00:38:40,500 --> 00:38:43,000
+the exchanges that lasts a thousandth of a second.
+
+725
+00:38:43,000 --> 00:38:45,500
+You can put a buy order or a
+
+726
+00:38:45,500 --> 00:38:48,000
+sell order and retract it in a millisecond.
+
+727
+00:38:48,000 --> 00:38:50,000
+And that means, this would be
+
+728
+00:38:50,000 --> 00:38:52,000
+a trading strategy, which you might employ.
+
+729
+00:38:52,000 --> 00:38:56,000
+You could do that to discourage people from trading.
+
+730
+00:38:56,000 --> 00:38:58,500
+If you want to trade only with the computers,
+
+731
+00:38:58,500 --> 00:39:01,000
+if you think, people are too smart for me.
+
+732
+00:39:01,000 --> 00:39:02,000
+I don't want to trade with people.
+
+733
+00:39:02,000 --> 00:39:04,000
+I want to rip off the computers.
+
+734
+00:39:04,000 --> 00:39:07,000
+Then you write a millisecond trading strategy.
+
+735
+00:39:07,000 --> 00:39:17,000
+You can sort into who trades with you.
+
+736
+00:39:17,000 --> 00:39:20,000
+Now, the interesting thing about millisecond trading
+
+737
+00:39:20,000 --> 00:39:23,000
+is that it's favoring the electronic exchanges.
+
+738
+00:39:23,000 --> 00:39:27,000
+More and more, as time goes on, people
+
+739
+00:39:27,000 --> 00:39:31,000
+are getting more and more sophisticated about high-frequency trading.
+
+740
+00:39:31,000 --> 00:39:33,500
+And so, they want to trade on exchanges that are
+
+741
+00:39:33,500 --> 00:39:36,000
+fully electronic, so that they can play all of these games.
+
+742
+00:39:37,000 --> 00:39:40,000
+And that means that the floor exchanges
+
+743
+00:39:40,000 --> 00:39:43,000
+are dying out over most of the world.
+
+744
+00:39:43,000 --> 00:39:46,000
+By the way, the New York Stock Exchange, I
+
+745
+00:39:46,000 --> 00:39:49,000
+was going to give you a history of it.
+
+746
+00:39:49,000 --> 00:39:51,500
+The New York Stock Exchange has
+
+747
+00:39:51,500 --> 00:39:54,000
+been slow to adapt to these technologies.
+
+748
+00:39:54,000 --> 00:39:56,000
+Let me just give you a little history.
+
+749
+00:39:56,000 --> 00:40:02,000
+Electronic trading is an exciting thing for many people.
+
+750
+00:40:02,000 --> 00:40:06,000
+But I think it started.
+
+751
+00:40:06,000 --> 00:40:11,000
+The really interesting electronic trading started
+
+752
+00:40:11,000 --> 00:40:16,000
+with the ECNs, electronic communication networks,
+
+753
+00:40:16,000 --> 00:40:19,000
+that were allowed by the Securities and
+
+754
+00:40:19,000 --> 00:40:22,000
+Exchange Commission as alternatives to stock exchanges.
+
+755
+00:40:22,000 --> 00:40:24,500
+Stock exchanges are highly regulated
+
+756
+00:40:24,500 --> 00:40:27,000
+by governments around the world.
+
+757
+00:40:27,000 --> 00:40:30,500
+But in the 1990s, the
+
+758
+00:40:30,500 --> 00:40:34,000
+Securities and Exchange Commission allowed more,
+
+759
+00:40:34,000 --> 00:40:41,000
+sophisticated electronic trading, at least as an experiment.
+
+760
+00:40:41,000 --> 00:40:43,500
+So, they didn't call these
+
+761
+00:40:43,500 --> 00:40:46,000
+things exchanges, they called them ECNs.
+
+762
+00:40:46,000 --> 00:40:49,000
+And one of the most important
+
+763
+00:40:49,000 --> 00:40:52,000
+ECNs was a company called Archipelago.
+
+764
+00:40:52,000 --> 00:40:57,000
+Another one was called Island.
+
+765
+00:40:57,000 --> 00:41:00,000
+These were actually just websites where you could trade.
+
+766
+00:41:00,000 --> 00:41:02,000
+And they were open to the public.
+
+767
+00:41:02,000 --> 00:41:04,000
+They had a different approach.
+
+768
+00:41:04,000 --> 00:41:06,000
+They had a different culture.
+
+769
+00:41:06,000 --> 00:41:08,000
+They had more of a web culture.
+
+770
+00:41:08,000 --> 00:41:10,000
+The web culture is, we're not going
+
+771
+00:41:10,000 --> 00:41:12,000
+to charge you to see the order book.
+
+772
+00:41:12,000 --> 00:41:14,000
+We'll just put it out to everybody.
+
+773
+00:41:14,000 --> 00:41:17,000
+The web doesn't charge you for a lot of things.
+
+774
+00:41:17,000 --> 00:41:19,500
+And so, they became popular
+
+775
+00:41:19,500 --> 00:41:22,000
+trading sites for the general public.
+
+776
+00:41:22,000 --> 00:41:25,000
+They grew up the way the personal computer grew.
+
+777
+00:41:25,000 --> 00:41:26,500
+So, New York Stock Exchange,
+
+778
+00:41:26,500 --> 00:41:28,000
+when they first saw Archipelago,
+
+779
+00:41:28,000 --> 00:41:30,000
+they said, oh, this is a bunch of
+
+780
+00:41:30,000 --> 00:41:32,000
+college kids fooling around, some computer game, sort of.
+
+781
+00:41:32,000 --> 00:41:34,000
+And they didn't think about it.
+
+782
+00:41:34,000 --> 00:41:36,000
+They didn't take it seriously.
+
+783
+00:41:36,000 --> 00:41:38,000
+But eventually, New York Stock
+
+784
+00:41:38,000 --> 00:41:40,000
+Exchange had to take it seriously,
+
+785
+00:41:40,000 --> 00:41:43,000
+because Archipelago was growing so fast.
+
+786
+00:41:43,000 --> 00:41:45,500
+So, eventually, New York
+
+787
+00:41:45,500 --> 00:41:48,000
+Stock Exchange merged with Archipelago.
+
+788
+00:41:48,000 --> 00:41:52,000
+And so, they're now, I think
+
+789
+00:41:52,000 --> 00:41:56,000
+most of their trades go through ArcaX.
+
+790
+00:41:56,000 --> 00:41:59,000
+I'm not sure if that's right, but a
+
+791
+00:41:59,000 --> 00:42:02,000
+large fraction of their trades go through ArcaX.
+
+792
+00:42:02,000 --> 00:42:22,000
+And so, New York Stock Exchange bought Archipelago in 2005.
+
+793
+00:42:22,000 --> 00:42:26,000
+And at that time, ArcaX was breathing close
+
+794
+00:42:26,000 --> 00:42:30,000
+on New York Stock Exchange for trading volume.
+
+795
+00:42:30,000 --> 00:42:31,000
+And so, they were able to get the stock.
+
+796
+00:42:31,000 --> 00:42:32,000
+And so, they were able to get the stock.
+
+797
+00:42:32,000 --> 00:42:33,000
+And so, they were able to get the stock.
+
+798
+00:42:33,000 --> 00:42:35,000
+Things are happening fast in the
+
+799
+00:42:35,000 --> 00:42:37,000
+stock exchange, because the technology is changing.
+
+800
+00:42:37,000 --> 00:42:38,500
+Whereas, we had the New York
+
+801
+00:42:38,500 --> 00:42:40,000
+Stock Exchange in the old days,
+
+802
+00:42:40,000 --> 00:42:44,000
+it was this single prestigious exchange that lasted
+
+803
+00:42:44,000 --> 00:42:48,000
+for over 150 years without any substantive change.
+
+804
+00:42:48,000 --> 00:42:50,500
+But now, electronic trading is coming
+
+805
+00:42:50,500 --> 00:42:53,000
+in, and everything is being shaken up.
+
+806
+00:42:53,000 --> 00:42:56,500
+So, the New York Stock
+
+807
+00:42:56,500 --> 00:43:00,000
+Exchange merged with Archipelago in 2005.
+
+808
+00:43:00,000 --> 00:43:06,000
+And then, they did another merger, let's
+
+809
+00:43:06,000 --> 00:43:12,000
+say, the New York Stock Exchange with Euronext,
+
+810
+00:43:12,000 --> 00:43:19,000
+which is another exchange in Europe, in 2006.
+
+811
+00:43:19,000 --> 00:43:22,500
+And right now, they're going
+
+812
+00:43:22,500 --> 00:43:26,000
+through a merger, another merger process.
+
+813
+00:43:26,000 --> 00:43:28,000
+Apparently, with the Deutsche Bank.
+
+814
+00:43:28,000 --> 00:43:35,000
+And that's 2011.
+
+815
+00:43:35,000 --> 00:43:37,000
+It's not finalized yet.
+
+816
+00:43:37,000 --> 00:43:40,000
+And now, NASDAQ is making an
+
+817
+00:43:40,000 --> 00:43:43,000
+offer for the New York Stock Exchange.
+
+818
+00:43:43,000 --> 00:43:45,000
+And so, is another
+
+819
+00:43:45,000 --> 00:43:47,000
+exchange called the Intercontinental Exchange.
+
+820
+00:43:47,000 --> 00:43:49,500
+But the little guys are
+
+821
+00:43:49,500 --> 00:43:52,000
+buying up the old-time big guys.
+
+822
+00:43:52,000 --> 00:43:56,000
+Laura Cha was saying in her lecture, she said,
+
+823
+00:43:56,000 --> 00:43:58,500
+that we used to think
+
+824
+00:43:58,500 --> 00:44:01,000
+of stock exchanges as like utilities.
+
+825
+00:44:01,000 --> 00:44:03,000
+Each country has its own stock exchange.
+
+826
+00:44:03,000 --> 00:44:05,000
+It's the pride of each country.
+
+827
+00:44:05,000 --> 00:44:07,000
+But now, it's not happening anymore.
+
+828
+00:44:07,000 --> 00:44:10,000
+And this reflects a bigger and broader trend,
+
+829
+00:44:10,000 --> 00:44:11,500
+that economies are becoming more
+
+830
+00:44:11,500 --> 00:44:13,000
+and more integrated across the world.
+
+831
+00:44:13,000 --> 00:44:17,000
+So, the idea that there will be a
+
+832
+00:44:17,000 --> 00:44:21,000
+stock exchange for each country is becoming dated.
+
+833
+00:44:21,000 --> 00:44:22,500
+So, the New York Stock Exchange
+
+834
+00:44:22,500 --> 00:44:24,000
+is a new kind of stock exchange.
+
+835
+00:44:24,000 --> 00:44:26,500
+So, the New York Stock Exchange
+
+836
+00:44:26,500 --> 00:44:29,000
+may soon be a German company.
+
+837
+00:44:29,000 --> 00:44:35,000
+But that's what happens in modern times.
+
+838
+00:44:35,000 --> 00:44:43,000
+So, now, I wanted to talk
+
+839
+00:44:43,000 --> 00:44:51,000
+about some problems with high frequency trading.
+
+840
+00:44:51,000 --> 00:44:53,000
+As things get so electronic,
+
+841
+00:44:53,000 --> 00:44:58,000
+let me give you one example.
+
+842
+00:44:58,000 --> 00:45:06,000
+In 1987, this was the early days of electronic trading.
+
+843
+00:45:06,000 --> 00:45:09,000
+But still, it had advanced pretty far.
+
+844
+00:45:09,000 --> 00:45:14,000
+On October 19th of 1987,
+
+845
+00:45:14,000 --> 00:45:17,500
+the stock markets in the United
+
+846
+00:45:17,500 --> 00:45:21,000
+States fell, according to the S&P 500,
+
+847
+00:45:21,000 --> 00:45:23,000
+over 20% in one month.
+
+848
+00:45:23,000 --> 00:45:26,000
+In one day.
+
+849
+00:45:26,000 --> 00:45:30,000
+The government did a study.
+
+850
+00:45:30,000 --> 00:45:35,000
+President Reagan ordered a study
+
+851
+00:45:35,000 --> 00:45:39,000
+and put it in charge of Nicholas Brady.
+
+852
+00:45:39,000 --> 00:45:41,500
+And so, the so-called Brady Commission did
+
+853
+00:45:41,500 --> 00:45:44,000
+a report on why the stock market,
+
+854
+00:45:44,000 --> 00:45:47,000
+that was the biggest single
+
+855
+00:45:47,000 --> 00:45:50,000
+stock market drop in U.S. history.
+
+856
+00:45:50,000 --> 00:45:52,000
+And the Brady Commission did a report
+
+857
+00:45:52,000 --> 00:45:54,000
+on that stock market drop.
+
+858
+00:45:54,000 --> 00:45:58,000
+And concluded that program trading, computer trading,
+
+859
+00:45:58,000 --> 00:46:02,000
+had played a big role in the drop.
+
+860
+00:46:02,000 --> 00:46:06,000
+There had been a development of programs
+
+861
+00:46:06,000 --> 00:46:08,000
+that were called portfolio insurance,
+
+862
+00:46:08,000 --> 00:46:12,000
+sell strategies.
+
+863
+00:46:12,000 --> 00:46:14,000
+They called it portfolio insurance.
+
+864
+00:46:14,000 --> 00:46:16,000
+But it wasn't really insurance.
+
+865
+00:46:16,000 --> 00:46:19,000
+It was an automatic sell strategy.
+
+866
+00:46:19,000 --> 00:46:20,000
+It's like a stop-loss order,
+
+867
+00:46:20,000 --> 00:46:21,000
+but a more sophisticated one.
+
+868
+00:46:21,000 --> 00:46:28,000
+That could be executed in continuous time by a program.
+
+869
+00:46:28,000 --> 00:46:33,000
+And that led to an instability in the market
+
+870
+00:46:33,000 --> 00:46:38,000
+that was not anticipated and shocked the world.
+
+871
+00:46:38,000 --> 00:46:42,000
+So, the Brady Commission made a number of recommendations.
+
+872
+00:46:42,000 --> 00:46:46,500
+Notably, the Commission recommended that
+
+873
+00:46:46,500 --> 00:46:51,000
+the exchanges impose trading halts.
+
+874
+00:46:51,000 --> 00:46:58,000
+That would prevent stocks from dropping,
+
+875
+00:46:58,000 --> 00:47:01,000
+the whole market from crashing.
+
+876
+00:47:01,000 --> 00:47:04,000
+So, the New York Stock Exchange and other exchanges,
+
+877
+00:47:04,000 --> 00:47:07,000
+after the Brady Commission report,
+
+878
+00:47:07,000 --> 00:47:13,000
+instituted what are called circuit breakers.
+
+879
+00:47:13,000 --> 00:47:16,000
+And these are automatic market halts
+
+880
+00:47:16,000 --> 00:47:18,000
+that stop the market when prices are falling,
+
+881
+00:47:18,000 --> 00:47:19,000
+to help prevent another 1987,
+
+882
+00:47:19,000 --> 00:47:23,000
+type stock market crash.
+
+883
+00:47:23,000 --> 00:47:31,000
+So, now, the system is getting complicated.
+
+884
+00:47:31,000 --> 00:47:34,000
+Even before this,
+
+885
+00:47:34,000 --> 00:47:37,000
+the United States government had created,
+
+886
+00:47:37,000 --> 00:47:40,000
+had passed a set of rules
+
+887
+00:47:40,000 --> 00:47:43,000
+in response to complaints
+
+888
+00:47:43,000 --> 00:47:48,000
+about people not being given a share of the stock.
+
+889
+00:47:49,000 --> 00:47:52,000
+And they were not given the best price.
+
+890
+00:47:52,000 --> 00:47:54,000
+So, here's the problem.
+
+891
+00:47:54,000 --> 00:47:58,000
+We have multiple exchanges.
+
+892
+00:47:58,000 --> 00:48:02,000
+New York Stock Exchange is one of many.
+
+893
+00:48:02,000 --> 00:48:05,000
+And if you call a stock broker,
+
+894
+00:48:05,000 --> 00:48:07,000
+the stock broker doesn't,
+
+895
+00:48:07,000 --> 00:48:10,000
+has discretion over where,
+
+896
+00:48:10,000 --> 00:48:14,000
+which exchange the broker will use to fill your order.
+
+897
+00:48:14,000 --> 00:48:17,000
+And so, the broker might choose an exchange
+
+898
+00:48:17,000 --> 00:48:19,000
+that doesn't give you the best price.
+
+899
+00:48:19,000 --> 00:48:22,000
+And the broker can, in effect,
+
+900
+00:48:22,000 --> 00:48:25,000
+rip you off as a broker.
+
+901
+00:48:25,000 --> 00:48:27,000
+In fact, there's a practice
+
+902
+00:48:27,000 --> 00:48:30,000
+called the payment for order flow.
+
+903
+00:48:35,000 --> 00:48:39,000
+So, a stock broker,
+
+904
+00:48:39,000 --> 00:48:42,000
+who is receiving orders from retail clients,
+
+905
+00:48:42,000 --> 00:48:45,000
+may find that there is a dealer
+
+906
+00:48:45,000 --> 00:48:48,000
+that's willing to pay for order flow.
+
+907
+00:48:48,000 --> 00:48:51,000
+When a customer asks to buy the stock,
+
+908
+00:48:51,000 --> 00:48:54,000
+don't put it through the New York Stock Exchange.
+
+909
+00:48:54,000 --> 00:48:55,000
+Give it to me,
+
+910
+00:48:55,000 --> 00:48:57,000
+and I'll give you, the broker,
+
+911
+00:48:57,000 --> 00:49:00,000
+a fee for directing the order my way.
+
+912
+00:49:00,000 --> 00:49:05,000
+And that may not serve the client well,
+
+913
+00:49:05,000 --> 00:49:07,000
+because the client then
+
+914
+00:49:07,000 --> 00:49:09,000
+might end up paying a higher price.
+
+915
+00:49:09,000 --> 00:49:12,000
+So, there were a lot of complaints about this.
+
+916
+00:49:12,000 --> 00:49:14,000
+And it's a difficult problem,
+
+917
+00:49:14,000 --> 00:49:17,000
+because it's hard to monitor everything that people do.
+
+918
+00:49:17,000 --> 00:49:19,000
+And there might be justifications
+
+919
+00:49:19,000 --> 00:49:21,000
+for a payment for order flow.
+
+920
+00:49:21,000 --> 00:49:24,000
+But there have been efforts
+
+921
+00:49:24,000 --> 00:49:26,000
+to try to make it a fairer system.
+
+922
+00:49:26,000 --> 00:49:30,000
+And in 1975,
+
+923
+00:49:30,000 --> 00:49:32,000
+the U.S. Congress set up something called
+
+924
+00:49:32,000 --> 00:49:34,000
+the National Market System.
+
+925
+00:49:34,000 --> 00:49:40,000
+And, oops, I think,
+
+926
+00:49:40,000 --> 00:49:46,000
+so,
+
+927
+00:49:47,000 --> 00:49:51,000
+the NMS is the National Market System,
+
+928
+00:49:51,000 --> 00:49:57,000
+and the ITS is the Intermarket Trading System.
+
+929
+00:49:57,000 --> 00:50:00,000
+What the government in the United States did,
+
+930
+00:50:00,000 --> 00:50:02,000
+is it said that brokers
+
+931
+00:50:02,000 --> 00:50:04,000
+have to get the best price,
+
+932
+00:50:04,000 --> 00:50:07,000
+or it's called best bid, best offer,
+
+933
+00:50:07,000 --> 00:50:12,000
+best bid for their clients.
+
+934
+00:50:12,000 --> 00:50:15,000
+And they have a responsibility for their clients
+
+935
+00:50:15,000 --> 00:50:23,000
+to take the market with the best price.
+
+936
+00:50:23,000 --> 00:50:27,000
+So, in conjunction with this,
+
+937
+00:50:27,000 --> 00:50:30,000
+the exchanges built something called
+
+938
+00:50:30,000 --> 00:50:34,000
+the Consolidated Quotation System
+
+939
+00:50:34,000 --> 00:50:40,000
+that allows brokers to see prices on various exchanges
+
+940
+00:50:40,000 --> 00:50:43,000
+and direct the order of the client
+
+941
+00:50:43,000 --> 00:50:45,000
+to the exchange that's showing up
+
+942
+00:50:45,000 --> 00:50:49,000
+during the best price.
+
+943
+00:50:49,000 --> 00:50:52,000
+So, that is a system that was started
+
+944
+00:50:52,000 --> 00:50:54,000
+in the United States in 1975.
+
+945
+00:50:54,000 --> 00:50:57,000
+And brokers still have an obligation
+
+946
+00:50:57,000 --> 00:50:59,000
+to get the best price for their customers,
+
+947
+00:50:59,000 --> 00:51:02,000
+regardless of exchange.
+
+948
+00:51:02,000 --> 00:51:04,000
+But the obligation is hard for the government
+
+949
+00:51:04,000 --> 00:51:10,000
+to monitor and it gets complicated.
+
+950
+00:51:10,000 --> 00:51:13,000
+For example, if you're confronting this system,
+
+951
+00:51:13,000 --> 00:51:15,000
+and your broker wants
+
+952
+00:51:15,000 --> 00:51:18,000
+500 shares, well, I can't fill them all
+
+953
+00:51:18,000 --> 00:51:21,000
+at the same price, right?
+
+954
+00:51:21,000 --> 00:51:25,000
+Well, actually, I could here.
+
+955
+00:51:25,000 --> 00:51:28,000
+If the broker wanted 10,000 shares,
+
+956
+00:51:28,000 --> 00:51:30,000
+they'd be all different prices,
+
+957
+00:51:30,000 --> 00:51:33,000
+because I have all these different customers, right?
+
+958
+00:51:33,000 --> 00:51:35,000
+I'm asking different amounts.
+
+959
+00:51:35,000 --> 00:51:38,000
+So, what do you want us to do, SEC?
+
+960
+00:51:38,000 --> 00:51:41,000
+And so, the SEC recently clarified this,
+
+961
+00:51:41,000 --> 00:51:43,000
+I think it was in 2006.
+
+962
+00:51:43,000 --> 00:51:45,000
+Well, we only mean the amount
+
+963
+00:51:45,000 --> 00:51:48,000
+that you have to hit this, the best one.
+
+964
+00:51:48,000 --> 00:51:51,000
+There's one up here, 2400 for 2524.
+
+965
+00:51:51,000 --> 00:51:54,000
+How you fill the others, we can't get into that.
+
+966
+00:51:54,000 --> 00:51:58,000
+So, it's not a complete protection for customers,
+
+967
+00:51:58,000 --> 00:52:00,000
+but there still is this obligation
+
+968
+00:52:00,000 --> 00:52:05,000
+for brokers to use the national market system
+
+969
+00:52:05,000 --> 00:52:07,000
+to get the best price.
+
+970
+00:52:07,000 --> 00:52:11,000
+But the system is complicated and confusing,
+
+971
+00:52:11,000 --> 00:52:13,000
+because there's so many computers involved,
+
+972
+00:52:13,000 --> 00:52:14,000
+there's so many different exchanges,
+
+973
+00:52:14,000 --> 00:52:16,000
+and there's so many rules.
+
+974
+00:52:16,000 --> 00:52:21,000
+It's hard for people to keep up with it.
+
+975
+00:52:21,000 --> 00:52:28,000
+So, I had on the reading
+
+976
+00:52:28,000 --> 00:52:35,000
+list, I had a report that I,
+
+977
+00:52:35,000 --> 00:52:36,000
+well, I found the report.
+
+978
+00:52:36,000 --> 00:52:39,000
+It was very much in the news a while back.
+
+979
+00:52:39,000 --> 00:52:43,000
+This is a report on May 6, 2010.
+
+980
+00:52:43,000 --> 00:52:49,000
+You remember what happened then?
+
+981
+00:52:49,000 --> 00:52:51,000
+That was not that long ago.
+
+982
+00:52:51,000 --> 00:52:56,000
+The stock market, as of around 2.30 in the afternoon
+
+983
+00:52:56,000 --> 00:53:00,000
+in the United States, had fallen 4%.
+
+984
+00:53:00,000 --> 00:53:04,000
+And then, within a matter of minutes,
+
+985
+00:53:04,000 --> 00:53:07,000
+it dropped another 6%.
+
+986
+00:53:07,000 --> 00:53:09,000
+And then, it rebounded quickly.
+
+987
+00:53:09,000 --> 00:53:12,000
+Some individual stocks dropped practically
+
+988
+00:53:12,000 --> 00:53:14,000
+to nothing.
+
+989
+00:53:14,000 --> 00:53:15,500
+And you could buy, you know,
+
+990
+00:53:15,500 --> 00:53:17,000
+a $30 stock for 30 cents
+
+991
+00:53:17,000 --> 00:53:19,000
+or something like that.
+
+992
+00:53:19,000 --> 00:53:21,000
+And then, they rebounded.
+
+993
+00:53:21,000 --> 00:53:24,000
+So, what happened?
+
+994
+00:53:24,000 --> 00:53:27,500
+Why did we have this very
+
+995
+00:53:27,500 --> 00:53:31,000
+brief crash in the stock markets?
+
+996
+00:53:31,000 --> 00:53:33,000
+It wasn't like 1987, where the market went down
+
+997
+00:53:33,000 --> 00:53:36,000
+and stayed down.
+
+998
+00:53:36,000 --> 00:53:40,000
+If you look at closing prices, nothing much happened.
+
+999
+00:53:40,000 --> 00:53:41,000
+It was this brief.
+
+1000
+00:53:41,000 --> 00:53:43,000
+A glitch, which probably cost
+
+1001
+00:53:43,000 --> 00:53:45,000
+some people huge amounts of money.
+
+1002
+00:53:45,000 --> 00:53:47,000
+Because if you were trading right at that moment,
+
+1003
+00:53:47,000 --> 00:53:49,000
+you'd have a problem.
+
+1004
+00:53:49,000 --> 00:53:50,000
+So, I have as an
+
+1005
+00:53:50,000 --> 00:53:51,000
+optional reading on the reading list,
+
+1006
+00:53:51,000 --> 00:53:56,000
+a study that was made of May 6, 2010,
+
+1007
+00:53:56,000 --> 00:54:00,000
+by the SEC and the Commodity Futures Trading Commission,
+
+1008
+00:54:00,000 --> 00:54:05,000
+trying to understand what happened then.
+
+1009
+00:54:05,000 --> 00:54:10,000
+And the study does focus on high-frequency trading.
+
+1010
+00:54:10,000 --> 00:54:14,000
+There were a lot of computers trading automatically
+
+1011
+00:54:14,000 --> 00:54:16,000
+at that moment in time.
+
+1012
+00:54:16,000 --> 00:54:18,000
+So, what apparently happened on May 6 is,
+
+1013
+00:54:18,000 --> 00:54:22,000
+the market was already in a stressed mode
+
+1014
+00:54:22,000 --> 00:54:24,000
+before 2.30 p.m.
+
+1015
+00:54:24,000 --> 00:54:26,000
+The VIX index had shot up.
+
+1016
+00:54:26,000 --> 00:54:27,000
+There was some bad news.
+
+1017
+00:54:27,000 --> 00:54:29,000
+The market was down 4%.
+
+1018
+00:54:29,000 --> 00:54:31,000
+There was some bad news.
+
+1019
+00:54:31,000 --> 00:54:33,000
+So, that meant that some traders were wondering,
+
+1020
+00:54:33,000 --> 00:54:34,000
+what's going on?
+
+1021
+00:54:34,000 --> 00:54:38,000
+And maybe they decided to drop out for a while
+
+1022
+00:54:38,000 --> 00:54:40,000
+and just be cautious.
+
+1023
+00:54:40,000 --> 00:54:43,000
+But the computers were still trading.
+
+1024
+00:54:43,000 --> 00:54:45,000
+And then something happened.
+
+1025
+00:54:45,000 --> 00:54:47,000
+The computers started trading
+
+1026
+00:54:47,000 --> 00:54:49,000
+back and forth in milliseconds.
+
+1027
+00:54:49,000 --> 00:54:50,500
+And I don't know what
+
+1028
+00:54:50,500 --> 00:54:52,000
+the programs were supposed to do,
+
+1029
+00:54:52,000 --> 00:54:56,000
+or what they, maybe nobody knows the whole picture.
+
+1030
+00:54:56,000 --> 00:54:58,000
+But the volume of trade
+
+1031
+00:54:58,000 --> 00:55:00,000
+just went to an astronomical level.
+
+1032
+00:55:00,000 --> 00:55:03,000
+And it scared people off.
+
+1033
+00:55:03,000 --> 00:55:05,000
+And so, there were a lot
+
+1034
+00:55:05,000 --> 00:55:07,000
+of trading pauses that were put.
+
+1035
+00:55:07,000 --> 00:55:08,000
+Exchanges have rules about that.
+
+1036
+00:55:08,000 --> 00:55:09,000
+And individual dealerships have rules about that.
+
+1037
+00:55:10,000 --> 00:55:12,000
+And dealers will say, I'm dropping out.
+
+1038
+00:55:12,000 --> 00:55:13,000
+I see all this volume.
+
+1039
+00:55:13,000 --> 00:55:15,000
+I'm not in here anymore.
+
+1040
+00:55:15,000 --> 00:55:18,000
+So, it remains that the trading that was left
+
+1041
+00:55:18,000 --> 00:55:21,000
+was substantially computer trading.
+
+1042
+00:55:21,000 --> 00:55:27,000
+And the market became very illiquid.
+
+1043
+00:55:27,000 --> 00:55:34,000
+And so, this study has recommended fixes for this.
+
+1044
+00:55:34,000 --> 00:55:38,000
+But it doesn't recommend ending high-frequency trading.
+
+1045
+00:55:38,000 --> 00:55:40,000
+A lot of people would recommend doing that.
+
+1046
+00:55:40,000 --> 00:55:43,500
+There's a popular anger, especially since
+
+1047
+00:55:43,500 --> 00:55:47,000
+this May 6, 2010 crisis occurred
+
+1048
+00:55:47,000 --> 00:55:50,000
+during the period of financial crisis.
+
+1049
+00:55:50,000 --> 00:55:53,000
+And people kind of imagine that the two are linked.
+
+1050
+00:55:53,000 --> 00:55:55,000
+I think they're kind of independent.
+
+1051
+00:55:55,000 --> 00:55:58,500
+I think the May 6, 2010 phenomenon
+
+1052
+00:55:58,500 --> 00:56:02,000
+was due to some kind of anomalies
+
+1053
+00:56:02,000 --> 00:56:06,000
+or infamiliarity with high-frequency trading.
+
+1054
+00:56:06,000 --> 00:56:08,000
+It's a glitch.
+
+1055
+00:56:08,000 --> 00:56:11,000
+And not a major fault.
+
+1056
+00:56:11,000 --> 00:56:13,000
+But it led to a
+
+1057
+00:56:13,000 --> 00:56:15,000
+lot of anger about high-frequency trading.
+
+1058
+00:56:15,000 --> 00:56:17,000
+But I've talked to some
+
+1059
+00:56:17,000 --> 00:56:19,000
+people at the Chicago Mercantile Exchange
+
+1060
+00:56:19,000 --> 00:56:23,000
+and others who think that the
+
+1061
+00:56:23,000 --> 00:56:27,000
+public anxiety over high-frequency trading is misplaced.
+
+1062
+00:56:27,000 --> 00:56:28,000
+It's kind of inevitable.
+
+1063
+00:56:28,000 --> 00:56:30,000
+The future is computers, right?
+
+1064
+00:56:30,000 --> 00:56:32,000
+They're replacing people all over.
+
+1065
+00:56:32,000 --> 00:56:34,000
+Not in a judgment thing.
+
+1066
+00:56:34,000 --> 00:56:35,500
+You know, someone was saying at
+
+1067
+00:56:35,500 --> 00:56:37,000
+the CME meeting where I was,
+
+1068
+00:56:37,000 --> 00:56:40,000
+that the basic business that we're doing is
+
+1069
+00:56:40,000 --> 00:56:43,000
+still the same as it was 100 years ago.
+
+1070
+00:56:43,000 --> 00:56:45,000
+But now we have laptops, right?
+
+1071
+00:56:45,000 --> 00:56:47,000
+It's just like when you write a term paper.
+
+1072
+00:56:47,000 --> 00:56:49,000
+It's basically the same thing that somebody
+
+1073
+00:56:49,000 --> 00:56:51,000
+would have done with a feather pen
+
+1074
+00:56:51,000 --> 00:56:55,000
+and a piece of paper 200 years ago, right?
+
+1075
+00:56:55,000 --> 00:56:56,000
+It's basically the same.
+
+1076
+00:56:56,000 --> 00:56:58,000
+But we live in a computer age
+
+1077
+00:56:58,000 --> 00:57:00,000
+now, and we don't want to go back.
+
+1078
+00:57:00,000 --> 00:57:03,000
+And so, high-frequency trading means that
+
+1079
+00:57:03,000 --> 00:57:06,000
+we have to be a little careful.
+
+1080
+00:57:06,000 --> 00:57:09,000
+Things can happen with lightning speed.
+
+1081
+00:57:09,000 --> 00:57:12,000
+But we'll learn.
+
+1082
+00:57:12,000 --> 00:57:15,000
+There hasn't been another May 6, 2010 since.
+
+1083
+00:57:15,000 --> 00:57:18,000
+It was just an anomaly because people
+
+1084
+00:57:18,000 --> 00:57:21,000
+were unfamiliar with that kind of event.
+
+1085
+00:57:21,000 --> 00:57:29,000
+And so, I think it will be all right.
+
+1086
+00:57:29,000 --> 00:57:31,000
+And one thing that it does,
+
+1087
+00:57:31,000 --> 00:57:33,000
+however, is it's changing the geography.
+
+1088
+00:57:33,000 --> 00:57:36,000
+It used to be that in the 90s,
+
+1089
+00:57:36,000 --> 00:57:38,000
+in the 18th century,
+
+1090
+00:57:38,000 --> 00:57:40,000
+a stockbroker had to live in
+
+1091
+00:57:40,000 --> 00:57:42,000
+London or Paris or New York
+
+1092
+00:57:42,000 --> 00:57:44,000
+in order to be close to the trading, right?
+
+1093
+00:57:44,000 --> 00:57:46,000
+Because they didn't have any way to make phone calls.
+
+1094
+00:57:46,000 --> 00:57:49,000
+When they invented the telephone, people said, fine,
+
+1095
+00:57:49,000 --> 00:57:51,000
+I don't have to live in New York anymore.
+
+1096
+00:57:51,000 --> 00:57:52,500
+I can live in anywhere, and I
+
+1097
+00:57:52,500 --> 00:57:54,000
+can just send my call by telephone.
+
+1098
+00:57:54,000 --> 00:57:58,000
+But now, high-frequency trading is bringing it back
+
+1099
+00:57:58,000 --> 00:58:01,000
+that people have to live close to the exchange
+
+1100
+00:58:01,000 --> 00:58:04,000
+because the trading goes so fast
+
+1101
+00:58:04,000 --> 00:58:06,000
+that your electronic signal,
+
+1102
+00:58:06,000 --> 00:58:08,000
+if you try to set up
+
+1103
+00:58:08,000 --> 00:58:10,000
+a high-frequency trading operation in St. Louis,
+
+1104
+00:58:10,000 --> 00:58:13,000
+and you're operating by wire to New York,
+
+1105
+00:58:13,000 --> 00:58:15,000
+the time it takes for electricity to
+
+1106
+00:58:15,000 --> 00:58:17,000
+get from St. Louis to New York
+
+1107
+00:58:17,000 --> 00:58:19,000
+is too big, and you
+
+1108
+00:58:19,000 --> 00:58:21,000
+will be behind on the trade.
+
+1109
+00:58:21,000 --> 00:58:23,000
+So, you want to get as
+
+1110
+00:58:23,000 --> 00:58:25,000
+close as physically possible to the exchange,
+
+1111
+00:58:25,000 --> 00:58:27,000
+to the computer.
+
+1112
+00:58:27,000 --> 00:58:31,000
+You don't, see, the regional exchanges,
+
+1113
+00:58:31,000 --> 00:58:32,500
+there used to be exchanges
+
+1114
+00:58:32,500 --> 00:58:34,000
+in every U.S., big U.S. city.
+
+1115
+00:58:34,000 --> 00:58:35,000
+And they were there, and they were there,
+
+1116
+00:58:35,000 --> 00:58:37,000
+because of social reasons,
+
+1117
+00:58:37,000 --> 00:58:39,000
+that people in Chicago wanted to
+
+1118
+00:58:39,000 --> 00:58:41,000
+talk to a broker in Chicago.
+
+1119
+00:58:41,000 --> 00:58:42,500
+They wanted to be able to
+
+1120
+00:58:42,500 --> 00:58:44,000
+go to his office and see him.
+
+1121
+00:58:44,000 --> 00:58:47,000
+So, there were social reasons for connection.
+
+1122
+00:58:47,000 --> 00:58:50,000
+But now, we're coming up with a new electronic reason.
+
+1123
+00:58:50,000 --> 00:58:54,000
+And because of basic theoretical physics,
+
+1124
+00:58:54,000 --> 00:58:57,000
+you can't move anything faster than the speed of light.
+
+1125
+00:58:57,000 --> 00:58:59,000
+This is going to be with us,
+
+1126
+00:58:59,000 --> 00:59:03,000
+now that we have microsecond trading.
+
+1127
+00:59:05,000 --> 00:59:17,000
+So, I wanted to talk a little bit now,
+
+1128
+00:59:17,000 --> 00:59:20,000
+and I think maybe this will be the last topic,
+
+1129
+00:59:20,000 --> 00:59:27,000
+about how you think about trading as a dealer,
+
+1130
+00:59:27,000 --> 00:59:33,000
+who is confronted with this kind of book.
+
+1131
+00:59:33,000 --> 00:59:35,500
+And as a dealer, you
+
+1132
+00:59:35,500 --> 00:59:38,000
+can put orders on this book,
+
+1133
+00:59:38,000 --> 00:59:41,000
+and enter them, and leave them there.
+
+1134
+00:59:41,000 --> 00:59:43,000
+That's basically what you do.
+
+1135
+00:59:43,000 --> 00:59:47,000
+So, you see various dealers, and their names are shown.
+
+1136
+00:59:47,000 --> 00:59:50,500
+And, for example, well, I
+
+1137
+00:59:50,500 --> 00:59:54,000
+don't know who these people are,
+
+1138
+00:59:54,000 --> 00:59:57,500
+but each dealer is going to
+
+1139
+00:59:57,500 --> 01:00:01,000
+be posting a bid and an ask.
+
+1140
+01:00:01,000 --> 01:00:02,000
+Right?
+
+1141
+01:00:03,000 --> 01:00:06,000
+And a quantity for these.
+
+1142
+01:00:06,000 --> 01:00:08,000
+And it's going to be, if you do this,
+
+1143
+01:00:08,000 --> 01:00:10,000
+you're sitting at your NASDAQ screen,
+
+1144
+01:00:10,000 --> 01:00:12,000
+and you're a dealer.
+
+1145
+01:00:12,000 --> 01:00:17,000
+You can enter your own number on either of these,
+
+1146
+01:00:17,000 --> 01:00:19,000
+either the bid or the ask, or both of them.
+
+1147
+01:00:19,000 --> 01:00:22,000
+So, you have your own bid-ask spread.
+
+1148
+01:00:22,000 --> 01:00:24,000
+Okay?
+
+1149
+01:00:24,000 --> 01:00:27,000
+It's the same thing as an antique dealer.
+
+1150
+01:00:27,000 --> 01:00:28,000
+Okay?
+
+1151
+01:00:28,000 --> 01:00:31,000
+An antique dealer has an idea,
+
+1152
+01:00:31,000 --> 01:00:32,000
+maybe it's not posted,
+
+1153
+01:00:32,000 --> 01:00:34,500
+of how much he or she
+
+1154
+01:00:34,500 --> 01:00:37,000
+will pay for a chest of drawers
+
+1155
+01:00:37,000 --> 01:00:40,000
+from a Yale student at the end of the semester,
+
+1156
+01:00:40,000 --> 01:00:43,000
+and how much he will charge to sell that.
+
+1157
+01:00:43,000 --> 01:00:46,000
+And the difference between the ask and the bid
+
+1158
+01:00:46,000 --> 01:00:51,000
+is called the spread, or the bid-ask spread.
+
+1159
+01:00:51,000 --> 01:00:53,000
+And so, I wanted to just think
+
+1160
+01:00:53,000 --> 01:00:55,000
+a little bit about the theory of this.
+
+1161
+01:00:55,000 --> 01:01:00,000
+And how do you decide,
+
+1162
+01:01:02,000 --> 01:01:05,000
+of the bid-ask spread,
+
+1163
+01:01:05,000 --> 01:01:07,000
+of what to do?
+
+1164
+01:01:07,000 --> 01:01:10,000
+And why is it what it is?
+
+1165
+01:01:10,000 --> 01:01:13,000
+The spreads are obviously very tight here,
+
+1166
+01:01:13,000 --> 01:01:15,000
+because they're off only by one cent
+
+1167
+01:01:15,000 --> 01:01:18,000
+between the, on the inside spread.
+
+1168
+01:01:18,000 --> 01:01:22,000
+But it doesn't correspond to one person.
+
+1169
+01:01:22,000 --> 01:01:23,000
+Maybe some of these are market,
+
+1170
+01:01:23,000 --> 01:01:25,000
+or customer orders and aren't dealers.
+
+1171
+01:01:25,000 --> 01:01:28,000
+But think of placing an order as a dealer
+
+1172
+01:01:28,000 --> 01:01:30,000
+and leaving it on the screen,
+
+1173
+01:01:30,000 --> 01:01:36,000
+so that anybody can come and,
+
+1174
+01:01:36,000 --> 01:01:39,000
+the risk that you face is that
+
+1175
+01:01:39,000 --> 01:01:42,000
+you will be picked off
+
+1176
+01:01:42,000 --> 01:01:46,000
+by people with superior information.
+
+1177
+01:01:46,000 --> 01:01:48,500
+And let me put it in
+
+1178
+01:01:48,500 --> 01:01:51,000
+the context of an antique dealer.
+
+1179
+01:01:51,000 --> 01:01:53,000
+One thing that antique dealers don't like
+
+1180
+01:01:53,000 --> 01:01:55,500
+is when professional antique dealers
+
+1181
+01:01:55,500 --> 01:01:58,000
+come shopping in their store.
+
+1182
+01:01:58,000 --> 01:01:59,000
+So, what do they do?
+
+1183
+01:01:59,000 --> 01:02:01,000
+You know, if you're a good antique dealer,
+
+1184
+01:02:01,000 --> 01:02:02,000
+you go to all the antique stores,
+
+1185
+01:02:02,000 --> 01:02:04,000
+and you try to disguise yourself,
+
+1186
+01:02:04,000 --> 01:02:05,000
+because they don't want you,
+
+1187
+01:02:05,000 --> 01:02:06,000
+if you're a dealer.
+
+1188
+01:02:06,000 --> 01:02:07,000
+What do you do?
+
+1189
+01:02:07,000 --> 01:02:09,000
+You look through all their stuff,
+
+1190
+01:02:09,000 --> 01:02:11,000
+and you find anything that's mispriced.
+
+1191
+01:02:11,000 --> 01:02:14,000
+You know, there'll be some chest of drawers
+
+1192
+01:02:14,000 --> 01:02:17,000
+that you recognize as an 18th century,
+
+1193
+01:02:17,000 --> 01:02:25,000
+you know, by a famous furniture maker.
+
+1194
+01:02:25,000 --> 01:02:28,000
+So, you buy that at the guy's price.
+
+1195
+01:02:28,000 --> 01:02:30,000
+You pick him off, right?
+
+1196
+01:02:30,000 --> 01:02:32,000
+So, he doesn't want to be picked off,
+
+1197
+01:02:32,000 --> 01:02:35,000
+because somebody will come by who knows more,
+
+1198
+01:02:35,000 --> 01:02:38,000
+will pick off all the good stuff and buy it,
+
+1199
+01:02:38,000 --> 01:02:40,000
+and leave you with the junk.
+
+1200
+01:02:40,000 --> 01:02:42,000
+So, how do you prevent that?
+
+1201
+01:02:42,000 --> 01:02:44,000
+Well, you might think that you could prevent it
+
+1202
+01:02:44,000 --> 01:02:46,000
+by just being smarter,
+
+1203
+01:02:46,000 --> 01:02:47,000
+but you can try.
+
+1204
+01:02:47,000 --> 01:02:49,000
+Try to be as smart as you want,
+
+1205
+01:02:49,000 --> 01:02:50,000
+and read up about all the antiques,
+
+1206
+01:02:50,000 --> 01:02:52,000
+but it's impossible.
+
+1207
+01:02:52,000 --> 01:02:54,000
+You cannot be the smartest guy out there.
+
+1208
+01:02:54,000 --> 01:02:55,000
+Impossible.
+
+1209
+01:02:55,000 --> 01:02:57,000
+There's just too many antiques,
+
+1210
+01:02:57,000 --> 01:03:00,000
+and there's too much inside information.
+
+1211
+01:03:00,000 --> 01:03:03,000
+So, that means you have to set your bid-ask spread
+
+1212
+01:03:03,000 --> 01:03:06,000
+wide enough that you can be picked off
+
+1213
+01:03:06,000 --> 01:03:08,000
+and still make a profit.
+
+1214
+01:03:08,000 --> 01:03:10,000
+You know you're going to get picked off.
+
+1215
+01:03:10,000 --> 01:03:12,000
+And it's the same for stocks.
+
+1216
+01:03:12,000 --> 01:03:14,000
+If you're going to put a
+
+1217
+01:03:14,000 --> 01:03:16,000
+bid-ask spread up on the screen
+
+1218
+01:03:16,000 --> 01:03:18,000
+for some stock,
+
+1219
+01:03:18,000 --> 01:03:20,000
+you're just a sitting duck,
+
+1220
+01:03:20,000 --> 01:03:22,000
+because there'll be some news story
+
+1221
+01:03:22,000 --> 01:03:24,000
+that's either good or bad.
+
+1222
+01:03:24,000 --> 01:03:26,000
+And if it's either way,
+
+1223
+01:03:26,000 --> 01:03:28,000
+somebody else is going to hear of it first.
+
+1224
+01:03:28,000 --> 01:03:30,000
+And when you get a hit on your order,
+
+1225
+01:03:30,000 --> 01:03:32,000
+it's going to be deadly,
+
+1226
+01:03:32,000 --> 01:03:34,000
+because it'll be at the wrong time for you.
+
+1227
+01:03:34,000 --> 01:03:38,500
+So, that's the theory that
+
+1228
+01:03:38,500 --> 01:03:43,000
+you have to make the order,
+
+1229
+01:03:43,000 --> 01:03:46,000
+the bid-ask spread wide enough.
+
+1230
+01:03:46,000 --> 01:03:47,000
+Now, I wanted to then just
+
+1231
+01:03:47,000 --> 01:03:48,000
+give you a little bit of math.
+
+1232
+01:03:48,000 --> 01:03:50,000
+I shouldn't end the lecture on mathematics,
+
+1233
+01:03:50,000 --> 01:03:55,000
+but that's what I'm doing here this time.
+
+1234
+01:03:55,000 --> 01:03:57,000
+And I wanted to just talk
+
+1235
+01:03:57,000 --> 01:03:59,000
+about the frustrating life as a dealer.
+
+1236
+01:03:59,000 --> 01:04:01,000
+I was telling you about frustrations
+
+1237
+01:04:01,000 --> 01:04:03,000
+in life as an investment banker.
+
+1238
+01:04:03,000 --> 01:04:06,000
+There are different frustrations in life as a dealer.
+
+1239
+01:04:06,000 --> 01:04:09,000
+And I'll tell you what the difference is.
+
+1240
+01:04:09,000 --> 01:04:11,000
+Life as a dealer is very different
+
+1241
+01:04:11,000 --> 01:04:13,000
+than life as an employee of something.
+
+1242
+01:04:13,000 --> 01:04:14,500
+You are a dealer, and
+
+1243
+01:04:14,500 --> 01:04:16,000
+you have whatever money you make.
+
+1244
+01:04:16,000 --> 01:04:19,000
+And the problem is, you can get ruined.
+
+1245
+01:04:19,000 --> 01:04:21,000
+This is a classic.
+
+1246
+01:04:21,000 --> 01:04:22,500
+In other words, you can be
+
+1247
+01:04:22,500 --> 01:04:24,000
+working as a dealer for 20 years,
+
+1248
+01:04:25,000 --> 01:04:28,000
+and you see your portfolio growing,
+
+1249
+01:04:28,000 --> 01:04:30,000
+because you're making a lot of money selling.
+
+1250
+01:04:30,000 --> 01:04:31,500
+But, you know, all it
+
+1251
+01:04:31,500 --> 01:04:33,000
+takes is a few bad moves,
+
+1252
+01:04:33,000 --> 01:04:35,000
+and you can be wiped out.
+
+1253
+01:04:35,000 --> 01:04:39,000
+You know, 20 years of work, and you are ruined.
+
+1254
+01:04:39,000 --> 01:04:41,000
+So, I wanted to just think about that.
+
+1255
+01:04:41,000 --> 01:04:45,000
+And this is my last bit of mathematics.
+
+1256
+01:04:45,000 --> 01:04:48,000
+It's a mathematics of gamblers' ruin.
+
+1257
+01:04:48,000 --> 01:04:53,000
+And it's also a mathematics of dealers' ruin.
+
+1258
+01:04:53,000 --> 01:04:55,000
+And so, here's the theory.
+
+1259
+01:04:55,000 --> 01:04:59,000
+If I start out with S
+
+1260
+01:04:59,000 --> 01:05:03,000
+dollars, S is my initial amount of
+
+1261
+01:05:03,000 --> 01:05:05,000
+money as a dealer, OK?
+
+1262
+01:05:05,000 --> 01:05:08,000
+And let's say, I take a
+
+1263
+01:05:08,000 --> 01:05:11,000
+series of bets, which have a
+
+1264
+01:05:11,000 --> 01:05:18,000
+probability, P is the probability of a win.
+
+1265
+01:05:18,000 --> 01:05:19,000
+OK.
+
+1266
+01:05:22,000 --> 01:05:23,000
+What is the?
+
+1267
+01:05:25,000 --> 01:05:31,000
+Probability of eventual ruin.
+
+1268
+01:05:31,000 --> 01:05:35,500
+And if I make one dollar on
+
+1269
+01:05:35,500 --> 01:05:40,000
+each win, and I lose a dollar
+
+1270
+01:05:40,000 --> 01:05:42,000
+on each, minus one on each
+
+1271
+01:05:42,000 --> 01:05:44,000
+loss, I'm doing a sequence of
+
+1272
+01:05:44,000 --> 01:05:49,000
+bets on each loss, all right?
+
+1273
+01:05:49,000 --> 01:05:53,000
+What is the probability that I will eventually be ruined?
+
+1274
+01:05:53,000 --> 01:05:55,000
+OK.
+
+1275
+01:05:55,000 --> 01:05:58,500
+That probability, and I'm not
+
+1276
+01:05:58,500 --> 01:06:02,000
+going to derive this, but it's
+
+1277
+01:06:02,000 --> 01:06:05,000
+simple to derive, actually.
+
+1278
+01:06:05,000 --> 01:06:10,500
+1 minus P over P to the S
+
+1279
+01:06:10,500 --> 01:06:16,000
+power, if P is greater than a half.
+
+1280
+01:06:16,000 --> 01:06:17,000
+OK.
+
+1281
+01:06:17,000 --> 01:06:19,000
+So, I'm going to do a series of bets.
+
+1282
+01:06:19,000 --> 01:06:21,000
+And I'm going to do a series of bets.
+
+1283
+01:06:21,000 --> 01:06:23,000
+And I'm going to do a series of bets.
+
+1284
+01:06:23,000 --> 01:06:33,000
+And I'm going to do a series of bets.
+
+1285
+01:06:33,000 --> 01:06:40,000
+So, if my probability of winning is a half, the
+
+1286
+01:06:40,000 --> 01:06:44,000
+probability of my being ruined eventually is one.
+
+1287
+01:06:45,000 --> 01:06:47,500
+And if my probability of
+
+1288
+01:06:47,500 --> 01:06:50,000
+winning is less than a half,
+
+1289
+01:06:50,000 --> 01:06:53,000
+my probability of being ruined eventually is one.
+
+1290
+01:06:53,000 --> 01:06:54,500
+And if my probability of winning
+
+1291
+01:06:54,500 --> 01:06:56,000
+is less than a half, my
+
+1292
+01:06:56,000 --> 01:07:00,000
+probability of being ruined is also one.
+
+1293
+01:07:00,000 --> 01:07:03,000
+I have to somehow raise
+
+1294
+01:07:03,000 --> 01:07:06,000
+the probability of winning on each
+
+1295
+01:07:06,000 --> 01:07:10,000
+particular sale above a half.
+
+1296
+01:07:10,000 --> 01:07:12,500
+But even if I do that, if
+
+1297
+01:07:12,500 --> 01:07:15,000
+I make it, say, 0.6, if I make
+
+1298
+01:07:15,000 --> 01:07:18,000
+probability 60% on one bet, then
+
+1299
+01:07:18,000 --> 01:07:21,000
+1 minus 0.6 is 0.4 over 0.6.
+
+1300
+01:07:21,000 --> 01:07:24,500
+Then my probability of eventual
+
+1301
+01:07:24,500 --> 01:07:28,000
+ruin, starting out with $1, is
+
+1302
+01:07:28,000 --> 01:07:30,000
+4.6, if I did that right.
+
+1303
+01:07:30,000 --> 01:07:32,000
+It goes down with the number
+
+1304
+01:07:32,000 --> 01:07:34,000
+of dollars I start, but it never
+
+1305
+01:07:34,000 --> 01:07:36,000
+goes to zero.
+
+1306
+01:07:36,000 --> 01:07:38,000
+So, the theory of a dealer is
+
+1307
+01:07:38,000 --> 01:07:40,000
+that a dealer has to be thinking
+
+1308
+01:07:40,000 --> 01:07:42,000
+about being ripped off.
+
+1309
+01:07:42,000 --> 01:07:43,500
+I've got to set my
+
+1310
+01:07:43,500 --> 01:07:45,000
+bid-ask spread high enough that the
+
+1311
+01:07:45,000 --> 01:07:47,000
+probability of winning on each
+
+1312
+01:07:47,000 --> 01:07:49,000
+of these little trades that I
+
+1313
+01:07:49,000 --> 01:07:51,000
+make is sufficiently high.
+
+1314
+01:07:51,000 --> 01:07:54,000
+So, if I make a bet
+
+1315
+01:07:54,000 --> 01:07:57,000
+above a half, that my eventual ruin
+
+1316
+01:07:57,000 --> 01:08:03,000
+probability is satisfactorily low for me.
+
+1317
+01:08:03,000 --> 01:08:05,000
+But it's never going to be zero.
+
+1318
+01:08:05,000 --> 01:08:14,000
+This is the irony of being a dealer.
+
+1319
+01:08:14,000 --> 01:08:16,500
+You don't sleep well at night,
+
+1320
+01:08:16,500 --> 01:08:19,000
+because you never know that it
+
+1321
+01:08:19,000 --> 01:08:21,000
+won't eventually unwind.
+
+1322
+01:08:21,000 --> 01:08:22,000
+You don't know that you're
+
+1323
+01:08:22,000 --> 01:08:23,000
+going to lose all the business,
+
+1324
+01:08:23,000 --> 01:08:25,000
+because you can't just set
+
+1325
+01:08:25,000 --> 01:08:27,000
+your bid-ask spread arbitrarily high,
+
+1326
+01:08:27,000 --> 01:08:30,000
+because then you'll lose all the business to other people.
+
+1327
+01:08:30,000 --> 01:08:32,000
+So, you've got to kind of
+
+1328
+01:08:32,000 --> 01:08:34,000
+fix the bid-ask spread enough that
+
+1329
+01:08:34,000 --> 01:08:36,500
+you get business, but you don't
+
+1330
+01:08:36,500 --> 01:08:39,000
+want to fix it too narrowly, so
+
+1331
+01:08:39,000 --> 01:08:41,500
+that this probability falls too
+
+1332
+01:08:41,500 --> 01:08:44,000
+close to a half, because then
+
+1333
+01:08:44,000 --> 01:08:48,000
+you're courting the risk of disaster and eventually having
+
+1334
+01:08:48,000 --> 01:08:49,000
+all of your life's work being wiped out.
+
+1335
+01:08:49,000 --> 01:08:51,500
+So, that was kind of a
+
+1336
+01:08:51,500 --> 01:08:54,000
+quick description of the – I'm saying
+
+1337
+01:08:54,000 --> 01:08:57,000
+different personalities go into different parts of finance.
+
+1338
+01:08:57,000 --> 01:08:59,000
+You have to be kind of
+
+1339
+01:08:59,000 --> 01:09:01,000
+a game player, someone who is not
+
+1340
+01:09:01,000 --> 01:09:03,000
+bothered by the possibility of
+
+1341
+01:09:03,000 --> 01:09:05,000
+eventual ruin in order to go
+
+1342
+01:09:05,000 --> 01:09:08,000
+into becoming a dealer.
+
+1343
+01:09:08,000 --> 01:09:12,000
+Very different from other aspects of financial life.
+
+1344
+01:09:12,000 --> 01:09:14,500
+All right, I'll see you soon
+
+1345
+01:09:14,500 --> 01:09:17,000
+with – we're getting close to
+
+1346
+01:09:17,000 --> 01:09:18,000
+the end of the semester.
+
+1347
+01:09:19,000 --> 01:09:21,000
+Some wrap-up lecture is coming.
+
