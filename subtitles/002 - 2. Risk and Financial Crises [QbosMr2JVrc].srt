@@ -1,0 +1,4947 @@
+1
+00:00:01,000 --> 00:00:09,080
+What I want to do this time is talk about probability.
+
+2
+00:00:09,080 --> 00:00:13,080
+I don't think many of you have taken a course in
+
+3
+00:00:13,080 --> 00:00:15,640
+probability theory.
+
+4
+00:00:15,640 --> 00:00:18,720
+I don't take that as a prerequisite for this course.
+
+5
+00:00:18,720 --> 00:00:23,560
+But I think that actually probability theory is
+
+6
+00:00:23,560 --> 00:00:26,560
+fundamental to the way we think about finance.
+
+7
+00:00:26,560 --> 00:00:29,740
+So, I wanted to talk about that a little bit today.
+
+8
+00:00:29,740 --> 00:00:33,200
+And I'm going to put it in a concrete context, namely, the
+
+9
+00:00:33,200 --> 00:00:39,540
+crisis that the world has been through since 2007, which we're
+
+10
+00:00:39,540 --> 00:00:43,320
+still in at this point.
+
+11
+00:00:43,320 --> 00:00:47,140
+It's a financial crisis that's bigger than any since the
+
+12
+00:00:47,140 --> 00:00:52,120
+Great Depression of the 1930s.
+
+13
+00:00:52,120 --> 00:00:54,760
+There's many different ways of thinking about
+
+14
+00:00:54,760 --> 00:00:56,560
+a crisis like this.
+
+15
+00:00:56,560 --> 00:01:02,940
+And I wanted to focus on one way that people think about it
+
+16
+00:01:02,940 --> 00:01:05,100
+in terms of probability models.
+
+17
+00:01:05,100 --> 00:01:08,040
+So, that's not the only way, and it's not necessarily my
+
+18
+00:01:08,040 --> 00:01:11,680
+favorite way of thinking about it.
+
+19
+00:01:11,680 --> 00:01:14,340
+But that's, I think, a good way of introducing our discussion
+
+20
+00:01:14,340 --> 00:01:17,280
+of probability as it relates to finance.
+
+21
+00:01:17,280 --> 00:01:19,080
+Excuse my cold.
+
+22
+00:01:19,080 --> 00:01:20,620
+I'm managing to talk.
+
+23
+00:01:20,620 --> 00:01:21,680
+I didn't bring any water.
+
+24
+00:01:21,680 --> 00:01:23,780
+I hope I make it through this lecture.
+
+25
+00:01:23,780 --> 00:01:25,820
+It's a little bit iffy.
+
+26
+00:01:26,560 --> 00:01:31,560
+But let's just think about the crisis.
+
+27
+00:01:31,560 --> 00:01:34,940
+Most people, when they talk about financial crises, they
+
+28
+00:01:34,940 --> 00:01:40,600
+talk in terms of narrative, of a historical narrative.
+
+29
+00:01:40,600 --> 00:01:45,740
+So, I'll give you a quick and easy historical narrative
+
+30
+00:01:45,740 --> 00:01:47,340
+about the crisis.
+
+31
+00:01:47,340 --> 00:01:53,120
+The crisis began with bubbles in the stock market and the
+
+32
+00:01:53,120 --> 00:01:56,560
+housing market, and also in the economy.
+
+33
+00:01:56,560 --> 00:02:00,560
+And then, the crisis began in the commodities market.
+
+34
+00:02:00,560 --> 00:02:04,060
+Bubbles are, and we'll talk about these later, but bubbles
+
+35
+00:02:04,060 --> 00:02:06,740
+are events from which people get very excited about
+
+36
+00:02:06,740 --> 00:02:12,740
+something, and they drive the price up really high.
+
+37
+00:02:12,740 --> 00:02:15,240
+And it's got a break eventually.
+
+38
+00:02:15,240 --> 00:02:20,180
+And there was a pre-break around 2000, when the stock
+
+39
+00:02:20,180 --> 00:02:21,620
+market collapsed.
+
+40
+00:02:21,620 --> 00:02:23,960
+Around the world, all over the world, the stock markets
+
+41
+00:02:23,960 --> 00:02:25,900
+collapsed in 2000.
+
+42
+00:02:25,900 --> 00:02:29,900
+And then, the stock market collapsed in 2003.
+
+43
+00:02:29,900 --> 00:02:33,080
+After 2003, and they were on another boom, like a
+
+44
+00:02:33,080 --> 00:02:34,580
+rollercoaster ride.
+
+45
+00:02:34,580 --> 00:02:36,780
+And then, they collapsed again.
+
+46
+00:02:36,780 --> 00:02:38,680
+That's the narrative story.
+
+47
+00:02:38,680 --> 00:02:42,520
+And then, both the housing market, stock market,
+
+48
+00:02:42,520 --> 00:02:43,680
+collapsed.
+
+49
+00:02:43,680 --> 00:02:47,660
+And then, what happened is, we see a bunch of
+
+50
+00:02:47,660 --> 00:02:49,520
+institutional collapses.
+
+51
+00:02:49,520 --> 00:02:55,900
+So, we see in 2007, failures of companies that had invested in
+
+52
+00:02:55,900 --> 00:02:56,900
+the stock market.
+
+53
+00:02:56,900 --> 00:03:01,900
+And we see a run on a bank in the United Kingdom, the
+
+54
+00:03:01,900 --> 00:03:04,900
+Northern Rock.
+
+55
+00:03:04,900 --> 00:03:08,900
+It was arrested, but it looked like 1930s all over again,
+
+56
+00:03:08,900 --> 00:03:10,400
+with the bank failure.
+
+57
+00:03:10,400 --> 00:03:13,340
+We saw bank failures in the United States.
+
+58
+00:03:13,340 --> 00:03:17,040
+And then, we saw international cooperation to prevent this
+
+59
+00:03:17,040 --> 00:03:19,160
+from spreading like a disease.
+
+60
+00:03:19,160 --> 00:03:22,220
+And then, we had governments all over the world bailing out
+
+61
+00:03:22,220 --> 00:03:23,900
+their banks and other companies.
+
+62
+00:03:23,900 --> 00:03:24,900
+So, it's a big problem.
+
+63
+00:03:24,900 --> 00:03:25,900
+It's a big problem.
+
+64
+00:03:25,900 --> 00:03:29,900
+And then, a disaster was averted.
+
+65
+00:03:29,900 --> 00:03:33,400
+And then, we had a nice rebound.
+
+66
+00:03:33,400 --> 00:03:34,900
+That's the narrative story.
+
+67
+00:03:34,900 --> 00:03:35,900
+OK?
+
+68
+00:03:35,900 --> 00:03:37,900
+And it makes it sound, and I'm going to come back to it,
+
+69
+00:03:37,900 --> 00:03:40,900
+because I like the narrative story of the collapse.
+
+70
+00:03:40,900 --> 00:03:45,900
+But I want to today focus on something that's more in
+
+71
+00:03:45,900 --> 00:03:49,140
+keeping with probability, with the way financial theorists
+
+72
+00:03:49,140 --> 00:03:50,520
+think about it.
+
+73
+00:03:50,520 --> 00:03:54,560
+And what financial theorists will think about is that,
+
+74
+00:03:54,560 --> 00:03:54,900
+actually, it's not just those financial theorists who are
+
+75
+00:03:54,900 --> 00:03:55,900
+talking about the big events.
+
+76
+00:03:55,900 --> 00:03:58,900
+It's not just those few big events.
+
+77
+00:03:58,900 --> 00:04:03,900
+The crisis we got into was the accumulation of a lot of little
+
+78
+00:04:03,900 --> 00:04:05,900
+events.
+
+79
+00:04:05,900 --> 00:04:08,900
+And sometimes, they accumulate according to the laws of
+
+80
+00:04:08,900 --> 00:04:10,900
+probability into big events.
+
+81
+00:04:10,900 --> 00:04:14,900
+And you are just telling stories around these
+
+82
+00:04:14,900 --> 00:04:17,900
+accumulation of shocks that affected the economy.
+
+83
+00:04:17,900 --> 00:04:20,900
+And the stories are not, by some accounts, not that helpful.
+
+84
+00:04:20,900 --> 00:04:22,900
+We want to understand the underlying probabilities.
+
+85
+00:04:22,900 --> 00:04:23,900
+So, we're going to talk about the big events.
+
+86
+00:04:23,900 --> 00:04:26,900
+And those are the big, big, big, big probabilities.
+
+87
+00:04:26,900 --> 00:04:33,900
+And so, that's, oh, thank you.
+
+88
+00:04:33,900 --> 00:04:34,900
+You have a good assistant.
+
+89
+00:04:34,900 --> 00:04:35,900
+He knows what I need.
+
+90
+00:04:35,900 --> 00:04:36,900
+I just announced what I need.
+
+91
+00:04:36,900 --> 00:04:37,900
+He got it.
+
+92
+00:04:37,900 --> 00:04:40,900
+A bottle of water.
+
+93
+00:04:40,900 --> 00:04:42,900
+Tomorrow, I may have absolutely no voice.
+
+94
+00:04:42,900 --> 00:04:43,900
+You're lucky.
+
+95
+00:04:43,900 --> 00:04:45,900
+So, I'm going to tell you this one.
+
+96
+00:04:45,900 --> 00:04:47,900
+This is a little bit different.
+
+97
+00:04:47,900 --> 00:04:48,900
+It's a really, really good answer.
+
+98
+00:04:48,900 --> 00:04:49,900
+It's a really good question.
+
+99
+00:04:49,900 --> 00:04:50,900
+And I'm going to go through it.
+
+100
+00:04:50,900 --> 00:04:51,900
+I'm going to go through the answers.
+
+101
+00:04:51,900 --> 00:04:52,900
+And I'll tell you.
+
+102
+00:04:52,900 --> 00:04:56,560
+There's a couple of, I'm going to talk today about
+
+103
+00:04:56,560 --> 00:05:01,180
+probability and variance and covariance and regression and
+
+104
+00:05:01,180 --> 00:05:05,240
+idiosyncratic risk and systematic risk, things like
+
+105
+00:05:05,240 --> 00:05:08,660
+that, which are core concepts in finance.
+
+106
+00:05:08,660 --> 00:05:12,560
+But I'm also going to, in the context of the crisis, talk
+
+107
+00:05:12,560 --> 00:05:17,460
+and emphasize in this lecture breakdowns of some of the most
+
+108
+00:05:17,460 --> 00:05:21,300
+popular assumptions that underlie financial theory.
+
+109
+00:05:21,300 --> 00:05:24,960
+And I'm thinking particularly of two breakdowns, and we'll
+
+110
+00:05:24,960 --> 00:05:29,460
+emphasize these as other interpretations of the crisis.
+
+111
+00:05:29,460 --> 00:05:31,860
+One is a failure of independence.
+
+112
+00:05:31,860 --> 00:05:34,640
+I'll come back and redefine that.
+
+113
+00:05:34,640 --> 00:05:39,060
+And another one is a tendency for outliers or
+
+114
+00:05:39,060 --> 00:05:42,360
+fat-tailed distributions.
+
+115
+00:05:42,360 --> 00:05:44,340
+So, I'll have to explain what all that means.
+
+116
+00:05:51,300 --> 00:05:55,640
+But basically, let me just try to elaborate on probability
+
+117
+00:05:55,640 --> 00:06:03,960
+theory is a conceptual framework that mathematicians
+
+118
+00:06:03,960 --> 00:06:11,760
+invented, and it's become a very important way of thinking.
+
+119
+00:06:11,760 --> 00:06:14,900
+But it doesn't go back that far in time.
+
+120
+00:06:14,900 --> 00:06:19,840
+The word probability in its present meaning wasn't even
+
+121
+00:06:19,840 --> 00:06:21,300
+coined until the 16th century.
+
+122
+00:06:21,300 --> 00:06:25,240
+It was coined in the early 1600s.
+
+123
+00:06:25,240 --> 00:06:30,240
+So, if you talk to someone before the year 1600 and say,
+
+124
+00:06:30,240 --> 00:06:34,740
+this has a probability of 0.5, they would have no idea what
+
+125
+00:06:34,740 --> 00:06:36,160
+you're talking about.
+
+126
+00:06:36,160 --> 00:06:39,800
+So, it's a major advance in human understanding to think
+
+127
+00:06:39,800 --> 00:06:41,540
+in terms of probabilities.
+
+128
+00:06:41,540 --> 00:06:44,660
+Now we do, and now it's routine, but it wasn't routine
+
+129
+00:06:44,660 --> 00:06:46,440
+at all.
+
+130
+00:06:46,440 --> 00:06:50,760
+And part of what I'm thinking about is, what the probability
+
+131
+00:06:50,760 --> 00:06:54,700
+theory or in particular finance theorists like to do,
+
+132
+00:06:54,700 --> 00:06:59,760
+is they think that the world is, well, let me just say, it's
+
+133
+00:06:59,760 --> 00:07:04,760
+kind of a realization that the world is very complex.
+
+134
+00:07:04,760 --> 00:07:10,020
+And that the outcomes that we see are the result of millions
+
+135
+00:07:10,020 --> 00:07:13,560
+of little things.
+
+136
+00:07:13,560 --> 00:07:17,500
+And the stories we tell are just stories.
+
+137
+00:07:17,500 --> 00:07:20,100
+So how do we deal with the complexity of the world?
+
+138
+00:07:20,100 --> 00:07:24,100
+Well, we do it by dealing with all of these little
+
+139
+00:07:24,100 --> 00:07:29,440
+incremental shocks that affect our lives in a mathematical
+
+140
+00:07:29,440 --> 00:07:29,940
+way.
+
+141
+00:07:29,940 --> 00:07:32,360
+We think of them as millions of shocks.
+
+142
+00:07:32,360 --> 00:07:34,400
+How do they accumulate?
+
+143
+00:07:34,400 --> 00:07:38,660
+And we have mathematical laws of how they accumulate.
+
+144
+00:07:38,660 --> 00:07:46,900
+And once we understand those laws, we can build
+
+145
+00:07:46,900 --> 00:07:49,600
+mathematical models of the outcomes.
+
+146
+00:07:49,600 --> 00:07:50,080
+And then we can do it.
+
+147
+00:07:50,080 --> 00:07:55,840
+And we can ask whether we should be surprised by the
+
+148
+00:07:55,840 --> 00:07:58,320
+financial events that we've seen.
+
+149
+00:07:58,320 --> 00:08:02,840
+It's a little bit like science, real hard science.
+
+150
+00:08:02,840 --> 00:08:06,740
+So for example, weather forecasters, they build
+
+151
+00:08:06,740 --> 00:08:09,780
+models that, you see these weather forecasts, they have
+
+152
+00:08:09,780 --> 00:08:14,840
+computer models that are built on the theory of fluid
+
+153
+00:08:14,840 --> 00:08:16,380
+dynamics.
+
+154
+00:08:16,380 --> 00:08:19,760
+And there is a theory of all those little atoms moving
+
+155
+00:08:19,760 --> 00:08:21,380
+around in the air.
+
+156
+00:08:21,380 --> 00:08:28,460
+And there's too many atoms to count, but there's some laws
+
+157
+00:08:28,460 --> 00:08:31,260
+about their cumulative movement that we understand.
+
+158
+00:08:31,260 --> 00:08:35,340
+And it actually allows us to forecast the weather.
+
+159
+00:08:35,340 --> 00:08:40,400
+And so, people who are steeped in this tradition in finance
+
+160
+00:08:40,400 --> 00:08:43,880
+think that what we're doing when we're doing financial
+
+161
+00:08:43,880 --> 00:08:46,720
+forecasts is very much like what we do when we do weather
+
+162
+00:08:46,720 --> 00:08:47,720
+forecasts.
+
+163
+00:08:47,720 --> 00:08:49,120
+We have a statistical model.
+
+164
+00:08:49,120 --> 00:08:50,280
+We have the weather forecast.
+
+165
+00:08:50,280 --> 00:08:55,440
+We have a model that we use to see all the shocks coming in.
+
+166
+00:08:55,440 --> 00:08:59,540
+And, of course, there will be hurricanes, and we can only
+
+167
+00:08:59,540 --> 00:09:01,720
+forecast them, you know, there's a limit to how far out
+
+168
+00:09:01,720 --> 00:09:03,420
+we can forecast them.
+
+169
+00:09:03,420 --> 00:09:07,920
+So, all hurricanes are a surprise two weeks before they
+
+170
+00:09:07,920 --> 00:09:09,160
+happen.
+
+171
+00:09:09,160 --> 00:09:11,520
+Weather forecasters can't do that.
+
+172
+00:09:11,520 --> 00:09:13,880
+Same thing with financial crises.
+
+173
+00:09:13,880 --> 00:09:16,960
+This would be the model, that we understand the probability
+
+174
+00:09:16,960 --> 00:09:17,660
+laws.
+
+175
+00:09:17,660 --> 00:09:20,980
+before which we can forecast a financial crisis.
+
+176
+00:09:24,320 --> 00:09:27,420
+That isn't exactly my view of the situation, but I'm
+
+177
+00:09:27,420 --> 00:09:30,860
+presenting a view this time, which is very mathematical
+
+178
+00:09:30,860 --> 00:09:34,800
+and probability theory oriented.
+
+179
+00:09:34,800 --> 00:09:37,180
+So, let me get into some of the details.
+
+180
+00:09:37,180 --> 00:09:40,720
+And again, these are going to be recovered in the review
+
+181
+00:09:40,720 --> 00:09:44,000
+session that Elon Fuld, one of our teaching
+
+182
+00:09:44,000 --> 00:09:46,080
+assistants, will do.
+
+183
+00:09:46,080 --> 00:09:55,140
+So, I have just slides with some graphs and equations, but
+
+184
+00:09:55,140 --> 00:09:57,760
+that's not Elon Fuld.
+
+185
+00:09:57,760 --> 00:10:02,640
+I want to start out with just the concept of return, which
+
+186
+00:10:02,640 --> 00:10:08,800
+is, in finance, the most basic concept.
+
+187
+00:10:08,800 --> 00:10:10,620
+And I forgot to turn my Blackberry off.
+
+188
+00:10:13,760 --> 00:10:15,840
+When you invest in something,
+
+189
+00:10:15,840 --> 00:10:16,060
+you
+
+190
+00:10:16,080 --> 00:10:18,900
+have to do it for a time interval.
+
+191
+00:10:18,900 --> 00:10:22,520
+And I'm writing the return as one time period.
+
+192
+00:10:22,520 --> 00:10:25,000
+t is time.
+
+193
+00:10:25,000 --> 00:10:27,640
+So, it could be year, or it could be month, or it could be
+
+194
+00:10:27,640 --> 00:10:37,560
+day, and we're going to number these months.
+
+195
+00:10:37,560 --> 00:10:39,860
+Let's say it's monthly return.
+
+196
+00:10:39,860 --> 00:10:45,840
+We're going to number these months so that, you know, we're
+
+197
+00:10:45,840 --> 00:10:51,600
+going to return at the first month is number one, second
+
+198
+00:10:51,600 --> 00:10:52,960
+month is number two.
+
+199
+00:10:52,960 --> 00:10:56,820
+And so, return at time t refers, if t is equal to three,
+
+200
+00:10:56,820 --> 00:10:59,960
+that would be the return at month three.
+
+201
+00:10:59,960 --> 00:11:03,340
+And we'll do price at the beginning of the month.
+
+202
+00:11:03,340 --> 00:11:06,940
+And so, what is your return to investing in something?
+
+203
+00:11:06,940 --> 00:11:10,420
+It's the increase in the price.
+
+204
+00:11:10,420 --> 00:11:13,340
+That's pt plus one minus pt.
+
+205
+00:11:13,340 --> 00:11:15,640
+I'm spelling it out here.
+
+206
+00:11:15,640 --> 00:11:16,640
+Price.
+
+207
+00:11:16,640 --> 00:11:17,920
+I spelled it out in the numerator.
+
+208
+00:11:17,920 --> 00:11:21,760
+I guess I didn't do it in the denominator.
+
+209
+00:11:21,760 --> 00:11:25,120
+It's price at time t plus one minus price at time t, which
+
+210
+00:11:25,120 --> 00:11:29,000
+is called the capital gain plus the dividend, which is a check
+
+211
+00:11:29,000 --> 00:11:34,000
+you receive, if you do, from the company that you're
+
+212
+00:11:34,000 --> 00:11:36,400
+investing in.
+
+213
+00:11:36,400 --> 00:11:39,700
+And that's the return.
+
+214
+00:11:39,700 --> 00:11:41,960
+We have something else called gross return, which is just
+
+215
+00:11:41,960 --> 00:11:43,840
+one plus the return.
+
+216
+00:11:43,840 --> 00:11:45,400
+Returns can be positive returns.
+
+217
+00:11:45,400 --> 00:11:46,640
+They can be positive or negative.
+
+218
+00:11:46,640 --> 00:11:51,280
+They can never be less than minus 100%.
+
+219
+00:11:51,280 --> 00:11:55,900
+In a limited liability economy that we live in, the law says
+
+220
+00:11:55,900 --> 00:11:58,720
+that you cannot lose more than the money you put in, and
+
+221
+00:11:58,720 --> 00:12:01,720
+that's going to be our assumption.
+
+222
+00:12:01,720 --> 00:12:06,400
+So, return is between minus 100% and plus infinity.
+
+223
+00:12:06,400 --> 00:12:09,760
+And gross return is always positive.
+
+224
+00:12:09,760 --> 00:12:12,400
+It's between zero and infinity.
+
+225
+00:12:12,400 --> 00:12:13,400
+Now, what we're going to do is, we're going to do a little bit
+
+226
+00:12:13,400 --> 00:12:14,400
+of a math test.
+
+227
+00:12:14,400 --> 00:12:15,400
+We're going to do a little bit of a math test.
+
+228
+00:12:15,400 --> 00:12:19,240
+What we're going to do is, this is the primary thing that
+
+229
+00:12:19,240 --> 00:12:23,680
+we want to study, because we are interested in investing
+
+230
+00:12:23,680 --> 00:12:26,640
+and making a return.
+
+231
+00:12:26,640 --> 00:12:31,480
+So we want to do some evaluations of the success of
+
+232
+00:12:31,480 --> 00:12:34,560
+an investment.
+
+233
+00:12:34,560 --> 00:12:39,920
+So I want to now talk about some basic statistical concepts
+
+234
+00:12:39,920 --> 00:12:44,940
+that we can apply to returns and to other random variables,
+
+235
+00:12:44,940 --> 00:12:45,400
+as well.
+
+236
+00:12:45,400 --> 00:12:50,400
+And these on this slide are mostly concepts that you've
+
+237
+00:12:50,400 --> 00:12:52,400
+already heard.
+
+238
+00:12:52,400 --> 00:12:55,400
+This is expected value.
+
+239
+00:12:55,400 --> 00:12:59,400
+This is the mathematical expectation of a random
+
+240
+00:12:59,400 --> 00:13:05,400
+variable x, which could be the return or the gross return or
+
+241
+00:13:05,400 --> 00:13:10,400
+something else, but we're going to substitute in what they are.
+
+242
+00:13:10,400 --> 00:13:13,400
+So the expectation of x, or the mean of x, mu sub x, is another term for it.
+
+243
+00:13:13,400 --> 00:13:14,400
+So, we're going to substitute in what they are.
+
+244
+00:13:14,400 --> 00:13:15,240
+So, the expectation of x, or the mean of x, mu sub x, is another term for it.
+
+245
+00:13:15,240 --> 00:13:22,240
+So, the expectation of x, or the mean of x, mu sub x, is another term for it.
+
+246
+00:13:22,240 --> 00:13:25,240
+is the weighted sum of all possible values of x, weighted
+
+247
+00:13:25,240 --> 00:13:27,240
+by their probabilities.
+
+248
+00:13:27,240 --> 00:13:29,240
+And the probabilities have to sum to one, they're positive
+
+249
+00:13:29,240 --> 00:13:32,240
+numbers that are zero or positive numbers, reflecting
+
+250
+00:13:32,240 --> 00:13:37,240
+the likelihood of that random variable occurring, that value
+
+251
+00:13:37,240 --> 00:13:39,240
+of the random variable occurring.
+
+252
+00:13:39,240 --> 00:13:43,240
+So, I have here, there's an infinite number of possible
+
+253
+00:13:43,240 --> 00:13:44,240
+values.
+
+254
+00:13:44,240 --> 00:13:49,480
+So, we have a number for x, and we have a probability for
+
+255
+00:13:49,480 --> 00:13:54,800
+each one, and the expectation of x is that weighted sum of
+
+256
+00:13:54,800 --> 00:13:57,000
+those, weighted by probabilities of those
+
+257
+00:13:57,000 --> 00:13:58,480
+possible values.
+
+258
+00:13:58,480 --> 00:14:03,300
+This is for a discrete random variable that takes on only a
+
+259
+00:14:03,300 --> 00:14:07,040
+finite, only a countable number of values.
+
+260
+00:14:07,040 --> 00:14:12,000
+If it's a continuous random variable, if x is continuous,
+
+261
+00:14:12,000 --> 00:14:18,500
+then the expectation of x is an integral of the probability
+
+262
+00:14:18,500 --> 00:14:22,500
+density of x times x dx.
+
+263
+00:14:22,500 --> 00:14:25,140
+I'm just writing that down for you now, because it's for a
+
+264
+00:14:25,140 --> 00:14:27,960
+complete list, but I'm not going to explain or elaborate
+
+265
+00:14:27,960 --> 00:14:29,940
+that.
+
+266
+00:14:29,940 --> 00:14:36,760
+But basically, these two formulas here are measures of
+
+267
+00:14:36,760 --> 00:14:39,960
+the central tendency of x.
+
+268
+00:14:42,000 --> 00:14:50,240
+It's essentially the average of x in the probability metric
+
+269
+00:14:50,240 --> 00:14:52,300
+that we have up here.
+
+270
+00:14:52,300 --> 00:14:56,560
+But this formula is something we use to estimate the expected
+
+271
+00:14:56,560 --> 00:14:58,120
+value of x.
+
+272
+00:14:58,120 --> 00:15:02,220
+And it says that, and this is called the mean or average,
+
+273
+00:15:02,220 --> 00:15:07,100
+which you've learned long ago, if you have n observations on
+
+274
+00:15:07,100 --> 00:15:11,780
+a random variable x, you can take the sum of the x
+
+275
+00:15:11,780 --> 00:15:12,000
+observations.
+
+276
+00:15:12,000 --> 00:15:16,500
+The summation i equals 1 to n, and then divide that by n.
+
+277
+00:15:16,500 --> 00:15:18,140
+That's called the average.
+
+278
+00:15:18,140 --> 00:15:23,180
+So, what I want to say is that this is the average or the mean
+
+279
+00:15:23,180 --> 00:15:27,400
+or sample mean, when you have a sample of n observations,
+
+280
+00:15:27,400 --> 00:15:31,620
+which is an estimate of the expected value of x.
+
+281
+00:15:31,620 --> 00:15:35,580
+So, for example, if we're evaluating an investor who has
+
+282
+00:15:35,580 --> 00:15:39,880
+invested money, you can get n observations, let's say n
+
+283
+00:15:39,880 --> 00:15:41,380
+annual returns.
+
+284
+00:15:41,380 --> 00:15:43,280
+And you can take an average of them.
+
+285
+00:15:43,280 --> 00:15:47,520
+And that's the first and most obvious metric representing the
+
+286
+00:15:47,520 --> 00:15:53,620
+success of the investment, if x is the return.
+
+287
+00:15:53,620 --> 00:15:55,380
+People are always wanting to know, they're looking at
+
+288
+00:15:55,380 --> 00:15:59,220
+someone who invests money, is this person a success or not?
+
+289
+00:15:59,220 --> 00:16:01,300
+Well, this is the first and most obvious measure.
+
+290
+00:16:01,300 --> 00:16:03,420
+Let's see what the person did on average.
+
+291
+00:16:03,420 --> 00:16:07,440
+You were investing for, let's say, n equals 10, 10 years.
+
+292
+00:16:07,440 --> 00:16:10,820
+Let's take the returns you made each year, add them up, and
+
+293
+00:16:10,820 --> 00:16:11,160
+multiply them.
+
+294
+00:16:11,160 --> 00:16:14,660
+And then you multiply them up and divide by 10.
+
+295
+00:16:14,660 --> 00:16:17,040
+And that gives us an average.
+
+296
+00:16:17,040 --> 00:16:21,340
+I put this formula down as an alternative, because it's
+
+297
+00:16:21,340 --> 00:16:24,720
+another, this is called the geometric mean.
+
+298
+00:16:24,720 --> 00:16:26,940
+This is the arithmetic mean.
+
+299
+00:16:26,940 --> 00:16:28,340
+This is the geometric mean.
+
+300
+00:16:28,340 --> 00:16:31,400
+And you're probably not so familiar with that, because
+
+301
+00:16:31,400 --> 00:16:33,500
+it's a different concept.
+
+302
+00:16:33,500 --> 00:16:38,160
+The geometric mean, instead of adding your n observations,
+
+303
+00:16:38,160 --> 00:16:39,640
+you multiply them together.
+
+304
+00:16:39,640 --> 00:16:40,600
+You form a product of them.
+
+305
+00:16:40,600 --> 00:16:45,840
+And then, instead of dividing by n, you take the n-th root of
+
+306
+00:16:45,840 --> 00:16:47,020
+the product.
+
+307
+00:16:47,020 --> 00:16:50,780
+And so, that's a formula that's used to estimate the
+
+308
+00:16:50,780 --> 00:16:55,600
+average return of a portfolio of investments, where we use
+
+309
+00:16:55,600 --> 00:17:02,080
+gross return for x, not just the simple return.
+
+310
+00:17:02,080 --> 00:17:07,400
+This geometric mean makes sense only when all the x's
+
+311
+00:17:07,400 --> 00:17:09,320
+are non-negative.
+
+312
+00:17:09,320 --> 00:17:10,480
+If you put in a negative value, you get a negative value.
+
+313
+00:17:10,480 --> 00:17:12,100
+You might get a negative product.
+
+314
+00:17:12,100 --> 00:17:15,500
+Then, if you took the n-th root of that, it would be an
+
+315
+00:17:15,500 --> 00:17:16,860
+imaginary number.
+
+316
+00:17:16,860 --> 00:17:17,920
+So, let's forget that.
+
+317
+00:17:17,920 --> 00:17:20,600
+We're not going to apply this formula, if there's any
+
+318
+00:17:20,600 --> 00:17:22,720
+negative numbers.
+
+319
+00:17:22,720 --> 00:17:26,420
+But it's often used, and I recommend its use, in
+
+320
+00:17:26,420 --> 00:17:28,580
+evaluating investments.
+
+321
+00:17:28,580 --> 00:17:32,840
+Because if you use gross return, it gives a better
+
+322
+00:17:32,840 --> 00:17:35,800
+measure of the outcome of the investment.
+
+323
+00:17:35,800 --> 00:17:36,920
+So, think of it this way.
+
+324
+00:17:36,920 --> 00:17:40,360
+Suppose you invested money with some investment manager.
+
+325
+00:17:40,480 --> 00:17:44,420
+And the guy said, I've done a wonderful job of investing
+
+326
+00:17:44,420 --> 00:17:45,420
+your money.
+
+327
+00:17:45,420 --> 00:17:49,260
+I made 50% one year, I made 30% another year.
+
+328
+00:17:49,260 --> 00:17:55,960
+Oh, and by the way, I had one bad year, it was minus 100%.
+
+329
+00:17:55,960 --> 00:17:57,600
+So what do you think of this investor?
+
+330
+00:17:57,600 --> 00:17:59,520
+Well, you think about it.
+
+331
+00:17:59,520 --> 00:18:04,100
+If he made 50% one year, and then 30% another year, and then
+
+332
+00:18:04,100 --> 00:18:08,220
+he lost everything.
+
+333
+00:18:08,220 --> 00:18:10,000
+That dominates everything, right?
+
+334
+00:18:10,000 --> 00:18:13,440
+If you have a minus 100% simple return, your gross
+
+335
+00:18:13,440 --> 00:18:15,760
+return is zero, OK?
+
+336
+00:18:15,760 --> 00:18:19,980
+So, if I plug in, if I put in a zero here to any of the x's,
+
+337
+00:18:19,980 --> 00:18:24,340
+right, this product will be zero.
+
+338
+00:18:24,340 --> 00:18:26,560
+Anything times zero is zero.
+
+339
+00:18:26,560 --> 00:18:28,560
+And I take the n-th root of zero, and what's that?
+
+340
+00:18:28,560 --> 00:18:30,000
+It's zero.
+
+341
+00:18:30,000 --> 00:18:35,580
+So, if there's ever a year in which the return is minus 100%,
+
+342
+00:18:35,580 --> 00:18:39,540
+then the geometric mean is zero.
+
+343
+00:18:39,540 --> 00:18:40,880
+That's a good discipline.
+
+344
+00:18:40,880 --> 00:18:44,280
+This obviously doesn't make sense as a way to evaluate
+
+345
+00:18:44,280 --> 00:18:45,480
+investment success.
+
+346
+00:18:45,480 --> 00:18:47,000
+Are you following with me on this?
+
+347
+00:18:47,000 --> 00:18:51,820
+Because you care a lot if the guy wipes you out.
+
+348
+00:18:51,820 --> 00:18:55,180
+Whatever else is done after that doesn't matter.
+
+349
+00:18:55,180 --> 00:19:01,500
+So, that's why we want to use the geometric return.
+
+350
+00:19:01,500 --> 00:19:05,960
+So, these are all measures of central tendency.
+
+351
+00:19:05,960 --> 00:19:09,260
+That is, what is the central result?
+
+352
+00:19:09,540 --> 00:19:11,720
+Sometimes the investor had a good year, sometimes the
+
+353
+00:19:11,720 --> 00:19:13,360
+investor had a bad year.
+
+354
+00:19:13,360 --> 00:19:16,780
+But what was the typical or central value?
+
+355
+00:19:16,780 --> 00:19:20,000
+So, these are a couple of measures of them.
+
+356
+00:19:20,000 --> 00:19:23,200
+But we care more than just about central tendency when
+
+357
+00:19:23,200 --> 00:19:24,960
+evaluating risk.
+
+358
+00:19:24,960 --> 00:19:27,720
+We have to do other things as well.
+
+359
+00:19:27,720 --> 00:19:31,400
+And so, we want to talk about, and this is very fundamental
+
+360
+00:19:31,400 --> 00:19:33,740
+to finance, we have to talk about risk.
+
+361
+00:19:33,740 --> 00:19:38,360
+What could be more fundamental than risk for finance?
+
+362
+00:19:38,360 --> 00:19:39,480
+So, what we have here now is the risk.
+
+363
+00:19:39,480 --> 00:19:44,040
+What we have here now is a measure of variability.
+
+364
+00:19:44,040 --> 00:19:50,240
+And the upper equation here is something called variance.
+
+365
+00:19:50,240 --> 00:19:58,420
+And it's equal to the weighted average of the x random
+
+366
+00:19:58,420 --> 00:20:02,240
+variables squared deviation from the mean, weighted by
+
+367
+00:20:02,240 --> 00:20:05,040
+probabilities.
+
+368
+00:20:05,040 --> 00:20:09,460
+All it is, is the mean squared, the expectation of the square
+
+369
+00:20:09,460 --> 00:20:13,700
+value, and the deviation from the mean.
+
+370
+00:20:13,700 --> 00:20:19,400
+The mean is the center value, and the deviations from the
+
+371
+00:20:19,400 --> 00:20:25,080
+mean are, whether they're positive or negative, if you
+
+372
+00:20:25,080 --> 00:20:28,220
+square them, they become positive numbers.
+
+373
+00:20:28,220 --> 00:20:33,020
+And so, that's called variance.
+
+374
+00:20:33,020 --> 00:20:38,140
+So, for example, if x tends to be, if the return tends to be
+
+375
+00:20:38,140 --> 00:20:38,980
+plus or minus 1% from the x random variables, then the x is
+
+376
+00:20:38,980 --> 00:20:41,800
+1% from the mean return.
+
+377
+00:20:41,800 --> 00:20:46,960
+Say the mean return for an investor is 8% a year, and it's
+
+378
+00:20:46,960 --> 00:20:49,160
+plus or minus 1%.
+
+379
+00:20:49,160 --> 00:20:52,060
+Then you would see a lot of 1's when you'd square the
+
+380
+00:20:52,060 --> 00:20:55,900
+deviation from the mean, and the variance would probably be
+
+381
+00:20:55,900 --> 00:21:00,700
+1, and the standard deviation, which is, the standard
+
+382
+00:21:00,700 --> 00:21:04,700
+deviation is the square root of the variance.
+
+383
+00:21:04,700 --> 00:21:05,940
+And it would also be 1.
+
+384
+00:21:08,980 --> 00:21:11,540
+So, this is a very simple concept.
+
+385
+00:21:11,540 --> 00:21:15,800
+It's just the average squared deviation from the mean.
+
+386
+00:21:15,800 --> 00:21:20,420
+The estimate of the variance, or the sample variance, is
+
+387
+00:21:20,420 --> 00:21:22,540
+given by this equation.
+
+388
+00:21:22,540 --> 00:21:26,660
+And it's s squared of x is just the sample mean.
+
+389
+00:21:26,660 --> 00:21:31,740
+You take the deviations of the variable from its sample mean.
+
+390
+00:21:31,740 --> 00:21:33,400
+You have n observations.
+
+391
+00:21:33,400 --> 00:21:35,740
+Say someone has invested money for 10 years.
+
+392
+00:21:35,740 --> 00:21:37,660
+You take the average return for the 10 years.
+
+393
+00:21:37,660 --> 00:21:38,860
+You take the average return for the 10 years.
+
+394
+00:21:38,860 --> 00:21:41,160
+And that's x bar.
+
+395
+00:21:41,160 --> 00:21:46,820
+And then you take all 10 deviations from the mean and
+
+396
+00:21:46,820 --> 00:21:51,300
+square them, and then divide by n.
+
+397
+00:21:51,300 --> 00:21:53,300
+Some people divide by n minus 1.
+
+398
+00:21:53,300 --> 00:21:55,860
+But I'm just trying to be very basic and simple here, so I'm
+
+399
+00:21:55,860 --> 00:21:59,360
+not going to get into these ideas.
+
+400
+00:22:05,900 --> 00:22:07,860
+Then the next thing is covariance.
+
+401
+00:22:07,860 --> 00:22:08,860
+And we're getting there.
+
+402
+00:22:08,860 --> 00:22:09,860
+I'm just going to go through these concepts.
+
+403
+00:22:09,860 --> 00:22:11,720
+They're very basic concepts.
+
+404
+00:22:11,720 --> 00:22:16,620
+Covariance is a measure of how two different random variables
+
+405
+00:22:16,620 --> 00:22:19,400
+move together.
+
+406
+00:22:19,400 --> 00:22:23,380
+So, I have two different random variables, x and y.
+
+407
+00:22:23,380 --> 00:22:30,720
+So, x is the return on, let's say, the IBM Corporation.
+
+408
+00:22:30,720 --> 00:22:35,480
+And y is the return on General Motors Corporation.
+
+409
+00:22:35,480 --> 00:22:37,420
+And I want to know.
+
+410
+00:22:37,420 --> 00:22:38,740
+When IBM comes in, what's the return on General Motors?
+
+411
+00:22:38,740 --> 00:22:42,440
+When IBM goes up, does General Motors go up or not?
+
+412
+00:22:42,440 --> 00:22:48,700
+So, a measure of the co-movement of the two would
+
+413
+00:22:48,700 --> 00:22:54,800
+be to take the deviation of x from its mean, times the
+
+414
+00:22:54,800 --> 00:23:01,460
+deviation of y from its mean, and take the average product of
+
+415
+00:23:01,460 --> 00:23:04,200
+those, and that's called covariance.
+
+416
+00:23:04,200 --> 00:23:06,120
+It's a positive number.
+
+417
+00:23:06,120 --> 00:23:07,220
+If when x is high, relative to x, it's a positive number.
+
+418
+00:23:07,220 --> 00:23:07,660
+It's a positive number.
+
+419
+00:23:07,660 --> 00:23:07,900
+It's a positive number.
+
+420
+00:23:07,900 --> 00:23:08,180
+It's a positive number.
+
+421
+00:23:08,180 --> 00:23:08,620
+It's a positive number.
+
+422
+00:23:08,620 --> 00:23:08,720
+It's a positive number.
+
+423
+00:23:08,740 --> 00:23:09,040
+It's a positive number.
+
+424
+00:23:09,040 --> 00:23:09,380
+It's a positive number.
+
+425
+00:23:09,380 --> 00:23:09,980
+It's a positive number.
+
+426
+00:23:09,980 --> 00:23:10,760
+It's a negative number.
+
+427
+00:23:10,760 --> 00:23:11,440
+It's a positive number.
+
+428
+00:23:11,440 --> 00:23:13,580
+If y tends to go up relative to its mean, y is high relative
+
+429
+00:23:13,580 --> 00:23:15,900
+to its mean also.
+
+430
+00:23:15,900 --> 00:23:17,780
+And it's a negative number if they tend
+
+431
+00:23:17,780 --> 00:23:20,040
+to go in opposite directions.
+
+432
+00:23:20,040 --> 00:23:25,060
+If GM tends to do well when IBM does poorly, then we have a
+
+433
+00:23:25,060 --> 00:23:26,720
+negative covariance.
+
+434
+00:23:26,720 --> 00:23:30,560
+Because if one is above its mean and the other is below its
+
+435
+00:23:30,560 --> 00:23:33,600
+mean, the product is going to be a negative number.
+
+436
+00:23:33,600 --> 00:23:37,540
+And if we get a lot of negative products like that, it means
+
+437
+00:23:37,540 --> 00:23:38,620
+that they tend to move opposite each other.
+
+438
+00:23:38,620 --> 00:23:44,120
+related to each other, then the covariance tends to be zero.
+
+439
+00:23:44,120 --> 00:23:47,280
+And this is the core concept that I was talking about.
+
+440
+00:23:47,280 --> 00:23:51,060
+Some idea of unrelatedness underlies a lot of our
+
+441
+00:23:51,060 --> 00:23:53,300
+thinking in risk.
+
+442
+00:23:53,300 --> 00:23:57,280
+So, if X and Y are independent, they're generated
+
+443
+00:23:57,280 --> 00:24:00,840
+suppose IBM's business has just nothing at all to do with
+
+444
+00:24:00,840 --> 00:24:03,920
+GM's business, they're so different, then I'd say the
+
+445
+00:24:03,920 --> 00:24:06,900
+covariance is probably zero.
+
+446
+00:24:06,900 --> 00:24:16,220
+And then we can use that as a principle, which will underlie
+
+447
+00:24:16,220 --> 00:24:18,860
+our later analysis.
+
+448
+00:24:18,860 --> 00:24:22,720
+Correlation is a scaled covariance.
+
+449
+00:24:22,720 --> 00:24:26,660
+And it's a measure of how much two variables move together.
+
+450
+00:24:26,660 --> 00:24:30,860
+But it's scaled so that it varies only over the range of
+
+451
+00:24:30,860 --> 00:24:33,380
+minus one to plus one.
+
+452
+00:24:33,380 --> 00:24:36,840
+So, the correlation between two random variables is
+
+453
+00:24:36,840 --> 00:24:36,880
+there's a correlation between two random variables.
+
+454
+00:24:36,880 --> 00:24:38,880
+So, the correlation between two random variables is
+
+455
+00:24:38,880 --> 00:24:41,400
+the covariance divided by the product of their standard
+
+456
+00:24:41,400 --> 00:24:42,600
+deviations.
+
+457
+00:24:42,600 --> 00:24:45,660
+And you can show that that always ranges between minus
+
+458
+00:24:45,660 --> 00:24:47,640
+one and plus one.
+
+459
+00:24:47,640 --> 00:24:52,580
+So, if two variables have a plus one correlation, that
+
+460
+00:24:52,580 --> 00:24:56,940
+means they move exactly together.
+
+461
+00:24:56,940 --> 00:25:01,640
+When one moves up 5%, the other one moves up 5% exactly.
+
+462
+00:25:01,640 --> 00:25:05,560
+If they have a correlation of minus one, it means they move
+
+463
+00:25:05,560 --> 00:25:06,820
+exactly opposite each other.
+
+464
+00:25:06,820 --> 00:25:09,440
+These things don't happen very often in finance, but in
+
+465
+00:25:09,440 --> 00:25:10,860
+theory, that's what happens.
+
+466
+00:25:10,860 --> 00:25:13,740
+If they have a zero correlation, that means there's
+
+467
+00:25:13,740 --> 00:25:18,820
+no tendency for them to move together at all.
+
+468
+00:25:18,820 --> 00:25:21,820
+If two variables are independent, then their
+
+469
+00:25:21,820 --> 00:25:23,820
+correlation should be zero.
+
+470
+00:25:31,820 --> 00:25:36,760
+The variance of the sum of two random variables is the number
+
+471
+00:25:36,760 --> 00:25:37,760
+of variables.
+
+472
+00:25:37,760 --> 00:25:41,760
+So, the variance of the first random variable plus the
+
+473
+00:25:41,760 --> 00:25:45,260
+variance of the second random variable plus twice the
+
+474
+00:25:45,260 --> 00:25:49,000
+covariance of the random variables.
+
+475
+00:25:49,000 --> 00:25:51,760
+So, if the two random variables are independent of
+
+476
+00:25:51,760 --> 00:25:55,260
+each other, then their covariance is zero, and then
+
+477
+00:25:55,260 --> 00:25:59,520
+the variance of the sum is the sum of the variances.
+
+478
+00:25:59,520 --> 00:26:01,760
+But that is not necessary.
+
+479
+00:26:01,760 --> 00:26:06,700
+That's true if the random variables are independent, but
+
+480
+00:26:06,700 --> 00:26:08,700
+if they are, then they are not.
+
+481
+00:26:08,700 --> 00:26:10,700
+But we're going to see that breakdown of independence is
+
+482
+00:26:10,700 --> 00:26:12,700
+the story of this lecture right now.
+
+483
+00:26:12,700 --> 00:26:19,700
+And I don't want to, we want to think about independence as
+
+484
+00:26:19,700 --> 00:26:21,700
+mattering a lot.
+
+485
+00:26:21,700 --> 00:26:24,700
+And it's a model or a core idea.
+
+486
+00:26:24,700 --> 00:26:26,700
+But when do we know that things are independent?
+
+487
+00:26:31,700 --> 00:26:32,700
+This is a plot.
+
+488
+00:26:32,700 --> 00:26:35,700
+I was telling you earlier about the, I don't know, the
+
+489
+00:26:36,700 --> 00:26:38,700
+decolonization of the stock market.
+
+490
+00:26:38,700 --> 00:26:39,700
+Let me see.
+
+491
+00:26:43,700 --> 00:26:45,700
+OK.
+
+492
+00:26:45,700 --> 00:26:47,700
+Let me just hold off on that a minute.
+
+493
+00:26:56,700 --> 00:26:57,700
+Well, I'll tell you what that was.
+
+494
+00:26:57,700 --> 00:27:02,700
+That was a plot of the stock market since, from 2000 to 2010
+
+495
+00:27:02,700 --> 00:27:03,700
+in the U.S.
+
+496
+00:27:03,700 --> 00:27:05,700
+And I'm going to come back to that.
+
+497
+00:27:05,700 --> 00:27:09,700
+But this is the decline in the stock market from 2000 to
+
+498
+00:27:09,700 --> 00:27:11,700
+2002 or 2003.
+
+499
+00:27:11,700 --> 00:27:17,700
+And this is the more recent decline from 2007 to 2009.
+
+500
+00:27:17,700 --> 00:27:24,700
+Those are the cumulative effect of a lot of little shocks that
+
+501
+00:27:24,700 --> 00:27:25,700
+didn't happen all at once.
+
+502
+00:27:25,700 --> 00:27:27,700
+It happened over years.
+
+503
+00:27:27,700 --> 00:27:30,700
+And we want to think about the probability of those shocks
+
+504
+00:27:30,700 --> 00:27:32,700
+occurring.
+
+505
+00:27:32,700 --> 00:27:34,700
+And that's all.
+
+506
+00:27:34,700 --> 00:27:40,700
+That's where I am going.
+
+507
+00:27:40,700 --> 00:27:51,700
+But what I want to talk about is the core concept of
+
+508
+00:27:51,700 --> 00:28:02,700
+independence leading to some basic principles of risk
+
+509
+00:28:02,700 --> 00:28:03,700
+management.
+
+510
+00:28:03,700 --> 00:28:05,700
+And that's what I'm going to talk about in a moment.
+
+511
+00:28:05,700 --> 00:28:10,700
+The crisis that we've seen here in the stock market is the
+
+512
+00:28:10,700 --> 00:28:13,700
+accumulation of, you see all these ups and downs in the
+
+513
+00:28:13,700 --> 00:28:16,700
+stock market?
+
+514
+00:28:16,700 --> 00:28:22,700
+And then all these ups and downs on the way up.
+
+515
+00:28:22,700 --> 00:28:26,700
+There were relatively more downs in the period from 2000 to
+
+516
+00:28:26,700 --> 00:28:27,700
+2002.
+
+517
+00:28:27,700 --> 00:28:31,700
+And there were relatively more ups from the period 2003 to 2006.
+
+518
+00:28:31,700 --> 00:28:34,700
+But how do we understand the cumulative effect of that,
+
+519
+00:28:34,700 --> 00:28:38,700
+which is what matters?
+
+520
+00:28:38,700 --> 00:28:44,700
+So, we have to have some kind of probability model.
+
+521
+00:28:44,700 --> 00:28:48,700
+The question immediately is, are these shocks that affected
+
+522
+00:28:48,700 --> 00:28:52,700
+the stock market, are they independent, or are they
+
+523
+00:28:52,700 --> 00:28:53,700
+independent?
+
+524
+00:28:53,700 --> 00:28:55,700
+Or are they independent?
+
+525
+00:28:55,700 --> 00:28:57,700
+Or are they independent?
+
+526
+00:28:57,700 --> 00:28:59,700
+Or are they independent?
+
+527
+00:28:59,700 --> 00:29:05,700
+Are they somehow related to each other?
+
+528
+00:29:05,700 --> 00:29:11,700
+And that is the core question that made it so difficult for us
+
+529
+00:29:11,700 --> 00:29:15,700
+to understand how to deal with the potential of such a crisis
+
+530
+00:29:15,700 --> 00:29:20,700
+and why so many people got in trouble dealing with this
+
+531
+00:29:20,700 --> 00:29:21,700
+crisis.
+
+532
+00:29:21,700 --> 00:29:25,700
+So, we have to understand that the crisis is not just a
+
+533
+00:29:25,700 --> 00:29:26,700
+crisis.
+
+534
+00:29:26,700 --> 00:29:27,700
+It's a crisis.
+
+535
+00:29:27,700 --> 00:29:28,700
+It's a crisis.
+
+536
+00:29:28,700 --> 00:29:37,700
+And we had a big financial crisis in the United States in
+
+537
+00:29:37,700 --> 00:29:41,700
+1987, when there was a stock market crash that was bigger
+
+538
+00:29:41,700 --> 00:29:43,700
+than any before in one day.
+
+539
+00:29:43,700 --> 00:29:46,700
+We'll be talking about that.
+
+540
+00:29:46,700 --> 00:29:56,700
+But after the 1987 crash, companies started to compute a
+
+541
+00:29:56,700 --> 00:30:03,700
+measure of the risk to their company, which is called value
+
+542
+00:30:03,700 --> 00:30:05,700
+at risk.
+
+543
+00:30:05,700 --> 00:30:08,700
+I'll write it up like that.
+
+544
+00:30:08,700 --> 00:30:12,700
+I capitalized the first and the last letter, so you'll know that
+
+545
+00:30:12,700 --> 00:30:14,700
+this is not the same thing as variance.
+
+546
+00:30:14,700 --> 00:30:23,700
+This is value at risk.
+
+547
+00:30:23,700 --> 00:30:28,700
+And what companies would do after 1987 to try to measure the
+
+548
+00:30:28,700 --> 00:30:36,700
+risk of their activities is to compute a number, something like
+
+549
+00:30:36,700 --> 00:30:37,700
+this.
+
+550
+00:30:37,700 --> 00:30:44,700
+They would say, there's a 5% probability that we will lose
+
+551
+00:30:44,700 --> 00:30:51,700
+$10 million in a year.
+
+552
+00:30:51,700 --> 00:30:52,700
+That's the kind of risk.
+
+553
+00:30:52,700 --> 00:30:56,700
+That's the kind of bottom line that value at risk calculations
+
+554
+00:30:56,700 --> 00:30:57,700
+would make.
+
+555
+00:31:01,700 --> 00:31:05,700
+And so, you need a probability model to make these
+
+556
+00:31:05,700 --> 00:31:08,700
+calculations.
+
+557
+00:31:08,700 --> 00:31:15,700
+And so, you need probability theory in order to do that.
+
+558
+00:31:15,700 --> 00:31:21,700
+Many companies had calculated value at risk numbers like
+
+559
+00:31:21,700 --> 00:31:22,700
+this.
+
+560
+00:31:22,700 --> 00:31:26,700
+And so, they did this and told their investors, we can't do too
+
+561
+00:31:26,700 --> 00:31:30,700
+badly, because there's no way that we could lose.
+
+562
+00:31:30,700 --> 00:31:33,700
+The probability is only 5% that we could lose 10 million.
+
+563
+00:31:33,700 --> 00:31:35,700
+And they have other numbers like this.
+
+564
+00:31:35,700 --> 00:31:40,700
+But they were implicitly making assumptions about independence,
+
+565
+00:31:40,700 --> 00:31:43,700
+or at least relative independence.
+
+566
+00:31:43,700 --> 00:31:51,700
+And that's the concept I'm trying to emphasize here.
+
+567
+00:31:51,700 --> 00:32:00,700
+There's a core concept in finance, and it's not one that
+
+568
+00:32:00,700 --> 00:32:04,700
+is easy to be precise about.
+
+569
+00:32:04,700 --> 00:32:09,700
+We have an intuitive idea that we see the ups and downs on the
+
+570
+00:32:09,700 --> 00:32:12,700
+stock market, and we've noticed them, and they all average out
+
+571
+00:32:12,700 --> 00:32:15,700
+to something not too bad.
+
+572
+00:32:15,700 --> 00:32:19,700
+The problem is, that brought us this crisis, is that the value
+
+573
+00:32:19,700 --> 00:32:22,700
+of the stock market is not the same.
+
+574
+00:32:22,700 --> 00:32:24,700
+And so, the people who made these calculations were too
+
+575
+00:32:24,700 --> 00:32:26,700
+optimistic.
+
+576
+00:32:26,700 --> 00:32:30,700
+Companies all over the world were estimating very small
+
+577
+00:32:30,700 --> 00:32:34,700
+numbers here relative to what actually happened.
+
+578
+00:32:34,700 --> 00:32:39,700
+And that's a problem.
+
+579
+00:32:39,700 --> 00:32:42,700
+I want to emphasize core concepts here, intuitive
+
+580
+00:32:42,700 --> 00:32:48,700
+concepts that you probably already have.
+
+581
+00:32:48,700 --> 00:32:51,700
+And I want to call the law of large numbers.
+
+582
+00:33:00,700 --> 00:33:04,700
+And the law of large numbers says that, and there's many
+
+583
+00:33:04,700 --> 00:33:06,700
+different ways of formulating it, but putting it in its
+
+584
+00:33:06,700 --> 00:33:12,700
+simplest form, that if I have a lot of independent shocks and
+
+585
+00:33:12,700 --> 00:33:15,700
+average them out, on average, there's not going to be much
+
+586
+00:33:15,700 --> 00:33:17,700
+uncertainty.
+
+587
+00:33:17,700 --> 00:33:22,700
+So, let's say I flip a coin once.
+
+588
+00:33:22,700 --> 00:33:26,700
+And let's say I'm making a bet, plus or minus, if it comes up
+
+589
+00:33:26,700 --> 00:33:30,700
+heads, I'll win $1, if it comes up tails, I'll lose $1.
+
+590
+00:33:30,700 --> 00:33:35,700
+Well, I have a risk, I mean, I have a standard deviation of $1
+
+591
+00:33:35,700 --> 00:33:38,700
+in my outcome for that.
+
+592
+00:33:38,700 --> 00:33:44,700
+But if I do it 100 times, and average the result, there's not
+
+593
+00:33:44,700 --> 00:33:45,700
+going to be much risk at all.
+
+594
+00:33:45,700 --> 00:33:46,700
+And that's the law of large numbers. It says, you can do it, you can do it, you can do it.
+
+595
+00:33:46,700 --> 00:33:53,260
+It says that the variance of the average of n random
+
+596
+00:33:53,260 --> 00:33:56,060
+variables that are all independent and identically
+
+597
+00:33:56,060 --> 00:34:01,020
+distributed goes to zero as the number of elements in the
+
+598
+00:34:01,020 --> 00:34:03,760
+average goes to infinity.
+
+599
+00:34:03,760 --> 00:34:12,420
+And so, that's a fundamental concept that underlies both
+
+600
+00:34:12,420 --> 00:34:14,520
+finance and insurance.
+
+601
+00:34:14,520 --> 00:34:22,280
+The idea that tossing a coin or throwing a die has
+
+602
+00:34:22,280 --> 00:34:25,400
+uncertainty in a small number of observations, but the
+
+603
+00:34:25,400 --> 00:34:29,040
+uncertainty vanishes in a large number of observations
+
+604
+00:34:29,040 --> 00:34:30,540
+goes back to the ancient world.
+
+605
+00:34:30,540 --> 00:34:33,640
+Aristotle made this observation.
+
+606
+00:34:33,640 --> 00:34:35,400
+But he didn't have probability theory, and he
+
+607
+00:34:35,400 --> 00:34:36,680
+couldn't carry it further.
+
+608
+00:34:39,980 --> 00:34:43,380
+So, the idea of insurance, the fundamental concept of
+
+609
+00:34:43,380 --> 00:34:44,520
+insurance is this.
+
+610
+00:34:44,520 --> 00:34:48,840
+It relies on this intuitive idea.
+
+611
+00:34:48,840 --> 00:34:52,580
+And the idea was intuitive enough that insurance was known
+
+612
+00:34:52,580 --> 00:34:55,560
+and practiced in ancient times.
+
+613
+00:34:55,560 --> 00:35:02,600
+But the insurance concept depends on independence.
+
+614
+00:35:02,600 --> 00:35:10,460
+And so, the independence is something that apparently
+
+615
+00:35:10,460 --> 00:35:12,680
+breaks down at times like these.
+
+616
+00:35:12,680 --> 00:35:14,280
+Like these big, big, big, big, big, big, big, big, big, big,
+
+617
+00:35:14,280 --> 00:35:20,600
+big, big, down crises that we've seen in the stock market
+
+618
+00:35:20,600 --> 00:35:23,460
+in the two episodes in the beginning of the 20th century.
+
+619
+00:35:25,540 --> 00:35:31,240
+So, the law of large numbers has to do with the idea that
+
+620
+00:35:31,240 --> 00:35:39,760
+if I have a large number of random variables, what is the
+
+621
+00:35:39,760 --> 00:35:42,100
+variance?
+
+622
+00:35:42,100 --> 00:35:44,240
+The variance of the value of a coin is as if the value of a
+
+623
+00:35:44,240 --> 00:35:51,280
+x1 plus x2 plus x3 up to xn.
+
+624
+00:35:55,400 --> 00:35:57,620
+If they're all independent, then all of the
+
+625
+00:35:57,620 --> 00:35:59,420
+covariances are zero.
+
+626
+00:35:59,420 --> 00:36:08,080
+So, that equals the variance of x1 plus the variance of x2
+
+627
+00:36:08,080 --> 00:36:10,640
+plus the variance of xn.
+
+628
+00:36:10,640 --> 00:36:14,040
+There's n terms, I'm not showing them all.
+
+629
+00:36:14,040 --> 00:36:16,440
+OK?
+
+630
+00:36:16,440 --> 00:36:21,040
+So, if they all have the same variance, then the variance of
+
+631
+00:36:21,040 --> 00:36:26,840
+the sum of n of them is n times their variance.
+
+632
+00:36:26,840 --> 00:36:30,220
+And that means the standard deviation, which is the square
+
+633
+00:36:30,220 --> 00:36:34,320
+root of the variance, is equal to the square root of n times
+
+634
+00:36:34,320 --> 00:36:37,580
+the standard deviation of one of them.
+
+635
+00:36:37,580 --> 00:36:40,840
+The mean is divided by n.
+
+636
+00:36:40,840 --> 00:36:43,880
+So, that means that the standard deviation of the mean
+
+637
+00:36:43,880 --> 00:36:44,020
+is equal to the standard deviation of n times the
+
+638
+00:36:44,020 --> 00:36:45,020
+square root of n.
+
+639
+00:36:45,020 --> 00:36:47,020
+So, the mean is equal to the standard deviation of one of
+
+640
+00:36:47,020 --> 00:36:50,020
+the x's divided by the square root of n.
+
+641
+00:36:50,020 --> 00:36:54,420
+So, as n goes large, you can see that the standard
+
+642
+00:36:54,420 --> 00:36:57,220
+deviation of the mean goes to zero.
+
+643
+00:36:57,220 --> 00:37:00,020
+And that's the law of large numbers.
+
+644
+00:37:00,020 --> 00:37:02,140
+OK?
+
+645
+00:37:02,140 --> 00:37:06,760
+But the problem is, so you can look at a financial firm, and
+
+646
+00:37:06,760 --> 00:37:09,380
+they have returns for a number of years.
+
+647
+00:37:09,380 --> 00:37:12,900
+And those returns can be accumulated to give some sense
+
+648
+00:37:12,900 --> 00:37:13,860
+of their total return.
+
+649
+00:37:13,860 --> 00:37:17,860
+So, the question is, what's the total outcome?
+
+650
+00:37:17,860 --> 00:37:23,860
+But does the total outcome really behave properly?
+
+651
+00:37:23,860 --> 00:37:28,860
+Does it become certain over a longer interval of time?
+
+652
+00:37:28,860 --> 00:37:34,860
+Well, apparently not, because of the possibility that the
+
+653
+00:37:34,860 --> 00:37:37,860
+observations are not independent.
+
+654
+00:37:37,860 --> 00:37:42,860
+So, we want to move from analysis of variance to
+
+655
+00:37:42,860 --> 00:37:43,860
+probability.
+
+656
+00:37:43,860 --> 00:37:50,860
+So, let's say that VAR came in in 1987, or thereabouts, after
+
+657
+00:37:50,860 --> 00:37:53,860
+the stock market crash of 87.
+
+658
+00:37:53,860 --> 00:37:59,860
+There's a new idea coming up now after the recent crisis,
+
+659
+00:37:59,860 --> 00:38:05,860
+and it's called CoVAR.
+
+660
+00:38:05,860 --> 00:38:10,860
+And this is a concept emphasized by Professor
+
+661
+00:38:10,860 --> 00:38:12,700
+Brunnermeier.
+
+662
+00:38:12,700 --> 00:38:18,700
+He's a professor at Princeton and some of his colleagues.
+
+663
+00:38:18,700 --> 00:38:24,700
+That we have to change value at risk to recognize that
+
+664
+00:38:24,700 --> 00:38:31,700
+portfolios can sometimes co-vary more than we thought, that
+
+665
+00:38:31,700 --> 00:38:34,700
+there might be episodes when everything goes wrong at the
+
+666
+00:38:34,700 --> 00:38:35,700
+same time.
+
+667
+00:38:35,700 --> 00:38:40,700
+So, suddenly the covariance goes up.
+
+668
+00:38:40,700 --> 00:38:46,700
+So, CoVAR is an alternative to value at risk that does
+
+669
+00:38:46,700 --> 00:38:51,700
+different kinds of calculations in the present environment.
+
+670
+00:38:51,700 --> 00:38:54,700
+I think we recognize the need for that.
+
+671
+00:38:54,700 --> 00:39:01,700
+So, this is the aggregate stock market.
+
+672
+00:39:01,700 --> 00:39:08,700
+And let me go to another plot, which shows both the
+
+673
+00:39:08,700 --> 00:39:11,700
+same aggregate stock market, that's this blue line down
+
+674
+00:39:11,700 --> 00:39:14,700
+here, and one stock.
+
+675
+00:39:14,700 --> 00:39:19,700
+The one stock I have shown is Apple, the computer company.
+
+676
+00:39:19,700 --> 00:39:22,700
+And this is from the year 2000.
+
+677
+00:39:22,700 --> 00:39:25,700
+This is just the first decade of the 20th century.
+
+678
+00:39:25,700 --> 00:39:26,700
+Can you see this?
+
+679
+00:39:26,700 --> 00:39:29,700
+Is my podium in the way for some of you?
+
+680
+00:39:29,700 --> 00:39:34,700
+You might be surprised to say, wait a minute.
+
+681
+00:39:34,700 --> 00:39:36,700
+Did I hear you right?
+
+682
+00:39:36,700 --> 00:39:40,700
+Is this blue line the same line that we just saw?
+
+683
+00:39:40,700 --> 00:39:41,700
+I'll go back.
+
+684
+00:39:41,700 --> 00:39:43,700
+It is the same line.
+
+685
+00:39:43,700 --> 00:39:44,700
+It's just that I rescaled it.
+
+686
+00:39:44,700 --> 00:39:45,700
+There it is.
+
+687
+00:39:45,700 --> 00:39:47,700
+It's a blue line.
+
+688
+00:39:47,700 --> 00:39:49,700
+This looks scary, doesn't it?
+
+689
+00:39:49,700 --> 00:39:53,700
+The stock market lost something like almost half of its value.
+
+690
+00:39:53,700 --> 00:39:58,700
+It dropped 40% between 2000 and 2002.
+
+691
+00:39:58,700 --> 00:39:59,700
+Wow.
+
+692
+00:39:59,700 --> 00:40:03,700
+Then it went all the way back up, and then it dropped almost
+
+693
+00:40:03,700 --> 00:40:04,700
+50%.
+
+694
+00:40:04,700 --> 00:40:05,700
+And then it went up.
+
+695
+00:40:05,700 --> 00:40:06,700
+And then it went down.
+
+696
+00:40:06,700 --> 00:40:07,700
+And then it went up.
+
+697
+00:40:07,700 --> 00:40:08,700
+And then it went down.
+
+698
+00:40:08,700 --> 00:40:09,700
+And then it went up.
+
+699
+00:40:09,700 --> 00:40:10,700
+And then it went down.
+
+700
+00:40:10,700 --> 00:40:11,700
+And then it went down.
+
+701
+00:40:11,700 --> 00:40:12,700
+These are scary numbers, right?
+
+702
+00:40:12,700 --> 00:40:16,700
+But when I put Apple on the same plot, the computer had to
+
+703
+00:40:16,700 --> 00:40:20,700
+– because Apple did such amazing things – it had to
+
+704
+00:40:20,700 --> 00:40:23,700
+compress, and that's the same curve that you were just
+
+705
+00:40:23,700 --> 00:40:24,700
+looking at.
+
+706
+00:40:24,700 --> 00:40:27,700
+It just compressed, so that I can plot it together.
+
+707
+00:40:27,700 --> 00:40:32,700
+I put both of them at 100 in the year 2000.
+
+708
+00:40:32,700 --> 00:40:35,700
+So, what I'm saying here is that, when you're thinking about
+
+709
+00:40:35,700 --> 00:40:38,700
+the stock market, you're thinking about the stock market
+
+710
+00:40:38,700 --> 00:40:39,700
+as a whole.
+
+711
+00:40:39,700 --> 00:40:44,700
+And I think that somehow, Apple did rather differently than
+
+712
+00:40:44,700 --> 00:40:47,700
+the S&P – this is the S&P 500 as a measure of the whole stock
+
+713
+00:40:47,700 --> 00:40:52,700
+market.
+
+714
+00:40:52,700 --> 00:41:03,700
+And the Apple computer is one of the breakout cases of
+
+715
+00:41:03,700 --> 00:41:05,700
+dramatic success in investing.
+
+716
+00:41:05,700 --> 00:41:08,700
+This, incidentally, is the adjusted price for Apple.
+
+717
+00:41:08,700 --> 00:41:13,700
+Because in 2005, Apple did a two-for-one split.
+
+718
+00:41:13,700 --> 00:41:14,700
+You know what that means?
+
+719
+00:41:14,700 --> 00:41:19,700
+By tradition in the United States, stocks should be worth
+
+720
+00:41:19,700 --> 00:41:22,700
+about $30 per share.
+
+721
+00:41:22,700 --> 00:41:25,700
+And there's no reason why they should be $30 per share.
+
+722
+00:41:25,700 --> 00:41:29,700
+But a lot of companies, when the price hits $60 or something
+
+723
+00:41:29,700 --> 00:41:32,700
+like that, they say, well, let's just split all the shares
+
+724
+00:41:32,700 --> 00:41:34,700
+in two, so that they're back to $30.
+
+725
+00:41:34,700 --> 00:41:38,700
+Well, Apple went up more than double, but they only did one
+
+726
+00:41:38,700 --> 00:41:40,700
+split in this period.
+
+727
+00:41:40,700 --> 00:41:42,700
+So, we've corrected for that.
+
+728
+00:41:42,700 --> 00:41:44,700
+Otherwise, you'd see a big apparent drop in their stock
+
+729
+00:41:44,700 --> 00:41:46,700
+price on the day of the split.
+
+730
+00:41:46,700 --> 00:41:48,700
+Are you with me on this split thing?
+
+731
+00:41:48,700 --> 00:41:50,700
+It really doesn't matter.
+
+732
+00:41:50,700 --> 00:41:52,700
+It's just a units thing.
+
+733
+00:41:52,700 --> 00:41:56,700
+But you can see that an investment in Apple went up 25
+
+734
+00:41:56,700 --> 00:42:02,700
+times, whereas an investment in the S&P 500 went up only
+
+735
+00:42:02,700 --> 00:42:03,700
+20 times.
+
+736
+00:42:04,700 --> 00:42:06,700
+So, it's down.
+
+737
+00:42:06,700 --> 00:42:10,700
+It didn't go up, actually.
+
+738
+00:42:10,700 --> 00:42:14,700
+It's down.
+
+739
+00:42:14,700 --> 00:42:21,700
+Now, this is a plot showing the monthly returns on Apple.
+
+740
+00:42:21,700 --> 00:42:23,700
+Now, it's only the capital gain returns.
+
+741
+00:42:23,700 --> 00:42:25,700
+I didn't include dividends.
+
+742
+00:42:25,700 --> 00:42:29,700
+But it is essentially the return on these two, on the S&P
+
+743
+00:42:29,700 --> 00:42:32,700
+500 and on Apple.
+
+744
+00:42:32,700 --> 00:42:35,700
+So, it's the same data that you were just looking at.
+
+745
+00:42:35,700 --> 00:42:38,700
+But it looks really different now, doesn't it?
+
+746
+00:42:38,700 --> 00:42:40,700
+It looks really different.
+
+747
+00:42:40,700 --> 00:42:44,700
+They're unrecognizable as the same thing.
+
+748
+00:42:44,700 --> 00:42:49,700
+You can't tell from this plot that Apple went up 25-fold.
+
+749
+00:42:49,700 --> 00:42:51,700
+That matters a lot to an investor.
+
+750
+00:42:51,700 --> 00:42:54,700
+Or maybe you can, if you've got very good eyes.
+
+751
+00:42:54,700 --> 00:42:57,700
+There's more up ones than there are down ones.
+
+752
+00:42:57,700 --> 00:42:59,700
+Up months than down months.
+
+753
+00:42:59,700 --> 00:43:02,700
+There's a huge number of enormous
+
+754
+00:43:02,700 --> 00:43:03,700
+returns in the month.
+
+755
+00:43:07,700 --> 00:43:10,700
+But I like to look at the picture like this, because it
+
+756
+00:43:10,700 --> 00:43:14,700
+conveys to me the incredible complexity of the story.
+
+757
+00:43:14,700 --> 00:43:17,700
+What was driving Apple up and down so many times?
+
+758
+00:43:17,700 --> 00:43:19,700
+It's literally a pretty simple picture.
+
+759
+00:43:19,700 --> 00:43:24,700
+Buy Apple, and your money will go up 25-fold.
+
+760
+00:43:24,700 --> 00:43:28,700
+Incidentally, if you were a precocious teenager, and you
+
+761
+00:43:28,700 --> 00:43:32,700
+told your parents 10 years ago, OK,
+
+762
+00:43:32,700 --> 00:43:34,700
+if you want to buy an Apple and you're not going to buy
+
+763
+00:43:34,700 --> 00:43:36,700
+Apple, you should buy this one.
+
+764
+00:43:36,700 --> 00:43:38,700
+Are you into this then?
+
+765
+00:43:38,700 --> 00:43:39,700
+Well, just imagine.
+
+766
+00:43:39,700 --> 00:43:44,700
+You say, Mom, let's take out a $400,000 mortgage on
+
+767
+00:43:44,700 --> 00:43:46,700
+the house and put it all in Apple stock.
+
+768
+00:43:46,700 --> 00:43:47,700
+OK?
+
+769
+00:43:47,700 --> 00:43:50,700
+Your parents would thank you today, if you told them to do
+
+770
+00:43:50,700 --> 00:43:51,700
+that.
+
+771
+00:43:51,700 --> 00:43:53,700
+Your parents could do that.
+
+772
+00:43:53,700 --> 00:43:55,700
+They could take it, they've probably paid off their
+
+773
+00:43:55,700 --> 00:43:56,700
+mortgages, right?
+
+774
+00:43:56,700 --> 00:43:58,700
+They could go and get a second mortgage, easily come up with
+
+775
+00:43:58,700 --> 00:44:00,700
+$400,000.
+
+776
+00:44:00,700 --> 00:44:01,700
+Most of you houses would be worth that.
+
+777
+00:44:01,700 --> 00:44:03,700
+You'd be $10 million.
+
+778
+00:44:03,700 --> 00:44:08,400
+Your mother would be saying, you know, I've been working
+
+779
+00:44:08,400 --> 00:44:12,700
+all 10 years, and your little advice just got me $10 million.
+
+780
+00:44:12,700 --> 00:44:18,700
+It's much more than I made in all those years.
+
+781
+00:44:18,700 --> 00:44:20,700
+So, these kind of stories attract attention.
+
+782
+00:44:20,700 --> 00:44:23,700
+But you know, it wasn't an even ride.
+
+783
+00:44:23,700 --> 00:44:25,700
+That story seems too good to be true, doesn't it?
+
+784
+00:44:25,700 --> 00:44:27,700
+I mean, 25-fold?
+
+785
+00:44:27,700 --> 00:44:33,700
+The reason why it's not so obvious is that the ride was
+
+786
+00:44:33,700 --> 00:44:36,700
+as you're observing this happen, every month it goes
+
+787
+00:44:36,700 --> 00:44:37,700
+opposite.
+
+788
+00:44:37,700 --> 00:44:39,700
+It's just so big swings.
+
+789
+00:44:39,700 --> 00:44:43,700
+You make 30% in one month, you lose 30% in another month.
+
+790
+00:44:43,700 --> 00:44:45,700
+It's a scary ride.
+
+791
+00:44:45,700 --> 00:44:48,700
+And you can't see it happening unless you look at your
+
+792
+00:44:48,700 --> 00:44:50,700
+portfolio and see what you can't tell.
+
+793
+00:44:50,700 --> 00:44:56,700
+There's just so much randomness from one month to the other.
+
+794
+00:44:56,700 --> 00:44:57,700
+So, I think it's a good story.
+
+795
+00:44:57,700 --> 00:45:01,700
+But incidentally, I was a dinner speaker last night for
+
+796
+00:45:01,700 --> 00:45:04,700
+a Yale alumni dinner in New York City.
+
+797
+00:45:04,700 --> 00:45:07,700
+And I rode in with Peter Salovey, who is provost of
+
+798
+00:45:07,700 --> 00:45:14,700
+Yale, and on the ride back, he reminded me of a story that I
+
+799
+00:45:14,700 --> 00:45:18,700
+think I heard, but it took me a while to remember this story.
+
+800
+00:45:18,700 --> 00:45:21,700
+But I'll tell you that it's an important Yale story.
+
+801
+00:45:21,700 --> 00:45:26,700
+And that is that in 1979, the president of the United States,
+
+802
+00:45:26,700 --> 00:45:30,700
+Peter Salovey, was invited to a dinner in New York City.
+
+803
+00:45:30,700 --> 00:45:37,700
+And in 1989, the Yale class of 1954 had a 25th reunion.
+
+804
+00:45:37,700 --> 00:45:39,700
+OK, this is history.
+
+805
+00:45:39,700 --> 00:45:40,700
+Do you know this story?
+
+806
+00:45:40,700 --> 00:45:42,700
+Do you know where I'm heading?
+
+807
+00:45:42,700 --> 00:45:45,700
+So, somebody said, you know, we're here at this reunion.
+
+808
+00:45:45,700 --> 00:45:46,700
+There's a lot of us here.
+
+809
+00:45:46,700 --> 00:45:50,700
+Let's all, as an experiment, let's chip in some money and
+
+810
+00:45:50,700 --> 00:45:55,700
+ask an investor to take a risky portfolio investment for Yale.
+
+811
+00:45:55,700 --> 00:45:59,700
+This is the last year of the Yale's anniversary.
+
+812
+00:45:59,700 --> 00:46:00,700
+All right?
+
+813
+00:46:00,700 --> 00:46:01,700
+Sounds like fun.
+
+814
+00:46:01,700 --> 00:46:04,700
+So, they got a portfolio manager.
+
+815
+00:46:04,700 --> 00:46:05,700
+His name was Joe McNay.
+
+816
+00:46:05,700 --> 00:46:13,700
+And they said, and they put together, it was $375,000.
+
+817
+00:46:13,700 --> 00:46:15,700
+Well, it's like one house, you know.
+
+818
+00:46:15,700 --> 00:46:18,700
+The whole class of 1954, no big deal.
+
+819
+00:46:18,700 --> 00:46:24,700
+So they gave Joe McNay a $375,000 start.
+
+820
+00:46:24,700 --> 00:46:27,940
+And just have fun with this.
+
+821
+00:46:27,940 --> 00:46:29,340
+We're not conservative.
+
+822
+00:46:29,340 --> 00:46:31,700
+If you lose the whole thing, go ahead.
+
+823
+00:46:31,700 --> 00:46:35,260
+But just go for maximum return on this.
+
+824
+00:46:35,260 --> 00:46:42,940
+So, Joe McNay decided to invest in Home Depot, Walmart,
+
+825
+00:46:42,940 --> 00:46:46,060
+and internet stocks.
+
+826
+00:46:46,060 --> 00:46:50,100
+And on their 50th reunion, that was 2004, they presented
+
+827
+00:46:50,100 --> 00:46:54,680
+Yale University with $90 million.
+
+828
+00:46:54,680 --> 00:46:55,980
+That's an amazing story.
+
+829
+00:46:59,360 --> 00:47:02,140
+But I'm sure it was the same sort of thing.
+
+830
+00:47:02,140 --> 00:47:06,740
+Same kind of roller coaster ride the whole time.
+
+831
+00:47:06,740 --> 00:47:10,220
+We're trying to decide, is Joe McNay a genius?
+
+832
+00:47:10,220 --> 00:47:10,700
+What do you think?
+
+833
+00:47:10,700 --> 00:47:13,080
+Is he a genius?
+
+834
+00:47:13,080 --> 00:47:14,120
+I think maybe he is.
+
+835
+00:47:14,120 --> 00:47:18,520
+But the other side of it is, I've just told you what to do
+
+836
+00:47:18,520 --> 00:47:19,840
+in just a few words.
+
+837
+00:47:19,840 --> 00:47:24,640
+It's Walmart, Home Depot, and internet stocks.
+
+838
+00:47:24,640 --> 00:47:24,680
+That's it.
+
+839
+00:47:24,680 --> 00:47:28,180
+And the other thing is, he started liquidating in 2000,
+
+840
+00:47:28,180 --> 00:47:30,180
+right at the peak of the market.
+
+841
+00:47:30,180 --> 00:47:33,440
+So, it must be partly luck.
+
+842
+00:47:33,440 --> 00:47:39,900
+But the thing is, how did he know that Walmart was a good
+
+843
+00:47:39,900 --> 00:47:42,700
+investment in 1954?
+
+844
+00:47:42,700 --> 00:47:43,360
+I don't know.
+
+845
+00:47:43,360 --> 00:47:47,400
+It's sort of, he took the risks.
+
+846
+00:47:47,400 --> 00:47:51,200
+Maybe that's why I'm just digressing a little bit to
+
+847
+00:47:51,200 --> 00:47:53,360
+think about the way things go.
+
+848
+00:47:53,360 --> 00:47:53,600
+I don't know.
+
+849
+00:47:53,600 --> 00:47:53,760
+I don't know.
+
+850
+00:47:53,760 --> 00:47:54,060
+I don't know.
+
+851
+00:47:54,060 --> 00:47:54,080
+I don't know.
+
+852
+00:47:54,080 --> 00:47:54,120
+I don't know.
+
+853
+00:47:54,120 --> 00:47:54,180
+I don't know.
+
+854
+00:47:54,180 --> 00:47:54,240
+I don't know.
+
+855
+00:47:54,240 --> 00:47:54,300
+I don't know.
+
+856
+00:47:54,300 --> 00:47:54,320
+I don't know.
+
+857
+00:47:54,320 --> 00:47:54,360
+I don't know.
+
+858
+00:47:54,360 --> 00:47:54,400
+I don't know.
+
+859
+00:47:54,400 --> 00:47:54,440
+I don't know.
+
+860
+00:47:54,440 --> 00:47:54,540
+I don't know.
+
+861
+00:47:54,540 --> 00:47:54,640
+I don't know.
+
+862
+00:47:54,680 --> 00:47:56,320
+I would like to do investment and I'd show me how
+
+863
+00:47:56,320 --> 00:47:57,180
+things go in history.
+
+864
+00:47:57,180 --> 00:48:02,680
+I talked about the Forbes 400 people.
+
+865
+00:48:02,680 --> 00:48:04,000
+And I was presenting them.
+
+866
+00:48:04,000 --> 00:48:08,360
+I mentioned last lecture about Andrew Carnegie's Gospel of
+
+867
+00:48:08,360 --> 00:48:11,880
+Wealth, and he says that some people are just very talented
+
+868
+00:48:11,880 --> 00:48:15,160
+and they make it really big, and we should let them then
+
+869
+00:48:15,160 --> 00:48:16,320
+give their money away.
+
+870
+00:48:16,320 --> 00:48:20,680
+I's kind of the American idea that we let talented people
+
+871
+00:48:20,680 --> 00:48:24,400
+prove themselves in the real marketplace, and then they end
+
+872
+00:48:24,400 --> 00:48:26,500
+and guiding our society.
+
+873
+00:48:26,500 --> 00:48:27,800
+But maybe they're just lucky.
+
+874
+00:48:30,540 --> 00:48:33,340
+No one could have known that Walmart was going to be such a
+
+875
+00:48:33,340 --> 00:48:35,640
+success.
+
+876
+00:48:35,640 --> 00:48:37,580
+And I think that history is like that.
+
+877
+00:48:37,580 --> 00:48:40,420
+The people you read about in history, these great men and
+
+878
+00:48:40,420 --> 00:48:44,620
+women of history, are often just phenomenal risk takers,
+
+879
+00:48:44,620 --> 00:48:46,500
+like Joe McNay.
+
+880
+00:48:46,500 --> 00:48:49,260
+And for every one of them that you read about, there's a
+
+881
+00:48:49,260 --> 00:48:52,800
+thousand of them that got squashed.
+
+882
+00:48:52,800 --> 00:48:56,720
+I was reading the history of Julius Caesar as written by
+
+883
+00:48:56,720 --> 00:48:57,380
+Plutarch.
+
+884
+00:48:57,380 --> 00:48:58,780
+It's a wonderful story.
+
+885
+00:48:58,780 --> 00:49:01,340
+And I was reading this, and I thought, this guy is a real
+
+886
+00:49:01,340 --> 00:49:03,100
+risk taker.
+
+887
+00:49:03,100 --> 00:49:06,320
+You read all the details of his life.
+
+888
+00:49:06,320 --> 00:49:08,680
+He just went for it every time.
+
+889
+00:49:08,680 --> 00:49:13,260
+And he ended up emperor of Rome.
+
+890
+00:49:13,260 --> 00:49:14,600
+But you know what happened to him?
+
+891
+00:49:14,600 --> 00:49:16,840
+He got assassinated.
+
+892
+00:49:16,840 --> 00:49:21,060
+And so it turned out not entirely a happy story.
+
+893
+00:49:21,060 --> 00:49:22,660
+So maybe it's all those poor
+
+894
+00:49:22,660 --> 00:49:25,240
+people, all those ordinary people who live in a little
+
+895
+00:49:25,240 --> 00:49:28,080
+house, $400,000 house.
+
+896
+00:49:28,080 --> 00:49:29,440
+They don't risk it.
+
+897
+00:49:29,440 --> 00:49:30,440
+Maybe they're the smart ones.
+
+898
+00:49:30,440 --> 00:49:31,980
+You just don't ever hear of them.
+
+899
+00:49:31,980 --> 00:49:35,300
+Well, these are issues for finance.
+
+900
+00:49:35,300 --> 00:49:39,740
+But you wonder, what are all of these things here, all of
+
+901
+00:49:39,740 --> 00:49:43,380
+these big movements?
+
+902
+00:49:43,380 --> 00:49:46,180
+This is the worst one here, where it lost about a third of
+
+903
+00:49:46,180 --> 00:49:48,080
+its value in one month.
+
+904
+00:49:48,080 --> 00:49:49,300
+And I researched it.
+
+905
+00:49:49,300 --> 00:49:50,300
+What was it?
+
+906
+00:49:50,300 --> 00:49:51,680
+Anyone know what caused it in 2008?
+
+907
+00:49:51,680 --> 00:49:52,640
+What?
+
+908
+00:49:52,660 --> 00:49:55,680
+I'll tell you what caused Apple to lose a third of its
+
+909
+00:49:55,680 --> 00:49:57,420
+value in one month.
+
+910
+00:49:57,420 --> 00:50:01,420
+Steve Jobs, who is the founder of Apple and genius behind the
+
+911
+00:50:01,420 --> 00:50:04,960
+company, gave a, or he's had an annual meeting or a press
+
+912
+00:50:04,960 --> 00:50:09,220
+conference, and people said, he doesn't look well.
+
+913
+00:50:09,220 --> 00:50:13,780
+And so they recall that he had pancreatic cancer in 2004.
+
+914
+00:50:13,780 --> 00:50:16,960
+But the doctors then said, it's curable, no problem.
+
+915
+00:50:16,960 --> 00:50:19,500
+So the stock didn't do anything.
+
+916
+00:50:19,500 --> 00:50:22,520
+But reporters called Apple and said,
+
+917
+00:50:22,520 --> 00:50:24,140
+is he OK?
+
+918
+00:50:24,140 --> 00:50:27,400
+And the company spokesman wouldn't say anything.
+
+919
+00:50:27,400 --> 00:50:30,840
+So it started a rumor mill that Steve Jobs was dying of
+
+920
+00:50:30,840 --> 00:50:32,560
+cancer.
+
+921
+00:50:32,560 --> 00:50:36,040
+It quickly rebounded, because he wasn't.
+
+922
+00:50:36,040 --> 00:50:39,680
+That's how crazy these things are, these market movements.
+
+923
+00:50:43,520 --> 00:50:47,220
+Now, the next plot, and this is important for our concept
+
+924
+00:50:47,220 --> 00:50:50,640
+here, I can plot the same data in different ways.
+
+925
+00:50:50,640 --> 00:50:52,360
+And this shows a different sort of complexity.
+
+926
+00:50:52,360 --> 00:50:54,940
+Let me just review what we've seen here.
+
+927
+00:50:54,940 --> 00:50:57,740
+We started out with Apple stock.
+
+928
+00:50:57,740 --> 00:51:02,400
+This is the stock price normalized to $102,000.
+
+929
+00:51:02,400 --> 00:51:04,200
+OK?
+
+930
+00:51:04,200 --> 00:51:07,240
+And it goes up to $2,500.
+
+931
+00:51:07,240 --> 00:51:10,420
+Then the next thing I did is, I did capital gains as a
+
+932
+00:51:10,420 --> 00:51:14,300
+percent, the percentage increase in price for each
+
+933
+00:51:14,300 --> 00:51:14,960
+month.
+
+934
+00:51:14,960 --> 00:51:16,680
+It looks totally different.
+
+935
+00:51:16,680 --> 00:51:20,920
+And it shows such complexity that I can't tell a simple
+
+936
+00:51:20,920 --> 00:51:21,400
+narrative.
+
+937
+00:51:21,400 --> 00:51:22,100
+It's not.
+
+938
+00:51:22,100 --> 00:51:23,100
+It's not a narrative.
+
+939
+00:51:23,100 --> 00:51:26,040
+I've just told you about one blip here, but there were so
+
+940
+00:51:26,040 --> 00:51:27,440
+many of these blips on the way.
+
+941
+00:51:27,440 --> 00:51:30,440
+And they all have some story about the success of some
+
+942
+00:51:30,440 --> 00:51:33,980
+Apple product, or people aren't buying some product.
+
+943
+00:51:33,980 --> 00:51:37,000
+Every month looks different.
+
+944
+00:51:37,000 --> 00:51:39,620
+But now what I want to do, and I have here the blue line, is
+
+945
+00:51:39,620 --> 00:51:42,920
+the return on the S&P 500.
+
+946
+00:51:42,920 --> 00:51:45,980
+Now what I want to do is plot a different sort of plot.
+
+947
+00:51:45,980 --> 00:51:47,520
+It's a scatter plot.
+
+948
+00:51:47,520 --> 00:51:51,860
+I'm going to plot the return on the Apple against the return
+
+949
+00:51:51,860 --> 00:51:53,400
+on the S&P 500.
+
+950
+00:51:53,400 --> 00:51:54,800
+OK?
+
+951
+00:51:54,800 --> 00:51:57,000
+Do you know what I'm referring to here?
+
+952
+00:51:57,000 --> 00:52:00,520
+So, this is a scatter plot.
+
+953
+00:52:00,520 --> 00:52:04,480
+On the vertical axis, I have the return, or it's actually
+
+954
+00:52:04,480 --> 00:52:06,720
+the capital gain on Apple.
+
+955
+00:52:06,720 --> 00:52:10,260
+And on the horizontal axis, I have the capital gain on the
+
+956
+00:52:10,260 --> 00:52:11,700
+whole stock market.
+
+957
+00:52:11,700 --> 00:52:12,760
+OK?
+
+958
+00:52:12,760 --> 00:52:16,800
+And each point represents one of the points that we saw on
+
+959
+00:52:16,800 --> 00:52:17,860
+the
+
+960
+00:52:21,860 --> 00:52:24,620
+S&P 500.
+
+961
+00:52:24,620 --> 00:52:26,800
+Actually, I think it was, I was telling you the second
+
+962
+00:52:26,800 --> 00:52:28,740
+Lois story.
+
+963
+00:52:28,740 --> 00:52:32,260
+Steve Jobs, I'm not sure which point it was.
+
+964
+00:52:32,260 --> 00:52:35,420
+One of these points in 2008 was when Steve Jobs looked
+
+965
+00:52:35,420 --> 00:52:36,620
+sick.
+
+966
+00:52:39,620 --> 00:52:41,560
+So, each point is a month.
+
+967
+00:52:41,560 --> 00:52:45,480
+And I have the whole decade of 2000, of the beginning of the
+
+968
+00:52:45,480 --> 00:52:48,760
+2000s plotted.
+
+969
+00:52:48,760 --> 00:52:51,860
+So, the best success was in
+
+970
+00:52:51,860 --> 00:52:55,860
+the mid-2001, the mid-2003, the mid-2004, the mid-2005
+
+971
+00:52:55,860 --> 00:52:59,860
+century of 2001, where the stock price went up 50% in one
+
+972
+00:52:59,860 --> 00:53:01,860
+month.
+
+973
+00:53:01,860 --> 00:53:03,860
+I tried to figure out what that was about.
+
+974
+00:53:03,860 --> 00:53:05,860
+Why did it go up 50% in one month?
+
+975
+00:53:05,860 --> 00:53:08,360
+It turns out that the preceding two months, it had
+
+976
+00:53:08,360 --> 00:53:09,360
+gone down a lot.
+
+977
+00:53:09,360 --> 00:53:10,860
+They're down here somewhere.
+
+978
+00:53:10,860 --> 00:53:12,860
+There were these big drops.
+
+979
+00:53:12,860 --> 00:53:14,860
+People were getting really pessimistic, because Apple
+
+980
+00:53:14,860 --> 00:53:16,740
+products weren't going well.
+
+981
+00:53:16,740 --> 00:53:18,740
+They had introduced some new products.
+
+982
+00:53:18,740 --> 00:53:20,660
+And they'd mobile me, I think. You forget about these products that don't work.
+
+983
+00:53:20,660 --> 00:53:22,660
+It didn't work very well.
+
+984
+00:53:22,660 --> 00:53:25,660
+And then, somehow, people decided, well, it really wasn't so bad.
+
+985
+00:53:25,660 --> 00:53:28,660
+And so, we have plus 50, almost 50% return in one month.
+
+986
+00:53:28,660 --> 00:53:36,660
+Now, the reason why it looks kind of compressed on this way is because the stock market
+
+987
+00:53:36,660 --> 00:53:38,660
+doesn't move as much as Apple.
+
+988
+00:53:38,660 --> 00:53:49,660
+So, basically, Apple's return is the sum of two components, which is the overall market
+
+989
+00:53:49,660 --> 00:53:56,660
+return and the idiosyncratic return.
+
+990
+00:53:56,660 --> 00:54:08,660
+So, the return for a stock, for the i-th stock, is equal to the market return, which is
+
+991
+00:54:08,660 --> 00:54:16,660
+represented here by the S&P 500, which is pretty much the whole stock market, plus idiosyncratic
+
+992
+00:54:16,660 --> 00:54:17,660
+return.
+
+993
+00:54:19,660 --> 00:54:26,660
+And if they're independent of each other, the variance of the sum is the sum of the
+
+994
+00:54:26,660 --> 00:54:27,660
+variance.
+
+995
+00:54:27,660 --> 00:54:33,660
+So, the variance of the stock return is the variance of the Apple return is the sum of
+
+996
+00:54:33,660 --> 00:54:41,660
+their market return and their idiosyncratic return.
+
+997
+00:54:41,660 --> 00:54:43,660
+Well, let me be clear about that.
+
+998
+00:54:43,660 --> 00:54:47,660
+Let's add a regression line to the scatter point.
+
+999
+00:54:47,660 --> 00:54:48,660
+OK?
+
+1000
+00:54:48,660 --> 00:54:50,660
+It's the same scatter that you saw.
+
+1001
+00:54:50,660 --> 00:54:51,660
+Is it clear?
+
+1002
+00:54:51,660 --> 00:54:53,660
+Everyone clear what we're doing here?
+
+1003
+00:54:53,660 --> 00:54:57,660
+I've got S&P on this axis and Apple on this axis.
+
+1004
+00:54:57,660 --> 00:55:04,660
+And now I've added a line, which is a least square fit, which minimizes the sum of squared
+
+1005
+00:55:04,660 --> 00:55:06,660
+deviations from the line.
+
+1006
+00:55:06,660 --> 00:55:12,660
+It tries to get through the scatter of points as much as it can.
+
+1007
+00:55:12,660 --> 00:55:16,660
+And, well, that's it.
+
+1008
+00:55:16,660 --> 00:55:30,660
+So, the line has a slope of 1.45.
+
+1009
+00:55:30,660 --> 00:55:32,660
+And we call that the beta.
+
+1010
+00:55:32,660 --> 00:55:34,660
+All right?
+
+1011
+00:55:34,660 --> 00:55:40,660
+These are concepts that I'm asking Elon to elaborate for you in the review session.
+
+1012
+00:55:40,660 --> 00:55:43,660
+But it's a simple idea here.
+
+1013
+00:55:43,660 --> 00:55:46,660
+What it means is that it seems like Apple shows a slope of 1.45.
+
+1014
+00:55:46,660 --> 00:55:52,660
+And it's a magnified response to the stock market.
+
+1015
+00:55:52,660 --> 00:55:59,660
+It goes up and down approximately one and a half times as much as the stock market does on any day.
+
+1016
+00:55:59,660 --> 00:56:10,660
+So, the market return here is equal to the beta times the return on the S&P that you see here.
+
+1017
+00:56:16,660 --> 00:56:18,660
+I wonder why that is.
+
+1018
+00:56:18,660 --> 00:56:24,660
+Why does Apple respond more than one for one with the stock market?
+
+1019
+00:56:24,660 --> 00:56:27,660
+I guess it's because the aggregate economy matters, right?
+
+1020
+00:56:27,660 --> 00:56:39,660
+If you think that maybe because Apple is kind of a vulnerable company, that if the economy tanks, Apple will tank even more than the aggregate economy.
+
+1021
+00:56:39,660 --> 00:56:45,660
+Because they're such a volatile, dangerous strategy company.
+
+1022
+00:56:45,660 --> 00:56:58,660
+And if the market goes up, then it's even better news for Apple.
+
+1023
+00:56:58,660 --> 00:57:04,660
+But even so, the idiosyncratic risk just dominates.
+
+1024
+00:57:04,660 --> 00:57:07,660
+Look at these observations way up and way down here.
+
+1025
+00:57:07,660 --> 00:57:10,660
+Apple has a lot of idiosyncratic risk.
+
+1026
+00:57:10,660 --> 00:57:12,660
+And I mentioned one example.
+
+1027
+00:57:12,660 --> 00:57:14,660
+It's Steve Jobs' health.
+
+1028
+00:57:15,660 --> 00:57:17,660
+The Steve Jobs story is remarkable.
+
+1029
+00:57:17,660 --> 00:57:20,660
+He founded Apple, and Apple prospered.
+
+1030
+00:57:20,660 --> 00:57:26,660
+And then he kind of had a falling out with the management and got kind of kicked out of his own company.
+
+1031
+00:57:26,660 --> 00:57:29,660
+And he said, all right, I'll start my own computer company.
+
+1032
+00:57:29,660 --> 00:57:31,660
+My second, I'll do it again.
+
+1033
+00:57:31,660 --> 00:57:33,660
+So, he founded Next Computer.
+
+1034
+00:57:33,660 --> 00:57:35,660
+But meanwhile, Apple started to really tank.
+
+1035
+00:57:35,660 --> 00:57:37,660
+This was in the 90s.
+
+1036
+00:57:37,660 --> 00:57:42,660
+And they finally realized they needed Steve Jobs, so they brought him back.
+
+1037
+00:57:42,660 --> 00:57:44,660
+So, it's the companies.
+
+1038
+00:57:44,660 --> 00:57:53,660
+And the ups and downs, the idiosyncratic risk has a lot to do with Steve Jobs and what he does and the mistakes he made.
+
+1039
+00:57:53,660 --> 00:57:57,660
+Those are what causes these big movements.
+
+1040
+00:57:57,660 --> 00:58:00,660
+This line, I thought it would have an even higher beta.
+
+1041
+00:58:00,660 --> 00:58:04,660
+But I think it's this point which is bringing the beta down.
+
+1042
+00:58:04,660 --> 00:58:10,660
+And this is, I think this is the point, the month after it turns out that Steve Jobs really wasn't sick.
+
+1043
+00:58:10,660 --> 00:58:11,660
+Okay?
+
+1044
+00:58:11,660 --> 00:58:15,660
+It turned out to be the same month that the Lehman Brothers collapse occurred.
+
+1045
+00:58:15,660 --> 00:58:22,660
+So, you see, this point here is between September and October of 2008.
+
+1046
+00:58:22,660 --> 00:58:24,660
+And that's the point.
+
+1047
+00:58:24,660 --> 00:58:29,660
+It was September 15 that we had the most significant bankruptcy in U.S. history.
+
+1048
+00:58:29,660 --> 00:58:32,660
+Lehman Brothers, the investment bank, went bankrupt.
+
+1049
+00:58:32,660 --> 00:58:35,660
+And it threw the whole world in chaos.
+
+1050
+00:58:35,660 --> 00:58:41,660
+So, the stock market in S&P 500, stock market return was minus 16%.
+
+1051
+00:58:41,660 --> 00:58:45,660
+And the stock market in U.S. history was minus 16% in one month.
+
+1052
+00:58:45,660 --> 00:58:47,660
+Horrible drop.
+
+1053
+00:58:47,660 --> 00:58:52,660
+But for Apple, it really was only about minus 5%.
+
+1054
+00:58:52,660 --> 00:58:55,660
+Because they were getting over the news of Steve Jobs.
+
+1055
+00:58:55,660 --> 00:59:01,660
+So, that's the way things work.
+
+1056
+00:59:01,660 --> 00:59:07,660
+I wanted to move on now to the next topic, which is outliers.
+
+1057
+00:59:07,660 --> 00:59:11,660
+And talk about another assumption that is made in finance today.
+
+1058
+00:59:11,660 --> 00:59:17,660
+And traditionally, that turned out to be wrong in this episode.
+
+1059
+00:59:17,660 --> 00:59:24,660
+And the assumption is that random shocks to the financial economy are normally distributed.
+
+1060
+00:59:24,660 --> 00:59:28,660
+Now, you must have heard of the normal distribution.
+
+1061
+00:59:28,660 --> 00:59:40,660
+This is the famous bell-shaped curve that was discovered by the mathematician Gauss over 100 years ago.
+
+1062
+00:59:40,660 --> 00:59:57,660
+The bell-shaped curve is thought to be this particular bell-shaped curve, which is the log of this curve is a parabola.
+
+1063
+00:59:57,660 --> 01:00:01,660
+It's a particular mathematical function.
+
+1064
+01:00:01,660 --> 01:00:08,660
+The curve is thought by statisticians to recur in nature many different ways.
+
+1065
+01:00:08,660 --> 01:00:09,660
+It has a certain probability.
+
+1066
+01:00:09,660 --> 01:00:13,660
+It has a certain probability log.
+
+1067
+01:00:13,660 --> 01:00:18,660
+So, I have plotted two normal distributions.
+
+1068
+01:00:18,660 --> 01:00:21,660
+And I have them for two different standard deviations.
+
+1069
+01:00:21,660 --> 01:00:25,660
+One of them, the black line, is the standard deviation of 3.
+
+1070
+01:00:25,660 --> 01:00:29,660
+And the other one, the pink line, is the standard deviation of 1.
+
+1071
+01:00:29,660 --> 01:00:31,660
+But they both look the same.
+
+1072
+01:00:31,660 --> 01:00:33,660
+They just scale differently.
+
+1073
+01:00:33,660 --> 01:00:37,660
+And these distributions have the property that the area under the curve is equal to 1.
+
+1074
+01:00:37,660 --> 01:00:39,660
+And the area below the curve is equal to 1.
+
+1075
+01:00:39,660 --> 01:00:51,660
+And the area between any two points, say, between minus 5 and minus 10, the area under this curve is the probability that the random variable falls between minus 5 and minus 10.
+
+1076
+01:00:51,660 --> 01:01:01,660
+So, a lot of probability theory works on the assumption that variables are normally distributed.
+
+1077
+01:01:01,660 --> 01:01:07,660
+But random variables have a habit of not behaving that way, especially in finance, it seems.
+
+1078
+01:01:07,660 --> 01:01:24,660
+And so, we had a mathematician here in the Yale Math Department, Benoit Mandelbrot, who was really the discoverer of this concept, and I think the most important figure in it.
+
+1079
+01:01:24,660 --> 01:01:35,660
+He said that in nature, the normal distribution is not the only distribution that occurs, and that especially in certain kinds of circumstances, the normal distribution is not the only distribution that occurs.
+
+1080
+01:01:35,660 --> 01:01:36,660
+And that especially in certain kinds of circumstances, the normal distribution is not the only distribution that occurs.
+
+1081
+01:01:36,660 --> 01:01:41,660
+Now, pretended that this yeah, if in this edge of politics, you could just like change the normal distribution cycles for only several strings,
+
+1082
+01:01:41,660 --> 01:01:42,660
+the normal distribution would rise.
+
+1083
+01:01:42,660 --> 01:01:49,660
+In this case, the general distribution was the curve.
+
+1084
+01:01:49,660 --> 01:02:03,660
+The curve was the theシmult and the pumping, which we hanno the whole frame of the problem?
+
+1085
+01:02:03,660 --> 01:02:05,660
+The curve looks pretty much the same in the sense of length distribution.
+
+1086
+01:02:05,660 --> 01:02:09,020
+probability of being far out.
+
+1087
+01:02:09,020 --> 01:02:12,280
+These are the tails of the distribution.
+
+1088
+01:02:12,280 --> 01:02:18,620
+So, if you observe a random variable that looks, you
+
+1089
+01:02:18,620 --> 01:02:22,940
+observe it for a while, maybe get 100 observations, you
+
+1090
+01:02:22,940 --> 01:02:26,840
+probably can't tell it apart very well from a normal
+
+1091
+01:02:26,840 --> 01:02:28,980
+distribution, whether it's Cauchy or normal, they look
+
+1092
+01:02:28,980 --> 01:02:30,420
+about the same.
+
+1093
+01:02:30,420 --> 01:02:34,280
+The way you find out that they're not the same is that in
+
+1094
+01:02:34,280 --> 01:02:38,340
+extremely rare circumstances, there'll be a sudden major
+
+1095
+01:02:38,340 --> 01:02:41,880
+jump in the variable that you might have
+
+1096
+01:02:41,880 --> 01:02:43,120
+thought couldn't happen.
+
+1097
+01:02:45,900 --> 01:02:53,600
+So, I have here a plot of a histogram of stock price
+
+1098
+01:02:53,600 --> 01:02:56,920
+movements from 1928.
+
+1099
+01:02:56,920 --> 01:03:03,020
+Every day, I've taken every day since 1928, and I've shown
+
+1100
+01:03:03,020 --> 01:03:04,220
+what the S&P
+
+1101
+01:03:04,220 --> 01:03:06,220
+Composite Index looks like.
+
+1102
+01:03:06,220 --> 01:03:08,600
+It's a composite index.
+
+1103
+01:03:08,600 --> 01:03:13,400
+It didn't have 500 stocks in 1928, so I can't call it the
+
+1104
+01:03:13,400 --> 01:03:16,060
+S&P 500 for the whole period.
+
+1105
+01:03:16,060 --> 01:03:21,460
+But this is essentially the S&P 500.
+
+1106
+01:03:21,460 --> 01:03:25,460
+And I have every day, there's something like 40,000 days.
+
+1107
+01:03:25,460 --> 01:03:29,840
+And what this line here shows is that the stock return, the
+
+1108
+01:03:29,840 --> 01:03:34,040
+percentage change in the stock price in one day, was between
+
+1109
+01:03:34,040 --> 01:03:40,040
+0 and minus 1 percent, over 9,000 times.
+
+1110
+01:03:40,040 --> 01:03:48,040
+And it was between 0 and minus 1 percent, around 8,000 times.
+
+1111
+01:03:48,040 --> 01:03:50,040
+OK?
+
+1112
+01:03:50,040 --> 01:03:52,040
+So, that's typical day.
+
+1113
+01:03:52,040 --> 01:03:56,540
+It's less than 1 percent up or down.
+
+1114
+01:03:56,540 --> 01:03:59,540
+But occasionally, we'll have a 2 percent day.
+
+1115
+01:03:59,540 --> 01:04:01,040
+Well, this is between 1 and 2 percent.
+
+1116
+01:04:01,040 --> 01:04:03,840
+That occurred about 2,000 times.
+
+1117
+01:04:03,840 --> 01:04:08,840
+So, it's between 1 and minus 2 percent.
+
+1118
+01:04:08,840 --> 01:04:13,340
+And then, you can see these outliers here.
+
+1119
+01:04:13,340 --> 01:04:14,600
+These look like outliers.
+
+1120
+01:04:14,600 --> 01:04:16,340
+They're not extreme outliers.
+
+1121
+01:04:16,340 --> 01:04:20,840
+So, if you look at a small number of data, you get an
+
+1122
+01:04:20,840 --> 01:04:24,840
+impression that, well, the stock market goes up between
+
+1123
+01:04:24,840 --> 01:04:26,840
+plus or minus 2 percent.
+
+1124
+01:04:26,840 --> 01:04:29,340
+Usually, not so much.
+
+1125
+01:04:29,340 --> 01:04:30,840
+And that's the way it is.
+
+1126
+01:04:30,840 --> 01:04:33,840
+And after here, they don't seem to be anything.
+
+1127
+01:04:33,840 --> 01:04:38,840
+So, you never see anything more than up or down 5 percent
+
+1128
+01:04:38,840 --> 01:04:39,840
+or 6 percent.
+
+1129
+01:04:39,840 --> 01:04:41,340
+It just doesn't happen.
+
+1130
+01:04:41,340 --> 01:04:45,340
+Well, because it's so few days that it does those extremes.
+
+1131
+01:04:45,340 --> 01:04:49,840
+Can you see these little, where it's between 5 and 6?
+
+1132
+01:04:49,840 --> 01:04:52,840
+There were maybe like 20 days.
+
+1133
+01:04:52,840 --> 01:04:56,340
+I can't read off the chart, when it did this since 1928.
+
+1134
+01:04:56,340 --> 01:04:59,840
+You can go through 10 years on Wall Street and never see a
+
+1135
+01:04:59,840 --> 01:05:01,340
+drop of that magnitude.
+
+1136
+01:05:01,340 --> 01:05:02,840
+So, eventually, you get kind of assured.
+
+1137
+01:05:02,840 --> 01:05:03,840
+It can't happen.
+
+1138
+01:05:03,840 --> 01:05:07,840
+And so, what about an 8 percent drop?
+
+1139
+01:05:07,840 --> 01:05:10,840
+Well, I look at this and I say, I've never seen that.
+
+1140
+01:05:10,840 --> 01:05:12,840
+I've been watching this now.
+
+1141
+01:05:12,840 --> 01:05:16,840
+I've seen thousands of days, and I've never seen that.
+
+1142
+01:05:16,840 --> 01:05:19,840
+But I have here the two extremes here.
+
+1143
+01:05:19,840 --> 01:05:26,840
+The stock market went up 12.53 percent on October 30, 1929.
+
+1144
+01:05:26,840 --> 01:05:28,840
+That's the biggest one-day increase.
+
+1145
+01:05:28,840 --> 01:05:30,840
+That's way off the charts.
+
+1146
+01:05:30,840 --> 01:05:32,840
+And if you compute the normal distribution, what's the
+
+1147
+01:05:32,840 --> 01:05:34,840
+probability of that?
+
+1148
+01:05:34,840 --> 01:05:37,840
+If a normal distribution that fits this central portion, it
+
+1149
+01:05:37,840 --> 01:05:39,840
+would say zero, virtually zero.
+
+1150
+01:05:39,840 --> 01:05:41,840
+It couldn't happen.
+
+1151
+01:05:41,840 --> 01:05:49,840
+Anyone have any idea what happened on October 30, 1929?
+
+1152
+01:05:49,840 --> 01:05:53,840
+It's obvious to me, but it's not obvious to you.
+
+1153
+01:05:53,840 --> 01:05:55,840
+I'm asking you to.
+
+1154
+01:05:55,840 --> 01:05:57,840
+I won't ask.
+
+1155
+01:05:57,840 --> 01:05:58,840
+What happened in October?
+
+1156
+01:05:58,840 --> 01:06:01,840
+Anyone know what happened in October 1929?
+
+1157
+01:06:01,840 --> 01:06:02,840
+Yeah?
+
+1158
+01:06:02,840 --> 01:06:04,840
+That must be right before the crash.
+
+1159
+01:06:04,840 --> 01:06:05,840
+You're close.
+
+1160
+01:06:05,840 --> 01:06:08,840
+You're right.
+
+1161
+01:06:08,840 --> 01:06:09,840
+Was it the rebound after the crash?
+
+1162
+01:06:09,840 --> 01:06:10,840
+Absolutely.
+
+1163
+01:06:10,840 --> 01:06:12,840
+It was the rebound after the crash.
+
+1164
+01:06:12,840 --> 01:06:17,840
+The stock market crash of 1929 had two consecutive days.
+
+1165
+01:06:17,840 --> 01:06:19,840
+Boy, is that probability.
+
+1166
+01:06:19,840 --> 01:06:20,840
+Independence doesn't seem right.
+
+1167
+01:06:20,840 --> 01:06:24,840
+It went down about 12 percent on October 28, and then the
+
+1168
+01:06:24,840 --> 01:06:26,840
+next day it did it again.
+
+1169
+01:06:26,840 --> 01:06:27,840
+What's going on here?
+
+1170
+01:06:27,840 --> 01:06:30,840
+We were down like 24 percent in two days.
+
+1171
+01:06:30,840 --> 01:06:33,840
+And people got up on the 30th and say, oh my God, is he
+
+1172
+01:06:33,840 --> 01:06:35,840
+going to do that again?
+
+1173
+01:06:35,840 --> 01:06:37,840
+But it did just the opposite.
+
+1174
+01:06:37,840 --> 01:06:39,840
+It was going totally wild.
+
+1175
+01:06:39,840 --> 01:06:42,840
+So, we don't know whether covariance broke down or not.
+
+1176
+01:06:42,840 --> 01:06:44,840
+I guess it didn't, because it rebounded.
+
+1177
+01:06:44,840 --> 01:06:47,840
+That was the biggest one-day increase ever.
+
+1178
+01:06:47,840 --> 01:06:50,840
+If that weren't enough, however, let's go back to
+
+1179
+01:06:50,840 --> 01:06:54,840
+October 19, 1987.
+
+1180
+01:06:54,840 --> 01:06:58,840
+It went down 20.47 percent in one day.
+
+1181
+01:06:58,840 --> 01:06:59,840
+It went down even more.
+
+1182
+01:06:59,840 --> 01:07:01,840
+It went down even more on the Dow.
+
+1183
+01:07:01,840 --> 01:07:04,840
+Some people say, it went down more than that, didn't it?
+
+1184
+01:07:04,840 --> 01:07:07,840
+But on the S&P, that's how much it went down.
+
+1185
+01:07:07,840 --> 01:07:11,840
+So, I figured, if this were normally distributed with the
+
+1186
+01:07:11,840 --> 01:07:16,840
+standard deviation suggested by this, what's the probability
+
+1187
+01:07:16,840 --> 01:07:21,840
+of a decline that negative?
+
+1188
+01:07:21,840 --> 01:07:25,840
+It's 10 to the minus 71 power.
+
+1189
+01:07:25,840 --> 01:07:26,840
+1 over 10.
+
+1190
+01:07:26,840 --> 01:07:29,840
+So, you take 1, and you divide that by 10 to the minus
+
+1191
+01:07:29,840 --> 01:07:31,840
+1, and you divide that by 10 to the minus 1.
+
+1192
+01:07:31,840 --> 01:07:33,840
+1 followed by 71 zeros.
+
+1193
+01:07:33,840 --> 01:07:36,840
+That's an awfully small number.
+
+1194
+01:07:36,840 --> 01:07:41,840
+If you believe in normality, October 19, 1987 couldn't
+
+1195
+01:07:41,840 --> 01:07:43,840
+happen, but there it is.
+
+1196
+01:07:43,840 --> 01:07:44,840
+It happened.
+
+1197
+01:07:44,840 --> 01:07:47,840
+And in fact, I was, I told you, I've been teaching this course
+
+1198
+01:07:47,840 --> 01:07:49,840
+for 25 years.
+
+1199
+01:07:49,840 --> 01:07:53,840
+I was giving a lecture in this, not in this room, but
+
+1200
+01:07:53,840 --> 01:07:57,840
+nearby here, and I was talking about something else, and a
+
+1201
+01:07:57,840 --> 01:07:59,840
+student had a transistor radio.
+
+1202
+01:07:59,840 --> 01:08:02,840
+He was holding it up and listening.
+
+1203
+01:08:02,840 --> 01:08:05,840
+But then he raised his hand and said, do you know what's
+
+1204
+01:08:05,840 --> 01:08:06,840
+happening?
+
+1205
+01:08:06,840 --> 01:08:10,840
+And he said, the stock market is totally falling apart.
+
+1206
+01:08:10,840 --> 01:08:12,840
+It just came as a complete surprise to me.
+
+1207
+01:08:12,840 --> 01:08:15,840
+So, after class, I didn't go back to my office.
+
+1208
+01:08:15,840 --> 01:08:20,840
+I went downtown to Merrill Lynch, and I walked up.
+
+1209
+01:08:20,840 --> 01:08:22,840
+This is a story I like to tell.
+
+1210
+01:08:22,840 --> 01:08:25,840
+Anyway, I walked up, and I talked to a stockbroker there,
+
+1211
+01:08:25,840 --> 01:08:28,840
+and I said, I was about to go to the stock market, and I
+
+1212
+01:08:28,840 --> 01:08:30,840
+was about to say something.
+
+1213
+01:08:30,840 --> 01:08:31,840
+But he didn't let me talk.
+
+1214
+01:08:31,840 --> 01:08:33,840
+He said, don't panic.
+
+1215
+01:08:33,840 --> 01:08:38,840
+He thought that I had shown up as someone who was losing
+
+1216
+01:08:38,840 --> 01:08:41,840
+everything, his life savings, all in one day.
+
+1217
+01:08:41,840 --> 01:08:43,840
+And he said, don't worry.
+
+1218
+01:08:43,840 --> 01:08:46,840
+It's going to rebound.
+
+1219
+01:08:46,840 --> 01:08:51,840
+So, it didn't rebound, because I showed up at lunchtime, and
+
+1220
+01:08:51,840 --> 01:08:53,840
+it kept going down.
+
+1221
+01:08:53,840 --> 01:08:57,840
+So, anyway, there was something wrong with independence.
+
+1222
+01:08:57,840 --> 01:08:59,840
+Let me just recap.
+
+1223
+01:08:59,840 --> 01:09:03,840
+The two themes are that independence leads to the law
+
+1224
+01:09:03,840 --> 01:09:06,840
+of large numbers, and it leads to some sort of stability.
+
+1225
+01:09:06,840 --> 01:09:10,840
+Either independence through time, or independence across
+
+1226
+01:09:10,840 --> 01:09:11,840
+stocks.
+
+1227
+01:09:11,840 --> 01:09:13,840
+So, if you diversify through time, or you diversify across
+
+1228
+01:09:13,840 --> 01:09:16,840
+stocks, you're supposed to be safe.
+
+1229
+01:09:16,840 --> 01:09:19,840
+But that's not what happened in this crisis, and that's the big
+
+1230
+01:09:19,840 --> 01:09:22,840
+question.
+
+1231
+01:09:22,840 --> 01:09:24,840
+And then it's fat tails, which is kind of related.
+
+1232
+01:09:24,840 --> 01:09:27,840
+But it's that distribution.
+
+1233
+01:09:27,840 --> 01:09:30,840
+Distributions fool you.
+
+1234
+01:09:30,840 --> 01:09:33,840
+You get big, incredible shocks that you thought couldn't
+
+1235
+01:09:33,840 --> 01:09:36,840
+happen, and they just come up with a certain low probability,
+
+1236
+01:09:36,840 --> 01:09:39,840
+but with a certain regularity in finance.
+
+1237
+01:09:39,840 --> 01:09:43,840
+All right, I'll stop there, and see you on next Wednesday.
