@@ -14,3 +14,6 @@ runtime/logs/wealth-engine/
 references/wealth-engine/.codex_wealth_session
 references/wealth-engine/.baseline_untracked
 references/wealth-engine/wealth-refinery.lock
+
+# Repo-local external media downloads
+downloads/
