@@ -1,0 +1,224 @@
+\documentclass[11pt,openany]{book}
+
+\usepackage{fontspec}
+\usepackage{geometry}
+\geometry{paper=a4paper, margin=1in}
+\usepackage{xcolor}
+\usepackage{hyperref}
+\usepackage{xurl}
+\usepackage{titlesec}
+\usepackage{fancyhdr}
+\usepackage{microtype}
+\usepackage{setspace}
+\usepackage[most]{tcolorbox}
+\usepackage{enumitem}
+\usepackage{tikz}
+
+\setmainfont{TeX Gyre Pagella}
+\setsansfont{TeX Gyre Heros}
+\setmonofont{DejaVu Sans Mono}
+\setstretch{1.08}
+
+\definecolor{ink}{HTML}{1F2530}
+\definecolor{ember}{HTML}{8F5A3C}
+\definecolor{paper}{HTML}{F8F4EC}
+\definecolor{mist}{HTML}{E9EEF2}
+\definecolor{shadow}{HTML}{C9B9A6}
+
+\hypersetup{
+  colorlinks=true,
+  linkcolor=ink,
+  urlcolor=ember,
+  pdftitle={Quad Tango Muto},
+  pdfauthor={LazyingArt LLC}
+}
+
+\titleformat{\chapter}[display]
+  {\normalfont\sffamily\bfseries\Huge\color{ink}}
+  {\filleft\Large\color{ember}\MakeUppercase{Chapter \thechapter}}
+  {1ex}
+  {\titlerule[1pt]\vspace{1ex}\filright}
+
+\titleformat{\section}
+  {\normalfont\sffamily\bfseries\Large\color{ink}}
+  {\thesection}
+  {0.75em}
+  {}
+
+\pagestyle{fancy}
+\fancyhf{}
+\fancyhead[LE,RO]{\sffamily\small\thepage}
+\fancyhead[RE]{\sffamily\small Quad Tango Muto}
+\fancyhead[LO]{\sffamily\small LazyingArt LLC}
+\setlength{\headheight}{14pt}
+
+\setlist[itemize]{leftmargin=1.4em}
+\setlength{\parindent}{0pt}
+\setlength{\parskip}{0.75em}
+
+\newtcolorbox{coverbox}{
+  enhanced,
+  colback=paper,
+  colframe=ember,
+  boxrule=0.8pt,
+  arc=2pt,
+  left=14pt,
+  right=14pt,
+  top=12pt,
+  bottom=12pt
+}
+
+\newtcolorbox{chapterbox}{
+  enhanced,
+  colback=mist,
+  colframe=ink,
+  boxrule=0.6pt,
+  arc=2pt,
+  left=12pt,
+  right=12pt,
+  top=10pt,
+  bottom=10pt,
+  borderline west={3pt}{0pt}{ember}
+}
+
+\newtcolorbox{notebox}{
+  enhanced,
+  colback=paper,
+  colframe=shadow,
+  boxrule=0.5pt,
+  arc=2pt,
+  left=12pt,
+  right=12pt,
+  top=10pt,
+  bottom=10pt
+}
+
+\newcommand{\chapterprompt}[1]{
+\begin{chapterbox}
+\textbf{Chapter prompt}\par
+#1
+\end{chapterbox}
+}
+
+\begin{document}
+\frontmatter
+
+\begin{titlepage}
+\pagecolor{paper}
+\color{ink}
+\thispagestyle{empty}
+\begin{tikzpicture}[remember picture, overlay]
+  \draw[color=ember, line width=1pt]
+    ([xshift=1.25cm,yshift=-1.25cm]current page.north west)
+    rectangle
+    ([xshift=-1.25cm,yshift=1.25cm]current page.south east);
+  \draw[color=shadow, line width=0.5pt]
+    ([xshift=1.55cm,yshift=-1.55cm]current page.north west)
+    rectangle
+    ([xshift=-1.55cm,yshift=1.55cm]current page.south east);
+\end{tikzpicture}
+
+\vspace*{2.2cm}
+{\sffamily\Large\color{ember}\textsc{LazyingArt LLC}\par}
+\vspace{1.6cm}
+{\sffamily\bfseries\fontsize{34}{38}\selectfont Quad Tango Muto\par}
+\vspace{0.45cm}
+{\Large A manuscript scaffold for later writing\par}
+\vspace{1.4cm}
+\begin{coverbox}
+\textbf{Starter brief}\par
+This volume is initialized as a clean, expandable writing surface. It is built to hold the first statement of the book, the shape of its chapters, its fragments, and the notes that will later become a finished manuscript.
+\end{coverbox}
+\vfill
+{\large Author: LazyingArt LLC\par}
+{\large April 2026\par}
+\end{titlepage}
+\nopagecolor
+
+\tableofcontents
+
+\mainmatter
+
+\chapter{Opening position}
+\chapterprompt{Write the first true sentence of the book here. Name the tension, motion, or atmosphere that justifies the title \textit{Quad Tango Muto}.}
+
+Use this opening chapter to establish what kind of book this is, what world it enters, and what kind of attention it asks from the reader.
+
+\section{Purpose}
+
+State the reason this manuscript exists.
+
+\section{Immediate questions}
+
+\begin{itemize}
+  \item What must the reader understand immediately?
+  \item What mystery, claim, or pressure sets the book in motion?
+  \item What is the emotional or intellectual temperature of the first pages?
+\end{itemize}
+
+\chapter{Foundations}
+\chapterprompt{Define the concepts, assumptions, symbols, or conditions the rest of the manuscript depends on.}
+
+Use this chapter to stabilize the vocabulary and architecture of the book.
+
+\section{Terms}
+
+Define the central words and recurring ideas.
+
+\section{Scope}
+
+Clarify what belongs inside the book and what remains outside it.
+
+\chapter{Main development}
+\chapterprompt{Build the primary argument, narrative line, investigation, or sequence of transformations here.}
+
+This is the longest structural space in the starter manuscript. Expand it into subchapters later if needed.
+
+\section{Movement}
+
+Describe how the book advances from one idea or state to another.
+
+\section{Evidence}
+
+List the kinds of proof, scenes, references, examples, or formal structures the chapter should use.
+
+\chapter{Counterforce}
+\chapterprompt{Record the pressures that resist the book: objections, rival interpretations, ambiguities, or unresolved fractures.}
+
+Use this chapter to keep the manuscript intellectually honest.
+
+\section{Counterarguments}
+
+What intelligent disagreement should the book face directly?
+
+\section{Unresolved edges}
+
+What tensions should remain visible rather than being smoothed away too early?
+
+\chapter{Resolution}
+\chapterprompt{Write the final statement that survives the journey of the manuscript. Keep it clear enough to guide revision later.}
+
+Use the closing chapter to show what has changed and what remains.
+
+\section{Last page test}
+
+If the reader remembers only one paragraph, what should it be?
+
+\appendix
+
+\chapter{Working notes}
+
+\begin{notebox}
+\textbf{Use this appendix as a live workshop}\par
+Store chapter fragments, quotations, title variants, structural sketches, source trails, and alternate endings here until they find a better home in the manuscript.
+\end{notebox}
+
+\begin{itemize}
+  \item Quotes to revisit
+  \item Sources to collect
+  \item Chapter fragments
+  \item Structural ideas
+  \item Discarded passages worth preserving
+\end{itemize}
+
+\end{document}
