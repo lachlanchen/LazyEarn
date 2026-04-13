@@ -1,0 +1,6152 @@
+1
+00:00:01,000 --> 00:00:04,680
+Today's lecture is on central banks.
+
+2
+00:00:04,680 --> 00:00:09,720
+We already had a few lectures ago about banks.
+
+3
+00:00:09,720 --> 00:00:11,360
+So what are central banks?
+
+4
+00:00:11,360 --> 00:00:16,480
+Well, today they're very special government banks that
+
+5
+00:00:16,480 --> 00:00:20,640
+are responsible for the currency, the money.
+
+6
+00:00:20,640 --> 00:00:22,760
+And so every country in the
+
+7
+00:00:22,760 --> 00:00:24,880
+world has a paper money that
+
+8
+00:00:24,880 --> 00:00:29,900
+has the name of their central bank on it.
+
+9
+00:00:29,900 --> 00:00:31,920
+But I wanted to take the,
+
+10
+00:00:31,920 --> 00:00:33,940
+as you know, I like to understand
+
+11
+00:00:33,940 --> 00:00:35,570
+origins of things, and I wanted
+
+12
+00:00:35,570 --> 00:00:37,200
+to take it back to the
+
+13
+00:00:37,200 --> 00:00:42,040
+beginnings of central banking, so we'll understand better
+
+14
+00:00:42,040 --> 00:00:45,480
+what the institution is.
+
+15
+00:00:45,480 --> 00:00:47,160
+And I wanted to bring up
+
+16
+00:00:47,160 --> 00:00:48,840
+first the theme of this course,
+
+17
+00:00:48,840 --> 00:00:54,440
+which is that financial innovation or invention is an
+
+18
+00:00:54,440 --> 00:00:54,840
+important thing.
+
+19
+00:00:54,840 --> 00:00:54,879
+It's a very important thing.
+
+20
+00:00:54,880 --> 00:01:00,160
+It's a very important process that is not unlike
+
+21
+00:01:00,160 --> 00:01:02,520
+engineering invention.
+
+22
+00:01:02,520 --> 00:01:04,200
+When somebody gets an idea and
+
+23
+00:01:04,200 --> 00:01:05,880
+it's proven to work, it gets
+
+24
+00:01:05,880 --> 00:01:07,820
+copied all over the world.
+
+25
+00:01:07,820 --> 00:01:11,880
+That's the way the human species is.
+
+26
+00:01:11,880 --> 00:01:13,000
+We all have the same kind
+
+27
+00:01:13,000 --> 00:01:14,120
+of cars, we all have the same
+
+28
+00:01:14,120 --> 00:01:15,440
+kind of airplanes.
+
+29
+00:01:15,440 --> 00:01:15,940
+Why?
+
+30
+00:01:15,940 --> 00:01:19,220
+Not because we're copycats, but because someone has figured
+
+31
+00:01:19,220 --> 00:01:20,880
+out something that works.
+
+32
+00:01:20,880 --> 00:01:23,040
+And of course, everyone copies it.
+
+33
+00:01:23,040 --> 00:01:23,940
+And I think the same
+
+34
+00:01:23,940 --> 00:01:24,840
+thing is true with central banks.
+
+35
+00:01:24,840 --> 00:01:26,840
+They're not just a little piece of paper.
+
+36
+00:01:26,840 --> 00:01:28,840
+They're a little piece of paper.
+
+37
+00:01:28,840 --> 00:01:30,340
+So, I wanted to get to
+
+38
+00:01:30,340 --> 00:01:31,840
+the history of central banks and
+
+39
+00:01:31,840 --> 00:01:34,840
+to go back first to the first central bank.
+
+40
+00:01:34,840 --> 00:01:36,340
+Then I'll bring it all the
+
+41
+00:01:36,340 --> 00:01:37,840
+way up to the modern times, where
+
+42
+00:01:37,840 --> 00:01:42,840
+the recent financial crisis, the actions during the crisis,
+
+43
+00:01:42,840 --> 00:01:46,840
+the actions of the world's central banks, was extremely
+
+44
+00:01:46,840 --> 00:01:50,840
+important in preventing what might have been another Great
+
+45
+00:01:50,840 --> 00:01:52,840
+Depression.
+
+46
+00:01:52,840 --> 00:01:54,800
+So, these institutions have become a fundamental
+
+47
+00:01:54,800 --> 00:01:56,800
+part of the world's central banks.
+
+48
+00:01:56,800 --> 00:01:58,800
+And they're not just a little piece of paper.
+
+49
+00:01:58,800 --> 00:02:00,800
+They're a whole bunch of little pieces of paper.
+
+50
+00:02:00,800 --> 00:02:01,800
+So, we're going to go
+
+51
+00:02:01,800 --> 00:02:02,800
+back to the central banks and
+
+52
+00:02:02,800 --> 00:02:04,800
+the central banks and the central banks.
+
+53
+00:02:04,800 --> 00:02:06,800
+And I'll show you some of the most important things
+
+54
+00:02:06,800 --> 00:02:08,800
+that we can learn in the future.
+
+55
+00:02:08,800 --> 00:02:10,300
+So, remember the story I
+
+56
+00:02:10,300 --> 00:02:11,800
+told you in our banking lecture
+
+57
+00:02:11,800 --> 00:02:14,800
+about how banks got started in the UK.
+
+58
+00:02:14,800 --> 00:02:17,800
+They'd already been seen earlier in other places, but
+
+59
+00:02:17,800 --> 00:02:20,800
+the really modern banking institution is traced to the
+
+60
+00:02:20,800 --> 00:02:22,800
+goldsmith bankers.
+
+61
+00:02:22,800 --> 00:02:25,800
+So, you'd go to the goldsmith's closet at the
+
+62
+00:02:25,800 --> 00:02:28,800
+goldsmith banker, and the goldsmith banker would give
+
+63
+00:02:28,800 --> 00:02:31,800
+you a little piece of paper indicating that you could
+
+64
+00:02:31,800 --> 00:02:35,800
+anytime come back to the goldsmith and claim this
+
+65
+00:02:35,800 --> 00:02:36,800
+amount of gold.
+
+66
+00:02:36,800 --> 00:02:40,800
+And then the pieces of paper started circulating as paper
+
+67
+00:02:40,800 --> 00:02:41,800
+money.
+
+68
+00:02:41,800 --> 00:02:43,800
+And that's how it all started.
+
+69
+00:02:43,800 --> 00:02:45,800
+Unregulated, nothing to do with the government.
+
+70
+00:02:45,800 --> 00:02:48,800
+It was just private businesses.
+
+71
+00:02:48,800 --> 00:02:49,800
+And that system, paper money backed
+
+72
+00:02:49,800 --> 00:02:50,800
+by gold, was a kind of
+
+73
+00:02:50,800 --> 00:02:51,800
+a system that was a little
+
+74
+00:02:51,800 --> 00:02:52,800
+bit more complex than the gold
+
+75
+00:02:52,800 --> 00:02:53,800
+smith bankers.
+
+76
+00:02:53,800 --> 00:02:56,800
+And it lasted until the 1970s.
+
+77
+00:02:56,800 --> 00:02:57,800
+Amazing.
+
+78
+00:02:57,800 --> 00:02:58,800
+Well, it wasn't always gold.
+
+79
+00:02:58,800 --> 00:02:59,800
+It was bimetallic.
+
+80
+00:02:59,800 --> 00:03:03,800
+There would be gold and silver, or all silver.
+
+81
+00:03:03,800 --> 00:03:04,800
+It's a long story.
+
+82
+00:03:04,800 --> 00:03:07,800
+But we were effectively on the
+
+83
+00:03:07,800 --> 00:03:10,800
+gold standard until just a few
+
+84
+00:03:10,800 --> 00:03:13,800
+decades ago.
+
+85
+00:03:13,800 --> 00:03:16,800
+But there were problems right from the beginning.
+
+86
+00:03:16,800 --> 00:03:19,800
+And the problem was that sometimes the goldsmith
+
+87
+00:03:19,800 --> 00:03:22,800
+bankers wouldn't make good on their pledge to redeem and
+
+88
+00:03:22,800 --> 00:03:23,800
+claim the gold.
+
+89
+00:03:23,800 --> 00:03:25,300
+You'd come with your piece
+
+90
+00:03:25,300 --> 00:03:26,800
+of paper, and they'd say, I've
+
+91
+00:03:26,800 --> 00:03:27,800
+gotten too many requests.
+
+92
+00:03:27,800 --> 00:03:29,800
+I don't have any gold anymore.
+
+93
+00:03:29,800 --> 00:03:33,800
+So, that was the problem.
+
+94
+00:03:33,800 --> 00:03:37,800
+So, I wanted to start with
+
+95
+00:03:37,800 --> 00:03:41,800
+the Bank of England, which was
+
+96
+00:03:41,800 --> 00:03:49,800
+founded in 1694.
+
+97
+00:03:49,800 --> 00:03:50,800
+And it was just a bank.
+
+98
+00:03:50,800 --> 00:03:52,800
+But it had a special charter.
+
+99
+00:03:52,800 --> 00:03:55,300
+It was a bank that was
+
+100
+00:03:55,300 --> 00:03:57,800
+a monopoly on joint stock banking
+
+101
+00:03:57,800 --> 00:04:02,800
+from the British government that gave it a monopoly on
+
+102
+00:04:02,800 --> 00:04:05,800
+joint stock banking to start with.
+
+103
+00:04:05,800 --> 00:04:07,300
+It would be the only bank
+
+104
+00:04:07,300 --> 00:04:08,800
+in the United Kingdom that was
+
+105
+00:04:08,800 --> 00:04:10,800
+allowed to issue shares and
+
+106
+00:04:10,800 --> 00:04:12,800
+sell shares to a large number
+
+107
+00:04:12,800 --> 00:04:13,800
+of people.
+
+108
+00:04:13,800 --> 00:04:16,800
+There were other banks, but they were partnerships, and it
+
+109
+00:04:16,800 --> 00:04:19,800
+had only a limited number of partners.
+
+110
+00:04:19,800 --> 00:04:21,800
+So, they didn't get as big.
+
+111
+00:04:21,800 --> 00:04:23,800
+They had only a small number of people.
+
+112
+00:04:23,800 --> 00:04:25,800
+So, they were a very, very big bank.
+
+113
+00:04:25,800 --> 00:04:26,800
+And they had a lot of money.
+
+114
+00:04:26,800 --> 00:04:27,800
+They had a lot of money.
+
+115
+00:04:27,800 --> 00:04:28,800
+They had a lot of money.
+
+116
+00:04:28,800 --> 00:04:29,800
+And the Bank of England, which
+
+117
+00:04:29,800 --> 00:04:30,800
+was the only bank in the
+
+118
+00:04:30,800 --> 00:04:33,800
+United Kingdom, started a practice.
+
+119
+00:04:33,800 --> 00:04:38,800
+And this is very important, historically.
+
+120
+00:04:38,800 --> 00:04:40,300
+It realized it had a lot
+
+121
+00:04:40,300 --> 00:04:41,800
+of power, because it was the
+
+122
+00:04:41,800 --> 00:04:44,800
+gorilla bank, and there were a lot of little banks.
+
+123
+00:04:44,800 --> 00:04:45,800
+And they realized soon that
+
+124
+00:04:45,800 --> 00:04:46,800
+they could put any bank they
+
+125
+00:04:46,800 --> 00:04:49,800
+wanted out of business, whenever they felt like it.
+
+126
+00:04:49,800 --> 00:04:50,800
+How?
+
+127
+00:04:50,800 --> 00:04:52,800
+They could just present them all for payment.
+
+128
+00:04:52,800 --> 00:04:54,800
+And no bank could withstand that.
+
+129
+00:04:54,800 --> 00:04:57,800
+They didn't have enough gold on hand.
+
+130
+00:04:57,800 --> 00:04:59,800
+So, they could drive any bank to bankruptcy.
+
+131
+00:04:59,800 --> 00:05:01,300
+But the Bank of England
+
+132
+00:05:01,300 --> 00:05:02,800
+began to assume its role as
+
+133
+00:05:02,800 --> 00:05:05,800
+essentially a government bank, without being officially
+
+134
+00:05:05,800 --> 00:05:08,800
+government, by using a let's
+
+135
+00:05:08,800 --> 00:05:11,800
+live and let live policy under
+
+136
+00:05:11,800 --> 00:05:12,800
+one condition.
+
+137
+00:05:12,800 --> 00:05:14,800
+If you are another bank in the
+
+138
+00:05:14,800 --> 00:05:16,800
+UK, you have to keep a deposit
+
+139
+00:05:16,800 --> 00:05:17,800
+with us.
+
+140
+00:05:17,800 --> 00:05:18,800
+Okay?
+
+141
+00:05:18,800 --> 00:05:20,800
+And the Bank of England would tell you,
+
+142
+00:05:20,800 --> 00:05:21,800
+how much.
+
+143
+00:05:21,800 --> 00:05:23,800
+If you didn't do that, you could be destroyed.
+
+144
+00:05:23,800 --> 00:05:25,800
+But that created a stability
+
+145
+00:05:25,800 --> 00:05:27,800
+to the system, because the Bank
+
+146
+00:05:27,800 --> 00:05:29,300
+of England had money to
+
+147
+00:05:29,300 --> 00:05:30,800
+bail them out whenever they, you
+
+148
+00:05:30,800 --> 00:05:32,800
+know, they had a deposit with the Bank of England.
+
+149
+00:05:32,800 --> 00:05:35,800
+The Bank of England required that.
+
+150
+00:05:35,800 --> 00:05:37,300
+And so, whenever a bank got
+
+151
+00:05:37,300 --> 00:05:38,800
+in trouble, they could always take
+
+152
+00:05:38,800 --> 00:05:41,800
+their money out of the Bank of England.
+
+153
+00:05:41,800 --> 00:05:42,800
+So, the Bank of England
+
+154
+00:05:42,800 --> 00:05:43,800
+then would help these banks in
+
+155
+00:05:43,800 --> 00:05:46,800
+return for their keeping a deposit, sometimes even lend
+
+156
+00:05:46,800 --> 00:05:48,800
+more money to them.
+
+157
+00:05:48,800 --> 00:05:53,800
+So, that created a stable banking system over the centuries.
+
+158
+00:05:53,800 --> 00:05:55,800
+So, that was the model for all
+
+159
+00:05:55,800 --> 00:05:57,800
+of the central banks of the world.
+
+160
+00:05:57,800 --> 00:06:00,800
+They're all copies of the Bank of England.
+
+161
+00:06:00,800 --> 00:06:02,800
+The Bank of England, by
+
+162
+00:06:02,800 --> 00:06:04,800
+the way, was not an independent.
+
+163
+00:06:04,800 --> 00:06:05,800
+It became a government bank.
+
+164
+00:06:05,800 --> 00:06:07,800
+I don't know the whole
+
+165
+00:06:07,800 --> 00:06:09,800
+history, but it wasn't really independent
+
+166
+00:06:09,800 --> 00:06:12,300
+of the government until 1997,
+
+167
+00:06:12,300 --> 00:06:14,800
+when the United Kingdom made it
+
+168
+00:06:14,800 --> 00:06:16,800
+formally independent.
+
+169
+00:06:16,800 --> 00:06:17,800
+But nonetheless, it was a bank.
+
+170
+00:06:17,800 --> 00:06:21,800
+But nonetheless, it was a model for central banking.
+
+171
+00:06:21,800 --> 00:06:27,800
+And it was observed over much of the world.
+
+172
+00:06:27,800 --> 00:06:30,300
+Notably, in the United States,
+
+173
+00:06:30,300 --> 00:06:32,800
+there was a bank called the
+
+174
+00:06:32,800 --> 00:06:35,800
+Suffolk Bank.
+
+175
+00:06:35,800 --> 00:06:37,800
+This is much later.
+
+176
+00:06:37,800 --> 00:06:44,800
+It was founded in 1819 in Boston.
+
+177
+00:06:44,800 --> 00:06:45,800
+And it was a private bank.
+
+178
+00:06:45,800 --> 00:06:47,800
+And on its own, it just decided to do the
+
+179
+00:06:47,800 --> 00:06:50,800
+same thing that the Bank of England did.
+
+180
+00:06:50,800 --> 00:06:52,300
+It required that all of
+
+181
+00:06:52,300 --> 00:06:53,800
+the New England banks kept a
+
+182
+00:06:53,800 --> 00:06:55,800
+deposit with it.
+
+183
+00:06:55,800 --> 00:06:56,800
+And it did the same thing.
+
+184
+00:06:56,800 --> 00:07:00,800
+And it stabilized New England from bank runs.
+
+185
+00:07:00,800 --> 00:07:09,800
+And it lasted, the Suffolk system lasted until 1860.
+
+186
+00:07:09,800 --> 00:07:15,800
+So, you can see how central banks' inventions of people,
+
+187
+00:07:15,800 --> 00:07:17,800
+they weren't government inventions at all.
+
+188
+00:07:17,800 --> 00:07:19,800
+The Suffolk Bank just did this.
+
+189
+00:07:19,800 --> 00:07:21,800
+It became a big and influential bank.
+
+190
+00:07:21,800 --> 00:07:24,800
+And the United States in the
+
+191
+00:07:24,800 --> 00:07:27,800
+early, the first half of the
+
+192
+00:07:27,800 --> 00:07:31,800
+19th century, had repeated banking crises.
+
+193
+00:07:31,800 --> 00:07:34,800
+And there were repeated problems with the currency.
+
+194
+00:07:34,800 --> 00:07:37,300
+It used to be that if you
+
+195
+00:07:37,300 --> 00:07:39,800
+went to a store, and you wanted to
+
+196
+00:07:39,800 --> 00:07:42,800
+buy something, they'd say, let's see your money.
+
+197
+00:07:42,800 --> 00:07:43,800
+You'd take out all of your
+
+198
+00:07:43,800 --> 00:07:44,800
+money, you'd lay it down, and
+
+199
+00:07:44,800 --> 00:07:45,800
+they'd look at it.
+
+200
+00:07:45,800 --> 00:07:46,800
+And they'd say, well, this is
+
+201
+00:07:46,800 --> 00:07:47,800
+Boston money, this is New Haven
+
+202
+00:07:47,800 --> 00:07:50,800
+money, this is Hartford money.
+
+203
+00:07:50,800 --> 00:07:52,300
+And they would pull out a
+
+204
+00:07:52,300 --> 00:07:53,800
+book called The Bank Note Reporter.
+
+205
+00:07:53,800 --> 00:07:55,300
+And they'd say, well, our
+
+206
+00:07:55,300 --> 00:07:56,800
+money dealers are now doing a
+
+207
+00:07:56,800 --> 00:07:58,800
+20% discount on Hartford money.
+
+208
+00:07:58,800 --> 00:07:59,800
+So, I'll give you 80 cents
+
+209
+00:07:59,800 --> 00:08:00,800
+on the dollar for the Hartford
+
+210
+00:08:00,800 --> 00:08:01,800
+money.
+
+211
+00:08:01,800 --> 00:08:04,800
+Boston money, we're down 30% on that.
+
+212
+00:08:04,800 --> 00:08:08,800
+What a messy system.
+
+213
+00:08:08,800 --> 00:08:10,800
+I shouldn't mention Boston, because Boston had a good
+
+214
+00:08:10,800 --> 00:08:13,800
+record because of the Suffolk Bank.
+
+215
+00:08:13,800 --> 00:08:14,800
+So, that's it.
+
+216
+00:08:14,800 --> 00:08:17,800
+It was worse in other states.
+
+217
+00:08:17,800 --> 00:08:19,800
+Further, you got from Boston.
+
+218
+00:08:19,800 --> 00:08:23,300
+So, the Suffolk Bank became held
+
+219
+00:08:23,300 --> 00:08:26,800
+up as a model of a banking
+
+220
+00:08:26,800 --> 00:08:27,800
+system.
+
+221
+00:08:27,800 --> 00:08:29,800
+But the U.S. also had two banks.
+
+222
+00:08:29,800 --> 00:08:31,800
+One called the Bank of the United States, which was
+
+223
+00:08:31,800 --> 00:08:34,299
+founded in, I'm forgetting the
+
+224
+00:08:34,299 --> 00:08:36,799
+year, it's not in my notes.
+
+225
+00:08:36,799 --> 00:08:37,799
+Anyone tell me, when was
+
+226
+00:08:37,799 --> 00:08:38,799
+the Bank of the United States
+
+227
+00:08:38,799 --> 00:08:39,799
+founded?
+
+228
+00:08:39,799 --> 00:08:43,799
+1789, I think.
+
+229
+00:08:44,800 --> 00:08:45,800
+And then we had a
+
+230
+00:08:45,800 --> 00:08:46,800
+second Bank of the United States.
+
+231
+00:08:46,800 --> 00:08:48,800
+But they weren't really functioning like the Bank of
+
+232
+00:08:48,800 --> 00:08:50,800
+England.
+
+233
+00:08:50,800 --> 00:08:53,800
+They were maybe somewhat like
+
+234
+00:08:53,800 --> 00:08:56,800
+them, but the banks of the
+
+235
+00:08:56,800 --> 00:09:00,800
+United States were not really central banks, and they were
+
+236
+00:09:00,800 --> 00:09:01,800
+not renewed.
+
+237
+00:09:01,800 --> 00:09:04,800
+They disappeared in 1836.
+
+238
+00:09:04,800 --> 00:09:06,800
+But the big movement in the
+
+239
+00:09:06,800 --> 00:09:08,800
+United States, there was a lot
+
+240
+00:09:08,800 --> 00:09:11,800
+of, because the United States didn't want the government
+
+241
+00:09:11,800 --> 00:09:13,800
+involved in private business.
+
+242
+00:09:13,800 --> 00:09:15,300
+So, they were reluctant to set
+
+243
+00:09:15,300 --> 00:09:16,800
+up a central bank for a long
+
+244
+00:09:16,800 --> 00:09:18,800
+time.
+
+245
+00:09:18,800 --> 00:09:31,800
+In 1863, the U.S. passed the National Banking Act.
+
+246
+00:09:31,800 --> 00:09:36,800
+Actually, there was a revision of it in 1864.
+
+247
+00:09:36,800 --> 00:09:38,800
+And they tried to get some
+
+248
+00:09:38,800 --> 00:09:40,800
+of the advantages of these central
+
+249
+00:09:40,800 --> 00:09:43,800
+banks without actually founding one.
+
+250
+00:09:43,800 --> 00:09:45,300
+And what they did then, is
+
+251
+00:09:45,300 --> 00:09:46,800
+they said, there's a new kind
+
+252
+00:09:46,800 --> 00:09:48,800
+of bank called a national bank.
+
+253
+00:09:48,800 --> 00:09:51,300
+And the national bank would
+
+254
+00:09:51,300 --> 00:09:53,800
+have a name, like the First
+
+255
+00:09:53,800 --> 00:09:55,800
+National Bank of New Haven.
+
+256
+00:09:55,800 --> 00:09:57,800
+Every city created a bank
+
+257
+00:09:57,800 --> 00:09:59,800
+in 1863, which was called the
+
+258
+00:09:59,800 --> 00:10:02,800
+First National Bank of something.
+
+259
+00:10:02,800 --> 00:10:08,800
+And the government required that they keep on deposit with
+
+260
+00:10:08,800 --> 00:10:12,800
+the treasury capital to back their currency.
+
+261
+00:10:12,800 --> 00:10:16,800
+So, they were called national bank notes, that were issued
+
+262
+00:10:16,800 --> 00:10:19,800
+by the banks, printed by the government.
+
+263
+00:10:19,800 --> 00:10:20,800
+And they all looked the
+
+264
+00:10:20,800 --> 00:10:21,800
+same, except they had a different
+
+265
+00:10:21,800 --> 00:10:24,800
+name of the different bank on them.
+
+266
+00:10:24,800 --> 00:10:27,800
+And they had capital requirements.
+
+267
+00:10:27,800 --> 00:10:30,800
+So, the banks had to put deposits with the treasury
+
+268
+00:10:30,800 --> 00:10:32,800
+backing their currency.
+
+269
+00:10:32,800 --> 00:10:39,800
+And that was a success.
+
+270
+00:10:39,800 --> 00:10:41,800
+The United States never again had a national bank.
+
+271
+00:10:41,800 --> 00:10:43,300
+The United States never again
+
+272
+00:10:43,300 --> 00:10:44,800
+had a problem with its paper
+
+273
+00:10:44,800 --> 00:10:48,800
+money.
+
+274
+00:10:48,800 --> 00:10:51,800
+There was never a problem of discounts anymore.
+
+275
+00:10:51,800 --> 00:10:54,800
+All the national banks would honor each other's notes at
+
+276
+00:10:54,800 --> 00:10:56,800
+par.
+
+277
+00:10:56,800 --> 00:10:58,300
+And so, that's when the United
+
+278
+00:10:58,300 --> 00:10:59,800
+States had a paper money for
+
+279
+00:10:59,800 --> 00:11:02,800
+the first time.
+
+280
+00:11:02,800 --> 00:11:10,800
+But it didn't create a system of stable currency.
+
+281
+00:11:11,800 --> 00:11:14,800
+There were still banking crises, but they had a
+
+282
+00:11:14,800 --> 00:11:16,800
+different form.
+
+283
+00:11:16,800 --> 00:11:18,800
+It wasn't a failure of the bank notes.
+
+284
+00:11:18,800 --> 00:11:22,800
+We fixed the bank note problem in 1863.
+
+285
+00:11:22,800 --> 00:11:26,800
+But the problem was, there were still runs on banks.
+
+286
+00:11:26,800 --> 00:11:29,800
+And there were still credit expansions and contractions
+
+287
+00:11:29,800 --> 00:11:34,800
+that led eventually to people in the United States thinking,
+
+288
+00:11:34,800 --> 00:11:36,800
+we've got to eventually copy the
+
+289
+00:11:36,800 --> 00:11:38,800
+Bank of England and do the
+
+290
+00:11:38,800 --> 00:11:40,800
+same thing here.
+
+291
+00:11:41,800 --> 00:11:44,300
+And so, there was a
+
+292
+00:11:44,300 --> 00:11:46,800
+terrible banking crisis in 1893, for
+
+293
+00:11:46,800 --> 00:11:48,800
+example, when everybody thought the
+
+294
+00:11:48,800 --> 00:11:50,800
+banks were going to fail.
+
+295
+00:11:50,800 --> 00:11:52,800
+Somehow, they didn't worry about the currency.
+
+296
+00:11:52,800 --> 00:11:55,800
+The national bank notes were thought to be perfectly safe.
+
+297
+00:11:55,800 --> 00:11:56,800
+But they thought the banks weren't
+
+298
+00:11:56,800 --> 00:11:57,800
+safe, and so there was a
+
+299
+00:11:57,800 --> 00:11:58,800
+crisis.
+
+300
+00:11:58,800 --> 00:12:02,800
+And it led to the Depression of the 1890s.
+
+301
+00:12:02,800 --> 00:12:05,800
+And then there was another one
+
+302
+00:12:05,800 --> 00:12:08,800
+in 1907 that was really bad.
+
+303
+00:12:08,800 --> 00:12:10,800
+And so, people wanted to fix somehow the system.
+
+304
+00:12:10,800 --> 00:12:13,800
+And so, that led to
+
+305
+00:12:13,800 --> 00:12:16,800
+our current system, which has been
+
+306
+00:12:16,800 --> 00:12:18,800
+around almost 100 years.
+
+307
+00:12:18,800 --> 00:12:20,300
+And I call it a copy of
+
+308
+00:12:20,300 --> 00:12:21,800
+the Bank of England, but it might
+
+309
+00:12:21,800 --> 00:12:24,800
+not be described that way by everyone.
+
+310
+00:12:24,800 --> 00:12:26,800
+And it's called the Federal Reserve System.
+
+311
+00:12:34,800 --> 00:12:35,800
+All right.
+
+312
+00:12:35,800 --> 00:12:38,300
+And that was created by
+
+313
+00:12:38,300 --> 00:12:40,800
+an act of Congress in 1913.
+
+314
+00:12:40,800 --> 00:12:43,800
+And it opened its doors in 1914.
+
+315
+00:12:43,800 --> 00:12:46,800
+But the U.S., again, we always feel that we're different.
+
+316
+00:12:46,800 --> 00:12:48,800
+We have to make it look different.
+
+317
+00:12:48,800 --> 00:12:50,800
+We can't just copy the Bank of England.
+
+318
+00:12:50,800 --> 00:12:52,800
+We've got to do something different.
+
+319
+00:12:52,800 --> 00:12:54,800
+So, they said, why don't we create 12 banks?
+
+320
+00:12:54,800 --> 00:12:56,800
+That sounds more American.
+
+321
+00:12:56,800 --> 00:12:58,800
+And have them all over the country.
+
+322
+00:12:58,800 --> 00:13:00,800
+And so, we didn't create a central bank.
+
+323
+00:13:00,800 --> 00:13:04,800
+We have a banking system with 12 Federal Reserve banks.
+
+324
+00:13:04,800 --> 00:13:06,800
+But, of course, they decided to
+
+325
+00:13:06,800 --> 00:13:08,800
+have a headquarters in Washington, D.C.,
+
+326
+00:13:08,800 --> 00:13:10,800
+called the Federal Reserve Bank.
+
+327
+00:13:10,800 --> 00:13:13,300
+And the Federal Reserve Bank is
+
+328
+00:13:13,300 --> 00:13:15,800
+a board, OK, or the board of
+
+329
+00:13:15,800 --> 00:13:21,800
+governors of the Federal Reserve System is an agency in
+
+330
+00:13:21,800 --> 00:13:28,800
+Washington that oversees the 12 regional banks.
+
+331
+00:13:28,800 --> 00:13:30,300
+Do you know what region,
+
+332
+00:13:30,300 --> 00:13:31,800
+which, the country is divided up.
+
+333
+00:13:31,800 --> 00:13:33,800
+What region are we in?
+
+334
+00:13:33,800 --> 00:13:34,800
+It's Boston.
+
+335
+00:13:34,800 --> 00:13:36,800
+This is the Boston region.
+
+336
+00:13:36,800 --> 00:13:37,800
+So, most of the money
+
+337
+00:13:37,800 --> 00:13:38,800
+in your pocket is Boston money.
+
+338
+00:13:38,800 --> 00:13:39,800
+It only says so now.
+
+339
+00:13:39,800 --> 00:13:41,300
+It only says so now
+
+340
+00:13:41,300 --> 00:13:42,800
+on the $1 bills, I think.
+
+341
+00:13:42,800 --> 00:13:44,300
+But you can look and
+
+342
+00:13:44,300 --> 00:13:45,800
+see whether, where your money came
+
+343
+00:13:45,800 --> 00:13:51,800
+from, which of the 12 banks are your currency.
+
+344
+00:13:51,800 --> 00:13:56,300
+But the Federal Reserve System,
+
+345
+00:13:56,300 --> 00:14:00,800
+as founded in 1913, required,
+
+346
+00:14:00,800 --> 00:14:03,800
+just like the Bank of
+
+347
+00:14:03,800 --> 00:14:06,800
+England, that banks have deposits, or
+
+348
+00:14:06,800 --> 00:14:08,800
+either currency in their vault, or deposits.
+
+349
+00:14:08,800 --> 00:14:17,800
+With their Federal Reserve Bank to back up their currency.
+
+350
+00:14:17,800 --> 00:14:19,300
+And once again, if they
+
+351
+00:14:19,300 --> 00:14:20,800
+got into trouble, they could draw
+
+352
+00:14:20,800 --> 00:14:24,800
+on their deposits with the Federal Reserve.
+
+353
+00:14:24,800 --> 00:14:28,800
+Or, even beyond that, the Federal Reserve could come to
+
+354
+00:14:28,800 --> 00:14:29,800
+their rescue.
+
+355
+00:14:29,800 --> 00:14:30,800
+They've been good banks.
+
+356
+00:14:30,800 --> 00:14:33,800
+They've kept their deposits, just like under the
+
+357
+00:14:33,800 --> 00:14:34,800
+Suffolk system.
+
+358
+00:14:34,800 --> 00:14:37,800
+They've kept their deposits with the Federal Reserve.
+
+359
+00:14:37,800 --> 00:14:39,300
+And so, the Federal Reserve was
+
+360
+00:14:39,300 --> 00:14:40,800
+going to help them a little
+
+361
+00:14:40,800 --> 00:14:41,800
+bit more.
+
+362
+00:14:41,800 --> 00:14:44,800
+And so, it became known
+
+363
+00:14:44,800 --> 00:14:47,800
+as the Lender of Last Resort.
+
+364
+00:14:47,800 --> 00:15:03,800
+And the system also operated something called the Discount
+
+365
+00:15:03,800 --> 00:15:04,800
+Window.
+
+366
+00:15:07,800 --> 00:15:10,800
+And it was a little bit more complicated than that.
+
+367
+00:15:10,800 --> 00:15:13,800
+But it was a little bit more complicated than that.
+
+368
+00:15:13,800 --> 00:15:15,800
+Why do they call it a window?
+
+369
+00:15:15,800 --> 00:15:19,800
+You people never go into a bank anymore, right?
+
+370
+00:15:19,800 --> 00:15:21,800
+Do you go into banks?
+
+371
+00:15:21,800 --> 00:15:24,800
+Remember, they used to have a teller.
+
+372
+00:15:24,800 --> 00:15:26,800
+And the teller would be sitting
+
+373
+00:15:26,800 --> 00:15:28,800
+at a sort of a table, and
+
+374
+00:15:28,800 --> 00:15:30,800
+there was a little something.
+
+375
+00:15:30,800 --> 00:15:32,800
+He's talking to you through a window.
+
+376
+00:15:32,800 --> 00:15:33,800
+I guess they wanted to
+
+377
+00:15:33,800 --> 00:15:34,800
+keep you separate from the money.
+
+378
+00:15:34,800 --> 00:15:35,800
+So, there was a window where
+
+379
+00:15:35,800 --> 00:15:36,800
+a teller would talk to you.
+
+380
+00:15:37,800 --> 00:15:39,300
+And the teller would tell
+
+381
+00:15:39,300 --> 00:15:40,800
+you, well, the discount window was
+
+382
+00:15:40,800 --> 00:15:43,800
+a special window at the Federal
+
+383
+00:15:43,800 --> 00:15:46,800
+Reserve Bank for banks to come.
+
+384
+00:15:46,800 --> 00:15:48,800
+Just like every, this is the metaphor anyway.
+
+385
+00:15:48,800 --> 00:15:50,800
+I don't know if they ever had such a window.
+
+386
+00:15:50,800 --> 00:15:52,800
+And so, the bank that was
+
+387
+00:15:52,800 --> 00:15:54,800
+in trouble could go to the
+
+388
+00:15:54,800 --> 00:15:58,800
+discount window and it has to bring something, though.
+
+389
+00:15:58,800 --> 00:16:02,800
+They have to bring some securities as collateral.
+
+390
+00:16:02,800 --> 00:16:07,800
+And so, the teller behind the discount window would discount
+
+391
+00:16:07,800 --> 00:16:12,800
+the collateral brought by the bank and lend money.
+
+392
+00:16:12,800 --> 00:16:15,800
+So, it's called a discount window because you couldn't
+
+393
+00:16:15,800 --> 00:16:16,800
+just borrow money.
+
+394
+00:16:16,800 --> 00:16:18,800
+You had to bring some
+
+395
+00:16:18,800 --> 00:16:20,800
+asset as collateral for the loan.
+
+396
+00:16:20,800 --> 00:16:29,800
+And so, in 1913, when the Federal Reserve was founded,
+
+397
+00:16:29,800 --> 00:16:33,800
+President Wilson, who was president, who signed the bill,
+
+398
+00:16:33,800 --> 00:16:35,800
+was almost ecstatic.
+
+399
+00:16:35,800 --> 00:16:36,800
+I have a quote from that.
+
+400
+00:16:36,800 --> 00:16:39,800
+I don't remember exactly, but something like, we have put
+
+401
+00:16:39,800 --> 00:16:41,800
+banking crises behind us forever.
+
+402
+00:16:41,800 --> 00:16:44,800
+And this will lead to a
+
+403
+00:16:44,800 --> 00:16:47,800
+system of prosperity and I can't think
+
+404
+00:16:47,800 --> 00:16:50,800
+of all the nice words he used.
+
+405
+00:16:50,800 --> 00:16:53,300
+People thought that now that
+
+406
+00:16:53,300 --> 00:16:55,800
+we have adopted the British system,
+
+407
+00:16:55,800 --> 00:16:59,800
+it ought to be smooth and just like in Britain.
+
+408
+00:16:59,800 --> 00:17:05,800
+There shouldn't be a problem anymore.
+
+409
+00:17:05,800 --> 00:17:08,800
+And so, we still live with that system today.
+
+410
+00:17:08,800 --> 00:17:10,800
+I think Wilson was right.
+
+411
+00:17:10,800 --> 00:17:12,800
+It was a big step forward.
+
+412
+00:17:12,800 --> 00:17:19,800
+And again, it was a copying of other people's successes.
+
+413
+00:17:19,800 --> 00:17:22,800
+Nobody knows exactly how the banking system worked.
+
+414
+00:17:22,800 --> 00:17:24,300
+There's a theory of money and
+
+415
+00:17:24,300 --> 00:17:25,800
+banking, but it has worked in
+
+416
+00:17:25,800 --> 00:17:26,800
+practice.
+
+417
+00:17:26,800 --> 00:17:32,800
+And so, central bankers start to become very important in
+
+418
+00:17:32,800 --> 00:17:33,800
+modern society.
+
+419
+00:17:33,800 --> 00:17:36,300
+Because they are really the
+
+420
+00:17:36,300 --> 00:17:38,800
+keepers of the gate, of the
+
+421
+00:17:38,800 --> 00:17:40,800
+sensible lending.
+
+422
+00:17:40,800 --> 00:17:43,800
+There is a tendency for banking
+
+423
+00:17:43,800 --> 00:17:46,800
+systems to over lend, to create
+
+424
+00:17:46,800 --> 00:17:54,800
+booms, and create a false prosperity for a while, and
+
+425
+00:17:54,800 --> 00:17:56,800
+then it crashes.
+
+426
+00:17:56,800 --> 00:17:58,800
+And we have a banking panic
+
+427
+00:17:58,800 --> 00:18:00,800
+and a recession or a depression.
+
+428
+00:18:00,800 --> 00:18:02,800
+So,
+
+429
+00:18:03,800 --> 00:18:06,300
+that means then, the banking system
+
+430
+00:18:06,300 --> 00:18:08,800
+has to be the source of
+
+431
+00:18:08,800 --> 00:18:12,800
+stability and good sense.
+
+432
+00:18:12,800 --> 00:18:14,800
+We tend to recruit as
+
+433
+00:18:14,800 --> 00:18:16,800
+central bankers, people who are moral
+
+434
+00:18:16,800 --> 00:18:21,800
+and stable in their lives.
+
+435
+00:18:21,800 --> 00:18:24,800
+One of our Federal Reserve chairs, William McChesney
+
+436
+00:18:24,800 --> 00:18:26,800
+Martin, said, summed it up very
+
+437
+00:18:26,800 --> 00:18:28,800
+nicely, the job of the central
+
+438
+00:18:28,800 --> 00:18:30,800
+banker is to take away the
+
+439
+00:18:30,800 --> 00:18:32,800
+punch bowl as soon as possible.
+
+440
+00:18:32,800 --> 00:18:34,300
+The punch bowl is to take away
+
+441
+00:18:34,300 --> 00:18:35,800
+the punch bowl as soon as the
+
+442
+00:18:35,800 --> 00:18:37,800
+party gets going.
+
+443
+00:18:37,800 --> 00:18:39,800
+It's like a parent, right?
+
+444
+00:18:39,800 --> 00:18:41,800
+Taking away, you can have one
+
+445
+00:18:41,800 --> 00:18:43,800
+drink, but we're going to stop.
+
+446
+00:18:43,800 --> 00:18:46,800
+And so, that's what the central bank.
+
+447
+00:18:46,800 --> 00:18:51,800
+The central bank controls the system through reserve
+
+448
+00:18:51,800 --> 00:18:54,800
+requirements.
+
+449
+00:18:54,800 --> 00:18:58,300
+That is, by telling the banks,
+
+450
+00:18:58,300 --> 00:19:01,800
+who are members of the system,
+
+451
+00:19:01,800 --> 00:19:03,300
+who hold the money, who are
+
+452
+00:19:03,300 --> 00:19:04,800
+the people, who hold the money,
+
+453
+00:19:04,800 --> 00:19:06,800
+who hold the money.
+
+454
+00:19:06,800 --> 00:19:08,300
+And then they have to make
+
+455
+00:19:08,300 --> 00:19:09,800
+sure that the bank is the only
+
+456
+00:19:09,800 --> 00:19:11,300
+bank that can hold in
+
+457
+00:19:11,300 --> 00:19:12,800
+reserves, which are deposits at the
+
+458
+00:19:12,800 --> 00:19:14,800
+central bank, or currency.
+
+459
+00:19:14,800 --> 00:19:16,300
+If they hold currency in
+
+460
+00:19:16,300 --> 00:19:17,800
+their vault, if it's right there,
+
+461
+00:19:17,800 --> 00:19:19,800
+then they're okay.
+
+462
+00:19:19,800 --> 00:19:22,300
+This term, reserve requirement, actually
+
+463
+00:19:22,300 --> 00:19:24,800
+goes back to before the
+
+464
+00:19:24,800 --> 00:19:26,800
+Federal Reserve, because we had
+
+465
+00:19:26,800 --> 00:19:28,800
+state, in the United States, we
+
+466
+00:19:28,800 --> 00:19:31,800
+had state banking regulators that were already imposing
+
+467
+00:19:31,800 --> 00:19:34,300
+the Federal Reserve in the 1900s
+
+468
+00:19:34,300 --> 00:19:36,800
+in the United States, during the
+
+469
+00:19:36,800 --> 00:19:38,800
+Progressive Era.
+
+470
+00:19:38,800 --> 00:19:49,800
+And so, there are also capital requirements.
+
+471
+00:19:53,800 --> 00:19:56,300
+And I'll come back to
+
+472
+00:19:56,300 --> 00:19:58,800
+making a distinction between the two.
+
+473
+00:19:58,800 --> 00:20:01,800
+Capital requirements and reserve requirements, both of
+
+474
+00:20:01,800 --> 00:20:04,800
+them, flourished around 1900,
+
+475
+00:20:04,800 --> 00:20:07,800
+even before the Federal Reserve,
+
+476
+00:20:07,800 --> 00:20:10,800
+with state banking regulators
+
+477
+00:20:10,800 --> 00:20:13,800
+who were requiring both capital
+
+478
+00:20:13,800 --> 00:20:15,800
+and reserves in the United States.
+
+479
+00:20:15,800 --> 00:20:19,800
+I don't know the history of every other country.
+
+480
+00:20:19,800 --> 00:20:21,800
+But after the Federal Reserve was
+
+481
+00:20:21,800 --> 00:20:23,800
+set up in 1913, it began to
+
+482
+00:20:23,800 --> 00:20:27,800
+take over both of these functions of setting reserve
+
+483
+00:20:27,800 --> 00:20:29,800
+requirements and setting capital requirements.
+
+484
+00:20:29,800 --> 00:20:30,800
+So, that's the Federal Reserve.
+
+485
+00:20:30,800 --> 00:20:31,800
+Thank you.
+
+486
+00:20:31,800 --> 00:20:32,800
+Thank you.
+
+487
+00:20:32,800 --> 00:20:33,800
+Thank you.
+
+488
+00:20:33,800 --> 00:20:36,800
+Let me go a little forward in history.
+
+489
+00:20:36,800 --> 00:20:38,800
+The system appeared great.
+
+490
+00:20:38,800 --> 00:20:39,800
+We had the Federal Reserve.
+
+491
+00:20:39,800 --> 00:20:41,300
+We had, now, every country of
+
+492
+00:20:41,300 --> 00:20:42,800
+the world, not just the U.S.
+
+493
+00:20:42,800 --> 00:20:44,800
+and the U.K., virtually every
+
+494
+00:20:44,800 --> 00:20:46,800
+country of the world had a
+
+495
+00:20:46,800 --> 00:20:47,800
+central bank.
+
+496
+00:20:47,800 --> 00:20:51,800
+Even communist countries, I think, had central banks.
+
+497
+00:20:51,800 --> 00:21:00,800
+But the system broke down in 1933.
+
+498
+00:21:00,800 --> 00:21:07,800
+Actually, before 1933, after 1929, banks started to fail.
+
+499
+00:21:07,800 --> 00:21:15,800
+And the Federal Reserve could have bailed out the banks.
+
+500
+00:21:15,800 --> 00:21:17,300
+In the United States, they
+
+501
+00:21:17,300 --> 00:21:18,800
+started to fail, not the United
+
+502
+00:21:18,800 --> 00:21:19,800
+Kingdom.
+
+503
+00:21:19,800 --> 00:21:24,300
+But there was a banking crisis
+
+504
+00:21:24,300 --> 00:21:28,800
+after 1929, and it reached its
+
+505
+00:21:28,800 --> 00:21:29,800
+peak in 1930.
+
+506
+00:21:29,800 --> 00:21:36,800
+And the bank was shut down in 1933.
+
+507
+00:21:36,800 --> 00:21:41,800
+So, just before President Roosevelt took office, the banks
+
+508
+00:21:41,800 --> 00:21:43,800
+were in total disarray.
+
+509
+00:21:43,800 --> 00:21:45,800
+And the first thing Roosevelt
+
+510
+00:21:45,800 --> 00:21:47,800
+did as President was to shut
+
+511
+00:21:47,800 --> 00:21:50,800
+down the entire banking system of the United States.
+
+512
+00:21:50,800 --> 00:21:53,800
+It was called the banking holiday, because everyone was
+
+513
+00:21:53,800 --> 00:21:54,800
+running to the bank.
+
+514
+00:21:54,800 --> 00:21:58,800
+It was a catastrophic bank run.
+
+515
+00:21:58,800 --> 00:22:03,800
+And it was quite a scary situation, because nobody could
+
+516
+00:22:03,800 --> 00:22:05,800
+get their money.
+
+517
+00:22:05,800 --> 00:22:08,800
+The banks were all closed, all of them.
+
+518
+00:22:08,800 --> 00:22:13,800
+And people started to run out of money.
+
+519
+00:22:13,800 --> 00:22:15,800
+I remember, was it the Harvard
+
+520
+00:22:15,800 --> 00:22:17,800
+Crimson did a poll of its
+
+521
+00:22:17,800 --> 00:22:19,300
+students, asking them, how much
+
+522
+00:22:19,300 --> 00:22:20,800
+money do you have in your
+
+523
+00:22:20,800 --> 00:22:21,800
+pocket?
+
+524
+00:22:21,800 --> 00:22:23,800
+And it got down to,
+
+525
+00:22:23,800 --> 00:22:25,800
+like, 10 cents and 5 cents.
+
+526
+00:22:25,800 --> 00:22:27,800
+They just spent all their money.
+
+527
+00:22:27,800 --> 00:22:29,800
+And they said, well, you can do.
+
+528
+00:22:29,800 --> 00:22:32,800
+I mean, how can you get lunch?
+
+529
+00:22:32,800 --> 00:22:33,800
+Well, I assume they had a cafeteria.
+
+530
+00:22:33,800 --> 00:22:35,800
+Somehow, you could still do it.
+
+531
+00:22:35,800 --> 00:22:36,800
+You couldn't go anywhere and
+
+532
+00:22:36,800 --> 00:22:37,800
+spend any money if you didn't
+
+533
+00:22:37,800 --> 00:22:40,800
+have it, because it was all tied up.
+
+534
+00:22:40,800 --> 00:22:43,300
+So, people started changing IOUs,
+
+535
+00:22:43,300 --> 00:22:45,800
+and it was just a mess.
+
+536
+00:22:45,800 --> 00:22:54,800
+So, the Federal Reserve didn't stop that crisis.
+
+537
+00:22:54,800 --> 00:22:57,800
+But the Roosevelt administration, the
+
+538
+00:22:57,800 --> 00:23:01,800
+Roosevelt administration did other things to prevent crises
+
+539
+00:23:01,800 --> 00:23:02,800
+like this.
+
+540
+00:23:02,800 --> 00:23:07,800
+Notably, set up the Federal Deposit Insurance Corporation.
+
+541
+00:23:07,800 --> 00:23:13,800
+Now, this was a, deposit insurance had preceded the
+
+542
+00:23:13,800 --> 00:23:20,800
+FDIC in 1933, but it had never been a success.
+
+543
+00:23:20,800 --> 00:23:23,800
+It had been tried in a number of places.
+
+544
+00:23:23,800 --> 00:23:27,800
+The U.S., I think, set the example for deposit insurance
+
+545
+00:23:27,800 --> 00:23:29,800
+in 1937.
+
+546
+00:23:29,800 --> 00:23:34,800
+And that began to augment central banking.
+
+547
+00:23:34,800 --> 00:23:39,800
+The U.S. had not had another banking crisis since 1933,
+
+548
+00:23:39,800 --> 00:23:45,800
+until 2007, just recently.
+
+549
+00:23:45,800 --> 00:23:47,300
+Well, I should say, there was
+
+550
+00:23:47,300 --> 00:23:48,800
+the saving and loan crisis, but
+
+551
+00:23:48,800 --> 00:23:51,800
+not a big banking crisis.
+
+552
+00:23:51,800 --> 00:23:56,800
+And that is testimony to, I think, the importance of
+
+553
+00:23:56,800 --> 00:23:58,800
+the Federal Reserve.
+
+554
+00:23:58,800 --> 00:24:01,300
+But the Federal Reserve began to
+
+555
+00:24:01,300 --> 00:24:03,800
+see its role as not so much
+
+556
+00:24:03,800 --> 00:24:05,300
+preventing banking crises, that
+
+557
+00:24:05,300 --> 00:24:06,800
+was always in the background,
+
+558
+00:24:06,800 --> 00:24:09,800
+but as stabilizing the economy.
+
+559
+00:24:09,800 --> 00:24:12,300
+And so, the Fed began to
+
+560
+00:24:12,300 --> 00:24:14,800
+think of itself as preventing the
+
+561
+00:24:14,800 --> 00:24:16,800
+recurrence of recessions.
+
+562
+00:24:16,800 --> 00:24:22,800
+So, when the economy was overheating, the inflation was
+
+563
+00:24:22,800 --> 00:24:24,800
+building up, the Fed would
+
+564
+00:24:24,800 --> 00:24:26,800
+raise interest rates, and the higher
+
+565
+00:24:26,800 --> 00:24:30,800
+interest rates would cool down the economy.
+
+566
+00:24:30,800 --> 00:24:34,800
+And when the economy got too soft, when the unemployment
+
+567
+00:24:34,800 --> 00:24:38,300
+rate went up, the Fed would
+
+568
+00:24:38,300 --> 00:24:41,800
+cut interest rates, and that would
+
+569
+00:24:41,800 --> 00:24:45,300
+encourage borrowing, encourage spending,
+
+570
+00:24:45,300 --> 00:24:48,800
+and boost the economy.
+
+571
+00:24:48,800 --> 00:24:51,800
+Actually, that function of the
+
+572
+00:24:51,800 --> 00:24:54,800
+Fed goes back even before 1933.
+
+573
+00:24:54,800 --> 00:24:57,300
+And there was an economist,
+
+574
+00:24:57,300 --> 00:24:59,800
+Charles Amos Dice, who wrote in
+
+575
+00:24:59,800 --> 00:25:06,800
+the 1920s that the Federal Reserve is like the regulator
+
+576
+00:25:06,800 --> 00:25:08,800
+on a steam engine.
+
+577
+00:25:08,800 --> 00:25:10,800
+Do you know anything about steam engines?
+
+578
+00:25:10,800 --> 00:25:13,800
+They have this thing that whirls around with two little
+
+579
+00:25:13,800 --> 00:25:15,300
+weights, and if the steam
+
+580
+00:25:15,300 --> 00:25:16,800
+engine gets too fast, the weight
+
+581
+00:25:16,800 --> 00:25:18,800
+spins out by centrifugal force, and
+
+582
+00:25:18,800 --> 00:25:20,800
+it cuts off the steam, so
+
+583
+00:25:20,800 --> 00:25:22,800
+that it doesn't overheat.
+
+584
+00:25:22,800 --> 00:25:24,800
+The engine doesn't get going too fast.
+
+585
+00:25:24,800 --> 00:25:28,800
+And so, Dice said, the Federal Reserve is an invention.
+
+586
+00:25:28,800 --> 00:25:30,800
+Now, that is serving a different, it's the regulator
+
+587
+00:25:30,800 --> 00:25:33,800
+for the whole economy.
+
+588
+00:25:33,800 --> 00:25:35,800
+And I think he was
+
+589
+00:25:35,800 --> 00:25:37,800
+right, although it's not as accurate
+
+590
+00:25:37,800 --> 00:25:41,300
+as a regulator on a
+
+591
+00:25:41,300 --> 00:25:44,800
+steam engine, but it works somewhat
+
+592
+00:25:44,800 --> 00:25:45,800
+well.
+
+593
+00:25:45,800 --> 00:25:47,800
+I wanted to mention, every
+
+594
+00:25:47,800 --> 00:25:49,800
+country now has a central bank,
+
+595
+00:25:49,800 --> 00:25:53,800
+but I just wanted to mention the European Central Bank,
+
+596
+00:25:53,800 --> 00:26:04,800
+because it's quite new, and it's maybe the biggest central
+
+597
+00:26:04,800 --> 00:26:07,800
+bank now, in the sense that
+
+598
+00:26:07,800 --> 00:26:10,800
+it, well, I shouldn't say that.
+
+599
+00:26:10,800 --> 00:26:14,800
+It might be the biggest central bank by some standard.
+
+600
+00:26:14,800 --> 00:26:19,300
+There was a treaty signed at
+
+601
+00:26:19,300 --> 00:26:23,800
+Maastricht in 1992, which was a
+
+602
+00:26:23,800 --> 00:26:27,300
+treaty that was signed by
+
+603
+00:26:27,300 --> 00:26:30,800
+the European Union, which led to
+
+604
+00:26:30,800 --> 00:26:33,800
+the creation of the European Union from the European
+
+605
+00:26:33,800 --> 00:26:37,800
+Communities, and it also created a plan for a new
+
+606
+00:26:37,800 --> 00:26:44,800
+currency called the Euro, which is a European currency.
+
+607
+00:26:44,800 --> 00:26:48,300
+And the Euro did not
+
+608
+00:26:48,300 --> 00:26:51,800
+actually start until 1999, and the
+
+609
+00:26:51,800 --> 00:26:52,800
+currency, actual currency, was not issued until 1999.
+
+610
+00:26:52,800 --> 00:27:04,800
+So, that is a relatively recent invention.
+
+611
+00:27:04,800 --> 00:27:12,800
+The European Central Bank, or ECB, was founded in 1998.
+
+612
+00:27:12,800 --> 00:27:16,800
+That's before the Euro currency started.
+
+613
+00:27:16,800 --> 00:27:18,800
+They created a list of countries
+
+614
+00:27:18,800 --> 00:27:20,800
+that wanted to participate in the
+
+615
+00:27:20,800 --> 00:27:24,800
+Euro zone.
+
+616
+00:27:24,800 --> 00:27:29,800
+The Euro zone, not all European Union countries decided to
+
+617
+00:27:29,800 --> 00:27:32,800
+participate in the Euro.
+
+618
+00:27:32,800 --> 00:27:34,300
+Notably, the United Kingdom had
+
+619
+00:27:34,300 --> 00:27:35,800
+a referendum and voted against
+
+620
+00:27:35,800 --> 00:27:37,800
+it, and to this day, they
+
+621
+00:27:37,800 --> 00:27:39,800
+are not members of the Euro.
+
+622
+00:27:39,800 --> 00:27:43,800
+Also, Sweden, Lithuania, Latvia, Estonia, Poland, Czech
+
+623
+00:27:43,800 --> 00:27:48,800
+Republic, Hungary, Romania, Bulgaria, and Malta are not in
+
+624
+00:27:48,800 --> 00:27:49,800
+the Euro zone.
+
+625
+00:27:50,800 --> 00:27:52,800
+Some of these countries that
+
+626
+00:27:52,800 --> 00:27:54,800
+are not officially in the Euro
+
+627
+00:27:54,800 --> 00:27:57,800
+zone use the Euro unofficially.
+
+628
+00:27:57,800 --> 00:28:00,800
+It's not their currency, but there's no law against Euro
+
+629
+00:28:00,800 --> 00:28:02,800
+coming in and spending Euros.
+
+630
+00:28:02,800 --> 00:28:07,800
+So, the Euro seems more distributed than that.
+
+631
+00:28:07,800 --> 00:28:14,800
+So, anyway, that's the most recent central bank.
+
+632
+00:28:14,800 --> 00:28:17,800
+But it's the same general structure.
+
+633
+00:28:17,800 --> 00:28:18,800
+Every European country has its own central bank.
+
+634
+00:28:18,800 --> 00:28:19,800
+It's the same general structure.
+
+635
+00:28:19,800 --> 00:28:22,800
+Every European country has its own central bank, like the
+
+636
+00:28:22,800 --> 00:28:26,800
+Banca d'Italia or the Deutsche Bundesbank.
+
+637
+00:28:26,800 --> 00:28:28,300
+But their original purpose is
+
+638
+00:28:28,300 --> 00:28:29,800
+kind of gone, because they no
+
+639
+00:28:29,800 --> 00:28:30,800
+longer maintain a currency.
+
+640
+00:28:30,800 --> 00:28:34,800
+There are no more Deutschmarks or Italian Lira.
+
+641
+00:28:34,800 --> 00:28:37,800
+They're all using the Euro.
+
+642
+00:28:37,800 --> 00:28:39,800
+So, the real central bank
+
+643
+00:28:39,800 --> 00:28:41,800
+is the European Central Bank in
+
+644
+00:28:41,800 --> 00:28:47,800
+Frankfurt, led by Jean-Claude Trichet right now.
+
+645
+00:28:47,800 --> 00:28:48,800
+So, that's the real central bank.
+
+646
+00:28:49,800 --> 00:28:59,800
+Bank of Japan, by the way, became independent.
+
+647
+00:28:59,800 --> 00:29:01,800
+I mentioned that in 1997.
+
+648
+00:29:01,800 --> 00:29:09,800
+Bank of Japan, another very important central bank.
+
+649
+00:29:09,800 --> 00:29:11,300
+There's been a movement in
+
+650
+00:29:11,300 --> 00:29:12,800
+the last few decades to make
+
+651
+00:29:12,800 --> 00:29:14,800
+central banks independent.
+
+652
+00:29:14,800 --> 00:29:16,800
+This was something that our own Federal Reserve had from
+
+653
+00:29:16,800 --> 00:29:17,800
+the beginning.
+
+654
+00:29:17,800 --> 00:29:20,800
+The Federal Reserve was designed to be separate from
+
+655
+00:29:20,800 --> 00:29:21,800
+the government.
+
+656
+00:29:21,800 --> 00:29:24,800
+The reason was, they thought that a government might want
+
+657
+00:29:24,800 --> 00:29:26,800
+to inflate the currency.
+
+658
+00:29:26,800 --> 00:29:30,800
+Political pressures might, at certain times, cause them to
+
+659
+00:29:30,800 --> 00:29:33,800
+try to influence the central bank.
+
+660
+00:29:33,800 --> 00:29:36,800
+And so, the Federal Reserve was
+
+661
+00:29:36,800 --> 00:29:39,800
+set up so that the members
+
+662
+00:29:39,800 --> 00:29:42,800
+of the Board of Governors had 14-year terms.
+
+663
+00:29:42,800 --> 00:29:46,800
+They couldn't be kicked out, except for impeachment
+
+664
+00:29:46,800 --> 00:29:48,800
+offenses.
+
+665
+00:29:48,800 --> 00:29:52,800
+And so, the government couldn't control the central bank.
+
+666
+00:29:52,800 --> 00:29:55,800
+The independent central bank has been very important.
+
+667
+00:29:55,800 --> 00:29:57,800
+What tends to happen is, you
+
+668
+00:29:57,800 --> 00:29:59,800
+bring people in who've had long
+
+669
+00:29:59,800 --> 00:30:03,800
+careers in banking, who have a reputation for integrity, and
+
+670
+00:30:03,800 --> 00:30:05,300
+you tell them that you
+
+671
+00:30:05,300 --> 00:30:06,800
+are the custodian of the currency.
+
+672
+00:30:06,800 --> 00:30:08,800
+You bring in people who believe
+
+673
+00:30:08,800 --> 00:30:10,800
+in the importance of a stable
+
+674
+00:30:10,800 --> 00:30:12,800
+currency, and then you give
+
+675
+00:30:12,800 --> 00:30:14,800
+them a 14-year term, and they're
+
+676
+00:30:14,800 --> 00:30:15,800
+there.
+
+677
+00:30:15,800 --> 00:30:17,800
+It's like the Supreme Court, almost.
+
+678
+00:30:17,800 --> 00:30:20,800
+You can't kick them out.
+
+679
+00:30:20,800 --> 00:30:22,800
+And some people think that's why
+
+680
+00:30:22,800 --> 00:30:24,800
+the U.S. has had such a
+
+681
+00:30:24,800 --> 00:30:28,800
+stable price level, because of our independent central bank.
+
+682
+00:30:28,800 --> 00:30:32,800
+So many countries have fallen into inflation that has
+
+683
+00:30:32,800 --> 00:30:35,800
+undermined the currency, but the U.S. hasn't.
+
+684
+00:30:35,800 --> 00:30:37,800
+I think that's why there has
+
+685
+00:30:37,800 --> 00:30:39,800
+been a move to copy the
+
+686
+00:30:39,800 --> 00:30:41,800
+independent central bank.
+
+687
+00:30:45,800 --> 00:30:49,800
+I wanted to talk now
+
+688
+00:30:49,800 --> 00:30:53,800
+about specifics of what the central
+
+689
+00:30:53,800 --> 00:30:55,800
+bank does.
+
+690
+00:30:55,800 --> 00:31:01,800
+Notably, the Federal Reserve System has a committee called
+
+691
+00:31:01,800 --> 00:31:09,800
+the Federal Open Markets Committee, FOMC, Federal Open
+
+692
+00:31:09,800 --> 00:31:12,800
+Markets Committee, that meets around once a month.
+
+693
+00:31:12,800 --> 00:31:14,800
+And they issue a statement.
+
+694
+00:31:14,800 --> 00:31:16,800
+Every time they meet.
+
+695
+00:31:16,800 --> 00:31:20,300
+And as it is now, actually,
+
+696
+00:31:20,300 --> 00:31:23,800
+FOMC doesn't go back to 1913,
+
+697
+00:31:23,800 --> 00:31:25,800
+but I'm talking about the
+
+698
+00:31:25,800 --> 00:31:27,800
+Federal Reserve as it is now.
+
+699
+00:31:27,800 --> 00:31:33,800
+This committee decides on a range for an interest rate
+
+700
+00:31:33,800 --> 00:31:35,800
+called the Federal Funds Rate.
+
+701
+00:31:41,800 --> 00:31:44,800
+And the Federal Funds Rate is an overarching interest rate.
+
+702
+00:31:44,800 --> 00:31:48,300
+So, if you have an
+
+703
+00:31:48,300 --> 00:31:51,800
+overnight interest rate that is charged
+
+704
+00:31:51,800 --> 00:31:54,300
+on loans between banks
+
+705
+00:31:54,300 --> 00:31:56,800
+and some other financial institutions,
+
+706
+00:31:56,800 --> 00:31:59,800
+you generally would not have access to the Federal Funds
+
+707
+00:31:59,800 --> 00:32:00,800
+Rate.
+
+708
+00:32:00,800 --> 00:32:02,300
+Now, you probably don't need
+
+709
+00:32:02,300 --> 00:32:03,800
+it, because you don't need an
+
+710
+00:32:03,800 --> 00:32:06,800
+overnight loan anyway, right?
+
+711
+00:32:06,800 --> 00:32:08,300
+Most of us would borrow
+
+712
+00:32:08,300 --> 00:32:09,800
+money for more than one night.
+
+713
+00:32:09,800 --> 00:32:11,800
+But banks, for various reasons,
+
+714
+00:32:11,800 --> 00:32:13,800
+do this lending and borrowing
+
+715
+00:32:13,800 --> 00:32:17,800
+in a day, at least under normal circumstances.
+
+716
+00:32:17,800 --> 00:32:21,800
+So, we have an overnight interest rate.
+
+717
+00:32:21,800 --> 00:32:24,800
+There's also longer federal funds, but we're emphasizing
+
+718
+00:32:24,800 --> 00:32:29,800
+the overnight rate.
+
+719
+00:32:29,800 --> 00:32:31,800
+And it's unsecured.
+
+720
+00:32:31,800 --> 00:32:34,800
+This is just an unsecured, there's no collateral.
+
+721
+00:32:34,800 --> 00:32:37,800
+It's an unsecured loan between banks.
+
+722
+00:32:37,800 --> 00:32:41,800
+So, the interest rate reflects some risk, negligible risk,
+
+723
+00:32:41,800 --> 00:32:42,800
+usually.
+
+724
+00:32:42,800 --> 00:32:45,800
+And the interest rate is not unsecured, because banks trust
+
+725
+00:32:45,800 --> 00:32:47,800
+each other, at least overnight.
+
+726
+00:32:47,800 --> 00:32:50,800
+They know pretty much they're going to get paid back.
+
+727
+00:32:50,800 --> 00:32:53,300
+And the current Federal Funds
+
+728
+00:32:53,300 --> 00:32:55,800
+Rate in the United States is
+
+729
+00:32:55,800 --> 00:32:59,800
+0.13%, as of last Friday.
+
+730
+00:32:59,800 --> 00:33:01,800
+That's 13 basis points.
+
+731
+00:33:01,800 --> 00:33:05,800
+So, it's virtually zero.
+
+732
+00:33:05,800 --> 00:33:08,800
+This is a policy decision of the Federal Open Markets
+
+733
+00:33:08,800 --> 00:33:09,800
+Committee.
+
+734
+00:33:09,800 --> 00:33:11,300
+They have decided that the
+
+735
+00:33:11,300 --> 00:33:12,800
+range for the Federal Funds Rate
+
+736
+00:33:12,800 --> 00:33:16,800
+should be between 0 and 25 basis points.
+
+737
+00:33:16,800 --> 00:33:18,800
+So, as of last Friday, it
+
+738
+00:33:18,800 --> 00:33:20,800
+was exactly in the middle of their
+
+739
+00:33:20,800 --> 00:33:22,800
+range.
+
+740
+00:33:22,800 --> 00:33:26,300
+The FOMC uses its decisions to
+
+741
+00:33:26,300 --> 00:33:29,800
+set the Federal Funds Rate as a
+
+742
+00:33:29,800 --> 00:33:31,800
+way of stabilizing the economy.
+
+743
+00:33:31,800 --> 00:33:36,800
+This is the regulator that Dice talked about.
+
+744
+00:33:36,800 --> 00:33:40,800
+Right now, they've set it virtually at zero, because the
+
+745
+00:33:40,800 --> 00:33:42,800
+economy is so weak.
+
+746
+00:33:42,800 --> 00:33:48,800
+The unemployment rate last week was 8.8%, extremely high.
+
+747
+00:33:48,800 --> 00:33:51,800
+And so, the Federal Reserve
+
+748
+00:33:51,800 --> 00:33:54,800
+is not worried about inflation now.
+
+749
+00:33:54,800 --> 00:33:57,800
+It's worried about high unemployment.
+
+750
+00:33:57,800 --> 00:34:00,800
+And it's pushed it about as close
+
+751
+00:34:00,800 --> 00:34:03,800
+to zero as it can get it.
+
+752
+00:34:03,800 --> 00:34:05,300
+It can't go below zero,
+
+753
+00:34:05,300 --> 00:34:06,800
+because you can't have negative interest
+
+754
+00:34:06,800 --> 00:34:07,800
+rates.
+
+755
+00:34:07,800 --> 00:34:10,800
+No one would lend at a negative interest rate.
+
+756
+00:34:10,800 --> 00:34:12,800
+So, that's where we are.
+
+757
+00:34:12,800 --> 00:34:15,300
+Now, I wanted to just
+
+758
+00:34:15,300 --> 00:34:17,800
+tell you about an interesting development
+
+759
+00:34:17,800 --> 00:34:25,800
+that came in just in 2008.
+
+760
+00:34:25,800 --> 00:34:29,800
+I mentioned that banks hold reserves.
+
+761
+00:34:29,800 --> 00:34:31,800
+And the reason why banks
+
+762
+00:34:31,800 --> 00:34:33,800
+hold reserves is because they have
+
+763
+00:34:33,800 --> 00:34:35,800
+a very strong interest rate.
+
+764
+00:34:35,800 --> 00:34:37,300
+And the reason why banks
+
+765
+00:34:37,300 --> 00:34:38,800
+hold reserves is because they have
+
+766
+00:34:38,800 --> 00:34:39,800
+a very strong interest rate.
+
+767
+00:34:39,800 --> 00:34:41,300
+And the reason why banks
+
+768
+00:34:41,300 --> 00:34:42,800
+hold reserve accounts at the Federal
+
+769
+00:34:42,800 --> 00:34:46,800
+Reserve, traditionally, those accounts were not interest
+
+770
+00:34:46,800 --> 00:34:48,800
+paying.
+
+771
+00:34:48,800 --> 00:34:51,300
+I mean, banks had to either
+
+772
+00:34:51,300 --> 00:34:53,800
+hold money or an account at the
+
+773
+00:34:53,800 --> 00:34:55,800
+Federal Reserve for their reserves.
+
+774
+00:34:55,800 --> 00:34:57,800
+And neither of them pay interest, right?
+
+775
+00:34:57,800 --> 00:34:59,800
+If you hold money, you don't get any interest.
+
+776
+00:34:59,800 --> 00:35:01,300
+If you actually have currency
+
+777
+00:35:01,300 --> 00:35:02,800
+in your vault, you don't get
+
+778
+00:35:02,800 --> 00:35:03,800
+interest.
+
+779
+00:35:03,800 --> 00:35:07,800
+And until recently, banks didn't get interest on the
+
+780
+00:35:07,800 --> 00:35:08,800
+interest rate.
+
+781
+00:35:08,800 --> 00:35:11,800
+They didn't get interest on their deposits at the Federal
+
+782
+00:35:11,800 --> 00:35:12,800
+Reserve.
+
+783
+00:35:12,800 --> 00:35:20,800
+But that all changed in 2008 with the Emergency Economic
+
+784
+00:35:20,800 --> 00:35:24,800
+Stabilization Act that President George Bush signed,
+
+785
+00:35:24,800 --> 00:35:26,800
+ESA, as it's called.
+
+786
+00:35:26,800 --> 00:35:29,300
+And ESA allowed the Federal
+
+787
+00:35:29,300 --> 00:35:31,800
+Reserve to pay interest on the
+
+788
+00:35:31,800 --> 00:35:36,800
+reserves held in the accounts at the Federal Reserve.
+
+789
+00:35:38,800 --> 00:35:41,800
+So, the Federal Reserve has
+
+790
+00:35:41,800 --> 00:35:44,800
+a policy now of paying interest
+
+791
+00:35:44,800 --> 00:35:46,800
+on reserve balances.
+
+792
+00:35:46,800 --> 00:35:47,800
+You see what I'm saying?
+
+793
+00:35:47,800 --> 00:35:49,300
+I don't know what the Suffolk
+
+794
+00:35:49,300 --> 00:35:50,800
+Bank did or the Bank of England
+
+795
+00:35:50,800 --> 00:35:52,300
+did, but I know what
+
+796
+00:35:52,300 --> 00:35:53,800
+the Federal Reserve is doing now.
+
+797
+00:35:53,800 --> 00:35:55,800
+If a member bank puts
+
+798
+00:35:55,800 --> 00:35:57,800
+money in deposit with the Federal
+
+799
+00:35:57,800 --> 00:35:59,800
+Reserve, they will get an interest rate.
+
+800
+00:35:59,800 --> 00:36:01,300
+And you can find out what
+
+801
+00:36:01,300 --> 00:36:02,800
+the interest rate is by going to
+
+802
+00:36:02,800 --> 00:36:04,800
+the Federal Reserve website.
+
+803
+00:36:04,800 --> 00:36:06,800
+And right now, it is 0.25%.
+
+804
+00:36:06,800 --> 00:36:07,800
+That's it.
+
+805
+00:36:10,800 --> 00:36:17,800
+And so, that's an important policy change, because now it
+
+806
+00:36:17,800 --> 00:36:21,800
+encourages the holding of reserves.
+
+807
+00:36:21,800 --> 00:36:27,800
+Now, some people look at this and ask this question.
+
+808
+00:36:27,800 --> 00:36:30,800
+Here's the Federal funds rate.
+
+809
+00:36:30,800 --> 00:36:37,800
+Why isn't it the same as the interest on reserves?
+
+810
+00:36:37,800 --> 00:36:41,800
+Interesting question.
+
+811
+00:36:41,800 --> 00:36:45,300
+Why would any bank invest
+
+812
+00:36:45,300 --> 00:36:48,800
+in the Federal funds market if
+
+813
+00:36:48,800 --> 00:36:50,300
+they can get a higher interest
+
+814
+00:36:50,300 --> 00:36:51,800
+rate by just holding a reserve
+
+815
+00:36:51,800 --> 00:36:53,800
+at the Federal Reserve?
+
+816
+00:36:53,800 --> 00:36:55,300
+There's been a lot of
+
+817
+00:36:55,300 --> 00:36:56,800
+discussion of why that is now.
+
+818
+00:36:56,800 --> 00:37:00,800
+It's a new phenomenon, because the interest on reserves goes
+
+819
+00:37:00,800 --> 00:37:04,800
+back only less than three years.
+
+820
+00:37:04,800 --> 00:37:05,800
+I think the simplest answer to
+
+821
+00:37:05,800 --> 00:37:06,800
+the question is, why is it so?
+
+822
+00:37:06,800 --> 00:37:10,300
+The first answer to the question
+
+823
+00:37:10,300 --> 00:37:13,800
+is that member banks of the Federal
+
+824
+00:37:13,800 --> 00:37:17,800
+Reserve System have stopped lending on the Federal funds
+
+825
+00:37:17,800 --> 00:37:19,800
+market, basically.
+
+826
+00:37:19,800 --> 00:37:22,300
+They just leave it in
+
+827
+00:37:22,300 --> 00:37:24,800
+reserves, because that's a higher interest
+
+828
+00:37:24,800 --> 00:37:25,800
+rate.
+
+829
+00:37:25,800 --> 00:37:27,800
+So, who is lending at this?
+
+830
+00:37:27,800 --> 00:37:29,300
+It turns out that there
+
+831
+00:37:29,300 --> 00:37:30,800
+are some people, notably the government
+
+832
+00:37:30,800 --> 00:37:33,800
+sponsored enterprises, like Fannie and Freddie, that are not
+
+833
+00:37:33,800 --> 00:37:35,800
+eligible for interest on reserves.
+
+834
+00:37:35,800 --> 00:37:41,800
+So, they have taken over the Federal funds market.
+
+835
+00:37:41,800 --> 00:37:44,300
+The reason the Fed added interest
+
+836
+00:37:44,300 --> 00:37:46,800
+on reserves is to create another
+
+837
+00:37:46,800 --> 00:37:48,800
+tool of monetary policy.
+
+838
+00:37:48,800 --> 00:37:51,300
+There's a lot of concern that after
+
+839
+00:37:51,300 --> 00:37:53,800
+this crisis is over, there will be
+
+840
+00:37:53,800 --> 00:37:56,800
+a sudden surge of inflation.
+
+841
+00:37:56,800 --> 00:38:00,800
+And let me come back to that.
+
+842
+00:38:00,800 --> 00:38:02,800
+Basically, what the Fed has a new
+
+843
+00:38:02,800 --> 00:38:04,800
+tool is, if that happens to raise the
+
+844
+00:38:04,800 --> 00:38:08,800
+interest on reserves, and that
+
+845
+00:38:08,800 --> 00:38:12,800
+will help contract the economy
+
+846
+00:38:12,800 --> 00:38:15,800
+instantly, very rapidly.
+
+847
+00:38:15,800 --> 00:38:17,800
+The way the Fed controls the
+
+848
+00:38:17,800 --> 00:38:19,800
+Federal funds rate, and has been doing
+
+849
+00:38:19,800 --> 00:38:22,300
+for years, is by buying and
+
+850
+00:38:22,300 --> 00:38:24,800
+selling Treasury bills on the open market,
+
+851
+00:38:24,800 --> 00:38:31,800
+by affecting the supply and demand for short-term credit.
+
+852
+00:38:31,800 --> 00:38:33,300
+And that indirectly, they don't
+
+853
+00:38:33,300 --> 00:38:34,800
+actually deal in the Federal funds
+
+854
+00:38:34,800 --> 00:38:35,800
+market.
+
+855
+00:38:35,800 --> 00:38:37,800
+They deal in the Treasury bill market.
+
+856
+00:38:37,800 --> 00:38:40,800
+But since those markets are interlinked, they indirectly
+
+857
+00:38:40,800 --> 00:38:44,800
+target the Federal funds rate.
+
+858
+00:38:44,800 --> 00:38:46,300
+So, that's the old way
+
+859
+00:38:46,300 --> 00:38:47,800
+of trading in the Federal funds
+
+860
+00:38:47,800 --> 00:38:49,300
+market, not in the Federal
+
+861
+00:38:49,300 --> 00:38:50,800
+funds market, trading in the short-term
+
+862
+00:38:50,800 --> 00:38:54,800
+Treasury market through the New York Fed.
+
+863
+00:38:54,800 --> 00:38:56,800
+But now they have a new tool.
+
+864
+00:38:56,800 --> 00:39:02,800
+So, we're entering a whole new regime of monetary policy.
+
+865
+00:39:02,800 --> 00:39:03,800
+Okay.
+
+866
+00:39:03,800 --> 00:39:06,800
+So, I wanted to talk about
+
+867
+00:39:06,800 --> 00:39:09,800
+reserve requirements a little bit more,
+
+868
+00:39:09,800 --> 00:39:17,800
+and what those are.
+
+869
+00:39:17,800 --> 00:39:22,300
+So, the Federal Reserve has the
+
+870
+00:39:22,300 --> 00:39:26,800
+authority to set the amount of reserves
+
+871
+00:39:26,800 --> 00:39:29,800
+that a bank holds.
+
+872
+00:39:29,800 --> 00:39:31,800
+I wanted to make clear
+
+873
+00:39:31,800 --> 00:39:33,800
+the distinction between a reserve requirement
+
+874
+00:39:33,800 --> 00:39:35,800
+and capital requirements.
+
+875
+00:39:35,800 --> 00:39:45,800
+So, okay, the Federal Reserve
+
+876
+00:39:45,800 --> 00:39:55,800
+has what's called Regulation D,
+
+877
+00:39:55,800 --> 00:39:59,800
+which specifies how much banks have to
+
+878
+00:39:59,800 --> 00:40:03,800
+hold as a function of their liabilities.
+
+879
+00:40:03,800 --> 00:40:14,800
+And as of right now, the
+
+880
+00:40:14,800 --> 00:40:25,800
+reserve requirements are 10% of transaction accounts.
+
+881
+00:40:25,800 --> 00:40:29,800
+Okay, that means that a bank has to
+
+882
+00:40:29,800 --> 00:40:33,800
+total up all of the transaction accounts, and that
+
+883
+00:40:33,800 --> 00:40:36,800
+consists of checking accounts.
+
+884
+00:40:36,800 --> 00:40:42,800
+What are the now accounts and ATS accounts.
+
+885
+00:40:42,800 --> 00:40:45,800
+Transactions accounts are accounts like checks that
+
+886
+00:40:45,800 --> 00:40:48,800
+people have a deposit in the bank that
+
+887
+00:40:48,800 --> 00:40:50,800
+they'll use for spending.
+
+888
+00:40:50,800 --> 00:40:53,800
+And those are instantly withdrawable.
+
+889
+00:40:53,800 --> 00:40:54,800
+Okay.
+
+890
+00:40:54,800 --> 00:40:59,800
+In contrast, there's something called time deposits.
+
+891
+00:40:59,800 --> 00:41:02,800
+Those are savings accounts.
+
+892
+00:41:03,800 --> 00:41:06,800
+And the bank does not have
+
+893
+00:41:06,800 --> 00:41:09,800
+to give you the money immediately.
+
+894
+00:41:09,800 --> 00:41:11,300
+In other words, if you go
+
+895
+00:41:11,300 --> 00:41:12,800
+to your checking account and say,
+
+896
+00:41:12,800 --> 00:41:15,300
+I want my money, it's a transaction account,
+
+897
+00:41:15,300 --> 00:41:17,800
+they have to give it to you instantly.
+
+898
+00:41:17,800 --> 00:41:19,800
+That's the rule.
+
+899
+00:41:19,800 --> 00:41:21,800
+But if you go to your saving
+
+900
+00:41:21,800 --> 00:41:23,800
+account, they can stall, because it's a,
+
+901
+00:41:23,800 --> 00:41:25,300
+you might not have noticed it,
+
+902
+00:41:25,300 --> 00:41:26,800
+but it's in the fine print somewhere.
+
+903
+00:41:26,800 --> 00:41:28,800
+This is a time deposit.
+
+904
+00:41:28,800 --> 00:41:32,800
+So, the Fed is not worried about time deposits.
+
+905
+00:41:32,800 --> 00:41:36,800
+Here, we're talking about reserve requirements.
+
+906
+00:41:36,800 --> 00:41:40,300
+Reserve requirements are still based on the
+
+907
+00:41:40,300 --> 00:41:43,800
+old theory that we're trying to prevent bank
+
+908
+00:41:43,800 --> 00:41:44,800
+runs.
+
+909
+00:41:44,800 --> 00:41:45,800
+Okay?
+
+910
+00:41:45,800 --> 00:41:48,300
+And so, we don't want people to, we don't
+
+911
+00:41:48,300 --> 00:41:50,800
+want there to be a run on banks, where people
+
+912
+00:41:50,800 --> 00:41:53,800
+panic and try to withdraw their money all at once.
+
+913
+00:41:53,800 --> 00:41:55,300
+So, we want to make
+
+914
+00:41:55,300 --> 00:41:56,800
+sure that banks have enough reserves.
+
+915
+00:41:56,800 --> 00:42:00,800
+And the Fed currently thinks 10% ought to be enough.
+
+916
+00:42:00,800 --> 00:42:01,800
+For time deposits, it's zero.
+
+917
+00:42:01,800 --> 00:42:04,800
+You don't have to put any
+
+918
+00:42:04,800 --> 00:42:07,800
+money on reserve for time deposits.
+
+919
+00:42:07,800 --> 00:42:09,800
+Why does the Fed think that?
+
+920
+00:42:09,800 --> 00:42:12,300
+Because you've got 60, 90 days or
+
+921
+00:42:12,300 --> 00:42:14,800
+a year to pay the person back.
+
+922
+00:42:14,800 --> 00:42:16,800
+So, they can't run on you.
+
+923
+00:42:16,800 --> 00:42:19,300
+So, we don't require any
+
+924
+00:42:19,300 --> 00:42:21,800
+reserve requirements against time deposits.
+
+925
+00:42:21,800 --> 00:42:25,800
+But it's 10% for transactions account, which
+
+926
+00:42:25,800 --> 00:42:29,800
+is substantial, because they're still worried about this.
+
+927
+00:42:29,800 --> 00:42:30,800
+Okay.
+
+928
+00:42:30,800 --> 00:42:33,800
+So, this is the situation.
+
+929
+00:42:33,800 --> 00:42:37,300
+We used to talk, emphasize in lectures
+
+930
+00:42:37,300 --> 00:42:40,800
+about central banking, the so-called money multiplier.
+
+931
+00:42:40,800 --> 00:42:41,800
+Okay?
+
+932
+00:42:41,800 --> 00:42:45,300
+The money multiplier, well, it's complicated, but
+
+933
+00:42:45,300 --> 00:42:48,800
+the simplest thing is, it might be one
+
+934
+00:42:48,800 --> 00:42:50,800
+over the reserve requirement.
+
+935
+00:42:50,800 --> 00:42:53,800
+It's not exactly that, but if the
+
+936
+00:42:53,800 --> 00:42:56,800
+reserve requirement is 10%, then the total amount
+
+937
+00:42:56,800 --> 00:42:57,800
+of deposits that banks can issue
+
+938
+00:42:57,800 --> 00:42:58,800
+is one over the reserve requirement.
+
+939
+00:42:58,800 --> 00:42:59,800
+Okay?
+
+940
+00:42:59,800 --> 00:43:03,300
+So, the total amount of deposits that banks can
+
+941
+00:43:03,300 --> 00:43:06,800
+issue is going to be 10 times the amount
+
+942
+00:43:06,800 --> 00:43:10,800
+of currency and deposits they have at the Federal Reserve.
+
+943
+00:43:10,800 --> 00:43:13,800
+So, that means the reserve requirements would
+
+944
+00:43:13,800 --> 00:43:16,800
+fix the money supply under the old theory.
+
+945
+00:43:16,800 --> 00:43:21,300
+Because, you know, the high-powered money is
+
+946
+00:43:21,300 --> 00:43:25,800
+the currency plus deposits at the Federal Reserve.
+
+947
+00:43:25,800 --> 00:43:26,800
+That's reserves.
+
+948
+00:43:26,800 --> 00:43:28,300
+And if the reserve requirement is 10%,
+
+949
+00:43:28,300 --> 00:43:29,800
+and banks want to just meet the requirements,
+
+950
+00:43:29,800 --> 00:43:33,300
+and nothing more, they're going to have 10
+
+951
+00:43:33,300 --> 00:43:36,800
+times as much deposits, right, as there are reserves.
+
+952
+00:43:36,800 --> 00:43:39,800
+I'm oversimplifying the money multiplier.
+
+953
+00:43:39,800 --> 00:43:42,300
+But I'm telling you that at the
+
+954
+00:43:42,300 --> 00:43:44,800
+moment in history, it's irrelevant, because banks are
+
+955
+00:43:44,800 --> 00:43:47,800
+holding excess reserves.
+
+956
+00:43:47,800 --> 00:43:52,800
+The world has changed.
+
+957
+00:43:52,800 --> 00:43:55,800
+Just a few years ago, before this financial
+
+958
+00:43:55,800 --> 00:43:58,800
+crisis, banks didn't want to hold excess reserves.
+
+959
+00:43:58,800 --> 00:44:01,800
+And so, there were hardly any excess reserves.
+
+960
+00:44:01,800 --> 00:44:02,800
+Why?
+
+961
+00:44:02,800 --> 00:44:05,800
+Because they don't get any interest on them, all right?
+
+962
+00:44:05,800 --> 00:44:08,800
+And so, banks didn't hold excess reserves.
+
+963
+00:44:08,800 --> 00:44:11,300
+So, the money market multiplier theory would
+
+964
+00:44:11,300 --> 00:44:13,800
+work, because the amount of reserve was just
+
+965
+00:44:13,800 --> 00:44:16,800
+about exactly equal to 10% of transactions.
+
+966
+00:44:16,800 --> 00:44:20,800
+I'm oversimplifying, but something like that was true.
+
+967
+00:44:20,800 --> 00:44:24,800
+But now, they're paying 25 basis points on reserves.
+
+968
+00:44:24,800 --> 00:44:26,800
+So, that's a lot more than you
+
+969
+00:44:26,800 --> 00:44:28,800
+can get investing in the Federal Funds Market.
+
+970
+00:44:28,800 --> 00:44:32,800
+And banks are just perfectly happy to hold excess reserves.
+
+971
+00:44:32,800 --> 00:44:36,300
+So, the excess reserves now are
+
+972
+00:44:36,300 --> 00:44:39,800
+over, I think it's 1.2 trillion.
+
+973
+00:44:39,800 --> 00:44:50,800
+It's huge, because of interest on reserves.
+
+974
+00:44:50,800 --> 00:44:54,800
+I don't have the exact number, but something
+
+975
+00:44:54,800 --> 00:44:58,800
+has fundamentally changed in just the last few years.
+
+976
+00:44:58,800 --> 00:45:03,800
+So, reserve requirements, they must hold for some banks.
+
+977
+00:45:03,800 --> 00:45:05,300
+But for most banks, they don't
+
+978
+00:45:05,300 --> 00:45:06,800
+even look at reserve requirements anymore.
+
+979
+00:45:06,800 --> 00:45:08,800
+What do I care?
+
+980
+00:45:08,800 --> 00:45:11,800
+I'm so happy to hold reserves.
+
+981
+00:45:11,800 --> 00:45:13,800
+I'll hold way more than they require.
+
+982
+00:45:13,800 --> 00:45:20,800
+So, reserve requirements are non-binding for most banks now.
+
+983
+00:45:20,800 --> 00:45:23,800
+So, it's a different world.
+
+984
+00:45:23,800 --> 00:45:26,800
+This brings us then to capital requirements.
+
+985
+00:45:26,800 --> 00:45:27,800
+Capital requirements.
+
+986
+00:45:27,800 --> 00:45:32,800
+So, in the world, history has always changed.
+
+987
+00:45:32,800 --> 00:45:34,800
+The world, as of a few
+
+988
+00:45:34,800 --> 00:45:36,800
+years ago, everyone emphasized reserve requirements.
+
+989
+00:45:36,800 --> 00:45:39,800
+And those were the requirements that
+
+990
+00:45:39,800 --> 00:45:42,800
+had as its motive preventing bank runs.
+
+991
+00:45:42,800 --> 00:45:45,800
+But we're not going to have a bank run now,
+
+992
+00:45:45,800 --> 00:45:48,800
+when these banks have over a trillion dollars just sitting there.
+
+993
+00:45:48,800 --> 00:45:50,800
+They're holding so much.
+
+994
+00:45:50,800 --> 00:45:53,800
+It's not an issue right now.
+
+995
+00:45:53,800 --> 00:45:55,800
+So, something else has taken the center stage.
+
+996
+00:45:55,800 --> 00:45:59,300
+And that is capital requirements,
+
+997
+00:45:59,300 --> 00:46:02,800
+which we talked about last time.
+
+998
+00:46:02,800 --> 00:46:09,800
+So, capital requirements are
+
+999
+00:46:09,800 --> 00:46:16,800
+different from reserve requirements.
+
+1000
+00:46:16,800 --> 00:46:20,300
+I just defined, reserve requirements were
+
+1001
+00:46:20,300 --> 00:46:23,800
+a fraction of the transaction accounts.
+
+1002
+00:46:23,800 --> 00:46:24,800
+They were defined by a liability.
+
+1003
+00:46:25,800 --> 00:46:28,800
+A transaction account is like a checking account.
+
+1004
+00:46:28,800 --> 00:46:32,800
+It's some money that the bank owes to other people.
+
+1005
+00:46:32,800 --> 00:46:36,800
+And we have this requirement that
+
+1006
+00:46:36,800 --> 00:46:40,800
+10% of that is the reserve requirement.
+
+1007
+00:46:40,800 --> 00:46:43,800
+But capital requirements are different.
+
+1008
+00:46:43,800 --> 00:46:47,800
+And they're more likely to be binding these days.
+
+1009
+00:46:47,800 --> 00:46:50,800
+And these were emphasized in Basel
+
+1010
+00:46:50,800 --> 00:46:53,800
+III, which we talked about before.
+
+1011
+00:46:53,800 --> 00:46:54,800
+So, it's a different thing.
+
+1012
+00:46:54,800 --> 00:46:56,800
+And it's a different thing
+
+1013
+00:46:56,800 --> 00:46:58,800
+than what we talked about before.
+
+1014
+00:46:58,800 --> 00:47:09,800
+So, Basel III is not yet in force.
+
+1015
+00:47:09,800 --> 00:47:11,800
+It's going to take a long time.
+
+1016
+00:47:11,800 --> 00:47:15,800
+Basel III has a phase-in period that is
+
+1017
+00:47:15,800 --> 00:47:19,800
+going to take until, I think, it's 2019.
+
+1018
+00:47:19,800 --> 00:47:21,300
+But there's a lot of talk now
+
+1019
+00:47:21,300 --> 00:47:22,800
+about trying to get Basel III phased in.
+
+1020
+00:47:22,800 --> 00:47:31,800
+So, remember, we talked about risk-weighted assets.
+
+1021
+00:47:31,800 --> 00:47:37,300
+Now it is banks have to hold
+
+1022
+00:47:37,300 --> 00:47:42,800
+capital as a fraction of their risk-weighted assets.
+
+1023
+00:47:42,800 --> 00:47:45,800
+So, right now, the countries of the world, they've agreed.
+
+1024
+00:47:45,800 --> 00:47:47,800
+The G20 countries have agreed on Basel III.
+
+1025
+00:47:47,800 --> 00:47:49,800
+But each country has to decide
+
+1026
+00:47:49,800 --> 00:47:51,800
+on the implementation of Basel III.
+
+1027
+00:47:52,800 --> 00:47:55,300
+The United States, in particular,
+
+1028
+00:47:55,300 --> 00:47:57,800
+is having problems with Basel III,
+
+1029
+00:47:57,800 --> 00:48:09,800
+because Basel III refers to credit ratings in many places.
+
+1030
+00:48:09,800 --> 00:48:20,800
+But Dodd-Frank, the Dodd-Frank Act, Act of 2010,
+
+1031
+00:48:22,800 --> 00:48:25,800
+abolishes credit ratings.
+
+1032
+00:48:25,800 --> 00:48:29,300
+The government will no longer make any
+
+1033
+00:48:29,300 --> 00:48:32,800
+use in any regulation of credit ratings.
+
+1034
+00:48:32,800 --> 00:48:34,800
+Remember what credit ratings are.
+
+1035
+00:48:34,800 --> 00:48:38,300
+Moody's and Standard & Poor's are
+
+1036
+00:48:38,300 --> 00:48:41,800
+the two best-known credit rating agencies.
+
+1037
+00:48:41,800 --> 00:48:49,800
+The government, the SEC, starting in 1975,
+
+1038
+00:48:49,800 --> 00:48:51,800
+defined what they called NRA.
+
+1039
+00:48:51,800 --> 00:48:55,800
+N-R-S-R-O's.
+
+1040
+00:48:55,800 --> 00:48:59,800
+That's Nationally Recognized
+
+1041
+00:48:59,800 --> 00:49:03,800
+Statistical Rating Organization.
+
+1042
+00:49:03,800 --> 00:49:05,800
+All right?
+
+1043
+00:49:05,800 --> 00:49:11,800
+And that included Moody's, which was founded in about 1900,
+
+1044
+00:49:11,800 --> 00:49:14,300
+and Standard & Poor's, which was
+
+1045
+00:49:14,300 --> 00:49:16,800
+a result of the merger of
+
+1046
+00:49:16,800 --> 00:49:20,800
+Standard Statistical Association and Poor's,
+
+1047
+00:49:20,800 --> 00:49:22,800
+a little bit after 1900.
+
+1048
+00:49:22,800 --> 00:49:25,300
+They're venerable old institutions that
+
+1049
+00:49:25,300 --> 00:49:27,800
+give a risk rating for securities.
+
+1050
+00:49:27,800 --> 00:49:30,300
+For example, Moody's will give its
+
+1051
+00:49:30,300 --> 00:49:32,800
+best securities a triple A rating.
+
+1052
+00:49:32,800 --> 00:49:33,800
+Okay?
+
+1053
+00:49:33,800 --> 00:49:36,800
+That means Moody's thinks they'll never default.
+
+1054
+00:49:36,800 --> 00:49:42,800
+Yale University is rated triple A by Moody's, for example.
+
+1055
+00:49:42,800 --> 00:49:45,800
+But they go, if they don't like you
+
+1056
+00:49:45,800 --> 00:49:48,800
+quite as much, they'll downrate you to double A.
+
+1057
+00:49:48,800 --> 00:49:51,300
+Or if they don't like
+
+1058
+00:49:51,300 --> 00:49:53,800
+you even more, you're only A.
+
+1059
+00:49:53,800 --> 00:49:56,800
+And then, God forbid, you go down into the B's.
+
+1060
+00:49:56,800 --> 00:49:59,300
+It's like, in fact, Moody, John Moody
+
+1061
+00:49:59,300 --> 00:50:01,800
+in his book acknowledges that it was just,
+
+1062
+00:50:01,800 --> 00:50:03,800
+he took the same grading
+
+1063
+00:50:03,800 --> 00:50:05,800
+system that he got in college.
+
+1064
+00:50:05,800 --> 00:50:06,800
+I don't know why, it's a little different.
+
+1065
+00:50:06,800 --> 00:50:08,800
+You don't get a triple A grade here, do you?
+
+1066
+00:50:08,800 --> 00:50:10,800
+I've never given a triple A.
+
+1067
+00:50:10,800 --> 00:50:13,800
+But that's how Moody saw it.
+
+1068
+00:50:13,800 --> 00:50:16,800
+And so, it's like letter grades to securities.
+
+1069
+00:50:16,800 --> 00:50:19,800
+Well, Moody did that in 1900.
+
+1070
+00:50:19,800 --> 00:50:22,300
+And if you read his
+
+1071
+00:50:22,300 --> 00:50:24,800
+autobiography, people said, you're crazy.
+
+1072
+00:50:24,800 --> 00:50:27,800
+How can you give a grade to a security?
+
+1073
+00:50:27,800 --> 00:50:29,800
+It seemed like a wild idea.
+
+1074
+00:50:29,800 --> 00:50:30,800
+But he stuck with it.
+
+1075
+00:50:30,800 --> 00:50:32,800
+And over the years, people began
+
+1076
+00:50:32,800 --> 00:50:34,800
+to believe in them more and more.
+
+1077
+00:50:34,800 --> 00:50:37,800
+So, it led to an idea that
+
+1078
+00:50:37,800 --> 00:50:40,800
+we fully understand the risk of securities.
+
+1079
+00:50:40,800 --> 00:50:42,800
+And so, there was a
+
+1080
+00:50:42,800 --> 00:50:44,800
+set of, a complacency set in.
+
+1081
+00:50:44,800 --> 00:50:46,800
+And the government started,
+
+1082
+00:50:46,800 --> 00:50:49,800
+to recognize these NRSROs as if
+
+1083
+00:50:49,800 --> 00:50:52,800
+they were proclaimers of God's truth.
+
+1084
+00:50:52,800 --> 00:50:54,800
+And they started all kinds of regulations,
+
+1085
+00:50:54,800 --> 00:50:56,800
+said what your capital had to be,
+
+1086
+00:50:56,800 --> 00:51:01,800
+depending on the rating of various assets you hold.
+
+1087
+00:51:01,800 --> 00:51:03,800
+But the whole thing collapsed
+
+1088
+00:51:03,800 --> 00:51:05,800
+in the recent financial crisis,
+
+1089
+00:51:05,800 --> 00:51:10,800
+because some triple A securities lost almost everything.
+
+1090
+00:51:10,800 --> 00:51:14,800
+So, the rating agencies made a big problem, issue.
+
+1091
+00:51:14,800 --> 00:51:16,800
+And so, Congress,
+
+1092
+00:51:16,800 --> 00:51:20,800
+has now said, nobody can make any
+
+1093
+00:51:20,800 --> 00:51:24,800
+regulation based on ratings of the NRSROs.
+
+1094
+00:51:24,800 --> 00:51:28,800
+But Basel III people didn't get the message.
+
+1095
+00:51:28,800 --> 00:51:30,800
+Well, they're not America, they're international.
+
+1096
+00:51:30,800 --> 00:51:32,800
+And they still believe in them.
+
+1097
+00:51:32,800 --> 00:51:35,800
+I think it's a little bit
+
+1098
+00:51:35,800 --> 00:51:38,800
+difficult to know how to handle risk.
+
+1099
+00:51:38,800 --> 00:51:40,800
+This is the fundamental problem.
+
+1100
+00:51:40,800 --> 00:51:42,800
+And it would be nice if
+
+1101
+00:51:42,800 --> 00:51:44,800
+Moody's and S&P could tell us.
+
+1102
+00:51:44,800 --> 00:51:47,800
+But the problem is that they missed this whole crisis.
+
+1103
+00:51:47,800 --> 00:51:49,800
+They didn't see it coming.
+
+1104
+00:51:49,800 --> 00:51:51,800
+And why didn't they?
+
+1105
+00:51:51,800 --> 00:51:53,800
+Well, that's a deep issue.
+
+1106
+00:51:53,800 --> 00:51:55,800
+That's what people are wrestling with right now.
+
+1107
+00:51:55,800 --> 00:51:58,800
+So, the U.S. has to figure out what to do,
+
+1108
+00:51:58,800 --> 00:52:01,300
+to reinterpret the Basel III
+
+1109
+00:52:01,300 --> 00:52:03,800
+recommendations for the United States,
+
+1110
+00:52:03,800 --> 00:52:06,800
+without using any reference to Moody's and S&P.
+
+1111
+00:52:06,800 --> 00:52:09,800
+What will probably happen, I think,
+
+1112
+00:52:09,800 --> 00:52:11,300
+is that the banks will have
+
+1113
+00:52:11,300 --> 00:52:12,800
+to have their own risk committees,
+
+1114
+00:52:12,800 --> 00:52:14,800
+and they will have to come up with a plan,
+
+1115
+00:52:14,800 --> 00:52:16,300
+and they will have to come
+
+1116
+00:52:16,300 --> 00:52:17,800
+up with their own assessments of risk,
+
+1117
+00:52:17,800 --> 00:52:19,800
+and they'll be responsible for those.
+
+1118
+00:52:19,800 --> 00:52:21,800
+But what will really happen is,
+
+1119
+00:52:21,800 --> 00:52:23,800
+they'll just look at the Moody's and S&P ratings,
+
+1120
+00:52:23,800 --> 00:52:26,800
+and it'll be rubber stamping them.
+
+1121
+00:52:26,800 --> 00:52:29,800
+So, I don't think that, there's a whole question,
+
+1122
+00:52:29,800 --> 00:52:32,300
+whether Dodd-Frank will be
+
+1123
+00:52:32,300 --> 00:52:34,800
+effective in reducing our requirement.
+
+1124
+00:52:34,800 --> 00:52:36,800
+But I wanted to go
+
+1125
+00:52:36,800 --> 00:52:38,800
+over the capital requirements once again,
+
+1126
+00:52:38,800 --> 00:52:42,800
+because now they're increasingly important.
+
+1127
+00:52:42,800 --> 00:52:44,800
+And I wanted to go through,
+
+1128
+00:52:44,800 --> 00:52:48,800
+just a simple example of capital requirements,
+
+1129
+00:52:48,800 --> 00:52:54,800
+so that you'll understand them.
+
+1130
+00:52:54,800 --> 00:52:57,800
+And I don't think the general
+
+1131
+00:52:57,800 --> 00:53:00,800
+public understands them very well at all.
+
+1132
+00:53:00,800 --> 00:53:01,800
+Okay.
+
+1133
+00:53:01,800 --> 00:53:09,800
+And so, this is old accounting, or old finance.
+
+1134
+00:53:09,800 --> 00:53:12,800
+These requirements go back 100 years.
+
+1135
+00:53:12,800 --> 00:53:14,800
+I'm going to talk in very simple terms about them.
+
+1136
+00:53:14,800 --> 00:53:16,800
+I'm not going to go over-simplifying.
+
+1137
+00:53:16,800 --> 00:53:19,800
+Basel III is a complicated new agreement.
+
+1138
+00:53:19,800 --> 00:53:21,800
+It has a lot of ins and outs.
+
+1139
+00:53:21,800 --> 00:53:23,800
+But I'm just going to over-simplify it,
+
+1140
+00:53:23,800 --> 00:53:28,800
+and talk about the Basel III common equity requirements.
+
+1141
+00:53:28,800 --> 00:53:31,800
+I'm going to tell a
+
+1142
+00:53:31,800 --> 00:53:34,800
+little story about founding a bank.
+
+1143
+00:53:34,800 --> 00:53:37,800
+And let's just understand how capital requirements work.
+
+1144
+00:53:37,800 --> 00:53:42,800
+So, imagine that you decided to found a bank.
+
+1145
+00:53:42,800 --> 00:53:45,800
+And in developed countries of the world today,
+
+1146
+00:53:45,800 --> 00:53:46,800
+you can do this.
+
+1147
+00:53:46,800 --> 00:53:48,800
+You can set up your own bank.
+
+1148
+00:53:48,800 --> 00:53:49,800
+The only problem you have,
+
+1149
+00:53:49,800 --> 00:53:50,800
+you have to get a charter.
+
+1150
+00:53:50,800 --> 00:53:51,800
+You have to apply for a charter.
+
+1151
+00:53:51,800 --> 00:53:53,300
+You have to decide whether you're
+
+1152
+00:53:53,300 --> 00:53:54,800
+a national bank in the United States,
+
+1153
+00:53:54,800 --> 00:53:56,800
+or some other kind of bank.
+
+1154
+00:53:56,800 --> 00:53:59,800
+But you get a charter, and you open your doors.
+
+1155
+00:53:59,800 --> 00:54:01,300
+Now, you've got to
+
+1156
+00:54:01,300 --> 00:54:02,800
+start complying with capital requirements.
+
+1157
+00:54:02,800 --> 00:54:07,800
+But let's say you do that, all right?
+
+1158
+00:54:07,800 --> 00:54:10,800
+You find that there's an empty bank building downtown.
+
+1159
+00:54:10,800 --> 00:54:11,800
+All right?
+
+1160
+00:54:11,800 --> 00:54:13,300
+So, you go through the paperwork,
+
+1161
+00:54:13,300 --> 00:54:14,800
+and you set up your bank,
+
+1162
+00:54:14,800 --> 00:54:16,800
+and you open the doors.
+
+1163
+00:54:16,800 --> 00:54:18,300
+And now, we have one
+
+1164
+00:54:18,300 --> 00:54:19,800
+of those windows with a teller,
+
+1165
+00:54:19,800 --> 00:54:21,800
+and inviting deposits, okay?
+
+1166
+00:54:21,800 --> 00:54:24,800
+So, I'm going to tell a story, which is over-simplified,
+
+1167
+00:54:24,800 --> 00:54:27,800
+and maybe a little bit, let's
+
+1168
+00:54:27,800 --> 00:54:30,800
+say that you open your doors,
+
+1169
+00:54:30,800 --> 00:54:33,300
+and someone walks in with
+
+1170
+00:54:33,300 --> 00:54:35,800
+$100 and deposits it, all right?
+
+1171
+00:54:35,800 --> 00:54:37,800
+So, this is your bank.
+
+1172
+00:54:37,800 --> 00:54:39,800
+Or I'll say, my bank, okay?
+
+1173
+00:54:39,800 --> 00:54:40,800
+All right?
+
+1174
+00:54:41,800 --> 00:54:43,800
+So, you've got a bank.
+
+1175
+00:54:43,800 --> 00:54:45,800
+And the bank has, now, you
+
+1176
+00:54:45,800 --> 00:54:47,800
+probably, I think regulators would require
+
+1177
+00:54:47,800 --> 00:54:49,800
+you come up with some capital first.
+
+1178
+00:54:49,800 --> 00:54:51,800
+But I'm going to tell the story.
+
+1179
+00:54:51,800 --> 00:54:52,800
+It seems to be a nicer story.
+
+1180
+00:54:52,800 --> 00:54:53,800
+You start out with deposit.
+
+1181
+00:54:53,800 --> 00:54:55,800
+Assume your regulators allowed you to start.
+
+1182
+00:54:55,800 --> 00:54:57,800
+So, somebody walks in and deposits.
+
+1183
+00:54:57,800 --> 00:55:01,800
+And here's your assets, and here's your liabilities, okay?
+
+1184
+00:55:01,800 --> 00:55:04,800
+Left side is assets, right side is liabilities.
+
+1185
+00:55:04,800 --> 00:55:07,300
+So, someone deposits $100 in
+
+1186
+00:55:07,300 --> 00:55:09,800
+cash to your bank, all right?
+
+1187
+00:55:09,800 --> 00:55:14,800
+And you've got an asset, now, of $100, okay?
+
+1188
+00:55:14,800 --> 00:55:19,800
+And you have a liability, now, of $100.
+
+1189
+00:55:19,800 --> 00:55:22,300
+If that's a savings account,
+
+1190
+00:55:22,300 --> 00:55:24,800
+you don't have any reserve requirements.
+
+1191
+00:55:24,800 --> 00:55:27,800
+If it's a transactions account, you have to hold $10.
+
+1192
+00:55:27,800 --> 00:55:28,800
+I've got it, right?
+
+1193
+00:55:28,800 --> 00:55:31,300
+I've got $100 sitting in my vault,
+
+1194
+00:55:31,300 --> 00:55:33,800
+because the guy just gave me $100.
+
+1195
+00:55:33,800 --> 00:55:37,800
+So, I'm satisfying both my reserve requirements and my,
+
+1196
+00:55:37,800 --> 00:55:39,800
+now, am I satisfying my capital requirements?
+
+1197
+00:55:39,800 --> 00:55:42,800
+Well, I have to calculate risk-weighted assets, all right?
+
+1198
+00:55:42,800 --> 00:55:45,800
+Remember, every kind of asset has its risk.
+
+1199
+00:55:45,800 --> 00:55:47,800
+What about cash?
+
+1200
+00:55:47,800 --> 00:55:49,800
+Well, cash has a zero risk.
+
+1201
+00:55:49,800 --> 00:55:52,800
+So, it has a zero risk weighting.
+
+1202
+00:55:52,800 --> 00:56:01,800
+So, right now, my risk-weighted assets equals zero, okay?
+
+1203
+00:56:01,800 --> 00:56:03,800
+Now, okay, I've got to satisfy
+
+1204
+00:56:03,800 --> 00:56:05,800
+all the regulations that are on me.
+
+1205
+00:56:05,800 --> 00:56:08,800
+I'm satisfying my reserve requirements, right?
+
+1206
+00:56:08,800 --> 00:56:10,800
+I've got my reserve, I've got $100.
+
+1207
+00:56:10,800 --> 00:56:16,800
+This is cash in my safe.
+
+1208
+00:56:16,800 --> 00:56:19,800
+And this is a liability.
+
+1209
+00:56:19,800 --> 00:56:23,800
+I owe $100 in the form of
+
+1210
+00:56:23,800 --> 00:56:27,800
+a, let's say, it's a transaction account.
+
+1211
+00:56:27,800 --> 00:56:30,800
+Whenever this person comes back,
+
+1212
+00:56:30,800 --> 00:56:33,800
+I've got to pay $100, okay?
+
+1213
+00:56:33,800 --> 00:56:37,800
+All right, so, my reserve requirements are satisfied.
+
+1214
+00:56:37,800 --> 00:56:41,800
+Because I've got more than 10% of my transactions account.
+
+1215
+00:56:41,800 --> 00:56:43,800
+My risk-weighted assets are zero.
+
+1216
+00:56:43,800 --> 00:56:48,800
+Now, Basel III says that you have to
+
+1217
+00:56:48,800 --> 00:56:53,800
+hold 4.5% of your risk-weighted assets as capital.
+
+1218
+00:56:53,800 --> 00:56:56,800
+But now, wait a minute, I have a problem.
+
+1219
+00:56:56,800 --> 00:56:59,800
+What is my capital here?
+
+1220
+00:56:59,800 --> 00:57:01,800
+I don't have any capital.
+
+1221
+00:57:01,800 --> 00:57:04,300
+I've just opened my doors
+
+1222
+00:57:04,300 --> 00:57:06,800
+and I've got $100 in assets.
+
+1223
+00:57:06,800 --> 00:57:09,800
+I've got $100 in liabilities.
+
+1224
+00:57:09,800 --> 00:57:12,300
+Everything looks okay from reserve
+
+1225
+00:57:12,300 --> 00:57:14,800
+requirement, but there's no capital.
+
+1226
+00:57:14,800 --> 00:57:16,800
+So, what is capital?
+
+1227
+00:57:16,800 --> 00:57:21,800
+I have to issue shares to come up with capital.
+
+1228
+00:57:21,800 --> 00:57:32,800
+And I'm going to need 4.5% common equity requirement.
+
+1229
+00:57:36,800 --> 00:57:41,800
+And they also have something called a capital
+
+1230
+00:57:41,800 --> 00:57:46,800
+conservation buffer, which is another 2.5% plus 2.5%,
+
+1231
+00:57:46,800 --> 00:57:49,300
+which you don't absolutely have to hold, but
+
+1232
+00:57:49,300 --> 00:57:51,800
+if you don't hold it, you're subject to restrictions.
+
+1233
+00:57:51,800 --> 00:57:53,800
+So, I'm going to add these.
+
+1234
+00:57:53,800 --> 00:57:55,800
+This is the capital conservation buffer.
+
+1235
+00:57:55,800 --> 00:58:00,800
+I've got to hold 7% under Basel III.
+
+1236
+00:58:00,800 --> 00:58:03,800
+And I don't have any capital here.
+
+1237
+00:58:03,800 --> 00:58:04,800
+All right.
+
+1238
+00:58:04,800 --> 00:58:05,800
+So, what do I do?
+
+1239
+00:58:05,800 --> 00:58:07,800
+I'm not in compliance.
+
+1240
+00:58:07,800 --> 00:58:09,800
+So, I've got to do something.
+
+1241
+00:58:09,800 --> 00:58:11,800
+I've got to raise capital.
+
+1242
+00:58:11,800 --> 00:58:15,800
+So, what I can do is I can issue shares.
+
+1243
+00:58:15,800 --> 00:58:20,800
+I have to find, sell shares in the business.
+
+1244
+00:58:20,800 --> 00:58:24,300
+So, all I need to do is
+
+1245
+00:58:24,300 --> 00:58:27,800
+sell 7, well, okay, what would it be?
+
+1246
+00:58:27,800 --> 00:58:31,800
+Let's say I put in, I issue $20 in shares.
+
+1247
+00:58:31,800 --> 00:58:33,800
+Okay.
+
+1248
+00:58:33,800 --> 00:58:36,800
+And then that means someone gives me more
+
+1249
+00:58:36,800 --> 00:58:39,800
+cash, right, because someone paid for the shares.
+
+1250
+00:58:39,800 --> 00:58:43,800
+So, I've now got $120.
+
+1251
+00:58:43,800 --> 00:58:46,800
+Well, I add another plus 20.
+
+1252
+00:58:46,800 --> 00:58:49,300
+So, it's a total assets
+
+1253
+00:58:49,300 --> 00:58:51,800
+of 120 all held in cash.
+
+1254
+00:58:51,800 --> 00:58:52,800
+Okay.
+
+1255
+00:58:52,800 --> 00:58:55,300
+Now, I've got, now this is
+
+1256
+00:58:55,300 --> 00:58:57,800
+not a different kind of liability.
+
+1257
+00:58:57,800 --> 00:59:01,800
+This is common equity.
+
+1258
+00:59:03,800 --> 00:59:09,300
+And the regulators make a big distinction between this kind of
+
+1259
+00:59:09,300 --> 00:59:14,800
+liability, the transaction account, and this kind of liability, the $20.
+
+1260
+00:59:14,800 --> 00:59:16,800
+Why do they make a big distinction?
+
+1261
+00:59:16,800 --> 00:59:20,300
+Because this guy can come to the window anytime and
+
+1262
+00:59:20,300 --> 00:59:23,800
+you've got to give them $100, whenever this person asks.
+
+1263
+00:59:23,800 --> 00:59:26,800
+The shareholders have no demand on you at all.
+
+1264
+00:59:26,800 --> 00:59:28,800
+They own a share of the company.
+
+1265
+00:59:28,800 --> 00:59:30,300
+You don't, they can't come
+
+1266
+00:59:30,300 --> 00:59:31,800
+to the window and demand anything.
+
+1267
+00:59:31,800 --> 00:59:32,800
+You can just send them away.
+
+1268
+00:59:32,800 --> 00:59:38,800
+The only deal you have with shareholders is that all shareholders will
+
+1269
+00:59:38,800 --> 00:59:44,800
+receive an equal dividend if the board of directors decides to vote dividend.
+
+1270
+00:59:44,800 --> 00:59:46,800
+They're shareholders in the company.
+
+1271
+00:59:46,800 --> 00:59:48,800
+But they can't run the bank.
+
+1272
+00:59:48,800 --> 00:59:50,800
+The shareholders can't show up at the window.
+
+1273
+00:59:50,800 --> 00:59:52,800
+So, there's no risk of bank runs for them.
+
+1274
+00:59:52,800 --> 00:59:55,800
+And there's no risk of problems because if anything goes
+
+1275
+00:59:55,800 --> 00:59:58,800
+bad, you just tell the common equity guys, you're out.
+
+1276
+00:59:58,800 --> 01:00:00,800
+You lost.
+
+1277
+01:00:00,800 --> 01:00:01,800
+Okay.
+
+1278
+01:00:01,800 --> 01:00:04,800
+So, now, what are my risk-weighted assets?
+
+1279
+01:00:04,800 --> 01:00:05,800
+They're still zero.
+
+1280
+01:00:05,800 --> 01:00:08,800
+I've got $120 in cash, zero.
+
+1281
+01:00:08,800 --> 01:00:12,800
+I don't have any, 7% times zero is zero.
+
+1282
+01:00:12,800 --> 01:00:15,800
+So, now, I'm in great shape.
+
+1283
+01:00:15,800 --> 01:00:18,800
+I've satisfied both my reserve requirements and
+
+1284
+01:00:18,800 --> 01:00:21,800
+I've satisfied my Basel III capital requirements.
+
+1285
+01:00:21,800 --> 01:00:24,800
+Okay.
+
+1286
+01:00:24,800 --> 01:00:26,800
+So, what do we do next?
+
+1287
+01:00:26,800 --> 01:00:27,800
+We created a bank.
+
+1288
+01:00:27,800 --> 01:00:29,800
+And there's no interest paid on these two.
+
+1289
+01:00:29,800 --> 01:00:32,800
+And there's no interest paid on these checking accounts.
+
+1290
+01:00:32,800 --> 01:00:34,800
+And we're not earning any interest.
+
+1291
+01:00:34,800 --> 01:00:36,800
+We've got a bank and we're satisfied in the requirements.
+
+1292
+01:00:36,800 --> 01:00:38,800
+But nobody is making any money.
+
+1293
+01:00:38,800 --> 01:00:41,800
+So, we've got to do something to make money.
+
+1294
+01:00:41,800 --> 01:00:44,800
+So, what I'm going to do is I'm going
+
+1295
+01:00:44,800 --> 01:00:47,800
+to, let's say we get our board of directors meeting.
+
+1296
+01:00:47,800 --> 01:00:49,800
+The board of directors is
+
+1297
+01:00:49,800 --> 01:00:51,800
+elected by the common equity shareholders.
+
+1298
+01:00:51,800 --> 01:00:56,800
+And we decide, let's make some corporate loans.
+
+1299
+01:00:56,800 --> 01:01:00,300
+So, why don't we lend out all of this $100 that
+
+1300
+01:01:00,300 --> 01:01:03,800
+was cash and lend it to some business as a corporate loan.
+
+1301
+01:01:03,800 --> 01:01:04,800
+And then we'll charge them interest.
+
+1302
+01:01:04,800 --> 01:01:06,800
+Now, we're going to start making money.
+
+1303
+01:01:06,800 --> 01:01:09,800
+So, this is no longer cash in safe.
+
+1304
+01:01:09,800 --> 01:01:13,800
+This is corporate loans.
+
+1305
+01:01:13,800 --> 01:01:16,800
+Loans to corporations to do business.
+
+1306
+01:01:16,800 --> 01:01:17,800
+All right.
+
+1307
+01:01:17,800 --> 01:01:20,800
+So, there we are.
+
+1308
+01:01:20,800 --> 01:01:22,800
+Our balance sheet balances.
+
+1309
+01:01:22,800 --> 01:01:24,800
+Everything looks fine.
+
+1310
+01:01:24,800 --> 01:01:26,800
+But what is our risk-weighted asset now?
+
+1311
+01:01:26,800 --> 01:01:30,800
+Well, you remember, corporate loans get a 100% risk-weight.
+
+1312
+01:01:30,800 --> 01:01:34,300
+Because under Basel, going back to Basel I,
+
+1313
+01:01:34,300 --> 01:01:37,800
+they always thought corporate loans are risky assets.
+
+1314
+01:01:37,800 --> 01:01:42,800
+So, my risk-weighted assets are now $100.
+
+1315
+01:01:42,800 --> 01:01:44,800
+Okay?
+
+1316
+01:01:44,800 --> 01:01:47,800
+And 7% of $100 is $7.
+
+1317
+01:01:47,800 --> 01:01:49,800
+So, hey, I'm doing fine.
+
+1318
+01:01:49,800 --> 01:01:51,800
+Now, we're capitalized enough.
+
+1319
+01:01:51,800 --> 01:01:53,800
+We're in business.
+
+1320
+01:01:53,800 --> 01:01:55,800
+We're satisfying both our reserve requirements.
+
+1321
+01:01:55,800 --> 01:01:58,800
+Reserve requirements being 10%.
+
+1322
+01:01:58,800 --> 01:01:59,800
+And that's only $12.
+
+1323
+01:01:59,800 --> 01:02:01,800
+And we've got it in cash.
+
+1324
+01:02:01,800 --> 01:02:05,800
+And we're satisfying our Basel III capital requirements.
+
+1325
+01:02:05,800 --> 01:02:08,800
+So, everything is fine.
+
+1326
+01:02:08,800 --> 01:02:09,800
+Everything is fine.
+
+1327
+01:02:09,800 --> 01:02:10,800
+And we're in business.
+
+1328
+01:02:10,800 --> 01:02:12,800
+And we're not done yet.
+
+1329
+01:02:12,800 --> 01:02:15,800
+Because our risk-weighted assets, our
+
+1330
+01:02:15,800 --> 01:02:18,800
+$7 is the capital requirement.
+
+1331
+01:02:18,800 --> 01:02:21,800
+And we've got $20 in common equity.
+
+1332
+01:02:21,800 --> 01:02:23,800
+Okay.
+
+1333
+01:02:23,800 --> 01:02:24,800
+So, everything is great.
+
+1334
+01:02:24,800 --> 01:02:25,800
+This is fine.
+
+1335
+01:02:25,800 --> 01:02:26,800
+But now, let's go on.
+
+1336
+01:02:26,800 --> 01:02:27,800
+Now, there's a crisis.
+
+1337
+01:02:27,800 --> 01:02:28,800
+All right?
+
+1338
+01:02:28,800 --> 01:02:30,800
+Business gets bad.
+
+1339
+01:02:30,800 --> 01:02:33,800
+So, the next thing that happens
+
+1340
+01:02:33,800 --> 01:02:36,800
+is 20% of my corporate loans default.
+
+1341
+01:02:36,800 --> 01:02:38,800
+Okay?
+
+1342
+01:02:38,800 --> 01:02:41,800
+And so, we then, you know, it becomes clear.
+
+1343
+01:02:41,800 --> 01:02:43,800
+We have another board meeting.
+
+1344
+01:02:43,800 --> 01:02:45,800
+And someone says, I have bad news.
+
+1345
+01:02:45,800 --> 01:02:47,800
+We made $100 in corporate loans.
+
+1346
+01:02:47,800 --> 01:02:49,300
+But these guys, $20 is
+
+1347
+01:02:49,300 --> 01:02:50,800
+never going to get paid back.
+
+1348
+01:02:50,800 --> 01:02:52,800
+The borrower is out of business.
+
+1349
+01:02:52,800 --> 01:02:54,800
+So, I suggest we do
+
+1350
+01:02:54,800 --> 01:02:56,800
+a write-off of our corporate loans.
+
+1351
+01:02:56,800 --> 01:02:59,800
+And let's reduce them to $80.
+
+1352
+01:02:59,800 --> 01:03:01,800
+Okay?
+
+1353
+01:03:01,800 --> 01:03:03,800
+So, what happens?
+
+1354
+01:03:03,800 --> 01:03:07,800
+Now, assets have to equal liabilities.
+
+1355
+01:03:07,800 --> 01:03:10,800
+$100 is our assets now, not $120.
+
+1356
+01:03:10,800 --> 01:03:11,800
+Right?
+
+1357
+01:03:11,800 --> 01:03:13,800
+Because we just lost $20.
+
+1358
+01:03:13,800 --> 01:03:16,300
+Our liabilities can't be $120 because
+
+1359
+01:03:16,300 --> 01:03:18,800
+they have to equal our assets.
+
+1360
+01:03:18,800 --> 01:03:19,800
+What gives?
+
+1361
+01:03:19,800 --> 01:03:21,800
+Well, it's the shareholders that give.
+
+1362
+01:03:21,800 --> 01:03:25,800
+So, we mark down common equity to zero.
+
+1363
+01:03:25,800 --> 01:03:30,800
+And now, assets and liabilities match.
+
+1364
+01:03:30,800 --> 01:03:33,800
+So, now, let's look at our requirements.
+
+1365
+01:03:33,800 --> 01:03:36,800
+What about our reserve requirements?
+
+1366
+01:03:36,800 --> 01:03:38,800
+Reserve requirements are fine.
+
+1367
+01:03:38,800 --> 01:03:40,800
+We're holding excess reserves.
+
+1368
+01:03:40,800 --> 01:03:43,800
+You know, we only have to hold $10.
+
+1369
+01:03:43,800 --> 01:03:45,800
+And we've got $20 in cash.
+
+1370
+01:03:45,800 --> 01:03:48,800
+But we're no longer satisfying our capital requirements.
+
+1371
+01:03:48,800 --> 01:03:50,800
+So, our bank regulator is going to show us,
+
+1372
+01:03:50,800 --> 01:03:54,300
+our bank regulator is going to shut us
+
+1373
+01:03:54,300 --> 01:03:57,800
+down unless we do something to raise capital.
+
+1374
+01:03:57,800 --> 01:03:59,800
+So, how do we raise capital?
+
+1375
+01:03:59,800 --> 01:04:00,800
+That's the next step.
+
+1376
+01:04:00,800 --> 01:04:04,300
+Well, one thing we could do is
+
+1377
+01:04:04,300 --> 01:04:07,800
+we could sell some of our corporate loans.
+
+1378
+01:04:07,800 --> 01:04:09,800
+Right?
+
+1379
+01:04:09,800 --> 01:04:12,800
+We could find a buyer for our corporate loans.
+
+1380
+01:04:12,800 --> 01:04:15,800
+And we could sell, say, $20 worth of them.
+
+1381
+01:04:15,800 --> 01:04:17,800
+Bring this down to $60.
+
+1382
+01:04:17,800 --> 01:04:18,800
+And this would go up to $40.
+
+1383
+01:04:18,800 --> 01:04:19,800
+All right?
+
+1384
+01:04:19,800 --> 01:04:22,800
+So, our risk-weighted assets would now –
+
+1385
+01:04:22,800 --> 01:04:23,800
+well, then, let me see.
+
+1386
+01:04:23,800 --> 01:04:24,800
+No, that wouldn't do it.
+
+1387
+01:04:24,800 --> 01:04:25,800
+I'm sorry.
+
+1388
+01:04:25,800 --> 01:04:26,800
+That wouldn't do it, would it?
+
+1389
+01:04:26,800 --> 01:04:27,800
+We'd still have – we
+
+1390
+01:04:27,800 --> 01:04:28,800
+still don't have – I'm sorry.
+
+1391
+01:04:28,800 --> 01:04:29,800
+I misspoke.
+
+1392
+01:04:29,800 --> 01:04:32,800
+We still don't have any common equity.
+
+1393
+01:04:32,800 --> 01:04:35,800
+In this case, if we don't have any common equity,
+
+1394
+01:04:35,800 --> 01:04:38,800
+we can't get out of this by selling our loans.
+
+1395
+01:04:38,800 --> 01:04:41,800
+We could have if it didn't reduce it to zero.
+
+1396
+01:04:41,800 --> 01:04:44,800
+If the common equity went down to $10, then I could
+
+1397
+01:04:44,800 --> 01:04:47,800
+sell some of my corporate loans to get out of this mess.
+
+1398
+01:04:47,800 --> 01:04:48,800
+Right?
+
+1399
+01:04:48,800 --> 01:04:49,800
+But I made it zero.
+
+1400
+01:04:49,800 --> 01:04:51,800
+So, the only way out that I
+
+1401
+01:04:51,800 --> 01:04:53,800
+can do is to issue more shares.
+
+1402
+01:04:53,800 --> 01:04:56,800
+So, I've got to go to my friends again and
+
+1403
+01:04:56,800 --> 01:04:59,800
+say, well, we started this bank, but we goofed up.
+
+1404
+01:04:59,800 --> 01:05:01,800
+We made bad loans.
+
+1405
+01:05:01,800 --> 01:05:04,800
+And so, we've exhausted our common equity.
+
+1406
+01:05:04,800 --> 01:05:10,800
+I've got to raise more capital now.
+
+1407
+01:05:10,800 --> 01:05:12,800
+And so, what you could do
+
+1408
+01:05:12,800 --> 01:05:14,800
+is get more friends to come in.
+
+1409
+01:05:14,800 --> 01:05:16,300
+Now, they might not want to do it,
+
+1410
+01:05:16,300 --> 01:05:17,800
+because the previous friends just got wiped out.
+
+1411
+01:05:17,800 --> 01:05:19,800
+They lost everything, right?
+
+1412
+01:05:19,800 --> 01:05:22,300
+But you're coming in as new
+
+1413
+01:05:22,300 --> 01:05:24,800
+shareholders on top of the old.
+
+1414
+01:05:24,800 --> 01:05:27,800
+And you could then go back to where
+
+1415
+01:05:27,800 --> 01:05:30,800
+you were before by just issuing more shares.
+
+1416
+01:05:30,800 --> 01:05:32,800
+So, this is the system.
+
+1417
+01:05:32,800 --> 01:05:35,800
+I think I've pretty much summarized it.
+
+1418
+01:05:35,800 --> 01:05:37,800
+It's simple.
+
+1419
+01:05:37,800 --> 01:05:41,800
+Now, the issue is, however, that what
+
+1420
+01:05:41,800 --> 01:05:45,800
+motivated Basel III was that the –
+
+1421
+01:05:47,800 --> 01:05:50,800
+this system of requiring banks to hold
+
+1422
+01:05:50,800 --> 01:05:53,800
+capital is supposed to stabilize the system.
+
+1423
+01:05:53,800 --> 01:05:57,300
+If they've got enough common equity, the bank won't go
+
+1424
+01:05:57,300 --> 01:06:00,800
+bankrupt, even if they lose some of their corporate loans.
+
+1425
+01:06:00,800 --> 01:06:03,300
+It would be a big
+
+1426
+01:06:03,300 --> 01:06:05,800
+disaster to drive them to insolvency.
+
+1427
+01:06:05,800 --> 01:06:10,800
+But the problem is that the system they set up
+
+1428
+01:06:10,800 --> 01:06:15,800
+has banks responding to a crisis by selling corporate loans,
+
+1429
+01:06:15,800 --> 01:06:19,800
+or selling – issuing new shares.
+
+1430
+01:06:19,800 --> 01:06:21,800
+The problem is, both of those
+
+1431
+01:06:21,800 --> 01:06:23,800
+are hard to do in a crisis.
+
+1432
+01:06:23,800 --> 01:06:25,800
+In a crisis, you know, and everything
+
+1433
+01:06:25,800 --> 01:06:27,800
+is falling apart, you go out saying,
+
+1434
+01:06:27,800 --> 01:06:29,800
+I want to issue new shares
+
+1435
+01:06:29,800 --> 01:06:31,800
+in my bank that just lost everything.
+
+1436
+01:06:31,800 --> 01:06:33,800
+Investors are going to say, you've got to be kidding.
+
+1437
+01:06:33,800 --> 01:06:35,800
+I'm not going to invest in you right now.
+
+1438
+01:06:35,800 --> 01:06:38,800
+So, you can't raise new equity.
+
+1439
+01:06:38,800 --> 01:06:40,800
+Okay, what about selling loans?
+
+1440
+01:06:40,800 --> 01:06:42,300
+Well, the problem is, in a
+
+1441
+01:06:42,300 --> 01:06:43,800
+big national – or international crisis,
+
+1442
+01:06:43,800 --> 01:06:44,800
+every bank on the planet –
+
+1443
+01:06:44,800 --> 01:06:46,800
+every bank on the planet is trying
+
+1444
+01:06:46,800 --> 01:06:48,800
+to sell its loans at the same time.
+
+1445
+01:06:48,800 --> 01:06:51,800
+So, it creates a collapse in the system.
+
+1446
+01:06:51,800 --> 01:06:53,800
+And this is what happened in the financial crisis.
+
+1447
+01:06:53,800 --> 01:06:56,800
+This story repeated a million times,
+
+1448
+01:06:56,800 --> 01:06:59,300
+was banks were trying to raise capital,
+
+1449
+01:06:59,300 --> 01:07:01,800
+and they were trying to sell assets,
+
+1450
+01:07:01,800 --> 01:07:04,800
+either by issuing – they were trying to raise
+
+1451
+01:07:04,800 --> 01:07:07,800
+capital either by issuing shares or by selling assets.
+
+1452
+01:07:07,800 --> 01:07:09,300
+And everyone doing it at
+
+1453
+01:07:09,300 --> 01:07:10,800
+the same time created a crunch.
+
+1454
+01:07:10,800 --> 01:07:12,800
+And the whole system would have collapsed
+
+1455
+01:07:12,800 --> 01:07:14,800
+if it weren't for the central banks.
+
+1456
+01:07:14,800 --> 01:07:18,800
+And the central banks of the
+
+1457
+01:07:18,800 --> 01:07:22,800
+world responded quickly by loans to companies,
+
+1458
+01:07:22,800 --> 01:07:25,800
+to banks and other companies.
+
+1459
+01:07:25,800 --> 01:07:27,800
+So, the lender of last resort
+
+1460
+01:07:27,800 --> 01:07:29,800
+saved the whole system from collapsing.
+
+1461
+01:07:29,800 --> 01:07:33,800
+That's the story of the financial crisis.
+
+1462
+01:07:33,800 --> 01:07:36,300
+The remaining story is the
+
+1463
+01:07:36,300 --> 01:07:38,800
+Basel III people in Switzerland said,
+
+1464
+01:07:38,800 --> 01:07:41,800
+let's analyze how we got into this situation.
+
+1465
+01:07:41,800 --> 01:07:42,800
+How did it get so bad?
+
+1466
+01:07:42,800 --> 01:07:44,800
+And they thought, you know, it's a big problem.
+
+1467
+01:07:44,800 --> 01:07:49,300
+And it was kind of a funny system, because
+
+1468
+01:07:49,300 --> 01:07:53,800
+we're requiring banks to raise capital at the worst time.
+
+1469
+01:07:53,800 --> 01:07:56,800
+And that can't be the right system.
+
+1470
+01:07:56,800 --> 01:07:58,300
+And they looked around and tried
+
+1471
+01:07:58,300 --> 01:07:59,800
+to decide what to do better.
+
+1472
+01:07:59,800 --> 01:08:01,800
+Most countries of the world
+
+1473
+01:08:01,800 --> 01:08:03,800
+were following this kind of system.
+
+1474
+01:08:03,800 --> 01:08:06,800
+There was some – some people were impressed
+
+1475
+01:08:06,800 --> 01:08:09,800
+by the government of Spain having a better system.
+
+1476
+01:08:09,800 --> 01:08:12,800
+But the Spanish banking system collapsed anyway.
+
+1477
+01:08:12,800 --> 01:08:16,800
+So, it didn't solve the problem.
+
+1478
+01:08:16,800 --> 01:08:22,300
+So, Basel III came up with a
+
+1479
+01:08:22,300 --> 01:08:27,800
+solution, which was to allow the central regulators
+
+1480
+01:08:27,800 --> 01:08:39,800
+to add another buffer of 2.5%.
+
+1481
+01:08:39,800 --> 01:08:41,800
+If they think there's a bubble going on.
+
+1482
+01:08:42,800 --> 01:08:45,800
+They would do this before the crisis.
+
+1483
+01:08:45,800 --> 01:08:52,800
+And that raises the common equity requirement to 9.5%.
+
+1484
+01:08:52,800 --> 01:08:54,300
+So, the idea is, this
+
+1485
+01:08:54,300 --> 01:08:55,800
+is going to be a problem.
+
+1486
+01:08:55,800 --> 01:08:58,800
+Raising capital at a time of difficulty
+
+1487
+01:08:58,800 --> 01:09:01,800
+is always going to be a problem.
+
+1488
+01:09:01,800 --> 01:09:04,300
+And we can always rely again on
+
+1489
+01:09:04,300 --> 01:09:06,800
+our central banks, but maybe we can't.
+
+1490
+01:09:06,800 --> 01:09:08,800
+Maybe we shouldn't.
+
+1491
+01:09:08,800 --> 01:09:09,800
+And so, the idea is,
+
+1492
+01:09:09,800 --> 01:09:10,800
+let's take bank regulators in mind.
+
+1493
+01:09:10,800 --> 01:09:11,800
+Let's take them in mind.
+
+1494
+01:09:11,800 --> 01:09:14,800
+Let's take bank regulators and make it
+
+1495
+01:09:14,800 --> 01:09:17,800
+their obligation to raise capital requirements in advance,
+
+1496
+01:09:17,800 --> 01:09:19,800
+when they see a bubble coming.
+
+1497
+01:09:19,800 --> 01:09:23,800
+Now, another thing that happened in the
+
+1498
+01:09:23,800 --> 01:09:27,800
+United States is the Dodd-Frank Act of 2010.
+
+1499
+01:09:27,800 --> 01:09:32,800
+Because of intense public reaction to all
+
+1500
+01:09:32,800 --> 01:09:37,800
+the bailouts, said that the Federal Reserve
+
+1501
+01:09:37,800 --> 01:09:38,800
+can no longer use discretion in
+
+1502
+01:09:38,800 --> 01:09:39,800
+deciding who's going to be in charge.
+
+1503
+01:09:39,800 --> 01:09:43,800
+They can operate a discount window, but
+
+1504
+01:09:43,800 --> 01:09:47,800
+it has to be completely fair and even.
+
+1505
+01:09:47,800 --> 01:09:50,800
+They can't decide, we're going to bail out Bear
+
+1506
+01:09:50,800 --> 01:09:53,800
+Stearns, and we're going to let Lehman Brothers fail.
+
+1507
+01:09:53,800 --> 01:09:57,800
+All they can do is operate a consistent discount window.
+
+1508
+01:09:57,800 --> 01:10:01,300
+So, the Dodd-Frank Act constrained the
+
+1509
+01:10:01,300 --> 01:10:04,800
+central bank in the United States
+
+1510
+01:10:04,800 --> 01:10:06,300
+from exercising the kind of judgment
+
+1511
+01:10:06,300 --> 01:10:07,800
+that saved us from the crisis.
+
+1512
+01:10:07,800 --> 01:10:09,800
+So, we're going to have to do something about it.
+
+1513
+01:10:09,800 --> 01:10:12,800
+And we're going to have to rely
+
+1514
+01:10:12,800 --> 01:10:15,800
+on some different things, like better capital standards,
+
+1515
+01:10:15,800 --> 01:10:21,800
+like Basel III, to fix the situation.
+
+1516
+01:10:21,800 --> 01:10:23,300
+Whether we're there or not is
+
+1517
+01:10:23,300 --> 01:10:24,800
+going to be a big question.
+
+1518
+01:10:24,800 --> 01:10:28,300
+This is a complicated system, and we put a
+
+1519
+01:10:28,300 --> 01:10:31,800
+lot of the best minds into trying to figure out
+
+1520
+01:10:31,800 --> 01:10:34,300
+how to prevent the kind of
+
+1521
+01:10:34,300 --> 01:10:36,800
+instability that we're seeing in this example,
+
+1522
+01:10:36,800 --> 01:10:39,800
+where everyone is short on capital at the same time,
+
+1523
+01:10:39,800 --> 01:10:42,300
+everyone is selling loans at the
+
+1524
+01:10:42,300 --> 01:10:44,800
+same time, and the whole system collapses.
+
+1525
+01:10:44,800 --> 01:10:47,300
+We've come up with different solutions,
+
+1526
+01:10:47,300 --> 01:10:49,800
+but they have to be implemented yet,
+
+1527
+01:10:49,800 --> 01:10:51,800
+and there are problems of implementation.
+
+1528
+01:10:51,800 --> 01:10:55,800
+The role of central banks and
+
+1529
+01:10:55,800 --> 01:10:59,800
+of regulatory authorities are evolving and changing,
+
+1530
+01:10:59,800 --> 01:11:03,800
+and it'll be a period of many years
+
+1531
+01:11:03,800 --> 01:11:07,800
+before we know where this system is actually going.
+
+1532
+01:11:07,800 --> 01:11:09,800
+All right, I will stop here.
+
+1533
+01:11:09,800 --> 01:11:13,800
+Next lecture is on investment banking,
+
+1534
+01:11:13,800 --> 01:11:19,800
+and we have a former Econ 252 student, Jan Fugner,
+
+1535
+01:11:19,800 --> 01:11:22,800
+who is back after nine years,
+
+1536
+01:11:22,800 --> 01:11:25,300
+and he will tell us about
+
+1537
+01:11:25,300 --> 01:11:27,800
+his experiences as an investment banker,
+
+1538
+01:11:27,800 --> 01:11:30,800
+and also a Facebook executive.
+
