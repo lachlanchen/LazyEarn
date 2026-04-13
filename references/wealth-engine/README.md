@@ -31,3 +31,7 @@ Expected subfolders are created and maintained by the script:
 - `prompts/`
 
 Raw runtime JSONL logs are intentionally kept under `runtime/logs/wealth-engine/` and ignored by git.
+
+Curated knowledge guides:
+
+- `knowledge/video-playlists-money-wealth.md` for official video study paths across entrepreneurship, business, finance, economics, money, banking, markets, game theory, and chaos.
