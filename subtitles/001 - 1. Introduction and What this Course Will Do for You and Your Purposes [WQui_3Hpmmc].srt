@@ -1,0 +1,6260 @@
+1
+00:00:00,000 --> 00:00:06,180
+Welcome to Economics 252. This is Financial Markets
+
+2
+00:00:06,180 --> 00:00:12,360
+and I'm Robert Shiller. This is a course for
+
+3
+00:00:12,360 --> 00:00:17,360
+undergraduates. It doesn't presume any prerequisites
+
+4
+00:00:17,360 --> 00:00:22,360
+except the basic intro econ prerequisite. It's
+
+5
+00:00:22,360 --> 00:00:37,110
+about, well, the title of the course is Financial Markets. By putting markets in the title of the course, I'm trying to indicate that it's down to earth. It's about the real
+
+6
+00:00:37,110 --> 00:00:51,860
+world. And it's about, but to me, it connotes that this is about what we do in our lives. It's about our society. So you might imagine it's a course about trading.
+
+7
+00:00:52,360 --> 00:01:02,110
+Since it says markets. But it's more general than that. Finance, I believe, is a, as it says in the course
+
+8
+00:01:02,110 --> 00:01:11,860
+description, a pillar of civilized society. It's the structure through which we do things, at least on a large scale of things.
+
+9
+00:01:11,860 --> 00:01:16,360
+It's about allocating resources through space and time,
+
+10
+00:01:16,360 --> 00:01:20,860
+our limited resources that we have in our world.
+
+11
+00:01:20,860 --> 00:01:22,360
+It's about incentivizing
+
+12
+00:01:22,360 --> 00:01:32,360
+people to do productive things. It's about sponsoring ventures that bring together a lot of people and making sure that people
+
+13
+00:01:32,360 --> 00:01:42,360
+are fairly treated, that they contribute constructively and that they get a return for doing that. And it's about managing risks.
+
+14
+00:01:42,360 --> 00:01:44,360
+Anything that we do in life is uncertain. Anything big or important that we do is uncertain. And that's what, to me, that's what financial markets is. So, it's all about the risk, and the
+
+15
+00:01:44,360 --> 00:01:46,360
+risk of risk, and the risk of the future, and the risk of the future. You have to, you have to be able to do something that you don't know about. So, let's get started.
+
+16
+00:01:46,360 --> 00:01:47,360
+Well, I think I'm going to wrap up here.
+
+17
+00:01:47,360 --> 00:01:48,360
+And I'll just say a couple of things.
+
+18
+00:01:48,360 --> 00:01:48,860
+I think, as I said, financial markets
+
+19
+00:01:48,860 --> 00:01:49,360
+are important, but financial markets are also important.
+
+20
+00:01:49,360 --> 00:01:50,360
+So, financial markets are important.
+
+21
+00:01:50,360 --> 00:01:51,360
+And I think, as I said, financial markets are important.
+
+22
+00:01:51,360 --> 00:01:52,360
+So, financial markets are important.
+
+23
+00:01:52,360 --> 00:01:54,460
+financial markets is about.
+
+24
+00:01:59,840 --> 00:02:02,600
+To me, this is a
+
+25
+00:02:02,600 --> 00:02:05,360
+course that will have a philosophical
+
+26
+00:02:05,360 --> 00:02:09,820
+underpinning, but at the same time will be
+
+27
+00:02:09,820 --> 00:02:11,420
+very focused on details.
+
+28
+00:02:15,579 --> 00:02:19,560
+I'm fascinated by the details about how things work.
+
+29
+00:02:19,560 --> 00:02:20,840
+It can be boring.
+
+30
+00:02:20,840 --> 00:02:23,340
+I hope I'm not boring in this course.
+
+31
+00:02:23,340 --> 00:02:28,960
+But it's in the details that things happen.
+
+32
+00:02:28,960 --> 00:02:31,760
+So I want to talk about particular institutions.
+
+33
+00:02:31,760 --> 00:02:35,260
+And I'm interpreting finance broadly in this course.
+
+34
+00:02:35,260 --> 00:02:38,420
+I want to talk about banking, insurance.
+
+35
+00:02:38,420 --> 00:02:41,720
+Sometimes people don't include insurance as part of finance,
+
+36
+00:02:41,720 --> 00:02:43,860
+but I don't see why not.
+
+37
+00:02:43,860 --> 00:02:45,860
+So we'll include it.
+
+38
+00:02:45,860 --> 00:02:49,220
+It's about securities, about futures markets, about
+
+39
+00:02:49,220 --> 00:02:50,420
+derivatives markets.
+
+40
+00:02:50,840 --> 00:02:54,340
+And it's going to be about financial crises.
+
+41
+00:02:54,340 --> 00:02:56,560
+And it's also about the future.
+
+42
+00:02:56,560 --> 00:02:58,160
+I like to try to think
+
+43
+00:02:58,160 --> 00:02:59,760
+about the future, although it's hard
+
+44
+00:02:59,760 --> 00:03:01,160
+to do so.
+
+45
+00:03:01,160 --> 00:03:03,160
+Where are we going?
+
+46
+00:03:03,160 --> 00:03:05,030
+This course will have a US
+
+47
+00:03:05,030 --> 00:03:06,900
+bias, since we live in the
+
+48
+00:03:06,900 --> 00:03:08,980
+United States.
+
+49
+00:03:08,980 --> 00:03:11,900
+I know the US better than any other country.
+
+50
+00:03:11,900 --> 00:03:14,370
+But at the same time, I
+
+51
+00:03:14,370 --> 00:03:16,840
+recognize that many of you, or
+
+52
+00:03:16,840 --> 00:03:19,720
+even most of you, will work outside the US.
+
+53
+00:03:20,840 --> 00:03:23,650
+And so it's important that
+
+54
+00:03:23,650 --> 00:03:26,460
+we have a world perspective, which
+
+55
+00:03:26,460 --> 00:03:28,340
+is something I will try
+
+56
+00:03:28,340 --> 00:03:30,220
+my utmost to incorporate in this
+
+57
+00:03:30,220 --> 00:03:31,940
+course.
+
+58
+00:03:31,940 --> 00:03:35,600
+The world perspective also particularly matters, since we
+
+59
+00:03:35,600 --> 00:03:39,200
+have other viewers for this course besides those people in
+
+60
+00:03:39,200 --> 00:03:40,920
+this room.
+
+61
+00:03:40,920 --> 00:03:43,820
+This course is one of
+
+62
+00:03:43,820 --> 00:03:46,720
+a couple dozen courses that Yale
+
+63
+00:03:46,720 --> 00:03:50,040
+University is offering free to the world.
+
+64
+00:03:50,040 --> 00:03:50,180
+It's a wonderful course.
+
+65
+00:03:50,180 --> 00:03:50,340
+I think it's a great course.
+
+66
+00:03:50,340 --> 00:03:50,390
+And I hope you'll be
+
+67
+00:03:50,390 --> 00:03:50,440
+interested in what I'm talking about.
+
+68
+00:03:50,440 --> 00:03:50,720
+on the US-Mass.com website.
+
+69
+00:03:50,720 --> 00:03:50,760
+So, thank you very much.
+
+70
+00:03:50,760 --> 00:03:50,820
+Thank you very much.
+
+71
+00:03:50,840 --> 00:03:54,240
+part of Open Yale.
+
+72
+00:03:54,240 --> 00:03:57,760
+And that means there's a cameraman back there, if you
+
+73
+00:03:57,760 --> 00:03:59,080
+noticed.
+
+74
+00:03:59,080 --> 00:04:03,200
+That's Dan Cody filming the course.
+
+75
+00:04:03,200 --> 00:04:06,840
+And it will be eventually posted on the internet.
+
+76
+00:04:06,840 --> 00:04:10,640
+And it will be available through Open Yale.
+
+77
+00:04:10,640 --> 00:04:14,860
+And then, by proliferation, you'll find it on many other
+
+78
+00:04:14,860 --> 00:04:18,399
+websites as well.
+
+79
+00:04:18,399 --> 00:04:20,820
+This is the second time this course has been
+
+80
+00:04:20,820 --> 00:04:22,560
+filmed for Open Yale.
+
+81
+00:04:22,560 --> 00:04:27,979
+The first time was in 2008, three years ago.
+
+82
+00:04:27,979 --> 00:04:31,249
+And I'm very pleased to report that
+
+83
+00:04:31,249 --> 00:04:34,520
+I have a lot of people in
+
+84
+00:04:34,520 --> 00:04:39,580
+every imaginable country who have watched these lectures.
+
+85
+00:04:39,580 --> 00:04:41,710
+And I get emails from them,
+
+86
+00:04:41,710 --> 00:04:43,840
+so I know that they're out there.
+
+87
+00:04:47,620 --> 00:04:48,400
+But I thought that this
+
+88
+00:04:48,400 --> 00:04:51,840
+course needs updating, probably more than any course
+
+89
+00:04:51,840 --> 00:04:53,539
+on Open Yale.
+
+90
+00:04:53,539 --> 00:04:55,379
+A course in physics only has
+
+91
+00:04:55,379 --> 00:04:57,219
+to be updated for the last three
+
+92
+00:04:57,219 --> 00:04:58,919
+years of research in physics.
+
+93
+00:04:58,919 --> 00:05:03,219
+It's probably not a big thing for an undergraduate course.
+
+94
+00:05:03,219 --> 00:05:05,849
+But finance really has to
+
+95
+00:05:05,849 --> 00:05:08,479
+be updated, I think, because it's
+
+96
+00:05:08,479 --> 00:05:11,640
+going through such turmoil and change right now.
+
+97
+00:05:11,640 --> 00:05:15,039
+We've had the worst financial crisis since the Great
+
+98
+00:05:15,039 --> 00:05:17,620
+Depression, and it's been a worldwide crisis.
+
+99
+00:05:17,620 --> 00:05:21,380
+And governments around the world are working on changing
+
+100
+00:05:21,380 --> 00:05:23,860
+our financial institutions.
+
+101
+00:05:23,860 --> 00:05:28,380
+We have organizations of governments, notably the G20,
+
+102
+00:05:28,380 --> 00:05:30,620
+which is very involved in finance.
+
+103
+00:05:30,620 --> 00:05:32,290
+It's one of the top
+
+104
+00:05:32,290 --> 00:05:33,960
+items on their agenda for international
+
+105
+00:05:33,960 --> 00:05:37,620
+cooperation, is changing our financial markets.
+
+106
+00:05:37,620 --> 00:05:39,340
+So I think that that's another
+
+107
+00:05:39,340 --> 00:05:41,060
+reason why I want to try to
+
+108
+00:05:41,060 --> 00:05:46,260
+keep as international a focus as I'm good at doing.
+
+109
+00:05:46,260 --> 00:05:46,590
+But I think that's another reason why I want to try
+
+110
+00:05:46,590 --> 00:05:46,920
+to keep as international a focus as I'm good at doing.
+
+111
+00:05:47,620 --> 00:05:47,660
+But I think that's another reason why I want to try
+
+112
+00:05:47,660 --> 00:05:47,700
+to keep as international a focus as I'm good at doing.
+
+113
+00:05:47,700 --> 00:05:48,070
+But I think that's another reason why I want to try
+
+114
+00:05:48,070 --> 00:05:48,440
+to keep as international a focus as I'm good at doing.
+
+115
+00:05:48,440 --> 00:05:50,990
+But I hope that you're
+
+116
+00:05:50,990 --> 00:05:53,540
+not disturbed, those of you who
+
+117
+00:05:53,540 --> 00:05:55,460
+are in this room are
+
+118
+00:05:55,460 --> 00:05:57,380
+not disturbed by the camera and
+
+119
+00:05:57,380 --> 00:06:00,240
+feel you can ask questions and
+
+120
+00:06:00,240 --> 00:06:03,100
+you can, you don't have to be
+
+121
+00:06:03,100 --> 00:06:03,920
+on camera.
+
+122
+00:06:03,920 --> 00:06:05,340
+I think I'm just being filmed.
+
+123
+00:06:05,340 --> 00:06:12,760
+So that's where we are.
+
+124
+00:06:12,760 --> 00:06:15,190
+Now, I wanted to put this
+
+125
+00:06:15,190 --> 00:06:17,620
+in a little bit broader context.
+
+126
+00:06:17,620 --> 00:06:20,150
+The other major finance course that
+
+127
+00:06:20,150 --> 00:06:22,680
+we have here at Yale is
+
+128
+00:06:22,680 --> 00:06:28,040
+Economics 251, and it's taught by Professor John
+
+129
+00:06:28,040 --> 00:06:32,040
+Yacopoulos, who is a mathematical economist and
+
+130
+00:06:32,040 --> 00:06:33,300
+also a practitioner.
+
+131
+00:06:37,940 --> 00:06:41,540
+He's research director for Ellington Capital.
+
+132
+00:06:41,540 --> 00:06:43,010
+So, he's somewhat like me
+
+133
+00:06:43,010 --> 00:06:44,480
+in that he's interested both in
+
+134
+00:06:44,480 --> 00:06:45,740
+theory and practice.
+
+135
+00:06:47,620 --> 00:06:54,960
+But his course is definitely more theoretical and
+
+136
+00:06:54,960 --> 00:06:56,800
+mathematical than mine.
+
+137
+00:06:56,800 --> 00:07:00,680
+His is entitled Financial Theory.
+
+138
+00:07:00,680 --> 00:07:03,300
+And I can read some of the topics.
+
+139
+00:07:03,300 --> 00:07:07,960
+And his courses also will appear on Open Yale shortly.
+
+140
+00:07:07,960 --> 00:07:08,980
+You can take the whole course.
+
+141
+00:07:08,980 --> 00:07:11,740
+But I don't know, it's not up at this moment.
+
+142
+00:07:11,740 --> 00:07:14,880
+It will be up in a matter of months.
+
+143
+00:07:14,880 --> 00:07:16,160
+So, I encourage you, if
+
+144
+00:07:16,160 --> 00:07:17,440
+you want to, to take it.
+
+145
+00:07:17,440 --> 00:07:17,620
+Open Yale.
+
+146
+00:07:17,620 --> 00:07:20,900
+Open Yale Econ 251.
+
+147
+00:07:20,900 --> 00:07:22,240
+But the things that he talks
+
+148
+00:07:22,240 --> 00:07:23,580
+about in that course, if you
+
+149
+00:07:23,580 --> 00:07:25,080
+read the topics in his
+
+150
+00:07:25,080 --> 00:07:26,580
+course, you'll see that they're more
+
+151
+00:07:26,580 --> 00:07:29,120
+mathematical and technical than mine.
+
+152
+00:07:29,120 --> 00:07:32,200
+He talks about utilities, endowments, and how it leads
+
+153
+00:07:32,200 --> 00:07:37,380
+to equilibrium, assets and time, the mathematical theory
+
+154
+00:07:37,380 --> 00:07:41,640
+of bond pricing, dynamic present value, social
+
+155
+00:07:41,640 --> 00:07:46,360
+security and the overlapping generations model, uncertainty
+
+156
+00:07:46,360 --> 00:07:47,440
+and hedging.
+
+157
+00:07:47,440 --> 00:07:52,560
+And he talks about, I'm quoting his titles, state pricing.
+
+158
+00:07:52,560 --> 00:07:54,200
+That's kind of an abstract theory.
+
+159
+00:07:54,200 --> 00:07:56,660
+We talk about the price of a state of nature.
+
+160
+00:07:56,660 --> 00:07:58,440
+I won't explain that.
+
+161
+00:07:58,440 --> 00:08:00,320
+He talks in some length about
+
+162
+00:08:00,320 --> 00:08:02,200
+risk, the theory of risk, and
+
+163
+00:08:02,200 --> 00:08:05,360
+the capital asset pricing model, and about the leverage
+
+164
+00:08:05,360 --> 00:08:09,960
+cycle, which is relevant to our crises.
+
+165
+00:08:09,960 --> 00:08:13,560
+So, I recommend you take Econ 251.
+
+166
+00:08:13,560 --> 00:08:16,560
+But I don't expect you to take it.
+
+167
+00:08:16,560 --> 00:08:18,560
+It's a very complex topic.
+
+168
+00:08:18,560 --> 00:08:21,560
+It's very contained.
+
+169
+00:08:21,560 --> 00:08:27,060
+And I'm going to keep mathematics to the minimum in
+
+170
+00:08:27,060 --> 00:08:28,840
+these lectures.
+
+171
+00:08:28,840 --> 00:08:30,509
+But the idea here is
+
+172
+00:08:30,509 --> 00:08:32,179
+that we can't avoid it completely.
+
+173
+00:08:32,179 --> 00:08:35,000
+I personally am mathematically inclined, too.
+
+174
+00:08:35,000 --> 00:08:37,169
+But I'm understanding that we
+
+175
+00:08:37,169 --> 00:08:39,340
+have divided our subject matter.
+
+176
+00:08:39,340 --> 00:08:42,679
+So, John Giannakopoulos is doing the math and the theory,
+
+177
+00:08:42,679 --> 00:08:46,380
+and I'm doing the real world more.
+
+178
+00:08:46,380 --> 00:08:48,380
+So, I'm going to stay to that.
+
+179
+00:08:48,380 --> 00:08:54,320
+And I'm going to talk more about institutions and history
+
+180
+00:08:54,320 --> 00:08:55,860
+than about mathematics.
+
+181
+00:08:59,700 --> 00:09:01,350
+Since I know that most of you,
+
+182
+00:09:01,350 --> 00:09:03,000
+or many of you, will not take
+
+183
+00:09:03,000 --> 00:09:04,850
+economics 251, what we are
+
+184
+00:09:04,850 --> 00:09:06,700
+doing is, I'll give a little
+
+185
+00:09:06,700 --> 00:09:12,380
+indication of the mathematical principles, more intuitive.
+
+186
+00:09:12,380 --> 00:09:15,380
+And I will work on it.
+
+187
+00:09:15,380 --> 00:09:16,380
+Thank you.
+
+188
+00:09:16,380 --> 00:09:18,620
+So, I want to talk about math.
+
+189
+00:09:18,620 --> 00:09:20,190
+And I want to explain it
+
+190
+00:09:20,190 --> 00:09:21,760
+to you, in a few minutes,
+
+191
+00:09:21,760 --> 00:09:24,620
+because I think it's a very useful tool.
+
+192
+00:09:24,620 --> 00:09:27,620
+We have reviewed sessions with our teaching assistants.
+
+193
+00:09:27,620 --> 00:09:29,500
+We plan to have six of those.
+
+194
+00:09:29,500 --> 00:09:33,400
+And those will be on a Friday in this room.
+
+195
+00:09:33,400 --> 00:09:36,840
+And they won't be on Open Yale.
+
+196
+00:09:36,840 --> 00:09:38,640
+Those will cover the theory, and
+
+197
+00:09:38,640 --> 00:09:40,440
+it will be like a short
+
+198
+00:09:40,440 --> 00:09:43,380
+form of Giannakopoulos' course.
+
+199
+00:09:43,380 --> 00:09:45,140
+And then we'll have problem sets.
+
+200
+00:09:45,140 --> 00:09:45,740
+And there will be six problem
+
+201
+00:09:45,740 --> 00:09:46,340
+sets, one for each of those
+
+202
+00:09:46,340 --> 00:09:50,490
+I want to talk about the
+
+203
+00:09:50,490 --> 00:09:54,640
+purpose of this course, to clarify it.
+
+204
+00:09:54,640 --> 00:09:58,370
+One thing is, what do I imagine
+
+205
+00:09:58,370 --> 00:10:02,100
+you're going to do with this course?
+
+206
+00:10:02,100 --> 00:10:05,630
+Well, first of all, I pride myself that I
+
+207
+00:10:05,630 --> 00:10:09,160
+think I teach, if I might boast for a minute,
+
+208
+00:10:09,160 --> 00:10:11,070
+I think I teach one of
+
+209
+00:10:11,070 --> 00:10:12,980
+the most useful courses in Yale College.
+
+210
+00:10:12,980 --> 00:10:15,200
+At least, that's the way I think about it.
+
+211
+00:10:15,200 --> 00:10:18,660
+Because this course really prepares you
+
+212
+00:10:18,660 --> 00:10:22,120
+to do things in the world.
+
+213
+00:10:22,120 --> 00:10:24,490
+I've taught this course, by the way, I've
+
+214
+00:10:24,490 --> 00:10:26,860
+been teaching this course now for 25 years.
+
+215
+00:10:26,860 --> 00:10:29,520
+I first taught it in the fall of 1985.
+
+216
+00:10:29,520 --> 00:10:32,060
+Now, I don't know if that's depressing or not.
+
+217
+00:10:32,060 --> 00:10:33,540
+To me, it's great.
+
+218
+00:10:33,540 --> 00:10:36,520
+I like to be able to keep moving ahead.
+
+219
+00:10:36,520 --> 00:10:39,080
+I wonder what my 1985 course looked like.
+
+220
+00:10:39,080 --> 00:10:41,440
+Unfortunately, they didn't do Open Yale, and
+
+221
+00:10:41,440 --> 00:10:43,800
+I can't go back and look at it.
+
+222
+00:10:43,800 --> 00:10:45,100
+But I think I've gotten more philosophical.
+
+223
+00:10:45,100 --> 00:10:51,340
+And maybe more real-world oriented as time has gone by.
+
+224
+00:10:51,340 --> 00:10:53,520
+But the excitement I have is when I
+
+225
+00:10:53,520 --> 00:10:55,700
+go, I give a lot of public talks.
+
+226
+00:10:55,700 --> 00:10:57,400
+And it's often on Wall Street.
+
+227
+00:10:57,400 --> 00:10:59,800
+And when I do one on Wall Street, I
+
+228
+00:10:59,800 --> 00:11:02,200
+like to ask people for a show of hands.
+
+229
+00:11:02,200 --> 00:11:07,040
+How many of you were in my Economics 252 class?
+
+230
+00:11:07,040 --> 00:11:09,300
+And I typically get one or
+
+231
+00:11:09,300 --> 00:11:11,560
+two, at least, who raise their hands.
+
+232
+00:11:11,560 --> 00:11:14,020
+So that's a source of pride to me.
+
+233
+00:11:14,020 --> 00:11:15,020
+That's great.
+
+234
+00:11:15,100 --> 00:11:18,000
+I'm glad that I've been able to get people.
+
+235
+00:11:18,000 --> 00:11:21,540
+I was involved in the beginning of their careers.
+
+236
+00:11:21,540 --> 00:11:24,760
+And I hope I instilled some kind
+
+237
+00:11:24,760 --> 00:11:27,980
+of moral sense to what they do.
+
+238
+00:11:27,980 --> 00:11:32,620
+So I should say, I don't think
+
+239
+00:11:32,620 --> 00:11:37,260
+that most of you will go into finance.
+
+240
+00:11:37,260 --> 00:11:42,160
+Because I think that most of you have other purposes.
+
+241
+00:11:42,160 --> 00:11:43,340
+What does it mean to go into finance?
+
+242
+00:11:43,340 --> 00:11:44,340
+Well, it sounds like that means you're going to finance.
+
+243
+00:11:44,340 --> 00:11:44,940
+I don't think that's the case.
+
+244
+00:11:44,940 --> 00:11:45,040
+I think that's the case.
+
+245
+00:11:45,040 --> 00:11:45,060
+I think that's the case.
+
+246
+00:11:45,060 --> 00:11:45,900
+And I think that's the case.
+
+247
+00:11:45,900 --> 00:11:49,700
+And you would be listed as
+
+248
+00:11:49,700 --> 00:11:53,500
+someone who is very focused on finance.
+
+249
+00:11:53,500 --> 00:12:00,680
+But I think everyone should know finance.
+
+250
+00:12:00,680 --> 00:12:04,260
+This should be a required course, actually, at Yale College.
+
+251
+00:12:04,260 --> 00:12:07,830
+Because finance is so fundamental to what
+
+252
+00:12:07,830 --> 00:12:11,400
+we do and a structure of our lives.
+
+253
+00:12:11,400 --> 00:12:14,900
+I don't see how you can avoid doing finance.
+
+254
+00:12:14,900 --> 00:12:17,240
+You can do something big and important.
+
+255
+00:12:17,240 --> 00:12:18,439
+Maybe you don't want to do that either.
+
+256
+00:12:18,439 --> 00:12:20,480
+So you might want to become a hermit.
+
+257
+00:12:20,480 --> 00:12:22,280
+And then you don't need finance.
+
+258
+00:12:22,280 --> 00:12:27,010
+But to me, I like to think that many
+
+259
+00:12:27,010 --> 00:12:31,740
+of you have a sense of purpose in life.
+
+260
+00:12:31,740 --> 00:12:32,980
+I should say at the
+
+261
+00:12:32,980 --> 00:12:34,220
+beginning, that sounded funny, didn't it?
+
+262
+00:12:34,220 --> 00:12:36,290
+But what I'm saying is, your
+
+263
+00:12:36,290 --> 00:12:38,360
+purpose is not to make money.
+
+264
+00:12:38,360 --> 00:12:41,550
+And this is one thing about finance that bothers me,
+
+265
+00:12:41,550 --> 00:12:44,740
+is that people think that it's a field for money-grubbing people,
+
+266
+00:12:44,740 --> 00:12:48,780
+who just want to go out and make money.
+
+267
+00:12:48,780 --> 00:12:49,540
+And I don't think so.
+
+268
+00:12:49,540 --> 00:12:53,340
+I think it's a technology for doing things.
+
+269
+00:12:53,340 --> 00:12:56,300
+And you don't want to be mystified by it.
+
+270
+00:12:56,300 --> 00:12:58,360
+You don't want to, when someone talks
+
+271
+00:12:58,360 --> 00:13:00,420
+some financial jargon, you don't want to say,
+
+272
+00:13:00,420 --> 00:13:03,300
+I don't have a clue what that's about.
+
+273
+00:13:03,300 --> 00:13:06,780
+Because what that's about is how we make things happen.
+
+274
+00:13:06,780 --> 00:13:14,140
+And so, it's, I don't know.
+
+275
+00:13:14,140 --> 00:13:14,680
+I don't know.
+
+276
+00:13:14,680 --> 00:13:14,700
+I don't know.
+
+277
+00:13:14,700 --> 00:13:14,740
+I don't know.
+
+278
+00:13:14,740 --> 00:13:16,740
+I don't know.
+
+279
+00:13:16,740 --> 00:13:19,810
+I think that, I hope that you
+
+280
+00:13:19,810 --> 00:13:22,880
+have other purposes in life, besides finance.
+
+281
+00:13:22,880 --> 00:13:27,300
+Even those of you who go into finance.
+
+282
+00:13:27,300 --> 00:13:34,060
+But the question is whether this is a vocational course.
+
+283
+00:13:34,060 --> 00:13:37,530
+Here at Yale College, there has been a
+
+284
+00:13:37,530 --> 00:13:41,000
+long tradition that we are not a vocational school.
+
+285
+00:13:41,000 --> 00:13:42,700
+I suppose you know that.
+
+286
+00:13:42,700 --> 00:13:44,680
+That Yale is a,
+
+287
+00:13:44,680 --> 00:13:49,680
+a liberal arts, we teach you the arts and sciences.
+
+288
+00:13:49,680 --> 00:13:53,680
+I actually went to look at the charter,
+
+289
+00:13:53,680 --> 00:13:57,680
+and the act of the Connecticut government in 1701
+
+290
+00:13:57,680 --> 00:13:59,680
+that founded this university.
+
+291
+00:13:59,680 --> 00:14:02,680
+This university was initially mostly
+
+292
+00:14:02,680 --> 00:14:05,680
+a training ground for the ministry.
+
+293
+00:14:05,680 --> 00:14:09,180
+But I actually read in the Acts of
+
+294
+00:14:09,180 --> 00:14:12,680
+the Governor and Company of the Colony of Connecticut,
+
+295
+00:14:12,680 --> 00:14:14,640
+Yale College,
+
+296
+00:14:14,640 --> 00:14:17,140
+and I think it's a very important
+
+297
+00:14:17,140 --> 00:14:19,640
+part of the history of the university.
+
+298
+00:14:19,640 --> 00:14:23,640
+And I think that the college is founded for the
+
+299
+00:14:23,640 --> 00:14:27,640
+educating and instructing of youth in good literature, arts, and sciences.
+
+300
+00:14:27,640 --> 00:14:30,640
+I think that is the motive here for this university.
+
+301
+00:14:30,640 --> 00:14:34,640
+And so, I think it is in some level vocational.
+
+302
+00:14:34,640 --> 00:14:37,640
+But it's not, you know, vulgar vocational.
+
+303
+00:14:37,640 --> 00:14:40,640
+I want you to think about what we're doing and
+
+304
+00:14:40,640 --> 00:14:43,640
+how it fits into what you do for your life.
+
+305
+00:14:43,640 --> 00:14:46,640
+And I think of finance as
+
+306
+00:14:46,640 --> 00:14:49,640
+a kind of engineering in a way.
+
+307
+00:14:49,640 --> 00:14:53,640
+But it's an engineering that works with, not tech machine,
+
+308
+00:14:53,640 --> 00:14:58,640
+with what we call technical apparatus, but with people.
+
+309
+00:14:58,640 --> 00:15:02,640
+And so, if we want to
+
+310
+00:15:02,640 --> 00:15:06,640
+understand how to do these things,
+
+311
+00:15:06,640 --> 00:15:10,640
+we have to get some technical apparatus under our belt.
+
+312
+00:15:10,640 --> 00:15:11,640
+And that's what I'm going to
+
+313
+00:15:11,640 --> 00:15:12,640
+try to do in this course.
+
+314
+00:15:13,640 --> 00:15:17,140
+The textbook that I chose for
+
+315
+00:15:17,140 --> 00:15:20,640
+this course is by Frank Fabozzi,
+
+316
+00:15:20,640 --> 00:15:23,640
+who is a professor at the Yale School of Management.
+
+317
+00:15:23,640 --> 00:15:25,640
+Well, with two co-authors.
+
+318
+00:15:25,640 --> 00:15:29,140
+We have Franco Mondigliani, for
+
+319
+00:15:29,140 --> 00:15:32,640
+whom I have some personal affection,
+
+320
+00:15:32,640 --> 00:15:37,640
+because he was my dissertation advisor at MIT.
+
+321
+00:15:37,640 --> 00:15:42,640
+And unfortunately, he died in 2003.
+
+322
+00:15:43,640 --> 00:15:49,640
+And Frank Jones of the Guardian Life Insurance Company.
+
+323
+00:15:49,640 --> 00:15:54,140
+This book is, I've also written joint papers
+
+324
+00:15:54,140 --> 00:15:58,640
+with, well, with two of the three authors.
+
+325
+00:15:58,640 --> 00:16:01,140
+I've written joint papers with
+
+326
+00:16:01,140 --> 00:16:03,640
+Fabozzi and with Mondigliani, research papers.
+
+327
+00:16:03,640 --> 00:16:08,640
+But they have, they're similar to me in many ways.
+
+328
+00:16:08,640 --> 00:16:11,640
+They're interested in the details.
+
+329
+00:16:11,640 --> 00:16:14,640
+I hope you get interested in the details.
+
+330
+00:16:14,640 --> 00:16:17,640
+I find this textbook fascinating.
+
+331
+00:16:17,640 --> 00:16:19,640
+Why for me?
+
+332
+00:16:19,640 --> 00:16:22,140
+Well, I first read this book,
+
+333
+00:16:22,140 --> 00:16:24,640
+when I first started assigning it,
+
+334
+00:16:24,640 --> 00:16:27,140
+I was going on vacation with
+
+335
+00:16:27,140 --> 00:16:29,640
+my friend Jeremy Siegel, who's at the,
+
+336
+00:16:29,640 --> 00:16:31,640
+and our families, who is
+
+337
+00:16:31,640 --> 00:16:33,640
+a professor at the Wharton School.
+
+338
+00:16:33,640 --> 00:16:38,640
+And we, I brought this book as my poolside reading.
+
+339
+00:16:38,640 --> 00:16:40,640
+And I was sitting there with this book.
+
+340
+00:16:40,640 --> 00:16:44,640
+Other people were reading novels and fun things.
+
+341
+00:16:44,640 --> 00:16:47,140
+But I was thinking, I don't know what they
+
+342
+00:16:47,140 --> 00:16:49,640
+thought of me, reading this textbook by the pool.
+
+343
+00:16:49,640 --> 00:16:51,640
+But I thought, this is great.
+
+344
+00:16:51,640 --> 00:16:53,640
+Because, you know, I knew, I thought
+
+345
+00:16:53,640 --> 00:16:55,640
+I knew most of what's in here.
+
+346
+00:16:55,640 --> 00:16:56,640
+But there's a lot of
+
+347
+00:16:56,640 --> 00:16:57,640
+things that I still didn't know.
+
+348
+00:16:57,640 --> 00:17:00,640
+And it was answering all kinds of questions.
+
+349
+00:17:00,640 --> 00:17:02,639
+Things you always wanted to
+
+350
+00:17:02,639 --> 00:17:04,639
+know about real estate securities.
+
+351
+00:17:04,639 --> 00:17:05,639
+Okay?
+
+352
+00:17:05,639 --> 00:17:06,639
+But you never found out.
+
+353
+00:17:06,639 --> 00:17:08,639
+Well, it's all answered here.
+
+354
+00:17:08,639 --> 00:17:09,639
+So, I hope you can take that.
+
+355
+00:17:09,640 --> 00:17:12,140
+I hope you can take
+
+356
+00:17:12,140 --> 00:17:14,640
+that spirit in reading the textbook.
+
+357
+00:17:14,640 --> 00:17:16,640
+That's the only book you
+
+358
+00:17:16,640 --> 00:17:18,640
+have to purchase for this course.
+
+359
+00:17:18,640 --> 00:17:28,640
+And the, it's the main work that you have.
+
+360
+00:17:28,640 --> 00:17:30,140
+So, I'm going to ask
+
+361
+00:17:30,140 --> 00:17:31,640
+you about the details on exams.
+
+362
+00:17:31,640 --> 00:17:34,640
+So, you know, it's not, you know,
+
+363
+00:17:34,640 --> 00:17:37,640
+the kinds of municipal securities that we have.
+
+364
+00:17:37,640 --> 00:17:39,640
+And how the rating agencies rate them.
+
+365
+00:17:39,640 --> 00:17:41,640
+That's part of this course.
+
+366
+00:17:41,640 --> 00:17:44,640
+I believe the details matter.
+
+367
+00:17:44,640 --> 00:17:46,640
+And so, I'm not going to just
+
+368
+00:17:46,640 --> 00:17:48,640
+ask you broad generalities on the exam.
+
+369
+00:17:48,640 --> 00:17:51,640
+I can ask you the details.
+
+370
+00:17:51,640 --> 00:17:53,640
+It's a little bit like teaching a language, right?
+
+371
+00:17:53,640 --> 00:17:55,640
+If you're going to learn,
+
+372
+00:17:55,640 --> 00:17:57,640
+learning a language is really important.
+
+373
+00:17:57,640 --> 00:17:59,640
+And you've got to learn all the words, right?
+
+374
+00:17:59,640 --> 00:18:01,640
+There's thousands of them.
+
+375
+00:18:01,640 --> 00:18:02,640
+It's like that.
+
+376
+00:18:02,640 --> 00:18:04,640
+You're going to be learning the words of finance.
+
+377
+00:18:04,640 --> 00:18:07,640
+And so, yeah.
+
+378
+00:18:09,640 --> 00:18:14,640
+I have another book also, which is actually not
+
+379
+00:18:14,640 --> 00:18:19,640
+done yet, but you can access it through Classes V2.
+
+380
+00:18:19,640 --> 00:18:22,640
+And later, it will come out as a published book.
+
+381
+00:18:22,640 --> 00:18:25,640
+But I'm working on a book called, well,
+
+382
+00:18:25,640 --> 00:18:28,640
+I don't know what it will be called finally.
+
+383
+00:18:28,640 --> 00:18:31,640
+When you're writing a book, one thing you learn as an author is
+
+384
+00:18:31,640 --> 00:18:34,640
+you can never be sure what the title of the book will be.
+
+385
+00:18:34,640 --> 00:18:36,640
+Because if somebody else uses the
+
+386
+00:18:36,640 --> 00:18:38,640
+same title and you're done, you can't.
+
+387
+00:18:38,640 --> 00:18:40,640
+And if somebody else gets to it
+
+388
+00:18:40,640 --> 00:18:42,640
+first, you've got to change your title.
+
+389
+00:18:42,640 --> 00:18:46,140
+But at this moment, the title of
+
+390
+00:18:46,140 --> 00:18:49,640
+my book is, Finance and the Good Society.
+
+391
+00:18:49,640 --> 00:18:50,640
+And it won't be out.
+
+392
+00:18:50,640 --> 00:18:51,640
+I'm not sure when it will be out.
+
+393
+00:18:51,640 --> 00:18:54,140
+I was hoping next year, but now
+
+394
+00:18:54,140 --> 00:18:56,640
+I'm thinking it might take longer than that.
+
+395
+00:18:56,640 --> 00:18:59,640
+So, you have something that's imperfect.
+
+396
+00:18:59,640 --> 00:19:02,640
+I hope you'll excuse me when you
+
+397
+00:19:02,640 --> 00:19:05,640
+look at the chapters of this book.
+
+398
+00:19:05,640 --> 00:19:07,640
+You don't have quite all the chapters either.
+
+399
+00:19:07,640 --> 00:19:11,640
+But I just thought it was a good thing to put it in process
+
+400
+00:19:11,640 --> 00:19:15,640
+for you to, maybe you can, if you have ideas, you can tell me.
+
+401
+00:19:15,640 --> 00:19:19,640
+And the book will change with your input.
+
+402
+00:19:19,640 --> 00:19:22,640
+To me, it's a good way to write a book, is to be writing
+
+403
+00:19:22,640 --> 00:19:25,640
+a book and teaching a class at the same time on the same topic.
+
+404
+00:19:25,640 --> 00:19:27,640
+It's more social.
+
+405
+00:19:27,640 --> 00:19:30,140
+You know, you just sit in your office
+
+406
+00:19:30,140 --> 00:19:32,640
+and write, and you end up feeling sterile.
+
+407
+00:19:32,640 --> 00:19:34,640
+So, this makes it more alive to
+
+408
+00:19:34,640 --> 00:19:36,640
+me to do that at the same time.
+
+409
+00:19:36,640 --> 00:19:38,640
+So, I'll tell you what my book is about.
+
+410
+00:19:38,640 --> 00:19:42,140
+The title that I now have, Finance and the
+
+411
+00:19:42,140 --> 00:19:45,640
+Good Society, may sound to some people like an oxymoron.
+
+412
+00:19:45,640 --> 00:19:48,640
+Because they're kind of incompatible.
+
+413
+00:19:48,640 --> 00:19:51,640
+People are angry about finance these days.
+
+414
+00:19:51,640 --> 00:19:56,640
+We've had, and this is going to be an important part of this
+
+415
+00:19:56,640 --> 00:20:01,640
+course, we've had the worst financial crisis since the Great Depression of the 1930s.
+
+416
+00:20:01,640 --> 00:20:04,640
+And it's been a worldwide financial crisis.
+
+417
+00:20:04,640 --> 00:20:06,640
+And it isn't over yet.
+
+418
+00:20:06,640 --> 00:20:08,640
+It's not clear that it's over yet.
+
+419
+00:20:08,640 --> 00:20:10,640
+And people are angry.
+
+420
+00:20:10,640 --> 00:20:14,640
+People are angry about finance.
+
+421
+00:20:14,640 --> 00:20:17,140
+People who seem to be getting rich,
+
+422
+00:20:17,140 --> 00:20:19,640
+often it seems at the expense of others.
+
+423
+00:20:19,640 --> 00:20:22,140
+They seem to be lobbying their
+
+424
+00:20:22,140 --> 00:20:24,640
+governments to give them breaks and bailouts.
+
+425
+00:20:24,640 --> 00:20:27,640
+And they walk home with billions of dollars.
+
+426
+00:20:27,640 --> 00:20:31,640
+Something seems immoral and wrong.
+
+427
+00:20:31,640 --> 00:20:34,640
+Well, I'm sure some immoral things are happening.
+
+428
+00:20:34,640 --> 00:20:36,640
+But I don't think that
+
+429
+00:20:36,640 --> 00:20:38,640
+finance as a whole is wrong.
+
+430
+00:20:38,640 --> 00:20:41,640
+And I think of it as a noble profession.
+
+431
+00:20:41,640 --> 00:20:46,640
+So, I wanted to try to put it in perspective.
+
+432
+00:20:46,640 --> 00:20:50,640
+And it's especially important when talking to young people
+
+433
+00:20:50,640 --> 00:20:54,640
+like yourselves, because you're launching out on a career.
+
+434
+00:20:54,640 --> 00:20:56,640
+And I want that to
+
+435
+00:20:56,640 --> 00:20:58,640
+be a moral and purposeful career.
+
+436
+00:20:58,640 --> 00:21:03,640
+And I want to put finance in the perspective.
+
+437
+00:21:03,640 --> 00:21:09,140
+So, the theme that I want to develop in my book
+
+438
+00:21:09,140 --> 00:21:14,640
+is that part, you know, we live in a capitalist world now.
+
+439
+00:21:14,640 --> 00:21:21,640
+And this world is increasingly built on finance.
+
+440
+00:21:21,640 --> 00:21:23,640
+Some people call it, we're living
+
+441
+00:21:23,640 --> 00:21:25,640
+in the era of financial capitalism.
+
+442
+00:21:25,640 --> 00:21:29,140
+We have these big multinational institutions that are
+
+443
+00:21:29,140 --> 00:21:32,640
+owned by huge numbers, maybe millions of shareholders.
+
+444
+00:21:32,640 --> 00:21:35,640
+Dispersed all over the world.
+
+445
+00:21:35,640 --> 00:21:38,640
+And what makes the whole thing work and click?
+
+446
+00:21:38,640 --> 00:21:41,640
+It's the financial arrangements.
+
+447
+00:21:41,640 --> 00:21:44,140
+I think that it's, you know, the
+
+448
+00:21:44,140 --> 00:21:46,640
+world is discovering the importance of finance.
+
+449
+00:21:46,640 --> 00:21:50,140
+When I go to a foreign country and give a
+
+450
+00:21:50,140 --> 00:21:53,640
+talk, I find that people are, it doesn't matter what country,
+
+451
+00:21:53,640 --> 00:21:56,640
+they're generally very interested in finance.
+
+452
+00:21:56,640 --> 00:21:59,140
+Because they think that our modern
+
+453
+00:21:59,140 --> 00:22:01,640
+financial techniques are part of what's making
+
+454
+00:22:01,640 --> 00:22:04,140
+so many places in the
+
+455
+00:22:04,140 --> 00:22:06,640
+world grow at rapid rates now.
+
+456
+00:22:06,640 --> 00:22:10,140
+We're living in a time in history
+
+457
+00:22:10,140 --> 00:22:13,640
+when developing world is exploding with growth.
+
+458
+00:22:13,640 --> 00:22:16,140
+And these countries that are doing that
+
+459
+00:22:16,140 --> 00:22:18,640
+are countries that are adopting modern finance.
+
+460
+00:22:18,640 --> 00:22:20,140
+So, I want this to be,
+
+461
+00:22:20,140 --> 00:22:21,640
+I want this to go right.
+
+462
+00:22:21,640 --> 00:22:25,640
+And I want this to be developing a good society.
+
+463
+00:22:25,640 --> 00:22:28,140
+That, by good society, I
+
+464
+00:22:28,140 --> 00:22:30,640
+mean a just and fair society
+
+465
+00:22:30,640 --> 00:22:35,640
+that allows people to develop their talents and expertise.
+
+466
+00:22:35,640 --> 00:22:43,640
+So, another thought I had was that the
+
+467
+00:22:43,640 --> 00:22:51,640
+field of finance, let me give you another slide.
+
+468
+00:22:51,640 --> 00:22:55,640
+I like to compare, I said a few of this
+
+469
+00:22:55,640 --> 00:22:59,640
+course is one of the most important courses in Yale College.
+
+470
+00:23:00,640 --> 00:23:04,640
+At least from a standpoint of your lives and careers.
+
+471
+00:23:04,640 --> 00:23:07,640
+I wanted to compare finance jobs with jobs,
+
+472
+00:23:07,640 --> 00:23:10,640
+and I don't mean to put down other departments,
+
+473
+00:23:10,640 --> 00:23:13,640
+but at least vocationally, let's put this in perspective.
+
+474
+00:23:13,640 --> 00:23:16,140
+I wanted to compare jobs in
+
+475
+00:23:16,140 --> 00:23:18,640
+finance with jobs in other fields.
+
+476
+00:23:18,640 --> 00:23:22,140
+So, this is a chart that I constructed
+
+477
+00:23:22,140 --> 00:23:25,640
+using data from the Bureau of Labor Statistics.
+
+478
+00:23:25,640 --> 00:23:28,140
+And what it has is the
+
+479
+00:23:28,140 --> 00:23:30,640
+number of people in various occupations,
+
+480
+00:23:30,640 --> 00:23:36,640
+in 2008, and their projections for the same in 2018.
+
+481
+00:23:36,640 --> 00:23:39,640
+So, the red bar is for 2018.
+
+482
+00:23:39,640 --> 00:23:42,640
+And we'll emphasize that, because you'll be
+
+483
+00:23:42,640 --> 00:23:45,640
+just getting into your careers when that comes.
+
+484
+00:23:45,640 --> 00:23:49,140
+So, it says, if you look at financial
+
+485
+00:23:49,140 --> 00:23:52,640
+analysts in the United States, there's almost 300,000.
+
+486
+00:23:52,640 --> 00:23:56,640
+Financial managers, it's over half a million.
+
+487
+00:23:56,640 --> 00:23:59,640
+Personal financial advisors, a quarter of a million.
+
+488
+00:23:59,640 --> 00:24:02,640
+These are people who specialize entirely
+
+489
+00:24:02,640 --> 00:24:05,640
+in one form of finance or another.
+
+490
+00:24:05,640 --> 00:24:07,640
+But compare that with economists.
+
+491
+00:24:07,640 --> 00:24:08,640
+Look at that.
+
+492
+00:24:08,640 --> 00:24:11,640
+What is that, about 20,000.
+
+493
+00:24:11,640 --> 00:24:13,640
+I think they're excluding professors,
+
+494
+00:24:13,640 --> 00:24:15,640
+but just economists out there.
+
+495
+00:24:15,640 --> 00:24:16,640
+Not very many.
+
+496
+00:24:16,640 --> 00:24:18,640
+How about astronomers?
+
+497
+00:24:18,640 --> 00:24:21,640
+I can't even read that.
+
+498
+00:24:21,640 --> 00:24:24,140
+I love astronomy, by the way, but I
+
+499
+00:24:24,140 --> 00:24:26,640
+think I made the right choice when I decided,
+
+500
+00:24:26,640 --> 00:24:28,640
+well, I shouldn't say that, you never know.
+
+501
+00:24:28,640 --> 00:24:30,640
+We all have to do something different.
+
+502
+00:24:30,640 --> 00:24:33,640
+And you could become an astronomer.
+
+503
+00:24:33,640 --> 00:24:38,640
+But there aren't many jobs in astronomy.
+
+504
+00:24:38,640 --> 00:24:40,640
+Sociologists, political scientists, just
+
+505
+00:24:40,640 --> 00:24:42,640
+not many compared to,
+
+506
+00:24:42,640 --> 00:24:45,640
+this is just enormously bigger, are mathematicians.
+
+507
+00:24:45,640 --> 00:24:51,640
+I also put one oddball field down here, massage therapists.
+
+508
+00:24:51,640 --> 00:24:54,640
+The number of massage therapist jobs outnumbers any
+
+509
+00:24:54,640 --> 00:24:57,640
+of those other fields by, what is it, 20,000.
+
+510
+00:24:58,640 --> 00:25:02,640
+I think it's about 40, 100 to 1.
+
+511
+00:25:02,640 --> 00:25:06,640
+So, this is the kind of disappointment that people face.
+
+512
+00:25:06,640 --> 00:25:08,640
+You go to the college or university,
+
+513
+00:25:08,640 --> 00:25:10,640
+and this is very much on my mind.
+
+514
+00:25:10,640 --> 00:25:14,140
+You go to the university and you develop special skills,
+
+515
+00:25:14,140 --> 00:25:17,640
+and you leave, and then you end up driving a taxi.
+
+516
+00:25:17,640 --> 00:25:19,640
+That doesn't mean that I want to become vocational.
+
+517
+00:25:19,640 --> 00:25:22,640
+I don't want to just train you for a job.
+
+518
+00:25:22,640 --> 00:25:23,640
+But I want to be relevant.
+
+519
+00:25:23,640 --> 00:25:26,140
+And it seems to me that I
+
+520
+00:25:26,140 --> 00:25:28,640
+can be relevant in talking about finance.
+
+521
+00:25:28,640 --> 00:25:33,640
+And so, that's the basic
+
+522
+00:25:33,640 --> 00:25:38,640
+core that I wanted to get.
+
+523
+00:25:52,640 --> 00:25:55,140
+I mentioned before that people think that finance is
+
+524
+00:25:55,140 --> 00:25:57,640
+the field for people who want to get rich,
+
+525
+00:25:57,640 --> 00:26:01,640
+who want to make a lot of money.
+
+526
+00:26:01,640 --> 00:26:08,640
+Well, I think that's right, actually.
+
+527
+00:26:08,640 --> 00:26:11,640
+I don't advise you to take that as your,
+
+528
+00:26:11,640 --> 00:26:14,640
+but I wanted to talk about that a little bit.
+
+529
+00:26:14,640 --> 00:26:18,140
+So, one thing that you'll note, Forbes magazine has
+
+530
+00:26:18,140 --> 00:26:21,640
+an annual list of the 400 richest people in America.
+
+531
+00:26:21,640 --> 00:26:25,640
+So, I went and looked at that list.
+
+532
+00:26:27,640 --> 00:26:29,640
+Who do you think they are?
+
+533
+00:26:29,640 --> 00:26:32,640
+Most of you probably have not read this list.
+
+534
+00:26:32,640 --> 00:26:34,640
+You might think that, well,
+
+535
+00:26:34,640 --> 00:26:36,640
+who makes a lot of money?
+
+536
+00:26:36,640 --> 00:26:40,640
+Well, it's athletes, football players,
+
+537
+00:26:40,640 --> 00:26:44,640
+baseball players, and who else?
+
+538
+00:26:44,640 --> 00:26:46,640
+Oh, movie stars, right?
+
+539
+00:26:46,640 --> 00:26:48,640
+They make a lot of money.
+
+540
+00:26:48,640 --> 00:26:52,140
+So, how many do you think of those are
+
+541
+00:26:52,140 --> 00:26:55,640
+on the Forbes 400 of the richest people in America?
+
+542
+00:26:55,640 --> 00:26:56,140
+Well, as I read that list,
+
+543
+00:26:56,140 --> 00:26:56,640
+I thought, well, who are they?
+
+544
+00:26:56,640 --> 00:26:59,640
+Well, as I read the list, I didn't
+
+545
+00:26:59,640 --> 00:27:02,640
+see a single movie star or a single athlete.
+
+546
+00:27:02,640 --> 00:27:04,640
+There is, tell me how you define it.
+
+547
+00:27:04,640 --> 00:27:07,640
+Oprah Winfrey is on the list.
+
+548
+00:27:07,640 --> 00:27:08,640
+Okay?
+
+549
+00:27:08,640 --> 00:27:09,640
+You've heard of her.
+
+550
+00:27:09,640 --> 00:27:13,640
+She's in the entertainment business.
+
+551
+00:27:13,640 --> 00:27:16,640
+But, you know, she's also a finance person.
+
+552
+00:27:16,640 --> 00:27:19,640
+She runs big businesses.
+
+553
+00:27:19,640 --> 00:27:22,640
+She's into making things happen.
+
+554
+00:27:22,640 --> 00:27:25,640
+And I can assure you that she knows finance.
+
+555
+00:27:25,640 --> 00:27:27,640
+At least some basic finance.
+
+556
+00:27:27,640 --> 00:27:29,640
+Because that's, see, finance
+
+557
+00:27:29,640 --> 00:27:31,640
+gets you to build organizations.
+
+558
+00:27:31,640 --> 00:27:33,640
+That's how it's done.
+
+559
+00:27:33,640 --> 00:27:35,640
+And it means raising capital to
+
+560
+00:27:35,640 --> 00:27:37,640
+make things happen on a big scale.
+
+561
+00:27:37,640 --> 00:27:41,640
+You know, no athlete is as powerful as one
+
+562
+00:27:41,640 --> 00:27:45,640
+of these random guys on the Forbes 400 list.
+
+563
+00:27:45,640 --> 00:27:47,640
+It's interesting.
+
+564
+00:27:47,640 --> 00:27:49,640
+I looked down the list and I
+
+565
+00:27:49,640 --> 00:27:51,640
+didn't spot a single Nobel Prize winner.
+
+566
+00:27:51,640 --> 00:27:53,640
+Okay?
+
+567
+00:27:53,640 --> 00:27:54,640
+Maybe I missed one.
+
+568
+00:27:54,640 --> 00:27:56,640
+I looked for bestselling authors.
+
+569
+00:27:56,640 --> 00:27:59,640
+I found one, Bill Gates, who
+
+570
+00:27:59,640 --> 00:28:02,640
+wrote a book called The Road Ahead.
+
+571
+00:28:02,640 --> 00:28:06,640
+But there are not many bestselling authors either.
+
+572
+00:28:06,640 --> 00:28:08,640
+What do they have in common?
+
+573
+00:28:08,640 --> 00:28:10,140
+Now, about a third of them
+
+574
+00:28:10,140 --> 00:28:11,640
+just inherited it from their parents.
+
+575
+00:28:11,640 --> 00:28:14,640
+But most of them did it themselves.
+
+576
+00:28:14,640 --> 00:28:17,640
+They just made huge sums of money.
+
+577
+00:28:17,640 --> 00:28:21,640
+And what did they do?
+
+578
+00:28:21,640 --> 00:28:23,640
+Well, they're typically in some boring line.
+
+579
+00:28:23,640 --> 00:28:25,640
+They make something.
+
+580
+00:28:25,640 --> 00:28:27,640
+But they're doing it on a vast scale.
+
+581
+00:28:27,640 --> 00:28:30,640
+And so, that means they're making deals.
+
+582
+00:28:30,640 --> 00:28:32,640
+They're putting things together.
+
+583
+00:28:32,640 --> 00:28:34,640
+They're buying companies.
+
+584
+00:28:34,640 --> 00:28:37,640
+They're absorbing other companies into theirs.
+
+585
+00:28:37,640 --> 00:28:41,640
+And there's something powerful about an ability to do that.
+
+586
+00:28:41,640 --> 00:28:44,640
+And I think that it's good
+
+587
+00:28:44,640 --> 00:28:47,640
+for you to understand and appreciate that.
+
+588
+00:28:47,640 --> 00:28:51,640
+And so, that's the way it is.
+
+589
+00:28:53,640 --> 00:28:56,640
+By the way, Forbes has another
+
+590
+00:28:56,640 --> 00:28:59,640
+list called the Forbes Celebrity 100.
+
+591
+00:28:59,640 --> 00:29:01,140
+And to be on that list,
+
+592
+00:29:01,140 --> 00:29:02,640
+you have to be a celebrity.
+
+593
+00:29:02,640 --> 00:29:04,640
+It's a completely different list.
+
+594
+00:29:04,640 --> 00:29:06,640
+Oprah is on both lists,
+
+595
+00:29:06,640 --> 00:29:08,640
+but she's practically the only one.
+
+596
+00:29:08,640 --> 00:29:11,640
+Steven Spielberg is on both lists, I think.
+
+597
+00:29:11,640 --> 00:29:14,640
+He makes movies.
+
+598
+00:29:14,640 --> 00:29:17,640
+But he has a whole company called DreamWorks.
+
+599
+00:29:17,640 --> 00:29:19,640
+And he finances all kinds of movies.
+
+600
+00:29:19,640 --> 00:29:21,640
+So, he's a business person as well.
+
+601
+00:29:21,640 --> 00:29:22,640
+So, yeah.
+
+602
+00:29:22,640 --> 00:29:25,640
+I don't think of finance as a mathematical.
+
+603
+00:29:25,640 --> 00:29:26,640
+I mean, it is mathematical.
+
+604
+00:29:26,640 --> 00:29:28,640
+It has a core element of that.
+
+605
+00:29:28,640 --> 00:29:31,640
+But to me, it's about making things happen.
+
+606
+00:29:31,640 --> 00:29:33,640
+And about putting together deals.
+
+607
+00:29:33,640 --> 00:29:37,640
+And getting people incentivized to do something.
+
+608
+00:29:37,640 --> 00:29:39,640
+And getting capital.
+
+609
+00:29:39,640 --> 00:29:42,140
+Getting resources in a massive
+
+610
+00:29:42,140 --> 00:29:44,640
+scale, so that something can happen.
+
+611
+00:29:44,640 --> 00:29:49,640
+And so, that's what this course is about.
+
+612
+00:29:49,640 --> 00:29:51,640
+Oh, Jerry Seinfeld is listed by Forbes as a celebrity.
+
+613
+00:29:51,640 --> 00:29:57,140
+He's listed by Forbes as a possibility to make the – he's
+
+614
+00:29:57,140 --> 00:30:02,640
+about the only one to make the list of the Forbes 400.
+
+615
+00:30:02,640 --> 00:30:05,640
+But he isn't there yet.
+
+616
+00:30:05,640 --> 00:30:08,640
+I don't mean to diminish these celebrity people.
+
+617
+00:30:08,640 --> 00:30:15,640
+But there's something else that goes on in finance.
+
+618
+00:30:15,640 --> 00:30:16,640
+And it's quiet.
+
+619
+00:30:16,640 --> 00:30:17,640
+It's behind the scenes.
+
+620
+00:30:17,640 --> 00:30:19,640
+Actually, most of the Forbes 400 you've never heard of.
+
+621
+00:30:19,640 --> 00:30:20,640
+They're kind of behind the scenes.
+
+622
+00:30:20,640 --> 00:30:22,640
+Doing things that are big and important.
+
+623
+00:30:22,640 --> 00:30:26,640
+But they don't get on the news so much.
+
+624
+00:30:26,640 --> 00:30:28,640
+It's one of the ironies of life.
+
+625
+00:30:28,640 --> 00:30:29,640
+You might aspire to do this.
+
+626
+00:30:29,640 --> 00:30:31,640
+To get on the Forbes 400.
+
+627
+00:30:31,640 --> 00:30:32,640
+You can do it.
+
+628
+00:30:32,640 --> 00:30:35,640
+And still, nobody knows who you are or cares.
+
+629
+00:30:35,640 --> 00:30:38,640
+So, that's just as well, I think, for many people.
+
+630
+00:30:38,640 --> 00:30:40,640
+So, then the question is, suppose
+
+631
+00:30:40,640 --> 00:30:42,640
+you get on the Forbes 400.
+
+632
+00:30:42,640 --> 00:30:44,640
+What are you going to do with it?
+
+633
+00:30:44,640 --> 00:30:46,640
+In other words, to get on the Forbes 400,
+
+634
+00:30:46,640 --> 00:30:48,640
+you have to have made at least a billion dollars.
+
+635
+00:30:48,640 --> 00:30:49,640
+So, that means you have a billion dollars.
+
+636
+00:30:49,640 --> 00:30:52,140
+So, that means you have in
+
+637
+00:30:52,140 --> 00:30:54,640
+your own portfolio a thousand million dollars.
+
+638
+00:30:54,640 --> 00:30:57,640
+That's the minimum to make the list.
+
+639
+00:30:57,640 --> 00:30:58,640
+So, what are you going
+
+640
+00:30:58,640 --> 00:30:59,640
+to do with a thousand million?
+
+641
+00:30:59,640 --> 00:31:00,640
+Any ideas?
+
+642
+00:31:00,640 --> 00:31:02,640
+What would you do with it?
+
+643
+00:31:02,640 --> 00:31:04,640
+You could buy cars.
+
+644
+00:31:04,640 --> 00:31:08,640
+You could buy, how many sports
+
+645
+00:31:08,640 --> 00:31:12,640
+cars could you buy for that?
+
+646
+00:31:12,640 --> 00:31:13,640
+What could you do?
+
+647
+00:31:13,640 --> 00:31:14,640
+You could buy 20 houses.
+
+648
+00:31:14,640 --> 00:31:16,640
+But that doesn't begin.
+
+649
+00:31:16,640 --> 00:31:17,640
+You could buy 20 houses and so what?
+
+650
+00:31:17,640 --> 00:31:18,640
+You still have 900 million dollars.
+
+651
+00:31:18,640 --> 00:31:21,640
+You still have 900 million left over.
+
+652
+00:31:21,640 --> 00:31:25,140
+So, what are you going
+
+653
+00:31:25,140 --> 00:31:28,640
+to do with all that money?
+
+654
+00:31:28,640 --> 00:31:32,140
+Now, some people who do that, who make all
+
+655
+00:31:32,140 --> 00:31:35,640
+this money, try to see if they can maximize
+
+656
+00:31:35,640 --> 00:31:39,640
+their appearance of wealth.
+
+657
+00:31:39,640 --> 00:31:41,640
+They try to show to
+
+658
+00:31:41,640 --> 00:31:43,640
+the world how rich they are.
+
+659
+00:31:43,640 --> 00:31:45,640
+And so, you just build the biggest
+
+660
+00:31:45,640 --> 00:31:47,640
+mansion and you do something really spectacular.
+
+661
+00:31:47,640 --> 00:31:50,140
+When you've got a billion dollars, you can't,
+
+662
+00:31:50,140 --> 00:31:52,640
+there isn't a house in the country you could
+
+663
+00:31:52,640 --> 00:31:53,640
+buy for a billion dollars.
+
+664
+00:31:53,640 --> 00:31:55,640
+You have multiple, you can only
+
+665
+00:31:55,640 --> 00:31:57,640
+stay in one at a time, right?
+
+666
+00:31:57,640 --> 00:32:00,640
+So, what are you going to do?
+
+667
+00:32:00,640 --> 00:32:02,640
+But there are people who do that.
+
+668
+00:32:02,640 --> 00:32:04,640
+And I think that there's a
+
+669
+00:32:04,640 --> 00:32:06,640
+history of disgust for those people.
+
+670
+00:32:06,640 --> 00:32:08,640
+A long history.
+
+671
+00:32:08,640 --> 00:32:11,640
+We don't like people who do that.
+
+672
+00:32:11,640 --> 00:32:14,640
+And, you know, it's almost like it's a big mistake.
+
+673
+00:32:14,640 --> 00:32:15,640
+Why would you do that?
+
+674
+00:32:15,640 --> 00:32:16,640
+When people don't like people?
+
+675
+00:32:16,640 --> 00:32:21,640
+Because people don't like people who show off their wealth.
+
+676
+00:32:21,640 --> 00:32:23,640
+There's evidence that people feel that
+
+677
+00:32:23,640 --> 00:32:25,640
+way in many different countries and cultures,
+
+678
+00:32:25,640 --> 00:32:28,140
+because lots of countries in history
+
+679
+00:32:28,140 --> 00:32:30,640
+have what are called sumptuary laws.
+
+680
+00:32:30,640 --> 00:32:33,640
+It goes back at least to 700
+
+681
+00:32:33,640 --> 00:32:36,640
+BC in ancient Greece with the Locrian code.
+
+682
+00:32:36,640 --> 00:32:38,640
+These are laws prohibiting
+
+683
+00:32:38,640 --> 00:32:40,640
+people from conspicuous consumption.
+
+684
+00:32:40,640 --> 00:32:42,640
+And they've been in so many different
+
+685
+00:32:42,640 --> 00:32:44,640
+countries that I think it's evidence of,
+
+686
+00:32:44,640 --> 00:32:51,140
+it's evidence that something is amiss with
+
+687
+00:32:51,140 --> 00:32:57,640
+making wealth as the objective of your life.
+
+688
+00:32:57,640 --> 00:33:03,640
+So, one of the themes in the beginning of our reading list
+
+689
+00:33:03,640 --> 00:33:09,640
+is, I have, I think there's a movement afoot today around the world
+
+690
+00:33:09,640 --> 00:33:11,640
+of thinking about this problem.
+
+691
+00:33:11,640 --> 00:33:14,640
+That you can get so big and powerful.
+
+692
+00:33:14,640 --> 00:33:19,640
+If you build a business and you use
+
+693
+00:33:19,640 --> 00:33:24,640
+the financial techniques that are successful for other people.
+
+694
+00:33:24,640 --> 00:33:30,640
+But it's meaningless, because you, unless you give it away.
+
+695
+00:33:30,640 --> 00:33:34,640
+And so, what else can you do with
+
+696
+00:33:34,640 --> 00:33:38,640
+all this wealth, but plan to give it away?
+
+697
+00:33:38,640 --> 00:33:41,140
+So, one thing I have on the reading list right
+
+698
+00:33:41,140 --> 00:33:43,640
+at the beginning is a chapter from a book called,
+
+699
+00:33:44,640 --> 00:33:47,140
+well, the title of the book is
+
+700
+00:33:47,140 --> 00:33:49,640
+The Gospel of Wealth and Other Essays.
+
+701
+00:33:49,640 --> 00:33:52,640
+And it was written by Andrew Carnegie.
+
+702
+00:33:52,640 --> 00:33:55,640
+Actually, he wrote a short article
+
+703
+00:33:55,640 --> 00:33:58,640
+in a magazine called Wealth in 1889.
+
+704
+00:33:58,640 --> 00:34:01,140
+And in the final paragraph, he
+
+705
+00:34:01,140 --> 00:34:03,640
+used the term Gospel of Wealth.
+
+706
+00:34:03,640 --> 00:34:07,140
+And it was picked up all
+
+707
+00:34:07,140 --> 00:34:10,639
+over the world as just outrageous.
+
+708
+00:34:10,639 --> 00:34:13,639
+And so, it became named The Gospel of Wealth.
+
+709
+00:34:13,639 --> 00:34:16,139
+So, later in the early 20th century, he came
+
+710
+00:34:16,139 --> 00:34:18,639
+out with a book entitled The Gospel of Wealth.
+
+711
+00:34:18,639 --> 00:34:20,639
+And that's what I have assigned.
+
+712
+00:34:20,639 --> 00:34:22,639
+You can click on it on the reading list.
+
+713
+00:34:22,639 --> 00:34:26,639
+And Andrew Carnegie was one of these, they didn't have Forbes
+
+714
+00:34:26,639 --> 00:34:30,639
+400, but he was one of the richest men in America.
+
+715
+00:34:30,639 --> 00:34:34,639
+Through his Carnegie Steel Company.
+
+716
+00:34:34,639 --> 00:34:37,639
+Very much steeped in finance.
+
+717
+00:34:37,639 --> 00:34:40,639
+But when he decided, when he wrote
+
+718
+00:34:40,639 --> 00:34:43,639
+his essay, Gospel of Wealth in 1889,
+
+719
+00:34:43,639 --> 00:34:48,639
+that once a person reaches middle age, like 50
+
+720
+00:34:48,639 --> 00:34:53,639
+or 55, and who has made a lot of money,
+
+721
+00:34:53,639 --> 00:34:56,639
+they really have to go into philanthropy.
+
+722
+00:34:56,639 --> 00:34:58,640
+There's a moral imperative.
+
+723
+00:34:58,640 --> 00:35:01,640
+So, the theme of Gospel of Wealth was,
+
+724
+00:35:01,640 --> 00:35:04,140
+you know, some people are just better
+
+725
+00:35:04,140 --> 00:35:06,640
+at what he called affairs than other people.
+
+726
+00:35:06,640 --> 00:35:07,640
+That means business.
+
+727
+00:35:07,640 --> 00:35:09,140
+Some people have a sense
+
+728
+00:35:09,140 --> 00:35:10,640
+of how to make things happen.
+
+729
+00:35:10,640 --> 00:35:12,640
+These people have a moral obligation.
+
+730
+00:35:12,640 --> 00:35:15,640
+They have a moral obligation to make
+
+731
+00:35:15,640 --> 00:35:18,640
+this work for the benefit of humankind.
+
+732
+00:35:18,640 --> 00:35:22,640
+And that means they have to, while they're still young,
+
+733
+00:35:22,640 --> 00:35:26,140
+they have to give their, they have to take
+
+734
+00:35:26,140 --> 00:35:29,640
+their fortune and give it all away before they die.
+
+735
+00:35:29,640 --> 00:35:33,640
+Because if they don't give it all away, it's nonsense.
+
+736
+00:35:33,640 --> 00:35:35,640
+If you make a billion dollars
+
+737
+00:35:35,640 --> 00:35:37,640
+and you leave it to your children,
+
+738
+00:35:37,640 --> 00:35:40,640
+they're not, chances are, they're not like you.
+
+739
+00:35:40,640 --> 00:35:42,640
+They're not going to be interested in
+
+740
+00:35:42,640 --> 00:35:44,640
+making things happen.
+
+741
+00:35:44,640 --> 00:35:46,640
+They're just going to squander it.
+
+742
+00:35:46,640 --> 00:35:50,640
+And so that's what the moral obligation is.
+
+743
+00:35:50,640 --> 00:35:54,640
+You have to stop at age, let's say, 55, okay?
+
+744
+00:35:54,640 --> 00:35:56,640
+You've still got time left.
+
+745
+00:35:56,640 --> 00:35:58,640
+And then use your same talents.
+
+746
+00:35:58,640 --> 00:36:00,640
+So, what his, it was almost a
+
+747
+00:36:00,640 --> 00:36:02,640
+theory of, it is a theory of capitalism.
+
+748
+00:36:02,640 --> 00:36:06,640
+It is a theory that some people
+
+749
+00:36:06,640 --> 00:36:10,640
+are just more practical and hardworking and business-oriented.
+
+750
+00:36:10,640 --> 00:36:12,640
+And these people can find things to do.
+
+751
+00:36:12,640 --> 00:36:14,640
+That benefit mankind.
+
+752
+00:36:14,640 --> 00:36:16,640
+And they should do it.
+
+753
+00:36:16,640 --> 00:36:18,640
+So, there's a natural selection.
+
+754
+00:36:18,640 --> 00:36:20,640
+The smartest, this is Carnegie.
+
+755
+00:36:20,640 --> 00:36:22,640
+I'm not endorsing this entirely.
+
+756
+00:36:22,640 --> 00:36:23,640
+I think there's an element of
+
+757
+00:36:23,640 --> 00:36:24,640
+truth to the gospel of wealth.
+
+758
+00:36:24,640 --> 00:36:30,640
+But it's not exactly, not exactly true.
+
+759
+00:36:30,640 --> 00:36:32,640
+But the element of truth is right.
+
+760
+00:36:32,640 --> 00:36:35,640
+That people like Carnegie, who's a very gifted person.
+
+761
+00:36:35,640 --> 00:36:36,640
+You know what he did?
+
+762
+00:36:36,640 --> 00:36:38,640
+He set up the Carnegie Institute
+
+763
+00:36:38,640 --> 00:36:40,640
+of Technology, now called Carnegie Mellon University.
+
+764
+00:36:40,640 --> 00:36:42,640
+He set up the Carnegie Mellon Institute of Technology.
+
+765
+00:36:42,640 --> 00:36:45,640
+He set up the Carnegie Endowment for World Peace.
+
+766
+00:36:45,640 --> 00:36:48,640
+Carnegie Hall in New York.
+
+767
+00:36:48,640 --> 00:36:50,640
+He probably gave something to Yale, too.
+
+768
+00:36:50,640 --> 00:36:51,640
+Does anyone know?
+
+769
+00:36:51,640 --> 00:36:52,640
+Is there a Carnegie?
+
+770
+00:36:52,640 --> 00:36:54,640
+He gave to like every imaginable university.
+
+771
+00:36:54,640 --> 00:36:58,640
+I know at Princeton, they have a Lake Carnegie.
+
+772
+00:36:58,640 --> 00:37:00,640
+He was visiting Princeton.
+
+773
+00:37:00,640 --> 00:37:04,640
+And someone pointed out this kind of swampy land.
+
+774
+00:37:04,640 --> 00:37:07,640
+And said, we'd like to really create a lake.
+
+775
+00:37:07,640 --> 00:37:09,640
+So, he said, fine.
+
+776
+00:37:09,640 --> 00:37:11,640
+He gave the money to create Lake Carnegie.
+
+777
+00:37:11,640 --> 00:37:15,640
+And he also gave the money for the
+
+778
+00:37:15,640 --> 00:37:19,640
+prize for the first true competition on Lake Carnegie.
+
+779
+00:37:19,640 --> 00:37:21,640
+He just had all kinds of gifts.
+
+780
+00:37:21,640 --> 00:37:23,640
+He gave it away.
+
+781
+00:37:23,640 --> 00:37:26,140
+And I also have, it's interesting,
+
+782
+00:37:26,140 --> 00:37:28,640
+I found this on the web.
+
+783
+00:37:28,640 --> 00:37:32,140
+Thomas Edison, the inventor, was so
+
+784
+00:37:32,140 --> 00:37:35,640
+impressed with Carnegie's gospel of wealth.
+
+785
+00:37:35,640 --> 00:37:39,640
+Edison was developing the sound movie.
+
+786
+00:37:39,640 --> 00:37:40,640
+I think it was 1914.
+
+787
+00:37:40,640 --> 00:37:42,640
+But he didn't perfect it.
+
+788
+00:37:42,640 --> 00:37:44,640
+But he said, the first sound
+
+789
+00:37:44,640 --> 00:37:46,640
+movie should involve geniuses of our time.
+
+790
+00:37:46,640 --> 00:37:49,640
+So, he made a sound movie of
+
+791
+00:37:49,640 --> 00:37:52,640
+Carnegie reading from his gospel of wealth.
+
+792
+00:37:52,640 --> 00:37:56,640
+Unfortunately, the visual side of it somehow got lost.
+
+793
+00:37:56,640 --> 00:37:57,640
+Maybe it didn't work.
+
+794
+00:37:57,640 --> 00:38:00,640
+We only have the soundtrack from the movie.
+
+795
+00:38:00,640 --> 00:38:03,640
+So, you can listen to Carnegie
+
+796
+00:38:03,640 --> 00:38:06,640
+reading from this book in 1914.
+
+797
+00:38:06,640 --> 00:38:07,640
+And it's the only recording
+
+798
+00:38:07,640 --> 00:38:08,640
+of Carnegie's voice that survived.
+
+799
+00:38:08,640 --> 00:38:09,640
+So, that's the only recording.
+
+800
+00:38:09,640 --> 00:38:13,640
+And it's the only voice that survived.
+
+801
+00:38:13,640 --> 00:38:18,140
+Since then, Bill Gates and Warren Buffet and
+
+802
+00:38:18,140 --> 00:38:22,640
+others of the Forbes 400 have done a campaign
+
+803
+00:38:22,640 --> 00:38:25,640
+to get people, billionaires around the world, to
+
+804
+00:38:25,640 --> 00:38:28,640
+commit to give most of their wealth away
+
+805
+00:38:28,640 --> 00:38:30,640
+while they're still alive.
+
+806
+00:38:30,640 --> 00:38:34,140
+And I'm trying to get to one of these people
+
+807
+00:38:34,140 --> 00:38:37,640
+to speak to our class, but I haven't yet arranged that.
+
+808
+00:38:39,640 --> 00:38:46,140
+But I also have on the website a review
+
+809
+00:38:46,140 --> 00:38:52,640
+from 1890 of Carnegie's original essay from a California newspaper.
+
+810
+00:38:52,640 --> 00:38:55,640
+And they were so negative about it.
+
+811
+00:38:55,640 --> 00:38:59,640
+They said, Carnegie thinks that making wealth
+
+812
+00:38:59,640 --> 00:39:03,640
+and giving it away is a noble cause.
+
+813
+00:39:03,640 --> 00:39:05,640
+This cannot possibly be right.
+
+814
+00:39:05,640 --> 00:39:06,640
+These people are not, who make money,
+
+815
+00:39:06,640 --> 00:39:07,640
+are not the most in love with it.
+
+816
+00:39:07,640 --> 00:39:08,640
+They're not the most in love with it.
+
+817
+00:39:08,640 --> 00:39:11,140
+They're not the most enlightened
+
+818
+00:39:11,140 --> 00:39:13,640
+and smart people in our world.
+
+819
+00:39:13,640 --> 00:39:15,640
+I think that the truth lies somewhere in between.
+
+820
+00:39:15,640 --> 00:39:20,640
+But we do have a society now where people,
+
+821
+00:39:20,640 --> 00:39:25,640
+we have an increasing concentration of wealth at the top.
+
+822
+00:39:25,640 --> 00:39:27,140
+And I don't know what
+
+823
+00:39:27,140 --> 00:39:28,640
+we're going to do about this.
+
+824
+00:39:28,640 --> 00:39:32,640
+This is a trend that may continue.
+
+825
+00:39:32,640 --> 00:39:34,140
+And so, this is the thing I
+
+826
+00:39:34,140 --> 00:39:35,640
+want to think about in this course.
+
+827
+00:39:35,640 --> 00:39:37,640
+I don't think finance necessarily does this.
+
+828
+00:39:38,640 --> 00:39:41,140
+I think there's going to be a bubble,
+
+829
+00:39:41,140 --> 00:39:43,640
+that there is currently a bubble in financial careers.
+
+830
+00:39:43,640 --> 00:39:48,140
+And that you are going to be disappointed because 20 or
+
+831
+00:39:48,140 --> 00:39:52,640
+30 years from now, if you go into a finance-related field,
+
+832
+00:39:52,640 --> 00:39:58,640
+you'll find that it's not as lucrative as you hoped.
+
+833
+00:39:58,640 --> 00:40:00,640
+That kind of happens, right?
+
+834
+00:40:00,640 --> 00:40:04,140
+When a field becomes known for having a lot of successful people,
+
+835
+00:40:04,140 --> 00:40:07,640
+then more young people go into it and they swamp the field.
+
+836
+00:40:07,640 --> 00:40:10,140
+On the other hand, I think that it will always
+
+837
+00:40:10,140 --> 00:40:12,640
+be true, that just because of the power of the technology,
+
+838
+00:40:12,640 --> 00:40:15,140
+the top wealthiest people in
+
+839
+00:40:15,140 --> 00:40:17,640
+the world will be finance-related.
+
+840
+00:40:17,640 --> 00:40:22,640
+And I think that they will have a moral obligation to
+
+841
+00:40:22,640 --> 00:40:27,640
+give this away, to give their wealth away in a productive way.
+
+842
+00:40:27,640 --> 00:40:35,640
+So, I have several outside tips.
+
+843
+00:40:35,640 --> 00:40:39,640
+I have several outside speakers.
+
+844
+00:40:39,640 --> 00:40:42,640
+I try to bring in people that are
+
+845
+00:40:42,640 --> 00:40:45,640
+connected to the world in a positive way.
+
+846
+00:40:45,640 --> 00:40:48,140
+I'm trying to bring in
+
+847
+00:40:48,140 --> 00:40:50,640
+inspirations for you as outside speakers.
+
+848
+00:40:50,640 --> 00:40:53,140
+And there are people who are
+
+849
+00:40:53,140 --> 00:40:55,640
+in finance, but who are not selfish.
+
+850
+00:40:55,640 --> 00:41:00,640
+They may be rich, but they are good people.
+
+851
+00:41:00,640 --> 00:41:02,640
+So, the first person that I'm going to
+
+852
+00:41:02,640 --> 00:41:04,640
+bring in, as I've done in previous years,
+
+853
+00:41:05,640 --> 00:41:09,640
+is Dean Swenson, who is
+
+854
+00:41:09,640 --> 00:41:13,640
+Chief Investment Officer for Yale University.
+
+855
+00:41:13,640 --> 00:41:18,140
+Swenson also teaches a course, Economics 450, with
+
+856
+00:41:18,140 --> 00:41:22,640
+Dean Takahashi, which you might want to take.
+
+857
+00:41:22,640 --> 00:41:26,640
+But I have him here just for one lecture.
+
+858
+00:41:26,640 --> 00:41:30,640
+And what Swenson has done is turn
+
+859
+00:41:30,640 --> 00:41:34,640
+the Yale endowment into a huge number.
+
+860
+00:41:34,640 --> 00:41:38,640
+He came to Yale in 1985, and at that
+
+861
+00:41:38,640 --> 00:41:42,640
+time, Yale had less than $1 billion in its endowment.
+
+862
+00:41:42,640 --> 00:41:46,640
+Swenson is the most successful university endowment
+
+863
+00:41:46,640 --> 00:41:50,640
+advisor, or manager of the United States.
+
+864
+00:41:50,640 --> 00:41:54,640
+He turned less than $1
+
+865
+00:41:54,640 --> 00:41:58,640
+billion into $22.9 billion in 2008.
+
+866
+00:41:58,640 --> 00:42:02,640
+The financial crisis hit, and the endowment fell.
+
+867
+00:42:02,640 --> 00:42:04,640
+But as of June of 2010,
+
+868
+00:42:04,640 --> 00:42:07,640
+it was still $16.7 billion.
+
+869
+00:42:07,640 --> 00:42:10,140
+So, you know, he has done
+
+870
+00:42:10,140 --> 00:42:12,640
+so much to make Yale a success.
+
+871
+00:42:12,640 --> 00:42:15,640
+But it matters. That's a lot of money.
+
+872
+00:42:15,640 --> 00:42:18,640
+And it's all for a good cause.
+
+873
+00:42:18,640 --> 00:42:22,640
+Now, I say, I believe Swenson is a good person.
+
+874
+00:42:22,640 --> 00:42:25,140
+I think he turned down opportunities
+
+875
+00:42:25,140 --> 00:42:27,640
+to make much more on Wall Street.
+
+876
+00:42:27,640 --> 00:42:29,140
+Because he is known as an,
+
+877
+00:42:29,140 --> 00:42:30,640
+and he's continually turning them down,
+
+878
+00:42:30,640 --> 00:42:32,640
+he's known as an investment genius.
+
+879
+00:42:32,640 --> 00:42:33,640
+He can command the world.
+
+880
+00:42:34,640 --> 00:42:37,140
+He can command huge salaries
+
+881
+00:42:37,140 --> 00:42:39,640
+and bonuses if he wanted to.
+
+882
+00:42:39,640 --> 00:42:41,640
+But he stays here with Yale.
+
+883
+00:42:41,640 --> 00:42:44,640
+I don't think that people in finance are money rubbers.
+
+884
+00:42:44,640 --> 00:42:47,640
+And this is an example of someone who is not.
+
+885
+00:42:47,640 --> 00:42:54,640
+The second speaker I have is Maurice Hank Greenberg,
+
+886
+00:42:54,640 --> 00:42:58,640
+who founded AIG.
+
+887
+00:42:58,640 --> 00:43:02,640
+It started out with, in 1962.
+
+888
+00:43:02,640 --> 00:43:03,640
+He's, okay.
+
+889
+00:43:03,640 --> 00:43:07,640
+In 1962, he was made, put in charge
+
+890
+00:43:07,640 --> 00:43:11,640
+of North American operations of the American International Group,
+
+891
+00:43:11,640 --> 00:43:14,640
+an insurance company, which was then failing.
+
+892
+00:43:14,640 --> 00:43:18,140
+The head of the company, C.V. Starr, put
+
+893
+00:43:18,140 --> 00:43:21,640
+him in to try to turn the company around.
+
+894
+00:43:21,640 --> 00:43:25,640
+He turned it in over many years as CEO
+
+895
+00:43:25,640 --> 00:43:29,640
+of AIG into the biggest insurance company in the world.
+
+896
+00:43:29,640 --> 00:43:31,640
+And he ran it until 2005.
+
+897
+00:43:31,640 --> 00:43:34,640
+The company, have you heard of this?
+
+898
+00:43:34,640 --> 00:43:35,640
+AIG?
+
+899
+00:43:35,640 --> 00:43:37,640
+You must have heard of this.
+
+900
+00:43:37,640 --> 00:43:40,140
+In the recent financial crisis,
+
+901
+00:43:40,140 --> 00:43:42,640
+it has encountered some problems.
+
+902
+00:43:42,640 --> 00:43:45,640
+And in fact, it was the biggest bailout of all.
+
+903
+00:43:45,640 --> 00:43:47,640
+It was bailed out by the U.S. government.
+
+904
+00:43:47,640 --> 00:43:49,640
+And there's a scandal about that,
+
+905
+00:43:49,640 --> 00:43:51,640
+because the bailout was so huge.
+
+906
+00:43:51,640 --> 00:43:53,640
+It was in the hundreds of billions.
+
+907
+00:43:53,640 --> 00:43:55,640
+Record-setting bailout.
+
+908
+00:43:55,640 --> 00:43:59,640
+And some people are angry with Greenberg.
+
+909
+00:43:59,640 --> 00:44:00,640
+But I think that's completely true.
+
+910
+00:44:00,640 --> 00:44:03,140
+But I think that's completely unfair, because
+
+911
+00:44:03,140 --> 00:44:05,640
+it all happened after he left AIG.
+
+912
+00:44:05,640 --> 00:44:09,140
+And the problems were in a particular unit
+
+913
+00:44:09,140 --> 00:44:12,640
+within AIG that he was not really responsible for.
+
+914
+00:44:12,640 --> 00:44:17,140
+But Greenberg is a person who has, I think,
+
+915
+00:44:17,140 --> 00:44:21,640
+a moral purpose that I want to illustrate for you.
+
+916
+00:44:21,640 --> 00:44:23,640
+He's been criticized.
+
+917
+00:44:23,640 --> 00:44:26,640
+Anyone who does business on that scale is going to
+
+918
+00:44:26,640 --> 00:44:29,640
+be criticized for being too tough or too aggressive at times.
+
+919
+00:44:30,640 --> 00:44:37,640
+But he's a very involved person.
+
+920
+00:44:37,640 --> 00:44:42,140
+He is the vice chairman for the Council on Foreign Relations, which is a
+
+921
+00:44:42,140 --> 00:44:46,640
+think tank that thinks about the United States and its place in the world.
+
+922
+00:44:46,640 --> 00:44:48,640
+It's a very important think tank.
+
+923
+00:44:48,640 --> 00:44:53,640
+He's also a major philanthropist, and he's given to Yale.
+
+924
+00:44:53,640 --> 00:44:56,640
+Notably, he gave the Greenberg Center, which
+
+925
+00:44:56,640 --> 00:44:59,640
+is right next to the Center for Globalization.
+
+926
+00:45:00,640 --> 00:45:03,640
+A beautiful new building.
+
+927
+00:45:03,640 --> 00:45:06,640
+So, he has agreed to come.
+
+928
+00:45:06,640 --> 00:45:08,640
+I'm very pleased to have him.
+
+929
+00:45:08,640 --> 00:45:13,640
+The third outside speaker that I have now is Laura
+
+930
+00:45:13,640 --> 00:45:18,640
+Cha, who is the, although she won't be here in person.
+
+931
+00:45:18,640 --> 00:45:22,140
+We're going to have her image up on
+
+932
+00:45:22,140 --> 00:45:25,640
+the screen, because she is in Hong Kong.
+
+933
+00:45:25,640 --> 00:45:27,640
+And she is a non-official member
+
+934
+00:45:27,640 --> 00:45:29,640
+of the Executive Council of Hong Kong.
+
+935
+00:45:29,640 --> 00:45:34,140
+She is a member of the government of the
+
+936
+00:45:34,140 --> 00:45:38,640
+People's Republic of China at the vice ministerial rank.
+
+937
+00:45:38,640 --> 00:45:42,140
+She is the first non-Chinese delegate to
+
+938
+00:45:42,140 --> 00:45:45,640
+the National People's Congress representing Hong Kong.
+
+939
+00:45:45,640 --> 00:45:48,140
+And has been vice chair
+
+940
+00:45:48,140 --> 00:45:50,640
+of the China Securities Regulatory Commission.
+
+941
+00:45:50,640 --> 00:45:54,640
+So, she is very involved in finance.
+
+942
+00:45:54,640 --> 00:45:56,640
+She has also been affiliated with
+
+943
+00:45:56,640 --> 00:45:58,640
+Yale and helped some of our initiatives.
+
+944
+00:45:59,640 --> 00:46:03,140
+So, she'll have to get up very late at night, I think,
+
+945
+00:46:03,140 --> 00:46:06,640
+to be on for 9 in the morning for us from Hong Kong.
+
+946
+00:46:06,640 --> 00:46:10,140
+I might get one or two other
+
+947
+00:46:10,140 --> 00:46:13,640
+speakers, but that's where it stands right now.
+
+948
+00:46:13,640 --> 00:46:16,140
+So, I wanted also to
+
+949
+00:46:16,140 --> 00:46:18,640
+tell you about our teaching assistants.
+
+950
+00:46:18,640 --> 00:46:25,640
+We have four teaching assistants now.
+
+951
+00:46:25,640 --> 00:46:28,640
+We might get another, but at this point.
+
+952
+00:46:29,640 --> 00:46:34,640
+The first is Oliver Bunn, who is from Germany,
+
+953
+00:46:34,640 --> 00:46:39,640
+University of Bonn, and is a PhD student in economics.
+
+954
+00:46:39,640 --> 00:46:48,640
+He's also our head TA, who coordinates the whole operation.
+
+955
+00:46:48,640 --> 00:46:53,140
+And then, we have, the second one
+
+956
+00:46:53,140 --> 00:46:57,640
+is Elon Fuld from the United States.
+
+957
+00:46:57,640 --> 00:46:58,640
+And he's a professor at the University of Chicago.
+
+958
+00:46:59,640 --> 00:47:01,640
+And he's doing an interesting
+
+959
+00:47:01,640 --> 00:47:03,640
+study of the pizza delivery industry.
+
+960
+00:47:03,640 --> 00:47:08,140
+It sounds funny, but it's an interesting application
+
+961
+00:47:08,140 --> 00:47:12,640
+of economic theory to very much the real world.
+
+962
+00:47:12,640 --> 00:47:17,640
+Bige Karaman is from Bilkent University in Turkey.
+
+963
+00:47:17,640 --> 00:47:20,640
+And she's interested in behavioral finance.
+
+964
+00:47:20,640 --> 00:47:22,640
+That means, or I should have said
+
+965
+00:47:22,640 --> 00:47:24,640
+this, it's also an interest of this course.
+
+966
+00:47:24,640 --> 00:47:27,640
+I skipped by it in my notes.
+
+967
+00:47:27,640 --> 00:47:30,640
+It's the application of psychology, sociology,
+
+968
+00:47:30,640 --> 00:47:33,640
+and other social sciences to finance.
+
+969
+00:47:33,640 --> 00:47:36,640
+I don't know how I omitted mentioning that.
+
+970
+00:47:36,640 --> 00:47:38,640
+It's about people in finance.
+
+971
+00:47:38,640 --> 00:47:40,640
+Well, I didn't really completely omit mentioning it.
+
+972
+00:47:40,640 --> 00:47:43,640
+You got the sense that I'm interested in people.
+
+973
+00:47:43,640 --> 00:47:45,640
+But there's been a revolution in
+
+974
+00:47:45,640 --> 00:47:47,640
+finance over the last 20 years.
+
+975
+00:47:47,640 --> 00:47:50,640
+20 years ago, finance was thought
+
+976
+00:47:50,640 --> 00:47:53,640
+of in academia as essentially mathematical discipline.
+
+977
+00:47:53,640 --> 00:47:55,640
+That and nothing more.
+
+978
+00:47:55,640 --> 00:47:56,640
+Well, maybe I'm exaggerating a little bit.
+
+979
+00:47:57,640 --> 00:48:00,640
+But what's happened since then is
+
+980
+00:48:00,640 --> 00:48:03,640
+people think of finance as involving psychology.
+
+981
+00:48:03,640 --> 00:48:06,140
+We have to bring people
+
+982
+00:48:06,140 --> 00:48:08,640
+with knowledge of human beings in.
+
+983
+00:48:08,640 --> 00:48:13,140
+And so, her dissertation topic has a major
+
+984
+00:48:13,140 --> 00:48:17,640
+theme of it is how mutual funds operate.
+
+985
+00:48:17,640 --> 00:48:20,640
+Mutual funds are companies that offer
+
+986
+00:48:20,640 --> 00:48:23,640
+investment vehicles to the general public.
+
+987
+00:48:23,640 --> 00:48:25,640
+And she finds that the mutual
+
+988
+00:48:25,640 --> 00:48:27,640
+fund companies have complicated fee schedules.
+
+989
+00:48:27,640 --> 00:48:30,640
+And they offer different choices to people.
+
+990
+00:48:30,640 --> 00:48:34,640
+And what sense does this make?
+
+991
+00:48:34,640 --> 00:48:36,640
+Why are all these different choices?
+
+992
+00:48:36,640 --> 00:48:39,140
+You look at the fee schedules and you think,
+
+993
+00:48:39,140 --> 00:48:41,640
+it's just like your telephone, your cell phone plan, right?
+
+994
+00:48:41,640 --> 00:48:43,640
+It's got different choices.
+
+995
+00:48:43,640 --> 00:48:45,640
+And you don't know which one I should take.
+
+996
+00:48:45,640 --> 00:48:47,640
+Why are they doing all this?
+
+997
+00:48:47,640 --> 00:48:50,640
+Well, she tries to analyze what's going on.
+
+998
+00:48:50,640 --> 00:48:53,140
+And she finds that sometimes it seems like clients
+
+999
+00:48:53,140 --> 00:48:55,640
+are steered toward a fee schedule that's really important.
+
+1000
+00:48:55,640 --> 00:48:56,140
+And she finds that sometimes it seems like clients
+
+1001
+00:48:56,140 --> 00:48:56,640
+are steered toward a fee schedule that's really important.
+
+1002
+00:48:57,640 --> 00:48:58,640
+And she finds that sometimes it seems like clients
+
+1003
+00:48:58,640 --> 00:48:59,640
+are steered toward a fee schedule that's really important.
+
+1004
+00:48:59,640 --> 00:49:00,640
+And she finds that sometimes it seems like
+
+1005
+00:49:00,640 --> 00:49:01,640
+clients are steered toward some kind of financialprinciples case.
+
+1006
+00:49:01,640 --> 00:49:03,640
+And she finds that sometimes it seems like clients are
+
+1007
+00:49:03,640 --> 00:49:05,640
+steered toward a fee schedule that's really not in their interest.
+
+1008
+00:49:05,640 --> 00:49:10,640
+And that the mutual fund managers are doing some
+
+1009
+00:49:10,640 --> 00:49:15,640
+things that maybe we don't want them to do.
+
+1010
+00:49:15,640 --> 00:49:17,640
+And maybe it's not ideal.
+
+1011
+00:49:17,640 --> 00:49:19,640
+They are pushed by the
+
+1012
+00:49:19,640 --> 00:49:21,640
+competitive pressures that they're offering products
+
+1013
+00:49:21,640 --> 00:49:25,640
+that are a little bit manipulative of people.
+
+1014
+00:49:25,640 --> 00:49:28,740
+And that is not well in the financial world.
+
+1015
+00:49:28,740 --> 00:49:30,259
+Lots of bad things happen.
+
+1016
+00:49:30,259 --> 00:49:35,420
+Or not necessarily awful things, but not socially
+
+1017
+00:49:35,420 --> 00:49:37,580
+conscious things.
+
+1018
+00:49:37,580 --> 00:49:39,520
+And that's why we need regulators.
+
+1019
+00:49:39,520 --> 00:49:40,669
+That's another reason why I
+
+1020
+00:49:40,669 --> 00:49:41,819
+brought in Laura Cha, by the
+
+1021
+00:49:41,819 --> 00:49:43,379
+way, she's a regulator.
+
+1022
+00:49:43,379 --> 00:49:45,389
+I wanted to have a voice
+
+1023
+00:49:45,389 --> 00:49:47,400
+from that side, because I personally
+
+1024
+00:49:47,400 --> 00:49:49,580
+admire regulators and think that they have a very
+
+1025
+00:49:49,580 --> 00:49:53,660
+important function in our society.
+
+1026
+00:49:53,660 --> 00:50:01,920
+Your work fits more into that regulatory side of finance.
+
+1027
+00:50:01,920 --> 00:50:07,299
+And then finally, our fourth teaching assistant is Bin Li
+
+1028
+00:50:07,299 --> 00:50:11,040
+from Beijing, although he went to college at University
+
+1029
+00:50:11,040 --> 00:50:13,160
+College London.
+
+1030
+00:50:13,160 --> 00:50:18,940
+And he has broad interests, including leveraged asset
+
+1031
+00:50:18,940 --> 00:50:22,299
+pricing and also behavioral finance.
+
+1032
+00:50:22,299 --> 00:50:23,420
+So those are the teaching
+
+1033
+00:50:23,420 --> 00:50:23,620
+assistants.
+
+1034
+00:50:23,660 --> 00:50:25,540
+And then we have a few more.
+
+1035
+00:50:25,540 --> 00:50:26,580
+I'm going to go on
+
+1036
+00:50:26,580 --> 00:50:27,620
+a little bit at a distance.
+
+1037
+00:50:27,620 --> 00:50:31,370
+So let me just give
+
+1038
+00:50:31,370 --> 00:50:35,120
+a brief outline of the course.
+
+1039
+00:50:35,120 --> 00:50:39,640
+There are 20 lectures that I'm giving in this course.
+
+1040
+00:50:39,640 --> 00:50:44,440
+This is the first.
+
+1041
+00:50:44,440 --> 00:50:47,960
+And let me just go through what's the
+
+1042
+00:50:47,960 --> 00:50:49,240
+content of these lectures.
+
+1043
+00:50:49,240 --> 00:50:50,240
+And then I'll give you a
+
+1044
+00:50:50,240 --> 00:50:51,240
+little bit of a summary of the
+
+1045
+00:50:51,240 --> 00:50:53,240
+course.
+
+1046
+00:50:53,240 --> 00:50:55,240
+So, lecture two, that would be
+
+1047
+00:50:55,240 --> 00:50:57,240
+on Wednesday of this week, I
+
+1048
+00:50:57,240 --> 00:51:00,240
+want to talk about the core
+
+1049
+00:51:00,240 --> 00:51:03,240
+concept of risk and also about
+
+1050
+00:51:03,240 --> 00:51:05,240
+financial crises.
+
+1051
+00:51:05,240 --> 00:51:06,740
+The one reason why I wanted
+
+1052
+00:51:06,740 --> 00:51:08,240
+to update this course with Open
+
+1053
+00:51:08,240 --> 00:51:09,740
+Yale this year is because
+
+1054
+00:51:09,740 --> 00:51:11,240
+I wanted to talk about the
+
+1055
+00:51:11,240 --> 00:51:14,120
+financial crisis that we've been through.
+
+1056
+00:51:14,120 --> 00:51:17,120
+I thought this lecture would start with something about the
+
+1057
+00:51:17,120 --> 00:51:18,120
+theory of probability. But I'm not
+
+1058
+00:51:18,120 --> 00:51:19,120
+going to get into that very much.
+
+1059
+00:51:19,120 --> 00:51:21,120
+That will be more for a
+
+1060
+00:51:21,120 --> 00:51:23,120
+TA section that will come in later.
+
+1061
+00:51:23,120 --> 00:51:25,120
+But even so, this is not a probability course.
+
+1062
+00:51:25,120 --> 00:51:27,120
+I just want to kind of
+
+1063
+00:51:27,120 --> 00:51:29,120
+remind you of concepts of probability.
+
+1064
+00:51:29,120 --> 00:51:32,120
+And there's a concept of independent risks.
+
+1065
+00:51:32,120 --> 00:51:35,120
+If risks are independent, you can diversify away them.
+
+1066
+00:51:35,120 --> 00:51:38,120
+And you can put together
+
+1067
+00:51:38,120 --> 00:51:41,120
+a portfolio that minimizes the risks.
+
+1068
+00:51:41,120 --> 00:51:43,120
+The law of large numbers says, if
+
+1069
+00:51:43,120 --> 00:51:45,120
+you have a lot of independent risks,
+
+1070
+00:51:45,120 --> 00:51:47,120
+they'll average out if you have
+
+1071
+00:51:47,120 --> 00:51:49,120
+a large number of these different risks.
+
+1072
+00:51:49,120 --> 00:51:53,120
+In your portfolio. And there's no risk left.
+
+1073
+00:51:53,120 --> 00:51:55,120
+That's if they're independent.
+
+1074
+00:51:55,120 --> 00:51:57,120
+But in fact, risks are
+
+1075
+00:51:57,120 --> 00:51:59,120
+not as independent as you think.
+
+1076
+00:51:59,120 --> 00:52:03,120
+And that's one reason why we had a financial crisis.
+
+1077
+00:52:03,120 --> 00:52:05,120
+So, a lot of people were
+
+1078
+00:52:05,120 --> 00:52:07,120
+making plans based on portfolio theory
+
+1079
+00:52:07,120 --> 00:52:09,120
+in finance, but the plans assumed
+
+1080
+00:52:09,120 --> 00:52:11,120
+that there won't be a crisis.
+
+1081
+00:52:11,120 --> 00:52:13,120
+That maybe one of our investments will
+
+1082
+00:52:13,120 --> 00:52:15,120
+go bad, but they can't all go bad.
+
+1083
+00:52:15,120 --> 00:52:17,120
+Or a large number of them can't go bad.
+
+1084
+00:52:17,120 --> 00:52:19,120
+So, that was a failure of the Internet.
+
+1085
+00:52:19,120 --> 00:52:23,120
+The independence assumption in finance.
+
+1086
+00:52:23,120 --> 00:52:26,120
+That failure created the financial
+
+1087
+00:52:26,120 --> 00:52:29,120
+crisis that we've been through.
+
+1088
+00:52:29,120 --> 00:52:34,120
+It was a near miss onto another Great Depression.
+
+1089
+00:52:34,120 --> 00:52:37,120
+The financial crisis that began in 1929,
+
+1090
+00:52:37,120 --> 00:52:40,120
+I'll talk about that briefly in that lecture,
+
+1091
+00:52:40,120 --> 00:52:44,120
+started with the stock market crash of 1929.
+
+1092
+00:52:44,120 --> 00:52:47,120
+And the economy spiraled down until 1934.
+
+1093
+00:52:47,120 --> 00:52:49,120
+And then, in 1935, the economy went down.
+
+1094
+00:52:49,120 --> 00:52:52,120
+And then, in 1933, it
+
+1095
+00:52:52,120 --> 00:52:55,120
+just kept getting worse and worse.
+
+1096
+00:52:55,120 --> 00:52:59,120
+More and more bankruptcies, more and more layoffs.
+
+1097
+00:52:59,120 --> 00:53:04,120
+So, by 1933, 25% of the U.S. population was unemployed.
+
+1098
+00:53:04,120 --> 00:53:06,120
+And it wasn't just the U.S.
+
+1099
+00:53:06,120 --> 00:53:08,120
+It was all over the world.
+
+1100
+00:53:08,120 --> 00:53:10,120
+It was a horrible crisis.
+
+1101
+00:53:10,120 --> 00:53:12,620
+And we didn't get over
+
+1102
+00:53:12,620 --> 00:53:15,120
+that crisis until World War II.
+
+1103
+00:53:15,120 --> 00:53:17,120
+It's like we couldn't get out of it.
+
+1104
+00:53:17,120 --> 00:53:20,120
+The crisis got so bad that nobody in
+
+1105
+00:53:20,120 --> 00:53:23,120
+the world could figure out what to do.
+
+1106
+00:53:23,120 --> 00:53:27,620
+And I think that part of the reason we had World War
+
+1107
+00:53:27,620 --> 00:53:32,120
+II was because of the anxieties and animosities caused by this massive unemployment.
+
+1108
+00:53:32,120 --> 00:53:34,620
+Well, we got out of it because
+
+1109
+00:53:34,620 --> 00:53:37,120
+World War II created a huge stimulus program.
+
+1110
+00:53:37,120 --> 00:53:38,620
+I mean, they drafted all
+
+1111
+00:53:38,620 --> 00:53:40,120
+the unemployed and made them fight.
+
+1112
+00:53:40,120 --> 00:53:42,120
+What an awful outcome.
+
+1113
+00:53:42,120 --> 00:53:44,120
+But that's what happened.
+
+1114
+00:53:44,120 --> 00:53:45,120
+It's terrible.
+
+1115
+00:53:45,120 --> 00:53:47,620
+And so, this time, we saw
+
+1116
+00:53:47,620 --> 00:53:50,120
+the beginnings of a similar crisis.
+
+1117
+00:53:50,120 --> 00:53:52,120
+We saw crashes in the stock
+
+1118
+00:53:52,120 --> 00:53:54,120
+market and the real estate market.
+
+1119
+00:53:54,120 --> 00:53:56,120
+We saw bankruptcies appearing.
+
+1120
+00:53:56,120 --> 00:53:59,120
+We saw runs on banks.
+
+1121
+00:53:59,120 --> 00:54:02,620
+And this time, the government
+
+1122
+00:54:02,620 --> 00:54:06,120
+decided on a controversial bailout package.
+
+1123
+00:54:06,120 --> 00:54:10,120
+And so, Ben Bernanke and Mervyn King and other central
+
+1124
+00:54:10,120 --> 00:54:14,120
+bankers and government policymakers around the world had the idea.
+
+1125
+00:54:14,120 --> 00:54:16,120
+That we can't let it
+
+1126
+00:54:16,120 --> 00:54:18,120
+happen the same way this time.
+
+1127
+00:54:18,120 --> 00:54:21,120
+So, there was massive bailouts.
+
+1128
+00:54:21,120 --> 00:54:23,120
+Controversial bailouts because they seemed
+
+1129
+00:54:23,120 --> 00:54:25,120
+to be unfair to many people.
+
+1130
+00:54:25,120 --> 00:54:28,120
+That's a huge and interesting story.
+
+1131
+00:54:28,120 --> 00:54:31,120
+I've written three books, by the way, about this crisis.
+
+1132
+00:54:31,120 --> 00:54:33,120
+Well, two of them with co-authors.
+
+1133
+00:54:33,120 --> 00:54:36,120
+It's something that fascinates me.
+
+1134
+00:54:36,120 --> 00:54:37,620
+But I don't want to dwell
+
+1135
+00:54:37,620 --> 00:54:39,120
+on it too much in this course.
+
+1136
+00:54:39,120 --> 00:54:43,120
+Because I'm hopeful that it will heal itself.
+
+1137
+00:54:43,120 --> 00:54:45,120
+And we can put it behind us.
+
+1138
+00:54:45,120 --> 00:54:47,620
+And the financial crisis doesn't call
+
+1139
+00:54:47,620 --> 00:54:50,120
+into question the basic principles of finance.
+
+1140
+00:54:50,120 --> 00:54:52,120
+Not in my mind.
+
+1141
+00:54:52,120 --> 00:54:56,620
+The vulnerability to a crash that we see in financial markets
+
+1142
+00:54:56,620 --> 00:55:01,120
+is like the same thing as the vulnerability to crash of airplanes.
+
+1143
+00:55:01,120 --> 00:55:03,120
+Airplanes crash from time to time.
+
+1144
+00:55:03,120 --> 00:55:05,120
+You must know that when you get on one.
+
+1145
+00:55:05,120 --> 00:55:08,120
+But that doesn't mean we shouldn't have airplanes.
+
+1146
+00:55:08,120 --> 00:55:12,120
+And I think it's the financial system is...
+
+1147
+00:55:13,120 --> 00:55:15,620
+It's advancing the world with
+
+1148
+00:55:15,620 --> 00:55:18,120
+such speed and such impressiveness.
+
+1149
+00:55:18,120 --> 00:55:20,120
+That this crisis is just a
+
+1150
+00:55:20,120 --> 00:55:22,120
+blip on the screen of that.
+
+1151
+00:55:22,120 --> 00:55:27,120
+Not something I think we should worry too much about.
+
+1152
+00:55:27,120 --> 00:55:29,620
+The third lecture is about
+
+1153
+00:55:29,620 --> 00:55:32,120
+technology and invention in finance.
+
+1154
+00:55:32,120 --> 00:55:36,120
+Finance is a technology just
+
+1155
+00:55:36,120 --> 00:55:40,120
+like engineering or mechanical engineering.
+
+1156
+00:55:40,120 --> 00:55:42,120
+It has principles.
+
+1157
+00:55:42,120 --> 00:55:44,120
+It has techniques.
+
+1158
+00:55:44,120 --> 00:55:47,120
+And it involves inventing of details.
+
+1159
+00:55:47,120 --> 00:55:50,120
+That is, financial institutions are complicated.
+
+1160
+00:55:50,120 --> 00:55:53,620
+They are complicated the same way automobiles
+
+1161
+00:55:53,620 --> 00:55:57,120
+or airplanes or nuclear power reactors are.
+
+1162
+00:55:57,120 --> 00:56:00,120
+You can see this complexity if you read some
+
+1163
+00:56:00,120 --> 00:56:03,120
+of the documents that are associated with the modern corporation.
+
+1164
+00:56:03,120 --> 00:56:05,120
+There is a lot there.
+
+1165
+00:56:05,120 --> 00:56:07,620
+And the way the cash flows
+
+1166
+00:56:07,620 --> 00:56:10,120
+are divided up among different people.
+
+1167
+00:56:10,120 --> 00:56:12,120
+Involving options and derivatives.
+
+1168
+00:56:12,120 --> 00:56:14,620
+And other complicated financial instruments
+
+1169
+00:56:14,620 --> 00:56:17,120
+are part of the technology.
+
+1170
+00:56:17,120 --> 00:56:20,120
+And this technology is advancing.
+
+1171
+00:56:20,120 --> 00:56:22,120
+And it will advance a lot
+
+1172
+00:56:22,120 --> 00:56:24,120
+over the time of your career.
+
+1173
+00:56:24,120 --> 00:56:26,620
+I don't have an ability to
+
+1174
+00:56:26,620 --> 00:56:29,120
+predict the future with any accuracy.
+
+1175
+00:56:29,120 --> 00:56:31,120
+But I want to try to think
+
+1176
+00:56:31,120 --> 00:56:33,120
+about what we can say about the future.
+
+1177
+00:56:33,120 --> 00:56:37,120
+I wrote a book in 2003 called New Financial Order.
+
+1178
+00:56:37,120 --> 00:56:39,120
+And it was my take on the future.
+
+1179
+00:56:39,120 --> 00:56:40,120
+But the problem is.
+
+1180
+00:56:40,120 --> 00:56:43,120
+Nobody really knows the future very well.
+
+1181
+00:56:43,120 --> 00:56:47,120
+And it's impossible to.
+
+1182
+00:56:47,120 --> 00:56:49,120
+You kind of have to just invent it
+
+1183
+00:56:49,120 --> 00:56:51,120
+or dream about what it might be like.
+
+1184
+00:56:51,120 --> 00:56:52,120
+That's what I did.
+
+1185
+00:56:52,120 --> 00:56:55,120
+I kind of thought about principles of financial theory.
+
+1186
+00:56:55,120 --> 00:56:57,620
+And where they might go
+
+1187
+00:56:57,620 --> 00:57:00,120
+with the advance of information technology.
+
+1188
+00:57:00,120 --> 00:57:03,120
+And the globalization of the world.
+
+1189
+00:57:03,120 --> 00:57:06,120
+So, I have just a chapter from that.
+
+1190
+00:57:06,120 --> 00:57:08,120
+For that section of the course.
+
+1191
+00:57:08,120 --> 00:57:13,120
+Then, Lecture 4 is about portfolio diversification.
+
+1192
+00:57:13,120 --> 00:57:15,120
+How risks are spread.
+
+1193
+00:57:15,120 --> 00:57:17,120
+And we'll talk briefly about
+
+1194
+00:57:17,120 --> 00:57:19,120
+the capital asset pricing model.
+
+1195
+00:57:19,120 --> 00:57:23,120
+Now, again, the capital asset pricing
+
+1196
+00:57:23,120 --> 00:57:27,120
+model is a mathematical theory of diversification.
+
+1197
+00:57:27,120 --> 00:57:29,120
+A very important theory.
+
+1198
+00:57:29,120 --> 00:57:32,120
+And it's something that John Giannacopoulos will
+
+1199
+00:57:32,120 --> 00:57:35,120
+cover with more rigor in Econ 251.
+
+1200
+00:57:35,120 --> 00:57:37,120
+That I already mentioned.
+
+1201
+00:57:37,120 --> 00:57:39,620
+But for me, I will talk
+
+1202
+00:57:39,620 --> 00:57:42,120
+briefly about the capital asset pricing model.
+
+1203
+00:57:42,120 --> 00:57:46,120
+And our teaching assistant will give a section on it.
+
+1204
+00:57:46,120 --> 00:57:48,120
+But I want to also think about.
+
+1205
+00:57:48,120 --> 00:57:50,120
+Since this is a course about the real world.
+
+1206
+00:57:50,120 --> 00:57:53,120
+I want to think about financial institutions.
+
+1207
+00:57:53,120 --> 00:57:55,120
+And so many of
+
+1208
+00:57:55,120 --> 00:57:57,120
+our institutions are offering diversification.
+
+1209
+00:57:57,120 --> 00:57:59,120
+One way or another.
+
+1210
+00:57:59,120 --> 00:58:01,120
+And so, again, I wanted to talk
+
+1211
+00:58:01,120 --> 00:58:03,120
+about the real world component of this.
+
+1212
+00:58:03,120 --> 00:58:06,120
+The fifth lecture is about insurance.
+
+1213
+00:58:06,120 --> 00:58:15,120
+And the insurance industry developed over the centuries.
+
+1214
+00:58:15,120 --> 00:58:17,120
+It goes actually all the way back to ancient Rome.
+
+1215
+00:58:17,120 --> 00:58:19,120
+But only minimally.
+
+1216
+00:58:19,120 --> 00:58:23,120
+People didn't have the concepts until the 1600s.
+
+1217
+00:58:23,120 --> 00:58:26,120
+When probability theory was invented.
+
+1218
+00:58:26,120 --> 00:58:28,120
+There was an intuitive concept.
+
+1219
+00:58:28,120 --> 00:58:30,120
+Sure, I could start an insurance company.
+
+1220
+00:58:30,120 --> 00:58:32,120
+I could put together a lot
+
+1221
+00:58:32,120 --> 00:58:34,120
+of insurance policies and charge for them.
+
+1222
+00:58:34,120 --> 00:58:36,120
+Probably I won't.
+
+1223
+00:58:36,120 --> 00:58:38,620
+You know, some intuitive sense about law
+
+1224
+00:58:38,620 --> 00:58:41,120
+of large number or independence of risk.
+
+1225
+00:58:41,120 --> 00:58:43,120
+Probably I'll be okay.
+
+1226
+00:58:43,120 --> 00:58:45,120
+And I can make good on the policies I wrote.
+
+1227
+00:58:45,120 --> 00:58:47,120
+But it was never clear
+
+1228
+00:58:47,120 --> 00:58:49,120
+until probability theory was developed.
+
+1229
+00:58:49,120 --> 00:58:51,120
+Since then, it's been growing.
+
+1230
+00:58:51,120 --> 00:58:52,120
+And it's becoming a bigger
+
+1231
+00:58:52,120 --> 00:58:53,120
+and bigger part of our lives.
+
+1232
+00:58:53,120 --> 00:58:59,120
+And I think that insurance is actually a lifesaver.
+
+1233
+00:58:59,120 --> 00:59:01,120
+I'll give you one example.
+
+1234
+00:59:01,120 --> 00:59:03,120
+You know that in the earthquake in Haiti.
+
+1235
+00:59:03,120 --> 00:59:07,120
+What was that?
+
+1236
+00:59:07,120 --> 00:59:09,120
+About a year ago.
+
+1237
+00:59:09,120 --> 00:59:13,120
+There was a tremendous loss of life.
+
+1238
+00:59:13,120 --> 00:59:16,620
+But the earthquake in San Francisco,
+
+1239
+00:59:16,620 --> 00:59:20,120
+decades earlier, was of the same magnitude.
+
+1240
+00:59:20,120 --> 00:59:22,120
+And had very little loss of life.
+
+1241
+00:59:22,120 --> 00:59:27,120
+Also, the loss suffered by people in terms of destruction of
+
+1242
+00:59:27,120 --> 00:59:32,120
+their homes and their office buildings was vastly higher in Haiti.
+
+1243
+00:59:32,120 --> 00:59:35,620
+And it turns out that Haiti, a less developed
+
+1244
+00:59:35,620 --> 00:59:39,120
+country, didn't have much of the modern insurance industry.
+
+1245
+00:59:39,120 --> 00:59:41,120
+So that people were uninsured against
+
+1246
+00:59:41,120 --> 00:59:43,120
+risk of collapse of their structure.
+
+1247
+00:59:43,120 --> 00:59:45,620
+And you didn't have insurance industries
+
+1248
+00:59:45,620 --> 00:59:48,120
+going in and policing building codes.
+
+1249
+00:59:48,120 --> 00:59:52,120
+If the insurance company is liable to the risk, then they
+
+1250
+00:59:52,120 --> 00:59:56,120
+go in and say, we won't insure you unless you fix this.
+
+1251
+00:59:56,120 --> 01:00:00,120
+Since it didn't happen, so many people died.
+
+1252
+01:00:00,120 --> 01:00:02,120
+I think that Haiti will come along.
+
+1253
+01:00:02,120 --> 01:00:06,120
+We have a Caribbean insurance initiative that was starting.
+
+1254
+01:00:06,120 --> 01:00:11,120
+We want to see the developing world get these institutions.
+
+1255
+01:00:11,120 --> 01:00:12,620
+I want to try to give
+
+1256
+01:00:12,620 --> 01:00:14,120
+a sense of the reality of that.
+
+1257
+01:00:14,120 --> 01:00:16,120
+We tend to think of Haiti
+
+1258
+01:00:16,120 --> 01:00:18,120
+as an opportunity for our charity.
+
+1259
+01:00:18,120 --> 01:00:19,620
+And a lot of us
+
+1260
+01:00:19,620 --> 01:00:21,120
+gave money to help these people.
+
+1261
+01:00:21,120 --> 01:00:26,120
+But charity doesn't work on a big enough scale.
+
+1262
+01:00:26,120 --> 01:00:29,120
+Going around to people on the street and asking
+
+1263
+01:00:29,120 --> 01:00:32,120
+them to give money to help the Haitian earthquake victims.
+
+1264
+01:00:32,120 --> 01:00:34,120
+It doesn't amount to a lot.
+
+1265
+01:00:34,120 --> 01:00:37,620
+What really becomes big and important is the insurance industry,
+
+1266
+01:00:37,620 --> 01:00:41,120
+which is doing the same thing as a business model.
+
+1267
+01:00:41,120 --> 01:00:44,120
+And that's the real world.
+
+1268
+01:00:44,120 --> 01:00:47,120
+And it matters enormously.
+
+1269
+01:00:47,120 --> 01:00:51,120
+The sixth lecture is about efficient markets.
+
+1270
+01:00:51,120 --> 01:00:57,120
+This is about a theory that developed in the 1960s.
+
+1271
+01:00:57,120 --> 01:01:00,120
+That financial markets are wonderfully perfect.
+
+1272
+01:01:00,120 --> 01:01:01,120
+I'm saying.
+
+1273
+01:01:01,120 --> 01:01:03,120
+I'm a little bit skeptical of this theory,
+
+1274
+01:01:03,120 --> 01:01:05,120
+although I think it has an element of truth.
+
+1275
+01:01:05,120 --> 01:01:08,620
+Efficient markets theory is the idea that you
+
+1276
+01:01:08,620 --> 01:01:12,120
+really can't make money by trading in financial markets.
+
+1277
+01:01:12,120 --> 01:01:16,120
+Because the markets are so competitive that the
+
+1278
+01:01:16,120 --> 01:01:20,120
+price is always pushed to an optimal level
+
+1279
+01:01:20,120 --> 01:01:22,620
+that incorporates all information that anyone
+
+1280
+01:01:22,620 --> 01:01:25,120
+could ever have about the security.
+
+1281
+01:01:25,120 --> 01:01:27,120
+And the theory has been that
+
+1282
+01:01:27,120 --> 01:01:29,120
+it's hopeless to try to invest.
+
+1283
+01:01:29,120 --> 01:01:32,120
+And beat the market.
+
+1284
+01:01:32,120 --> 01:01:35,120
+Well, I think there's an element of truth to that.
+
+1285
+01:01:35,120 --> 01:01:37,120
+But it's not quite true.
+
+1286
+01:01:37,120 --> 01:01:40,120
+And people like David Swenson are counter examples.
+
+1287
+01:01:40,120 --> 01:01:43,120
+That it is possible for professional
+
+1288
+01:01:43,120 --> 01:01:46,120
+money managers to beat the market.
+
+1289
+01:01:46,120 --> 01:01:49,620
+And that's something I want to think
+
+1290
+01:01:49,620 --> 01:01:53,120
+about and talk about in that lecture.
+
+1291
+01:01:53,120 --> 01:01:56,120
+Lecture seven is about debt markets.
+
+1292
+01:01:56,120 --> 01:01:57,120
+And it's about.
+
+1293
+01:01:57,120 --> 01:02:03,120
+We have a lot of money that's lent.
+
+1294
+01:02:03,120 --> 01:02:07,120
+The Federal Reserve manages these markets.
+
+1295
+01:02:07,120 --> 01:02:12,620
+It tries to coordinate the markets through open market
+
+1296
+01:02:12,620 --> 01:02:18,120
+operations and through what now is called quantitative easing.
+
+1297
+01:02:18,120 --> 01:02:21,120
+But the markets are huge and international.
+
+1298
+01:02:21,120 --> 01:02:24,120
+They involve errors that people make.
+
+1299
+01:02:24,120 --> 01:02:26,120
+A lot of people get overly indebted.
+
+1300
+01:02:26,120 --> 01:02:29,120
+And make mistakes over their lives.
+
+1301
+01:02:29,120 --> 01:02:32,120
+But they also offer opportunities.
+
+1302
+01:02:32,120 --> 01:02:34,120
+That debt markets are fundamental to the
+
+1303
+01:02:34,120 --> 01:02:36,120
+things we want to do in our lives.
+
+1304
+01:02:36,120 --> 01:02:38,620
+For example, when you are a little bit older,
+
+1305
+01:02:38,620 --> 01:02:41,120
+many of you will want to buy a house.
+
+1306
+01:02:41,120 --> 01:02:42,120
+Right?
+
+1307
+01:02:42,120 --> 01:02:44,120
+But you won't be in that point in the life
+
+1308
+01:02:44,120 --> 01:02:46,120
+cycle when you have the money to buy a house.
+
+1309
+01:02:46,120 --> 01:02:47,120
+Most of you.
+
+1310
+01:02:47,120 --> 01:02:48,120
+So you'll be borrowing.
+
+1311
+01:02:48,120 --> 01:02:49,120
+It's elementary.
+
+1312
+01:02:49,120 --> 01:02:50,120
+You take out a mortgage.
+
+1313
+01:02:50,120 --> 01:02:51,120
+That seems obvious.
+
+1314
+01:02:51,120 --> 01:02:52,620
+But still today in many countries of the
+
+1315
+01:02:52,620 --> 01:02:54,120
+world, the mortgage market is not very developed.
+
+1316
+01:02:54,120 --> 01:02:55,120
+And that's why.
+
+1317
+01:02:55,120 --> 01:02:56,120
+You can't do that.
+
+1318
+01:02:56,120 --> 01:02:57,620
+So there's a good side to
+
+1319
+01:02:57,620 --> 01:02:59,120
+borrowing as well as a bad side.
+
+1320
+01:02:59,120 --> 01:03:01,120
+I want to put it in perspective.
+
+1321
+01:03:01,120 --> 01:03:04,620
+Again, our review session will talk a little bit
+
+1322
+01:03:04,620 --> 01:03:08,120
+somewhat with our teaching assistant about the mathematics of debt.
+
+1323
+01:03:08,120 --> 01:03:11,120
+Lecture 8 will be about the stock market.
+
+1324
+01:03:11,120 --> 01:03:13,120
+Again, I think of the stock market
+
+1325
+01:03:13,120 --> 01:03:15,120
+not as something that we're going to beat.
+
+1326
+01:03:15,120 --> 01:03:19,120
+I think it's something that is
+
+1327
+01:03:19,120 --> 01:03:23,120
+an invention to motivate people to borrow.
+
+1328
+01:03:23,120 --> 01:03:25,620
+It's an invention to motivate
+
+1329
+01:03:25,620 --> 01:03:28,120
+people to get people working together.
+
+1330
+01:03:28,120 --> 01:03:31,120
+So the basic idea of a stock investment.
+
+1331
+01:03:31,120 --> 01:03:34,120
+You and your friends want to set up a company.
+
+1332
+01:03:34,120 --> 01:03:35,120
+Okay?
+
+1333
+01:03:35,120 --> 01:03:36,120
+How do you do that?
+
+1334
+01:03:36,120 --> 01:03:38,120
+Well, the company needs money to start.
+
+1335
+01:03:38,120 --> 01:03:40,620
+So if somebody's got to contribute capital, well, some
+
+1336
+01:03:40,620 --> 01:03:43,120
+of you have more money to contribute than others.
+
+1337
+01:03:43,120 --> 01:03:45,120
+So you should have a bigger share in the company.
+
+1338
+01:03:45,120 --> 01:03:47,620
+Some of you have no money at all to
+
+1339
+01:03:47,620 --> 01:03:50,120
+contribute, but you're going to contribute your time and energy.
+
+1340
+01:03:50,120 --> 01:03:51,620
+So you want to give a share
+
+1341
+01:03:51,620 --> 01:03:53,120
+in the company to these other people.
+
+1342
+01:03:53,120 --> 01:03:55,620
+And you want to set up a company to
+
+1343
+01:03:55,620 --> 01:03:58,120
+set up as well in order to incentivize them.
+
+1344
+01:03:58,120 --> 01:04:01,620
+So you devise a whole scheme to set
+
+1345
+01:04:01,620 --> 01:04:05,120
+up a company that involves the creation of stock.
+
+1346
+01:04:05,120 --> 01:04:07,120
+And then you start trading the stock.
+
+1347
+01:04:07,120 --> 01:04:09,120
+And then it gets all the more interesting.
+
+1348
+01:04:09,120 --> 01:04:12,120
+And then there are options on these stock certificates.
+
+1349
+01:04:12,120 --> 01:04:13,120
+But it's all for a purpose.
+
+1350
+01:04:13,120 --> 01:04:17,120
+The purpose is to make some enterprise happen.
+
+1351
+01:04:17,120 --> 01:04:21,120
+And it really is important that we have these institutions.
+
+1352
+01:04:21,120 --> 01:04:23,120
+Because if you don't have them,
+
+1353
+01:04:23,120 --> 01:04:25,120
+you're not going to be able to do anything.
+
+1354
+01:04:25,120 --> 01:04:26,120
+It's going to fall apart.
+
+1355
+01:04:26,120 --> 01:04:28,120
+Someone's going to get angry and leave.
+
+1356
+01:04:28,120 --> 01:04:30,120
+It's just not going to work.
+
+1357
+01:04:30,120 --> 01:04:31,620
+And so I think of the
+
+1358
+01:04:31,620 --> 01:04:33,120
+stock market as doing these functions.
+
+1359
+01:04:33,120 --> 01:04:35,620
+Now, I know Karl Marx said he thought it
+
+1360
+01:04:35,620 --> 01:04:38,120
+was a big casino, but we're not communists here.
+
+1361
+01:04:38,120 --> 01:04:41,120
+This is about modern finance.
+
+1362
+01:04:41,120 --> 01:04:44,120
+Lecture 9 is about real estate.
+
+1363
+01:04:44,120 --> 01:04:46,620
+And another fascination for me, I've
+
+1364
+01:04:46,620 --> 01:04:49,120
+been working for years about real estate.
+
+1365
+01:04:49,120 --> 01:04:50,620
+And in fact, I have my
+
+1366
+01:04:50,620 --> 01:04:52,120
+own with my colleague, Karl Case.
+
+1367
+01:04:52,120 --> 01:04:54,120
+He's a real estate investor.
+
+1368
+01:04:54,120 --> 01:04:56,620
+And he's been working on a lot of home price
+
+1369
+01:04:56,620 --> 01:04:59,120
+indices called the Standard & Poor's Case-Shiller home price indices.
+
+1370
+01:04:59,120 --> 01:05:01,120
+We'll talk about those.
+
+1371
+01:05:01,120 --> 01:05:03,120
+But it's really important for
+
+1372
+01:05:03,120 --> 01:05:05,120
+this crisis that we've just seen.
+
+1373
+01:05:05,120 --> 01:05:08,620
+Because the financial crisis was caused
+
+1374
+01:05:08,620 --> 01:05:12,120
+substantially by a bubble in home prices.
+
+1375
+01:05:12,120 --> 01:05:16,620
+I believe a psychologically induced excitement or euphoria about home prices
+
+1376
+01:05:16,620 --> 01:05:21,120
+in the United States and in other countries that collapsed around 2006.
+
+1377
+01:05:21,120 --> 01:05:22,620
+And the real estate market is
+
+1378
+01:05:22,620 --> 01:05:24,120
+starting to get more and more important.
+
+1379
+01:05:24,120 --> 01:05:26,120
+And it's starting to get more and more
+
+1380
+01:05:26,120 --> 01:05:28,120
+important in other parts of the world more recently.
+
+1381
+01:05:28,120 --> 01:05:31,120
+And the real estate market is
+
+1382
+01:05:31,120 --> 01:05:34,120
+getting very speculative and psychological, I believe.
+
+1383
+01:05:34,120 --> 01:05:37,120
+And the outlook right now for the
+
+1384
+01:05:37,120 --> 01:05:40,120
+economy hinges on how these markets behave.
+
+1385
+01:05:40,120 --> 01:05:44,120
+So, that will be, I think,
+
+1386
+01:05:44,120 --> 01:05:48,120
+an important lecture for this course.
+
+1387
+01:05:48,120 --> 01:05:50,120
+Lecture 10 is about behavioral finance.
+
+1388
+01:05:50,120 --> 01:05:52,120
+I talked about that.
+
+1389
+01:05:52,120 --> 01:05:56,120
+It's another long-standing interest of mine to
+
+1390
+01:05:56,120 --> 01:06:00,120
+try to incorporate psychology into our theory.
+
+1391
+01:06:00,120 --> 01:06:05,120
+So, lecture 12 is about banking, multiple
+
+1392
+01:06:05,120 --> 01:06:10,120
+expansion of credit, money multiplier, and bank regulation.
+
+1393
+01:06:10,120 --> 01:06:13,120
+Which is something that is a fascinating topic.
+
+1394
+01:06:13,120 --> 01:06:16,120
+Because we almost lost our banking system.
+
+1395
+01:06:16,120 --> 01:06:18,120
+We had to bail them out massively.
+
+1396
+01:06:18,120 --> 01:06:20,120
+We have international loans.
+
+1397
+01:06:20,120 --> 01:06:22,120
+We have international accords now.
+
+1398
+01:06:22,120 --> 01:06:25,120
+Notably, a new one just came out called Basel
+
+1399
+01:06:25,120 --> 01:06:28,120
+III from Basel, which is a city in Switzerland.
+
+1400
+01:06:28,120 --> 01:06:30,620
+And it was endorsed by the G20
+
+1401
+01:06:30,620 --> 01:06:33,120
+countries at their Korean meeting in Seoul.
+
+1402
+01:06:33,120 --> 01:06:38,620
+So, we're seeing a change in bank regulation that will, we
+
+1403
+01:06:38,620 --> 01:06:44,120
+hope, prevent another crisis like the one we just went through.
+
+1404
+01:06:44,120 --> 01:06:48,120
+Lecture 13 is about forwards and futures markets.
+
+1405
+01:06:48,120 --> 01:06:51,620
+Futures markets, well, forward markets are markets
+
+1406
+01:06:51,620 --> 01:06:55,120
+for contracts that deliver in the future.
+
+1407
+01:06:55,120 --> 01:07:00,120
+Over-the-counter contracts, they're called, that are done one-on-one
+
+1408
+01:07:00,120 --> 01:07:05,120
+between parties with the help of an investment bank.
+
+1409
+01:07:05,120 --> 01:07:09,620
+Or futures contracts, which are traded on
+
+1410
+01:07:09,620 --> 01:07:14,120
+organized futures exchange, like the Chicago Mercantile Exchange.
+
+1411
+01:07:14,120 --> 01:07:16,120
+I have some involvement with this.
+
+1412
+01:07:16,120 --> 01:07:20,620
+Because we worked with the Chicago Mercantile Exchange to create
+
+1413
+01:07:20,620 --> 01:07:25,120
+a futures market for single-family homes using the S&P Case-Shiller Index.
+
+1414
+01:07:25,120 --> 01:07:27,120
+So, I'm involved in this.
+
+1415
+01:07:27,120 --> 01:07:30,120
+And we have that market
+
+1416
+01:07:30,120 --> 01:07:33,120
+functioning at a rather low level.
+
+1417
+01:07:33,120 --> 01:07:36,120
+But it is functioning and seems to be growing lately.
+
+1418
+01:07:36,120 --> 01:07:38,120
+I'm hopeful for that market.
+
+1419
+01:07:38,120 --> 01:07:41,120
+Lecture 14 is about options markets.
+
+1420
+01:07:41,120 --> 01:07:45,120
+These are most typically stock options, which are common.
+
+1421
+01:07:45,120 --> 01:07:49,620
+These are contracts that allow you to purchase a share of
+
+1422
+01:07:49,620 --> 01:07:54,120
+a stock or to sell a share at a pre-specified price.
+
+1423
+01:07:54,120 --> 01:07:56,120
+These are traded on options exchanges.
+
+1424
+01:07:56,120 --> 01:07:58,120
+They have a price that goes up and down.
+
+1425
+01:07:58,120 --> 01:08:02,620
+This is an example of a derivative contract
+
+1426
+01:08:02,620 --> 01:08:07,120
+that injects a lot of complexity into financial theory.
+
+1427
+01:08:07,120 --> 01:08:10,120
+Lecture 15 is about monetary policy.
+
+1428
+01:08:10,120 --> 01:08:13,120
+It's about the central banks of the world.
+
+1429
+01:08:13,120 --> 01:08:15,120
+For example, our central bank, called the Federal Reserve.
+
+1430
+01:08:15,120 --> 01:08:17,120
+In the United States.
+
+1431
+01:08:17,120 --> 01:08:20,620
+And it's about what they do and how they
+
+1432
+01:08:20,620 --> 01:08:24,120
+help prevent crises like the one we've just seen.
+
+1433
+01:08:24,120 --> 01:08:26,120
+They did help prevent it.
+
+1434
+01:08:26,120 --> 01:08:28,120
+I think they saved off disaster.
+
+1435
+01:08:28,120 --> 01:08:31,120
+Lecture 16 is about investment banking.
+
+1436
+01:08:31,120 --> 01:08:34,120
+I know this is of great interest because we place
+
+1437
+01:08:34,120 --> 01:08:37,120
+a lot of students in good jobs in investment banking.
+
+1438
+01:08:37,120 --> 01:08:41,120
+Companies like Goldman Sachs, most talked about one.
+
+1439
+01:08:41,120 --> 01:08:43,120
+These help investment bankers help them.
+
+1440
+01:08:43,120 --> 01:08:44,120
+They help them.
+
+1441
+01:08:44,120 --> 01:08:47,620
+Investment bankers help companies raise
+
+1442
+01:08:47,620 --> 01:08:51,120
+capital, issue securities, retire securities.
+
+1443
+01:08:51,120 --> 01:08:54,120
+And we want to talk about how they're regulated.
+
+1444
+01:08:54,120 --> 01:08:56,120
+And I didn't mention Dodd-Frank, by the way.
+
+1445
+01:08:56,120 --> 01:09:00,620
+We have a new bill that just passed in July in
+
+1446
+01:09:00,620 --> 01:09:05,120
+the United States that changes the regulatory structure for investment banks
+
+1447
+01:09:05,120 --> 01:09:08,120
+and a whole array of financial institutions.
+
+1448
+01:09:08,120 --> 01:09:10,120
+And I want to talk about that.
+
+1449
+01:09:10,120 --> 01:09:12,120
+It's, there are other, in other countries.
+
+1450
+01:09:12,120 --> 01:09:16,120
+The European Union, the European Parliament has created a
+
+1451
+01:09:16,120 --> 01:09:20,120
+number of new laws and organizations that somewhat resemble Dodd-Frank.
+
+1452
+01:09:20,120 --> 01:09:24,120
+And other countries have also done financial regulation reform
+
+1453
+01:09:24,120 --> 01:09:28,120
+that affects investment banking and other aspects of finance.
+
+1454
+01:09:28,120 --> 01:09:30,120
+It's extremely complicated.
+
+1455
+01:09:30,120 --> 01:09:33,620
+And I don't want to give you too many details, but I
+
+1456
+01:09:33,620 --> 01:09:37,120
+want to give you some sense of the revolution that we're seeing.
+
+1457
+01:09:37,120 --> 01:09:39,120
+Lecture 17 is about professional
+
+1458
+01:09:39,120 --> 01:09:41,120
+money managers like David Swenson.
+
+1459
+01:09:41,120 --> 01:09:43,120
+People who manage portfolios.
+
+1460
+01:09:43,120 --> 01:09:45,620
+You don't have to be a
+
+1461
+01:09:45,620 --> 01:09:48,120
+billionaire to manage a billion dollar portfolio.
+
+1462
+01:09:48,120 --> 01:09:51,120
+In fact, some of you may be doing it sooner
+
+1463
+01:09:51,120 --> 01:09:54,120
+than you realize if you get the right kind of job.
+
+1464
+01:09:54,120 --> 01:09:56,620
+Managing a portfolio means managing the
+
+1465
+01:09:56,620 --> 01:09:59,120
+risks, putting them in the right places.
+
+1466
+01:09:59,120 --> 01:10:04,120
+And also, you know, you think of institutional investors,
+
+1467
+01:10:04,120 --> 01:10:09,120
+big money managers as just trying to make money.
+
+1468
+01:10:09,120 --> 01:10:11,120
+But when you get into that field, you're not.
+
+1469
+01:10:11,120 --> 01:10:14,120
+When you get into that field, you realize that you
+
+1470
+01:10:14,120 --> 01:10:17,120
+are deciding on, you have power as an institutional investor.
+
+1471
+01:10:17,120 --> 01:10:20,120
+You can go to, when you own a big share of some
+
+1472
+01:10:20,120 --> 01:10:23,120
+company, you can go to the board meeting and talk to these people.
+
+1473
+01:10:23,120 --> 01:10:26,120
+And you, or the stockholders meeting, and you'll get heard
+
+1474
+01:10:26,120 --> 01:10:29,120
+if you own 10% of the shares of a company.
+
+1475
+01:10:29,120 --> 01:10:31,120
+Then you suddenly realize that you
+
+1476
+01:10:31,120 --> 01:10:33,120
+are a steward of the public interest.
+
+1477
+01:10:33,120 --> 01:10:35,120
+And I think institutional investors
+
+1478
+01:10:35,120 --> 01:10:37,120
+are recognizing that more and more.
+
+1479
+01:10:37,120 --> 01:10:39,120
+Lecture 18 is about exchanges.
+
+1480
+01:10:39,120 --> 01:10:41,120
+Brokers, dealers, clearing houses.
+
+1481
+01:10:41,120 --> 01:10:43,120
+Like the New York Stock
+
+1482
+01:10:43,120 --> 01:10:45,120
+Exchange or the London Stock Exchange.
+
+1483
+01:10:45,120 --> 01:10:47,120
+They are proliferating around the world.
+
+1484
+01:10:47,120 --> 01:10:50,120
+Whereas there were just a few 30 years
+
+1485
+01:10:50,120 --> 01:10:53,120
+ago, now almost every country has a stock exchange.
+
+1486
+01:10:53,120 --> 01:10:56,120
+And a complicated list of exchanges.
+
+1487
+01:10:56,120 --> 01:10:58,120
+They are increasingly electronic.
+
+1488
+01:10:58,120 --> 01:11:00,620
+They have interesting new features
+
+1489
+01:11:00,620 --> 01:11:03,120
+like microsecond trading that's going on.
+
+1490
+01:11:03,120 --> 01:11:06,120
+Computers trading with other computers.
+
+1491
+01:11:06,120 --> 01:11:09,120
+We'll talk about where this is going.
+
+1492
+01:11:09,120 --> 01:11:11,120
+Lecture 19 is about the market.
+
+1493
+01:11:11,120 --> 01:11:15,120
+And I'm going to talk about public and nonprofit finance.
+
+1494
+01:11:15,120 --> 01:11:17,120
+So, I think this is very important.
+
+1495
+01:11:17,120 --> 01:11:21,120
+Nonprofit finance would include organizations like Yale University
+
+1496
+01:11:21,120 --> 01:11:25,120
+or churches and charities and other things like that.
+
+1497
+01:11:25,120 --> 01:11:28,120
+But I'm also including in this lecture public finance.
+
+1498
+01:11:28,120 --> 01:11:31,120
+And that means governments financing projects.
+
+1499
+01:11:31,120 --> 01:11:34,120
+So, for example, you take it for granted
+
+1500
+01:11:34,120 --> 01:11:37,120
+that our city here in New Haven has roads.
+
+1501
+01:11:37,120 --> 01:11:38,120
+It has schools.
+
+1502
+01:11:38,120 --> 01:11:39,120
+It has sewers.
+
+1503
+01:11:39,120 --> 01:11:40,120
+It has water.
+
+1504
+01:11:40,120 --> 01:11:42,120
+All this kind of comes without your even asking.
+
+1505
+01:11:42,120 --> 01:11:44,120
+But all of these things had to be financed.
+
+1506
+01:11:44,120 --> 01:11:46,120
+And the city of New Haven,
+
+1507
+01:11:46,120 --> 01:11:48,120
+like other cities, is issuing debt.
+
+1508
+01:11:48,120 --> 01:11:51,120
+And it's a complicated business.
+
+1509
+01:11:51,120 --> 01:11:53,120
+I want to get you into
+
+1510
+01:11:53,120 --> 01:11:55,120
+some of the details because it matters.
+
+1511
+01:11:55,120 --> 01:11:57,120
+Because this is how you make things happen.
+
+1512
+01:11:57,120 --> 01:12:00,620
+You can go to your city government and you can
+
+1513
+01:12:00,620 --> 01:12:04,120
+propose that they issue revenue bonds to start some new product.
+
+1514
+01:12:04,120 --> 01:12:05,120
+You would know.
+
+1515
+01:12:05,120 --> 01:12:06,620
+That's what I want you to do
+
+1516
+01:12:06,620 --> 01:12:08,120
+is to know how these things are done.
+
+1517
+01:12:08,120 --> 01:12:10,120
+So, that it's not just imagination.
+
+1518
+01:12:10,120 --> 01:12:12,120
+You can make it happen.
+
+1519
+01:12:12,120 --> 01:12:14,120
+And also nonprofits.
+
+1520
+01:12:14,120 --> 01:12:16,120
+I want you to understand that
+
+1521
+01:12:16,120 --> 01:12:18,120
+you can set up your own nonprofit.
+
+1522
+01:12:18,120 --> 01:12:20,120
+And there's a lot of advantages to doing that.
+
+1523
+01:12:20,120 --> 01:12:22,620
+That's an organization that has
+
+1524
+01:12:22,620 --> 01:12:25,120
+a financial structure, but no shareholders.
+
+1525
+01:12:25,120 --> 01:12:27,120
+Nobody takes home the money.
+
+1526
+01:12:27,120 --> 01:12:29,120
+It all goes to some cause.
+
+1527
+01:12:29,120 --> 01:12:32,620
+And finally, my last lecture, Lecture 20, I'm
+
+1528
+01:12:32,620 --> 01:12:36,120
+calling it the Finding Your Purpose in Finance.
+
+1529
+01:12:36,120 --> 01:12:37,620
+I just want to come back in the last
+
+1530
+01:12:37,620 --> 01:12:39,120
+lecture to the idea that this is a concept.
+
+1531
+01:12:39,120 --> 01:12:42,120
+The idea that this is a
+
+1532
+01:12:42,120 --> 01:12:45,120
+course about, not about making money.
+
+1533
+01:12:45,120 --> 01:12:49,620
+I don't want you to give a billion dollars to your
+
+1534
+01:12:49,620 --> 01:12:54,120
+children and grandchildren, which they will then squander in conspicuous consumption.
+
+1535
+01:12:54,120 --> 01:12:58,120
+The idea is a moral purpose.
+
+1536
+01:12:58,120 --> 01:13:01,620
+And that's one thing I wanted to try to convey, partly
+
+1537
+01:13:01,620 --> 01:13:05,120
+with outside speakers, maybe with other examples that I can give.
+
+1538
+01:13:05,120 --> 01:13:07,120
+That I think that many people who are wealthy,
+
+1539
+01:13:07,120 --> 01:13:08,120
+who are not wealthy,
+
+1540
+01:13:08,120 --> 01:13:12,120
+and who have succeeded in finance,
+
+1541
+01:13:12,120 --> 01:13:17,120
+really don't care about spending the money on themselves.
+
+1542
+01:13:17,120 --> 01:13:19,120
+They really do have a purpose.
+
+1543
+01:13:19,120 --> 01:13:21,120
+Even if that's not true of many of them.
+
+1544
+01:13:21,120 --> 01:13:23,620
+There's an interesting book by Robert Frank, I don't
+
+1545
+01:13:23,620 --> 01:13:26,120
+have it on the reading list, called Riches Stan,
+
+1546
+01:13:26,120 --> 01:13:29,120
+who talks about what wealthy people are like these days.
+
+1547
+01:13:29,120 --> 01:13:32,620
+And if you read his book, sometimes they are
+
+1548
+01:13:32,620 --> 01:13:36,120
+disgustingly rich and spending the money on silly things.
+
+1549
+01:13:36,120 --> 01:13:38,120
+But there is a, there is a,
+
+1550
+01:13:38,120 --> 01:13:41,120
+there is an idea among many of them,
+
+1551
+01:13:41,120 --> 01:13:43,620
+that they are going to do
+
+1552
+01:13:43,620 --> 01:13:46,120
+their good things for the world.
+
+1553
+01:13:46,120 --> 01:13:48,120
+And I think that's what I,
+
+1554
+01:13:48,120 --> 01:13:49,620
+that's, because I think many
+
+1555
+01:13:49,620 --> 01:13:51,120
+of you will do these things.
+
+1556
+01:13:51,120 --> 01:13:52,620
+I want to think about
+
+1557
+01:13:52,620 --> 01:13:54,120
+the purpose that you'll find in,
+
+1558
+01:13:54,120 --> 01:13:56,120
+in,
+
+1559
+01:13:56,120 --> 01:13:58,120
+in,
+
+1560
+01:13:58,120 --> 01:14:00,120
+in finance.
+
+1561
+01:14:00,120 --> 01:14:02,120
+So, that's just the closing thought.
+
+1562
+01:14:02,120 --> 01:14:03,120
+I'll leave you,
+
+1563
+01:14:03,120 --> 01:14:06,120
+I'll see you again on Wednesday.
+
+1564
+01:14:06,120 --> 01:14:07,120
+But the closing thought is that,
+
+1565
+01:14:07,120 --> 01:14:11,120
+it is about making your purposes happen.
+
