@@ -1,0 +1,66 @@
+{
+  "course_rel": "lazyearn/yale-financial-markets",
+  "transcript_rel": "lazyearn/yale-financial-markets/002 - 2. Risk and Financial Crises [QbosMr2JVrc].md",
+  "video_rel": "lazyearn/yale-financial-markets/002 - 2. Risk and Financial Crises [QbosMr2JVrc].webm",
+  "lecture_number": 2,
+  "lecture_slug": "lecture_02",
+  "lecture_title": "2. Risk and Financial Crises",
+  "assets": [
+    {
+      "name": "lecture_02_figure_02.png",
+      "timestamp_seconds": 885.131,
+      "timestamp_hhmmss": "00:14:45.131",
+      "source_candidate": "lecture_02_window_03_candidate_02_001445131.png",
+      "recommended_use": "screenshot_plus_equation",
+      "rationale": "This frame gives the clearest and most complete view of the slide while the lecturer is actively indicating the expectation formulas. The title and all major equations are legible, and the occlusion is limited to a small part of the lower-left corner, making it the most useful frame for reconstructing the mathematical content of this moment.",
+      "subtitle_excerpt": "It's essentially the average of x in the probability metric",
+      "segment_start_seconds": 882.0,
+      "segment_start_hhmmss": "00:14:42.000",
+      "segment_end_seconds": 890.24,
+      "segment_end_hhmmss": "00:14:50.240",
+      "caption_hint": "expected value as mean or average"
+    },
+    {
+      "name": "lecture_02_figure_03.png",
+      "timestamp_seconds": 996.529,
+      "timestamp_hhmmss": "00:16:36.529",
+      "source_candidate": "lecture_02_window_04_candidate_03_001636529.png",
+      "recommended_use": "screenshot_plus_equation",
+      "rationale": "This frame is the best match for the subtitle moment because the full slide is sharp and complete, and the lecturer is clearly indicating the geometric-mean formula specifically. The relevant lower-right equation is unobstructed and more directly emphasized here than in the other candidates.",
+      "subtitle_excerpt": "The geometric mean, instead of adding your n observations,",
+      "segment_start_seconds": 993.5,
+      "segment_start_hhmmss": "00:16:33.500",
+      "segment_end_seconds": 998.16,
+      "segment_end_hhmmss": "00:16:38.160",
+      "caption_hint": "geometric mean on the expectation slide"
+    },
+    {
+      "name": "lecture_02_figure_04.png",
+      "timestamp_seconds": 1186.396,
+      "timestamp_hhmmss": "00:19:46.396",
+      "source_candidate": "lecture_02_window_05_candidate_02_001946396.png",
+      "recommended_use": "screenshot_plus_equation",
+      "rationale": "This frame best matches the subtitle moment because the lecturer is clearly indicating the upper variance formula while the slide remains sharp and fully legible. Both the title and the two displayed formulas are unobstructed enough for reliable transcription, making it the most useful note-writing frame in the set.",
+      "subtitle_excerpt": "And the upper equation here is something called variance.",
+      "segment_start_seconds": 1184.04,
+      "segment_start_hhmmss": "00:19:44.040",
+      "segment_end_seconds": 1190.24,
+      "segment_end_hhmmss": "00:19:50.240",
+      "caption_hint": "variance and standard deviation formulas"
+    },
+    {
+      "name": "lecture_02_figure_05.png",
+      "timestamp_seconds": 1280.674,
+      "timestamp_hhmmss": "00:21:20.674",
+      "source_candidate": "lecture_02_window_06_candidate_01_002120674.png",
+      "recommended_use": "screenshot_plus_equation",
+      "rationale": "This frame is the clearest usable view of the same variance slide for this subtitle moment. The lower equation is fully legible and the lecturer\u2019s gesture most directly indicates that part of the slide, while the overall screen remains sharp and unobstructed enough for transcription.",
+      "subtitle_excerpt": "given by this equation.",
+      "segment_start_seconds": 1280.42,
+      "segment_start_hhmmss": "00:21:20.420",
+      "segment_end_seconds": 1282.54,
+      "segment_end_hhmmss": "00:21:22.540",
+      "caption_hint": "sample variance on the variance slide"
+    }
+  ]
+}
