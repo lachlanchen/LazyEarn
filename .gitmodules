@@ -1,0 +1,3 @@
+[submodule "Video2Book"]
+	path = Video2Book
+	url = git@github.com:lachlanchen/Video2Book.git
