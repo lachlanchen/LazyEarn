@@ -1,0 +1,6100 @@
+1
+00:00:01,000 --> 00:00:01,680
+All right.
+
+2
+00:00:01,680 --> 00:00:08,160
+So, for this, the penultimate lecture for financial markets,
+
+3
+00:00:08,160 --> 00:00:11,920
+I wanted to talk about nonprofit and
+
+4
+00:00:11,920 --> 00:00:13,200
+government finance.
+
+5
+00:00:16,200 --> 00:00:21,960
+So, let me first recall some of the basic
+
+6
+00:00:21,960 --> 00:00:24,000
+themes of this course.
+
+7
+00:00:24,000 --> 00:00:29,280
+Finance is really about incentivizing people to do
+
+8
+00:00:29,280 --> 00:00:33,160
+good work and managing risks.
+
+9
+00:00:33,160 --> 00:00:35,080
+These issues are not confined
+
+10
+00:00:35,080 --> 00:00:37,000
+to the private sector, to the
+
+11
+00:00:37,000 --> 00:00:38,280
+business sector.
+
+12
+00:00:38,280 --> 00:00:44,400
+They're very deep and central problems to all people.
+
+13
+00:00:44,400 --> 00:00:45,900
+The big problem, to put it
+
+14
+00:00:45,900 --> 00:00:47,400
+in the most broad term, just
+
+15
+00:00:47,400 --> 00:00:49,320
+about everything that we do that's
+
+16
+00:00:49,320 --> 00:00:51,240
+good is done as part of
+
+17
+00:00:51,240 --> 00:00:52,500
+a team.
+
+18
+00:00:52,500 --> 00:00:53,980
+It's hard to think of something
+
+19
+00:00:53,980 --> 00:00:57,059
+that you alone can do.
+
+20
+00:00:57,059 --> 00:00:58,679
+And so, the problem with teams
+
+21
+00:00:58,679 --> 00:01:00,300
+is that people have their own
+
+22
+00:01:00,300 --> 00:01:04,819
+individual concerns and incentives, and it doesn't
+
+23
+00:01:04,819 --> 00:01:07,460
+always yield teamwork.
+
+24
+00:01:07,460 --> 00:01:09,620
+So, that's what I think finance is really about.
+
+25
+00:01:12,800 --> 00:01:14,860
+You might think I'm wrong, that some of the greatest
+
+26
+00:01:14,860 --> 00:01:19,539
+achievements in history were done by single individuals.
+
+27
+00:01:19,539 --> 00:01:20,740
+So, I don't know what you might think of.
+
+28
+00:01:20,740 --> 00:01:23,380
+What comes to my mind is, how about Albert Einstein?
+
+29
+00:01:23,380 --> 00:01:23,880
+He was a great scientist.
+
+30
+00:01:23,880 --> 00:01:23,960
+He was a great scientist.
+
+31
+00:01:23,960 --> 00:01:25,860
+He had good design, right?
+
+32
+00:01:25,860 --> 00:01:27,080
+His theories.
+
+33
+00:01:27,080 --> 00:01:33,679
+He was sitting in a patent office in Switzerland, just
+
+34
+00:01:33,679 --> 00:01:34,819
+doodling on a piece of paper
+
+35
+00:01:34,819 --> 00:01:35,960
+and came up with a whole
+
+36
+00:01:35,960 --> 00:01:37,839
+theory of relativity.
+
+37
+00:01:37,839 --> 00:01:39,119
+You see, that would be
+
+38
+00:01:39,119 --> 00:01:40,399
+a mistake to think that, because
+
+39
+00:01:40,399 --> 00:01:42,889
+in fact, he had gotten a
+
+40
+00:01:42,889 --> 00:01:45,380
+PhD in physics from the Zurich
+
+41
+00:01:45,380 --> 00:01:50,259
+Polytechnic, which is a nonprofit organization.
+
+42
+00:01:50,259 --> 00:01:53,139
+And he relied on journals of physics.
+
+43
+00:01:53,139 --> 00:01:53,499
+He could not have done it without
+
+44
+00:01:53,499 --> 00:01:53,860
+the help of the field research group.
+
+45
+00:01:53,860 --> 00:01:56,220
+have done it, if he didn't read what other physicists
+
+46
+00:01:56,220 --> 00:01:57,120
+were doing.
+
+47
+00:01:57,120 --> 00:02:00,180
+And journals were organizations that had
+
+48
+00:02:00,180 --> 00:02:04,280
+financing, I assume non-profit.
+
+49
+00:02:04,280 --> 00:02:07,200
+I thought of another example.
+
+50
+00:02:07,200 --> 00:02:11,800
+Charles Darwin, the great physicist, not physicist, the
+
+51
+00:02:11,800 --> 00:02:13,060
+great naturalist.
+
+52
+00:02:15,500 --> 00:02:20,260
+People point out that he wasn't affiliated.
+
+53
+00:02:20,260 --> 00:02:21,160
+He was on his own.
+
+54
+00:02:21,160 --> 00:02:22,400
+He wasn't part of a university.
+
+55
+00:02:26,100 --> 00:02:27,780
+I guess he got financing,
+
+56
+00:02:27,780 --> 00:02:29,460
+but kind of on his own.
+
+57
+00:02:29,460 --> 00:02:32,440
+But he couldn't have written The Origin of
+
+58
+00:02:32,440 --> 00:02:34,579
+Species by himself.
+
+59
+00:02:34,579 --> 00:02:38,149
+In fact, he got financing
+
+60
+00:02:38,149 --> 00:02:41,720
+from private donors for the Beagle,
+
+61
+00:02:41,720 --> 00:02:44,500
+this two-year voyage he made around the world, where he
+
+62
+00:02:44,500 --> 00:02:47,380
+collected specimens and information.
+
+63
+00:02:47,380 --> 00:02:50,160
+It actually goes back to his professor.
+
+64
+00:02:50,160 --> 00:02:51,100
+He had a professor.
+
+65
+00:02:51,100 --> 00:02:53,340
+He was a professor at the University of New York,
+
+66
+00:02:53,340 --> 00:02:59,040
+Henry Henslow at Cambridge University, who was a botanist.
+
+67
+00:02:59,040 --> 00:03:04,160
+And Henslow arranged for Darwin's voyage and sent him
+
+68
+00:03:04,160 --> 00:03:05,440
+off.
+
+69
+00:03:05,440 --> 00:03:08,859
+So, you know, these are organizations that I don't
+
+70
+00:03:08,859 --> 00:03:10,600
+think you can do much good.
+
+71
+00:03:10,600 --> 00:03:12,600
+Some people would say, well, how about a poet?
+
+72
+00:03:12,600 --> 00:03:16,600
+A poet, sometimes they're even blind.
+
+73
+00:03:16,600 --> 00:03:18,959
+Homer was a blind poet, right?
+
+74
+00:03:18,959 --> 00:03:20,000
+He just.
+
+75
+00:03:20,000 --> 00:03:20,940
+He didn't have anything.
+
+76
+00:03:20,940 --> 00:03:22,240
+He didn't know how to write a poem.
+
+77
+00:03:22,240 --> 00:03:22,840
+He didn't know how to write a poem.
+
+78
+00:03:22,840 --> 00:03:23,600
+He didn't know how to write it down.
+
+79
+00:03:23,600 --> 00:03:24,400
+He just memorized everything.
+
+80
+00:03:24,400 --> 00:03:25,800
+He just sat there and thought.
+
+81
+00:03:25,800 --> 00:03:30,500
+But even he must have had financing, because he traveled
+
+82
+00:03:30,500 --> 00:03:33,320
+around the world of his
+
+83
+00:03:33,320 --> 00:03:36,140
+day and made his poems known.
+
+84
+00:03:36,140 --> 00:03:37,620
+Otherwise, they wouldn't survive.
+
+85
+00:03:37,620 --> 00:03:39,300
+Other people learned them.
+
+86
+00:03:39,300 --> 00:03:41,020
+And he must have had financing for this.
+
+87
+00:03:41,020 --> 00:03:43,120
+It must have been a business.
+
+88
+00:03:43,120 --> 00:03:46,440
+So that's the general theme.
+
+89
+00:03:46,440 --> 00:03:47,870
+I'm going to talk today,
+
+90
+00:03:47,870 --> 00:03:49,300
+there's so much to talk about,
+
+91
+00:03:49,300 --> 00:03:49,710
+but I'm going to try to see
+
+92
+00:03:49,710 --> 00:03:50,120
+how much of this I can cover with.
+
+93
+00:03:50,120 --> 00:03:50,260
+I've got a couple more minutes.
+
+94
+00:03:50,260 --> 00:03:50,400
+But let me just finish first.
+
+95
+00:03:50,400 --> 00:03:50,740
+All right.
+
+96
+00:03:50,740 --> 00:03:50,840
+I've got one more.
+
+97
+00:03:50,840 --> 00:03:55,840
+I want to start by talking about nonprofit organizations.
+
+98
+00:03:55,840 --> 00:03:59,700
+These are organizations who have a purpose stated in their
+
+99
+00:03:59,700 --> 00:04:02,600
+charter, other than making money.
+
+100
+00:04:02,600 --> 00:04:04,600
+Okay?
+
+101
+00:04:04,600 --> 00:04:07,600
+And then I want to talk about government involvement in
+
+102
+00:04:07,600 --> 00:04:12,140
+for-profits, that for-profit companies are not completely
+
+103
+00:04:12,140 --> 00:04:16,600
+clear of a social interest as well.
+
+104
+00:04:16,600 --> 00:04:21,839
+Then I'm going to talk about government finance of projects.
+
+105
+00:04:21,839 --> 00:04:25,100
+And then finally, government social insurance.
+
+106
+00:04:25,100 --> 00:04:27,160
+I'm hoping that this lecture
+
+107
+00:04:27,160 --> 00:04:29,220
+will remind you of things that
+
+108
+00:04:29,220 --> 00:04:31,960
+you can do, because in all these sectors, there are
+
+109
+00:04:31,960 --> 00:04:33,720
+things that you can do.
+
+110
+00:04:33,720 --> 00:04:35,040
+So, one of the themes of
+
+111
+00:04:35,040 --> 00:04:36,360
+this course was, you should have a
+
+112
+00:04:36,360 --> 00:04:39,360
+purpose in life, and it should
+
+113
+00:04:39,360 --> 00:04:42,360
+not be making money, per se.
+
+114
+00:04:42,360 --> 00:04:44,360
+And think of finance as a purpose.
+
+115
+00:04:44,360 --> 00:04:46,360
+And you should have a purpose in life.
+
+116
+00:04:46,360 --> 00:04:48,110
+And think of finance as a tool
+
+117
+00:04:48,110 --> 00:04:49,860
+that you can use to help you
+
+118
+00:04:49,860 --> 00:04:50,860
+achieve this purpose.
+
+119
+00:04:50,860 --> 00:04:52,860
+So, that's what I want to talk about.
+
+120
+00:04:56,860 --> 00:05:01,860
+So, let me start then with nonprofits.
+
+121
+00:05:01,860 --> 00:05:05,260
+A nonprofit organization, it can
+
+122
+00:05:05,260 --> 00:05:08,660
+be a corporation that is an
+
+123
+00:05:08,660 --> 00:05:13,460
+organization set up for a charitable cause, or a good
+
+124
+00:05:13,460 --> 00:05:15,260
+cause.
+
+125
+00:05:15,260 --> 00:05:16,340
+And it has no
+
+126
+00:05:16,360 --> 00:05:21,360
+owners, in the sense that a regular corporate, there's no
+
+127
+00:05:21,360 --> 00:05:22,360
+shareholders.
+
+128
+00:05:22,360 --> 00:05:27,360
+The profits go back to the organization for its purposes.
+
+129
+00:05:27,360 --> 00:05:28,860
+So, right now, you're sitting,
+
+130
+00:05:28,860 --> 00:05:30,360
+as I mentioned before, Yale is
+
+131
+00:05:30,360 --> 00:05:31,360
+a nonprofit.
+
+132
+00:05:31,360 --> 00:05:32,360
+It has no owners.
+
+133
+00:05:32,360 --> 00:05:36,360
+It's a legal person in itself.
+
+134
+00:05:36,360 --> 00:05:40,360
+But it has a board of directors.
+
+135
+00:05:40,360 --> 00:05:42,860
+In the United States, in
+
+136
+00:05:42,860 --> 00:05:45,360
+2010, there were 1.6 million nonprofits.
+
+137
+00:05:46,360 --> 00:05:47,360
+It's huge.
+
+138
+00:05:47,360 --> 00:05:49,860
+Well, the U.S. is probably
+
+139
+00:05:49,860 --> 00:05:52,360
+the country that has the strongest
+
+140
+00:05:52,360 --> 00:05:53,360
+nonprofit sector.
+
+141
+00:05:53,360 --> 00:05:55,360
+My number for the United
+
+142
+00:05:55,360 --> 00:05:57,360
+Kingdom, maybe out of date, was
+
+143
+00:05:58,360 --> 00:06:04,360
+It's part of the U.S. culture that nonprofits are big.
+
+144
+00:06:04,360 --> 00:06:06,360
+It goes back to the founding
+
+145
+00:06:06,360 --> 00:06:08,360
+ideas of this country, that we
+
+146
+00:06:08,360 --> 00:06:11,360
+don't have the government running everything.
+
+147
+00:06:11,360 --> 00:06:14,360
+We do things on our own, on our own initiative.
+
+148
+00:06:14,360 --> 00:06:16,360
+Of course, it's not just the government.
+
+149
+00:06:16,360 --> 00:06:18,360
+It's not just the U.S.
+
+150
+00:06:18,360 --> 00:06:20,360
+There are nonprofits in every country.
+
+151
+00:06:20,360 --> 00:06:23,360
+But that's a lot of nonprofits.
+
+152
+00:06:23,360 --> 00:06:27,360
+And they recently accounted for about 4% of gross domestic
+
+153
+00:06:27,360 --> 00:06:28,360
+product.
+
+154
+00:06:28,360 --> 00:06:29,360
+So, it's okay.
+
+155
+00:06:29,360 --> 00:06:30,860
+It's not huge, but it's
+
+156
+00:06:30,860 --> 00:06:32,360
+a very important component of gross
+
+157
+00:06:32,360 --> 00:06:33,360
+domestic profit.
+
+158
+00:06:44,360 --> 00:06:45,360
+Okay.
+
+159
+00:06:45,360 --> 00:06:48,360
+I just wanted to start by thinking about nonprofits and
+
+160
+00:06:48,360 --> 00:06:50,360
+maybe put the idea in your head
+
+161
+00:06:50,360 --> 00:06:52,360
+of creating one at some point in
+
+162
+00:06:52,360 --> 00:06:56,360
+your life, sooner or later.
+
+163
+00:06:56,360 --> 00:06:57,860
+I thought I'd start with
+
+164
+00:06:57,860 --> 00:06:59,360
+some examples that are familiar to
+
+165
+00:06:59,360 --> 00:07:02,360
+me of nonprofits.
+
+166
+00:07:02,360 --> 00:07:04,860
+When you're thinking of some
+
+167
+00:07:04,860 --> 00:07:07,360
+activity or some idea you have,
+
+168
+00:07:07,360 --> 00:07:10,360
+you can set it up as for-profit or nonprofit.
+
+169
+00:07:10,360 --> 00:07:13,360
+And let's just think about why you would do that.
+
+170
+00:07:13,360 --> 00:07:14,360
+So, I'll give you an example.
+
+171
+00:07:14,360 --> 00:07:19,360
+Peter Tufano, he's a professor
+
+172
+00:07:19,360 --> 00:07:24,360
+at the Harvard Business School,
+
+173
+00:07:24,360 --> 00:07:26,860
+set up a nonprofit on
+
+174
+00:07:26,860 --> 00:07:29,360
+his own, just as a professor.
+
+175
+00:07:29,360 --> 00:07:31,360
+I know him.
+
+176
+00:07:31,360 --> 00:07:36,360
+And he gave it an inspirational name, Doorways to Dreams.
+
+177
+00:07:36,360 --> 00:07:40,360
+And it's about personal finance and about helping people do
+
+178
+00:07:40,360 --> 00:07:43,360
+things better in their personal financing.
+
+179
+00:07:43,360 --> 00:07:45,860
+So, one of his ideas, and
+
+180
+00:07:45,860 --> 00:07:48,360
+he's promoting it with, he raises
+
+181
+00:07:48,360 --> 00:07:50,360
+money for his foundation to promote it.
+
+182
+00:07:50,360 --> 00:07:52,360
+One of them is to have
+
+183
+00:07:52,360 --> 00:07:54,360
+an automatic check off on the tax
+
+184
+00:07:54,360 --> 00:07:56,360
+form, so that when you get
+
+185
+00:07:56,360 --> 00:07:58,360
+a tax refund, instead of getting
+
+186
+00:07:58,360 --> 00:08:00,360
+it in cash, it could go right into U.S.
+
+187
+00:08:00,360 --> 00:08:04,360
+savings bonds to encourage people to save.
+
+188
+00:08:04,360 --> 00:08:05,860
+This is based on behavioral finance
+
+189
+00:08:05,860 --> 00:08:07,360
+and the fact that a lot
+
+190
+00:08:07,360 --> 00:08:11,360
+of people, especially lower income people, don't save.
+
+191
+00:08:11,360 --> 00:08:12,360
+A little nudge like that would help the nonprofit.
+
+192
+00:08:12,360 --> 00:08:16,360
+A little nudge like that would help them save.
+
+193
+00:08:16,360 --> 00:08:17,860
+Another thing, this sounds like a
+
+194
+00:08:17,860 --> 00:08:19,360
+strange idea, but this is the
+
+195
+00:08:19,360 --> 00:08:21,360
+kind of thing he can pursue on
+
+196
+00:08:21,360 --> 00:08:23,360
+his own genius, as long as he
+
+197
+00:08:23,360 --> 00:08:25,360
+can raise money to get him to do it.
+
+198
+00:08:25,360 --> 00:08:27,360
+He has the idea that a lot
+
+199
+00:08:27,360 --> 00:08:29,360
+of people like to play the lottery.
+
+200
+00:08:29,360 --> 00:08:31,360
+Obviously, they do.
+
+201
+00:08:31,360 --> 00:08:34,360
+And they just are steady losers on this.
+
+202
+00:08:34,360 --> 00:08:36,360
+On average, they'll always lose.
+
+203
+00:08:36,360 --> 00:08:38,360
+But given that people want that, why don't we create
+
+204
+00:08:38,360 --> 00:08:42,360
+savings plans that pay out randomly, like winning the
+
+205
+00:08:42,360 --> 00:08:45,360
+lottery, so that the government doesn't have any
+
+206
+00:08:45,360 --> 00:08:46,360
+take in it?
+
+207
+00:08:46,360 --> 00:08:49,360
+It just encourages saving.
+
+208
+00:08:49,360 --> 00:08:53,360
+That's a strange, original idea, which you might find
+
+209
+00:08:53,360 --> 00:08:58,360
+hard to convince the government to do it.
+
+210
+00:08:58,360 --> 00:08:59,360
+But he can just do it.
+
+211
+00:08:59,360 --> 00:09:01,360
+He doesn't have to talk to the government.
+
+212
+00:09:01,360 --> 00:09:03,360
+He talks to individual banks.
+
+213
+00:09:03,360 --> 00:09:06,360
+And he's gotten some now to offer this plan.
+
+214
+00:09:06,360 --> 00:09:08,360
+But what was striking to me is,
+
+215
+00:09:08,360 --> 00:09:10,360
+he said, when I go into some
+
+216
+00:09:10,360 --> 00:09:11,360
+company trying to raise money,
+
+217
+00:09:11,360 --> 00:09:12,360
+I'm not going to do it.
+
+218
+00:09:12,360 --> 00:09:15,360
+I'm going to invest my money for my projects.
+
+219
+00:09:15,360 --> 00:09:17,360
+When I tell them I'm nonprofit, it changes the
+
+220
+00:09:17,360 --> 00:09:19,360
+whole atmosphere.
+
+221
+00:09:19,360 --> 00:09:22,360
+Because they know that I'm not profiting from this.
+
+222
+00:09:22,360 --> 00:09:26,360
+And so, it opens up opportunities.
+
+223
+00:09:26,360 --> 00:09:28,360
+I'll give you a second example.
+
+224
+00:09:28,360 --> 00:09:30,860
+Dean Carlin here at Yale,
+
+225
+00:09:30,860 --> 00:09:33,360
+he came here as an assistant
+
+226
+00:09:33,360 --> 00:09:39,360
+professor, in 2002, he created a charity called Innovations
+
+227
+00:09:39,360 --> 00:09:40,360
+for Poverty Action.
+
+228
+00:09:40,360 --> 00:09:42,360
+So, this is just a little bit.
+
+229
+00:09:42,360 --> 00:09:43,360
+Dean Carlin.
+
+230
+00:09:43,360 --> 00:09:47,360
+Some of you may have taken his course.
+
+231
+00:09:47,360 --> 00:09:49,360
+Anyone took his course?
+
+232
+00:09:49,360 --> 00:09:50,360
+Some of you, yeah.
+
+233
+00:09:50,360 --> 00:09:53,860
+Actually, the doorbell rang at
+
+234
+00:09:53,860 --> 00:09:57,360
+my house here in New Haven,
+
+235
+00:09:57,360 --> 00:10:01,360
+and a young woman was collecting money for charity.
+
+236
+00:10:01,360 --> 00:10:02,360
+And it was his charity.
+
+237
+00:10:02,360 --> 00:10:06,360
+I was shocked.
+
+238
+00:10:06,360 --> 00:10:07,860
+He's actually sending people door
+
+239
+00:10:07,860 --> 00:10:09,360
+to door, at least as part
+
+240
+00:10:09,360 --> 00:10:10,360
+of his course.
+
+241
+00:10:10,360 --> 00:10:11,360
+But since then, he's been doing it.
+
+242
+00:10:11,360 --> 00:10:16,360
+And since then, he's developed, again, with its
+
+243
+00:10:16,360 --> 00:10:20,360
+nonprofit, and it's aimed at alleviating poverty, he can
+
+244
+00:10:20,360 --> 00:10:22,360
+bring in lots of money.
+
+245
+00:10:22,360 --> 00:10:25,360
+So, right now, last year
+
+246
+00:10:25,360 --> 00:10:28,360
+in 2010, the income of his
+
+247
+00:10:28,360 --> 00:10:32,360
+Innovations for Poverty Action was $25 million.
+
+248
+00:10:32,360 --> 00:10:34,360
+And he has a staff of
+
+249
+00:10:34,360 --> 00:10:36,360
+500 people all over the world,
+
+250
+00:10:36,360 --> 00:10:39,360
+operating in a lot of poorer countries.
+
+251
+00:10:39,360 --> 00:10:40,360
+So, he's doing it.
+
+252
+00:10:40,360 --> 00:10:43,360
+And he's doing it for the people of New Haven.
+
+253
+00:10:43,360 --> 00:10:45,360
+And he's doing it for the people of New Haven.
+
+254
+00:10:45,360 --> 00:10:50,360
+So, that's a couple of examples that are familiar to
+
+255
+00:10:50,360 --> 00:10:54,360
+me, because they were set up by friends of mine.
+
+256
+00:10:54,360 --> 00:10:56,360
+Another example.
+
+257
+00:10:56,360 --> 00:11:02,360
+This is Bill Drayton.
+
+258
+00:11:02,360 --> 00:11:08,360
+He set up something called the Ashoka Foundation.
+
+259
+00:11:08,360 --> 00:11:11,360
+And he's a, what is it,
+
+260
+00:11:11,360 --> 00:11:14,360
+it's a ruler of India, who advocated
+
+261
+00:11:14,360 --> 00:11:17,360
+nonviolence and philanthropy.
+
+262
+00:11:17,360 --> 00:11:18,860
+And he went to Yale
+
+263
+00:11:18,860 --> 00:11:20,360
+Law School, as well as Harvard
+
+264
+00:11:20,360 --> 00:11:23,360
+College, sort of local here.
+
+265
+00:11:23,360 --> 00:11:25,360
+But it's been a huge
+
+266
+00:11:25,360 --> 00:11:27,360
+success, and it encourages sort of
+
+267
+00:11:27,360 --> 00:11:32,360
+entrepreneurship for social entrepreneurs.
+
+268
+00:11:32,360 --> 00:11:34,360
+But he didn't stay on as a professor.
+
+269
+00:11:34,360 --> 00:11:35,360
+He taught at Stanford Law
+
+270
+00:11:35,360 --> 00:11:36,360
+School, but dropped out of the
+
+271
+00:11:36,360 --> 00:11:37,360
+law school.
+
+272
+00:11:37,360 --> 00:11:45,360
+But dropped out, because he wanted to pursue his nonprofit.
+
+273
+00:11:45,360 --> 00:11:46,860
+So, I'm amazed that these two
+
+274
+00:11:46,860 --> 00:11:48,360
+guys can be both professors and
+
+275
+00:11:48,360 --> 00:11:50,360
+running big nonprofit shops, as well.
+
+276
+00:11:50,360 --> 00:11:52,360
+But some people can do that.
+
+277
+00:11:52,360 --> 00:11:56,360
+My last example is Wendy Kopp.
+
+278
+00:11:56,360 --> 00:11:58,860
+I like this example for
+
+279
+00:11:58,860 --> 00:12:01,360
+your age, because her story starts
+
+280
+00:12:01,360 --> 00:12:02,360
+with her senior essay.
+
+281
+00:12:02,360 --> 00:12:05,360
+Do you know this story?
+
+282
+00:12:05,360 --> 00:12:07,360
+She was an undergrad student.
+
+283
+00:12:07,360 --> 00:12:09,360
+She was a graduate at Princeton.
+
+284
+00:12:09,360 --> 00:12:11,360
+Graduated in 1989.
+
+285
+00:12:11,360 --> 00:12:14,860
+And she had to write, maybe
+
+286
+00:12:14,860 --> 00:12:18,360
+they call it a senior thesis.
+
+287
+00:12:18,360 --> 00:12:22,360
+And so, she wrote something about education.
+
+288
+00:12:22,360 --> 00:12:29,360
+She had an idea that often it's hard for elementary
+
+289
+00:12:29,360 --> 00:12:33,360
+education to find people who are passionately committed to
+
+290
+00:12:33,360 --> 00:12:36,360
+science or mathematics or other fields.
+
+291
+00:12:36,360 --> 00:12:39,360
+And she wrote, people typically don't want to devote their
+
+292
+00:12:39,360 --> 00:12:41,360
+lives to teaching, but they
+
+293
+00:12:41,360 --> 00:12:43,360
+might devote a couple years to
+
+294
+00:12:43,360 --> 00:12:44,360
+teaching.
+
+295
+00:12:44,360 --> 00:12:47,360
+And so, she thought that it
+
+296
+00:12:47,360 --> 00:12:50,360
+would be a good idea to get
+
+297
+00:12:50,360 --> 00:12:51,860
+people, when they graduate from college,
+
+298
+00:12:51,860 --> 00:12:53,360
+to spend a year or two
+
+299
+00:12:53,360 --> 00:12:55,360
+in elementary education.
+
+300
+00:12:55,360 --> 00:12:57,360
+And that it would be
+
+301
+00:12:57,360 --> 00:12:59,360
+refreshing and good for the educational
+
+302
+00:12:59,360 --> 00:13:02,360
+system, to get enthusiastic young people who are really
+
+303
+00:13:02,360 --> 00:13:04,360
+interested in the disciplines.
+
+304
+00:13:04,360 --> 00:13:07,360
+So, that was her senior thesis.
+
+305
+00:13:07,360 --> 00:13:08,860
+Now, of course, you can't get
+
+306
+00:13:08,860 --> 00:13:10,360
+the government to pay for this.
+
+307
+00:13:10,360 --> 00:13:11,360
+Maybe you could.
+
+308
+00:13:11,360 --> 00:13:12,360
+It might be hard.
+
+309
+00:13:12,360 --> 00:13:15,360
+Because, well, the teachers' union might not like this, or
+
+310
+00:13:15,360 --> 00:13:19,360
+they might, you know, it's sort of a controversial idea.
+
+311
+00:13:19,360 --> 00:13:24,360
+Some people would say, someone who's taken a course in
+
+312
+00:13:24,360 --> 00:13:26,360
+mathematics at Yale University is
+
+313
+00:13:26,360 --> 00:13:28,360
+really not qualified to teach
+
+314
+00:13:28,360 --> 00:13:30,360
+young children, because he or
+
+315
+00:13:30,360 --> 00:13:32,360
+she didn't take the educational
+
+316
+00:13:32,360 --> 00:13:33,360
+curriculum.
+
+317
+00:13:33,360 --> 00:13:36,360
+And that's always going to be controversial.
+
+318
+00:13:36,360 --> 00:13:39,360
+But here, when we live in a society that emphasizes
+
+319
+00:13:39,360 --> 00:13:42,360
+nonprofits, you don't have to convince the government, all
+
+320
+00:13:42,360 --> 00:13:43,360
+right?
+
+321
+00:13:43,360 --> 00:13:45,360
+You convince anybody to finance
+
+322
+00:13:45,360 --> 00:13:47,360
+this, and you can do it.
+
+323
+00:13:47,360 --> 00:13:50,360
+So, right out, she was 21 years old.
+
+324
+00:13:50,360 --> 00:13:52,360
+She graduated from Princeton.
+
+325
+00:13:52,360 --> 00:13:54,860
+She raised $2.5 million in her
+
+326
+00:13:54,860 --> 00:13:57,360
+first year to set up an
+
+327
+00:13:57,360 --> 00:14:00,360
+organization called Teach for America.
+
+328
+00:14:00,360 --> 00:14:03,360
+And they, the organization is called Teach for America.
+
+329
+00:14:03,360 --> 00:14:06,360
+And she directly visited the school.
+
+330
+00:14:06,360 --> 00:14:11,360
+She merely recruited young people who had just graduated
+
+331
+00:14:11,360 --> 00:14:13,360
+college to go into teaching.
+
+332
+00:14:13,360 --> 00:14:17,360
+So, anyway, that's become her life's work in the 20-plus
+
+333
+00:14:17,360 --> 00:14:19,360
+years since.
+
+334
+00:14:19,360 --> 00:14:21,360
+She's heading what she created.
+
+335
+00:14:21,360 --> 00:14:22,860
+I like this story, because
+
+336
+00:14:22,860 --> 00:14:24,360
+some of you are writing senior
+
+337
+00:14:24,360 --> 00:14:25,360
+essays, right?
+
+338
+00:14:25,360 --> 00:14:26,860
+And you should consider it as
+
+339
+00:14:26,860 --> 00:14:28,360
+a model for some, you might
+
+340
+00:14:28,360 --> 00:14:29,860
+consider it as a model for
+
+341
+00:14:29,860 --> 00:14:31,360
+some great idea that you might have
+
+342
+00:14:31,360 --> 00:14:33,360
+that you could carry to the world.
+
+343
+00:14:33,360 --> 00:14:35,370
+to make it happen is, if
+
+344
+00:14:35,370 --> 00:14:37,380
+it's that kind of idea, you just
+
+345
+00:14:37,380 --> 00:14:39,080
+set up a nonprofit right there.
+
+346
+00:14:41,800 --> 00:14:46,880
+Actually, I wanted to give you some other examples.
+
+347
+00:14:46,880 --> 00:14:52,220
+In New Haven, we have two major hospitals.
+
+348
+00:14:52,220 --> 00:14:53,860
+Where did they come from,
+
+349
+00:14:53,860 --> 00:14:55,500
+and why do we have them?
+
+350
+00:14:55,500 --> 00:15:02,260
+Well, one of them is called Yale New Haven.
+
+351
+00:15:06,940 --> 00:15:09,240
+So, how did that get started?
+
+352
+00:15:09,240 --> 00:15:11,970
+Well, it was started by
+
+353
+00:15:11,970 --> 00:15:14,700
+a nonprofit in 1826 called the
+
+354
+00:15:14,700 --> 00:15:18,420
+General Hospital Society of Connecticut.
+
+355
+00:15:18,420 --> 00:15:21,040
+Back then, there weren't many hospitals, and so someone set
+
+356
+00:15:21,040 --> 00:15:23,110
+up a nonprofit to set up
+
+357
+00:15:23,110 --> 00:15:25,180
+a hospital, and it was then the
+
+358
+00:15:25,180 --> 00:15:25,460
+only hospital in the United States.
+
+359
+00:15:25,460 --> 00:15:25,480
+And it was the only hospital in the United States.
+
+360
+00:15:25,480 --> 00:15:25,500
+And it was the only hospital in the United States.
+
+361
+00:15:25,500 --> 00:15:26,850
+It was the only hospital
+
+362
+00:15:26,850 --> 00:15:28,200
+in the state of Connecticut, and
+
+363
+00:15:28,200 --> 00:15:31,440
+so they called it State Hospital.
+
+364
+00:15:31,440 --> 00:15:34,860
+Later, as more hospitals appeared, it didn't seem good
+
+365
+00:15:34,860 --> 00:15:38,220
+to call it State Hospital anymore, so they changed the
+
+366
+00:15:38,220 --> 00:15:41,420
+name to New Haven Hospital.
+
+367
+00:15:41,420 --> 00:15:44,800
+That was in 1884.
+
+368
+00:15:44,800 --> 00:15:50,300
+And then, in 1913, they joined with another nonprofit called
+
+369
+00:15:50,300 --> 00:15:52,420
+Yale University.
+
+370
+00:15:52,420 --> 00:15:53,950
+And then later, they changed
+
+371
+00:15:53,950 --> 00:15:55,480
+their name to Yale New Haven
+
+372
+00:15:55,480 --> 00:15:56,320
+Hospital.
+
+373
+00:15:56,320 --> 00:15:59,080
+But it's been a nonprofit all the time.
+
+374
+00:15:59,080 --> 00:16:02,360
+Now, there are for-profit hospitals, but this one was
+
+375
+00:16:02,360 --> 00:16:05,960
+always a nonprofit.
+
+376
+00:16:05,960 --> 00:16:08,400
+The other hospital that we
+
+377
+00:16:08,400 --> 00:16:10,840
+have in New Haven is St.
+
+378
+00:16:10,840 --> 00:16:15,800
+Raphael's, and that's newer.
+
+379
+00:16:15,800 --> 00:16:19,110
+It was created in 1907, and
+
+380
+00:16:19,110 --> 00:16:22,420
+the story is that a group of
+
+381
+00:16:22,420 --> 00:16:23,940
+physicians from the New Haven
+
+382
+00:16:23,940 --> 00:16:25,460
+area thought we needed a second
+
+383
+00:16:25,460 --> 00:16:27,180
+hospital.
+
+384
+00:16:27,180 --> 00:16:32,740
+And they went to Sisters of
+
+385
+00:16:32,740 --> 00:16:38,300
+Charity, which is a nunnery, I
+
+386
+00:16:38,300 --> 00:16:45,640
+suppose, and worked with them to create a second hospital.
+
+387
+00:16:45,640 --> 00:16:48,570
+And they chose the name
+
+388
+00:16:48,570 --> 00:16:51,500
+Raphael after an archangel recognized
+
+389
+00:16:51,500 --> 00:16:55,420
+by many faiths, which means God has healed.
+
+390
+00:16:55,420 --> 00:17:00,040
+Now, why, it's interesting to think about this hospital.
+
+391
+00:17:00,040 --> 00:17:04,099
+So, whose idea was it, and how did it happen?
+
+392
+00:17:04,099 --> 00:17:07,599
+Well, apparently, the idea wasn't from the Sisters of
+
+393
+00:17:07,599 --> 00:17:12,139
+Charity, it was from physicians who were in New Haven.
+
+394
+00:17:12,139 --> 00:17:14,720
+So, why did they go to the Sisters of Charity?
+
+395
+00:17:14,720 --> 00:17:17,540
+Why didn't they just set up a for-profit hospital?
+
+396
+00:17:17,540 --> 00:17:20,720
+They could have bypassed them completely.
+
+397
+00:17:20,720 --> 00:17:21,720
+What's the link?
+
+398
+00:17:21,720 --> 00:17:23,480
+Well, I think that, I don't
+
+399
+00:17:23,480 --> 00:17:25,240
+know all of their reasons, but I'm
+
+400
+00:17:25,240 --> 00:17:27,440
+suspecting the reasons are, is
+
+401
+00:17:27,440 --> 00:17:29,640
+that when you affiliate with a
+
+402
+00:17:29,640 --> 00:17:35,140
+religious organization, it gives a sense of moral mission
+
+403
+00:17:35,140 --> 00:17:38,600
+and social purpose to the organization that it wouldn't
+
+404
+00:17:38,600 --> 00:17:40,140
+have otherwise.
+
+405
+00:17:40,140 --> 00:17:43,680
+And it makes it very clear that it's non-profit, and
+
+406
+00:17:43,680 --> 00:17:45,000
+encourages people to donate.
+
+407
+00:17:47,940 --> 00:17:50,090
+So, I think that this same
+
+408
+00:17:50,090 --> 00:17:52,240
+idea has dawned on many people.
+
+409
+00:17:52,240 --> 00:17:53,610
+The people who see a
+
+410
+00:17:53,610 --> 00:17:54,980
+need for a new hospital are
+
+411
+00:17:54,980 --> 00:18:03,380
+probably not leaders of churches, but they see a common
+
+412
+00:18:03,380 --> 00:18:09,960
+interest in pursuing hospitals.
+
+413
+00:18:09,960 --> 00:18:14,140
+So, there have been many studies about for-profit versus
+
+414
+00:18:14,140 --> 00:18:19,420
+non-profit hospitals, and who gives the better care.
+
+415
+00:18:19,420 --> 00:18:22,010
+I think that the studies are
+
+416
+00:18:22,010 --> 00:18:24,600
+generally inconclusive, because even people who are
+
+417
+00:18:24,980 --> 00:18:30,220
+donating for-profit hospitals have a social mission as well.
+
+418
+00:18:30,220 --> 00:18:31,220
+They have morals.
+
+419
+00:18:31,220 --> 00:18:33,340
+It's not just churches.
+
+420
+00:18:33,340 --> 00:18:36,200
+People outside of churches have morals as well.
+
+421
+00:18:36,200 --> 00:18:41,390
+And so, the actual distinction between
+
+422
+00:18:41,390 --> 00:18:46,580
+for-profit and non-profit is often somewhat ambiguous.
+
+423
+00:18:46,580 --> 00:18:50,920
+So let me now move on to the
+
+424
+00:18:50,920 --> 00:18:51,920
+over-the-counter.
+
+425
+00:18:51,920 --> 00:18:52,920
+I'm sorry.
+
+426
+00:18:52,920 --> 00:18:53,920
+I'm sorry.
+
+427
+00:18:53,920 --> 00:18:54,920
+I'm sorry.
+
+428
+00:18:54,920 --> 00:18:55,920
+I'm sorry.
+
+429
+00:18:55,920 --> 00:19:00,650
+Well, let me move on to the second point
+
+430
+00:19:00,650 --> 00:19:05,380
+that I said I was going to talk about, which
+
+431
+00:19:05,380 --> 00:19:09,300
+is government involvement in for-profits.
+
+432
+00:19:09,300 --> 00:19:14,230
+So, governments exert control
+
+433
+00:19:14,230 --> 00:19:19,160
+over both non-profits and for-profits.
+
+434
+00:19:19,160 --> 00:19:23,160
+And it's often hard to understand that.
+
+435
+00:19:24,160 --> 00:19:28,840
+difficult distinction between a government activity and a
+
+436
+00:19:28,840 --> 00:19:32,600
+private activity, because of the regulation that
+
+437
+00:19:32,600 --> 00:19:38,820
+governments impose over companies and the
+
+438
+00:19:38,820 --> 00:19:40,280
+taxes they collect.
+
+439
+00:19:42,340 --> 00:19:44,700
+So, let me first make
+
+440
+00:19:44,700 --> 00:19:47,060
+it clear that virtually every country
+
+441
+00:19:47,060 --> 00:19:52,220
+of the world has a substantial corporate profits tax.
+
+442
+00:19:52,220 --> 00:19:56,580
+And in that sense, governments are co-owners of
+
+443
+00:19:56,580 --> 00:19:58,400
+corporations, private.
+
+444
+00:19:58,400 --> 00:20:02,990
+So, the corporate profits tax
+
+445
+00:20:02,990 --> 00:20:07,580
+is, in effect, a sort of
+
+446
+00:20:07,580 --> 00:20:10,400
+partial nationalization of all the private
+
+447
+00:20:10,400 --> 00:20:12,460
+companies in the country.
+
+448
+00:20:12,460 --> 00:20:16,120
+So, in the U.S., it currently
+
+449
+00:20:16,120 --> 00:20:19,780
+stands at 35% federal and up
+
+450
+00:20:19,780 --> 00:20:21,980
+to 12% private.
+
+451
+00:20:21,980 --> 00:20:22,220
+So, that's the U.S.
+
+452
+00:20:22,220 --> 00:20:25,680
+state and local, depending on the state.
+
+453
+00:20:25,680 --> 00:20:27,900
+So, it's as high as 47%.
+
+454
+00:20:27,900 --> 00:20:29,680
+It's basically half.
+
+455
+00:20:29,680 --> 00:20:31,060
+So, you could say that the U.S.
+
+456
+00:20:31,060 --> 00:20:35,600
+government has nationalized close to half of the private
+
+457
+00:20:35,600 --> 00:20:36,340
+sector.
+
+458
+00:20:36,340 --> 00:20:39,100
+The government is collecting from their profits, as if they
+
+459
+00:20:39,100 --> 00:20:40,300
+were a shareholder.
+
+460
+00:20:42,740 --> 00:20:43,900
+This is state and local.
+
+461
+00:20:46,480 --> 00:20:49,880
+But it's the same in other countries, or similar.
+
+462
+00:20:49,880 --> 00:20:50,340
+Canada.
+
+463
+00:20:52,220 --> 00:21:02,840
+The Ottawa collects 16.5%, and the provinces up to 16%.
+
+464
+00:21:02,840 --> 00:21:05,480
+A little bit lower than the U.S.
+
+465
+00:21:05,480 --> 00:21:16,480
+Japan, the national government has a 40.6% profit tax.
+
+466
+00:21:16,480 --> 00:21:20,380
+Brazil, 34%.
+
+467
+00:21:20,380 --> 00:21:21,380
+So, that's the U.S. state.
+
+468
+00:21:21,380 --> 00:21:21,500
+So, that's the U.S. state.
+
+469
+00:21:21,500 --> 00:21:21,520
+So, that's the U.S. state.
+
+470
+00:21:21,520 --> 00:21:21,580
+So, that's the U.S. state.
+
+471
+00:21:21,580 --> 00:21:21,640
+So, that's the U.S. state.
+
+472
+00:21:21,640 --> 00:21:21,680
+So, that's the U.S. state.
+
+473
+00:21:21,680 --> 00:21:22,680
+So, that's the U.S. state.
+
+474
+00:21:22,680 --> 00:21:22,740
+So, that's the U.S. state.
+
+475
+00:21:22,740 --> 00:21:22,780
+So, that's the U.S. state.
+
+476
+00:21:22,780 --> 00:21:22,820
+So, that's the U.S. state.
+
+477
+00:21:22,820 --> 00:21:25,280
+You might think that under the Lula government, well, the
+
+478
+00:21:25,280 --> 00:21:30,860
+recent Lula government, they would be more left wing and
+
+479
+00:21:30,860 --> 00:21:33,800
+would have a higher profits tax, but they don't.
+
+480
+00:21:33,800 --> 00:21:37,860
+It's about the same.
+
+481
+00:21:37,860 --> 00:21:44,120
+China is 25%.
+
+482
+00:21:44,120 --> 00:21:49,960
+India is 33%.
+
+483
+00:21:49,960 --> 00:21:50,980
+And I could go on and on.
+
+484
+00:21:50,980 --> 00:21:51,040
+There's a lot of different countries.
+
+485
+00:21:51,040 --> 00:21:51,080
+So, that's the U.S. state.
+
+486
+00:21:51,080 --> 00:21:51,100
+So, that's the U.S. state.
+
+487
+00:21:51,100 --> 00:21:52,100
+So, that's the U.S. state.
+
+488
+00:21:52,100 --> 00:21:52,139
+So, that's the U.S. state.
+
+489
+00:21:52,139 --> 00:21:52,199
+So, that's the U.S. state.
+
+490
+00:21:52,199 --> 00:21:52,340
+So, that's the U.S. state.
+
+491
+00:21:52,340 --> 00:21:52,399
+So, that's the U.S. state.
+
+492
+00:21:52,399 --> 00:21:52,439
+So, that's the U.S. state.
+
+493
+00:21:52,439 --> 00:21:52,500
+So, that's the U.S. state.
+
+494
+00:21:52,500 --> 00:21:55,840
+There's almost no country that doesn't have it.
+
+495
+00:21:55,840 --> 00:21:59,139
+So, in that sense, everything is part of the government.
+
+496
+00:21:59,139 --> 00:22:00,749
+It's about the same all over
+
+497
+00:22:00,749 --> 00:22:02,360
+the world, and that's because I
+
+498
+00:22:02,360 --> 00:22:04,000
+think there's a reason for that.
+
+499
+00:22:04,000 --> 00:22:08,650
+Because if you charge too
+
+500
+00:22:08,650 --> 00:22:13,300
+high a profits tax, then business
+
+501
+00:22:13,300 --> 00:22:14,540
+will leave your country.
+
+502
+00:22:17,659 --> 00:22:20,000
+Why do we charge a profits tax?
+
+503
+00:22:20,000 --> 00:22:20,540
+Well, I think the corporate
+
+504
+00:22:20,540 --> 00:22:21,080
+value is that it's a very
+
+505
+00:22:21,100 --> 00:22:22,100
+important thing.
+
+506
+00:22:22,100 --> 00:22:27,100
+And the profits tax is justified by recognizing that
+
+507
+00:22:27,100 --> 00:22:30,040
+this thing about for-profit or private always has its
+
+508
+00:22:30,040 --> 00:22:31,340
+limitations.
+
+509
+00:22:31,340 --> 00:22:35,500
+And anything that's private is not completely isolated from
+
+510
+00:22:35,500 --> 00:22:38,199
+other interests or activities.
+
+511
+00:22:38,199 --> 00:22:42,199
+So, I thought it would be
+
+512
+00:22:42,199 --> 00:22:46,199
+useful to think of one example.
+
+513
+00:22:46,199 --> 00:22:50,000
+There's a company called TEPCO.
+
+514
+00:22:50,000 --> 00:22:51,100
+You've heard of this company?
+
+515
+00:22:51,100 --> 00:22:53,100
+I don't expect that you would.
+
+516
+00:22:53,100 --> 00:22:58,000
+It's the fourth largest electric power company in the
+
+517
+00:22:58,000 --> 00:23:00,800
+world, and it's traded in the U.S.
+
+518
+00:23:00,800 --> 00:23:03,450
+And you may own shares in
+
+519
+00:23:03,450 --> 00:23:06,100
+it and not know it, because it's
+
+520
+00:23:06,100 --> 00:23:08,040
+such a big and important company.
+
+521
+00:23:08,040 --> 00:23:09,670
+Or at least your parents, good
+
+522
+00:23:09,670 --> 00:23:11,300
+chance that they own shares in
+
+523
+00:23:11,300 --> 00:23:15,439
+it, because they probably own some diversified portfolio in
+
+524
+00:23:15,439 --> 00:23:16,969
+their pension plan, or maybe they
+
+525
+00:23:16,969 --> 00:23:18,500
+even have it set up in a
+
+526
+00:23:18,500 --> 00:23:19,580
+trust for you already.
+
+527
+00:23:19,580 --> 00:23:20,100
+So, don't worry about it.
+
+528
+00:23:20,100 --> 00:23:20,540
+It's a very important company.
+
+529
+00:23:20,540 --> 00:23:21,080
+It's a very important company.
+
+530
+00:23:21,100 --> 00:23:23,600
+I don't want to judge TEPCO too harshly.
+
+531
+00:23:23,600 --> 00:23:23,860
+All right.
+
+532
+00:23:23,860 --> 00:23:25,680
+But let me just tell
+
+533
+00:23:25,680 --> 00:23:27,500
+you about your investment in TEPCO.
+
+534
+00:23:27,500 --> 00:23:30,919
+Guess what country it's in?
+
+535
+00:23:30,919 --> 00:23:32,699
+You got it.
+
+536
+00:23:32,699 --> 00:23:35,780
+So, somebody know.
+
+537
+00:23:35,780 --> 00:23:38,800
+Why would that matter right now?
+
+538
+00:23:38,800 --> 00:23:41,500
+Big electric power company in Japan?
+
+539
+00:23:41,500 --> 00:23:42,860
+That's not a great investment.
+
+540
+00:23:42,860 --> 00:23:43,740
+Yeah?
+
+541
+00:23:43,740 --> 00:23:46,139
+They own the power plant.
+
+542
+00:23:46,139 --> 00:23:46,600
+That's right.
+
+543
+00:23:46,600 --> 00:23:50,540
+They own, particularly, the Fukushima power plant.
+
+544
+00:23:50,540 --> 00:23:52,040
+And they own the power plant.
+
+545
+00:23:52,040 --> 00:23:53,910
+So, I checked out this morning
+
+546
+00:23:53,910 --> 00:23:55,780
+what the share price is going
+
+547
+00:23:55,780 --> 00:23:57,980
+for in TEPCO.
+
+548
+00:23:57,980 --> 00:24:01,510
+So, it was, as of a
+
+549
+00:24:01,510 --> 00:24:05,040
+month or so ago, $25 a share.
+
+550
+00:24:05,040 --> 00:24:07,300
+And it's down to $5 a share.
+
+551
+00:24:07,300 --> 00:24:08,899
+It just went, phoom!
+
+552
+00:24:08,899 --> 00:24:10,780
+And you know exactly why.
+
+553
+00:24:10,780 --> 00:24:12,040
+So, I looked this further.
+
+554
+00:24:12,040 --> 00:24:17,060
+J.P. Morgan estimates now that claims against TEPCO will be
+
+555
+00:24:17,060 --> 00:24:19,379
+$25 billion, or a couple trillion yen.
+
+556
+00:24:20,540 --> 00:24:21,540
+But that's not all.
+
+557
+00:24:21,540 --> 00:24:23,220
+They're also damaged, right?
+
+558
+00:24:23,220 --> 00:24:24,980
+Everything's in ruins.
+
+559
+00:24:24,980 --> 00:24:30,020
+So, some people are predicting that TEPCO will go bankrupt.
+
+560
+00:24:30,020 --> 00:24:30,820
+All right?
+
+561
+00:24:30,820 --> 00:24:34,320
+So, they've done all this, they've created this whole mess
+
+562
+00:24:34,320 --> 00:24:37,379
+in Japan, and they're just going to go bankrupt.
+
+563
+00:24:37,379 --> 00:24:40,080
+And we have limited liability, right?
+
+564
+00:24:40,080 --> 00:24:41,800
+They're not going to come after you, right?
+
+565
+00:24:41,800 --> 00:24:46,080
+The Japanese government could do diligence and find out that
+
+566
+00:24:46,080 --> 00:24:48,260
+you own shares in TEPCO.
+
+567
+00:24:48,260 --> 00:24:50,020
+And TEPCO was negligent, right?
+
+568
+00:24:50,020 --> 00:24:50,379
+Right?
+
+569
+00:24:50,380 --> 00:24:51,380
+They messed up.
+
+570
+00:24:51,380 --> 00:24:55,760
+They didn't do their safety procedures well enough.
+
+571
+00:24:55,760 --> 00:24:57,700
+But they'll never go after you.
+
+572
+00:24:57,700 --> 00:25:01,620
+I mean, this is the whole idea of limited liability.
+
+573
+00:25:01,620 --> 00:25:03,840
+So many people all over the
+
+574
+00:25:03,840 --> 00:25:06,060
+world are owning shares, and we
+
+575
+00:25:06,060 --> 00:25:09,320
+can't expect them to be responsible for it.
+
+576
+00:25:09,320 --> 00:25:11,190
+You can't inspect the Fukushima
+
+577
+00:25:11,190 --> 00:25:13,060
+plant, even though you may be
+
+578
+00:25:13,060 --> 00:25:16,140
+a beneficiary of its profits.
+
+579
+00:25:16,140 --> 00:25:18,660
+So, that's why they collect the money.
+
+580
+00:25:18,660 --> 00:25:19,860
+They collect the money.
+
+581
+00:25:19,860 --> 00:25:21,860
+And they collect the corporate profits.
+
+582
+00:25:21,860 --> 00:25:25,860
+So, Japan is collecting 40% corporate profits tax, and that
+
+583
+00:25:25,860 --> 00:25:30,100
+can be used to offset the damages that the Japanese
+
+584
+00:25:30,100 --> 00:25:31,860
+government now has to pay for.
+
+585
+00:25:31,860 --> 00:25:32,979
+So, it all seems right.
+
+586
+00:25:32,979 --> 00:25:34,620
+There's a plan here.
+
+587
+00:25:34,620 --> 00:25:38,860
+So, you wonder, is TEPCO private or not?
+
+588
+00:25:38,860 --> 00:25:40,860
+Well, it is private, in the sense that there are
+
+589
+00:25:40,860 --> 00:25:43,979
+shareholders and there are profiters, but it's regulated
+
+590
+00:25:43,979 --> 00:25:45,819
+by Japan, it's taxed by
+
+591
+00:25:45,819 --> 00:25:47,659
+Japan, and Japan pays for their
+
+592
+00:25:47,659 --> 00:25:47,860
+mistakes.
+
+593
+00:25:47,860 --> 00:25:48,860
+So, that's TEPCO.
+
+594
+00:25:48,860 --> 00:25:49,100
+Thank you.
+
+595
+00:25:49,100 --> 00:25:50,340
+That's typical.
+
+596
+00:25:54,939 --> 00:26:03,219
+So, I'll give you another example from this country.
+
+597
+00:26:03,219 --> 00:26:06,820
+General Motors, okay?
+
+598
+00:26:06,820 --> 00:26:10,939
+General Motors was the biggest car company in the United
+
+599
+00:26:10,939 --> 00:26:17,320
+States, and then it had a little problem during the
+
+600
+00:26:17,320 --> 00:26:18,219
+financial crisis.
+
+601
+00:26:18,219 --> 00:26:19,100
+And it had a problem.
+
+602
+00:26:19,100 --> 00:26:23,219
+And it had to file for Chapter 11 bankruptcy.
+
+603
+00:26:27,540 --> 00:26:29,619
+Now, you know, what am I
+
+604
+00:26:29,619 --> 00:26:31,699
+referring to when I say Chapter
+
+605
+00:26:32,419 --> 00:26:35,780
+The Bankruptcy Act has chapters, okay?
+
+606
+00:26:35,780 --> 00:26:38,060
+And each chapter says something different.
+
+607
+00:26:38,060 --> 00:26:41,219
+The two most important chapters
+
+608
+00:26:41,219 --> 00:26:44,379
+for companies is Chapter 7 and
+
+609
+00:26:44,379 --> 00:26:45,179
+Chapter 11.
+
+610
+00:26:45,179 --> 00:26:47,740
+Okay?
+
+611
+00:26:47,740 --> 00:26:48,339
+And what the bankruptcy law says
+
+612
+00:26:48,339 --> 00:26:48,939
+is, it says, it's not a good
+
+613
+00:26:48,940 --> 00:26:49,620
+idea.
+
+614
+00:26:49,620 --> 00:26:50,700
+It's not a good idea.
+
+615
+00:26:50,700 --> 00:26:51,620
+It's not a good idea.
+
+616
+00:26:51,620 --> 00:26:52,500
+It's a bad idea.
+
+617
+00:26:52,500 --> 00:26:53,400
+And what the bankruptcy law
+
+618
+00:26:53,400 --> 00:26:54,300
+does is, it creates a framework
+
+619
+00:26:54,300 --> 00:26:57,380
+for dealing with insolvency.
+
+620
+00:26:57,380 --> 00:27:00,380
+And the framework says that a
+
+621
+00:27:00,380 --> 00:27:03,380
+company that is in trouble can
+
+622
+00:27:03,380 --> 00:27:07,320
+choose to apply for bankruptcy.
+
+623
+00:27:07,320 --> 00:27:10,380
+And there's basically two important ways to do that.
+
+624
+00:27:10,380 --> 00:27:12,880
+Chapter 7 details one way
+
+625
+00:27:12,880 --> 00:27:15,380
+you can apply for bankruptcy, and
+
+626
+00:27:15,380 --> 00:27:17,380
+Chapter 11 details another way.
+
+627
+00:27:17,380 --> 00:27:17,620
+Okay?
+
+628
+00:27:17,620 --> 00:27:20,300
+Chapter 7 is liquidation.
+
+629
+00:27:20,300 --> 00:27:24,300
+That means that the company
+
+630
+00:27:24,300 --> 00:27:28,300
+is in such trouble that we're
+
+631
+00:27:28,300 --> 00:27:30,300
+going to shut it down
+
+632
+00:27:30,300 --> 00:27:32,300
+and sell off all the assets.
+
+633
+00:27:32,300 --> 00:27:34,900
+Chapter 11 is for a
+
+634
+00:27:34,900 --> 00:27:37,500
+company that is in trouble, but
+
+635
+00:27:37,500 --> 00:27:40,620
+there's something worth salvaging in terms of operating,
+
+636
+00:27:40,620 --> 00:27:42,300
+continuing the business.
+
+637
+00:27:42,300 --> 00:27:45,300
+So, that's what GM chose to do.
+
+638
+00:27:45,300 --> 00:27:46,300
+That's what they did.
+
+639
+00:27:46,300 --> 00:27:46,379
+Okay?
+
+640
+00:27:46,379 --> 00:27:46,739
+Thank you.
+
+641
+00:27:46,739 --> 00:27:47,020
+Thank you.
+
+642
+00:27:47,020 --> 00:27:47,100
+Thank you.
+
+643
+00:27:47,100 --> 00:27:47,260
+Thank you.
+
+644
+00:27:47,260 --> 00:27:47,340
+Thank you.
+
+645
+00:27:47,340 --> 00:27:47,580
+Thank you.
+
+646
+00:27:47,580 --> 00:27:47,600
+Thank you.
+
+647
+00:27:47,620 --> 00:27:47,699
+Thank you.
+
+648
+00:27:47,699 --> 00:27:47,760
+Okay.
+
+649
+00:27:47,760 --> 00:27:47,919
+Thank you.
+
+650
+00:27:47,919 --> 00:27:48,199
+Thank you.
+
+651
+00:27:48,199 --> 00:27:48,439
+Thank you.
+
+652
+00:27:48,439 --> 00:27:50,040
+Thank you.
+
+653
+00:27:50,040 --> 00:27:50,260
+All right.
+
+654
+00:27:50,260 --> 00:27:54,360
+So, we're going to close Chapter 11 bankruptcy.
+
+655
+00:27:54,360 --> 00:27:58,459
+They thought, obviously, we're making cars for now close to
+
+656
+00:27:58,459 --> 00:27:59,540
+100 years.
+
+657
+00:27:59,540 --> 00:28:02,540
+Well, at least the companies
+
+658
+00:28:02,540 --> 00:28:05,540
+that went together to form GM.
+
+659
+00:28:05,540 --> 00:28:07,860
+And we have a big future.
+
+660
+00:28:07,860 --> 00:28:11,110
+So, we can't pay our
+
+661
+00:28:11,110 --> 00:28:14,360
+bills now, but we should continue.
+
+662
+00:28:14,360 --> 00:28:17,580
+So, they filed for Chapter 11 bankruptcy.
+
+663
+00:28:17,580 --> 00:28:24,820
+government and the Canadian government invested in GM.
+
+664
+00:28:24,820 --> 00:28:31,480
+What happened was, General Motors, they changed the name
+
+665
+00:28:31,480 --> 00:28:32,699
+in the most subtle way.
+
+666
+00:28:32,699 --> 00:28:35,639
+The official name of the company was General Motors
+
+667
+00:28:35,639 --> 00:28:36,879
+Corporation.
+
+668
+00:28:36,879 --> 00:28:39,280
+Okay?
+
+669
+00:28:39,280 --> 00:28:43,340
+When they filed for Chapter 11 bankruptcy, the shareholders
+
+670
+00:28:43,340 --> 00:28:45,520
+were wiped out.
+
+671
+00:28:45,520 --> 00:28:47,760
+Nobody got executed.
+
+672
+00:28:47,760 --> 00:28:49,860
+You lost all your money.
+
+673
+00:28:49,860 --> 00:28:51,390
+And so, if you find
+
+674
+00:28:51,390 --> 00:28:52,920
+in your attic some nice, beautiful
+
+675
+00:28:52,920 --> 00:28:56,720
+share certificates for General Motors Corporation, you can
+
+676
+00:28:56,720 --> 00:28:59,180
+just use them as wallpaper or whatever.
+
+677
+00:28:59,180 --> 00:29:00,560
+They're worthless.
+
+678
+00:29:00,560 --> 00:29:04,200
+But if it's different, if it says General Motors Company,
+
+679
+00:29:04,200 --> 00:29:05,919
+because that refers to the new
+
+680
+00:29:05,919 --> 00:29:07,639
+GM, they wanted to change the
+
+681
+00:29:07,639 --> 00:29:09,620
+name, but they didn't really want to change the name.
+
+682
+00:29:09,620 --> 00:29:11,300
+They had to change the name, so that people wouldn't
+
+683
+00:29:11,300 --> 00:29:13,000
+confuse the two.
+
+684
+00:29:13,000 --> 00:29:14,000
+So what happened?
+
+685
+00:29:14,000 --> 00:29:15,000
+How did we get a new GM?
+
+686
+00:29:15,000 --> 00:29:15,500
+Well, it's a good question.
+
+687
+00:29:15,500 --> 00:29:19,360
+Well, the new GM was owned by the U.S. government.
+
+688
+00:29:25,440 --> 00:29:38,940
+It was equal to 60.8% U.S. Canada owned 12%.
+
+689
+00:29:42,140 --> 00:29:44,980
+The UAW, United Auto Workers.
+
+690
+00:29:44,980 --> 00:29:45,980
+Got 17.5%.
+
+691
+00:29:45,980 --> 00:29:50,450
+Why did the union, by
+
+692
+00:29:50,450 --> 00:29:54,920
+the way, get 17% of GM?
+
+693
+00:29:54,920 --> 00:29:56,050
+Well, I don't know the whole
+
+694
+00:29:56,050 --> 00:29:57,180
+story, but I'm sure it has
+
+695
+00:29:57,180 --> 00:30:00,780
+something to do with GM's obligations.
+
+696
+00:30:00,780 --> 00:30:04,280
+Maybe they failed on something.
+
+697
+00:30:04,280 --> 00:30:05,720
+I don't know the details.
+
+698
+00:30:05,720 --> 00:30:07,880
+But it seemed in the
+
+699
+00:30:07,880 --> 00:30:10,040
+bankruptcy proceedings that the implicit
+
+700
+00:30:10,040 --> 00:30:12,920
+debts that the company owed to their workers would be
+
+701
+00:30:12,920 --> 00:30:14,920
+represented.
+
+702
+00:30:14,920 --> 00:30:18,890
+And the company was represented
+
+703
+00:30:18,890 --> 00:30:22,860
+by a share in the company.
+
+704
+00:30:22,860 --> 00:30:24,860
+And then the rest went
+
+705
+00:30:24,860 --> 00:30:26,860
+to the bondholders, people who own
+
+706
+00:30:26,860 --> 00:30:29,360
+debt, not equity, who own debt
+
+707
+00:30:29,360 --> 00:30:31,860
+in GM, got the remaining share.
+
+708
+00:30:31,860 --> 00:30:33,510
+And they also got warrants,
+
+709
+00:30:33,510 --> 00:30:35,160
+which are options to buy more
+
+710
+00:30:35,160 --> 00:30:37,070
+shares, which will dilute down
+
+711
+00:30:37,070 --> 00:30:38,980
+the U.S. and Canada and UAW
+
+712
+00:30:38,980 --> 00:30:39,980
+shares.
+
+713
+00:30:39,980 --> 00:30:41,560
+So, that's the settlement.
+
+714
+00:30:41,560 --> 00:30:43,210
+The result of the settlement
+
+715
+00:30:43,210 --> 00:30:44,860
+was that it was a government-owned
+
+716
+00:30:44,860 --> 00:30:46,860
+organization.
+
+717
+00:30:46,860 --> 00:30:51,620
+Now, they've just done an IPO, so they're reversing this
+
+718
+00:30:51,620 --> 00:30:52,620
+ownership structure.
+
+719
+00:30:52,620 --> 00:30:54,620
+But the point is that companies
+
+720
+00:30:54,620 --> 00:30:56,620
+that look private may end up
+
+721
+00:30:56,620 --> 00:31:01,699
+government eventually, one time or another.
+
+722
+00:31:01,699 --> 00:31:08,199
+And so, companies have to kind
+
+723
+00:31:08,199 --> 00:31:14,699
+of think of themselves as a
+
+724
+00:31:14,860 --> 00:31:15,860
+government.
+
+725
+00:31:15,860 --> 00:31:16,860
+And that's the problem.
+
+726
+00:31:16,860 --> 00:31:21,860
+Because even in the arch-capitalist country, like
+
+727
+00:31:21,860 --> 00:31:25,860
+the United States, there's partly government
+
+728
+00:31:25,860 --> 00:31:28,860
+organizations.
+
+729
+00:31:28,860 --> 00:31:30,860
+By the way, there's
+
+730
+00:31:30,860 --> 00:31:32,860
+something else called personal bankruptcy.
+
+731
+00:31:32,860 --> 00:31:40,860
+And personal bankruptcy is another involvement of the
+
+732
+00:31:40,860 --> 00:31:44,860
+government in risk management.
+
+733
+00:31:44,860 --> 00:31:47,360
+So, you can choose to
+
+734
+00:31:47,360 --> 00:31:49,860
+declare bankruptcy, and you can choose
+
+735
+00:31:49,860 --> 00:31:52,360
+these chapters, or you can
+
+736
+00:31:52,360 --> 00:31:54,860
+do these other provisions as well.
+
+737
+00:31:54,860 --> 00:31:57,360
+But you can use Chapter 7
+
+738
+00:31:57,360 --> 00:31:59,860
+to wipe out all of your debts.
+
+739
+00:31:59,860 --> 00:32:02,860
+The new bankruptcy law that
+
+740
+00:32:02,860 --> 00:32:05,860
+Congress passed a few years ago
+
+741
+00:32:05,860 --> 00:32:08,360
+attempts to limit your ability
+
+742
+00:32:08,360 --> 00:32:10,860
+to do that, but within limits.
+
+743
+00:32:10,860 --> 00:32:12,860
+The same government is kind of a shareholder.
+
+744
+00:32:12,860 --> 00:32:19,860
+It's a shareholder, just as individuals are.
+
+745
+00:32:19,860 --> 00:32:24,860
+So, I mean, the shareholder and individual's lifetime
+
+746
+00:32:24,860 --> 00:32:27,860
+incomes.
+
+747
+00:32:27,860 --> 00:32:30,360
+I guess what I'm saying is
+
+748
+00:32:30,360 --> 00:32:32,860
+that the whole idea of public versus
+
+749
+00:32:32,860 --> 00:32:35,860
+private is a complicated one.
+
+750
+00:32:35,860 --> 00:32:37,860
+And what seems public at
+
+751
+00:32:37,860 --> 00:32:39,860
+one time will seem private at
+
+752
+00:32:39,860 --> 00:32:42,860
+another.
+
+753
+00:32:42,860 --> 00:32:47,860
+But the behavior of nonprofits is not strikingly different
+
+754
+00:32:47,860 --> 00:32:49,860
+than the behavior of profits.
+
+755
+00:32:53,860 --> 00:32:58,860
+So, I found a statistic
+
+756
+00:32:58,860 --> 00:33:03,860
+that 42% of nonprofits pay bonuses
+
+757
+00:33:03,860 --> 00:33:06,860
+to their executives.
+
+758
+00:33:06,860 --> 00:33:08,860
+That is, they're using the
+
+759
+00:33:08,860 --> 00:33:10,860
+same kind of incentive plans that
+
+760
+00:33:10,860 --> 00:33:12,860
+private corporations do.
+
+761
+00:33:12,860 --> 00:33:15,860
+Well, they do that because they have to hire people.
+
+762
+00:33:15,860 --> 00:33:19,860
+And people in the for-profit sector are getting bonuses.
+
+763
+00:33:19,860 --> 00:33:21,360
+So, how do you hire someone
+
+764
+00:33:21,360 --> 00:33:22,860
+and get someone good, unless you
+
+765
+00:33:22,860 --> 00:33:27,860
+pay the bonus as well?
+
+766
+00:33:27,860 --> 00:33:30,360
+The government faces a big
+
+767
+00:33:30,360 --> 00:33:32,860
+problem in that the public is
+
+768
+00:33:32,860 --> 00:33:35,860
+very sensitive to paying high salaries to government
+
+769
+00:33:35,860 --> 00:33:38,860
+employees, because they think it's unfair.
+
+770
+00:33:38,860 --> 00:33:41,860
+Why should some government bureaucrat be paid more than I
+
+771
+00:33:41,860 --> 00:33:42,860
+get?
+
+772
+00:33:42,860 --> 00:33:44,860
+Because they're not going to pay the money.
+
+773
+00:33:44,860 --> 00:33:48,860
+As a result, they have trouble hiring good people.
+
+774
+00:33:48,860 --> 00:33:52,860
+But in the nonprofit sector, the nonprofit sector is not
+
+775
+00:33:52,860 --> 00:33:56,860
+constrained, well, they have some constraints over, they're
+
+776
+00:33:56,860 --> 00:33:59,860
+regulated to prevent them from stealing the money.
+
+777
+00:33:59,860 --> 00:34:02,860
+But I think part of the
+
+778
+00:34:02,860 --> 00:34:05,860
+idea of having nonprofits, this is a
+
+779
+00:34:05,860 --> 00:34:10,859
+general point, is that the government is kind of confined
+
+780
+00:34:10,860 --> 00:34:32,620
+to the
+
+781
+00:34:32,620 --> 00:34:33,860
+government.
+
+782
+00:34:33,860 --> 00:34:35,360
+And they can do things
+
+783
+00:34:35,360 --> 00:34:36,860
+that are just generally acknowledged by
+
+784
+00:34:36,860 --> 00:34:39,860
+the average person as a good thing.
+
+785
+00:34:39,860 --> 00:34:43,860
+And that's why some of our biggest progress is made.
+
+786
+00:34:43,860 --> 00:34:47,860
+So, I gave the example of Charles Darwin and his
+
+787
+00:34:47,860 --> 00:34:56,860
+professor, who advocated his voyage around the world.
+
+788
+00:34:56,860 --> 00:34:58,360
+The professor, I'm trying to
+
+789
+00:34:58,360 --> 00:34:59,860
+see what his name, Henslow, I
+
+790
+00:34:59,860 --> 00:35:04,860
+think it was, was actually a John Stevens Henslow, a
+
+791
+00:35:04,860 --> 00:35:09,620
+botanist, but also an advocate of natural theology.
+
+792
+00:35:09,620 --> 00:35:11,620
+And he sent Darwin out on
+
+793
+00:35:11,620 --> 00:35:13,620
+this voyage, because he thought that
+
+794
+00:35:13,620 --> 00:35:17,620
+studying nature enabled you to discover God.
+
+795
+00:35:17,620 --> 00:35:19,620
+Little did he know, Darwin
+
+796
+00:35:19,620 --> 00:35:21,620
+would end up an atheist after
+
+797
+00:35:21,620 --> 00:35:23,620
+his voyage.
+
+798
+00:35:23,620 --> 00:35:26,620
+But it's this kind of weird stuff that gets financed.
+
+799
+00:35:26,620 --> 00:35:28,620
+Or Wendy Kopp, I gave
+
+800
+00:35:28,620 --> 00:35:30,620
+another example, whose ideas were too
+
+801
+00:35:30,620 --> 00:35:31,620
+controversial.
+
+802
+00:35:31,620 --> 00:35:33,120
+I mean, the idea of sending
+
+803
+00:35:33,120 --> 00:35:34,620
+someone out who didn't have an
+
+804
+00:35:34,620 --> 00:35:38,620
+education diploma to teach.
+
+805
+00:35:38,620 --> 00:35:39,620
+Too controversial.
+
+806
+00:35:51,620 --> 00:35:53,620
+So, I think that there
+
+807
+00:35:53,620 --> 00:35:55,620
+is maybe a growing recognition of
+
+808
+00:35:55,620 --> 00:35:57,620
+the importance of having people
+
+809
+00:35:57,620 --> 00:35:59,620
+who are, well, there's a term,
+
+810
+00:35:59,620 --> 00:36:02,620
+social entrepreneurs.
+
+811
+00:36:02,620 --> 00:36:05,120
+These are, I don't know
+
+812
+00:36:05,120 --> 00:36:07,620
+whether they're for-profit or nonprofit,
+
+813
+00:36:08,620 --> 00:36:10,120
+but they're people who do
+
+814
+00:36:10,120 --> 00:36:11,620
+things out of a sense of
+
+815
+00:36:11,620 --> 00:36:24,620
+mission for beyond making money, but helping the world.
+
+816
+00:36:24,620 --> 00:36:28,620
+And you see this reported in newspapers and magazines, that
+
+817
+00:36:28,620 --> 00:36:30,620
+the 21st century seems to be
+
+818
+00:36:30,620 --> 00:36:32,620
+a century where there's more and
+
+819
+00:36:32,620 --> 00:36:34,620
+more of this kind of thing.
+
+820
+00:36:34,620 --> 00:36:37,620
+And it's substantial.
+
+821
+00:36:37,620 --> 00:36:40,620
+Substantial measure, I think, nonprofit.
+
+822
+00:36:40,620 --> 00:36:44,620
+Okay, then now I wanted to
+
+823
+00:36:44,620 --> 00:36:48,620
+move to the third thing, which I
+
+824
+00:36:48,620 --> 00:36:54,620
+said is municipal or state and local finance.
+
+825
+00:36:54,620 --> 00:36:57,620
+It's a big topic, but an awful
+
+826
+00:36:57,620 --> 00:37:00,620
+lot of what gets done in this
+
+827
+00:37:00,620 --> 00:37:03,620
+country is done by state and local governments.
+
+828
+00:37:03,620 --> 00:37:05,120
+It's something on the order,
+
+829
+00:37:05,120 --> 00:37:06,620
+it's something on the order of
+
+830
+00:37:06,620 --> 00:37:07,620
+the federal government.
+
+831
+00:37:07,620 --> 00:37:09,620
+It's bigger than the federal government.
+
+832
+00:37:09,620 --> 00:37:11,120
+The state and local governments
+
+833
+00:37:11,120 --> 00:37:12,620
+spend about twice as much money
+
+834
+00:37:12,620 --> 00:37:14,620
+as the U.S. federal government.
+
+835
+00:37:14,620 --> 00:37:17,620
+They run all the public schools, fire departments, police
+
+836
+00:37:17,620 --> 00:37:20,620
+departments, most of the parks.
+
+837
+00:37:20,620 --> 00:37:21,620
+What else?
+
+838
+00:37:21,620 --> 00:37:23,120
+I mean, a lot of things
+
+839
+00:37:23,120 --> 00:37:24,620
+are being run by state and local
+
+840
+00:37:24,620 --> 00:37:26,620
+governments.
+
+841
+00:37:26,620 --> 00:37:30,120
+And so, I think another thing that
+
+842
+00:37:30,120 --> 00:37:33,620
+one could do is to have a
+
+843
+00:37:33,620 --> 00:37:34,620
+government that's more than just
+
+844
+00:37:34,620 --> 00:37:35,620
+a state and local government.
+
+845
+00:37:35,620 --> 00:37:37,620
+And I think that's what one
+
+846
+00:37:37,620 --> 00:37:39,620
+could do to make things happen
+
+847
+00:37:39,620 --> 00:37:41,620
+in the world.
+
+848
+00:37:41,620 --> 00:37:45,620
+I mentioned the possibility of setting up a nonprofit.
+
+849
+00:37:45,620 --> 00:37:47,620
+You can make things happen by doing that.
+
+850
+00:37:47,620 --> 00:37:49,620
+But you can also make
+
+851
+00:37:49,620 --> 00:37:51,620
+things happen by approaching a local
+
+852
+00:37:51,620 --> 00:37:56,120
+government and saying to them, I
+
+853
+00:37:56,120 --> 00:38:00,620
+think that you would do well
+
+854
+00:38:00,620 --> 00:38:03,120
+to build a hospital or build
+
+855
+00:38:03,120 --> 00:38:05,620
+a bridge or build a new school,
+
+856
+00:38:05,620 --> 00:38:11,620
+or even kind of business-oriented things that
+
+857
+00:38:11,620 --> 00:38:15,620
+would be projects that the government can undertake.
+
+858
+00:38:15,620 --> 00:38:19,120
+And then they can finance it
+
+859
+00:38:19,120 --> 00:38:22,620
+as a state and local government.
+
+860
+00:38:22,620 --> 00:38:25,120
+Now, one thing in the
+
+861
+00:38:25,120 --> 00:38:27,620
+United States, every state in the
+
+862
+00:38:27,620 --> 00:38:32,620
+United States has a balanced budget rule.
+
+863
+00:38:35,620 --> 00:38:38,620
+That is, they have to
+
+864
+00:38:38,620 --> 00:38:41,620
+tax people for all of the
+
+865
+00:38:41,620 --> 00:38:43,620
+expenditures they make.
+
+866
+00:38:43,620 --> 00:38:46,620
+They are not allowed to go into debt.
+
+867
+00:38:46,620 --> 00:38:49,120
+But we have to be careful
+
+868
+00:38:49,120 --> 00:38:51,620
+about what the balanced budget rules
+
+869
+00:38:51,620 --> 00:38:54,620
+in their constitution say.
+
+870
+00:38:54,620 --> 00:38:56,620
+Because obviously, there is municipal debt.
+
+871
+00:38:56,620 --> 00:38:59,620
+Governments do borrow money.
+
+872
+00:38:59,620 --> 00:39:03,620
+State and local governments in the United States, they have
+
+873
+00:39:03,620 --> 00:39:04,620
+a balanced budget.
+
+874
+00:39:04,620 --> 00:39:07,620
+And the governments in the United States have typically
+
+875
+00:39:07,620 --> 00:39:09,120
+– it differs across states
+
+876
+00:39:09,120 --> 00:39:10,620
+– but they typically have two
+
+877
+00:39:10,620 --> 00:39:11,620
+budgets.
+
+878
+00:39:11,620 --> 00:39:19,620
+They have an operating budget and a capital budget.
+
+879
+00:39:19,620 --> 00:39:21,620
+The operating budget is what
+
+880
+00:39:21,620 --> 00:39:23,620
+has to be balanced according to
+
+881
+00:39:23,620 --> 00:39:25,620
+their constitutions.
+
+882
+00:39:25,620 --> 00:39:29,620
+So, the operating government budget involves a list of all
+
+883
+00:39:29,620 --> 00:39:34,620
+the expenditures they made for operations and the taxes.
+
+884
+00:39:34,620 --> 00:39:37,120
+And they cannot – it differs
+
+885
+00:39:37,120 --> 00:39:39,620
+by state and how it's worded,
+
+886
+00:39:39,620 --> 00:39:41,620
+but they cannot plan to
+
+887
+00:39:41,620 --> 00:39:43,620
+run a deficit in some state.
+
+888
+00:39:43,620 --> 00:39:45,120
+Or if they do run a
+
+889
+00:39:45,120 --> 00:39:46,620
+deficit on the operating budget, they have
+
+890
+00:39:46,620 --> 00:39:48,620
+to correct it soon and have
+
+891
+00:39:48,620 --> 00:39:50,620
+a plan for correcting it soon.
+
+892
+00:39:50,620 --> 00:39:53,620
+But the capital budget is different.
+
+893
+00:39:53,620 --> 00:39:56,120
+It also – if a city
+
+894
+00:39:56,120 --> 00:39:58,620
+builds a new school, for example, that's
+
+895
+00:39:58,620 --> 00:40:01,620
+not an operating expense, right?
+
+896
+00:40:01,620 --> 00:40:03,620
+It's a capital expense.
+
+897
+00:40:03,620 --> 00:40:06,620
+So, it's building something that will last through the
+
+898
+00:40:06,620 --> 00:40:08,620
+ages.
+
+899
+00:40:08,620 --> 00:40:10,620
+And so, it goes on the
+
+900
+00:40:10,620 --> 00:40:12,620
+capital budget and not on the operating
+
+901
+00:40:12,620 --> 00:40:13,620
+budget.
+
+902
+00:40:13,620 --> 00:40:15,620
+And all of the states allow this.
+
+903
+00:40:15,620 --> 00:40:19,620
+They can raise money by borrowing, and they routinely
+
+904
+00:40:19,620 --> 00:40:24,620
+do that.
+
+905
+00:40:24,620 --> 00:40:26,620
+So, that means they get into
+
+906
+00:40:26,620 --> 00:40:28,620
+debt, and then they have a
+
+907
+00:40:28,620 --> 00:40:32,620
+potential for going bankrupt as well.
+
+908
+00:40:33,620 --> 00:40:37,620
+So, this is the way –
+
+909
+00:40:37,620 --> 00:40:41,620
+imagine that you're setting up a small,
+
+910
+00:40:41,620 --> 00:40:45,620
+a new town, and it's small right now, okay?
+
+911
+00:40:45,620 --> 00:40:47,620
+Little town, but we know that
+
+912
+00:40:47,620 --> 00:40:49,620
+people are coming this way, and
+
+913
+00:40:49,620 --> 00:40:51,120
+it's going to be a
+
+914
+00:40:51,120 --> 00:40:52,620
+big town in 20, 30 years.
+
+915
+00:40:52,620 --> 00:40:54,620
+So, what do we do?
+
+916
+00:40:54,620 --> 00:40:55,620
+Well, you lay out the streets,
+
+917
+00:40:55,620 --> 00:40:56,620
+and you plan for a big town.
+
+918
+00:40:56,620 --> 00:40:58,620
+Right now, you better plan for it, right?
+
+919
+00:40:58,620 --> 00:40:59,620
+Or it'll get congested.
+
+920
+00:40:59,620 --> 00:41:01,620
+So, you better lay out wide enough streets.
+
+921
+00:41:01,620 --> 00:41:02,620
+That's easy to do.
+
+922
+00:41:02,620 --> 00:41:04,620
+You don't have to build a lot of streets.
+
+923
+00:41:04,620 --> 00:41:06,620
+You don't have to build a lot of streets.
+
+924
+00:41:06,620 --> 00:41:08,120
+But you kind of want to
+
+925
+00:41:08,120 --> 00:41:09,620
+build the streets before the people
+
+926
+00:41:09,620 --> 00:41:10,620
+come.
+
+927
+00:41:10,620 --> 00:41:12,120
+You have the layout, and you
+
+928
+00:41:12,120 --> 00:41:13,620
+have lots, and you have it all
+
+929
+00:41:13,620 --> 00:41:14,620
+planned.
+
+930
+00:41:14,620 --> 00:41:16,620
+And how about a sewage system?
+
+931
+00:41:16,620 --> 00:41:19,620
+The people aren't here yet, okay?
+
+932
+00:41:19,620 --> 00:41:25,620
+And so, you construct, you consult a sewage engineer, and
+
+933
+00:41:25,620 --> 00:41:26,620
+the engineer tells you, you
+
+934
+00:41:26,620 --> 00:41:27,620
+know, if you're going to build
+
+935
+00:41:27,620 --> 00:41:30,620
+a sewage system, you should do it all at once.
+
+936
+00:41:30,620 --> 00:41:31,620
+You don't have to do it
+
+937
+00:41:31,620 --> 00:41:32,620
+year after year, just adding a
+
+938
+00:41:32,620 --> 00:41:33,620
+little bit, a little bit.
+
+939
+00:41:33,620 --> 00:41:34,620
+You got to have a plan.
+
+940
+00:41:34,620 --> 00:41:36,620
+You have an idea where the city is going.
+
+941
+00:41:36,620 --> 00:41:39,620
+Let's build it for a city of 20,000 people.
+
+942
+00:41:39,620 --> 00:41:41,120
+We can do it now, but
+
+943
+00:41:41,120 --> 00:41:42,620
+it will cost you, you know, $100
+
+944
+00:41:42,620 --> 00:41:43,620
+million.
+
+945
+00:41:43,620 --> 00:41:44,620
+So, what do you do?
+
+946
+00:41:44,620 --> 00:41:47,620
+You might say, we can't pay for that.
+
+947
+00:41:47,620 --> 00:41:49,620
+There's only 30 people living in this town.
+
+948
+00:41:49,620 --> 00:41:51,620
+How do we come up with $100 million?
+
+949
+00:41:51,620 --> 00:41:53,620
+Obviously, you borrow, right?
+
+950
+00:41:53,620 --> 00:41:55,620
+You put it on the capital budget.
+
+951
+00:41:55,620 --> 00:41:58,620
+And that is fair and just, right?
+
+952
+00:41:58,620 --> 00:42:02,620
+And then, as people come to
+
+953
+00:42:02,620 --> 00:42:06,620
+the city, they will then pay
+
+954
+00:42:06,620 --> 00:42:08,620
+taxes and pay back the debt.
+
+955
+00:42:08,620 --> 00:42:09,620
+This is the way it works,
+
+956
+00:42:09,620 --> 00:42:10,620
+and it's the way it's always worked.
+
+957
+00:42:10,620 --> 00:42:11,620
+Now, you could say, well,
+
+958
+00:42:11,620 --> 00:42:12,620
+no, it shouldn't be this way.
+
+959
+00:42:12,620 --> 00:42:14,620
+Why don't we have all of
+
+960
+00:42:14,620 --> 00:42:16,620
+the individual people pay for their
+
+961
+00:42:16,620 --> 00:42:18,120
+own sewers and add to the
+
+962
+00:42:18,120 --> 00:42:19,620
+sewer system as they build their
+
+963
+00:42:19,620 --> 00:42:20,620
+houses?
+
+964
+00:42:20,620 --> 00:42:21,620
+It's not going to work, right?
+
+965
+00:42:21,620 --> 00:42:22,620
+That would be crazy.
+
+966
+00:42:22,620 --> 00:42:25,620
+You've got to build the whole system in advance.
+
+967
+00:42:25,620 --> 00:42:27,620
+And so, that's what we're going to do.
+
+968
+00:42:27,620 --> 00:42:31,620
+And that's what city governments do routinely.
+
+969
+00:42:31,620 --> 00:42:37,120
+And they go deeply into debt
+
+970
+00:42:37,120 --> 00:42:42,620
+as a result of having created
+
+971
+00:42:42,620 --> 00:42:49,620
+all of these capital investments and having the debt
+
+972
+00:42:49,620 --> 00:42:50,620
+against them.
+
+973
+00:42:50,620 --> 00:42:52,620
+So, your city that has
+
+974
+00:42:52,620 --> 00:42:54,620
+20 people is borrowed $100 million,
+
+975
+00:42:54,620 --> 00:42:56,120
+and it's going to be a
+
+976
+00:42:56,120 --> 00:42:57,620
+city of 20,000 people, it thinks.
+
+977
+00:42:57,620 --> 00:42:59,620
+And what if it doesn't work?
+
+978
+00:42:59,620 --> 00:43:01,620
+What if they don't come?
+
+979
+00:43:01,620 --> 00:43:02,620
+Your plan was wrong.
+
+980
+00:43:02,620 --> 00:43:06,620
+Then the city is at risk of going bankrupt, right?
+
+981
+00:43:06,620 --> 00:43:12,620
+So, there's another whole chapter for municipal
+
+982
+00:43:12,620 --> 00:43:18,620
+bankruptcy, Chapter 9 of the Bankruptcy Code.
+
+983
+00:43:18,620 --> 00:43:21,620
+And Chapter 9 is for city government.
+
+984
+00:43:21,620 --> 00:43:24,620
+There's a problem is that cities going bankrupt are
+
+985
+00:43:24,620 --> 00:43:27,620
+different, because they don't have any shareholders, right?
+
+986
+00:43:27,620 --> 00:43:31,620
+They do have an ability to tax people.
+
+987
+00:43:31,620 --> 00:43:33,120
+The question of how much
+
+988
+00:43:33,120 --> 00:43:34,620
+you should tax people in a
+
+989
+00:43:34,620 --> 00:43:36,620
+bankrupt city, if you tax
+
+990
+00:43:36,620 --> 00:43:38,620
+them too much, they'll just all
+
+991
+00:43:38,620 --> 00:43:39,620
+leave.
+
+992
+00:43:39,620 --> 00:43:44,620
+So, it's a subtle problem.
+
+993
+00:43:44,620 --> 00:43:49,620
+But fortunately, there haven't been, and I'm not sure we
+
+994
+00:43:49,620 --> 00:43:52,620
+really understand why, there have not been many municipal
+
+995
+00:43:52,620 --> 00:43:56,620
+bankruptcies at all.
+
+996
+00:43:57,620 --> 00:44:01,620
+And between 1975, okay, I'm sorry,
+
+997
+00:44:01,620 --> 00:44:05,620
+do I have data on it?
+
+998
+00:44:05,620 --> 00:44:07,620
+I thought I had data on numbers of bankruptcy.
+
+999
+00:44:07,620 --> 00:44:10,620
+You know, there are some famous municipal bankruptcies.
+
+1000
+00:44:10,620 --> 00:44:13,620
+New York City went bankrupt,
+
+1001
+00:44:13,620 --> 00:44:16,620
+or was about to declare bankruptcy
+
+1002
+00:44:16,620 --> 00:44:20,620
+in the 1970s, but it was saved by bailouts.
+
+1003
+00:44:20,620 --> 00:44:22,620
+Maybe that's the reason why we don't.
+
+1004
+00:44:22,620 --> 00:44:24,120
+Basically, when New York City said that
+
+1005
+00:44:24,120 --> 00:44:25,620
+it couldn't pay its debts, it was
+
+1006
+00:44:25,620 --> 00:44:26,620
+going to pay its debts.
+
+1007
+00:44:26,620 --> 00:44:28,120
+But New York City said
+
+1008
+00:44:28,120 --> 00:44:29,620
+that it couldn't pay its debts.
+
+1009
+00:44:29,620 --> 00:44:32,620
+The state of New York came by with a bailout.
+
+1010
+00:44:32,620 --> 00:44:37,620
+And then also, although reluctantly and with a lag, the
+
+1011
+00:44:37,620 --> 00:44:40,620
+U.S. federal government came in with a bailout.
+
+1012
+00:44:40,620 --> 00:44:49,620
+So, big city, so New York never declared bankruptcy.
+
+1013
+00:44:49,620 --> 00:44:51,120
+A lot of cities will have
+
+1014
+00:44:51,120 --> 00:44:52,620
+what's called a rainy day fund.
+
+1015
+00:44:56,620 --> 00:45:00,120
+And they will accumulate assets
+
+1016
+00:45:00,120 --> 00:45:03,620
+to help them over troubled times.
+
+1017
+00:45:03,620 --> 00:45:07,620
+So, you can collect somewhat
+
+1018
+00:45:07,620 --> 00:45:11,620
+higher taxes, and then you have
+
+1019
+00:45:11,620 --> 00:45:12,620
+an endowment.
+
+1020
+00:45:12,620 --> 00:45:14,620
+The city has an endowment,
+
+1021
+00:45:14,620 --> 00:45:16,620
+which can help tide them over
+
+1022
+00:45:16,620 --> 00:45:19,620
+through difficult times.
+
+1023
+00:45:19,620 --> 00:45:22,120
+But recently, most of the
+
+1024
+00:45:22,120 --> 00:45:24,620
+rainy day funds have been exhausted.
+
+1025
+00:45:24,620 --> 00:45:25,620
+So, they're not going to pay their debts.
+
+1026
+00:45:25,620 --> 00:45:27,620
+They're going to be exhausted.
+
+1027
+00:45:27,620 --> 00:45:31,120
+The state and local governments saved
+
+1028
+00:45:31,120 --> 00:45:34,620
+for a rainy day, and this
+
+1029
+00:45:34,620 --> 00:45:37,620
+was a rainy day, this financial crisis.
+
+1030
+00:45:37,620 --> 00:45:39,620
+And so, most state and
+
+1031
+00:45:39,620 --> 00:45:41,620
+local governments are in trouble right
+
+1032
+00:45:41,620 --> 00:45:45,620
+now because of the recession causing their tax revenues to
+
+1033
+00:45:45,620 --> 00:45:49,620
+decline, and there's increasing worry about municipal
+
+1034
+00:45:49,620 --> 00:45:50,620
+bankruptcies.
+
+1035
+00:45:50,620 --> 00:45:52,120
+So, I said that there
+
+1036
+00:45:52,120 --> 00:45:53,620
+haven't been many historically, but the
+
+1037
+00:45:53,620 --> 00:45:55,620
+people are edgy now, thinking
+
+1038
+00:45:55,620 --> 00:45:57,620
+that there could be some now
+
+1039
+00:45:57,620 --> 00:46:00,620
+because of the financial crisis.
+
+1040
+00:46:00,620 --> 00:46:05,620
+And so, the yields on municipal bonds have gone up.
+
+1041
+00:46:05,620 --> 00:46:12,620
+So, municipal bonds are tax-free in the United States.
+
+1042
+00:46:12,620 --> 00:46:17,120
+So, if the city of New
+
+1043
+00:46:17,120 --> 00:46:21,620
+Haven issues debt, and you buy the
+
+1044
+00:46:21,620 --> 00:46:22,620
+debt, you are not going to pay the debt.
+
+1045
+00:46:22,620 --> 00:46:24,620
+You are not subject to federal
+
+1046
+00:46:24,620 --> 00:46:26,620
+income tax on the interest that
+
+1047
+00:46:26,620 --> 00:46:27,620
+you earn.
+
+1048
+00:46:27,620 --> 00:46:30,620
+That's because in the Constitution, it says that
+
+1049
+00:46:30,620 --> 00:46:33,620
+there's a separation between federal and state.
+
+1050
+00:46:33,620 --> 00:46:35,620
+The federal cannot tax the
+
+1051
+00:46:35,620 --> 00:46:37,620
+state, so they don't tax your
+
+1052
+00:46:37,620 --> 00:46:38,620
+municipal bond.
+
+1053
+00:46:38,620 --> 00:46:45,620
+There's a subsidy toward municipal bonds implicit in the
+
+1054
+00:46:45,620 --> 00:46:50,620
+tax law.
+
+1055
+00:46:50,620 --> 00:46:51,620
+By the way, let me just mention.
+
+1056
+00:46:51,620 --> 00:46:56,620
+The fact that municipal bonds
+
+1057
+00:46:56,620 --> 00:47:01,620
+issued by local governments are
+
+1058
+00:47:01,620 --> 00:47:06,620
+not subject to taxes extends as well to Yale University.
+
+1059
+00:47:06,620 --> 00:47:10,620
+So, Yale University issues bonds that are in the same
+
+1060
+00:47:10,620 --> 00:47:14,620
+category as municipal bonds, and they're not taxed.
+
+1061
+00:47:14,620 --> 00:47:17,620
+So, there's an advantage, a tax advantage, and especially
+
+1062
+00:47:17,620 --> 00:47:20,620
+higher-income investors like to invest in municipal bonds.
+
+1063
+00:47:20,620 --> 00:47:23,620
+Because it matters more for higher-income investors, because
+
+1064
+00:47:23,620 --> 00:47:26,120
+the tax rate hits them
+
+1065
+00:47:26,120 --> 00:47:28,620
+more, and so there's an advantage.
+
+1066
+00:47:28,620 --> 00:47:32,120
+So, Yale issues municipal bonds,
+
+1067
+00:47:32,120 --> 00:47:35,620
+and Yale is an important debtor.
+
+1068
+00:47:35,620 --> 00:47:38,620
+Now, you might wonder about that.
+
+1069
+00:47:38,620 --> 00:47:45,620
+So, let's talk about Yale as a municipal bond issuer.
+
+1070
+00:47:45,620 --> 00:47:48,620
+Yale has an endowment of $16 billion.
+
+1071
+00:47:48,620 --> 00:47:55,620
+As of last year.
+
+1072
+00:47:55,620 --> 00:48:03,620
+And it has a debt of $2.5 billion.
+
+1073
+00:48:03,620 --> 00:48:07,120
+So, that leaves Yale with only
+
+1074
+00:48:07,120 --> 00:48:10,620
+$13.5 billion in assets after debt.
+
+1075
+00:48:10,620 --> 00:48:15,620
+So, you might say, why does Yale borrow money?
+
+1076
+00:48:15,620 --> 00:48:16,620
+Right?
+
+1077
+00:48:16,620 --> 00:48:18,620
+I mean, it's got $16 billion to invest in.
+
+1078
+00:48:18,620 --> 00:48:20,620
+Why is it borrowing?
+
+1079
+00:48:20,620 --> 00:48:22,620
+Well, there are many reasons, I suppose.
+
+1080
+00:48:22,620 --> 00:48:24,620
+But the immediate and obvious
+
+1081
+00:48:24,620 --> 00:48:26,620
+reason that comes to mind is
+
+1082
+00:48:26,620 --> 00:48:29,120
+that Yale borrows money, because it
+
+1083
+00:48:29,120 --> 00:48:31,620
+can borrow at a tax-subsidized rate.
+
+1084
+00:48:31,620 --> 00:48:32,620
+Right?
+
+1085
+00:48:32,620 --> 00:48:35,620
+If Yale's debt is not subject
+
+1086
+00:48:35,620 --> 00:48:38,620
+to income tax, then that means it
+
+1087
+00:48:38,620 --> 00:48:41,620
+can borrow at a lower rate.
+
+1088
+00:48:41,620 --> 00:48:44,120
+And Yale would be inclined,
+
+1089
+00:48:44,120 --> 00:48:46,620
+or any nonprofit that can issue
+
+1090
+00:48:46,620 --> 00:48:48,620
+non-taxable debt.
+
+1091
+00:48:48,620 --> 00:48:52,120
+And they would like to do that, in
+
+1092
+00:48:52,120 --> 00:48:55,620
+order to invest in assets that are taxable.
+
+1093
+00:48:55,620 --> 00:48:59,620
+Because Yale doesn't pay any taxes on either of them.
+
+1094
+00:48:59,620 --> 00:49:01,620
+So, you see what I'm saying?
+
+1095
+00:49:01,620 --> 00:49:04,620
+The municipal debt has a lower yield in the market.
+
+1096
+00:49:04,620 --> 00:49:08,120
+Because everybody knows it's not subject to
+
+1097
+00:49:08,120 --> 00:49:11,620
+income taxes, so it has a low yield.
+
+1098
+00:49:11,620 --> 00:49:14,120
+So, Yale could issue that debt and use
+
+1099
+00:49:14,120 --> 00:49:16,620
+the money to invest in high-yielding things that
+
+1100
+00:49:16,620 --> 00:49:18,620
+are taxable.
+
+1101
+00:49:18,620 --> 00:49:20,620
+And it's not going to pay taxes on them, either.
+
+1102
+00:49:20,620 --> 00:49:22,620
+So, there's an arbitrage game that Yale
+
+1103
+00:49:22,620 --> 00:49:24,620
+could play, or any nonprofit could play.
+
+1104
+00:49:24,620 --> 00:49:28,620
+But it does not, because it's not
+
+1105
+00:49:28,620 --> 00:49:32,620
+allowed to, unless it's investing, unless it's using
+
+1106
+00:49:32,620 --> 00:49:36,620
+the proceeds of the debt for appropriate causes.
+
+1107
+00:49:36,620 --> 00:49:40,620
+So, you have to understand, this is why
+
+1108
+00:49:40,620 --> 00:49:44,620
+Yale University has a substantial debt, and why
+
+1109
+00:49:44,620 --> 00:49:46,620
+Haven has a substantial debt.
+
+1110
+00:49:46,620 --> 00:49:58,620
+It all makes sense in some basic finance framework.
+
+1111
+00:49:58,620 --> 00:50:01,620
+But there's a lot of concern about
+
+1112
+00:50:01,620 --> 00:50:04,620
+indebtedness right now, because with the financial crisis,
+
+1113
+00:50:04,620 --> 00:50:07,620
+the U.S. and Europe and many other
+
+1114
+00:50:07,620 --> 00:50:10,620
+countries are suffering debt crises right now.
+
+1115
+00:50:10,620 --> 00:50:14,620
+So, it's renewing calls for a balanced budget amendment.
+
+1116
+00:50:14,620 --> 00:50:17,120
+The U.S. government does not have a
+
+1117
+00:50:17,120 --> 00:50:19,620
+balanced budget amendment like the state governments
+
+1118
+00:50:19,620 --> 00:50:20,620
+do.
+
+1119
+00:50:20,620 --> 00:50:23,620
+And in fact, the U.S. government has only one budget.
+
+1120
+00:50:23,620 --> 00:50:25,620
+It does not have a capital budget.
+
+1121
+00:50:25,620 --> 00:50:28,120
+So, in some sense, the state governments
+
+1122
+00:50:28,120 --> 00:50:30,620
+are more sophisticated than the federal government
+
+1123
+00:50:30,620 --> 00:50:35,620
+in the U.S., in that they have
+
+1124
+00:50:35,620 --> 00:50:40,620
+the distinction between operating and capital budgets.
+
+1125
+00:50:40,620 --> 00:50:42,620
+But I guess the reason why the U.S.
+
+1126
+00:50:42,620 --> 00:50:43,620
+The U.S.
+
+1127
+00:50:43,620 --> 00:50:44,620
+government has considered the U.S.
+
+1128
+00:50:44,620 --> 00:50:46,620
+government as adopting a capital budget,
+
+1129
+00:50:46,620 --> 00:50:48,620
+but it has never done so.
+
+1130
+00:50:48,620 --> 00:50:50,620
+I think maybe it's because the U.S.
+
+1131
+00:50:50,620 --> 00:50:55,620
+government has fewer investments, like schools
+
+1132
+00:50:55,620 --> 00:51:00,620
+or parks or other water facilities, sewage
+
+1133
+00:51:00,620 --> 00:51:01,620
+facilities.
+
+1134
+00:51:01,620 --> 00:51:03,620
+It doesn't do that kind of thing.
+
+1135
+00:51:03,620 --> 00:51:11,620
+So, it doesn't have as many clearly capital projects.
+
+1136
+00:51:11,620 --> 00:51:12,620
+It has a much bigger debt
+
+1137
+00:51:12,620 --> 00:51:13,620
+than the state and local governments.
+
+1138
+00:51:13,620 --> 00:51:14,620
+Okay.
+
+1139
+00:51:14,620 --> 00:51:21,620
+So, I guess then I'll move to my
+
+1140
+00:51:21,620 --> 00:51:28,620
+last topic today, which is about government social insurance.
+
+1141
+00:51:34,620 --> 00:51:37,620
+And this is along the same theme.
+
+1142
+00:51:37,620 --> 00:51:39,620
+I'm talking today about the
+
+1143
+00:51:39,620 --> 00:51:41,620
+roles of a financial institution.
+
+1144
+00:51:41,620 --> 00:51:48,120
+The roles of finance is about
+
+1145
+00:51:48,120 --> 00:51:54,620
+risk management, and it's about incentivization.
+
+1146
+00:51:54,620 --> 00:51:58,620
+Some of the basic roles are classified under
+
+1147
+00:51:58,620 --> 00:52:02,620
+the rubric of social insurance, which is offered
+
+1148
+00:52:02,620 --> 00:52:08,620
+by the government.
+
+1149
+00:52:08,620 --> 00:52:09,620
+And this is a huge topic.
+
+1150
+00:52:09,620 --> 00:52:10,620
+And let me just say this.
+
+1151
+00:52:10,620 --> 00:52:18,620
+Social insurance refers to insurance that is
+
+1152
+00:52:18,620 --> 00:52:26,620
+not available by a private insurance company,
+
+1153
+00:52:26,620 --> 00:52:32,620
+but that are offered generally by governments.
+
+1154
+00:52:32,620 --> 00:52:34,620
+And let me just give some examples.
+
+1155
+00:52:34,620 --> 00:52:38,620
+I put in first, progressive taxes.
+
+1156
+00:52:38,620 --> 00:52:39,620
+Okay.
+
+1157
+00:52:39,620 --> 00:52:46,120
+So, progressive taxes are income taxes that
+
+1158
+00:52:46,120 --> 00:52:52,620
+tax higher income people at a lower rate.
+
+1159
+00:52:52,620 --> 00:52:57,120
+And progressive taxes have increasingly,
+
+1160
+00:52:57,120 --> 00:53:01,620
+in recent years, adopted something analogous
+
+1161
+00:53:01,620 --> 00:53:05,620
+to the Earned Income Tax Credit, the EITC.
+
+1162
+00:53:05,620 --> 00:53:07,620
+That's the U.S. name for it.
+
+1163
+00:53:07,620 --> 00:53:10,120
+And it's now in many countries around
+
+1164
+00:53:10,120 --> 00:53:12,620
+the world that provides negative taxes for the
+
+1165
+00:53:12,620 --> 00:53:15,620
+lowest income people.
+
+1166
+00:53:15,620 --> 00:53:21,120
+So, the effect of progressive taxes with Earned
+
+1167
+00:53:21,120 --> 00:53:26,620
+Income Tax Credit is to insulate people somewhat
+
+1168
+00:53:26,620 --> 00:53:31,620
+from shocks to their income.
+
+1169
+00:53:31,620 --> 00:53:34,120
+They call it an Earned Income Tax Credit,
+
+1170
+00:53:34,120 --> 00:53:36,620
+by the way, because you have to have earned
+
+1171
+00:53:36,620 --> 00:53:38,620
+income to get the credit.
+
+1172
+00:53:38,620 --> 00:53:40,620
+You can't be just unemployed.
+
+1173
+00:53:40,620 --> 00:53:43,620
+But if you are working and earning very
+
+1174
+00:53:43,620 --> 00:53:46,620
+little, especially if you have a family, then you
+
+1175
+00:53:46,620 --> 00:53:50,620
+have a negative income tax rate, so that
+
+1176
+00:53:50,620 --> 00:53:54,620
+the government augments your low income with a
+
+1177
+00:53:54,620 --> 00:53:56,620
+negative tax.
+
+1178
+00:53:56,620 --> 00:54:01,120
+I think this is very
+
+1179
+00:54:01,120 --> 00:54:05,620
+important, and it actually is effective.
+
+1180
+00:54:05,620 --> 00:54:08,620
+Otherwise, the world would be much
+
+1181
+00:54:08,620 --> 00:54:11,620
+more unequal than it is now.
+
+1182
+00:54:11,620 --> 00:54:15,620
+I would add, by the way, public services,
+
+1183
+00:54:15,620 --> 00:54:19,620
+which are offered out of taxes to everyone
+
+1184
+00:54:19,620 --> 00:54:23,620
+in a country, notably education.
+
+1185
+00:54:23,620 --> 00:54:26,620
+School systems are generally free.
+
+1186
+00:54:26,620 --> 00:54:30,120
+And that is, again, something that these are
+
+1187
+00:54:30,120 --> 00:54:33,620
+all, I consider these a form of insurance,
+
+1188
+00:54:33,620 --> 00:54:35,620
+because they benefit people.
+
+1189
+00:54:35,620 --> 00:54:39,620
+They benefit people who are unsuccessful in earning money.
+
+1190
+00:54:39,620 --> 00:54:43,620
+So, it's like an insurance program against
+
+1191
+00:54:43,620 --> 00:54:47,620
+possible failure in achieving status in the
+
+1192
+00:54:47,620 --> 00:54:51,620
+economic system.
+
+1193
+00:54:51,620 --> 00:54:56,620
+So, we also have, I'll
+
+1194
+00:54:56,620 --> 00:55:01,620
+go up here, three, Social Security.
+
+1195
+00:55:01,620 --> 00:55:03,620
+I'm using U.S. terms.
+
+1196
+00:55:03,620 --> 00:55:07,620
+These are terms that, these things
+
+1197
+00:55:07,620 --> 00:55:11,620
+happen in virtually all advanced countries.
+
+1198
+00:55:11,620 --> 00:55:15,620
+In the U.S., we call it OASD.
+
+1199
+00:55:15,620 --> 00:55:31,620
+That stands for Old Age Survivors and Disability Insurance.
+
+1200
+00:55:31,620 --> 00:55:35,620
+Old Age Insurance is pensions.
+
+1201
+00:55:35,620 --> 00:55:38,120
+And that's the biggest part of the
+
+1202
+00:55:38,120 --> 00:55:40,620
+Social Security system in the United States.
+
+1203
+00:55:40,620 --> 00:55:42,620
+It's insuring you again.
+
+1204
+00:55:42,620 --> 00:55:44,620
+Well, it's really something you know is going to happen.
+
+1205
+00:55:44,620 --> 00:55:46,620
+You're going to get old someday.
+
+1206
+00:55:46,620 --> 00:55:48,620
+But we call it insurance.
+
+1207
+00:55:48,620 --> 00:55:53,620
+Survivors insurance is life insurance.
+
+1208
+00:55:53,620 --> 00:55:55,620
+I mean, it benefits you.
+
+1209
+00:55:55,620 --> 00:55:57,620
+You're getting too old for this now, but if your
+
+1210
+00:55:57,620 --> 00:55:59,620
+parents die when you're young, they're going to get old.
+
+1211
+00:55:59,620 --> 00:56:00,620
+So, it's a great insurance.
+
+1212
+00:56:00,620 --> 00:56:02,620
+It's a great income.
+
+1213
+00:56:02,620 --> 00:56:06,620
+The U.S. government will give you an income.
+
+1214
+00:56:06,620 --> 00:56:07,620
+You're an orphan.
+
+1215
+00:56:07,620 --> 00:56:08,620
+You have nothing.
+
+1216
+00:56:08,620 --> 00:56:11,620
+Your parents died and left you nothing.
+
+1217
+00:56:11,620 --> 00:56:13,620
+You get Survivors Insurance.
+
+1218
+00:56:13,620 --> 00:56:15,620
+You didn't know you had this, right?
+
+1219
+00:56:15,620 --> 00:56:19,620
+It's not publicized a lot, but it's part of
+
+1220
+00:56:19,620 --> 00:56:23,620
+what protects people, and it's offered by the government.
+
+1221
+00:56:23,620 --> 00:56:25,620
+And then thirdly, Disability Insurance.
+
+1222
+00:56:25,620 --> 00:56:28,620
+Again, offered by the government.
+
+1223
+00:56:28,620 --> 00:56:33,620
+It's not against you breaking your neck and becoming paralyzed, or
+
+1224
+00:56:33,620 --> 00:56:38,620
+anything like that, that makes it impossible for you to work.
+
+1225
+00:56:38,620 --> 00:56:42,620
+The U.S. government will give you an income for life.
+
+1226
+00:56:42,620 --> 00:56:44,620
+So, if you are permanently paralyzed,
+
+1227
+00:56:44,620 --> 00:56:46,620
+you get an income for life.
+
+1228
+00:56:46,620 --> 00:56:50,620
+All three of these are purchasable in the private sector.
+
+1229
+00:56:50,620 --> 00:56:52,620
+You can buy a pension.
+
+1230
+00:56:52,620 --> 00:56:55,620
+You can buy Survivors Insurance.
+
+1231
+00:56:55,620 --> 00:56:56,620
+They don't call that.
+
+1232
+00:56:56,620 --> 00:56:57,620
+They call it life insurance.
+
+1233
+00:56:57,620 --> 00:57:01,620
+It's just turning it around to a different name.
+
+1234
+00:57:01,620 --> 00:57:04,620
+The sellers of life insurance don't want to remind you
+
+1235
+00:57:04,620 --> 00:57:07,620
+that you already have a life insurance policy from the government.
+
+1236
+00:57:07,620 --> 00:57:10,620
+Because you might say, well, I got enough already.
+
+1237
+00:57:10,620 --> 00:57:13,620
+So, they give it a different name, and
+
+1238
+00:57:13,620 --> 00:57:16,620
+they probably won't remind you that you have it.
+
+1239
+00:57:16,620 --> 00:57:20,620
+And then you can buy Disability Insurance.
+
+1240
+00:57:20,620 --> 00:57:24,120
+But part of the problem with private offering
+
+1241
+00:57:24,120 --> 00:57:27,620
+of these insurances, Disability Insurance, if it's offered privately,
+
+1242
+00:57:27,620 --> 00:57:29,620
+is that it's not going to be a disability.
+
+1243
+00:57:29,620 --> 00:57:31,620
+It's going to be a selection bias problem.
+
+1244
+00:57:31,620 --> 00:57:35,620
+That some people who realize that they are going
+
+1245
+00:57:35,620 --> 00:57:39,620
+to have a disability will buy the insurance right away.
+
+1246
+00:57:39,620 --> 00:57:45,620
+And then we have health insurance.
+
+1247
+00:57:45,620 --> 00:57:49,120
+I don't want to use the U.S. as an example for
+
+1248
+00:57:49,120 --> 00:57:52,620
+this, because we're kind of a laggard on most of these things.
+
+1249
+00:57:52,620 --> 00:57:54,620
+But we had a new health
+
+1250
+00:57:54,620 --> 00:57:56,620
+bill that passed under Obama last year.
+
+1251
+00:57:56,620 --> 00:57:58,620
+And it's starting to gear up.
+
+1252
+00:57:58,620 --> 00:58:01,120
+But the U.S. is not
+
+1253
+00:58:01,120 --> 00:58:03,620
+the world leader in health insurance.
+
+1254
+00:58:03,620 --> 00:58:07,120
+But it has currently about 40
+
+1255
+00:58:07,120 --> 00:58:10,620
+million people with no health insurance.
+
+1256
+00:58:10,620 --> 00:58:19,620
+And then there's workers' compensation.
+
+1257
+00:58:19,620 --> 00:58:24,620
+These are the main aspects of social insurance today.
+
+1258
+00:58:24,620 --> 00:58:26,620
+Workers' compensation is an older form of health insurance.
+
+1259
+00:58:26,620 --> 00:58:29,620
+That preceded health insurance.
+
+1260
+00:58:29,620 --> 00:58:31,620
+At least in the United States.
+
+1261
+00:58:31,620 --> 00:58:35,620
+And it compensates workers for
+
+1262
+00:58:35,620 --> 00:58:39,620
+accidents that occurred at work.
+
+1263
+00:58:39,620 --> 00:58:42,120
+And in the U.S., this
+
+1264
+00:58:42,120 --> 00:58:44,620
+came in in the Progressive Era.
+
+1265
+00:58:44,620 --> 00:58:48,120
+But all these are risk management
+
+1266
+00:58:48,120 --> 00:58:51,620
+devices that are offered by governments.
+
+1267
+00:58:51,620 --> 00:58:56,620
+Now, these social insurance schemes are really important.
+
+1268
+00:58:56,620 --> 00:58:59,620
+They're relatively recent innovations.
+
+1269
+00:58:59,620 --> 00:59:09,120
+And in fact, I think that the first national, I know that, the
+
+1270
+00:59:09,120 --> 00:59:18,620
+first national social insurance programs began in Germany in the late 19th century.
+
+1271
+00:59:18,620 --> 00:59:22,120
+So, another theme of this course has been
+
+1272
+00:59:22,120 --> 00:59:25,620
+that the ability to do things like this,
+
+1273
+00:59:26,620 --> 00:59:31,620
+requires a developed society with a certain technology.
+
+1274
+00:59:31,620 --> 00:59:34,120
+With an information technology,
+
+1275
+00:59:34,120 --> 00:59:36,620
+with a bureaucratic technology.
+
+1276
+00:59:36,620 --> 00:59:39,620
+And they haven't been around for that long.
+
+1277
+00:59:39,620 --> 00:59:43,620
+If you go back in history, 200, 300
+
+1278
+00:59:43,620 --> 00:59:47,620
+or more years, there wasn't social insurance anywhere.
+
+1279
+00:59:47,620 --> 00:59:51,620
+Maybe there was in some isolated community.
+
+1280
+00:59:51,620 --> 00:59:54,620
+But basically, it didn't exist.
+
+1281
+00:59:54,620 --> 00:59:59,620
+And so, the history of social insurance is interesting.
+
+1282
+00:59:59,620 --> 01:00:04,620
+And I think it mimics,
+
+1283
+01:00:04,620 --> 01:00:09,620
+it reflects information technology growth.
+
+1284
+01:00:09,620 --> 01:00:14,620
+So, the country that is most remarkable
+
+1285
+01:00:14,620 --> 01:00:19,620
+for having invented social insurance is Germany.
+
+1286
+01:00:19,620 --> 01:00:23,620
+Under Otto von Bismarck.
+
+1287
+01:00:23,620 --> 01:00:26,620
+In the 1880s.
+
+1288
+01:00:26,620 --> 01:00:31,120
+And I think that it happened
+
+1289
+01:00:31,120 --> 01:00:35,620
+there first, because of the information technology.
+
+1290
+01:00:35,620 --> 01:00:44,620
+But it's an interesting story.
+
+1291
+01:00:44,620 --> 01:00:48,620
+There were various attempts to start social
+
+1292
+01:00:48,620 --> 01:00:52,620
+insurance in different parts of the world,
+
+1293
+01:00:52,620 --> 01:00:54,620
+that were half-hearted and failed.
+
+1294
+01:00:54,620 --> 01:00:58,120
+In the United Kingdom, in the late
+
+1295
+01:00:58,120 --> 01:01:01,620
+1700s, there was a town called Spanumland.
+
+1296
+01:01:01,620 --> 01:01:04,620
+A tiny town in the UK.
+
+1297
+01:01:04,620 --> 01:01:07,620
+That decided they would start social insurance.
+
+1298
+01:01:07,620 --> 01:01:10,120
+And they decided that there was a living
+
+1299
+01:01:10,120 --> 01:01:12,620
+wage that anyone ought to be able to earn.
+
+1300
+01:01:12,620 --> 01:01:14,620
+And anyone who earned less than that,
+
+1301
+01:01:14,620 --> 01:01:16,620
+would have the difference paid by the town.
+
+1302
+01:01:16,620 --> 01:01:20,620
+So, the town, it's called the Spanumland Law.
+
+1303
+01:01:20,620 --> 01:01:21,620
+And that town was called Spanumland.
+
+1304
+01:01:21,620 --> 01:01:26,620
+And that town offered to pay the difference.
+
+1305
+01:01:26,620 --> 01:01:28,620
+The problem was, it didn't work.
+
+1306
+01:01:28,620 --> 01:01:32,620
+Too many people reported that they were getting
+
+1307
+01:01:32,620 --> 01:01:36,620
+less income than the living income that they defined.
+
+1308
+01:01:36,620 --> 01:01:43,620
+And the town discovered it was being ripped off.
+
+1309
+01:01:43,620 --> 01:01:46,620
+And so, they couldn't, the problem is, they
+
+1310
+01:01:46,620 --> 01:01:49,620
+couldn't identify what a person's income really was accurately.
+
+1311
+01:01:49,620 --> 01:01:52,620
+They couldn't tell whether someone was goofing off or not.
+
+1312
+01:01:52,620 --> 01:01:56,620
+And so, they dropped it.
+
+1313
+01:01:56,620 --> 01:01:59,620
+It was, I think there are
+
+1314
+01:01:59,620 --> 01:02:02,620
+other examples of failed experiments like this.
+
+1315
+01:02:02,620 --> 01:02:11,620
+But, it took hold first in Germany in the 1880s.
+
+1316
+01:02:11,620 --> 01:02:18,620
+And they got accident insurance.
+
+1317
+01:02:19,620 --> 01:02:22,620
+Health insurance.
+
+1318
+01:02:22,620 --> 01:02:31,620
+And old age insurance, or retirement.
+
+1319
+01:02:31,620 --> 01:02:35,620
+For everyone in Germany in the 1880s.
+
+1320
+01:02:35,620 --> 01:02:38,120
+And it was considered a fiasco
+
+1321
+01:02:38,120 --> 01:02:40,620
+by other countries of the world.
+
+1322
+01:02:40,620 --> 01:02:44,120
+When Germany announced these plans to create social
+
+1323
+01:02:44,120 --> 01:02:47,620
+insurance, the London Times wrote an article saying,
+
+1324
+01:02:47,620 --> 01:02:48,620
+this whole thing is a fiasco.
+
+1325
+01:02:48,620 --> 01:02:51,620
+This whole thing will fall through and fail.
+
+1326
+01:02:51,620 --> 01:02:57,620
+The government is going to run all of these insurance policies for something like, I
+
+1327
+01:02:57,620 --> 01:03:03,620
+don't know how many, I think there were 11 million workers in Germany at the time.
+
+1328
+01:03:03,620 --> 01:03:06,620
+And in London they said, you've got to be kidding.
+
+1329
+01:03:06,620 --> 01:03:09,120
+No government in the world has
+
+1330
+01:03:09,120 --> 01:03:11,620
+ever managed to run something like this.
+
+1331
+01:03:11,620 --> 01:03:16,620
+Let's think particularly about retirement insurance.
+
+1332
+01:03:16,620 --> 01:03:22,120
+The German government set up a plan whereby people would
+
+1333
+01:03:22,120 --> 01:03:27,620
+contribute over their working lives to the Social Security system.
+
+1334
+01:03:27,620 --> 01:03:31,620
+And the system would then, years later, 30, 40
+
+1335
+01:03:31,620 --> 01:03:35,620
+years later, keep a tab about how much they'd contributed.
+
+1336
+01:03:35,620 --> 01:03:37,120
+And then pay them a pension
+
+1337
+01:03:37,120 --> 01:03:38,620
+for the rest of their lives.
+
+1338
+01:03:38,620 --> 01:03:41,620
+So, the Times wondered aloud, are
+
+1339
+01:03:41,620 --> 01:03:44,620
+they going to mess this up?
+
+1340
+01:03:44,620 --> 01:03:45,620
+They've got to keep records for 40 years.
+
+1341
+01:03:45,620 --> 01:03:48,620
+They were talking about the government keeping records.
+
+1342
+01:03:48,620 --> 01:03:52,620
+And they thought nobody can really manage to
+
+1343
+01:03:52,620 --> 01:03:56,620
+do this, and that it will collapse and ruin.
+
+1344
+01:03:56,620 --> 01:03:58,620
+But it didn't.
+
+1345
+01:03:58,620 --> 01:04:02,120
+The Germans managed to do this
+
+1346
+01:04:02,120 --> 01:04:05,620
+in the 1880s for the first time.
+
+1347
+01:04:05,620 --> 01:04:08,620
+And actually, it was an idea
+
+1348
+01:04:08,620 --> 01:04:11,620
+that was copied all over the world.
+
+1349
+01:04:11,620 --> 01:04:12,620
+So, why is it that Germany
+
+1350
+01:04:12,620 --> 01:04:13,620
+was able to do something like this?
+
+1351
+01:04:13,620 --> 01:04:14,620
+Why?
+
+1352
+01:04:14,620 --> 01:04:16,620
+Because it was a very important thing.
+
+1353
+01:04:16,620 --> 01:04:18,620
+It was a very important thing.
+
+1354
+01:04:18,620 --> 01:04:22,120
+And it was a very important thing for the German government to be able
+
+1355
+01:04:22,120 --> 01:04:25,620
+to do something like this in the 1880s, when it was not doable anywhere else.
+
+1356
+01:04:25,620 --> 01:04:27,620
+It had never been done until that time.
+
+1357
+01:04:27,620 --> 01:04:33,620
+I think this has to do ultimately with technology.
+
+1358
+01:04:33,620 --> 01:04:38,120
+And technology, particularly information technology, was
+
+1359
+01:04:38,120 --> 01:04:42,620
+advancing rapidly in the 19th century.
+
+1360
+01:04:42,620 --> 01:04:49,120
+So, what happened in Europe that made
+
+1361
+01:04:49,120 --> 01:04:55,620
+it possible to institute these radical new ideas?
+
+1362
+01:04:55,620 --> 01:05:00,620
+So, I just give a list of one thing.
+
+1363
+01:05:00,620 --> 01:05:03,620
+Paper.
+
+1364
+01:05:03,620 --> 01:05:05,620
+This is information technology, but you don't think.
+
+1365
+01:05:05,620 --> 01:05:08,620
+In the 18th century, paper,
+
+1366
+01:05:08,620 --> 01:05:11,620
+ordinary paper, was very expensive.
+
+1367
+01:05:11,620 --> 01:05:14,620
+Because it was made from cloth in those days.
+
+1368
+01:05:14,620 --> 01:05:17,620
+They didn't know how to make paper from wood.
+
+1369
+01:05:17,620 --> 01:05:20,620
+And it had to be handmade.
+
+1370
+01:05:20,620 --> 01:05:24,620
+As a result, if you bought a newspaper
+
+1371
+01:05:24,620 --> 01:05:28,620
+in, say, 1790, it would be just one page.
+
+1372
+01:05:28,620 --> 01:05:31,620
+And it would be printed on the smallest print.
+
+1373
+01:05:31,620 --> 01:05:33,620
+Because it was just so expensive.
+
+1374
+01:05:33,620 --> 01:05:36,120
+It would cost you like $20
+
+1375
+01:05:36,120 --> 01:05:38,620
+in today's prices to buy one newspaper.
+
+1376
+01:05:38,620 --> 01:05:40,620
+Then they invented the paper machine.
+
+1377
+01:05:40,620 --> 01:05:42,620
+That made it mechanically.
+
+1378
+01:05:42,620 --> 01:05:44,620
+And they made it out of wood pulp.
+
+1379
+01:05:44,620 --> 01:05:47,620
+And suddenly, the cost of paper went down.
+
+1380
+01:05:47,620 --> 01:05:50,620
+By the way, I found an
+
+1381
+01:05:50,620 --> 01:05:53,620
+old textbook from Yale University from 1837.
+
+1382
+01:05:53,620 --> 01:05:57,620
+It's still sitting there on the shelf in the library.
+
+1383
+01:05:57,620 --> 01:05:58,620
+I was looking.
+
+1384
+01:05:58,620 --> 01:06:01,620
+We were using a Principles of
+
+1385
+01:06:01,620 --> 01:06:04,620
+Economics textbook for all Yale students.
+
+1386
+01:06:04,620 --> 01:06:06,620
+They all had to take the same course.
+
+1387
+01:06:06,620 --> 01:06:07,620
+And it was a nice little book.
+
+1388
+01:06:07,620 --> 01:06:08,620
+But it was so small.
+
+1389
+01:06:08,620 --> 01:06:09,620
+I picked it up.
+
+1390
+01:06:09,620 --> 01:06:10,620
+I mean, it was so small.
+
+1391
+01:06:10,620 --> 01:06:12,620
+It was like that big.
+
+1392
+01:06:12,620 --> 01:06:14,620
+You could put it in your pocket.
+
+1393
+01:06:14,620 --> 01:06:17,620
+I think it's because books were just expensive.
+
+1394
+01:06:17,620 --> 01:06:20,620
+You have these huge textbooks now, right?
+
+1395
+01:06:20,620 --> 01:06:21,620
+They weigh so much.
+
+1396
+01:06:21,620 --> 01:06:24,620
+They probably challenge your back.
+
+1397
+01:06:24,620 --> 01:06:26,620
+Back then, you could carry your books.
+
+1398
+01:06:26,620 --> 01:06:29,620
+There was a fundamental economic difference.
+
+1399
+01:06:29,620 --> 01:06:32,620
+And so, paper was one of the things.
+
+1400
+01:06:32,620 --> 01:06:34,620
+And you never got a receipt for anything.
+
+1401
+01:06:34,620 --> 01:06:36,120
+When you bought something, you go to a store
+
+1402
+01:06:36,120 --> 01:06:37,620
+and buy something, you think you'd get a receipt?
+
+1403
+01:06:37,620 --> 01:06:39,620
+Absolutely not.
+
+1404
+01:06:39,620 --> 01:06:41,620
+You would buy a copy of something.
+
+1405
+01:06:41,620 --> 01:06:43,620
+You would buy a copy of something.
+
+1406
+01:06:43,620 --> 01:06:45,620
+Well, they wouldn't know why.
+
+1407
+01:06:45,620 --> 01:06:47,620
+But that's the ultimate reason.
+
+1408
+01:06:47,620 --> 01:06:49,620
+Too expensive.
+
+1409
+01:06:49,620 --> 01:06:52,620
+So, they invented paper, too.
+
+1410
+01:06:52,620 --> 01:06:54,620
+Carbon paper.
+
+1411
+01:06:54,620 --> 01:06:57,620
+Do you people even know what this is?
+
+1412
+01:06:57,620 --> 01:07:00,620
+Anyone here heard of carbon paper?
+
+1413
+01:07:00,620 --> 01:07:01,620
+Maybe.
+
+1414
+01:07:01,620 --> 01:07:02,620
+I don't know.
+
+1415
+01:07:02,620 --> 01:07:05,120
+It used to be that when you wanted to make
+
+1416
+01:07:05,120 --> 01:07:07,620
+a copy of something, you didn't have any copying machines,
+
+1417
+01:07:07,620 --> 01:07:09,620
+you just had to write on it.
+
+1418
+01:07:09,620 --> 01:07:10,620
+I don't know if I
+
+1419
+01:07:10,620 --> 01:07:11,620
+have to explain this to you.
+
+1420
+01:07:11,620 --> 01:07:13,620
+You know what carbon paper is?
+
+1421
+01:07:13,620 --> 01:07:15,620
+You put it between two sheets of paper, and you write
+
+1422
+01:07:15,620 --> 01:07:17,620
+on the upper one, and it comes through on the lower one.
+
+1423
+01:07:17,620 --> 01:07:20,620
+This was never invented until the 19th century.
+
+1424
+01:07:20,620 --> 01:07:22,620
+Nobody had carbon paper.
+
+1425
+01:07:22,620 --> 01:07:24,620
+You couldn't make copies of any.
+
+1426
+01:07:24,620 --> 01:07:26,620
+There was no way to make a copy.
+
+1427
+01:07:26,620 --> 01:07:29,620
+They hadn't invented photography yet.
+
+1428
+01:07:29,620 --> 01:07:32,620
+They had no way to make a copy.
+
+1429
+01:07:32,620 --> 01:07:35,620
+You had to just hand copy everything.
+
+1430
+01:07:35,620 --> 01:07:36,620
+And so,
+
+1431
+01:07:37,620 --> 01:07:39,620
+the first copying machine, maybe I mentioned
+
+1432
+01:07:39,620 --> 01:07:41,620
+that, didn't come until the 20th century.
+
+1433
+01:07:41,620 --> 01:07:44,620
+And they were photographic.
+
+1434
+01:07:44,620 --> 01:07:48,620
+And the typewriter.
+
+1435
+01:07:48,620 --> 01:07:51,620
+That was invented in the 1870s.
+
+1436
+01:07:51,620 --> 01:07:55,620
+Now, it may seem like a small thing, but it
+
+1437
+01:07:55,620 --> 01:07:59,620
+was a very important thing, because you could make accurate documents.
+
+1438
+01:07:59,620 --> 01:08:01,620
+And they were not subject
+
+1439
+01:08:01,620 --> 01:08:03,620
+to misinterpretation because of sloppy handwriting.
+
+1440
+01:08:03,620 --> 01:08:05,620
+I'm doing sloppy handwriting here for you.
+
+1441
+01:08:05,620 --> 01:08:06,620
+But,
+
+1442
+01:08:07,620 --> 01:08:10,620
+I'm using the old technology here.
+
+1443
+01:08:10,620 --> 01:08:11,620
+But,
+
+1444
+01:08:11,620 --> 01:08:14,620
+the typewriter, and you could also make many copies.
+
+1445
+01:08:14,620 --> 01:08:17,620
+You could make six copies at once with carbon paper.
+
+1446
+01:08:17,620 --> 01:08:19,620
+And they're all exactly the same.
+
+1447
+01:08:19,620 --> 01:08:21,120
+You can file them in a different,
+
+1448
+01:08:21,120 --> 01:08:22,620
+each one in a different filing cabinet.
+
+1449
+01:08:22,620 --> 01:08:27,620
+For standardized forms,
+
+1450
+01:08:27,620 --> 01:08:29,620
+these are forms that had fill
+
+1451
+01:08:29,620 --> 01:08:31,620
+in the blank with the typewriter.
+
+1452
+01:08:31,620 --> 01:08:33,620
+They had filing cabinets.
+
+1453
+01:08:37,620 --> 01:08:39,620
+And finally,
+
+1454
+01:08:39,620 --> 01:08:40,620
+bureaucracy developed.
+
+1455
+01:08:40,620 --> 01:08:43,620
+They had management school, particularly in Germany.
+
+1456
+01:08:43,620 --> 01:08:46,120
+It was famous for its
+
+1457
+01:08:46,120 --> 01:08:48,620
+management schools and its business schools.
+
+1458
+01:08:48,620 --> 01:08:50,620
+So, you had,
+
+1459
+01:08:50,620 --> 01:08:55,620
+oh, I should add also postal service.
+
+1460
+01:08:55,620 --> 01:09:00,620
+If you wanted to mail a letter in 1790,
+
+1461
+01:09:00,620 --> 01:09:01,620
+you'd have trouble.
+
+1462
+01:09:01,620 --> 01:09:03,620
+And it would cost you a lot.
+
+1463
+01:09:03,620 --> 01:09:06,620
+Most people in 1790 got maybe one letter a year,
+
+1464
+01:09:06,620 --> 01:09:08,620
+or two letters a year.
+
+1465
+01:09:08,620 --> 01:09:09,620
+That was it.
+
+1466
+01:09:09,620 --> 01:09:10,620
+But,
+
+1467
+01:09:10,620 --> 01:09:12,620
+in the 19th century, they started setting
+
+1468
+01:09:12,620 --> 01:09:14,620
+up post offices all over the world.
+
+1469
+01:09:14,620 --> 01:09:17,120
+And the Germans were particularly good
+
+1470
+01:09:17,120 --> 01:09:19,620
+at this kind of bureaucratic thing.
+
+1471
+01:09:19,620 --> 01:09:21,620
+So, there were post offices in every town.
+
+1472
+01:09:21,620 --> 01:09:23,620
+And the Social Security system
+
+1473
+01:09:23,620 --> 01:09:25,620
+operated through the post offices.
+
+1474
+01:09:25,620 --> 01:09:27,620
+Because once you have post offices in every town,
+
+1475
+01:09:27,620 --> 01:09:31,620
+you would go to make your payments on Social Security
+
+1476
+01:09:31,620 --> 01:09:32,620
+at the post office.
+
+1477
+01:09:32,620 --> 01:09:34,120
+And they would give you stamps,
+
+1478
+01:09:34,120 --> 01:09:35,620
+and you'd paste them on a card.
+
+1479
+01:09:35,620 --> 01:09:36,620
+And that's what they did.
+
+1480
+01:09:36,620 --> 01:09:43,620
+And that's how you could show that you had paid.
+
+1481
+01:09:43,620 --> 01:09:48,620
+So, I think that this kind of information technology
+
+1482
+01:09:48,620 --> 01:09:52,620
+brought us the Social Security system.
+
+1483
+01:09:52,620 --> 01:09:56,120
+And the kinds of advances in
+
+1484
+01:09:56,120 --> 01:09:59,620
+information technology that we've seen more recently
+
+1485
+01:09:59,620 --> 01:10:02,620
+will eventually lead to changes in the system.
+
+1486
+01:10:02,620 --> 01:10:05,620
+Ultimately, technology drives finance.
+
+1487
+01:10:05,620 --> 01:10:15,620
+And the system responds to changes in technology.
+
+1488
+01:10:15,620 --> 01:10:20,620
+All right.
+
+1489
+01:10:20,620 --> 01:10:22,620
+So, I just wanted to just wrap up.
+
+1490
+01:10:22,620 --> 01:10:27,120
+I talked today about a broader
+
+1491
+01:10:27,120 --> 01:10:31,620
+social purpose that's served by our finance.
+
+1492
+01:10:31,620 --> 01:10:34,620
+And it takes place in terms of for-profit.
+
+1493
+01:10:35,620 --> 01:10:37,620
+As well as non-profit.
+
+1494
+01:10:37,620 --> 01:10:40,120
+But the distinction between for-profit
+
+1495
+01:10:40,120 --> 01:10:42,620
+and non-profit is a subtle one.
+
+1496
+01:10:42,620 --> 01:10:46,620
+I think what happens is, people think of a purpose,
+
+1497
+01:10:46,620 --> 01:10:48,620
+of something they want to achieve.
+
+1498
+01:10:48,620 --> 01:10:51,120
+And then they think, how
+
+1499
+01:10:51,120 --> 01:10:53,620
+can I use our financial technology
+
+1500
+01:10:53,620 --> 01:10:58,620
+to incentivize people to subscribe capital to this project,
+
+1501
+01:10:58,620 --> 01:11:02,620
+or to give their personal attention to this project.
+
+1502
+01:11:02,620 --> 01:11:04,620
+And then we have,
+
+1503
+01:11:04,620 --> 01:11:07,620
+our system of finance has a lot of things,
+
+1504
+01:11:07,620 --> 01:11:11,120
+a lot of devices that
+
+1505
+01:11:11,120 --> 01:11:14,620
+can allow the provenance of capital.
+
+1506
+01:11:14,620 --> 01:11:19,620
+And that allow, and that will incentivize people.
+
+1507
+01:11:19,620 --> 01:11:25,620
+So, I think another theme of
+
+1508
+01:11:25,620 --> 01:11:31,620
+this course has been behavioral finance.
+
+1509
+01:11:31,620 --> 01:11:33,620
+That I think people are psychological.
+
+1510
+01:11:33,620 --> 01:11:35,620
+They have emotions.
+
+1511
+01:11:35,620 --> 01:11:40,620
+And they react in complicated ways.
+
+1512
+01:11:40,620 --> 01:11:43,620
+One of the oldest themes of
+
+1513
+01:11:43,620 --> 01:11:46,620
+economics is that people respond to incentives.
+
+1514
+01:11:46,620 --> 01:11:52,620
+But they respond to, please to their morality as well,
+
+1515
+01:11:52,620 --> 01:11:55,620
+or their ideals as well.
+
+1516
+01:11:55,620 --> 01:11:57,620
+When we talk about non-profit sector,
+
+1517
+01:11:57,620 --> 01:12:02,620
+it seems that the financial arrangements reflecting,
+
+1518
+01:12:02,620 --> 01:12:08,620
+the combination of selfish money oriented incentives,
+
+1519
+01:12:08,620 --> 01:12:12,620
+and more social purpose incentives.
+
+1520
+01:12:12,620 --> 01:12:15,620
+And the same thing goes with government activities.
+
+1521
+01:12:15,620 --> 01:12:20,620
+Anyway, I guess I have one more lecture,
+
+1522
+01:12:20,620 --> 01:12:24,120
+and I'm going to talk next time
+
+1523
+01:12:24,120 --> 01:12:27,620
+more broadly about what finance offers us,
+
+1524
+01:12:27,620 --> 01:12:31,620
+and how it allows us to achieve social purposes.
+
+1525
+01:12:32,620 --> 01:12:33,010
+And thanks so much for being here.
+
