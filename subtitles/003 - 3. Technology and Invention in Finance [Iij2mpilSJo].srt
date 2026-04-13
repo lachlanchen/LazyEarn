@@ -1,0 +1,5199 @@
+1
+00:00:00,000 --> 00:00:02,000
+Good morning.
+
+2
+00:00:02,000 --> 00:00:04,400
+Today I decided not to use PowerPoint.
+
+3
+00:00:04,400 --> 00:00:06,400
+I'm using index cards.
+
+4
+00:00:06,400 --> 00:00:10,600
+This is traditional lecture style.
+
+5
+00:00:10,600 --> 00:00:15,800
+I wanted to talk today about, this is our third lecture for
+
+6
+00:00:15,800 --> 00:00:19,800
+financial markets, and I wanted to talk today about invention
+
+7
+00:00:19,800 --> 00:00:21,800
+in finance.
+
+8
+00:00:21,800 --> 00:00:26,800
+And this is about, I think of finance, I don't know whether
+
+9
+00:00:26,800 --> 00:00:30,800
+this will encourage you to be interested or not, but I think
+
+10
+00:00:30,800 --> 00:00:33,800
+of it as a form of engineering.
+
+11
+00:00:33,800 --> 00:00:40,800
+Finance is all about inventions, devices that solve
+
+12
+00:00:40,800 --> 00:00:46,800
+problems and that help people do things and get on with their
+
+13
+00:00:46,800 --> 00:00:48,800
+purposes in life.
+
+14
+00:00:48,800 --> 00:00:54,800
+And the inventions have many small details, just like any
+
+15
+00:00:54,800 --> 00:00:55,800
+invention.
+
+16
+00:00:55,800 --> 00:00:56,800
+Like this.
+
+17
+00:00:56,800 --> 00:00:57,800
+It's like an airplane.
+
+18
+00:00:57,800 --> 00:01:01,800
+If you look at an airplane, how many parts are in there?
+
+19
+00:01:01,800 --> 00:01:05,800
+How many different people worked on the different parts?
+
+20
+00:01:05,800 --> 00:01:09,300
+And it's so complicated that you might have disbelief that
+
+21
+00:01:09,300 --> 00:01:14,300
+this whole thing is going to work, but somehow it does work.
+
+22
+00:01:14,300 --> 00:01:18,300
+Another part that I want to emphasize in today's lecture
+
+23
+00:01:18,300 --> 00:01:25,800
+is that engineering requires a human element.
+
+24
+00:01:25,800 --> 00:01:30,800
+And engineers know that their devices will be run by people.
+
+25
+00:01:30,800 --> 00:01:32,800
+And people are imperfect.
+
+26
+00:01:32,800 --> 00:01:36,800
+And so, they have a course in engineering schools called
+
+27
+00:01:36,800 --> 00:01:38,800
+Human Factors Engineering.
+
+28
+00:01:38,800 --> 00:01:43,800
+And that's about designing machines so that human beings
+
+29
+00:01:43,800 --> 00:01:46,800
+won't mess up when they try to use them.
+
+30
+00:01:46,800 --> 00:01:51,800
+And so, that gets us into psychology.
+
+31
+00:01:51,800 --> 00:01:54,800
+So, I think, to me, when we talk about behavioral findings,
+
+32
+00:01:54,800 --> 00:01:58,800
+which is going to be a theme of this course, human psychology
+
+33
+00:01:58,800 --> 00:02:02,800
+and finance, it's fundamental to the inventive side of
+
+34
+00:02:02,800 --> 00:02:03,800
+finance.
+
+35
+00:02:03,800 --> 00:02:05,800
+So, that's what I want to talk about.
+
+36
+00:02:05,800 --> 00:02:08,800
+I'm going to give you some examples of invention and talk
+
+37
+00:02:08,800 --> 00:02:14,800
+about how they solve the risk problem, the fundamental
+
+38
+00:02:14,800 --> 00:02:18,800
+problem of maintaining incentives in the face of risks.
+
+39
+00:02:18,800 --> 00:02:22,800
+But before I start this lecture, I wanted to just briefly review
+
+40
+00:02:22,800 --> 00:02:23,800
+the last lecture.
+
+41
+00:02:23,800 --> 00:02:27,800
+Which was a very important lecture for this course.
+
+42
+00:02:27,800 --> 00:02:31,800
+Because it talked about the underlying probability theory
+
+43
+00:02:31,800 --> 00:02:37,800
+and applications of probability theory to finance.
+
+44
+00:02:37,800 --> 00:02:40,800
+So, let me just mention some of the concepts that I talked
+
+45
+00:02:40,800 --> 00:02:41,800
+about last time.
+
+46
+00:02:41,800 --> 00:02:44,800
+The first one was return.
+
+47
+00:02:44,800 --> 00:02:48,800
+We talked about the return on an investment, which has two
+
+48
+00:02:48,800 --> 00:02:49,800
+components.
+
+49
+00:02:49,800 --> 00:02:52,800
+The capital gain, which is the increase in the price of the
+
+50
+00:02:52,800 --> 00:02:53,800
+investment.
+
+51
+00:02:53,800 --> 00:02:56,800
+And the other is the dividend, which is something that comes
+
+52
+00:02:56,800 --> 00:03:00,800
+separately as in the form of a check, maybe, or an electronic
+
+53
+00:03:00,800 --> 00:03:04,800
+entry.
+
+54
+00:03:04,800 --> 00:03:07,800
+But we then moved quickly to probability theory.
+
+55
+00:03:07,800 --> 00:03:10,800
+We talked about random variables.
+
+56
+00:03:10,800 --> 00:03:14,800
+A random variable is a quantity that's created by some kind of
+
+57
+00:03:14,800 --> 00:03:19,800
+experiment or event that is uncertain in advance and becomes
+
+58
+00:03:19,800 --> 00:03:21,800
+known later.
+
+59
+00:03:21,800 --> 00:03:23,800
+And then we talked about measures.
+
+60
+00:03:23,800 --> 00:03:26,800
+We talked about the probability distribution.
+
+61
+00:03:26,800 --> 00:03:28,800
+We talked about probability distribution.
+
+62
+00:03:28,800 --> 00:03:30,800
+We talked about probability distributions.
+
+63
+00:03:30,800 --> 00:03:32,800
+We talked about central tendency.
+
+64
+00:03:32,800 --> 00:03:37,800
+And we talked about the average or mean and the geometric
+
+65
+00:03:37,800 --> 00:03:38,800
+average.
+
+66
+00:03:38,800 --> 00:03:44,800
+And we talked about measures of risk.
+
+67
+00:03:44,800 --> 00:03:49,800
+Notably, variance.
+
+68
+00:03:49,800 --> 00:03:52,800
+But then there's also measures of co-movement between two
+
+69
+00:03:52,800 --> 00:03:53,800
+factors.
+
+70
+00:03:53,800 --> 00:03:56,800
+So, we talked about variance and correlation.
+
+71
+00:03:56,800 --> 00:03:59,800
+And we talked about regression.
+
+72
+00:03:59,800 --> 00:04:05,800
+And then finally, we talked about distributions of random
+
+73
+00:04:05,800 --> 00:04:11,800
+variables and the normal distribution, which is famous.
+
+74
+00:04:11,800 --> 00:04:15,800
+It's the famous bell-shaped curve, which is thought by many
+
+75
+00:04:15,800 --> 00:04:19,800
+people to represent a typical distribution.
+
+76
+00:04:19,800 --> 00:04:22,800
+And it's one of the failures of the assumption.
+
+77
+00:04:22,800 --> 00:04:26,800
+The idea of independent random variables that are normally
+
+78
+00:04:26,800 --> 00:04:29,800
+distributed is a powerful idea.
+
+79
+00:04:29,800 --> 00:04:32,800
+We have some idea that there's a bell-shaped curve, and we know
+
+80
+00:04:32,800 --> 00:04:36,800
+something about what relates to what and what doesn't relate to
+
+81
+00:04:36,800 --> 00:04:37,800
+what.
+
+82
+00:04:37,800 --> 00:04:41,800
+And these ideas are partly intuitive, and they're partly
+
+83
+00:04:41,800 --> 00:04:42,800
+wrong.
+
+84
+00:04:42,800 --> 00:04:46,800
+And so, the concluding element of the last lecture was that the
+
+85
+00:04:46,800 --> 00:04:49,800
+financial crisis that has enveloped the world in the
+
+86
+00:04:49,800 --> 00:04:54,800
+world, starting around 2007, seems to be related to people's
+
+87
+00:04:54,800 --> 00:04:57,800
+failure to understand the limits of the independence
+
+88
+00:04:57,800 --> 00:04:59,800
+assumption they were making.
+
+89
+00:04:59,800 --> 00:05:07,800
+And also, to the limits of the normal distribution, namely,
+
+90
+00:05:07,800 --> 00:05:11,800
+failure to consider outliers.
+
+91
+00:05:11,800 --> 00:05:14,800
+So, let's just think about independence briefly for a
+
+92
+00:05:14,800 --> 00:05:15,800
+moment.
+
+93
+00:05:15,800 --> 00:05:19,800
+It's inherent in the intuitive view we have of the world.
+
+94
+00:05:19,800 --> 00:05:23,800
+If you toss a coin, every time you toss it, you think, each
+
+95
+00:05:23,800 --> 00:05:26,800
+toss has to be independent of the previous toss.
+
+96
+00:05:26,800 --> 00:05:29,800
+They're not going to come up the same, because there's
+
+97
+00:05:29,800 --> 00:05:31,800
+nothing relating the two tosses.
+
+98
+00:05:31,800 --> 00:05:35,800
+So, you have a strong intuitive sense that some events are
+
+99
+00:05:35,800 --> 00:05:37,800
+independent.
+
+100
+00:05:37,800 --> 00:05:42,800
+You might also think that returns on the stock market from
+
+101
+00:05:42,800 --> 00:05:45,800
+day to day are independent.
+
+102
+00:05:45,800 --> 00:05:46,800
+Why is that?
+
+103
+00:05:46,800 --> 00:05:48,800
+Well, because they relate to news.
+
+104
+00:05:48,800 --> 00:05:49,800
+Right?
+
+105
+00:05:49,800 --> 00:05:51,800
+You can't use the stock market on any day.
+
+106
+00:05:51,800 --> 00:05:52,800
+It's news.
+
+107
+00:05:52,800 --> 00:05:55,800
+And by definition, news has to be new.
+
+108
+00:05:55,800 --> 00:05:57,800
+So, it can't just be yesterday's news.
+
+109
+00:05:57,800 --> 00:05:59,800
+So, it has to be something fresh.
+
+110
+00:05:59,800 --> 00:06:04,800
+And I showed you a plot of the stock market and of Apple stock.
+
+111
+00:06:04,800 --> 00:06:10,800
+And in this plot, it came out that the stocks look roughly
+
+112
+00:06:10,800 --> 00:06:13,800
+independent, the returns from day to day.
+
+113
+00:06:13,800 --> 00:06:16,800
+But they're not necessarily independent, and they can
+
+114
+00:06:16,800 --> 00:06:17,800
+surprise you.
+
+115
+00:06:17,800 --> 00:06:18,800
+And that's when crises occurs.
+
+116
+00:06:18,800 --> 00:06:22,800
+We also talked about idiosyncratic risk and market
+
+117
+00:06:22,800 --> 00:06:23,800
+risk.
+
+118
+00:06:23,800 --> 00:06:27,800
+Remember, we regressed Apple stock's returns on the stock
+
+119
+00:06:27,800 --> 00:06:29,800
+market's returns.
+
+120
+00:06:29,800 --> 00:06:34,800
+And then we got a fitted value, which was beta times the market
+
+121
+00:06:34,800 --> 00:06:35,800
+return.
+
+122
+00:06:35,800 --> 00:06:38,800
+And that's the market component of Apple risk.
+
+123
+00:06:38,800 --> 00:06:43,800
+And then we saw that the extra component, idiosyncratic, is
+
+124
+00:06:43,800 --> 00:06:45,800
+uncorrelated with the market risk.
+
+125
+00:06:45,800 --> 00:06:47,800
+But in this case, it's uncorrelated by construction.
+
+126
+00:06:47,800 --> 00:06:51,800
+So, it has to be uncorrelated.
+
+127
+00:06:51,800 --> 00:06:54,800
+Oh, by the way, I don't know if you caught the news.
+
+128
+00:06:54,800 --> 00:06:57,800
+It's just coincidence that I mentioned Apple stock in my
+
+129
+00:06:57,800 --> 00:06:58,800
+last lecture.
+
+130
+00:06:58,800 --> 00:06:59,800
+You must have heard the news.
+
+131
+00:06:59,800 --> 00:07:03,800
+It was headline news in the Wall Street Journal.
+
+132
+00:07:03,800 --> 00:07:06,800
+We had a three-day weekend because of the Martin Luther
+
+133
+00:07:06,800 --> 00:07:09,800
+King holiday in the U.S.
+
+134
+00:07:09,800 --> 00:07:14,800
+And over the weekend, Apple announced that Steve Jobs is
+
+135
+00:07:14,800 --> 00:07:16,800
+taking a long break.
+
+136
+00:07:16,800 --> 00:07:22,800
+And he was on leave of absence from Apple because of his
+
+137
+00:07:22,800 --> 00:07:23,800
+health.
+
+138
+00:07:23,800 --> 00:07:27,800
+And so, we talked about that.
+
+139
+00:07:27,800 --> 00:07:31,800
+Steve Jobs is viewed by a lot of people as the genius behind
+
+140
+00:07:31,800 --> 00:07:32,800
+Apple.
+
+141
+00:07:32,800 --> 00:07:35,800
+And the last time he left for a long time, Apple didn't do
+
+142
+00:07:35,800 --> 00:07:36,800
+well.
+
+143
+00:07:36,800 --> 00:07:39,800
+And so, you wonder what would happen to the stock.
+
+144
+00:07:39,800 --> 00:07:44,800
+Well, since they announced it on a day just before the market
+
+145
+00:07:44,800 --> 00:07:45,800
+was closed.
+
+146
+00:07:45,800 --> 00:07:47,800
+It opened in Europe.
+
+147
+00:07:47,800 --> 00:07:53,800
+And there was a 7% drop in Germany of Apple shares.
+
+148
+00:07:53,800 --> 00:07:58,800
+It opened down 5% on Tuesday in the U.S.
+
+149
+00:07:58,800 --> 00:07:59,800
+But then it recovered.
+
+150
+00:07:59,800 --> 00:08:00,800
+And it wasn't really down that much.
+
+151
+00:08:00,800 --> 00:08:04,800
+Probably because there was good earnings news at the same time.
+
+152
+00:08:04,800 --> 00:08:08,800
+That's just completing our little story about Apple.
+
+153
+00:08:08,800 --> 00:08:13,800
+So, I want to say something.
+
+154
+00:08:13,800 --> 00:08:19,800
+I don't know if I gave enough emphasis to the central limit
+
+155
+00:08:19,800 --> 00:08:24,800
+theorem yesterday, last lecture.
+
+156
+00:08:24,800 --> 00:08:31,800
+This is a fundamental theorem from probability theory, which
+
+157
+00:08:31,800 --> 00:08:40,800
+says that if you have independent identity, you can
+
+158
+00:08:40,800 --> 00:08:55,800
+distribute identically distributed random variables.
+
+159
+00:08:55,800 --> 00:09:00,800
+That is, every random variable is independent of the other,
+
+160
+00:09:00,800 --> 00:09:03,800
+and they all have the same distribution.
+
+161
+00:09:03,800 --> 00:09:08,800
+And if it has a finite variance, then the distribution of an
+
+162
+00:09:08,800 --> 00:09:10,800
+average distribution of a random variable, which is a finite
+
+163
+00:09:10,800 --> 00:09:17,800
+average of these variables, converges to the normal distribution
+
+164
+00:09:17,800 --> 00:09:22,800
+as the number of elements in the average is increased.
+
+165
+00:09:22,800 --> 00:09:26,800
+In other words, averages are approximately normally distributed.
+
+166
+00:09:26,800 --> 00:09:32,800
+The bell-shaped curve works as well as it does, because so many
+
+167
+00:09:32,800 --> 00:09:35,800
+things we observe in nature are averages.
+
+168
+00:09:35,800 --> 00:09:38,800
+So many things that we observe are the sum of many effects.
+
+169
+00:09:38,800 --> 00:09:40,800
+This is what history is all about.
+
+170
+00:09:40,800 --> 00:09:44,800
+Anytime big events occur, it's probably because a number of
+
+171
+00:09:44,800 --> 00:09:47,800
+things chance to happen at the same time.
+
+172
+00:09:47,800 --> 00:09:52,800
+And that's why probability theorists think that we know,
+
+173
+00:09:52,800 --> 00:09:56,800
+we kind of know the probability distribution of, and that's this
+
+174
+00:09:56,800 --> 00:10:02,800
+bell-shaped curve, which I had on a slide last period.
+
+175
+00:10:02,800 --> 00:10:05,800
+The critical thing about the bell-shaped curve is that the
+
+176
+00:10:05,800 --> 00:10:09,800
+tails drop off really fast after you get a certain distance out.
+
+177
+00:10:09,800 --> 00:10:11,800
+And either way, they essentially hit zero.
+
+178
+00:10:11,800 --> 00:10:13,800
+They never hit zero.
+
+179
+00:10:13,800 --> 00:10:19,800
+The probability is never zero that anything can happen with a
+
+180
+00:10:19,800 --> 00:10:22,800
+normally distributed variable.
+
+181
+00:10:22,800 --> 00:10:29,800
+But the normal distribution does not have fat tails.
+
+182
+00:10:29,800 --> 00:10:33,800
+After two or three or four standard deviations, basically
+
+183
+00:10:33,800 --> 00:10:37,800
+the probability is zero that that kind of thing will happen,
+
+184
+00:10:37,800 --> 00:10:39,800
+that it returns.
+
+185
+00:10:39,800 --> 00:10:43,800
+And we can't even predict the return if we're applying it to
+
+186
+00:10:43,800 --> 00:10:47,800
+returns, that that would occur.
+
+187
+00:10:47,800 --> 00:10:51,800
+So, the problem with the central limit theorem is that
+
+188
+00:10:51,800 --> 00:10:53,800
+it's only as good as its assumptions.
+
+189
+00:10:53,800 --> 00:10:57,800
+And it assumes that the underlying variables have a
+
+190
+00:10:57,800 --> 00:10:59,800
+finite variance.
+
+191
+00:10:59,800 --> 00:11:04,800
+That they themselves are not so fat-tailed that the variance of
+
+192
+00:11:04,800 --> 00:11:06,800
+them is infinite.
+
+193
+00:11:06,800 --> 00:11:09,800
+And in fact, that assumption might be wrong.
+
+194
+00:11:09,800 --> 00:11:14,800
+Because we see, especially in finance, we see big outliers
+
+195
+00:11:14,800 --> 00:11:19,800
+coming from time to time.
+
+196
+00:11:19,800 --> 00:11:22,800
+And so, I have to present a theory and say, I like the
+
+197
+00:11:22,800 --> 00:11:24,800
+theory, the central limit theorem is an important theory,
+
+198
+00:11:24,800 --> 00:11:26,800
+but it's also wrong.
+
+199
+00:11:26,800 --> 00:11:29,800
+That's the problem with financial theory.
+
+200
+00:11:29,800 --> 00:11:33,800
+It's not quite as good as the theory that physicists or
+
+201
+00:11:33,800 --> 00:11:35,800
+chemists use.
+
+202
+00:11:35,800 --> 00:11:37,800
+It has its limitations.
+
+203
+00:11:37,800 --> 00:11:40,800
+Nonetheless, that's what we have to talk about.
+
+204
+00:11:40,800 --> 00:11:46,800
+And we have to make do with that as much as we can.
+
+205
+00:11:46,800 --> 00:11:49,800
+I wanted to just correct, also, I'm almost done with my review
+
+206
+00:11:49,800 --> 00:11:51,800
+of the last lecture.
+
+207
+00:11:51,800 --> 00:11:54,800
+I wanted to just correct what I said.
+
+208
+00:11:54,800 --> 00:11:58,800
+I said that fat-tailed distributions were discovered
+
+209
+00:11:58,800 --> 00:12:01,800
+by Benoit Mandelbrot.
+
+210
+00:12:01,800 --> 00:12:06,800
+But that's, I have to give credit properly, it's actually
+
+211
+00:12:06,800 --> 00:12:09,800
+his teacher, so I've got this now.
+
+212
+00:12:09,800 --> 00:12:22,800
+There was Pierre, I'm sorry, Paul Pierre Lévy, was a
+
+213
+00:12:22,800 --> 00:12:27,800
+mathematician who lived from 1886 to 1971, who really first
+
+214
+00:12:27,800 --> 00:12:31,800
+developed the theory of fat-tailed distribution.
+
+215
+00:12:31,800 --> 00:12:35,800
+And he was at the École Polytechnique de l'Histoire,
+
+216
+00:12:35,800 --> 00:12:38,800
+Polytechnique in France.
+
+217
+00:12:38,800 --> 00:12:46,800
+And his student was Benoit Mandelbrot, who was one of the
+
+218
+00:12:46,800 --> 00:12:48,800
+great mathematicians.
+
+219
+00:12:48,800 --> 00:12:51,800
+Well, they were both among the great mathematicians of the
+
+220
+00:12:51,800 --> 00:12:52,800
+20th century.
+
+221
+00:12:55,800 --> 00:12:59,800
+So, I think we, our knowledge of fat-tailed distribution
+
+222
+00:12:59,800 --> 00:13:02,800
+comes down to us through word of mouth.
+
+223
+00:13:02,800 --> 00:13:04,800
+From Lévy, who was Mandelbrot's teacher, to
+
+224
+00:13:04,800 --> 00:13:07,800
+Mandelbrot, to me, and then to you, I think.
+
+225
+00:13:07,800 --> 00:13:11,800
+So, we don't require any printed word to know this.
+
+226
+00:13:11,800 --> 00:13:15,800
+That's the way the history of thought goes.
+
+227
+00:13:15,800 --> 00:13:18,800
+So, there's an old joke about the normal distribution.
+
+228
+00:13:18,800 --> 00:13:22,800
+It said that, the joke goes as follows.
+
+229
+00:13:22,800 --> 00:13:27,800
+The mathematicians think that the normal distribution is
+
+230
+00:13:27,800 --> 00:13:31,800
+ubiquitous in nature because of the fact that the distribution
+
+231
+00:13:31,800 --> 00:13:32,800
+is ubiquitous.
+
+232
+00:13:32,800 --> 00:13:36,800
+And the fact is, the distribution is ubiquitous in
+
+233
+00:13:36,800 --> 00:13:40,800
+nature because applied workers have discovered that everything
+
+234
+00:13:40,800 --> 00:13:42,800
+is normally distributed.
+
+235
+00:13:42,800 --> 00:13:46,800
+But applied workers think that the normal distribution is
+
+236
+00:13:46,800 --> 00:13:49,800
+ubiquitous in nature because mathematicians have proved that
+
+237
+00:13:49,800 --> 00:13:52,800
+it's ubiquitous in nature.
+
+238
+00:13:52,800 --> 00:13:55,800
+In fact, it's sort of ubiquitous, but it sort of
+
+239
+00:13:55,800 --> 00:13:56,800
+surprises you.
+
+240
+00:13:56,800 --> 00:14:00,800
+And that's one of the fundamental lessons in finance.
+
+241
+00:14:00,800 --> 00:14:02,800
+The fundamental lesson in finance is that you might go
+
+242
+00:14:02,800 --> 00:14:05,800
+into a business and you're observing some random return or
+
+243
+00:14:05,800 --> 00:14:07,800
+some random variable in finance.
+
+244
+00:14:07,800 --> 00:14:10,800
+And you kind of think you know how it behaves, and you've
+
+245
+00:14:10,800 --> 00:14:12,800
+learned some confidence.
+
+246
+00:14:12,800 --> 00:14:16,800
+There will come a day when it defies all of your expectations.
+
+247
+00:14:16,800 --> 00:14:21,800
+And that's what fat tails are about.
+
+248
+00:14:21,800 --> 00:14:28,800
+So, OK, I want to move on now to today's lecture, which is
+
+249
+00:14:28,800 --> 00:14:30,800
+about invention.
+
+250
+00:14:30,800 --> 00:14:33,800
+And particularly, financial invention.
+
+251
+00:14:33,800 --> 00:14:40,800
+And a lot of, how should I start here?
+
+252
+00:14:40,800 --> 00:14:58,800
+Let me start by recalling how much finance has changed since
+
+253
+00:14:58,800 --> 00:14:59,800
+19-
+
+254
+00:14:59,800 --> 00:15:00,800
+19-
+
+255
+00:15:00,800 --> 00:15:03,800
+1970.
+
+256
+00:15:03,800 --> 00:15:07,800
+OK, that's 40 years ago.
+
+257
+00:15:07,800 --> 00:15:16,800
+In 1970, there were no options exchanges.
+
+258
+00:15:16,800 --> 00:15:19,800
+Well, there were options, but they were not traded on any
+
+259
+00:15:19,800 --> 00:15:21,800
+exchange.
+
+260
+00:15:21,800 --> 00:15:25,800
+There were no financial futures.
+
+261
+00:15:30,800 --> 00:15:33,800
+There were no swaps.
+
+262
+00:15:33,800 --> 00:15:38,800
+I haven't defined what these things are for you.
+
+263
+00:15:38,800 --> 00:15:40,800
+What else did they not have?
+
+264
+00:15:40,800 --> 00:15:46,800
+They didn't have electronic trading.
+
+265
+00:15:46,800 --> 00:15:49,800
+They would do trading by word of mouth.
+
+266
+00:15:49,800 --> 00:15:53,800
+They would meet together on the floor of an exchange and shout
+
+267
+00:15:53,800 --> 00:15:55,800
+at each other and talk.
+
+268
+00:15:55,800 --> 00:15:59,800
+I guess they had telephones, but it was all words and people.
+
+269
+00:15:59,800 --> 00:16:02,800
+And writing on paper.
+
+270
+00:16:02,800 --> 00:16:10,800
+So, that's the proliferation of financial instruments in 40 years
+
+271
+00:16:10,800 --> 00:16:13,800
+is stunning.
+
+272
+00:16:13,800 --> 00:16:17,800
+And so, I wanted to use that as a springboard to think about,
+
+273
+00:16:17,800 --> 00:16:20,800
+what is the next 40 years going to be like?
+
+274
+00:16:20,800 --> 00:16:24,800
+And if any of you go into finance, this will be your career.
+
+275
+00:16:24,800 --> 00:16:28,800
+I think that it's reasonable to suppose that the transformation in the
+
+276
+00:16:28,800 --> 00:16:33,800
+next 40 years is going to be just as dramatic as the last 40
+
+277
+00:16:33,800 --> 00:16:35,800
+years, or more so.
+
+278
+00:16:35,800 --> 00:16:39,800
+Because technical progress doesn't slow down.
+
+279
+00:16:39,800 --> 00:16:45,800
+I don't see any reason to think that it's slowing down.
+
+280
+00:16:45,800 --> 00:16:48,800
+So, I like to think about the future, but it's hard to talk
+
+281
+00:16:48,800 --> 00:16:51,800
+about the future, because we're not there yet.
+
+282
+00:16:51,800 --> 00:16:53,800
+I've written a couple of books.
+
+283
+00:16:53,800 --> 00:16:56,800
+One of them is really about the future of finance.
+
+284
+00:16:56,800 --> 00:16:58,800
+And I think it's really important to think about the future of
+
+285
+00:16:58,800 --> 00:16:59,800
+finance.
+
+286
+00:16:59,800 --> 00:17:05,800
+One of them is called Macro Markets, which I wrote in 1993,
+
+287
+00:17:05,800 --> 00:17:06,800
+about the big market.
+
+288
+00:17:06,800 --> 00:17:09,800
+Macro means big markets that we'll be seeing in the future.
+
+289
+00:17:09,800 --> 00:17:12,800
+And the other one was called New Financial Order, which I wrote
+
+290
+00:17:12,800 --> 00:17:14,800
+in 2003.
+
+291
+00:17:14,800 --> 00:17:16,800
+And we have the introductory chapter there on the reading
+
+292
+00:17:16,800 --> 00:17:21,800
+list for this lecture.
+
+293
+00:17:21,800 --> 00:17:28,800
+But the basic, what I see is happening with all of these,
+
+294
+00:17:28,800 --> 00:17:31,800
+the big markets, and the big markets, and the big markets
+
+295
+00:17:31,800 --> 00:17:34,800
+are the ones that are going to be the big markets.
+
+296
+00:17:34,800 --> 00:17:38,800
+Incidentally, we have a lot of questioning of these inventions
+
+297
+00:17:38,800 --> 00:17:41,800
+now, because they kind of blew up on us in this financial
+
+298
+00:17:41,800 --> 00:17:42,800
+crisis.
+
+299
+00:17:42,800 --> 00:17:46,800
+So, it's a little bit like after an airplane crash, people
+
+300
+00:17:46,800 --> 00:17:49,800
+are kind of critical of the aeronautical engineers for a
+
+301
+00:17:49,800 --> 00:17:50,800
+while.
+
+302
+00:17:50,800 --> 00:17:54,800
+Or when they invented steam engines, some of them blew up.
+
+303
+00:17:54,800 --> 00:17:55,800
+And it was bad.
+
+304
+00:17:55,800 --> 00:17:57,800
+You know, when a boiler blows up, it scalds all the people
+
+305
+00:17:57,800 --> 00:17:59,800
+who were mad at them for a while.
+
+306
+00:17:59,800 --> 00:18:01,800
+I think that's what we're going through now.
+
+307
+00:18:01,800 --> 00:18:05,800
+And people are angry about some of these inventions.
+
+308
+00:18:05,800 --> 00:18:11,800
+But that's just part of progress.
+
+309
+00:18:11,800 --> 00:18:14,800
+Well, it doesn't mean that we don't want to regulate them.
+
+310
+00:18:14,800 --> 00:18:18,800
+We regulate boilers and airplanes right now to prevent
+
+311
+00:18:18,800 --> 00:18:22,800
+crashes, and we need to regulate our financial markets
+
+312
+00:18:22,800 --> 00:18:23,800
+just as well.
+
+313
+00:18:23,800 --> 00:18:25,800
+But, yeah.
+
+314
+00:18:25,800 --> 00:18:26,800
+Thank you.
+
+315
+00:18:26,800 --> 00:18:27,800
+Thank you.
+
+316
+00:18:27,800 --> 00:18:43,800
+So, the financial markets that we have, they're based on
+
+317
+00:18:43,800 --> 00:18:44,800
+mathematical models.
+
+318
+00:18:44,800 --> 00:18:47,800
+This is a mathematical discipline, but the
+
+319
+00:18:47,800 --> 00:18:52,800
+mathematical models depend only on certain intuition.
+
+320
+00:18:52,800 --> 00:18:56,800
+Maybe a core part of the intuition that underlies the
+
+321
+00:18:56,800 --> 00:19:04,800
+financial inventions is the idea of independence.
+
+322
+00:19:04,800 --> 00:19:07,800
+And that if risks are, I'm going to try and talk in
+
+323
+00:19:07,800 --> 00:19:08,800
+really basic terms.
+
+324
+00:19:08,800 --> 00:19:11,800
+If risks are independent of each other, then we can pull
+
+325
+00:19:11,800 --> 00:19:14,800
+them and they go away.
+
+326
+00:19:14,800 --> 00:19:18,800
+That's the core idea.
+
+327
+00:19:18,800 --> 00:19:22,800
+But how to make that happen requires some thought and some
+
+328
+00:19:22,800 --> 00:19:24,800
+devices.
+
+329
+00:19:24,800 --> 00:19:30,800
+The intuitive idea that we can exploit independence to improve
+
+330
+00:19:30,800 --> 00:19:34,800
+our lives goes back to ancient times, actually.
+
+331
+00:19:34,800 --> 00:19:39,800
+A lot of things that people do are done in recognition of what
+
+332
+00:19:39,800 --> 00:19:42,800
+is independent and what is not.
+
+333
+00:19:42,800 --> 00:19:46,800
+I think even in big causes that people get emotional about over
+
+334
+00:19:46,800 --> 00:19:52,800
+the ages are causes that, I can think of them as examples of the
+
+335
+00:19:52,800 --> 00:19:55,800
+probability theory in modern finance.
+
+336
+00:19:55,800 --> 00:19:59,800
+So, you might not agree with me, but this is my view of it.
+
+337
+00:19:59,800 --> 00:20:01,800
+Think of socialism.
+
+338
+00:20:01,800 --> 00:20:03,800
+What is socialism?
+
+339
+00:20:03,800 --> 00:20:06,800
+Well, you know it was invented by the philosopher or
+
+340
+00:20:06,800 --> 00:20:08,800
+entrepreneur Robert Owen.
+
+341
+00:20:08,800 --> 00:20:12,800
+The word was invented by him in the early 19th century.
+
+342
+00:20:12,800 --> 00:20:13,800
+But what is it?
+
+343
+00:20:13,800 --> 00:20:17,800
+It is that society gets together and pools all of its activities.
+
+344
+00:20:17,800 --> 00:20:19,800
+And I think, well, why would you want to do that?
+
+345
+00:20:19,800 --> 00:20:22,800
+Well, one reason you do that is that it improves
+
+346
+00:20:22,800 --> 00:20:25,800
+human welfare, because it shares risks.
+
+347
+00:20:25,800 --> 00:20:29,800
+And we're all in it together, and we won't have rich and poor.
+
+348
+00:20:29,800 --> 00:20:32,800
+I think that's part of Robert Owen's idea.
+
+349
+00:20:32,800 --> 00:20:36,800
+He was worried about inequality, that some people are much better
+
+350
+00:20:36,800 --> 00:20:38,800
+off than others, and that's bad.
+
+351
+00:20:38,800 --> 00:20:41,800
+And so, let's create a socialist society.
+
+352
+00:20:41,800 --> 00:20:46,800
+So, he had an invention of sorts, but it didn't seem to be a very
+
+353
+00:20:46,800 --> 00:20:50,800
+– in his form, it was not a very successful invention, because
+
+354
+00:20:50,800 --> 00:20:51,800
+there was –
+
+355
+00:20:51,800 --> 00:20:53,800
+it didn't work somehow.
+
+356
+00:20:53,800 --> 00:20:57,800
+He set up a town called New Harmony in the United States,
+
+357
+00:20:57,800 --> 00:21:00,800
+which was supposed to be harmonious by the name of the town,
+
+358
+00:21:00,800 --> 00:21:02,800
+and everything was shared.
+
+359
+00:21:02,800 --> 00:21:05,800
+And unfortunately, they ended up arguing and fighting
+
+360
+00:21:05,800 --> 00:21:07,800
+amongst each other, and they were not happy.
+
+361
+00:21:07,800 --> 00:21:09,800
+He didn't get it figured out right.
+
+362
+00:21:09,800 --> 00:21:12,800
+He was trying to pool risks, but he didn't do it.
+
+363
+00:21:12,800 --> 00:21:16,800
+There are other idealistic societies that try to do it,
+
+364
+00:21:16,800 --> 00:21:19,800
+like the kibbutzim in Israel, but that's one of many,
+
+365
+00:21:19,800 --> 00:21:21,800
+where people get together and do it.
+
+366
+00:21:21,800 --> 00:21:24,800
+They get together and form a community, and they pool
+
+367
+00:21:24,800 --> 00:21:27,800
+everything, and it kind of works for some people.
+
+368
+00:21:27,800 --> 00:21:31,800
+But only a tiny fraction of the population in Israel lives on a
+
+369
+00:21:31,800 --> 00:21:33,800
+kibbutz now.
+
+370
+00:21:33,800 --> 00:21:34,800
+Why not?
+
+371
+00:21:34,800 --> 00:21:37,800
+I think most people just don't fit in that way.
+
+372
+00:21:37,800 --> 00:21:40,800
+We share everything.
+
+373
+00:21:40,800 --> 00:21:43,800
+After a few months living there, you might think, I'm out of here.
+
+374
+00:21:43,800 --> 00:21:48,800
+I don't want to share everything with everybody.
+
+375
+00:21:48,800 --> 00:21:49,800
+So, people do things.
+
+376
+00:21:49,800 --> 00:21:55,800
+And in the old west, the pioneers in America, they had
+
+377
+00:21:55,800 --> 00:21:59,800
+kind of a social compact that if one farmer's house burned
+
+378
+00:21:59,800 --> 00:22:02,800
+down, everyone will come by and help and erect a new house for
+
+379
+00:22:02,800 --> 00:22:03,800
+that person.
+
+380
+00:22:03,800 --> 00:22:06,800
+So, that's, again, risk management.
+
+381
+00:22:06,800 --> 00:22:07,800
+And it works.
+
+382
+00:22:07,800 --> 00:22:11,800
+It sounds almost like a moral thing, but it works only
+
+383
+00:22:11,800 --> 00:22:13,800
+because they don't all burn down at the same time.
+
+384
+00:22:13,800 --> 00:22:17,800
+It would be totally worthless if they all did.
+
+385
+00:22:17,800 --> 00:22:20,800
+And so, there are primitive ideas of insurance that underlie
+
+386
+00:22:20,800 --> 00:22:23,800
+that, but the ideas aren't worked out well.
+
+387
+00:22:23,800 --> 00:22:26,800
+And it doesn't, perhaps, work well to do it on such an
+
+388
+00:22:26,800 --> 00:22:27,800
+informal basis.
+
+389
+00:22:27,800 --> 00:22:33,800
+So, our society has particular inventions that, we call them
+
+390
+00:22:33,800 --> 00:22:35,800
+financial or insurance inventions, that make these
+
+391
+00:22:35,800 --> 00:22:37,800
+things work better.
+
+392
+00:22:37,800 --> 00:22:46,800
+And so, what we're talking about is motivated by theory.
+
+393
+00:22:46,800 --> 00:22:48,800
+And the mathematical theory of finance.
+
+394
+00:22:48,800 --> 00:22:50,800
+But that's not the subject of this course.
+
+395
+00:22:50,800 --> 00:22:53,800
+I want to, in this course, talk more about the inventions
+
+396
+00:22:53,800 --> 00:22:56,800
+themselves.
+
+397
+00:22:56,800 --> 00:23:04,800
+And in particular, we'll be talking about risk management.
+
+398
+00:23:04,800 --> 00:23:08,800
+Now, this brings up a basic issue about finance.
+
+399
+00:23:08,800 --> 00:23:10,800
+Is finance good?
+
+400
+00:23:10,800 --> 00:23:14,800
+Is it helpful to people?
+
+401
+00:23:14,800 --> 00:23:16,800
+A huge issue.
+
+402
+00:23:16,800 --> 00:23:22,800
+A huge issue in the history of humankind is inequality.
+
+403
+00:23:22,800 --> 00:23:26,800
+And that people get upset when it seems like other people
+
+404
+00:23:26,800 --> 00:23:29,800
+have an unfair advantage over us.
+
+405
+00:23:29,800 --> 00:23:32,800
+But inequality is something that you'd think finance
+
+406
+00:23:32,800 --> 00:23:33,800
+works against.
+
+407
+00:23:33,800 --> 00:23:36,800
+Modern finance is about risk management.
+
+408
+00:23:36,800 --> 00:23:39,800
+So, you can get rid of the purely random element in
+
+409
+00:23:39,800 --> 00:23:40,800
+people's lives.
+
+410
+00:23:40,800 --> 00:23:43,800
+That should make people more equal.
+
+411
+00:23:43,800 --> 00:23:44,800
+And it should be a good thing.
+
+412
+00:23:44,800 --> 00:23:46,800
+That is the way I view it.
+
+413
+00:23:46,800 --> 00:23:49,800
+And the other side of finance is that it also creates
+
+414
+00:23:49,800 --> 00:23:50,800
+opportunity.
+
+415
+00:23:50,800 --> 00:23:53,800
+And opportunity is very important also.
+
+416
+00:23:53,800 --> 00:23:56,800
+We can all be equal in living in poverty, and we don't
+
+417
+00:23:56,800 --> 00:23:58,800
+particularly like that.
+
+418
+00:23:58,800 --> 00:24:05,800
+So, that's why financial inventions eventually inspire
+
+419
+00:24:05,800 --> 00:24:07,800
+and get people excited.
+
+420
+00:24:07,800 --> 00:24:10,800
+I always remember Deng Xiaoping's famous statement in
+
+421
+00:24:10,800 --> 00:24:16,800
+the late 1970s, when China was adopting modern financial
+
+422
+00:24:16,800 --> 00:24:19,800
+methods, and some people were getting rich.
+
+423
+00:24:19,800 --> 00:24:24,800
+And someone asked Deng, isn't this inconsistent with our
+
+424
+00:24:24,800 --> 00:24:26,800
+ideology?
+
+425
+00:24:26,800 --> 00:24:29,800
+And then he said, well, I'm quoting him approximately,
+
+426
+00:24:29,800 --> 00:24:32,800
+we're all going to get rich, but somebody has to get rich
+
+427
+00:24:32,800 --> 00:24:33,800
+first.
+
+428
+00:24:33,800 --> 00:24:35,800
+And that's the way it is.
+
+429
+00:24:35,800 --> 00:24:40,800
+Financial markets, they do manage risk, but they also
+
+430
+00:24:40,800 --> 00:24:43,800
+create opportunities, and that can actually increase
+
+431
+00:24:43,800 --> 00:24:45,800
+inequality.
+
+432
+00:24:45,800 --> 00:24:48,800
+So, you have to consider both sides of this.
+
+433
+00:24:48,800 --> 00:24:57,800
+So, maybe the most important concept in finance really is
+
+434
+00:24:57,800 --> 00:24:59,800
+risk.
+
+435
+00:24:59,800 --> 00:25:05,800
+And risk is all about limiting inequality, or at least the
+
+436
+00:25:05,800 --> 00:25:09,800
+random, gratuitous inequality, right?
+
+437
+00:25:09,800 --> 00:25:14,800
+People are troubled by, you know, the idea that you can
+
+438
+00:25:14,800 --> 00:25:21,800
+get rich, but you're troubled by inequality if it's arbitrary.
+
+439
+00:25:21,800 --> 00:25:24,800
+But, you know, most people won't begrudge someone who
+
+440
+00:25:24,800 --> 00:25:29,800
+works very hard and shows real genius and insight and makes a
+
+441
+00:25:29,800 --> 00:25:30,800
+lot of money.
+
+442
+00:25:30,800 --> 00:25:33,800
+Most people say that's all right.
+
+443
+00:25:33,800 --> 00:25:37,800
+But we have trouble dealing, now, part of the way we deal
+
+444
+00:25:37,800 --> 00:25:42,800
+with risk is our taxes, tax and welfare system.
+
+445
+00:25:42,800 --> 00:25:45,800
+So, our tax and welfare, I'm going to come back to that
+
+446
+00:25:45,800 --> 00:25:48,800
+mostly in our last, second to the last lecture.
+
+447
+00:25:48,800 --> 00:25:53,800
+But we have a progressive income tax that taxes rich
+
+448
+00:25:53,800 --> 00:25:56,800
+people more, and we have welfare.
+
+449
+00:25:56,800 --> 00:25:59,800
+And we also, I should add, it's not counted as welfare, but
+
+450
+00:25:59,800 --> 00:26:04,800
+free public education, which is a form of, I wouldn't call it
+
+451
+00:26:04,800 --> 00:26:07,800
+welfare, but it's equalizing expenditure.
+
+452
+00:26:07,800 --> 00:26:10,800
+These are actually our most important risk management
+
+453
+00:26:10,800 --> 00:26:11,800
+devices.
+
+454
+00:26:11,800 --> 00:26:15,800
+That's what makes life tolerable in modern society,
+
+455
+00:26:15,800 --> 00:26:21,800
+that we do have progressive taxes and welfare.
+
+456
+00:26:21,800 --> 00:26:24,800
+But we don't rely on those exclusively.
+
+457
+00:26:24,800 --> 00:26:28,800
+And so, finance is getting into the other dimensions.
+
+458
+00:26:28,800 --> 00:26:32,800
+And we kind of want to let insurance, private insurance,
+
+459
+00:26:32,800 --> 00:26:35,800
+rather than social insurance flourish.
+
+460
+00:26:35,800 --> 00:26:38,800
+Because when the government handles everything, it doesn't
+
+461
+00:26:38,800 --> 00:26:39,800
+matter what the government does.
+
+462
+00:26:39,800 --> 00:26:40,800
+It doesn't matter what the government does.
+
+463
+00:26:40,800 --> 00:26:42,800
+It doesn't matter what the government does.
+
+464
+00:26:42,800 --> 00:26:44,800
+It doesn't matter what the government does.
+
+465
+00:26:44,800 --> 00:26:47,800
+It doesn't seem to work as effectively or creatively as it
+
+466
+00:26:47,800 --> 00:26:55,800
+can if we let private entrepreneurs handle things.
+
+467
+00:26:55,800 --> 00:27:01,800
+So, what we're talking about here, to always put it in
+
+468
+00:27:01,800 --> 00:27:05,800
+perspective, what we're talking about in this course is about
+
+469
+00:27:05,800 --> 00:27:10,800
+something that is an add-on to an existing welfare and taxes
+
+470
+00:27:10,800 --> 00:27:17,800
+system, but an add-on that is, we hope, particularly effective.
+
+471
+00:27:17,800 --> 00:27:22,800
+And it's added on by people in their own self-interest, or
+
+472
+00:27:22,800 --> 00:27:28,800
+maybe for their own purposes, but something that ultimately
+
+473
+00:27:28,800 --> 00:27:32,800
+contributes to, I think, a better world.
+
+474
+00:27:32,800 --> 00:27:38,800
+And that's what I want to.
+
+475
+00:27:38,800 --> 00:27:40,800
+So, I have several themes in this.
+
+476
+00:27:40,800 --> 00:27:45,800
+The first is a risk theme, which I've just discussed.
+
+477
+00:27:45,800 --> 00:27:53,800
+Another theme I want to talk about here is a framing theme.
+
+478
+00:27:53,800 --> 00:28:00,800
+And that is that psychologists use the term framing to refer
+
+479
+00:28:00,800 --> 00:28:08,800
+to the context and associations that we have with something.
+
+480
+00:28:08,800 --> 00:28:15,800
+So, the way people use things depends on what they see them
+
+481
+00:28:15,800 --> 00:28:22,800
+associated with, because people can't think through to the
+
+482
+00:28:22,800 --> 00:28:25,800
+fundamental theory all the time.
+
+483
+00:28:25,800 --> 00:28:29,800
+So, we have to frame things in a way that's convenient to people.
+
+484
+00:28:29,800 --> 00:28:31,800
+And this is part of financial engineering.
+
+485
+00:28:31,800 --> 00:28:35,800
+I'll come back to that in a minute.
+
+486
+00:28:35,800 --> 00:28:37,800
+But then.
+
+487
+00:28:37,800 --> 00:28:42,800
+But framing has to do with language and names that we give to things.
+
+488
+00:28:42,800 --> 00:28:50,800
+We have to design inventions so that they are framed in good ways.
+
+489
+00:28:50,800 --> 00:28:52,800
+We'll explain that in a minute.
+
+490
+00:28:52,800 --> 00:28:54,800
+And then I have a device theme.
+
+491
+00:28:54,800 --> 00:29:01,800
+That finance is really about devices, like steam engines.
+
+492
+00:29:01,800 --> 00:29:05,800
+We call them financial contracts.
+
+493
+00:29:05,800 --> 00:29:18,800
+And devices are complicated structures that we set up for a certain purpose.
+
+494
+00:29:18,800 --> 00:29:22,800
+And like airplanes or automobiles.
+
+495
+00:29:22,800 --> 00:29:29,800
+And we learn through time how to make them better and better.
+
+496
+00:29:29,800 --> 00:29:33,800
+And they tend to get.
+
+497
+00:29:33,800 --> 00:29:37,800
+They tend to come on the world with a flourish, a surprise.
+
+498
+00:29:37,800 --> 00:29:40,800
+There's some new invention.
+
+499
+00:29:40,800 --> 00:29:47,800
+You know, when the Wright brothers first exhibited the airplane in the Paris Air Show in 1904,
+
+500
+00:29:47,800 --> 00:29:49,800
+I think, and people were stunned.
+
+501
+00:29:49,800 --> 00:29:51,800
+They were actually flying.
+
+502
+00:29:51,800 --> 00:29:59,800
+And it immediately set up around the world, the aircraft industry.
+
+503
+00:29:59,800 --> 00:30:02,800
+If you look around the world, these devices look very similar.
+
+504
+00:30:02,800 --> 00:30:07,800
+Automobiles, airplanes, they look almost the same in every country.
+
+505
+00:30:07,800 --> 00:30:14,800
+But that's because they have an internal logic to them that makes them work well.
+
+506
+00:30:14,800 --> 00:30:19,800
+And the logic may not be apparent to you.
+
+507
+00:30:19,800 --> 00:30:25,800
+You might not, probably generally don't fully understand why a device works as well as it does.
+
+508
+00:30:25,800 --> 00:30:28,800
+Well, I have an example of a simple invention.
+
+509
+00:30:28,800 --> 00:30:30,800
+And I was curious.
+
+510
+00:30:30,800 --> 00:30:32,800
+I haven't used this example before.
+
+511
+00:30:32,800 --> 00:30:36,800
+I'm going to show you how many of you use this invention.
+
+512
+00:30:36,800 --> 00:30:40,800
+Do you know what a gimlet is?
+
+513
+00:30:40,800 --> 00:30:44,800
+How many of you own a gimlet?
+
+514
+00:30:44,800 --> 00:30:45,800
+Nobody.
+
+515
+00:30:45,800 --> 00:30:47,800
+Nobody owns a gimlet.
+
+516
+00:30:47,800 --> 00:30:52,800
+Can someone tell me what a gimlet is?
+
+517
+00:30:52,800 --> 00:30:54,800
+It's amazing.
+
+518
+00:30:54,800 --> 00:30:58,800
+I shouldn't be.
+
+519
+00:30:58,800 --> 00:31:00,800
+A gimlet is a simple tool
+
+520
+00:31:00,800 --> 00:31:04,800
+that everyone used to have 100 years ago.
+
+521
+00:31:04,800 --> 00:31:09,800
+And what does it look like?
+
+522
+00:31:16,800 --> 00:31:18,800
+It's made out of wire.
+
+523
+00:31:26,800 --> 00:31:28,800
+This is a handle.
+
+524
+00:31:28,800 --> 00:31:29,800
+Okay?
+
+525
+00:31:29,800 --> 00:31:31,800
+Do you have a gimlet now?
+
+526
+00:31:31,800 --> 00:31:33,800
+Now that I've drawn a picture of it?
+
+527
+00:31:33,800 --> 00:31:38,800
+So, what you did with those, they were really cheap.
+
+528
+00:31:38,800 --> 00:31:40,800
+You could buy one in 1820.
+
+529
+00:31:40,800 --> 00:31:43,800
+Go to a hardware store in downtown New Haven.
+
+530
+00:31:43,800 --> 00:31:45,800
+They'd have a whole set of them.
+
+531
+00:31:45,800 --> 00:31:47,800
+And you use it to make holes.
+
+532
+00:31:47,800 --> 00:31:49,800
+It works really well.
+
+533
+00:31:49,800 --> 00:31:51,800
+I find you can buy them on the Internet.
+
+534
+00:31:51,800 --> 00:31:52,800
+I bought one out of curiosity.
+
+535
+00:31:52,800 --> 00:31:53,800
+And now I use it.
+
+536
+00:31:53,800 --> 00:31:57,800
+The point is that inventions come and go.
+
+537
+00:31:57,800 --> 00:32:02,800
+The nice thing about a gimlet is, it's really nice.
+
+538
+00:32:02,800 --> 00:32:04,800
+It comes to a pinpoint.
+
+539
+00:32:04,800 --> 00:32:06,800
+And if you want to make a hole in wood,
+
+540
+00:32:06,800 --> 00:32:11,800
+you just push it in, and it goes exactly where you want it.
+
+541
+00:32:11,800 --> 00:32:14,800
+And then you just turn it a little bit, and it goes right in.
+
+542
+00:32:14,800 --> 00:32:18,800
+Well, we have electric drills now, right?
+
+543
+00:32:18,800 --> 00:32:21,800
+We're kind of used to the problem.
+
+544
+00:32:21,800 --> 00:32:23,800
+Once you start using a gimlet, you love it.
+
+545
+00:32:23,800 --> 00:32:26,800
+Because you can control it so well.
+
+546
+00:32:26,800 --> 00:32:29,800
+That drill, when you start drilling, it kind of bounces around,
+
+547
+00:32:29,800 --> 00:32:31,800
+and it doesn't make the hole where you want it.
+
+548
+00:32:31,800 --> 00:32:36,800
+So, there's something good about this invention.
+
+549
+00:32:36,800 --> 00:32:41,800
+You can go out and buy one now for very little money on the Internet.
+
+550
+00:32:41,800 --> 00:32:42,800
+It'll be mailed to you.
+
+551
+00:32:42,800 --> 00:32:46,800
+Now that I have it, I'm thinking about it all the time, for using it.
+
+552
+00:32:46,800 --> 00:32:48,800
+But somehow, it comes and goes.
+
+553
+00:32:48,800 --> 00:32:54,800
+Inventions are part of our culture that appear and disappear through time.
+
+554
+00:32:54,800 --> 00:32:55,800
+So, thank you.
+
+555
+00:32:55,800 --> 00:32:56,800
+Thank you.
+
+556
+00:32:56,800 --> 00:33:02,800
+I wanted to talk about another invention.
+
+557
+00:33:02,800 --> 00:33:04,800
+This is by way of inspiration.
+
+558
+00:33:04,800 --> 00:33:06,800
+But I'm getting to finance in a minute.
+
+559
+00:33:06,800 --> 00:33:09,800
+But I have to do these simple –
+
+560
+00:33:09,800 --> 00:33:11,800
+maybe someone will reintroduce the gimlet.
+
+561
+00:33:11,800 --> 00:33:12,800
+I don't know.
+
+562
+00:33:12,800 --> 00:33:14,800
+It seems like it's probably gone forever.
+
+563
+00:33:14,800 --> 00:33:17,800
+It illustrates the fact that modern electronic technology
+
+564
+00:33:17,800 --> 00:33:20,800
+has given us something maybe better.
+
+565
+00:33:20,800 --> 00:33:23,800
+But if you were used to using this, you'd want it.
+
+566
+00:33:23,800 --> 00:33:25,800
+I just don't want to use that electric drill,
+
+567
+00:33:25,800 --> 00:33:30,800
+because I know how to use this, and I can control it.
+
+568
+00:33:30,800 --> 00:33:35,800
+I'll give you another example of an important invention,
+
+569
+00:33:35,800 --> 00:33:38,800
+which I saw come in my lifetime.
+
+570
+00:33:38,800 --> 00:33:43,800
+And that's wheeled suitcases.
+
+571
+00:33:43,800 --> 00:33:44,800
+Okay.
+
+572
+00:33:44,800 --> 00:33:46,800
+I bet you have one of these, right?
+
+573
+00:33:46,800 --> 00:33:49,800
+A suitcase with wheels on it.
+
+574
+00:33:49,800 --> 00:33:53,800
+When I was a boy, there were absolutely none.
+
+575
+00:33:53,800 --> 00:33:54,800
+Nowhere.
+
+576
+00:33:54,800 --> 00:33:57,800
+No one had a wheeled suitcase.
+
+577
+00:33:57,800 --> 00:33:59,800
+Isn't that strange?
+
+578
+00:33:59,800 --> 00:34:01,800
+You'd be carrying these suitcases around,
+
+579
+00:34:01,800 --> 00:34:04,800
+when you put it on wheels.
+
+580
+00:34:04,800 --> 00:34:09,800
+So, I looked up the inventors of this.
+
+581
+00:34:09,800 --> 00:34:11,800
+It's not that long ago.
+
+582
+00:34:11,800 --> 00:34:15,800
+I thought I – oh, yeah, okay.
+
+583
+00:34:15,800 --> 00:34:23,800
+It was – the wheeled suitcase was invented by Bernard Seydal.
+
+584
+00:34:24,800 --> 00:34:32,800
+In 1972.
+
+585
+00:34:32,800 --> 00:34:34,800
+And his was the first one.
+
+586
+00:34:34,800 --> 00:34:37,800
+He had a suitcase with little wheels, four little wheels.
+
+587
+00:34:37,800 --> 00:34:39,800
+And you had a strap, and you'd pull it,
+
+588
+00:34:39,800 --> 00:34:41,800
+and it would trail behind you.
+
+589
+00:34:41,800 --> 00:34:44,800
+But then the other, the really important invention
+
+590
+00:34:44,800 --> 00:34:47,800
+was by Robert Clath.
+
+591
+00:34:47,800 --> 00:34:50,800
+This isn't finance, but I kind of think of it as finance.
+
+592
+00:34:50,800 --> 00:34:52,800
+In –
+
+593
+00:34:52,800 --> 00:34:55,800
+it was 1991.
+
+594
+00:34:55,800 --> 00:34:57,800
+And he called it the roller board.
+
+595
+00:34:57,800 --> 00:34:58,800
+This is what you own, right?
+
+596
+00:34:58,800 --> 00:35:00,800
+You own a roller board.
+
+597
+00:35:00,800 --> 00:35:01,800
+Right?
+
+598
+00:35:01,800 --> 00:35:05,800
+It has a rigid handle that collapses into the suitcase,
+
+599
+00:35:05,800 --> 00:35:07,800
+and it has two wheels that are horizontal.
+
+600
+00:35:07,800 --> 00:35:10,800
+The problem with Bernard Seydal's invention
+
+601
+00:35:10,800 --> 00:35:12,800
+is that it tended to flop over.
+
+602
+00:35:12,800 --> 00:35:15,800
+You're pulling it with a strap behind you.
+
+603
+00:35:15,800 --> 00:35:17,800
+And then you look back, and it's flopped over.
+
+604
+00:35:17,800 --> 00:35:20,800
+You can't go around corners very well.
+
+605
+00:35:20,800 --> 00:35:24,800
+So, we lived with Seydals for 19 years.
+
+606
+00:35:24,800 --> 00:35:29,800
+And it took 19 years to invent the modern roller board.
+
+607
+00:35:29,800 --> 00:35:33,800
+So, I actually heard from Bernard Seydal.
+
+608
+00:35:33,800 --> 00:35:35,800
+I wrote about him in New Financial Order.
+
+609
+00:35:35,800 --> 00:35:38,800
+And I got a letter from him just about two weeks ago,
+
+610
+00:35:38,800 --> 00:35:40,800
+or email from him.
+
+611
+00:35:40,800 --> 00:35:42,800
+And he said, I heard about your book.
+
+612
+00:35:42,800 --> 00:35:45,800
+And he thought you'd talk about me in your book.
+
+613
+00:35:45,800 --> 00:35:49,800
+And he said he'd like to get me to autograph it for him.
+
+614
+00:35:49,800 --> 00:35:52,800
+So, I said, fine, I'll send you the book.
+
+615
+00:35:52,800 --> 00:35:55,800
+And I sent him an autograph with appreciation of it.
+
+616
+00:35:55,800 --> 00:35:57,800
+But that just shows it's not long ago.
+
+617
+00:35:57,800 --> 00:36:00,800
+So, I guess I could ask you to reflect,
+
+618
+00:36:00,800 --> 00:36:04,800
+why didn't people have wheeled suitcases?
+
+619
+00:36:04,800 --> 00:36:06,800
+But you weren't born yet, right?
+
+620
+00:36:06,800 --> 00:36:08,800
+So, I can't reflect on that.
+
+621
+00:36:08,800 --> 00:36:10,800
+I'm thinking back to myself.
+
+622
+00:36:10,800 --> 00:36:12,800
+You know, it's almost something that I would do myself.
+
+623
+00:36:12,800 --> 00:36:14,800
+I'd put wheels on it.
+
+624
+00:36:14,800 --> 00:36:16,800
+But I guess you were embarrassed to do it back then.
+
+625
+00:36:16,800 --> 00:36:18,800
+Because maybe it seems sissy to do it.
+
+626
+00:36:19,800 --> 00:36:21,800
+But was everybody worried about being a sissy?
+
+627
+00:36:21,800 --> 00:36:22,800
+Not everybody.
+
+628
+00:36:22,800 --> 00:36:24,800
+Why doesn't anybody do it?
+
+629
+00:36:24,800 --> 00:36:27,800
+Well, Bernard Seda, I had my student interview him.
+
+630
+00:36:27,800 --> 00:36:29,800
+And he listened to objections.
+
+631
+00:36:29,800 --> 00:36:33,800
+And people told him in 1972, no one's going to buy that.
+
+632
+00:36:33,800 --> 00:36:39,800
+Because if the suitcase is too heavy, you just get a red cap.
+
+633
+00:36:39,800 --> 00:36:41,800
+You know what a red cap is?
+
+634
+00:36:41,800 --> 00:36:43,800
+You know what a red cap is?
+
+635
+00:36:43,800 --> 00:36:46,800
+A red cap is someone, a poorly paid person,
+
+636
+00:36:46,800 --> 00:36:48,800
+who stands around at train stations,
+
+637
+00:36:48,800 --> 00:36:50,800
+and he's wearing a red cap,
+
+638
+00:36:50,800 --> 00:36:52,800
+and helps you with your luggage.
+
+639
+00:36:52,800 --> 00:36:54,800
+That's not a good answer, right?
+
+640
+00:36:54,800 --> 00:36:56,800
+There isn't always a red cap to help you.
+
+641
+00:36:56,800 --> 00:37:00,800
+And so, obviously, you need wheels on suitcases.
+
+642
+00:37:00,800 --> 00:37:02,800
+But this illustrates how technology moves.
+
+643
+00:37:02,800 --> 00:37:05,800
+It moves sometimes slowly.
+
+644
+00:37:05,800 --> 00:37:08,800
+I'll give you a couple other examples from my book
+
+645
+00:37:08,800 --> 00:37:10,800
+about the slowness of inventions.
+
+646
+00:37:10,800 --> 00:37:12,800
+One is just the invention of wheels.
+
+647
+00:37:12,800 --> 00:37:16,800
+Did you know that in the Americas, before Columbus,
+
+648
+00:37:16,800 --> 00:37:18,800
+there were no wheels?
+
+649
+00:37:18,800 --> 00:37:23,800
+The American Indians had no wheeled vehicles at all.
+
+650
+00:37:23,800 --> 00:37:25,800
+Not even suitcases, nothing.
+
+651
+00:37:25,800 --> 00:37:27,800
+No wagons, nothing.
+
+652
+00:37:27,800 --> 00:37:30,800
+And then to complicate it, they've discovered,
+
+653
+00:37:30,800 --> 00:37:33,800
+in the late classical period in Mexico,
+
+654
+00:37:33,800 --> 00:37:35,800
+they've discovered wheeled toys.
+
+655
+00:37:35,800 --> 00:37:39,800
+And if you go to a museum in Mexico, you can see them.
+
+656
+00:37:39,800 --> 00:37:41,800
+They made toys for their kids.
+
+657
+00:37:41,800 --> 00:37:42,800
+They're not cars.
+
+658
+00:37:42,800 --> 00:37:44,800
+They're little jaguars and animals.
+
+659
+00:37:44,800 --> 00:37:46,800
+And you could roll them along the floor.
+
+660
+00:37:46,800 --> 00:37:47,800
+So they made the toys.
+
+661
+00:37:47,800 --> 00:37:50,800
+And then they thought, why didn't they think of making a wagon?
+
+662
+00:37:50,800 --> 00:37:53,800
+It just never occurred to them.
+
+663
+00:37:53,800 --> 00:37:56,800
+And another example I give in my book that I really like
+
+664
+00:37:56,800 --> 00:37:58,800
+is the movie subtitle.
+
+665
+00:37:58,800 --> 00:38:00,800
+This is an amazing thing.
+
+666
+00:38:00,800 --> 00:38:04,800
+When they invented movies, I gave you a Thomas Edison sound movie,
+
+667
+00:38:04,800 --> 00:38:05,800
+but it didn't work.
+
+668
+00:38:05,800 --> 00:38:07,800
+He couldn't make a sound movie.
+
+669
+00:38:07,800 --> 00:38:10,800
+They didn't find out how to make sound movies until the 1920s.
+
+670
+00:38:10,800 --> 00:38:13,800
+So they did what they, in order to give dialogue to a movie,
+
+671
+00:38:13,800 --> 00:38:15,800
+they'd give what they called intertitles.
+
+672
+00:38:15,800 --> 00:38:16,800
+They would show the movie.
+
+673
+00:38:16,800 --> 00:38:18,800
+And then, do you know what I'm saying?
+
+674
+00:38:18,800 --> 00:38:22,800
+Then they'd stop the movie, and there'd be a title with some phrase that someone said.
+
+675
+00:38:22,800 --> 00:38:26,800
+And then it would go back to the movie.
+
+676
+00:38:26,800 --> 00:38:30,800
+But it's obviously better just to put subtitles on the bottom of the screen, right?
+
+677
+00:38:30,800 --> 00:38:32,800
+Let the movie proceed.
+
+678
+00:38:32,800 --> 00:38:34,800
+You've seen movies with subtitles, right?
+
+679
+00:38:34,800 --> 00:38:35,800
+It works fine.
+
+680
+00:38:35,800 --> 00:38:38,800
+Well, it turns out that someone tried it in 1920.
+
+681
+00:38:38,800 --> 00:38:41,800
+There was a movie called The Chamber Mystery.
+
+682
+00:38:41,800 --> 00:38:44,800
+And someone made a subtitled silent movie.
+
+683
+00:38:44,800 --> 00:38:47,800
+But the response was bad.
+
+684
+00:38:47,800 --> 00:38:49,800
+It seemed like nobody liked it.
+
+685
+00:38:49,800 --> 00:38:51,800
+And so it wasn't for another.
+
+686
+00:38:51,800 --> 00:38:55,800
+Subtitles didn't come in until after sound movies were invented.
+
+687
+00:38:55,800 --> 00:39:00,800
+After sound movies were invented, they wanted to make movies in one language
+
+688
+00:39:00,800 --> 00:39:02,800
+and show them in another country.
+
+689
+00:39:02,800 --> 00:39:06,800
+So they had to put subtitles in so that people in another country could see the movie.
+
+690
+00:39:06,800 --> 00:39:08,800
+And then that's how it came in.
+
+691
+00:39:08,800 --> 00:39:13,800
+There's a slowness to understand or appreciate invention.
+
+692
+00:39:13,800 --> 00:39:17,800
+Anyway, I want to move to invention in finance.
+
+693
+00:39:17,800 --> 00:39:25,800
+And that's the analogies that I've just talked about are important.
+
+694
+00:39:25,800 --> 00:39:36,800
+So let me start with an important invention in finance that goes way back.
+
+695
+00:39:36,800 --> 00:39:37,800
+Well, I was going to start.
+
+696
+00:39:37,800 --> 00:39:42,800
+I think I mentioned last time the very simple idea of setting up a company and dividing
+
+697
+00:39:42,800 --> 00:39:45,800
+up shares in the company.
+
+698
+00:39:45,800 --> 00:39:46,800
+That's a really old invention.
+
+699
+00:39:46,800 --> 00:39:48,800
+That's thousands of years old.
+
+700
+00:39:48,800 --> 00:39:52,800
+All right, you and your friends are going to do a business.
+
+701
+00:39:52,800 --> 00:39:54,800
+How do we divide up the profits?
+
+702
+00:39:54,800 --> 00:39:57,800
+Well, let's give shares to each of us.
+
+703
+00:39:57,800 --> 00:40:00,800
+And the guy who's contributing more gets more shares, right?
+
+704
+00:40:00,800 --> 00:40:03,800
+And someone who's contributing less gets less shares.
+
+705
+00:40:03,800 --> 00:40:06,800
+But then we all have an incentive to make the company go.
+
+706
+00:40:06,800 --> 00:40:11,800
+And that's the idea of a corporation.
+
+707
+00:40:11,800 --> 00:40:19,800
+A corporation comes from the Latin word corpus, which is a body.
+
+708
+00:40:19,800 --> 00:40:26,800
+It becomes like a slave owned mutually by all the people in the company.
+
+709
+00:40:26,800 --> 00:40:31,800
+And your share in the company is determined by the number of shares that you own.
+
+710
+00:40:31,800 --> 00:40:32,800
+But I wanted to focus here.
+
+711
+00:40:32,800 --> 00:40:33,800
+That's an old idea.
+
+712
+00:40:33,800 --> 00:40:34,800
+It's an invention.
+
+713
+00:40:34,800 --> 00:40:39,800
+But I wanted to really focus on a particular nuance that developed.
+
+714
+00:40:39,800 --> 00:40:41,800
+It's called corporation.
+
+715
+00:40:41,800 --> 00:40:54,800
+It's limited liability.
+
+716
+00:40:54,800 --> 00:41:04,800
+A limited liability corporation is a corporation that guarantees that you as a shareholder
+
+717
+00:41:04,800 --> 00:41:08,800
+will not be liable for the debts of the company.
+
+718
+00:41:08,800 --> 00:41:11,800
+In England, they sometimes will put limited.
+
+719
+00:41:11,800 --> 00:41:16,800
+So, you can put the name of the company and after it will say limited.
+
+720
+00:41:16,800 --> 00:41:19,800
+But in the U.S., we just say incorporated.
+
+721
+00:41:19,800 --> 00:41:24,800
+So, that tells you that it's limited liability.
+
+722
+00:41:24,800 --> 00:41:32,800
+What it's talking about, limited liability means that somebody sues the company and the company can't pay.
+
+723
+00:41:32,800 --> 00:41:36,800
+They can't go after the stockholders.
+
+724
+00:41:36,800 --> 00:41:40,800
+So, limited liability has kind of a complicated history.
+
+725
+00:41:40,800 --> 00:41:49,800
+According to a history by David Moss, who is a Yale history graduate student when he wrote this,
+
+726
+00:41:49,800 --> 00:41:59,800
+but is now at the Harvard Business School, it started, limited liability really took hold in 1811
+
+727
+00:41:59,800 --> 00:42:09,800
+with a corporate law in the state of New York, which represented a significant invention.
+
+728
+00:42:10,800 --> 00:42:17,800
+The corporate law of New York in 1811 actually had two important components.
+
+729
+00:42:17,800 --> 00:42:22,800
+The first component was anybody can start a corporation.
+
+730
+00:42:22,800 --> 00:42:29,800
+Just file the papers with the government of New York and you've got a corporation.
+
+731
+00:42:29,800 --> 00:42:32,800
+There may have been some regulatory requirements.
+
+732
+00:42:32,800 --> 00:42:38,800
+But the point was, you didn't need an act of Congress or an act of Parliament to start a corporation.
+
+733
+00:42:38,800 --> 00:42:39,800
+It used to be limited liability.
+
+734
+00:42:39,800 --> 00:42:42,800
+It used to be very hard to start a company.
+
+735
+00:42:42,800 --> 00:42:45,800
+Because people would say, well, what's your purpose?
+
+736
+00:42:45,800 --> 00:42:48,800
+And, you know, we don't just do this automatically.
+
+737
+00:42:48,800 --> 00:42:52,800
+That was the first part of the New York law in 1811.
+
+738
+00:42:52,800 --> 00:42:55,800
+But the second part is particularly interesting.
+
+739
+00:42:55,800 --> 00:43:01,800
+They said, under no circumstances can the shareholders be sued.
+
+740
+00:43:01,800 --> 00:43:04,800
+You put in your money to the company, that's it.
+
+741
+00:43:04,800 --> 00:43:06,800
+You are protected by the law.
+
+742
+00:43:06,800 --> 00:43:08,800
+No worries about that.
+
+743
+00:43:09,800 --> 00:43:20,800
+Now, this was the first corporate law in the world, according to Moss, that imposed limited liability as a clear right of the shareholder.
+
+744
+00:43:20,800 --> 00:43:26,800
+There were limited liability clauses before, but it was never so crystal clear.
+
+745
+00:43:26,800 --> 00:43:35,800
+At the same time, around 1811, other states in the United States were looking at New York and saying, you're crazy.
+
+746
+00:43:35,800 --> 00:43:36,800
+What are you doing?
+
+747
+00:43:36,800 --> 00:43:38,800
+You can't sue the shareholders?
+
+748
+00:43:38,800 --> 00:43:42,800
+They could do something irresponsible.
+
+749
+00:43:42,800 --> 00:43:48,800
+And so, the state of Massachusetts at around the same year made a completely opposite law.
+
+750
+00:43:48,800 --> 00:43:52,800
+And they said, they made it clear that the shareholders are responsible.
+
+751
+00:43:52,800 --> 00:43:55,800
+You invest in a company, you're responsible.
+
+752
+00:43:55,800 --> 00:43:58,800
+And that's the only way it's fair, they thought.
+
+753
+00:43:58,800 --> 00:44:00,800
+Well, guess what happened?
+
+754
+00:44:00,800 --> 00:44:03,800
+New York became the financial center of America.
+
+755
+00:44:03,800 --> 00:44:07,800
+Nobody wanted to set up a company in Massachusetts anymore.
+
+756
+00:44:07,800 --> 00:44:10,800
+Because they couldn't raise money.
+
+757
+00:44:10,800 --> 00:44:15,800
+The capitalists were at risk.
+
+758
+00:44:15,800 --> 00:44:24,800
+If you bought one share in a company in Massachusetts, and the company did something criminal, let's say, or bad, I don't know, something bad,
+
+759
+00:44:24,800 --> 00:44:30,800
+then they might sue the company and then come looking for anybody who is among the shareholders.
+
+760
+00:44:30,800 --> 00:44:34,800
+You own one share in the company, so we can take everything from you.
+
+761
+00:44:34,800 --> 00:44:35,800
+We can take your house, your car.
+
+762
+00:44:35,800 --> 00:44:36,800
+Well, you didn't have a car.
+
+763
+00:44:36,800 --> 00:44:38,800
+You take whatever you have.
+
+764
+00:44:38,800 --> 00:44:42,800
+So, the rule was, be really careful before you invest in any company.
+
+765
+00:44:42,800 --> 00:44:44,800
+And you've got to watch them all the time.
+
+766
+00:44:44,800 --> 00:44:46,800
+But you know what that did?
+
+767
+00:44:46,800 --> 00:44:48,800
+That kept Massachusetts down.
+
+768
+00:44:48,800 --> 00:44:50,800
+Because nobody wanted to do that.
+
+769
+00:44:50,800 --> 00:44:53,800
+I mean, you'd only invest with trusted friends.
+
+770
+00:44:53,800 --> 00:44:55,800
+You'd never invest in just some random company.
+
+771
+00:44:55,800 --> 00:45:00,800
+But what happened in New York was that companies started appearing rapidly.
+
+772
+00:45:00,800 --> 00:45:02,800
+Because of this.
+
+773
+00:45:02,800 --> 00:45:06,800
+And as many critics said, a lot of companies,
+
+774
+00:45:06,800 --> 00:45:08,800
+a lot of these companies are fly-by-night.
+
+775
+00:45:08,800 --> 00:45:09,800
+They're going to go under.
+
+776
+00:45:09,800 --> 00:45:12,800
+We're going to find out that they weren't doing a good business.
+
+777
+00:45:12,800 --> 00:45:16,800
+They were just show-offs, and they go bankrupt.
+
+778
+00:45:16,800 --> 00:45:19,800
+But some of those companies did extremely well.
+
+779
+00:45:19,800 --> 00:45:24,800
+And they created a powerful New York economy.
+
+780
+00:45:24,800 --> 00:45:30,800
+And so, then people learned, well, yeah, you could invest in 100 companies, and 99 of them will go under.
+
+781
+00:45:30,800 --> 00:45:32,800
+They're all wild.
+
+782
+00:45:32,800 --> 00:45:33,800
+Not all of them, though.
+
+783
+00:45:33,800 --> 00:45:35,800
+There's one that will be the Walmart.
+
+784
+00:45:35,800 --> 00:45:39,800
+And it's going to make you rich.
+
+785
+00:45:39,800 --> 00:45:47,800
+So, the example set by New York was eventually copied by Massachusetts, by every state in the United States,
+
+786
+00:45:47,800 --> 00:45:51,800
+by every country in Europe, and now every country in the world.
+
+787
+00:45:51,800 --> 00:45:58,800
+See, it was an experiment that might not have gone well.
+
+788
+00:45:58,800 --> 00:46:00,800
+You know what David Moss thought?
+
+789
+00:46:00,800 --> 00:46:03,800
+And this has to do with framing, again.
+
+790
+00:46:03,800 --> 00:46:07,800
+Why is it that New York became such a capital of finance?
+
+791
+00:46:07,800 --> 00:46:09,800
+Because of this law.
+
+792
+00:46:09,800 --> 00:46:12,800
+And because it made investing fun.
+
+793
+00:46:12,800 --> 00:46:14,800
+And this is a matter of framing.
+
+794
+00:46:14,800 --> 00:46:21,800
+Moss emphasized that when you buy a share in a company, and it's limited liability,
+
+795
+00:46:21,800 --> 00:46:26,800
+you know that you've already put out all the money that you'll ever put out.
+
+796
+00:46:26,800 --> 00:46:28,800
+But you could get an infinite amount.
+
+797
+00:46:28,800 --> 00:46:31,800
+Well, there's no limit to the amount of money on the upside.
+
+798
+00:46:31,800 --> 00:46:32,800
+And he thought, that's not the way to do it.
+
+799
+00:46:33,800 --> 00:46:39,800
+And he said, it's just framed better as a psychologically appealing gamble.
+
+800
+00:46:39,800 --> 00:46:41,800
+It's like a lottery ticket.
+
+801
+00:46:41,800 --> 00:46:43,800
+People like lottery tickets, right?
+
+802
+00:46:43,800 --> 00:46:45,800
+They just enjoy the thought.
+
+803
+00:46:45,800 --> 00:46:48,800
+I don't know, I don't do this, but apparently a lot of people do this.
+
+804
+00:46:48,800 --> 00:46:52,800
+You go and you spend a dollar for a lottery, or two dollars for a lottery ticket,
+
+805
+00:46:52,800 --> 00:46:56,800
+and then you think, tonight I could be a millionaire.
+
+806
+00:46:56,800 --> 00:46:57,800
+Alright?
+
+807
+00:46:57,800 --> 00:47:01,800
+And so, that's just so much fun that you want to do it again.
+
+808
+00:47:01,800 --> 00:47:03,800
+But if the lottery ticket said,
+
+809
+00:47:03,800 --> 00:47:06,800
+well, you have a small probability of being a millionaire,
+
+810
+00:47:06,800 --> 00:47:09,800
+but you also have a small probability of going bankrupt.
+
+811
+00:47:09,800 --> 00:47:11,800
+We're going to come after you and take everything.
+
+812
+00:47:11,800 --> 00:47:12,800
+You wouldn't like that.
+
+813
+00:47:12,800 --> 00:47:14,800
+It wouldn't be so much fun, right?
+
+814
+00:47:14,800 --> 00:47:19,800
+You like to savor the possibility of getting rich.
+
+815
+00:47:19,800 --> 00:47:22,800
+And so, people flock to these stocks.
+
+816
+00:47:22,800 --> 00:47:24,800
+It's like a sport.
+
+817
+00:47:24,800 --> 00:47:29,800
+It's an invention of something fun to do for a lot of people.
+
+818
+00:47:29,800 --> 00:47:31,800
+But it has this productive side to it,
+
+819
+00:47:31,800 --> 00:47:35,800
+that it funnels capital to where it's needed.
+
+820
+00:47:35,800 --> 00:47:39,800
+So, that was an important invention.
+
+821
+00:47:39,800 --> 00:47:47,800
+I want to give you another example that is a variation on this.
+
+822
+00:47:47,800 --> 00:47:49,800
+I'm going to move forward in time.
+
+823
+00:47:49,800 --> 00:47:53,800
+My next invention is the,
+
+824
+00:47:53,800 --> 00:47:57,800
+oh, God, I'm breaking chalk here.
+
+825
+00:47:57,800 --> 00:48:00,800
+This goes now to China.
+
+826
+00:48:00,800 --> 00:48:15,800
+This is the Township and Village Enterprise, or PVE.
+
+827
+00:48:15,800 --> 00:48:18,800
+And I'll try to say it in Chinese,
+
+828
+00:48:18,800 --> 00:48:21,800
+.
+
+829
+00:48:21,800 --> 00:48:23,800
+Did I say that right?
+
+830
+00:48:23,800 --> 00:48:26,800
+Close, anyway.
+
+831
+00:48:26,800 --> 00:48:28,800
+So, what was this?
+
+832
+00:48:28,800 --> 00:48:34,800
+When China emerged from a strictly communist state,
+
+833
+00:48:34,800 --> 00:48:40,800
+in the early period, maybe starting in the late 70s,
+
+834
+00:48:40,800 --> 00:48:43,800
+but more in the 1980s,
+
+835
+00:48:43,800 --> 00:48:49,800
+the Chinese economy increasingly became built on a certain kind of organization
+
+836
+00:48:49,800 --> 00:48:53,800
+called a township or TVE.
+
+837
+00:48:53,800 --> 00:48:57,800
+And the TVE was like a company, a corporation,
+
+838
+00:48:57,800 --> 00:49:02,800
+except that it always involved the town.
+
+839
+00:49:02,800 --> 00:49:05,800
+So, in other words, if you wanted to start a business,
+
+840
+00:49:05,800 --> 00:49:09,800
+making something, making toys for export to the world,
+
+841
+00:49:09,800 --> 00:49:12,800
+you wouldn't just start a toy company.
+
+842
+00:49:12,800 --> 00:49:15,800
+You would go to the mayor of your town,
+
+843
+00:49:15,800 --> 00:49:18,800
+and you'd talk to the mayor and say,
+
+844
+00:49:18,800 --> 00:49:22,800
+I want to start a toy company as this town's enterprise.
+
+845
+00:49:22,800 --> 00:49:26,800
+And I want to share the profits with you, with the whole town.
+
+846
+00:49:26,800 --> 00:49:29,800
+Now, this is kind of unique.
+
+847
+00:49:29,800 --> 00:49:33,800
+I don't know if it's unique, but we don't see this in the United States.
+
+848
+00:49:33,800 --> 00:49:35,800
+But it proliferated.
+
+849
+00:49:35,800 --> 00:49:42,800
+It was actually the invention that led the initial successes of the Chinese economy.
+
+850
+00:49:42,800 --> 00:49:47,800
+By 1985, I believe, I have the statistics here,
+
+851
+00:49:47,800 --> 00:49:52,800
+there were 12 million TVEs in China.
+
+852
+00:49:52,800 --> 00:49:54,800
+By the mid-1990s,
+
+853
+00:49:54,800 --> 00:50:01,800
+most of the industrial production of China was done by TVEs.
+
+854
+00:50:01,800 --> 00:50:03,800
+So, then you have to ask, why?
+
+855
+00:50:03,800 --> 00:50:07,800
+This is an invention, but we don't see it in other countries.
+
+856
+00:50:07,800 --> 00:50:10,800
+Why in China?
+
+857
+00:50:10,800 --> 00:50:17,800
+Well, people who look back on it think that it was inventing around certain constraints
+
+858
+00:50:17,800 --> 00:50:19,800
+at the time in China.
+
+859
+00:50:19,800 --> 00:50:23,800
+And the invention got around a legal constraint,
+
+860
+00:50:23,800 --> 00:50:27,800
+that China, having been a communist country,
+
+861
+00:50:27,800 --> 00:50:31,800
+did not have all these financial lawyers.
+
+862
+00:50:31,800 --> 00:50:36,800
+And they did not have courts that enforced legal contracts,
+
+863
+00:50:36,800 --> 00:50:38,800
+the way we do in the U.S.
+
+864
+00:50:38,800 --> 00:50:45,800
+And that entrepreneurs in China were inhibited from starting an enterprise,
+
+865
+00:50:45,800 --> 00:50:49,800
+because they thought it would just be usurped by the village.
+
+866
+00:50:49,800 --> 00:50:52,800
+You live in a village, you start a toy company,
+
+867
+00:50:52,800 --> 00:50:54,800
+as soon as you start making money,
+
+868
+00:50:54,800 --> 00:50:58,800
+they'll just put a tax on you, or they'll take it.
+
+869
+00:50:58,800 --> 00:51:00,800
+That was your worry.
+
+870
+00:51:00,800 --> 00:51:02,800
+So, you had to involve them.
+
+871
+00:51:02,800 --> 00:51:06,800
+It was a fact of life, very important fact of life.
+
+872
+00:51:06,800 --> 00:51:09,800
+You had to involve the whole community.
+
+873
+00:51:09,800 --> 00:51:11,800
+You could not start a business.
+
+874
+00:51:11,800 --> 00:51:16,800
+You could not start a business without involving the community.
+
+875
+00:51:16,800 --> 00:51:19,800
+But it was a very successful invention,
+
+876
+00:51:19,800 --> 00:51:21,800
+because it actually led,
+
+877
+00:51:22,800 --> 00:51:28,800
+it actually led the Chinese economy
+
+878
+00:51:28,800 --> 00:51:33,800
+on its first huge successes.
+
+879
+00:51:33,800 --> 00:51:36,800
+Okay, I'm going to move to another example now
+
+880
+00:51:36,800 --> 00:51:39,800
+of an innovation in finance.
+
+881
+00:51:39,800 --> 00:51:48,800
+And I want to talk about inflation indexation.
+
+882
+00:51:48,800 --> 00:51:50,800
+.
+
+883
+00:51:50,800 --> 00:51:56,800
+And I could pick many.
+
+884
+00:51:56,800 --> 00:51:59,800
+These are examples that I like personally.
+
+885
+00:51:59,800 --> 00:52:01,800
+There's an infinite number of examples.
+
+886
+00:52:01,800 --> 00:52:04,800
+It doesn't matter exactly which example we pick.
+
+887
+00:52:04,800 --> 00:52:10,800
+But there's a fundamental financial problem,
+
+888
+00:52:10,800 --> 00:52:14,800
+and that is that the value of money changes through time.
+
+889
+00:52:14,800 --> 00:52:18,800
+We have inflation measured by a consumer price index.
+
+890
+00:52:18,800 --> 00:52:22,800
+And when inflation proceeds, the prices go up,
+
+891
+00:52:22,800 --> 00:52:25,800
+and so the buying power of money goes down.
+
+892
+00:52:25,800 --> 00:52:27,800
+And it's uncertain.
+
+893
+00:52:27,800 --> 00:52:39,800
+There's inflation risk that we face because of the uncertainty about prices.
+
+894
+00:52:39,800 --> 00:52:43,800
+This is an inflation risk that's under concern right now
+
+895
+00:52:43,800 --> 00:52:46,800
+after the quantitative easing that the Fed,
+
+896
+00:52:46,800 --> 00:52:47,800
+we'll come back to that.
+
+897
+00:52:47,800 --> 00:52:53,800
+The Federal Reserve is expanding the money supply dramatically
+
+898
+00:52:53,800 --> 00:52:55,800
+in an effort to deal with this crisis.
+
+899
+00:52:55,800 --> 00:52:58,800
+And some people are worried about inflation risk.
+
+900
+00:52:58,800 --> 00:53:00,800
+But it's a long-standing worry.
+
+901
+00:53:00,800 --> 00:53:04,800
+It goes way back in time.
+
+902
+00:53:04,800 --> 00:53:11,800
+Most debts are done in nominal terms.
+
+903
+00:53:11,800 --> 00:53:16,800
+.
+
+904
+00:53:16,800 --> 00:53:23,800
+And that means they're written in the currency units.
+
+905
+00:53:23,800 --> 00:53:27,800
+And if the currency becomes worthless, you're wiped out.
+
+906
+00:53:27,800 --> 00:53:31,800
+Why do people write contracts in currency units?
+
+907
+00:53:31,800 --> 00:53:35,800
+Well, it's because it's familiar with them, and so it's framing.
+
+908
+00:53:35,800 --> 00:53:38,800
+We're used to thinking in terms of money,
+
+909
+00:53:38,800 --> 00:53:42,800
+and so we write contracts in terms of money all the time.
+
+910
+00:53:42,800 --> 00:53:44,800
+.
+
+911
+00:53:44,800 --> 00:53:49,800
+So, the idea is, maybe we should start something else.
+
+912
+00:53:49,800 --> 00:53:51,800
+Let's not write contracts in terms of money.
+
+913
+00:53:51,800 --> 00:53:54,800
+Let's write in terms of something else.
+
+914
+00:53:54,800 --> 00:53:56,800
+And that's an invention.
+
+915
+00:53:56,800 --> 00:53:58,800
+But it's another invention.
+
+916
+00:53:58,800 --> 00:54:00,800
+It seems obvious.
+
+917
+00:54:00,800 --> 00:54:05,800
+Let's index our debts to some measure of inflation.
+
+918
+00:54:05,800 --> 00:54:12,800
+So, the invention I want to talk about first goes back to 1780.
+
+919
+00:54:12,800 --> 00:54:22,800
+I believe that the first indexed bond was issued in the state of Massachusetts in 1780
+
+920
+00:54:22,800 --> 00:54:28,800
+by the Massachusetts government.
+
+921
+00:54:28,800 --> 00:54:35,800
+And that was an indexed bond.
+
+922
+00:54:35,800 --> 00:54:38,800
+They defined a consumer price index.
+
+923
+00:54:38,800 --> 00:54:40,800
+They didn't call it that.
+
+924
+00:54:42,800 --> 00:54:45,800
+They called it the British pound.
+
+925
+00:54:45,800 --> 00:54:49,800
+And they said that the bond would pay you so many pounds.
+
+926
+00:54:49,800 --> 00:54:50,800
+They weren't using dollars yet.
+
+927
+00:54:50,800 --> 00:54:54,800
+They were using pounds, British pounds.
+
+928
+00:54:54,800 --> 00:55:00,800
+The amount of pounds you would get would be increased if inflation were to start.
+
+929
+00:55:00,800 --> 00:55:05,800
+So, they defined an index of commodities that you might purchase.
+
+930
+00:55:05,800 --> 00:55:11,800
+And that index was used to input a formula
+
+931
+00:55:11,800 --> 00:55:16,800
+that created inflation correction to the bonds.
+
+932
+00:55:16,800 --> 00:55:21,800
+So, these bonds were issued in 1780.
+
+933
+00:55:21,800 --> 00:55:28,800
+And it served an important purpose because the U.S. was fighting a war with the United Kingdom at the time.
+
+934
+00:55:28,800 --> 00:55:30,800
+And there was tremendous inflation.
+
+935
+00:55:30,800 --> 00:55:32,800
+So, they were very important.
+
+936
+00:55:32,800 --> 00:55:36,800
+But after the war, after the Revolutionary War ended,
+
+937
+00:55:36,800 --> 00:55:38,800
+they stopped issuing these bonds.
+
+938
+00:55:38,800 --> 00:55:40,800
+And they forgot about them in the United States.
+
+939
+00:55:40,800 --> 00:55:44,800
+Until 1997.
+
+940
+00:55:44,800 --> 00:55:46,800
+It's amazing.
+
+941
+00:55:46,800 --> 00:55:50,800
+Why did the invention disappear?
+
+942
+00:55:50,800 --> 00:55:52,800
+It's like gimlets.
+
+943
+00:55:52,800 --> 00:55:54,800
+I think maybe gimlets will make a reappearance.
+
+944
+00:55:54,800 --> 00:55:56,800
+Maybe some of you will buy a gimlet.
+
+945
+00:55:56,800 --> 00:55:58,800
+They're very cheap, by the way.
+
+946
+00:55:58,800 --> 00:56:01,800
+And they're very useful.
+
+947
+00:56:01,800 --> 00:56:09,800
+So, maybe, it seems like there's a psychological barrier toward adopting something that's not a good thing.
+
+948
+00:56:09,800 --> 00:56:13,800
+But they're adopting something that's a little bit complicated.
+
+949
+00:56:13,800 --> 00:56:17,800
+And people have trouble understanding index bonds.
+
+950
+00:56:17,800 --> 00:56:29,800
+And they have trouble understanding how the formula works.
+
+951
+00:56:29,800 --> 00:56:31,800
+And they think, you know, I just want money.
+
+952
+00:56:31,800 --> 00:56:33,800
+I just want money.
+
+953
+00:56:33,800 --> 00:56:37,800
+But then you ask, well, why didn't people learn that?
+
+954
+00:56:37,800 --> 00:56:39,800
+And you know, it's the same thing, isn't it?
+
+955
+00:56:39,800 --> 00:56:43,800
+If you look through history, we've had bouts of inflation so many times in so many different countries.
+
+956
+00:56:43,800 --> 00:56:49,800
+And, you know, if you buy a nominal bond, it's risky, especially if you buy a 30-year bond.
+
+957
+00:56:49,800 --> 00:56:51,800
+People are doing that, even today, all over the world.
+
+958
+00:56:51,800 --> 00:56:57,800
+They buy these 30-year bonds, denominated in dollars or euros or some other currency.
+
+959
+00:56:57,800 --> 00:56:59,800
+But what's going to happen to those currencies?
+
+960
+00:56:59,800 --> 00:57:04,800
+So, why don't you denominate your bond in something more realistic?
+
+961
+00:57:04,800 --> 00:57:09,400
+Well, after 1997, the introduction in the United
+
+962
+00:57:09,400 --> 00:57:13,540
+States of index bonds, the reintroduction in 1997, it
+
+963
+00:57:13,540 --> 00:57:17,840
+seemed to be started by one person, Larry Summers, who was
+
+964
+00:57:17,840 --> 00:57:20,200
+Assistant Treasury Secretary.
+
+965
+00:57:20,200 --> 00:57:23,020
+Just believed in this, and he did it.
+
+966
+00:57:23,020 --> 00:57:24,200
+And so, we still have them.
+
+967
+00:57:24,200 --> 00:57:28,460
+It got up to over 10% of the U.S. debt.
+
+968
+00:57:28,460 --> 00:57:33,940
+Now, under Bush and Obama, they're kind of letting them
+
+969
+00:57:33,940 --> 00:57:38,700
+sag now, and they're down to 6% of the U.S. debt.
+
+970
+00:57:38,700 --> 00:57:41,180
+But it really should be 100% of the U.S. debt
+
+971
+00:57:41,180 --> 00:57:42,400
+should be indexed.
+
+972
+00:57:42,400 --> 00:57:46,200
+So this is a kind of example of progress that is made
+
+973
+00:57:46,200 --> 00:57:47,280
+gradually through time.
+
+974
+00:57:47,280 --> 00:57:52,240
+And maybe you'll see that in the next 40 years.
+
+975
+00:57:52,240 --> 00:57:55,260
+I'm trying to think of how we can make these things happen.
+
+976
+00:57:55,260 --> 00:58:02,180
+That's an agenda for younger people who can start
+
+977
+00:58:02,180 --> 00:58:03,560
+innovating and changing our
+
+978
+00:58:03,560 --> 00:58:03,860
+finances.
+
+979
+00:58:03,860 --> 00:58:03,920
+Thank you.
+
+980
+00:58:03,940 --> 00:58:07,260
+I think you're getting over to the financial system.
+
+981
+00:58:07,260 --> 00:58:14,980
+So I wanted to talk about an invention that particularly
+
+982
+00:58:14,980 --> 00:58:21,320
+intrigues me, that comes from the country of Chile.
+
+983
+00:58:21,320 --> 00:58:28,240
+And it has to do with, it's a financial invention that
+
+984
+00:58:28,240 --> 00:58:33,860
+overcomes framing problems.
+
+985
+00:58:33,860 --> 00:58:37,100
+And it illustrates some of the basic concepts.
+
+986
+00:58:37,100 --> 00:58:39,420
+So, let me talk about Chile.
+
+987
+00:58:39,420 --> 00:58:40,900
+We're jumping around the world here.
+
+988
+00:58:43,620 --> 00:58:49,260
+Chile had a problem with, like many Latin American
+
+989
+00:58:49,260 --> 00:58:53,260
+countries, especially of that time, with inflation.
+
+990
+00:58:53,260 --> 00:59:00,580
+So, they had a currency called the peso, which
+
+991
+00:59:00,580 --> 00:59:03,100
+inflated enormously.
+
+992
+00:59:03,100 --> 00:59:05,740
+It went up, I don't have the numbers on it, but it went up,
+
+993
+00:59:05,740 --> 00:59:10,620
+you know, like prices went up a thousandfold.
+
+994
+00:59:10,620 --> 00:59:14,100
+And people were saying, we can't trust anything.
+
+995
+00:59:14,100 --> 00:59:16,980
+I wouldn't take a contract paying pesos.
+
+996
+00:59:16,980 --> 00:59:19,780
+The peso is gradually becoming worthless.
+
+997
+00:59:19,780 --> 00:59:26,980
+So, Chile switched to another currency called the escudo in
+
+998
+00:59:26,980 --> 00:59:30,340
+1960.
+
+999
+00:59:30,340 --> 00:59:32,100
+They said, OK, we're starting fresh.
+
+1000
+00:59:32,100 --> 00:59:33,060
+We're starting fresh.
+
+1001
+00:59:33,060 --> 00:59:33,100
+We're starting fresh.
+
+1002
+00:59:33,100 --> 00:59:34,700
+We're not going to have inflation.
+
+1003
+00:59:34,700 --> 00:59:35,860
+And this is brand new.
+
+1004
+00:59:35,860 --> 00:59:38,340
+Now we're an escudo country, no inflation.
+
+1005
+00:59:41,100 --> 00:59:47,340
+Then, in 1975, they switched back to the peso.
+
+1006
+00:59:47,340 --> 00:59:50,860
+The exchange rate, peso of escudo, was, one escudo was
+
+1007
+00:59:50,860 --> 00:59:54,620
+1,000 pesos, OK, because they had had something like a
+
+1008
+00:59:54,620 --> 00:59:56,820
+thousandfold price increase.
+
+1009
+00:59:56,820 --> 01:00:00,020
+And then, in 1975, the exchange rate was, one new
+
+1010
+01:00:00,020 --> 01:00:03,060
+peso is 1,000 escudos.
+
+1011
+01:00:03,060 --> 01:00:06,740
+They went up, a new peso was a million old pesos.
+
+1012
+01:00:06,740 --> 01:00:08,500
+OK, this is getting embarrassing.
+
+1013
+01:00:08,500 --> 01:00:12,980
+I mean, like, can we trust anything or anybody in Chile?
+
+1014
+01:00:12,980 --> 01:00:16,980
+So, the invention started in 1967.
+
+1015
+01:00:16,980 --> 01:00:20,820
+People in Chile were saying, we just want stability.
+
+1016
+01:00:20,820 --> 01:00:22,020
+You know, this is crazy.
+
+1017
+01:00:22,020 --> 01:00:26,140
+Our prices, if I own one peso, I have a nice thousand peso
+
+1018
+01:00:26,140 --> 01:00:31,980
+note from 1955, and I pull it out in 1975, and it's worth
+
+1019
+01:00:31,980 --> 01:00:33,020
+nothing.
+
+1020
+01:00:33,060 --> 01:00:35,740
+It's not even worth the paper it's printed on.
+
+1021
+01:00:35,740 --> 01:00:38,260
+So, we've got to get stability somehow.
+
+1022
+01:00:38,260 --> 01:00:42,640
+So, somebody in Chile had the idea, all right, maybe we
+
+1023
+01:00:42,640 --> 01:00:45,700
+can't protect, we don't know how to protect the currency,
+
+1024
+01:00:45,700 --> 01:00:50,420
+but we can create a unit of account that is stable in
+
+1025
+01:00:50,420 --> 01:00:52,820
+value, and let's write contracts in this unit of
+
+1026
+01:00:52,820 --> 01:00:55,340
+account, rather than in pesos.
+
+1027
+01:00:55,340 --> 01:01:01,940
+So, in 1967, in Chile, they created something called the
+
+1028
+01:01:01,940 --> 01:01:03,040
+unidad.
+
+1029
+01:01:03,060 --> 01:01:08,740
+Unidad de Fomento.
+
+1030
+01:01:08,740 --> 01:01:12,820
+That's Spanish for unit of development.
+
+1031
+01:01:12,820 --> 01:01:18,380
+But what it was, was a unit of account that is indexed to
+
+1032
+01:01:18,380 --> 01:01:19,580
+inflation.
+
+1033
+01:01:19,580 --> 01:01:22,580
+And they said, write your contracts in terms of, and they
+
+1034
+01:01:22,580 --> 01:01:24,300
+call them UFs.
+
+1035
+01:01:24,300 --> 01:01:26,500
+OK?
+
+1036
+01:01:26,500 --> 01:01:31,060
+So, everything could be written in UFs.
+
+1037
+01:01:31,060 --> 01:01:31,740
+Forget pesos.
+
+1038
+01:01:31,740 --> 01:01:32,940
+Because you don't trust pesos anymore.
+
+1039
+01:01:32,940 --> 01:01:37,540
+Let's write contracts in terms of something else.
+
+1040
+01:01:37,540 --> 01:01:43,380
+And that stuck.
+
+1041
+01:01:43,380 --> 01:01:45,540
+Let me see.
+
+1042
+01:01:45,540 --> 01:01:49,460
+It started out as 100 escudos.
+
+1043
+01:01:49,460 --> 01:01:52,820
+Let me see, what was it?
+
+1044
+01:01:52,820 --> 01:01:57,540
+I think it was, one UF was 100 escudos in, I think it was,
+
+1045
+01:01:57,540 --> 01:01:58,940
+something like that.
+
+1046
+01:01:58,940 --> 01:01:59,940
+I don't know.
+
+1047
+01:01:59,940 --> 01:02:00,940
+I don't know.
+
+1048
+01:02:00,940 --> 01:02:01,940
+I don't know.
+
+1049
+01:02:01,940 --> 01:02:02,940
+I don't know.
+
+1050
+01:02:02,940 --> 01:02:03,940
+I don't know.
+
+1051
+01:02:03,940 --> 01:02:04,940
+I don't know.
+
+1052
+01:02:04,940 --> 01:02:05,940
+I don't know.
+
+1053
+01:02:05,940 --> 01:02:06,940
+I don't know.
+
+1054
+01:02:06,940 --> 01:02:07,940
+I don't know.
+
+1055
+01:02:07,940 --> 01:02:08,940
+I don't know.
+
+1056
+01:02:08,940 --> 01:02:09,940
+But it was in 1967.
+
+1057
+01:02:09,940 --> 01:02:14,940
+But by 1977, a UF was 450 new pesos.
+
+1058
+01:02:14,940 --> 01:02:24,780
+Now, if you want to know what a UF is worth now, you just go on the Internet, and it
+
+1059
+01:02:24,780 --> 01:02:26,240
+gives it for everyday.
+
+1060
+01:02:26,240 --> 01:02:29,940
+And the website is, I had it written here.
+
+1061
+01:02:29,940 --> 01:02:30,940
+What is it?
+
+1062
+01:02:30,940 --> 01:02:31,940
+I don't know.
+
+1063
+01:02:31,940 --> 01:02:42,260
+I think the website is valoruf.cl, but it's from my
+
+1064
+01:02:42,260 --> 01:02:43,940
+memory.
+
+1065
+01:02:43,940 --> 01:02:48,320
+And so, I looked up what a UF is worth today.
+
+1066
+01:02:48,320 --> 01:02:51,700
+And I'll use the dollar sign for peso.
+
+1067
+01:02:51,700 --> 01:02:56,300
+21,468 pesos.
+
+1068
+01:02:56,300 --> 01:03:04,300
+So, that means that since 1977, prices have gone up
+
+1069
+01:03:04,300 --> 01:03:08,300
+about 50-fold in Chile.
+
+1070
+01:03:08,300 --> 01:03:12,660
+But if you signed a contract written in UFs, you're
+
+1071
+01:03:12,660 --> 01:03:14,800
+completely protected from that.
+
+1072
+01:03:18,800 --> 01:03:21,540
+It's a very important invention.
+
+1073
+01:03:21,540 --> 01:03:23,800
+And it's a very important investment.
+
+1074
+01:03:23,800 --> 01:03:25,800
+And it's a very important investment.
+
+1075
+01:03:25,800 --> 01:03:26,300
+And it's a very important investment.
+
+1076
+01:03:26,300 --> 01:03:28,300
+Why is it an important invention?
+
+1077
+01:03:28,300 --> 01:03:33,300
+It's important because without it, Chileans wouldn't
+
+1078
+01:03:33,300 --> 01:03:34,300
+index.
+
+1079
+01:03:34,300 --> 01:03:36,300
+We don't index much in the United States.
+
+1080
+01:03:36,300 --> 01:03:40,300
+Almost nothing is indexed to inflation.
+
+1081
+01:03:40,300 --> 01:03:41,300
+Why not?
+
+1082
+01:03:41,300 --> 01:03:42,300
+I don't know.
+
+1083
+01:03:42,300 --> 01:03:44,300
+It's like resistance to wheeled suitcases.
+
+1084
+01:03:44,300 --> 01:03:46,300
+You almost can't figure it out.
+
+1085
+01:03:46,300 --> 01:03:48,300
+It's so obvious.
+
+1086
+01:03:48,300 --> 01:03:51,300
+When you rent an apartment, they should index it to
+
+1087
+01:03:51,300 --> 01:03:52,300
+inflation.
+
+1088
+01:03:52,300 --> 01:03:55,800
+They should tell you, our apartment rents are going to
+
+1089
+01:03:55,800 --> 01:03:59,800
+go up every month or down, depending on the price level.
+
+1090
+01:03:59,800 --> 01:04:02,800
+When you advertise a house for sale, it should be
+
+1091
+01:04:02,800 --> 01:04:03,800
+indexed to inflation.
+
+1092
+01:04:03,800 --> 01:04:05,800
+Otherwise, you're just making it crazy.
+
+1093
+01:04:05,800 --> 01:04:10,800
+You're just making Yale tuition should be indexed to inflation.
+
+1094
+01:04:10,800 --> 01:04:13,800
+It should go up and down with the level of, that keeps its
+
+1095
+01:04:13,800 --> 01:04:14,800
+real value constant.
+
+1096
+01:04:14,800 --> 01:04:19,800
+But we don't seem to do it, because we can't, something is
+
+1097
+01:04:19,800 --> 01:04:21,800
+blocking our thinking about it.
+
+1098
+01:04:21,800 --> 01:04:23,800
+So, we have to do something like this, I believe.
+
+1099
+01:04:23,800 --> 01:04:24,800
+And so, that's what we're doing.
+
+1100
+01:04:24,800 --> 01:04:28,800
+And so, that's what Chile has done.
+
+1101
+01:04:28,800 --> 01:04:32,800
+So, this is the way things are done today in Chile.
+
+1102
+01:04:32,800 --> 01:04:35,800
+It became an invention that took hold and never left that
+
+1103
+01:04:35,800 --> 01:04:36,800
+country.
+
+1104
+01:04:36,800 --> 01:04:40,800
+If you rent an apartment in Chile, good chance that your
+
+1105
+01:04:40,800 --> 01:04:43,800
+rent will be quoted in UFs.
+
+1106
+01:04:43,800 --> 01:04:46,800
+And if you're paying a monthly rent check, this is what you
+
+1107
+01:04:46,800 --> 01:04:47,800
+do.
+
+1108
+01:04:47,800 --> 01:04:50,800
+So, your rent is, I don't know how many UFs.
+
+1109
+01:04:50,800 --> 01:04:53,800
+You go to valoruf.cl.
+
+1110
+01:04:53,800 --> 01:04:56,800
+You find out how many pesos it is.
+
+1111
+01:04:56,800 --> 01:04:59,800
+You write out a check for that number of pesos.
+
+1112
+01:04:59,800 --> 01:05:00,800
+Okay?
+
+1113
+01:05:00,800 --> 01:05:05,800
+And they do this out of habit.
+
+1114
+01:05:05,800 --> 01:05:09,800
+The amazing thing I discovered is that in the United States,
+
+1115
+01:05:09,800 --> 01:05:13,800
+and in just about every country of the world except Chile,
+
+1116
+01:05:13,800 --> 01:05:16,800
+alimony payments are defined in currency.
+
+1117
+01:05:16,800 --> 01:05:17,800
+All right?
+
+1118
+01:05:17,800 --> 01:05:18,800
+You get a divorce.
+
+1119
+01:05:18,800 --> 01:05:21,800
+The mother, let's say, has to support children.
+
+1120
+01:05:21,800 --> 01:05:22,800
+And the mother, let's say, has to support children.
+
+1121
+01:05:22,800 --> 01:05:26,800
+The father is required to pay alimony for the next, until the
+
+1122
+01:05:26,800 --> 01:05:28,800
+children grow up or indefinitely.
+
+1123
+01:05:28,800 --> 01:05:29,800
+All right?
+
+1124
+01:05:29,800 --> 01:05:30,800
+That's a long-term contract.
+
+1125
+01:05:30,800 --> 01:05:31,800
+What if there's inflation?
+
+1126
+01:05:31,800 --> 01:05:35,800
+What does it do to the value of the alimony?
+
+1127
+01:05:35,800 --> 01:05:39,800
+Well, of course, the real value goes down.
+
+1128
+01:05:39,800 --> 01:05:43,800
+So, shouldn't courts just index it to inflation?
+
+1129
+01:05:43,800 --> 01:05:48,800
+Well, they do in Chile, because they've got a habit of doing
+
+1130
+01:05:48,800 --> 01:05:50,800
+things in terms of UFs.
+
+1131
+01:05:50,800 --> 01:05:51,800
+So, this is a great thing.
+
+1132
+01:05:51,800 --> 01:05:56,800
+So, this is an important financial innovation.
+
+1133
+01:05:56,800 --> 01:06:01,800
+By the way, guess how much consumer prices have gone up in
+
+1134
+01:06:01,800 --> 01:06:05,800
+the United States since we created the Consumer Price
+
+1135
+01:06:05,800 --> 01:06:07,800
+Index in 1913?
+
+1136
+01:06:07,800 --> 01:06:10,800
+It's 22-fold.
+
+1137
+01:06:10,800 --> 01:06:13,800
+And we've had a lot of inflation in this country.
+
+1138
+01:06:13,800 --> 01:06:19,800
+22-fold, that means $1 in, something that costs $1 in the
+
+1139
+01:06:19,800 --> 01:06:20,800
+United States.
+
+1140
+01:06:20,800 --> 01:06:25,800
+Something that costs $1 in 1913 will cost $22 today.
+
+1141
+01:06:25,800 --> 01:06:28,800
+That means that if you held cash between 1913 and today,
+
+1142
+01:06:28,800 --> 01:06:31,800
+basically, you're completely wiped out.
+
+1143
+01:06:31,800 --> 01:06:35,800
+But the inflation rate is only 3% a year.
+
+1144
+01:06:35,800 --> 01:06:42,800
+That's 3% a year for almost 100 years is a 22-fold increase.
+
+1145
+01:06:42,800 --> 01:06:46,800
+So, we're living with this kind of uncertainty in the United
+
+1146
+01:06:46,800 --> 01:06:48,800
+States today.
+
+1147
+01:06:48,800 --> 01:06:53,800
+And we're living with the fact that we've adopted the Chilean
+
+1148
+01:06:53,800 --> 01:06:55,800
+invention of UFs.
+
+1149
+01:06:55,800 --> 01:06:58,800
+It's interesting that this invention spread somewhat
+
+1150
+01:06:58,800 --> 01:07:03,800
+throughout Latin America, and it stopped at the Rio Grande.
+
+1151
+01:07:03,800 --> 01:07:07,800
+Mexico has something called UDI, which is the Mexican
+
+1152
+01:07:07,800 --> 01:07:08,800
+version.
+
+1153
+01:07:08,800 --> 01:07:11,800
+That's UDI, which is the Mexican version of Unidad de
+
+1154
+01:07:11,800 --> 01:07:13,800
+Fomento.
+
+1155
+01:07:13,800 --> 01:07:16,800
+But the rest of the world doesn't want to copy this idea.
+
+1156
+01:07:16,800 --> 01:07:17,800
+Why is that?
+
+1157
+01:07:17,800 --> 01:07:22,800
+Because this idea emerged out of embarrassment.
+
+1158
+01:07:22,800 --> 01:07:25,800
+Chile had had a massive inflation, which is
+
+1159
+01:07:25,800 --> 01:07:29,800
+embarrassing, and nobody wants to copy anything from someone
+
+1160
+01:07:29,800 --> 01:07:31,800
+having that bad experience.
+
+1161
+01:07:31,800 --> 01:07:35,800
+It's also cultural that we're not used to Latin American
+
+1162
+01:07:35,800 --> 01:07:38,800
+things, just like we're not used to using gimlets.
+
+1163
+01:07:38,800 --> 01:07:43,800
+So, we don't have them.
+
+1164
+01:07:43,800 --> 01:07:46,800
+Let me just give one more invention.
+
+1165
+01:07:46,800 --> 01:07:48,800
+I'll stop.
+
+1166
+01:07:48,800 --> 01:07:51,800
+This is another financial invention.
+
+1167
+01:07:51,800 --> 01:07:56,800
+More recently, it's the invention of the swap.
+
+1168
+01:07:56,800 --> 01:07:59,800
+I'd like to give this example, because it relates to a couple
+
+1169
+01:07:59,800 --> 01:08:02,800
+of our speakers.
+
+1170
+01:08:02,800 --> 01:08:05,800
+What is a swap?
+
+1171
+01:08:05,800 --> 01:08:11,800
+Well, the swap is a financial contract that was invented by
+
+1172
+01:08:11,800 --> 01:08:14,800
+none other than David Swenson.
+
+1173
+01:08:16,800 --> 01:08:19,800
+We'll be speaking soon.
+
+1174
+01:08:19,800 --> 01:08:22,800
+He is the chief investment officer for Yale University.
+
+1175
+01:08:22,800 --> 01:08:25,800
+He invented this before he came to Yale, when he was working
+
+1176
+01:08:25,800 --> 01:08:29,800
+for Salomon Brothers, which was a major Wall Street investment
+
+1177
+01:08:29,800 --> 01:08:32,800
+bank that no longer exists.
+
+1178
+01:08:32,800 --> 01:08:37,800
+But back then, in the early 80s, he apparently, I've got a
+
+1179
+01:08:37,800 --> 01:08:38,800
+couple of sources.
+
+1180
+01:08:38,800 --> 01:08:41,800
+I think he is the real inventor of it.
+
+1181
+01:08:41,800 --> 01:08:44,800
+What is a swap?
+
+1182
+01:08:44,800 --> 01:08:48,800
+Well, a swap is a contract between two parties, usually a
+
+1183
+01:08:48,800 --> 01:08:52,800
+fairly long-term contract, to exchange cash flows.
+
+1184
+01:08:52,800 --> 01:08:57,800
+So, the simplest swap would be a currency swap, where one
+
+1185
+01:08:57,800 --> 01:09:02,800
+country, there's two parties, two different companies, let's
+
+1186
+01:09:02,800 --> 01:09:03,800
+say.
+
+1187
+01:09:03,800 --> 01:09:07,800
+One of them promises to exchange euros for dollars,
+
+1188
+01:09:07,800 --> 01:09:11,800
+however, every month for the next five years.
+
+1189
+01:09:11,800 --> 01:09:14,800
+And the other one promises to exchange dollars for the next
+
+1190
+01:09:14,800 --> 01:09:15,800
+five years.
+
+1191
+01:09:15,800 --> 01:09:18,800
+So, they're going to exchange euros for euros every month for
+
+1192
+01:09:18,800 --> 01:09:20,800
+the next five years.
+
+1193
+01:09:20,800 --> 01:09:21,800
+It's a swap.
+
+1194
+01:09:21,800 --> 01:09:24,800
+But we decide in advance on what the conversion is, what the
+
+1195
+01:09:24,800 --> 01:09:28,800
+swap rate is between euros and dollars.
+
+1196
+01:09:28,800 --> 01:09:32,800
+And so, that's useful for risk management purposes, because
+
+1197
+01:09:32,800 --> 01:09:35,800
+somebody, someone in Europe may be getting dollars revenue in
+
+1198
+01:09:35,800 --> 01:09:36,800
+their business.
+
+1199
+01:09:36,800 --> 01:09:39,800
+They know they're going to get this revenue over the next five
+
+1200
+01:09:39,800 --> 01:09:40,800
+years.
+
+1201
+01:09:40,800 --> 01:09:43,800
+It's kind of a long-term contract, a long-term business
+
+1202
+01:09:43,800 --> 01:09:44,800
+contract.
+
+1203
+01:09:44,800 --> 01:09:46,800
+But they know that they don't know at what rate they can
+
+1204
+01:09:46,800 --> 01:09:48,800
+convert it back into euros.
+
+1205
+01:09:48,800 --> 01:09:52,800
+And on the other side, we have the Americans who may be doing
+
+1206
+01:09:52,800 --> 01:09:55,800
+business in Europe, and they get euro income, and they want
+
+1207
+01:09:55,800 --> 01:09:56,800
+to convert it to dollars.
+
+1208
+01:09:56,800 --> 01:10:04,800
+So, they can make a contract that swaps these cash flows.
+
+1209
+01:10:04,800 --> 01:10:06,800
+And that was the invention.
+
+1210
+01:10:06,800 --> 01:10:08,800
+And it didn't come until the 1980s.
+
+1211
+01:10:08,800 --> 01:10:13,800
+It's amazing that these simple ideas weren't out there.
+
+1212
+01:10:13,800 --> 01:10:14,800
+And why weren't they out there?
+
+1213
+01:10:14,800 --> 01:10:19,800
+Well, it may have something to do with legal uncertainty,
+
+1214
+01:10:19,800 --> 01:10:22,800
+regulatory uncertainty.
+
+1215
+01:10:22,800 --> 01:10:27,800
+There's something called ISDA, which was founded since the
+
+1216
+01:10:27,800 --> 01:10:28,800
+1980s.
+
+1217
+01:10:28,800 --> 01:10:31,800
+That's the International Swaps and Derivatives Association.
+
+1218
+01:10:31,800 --> 01:10:36,800
+And what it does is, it lobbies lawmakers for laws that permit
+
+1219
+01:10:36,800 --> 01:10:41,800
+swaps to work efficiently and effectively.
+
+1220
+01:10:41,800 --> 01:10:43,800
+And so, you need a –
+
+1221
+01:10:43,800 --> 01:10:48,800
+an organization like ISDA that will make these contracts work
+
+1222
+01:10:48,800 --> 01:10:50,800
+as effectively as they are.
+
+1223
+01:10:50,800 --> 01:10:56,800
+Now, swaps are a hugely important contract.
+
+1224
+01:10:56,800 --> 01:11:02,800
+My last example, which is a sub-example from this, is the
+
+1225
+01:11:02,800 --> 01:11:09,800
+credit default swap, which is something that – I won't put
+
+1226
+01:11:09,800 --> 01:11:12,800
+David Swensen's name.
+
+1227
+01:11:12,800 --> 01:11:24,800
+A credit default swap is, again, a contract between two
+
+1228
+01:11:24,800 --> 01:11:30,800
+parties that has to do with the risk of a credit event.
+
+1229
+01:11:30,800 --> 01:11:33,800
+So, there's a protection buyer.
+
+1230
+01:11:33,800 --> 01:11:34,800
+There's two parties.
+
+1231
+01:11:34,800 --> 01:11:38,800
+One we'll call the protection buyer, and the other is a
+
+1232
+01:11:38,800 --> 01:11:40,800
+protection seller.
+
+1233
+01:11:40,800 --> 01:11:47,800
+And it would have to do with – basically, the buyer promises
+
+1234
+01:11:47,800 --> 01:11:53,800
+to pay the seller at regular intervals for some period of
+
+1235
+01:11:53,800 --> 01:11:59,800
+time, and just pay – the money just flows regularly from the
+
+1236
+01:11:59,800 --> 01:12:03,800
+buyer to the seller until an event occurs, which is, say, a
+
+1237
+01:12:03,800 --> 01:12:05,800
+bankruptcy of some company.
+
+1238
+01:12:05,800 --> 01:12:07,800
+It's defined in the contract.
+
+1239
+01:12:07,800 --> 01:12:10,800
+In which case, then, the protection seller has to pay
+
+1240
+01:12:10,800 --> 01:12:14,800
+the protection buyer.
+
+1241
+01:12:14,800 --> 01:12:17,800
+Now, you might ask, isn't this like an insurance contract?
+
+1242
+01:12:17,800 --> 01:12:19,800
+Wouldn't you call this insurance?
+
+1243
+01:12:19,800 --> 01:12:27,800
+If I'm paying regular payments to somebody else, and then if an
+
+1244
+01:12:27,800 --> 01:12:30,800
+event occurs, I'm getting insurance against default by
+
+1245
+01:12:30,800 --> 01:12:32,800
+some company.
+
+1246
+01:12:32,800 --> 01:12:34,800
+And I may be doing business with the company, or I may be
+
+1247
+01:12:34,800 --> 01:12:38,800
+investing in the company's bonds, so I may want this protection.
+
+1248
+01:12:38,800 --> 01:12:40,800
+But it looks like insurance, right?
+
+1249
+01:12:40,800 --> 01:12:44,800
+Well, actually, there's something else called credit
+
+1250
+01:12:44,800 --> 01:12:56,800
+insurance, which goes back to the 19th century.
+
+1251
+01:12:56,800 --> 01:13:00,800
+There were companies in, like, 1880 that would allow you to
+
+1252
+01:13:00,800 --> 01:13:05,800
+buy insurance against default or some failure of a company.
+
+1253
+01:13:05,800 --> 01:13:09,800
+So, this was an institution and an invention of the 19th
+
+1254
+01:13:09,800 --> 01:13:10,800
+century.
+
+1255
+01:13:10,800 --> 01:13:15,800
+But credit default swaps are, what's the difference?
+
+1256
+01:13:15,800 --> 01:13:19,800
+Well, the difference is that there's a whole culture and
+
+1257
+01:13:19,800 --> 01:13:23,800
+regulatory environment developed around credit insurance that
+
+1258
+01:13:23,800 --> 01:13:25,800
+limited it.
+
+1259
+01:13:25,800 --> 01:13:27,800
+They didn't have ISDA.
+
+1260
+01:13:27,800 --> 01:13:29,800
+They had state insurance regulators, okay?
+
+1261
+01:13:29,800 --> 01:13:32,800
+And they just didn't have the same conceptual framework.
+
+1262
+01:13:32,800 --> 01:13:34,800
+It's complicated.
+
+1263
+01:13:34,800 --> 01:13:39,800
+The credit default swap was boosted by ISDA and other
+
+1264
+01:13:39,800 --> 01:13:44,800
+thinkers who thought of how to make this into a huge, huge
+
+1265
+01:13:44,800 --> 01:13:46,800
+business.
+
+1266
+01:13:46,800 --> 01:13:50,800
+Credit insurance turned out, ended up being kind of limited
+
+1267
+01:13:50,800 --> 01:13:52,800
+in its application.
+
+1268
+01:13:52,800 --> 01:13:58,800
+And often, the credit insurers were more like consultants.
+
+1269
+01:13:58,800 --> 01:14:02,800
+They would say, we'll insure your credit against, we'll insure
+
+1270
+01:14:02,800 --> 01:14:06,800
+you against the default by someone you lend money to, but
+
+1271
+01:14:06,800 --> 01:14:08,800
+we want also to be involved in your credit.
+
+1272
+01:14:08,800 --> 01:14:13,800
+And they were involved in helping you avoid making bad
+
+1273
+01:14:13,800 --> 01:14:15,800
+contracts like that.
+
+1274
+01:14:15,800 --> 01:14:18,800
+So, the credit default swap became huge.
+
+1275
+01:14:18,800 --> 01:14:21,800
+Now, I say this, let me just conclude with this.
+
+1276
+01:14:21,800 --> 01:14:27,800
+This brings us back to our, one of our outside speakers,
+
+1277
+01:14:27,800 --> 01:14:33,800
+Hank Greenberg, is going to talk about his company, AIG,
+
+1278
+01:14:33,800 --> 01:14:35,800
+which failed because of errors.
+
+1279
+01:14:35,800 --> 01:14:36,800
+It didn't fail.
+
+1280
+01:14:36,800 --> 01:14:37,800
+It got bailed out by the government.
+
+1281
+01:14:37,800 --> 01:14:40,800
+It got bailed out because of errors made in credit default
+
+1282
+01:14:40,800 --> 01:14:41,800
+swaps.
+
+1283
+01:14:41,800 --> 01:14:45,800
+I don't think that these errors were his fault, because this
+
+1284
+01:14:45,800 --> 01:14:47,800
+happened after he left the company.
+
+1285
+01:14:47,800 --> 01:14:50,800
+But I just want to mention this, because it's all part of a big
+
+1286
+01:14:50,800 --> 01:14:51,800
+picture.
+
+1287
+01:14:51,800 --> 01:14:53,800
+We had a financial invention, the swap.
+
+1288
+01:14:53,800 --> 01:14:56,800
+Then we had the credit default swap.
+
+1289
+01:14:56,800 --> 01:14:58,800
+And these are important inventions.
+
+1290
+01:14:58,800 --> 01:15:02,800
+They caused a leap forward in our ability to do risk
+
+1291
+01:15:02,800 --> 01:15:05,800
+management, but they created attendant risks.
+
+1292
+01:15:05,800 --> 01:15:07,800
+They were new, and they weren't understood by the government.
+
+1293
+01:15:07,800 --> 01:15:09,800
+They weren't understood well enough.
+
+1294
+01:15:09,800 --> 01:15:12,800
+And so, a big part of what happened in this crisis was a
+
+1295
+01:15:12,800 --> 01:15:15,800
+failure of the credit default swap market.
+
+1296
+01:15:15,800 --> 01:15:18,800
+But that's not, to me, an indictment of financial
+
+1297
+01:15:18,800 --> 01:15:19,800
+innovation.
+
+1298
+01:15:19,800 --> 01:15:23,800
+I think the credit default swap was an important innovation,
+
+1299
+01:15:23,800 --> 01:15:27,800
+and we will see more like it, and it will help make for a
+
+1300
+01:15:27,800 --> 01:15:28,800
+better world.
