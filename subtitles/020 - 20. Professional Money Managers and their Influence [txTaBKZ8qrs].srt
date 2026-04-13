@@ -1,0 +1,5668 @@
+1
+00:00:00,000 --> 00:00:00,500
+All right.
+
+2
+00:00:00,500 --> 00:00:05,360
+Well, we're talking about institutional investors today.
+
+3
+00:00:05,360 --> 00:00:07,220
+I don't know if that sounds
+
+4
+00:00:07,220 --> 00:00:09,080
+like an enticing topic to you.
+
+5
+00:00:09,080 --> 00:00:14,400
+Institutional sounds boring, but I'm actually talking about
+
+6
+00:00:14,400 --> 00:00:17,840
+people who control much of the
+
+7
+00:00:17,840 --> 00:00:21,280
+wealth of the world, and they
+
+8
+00:00:21,280 --> 00:00:25,880
+have a lot of influence and importance.
+
+9
+00:00:25,880 --> 00:00:28,760
+So, I think it's worth considering them and
+
+10
+00:00:28,760 --> 00:00:30,710
+considering, it's really part of
+
+11
+00:00:30,710 --> 00:00:32,659
+the governance of the world.
+
+12
+00:00:32,659 --> 00:00:34,660
+How do things happen?
+
+13
+00:00:34,660 --> 00:00:38,000
+Who decides what is going to happen?
+
+14
+00:00:38,000 --> 00:00:40,420
+What's going to be done?
+
+15
+00:00:40,420 --> 00:00:42,720
+Increasingly, it is professional,
+
+16
+00:00:42,720 --> 00:00:45,000
+institutional investors.
+
+17
+00:00:45,000 --> 00:00:48,520
+They're kind of unseen mostly.
+
+18
+00:00:48,520 --> 00:00:52,000
+I guess they don't make movies about them.
+
+19
+00:00:52,000 --> 00:00:53,260
+Not that I've ever seen.
+
+20
+00:00:53,260 --> 00:00:55,760
+Someone tell me if there is one.
+
+21
+00:00:55,760 --> 00:00:57,760
+But they're very important.
+
+22
+00:00:57,760 --> 00:00:58,760
+And so, I think it's important.
+
+23
+00:00:58,760 --> 00:01:00,999
+And I think, as a scientist,
+
+24
+00:01:00,999 --> 00:01:03,239
+I like to think about this.
+
+25
+00:01:03,239 --> 00:01:05,359
+So, I thought I would
+
+26
+00:01:05,359 --> 00:01:07,480
+start by just talking about the
+
+27
+00:01:07,480 --> 00:01:09,000
+importance of it.
+
+28
+00:01:09,000 --> 00:01:10,550
+In this lecture, I'm going
+
+29
+00:01:10,550 --> 00:01:12,100
+to include both people who manage
+
+30
+00:01:12,100 --> 00:01:16,620
+money for institutional portfolios, and also financial
+
+31
+00:01:16,620 --> 00:01:19,039
+advisors and financial planners.
+
+32
+00:01:19,039 --> 00:01:21,799
+They are very big and
+
+33
+00:01:21,799 --> 00:01:24,560
+important part of the world economy.
+
+34
+00:01:24,560 --> 00:01:25,980
+But I wanted to start by
+
+35
+00:01:25,980 --> 00:01:27,400
+just giving some perspective on them,
+
+36
+00:01:27,400 --> 00:01:27,980
+by looking at what it is that we own, and what's
+
+37
+00:01:27,980 --> 00:01:28,560
+out there, and why it all seems to be true to us.
+
+38
+00:01:28,760 --> 00:01:30,960
+So, I thought I would start
+
+39
+00:01:30,960 --> 00:01:33,160
+for the United States and show
+
+40
+00:01:33,160 --> 00:01:34,640
+a list of everything.
+
+41
+00:01:34,640 --> 00:01:37,520
+Everything that's owned.
+
+42
+00:01:37,520 --> 00:01:41,180
+And I got this from Table
+
+43
+00:01:41,180 --> 00:01:44,840
+B-100 of the Balance Sheet for
+
+44
+00:01:44,840 --> 00:01:49,000
+the American Economy, produced by the Federal Reserve Board
+
+45
+00:01:49,000 --> 00:01:52,380
+in Washington.
+
+46
+00:01:52,380 --> 00:01:54,370
+So, it's really a sum
+
+47
+00:01:54,370 --> 00:01:56,360
+of everything that people own in
+
+48
+00:01:56,360 --> 00:01:58,000
+the United States.
+
+49
+00:01:58,000 --> 00:01:59,150
+And the point I'm going
+
+50
+00:01:59,150 --> 00:02:00,300
+to make from this is that
+
+51
+00:02:00,300 --> 00:02:04,960
+institutional investors are quite prominent on this list,
+
+52
+00:02:04,960 --> 00:02:05,940
+as managers of it.
+
+53
+00:02:05,940 --> 00:02:08,240
+But let's just first look at the total.
+
+54
+00:02:08,240 --> 00:02:19,640
+This is $70 trillion is it.
+
+55
+00:02:19,640 --> 00:02:23,760
+That's everything that anyone owns.
+
+56
+00:02:23,760 --> 00:02:27,760
+In terms of the financial structure, it's $70 trillion.
+
+57
+00:02:27,760 --> 00:02:33,399
+In terms of assets that the Fed can measure.
+
+58
+00:02:33,399 --> 00:02:35,760
+Of course, there's all these priceless things that we all
+
+59
+00:02:35,760 --> 00:02:37,000
+own, but not on this list.
+
+60
+00:02:42,000 --> 00:02:42,880
+So, what are they?
+
+61
+00:02:42,880 --> 00:02:45,880
+Well, number one is real estate.
+
+62
+00:02:45,880 --> 00:02:47,760
+This is owned by households.
+
+63
+00:02:47,760 --> 00:02:50,340
+Actually, they lump in nonprofits, unfortunately,
+
+64
+00:02:50,340 --> 00:02:53,700
+because nonprofit organizations are like people, because
+
+65
+00:02:53,700 --> 00:02:55,700
+nobody owns them, right?
+
+66
+00:02:55,700 --> 00:02:57,100
+So, this is the sum of everything that people own.
+
+67
+00:02:57,100 --> 00:02:57,739
+So, this is the sum of everything that people own.
+
+68
+00:02:57,760 --> 00:02:58,760
+So, this is the sum of everything that people own.
+
+69
+00:02:58,760 --> 00:03:00,829
+And it's not just the
+
+70
+00:03:00,829 --> 00:03:02,899
+fact that the ultimate owners own.
+
+71
+00:03:02,899 --> 00:03:04,720
+So, it's everything.
+
+72
+00:03:04,720 --> 00:03:08,480
+But nonprofits are a small part of the total.
+
+73
+00:03:08,480 --> 00:03:11,720
+So real estate is $18 trillion.
+
+74
+00:03:11,720 --> 00:03:14,479
+That's real estate owned
+
+75
+00:03:14,479 --> 00:03:17,239
+directly by households and nonprofits.
+
+76
+00:03:17,239 --> 00:03:20,619
+It doesn't include commercial real estate that
+
+77
+00:03:20,619 --> 00:03:24,000
+are owned by some of these other things.
+
+78
+00:03:24,000 --> 00:03:26,000
+And then, it's not just real estate.
+
+79
+00:03:26,000 --> 00:03:27,000
+It's real estate.
+
+80
+00:03:27,000 --> 00:03:27,519
+It's real estate.
+
+81
+00:03:27,519 --> 00:03:27,720
+It's real estate.
+
+82
+00:03:27,720 --> 00:03:27,739
+It's real estate.
+
+83
+00:03:27,760 --> 00:03:29,760
+But that's not held by institutions.
+
+84
+00:03:29,760 --> 00:03:31,959
+That's held directly by households.
+
+85
+00:03:31,959 --> 00:03:37,799
+But the next item on the thing is pension funds.
+
+86
+00:03:37,799 --> 00:03:41,260
+And that's $13 trillion.
+
+87
+00:03:41,260 --> 00:03:43,579
+Almost as big as real estate.
+
+88
+00:03:43,579 --> 00:03:45,340
+And what are pension funds?
+
+89
+00:03:45,340 --> 00:03:49,660
+These are plans that either businesses create
+
+90
+00:03:49,660 --> 00:03:53,980
+for their employees, or that people invest
+
+91
+00:03:53,980 --> 00:03:55,980
+in themselves for retirement.
+
+92
+00:03:55,980 --> 00:03:57,519
+It's planning for old age.
+
+93
+00:03:57,520 --> 00:03:58,520
+And that's what they're doing.
+
+94
+00:03:58,520 --> 00:04:04,520
+And then, there's equity in non-corporate business.
+
+95
+00:04:04,520 --> 00:04:06,520
+Non-corporate business means family businesses.
+
+96
+00:04:06,520 --> 00:04:09,020
+We're trying to, well, not necessarily
+
+97
+00:04:09,020 --> 00:04:11,520
+family, but partnerships and family businesses.
+
+98
+00:04:11,520 --> 00:04:14,520
+You know, the corner store is a business.
+
+99
+00:04:14,520 --> 00:04:15,520
+It's worth something.
+
+100
+00:04:15,520 --> 00:04:18,519
+The Fed has estimated the total value
+
+101
+00:04:18,519 --> 00:04:21,519
+of all of these non-corporate businesses and estimates
+
+102
+00:04:21,519 --> 00:04:23,520
+them at $6 trillion.
+
+103
+00:04:23,520 --> 00:04:27,280
+Again, that's not institutionally held.
+
+104
+00:04:27,280 --> 00:04:28,280
+It's not a business.
+
+105
+00:04:28,280 --> 00:04:32,280
+It's not a business that's run by families and people.
+
+106
+00:04:32,280 --> 00:04:36,280
+So far, we've got more family than institutional.
+
+107
+00:04:36,280 --> 00:04:38,780
+But then, if you keep going down
+
+108
+00:04:38,780 --> 00:04:41,280
+the list, deposits are deposits at banks.
+
+109
+00:04:41,280 --> 00:04:43,280
+$8 trillion.
+
+110
+00:04:43,280 --> 00:04:48,280
+That's savings deposits, time deposits.
+
+111
+00:04:48,280 --> 00:04:51,280
+Now, that's institutional investors managing that.
+
+112
+00:04:51,280 --> 00:04:52,280
+Corporate equities.
+
+113
+00:04:52,280 --> 00:04:55,280
+Now, this is shares in corporations owned by households.
+
+114
+00:04:55,280 --> 00:04:56,280
+That's $8 trillion.
+
+115
+00:04:56,280 --> 00:04:59,280
+And then, we have mutual funds.
+
+116
+00:04:59,280 --> 00:05:02,280
+And we're not taking them directly.
+
+117
+00:05:02,280 --> 00:05:06,280
+But then, we have mutual funds.
+
+118
+00:05:06,280 --> 00:05:09,780
+Mutual funds are investment funds for the
+
+119
+00:05:09,780 --> 00:05:13,280
+general public that invest in equities and
+
+120
+00:05:13,280 --> 00:05:17,280
+sometimes bonds and other things.
+
+121
+00:05:17,280 --> 00:05:21,280
+And that's almost $5 trillion.
+
+122
+00:05:21,280 --> 00:05:22,280
+Consumer durables.
+
+123
+00:05:22,280 --> 00:05:24,280
+We're going kind of, it seems like half and half.
+
+124
+00:05:24,280 --> 00:05:27,280
+But that's about $5 trillion.
+
+125
+00:05:27,280 --> 00:05:30,280
+Consumer durables, about $5 trillion.
+
+126
+00:05:30,280 --> 00:05:34,280
+That's your cars, your clothes that you're wearing.
+
+127
+00:05:34,280 --> 00:05:36,780
+Whatever else is in your
+
+128
+00:05:36,780 --> 00:05:39,280
+house is estimated at $5 trillion.
+
+129
+00:05:39,280 --> 00:05:42,280
+Treasury securities.
+
+130
+00:05:42,280 --> 00:05:45,280
+Now, that's government bonds.
+
+131
+00:05:45,280 --> 00:05:48,280
+It might surprise you that it's only $1 trillion.
+
+132
+00:05:48,280 --> 00:05:50,780
+That's because that includes both savings
+
+133
+00:05:50,780 --> 00:05:53,280
+bonds, which your grandmother gave you.
+
+134
+00:05:53,280 --> 00:05:55,280
+You got $100 saving bonds.
+
+135
+00:05:55,280 --> 00:05:57,280
+Maybe you did.
+
+136
+00:05:57,280 --> 00:05:59,280
+But that's only $100, right?
+
+137
+00:05:59,280 --> 00:06:01,280
+It doesn't add up to much.
+
+138
+00:06:01,280 --> 00:06:05,280
+There are big-time treasury securities that
+
+139
+00:06:05,280 --> 00:06:09,280
+are, you know, treasury bonds, treasury notes.
+
+140
+00:06:09,280 --> 00:06:12,280
+But they generally are held by institutions.
+
+141
+00:06:12,280 --> 00:06:15,280
+Households just generally don't buy them.
+
+142
+00:06:15,280 --> 00:06:17,280
+The total national debt is now,
+
+143
+00:06:17,280 --> 00:06:19,280
+in the United States, is $14 trillion.
+
+144
+00:06:19,280 --> 00:06:21,280
+But only $1 trillion, that's only 1
+
+145
+00:06:21,280 --> 00:06:23,280
+14th of it, is held by households.
+
+146
+00:06:23,280 --> 00:06:26,280
+So, the institutions hold the rest.
+
+147
+00:06:26,280 --> 00:06:29,280
+Well, foreigners hold some of the rest, too.
+
+148
+00:06:29,280 --> 00:06:31,280
+We're not counting foreigners here.
+
+149
+00:06:31,280 --> 00:06:35,280
+Corporate bonds held directly by households, $2 trillion.
+
+150
+00:06:35,280 --> 00:06:40,280
+Municipal bonds held by households, $1 trillion.
+
+151
+00:06:40,280 --> 00:06:41,280
+But I'll come to this.
+
+152
+00:06:41,280 --> 00:06:43,280
+The total municipal bonds outstanding
+
+153
+00:06:43,280 --> 00:06:45,280
+are more like $3 trillion.
+
+154
+00:06:45,280 --> 00:06:47,280
+So, households don't hold them generally.
+
+155
+00:06:47,280 --> 00:06:52,280
+They accept indirectly through institutions.
+
+156
+00:06:52,280 --> 00:06:53,280
+Life insurance.
+
+157
+00:06:53,280 --> 00:06:56,280
+These are reserves at life insurance institutions.
+
+158
+00:06:56,280 --> 00:06:59,280
+That would be institutional investors again.
+
+159
+00:06:59,280 --> 00:07:05,280
+So, it seems like less than half, but close to half of
+
+160
+00:07:05,280 --> 00:07:11,280
+all of the assets in this country are held by institutional investors.
+
+161
+00:07:11,280 --> 00:07:14,280
+This is a change from 100 years ago.
+
+162
+00:07:14,280 --> 00:07:16,280
+100 years ago, virtually none of
+
+163
+00:07:16,280 --> 00:07:18,280
+it would be held by institutional investors.
+
+164
+00:07:18,280 --> 00:07:22,280
+So, our society is becoming more institutionalized.
+
+165
+00:07:22,280 --> 00:07:25,280
+More and more things are being done by professionals.
+
+166
+00:07:25,280 --> 00:07:31,280
+A related thing I want to mention again is that as
+
+167
+00:07:31,280 --> 00:07:37,280
+society gets more modern, the importance of the family is diminished.
+
+168
+00:07:37,280 --> 00:07:42,280
+And the importance of government and business are increased.
+
+169
+00:07:42,280 --> 00:07:45,780
+So, for example, pension funds are taking
+
+170
+00:07:45,780 --> 00:07:49,280
+over what used to be a family responsibility.
+
+171
+00:07:49,280 --> 00:07:51,280
+When grandma and grandpa get old, they get old.
+
+172
+00:07:51,280 --> 00:07:53,780
+They move into your house,
+
+173
+00:07:53,780 --> 00:07:56,280
+and you take care of them.
+
+174
+00:07:56,280 --> 00:07:59,280
+That's an extra financial thing that
+
+175
+00:07:59,280 --> 00:08:02,280
+has gone on from time immemorial.
+
+176
+00:08:02,280 --> 00:08:04,280
+But now, it works differently.
+
+177
+00:08:04,280 --> 00:08:06,280
+Grandpa and grandma commit to
+
+178
+00:08:06,280 --> 00:08:08,280
+a pension fund, contribute to it.
+
+179
+00:08:08,280 --> 00:08:12,780
+When they get old, they move to an assisted
+
+180
+00:08:12,780 --> 00:08:17,280
+living facility, which is a place where maybe they're happier.
+
+181
+00:08:17,280 --> 00:08:18,280
+I don't know.
+
+182
+00:08:18,280 --> 00:08:20,280
+At least they can choose.
+
+183
+00:08:20,280 --> 00:08:22,280
+They don't have just the single choice of
+
+184
+00:08:22,280 --> 00:08:24,280
+living with you, which they might not like.
+
+185
+00:08:24,280 --> 00:08:26,280
+They might like it, they might not.
+
+186
+00:08:26,280 --> 00:08:29,280
+It's working more institutionally.
+
+187
+00:08:29,280 --> 00:08:33,780
+So, this is really, I wanted to talk about thoughts about how,
+
+188
+00:08:33,780 --> 00:08:38,280
+where our society is going, and seeing the increasing professionalization of it.
+
+189
+00:08:38,280 --> 00:08:43,280
+I thought to complete this list, I should remember, the
+
+190
+00:08:43,280 --> 00:08:48,280
+previous slide, this 70 trillion is assets owned by the households.
+
+191
+00:08:48,280 --> 00:08:49,280
+Okay?
+
+192
+00:08:49,280 --> 00:08:50,780
+And I just wanted to get
+
+193
+00:08:50,780 --> 00:08:52,280
+you in the right perspective on this.
+
+194
+00:08:52,280 --> 00:08:54,280
+What about liabilities?
+
+195
+00:08:54,280 --> 00:08:56,280
+Okay?
+
+196
+00:08:56,280 --> 00:09:00,280
+So, the Federal Reserve Board computes that, too.
+
+197
+00:09:00,280 --> 00:09:04,280
+So, these are, you know, those assets are owned, but it's
+
+198
+00:09:04,280 --> 00:09:08,280
+not net worth of households, because the households owe money, too.
+
+199
+00:09:08,280 --> 00:09:12,280
+So, the biggest debt that households owe is,
+
+200
+00:09:12,280 --> 00:09:16,280
+in the United States, $10 trillion of home mortgages.
+
+201
+00:09:16,280 --> 00:09:17,280
+All right?
+
+202
+00:09:17,280 --> 00:09:18,280
+So, they have.
+
+203
+00:09:18,280 --> 00:09:24,280
+They have $15 trillion of real estate, but they owe $10 trillion, so
+
+204
+00:09:24,280 --> 00:09:30,280
+that they have a net worth in real estate of only $8 trillion.
+
+205
+00:09:30,280 --> 00:09:34,280
+But moreover, consumer credit is $2.4 trillion.
+
+206
+00:09:34,280 --> 00:09:40,780
+That's credit card debt and some other revolving debt, like department store cards, or when
+
+207
+00:09:40,780 --> 00:09:47,280
+you buy something, when you buy a car on time, it would go into that total.
+
+208
+00:09:47,280 --> 00:09:52,280
+So, the total liabilities are $13.9 trillion.
+
+209
+00:09:52,280 --> 00:09:55,780
+And then, so household net worth is the
+
+210
+00:09:55,780 --> 00:09:59,280
+70 trillion assets minus the almost 14 trillion liabilities.
+
+211
+00:09:59,280 --> 00:10:05,280
+So, it's 56.8 trillion is the total assets.
+
+212
+00:10:05,280 --> 00:10:11,280
+And in per capita terms, that's $184,000.
+
+213
+00:10:11,280 --> 00:10:12,280
+So, you know, that makes it out.
+
+214
+00:10:12,280 --> 00:10:13,780
+That would mean that the average
+
+215
+00:10:13,780 --> 00:10:15,280
+family of four has about 800.
+
+216
+00:10:15,280 --> 00:10:16,280
+I'm just multiplying.
+
+217
+00:10:16,280 --> 00:10:21,280
+184 by 4, it's almost $800,000.
+
+218
+00:10:21,280 --> 00:10:24,280
+So, we're a country of millionaires, I guess.
+
+219
+00:10:24,280 --> 00:10:26,280
+We're soon to be.
+
+220
+00:10:26,280 --> 00:10:29,280
+But the problem is, it's only on average.
+
+221
+00:10:29,280 --> 00:10:34,280
+Most houses, you know, this is unequally distributed.
+
+222
+00:10:34,280 --> 00:10:39,780
+But I should also add, the U.S. government has a debt of, as
+
+223
+00:10:39,780 --> 00:10:45,280
+of this morning, I looked it up on a national debt clock, $14.286 trillion.
+
+224
+00:10:45,280 --> 00:10:48,280
+And that's not counted as a liability of household.
+
+225
+00:10:48,280 --> 00:10:51,780
+But it should be, because we have to pay it,
+
+226
+00:10:51,780 --> 00:10:55,280
+and we're going to pay it through our taxes, right, eventually.
+
+227
+00:10:55,280 --> 00:10:57,780
+So, you might subtract off another
+
+228
+00:10:57,780 --> 00:11:00,280
+$14 trillion from the $56 trillion.
+
+229
+00:11:00,280 --> 00:11:03,780
+And then, let's not forget, there's state and
+
+230
+00:11:03,780 --> 00:11:07,280
+local government debt, which is another $3 trillion.
+
+231
+00:11:07,280 --> 00:11:10,280
+So, what does that bring us down to?
+
+232
+00:11:10,280 --> 00:11:13,280
+Something like $40 trillion or less.
+
+233
+00:11:13,280 --> 00:11:14,280
+Right?
+
+234
+00:11:14,280 --> 00:11:16,280
+So, that's a lot of money.
+
+235
+00:11:16,280 --> 00:11:20,280
+But it's not going to be less.
+
+236
+00:11:20,280 --> 00:11:26,280
+I wanted to do that just to get
+
+237
+00:11:26,280 --> 00:11:32,280
+perspective on what our assets and liabilities look like.
+
+238
+00:11:32,280 --> 00:11:35,280
+The other thing is, you know, I'm
+
+239
+00:11:35,280 --> 00:11:38,280
+trying to put things in complete perspective.
+
+240
+00:11:38,280 --> 00:11:40,280
+So, I wanted to talk also about
+
+241
+00:11:40,280 --> 00:11:42,280
+something that's not on any of this.
+
+242
+00:11:42,280 --> 00:11:44,280
+And that's human rights.
+
+243
+00:11:44,280 --> 00:11:50,280
+So, what is human capital?
+
+244
+00:11:50,280 --> 00:11:54,780
+Human capital is the value of our
+
+245
+00:11:54,780 --> 00:11:59,280
+people and what people can do and produce.
+
+246
+00:11:59,280 --> 00:12:03,280
+And if you want to develop total national wealth,
+
+247
+00:12:03,280 --> 00:12:07,280
+you would want to include human capital as well, right?
+
+248
+00:12:07,280 --> 00:12:09,780
+So, what is the national wealth for
+
+249
+00:12:09,780 --> 00:12:12,280
+the United States, if we include everything?
+
+250
+00:12:12,280 --> 00:12:19,780
+Well, the way I figure that is, right now, the
+
+251
+00:12:19,780 --> 00:12:27,280
+national income, U.S. national income is $13 trillion a year.
+
+252
+00:12:27,280 --> 00:12:31,280
+And I want to capitalize that
+
+253
+00:12:31,280 --> 00:12:35,280
+to a present value of that.
+
+254
+00:12:35,280 --> 00:12:37,780
+If you assume 3% growth
+
+255
+00:12:37,780 --> 00:12:40,280
+in real terms, that's $3 trillion.
+
+256
+00:12:40,280 --> 00:12:43,280
+In real terms.
+
+257
+00:12:43,280 --> 00:12:49,280
+And a 5% discount rate.
+
+258
+00:12:49,280 --> 00:12:56,280
+That would make wealth equal to $13 trillion.
+
+259
+00:12:56,280 --> 00:13:02,280
+I'm using the Gordon formula, divided
+
+260
+00:13:02,280 --> 00:13:08,280
+by 0.05 minus 0.03, or $260 trillion.
+
+261
+00:13:08,280 --> 00:13:11,280
+And that's also just for perspective.
+
+262
+00:13:11,280 --> 00:13:13,780
+Because I just wanted to put
+
+263
+00:13:13,780 --> 00:13:16,280
+this $40 or $50 trillion in perspective.
+
+264
+00:13:16,280 --> 00:13:18,280
+I'm kind of diminishing my lecture.
+
+265
+00:13:18,280 --> 00:13:21,280
+I'm telling you, institutional investors are important.
+
+266
+00:13:21,280 --> 00:13:24,280
+But as a fraction of the
+
+267
+00:13:24,280 --> 00:13:27,280
+total national wealth, it's not that important.
+
+268
+00:13:27,280 --> 00:13:29,780
+And I think the family is still
+
+269
+00:13:29,780 --> 00:13:32,280
+very important as a manager of our wealth.
+
+270
+00:13:32,280 --> 00:13:37,280
+This is managed by, not managed by institutional investors.
+
+271
+00:13:38,280 --> 00:13:41,280
+One more calculation that will diminish
+
+272
+00:13:41,280 --> 00:13:44,280
+the importance of institutional investors even more.
+
+273
+00:13:44,280 --> 00:13:46,280
+What do you think the world is worth?
+
+274
+00:13:46,280 --> 00:13:47,280
+All right?
+
+275
+00:13:47,280 --> 00:13:50,780
+If we were to take the total national income of
+
+276
+00:13:50,780 --> 00:13:54,280
+the whole world and take the present value of that.
+
+277
+00:13:54,280 --> 00:13:58,780
+Well, according to the International Monetary Fund
+
+278
+00:13:58,780 --> 00:14:03,280
+in Washington, which estimates for the world,
+
+279
+00:14:03,280 --> 00:14:06,280
+world national income in 2010,
+
+280
+00:14:06,280 --> 00:14:14,780
+well, world income, actually, this is world GDP, I believe, but
+
+281
+00:14:14,780 --> 00:14:23,280
+I'll use it as a proxy for income, is $62 trillion.
+
+282
+00:14:23,280 --> 00:14:26,780
+And if I use the same discount rate and assume growth
+
+283
+00:14:26,780 --> 00:14:30,280
+rates, you know what I get for the value of the world?
+
+284
+00:14:30,280 --> 00:14:32,280
+The world wealth?
+
+285
+00:14:32,280 --> 00:14:35,280
+It's 1.2 quadrillion.
+
+286
+00:14:35,280 --> 00:14:41,280
+All right.
+
+287
+00:14:41,280 --> 00:14:44,780
+So, I just, again, to put things in perspective,
+
+288
+00:14:44,780 --> 00:14:48,280
+we are going through an enormous transition in the world.
+
+289
+00:14:48,280 --> 00:14:51,280
+I'm only assuming a 3% growth rate for the world.
+
+290
+00:14:51,280 --> 00:14:54,280
+And many countries are growing at 7% to 9% now.
+
+291
+00:14:54,280 --> 00:14:56,280
+So, maybe this is conservative.
+
+292
+00:14:56,280 --> 00:14:59,780
+So, but I think that as the world matures, as
+
+293
+00:14:59,780 --> 00:15:03,280
+the world grows, as the world becomes more and more,
+
+294
+00:15:05,280 --> 00:15:11,780
+modern and capitalist, the importance of the family will remain,
+
+295
+00:15:11,780 --> 00:15:18,280
+it will remain important, but it will diminish in relative importance.
+
+296
+00:15:18,280 --> 00:15:23,280
+So, as time goes on, we're going to see
+
+297
+00:15:23,280 --> 00:15:28,280
+something like a quadrillion dollars increasingly managed by institutional investors.
+
+298
+00:15:28,280 --> 00:15:33,280
+So, that's what I want to talk about today.
+
+299
+00:15:33,280 --> 00:15:40,780
+So, as I was saying, in
+
+300
+00:15:40,780 --> 00:15:48,280
+modern society, we do things differently.
+
+301
+00:15:48,280 --> 00:15:52,280
+We don't expect young people to take
+
+302
+00:15:52,280 --> 00:15:56,280
+their parents in to care for them.
+
+303
+00:15:56,280 --> 00:15:59,280
+I mentioned that as an example.
+
+304
+00:15:59,280 --> 00:16:00,280
+Is that because, is that
+
+305
+00:16:00,280 --> 00:16:01,280
+because of the way we think?
+
+306
+00:16:01,280 --> 00:16:02,280
+Is that because of the way we think?
+
+307
+00:16:02,280 --> 00:16:06,280
+Is that because we don't care about
+
+308
+00:16:06,280 --> 00:16:10,280
+our parents as much as we used to?
+
+309
+00:16:10,280 --> 00:16:12,280
+Interesting question.
+
+310
+00:16:12,280 --> 00:16:16,280
+There's a lot of discussion about that.
+
+311
+00:16:16,280 --> 00:16:19,780
+But my general take on it is
+
+312
+00:16:19,780 --> 00:16:23,280
+that most elderly people like to have choices.
+
+313
+00:16:23,280 --> 00:16:25,280
+They love their children, but they
+
+314
+00:16:25,280 --> 00:16:27,280
+don't want to move in with them.
+
+315
+00:16:27,280 --> 00:16:31,280
+They want to have a savings, some kind of pension.
+
+316
+00:16:31,280 --> 00:16:34,280
+They want to be able to choose
+
+317
+00:16:34,280 --> 00:16:37,280
+how they live, with whom they live with.
+
+318
+00:16:37,280 --> 00:16:38,280
+Similarly, our healthcare.
+
+319
+00:16:38,280 --> 00:16:40,280
+We used to depend on our families to
+
+320
+00:16:40,280 --> 00:16:42,280
+provide healthcare, but it didn't work very well.
+
+321
+00:16:42,280 --> 00:16:44,280
+People weren't getting very good healthcare.
+
+322
+00:16:44,280 --> 00:16:50,780
+And now we have it all institutionalized through, you know,
+
+323
+00:16:50,780 --> 00:16:57,280
+trust funds for health plans and benefits and the like.
+
+324
+00:16:57,280 --> 00:16:58,280
+So, this means that it's more
+
+325
+00:16:58,280 --> 00:16:59,280
+and more run by the government.
+
+326
+00:16:59,280 --> 00:17:00,280
+So, this means that it's more
+
+327
+00:17:00,280 --> 00:17:01,280
+and more run by the government.
+
+328
+00:17:01,280 --> 00:17:02,280
+So, this means that it's more
+
+329
+00:17:02,280 --> 00:17:03,280
+and more run by the government.
+
+330
+00:17:03,280 --> 00:17:09,280
+And investment managers are trained in
+
+331
+00:17:09,280 --> 00:17:15,280
+modern finance and understand risk management.
+
+332
+00:17:15,280 --> 00:17:17,280
+So, there's a professionalism to all of this.
+
+333
+00:17:17,280 --> 00:17:21,780
+The family is a limited, even if it were smart, even
+
+334
+00:17:21,780 --> 00:17:26,280
+if they were brilliant as investment managers, they're a small unit.
+
+335
+00:17:26,280 --> 00:17:26,780
+And unless they were to engage in some kind of, you know,
+
+336
+00:17:26,780 --> 00:17:27,280
+a small business, they're not going to be able to do that.
+
+337
+00:17:27,280 --> 00:17:28,280
+They're not going to be able to do that.
+
+338
+00:17:28,280 --> 00:17:30,280
+They're not going to be able to
+
+339
+00:17:30,280 --> 00:17:32,280
+engage in some kind of risk sharing agreement.
+
+340
+00:17:32,280 --> 00:17:34,280
+They can't manage risk well.
+
+341
+00:17:34,280 --> 00:17:36,280
+The whole family is too
+
+342
+00:17:36,280 --> 00:17:38,280
+small a unit to manage risk.
+
+343
+00:17:38,280 --> 00:17:43,780
+But increasingly, investment managers are running risk management
+
+344
+00:17:43,780 --> 00:17:49,280
+for families that allows risk sharing around the world.
+
+345
+00:17:49,280 --> 00:17:51,280
+We have growing pains with this.
+
+346
+00:17:51,280 --> 00:17:54,280
+The recent financial crisis shows
+
+347
+00:17:54,280 --> 00:17:57,280
+that investment managers mess up sometimes.
+
+348
+00:17:57,280 --> 00:17:57,780
+And their attempt to manage risk
+
+349
+00:17:57,780 --> 00:17:58,280
+is not going to be successful.
+
+350
+00:17:58,280 --> 00:18:01,280
+And they're not going to share risks around the world.
+
+351
+00:18:01,280 --> 00:18:06,280
+Like, for example, the subprime crisis was caused
+
+352
+00:18:06,280 --> 00:18:11,280
+by the failure to manage mortgage risk appropriately.
+
+353
+00:18:11,280 --> 00:18:14,780
+But nonetheless, I think they're
+
+354
+00:18:14,780 --> 00:18:18,280
+getting more professional and more important.
+
+355
+00:18:18,280 --> 00:18:22,780
+So, right now, we have professional risk managers
+
+356
+00:18:22,780 --> 00:18:27,280
+that are, I think, increasingly important in our business.
+
+357
+00:18:27,280 --> 00:18:29,780
+And they're going to be very,
+
+358
+00:18:29,780 --> 00:18:32,280
+very important in our very lives.
+
+359
+00:18:32,280 --> 00:18:39,280
+Now, they have a fiduciary duty.
+
+360
+00:18:39,280 --> 00:18:43,780
+If you are managing other people's money, that's a
+
+361
+00:18:43,780 --> 00:18:48,280
+quote, other people's money, then you might be negligent.
+
+362
+00:18:48,280 --> 00:18:49,280
+It's not my money.
+
+363
+00:18:49,280 --> 00:18:50,280
+What do I care?
+
+364
+00:18:50,280 --> 00:18:53,280
+So, the law prescribes that you, as an investment manager, have a
+
+365
+00:18:53,280 --> 00:18:56,280
+duty to act in the interest of the, you know, the individual.
+
+366
+00:18:57,280 --> 00:18:59,280
+Of the person you're managing for.
+
+367
+00:18:59,280 --> 00:19:06,280
+Or of the group of people you're managing for.
+
+368
+00:19:06,280 --> 00:19:08,280
+And the law has been trying
+
+369
+00:19:08,280 --> 00:19:10,280
+to prescribe what this duty is.
+
+370
+00:19:10,280 --> 00:19:15,280
+There is something called the prudent person rule.
+
+371
+00:19:21,280 --> 00:19:23,780
+Which is a rule that investment managers have
+
+372
+00:19:23,780 --> 00:19:26,280
+to, well, have to behave as it should.
+
+373
+00:19:26,280 --> 00:19:30,280
+They have to behave as a prudent person would.
+
+374
+00:19:30,280 --> 00:19:34,280
+I'll give you, I'll read one definition of it.
+
+375
+00:19:34,280 --> 00:19:42,280
+ERISA, which was an act of Congress in 1974, defined, they called it
+
+376
+00:19:42,280 --> 00:19:50,280
+prudent man rule back then, because their language wasn't, was still sexist in 1974.
+
+377
+00:19:50,280 --> 00:19:52,780
+They said that investment managers running pension funds,
+
+378
+00:19:52,780 --> 00:19:55,280
+they're not going to be able to do that.
+
+379
+00:19:56,280 --> 00:20:06,280
+So, the investment managers must manage with the care, skill, prudence, and diligence, under the circumstances then prevailing, that a prudent man, acting in
+
+380
+00:20:06,280 --> 00:20:16,280
+a like capacity and familiar with such matters, would use in the conduct of an enterprise of a like character and with like aims.
+
+381
+00:20:16,280 --> 00:20:18,280
+Okay?
+
+382
+00:20:18,280 --> 00:20:20,780
+They're trying to legislate what it
+
+383
+00:20:20,780 --> 00:20:23,280
+is to be a good fiduciary.
+
+384
+00:20:23,280 --> 00:20:25,280
+And it seems sensible.
+
+385
+00:20:25,280 --> 00:20:26,280
+You should ask.
+
+386
+00:20:26,280 --> 00:20:29,520
+If someone is managing a pension fund for elderly
+
+387
+00:20:29,520 --> 00:20:32,920
+people, they shouldn't do wild and crazy investments, right?
+
+388
+00:20:32,920 --> 00:20:35,600
+They shouldn't invest in racehorses or something like
+
+389
+00:20:35,600 --> 00:20:36,200
+that.
+
+390
+00:20:36,200 --> 00:20:37,899
+Should be prudent.
+
+391
+00:20:37,899 --> 00:20:39,100
+But then how do you define it?
+
+392
+00:20:39,100 --> 00:20:43,380
+If you read the Act, it
+
+393
+00:20:43,380 --> 00:20:47,660
+says, they would be acting like a
+
+394
+00:20:47,660 --> 00:20:50,330
+prudent man in a like capacity,
+
+395
+00:20:50,330 --> 00:20:53,000
+in a conduct and an enterprise
+
+396
+00:20:53,000 --> 00:20:56,280
+of a like character and with like aims.
+
+397
+00:20:56,280 --> 00:20:58,350
+And the problem is, with the
+
+398
+00:20:58,350 --> 00:21:00,420
+1974 Act, is that it's hard to
+
+399
+00:21:00,420 --> 00:21:05,060
+legislate duty, to define what it is.
+
+400
+00:21:05,060 --> 00:21:06,910
+So, what the law said, and
+
+401
+00:21:06,910 --> 00:21:08,760
+it has said in many places, is
+
+402
+00:21:08,760 --> 00:21:11,800
+that you have to, as a fiduciary, as an investment
+
+403
+00:21:11,800 --> 00:21:14,599
+manager, you have to act
+
+404
+00:21:14,599 --> 00:21:17,399
+as a prudent person would act.
+
+405
+00:21:17,399 --> 00:21:19,639
+And what is a prudent person?
+
+406
+00:21:19,639 --> 00:21:21,800
+I guess it's somebody else.
+
+407
+00:21:21,800 --> 00:21:26,280
+Somebody else who is of a kind of a standard.
+
+408
+00:21:26,280 --> 00:21:27,280
+Ordinary type.
+
+409
+00:21:27,280 --> 00:21:28,280
+I don't know what it is.
+
+410
+00:21:28,280 --> 00:21:29,530
+I mean, I could say
+
+411
+00:21:29,530 --> 00:21:30,780
+that investing in racehorses is the
+
+412
+00:21:30,780 --> 00:21:33,150
+smartest thing for me to do,
+
+413
+00:21:33,150 --> 00:21:35,520
+but I can't claim that that's
+
+414
+00:21:35,520 --> 00:21:37,520
+a prudent person act.
+
+415
+00:21:37,520 --> 00:21:41,060
+So, the law has required institutional investors, to
+
+416
+00:21:41,060 --> 00:21:43,660
+some extent, to behave as, not
+
+417
+00:21:43,660 --> 00:21:46,260
+as they would behave, but as
+
+418
+00:21:46,260 --> 00:21:48,560
+they think other people would behave.
+
+419
+00:21:48,560 --> 00:21:52,399
+It was legislating a requirement that you don't do
+
+420
+00:21:52,399 --> 00:21:53,989
+what you think is smart, you
+
+421
+00:21:53,989 --> 00:21:55,580
+do what you think other people
+
+422
+00:21:55,580 --> 00:21:56,180
+would do.
+
+423
+00:21:56,180 --> 00:21:59,680
+And this is what other people think is smart.
+
+424
+00:21:59,680 --> 00:22:02,180
+And this has been a problem,
+
+425
+00:22:02,180 --> 00:22:04,680
+because what it has done is,
+
+426
+00:22:04,680 --> 00:22:09,520
+it has created a class of institutional investors who
+
+427
+00:22:09,520 --> 00:22:12,610
+live in fear of laws that could
+
+428
+00:22:12,610 --> 00:22:15,700
+come down on them, if they, with
+
+429
+00:22:15,700 --> 00:22:18,250
+the best of intentions, invest
+
+430
+00:22:18,250 --> 00:22:20,800
+on behalf of their clients in
+
+431
+00:22:20,800 --> 00:22:25,480
+an unconventional way, and therefore, could be punished for
+
+432
+00:22:25,480 --> 00:22:27,320
+violating the prudent person rule.
+
+433
+00:22:30,520 --> 00:22:36,200
+So, thus, for example, because of the prudent person rule,
+
+434
+00:22:36,200 --> 00:22:39,200
+university endowments, which are an example of
+
+435
+00:22:39,200 --> 00:22:41,500
+institutional investments, for much
+
+436
+00:22:41,500 --> 00:22:43,800
+of the 20th century, were
+
+437
+00:22:43,800 --> 00:22:49,000
+invested in bonds, government bonds, because they thought,
+
+438
+00:22:49,000 --> 00:22:49,900
+well, that's prudent.
+
+439
+00:22:49,900 --> 00:22:53,580
+No one can tell me that we're not prudent.
+
+440
+00:22:53,580 --> 00:22:54,780
+The government bonds is safe.
+
+441
+00:22:54,780 --> 00:23:08,160
+But some investment portfolios, notably the one that we had
+
+442
+00:23:08,160 --> 00:23:09,980
+David Swensen come and speak
+
+443
+00:23:09,980 --> 00:23:11,800
+to us earlier, took a more
+
+444
+00:23:11,800 --> 00:23:15,500
+aggressive interpretation of the prudent person rule and
+
+445
+00:23:15,500 --> 00:23:21,700
+developed assets, or developed an investment strategy that
+
+446
+00:23:21,700 --> 00:23:22,740
+looked imprudent.
+
+447
+00:23:22,740 --> 00:23:23,730
+So, for example, you could have
+
+448
+00:23:23,730 --> 00:23:24,720
+a bank account, you could have a
+
+449
+00:23:24,720 --> 00:23:25,550
+bank account, you could have a
+
+450
+00:23:25,550 --> 00:23:26,380
+bank account, you could have a
+
+451
+00:23:26,380 --> 00:23:27,080
+bank account.
+
+452
+00:23:27,080 --> 00:23:28,200
+But you could develop a bank account.
+
+453
+00:23:28,200 --> 00:23:28,980
+You could develop an
+
+454
+00:23:28,980 --> 00:23:29,760
+investment strategy that looks imprudent.
+
+455
+00:23:29,760 --> 00:23:31,580
+So, the truth is that, as
+
+456
+00:23:31,580 --> 00:23:33,400
+we all know, Yale University was
+
+457
+00:23:33,400 --> 00:23:37,500
+investing in startup dot-com firms during the dot-com
+
+458
+00:23:37,500 --> 00:23:38,400
+explosion.
+
+459
+00:23:38,400 --> 00:23:40,660
+Managed to sell out just at the peak.
+
+460
+00:23:40,660 --> 00:23:43,240
+Is that being a prudent person?
+
+461
+00:23:43,240 --> 00:23:47,040
+Well, the interpretation of prudent person rule has
+
+462
+00:23:47,040 --> 00:23:48,320
+changed.
+
+463
+00:23:48,320 --> 00:23:50,540
+And this is part of the phenomenon that drove the
+
+464
+00:23:50,540 --> 00:23:51,340
+bubble.
+
+465
+00:23:51,340 --> 00:23:52,380
+Institutional investors, led by people like David Swensen, led to a more benign interpretation of
+
+466
+00:23:52,380 --> 00:23:53,420
+the prudent person rule, so that they could be an important factor in the investment strategy.
+
+467
+00:23:54,720 --> 00:23:58,600
+prudent person rule and allowed them to take chances.
+
+468
+00:23:58,600 --> 00:24:01,020
+And I think that that general
+
+469
+00:24:01,020 --> 00:24:03,440
+sense that one could be more
+
+470
+00:24:03,440 --> 00:24:05,590
+aggressive in investing was part
+
+471
+00:24:05,590 --> 00:24:07,740
+of the bubble that led to
+
+472
+00:24:07,740 --> 00:24:09,060
+the financial crisis.
+
+473
+00:24:09,060 --> 00:24:10,040
+I'm not saying it's a
+
+474
+00:24:10,040 --> 00:24:11,020
+bad thing in itself, but I'm
+
+475
+00:24:11,020 --> 00:24:12,600
+telling you, it was part of the factors that
+
+476
+00:24:12,600 --> 00:24:19,940
+led to this bubble.
+
+477
+00:24:19,940 --> 00:24:22,040
+I looked through Dodd-Frank.
+
+478
+00:24:22,040 --> 00:24:25,800
+The Dodd-Frank Act of 2010
+
+479
+00:24:25,800 --> 00:24:29,560
+is the most important piece of
+
+480
+00:24:29,560 --> 00:24:34,080
+financial legislation in the United States since the Great
+
+481
+00:24:34,080 --> 00:24:35,240
+Depression.
+
+482
+00:24:35,240 --> 00:24:38,800
+And I did a search for prudent person.
+
+483
+00:24:38,800 --> 00:24:43,060
+It appears nowhere.
+
+484
+00:24:43,060 --> 00:24:51,760
+But I found that the word prudential standards
+
+485
+00:24:51,760 --> 00:24:52,000
+appears nowhere.
+
+486
+00:24:52,000 --> 00:24:58,240
+It appeared 34 times in the Dodd-Frank Act.
+
+487
+00:24:58,240 --> 00:25:02,760
+So, it seems like the financial crisis is changing
+
+488
+00:25:02,760 --> 00:25:04,240
+things a little bit.
+
+489
+00:25:04,240 --> 00:25:11,320
+It's bringing our society to want regulators, government
+
+490
+00:25:11,320 --> 00:25:16,560
+regulators, to be making the ultimate decisions about what
+
+491
+00:25:16,560 --> 00:25:21,160
+kind of risks institutional investors will take on.
+
+492
+00:25:21,160 --> 00:25:21,720
+They're still letting go of the prudent person rule.
+
+493
+00:25:21,720 --> 00:25:23,480
+They're still letting households do what they want.
+
+494
+00:25:23,480 --> 00:25:27,480
+But in terms of institutional investors, the Dodd-Frank Act
+
+495
+00:25:27,480 --> 00:25:31,560
+talks extensively about regulators going in and
+
+496
+00:25:31,560 --> 00:25:35,200
+regulating what institutional investors, what kinds of risks
+
+497
+00:25:35,200 --> 00:25:36,600
+they can take.
+
+498
+00:25:36,600 --> 00:25:39,120
+The same thing is true in other countries.
+
+499
+00:25:39,120 --> 00:25:42,720
+I think this is a world phenomenon.
+
+500
+00:25:42,720 --> 00:25:44,760
+The problem is that the
+
+501
+00:25:44,760 --> 00:25:46,800
+prudent person rule didn't seem to
+
+502
+00:25:46,800 --> 00:25:47,360
+work.
+
+503
+00:25:47,360 --> 00:25:49,280
+It didn't seem to work well enough.
+
+504
+00:25:49,280 --> 00:25:50,960
+It started out when it was first imposed.
+
+505
+00:25:50,960 --> 00:25:54,800
+It was first imposed as encouraging a very
+
+506
+00:25:54,800 --> 00:25:56,400
+conservative investment.
+
+507
+00:25:56,400 --> 00:25:57,800
+But then people thought, as
+
+508
+00:25:57,800 --> 00:25:59,200
+time went on, that that didn't
+
+509
+00:25:59,200 --> 00:26:00,200
+make sense.
+
+510
+00:26:00,200 --> 00:26:04,540
+They got more loose, and
+
+511
+00:26:04,540 --> 00:26:08,880
+it led to a financial crisis.
+
+512
+00:26:08,880 --> 00:26:14,840
+So, Dodd-Frank is creating something called the FSOC, the
+
+513
+00:26:14,840 --> 00:26:19,840
+Financial Stability Oversight Commission, which has to
+
+514
+00:26:19,840 --> 00:26:22,080
+do with the financial crisis.
+
+515
+00:26:22,080 --> 00:26:25,480
+Well, it doesn't enforce, but it makes recommendations on
+
+516
+00:26:25,480 --> 00:26:28,800
+prudential standards, particularly regarding, well,
+
+517
+00:26:28,800 --> 00:26:30,840
+I say particularly, but including leverage.
+
+518
+00:26:30,840 --> 00:26:35,280
+Leverage, we talked about, is the amount of money you
+
+519
+00:26:35,280 --> 00:26:37,240
+borrow, well, it's measured.
+
+520
+00:26:37,240 --> 00:26:38,520
+It's a measure of the
+
+521
+00:26:38,520 --> 00:26:39,800
+risk that you've imposed on your
+
+522
+00:26:39,800 --> 00:26:43,639
+portfolio by borrowing to buy assets.
+
+523
+00:26:43,639 --> 00:26:46,079
+The economy became increasingly
+
+524
+00:26:46,079 --> 00:26:48,520
+leveraged prior, up until the
+
+525
+00:26:48,520 --> 00:26:49,720
+financial crisis.
+
+526
+00:26:49,720 --> 00:26:51,760
+And that's what Dodd-Frank Act is about.
+
+527
+00:26:51,760 --> 00:26:53,560
+It's about the prudent person rule.
+
+528
+00:26:53,560 --> 00:26:55,360
+It's about the prudent person rule.
+
+529
+00:26:55,360 --> 00:26:56,640
+It's about the prudent person rule.
+
+530
+00:26:56,640 --> 00:26:57,920
+It's about the prudent person rule.
+
+531
+00:26:57,920 --> 00:26:59,200
+It's about the prudent person rule.
+
+532
+00:26:59,200 --> 00:27:01,760
+And people are concerned about that.
+
+533
+00:27:01,760 --> 00:27:05,080
+Well, were our institutions following the prudent person
+
+534
+00:27:05,080 --> 00:27:06,360
+rule?
+
+535
+00:27:06,360 --> 00:27:08,280
+Well, somehow, as time went
+
+536
+00:27:08,280 --> 00:27:10,200
+on, their mind allowed more and
+
+537
+00:27:10,200 --> 00:27:13,520
+more leverage to be considered acceptable.
+
+538
+00:27:13,520 --> 00:27:13,033
+So, now what we have in
+
+539
+00:27:13,033 --> 00:27:12,546
+the Dodd-Frank Act is, the FSOC is
+
+540
+00:27:12,546 --> 00:27:13,026
+嗯
+
+541
+00:27:13,026 --> 00:27:16,846
+that the Financial Services Oversight Commission is
+
+542
+00:27:16,846 --> 00:27:21,406
+supposed to recommend standards of leverage and
+
+543
+00:27:21,406 --> 00:27:25,926
+prudential standards for financial corporations, and to
+
+544
+00:27:25,926 --> 00:27:30,946
+put financial corporations under increasing regulatory
+
+545
+00:27:30,946 --> 00:27:34,086
+authority to meet those standards.
+
+546
+00:27:34,086 --> 00:27:36,666
+So, in some sense, it shifted to the government.
+
+547
+00:27:36,666 --> 00:27:41,586
+We had seen a historic shift of power over investments,
+
+548
+00:27:41,586 --> 00:27:44,965
+from individual investors to institutional investors, and
+
+549
+00:27:44,965 --> 00:27:47,966
+to some extent, at least, it's shifting to the government.
+
+550
+00:27:51,566 --> 00:27:53,536
+And I'm talking mostly about the
+
+551
+00:27:53,536 --> 00:27:55,506
+U.S., but I think this is
+
+552
+00:27:55,506 --> 00:28:00,466
+a currently worldwide trend.
+
+553
+00:28:00,466 --> 00:28:03,826
+It's exemplified also, I mentioned before, that we had
+
+554
+00:28:03,826 --> 00:28:08,246
+private organizations, the securities rating agencies,
+
+555
+00:28:08,246 --> 00:28:11,586
+such as the Moody's and Standard & Poor's.
+
+556
+00:28:11,586 --> 00:28:13,586
+And the government is trusting the Moody's and
+
+557
+00:28:13,586 --> 00:28:18,086
+Fitch, but the government are trusting them less.
+
+558
+00:28:18,086 --> 00:28:19,826
+And they're putting standards more on
+
+559
+00:28:19,826 --> 00:28:21,026
+government regulators now.
+
+560
+00:28:24,066 --> 00:28:28,226
+I said I would talk about financial advisors.
+
+561
+00:28:28,226 --> 00:28:37,966
+Financial advisors are people who don't directly manage
+
+562
+00:28:37,966 --> 00:28:38,966
+portfolios.
+
+563
+00:28:38,966 --> 00:28:39,566
+They're not institutional investors.
+
+564
+00:28:39,566 --> 00:28:41,566
+But they give advice to those who don't.
+
+565
+00:28:41,566 --> 00:28:43,566
+And they're not responsible for what they're going to do.
+
+566
+00:28:43,566 --> 00:28:52,366
+And the financial advisors are regulated by governments in
+
+567
+00:28:52,366 --> 00:28:54,766
+most countries.
+
+568
+00:28:54,766 --> 00:28:57,856
+So, in the U.S., for
+
+569
+00:28:57,856 --> 00:29:00,946
+example, the SEC, the Securities and
+
+570
+00:29:00,946 --> 00:29:07,546
+Exchange Commission, requires advisors to be approved by 50%
+
+571
+00:29:07,546 --> 00:29:09,546
+of the world.
+
+572
+00:29:09,546 --> 00:29:10,146
+That's a big deal.
+
+573
+00:29:10,146 --> 00:29:10,546
+So, it's not a big deal.
+
+574
+00:29:10,546 --> 00:29:10,786
+It's not a big deal.
+
+575
+00:29:10,786 --> 00:29:10,966
+But the SEC is a big deal.
+
+576
+00:29:10,966 --> 00:29:11,526
+And it's a big deal.
+
+577
+00:29:11,526 --> 00:29:11,546
+It's a big deal.
+
+578
+00:29:11,546 --> 00:29:20,505
+FINRA approval, where FINRA is the successor to the National
+
+579
+00:29:20,505 --> 00:29:22,505
+Association of Securities Dealers.
+
+580
+00:29:22,505 --> 00:29:29,246
+It's a non-government organization that administers
+
+581
+00:29:29,246 --> 00:29:32,266
+an examination and education program for advisors.
+
+582
+00:29:35,605 --> 00:29:39,746
+And so, you effectively have to go through FINRA, the
+
+583
+00:29:39,746 --> 00:29:41,746
+license to be a financial advisor.
+
+584
+00:29:51,746 --> 00:29:55,146
+I'll give you an example of an organization of financial
+
+585
+00:29:55,146 --> 00:29:56,346
+advisors.
+
+586
+00:29:56,346 --> 00:30:00,906
+NAPFA is the National Association of Personal
+
+587
+00:30:00,906 --> 00:30:02,206
+Financial Advisors.
+
+588
+00:30:05,386 --> 00:30:09,086
+NAPFA is the National Association of Personal
+
+589
+00:30:09,086 --> 00:30:09,746
+Financial Advisors.
+
+590
+00:30:09,746 --> 00:30:16,746
+It's a nonprofit organization that manages the
+
+591
+00:30:16,746 --> 00:30:20,746
+interrelation between financial advisors and the public.
+
+592
+00:30:23,746 --> 00:30:29,746
+These people will typically charge between $75 and $300 an
+
+593
+00:30:29,746 --> 00:30:32,746
+hour, and you can get one tomorrow.
+
+594
+00:30:32,746 --> 00:30:34,746
+Just make a phone call, get
+
+595
+00:30:34,746 --> 00:30:36,746
+on the website, NAPFA website, and
+
+596
+00:30:36,746 --> 00:30:37,746
+hire one.
+
+597
+00:30:37,746 --> 00:30:38,746
+And they have a code of 16.
+
+598
+00:30:38,746 --> 00:30:39,746
+That's the code.
+
+599
+00:30:39,746 --> 00:30:40,746
+They have to have a code of standards.
+
+600
+00:30:40,746 --> 00:30:43,746
+They have to be licensed to the SEC, and
+
+601
+00:30:43,746 --> 00:30:46,746
+they have to have a code of standards, oath of
+
+602
+00:30:46,746 --> 00:30:50,746
+loyalty to the client that they undertake.
+
+603
+00:30:50,746 --> 00:30:51,746
+This is a big business.
+
+604
+00:30:51,746 --> 00:30:53,746
+I'm mentioning it, because I think I gave some
+
+605
+00:30:53,746 --> 00:30:55,746
+in one of my first lectures, I gave you
+
+606
+00:30:55,746 --> 00:30:58,746
+a count of how many people there are.
+
+607
+00:30:58,746 --> 00:31:01,246
+But I'm just trying to – there's
+
+608
+00:31:01,246 --> 00:31:03,746
+also something else called a financial planner.
+
+609
+00:31:03,746 --> 00:31:06,746
+Financial planners.
+
+610
+00:31:06,746 --> 00:31:07,746
+Financial planners.
+
+611
+00:31:07,746 --> 00:31:08,746
+Financial planners.
+
+612
+00:31:08,746 --> 00:31:12,246
+Now, it sounds like the same thing to
+
+613
+00:31:12,246 --> 00:31:15,746
+me, but somehow, if you call yourself a financial
+
+614
+00:31:15,746 --> 00:31:19,746
+planner, you don't have to go through this licensing.
+
+615
+00:31:19,746 --> 00:31:24,246
+And the Dodd-Frank Act – I
+
+616
+00:31:24,246 --> 00:31:28,746
+didn't find much new legislation regarding them.
+
+617
+00:31:28,746 --> 00:31:30,746
+The Dodd-Frank Act is calling
+
+618
+00:31:30,746 --> 00:31:32,746
+for a study of financial planners.
+
+619
+00:31:32,746 --> 00:31:35,246
+The question is, how does the government
+
+620
+00:31:35,246 --> 00:31:37,746
+get involved in making these people financial
+
+621
+00:31:37,746 --> 00:31:38,746
+planners?
+
+622
+00:31:38,746 --> 00:31:40,246
+How does the government get involved
+
+623
+00:31:40,246 --> 00:31:41,746
+in making these people give good advice?
+
+624
+00:31:41,746 --> 00:31:45,246
+The problem is that the financial crisis seemed to
+
+625
+00:31:45,246 --> 00:31:48,746
+be led by a lot of bad advice given out.
+
+626
+00:31:48,746 --> 00:31:51,246
+A lot of people were encouraged to leverage
+
+627
+00:31:51,246 --> 00:31:53,746
+up their ownership in their home, to borrow
+
+628
+00:31:53,746 --> 00:31:58,746
+heavily, to buy second homes.
+
+629
+00:31:58,746 --> 00:32:01,746
+I'm sure that financial advisors were
+
+630
+00:32:01,746 --> 00:32:04,746
+not uniformly advising that, or financial planners.
+
+631
+00:32:04,746 --> 00:32:06,746
+But there's a concern now.
+
+632
+00:32:06,746 --> 00:32:09,746
+What kind of advice people were given.
+
+633
+00:32:09,746 --> 00:32:12,746
+So, in 1996, Congress passed a bill
+
+634
+00:32:12,746 --> 00:32:15,746
+in the United States saying that financial advisors
+
+635
+00:32:15,746 --> 00:32:21,746
+cannot be convicted felons, among other things.
+
+636
+00:32:21,746 --> 00:32:28,746
+But there hadn't been, until then, such a law.
+
+637
+00:32:28,746 --> 00:32:31,746
+We have something else called mortgage brokers.
+
+638
+00:32:31,746 --> 00:32:33,746
+It's a little different.
+
+639
+00:32:36,746 --> 00:32:40,746
+They're people who give advice on getting a home mortgage.
+
+640
+00:32:40,746 --> 00:32:44,746
+There was no licensing of them until the financial crisis.
+
+641
+00:32:44,746 --> 00:32:46,746
+Because mortgage brokers could be anything.
+
+642
+00:32:46,746 --> 00:32:48,746
+They could even be a convicted felon.
+
+643
+00:32:48,746 --> 00:32:50,746
+Until just a few years ago.
+
+644
+00:32:50,746 --> 00:32:52,746
+Until after the crisis.
+
+645
+00:32:52,746 --> 00:32:55,246
+Here's the fundamental problem that people
+
+646
+00:32:55,246 --> 00:32:57,746
+are getting – they're confronted by an
+
+647
+00:32:57,746 --> 00:33:01,746
+increasingly complicated financial structure.
+
+648
+00:33:01,746 --> 00:33:05,746
+Living is less family, and it's more investing.
+
+649
+00:33:05,746 --> 00:33:07,746
+And that's why they're involved in financial markets.
+
+650
+00:33:07,746 --> 00:33:09,746
+And most people don't know how to do it.
+
+651
+00:33:09,746 --> 00:33:13,746
+And that the people who give them advice
+
+652
+00:33:13,746 --> 00:33:17,746
+are often not giving them the best advice.
+
+653
+00:33:17,746 --> 00:33:19,746
+What can we do about that?
+
+654
+00:33:19,746 --> 00:33:24,746
+Well, the government is trying, but it's imperfect.
+
+655
+00:33:24,746 --> 00:33:28,746
+And I think that as the world develops,
+
+656
+00:33:28,746 --> 00:33:32,746
+I think we'll probably see – I think there
+
+657
+00:33:32,746 --> 00:33:34,746
+is a trend toward increasing professionalization.
+
+658
+00:33:34,746 --> 00:33:38,746
+Professionalization of these groups.
+
+659
+00:33:38,746 --> 00:33:41,746
+And although it's not a simple matter
+
+660
+00:33:41,746 --> 00:33:44,746
+to straighten out some of the irregularities,
+
+661
+00:33:44,746 --> 00:33:47,746
+we're moving as the world gets better
+
+662
+00:33:47,746 --> 00:33:50,746
+and better to even stronger such institutions.
+
+663
+00:33:50,746 --> 00:33:53,746
+Now, I wanted to go
+
+664
+00:33:53,746 --> 00:33:56,746
+through some kinds of institutional investing.
+
+665
+00:33:56,746 --> 00:34:02,746
+And I'm probably –
+
+666
+00:34:02,746 --> 00:34:09,746
+The mutual fund is – I've talked about
+
+667
+00:34:09,746 --> 00:34:16,746
+this before – is an investment company that
+
+668
+00:34:16,746 --> 00:34:20,746
+is owned mutually by the participants.
+
+669
+00:34:20,746 --> 00:34:23,746
+It will invest typically in stocks, and
+
+670
+00:34:23,746 --> 00:34:26,746
+it distributes everything to the owners of the
+
+671
+00:34:26,746 --> 00:34:27,746
+stock.
+
+672
+00:34:27,746 --> 00:34:28,746
+It –
+
+673
+00:34:28,746 --> 00:34:30,746
+The first mutual fund was the –
+
+674
+00:34:30,746 --> 00:34:31,746
+The first mutual fund was the –
+
+675
+00:34:31,746 --> 00:34:35,746
+The Massachusetts Investor Trust.
+
+676
+00:34:35,746 --> 00:34:37,746
+That's not the university.
+
+677
+00:34:37,746 --> 00:34:41,246
+Massachusetts Investment – I'm sorry, Investment
+
+678
+00:34:41,246 --> 00:34:44,746
+Trust, which was founded in the 1920s.
+
+679
+00:34:44,746 --> 00:34:48,746
+And it was very open and direct with its investors.
+
+680
+00:34:48,746 --> 00:34:51,746
+It published its portfolio.
+
+681
+00:34:51,746 --> 00:34:53,746
+It promised – it was
+
+682
+00:34:53,746 --> 00:34:55,746
+completely open about what it did.
+
+683
+00:34:55,746 --> 00:34:58,246
+And it promised nothing more than – it would
+
+684
+00:34:58,246 --> 00:35:00,746
+divide up all of the returns among the participants.
+
+685
+00:35:00,746 --> 00:35:04,246
+There were no senior members who got
+
+686
+00:35:04,246 --> 00:35:07,746
+more of the money than anyone else.
+
+687
+00:35:07,746 --> 00:35:10,746
+So, MIT became a model for
+
+688
+00:35:10,746 --> 00:35:13,746
+an investment fund for the public.
+
+689
+00:35:13,746 --> 00:35:18,246
+In the 1920s, there were many investment
+
+690
+00:35:18,246 --> 00:35:22,746
+funds that were exploitative of the public.
+
+691
+00:35:22,746 --> 00:35:25,246
+They had two classes of investors, and the
+
+692
+00:35:25,246 --> 00:35:27,746
+first class of investors ran off with the
+
+693
+00:35:27,746 --> 00:35:29,746
+money at the expense of everyone else.
+
+694
+00:35:29,746 --> 00:35:35,246
+So, it took a while after the 1929
+
+695
+00:35:35,246 --> 00:35:40,746
+crash, but the Investment Company Act of 1940 set
+
+696
+00:35:40,746 --> 00:35:44,746
+the stage for the growth of mutual funds.
+
+697
+00:35:44,746 --> 00:35:50,746
+And so, mutual funds are designed for individuals,
+
+698
+00:35:50,746 --> 00:35:56,746
+and they are – this is the U.S.
+
+699
+00:35:56,746 --> 00:35:58,746
+They're a very successful institution.
+
+700
+00:35:58,746 --> 00:36:01,746
+So, you know exactly what – they have regular reports.
+
+701
+00:36:01,746 --> 00:36:03,746
+You know exactly what they're doing.
+
+702
+00:36:03,746 --> 00:36:06,746
+And there's no rich person
+
+703
+00:36:06,746 --> 00:36:09,746
+benefiting excessively from what happens.
+
+704
+00:36:09,746 --> 00:36:17,746
+In Europe, they have an analogous institution, UCITS.
+
+705
+00:36:17,746 --> 00:36:21,746
+It refers to a European Union
+
+706
+00:36:21,746 --> 00:36:25,746
+directive called the Undertaking for Collective Investment
+
+707
+00:36:25,746 --> 00:36:27,746
+in Transferable Securities.
+
+708
+00:36:28,746 --> 00:36:36,246
+Which is an EU directive, 1985, and then
+
+709
+00:36:36,246 --> 00:36:43,746
+they had revisions in 2001, that creates a
+
+710
+00:36:43,746 --> 00:36:47,746
+standard investment fund, like a mutual fund for Europe.
+
+711
+00:36:47,746 --> 00:36:50,746
+It used to be that every European country
+
+712
+00:36:50,746 --> 00:36:53,746
+had its own securities law, and it made it
+
+713
+00:36:53,746 --> 00:36:55,746
+difficult, because there's so many European countries.
+
+714
+00:36:55,746 --> 00:36:57,746
+So, they standardized the EU.
+
+715
+00:36:58,746 --> 00:37:00,746
+And it developed a sort of
+
+716
+00:37:00,746 --> 00:37:02,746
+European version of the mutual fund.
+
+717
+00:37:02,746 --> 00:37:06,246
+The key difference, I think, between a mutual fund
+
+718
+00:37:06,246 --> 00:37:09,746
+in the U.S. and the UCITS in Europe is
+
+719
+00:37:09,746 --> 00:37:10,746
+it's technical.
+
+720
+00:37:10,746 --> 00:37:11,746
+It's how they're taxed.
+
+721
+00:37:11,746 --> 00:37:14,746
+The mutual fund in the United States, if you
+
+722
+00:37:14,746 --> 00:37:17,746
+own shares in a mutual fund, and you just
+
+723
+00:37:17,746 --> 00:37:20,746
+hold them, you will still get capital gains
+
+724
+00:37:20,746 --> 00:37:23,746
+taxes every year, even if you didn't sell
+
+725
+00:37:23,746 --> 00:37:24,746
+it.
+
+726
+00:37:24,746 --> 00:37:26,246
+Because other people in the mutual
+
+727
+00:37:26,246 --> 00:37:27,746
+fund sell some of their shares.
+
+728
+00:37:27,746 --> 00:37:29,746
+So, you're generating capital gains, and
+
+729
+00:37:29,746 --> 00:37:31,746
+that capital gains is then distributed to
+
+730
+00:37:31,746 --> 00:37:34,746
+all of the participants in the mutual fund.
+
+731
+00:37:34,746 --> 00:37:38,246
+With the UCITS in Europe, you don't
+
+732
+00:37:38,246 --> 00:37:41,746
+pay capital gains taxes unless you yourself sell.
+
+733
+00:37:41,746 --> 00:37:44,746
+So, I think the UCITS form
+
+734
+00:37:44,746 --> 00:37:47,746
+is gaining on the mutual fund form.
+
+735
+00:37:47,746 --> 00:37:50,246
+And some people, notably Robert Posen at
+
+736
+00:37:50,246 --> 00:37:52,746
+the Harvard Business School, is advocating that
+
+737
+00:37:52,746 --> 00:37:55,746
+the U.S. switch to the European standard.
+
+738
+00:37:57,746 --> 00:38:07,746
+Okay, I wanted to talk about trusts.
+
+739
+00:38:07,746 --> 00:38:10,206
+What is a trust?
+
+740
+00:38:10,206 --> 00:38:16,746
+It is money held on behalf of another individual.
+
+741
+00:38:16,746 --> 00:38:22,246
+Well, particularly, a personal trust is
+
+742
+00:38:22,246 --> 00:38:27,746
+something that you can set up.
+
+743
+00:38:27,746 --> 00:38:31,246
+You can set up a trust on behalf of
+
+744
+00:38:31,246 --> 00:38:34,746
+another person or a cause, so that an institutional
+
+745
+00:38:34,746 --> 00:38:38,246
+investor will manage money on
+
+746
+00:38:38,246 --> 00:38:41,746
+behalf of that person or cause.
+
+747
+00:38:41,746 --> 00:38:44,746
+And a company that does
+
+748
+00:38:44,746 --> 00:38:47,746
+trust is called a trust company.
+
+749
+00:38:47,746 --> 00:38:50,746
+And trust companies have often been combined
+
+750
+00:38:50,746 --> 00:38:53,746
+with banks, but they're not necessarily part
+
+751
+00:38:53,746 --> 00:38:54,746
+of a bank.
+
+752
+00:38:54,746 --> 00:38:55,746
+You'll see many institutions.
+
+753
+00:38:55,746 --> 00:38:58,746
+You'll see banks and trust companies.
+
+754
+00:38:58,746 --> 00:38:59,746
+Well, you know what a bank is.
+
+755
+00:38:59,746 --> 00:39:01,746
+It takes deposits and makes loans.
+
+756
+00:39:01,746 --> 00:39:04,746
+What does a trust company do?
+
+757
+00:39:04,746 --> 00:39:08,246
+It creates trusts on behalf of some
+
+758
+00:39:08,246 --> 00:39:11,746
+person and manages the money for them.
+
+759
+00:39:11,746 --> 00:39:15,746
+The classic example of a trust is, imagine
+
+760
+00:39:15,746 --> 00:39:19,746
+that you have a child who is handicapped in
+
+761
+00:39:19,746 --> 00:39:21,746
+some way and unable to
+
+762
+00:39:21,746 --> 00:39:23,746
+manage his or her own affairs.
+
+763
+00:39:23,746 --> 00:39:24,746
+Okay?
+
+764
+00:39:24,746 --> 00:39:27,746
+And you, as a parent, know
+
+765
+00:39:27,746 --> 00:39:30,746
+that the child will outlive you.
+
+766
+00:39:30,746 --> 00:39:33,246
+And so, how do you provide
+
+767
+00:39:33,246 --> 00:39:35,746
+for the child after you are gone?
+
+768
+00:39:35,746 --> 00:39:38,746
+Well, you create a trust for the child.
+
+769
+00:39:38,746 --> 00:39:42,246
+And you can go to a trust company and
+
+770
+00:39:42,246 --> 00:39:45,746
+say, I want an income for my child managed for
+
+771
+00:39:45,746 --> 00:39:47,746
+the rest of my child's life.
+
+772
+00:39:47,746 --> 00:39:50,246
+And the bank will outlive you, or the
+
+773
+00:39:50,246 --> 00:39:52,746
+trust company will outlive you and can do that.
+
+774
+00:39:52,746 --> 00:39:57,246
+So, this is very important, because it
+
+775
+00:39:57,246 --> 00:40:01,746
+allows people to create situations that outlive
+
+776
+00:40:01,746 --> 00:40:04,746
+them.
+
+777
+00:40:04,746 --> 00:40:07,746
+But particularly in common law countries,
+
+778
+00:40:07,746 --> 00:40:10,746
+it doesn't have to be a company.
+
+779
+00:40:10,746 --> 00:40:12,746
+You can set up a trust.
+
+780
+00:40:12,746 --> 00:40:15,246
+You can take a young relative of yours who
+
+781
+00:40:15,246 --> 00:40:17,746
+will outlive you and say, I want you to be
+
+782
+00:40:17,746 --> 00:40:20,746
+the trust manager for my child.
+
+783
+00:40:20,746 --> 00:40:25,746
+And if you become ill, can you appoint a successor?
+
+784
+00:40:25,746 --> 00:40:27,746
+You can do that, too.
+
+785
+00:40:27,746 --> 00:40:31,746
+U.S. trust law recognizes the importance of trusts.
+
+786
+00:40:31,746 --> 00:40:34,746
+And so, that person, suppose that person that
+
+787
+00:40:34,746 --> 00:40:37,746
+you appoint as a trustee for your child, suppose
+
+788
+00:40:37,746 --> 00:40:40,246
+that person goes bankrupt, and then other
+
+789
+00:40:40,246 --> 00:40:42,746
+people are taking, seizing that person's assets.
+
+790
+00:40:42,746 --> 00:40:45,746
+They could not take the assets in
+
+791
+00:40:45,746 --> 00:40:48,746
+the trust, because the law recognizes the importance
+
+792
+00:40:48,746 --> 00:40:49,746
+of trust.
+
+793
+00:40:50,746 --> 00:40:57,746
+So, there are different kinds of trusts.
+
+794
+00:40:57,746 --> 00:41:00,746
+I thought I should tell you about a particular
+
+795
+00:41:00,746 --> 00:41:03,746
+kind that may be relevant to some of you in
+
+796
+00:41:03,746 --> 00:41:04,746
+your future.
+
+797
+00:41:04,746 --> 00:41:09,746
+There's a certain kind of trust called a
+
+798
+00:41:09,746 --> 00:41:14,746
+spendthrift trust, which is a trust that your parents
+
+799
+00:41:14,746 --> 00:41:16,746
+may be setting up for you now.
+
+800
+00:41:16,746 --> 00:41:18,746
+I don't know.
+
+801
+00:41:18,746 --> 00:41:19,746
+What is a spendthrift?
+
+802
+00:41:19,746 --> 00:41:21,746
+A spendthrift is someone who
+
+803
+00:41:21,746 --> 00:41:23,746
+spends money too freely, all right?
+
+804
+00:41:23,746 --> 00:41:25,746
+Can't be trusted to manage money.
+
+805
+00:41:25,746 --> 00:41:28,746
+Suppose you have a child who's like that,
+
+806
+00:41:28,746 --> 00:41:31,746
+and you're getting on in years, and you're thinking
+
+807
+00:41:31,746 --> 00:41:34,746
+that you could leave a will to your child, right?
+
+808
+00:41:34,746 --> 00:41:40,746
+But the child might just blow it.
+
+809
+00:41:40,746 --> 00:41:43,246
+So, what you do is, you go to a trust
+
+810
+00:41:43,246 --> 00:41:45,746
+company, and you say, I'd like to set up a spendthrift
+
+811
+00:41:45,746 --> 00:41:47,746
+trust for my child.
+
+812
+00:41:47,746 --> 00:41:49,746
+And after I die, the trust
+
+813
+00:41:49,746 --> 00:41:51,746
+will pay my child an income.
+
+814
+00:41:51,746 --> 00:41:54,746
+And the child cannot get at
+
+815
+00:41:54,746 --> 00:41:57,746
+the assets, only the income, all right?
+
+816
+00:41:57,746 --> 00:41:59,746
+And so, you manage it.
+
+817
+00:41:59,746 --> 00:42:00,746
+And the child comes to you
+
+818
+00:42:00,746 --> 00:42:01,746
+and says, I want the money.
+
+819
+00:42:01,746 --> 00:42:04,746
+And you say, sorry, we set up a spendthrift.
+
+820
+00:42:04,746 --> 00:42:06,746
+Your parents set up a spendthrift trust.
+
+821
+00:42:06,746 --> 00:42:08,746
+That's all you can get.
+
+822
+00:42:08,746 --> 00:42:11,746
+There's various reasons why they do this.
+
+823
+00:42:11,746 --> 00:42:13,746
+One of them is that in a divorce,
+
+824
+00:42:13,746 --> 00:42:15,746
+if your child gets divorced, you're going to have
+
+825
+00:42:15,746 --> 00:42:17,746
+to pay the child's income.
+
+826
+00:42:17,746 --> 00:42:21,746
+And if you're divorced, if you gave money
+
+827
+00:42:21,746 --> 00:42:25,746
+to the children, the divorce court might give
+
+828
+00:42:25,746 --> 00:42:28,246
+half of the money to
+
+829
+00:42:28,246 --> 00:42:30,746
+the awful spouse, your child married.
+
+830
+00:42:30,746 --> 00:42:31,746
+But if it's a spendthrift
+
+831
+00:42:31,746 --> 00:42:32,746
+trust, they can't get at it.
+
+832
+00:42:32,746 --> 00:42:34,746
+It's income to the child.
+
+833
+00:42:34,746 --> 00:42:36,246
+So, there's all kinds of
+
+834
+00:42:36,246 --> 00:42:37,746
+reasons why people set up trusts.
+
+835
+00:42:37,746 --> 00:42:39,246
+But I think trusts are really
+
+836
+00:42:39,246 --> 00:42:40,746
+an important invention in our society.
+
+837
+00:42:40,746 --> 00:42:42,746
+They're not talked about very much.
+
+838
+00:42:42,746 --> 00:42:45,746
+But I mean, it solves a real problem.
+
+839
+00:42:45,746 --> 00:42:47,746
+It's an extreme case, but it's very real.
+
+840
+00:42:47,746 --> 00:42:49,746
+You can have assurance.
+
+841
+00:42:49,746 --> 00:42:53,746
+The law makes it clear that that money
+
+842
+00:42:53,746 --> 00:42:57,746
+is managed by a professional for the child.
+
+843
+00:42:57,746 --> 00:43:02,246
+So, these are real and important institutions
+
+844
+00:43:02,246 --> 00:43:06,746
+that help people get on with their lives.
+
+845
+00:43:06,746 --> 00:43:10,246
+And I think our financial system does
+
+846
+00:43:10,246 --> 00:43:13,746
+a lot to make these things work well.
+
+847
+00:43:13,746 --> 00:43:15,746
+I wanted to talk about pensions.
+
+848
+00:43:15,746 --> 00:43:19,246
+Because I've already talked about them, but people
+
+849
+00:43:19,246 --> 00:43:22,746
+do get old and they can't keep working.
+
+850
+00:43:22,746 --> 00:43:27,246
+And if you look at the history of the
+
+851
+00:43:27,246 --> 00:43:31,746
+world, the fate of elderly people is highly variable.
+
+852
+00:43:31,746 --> 00:43:34,746
+Many of them, if they have good and dutiful
+
+853
+00:43:34,746 --> 00:43:37,746
+children, will do all right, who take care of them.
+
+854
+00:43:37,746 --> 00:43:40,746
+But in the past, you would find a lot of elderly
+
+855
+00:43:40,746 --> 00:43:43,746
+people out on the streets begging, because they didn't have children,
+
+856
+00:43:43,746 --> 00:43:45,746
+or the children died.
+
+857
+00:43:45,746 --> 00:43:50,746
+Or the children lost their income.
+
+858
+00:43:50,746 --> 00:43:53,746
+It's a problem that we've worked substantially to solve.
+
+859
+00:43:53,746 --> 00:43:59,746
+And again, it's an example of progress of our civilization.
+
+860
+00:43:59,746 --> 00:44:02,746
+We take it for granted that people are
+
+861
+00:44:02,746 --> 00:44:05,746
+living as comfortably and well as they are.
+
+862
+00:44:05,746 --> 00:44:10,746
+But it's substantially a product of invention.
+
+863
+00:44:10,746 --> 00:44:13,246
+So, the idea of a pension
+
+864
+00:44:13,246 --> 00:44:15,746
+is actually a relatively new idea.
+
+865
+00:44:15,746 --> 00:44:29,746
+The first U.S. pension plan was 1875.
+
+866
+00:44:29,746 --> 00:44:33,246
+American Express Company set up
+
+867
+00:44:33,246 --> 00:44:36,746
+a pension plan for its employees.
+
+868
+00:44:36,746 --> 00:44:38,746
+There is actually an earlier
+
+869
+00:44:38,746 --> 00:44:40,746
+example in the U.K., I think.
+
+870
+00:44:40,746 --> 00:44:42,746
+I don't have the name of it here.
+
+871
+00:44:42,746 --> 00:44:44,746
+But only something like 20 years earlier.
+
+872
+00:44:44,746 --> 00:44:49,746
+So, until then, there was never a pension plan.
+
+873
+00:44:49,746 --> 00:44:53,746
+So, American Express set up a plan.
+
+874
+00:44:53,746 --> 00:44:56,246
+And it said, employees who had worked at –
+
+875
+00:44:56,246 --> 00:44:58,746
+this, by the way, is not the credit card company.
+
+876
+00:44:58,746 --> 00:45:00,746
+This was a delivery company.
+
+877
+00:45:00,746 --> 00:45:02,746
+They had stagecoaches.
+
+878
+00:45:02,746 --> 00:45:04,746
+This was a long time ago.
+
+879
+00:45:04,746 --> 00:45:08,246
+And if you worked there for 20
+
+880
+00:45:08,246 --> 00:45:11,746
+years, past age 60, and was disabled,
+
+881
+00:45:11,746 --> 00:45:14,246
+you would get 50% of the average
+
+882
+00:45:14,246 --> 00:45:16,746
+of the last 10 years' pay for life.
+
+883
+00:45:16,746 --> 00:45:18,746
+So, this was a model.
+
+884
+00:45:18,746 --> 00:45:27,746
+50% of average of last 10 years' pay on retirement.
+
+885
+00:45:27,746 --> 00:45:29,746
+Because it was tied to how much income.
+
+886
+00:45:29,746 --> 00:45:31,746
+You thought you could live on half the
+
+887
+00:45:31,746 --> 00:45:33,746
+income that you earned when you were working.
+
+888
+00:45:33,746 --> 00:45:40,746
+In 1901, Carnegie Steel –
+
+889
+00:45:41,746 --> 00:45:45,746
+that's Andrew Carnegie, the same Andrew Carnegie who wrote
+
+890
+00:45:45,746 --> 00:45:49,746
+the Gospel of Wealth that we've been talking about –
+
+891
+00:45:49,746 --> 00:45:53,746
+gave a – this was
+
+892
+00:45:53,746 --> 00:45:57,746
+the first large industrial pension fund.
+
+893
+00:45:57,746 --> 00:46:03,746
+And it covered a substantial number of people.
+
+894
+00:46:03,746 --> 00:46:06,746
+It was a milestone that
+
+895
+00:46:06,746 --> 00:46:09,746
+suggested many more such pension funds.
+
+896
+00:46:09,746 --> 00:46:10,746
+Unions.
+
+897
+00:46:10,746 --> 00:46:13,246
+Unions, in the early 20th
+
+898
+00:46:13,246 --> 00:46:15,746
+century, started setting up pension funds.
+
+899
+00:46:15,746 --> 00:46:19,746
+For example, the pattern makers in 1900, the
+
+900
+00:46:19,746 --> 00:46:23,746
+granite cutters and cigar makers in 1905, etc.
+
+901
+00:46:23,746 --> 00:46:26,746
+So, union pension funds became
+
+902
+00:46:26,746 --> 00:46:29,746
+popular in the early 20th century.
+
+903
+00:46:29,746 --> 00:46:36,746
+But there was a collapse of pensions after 1929.
+
+904
+00:46:36,746 --> 00:46:40,746
+Many people were promised pensions.
+
+905
+00:46:40,746 --> 00:46:46,746
+In the first three decades of the 20th century.
+
+906
+00:46:46,746 --> 00:46:50,746
+And the companies just went out of business and didn't.
+
+907
+00:46:50,746 --> 00:46:53,746
+Moreover, the unions of
+
+908
+00:46:53,746 --> 00:46:56,746
+pension funds failed especially disastrously.
+
+909
+00:46:56,746 --> 00:47:01,746
+They just didn't manage their money well.
+
+910
+00:47:01,746 --> 00:47:09,746
+The institutional investors were not very astute.
+
+911
+00:47:09,746 --> 00:47:11,246
+It's like the world was very
+
+912
+00:47:11,246 --> 00:47:12,746
+amateurish about how they handled these things.
+
+913
+00:47:12,746 --> 00:47:14,746
+Obviously, it's very important that
+
+914
+00:47:14,746 --> 00:47:16,746
+people have money to retire on.
+
+915
+00:47:16,746 --> 00:47:19,746
+But they just got all – many
+
+916
+00:47:19,746 --> 00:47:22,746
+of them got wiped out in 1929.
+
+917
+00:47:22,746 --> 00:47:26,746
+So, it led to further thinking about pensions.
+
+918
+00:47:26,746 --> 00:47:32,246
+The General Motors pension plan was
+
+919
+00:47:32,246 --> 00:47:37,746
+a landmark pension plan in 1950.
+
+920
+00:47:37,746 --> 00:47:42,746
+And in 1950, GM Chairman Charles
+
+921
+00:47:42,746 --> 00:47:47,746
+Wilson proposed a fully funded pension plan.
+
+922
+00:47:47,746 --> 00:47:50,746
+This was a new idea.
+
+923
+00:47:50,746 --> 00:47:53,746
+That is, General Motors, in promising
+
+924
+00:47:53,746 --> 00:47:56,746
+to pay you in your retirement,
+
+925
+00:47:56,746 --> 00:48:00,246
+would set aside and invest now enough
+
+926
+00:48:00,246 --> 00:48:03,746
+money, so that they would have that.
+
+927
+00:48:03,746 --> 00:48:06,746
+In other words, they created a trust for the employees.
+
+928
+00:48:06,746 --> 00:48:10,746
+So, it's just like the parent for the handicapped child.
+
+929
+00:48:10,746 --> 00:48:13,746
+If General Motors dies, it doesn't matter,
+
+930
+00:48:13,746 --> 00:48:16,746
+because there's a trust managing their pension funds.
+
+931
+00:48:16,746 --> 00:48:18,746
+You know, it's kind of a funny idea.
+
+932
+00:48:18,746 --> 00:48:21,746
+Why didn't anyone do that before?
+
+933
+00:48:21,746 --> 00:48:23,746
+Why didn't the unions, who were
+
+934
+00:48:23,746 --> 00:48:25,746
+looking out for the union employees,
+
+935
+00:48:25,746 --> 00:48:30,746
+demand that they fund their pension funds?
+
+936
+00:48:30,746 --> 00:48:33,246
+You know, it seems like history,
+
+937
+00:48:33,246 --> 00:48:35,746
+financial history shows a lot of stupidity.
+
+938
+00:48:35,746 --> 00:48:38,746
+I don't quite understand how it could be.
+
+939
+00:48:38,746 --> 00:48:40,746
+It seems obvious, doesn't it?
+
+940
+00:48:40,746 --> 00:48:42,746
+That if a company is going to promise you
+
+941
+00:48:42,746 --> 00:48:44,746
+for a pension, that they should set aside money.
+
+942
+00:48:44,746 --> 00:48:47,746
+Because companies fail all the time.
+
+943
+00:48:47,746 --> 00:48:50,746
+There may have been some union complicity.
+
+944
+00:48:50,746 --> 00:48:54,746
+That the unions were not really
+
+945
+00:48:54,746 --> 00:48:58,746
+always working on behalf of their members.
+
+946
+00:48:58,746 --> 00:49:01,246
+They thought, well, the members don't think about this
+
+947
+00:49:01,246 --> 00:49:03,746
+problem, so we're not going to think about it either.
+
+948
+00:49:03,746 --> 00:49:05,746
+It's going to come years down the road.
+
+949
+00:49:05,746 --> 00:49:08,746
+We're not going to worry.
+
+950
+00:49:08,746 --> 00:49:12,746
+So, General Motors in 1950 set
+
+951
+00:49:12,746 --> 00:49:16,746
+an example for funding the pension funds.
+
+952
+00:49:16,746 --> 00:49:20,746
+It's very important.
+
+953
+00:49:20,746 --> 00:49:23,246
+And more and more firms
+
+954
+00:49:23,246 --> 00:49:25,746
+started to do that after 1950.
+
+955
+00:49:25,746 --> 00:49:33,746
+But the next thing I want to give is Studebaker.
+
+956
+00:49:33,746 --> 00:49:35,746
+Do you remember Studebaker?
+
+957
+00:49:35,746 --> 00:49:40,746
+They were one of the major automobile manufacturers.
+
+958
+00:49:40,746 --> 00:49:43,246
+Maybe you don't remember them,
+
+959
+00:49:43,246 --> 00:49:45,746
+because they went bankrupt in 1963.
+
+960
+00:49:45,746 --> 00:49:47,746
+That's a long time ago for you.
+
+961
+00:49:47,746 --> 00:49:52,746
+But they were around.
+
+962
+00:49:52,746 --> 00:49:56,246
+Well, they had a pension plan
+
+963
+00:49:56,246 --> 00:49:59,746
+that was partly funded, but inadequately funded.
+
+964
+00:49:59,746 --> 00:50:04,746
+And when they went out of business, their employees lost.
+
+965
+00:50:05,746 --> 00:50:11,246
+And this led to arguments about, and their labor union, again, the
+
+966
+00:50:11,246 --> 00:50:16,746
+United Auto Workers, supposedly standing up for the employees, didn't do the job.
+
+967
+00:50:16,746 --> 00:50:19,746
+So, the whole idea of labor
+
+968
+00:50:19,746 --> 00:50:22,746
+management negotiating, protecting the workers seemed flawed.
+
+969
+00:50:22,746 --> 00:50:24,746
+And so, the government got involved.
+
+970
+00:50:24,746 --> 00:50:29,746
+And it led to ERISA, which I mentioned before.
+
+971
+00:50:31,746 --> 00:50:33,746
+ERISA stands for Employment and Employment.
+
+972
+00:50:33,746 --> 00:50:36,246
+ERISA stands for Employment,
+
+973
+00:50:36,246 --> 00:50:38,746
+Retirement, Income Security Act.
+
+974
+00:50:38,746 --> 00:50:42,246
+This was an act to clean up pension funds
+
+975
+00:50:42,246 --> 00:50:45,746
+and make them work well, make them work better.
+
+976
+00:50:45,746 --> 00:50:51,246
+So, the government wanted to make sure, not only that pension
+
+977
+00:50:51,246 --> 00:50:56,746
+plans said they were funded, but that they were really funded.
+
+978
+00:50:56,746 --> 00:50:59,746
+So that another bankruptcy wouldn't
+
+979
+00:50:59,746 --> 00:51:02,746
+cause pension plans to fail.
+
+980
+00:51:02,746 --> 00:51:07,246
+So, ERISA set up a new government
+
+981
+00:51:07,246 --> 00:51:11,746
+agency called the Pension Benefits Guarantee Corporation.
+
+982
+00:51:11,746 --> 00:51:13,746
+That's PBGC.
+
+983
+00:51:13,746 --> 00:51:19,746
+The Pension Benefits Guarantee Corporation is a government
+
+984
+00:51:19,746 --> 00:51:25,746
+organization that insures the funding of pension plans.
+
+985
+00:51:25,746 --> 00:51:26,746
+Okay?
+
+986
+00:51:26,746 --> 00:51:29,246
+So, pension plans not only have to understand the
+
+987
+00:51:29,246 --> 00:51:31,746
+government, but they also have to understand the government.
+
+988
+00:51:31,746 --> 00:51:35,246
+So, they have to undergo scrutiny by
+
+989
+00:51:35,246 --> 00:51:38,746
+the PBGC that they are fully funded.
+
+990
+00:51:38,746 --> 00:51:41,746
+But they also have to pay
+
+991
+00:51:41,746 --> 00:51:44,746
+an insurance premium to the PBGC.
+
+992
+00:51:44,746 --> 00:51:50,246
+And if it turns out that they're not fully funded,
+
+993
+00:51:50,246 --> 00:51:55,746
+then the PBGC will come in and replace the lost income.
+
+994
+00:51:55,746 --> 00:51:58,746
+So, you see how over the century,
+
+995
+00:51:58,746 --> 00:52:01,746
+we're trying to come up with financial structures.
+
+996
+00:52:01,746 --> 00:52:06,746
+That solve basic human problems.
+
+997
+00:52:06,746 --> 00:52:12,746
+So, the PBGC, by the way, is still here.
+
+998
+00:52:12,746 --> 00:52:15,746
+And it hasn't gone bankrupt, despite this financial crisis.
+
+999
+00:52:15,746 --> 00:52:18,746
+Though people are worried about
+
+1000
+00:52:18,746 --> 00:52:21,746
+it, it has managed to survive.
+
+1001
+00:52:21,746 --> 00:52:26,246
+Shortly after this, after 1974, a
+
+1002
+00:52:26,246 --> 00:52:30,746
+new kind of pension plan became popular.
+
+1003
+00:52:31,746 --> 00:52:35,746
+So, ERISA was written in an
+
+1004
+00:52:35,746 --> 00:52:39,746
+age of defined benefit pension plans.
+
+1005
+00:52:39,746 --> 00:52:44,746
+Like the original American Express pension plan.
+
+1006
+00:52:44,746 --> 00:52:48,746
+What did American Express pension plan in 1875 promise you?
+
+1007
+00:52:48,746 --> 00:52:51,246
+It promised you half of your
+
+1008
+00:52:51,246 --> 00:52:53,746
+average income for the last 10 years.
+
+1009
+00:52:53,746 --> 00:52:54,746
+All right?
+
+1010
+00:52:54,746 --> 00:52:57,246
+And if you're going to fund the pension plan, you're
+
+1011
+00:52:57,246 --> 00:52:59,746
+presenting a problem to the managers of the pension money.
+
+1012
+00:52:59,746 --> 00:53:00,746
+They have to hit that target.
+
+1013
+00:53:00,746 --> 00:53:06,746
+They're told you, the pension plan has an obligation to
+
+1014
+00:53:06,746 --> 00:53:12,746
+fund the repayments equal to whatever percent of last year's income.
+
+1015
+00:53:12,746 --> 00:53:13,746
+And that's kind of a
+
+1016
+00:53:13,746 --> 00:53:14,746
+tricky problem, if you're a manager.
+
+1017
+00:53:14,746 --> 00:53:16,746
+How do I do that?
+
+1018
+00:53:16,746 --> 00:53:17,746
+How do I hit that target?
+
+1019
+00:53:17,746 --> 00:53:19,746
+How do I know how much money to set aside?
+
+1020
+00:53:19,746 --> 00:53:22,246
+Well, it's getting now into
+
+1021
+00:53:22,246 --> 00:53:24,746
+government regulators and prudent person rules.
+
+1022
+00:53:24,746 --> 00:53:26,746
+And it's tricky.
+
+1023
+00:53:26,746 --> 00:53:27,746
+That's so.
+
+1024
+00:53:27,746 --> 00:53:30,746
+But the point is that in 1927,
+
+1025
+00:53:30,746 --> 00:53:34,746
+in 1974, almost all pension plans were like that.
+
+1026
+00:53:34,746 --> 00:53:36,746
+They defined the benefit that
+
+1027
+00:53:36,746 --> 00:53:38,746
+you would receive when you retired.
+
+1028
+00:53:38,746 --> 00:53:45,246
+But after, in the 1980s, companies started offering a
+
+1029
+00:53:45,246 --> 00:53:51,746
+new kind of pension plan called a defined contribution.
+
+1030
+00:53:51,746 --> 00:53:56,246
+The idea was, you know, it's hard for us to hit that
+
+1031
+00:53:56,246 --> 00:54:00,746
+target of, say, 50% of your average income for the last 10 years.
+
+1032
+00:54:00,746 --> 00:54:02,746
+How do you expect us to do that?
+
+1033
+00:54:02,746 --> 00:54:04,746
+We don't know how much these investments will pay out.
+
+1034
+00:54:04,746 --> 00:54:06,746
+We don't even know how much money
+
+1035
+00:54:06,746 --> 00:54:08,746
+you'll be paid in your last 10 years.
+
+1036
+00:54:08,746 --> 00:54:10,746
+So, you know, it's asking us to do the impossible.
+
+1037
+00:54:10,746 --> 00:54:13,746
+Well, it's not impossible, to do the difficult.
+
+1038
+00:54:13,746 --> 00:54:17,746
+So, they decided, many companies decided, instead
+
+1039
+00:54:17,746 --> 00:54:21,746
+of requiring a defined amount to be paid,
+
+1040
+00:54:21,746 --> 00:54:24,246
+they would just define the
+
+1041
+00:54:24,246 --> 00:54:26,746
+contribution they'll make to your portfolio.
+
+1042
+00:54:26,746 --> 00:54:29,746
+They give you a portfolio as an employer.
+
+1043
+00:54:29,746 --> 00:54:31,746
+Employee.
+
+1044
+00:54:31,746 --> 00:54:34,746
+And you get whatever income
+
+1045
+00:54:34,746 --> 00:54:37,746
+that portfolio generates when you retire.
+
+1046
+00:54:37,746 --> 00:54:41,246
+The most famous example of that is
+
+1047
+00:54:41,246 --> 00:54:44,746
+a 401 plan in the United States.
+
+1048
+00:54:44,746 --> 00:54:48,746
+But ever since, shortly after ERISA, the world
+
+1049
+00:54:48,746 --> 00:54:52,746
+has been moving toward defined contribution pension plans.
+
+1050
+00:54:52,746 --> 00:54:57,746
+Where a defined contribution pension plan doesn't,
+
+1051
+00:54:59,746 --> 00:55:02,746
+doesn't promise what you'll get in retirement.
+
+1052
+00:55:02,746 --> 00:55:08,746
+And that's, so then, a portfolio
+
+1053
+00:55:08,746 --> 00:55:14,746
+manager for a defined contribution pension plan
+
+1054
+00:55:14,746 --> 00:55:17,746
+doesn't have to worry about hitting targets.
+
+1055
+00:55:17,746 --> 00:55:19,746
+And in fact, the way defined
+
+1056
+00:55:19,746 --> 00:55:21,746
+contribution plans are usually set up,
+
+1057
+00:55:21,746 --> 00:55:24,746
+they give the individual employee the
+
+1058
+00:55:24,746 --> 00:55:27,746
+choice of the main portfolio allocation
+
+1059
+00:55:27,746 --> 00:55:30,746
+that they want to be able to make.
+
+1060
+00:55:30,746 --> 00:55:32,746
+So, they can make stocks and
+
+1061
+00:55:32,746 --> 00:55:34,746
+bonds and real estate or whatever.
+
+1062
+00:55:34,746 --> 00:55:37,246
+But you have investment managers managing
+
+1063
+00:55:37,246 --> 00:55:39,746
+within one of those asset classes.
+
+1064
+00:55:39,746 --> 00:55:43,246
+So, there'll be someone managing an equity
+
+1065
+00:55:43,246 --> 00:55:46,746
+fund, another one managing a bond fund.
+
+1066
+00:55:46,746 --> 00:55:50,246
+And they try to do as well as they can
+
+1067
+00:55:50,246 --> 00:55:53,746
+as investors, subject to the restriction of what they invest in.
+
+1068
+00:55:53,746 --> 00:55:57,746
+And it's left to the client to choose the allocation.
+
+1069
+00:55:57,746 --> 00:55:59,746
+And defined contribution plans are
+
+1070
+00:55:59,746 --> 00:56:01,746
+going through growing pains, too.
+
+1071
+00:56:01,746 --> 00:56:04,746
+We still don't have the perfect system.
+
+1072
+00:56:04,746 --> 00:56:09,246
+The problem with defined contribution plans, one problem is
+
+1073
+00:56:09,246 --> 00:56:13,746
+that you don't have to sign up for them,
+
+1074
+00:56:13,746 --> 00:56:15,746
+the way they've been set up.
+
+1075
+00:56:15,746 --> 00:56:17,246
+It used to be, under
+
+1076
+00:56:17,246 --> 00:56:18,746
+the old days, defined benefit plans,
+
+1077
+00:56:18,746 --> 00:56:21,246
+was just automatically every employee
+
+1078
+00:56:21,246 --> 00:56:23,746
+would get the pension plan.
+
+1079
+00:56:23,746 --> 00:56:27,746
+But with a defined contribution plan, the typical rule was,
+
+1080
+00:56:27,746 --> 00:56:31,746
+that the company would ask you to make
+
+1081
+00:56:31,746 --> 00:56:35,746
+contributions out of your paycheck to the plan.
+
+1082
+00:56:35,746 --> 00:56:37,746
+And the company would then
+
+1083
+00:56:37,746 --> 00:56:39,746
+match them, typically, with additional contributions.
+
+1084
+00:56:39,746 --> 00:56:42,246
+But something like a quarter of
+
+1085
+00:56:42,246 --> 00:56:44,746
+the people would choose not to participate.
+
+1086
+00:56:44,746 --> 00:56:47,246
+And then, just because they're
+
+1087
+00:56:47,246 --> 00:56:49,746
+not thinking, they're not thinking ahead.
+
+1088
+00:56:49,746 --> 00:56:51,746
+And so, when they come to
+
+1089
+00:56:51,746 --> 00:56:53,746
+retire, they don't have any pension plan.
+
+1090
+00:56:53,746 --> 00:56:56,746
+Moreover, some of them take the most risky investment off.
+
+1091
+00:56:56,746 --> 00:56:59,746
+And they might put it all in the stock market.
+
+1092
+00:56:59,746 --> 00:57:02,246
+And if the stock market does badly,
+
+1093
+00:57:02,246 --> 00:57:04,746
+they might end up poor in retirement.
+
+1094
+00:57:04,746 --> 00:57:09,246
+And companies generally would not give any
+
+1095
+00:57:09,246 --> 00:57:13,746
+advice to the people who were employees,
+
+1096
+00:57:13,746 --> 00:57:15,246
+because they didn't want to
+
+1097
+00:57:15,246 --> 00:57:16,746
+be liable for giving bad advice.
+
+1098
+00:57:16,746 --> 00:57:19,246
+So, it led to kind
+
+1099
+00:57:19,246 --> 00:57:21,746
+of amateur investing for pension plans.
+
+1100
+00:57:21,746 --> 00:57:25,746
+So, we're going to go through that.
+
+1101
+00:57:26,746 --> 00:57:29,746
+There's been work to try to fix that.
+
+1102
+00:57:29,746 --> 00:57:35,246
+And I think, we've now, federal legislation has made
+
+1103
+00:57:35,246 --> 00:57:40,746
+it easier for companies to give advice to employees.
+
+1104
+00:57:40,746 --> 00:57:44,746
+They've also allowed, recently, in the last few years,
+
+1105
+00:57:44,746 --> 00:57:46,746
+for companies to automatically enroll
+
+1106
+00:57:46,746 --> 00:57:48,746
+employees in a pension plan.
+
+1107
+00:57:48,746 --> 00:57:54,746
+And,
+
+1108
+00:57:56,746 --> 00:57:59,246
+they'll make allocations, if they
+
+1109
+00:57:59,246 --> 00:58:01,746
+didn't hear anything from the employees.
+
+1110
+00:58:01,746 --> 00:58:04,746
+In other words, they'll put you into a prudent allocation.
+
+1111
+00:58:04,746 --> 00:58:07,746
+And then, you're actually there.
+
+1112
+00:58:07,746 --> 00:58:09,746
+You're in it, because you've said nothing.
+
+1113
+00:58:09,746 --> 00:58:16,746
+So, that's working towards solving the problem.
+
+1114
+00:58:16,746 --> 00:58:18,746
+We still don't have, I think, the
+
+1115
+00:58:18,746 --> 00:58:20,746
+ideal solution to any of these things.
+
+1116
+00:58:20,746 --> 00:58:24,746
+But, so, I've talked about pension plans.
+
+1117
+00:58:24,746 --> 00:58:28,746
+Let me move on to endowments.
+
+1118
+00:58:28,746 --> 00:58:35,746
+Endowment managers, of which David Swenson is one.
+
+1119
+00:58:35,746 --> 00:58:40,746
+So, an endowment manages a portfolio for
+
+1120
+00:58:40,746 --> 00:58:45,746
+some cause or some purpose, like a university.
+
+1121
+00:58:45,746 --> 00:58:53,746
+And the history of endowments is one of great,
+
+1122
+00:58:54,746 --> 00:58:58,246
+it's just amazing to me, how
+
+1123
+00:58:58,246 --> 00:59:01,746
+many serious mistakes were made in history.
+
+1124
+00:59:01,746 --> 00:59:05,746
+But we're gradually becoming more professional.
+
+1125
+00:59:05,746 --> 00:59:08,746
+So, I'll give you an example of a mistake.
+
+1126
+00:59:08,746 --> 00:59:14,746
+This is in Swenson's book.
+
+1127
+00:59:14,746 --> 00:59:19,246
+In 1825, Yale University put its entire endowment in
+
+1128
+00:59:19,246 --> 00:59:23,746
+an investment in the Eagle Bank of New Haven.
+
+1129
+00:59:23,746 --> 00:59:26,746
+Okay.
+
+1130
+00:59:26,746 --> 00:59:28,746
+You know what happened?
+
+1131
+00:59:28,746 --> 00:59:30,746
+It went to zero.
+
+1132
+00:59:30,746 --> 00:59:32,746
+It ended up with nothing.
+
+1133
+00:59:32,746 --> 00:59:36,746
+So, Yale had no endowment after 1825.
+
+1134
+00:59:36,746 --> 00:59:40,746
+So, Elihu Yale may have given us money.
+
+1135
+00:59:40,746 --> 00:59:44,746
+We should have turned it into a pretty
+
+1136
+00:59:44,746 --> 00:59:48,746
+tidy sum, compound interest from 1700 to 1825.
+
+1137
+00:59:48,746 --> 00:59:50,746
+But we blew it completely.
+
+1138
+00:59:50,746 --> 00:59:52,746
+This is the first thing you learn in a portfolio.
+
+1139
+00:59:52,746 --> 00:59:56,746
+You don't put all of your money in one investment.
+
+1140
+00:59:56,746 --> 00:59:59,746
+But Yale University did that.
+
+1141
+00:59:59,746 --> 01:00:04,246
+By the way, looking it up, 1825 was
+
+1142
+01:00:04,246 --> 01:00:08,746
+the year that Yale College introduced the economics requirement.
+
+1143
+01:00:08,746 --> 01:00:10,746
+They called it political economy.
+
+1144
+01:00:10,746 --> 01:00:13,746
+Before that, there were no economics courses at Yale.
+
+1145
+01:00:13,746 --> 01:00:16,746
+So, maybe it was this experience
+
+1146
+01:00:16,746 --> 01:00:19,746
+that made them do that in 1825.
+
+1147
+01:00:19,746 --> 01:00:21,746
+So,
+
+1148
+01:00:22,746 --> 01:00:24,746
+I'm going to give you another example.
+
+1149
+01:00:24,746 --> 01:00:25,746
+Boston University.
+
+1150
+01:00:25,746 --> 01:00:27,746
+This is much more recent.
+
+1151
+01:00:27,746 --> 01:00:31,246
+Under John Silber invested, not the whole
+
+1152
+01:00:31,246 --> 01:00:34,746
+endowment of the university, but $90 million
+
+1153
+01:00:34,746 --> 01:00:37,746
+in one company called Serigen,
+
+1154
+01:00:37,746 --> 01:00:40,746
+which was a genetic engineering company.
+
+1155
+01:00:40,746 --> 01:00:44,746
+And just John Silber decided to do this.
+
+1156
+01:00:44,746 --> 01:00:51,746
+And he lost Boston University 90% of $90 million.
+
+1157
+01:00:52,746 --> 01:00:55,746
+So, he was a very good student.
+
+1158
+01:00:55,746 --> 01:00:59,746
+Reverend, oh, okay, University of Bridgeport, not
+
+1159
+01:00:59,746 --> 01:01:03,746
+far from here, blew its whole endowment
+
+1160
+01:01:03,746 --> 01:01:06,746
+and ended up having to
+
+1161
+01:01:06,746 --> 01:01:09,746
+join the unification church to survive.
+
+1162
+01:01:09,746 --> 01:01:11,746
+I think that somehow that's been undone since then.
+
+1163
+01:01:11,746 --> 01:01:13,746
+I'm not sure of the details.
+
+1164
+01:01:13,746 --> 01:01:16,246
+But it may not have been what they
+
+1165
+01:01:16,246 --> 01:01:18,746
+would have done if they had had an endowment.
+
+1166
+01:01:18,746 --> 01:01:19,746
+See, what Swenson thinks is, what he's doing
+
+1167
+01:01:19,746 --> 01:01:20,746
+is protecting the ability, how to do this,
+
+1168
+01:01:20,746 --> 01:01:24,246
+protecting the ability of a
+
+1169
+01:01:24,246 --> 01:01:27,746
+university to undergo its financial mission.
+
+1170
+01:01:27,746 --> 01:01:32,246
+And so, because Swenson was not overly constrained
+
+1171
+01:01:32,246 --> 01:01:36,746
+by prudent person rules, because he was free
+
+1172
+01:01:36,746 --> 01:01:40,246
+to invest in a high intellectual standard, he's
+
+1173
+01:01:40,246 --> 01:01:43,746
+made it possible for Yale to pursue its
+
+1174
+01:01:43,746 --> 01:01:46,746
+educational objectives.
+
+1175
+01:01:46,746 --> 01:01:48,245
+Right now, at Yale University,
+
+1176
+01:01:48,245 --> 01:01:49,745
+like other successful endowment universities, there's
+
+1177
+01:01:49,745 --> 01:01:53,245
+a lot of people who are getting
+
+1178
+01:01:53,245 --> 01:01:56,745
+their whole tuition paid, plus a living allowance.
+
+1179
+01:01:56,745 --> 01:01:58,745
+So, it's like a job,
+
+1180
+01:01:58,745 --> 01:02:00,745
+coming to be a graduate student.
+
+1181
+01:02:00,745 --> 01:02:04,245
+The university pays, you should know this,
+
+1182
+01:02:04,245 --> 01:02:07,745
+if you're thinking of getting a PhD, come
+
+1183
+01:02:07,745 --> 01:02:10,245
+to one of these universities and they'll
+
+1184
+01:02:10,245 --> 01:02:12,746
+pay you something like $25,000 a year, something
+
+1185
+01:02:12,746 --> 01:02:17,746
+like that.
+
+1186
+01:02:17,746 --> 01:02:18,746
+That's a pretty good deal.
+
+1187
+01:02:18,746 --> 01:02:19,746
+Right?
+
+1188
+01:02:19,746 --> 01:02:22,746
+It's not a deal, it's a gift.
+
+1189
+01:02:22,746 --> 01:02:25,246
+It's the generosity of the alumni, and
+
+1190
+01:02:25,246 --> 01:02:27,746
+it's the success of the investment strategy that
+
+1191
+01:02:27,746 --> 01:02:32,746
+makes that possible.
+
+1192
+01:02:32,746 --> 01:02:35,746
+And so, I wanted to talk
+
+1193
+01:02:35,746 --> 01:02:38,746
+about another kind of institutional investor.
+
+1194
+01:02:38,746 --> 01:02:43,746
+And this will bring me back
+
+1195
+01:02:43,746 --> 01:02:48,746
+to my discussion of the family.
+
+1196
+01:02:48,746 --> 01:02:52,246
+I started out by saying that the
+
+1197
+01:02:52,246 --> 01:02:55,746
+family is the fundamental unit of our society.
+
+1198
+01:02:55,746 --> 01:02:57,746
+Its demise has been predicted.
+
+1199
+01:02:57,746 --> 01:03:00,746
+Remember that in the Communist Manifesto, Karl
+
+1200
+01:03:00,746 --> 01:03:03,746
+Marx said, we're going to end the family
+
+1201
+01:03:03,746 --> 01:03:05,746
+as an economic unit, something like that.
+
+1202
+01:03:05,746 --> 01:03:08,746
+Didn't happen.
+
+1203
+01:03:08,746 --> 01:03:15,746
+It's too ingrained in our genes, or our long history.
+
+1204
+01:03:15,746 --> 01:03:22,246
+So, I wanted to come back and
+
+1205
+01:03:22,246 --> 01:03:28,746
+talk about family offices and family foundations.
+
+1206
+01:03:28,746 --> 01:03:30,746
+Although these apply only to the
+
+1207
+01:03:30,746 --> 01:03:32,746
+more wealthy people in our society.
+
+1208
+01:03:32,746 --> 01:03:34,746
+What is a family office?
+
+1209
+01:03:34,746 --> 01:03:39,246
+These are people who have $100 million or
+
+1210
+01:03:39,246 --> 01:03:43,746
+more typically set these up, maybe even less,
+
+1211
+01:03:43,746 --> 01:03:44,746
+maybe with $20 million in assets.
+
+1212
+01:03:44,746 --> 01:03:49,246
+But if you have $100 million in assets,
+
+1213
+01:03:49,246 --> 01:03:53,746
+5% income is $5 million a year, right?
+
+1214
+01:03:53,746 --> 01:03:58,746
+That's pretty, you know, it would be sensible
+
+1215
+01:03:58,746 --> 01:04:03,746
+to take on some full-time employees to manage
+
+1216
+01:04:03,746 --> 01:04:05,746
+your family portfolio.
+
+1217
+01:04:05,746 --> 01:04:08,746
+And so, that's called a family office.
+
+1218
+01:04:08,746 --> 01:04:10,746
+I recently spoke at a
+
+1219
+01:04:10,746 --> 01:04:12,746
+family office forum down in Florida.
+
+1220
+01:04:12,746 --> 01:04:13,746
+And I said, well, what's the difference
+
+1221
+01:04:13,746 --> 01:04:14,746
+between a family office and a family foundation?
+
+1222
+01:04:14,746 --> 01:04:16,746
+And I said, well, I'm in Florida.
+
+1223
+01:04:16,746 --> 01:04:18,746
+And they seem to be very numerous.
+
+1224
+01:04:18,746 --> 01:04:20,746
+There's an awful lot of families.
+
+1225
+01:04:20,746 --> 01:04:22,746
+The families come to these conventions
+
+1226
+01:04:22,746 --> 01:04:24,746
+and they hear people like me speak.
+
+1227
+01:04:24,746 --> 01:04:27,246
+Although I'm different than most of them, because most
+
+1228
+01:04:27,246 --> 01:04:29,746
+of the people speaking there wanted to sell product.
+
+1229
+01:04:29,746 --> 01:04:35,746
+And I wasn't there to sell anything.
+
+1230
+01:04:35,746 --> 01:04:38,246
+So, they typically have two or three
+
+1231
+01:04:38,246 --> 01:04:40,746
+or five people working full-time, managing their portfolio
+
+1232
+01:04:40,746 --> 01:04:42,746
+and planning things like trusts for the children.
+
+1233
+01:04:42,746 --> 01:04:45,746
+And then there's something
+
+1234
+01:04:45,746 --> 01:04:48,746
+else called the family foundation.
+
+1235
+01:04:48,746 --> 01:04:51,746
+The family office is for the family.
+
+1236
+01:04:51,746 --> 01:04:56,746
+And there's something else called the family foundation.
+
+1237
+01:04:56,746 --> 01:05:00,746
+And this is different from a family office.
+
+1238
+01:05:00,746 --> 01:05:02,746
+But they could be interrelated.
+
+1239
+01:05:02,746 --> 01:05:05,746
+And I think most wealthy families have both.
+
+1240
+01:05:05,746 --> 01:05:09,246
+A family foundation is a
+
+1241
+01:05:09,246 --> 01:05:12,746
+charitable organization created by a family.
+
+1242
+01:05:12,746 --> 01:05:16,246
+And it's a foundation with the name
+
+1243
+01:05:16,246 --> 01:05:19,746
+of the family, typically, on the foundation.
+
+1244
+01:05:19,746 --> 01:05:25,246
+So, I think that most wealthy families, or actually,
+
+1245
+01:05:25,246 --> 01:05:30,746
+I don't know, a large number of wealthy families,
+
+1246
+01:05:30,746 --> 01:05:32,746
+at least in the United
+
+1247
+01:05:32,746 --> 01:05:34,746
+States now, set up family foundations.
+
+1248
+01:05:34,746 --> 01:05:36,746
+And the reason they do that,
+
+1249
+01:05:36,746 --> 01:05:38,746
+well, why do they do that?
+
+1250
+01:05:38,746 --> 01:05:40,746
+I think it's partly because when you're wealthy,
+
+1251
+01:05:40,746 --> 01:05:43,746
+you can't spend it all on yourself.
+
+1252
+01:05:43,746 --> 01:05:49,746
+And you reflect on yourself as a member of society.
+
+1253
+01:05:49,746 --> 01:05:52,246
+As people get older, they think, what
+
+1254
+01:05:52,246 --> 01:05:54,746
+am I going to do with this money?
+
+1255
+01:05:54,746 --> 01:05:57,746
+And so, increasingly, people
+
+1256
+01:05:57,746 --> 01:06:00,746
+are setting up family foundations.
+
+1257
+01:06:00,746 --> 01:06:05,246
+I learned that as of 2006, there
+
+1258
+01:06:05,246 --> 01:06:09,746
+were 36,000 family foundations in the United States.
+
+1259
+01:06:10,746 --> 01:06:12,746
+And it's growing rapidly.
+
+1260
+01:06:12,746 --> 01:06:14,746
+There seems to be a trend toward that.
+
+1261
+01:06:14,746 --> 01:06:16,746
+I think we're reflecting our increasing affluence,
+
+1262
+01:06:16,746 --> 01:06:21,746
+but I think also reflecting maybe changing values.
+
+1263
+01:06:21,746 --> 01:06:24,746
+So, the typical family foundation is not huge.
+
+1264
+01:06:24,746 --> 01:06:27,746
+It might be one or two million dollars, right?
+
+1265
+01:06:27,746 --> 01:06:31,746
+So, you can set something like that up eventually.
+
+1266
+01:06:31,746 --> 01:06:33,246
+If not right now, I want
+
+1267
+01:06:33,246 --> 01:06:34,746
+you to think about doing that.
+
+1268
+01:06:34,746 --> 01:06:37,246
+So, whatever it is you believe in, you
+
+1269
+01:06:37,246 --> 01:06:39,746
+set up a family foundation to do that.
+
+1270
+01:06:40,746 --> 01:06:43,746
+While you're still young, and you get it going,
+
+1271
+01:06:43,746 --> 01:06:47,746
+and it will then outlive you, and you endow it.
+
+1272
+01:06:47,746 --> 01:06:50,746
+Say, you give it a couple million dollars.
+
+1273
+01:06:50,746 --> 01:06:52,746
+That would be a small family
+
+1274
+01:06:52,746 --> 01:06:54,746
+foundation, but you can do that.
+
+1275
+01:06:54,746 --> 01:06:57,746
+And then, there's some named cause.
+
+1276
+01:06:57,746 --> 01:07:02,246
+Like it could be improving neighborhoods
+
+1277
+01:07:02,246 --> 01:07:06,746
+in our city, or the like.
+
+1278
+01:07:06,746 --> 01:07:09,746
+And family foundations, the,
+
+1279
+01:07:10,746 --> 01:07:13,746
+I think there's an important tax advantage.
+
+1280
+01:07:13,746 --> 01:07:15,746
+And you don't want to think about this yet,
+
+1281
+01:07:15,746 --> 01:07:17,746
+but you should start thinking about it.
+
+1282
+01:07:17,746 --> 01:07:21,746
+When you start making money, assuming that happens,
+
+1283
+01:07:21,746 --> 01:07:23,746
+what do you do with it, okay?
+
+1284
+01:07:23,746 --> 01:07:26,746
+Now, you're pulling in a million dollars a year, okay?
+
+1285
+01:07:26,746 --> 01:07:29,746
+That's something that you might well do.
+
+1286
+01:07:29,746 --> 01:07:33,746
+And so, I can just put it
+
+1287
+01:07:33,746 --> 01:07:37,746
+in the bank and not think about it.
+
+1288
+01:07:37,746 --> 01:07:40,746
+One problem is, the government will tax you on it.
+
+1289
+01:07:40,746 --> 01:07:43,746
+You get a charitable deduction from your tax,
+
+1290
+01:07:43,746 --> 01:07:46,746
+which encourages you to give to charities.
+
+1291
+01:07:46,746 --> 01:07:49,746
+So, all right, so you're now 30 years old,
+
+1292
+01:07:49,746 --> 01:07:51,746
+and you're making a million dollars a year.
+
+1293
+01:07:51,746 --> 01:07:53,746
+And what do I do with all this money?
+
+1294
+01:07:53,746 --> 01:07:54,746
+I'm paying taxes on it.
+
+1295
+01:07:54,746 --> 01:07:56,746
+If I give it away, I get a tax break.
+
+1296
+01:07:56,746 --> 01:07:58,746
+So, there's an incentive to give it away.
+
+1297
+01:07:58,746 --> 01:08:00,746
+You're getting all these phone calls at night from,
+
+1298
+01:08:00,746 --> 01:08:02,746
+they found out that you exist, right?
+
+1299
+01:08:02,746 --> 01:08:06,746
+From United Fund, or different charitable organizations.
+
+1300
+01:08:06,746 --> 01:08:08,746
+But you stopped answering the phone,
+
+1301
+01:08:08,746 --> 01:08:10,746
+because you're annoyed by all these phone calls.
+
+1302
+01:08:10,746 --> 01:08:11,746
+And you're thinking, I don't
+
+1303
+01:08:11,746 --> 01:08:12,746
+want to just give it away
+
+1304
+01:08:12,746 --> 01:08:14,746
+to someone that called me up on the phone.
+
+1305
+01:08:14,746 --> 01:08:16,746
+I want to think about what I'm, you know,
+
+1306
+01:08:16,746 --> 01:08:18,746
+I want to do something for the world.
+
+1307
+01:08:18,746 --> 01:08:21,746
+So, the idea is that while you're still young,
+
+1308
+01:08:21,746 --> 01:08:23,746
+you set up a family foundation,
+
+1309
+01:08:23,746 --> 01:08:26,246
+and you give the money
+
+1310
+01:08:26,246 --> 01:08:28,746
+to the foundation irrevocably, all right?
+
+1311
+01:08:28,746 --> 01:08:31,746
+It has a cause written in its charter or some.
+
+1312
+01:08:31,746 --> 01:08:34,746
+And then, you don't have to spend it now.
+
+1313
+01:08:34,746 --> 01:08:37,746
+You're too busy thinking about what you're doing.
+
+1314
+01:08:37,746 --> 01:08:39,746
+So, you start contributing to the family foundation.
+
+1315
+01:08:40,746 --> 01:08:44,746
+And it accumulates.
+
+1316
+01:08:44,746 --> 01:08:49,746
+And meanwhile, you're getting the tax deduction.
+
+1317
+01:08:49,746 --> 01:08:51,746
+So, that's why 36,000 families have
+
+1318
+01:08:51,746 --> 01:08:53,746
+done this in the United States.
+
+1319
+01:08:53,746 --> 01:08:57,746
+And I think it's growing, again, over all the world.
+
+1320
+01:09:01,746 --> 01:09:04,246
+And sometimes family foundations
+
+1321
+01:09:04,246 --> 01:09:06,746
+are plans for children, too.
+
+1322
+01:09:06,746 --> 01:09:09,746
+Because then, your children can then run the foundation.
+
+1323
+01:09:09,746 --> 01:09:13,746
+It becomes an ongoing thing for the family
+
+1324
+01:09:13,746 --> 01:09:18,746
+that unites them in a cause as time goes by.
+
+1325
+01:09:18,746 --> 01:09:21,746
+I think this is really important to recognize this trend.
+
+1326
+01:09:21,746 --> 01:09:24,746
+Although it's only 36,000, that's still a lot of them.
+
+1327
+01:09:24,746 --> 01:09:26,746
+As we think about the
+
+1328
+01:09:26,746 --> 01:09:28,746
+growing inequality in the United States
+
+1329
+01:09:28,746 --> 01:09:30,746
+and in other places around the world,
+
+1330
+01:09:30,746 --> 01:09:32,746
+and think about our policy toward that.
+
+1331
+01:09:32,746 --> 01:09:35,746
+I think we should do something about inequality.
+
+1332
+01:09:35,746 --> 01:09:39,746
+But I think encouraging this kind of family foundation,
+
+1333
+01:09:39,746 --> 01:09:42,746
+and this kind of family foundation activity,
+
+1334
+01:09:42,746 --> 01:09:44,746
+is a good cause.
+
+1335
+01:09:44,746 --> 01:09:46,246
+I wanted to just think
+
+1336
+01:09:46,246 --> 01:09:47,746
+about a, I'm almost done here.
+
+1337
+01:09:47,746 --> 01:09:52,746
+There's a recent book by a Wall Street Journal writer,
+
+1338
+01:09:52,746 --> 01:09:54,746
+Robert Frank, called Richestan.
+
+1339
+01:09:54,746 --> 01:09:56,746
+And he talks about rich people
+
+1340
+01:09:56,746 --> 01:09:58,746
+in America, and what they do.
+
+1341
+01:09:58,746 --> 01:10:05,746
+And the book, this is Frank, Robert Frank.
+
+1342
+01:10:05,746 --> 01:10:09,746
+The book talks about excess.
+
+1343
+01:10:09,746 --> 01:10:13,746
+And he says, some rich people spend money lavishly,
+
+1344
+01:10:13,746 --> 01:10:16,746
+and it disgusts people who think,
+
+1345
+01:10:16,746 --> 01:10:20,746
+what is going on in our society?
+
+1346
+01:10:20,746 --> 01:10:23,246
+But on the other side of
+
+1347
+01:10:23,246 --> 01:10:25,746
+it, there is also this philanthropic
+
+1348
+01:10:25,746 --> 01:10:28,746
+trend that Frank talks about.
+
+1349
+01:10:28,746 --> 01:10:30,746
+So, I'll give you an example.
+
+1350
+01:10:30,746 --> 01:10:33,746
+Robert Frank talks, for example, about Paul Allen.
+
+1351
+01:10:33,746 --> 01:10:35,746
+You remember him?
+
+1352
+01:10:35,746 --> 01:10:39,746
+I guess he was the number two man at Microsoft.
+
+1353
+01:10:39,746 --> 01:10:42,746
+So, is he a good person?
+
+1354
+01:10:42,746 --> 01:10:46,746
+Well, I'll give you two sides to that story.
+
+1355
+01:10:46,746 --> 01:10:48,746
+And this I got from Richestan.
+
+1356
+01:10:48,746 --> 01:10:51,246
+Paul Allen wanted to have
+
+1357
+01:10:51,246 --> 01:10:53,746
+the biggest yacht in the world.
+
+1358
+01:10:53,746 --> 01:10:57,246
+And so, he went to a
+
+1359
+01:10:57,246 --> 01:11:00,746
+yacht company and had a 400-foot yacht.
+
+1360
+01:11:00,746 --> 01:11:04,746
+Okay.
+
+1361
+01:11:04,746 --> 01:11:06,246
+It turned out, they said,
+
+1362
+01:11:06,246 --> 01:11:07,746
+that it created problems for him,
+
+1363
+01:11:07,746 --> 01:11:10,746
+and he couldn't dock it at any yacht club.
+
+1364
+01:11:10,746 --> 01:11:13,746
+He had to go to
+
+1365
+01:11:13,746 --> 01:11:16,746
+industrial docks for major cargo ships.
+
+1366
+01:11:16,746 --> 01:11:18,746
+That's a big yacht.
+
+1367
+01:11:18,746 --> 01:11:21,746
+And he called it the Octopus.
+
+1368
+01:11:21,746 --> 01:11:24,746
+Okay.
+
+1369
+01:11:24,746 --> 01:11:26,246
+And Paul Allen has a
+
+1370
+01:11:26,246 --> 01:11:27,746
+new book that just came out.
+
+1371
+01:11:27,746 --> 01:11:30,746
+It's just coming out now, called Idea Man.
+
+1372
+01:11:30,746 --> 01:11:33,246
+And in his own account
+
+1373
+01:11:33,246 --> 01:11:35,746
+of himself, he had brutal battles
+
+1374
+01:11:35,746 --> 01:11:36,746
+and arguments with Bill Gates.
+
+1375
+01:11:36,746 --> 01:11:38,746
+And he had to go to the yacht club.
+
+1376
+01:11:38,746 --> 01:11:39,746
+And he said, I'm going
+
+1377
+01:11:39,746 --> 01:11:40,746
+to make this a big one.
+
+1378
+01:11:40,746 --> 01:11:42,746
+And it was a revealing thing.
+
+1379
+01:11:42,746 --> 01:11:44,746
+They were really in this for the money.
+
+1380
+01:11:44,746 --> 01:11:45,746
+Okay.
+
+1381
+01:11:45,746 --> 01:11:48,746
+So, he's starting to look like a bad guy, right?
+
+1382
+01:11:48,746 --> 01:11:50,746
+Because here he is showing off
+
+1383
+01:11:50,746 --> 01:11:52,746
+with the biggest yacht in the world.
+
+1384
+01:11:52,746 --> 01:11:53,746
+Actually, he's been topped.
+
+1385
+01:11:53,746 --> 01:11:54,746
+Somebody else.
+
+1386
+01:11:54,746 --> 01:11:56,746
+Who was it?
+
+1387
+01:11:56,746 --> 01:12:01,746
+Larry Ellison got a 450-foot yacht.
+
+1388
+01:12:01,746 --> 01:12:03,746
+But on the other side of
+
+1389
+01:12:03,746 --> 01:12:05,746
+it is, there is something called the,
+
+1390
+01:12:05,746 --> 01:12:13,746
+the Paul G. Allen Family Foundation,
+
+1391
+01:12:13,746 --> 01:12:21,746
+which he has set up already.
+
+1392
+01:12:21,746 --> 01:12:23,746
+And it turns out, he has
+
+1393
+01:12:23,746 --> 01:12:25,746
+already donated over a billion dollars
+
+1394
+01:12:25,746 --> 01:12:29,746
+through this foundation and otherwise to charity.
+
+1395
+01:12:29,746 --> 01:12:32,746
+So, that's much bigger than the 400-foot.
+
+1396
+01:12:32,746 --> 01:12:34,746
+What does it cost to buy a 400-foot yacht?
+
+1397
+01:12:34,746 --> 01:12:36,746
+I don't know.
+
+1398
+01:12:36,746 --> 01:12:39,746
+It's not going to be a billion dollars, right?
+
+1399
+01:12:39,746 --> 01:12:41,246
+This is one of the
+
+1400
+01:12:41,246 --> 01:12:42,746
+ironies that you face in living,
+
+1401
+01:12:42,746 --> 01:12:46,746
+that someone like Paul Allen, he's a tough businessman,
+
+1402
+01:12:46,746 --> 01:12:47,746
+aggressive guy.
+
+1403
+01:12:47,746 --> 01:12:50,746
+He sometimes does extravagant expenditures.
+
+1404
+01:12:50,746 --> 01:12:53,746
+But on the other side, there's this charitable side.
+
+1405
+01:12:53,746 --> 01:12:56,246
+So, I think we have
+
+1406
+01:12:56,246 --> 01:12:58,746
+to reserve judgment about most people.
+
+1407
+01:12:58,746 --> 01:13:01,246
+Anyway, what he has working
+
+1408
+01:13:01,246 --> 01:13:03,746
+for him is a great understanding,
+
+1409
+01:13:03,746 --> 01:13:06,746
+apparently, of financial arrangements, of endowments.
+
+1410
+01:13:06,746 --> 01:13:08,746
+And he's setting these up.
+
+1411
+01:13:08,746 --> 01:13:10,746
+And you've got to give him credit for that.
+
+1412
+01:13:10,746 --> 01:13:12,246
+And I think we have
+
+1413
+01:13:12,246 --> 01:13:13,746
+to consider that it's an important,
+
+1414
+01:13:13,746 --> 01:13:17,746
+institutional investing is an important trend in our society
+
+1415
+01:13:17,746 --> 01:13:21,746
+that can and does work for important good purposes.
+
+1416
+01:13:21,746 --> 01:13:22,746
+Okay.
+
+1417
+01:13:22,746 --> 01:13:23,746
+I'll see you on Wednesday.
+
