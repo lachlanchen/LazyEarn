@@ -1,0 +1,7236 @@
+1
+00:00:00,000 --> 00:00:05,000
+We're talking about corporate stocks this time.
+
+2
+00:00:05,000 --> 00:00:07,840
+We've talked already about them a little bit.
+
+3
+00:00:07,840 --> 00:00:09,600
+We talked about how people
+
+4
+00:00:09,600 --> 00:00:11,360
+would set up a corporation and
+
+5
+00:00:11,360 --> 00:00:12,880
+then divide it up into shares.
+
+6
+00:00:15,760 --> 00:00:20,020
+And then the company grows, and more shares are issued,
+
+7
+00:00:20,020 --> 00:00:24,880
+and some people sell their shares.
+
+8
+00:00:24,880 --> 00:00:30,680
+It's a way of creating an organization that works.
+
+9
+00:00:30,680 --> 00:00:32,990
+We talked about the first
+
+10
+00:00:32,990 --> 00:00:35,300
+real corporation with traded shares.
+
+11
+00:00:35,300 --> 00:00:38,250
+That was the Dutch East
+
+12
+00:00:38,250 --> 00:00:41,200
+India Company in the early 1602.
+
+13
+00:00:41,200 --> 00:00:44,140
+It was an idea that took
+
+14
+00:00:44,140 --> 00:00:47,080
+hold and became a scheme for
+
+15
+00:00:47,080 --> 00:00:52,099
+organization of business and has become extremely important
+
+16
+00:00:52,099 --> 00:00:53,360
+around the world.
+
+17
+00:00:54,880 --> 00:00:57,060
+I actually had my own personal experience.
+
+18
+00:00:57,060 --> 00:01:00,840
+I've created two corporations in my life.
+
+19
+00:01:00,840 --> 00:01:02,200
+First time, it was one of
+
+20
+00:01:02,200 --> 00:01:03,560
+my students here at Yale, Alan
+
+21
+00:01:03,560 --> 00:01:04,940
+Weiss.
+
+22
+00:01:04,940 --> 00:01:06,640
+Actually, he was not an undergraduate.
+
+23
+00:01:06,640 --> 00:01:12,400
+He was getting an MBA from the School of Management.
+
+24
+00:01:12,400 --> 00:01:14,120
+But he came to me after
+
+25
+00:01:14,120 --> 00:01:15,840
+he graduated and said, I see that
+
+26
+00:01:15,840 --> 00:01:18,080
+you create home price indexes.
+
+27
+00:01:18,080 --> 00:01:22,640
+I'd like to start a company and sell them.
+
+28
+00:01:22,640 --> 00:01:24,680
+And so he went on.
+
+29
+00:01:24,680 --> 00:01:27,580
+And so he wanted me to advise the company.
+
+30
+00:01:27,580 --> 00:01:31,620
+And then we decided to make it a corporation.
+
+31
+00:01:31,620 --> 00:01:33,590
+We brought in my colleague
+
+32
+00:01:33,590 --> 00:01:35,560
+Chip Case, who's at Wellesley College.
+
+33
+00:01:35,560 --> 00:01:39,680
+And it's called Case-Shiller Weiss, Incorporated.
+
+34
+00:01:39,680 --> 00:01:43,620
+And we brought in a fourth, a real businessman.
+
+35
+00:01:43,620 --> 00:01:45,290
+But he said, it would be ridiculous
+
+36
+00:01:45,290 --> 00:01:46,960
+to have four names on the company.
+
+37
+00:01:46,960 --> 00:01:50,780
+So he generously allowed his name, as Chuck Longfield.
+
+38
+00:01:50,780 --> 00:01:52,740
+But then we set up the company.
+
+39
+00:01:52,740 --> 00:01:53,240
+And I remember saying, well,
+
+40
+00:01:53,240 --> 00:01:53,740
+I'm going to start a company.
+
+41
+00:01:53,740 --> 00:01:54,680
+And he said, well, I'm going to start a company.
+
+42
+00:01:54,680 --> 00:01:55,680
+And I said, well, I'm
+
+43
+00:01:55,680 --> 00:01:56,680
+not going to be that involved.
+
+44
+00:01:56,680 --> 00:01:57,680
+I'll be somewhat involved.
+
+45
+00:01:57,680 --> 00:02:00,140
+But I'm going to keep teaching at Yale.
+
+46
+00:02:00,140 --> 00:02:04,070
+And I can't do more than a day
+
+47
+00:02:04,070 --> 00:02:08,000
+a week at most, or less than that.
+
+48
+00:02:08,000 --> 00:02:13,580
+So we had to decide how many shares we got.
+
+49
+00:02:13,580 --> 00:02:16,700
+The only guy who gave it money was the businessman.
+
+50
+00:02:16,700 --> 00:02:19,960
+So he actually, that's how you do it.
+
+51
+00:02:19,960 --> 00:02:21,620
+He put money into the company.
+
+52
+00:02:21,620 --> 00:02:23,740
+The rest of us just agreed to put in time.
+
+53
+00:02:23,740 --> 00:02:25,040
+So the question is, how
+
+54
+00:02:25,040 --> 00:02:26,340
+do we divide up the company?
+
+55
+00:02:26,340 --> 00:02:28,340
+Who gets how many shares?
+
+56
+00:02:28,340 --> 00:02:30,540
+The businessman put in money.
+
+57
+00:02:30,540 --> 00:02:32,120
+I'm putting in time.
+
+58
+00:02:32,120 --> 00:02:34,980
+How do we do that?
+
+59
+00:02:34,980 --> 00:02:36,990
+And I know I'm not going to put in
+
+60
+00:02:36,990 --> 00:02:39,000
+as much time as Alan Weiss, who's actually running
+
+61
+00:02:39,000 --> 00:02:40,000
+the company.
+
+62
+00:02:40,000 --> 00:02:41,500
+But you know what we did?
+
+63
+00:02:41,500 --> 00:02:44,560
+We just divided it four ways.
+
+64
+00:02:44,560 --> 00:02:46,440
+And we set it up.
+
+65
+00:02:46,440 --> 00:02:48,420
+And it's not a big company, but I'm
+
+66
+00:02:48,420 --> 00:02:50,400
+saying it's because it's my own personal experience,
+
+67
+00:02:50,400 --> 00:02:51,740
+having done this.
+
+68
+00:02:51,740 --> 00:02:52,740
+We sold it.
+
+69
+00:02:52,740 --> 00:02:53,740
+That was 1991.
+
+70
+00:02:53,740 --> 00:02:59,960
+We sold it in 2002 to Fiserv, Inc.
+
+71
+00:02:59,960 --> 00:03:01,980
+And at that time, we had 12 employees.
+
+72
+00:03:01,980 --> 00:03:03,580
+Never got that big.
+
+73
+00:03:03,580 --> 00:03:06,660
+But then later on, S&P bought the indexes.
+
+74
+00:03:06,660 --> 00:03:09,700
+We have the home price indexes called
+
+75
+00:03:09,700 --> 00:03:12,740
+the S&P K. Shiller Indexes, which now they're
+
+76
+00:03:12,740 --> 00:03:13,740
+quoted a lot.
+
+77
+00:03:13,740 --> 00:03:15,340
+But it was a success.
+
+78
+00:03:15,340 --> 00:03:19,160
+It didn't get really big, but it was a success.
+
+79
+00:03:19,160 --> 00:03:21,350
+One thing that I learned from
+
+80
+00:03:21,350 --> 00:03:23,540
+this experience is an appreciation for lawyers.
+
+81
+00:03:23,740 --> 00:03:27,560
+Because I had never phoned a company before.
+
+82
+00:03:27,560 --> 00:03:29,500
+I didn't know what kind of things would happen.
+
+83
+00:03:29,500 --> 00:03:32,500
+It was just all – incidentally, in dividing
+
+84
+00:03:32,500 --> 00:03:35,500
+up the company, I think it was just fairness.
+
+85
+00:03:35,500 --> 00:03:36,840
+We thought, we'll all make our
+
+86
+00:03:36,840 --> 00:03:38,180
+own contribution in our own way.
+
+87
+00:03:38,180 --> 00:03:41,600
+We can't decide who's more important.
+
+88
+00:03:41,600 --> 00:03:44,600
+But honestly, I didn't really care about the money.
+
+89
+00:03:44,600 --> 00:03:47,900
+For me, it was just a new experience.
+
+90
+00:03:47,900 --> 00:03:49,920
+It was kind of like, we could all be
+
+91
+00:03:49,920 --> 00:03:51,940
+in this together, if we're all trying to make money
+
+92
+00:03:51,940 --> 00:03:52,740
+and making something big.
+
+93
+00:03:52,740 --> 00:03:55,240
+So, it was just kind of a story for
+
+94
+00:03:55,240 --> 00:03:57,740
+me that made it a little bit of an adventure.
+
+95
+00:03:57,740 --> 00:04:00,320
+I was in it for the fun of it,
+
+96
+00:04:00,320 --> 00:04:02,900
+because I really don't feel like I need any money.
+
+97
+00:04:02,900 --> 00:04:05,920
+I have a job.
+
+98
+00:04:05,920 --> 00:04:09,400
+I don't aspire to a mansion or anything like that.
+
+99
+00:04:09,400 --> 00:04:10,900
+But we just did it.
+
+100
+00:04:10,900 --> 00:04:13,180
+It was fun.
+
+101
+00:04:13,180 --> 00:04:15,720
+The reason why I appreciated lawyers is that
+
+102
+00:04:15,720 --> 00:04:18,260
+they seem to anticipate all of our conflicts.
+
+103
+00:04:18,260 --> 00:04:19,260
+And they wrote things.
+
+104
+00:04:19,260 --> 00:04:21,660
+We had a corporate charter, a long document.
+
+105
+00:04:21,660 --> 00:04:22,660
+But it actually made sense.
+
+106
+00:04:22,660 --> 00:04:26,760
+Because we did get into some conflicts.
+
+107
+00:04:26,760 --> 00:04:28,400
+This is what happens in a company.
+
+108
+00:04:28,400 --> 00:04:31,000
+Somebody isn't working as hard as somebody else.
+
+109
+00:04:31,000 --> 00:04:33,680
+And then some resentment develops.
+
+110
+00:04:33,680 --> 00:04:35,040
+So what do you do?
+
+111
+00:04:35,040 --> 00:04:38,660
+The salve is more shares.
+
+112
+00:04:38,660 --> 00:04:40,970
+If one guy is doing more than another,
+
+113
+00:04:40,970 --> 00:04:43,280
+it gets brought up at the board meeting, and
+
+114
+00:04:43,280 --> 00:04:45,120
+someone says, well, let's give this guy more.
+
+115
+00:04:45,120 --> 00:04:47,780
+It's called a bonus, right?
+
+116
+00:04:47,780 --> 00:04:50,660
+So we kind of discovered the wisdom of this system.
+
+117
+00:04:50,660 --> 00:04:51,660
+And it's a great thing.
+
+118
+00:04:51,660 --> 00:04:52,660
+It's a great thing.
+
+119
+00:04:52,660 --> 00:04:55,000
+And I think a lot of
+
+120
+00:04:55,000 --> 00:04:57,340
+people around the world have discovered it.
+
+121
+00:04:57,340 --> 00:05:01,380
+And that's why corporations are such
+
+122
+00:05:01,380 --> 00:05:05,420
+an important component of our economy.
+
+123
+00:05:05,420 --> 00:05:07,100
+So that's just my own personal story.
+
+124
+00:05:07,100 --> 00:05:10,510
+But I wanted to talk about
+
+125
+00:05:10,510 --> 00:05:13,920
+big and important corporations, not mine.
+
+126
+00:05:13,920 --> 00:05:17,290
+But first, I wanted to give you
+
+127
+00:05:17,290 --> 00:05:20,660
+some sense of perspective on how important corporations
+
+128
+00:05:20,660 --> 00:05:21,660
+are.
+
+129
+00:05:21,660 --> 00:05:22,660
+So, let's start with the big one.
+
+130
+00:05:22,660 --> 00:05:23,660
+So, what is a corporation?
+
+131
+00:05:23,660 --> 00:05:26,730
+A corporation is a corporate
+
+132
+00:05:26,730 --> 00:05:29,800
+stock, as traded on stock markets.
+
+133
+00:05:29,800 --> 00:05:35,220
+So I have data here from the World Bank.
+
+134
+00:05:35,220 --> 00:05:36,220
+And that's the website.
+
+135
+00:05:36,220 --> 00:05:38,290
+You can get all the countries of
+
+136
+00:05:38,290 --> 00:05:40,360
+the world from it, if you want.
+
+137
+00:05:40,360 --> 00:05:44,880
+And the latest data they have is 2008.
+
+138
+00:05:44,880 --> 00:05:47,790
+And for various countries of the world here,
+
+139
+00:05:47,790 --> 00:05:50,700
+they have, or various regions of the world,
+
+140
+00:05:50,700 --> 00:05:51,540
+they have the value of the stock market.
+
+141
+00:05:51,540 --> 00:05:55,490
+And the value of the stock market, of
+
+142
+00:05:55,490 --> 00:05:59,440
+the listed stocks in those countries, in trillions
+
+143
+00:05:59,440 --> 00:06:01,600
+of U.S. dollars.
+
+144
+00:06:01,600 --> 00:06:04,290
+And they also have, that's this column, the
+
+145
+00:06:04,290 --> 00:06:06,980
+trillions of dollars, they also have a fraction
+
+146
+00:06:06,980 --> 00:06:13,000
+of GDP represented by the stock markets in that country.
+
+147
+00:06:13,000 --> 00:06:16,000
+So you can see that the biggest stock
+
+148
+00:06:16,000 --> 00:06:19,000
+market in the world is the United States.
+
+149
+00:06:19,000 --> 00:06:20,540
+So it's 11.6%.
+
+150
+00:06:20,540 --> 00:06:21,540
+Okay.
+
+151
+00:06:21,540 --> 00:06:22,540
+So, that's the biggest.
+
+152
+00:06:22,540 --> 00:06:28,540
+And the second biggest is the Euro area, 5 trillion.
+
+153
+00:06:28,540 --> 00:06:35,040
+And UK is very big, because the United
+
+154
+00:06:35,040 --> 00:06:41,540
+Kingdom was very early to become a financial center.
+
+155
+00:06:41,540 --> 00:06:46,940
+And it's enormous financial center now.
+
+156
+00:06:46,940 --> 00:06:50,940
+The interesting thing, though, is as a fraction of GDP.
+
+157
+00:06:50,940 --> 00:06:53,440
+And you also are confused by when you
+
+158
+00:06:53,440 --> 00:06:55,940
+talk about fraction of GDP, because it's one year's
+
+159
+00:06:55,940 --> 00:06:57,940
+GDP we're talking about.
+
+160
+00:06:57,940 --> 00:07:00,440
+We're comparing a stock with a flow, a
+
+161
+00:07:00,440 --> 00:07:02,940
+stock of wealth in the stock market, dividing that
+
+162
+00:07:02,940 --> 00:07:05,700
+by one year's GDP.
+
+163
+00:07:05,700 --> 00:07:09,620
+So, it shows here that the United States'
+
+164
+00:07:09,620 --> 00:07:13,540
+stock market in 2008 was worth almost a year's
+
+165
+00:07:13,540 --> 00:07:14,940
+GDP.
+
+166
+00:07:14,940 --> 00:07:16,940
+And it was higher than any
+
+167
+00:07:16,940 --> 00:07:18,940
+other, at least other major country.
+
+168
+00:07:18,940 --> 00:07:19,940
+Again.
+
+169
+00:07:19,940 --> 00:07:22,940
+So, it's a symbol of capitalism.
+
+170
+00:07:22,940 --> 00:07:23,940
+All the value.
+
+171
+00:07:23,940 --> 00:07:25,270
+If you want to invest in stocks anywhere
+
+172
+00:07:25,270 --> 00:07:26,600
+you live in the world, they're going to probably
+
+173
+00:07:26,600 --> 00:07:29,980
+come to the United States, because it's much
+
+174
+00:07:29,980 --> 00:07:33,360
+higher than, I mean, you could do Asia, Asia
+
+175
+00:07:33,360 --> 00:07:35,760
+and the Pacific, 3 trillion.
+
+176
+00:07:35,760 --> 00:07:41,000
+But U.S. is almost four times as large.
+
+177
+00:07:41,000 --> 00:07:42,360
+That's because of the long history.
+
+178
+00:07:42,360 --> 00:07:46,940
+This is a capitalist country.
+
+179
+00:07:46,940 --> 00:07:48,940
+And as I was saying.
+
+180
+00:07:48,940 --> 00:07:51,870
+The New York corporate law of
+
+181
+00:07:51,870 --> 00:07:54,800
+1811 kind of got this ball rolling.
+
+182
+00:07:54,800 --> 00:07:57,280
+And so, it has led the world on that.
+
+183
+00:07:57,280 --> 00:07:59,750
+But I think if we look at this chart again
+
+184
+00:07:59,750 --> 00:08:02,220
+in 10 or 20 years, it's going to look different.
+
+185
+00:08:02,220 --> 00:08:06,240
+Because stock markets are growing around the
+
+186
+00:08:06,240 --> 00:08:10,260
+world as a form of organization for enterprise.
+
+187
+00:08:10,260 --> 00:08:12,100
+So, these numbers are, on the rest
+
+188
+00:08:12,100 --> 00:08:13,940
+of the world, are all going up.
+
+189
+00:08:13,940 --> 00:08:14,940
+And we'll see.
+
+190
+00:08:14,940 --> 00:08:15,940
+We'll see.
+
+191
+00:08:15,940 --> 00:08:16,940
+We'll see.
+
+192
+00:08:16,940 --> 00:08:17,940
+We'll see.
+
+193
+00:08:17,940 --> 00:08:20,500
+I think this is going to
+
+194
+00:08:20,500 --> 00:08:23,060
+be more and more value elsewhere.
+
+195
+00:08:23,060 --> 00:08:24,780
+I think this is, and
+
+196
+00:08:24,780 --> 00:08:26,500
+the reason is because it works.
+
+197
+00:08:26,500 --> 00:08:29,320
+The system coordinates the activity of, it
+
+198
+00:08:29,320 --> 00:08:32,140
+allows people to work together, and it allows
+
+199
+00:08:32,140 --> 00:08:36,440
+them to avoid conflicts and motivate
+
+200
+00:08:36,440 --> 00:08:40,740
+people to work and get things done.
+
+201
+00:08:40,740 --> 00:08:42,820
+And it creates wealth in people like that.
+
+202
+00:08:42,820 --> 00:08:44,940
+And so, it seems like something that was learned.
+
+203
+00:08:44,940 --> 00:08:45,940
+I think it's important to understand that.
+
+204
+00:08:45,940 --> 00:08:46,440
+I think the reason why we're doing
+
+205
+00:08:46,440 --> 00:08:46,940
+this, we're doing this for the people.
+
+206
+00:08:46,940 --> 00:08:47,940
+We're doing this for the people.
+
+207
+00:08:47,940 --> 00:08:48,940
+We're doing this for the people.
+
+208
+00:08:48,940 --> 00:08:51,440
+We had a big, grand experiment with
+
+209
+00:08:51,440 --> 00:08:53,940
+socialism, obviously, in many places of the world.
+
+210
+00:08:53,940 --> 00:08:56,580
+And the socialists kind of gave up on it.
+
+211
+00:08:56,580 --> 00:08:59,600
+They decided, this works better.
+
+212
+00:08:59,600 --> 00:09:02,580
+That's why we have in China now market socialism.
+
+213
+00:09:02,580 --> 00:09:04,300
+Still socialism in a sense.
+
+214
+00:09:04,300 --> 00:09:07,100
+Maybe it's transformed and it's different.
+
+215
+00:09:07,100 --> 00:09:09,820
+But it does have a stock market.
+
+216
+00:09:09,820 --> 00:09:13,540
+And it's growing rapidly there.
+
+217
+00:09:13,540 --> 00:09:14,740
+But I don't want to
+
+218
+00:09:14,740 --> 00:09:15,940
+exaggerate the importance of these either.
+
+219
+00:09:15,940 --> 00:09:20,030
+Because the total value here for the United
+
+220
+00:09:20,030 --> 00:09:24,120
+States is only 82% of one year's GDP.
+
+221
+00:09:24,120 --> 00:09:26,500
+Another way of putting it is,
+
+222
+00:09:26,500 --> 00:09:28,880
+let's round that to 12 trillion.
+
+223
+00:09:28,880 --> 00:09:36,100
+And there were about 300 million Americans in 2008.
+
+224
+00:09:36,100 --> 00:09:38,140
+That's $40,000 per capita is the
+
+225
+00:09:38,140 --> 00:09:40,180
+total value of the stock market.
+
+226
+00:09:40,180 --> 00:09:41,560
+Now, does that sound like
+
+227
+00:09:41,560 --> 00:09:42,940
+a lot of money to you?
+
+228
+00:09:42,940 --> 00:09:44,820
+Well, think of it this way.
+
+229
+00:09:44,820 --> 00:09:48,580
+If you're a family of four, that's $160,000.
+
+230
+00:09:48,580 --> 00:09:51,860
+That won't buy you a house.
+
+231
+00:09:51,860 --> 00:09:55,680
+So it's not that big.
+
+232
+00:09:55,680 --> 00:09:58,260
+It's big, but it's not that big.
+
+233
+00:09:58,260 --> 00:10:01,500
+What you have to remember is that corporate
+
+234
+00:10:01,500 --> 00:10:04,740
+stocks are claims on the profits of corporations.
+
+235
+00:10:04,740 --> 00:10:06,800
+But most of what corporations do is
+
+236
+00:10:06,800 --> 00:10:08,860
+take money in and pay it out.
+
+237
+00:10:08,860 --> 00:10:11,430
+They pay it out to their employees
+
+238
+00:10:11,430 --> 00:10:14,000
+and to other people, bondholders and taxes.
+
+239
+00:10:14,000 --> 00:10:14,600
+Right?
+
+240
+00:10:14,820 --> 00:10:15,800
+And that's what they do.
+
+241
+00:10:15,800 --> 00:10:18,460
+Lots of other places the money goes to.
+
+242
+00:10:18,460 --> 00:10:21,170
+So, the actual value of the stock market,
+
+243
+00:10:21,170 --> 00:10:23,880
+I think most people exaggerate it in their mind.
+
+244
+00:10:23,880 --> 00:10:26,120
+It's not that big.
+
+245
+00:10:26,120 --> 00:10:27,820
+It's big, but not that big.
+
+246
+00:10:27,820 --> 00:10:30,740
+And it's smaller in other countries.
+
+247
+00:10:30,740 --> 00:10:34,430
+You might wonder, why is it that
+
+248
+00:10:34,430 --> 00:10:38,120
+in Europe, it's only 38% of GDP?
+
+249
+00:10:38,120 --> 00:10:39,420
+That sounds funny, right?
+
+250
+00:10:39,420 --> 00:10:42,680
+I mean, in Europe, they tend to do things.
+
+251
+00:10:42,680 --> 00:10:43,580
+I don't know.
+
+252
+00:10:43,580 --> 00:10:44,580
+They're just doing their own thing.
+
+253
+00:10:44,580 --> 00:10:49,050
+They're moving, I think, in the direction
+
+254
+00:10:49,050 --> 00:10:53,520
+of more modern corporations, with big exchange-traded corporations.
+
+255
+00:10:53,520 --> 00:10:59,420
+But they often do things on a smaller scale still.
+
+256
+00:10:59,420 --> 00:11:04,340
+So, for example, in Germany, you notice that often companies
+
+257
+00:11:04,340 --> 00:11:09,260
+in Germany, after the end of their name, they have AG.
+
+258
+00:11:09,260 --> 00:11:11,480
+That stands for Aktiengesellschaft, and
+
+259
+00:11:11,480 --> 00:11:13,700
+it means stock market company.
+
+260
+00:11:14,580 --> 00:11:19,580
+But others have GmbH.
+
+261
+00:11:19,580 --> 00:11:23,520
+Do I have that capitalized right?
+
+262
+00:11:23,520 --> 00:11:28,140
+Gesellschaft mit beschränkter Haftung.
+
+263
+00:11:28,140 --> 00:11:30,630
+That means a family company, or it's a
+
+264
+00:11:30,630 --> 00:11:33,120
+company that's not traded on the stock exchange.
+
+265
+00:11:33,120 --> 00:11:36,040
+What we're looking at here are traded stocks.
+
+266
+00:11:36,040 --> 00:11:38,540
+All right.
+
+267
+00:11:38,540 --> 00:11:40,410
+Actually, my company that I was
+
+268
+00:11:40,410 --> 00:11:42,280
+just telling you about was never traded.
+
+269
+00:11:42,280 --> 00:11:44,420
+So, that's called private equity.
+
+270
+00:11:44,420 --> 00:11:47,500
+If it's on the stock exchange, it's public equity.
+
+271
+00:11:47,500 --> 00:11:55,979
+And if it's not traded, then it's private.
+
+272
+00:11:55,979 --> 00:11:58,660
+So, this is private, and this is public.
+
+273
+00:11:58,660 --> 00:12:02,340
+And there are similar distinctions in
+
+274
+00:12:02,340 --> 00:12:06,020
+other countries, but this is Germany.
+
+275
+00:12:06,020 --> 00:12:07,669
+I just wanted to be clear about
+
+276
+00:12:07,669 --> 00:12:09,319
+one thing, which is the word equity.
+
+277
+00:12:09,319 --> 00:12:10,420
+It has many different meanings.
+
+278
+00:12:10,420 --> 00:12:11,420
+It's not just about the stock exchange.
+
+279
+00:12:11,420 --> 00:12:12,420
+It's about the company.
+
+280
+00:12:12,420 --> 00:12:13,420
+It's about the company.
+
+281
+00:12:13,420 --> 00:12:14,420
+It's about the company.
+
+282
+00:12:14,420 --> 00:12:15,420
+It's about the companies.
+
+283
+00:12:15,420 --> 00:12:18,840
+But the meaning that we have
+
+284
+00:12:18,840 --> 00:12:22,260
+here is shares in a corporation.
+
+285
+00:12:22,260 --> 00:12:27,040
+I was curious about how far back that term goes.
+
+286
+00:12:27,040 --> 00:12:30,520
+That word equity, referring to shares, was not
+
+287
+00:12:30,520 --> 00:12:34,000
+coined until I think it was 1904, according
+
+288
+00:12:34,000 --> 00:12:35,719
+to the Oxford English Dictionary.
+
+289
+00:12:35,719 --> 00:12:37,839
+So, and it was American.
+
+290
+00:12:37,839 --> 00:12:38,900
+It's an American term.
+
+291
+00:12:38,900 --> 00:12:40,959
+It's now spread over the world.
+
+292
+00:12:40,959 --> 00:12:41,959
+But we use equity.
+
+293
+00:12:41,959 --> 00:12:43,420
+I'm trying to think, why do we call it equity?
+
+294
+00:12:43,420 --> 00:12:44,420
+I'm trying to think.
+
+295
+00:12:44,420 --> 00:12:48,959
+I think equity means equality and fairness.
+
+296
+00:12:48,959 --> 00:12:52,660
+And so, what it means is, each share is equal.
+
+297
+00:12:52,660 --> 00:12:55,719
+I think that's what it means.
+
+298
+00:12:55,719 --> 00:13:05,540
+We're treating people with equality.
+
+299
+00:13:05,540 --> 00:13:06,540
+So that's what we have.
+
+300
+00:13:06,540 --> 00:13:08,980
+We have an equitable division of
+
+301
+00:13:08,980 --> 00:13:11,420
+profits among owners of a corporation.
+
+302
+00:13:11,420 --> 00:13:13,420
+By the way, I was making the comparison.
+
+303
+00:13:13,420 --> 00:13:15,540
+I said the value of shares in
+
+304
+00:13:15,540 --> 00:13:17,660
+the United States is 40,000 per capita.
+
+305
+00:13:17,660 --> 00:13:20,660
+And it must be much less in
+
+306
+00:13:20,660 --> 00:13:23,660
+Europe, like 20,000 or less of traded stocks.
+
+307
+00:13:23,660 --> 00:13:28,660
+I just want to compare that with houses.
+
+308
+00:13:28,660 --> 00:13:32,160
+I said 160,000 would be the share of a family
+
+309
+00:13:32,160 --> 00:13:35,660
+of four in that value of the U.S. stock market.
+
+310
+00:13:35,660 --> 00:13:39,160
+Actually, it is quite clear that the value
+
+311
+00:13:39,160 --> 00:13:42,660
+of houses in the United States is equal to
+
+312
+00:13:43,420 --> 00:13:44,660
+the value of the stock market.
+
+313
+00:13:44,660 --> 00:13:46,660
+It's greater than the value of the stock market.
+
+314
+00:13:46,660 --> 00:13:53,480
+According to the Federal Reserve, the total value
+
+315
+00:13:53,480 --> 00:14:00,300
+of houses in the United States in 2010
+
+316
+00:14:00,300 --> 00:14:02,719
+was 18 trillion.
+
+317
+00:14:02,719 --> 00:14:04,689
+That's quite a bit higher than
+
+318
+00:14:04,689 --> 00:14:06,660
+the value of the stock market.
+
+319
+00:14:06,660 --> 00:14:09,160
+Incidentally, the Federal Reserve estimates the
+
+320
+00:14:09,160 --> 00:14:11,660
+total assets of households in the United
+
+321
+00:14:11,660 --> 00:14:12,660
+States.
+
+322
+00:14:12,660 --> 00:14:18,160
+And in 2010, that was 69 trillion.
+
+323
+00:14:18,160 --> 00:14:21,660
+So people own a lot of other things besides stocks.
+
+324
+00:14:21,660 --> 00:14:24,470
+So I'm kind of minimizing the importance
+
+325
+00:14:24,470 --> 00:14:27,280
+of the topic of my lecture, because stocks
+
+326
+00:14:27,280 --> 00:14:28,900
+aren't that valuable.
+
+327
+00:14:28,900 --> 00:14:31,630
+We couldn't solve the poverty problem by
+
+328
+00:14:31,630 --> 00:14:34,360
+redistributing the stocks among all the people.
+
+329
+00:14:34,360 --> 00:14:35,920
+Suppose we did that, all right?
+
+330
+00:14:35,920 --> 00:14:38,290
+Suppose we said, let's grab all of the
+
+331
+00:14:38,290 --> 00:14:40,660
+stocks away from the wealthy people, and let's
+
+332
+00:14:40,660 --> 00:14:41,660
+just share them equally among the whole population.
+
+333
+00:14:41,660 --> 00:14:42,660
+That's what we're doing.
+
+334
+00:14:42,660 --> 00:14:43,660
+We're not just sharing them with the whole people.
+
+335
+00:14:43,660 --> 00:14:46,980
+So some poor family would get $160,000.
+
+336
+00:14:46,980 --> 00:14:47,980
+One time only, right?
+
+337
+00:14:47,980 --> 00:14:49,939
+Remember, one time only.
+
+338
+00:14:49,939 --> 00:14:50,939
+It's a stock.
+
+339
+00:14:50,939 --> 00:14:52,660
+It's not a per year amount.
+
+340
+00:14:52,660 --> 00:14:55,620
+So you know, would that lift them out of poverty?
+
+341
+00:14:55,620 --> 00:14:57,580
+Not if you have to live
+
+342
+00:14:57,580 --> 00:14:59,540
+the rest of your life on $160,000.
+
+343
+00:14:59,540 --> 00:15:01,480
+You'd still be in poverty.
+
+344
+00:15:01,480 --> 00:15:04,800
+So the solution to poverty is not redistributing stocks.
+
+345
+00:15:04,800 --> 00:15:07,490
+I think the solution to poverty is
+
+346
+00:15:07,490 --> 00:15:10,180
+instead making these markets work better, so that
+
+347
+00:15:10,180 --> 00:15:11,660
+we produce more.
+
+348
+00:15:12,660 --> 00:15:17,020
+OK, so I'm going to talk about stocks
+
+349
+00:15:17,020 --> 00:15:21,380
+and the different kinds of stocks and the laws
+
+350
+00:15:21,380 --> 00:15:25,319
+of the stock market here today.
+
+351
+00:15:25,319 --> 00:15:28,419
+And then I'm going to come at the
+
+352
+00:15:28,419 --> 00:15:31,520
+end with a couple of examples of companies.
+
+353
+00:15:31,520 --> 00:15:35,590
+I have an example of Xerox and
+
+354
+00:15:35,590 --> 00:15:39,660
+Microsoft, both high-flying companies in their days.
+
+355
+00:15:39,660 --> 00:15:41,660
+So, let's see.
+
+356
+00:15:41,660 --> 00:15:57,180
+So, another term that I just want to use, corporation.
+
+357
+00:15:57,180 --> 00:16:00,459
+Corporation comes from the Latin corpus, meaning body.
+
+358
+00:16:00,459 --> 00:16:03,519
+And the idea of a
+
+359
+00:16:03,519 --> 00:16:06,579
+corporation is like a legal person.
+
+360
+00:16:06,579 --> 00:16:10,459
+Every person, every lawyer would say, natural person.
+
+361
+00:16:10,459 --> 00:16:11,459
+Each one of you is a corporation.
+
+362
+00:16:11,460 --> 00:16:14,360
+So, corporation is a natural person.
+
+363
+00:16:14,360 --> 00:16:17,340
+But there are artificial persons as well.
+
+364
+00:16:17,340 --> 00:16:22,280
+And the corporation is called an artificial
+
+365
+00:16:22,280 --> 00:16:27,220
+person, even though it really only is owned
+
+366
+00:16:27,220 --> 00:16:28,220
+by people.
+
+367
+00:16:28,220 --> 00:16:32,960
+It's like a slave belonging to the shareholders.
+
+368
+00:16:32,960 --> 00:16:35,080
+So, that's the origin of the term.
+
+369
+00:16:35,080 --> 00:16:37,830
+Actually, corporations go back to ancient
+
+370
+00:16:37,830 --> 00:16:40,580
+Rome, where they were called publicani.
+
+371
+00:16:41,460 --> 00:16:49,700
+And they had a stock market in the Roman Forum.
+
+372
+00:16:49,700 --> 00:16:53,160
+But they were never allowed to proliferate.
+
+373
+00:16:53,160 --> 00:16:56,190
+The laws encouraging them did not
+
+374
+00:16:56,190 --> 00:16:59,220
+create a swell of new companies.
+
+375
+00:16:59,220 --> 00:17:02,520
+There were very, very few of them.
+
+376
+00:17:02,520 --> 00:17:04,990
+It wasn't until the 19th
+
+377
+00:17:04,990 --> 00:17:07,460
+century that corporations really became important.
+
+378
+00:17:07,460 --> 00:17:08,460
+Now, a corporation is a corporation.
+
+379
+00:17:08,460 --> 00:17:09,460
+It's a corporation.
+
+380
+00:17:09,460 --> 00:17:10,460
+It's a corporation.
+
+381
+00:17:10,460 --> 00:17:11,460
+It's a corporation.
+
+382
+00:17:11,460 --> 00:17:12,460
+It's a corporation.
+
+383
+00:17:12,460 --> 00:17:13,460
+It's a corporation.
+
+384
+00:17:13,460 --> 00:17:16,460
+It's owned by the shareholders.
+
+385
+00:17:16,460 --> 00:17:21,020
+And in most corporations, all the shareholders are equal.
+
+386
+00:17:21,020 --> 00:17:23,220
+That's why we call it equity.
+
+387
+00:17:23,220 --> 00:17:25,720
+And they all have one vote.
+
+388
+00:17:25,720 --> 00:17:27,780
+It's one share, one vote.
+
+389
+00:17:27,780 --> 00:17:28,780
+Not always.
+
+390
+00:17:28,780 --> 00:17:29,780
+There have been exceptions.
+
+391
+00:17:29,780 --> 00:17:31,460
+There are non-voting shares.
+
+392
+00:17:31,460 --> 00:17:34,900
+But usually, they all vote.
+
+393
+00:17:34,900 --> 00:17:37,680
+And the idea is that the shareholders
+
+394
+00:17:37,680 --> 00:17:40,460
+vote to elect a board of directors.
+
+395
+00:17:40,460 --> 00:17:44,420
+This is what they call shareholder democracy.
+
+396
+00:17:44,420 --> 00:17:46,700
+It's inspired by political democracy.
+
+397
+00:17:46,700 --> 00:17:50,620
+They're going to set up a company that's democratic.
+
+398
+00:17:50,620 --> 00:17:52,360
+But it's not democratic in that
+
+399
+00:17:52,360 --> 00:17:54,100
+every person has a right to vote.
+
+400
+00:17:54,100 --> 00:17:56,920
+It's each share has a right to vote.
+
+401
+00:17:56,920 --> 00:18:00,600
+And so, that's the essential idea.
+
+402
+00:18:00,600 --> 00:18:04,410
+The board of directors, by tradition, when you
+
+403
+00:18:04,410 --> 00:18:08,220
+form a company in the United States, you
+
+404
+00:18:08,220 --> 00:18:09,460
+have to choose a state to incorporate.
+
+405
+00:18:09,460 --> 00:18:10,460
+That's the idea.
+
+406
+00:18:10,460 --> 00:18:15,740
+And then, each state has its own corporate laws.
+
+407
+00:18:15,740 --> 00:18:18,660
+So my company, we did it in Massachusetts.
+
+408
+00:18:18,660 --> 00:18:21,370
+A lot of people like to do it in
+
+409
+00:18:21,370 --> 00:18:24,080
+Delaware, because they like those laws of Delaware and
+
+410
+00:18:24,080 --> 00:18:29,500
+the taxes of that state.
+
+411
+00:18:29,500 --> 00:18:32,420
+And then, the state will dictate some basic rules.
+
+412
+00:18:32,420 --> 00:18:35,650
+Typically, that you have to have
+
+413
+00:18:35,650 --> 00:18:38,880
+an annual shareholders meeting where you vote.
+
+414
+00:18:38,880 --> 00:18:39,880
+That's the idea.
+
+415
+00:18:39,880 --> 00:18:40,880
+And we did that.
+
+416
+00:18:40,880 --> 00:18:43,880
+I remember, we followed the law.
+
+417
+00:18:43,880 --> 00:18:45,970
+It was a great, you know,
+
+418
+00:18:45,970 --> 00:18:48,060
+someone had a plan, and it worked.
+
+419
+00:18:48,060 --> 00:18:52,500
+And so, what do you do at the shareholders meeting?
+
+420
+00:18:52,500 --> 00:18:55,140
+Well, anything according to the bylaws of
+
+421
+00:18:55,140 --> 00:18:57,780
+the company, certain things have to be decided
+
+422
+00:18:57,780 --> 00:18:58,780
+there, but not many.
+
+423
+00:18:58,780 --> 00:19:01,330
+The basic thing you do is,
+
+424
+00:19:01,330 --> 00:19:03,880
+you hire a chief executive officer.
+
+425
+00:19:03,880 --> 00:19:06,880
+You agree to hire that person.
+
+426
+00:19:06,880 --> 00:19:09,880
+And then, the chief executive officer.
+
+427
+00:19:09,880 --> 00:19:13,380
+And then, the chief executive officer reports to
+
+428
+00:19:13,380 --> 00:19:16,880
+the board, as an employee of the company.
+
+429
+00:19:16,880 --> 00:19:17,880
+Okay.
+
+430
+00:19:17,880 --> 00:19:21,880
+And in the U.S., the chief executive officer
+
+431
+00:19:21,880 --> 00:19:25,880
+has, by tradition, often been named as chairman
+
+432
+00:19:25,880 --> 00:19:27,380
+of the board.
+
+433
+00:19:27,380 --> 00:19:28,880
+But in Europe, that's less likely.
+
+434
+00:19:28,880 --> 00:19:32,880
+There's some different traditions.
+
+435
+00:19:32,880 --> 00:19:35,380
+And in the rest of the world, a lot of
+
+436
+00:19:35,380 --> 00:19:37,880
+people say, it's not good to have the CEO as chairman
+
+437
+00:19:37,880 --> 00:19:38,880
+of the board.
+
+438
+00:19:38,880 --> 00:19:42,380
+And the board of directors are
+
+439
+00:19:42,380 --> 00:19:45,880
+not generally working at the company.
+
+440
+00:19:45,880 --> 00:19:49,380
+The board of directors are people who were
+
+441
+00:19:49,380 --> 00:19:52,880
+brought together to give wisdom to the company.
+
+442
+00:19:52,880 --> 00:19:53,880
+This is what happens.
+
+443
+00:19:53,880 --> 00:19:56,380
+You're setting up a company, and you don't
+
+444
+00:19:56,380 --> 00:19:58,880
+know where to go and what to do.
+
+445
+00:19:58,880 --> 00:20:00,880
+You need someone to run the company.
+
+446
+00:20:00,880 --> 00:20:01,880
+That's the CEO.
+
+447
+00:20:01,880 --> 00:20:04,380
+And the CEO is probably a gung-ho guy who's
+
+448
+00:20:04,380 --> 00:20:06,880
+going to work 80 hours a week, and he's ready
+
+449
+00:20:06,880 --> 00:20:07,880
+to go.
+
+450
+00:20:07,880 --> 00:20:09,880
+And he's going to be a great influence.
+
+451
+00:20:09,880 --> 00:20:12,380
+And so, you get people with different perspectives,
+
+452
+00:20:12,380 --> 00:20:14,880
+someone who ran a business years ago and is
+
+453
+00:20:14,880 --> 00:20:18,880
+retired, or any number of different kinds of people.
+
+454
+00:20:18,880 --> 00:20:21,380
+And the board will meet
+
+455
+00:20:21,380 --> 00:20:23,880
+more regularly than the shareholders.
+
+456
+00:20:23,880 --> 00:20:26,380
+Shareholders don't want to get involved,
+
+457
+00:20:26,380 --> 00:20:28,880
+typically, because they typically own many companies.
+
+458
+00:20:28,880 --> 00:20:30,880
+They don't have time to worry about.
+
+459
+00:20:30,880 --> 00:20:32,880
+But you keep a board.
+
+460
+00:20:32,880 --> 00:20:34,880
+You keep it small enough, so there's not
+
+461
+00:20:34,880 --> 00:20:36,880
+too many people, like six to ten people.
+
+462
+00:20:36,880 --> 00:20:42,880
+And they know everything about the company.
+
+463
+00:20:42,880 --> 00:20:45,880
+They're privy to all the information.
+
+464
+00:20:45,880 --> 00:20:48,380
+And they talk to each other at regular
+
+465
+00:20:48,380 --> 00:20:50,880
+meetings, and they call each other up on weekends.
+
+466
+00:20:50,880 --> 00:20:54,380
+And it's part of the concept of a
+
+467
+00:20:54,380 --> 00:20:57,880
+director, that you just take responsibility for this company.
+
+468
+00:20:57,880 --> 00:21:02,880
+You don't run it, but you're responsible for it.
+
+469
+00:21:02,880 --> 00:21:04,380
+And then the law says, in the United States, that if you
+
+470
+00:21:04,380 --> 00:21:05,880
+join a board of directors, you're going to be responsible for it.
+
+471
+00:21:05,880 --> 00:21:07,880
+So, you're going to be responsible for it.
+
+472
+00:21:07,880 --> 00:21:09,880
+And that's what the board of directors do.
+
+473
+00:21:09,880 --> 00:21:13,880
+You have a duty of loyalty to the shareholders.
+
+474
+00:21:13,880 --> 00:21:17,880
+That you were elected by the
+
+475
+00:21:17,880 --> 00:21:21,880
+shareholders to be on the board.
+
+476
+00:21:21,880 --> 00:21:26,880
+And those are, you have a duty.
+
+477
+00:21:26,880 --> 00:21:29,880
+You may not own any shares in the company.
+
+478
+00:21:29,880 --> 00:21:31,880
+Typically, you don't.
+
+479
+00:21:31,880 --> 00:21:33,380
+And the board of directors is typically paid only, a
+
+480
+00:21:33,380 --> 00:21:34,880
+member of the board is paid some token amount of money.
+
+481
+00:21:34,880 --> 00:21:35,880
+Okay.
+
+482
+00:21:35,880 --> 00:21:37,880
+You wonder why people do it.
+
+483
+00:21:37,880 --> 00:21:39,880
+They often do it just to kind
+
+484
+00:21:39,880 --> 00:21:41,880
+of stay involved and keep themselves learning.
+
+485
+00:21:41,880 --> 00:21:43,880
+But they can make substantial money.
+
+486
+00:21:43,880 --> 00:21:45,880
+But they're not the owners of the company.
+
+487
+00:21:45,880 --> 00:21:47,880
+They don't get rich by it.
+
+488
+00:21:47,880 --> 00:21:50,880
+They're the kind of wise people that were brought in.
+
+489
+00:21:50,880 --> 00:21:53,380
+To just, you know, this is your, you joined
+
+490
+00:21:53,380 --> 00:21:55,880
+the board, it's your, you're taking on a responsibility.
+
+491
+00:21:55,880 --> 00:21:59,880
+You're not taking on a massive responsibility.
+
+492
+00:21:59,880 --> 00:22:02,380
+You know, you only meet, you know,
+
+493
+00:22:02,380 --> 00:22:04,880
+a minimum maybe of four times a year.
+
+494
+00:22:04,880 --> 00:22:06,880
+And you'll be on phone calls.
+
+495
+00:22:06,880 --> 00:22:09,880
+But you have some responsibility for the company.
+
+496
+00:22:09,880 --> 00:22:11,880
+And some people like that.
+
+497
+00:22:11,880 --> 00:22:13,880
+And they kind of sense that,
+
+498
+00:22:13,880 --> 00:22:15,880
+well, I'm a productive part of society.
+
+499
+00:22:15,880 --> 00:22:16,880
+I have this company.
+
+500
+00:22:16,880 --> 00:22:18,380
+I'll learn all about it and
+
+501
+00:22:18,380 --> 00:22:19,880
+think about it in a broader perspective.
+
+502
+00:22:19,880 --> 00:22:24,380
+And so, that seems to work, this
+
+503
+00:22:24,380 --> 00:22:28,880
+sort of organization seems to work really well.
+
+504
+00:22:28,880 --> 00:22:30,880
+And you know what will happen?
+
+505
+00:22:30,880 --> 00:22:33,880
+The board will be talking informally.
+
+506
+00:22:33,880 --> 00:22:36,380
+And they'll say, is this
+
+507
+00:22:36,380 --> 00:22:38,880
+CEO really doing a good job?
+
+508
+00:22:38,880 --> 00:22:40,880
+You know, and they think about it.
+
+509
+00:22:40,880 --> 00:22:42,380
+I want to just sort
+
+510
+00:22:42,380 --> 00:22:43,880
+of ask around with our customers.
+
+511
+00:22:43,880 --> 00:22:45,880
+What do they think?
+
+512
+00:22:45,880 --> 00:22:48,880
+And so, someone might say, you know,
+
+513
+00:22:48,880 --> 00:22:51,880
+we could just get a new CEO.
+
+514
+00:22:51,880 --> 00:22:52,880
+Let's do it.
+
+515
+00:22:52,880 --> 00:22:54,880
+And then the guy is out immediately,
+
+516
+00:22:54,880 --> 00:22:56,880
+if they vote at the board meeting.
+
+517
+00:22:56,880 --> 00:23:00,880
+And this is a structure that keeps companies really good.
+
+518
+00:23:00,880 --> 00:23:02,880
+And one of the previous questions.
+
+519
+00:23:03,880 --> 00:23:07,880
+I think it was in the last semester, I
+
+520
+00:23:07,880 --> 00:23:11,880
+had Carl Icahn come, who is a notorious board breaker.
+
+521
+00:23:11,880 --> 00:23:13,880
+Well, he comes in.
+
+522
+00:23:13,880 --> 00:23:18,880
+He told our class here that he likes to buy
+
+523
+00:23:18,880 --> 00:23:23,880
+enough shares in a company to get himself on the board.
+
+524
+00:23:23,880 --> 00:23:25,380
+And he loves to go
+
+525
+00:23:25,380 --> 00:23:26,880
+and show up at board meetings.
+
+526
+00:23:26,880 --> 00:23:28,880
+He buys companies where
+
+527
+00:23:28,880 --> 00:23:30,880
+there's relatively ineffective boards.
+
+528
+00:23:30,880 --> 00:23:33,880
+And the board is not really paying attention.
+
+529
+00:23:33,880 --> 00:23:35,880
+They're kind of lazy.
+
+530
+00:23:35,880 --> 00:23:37,880
+And he comes in and he makes
+
+531
+00:23:37,880 --> 00:23:39,880
+shocking statements like, fire the CEO right now.
+
+532
+00:23:39,880 --> 00:23:41,880
+This guy is a loser.
+
+533
+00:23:41,880 --> 00:23:43,880
+And the board gets all upset
+
+534
+00:23:43,880 --> 00:23:45,880
+because they kind of like the guy.
+
+535
+00:23:45,880 --> 00:23:47,880
+It's cozy.
+
+536
+00:23:47,880 --> 00:23:49,880
+But Icahn says, you know, I can do it.
+
+537
+00:23:49,880 --> 00:23:52,880
+I go in there and I lay it all out.
+
+538
+00:23:52,880 --> 00:23:54,880
+And maybe take a few meetings.
+
+539
+00:23:54,880 --> 00:23:56,880
+I can bring them around
+
+540
+00:23:56,880 --> 00:23:58,880
+and get the company straightened out.
+
+541
+00:23:58,880 --> 00:24:01,880
+So, this is shareholder democracy, how it works well.
+
+542
+00:24:01,880 --> 00:24:06,880
+And not everyone agrees with Carl Icahn's interpretation.
+
+543
+00:24:06,880 --> 00:24:11,880
+He's a controversial guy.
+
+544
+00:24:11,880 --> 00:24:14,380
+Now, another thing I want to say,
+
+545
+00:24:14,380 --> 00:24:16,880
+there are basically two kinds of corporations.
+
+546
+00:24:16,880 --> 00:24:21,880
+There's for-profit and non-profit.
+
+547
+00:24:21,880 --> 00:24:23,880
+I've been talking about for-profit.
+
+548
+00:24:23,880 --> 00:24:27,380
+And all these people listed as owning, all
+
+549
+00:24:27,380 --> 00:24:30,880
+these people listed, I had on the screen,
+
+550
+00:24:30,880 --> 00:24:34,880
+as listed shares, are for-profit.
+
+551
+00:24:34,880 --> 00:24:36,880
+That means they have shareholders.
+
+552
+00:24:36,880 --> 00:24:38,880
+There's another kind of
+
+553
+00:24:38,880 --> 00:24:40,880
+corporation, which is called non-profit.
+
+554
+00:24:40,880 --> 00:24:42,880
+And we're standing in one right now.
+
+555
+00:24:42,880 --> 00:24:44,880
+It's called Yale University.
+
+556
+00:24:44,880 --> 00:24:47,880
+It's a non-profit corporation.
+
+557
+00:24:47,880 --> 00:24:49,880
+And it has a board of directors.
+
+558
+00:24:49,880 --> 00:24:51,880
+They call it the corporation.
+
+559
+00:24:51,880 --> 00:24:52,880
+They meet regularly.
+
+560
+00:24:52,880 --> 00:24:54,880
+It's like other corporations.
+
+561
+00:24:54,880 --> 00:24:56,880
+But there are no shareholders.
+
+562
+00:24:56,880 --> 00:24:59,880
+So, how can that be?
+
+563
+00:24:59,880 --> 00:25:01,880
+Who owns Yale?
+
+564
+00:25:01,880 --> 00:25:05,880
+Well, it's a person.
+
+565
+00:25:05,880 --> 00:25:10,880
+Yale University, like other universities, is a legal person.
+
+566
+00:25:10,880 --> 00:25:13,880
+And its rights are defined by law.
+
+567
+00:25:13,880 --> 00:25:20,380
+And the profits go back to Yale and accumulate there
+
+568
+00:25:20,380 --> 00:25:26,880
+and are spent for a cause, namely education and research.
+
+569
+00:25:26,880 --> 00:25:29,880
+So, the board of directors of Yale,
+
+570
+00:25:29,880 --> 00:25:31,880
+has a different purpose.
+
+571
+00:25:31,880 --> 00:25:34,380
+They don't have any duty of loyalty
+
+572
+00:25:34,380 --> 00:25:36,880
+to shareholders, because there are no shareholders.
+
+573
+00:25:36,880 --> 00:25:40,380
+I mean, we could call you shareholders, I guess,
+
+574
+00:25:40,380 --> 00:25:43,880
+if you're students here, but that's not what you're called.
+
+575
+00:25:43,880 --> 00:25:45,880
+And you don't have any rights to the profits.
+
+576
+00:25:45,880 --> 00:25:48,880
+Profits are spent for good causes.
+
+577
+00:25:48,880 --> 00:25:51,380
+So, you kind of wonder, well,
+
+578
+00:25:51,380 --> 00:25:53,880
+those two sound very different, don't they?
+
+579
+00:25:53,880 --> 00:25:57,880
+Because a for-profit is trying to make money,
+
+580
+00:25:57,880 --> 00:26:00,880
+and the nonprofit is doing something
+
+581
+00:26:00,880 --> 00:26:03,880
+for a cause that seems totally different.
+
+582
+00:26:03,880 --> 00:26:06,380
+But they're not always totally different, because
+
+583
+00:26:06,380 --> 00:26:08,880
+a lot of what happens in corporations
+
+584
+00:26:08,880 --> 00:26:11,880
+is determined by kind of
+
+585
+00:26:11,880 --> 00:26:14,880
+the sociology of the organizational structure.
+
+586
+00:26:14,880 --> 00:26:16,880
+So, if you have a board of directors,
+
+587
+00:26:16,880 --> 00:26:19,880
+you know, some people serve on multiple boards.
+
+588
+00:26:19,880 --> 00:26:21,880
+They'll be on Yale University,
+
+589
+00:26:21,880 --> 00:26:25,880
+and they'll be on some other company for profit.
+
+590
+00:26:25,880 --> 00:26:26,880
+But they probably,
+
+591
+00:26:26,880 --> 00:26:28,880
+the same person, they probably behave
+
+592
+00:26:28,880 --> 00:26:30,880
+kind of similarly in both places.
+
+593
+00:26:30,880 --> 00:26:34,380
+So, oddly enough, for-profit and
+
+594
+00:26:34,380 --> 00:26:37,880
+nonprofit don't often mean that much.
+
+595
+00:26:37,880 --> 00:26:40,380
+We're going to come back
+
+596
+00:26:40,380 --> 00:26:42,880
+to nonprofits later in this semester.
+
+597
+00:26:42,880 --> 00:26:46,880
+But I'm really talking about for-profit.
+
+598
+00:26:46,880 --> 00:26:49,880
+Now, that sounds kind of selfish, right?
+
+599
+00:26:49,880 --> 00:26:50,880
+In a sense.
+
+600
+00:26:50,880 --> 00:26:52,380
+I kind of like non, well,
+
+601
+00:26:52,380 --> 00:26:53,880
+a lot of us like nonprofits better.
+
+602
+00:26:53,880 --> 00:26:56,880
+They have a different cachet in our society.
+
+603
+00:26:56,880 --> 00:26:59,880
+I was talking to Peter Tofano,
+
+604
+00:26:59,880 --> 00:27:02,880
+who's a professor at Harvard Business School,
+
+605
+00:27:02,880 --> 00:27:07,880
+who set up a nonprofit company called Doorways to Dreams.
+
+606
+00:27:07,880 --> 00:27:09,880
+That's the name of his company.
+
+607
+00:27:09,880 --> 00:27:12,880
+There's a website, search on Doorways to Dreams.
+
+608
+00:27:12,880 --> 00:27:14,880
+And it's all about finance for the poor,
+
+609
+00:27:14,880 --> 00:27:18,880
+and the less represented people.
+
+610
+00:27:18,880 --> 00:27:20,880
+And he said, setting up a nonprofit
+
+611
+00:27:20,880 --> 00:27:22,880
+was the greatest thing he ever did,
+
+612
+00:27:22,880 --> 00:27:24,880
+because,
+
+613
+00:27:24,880 --> 00:27:27,880
+because he,
+
+614
+00:27:27,880 --> 00:27:29,880
+it opens doors for him.
+
+615
+00:27:29,880 --> 00:27:32,380
+He walks in and says, I'm running a
+
+616
+00:27:32,380 --> 00:27:34,880
+nonprofit to benefit poor people in the United States,
+
+617
+00:27:34,880 --> 00:27:37,880
+getting their financial things in order.
+
+618
+00:27:37,880 --> 00:27:39,880
+He said, everyone respects me.
+
+619
+00:27:39,880 --> 00:27:40,880
+And, you know, if I say
+
+620
+00:27:40,880 --> 00:27:41,880
+I'm trying to make a profit,
+
+621
+00:27:41,880 --> 00:27:45,880
+they're skeptical.
+
+622
+00:27:45,880 --> 00:27:48,880
+We have one professor in our econ department, Dean Carlin,
+
+623
+00:27:48,880 --> 00:27:51,880
+who set up a big nonprofit.
+
+624
+00:27:51,880 --> 00:27:53,880
+He said,
+
+625
+00:27:54,880 --> 00:27:55,880
+He,
+
+626
+00:27:55,880 --> 00:27:58,880
+I mean, we have one of our big Asian universities,
+
+627
+00:27:58,880 --> 00:28:00,880
+at Yale.
+
+628
+00:28:00,880 --> 00:28:02,880
+But, it's kind of rare.
+
+629
+00:28:02,880 --> 00:28:05,880
+Anyway, I'm talking here today about,
+
+630
+00:28:05,880 --> 00:28:08,880
+this is called, Innovations for Poverty Action.
+
+631
+00:28:08,880 --> 00:28:10,880
+And just last night,
+
+632
+00:28:10,880 --> 00:28:11,880
+I had a door to door,
+
+633
+00:28:11,880 --> 00:28:12,880
+it's my surprise,
+
+634
+00:28:12,880 --> 00:28:13,880
+I had a young,
+
+635
+00:28:13,880 --> 00:28:15,880
+Yale freshman come by,
+
+636
+00:28:15,880 --> 00:28:17,880
+asking me to donate,
+
+637
+00:28:17,880 --> 00:28:19,880
+here in New Haven.
+
+638
+00:28:19,880 --> 00:28:21,880
+There's no donations to,
+
+639
+00:28:21,880 --> 00:28:23,880
+I guess Yale gets donations,
+
+640
+00:28:23,880 --> 00:28:28,120
+don't get donations, generally.
+
+641
+00:28:28,120 --> 00:28:29,660
+All right, the value of a
+
+642
+00:28:29,660 --> 00:28:31,200
+share in the company is equal
+
+643
+00:28:31,200 --> 00:28:32,900
+to the total value of
+
+644
+00:28:32,900 --> 00:28:34,600
+the company divided by the number
+
+645
+00:28:34,600 --> 00:28:35,860
+of shares.
+
+646
+00:28:35,860 --> 00:28:39,840
+OK, so the market cap of
+
+647
+00:28:39,840 --> 00:28:43,820
+a company is equal to the value
+
+648
+00:28:43,820 --> 00:28:46,640
+per share times the number of shares.
+
+649
+00:28:46,640 --> 00:28:52,080
+Market cap is short for market capitalization.
+
+650
+00:28:52,080 --> 00:28:57,320
+And that is the value of the company.
+
+651
+00:29:00,919 --> 00:29:05,389
+So, the key thing you have
+
+652
+00:29:05,389 --> 00:29:09,860
+to know about a company is, how
+
+653
+00:29:09,860 --> 00:29:11,520
+many shares are there?
+
+654
+00:29:11,520 --> 00:29:13,580
+And how many shares do I have?
+
+655
+00:29:13,580 --> 00:29:15,080
+Maybe I'm repeating myself.
+
+656
+00:29:15,080 --> 00:29:21,439
+But if there's a million shares outstanding, and I own
+
+657
+00:29:21,439 --> 00:29:22,060
+1,000 shares.
+
+658
+00:29:22,060 --> 00:29:26,000
+Then I own 1,000th of everything the company owns.
+
+659
+00:29:26,000 --> 00:29:28,700
+Because I own after their debt.
+
+660
+00:29:32,540 --> 00:29:36,000
+But if there's 10 million shares, and I own 1,000
+
+661
+00:29:36,000 --> 00:29:40,000
+shares, then I own only 1,000th.
+
+662
+00:29:40,000 --> 00:29:42,919
+You have to know the number of shares.
+
+663
+00:29:42,919 --> 00:29:44,359
+The number of shares that
+
+664
+00:29:44,359 --> 00:29:45,800
+you own is meaningless, unless you
+
+665
+00:29:45,800 --> 00:29:48,300
+know the total number of shares in the company.
+
+666
+00:29:48,300 --> 00:29:51,419
+And all the different shares are treated equally.
+
+667
+00:29:51,420 --> 00:29:52,810
+If they pay out any money
+
+668
+00:29:52,810 --> 00:29:54,200
+to one shareholder, they've got to
+
+669
+00:29:54,200 --> 00:29:56,280
+pay it out to all
+
+670
+00:29:56,280 --> 00:29:58,360
+the other shareholders in proportion to
+
+671
+00:29:58,360 --> 00:30:01,540
+the number of shares.
+
+672
+00:30:01,540 --> 00:30:03,940
+Now, companies issue dividends.
+
+673
+00:30:08,100 --> 00:30:15,140
+A dividend is paid to shareholders when the Board of
+
+674
+00:30:15,140 --> 00:30:17,100
+Directors decides to do it.
+
+675
+00:30:17,100 --> 00:30:19,680
+And the Board of Directors doesn't have to do it.
+
+676
+00:30:19,680 --> 00:30:21,160
+I'm talking now exclusively.
+
+677
+00:30:21,160 --> 00:30:23,590
+So, at a board meeting, they
+
+678
+00:30:23,590 --> 00:30:26,020
+can say, hey, let's pay a
+
+679
+00:30:26,020 --> 00:30:26,520
+dividend.
+
+680
+00:30:26,520 --> 00:30:29,920
+I remember this, because we had exactly this meeting, our
+
+681
+00:30:29,920 --> 00:30:31,260
+little company.
+
+682
+00:30:31,260 --> 00:30:33,010
+We gave shares to all
+
+683
+00:30:33,010 --> 00:30:34,760
+of our employees to motivate them.
+
+684
+00:30:34,760 --> 00:30:36,400
+Everyone's a shareholder.
+
+685
+00:30:36,400 --> 00:30:37,920
+But they had tiny numbers.
+
+686
+00:30:37,920 --> 00:30:40,040
+Some of them had very little shares.
+
+687
+00:30:40,040 --> 00:30:41,660
+And we had a board meeting,
+
+688
+00:30:41,660 --> 00:30:43,280
+and we said, we've never paid
+
+689
+00:30:43,280 --> 00:30:45,400
+a dividend.
+
+690
+00:30:45,400 --> 00:30:46,280
+Should we do it?
+
+691
+00:30:46,280 --> 00:30:47,920
+Should we pay a dividend?
+
+692
+00:30:47,920 --> 00:30:50,680
+And then we had a discussion.
+
+693
+00:30:50,680 --> 00:30:53,260
+And someone said, well, you know, all these employees
+
+694
+00:30:53,260 --> 00:30:55,360
+wonder if their shares are worth anything.
+
+695
+00:30:55,360 --> 00:30:56,640
+So maybe if they got a
+
+696
+00:30:56,640 --> 00:30:57,920
+check in the mail, they'd feel
+
+697
+00:30:57,920 --> 00:30:59,160
+better.
+
+698
+00:30:59,160 --> 00:31:00,920
+But you see, the dividend
+
+699
+00:31:00,920 --> 00:31:02,680
+is subject to the discretion of
+
+700
+00:31:02,680 --> 00:31:03,740
+the company.
+
+701
+00:31:03,740 --> 00:31:09,160
+Ultimately, people own shares to get dividends, right?
+
+702
+00:31:09,160 --> 00:31:13,920
+Because the dividends is the distribution of profits.
+
+703
+00:31:13,920 --> 00:31:15,920
+If a company is going to
+
+704
+00:31:15,920 --> 00:31:17,920
+pay a dividend, it's going to pay
+
+705
+00:31:17,920 --> 00:31:18,920
+dividends.
+
+706
+00:31:18,920 --> 00:31:21,420
+If a company never distributed
+
+707
+00:31:21,420 --> 00:31:23,920
+dividends, it would be like a
+
+708
+00:31:23,920 --> 00:31:25,920
+nonprofit, right?
+
+709
+00:31:25,920 --> 00:31:28,680
+If they kept all the profits, they can do that.
+
+710
+00:31:28,680 --> 00:31:30,680
+There's no law saying that
+
+711
+00:31:30,680 --> 00:31:32,680
+they have to distribute dividends.
+
+712
+00:31:32,680 --> 00:31:33,680
+They can just keep it
+
+713
+00:31:33,680 --> 00:31:34,680
+in the company, and like Yale
+
+714
+00:31:34,680 --> 00:31:38,680
+University, get a huge endowment and just let it get
+
+715
+00:31:38,680 --> 00:31:41,680
+bigger and bigger.
+
+716
+00:31:41,680 --> 00:31:43,180
+But the whole purpose of
+
+717
+00:31:43,180 --> 00:31:44,680
+a for-profit company is to pay
+
+718
+00:31:44,680 --> 00:31:45,680
+dividends.
+
+719
+00:31:45,680 --> 00:31:47,720
+Sooner or later, they do it.
+
+720
+00:31:47,720 --> 00:31:50,720
+But the big problem is, the for-profit companies don't pay
+
+721
+00:31:50,720 --> 00:31:51,720
+dividends.
+
+722
+00:31:51,720 --> 00:31:52,720
+Why not?
+
+723
+00:31:52,720 --> 00:31:54,720
+Because everybody knows that our money is in the future.
+
+724
+00:31:54,720 --> 00:31:55,720
+We're starting up.
+
+725
+00:31:55,720 --> 00:31:57,720
+We're not making a lot of money.
+
+726
+00:31:57,720 --> 00:32:00,720
+In the future, we'll have a lot of money.
+
+727
+00:32:00,720 --> 00:32:04,720
+So let's pay dividends later.
+
+728
+00:32:04,720 --> 00:32:07,720
+For example, Microsoft, that I'm going to describe, went
+
+729
+00:32:07,720 --> 00:32:10,720
+through decades without ever paying a dividend.
+
+730
+00:32:10,720 --> 00:32:13,720
+They just kept plowing it back into the company.
+
+731
+00:32:13,720 --> 00:32:14,720
+Now, if you knew that
+
+732
+00:32:14,720 --> 00:32:15,720
+they would never pay a dividend,
+
+733
+00:32:15,720 --> 00:32:17,720
+then you wouldn't want to own Microsoft shares.
+
+734
+00:32:17,720 --> 00:32:19,720
+You'd think, well, eventually they're going to.
+
+735
+00:32:19,720 --> 00:32:21,720
+And so, that's why you own the company.
+
+736
+00:32:21,720 --> 00:32:23,720
+But this is a very common misunderstanding.
+
+737
+00:32:23,720 --> 00:32:25,720
+A lot of people think that
+
+738
+00:32:25,720 --> 00:32:27,720
+you buy stocks because the price
+
+739
+00:32:27,720 --> 00:32:30,720
+will go up.
+
+740
+00:32:30,720 --> 00:32:32,220
+Well, the price will go
+
+741
+00:32:32,220 --> 00:32:33,720
+up only because people think there
+
+742
+00:32:33,720 --> 00:32:35,720
+are more dividends coming.
+
+743
+00:32:35,720 --> 00:32:37,720
+At least in theory, that's the way it should be.
+
+744
+00:32:37,720 --> 00:32:39,720
+The price ought to be,
+
+745
+00:32:39,720 --> 00:32:41,720
+we'll question this later, but it
+
+746
+00:32:41,720 --> 00:32:45,720
+ought to be the present value of expected future dividends.
+
+747
+00:32:45,720 --> 00:32:47,220
+So, the true value of
+
+748
+00:32:47,220 --> 00:32:48,720
+a company is entirely in the
+
+749
+00:32:48,720 --> 00:32:49,720
+dividends.
+
+750
+00:32:49,720 --> 00:32:52,720
+It seems a little funny, because you think, well, the
+
+751
+00:32:52,720 --> 00:32:55,720
+board of directors doesn't have to pay a dividend.
+
+752
+00:32:55,720 --> 00:32:57,220
+And they could just get
+
+753
+00:32:57,220 --> 00:32:58,720
+nasty and never pay it out.
+
+754
+00:32:58,720 --> 00:33:01,720
+But remember, you elect the board of directors.
+
+755
+00:33:01,720 --> 00:33:03,720
+And so, if you're frustrated that our company is
+
+756
+00:33:03,720 --> 00:33:05,220
+accumulating lots of money and it's
+
+757
+00:33:05,220 --> 00:33:06,720
+not paying it out, I want
+
+758
+00:33:06,720 --> 00:33:07,720
+the money, right?
+
+759
+00:33:07,720 --> 00:33:09,720
+So, I'm not going to vote for this board.
+
+760
+00:33:09,720 --> 00:33:12,720
+I'll put Carl Icahn on or someone else.
+
+761
+00:33:12,720 --> 00:33:13,720
+Pay it out.
+
+762
+00:33:13,720 --> 00:33:14,720
+And then that's what happens.
+
+763
+00:33:14,720 --> 00:33:16,720
+They start paying it out.
+
+764
+00:33:16,720 --> 00:33:19,220
+When they pay out a
+
+765
+00:33:19,220 --> 00:33:21,720
+dividend, the share price falls generally,
+
+766
+00:33:21,720 --> 00:33:22,720
+right?
+
+767
+00:33:22,720 --> 00:33:23,720
+Very simple.
+
+768
+00:33:23,720 --> 00:33:25,720
+Why would the share price fall
+
+769
+00:33:25,720 --> 00:33:27,720
+when they pay out a dividend?
+
+770
+00:33:27,720 --> 00:33:29,720
+Well, because the company is worth less.
+
+771
+00:33:29,720 --> 00:33:32,720
+They had this money and they paid it out.
+
+772
+00:33:32,720 --> 00:33:34,220
+So, it should fall by
+
+773
+00:33:34,220 --> 00:33:35,720
+the amount they paid out divided
+
+774
+00:33:35,720 --> 00:33:37,720
+by the number of shares, right?
+
+775
+00:33:37,720 --> 00:33:39,720
+And companies do that routinely.
+
+776
+00:33:39,720 --> 00:33:42,720
+When they declare a dividend, the price falls.
+
+777
+00:33:42,720 --> 00:33:43,720
+It's called the ex-dividend.
+
+778
+00:33:43,720 --> 00:33:46,720
+It's called the ex-dividend price.
+
+779
+00:33:46,720 --> 00:33:48,720
+And they show it in newspaper.
+
+780
+00:33:48,720 --> 00:33:49,720
+Well, they don't do it in
+
+781
+00:33:49,720 --> 00:33:50,720
+– they used to show it in
+
+782
+00:33:50,720 --> 00:33:51,720
+newspapers.
+
+783
+00:33:51,720 --> 00:33:52,720
+Now, it would be on the website.
+
+784
+00:33:52,720 --> 00:33:54,220
+They put a little x by the
+
+785
+00:33:54,220 --> 00:33:55,720
+stock price on the day after a
+
+786
+00:33:55,720 --> 00:33:57,720
+dividend is paid to tell you
+
+787
+00:33:57,720 --> 00:33:59,720
+that the price decline that you
+
+788
+00:33:59,720 --> 00:34:02,720
+just saw is not anything to worry about.
+
+789
+00:34:02,720 --> 00:34:05,720
+It doesn't mean there's bad news about the company.
+
+790
+00:34:05,720 --> 00:34:07,720
+It just means they just paid a dividend.
+
+791
+00:34:07,720 --> 00:34:09,219
+So, the price routinely goes
+
+792
+00:34:09,219 --> 00:34:10,719
+down by the amount of the
+
+793
+00:34:10,719 --> 00:34:11,719
+dividend.
+
+794
+00:34:11,719 --> 00:34:12,719
+It doesn't mean anything.
+
+795
+00:34:12,719 --> 00:34:16,719
+Some stockbrokers have tried to alarm investors about
+
+796
+00:34:16,719 --> 00:34:20,719
+dividend payment dates and mislead them.
+
+797
+00:34:20,719 --> 00:34:25,719
+And some stockbrokers would say, why don't you buy the
+
+798
+00:34:25,719 --> 00:34:27,219
+stock right now, because if you
+
+799
+00:34:27,219 --> 00:34:28,719
+buy it right now, you'll get a
+
+800
+00:34:28,719 --> 00:34:29,719
+dividend.
+
+801
+00:34:29,719 --> 00:34:31,719
+They're going to pay a dividend in three days.
+
+802
+00:34:31,719 --> 00:34:34,719
+Hurry up and buy it, and you'll get the dividend.
+
+803
+00:34:34,719 --> 00:34:36,719
+That's called selling dividends,
+
+804
+00:34:36,719 --> 00:34:38,719
+and it's considered unethical
+
+805
+00:34:38,719 --> 00:34:39,719
+for a broker ever to tell
+
+806
+00:34:39,719 --> 00:34:40,719
+you that, because it's not a good
+
+807
+00:34:40,719 --> 00:34:41,719
+thing.
+
+808
+00:34:41,719 --> 00:34:43,719
+It's not a good thing to do that.
+
+809
+00:34:43,719 --> 00:34:45,719
+Because it really doesn't matter.
+
+810
+00:34:45,719 --> 00:34:47,219
+Because if you buy it
+
+811
+00:34:47,219 --> 00:34:48,719
+later, you won't get the dividend,
+
+812
+00:34:48,719 --> 00:34:50,719
+but you'll get the share cheaper.
+
+813
+00:34:50,719 --> 00:34:52,719
+And it all comes out to about the same.
+
+814
+00:34:52,719 --> 00:34:55,719
+So, you don't have to worry about dividend payment dates,
+
+815
+00:34:55,719 --> 00:35:00,720
+because the stock price jumps down right after a dividend.
+
+816
+00:35:00,720 --> 00:35:02,720
+So, it doesn't matter with
+
+817
+00:35:02,720 --> 00:35:04,720
+you, except maybe if some second
+
+818
+00:35:04,720 --> 00:35:09,720
+order effects, it doesn't matter with you by a dividend
+
+819
+00:35:09,720 --> 00:35:11,720
+or a share.
+
+820
+00:35:11,720 --> 00:35:12,720
+It doesn't matter.
+
+821
+00:35:12,720 --> 00:35:14,720
+It doesn't matter if you're going
+
+822
+00:35:14,720 --> 00:35:16,720
+to buy it before or after
+
+823
+00:35:16,720 --> 00:35:17,720
+a dividend.
+
+824
+00:35:17,720 --> 00:35:19,720
+All right, so you see the idea here.
+
+825
+00:35:19,720 --> 00:35:21,720
+The idea of a corporation is,
+
+826
+00:35:21,720 --> 00:35:23,720
+we have these shares, and the
+
+827
+00:35:23,720 --> 00:35:25,720
+shares are always saleable.
+
+828
+00:35:25,720 --> 00:35:28,220
+So, let's say four of us
+
+829
+00:35:28,220 --> 00:35:30,720
+young people form a company, and then
+
+830
+00:35:30,720 --> 00:35:32,220
+after a couple of years, one of
+
+831
+00:35:32,220 --> 00:35:33,720
+us says, I get another job, I'm
+
+832
+00:35:33,720 --> 00:35:35,720
+tired of this, I want out.
+
+833
+00:35:35,720 --> 00:35:37,720
+And you say, fine, we'll buy your shares back.
+
+834
+00:35:37,720 --> 00:35:38,720
+OK?
+
+835
+00:35:38,720 --> 00:35:40,720
+And you think, OK, we'll sell you shares.
+
+836
+00:35:40,720 --> 00:35:42,720
+And you think, OK, fair and easy.
+
+837
+00:35:42,720 --> 00:35:45,720
+So, people can get in and out as they see.
+
+838
+00:35:45,720 --> 00:35:48,720
+And the only people involved
+
+839
+00:35:48,720 --> 00:35:51,720
+are people who want to be
+
+840
+00:35:51,720 --> 00:35:52,720
+involved.
+
+841
+00:35:52,720 --> 00:35:53,720
+And then you find some new person.
+
+842
+00:35:53,720 --> 00:35:55,720
+The four of us set up a company.
+
+843
+00:35:55,720 --> 00:35:57,720
+There's some new guy who just heard of us.
+
+844
+00:35:57,720 --> 00:35:58,720
+And you think, this is a great idea.
+
+845
+00:35:58,720 --> 00:35:59,720
+I want in.
+
+846
+00:35:59,720 --> 00:36:01,720
+So, then you say, all right,
+
+847
+00:36:01,720 --> 00:36:03,720
+we'll sell you shares in the
+
+848
+00:36:03,720 --> 00:36:04,720
+company.
+
+849
+00:36:04,720 --> 00:36:06,720
+But maybe the price has changed, right?
+
+850
+00:36:06,720 --> 00:36:07,720
+When we started, we might
+
+851
+00:36:07,720 --> 00:36:08,720
+have been worth a lot less.
+
+852
+00:36:08,720 --> 00:36:09,720
+But now, we're going to
+
+853
+00:36:09,720 --> 00:36:10,720
+be in at a new price.
+
+854
+00:36:10,720 --> 00:36:12,720
+And the price is changing every day.
+
+855
+00:36:12,720 --> 00:36:14,720
+It makes very good sense.
+
+856
+00:36:14,720 --> 00:36:16,220
+So, moreover, if the company needs
+
+857
+00:36:16,220 --> 00:36:17,720
+to raise money to go to
+
+858
+00:36:17,720 --> 00:36:18,720
+business.
+
+859
+00:36:18,720 --> 00:36:20,220
+So, we've started a company, and
+
+860
+00:36:20,220 --> 00:36:21,720
+we need to build a new
+
+861
+00:36:21,720 --> 00:36:24,720
+factory, let's say, to expand our operations.
+
+862
+00:36:24,720 --> 00:36:27,720
+Well, we can go out and
+
+863
+00:36:27,720 --> 00:36:30,720
+issue more shares to buy the factory.
+
+864
+00:36:30,720 --> 00:36:32,720
+So, we go to a stockbroker
+
+865
+00:36:32,720 --> 00:36:34,720
+who, it's like a real estate broker
+
+866
+00:36:34,720 --> 00:36:38,720
+who deals in markets for shares.
+
+867
+00:36:38,720 --> 00:36:40,220
+And I'm talking about a small
+
+868
+00:36:40,220 --> 00:36:41,720
+company, so I'm thinking of a
+
+869
+00:36:41,720 --> 00:36:45,720
+private company, for which there is no stock market price.
+
+870
+00:36:45,720 --> 00:36:47,220
+But the stockbroker can go out
+
+871
+00:36:47,220 --> 00:36:48,720
+and say, I'll find a buyer.
+
+872
+00:36:48,720 --> 00:36:51,720
+I have various contacts.
+
+873
+00:36:51,720 --> 00:36:55,720
+I know people who deal with individuals, wealthy
+
+874
+00:36:55,720 --> 00:36:58,720
+individuals, who are looking around for an investment.
+
+875
+00:36:58,720 --> 00:37:00,220
+Maybe this person will buy some
+
+876
+00:37:00,220 --> 00:37:01,720
+shares, and then you'll get the
+
+877
+00:37:01,720 --> 00:37:03,720
+money.
+
+878
+00:37:03,720 --> 00:37:04,720
+That's an alternative.
+
+879
+00:37:04,720 --> 00:37:06,720
+That's called equity financing.
+
+880
+00:37:06,720 --> 00:37:08,720
+That's an alternative.
+
+881
+00:37:08,720 --> 00:37:11,720
+So, equity financing is financing by debt.
+
+882
+00:37:11,720 --> 00:37:13,720
+Your company could also go to
+
+883
+00:37:13,720 --> 00:37:15,720
+a bank and ask for a loan,
+
+884
+00:37:15,720 --> 00:37:17,720
+called a corporate loan.
+
+885
+00:37:17,720 --> 00:37:19,720
+Or your company could borrow
+
+886
+00:37:19,720 --> 00:37:21,720
+money on the bond market by
+
+887
+00:37:21,720 --> 00:37:22,720
+issuing bonds.
+
+888
+00:37:22,720 --> 00:37:24,720
+You can go to a broker and
+
+889
+00:37:24,720 --> 00:37:26,720
+say, we want to sell corporate bonds.
+
+890
+00:37:26,720 --> 00:37:28,220
+But the difference of those is
+
+891
+00:37:28,220 --> 00:37:29,720
+that it's at a fixed interest
+
+892
+00:37:29,720 --> 00:37:34,720
+rate, and it's not a share in the profits.
+
+893
+00:37:34,720 --> 00:37:38,720
+So, equity financing tends to attract
+
+894
+00:37:38,720 --> 00:37:41,720
+investors who take risks.
+
+895
+00:37:41,720 --> 00:37:44,220
+See, if a company gets debt,
+
+896
+00:37:44,220 --> 00:37:46,720
+then the debt leverages up the
+
+897
+00:37:46,720 --> 00:37:48,720
+risk of the company.
+
+898
+00:37:48,720 --> 00:37:50,720
+Because you, as a shareholder,
+
+899
+00:37:50,720 --> 00:37:52,720
+now are paid only after the
+
+900
+00:37:52,720 --> 00:37:54,720
+debtors are paid.
+
+901
+00:37:54,720 --> 00:37:56,720
+You own the value of
+
+902
+00:37:56,720 --> 00:37:58,720
+the company, which is the assets
+
+903
+00:37:58,720 --> 00:38:01,720
+minus the liabilities, as a shareholder.
+
+904
+00:38:01,720 --> 00:38:04,720
+But you've got to subtract off the liabilities.
+
+905
+00:38:04,720 --> 00:38:06,720
+So, companies have a choice of
+
+906
+00:38:06,720 --> 00:38:08,720
+how to, how to get the money
+
+907
+00:38:08,720 --> 00:38:11,720
+out of their bank, how to finance their operations.
+
+908
+00:38:11,720 --> 00:38:14,720
+Typically, they start out with equity.
+
+909
+00:38:14,720 --> 00:38:16,720
+I guess they could start out with debt as well.
+
+910
+00:38:16,720 --> 00:38:18,220
+But in our case, of our
+
+911
+00:38:18,220 --> 00:38:19,720
+little company, it was all equity at
+
+912
+00:38:19,720 --> 00:38:20,720
+first.
+
+913
+00:38:20,720 --> 00:38:22,720
+Then we got bank loans.
+
+914
+00:38:22,720 --> 00:38:25,720
+And so, we started to get leveraged.
+
+915
+00:38:25,720 --> 00:38:30,720
+And that's what happens.
+
+916
+00:38:30,720 --> 00:38:32,720
+Big companies do the same thing.
+
+917
+00:38:32,720 --> 00:38:34,220
+I like to talk about the
+
+918
+00:38:34,220 --> 00:38:35,720
+simple company that you might set up
+
+919
+00:38:35,720 --> 00:38:37,720
+with your friends, because it seems so personal.
+
+920
+00:38:37,720 --> 00:38:40,720
+And you can imagine doing that, right?
+
+921
+00:38:40,720 --> 00:38:42,720
+And you can imagine the
+
+922
+00:38:42,720 --> 00:38:44,720
+kind of conflicts that would happen.
+
+923
+00:38:44,720 --> 00:38:46,220
+But these little companies have
+
+924
+00:38:46,220 --> 00:38:47,720
+a way of growing really, really
+
+925
+00:38:47,720 --> 00:38:48,720
+big.
+
+926
+00:38:48,720 --> 00:38:50,220
+So, I'm going to talk about
+
+927
+00:38:50,220 --> 00:38:51,720
+a little company set up by Bill
+
+928
+00:38:51,720 --> 00:38:55,720
+Gates and Paul Allen in 1975.
+
+929
+00:38:55,720 --> 00:38:58,720
+Bill Gates was an undergraduate at Harvard.
+
+930
+00:38:58,720 --> 00:39:02,720
+And he saw an opportunity, and he dropped out.
+
+931
+00:39:02,720 --> 00:39:04,720
+He was right.
+
+932
+00:39:04,720 --> 00:39:06,720
+He never got his Harvard degree.
+
+933
+00:39:06,720 --> 00:39:08,720
+And he said, I suggest that
+
+934
+00:39:08,720 --> 00:39:10,720
+if you see such an opportunity,
+
+935
+00:39:10,720 --> 00:39:11,720
+you do the same thing.
+
+936
+00:39:11,720 --> 00:39:13,720
+I hate to say it, but
+
+937
+00:39:13,720 --> 00:39:15,720
+if you can see an opportunity like
+
+938
+00:39:15,720 --> 00:39:16,720
+that.
+
+939
+00:39:16,720 --> 00:39:18,720
+So, it started out just
+
+940
+00:39:18,720 --> 00:39:20,720
+Bill and Paul and their little
+
+941
+00:39:20,720 --> 00:39:21,720
+company.
+
+942
+00:39:21,720 --> 00:39:22,720
+But they have a way to
+
+943
+00:39:22,720 --> 00:39:23,720
+grow into bigger and bigger things.
+
+944
+00:39:23,720 --> 00:39:27,720
+The question is, are they really different later?
+
+945
+00:39:27,720 --> 00:39:30,720
+Do they?
+
+946
+00:39:30,720 --> 00:39:34,720
+So, one important question is about whether big companies
+
+947
+00:39:34,720 --> 00:39:37,720
+are still functioning in the way I'm describing.
+
+948
+00:39:37,720 --> 00:39:39,720
+So, I set the idea of a
+
+949
+00:39:39,720 --> 00:39:41,720
+company up as a structure that lawyers
+
+950
+00:39:41,720 --> 00:39:43,720
+invented that allow people to
+
+951
+00:39:43,720 --> 00:39:45,720
+work together and allow them to
+
+952
+00:39:45,720 --> 00:39:47,720
+get in and out of the company.
+
+953
+00:39:47,720 --> 00:39:49,720
+Does it really still work
+
+954
+00:39:49,720 --> 00:39:51,720
+that way for really big companies?
+
+955
+00:39:51,720 --> 00:39:53,720
+And there's been a complaint
+
+956
+00:39:53,720 --> 00:39:55,720
+about the stock market that the
+
+957
+00:39:55,720 --> 00:40:00,720
+companies generally don't issue any more shares once they're
+
+958
+00:40:00,720 --> 00:40:01,720
+big.
+
+959
+00:40:01,720 --> 00:40:02,720
+This is the first time I've heard that.
+
+960
+00:40:02,720 --> 00:40:03,720
+I don't know.
+
+961
+00:40:04,720 --> 00:40:05,720
+I'm not saying it's a big deal.
+
+962
+00:40:05,720 --> 00:40:06,720
+I'm not saying it's a big deal.
+
+963
+00:40:06,720 --> 00:40:07,720
+I'm just saying that there are some companies that complain,
+
+964
+00:40:07,720 --> 00:40:08,720
+not saying it's right.
+
+965
+00:40:08,720 --> 00:40:10,220
+And that the stock market ends
+
+966
+00:40:10,220 --> 00:40:11,720
+up as a market for existing
+
+967
+00:40:11,720 --> 00:40:12,720
+shares.
+
+968
+00:40:12,720 --> 00:40:16,220
+And the idea is, is the
+
+969
+00:40:16,220 --> 00:40:19,720
+stock market, or are the stock markets
+
+970
+00:40:19,720 --> 00:40:24,720
+of the world functioning to make capitalism work better?
+
+971
+00:40:24,720 --> 00:40:26,220
+Well, I could say, well, they
+
+972
+00:40:26,220 --> 00:40:27,720
+should be, because the price of
+
+973
+00:40:27,720 --> 00:40:29,720
+a share in a company is
+
+974
+00:40:29,720 --> 00:40:31,720
+an indicator of the value of the
+
+975
+00:40:31,720 --> 00:40:33,720
+company, and it directs resources.
+
+976
+00:40:33,720 --> 00:40:35,220
+I mean, people look at that
+
+977
+00:40:35,220 --> 00:40:36,720
+price, and they decide where to
+
+978
+00:40:36,720 --> 00:40:37,720
+invest.
+
+979
+00:40:37,720 --> 00:40:39,720
+But if they're not issuing
+
+980
+00:40:39,720 --> 00:40:41,720
+any more shares, does it matter?
+
+981
+00:40:41,720 --> 00:40:45,720
+So, I had a quote from Karl Marx here.
+
+982
+00:40:45,720 --> 00:40:49,720
+You've heard of Karl Marx, the founder of communism.
+
+983
+00:40:49,720 --> 00:40:54,220
+And he, in his book
+
+984
+00:40:54,220 --> 00:40:58,720
+Capital, Das Kapital, his classic work,
+
+985
+00:40:58,720 --> 00:41:01,720
+said, I'm quoting Marx.
+
+986
+00:41:20,720 --> 00:41:21,720
+That was Marx's view.
+
+987
+00:41:21,720 --> 00:41:22,720
+But even in communist countries,
+
+988
+00:41:22,720 --> 00:41:23,720
+that view doesn't seem to be
+
+989
+00:41:23,720 --> 00:41:28,720
+holding sway anymore.
+
+990
+00:41:28,720 --> 00:41:30,720
+The thing that lent some credibility to Marx's work, was
+
+991
+00:41:30,720 --> 00:41:31,720
+his book, Capitalism.
+
+992
+00:41:31,720 --> 00:41:35,040
+credibility to these theories is that it often seems that
+
+993
+00:41:35,040 --> 00:41:41,500
+big companies don't issue many shares anymore.
+
+994
+00:41:41,500 --> 00:41:43,220
+And I'm going to qualify that.
+
+995
+00:41:43,220 --> 00:41:50,060
+But there was a very influential article written by
+
+996
+00:41:50,060 --> 00:41:59,660
+Stuart Meyers, who is a professor of finance at MIT.
+
+997
+00:41:59,660 --> 00:42:07,799
+And that was in the Journal of Finance, 1984.
+
+998
+00:42:07,799 --> 00:42:12,700
+And he gave some statistics.
+
+999
+00:42:12,700 --> 00:42:15,480
+This was an influential article, making it sound like
+
+1000
+00:42:15,480 --> 00:42:19,339
+shares don't really matter for big companies.
+
+1001
+00:42:19,339 --> 00:42:22,500
+He said, well, how do companies really finance
+
+1002
+00:42:22,500 --> 00:42:29,200
+their needs?
+
+1003
+00:42:29,200 --> 00:42:29,580
+And he gave some statistics.
+
+1004
+00:42:29,580 --> 00:42:29,640
+And he said, well, how do companies really finance their
+
+1005
+00:42:29,640 --> 00:42:30,140
+needs?
+
+1006
+00:42:30,140 --> 00:42:30,940
+And he gave data.
+
+1007
+00:42:30,940 --> 00:42:37,660
+This is Meyers' data from 1973 to 1982.
+
+1008
+00:42:37,660 --> 00:42:47,660
+And he found that 62% of corporate financing needs came
+
+1009
+00:42:47,660 --> 00:42:51,160
+from, in the United States, retained earnings.
+
+1010
+00:42:56,000 --> 00:42:57,940
+What he's saying is, companies, they didn't sell
+
+1011
+00:42:57,940 --> 00:42:59,560
+new shares.
+
+1012
+00:42:59,560 --> 00:43:01,660
+They didn't accumulate profits.
+
+1013
+00:43:01,660 --> 00:43:02,990
+And when they had to build
+
+1014
+00:43:02,990 --> 00:43:04,320
+a new factory, they went to their
+
+1015
+00:43:04,320 --> 00:43:06,520
+own piggy bank, and they bought the new factory, or
+
+1016
+00:43:06,520 --> 00:43:08,740
+whatever it was they needed.
+
+1017
+00:43:08,740 --> 00:43:13,080
+And only 6% was equity-issued.
+
+1018
+00:43:13,080 --> 00:43:16,740
+This is for the whole U.S. stock market.
+
+1019
+00:43:16,740 --> 00:43:18,499
+And the rest was debt,
+
+1020
+00:43:18,499 --> 00:43:20,259
+that they would borrow money for.
+
+1021
+00:43:20,259 --> 00:43:22,819
+So, Stuart Meyers said, you
+
+1022
+00:43:22,819 --> 00:43:25,380
+know, all this idea that stock
+
+1023
+00:43:25,380 --> 00:43:29,380
+markets function to allocate resources, and the share
+
+1024
+00:43:29,380 --> 00:43:32,200
+market means something is really misleading.
+
+1025
+00:43:32,200 --> 00:43:33,700
+So, what he proposed is
+
+1026
+00:43:33,700 --> 00:43:35,200
+what he called the pecking order
+
+1027
+00:43:35,200 --> 00:43:36,480
+theory.
+
+1028
+00:43:40,920 --> 00:43:42,650
+What he meant is, companies
+
+1029
+00:43:42,650 --> 00:43:44,380
+really don't want to issue new
+
+1030
+00:43:44,380 --> 00:43:46,960
+shares, they just don't want to do it.
+
+1031
+00:43:46,960 --> 00:43:48,620
+You know, we own this company, we're not
+
+1032
+00:43:48,620 --> 00:43:50,580
+letting more people in.
+
+1033
+00:43:50,580 --> 00:43:52,360
+So, what they first do is, they just try to
+
+1034
+00:43:52,360 --> 00:43:54,440
+save their own money.
+
+1035
+00:43:54,440 --> 00:43:56,160
+This is Meyer's explanation.
+
+1036
+00:43:56,160 --> 00:43:59,360
+Companies save money, and when they have money, they spend
+
+1037
+00:43:59,360 --> 00:44:02,140
+it on expanding.
+
+1038
+00:44:02,140 --> 00:44:04,380
+And then, that's the highest on the pecking order.
+
+1039
+00:44:04,380 --> 00:44:05,800
+They like that the best.
+
+1040
+00:44:05,800 --> 00:44:07,700
+But if they really need money,
+
+1041
+00:44:07,700 --> 00:44:09,600
+and they can't save enough to
+
+1042
+00:44:09,600 --> 00:44:13,220
+expand, they have a lot of expansion opportunities.
+
+1043
+00:44:13,220 --> 00:44:14,250
+They'll go to a bank and
+
+1044
+00:44:14,250 --> 00:44:15,280
+borrow, or they'll go to an
+
+1045
+00:44:15,280 --> 00:44:18,460
+investment bank and issue bonds.
+
+1046
+00:44:18,460 --> 00:44:21,400
+And then, only if it's really, really important, and they
+
+1047
+00:44:21,400 --> 00:44:24,080
+can't get enough money, they
+
+1048
+00:44:24,080 --> 00:44:26,760
+will go to selling new shares.
+
+1049
+00:44:26,760 --> 00:44:29,340
+So, I don't know if Stuart Meyer has said
+
+1050
+00:44:29,340 --> 00:44:31,000
+that Karl Marx was right, but
+
+1051
+00:44:31,000 --> 00:44:32,660
+he seemed to be saying that
+
+1052
+00:44:32,660 --> 00:44:36,580
+equity issuance wasn't that important.
+
+1053
+00:44:36,580 --> 00:44:38,900
+However, I think that is misleading.
+
+1054
+00:44:38,900 --> 00:44:41,100
+And I'm going to refer,
+
+1055
+00:44:41,100 --> 00:44:43,300
+then, to another article that came
+
+1056
+00:44:43,300 --> 00:44:47,960
+in much later, criticizing Meyer's.
+
+1057
+00:44:47,960 --> 00:44:58,540
+And the article is by Eugene Fama and Kenneth French.
+
+1058
+00:44:59,340 --> 00:45:04,580
+That's at Chicago and Dartmouth, respectively.
+
+1059
+00:45:04,580 --> 00:45:08,500
+They wrote an article in,
+
+1060
+00:45:08,500 --> 00:45:12,420
+I think it was 2004, 2005.
+
+1061
+00:45:12,420 --> 00:45:19,320
+And again, this is the Journal of Financial Economics, 2005.
+
+1062
+00:45:19,320 --> 00:45:23,540
+They said that the problem with Meyer's pecking order theory
+
+1063
+00:45:23,540 --> 00:45:27,000
+is that Meyer's was looking at aggregate data.
+
+1064
+00:45:27,000 --> 00:45:28,070
+And he was looking at
+
+1065
+00:45:28,070 --> 00:45:29,140
+a time period when there was
+
+1066
+00:45:29,140 --> 00:45:32,200
+relatively little issuance of equity.
+
+1067
+00:45:32,200 --> 00:45:36,379
+Now, when Meyer said only 6% of corporate financing comes
+
+1068
+00:45:36,379 --> 00:45:40,960
+from equity issuance, they were talking about net equity.
+
+1069
+00:45:40,960 --> 00:45:44,900
+That's total new purchases, new sales of shares by
+
+1070
+00:45:44,900 --> 00:45:50,240
+companies minus repurchases of shares by companies.
+
+1071
+00:45:50,240 --> 00:45:53,180
+And so, it averaged out to be a low number.
+
+1072
+00:45:53,180 --> 00:45:56,160
+But in fact, as Fama
+
+1073
+00:45:56,160 --> 00:45:59,140
+and French point out, in the
+
+1074
+00:45:59,140 --> 00:46:04,229
+same year that Meyer's study, from
+
+1075
+00:46:04,229 --> 00:46:09,319
+1973 to 82, 67% of U.S.
+
+1076
+00:46:09,319 --> 00:46:14,900
+companies issued new shares each year.
+
+1077
+00:46:14,900 --> 00:46:20,259
+And also, in subsequent years, the percent went up.
+
+1078
+00:46:20,259 --> 00:46:27,000
+From 1993 to 2002, it was 86%.
+
+1079
+00:46:27,000 --> 00:46:28,040
+So, that's the problem.
+
+1080
+00:46:28,040 --> 00:46:28,980
+So, that's the problem.
+
+1081
+00:46:28,980 --> 00:46:29,080
+So, that's the problem.
+
+1082
+00:46:29,080 --> 00:46:29,120
+So, that's the problem.
+
+1083
+00:46:29,140 --> 00:46:29,640
+So, that's the problem.
+
+1084
+00:46:29,640 --> 00:46:31,379
+So, they're all issuing shares.
+
+1085
+00:46:31,379 --> 00:46:34,859
+Just that some are issuing, and some are buying back.
+
+1086
+00:46:34,859 --> 00:46:43,500
+So, I think that we should conclude that companies really
+
+1087
+00:46:43,500 --> 00:46:48,720
+do use equity financing, even big companies.
+
+1088
+00:46:48,720 --> 00:46:52,960
+And the stock market is important for the price
+
+1089
+00:46:52,960 --> 00:46:54,200
+discovery.
+
+1090
+00:46:56,960 --> 00:46:59,080
+I just wanted to remind you of the term
+
+1091
+00:46:59,080 --> 00:46:59,580
+dilution.
+
+1092
+00:46:59,580 --> 00:47:05,700
+Dilution refers to what happens when a company issues more
+
+1093
+00:47:05,700 --> 00:47:06,740
+shares.
+
+1094
+00:47:06,740 --> 00:47:09,279
+So, imagine that you are showing up at a shareholders
+
+1095
+00:47:09,279 --> 00:47:11,339
+meeting, and someone's saying, well,
+
+1096
+00:47:11,339 --> 00:47:13,400
+the board has decided to
+
+1097
+00:47:13,400 --> 00:47:16,420
+issue, let's say our company has a million shares
+
+1098
+00:47:16,420 --> 00:47:17,660
+outstanding.
+
+1099
+00:47:17,660 --> 00:47:21,720
+They've decided to issue another million, OK, at $10 a
+
+1100
+00:47:21,720 --> 00:47:23,200
+share.
+
+1101
+00:47:23,200 --> 00:47:25,600
+And so, what do you think about that?
+
+1102
+00:47:25,600 --> 00:47:27,010
+Well, if the company had a
+
+1103
+00:47:27,010 --> 00:47:28,420
+million shares, and I owned a
+
+1104
+00:47:28,420 --> 00:47:32,020
+thousand shares, then I owned one thousandth of the company,
+
+1105
+00:47:32,020 --> 00:47:33,240
+right?
+
+1106
+00:47:33,240 --> 00:47:34,800
+If they issue another million
+
+1107
+00:47:34,800 --> 00:47:36,360
+shares, then there would be two
+
+1108
+00:47:36,360 --> 00:47:40,260
+million shares, and I'll own only one two-thousandth of the
+
+1109
+00:47:40,260 --> 00:47:41,040
+company.
+
+1110
+00:47:41,040 --> 00:47:43,520
+So, my first thought is, I don't like that.
+
+1111
+00:47:43,520 --> 00:47:44,770
+I owned a thousandth of
+
+1112
+00:47:44,770 --> 00:47:46,020
+the company, and now I'm falling
+
+1113
+00:47:46,020 --> 00:47:47,200
+in half.
+
+1114
+00:47:47,200 --> 00:47:49,020
+But they would say, on the other hand, look, we're
+
+1115
+00:47:49,020 --> 00:47:50,820
+selling them for $10 a share,
+
+1116
+00:47:50,820 --> 00:47:52,620
+so the company will have $10
+
+1117
+00:47:52,620 --> 00:47:55,680
+million to invest.
+
+1118
+00:47:55,680 --> 00:47:58,180
+So, even though your fraction of the company has been
+
+1119
+00:47:58,180 --> 00:48:01,359
+diluted, the company is worth more.
+
+1120
+00:48:01,359 --> 00:48:02,819
+Then you have to decide whether
+
+1121
+00:48:02,819 --> 00:48:04,279
+$10 a share is a good
+
+1122
+00:48:04,279 --> 00:48:05,180
+enough price.
+
+1123
+00:48:05,180 --> 00:48:07,319
+Is it worth that?
+
+1124
+00:48:07,319 --> 00:48:09,200
+And so, it's never obvious.
+
+1125
+00:48:09,200 --> 00:48:11,839
+You always have to consider dilution, because anything that
+
+1126
+00:48:11,839 --> 00:48:15,120
+expands the number of shares decreases your
+
+1127
+00:48:15,120 --> 00:48:17,500
+interest in the company.
+
+1128
+00:48:17,500 --> 00:48:19,620
+The opposite of dilution occurs
+
+1129
+00:48:19,620 --> 00:48:21,740
+when the company buys back its
+
+1130
+00:48:21,740 --> 00:48:26,640
+shares, and so that's repurchase of a share by a
+
+1131
+00:48:26,640 --> 00:48:27,000
+company.
+
+1132
+00:48:28,180 --> 00:48:30,419
+So, a company can always do that.
+
+1133
+00:48:30,419 --> 00:48:32,680
+They can decide to go either way.
+
+1134
+00:48:32,680 --> 00:48:34,880
+If they need more money, they
+
+1135
+00:48:34,880 --> 00:48:37,080
+can issue shares, and if they
+
+1136
+00:48:37,080 --> 00:48:40,399
+want to get money back, they can buy back.
+
+1137
+00:48:40,399 --> 00:48:42,369
+If they want to get money
+
+1138
+00:48:42,369 --> 00:48:44,339
+out, they can buy back shares.
+
+1139
+00:48:44,339 --> 00:48:46,620
+And these things are very common.
+
+1140
+00:48:46,620 --> 00:48:49,799
+There's statistics, like what Fama and Trent showed for
+
+1141
+00:48:49,799 --> 00:48:53,279
+equity issuance, which show that repurchases are very
+
+1142
+00:48:53,279 --> 00:48:54,520
+common.
+
+1143
+00:48:58,180 --> 00:49:00,180
+It happens all the time.
+
+1144
+00:49:00,180 --> 00:49:03,680
+That's what makes the stock market so active.
+
+1145
+00:49:03,680 --> 00:49:06,680
+One reason, traditionally, for share repurchase is tax
+
+1146
+00:49:06,680 --> 00:49:07,419
+reasons.
+
+1147
+00:49:07,419 --> 00:49:10,919
+If the company repurchases its own
+
+1148
+00:49:10,919 --> 00:49:14,419
+shares, if a company pays a
+
+1149
+00:49:14,419 --> 00:49:18,419
+dividend, that goes in as income for the shareholders,
+
+1150
+00:49:18,419 --> 00:49:19,940
+and it's taxed.
+
+1151
+00:49:19,940 --> 00:49:21,679
+It used to be taxed at
+
+1152
+00:49:21,679 --> 00:49:23,419
+a higher rate than capital gains, so
+
+1153
+00:49:23,419 --> 00:49:24,680
+there was an additional tax.
+
+1154
+00:49:24,680 --> 00:49:27,480
+But now, it's taxed at a higher rate.
+
+1155
+00:49:27,480 --> 00:49:29,820
+So there was an advantage to share repurchases.
+
+1156
+00:49:29,820 --> 00:49:34,220
+Instead of paying dividends, I should just buy back shares.
+
+1157
+00:49:34,220 --> 00:49:41,100
+And then the shareholders would have a better tax, they
+
+1158
+00:49:41,100 --> 00:49:43,780
+would be taxed at a more advantageous rate.
+
+1159
+00:49:43,780 --> 00:49:45,370
+But now, the tax rate on
+
+1160
+00:49:45,370 --> 00:49:46,960
+dividends and the tax rate on
+
+1161
+00:49:46,960 --> 00:49:48,860
+capital gains is the same.
+
+1162
+00:49:48,860 --> 00:49:50,400
+But still, there's always going
+
+1163
+00:49:50,400 --> 00:49:51,940
+to be complicated tax issues,
+
+1164
+00:49:51,940 --> 00:49:56,620
+and so issues of taxation may still motivate some decisions
+
+1165
+00:49:56,620 --> 00:49:57,260
+about share repurchase.
+
+1166
+00:49:57,260 --> 00:49:57,460
+Right.
+
+1167
+00:49:57,460 --> 00:49:59,140
+And as a shareholder, if the
+
+1168
+00:49:59,140 --> 00:50:00,820
+company wants to send me a
+
+1169
+00:50:00,820 --> 00:50:03,520
+dividend, I say, fine, I've got money.
+
+1170
+00:50:03,520 --> 00:50:04,870
+If the company says, I want
+
+1171
+00:50:04,870 --> 00:50:06,220
+to buy some of your shares back,
+
+1172
+00:50:06,220 --> 00:50:07,840
+you say, fine, I've got money.
+
+1173
+00:50:07,840 --> 00:50:09,940
+I don't care.
+
+1174
+00:50:09,940 --> 00:50:14,080
+And so, if they buy back
+
+1175
+00:50:14,080 --> 00:50:18,220
+5% of all their shares, then the
+
+1176
+00:50:18,220 --> 00:50:19,840
+total number of shares goes down.
+
+1177
+00:50:19,840 --> 00:50:23,220
+My fraction of the company is the same.
+
+1178
+00:50:23,220 --> 00:50:23,980
+And I've got money.
+
+1179
+00:50:23,980 --> 00:50:25,600
+It's the same as getting a dividend.
+
+1180
+00:50:25,600 --> 00:50:28,540
+So, you can be confused by these things.
+
+1181
+00:50:28,540 --> 00:50:32,980
+Dilution and repurchase are neither good nor bad.
+
+1182
+00:50:32,980 --> 00:50:36,220
+It depends on circumstances.
+
+1183
+00:50:36,220 --> 00:50:37,470
+And you have to look at
+
+1184
+00:50:37,470 --> 00:50:38,720
+the business and what's being done
+
+1185
+00:50:38,720 --> 00:50:39,980
+with the money.
+
+1186
+00:50:43,980 --> 00:50:47,339
+I wanted to mention, there's another kind of share called
+
+1187
+00:50:47,339 --> 00:50:48,459
+preferred.
+
+1188
+00:50:48,459 --> 00:50:50,459
+There's two kinds of preferred.
+
+1189
+00:50:50,459 --> 00:50:52,459
+There's the preferred and the preferred.
+
+1190
+00:50:52,459 --> 00:50:53,220
+And the preferred is the shareholder.
+
+1191
+00:50:53,220 --> 00:50:54,220
+There's the shareholder and the stockholder.
+
+1192
+00:50:54,220 --> 00:50:56,540
+And the preferred is the shareholder.
+
+1193
+00:50:56,540 --> 00:51:00,480
+And the preferred is the shareholder.
+
+1194
+00:51:00,480 --> 00:51:06,879
+I've been talking here about common stock.
+
+1195
+00:51:06,879 --> 00:51:12,439
+Common stock is the real ownership in the company.
+
+1196
+00:51:12,439 --> 00:51:16,759
+In other words, you take all the profits, they're the
+
+1197
+00:51:16,759 --> 00:51:18,939
+ultimate owners of the company.
+
+1198
+00:51:18,939 --> 00:51:22,459
+Nobody is above them in the hierarchy.
+
+1199
+00:51:22,460 --> 00:51:30,420
+And preferred stock pays a, it has a set dividend.
+
+1200
+00:51:30,420 --> 00:51:33,690
+But the contract says that
+
+1201
+00:51:33,690 --> 00:51:36,960
+the dividend is so many dollars
+
+1202
+00:51:36,960 --> 00:51:39,900
+per year.
+
+1203
+00:51:39,900 --> 00:51:44,260
+And the board doesn't have to pay it.
+
+1204
+00:51:44,260 --> 00:51:48,900
+But if they cannot, typically the contract says, they cannot
+
+1205
+00:51:48,900 --> 00:51:52,660
+pay a dividend to the common shareholders until all the
+
+1206
+00:51:52,660 --> 00:51:56,400
+dividends to the preferred shareholders are paid up.
+
+1207
+00:51:56,400 --> 00:52:00,800
+And the preferred shareholders typically don't have a vote.
+
+1208
+00:52:00,800 --> 00:52:01,500
+So, this is it.
+
+1209
+00:52:01,500 --> 00:52:04,700
+So, you could buy preferred stock in some company, and
+
+1210
+00:52:04,700 --> 00:52:06,660
+then you would know exactly what your dividend is.
+
+1211
+00:52:06,660 --> 00:52:08,300
+Usually, they just pay a dividend.
+
+1212
+00:52:08,300 --> 00:52:10,500
+It's like owning a bond.
+
+1213
+00:52:10,500 --> 00:52:11,800
+And it's always the same amount.
+
+1214
+00:52:11,800 --> 00:52:13,750
+So, you're not betting on
+
+1215
+00:52:13,750 --> 00:52:15,700
+the company doing better or worse,
+
+1216
+00:52:15,700 --> 00:52:16,940
+generally.
+
+1217
+00:52:16,940 --> 00:52:17,920
+But if it does badly, you're
+
+1218
+00:52:17,920 --> 00:52:18,900
+going to have to pay a dividend
+
+1219
+00:52:18,900 --> 00:52:19,900
+to the preferred shares.
+
+1220
+00:52:19,900 --> 00:52:21,900
+And if it does badly, you
+
+1221
+00:52:21,900 --> 00:52:23,900
+might lose your dividend for a
+
+1222
+00:52:23,900 --> 00:52:25,140
+while.
+
+1223
+00:52:25,140 --> 00:52:27,400
+If the company goes bankrupt, well, then you're out.
+
+1224
+00:52:27,400 --> 00:52:31,000
+But if the company starts doing well again, they've got
+
+1225
+00:52:31,000 --> 00:52:32,700
+to go back and make up
+
+1226
+00:52:32,700 --> 00:52:34,400
+for all the dividends they missed.
+
+1227
+00:52:34,400 --> 00:52:40,400
+So, preferred shares are safer than common shares, but they
+
+1228
+00:52:40,400 --> 00:52:42,000
+lack the upside potential.
+
+1229
+00:52:42,000 --> 00:52:46,700
+They're not as exciting as common shares.
+
+1230
+00:52:46,700 --> 00:52:47,680
+So, when General Motors got
+
+1231
+00:52:47,680 --> 00:52:48,660
+into a crisis, it was a
+
+1232
+00:52:48,660 --> 00:52:49,660
+very, very bad time.
+
+1233
+00:52:49,660 --> 00:52:50,660
+It was a very, very bad time.
+
+1234
+00:52:50,660 --> 00:52:51,660
+It was a very, very bad time.
+
+1235
+00:52:51,660 --> 00:52:52,160
+And the government, when it
+
+1236
+00:52:52,160 --> 00:52:52,660
+got into a crisis, the U.S.
+
+1237
+00:52:52,660 --> 00:52:53,660
+government bailed out General Motors.
+
+1238
+00:52:53,660 --> 00:52:58,660
+What they did was to buy preferred shares in General
+
+1239
+00:52:58,660 --> 00:52:59,660
+Motors.
+
+1240
+00:52:59,660 --> 00:53:04,660
+So, the U.S. government was a preferred stockholder in
+
+1241
+00:53:04,660 --> 00:53:06,660
+General Motors.
+
+1242
+00:53:06,660 --> 00:53:08,660
+Why did the U.S. government do that?
+
+1243
+00:53:08,660 --> 00:53:11,660
+Why did they buy preferred shares rather than common?
+
+1244
+00:53:11,660 --> 00:53:14,660
+Well, they now do have common shares as well.
+
+1245
+00:53:14,660 --> 00:53:15,779
+I think the government wanted to
+
+1246
+00:53:15,779 --> 00:53:16,899
+not be a stockholder, not to
+
+1247
+00:53:16,899 --> 00:53:17,899
+be a voter in G.E.T.
+
+1248
+00:53:17,900 --> 00:53:22,900
+They wanted to keep their distance, because this is
+
+1249
+00:53:22,900 --> 00:53:24,900
+America, a capitalist country.
+
+1250
+00:53:24,900 --> 00:53:28,900
+If the U.S. bought common shares in General Motors, it's
+
+1251
+00:53:28,900 --> 00:53:30,900
+like nationalizing the company, right?
+
+1252
+00:53:30,900 --> 00:53:32,900
+The government would be on the board.
+
+1253
+00:53:32,900 --> 00:53:34,900
+They would have the votes.
+
+1254
+00:53:34,900 --> 00:53:36,900
+They just didn't want to go that far.
+
+1255
+00:53:36,900 --> 00:53:39,900
+So, they bought preferred shares in General Motors.
+
+1256
+00:53:39,900 --> 00:53:42,400
+Later, General Motors got on
+
+1257
+00:53:42,400 --> 00:53:44,900
+its feet again and bought back
+
+1258
+00:53:44,900 --> 00:53:45,900
+the government's preferred shares.
+
+1259
+00:53:45,900 --> 00:53:46,900
+So, the government is no longer a preferred stockholder.
+
+1260
+00:53:46,900 --> 00:53:51,900
+They're no longer a preferred shareholder in General Motors.
+
+1261
+00:53:51,900 --> 00:53:57,900
+Common is much more important than preferred.
+
+1262
+00:53:57,900 --> 00:53:58,900
+Okay.
+
+1263
+00:53:58,900 --> 00:54:05,900
+Now, I'm going to talk a little bit about dividends.
+
+1264
+00:54:05,900 --> 00:54:09,900
+What determines whether a firm pays dividends?
+
+1265
+00:54:09,900 --> 00:54:12,900
+There's a famous article by John Lintner.
+
+1266
+00:54:16,900 --> 00:54:23,900
+He was a professor at the Harvard Business School, and
+
+1267
+00:54:23,900 --> 00:54:26,400
+also one of the inventors
+
+1268
+00:54:26,400 --> 00:54:28,900
+of the capital asset pricing model.
+
+1269
+00:54:28,900 --> 00:54:33,400
+He wrote an article in, when was
+
+1270
+00:54:33,400 --> 00:54:37,900
+it, it was a long time ago,
+
+1271
+00:54:37,900 --> 00:54:40,900
+about why firms pay dividends.
+
+1272
+00:54:40,900 --> 00:54:44,900
+Remember, it's a judgment call by the board of directors.
+
+1273
+00:54:44,900 --> 00:54:45,900
+So, he wrote an article.
+
+1274
+00:54:45,900 --> 00:54:47,900
+He was a professor at the Harvard Business School.
+
+1275
+00:54:47,900 --> 00:54:49,400
+So, he interviewed people who
+
+1276
+00:54:49,400 --> 00:54:50,900
+were involved in those judgments
+
+1277
+00:54:50,900 --> 00:54:53,900
+and asked them, why do you pay dividends?
+
+1278
+00:54:53,900 --> 00:54:55,900
+Why did you decide to pay
+
+1279
+00:54:55,900 --> 00:54:57,900
+a dividend of a certain amount?
+
+1280
+00:54:57,900 --> 00:54:59,400
+And he wrote a long article
+
+1281
+00:54:59,400 --> 00:55:00,900
+about this, and he found out
+
+1282
+00:55:00,900 --> 00:55:03,900
+that it was impossible to summarize everything they said.
+
+1283
+00:55:03,900 --> 00:55:06,900
+They said so many different things.
+
+1284
+00:55:06,900 --> 00:55:08,400
+Corporations are very complex, and
+
+1285
+00:55:08,400 --> 00:55:09,900
+there's a lot of different
+
+1286
+00:55:09,900 --> 00:55:11,900
+people who have different feelings, and
+
+1287
+00:55:11,900 --> 00:55:13,900
+we're trying to keep people happy.
+
+1288
+00:55:13,900 --> 00:55:15,400
+You want the company to
+
+1289
+00:55:15,400 --> 00:55:16,900
+do well and be perceived well.
+
+1290
+00:55:16,900 --> 00:55:19,400
+So, you know, one thing
+
+1291
+00:55:19,400 --> 00:55:21,900
+he learned is that companies like,
+
+1292
+00:55:21,900 --> 00:55:23,900
+they think that that's our job is to pay dividends.
+
+1293
+00:55:23,900 --> 00:55:25,400
+But when we're young, just like you
+
+1294
+00:55:25,400 --> 00:55:26,900
+don't have to earn an income now,
+
+1295
+00:55:26,900 --> 00:55:28,900
+you're young, right?
+
+1296
+00:55:28,900 --> 00:55:29,900
+Eventually, you know, people are going
+
+1297
+00:55:29,900 --> 00:55:30,900
+to get fed up with you
+
+1298
+00:55:30,900 --> 00:55:32,900
+if you don't earn an income.
+
+1299
+00:55:32,900 --> 00:55:33,900
+So, it's the same thing.
+
+1300
+00:55:33,900 --> 00:55:36,900
+As a company matures, it's part of life's passage,
+
+1301
+00:55:36,900 --> 00:55:38,400
+you start paying dividends, and you
+
+1302
+00:55:38,400 --> 00:55:39,900
+take pride that you're paying dividends
+
+1303
+00:55:39,900 --> 00:55:41,900
+and people are getting money out of you.
+
+1304
+00:55:41,900 --> 00:55:42,900
+He heard a lot of generosity.
+
+1305
+00:55:42,900 --> 00:55:45,900
+He heard a lot of generalities like that.
+
+1306
+00:55:45,900 --> 00:55:47,900
+But what really decides, and one
+
+1307
+00:55:47,900 --> 00:55:49,900
+thing he learned from them is,
+
+1308
+00:55:49,900 --> 00:55:51,900
+they told him, you know, one thing we
+
+1309
+00:55:51,900 --> 00:55:53,900
+don't ever want to do is cut our dividends.
+
+1310
+00:55:53,900 --> 00:55:56,400
+Once we start paying a dividend, if we
+
+1311
+00:55:56,400 --> 00:55:58,900
+stop, it'll get a lot of attention, right?
+
+1312
+00:55:58,900 --> 00:56:01,900
+Well, it's like, for you, right?
+
+1313
+00:56:01,900 --> 00:56:03,900
+You're young people, you don't
+
+1314
+00:56:03,900 --> 00:56:05,900
+have a job, nobody's complaining.
+
+1315
+00:56:05,900 --> 00:56:07,400
+You could go for a while
+
+1316
+00:56:07,400 --> 00:56:08,900
+like this and say you're still young,
+
+1317
+00:56:08,900 --> 00:56:10,400
+but once you start in
+
+1318
+00:56:10,400 --> 00:56:11,900
+a job, and then you quit,
+
+1319
+00:56:11,900 --> 00:56:14,900
+you become a, looks bad, right?
+
+1320
+00:56:14,900 --> 00:56:16,400
+If you're 40 years old and
+
+1321
+00:56:16,400 --> 00:56:17,900
+you say, I'm just dropping out.
+
+1322
+00:56:17,900 --> 00:56:19,900
+Looks worse than if you do it at your age.
+
+1323
+00:56:19,900 --> 00:56:21,900
+It's the same for companies.
+
+1324
+00:56:21,900 --> 00:56:23,400
+Once they start paying a dividend,
+
+1325
+00:56:23,400 --> 00:56:24,900
+they've got to keep paying it.
+
+1326
+00:56:24,900 --> 00:56:26,900
+Otherwise, people get angry.
+
+1327
+00:56:26,900 --> 00:56:28,900
+So, that was one theme.
+
+1328
+00:56:28,900 --> 00:56:30,900
+But, like, Lentner said, even
+
+1329
+00:56:30,900 --> 00:56:32,900
+that doesn't tell the whole story.
+
+1330
+00:56:32,900 --> 00:56:37,900
+So, he tried to build a mathematical model of dividends.
+
+1331
+00:56:37,900 --> 00:56:39,400
+And the model that he came up
+
+1332
+00:56:39,400 --> 00:56:40,900
+with, which he then fit to the data,
+
+1333
+00:56:40,900 --> 00:56:43,900
+and found that it worked very well,
+
+1334
+00:56:43,900 --> 00:56:47,400
+was that these boards of directors have
+
+1335
+00:56:47,400 --> 00:56:50,900
+a target payout ratio of earnings, basically.
+
+1336
+00:56:50,900 --> 00:56:52,900
+This is the bottom line.
+
+1337
+00:56:52,900 --> 00:56:54,900
+That they think they should pay
+
+1338
+00:56:54,900 --> 00:56:56,900
+out a certain fraction of their earnings,
+
+1339
+00:56:56,900 --> 00:56:58,900
+because the shareholders will get mad
+
+1340
+00:56:58,900 --> 00:57:00,900
+if we're making a lot of money,
+
+1341
+00:57:00,900 --> 00:57:02,900
+and we're not sharing it with you.
+
+1342
+00:57:02,900 --> 00:57:04,900
+So, maybe we'll pay out half of our earnings,
+
+1343
+00:57:04,900 --> 00:57:06,900
+and the other half we'll keep as retained earnings,
+
+1344
+00:57:06,900 --> 00:57:08,400
+so that we don't have to go
+
+1345
+00:57:08,400 --> 00:57:09,900
+out and issue new equity or borrow money.
+
+1346
+00:57:09,900 --> 00:57:11,900
+It all sounds reasonable.
+
+1347
+00:57:11,900 --> 00:57:14,900
+And then, because they don't like to cut a dividend,
+
+1348
+00:57:14,900 --> 00:57:16,900
+they don't want to adjust upward quickly.
+
+1349
+00:57:16,900 --> 00:57:18,900
+If earnings shoot up, because if
+
+1350
+00:57:18,900 --> 00:57:20,900
+they go up and raise their dividend,
+
+1351
+00:57:20,900 --> 00:57:22,400
+then they might have to cut
+
+1352
+00:57:22,400 --> 00:57:23,900
+it if earnings go back down.
+
+1353
+00:57:23,900 --> 00:57:27,900
+So, this is the Lentner model.
+
+1354
+00:57:27,900 --> 00:57:30,900
+And it is that the dividends
+
+1355
+00:57:30,900 --> 00:57:33,900
+at time t, year t, let's say,
+
+1356
+00:57:33,900 --> 00:57:37,900
+minus dividends at year t minus 1,
+
+1357
+00:57:37,900 --> 00:57:39,900
+equals rho,
+
+1358
+00:57:39,900 --> 00:57:43,900
+times a number tau, that's the Greek letter tau,
+
+1359
+00:57:43,900 --> 00:57:46,900
+times earnings per share,
+
+1360
+00:57:46,900 --> 00:57:49,900
+minus dividend per share,
+
+1361
+00:57:49,900 --> 00:57:53,900
+at time t minus 1,
+
+1362
+00:57:53,900 --> 00:57:56,900
+plus noise.
+
+1363
+00:57:56,900 --> 00:58:00,900
+So, and tau is between 0 and 1.
+
+1364
+00:58:00,900 --> 00:58:03,400
+So, they have some fraction of
+
+1365
+00:58:03,400 --> 00:58:05,900
+earnings that they want to pay out.
+
+1366
+00:58:05,900 --> 00:58:09,900
+And if earnings per share rise above,
+
+1367
+00:58:09,900 --> 00:58:11,900
+rise so that tau times earnings
+
+1368
+00:58:11,900 --> 00:58:13,900
+per share is greater than dividends,
+
+1369
+00:58:13,900 --> 00:58:15,900
+then they increase their dividends.
+
+1370
+00:58:15,900 --> 00:58:18,900
+And rho is between 0 and 1.
+
+1371
+00:58:18,900 --> 00:58:20,900
+That's the Lentner model.
+
+1372
+00:58:20,900 --> 00:58:23,400
+And he showed with the data that
+
+1373
+00:58:23,400 --> 00:58:25,900
+it pretty much summarizes what firms are doing.
+
+1374
+00:58:25,900 --> 00:58:28,900
+So, they have a payout ratio out of earnings.
+
+1375
+00:58:28,900 --> 00:58:30,900
+They think that, and the payout ratio
+
+1376
+00:58:30,900 --> 00:58:32,900
+has been declining over the last century.
+
+1377
+00:58:32,900 --> 00:58:36,900
+It used to be typically 60, 70%.
+
+1378
+00:58:36,900 --> 00:58:39,900
+In 1900, shareholders were impatient with comfort.
+
+1379
+00:58:39,900 --> 00:58:41,900
+They wanted to see the money.
+
+1380
+00:58:41,900 --> 00:58:43,900
+But they let them keep 30 to 40%.
+
+1381
+00:58:43,900 --> 00:58:45,900
+But now, you know, we become more
+
+1382
+00:58:45,900 --> 00:58:47,900
+and more believers in the stock market,
+
+1383
+00:58:47,900 --> 00:58:52,900
+and we allow companies to do better things.
+
+1384
+00:58:52,900 --> 00:58:57,900
+So, I said I would talk about some examples.
+
+1385
+00:58:57,900 --> 00:59:00,900
+So, let me, examples of specific companies.
+
+1386
+00:59:00,900 --> 00:59:03,900
+Let me get back to my slides here.
+
+1387
+00:59:03,900 --> 00:59:07,900
+I wanted to start with Xerox.
+
+1388
+00:59:07,900 --> 00:59:10,900
+Xerox Corporation.
+
+1389
+00:59:10,900 --> 00:59:12,900
+You've heard of it?
+
+1390
+00:59:12,900 --> 00:59:14,900
+You've heard of Xerox?
+
+1391
+00:59:14,900 --> 00:59:16,900
+It's still there. It exists.
+
+1392
+00:59:16,900 --> 00:59:20,900
+Xerox Corporation was founded in 1906.
+
+1393
+00:59:20,900 --> 00:59:23,900
+It wasn't called Xerox.
+
+1394
+00:59:23,900 --> 00:59:27,900
+It was called the Halloyd Photographic Company.
+
+1395
+00:59:27,900 --> 00:59:31,900
+And they produced photographic equipment.
+
+1396
+00:59:31,900 --> 00:59:35,900
+But they had a big impetus forward
+
+1397
+00:59:35,900 --> 00:59:37,900
+when they met,
+
+1398
+00:59:37,900 --> 00:59:40,900
+Chester Carlson,
+
+1399
+00:59:40,900 --> 00:59:46,900
+who was an inventor.
+
+1400
+00:59:46,900 --> 00:59:49,900
+And what Chester Carlson invented
+
+1401
+00:59:49,900 --> 00:59:51,900
+was a copying machine
+
+1402
+00:59:51,900 --> 00:59:53,900
+that used plain paper.
+
+1403
+00:59:53,900 --> 00:59:55,900
+They used to have copying machines
+
+1404
+00:59:55,900 --> 00:59:57,900
+going all the way back to 1906,
+
+1405
+00:59:57,900 --> 00:59:59,900
+but they were very expensive.
+
+1406
+00:59:59,900 --> 01:00:02,900
+It would cost you, to get a copy of something,
+
+1407
+01:00:02,900 --> 01:00:05,900
+a photographic copy, it cost you
+
+1408
+01:00:05,900 --> 01:00:06,900
+maybe a dollar a page.
+
+1409
+01:00:06,900 --> 01:00:09,900
+Extremely expensive for that time.
+
+1410
+01:00:09,900 --> 01:00:13,900
+But what Carlson invented was a dry copier.
+
+1411
+01:00:13,900 --> 01:00:14,900
+It used to be that
+
+1412
+01:00:14,900 --> 01:00:15,900
+what they had to do was
+
+1413
+01:00:15,900 --> 01:00:17,900
+take a photograph of the document
+
+1414
+01:00:17,900 --> 01:00:19,900
+that you wanted a copy of,
+
+1415
+01:00:19,900 --> 01:00:22,900
+and then process it through the different
+
+1416
+01:00:22,900 --> 01:00:24,900
+chemicals that they use.
+
+1417
+01:00:24,900 --> 01:00:26,400
+It comes out wet and
+
+1418
+01:00:26,400 --> 01:00:27,900
+you have to hang it out.
+
+1419
+01:00:27,900 --> 01:00:30,900
+That was expensive and inconvenient.
+
+1420
+01:00:30,900 --> 01:00:32,900
+But they did have copying machines.
+
+1421
+01:00:32,900 --> 01:00:34,900
+It just didn't work very well.
+
+1422
+01:00:34,900 --> 01:00:35,900
+But he invented this process that,
+
+1423
+01:00:35,900 --> 01:00:38,900
+you could take any paper and put it through,
+
+1424
+01:00:38,900 --> 01:00:41,900
+plain paper, and it would come out hot and dry,
+
+1425
+01:00:41,900 --> 01:00:44,900
+and cheap.
+
+1426
+01:00:44,900 --> 01:00:47,900
+So Xerox became an overnight success,
+
+1427
+01:00:47,900 --> 01:00:51,900
+because they had a patent on Carlson's thing.
+
+1428
+01:00:51,900 --> 01:00:53,900
+And it became the glamour company
+
+1429
+01:00:53,900 --> 01:00:57,900
+of the 1960s and 1970s.
+
+1430
+01:00:57,900 --> 01:01:02,900
+So it was one of the nifty-fifty.
+
+1431
+01:01:02,900 --> 01:01:04,900
+People were very impressed with it.
+
+1432
+01:01:04,900 --> 01:01:09,900
+People were very impressed with Xerox in its day.
+
+1433
+01:01:09,900 --> 01:01:12,900
+So Xerox means dry in Greek.
+
+1434
+01:01:12,900 --> 01:01:15,900
+It's a dry copier.
+
+1435
+01:01:15,900 --> 01:01:18,900
+And it was considered a high-tech company,
+
+1436
+01:01:18,900 --> 01:01:21,900
+moving forward rapidly.
+
+1437
+01:01:21,900 --> 01:01:24,900
+But then it suffered a problem.
+
+1438
+01:01:24,900 --> 01:01:25,900
+Do you know what the problem was?
+
+1439
+01:01:25,900 --> 01:01:29,900
+It was doing really well until sometime in the 1990s,
+
+1440
+01:01:29,900 --> 01:01:31,900
+when another invention came.
+
+1441
+01:01:31,900 --> 01:01:32,900
+And it wasn't Xerox's.
+
+1442
+01:01:32,900 --> 01:01:34,900
+It was called digital copying machines.
+
+1443
+01:01:34,900 --> 01:01:36,900
+Where they would scan in,
+
+1444
+01:01:36,900 --> 01:01:38,900
+the machine would have like a computer
+
+1445
+01:01:38,900 --> 01:01:40,900
+that would scan in the document,
+
+1446
+01:01:40,900 --> 01:01:41,900
+and then produce a copy.
+
+1447
+01:01:41,900 --> 01:01:43,900
+And it had a lot
+
+1448
+01:01:43,900 --> 01:01:45,900
+of advantages over the Xerox copier.
+
+1449
+01:01:45,900 --> 01:01:48,900
+So the company almost went under.
+
+1450
+01:01:48,900 --> 01:01:50,900
+So I have, what I
+
+1451
+01:01:50,900 --> 01:01:52,900
+got here is the balance sheet
+
+1452
+01:01:52,900 --> 01:01:56,900
+from Xerox company.
+
+1453
+01:01:56,900 --> 01:02:00,900
+And this comes from a website, sec.gov.
+
+1454
+01:02:00,900 --> 01:02:02,900
+And I got this from the 10Q report.
+
+1455
+01:02:02,900 --> 01:02:04,900
+And it says,
+
+1456
+01:02:04,900 --> 01:02:09,900
+Xerox is a public company, not a private company.
+
+1457
+01:02:09,900 --> 01:02:11,900
+It's traded on stock exchanges.
+
+1458
+01:02:11,900 --> 01:02:13,900
+So U.S. law says,
+
+1459
+01:02:13,900 --> 01:02:17,900
+any public company must file a quarterly report
+
+1460
+01:02:17,900 --> 01:02:20,900
+with the Securities and Exchange Commission.
+
+1461
+01:02:20,900 --> 01:02:22,900
+And they put it up on their website.
+
+1462
+01:02:22,900 --> 01:02:24,900
+This is the website.
+
+1463
+01:02:24,900 --> 01:02:29,900
+So any public company's balance sheet is on the web.
+
+1464
+01:02:29,900 --> 01:02:32,900
+And it's there, updated every three months.
+
+1465
+01:02:32,900 --> 01:02:33,900
+And I've got a couple of them here.
+
+1466
+01:02:33,900 --> 01:02:38,900
+I've got 1999 and 2010.
+
+1467
+01:02:38,900 --> 01:02:40,900
+In my little company, Case-Shiller Weiss,
+
+1468
+01:02:40,900 --> 01:02:42,900
+Incorporated, it was not public.
+
+1469
+01:02:42,900 --> 01:02:45,400
+So our balance sheet was
+
+1470
+01:02:45,400 --> 01:02:47,900
+never up there on the sec.gov.
+
+1471
+01:02:47,900 --> 01:02:50,900
+That's one of the disadvantages, many people say,
+
+1472
+01:02:50,900 --> 01:02:51,900
+of becoming public.
+
+1473
+01:02:51,900 --> 01:02:53,900
+If you start out as a private company,
+
+1474
+01:02:53,900 --> 01:02:55,900
+then you want to get listed on the stock exchange.
+
+1475
+01:02:55,900 --> 01:02:57,900
+That's called going public.
+
+1476
+01:02:57,900 --> 01:03:01,900
+When you go public, the SEC is on your back.
+
+1477
+01:03:01,900 --> 01:03:02,900
+And you say,
+
+1478
+01:03:02,900 --> 01:03:04,900
+I'm going to file a quarterly report.
+
+1479
+01:03:04,900 --> 01:03:08,900
+You now have to file those quarterly balance sheets.
+
+1480
+01:03:08,900 --> 01:03:09,900
+So this is what I've got.
+
+1481
+01:03:09,900 --> 01:03:11,900
+So this is Xerox.
+
+1482
+01:03:11,900 --> 01:03:14,900
+And it's all up there on sec.gov.
+
+1483
+01:03:14,900 --> 01:03:16,900
+And I've got it for 1999.
+
+1484
+01:03:16,900 --> 01:03:18,900
+This was right at the time
+
+1485
+01:03:18,900 --> 01:03:20,900
+when they were really in trouble,
+
+1486
+01:03:20,900 --> 01:03:26,900
+because the digital revolution was killing Xerox.
+
+1487
+01:03:26,900 --> 01:03:28,400
+And I just wanted to show
+
+1488
+01:03:28,400 --> 01:03:29,900
+a balance sheet of a company,
+
+1489
+01:03:29,900 --> 01:03:32,900
+because there's two sides to the balance sheet.
+
+1490
+01:03:32,900 --> 01:03:34,900
+One is assets and liabilities.
+
+1491
+01:03:34,900 --> 01:03:36,900
+Assets are things the company owns.
+
+1492
+01:03:36,900 --> 01:03:39,900
+Liabilities are debts the company has.
+
+1493
+01:03:39,900 --> 01:03:41,900
+So this is one side of the balance sheet.
+
+1494
+01:03:41,900 --> 01:03:44,900
+But I've got it for two years.
+
+1495
+01:03:44,900 --> 01:03:46,900
+And everything is in millions.
+
+1496
+01:03:46,900 --> 01:03:56,900
+So Xerox had $126 million in cash in 1999.
+
+1497
+01:03:56,900 --> 01:03:58,900
+And they picked up.
+
+1498
+01:03:58,900 --> 01:04:00,900
+They,
+
+1499
+01:04:00,900 --> 01:04:07,900
+the company was dying in 1999.
+
+1500
+01:04:07,900 --> 01:04:12,900
+In 2001, they hired a new CEO, Ann Mulcahy.
+
+1501
+01:04:12,900 --> 01:04:15,900
+And she is credited with saving Xerox,
+
+1502
+01:04:15,900 --> 01:04:17,900
+turning the company around.
+
+1503
+01:04:17,900 --> 01:04:20,900
+So by 2010, at least in terms of cash,
+
+1504
+01:04:20,900 --> 01:04:22,900
+they are doing better.
+
+1505
+01:04:22,900 --> 01:04:23,900
+But maybe not a lot better.
+
+1506
+01:04:23,900 --> 01:04:25,900
+She saved it from extinction.
+
+1507
+01:04:25,900 --> 01:04:27,900
+But she didn't save it,
+
+1508
+01:04:27,900 --> 01:04:29,900
+didn't move it back onto the nifty-fifty.
+
+1509
+01:04:30,900 --> 01:04:32,400
+So I just wanted to
+
+1510
+01:04:32,400 --> 01:04:33,900
+look at what a company owns.
+
+1511
+01:04:33,900 --> 01:04:35,900
+And this is just an example of a balance sheet.
+
+1512
+01:04:35,900 --> 01:04:42,900
+So Xerox owned $15 billion of receivables in 1999.
+
+1513
+01:04:42,900 --> 01:04:44,900
+It was a much lower number in 2010.
+
+1514
+01:04:44,900 --> 01:04:46,400
+I don't know, it might reflect
+
+1515
+01:04:46,400 --> 01:04:47,900
+time of the year or something.
+
+1516
+01:04:47,900 --> 01:04:50,900
+Receivables is money that's owed to them, right?
+
+1517
+01:04:50,900 --> 01:04:53,900
+They ship their copying machine to someone.
+
+1518
+01:04:53,900 --> 01:04:55,900
+The guy says, I'll pay you in three months.
+
+1519
+01:04:55,900 --> 01:04:57,900
+That's a receivable.
+
+1520
+01:04:57,900 --> 01:04:59,900
+And they had inventory.
+
+1521
+01:04:59,900 --> 01:05:01,900
+And they had inventories.
+
+1522
+01:05:01,900 --> 01:05:04,900
+That means probably copying machines ready to be sent out.
+
+1523
+01:05:04,900 --> 01:05:08,900
+And they own buildings.
+
+1524
+01:05:08,900 --> 01:05:13,900
+The building was, I think it went down under Mulcahy.
+
+1525
+01:05:13,900 --> 01:05:16,900
+It went down from $2.4 billion to $1.6 billion.
+
+1526
+01:05:16,900 --> 01:05:19,900
+And then there's a lot of other things.
+
+1527
+01:05:19,900 --> 01:05:22,900
+So the value of everything that the company owns
+
+1528
+01:05:22,900 --> 01:05:24,900
+wasn't much changed.
+
+1529
+01:05:24,900 --> 01:05:27,900
+$28.8 billion.
+
+1530
+01:05:29,900 --> 01:05:32,900
+It went up to $30 billion.
+
+1531
+01:05:32,900 --> 01:05:37,900
+So at least she stopped the company from failing.
+
+1532
+01:05:37,900 --> 01:05:39,900
+But now that's only half of the balance sheet.
+
+1533
+01:05:39,900 --> 01:05:41,900
+I have to go to the other half.
+
+1534
+01:05:41,900 --> 01:05:43,900
+And these are the liabilities.
+
+1535
+01:05:43,900 --> 01:05:49,900
+This is what the company owns.
+
+1536
+01:05:49,900 --> 01:05:50,900
+What it owes.
+
+1537
+01:05:50,900 --> 01:05:52,900
+So it has short-term debt.
+
+1538
+01:05:52,900 --> 01:05:53,900
+Let's talk about 2010.
+
+1539
+01:05:53,900 --> 01:05:55,900
+$1.6 billion.
+
+1540
+01:05:55,900 --> 01:05:57,900
+Long-term debt of $7.8 billion.
+
+1541
+01:05:57,900 --> 01:05:58,900
+Deferred taxes.
+
+1542
+01:05:58,900 --> 01:06:00,900
+They have to pay the taxes.
+
+1543
+01:06:00,900 --> 01:06:01,900
+They have to pay the large
+
+1544
+01:06:01,900 --> 01:06:02,900
+taxes that they know they have
+
+1545
+01:06:02,900 --> 01:06:04,900
+to pay that they haven't paid to.
+
+1546
+01:06:04,900 --> 01:06:06,900
+They didn't have any in 2010.
+
+1547
+01:06:06,900 --> 01:06:08,900
+And preferred stock.
+
+1548
+01:06:08,900 --> 01:06:12,900
+They did have a small amount of preferred stock outstanding,
+
+1549
+01:06:12,900 --> 01:06:15,900
+which counts as a liability.
+
+1550
+01:06:15,900 --> 01:06:17,900
+All right.
+
+1551
+01:06:17,900 --> 01:06:19,900
+And then other liabilities.
+
+1552
+01:06:19,900 --> 01:06:22,900
+I put them all into one category.
+
+1553
+01:06:22,900 --> 01:06:27,900
+Now, OK, this last liability is unique, because it's the
+
+1554
+01:06:27,900 --> 01:06:29,900
+shareholder's equity.
+
+1555
+01:06:29,900 --> 01:06:31,900
+So, what they did, this number, the total liabilities
+
+1556
+01:06:31,900 --> 01:06:33,900
+has to equal the total assets.
+
+1557
+01:06:33,900 --> 01:06:34,900
+This is the same number that
+
+1558
+01:06:34,900 --> 01:06:35,900
+I showed you on the preceding
+
+1559
+01:06:35,900 --> 01:06:37,900
+page.
+
+1560
+01:06:37,900 --> 01:06:38,900
+What's the difference?
+
+1561
+01:06:38,900 --> 01:06:40,900
+It's the shareholder's equity.
+
+1562
+01:06:40,900 --> 01:06:46,900
+OK, so it's $11.9 billion in 2010.
+
+1563
+01:06:46,900 --> 01:06:49,900
+Up from $4.9 billion.
+
+1564
+01:06:49,900 --> 01:06:53,900
+So, by this measure, it's a success.
+
+1565
+01:06:53,900 --> 01:06:55,900
+Now, why is shareholder's equity?
+
+1566
+01:06:55,900 --> 01:06:59,900
+No, it's the value of the company on the books.
+
+1567
+01:06:59,900 --> 01:07:01,900
+So, according to their books, I'll
+
+1568
+01:07:01,900 --> 01:07:03,900
+go back to the, they have
+
+1569
+01:07:03,900 --> 01:07:06,900
+all these assets, right, including buildings and
+
+1570
+01:07:06,900 --> 01:07:07,900
+equipment.
+
+1571
+01:07:07,900 --> 01:07:09,900
+Where did they come up with this number?
+
+1572
+01:07:09,900 --> 01:07:11,900
+How do they know what their buildings and equipment are
+
+1573
+01:07:11,900 --> 01:07:12,900
+worth?
+
+1574
+01:07:12,900 --> 01:07:14,900
+It's an estimate, OK, because
+
+1575
+01:07:14,900 --> 01:07:16,900
+who knows what they could sell
+
+1576
+01:07:16,900 --> 01:07:19,900
+them for?
+
+1577
+01:07:19,900 --> 01:07:22,900
+So, in principle, this shareholder's equity is what
+
+1578
+01:07:22,900 --> 01:07:24,900
+the shares are worth.
+
+1579
+01:07:24,900 --> 01:07:25,900
+All of the shares.
+
+1580
+01:07:25,900 --> 01:07:27,900
+$11.9 billion.
+
+1581
+01:07:27,900 --> 01:07:29,900
+Because if you bought the
+
+1582
+01:07:29,900 --> 01:07:31,900
+company, and you sold all the
+
+1583
+01:07:31,900 --> 01:07:33,400
+assets, and paid off all
+
+1584
+01:07:33,400 --> 01:07:34,900
+the debts, that's what would be
+
+1585
+01:07:34,900 --> 01:07:35,900
+left.
+
+1586
+01:07:35,900 --> 01:07:36,900
+So, you divide that by the
+
+1587
+01:07:36,900 --> 01:07:37,900
+number of shares, and you can
+
+1588
+01:07:37,900 --> 01:07:41,900
+get an estimate of the value of a share.
+
+1589
+01:07:41,900 --> 01:07:43,900
+But I say an estimate, it's
+
+1590
+01:07:43,900 --> 01:07:45,900
+not the same as the market value.
+
+1591
+01:07:45,900 --> 01:07:52,900
+In 2010, there were 1.4 billion shares outstanding in Xerox.
+
+1592
+01:07:52,900 --> 01:07:54,900
+The price per share of a Xerox was $1.9 billion.
+
+1593
+01:07:54,900 --> 01:07:58,400
+So, the share of a Xerox
+
+1594
+01:07:58,400 --> 01:08:01,900
+common share in 2010 was $11.80.
+
+1595
+01:08:01,900 --> 01:08:03,400
+So, if I multiply the number
+
+1596
+01:08:03,400 --> 01:08:04,900
+of shares by the price per share,
+
+1597
+01:08:04,900 --> 01:08:11,900
+the market cap for Xerox is $16.4 billion.
+
+1598
+01:08:11,900 --> 01:08:16,899
+Compare that with the shareholder's equity of $11.9
+
+1599
+01:08:16,899 --> 01:08:17,899
+billion.
+
+1600
+01:08:17,899 --> 01:08:20,899
+So, the company is worth more than its shareholder's equity.
+
+1601
+01:08:20,899 --> 01:08:22,899
+And you might ask, why would that be?
+
+1602
+01:08:22,899 --> 01:08:23,899
+OK.
+
+1603
+01:08:23,899 --> 01:08:26,399
+Well, I think the answer
+
+1604
+01:08:26,399 --> 01:08:28,899
+is, you wouldn't buy this company
+
+1605
+01:08:28,899 --> 01:08:30,899
+to shut it down, right?
+
+1606
+01:08:30,899 --> 01:08:32,899
+You could buy the company for
+
+1607
+01:08:32,899 --> 01:08:34,899
+$16 billion, and then shut it
+
+1608
+01:08:34,899 --> 01:08:36,899
+down, sell off all the assets,
+
+1609
+01:08:36,899 --> 01:08:38,899
+pay off all the debts, and
+
+1610
+01:08:38,899 --> 01:08:40,899
+you'd have $11 billion.
+
+1611
+01:08:40,899 --> 01:08:45,899
+So, that's a sign of Ann Mulcahy's success.
+
+1612
+01:08:45,899 --> 01:08:48,899
+Her company is not going to be shut down.
+
+1613
+01:08:48,899 --> 01:08:50,399
+If the stock price falls
+
+1614
+01:08:50,399 --> 01:08:51,899
+below the shareholder's equity, then,
+
+1615
+01:08:51,899 --> 01:08:54,899
+it becomes at risk for being shut down.
+
+1616
+01:08:54,899 --> 01:08:56,399
+Somebody buys the company and
+
+1617
+01:08:56,399 --> 01:08:57,899
+shuts it down, because I can
+
+1618
+01:08:57,899 --> 01:08:58,899
+make money.
+
+1619
+01:08:58,899 --> 01:09:00,399
+If the company were selling for
+
+1620
+01:09:00,399 --> 01:09:01,899
+$5 billion, I might do that.
+
+1621
+01:09:01,899 --> 01:09:02,899
+Well, not me.
+
+1622
+01:09:02,899 --> 01:09:06,899
+Somebody who arranges these things could do that.
+
+1623
+01:09:06,899 --> 01:09:08,899
+So, I buy the company for $5 billion.
+
+1624
+01:09:08,899 --> 01:09:10,899
+I tell everybody, you're all fired.
+
+1625
+01:09:10,899 --> 01:09:12,899
+We're going out of business.
+
+1626
+01:09:12,899 --> 01:09:13,899
+I sell it.
+
+1627
+01:09:13,899 --> 01:09:15,899
+I get $11.9 billion.
+
+1628
+01:09:15,899 --> 01:09:16,899
+I've doubled my money.
+
+1629
+01:09:16,899 --> 01:09:17,899
+All right?
+
+1630
+01:09:17,899 --> 01:09:19,899
+So, that's the way it is.
+
+1631
+01:09:19,899 --> 01:09:22,899
+All right?
+
+1632
+01:09:22,899 --> 01:09:25,899
+Now, a company can sell for less than the shareholder's
+
+1633
+01:09:25,899 --> 01:09:28,899
+equity, because the shareholder's equity is kind
+
+1634
+01:09:28,899 --> 01:09:29,899
+of a funny number.
+
+1635
+01:09:29,899 --> 01:09:32,899
+It's also called stockholder's equity by some people.
+
+1636
+01:09:32,899 --> 01:09:35,899
+Same thing.
+
+1637
+01:09:35,899 --> 01:09:37,899
+It's a funny number, because it involves all kinds of
+
+1638
+01:09:37,899 --> 01:09:38,899
+estimates.
+
+1639
+01:09:38,899 --> 01:09:39,899
+And you really try to sell
+
+1640
+01:09:39,899 --> 01:09:40,899
+that real estate for what it
+
+1641
+01:09:40,899 --> 01:09:42,899
+says here, you might find problems.
+
+1642
+01:09:42,899 --> 01:09:45,399
+So, the value, the market
+
+1643
+01:09:45,399 --> 01:09:47,899
+cap can fall below, the market
+
+1644
+01:09:47,899 --> 01:09:49,899
+capitalization can fall below shareholder's equity.
+
+1645
+01:09:49,899 --> 01:09:52,899
+But probably not too far below.
+
+1646
+01:09:52,899 --> 01:09:56,900
+And this is what worries boards and CEOs.
+
+1647
+01:09:56,900 --> 01:09:58,400
+They watch their stock price
+
+1648
+01:09:58,400 --> 01:09:59,900
+every day, and they've got in
+
+1649
+01:09:59,900 --> 01:10:01,900
+their mind that shareholder's equity.
+
+1650
+01:10:01,900 --> 01:10:03,400
+And if the stock is
+
+1651
+01:10:03,400 --> 01:10:04,900
+falling below that, then they're in
+
+1652
+01:10:04,900 --> 01:10:05,900
+danger of liquidation.
+
+1653
+01:10:05,900 --> 01:10:07,900
+So, they worry.
+
+1654
+01:10:07,900 --> 01:10:09,400
+And that's why every morning, if
+
+1655
+01:10:09,400 --> 01:10:10,900
+you are a CEO, you don't
+
+1656
+01:10:10,900 --> 01:10:12,400
+realize it, if you're a CEO
+
+1657
+01:10:12,400 --> 01:10:13,900
+of a public company, you will be
+
+1658
+01:10:13,900 --> 01:10:17,900
+watching your market cap every day and comparing that with
+
+1659
+01:10:17,900 --> 01:10:18,900
+shareholder's equity.
+
+1660
+01:10:18,900 --> 01:10:20,900
+So, Xerox is an example of
+
+1661
+01:10:20,900 --> 01:10:22,900
+a company that's doing all right
+
+1662
+01:10:22,900 --> 01:10:24,900
+now.
+
+1663
+01:10:24,900 --> 01:10:26,900
+I'll show you its price.
+
+1664
+01:10:26,900 --> 01:10:28,400
+I don't have it all the
+
+1665
+01:10:28,400 --> 01:10:29,900
+way back to 1906, but this is
+
+1666
+01:10:29,900 --> 01:10:31,900
+Xerox price per share.
+
+1667
+01:10:31,900 --> 01:10:36,900
+And it's corrected for splits and other special factors from
+
+1668
+01:10:36,900 --> 01:10:39,900
+1977 to 2001.
+
+1669
+01:10:39,900 --> 01:10:42,400
+And you can see the
+
+1670
+01:10:42,400 --> 01:10:44,900
+incredible crash they took after digital
+
+1671
+01:10:44,900 --> 01:10:46,900
+copying came in.
+
+1672
+01:10:46,900 --> 01:10:48,900
+They were in the middle of the world.
+
+1673
+01:10:48,900 --> 01:10:51,900
+And in the 1990s, they were soaring.
+
+1674
+01:10:51,900 --> 01:10:52,900
+They looked great.
+
+1675
+01:10:52,900 --> 01:10:54,900
+They must have been doing something right.
+
+1676
+01:10:54,900 --> 01:10:57,900
+But they had their heyday, and it's over.
+
+1677
+01:10:57,900 --> 01:11:00,900
+So, Ann Mulcahy came in when the company was utterly
+
+1678
+01:11:00,900 --> 01:11:01,900
+collapsing.
+
+1679
+01:11:01,900 --> 01:11:05,400
+And I guess she's a
+
+1680
+01:11:05,400 --> 01:11:08,900
+success, because it's not its former
+
+1681
+01:11:08,900 --> 01:11:09,900
+self.
+
+1682
+01:11:09,900 --> 01:11:11,900
+It's limping along.
+
+1683
+01:11:11,900 --> 01:11:15,900
+I want to tell you now about Microsoft.
+
+1684
+01:11:15,900 --> 01:11:16,900
+So, that was founded in 1975.
+
+1685
+01:11:16,900 --> 01:11:21,900
+By two people your age, I guess.
+
+1686
+01:11:21,900 --> 01:11:29,900
+And as of 2000, it had assets totaling $52 billion.
+
+1687
+01:11:29,900 --> 01:11:32,900
+And in the last 10 years, it's almost doubled it.
+
+1688
+01:11:32,900 --> 01:11:36,900
+So, its assets are $92 billion.
+
+1689
+01:11:36,900 --> 01:11:38,900
+What does it own?
+
+1690
+01:11:38,900 --> 01:11:42,900
+Well, it has cash of about $4 or $5 billion.
+
+1691
+01:11:42,900 --> 01:11:44,900
+Short-term investments.
+
+1692
+01:11:44,900 --> 01:11:45,900
+A lot of short-term investments.
+
+1693
+01:11:45,900 --> 01:11:50,900
+$37 billion of short-term investments.
+
+1694
+01:11:50,900 --> 01:11:53,900
+This is a company that's doing well.
+
+1695
+01:11:53,900 --> 01:11:57,900
+It's not on the end of its life.
+
+1696
+01:11:57,900 --> 01:11:59,900
+And it has property.
+
+1697
+01:11:59,900 --> 01:12:04,900
+They have this nice campus in Redmond, Washington.
+
+1698
+01:12:04,900 --> 01:12:05,900
+They call it a campus.
+
+1699
+01:12:05,900 --> 01:12:06,900
+It's fun.
+
+1700
+01:12:06,900 --> 01:12:11,900
+Fun place.
+
+1701
+01:12:11,900 --> 01:12:13,900
+Anyway, it's not that expensive.
+
+1702
+01:12:13,900 --> 01:12:15,900
+It's not that expensive.
+
+1703
+01:12:15,900 --> 01:12:17,900
+It's just that they have a lot of real estate.
+
+1704
+01:12:17,900 --> 01:12:20,900
+All their real estate now is only about $8 billion.
+
+1705
+01:12:20,900 --> 01:12:25,900
+And that's all of their computers and equipment.
+
+1706
+01:12:25,900 --> 01:12:27,900
+And then, they own stock.
+
+1707
+01:12:27,900 --> 01:12:29,400
+They don't just own, you
+
+1708
+01:12:29,400 --> 01:12:30,900
+know, this is really different from,
+
+1709
+01:12:30,900 --> 01:12:32,900
+Xerox doesn't own any stock.
+
+1710
+01:12:32,900 --> 01:12:34,900
+They're trying to limp by.
+
+1711
+01:12:34,900 --> 01:12:36,900
+They're trying to get back in stride.
+
+1712
+01:12:36,900 --> 01:12:38,900
+Maybe they have gotten back in stride.
+
+1713
+01:12:38,900 --> 01:12:41,900
+But they've got $10 billion in the stock market.
+
+1714
+01:12:41,900 --> 01:12:43,400
+And this is a company that
+
+1715
+01:12:43,400 --> 01:12:44,900
+didn't pay a dividend until recently.
+
+1716
+01:12:44,900 --> 01:12:46,900
+And it's, you know, Bill Gates and
+
+1717
+01:12:46,900 --> 01:12:48,900
+Paul Allen were still there running it.
+
+1718
+01:12:48,900 --> 01:12:50,900
+And maybe there's a little bit
+
+1719
+01:12:50,900 --> 01:12:52,900
+of truth in this pecking order model.
+
+1720
+01:12:52,900 --> 01:12:55,900
+They just wanted to save their own money.
+
+1721
+01:12:55,900 --> 01:12:57,900
+And they thought their shareholders would
+
+1722
+01:12:57,900 --> 01:12:59,900
+understand that Microsoft is doing so well.
+
+1723
+01:12:59,900 --> 01:13:02,900
+Are you really expecting us to pay your dividend out?
+
+1724
+01:13:02,900 --> 01:13:04,900
+We have all these opportunities.
+
+1725
+01:13:04,900 --> 01:13:06,900
+So, we'll keep the money.
+
+1726
+01:13:06,900 --> 01:13:09,400
+And people had enough faith in
+
+1727
+01:13:09,400 --> 01:13:11,900
+these guys to let them do it.
+
+1728
+01:13:11,900 --> 01:13:14,400
+So, by this account, the total
+
+1729
+01:13:14,400 --> 01:13:16,900
+assets of the company were $92 billion.
+
+1730
+01:13:16,900 --> 01:13:18,900
+But we have to look at liabilities.
+
+1731
+01:13:18,900 --> 01:13:20,900
+Remember, the shareholders'
+
+1732
+01:13:20,900 --> 01:13:22,900
+equity subtracts off liabilities.
+
+1733
+01:13:22,900 --> 01:13:28,900
+So, here are their liabilities.
+
+1734
+01:13:28,900 --> 01:13:33,900
+They have some income taxes that have to be paid.
+
+1735
+01:13:33,900 --> 01:13:35,900
+But this is just, it's only a billion dollars.
+
+1736
+01:13:35,900 --> 01:13:37,900
+That's like small change, right?
+
+1737
+01:13:37,900 --> 01:13:39,900
+It's because of some timing effects.
+
+1738
+01:13:39,900 --> 01:13:40,900
+Accounts payable.
+
+1739
+01:13:40,900 --> 01:13:41,900
+This is a small change.
+
+1740
+01:13:41,900 --> 01:13:43,900
+This is some money that they owe.
+
+1741
+01:13:43,900 --> 01:13:47,900
+They do owe money, because every company delays
+
+1742
+01:13:47,900 --> 01:13:51,900
+paying their bills for a little while, anyway.
+
+1743
+01:13:51,900 --> 01:13:53,900
+So, they have something.
+
+1744
+01:13:53,900 --> 01:13:59,400
+Unearned revenue is revenue that they,
+
+1745
+01:13:59,400 --> 01:14:04,900
+typical cases, they've sold a Windows system.
+
+1746
+01:14:04,900 --> 01:14:06,900
+They've got the money.
+
+1747
+01:14:06,900 --> 01:14:08,900
+But they really haven't completely earned it yet,
+
+1748
+01:14:08,900 --> 01:14:10,900
+because you're going to be calling up with complaints.
+
+1749
+01:14:10,900 --> 01:14:13,400
+They're going to have to do things in
+
+1750
+01:14:13,400 --> 01:14:15,900
+the future for the revenue that they've already earned.
+
+1751
+01:14:15,900 --> 01:14:17,900
+So, they count that as a liability.
+
+1752
+01:14:17,900 --> 01:14:20,900
+They didn't have any debt in 2000.
+
+1753
+01:14:20,900 --> 01:14:22,900
+This is strange, right?
+
+1754
+01:14:22,900 --> 01:14:24,900
+I think they were making so much money.
+
+1755
+01:14:24,900 --> 01:14:25,900
+Why should they borrow?
+
+1756
+01:14:25,900 --> 01:14:28,400
+For some reason, it's now up to about
+
+1757
+01:14:28,400 --> 01:14:30,900
+$10 billion, according to, I can't explain that.
+
+1758
+01:14:30,900 --> 01:14:32,900
+And so, all right.
+
+1759
+01:14:32,900 --> 01:14:34,400
+You add all these up
+
+1760
+01:14:34,400 --> 01:14:35,900
+and subtract them from $92 billion.
+
+1761
+01:14:35,900 --> 01:14:39,900
+And their shareholders' equity is $48 billion.
+
+1762
+01:14:39,900 --> 01:14:41,900
+So, they're doing pretty well.
+
+1763
+01:14:41,900 --> 01:14:43,900
+They're much bigger.
+
+1764
+01:14:43,900 --> 01:14:45,900
+Is that the way to measure Microsoft?
+
+1765
+01:14:45,900 --> 01:14:46,900
+Okay.
+
+1766
+01:14:46,900 --> 01:14:48,900
+This is a measure of the value of Microsoft.
+
+1767
+01:14:48,900 --> 01:14:51,900
+It's really the liquidation value of Microsoft.
+
+1768
+01:14:51,900 --> 01:14:56,400
+So, you could imagine buying Microsoft and then
+
+1769
+01:14:56,400 --> 01:15:00,900
+selling all those assets, shutting it down, firing everybody.
+
+1770
+01:15:00,900 --> 01:15:02,900
+Would that be a smart thing to do?
+
+1771
+01:15:02,900 --> 01:15:04,900
+You fire everybody.
+
+1772
+01:15:04,900 --> 01:15:06,900
+You sell the Redmond campus.
+
+1773
+01:15:06,900 --> 01:15:08,900
+You sell all of their computers.
+
+1774
+01:15:08,900 --> 01:15:09,900
+And what do you end up with?
+
+1775
+01:15:09,900 --> 01:15:11,900
+$48 billion.
+
+1776
+01:15:11,900 --> 01:15:16,900
+Well, let's compare that with the market cap of Microsoft.
+
+1777
+01:15:16,900 --> 01:15:21,900
+They have 8,497,000,000 shares outstanding.
+
+1778
+01:15:21,900 --> 01:15:24,400
+And the price per share at
+
+1779
+01:15:24,400 --> 01:15:26,900
+the end of 2010 was $26.
+
+1780
+01:15:26,900 --> 01:15:29,900
+So, the market cap is $221 billion.
+
+1781
+01:15:29,900 --> 01:15:33,900
+So, that's over five times their shareholders' equity.
+
+1782
+01:15:33,900 --> 01:15:36,900
+That means that they have some other value.
+
+1783
+01:15:36,900 --> 01:15:37,900
+I think I'm running out of time.
+
+1784
+01:15:37,900 --> 01:15:40,400
+This is a plot of –
+
+1785
+01:15:40,400 --> 01:15:42,900
+it's interesting what happens in the world.
+
+1786
+01:15:42,900 --> 01:15:45,900
+This is my last – I'll stop with this.
+
+1787
+01:15:45,900 --> 01:15:51,900
+This is the price per share of Microsoft.
+
+1788
+01:15:51,900 --> 01:15:54,900
+I should disclose, I'm now a shareholder.
+
+1789
+01:15:54,900 --> 01:15:58,900
+I wish I were a shareholder back then.
+
+1790
+01:15:58,900 --> 01:15:59,900
+Nobody believed it.
+
+1791
+01:15:59,900 --> 01:16:01,400
+This only goes back to 86, but
+
+1792
+01:16:01,400 --> 01:16:02,900
+the company – maybe it was private.
+
+1793
+01:16:02,900 --> 01:16:03,900
+I forget when it went public.
+
+1794
+01:16:03,900 --> 01:16:05,900
+So, we don't have prices.
+
+1795
+01:16:05,900 --> 01:16:06,900
+But then we have prices in 86.
+
+1796
+01:16:06,900 --> 01:16:11,900
+It really had a run until 2000.
+
+1797
+01:16:11,900 --> 01:16:14,900
+And then something broke with Microsoft as well.
+
+1798
+01:16:14,900 --> 01:16:16,900
+It looks a little bit like Xerox, doesn't it?
+
+1799
+01:16:16,900 --> 01:16:18,900
+I think it was the end of the high-tech bubble.
+
+1800
+01:16:18,900 --> 01:16:21,900
+This was a bubble in tech
+
+1801
+01:16:21,900 --> 01:16:24,900
+prices, and Microsoft rode the bubble.
+
+1802
+01:16:24,900 --> 01:16:26,900
+But it's still doing very well.
+
+1803
+01:16:26,900 --> 01:16:28,900
+It's just not going up lately.
+
+1804
+01:16:28,900 --> 01:16:30,900
+Anyway, this is an example.
+
+1805
+01:16:30,900 --> 01:16:32,900
+We're going to talk about real estate.
+
+1806
+01:16:32,900 --> 01:16:34,400
+The other asset class that I mentioned
+
+1807
+01:16:34,400 --> 01:16:35,900
+is even bigger than the stock market.
+
+1808
+01:16:36,900 --> 01:16:38,316
+And I'll talk about that
+
+1809
+01:16:38,316 --> 01:16:39,733
+in our next lecture on Wednesday.
+
