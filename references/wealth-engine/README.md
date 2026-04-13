@@ -35,3 +35,4 @@ Raw runtime JSONL logs are intentionally kept under `runtime/logs/wealth-engine/
 Curated knowledge guides:
 
 - `knowledge/video-playlists-money-wealth.md` for official video study paths across entrepreneurship, business, finance, economics, money, banking, markets, game theory, and chaos.
+- `knowledge/youtube-playlist-links-money-wealth.md` for verified direct YouTube playlist URLs and clearly marked course-page-only fallbacks.
