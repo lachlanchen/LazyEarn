@@ -1,0 +1,6388 @@
+1
+00:00:00,000 --> 00:00:01,760
+I want to talk today
+
+2
+00:00:01,760 --> 00:00:03,520
+about efficient markets, which is a
+
+3
+00:00:03,520 --> 00:00:08,920
+theory that is a half-truth, I will say.
+
+4
+00:00:08,920 --> 00:00:11,140
+Before I start, I wanted to
+
+5
+00:00:11,140 --> 00:00:13,360
+just give a few thoughts about
+
+6
+00:00:13,360 --> 00:00:17,600
+David Swenson's lecture last period.
+
+7
+00:00:17,600 --> 00:00:19,440
+Let me say, first of
+
+8
+00:00:19,440 --> 00:00:21,280
+all, the efficient markets is a
+
+9
+00:00:21,280 --> 00:00:26,560
+hypothesis, or the efficient markets theory is a theory that
+
+10
+00:00:26,560 --> 00:00:30,080
+markets efficiently incorporate all public
+
+11
+00:00:30,080 --> 00:00:32,400
+information.
+
+12
+00:00:32,400 --> 00:00:36,480
+And that therefore, you cannot beat the market, because the
+
+13
+00:00:36,480 --> 00:00:38,960
+market has all the information in it.
+
+14
+00:00:38,960 --> 00:00:41,200
+You think you're smarter than the market, that you know
+
+15
+00:00:41,200 --> 00:00:42,400
+something?
+
+16
+00:00:42,400 --> 00:00:45,200
+No, the market knows more than you do.
+
+17
+00:00:45,200 --> 00:00:48,800
+And you'll find out that the market wins every time.
+
+18
+00:00:48,800 --> 00:00:51,040
+That's the efficient markets hypothesis.
+
+19
+00:00:51,040 --> 00:00:55,120
+So, it's a very far-reaching hypothesis.
+
+20
+00:00:55,120 --> 00:00:56,320
+It means that
+
+21
+00:00:56,320 --> 00:00:56,560
+you can't
+
+22
+00:00:56,560 --> 00:00:57,120
+beat the market.
+
+23
+00:00:57,120 --> 00:00:58,000
+You can't beat the market.
+
+24
+00:00:58,000 --> 00:00:58,320
+You can't beat the market.
+
+25
+00:00:58,320 --> 00:00:58,720
+You can't beat the market.
+
+26
+00:00:58,720 --> 00:00:58,880
+You can't beat the market.
+
+27
+00:00:58,880 --> 00:00:58,960
+You can't beat the market.
+
+28
+00:00:58,960 --> 00:01:01,520
+So, that was a very rudimentary introduction to
+
+29
+00:01:01,520 --> 00:01:04,000
+today's lecture.
+
+30
+00:01:04,000 --> 00:01:07,360
+But here I brought in
+
+31
+00:01:07,360 --> 00:01:10,720
+David Swenson, who is claimed to
+
+32
+00:01:10,720 --> 00:01:14,560
+have beaten the market consistently since 1985, and
+
+33
+00:01:14,560 --> 00:01:17,440
+dramatically.
+
+34
+00:01:17,440 --> 00:01:18,880
+And so, what do we make of that?
+
+35
+00:01:22,000 --> 00:01:25,360
+That's the subject of today's lecture.
+
+36
+00:01:25,360 --> 00:01:26,320
+By the way, after Class
+
+37
+00:01:26,320 --> 00:01:28,639
+1 of you came up, thank you.
+
+38
+00:01:28,639 --> 00:01:29,279
+It was nice.
+
+39
+00:01:29,279 --> 00:01:31,440
+I don't know where you are.
+
+40
+00:01:31,440 --> 00:01:33,200
+One of you came up and
+
+41
+00:01:33,200 --> 00:01:34,960
+thanked Swenson for his scholarship at
+
+42
+00:01:34,960 --> 00:01:36,559
+Yale.
+
+43
+00:01:36,559 --> 00:01:43,119
+Yale now has need-blind admissions for the world.
+
+44
+00:01:43,119 --> 00:01:45,079
+And so, people, not just
+
+45
+00:01:45,079 --> 00:01:47,039
+from the United States, people are
+
+46
+00:01:47,039 --> 00:01:49,199
+helped out, so that people
+
+47
+00:01:49,199 --> 00:01:51,359
+who manage to meet the high
+
+48
+00:01:51,359 --> 00:01:55,679
+admissions standards here make it possible to actually come
+
+49
+00:01:55,680 --> 00:01:56,480
+here.
+
+50
+00:01:56,480 --> 00:02:00,000
+And that's partly, that's substantially David Swenson who
+
+51
+00:02:00,000 --> 00:02:00,960
+did that.
+
+52
+00:02:00,960 --> 00:02:04,080
+Because it's not just the generosity of the university.
+
+53
+00:02:04,080 --> 00:02:06,720
+They have to have the money to do it.
+
+54
+00:02:06,720 --> 00:02:09,680
+And so, somehow he seems to have made it.
+
+55
+00:02:09,680 --> 00:02:11,760
+Now, I know that there are still many cynics.
+
+56
+00:02:11,760 --> 00:02:16,720
+The efficient markets hypothesis remains, it has a lot
+
+57
+00:02:16,720 --> 00:02:18,640
+of adherence still.
+
+58
+00:02:18,640 --> 00:02:21,680
+And as I say, it's a half-truth.
+
+59
+00:02:21,680 --> 00:02:24,640
+So, some people will say, Swenson was just lucky.
+
+60
+00:02:24,640 --> 00:02:25,440
+And I say, well, how can you say that?
+
+61
+00:02:25,440 --> 00:02:27,360
+Well, how could he have been
+
+62
+00:02:27,360 --> 00:02:29,280
+lucky for 25 years in a row?
+
+63
+00:02:29,280 --> 00:02:32,800
+Well, not every single year, but pretty much.
+
+64
+00:02:32,800 --> 00:02:34,600
+And they'd say, well, but
+
+65
+00:02:34,600 --> 00:02:36,400
+you're picking the one guy out
+
+66
+00:02:36,400 --> 00:02:39,920
+of millions who was just the luckiest.
+
+67
+00:02:39,920 --> 00:02:43,360
+So, those arguments are made.
+
+68
+00:02:45,920 --> 00:02:49,640
+So, anyway, one of you asked
+
+69
+00:02:49,640 --> 00:02:53,360
+a question, which I thought was
+
+70
+00:02:53,360 --> 00:02:54,320
+very good at the end.
+
+71
+00:02:54,320 --> 00:02:54,880
+And that is, what is the
+
+72
+00:02:54,880 --> 00:02:55,440
+best way to get a job?
+
+73
+00:02:55,440 --> 00:02:57,360
+And that's why in all
+
+74
+00:02:57,360 --> 00:02:59,280
+of my discussion about Swenson and
+
+75
+00:02:59,280 --> 00:03:02,400
+all of his talk, he never mentioned the Sharpe ratio.
+
+76
+00:03:02,400 --> 00:03:06,160
+Because as we said, the
+
+77
+00:03:06,160 --> 00:03:09,920
+Sharpe ratio corrects for risk-taking.
+
+78
+00:03:09,920 --> 00:03:11,960
+It's easy to get, that
+
+79
+00:03:11,960 --> 00:03:14,000
+was one of our fundamental lessons
+
+80
+00:03:14,000 --> 00:03:16,480
+when we showed you the efficient portfolio frontier
+
+81
+00:03:16,480 --> 00:03:17,680
+and the tangency line.
+
+82
+00:03:17,680 --> 00:03:20,080
+You can get any expected
+
+83
+00:03:20,080 --> 00:03:22,480
+return you want at the expense
+
+84
+00:03:22,480 --> 00:03:24,320
+of higher uncertainty.
+
+85
+00:03:24,320 --> 00:03:26,279
+You do a very risky
+
+86
+00:03:26,279 --> 00:03:28,239
+portfolio, and you have high expected
+
+87
+00:03:28,239 --> 00:03:30,119
+returns because of the risk,
+
+88
+00:03:30,119 --> 00:03:32,000
+if the risk is measured right.
+
+89
+00:03:33,840 --> 00:03:36,440
+And so, but I think that's
+
+90
+00:03:36,440 --> 00:03:39,040
+a very good question, because I
+
+91
+00:03:39,040 --> 00:03:41,519
+caught myself not correcting for it.
+
+92
+00:03:41,519 --> 00:03:43,519
+I just said, Yale's portfolio
+
+93
+00:03:43,519 --> 00:03:45,519
+had a high return, and I
+
+94
+00:03:45,519 --> 00:03:49,920
+didn't correct for standard deviation of return.
+
+95
+00:03:52,320 --> 00:03:54,160
+So, David Swenson.
+
+96
+00:03:54,320 --> 00:03:59,440
+And his answer, as you'll recall, essentially said, he
+
+97
+00:03:59,440 --> 00:04:03,600
+doesn't believe in Sharpe ratios, because we can't
+
+98
+00:04:03,600 --> 00:04:05,200
+measure the standard deviation.
+
+99
+00:04:05,200 --> 00:04:07,560
+So, the Sharpe ratio is
+
+100
+00:04:07,560 --> 00:04:09,920
+the excess return of a portfolio
+
+101
+00:04:09,920 --> 00:04:12,959
+over the market, divided by the standard deviation of the
+
+102
+00:04:12,959 --> 00:04:14,079
+return.
+
+103
+00:04:14,079 --> 00:04:14,560
+Okay?
+
+104
+00:04:14,560 --> 00:04:15,840
+And that scales it down.
+
+105
+00:04:15,840 --> 00:04:18,040
+So, if the excess return is
+
+106
+00:04:18,040 --> 00:04:20,240
+very high, but it also has a
+
+107
+00:04:20,240 --> 00:04:23,120
+very high standard deviation, that shows they were just
+
+108
+00:04:23,120 --> 00:04:24,000
+taking risks.
+
+109
+00:04:24,320 --> 00:04:28,080
+And so, the Sharpe ratio would reveal that.
+
+110
+00:04:28,080 --> 00:04:29,360
+But Swenson said, I don't
+
+111
+00:04:29,360 --> 00:04:30,640
+think that you can measure the
+
+112
+00:04:30,640 --> 00:04:32,480
+standard deviation of returns.
+
+113
+00:04:32,480 --> 00:04:33,280
+Isn't that what his answer was?
+
+114
+00:04:33,280 --> 00:04:35,360
+You were here.
+
+115
+00:04:35,360 --> 00:04:37,840
+I may not be quoting him exactly right.
+
+116
+00:04:37,840 --> 00:04:39,600
+So, why wouldn't you be
+
+117
+00:04:39,600 --> 00:04:41,360
+able to measure the standard deviation
+
+118
+00:04:41,360 --> 00:04:43,440
+of returns?
+
+119
+00:04:43,440 --> 00:04:45,680
+And I think there's, he gave
+
+120
+00:04:45,680 --> 00:04:47,920
+a reason, which was that, well,
+
+121
+00:04:47,920 --> 00:04:50,039
+when you're looking at a broad
+
+122
+00:04:50,039 --> 00:04:52,159
+portfolio like Yale's, a lot of
+
+123
+00:04:52,159 --> 00:04:54,080
+the things in there are private assets.
+
+124
+00:04:54,320 --> 00:04:55,840
+So, you can't just say,
+
+125
+00:04:55,840 --> 00:04:57,360
+well, it's equity, or that means
+
+126
+00:04:57,360 --> 00:05:00,080
+privately held, so it's not traded on stock exchanges.
+
+127
+00:05:00,080 --> 00:05:03,920
+Or it's real estate.
+
+128
+00:05:03,920 --> 00:05:05,920
+Real estate is only traded
+
+129
+00:05:05,920 --> 00:05:07,920
+every 10 years or 20 years.
+
+130
+00:05:07,920 --> 00:05:10,000
+And so, who knows what it's worth?
+
+131
+00:05:10,000 --> 00:05:12,159
+All you have is an appraisal.
+
+132
+00:05:12,159 --> 00:05:14,320
+But that's just some appraiser's estimate.
+
+133
+00:05:14,320 --> 00:05:18,480
+So, it's not, the standard deviation would be artificially
+
+134
+00:05:18,480 --> 00:05:19,039
+low.
+
+135
+00:05:19,039 --> 00:05:20,159
+So, he's right about that.
+
+136
+00:05:20,159 --> 00:05:22,159
+But I think there's even more to that.
+
+137
+00:05:22,159 --> 00:05:22,800
+More to the.
+
+138
+00:05:22,800 --> 00:05:24,159
+I know there's more to this.
+
+139
+00:05:24,320 --> 00:05:26,320
+But I think there's more to this.
+
+140
+00:05:26,320 --> 00:05:32,120
+And the point that I wanted to
+
+141
+00:05:32,120 --> 00:05:37,920
+make is that you can do a,
+
+142
+00:05:37,920 --> 00:05:40,480
+suppose you're managing money, OK?
+
+143
+00:05:40,480 --> 00:05:42,280
+And suppose the world out there
+
+144
+00:05:42,280 --> 00:05:44,080
+is evaluating you by your Sharpe
+
+145
+00:05:44,080 --> 00:05:45,760
+ratio, OK?
+
+146
+00:05:45,760 --> 00:05:48,560
+And suppose you have no ethics, OK?
+
+147
+00:05:48,560 --> 00:05:51,360
+Well, you just want money.
+
+148
+00:05:51,360 --> 00:05:54,159
+This isn't so obviously criminal.
+
+149
+00:05:54,160 --> 00:05:54,720
+I suppose.
+
+150
+00:05:54,720 --> 00:05:56,360
+But so, you say, I just want
+
+151
+00:05:56,360 --> 00:05:58,000
+to have the best Sharpe ratio for
+
+152
+00:05:58,000 --> 00:06:00,160
+a number of years running, OK?
+
+153
+00:06:00,160 --> 00:06:01,680
+And I'll get more and more
+
+154
+00:06:01,680 --> 00:06:03,200
+people that will put money in
+
+155
+00:06:03,200 --> 00:06:04,240
+my investment fund.
+
+156
+00:06:05,280 --> 00:06:09,040
+And eventually, I don't care what happens, I'll move to
+
+157
+00:06:09,040 --> 00:06:10,000
+Brazil or something.
+
+158
+00:06:10,640 --> 00:06:11,280
+Or some foreign.
+
+159
+00:06:11,280 --> 00:06:12,240
+I mean, to pick out one.
+
+160
+00:06:12,800 --> 00:06:14,160
+I want to get out
+
+161
+00:06:14,160 --> 00:06:15,520
+of here with the money, OK?
+
+162
+00:06:15,520 --> 00:06:17,040
+So, all I have to do is
+
+163
+00:06:17,040 --> 00:06:18,560
+fool people into thinking I have a
+
+164
+00:06:18,560 --> 00:06:20,080
+high Sharpe ratio for a while.
+
+165
+00:06:20,640 --> 00:06:21,520
+So, what do I do?
+
+166
+00:06:22,400 --> 00:06:24,000
+Well, there's an interesting, you know, there's a lot of
+
+167
+00:06:24,000 --> 00:06:26,960
+papers on this, but I'm going
+
+168
+00:06:26,960 --> 00:06:29,920
+to cite one by Professor Getzman
+
+169
+00:06:29,920 --> 00:06:32,720
+and co-authors here at Yale.
+
+170
+00:06:32,720 --> 00:06:43,120
+It's actually Getzman, Ibbotson, Spiegel and Welch.
+
+171
+00:06:43,120 --> 00:06:45,440
+Well, maybe I'll put all their names.
+
+172
+00:06:45,440 --> 00:06:46,560
+But it's interesting.
+
+173
+00:06:46,560 --> 00:06:48,520
+There's an interesting paper on this
+
+174
+00:06:48,520 --> 00:06:50,480
+by, well, there's a lot of
+
+175
+00:06:50,480 --> 00:06:51,840
+papers on this, but I'm going
+
+176
+00:06:51,840 --> 00:06:53,200
+to cite one by Professor Getzman.
+
+177
+00:06:54,000 --> 00:07:01,440
+So, Roger Ibbotson, his professor here, Matt Spiegel and
+
+178
+00:07:01,440 --> 00:07:02,160
+Ivo Welch.
+
+179
+00:07:03,520 --> 00:07:06,800
+What they did is, they calculated the optimal strategy
+
+180
+00:07:06,800 --> 00:07:08,480
+for someone who wants to
+
+181
+00:07:08,480 --> 00:07:10,160
+play games with the Sharpe ratio,
+
+182
+00:07:10,160 --> 00:07:10,800
+all right?
+
+183
+00:07:10,800 --> 00:07:13,240
+So, you want to fool investors
+
+184
+00:07:13,240 --> 00:07:15,680
+and get a spuriously high Sharpe
+
+185
+00:07:15,680 --> 00:07:16,160
+ratio.
+
+186
+00:07:16,960 --> 00:07:18,800
+And they found out what
+
+187
+00:07:18,800 --> 00:07:20,640
+the optimal strategy is, and that
+
+188
+00:07:20,640 --> 00:07:22,280
+is to get rid of
+
+189
+00:07:22,280 --> 00:07:23,920
+the, to sell off the tail.
+
+190
+00:07:24,000 --> 00:07:25,320
+And that's the way you get
+
+191
+00:07:25,320 --> 00:07:26,640
+rid of the tails of your
+
+192
+00:07:26,640 --> 00:07:28,160
+distribution of returns.
+
+193
+00:07:28,160 --> 00:07:31,040
+So, if your return distribution
+
+194
+00:07:31,040 --> 00:07:33,920
+looks like this, this is return,
+
+195
+00:07:33,920 --> 00:07:38,640
+okay, and you have a probability distribution, say,
+
+196
+00:07:38,640 --> 00:07:44,880
+a bell-shaped curve, okay, and so, the mean and standard
+
+197
+00:07:44,880 --> 00:07:46,600
+deviation of this would be
+
+198
+00:07:46,600 --> 00:07:48,320
+the inputs to the Sharpe ratio.
+
+199
+00:07:48,320 --> 00:07:49,920
+But if you're a cynical and
+
+200
+00:07:49,920 --> 00:07:51,520
+you want to play tricks, what you
+
+201
+00:07:51,520 --> 00:07:53,840
+can do is sell the upper tail.
+
+202
+00:07:54,000 --> 00:07:57,600
+So, which is very, these are very unlikely good events.
+
+203
+00:07:57,600 --> 00:07:59,600
+Sell them and get money now.
+
+204
+00:08:01,040 --> 00:08:03,280
+And then double up on the lower tail.
+
+205
+00:08:03,280 --> 00:08:04,960
+So, you push the lower tail
+
+206
+00:08:04,960 --> 00:08:06,640
+to something like that, and you
+
+207
+00:08:06,640 --> 00:08:08,320
+wipe out the upper tail, so
+
+208
+00:08:08,320 --> 00:08:10,000
+it goes like that, all right?
+
+209
+00:08:10,960 --> 00:08:12,560
+So, that means you will
+
+210
+00:08:12,560 --> 00:08:14,160
+get money, because you've sold the
+
+211
+00:08:14,160 --> 00:08:14,960
+upper tail.
+
+212
+00:08:14,960 --> 00:08:17,840
+You would do that by selling call.
+
+213
+00:08:17,840 --> 00:08:18,960
+We haven't talked about options yet,
+
+214
+00:08:18,960 --> 00:08:20,080
+but you could do it by
+
+215
+00:08:20,080 --> 00:08:22,080
+selling calls on the upper tail.
+
+216
+00:08:22,080 --> 00:08:23,120
+So, that's the way you do it.
+
+217
+00:08:23,120 --> 00:08:23,680
+All right.
+
+218
+00:08:23,680 --> 00:08:27,280
+So, you would do this by writing out-of-the-money calls.
+
+219
+00:08:27,280 --> 00:08:30,720
+And you would do this by writing out-of-the-money puts.
+
+220
+00:08:30,720 --> 00:08:32,280
+Okay, but what you do is, you
+
+221
+00:08:32,280 --> 00:08:33,840
+kill the, you make it so that
+
+222
+00:08:33,840 --> 00:08:35,360
+there's really a bad year.
+
+223
+00:08:35,360 --> 00:08:37,480
+It's going to be a
+
+224
+00:08:37,480 --> 00:08:39,600
+doozer bad year for your investors.
+
+225
+00:08:39,600 --> 00:08:40,600
+And if there's ever a good
+
+226
+00:08:40,600 --> 00:08:41,600
+year, then, hey, you won't get
+
+227
+00:08:41,600 --> 00:08:43,200
+it, all right?
+
+228
+00:08:43,200 --> 00:08:46,400
+Well, these good or bad years occur only infrequently.
+
+229
+00:08:46,400 --> 00:08:49,360
+So, in the meantime, you're making profits from these sales
+
+230
+00:08:49,360 --> 00:08:51,520
+and you have a high Sharpe ratio.
+
+231
+00:08:51,520 --> 00:08:52,520
+But little do they know
+
+232
+00:08:52,520 --> 00:08:53,520
+that nothing, you know, you're not
+
+233
+00:08:53,520 --> 00:08:54,560
+going to get a good year.
+
+234
+00:08:54,560 --> 00:08:58,240
+You see, nothing, you've sold off the tails.
+
+235
+00:08:58,240 --> 00:08:59,520
+And so, nothing happens for
+
+236
+00:08:59,520 --> 00:09:00,800
+many years, and you just look
+
+237
+00:09:00,800 --> 00:09:02,800
+like the best guy there.
+
+238
+00:09:02,800 --> 00:09:06,400
+So, that's an example.
+
+239
+00:09:06,400 --> 00:09:11,600
+Now, it turns out that this is not just academic.
+
+240
+00:09:11,600 --> 00:09:19,360
+There was a company called Integral Investment Management
+
+241
+00:09:19,360 --> 00:09:21,600
+that did something like this strategy.
+
+242
+00:09:21,600 --> 00:09:22,640
+It was a hedge fund.
+
+243
+00:09:22,640 --> 00:09:31,520
+And so, it was Integral Investment Management.
+
+244
+00:09:31,520 --> 00:09:42,880
+It did something like this by trading in options.
+
+245
+00:09:42,880 --> 00:09:45,520
+And it got lots of investors, put millions in them.
+
+246
+00:09:45,520 --> 00:09:50,560
+Notably, the Art Institute of Chicago put $43 million into
+
+247
+00:09:50,560 --> 00:09:52,480
+this fund and its associated funds.
+
+248
+00:09:52,640 --> 00:09:55,720
+And then, in 2001, when
+
+249
+00:09:55,720 --> 00:09:58,800
+the market dropped a lot, Art
+
+250
+00:09:58,800 --> 00:10:01,520
+Institute of Chicago was wiped out.
+
+251
+00:10:01,520 --> 00:10:05,439
+They lost almost all of their $43 million.
+
+252
+00:10:05,439 --> 00:10:07,959
+And so, they got really
+
+253
+00:10:07,959 --> 00:10:10,480
+angry and they sued this company
+
+254
+00:10:10,480 --> 00:10:14,480
+because they said, you didn't tell us.
+
+255
+00:10:14,480 --> 00:10:16,160
+What have you been doing?
+
+256
+00:10:16,160 --> 00:10:17,600
+And then, well, the company
+
+257
+00:10:17,600 --> 00:10:19,040
+pointed out in its defense that
+
+258
+00:10:19,040 --> 00:10:19,840
+it actually said somewhere in
+
+259
+00:10:19,840 --> 00:10:20,640
+the fine print that if you're
+
+260
+00:10:20,640 --> 00:10:21,640
+going to sell something, you
+
+261
+00:10:21,640 --> 00:10:22,640
+have to have a good deal.
+
+262
+00:10:22,640 --> 00:10:24,320
+And if markets go down more
+
+263
+00:10:24,320 --> 00:10:26,000
+than 30%, there would be a
+
+264
+00:10:26,000 --> 00:10:26,960
+problem.
+
+265
+00:10:26,960 --> 00:10:28,560
+And somehow, nobody at the
+
+266
+00:10:28,560 --> 00:10:30,160
+Art Institute, nobody read that or
+
+267
+00:10:30,160 --> 00:10:31,840
+figured it out.
+
+268
+00:10:31,840 --> 00:10:34,080
+They thought the guy was a genius, because this company
+
+269
+00:10:34,080 --> 00:10:36,880
+had the highest Sharpe ratio in the industry.
+
+270
+00:10:36,880 --> 00:10:37,360
+All right?
+
+271
+00:10:37,360 --> 00:10:38,400
+You see what they're doing?
+
+272
+00:10:38,400 --> 00:10:40,640
+They're playing tricks.
+
+273
+00:10:40,640 --> 00:10:44,480
+They're making it look like there's less risk than there
+
+274
+00:10:44,480 --> 00:10:45,520
+really is.
+
+275
+00:10:45,520 --> 00:10:48,720
+And there's a strategy to do that.
+
+276
+00:10:48,720 --> 00:10:51,680
+But it didn't end well for Integral Investment Management,
+
+277
+00:10:51,680 --> 00:10:52,000
+because.
+
+278
+00:10:52,000 --> 00:10:53,880
+The Art Institute of Chicago
+
+279
+00:10:53,880 --> 00:10:55,760
+managed to stick them on other
+
+280
+00:10:55,760 --> 00:10:56,160
+things.
+
+281
+00:10:56,160 --> 00:10:57,760
+They disclosed this.
+
+282
+00:10:57,760 --> 00:11:03,280
+They told people that they were doing this strategy.
+
+283
+00:11:03,280 --> 00:11:07,040
+The artists didn't figure it out.
+
+284
+00:11:07,040 --> 00:11:10,080
+But there were other dishonesties that they got.
+
+285
+00:11:10,080 --> 00:11:12,160
+They nailed these guys on.
+
+286
+00:11:12,160 --> 00:11:18,000
+So, this comes back.
+
+287
+00:11:18,000 --> 00:11:19,760
+Let me say, what Goetzmann
+
+288
+00:11:19,760 --> 00:11:21,520
+and his co-authors did is, they
+
+289
+00:11:21,520 --> 00:11:23,120
+showed that you can play tricks
+
+290
+00:11:23,120 --> 00:11:24,720
+with the – you can play
+
+291
+00:11:24,720 --> 00:11:26,400
+a lot of tricks in finance.
+
+292
+00:11:26,400 --> 00:11:27,840
+But one of them is play
+
+293
+00:11:27,840 --> 00:11:29,280
+a trick with the Sharpe ratio.
+
+294
+00:11:29,280 --> 00:11:31,120
+But their trick was very explicit.
+
+295
+00:11:31,120 --> 00:11:34,000
+It involved particular portfolio composition,
+
+296
+00:11:34,000 --> 00:11:35,439
+involving options.
+
+297
+00:11:35,439 --> 00:11:38,480
+And any professional would immediately know that that's a
+
+298
+00:11:38,480 --> 00:11:40,000
+trick.
+
+299
+00:11:40,000 --> 00:11:42,160
+And it didn't work for these guys.
+
+300
+00:11:42,160 --> 00:11:45,199
+They were too aggressive in their manipulation.
+
+301
+00:11:45,199 --> 00:11:47,599
+But you can do subtler things
+
+302
+00:11:47,599 --> 00:11:50,000
+as a portfolio manager to get
+
+303
+00:11:50,000 --> 00:11:51,199
+your Sharpe ratio up.
+
+304
+00:11:51,520 --> 00:11:52,560
+And you can do that.
+
+305
+00:11:52,560 --> 00:11:58,560
+Instead of manipulating with special derivatives positions,
+
+306
+00:11:58,560 --> 00:12:07,760
+you could just buy companies that have large left tails.
+
+307
+00:12:07,760 --> 00:12:11,199
+They have a small probability of massive losses.
+
+308
+00:12:11,199 --> 00:12:12,160
+Right?
+
+309
+00:12:12,160 --> 00:12:14,800
+And you haven't done anything except pick a stock.
+
+310
+00:12:14,800 --> 00:12:18,079
+And nobody knows whether it really has a small probability
+
+311
+00:12:18,079 --> 00:12:19,360
+of massive losses.
+
+312
+00:12:19,360 --> 00:12:20,560
+Right?
+
+313
+00:12:20,560 --> 00:12:23,920
+And you could systematically invest in that.
+
+314
+00:12:23,920 --> 00:12:25,360
+And then you'd have a
+
+315
+00:12:25,360 --> 00:12:26,800
+high Sharpe ratio for a while.
+
+316
+00:12:26,800 --> 00:12:31,119
+And then you'd just blow up and lose everything eventually.
+
+317
+00:12:31,119 --> 00:12:33,920
+I was thinking of an example from recent news.
+
+318
+00:12:33,920 --> 00:12:39,280
+What about the strategy of investing in Egyptian companies
+
+319
+00:12:39,280 --> 00:12:41,280
+that are tied to Mubarak?
+
+320
+00:12:41,280 --> 00:12:45,280
+Okay.
+
+321
+00:12:45,280 --> 00:12:46,640
+It might have looked very
+
+322
+00:12:46,640 --> 00:12:48,000
+good for a long time, right?
+
+323
+00:12:48,000 --> 00:12:48,200
+But the companies might have been underpriced, because
+
+324
+00:12:48,200 --> 00:12:48,400
+they're not going to be able to do that.
+
+325
+00:12:48,400 --> 00:12:48,560
+Right?
+
+326
+00:12:48,560 --> 00:12:48,640
+Right?
+
+327
+00:12:48,640 --> 00:12:48,719
+Right?
+
+328
+00:12:48,719 --> 00:12:48,959
+Right?
+
+329
+00:12:48,959 --> 00:12:49,040
+Right?
+
+330
+00:12:49,040 --> 00:12:49,119
+Right?
+
+331
+00:12:49,119 --> 00:12:49,280
+Right?
+
+332
+00:12:49,280 --> 00:12:49,359
+Right?
+
+333
+00:12:49,359 --> 00:12:49,439
+Right?
+
+334
+00:12:49,439 --> 00:12:49,680
+Right?
+
+335
+00:12:49,680 --> 00:12:49,760
+Right?
+
+336
+00:12:49,760 --> 00:12:49,920
+Right?
+
+337
+00:12:49,920 --> 00:12:50,000
+Right?
+
+338
+00:12:50,000 --> 00:12:50,239
+Right?
+
+339
+00:12:50,239 --> 00:12:50,319
+Right?
+
+340
+00:12:50,319 --> 00:12:50,400
+Right?
+
+341
+00:12:50,400 --> 00:12:50,479
+Right?
+
+342
+00:12:50,479 --> 00:12:50,560
+Right?
+
+343
+00:12:50,560 --> 00:12:50,959
+Right?
+
+344
+00:12:50,959 --> 00:12:51,520
+Right?
+
+345
+00:12:51,520 --> 00:12:51,839
+Right?
+
+346
+00:12:51,839 --> 00:12:53,680
+What were they doing?
+
+347
+00:12:53,680 --> 00:12:55,199
+But they aren't really getting into it.
+
+348
+00:12:55,199 --> 00:12:56,239
+Right?
+
+349
+00:12:56,239 --> 00:12:58,880
+That's a bigometris Karol.
+
+350
+00:13:18,880 --> 00:13:19,680
+That was powerful.
+
+351
+00:13:19,680 --> 00:13:19,959
+Thanks for the presentation.
+
+352
+00:13:19,959 --> 00:13:20,119
+Thank you so much.
+
+353
+00:13:20,119 --> 00:13:20,160
+Thanks.
+
+354
+00:13:20,160 --> 00:13:23,410
+So, what I'm getting at is
+
+355
+00:13:23,410 --> 00:13:26,660
+really, what is the essence of
+
+356
+00:13:26,660 --> 00:13:30,920
+Swenson's skill or contribution?
+
+357
+00:13:30,920 --> 00:13:35,400
+It's not his ability to manipulate Sharpe ratios or
+
+358
+00:13:35,400 --> 00:13:36,719
+numbers like that.
+
+359
+00:13:36,719 --> 00:13:38,639
+I think what it has to me,
+
+360
+00:13:38,639 --> 00:13:40,560
+in my mind, is something to do
+
+361
+00:13:40,560 --> 00:13:49,560
+with character and his real self and his real objective.
+
+362
+00:13:49,560 --> 00:13:52,060
+And this gets at what
+
+363
+00:13:52,060 --> 00:13:54,560
+people in finance are really doing.
+
+364
+00:13:54,560 --> 00:13:56,180
+I think that when you
+
+365
+00:13:56,180 --> 00:13:57,800
+take a finance course in a
+
+366
+00:13:57,800 --> 00:14:01,059
+university, you may not get
+
+367
+00:14:01,059 --> 00:14:04,319
+a proper appreciation of how one
+
+368
+00:14:04,319 --> 00:14:07,119
+in a career in finance develops a reputation for
+
+369
+00:14:07,119 --> 00:14:09,060
+integrity.
+
+370
+00:14:09,060 --> 00:14:12,800
+Nobody can really judge what you're doing as an investor,
+
+371
+00:14:12,800 --> 00:14:15,319
+because they can't judge it from the statistics.
+
+372
+00:14:15,319 --> 00:14:17,800
+Even though we've developed this knowledge, we can't
+
+373
+00:14:17,800 --> 00:14:19,319
+judge it from the statistics.
+
+374
+00:14:19,320 --> 00:14:20,820
+And so, you end up
+
+375
+00:14:20,820 --> 00:14:22,320
+with this nice theory about Sharpe
+
+376
+00:14:22,320 --> 00:14:24,080
+ratios and the like.
+
+377
+00:14:24,080 --> 00:14:25,820
+You end up judging the
+
+378
+00:14:25,820 --> 00:14:27,560
+person and what the person's real
+
+379
+00:14:27,560 --> 00:14:30,080
+objectives are.
+
+380
+00:14:30,080 --> 00:14:34,080
+So, I'll probably come back to that theme again.
+
+381
+00:14:34,080 --> 00:14:37,820
+Let me also say this about doing the Getzman.
+
+382
+00:14:37,820 --> 00:14:40,080
+Do you understand this strategy?
+
+383
+00:14:40,080 --> 00:14:45,080
+It's a matter of, it's like selling, investing in
+
+384
+00:14:45,080 --> 00:14:46,700
+securities with time bombs in them,
+
+385
+00:14:46,700 --> 00:14:48,320
+that are going to go off
+
+386
+00:14:48,320 --> 00:14:49,320
+eventually.
+
+387
+00:14:49,320 --> 00:14:51,500
+And they look good for
+
+388
+00:14:51,500 --> 00:14:53,680
+a while, but they'll blow up.
+
+389
+00:14:53,680 --> 00:14:55,480
+What does the law say about this?
+
+390
+00:14:55,480 --> 00:15:00,080
+Well, the law in the United States and other countries
+
+391
+00:15:00,080 --> 00:15:05,120
+emphasizes that an investment manager must not fail to
+
+392
+00:15:05,120 --> 00:15:09,680
+disclose relevant information about a security.
+
+393
+00:15:09,680 --> 00:15:12,600
+And it has to be more than boilerplate disclosure.
+
+394
+00:15:12,600 --> 00:15:14,680
+You could write a prospectus,
+
+395
+00:15:14,680 --> 00:15:16,760
+and you could say, for say,
+
+396
+00:15:16,760 --> 00:15:18,480
+integral investment management, you could write up a
+
+397
+00:15:18,480 --> 00:15:19,200
+prospectus.
+
+398
+00:15:19,200 --> 00:15:20,700
+And then say, but of course,
+
+399
+00:15:20,700 --> 00:15:22,200
+past returns are not a guide
+
+400
+00:15:22,200 --> 00:15:25,040
+to the future, and something could go wrong.
+
+401
+00:15:25,040 --> 00:15:27,200
+That's a boilerplate disclosure.
+
+402
+00:15:27,200 --> 00:15:30,360
+Because people think, well, that's what everybody says.
+
+403
+00:15:30,360 --> 00:15:34,040
+The law says that you have to actually actively disclose.
+
+404
+00:15:34,040 --> 00:15:37,880
+If there's something that's relevant that would make your
+
+405
+00:15:37,880 --> 00:15:42,340
+statistics misleading, you have to get their attention
+
+406
+00:15:42,340 --> 00:15:44,060
+and explain it to them.
+
+407
+00:15:44,060 --> 00:15:46,520
+That's the law.
+
+408
+00:15:46,520 --> 00:15:47,760
+So, I think it's laws
+
+409
+00:15:47,760 --> 00:15:49,000
+like that, and it's the development
+
+410
+00:15:49,000 --> 00:15:50,000
+of character.
+
+411
+00:15:50,000 --> 00:15:54,080
+So, it's not something that we specialize in academia.
+
+412
+00:15:54,080 --> 00:15:54,580
+Well, we are.
+
+413
+00:15:54,580 --> 00:15:56,240
+We're trying to develop character, I suppose.
+
+414
+00:15:56,240 --> 00:15:59,200
+But it's not just sharp ratios.
+
+415
+00:15:59,200 --> 00:16:01,080
+And I think that tendencies to
+
+416
+00:16:01,080 --> 00:16:02,960
+rely on numbers like this has
+
+417
+00:16:02,960 --> 00:16:06,700
+led to errors in the past.
+
+418
+00:16:06,700 --> 00:16:11,920
+So, let me go more directly into today's lecture.
+
+419
+00:16:11,920 --> 00:16:15,960
+And it's about the efficient markets hypothesis, which is,
+
+420
+00:16:15,960 --> 00:16:17,880
+in the United States, the most common hypothesis.
+
+421
+00:16:17,880 --> 00:16:18,840
+And it's not just sharp ratios.
+
+422
+00:16:18,840 --> 00:16:29,600
+It is, to me, a fascinating theory, which is not
+
+423
+00:16:29,600 --> 00:16:33,080
+completely true, which makes it all the more interesting.
+
+424
+00:16:33,080 --> 00:16:37,460
+The first statement that I could find, I'm interested in
+
+425
+00:16:37,460 --> 00:16:38,940
+the history of thought.
+
+426
+00:16:38,940 --> 00:16:44,980
+So, the first statement of the efficient markets hypothesis
+
+427
+00:16:44,980 --> 00:16:50,910
+that I could find was
+
+428
+00:16:50,910 --> 00:16:56,840
+in a book by George Gibson.
+
+429
+00:16:56,840 --> 00:16:58,420
+I'm not good at chalk.
+
+430
+00:16:58,420 --> 00:16:59,200
+It breaks on me.
+
+431
+00:16:59,200 --> 00:17:02,080
+I'm too aggressive with chalk.
+
+432
+00:17:02,080 --> 00:17:03,320
+I'll try to be more gentle.
+
+433
+00:17:07,200 --> 00:17:14,920
+George Gibson, who wrote a book in 1889,
+
+434
+00:17:14,920 --> 00:17:14,960
+called The History of Thought.
+
+435
+00:17:14,980 --> 00:17:18,300
+It's called The Stock Exchanges of London, Paris,
+
+436
+00:17:18,300 --> 00:17:20,339
+and New York.
+
+437
+00:17:20,339 --> 00:17:26,040
+And he wrote, I'm quoting George Gibson, 1889, when
+
+438
+00:17:26,040 --> 00:17:30,360
+shares become publicly known in an open market, the value
+
+439
+00:17:30,360 --> 00:17:32,390
+which they acquire there may
+
+440
+00:17:32,390 --> 00:17:34,420
+be regarded as the judgment of
+
+441
+00:17:34,420 --> 00:17:37,560
+the best intelligence concerning them.
+
+442
+00:17:37,560 --> 00:17:39,500
+He described the stock market
+
+443
+00:17:39,500 --> 00:17:41,440
+as a kind of voting machine,
+
+444
+00:17:41,440 --> 00:17:42,300
+where people vote.
+
+445
+00:17:42,300 --> 00:17:43,610
+If you think a share is
+
+446
+00:17:43,610 --> 00:17:44,920
+worth more, you're going to have to
+
+447
+00:17:44,920 --> 00:17:45,920
+vote by buying it.
+
+448
+00:17:45,920 --> 00:17:46,920
+If you think it's worth less
+
+449
+00:17:46,920 --> 00:17:47,920
+than it's in the market, you
+
+450
+00:17:47,920 --> 00:17:48,920
+sell it.
+
+451
+00:17:48,920 --> 00:17:51,920
+And everybody in the world can do that.
+
+452
+00:17:51,920 --> 00:17:53,920
+It's open to the public.
+
+453
+00:17:53,920 --> 00:17:55,920
+So, the smartest people get into it.
+
+454
+00:17:55,920 --> 00:17:57,420
+And they soon make a lot of
+
+455
+00:17:57,420 --> 00:17:58,920
+money doing it, so they have a
+
+456
+00:17:58,920 --> 00:18:00,920
+lot of votes.
+
+457
+00:18:00,920 --> 00:18:03,920
+So, the smarter people have more votes.
+
+458
+00:18:03,920 --> 00:18:04,920
+And you've got everyone there.
+
+459
+00:18:04,920 --> 00:18:07,420
+If anyone has a special clue,
+
+460
+00:18:07,420 --> 00:18:09,920
+they go right in and they buy,
+
+461
+00:18:09,920 --> 00:18:11,920
+if it's positive, or they sell if it's negative.
+
+462
+00:18:11,920 --> 00:18:14,320
+So, the smartest people, they're going to have to buy.
+
+463
+00:18:14,320 --> 00:18:17,320
+And the better people go right in there and aggressively
+
+464
+00:18:17,320 --> 00:18:19,320
+affect the value, until it's right.
+
+465
+00:18:19,320 --> 00:18:22,320
+And then there's no incentive to buy or sell.
+
+466
+00:18:22,320 --> 00:18:23,820
+The other thing about Gibson,
+
+467
+00:18:23,820 --> 00:18:25,320
+I should have copied the quote,
+
+468
+00:18:25,320 --> 00:18:27,320
+but as I remember from
+
+469
+00:18:27,320 --> 00:18:29,320
+the book, he says something, in
+
+470
+00:18:29,320 --> 00:18:35,320
+our modern electric age, information flows with the
+
+471
+00:18:35,320 --> 00:18:38,320
+speed of light.
+
+472
+00:18:38,320 --> 00:18:39,320
+And I was thinking, what
+
+473
+00:18:39,320 --> 00:18:40,320
+is he talking about in 1889?
+
+474
+00:18:40,320 --> 00:18:42,320
+Well, you know what he's talking about, the telegraph.
+
+475
+00:18:42,320 --> 00:18:43,320
+And in fact, they had a telegraph.
+
+476
+00:18:43,320 --> 00:18:47,320
+They had ticker machines.
+
+477
+00:18:47,320 --> 00:18:51,320
+They were electronic printers that would print out stock
+
+478
+00:18:51,320 --> 00:18:53,320
+quotes.
+
+479
+00:18:53,320 --> 00:18:57,320
+So, they were really in the information age by 1889.
+
+480
+00:18:57,320 --> 00:18:58,320
+So, this is what happened.
+
+481
+00:18:58,320 --> 00:19:01,320
+Gibson said, you can't beat the market.
+
+482
+00:19:01,320 --> 00:19:03,320
+It's just smarter, because it's
+
+483
+00:19:03,320 --> 00:19:05,320
+like Wikipedia is smarter than
+
+484
+00:19:05,320 --> 00:19:06,320
+any one of us, right?
+
+485
+00:19:06,320 --> 00:19:07,820
+Because it puts together all
+
+486
+00:19:07,820 --> 00:19:09,320
+the thinking of all the people.
+
+487
+00:19:09,320 --> 00:19:10,820
+Well, they had Wikipedia of
+
+488
+00:19:10,820 --> 00:19:12,320
+a sort, because they had the
+
+489
+00:19:12,320 --> 00:19:13,320
+price.
+
+490
+00:19:13,320 --> 00:19:14,320
+They had the price.
+
+491
+00:19:14,320 --> 00:19:21,320
+So, that is the statement.
+
+492
+00:19:21,320 --> 00:19:23,320
+He didn't use the word efficient markets.
+
+493
+00:19:23,320 --> 00:19:26,320
+Actually, I tried to find the origin of efficient markets.
+
+494
+00:19:26,320 --> 00:19:30,320
+Sometimes in the 19th century, people would say efficient
+
+495
+00:19:30,320 --> 00:19:31,320
+markets.
+
+496
+00:19:31,320 --> 00:19:33,320
+But it wasn't a cliché yet.
+
+497
+00:19:33,320 --> 00:19:39,320
+It wasn't a phrase that would be recognizable.
+
+498
+00:19:39,320 --> 00:19:40,320
+It would be a chance.
+
+499
+00:19:40,320 --> 00:19:40,820
+Even in this context, they
+
+500
+00:19:40,820 --> 00:19:41,320
+didn't use the word efficient markets.
+
+501
+00:19:41,320 --> 00:19:42,320
+Even in this context, they would use it.
+
+502
+00:19:42,320 --> 00:19:46,320
+But it was not a name for a theory yet.
+
+503
+00:19:46,320 --> 00:19:49,820
+The next efficient markets theorist
+
+504
+00:19:49,820 --> 00:19:53,320
+I had, and I put this
+
+505
+00:19:53,320 --> 00:19:56,820
+on your reading list, Charles
+
+506
+00:19:56,820 --> 00:20:00,320
+Conant, who wrote a 1904 book
+
+507
+00:20:00,320 --> 00:20:03,320
+called Wall Street and the Country.
+
+508
+00:20:03,320 --> 00:20:04,320
+Wall Street and the Country.
+
+509
+00:20:04,320 --> 00:20:06,320
+I put one chapter on that on
+
+510
+00:20:06,320 --> 00:20:08,320
+the reading list, because it was a
+
+511
+00:20:08,320 --> 00:20:10,320
+statement of the efficient markets hypothesis.
+
+512
+00:20:10,320 --> 00:20:13,320
+Which was remarkably well written, I thought.
+
+513
+00:20:13,320 --> 00:20:16,820
+He starts out the chapter by pointing
+
+514
+00:20:16,820 --> 00:20:20,320
+out that a lot of people think
+
+515
+00:20:20,320 --> 00:20:21,820
+speculation is a kind of
+
+516
+00:20:21,820 --> 00:20:23,320
+gambling or a kind of evil.
+
+517
+00:20:23,320 --> 00:20:25,320
+Speculating on the stock market,
+
+518
+00:20:25,320 --> 00:20:27,320
+that sounds like some wild activity
+
+519
+00:20:27,320 --> 00:20:30,320
+that ought to be ruled out.
+
+520
+00:20:30,320 --> 00:20:32,320
+Then he said, you know,
+
+521
+00:20:32,320 --> 00:20:34,320
+how can that possibly be true?
+
+522
+00:20:34,320 --> 00:20:36,320
+The stock market is a central
+
+523
+00:20:36,320 --> 00:20:38,320
+instance of the efficient markets hypothesis.
+
+524
+00:20:38,320 --> 00:20:42,320
+It is a central institution of all modern economies.
+
+525
+00:20:42,320 --> 00:20:44,320
+To think that it's just
+
+526
+00:20:44,320 --> 00:20:46,320
+gambling, it just defies common sense.
+
+527
+00:20:46,320 --> 00:20:48,820
+But then he goes on and
+
+528
+00:20:48,820 --> 00:20:51,320
+describes what it is that it does.
+
+529
+00:20:51,320 --> 00:20:56,320
+And there's some really nice passages in Conant's book.
+
+530
+00:20:56,320 --> 00:20:58,820
+In one passage he says, suppose for
+
+531
+00:20:58,820 --> 00:21:01,320
+a moment that stock markets of the world
+
+532
+00:21:01,320 --> 00:21:03,320
+were closed, what would happen?
+
+533
+00:21:03,320 --> 00:21:04,820
+And he said, no one
+
+534
+00:21:04,820 --> 00:21:06,320
+would know what anything is worth.
+
+535
+00:21:06,320 --> 00:21:08,320
+No one could make any calculations.
+
+536
+00:21:08,320 --> 00:21:11,320
+No one could make any calculated decisions.
+
+537
+00:21:11,320 --> 00:21:13,320
+He said that, in fact, capital
+
+538
+00:21:13,320 --> 00:21:15,320
+moves around from one industry to another
+
+539
+00:21:15,320 --> 00:21:17,320
+in respect of the prices
+
+540
+00:21:17,320 --> 00:21:19,320
+that are quoted in these markets.
+
+541
+00:21:19,320 --> 00:21:21,820
+And if you didn't see
+
+542
+00:21:21,820 --> 00:21:24,320
+the prices, you would be blind.
+
+543
+00:21:24,320 --> 00:21:27,320
+It's often said about the Soviet
+
+544
+00:21:27,320 --> 00:21:30,320
+economy, which did not have stock markets
+
+545
+00:21:30,320 --> 00:21:33,820
+or financial markets, that they relied on
+
+546
+00:21:33,820 --> 00:21:37,320
+prices in the rest of the world.
+
+547
+00:21:37,320 --> 00:21:38,820
+And they didn't plan very well, because
+
+548
+00:21:38,820 --> 00:21:40,320
+they didn't know what anything was worth.
+
+549
+00:21:40,320 --> 00:21:42,320
+But at least they had the rest of the world.
+
+550
+00:21:42,320 --> 00:21:44,320
+And they thought, well, that's an approximation to
+
+551
+00:21:44,320 --> 00:21:46,320
+what prices ought to be in the Soviet Union.
+
+552
+00:21:46,320 --> 00:21:48,320
+So, they were really relying on these.
+
+553
+00:21:48,320 --> 00:21:55,320
+So, then I just wanted to just reiterate
+
+554
+00:21:55,320 --> 00:22:02,320
+a little bit about the intuition of efficient markets.
+
+555
+00:22:02,320 --> 00:22:06,320
+The idea is that if you trade securities,
+
+556
+00:22:07,320 --> 00:22:09,320
+the advantage to being there a little
+
+557
+00:22:09,320 --> 00:22:11,320
+bit ahead of anyone else is enormous, right?
+
+558
+00:22:11,320 --> 00:22:14,320
+If you know five minutes before the other
+
+559
+00:22:14,320 --> 00:22:17,320
+investors about some good news or bad news,
+
+560
+00:22:17,320 --> 00:22:18,820
+either way, it doesn't matter,
+
+561
+00:22:18,820 --> 00:22:20,320
+you know it five minutes earlier,
+
+562
+00:22:20,320 --> 00:22:22,320
+you jump right in and trade.
+
+563
+00:22:22,320 --> 00:22:25,320
+You trade ahead of them, and prices haven't changed yet.
+
+564
+00:22:25,320 --> 00:22:27,320
+You make money.
+
+565
+00:22:27,320 --> 00:22:32,320
+So, that has created an industry that speeds information.
+
+566
+00:22:32,320 --> 00:22:34,320
+The first such industry that
+
+567
+00:22:34,320 --> 00:22:36,320
+I would like to talk about,
+
+568
+00:22:36,320 --> 00:22:39,320
+the first such industry that I
+
+569
+00:22:39,320 --> 00:22:42,320
+would tell you about is Reuters.
+
+570
+00:22:42,320 --> 00:22:47,320
+Mr. Reuters, I think in the 1840s, before the telegraph,
+
+571
+00:22:47,320 --> 00:22:50,820
+created a financial information
+
+572
+00:22:50,820 --> 00:22:54,320
+service using carrier pigeons.
+
+573
+00:22:54,320 --> 00:22:56,320
+You know, these are birds.
+
+574
+00:22:56,320 --> 00:23:00,320
+And so, when he was in London with some information,
+
+575
+00:23:00,320 --> 00:23:03,320
+they had carrier pigeons that were brought from Paris.
+
+576
+00:23:03,320 --> 00:23:05,320
+And as soon as new information came out,
+
+577
+00:23:05,320 --> 00:23:06,320
+they would take the foot of
+
+578
+00:23:06,320 --> 00:23:07,320
+the little bird and let it go,
+
+579
+00:23:07,320 --> 00:23:09,320
+and it would fly to Paris.
+
+580
+00:23:09,320 --> 00:23:11,320
+It would go to its roosting place.
+
+581
+00:23:11,320 --> 00:23:12,820
+The message would be read,
+
+582
+00:23:12,820 --> 00:23:14,320
+and subscribers would be notified.
+
+583
+00:23:14,320 --> 00:23:16,320
+And that was no joke.
+
+584
+00:23:16,320 --> 00:23:19,320
+That really worked, because you would have information
+
+585
+00:23:19,320 --> 00:23:22,320
+hours or even days before everyone else in Paris.
+
+586
+00:23:22,320 --> 00:23:24,320
+So, you could make a killing.
+
+587
+00:23:24,320 --> 00:23:27,320
+So, Reuters today, it's now called Thomson Reuters,
+
+588
+00:23:27,320 --> 00:23:29,320
+is still in that business.
+
+589
+00:23:29,320 --> 00:23:34,320
+This was a, the carrier pigeons were a brilliant idea.
+
+590
+00:23:34,320 --> 00:23:36,320
+They had to keep up with the times,
+
+591
+00:23:36,320 --> 00:23:39,320
+because shortly thereafter, telegraph was invented,
+
+592
+00:23:39,320 --> 00:23:42,320
+and the pigeons no longer were the leading technology.
+
+593
+00:23:42,320 --> 00:23:44,320
+But maybe that was the beginning
+
+594
+00:23:44,320 --> 00:23:46,320
+of the information age with pigeons.
+
+595
+00:23:46,320 --> 00:23:50,320
+Now we have beepers, and we have the Internet.
+
+596
+00:23:50,320 --> 00:23:53,320
+A beeper is something you can carry in your pocket
+
+597
+00:23:53,320 --> 00:23:55,320
+that beeps when there's financial news.
+
+598
+00:23:55,320 --> 00:24:01,320
+So, suppose a company makes an announcement that it has,
+
+599
+00:24:01,320 --> 00:24:04,320
+that it has, say, a new drug that's successful.
+
+600
+00:24:04,320 --> 00:24:08,320
+In trials, as soon as they make the announcement,
+
+601
+00:24:08,320 --> 00:24:12,320
+they make a, it then goes out electronically everywhere,
+
+602
+00:24:12,320 --> 00:24:15,320
+and the beepers start beeping, okay?
+
+603
+00:24:15,320 --> 00:24:16,820
+And all the investment analysts,
+
+604
+00:24:16,820 --> 00:24:18,320
+they drop their morning coffee,
+
+605
+00:24:18,320 --> 00:24:19,820
+they do any, because they
+
+606
+00:24:19,820 --> 00:24:21,320
+know they've got to act fast.
+
+607
+00:24:21,320 --> 00:24:23,320
+So, you get this new announcement.
+
+608
+00:24:23,320 --> 00:24:25,320
+Now, it's t plus 20 seconds.
+
+609
+00:24:25,320 --> 00:24:28,320
+He's got his drug specialist on the phone.
+
+610
+00:24:28,320 --> 00:24:30,320
+Okay, what does this mean? Quick.
+
+611
+00:24:30,320 --> 00:24:32,320
+How much is it going to go up?
+
+612
+00:24:32,320 --> 00:24:33,320
+And so, the guy says, I don't know.
+
+613
+00:24:33,320 --> 00:24:34,320
+First thought.
+
+614
+00:24:34,320 --> 00:24:35,320
+I thought it was going
+
+615
+00:24:35,320 --> 00:24:36,320
+to go up $2 a share.
+
+616
+00:24:36,320 --> 00:24:38,320
+Okay, it's only gone up $1 a share.
+
+617
+00:24:38,320 --> 00:24:40,320
+I'll buy right now.
+
+618
+00:24:40,320 --> 00:24:43,320
+Now it's two minutes after the announcement.
+
+619
+00:24:43,320 --> 00:24:45,320
+And then the analyst says, I
+
+620
+00:24:45,320 --> 00:24:47,320
+thought about it a little bit more.
+
+621
+00:24:47,320 --> 00:24:50,320
+No, I only think it's $1.50 a share.
+
+622
+00:24:50,320 --> 00:24:52,320
+Anyway, this is homing in, and
+
+623
+00:24:52,320 --> 00:24:54,320
+so the price is jiggling around rapidly
+
+624
+00:24:54,320 --> 00:24:57,320
+as all this is happening for a few minutes,
+
+625
+00:24:57,320 --> 00:24:58,820
+and then it settles down,
+
+626
+00:24:58,820 --> 00:25:00,320
+because after, I may be exaggerating,
+
+627
+00:25:00,320 --> 00:25:03,320
+after 10 minutes, they've kind of gotten it.
+
+628
+00:25:03,320 --> 00:25:04,820
+They've kind of figured it out,
+
+629
+00:25:04,820 --> 00:25:06,320
+and it's reached its new level.
+
+630
+00:25:06,320 --> 00:25:08,320
+Okay?
+
+631
+00:25:08,320 --> 00:25:10,320
+They'll still be more, they'll be thinking about,
+
+632
+00:25:10,320 --> 00:25:11,820
+they'll be thinking about the next
+
+633
+00:25:11,820 --> 00:25:13,320
+morning when they're taking their shower.
+
+634
+00:25:13,320 --> 00:25:15,320
+And they'll get a better and better,
+
+635
+00:25:15,320 --> 00:25:17,320
+more refined idea of what the price is.
+
+636
+00:25:17,320 --> 00:25:18,320
+Okay?
+
+637
+00:25:18,320 --> 00:25:20,320
+But here's the efficient markets.
+
+638
+00:25:20,320 --> 00:25:21,820
+You, the next day, read about it
+
+639
+00:25:21,820 --> 00:25:23,320
+in the Wall Street Journal in the morning.
+
+640
+00:25:23,320 --> 00:25:25,320
+You're now 24 hours late.
+
+641
+00:25:25,320 --> 00:25:26,320
+Okay?
+
+642
+00:25:26,320 --> 00:25:28,320
+So, you call your broker and
+
+643
+00:25:28,320 --> 00:25:30,320
+say, maybe I should buy this stock.
+
+644
+00:25:30,320 --> 00:25:32,320
+They've got this new breakthrough.
+
+645
+00:25:32,320 --> 00:25:34,320
+Your broker might laugh at you, right?
+
+646
+00:25:34,320 --> 00:25:37,320
+Because you're 24 hours late.
+
+647
+00:25:37,320 --> 00:25:42,320
+And what do you know, anyway, about pharmaceuticals?
+
+648
+00:25:42,320 --> 00:25:45,320
+That's where the efficient markets hypothesis is true.
+
+649
+00:25:45,320 --> 00:25:48,820
+You can't expect to routinely profit
+
+650
+00:25:48,820 --> 00:25:52,320
+from information that's already out there.
+
+651
+00:25:52,320 --> 00:25:54,320
+If you're going to profit, you've
+
+652
+00:25:54,320 --> 00:25:56,320
+got to come up with something faster,
+
+653
+00:25:56,320 --> 00:26:00,320
+something that you can get faster.
+
+654
+00:26:00,320 --> 00:26:02,320
+I think this is somewhat what,
+
+655
+00:26:02,320 --> 00:26:05,320
+David Swenson was referring to yesterday when
+
+656
+00:26:05,320 --> 00:26:08,320
+he talked about different asset classes that have,
+
+657
+00:26:08,320 --> 00:26:11,820
+he looked, remember how he talked about comparing
+
+658
+00:26:11,820 --> 00:26:15,320
+the top quartile and bottom quartile of investment managers
+
+659
+00:26:15,320 --> 00:26:19,320
+in terms of returns at different asset classes?
+
+660
+00:26:19,320 --> 00:26:21,820
+Well, the managers weren't able to
+
+661
+00:26:21,820 --> 00:26:24,320
+beat the bond market very much.
+
+662
+00:26:24,320 --> 00:26:26,320
+And they weren't, you know, the top quartile
+
+663
+00:26:26,320 --> 00:26:28,320
+wasn't able to beat the stock market very much.
+
+664
+00:26:28,320 --> 00:26:31,320
+But when you get to unusual assets,
+
+665
+00:26:31,320 --> 00:26:34,320
+private equity, which is not traded on stock exchanges,
+
+666
+00:26:34,320 --> 00:26:37,320
+or absolute return investments that he talked about,
+
+667
+00:26:37,320 --> 00:26:39,820
+they're unusual, small or rare investments that the
+
+668
+00:26:39,820 --> 00:26:42,320
+public doesn't have a lot of information about.
+
+669
+00:26:42,320 --> 00:26:46,320
+And these guys can get ahead on those things.
+
+670
+00:26:46,320 --> 00:26:48,820
+So, part of what makes Swenson
+
+671
+00:26:48,820 --> 00:26:51,320
+a success is picking his game.
+
+672
+00:26:51,320 --> 00:26:54,320
+Even so, the stock market is not completely efficient,
+
+673
+00:26:54,320 --> 00:26:56,820
+but it's so much more efficient because it's
+
+674
+00:26:56,820 --> 00:26:59,320
+so many people involved in it and watching it.
+
+675
+00:26:59,320 --> 00:27:02,820
+So, maybe I should write here, because
+
+676
+00:27:02,820 --> 00:27:06,320
+this is what we're talking about here,
+
+677
+00:27:06,320 --> 00:27:10,320
+the efficient markets hypothesis.
+
+678
+00:27:10,320 --> 00:27:13,320
+I'll write it down.
+
+679
+00:27:13,320 --> 00:27:23,320
+This is the name for this idea that was coined.
+
+680
+00:27:23,320 --> 00:27:28,320
+Or sometimes people say efficient markets theory.
+
+681
+00:27:29,320 --> 00:27:31,820
+They're referring to what Conant and Gibson and other
+
+682
+00:27:31,820 --> 00:27:34,320
+people had been talking about for a long time.
+
+683
+00:27:34,320 --> 00:27:36,320
+It was common knowledge.
+
+684
+00:27:36,320 --> 00:27:42,820
+But the first person to use
+
+685
+00:27:42,820 --> 00:27:49,320
+this term apparently was Harry Roberts,
+
+686
+00:27:49,320 --> 00:27:54,320
+a professor at the University of Chicago.
+
+687
+00:27:54,320 --> 00:27:58,320
+But he was made famous by Eugene Fama.
+
+688
+00:27:59,320 --> 00:28:03,320
+Who referred to it as Harry Roberts' idea.
+
+689
+00:28:03,320 --> 00:28:06,320
+Eugene Fama is maybe the best known
+
+690
+00:28:06,320 --> 00:28:09,320
+finance professor in the country, I think.
+
+691
+00:28:09,320 --> 00:28:12,320
+He's also at University of Chicago.
+
+692
+00:28:12,320 --> 00:28:15,320
+And Fama, he's been talked about as
+
+693
+00:28:15,320 --> 00:28:18,320
+a Nobel Prize candidate for a long time.
+
+694
+00:28:18,320 --> 00:28:21,320
+He should have won probably, even
+
+695
+00:28:21,320 --> 00:28:24,320
+though his theory is not entirely right.
+
+696
+00:28:24,320 --> 00:28:25,820
+I think his chances of getting
+
+697
+00:28:25,820 --> 00:28:27,320
+it have dimmed a little bit,
+
+698
+00:28:27,320 --> 00:28:28,320
+because the theory is that he's a genius.
+
+699
+00:28:28,320 --> 00:28:31,820
+But the theory is not looked upon as
+
+700
+00:28:31,820 --> 00:28:35,320
+quite such absolute truth as it used to be.
+
+701
+00:28:35,320 --> 00:28:38,320
+As I said, it's a half-truth.
+
+702
+00:28:38,320 --> 00:28:40,820
+What I said before, what Conant
+
+703
+00:28:40,820 --> 00:28:43,320
+said, is all well taken and right.
+
+704
+00:28:43,320 --> 00:28:48,320
+But there's other nuances and it's not exactly.
+
+705
+00:28:48,320 --> 00:28:49,820
+When you first read Conant,
+
+706
+00:28:49,820 --> 00:28:51,320
+you think, the guy is brilliant.
+
+707
+00:28:51,320 --> 00:28:52,320
+That's what I thought.
+
+708
+00:28:52,320 --> 00:28:53,320
+This is right on.
+
+709
+00:28:53,320 --> 00:28:56,320
+Then you read it again and you think,
+
+710
+00:28:56,320 --> 00:28:59,320
+well, there's a little gambling in the financial markets.
+
+711
+00:28:59,320 --> 00:29:01,320
+Things don't always work right.
+
+712
+00:29:01,320 --> 00:29:07,320
+So, he was maybe a little bit too positive.
+
+713
+00:29:07,320 --> 00:29:13,320
+So, Fama, I can give a little history of this.
+
+714
+00:29:13,320 --> 00:29:18,320
+It was in 1960.
+
+715
+00:29:18,320 --> 00:29:22,320
+University of Chicago is kind of the forerunner in this.
+
+716
+00:29:22,320 --> 00:29:26,320
+In 1960, Ford Foundation gave a grant
+
+717
+00:29:26,320 --> 00:29:29,820
+to the University of Chicago to assemble
+
+718
+00:29:29,820 --> 00:29:33,320
+all stock price data back to 1926.
+
+719
+00:29:33,320 --> 00:29:35,320
+And to get it right.
+
+720
+00:29:35,320 --> 00:29:41,320
+And so, they set up the Center
+
+721
+00:29:41,320 --> 00:29:47,320
+for Research in Securities Prices at Chicago.
+
+722
+00:29:47,320 --> 00:29:50,320
+The Center for Research in Securities
+
+723
+00:29:50,320 --> 00:29:53,320
+Prices, or CRISP as it's called,
+
+724
+00:29:53,320 --> 00:29:55,320
+had a Ford Foundation grant
+
+725
+00:29:55,320 --> 00:29:58,320
+to go to the stock exchanges in the United States
+
+726
+00:29:58,320 --> 00:30:01,320
+and get all the data and get it right.
+
+727
+00:30:01,320 --> 00:30:04,320
+Remember, I told you they have splits in stocks?
+
+728
+00:30:04,320 --> 00:30:07,320
+So, you'll see the price of a share.
+
+729
+00:30:07,320 --> 00:30:09,320
+And then suddenly the price will fall in half
+
+730
+00:30:09,320 --> 00:30:10,320
+or maybe it will double
+
+731
+00:30:10,320 --> 00:30:12,320
+because they changed the units of measurement.
+
+732
+00:30:12,320 --> 00:30:14,320
+No one had, if you wanted to
+
+733
+00:30:14,320 --> 00:30:16,320
+know what is the price history of stocks
+
+734
+00:30:16,320 --> 00:30:18,320
+over the long haul,
+
+735
+00:30:18,320 --> 00:30:20,320
+no one had ever organized that and
+
+736
+00:30:20,320 --> 00:30:22,320
+figured out things like that, got it right.
+
+737
+00:30:22,320 --> 00:30:24,320
+And when were the dividends paid?
+
+738
+00:30:24,320 --> 00:30:26,320
+When did you actually get the dividends?
+
+739
+00:30:26,320 --> 00:30:29,320
+So, they said, let's get it right.
+
+740
+00:30:29,320 --> 00:30:32,320
+Let's put it on, hey, this is really super modern,
+
+741
+00:30:32,320 --> 00:30:34,320
+a Univac tape.
+
+742
+00:30:34,320 --> 00:30:36,320
+Okay, that's a computer tape.
+
+743
+00:30:36,320 --> 00:30:37,320
+Alright?
+
+744
+00:30:37,320 --> 00:30:39,320
+We'll put it on a tape and we'll
+
+745
+00:30:39,320 --> 00:30:41,320
+sell it at cost to anybody in the world.
+
+746
+00:30:41,320 --> 00:30:42,820
+That was, and so the Ford
+
+747
+00:30:42,820 --> 00:30:44,320
+Foundation, which is a non-profit, said,
+
+748
+00:30:44,320 --> 00:30:46,320
+good idea, let's do it.
+
+749
+00:30:46,320 --> 00:30:50,320
+So, that CRISP tape has launched a revolution in finance
+
+750
+00:30:50,320 --> 00:30:52,320
+because nobody had the data.
+
+751
+00:30:52,320 --> 00:30:53,320
+They were throwing it away.
+
+752
+00:30:53,320 --> 00:30:55,320
+It was not used.
+
+753
+00:30:55,320 --> 00:30:57,320
+How do you know what Sharpe ratios
+
+754
+00:30:57,320 --> 00:30:59,320
+are if you don't have the data?
+
+755
+00:30:59,320 --> 00:31:01,320
+I mean, you can find it
+
+756
+00:31:01,320 --> 00:31:03,320
+in newspapers, but it wasn't organized right.
+
+757
+00:31:03,320 --> 00:31:05,320
+It wasn't set out right.
+
+758
+00:31:05,320 --> 00:31:09,320
+So, with the invention of the CRISP tape in 1960,
+
+759
+00:31:09,320 --> 00:31:14,320
+it really gave impetus to the efficient markets revolution.
+
+760
+00:31:14,320 --> 00:31:16,320
+And by the end of that decade,
+
+761
+00:31:16,320 --> 00:31:18,820
+there were thousands of articles testing
+
+762
+00:31:18,820 --> 00:31:21,320
+market efficiency using the CRISP tape.
+
+763
+00:31:21,320 --> 00:31:22,320
+And in particular,
+
+764
+00:31:22,320 --> 00:31:24,320
+in 1969,
+
+765
+00:31:24,320 --> 00:31:27,320
+Eugene Fama wrote one of the most
+
+766
+00:31:27,320 --> 00:31:30,320
+cited articles in the history of finance,
+
+767
+00:31:30,320 --> 00:31:33,320
+was called, Efficient Capital Markets, A Review.
+
+768
+00:31:33,320 --> 00:31:35,320
+So, he reviews all of
+
+769
+00:31:35,320 --> 00:31:37,320
+these studies of the CRISP tape.
+
+770
+00:31:37,320 --> 00:31:40,320
+And it looked authoritative for the first time,
+
+771
+00:31:40,320 --> 00:31:42,820
+because we were using the whole universe
+
+772
+00:31:42,820 --> 00:31:45,320
+of stocks all the way back to 1926.
+
+773
+00:31:45,320 --> 00:31:46,820
+That sounded like a long
+
+774
+00:31:46,820 --> 00:31:48,320
+time and a lot of data.
+
+775
+00:31:48,320 --> 00:31:50,320
+And Fama concluded that,
+
+776
+00:31:50,320 --> 00:31:52,320
+evidence is,
+
+777
+00:31:52,320 --> 00:31:54,320
+he said it's not uniform.
+
+778
+00:31:54,320 --> 00:31:57,320
+There are some negative results.
+
+779
+00:31:57,320 --> 00:32:01,320
+But the evidence is that markets are remarkably efficient.
+
+780
+00:32:01,320 --> 00:32:04,320
+And this is a truth that we've discovered.
+
+781
+00:32:04,320 --> 00:32:07,320
+And that, it was really a bombshell,
+
+782
+00:32:07,320 --> 00:32:11,320
+because he was discrediting, or seeming to discredit,
+
+783
+00:32:11,320 --> 00:32:14,320
+practically all the investment managers in the country.
+
+784
+00:32:14,320 --> 00:32:15,320
+It was a huge industry.
+
+785
+00:32:15,320 --> 00:32:16,320
+And he's claiming,
+
+786
+00:32:16,320 --> 00:32:19,320
+the successful ones must have just been lucky.
+
+787
+00:32:20,320 --> 00:32:22,320
+Because the market is so efficient,
+
+788
+00:32:22,320 --> 00:32:24,820
+that we can't see any way that
+
+789
+00:32:24,820 --> 00:32:27,320
+you could make money in the market.
+
+790
+00:32:27,320 --> 00:32:31,320
+And so,
+
+791
+00:32:31,320 --> 00:32:36,320
+the high point of the efficient markets hypothesis
+
+792
+00:32:36,320 --> 00:32:40,320
+was probably in the 1970s.
+
+793
+00:32:40,320 --> 00:32:42,320
+I'll call that the high point.
+
+794
+00:32:42,320 --> 00:32:44,320
+It seemed at that time,
+
+795
+00:32:44,320 --> 00:32:47,320
+that all of the scholars were finding
+
+796
+00:32:47,320 --> 00:32:49,320
+that there was no way to beat the market.
+
+797
+00:32:49,320 --> 00:32:52,320
+But it started to deteriorate,
+
+798
+00:32:52,320 --> 00:32:56,320
+the support for efficient markets hypothesis.
+
+799
+00:32:56,320 --> 00:33:00,320
+And so,
+
+800
+00:33:00,320 --> 00:33:03,320
+I want to do,
+
+801
+00:33:03,320 --> 00:33:06,320
+there's been a change in thinking.
+
+802
+00:33:06,320 --> 00:33:10,320
+Efficient markets is still regarded with respect,
+
+803
+00:33:10,320 --> 00:33:13,320
+but not the same respect that
+
+804
+00:33:13,320 --> 00:33:16,320
+it had in 1969 or in 1979.
+
+805
+00:33:16,320 --> 00:33:18,320
+I have here some,
+
+806
+00:33:18,320 --> 00:33:21,320
+indication of how thinking has changed
+
+807
+00:33:21,320 --> 00:33:23,320
+about efficient markets.
+
+808
+00:33:23,320 --> 00:33:25,320
+I had the textbook that I
+
+809
+00:33:25,320 --> 00:33:27,320
+used to use for this course.
+
+810
+00:33:27,320 --> 00:33:30,320
+I've been teaching this course for 25 years.
+
+811
+00:33:30,320 --> 00:33:31,320
+For Boese,
+
+812
+00:33:31,320 --> 00:33:33,320
+it wasn't even written when I started.
+
+813
+00:33:33,320 --> 00:33:39,320
+So, I was using a textbook called Brealey and Myers,
+
+814
+00:33:39,320 --> 00:33:40,320
+that,
+
+815
+00:33:40,320 --> 00:33:43,320
+Principles of Corporate Finance.
+
+816
+00:33:43,320 --> 00:33:45,320
+And I still have all these old editions.
+
+817
+00:33:45,320 --> 00:33:47,320
+It's a very successful textbook.
+
+818
+00:33:47,320 --> 00:33:54,320
+But, since I was teaching over all those years,
+
+819
+00:33:54,320 --> 00:33:56,320
+I went back and looked.
+
+820
+00:33:56,320 --> 00:33:58,320
+I don't have the first edition of that,
+
+821
+00:33:58,320 --> 00:34:00,320
+but I have the second edition, 1984.
+
+822
+00:34:00,320 --> 00:34:02,320
+And I was teaching out of
+
+823
+00:34:02,320 --> 00:34:04,320
+it in the same class in 1984.
+
+824
+00:34:04,320 --> 00:34:06,320
+At the end of that book,
+
+825
+00:34:06,320 --> 00:34:08,319
+there's a chapter on
+
+826
+00:34:08,319 --> 00:34:12,319
+the seven most important ideas in finance.
+
+827
+00:34:12,319 --> 00:34:15,319
+And one of the ideas is efficient markets.
+
+828
+00:34:15,319 --> 00:34:17,319
+And quoting the textbook,
+
+829
+00:34:17,320 --> 00:34:19,320
+Brealey and Myers say,
+
+830
+00:34:19,320 --> 00:34:23,320
+security prices accurately reflect available information
+
+831
+00:34:23,320 --> 00:34:26,320
+and respond rapidly to new information
+
+832
+00:34:26,320 --> 00:34:28,320
+as soon as it becomes available.
+
+833
+00:34:28,320 --> 00:34:29,320
+Okay.
+
+834
+00:34:29,320 --> 00:34:32,320
+They do qualify it in 1984.
+
+835
+00:34:32,320 --> 00:34:35,320
+Don't misunderstand the efficient markets idea.
+
+836
+00:34:35,320 --> 00:34:38,320
+It doesn't say there are no taxes or costs.
+
+837
+00:34:38,320 --> 00:34:40,320
+It doesn't say there aren't some clever people
+
+838
+00:34:40,320 --> 00:34:42,320
+and some stupid ones.
+
+839
+00:34:42,320 --> 00:34:44,320
+It merely implies that competition
+
+840
+00:34:44,320 --> 00:34:46,320
+in actual capital markets
+
+841
+00:34:46,320 --> 00:34:48,320
+is very tough.
+
+842
+00:34:48,320 --> 00:34:50,320
+There are no money machines
+
+843
+00:34:50,320 --> 00:34:52,320
+and security prices reflect
+
+844
+00:34:52,320 --> 00:34:55,320
+the true underlying value of assets.
+
+845
+00:34:55,320 --> 00:34:57,320
+Okay. Let me repeat that.
+
+846
+00:34:57,320 --> 00:34:59,320
+Security prices reflect
+
+847
+00:34:59,320 --> 00:35:01,320
+the true underlying value of assets.
+
+848
+00:35:01,320 --> 00:35:03,320
+Okay.
+
+849
+00:35:03,320 --> 00:35:05,320
+That's almost,
+
+850
+00:35:05,320 --> 00:35:07,320
+that's a pretty strong statement, right?
+
+851
+00:35:07,320 --> 00:35:09,320
+But that's efficient market.
+
+852
+00:35:09,320 --> 00:35:10,820
+They just said it in
+
+853
+00:35:10,820 --> 00:35:12,320
+their second edition of the book.
+
+854
+00:35:12,320 --> 00:35:15,320
+Not many people would say that, right?
+
+855
+00:35:15,320 --> 00:35:16,320
+Trust the stock market.
+
+856
+00:35:16,320 --> 00:35:19,320
+Don't trust the people you know and love and trust.
+
+857
+00:35:19,320 --> 00:35:21,320
+Trust the stock market.
+
+858
+00:35:21,320 --> 00:35:24,320
+Well, they deleted that from later editions of their book.
+
+859
+00:35:24,320 --> 00:35:29,320
+And I think that's a sign of changes.
+
+860
+00:35:29,320 --> 00:35:32,320
+So, I was looking at the 2008 edition.
+
+861
+00:35:32,320 --> 00:35:34,320
+They've now taken on a third author.
+
+862
+00:35:34,320 --> 00:35:35,820
+They're getting tired of coming out with
+
+863
+00:35:35,820 --> 00:35:37,320
+more and more editions of their book.
+
+864
+00:35:37,320 --> 00:35:41,320
+So, they've taken on Franklin Allen from the Wharton School.
+
+865
+00:35:41,320 --> 00:35:43,320
+They've deleted what I just read.
+
+866
+00:35:43,320 --> 00:35:44,320
+Now it says,
+
+867
+00:35:44,320 --> 00:35:46,320
+I'm quoting from them,
+
+868
+00:35:46,320 --> 00:35:48,320
+much more research is needed
+
+869
+00:35:48,320 --> 00:35:50,320
+before we have a full understanding
+
+870
+00:35:50,320 --> 00:35:52,320
+of why asset prices
+
+871
+00:35:52,320 --> 00:35:55,320
+sometimes get so out of line
+
+872
+00:35:55,320 --> 00:35:58,320
+with what appears to be their discounted future payoffs.
+
+873
+00:35:58,320 --> 00:36:01,320
+All right. That's a complete turnaround in the textbook.
+
+874
+00:36:01,320 --> 00:36:04,320
+So, this is one of the most popular textbooks.
+
+875
+00:36:04,320 --> 00:36:06,320
+And they've changed completely.
+
+876
+00:36:06,320 --> 00:36:09,320
+So, I think we have an idea
+
+877
+00:36:09,320 --> 00:36:13,320
+that started in 19, around the 1960s.
+
+878
+00:36:13,320 --> 00:36:14,320
+It was somehow
+
+879
+00:36:14,320 --> 00:36:17,320
+associated with computers and electronic databases
+
+880
+00:36:17,320 --> 00:36:21,320
+and modern thinking and mathematical finance.
+
+881
+00:36:21,320 --> 00:36:23,320
+And they kind of went too far with it.
+
+882
+00:36:23,320 --> 00:36:27,320
+And they concluded that you just can't beat the market.
+
+883
+00:36:27,320 --> 00:36:29,320
+Another thing I put on the reading list
+
+884
+00:36:29,320 --> 00:36:32,320
+is a reading from the New Yorker magazine.
+
+885
+00:36:32,320 --> 00:36:36,320
+It just came out in December.
+
+886
+00:36:36,320 --> 00:36:38,320
+I thought it was relevant.
+
+887
+00:36:38,320 --> 00:36:40,320
+It's by Jonah Lehrer.
+
+888
+00:36:40,320 --> 00:36:42,320
+And the title of the article is
+
+889
+00:36:42,320 --> 00:36:44,320
+The Truth Wears Off.
+
+890
+00:36:44,320 --> 00:36:46,320
+Subtitle,
+
+891
+00:36:46,320 --> 00:36:50,320
+Is There Something Wrong With The Scientific Method?
+
+892
+00:36:50,320 --> 00:36:52,320
+Well, I don't know if there's anything wrong
+
+893
+00:36:52,320 --> 00:36:54,320
+with the scientific method,
+
+894
+00:36:54,320 --> 00:36:56,320
+but I was interested in this article.
+
+895
+00:36:56,320 --> 00:36:59,320
+Because what the New Yorker article points out
+
+896
+00:36:59,320 --> 00:37:02,320
+is that a lot of scientists,
+
+897
+00:37:02,320 --> 00:37:04,320
+and this is outside of finance,
+
+898
+00:37:04,320 --> 00:37:06,320
+I'm making a parallel here.
+
+899
+00:37:06,320 --> 00:37:10,320
+A lot of scientists who follow careful scientific procedures
+
+900
+00:37:10,320 --> 00:37:12,320
+seem to generate results
+
+901
+00:37:12,320 --> 00:37:14,320
+that are later discredited.
+
+902
+00:37:14,320 --> 00:37:17,320
+And nobody can figure out why.
+
+903
+00:37:17,320 --> 00:37:20,320
+It's like the universe is changing.
+
+904
+00:37:20,320 --> 00:37:23,320
+He gives an example in the New Yorker article.
+
+905
+00:37:23,320 --> 00:37:26,320
+And this is from drugs.
+
+906
+00:37:26,320 --> 00:37:28,320
+There's a drug, which are,
+
+907
+00:37:28,320 --> 00:37:30,320
+a class of drugs called
+
+908
+00:37:30,320 --> 00:37:32,320
+second generation antipsychotics.
+
+909
+00:37:32,320 --> 00:37:35,320
+These are used for people who are either
+
+910
+00:37:35,320 --> 00:37:37,320
+schizophrenic or,
+
+911
+00:37:37,320 --> 00:37:40,320
+I guess it can be used more generally than that.
+
+912
+00:37:40,320 --> 00:37:42,320
+Some of the drugs are called
+
+913
+00:37:42,320 --> 00:37:44,320
+antipsyroquil, zyprexa.
+
+914
+00:37:44,320 --> 00:37:47,320
+When these drugs were first introduced,
+
+915
+00:37:47,320 --> 00:37:50,320
+careful studies that passed muster
+
+916
+00:37:50,320 --> 00:37:52,320
+in the best medical journals
+
+917
+00:37:52,320 --> 00:37:54,320
+found that they were highly effective.
+
+918
+00:37:54,320 --> 00:37:57,320
+And they were written up as a godsend.
+
+919
+00:37:57,320 --> 00:38:00,320
+A way of dealing with problems that
+
+920
+00:38:00,320 --> 00:38:02,320
+used to weigh on people and,
+
+921
+00:38:02,320 --> 00:38:04,320
+wonderful, okay.
+
+922
+00:38:04,320 --> 00:38:07,320
+The medical procedures involve
+
+923
+00:38:07,320 --> 00:38:10,320
+careful controls on studies, including
+
+924
+00:38:10,320 --> 00:38:12,320
+a double-blind procedure.
+
+925
+00:38:12,320 --> 00:38:14,320
+And a double-blind procedure,
+
+926
+00:38:14,320 --> 00:38:16,320
+when you want to test a drug on human subjects,
+
+927
+00:38:16,320 --> 00:38:20,320
+you have to have both the subject doesn't know
+
+928
+00:38:20,320 --> 00:38:22,320
+whether he or she is getting the drug,
+
+929
+00:38:22,320 --> 00:38:25,320
+and the experimenter who runs the experiment
+
+930
+00:38:25,320 --> 00:38:27,320
+doesn't know which one is the drug.
+
+931
+00:38:27,320 --> 00:38:30,320
+So, you give bottle A and bottle B
+
+932
+00:38:30,320 --> 00:38:31,320
+to the experimenter.
+
+933
+00:38:31,320 --> 00:38:33,320
+And the experimenter is never told
+
+934
+00:38:33,320 --> 00:38:35,320
+which one is zyprexa
+
+935
+00:38:35,320 --> 00:38:37,320
+and which one is a placebo.
+
+936
+00:38:37,320 --> 00:38:39,320
+And then the experimenter has to write up
+
+937
+00:38:39,320 --> 00:38:41,320
+a whole report on drug A and drug B.
+
+938
+00:38:41,320 --> 00:38:42,320
+Not even the drug A.
+
+939
+00:38:42,320 --> 00:38:44,320
+Not even knowing.
+
+940
+00:38:44,320 --> 00:38:45,320
+Okay?
+
+941
+00:38:45,320 --> 00:38:47,320
+This is to eliminate any possible bias.
+
+942
+00:38:47,320 --> 00:38:49,320
+So, these drugs passed that.
+
+943
+00:38:49,320 --> 00:38:50,320
+You see what I'm saying?
+
+944
+00:38:50,320 --> 00:38:51,320
+The controls were right.
+
+945
+00:38:51,320 --> 00:38:53,320
+Everything was good.
+
+946
+00:38:53,320 --> 00:38:55,320
+But then, as years go by,
+
+947
+00:38:55,320 --> 00:38:57,320
+the tests start coming out,
+
+948
+00:38:57,320 --> 00:38:59,320
+the new attempts to back up,
+
+949
+00:38:59,320 --> 00:39:01,320
+replicate those, start coming out
+
+950
+00:39:01,320 --> 00:39:02,320
+more negative.
+
+951
+00:39:02,320 --> 00:39:04,320
+They didn't disprove the drugs.
+
+952
+00:39:04,320 --> 00:39:07,320
+They just weren't such wonder drugs
+
+953
+00:39:07,320 --> 00:39:08,320
+as they thought.
+
+954
+00:39:08,320 --> 00:39:10,320
+So, how can that be?
+
+955
+00:39:10,320 --> 00:39:11,320
+And what the article says,
+
+956
+00:39:11,320 --> 00:39:14,320
+well, it must be that somehow scientific bias,
+
+957
+00:39:14,320 --> 00:39:17,320
+when there's an enthusiasm for some new theory,
+
+958
+00:39:17,320 --> 00:39:18,320
+it creeps in,
+
+959
+00:39:18,320 --> 00:39:21,320
+even if you try to make the strongest controls.
+
+960
+00:39:21,320 --> 00:39:22,320
+And you say, how could that happen
+
+961
+00:39:22,320 --> 00:39:24,320
+with a double-blind procedure?
+
+962
+00:39:24,320 --> 00:39:27,320
+Well, maybe they broke the double-blind somehow.
+
+963
+00:39:27,320 --> 00:39:28,320
+They tried,
+
+964
+00:39:28,320 --> 00:39:30,320
+but the guy, experimenter, figured out.
+
+965
+00:39:30,320 --> 00:39:32,320
+And then he started,
+
+966
+00:39:32,320 --> 00:39:34,320
+not deliberately fabricating results,
+
+967
+00:39:34,320 --> 00:39:36,320
+but it's the kind of thing where
+
+968
+00:39:36,320 --> 00:39:38,320
+one subject says,
+
+969
+00:39:38,320 --> 00:39:40,320
+I didn't take my Aplafi regularly.
+
+970
+00:39:40,320 --> 00:39:42,320
+I took two tablets last week.
+
+971
+00:39:42,320 --> 00:39:44,320
+I have to decide whether to throw this person
+
+972
+00:39:44,320 --> 00:39:46,320
+out of the sample.
+
+973
+00:39:46,320 --> 00:39:48,320
+And then I kind of remember that it wasn't,
+
+974
+00:39:48,320 --> 00:39:50,320
+the drug wasn't working for this person.
+
+975
+00:39:50,320 --> 00:39:52,320
+And it colors my judgment,
+
+976
+00:39:52,320 --> 00:39:54,320
+so I throw them out.
+
+977
+00:39:54,320 --> 00:39:56,320
+And another thing that happens is that
+
+978
+00:39:56,320 --> 00:39:58,320
+the studies that didn't find it
+
+979
+00:39:58,320 --> 00:40:00,320
+might have been suppressed.
+
+980
+00:40:00,320 --> 00:40:02,320
+Someone might have done an Aplafi test
+
+981
+00:40:02,320 --> 00:40:04,320
+and gotten bad results.
+
+982
+00:40:04,320 --> 00:40:06,320
+And then showed it to their superior and said,
+
+983
+00:40:06,320 --> 00:40:07,320
+should I publish this?
+
+984
+00:40:07,320 --> 00:40:08,320
+And the superior said,
+
+985
+00:40:08,320 --> 00:40:09,320
+wait a minute,
+
+986
+00:40:09,320 --> 00:40:11,320
+there must be something wrong here.
+
+987
+00:40:11,320 --> 00:40:13,320
+Aplafi is wonderful.
+
+988
+00:40:13,320 --> 00:40:14,320
+So, let's look.
+
+989
+00:40:14,320 --> 00:40:16,320
+And then they find something that might be wrong.
+
+990
+00:40:16,320 --> 00:40:18,320
+And he said, you shouldn't publish this,
+
+991
+00:40:18,320 --> 00:40:20,320
+because they find something.
+
+992
+00:40:20,320 --> 00:40:23,320
+So, the publication process is biased
+
+993
+00:40:23,320 --> 00:40:25,320
+for a while.
+
+994
+00:40:25,320 --> 00:40:27,320
+But eventually it catches up.
+
+995
+00:40:27,320 --> 00:40:29,320
+So, I think the same thing happened
+
+996
+00:40:29,320 --> 00:40:31,320
+with the efficient markets hypothesis.
+
+997
+00:40:31,320 --> 00:40:33,320
+In the initial enthusiasm,
+
+998
+00:40:33,320 --> 00:40:36,320
+anybody who found that the efficient markets hypothesis
+
+999
+00:40:36,320 --> 00:40:38,320
+wasn't supported by the evidence,
+
+1000
+00:40:38,320 --> 00:40:40,320
+that person would be told, look again,
+
+1001
+00:40:40,320 --> 00:40:42,320
+maybe you've done something wrong.
+
+1002
+00:40:42,320 --> 00:40:48,320
+And so, that's what happened.
+
+1003
+00:40:48,320 --> 00:40:56,320
+Now, I wanted to do a little bit more history
+
+1004
+00:40:56,320 --> 00:41:01,320
+and describe the concept of random walk,
+
+1005
+00:41:01,320 --> 00:41:05,320
+which is central to the efficient markets hypothesis.
+
+1006
+00:41:05,320 --> 00:41:07,320
+And,
+
+1007
+00:41:07,320 --> 00:41:13,320
+let me start, though,
+
+1008
+00:41:13,320 --> 00:41:15,320
+with a little bit more history.
+
+1009
+00:41:15,320 --> 00:41:17,320
+Technical analysis.
+
+1010
+00:41:25,320 --> 00:41:27,320
+This term goes back,
+
+1011
+00:41:27,320 --> 00:41:29,320
+must be over 100 years.
+
+1012
+00:41:29,320 --> 00:41:33,320
+Technical analysis is the analysis of stock prices,
+
+1013
+00:41:33,320 --> 00:41:36,320
+or maybe other speculative asset prices,
+
+1014
+00:41:36,320 --> 00:41:37,320
+by looking at the market.
+
+1015
+00:41:37,320 --> 00:41:40,320
+By looking at charts of the prices.
+
+1016
+00:41:40,320 --> 00:41:48,320
+And looking for patterns that suggest movements in prices.
+
+1017
+00:41:48,320 --> 00:41:51,320
+The classic text of technical analysis
+
+1018
+00:41:51,320 --> 00:41:55,320
+is Edwards and McGee.
+
+1019
+00:41:55,320 --> 00:41:57,320
+McGee has a famous story about,
+
+1020
+00:41:57,320 --> 00:41:58,320
+he was not a professor,
+
+1021
+00:41:58,320 --> 00:42:02,320
+he was a Wall Street analyst.
+
+1022
+00:42:02,320 --> 00:42:04,320
+And the story about him is that
+
+1023
+00:42:04,320 --> 00:42:06,320
+he believed that you look at the prices
+
+1024
+00:42:06,320 --> 00:42:08,320
+and you can predict prices.
+
+1025
+00:42:08,320 --> 00:42:09,320
+And, in fact, he said,
+
+1026
+00:42:09,320 --> 00:42:10,320
+I don't want to look at anything else.
+
+1027
+00:42:10,320 --> 00:42:12,320
+I just want to see prices.
+
+1028
+00:42:12,320 --> 00:42:14,320
+I'll do plots and I can,
+
+1029
+00:42:14,320 --> 00:42:16,320
+using my judgment,
+
+1030
+00:42:16,320 --> 00:42:17,320
+I can find,
+
+1031
+00:42:17,320 --> 00:42:19,320
+I can figure out what it's going to do.
+
+1032
+00:42:19,320 --> 00:42:21,320
+And so, the story about McGee is,
+
+1033
+00:42:21,320 --> 00:42:23,320
+everyone on Wall Street wants the corner office,
+
+1034
+00:42:23,320 --> 00:42:28,320
+overlooking the World Trade Center or whatever.
+
+1035
+00:42:28,320 --> 00:42:31,320
+He said, I want an interior office with no windows.
+
+1036
+00:42:31,320 --> 00:42:33,320
+I don't want any distractions.
+
+1037
+00:42:33,320 --> 00:42:35,320
+I don't want the real world impinging on my judgment.
+
+1038
+00:42:35,320 --> 00:42:38,320
+So, that's McGee.
+
+1039
+00:42:38,320 --> 00:42:40,320
+But he said that there are certain things
+
+1040
+00:42:40,320 --> 00:42:42,320
+that you see obviously.
+
+1041
+00:42:42,320 --> 00:42:45,320
+For example, resistance level.
+
+1042
+00:42:49,320 --> 00:42:52,320
+When the Dow Jones Industrial Average
+
+1043
+00:42:52,320 --> 00:42:54,320
+approached 1,000,
+
+1044
+00:42:54,320 --> 00:42:56,320
+I think it was in the 60s, 1960s.
+
+1045
+00:42:56,320 --> 00:42:59,320
+It's way above that now, as you know.
+
+1046
+00:42:59,320 --> 00:43:02,320
+But when it first approached 1,000,
+
+1047
+00:43:02,320 --> 00:43:04,320
+technical analysts said,
+
+1048
+00:43:04,320 --> 00:43:07,320
+you know, maybe it's going to have trouble crossing 1,000.
+
+1049
+00:43:07,320 --> 00:43:09,320
+Because that's a psychological barrier.
+
+1050
+00:43:09,320 --> 00:43:11,320
+That sounds magical.
+
+1051
+00:43:11,320 --> 00:43:13,320
+How can the Dow be worth over 1,000?
+
+1052
+00:43:13,320 --> 00:43:15,320
+Wow, I'm going to sell.
+
+1053
+00:43:15,320 --> 00:43:17,320
+And so, the idea was that people would sell
+
+1054
+00:43:17,320 --> 00:43:19,320
+when it approached 1,000.
+
+1055
+00:43:19,320 --> 00:43:21,320
+And it seemed, the technical analysts seemed to be right,
+
+1056
+00:43:21,320 --> 00:43:24,320
+because the Dow bounced around just below 1,000
+
+1057
+00:43:24,320 --> 00:43:25,320
+for a long time.
+
+1058
+00:43:25,320 --> 00:43:27,320
+I guess it was months or a year.
+
+1059
+00:43:27,320 --> 00:43:30,320
+Like it couldn't cross the resistance level.
+
+1060
+00:43:30,320 --> 00:43:32,320
+So, that's one example.
+
+1061
+00:43:32,320 --> 00:43:34,320
+I have another example,
+
+1062
+00:43:34,320 --> 00:43:37,320
+which is from Edwards and McGee's book.
+
+1063
+00:43:37,320 --> 00:43:40,320
+How do I get this?
+
+1064
+00:43:47,320 --> 00:43:49,320
+It's not coming up.
+
+1065
+00:43:49,320 --> 00:43:53,320
+Oh, that's because my thing went into hibernate.
+
+1066
+00:43:56,320 --> 00:43:58,320
+I have to do my password.
+
+1067
+00:44:01,320 --> 00:44:02,320
+There we are.
+
+1068
+00:44:02,320 --> 00:44:04,320
+That's Edwards and McGee.
+
+1069
+00:44:04,320 --> 00:44:06,320
+This is one of the patterns.
+
+1070
+00:44:06,320 --> 00:44:10,320
+McGee was actually a student of psychology.
+
+1071
+00:44:10,320 --> 00:44:12,320
+And he thought,
+
+1072
+00:44:12,320 --> 00:44:14,820
+certain kinds of patterns seem
+
+1073
+00:44:14,820 --> 00:44:17,320
+to have really spooked people.
+
+1074
+00:44:17,320 --> 00:44:19,320
+And this is one pattern,
+
+1075
+00:44:19,320 --> 00:44:21,320
+which he called head and shoulders.
+
+1076
+00:44:21,320 --> 00:44:22,320
+Okay?
+
+1077
+00:44:22,320 --> 00:44:24,320
+That's the head.
+
+1078
+00:44:24,320 --> 00:44:25,320
+That's one shoulder.
+
+1079
+00:44:25,320 --> 00:44:27,320
+That's the other shoulder.
+
+1080
+00:44:27,320 --> 00:44:29,320
+And he said, when you see this pattern,
+
+1081
+00:44:29,320 --> 00:44:30,320
+watch out.
+
+1082
+00:44:30,320 --> 00:44:33,320
+It's going to actually totally collapse,
+
+1083
+00:44:33,320 --> 00:44:35,320
+as it is shown doing.
+
+1084
+00:44:35,320 --> 00:44:37,320
+And so, he had you plotting.
+
+1085
+00:44:37,320 --> 00:44:40,320
+These are stock prices plotted against time.
+
+1086
+00:44:40,320 --> 00:44:42,320
+This is, I don't know what the, these are days.
+
+1087
+00:44:42,320 --> 00:44:45,320
+Each of these points is a day.
+
+1088
+00:44:45,320 --> 00:44:47,320
+And this is from their book.
+
+1089
+00:44:47,320 --> 00:44:49,320
+So, it's a hypothetical.
+
+1090
+00:44:49,320 --> 00:44:51,820
+You hardly ever see such
+
+1091
+00:44:51,820 --> 00:44:54,320
+perfect head and shoulders patterns.
+
+1092
+00:44:54,320 --> 00:44:59,320
+And so, that's one of the patterns.
+
+1093
+00:44:59,320 --> 00:45:01,320
+Maybe that's his most famous.
+
+1094
+00:45:01,320 --> 00:45:02,320
+Edwards and McGee most famous.
+
+1095
+00:45:02,320 --> 00:45:06,320
+Head and shoulders.
+
+1096
+00:45:06,320 --> 00:45:08,320
+So, the question is, does it work?
+
+1097
+00:45:08,320 --> 00:45:12,320
+Does it really work?
+
+1098
+00:45:12,320 --> 00:45:16,320
+Well, in the early 1970s,
+
+1099
+00:45:16,320 --> 00:45:19,320
+when the efficient markets hypothesis was really strong,
+
+1100
+00:45:19,320 --> 00:45:23,320
+Burton Malkiel, who was a professor at Princeton,
+
+1101
+00:45:23,320 --> 00:45:25,320
+and then later he was the
+
+1102
+00:45:25,320 --> 00:45:27,320
+dean of the Yale School of Management,
+
+1103
+00:45:27,320 --> 00:45:30,320
+wrote a book called, A Random Walk Down Wall Street,
+
+1104
+00:45:30,320 --> 00:45:31,320
+which claimed that
+
+1105
+00:45:31,320 --> 00:45:33,320
+technical analysis was bunk.
+
+1106
+00:45:33,320 --> 00:45:34,820
+And he said, many studies
+
+1107
+00:45:34,820 --> 00:45:36,320
+have shown that it doesn't work.
+
+1108
+00:45:36,320 --> 00:45:38,320
+This head and shoulders doesn't work.
+
+1109
+00:45:38,320 --> 00:45:41,320
+None of McGee's, Edwards and McGee's stuff worked.
+
+1110
+00:45:41,320 --> 00:45:43,820
+Well, there were lots of
+
+1111
+00:45:43,820 --> 00:45:46,320
+studies, but I actually met him
+
+1112
+00:45:46,320 --> 00:45:49,320
+at a cocktail party after his book came out.
+
+1113
+00:45:49,320 --> 00:45:51,320
+And I said, you didn't footnote
+
+1114
+00:45:51,320 --> 00:45:53,320
+all those studies about technical analysis.
+
+1115
+00:45:53,320 --> 00:45:56,320
+Where are they?
+
+1116
+00:45:56,320 --> 00:45:57,320
+I can't find them.
+
+1117
+00:45:57,320 --> 00:45:58,320
+I did a search.
+
+1118
+00:45:58,320 --> 00:45:59,320
+Not on the internet.
+
+1119
+00:45:59,320 --> 00:46:00,320
+I did it on something else.
+
+1120
+00:46:00,320 --> 00:46:03,320
+But I was able to search.
+
+1121
+00:46:03,320 --> 00:46:04,320
+And I couldn't find them.
+
+1122
+00:46:04,320 --> 00:46:05,320
+Where are they?
+
+1123
+00:46:05,320 --> 00:46:10,320
+And I found that he didn't have an immediate answer.
+
+1124
+00:46:10,320 --> 00:46:13,320
+I suspected he was extrapolating.
+
+1125
+00:46:13,320 --> 00:46:17,320
+There was a literature on testing market efficiency.
+
+1126
+00:46:17,320 --> 00:46:18,820
+They looked for things
+
+1127
+00:46:18,820 --> 00:46:20,320
+like momentum, whether that continued.
+
+1128
+00:46:20,320 --> 00:46:22,820
+But there was something a
+
+1129
+00:46:22,820 --> 00:46:25,320
+little bit wrong with the literature.
+
+1130
+00:46:25,320 --> 00:46:30,320
+Not many people really confronted technical analysis.
+
+1131
+00:46:30,320 --> 00:46:33,320
+Later, there were people who did look at
+
+1132
+00:46:33,320 --> 00:46:36,320
+some of Edwards and McGee's points, and they
+
+1133
+00:46:36,320 --> 00:46:39,320
+found some element of truth to them.
+
+1134
+00:46:39,320 --> 00:46:43,320
+So, I think the answer is, McGee wasn't a
+
+1135
+00:46:43,320 --> 00:46:47,320
+total idiot, as you might infer from the efficient
+
+1136
+00:46:47,320 --> 00:46:48,320
+markets theory.
+
+1137
+00:46:48,320 --> 00:46:51,320
+But it's not going to make you rich either.
+
+1138
+00:46:51,320 --> 00:46:54,820
+If anything, technical analysis is a
+
+1139
+00:46:54,820 --> 00:46:58,320
+subtle art that can augment trading strategies.
+
+1140
+00:46:58,320 --> 00:46:59,320
+I bet David Swenson doesn't do it.
+
+1141
+00:46:59,320 --> 00:47:01,320
+I don't know for sure.
+
+1142
+00:47:01,320 --> 00:47:06,820
+But let me talk about random walk,
+
+1143
+00:47:06,820 --> 00:47:12,320
+which is a central idea in finance.
+
+1144
+00:47:12,320 --> 00:47:17,320
+And the idea is that, if stock prices
+
+1145
+00:47:17,320 --> 00:47:22,320
+are really efficient, then any change in the market
+
+1146
+00:47:22,320 --> 00:47:25,320
+efficiency is going to be a result of the fact
+
+1147
+00:47:25,320 --> 00:47:28,320
+that the market is going to be a result of
+
+1148
+00:47:28,320 --> 00:47:29,320
+a trade they are going to have.
+
+1149
+00:47:29,320 --> 00:47:29,820
+The reason for that is, if you have
+
+1150
+00:47:29,820 --> 00:47:30,320
+a stock that's very efficient, and it's less than
+
+1151
+00:47:31,320 --> 00:47:32,320
+It's not a trade, and you're spending $1.
+
+1152
+00:47:32,320 --> 00:47:33,320
+It's not a trade.
+
+1153
+00:47:33,320 --> 00:47:34,320
+It's an investment in the market.
+
+1154
+00:47:34,320 --> 00:47:34,820
+Then, any change from day to day
+
+1155
+00:47:34,820 --> 00:47:35,320
+has to be due only to news.
+
+1156
+00:47:35,320 --> 00:47:36,320
+Okay?
+
+1157
+00:47:36,320 --> 00:47:37,320
+And news is essentially unforecastable.
+
+1158
+00:47:37,320 --> 00:47:40,820
+Therefore, stock prices have to
+
+1159
+00:47:40,820 --> 00:47:44,320
+do a random walk through time.
+
+1160
+00:47:44,320 --> 00:47:47,320
+Now, the term – that means that
+
+1161
+00:47:47,320 --> 00:47:50,320
+any future movement in them is always unpredictable.
+
+1162
+00:47:50,320 --> 00:47:55,320
+The changes are totally random.
+
+1163
+00:47:55,320 --> 00:47:56,320
+Okay.
+
+1164
+00:47:56,320 --> 00:47:59,820
+The term, the term, the term,
+
+1165
+00:47:59,820 --> 00:48:03,320
+the term, the term, the term
+
+1166
+00:48:03,320 --> 00:48:07,560
+walk is an important term.
+
+1167
+00:48:07,560 --> 00:48:09,380
+It was coined not by
+
+1168
+00:48:09,380 --> 00:48:11,200
+a finance theorist, but by a
+
+1169
+00:48:11,200 --> 00:48:16,080
+statistician, Carl Pearson, writing in the scientific
+
+1170
+00:48:16,080 --> 00:48:22,820
+journal Nature in 1905.
+
+1171
+00:48:22,820 --> 00:48:26,800
+The movements in some, well, he was thinking theoretically.
+
+1172
+00:48:26,800 --> 00:48:30,760
+Actually, I believe he used the example of a drunk.
+
+1173
+00:48:30,760 --> 00:48:33,980
+Let's take someone who is so
+
+1174
+00:48:33,980 --> 00:48:37,200
+drunk that each step is random.
+
+1175
+00:48:37,200 --> 00:48:39,400
+This person has no direction at all.
+
+1176
+00:48:39,400 --> 00:48:42,260
+It's staggering randomly.
+
+1177
+00:48:42,260 --> 00:48:44,860
+So, he starts out at a lamp pole.
+
+1178
+00:48:44,860 --> 00:48:47,980
+And what would you predict, this is what Pearson asked,
+
+1179
+00:48:47,980 --> 00:48:51,760
+what would you predict is his position in 10 minutes?
+
+1180
+00:48:51,760 --> 00:48:52,820
+He happens to be at a lamp pole.
+
+1181
+00:48:52,820 --> 00:48:54,060
+He's at a lamp pole right now.
+
+1182
+00:48:57,260 --> 00:49:01,980
+And what Pearson said is, well, your best forecast is
+
+1183
+00:49:01,980 --> 00:49:04,760
+that he's right where he is now.
+
+1184
+00:49:04,760 --> 00:49:06,020
+Because you have no bias.
+
+1185
+00:49:06,020 --> 00:49:08,080
+He could go in any direction equally likely.
+
+1186
+00:49:08,080 --> 00:49:09,540
+So, what's most likely?
+
+1187
+00:49:09,540 --> 00:49:12,260
+It's that he stays right where he is.
+
+1188
+00:49:12,260 --> 00:49:15,160
+And what is the probability distribution?
+
+1189
+00:49:15,160 --> 00:49:18,240
+Well, it turns out that the standard deviation around that
+
+1190
+00:49:18,240 --> 00:49:21,200
+point goes up with the square root of n steps.
+
+1191
+00:49:21,200 --> 00:49:22,800
+OK, because each step is independent of the
+
+1192
+00:49:22,800 --> 00:49:25,620
+other, so the square root rule applies.
+
+1193
+00:49:25,620 --> 00:49:28,880
+So, if you're asked to forecast his position after an
+
+1194
+00:49:28,880 --> 00:49:30,770
+hour, that's a lot of steps,
+
+1195
+00:49:30,770 --> 00:49:32,660
+you would say, well, I predict
+
+1196
+00:49:32,660 --> 00:49:33,900
+he's right where he is now,
+
+1197
+00:49:33,900 --> 00:49:35,140
+but I now have a big standard
+
+1198
+00:49:35,140 --> 00:49:37,480
+deviation around it.
+
+1199
+00:49:37,480 --> 00:49:39,340
+Pearson's article had a lot
+
+1200
+00:49:39,340 --> 00:49:41,200
+of, it's a very simple idea.
+
+1201
+00:49:41,200 --> 00:49:45,620
+Among the readers, apparently, was Albert Einstein, and then
+
+1202
+00:49:45,620 --> 00:49:48,200
+Norbert Wiener, the mathematician who had invented
+
+1203
+00:49:48,200 --> 00:49:51,120
+a continuous version of the random walk called the Wiener
+
+1204
+00:49:51,120 --> 00:49:51,280
+process.
+
+1205
+00:49:51,280 --> 00:49:52,240
+So, he's right where he is now.
+
+1206
+00:49:52,240 --> 00:49:55,479
+But it got into finance later.
+
+1207
+00:49:55,479 --> 00:49:59,520
+And in the efficient markets revolution, they started to
+
+1208
+00:49:59,520 --> 00:50:05,489
+realize that stock prices look more
+
+1209
+00:50:05,489 --> 00:50:11,459
+like a random walk than a
+
+1210
+00:50:11,459 --> 00:50:13,359
+head and shoulders.
+
+1211
+00:50:13,359 --> 00:50:15,720
+You look at these head and shoulders patterns, you look
+
+1212
+00:50:15,720 --> 00:50:17,100
+for them, and they're hard to find.
+
+1213
+00:50:17,100 --> 00:50:22,100
+So, what is a random walk?
+
+1214
+00:50:22,100 --> 00:50:23,100
+Let me just define it.
+
+1215
+00:50:23,100 --> 00:50:26,600
+A random walk is where you have a
+
+1216
+00:50:26,600 --> 00:50:30,100
+series x sub t equals x sub t
+
+1217
+00:50:30,100 --> 00:50:33,120
+minus 1 plus epsilon sub
+
+1218
+00:50:33,120 --> 00:50:36,140
+t, where epsilon t is noise.
+
+1219
+00:50:36,140 --> 00:50:40,060
+Just unforecastable noise, mean zero and some standard
+
+1220
+00:50:40,060 --> 00:50:43,100
+deviation.
+
+1221
+00:50:43,100 --> 00:50:45,660
+Ideally, it would be normally distributed.
+
+1222
+00:50:45,660 --> 00:50:47,220
+So, it would have a bell-shaped curve.
+
+1223
+00:50:47,220 --> 00:50:48,680
+And then the math would
+
+1224
+00:50:48,680 --> 00:50:50,140
+be very easy and very simple.
+
+1225
+00:50:50,140 --> 00:50:51,220
+So, you can do that.
+
+1226
+00:50:51,220 --> 00:50:52,220
+But it's not always easy.
+
+1227
+00:50:52,220 --> 00:50:55,720
+So, I want to contrast
+
+1228
+00:50:55,720 --> 00:50:59,220
+that with an alternative, which is
+
+1229
+00:50:59,220 --> 00:51:02,220
+called a first-order autoregressive.
+
+1230
+00:51:02,220 --> 00:51:03,839
+Let me get my notation here.
+
+1231
+00:51:03,839 --> 00:51:11,720
+Let's take a process that starts at 100.
+
+1232
+00:51:11,720 --> 00:51:13,220
+That's like the lamppost.
+
+1233
+00:51:13,220 --> 00:51:15,720
+And we'll say, x sub t
+
+1234
+00:51:15,720 --> 00:51:18,220
+equals, how am I putting this?
+
+1235
+00:51:18,220 --> 00:51:19,220
+I'm going to write it down.
+
+1236
+00:51:19,220 --> 00:51:20,220
+So, x sub t equals, how am I putting this?
+
+1237
+00:51:20,220 --> 00:51:21,220
+Let me write it down.
+
+1238
+00:51:21,220 --> 00:51:23,720
+So, I'm going to write down
+
+1239
+00:51:23,720 --> 00:51:26,220
+100 plus some number of rho,
+
+1240
+00:51:26,220 --> 00:51:30,720
+that's a rho, times x sub
+
+1241
+00:51:30,720 --> 00:51:35,220
+t minus 1 minus 100 plus epsilon
+
+1242
+00:51:35,220 --> 00:51:37,220
+sub t.
+
+1243
+00:51:37,220 --> 00:51:42,220
+So, this is an AR1.
+
+1244
+00:51:42,220 --> 00:51:46,220
+That's first-order autoregressive.
+
+1245
+00:51:46,220 --> 00:51:48,220
+It's like a regression model,
+
+1246
+00:51:48,220 --> 00:51:50,220
+where 100 is the constant term.
+
+1247
+00:51:50,220 --> 00:51:53,220
+And 1 minus rho is the constant term.
+
+1248
+00:51:53,220 --> 00:51:58,220
+And the coefficient of the lagged x is rho.
+
+1249
+00:51:58,220 --> 00:52:03,220
+And we usually require that rho is between
+
+1250
+00:52:03,220 --> 00:52:08,220
+0 and 1, between minus 1 and 1.
+
+1251
+00:52:08,220 --> 00:52:10,220
+Normally, rho is positive.
+
+1252
+00:52:10,220 --> 00:52:18,220
+So, that means that it's mean reverting, but slowly.
+
+1253
+00:52:18,220 --> 00:52:20,220
+You see what this is saying?
+
+1254
+00:52:20,220 --> 00:52:22,720
+First of all, in the special case where
+
+1255
+00:52:22,720 --> 00:52:25,220
+rho equals 1, well, that would be, I wouldn't
+
+1256
+00:52:25,220 --> 00:52:27,720
+call it an AR1 anymore, because
+
+1257
+00:52:27,720 --> 00:52:30,220
+it reduces to a random walk.
+
+1258
+00:52:30,220 --> 00:52:32,220
+If you make rho 1,
+
+1259
+00:52:32,220 --> 00:52:34,220
+then the constant term drops out.
+
+1260
+00:52:34,220 --> 00:52:37,220
+I've got 100 minus 100.
+
+1261
+00:52:37,220 --> 00:52:39,220
+There's no constant term.
+
+1262
+00:52:39,220 --> 00:52:41,220
+And then I've got x sub t equals
+
+1263
+00:52:41,220 --> 00:52:43,220
+x sub t minus 1 plus epsilon t.
+
+1264
+00:52:43,220 --> 00:52:45,220
+That's a random walk.
+
+1265
+00:52:45,220 --> 00:52:46,220
+So, in the extreme case where rho
+
+1266
+00:52:46,220 --> 00:52:47,220
+is 1, I've got a constant term.
+
+1267
+00:52:47,220 --> 00:52:52,220
+In the extreme case where rho gets
+
+1268
+00:52:52,220 --> 00:52:57,220
+to 1, a first-order autoregressive process converges
+
+1269
+00:52:57,220 --> 00:52:59,220
+to a random walk.
+
+1270
+00:52:59,220 --> 00:53:04,220
+I wanted to show you some simulations of
+
+1271
+00:53:04,220 --> 00:53:09,220
+it, if I can make my thing work.
+
+1272
+00:53:09,220 --> 00:53:16,220
+So, let me see.
+
+1273
+00:53:17,220 --> 00:53:21,220
+Here I want to go.
+
+1274
+00:53:21,220 --> 00:53:23,220
+Okay.
+
+1275
+00:53:23,220 --> 00:53:26,220
+Except that I can't see.
+
+1276
+00:53:26,220 --> 00:53:27,220
+Okay.
+
+1277
+00:53:27,220 --> 00:53:31,220
+This here is a plot I had.
+
+1278
+00:53:31,220 --> 00:53:34,220
+Let's first look at the black line.
+
+1279
+00:53:34,220 --> 00:53:38,720
+The black line is the Standard &
+
+1280
+00:53:38,720 --> 00:53:43,220
+Poor's Composite Stock Price Index in real terms.
+
+1281
+00:53:43,220 --> 00:53:45,220
+I have that from 1871 until recently.
+
+1282
+00:53:45,220 --> 00:53:46,220
+Okay.
+
+1283
+00:53:46,220 --> 00:53:52,220
+That's just there for comparison.
+
+1284
+00:53:52,220 --> 00:53:55,220
+That is the actual stock market.
+
+1285
+00:53:55,220 --> 00:53:56,220
+Okay.
+
+1286
+00:53:56,220 --> 00:54:03,220
+The pink line is a random walk that I
+
+1287
+00:54:03,220 --> 00:54:10,220
+generated using this formula and a random number generator
+
+1288
+00:54:10,220 --> 00:54:14,220
+that generates random normal variables.
+
+1289
+00:54:14,220 --> 00:54:16,220
+Okay.
+
+1290
+00:54:16,220 --> 00:54:18,220
+I started them out at the same level.
+
+1291
+00:54:18,220 --> 00:54:24,220
+But don't they look kind of similar?
+
+1292
+00:54:24,220 --> 00:54:28,720
+I mean, the thing is, if you look at
+
+1293
+00:54:28,720 --> 00:54:33,220
+the stock market without comparing it with a random walk,
+
+1294
+00:54:33,220 --> 00:54:36,220
+it looks like it has patterns in it.
+
+1295
+00:54:36,220 --> 00:54:39,220
+In fact, here's a head and shoulders right here.
+
+1296
+00:54:39,220 --> 00:54:40,220
+Right?
+
+1297
+00:54:40,220 --> 00:54:42,220
+Bang, bang, bang.
+
+1298
+00:54:42,220 --> 00:54:43,220
+When is that?
+
+1299
+00:54:43,220 --> 00:54:48,220
+This is 1937.
+
+1300
+00:54:48,220 --> 00:54:51,220
+This is, when is that?
+
+1301
+00:54:51,220 --> 00:54:52,220
+I'm not sure.
+
+1302
+00:54:55,220 --> 00:54:57,220
+And this is just before the war.
+
+1303
+00:54:57,220 --> 00:54:59,220
+I'm not sure exactly when those.
+
+1304
+00:54:59,220 --> 00:55:01,220
+There's a nice head and shoulders.
+
+1305
+00:55:01,220 --> 00:55:04,220
+Hey, Edwards and McGee are sort of right, right?
+
+1306
+00:55:04,220 --> 00:55:06,220
+It dropped a lot after that.
+
+1307
+00:55:06,220 --> 00:55:08,720
+But, you know, I can find
+
+1308
+00:55:08,720 --> 00:55:11,220
+head and shoulders up here, too.
+
+1309
+00:55:11,220 --> 00:55:12,220
+Right?
+
+1310
+00:55:12,220 --> 00:55:13,220
+And the pink line.
+
+1311
+00:55:13,220 --> 00:55:14,220
+The pink line.
+
+1312
+00:55:14,220 --> 00:55:15,220
+You understand it?
+
+1313
+00:55:15,220 --> 00:55:17,220
+The black line is actual U.S. history.
+
+1314
+00:55:17,220 --> 00:55:19,220
+That's the stock market.
+
+1315
+00:55:19,220 --> 00:55:24,220
+The pink line is a fake
+
+1316
+00:55:24,220 --> 00:55:29,220
+stock line generated with pure random noise.
+
+1317
+00:55:29,220 --> 00:55:31,220
+And the fact that it's going up is just chance.
+
+1318
+00:55:31,220 --> 00:55:33,220
+Now, I can actually use
+
+1319
+00:55:33,220 --> 00:55:35,220
+this program to generate other examples.
+
+1320
+00:55:35,220 --> 00:55:38,220
+So, I'm going to, the black line, this should change.
+
+1321
+00:55:38,220 --> 00:55:39,220
+Let me see.
+
+1322
+00:55:39,220 --> 00:55:40,220
+Make sure it's working here.
+
+1323
+00:55:40,220 --> 00:55:41,220
+Yeah.
+
+1324
+00:55:41,220 --> 00:55:42,220
+The black line is the same.
+
+1325
+00:55:42,220 --> 00:55:44,220
+I'm not going to change the black line.
+
+1326
+00:55:44,220 --> 00:55:45,220
+The black line is history.
+
+1327
+00:55:45,220 --> 00:55:48,720
+I just did a brand new random walk
+
+1328
+00:55:48,720 --> 00:55:52,220
+calculation using my random number generator, which is
+
+1329
+00:55:52,220 --> 00:55:55,220
+there on Excel.
+
+1330
+00:55:55,220 --> 00:55:57,220
+That looks pretty good, doesn't it?
+
+1331
+00:55:57,220 --> 00:55:59,220
+I just did that by, I'm
+
+1332
+00:55:59,220 --> 00:56:01,220
+going to do more for you.
+
+1333
+00:56:01,220 --> 00:56:03,220
+Which one is the real stock market?
+
+1334
+00:56:03,220 --> 00:56:07,220
+I find that hard to tell, right?
+
+1335
+00:56:07,220 --> 00:56:09,220
+This was an insight.
+
+1336
+00:56:09,220 --> 00:56:11,720
+The insight is that people get deceived
+
+1337
+00:56:11,720 --> 00:56:14,220
+when they look at stock price charts.
+
+1338
+00:56:14,220 --> 00:56:16,220
+They think they see patterns.
+
+1339
+00:56:16,220 --> 00:56:19,220
+That pink line is guaranteed to have no patterns,
+
+1340
+00:56:19,220 --> 00:56:22,220
+because I generated it so that there are no
+
+1341
+00:56:22,220 --> 00:56:24,220
+patterns, except random patterns.
+
+1342
+00:56:24,220 --> 00:56:26,220
+But when I look at this pink line,
+
+1343
+00:56:26,220 --> 00:56:28,220
+which just came up, look at that uptrend.
+
+1344
+00:56:28,220 --> 00:56:29,220
+Wow.
+
+1345
+00:56:29,220 --> 00:56:32,220
+That's called a bull market when it goes up.
+
+1346
+00:56:32,220 --> 00:56:33,720
+And I could make all kinds
+
+1347
+00:56:33,720 --> 00:56:35,220
+of theories about why that's happening.
+
+1348
+00:56:35,220 --> 00:56:36,720
+But, you know, those would be fake
+
+1349
+00:56:36,720 --> 00:56:38,220
+theories, because I know what's really happening.
+
+1350
+00:56:38,220 --> 00:56:40,220
+This is pure randomness.
+
+1351
+00:56:40,220 --> 00:56:41,220
+So, I'll do it again.
+
+1352
+00:56:41,220 --> 00:56:43,220
+I can do this forever.
+
+1353
+00:56:43,220 --> 00:56:45,220
+That's another one.
+
+1354
+00:56:45,220 --> 00:56:47,220
+Here, the trend wasn't quite so positive.
+
+1355
+00:56:47,220 --> 00:56:50,220
+Oh, actually, I have to say one thing.
+
+1356
+00:56:50,220 --> 00:56:51,220
+I forgot.
+
+1357
+00:56:51,220 --> 00:56:53,220
+I did put an uptrend in the random walk.
+
+1358
+00:56:53,220 --> 00:56:54,220
+Sorry.
+
+1359
+00:56:54,220 --> 00:56:58,720
+In this simulation, I did add a
+
+1360
+00:56:58,720 --> 00:57:03,220
+constant, so that it pushed it up.
+
+1361
+00:57:03,220 --> 00:57:04,220
+Otherwise, it was a random walk.
+
+1362
+00:57:04,220 --> 00:57:06,220
+I say here, and I forgot what I did.
+
+1363
+00:57:06,220 --> 00:57:07,220
+It was a random walk with trends.
+
+1364
+00:57:07,220 --> 00:57:09,220
+But it doesn't guarantee that it
+
+1365
+00:57:09,220 --> 00:57:11,220
+will go up, because it's random.
+
+1366
+00:57:11,220 --> 00:57:13,220
+I'll do another simulation.
+
+1367
+00:57:13,220 --> 00:57:16,220
+I'll do another one.
+
+1368
+00:57:16,220 --> 00:57:17,220
+See how fast I can do this?
+
+1369
+00:57:17,220 --> 00:57:19,220
+This is the wonder of modern computers.
+
+1370
+00:57:19,220 --> 00:57:22,720
+That one doesn't look – if this were our history, people
+
+1371
+00:57:22,720 --> 00:57:26,220
+would say, the amazing stock market of the first half –
+
+1372
+00:57:26,220 --> 00:57:27,720
+look at that stock market of
+
+1373
+00:57:27,720 --> 00:57:29,220
+the first half of the 20th century.
+
+1374
+00:57:29,220 --> 00:57:31,220
+And we would be devising all
+
+1375
+00:57:31,220 --> 00:57:33,220
+kinds of theories to explain it.
+
+1376
+00:57:33,220 --> 00:57:35,220
+But in fact, it's just nonsense.
+
+1377
+00:57:35,220 --> 00:57:36,220
+It's just randomness.
+
+1378
+00:57:36,220 --> 00:57:38,220
+I'll do a few more.
+
+1379
+00:57:38,220 --> 00:57:40,220
+Look at that.
+
+1380
+00:57:40,220 --> 00:57:42,220
+Boy, that would be a hump
+
+1381
+00:57:42,220 --> 00:57:44,220
+shape for the whole 20th century.
+
+1382
+00:57:44,220 --> 00:57:47,220
+We would have historians trying to figure that one out.
+
+1383
+00:57:47,220 --> 00:57:48,220
+Oh, this one downtrend.
+
+1384
+00:57:48,220 --> 00:57:50,220
+This is a bad outcome.
+
+1385
+00:57:50,220 --> 00:57:55,220
+Jeremy Siegel would not be pleased with this outcome, because
+
+1386
+00:57:55,220 --> 00:58:00,220
+it has the stock market gaining nothing in 100 years.
+
+1387
+00:58:00,220 --> 00:58:04,220
+So, these are all equally likely outcomes.
+
+1388
+00:58:04,220 --> 00:58:07,220
+Look at that one.
+
+1389
+00:58:07,220 --> 00:58:11,220
+If that were the world that we inherited, we would
+
+1390
+00:58:11,220 --> 00:58:15,220
+really think there was a linear trend in the market, right?
+
+1391
+00:58:15,220 --> 00:58:18,220
+People would be making models saying, it just goes
+
+1392
+00:58:18,220 --> 00:58:21,220
+– look at that, how straight that line is.
+
+1393
+00:58:21,220 --> 00:58:24,720
+The point is that you start to see
+
+1394
+00:58:24,720 --> 00:58:28,220
+a sort of reality, which is really just randomness.
+
+1395
+00:58:28,220 --> 00:58:30,220
+That's why Nassim Taleb, a friend
+
+1396
+00:58:30,220 --> 00:58:32,220
+of mine, wrote a book called, Foolish.
+
+1397
+00:58:32,220 --> 00:58:33,220
+He wrote a book called, Foolish.
+
+1398
+00:58:33,220 --> 00:58:35,220
+He wrote a book called, Fooled by Randomness.
+
+1399
+00:58:35,220 --> 00:58:38,220
+That was a great title for a great book.
+
+1400
+00:58:38,220 --> 00:58:40,720
+That people don't understand how
+
+1401
+00:58:40,720 --> 00:58:43,220
+things are just purely random.
+
+1402
+00:58:43,220 --> 00:58:46,220
+And your mind tries to make sense out of them.
+
+1403
+00:58:46,220 --> 00:58:48,220
+And you start looking at patterns,
+
+1404
+00:58:48,220 --> 00:58:50,220
+and the patterns don't mean anything.
+
+1405
+00:58:50,220 --> 00:58:52,720
+So, I can just keep
+
+1406
+00:58:52,720 --> 00:58:55,220
+doing this, but maybe I'll stop.
+
+1407
+00:58:55,220 --> 00:58:59,220
+Look at that one.
+
+1408
+00:58:59,220 --> 00:59:00,220
+Of course, I'm helped along by
+
+1409
+00:59:00,220 --> 00:59:01,220
+the trend that I added in.
+
+1410
+00:59:01,220 --> 00:59:01,720
+So, I want to see
+
+1411
+00:59:01,720 --> 00:59:02,220
+if I can get a downtrend.
+
+1412
+00:59:02,220 --> 00:59:04,720
+Because I put a trend in,
+
+1413
+00:59:04,720 --> 00:59:07,220
+it's hard to get a real downtrend.
+
+1414
+00:59:07,220 --> 00:59:09,220
+That's sort of a downtrend.
+
+1415
+00:59:09,220 --> 00:59:12,220
+That's where there are a lot of negative shocks.
+
+1416
+00:59:12,220 --> 00:59:15,220
+But anyway, what I want to do is – so, you
+
+1417
+00:59:15,220 --> 00:59:18,220
+see the comparison of the random walk with the actual stock market.
+
+1418
+00:59:18,220 --> 00:59:20,220
+So, the actual stock market looks
+
+1419
+00:59:20,220 --> 00:59:22,220
+a lot like a random walk.
+
+1420
+00:59:22,220 --> 00:59:24,220
+You know, one thing is different, though.
+
+1421
+00:59:24,220 --> 00:59:26,220
+Look at this pattern here.
+
+1422
+00:59:26,220 --> 00:59:29,220
+1929, and this is the crash after 29.
+
+1423
+00:59:29,220 --> 00:59:30,220
+You know what?
+
+1424
+00:59:30,220 --> 00:59:31,220
+I'm not getting that in any of my simulations.
+
+1425
+00:59:31,220 --> 00:59:33,220
+And you know why I'm not?
+
+1426
+00:59:33,220 --> 00:59:37,220
+Because I chose a normally distributed shock.
+
+1427
+00:59:37,220 --> 00:59:38,220
+No fat tails.
+
+1428
+00:59:38,220 --> 00:59:41,220
+I didn't put fat tails into my simulation.
+
+1429
+00:59:41,220 --> 00:59:43,220
+And you didn't notice that, right?
+
+1430
+00:59:43,220 --> 00:59:48,220
+But in this simulation, we never see such sudden drops.
+
+1431
+00:59:48,220 --> 00:59:50,720
+So, there's something that you might, if you spend time
+
+1432
+00:59:50,720 --> 00:59:53,220
+searching on it, you might see something not quite right.
+
+1433
+00:59:53,220 --> 00:59:55,720
+But basically, the random walk looks
+
+1434
+00:59:55,720 --> 00:59:58,220
+a lot like the actual stock market.
+
+1435
+00:59:58,220 --> 01:00:00,220
+I'm trying to get one that really matches up.
+
+1436
+01:00:01,220 --> 01:00:05,220
+But I'm not quite succeeding.
+
+1437
+01:00:05,220 --> 01:00:07,220
+That's pretty good, isn't it?
+
+1438
+01:00:07,220 --> 01:00:10,220
+Now, it doesn't show – see, in
+
+1439
+01:00:10,220 --> 01:00:13,220
+this simulation, 1929 wasn't quite as strong.
+
+1440
+01:00:13,220 --> 01:00:15,220
+And the depression wasn't as bad.
+
+1441
+01:00:15,220 --> 01:00:17,720
+Anyway, what I want to do now
+
+1442
+01:00:17,720 --> 01:00:20,220
+is compare the random walk with the AR1.
+
+1443
+01:00:20,220 --> 01:00:23,220
+And so, what I want to
+
+1444
+01:00:23,220 --> 01:00:26,220
+do is go to a comparison.
+
+1445
+01:00:26,220 --> 01:00:27,720
+Now, I'm going to do the same thing,
+
+1446
+01:00:27,720 --> 01:00:29,220
+but I'm going to do it with –
+
+1447
+01:00:31,220 --> 01:00:33,220
+comparing.
+
+1448
+01:00:33,220 --> 01:00:35,220
+Maybe I can go to full screen.
+
+1449
+01:00:35,220 --> 01:00:37,220
+Make it look better.
+
+1450
+01:00:37,220 --> 01:00:41,220
+Where am I? Full screen.
+
+1451
+01:00:45,220 --> 01:00:49,220
+Now – wait a minute.
+
+1452
+01:00:49,220 --> 01:00:50,220
+This is the same thing.
+
+1453
+01:00:50,220 --> 01:00:51,220
+I'm sorry.
+
+1454
+01:00:51,220 --> 01:00:54,720
+What am I – I was trying
+
+1455
+01:00:54,720 --> 01:00:58,220
+to get – maybe it's not working right.
+
+1456
+01:00:58,220 --> 01:01:00,220
+Why do I have the actual stock market?
+
+1457
+01:01:01,220 --> 01:01:13,220
+I can't quite get it.
+
+1458
+01:01:13,220 --> 01:01:14,220
+Oh, I see.
+
+1459
+01:01:14,220 --> 01:01:15,220
+I know what I did.
+
+1460
+01:01:15,220 --> 01:01:16,220
+I'm sorry.
+
+1461
+01:01:16,220 --> 01:01:19,720
+This is – the pink line is
+
+1462
+01:01:19,720 --> 01:01:23,220
+now an AR1 process, which is this process.
+
+1463
+01:01:23,220 --> 01:01:25,220
+So, it's mean reverting now.
+
+1464
+01:01:25,220 --> 01:01:26,220
+And I left the same stuff.
+
+1465
+01:01:26,220 --> 01:01:29,220
+I'm not comparing the random walk with the AR1.
+
+1466
+01:01:29,220 --> 01:01:31,220
+I'm just doing the same thing now.
+
+1467
+01:01:31,220 --> 01:01:32,220
+With the AR1.
+
+1468
+01:01:32,220 --> 01:01:35,720
+Now, the thing about AR1 is you realize
+
+1469
+01:01:35,720 --> 01:01:39,220
+that it wants to come back to 100.
+
+1470
+01:01:39,220 --> 01:01:43,220
+I put a trend in.
+
+1471
+01:01:43,220 --> 01:01:46,720
+So, it's actually coming back to
+
+1472
+01:01:46,720 --> 01:01:50,220
+a linear uptrend in my model here.
+
+1473
+01:01:50,220 --> 01:01:52,720
+What I did is I put
+
+1474
+01:01:52,720 --> 01:01:55,220
+in a time trend as well.
+
+1475
+01:01:55,220 --> 01:01:57,720
+But the point is that
+
+1476
+01:01:57,720 --> 01:02:00,220
+it tends to hug the trend.
+
+1477
+01:02:00,220 --> 01:02:03,720
+It tends to hug the trend somewhat because it
+
+1478
+01:02:03,720 --> 01:02:07,220
+– what an AR1 – I have it here shown
+
+1479
+01:02:07,220 --> 01:02:10,220
+not around a trend, but around 100.
+
+1480
+01:02:10,220 --> 01:02:15,220
+What an AR1 does is, say, rho is a half.
+
+1481
+01:02:15,220 --> 01:02:18,720
+If rho is a half, then it means that if X
+
+1482
+01:02:18,720 --> 01:02:22,220
+of T minus 1 was above 100, last period was above
+
+1483
+01:02:22,220 --> 01:02:24,720
+100, it will be above 100 this
+
+1484
+01:02:24,720 --> 01:02:27,220
+time, but only half as much above 100.
+
+1485
+01:02:27,220 --> 01:02:28,220
+So, it's going back to 100.
+
+1486
+01:02:28,220 --> 01:02:29,220
+Okay.
+
+1487
+01:02:29,220 --> 01:02:32,720
+And then, the next time, it will only be half
+
+1488
+01:02:32,720 --> 01:02:36,220
+again as much above 100 as it was the last time.
+
+1489
+01:02:36,220 --> 01:02:37,720
+So, it goes – it tends
+
+1490
+01:02:37,720 --> 01:02:39,220
+to go back to a trend.
+
+1491
+01:02:39,220 --> 01:02:44,220
+But what I've shown here is a simulation
+
+1492
+01:02:44,220 --> 01:02:49,220
+with a random number generator of an AR1 around
+
+1493
+01:02:49,220 --> 01:02:53,220
+a trend where the trend matches
+
+1494
+01:02:53,220 --> 01:02:57,220
+the actual trend in the stock market.
+
+1495
+01:02:57,220 --> 01:03:00,720
+Now, in this case, there is – this is
+
+1496
+01:03:00,720 --> 01:03:04,220
+not random walk, and there is a profit opportunity.
+
+1497
+01:03:04,220 --> 01:03:08,220
+And the profit opportunity is when it's below trend, buy.
+
+1498
+01:03:08,220 --> 01:03:10,720
+When it's above trend, sell, because it
+
+1499
+01:03:10,720 --> 01:03:13,220
+will tend to come back to trend.
+
+1500
+01:03:13,220 --> 01:03:15,720
+I think it looks a little – I chose
+
+1501
+01:03:15,720 --> 01:03:18,220
+a rho, which was very small, something like a half,
+
+1502
+01:03:18,220 --> 01:03:19,220
+I think.
+
+1503
+01:03:19,220 --> 01:03:22,220
+So, it tends to come rapidly back to trend.
+
+1504
+01:03:22,220 --> 01:03:23,720
+This does look different than
+
+1505
+01:03:23,720 --> 01:03:25,220
+the actual stock market, doesn't it?
+
+1506
+01:03:25,220 --> 01:03:25,720
+It's – you see how much
+
+1507
+01:03:25,720 --> 01:03:26,220
+more it's going to go up?
+
+1508
+01:03:26,220 --> 01:03:30,220
+It's – you see how much it hugs a trend?
+
+1509
+01:03:30,220 --> 01:03:33,220
+So, it doesn't seem to fit as well.
+
+1510
+01:03:33,220 --> 01:03:39,220
+Let me – I can do simulations of this, too.
+
+1511
+01:03:39,220 --> 01:03:41,220
+See, this is different.
+
+1512
+01:03:41,220 --> 01:03:42,720
+This is a different –
+
+1513
+01:03:42,720 --> 01:03:44,220
+you can see the difference, right?
+
+1514
+01:03:44,220 --> 01:03:48,720
+This pink line doesn't look as much like the
+
+1515
+01:03:48,720 --> 01:03:53,220
+actual stock market, because it really wants this trend.
+
+1516
+01:03:53,220 --> 01:03:54,720
+But we saw trendy ones occasionally
+
+1517
+01:03:54,720 --> 01:03:56,220
+by chance with a random walk.
+
+1518
+01:03:56,220 --> 01:04:00,220
+But here, we're seeing it's always on a trend.
+
+1519
+01:04:00,220 --> 01:04:03,720
+And so, in this world, if the stock market
+
+1520
+01:04:03,720 --> 01:04:07,220
+were an AR1, there would be a profitable strategy.
+
+1521
+01:04:07,220 --> 01:04:09,720
+Always buy when it's below trend and sell when
+
+1522
+01:04:09,720 --> 01:04:12,220
+it's above trend, because you know it will come back.
+
+1523
+01:04:12,220 --> 01:04:13,720
+You can see how reliably
+
+1524
+01:04:13,720 --> 01:04:15,220
+this comes back to a trend.
+
+1525
+01:04:15,220 --> 01:04:19,220
+All right.
+
+1526
+01:04:19,220 --> 01:04:21,220
+So, you can see that there's a fundamental difference.
+
+1527
+01:04:21,220 --> 01:04:23,220
+The random walk seems to fit
+
+1528
+01:04:23,220 --> 01:04:25,220
+the data better than the AR1.
+
+1529
+01:04:26,220 --> 01:04:29,220
+The random walk theory says that
+
+1530
+01:04:29,220 --> 01:04:32,220
+stock prices are not mean reverting.
+
+1531
+01:04:32,220 --> 01:04:36,220
+Where they go from today is all random.
+
+1532
+01:04:36,220 --> 01:04:39,220
+If they're above the historical trend, meaningless.
+
+1533
+01:04:39,220 --> 01:04:41,220
+The historical trend is just nonsense.
+
+1534
+01:04:41,220 --> 01:04:43,220
+It's just random.
+
+1535
+01:04:43,220 --> 01:04:45,220
+And forget trends.
+
+1536
+01:04:45,220 --> 01:04:46,220
+Forget anything.
+
+1537
+01:04:46,220 --> 01:04:48,220
+It's always the drunk at the lamppost,
+
+1538
+01:04:48,220 --> 01:04:50,220
+no matter where you are in history.
+
+1539
+01:04:50,220 --> 01:04:52,720
+But this one, if rho is substantially less
+
+1540
+01:04:52,720 --> 01:04:55,220
+than 1, looks a lot different, doesn't it?
+
+1541
+01:04:55,220 --> 01:04:58,220
+With rho equals a half, this
+
+1542
+01:04:58,220 --> 01:05:01,220
+is not the world we live in.
+
+1543
+01:05:01,220 --> 01:05:03,220
+It would be too easy to make money.
+
+1544
+01:05:03,220 --> 01:05:05,220
+All these little oscillations around
+
+1545
+01:05:05,220 --> 01:05:07,220
+the trend, I could profit from.
+
+1546
+01:05:07,220 --> 01:05:09,220
+But in the real world, it's not like that.
+
+1547
+01:05:09,220 --> 01:05:13,720
+Now, but what about, suppose the real
+
+1548
+01:05:13,720 --> 01:05:18,220
+world is AR1 with rho equal 0.99.
+
+1549
+01:05:18,220 --> 01:05:20,220
+What about that?
+
+1550
+01:05:20,220 --> 01:05:21,720
+Well, that's not much different
+
+1551
+01:05:21,720 --> 01:05:23,220
+from a random walk, is it?
+
+1552
+01:05:23,220 --> 01:05:24,220
+It's going to be hard to tell the difference.
+
+1553
+01:05:25,220 --> 01:05:30,220
+So, in the efficient markets theory period, people
+
+1554
+01:05:30,220 --> 01:05:35,220
+were really excited about the random walk hypothesis.
+
+1555
+01:05:35,220 --> 01:05:39,720
+That's why Burton Malkiel's book, A Random Walk Down Wall Street, which
+
+1556
+01:05:39,720 --> 01:05:44,220
+he came out with, I think it was in 1973, right after Fama.
+
+1557
+01:05:44,220 --> 01:05:46,220
+It became a huge bestseller.
+
+1558
+01:05:46,220 --> 01:05:49,220
+It sold over a million copies.
+
+1559
+01:05:49,220 --> 01:05:51,720
+Because at that time, people were
+
+1560
+01:05:51,720 --> 01:05:54,220
+thinking, this is exciting new wisdom.
+
+1561
+01:05:54,220 --> 01:05:58,220
+We've learned the stock market is a random walk.
+
+1562
+01:05:58,220 --> 01:06:01,220
+And there's all kinds of implications for that.
+
+1563
+01:06:01,220 --> 01:06:05,220
+The problem is, and I have to wrap up, the
+
+1564
+01:06:05,220 --> 01:06:09,220
+problem is that the random walk hypothesis wasn't exactly right.
+
+1565
+01:06:09,220 --> 01:06:11,220
+It's sort of right.
+
+1566
+01:06:11,220 --> 01:06:13,220
+You've gotten some insight.
+
+1567
+01:06:13,220 --> 01:06:15,720
+But, you know, maybe the real world
+
+1568
+01:06:15,720 --> 01:06:18,220
+is AR1 with a rho close to 1.
+
+1569
+01:06:18,220 --> 01:06:20,720
+And in that world, there are profit opportunities,
+
+1570
+01:06:20,720 --> 01:06:23,220
+but they take a long time to come.
+
+1571
+01:06:24,220 --> 01:06:31,720
+So, if the real world is AR1 with rho equal 0.99 or 0.98, that means you can buy stocks
+
+1572
+01:06:31,720 --> 01:06:39,220
+when they're below trend, but then you have to wait 10, 20 years for them to get back to trend.
+
+1573
+01:06:39,220 --> 01:06:44,220
+It's like the drunk on the lamp pole.
+
+1574
+01:06:44,220 --> 01:06:46,220
+The drunk is standing next to a lamp pole.
+
+1575
+01:06:46,220 --> 01:06:48,220
+It was a random walk.
+
+1576
+01:06:48,220 --> 01:06:50,220
+But now we put an elastic band around the
+
+1577
+01:06:50,220 --> 01:06:52,220
+drunk's ankle and tie it to the lamp pole.
+
+1578
+01:06:52,220 --> 01:06:53,220
+And it pulls him back.
+
+1579
+01:06:53,220 --> 01:06:57,220
+Now, if we have a very loose elastic, this guy can
+
+1580
+01:06:57,220 --> 01:07:01,220
+wander for a long time, but will eventually be pulled back.
+
+1581
+01:07:01,220 --> 01:07:03,220
+You never know when.
+
+1582
+01:07:03,220 --> 01:07:06,720
+But if you have a tight elastic, then it
+
+1583
+01:07:06,720 --> 01:07:10,220
+would be obvious that the drunk is coming back.
+
+1584
+01:07:10,220 --> 01:07:13,220
+The problem is that the real world seems maybe
+
+1585
+01:07:13,220 --> 01:07:16,220
+to be more like the drunk with the loose elastic.
+
+1586
+01:07:16,220 --> 01:07:18,220
+And so, it's kind of unsatisfying.
+
+1587
+01:07:18,220 --> 01:07:20,220
+You can beat the market.
+
+1588
+01:07:20,220 --> 01:07:22,220
+But, you know, simple trading rules.
+
+1589
+01:07:23,220 --> 01:07:26,220
+Like, Evans, Edwards, and McGee
+
+1590
+01:07:26,220 --> 01:07:29,220
+are not powerful short-run profit opportunities.
+
+1591
+01:07:29,220 --> 01:07:32,220
+In that sense, the efficient markets hypothesis is right.
+
+1592
+01:07:32,220 --> 01:07:35,220
+So, don't forget the efficient markets hypothesis.
+
+1593
+01:07:35,220 --> 01:07:37,220
+I'll repeat what I said at the beginning.
+
+1594
+01:07:37,220 --> 01:07:39,220
+It's a half-truth.
+
+1595
+01:07:39,220 --> 01:07:40,220
+It's half-true.
+
+1596
+01:07:40,220 --> 01:07:41,220
+Remember that.
+
+1597
+01:07:41,220 --> 01:07:43,220
+But don't put too much faith in it either.
+
