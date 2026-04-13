@@ -1,0 +1,6968 @@
+1
+00:00:00,000 --> 00:00:05,760
+OK, so this is the fourth lecture for Economics 252,
+
+2
+00:00:05,760 --> 00:00:07,160
+Financial Markets.
+
+3
+00:00:07,160 --> 00:00:12,080
+And I wanted to talk about some really basic concepts
+
+4
+00:00:12,080 --> 00:00:14,840
+about portfolios.
+
+5
+00:00:14,840 --> 00:00:18,560
+A portfolio is a collection of investments.
+
+6
+00:00:18,560 --> 00:00:20,600
+And I want to talk about
+
+7
+00:00:20,600 --> 00:00:22,640
+risk and return, and eventually get
+
+8
+00:00:22,640 --> 00:00:27,160
+into the core theory, which is the capital asset pricing
+
+9
+00:00:27,160 --> 00:00:29,240
+model in finance.
+
+10
+00:00:29,240 --> 00:00:33,140
+But first, I wanted to say something about last lecture.
+
+11
+00:00:33,140 --> 00:00:37,760
+Last time, I talked about innovation in finance.
+
+12
+00:00:37,760 --> 00:00:40,380
+And I presented finance as
+
+13
+00:00:40,380 --> 00:00:43,000
+a sort of branch of engineering
+
+14
+00:00:43,000 --> 00:00:43,640
+in a way.
+
+15
+00:00:43,640 --> 00:00:48,739
+We invent financial devices, and the devices serve certain
+
+16
+00:00:48,739 --> 00:00:51,000
+functions, and in order to serve those functions, they
+
+17
+00:00:51,000 --> 00:00:53,310
+have a number of details
+
+18
+00:00:53,310 --> 00:00:55,620
+that have to be gotten right.
+
+19
+00:00:55,620 --> 00:00:58,480
+Moreover, there's a process that we call the financial
+
+20
+00:00:58,480 --> 00:00:58,980
+market.
+
+21
+00:00:58,980 --> 00:01:04,599
+And the process of invention involves experimentation.
+
+22
+00:01:04,599 --> 00:01:06,599
+And when an experiment doesn't
+
+23
+00:01:06,599 --> 00:01:08,600
+work, we forget about it and
+
+24
+00:01:08,600 --> 00:01:09,220
+we move on.
+
+25
+00:01:09,220 --> 00:01:11,750
+But when it does work, it
+
+26
+00:01:11,750 --> 00:01:14,280
+gets copied all over the world.
+
+27
+00:01:14,280 --> 00:01:16,800
+So, I thought a nice
+
+28
+00:01:16,800 --> 00:01:19,320
+way to transition to today's lecture
+
+29
+00:01:19,320 --> 00:01:22,429
+would be to talk about
+
+30
+00:01:22,429 --> 00:01:25,539
+one very important moment in the
+
+31
+00:01:25,539 --> 00:01:26,780
+history of finance.
+
+32
+00:01:28,980 --> 00:01:34,860
+And that was when the first real important stock was
+
+33
+00:01:34,860 --> 00:01:36,920
+invented.
+
+34
+00:01:36,920 --> 00:01:42,040
+And it was, see if I
+
+35
+00:01:42,040 --> 00:01:47,160
+can spell it right, Verenigde Ostindische,
+
+36
+00:01:47,160 --> 00:01:53,060
+I might be misspelling this, Compagnie, 1602.
+
+37
+00:01:53,060 --> 00:01:57,060
+This was the first, did I get that all right?
+
+38
+00:01:58,980 --> 00:02:06,920
+So, that's Dutch for the United East India Company.
+
+39
+00:02:06,920 --> 00:02:11,740
+I think I got it right.
+
+40
+00:02:11,740 --> 00:02:18,260
+It was founded in that year.
+
+41
+00:02:18,260 --> 00:02:22,320
+It was a time when Holland
+
+42
+00:02:22,320 --> 00:02:26,380
+was at war, and the government was
+
+43
+00:02:26,380 --> 00:02:27,100
+worried about the economy, and
+
+44
+00:02:27,100 --> 00:02:27,820
+they were willing to experiment
+
+45
+00:02:27,820 --> 00:02:27,920
+with raising capital to keep the economy prospering.
+
+46
+00:02:27,920 --> 00:02:28,420
+And someone had this idea.
+
+47
+00:02:28,420 --> 00:02:28,920
+Let's start.
+
+48
+00:02:28,920 --> 00:02:28,940
+Let's get to it.
+
+49
+00:02:28,940 --> 00:02:28,960
+We have to start with this idea.
+
+50
+00:02:28,980 --> 00:02:31,350
+And I can't write this
+
+51
+00:02:31,350 --> 00:02:33,720
+in Dutch, but they created the
+
+52
+00:02:33,720 --> 00:02:36,220
+Amsterdam Stock Exchange.
+
+53
+00:02:42,160 --> 00:02:46,220
+And initially, it had only one stock.
+
+54
+00:02:46,220 --> 00:02:48,220
+And so, this is called VOC.
+
+55
+00:02:48,220 --> 00:02:51,920
+And it was a trading company.
+
+56
+00:02:51,920 --> 00:02:53,050
+They were going to set them
+
+57
+00:02:53,050 --> 00:02:54,180
+up, and they were going to
+
+58
+00:02:54,180 --> 00:02:56,060
+buy ships, and they were going
+
+59
+00:02:56,060 --> 00:02:57,940
+to sail all over the world, and
+
+60
+00:02:57,940 --> 00:03:03,700
+they were going to trade in various commodities.
+
+61
+00:03:03,700 --> 00:03:05,700
+So, it sounds pretty basic, but no one had
+
+62
+00:03:05,700 --> 00:03:07,940
+ever done this before.
+
+63
+00:03:07,940 --> 00:03:09,720
+So, it was a trading company.
+
+64
+00:03:09,720 --> 00:03:11,400
+They had a lot of business.
+
+65
+00:03:11,400 --> 00:03:13,520
+And the thing is, they only had one stock.
+
+66
+00:03:13,520 --> 00:03:15,280
+And so, they could make their own stocks.
+
+67
+00:03:15,280 --> 00:03:17,780
+And they were the only ones who had any stock.
+
+68
+00:03:17,780 --> 00:03:18,220
+And so, they were the only ones.
+
+69
+00:03:18,220 --> 00:03:19,780
+So, it's interesting how much
+
+70
+00:03:19,780 --> 00:03:21,340
+got invented in this one year,
+
+71
+00:03:23,340 --> 00:03:26,900
+First of all, they invented a corporate logo.
+
+72
+00:03:26,900 --> 00:03:27,740
+I don't know if I have it right.
+
+73
+00:03:27,740 --> 00:03:30,280
+It was something like V-O-C. I
+
+74
+00:03:30,280 --> 00:03:32,820
+don't know if I did that right.
+
+75
+00:03:32,820 --> 00:03:36,260
+Just like we would put on advertisements for a company
+
+76
+00:03:36,260 --> 00:03:38,620
+today.
+
+77
+00:03:38,620 --> 00:03:40,540
+Maybe more, but that's not very important.
+
+78
+00:03:40,540 --> 00:03:43,080
+But what's really important also
+
+79
+00:03:43,080 --> 00:03:45,620
+is that this was a long-term
+
+80
+00:03:45,620 --> 00:03:46,620
+venture.
+
+81
+00:03:46,620 --> 00:03:47,620
+OK?
+
+82
+00:03:47,620 --> 00:03:52,860
+There were lots of ventures already in Europe, where a
+
+83
+00:03:52,860 --> 00:03:55,580
+group of merchants would get together, and they would pool
+
+84
+00:03:55,580 --> 00:03:57,560
+their money for one trip.
+
+85
+00:03:57,560 --> 00:03:59,630
+They would send ships out,
+
+86
+00:03:59,630 --> 00:04:01,700
+and these ships would trade and
+
+87
+00:04:01,700 --> 00:04:04,780
+come back, and then they'd dissolve the whole thing.
+
+88
+00:04:04,780 --> 00:04:05,680
+But this was different.
+
+89
+00:04:05,680 --> 00:04:08,980
+This one was going to go indefinitely.
+
+90
+00:04:08,980 --> 00:04:12,180
+And in their initial announcement, they said, we're
+
+91
+00:04:12,180 --> 00:04:14,240
+going to set up operations all over the world.
+
+92
+00:04:14,240 --> 00:04:15,930
+We're going to have an office
+
+93
+00:04:15,930 --> 00:04:17,620
+in India and another one in
+
+94
+00:04:17,620 --> 00:04:18,620
+the Middle East.
+
+95
+00:04:18,620 --> 00:04:19,120
+And they said, we're going to
+
+96
+00:04:19,120 --> 00:04:19,620
+have a big one in, I don't
+
+97
+00:04:19,620 --> 00:04:20,620
+know, Indonesia.
+
+98
+00:04:20,620 --> 00:04:23,620
+And it's a big thing.
+
+99
+00:04:23,620 --> 00:04:28,380
+And in the New World, in America, but primarily East
+
+100
+00:04:28,380 --> 00:04:33,500
+India, from the name.
+
+101
+00:04:33,500 --> 00:04:36,600
+And so, the interesting thing
+
+102
+00:04:36,600 --> 00:04:39,700
+is, they set up a stock
+
+103
+00:04:39,700 --> 00:04:44,800
+exchange to trade shares in it.
+
+104
+00:04:44,800 --> 00:04:45,210
+And the stock exchange arranged so that you
+
+105
+00:04:45,210 --> 00:04:45,620
+could, you know, you could trade shares in it.
+
+106
+00:04:45,620 --> 00:04:46,120
+And the stock exchange arranged so
+
+107
+00:04:46,120 --> 00:04:46,620
+that you could trade shares in it.
+
+108
+00:04:46,620 --> 00:04:47,120
+And the stock exchange arranged so
+
+109
+00:04:47,120 --> 00:04:47,620
+that you could trade shares in it.
+
+110
+00:04:47,620 --> 00:04:48,120
+And this was a typical idea.
+
+111
+00:04:48,120 --> 00:04:48,480
+And this was a typical idea.
+
+112
+00:04:48,480 --> 00:04:49,740
+And the stock exchange arranged so
+
+113
+00:04:49,740 --> 00:04:51,000
+that you could trade every day.
+
+114
+00:04:51,000 --> 00:04:51,860
+And so, there was lively trading.
+
+115
+00:04:51,860 --> 00:04:52,400
+And this was part of the idea.
+
+116
+00:04:52,400 --> 00:04:52,440
+And this was part of the idea.
+
+117
+00:04:52,440 --> 00:04:54,500
+And this was part of the idea.
+
+118
+00:04:54,500 --> 00:04:55,790
+Because when they set up
+
+119
+00:04:55,790 --> 00:04:57,080
+a company in those days, you
+
+120
+00:04:57,080 --> 00:04:59,170
+could get your shares when they founded
+
+121
+00:04:59,170 --> 00:05:01,260
+the company, and that was it, right?
+
+122
+00:05:01,260 --> 00:05:03,120
+I mean, you couldn't trade them.
+
+123
+00:05:03,120 --> 00:05:04,900
+Or maybe you could infrequently.
+
+124
+00:05:04,900 --> 00:05:06,780
+A company might open its books
+
+125
+00:05:06,780 --> 00:05:08,660
+once a year, and they would take
+
+126
+00:05:08,660 --> 00:05:10,620
+new shareholders in.
+
+127
+00:05:10,620 --> 00:05:13,580
+But someone had, hey, this is an idea.
+
+128
+00:05:13,580 --> 00:05:16,620
+Even though the VOC doesn't open its books regularly,
+
+129
+00:05:16,620 --> 00:05:17,620
+they would open it.
+
+130
+00:05:17,620 --> 00:05:18,940
+We can trade them every day.
+
+131
+00:05:18,940 --> 00:05:21,580
+What difference does it make?
+
+132
+00:05:21,580 --> 00:05:23,030
+So, we're going to have
+
+133
+00:05:23,030 --> 00:05:24,480
+stock brokers on the Amsterdam Stock
+
+134
+00:05:24,480 --> 00:05:29,280
+Exchange, and maybe they'll own some shares in VOC.
+
+135
+00:05:29,280 --> 00:05:32,780
+And then they'll have an inventory of shares.
+
+136
+00:05:32,780 --> 00:05:35,020
+And then somebody wants to buy some, you buy
+
+137
+00:05:35,020 --> 00:05:37,000
+them from the broker.
+
+138
+00:05:37,000 --> 00:05:39,700
+You don't have to contact the company.
+
+139
+00:05:39,700 --> 00:05:41,620
+And then the broker, maybe at
+
+140
+00:05:41,620 --> 00:05:43,540
+the year end, will report to
+
+141
+00:05:43,540 --> 00:05:45,100
+the company that you own the shares.
+
+142
+00:05:45,100 --> 00:05:46,440
+But it doesn't have to, right?
+
+143
+00:05:46,440 --> 00:05:49,240
+The broker does it.
+
+144
+00:05:49,240 --> 00:05:51,280
+So, the broker says, you own these shares.
+
+145
+00:05:51,280 --> 00:05:53,480
+You trust the Amsterdam Stock Exchange, because they have
+
+146
+00:05:53,480 --> 00:05:55,680
+rules and code of ethics.
+
+147
+00:05:55,680 --> 00:05:57,870
+So, you think you own, well,
+
+148
+00:05:57,870 --> 00:06:00,060
+you do own VOC shares, if you
+
+149
+00:06:00,060 --> 00:06:01,280
+buy them from a broker.
+
+150
+00:06:01,280 --> 00:06:02,980
+The VOC doesn't know it
+
+151
+00:06:02,980 --> 00:06:04,680
+yet, but you've got the shares,
+
+152
+00:06:04,680 --> 00:06:07,500
+because the broker is a member of the Amsterdam Stock
+
+153
+00:06:07,500 --> 00:06:11,860
+Exchange, and it says that you have the shares.
+
+154
+00:06:11,860 --> 00:06:16,040
+Then almost immediately after 1602, a funny thing happened.
+
+155
+00:06:16,040 --> 00:06:17,800
+Guess what it was?
+
+156
+00:06:17,800 --> 00:06:22,500
+The brokers started selling more shares than they had.
+
+157
+00:06:22,500 --> 00:06:24,560
+What's to stop them from doing that?
+
+158
+00:06:24,560 --> 00:06:26,200
+Some of them did that.
+
+159
+00:06:26,200 --> 00:06:27,900
+So the broker maybe owns some
+
+160
+00:06:27,900 --> 00:06:29,600
+shares in VOC, and he gets
+
+161
+00:06:29,600 --> 00:06:32,590
+lots of buyers, and the
+
+162
+00:06:32,590 --> 00:06:35,580
+broker ends up selling more shares
+
+163
+00:06:35,580 --> 00:06:37,400
+than he has.
+
+164
+00:06:37,400 --> 00:06:42,180
+And he thinks, well, I'll get them later.
+
+165
+00:06:42,180 --> 00:06:44,030
+And he says, what do my customers
+
+166
+00:06:44,030 --> 00:06:45,880
+care if they own shares that I don't
+
+167
+00:06:45,880 --> 00:06:49,120
+report to the company right away anyway?
+
+168
+00:06:49,120 --> 00:06:50,219
+I'll make good on this.
+
+169
+00:06:50,219 --> 00:06:50,880
+I'm a broker.
+
+170
+00:06:50,880 --> 00:06:51,880
+I know what to do.
+
+171
+00:06:51,880 --> 00:06:54,280
+I'll buy them later, and I'll get them.
+
+172
+00:06:54,280 --> 00:06:56,320
+So, you see what starts to happen?
+
+173
+00:06:56,320 --> 00:06:58,070
+There are more shares out
+
+174
+00:06:58,070 --> 00:06:59,820
+there being traded than there exist
+
+175
+00:06:59,820 --> 00:07:03,880
+in the company, because the broker is selling shares that
+
+176
+00:07:03,880 --> 00:07:05,780
+he doesn't own.
+
+177
+00:07:05,780 --> 00:07:09,910
+So, there began in way back,
+
+178
+00:07:09,910 --> 00:07:14,040
+even in this time, there began
+
+179
+00:07:14,040 --> 00:07:15,240
+what we call short-term trading.
+
+180
+00:07:15,240 --> 00:07:15,440
+Short-term trading.
+
+181
+00:07:15,440 --> 00:07:15,520
+Short-term trading.
+
+182
+00:07:15,520 --> 00:07:15,580
+Short-term trading.
+
+183
+00:07:15,580 --> 00:07:15,719
+Short-term trading.
+
+184
+00:07:15,719 --> 00:07:15,840
+Short-term trading.
+
+185
+00:07:15,840 --> 00:07:15,880
+Short-term trading.
+
+186
+00:07:15,880 --> 00:07:17,880
+Short sales or short interest.
+
+187
+00:07:17,880 --> 00:07:22,460
+I mean, it happens when you
+
+188
+00:07:22,460 --> 00:07:27,040
+set up a stock market and you
+
+189
+00:07:27,040 --> 00:07:30,690
+allow, well, we would call
+
+190
+00:07:30,690 --> 00:07:34,340
+it today street name, owning stocks
+
+191
+00:07:34,340 --> 00:07:35,640
+in street name.
+
+192
+00:07:35,640 --> 00:07:40,040
+We have stock exchanges, many stock exchanges in the world
+
+193
+00:07:40,040 --> 00:07:44,560
+today, and they, including, by the way, the Amsterdam Stock
+
+194
+00:07:44,560 --> 00:07:45,840
+Exchange is the only one.
+
+195
+00:07:45,840 --> 00:07:47,620
+It's the oldest stock exchange
+
+196
+00:07:47,620 --> 00:07:49,400
+in the world, and it's still
+
+197
+00:07:49,400 --> 00:07:50,739
+trading, but it has merged.
+
+198
+00:07:50,739 --> 00:07:55,520
+First, it merged with Brussels and Paris, and now they're
+
+199
+00:07:55,520 --> 00:08:00,620
+called Euro Next Amsterdam.
+
+200
+00:08:00,620 --> 00:08:02,440
+But they're still doing this.
+
+201
+00:08:02,440 --> 00:08:06,359
+Nothing stopped them in over 400 years.
+
+202
+00:08:06,359 --> 00:08:08,120
+They keep doing it.
+
+203
+00:08:08,120 --> 00:08:12,799
+But this stock exchange, and many others like it, allows
+
+204
+00:08:12,799 --> 00:08:14,299
+brokers to sell you stocks in
+
+205
+00:08:14,299 --> 00:08:15,799
+what's called, I don't know, a
+
+206
+00:08:15,800 --> 00:08:17,040
+street name.
+
+207
+00:08:17,040 --> 00:08:23,040
+And what that means is that
+
+208
+00:08:23,040 --> 00:08:29,040
+when you buy shares, the broker
+
+209
+00:08:29,040 --> 00:08:33,039
+puts in your account that you own these shares.
+
+210
+00:08:33,039 --> 00:08:37,159
+But the company doesn't know it, because the actual
+
+211
+00:08:37,159 --> 00:08:40,260
+ownership is registered in the name of the broker.
+
+212
+00:08:40,260 --> 00:08:45,760
+And so, the broker is selling shares.
+
+213
+00:08:45,760 --> 00:08:47,140
+And it's only through the
+
+214
+00:08:47,140 --> 00:08:48,520
+broker that you know that you
+
+215
+00:08:48,520 --> 00:08:50,760
+have shares.
+
+216
+00:08:50,760 --> 00:08:52,640
+So, the broker on the stock
+
+217
+00:08:52,640 --> 00:08:54,520
+exchange may be short, may have
+
+218
+00:08:54,520 --> 00:08:57,760
+sold more shares than he or she has.
+
+219
+00:08:57,760 --> 00:08:59,000
+That's all right.
+
+220
+00:08:59,000 --> 00:09:00,500
+It happened as long ago
+
+221
+00:09:00,500 --> 00:09:02,000
+as right from the beginning of
+
+222
+00:09:02,000 --> 00:09:04,520
+the stock market.
+
+223
+00:09:04,520 --> 00:09:05,760
+There was a scandal.
+
+224
+00:09:05,760 --> 00:09:08,000
+I was reading the history of this.
+
+225
+00:09:08,000 --> 00:09:12,000
+Who was the guy?
+
+226
+00:09:12,000 --> 00:09:13,000
+I don't know.
+
+227
+00:09:13,000 --> 00:09:14,000
+I don't know.
+
+228
+00:09:14,000 --> 00:09:15,000
+I don't know.
+
+229
+00:09:15,000 --> 00:09:16,000
+I don't know.
+
+230
+00:09:16,000 --> 00:09:17,000
+I don't know.
+
+231
+00:09:17,000 --> 00:09:18,000
+I don't know.
+
+232
+00:09:18,000 --> 00:09:19,000
+I don't know.
+
+233
+00:09:19,000 --> 00:09:20,000
+I don't know.
+
+234
+00:09:20,000 --> 00:09:21,000
+Isaac La Mer.
+
+235
+00:09:21,000 --> 00:09:22,000
+A Dutchman.
+
+236
+00:09:22,000 --> 00:09:37,280
+In 1609, he was not a broker.
+
+237
+00:09:37,280 --> 00:09:39,340
+He was a businessman.
+
+238
+00:09:39,340 --> 00:09:42,700
+He was able to sell more shares than he had.
+
+239
+00:09:42,700 --> 00:09:44,400
+So, he had negative.
+
+240
+00:09:44,400 --> 00:09:47,860
+A broker allowed him to do that.
+
+241
+00:09:47,860 --> 00:09:52,060
+And so, he had a short interest in VOC.
+
+242
+00:09:52,060 --> 00:09:55,280
+Massive short interest.
+
+243
+00:09:55,280 --> 00:09:59,400
+And people who own VOC shares started thinking, what's
+
+244
+00:09:59,400 --> 00:10:00,800
+going on here?
+
+245
+00:10:00,800 --> 00:10:06,480
+Someone is borrowing shares from a broker and selling
+
+246
+00:10:06,480 --> 00:10:07,699
+them.
+
+247
+00:10:07,699 --> 00:10:12,260
+And then, that tends to bring down the price.
+
+248
+00:10:12,260 --> 00:10:17,020
+And there was a downward movement in the Amsterdam
+
+249
+00:10:17,020 --> 00:10:19,050
+stock market, and this guy
+
+250
+00:10:19,050 --> 00:10:21,080
+was blamed for having shorted the
+
+251
+00:10:21,080 --> 00:10:28,880
+stock and forcing down the price.
+
+252
+00:10:28,880 --> 00:10:33,080
+And so, the Amsterdam Stock Exchange for two years, from
+
+253
+00:10:33,080 --> 00:10:37,500
+1609 to 1611, banned short selling.
+
+254
+00:10:37,500 --> 00:10:39,780
+But then they decided to let it go again.
+
+255
+00:10:42,260 --> 00:10:45,380
+The point of all this discussion, I'm telling you a
+
+256
+00:10:45,380 --> 00:10:47,939
+story about Holland four hundred years ago.
+
+257
+00:10:47,939 --> 00:10:49,449
+But the reason I'm telling you
+
+258
+00:10:49,449 --> 00:10:50,960
+this story is to try to
+
+259
+00:10:50,960 --> 00:10:54,020
+emphasize how certain things just happen naturally.
+
+260
+00:10:54,020 --> 00:10:57,100
+Once you set the framework up,
+
+261
+00:10:57,100 --> 00:11:00,180
+you set up a big company and
+
+262
+00:11:00,180 --> 00:11:03,420
+it's a company that lasts a long time, OK?
+
+263
+00:11:03,420 --> 00:11:05,380
+It's very valuable.
+
+264
+00:11:05,380 --> 00:11:07,939
+And anybody can buy shares in it.
+
+265
+00:11:07,939 --> 00:11:10,520
+So it's democratic.
+
+266
+00:11:10,520 --> 00:11:10,770
+And the value of this thing is,
+
+267
+00:11:10,770 --> 00:11:11,020
+if you just do this, there will
+
+268
+00:11:11,020 --> 00:11:11,040
+be a downfall.
+
+269
+00:11:11,040 --> 00:11:11,120
+And if you don't, then you will lose your money.
+
+270
+00:11:11,120 --> 00:11:11,340
+So it's not a bad strategy.
+
+271
+00:11:11,340 --> 00:11:11,580
+You need to understand that.
+
+272
+00:11:11,580 --> 00:11:11,620
+All right.
+
+273
+00:11:11,620 --> 00:11:11,939
+Likewise, it's not a good strategy.
+
+274
+00:11:11,939 --> 00:11:12,060
+Nobody wants to give up money.
+
+275
+00:11:12,060 --> 00:11:12,180
+It's not a good strategy.
+
+276
+00:11:12,180 --> 00:11:12,240
+Everybody should consider it.
+
+277
+00:11:12,240 --> 00:11:15,960
+And the value is very uncertain, because this
+
+278
+00:11:15,960 --> 00:11:17,190
+company is going to be
+
+279
+00:11:17,190 --> 00:11:18,420
+in business into the far future.
+
+280
+00:11:18,420 --> 00:11:21,240
+And it's building a whole arrangement, an empire of
+
+281
+00:11:21,240 --> 00:11:22,740
+trading posts and ships.
+
+282
+00:11:22,740 --> 00:11:25,500
+And who knows what it's worth?
+
+283
+00:11:25,500 --> 00:11:28,260
+So the price is very uncertain.
+
+284
+00:11:28,260 --> 00:11:31,240
+And buying it is a sort of a gamble.
+
+285
+00:11:31,240 --> 00:11:35,060
+And so the price starts fluctuating wildly.
+
+286
+00:11:35,060 --> 00:11:37,860
+And it attracts all kinds of interest.
+
+287
+00:11:37,860 --> 00:11:39,110
+And some people think it's
+
+288
+00:11:39,110 --> 00:11:40,360
+going to go up, and some
+
+289
+00:11:40,360 --> 00:11:42,240
+people think it's going to go down.
+
+290
+00:11:42,240 --> 00:11:45,980
+And they start debating about this and wondering about this.
+
+291
+00:11:45,980 --> 00:11:49,220
+And some guy like Isaac Lemaire thinks it's going to
+
+292
+00:11:49,220 --> 00:11:52,600
+go down, so he wants to short the stock.
+
+293
+00:11:52,600 --> 00:11:54,040
+He wants to sell.
+
+294
+00:11:54,040 --> 00:11:55,580
+He doesn't want to buy it, he
+
+295
+00:11:55,580 --> 00:11:57,120
+wants to short it, so he can
+
+296
+00:11:57,120 --> 00:12:00,360
+have a negative quantity.
+
+297
+00:12:00,360 --> 00:12:01,260
+Thank you.
+
+298
+00:12:01,260 --> 00:12:05,480
+Other people are really positive and excited about it.
+
+299
+00:12:05,480 --> 00:12:07,600
+And they want to buy all they can get.
+
+300
+00:12:07,600 --> 00:12:10,360
+And they want to even buy more than they have.
+
+301
+00:12:10,360 --> 00:12:11,320
+And they want to buy
+
+302
+00:12:11,320 --> 00:12:12,280
+the stock, because they have the
+
+303
+00:12:12,280 --> 00:12:13,680
+money to buy the stock.
+
+304
+00:12:13,680 --> 00:12:16,760
+So you have this tension between the shorts, like
+
+305
+00:12:16,760 --> 00:12:22,020
+Isaac Lemaire, and the gung-ho traders who want to buy.
+
+306
+00:12:22,020 --> 00:12:26,580
+And it creates a lot of volatility in the market.
+
+307
+00:12:26,580 --> 00:12:30,110
+But the whole effect of this
+
+308
+00:12:30,110 --> 00:12:33,640
+is to create interest in the
+
+309
+00:12:33,640 --> 00:12:36,120
+stock, so it brings in money.
+
+310
+00:12:36,120 --> 00:12:40,100
+And it ultimately made the VOC very successful.
+
+311
+00:12:40,100 --> 00:12:41,530
+Because so many people wanted
+
+312
+00:12:41,530 --> 00:12:42,960
+to give money to this trading
+
+313
+00:12:42,960 --> 00:12:43,540
+company.
+
+314
+00:12:43,540 --> 00:12:45,180
+So they were able to build
+
+315
+00:12:45,180 --> 00:12:46,820
+hundreds of ships and set up
+
+316
+00:12:46,820 --> 00:12:49,640
+big outposts all over.
+
+317
+00:12:49,640 --> 00:12:51,440
+And it became very valuable.
+
+318
+00:12:51,440 --> 00:12:54,680
+And it was an invention, kind of a social invention.
+
+319
+00:12:54,680 --> 00:12:56,560
+I'm thinking it's kind of analogous.
+
+320
+00:12:56,560 --> 00:12:59,480
+We have recent inventions that we think about.
+
+321
+00:12:59,480 --> 00:13:05,460
+The social media, we have Facebook and other
+
+322
+00:13:05,460 --> 00:13:07,220
+recent inventions.
+
+323
+00:13:07,220 --> 00:13:08,740
+This was an invention like that.
+
+324
+00:13:08,740 --> 00:13:09,860
+It was an invention.
+
+325
+00:13:09,860 --> 00:13:14,000
+It got people together and communicating and excited
+
+326
+00:13:14,000 --> 00:13:16,800
+about something.
+
+327
+00:13:16,800 --> 00:13:18,910
+And it created sort of a
+
+328
+00:13:18,910 --> 00:13:21,020
+game that people were playing that
+
+329
+00:13:21,020 --> 00:13:23,120
+turned out to be productive.
+
+330
+00:13:23,120 --> 00:13:25,600
+That's why it was copied all over the world.
+
+331
+00:13:25,600 --> 00:13:28,790
+So the core concepts, which we
+
+332
+00:13:28,790 --> 00:13:31,980
+began in Holland in 1609, are
+
+333
+00:13:31,980 --> 00:13:34,080
+everywhere now.
+
+334
+00:13:34,080 --> 00:13:37,040
+And every country of the world has this.
+
+335
+00:13:37,040 --> 00:13:39,640
+I should also add, by the way, that the
+
+336
+00:13:39,640 --> 00:13:44,240
+VOC was a limited liability corporation.
+
+337
+00:13:44,240 --> 00:13:45,960
+Amazing.
+
+338
+00:13:45,960 --> 00:13:47,790
+When I told you that limited
+
+339
+00:13:47,790 --> 00:13:49,620
+liability came in in 1811 in
+
+340
+00:13:49,620 --> 00:13:52,620
+New York, I think I qualified that.
+
+341
+00:13:52,620 --> 00:13:55,840
+It used to be that some companies had in their
+
+342
+00:13:55,840 --> 00:14:01,120
+charter an agreement with the government that the
+
+343
+00:14:01,120 --> 00:14:03,880
+stockholders had limited liability.
+
+344
+00:14:03,880 --> 00:14:06,530
+What came in in 1811 in New
+
+345
+00:14:06,530 --> 00:14:09,180
+York was a law that said, all
+
+346
+00:14:09,180 --> 00:14:12,500
+companies are a limited liability.
+
+347
+00:14:12,500 --> 00:14:15,159
+And moreover, anybody in the
+
+348
+00:14:15,159 --> 00:14:17,819
+world, anyone in New York, can
+
+349
+00:14:17,819 --> 00:14:18,699
+start a company.
+
+350
+00:14:18,699 --> 00:14:21,260
+And it will always be limited liability.
+
+351
+00:14:21,260 --> 00:14:22,040
+So don't worry.
+
+352
+00:14:22,040 --> 00:14:24,660
+You can invest in any company.
+
+353
+00:14:24,660 --> 00:14:28,500
+And you can not worry about being sued for the
+
+354
+00:14:28,500 --> 00:14:30,579
+debts of the company.
+
+355
+00:14:30,579 --> 00:14:33,680
+Well, back then, Holland didn't go that far, but they
+
+356
+00:14:33,680 --> 00:14:37,000
+did create one company that did have limited liability.
+
+357
+00:14:37,000 --> 00:14:37,500
+And so, what that meant was,
+
+358
+00:14:37,500 --> 00:14:38,000
+you could, you know, you're a
+
+359
+00:14:38,000 --> 00:14:39,020
+dehorser.
+
+360
+00:14:39,020 --> 00:14:41,020
+And I said, you could invest
+
+361
+00:14:41,020 --> 00:14:43,020
+in this company, and it's just
+
+362
+00:14:43,020 --> 00:14:44,360
+a game, you know?
+
+363
+00:14:44,360 --> 00:14:48,140
+I can't lose more than I put into it.
+
+364
+00:14:48,140 --> 00:14:49,330
+And if these guys turn out
+
+365
+00:14:49,330 --> 00:14:50,520
+to be crooks, and some of them
+
+366
+00:14:50,520 --> 00:14:53,780
+are hanged for their crimes, no problem with me, because
+
+367
+00:14:53,780 --> 00:14:55,520
+I'm an innocent investor.
+
+368
+00:14:55,520 --> 00:15:00,020
+The law says, law doesn't require that I investigate,
+
+369
+00:15:00,020 --> 00:15:03,060
+whether the guys who run the company are really honest.
+
+370
+00:15:03,060 --> 00:15:04,860
+Let's protect investors.
+
+371
+00:15:04,860 --> 00:15:06,279
+So all you can lose
+
+372
+00:15:06,279 --> 00:15:07,699
+is the money you put in.
+
+373
+00:15:07,700 --> 00:15:13,940
+And it created a tremendous opportunity.
+
+374
+00:15:13,940 --> 00:15:16,070
+It was talked about, because the
+
+375
+00:15:16,070 --> 00:15:18,200
+stock price went up and up
+
+376
+00:15:18,200 --> 00:15:19,920
+and up, and it made
+
+377
+00:15:19,920 --> 00:15:21,640
+people rich who invested in it.
+
+378
+00:15:25,140 --> 00:15:27,240
+But it was also very volatile.
+
+379
+00:15:27,240 --> 00:15:29,000
+It went up and down.
+
+380
+00:15:29,000 --> 00:15:32,040
+People had never seen anything like this before, because
+
+381
+00:15:32,040 --> 00:15:37,700
+nothing was so actively traded and had such an interesting
+
+382
+00:15:37,700 --> 00:15:38,700
+opportunity.
+
+383
+00:15:38,700 --> 00:15:39,700
+And it was something you
+
+384
+00:15:39,700 --> 00:15:40,700
+could change your mind about from
+
+385
+00:15:40,700 --> 00:15:41,700
+one day to the next.
+
+386
+00:15:41,700 --> 00:15:45,820
+And so, it was, anyway, I
+
+387
+00:15:45,820 --> 00:15:49,940
+didn't want to just tell a
+
+388
+00:15:49,940 --> 00:15:50,940
+story.
+
+389
+00:15:50,940 --> 00:15:53,940
+This is a story, though, that illustrates our last lecture.
+
+390
+00:15:53,940 --> 00:15:56,200
+It was a breakthrough innovation.
+
+391
+00:15:56,200 --> 00:15:58,940
+It was a kind of gambling, but not gambling.
+
+392
+00:15:58,940 --> 00:16:01,200
+It was gambling on real things.
+
+393
+00:16:01,200 --> 00:16:03,170
+And so, you know, people like
+
+394
+00:16:03,170 --> 00:16:05,140
+to gamble, but it's usually a
+
+395
+00:16:05,140 --> 00:16:07,040
+waste of their time.
+
+396
+00:16:07,040 --> 00:16:11,500
+This was setting up trade around the world.
+
+397
+00:16:11,500 --> 00:16:19,180
+And so, it was an important, very important innovation.
+
+398
+00:16:19,180 --> 00:16:20,490
+But now, I wanted to use it
+
+399
+00:16:20,490 --> 00:16:21,800
+as a lead-in to the main theme of
+
+400
+00:16:21,800 --> 00:16:29,480
+this lecture, which is about portfolio management and risk.
+
+401
+00:16:29,480 --> 00:16:31,930
+And the first concept I
+
+402
+00:16:31,930 --> 00:16:34,380
+wanted to talk about is leverage.
+
+403
+00:16:34,380 --> 00:16:35,480
+Leverage.
+
+404
+00:16:37,040 --> 00:16:39,040
+Leverage is a very important concept.
+
+405
+00:16:39,040 --> 00:16:43,040
+And also, let me add, the equity premium.
+
+406
+00:16:43,040 --> 00:16:51,040
+These are the two main concepts.
+
+407
+00:16:51,040 --> 00:16:54,540
+Maybe I'll do equity premium first.
+
+408
+00:16:54,540 --> 00:16:57,040
+Here's the conundrum that people were presented with.
+
+409
+00:16:57,040 --> 00:16:59,290
+And I'll stay in the VOC
+
+410
+00:16:59,290 --> 00:17:01,540
+story, but it's much more general than
+
+411
+00:17:01,540 --> 00:17:02,540
+that.
+
+412
+00:17:02,540 --> 00:17:04,790
+VOC, after a few years
+
+413
+00:17:04,790 --> 00:17:07,040
+out, people thought, you know, this
+
+414
+00:17:07,040 --> 00:17:08,040
+is amazing.
+
+415
+00:17:08,040 --> 00:17:10,040
+It's just growing so fast.
+
+416
+00:17:10,040 --> 00:17:12,040
+It's making so much money.
+
+417
+00:17:12,040 --> 00:17:17,040
+It might have a really high return, like unbelievably high,
+
+418
+00:17:17,040 --> 00:17:19,040
+like 20% a year or even more.
+
+419
+00:17:19,040 --> 00:17:22,040
+But let's say 20% a year.
+
+420
+00:17:22,040 --> 00:17:25,040
+And that's what generated the excitement.
+
+421
+00:17:25,040 --> 00:17:29,040
+But some people have wondered, well, how can it be?
+
+422
+00:17:29,040 --> 00:17:32,040
+Maybe it's earned 20%, but
+
+423
+00:17:32,040 --> 00:17:35,040
+how can it consistently do that?
+
+424
+00:17:37,040 --> 00:17:39,040
+And that's the real question.
+
+425
+00:17:39,040 --> 00:17:41,040
+So, let me put a puzzle.
+
+426
+00:17:45,040 --> 00:17:47,040
+We've gone through 400 years
+
+427
+00:17:47,040 --> 00:17:49,040
+of history since the VOC was
+
+428
+00:17:49,040 --> 00:17:50,040
+established.
+
+429
+00:17:50,040 --> 00:17:52,540
+And since then, it seems
+
+430
+00:17:52,540 --> 00:17:55,040
+to be remaining true that companies'
+
+431
+00:17:55,040 --> 00:18:00,040
+shares do extremely well.
+
+432
+00:18:00,040 --> 00:18:02,040
+And that's a puzzle.
+
+433
+00:18:02,040 --> 00:18:04,040
+Because, you know, if you can
+
+434
+00:18:04,040 --> 00:18:06,040
+make a high return on some
+
+435
+00:18:06,040 --> 00:18:09,040
+stocks, it's going to be very, very high.
+
+436
+00:18:09,040 --> 00:18:12,040
+And wouldn't you think that enough people would flock into
+
+437
+00:18:12,040 --> 00:18:13,540
+the investment, so that it
+
+438
+00:18:13,540 --> 00:18:15,040
+no longer, you know, there's too
+
+439
+00:18:15,040 --> 00:18:16,540
+many people trying to do this,
+
+440
+00:18:16,540 --> 00:18:18,040
+so it's no longer performing so
+
+441
+00:18:18,040 --> 00:18:19,040
+well?
+
+442
+00:18:19,040 --> 00:18:25,040
+But in fact, it seems like
+
+443
+00:18:25,040 --> 00:18:31,040
+the average return on stocks has
+
+444
+00:18:31,040 --> 00:18:34,040
+been very high.
+
+445
+00:18:34,040 --> 00:18:35,040
+This is a theme.
+
+446
+00:18:35,040 --> 00:18:36,540
+And I think that's the
+
+447
+00:18:36,540 --> 00:18:38,040
+reason why I'm talking about stocks
+
+448
+00:18:38,040 --> 00:18:40,040
+for the long run, which
+
+449
+00:18:40,040 --> 00:18:42,040
+I have on the reading list.
+
+450
+00:18:42,040 --> 00:18:45,040
+Siegel has data, doesn't go back
+
+451
+00:18:45,040 --> 00:18:48,040
+to 1602, but it goes back
+
+452
+00:18:48,040 --> 00:18:51,040
+to the 19th century.
+
+453
+00:18:51,040 --> 00:18:56,040
+And he says that the geometric average return, annual return
+
+454
+00:18:56,040 --> 00:18:59,540
+on the United States stock market from 1871
+
+455
+00:18:59,540 --> 00:19:03,040
+to 2006 was 6.8% a year, corrected for the
+
+456
+00:19:03,040 --> 00:19:04,040
+long run.
+
+457
+00:19:04,040 --> 00:19:07,040
+And that's 6.8% a year after inflation.
+
+458
+00:19:07,040 --> 00:19:10,540
+So, if you add a 3% or
+
+459
+00:19:10,540 --> 00:19:14,040
+4% inflation rate, that's 10% a year.
+
+460
+00:19:14,040 --> 00:19:17,040
+Let's compare that with short-term
+
+461
+00:19:17,040 --> 00:19:20,040
+governments, which are the safest
+
+462
+00:19:20,040 --> 00:19:22,040
+thing in the United States.
+
+463
+00:19:22,040 --> 00:19:25,040
+The average real return on
+
+464
+00:19:25,040 --> 00:19:28,040
+them was only 2.8% a year.
+
+465
+00:19:28,040 --> 00:19:33,040
+So, the difference is 4% a year.
+
+466
+00:19:33,040 --> 00:19:35,040
+So, for well over 100
+
+467
+00:19:35,040 --> 00:19:37,040
+years in the United States, stocks
+
+468
+00:19:37,040 --> 00:19:41,040
+performed extremely well.
+
+469
+00:19:41,040 --> 00:19:43,540
+Moreover, he points out, there
+
+470
+00:19:43,540 --> 00:19:46,040
+was no 30-year period since 1831
+
+471
+00:19:46,040 --> 00:19:54,040
+to 1861 when stocks underperformed either short-term
+
+472
+00:19:54,040 --> 00:19:57,040
+or long-term bonds.
+
+473
+00:19:57,040 --> 00:20:01,040
+So, the stocks underperformed.
+
+474
+00:20:01,040 --> 00:20:05,040
+So, the stocks have been good investments.
+
+475
+00:20:05,040 --> 00:20:08,040
+What do we make of that?
+
+476
+00:20:08,040 --> 00:20:09,040
+Don't people learn?
+
+477
+00:20:09,040 --> 00:20:11,040
+You know, think if people learn, they
+
+478
+00:20:11,040 --> 00:20:13,040
+would all want to do the good thing.
+
+479
+00:20:13,040 --> 00:20:15,040
+Why does anyone invest in something else?
+
+480
+00:20:15,040 --> 00:20:21,040
+That was the puzzle here.
+
+481
+00:20:21,040 --> 00:20:25,040
+It's not just a United States phenomenon.
+
+482
+00:20:25,040 --> 00:20:27,040
+The London Business School professors, Dimson, Marsh,
+
+483
+00:20:27,040 --> 00:20:29,040
+and Staunton wrote a book called, The
+
+484
+00:20:29,040 --> 00:20:32,040
+Triumph of the Optimists.
+
+485
+00:20:32,040 --> 00:20:35,040
+That is, optimists about the stock market.
+
+486
+00:20:35,040 --> 00:20:39,040
+And they looked at the equity premium
+
+487
+00:20:39,040 --> 00:20:43,040
+in many different countries around the world.
+
+488
+00:20:43,040 --> 00:20:45,540
+And they found that all of the countries,
+
+489
+00:20:45,540 --> 00:20:48,040
+and this is looking over much of the 20th
+
+490
+00:20:48,040 --> 00:20:51,540
+century, all of the countries had an equity
+
+491
+00:20:51,540 --> 00:20:55,040
+premium that the stocks did better than the
+
+492
+00:20:55,040 --> 00:20:57,040
+bonds of that country.
+
+493
+00:20:57,040 --> 00:20:58,040
+The lowest of the countries they studied,
+
+494
+00:20:58,040 --> 00:20:59,040
+they had the lowest of the bonds.
+
+495
+00:20:59,040 --> 00:21:02,040
+And the highest of the countries was Belgium,
+
+496
+00:21:02,040 --> 00:21:05,040
+which had an equity premium of only 3%.
+
+497
+00:21:05,040 --> 00:21:07,540
+And the highest was Sweden, which
+
+498
+00:21:07,540 --> 00:21:10,040
+had an equity premium of 6%.
+
+499
+00:21:10,040 --> 00:21:14,040
+So, that's an interesting question.
+
+500
+00:21:14,040 --> 00:21:18,040
+How can it be that some
+
+501
+00:21:18,040 --> 00:21:22,040
+asset, namely stocks, outperform all other assets?
+
+502
+00:21:22,040 --> 00:21:23,040
+Okay.
+
+503
+00:21:23,040 --> 00:21:25,540
+So, then that comes up then
+
+504
+00:21:25,540 --> 00:21:28,040
+to, what is the standard answer?
+
+505
+00:21:28,040 --> 00:21:35,040
+And the standard answer is risk.
+
+506
+00:21:35,040 --> 00:21:36,040
+Stocks are riskier.
+
+507
+00:21:36,040 --> 00:21:39,040
+The price jumps up and down from day to day.
+
+508
+00:21:39,040 --> 00:21:44,040
+So, you have a, the
+
+509
+00:21:44,040 --> 00:21:49,040
+extra return is a risk premium.
+
+510
+00:21:49,040 --> 00:21:52,540
+And so, that is what I
+
+511
+00:21:52,540 --> 00:21:56,040
+want to pursue today in this lecture.
+
+512
+00:21:56,040 --> 00:21:57,040
+Does that explain the answer?
+
+513
+00:21:57,040 --> 00:21:58,040
+Yes.
+
+514
+00:21:58,040 --> 00:21:59,040
+So, what is the equity premium?
+
+515
+00:21:59,040 --> 00:22:05,040
+And how should we think about the equity premium?
+
+516
+00:22:05,040 --> 00:22:12,780
+So, what I'm going to do is feature
+
+517
+00:22:12,780 --> 00:22:20,520
+the theory that was originally invented by Harry Markowitz
+
+518
+00:22:20,520 --> 00:22:22,280
+when he was a graduate
+
+519
+00:22:22,280 --> 00:22:24,040
+student at the University of Chicago.
+
+520
+00:22:24,040 --> 00:22:25,540
+And as a, or maybe it
+
+521
+00:22:25,540 --> 00:22:27,040
+was shortly after he was a student.
+
+522
+00:22:27,040 --> 00:22:30,540
+In 1952, he published a classic article
+
+523
+00:22:30,540 --> 00:22:34,040
+in the Journal of Finance that really changed
+
+524
+00:22:34,040 --> 00:22:37,040
+the way we think about risk in finance.
+
+525
+00:22:37,040 --> 00:22:42,040
+Changed it forever.
+
+526
+00:22:42,040 --> 00:22:44,040
+It gets back at this core idea.
+
+527
+00:22:44,040 --> 00:22:47,040
+You know, people looking at, going back to
+
+528
+00:22:47,040 --> 00:22:50,040
+the days of the VOC, people had the idea,
+
+529
+00:22:50,040 --> 00:22:54,040
+you know, I think stocks are the best investment.
+
+530
+00:22:54,040 --> 00:22:55,040
+And they were right.
+
+531
+00:22:55,040 --> 00:22:56,040
+They were right.
+
+532
+00:22:57,040 --> 00:22:58,040
+And so, they did it.
+
+533
+00:22:58,040 --> 00:22:59,040
+And I think that's what they were saying.
+
+534
+00:22:59,040 --> 00:23:00,040
+And I think that's what they were saying.
+
+535
+00:23:00,040 --> 00:23:01,040
+And I think that's what they were saying.
+
+536
+00:23:01,040 --> 00:23:02,040
+So, they were right.
+
+537
+00:23:02,040 --> 00:23:02,540
+They were saying, okay, I'm writing that
+
+538
+00:23:02,540 --> 00:23:03,040
+down and I'm putting it in quotation marks
+
+539
+00:23:03,040 --> 00:23:04,040
+because it's not a term that I would use.
+
+540
+00:23:04,040 --> 00:23:05,040
+What is the best investment?
+
+541
+00:23:05,040 --> 00:23:05,540
+Well, they said, look, the
+
+542
+00:23:05,540 --> 00:23:06,040
+VOC is just returning tremendous amounts.
+
+543
+00:23:06,040 --> 00:23:06,540
+Any smart person would just put as
+
+544
+00:23:06,540 --> 00:23:07,040
+much as he can into that investment.
+
+545
+00:23:07,040 --> 00:23:08,040
+Something seems wrong about that.
+
+546
+00:23:08,040 --> 00:23:08,540
+I mean, it can't be true that, well,
+
+547
+00:23:08,540 --> 00:23:09,040
+it's a great investment, but you know, it's just
+
+548
+00:23:09,040 --> 00:23:10,040
+a great investment.
+
+549
+00:23:10,040 --> 00:23:11,040
+It's a great investment.
+
+550
+00:23:11,040 --> 00:23:12,040
+But it's not a good investment.
+
+551
+00:23:12,040 --> 00:23:13,040
+It's not a good investment.
+
+552
+00:23:13,040 --> 00:23:14,040
+But it's a great investment.
+
+553
+00:23:14,040 --> 00:23:15,040
+It's a great investment.
+
+554
+00:23:15,040 --> 00:23:23,540
+So, what Markowitz, when I went back and
+
+555
+00:23:23,540 --> 00:23:32,040
+read his Journal of Finance article in 1952,
+
+556
+00:23:32,040 --> 00:23:36,040
+it's kind of remarkable to me, that what
+
+557
+00:23:36,040 --> 00:23:40,040
+he was talking about wasn't known yet in 1952.
+
+558
+00:23:40,040 --> 00:23:41,540
+He was given a lot
+
+559
+00:23:41,540 --> 00:23:43,040
+of information about how to invest.
+
+560
+00:23:43,040 --> 00:23:44,040
+He had a lot of information about how to invest.
+
+561
+00:23:44,040 --> 00:23:45,660
+He was getting at this
+
+562
+00:23:45,660 --> 00:23:47,280
+core idea of, what's the best
+
+563
+00:23:47,280 --> 00:23:48,879
+investment?
+
+564
+00:23:48,879 --> 00:23:51,960
+And how do you judge what's the best investment?
+
+565
+00:23:51,960 --> 00:23:54,290
+And judging from his article, to
+
+566
+00:23:54,290 --> 00:23:56,620
+me, it sounded so basic and
+
+567
+00:23:56,620 --> 00:23:58,330
+simple, of course, I've studied
+
+568
+00:23:58,330 --> 00:24:00,040
+finance, but it seemed odd to
+
+569
+00:24:00,040 --> 00:24:07,420
+me that everyone didn't know that in 1952.
+
+570
+00:24:07,420 --> 00:24:12,200
+So, let me, the question
+
+571
+00:24:12,200 --> 00:24:16,980
+is, I'll kind of paraphrase what
+
+572
+00:24:16,980 --> 00:24:19,860
+Markowitz said.
+
+573
+00:24:19,860 --> 00:24:22,070
+Let's imagine that you got
+
+574
+00:24:22,070 --> 00:24:24,280
+a job as a portfolio manager.
+
+575
+00:24:24,280 --> 00:24:26,420
+And you're kind of mathematically inclined, and
+
+576
+00:24:26,420 --> 00:24:28,680
+you know numbers and statistics, and you know how to
+
+577
+00:24:28,680 --> 00:24:34,280
+compute standard deviations and variances, things like that.
+
+578
+00:24:34,280 --> 00:24:36,420
+So, what is the first thing you do?
+
+579
+00:24:36,420 --> 00:24:37,420
+You're a scientist.
+
+580
+00:24:37,420 --> 00:24:39,420
+You're a numbers person.
+
+581
+00:24:39,420 --> 00:24:40,660
+You're a math person.
+
+582
+00:24:40,660 --> 00:24:43,560
+But now, imagine you've been entrusted with managing a
+
+583
+00:24:43,560 --> 00:24:45,580
+portfolio for some investor.
+
+584
+00:24:45,580 --> 00:24:47,280
+And the investor gives you a horizon.
+
+585
+00:24:47,280 --> 00:24:50,620
+Let's say you're managing it for one year.
+
+586
+00:24:50,620 --> 00:24:52,800
+And you're thinking, all right, what should I do?
+
+587
+00:24:52,800 --> 00:24:54,440
+Well, I want to collect
+
+588
+00:24:54,440 --> 00:24:56,080
+data on every possible investment I
+
+589
+00:24:56,080 --> 00:25:00,260
+could make, not just stocks and bonds, but real estate,
+
+590
+00:25:00,260 --> 00:25:03,020
+commodities, whatever.
+
+591
+00:25:03,020 --> 00:25:05,100
+And I can, for each of
+
+592
+00:25:05,100 --> 00:25:07,180
+these, I can compute what the average
+
+593
+00:25:07,180 --> 00:25:07,420
+return is.
+
+594
+00:25:07,420 --> 00:25:09,980
+I can compute what the average return was on those
+
+595
+00:25:09,980 --> 00:25:11,980
+investments.
+
+596
+00:25:11,980 --> 00:25:13,700
+And I can compute the
+
+597
+00:25:13,700 --> 00:25:15,420
+variance, and I can compute the
+
+598
+00:25:15,420 --> 00:25:18,420
+covariance and the correlation.
+
+599
+00:25:18,420 --> 00:25:20,420
+So, Markowitz, do you see it?
+
+600
+00:25:20,420 --> 00:25:21,660
+So, I've got all the data.
+
+601
+00:25:21,660 --> 00:25:24,420
+Now, I could say, I don't believe these data are
+
+602
+00:25:24,420 --> 00:25:27,920
+relevant to the future, because I'm smarter.
+
+603
+00:25:27,920 --> 00:25:29,290
+I can predict that some
+
+604
+00:25:29,290 --> 00:25:30,660
+company is going to do better
+
+605
+00:25:30,660 --> 00:25:32,420
+than it did in the past,
+
+606
+00:25:32,420 --> 00:25:34,180
+or some asset class will do
+
+607
+00:25:34,180 --> 00:25:36,420
+better than it did in the past.
+
+608
+00:25:36,420 --> 00:25:37,180
+But let's step back.
+
+609
+00:25:37,180 --> 00:25:40,680
+Let's think like a mathematician here, all right?
+
+610
+00:25:40,680 --> 00:25:44,580
+Let's just take as given all the historical average returns
+
+611
+00:25:44,580 --> 00:25:46,840
+and variances and covariances.
+
+612
+00:25:46,840 --> 00:25:49,820
+So, Markowitz says, well, what's the best portfolio,
+
+613
+00:25:49,820 --> 00:25:51,320
+given that, OK?
+
+614
+00:25:51,320 --> 00:25:54,180
+I could compute all these numbers.
+
+615
+00:25:54,180 --> 00:25:58,940
+What's the best assembly of all these things?
+
+616
+00:25:58,940 --> 00:26:01,140
+And you know, he realized
+
+617
+00:26:01,140 --> 00:26:03,340
+that nobody had ever thought that.
+
+618
+00:26:03,340 --> 00:26:05,840
+Isn't that a well-defined problem?
+
+619
+00:26:05,840 --> 00:26:06,940
+I give you all the variances.
+
+620
+00:26:06,940 --> 00:26:07,940
+I give you all the covariances.
+
+621
+00:26:07,940 --> 00:26:09,940
+I give you all the average returns.
+
+622
+00:26:09,940 --> 00:26:11,440
+And I say, let's just assume
+
+623
+00:26:11,440 --> 00:26:12,940
+that this is going to continue
+
+624
+00:26:12,940 --> 00:26:13,940
+like this.
+
+625
+00:26:13,940 --> 00:26:16,940
+What should I do as an investor?
+
+626
+00:26:16,940 --> 00:26:20,440
+And it's funny, Markowitz said,
+
+627
+00:26:20,440 --> 00:26:23,940
+he won the Nobel Prize later,
+
+628
+00:26:23,940 --> 00:26:25,940
+and deservedly, I think.
+
+629
+00:26:25,940 --> 00:26:27,940
+This was a breakthrough idea.
+
+630
+00:26:27,940 --> 00:26:28,940
+But he said, as a
+
+631
+00:26:28,940 --> 00:26:29,940
+graduate student, he was chatting with
+
+632
+00:26:29,940 --> 00:26:32,940
+someone in the hallway and thinking about this.
+
+633
+00:26:32,940 --> 00:26:35,940
+And he said, it suddenly hit me as an epiphany.
+
+634
+00:26:35,940 --> 00:26:37,440
+If I have these statistics, I
+
+635
+00:26:37,440 --> 00:26:38,940
+ought to be able to compute the
+
+636
+00:26:38,940 --> 00:26:40,940
+optimal portfolio.
+
+637
+00:26:40,940 --> 00:26:42,940
+It's mathematical, right?
+
+638
+00:26:42,940 --> 00:26:44,940
+It's just one thing.
+
+639
+00:26:44,940 --> 00:26:46,940
+I mean, what is the optimal portfolio?
+
+640
+00:26:46,940 --> 00:26:48,440
+It took him like two or
+
+641
+00:26:48,440 --> 00:26:49,940
+three days to figure the whole thing
+
+642
+00:26:49,940 --> 00:26:50,940
+out.
+
+643
+00:26:50,940 --> 00:26:52,440
+And I, you know, it's almost
+
+644
+00:26:52,440 --> 00:26:53,940
+like I could, haven't I set up
+
+645
+00:26:53,940 --> 00:26:55,940
+in your mind, do you see the problem?
+
+646
+00:26:55,940 --> 00:26:57,940
+You can figure this out, too, right?
+
+647
+00:26:57,940 --> 00:27:00,940
+I think, if you put your ingenuity onto it.
+
+648
+00:27:00,940 --> 00:27:03,940
+The funny thing is, nobody thought about it before
+
+649
+00:27:03,940 --> 00:27:04,940
+Markowitz.
+
+650
+00:27:04,940 --> 00:27:06,940
+So, actually, I was intrigued by that.
+
+651
+00:27:06,940 --> 00:27:09,940
+So, I went back trying to
+
+652
+00:27:09,940 --> 00:27:12,940
+find what people were talking about
+
+653
+00:27:12,940 --> 00:27:15,940
+before 1952.
+
+654
+00:27:15,940 --> 00:27:18,940
+And we have a new thing
+
+655
+00:27:18,940 --> 00:27:21,940
+on the web, relatively new, called,
+
+656
+00:27:21,940 --> 00:27:23,940
+do you ever play with this?
+
+657
+00:27:23,940 --> 00:27:32,940
+It's called ngrams.google.com.
+
+658
+00:27:32,940 --> 00:27:33,940
+It's a great thing.
+
+659
+00:27:34,940 --> 00:27:35,940
+It's a great tool.
+
+660
+00:27:35,940 --> 00:27:37,940
+It's a great tool.
+
+661
+00:27:37,940 --> 00:27:38,940
+It's a great tool.
+
+662
+00:27:38,940 --> 00:27:43,940
+And it's called ngramslabs.com.
+
+663
+00:27:43,940 --> 00:27:45,440
+And what you can do is, you
+
+664
+00:27:45,440 --> 00:27:46,940
+can put in any phrase you want
+
+665
+00:27:46,940 --> 00:27:48,440
+and search it for the,
+
+666
+00:27:48,440 --> 00:27:49,940
+it goes back like 400 years.
+
+667
+00:27:49,940 --> 00:27:50,940
+In English.
+
+668
+00:27:50,940 --> 00:27:51,940
+You can't do Dutch.
+
+669
+00:27:51,940 --> 00:27:53,940
+I don't think, maybe you can do Dutch, too.
+
+670
+00:27:53,940 --> 00:27:56,940
+I didn't try.
+
+671
+00:27:56,940 --> 00:27:57,940
+And you can search to see
+
+672
+00:27:57,940 --> 00:27:58,940
+what people were talking about in
+
+673
+00:27:58,940 --> 00:27:59,940
+books.
+
+674
+00:27:59,940 --> 00:28:01,940
+Because they have all these books scanned in now.
+
+675
+00:28:01,940 --> 00:28:03,940
+Now you can search for keywords.
+
+676
+00:28:03,940 --> 00:28:04,940
+You can search for keywords.
+
+677
+00:28:04,940 --> 00:28:06,940
+You can search for keywords.
+
+678
+00:28:06,940 --> 00:28:11,940
+And you can do research on portfolio analysis.
+
+679
+00:28:11,940 --> 00:28:13,940
+That's what this is all about, right?
+
+680
+00:28:13,940 --> 00:28:15,940
+Figuring out what the optimal portfolio of stocks, bonds,
+
+681
+00:28:15,940 --> 00:28:17,940
+commodities is.
+
+682
+00:28:17,940 --> 00:28:21,940
+Hardly anyone even used the term before 1952.
+
+683
+00:28:21,940 --> 00:28:23,940
+I guess it didn't exist.
+
+684
+00:28:23,940 --> 00:28:25,440
+There was no theory of, you
+
+685
+00:28:25,440 --> 00:28:26,940
+kind of, how could that be?
+
+686
+00:28:26,940 --> 00:28:28,940
+I mean, you had all these sophisticated banks and
+
+687
+00:28:28,940 --> 00:28:33,940
+finance, they had no theory of portfolio analysis.
+
+688
+00:28:33,940 --> 00:28:35,940
+You had no theory of portfolio return.
+
+689
+00:28:35,940 --> 00:28:37,940
+You had no theory of portfolio return.
+
+690
+00:28:37,940 --> 00:28:39,940
+You had no theory of portfolio return.
+
+691
+00:28:39,940 --> 00:28:41,940
+It all started with Harry Markowitz.
+
+692
+00:28:41,940 --> 00:28:43,940
+Again, this is another testimony to how there are
+
+693
+00:28:43,940 --> 00:28:45,940
+sudden breakthroughs.
+
+694
+00:28:45,940 --> 00:28:47,940
+It should have been obvious.
+
+695
+00:28:47,940 --> 00:28:49,940
+But somehow, people didn't think.
+
+696
+00:28:49,940 --> 00:28:51,940
+But then I found one thing, though.
+
+697
+00:28:51,940 --> 00:28:56,940
+I did search on Ngrams on eggs in one basket.
+
+698
+00:28:56,940 --> 00:28:59,440
+There's an old adage, don't put
+
+699
+00:28:59,440 --> 00:29:01,940
+all your eggs in one basket.
+
+700
+00:29:01,940 --> 00:29:04,940
+It's kind of what we're coming to with Markowitz here.
+
+701
+00:29:04,940 --> 00:29:06,940
+He's got a whole theory of it.
+
+702
+00:29:06,940 --> 00:29:12,940
+But I found a, where was it?
+
+703
+00:29:12,940 --> 00:29:15,940
+I found an investment manual from 1874.
+
+704
+00:29:15,940 --> 00:29:17,940
+I can't find it here.
+
+705
+00:29:17,940 --> 00:29:23,940
+I'm not, this is from a book, 1874, about investing.
+
+706
+00:29:23,940 --> 00:29:25,440
+There is an old saying that
+
+707
+00:29:25,440 --> 00:29:26,940
+it is inadvisable to put all your
+
+708
+00:29:26,940 --> 00:29:28,940
+eggs in one basket.
+
+709
+00:29:28,940 --> 00:29:31,940
+So, it was already in the, and he says diversify.
+
+710
+00:29:31,940 --> 00:29:32,940
+And then he's done.
+
+711
+00:29:32,940 --> 00:29:35,940
+He doesn't tell you, how do you diversify?
+
+712
+00:29:35,940 --> 00:29:38,940
+How do I know what I should do?
+
+713
+00:29:38,940 --> 00:29:40,940
+It just stops there.
+
+714
+00:29:40,940 --> 00:29:47,940
+There was no theory of risk until 1952.
+
+715
+00:29:47,940 --> 00:29:48,940
+So, let's think about that.
+
+716
+00:29:48,940 --> 00:29:49,940
+You see the concept I have?
+
+717
+00:29:49,940 --> 00:29:51,940
+You know all the variances.
+
+718
+00:29:51,940 --> 00:29:52,940
+This isn't a judgment thing.
+
+719
+00:29:52,940 --> 00:29:54,940
+You know all the covariances.
+
+720
+00:29:54,940 --> 00:29:55,940
+What should I do?
+
+721
+00:29:55,940 --> 00:29:57,940
+Well, the first thing I want
+
+722
+00:29:57,940 --> 00:29:59,940
+to talk about is the very simple
+
+723
+00:29:59,940 --> 00:30:00,940
+case of pure logic.
+
+724
+00:30:00,940 --> 00:30:01,940
+Pure logic.
+
+725
+00:30:01,940 --> 00:30:05,940
+Pure leverage.
+
+726
+00:30:05,940 --> 00:30:09,940
+Let's go back to 1602, OK?
+
+727
+00:30:09,940 --> 00:30:11,940
+And there's only one stock.
+
+728
+00:30:11,940 --> 00:30:12,940
+That's VOC.
+
+729
+00:30:12,940 --> 00:30:16,940
+OK?
+
+730
+00:30:16,940 --> 00:30:17,940
+And there has to be something else.
+
+731
+00:30:17,940 --> 00:30:19,940
+Otherwise, there's nothing.
+
+732
+00:30:19,940 --> 00:30:21,440
+The other thing I'm going
+
+733
+00:30:21,440 --> 00:30:22,940
+to say is, there's an interest
+
+734
+00:30:22,940 --> 00:30:23,940
+rate, riskless interest rate.
+
+735
+00:30:23,940 --> 00:30:25,940
+So, I can invest in,
+
+736
+00:30:25,940 --> 00:30:27,940
+let's say, Dutch government bonds, which
+
+737
+00:30:27,940 --> 00:30:28,940
+are completely safe.
+
+738
+00:30:28,940 --> 00:30:30,940
+Of course, you might say, they're not completely safe,
+
+739
+00:30:30,940 --> 00:30:33,940
+but they're much safer than VOC.
+
+740
+00:30:33,940 --> 00:30:34,940
+VOC was wild.
+
+741
+00:30:34,940 --> 00:30:36,940
+The price was going all over the place.
+
+742
+00:30:36,940 --> 00:30:39,940
+So, let's, as an approximation,
+
+743
+00:30:39,940 --> 00:30:42,940
+say there's an interest rate.
+
+744
+00:30:42,940 --> 00:30:44,940
+You can borrow and lend at the interest rate.
+
+745
+00:30:44,940 --> 00:30:49,940
+And we'll call the riskless rate R sub f.
+
+746
+00:30:49,940 --> 00:30:50,940
+OK?
+
+747
+00:30:50,940 --> 00:30:52,940
+So, let's say that's 5% a year.
+
+748
+00:30:52,940 --> 00:30:53,940
+OK?
+
+749
+00:30:53,940 --> 00:30:54,940
+We're investing for one year.
+
+750
+00:30:54,940 --> 00:30:57,940
+So, I can invest at the interest rate.
+
+751
+00:30:57,940 --> 00:30:58,940
+And this is a boring investment.
+
+752
+00:30:58,940 --> 00:30:59,940
+It's just getting interest.
+
+753
+00:30:59,940 --> 00:31:00,940
+It's 5%.
+
+754
+00:31:00,940 --> 00:31:04,940
+But I can also borrow at the interest rate.
+
+755
+00:31:04,940 --> 00:31:07,940
+There's a market rate, and I can borrow at 5%.
+
+756
+00:31:07,940 --> 00:31:09,440
+You know, in practice, I would
+
+757
+00:31:09,440 --> 00:31:10,940
+probably have to pay a little
+
+758
+00:31:10,940 --> 00:31:12,940
+bit more as a borrower than
+
+759
+00:31:12,940 --> 00:31:14,940
+I could get as an investor.
+
+760
+00:31:14,940 --> 00:31:16,940
+But let's assume that away.
+
+761
+00:31:16,940 --> 00:31:17,940
+It's just an interest rate.
+
+762
+00:31:17,940 --> 00:31:19,940
+And anybody who wants to can
+
+763
+00:31:19,940 --> 00:31:21,940
+borrow and lend at the interest
+
+764
+00:31:21,940 --> 00:31:22,940
+rate.
+
+765
+00:31:22,940 --> 00:31:25,940
+I'll make it 5%, just for a round number.
+
+766
+00:31:25,940 --> 00:31:27,940
+OK?
+
+767
+00:31:27,940 --> 00:31:31,440
+And let's say VOC, the Dutch
+
+768
+00:31:31,440 --> 00:31:34,940
+East India Company, has had a
+
+769
+00:31:34,940 --> 00:31:38,940
+historic average return of 20%.
+
+770
+00:31:38,940 --> 00:31:43,940
+This is a spectacular investment, all right?
+
+771
+00:31:43,940 --> 00:31:46,940
+But let's say it's, so that's its mean.
+
+772
+00:31:46,940 --> 00:31:49,940
+It's mu, the mean of the investment.
+
+773
+00:31:49,940 --> 00:31:51,940
+But let's say it's really risky.
+
+774
+00:31:51,940 --> 00:31:54,940
+So, the standard deviation is 40%.
+
+775
+00:31:57,940 --> 00:32:00,940
+OK?
+
+776
+00:32:00,940 --> 00:32:02,940
+So, what can I do?
+
+777
+00:32:02,940 --> 00:32:04,440
+Suppose I have only, this is
+
+778
+00:32:04,440 --> 00:32:05,940
+a, let's do the simple problem
+
+779
+00:32:05,940 --> 00:32:06,940
+first, OK?
+
+780
+00:32:06,940 --> 00:32:10,440
+I have only one asset,
+
+781
+00:32:10,440 --> 00:32:13,940
+VOC, and I have riskless debt.
+
+782
+00:32:13,940 --> 00:32:15,940
+So, one thing I can do,
+
+783
+00:32:15,940 --> 00:32:17,940
+I'm going to draw a chart here
+
+784
+00:32:17,940 --> 00:32:22,940
+showing, OK, and I'm going
+
+785
+00:32:22,940 --> 00:32:27,940
+to do sigma on this axis.
+
+786
+00:32:27,940 --> 00:32:30,940
+And R on this axis.
+
+787
+00:32:30,940 --> 00:32:40,940
+So, sigma is the standard deviation of my portfolio.
+
+788
+00:32:40,940 --> 00:32:41,940
+OK?
+
+789
+00:32:41,940 --> 00:32:49,940
+And R is the expected return on the portfolio.
+
+790
+00:32:49,940 --> 00:32:51,940
+OK?
+
+791
+00:32:51,940 --> 00:32:54,440
+Now, all I'm going to do
+
+792
+00:32:54,440 --> 00:32:56,940
+is choose mixtures of the stock
+
+793
+00:32:56,940 --> 00:32:57,940
+and the, and the portfolio.
+
+794
+00:32:57,940 --> 00:32:59,440
+And I'm going to do the
+
+795
+00:32:59,440 --> 00:33:00,940
+same thing with the riskless rate.
+
+796
+00:33:00,940 --> 00:33:02,440
+So, I, a couple of points I
+
+797
+00:33:02,440 --> 00:33:03,940
+can read, I'm going to plot what
+
+798
+00:33:03,940 --> 00:33:05,940
+the available options are.
+
+799
+00:33:05,940 --> 00:33:09,440
+I, I can, I can see right
+
+800
+00:33:09,440 --> 00:33:12,940
+here that I can invest at 5%, right?
+
+801
+00:33:12,940 --> 00:33:15,940
+The riskless rate, and then I'll have no risk.
+
+802
+00:33:15,940 --> 00:33:16,940
+So, do you see this?
+
+803
+00:33:16,940 --> 00:33:19,940
+This is R sub F.
+
+804
+00:33:19,940 --> 00:33:21,940
+This is zero.
+
+805
+00:33:21,940 --> 00:33:22,940
+OK?
+
+806
+00:33:22,940 --> 00:33:24,940
+And these are positive numbers.
+
+807
+00:33:24,940 --> 00:33:25,940
+See what I've plotted here?
+
+808
+00:33:25,940 --> 00:33:26,940
+This is just the, the most boring investment.
+
+809
+00:33:26,940 --> 00:33:30,940
+Because there's no risk at all, and I'm earning 5%.
+
+810
+00:33:30,940 --> 00:33:32,940
+I can also plot this one, right?
+
+811
+00:33:32,940 --> 00:33:39,940
+So, here is VOC.
+
+812
+00:33:39,940 --> 00:33:42,940
+Is this big enough for you to see back there?
+
+813
+00:33:42,940 --> 00:33:43,940
+OK.
+
+814
+00:33:43,940 --> 00:33:47,940
+So, VOC is up here, and this
+
+815
+00:33:47,940 --> 00:33:51,940
+is 20, this is a risk of, I'm
+
+816
+00:33:51,940 --> 00:33:55,940
+at, of 40.
+
+817
+00:33:55,940 --> 00:33:58,940
+And the standard deviation of 20.
+
+818
+00:33:58,940 --> 00:34:01,940
+I'm sorry, expected return of 20
+
+819
+00:34:01,940 --> 00:34:04,940
+and a risk of 40, right?
+
+820
+00:34:04,940 --> 00:34:07,440
+So, those are two points, but
+
+821
+00:34:07,440 --> 00:34:09,940
+I can do other things, too.
+
+822
+00:34:09,940 --> 00:34:12,940
+What if I borrowed money to
+
+823
+00:34:12,940 --> 00:34:15,940
+buy, let's say I have 100 guilders.
+
+824
+00:34:15,940 --> 00:34:16,940
+I'm talking Dutch, OK?
+
+825
+00:34:16,940 --> 00:34:19,940
+That was the currency of the time, the guilder.
+
+826
+00:34:19,940 --> 00:34:21,940
+I'll write it for you.
+
+827
+00:34:21,940 --> 00:34:23,940
+Gilder.
+
+828
+00:34:25,940 --> 00:34:27,940
+OK.
+
+829
+00:34:27,940 --> 00:34:29,940
+So, I have 100 guilders to invest.
+
+830
+00:34:29,940 --> 00:34:33,940
+I could put it all in VOC stock, and I
+
+831
+00:34:33,940 --> 00:34:37,940
+would get, I would expect to get 20 guilders profit,
+
+832
+00:34:37,940 --> 00:34:41,940
+and I'd have a standard deviation of 40 guilders, right?
+
+833
+00:34:41,940 --> 00:34:44,440
+But what if I said, I'm
+
+834
+00:34:44,440 --> 00:34:46,940
+going to actually borrow another 100 guilders.
+
+835
+00:34:46,940 --> 00:34:48,940
+I only own 100 guilders, but I'm going
+
+836
+00:34:48,940 --> 00:34:50,940
+to borrow another 100 guilders and put it in
+
+837
+00:34:50,940 --> 00:34:52,940
+VOC stock.
+
+838
+00:34:52,940 --> 00:34:54,940
+So, that means I'll own 200 guilders.
+
+839
+00:34:54,940 --> 00:34:58,440
+I'm going to borrow another 100 guilders, and I'm going to have 200
+
+840
+00:34:58,440 --> 00:35:01,940
+guilders of VOC stock, and I'm going to have a debt of 100 guilders.
+
+841
+00:35:01,940 --> 00:35:06,940
+So, what's my expected return there?
+
+842
+00:35:06,940 --> 00:35:12,440
+Well, my expected return is going to be 35%, because,
+
+843
+00:35:12,440 --> 00:35:17,940
+look, I'm owner of 200 guilders worth of VOC stock.
+
+844
+00:35:17,940 --> 00:35:19,940
+The expected return is 20%, so I'm
+
+845
+00:35:19,940 --> 00:35:21,940
+going to get 40 guilders out of that.
+
+846
+00:35:21,940 --> 00:35:22,940
+But then I have a debt.
+
+847
+00:35:22,940 --> 00:35:24,940
+I've got to pay 5 guilders to my lender.
+
+848
+00:35:24,940 --> 00:35:26,940
+So, it's 35 is what I've got.
+
+849
+00:35:26,940 --> 00:35:30,940
+And as a percent of my initial investment, that's 35%.
+
+850
+00:35:30,940 --> 00:35:36,440
+So, I've got another point out here with,
+
+851
+00:35:36,440 --> 00:35:41,940
+this is 35, and down here is 80.
+
+852
+00:35:41,940 --> 00:35:44,940
+See, my standard deviation is 80 guilders now, right?
+
+853
+00:35:44,940 --> 00:35:48,940
+Because I have $200, and the
+
+854
+00:35:48,940 --> 00:35:52,940
+standard deviation was 40%, all right?
+
+855
+00:35:52,940 --> 00:35:53,940
+So, this is.
+
+856
+00:35:53,940 --> 00:35:57,440
+So, here I am two
+
+857
+00:35:57,440 --> 00:36:00,940
+for one, two for one leveraged.
+
+858
+00:36:00,940 --> 00:36:08,940
+I have $100, but I've put $200 in the stock.
+
+859
+00:36:08,940 --> 00:36:09,940
+Okay?
+
+860
+00:36:09,940 --> 00:36:10,940
+It's easy to do.
+
+861
+00:36:10,940 --> 00:36:15,940
+You know, you could do this in 1602.
+
+862
+00:36:15,940 --> 00:36:17,940
+So, you know, you can see how I knew it.
+
+863
+00:36:17,940 --> 00:36:21,940
+Obviously, I can, this is a straight line here.
+
+864
+00:36:21,940 --> 00:36:23,940
+I could do anything along this straight line.
+
+865
+00:36:23,940 --> 00:36:26,940
+I could do anything along this straight line.
+
+866
+00:36:26,940 --> 00:36:31,940
+And like here would be putting half of my
+
+867
+00:36:31,940 --> 00:36:36,940
+money in the riskless asset and half into VOC.
+
+868
+00:36:36,940 --> 00:36:39,940
+This would be putting one and a half,
+
+869
+00:36:39,940 --> 00:36:42,940
+150 guilders in VOC and borrowing 50 guilders.
+
+870
+00:36:42,940 --> 00:36:45,440
+You see, I can go
+
+871
+00:36:45,440 --> 00:36:47,940
+out as far as I want.
+
+872
+00:36:47,940 --> 00:36:50,940
+Then there's another branch to this.
+
+873
+00:36:50,940 --> 00:36:52,940
+What if I short 200?
+
+874
+00:36:52,940 --> 00:36:56,440
+I can go out and I
+
+875
+00:36:56,440 --> 00:36:59,940
+have 200 guilders of VOC stock.
+
+876
+00:36:59,940 --> 00:37:00,940
+Okay?
+
+877
+00:37:00,940 --> 00:37:03,440
+So, I go to the broker and
+
+878
+00:37:03,440 --> 00:37:05,940
+I say, I want to sell VOC stock.
+
+879
+00:37:05,940 --> 00:37:06,940
+I don't own any.
+
+880
+00:37:06,940 --> 00:37:08,940
+And the broker would say, all right, fine.
+
+881
+00:37:08,940 --> 00:37:10,940
+I'll lend you some shares.
+
+882
+00:37:10,940 --> 00:37:13,440
+And then you can sell them,
+
+883
+00:37:13,440 --> 00:37:15,940
+but you owe me the shares.
+
+884
+00:37:15,940 --> 00:37:16,940
+All right?
+
+885
+00:37:16,940 --> 00:37:18,940
+So, then I have minus
+
+886
+00:37:18,940 --> 00:37:20,940
+200 guilders worth of VOC stock.
+
+887
+00:37:20,940 --> 00:37:21,940
+And I'll hold that.
+
+888
+00:37:21,940 --> 00:37:25,440
+Oh, meanwhile, by the way, the broker says, after you sell the shares,
+
+889
+00:37:25,440 --> 00:37:28,940
+I will get 200 guilders from the person who bought them from you.
+
+890
+00:37:28,940 --> 00:37:30,440
+And I'll hold that and
+
+891
+00:37:30,440 --> 00:37:31,940
+I'll pay you interest on that.
+
+892
+00:37:31,940 --> 00:37:32,940
+Okay?
+
+893
+00:37:32,940 --> 00:37:34,940
+So, what do I get?
+
+894
+00:37:34,940 --> 00:37:37,940
+I expect to lose 40 guilders, because
+
+895
+00:37:37,940 --> 00:37:40,940
+I got $200, 200 guilders of the stock.
+
+896
+00:37:40,940 --> 00:37:45,940
+But meanwhile, I've got my original 100 guilders.
+
+897
+00:37:45,940 --> 00:37:47,940
+And now I've got another 200.
+
+898
+00:37:47,940 --> 00:37:49,940
+And they're all there earning interest at 5%.
+
+899
+00:37:49,940 --> 00:37:52,940
+So, I will get 15 guilders.
+
+900
+00:37:52,940 --> 00:37:55,940
+So, the expected return is
+
+901
+00:37:55,940 --> 00:37:58,940
+15 minus 40 or minus 25.
+
+902
+00:37:58,940 --> 00:38:01,940
+So, that's this point down here.
+
+903
+00:38:01,940 --> 00:38:04,940
+But you can see that you can
+
+904
+00:38:04,940 --> 00:38:07,940
+also do anywhere you like on that line.
+
+905
+00:38:07,940 --> 00:38:10,940
+So, what we have here is a broken straight line.
+
+906
+00:38:10,940 --> 00:38:12,940
+I can get anything I want.
+
+907
+00:38:12,940 --> 00:38:13,940
+Right?
+
+908
+00:38:13,940 --> 00:38:15,940
+This is kind of obvious right now.
+
+909
+00:38:15,940 --> 00:38:17,940
+Anywhere I want on that line.
+
+910
+00:38:17,940 --> 00:38:19,940
+On that broken straight line.
+
+911
+00:38:19,940 --> 00:38:26,940
+And I can do that.
+
+912
+00:38:26,940 --> 00:38:29,440
+So, here's where you get saying,
+
+913
+00:38:29,440 --> 00:38:31,940
+what is the optimal portfolio anyway?
+
+914
+00:38:31,940 --> 00:38:33,940
+I can get any return I want.
+
+915
+00:38:33,940 --> 00:38:37,440
+You know, my client who's asking me
+
+916
+00:38:37,440 --> 00:38:40,940
+to invest says, I want 100% return expected.
+
+917
+00:38:40,940 --> 00:38:41,940
+You say, got it.
+
+918
+00:38:41,940 --> 00:38:43,940
+I'm no genius, right?
+
+919
+00:38:43,940 --> 00:38:45,940
+I'm just doing the most obvious thing.
+
+920
+00:38:45,940 --> 00:38:47,940
+Anyone who wants 100% return can get it by genius.
+
+921
+00:38:47,940 --> 00:38:49,940
+I'm just going to leverage.
+
+922
+00:38:49,940 --> 00:38:54,940
+So, this is what, so then I create an investment.
+
+923
+00:38:54,940 --> 00:38:57,440
+If I have an investment company that
+
+924
+00:38:57,440 --> 00:38:59,940
+merely buys VOC stock and leverages it,
+
+925
+00:38:59,940 --> 00:39:01,940
+my investment company can have
+
+926
+00:39:01,940 --> 00:39:03,940
+any expected return that you want.
+
+927
+00:39:03,940 --> 00:39:05,940
+So, this is what Markowitz was wondering about.
+
+928
+00:39:05,940 --> 00:39:07,940
+Well, what does it mean
+
+929
+00:39:07,940 --> 00:39:09,940
+to have the optimal investment anyway?
+
+930
+00:39:09,940 --> 00:39:12,940
+And the core thing that he talked about
+
+931
+00:39:12,940 --> 00:39:15,940
+in 1952 is, there is no better portfolio.
+
+932
+00:39:15,940 --> 00:39:17,940
+There is no better portfolio.
+
+933
+00:39:17,940 --> 00:39:19,940
+There is no investment.
+
+934
+00:39:19,940 --> 00:39:21,940
+There is no best investment.
+
+935
+00:39:21,940 --> 00:39:24,940
+There is only a tradeoff between risk and return.
+
+936
+00:39:24,940 --> 00:39:27,940
+And we have to think about the best tradeoff.
+
+937
+00:39:27,940 --> 00:39:30,940
+And in this case, I've shown the tradeoff here.
+
+938
+00:39:30,940 --> 00:39:32,940
+It's this, this is what you can get.
+
+939
+00:39:32,940 --> 00:39:35,940
+And any one of those points is available.
+
+940
+00:39:35,940 --> 00:39:39,440
+And so, anyone who wants to invest with
+
+941
+00:39:39,440 --> 00:39:42,940
+you has to choose between risk and return.
+
+942
+00:39:42,940 --> 00:39:47,940
+There's no optimal portfolio in the fundamental sense.
+
+943
+00:39:47,940 --> 00:39:50,940
+There's no better portfolio in the fundamental sense.
+
+944
+00:39:50,940 --> 00:39:53,940
+And that's the matter of an optimal tradeoff.
+
+945
+00:39:53,940 --> 00:39:57,940
+And you know, nobody knew that before 1952.
+
+946
+00:39:57,940 --> 00:40:00,440
+So, let me just show you formally
+
+947
+00:40:00,440 --> 00:40:02,940
+this, what I just did on the blackboard.
+
+948
+00:40:02,940 --> 00:40:05,440
+You can say, we're going to
+
+949
+00:40:05,440 --> 00:40:07,940
+put, I've switched to dollars from Gilders.
+
+950
+00:40:07,940 --> 00:40:10,940
+Now, we're in the USA.
+
+951
+00:40:10,940 --> 00:40:12,940
+And so, put dollars in a risky
+
+952
+00:40:12,940 --> 00:40:14,940
+asset, x dollars in a risky asset,
+
+953
+00:40:14,940 --> 00:40:17,940
+1 minus x dollars in the riskless asset.
+
+954
+00:40:17,940 --> 00:40:19,440
+And the value of the
+
+955
+00:40:19,440 --> 00:40:20,940
+return on the portfolio is r.
+
+956
+00:40:20,940 --> 00:40:23,440
+That's equal to x r1
+
+957
+00:40:23,440 --> 00:40:25,940
+plus 1 minus x times rf.
+
+958
+00:40:25,940 --> 00:40:26,940
+It's linear.
+
+959
+00:40:26,940 --> 00:40:29,940
+That's because that's how expected values work.
+
+960
+00:40:29,940 --> 00:40:33,440
+The variance is x squared
+
+961
+00:40:33,440 --> 00:40:36,940
+times the variance of the return.
+
+962
+00:40:36,940 --> 00:40:41,440
+And so, if I want to write the portfolio
+
+963
+00:40:41,440 --> 00:40:45,940
+standard deviation as a function of the expected return,
+
+964
+00:40:45,940 --> 00:40:47,940
+I solve for x.
+
+965
+00:40:47,940 --> 00:40:50,940
+So, I'm taking this equation for x,
+
+966
+00:40:50,940 --> 00:40:53,940
+solve for x in terms of r.
+
+967
+00:40:53,940 --> 00:40:55,940
+So, x equals r minus
+
+968
+00:40:55,940 --> 00:40:57,940
+rf all over r1 minus rf.
+
+969
+00:40:57,940 --> 00:41:02,940
+And then I substitute that in to this equation.
+
+970
+00:41:02,940 --> 00:41:05,940
+Well, I want to take the square
+
+971
+00:41:05,940 --> 00:41:08,940
+root of it, because this is sigma squared.
+
+972
+00:41:08,940 --> 00:41:11,440
+And so, I've got sigma equals
+
+973
+00:41:11,440 --> 00:41:13,940
+r minus rf times r1 minus rf.
+
+974
+00:41:13,940 --> 00:41:16,940
+Well, actually, I have these absolute value marks.
+
+975
+00:41:16,940 --> 00:41:19,940
+And I always take the, if that's
+
+976
+00:41:19,940 --> 00:41:22,940
+negative, I switch sign and make it positive.
+
+977
+00:41:22,940 --> 00:41:25,440
+So, that gives the formula for
+
+978
+00:41:25,440 --> 00:41:27,940
+this broken straight line right here.
+
+979
+00:41:27,940 --> 00:41:30,940
+So, that's pretty simple.
+
+980
+00:41:30,940 --> 00:41:35,940
+That's the expected value.
+
+981
+00:41:35,940 --> 00:41:44,940
+Well.
+
+982
+00:41:44,940 --> 00:41:52,440
+Now, I want to move ahead, move on from this
+
+983
+00:41:52,440 --> 00:41:59,940
+simple idea to, we haven't really gotten fully into Markowitz yet.
+
+984
+00:41:59,940 --> 00:42:01,940
+Because this is a very simple story.
+
+985
+00:42:01,940 --> 00:42:05,440
+By the way, this broken straight line is
+
+986
+00:42:05,440 --> 00:42:08,940
+what we call a degenerate case of a hyperbola.
+
+987
+00:42:08,940 --> 00:42:11,940
+You know the, remember in math?
+
+988
+00:42:11,940 --> 00:42:12,940
+Hyperbola.
+
+989
+00:42:14,940 --> 00:42:16,940
+A curve.
+
+990
+00:42:16,940 --> 00:42:18,940
+A certain mathematical curve.
+
+991
+00:42:18,940 --> 00:42:21,940
+And we're seeing a hyperbola here.
+
+992
+00:42:21,940 --> 00:42:23,940
+But I'm going to show
+
+993
+00:42:23,940 --> 00:42:25,940
+you other hyperbolas in a minute.
+
+994
+00:42:25,940 --> 00:42:28,940
+What Markowitz really said, well, okay, this is simple.
+
+995
+00:42:28,940 --> 00:42:31,440
+This is, just pure leverage
+
+996
+00:42:31,440 --> 00:42:33,940
+is a simple thing to understand.
+
+997
+00:42:33,940 --> 00:42:36,440
+By the way, it's also
+
+998
+00:42:36,440 --> 00:42:38,940
+called gearing in the United Kingdom.
+
+999
+00:42:38,940 --> 00:42:41,940
+But let's think about now.
+
+1000
+00:42:41,940 --> 00:42:48,940
+Suppose I have more than one risky asset.
+
+1001
+00:42:48,940 --> 00:42:51,940
+Let's get past the year 1602.
+
+1002
+00:42:51,940 --> 00:43:02,940
+And let's think about assets in a more modern context.
+
+1003
+00:43:02,940 --> 00:43:05,940
+I want to move to another
+
+1004
+00:43:05,940 --> 00:43:08,940
+example, which is two risky assets.
+
+1005
+00:43:08,940 --> 00:43:10,940
+Now, let's think about this.
+
+1006
+00:43:10,940 --> 00:43:13,440
+Now, we've moved past 1602,
+
+1007
+00:43:13,440 --> 00:43:15,940
+and now we have two stocks.
+
+1008
+00:43:15,940 --> 00:43:18,940
+And for the moment, I'm going to forget about leverage.
+
+1009
+00:43:18,940 --> 00:43:22,440
+And let's just say, you can
+
+1010
+00:43:22,440 --> 00:43:25,940
+put X1 in the first risky asset.
+
+1011
+00:43:25,940 --> 00:43:27,940
+That's stock number one.
+
+1012
+00:43:27,940 --> 00:43:29,940
+And I can put 1 minus
+
+1013
+00:43:29,940 --> 00:43:31,940
+X1 in the second risky asset.
+
+1014
+00:43:31,940 --> 00:43:33,940
+That's stock number two.
+
+1015
+00:43:33,940 --> 00:43:34,940
+Okay?
+
+1016
+00:43:34,940 --> 00:43:37,940
+So, what do I get here?
+
+1017
+00:43:37,940 --> 00:43:39,940
+The expected, the portion of the stock.
+
+1018
+00:43:39,940 --> 00:43:43,940
+And the portfolio expected return is just
+
+1019
+00:43:43,940 --> 00:43:47,940
+the linear combination of the two expected returns.
+
+1020
+00:43:47,940 --> 00:43:51,940
+So, R1 is the expected return on the first stock.
+
+1021
+00:43:51,940 --> 00:43:54,940
+And R2 is the expected return on the second stock.
+
+1022
+00:43:54,940 --> 00:43:57,940
+And you just, well, actually, I'm assuming
+
+1023
+00:43:57,940 --> 00:44:00,940
+you have $1 to invest in this example.
+
+1024
+00:44:00,940 --> 00:44:01,940
+I'm sorry.
+
+1025
+00:44:01,940 --> 00:44:04,940
+I was assuming you had 100 guilders over there.
+
+1026
+00:44:04,940 --> 00:44:06,940
+Now, I've just made it $1.
+
+1027
+00:44:06,940 --> 00:44:08,940
+Unrealistically small amount.
+
+1028
+00:44:08,940 --> 00:44:10,940
+But I just wanted a nice number.
+
+1029
+00:44:10,940 --> 00:44:11,940
+Okay?
+
+1030
+00:44:11,940 --> 00:44:13,940
+So, let's say $1 is 100
+
+1031
+00:44:13,940 --> 00:44:15,940
+guilders, and then I haven't changed anything.
+
+1032
+00:44:15,940 --> 00:44:16,940
+Okay.
+
+1033
+00:44:16,940 --> 00:44:20,940
+So, I have one, see, I start out with $1.
+
+1034
+00:44:20,940 --> 00:44:23,440
+So, if I put X1 dollars in the first one,
+
+1035
+00:44:23,440 --> 00:44:25,940
+I have 1 minus X1 left for the other one.
+
+1036
+00:44:25,940 --> 00:44:26,940
+So, it's very simple.
+
+1037
+00:44:26,940 --> 00:44:31,440
+And this is the formula for the
+
+1038
+00:44:31,440 --> 00:44:35,940
+variance of the portfolio, which we saw, essentially,
+
+1039
+00:44:35,940 --> 00:44:38,940
+we saw that in the second lecture.
+
+1040
+00:44:38,940 --> 00:44:42,440
+So, what I can do is go through the same
+
+1041
+00:44:42,440 --> 00:44:45,940
+sort of exercise I did there with two risky assets.
+
+1042
+00:44:45,940 --> 00:44:46,940
+All right?
+
+1043
+00:44:46,940 --> 00:44:50,440
+And so, what I want to do
+
+1044
+00:44:50,440 --> 00:44:53,940
+is draw a curve, something like this.
+
+1045
+00:44:53,940 --> 00:44:57,440
+But I'll solve for X1 in terms of
+
+1046
+00:44:57,440 --> 00:45:00,940
+R, just like I did for the riskless asset.
+
+1047
+00:45:00,940 --> 00:45:04,940
+And I'll plug it into the equation for the variance.
+
+1048
+00:45:04,940 --> 00:45:06,940
+I'll have to take the square root of that.
+
+1049
+00:45:06,940 --> 00:45:07,940
+And I can plug it in.
+
+1050
+00:45:07,940 --> 00:45:09,940
+And I can plot that.
+
+1051
+00:45:09,940 --> 00:45:11,940
+Okay?
+
+1052
+00:45:11,940 --> 00:45:13,940
+And you might think it would look something like that.
+
+1053
+00:45:13,940 --> 00:45:16,440
+Well, it's not going to look
+
+1054
+00:45:16,440 --> 00:45:18,940
+exactly like that, because it's risky.
+
+1055
+00:45:18,940 --> 00:45:19,940
+Something's risky.
+
+1056
+00:45:19,940 --> 00:45:21,940
+So, I did that.
+
+1057
+00:45:21,940 --> 00:45:24,440
+And incidentally, on your problem set, you're going
+
+1058
+00:45:24,440 --> 00:45:26,940
+to have to think about issues like this.
+
+1059
+00:45:26,940 --> 00:45:31,440
+But what I did is, I took data on the average
+
+1060
+00:45:31,440 --> 00:45:35,940
+return for the U.S. stock market, as measured by the S&P 500,
+
+1061
+00:45:35,940 --> 00:45:38,940
+and the variance.
+
+1062
+00:45:38,940 --> 00:45:41,940
+And then, the alternative investment I took
+
+1063
+00:45:41,940 --> 00:45:44,940
+was 10-year treasuries for the United States government.
+
+1064
+00:45:44,940 --> 00:45:46,940
+Long-term, because they're 10 years.
+
+1065
+00:45:46,940 --> 00:45:48,940
+But we're only investing for one year.
+
+1066
+00:45:48,940 --> 00:45:50,940
+So, they're risky, because the
+
+1067
+00:45:50,940 --> 00:45:52,940
+market price goes up and down.
+
+1068
+00:45:52,940 --> 00:45:54,940
+They're not riskless.
+
+1069
+00:45:54,940 --> 00:45:55,940
+I call those bonds.
+
+1070
+00:45:55,940 --> 00:45:58,940
+There's other kinds of bonds.
+
+1071
+00:45:58,940 --> 00:46:01,440
+And I computed the relationship between the
+
+1072
+00:46:01,440 --> 00:46:03,940
+standard deviation of the portfolio, and the risk.
+
+1073
+00:46:03,940 --> 00:46:04,940
+Okay?
+
+1074
+00:46:04,940 --> 00:46:10,440
+So, I computed the relationship between the standard deviation of the portfolio,
+
+1075
+00:46:10,440 --> 00:46:15,940
+and the standard deviation, and the expected return, just as I showed you.
+
+1076
+00:46:15,940 --> 00:46:21,940
+Again, using data from 1983 to 2006.
+
+1077
+00:46:21,940 --> 00:46:25,940
+And it kind of looks like this curve, doesn't it?
+
+1078
+00:46:25,940 --> 00:46:30,940
+Except, this is a degenerate parabola.
+
+1079
+00:46:30,940 --> 00:46:33,940
+But it looks like this.
+
+1080
+00:46:33,940 --> 00:46:34,940
+Right?
+
+1081
+00:46:34,940 --> 00:46:35,940
+It's a hyperbola.
+
+1082
+00:46:35,940 --> 00:46:36,940
+I said it wrong.
+
+1083
+00:46:36,940 --> 00:46:39,940
+Hyperbola.
+
+1084
+00:46:39,940 --> 00:46:41,940
+You know how hyperbola, do you remember this from math?
+
+1085
+00:46:41,940 --> 00:46:47,440
+Hyperbolas, well, they look like that, and
+
+1086
+00:46:47,440 --> 00:46:52,940
+they approach asymptotes, which are straight lines.
+
+1087
+00:46:52,940 --> 00:46:59,940
+So, here is the hyperbola for stocks and bonds.
+
+1088
+00:46:59,940 --> 00:47:01,940
+So, just as I had a
+
+1089
+00:47:01,940 --> 00:47:03,940
+point here, which represented 100% VOC,
+
+1090
+00:47:03,940 --> 00:47:06,940
+I can have over here a
+
+1091
+00:47:06,940 --> 00:47:09,940
+point, which represents 100% U.S. stocks.
+
+1092
+00:47:09,940 --> 00:47:10,940
+Okay?
+
+1093
+00:47:10,940 --> 00:47:13,440
+And I can take another point,
+
+1094
+00:47:13,440 --> 00:47:15,940
+which is 100% bonds, that's here.
+
+1095
+00:47:15,940 --> 00:47:19,940
+This point is 25% stocks, 75% bonds.
+
+1096
+00:47:19,940 --> 00:47:22,940
+This point is 50% stocks, 50% bonds.
+
+1097
+00:47:22,940 --> 00:47:23,940
+Okay?
+
+1098
+00:47:23,940 --> 00:47:27,440
+And I can see that this is the choice set
+
+1099
+00:47:27,440 --> 00:47:30,940
+that I, as an investor, have between stocks and bonds.
+
+1100
+00:47:30,940 --> 00:47:31,940
+Okay?
+
+1101
+00:47:31,940 --> 00:47:34,940
+So, is that clear?
+
+1102
+00:47:34,940 --> 00:47:38,940
+Is that any?
+
+1103
+00:47:38,940 --> 00:47:40,440
+So, again, there's no, you
+
+1104
+00:47:40,440 --> 00:47:41,940
+see, all these are different portfolios.
+
+1105
+00:47:41,940 --> 00:47:46,440
+If you're just going to do stocks and bonds and nothing else,
+
+1106
+00:47:46,440 --> 00:47:50,940
+what you choose to do depends on your taste, on your risk tolerance.
+
+1107
+00:47:50,940 --> 00:47:52,940
+I could go 100% stocks, but I'm
+
+1108
+00:47:52,940 --> 00:47:54,940
+going to have a lot of risk.
+
+1109
+00:47:54,940 --> 00:47:57,940
+I'm going to have a nice expected return.
+
+1110
+00:47:57,940 --> 00:48:00,940
+It looks like it's about 13%, 14%.
+
+1111
+00:48:00,940 --> 00:48:02,940
+But I'm going to have a high variance.
+
+1112
+00:48:02,940 --> 00:48:05,940
+It looks like it's about 18%.
+
+1113
+00:48:05,940 --> 00:48:08,940
+This is the S&P 500 stock market.
+
+1114
+00:48:08,940 --> 00:48:11,940
+And so, it has a lot of variance.
+
+1115
+00:48:11,940 --> 00:48:13,440
+I could be safe and
+
+1116
+00:48:13,440 --> 00:48:14,940
+I could go all in bonds.
+
+1117
+00:48:14,940 --> 00:48:16,940
+I could be here.
+
+1118
+00:48:16,940 --> 00:48:18,940
+Then I'd have, you know, a lower, much
+
+1119
+00:48:18,940 --> 00:48:20,940
+lower return, but I have a lower variance.
+
+1120
+00:48:20,940 --> 00:48:22,940
+So, what should I do?
+
+1121
+00:48:22,940 --> 00:48:24,940
+Well, what do you learn from this?
+
+1122
+00:48:24,940 --> 00:48:26,940
+First of all, you learn
+
+1123
+00:48:26,940 --> 00:48:28,940
+there isn't any single optimal portfolio.
+
+1124
+00:48:28,940 --> 00:48:29,940
+But, you know, you can do it.
+
+1125
+00:48:29,940 --> 00:48:30,940
+You can do it.
+
+1126
+00:48:30,940 --> 00:48:31,940
+You can do it.
+
+1127
+00:48:31,940 --> 00:48:34,940
+But there is something.
+
+1128
+00:48:34,940 --> 00:48:37,940
+Let's talk about being a 100% bond investor.
+
+1129
+00:48:37,940 --> 00:48:38,940
+What do you think of that?
+
+1130
+00:48:38,940 --> 00:48:40,940
+Is that a good idea?
+
+1131
+00:48:40,940 --> 00:48:44,940
+You'd get this point right here.
+
+1132
+00:48:44,940 --> 00:48:49,940
+Well, you definitely should not be a 100% bond investor.
+
+1133
+00:48:49,940 --> 00:48:51,940
+That's one thing we just learned.
+
+1134
+00:48:51,940 --> 00:48:52,940
+Why is that?
+
+1135
+00:48:52,940 --> 00:48:56,940
+Because if I go up here, I have no more.
+
+1136
+00:48:56,940 --> 00:48:59,940
+See, that's the same standard deviation, the same risk.
+
+1137
+00:48:59,940 --> 00:49:03,940
+I have a higher return.
+
+1138
+00:49:03,940 --> 00:49:04,940
+Right?
+
+1139
+00:49:04,940 --> 00:49:07,940
+Higher expected return.
+
+1140
+00:49:07,940 --> 00:49:08,940
+So, what did we just learn?
+
+1141
+00:49:08,940 --> 00:49:10,940
+We learned that if you just stay in this
+
+1142
+00:49:10,940 --> 00:49:12,940
+space of stocks and bonds, maybe you could be a
+
+1143
+00:49:12,940 --> 00:49:15,940
+100% stock investor, but never in a million
+
+1144
+00:49:15,940 --> 00:49:18,940
+years should you ever even think of being
+
+1145
+00:49:18,940 --> 00:49:19,940
+a 100% bond investor.
+
+1146
+00:49:19,940 --> 00:49:20,940
+Okay?
+
+1147
+00:49:20,940 --> 00:49:23,940
+Because, look, it's just simple math.
+
+1148
+00:49:23,940 --> 00:49:24,940
+I can figure it out.
+
+1149
+00:49:24,940 --> 00:49:26,940
+I can figure out that I get
+
+1150
+00:49:26,940 --> 00:49:28,940
+a higher expected return and no more risk.
+
+1151
+00:49:28,940 --> 00:49:32,940
+So, this is lesson number one that Markowitz showed us.
+
+1152
+00:49:32,940 --> 00:49:33,940
+Amazing.
+
+1153
+00:49:33,940 --> 00:49:35,940
+It's so simple and obvious, right?
+
+1154
+00:49:35,940 --> 00:49:39,440
+It's not so simple, because at the time
+
+1155
+00:49:39,440 --> 00:49:42,940
+Markowitz wrote, Yale University was probably a 100%
+
+1156
+00:49:42,940 --> 00:49:45,940
+bond investor, believe it or not.
+
+1157
+00:49:45,940 --> 00:49:47,940
+They couldn't figure it out in those days.
+
+1158
+00:49:47,940 --> 00:49:51,940
+So, we've made progress.
+
+1159
+00:49:51,940 --> 00:49:54,940
+That's why I think Markowitz is among the
+
+1160
+00:49:54,940 --> 00:49:57,940
+most deserving of the Nobel Prize winners in economics.
+
+1161
+00:49:57,940 --> 00:49:59,940
+This is really basic.
+
+1162
+00:49:59,940 --> 00:50:01,940
+It actually intrigues me.
+
+1163
+00:50:01,940 --> 00:50:04,440
+I don't know how much you like math, but
+
+1164
+00:50:04,440 --> 00:50:06,940
+going back to my childhood, I was interested in geometry.
+
+1165
+00:50:06,940 --> 00:50:11,940
+These simple mathematical curiosities like
+
+1166
+00:50:11,940 --> 00:50:16,940
+hyperbola are just fascinating to me.
+
+1167
+00:50:16,940 --> 00:50:21,440
+It goes back to Apollonius of Perga, writing in
+
+1168
+00:50:21,440 --> 00:50:25,940
+around 200 BC, wrote a book on conic sections.
+
+1169
+00:50:25,940 --> 00:50:27,940
+And he wrote,
+
+1170
+00:50:27,940 --> 00:50:33,940
+he invented the word hyperbola, parabola, ellipse.
+
+1171
+00:50:33,940 --> 00:50:36,940
+So, I was thinking of looking back at his book, I
+
+1172
+00:50:36,940 --> 00:50:39,940
+think it still survives, and seeing what he says about finance.
+
+1173
+00:50:39,940 --> 00:50:42,440
+But I can be sure, he had no
+
+1174
+00:50:42,440 --> 00:50:44,940
+idea that his theory would apply to finance.
+
+1175
+00:50:44,940 --> 00:50:46,440
+I wish I could go back in
+
+1176
+00:50:46,440 --> 00:50:47,940
+a time machine and talk to him.
+
+1177
+00:50:47,940 --> 00:50:52,440
+He would be so happy to know that his theory of conic
+
+1178
+00:50:52,440 --> 00:50:56,940
+sections, you know, it ended up applied to astronomy by Kepler and Newton.
+
+1179
+00:50:56,940 --> 00:50:58,940
+And now it hits into finance.
+
+1180
+00:50:58,940 --> 00:51:02,940
+Isn't it amazing how there's a unity of thought?
+
+1181
+00:51:02,940 --> 00:51:04,940
+And this simple diagram has
+
+1182
+00:51:04,940 --> 00:51:06,940
+just taught us something about investing.
+
+1183
+00:51:06,940 --> 00:51:08,940
+That's not obvious.
+
+1184
+00:51:08,940 --> 00:51:11,940
+Not obvious until you think about it.
+
+1185
+00:51:11,940 --> 00:51:16,940
+I've just told you, never invest only in bonds.
+
+1186
+00:51:16,940 --> 00:51:20,940
+But it doesn't tell you how much stocks and
+
+1187
+00:51:20,940 --> 00:51:24,940
+how much bonds to, once you're above this point,
+
+1188
+00:51:24,940 --> 00:51:26,940
+it seems to be a matter of taste.
+
+1189
+00:51:26,940 --> 00:51:32,940
+It isn't any single decision that you can make.
+
+1190
+00:51:32,940 --> 00:51:36,940
+So, now I want to move to a
+
+1191
+00:51:36,940 --> 00:51:40,940
+more complicated world, where we have three assets.
+
+1192
+00:51:40,940 --> 00:51:41,940
+Okay.
+
+1193
+00:51:41,940 --> 00:51:43,940
+We're starting from, we had one
+
+1194
+00:51:43,940 --> 00:51:45,940
+risky asset, then we had two.
+
+1195
+00:51:45,940 --> 00:51:47,940
+Now, let's go even further.
+
+1196
+00:51:47,940 --> 00:51:50,940
+Let's say three risky assets.
+
+1197
+00:51:50,940 --> 00:51:55,940
+Well, the expected return is the same.
+
+1198
+00:51:55,940 --> 00:51:56,940
+It's the weighted average.
+
+1199
+00:51:56,940 --> 00:51:58,940
+Now, we have three weights.
+
+1200
+00:51:58,940 --> 00:52:01,940
+X1, X2, and X3.
+
+1201
+00:52:01,940 --> 00:52:03,940
+And they have to sum to one dollar.
+
+1202
+00:52:03,940 --> 00:52:05,940
+I could have written X3
+
+1203
+00:52:05,940 --> 00:52:07,940
+as 1 minus X1 minus X2.
+
+1204
+00:52:07,940 --> 00:52:09,940
+I wrote it differently here.
+
+1205
+00:52:09,940 --> 00:52:12,940
+It looked messy to write it the other way.
+
+1206
+00:52:12,940 --> 00:52:15,940
+And this is the formula for the portfolio variance.
+
+1207
+00:52:15,940 --> 00:52:18,440
+It's the X1 squared times the variance
+
+1208
+00:52:18,440 --> 00:52:20,940
+of the return on the first risky asset,
+
+1209
+00:52:20,940 --> 00:52:22,940
+plus X2 squared times the variance of
+
+1210
+00:52:22,940 --> 00:52:24,940
+the return on the second risky asset,
+
+1211
+00:52:24,940 --> 00:52:25,440
+plus X3 squared times the variance of
+
+1212
+00:52:25,440 --> 00:52:25,940
+the return on the second risky asset,
+
+1213
+00:52:25,940 --> 00:52:27,940
+plus X2 squared times the variance of
+
+1214
+00:52:27,940 --> 00:52:29,940
+the return on the third risky asset.
+
+1215
+00:52:29,940 --> 00:52:33,940
+And then you have three more terms representing covariances.
+
+1216
+00:52:33,940 --> 00:52:35,440
+You have to take account
+
+1217
+00:52:35,440 --> 00:52:36,940
+of the covariances of the asset,
+
+1218
+00:52:36,940 --> 00:52:39,440
+because if they move together, if they all
+
+1219
+00:52:39,440 --> 00:52:41,940
+go in the same direction at the same time,
+
+1220
+00:52:41,940 --> 00:52:45,940
+that's going to make your portfolio riskier.
+
+1221
+00:52:45,940 --> 00:52:48,940
+And so, that's the portfolio variance.
+
+1222
+00:52:48,940 --> 00:52:50,940
+And the portfolio expected return is
+
+1223
+00:52:50,940 --> 00:52:52,940
+just, why didn't I write it there?
+
+1224
+00:52:52,940 --> 00:52:54,940
+It's X1 R1 plus X2 R2 plus X3 R2.
+
+1225
+00:52:54,940 --> 00:53:01,940
+Where the sum of the X's is 1, $1.
+
+1226
+00:53:01,940 --> 00:53:05,940
+So, it's something that you can do
+
+1227
+00:53:05,940 --> 00:53:09,940
+to calculate what is the optimal portfolio.
+
+1228
+00:53:09,940 --> 00:53:11,940
+So, I decided to add
+
+1229
+00:53:11,940 --> 00:53:13,940
+a third asset to my diagram.
+
+1230
+00:53:13,940 --> 00:53:17,440
+The pink line up here is the
+
+1231
+00:53:17,440 --> 00:53:20,940
+same, we call that an efficient portfolio frontier.
+
+1232
+00:53:20,940 --> 00:53:22,940
+I have that in the title of the slide.
+
+1233
+00:53:23,940 --> 00:53:25,940
+For stocks and bonds.
+
+1234
+00:53:25,940 --> 00:53:27,940
+That's the pink line here.
+
+1235
+00:53:27,940 --> 00:53:31,940
+But I've added the efficient portfolio
+
+1236
+00:53:31,940 --> 00:53:35,940
+frontier for three stocks, three assets.
+
+1237
+00:53:35,940 --> 00:53:38,940
+Stocks, bonds, and oil.
+
+1238
+00:53:38,940 --> 00:53:42,440
+Oil is an important investment,
+
+1239
+00:53:42,440 --> 00:53:45,940
+because our economy runs on it.
+
+1240
+00:53:45,940 --> 00:53:48,440
+And the total value of oil in the ground is
+
+1241
+00:53:48,440 --> 00:53:50,940
+comparable to the value of the stock markets of the world.
+
+1242
+00:53:50,940 --> 00:53:52,940
+So, it's big and important.
+
+1243
+00:53:52,940 --> 00:53:56,940
+So, let's put that in.
+
+1244
+00:53:56,940 --> 00:54:04,440
+And what I have actually here is the minimum variance
+
+1245
+00:54:04,440 --> 00:54:11,940
+mixture for any given return, expected return for the three assets.
+
+1246
+00:54:11,940 --> 00:54:16,940
+And you can see that it's possible when you add a
+
+1247
+00:54:16,940 --> 00:54:21,940
+third asset, oil, to bring the efficient portfolio frontier to the left.
+
+1248
+00:54:22,940 --> 00:54:26,440
+And that's not the problem, because we've got
+
+1249
+00:54:26,440 --> 00:54:29,940
+another asset, and it's also paying a good return.
+
+1250
+00:54:29,940 --> 00:54:31,940
+And it's not correlated very much.
+
+1251
+00:54:31,940 --> 00:54:34,940
+Oil doesn't correlate very much with the stock market.
+
+1252
+00:54:34,940 --> 00:54:38,940
+So, we're spreading the risk out over more assets.
+
+1253
+00:54:38,940 --> 00:54:42,940
+We're putting more eggs in our basket.
+
+1254
+00:54:42,940 --> 00:54:44,940
+Okay.
+
+1255
+00:54:44,940 --> 00:54:47,940
+And so, then we are,
+
+1256
+00:54:47,940 --> 00:54:50,940
+we have a better, a better.
+
+1257
+00:54:50,940 --> 00:54:51,940
+Yeah.
+
+1258
+00:54:51,940 --> 00:54:54,940
+A better choice set now, right?
+
+1259
+00:54:54,940 --> 00:54:57,940
+We can pick any point on that blue line.
+
+1260
+00:54:57,940 --> 00:55:00,940
+And so, we shouldn't just have stocks and bonds.
+
+1261
+00:55:00,940 --> 00:55:04,940
+We've learned we should have stocks, bonds, and oil.
+
+1262
+00:55:04,940 --> 00:55:08,940
+We're lending, we're leading toward a fundamental insight, which
+
+1263
+00:55:08,940 --> 00:55:12,940
+is due to Markowitz, which is, the more the merrier.
+
+1264
+00:55:12,940 --> 00:55:16,440
+The more different kinds of assets you can put in, the lower
+
+1265
+00:55:16,440 --> 00:55:19,940
+you can get the standard deviation of your return for any given interest.
+
+1266
+00:55:19,940 --> 00:55:20,940
+Okay.
+
+1267
+00:55:21,940 --> 00:55:24,440
+And so, the more you can get the standard
+
+1268
+00:55:24,440 --> 00:55:26,940
+deviation of your return for any given expected return.
+
+1269
+00:55:26,940 --> 00:55:28,940
+And so, the better off you are.
+
+1270
+00:55:28,940 --> 00:55:30,940
+So, this is diversification.
+
+1271
+00:55:30,940 --> 00:55:35,440
+So, while diversification was applauded in the 19th century,
+
+1272
+00:55:35,440 --> 00:55:39,940
+no one had ever done the math like this before.
+
+1273
+00:55:39,940 --> 00:55:43,440
+And now, we can see that you, when you do
+
+1274
+00:55:43,440 --> 00:55:46,940
+the math, you want to have all three in your portfolio.
+
+1275
+00:55:46,940 --> 00:55:48,940
+And yet, people don't know that.
+
+1276
+00:55:48,940 --> 00:55:49,940
+They don't.
+
+1277
+00:55:49,940 --> 00:55:53,940
+And so, there's an emotional resistance to this implication.
+
+1278
+00:55:53,940 --> 00:55:59,940
+I once went to the government of Norway, gave a talk
+
+1279
+00:55:59,940 --> 00:56:05,940
+at their Norges Bank, which is the central bank of Norway.
+
+1280
+00:56:05,940 --> 00:56:10,440
+And I told them in my talk, I calculate that
+
+1281
+00:56:10,440 --> 00:56:14,940
+Norway has something like 70% of its portfolio in oil.
+
+1282
+00:56:14,940 --> 00:56:16,440
+I don't remember the exact number,
+
+1283
+00:56:16,440 --> 00:56:17,940
+but it was something close to that.
+
+1284
+00:56:17,940 --> 00:56:19,940
+Why do they have so much in oil?
+
+1285
+00:56:19,940 --> 00:56:22,940
+Well, because they have the North Sea oil.
+
+1286
+00:56:22,940 --> 00:56:27,440
+And so, I asked them at the bank,
+
+1287
+00:56:27,440 --> 00:56:31,940
+don't you realize, where are you on this portfolio?
+
+1288
+00:56:31,940 --> 00:56:33,940
+You're not on the frontier.
+
+1289
+00:56:33,940 --> 00:56:37,940
+What Norway should be doing is something like 15%.
+
+1290
+00:56:37,940 --> 00:56:38,940
+They could pick this point, right?
+
+1291
+00:56:38,940 --> 00:56:39,940
+That would be reasonable.
+
+1292
+00:56:39,940 --> 00:56:42,940
+15% oil, 53% stocks, 32% bonds,
+
+1293
+00:56:42,940 --> 00:56:45,940
+which would give them that point.
+
+1294
+00:56:45,940 --> 00:56:48,940
+Or they could pick this one.
+
+1295
+00:56:48,940 --> 00:56:49,940
+I have a point labeled up here.
+
+1296
+00:56:49,940 --> 00:56:54,940
+That's 21% oil, 79% stocks, no bonds.
+
+1297
+00:56:54,940 --> 00:56:55,940
+All right?
+
+1298
+00:56:55,940 --> 00:56:57,940
+Those are all choices, depending on your risk.
+
+1299
+00:56:57,940 --> 00:57:00,940
+But they're not going to just pick 100% oil.
+
+1300
+00:57:00,940 --> 00:57:05,940
+That would be way over here, much higher risk.
+
+1301
+00:57:05,940 --> 00:57:07,940
+So, I asked them about that.
+
+1302
+00:57:07,940 --> 00:57:09,940
+Why do you do this?
+
+1303
+00:57:09,940 --> 00:57:13,440
+And I don't know if I got a good answer from them,
+
+1304
+00:57:13,440 --> 00:57:16,940
+but basically, it was, well, we don't want to sell the oil,
+
+1305
+00:57:16,940 --> 00:57:17,940
+because it's our national oil.
+
+1306
+00:57:17,940 --> 00:57:19,440
+We don't want to sell
+
+1307
+00:57:19,440 --> 00:57:20,940
+it because it's our national heritage.
+
+1308
+00:57:20,940 --> 00:57:21,940
+We own it.
+
+1309
+00:57:21,940 --> 00:57:23,940
+And I said, well, you don't have to sell it.
+
+1310
+00:57:23,940 --> 00:57:25,940
+You can just do a derivative transaction.
+
+1311
+00:57:25,940 --> 00:57:27,940
+You can short the futures market
+
+1312
+00:57:27,940 --> 00:57:29,940
+for oil and reduce your exposure.
+
+1313
+00:57:29,940 --> 00:57:32,940
+And then they said, well, some people
+
+1314
+00:57:32,940 --> 00:57:35,940
+have mentioned that, but it's politically difficult.
+
+1315
+00:57:35,940 --> 00:57:37,940
+So, they're not doing it.
+
+1316
+00:57:37,940 --> 00:57:42,940
+Maybe next year, maybe the next government will do that.
+
+1317
+00:57:42,940 --> 00:57:44,940
+So, they still aren't there yet.
+
+1318
+00:57:44,940 --> 00:57:46,940
+They're not managing their risks well.
+
+1319
+00:57:46,940 --> 00:57:48,940
+But it's a powerful and important thing.
+
+1320
+00:57:48,940 --> 00:57:51,940
+Because if the market for oil
+
+1321
+00:57:51,940 --> 00:57:54,940
+collapses, Norway is in big trouble.
+
+1322
+00:57:54,940 --> 00:57:57,940
+They're not diversifying enough.
+
+1323
+00:57:57,940 --> 00:57:59,940
+I don't mean to put them down.
+
+1324
+00:57:59,940 --> 00:58:00,940
+They're smart people.
+
+1325
+00:58:00,940 --> 00:58:02,440
+But like in any country, I
+
+1326
+00:58:02,440 --> 00:58:03,940
+did the same thing with Mexico.
+
+1327
+00:58:03,940 --> 00:58:06,940
+I went to the Banco de Mexico, and I
+
+1328
+00:58:06,940 --> 00:58:09,940
+talked to Guillermo Ortiz, when he was director of it.
+
+1329
+00:58:09,940 --> 00:58:10,940
+Same thing.
+
+1330
+00:58:10,940 --> 00:58:14,940
+Mexico is not as dependent on oil as Norway is.
+
+1331
+00:58:14,940 --> 00:58:15,940
+But it's a big problem.
+
+1332
+00:58:15,940 --> 00:58:22,940
+I think, it's not so obvious for Mexico.
+
+1333
+00:58:22,940 --> 00:58:24,940
+But it is politics that came in.
+
+1334
+00:58:24,940 --> 00:58:29,940
+The question of, are you really saying Mexico should go into the futures
+
+1335
+00:58:29,940 --> 00:58:34,940
+market and take a massive short position of billions of dollars of oil?
+
+1336
+00:58:34,940 --> 00:58:37,940
+Again, it was like, this isn't reality.
+
+1337
+00:58:37,940 --> 00:58:39,940
+We're not going to do that.
+
+1338
+00:58:39,940 --> 00:58:44,940
+But I tried to make the point.
+
+1339
+00:58:45,940 --> 00:58:47,940
+I think, it's a big problem.
+
+1340
+00:58:47,940 --> 00:58:49,940
+Now, another thing is, so
+
+1341
+00:58:49,940 --> 00:58:51,940
+I have shown here three assets.
+
+1342
+00:58:51,940 --> 00:58:53,940
+The pink line is irrelevant.
+
+1343
+00:58:53,940 --> 00:58:55,940
+Once we realize we have three assets.
+
+1344
+00:58:55,940 --> 00:58:57,940
+We have stocks, bonds, and oil.
+
+1345
+00:58:57,940 --> 00:58:59,940
+So, you should choose on this curve.
+
+1346
+00:58:59,940 --> 00:59:01,940
+And of course, you should never
+
+1347
+00:59:01,940 --> 00:59:03,940
+take down here, even though that's possible.
+
+1348
+00:59:03,940 --> 00:59:08,440
+In other words, you could say, what portfolio
+
+1349
+00:59:08,440 --> 00:59:12,940
+would give me 9% return with the least risk?
+
+1350
+00:59:12,940 --> 00:59:13,940
+Well, it turns out it's 100% bonds.
+
+1351
+00:59:13,940 --> 00:59:14,940
+But I just told you.
+
+1352
+00:59:14,940 --> 00:59:16,940
+It's 100% bonds.
+
+1353
+00:59:16,940 --> 00:59:18,940
+Because you can go up to this point.
+
+1354
+00:59:18,940 --> 00:59:20,940
+So, you never do down here.
+
+1355
+00:59:20,940 --> 00:59:23,940
+So, the efficient portfolio frontier is really the
+
+1356
+00:59:23,940 --> 00:59:26,940
+part of the hyperbola that's above the minimum variance.
+
+1357
+00:59:26,940 --> 00:59:29,940
+And you don't want to do minimum variance either.
+
+1358
+00:59:29,940 --> 00:59:32,940
+This is the lowest possible risk portfolio.
+
+1359
+00:59:32,940 --> 00:59:35,940
+You can't get down to zero risk
+
+1360
+00:59:35,940 --> 00:59:38,940
+if all of your assets are risky.
+
+1361
+00:59:38,940 --> 00:59:41,940
+So, you're stuck here.
+
+1362
+00:59:41,940 --> 00:59:42,940
+But that's not necessarily the best thing.
+
+1363
+00:59:42,940 --> 00:59:43,940
+Because people don't know.
+
+1364
+00:59:43,940 --> 00:59:44,940
+They don't know.
+
+1365
+00:59:44,940 --> 00:59:45,940
+They don't know.
+
+1366
+00:59:45,940 --> 00:59:46,940
+And that's not the best thing.
+
+1367
+00:59:46,940 --> 00:59:47,940
+Because people allow some risk.
+
+1368
+00:59:47,940 --> 00:59:48,940
+This is having the minimum risk.
+
+1369
+00:59:48,940 --> 00:59:50,440
+But I can get my return
+
+1370
+00:59:50,440 --> 00:59:51,940
+up much higher without taking much risk.
+
+1371
+00:59:51,940 --> 00:59:53,940
+So, I'd probably do that.
+
+1372
+00:59:53,940 --> 00:59:54,940
+Okay.
+
+1373
+00:59:54,940 --> 00:59:56,940
+Now, I can do this with more than three assets.
+
+1374
+00:59:56,940 --> 00:59:58,940
+I can do it with 1,000 assets.
+
+1375
+00:59:58,940 --> 00:59:59,940
+Now that we have computers.
+
+1376
+00:59:59,940 --> 01:00:00,940
+Back in 1952.
+
+1377
+01:00:00,940 --> 01:00:01,940
+I erased it.
+
+1378
+01:00:01,940 --> 01:00:03,940
+But I had 1952 here.
+
+1379
+01:00:03,940 --> 01:00:05,940
+Markowitz had to do it all by hand.
+
+1380
+01:00:05,940 --> 01:00:08,940
+But now that we have computers, it's so easy.
+
+1381
+01:00:08,940 --> 01:00:10,940
+You know, there are all kinds of programs.
+
+1382
+01:00:10,940 --> 01:00:13,940
+In fact, on your problem set, we have Wolfram Alpha.
+
+1383
+01:00:13,940 --> 01:00:14,940
+And it's a great tool.
+
+1384
+01:00:14,940 --> 01:00:15,940
+It's a great tool.
+
+1385
+01:00:15,940 --> 01:00:18,440
+And it's a great tool to do
+
+1386
+01:00:18,440 --> 01:00:20,940
+calculations for you, for its own data.
+
+1387
+01:00:20,940 --> 01:00:23,940
+So, these are easy to do now.
+
+1388
+01:00:23,940 --> 01:00:25,940
+But what I want to do
+
+1389
+01:00:25,940 --> 01:00:27,940
+now is add the riskless asset.
+
+1390
+01:00:27,940 --> 01:00:30,440
+So, what we've done with the
+
+1391
+01:00:30,440 --> 01:00:32,940
+blue line takes three risky assets.
+
+1392
+01:00:32,940 --> 01:00:35,440
+It looks at only at assets
+
+1393
+01:00:35,440 --> 01:00:37,940
+with a standard deviation greater than zero.
+
+1394
+01:00:37,940 --> 01:00:40,940
+Now, I want to do the
+
+1395
+01:00:40,940 --> 01:00:43,940
+optimal portfolio when there are four assets.
+
+1396
+01:00:43,940 --> 01:00:45,940
+So, I've got all risky.
+
+1397
+01:00:45,940 --> 01:00:47,940
+And now I have the thing that isn't risky.
+
+1398
+01:00:47,940 --> 01:00:49,940
+It would be your one-year governments.
+
+1399
+01:00:49,940 --> 01:00:50,940
+Right?
+
+1400
+01:00:50,940 --> 01:00:52,940
+It's not risky because the
+
+1401
+01:00:52,940 --> 01:00:54,940
+maturity matches my investment horizon.
+
+1402
+01:00:54,940 --> 01:00:56,940
+I know exactly what I'm going to get.
+
+1403
+01:00:56,940 --> 01:01:00,940
+It's 5%, let's say.
+
+1404
+01:01:00,940 --> 01:01:06,940
+So, what can I do investing in these four assets?
+
+1405
+01:01:06,940 --> 01:01:09,940
+Well, here it goes back to what
+
+1406
+01:01:09,940 --> 01:01:12,940
+I did over here with this simple diagram.
+
+1407
+01:01:12,940 --> 01:01:16,440
+I can pick any portfolio on the efficient portfolio
+
+1408
+01:01:16,440 --> 01:01:19,940
+fund here and consider that as if that were VOC.
+
+1409
+01:01:19,940 --> 01:01:20,940
+Right?
+
+1410
+01:01:20,940 --> 01:01:25,940
+And then I can compute just how leverage allows me
+
+1411
+01:01:25,940 --> 01:01:30,940
+to combine that with the riskless asset and that portfolio.
+
+1412
+01:01:30,940 --> 01:01:33,440
+So, I can pick a point,
+
+1413
+01:01:33,440 --> 01:01:35,940
+like I can pick this point here.
+
+1414
+01:01:35,940 --> 01:01:39,440
+And then I could achieve by combining
+
+1415
+01:01:39,440 --> 01:01:42,940
+that portfolio, which is 15% oil, 53% CTO.
+
+1416
+01:01:42,940 --> 01:01:46,440
+And then I could combine that
+
+1417
+01:01:46,440 --> 01:01:49,940
+with any amount of risky debt.
+
+1418
+01:01:49,940 --> 01:01:52,940
+And I would get a straight line going
+
+1419
+01:01:52,940 --> 01:01:55,940
+between, actually this diagram doesn't show zero on it.
+
+1420
+01:01:55,940 --> 01:01:59,940
+I should have maybe done it differently, but between 5%.
+
+1421
+01:01:59,940 --> 01:02:02,440
+So, actually that point right here,
+
+1422
+01:02:02,440 --> 01:02:04,940
+I can do it on this diagram.
+
+1423
+01:02:04,940 --> 01:02:07,940
+That point here is like
+
+1424
+01:02:07,940 --> 01:02:10,940
+12% expected return and 8% variance.
+
+1425
+01:02:10,940 --> 01:02:12,940
+So, I can do that.
+
+1426
+01:02:12,940 --> 01:02:16,440
+It would be some, well, it would be here,
+
+1427
+01:02:16,440 --> 01:02:19,940
+except this would be 12% and this would be 8%.
+
+1428
+01:02:19,940 --> 01:02:23,940
+I can pick any point, and this would be 5%.
+
+1429
+01:02:23,940 --> 01:02:26,440
+Any point along the straight
+
+1430
+01:02:26,440 --> 01:02:28,940
+line connecting those points is possible.
+
+1431
+01:02:28,940 --> 01:02:32,940
+So, what do I want to do if I have, I
+
+1432
+01:02:32,940 --> 01:02:36,940
+want to get the highest expected return for any standard deviation.
+
+1433
+01:02:36,940 --> 01:02:39,940
+I want to take a line that
+
+1434
+01:02:39,940 --> 01:02:42,940
+goes through 5% on the Y axis.
+
+1435
+01:02:42,940 --> 01:02:45,940
+And is as high as possible.
+
+1436
+01:02:45,940 --> 01:02:50,940
+So, I'm taking a point right over here at 5%.
+
+1437
+01:02:50,940 --> 01:02:53,940
+And trying to get as high as I can.
+
+1438
+01:02:53,940 --> 01:02:57,440
+It turns out then, that I want to pick the
+
+1439
+01:02:57,440 --> 01:03:00,940
+point which has a tangency with the efficient portfolio frontier.
+
+1440
+01:03:00,940 --> 01:03:05,940
+And so, that means the highest straight
+
+1441
+01:03:05,940 --> 01:03:10,940
+line that touches the efficient portfolio frontier.
+
+1442
+01:03:10,940 --> 01:03:12,440
+And so, now I can
+
+1443
+01:03:12,440 --> 01:03:13,940
+achieve any point on that line.
+
+1444
+01:03:13,940 --> 01:03:19,940
+And that's, again, Markowitz's insight.
+
+1445
+01:03:19,940 --> 01:03:23,440
+So, if I were to pick that point,
+
+1446
+01:03:23,440 --> 01:03:26,940
+I would be picking, what does it look like?
+
+1447
+01:03:26,940 --> 01:03:28,940
+I don't have it indicated.
+
+1448
+01:03:28,940 --> 01:03:33,940
+It's probably something like 11% oil, 30% stocks, 50%.
+
+1449
+01:03:33,940 --> 01:03:35,940
+Something like that.
+
+1450
+01:03:35,940 --> 01:03:37,940
+It doesn't add up.
+
+1451
+01:03:37,940 --> 01:03:39,940
+And that would be holding no debt.
+
+1452
+01:03:39,940 --> 01:03:43,940
+But I could get even higher return,
+
+1453
+01:03:43,940 --> 01:03:47,940
+if my client wants that, by leveraging.
+
+1454
+01:03:47,940 --> 01:03:49,940
+I would borrow and buy
+
+1455
+01:03:49,940 --> 01:03:51,940
+even more of this risky portfolio.
+
+1456
+01:03:51,940 --> 01:03:55,940
+So, this portfolio here is called the tangency portfolio.
+
+1457
+01:03:55,940 --> 01:04:02,440
+And what Markowitz's theory shows is that, once you add the risky
+
+1458
+01:04:02,440 --> 01:04:08,940
+asset, the relevant efficient portfolio frontier is now really this tangency portfolio.
+
+1459
+01:04:08,940 --> 01:04:16,940
+And so, I want to do a mixtures of the riskless
+
+1460
+01:04:16,940 --> 01:04:24,940
+asset and the tangency portfolio that accords with my risk preferences.
+
+1461
+01:04:24,940 --> 01:04:28,440
+But I don't want to ever just
+
+1462
+01:04:28,440 --> 01:04:31,940
+move to one of these other portfolios.
+
+1463
+01:04:31,940 --> 01:04:34,440
+So, these other portfolios, like 15%
+
+1464
+01:04:34,440 --> 01:04:36,940
+oil, 53% stocks, 32% bonds, is dominated.
+
+1465
+01:04:36,940 --> 01:04:37,940
+It has a high risk-free portfolio.
+
+1466
+01:04:37,940 --> 01:04:38,940
+It's dominated.
+
+1467
+01:04:38,940 --> 01:04:43,440
+It has a higher expected return for the same risk by a
+
+1468
+01:04:43,440 --> 01:04:47,940
+portfolio of the tangency portfolio leveraged up a little bit by borrowing.
+
+1469
+01:04:47,940 --> 01:04:52,940
+And similarly, well, yeah.
+
+1470
+01:04:52,940 --> 01:04:54,940
+And so, this is, then it comes out.
+
+1471
+01:04:54,940 --> 01:04:57,940
+And this is the, I don't know if it was
+
+1472
+01:04:57,940 --> 01:05:00,940
+clear in Markowitz's paper, but it became clear soon after.
+
+1473
+01:05:00,940 --> 01:05:05,940
+There really is, in a sense, an optimal portfolio.
+
+1474
+01:05:05,940 --> 01:05:08,940
+It's the tangency portfolio.
+
+1475
+01:05:08,940 --> 01:05:13,940
+Because everyone wants to invest on this line.
+
+1476
+01:05:13,940 --> 01:05:18,440
+And that point is a, any point on this line
+
+1477
+01:05:18,440 --> 01:05:22,940
+is a mixture of the riskless asset and the tangency portfolio.
+
+1478
+01:05:22,940 --> 01:05:27,940
+And so, everyone wants to invest in the same portfolio.
+
+1479
+01:05:27,940 --> 01:05:31,940
+So, there is an optimal portfolio, in a sense.
+
+1480
+01:05:31,940 --> 01:05:33,940
+Which, it's, and I'm not saying it's a perfect portfolio.
+
+1481
+01:05:33,940 --> 01:05:37,940
+But it's a portfolio in the sense that
+
+1482
+01:05:37,940 --> 01:05:41,940
+everybody wants to do the same risky investments.
+
+1483
+01:05:41,940 --> 01:05:44,940
+People will differ in their risk preferences.
+
+1484
+01:05:44,940 --> 01:05:47,940
+And so, some of them will want
+
+1485
+01:05:47,940 --> 01:05:50,940
+to do a riskier, a more leveraged version.
+
+1486
+01:05:50,940 --> 01:05:55,440
+And some of them will do a
+
+1487
+01:05:55,440 --> 01:05:59,940
+less leveraged version of the tangency portfolio.
+
+1488
+01:05:59,940 --> 01:06:02,940
+But everyone wants to do the tangency portfolio.
+
+1489
+01:06:03,940 --> 01:06:08,940
+And so, that is the
+
+1490
+01:06:08,940 --> 01:06:13,940
+key idea of Markowitz portfolio management.
+
+1491
+01:06:13,940 --> 01:06:21,940
+And it's been expressed by
+
+1492
+01:06:21,940 --> 01:06:29,940
+some as the mutual fund theorem.
+
+1493
+01:06:29,940 --> 01:06:31,440
+First of all, I have to just
+
+1494
+01:06:31,440 --> 01:06:32,940
+define for you, what is a mutual fund.
+
+1495
+01:06:32,940 --> 01:06:34,940
+You might not know that.
+
+1496
+01:06:34,940 --> 01:06:38,940
+A mutual fund is a certain kind
+
+1497
+01:06:38,940 --> 01:06:42,940
+of investment company aimed at a retail audience.
+
+1498
+01:06:42,940 --> 01:06:44,440
+They could have just called
+
+1499
+01:06:44,440 --> 01:06:45,940
+this the investment company theorem.
+
+1500
+01:06:45,940 --> 01:06:47,440
+But history, I can't tell you
+
+1501
+01:06:47,440 --> 01:06:48,940
+the history of thought on this.
+
+1502
+01:06:48,940 --> 01:06:54,940
+It's, a mutual fund is a certain
+
+1503
+01:06:54,940 --> 01:07:00,940
+kind of investment company that is mutual.
+
+1504
+01:07:00,940 --> 01:07:03,940
+It means that the owners of the shares
+
+1505
+01:07:03,940 --> 01:07:06,940
+in the fund are, there's no other owners.
+
+1506
+01:07:06,940 --> 01:07:08,940
+It's just one class of investors.
+
+1507
+01:07:08,940 --> 01:07:12,940
+All of, they're all equal, so it's mutual.
+
+1508
+01:07:12,940 --> 01:07:13,940
+But that's irrelevant to you.
+
+1509
+01:07:13,940 --> 01:07:15,940
+The idea is that all
+
+1510
+01:07:15,940 --> 01:07:17,940
+we need is one mutual fund.
+
+1511
+01:07:17,940 --> 01:07:21,940
+There's thousands of mutual funds to serve investors.
+
+1512
+01:07:21,940 --> 01:07:24,440
+Because I had that everyone
+
+1513
+01:07:24,440 --> 01:07:26,940
+is investing in the tangency portfolio.
+
+1514
+01:07:26,940 --> 01:07:29,940
+So, they should call their fund the tangency portfolio fund.
+
+1515
+01:07:29,940 --> 01:07:33,440
+And our fund is the optimal mix
+
+1516
+01:07:33,440 --> 01:07:36,940
+of stock, bonds, oil, and whatever else.
+
+1517
+01:07:36,940 --> 01:07:40,440
+And then, you don't necessarily want
+
+1518
+01:07:40,440 --> 01:07:43,940
+to own only that mutual fund.
+
+1519
+01:07:43,940 --> 01:07:46,940
+But you want to own mixtures of
+
+1520
+01:07:46,940 --> 01:07:49,940
+that mutual fund and the riskless asset.
+
+1521
+01:07:49,940 --> 01:07:56,940
+So, everyone holds, you only need one investment company.
+
+1522
+01:07:56,940 --> 01:07:58,940
+So, this is the other, I told you this story.
+
+1523
+01:07:58,940 --> 01:07:59,940
+I said, imagine that you have a mutual fund.
+
+1524
+01:07:59,940 --> 01:08:01,940
+You were mathematically inclined and you have all
+
+1525
+01:08:01,940 --> 01:08:03,940
+the statistics, and you're going to figure it out.
+
+1526
+01:08:03,940 --> 01:08:05,940
+What's the best thing to do?
+
+1527
+01:08:05,940 --> 01:08:06,940
+We've just figured it out.
+
+1528
+01:08:06,940 --> 01:08:08,940
+I haven't gone through all the math details.
+
+1529
+01:08:08,940 --> 01:08:10,940
+There is a best thing to do.
+
+1530
+01:08:10,940 --> 01:08:14,440
+You should offer, as your
+
+1531
+01:08:14,440 --> 01:08:17,939
+investment product, the tangency portfolio.
+
+1532
+01:08:17,939 --> 01:08:18,939
+And that's it.
+
+1533
+01:08:18,939 --> 01:08:20,939
+Once you've figured it out, there's nothing more to do.
+
+1534
+01:08:20,939 --> 01:08:23,939
+There's no need to hire anymore finance people.
+
+1535
+01:08:23,939 --> 01:08:27,939
+You've figured it out, according to Markowitz theory.
+
+1536
+01:08:27,939 --> 01:08:28,939
+And all the investors in the world will do it.
+
+1537
+01:08:28,939 --> 01:08:29,939
+And that's it.
+
+1538
+01:08:29,939 --> 01:08:31,439
+All the investors in the world
+
+1539
+01:08:31,439 --> 01:08:32,939
+will just invest in this one.
+
+1540
+01:08:32,939 --> 01:08:34,939
+And that's case closed.
+
+1541
+01:08:34,939 --> 01:08:38,939
+We don't need thousands of mutual funds.
+
+1542
+01:08:38,939 --> 01:08:42,939
+Under the assumptions of Markowitz, which is that we're
+
+1543
+01:08:42,939 --> 01:08:46,939
+agreed on the variances and covariances and expected returns.
+
+1544
+01:08:46,939 --> 01:08:49,939
+There's a single optimal risky portfolio.
+
+1545
+01:08:49,939 --> 01:08:54,939
+And then, the instructions to investors are very simple.
+
+1546
+01:08:54,939 --> 01:08:57,939
+All you need is two assets in your portfolio.
+
+1547
+01:08:57,939 --> 01:09:02,939
+You need a mutual fund that owns the tangency portfolio.
+
+1548
+01:09:02,939 --> 01:09:05,939
+And whatever amount of debt you want.
+
+1549
+01:09:05,939 --> 01:09:08,439
+So, if you're footloose and fancy
+
+1550
+01:09:08,439 --> 01:09:10,939
+free, you can even leverage it.
+
+1551
+01:09:10,939 --> 01:09:13,439
+You can borrow two to one, three
+
+1552
+01:09:13,439 --> 01:09:15,939
+to one, it's up to your tastes.
+
+1553
+01:09:15,939 --> 01:09:18,939
+But you don't need to look
+
+1554
+01:09:18,939 --> 01:09:21,939
+at anything other than the mutual fund.
+
+1555
+01:09:21,939 --> 01:09:25,939
+So, that's an important insight.
+
+1556
+01:09:25,939 --> 01:09:27,939
+And what it means then
+
+1557
+01:09:27,939 --> 01:09:29,939
+is, that leads to something else.
+
+1558
+01:09:29,939 --> 01:09:31,939
+So, Markowitz didn't get this idea.
+
+1559
+01:09:31,939 --> 01:09:33,939
+It came out later.
+
+1560
+01:09:33,939 --> 01:09:36,939
+So, someone was thinking, well, if everyone
+
+1561
+01:09:36,939 --> 01:09:39,939
+should be investing in the same portfolio,
+
+1562
+01:09:39,939 --> 01:09:43,939
+it doesn't add up unless that portfolio is equal
+
+1563
+01:09:43,939 --> 01:09:47,939
+to the total assets out there in the world.
+
+1564
+01:09:47,939 --> 01:09:49,939
+Right?
+
+1565
+01:09:49,939 --> 01:09:54,940
+If there's twice as much oil as there is stock,
+
+1566
+01:09:54,940 --> 01:09:58,440
+then there has to be twice as
+
+1567
+01:09:58,440 --> 01:10:01,940
+much oil as stock in the tangency portfolio.
+
+1568
+01:10:01,940 --> 01:10:03,940
+Otherwise, it doesn't add up. Right?
+
+1569
+01:10:03,940 --> 01:10:05,940
+Because everyone has to own everything.
+
+1570
+01:10:05,940 --> 01:10:07,940
+Supply and demand have to equal.
+
+1571
+01:10:07,940 --> 01:10:11,940
+So, it means, the mutual fund theory implies,
+
+1572
+01:10:11,940 --> 01:10:23,940
+that the market portfolio equals the tangency portfolio.
+
+1573
+01:10:24,940 --> 01:10:28,940
+And the market portfolio equals the tangency portfolio.
+
+1574
+01:10:28,940 --> 01:10:33,940
+And now, I've pretty much finished the theory.
+
+1575
+01:10:33,940 --> 01:10:38,440
+I should say, it implies, if
+
+1576
+01:10:38,440 --> 01:10:42,940
+investors follow this model that we're having,
+
+1577
+01:10:42,940 --> 01:10:45,940
+that they all want to, the Markowitz model,
+
+1578
+01:10:45,940 --> 01:10:48,940
+if all investors think like Markowitz says,
+
+1579
+01:10:48,940 --> 01:10:50,940
+they all want to do the same thing.
+
+1580
+01:10:50,940 --> 01:10:53,940
+They all want to invest in the same best portfolio.
+
+1581
+01:10:53,940 --> 01:10:55,940
+But the market portfolio is the same.
+
+1582
+01:10:55,940 --> 01:10:57,940
+So, the market portfolio is the same.
+
+1583
+01:10:57,940 --> 01:10:59,940
+So, the market portfolio is the same.
+
+1584
+01:10:59,940 --> 01:11:01,940
+So, the market portfolio is the same.
+
+1585
+01:11:01,940 --> 01:11:04,940
+So, the tangency portfolio equals the market portfolio.
+
+1586
+01:11:04,940 --> 01:11:06,940
+So, I was saying earlier,
+
+1587
+01:11:06,940 --> 01:11:10,940
+why is it that everyone doesn't invest in VOC stock?
+
+1588
+01:11:10,940 --> 01:11:12,940
+How does it add up, right?
+
+1589
+01:11:12,940 --> 01:11:15,940
+If VOC stock is just better than something else,
+
+1590
+01:11:15,940 --> 01:11:17,940
+then that suggests everyone wants to
+
+1591
+01:11:17,940 --> 01:11:19,940
+put all their money in VOC stock.
+
+1592
+01:11:19,940 --> 01:11:21,940
+But we're realizing, they don't.
+
+1593
+01:11:21,940 --> 01:11:24,940
+And they want to hold some proportion
+
+1594
+01:11:24,940 --> 01:11:27,940
+of VOC stock and the riskless asset.
+
+1595
+01:11:27,940 --> 01:11:30,440
+It has to add up, so that the market
+
+1596
+01:11:30,440 --> 01:11:32,940
+is cleared and all the VOC stock is owned.
+
+1597
+01:11:32,940 --> 01:11:37,940
+And more generally, if there are many assets,
+
+1598
+01:11:37,940 --> 01:11:40,940
+all the assets have to end up owned by someone.
+
+1599
+01:11:40,940 --> 01:11:45,940
+And so, the cardinal implication of this theory is that
+
+1600
+01:11:45,940 --> 01:11:47,940
+the market portfolio, which is everything that's
+
+1601
+01:11:47,940 --> 01:11:49,940
+out there in the world to invest in,
+
+1602
+01:11:49,940 --> 01:11:50,940
+has to be protected.
+
+1603
+01:11:50,940 --> 01:11:53,940
+Has to be proportional to the tangency portfolio.
+
+1604
+01:11:53,940 --> 01:11:57,940
+And so, one of the implications is, if that's true,
+
+1605
+01:11:57,940 --> 01:11:59,940
+and I'm done with my, I
+
+1606
+01:11:59,940 --> 01:12:01,940
+have just a couple more slides here.
+
+1607
+01:12:01,940 --> 01:12:05,940
+Let me go to here.
+
+1608
+01:12:05,940 --> 01:12:08,940
+The capital asset, now it's called
+
+1609
+01:12:08,940 --> 01:12:11,940
+the capital asset pricing model in finance.
+
+1610
+01:12:11,940 --> 01:12:19,940
+So, that's capital asset, which is pricing model.
+
+1611
+01:12:20,940 --> 01:12:28,440
+Which was not invented by Markowitz,
+
+1612
+01:12:28,440 --> 01:12:35,940
+but was invented by Sharp and Lintner,
+
+1613
+01:12:35,940 --> 01:12:38,940
+somewhat shortly after Markowitz.
+
+1614
+01:12:38,940 --> 01:12:41,440
+The capital asset pricing model, and
+
+1615
+01:12:41,440 --> 01:12:43,940
+I'm not going to derive this equation,
+
+1616
+01:12:43,940 --> 01:12:46,440
+but it says the expected return
+
+1617
+01:12:46,440 --> 01:12:48,940
+on any asset, the i-th asset,
+
+1618
+01:12:48,940 --> 01:12:49,940
+equals the risk-free rate.
+
+1619
+01:12:50,940 --> 01:12:53,940
+Plus the beta of that asset times the
+
+1620
+01:12:53,940 --> 01:12:56,940
+difference between the expected return on the market
+
+1621
+01:12:56,940 --> 01:13:01,940
+and the expected return on the risk-less asset.
+
+1622
+01:13:01,940 --> 01:13:04,940
+I was just going to try to
+
+1623
+01:13:04,940 --> 01:13:07,940
+explain this intuitively, and then I'll be done.
+
+1624
+01:13:07,940 --> 01:13:10,940
+I have one more slide about the Sharpe ratio.
+
+1625
+01:13:10,940 --> 01:13:13,440
+But the intuitive idea, let me just
+
+1626
+01:13:13,440 --> 01:13:15,940
+say, everything should have a very simple explanation.
+
+1627
+01:13:15,940 --> 01:13:18,940
+The intuitive idea is this.
+
+1628
+01:13:18,940 --> 01:13:20,940
+Starting from Markowitz, we got
+
+1629
+01:13:20,940 --> 01:13:22,940
+an understanding of what risk is.
+
+1630
+01:13:22,940 --> 01:13:25,940
+And people didn't clearly appreciate that.
+
+1631
+01:13:25,940 --> 01:13:27,940
+People used to think that
+
+1632
+01:13:27,940 --> 01:13:29,940
+risk was uncertainty, right, in finance.
+
+1633
+01:13:29,940 --> 01:13:32,940
+That if a stock has a lot of
+
+1634
+01:13:32,940 --> 01:13:35,940
+uncertainty, that uncertainty means that it's a dangerous stock,
+
+1635
+01:13:35,940 --> 01:13:38,940
+and people will demand a high expected return.
+
+1636
+01:13:38,940 --> 01:13:40,940
+Otherwise, they won't hold the stock.
+
+1637
+01:13:40,940 --> 01:13:42,940
+But the CAPM says, no, people don't
+
+1638
+01:13:42,940 --> 01:13:44,940
+care about the uncertainty of the stock.
+
+1639
+01:13:44,940 --> 01:13:46,440
+Because if it's one stock out of
+
+1640
+01:13:46,440 --> 01:13:47,940
+many, they'll put it in their portfolio,
+
+1641
+01:13:47,940 --> 01:13:49,940
+and if it's independent of everything
+
+1642
+01:13:49,940 --> 01:13:51,940
+else, it all gets averaged out.
+
+1643
+01:13:51,940 --> 01:13:53,940
+And so, who cares?
+
+1644
+01:13:53,940 --> 01:13:55,940
+So, people don't care about variance.
+
+1645
+01:13:55,940 --> 01:13:58,940
+Well, what is it that people care about?
+
+1646
+01:13:58,940 --> 01:14:01,940
+People care about covariance.
+
+1647
+01:14:01,940 --> 01:14:03,940
+Risk, this is the basic
+
+1648
+01:14:03,940 --> 01:14:05,940
+insight that followed from Markowitz.
+
+1649
+01:14:05,940 --> 01:14:08,440
+People care about how much
+
+1650
+01:14:08,440 --> 01:14:10,940
+a stock moves with the market.
+
+1651
+01:14:10,940 --> 01:14:13,940
+Because that's what costs me something.
+
+1652
+01:14:13,940 --> 01:14:15,440
+I don't care if I could own a
+
+1653
+01:14:15,440 --> 01:14:16,940
+million little stocks that all have independent variance.
+
+1654
+01:14:16,940 --> 01:14:20,940
+It all averages out, doesn't mean anything to me.
+
+1655
+01:14:20,940 --> 01:14:23,940
+I'll put them in tiny quantities in my portfolio.
+
+1656
+01:14:23,940 --> 01:14:25,940
+But if they correlate with the market,
+
+1657
+01:14:25,940 --> 01:14:27,940
+I can't get rid of the risk.
+
+1658
+01:14:27,940 --> 01:14:30,940
+Because it's the big picture risk.
+
+1659
+01:14:30,940 --> 01:14:32,440
+That's what insurance companies,
+
+1660
+01:14:32,440 --> 01:14:33,940
+that's what everyone cares about.
+
+1661
+01:14:33,940 --> 01:14:36,940
+It's this market risk, the big risk.
+
+1662
+01:14:36,940 --> 01:14:39,940
+You only care about how much a stock
+
+1663
+01:14:39,940 --> 01:14:42,940
+correlates with the big picture in its risk.
+
+1664
+01:14:42,940 --> 01:14:44,940
+So, that's measured by beta.
+
+1665
+01:14:44,940 --> 01:14:48,940
+And beta is the regression, the slope coefficient when you regress
+
+1666
+01:14:48,940 --> 01:14:52,940
+the return on the i-th asset on the return of the market.
+
+1667
+01:14:52,940 --> 01:14:55,440
+So, high beta stocks are
+
+1668
+01:14:55,440 --> 01:14:57,940
+stocks that go with the market.
+
+1669
+01:14:57,940 --> 01:15:00,440
+So, we found out that Apple has
+
+1670
+01:15:00,440 --> 01:15:02,940
+a beta of 1.5 or roughly that.
+
+1671
+01:15:02,940 --> 01:15:06,940
+That means they respond in an exaggerated way.
+
+1672
+01:15:06,940 --> 01:15:08,940
+It's not one, it's greater than one.
+
+1673
+01:15:08,940 --> 01:15:10,940
+They more than move with the market.
+
+1674
+01:15:10,940 --> 01:15:14,940
+And so, investors will demand a higher return
+
+1675
+01:15:14,940 --> 01:15:17,440
+on Apple stock, because its beta
+
+1676
+01:15:17,440 --> 01:15:19,940
+is greater than for other stocks.
+
+1677
+01:15:19,940 --> 01:15:22,940
+That's the core idea that underlies it.
+
+1678
+01:15:22,940 --> 01:15:24,940
+Do you see that intuitively?
+
+1679
+01:15:24,940 --> 01:15:25,940
+So, you have to change
+
+1680
+01:15:25,940 --> 01:15:26,940
+your idea of what risk is.
+
+1681
+01:15:26,940 --> 01:15:28,940
+Risk is covariance.
+
+1682
+01:15:28,940 --> 01:15:31,940
+It's co-movements and not.
+
+1683
+01:15:31,940 --> 01:15:33,940
+I have just one more slide here.
+
+1684
+01:15:33,940 --> 01:15:36,940
+It's named after William Sharpe, who
+
+1685
+01:15:36,940 --> 01:15:39,940
+is the inventor of the capital,
+
+1686
+01:15:39,940 --> 01:15:42,940
+with Lintner, of the capital asset pricing model.
+
+1687
+01:15:42,940 --> 01:15:44,940
+The Sharpe ratio is for any portfolio
+
+1688
+01:15:44,940 --> 01:15:46,940
+that has a risk-free rate.
+
+1689
+01:15:46,940 --> 01:15:48,940
+So, the average return on
+
+1690
+01:15:48,940 --> 01:15:50,940
+the portfolio minus the risk-free rate
+
+1691
+01:15:50,940 --> 01:15:54,940
+divided by the standard deviation of the portfolio.
+
+1692
+01:15:54,940 --> 01:15:58,940
+And if you take the CAPM model,
+
+1693
+01:15:58,940 --> 01:16:04,940
+the Sharpe ratio is constant along the tangency line.
+
+1694
+01:16:04,940 --> 01:16:08,940
+This is a way of correcting the average return
+
+1695
+01:16:08,940 --> 01:16:12,940
+from some investment for leverage.
+
+1696
+01:16:12,940 --> 01:16:14,940
+So, companies used to advertise,
+
+1697
+01:16:14,940 --> 01:16:16,940
+we've had a 15% average return.
+
+1698
+01:16:16,940 --> 01:16:18,940
+And then investors would say,
+
+1699
+01:16:18,940 --> 01:16:20,440
+but wait a minute, you didn't
+
+1700
+01:16:20,440 --> 01:16:21,940
+tell me what your leverage is.
+
+1701
+01:16:21,940 --> 01:16:24,940
+That's the first thing you should learn from this course.
+
+1702
+01:16:24,940 --> 01:16:27,940
+Someone advertises that they had 15% return,
+
+1703
+01:16:27,940 --> 01:16:29,440
+you say, ha, I want
+
+1704
+01:16:29,440 --> 01:16:30,940
+to know what your leverage was.
+
+1705
+01:16:30,940 --> 01:16:32,940
+I want to know, really, you know, how to,
+
+1706
+01:16:32,940 --> 01:16:35,940
+you were just leveraging it up and taking big risks.
+
+1707
+01:16:35,940 --> 01:16:38,940
+And on average, you'll do well, but it's risky.
+
+1708
+01:16:38,940 --> 01:16:40,940
+So, this is the correction you make.
+
+1709
+01:16:40,940 --> 01:16:42,940
+So, how do you correct for leverage?
+
+1710
+01:16:42,940 --> 01:16:44,440
+Well, I want to look
+
+1711
+01:16:44,440 --> 01:16:45,940
+at what fraction of the investor,
+
+1712
+01:16:45,940 --> 01:16:48,940
+the investment portfolio is in the risky asset
+
+1713
+01:16:48,940 --> 01:16:50,940
+and what fraction is in the riskless asset.
+
+1714
+01:16:50,940 --> 01:16:53,940
+But it's not so easy to do that,
+
+1715
+01:16:53,940 --> 01:16:56,940
+because the company can cover up its tracks.
+
+1716
+01:16:56,940 --> 01:16:59,940
+It can invest in a company that's leveraged, right?
+
+1717
+01:16:59,940 --> 01:17:01,940
+And so, you'd have to go one step further
+
+1718
+01:17:01,940 --> 01:17:03,940
+and undo the leverage for that company.
+
+1719
+01:17:03,940 --> 01:17:05,940
+It's hard to do that.
+
+1720
+01:17:05,940 --> 01:17:07,940
+But the easy thing to do is just calculate
+
+1721
+01:17:07,940 --> 01:17:09,940
+the Sharpe ratio for the investment company.
+
+1722
+01:17:09,940 --> 01:17:11,940
+So, if some guy is investing,
+
+1723
+01:17:11,940 --> 01:17:14,940
+and claiming to have done 15% of return
+
+1724
+01:17:14,940 --> 01:17:16,940
+per year on his portfolio,
+
+1725
+01:17:16,940 --> 01:17:19,940
+well, I'm going to look at the standard deviation
+
+1726
+01:17:19,940 --> 01:17:20,940
+of the portfolio.
+
+1727
+01:17:20,940 --> 01:17:23,940
+That's evidence of how leveraged this guy was.
+
+1728
+01:17:23,940 --> 01:17:25,940
+And I'll compute the Sharpe ratio.
+
+1729
+01:17:25,940 --> 01:17:27,940
+And unless it's bigger than the Sharpe ratio
+
+1730
+01:17:27,940 --> 01:17:29,940
+for the, you know, the typical stock,
+
+1731
+01:17:29,940 --> 01:17:32,940
+I don't, I'm not impressed.
+
+1732
+01:17:32,940 --> 01:17:34,940
+Anyway, so, I think I've come
+
+1733
+01:17:34,940 --> 01:17:36,940
+to an end of this lecture.
+
+1734
+01:17:36,940 --> 01:17:39,940
+So, what you should have gotten from this lecture
+
+1735
+01:17:39,940 --> 01:17:41,940
+is a concept of,
+
+1736
+01:17:41,940 --> 01:17:43,940
+risk return trade-off,
+
+1737
+01:17:43,940 --> 01:17:48,940
+a concept of optimal portfolio
+
+1738
+01:17:48,940 --> 01:17:50,940
+as being something subtle and related to
+
+1739
+01:17:50,940 --> 01:17:53,940
+Apollonius and Perga in difficult ways.
+
+1740
+01:17:53,940 --> 01:17:55,940
+But there's also very simple things about
+
+1741
+01:17:55,940 --> 01:17:58,940
+how to evaluate portfolio and portfolio managers
+
+1742
+01:17:58,940 --> 01:18:00,725
+that comes out of this.
+
