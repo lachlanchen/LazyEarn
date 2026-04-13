@@ -1,0 +1,6496 @@
+1
+00:00:01,000 --> 00:00:01,320
+All right.
+
+2
+00:00:01,320 --> 00:00:06,800
+This is the concluding lecture for Financial Markets.
+
+3
+00:00:06,800 --> 00:00:09,320
+And in this lecture, I
+
+4
+00:00:09,320 --> 00:00:11,840
+want to, I titled this lecture,
+
+5
+00:00:11,840 --> 00:00:17,600
+Finding Your Purpose in a World of Financial Capitalism.
+
+6
+00:00:17,600 --> 00:00:19,540
+But I just want to give
+
+7
+00:00:19,540 --> 00:00:21,480
+a lot of summary thoughts about the
+
+8
+00:00:21,480 --> 00:00:27,640
+course and about your place in the world of
+
+9
+00:00:27,640 --> 00:00:28,880
+business and finance.
+
+10
+00:00:33,360 --> 00:00:35,840
+The major textbook for this
+
+11
+00:00:35,840 --> 00:00:38,320
+course was by Fibozzi et al.
+
+12
+00:00:38,320 --> 00:00:42,300
+And it gave you a lot of detailed information about
+
+13
+00:00:42,300 --> 00:00:45,360
+financial markets and institutions.
+
+14
+00:00:45,360 --> 00:00:48,560
+Did you like it?
+
+15
+00:00:48,560 --> 00:00:51,460
+I'm getting approval, I guess.
+
+16
+00:00:51,460 --> 00:00:52,870
+I put you through something,
+
+17
+00:00:52,870 --> 00:00:54,280
+because I thought you have to
+
+18
+00:00:54,280 --> 00:00:55,940
+know that material.
+
+19
+00:00:55,940 --> 00:00:57,200
+Finances.
+
+20
+00:00:57,200 --> 00:00:57,600
+Like a letter.
+
+21
+00:00:57,600 --> 00:00:57,620
+Like a letter.
+
+22
+00:00:57,620 --> 00:00:59,379
+Like a language.
+
+23
+00:00:59,379 --> 00:00:59,980
+What is a language?
+
+24
+00:00:59,980 --> 00:01:01,800
+There's a lot of jargon.
+
+25
+00:01:01,800 --> 00:01:06,020
+And behind the jargon are concepts.
+
+26
+00:01:06,020 --> 00:01:13,179
+And so, I wanted you to immerse yourself in that.
+
+27
+00:01:13,179 --> 00:01:16,509
+I also assigned my manuscript
+
+28
+00:01:16,509 --> 00:01:19,840
+for my new book, which is
+
+29
+00:01:19,840 --> 00:01:25,020
+tentatively entitled, Finance and the Good Society.
+
+30
+00:01:25,020 --> 00:01:27,580
+I'm still not sure that that will be.
+
+31
+00:01:27,580 --> 00:01:31,340
+I'm not sure that that will be the final title.
+
+32
+00:01:31,340 --> 00:01:32,840
+Some of you have been
+
+33
+00:01:32,840 --> 00:01:34,340
+offering me suggested titles, and I
+
+34
+00:01:34,340 --> 00:01:37,820
+appreciate that.
+
+35
+00:01:37,820 --> 00:01:39,080
+You can never know what the
+
+36
+00:01:39,080 --> 00:01:40,340
+title of a book will be before
+
+37
+00:01:40,340 --> 00:01:43,140
+you publish it, because someone else can always grab
+
+38
+00:01:43,140 --> 00:01:45,340
+the title, and then you've got to change it.
+
+39
+00:01:45,340 --> 00:01:48,340
+So.
+
+40
+00:01:48,340 --> 00:01:51,340
+But that book was about, I
+
+41
+00:01:51,340 --> 00:01:54,340
+wanted to see, Fibozzi is more
+
+42
+00:01:54,340 --> 00:01:55,890
+about all of the language
+
+43
+00:01:55,890 --> 00:01:57,440
+of finance, and all of the
+
+44
+00:01:57,440 --> 00:01:59,440
+technical details.
+
+45
+00:01:59,440 --> 00:02:01,720
+I wanted to supplement it
+
+46
+00:02:01,720 --> 00:02:04,000
+with something about the purpose of
+
+47
+00:02:04,000 --> 00:02:07,679
+all this, and how it fits into our lives.
+
+48
+00:02:07,679 --> 00:02:09,619
+So, it's not done yet, as
+
+49
+00:02:09,619 --> 00:02:11,560
+you may be well aware in reading
+
+50
+00:02:11,560 --> 00:02:12,560
+it.
+
+51
+00:02:12,560 --> 00:02:13,560
+My apologies.
+
+52
+00:02:13,560 --> 00:02:17,060
+But I benefit from interacting with
+
+53
+00:02:17,060 --> 00:02:20,560
+you about it, and it's a
+
+54
+00:02:20,560 --> 00:02:23,040
+dynamic thing.
+
+55
+00:02:23,040 --> 00:02:27,400
+So I have a number of themes.
+
+56
+00:02:27,400 --> 00:02:31,400
+They're all just kind of random thoughts about the major
+
+57
+00:02:31,400 --> 00:02:32,400
+things in this course.
+
+58
+00:02:32,400 --> 00:02:36,900
+But I mean, I'm really thinking
+
+59
+00:02:36,900 --> 00:02:41,400
+this time about the kind of
+
+60
+00:02:41,400 --> 00:02:44,400
+tools we've learned about.
+
+61
+00:02:44,400 --> 00:02:47,400
+Tools that are particularly useful for people who
+
+62
+00:02:47,400 --> 00:02:49,400
+specialize in finance.
+
+63
+00:02:49,400 --> 00:02:50,900
+But I think this almost
+
+64
+00:02:50,900 --> 00:02:52,400
+should be a required course for
+
+65
+00:02:52,400 --> 00:02:53,400
+everyone.
+
+66
+00:02:53,400 --> 00:02:56,400
+Maybe I'm just too enthusiastic about it.
+
+67
+00:02:56,400 --> 00:02:57,400
+But I think it's a good thing.
+
+68
+00:02:57,400 --> 00:02:59,900
+I mean, knowing, the way
+
+69
+00:02:59,900 --> 00:03:02,400
+things get done in our society
+
+70
+00:03:02,400 --> 00:03:03,400
+is through financial arrangements.
+
+71
+00:03:03,400 --> 00:03:09,400
+And too many people talk in vague terms.
+
+72
+00:03:09,400 --> 00:03:11,400
+How are we going to make something happen?
+
+73
+00:03:11,400 --> 00:03:13,400
+And finance is about that.
+
+74
+00:03:13,400 --> 00:03:16,400
+So that's why I think
+
+75
+00:03:16,400 --> 00:03:19,400
+this course should be, there should
+
+76
+00:03:19,400 --> 00:03:23,400
+be more students taking it than are.
+
+77
+00:03:23,400 --> 00:03:24,900
+I also said that I think
+
+78
+00:03:24,900 --> 00:03:26,400
+that finance is not a purpose, it's
+
+79
+00:03:26,400 --> 00:03:27,400
+a tool.
+
+80
+00:03:27,400 --> 00:03:28,900
+And that you should be building
+
+81
+00:03:28,900 --> 00:03:30,400
+your life around some kind of
+
+82
+00:03:30,400 --> 00:03:32,400
+purpose.
+
+83
+00:03:32,400 --> 00:03:35,400
+There's a million different purposes, so that's something
+
+84
+00:03:35,400 --> 00:03:38,400
+for you to create in your own mind.
+
+85
+00:03:38,400 --> 00:03:42,400
+But that's where the meaning of life comes from.
+
+86
+00:03:42,400 --> 00:03:47,400
+So another thing I've emphasized in this course is
+
+87
+00:03:47,400 --> 00:03:50,400
+that finance is like engineering.
+
+88
+00:03:50,400 --> 00:03:52,400
+So you have to design it, you
+
+89
+00:03:52,400 --> 00:03:54,400
+have to design it, you have to
+
+90
+00:03:54,400 --> 00:03:55,400
+design it.
+
+91
+00:03:55,400 --> 00:03:56,900
+And once something is designed
+
+92
+00:03:56,900 --> 00:03:58,400
+and it works, it gets copied
+
+93
+00:03:58,400 --> 00:04:01,400
+all over the world.
+
+94
+00:04:01,400 --> 00:04:03,400
+So you all have learned how to drive a car.
+
+95
+00:04:03,400 --> 00:04:06,400
+Is anyone here who hasn't driven a car?
+
+96
+00:04:06,400 --> 00:04:08,400
+I won't ask for it.
+
+97
+00:04:08,400 --> 00:04:11,400
+No one raised their hand.
+
+98
+00:04:11,400 --> 00:04:12,900
+So you have to know a
+
+99
+00:04:12,900 --> 00:04:14,400
+little bit about mechanics, right, to
+
+100
+00:04:14,400 --> 00:04:15,400
+drive a car.
+
+101
+00:04:15,400 --> 00:04:18,399
+Maybe not too much.
+
+102
+00:04:18,399 --> 00:04:20,899
+But ultimately, what I wanted to
+
+103
+00:04:20,899 --> 00:04:23,400
+do in this course is maybe
+
+104
+00:04:23,400 --> 00:04:24,400
+not teach you how to build a car.
+
+105
+00:04:24,400 --> 00:04:27,400
+But how to drive a truck.
+
+106
+00:04:27,400 --> 00:04:28,400
+Okay?
+
+107
+00:04:28,400 --> 00:04:31,400
+Something big and powerful.
+
+108
+00:04:31,400 --> 00:04:35,400
+And get you beyond the simple things.
+
+109
+00:04:35,400 --> 00:04:39,400
+So finance, what does it do?
+
+110
+00:04:39,400 --> 00:04:41,400
+It does really important things.
+
+111
+00:04:41,400 --> 00:04:44,400
+It helps allocate scarce resources.
+
+112
+00:04:44,400 --> 00:04:47,400
+It incentivizes people to do good work.
+
+113
+00:04:47,400 --> 00:04:50,400
+And it manages risks.
+
+114
+00:04:50,400 --> 00:04:52,400
+And this is what makes for the developed world.
+
+115
+00:04:52,400 --> 00:04:53,400
+It's a great tool.
+
+116
+00:04:53,400 --> 00:04:55,400
+It's a great tool to help people.
+
+117
+00:04:55,400 --> 00:04:56,400
+It's a great tool to
+
+118
+00:04:56,400 --> 00:04:57,400
+help people in the developed world
+
+119
+00:04:57,400 --> 00:04:59,400
+that we have now.
+
+120
+00:04:59,400 --> 00:05:00,900
+Another theme of this
+
+121
+00:05:00,900 --> 00:05:02,400
+course is about information technology,
+
+122
+00:05:02,400 --> 00:05:05,400
+which is something that's rapidly expanding.
+
+123
+00:05:05,400 --> 00:05:07,400
+I don't have to tell you that.
+
+124
+00:05:07,400 --> 00:05:09,400
+But I think that it
+
+125
+00:05:09,400 --> 00:05:11,400
+will change the world of finance.
+
+126
+00:05:11,400 --> 00:05:14,400
+The last 50 years have shown tremendous changes.
+
+127
+00:05:14,400 --> 00:05:21,400
+The next 50 years will show even more dramatic changes.
+
+128
+00:05:21,400 --> 00:05:22,400
+So.
+
+129
+00:05:22,400 --> 00:05:23,400
+All right.
+
+130
+00:05:23,400 --> 00:05:27,400
+Anyway, more specifically, I have seven themes that I want
+
+131
+00:05:27,400 --> 00:05:30,400
+to cover in today's lecture.
+
+132
+00:05:30,400 --> 00:05:34,400
+The first one is just about the morality of finance.
+
+133
+00:05:34,400 --> 00:05:37,400
+I've been talking about this here and again.
+
+134
+00:05:37,400 --> 00:05:39,900
+But let me say a little
+
+135
+00:05:39,900 --> 00:05:42,400
+bit more about that in concluding.
+
+136
+00:05:42,400 --> 00:05:45,400
+My second theme is hopelessness.
+
+137
+00:05:45,400 --> 00:05:47,900
+There's a tendency for people
+
+138
+00:05:47,900 --> 00:05:50,400
+to think that at some level,
+
+139
+00:05:50,400 --> 00:05:52,400
+because of the world's problems,
+
+140
+00:05:52,400 --> 00:05:55,400
+it's all hopeless anyway.
+
+141
+00:05:55,400 --> 00:05:57,400
+I don't think it is.
+
+142
+00:05:57,400 --> 00:05:59,400
+Well, I'll come out to tell
+
+143
+00:05:59,400 --> 00:06:01,400
+you what I mean by that.
+
+144
+00:06:01,400 --> 00:06:04,400
+Then thirdly, I just want
+
+145
+00:06:04,400 --> 00:06:07,400
+to say something about financial theory.
+
+146
+00:06:07,400 --> 00:06:09,900
+Then fourth, to come back to
+
+147
+00:06:09,900 --> 00:06:12,400
+another theme, which is wealth and poverty,
+
+148
+00:06:12,400 --> 00:06:14,400
+which I've talked about a lot.
+
+149
+00:06:14,400 --> 00:06:18,400
+Then the world of the next century.
+
+150
+00:06:18,400 --> 00:06:20,400
+And I think one trend we'll
+
+151
+00:06:20,400 --> 00:06:22,400
+see is the democratization of finance.
+
+152
+00:06:22,400 --> 00:06:24,900
+That finance will become much more
+
+153
+00:06:24,900 --> 00:06:27,400
+of an integral part of our lives
+
+154
+00:06:27,400 --> 00:06:32,400
+in a new information technology enriched world.
+
+155
+00:06:32,400 --> 00:06:35,400
+And then lastly, I'll say something about your career,
+
+156
+00:06:35,400 --> 00:06:37,400
+whether it's in finance
+
+157
+00:06:37,400 --> 00:06:39,400
+or in something completely different.
+
+158
+00:06:39,400 --> 00:06:41,900
+But I'm thinking that a good chance
+
+159
+00:06:41,900 --> 00:06:44,400
+it has something to do with finance.
+
+160
+00:06:44,400 --> 00:06:46,400
+Okay.
+
+161
+00:06:46,400 --> 00:06:48,900
+So, let me start, though, with
+
+162
+00:06:48,900 --> 00:06:51,400
+the first thing, which is about morality.
+
+163
+00:06:51,400 --> 00:06:53,400
+Actually, the two optional readings I have
+
+164
+00:06:53,400 --> 00:06:55,400
+on this part of the reading list
+
+165
+00:06:55,400 --> 00:06:59,400
+are both about morality.
+
+166
+00:06:59,400 --> 00:07:04,400
+And one is the book by
+
+167
+00:07:04,400 --> 00:07:09,400
+Unger called Living High and Letting Die.
+
+168
+00:07:09,400 --> 00:07:12,400
+I think it's a dramatically well-written book.
+
+169
+00:07:12,400 --> 00:07:16,400
+But on the first page of
+
+170
+00:07:16,400 --> 00:07:20,400
+the book, he refers you to UNICEF.
+
+171
+00:07:21,400 --> 00:07:31,400
+Actually, his book was written before the web got popular.
+
+172
+00:07:31,400 --> 00:07:35,400
+The book is 1994, I think.
+
+173
+00:07:36,400 --> 00:07:38,400
+He could have referred to the web.
+
+174
+00:07:38,400 --> 00:07:40,400
+But he gave the address.
+
+175
+00:07:40,400 --> 00:07:43,900
+UNICEF is the United Nations,
+
+176
+00:07:43,900 --> 00:07:47,400
+what does the I stand for?
+
+177
+00:07:47,400 --> 00:07:49,400
+Children's Educational Fund.
+
+178
+00:07:49,400 --> 00:07:50,400
+But what's the I?
+
+179
+00:07:50,400 --> 00:07:51,400
+Can someone tell me?
+
+180
+00:07:51,400 --> 00:07:55,400
+They don't actually emphasize what it's spelled out.
+
+181
+00:07:55,400 --> 00:07:59,400
+It's the United Nations Fund for Children of the World.
+
+182
+00:07:59,400 --> 00:08:01,400
+And that's their website.
+
+183
+00:08:01,400 --> 00:08:03,400
+So, he opens the book by saying,
+
+184
+00:08:03,400 --> 00:08:07,400
+why don't you get out your checkbook
+
+185
+00:08:07,400 --> 00:08:11,400
+right now and mail in $100 to unicef.org,
+
+186
+00:08:11,400 --> 00:08:15,900
+because the estimate as of 1996 is
+
+187
+00:08:15,900 --> 00:08:20,400
+that UNICEF can save a child's life
+
+188
+00:08:20,400 --> 00:08:22,400
+for $3.
+
+189
+00:08:22,400 --> 00:08:25,400
+So, you will save the lives
+
+190
+00:08:25,400 --> 00:08:28,400
+of 33 children for your $100 check.
+
+191
+00:08:28,400 --> 00:08:29,400
+How can they do that?
+
+192
+00:08:29,400 --> 00:08:30,400
+How can they save a life?
+
+193
+00:08:30,400 --> 00:08:31,900
+I think maybe he's referring
+
+194
+00:08:31,900 --> 00:08:33,400
+to things like vaccination programs,
+
+195
+00:08:33,400 --> 00:08:35,400
+things that are really cheap
+
+196
+00:08:35,400 --> 00:08:37,400
+that some children are not getting.
+
+197
+00:08:37,400 --> 00:08:40,400
+And so, statistically, you can
+
+198
+00:08:40,400 --> 00:08:43,400
+save a child's life for $3.
+
+199
+00:08:43,400 --> 00:08:45,400
+So, he says, write out a check.
+
+200
+00:08:45,400 --> 00:08:48,400
+But, of course, I can tell you what to do.
+
+201
+00:08:48,400 --> 00:08:49,400
+And that is, just, get lost in the world.
+
+202
+00:08:49,400 --> 00:08:52,400
+Log on to that and get out your credit card.
+
+203
+00:08:52,400 --> 00:08:55,400
+And I don't know if you can save
+
+204
+00:08:55,400 --> 00:08:58,400
+33 lives with $100, but maybe you can.
+
+205
+00:08:58,400 --> 00:09:01,400
+So, when I first read the book, I
+
+206
+00:09:01,400 --> 00:09:04,400
+thought about that, and then I turned the page.
+
+207
+00:09:04,400 --> 00:09:06,400
+Most of us do.
+
+208
+00:09:06,400 --> 00:09:09,400
+And I realized later that I, a month
+
+209
+00:09:09,400 --> 00:09:12,400
+later, that I'd never written out a $100 check.
+
+210
+00:09:12,400 --> 00:09:14,400
+So, I finally did.
+
+211
+00:09:14,400 --> 00:09:16,900
+And I went on to unicef.org, and
+
+212
+00:09:16,900 --> 00:09:19,400
+I gave exactly $100, as he called it.
+
+213
+00:09:19,400 --> 00:09:21,400
+And I was told for.
+
+214
+00:09:21,400 --> 00:09:23,400
+Then I started, you know, that
+
+215
+00:09:23,400 --> 00:09:25,400
+was thought-provoking to think about that.
+
+216
+00:09:25,400 --> 00:09:30,400
+Because why did I stop at $100?
+
+217
+00:09:30,400 --> 00:09:33,400
+Why is it that most of us don't do that?
+
+218
+00:09:33,400 --> 00:09:38,400
+There are intellectual defenses we have.
+
+219
+00:09:38,400 --> 00:09:41,400
+We think of ourselves as good people.
+
+220
+00:09:41,400 --> 00:09:44,900
+But if you were to see a dying child,
+
+221
+00:09:44,900 --> 00:09:48,400
+right, you would emotionally be driven to do something.
+
+222
+00:09:48,400 --> 00:09:51,400
+If there was something you could do, right?
+
+223
+00:09:51,400 --> 00:09:54,900
+But somehow, when they're not visible to us,
+
+224
+00:09:54,900 --> 00:09:58,400
+we don't take action to make them visible.
+
+225
+00:09:58,400 --> 00:10:02,900
+What the book consists of, Unger's book consists of, is an
+
+226
+00:10:02,900 --> 00:10:07,400
+analysis of all the excuses we give for not doing it.
+
+227
+00:10:07,400 --> 00:10:09,400
+For not doing that sort of thing.
+
+228
+00:10:09,400 --> 00:10:12,400
+So, living our comfortable lives
+
+229
+00:10:12,400 --> 00:10:15,400
+and letting other people die.
+
+230
+00:10:15,400 --> 00:10:18,400
+And I think it's really an interesting book.
+
+231
+00:10:18,400 --> 00:10:23,400
+Because it is referring to a paradox of human behavior.
+
+232
+00:10:23,400 --> 00:10:25,400
+I think of this as at
+
+233
+00:10:25,400 --> 00:10:27,400
+the juncture of philosophy and psychology.
+
+234
+00:10:27,400 --> 00:10:29,400
+And now those two departments are starting to,
+
+235
+00:10:29,400 --> 00:10:31,400
+I understand, I'm not in either one of them,
+
+236
+00:10:31,400 --> 00:10:33,400
+but are starting to come together.
+
+237
+00:10:33,400 --> 00:10:37,400
+Because they're realizing that philosophical
+
+238
+00:10:37,400 --> 00:10:41,400
+issues are related to psychological issues.
+
+239
+00:10:41,400 --> 00:10:44,900
+So, somehow the human spirit is
+
+240
+00:10:44,900 --> 00:10:48,400
+very empathetic and sympathetic in certain dimensions.
+
+241
+00:10:48,400 --> 00:10:51,400
+Not so in others.
+
+242
+00:10:51,400 --> 00:10:55,400
+So, you know, when you read his book, you
+
+243
+00:10:55,400 --> 00:10:59,400
+get a sense of meaninglessness or loss of purpose.
+
+244
+00:10:59,400 --> 00:11:01,400
+It's not entirely comfortable to read it.
+
+245
+00:11:01,400 --> 00:11:07,400
+He has a lot of examples of moral dilemmas.
+
+246
+00:11:07,400 --> 00:11:09,400
+I don't mean to find fault with his book.
+
+247
+00:11:09,400 --> 00:11:13,400
+But when I think further about it, it seems that maybe
+
+248
+00:11:13,400 --> 00:11:17,400
+the book is a bit circumscribed by the kind of moral dilemmas
+
+249
+00:11:17,400 --> 00:11:20,400
+that he poses.
+
+250
+00:11:20,400 --> 00:11:28,400
+In some sense, moral dilemmas are, it's almost like there's
+
+251
+00:11:28,400 --> 00:11:36,400
+a moral imperative for us to take action, to do things.
+
+252
+00:11:36,400 --> 00:11:38,400
+That's sort of what he's getting at.
+
+253
+00:11:38,400 --> 00:11:41,400
+But there's almost a moral imperative
+
+254
+00:11:41,400 --> 00:11:44,400
+to be entrepreneurial to do things.
+
+255
+00:11:44,400 --> 00:11:46,400
+And, you know, I mentioned before,
+
+256
+00:11:46,400 --> 00:11:48,900
+Paul Allen, who was one
+
+257
+00:11:48,900 --> 00:11:51,400
+of the top people in Microsoft,
+
+258
+00:11:51,400 --> 00:11:55,400
+who made so much money and squandered
+
+259
+00:11:55,400 --> 00:11:59,400
+some of it, apparently, on conspicuous consumption.
+
+260
+00:11:59,400 --> 00:12:00,900
+But on the other hand,
+
+261
+00:12:00,900 --> 00:12:02,400
+gives a billion dollars to charity.
+
+262
+00:12:02,400 --> 00:12:09,400
+So, it seems to me that this,
+
+263
+00:12:09,400 --> 00:12:12,400
+let's not conclude that people who
+
+264
+00:12:12,400 --> 00:12:15,400
+don't write the $100 check are evil.
+
+265
+00:12:15,400 --> 00:12:26,400
+Let's think of the many dimensionalities of morality.
+
+266
+00:12:26,400 --> 00:12:30,900
+So, the other book I had on this
+
+267
+00:12:30,900 --> 00:12:35,400
+part of the course was by William Graham Sumner.
+
+268
+00:12:35,400 --> 00:12:40,400
+And it was written over 100 years earlier, 1883, called,
+
+269
+00:12:40,400 --> 00:12:43,400
+What the Social Classes Owe Each Other.
+
+270
+00:12:43,400 --> 00:12:43,900
+And, you know, I think,
+
+271
+00:12:43,900 --> 00:12:44,400
+you know, it's a great book.
+
+272
+00:12:44,400 --> 00:12:50,400
+And Sumner was actually Yale's first real economist.
+
+273
+00:12:50,400 --> 00:12:51,400
+Interesting person.
+
+274
+00:12:51,400 --> 00:12:55,400
+He was hired, he graduated Yale College in 1863.
+
+275
+00:12:55,400 --> 00:12:59,400
+And he was hired by Yale
+
+276
+00:12:59,400 --> 00:13:03,400
+as a tutor in mathematics in 1866.
+
+277
+00:13:03,400 --> 00:13:08,400
+And became interested in economics and sociology.
+
+278
+00:13:08,400 --> 00:13:10,900
+He has the distinction of being the first
+
+279
+00:13:10,900 --> 00:13:13,400
+American professor to teach a course called sociology.
+
+280
+00:13:14,400 --> 00:13:16,900
+And in those days, there wasn't the distinction
+
+281
+00:13:16,900 --> 00:13:19,400
+between the social sciences that there is now.
+
+282
+00:13:19,400 --> 00:13:22,400
+So, he could teach both sociology and economics.
+
+283
+00:13:22,400 --> 00:13:26,900
+So, in his book, I think he started a
+
+284
+00:13:26,900 --> 00:13:31,400
+Yale tradition of conservative economics that lasted until the 1940s.
+
+285
+00:13:31,400 --> 00:13:33,400
+And then Yale kind of
+
+286
+00:13:33,400 --> 00:13:35,400
+drifted more toward the liberal end.
+
+287
+00:13:35,400 --> 00:13:41,400
+But he writes anyway in 1883,
+
+288
+00:13:41,400 --> 00:13:43,400
+Is it wicked to be rich?
+
+289
+00:13:44,400 --> 00:13:49,400
+Is it mean to be a capitalism, a capitalist?
+
+290
+00:13:49,400 --> 00:13:53,900
+And he says, first of all, it seems, you
+
+291
+00:13:53,900 --> 00:13:58,400
+know, if capitalists are just richer than other people.
+
+292
+00:13:58,400 --> 00:14:00,900
+Yes, where is the drawing
+
+293
+00:14:00,900 --> 00:14:03,400
+dividing line when someone is rich?
+
+294
+00:14:03,400 --> 00:14:05,400
+So, is it wicked to be above that line?
+
+295
+00:14:05,400 --> 00:14:07,400
+But where do you draw the line?
+
+296
+00:14:07,400 --> 00:14:10,400
+And if you learn from Unger, maybe we're all wicked.
+
+297
+00:14:10,400 --> 00:14:11,900
+Because anyone who doesn't write a
+
+298
+00:14:11,900 --> 00:14:13,400
+$100 check every day to UNICEF,
+
+299
+00:14:14,400 --> 00:14:18,400
+when children are dying around the world, is wicked.
+
+300
+00:14:18,400 --> 00:14:26,400
+But what Sumner is saying, you know, it seems to
+
+301
+00:14:26,400 --> 00:14:34,400
+be a theme that survives the centuries in favor of capitalists.
+
+302
+00:14:34,400 --> 00:14:36,400
+I'll quote Sumner,
+
+303
+00:14:36,400 --> 00:14:38,400
+The great gains of a
+
+304
+00:14:38,400 --> 00:14:40,400
+great capitalist in a modern state
+
+305
+00:14:40,400 --> 00:14:44,400
+must be put under the head of wages of superintendents.
+
+306
+00:14:44,400 --> 00:14:47,400
+Anyone who believes that any
+
+307
+00:14:47,400 --> 00:14:50,400
+great enterprise of an industrial character
+
+308
+00:14:50,400 --> 00:14:52,900
+can be started without labor
+
+309
+00:14:52,900 --> 00:14:55,400
+must have little experience of life.
+
+310
+00:14:55,400 --> 00:14:57,400
+Let anyone try to get a
+
+311
+00:14:57,400 --> 00:14:59,400
+railroad built or to start a factory
+
+312
+00:14:59,400 --> 00:15:02,400
+and win reputation for its products.
+
+313
+00:15:02,400 --> 00:15:05,400
+And he will find what obstacles must be overcome,
+
+314
+00:15:05,400 --> 00:15:07,400
+what risks must be taken,
+
+315
+00:15:07,400 --> 00:15:10,400
+what perseverance and courage are necessary.
+
+316
+00:15:10,400 --> 00:15:13,400
+So,
+
+317
+00:15:14,400 --> 00:15:17,400
+I don't know that I entirely agree with Sumner.
+
+318
+00:15:17,400 --> 00:15:22,400
+But he has a point that
+
+319
+00:15:22,400 --> 00:15:25,400
+part of our morality
+
+320
+00:15:25,400 --> 00:15:27,900
+is to do good for the world
+
+321
+00:15:27,900 --> 00:15:30,400
+by doing things like set up railroads
+
+322
+00:15:30,400 --> 00:15:34,400
+or Microsoft.
+
+323
+00:15:34,400 --> 00:15:38,400
+And the kind of activities that that entails will
+
+324
+00:15:38,400 --> 00:15:42,400
+create opportunities for conspicuous consumption.
+
+325
+00:15:42,400 --> 00:15:43,400
+But not for the people.
+
+326
+00:15:44,400 --> 00:15:47,900
+And I don't necessarily make that the
+
+327
+00:15:47,900 --> 00:15:51,400
+defining characteristic of someone who does it.
+
+328
+00:15:51,400 --> 00:15:53,400
+Nobody is perfect.
+
+329
+00:15:53,400 --> 00:15:56,400
+And it's hard to judge people ultimately.
+
+330
+00:15:56,400 --> 00:15:59,900
+But it seems to me that
+
+331
+00:15:59,900 --> 00:16:03,400
+there's almost a moral imperative to entrepreneurship.
+
+332
+00:16:03,400 --> 00:16:06,400
+So,
+
+333
+00:16:06,400 --> 00:16:07,900
+let me go on to the second
+
+334
+00:16:07,900 --> 00:16:09,400
+theme that I said I would talk about.
+
+335
+00:16:09,400 --> 00:16:12,400
+And that is hopelessness.
+
+336
+00:16:12,400 --> 00:16:14,900
+A lot of people from
+
+337
+00:16:14,900 --> 00:16:17,400
+their education get the idea that
+
+338
+00:16:17,400 --> 00:16:21,400
+ultimately, there's nothing we can really do.
+
+339
+00:16:21,400 --> 00:16:26,400
+This is one of Unger's talks about
+
+340
+00:16:26,400 --> 00:16:31,400
+rationalizations we give for not being moral.
+
+341
+00:16:31,400 --> 00:16:34,400
+And he calls it futility is a rationalization.
+
+342
+00:16:34,400 --> 00:16:36,400
+Ultimately, there's always going to
+
+343
+00:16:36,400 --> 00:16:38,400
+be starving people in the world.
+
+344
+00:16:38,400 --> 00:16:40,400
+And, you know, I can try to help this child,
+
+345
+00:16:40,400 --> 00:16:41,400
+but something is going to get him later.
+
+346
+00:16:41,400 --> 00:16:43,400
+And so, there's no point.
+
+347
+00:16:43,400 --> 00:16:48,400
+If you have that kind of futility, sense of futility,
+
+348
+00:16:48,400 --> 00:16:52,400
+it can justify any amount of hedonism.
+
+349
+00:16:52,400 --> 00:16:57,400
+But I think that the classic article that
+
+350
+00:16:57,400 --> 00:17:02,400
+lends most people to that sense of futility,
+
+351
+00:17:02,400 --> 00:17:05,400
+and I assume you know about this already,
+
+352
+00:17:05,400 --> 00:17:10,400
+but it's Malthus, 1798.
+
+353
+00:17:11,400 --> 00:17:14,400
+His essay on, well, the title of it was
+
+354
+00:17:14,400 --> 00:17:18,400
+Essay on the Principle of Population.
+
+355
+00:17:18,400 --> 00:17:24,400
+So, Thomas Malthus wrote about the population problem.
+
+356
+00:17:24,400 --> 00:17:26,900
+It was such a celebrated essay that
+
+357
+00:17:26,900 --> 00:17:29,400
+he went through six editions of it.
+
+358
+00:17:29,400 --> 00:17:31,900
+But I'm going to quote from
+
+359
+00:17:31,900 --> 00:17:34,400
+the first edition just to remind you.
+
+360
+00:17:34,400 --> 00:17:37,400
+He said in 1798,
+
+361
+00:17:37,400 --> 00:17:40,400
+Population, when unchecked,
+
+362
+00:17:40,400 --> 00:17:43,400
+increased in a geometrical ratio
+
+363
+00:17:43,400 --> 00:17:48,400
+and subsistence for man in an arithmetical ratio.
+
+364
+00:17:48,400 --> 00:17:51,400
+You know, so the population
+
+365
+00:17:51,400 --> 00:17:54,400
+growth follows an exponential growth curve.
+
+366
+00:17:54,400 --> 00:17:59,400
+He says geometrical, but it goes like that.
+
+367
+00:17:59,400 --> 00:18:01,400
+Whereas he said, at best,
+
+368
+00:18:01,400 --> 00:18:05,400
+the increase in our ability to produce is linear,
+
+369
+00:18:05,400 --> 00:18:07,400
+or he calls that arithmetical.
+
+370
+00:18:07,400 --> 00:18:08,400
+And so,
+
+371
+00:18:08,400 --> 00:18:15,400
+population will run off with all of our resources.
+
+372
+00:18:15,400 --> 00:18:17,400
+There's nothing we can do.
+
+373
+00:18:17,400 --> 00:18:21,400
+Population will continue to put pressure on our resources.
+
+374
+00:18:21,400 --> 00:18:28,400
+He says, I'm quoting again from his 1798 essay,
+
+375
+00:18:28,400 --> 00:18:31,400
+Population, when unchecked, goes on
+
+376
+00:18:31,400 --> 00:18:34,400
+doubling itself every 25 years.
+
+377
+00:18:34,400 --> 00:18:37,400
+In the next, if you go through two 25-year periods,
+
+378
+00:18:37,400 --> 00:18:40,400
+where there was no check on population growth,
+
+379
+00:18:40,400 --> 00:18:42,400
+it is impossible, I'm quoting him,
+
+380
+00:18:42,400 --> 00:18:45,400
+to suppose that the produce could be quadrupled.
+
+381
+00:18:45,400 --> 00:18:48,400
+It would be contrary to all
+
+382
+00:18:48,400 --> 00:18:51,400
+our knowledge of the qualities of land.
+
+383
+00:18:51,400 --> 00:18:59,400
+Then he comes now to his dismal law of economics.
+
+384
+00:18:59,400 --> 00:19:00,400
+He didn't call it that.
+
+385
+00:19:00,400 --> 00:19:03,400
+I'm quoting, but I will quote him.
+
+386
+00:19:03,400 --> 00:19:06,400
+No possible form of society
+
+387
+00:19:06,400 --> 00:19:10,400
+could prevent the almost constant action of misery
+
+388
+00:19:10,400 --> 00:19:12,400
+upon a great part of mankind,
+
+389
+00:19:12,400 --> 00:19:15,400
+if in a state of inequality,
+
+390
+00:19:15,400 --> 00:19:20,400
+and upon all, if all were equal.
+
+391
+00:19:20,400 --> 00:19:23,400
+So, that the natural state of humankind
+
+392
+00:19:23,400 --> 00:19:27,400
+is bordering on starvation and dying.
+
+393
+00:19:27,400 --> 00:19:30,400
+And the force of his argument was quite profound,
+
+394
+00:19:30,400 --> 00:19:33,400
+because it was hard to argue against him
+
+395
+00:19:33,400 --> 00:19:35,400
+that there's nothing you can do about it.
+
+396
+00:19:35,400 --> 00:19:37,400
+That's just it.
+
+397
+00:19:37,400 --> 00:19:40,400
+And all the theorizing of people
+
+398
+00:19:40,400 --> 00:19:42,400
+can only result in a world
+
+399
+00:19:42,400 --> 00:19:46,400
+where more people are suffering and dying.
+
+400
+00:19:46,400 --> 00:19:49,400
+If you want to think more about this,
+
+401
+00:19:49,400 --> 00:19:54,400
+I suggest you might go to Robert Wyman,
+
+402
+00:19:54,400 --> 00:19:57,400
+who is a professor here at Yale,
+
+403
+00:19:57,400 --> 00:20:01,400
+on Open Yale,
+
+404
+00:20:01,400 --> 00:20:03,400
+which means it's another of these
+
+405
+00:20:03,400 --> 00:20:07,400
+courses open on the Internet.
+
+406
+00:20:07,400 --> 00:20:09,400
+Has a course called
+
+407
+00:20:09,400 --> 00:20:12,400
+Global Problems of Population Growth,
+
+408
+00:20:12,400 --> 00:20:14,400
+where he spends a whole semester
+
+409
+00:20:14,400 --> 00:20:19,400
+thinking about the Malthusian problem.
+
+410
+00:20:19,400 --> 00:20:21,400
+One thing that he talks about in that course
+
+411
+00:20:21,400 --> 00:20:24,400
+is that there's a popular sense that
+
+412
+00:20:24,400 --> 00:20:27,400
+the population problem is not so bad anymore,
+
+413
+00:20:27,400 --> 00:20:29,400
+because many countries have
+
+414
+00:20:29,400 --> 00:20:31,400
+introduced birth control policies.
+
+415
+00:20:31,400 --> 00:20:36,400
+I mean, notably China has a one-child policy, supposedly.
+
+416
+00:20:36,400 --> 00:20:38,400
+It's not really a one-child policy.
+
+417
+00:20:38,400 --> 00:20:40,400
+It's not enforced that well.
+
+418
+00:20:40,400 --> 00:20:43,400
+It's more like a two-child policy,
+
+419
+00:20:43,400 --> 00:20:46,400
+and people have even more than that.
+
+420
+00:20:46,400 --> 00:20:48,400
+But other countries, India,
+
+421
+00:20:48,400 --> 00:20:50,400
+and certain regions of India have made great progress,
+
+422
+00:20:50,400 --> 00:20:53,400
+we're told, in birth control.
+
+423
+00:20:53,400 --> 00:20:55,400
+But still, despite that,
+
+424
+00:20:55,400 --> 00:20:57,900
+Wyman estimates that the world adds
+
+425
+00:20:57,900 --> 00:21:00,400
+a billion people every 12 years.
+
+426
+00:21:01,400 --> 00:21:04,400
+So, that's a problem.
+
+427
+00:21:04,400 --> 00:21:07,400
+And our resources are limited.
+
+428
+00:21:07,400 --> 00:21:09,400
+So, the problem is that
+
+429
+00:21:09,400 --> 00:21:11,400
+people are crowding into the cities,
+
+430
+00:21:11,400 --> 00:21:14,400
+because there's no room for them on the land.
+
+431
+00:21:14,400 --> 00:21:16,400
+They're trying to get an education
+
+432
+00:21:16,400 --> 00:21:18,400
+to push themselves ahead,
+
+433
+00:21:18,400 --> 00:21:20,400
+but the sheer numbers of people
+
+434
+00:21:20,400 --> 00:21:24,400
+make it impossible for them all to get ahead.
+
+435
+00:21:24,400 --> 00:21:29,400
+So, I suggest that you might take his course.
+
+436
+00:21:29,400 --> 00:21:31,400
+It's a problem that people don't want
+
+437
+00:21:31,400 --> 00:21:33,400
+to get up to.
+
+438
+00:21:33,400 --> 00:21:35,400
+So, I'm sounding very dismal here.
+
+439
+00:21:35,400 --> 00:21:38,400
+But actually, I think that the problem
+
+440
+00:21:38,400 --> 00:21:44,400
+is not as bad as it may seem.
+
+441
+00:21:44,400 --> 00:21:46,400
+This is my take on it.
+
+442
+00:21:46,400 --> 00:21:49,400
+I tend to be a realist about these things.
+
+443
+00:21:49,400 --> 00:21:51,400
+We have a population problem.
+
+444
+00:21:51,400 --> 00:21:52,400
+It's going to be with us.
+
+445
+00:21:52,400 --> 00:21:55,400
+But hey, it's been with us forever,
+
+446
+00:21:55,400 --> 00:21:58,400
+going all the way back in history.
+
+447
+00:21:58,400 --> 00:22:01,400
+So, it's a tough world that we live in,
+
+448
+00:22:01,400 --> 00:22:06,400
+where the human race is naturally procreating
+
+449
+00:22:06,400 --> 00:22:09,400
+and naturally creating population pressures
+
+450
+00:22:09,400 --> 00:22:14,400
+and conflicts that lead to wars and famines.
+
+451
+00:22:14,400 --> 00:22:17,400
+We've been going through a good run
+
+452
+00:22:17,400 --> 00:22:19,400
+in the last few centuries,
+
+453
+00:22:19,400 --> 00:22:21,400
+but it's growing.
+
+454
+00:22:21,400 --> 00:22:22,400
+I don't know when the end,
+
+455
+00:22:22,400 --> 00:22:23,400
+it's not an end,
+
+456
+00:22:23,400 --> 00:22:29,400
+when we're going to see more severe problems.
+
+457
+00:22:29,400 --> 00:22:33,400
+That just seems to be right and inevitable.
+
+458
+00:22:33,400 --> 00:22:35,400
+But I think that that doesn't mean,
+
+459
+00:22:35,400 --> 00:22:39,400
+I think that the weakest part of Malthus' argument
+
+460
+00:22:39,400 --> 00:22:42,400
+is the last step, saying that it's necessarily
+
+461
+00:22:42,400 --> 00:22:46,400
+a dismal world that results.
+
+462
+00:22:46,400 --> 00:22:48,400
+I wanted to put the
+
+463
+00:22:48,400 --> 00:22:50,400
+bright side on Malthus' dismal law.
+
+464
+00:22:50,400 --> 00:22:53,400
+And that is, most of the time, everyone's fine.
+
+465
+00:22:53,400 --> 00:22:56,400
+In the world, most people, you know,
+
+466
+00:22:56,400 --> 00:22:59,400
+it's famines and wars are intermittent events.
+
+467
+00:22:59,400 --> 00:23:01,400
+That reduce population.
+
+468
+00:23:01,400 --> 00:23:03,400
+Between those big events,
+
+469
+00:23:03,400 --> 00:23:06,400
+pretty much everyone is doing all right.
+
+470
+00:23:06,400 --> 00:23:07,400
+So, I mean, maybe it's
+
+471
+00:23:07,400 --> 00:23:08,400
+not as bad as you think.
+
+472
+00:23:08,400 --> 00:23:11,400
+You know, you might get killed in a war someday,
+
+473
+00:23:11,400 --> 00:23:14,400
+but you enjoy life until that happens.
+
+474
+00:23:14,400 --> 00:23:18,400
+I mean, that's very basic, but I think it's true.
+
+475
+00:23:18,400 --> 00:23:19,900
+But moreover, I think that there's
+
+476
+00:23:19,900 --> 00:23:21,400
+a lot that we can do
+
+477
+00:23:21,400 --> 00:23:24,400
+to make life better,
+
+478
+00:23:24,400 --> 00:23:28,400
+even in the context of the dismal law,
+
+479
+00:23:28,400 --> 00:23:30,400
+and accepting the dismal law.
+
+480
+00:23:30,400 --> 00:23:34,400
+And I think that civilization is improving,
+
+481
+00:23:34,400 --> 00:23:36,400
+so that life is better,
+
+482
+00:23:36,400 --> 00:23:39,400
+even though there are population pressures.
+
+483
+00:23:39,400 --> 00:23:41,400
+And that's why I think there's a, you know,
+
+484
+00:23:41,400 --> 00:23:43,400
+maybe I'm saying the obvious here,
+
+485
+00:23:43,400 --> 00:23:45,400
+but I want to say it anyway,
+
+486
+00:23:45,400 --> 00:23:47,400
+that there are plenty of purposes and goals
+
+487
+00:23:47,400 --> 00:23:52,400
+that people can fulfill,
+
+488
+00:23:52,400 --> 00:23:56,400
+even taking as given Malthus' dismal law.
+
+489
+00:23:56,400 --> 00:23:58,400
+So, I talked last period,
+
+490
+00:23:58,400 --> 00:24:02,400
+about nonprofit and charity,
+
+491
+00:24:02,400 --> 00:24:06,400
+and government as well.
+
+492
+00:24:06,400 --> 00:24:08,400
+There are a lot of
+
+493
+00:24:08,400 --> 00:24:10,400
+people who are doing specific things
+
+494
+00:24:10,400 --> 00:24:13,400
+to make the world respond better
+
+495
+00:24:13,400 --> 00:24:18,400
+to the dismal law of Malthus.
+
+496
+00:24:18,400 --> 00:24:24,400
+And I wanted to mention certain examples,
+
+497
+00:24:24,400 --> 00:24:26,400
+just to make this clear.
+
+498
+00:24:26,400 --> 00:24:28,400
+I think that there's work being done
+
+499
+00:24:28,400 --> 00:24:30,400
+by governments of the world.
+
+500
+00:24:30,400 --> 00:24:33,400
+There's also work being done by individuals
+
+501
+00:24:33,400 --> 00:24:36,400
+who don't need government.
+
+502
+00:24:36,400 --> 00:24:38,400
+They set up their own organizations.
+
+503
+00:24:38,400 --> 00:24:44,400
+So, I was specifically talking about the environment.
+
+504
+00:24:44,400 --> 00:24:48,400
+This is what's being threatened by population growth.
+
+505
+00:24:48,400 --> 00:24:50,400
+And so, there are many foundations
+
+506
+00:24:50,400 --> 00:24:55,400
+that deal with the environment.
+
+507
+00:24:55,400 --> 00:24:56,400
+I'll just mention a few.
+
+508
+00:24:56,400 --> 00:24:58,400
+The Nature Conservancy,
+
+509
+00:24:58,400 --> 00:25:00,400
+the World Wildlife Fund,
+
+510
+00:25:00,400 --> 00:25:04,400
+the Wildlife Conservation Society,
+
+511
+00:25:04,400 --> 00:25:06,400
+and there's specialized ones called,
+
+512
+00:25:06,400 --> 00:25:08,400
+like African Wildlife Foundation,
+
+513
+00:25:08,400 --> 00:25:11,400
+the Jane Goodall Institute,
+
+514
+00:25:11,400 --> 00:25:14,400
+the Dian Fossey Gorilla Fund.
+
+515
+00:25:14,400 --> 00:25:16,400
+You know, you think the gorillas out there are wild,
+
+516
+00:25:16,400 --> 00:25:18,400
+but there's finance and support.
+
+517
+00:25:18,400 --> 00:25:19,400
+They've collected money.
+
+518
+00:25:19,400 --> 00:25:22,400
+Someone is managing an endowment for the gorillas.
+
+519
+00:25:22,400 --> 00:25:23,400
+Okay?
+
+520
+00:25:23,400 --> 00:25:26,400
+This is creative finance.
+
+521
+00:25:26,400 --> 00:25:29,400
+You know, a part of the problem with,
+
+522
+00:25:29,400 --> 00:25:30,400
+you think about what's happening
+
+523
+00:25:30,400 --> 00:25:33,400
+with the population pressures of the world.
+
+524
+00:25:33,400 --> 00:25:36,400
+And is it bad or not?
+
+525
+00:25:36,400 --> 00:25:38,400
+Well, in some sense, it's good.
+
+526
+00:25:38,400 --> 00:25:40,400
+Having, you know, 10 billion people on the world
+
+527
+00:25:40,400 --> 00:25:43,400
+would just make it for a more interesting place, right?
+
+528
+00:25:43,400 --> 00:25:45,400
+There'd be more arts and sciences
+
+529
+00:25:45,400 --> 00:25:47,400
+and fun things to do.
+
+530
+00:25:47,400 --> 00:25:50,400
+Eventually, we're going to colonize the moon and Mars,
+
+531
+00:25:50,400 --> 00:25:52,400
+and there's going to be fun trips to do.
+
+532
+00:25:52,400 --> 00:25:54,400
+So, I don't know if it's a bad world
+
+533
+00:25:54,400 --> 00:25:55,400
+that we're coming into.
+
+534
+00:25:55,400 --> 00:25:57,400
+Even if there are conflicts.
+
+535
+00:25:57,400 --> 00:25:59,400
+But part of, you know,
+
+536
+00:25:59,400 --> 00:26:01,400
+I think there are specific problems
+
+537
+00:26:01,400 --> 00:26:02,400
+with that world.
+
+538
+00:26:02,400 --> 00:26:05,400
+And one of them is the extinction of species.
+
+539
+00:26:05,400 --> 00:26:06,400
+You think about that.
+
+540
+00:26:06,400 --> 00:26:09,400
+You know, we're destroying habitat for species,
+
+541
+00:26:09,400 --> 00:26:11,400
+and they're going to be gone forever.
+
+542
+00:26:11,400 --> 00:26:16,400
+So, but the thing is that those kinds of problems
+
+543
+00:26:16,400 --> 00:26:20,400
+are problems that have sort of business solutions.
+
+544
+00:26:20,400 --> 00:26:23,400
+And I wanted to talk about one particular foundation.
+
+545
+00:26:23,400 --> 00:26:24,400
+I don't know if you've heard of it.
+
+546
+00:26:24,400 --> 00:26:26,400
+It's a non-profit.
+
+547
+00:26:26,400 --> 00:26:29,400
+And I'll just give this as an example.
+
+548
+00:26:29,400 --> 00:26:32,400
+The Nature Conservancy.
+
+549
+00:26:32,400 --> 00:26:39,400
+It was founded in 1951 in the United States,
+
+550
+00:26:39,400 --> 00:26:42,400
+but it now operates in 30 countries.
+
+551
+00:26:42,400 --> 00:26:49,400
+Its total assets are 5.6 billion,
+
+552
+00:26:49,400 --> 00:26:52,400
+which makes it the third largest charity
+
+553
+00:26:52,400 --> 00:26:53,400
+in the United States.
+
+554
+00:26:54,400 --> 00:27:08,400
+And they have a principle of conservation by design.
+
+555
+00:27:08,400 --> 00:27:10,900
+The idea is, our purpose
+
+556
+00:27:10,900 --> 00:27:13,400
+is to prevent extinction of species.
+
+557
+00:27:13,400 --> 00:27:15,400
+Because extinction is forever.
+
+558
+00:27:15,400 --> 00:27:17,400
+You know, these species have taken hundreds of millions
+
+559
+00:27:17,400 --> 00:27:19,400
+of years to evolve.
+
+560
+00:27:19,400 --> 00:27:21,400
+They get wiped out, they're gone.
+
+561
+00:27:21,400 --> 00:27:23,400
+As far as we know, they're gone forever.
+
+562
+00:27:24,400 --> 00:27:29,400
+What they do is, they get scientists who specialize
+
+563
+00:27:29,400 --> 00:27:33,400
+in environment and biology, and they say,
+
+564
+00:27:33,400 --> 00:27:37,400
+which species are endangered, and what can we really do
+
+565
+00:27:37,400 --> 00:27:40,400
+to prevent their extinction?
+
+566
+00:27:40,400 --> 00:27:43,400
+And one thing that the scientists have been telling them
+
+567
+00:27:43,400 --> 00:27:47,400
+is that you have to preserve habitat for species,
+
+568
+00:27:47,400 --> 00:27:51,400
+and you have to do it with purpose and clarity.
+
+569
+00:27:51,400 --> 00:27:53,400
+What do these animals need?
+
+570
+00:27:53,400 --> 00:27:55,400
+Some of them are migratory, for example,
+
+571
+00:27:55,400 --> 00:27:57,400
+and they migrate over long distances.
+
+572
+00:27:57,400 --> 00:27:59,400
+So, you have to preserve a migratory route
+
+573
+00:27:59,400 --> 00:28:02,400
+and stopping places along the way for them.
+
+574
+00:28:02,400 --> 00:28:05,400
+So, it has to be done well.
+
+575
+00:28:05,400 --> 00:28:09,400
+So, the Nature Conservancy believes also that the way
+
+576
+00:28:09,400 --> 00:28:12,400
+to protect habitat is to buy
+
+577
+00:28:12,400 --> 00:28:15,400
+land and put up fences around,
+
+578
+00:28:15,400 --> 00:28:17,400
+have to keep people out,
+
+579
+00:28:17,400 --> 00:28:19,400
+and then have a forest manager
+
+580
+00:28:19,400 --> 00:28:20,400
+run it, so that the
+
+581
+00:28:20,400 --> 00:28:21,400
+species will have a good life.
+
+582
+00:28:21,400 --> 00:28:22,400
+So, they have to do it.
+
+583
+00:28:22,400 --> 00:28:30,400
+And they say that they have 500,000 square kilometers
+
+584
+00:28:30,400 --> 00:28:34,400
+of land that they've bought around the world.
+
+585
+00:28:34,400 --> 00:28:38,400
+I calculated that there's 150 million square kilometers
+
+586
+00:28:38,400 --> 00:28:40,400
+of land on the Earth.
+
+587
+00:28:40,400 --> 00:28:42,900
+So, they have one-third of
+
+588
+00:28:42,900 --> 00:28:45,400
+1% of the world's land protected
+
+589
+00:28:45,400 --> 00:28:48,400
+by their charity.
+
+590
+00:28:48,400 --> 00:28:49,400
+Now, that might seem small,
+
+591
+00:28:49,400 --> 00:28:50,400
+but that's a big difference, right?
+
+592
+00:28:50,400 --> 00:28:51,400
+Because if it's the last thing they have,
+
+593
+00:28:51,400 --> 00:28:52,400
+that's a big difference.
+
+594
+00:28:52,400 --> 00:28:54,400
+Because if it's the last habitat, that might be enough
+
+595
+00:28:54,400 --> 00:28:57,400
+to keep a lot of species diversity going.
+
+596
+00:28:57,400 --> 00:29:05,400
+So, that's an example of what, this is really finance.
+
+597
+00:29:05,400 --> 00:29:10,400
+We have portfolio managers managing portfolio
+
+598
+00:29:10,400 --> 00:29:16,400
+and properties of land with a good purpose.
+
+599
+00:29:21,400 --> 00:29:26,400
+And, you know, that's why I say the moral dilemmas
+
+600
+00:29:26,400 --> 00:29:27,400
+are not so simple.
+
+601
+00:29:27,400 --> 00:29:29,400
+You could take a job managing a portfolio for one
+
+602
+00:29:29,400 --> 00:29:32,400
+of these foundations.
+
+603
+00:29:32,400 --> 00:29:38,400
+Peter Unger, in his book, is talking about, always about,
+
+604
+00:29:38,400 --> 00:29:39,400
+you know, would you save a
+
+605
+00:29:39,400 --> 00:29:40,400
+child who fell in the water
+
+606
+00:29:40,400 --> 00:29:42,400
+or something like that.
+
+607
+00:29:42,400 --> 00:29:45,900
+But that's not the kind of
+
+608
+00:29:45,900 --> 00:29:49,400
+moral dilemmas that we really face.
+
+609
+00:29:49,400 --> 00:29:52,400
+That an energetic intellect would find.
+
+610
+00:29:52,400 --> 00:29:54,900
+The moral dilemma is to
+
+611
+00:29:54,900 --> 00:29:57,400
+prevent big, bad things from happening.
+
+612
+00:29:57,400 --> 00:30:00,400
+And that takes a sort of entrepreneurship and big
+
+613
+00:30:00,400 --> 00:30:04,400
+thinking to manage.
+
+614
+00:30:04,400 --> 00:30:08,400
+Another thought I had in this context is about wars.
+
+615
+00:30:08,400 --> 00:30:10,400
+I was saying that population
+
+616
+00:30:10,400 --> 00:30:12,400
+pressures are a fact of life.
+
+617
+00:30:12,400 --> 00:30:18,400
+And I'm skeptical that anyone will change the basic
+
+618
+00:30:18,400 --> 00:30:21,400
+nature of the situation.
+
+619
+00:30:21,400 --> 00:30:28,400
+But I wanted in this context to emphasize that financial
+
+620
+00:30:28,400 --> 00:30:36,400
+arrangements are capable of enduring and surviving wars
+
+621
+00:30:36,400 --> 00:30:38,400
+and catastrophes.
+
+622
+00:30:38,400 --> 00:30:41,400
+I wanted particularly to make
+
+623
+00:30:41,400 --> 00:30:44,400
+it clear that there's a tendency
+
+624
+00:30:44,400 --> 00:30:45,900
+for people to think that
+
+625
+00:30:45,900 --> 00:30:47,400
+finance is something that the government
+
+626
+00:30:47,400 --> 00:30:48,400
+runs.
+
+627
+00:30:48,400 --> 00:30:51,400
+You can easily get that impression, because when you
+
+628
+00:30:51,400 --> 00:30:52,900
+go into finance, the first thing
+
+629
+00:30:52,900 --> 00:30:54,400
+you have to do is get licensed.
+
+630
+00:30:54,400 --> 00:30:56,400
+You have to file some papers
+
+631
+00:30:56,400 --> 00:30:58,400
+with either the government or a
+
+632
+00:30:58,400 --> 00:31:00,400
+government-approved organization.
+
+633
+00:31:00,400 --> 00:31:01,900
+And then you will find there's
+
+634
+00:31:01,900 --> 00:31:03,400
+a whole list of laws and
+
+635
+00:31:03,400 --> 00:31:07,400
+regulations that you have to memorize, and forms that have
+
+636
+00:31:07,400 --> 00:31:11,400
+to be filed with government agencies, and permissions to be
+
+637
+00:31:11,400 --> 00:31:12,400
+granted.
+
+638
+00:31:12,400 --> 00:31:15,400
+So, it sounds like this is just the government.
+
+639
+00:31:15,400 --> 00:31:17,400
+But I think that's the wrong view.
+
+640
+00:31:17,400 --> 00:31:18,900
+I think that you should
+
+641
+00:31:18,900 --> 00:31:20,400
+think of finance as people making
+
+642
+00:31:20,400 --> 00:31:22,400
+arrangements with other people.
+
+643
+00:31:22,400 --> 00:31:29,400
+And governments are helpful, and they enforce contracts, but
+
+644
+00:31:29,400 --> 00:31:31,400
+they don't determine them.
+
+645
+00:31:31,400 --> 00:31:34,400
+And in particular, I wanted to
+
+646
+00:31:34,400 --> 00:31:37,400
+give you a few examples that
+
+647
+00:31:37,400 --> 00:31:43,400
+clarify this.
+
+648
+00:31:43,400 --> 00:31:46,400
+What do you think happened after World War II?
+
+649
+00:31:46,400 --> 00:31:53,400
+After World War I, with financial arrangements.
+
+650
+00:31:53,400 --> 00:31:58,400
+Germany lost the war.
+
+651
+00:31:58,400 --> 00:32:01,400
+People were really angry with Germany.
+
+652
+00:32:01,400 --> 00:32:07,400
+In the Versailles Conference after World War I, Germany was
+
+653
+00:32:07,400 --> 00:32:11,400
+made to pay huge reparation payments, payments that some
+
+654
+00:32:11,400 --> 00:32:12,900
+people thought were so heavy
+
+655
+00:32:12,900 --> 00:32:14,400
+that the country will never be
+
+656
+00:32:14,400 --> 00:32:15,400
+able to do it.
+
+657
+00:32:15,400 --> 00:32:19,400
+What do you think they did to financial contracts?
+
+658
+00:32:19,400 --> 00:32:22,400
+You know, Germany was at its knees.
+
+659
+00:32:22,400 --> 00:32:25,400
+People thought they were evil.
+
+660
+00:32:25,400 --> 00:32:27,400
+Many people thought they were evil.
+
+661
+00:32:27,400 --> 00:32:30,400
+Well, there was talk about taking away people who owned
+
+662
+00:32:30,400 --> 00:32:31,400
+stocks or bonds.
+
+663
+00:32:31,400 --> 00:32:33,400
+Let's just confiscate them and tell
+
+664
+00:32:33,400 --> 00:32:35,400
+them, you know, you were in
+
+665
+00:32:35,400 --> 00:32:37,400
+the wrong country at the wrong time.
+
+666
+00:32:37,400 --> 00:32:39,400
+Tough on you.
+
+667
+00:32:39,400 --> 00:32:40,900
+But they talked about doing
+
+668
+00:32:40,900 --> 00:32:42,400
+it, but they didn't do it.
+
+669
+00:32:42,400 --> 00:32:45,400
+The reparations were obligations of the German government.
+
+670
+00:32:45,400 --> 00:32:48,400
+And they were paid by taxing people.
+
+671
+00:32:48,400 --> 00:32:51,400
+And they taxed people in an equitable – they didn't
+
+672
+00:32:51,400 --> 00:32:53,400
+actually pay them, by the way.
+
+673
+00:32:53,400 --> 00:32:54,400
+The skeptics were right.
+
+674
+00:32:54,400 --> 00:32:56,400
+Germany never was able to pay the reparations.
+
+675
+00:32:56,400 --> 00:32:57,900
+But it tried to pay
+
+676
+00:32:57,900 --> 00:32:59,400
+them by taxing people, not by
+
+677
+00:32:59,400 --> 00:33:00,400
+confiscating.
+
+678
+00:33:00,400 --> 00:33:03,400
+Because ultimately, when it came down to it, they thought,
+
+679
+00:33:03,400 --> 00:33:05,400
+well, you know, Germans are all different.
+
+680
+00:33:05,400 --> 00:33:06,400
+And some of them supported the
+
+681
+00:33:06,400 --> 00:33:07,400
+war, and some of them didn't.
+
+682
+00:33:07,400 --> 00:33:08,900
+And some of them saved all
+
+683
+00:33:08,900 --> 00:33:10,400
+their lives, and they've got a
+
+684
+00:33:10,400 --> 00:33:12,400
+big amount of money.
+
+685
+00:33:12,400 --> 00:33:14,400
+So, let's not confiscate their shares.
+
+686
+00:33:14,400 --> 00:33:16,400
+So, they didn't.
+
+687
+00:33:16,400 --> 00:33:17,400
+That's my first example.
+
+688
+00:33:17,400 --> 00:33:24,400
+Second example.
+
+689
+00:33:24,400 --> 00:33:26,400
+Iran.
+
+690
+00:33:26,400 --> 00:33:28,900
+Remember, it was ruled by the
+
+691
+00:33:28,900 --> 00:33:31,400
+Shah of Iran, who is a secular
+
+692
+00:33:31,400 --> 00:33:38,400
+ruler, hereditary ruler of Iran, overthrown by a
+
+693
+00:33:38,400 --> 00:33:44,400
+people's Islamic revolution and the Ayatollah Khomeini
+
+694
+00:33:44,400 --> 00:33:50,400
+became the spiritual authority for the new country, became
+
+695
+00:33:50,400 --> 00:33:51,400
+much more Islamic.
+
+696
+00:33:51,400 --> 00:33:52,400
+All right.
+
+697
+00:33:52,400 --> 00:33:53,900
+So, what do you think
+
+698
+00:33:53,900 --> 00:33:55,400
+happened to financial contracts in Iran?
+
+699
+00:33:55,400 --> 00:34:00,400
+In particular, the Iranian government under the Shah had a
+
+700
+00:34:00,400 --> 00:34:03,400
+social security system, and they were paying to government
+
+701
+00:34:03,400 --> 00:34:05,400
+employees pensions.
+
+702
+00:34:05,400 --> 00:34:07,400
+So, what do you think the Ayatollah did?
+
+703
+00:34:07,400 --> 00:34:09,400
+Guy's working all his life
+
+704
+00:34:09,400 --> 00:34:11,400
+for the Shah, we've overthrown the
+
+705
+00:34:11,400 --> 00:34:13,400
+Shah, do you still get your pension?
+
+706
+00:34:13,400 --> 00:34:14,400
+What do you think?
+
+707
+00:34:14,400 --> 00:34:15,400
+They did.
+
+708
+00:34:15,400 --> 00:34:17,400
+They didn't cancel.
+
+709
+00:34:17,400 --> 00:34:19,400
+I think it's like common sense.
+
+710
+00:34:19,400 --> 00:34:22,400
+You come in, you are a totally different government.
+
+711
+00:34:22,400 --> 00:34:25,400
+Now, you're an Islamic, a radical Islamic government.
+
+712
+00:34:25,400 --> 00:34:26,900
+Now, I don't say that they
+
+713
+00:34:26,900 --> 00:34:28,400
+won't do some things that you
+
+714
+00:34:28,400 --> 00:34:33,400
+don't like, but they see the basic financial contracts and
+
+715
+00:34:33,400 --> 00:34:35,400
+they preserve them.
+
+716
+00:34:35,400 --> 00:34:39,400
+The other example I'll give is
+
+717
+00:34:39,400 --> 00:34:43,400
+South Africa, and that is in
+
+718
+00:34:43,400 --> 00:34:50,400
+1994, the white apartheid government was replaced by a
+
+719
+00:34:50,400 --> 00:34:53,900
+government that was elected by
+
+720
+00:34:53,900 --> 00:34:57,400
+the black majority in South Africa.
+
+721
+00:34:57,400 --> 00:34:58,900
+So, what do you think
+
+722
+00:34:58,900 --> 00:35:00,400
+happened to their pensions or their
+
+723
+00:35:00,400 --> 00:35:02,400
+insurance?
+
+724
+00:35:02,400 --> 00:35:04,400
+Were they confiscated?
+
+725
+00:35:04,400 --> 00:35:05,400
+No.
+
+726
+00:35:05,400 --> 00:35:07,400
+I think that this is a principle in history.
+
+727
+00:35:07,400 --> 00:35:09,900
+Now, I can give other examples,
+
+728
+00:35:09,900 --> 00:35:12,400
+of course, where things went badly.
+
+729
+00:35:12,400 --> 00:35:14,900
+Vladimir Lenin wasn't so kind
+
+730
+00:35:14,900 --> 00:35:17,400
+to stockholders in Russia after
+
+731
+00:35:17,400 --> 00:35:19,400
+this Russian revolution.
+
+732
+00:35:19,400 --> 00:35:25,400
+Lazaro Cardenas in Mexico nationalized the oil industry.
+
+733
+00:35:25,400 --> 00:35:28,400
+Mao Zedong, you know who he
+
+734
+00:35:28,400 --> 00:35:31,400
+is in China, not kind to
+
+735
+00:35:31,400 --> 00:35:32,400
+capitalists.
+
+736
+00:35:32,400 --> 00:35:37,400
+Mohammad Mossadegh in Iran nationalized the oil industry.
+
+737
+00:35:37,400 --> 00:35:41,400
+Gamal Abdel Nasser in Egypt nationalized the oil industry.
+
+738
+00:35:41,400 --> 00:35:43,900
+And then, in India, there
+
+739
+00:35:43,900 --> 00:35:46,400
+was a nationalized, wide range of
+
+740
+00:35:46,400 --> 00:35:47,400
+industries.
+
+741
+00:35:47,400 --> 00:35:52,400
+Even in India, Indira Gandhi did widespread nationalizations
+
+742
+00:35:52,400 --> 00:35:56,400
+that were effectively confiscations.
+
+743
+00:35:56,400 --> 00:35:57,900
+Even the United States has,
+
+744
+00:35:57,900 --> 00:35:59,400
+in some sense, been involved in
+
+745
+00:35:59,400 --> 00:36:01,400
+those sorts of things.
+
+746
+00:36:01,400 --> 00:36:03,400
+After World War II, the
+
+747
+00:36:03,400 --> 00:36:05,400
+United States was not going to
+
+748
+00:36:05,400 --> 00:36:08,400
+confiscate wealth of wealthy people in general.
+
+749
+00:36:08,400 --> 00:36:11,400
+But in Japan, there were these wealthy families that were
+
+750
+00:36:11,400 --> 00:36:17,400
+going to maintain the industries, called Zaibatsu.
+
+751
+00:36:17,400 --> 00:36:24,400
+These were the family-owned businesses that dominated Japan
+
+752
+00:36:24,400 --> 00:36:27,400
+before World War II.
+
+753
+00:36:27,400 --> 00:36:36,400
+The big four, Mitsubishi, Yasuda, who else?
+
+754
+00:36:36,400 --> 00:36:39,400
+What are the, Mitsui, and what am I thinking of?
+
+755
+00:36:39,400 --> 00:36:41,400
+It's not in my notes.
+
+756
+00:36:41,400 --> 00:36:47,400
+But these big, wealthy families were thought to have
+
+757
+00:36:47,400 --> 00:36:52,400
+supported the war and made Japan into more radical than
+
+758
+00:36:52,400 --> 00:36:53,400
+it would have been.
+
+759
+00:36:53,400 --> 00:36:54,900
+So, there was a lot of
+
+760
+00:36:54,900 --> 00:36:56,400
+U.S. thinking that we had to break
+
+761
+00:36:56,400 --> 00:36:57,400
+up the Zaibatsu.
+
+762
+00:36:57,400 --> 00:36:58,900
+So, what the United States
+
+763
+00:36:58,900 --> 00:37:00,400
+did is force these families to
+
+764
+00:37:00,400 --> 00:37:05,400
+convert their holdings of
+
+765
+00:37:05,400 --> 00:37:10,400
+industry in Japan into yen-denominated
+
+766
+00:37:10,400 --> 00:37:12,400
+government bonds.
+
+767
+00:37:12,400 --> 00:37:14,400
+And then, the Japanese government had a huge
+
+768
+00:37:14,400 --> 00:37:16,400
+hyperinflation and wiped them out.
+
+769
+00:37:16,400 --> 00:37:18,400
+So, it wasn't actually a confiscation.
+
+770
+00:37:18,400 --> 00:37:21,400
+The U.S. government didn't deliberately confiscate the
+
+771
+00:37:21,400 --> 00:37:24,400
+wealth of the Zaibatsu.
+
+772
+00:37:24,400 --> 00:37:29,400
+But they effectively did that.
+
+773
+00:37:29,400 --> 00:37:30,900
+By the way, we still
+
+774
+00:37:30,900 --> 00:37:32,400
+have Zaibatsu in Japan, but they're
+
+775
+00:37:32,400 --> 00:37:35,400
+not owned by those families anymore.
+
+776
+00:37:35,400 --> 00:37:40,400
+The same industrial conglomerates still survive.
+
+777
+00:37:40,400 --> 00:37:42,900
+So, third topic I was saying
+
+778
+00:37:42,900 --> 00:37:45,400
+I would talk about is, maybe I'll
+
+779
+00:37:45,400 --> 00:37:48,400
+be brief about this, the importance of financial theory.
+
+780
+00:37:51,400 --> 00:37:56,400
+So, I'm an advocate of two seemingly disparate things.
+
+781
+00:37:56,400 --> 00:37:58,400
+And you know this from this course.
+
+782
+00:37:58,400 --> 00:38:00,400
+One of them is mathematical finance.
+
+783
+00:38:00,400 --> 00:38:03,400
+We spent some time on it,
+
+784
+00:38:03,400 --> 00:38:06,400
+but not very much, because there's
+
+785
+00:38:06,400 --> 00:38:09,400
+another course that's also on Open Yale that John D.
+
+786
+00:38:09,400 --> 00:38:16,400
+John Akopoulos has on mathematical finance.
+
+787
+00:38:16,400 --> 00:38:19,400
+But the other side of it
+
+788
+00:38:19,400 --> 00:38:22,400
+is behavioral finance, which is a
+
+789
+00:38:22,400 --> 00:38:25,400
+particular passion of mine.
+
+790
+00:38:25,400 --> 00:38:30,400
+And behavioral finance is the application of psychology and
+
+791
+00:38:30,400 --> 00:38:33,400
+other social sciences to finance.
+
+792
+00:38:33,400 --> 00:38:36,400
+And I think that the two actually work together
+
+793
+00:38:36,400 --> 00:38:38,400
+symbiotically.
+
+794
+00:38:38,400 --> 00:38:40,400
+And we consider them together.
+
+795
+00:38:40,400 --> 00:38:43,400
+Some people in mathematical finance are very opposed to
+
+796
+00:38:43,400 --> 00:38:49,400
+behavioral finance, because it kind of muddles their world.
+
+797
+00:38:49,400 --> 00:38:52,400
+But in fact, I think they should consider it their
+
+798
+00:38:52,400 --> 00:38:57,400
+salvation, because without behavioral finance, they're
+
+799
+00:38:57,400 --> 00:39:00,400
+kind of bordering on irrelevant.
+
+800
+00:39:00,400 --> 00:39:02,400
+You have to consider things in
+
+801
+00:39:02,400 --> 00:39:04,400
+a broader context and think of
+
+802
+00:39:04,400 --> 00:39:07,400
+the interruptions and problems that are caused.
+
+803
+00:39:08,400 --> 00:39:11,400
+And I think that's the way to do it.
+
+804
+00:39:11,400 --> 00:39:13,900
+So, I said the next topic
+
+805
+00:39:13,900 --> 00:39:16,400
+I would talk about today is, I've
+
+806
+00:39:16,400 --> 00:39:17,900
+already been talking about it
+
+807
+00:39:17,900 --> 00:39:19,400
+a bit, is about wealth and
+
+808
+00:39:19,400 --> 00:39:20,400
+poverty.
+
+809
+00:39:20,400 --> 00:39:22,400
+It seems to me it's fundamentally connected with
+
+810
+00:39:22,400 --> 00:39:24,400
+our thoughts about finance.
+
+811
+00:39:24,400 --> 00:39:27,400
+Because, you know, I referred to this problem before, that
+
+812
+00:39:27,400 --> 00:39:32,400
+people think that people who go into finance are money
+
+813
+00:39:32,400 --> 00:39:33,400
+grubbers.
+
+814
+00:39:33,400 --> 00:39:34,400
+They want to make money.
+
+815
+00:39:34,400 --> 00:39:37,400
+They don't have human feelings.
+
+816
+00:39:37,400 --> 00:39:38,900
+They want to make money
+
+817
+00:39:38,900 --> 00:39:40,400
+out of feelings or something like
+
+818
+00:39:40,400 --> 00:39:42,400
+that.
+
+819
+00:39:42,400 --> 00:39:45,900
+And there's also this sense
+
+820
+00:39:45,900 --> 00:39:49,400
+that we're living in a world
+
+821
+00:39:49,400 --> 00:39:54,400
+that's increasingly plutocratic, that the wealthy people are
+
+822
+00:39:54,400 --> 00:40:00,400
+controlling the world.
+
+823
+00:40:00,400 --> 00:40:02,400
+That was a theme that took
+
+824
+00:40:02,400 --> 00:40:04,400
+a lot of impetus in the 19th
+
+825
+00:40:04,400 --> 00:40:06,400
+century with Karl Marx, who said exactly that.
+
+826
+00:40:06,400 --> 00:40:08,400
+And in some sense, it's coming
+
+827
+00:40:08,400 --> 00:40:10,400
+back, maybe in not such an
+
+828
+00:40:10,400 --> 00:40:12,400
+extreme form.
+
+829
+00:40:12,400 --> 00:40:16,400
+So, Jacob Hacker, who's in our political science department,
+
+830
+00:40:16,400 --> 00:40:22,400
+and Paul Pearson, who's at Stanford University, have a
+
+831
+00:40:22,400 --> 00:40:29,400
+new book that just came out called, Winner Take All
+
+832
+00:40:29,400 --> 00:40:31,400
+Politics.
+
+833
+00:40:31,400 --> 00:40:35,400
+And that book is about politics.
+
+834
+00:40:35,400 --> 00:40:37,900
+And the book is about, they
+
+835
+00:40:37,900 --> 00:40:40,400
+have a claim in that book that
+
+836
+00:40:40,400 --> 00:40:45,400
+the world is getting more polarized by the political
+
+837
+00:40:45,400 --> 00:40:49,400
+power of financial institutions.
+
+838
+00:40:49,400 --> 00:40:52,400
+Basically, they have something they call the 30 Years War.
+
+839
+00:40:52,400 --> 00:40:53,400
+What's the 30 Years War?
+
+840
+00:40:53,400 --> 00:40:56,400
+You might think it's something that happened in the 17th
+
+841
+00:40:56,400 --> 00:40:57,400
+century.
+
+842
+00:40:57,400 --> 00:40:58,400
+Not for them.
+
+843
+00:40:58,400 --> 00:40:59,900
+The 30 Years War is the
+
+844
+00:40:59,900 --> 00:41:01,400
+war against the people of the world
+
+845
+00:41:01,400 --> 00:41:04,400
+fought by the financial community.
+
+846
+00:41:04,400 --> 00:41:05,900
+And the 30 Years War is the
+
+847
+00:41:05,900 --> 00:41:07,400
+war against the people of the world
+
+848
+00:41:07,400 --> 00:41:11,400
+fought by the halls of Congress and Parliament, by lobbying.
+
+849
+00:41:11,400 --> 00:41:15,400
+So, they argue that the companies have gotten more and
+
+850
+00:41:15,400 --> 00:41:20,400
+more sophisticated in lobbying governments to fulfill their
+
+851
+00:41:20,400 --> 00:41:22,400
+ambitions.
+
+852
+00:41:22,400 --> 00:41:26,400
+And so, the income inequality that we're seeing increasing,
+
+853
+00:41:26,400 --> 00:41:29,400
+particularly in the United States, but elsewhere in the
+
+854
+00:41:29,400 --> 00:41:32,400
+world, is a consequence of this.
+
+855
+00:41:32,400 --> 00:41:34,900
+And so, much of the literature
+
+856
+00:41:34,900 --> 00:41:37,400
+on income inequality says it has
+
+857
+00:41:37,400 --> 00:41:40,400
+something to do with the information revolution, which is
+
+858
+00:41:40,400 --> 00:41:46,400
+eliminating jobs for low-income people, and the increasing
+
+859
+00:41:46,400 --> 00:41:48,400
+importance of education, which
+
+860
+00:41:48,400 --> 00:41:50,400
+rewards college graduates at the
+
+861
+00:41:50,400 --> 00:41:53,400
+expense of uneducated people.
+
+862
+00:41:53,400 --> 00:41:55,400
+But they say that the
+
+863
+00:41:55,400 --> 00:41:57,400
+real increase in inequality has not
+
+864
+00:41:57,400 --> 00:42:01,400
+been between high school graduates and college
+
+865
+00:42:01,400 --> 00:42:03,400
+graduates.
+
+866
+00:42:03,400 --> 00:42:06,400
+It's between the whole population and the top tenth of
+
+867
+00:42:06,400 --> 00:42:08,400
+a percent.
+
+868
+00:42:08,400 --> 00:42:10,400
+There is this small community
+
+869
+00:42:10,400 --> 00:42:12,400
+of super rich people that are
+
+870
+00:42:12,400 --> 00:42:17,400
+developing, who are very adept at lobbying governments.
+
+871
+00:42:17,400 --> 00:42:19,400
+This is a trend that's developing.
+
+872
+00:42:19,400 --> 00:42:25,400
+So, well, I think, to some extent, they are probably
+
+873
+00:42:25,400 --> 00:42:26,400
+right.
+
+874
+00:42:26,400 --> 00:42:27,900
+I think maybe they overstate
+
+875
+00:42:27,900 --> 00:42:29,400
+that, but I think it's a
+
+876
+00:42:29,400 --> 00:42:30,400
+concern.
+
+877
+00:42:30,400 --> 00:42:31,400
+But I think it's a concern.
+
+878
+00:42:31,400 --> 00:42:35,400
+I think that we do have democratic institutions, and
+
+879
+00:42:35,400 --> 00:42:40,400
+we can respond to that.
+
+880
+00:42:40,400 --> 00:42:45,400
+I think maybe they overstate it, because I think that
+
+881
+00:42:45,400 --> 00:42:47,400
+I've met billionaires in my life,
+
+882
+00:42:47,400 --> 00:42:49,400
+and I have a sense that
+
+883
+00:42:49,400 --> 00:42:53,400
+they are not, I guess they have, sometimes they might
+
+884
+00:42:53,400 --> 00:42:56,400
+have, I haven't met enough of them to make generalities
+
+885
+00:42:56,400 --> 00:42:57,900
+about billionaires, but maybe they
+
+886
+00:42:57,900 --> 00:42:59,400
+have a little bit of a
+
+887
+00:42:59,400 --> 00:43:00,400
+self-serving mentality.
+
+888
+00:43:00,400 --> 00:43:03,400
+But in some sense, they seem not to care.
+
+889
+00:43:03,400 --> 00:43:08,400
+They don't want to be viewed as evil.
+
+890
+00:43:08,400 --> 00:43:09,900
+They want to be, a lot
+
+891
+00:43:09,900 --> 00:43:11,400
+of what drove them to become
+
+892
+00:43:11,400 --> 00:43:13,400
+billionaires was a sense that
+
+893
+00:43:13,400 --> 00:43:15,400
+they would be a benefactor of
+
+894
+00:43:15,400 --> 00:43:16,400
+some sort.
+
+895
+00:43:16,400 --> 00:43:18,400
+And so, they're ready to give it away.
+
+896
+00:43:18,400 --> 00:43:22,400
+Anyway, that may be a casual impression.
+
+897
+00:43:22,400 --> 00:43:25,400
+But one thing that angers people about wealth is the
+
+898
+00:43:25,400 --> 00:43:28,400
+tendency of wealthy people to build monuments to themselves.
+
+899
+00:43:30,400 --> 00:43:32,400
+So, I was thinking of that
+
+900
+00:43:32,400 --> 00:43:34,400
+when I was at the J.P. Morgan
+
+901
+00:43:34,400 --> 00:43:38,400
+Library in New York.
+
+902
+00:43:38,400 --> 00:43:41,400
+And also, there's something called the Metropolitan Club,
+
+903
+00:43:41,400 --> 00:43:44,400
+which is another building that he built to himself.
+
+904
+00:43:44,400 --> 00:43:50,400
+This huge mansion in Manhattan that he built.
+
+905
+00:43:50,400 --> 00:43:53,400
+And I was thinking, is J.P. Morgan evil?
+
+906
+00:43:53,400 --> 00:43:54,400
+I mean, people are starving
+
+907
+00:43:54,400 --> 00:43:55,400
+in the world, and he's building
+
+908
+00:43:55,400 --> 00:43:57,400
+a mansion for himself.
+
+909
+00:43:57,400 --> 00:43:58,400
+But then I reflected further.
+
+910
+00:43:58,400 --> 00:43:59,400
+Here, I am having dinner in his house.
+
+911
+00:43:59,400 --> 00:44:01,400
+Here, I am having dinner in his mansion.
+
+912
+00:44:01,400 --> 00:44:03,400
+He's gone.
+
+913
+00:44:03,400 --> 00:44:08,900
+And is it really so
+
+914
+00:44:08,900 --> 00:44:14,400
+bad in the scheme of things?
+
+915
+00:44:20,400 --> 00:44:23,400
+So, it comes down to how you,
+
+916
+00:44:23,400 --> 00:44:26,400
+I guess you can view it in
+
+917
+00:44:26,400 --> 00:44:27,400
+different ways.
+
+918
+00:44:27,400 --> 00:44:28,400
+You can view J.P. Morgan as
+
+919
+00:44:28,400 --> 00:44:29,400
+a great success, who was a
+
+920
+00:44:29,400 --> 00:44:36,400
+great businessman, who ended up helping the world.
+
+921
+00:44:36,400 --> 00:44:40,400
+Or you can view him as a selfish monument builder.
+
+922
+00:44:46,400 --> 00:44:48,400
+But so, his life overlapped
+
+923
+00:44:48,400 --> 00:44:50,400
+with Karl Marx, that I told
+
+924
+00:44:50,400 --> 00:44:51,400
+you about.
+
+925
+00:44:51,400 --> 00:44:54,400
+But one of Karl Marx's themes
+
+926
+00:44:54,400 --> 00:44:57,400
+was that the system is unfair,
+
+927
+00:44:57,400 --> 00:44:58,400
+that some people have capital.
+
+928
+00:44:58,400 --> 00:44:59,400
+And I think that's the
+
+929
+00:44:59,400 --> 00:45:00,400
+essence of his book Das Kapital.
+
+930
+00:45:00,400 --> 00:45:01,900
+Some people have capital, and
+
+931
+00:45:01,900 --> 00:45:03,400
+they are wealthy as a result,
+
+932
+00:45:03,400 --> 00:45:04,400
+and they will continue to
+
+933
+00:45:04,400 --> 00:45:05,400
+be wealthy, and they'll make their
+
+934
+00:45:05,400 --> 00:45:07,400
+children wealthy as a result.
+
+935
+00:45:07,400 --> 00:45:10,400
+I actually have a quote from Karl Marx.
+
+936
+00:45:10,400 --> 00:45:12,400
+It is not because he is
+
+937
+00:45:12,400 --> 00:45:14,400
+a leader of industry that a man
+
+938
+00:45:14,400 --> 00:45:15,400
+is a capitalist.
+
+939
+00:45:15,400 --> 00:45:17,400
+On the contrary, he is a
+
+940
+00:45:17,400 --> 00:45:19,400
+leader of industry because he is a
+
+941
+00:45:19,400 --> 00:45:20,400
+capitalist.
+
+942
+00:45:20,400 --> 00:45:24,400
+The leadership of industry is an attribute of capital, just
+
+943
+00:45:24,400 --> 00:45:27,400
+as in feudal times, the functions of capital were not
+
+944
+00:45:27,400 --> 00:45:29,400
+the same.
+
+945
+00:45:29,400 --> 00:45:34,400
+The functions of general and judge were attributes of landed
+
+946
+00:45:34,400 --> 00:45:35,400
+property.
+
+947
+00:45:35,400 --> 00:45:42,400
+That comes from his book, Kapital, in 19th century.
+
+948
+00:45:42,400 --> 00:45:45,900
+So, Marx thought that ownership of
+
+949
+00:45:45,900 --> 00:45:49,400
+capital was like a key to
+
+950
+00:45:49,400 --> 00:45:54,400
+the good life, and that the population was excluded from
+
+951
+00:45:54,400 --> 00:45:55,400
+that.
+
+952
+00:45:55,400 --> 00:45:57,400
+But I'm going to come back to the democratization of
+
+953
+00:45:57,400 --> 00:45:58,400
+capitalism.
+
+954
+00:45:58,400 --> 00:46:01,400
+I think capitalism is a very important class in the
+
+955
+00:46:01,400 --> 00:46:02,400
+world of finance.
+
+956
+00:46:02,400 --> 00:46:05,400
+But it seems like capitalism, it isn't essential to
+
+957
+00:46:05,400 --> 00:46:10,400
+capitalism that some social class dominates capital.
+
+958
+00:46:10,400 --> 00:46:13,400
+We can have a capitalism that
+
+959
+00:46:13,400 --> 00:46:16,400
+is divided up among, that is
+
+960
+00:46:16,400 --> 00:46:19,400
+more of people's.
+
+961
+00:46:19,400 --> 00:46:25,400
+It belongs to people, and it's not a privileged class.
+
+962
+00:46:25,400 --> 00:46:26,900
+So, I think that's what I'm
+
+963
+00:46:26,900 --> 00:46:28,400
+going to talk about, is my
+
+964
+00:46:28,400 --> 00:46:29,400
+concern.
+
+965
+00:46:29,400 --> 00:46:30,900
+You know, Marx was impressed, I
+
+966
+00:46:30,900 --> 00:46:32,400
+think I may have said this
+
+967
+00:46:32,400 --> 00:46:36,400
+before, he was impressive because he read emerging
+
+968
+00:46:36,400 --> 00:46:37,400
+sociology.
+
+969
+00:46:37,400 --> 00:46:39,400
+And the sociology of his
+
+970
+00:46:39,400 --> 00:46:41,400
+day was beginning to recognize that
+
+971
+00:46:41,400 --> 00:46:43,400
+people do form themselves into
+
+972
+00:46:43,400 --> 00:46:45,400
+social classes, and they have a
+
+973
+00:46:45,400 --> 00:46:48,400
+sense of loyalty to others in their social class.
+
+974
+00:46:48,400 --> 00:46:49,900
+But I think that, you know,
+
+975
+00:46:49,900 --> 00:46:51,400
+anything he said is of limited
+
+976
+00:46:51,400 --> 00:46:53,400
+relevance today.
+
+977
+00:46:53,400 --> 00:46:55,400
+It was always of limited relevance.
+
+978
+00:46:55,400 --> 00:46:57,400
+And it's wrong in many ways.
+
+979
+00:46:57,400 --> 00:47:08,400
+But I'm thinking of the works of another important thinker,
+
+980
+00:47:08,400 --> 00:47:15,400
+Robert K. Merton, who is a sociologist at Columbia.
+
+981
+00:47:15,400 --> 00:47:18,900
+He is the father of
+
+982
+00:47:18,900 --> 00:47:22,400
+the Robert Merton economist, who helped
+
+983
+00:47:22,400 --> 00:47:24,400
+develop option theory.
+
+984
+00:47:24,400 --> 00:47:29,400
+But Robert K. Merton referred to what he called the
+
+985
+00:47:29,400 --> 00:47:32,400
+cosmopolitan class.
+
+986
+00:47:32,400 --> 00:47:35,400
+So, he was looking at social classes.
+
+987
+00:47:35,400 --> 00:47:36,900
+He picked a small town in
+
+988
+00:47:36,900 --> 00:47:38,400
+the United States and interviewed a
+
+989
+00:47:38,400 --> 00:47:42,400
+lot of people, and was trying to understand their class
+
+990
+00:47:42,400 --> 00:47:43,400
+structure, you know, who do
+
+991
+00:47:43,400 --> 00:47:44,400
+you identify with, who are you
+
+992
+00:47:44,400 --> 00:47:46,400
+loyal with.
+
+993
+00:47:46,400 --> 00:47:49,900
+And he was a deep thinker,
+
+994
+00:47:49,900 --> 00:47:53,400
+I think, and looked at what
+
+995
+00:47:53,400 --> 00:47:56,400
+really seemed to separate people.
+
+996
+00:47:56,400 --> 00:47:58,400
+And he decided that in
+
+997
+00:47:58,400 --> 00:48:00,400
+this little town, that there were
+
+998
+00:48:00,400 --> 00:48:02,400
+really two classes of people.
+
+999
+00:48:02,400 --> 00:48:08,400
+He called them cosmopolitans and locals.
+
+1000
+00:48:08,400 --> 00:48:14,400
+So, the cosmopolitans had a very different world view.
+
+1001
+00:48:14,400 --> 00:48:15,900
+They tended to not care about
+
+1002
+00:48:15,900 --> 00:48:17,400
+what's going on in their town.
+
+1003
+00:48:17,400 --> 00:48:20,400
+They would talk about national or international things.
+
+1004
+00:48:20,400 --> 00:48:23,400
+You know, you'd listen to what they say.
+
+1005
+00:48:23,400 --> 00:48:25,400
+They were focused outside.
+
+1006
+00:48:25,400 --> 00:48:27,400
+They thought the town was irrelevant.
+
+1007
+00:48:27,400 --> 00:48:32,400
+And it tended to have maybe higher level positions.
+
+1008
+00:48:32,400 --> 00:48:34,400
+The locals were people, though,
+
+1009
+00:48:34,400 --> 00:48:36,400
+who would talk all about their
+
+1010
+00:48:36,400 --> 00:48:39,400
+town, and they would talk about people they know.
+
+1011
+00:48:39,400 --> 00:48:44,400
+They seemed to value their connections within the town.
+
+1012
+00:48:44,400 --> 00:48:47,400
+And when you asked for opinions
+
+1013
+00:48:47,400 --> 00:48:50,400
+about the local town, the locals
+
+1014
+00:48:50,400 --> 00:48:52,400
+would tend to give almost loving expressions.
+
+1015
+00:48:52,400 --> 00:48:54,400
+This is a great town.
+
+1016
+00:48:54,400 --> 00:48:56,400
+We have great people here.
+
+1017
+00:48:56,400 --> 00:48:59,400
+And the cosmopolitans would act totally indifferent.
+
+1018
+00:48:59,400 --> 00:49:01,400
+And they don't know anybody.
+
+1019
+00:49:01,400 --> 00:49:02,900
+They don't know who's the head
+
+1020
+00:49:02,900 --> 00:49:04,400
+of the fire department, or who
+
+1021
+00:49:04,400 --> 00:49:06,900
+holds the, maybe they know
+
+1022
+00:49:06,900 --> 00:49:09,400
+the principal of the school, because
+
+1023
+00:49:09,400 --> 00:49:11,400
+they may have their kid in the school.
+
+1024
+00:49:11,400 --> 00:49:14,400
+But beyond that, they don't know anything about their town.
+
+1025
+00:49:14,400 --> 00:49:18,400
+So, Merton wrote that over 50 years ago.
+
+1026
+00:49:18,400 --> 00:49:21,400
+I have a sense that it's developing further, this split.
+
+1027
+00:49:21,400 --> 00:49:24,400
+Between cosmopolitans and locals.
+
+1028
+00:49:24,400 --> 00:49:27,400
+And it's developing on a world scale.
+
+1029
+00:49:27,400 --> 00:49:31,400
+There is now a world cosmopolitan class.
+
+1030
+00:49:31,400 --> 00:49:33,900
+And with increased communications, we're
+
+1031
+00:49:33,900 --> 00:49:36,400
+kind of split that way.
+
+1032
+00:49:36,400 --> 00:49:38,400
+So, people around the world
+
+1033
+00:49:38,400 --> 00:49:40,400
+who are learning to speak English,
+
+1034
+00:49:40,400 --> 00:49:43,400
+well, that's the world language.
+
+1035
+00:49:43,400 --> 00:49:46,400
+People who travel around the world.
+
+1036
+00:49:46,400 --> 00:49:50,400
+And people who are finance savvy.
+
+1037
+00:49:51,400 --> 00:49:54,900
+And people who are also
+
+1038
+00:49:54,900 --> 00:49:58,400
+are developing into a social class.
+
+1039
+00:49:58,400 --> 00:50:02,400
+And I think that there are animosities and conflicts.
+
+1040
+00:50:02,400 --> 00:50:04,400
+But it's a little bit
+
+1041
+00:50:04,400 --> 00:50:06,400
+harder to have, because the cosmopolitans
+
+1042
+00:50:06,400 --> 00:50:09,400
+are so scattered, and they're relatives of us.
+
+1043
+00:50:09,400 --> 00:50:15,400
+So, it's not as intense a social contrast.
+
+1044
+00:50:15,400 --> 00:50:17,900
+But I think that the animosities that we are
+
+1045
+00:50:17,900 --> 00:50:20,400
+feeling now, have to do with the fact that
+
+1046
+00:50:20,400 --> 00:50:24,400
+cosmopolitans know and understand finance.
+
+1047
+00:50:24,400 --> 00:50:28,400
+And they have lawyers and advisors.
+
+1048
+00:50:28,400 --> 00:50:33,400
+The rest of the population feels excluded from that.
+
+1049
+00:50:33,400 --> 00:50:37,900
+So, that brings us to what
+
+1050
+00:50:37,900 --> 00:50:42,400
+I said was the democratization of finance.
+
+1051
+00:50:42,400 --> 00:50:44,900
+And this is a theme of
+
+1052
+00:50:44,900 --> 00:50:47,400
+my own, that I've been emphasizing.
+
+1053
+00:50:47,400 --> 00:50:48,900
+So, the democratization of finance is
+
+1054
+00:50:48,900 --> 00:50:50,400
+sort of trying to make it
+
+1055
+00:50:50,400 --> 00:50:55,400
+move beyond the cosmopolitan class.
+
+1056
+00:50:55,400 --> 00:50:59,900
+So, cosmopolitans know how to get
+
+1057
+00:50:59,900 --> 00:51:04,400
+things done, how to raise capital.
+
+1058
+00:51:04,400 --> 00:51:07,400
+And they know how to manage their
+
+1059
+00:51:07,400 --> 00:51:10,400
+risks, so they don't get into trouble.
+
+1060
+00:51:10,400 --> 00:51:13,900
+Inequality is substantially due to
+
+1061
+00:51:13,900 --> 00:51:17,400
+a failure to manage risks.
+
+1062
+00:51:17,400 --> 00:51:21,400
+So, in the, right?
+
+1063
+00:51:21,400 --> 00:51:24,400
+I mean, some inequality is due to fundamental things,
+
+1064
+00:51:24,400 --> 00:51:27,400
+like someone is talented and can make more money.
+
+1065
+00:51:27,400 --> 00:51:29,900
+But it's also due to
+
+1066
+00:51:29,900 --> 00:51:32,400
+random things that are not controlled.
+
+1067
+00:51:32,400 --> 00:51:35,400
+Notably, in the current financial crisis, we
+
+1068
+00:51:35,400 --> 00:51:38,400
+saw a huge drop in home values.
+
+1069
+00:51:38,400 --> 00:51:40,400
+And we saw people who bought
+
+1070
+00:51:40,400 --> 00:51:42,400
+homes at the top of the market,
+
+1071
+00:51:42,400 --> 00:51:44,400
+and then they find that their mortgages
+
+1072
+00:51:44,400 --> 00:51:46,400
+are worth more than their homes are.
+
+1073
+00:51:46,400 --> 00:51:49,400
+And so, they have a negative net worth.
+
+1074
+00:51:49,400 --> 00:51:51,400
+They're in trouble.
+
+1075
+00:51:51,400 --> 00:51:52,400
+They would be bankrupt.
+
+1076
+00:51:52,400 --> 00:51:55,400
+Maybe they're not bankrupt yet, but they're verging on that.
+
+1077
+00:51:55,400 --> 00:51:57,400
+They're very unhappy.
+
+1078
+00:51:57,400 --> 00:52:00,400
+This was a failure, I think,
+
+1079
+00:52:00,400 --> 00:52:03,400
+of bringing finance to the people.
+
+1080
+00:52:03,400 --> 00:52:06,400
+So, it's not democratizing finance.
+
+1081
+00:52:06,400 --> 00:52:12,400
+We haven't finished democratizing finance.
+
+1082
+00:52:12,400 --> 00:52:13,900
+So, you know, it's kind
+
+1083
+00:52:13,900 --> 00:52:15,400
+of chaotic, the way things work,
+
+1084
+00:52:15,400 --> 00:52:18,400
+for most people.
+
+1085
+00:52:18,400 --> 00:52:21,400
+Most people who, A, do not have a lawyer.
+
+1086
+00:52:21,400 --> 00:52:24,400
+B, do not have a financial advisor.
+
+1087
+00:52:24,400 --> 00:52:26,400
+C, do not have an accountant.
+
+1088
+00:52:26,400 --> 00:52:27,400
+All right?
+
+1089
+00:52:27,400 --> 00:52:29,900
+Or maybe they go to
+
+1090
+00:52:29,900 --> 00:52:32,400
+some, you know, storefront taxpaying service.
+
+1091
+00:52:32,400 --> 00:52:35,400
+But that's as far as they go.
+
+1092
+00:52:35,400 --> 00:52:38,400
+And these people make a mess of their lives.
+
+1093
+00:52:38,400 --> 00:52:41,400
+So, for example, we have laws
+
+1094
+00:52:41,400 --> 00:52:44,400
+that allow people to go bankrupt
+
+1095
+00:52:44,400 --> 00:52:48,400
+and wipe off their debts.
+
+1096
+00:52:48,400 --> 00:52:50,400
+All you have to do, if
+
+1097
+00:52:50,400 --> 00:52:52,400
+you are in trouble, financial trouble,
+
+1098
+00:52:52,400 --> 00:52:55,400
+is go to a lawyer and say,
+
+1099
+00:52:55,400 --> 00:52:58,400
+can you help me file for Chapter 7 bankruptcy?
+
+1100
+00:52:58,400 --> 00:53:01,400
+I'd like to wipe out all my debts.
+
+1101
+00:53:01,400 --> 00:53:02,900
+But usually, you have to
+
+1102
+00:53:02,900 --> 00:53:04,400
+have $1,000 to pay the lawyer
+
+1103
+00:53:04,400 --> 00:53:06,400
+to help you do this.
+
+1104
+00:53:06,400 --> 00:53:09,400
+And these people can't get it together to do that.
+
+1105
+00:53:09,400 --> 00:53:10,400
+So, what happens?
+
+1106
+00:53:10,400 --> 00:53:13,400
+What happens to this typical person who's uneducated,
+
+1107
+00:53:13,400 --> 00:53:15,400
+has gotten deeply in debt?
+
+1108
+00:53:15,400 --> 00:53:17,400
+What do you think happens?
+
+1109
+00:53:17,400 --> 00:53:19,400
+Do they ever declare bankruptcy?
+
+1110
+00:53:19,400 --> 00:53:20,400
+No.
+
+1111
+00:53:20,400 --> 00:53:21,400
+What do they do?
+
+1112
+00:53:21,400 --> 00:53:24,400
+They stop answering the phone, because they're getting these
+
+1113
+00:53:24,400 --> 00:53:27,400
+dunning calls from creditors.
+
+1114
+00:53:27,400 --> 00:53:31,400
+And so, the creditors then, it's called informal bankruptcy.
+
+1115
+00:53:31,400 --> 00:53:33,900
+They will go to court and
+
+1116
+00:53:33,900 --> 00:53:36,400
+ask the judge to allow them to
+
+1117
+00:53:36,400 --> 00:53:38,900
+garnish the wages of the person who
+
+1118
+00:53:38,900 --> 00:53:41,400
+won't pay and won't answer the phone.
+
+1119
+00:53:41,400 --> 00:53:43,400
+So, they'll take another deduction from the person
+
+1120
+00:53:43,400 --> 00:53:46,400
+who won't pay and the person's paycheck eventually,
+
+1121
+00:53:46,400 --> 00:53:48,400
+the person never figures it out.
+
+1122
+00:53:48,400 --> 00:53:50,400
+His paycheck just went down.
+
+1123
+00:53:50,400 --> 00:53:52,400
+He's paying off his debt.
+
+1124
+00:53:52,400 --> 00:53:53,400
+What a mess.
+
+1125
+00:53:53,400 --> 00:54:00,400
+But that's because of the failure of financial institutions
+
+1126
+00:54:00,400 --> 00:54:03,400
+to handle things well.
+
+1127
+00:54:03,400 --> 00:54:08,400
+So, Elizabeth Warren, who is at, I mentioned her before,
+
+1128
+00:54:08,400 --> 00:54:10,400
+at the Harvard Law School,
+
+1129
+00:54:10,400 --> 00:54:12,400
+has written a couple of books
+
+1130
+00:54:12,400 --> 00:54:15,400
+about the problems that people face.
+
+1131
+00:54:15,400 --> 00:54:19,400
+And it's a testimony to the success of our democratic
+
+1132
+00:54:19,400 --> 00:54:21,900
+government that she managed to
+
+1133
+00:54:21,900 --> 00:54:24,400
+persuade Dodd and Frank to put
+
+1134
+00:54:24,400 --> 00:54:26,400
+it in her bill, in their bill.
+
+1135
+00:54:30,400 --> 00:54:39,400
+The Consumer Financial Protection Bureau, which would
+
+1136
+00:54:39,400 --> 00:54:42,400
+create a government agency that would try to limit the
+
+1137
+00:54:42,400 --> 00:54:50,400
+abuse of lower-income, less-educated people.
+
+1138
+00:54:50,400 --> 00:54:52,400
+We were hoping that she would
+
+1139
+00:54:52,400 --> 00:54:54,400
+be made head of her bureau,
+
+1140
+00:54:54,400 --> 00:54:56,900
+but it turns out that she
+
+1141
+00:54:56,900 --> 00:54:59,400
+is only acting, I don't know what
+
+1142
+00:54:59,400 --> 00:55:02,400
+her exact title is, transitioning into finding head
+
+1143
+00:55:02,400 --> 00:55:06,400
+for the bureau, because the lobbyists that I told you
+
+1144
+00:55:06,400 --> 00:55:10,400
+about representing credit card or mortgage industries are
+
+1145
+00:55:10,400 --> 00:55:12,400
+adamantly opposed to seeing her.
+
+1146
+00:55:12,400 --> 00:55:14,900
+They're not seeing her put
+
+1147
+00:55:14,900 --> 00:55:17,400
+on as head of the bureau.
+
+1148
+00:55:17,400 --> 00:55:19,400
+So, it looks like it's politically impossible to put
+
+1149
+00:55:19,400 --> 00:55:20,400
+her in charge of it.
+
+1150
+00:55:20,400 --> 00:55:22,400
+But she's at least involved
+
+1151
+00:55:22,400 --> 00:55:24,400
+in helping pick the person who
+
+1152
+00:55:24,400 --> 00:55:26,400
+would make that happen.
+
+1153
+00:55:26,400 --> 00:55:31,400
+So, I think these are nice steps forward.
+
+1154
+00:55:31,400 --> 00:55:34,900
+But I wrote a book, let me
+
+1155
+00:55:34,900 --> 00:55:38,400
+just mention my own book, in 2008,
+
+1156
+00:55:38,400 --> 00:55:40,400
+called Subprime Solution.
+
+1157
+00:55:42,400 --> 00:55:49,400
+And so, I was trying to think of the future.
+
+1158
+00:55:49,400 --> 00:55:53,400
+Again, I'm trying to think creatively and expansively
+
+1159
+00:55:53,400 --> 00:56:00,400
+without thinking punitively, as Elizabeth Warren seems often
+
+1160
+00:56:00,400 --> 00:56:01,400
+to do.
+
+1161
+00:56:01,400 --> 00:56:03,900
+Her view tends to be that
+
+1162
+00:56:03,900 --> 00:56:06,400
+there are exploiters who need to be
+
+1163
+00:56:06,400 --> 00:56:07,400
+regulated.
+
+1164
+00:56:07,400 --> 00:56:10,400
+But I'm thinking that maybe there's something positive we
+
+1165
+00:56:10,400 --> 00:56:11,400
+can do.
+
+1166
+00:56:11,400 --> 00:56:13,400
+So, I have various ideas.
+
+1167
+00:56:13,400 --> 00:56:16,900
+Also, I had, this was 2008,
+
+1168
+00:56:16,900 --> 00:56:20,400
+I also had another book, New
+
+1169
+00:56:20,400 --> 00:56:27,400
+Financial Order in 2003.
+
+1170
+00:56:27,400 --> 00:56:30,400
+I'm getting on toward 10 books now in my life.
+
+1171
+00:56:30,400 --> 00:56:32,400
+I'm having trouble remembering which one is which.
+
+1172
+00:56:32,400 --> 00:56:34,400
+I was just commenting to my wife.
+
+1173
+00:56:34,400 --> 00:56:36,400
+It's a little bit of a problem.
+
+1174
+00:56:36,400 --> 00:56:38,400
+But somewhere in these books, one
+
+1175
+00:56:38,400 --> 00:56:40,400
+of the ideas I had actually
+
+1176
+00:56:40,400 --> 00:56:47,400
+it's in New Financial Order, is for livelihood insurance.
+
+1177
+00:56:47,400 --> 00:56:49,400
+That would help protect, this
+
+1178
+00:56:49,400 --> 00:56:51,400
+is a financial institution that
+
+1179
+00:56:51,400 --> 00:56:53,400
+would protect people's livelihoods.
+
+1180
+00:56:53,400 --> 00:56:55,400
+I viewed it as an expansion
+
+1181
+00:56:55,400 --> 00:56:57,400
+of something that we got already
+
+1182
+00:56:57,400 --> 00:56:59,400
+called disability insurance.
+
+1183
+00:56:59,400 --> 00:57:00,400
+In fact, it's been offered
+
+1184
+00:57:00,400 --> 00:57:01,400
+by the government in the United
+
+1185
+00:57:01,400 --> 00:57:04,400
+States as part of the Social Security system.
+
+1186
+00:57:04,400 --> 00:57:06,400
+But it handles certain
+
+1187
+00:57:06,400 --> 00:57:08,400
+insurance against certain specific kinds
+
+1188
+00:57:08,400 --> 00:57:09,400
+of risks to livelihoods.
+
+1189
+00:57:09,400 --> 00:57:11,400
+Namely, health risks.
+
+1190
+00:57:11,400 --> 00:57:13,400
+If you become paralyzed, if
+
+1191
+00:57:13,400 --> 00:57:15,400
+you become mentally ill, any of
+
+1192
+00:57:15,400 --> 00:57:17,900
+those things that a doctor
+
+1193
+00:57:17,900 --> 00:57:20,400
+can attest to is insured already.
+
+1194
+00:57:20,400 --> 00:57:22,400
+Very important, because things like
+
+1195
+00:57:22,400 --> 00:57:24,400
+that happen to people, and
+
+1196
+00:57:24,400 --> 00:57:26,400
+they can't earn a living anymore.
+
+1197
+00:57:26,400 --> 00:57:28,400
+And it happens to young people.
+
+1198
+00:57:28,400 --> 00:57:30,400
+And so, we have private insurance.
+
+1199
+00:57:30,400 --> 00:57:34,400
+The government has taken over part of disability insurance,
+
+1200
+00:57:34,400 --> 00:57:37,400
+but there's also private disability insurance.
+
+1201
+00:57:37,400 --> 00:57:39,400
+But none of this covers the biggest threats to people's
+
+1202
+00:57:39,400 --> 00:57:40,400
+livelihoods.
+
+1203
+00:57:40,400 --> 00:57:46,400
+Most threats to livelihoods are not due to medical events.
+
+1204
+00:57:46,400 --> 00:57:48,400
+It's economic events that make
+
+1205
+00:57:48,400 --> 00:57:50,400
+you, you know, you're 40 years
+
+1206
+00:57:50,400 --> 00:57:52,900
+old, you've trained for,
+
+1207
+00:57:52,900 --> 00:57:55,400
+let's say, nuclear engineering, okay?
+
+1208
+00:57:55,400 --> 00:58:00,400
+And then we have the Fukushima or the Sendai disasters.
+
+1209
+00:58:00,400 --> 00:58:01,400
+And then suddenly, no government
+
+1210
+00:58:01,400 --> 00:58:02,400
+of the world wants to build
+
+1211
+00:58:02,400 --> 00:58:04,400
+nuclear plants anymore.
+
+1212
+00:58:04,400 --> 00:58:05,900
+So, here you are, you're
+
+1213
+00:58:05,900 --> 00:58:07,400
+40 years old, you're reaching your
+
+1214
+00:58:07,400 --> 00:58:08,400
+prime.
+
+1215
+00:58:08,400 --> 00:58:09,900
+You would normally be making a
+
+1216
+00:58:09,900 --> 00:58:11,400
+good high income, but now it's
+
+1217
+00:58:11,400 --> 00:58:12,400
+useless.
+
+1218
+00:58:12,400 --> 00:58:14,400
+No fault of your own.
+
+1219
+00:58:14,400 --> 00:58:16,400
+This is a risk that you cannot
+
+1220
+00:58:16,400 --> 00:58:18,400
+now insure, and it's part of the
+
+1221
+00:58:18,400 --> 00:58:20,400
+thing that contributes to inequality.
+
+1222
+00:58:20,400 --> 00:58:23,400
+And so, I think that we can insure those things.
+
+1223
+00:58:23,400 --> 00:58:25,400
+And in the future, as finance
+
+1224
+00:58:25,400 --> 00:58:27,400
+develops, these are some of the
+
+1225
+00:58:27,400 --> 00:58:30,400
+missions that we have to do.
+
+1226
+00:58:30,400 --> 00:58:35,400
+Another thing is home equity insurance that I mentioned
+
+1227
+00:58:35,400 --> 00:58:36,400
+before, that the credit card.
+
+1228
+00:58:36,400 --> 00:58:38,400
+I mentioned before that the
+
+1229
+00:58:38,400 --> 00:58:40,400
+crisis was caused by a failure
+
+1230
+00:58:40,400 --> 00:58:44,400
+to insure against home price risk.
+
+1231
+00:58:44,400 --> 00:58:48,400
+I've been working on trying to get home equity insurance
+
+1232
+00:58:48,400 --> 00:58:49,400
+started.
+
+1233
+00:58:49,400 --> 00:58:52,400
+Some of my colleagues at
+
+1234
+00:58:52,400 --> 00:58:55,400
+Yale, Will Goetzman and Barry Nailbuff
+
+1235
+00:58:55,400 --> 00:59:00,400
+particularly, have actually created an insurance policy that
+
+1236
+00:59:00,400 --> 00:59:04,400
+would insure homes against price declines in the city of
+
+1237
+00:59:04,400 --> 00:59:05,400
+Syracuse, New York.
+
+1238
+00:59:05,400 --> 00:59:06,900
+But it didn't really take off,
+
+1239
+00:59:06,900 --> 00:59:08,400
+so this is still not happening
+
+1240
+00:59:08,400 --> 00:59:10,400
+yet.
+
+1241
+00:59:10,400 --> 00:59:11,400
+But here's the idea.
+
+1242
+00:59:11,400 --> 00:59:15,400
+You can buy insurance against your home burning down.
+
+1243
+00:59:15,400 --> 00:59:18,400
+That goes back 300 years.
+
+1244
+00:59:18,400 --> 00:59:20,400
+But how often do homes burn down?
+
+1245
+00:59:20,400 --> 00:59:21,400
+Not very often.
+
+1246
+00:59:21,400 --> 00:59:23,400
+What's the real risk that you face?
+
+1247
+00:59:23,400 --> 00:59:27,400
+It's the loss of economic value of a home.
+
+1248
+00:59:27,400 --> 00:59:34,400
+And so, that is not insured anywhere in the world.
+
+1249
+00:59:34,400 --> 00:59:35,400
+Why not?
+
+1250
+00:59:35,400 --> 00:59:36,400
+We could insure it.
+
+1251
+00:59:36,400 --> 00:59:40,400
+I think these are things that would, developing home equity
+
+1252
+00:59:40,400 --> 00:59:44,400
+insurance or livelihood insurance would be positive
+
+1253
+00:59:44,400 --> 00:59:45,400
+steps.
+
+1254
+00:59:45,400 --> 00:59:48,400
+I have one more example from this book, Subprime Solution.
+
+1255
+00:59:48,400 --> 00:59:59,400
+Something I call a continuous workout mortgage.
+
+1256
+00:59:59,400 --> 01:00:00,400
+Okay.
+
+1257
+01:00:00,400 --> 01:00:01,900
+In the financial crisis today,
+
+1258
+01:00:01,900 --> 01:00:03,400
+right now, there's a lot of
+
+1259
+01:00:03,400 --> 01:00:04,900
+people who are on the
+
+1260
+01:00:04,900 --> 01:00:06,400
+verge of defaulting on their mortgages.
+
+1261
+01:00:06,400 --> 01:00:09,400
+Right now, there are 2.5 million households that are on
+
+1262
+01:00:09,400 --> 01:00:12,400
+the verge of defaulting on their mortgages.
+
+1263
+01:00:12,400 --> 01:00:13,900
+Haven't yet, but they are
+
+1264
+01:00:13,900 --> 01:00:15,400
+at risk of defaulting and being
+
+1265
+01:00:15,400 --> 01:00:17,400
+thrown out of their houses.
+
+1266
+01:00:17,400 --> 01:00:20,400
+So, that's something like close to 10 million people.
+
+1267
+01:00:20,400 --> 01:00:22,400
+Big time event.
+
+1268
+01:00:22,400 --> 01:00:24,400
+Why is it that they're being thrown out?
+
+1269
+01:00:24,400 --> 01:00:26,400
+Well, because their home value has dropped.
+
+1270
+01:00:26,400 --> 01:00:28,400
+Maybe they're unemployed, their income has dropped.
+
+1271
+01:00:28,400 --> 01:00:31,400
+We still have 8.8% unemployment.
+
+1272
+01:00:31,400 --> 01:00:32,400
+And they can't pay their mortgage.
+
+1273
+01:00:32,400 --> 01:00:36,400
+So, they think it's futile, because they're paying a debt
+
+1274
+01:00:36,400 --> 01:00:38,400
+that is bigger than their wealth.
+
+1275
+01:00:38,400 --> 01:00:40,400
+And so, maybe they don't feel
+
+1276
+01:00:40,400 --> 01:00:42,400
+in a very good mood about it.
+
+1277
+01:00:42,400 --> 01:00:43,900
+They go back to the mortgage
+
+1278
+01:00:43,900 --> 01:00:45,400
+lender and ask for a workout.
+
+1279
+01:00:45,400 --> 01:00:48,400
+And the mortgage lender typically says no.
+
+1280
+01:00:48,400 --> 01:00:50,400
+The government has done a
+
+1281
+01:00:50,400 --> 01:00:52,400
+sequence of programs to try to
+
+1282
+01:00:52,400 --> 01:00:57,400
+encourage the servicers of mortgages to do workouts.
+
+1283
+01:00:57,400 --> 01:01:00,400
+That means lower their payments or somehow make it easier.
+
+1284
+01:01:00,400 --> 01:01:02,400
+But it's been disappointing.
+
+1285
+01:01:02,400 --> 01:01:04,400
+They haven't succeeded in
+
+1286
+01:01:04,400 --> 01:01:06,400
+getting cooperation on these programs.
+
+1287
+01:01:06,400 --> 01:01:10,400
+It's one of the big tragedies of the financial crisis.
+
+1288
+01:01:10,400 --> 01:01:14,400
+So, what I propose is that we should think forward.
+
+1289
+01:01:14,400 --> 01:01:15,400
+I don't know how we
+
+1290
+01:01:15,400 --> 01:01:16,400
+can solve this mess right now.
+
+1291
+01:01:16,400 --> 01:01:19,400
+But think about in the future
+
+1292
+01:01:19,400 --> 01:01:22,400
+having mortgages that have a pre-planned workout.
+
+1293
+01:01:22,400 --> 01:01:30,400
+And the workout would lower the cost of,
+
+1294
+01:01:30,400 --> 01:01:36,400
+lower the payment on the mortgage continuously.
+
+1295
+01:01:36,400 --> 01:01:38,400
+The other problem with workouts is,
+
+1296
+01:01:38,400 --> 01:01:41,400
+even when people get a workout on their mortgage,
+
+1297
+01:01:41,400 --> 01:01:44,400
+they default anyway, because things get even worse later.
+
+1298
+01:01:44,400 --> 01:01:46,400
+You've got one workout, you go back and say,
+
+1299
+01:01:46,400 --> 01:01:48,400
+I'd like another workout.
+
+1300
+01:01:48,400 --> 01:01:50,400
+They say, you've got to be kidding.
+
+1301
+01:01:50,400 --> 01:01:53,400
+Anyway, the government, like the HAMP program that
+
+1302
+01:01:53,400 --> 01:01:58,400
+the Obama administration has promoted,
+
+1303
+01:01:58,400 --> 01:02:00,400
+has only one workout for each.
+
+1304
+01:02:00,400 --> 01:02:02,400
+And that's for families.
+
+1305
+01:02:02,400 --> 01:02:05,400
+So, I think they should be continuous and automatic.
+
+1306
+01:02:05,400 --> 01:02:14,400
+And they don't require anyone to apply for a workout.
+
+1307
+01:02:14,400 --> 01:02:17,400
+Okay.
+
+1308
+01:02:17,400 --> 01:02:19,400
+So, how much time do I have?
+
+1309
+01:02:19,400 --> 01:02:21,400
+I think I'll move to my last subject,
+
+1310
+01:02:21,400 --> 01:02:25,400
+which is your career.
+
+1311
+01:02:25,400 --> 01:02:29,400
+Because you are young people.
+
+1312
+01:02:29,400 --> 01:02:33,400
+And you may be wondering what you want to do.
+
+1313
+01:02:33,400 --> 01:02:40,400
+So, I think that,
+
+1314
+01:02:40,400 --> 01:02:43,400
+I think maybe I've reflected on this before.
+
+1315
+01:02:43,400 --> 01:02:47,400
+You probably feel that you want to do something important.
+
+1316
+01:02:47,400 --> 01:02:52,400
+And you want a sort of perfect career.
+
+1317
+01:02:52,400 --> 01:02:55,400
+Something that tells a story,
+
+1318
+01:02:55,400 --> 01:02:58,400
+makes a story of your life.
+
+1319
+01:02:58,400 --> 01:03:05,400
+And ultimately serves for good causes.
+
+1320
+01:03:05,400 --> 01:03:11,400
+But it's, when you read Unger,
+
+1321
+01:03:11,400 --> 01:03:14,400
+you don't get an inspiration like that, right?
+
+1322
+01:03:14,400 --> 01:03:16,400
+You get, he says, write
+
+1323
+01:03:16,400 --> 01:03:18,400
+a check right now to UNICEF.
+
+1324
+01:03:18,400 --> 01:03:19,400
+Well, I can do that.
+
+1325
+01:03:19,400 --> 01:03:22,400
+But does that, you know, it seems unrewarding,
+
+1326
+01:03:22,400 --> 01:03:24,400
+just to give to charity.
+
+1327
+01:03:24,400 --> 01:03:26,400
+I can just live like a monk, right?
+
+1328
+01:03:26,400 --> 01:03:31,400
+I could take a job at a hamburger joint, right?
+
+1329
+01:03:31,400 --> 01:03:34,400
+And then give all my money away to UNICEF.
+
+1330
+01:03:34,400 --> 01:03:36,400
+Some of that doesn't feel right.
+
+1331
+01:03:36,400 --> 01:03:38,400
+Because I think that, you know,
+
+1332
+01:03:38,400 --> 01:03:40,400
+you know that you have abilities.
+
+1333
+01:03:40,400 --> 01:03:42,400
+And you want to see them flourish.
+
+1334
+01:03:42,400 --> 01:03:45,400
+And you want to, that's why I think,
+
+1335
+01:03:45,400 --> 01:03:47,400
+you shouldn't be flipping hamburgers
+
+1336
+01:03:47,400 --> 01:03:48,400
+and giving the money away.
+
+1337
+01:03:48,400 --> 01:03:51,400
+That's not what you should be doing now.
+
+1338
+01:03:51,400 --> 01:03:53,400
+And instead, it would be learning things
+
+1339
+01:03:53,400 --> 01:03:55,400
+that make it possible
+
+1340
+01:03:55,400 --> 01:03:59,400
+to do good works.
+
+1341
+01:03:59,400 --> 01:04:03,400
+So, I don't know what,
+
+1342
+01:04:03,400 --> 01:04:05,400
+what is the perfect career?
+
+1343
+01:04:05,400 --> 01:04:10,400
+I mean, I mentioned Paul Allen or Bill Gates.
+
+1344
+01:04:10,400 --> 01:04:13,400
+Bill Gates, I shouldn't give you an example
+
+1345
+01:04:13,400 --> 01:04:14,400
+of dropping out of college,
+
+1346
+01:04:14,400 --> 01:04:16,400
+but he dropped out of college.
+
+1347
+01:04:16,400 --> 01:04:18,400
+And by the way, you should do that
+
+1348
+01:04:18,400 --> 01:04:22,400
+if you have a Microsoft-size idea.
+
+1349
+01:04:22,400 --> 01:04:24,400
+But I think I've said this before.
+
+1350
+01:04:24,400 --> 01:04:25,400
+We took,
+
+1351
+01:04:25,400 --> 01:04:27,400
+we took a lot of time to do this.
+
+1352
+01:04:27,400 --> 01:04:28,400
+But,
+
+1353
+01:04:34,402 --> 01:04:34,662
+ألا
+
+1354
+01:04:35,970 --> 01:04:37,250
+I don't know, what is a perfect career?
+
+1355
+01:04:37,250 --> 01:04:38,750
+I'll give you another example.
+
+1356
+01:04:38,750 --> 01:04:40,370
+Muhammad Yunus.
+
+1357
+01:04:40,370 --> 01:04:41,610
+You've heard of him.
+
+1358
+01:04:46,050 --> 01:04:49,320
+He went to a Ph.D.
+
+1359
+01:04:49,320 --> 01:04:52,590
+program at Vanderbilt University, got his
+
+1360
+01:04:52,590 --> 01:04:57,850
+Ph.D. in 1969, became an assistant professor of
+
+1361
+01:04:57,850 --> 01:05:04,070
+economics at Middle Tennessee State University.
+
+1362
+01:05:04,070 --> 01:05:05,980
+But then the big thing that
+
+1363
+01:05:05,980 --> 01:05:07,890
+he did is, he went back to
+
+1364
+01:05:07,890 --> 01:05:21,890
+Bangladesh and founded the Grameen Bank, which specialized
+
+1365
+01:05:21,890 --> 01:05:27,750
+in making microfinance loans in Bangladesh.
+
+1366
+01:05:27,750 --> 01:05:29,010
+And that was in 76.
+
+1367
+01:05:32,110 --> 01:05:34,010
+Grameen apparently means, of the
+
+1368
+01:05:34,010 --> 01:05:34,070
+Vancouver.
+
+1369
+01:05:34,070 --> 01:05:37,090
+It's a village in Bengali.
+
+1370
+01:05:37,090 --> 01:05:38,150
+But what he did is, he
+
+1371
+01:05:38,150 --> 01:05:39,210
+conceived of a new way of
+
+1372
+01:05:39,210 --> 01:05:44,430
+making loans to very low-income people.
+
+1373
+01:05:44,430 --> 01:05:49,730
+Banks before Yunus didn't have much interest in lending to
+
+1374
+01:05:49,730 --> 01:05:52,970
+low-income people, because the costs of administering the
+
+1375
+01:05:52,970 --> 01:05:56,030
+loans seemed to be too high relative to
+
+1376
+01:05:56,030 --> 01:05:57,670
+what you could get back.
+
+1377
+01:05:57,670 --> 01:06:00,030
+But he had a scheme for getting people to
+
+1378
+01:06:00,030 --> 01:06:02,710
+pay back the loans.
+
+1379
+01:06:02,710 --> 01:06:04,010
+Often, they would make loans to
+
+1380
+01:06:04,010 --> 01:06:08,650
+women in groups, impoverished women.
+
+1381
+01:06:08,650 --> 01:06:09,670
+But he would lend to the
+
+1382
+01:06:09,670 --> 01:06:10,690
+whole group and say that the whole
+
+1383
+01:06:10,690 --> 01:06:13,850
+group is jointly liable to the debt.
+
+1384
+01:06:13,850 --> 01:06:15,890
+That's the only way we'll make it.
+
+1385
+01:06:15,890 --> 01:06:18,470
+And it's for business, for starting a business, like
+
+1386
+01:06:18,470 --> 01:06:19,910
+getting a wheeled cart where
+
+1387
+01:06:19,910 --> 01:06:21,350
+you could sell food on the
+
+1388
+01:06:21,350 --> 01:06:24,410
+street, some simple, low business like that.
+
+1389
+01:06:24,410 --> 01:06:26,020
+You can't do it unless you
+
+1390
+01:06:26,020 --> 01:06:27,630
+get a little bit of capital, enough
+
+1391
+01:06:27,630 --> 01:06:29,320
+to buy the cart and buy
+
+1392
+01:06:29,320 --> 01:06:31,010
+the first food to start selling.
+
+1393
+01:06:31,010 --> 01:06:32,890
+And these women can't get that.
+
+1394
+01:06:32,890 --> 01:06:33,010
+They can't.
+
+1395
+01:06:33,010 --> 01:06:33,070
+They can't.
+
+1396
+01:06:33,070 --> 01:06:33,130
+They can't.
+
+1397
+01:06:33,130 --> 01:06:33,230
+They can't.
+
+1398
+01:06:33,230 --> 01:06:33,310
+They can't.
+
+1399
+01:06:33,310 --> 01:06:33,370
+They can't.
+
+1400
+01:06:33,370 --> 01:06:33,430
+They can't.
+
+1401
+01:06:33,430 --> 01:06:33,470
+They can't.
+
+1402
+01:06:33,470 --> 01:06:33,530
+They can't.
+
+1403
+01:06:33,530 --> 01:06:33,610
+They can't.
+
+1404
+01:06:33,610 --> 01:06:33,650
+They can't.
+
+1405
+01:06:33,650 --> 01:06:33,710
+They can't.
+
+1406
+01:06:33,710 --> 01:06:33,730
+They can't.
+
+1407
+01:06:33,730 --> 01:06:33,830
+They can't.
+
+1408
+01:06:34,010 --> 01:06:34,510
+They can't.
+
+1409
+01:06:34,510 --> 01:06:34,570
+They can't.
+
+1410
+01:06:34,570 --> 01:06:34,630
+They can't.
+
+1411
+01:06:34,630 --> 01:06:34,690
+They can't.
+
+1412
+01:06:34,690 --> 01:06:34,710
+They can't.
+
+1413
+01:06:34,710 --> 01:06:34,770
+They can't.
+
+1414
+01:06:34,770 --> 01:06:34,830
+They can't.
+
+1415
+01:06:34,830 --> 01:06:34,850
+They can't.
+
+1416
+01:06:34,850 --> 01:06:34,910
+They can't.
+
+1417
+01:06:34,910 --> 01:06:34,970
+They can't.
+
+1418
+01:06:34,970 --> 01:06:35,010
+They can't.
+
+1419
+01:06:35,010 --> 01:06:35,070
+They can't.
+
+1420
+01:06:35,070 --> 01:06:35,110
+They can't.
+
+1421
+01:06:35,110 --> 01:06:35,170
+They can't.
+
+1422
+01:06:35,170 --> 01:06:35,230
+They can't.
+
+1423
+01:06:35,230 --> 01:06:37,120
+But when he makes it available
+
+1424
+01:06:37,120 --> 01:06:39,010
+to them as a group, they
+
+1425
+01:06:39,010 --> 01:06:43,170
+then interact with each other and enforce the good behavior
+
+1426
+01:06:43,170 --> 01:06:45,550
+of each other, and it's a system that worked.
+
+1427
+01:06:45,550 --> 01:06:50,790
+So he won the Nobel Peace Prize in 2006.
+
+1428
+01:06:50,790 --> 01:06:51,920
+It was not the prize in
+
+1429
+01:06:51,920 --> 01:06:53,050
+economics, it was the prize in
+
+1430
+01:06:53,050 --> 01:06:54,470
+peace.
+
+1431
+01:06:54,470 --> 01:06:57,240
+So that's an example of the
+
+1432
+01:06:57,240 --> 01:07:00,010
+kind of careers that I think
+
+1433
+01:07:00,010 --> 01:07:01,710
+some of you might think about.
+
+1434
+01:07:01,710 --> 01:07:03,710
+I'm going to go back to the book.
+
+1435
+01:07:03,710 --> 01:07:04,950
+I'm going to go back to the book.
+
+1436
+01:07:04,950 --> 01:07:06,950
+So I think that in
+
+1437
+01:07:06,950 --> 01:07:08,950
+looking forward to your own careers,
+
+1438
+01:07:08,950 --> 01:07:13,790
+you have to think about the next five decades.
+
+1439
+01:07:13,790 --> 01:07:14,950
+You're going to be working.
+
+1440
+01:07:14,950 --> 01:07:16,470
+I said this before, I think.
+
+1441
+01:07:16,470 --> 01:07:18,180
+But you're going to be
+
+1442
+01:07:18,180 --> 01:07:19,890
+working for another 50 years, right?
+
+1443
+01:07:19,890 --> 01:07:22,850
+More, if you enjoy it.
+
+1444
+01:07:22,850 --> 01:07:24,820
+With modern health care, you
+
+1445
+01:07:24,820 --> 01:07:26,790
+might live to 100, but you
+
+1446
+01:07:26,790 --> 01:07:28,430
+won't be working at 100 probably.
+
+1447
+01:07:28,430 --> 01:07:30,910
+You'll probably retire by then.
+
+1448
+01:07:30,910 --> 01:07:32,090
+Maybe not.
+
+1449
+01:07:32,090 --> 01:07:33,410
+Maybe you've got a century ahead of you.
+
+1450
+01:07:33,410 --> 01:07:34,650
+But you're going to be working.
+
+1451
+01:07:34,650 --> 01:07:36,750
+And I think that the world
+
+1452
+01:07:36,750 --> 01:07:38,850
+will change a lot over this
+
+1453
+01:07:38,850 --> 01:07:40,250
+interval of time.
+
+1454
+01:07:40,250 --> 01:07:45,290
+I think that, by the way, information technology will be
+
+1455
+01:07:45,290 --> 01:07:47,750
+changing so many things that we
+
+1456
+01:07:47,750 --> 01:07:50,210
+do in ways that we can't see.
+
+1457
+01:07:50,210 --> 01:07:53,810
+And financial markets will be everywhere.
+
+1458
+01:07:53,810 --> 01:07:55,530
+So I may be presumptuous to
+
+1459
+01:07:55,530 --> 01:07:57,250
+think that some of these ideas
+
+1460
+01:07:57,250 --> 01:08:00,220
+here are likely to come about,
+
+1461
+01:08:00,220 --> 01:08:03,190
+but I've come to start to think
+
+1462
+01:08:03,190 --> 01:08:04,930
+that they're all inevitable.
+
+1463
+01:08:04,930 --> 01:08:07,590
+Because we've already seen the past.
+
+1464
+01:08:07,590 --> 01:08:11,890
+We've seen how financial markets have captured more and
+
+1465
+01:08:11,890 --> 01:08:13,290
+more risks.
+
+1466
+01:08:13,290 --> 01:08:15,360
+And we have such an advance
+
+1467
+01:08:15,360 --> 01:08:17,430
+in our technology that there really
+
+1468
+01:08:17,430 --> 01:08:20,450
+ought to be big changes that will come.
+
+1469
+01:08:24,590 --> 01:08:27,330
+So I guess what you have
+
+1470
+01:08:27,330 --> 01:08:30,069
+to do is maintain a century-long
+
+1471
+01:08:30,069 --> 01:08:31,069
+personal outlook.
+
+1472
+01:08:31,069 --> 01:08:32,120
+I mean, just think about how
+
+1473
+01:08:32,120 --> 01:08:33,170
+much happened in the last three,
+
+1474
+01:08:33,189 --> 01:08:34,689
+four, five, six, seven, eight,
+
+1475
+01:08:34,689 --> 01:08:36,189
+nine, ten years of the last
+
+1476
+01:08:36,189 --> 01:08:37,329
+century.
+
+1477
+01:08:37,329 --> 01:08:38,950
+We had two world wars.
+
+1478
+01:08:38,950 --> 01:08:41,870
+We had the whole communism came and disappeared.
+
+1479
+01:08:41,870 --> 01:08:45,970
+Extreme communism came and disappeared.
+
+1480
+01:08:45,970 --> 01:08:47,920
+Things like that are going
+
+1481
+01:08:47,920 --> 01:08:49,870
+to happen in the next century.
+
+1482
+01:08:49,870 --> 01:08:54,140
+And so, I think you have
+
+1483
+01:08:54,140 --> 01:08:58,410
+to reflect on your role as an
+
+1484
+01:08:58,410 --> 01:08:59,930
+agent, not to think of
+
+1485
+01:08:59,930 --> 01:09:01,450
+it as something that a remote
+
+1486
+01:09:01,450 --> 01:09:01,979
+government is handling.. This is something
+
+1487
+01:09:01,979 --> 01:09:02,510
+that you have responsibility to do.
+
+1488
+01:09:02,510 --> 01:09:03,010
+Thank you.
+
+1489
+01:09:03,010 --> 01:09:04,370
+Thank you, Dr.
+
+1490
+01:09:04,370 --> 01:09:06,660
+Kuhn, for helping develop how the
+
+1491
+01:09:06,660 --> 01:09:08,950
+world will turn out in the
+
+1492
+01:09:08,950 --> 01:09:11,250
+next century.
+
+1493
+01:09:11,250 --> 01:09:15,310
+I was just saying that governments come and go, but
+
+1494
+01:09:15,310 --> 01:09:18,910
+financial contracts and institutions and the people who
+
+1495
+01:09:18,910 --> 01:09:23,109
+manage them continue.
+
+1496
+01:09:23,109 --> 01:09:24,710
+I think that you face
+
+1497
+01:09:24,710 --> 01:09:26,310
+great career risks in this new
+
+1498
+01:09:26,310 --> 01:09:27,149
+environment.
+
+1499
+01:09:27,149 --> 01:09:31,970
+I mentioned before, the 40-year-old who finds that his
+
+1500
+01:09:31,970 --> 01:09:32,330
+career is suddenly eliminated because of a crisis.
+
+1501
+01:09:32,330 --> 01:09:36,630
+He's eliminated because of some random change.
+
+1502
+01:09:36,630 --> 01:09:40,040
+There's evidence that what happens to
+
+1503
+01:09:40,040 --> 01:09:43,450
+you in life depends on random events.
+
+1504
+01:09:43,450 --> 01:09:46,229
+It's really so much unforecastable.
+
+1505
+01:09:46,229 --> 01:09:48,590
+I'm thinking of myself, for example.
+
+1506
+01:09:48,590 --> 01:09:50,210
+What did I think I would be doing?
+
+1507
+01:09:50,210 --> 01:09:52,330
+I'm still, I just stay in the same place.
+
+1508
+01:09:52,330 --> 01:09:54,390
+I've lived in New Haven for almost
+
+1509
+01:09:54,390 --> 01:09:56,450
+30 years, and I've been a college professor.
+
+1510
+01:09:56,450 --> 01:09:59,310
+But when I was your age, I never thought that
+
+1511
+01:09:59,310 --> 01:10:02,170
+I would be doing public speaking the way I have been.
+
+1512
+01:10:02,170 --> 01:10:05,399
+I'm all over the, I don't mean
+
+1513
+01:10:05,399 --> 01:10:08,629
+to exaggerate, but I didn't have the confidence.
+
+1514
+01:10:08,629 --> 01:10:11,279
+I was on my high school debate
+
+1515
+01:10:11,279 --> 01:10:13,930
+team, and I didn't particularly do well.
+
+1516
+01:10:13,930 --> 01:10:17,340
+I think you just develop, careers develop, and
+
+1517
+01:10:17,340 --> 01:10:20,750
+random things happen, and you discover things about yourself.
+
+1518
+01:10:20,750 --> 01:10:22,860
+I was going to point out studies that
+
+1519
+01:10:22,860 --> 01:10:24,970
+show how random events affect where you go.
+
+1520
+01:10:24,970 --> 01:10:25,970
+So, Joshua Angrist, who's an economist, he's a professor at the University
+
+1521
+01:10:25,970 --> 01:10:26,970
+of New York, and he's a professor at the University of New York.
+
+1522
+01:10:26,970 --> 01:10:28,970
+He's a professor at the University of New York.
+
+1523
+01:10:28,970 --> 01:10:30,970
+He's a professor at the University of New York.
+
+1524
+01:10:32,170 --> 01:10:37,170
+He did a study of the effect of
+
+1525
+01:10:37,170 --> 01:10:42,170
+the draft lottery on success of people in life.
+
+1526
+01:10:42,170 --> 01:10:46,420
+In 1969, during the Vietnam War, the U.S. government
+
+1527
+01:10:46,420 --> 01:10:50,670
+decided to use a lottery based on birth dates
+
+1528
+01:10:50,670 --> 01:10:53,420
+to decide who gets drafted into
+
+1529
+01:10:53,420 --> 01:10:56,170
+the U.S. Army and sent to Vietnam.
+
+1530
+01:10:56,170 --> 01:10:59,170
+And so, Angrist thought that
+
+1531
+01:10:59,170 --> 01:11:02,170
+was a good, controlled experiment.
+
+1532
+01:11:02,170 --> 01:11:05,420
+Let's compare the lifetime income of people who, the way they
+
+1533
+01:11:05,420 --> 01:11:08,670
+did it is they drew out of an urn all birth dates.
+
+1534
+01:11:08,670 --> 01:11:11,670
+There's 366 days, birth dates.
+
+1535
+01:11:11,670 --> 01:11:14,670
+They drew them out of an urn, and the first one
+
+1536
+01:11:14,670 --> 01:11:17,670
+who was drawn was the first one to go to Vietnam.
+
+1537
+01:11:17,670 --> 01:11:22,920
+And then, as it went down, the lower, the higher the number,
+
+1538
+01:11:22,920 --> 01:11:28,170
+the less likely it is that you would ever be asked to go.
+
+1539
+01:11:28,170 --> 01:11:30,170
+And so, Angrist, by the way, I got 362.
+
+1540
+01:11:30,170 --> 01:11:32,170
+I got 362.
+
+1541
+01:11:32,170 --> 01:11:34,170
+I couldn't believe it.
+
+1542
+01:11:34,170 --> 01:11:36,170
+What great luck.
+
+1543
+01:11:36,170 --> 01:11:38,170
+We were listening on the radio.
+
+1544
+01:11:38,170 --> 01:11:40,170
+I was a graduate student.
+
+1545
+01:11:40,170 --> 01:11:44,170
+We were listening on the radio for the lottery numbers.
+
+1546
+01:11:44,170 --> 01:11:47,670
+And we were drinking beer, and people were
+
+1547
+01:11:47,670 --> 01:11:51,170
+all excited, wondering who was going to get drafted.
+
+1548
+01:11:51,170 --> 01:11:55,170
+And I thought, you know, when it got into the 50,
+
+1549
+01:11:55,170 --> 01:11:59,170
+350, 351, 352, I thought, I must have missed my birthday.
+
+1550
+01:11:59,170 --> 01:12:01,170
+It can't be this far down.
+
+1551
+01:12:01,170 --> 01:12:02,170
+But I got 362.
+
+1552
+01:12:02,170 --> 01:12:05,170
+And that's part of my success story.
+
+1553
+01:12:05,170 --> 01:12:09,670
+Because according to Angrist, people who were drafted, who got the
+
+1554
+01:12:09,670 --> 01:12:14,170
+low number on the lottery, ended up with lower lifetime earnings.
+
+1555
+01:12:14,170 --> 01:12:16,670
+And, you know, that kind of
+
+1556
+01:12:16,670 --> 01:12:19,170
+random event affects your whole life.
+
+1557
+01:12:19,170 --> 01:12:25,170
+You know, the word career goes back to the sense that there are random
+
+1558
+01:12:25,170 --> 01:12:31,170
+things that happen, opportunities that come, and lack of opportunities that hurt your career.
+
+1559
+01:12:31,170 --> 01:12:33,170
+And that hurt your life.
+
+1560
+01:12:33,170 --> 01:12:38,170
+So, I think that you have to
+
+1561
+01:12:38,170 --> 01:12:43,170
+accept the fact that it's a risky world.
+
+1562
+01:12:43,170 --> 01:12:47,170
+That you have to try to position yourself.
+
+1563
+01:12:47,170 --> 01:12:49,170
+Maintain.
+
+1564
+01:12:49,170 --> 01:12:52,170
+I think one important piece of advice I like to
+
+1565
+01:12:52,170 --> 01:12:55,170
+think of is maintain an orientation toward history in the making.
+
+1566
+01:12:55,170 --> 01:12:57,670
+That there's a tendency for people to think of,
+
+1567
+01:12:57,670 --> 01:13:00,170
+to orient themselves in terms of their own life cycle.
+
+1568
+01:13:00,170 --> 01:13:02,170
+What's going on now?
+
+1569
+01:13:02,170 --> 01:13:04,670
+Well, I'm a junior at Yale, and I'm
+
+1570
+01:13:04,670 --> 01:13:07,170
+going to be applying to graduate school next year.
+
+1571
+01:13:07,170 --> 01:13:11,670
+You should be thinking, well, this is a time in
+
+1572
+01:13:11,670 --> 01:13:16,170
+history when, you know, the Middle East is changing rapidly.
+
+1573
+01:13:16,170 --> 01:13:21,170
+That the, you know, the
+
+1574
+01:13:21,170 --> 01:13:26,170
+emerging countries are developing new technologies.
+
+1575
+01:13:26,170 --> 01:13:27,670
+And thinking about the opportunities that
+
+1576
+01:13:27,670 --> 01:13:29,170
+are happening in the Middle East.
+
+1577
+01:13:29,170 --> 01:13:30,670
+And thinking about the opportunities
+
+1578
+01:13:30,670 --> 01:13:32,170
+that are happening in the world.
+
+1579
+01:13:32,170 --> 01:13:33,670
+That's kind of what we got
+
+1580
+01:13:33,670 --> 01:13:35,170
+from Hank Greenberg in his lecture.
+
+1581
+01:13:35,170 --> 01:13:39,670
+Remember that he said that the founder of his company decided
+
+1582
+01:13:39,670 --> 01:13:44,170
+to move to China at the beginning of the 20th century.
+
+1583
+01:13:44,170 --> 01:13:47,170
+And founded a business because of what he saw was
+
+1584
+01:13:47,170 --> 01:13:50,170
+happening in Shanghai, which was an international city at the time.
+
+1585
+01:13:50,170 --> 01:13:52,170
+So, I'm going to go there, and
+
+1586
+01:13:52,170 --> 01:13:54,170
+I'm going to make it a business.
+
+1587
+01:13:54,170 --> 01:13:56,170
+That's kind of positioning yourself with history.
+
+1588
+01:13:56,170 --> 01:13:58,170
+And then he moved out of China.
+
+1589
+01:13:58,170 --> 01:14:00,170
+And then he moved back in.
+
+1590
+01:14:00,170 --> 01:14:02,170
+I mean, this is history awareness.
+
+1591
+01:14:02,170 --> 01:14:05,170
+And I think that it matters enormously.
+
+1592
+01:14:05,170 --> 01:14:08,170
+But you still can't completely eliminate
+
+1593
+01:14:08,170 --> 01:14:11,170
+the role of chance in your life.
+
+1594
+01:14:11,170 --> 01:14:15,170
+This is a time-honored principle.
+
+1595
+01:14:15,170 --> 01:14:18,170
+I was actually going to quote the Bible.
+
+1596
+01:14:18,170 --> 01:14:20,670
+Ecclesiastes was the book of the
+
+1597
+01:14:20,670 --> 01:14:23,170
+Bible written probably, when was that written?
+
+1598
+01:14:23,170 --> 01:14:27,170
+Around 500 B.C. something like that.
+
+1599
+01:14:28,170 --> 01:14:31,170
+600 B.C.
+
+1600
+01:14:31,170 --> 01:14:33,170
+And this is, you've probably heard this.
+
+1601
+01:14:33,170 --> 01:14:36,670
+I returned and saw under the sun, that the race
+
+1602
+01:14:36,670 --> 01:14:40,170
+is not to the swift, nor the battle to the strong,
+
+1603
+01:14:40,170 --> 01:14:44,170
+neither yet bread to the wise, nor yet riches to
+
+1604
+01:14:44,170 --> 01:14:48,170
+men of understanding, nor yet favor to men of skill,
+
+1605
+01:14:48,170 --> 01:14:52,170
+but time and chance happeneth to them all.
+
+1606
+01:14:52,170 --> 01:14:56,170
+So, that's a time-honored truth.
+
+1607
+01:14:56,170 --> 01:14:59,170
+Randomness.
+
+1608
+01:14:59,170 --> 01:15:00,670
+I actually had this, time
+
+1609
+01:15:00,670 --> 01:15:02,170
+and chance happeneth to them all.
+
+1610
+01:15:02,170 --> 01:15:04,170
+I actually had that inscribed in
+
+1611
+01:15:04,170 --> 01:15:06,170
+Latin, when I had my office redone.
+
+1612
+01:15:06,170 --> 01:15:11,170
+It's over my desk in my office at home.
+
+1613
+01:15:11,170 --> 01:15:14,170
+Tempus casumque in omnibus.
+
+1614
+01:15:14,170 --> 01:15:17,170
+Chance plays a huge role in our lives.
+
+1615
+01:15:17,170 --> 01:15:21,170
+And this risky world plays a
+
+1616
+01:15:21,170 --> 01:15:25,170
+sequence of events over your lifetime,
+
+1617
+01:15:25,170 --> 01:15:28,170
+that we have to try to manage.
+
+1618
+01:15:28,170 --> 01:15:30,670
+So, what I hope to do in this
+
+1619
+01:15:30,670 --> 01:15:33,170
+course, this is really a course about managing risks,
+
+1620
+01:15:33,170 --> 01:15:39,170
+as well as enterprise and creating a cooperative spirit.
+
+1621
+01:15:39,170 --> 01:15:41,670
+I wanted to try to convey to
+
+1622
+01:15:41,670 --> 01:15:44,170
+you that we have a technology for that,
+
+1623
+01:15:44,170 --> 01:15:48,170
+that should be a part of your life.
+
+1624
+01:15:48,170 --> 01:15:50,170
+All right. Thank you.
+
