@@ -1,0 +1,24 @@
+{
+  "course_rel": "lazyearn/yale-financial-markets",
+  "transcript_rel": "lazyearn/yale-financial-markets/023 - 23. Finding your Purpose in a World of Financial Capitalism [2_pDTWgJg94].md",
+  "video_rel": "lazyearn/yale-financial-markets/023 - 23. Finding your Purpose in a World of Financial Capitalism [2_pDTWgJg94].mkv",
+  "lecture_number": 23,
+  "lecture_slug": "lecture_23",
+  "lecture_title": "23. Finding your Purpose in a World of Financial Capitalism",
+  "assets": [
+    {
+      "name": "lecture_23_figure_02.png",
+      "timestamp_seconds": 1078.8,
+      "timestamp_hhmmss": "00:17:58.800",
+      "source_candidate": "lecture_23_window_06_candidate_04_001758800.png",
+      "recommended_use": "screenshot_plus_tikz",
+      "rationale": "This is the clearest and most useful frame. It captures the full chalkboard sketch of the rising curved graph with the least occlusion from the lecturer, while also preserving the adjacent reference text on the right side of the board. The earlier candidates show the graph in partial or intermediate form, with more obstruction by the lecturer's body or hand.",
+      "subtitle_excerpt": "He says geometrical, but it goes like that.",
+      "segment_start_seconds": 1074.4,
+      "segment_start_hhmmss": "00:17:54.400",
+      "segment_end_seconds": 1079.4,
+      "segment_end_hhmmss": "00:17:59.400",
+      "caption_hint": "Unger 1996 growth sketch"
+    }
+  ]
+}
