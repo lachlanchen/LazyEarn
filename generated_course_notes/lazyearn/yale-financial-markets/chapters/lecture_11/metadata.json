@@ -8,11 +8,11 @@
   "assets": [
     {
       "name": "lecture_11_figure_02.png",
-      "timestamp_seconds": 1335.6,
-      "timestamp_hhmmss": "00:22:15.600",
-      "source_candidate": "lecture_11_window_03_candidate_04_002215600.png",
+      "timestamp_seconds": 1334.08,
+      "timestamp_hhmmss": "00:22:14.080",
+      "source_candidate": "lecture_11_window_03_candidate_01_002214080.png",
       "recommended_use": "screenshot_only",
-      "rationale": "This frame gives the clearest and most complete view of the blackboard topic layout with the least occlusion from the lecturer. The key written headings are all legible enough to support note writing, and no other candidate shows a more finished diagram at this moment.",
+      "rationale": "This frame gives the clearest and most balanced view of the blackboard layout before the drawing begins. It preserves both left-side headings and the right-side prospect theory attribution with less occlusion than the later frames, making it the most useful reference for note writing.",
       "subtitle_excerpt": "I'll draw a picture of the",
       "segment_start_seconds": 1333.84,
       "segment_start_hhmmss": "00:22:13.840",
@@ -26,27 +26,13 @@
       "timestamp_hhmmss": "00:23:47.560",
       "source_candidate": "lecture_11_window_04_candidate_01_002347560.png",
       "recommended_use": "screenshot_plus_tikz",
-      "rationale": "This frame gives the clearest and most complete view of the blackboard diagram with the least occlusion from the lecturer. The axes, the S-shaped value function, and the key labels for value, losses, and gains are all visible at once, making it the most useful frame for note writing and a later clean redraw.",
+      "rationale": "This frame shows the diagram most completely and with the least occlusion. The full axes, the S-shaped value curve, and the key labels for value, losses, and gains are all visible, while the lecturer remains off to the side instead of blocking the graph as in later frames.",
       "subtitle_excerpt": "but this is a diagram that Kahneman and Tversky wrote",
       "segment_start_seconds": 1426.84,
       "segment_start_hhmmss": "00:23:46.840",
       "segment_end_seconds": 1432.84,
       "segment_end_hhmmss": "00:23:52.840",
       "caption_hint": "Prospect theory value function"
-    },
-    {
-      "name": "lecture_11_figure_04.png",
-      "timestamp_seconds": 1766.24,
-      "timestamp_hhmmss": "00:29:26.240",
-      "source_candidate": "lecture_11_window_05_candidate_04_002926240.png",
-      "recommended_use": "screenshot_only",
-      "rationale": "This frame provides the clearest overall view of the blackboard with the least occlusion from the lecturer. Although the new picture has not yet been drawn, it preserves the board layout and the surrounding written context most cleanly: the earlier 'Value Function' and 'Weighting Function?' headings remain visible on the left, the new heading is being set up in the center, and the framing/reference-point notes on the right are legible enough to support note writing.",
-      "subtitle_excerpt": "And I'm going to draw, again, a picture of it.",
-      "segment_start_seconds": 1759.84,
-      "segment_start_hhmmss": "00:29:19.840",
-      "segment_end_seconds": 1766.84,
-      "segment_end_hhmmss": "00:29:26.840",
-      "caption_hint": "Weighting-function board setup"
     }
   ]
 }
