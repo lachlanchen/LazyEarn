@@ -1,0 +1,316 @@
+\chapter{Risk and Financial Crises}
+
+We begin, as the lecture begins, with probability; but we are not asked to study probability in the abstract. Robert J. Shiller places it immediately inside the financial crisis since 2007 and uses that crisis to motivate the mathematics. This is only one way to think about the crisis, and not even necessarily his preferred way, but it is a revealing one. It lets us see how finance moves from stories about bubbles and failures toward models of returns, risks, co-movements, and extreme events. The thread of the lecture is deliberate: first crisis as a problem of uncertainty, then return as the basic financial object, then measures of central tendency and variability, then dependence, and finally the two breakdowns that matter most for crisis --- failure of independence and fat-tailed shocks.
+
+\section{Probability, Narrative, and the Crisis}
+
+Shiller begins by saying that probability theory is fundamental to the way we think about finance, even though he does not take it as a prerequisite. That opening has a definite pedagogical shape. He does not start with a formal definition or a theorem. He starts with the crisis and asks us to see probability as one lens through which that crisis can be interpreted.
+
+The first contrast is between narrative history and probabilistic modeling. The familiar narrative is quickly sketched: bubbles in stock and housing markets, the breaking of those bubbles, institutional failures, bank runs, emergency cooperation, bailouts, and eventual rebound. It is an intelligible story, and he does not reject it. Indeed, he says plainly that he likes the narrative story and will come back to it.
+
+But then he pivots. Financial theorists often prefer to ask a different question. They do not look only at a few dramatic events. They ask how a very large number of small shocks accumulate. The crisis, in that frame, is not merely a sequence of memorable episodes; it is the visible outcome of many smaller disturbances whose cumulative behavior is governed by probabilistic laws. The stories remain, but they no longer carry the whole explanatory burden.
+
+That is why the lecture broadens, for a moment, into a defense of probabilistic thinking itself. Probability, in its modern sense, is historically recent. That historical remark is not a curiosity. It is meant to underscore that thinking in terms of likelihoods and distributions was a genuine advance in human understanding. Once we think that way, we can model systems too complex to narrate event by event. Shiller's comparison is weather forecasting. We do not follow each molecule in the air, but we do build models for their aggregate motion. The probabilistic imagination in finance aims at something similar.
+
+The lecture also announces, already at this early stage, the two assumptions whose failure will matter later. One is independence. The other is the assumption of thin-tailed or non-outlier-prone distributions. The mathematics that follows is not detached technique. It is the machinery needed to say clearly what those assumptions mean and how their breakdown can help us interpret crisis.
+
+\section{Return and Measures of Central Tendency}
+
+With that broader motivation in place, the lecture turns to the first technical object. Finance begins with return, because finance begins with the question: if we invest over an interval of time, what happened to the value of the investment?
+
+\begin{definition}
+Let \(p_t\) be the asset price at the beginning of period \(t\), let \(p_{t+1}\) be the price at the end of the period, and let \(d_t\) be the dividend paid during the period. The one-period simple return is
+\begin{equation}
+r_t=\frac{p_{t+1}-p_t+d_t}{p_t}.
+\end{equation}
+The corresponding gross return is
+\begin{equation}
+1+r_t.
+\end{equation}
+\end{definition}
+
+The time index \(t\) may refer to a year, a month, or a day; the lecture often speaks as though we are thinking in monthly intervals. What matters is that return is attached to a period. We compare beginning-of-period price, end-of-period price, and any cash flow received in between.
+
+Shiller immediately adds the limited-liability constraint. In the world he is assuming, one cannot lose more than the amount invested. Therefore
+\begin{equation}
+r_t\in[-1,\infty), \qquad 1+r_t\in[0,\infty).
+\end{equation}
+This apparently simple bound becomes important later. Gross return is always nonnegative, and that is what makes the geometric mean economically meaningful in an investment setting.
+
+He now moves to the first slide, titled \emph{Expected Value, Mean, Average}. The structure of the slide itself is part of the lecture's rhythm: first expectation for a discrete random variable, then expectation for a continuous one, then sample mean, and finally geometric mean.
+
+\begin{figure}[htbp]
+\centering
+\includegraphics[width=0.88\textwidth]{lecture_02_figure_02.png}
+\caption{Expected value, mean, and average. The lecture first emphasizes expectation as a measure of central tendency.}
+\end{figure}
+
+In cleaned form, while preserving the visible notation of the slide, the displayed equations are
+\begin{align}
+E(x)=\mu_x &= \sum_{i=1}^{\infty}\operatorname{prob}(x=x_i)x_i, \\
+E(x)=\mu_x &= \int_{-\infty}^{\infty} f(x)x\,dx, \\
+\bar{x} &= \frac{1}{n}\sum_{i=1}^{n}x_i.
+\end{align}
+The slide visibly writes the discrete sum to \(\infty\), though the verbal explanation is more general: \(x\) is a random variable with countably many possible values. The point is that expectation is a probability-weighted average. For a continuous variable, the weighted sum becomes an integral against the density \(f(x)\). For a sample, the estimate of expectation is the ordinary average \(\bar{x}\).
+
+The lecture is careful about why these formulas are appearing. They are not introduced as an abstract statistics interlude. They are introduced because we want to evaluate an investor. If we observe \(n\) annual returns, the first and most obvious question is what that investor did on average. The arithmetic mean is therefore our first rough measure of success.
+
+But the slide does not stop there. It places, in the lower-right corner, a second way of averaging:
+\begin{equation}
+G(x)=\left(\prod_{i=1}^{n}x_i\right)^{1/n}.
+\end{equation}
+The layout matters. The lecture is about to make us feel the difference between adding and multiplying.
+
+\begin{figure}[htbp]
+\centering
+\includegraphics[width=0.88\textwidth]{lecture_02_figure_03.png}
+\caption{The same slide, now with the geometric mean explicitly indicated. This is the lecture's turn from average return to compounded investment performance.}
+\end{figure}
+
+The slide's lower row can be read as a contrast:
+\begin{equation}
+\bar{x}=\frac{1}{n}\sum_{i=1}^{n}x_i,
+\qquad
+G(x)=\left(\prod_{i=1}^{n}x_i\right)^{1/n}.
+\end{equation}
+Shiller's point is that for investment evaluation the geometric mean should be applied to gross returns, not to simple returns:
+\begin{equation}
+G(1+r)=\left(\prod_{i=1}^{n}(1+r_i)\right)^{1/n}.
+\end{equation}
+This is the first important local payoff of the lecture. The arithmetic mean answers the question, ``What was the average observed return?'' The geometric mean answers the more financially relevant question, ``What multiplicative growth rate is consistent with what happened to the portfolio through time?''
+
+\subsection{Question \& Answer}
+
+\paragraph{Question.}
+Why is the arithmetic mean not enough when we evaluate an investment manager?
+
+\paragraph{Answer.}
+Because an investment portfolio compounds multiplicatively, and that means survival matters. A sequence of returns can have a moderate arithmetic average and still contain a wipeout. The arithmetic mean is therefore not a disciplined summary of compounded performance. The geometric mean, applied to gross returns, forces us to respect the possibility that one disastrous period can dominate everything that came before.
+
+\paragraph{Worked example.}
+Shiller's own example is extreme, and it is meant to be. Suppose a manager reports returns of \(50\%\), then \(30\%\), and then \(-100\%\). The arithmetic mean of the simple returns is
+\begin{equation}
+\bar{r}=\frac{0.5+0.3-1}{3}\approx -0.067.
+\end{equation}
+That sounds merely bad. But the investment is not merely bad; it is dead. In gross-return form the same sequence is
+\begin{equation}
+1+r_1=1.5,\qquad 1+r_2=1.3,\qquad 1+r_3=0.
+\end{equation}
+So the geometric mean of gross returns is
+\begin{equation}
+G(1+r)=\left(1.5\cdot 1.3\cdot 0\right)^{1/3}=0.
+\end{equation}
+This is precisely the discipline the lecture wants. If the portfolio is wiped out in one year, then whatever happened in the other years no longer rescues the compounded outcome. That is why Shiller recommends the geometric mean for investment evaluation.
+
+At this point the lecture gathers expectation, arithmetic mean, and geometric mean under the common heading of \emph{central tendency}. We now know how to talk about the center of a return distribution. But finance cares about more than the center. It cares, perhaps even more urgently, about the spread around that center.
+
+\section{Variance and the First Language of Risk}
+
+The lecture now makes a very natural move: from average outcome to variability. If the mean tells us what happens in the center, then risk asks what happens around the center.
+
+\begin{figure}[htbp]
+\centering
+\includegraphics[width=0.88\textwidth]{lecture_02_figure_04.png}
+\caption{Variance and standard deviation. The upper formula is introduced as the basic measure of variability.}
+\end{figure}
+
+The slide presents variance as
+\begin{equation}
+\operatorname{var}(x)=\sum_{i=1}^{n}\operatorname{prob}(x=x_i)(x_i-\mu_x)^2.
+\end{equation}
+The idea is simple and fundamental. We first measure how far \(x\) is from its mean \(\mu_x\), then square the deviation so that positive and negative departures both contribute positively, and finally take the probability-weighted average of those squared deviations. Variance is therefore a measure of how far the random variable tends to wander from its center.
+
+The standard deviation is then defined as the square root of variance:
+\begin{equation}
+\sigma_x=\sqrt{\operatorname{var}(x)}.
+\end{equation}
+The square root is what returns us to the units of the original variable. That is why standard deviation is easier to talk about in practice. If the mean return is \(8\%\) and a typical deviation from that mean is about \(1\%\), then the standard deviation is naturally read as about \(1\%\). Variance, by contrast, is measured in squared units.
+
+A small numerical illustration helps fix the point. If we measure returns in percentage points and the return is often \(1\) percentage point above or below its mean, then the squared deviations are often near \(1\). In that unit system, the variance is near \(1\) and the standard deviation is again near \(1\). The precise value is not the point; the point is the role of squaring. Variance converts signed deviations into a positive measure of spread.
+
+The lecture then moves, very explicitly, to the empirical estimator on the lower part of the same slide.
+
+\begin{figure}[htbp]
+\centering
+\includegraphics[width=0.88\textwidth]{lecture_02_figure_05.png}
+\caption{The sample-variance formula. The lecture now turns from population variability to an empirical estimator.}
+\end{figure}
+
+In cleaned form the estimator is
+\begin{equation}
+S_x^2=\frac{1}{n}\sum_{i=1}^{n}(x_i-\bar{x})^2.
+\end{equation}
+The symbol on the slide appears to be \(S_x^2\), and the lecture keeps the denominator \(n\), noting only in passing that some people use \(n-1\). The order of thought is important: first the abstract variance of a random variable, then the practical formula one computes from observed returns.
+
+So far, however, we have still been speaking about a single variable. The lecture's next question is unavoidable: financial risks are rarely isolated. How do two risky quantities move together? That question leads directly to covariance and correlation.
+
+\section{Covariance, Correlation, and Independence}
+
+Shiller introduces covariance with a stock-pair example. Let \(x\) be the return on IBM and \(y\) the return on General Motors. If IBM tends to be above its mean when GM is above its mean, then the two move together. If one is typically above its mean when the other is below, then they move in opposite directions.
+
+A cautious reconstructed formula for the lecture's verbal definition is
+\begin{equation}
+\operatorname{Cov}(x,y)=E\!\big[(x-\mu_x)(y-\mu_y)\big].
+\end{equation}
+The logic is straightforward. The product \((x-\mu_x)(y-\mu_y)\) is positive when the deviations have the same sign and negative when they have opposite signs. Averaging that product tells us whether co-movement tends to be positive, negative, or absent.
+
+Correlation is then introduced as scaled covariance:
+\begin{equation}
+\operatorname{Corr}(x,y)=\frac{\operatorname{Cov}(x,y)}{\sigma_x\sigma_y}.
+\end{equation}
+This scaling matters because it produces a dimensionless number between \(-1\) and \(1\):
+\begin{equation}
+-1\le \operatorname{Corr}(x,y)\le 1.
+\end{equation}
+A correlation of \(1\) means the variables move exactly together, a correlation of \(-1\) means they move exactly opposite one another, and a correlation of \(0\) means there is no linear tendency to move together.
+
+Now comes the hidden assumption that lies beneath much of ordinary financial risk management: independence. In the lecture's simplified treatment, independence implies zero covariance, hence zero correlation. More importantly, it gives the basic aggregation formula:
+\begin{equation}
+\operatorname{Var}(X+Y)=\operatorname{Var}(X)+\operatorname{Var}(Y)+2\operatorname{Cov}(X,Y).
+\end{equation}
+If \(X\) and \(Y\) are independent, then \(\operatorname{Cov}(X,Y)=0\), and so
+\begin{equation}
+\operatorname{Var}(X+Y)=\operatorname{Var}(X)+\operatorname{Var}(Y).
+\end{equation}
+This is more than an algebraic identity. It is the mathematical reason diversification sounds reassuring. Some idea of unrelatedness, as Shiller puts it, underlies our ordinary thinking about risk.
+
+\subsection{Question \& Answer}
+
+\paragraph{Question.}
+Why did diversification, value at risk, and related risk-management ideas fail to protect institutions in the crisis?
+
+\paragraph{Answer.}
+Because the reassuring formulas were being used under an assumption of independence, or at least relative independence, that failed when it mattered most. If risks are genuinely unrelated, covariance terms disappear and aggregation becomes stabilizing. But if adverse shocks become connected, covariance rises exactly in the bad states. Positions that seemed diversified in normal times suddenly begin to fall together. The mathematics does not collapse on its own terms; rather, the dependence structure assumed by the model turns out to be wrong.
+
+This is a decisive beat in the lecture. A notion that can sound technical and harmless --- covariance near zero --- becomes the key to understanding why apparently prudent institutions were far more vulnerable than they thought.
+
+\section{The Law of Large Numbers, VaR, and CoVaR}
+
+Once independence is on the table, the lecture turns to the promise it makes possible. If many shocks are independent, then averaging should reduce uncertainty. That is the intuition behind diversification, insurance, and a great deal of modern risk measurement.
+
+Shiller frames this first through \emph{value at risk}, or VaR, a concept firms emphasized after the 1987 stock-market crash. The lecture does not develop a full formal theory of VaR, but it gives its characteristic bottom line. A firm might say: there is a \(5\%\) probability that we will lose \(\$10\) million in a year. In shorthand:
+\begin{equation}
+P\!\left(L\ge \$10\,\text{million in one year}\right)=0.05.
+\end{equation}
+That kind of statement requires a probability model. And, as the lecture insists, it quietly relies on assumptions about the relation among the shocks that generate losses.
+
+The law of large numbers is then introduced through a coin-flip example. A single toss, with payoff \(+1\) for heads and \(-1\) for tails, has substantial uncertainty. But many independent tosses, averaged together, should display much less uncertainty. The lecture uses this as the intuitive bridge to finance and insurance.
+
+The derivation can be written cleanly. Let \(X_1,\dots,X_n\) be independent, identically distributed random variables with common variance \(\sigma^2\). Then
+\begin{align}
+\operatorname{Var}\!\left(\sum_{i=1}^{n}X_i\right)
+&=
+\sum_{i=1}^{n}\operatorname{Var}(X_i)
++
+2\sum_{1\le i<j\le n}\operatorname{Cov}(X_i,X_j) \\
+&= n\sigma^2,
+\end{align}
+because independence makes every covariance term vanish. Dividing by \(n^2\), we obtain the variance of the average:
+\begin{equation}
+\operatorname{Var}\!\left(\frac{1}{n}\sum_{i=1}^{n}X_i\right)=\frac{\sigma^2}{n}.
+\end{equation}
+Hence the standard deviation of the average is
+\begin{equation}
+\operatorname{sd}\!\left(\frac{1}{n}\sum_{i=1}^{n}X_i\right)=\frac{\sigma}{\sqrt{n}}.
+\end{equation}
+As \(n\) grows, the uncertainty of the average shrinks toward zero.
+
+This is the mathematical heart of the lecture's reassurance. It is also why Shiller invokes insurance. The idea that many independent risks can be pooled so that the average outcome becomes predictable is ancient in intuition, even if probability theory gave it a precise form only much later. Insurance relies on exactly that principle.
+
+But the lecture does not let us linger in reassurance. It turns immediately toward the problem. The crisis suggests that the relevant shocks were not independent enough. That is why firms that computed VaR-style loss bounds turned out to be too optimistic. The model assumed that many things would not fail together; history showed that they could.
+
+This is also the point at which Shiller introduces \emph{CoVaR}. The name matters less than the adjustment in viewpoint. Once we recognize that portfolios may co-vary much more strongly in bad states than in ordinary ones, we need a risk measure that takes that conditional co-movement seriously. CoVaR is presented as a post-crisis response to exactly that problem.
+
+\section{Market Return, Beta, and Idiosyncratic Risk}
+
+Having developed the abstract language, the lecture turns back to market data. Shiller first looks at the aggregate stock market from 2000 onward and then overlays Apple on the same time period. The market line is already dramatic: large declines from 2000 to 2002 and again from 2007 to 2009. But once Apple is put on the same plot, the market must be visually compressed. Apple's behavior is vastly more extreme.
+
+He pauses to explain that the Apple series is split-adjusted. This is not a change in underlying economics, only a correction for units. A stock split should not appear as a genuine collapse in value. That little institutional remark is characteristic of the lecture: even while developing abstract ideas, it keeps concrete market conventions in view.
+
+The next move is crucial. Shiller replots the same underlying data as monthly returns rather than price levels. This changes the story. What looked, in one representation, like a long arc of extraordinary success now appears as a sequence of sharp ups and downs. The point is not merely graphical. The same data can look simple in levels and bewilderingly complex in returns. That is why probabilistic thinking is needed.
+
+The human side of this issue appears in the Yale class-of-1954 story. A risky pool of \(\$375{,}000\), given to Joe McNay, becomes \(\$90\) million by the fiftieth reunion. Is that genius? Is it luck? The lecture never resolves the question completely, and that is the point. Historical success tempts us to narrate talent where probabilistic reasoning reminds us to consider realized luck and unobserved failures.
+
+Shiller then turns from time series to a scatter plot of Apple returns against market returns. Each point is a month. The lecture's conceptual decomposition is that a stock return can be seen as the sum of a market component and an idiosyncratic component. In cautious reconstructed notation,
+\begin{equation}
+r_i=\beta_i r_m+\varepsilon_i,
+\end{equation}
+where \(r_m\) is market return and \(\varepsilon_i\) is the idiosyncratic term.
+
+Because no validated screenshot survives for this later plot, the following figure is an explanatory reconstruction rather than a reproduction.
+
+\begin{figure}[htbp]
+\centering
+\begin{tikzpicture}[scale=0.95]
+\draw[->] (-3.2,0) -- (3.4,0);
+\draw[->] (0,-3.1) -- (0,4.1);
+\draw (3.25,-0.25) node[below] {$r_m$};
+\draw (-0.25,3.95) node[left] {$r_i$};
+
+\draw[thick] (-2.05,-2.95) -- (2.25,3.15);
+\draw (1.25,2.9) node[right] {\small slope \(\beta\approx 1.45\)};
+
+\fill (-2.3,-1.8) circle (0.06);
+\fill (-1.9,-2.9) circle (0.06);
+\fill (-1.7,-1.2) circle (0.06);
+\fill (-1.2,-1.7) circle (0.06);
+\fill (-0.8,-0.2) circle (0.06);
+\fill (-0.4,-0.9) circle (0.06);
+\fill (0.2,0.1) circle (0.06);
+\fill (0.5,1.2) circle (0.06);
+\fill (0.9,0.3) circle (0.06);
+\fill (1.1,2.3) circle (0.06);
+\fill (1.6,1.0) circle (0.06);
+\fill (1.9,3.0) circle (0.06);
+\fill (2.2,1.7) circle (0.06);
+
+\draw[dashed] (2.05,2.9) -- (2.2,1.7);
+\draw (2.42,2.2) node[right] {\small idiosyncratic};
+\draw (2.42,1.95) node[right] {\small component};
+\end{tikzpicture}
+\caption{Explanatory reconstruction of the market and idiosyncratic decomposition. The fitted line represents the market component; deviations from the line represent idiosyncratic risk.}
+\end{figure}
+
+The slope of the regression line is about \(1.45\), so
+\begin{equation}
+\beta_{\mathrm{Apple}}\approx 1.45.
+\end{equation}
+Shiller interprets this directly: Apple tends to move roughly one and a half times as much as the market. But he immediately adds the second half of the story. The scatter around the line is large. Apple still has substantial idiosyncratic risk, and that risk is tied to company-specific events --- his vivid example is the rumor about Steve Jobs's health.
+
+One detail from the lecture is especially revealing. Around the Lehman Brothers collapse, the broad market falls violently, yet Apple does not fall as much as one might have expected from market beta alone, because a separate company-specific news cycle is moving in the opposite direction. This is a concrete reminder that market and idiosyncratic components coexist rather than replacing one another.
+
+Only after this empirical and institutional detour does the lecture turn to its final topic. So far we have worried that shocks may be too dependent. The last step is to worry that even the marginal distribution of shocks may be less tame than ordinary models suppose.
+
+\section{Normality, Outliers, and Fat Tails}
+
+Shiller now turns from dependence to distributional shape. Another common assumption in finance is that shocks are normally distributed. The lecture briefly reviews the attraction of the normal distribution: it is the familiar bell-shaped curve, the area under it is one, and different standard deviations change the scale without changing the general form.
+
+The transcript becomes somewhat rough around the Mandelbrot discussion, but the analytic point is clear. If we look only at a limited sample of ordinary observations, a thin-tailed normal model can seem entirely plausible. Most days are not extreme days. The middle of the distribution can look orderly. The problem is in the tails.
+
+That is where Shiller invokes Benoit Mandelbrot. The central claim is not that finance never looks normal in the middle. It is that rare, large events occur too often to be dismissed as negligible. In other words, the tails are heavier than the simple thin-tail picture suggests.
+
+The lecture makes this vivid with market history. On October 30, 1929, the stock market rose \(12.53\%\) in a single day --- the largest one-day increase in the historical sample he is discussing. But this was the rebound after the crash, not a calm market fluctuation. The days immediately before it had already produced enormous declines. The sequence itself makes independence look doubtful.
+
+The second example is even more forceful. On October 19, 1987, the market fell \(20.47\%\) in one day on the S\&P measure. If one fits a normal model to the central part of the historical distribution and asks for the probability of a decline this severe, the lecture reports a probability on the order of
+\begin{equation}
+P\!\left(\frac{\Delta p}{p}\le -0.2047\right)\approx 10^{-71}.
+\end{equation}
+The exact number is less important than the meaning. Under that fitted normal model, the event is effectively impossible. Yet it happened.
+
+\subsection{Question \& Answer}
+
+\paragraph{Question.}
+How can a financial event that a normal model treats as essentially impossible still appear in history?
+
+\paragraph{Answer.}
+Because the thin-tailed model is being fit to the center of the distribution and then trusted too far into the tails. In ordinary times the fit may look harmless. But the tails govern the probabilities of the crashes that matter most. If the true distribution has more mass in the tails than the normal model allows, then the model will systematically understate the frequency of extreme events. The event looks impossible only because the model is too thin-tailed, not because history has violated logic.
+
+This is the lecture's second major breakdown. The first was failure of independence. The second is the failure of the thin-tail assumption. Put differently: diversification may fail because shocks become linked, and ordinary probabilistic reassurance may also fail because the shocks themselves are more extreme than the standard model admits.
+
+The lecture closes by explicitly tying these ideas together. If independence held comfortably through time or across assets, then diversification would create safety. If thin-tailed normality held comfortably in the tails, then crises of the largest sort would be fantastically rare. But the crisis taught otherwise. Shocks can line up, and the tail behavior can be much more dangerous than the ordinary model suggests.
+
+\section{Summary}
+
+The lecture unfolds as a guided escalation. We begin with crisis narrative, then step behind the narrative into a probabilistic way of thinking about many small shocks. We introduce return because finance must first say what random variable it studies. We introduce expectation, arithmetic mean, and geometric mean because we need measures of central tendency; and we discover, through the wipeout example, that compounding forces us to care about multiplicative rather than merely additive averages. We then move to variance and standard deviation because finance is about risk, not just central outcome, and from there to covariance, correlation, and independence because risk in finance is never purely one-dimensional.
+
+The deeper message of the lecture is that familiar mathematical comforts are conditional. The law of large numbers, diversification, insurance, and value at risk all lean on some form of independence. Normal-model reasoning leans on thin tails. The crisis reveals what happens when those assumptions are used too casually. Independence can fail, so shocks that appeared separate collapse together. Tails can be fat, so events that seemed impossible arrive with disturbing regularity. Probability therefore remains fundamental to finance, but not as a source of complacency. It is fundamental because it tells us exactly which assumptions have to be watched, and exactly how dangerous it is when they break.
