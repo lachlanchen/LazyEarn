@@ -1,0 +1,66 @@
+{
+  "course_rel": "lazyearn/yale-financial-markets",
+  "transcript_rel": "lazyearn/yale-financial-markets/015 - 15. Forward and Futures Markets [rxHu93YzHpc].md",
+  "video_rel": "lazyearn/yale-financial-markets/015 - 15. Forward and Futures Markets [rxHu93YzHpc].mkv",
+  "lecture_number": 15,
+  "lecture_slug": "lecture_15",
+  "lecture_title": "15. Forward and Futures Markets",
+  "assets": [
+    {
+      "name": "lecture_15_figure_02.png",
+      "timestamp_seconds": 2592.08,
+      "timestamp_hhmmss": "00:43:12.080",
+      "source_candidate": "lecture_15_window_03_candidate_02_004312080.png",
+      "recommended_use": "screenshot_plus_equation",
+      "rationale": "This frame gives the clearest and most complete view of the blackboard equation in this subtitle window. The main pricing relation is fully visible, the arrow annotations are still legible enough to support note writing, and the lecturer occludes less of the useful board content than in the later candidates while avoiding the tighter left-edge crop of candidate 01.",
+      "subtitle_excerpt": "equation, is just the expression of the value",
+      "segment_start_seconds": 2591.32,
+      "segment_start_hhmmss": "00:43:11.320",
+      "segment_end_seconds": 2593.32,
+      "segment_end_hhmmss": "00:43:13.320",
+      "caption_hint": "board equation for futures fair value"
+    },
+    {
+      "name": "lecture_15_figure_03.png",
+      "timestamp_seconds": 2766.4,
+      "timestamp_hhmmss": "00:46:06.400",
+      "source_candidate": "lecture_15_window_04_candidate_04_004606400.png",
+      "recommended_use": "screenshot_plus_equation_and_tikz",
+      "rationale": "This frame gives the most complete board layout with the least occlusion. The main futures-pricing equation is fully visible, the arrow annotations remain readable enough to interpret the carrying-cost terms, and the left-side time diagram is more complete than in the other candidates because the lecturer has moved mostly out of the way.",
+      "subtitle_excerpt": "This equation always holds because as this contract",
+      "segment_start_seconds": 2763.32,
+      "segment_start_hhmmss": "00:46:03.320",
+      "segment_end_seconds": 2766.82,
+      "segment_end_hhmmss": "00:46:06.820",
+      "caption_hint": "futures fair-value equation and settlement sketch"
+    },
+    {
+      "name": "lecture_15_figure_04.png",
+      "timestamp_seconds": 3063.84,
+      "timestamp_hhmmss": "00:51:03.840",
+      "source_candidate": "lecture_15_window_05_candidate_04_005103840.png",
+      "recommended_use": "screenshot_plus_equation",
+      "rationale": "This frame is the best match for the subtitle because the lecturer is explicitly pointing at the board equation he has just written, and the main pricing relation is more legible and centered than in the other candidates. It also preserves enough of the projected crude-oil futures chart on the right to show the surrounding lecture context without displacing the equation as the main object.",
+      "subtitle_excerpt": "I just wrote this equation here, saying that the futures price",
+      "segment_start_seconds": 3060.32,
+      "segment_start_hhmmss": "00:51:00.320",
+      "segment_end_seconds": 3064.32,
+      "segment_end_hhmmss": "00:51:04.320",
+      "caption_hint": "futures fair-value equation with crude-oil curve"
+    },
+    {
+      "name": "lecture_15_figure_05.png",
+      "timestamp_seconds": 3298.9,
+      "timestamp_hhmmss": "00:54:58.900",
+      "source_candidate": "lecture_15_window_06_candidate_04_005458900.png",
+      "recommended_use": "screenshot_plus_equation",
+      "rationale": "This frame gives the clearest and most complete board view in the window. The main futures-pricing equation is fully visible, the arrow annotations are still readable enough to identify the carrying-cost components, and the lecturer no longer blocks the formula itself. It also retains the surrounding board context, including the left-hand time sketch and the lower convenience-yield note, which makes it more useful for note writing than the tighter or more occluded alternatives.",
+      "subtitle_excerpt": "basic point, that this equation holds when the commodity",
+      "segment_start_seconds": 3295.82,
+      "segment_start_hhmmss": "00:54:55.820",
+      "segment_end_seconds": 3299.32,
+      "segment_end_hhmmss": "00:54:59.320",
+      "caption_hint": "fair-value equation with convenience-yield note"
+    }
+  ]
+}
