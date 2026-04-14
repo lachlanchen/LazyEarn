@@ -1,0 +1,66 @@
+{
+  "course_rel": "lazyearn/yale-financial-markets",
+  "transcript_rel": "lazyearn/yale-financial-markets/020 - 20. Professional Money Managers and their Influence [txTaBKZ8qrs].md",
+  "video_rel": "lazyearn/yale-financial-markets/020 - 20. Professional Money Managers and their Influence [txTaBKZ8qrs].mkv",
+  "lecture_number": 20,
+  "lecture_slug": "lecture_20",
+  "lecture_title": "20. Professional Money Managers and their Influence",
+  "assets": [
+    {
+      "name": "lecture_20_figure_02.png",
+      "timestamp_seconds": 563.68,
+      "timestamp_hhmmss": "00:09:23.680",
+      "source_candidate": "lecture_20_window_02_candidate_04_000923680.png",
+      "recommended_use": "screenshot_plus_equation",
+      "rationale": "This frame gives the clearest and most complete view of the slide, with the title, bullet list, net-worth arithmetic, and bottom per-capita debt lines all legible. The presenter is least obstructive here, and the slide is more fully framed than in the earlier candidates.",
+      "subtitle_excerpt": "They have $15 trillion of real estate, but they owe $10 trillion, so",
+      "segment_start_seconds": 558.28,
+      "segment_start_hhmmss": "00:09:18.280",
+      "segment_end_seconds": 564.28,
+      "segment_end_hhmmss": "00:09:24.280",
+      "caption_hint": "Household liabilities and net worth slide"
+    },
+    {
+      "name": "lecture_20_figure_03.png",
+      "timestamp_seconds": 803.92,
+      "timestamp_hhmmss": "00:13:23.920",
+      "source_candidate": "lecture_20_window_03_candidate_04_001323920.png",
+      "recommended_use": "screenshot_plus_equation",
+      "rationale": "This frame is the most useful because it captures both the setup on the left side of the board and the completed valuation formula on the right. The key inputs, the growth and discount rates, and the resulting wealth calculation are all visible together, making it the most complete mathematical frame in the set.",
+      "subtitle_excerpt": "But as a fraction of the",
+      "segment_start_seconds": 801.28,
+      "segment_start_hhmmss": "00:13:21.280",
+      "segment_end_seconds": 804.28,
+      "segment_end_hhmmss": "00:13:24.280",
+      "caption_hint": "Human capital and national wealth valuation"
+    },
+    {
+      "name": "lecture_20_figure_04.png",
+      "timestamp_seconds": 1471.278,
+      "timestamp_hhmmss": "00:24:31.278",
+      "source_candidate": "lecture_20_window_04_candidate_02_002431278.png",
+      "recommended_use": "screenshot_only",
+      "rationale": "This frame gives the clearest and most stable view of the subtitle-aligned board content. 'Dodd-Frank' and '2010' are both legible, the lecturer is no longer blocking the writing hand, and the regulatory-board layout is more complete than in the later cropped frames.",
+      "subtitle_excerpt": "financial legislation in the United States since the Great",
+      "segment_start_seconds": 1469.56,
+      "segment_start_hhmmss": "00:24:29.560",
+      "segment_end_seconds": 1474.08,
+      "segment_end_hhmmss": "00:24:34.080",
+      "caption_hint": "Dodd-Frank on the board"
+    },
+    {
+      "name": "lecture_20_figure_05.png",
+      "timestamp_seconds": 3969.206,
+      "timestamp_hhmmss": "01:06:09.206",
+      "source_candidate": "lecture_20_window_06_candidate_04_010609206.png",
+      "recommended_use": "screenshot_only",
+      "rationale": "This frame gives the clearest unobstructed view of the board at the moment when the lecture mentions the number of family foundations. The lecturer has stepped aside enough that the main headings and the visible count are easier to read than in the earlier frames, where his body or writing hand blocks the content.",
+      "subtitle_excerpt": "were 36,000 family foundations in the United States.",
+      "segment_start_seconds": 3965.246,
+      "segment_start_hhmmss": "01:06:05.246",
+      "segment_end_seconds": 3969.746,
+      "segment_end_hhmmss": "01:06:09.746",
+      "caption_hint": "Family offices and foundations board"
+    }
+  ]
+}
