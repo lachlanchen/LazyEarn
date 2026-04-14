@@ -1,0 +1,24 @@
+{
+  "course_rel": "lazyearn/yale-financial-markets",
+  "transcript_rel": "lazyearn/yale-financial-markets/010 - 10. Real Estate [y_IMH8erqds].md",
+  "video_rel": "lazyearn/yale-financial-markets/010 - 10. Real Estate [y_IMH8erqds].webm",
+  "lecture_number": 10,
+  "lecture_slug": "lecture_10",
+  "lecture_title": "10. Real Estate",
+  "assets": [
+    {
+      "name": "lecture_10_figure_04.png",
+      "timestamp_seconds": 2514.54,
+      "timestamp_hhmmss": "00:41:54.540",
+      "source_candidate": "lecture_10_window_06_candidate_04_004154540.png",
+      "recommended_use": "screenshot_plus_equation",
+      "rationale": "Candidate 04 is the most useful frame because it shows the amortization table headers and multiple rows most completely, while the lecturer\u2019s pointing gesture highlights the relevant entry being discussed. The slide structure is clearer here than in the earlier frames, and the visible columns directly support the explanation of how much of a payment goes to interest versus principal.",
+      "subtitle_excerpt": "fraction of your payment is interest",
+      "segment_start_seconds": 2512.78,
+      "segment_start_hhmmss": "00:41:52.780",
+      "segment_end_seconds": 2514.78,
+      "segment_end_hhmmss": "00:41:54.780",
+      "caption_hint": "amortization table interest share"
+    }
+  ]
+}
