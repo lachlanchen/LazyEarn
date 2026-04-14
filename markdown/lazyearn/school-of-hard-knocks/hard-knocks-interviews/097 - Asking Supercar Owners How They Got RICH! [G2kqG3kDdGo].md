@@ -1,0 +1,532 @@
+# Transcript
+
+Source: lazyearn/school-of-hard-knocks/hard-knocks-interviews/097 - Asking Supercar Owners How They Got RICH! [G2kqG3kDdGo].webm
+
+- [00:00:00,000 - 00:00:01,260] Excuse me, man. Quick question for
+- [00:00:01,260 - 00:00:02,520] you, bro. Is this your Lamborghini?
+- [00:00:02,700 - 00:00:02,880] Yeah.
+- [00:00:03,060 - 00:00:03,880] And what do you do for a living?
+- [00:00:04,040 - 00:00:05,820] Construction and real estate. I graduated college
+- [00:00:05,820 - 00:00:07,600] in 2009. I always knew I wanted to
+- [00:00:07,600 - 00:00:08,930] have a business. And so I just
+- [00:00:08,930 - 00:00:10,260] started, man. I just got to it.
+- [00:00:10,360 - 00:00:11,430] What's the most amount of money that
+- [00:00:11,430 - 00:00:12,500] you've ever made in a single year?
+- [00:00:12,600 - 00:00:14,590] I sold, I built the business from
+- [00:00:14,590 - 00:00:16,580] the ground up, 13 years, two months,
+- [00:00:16,640 - 00:00:19,080] and I sold the business for $115
+- [00:00:19,080 - 00:00:21,520] million. That G-Wagon right there, this Cullinan,
+- [00:00:21,660 - 00:00:23,940] the mortgage on this $20 million home
+- [00:00:23,940 - 00:00:26,220] right here is paid for by passive income.
+- [00:00:26,220 - 00:00:28,060] Yeah, my company, we've done a little
+- [00:00:28,060 - 00:00:29,900] over $35 million in the past year.
+- [00:00:30,000 - 00:00:31,950] We're valued at about $140 million right
+- [00:00:31,950 - 00:00:33,900] now. So I think from a young age,
+- [00:00:33,940 - 00:00:35,960] I've had just a different way of thinking.
+- [00:00:35,960 - 00:00:37,980] In school, I hated it. I sucked at school,
+- [00:00:38,080 - 00:00:40,690] but I always knew how to sell. You need to
+- [00:00:40,690 - 00:00:43,300] learn how to sell. Without sales, there is no money.
+- [00:00:43,400 - 00:00:45,920] I'd rather a billion followers than a billion dollars,
+- [00:00:46,120 - 00:00:47,790] because with 250,000 followers, I'm
+- [00:00:47,790 - 00:00:49,460] bringing in nine digits in revenue.
+- [00:00:49,680 - 00:00:50,930] What has been the most amount of money
+- [00:00:50,930 - 00:00:52,180] that you've ever made in a single year?
+- [00:00:52,280 - 00:00:53,130] Yeah, you know what, man?
+- [00:00:53,130 - 00:00:53,980] Just get in the fucking car.
+- [00:00:56,440 - 00:00:57,979] All right, you guys, if you've ever been
+- [00:00:57,979 - 00:00:59,519] to Miami, Florida, you know that there are more
+- [00:00:59,519 - 00:00:59,980] supercars.
+- [00:01:00,000 - 00:01:01,720] on the road than in any other city.
+- [00:01:01,720 - 00:01:03,440] But what do these people do? Well, today,
+- [00:01:03,520 - 00:01:04,959] we're going to be asking these seven,
+- [00:01:04,959 - 00:01:06,400] eight, and nine figure entrepreneurs how they became
+- [00:01:06,400 - 00:01:07,800] successful and how you can start your
+- [00:01:07,800 - 00:01:09,200] path to becoming wealthy in today's world.
+- [00:01:19,660 - 00:01:21,230] All right, you guys, we are in one
+- [00:01:21,230 - 00:01:22,800] of the wealthiest neighborhoods in all of Miami,
+- [00:01:22,920 - 00:01:24,630] Florida. We have a very special surprise
+- [00:01:24,630 - 00:01:26,340] for you. We're here at Eric Spofford's house.
+- [00:01:26,340 - 00:01:27,910] He's a nine figure entrepreneur. He
+- [00:01:27,910 - 00:01:29,480] sold a company for over $100 million.
+- [00:01:30,000 - 00:01:31,740] He has an eight figure real estate portfolio and
+- [00:01:31,740 - 00:01:33,480] invited this out to his house to give us some
+- [00:01:33,480 - 00:01:34,900] game for all the young entrepreneurs out
+- [00:01:34,900 - 00:01:36,320] there. Let's see what Eric has to say.
+- [00:01:37,880 - 00:01:39,200] How you doing, Eric?
+- [00:01:41,960 - 00:01:44,080] I've been in a lot of industries. You know,
+- [00:01:44,080 - 00:01:46,200] my original industry was dealing drugs. I was in a
+- [00:01:46,200 - 00:01:48,360] life of crime and addiction and street life
+- [00:01:48,360 - 00:01:50,520] growing up. And that's honestly where I learned
+- [00:01:50,520 - 00:01:52,740] a lot about business. I started dealing drugs at
+- [00:01:52,740 - 00:01:54,960] 10 years old, fifth grade. Yeah, I was selling
+- [00:01:54,960 - 00:01:57,220] sell a weed at fifth grade. Didn't work out for me
+- [00:01:57,220 - 00:01:59,480] like it doesn't work out for most people. So I got
+- [00:01:59,480 - 00:02:02,670] sober, changed my life at 21 years old back
+- [00:02:02,670 - 00:02:05,860] in 2006. And then I got into drug addiction treatment.
+- [00:02:06,120 - 00:02:08,639] And so I went from being a drug addict and
+- [00:02:08,639 - 00:02:11,160] selling drugs to helping people get sober and change their
+- [00:02:11,160 - 00:02:13,270] lives. And then alongside that real estate. And
+- [00:02:13,270 - 00:02:15,380] now real estate is a main focus of mine.
+- [00:02:15,540 - 00:02:16,740] What has been the most amount of money
+- [00:02:16,740 - 00:02:17,940] that you've ever made in a single year?
+- [00:02:18,040 - 00:02:18,980] A little more than a hundred million.
+- [00:02:19,100 - 00:02:20,270] A hundred million dollars. What happened
+- [00:02:20,270 - 00:02:21,440] that year? How are you able to?
+- [00:02:21,440 - 00:02:24,090] I sold, I built the business from the ground up
+- [00:02:24,090 - 00:02:26,740] 13 years, two months from the moment that I started
+- [00:02:26,740 - 00:02:27,970] it as a 23 year
+- [00:02:27,970 - 00:02:29,200] old kid. Then what was I?
+- [00:02:29,480 - 00:02:32,130] 35 or 36, something like that. When I sold
+- [00:02:32,130 - 00:02:34,780] that business and I sold the business for $115 million
+- [00:02:34,780 - 00:02:37,530] to a private equity backed strategic company. And then
+- [00:02:37,530 - 00:02:40,280] I also sold off a lot of the underlying
+- [00:02:40,280 - 00:02:42,140] real estate assets that I had developed
+- [00:02:42,140 - 00:02:44,000] for probably, I don't know, 40 million.
+- [00:02:44,120 - 00:02:45,280] What's been the best financial
+- [00:02:45,280 - 00:02:46,440] advice that you've ever received?
+- [00:02:46,660 - 00:02:47,079] If there's one.
+- [00:02:47,079 - 00:02:48,599] I'm going to give it to you right now. I'm
+- [00:02:48,599 - 00:02:50,120] going to give you the fucking key. These guys should
+- [00:02:50,120 - 00:02:52,550] pay me and you should pay them for what I'm
+- [00:02:52,550 - 00:02:54,980] about to give you. This is the difference between the
+- [00:02:54,980 - 00:02:57,169] wealthy people and people that are fucking poor.
+- [00:02:57,169 - 00:02:59,359] You are going to go out and focus
+- [00:02:59,360 - 00:03:02,160] on how to make income. You need to make
+- [00:03:02,160 - 00:03:04,960] money. I don't care if that's through starting a cleaning
+- [00:03:04,960 - 00:03:07,200] business, starting a business that comes to these nice
+- [00:03:07,200 - 00:03:09,440] homes in Miami and picks up the dog shit.
+- [00:03:09,440 - 00:03:11,850] If that's from doing solar, I don't care how
+- [00:03:11,850 - 00:03:14,260] you do it. You're going to, most people like they
+- [00:03:14,260 - 00:03:16,670] understand this concept. I need to make money.
+- [00:03:16,670 - 00:03:19,080] I need to make hundreds of thousands, a million
+- [00:03:19,080 - 00:03:21,550] millions a year. That's the goal. This is
+- [00:03:21,550 - 00:03:24,020] where everybody goes wrong. They make the money and
+- [00:03:24,020 - 00:03:26,040] then they take the money and they burn
+- [00:03:26,040 - 00:03:28,060] it on lifestyle. They make a million dollars. I've
+- [00:03:28,060 - 00:03:29,160] seen this happen with kids in.
+- [00:03:29,160 - 00:03:31,520] Solar sales over and over and over again. They
+- [00:03:31,520 - 00:03:33,880] go, they make a million dollars or $2 million in
+- [00:03:33,880 - 00:03:36,619] a year and they take that money and they go buy
+- [00:03:36,619 - 00:03:39,359] the cars and they go on the trips and they book
+- [00:03:39,359 - 00:03:41,709] the PJs, the private jets, and they're at poppy
+- [00:03:41,709 - 00:03:44,060] snake and car bone and they got the girls and
+- [00:03:44,060 - 00:03:46,289] they got all this shit, right? And they're
+- [00:03:46,289 - 00:03:48,519] living a good life. The discipline of the financial
+- [00:03:48,519 - 00:03:51,559] discipline and the patience to take that money.
+- [00:03:51,559 - 00:03:54,600] And instead of being excited and going and living
+- [00:03:54,600 - 00:03:56,870] this life and buying all these
+- [00:03:56,870 - 00:03:59,140] things, you invest it into cash flowing,
+- [00:03:59,160 - 00:04:02,400] appreciating assets. My vehicle right now is
+- [00:04:02,400 - 00:04:05,640] section eight real estate, buying houses in areas
+- [00:04:05,640 - 00:04:08,120] at a very low rate and getting insane
+- [00:04:08,120 - 00:04:10,600] cash returns. We're fucking printing money with this,
+- [00:04:10,680 - 00:04:12,790] right? But I'm taking the money that I earned
+- [00:04:12,790 - 00:04:14,900] that I hustle and I'm putting it into this real
+- [00:04:14,900 - 00:04:17,190] estate. And then the real estate is paying me.
+- [00:04:17,190 - 00:04:19,480] And then I'm going out and I'm buying that G
+- [00:04:19,480 - 00:04:22,000] wagon, that G wagon right there, this Cullinan,
+- [00:04:22,000 - 00:04:24,520] the mortgage on this $20 million home right here
+- [00:04:24,520 - 00:04:26,790] is paid for by passive income.
+- [00:04:26,790 - 00:04:29,060] It's paid for by free cash flow.
+- [00:04:29,160 - 00:04:31,820] Because the money that I made, I invested
+- [00:04:31,820 - 00:04:34,480] it properly and then it pays me for lifetime.
+- [00:04:34,540 - 00:04:37,110] And so think of it like this. Do you want
+- [00:04:37,110 - 00:04:39,680] to have a pile of money or a river of money?
+- [00:04:39,720 - 00:04:42,320] Because when you have a pile of money, you're going to
+- [00:04:42,320 - 00:04:44,920] spend it and it goes down and you've got to go earn
+- [00:04:44,920 - 00:04:47,620] to make more. You're going to go replace it when
+- [00:04:47,620 - 00:04:50,320] you have an ever flowing river of money because you
+- [00:04:50,320 - 00:04:52,500] had the financial discipline that I just talked about,
+- [00:04:52,500 - 00:04:54,680] the right coaches, the right mentors and the right
+- [00:04:54,680 - 00:04:56,420] advice to make the right
+- [00:04:56,420 - 00:04:58,160] moves. Then you can go out.
+- [00:04:58,160 - 00:04:59,160] You can fuck the money off.
+- [00:04:59,160 - 00:05:01,480] All you want, right? Your mailbox money hits
+- [00:05:01,480 - 00:05:03,800] the bank, the government section eight, the federal
+- [00:05:03,800 - 00:05:05,920] government sends you all your rent payments. You can go
+- [00:05:05,920 - 00:05:08,040] out, blow it on the trip, blow it on the
+- [00:05:08,040 - 00:05:10,080] girl, blow it on a car. And guess what? On the
+- [00:05:10,080 - 00:05:12,120] first of the month, that the dot the dot it's back
+- [00:05:12,120 - 00:05:14,120] and it's going to be back every month, month
+- [00:05:14,120 - 00:05:16,120] over month for the rest of your fucking life.
+- [00:05:16,120 - 00:05:17,080] Eric, thank you so much.
+- [00:05:17,080 - 00:05:18,520] Yeah, I broke.
+- [00:05:18,520 - 00:05:20,640] All I got to say is that interview with Eric
+- [00:05:20,640 - 00:05:22,760] might have been one of the craziest interviews I've ever
+- [00:05:22,760 - 00:05:24,480] done in my life from a perspective of value
+- [00:05:24,480 - 00:05:26,200] and the amount of game you drop for the entrepreneurs.
+- [00:05:26,200 - 00:05:27,600] That's a nine figure entrepreneur. Jack,
+- [00:05:27,600 - 00:05:29,000] what are your thoughts on that?
+- [00:05:29,000 - 00:05:29,080] Eric?
+- [00:05:29,080 - 00:05:30,080] I didn't agree. You watched the whole
+- [00:05:30,080 - 00:05:31,080] thing. What are your thoughts on that?
+- [00:05:31,080 - 00:05:32,719] Man? It's super inspiring just to see him
+- [00:05:32,719 - 00:05:34,359] be able to tell his story. You know,
+- [00:05:34,359 - 00:05:36,119] he went from drug and alcohol addiction, being
+- [00:05:36,119 - 00:05:37,880] able to develop a business that could actually
+- [00:05:37,880 - 00:05:39,640] help people and ended up selling that thing for
+- [00:05:39,640 - 00:05:41,400] nine figures. At the end of the day, he pointed
+- [00:05:41,400 - 00:05:43,080] out the blueprint for how you get wealthy, man.
+- [00:05:43,080 - 00:05:44,760] Stop spending the money. Once you make it, you
+- [00:05:44,760 - 00:05:46,480] have to get income. It's all about the
+- [00:05:46,480 - 00:05:48,200] vehicle. Warren Buffett talks about the vehicle. And
+- [00:05:48,200 - 00:05:49,920] instead of spending that money, you've got to put
+- [00:05:49,920 - 00:05:51,640] it into cash flowing assets like real estate that
+- [00:05:51,640 - 00:05:53,279] are going to pay you passive income over and
+- [00:05:53,279 - 00:05:54,919] over and over again. Keep building that portfolio. So
+- [00:05:54,919 - 00:05:56,919] when you wake up in the morning, you
+- [00:05:56,919 - 00:05:58,919] get $10,000 that just hit your iPhone straight, passive
+- [00:05:58,920 - 00:06:00,840] income. That's how you know you're fucking rich.
+- [00:06:00,840 - 00:06:02,760] Let's go. Excuse me, bro. Quick question for you,
+- [00:06:02,760 - 00:06:04,920] man. Is this your Lamborghini? Yeah, this is mine.
+- [00:06:04,920 - 00:06:05,920] How are you able to afford
+- [00:06:05,920 - 00:06:06,920] a Lamborghini out in Miami, Florida?
+- [00:06:06,920 - 00:06:09,320] I've been an entrepreneur for past decade. I've
+- [00:06:09,320 - 00:06:11,720] started and scaled quite a bit of companies and
+- [00:06:11,720 - 00:06:13,560] I now manage with my team
+- [00:06:13,560 - 00:06:15,400] about 800 e-commerce stores on Amazon.
+- [00:06:15,400 - 00:06:16,600] What has been the most amount of money
+- [00:06:16,600 - 00:06:17,800] that you ever made in a single year?
+- [00:06:17,800 - 00:06:20,040] Yeah, my company, we've done a little over $35
+- [00:06:20,040 - 00:06:22,280] million in the past year. We're valued at about
+- [00:06:22,280 - 00:06:24,560] $140 million right now. So that's the funny thing.
+- [00:06:24,560 - 00:06:26,840] You know, like people always ask how much money
+- [00:06:26,840 - 00:06:27,800] do you make? But at the end,
+- [00:06:27,800 - 00:06:28,760] it's not how much money you make.
+- [00:06:28,760 - 00:06:30,600] It's how much money you keep. And number two,
+- [00:06:30,600 - 00:06:32,440] it's not just about what's your cash flow. It's
+- [00:06:32,440 - 00:06:34,560] what's the valuation? Because a lot of people just think
+- [00:06:34,560 - 00:06:36,680] like, oh, I want to make a hundred grand a
+- [00:06:36,680 - 00:06:38,560] month, but they don't think in three years I
+- [00:06:38,560 - 00:06:40,440] want to exit for a hundred million because you would
+- [00:06:40,440 - 00:06:42,040] give up a hundred K a month if you could
+- [00:06:42,040 - 00:06:43,640] know in three years you're going to sell for a hundred,
+- [00:06:43,640 - 00:06:45,960] 200 million. Right. So it's a little bit
+- [00:06:45,960 - 00:06:48,280] of a different mindset shift in running a business.
+- [00:06:48,280 - 00:06:49,800] When it comes to the way that people look
+- [00:06:49,800 - 00:06:51,320] at money, what would you say is the biggest
+- [00:06:51,320 - 00:06:53,200] difference that separates the middle class from the
+- [00:06:53,200 - 00:06:55,080] wealthy? Well, besides the hard work and like
+- [00:06:55,080 - 00:06:56,880] going out and taking risks and making things
+- [00:06:56,880 - 00:06:58,680] happen, I've seen it and it's their belief
+- [00:06:58,680 - 00:07:01,040] systems. So what you believe to be true is
+- [00:07:01,040 - 00:07:03,400] what manifests into your life, right? So when I was
+- [00:07:03,400 - 00:07:05,680] young, I didn't think having a Lamborghini was
+- [00:07:05,680 - 00:07:07,960] crazy. I didn't think making millions of dollars
+- [00:07:07,960 - 00:07:10,640] was crazy. That was not the reality I put
+- [00:07:10,640 - 00:07:13,320] inside my head. Now, most of society puts this traditional
+- [00:07:13,320 - 00:07:15,000] box system of, I got to go to college,
+- [00:07:15,000 - 00:07:16,680] make a hundred grand a year, and that's their belief
+- [00:07:16,680 - 00:07:19,360] system. So anything outside of that, like making
+- [00:07:19,360 - 00:07:22,040] millions of dollars becomes a very hard reality
+- [00:07:22,040 - 00:07:24,520] for them to understand. And so if you can just
+- [00:07:24,520 - 00:07:27,000] see money from a different viewpoint and not have any
+- [00:07:27,000 - 00:07:27,800] emotion towards it, all of a sudden, you're going
+- [00:07:27,800 - 00:07:28,600] to be able to make a hundred grand a year.
+- [00:07:28,600 - 00:07:30,680] You'll see how much easier it is because it's
+- [00:07:30,680 - 00:07:32,760] not being put on a pedestal and you're not like,
+- [00:07:32,760 - 00:07:34,560] oh, it's so hard to get. It just
+- [00:07:34,560 - 00:07:36,360] becomes your everyday life. What's been the best financial
+- [00:07:36,360 - 00:07:37,880] advice that you've ever received throughout your
+- [00:07:37,880 - 00:07:39,400] lifetime that you'd pass on to the younger
+- [00:07:39,400 - 00:07:41,360] generation today? Well, specifically for young people,
+- [00:07:41,360 - 00:07:43,320] it's the power of the compounding effect,
+- [00:07:43,320 - 00:07:45,600] right? Specifically what one of my mentors has
+- [00:07:45,600 - 00:07:47,880] helped me set up is called overfunded whole life
+- [00:07:47,880 - 00:07:49,720] insurance policies, where you actually get to become
+- [00:07:49,720 - 00:07:51,560] your own bank. In a sense, you invest
+- [00:07:51,560 - 00:07:53,680] money into the market, you get it to
+- [00:07:53,680 - 00:07:55,800] compound, but then you can actually take collateralized debt
+- [00:07:55,800 - 00:07:57,160] against it tax-free. And so instead of just
+- [00:07:57,160 - 00:07:58,520] using your own money, you can actually take collateralized
+- [00:07:58,520 - 00:07:59,520] debt against it tax-free. So instead of just
+- [00:07:59,520 - 00:08:00,520] using your money once, like buying a Lamborghini,
+- [00:08:00,520 - 00:08:03,240] you put it in an IUL first, and then you actually
+- [00:08:03,240 - 00:08:05,960] get to pull out 80 to 90% LTV on that loan. And
+- [00:08:05,960 - 00:08:07,999] then your money still sits in there and compounds.
+- [00:08:07,999 - 00:08:10,039] And so setting that up, I think is really
+- [00:08:10,039 - 00:08:11,799] important. And then you can start doing
+- [00:08:11,799 - 00:08:13,560] other fun, crazy shit like buying Lamborghinis.
+- [00:08:13,560 - 00:08:15,120] I love it. You've got a beautiful Lamborghini
+- [00:08:15,120 - 00:08:16,680] Aventador right here. What would you say to
+- [00:08:16,680 - 00:08:17,960] someone out there who's aspiring to own
+- [00:08:17,960 - 00:08:19,240] a car of like this, their own someday?
+- [00:08:19,240 - 00:08:21,880] You need to learn how to stay optimistic through
+- [00:08:21,880 - 00:08:24,520] the failures because you will fail way more than
+- [00:08:24,520 - 00:08:26,520] you win. And a lot of times those
+- [00:08:26,520 - 00:08:28,520] failures start getting to your head and you eventually
+- [00:08:28,520 - 00:08:30,599] quit because you don't think that this is right for
+- [00:08:30,599 - 00:08:32,679] you. When I was 18 years old, I remember I was
+- [00:08:32,679 - 00:08:34,799] driving to Las Vegas. I'll tell you a quick story.
+- [00:08:34,799 - 00:08:36,919] I was driving to Las Vegas with my family. I
+- [00:08:36,919 - 00:08:38,879] decided not to go to college and they had told
+- [00:08:38,879 - 00:08:40,840] me, because I was looking at these deserted houses out
+- [00:08:40,840 - 00:08:42,240] there. I said, man, who would ever live out
+- [00:08:42,240 - 00:08:43,640] there? They said, Ryan, if you don't go to college,
+- [00:08:43,640 - 00:08:45,600] you're going to live out there one day.
+- [00:08:45,600 - 00:08:47,560] And I remember envisioning me one day traveling,
+- [00:08:47,560 - 00:08:49,879] living the life of my dreams, driving a Ferrari. And
+- [00:08:49,879 - 00:08:52,199] I had absolutely no idea how I was going to
+- [00:08:52,199 - 00:08:54,039] get there, but I just knew it. I truly, truly
+- [00:08:54,039 - 00:08:55,880] believed it. And so the funny thing when I got
+- [00:08:55,880 - 00:08:57,159] this Lamborghini is I was
+- [00:08:57,159 - 00:08:58,439] on a business trip in Vegas.
+- [00:08:58,439 - 00:08:58,480] Speaker 1
+- [00:08:58,480 - 00:09:00,240] And there was this full circle moment where I remembered
+- [00:09:00,240 - 00:09:02,000] when I was 18. And so I went to this
+- [00:09:02,000 - 00:09:03,960] exotic dealer and I was going to buy a Ferrari,
+- [00:09:03,960 - 00:09:05,920] but there was just too good of a deal on this
+- [00:09:05,920 - 00:09:07,960] Aventador, which is also, you know, something I've been
+- [00:09:07,960 - 00:09:10,000] wanting. So I said, fuck it, let's buy it.
+- [00:09:10,000 - 00:09:12,280] And now my 18 year old self is like, fuck yeah,
+- [00:09:12,280 - 00:09:14,560] Ryan, we did it. You know what I mean? And final
+- [00:09:14,560 - 00:09:17,040] thing you need to learn how to sell without sales.
+- [00:09:17,040 - 00:09:19,520] There is no money, right? Sales at the end of the
+- [00:09:19,520 - 00:09:22,080] day is taking one piece of value that you
+- [00:09:22,080 - 00:09:24,640] might have and someone paying money for it. That's all
+- [00:09:24,640 - 00:09:26,520] it is. It's not hard at all. For instance,
+- [00:09:26,520 - 00:09:28,400] there's a kid behind me. He wants to sell me
+- [00:09:28,400 - 00:09:31,120] on listening to one of his rap songs. Now, am I
+- [00:09:31,120 - 00:09:33,840] in the mood for rap right now? I actually am. So
+- [00:09:33,840 - 00:09:36,120] I'm going to pay him for the value that he's going
+- [00:09:36,120 - 00:09:38,400] to bring me. So you have to learn how to sell
+- [00:09:38,400 - 00:09:40,560] value that people will pay big money for. Speaker 2
+- [00:09:40,560 - 00:09:41,400] All right, let's hear it. I want
+- [00:09:41,400 - 00:09:42,240] to hear it with my guy. Come on.
+- [00:09:42,240 - 00:09:42,480] Speaker 1
+- [00:09:42,480 - 00:09:43,360] I started grinding. I had
+- [00:09:43,360 - 00:09:44,240] to get up off my ass.
+- [00:09:44,240 - 00:09:45,360] Been focused on my future.
+- [00:09:45,360 - 00:09:46,480] Can't be worried with my past.
+- [00:09:46,480 - 00:09:48,240] And that's bitch I get out. Probably gonna be
+- [00:09:48,240 - 00:09:50,000] my last. Fuck all my old hoes. I tell niggas
+- [00:09:50,000 - 00:09:51,640] they mad. And I know that one day they don't
+- [00:09:51,640 - 00:09:53,280] need for me to brag. And chill about no big
+- [00:09:53,280 - 00:09:54,960] dog already. And I had all these love to
+- [00:09:54,960 - 00:09:56,640] advance. So I get up on the back. I started
+- [00:09:56,640 - 00:09:57,479] chasing money. Had to put
+- [00:09:57,479 - 00:09:58,319] it in the stash. Speaker 2
+- [00:09:58,320 - 00:09:59,040] Yeah, sir. Speaker 1
+- [00:09:59,040 - 00:10:00,160] Let's go. Speaker 1
+- [00:10:00,160 - 00:10:01,360] You 12 years old? Speaker 2
+- [00:10:01,360 - 00:10:01,760] Yeah. Speaker 1
+- [00:10:01,760 - 00:10:04,320] Never, ever, ever give up. Every day just grind
+- [00:10:04,320 - 00:10:06,880] and believe in yourself. You got that, my man.
+- [00:10:06,880 - 00:10:07,920] Keep it going. Speaker 2
+- [00:10:07,920 - 00:10:08,560] Let's go, bro. Speaker 1
+- [00:10:08,560 - 00:10:09,120] Proud of you. Speaker 2
+- [00:10:09,120 - 00:10:10,480] Never give up on your dreams, bro. Speaker 2
+- [00:10:10,480 - 00:10:11,040] I told you. Speaker 1
+- [00:10:11,040 - 00:10:11,680] Thank you. Speaker 1
+- [00:10:11,680 - 00:10:13,880] Shout out to that boy, Ryan, man. He made over
+- [00:10:13,880 - 00:10:16,080] $30 million with his company in a single year. Had one
+- [00:10:16,080 - 00:10:17,880] of the most beautiful Lamborghini Aventadors I've ever
+- [00:10:17,880 - 00:10:19,680] seen in my entire life and gave some great
+- [00:10:19,680 - 00:10:21,320] game and value for all the entrepreneurs out there.
+- [00:10:21,320 - 00:10:22,960] Let's keep this Miami video going and let's go get
+- [00:10:22,960 - 00:10:24,840] this next one. All right, you guys. So we are
+- [00:10:24,840 - 00:10:26,720] at one of the nicest luxury apartments in all of
+- [00:10:26,720 - 00:10:28,440] Miami, Florida. And my man's right here just pulled
+- [00:10:28,440 - 00:10:30,160] up in the Ferrari. We're going to go over
+- [00:10:30,160 - 00:10:31,360] to him. He's got the window down. We're going to
+- [00:10:31,360 - 00:10:32,560] try and get some free games. We got how he was
+- [00:10:32,560 - 00:10:34,520] able to afford a Ferrari out in Miami, Florida.
+- [00:10:34,520 - 00:10:36,480] Excuse me, bro. A question for you, man. Is this
+- [00:10:36,480 - 00:10:37,040] your Ferrari? Speaker 2
+- [00:10:37,040 - 00:10:37,600] It is, yeah. Speaker 1
+- [00:10:37,600 - 00:10:38,560] What do you do for a living? Speaker 2
+- [00:10:38,560 - 00:10:39,760] I sell watches and jewelry,
+- [00:10:39,760 - 00:10:40,960] bro, and cars too. Speaker 1
+- [00:10:40,960 - 00:10:41,360] Actually? Speaker 2
+- [00:10:41,360 - 00:10:41,520] Yeah. Speaker 1
+- [00:10:41,520 - 00:10:42,520] And how long have you been
+- [00:10:42,520 - 00:10:43,520] a business owner for? Speaker 2
+- [00:10:43,520 - 00:10:44,160] Five years now. Speaker 2
+- [00:10:44,160 - 00:10:45,200] What's the most amount of money that
+- [00:10:45,200 - 00:10:46,240] you've ever made in a single year?
+- [00:10:46,240 - 00:10:48,000] Speaker 2 We generate over nine digits in
+- [00:10:48,000 - 00:10:49,560] revenues every single year, which is
+- [00:10:49,560 - 00:10:51,120] over $100 million a year. Speaker 2
+- [00:10:51,120 - 00:10:52,000] It's cool we asked you a few
+- [00:10:52,000 - 00:10:52,880] questions outside of the car. Speaker 2
+- [00:10:52,880 - 00:10:53,680] Let's get it, bro. Sorry. Speaker 2
+- [00:10:53,680 - 00:10:54,320] Let's go. Speaker 2
+- [00:10:54,320 - 00:10:55,200] So what's your name, man? Speaker 2
+- [00:10:55,200 - 00:10:56,160] James, bro. Speaker 2
+- [00:10:56,160 - 00:10:58,080] I've seen you, I think, on social media. Speaker 2
+- [00:10:58,080 - 00:11:00,480] My man. Have you always been a business owner? Did
+- [00:11:00,480 - 00:11:02,880] you ever work a job? What were you doing before
+- [00:11:02,880 - 00:11:03,200] you started your business? Speaker 2
+- [00:11:03,200 - 00:11:05,720] I worked hella jobs, bro. I worked at least
+- [00:11:05,720 - 00:11:08,240] six, seven jobs. Every summer I'd be busy. I'd never
+- [00:11:08,240 - 00:11:10,440] just be chilling at home playing video games. And I
+- [00:11:10,440 - 00:11:12,640] was always driven. I had friends that ... I grew
+- [00:11:12,640 - 00:11:15,080] up around a lot of rich people. My parents are
+- [00:11:15,080 - 00:11:17,520] very well off, but I was not spoiled. So being
+- [00:11:17,520 - 00:11:18,880] around so much nice stuff, I
+- [00:11:18,880 - 00:11:20,240] would always see nice cars. Speaker 2
+- [00:11:20,240 - 00:11:20,960] And my dad never
+- [00:11:20,960 - 00:11:21,040] Speaker 2
+- [00:11:21,040 - 00:11:23,080] Even though he had the money, he would never put
+- [00:11:23,080 - 00:11:25,120] me in a nice car. I'd drive a Toyota RAV4
+- [00:11:25,120 - 00:11:27,400] when I lived in Samoa. And yeah, just
+- [00:11:27,400 - 00:11:29,680] surrounding yourself with people who have more and people
+- [00:11:29,680 - 00:11:31,639] doing good things, it really motivates you. And for
+- [00:11:31,639 - 00:11:33,599] me, I had a lot of friends doing great,
+- [00:11:33,599 - 00:11:35,199] and I was just in school. I had 3K in
+- [00:11:35,199 - 00:11:36,800] my account. I was like, I got to do some shit.
+- [00:11:36,800 - 00:11:38,240] Speaker 2 Yeah. What's the biggest thing that you've
+- [00:11:38,240 - 00:11:39,839] implemented throughout your skill set as a
+- [00:11:39,839 - 00:11:41,439] business owner in this industry to really stand
+- [00:11:41,439 - 00:11:42,400] out from the competition? Speaker 2
+- [00:11:42,400 - 00:11:44,559] Social media and marketing, bro, for sure. Guys,
+- [00:11:44,559 - 00:11:46,719] I say it all the time. I'd rather a
+- [00:11:46,719 - 00:11:48,799] billion followers than a billion dollars, because with
+- [00:11:48,799 - 00:11:50,880] a billion followers, I think I can make
+- [00:11:50,880 - 00:11:53,440] a billion dollars annually, no cap. Because with
+- [00:11:53,440 - 00:11:56,000] 250,000 followers, and I rely very heavily on
+- [00:11:56,000 - 00:11:57,280] social media, I'm bringing in
+- [00:11:57,280 - 00:11:58,560] nine digits in revenue. Speaker 2
+- [00:11:58,560 - 00:12:00,040] What's been the best financial advice
+- [00:12:00,040 - 00:12:01,520] that you've ever received throughout your lifetime?
+- [00:12:01,520 - 00:12:02,320] Speaker 2 A lot of people
+- [00:12:02,320 - 00:12:03,120] are going to hate this shit,
+- [00:12:03,120 - 00:12:06,080] but I believe to not worry about spending and
+- [00:12:06,080 - 00:12:09,040] just worry about making more has helped me get wealthy.
+- [00:12:09,040 - 00:12:11,480] You know, like if I was worried about like I
+- [00:12:11,480 - 00:12:13,920] used to be, all the small expenses, checking my credit
+- [00:12:13,920 - 00:12:15,960] card bill super tediously, I feel like I wouldn't
+- [00:12:15,960 - 00:12:18,000] be here. I worry about the big picture now. When
+- [00:12:18,000 - 00:12:19,360] I have employees like, hey, I want to spend this on
+- [00:12:19,360 - 00:12:20,720] this and like, hey, I want to spend this on this.
+- [00:12:20,720 - 00:12:22,960] Like I try not to be cheap if it's needed, we
+- [00:12:22,960 - 00:12:25,200] do it and I just focus on making more. I make sure
+- [00:12:25,200 - 00:12:26,960] everyone's happy and everyone's in the right
+- [00:12:26,960 - 00:12:28,720] mindset to just go pump out those sales.
+- [00:12:28,720 - 00:12:30,320] Speaker 1 Cool, my man. Thank you, James.
+- [00:12:30,320 - 00:12:32,080] Speaker 2 Let's go. Man, this Miami video has been
+- [00:12:32,080 - 00:12:33,640] absolutely insane, but I want you to comment
+- [00:12:33,640 - 00:12:35,200] down below who's been your favorite interview and why.
+- [00:12:35,200 - 00:12:36,760] We love making this content for you guys, so
+- [00:12:36,760 - 00:12:38,320] be sure to like and subscribe. But with that being
+- [00:12:38,320 - 00:12:40,080] said, let's get back to these interviews. Excuse me,
+- [00:12:40,080 - 00:12:41,840] man. Quick question for you, bro. Is this your
+- [00:12:41,840 - 00:12:42,480] Lamborghini? Speaker 2
+- [00:12:42,480 - 00:12:42,800] Yeah. Speaker 2
+- [00:12:42,800 - 00:12:43,760] And what do you do for a living? Speaker 2
+- [00:12:43,760 - 00:12:45,880] Construction and real estate. I graduated college in 2009.
+- [00:12:45,880 - 00:12:48,000] I always knew I wanted to have a business,
+- [00:12:48,000 - 00:12:49,000] and so I just started, man.
+- [00:12:49,000 - 00:12:50,000] I just got to it. Speaker 2
+- [00:12:50,000 - 00:12:51,360] How long have you been an entrepreneur for? Speaker 2
+- [00:12:51,360 - 00:12:52,480] Right at 15 years. Speaker 2
+- [00:12:52,480 - 00:12:53,760] What's the most amount of money that you've ever
+- [00:12:53,760 - 00:12:55,040] made in a single year as a business owner?
+- [00:12:55,040 - 00:12:56,480] Speaker 2 We'll do $30 million in revenue. I'll
+- [00:12:56,480 - 00:12:57,520] probably make about $5 million. Speaker 2
+- [00:12:57,520 - 00:12:59,240] How did you go from making six to seven figures
+- [00:12:59,240 - 00:13:00,960] in your business to go from seven to eight figures?
+- [00:13:00,960 - 00:13:01,920] What's the secret to scaling? Speaker 2
+- [00:13:01,920 - 00:13:03,880] Well, I always say one big important secret to
+- [00:13:03,880 - 00:13:05,840] scaling is not quitting. A lot of people jump
+- [00:13:05,840 - 00:13:07,520] from one business to the other because they get their
+- [00:13:07,520 - 00:13:09,200] ass handed to them. If you can stay in the
+- [00:13:09,200 - 00:13:11,160] same business and take the punches enough times to
+- [00:13:11,160 - 00:13:13,120] see them coming, you can start to dodge them and
+- [00:13:13,120 - 00:13:15,200] get your licks in. And I think for me, man, is
+- [00:13:15,200 - 00:13:17,280] I always kept the main thing the main thing. I burned
+- [00:13:17,280 - 00:13:18,600] the boats. I didn't go start
+- [00:13:18,600 - 00:13:19,920] in a million different businesses. Speaker 2
+- [00:13:19,920 - 00:13:22,840] And even if I did start a little side hustle here
+- [00:13:22,840 - 00:13:25,760] or there, I put the majority of my energy into one
+- [00:13:25,760 - 00:13:27,960] tree that I was watering and it bared fruit.
+- [00:13:27,960 - 00:13:30,160] And now that it's bearing fruit, now we're just racking
+- [00:13:30,160 - 00:13:30,640] up everywhere. Speaker 2
+- [00:13:30,640 - 00:13:32,520] We go all over the country asking business
+- [00:13:32,520 - 00:13:34,400] owners their advice to young entrepreneurs. Could we ask
+- [00:13:34,400 - 00:13:35,599] you a few questions for the channel? Speaker 2
+- [00:13:35,599 - 00:13:36,479] Yeah. You know what, man? Just
+- [00:13:36,479 - 00:13:37,360] get in the fucking car. Speaker 2
+- [00:13:37,360 - 00:13:39,000] Let's get it, man. I appreciate you. How
+- [00:13:39,000 - 00:13:40,640] have you been able to consistently close big deals,
+- [00:13:40,640 - 00:13:42,320] lending big clients over the last 15 years
+- [00:13:42,320 - 00:13:44,000] as an entrepreneur? What's the secret to selling?
+- [00:13:44,000 - 00:13:45,760] Speaker 2 When it comes to selling, especially in
+- [00:13:45,760 - 00:13:47,760] construction or any very like industry specific
+- [00:13:47,760 - 00:13:49,760] thing, you need to be able to
+- [00:13:49,760 - 00:13:49,839] Speaker 2
+- [00:13:49,840 - 00:13:51,360] sell with conviction. You need to be able to look a
+- [00:13:51,360 - 00:13:52,880] man in the eye and tell him, I'm going to hit
+- [00:13:52,880 - 00:13:54,560] your schedule. You're not going to have to worry
+- [00:13:54,560 - 00:13:56,240] about any bullshit. We are the best people for
+- [00:13:56,240 - 00:13:58,280] this job. Send me a fucking contract. And I've done
+- [00:13:58,280 - 00:14:00,320] it like that. I've called a guy up and he'd
+- [00:14:00,320 - 00:14:02,520] be like, you're $10,000 high. I said, cool, I'll
+- [00:14:02,520 - 00:14:04,720] give you five. Send me a deal. And because they
+- [00:14:04,720 - 00:14:06,320] know that you're going to get the job
+- [00:14:06,320 - 00:14:07,920] done, they'll give you that deal even sometimes when
+- [00:14:07,920 - 00:14:09,480] you're hired because they can't afford for the
+- [00:14:09,480 - 00:14:11,040] schedule to drag out because that's going to cost
+- [00:14:11,040 - 00:14:13,080] more and cost the money on the construction debt than
+- [00:14:13,080 - 00:14:15,120] it would if they hired the guy that was 10
+- [00:14:15,120 - 00:14:17,080] grand cheaper than you. So being able to sell
+- [00:14:17,080 - 00:14:19,040] with conviction, I always say that you need to believe
+- [00:14:19,040 - 00:14:19,680] Speaker 2 in your product
+- [00:14:19,680 - 00:14:22,240] so much that you truly believe that if you do
+- [00:14:22,240 - 00:14:24,800] not sell to that person, you are fucking them over.
+- [00:14:24,800 - 00:14:26,840] That's how much you should believe in your
+- [00:14:26,840 - 00:14:28,880] product. When you can believe in your product like
+- [00:14:28,880 - 00:14:30,479] that, then there is nothing that's going to stop
+- [00:14:30,479 - 00:14:32,079] you from selling because you know, and they can
+- [00:14:32,079 - 00:14:33,639] see that conviction in your eyes. And they're like,
+- [00:14:33,639 - 00:14:35,199] you know what? This is the right guy for
+- [00:14:35,199 - 00:14:37,279] me. What is your best self-improvement advice for
+- [00:14:37,279 - 00:14:39,359] the younger generation out there? As unpopular as
+- [00:14:39,359 - 00:14:41,519] it might be, get your ass in shape. When
+- [00:14:41,519 - 00:14:43,680] you walk in a room, people treat you differently. When
+- [00:14:43,680 - 00:14:45,559] you tell somebody that you can do
+- [00:14:45,559 - 00:14:47,439] something, they believe you because you're walking around
+- [00:14:47,439 - 00:14:49,599] displaying discipline. Let me show you something.
+- [00:14:49,680 - 00:14:51,879] Give me this hand. You see that? That says
+- [00:14:51,879 - 00:14:54,079] something to me when I see it. That means you've
+- [00:14:54,079 - 00:14:56,439] been working. So I know when you want to come
+- [00:14:56,439 - 00:14:58,800] talk to me that you are worth talking about because
+- [00:14:58,800 - 00:15:00,559] you're not just some fucking punk. You're actually
+- [00:15:00,559 - 00:15:02,319] working hard trying to get your life together.
+- [00:15:02,319 - 00:15:04,919] I respect that. It's hard not to respect the
+- [00:15:04,919 - 00:15:07,520] person that's in shape all across all the entire
+- [00:15:07,520 - 00:15:09,479] world, no matter what language, no matter what
+- [00:15:09,479 - 00:15:11,439] country, no matter what business. If a man walks
+- [00:15:11,439 - 00:15:13,599] in a room and he is, he's put together and
+- [00:15:13,599 - 00:15:15,760] you can tell that he's put his body through pain and
+- [00:15:15,760 - 00:15:17,640] he's built his body up. It's impossible not to
+- [00:15:17,640 - 00:15:19,520] respect it. I could hate the person. I'd be like,
+- [00:15:19,680 - 00:15:21,639] I respect them. We're sitting here in
+- [00:15:21,639 - 00:15:23,599] Justin Waller's Lamborghini. This took hard work. This
+- [00:15:23,599 - 00:15:25,359] did not come overnight for someone who's watching this
+- [00:15:25,359 - 00:15:27,120] right now. A young 20 year old kid. They're
+- [00:15:27,120 - 00:15:28,840] aspiring to become successful at you. A lot of people
+- [00:15:28,840 - 00:15:30,560] look up to you. You know, you're a lot of
+- [00:15:30,560 - 00:15:32,280] people's role model. What would you say is
+- [00:15:32,280 - 00:15:34,000] the blueprint to becoming a millionaire in today's
+- [00:15:34,000 - 00:15:36,119] world? Try your best to stay sober if you're young
+- [00:15:36,119 - 00:15:38,239] and I drink and smoke cigars and do all that other
+- [00:15:38,239 - 00:15:39,919] stuff, but not my twenties. I didn't. I built
+- [00:15:39,919 - 00:15:41,599] that whole fucking thing before I even started doing
+- [00:15:41,599 - 00:15:43,879] that. Put yourself around other people that are on the
+- [00:15:43,879 - 00:15:46,160] same mission as you, even if you have to do
+- [00:15:46,160 - 00:15:47,920] that on the internet and the chat room somewhere,
+- [00:15:47,920 - 00:15:49,680] because you're going to get a lot of noise from
+- [00:15:49,680 - 00:15:51,840] people that don't understand you. And that's
+- [00:15:51,840 - 00:15:54,000] okay. Be kind to those people, especially because
+- [00:15:54,000 - 00:15:56,119] they're going to be close to you still love
+- [00:15:56,119 - 00:15:58,239] them, but respectfully go your own direction and don't
+- [00:15:58,239 - 00:16:00,079] put yourself around them. If they're not on
+- [00:16:00,079 - 00:16:01,920] the same path as you keep your body healthy,
+- [00:16:01,920 - 00:16:03,559] everything else can just happen. Thank you guys
+- [00:16:03,559 - 00:16:05,199] so much for watching this video. It was
+- [00:16:05,199 - 00:16:07,399] absolutely insane to make it be sure to leave
+- [00:16:07,399 - 00:16:09,599] a like and subscribe for amazing content coming soon
+- [00:16:09,599 - 00:16:11,399] and click here to watch us going all
+- [00:16:11,399 - 00:16:13,199] over the luxury fashion district in Miami, Florida,
+- [00:16:13,199 - 00:16:15,199] asking luxury shoppers, how they became wealthy.
