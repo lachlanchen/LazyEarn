@@ -1,0 +1,301 @@
+\chapter{Banks}
+
+These notes follow Robert J. Shiller's Lecture 13 on banks in \textit{Financial Markets}, curated by LazyingArt LLC. After a brief administrative aside, the lecture lays out its path very clearly: origins, theory, deposit insurance, regulation after the world financial crisis, shadow banking, and comparisons with earlier crises. We will keep that order. The subject throughout is the traditional deposit-taking bank. It is not the investment bank, whose characteristic activity is the underwriting of securities, and it is not the central bank, whose business is monetary management.
+
+\section{What a Bank Is: Spread, Notes, and Liquidity}
+
+We begin exactly where the lecture begins, with an attempt to define a bank by what it does. The first candidate is spread income. A bank borrows at one rate and lends at another:
+\begin{equation}
+\text{spread income} = r_L - r_D,
+\end{equation}
+with
+\begin{equation}
+r_L > r_D.
+\end{equation}
+Here \(r_L\) is the lending rate and \(r_D\) is the deposit or borrowing rate of the bank.
+
+That is a good beginning, but the lecturer immediately pulls back from treating it as a finished definition. Historically, another aspect of banking was note issue. Two centuries ago many people would have answered the question ``What is a bank?'' by saying that a bank prints money. In the modern world that function has largely migrated to the central bank, though the lecture still notes limited private note issue in places such as the United Kingdom and Hong Kong. So note issue belongs to the story, but it no longer gives us the central modern mechanism.
+
+The lecture then moves to the mechanism that matters most for theory: liquidity creation. Banks borrow short and lend long. That is a maturity discrepancy, not merely an interest-rate spread:
+\begin{equation}
+T_L > T_D,
+\end{equation}
+where \(T_L\) denotes the maturity of loans and \(T_D\) the maturity of deposits or other short liabilities.
+
+The lecturer's example is the household mortgage. The homeowner wants funds for perhaps thirty years. The depositor does not want to lock up funds for thirty years. The depositor wants access on short notice, even on demand. The bank stands between them, and by standing between them it creates liquidity. We can therefore summarize the basic mechanism as
+\begin{equation}
+\text{borrow short, lend long}
+\Rightarrow
+\text{liquidity for customers}
+\quad \text{and} \quad
+\text{run vulnerability}.
+\end{equation}
+
+This is the first deep hinge of the lecture. The bank is useful for exactly the same reason that it is fragile. If everyone asks for cash at once, the bank cannot call in thirty-year loans tomorrow morning. The liquidity that looks effortless in normal times reveals a structural vulnerability in bad times.
+
+\subsection{Question \& Answer}
+
+\paragraph{Question.} How can banks create liquidity and yet be structurally vulnerable to crisis?
+
+\paragraph{Answer.} Because the two facts are the same fact viewed from opposite sides. The bank promises depositors short access to funds while investing in longer assets. Under ordinary conditions, not everyone withdraws at once, so the arrangement works beautifully. But if withdrawals become simultaneous, the bank cannot instantly turn long assets into cash at par. The lecture's point is that fragility is not something added onto banking after the fact. It is built into the same maturity transformation that makes banking socially useful.
+
+\section{Origins of Interest and Early Banking}
+
+Having arrived at fragility, the lecture steps backward. It asks where the idea of interest itself came from. The transcript is noisy in places, but the movement is clear. Economic historians are invoked to trace the word for interest back to ancient Sumer, where the same term also meant lamb. The proposed intuition is that lending may have grown out of older arrangements in which one rents out productive resources and claims part of the resulting produce. If land supports sheep, lambs appear; if capital is lent, some return should appear as well.
+
+The lecture does not turn this into a formal theorem, and we should not force it into one. Its point is historical and institutional. Long before modern banks, people had already learned to think about productive resources, temporary transfer, and compensation for use. It also emphasizes that one does not need coined money in order to do banking. In the ancient world one could lend barley or wheat and take interest in barley or wheat. Banking begins when someone intermediates between those who have a stock of something and those who need temporary use of it.
+
+The lecture then glances toward China, noting Song-dynasty records of interest rates and paper money, and then turns to Renaissance Italy, where recognizably modern banking institutions appear. The transcript garbles the Siena bank's name and even wobbles slightly on the founding year, so it is better to keep the claim cautious. The lecture points to the old Siena bank as the oldest surviving bank, philanthropic in origin, founded in the fifteenth century, and later associated with an early government guarantee of deposits. The important point is not antiquarian precision. The point is that banking and deposit insurance are not recent improvisations. They are old institutional responses to recurrent problems.
+
+The English goldsmith bankers then provide the lecture's cleanest origin story. Goldsmiths had vaults. People left gold with them for safekeeping. The goldsmith issued a note promising payment of the gold in storage. Those notes could then be endorsed and transferred. Eventually they circulated to bearer. At that stage the note itself became a medium of exchange. Then a second discovery followed: once the notes circulated, few people came back to withdraw the underlying gold. The goldsmith could lend against what sat in the vault. So safekeeping, note issue, transferability, and lending all grew together. Banking, in this telling, is not a single invention. It is a cluster of practices that coalesced around storage, transfer, and intermediation.
+
+\section{Modern Bank Types and Scale}
+
+Only after the historical detour does the lecture return to the modern, regulated landscape. That return matters. Because banking generated repeated trouble, governments gradually defined legal bank types and regulated them. Once we come back to the present, we do not encounter a generic bank. We encounter a structured and heterogeneous system.
+
+The lecture begins with the commercial bank, the most important type in the United States. Commercial banks take deposits, pay interest, and make loans, historically most characteristically business loans. In 2010, the lecture reports
+\begin{equation}
+14.6\text{ trillion dollars total U.S.-located commercial-bank assets},\qquad
+10.1\text{ trillion U.S.-chartered}.
+\end{equation}
+The gap matters because a substantial share of commercial banking activity in the United States is conducted by foreign institutions operating there.
+
+The lecture then turns to smaller categories. Savings banks held
+\begin{equation}
+1.2\text{ trillion dollars},
+\end{equation}
+and credit unions
+\begin{equation}
+0.9\text{ trillion dollars}.
+\end{equation}
+Both are tied to social movements rather than merely to profit maximization in the narrow sense. Savings banks are linked to nineteenth-century philanthropic efforts to promote thrift among households whom commercial banks had often ignored. Credit unions are club-like institutions organized around a workplace or a group affiliation. Both, in the lecture, are especially associated with mortgage lending.
+
+\begin{table}[h]
+\centering
+\begin{tabular}{|l|l|l|}
+\hline
+Institution type & Characteristic function in the lecture & Magnitude in the lecture \\
+\hline
+Commercial bank & Deposits and business lending & \(14.6\) trillion U.S.-located \\
+\hline
+Savings bank & Savings and mortgage lending & \(1.2\) trillion \\
+\hline
+Credit union & Member-based deposit and loan services & \(0.9\) trillion \\
+\hline
+Building society (U.K.) & Mortgage-oriented savings institution & U.K. analogue, no figure given \\
+\hline
+\end{tabular}
+\caption{Major bank types as organized in the lecture.}
+\end{table}
+
+The lecture also makes a balance-sheet point that is easy to lose if we move too quickly. These are asset totals, not market capitalizations. A bank's assets are offset by liabilities, above all deposits. So even before formal theory begins, the lecture is already asking us to think institutionally and balance-sheet-wise.
+
+\section{Diamond--Dybvig, Liquidity, and Multiple Equilibria}
+
+Only now does the lecturer announce the theory of banks explicitly. The formal center is Diamond--Dybvig, published in the \textit{Journal of Political Economy} in 1988. The lecture does not derive the model in its complete technical form. It does something more limited and more faithful to the course: it extracts the model's conceptual structure and uses it to organize the rest of the discussion.
+
+\begin{figure}[htbp]
+\centering
+\includegraphics[width=0.78\textwidth]{lecture_13_figure_02.png}
+\caption{Blackboard outline of Diamond--Dybvig, multiple equilibria, and bank runs.}
+\end{figure}
+
+The blackboard stack is worth preserving almost verbatim:
+\begin{equation}
+\begin{array}{c}
+\text{Diamond--Dybvig}\\
+\text{JPE 1988}\\
+\text{Multiple equilibria}\\
+\text{Bank run}
+\end{array}
+\end{equation}
+The visual order on the board matters. We start with the model and its publication marker, move to the phrase \emph{multiple equilibria}, and end on the concrete phenomenon \emph{bank run}. The lecturer's gesture toward the last line makes the progression unmistakable.
+
+What, then, is the model doing in the lecture? It treats liquidity as a genuine economic good. The lecturer's analogy is portfolio diversification: diversification is not a physical resource dug out of the ground, but a benefit produced by arranging a portfolio well. Likewise, liquidity appears when a bank is organized in the right way. Depositors gain access, borrowers gain long financing, and no additional physical resource has been created. That is why the lecture calls liquidity an economic good that one somehow gets ``for nothing.''
+
+But the same institution admits more than one equilibrium. In a cleaned reconstruction of the lecture's logic,
+\begin{align}
+\text{confidence} &\Rightarrow \text{good equilibrium},\\
+\text{panic expectations} &\Rightarrow \text{bad equilibrium} \Rightarrow \text{bank run}.
+\end{align}
+Or, more compactly,
+\begin{equation}
+\text{multiple equilibria} \Rightarrow \text{scope for a bank run}.
+\end{equation}
+
+If people believe the banking system is sound, it functions well. If they suddenly expect others to withdraw, the system can collapse precisely because the assets are long and the liabilities are short. The lecture is careful, though, not to overclaim. It immediately notes that the recent global crisis also involved a real-estate bubble and declining asset prices, elements not built into the clean Diamond--Dybvig setup. The model does not explain everything banks do and everything that can go wrong. But it does capture the essential link between liquidity provision and run-prone equilibrium structure.
+
+\subsection{Question \& Answer}
+
+\paragraph{Question.} Why can deposit insurance keep the system in the good equilibrium?
+
+\paragraph{Answer.} Because the bad equilibrium relies on the incentive to rush for the exit before others do. If depositors believe that even a failing bank will repay them, the incentive to run first is weakened. So deposit insurance is not merely ex post compensation. It is an ex ante device for altering expectations:
+\begin{equation}
+\text{insured deposits}
+\Rightarrow
+\text{less incentive to withdraw early}
+\Rightarrow
+\text{run prevention}.
+\end{equation}
+That is why the lecture presents Diamond--Dybvig not only as a theory of bank runs, but also as an economic rationale for deposit insurance.
+
+\section{Banks as Information and Monitoring Institutions}
+
+The lecture then broadens the theory. Diamond--Dybvig explains why banks create liquidity and why runs can occur. But banks do more than maturity transformation. They also solve information problems that would otherwise cripple direct finance.
+
+Suppose a firm needs money for a factory. It could go to an investment bank, issue bonds or commercial paper, and try to borrow directly from the public. Why, then, do we still need banks? The lecture's answer begins with adverse selection. The public cannot easily judge the quality of a company. Informed investors may take the good paper first. Uninformed investors then start to suspect that what reaches them is precisely the bad paper. Once that suspicion takes hold, direct lending to the public becomes difficult.
+
+The lecture is concrete here rather than abstract. Banks solve this problem by locating themselves inside communities. They employ loan officers who know local businesses, hear local gossip, track local reputations, and gather information that cannot be written down neatly in a securities prospectus. The point is not that banks eliminate uncertainty. The point is that they specialize in screening and can therefore intermediate where atomized public investors cannot.
+
+\subsection{Question \& Answer}
+
+\paragraph{Question.} Why borrow from a bank instead of issuing securities directly to the public?
+
+\paragraph{Answer.} Because the bank is not merely passing funds through. It is producing information. A bank can spend resources to know the borrower, while scattered public investors cannot do so cheaply. The bank therefore stands between savers and borrowers as a delegated expert. In the lecture's logic, banks are useful not only because they create liquidity, but because they reduce the adverse-selection problem that would otherwise poison direct debt issuance.
+
+The lecture then adds moral hazard. A borrower who has received funds may take actions that are far riskier than the lender intended. The racetrack example is deliberately theatrical: a distressed firm borrows money, takes a wild gamble, keeps the upside if it wins, and shifts much of the downside onto others if it loses. The lecture does not formalize expected utility, and we should not pretend that it does. But it gives a clear limited-liability intuition: once debt is in place, borrowers may want to swing for the fences.
+
+Banks respond not only by screening up front, but by monitoring after the fact. Commercial loans are often formally short-term and repeatedly renewed. That keeps the borrower under observation:
+\begin{equation}
+\text{short-term loan}
+\Rightarrow
+\text{renewal}
+\Rightarrow
+\text{monitoring leverage}.
+\end{equation}
+If the bank sees behavior that looks like moral hazard, it can tighten terms or refuse renewal. So the lecture's second theoretical spine is this: banks are not only liquidity providers, but also information processors and monitors.
+
+\section{Deposit Insurance in Practice: FDIC, FSLIC, Northern Rock, and IKB}
+
+Having moved from liquidity to information, the lecture returns to institutions and asks what governments actually do about runs. Deposit insurance first appeared in the lecture as a theoretical answer inside Diamond--Dybvig. It now reappears as a historically uneven institutional device.
+
+The basic idea is simple. People hear rumors, panic, and try to withdraw deposits. Governments therefore guarantee deposits in order to prevent runs. But the history is ``checkered,'' as the lecture puts it, because guarantees can be limited, insurers can fail, and what really stops the run is often not the formal scheme alone but the state's willingness to stand behind it.
+
+The lecture first turns to the United States and the FDIC, created in 1933. Its striking claim is not merely that the FDIC has not failed. It is that the FDIC changed public psychology. Since 1933 the United States did not experience the old-style depositor panic on insured commercial banks that had characterized earlier crises. The lecture explicitly connects this to multiple equilibria: if people believe the system is sound, it is much more likely to remain sound.
+
+The contrast case is the FSLIC, which insured savings and loan institutions and did fail. In the S\&L crisis of the 1980s, the insurer ran through its reserves and became insolvent. The U.S. government then stepped in and paid the losses. The lecture gives the bill as about \(\$150\) billion. The institutional moral is sharp: the visible insurer may not be the ultimate guarantor. The ultimate guarantor is the state, which cannot afford a collapse in confidence.
+
+\begin{figure}[htbp]
+\centering
+\includegraphics[width=0.78\textwidth]{lecture_13_figure_03.png}
+\caption{Crisis-comparison board notes with S\&L and Northern Rock.}
+\end{figure}
+
+To keep the board evidence close to the institutional narrative, we can pair the screenshot with the minimal cleaned reconstruction it supports:
+\begin{equation}
+\text{S\&L crisis},\qquad 1980\text{s},\qquad \$150\text{ billion},\qquad \text{Northern Rock}.
+\end{equation}
+
+Northern Rock provides the lecture's modern run example. In 2007, a rumor spread that the bank held large amounts of subprime exposure. Depositors lined up outside the branches. Newspaper photographs amplified the panic. Yet the United Kingdom already had deposit insurance. The lecture states the scheme cautiously as follows:
+\begin{equation}
+\text{full insurance up to }\pounds 3{,}000,\qquad
+90\% \text{ insurance up to }\pounds 75{,}000.
+\end{equation}
+That did not stop the run. According to the lecture, the relevant fact is simple: many depositors had more than the fully insured amount, and partial insurance was not enough to eliminate the incentive to run. Confidence returned only when the authorities effectively guaranteed everyone.
+
+The same pattern appears in Germany with IKB. There, the government intervened before a full-scale run:
+\begin{equation}
+\text{IKB bailout} = 1.5\text{ billion euros}.
+\end{equation}
+Again the logic is not subtle. Governments move because once confidence is lost, the cost of restoring it later can be much higher.
+
+\subsection{Question \& Answer}
+
+\paragraph{Question.} Why can a bank run still happen even when deposit insurance exists?
+
+\paragraph{Answer.} Because a formal scheme may be too narrow to change incentives for the relevant depositors. If large balances are only partly protected, or if the public doubts the scope of the guarantee, depositors still want to be first in line. The lecture's lesson is that what matters is not the legal wording alone, but the credibility of the backstop. A limited guarantee may not stop a run. A credible blanket guarantee often does.
+
+\section{Basel Regulation and the Arithmetic of Capital Requirements}
+
+At this point the next transition is almost forced. If we insure banks, then we must regulate them. Otherwise the insurance itself creates bank moral hazard. The lecture says this very directly. A bank can do its own version of the racetrack gamble: it can take on very risky assets, enjoy the upside if things go well, and shift losses onto the insurer if things go badly. Insurance without regulation is therefore unstable.
+
+This leads into Basel. The lecture gives the chronology in sequence:
+\begin{equation}
+\text{Basel I }(1988),\qquad \text{Basel II }(2004),\qquad \text{Basel III }(2010),
+\end{equation}
+with Basel III phased in gradually until 2019. Basel is not world government. The Basel committee cannot command states. It issues recommendations. But the recommendations were widely adopted because banking is international and countries do not want radically inconsistent regulatory environments.
+
+The lecture then reduces the Basel framework to one essential device: capital requirements based on risk-weighted assets. The bank must hold enough capital for the risks it takes. That requires a regulatory measure of risk. In the lecture's simplified version, the key weights are
+\begin{equation}
+0\%,\quad 20\%,\quad 50\%,\quad 100\%.
+\end{equation}
+The lecture's classification can be summarized as
+\begin{align}
+w_{\text{gov}} &= 0,\\
+w_{\text{muni/Fannie/Freddie}} &= 0.2,\\
+w_{\text{mort}} &= 0.5,\\
+w_{\text{biz}} &= 1.
+\end{align}
+The transcript is loose on the expansion of the OECD acronym, so it is better to keep the label simple and follow the lecture's substance rather than its exact wording: advanced-country sovereign bonds receive the zero weight in the simplified discussion.
+
+Now comes the most extended arithmetic of the lecture. Suppose a bank has four blocks of assets, each equal to \(100\) million dollars: government bonds, Fannie/Freddie exposure, mortgages, and commercial loans. Then
+\begin{equation}
+A = 100 + 100 + 100 + 100 = 400\text{ million}.
+\end{equation}
+But total assets are not the same thing as risk-weighted assets. Once the Basel weights are applied, we obtain
+\begin{equation}
+\text{RWA} = 100(0) + 100(0.2) + 100(0.5) + 100(1) = 170\text{ million}.
+\end{equation}
+This is the first key worked step. The bank owns \(400\) million in assets, but from the regulatory point of view it carries only \(170\) million of risk-weighted assets.
+
+The lecture then jumps to Basel III common-equity requirements. In its simplified form,
+\begin{align}
+\text{CE}_{\min} &= 0.045\,\text{RWA},\\
+\text{effective CE target} &= (0.045 + 0.025)\,\text{RWA} = 0.07\,\text{RWA},\\
+\text{countercyclical target} &= (0.045 + 0.025 + 0.025)\,\text{RWA} = 0.095\,\text{RWA}.
+\end{align}
+The lecture explains the \(2.5\%\) capital conservation buffer carefully. It is not quite the same as the hard minimum, but banks that fall short of it face payout restrictions. So in practice the lecturer treats \(7\%\) as the operative target.
+
+Applying that target to the worked bank gives
+\begin{equation}
+0.07 \times 170\text{ million} = 11.9\text{ million}.
+\end{equation}
+So the bank's common equity should be about \(11.9\) million dollars in the practical Basel III sense of the lecture.
+
+To connect the regulation back to balance sheets, the lecture reminds us that shareholders' equity is what remains after liabilities are subtracted from assets:
+\begin{equation}
+E = A - L.
+\end{equation}
+Common equity is then obtained from total shareholders' equity by subtracting preferred equity:
+\begin{equation}
+\text{CE} = E - \text{preferred equity}.
+\end{equation}
+
+The most illuminating step comes next. Suppose the bank actually has \(12.9\) million of common equity. It is therefore \(1\) million above the practical requirement. What can it do with that extra million? The answer depends on the asset weight. If it buys additional Fannie/Freddie paper at a \(20\%\) weight, then
+\begin{equation}
+\frac{1{,}000{,}000}{0.2 \times 0.07} \approx 71.4\text{ million},
+\end{equation}
+which the lecture rounds to about \(70\) million. But if the bank uses the same slack for \(100\%\)-weighted business loans, it gets only
+\begin{equation}
+\frac{1{,}000{,}000}{0.07} \approx 14.3\text{ million},
+\end{equation}
+which the lecture rounds to about \(14\) million.
+
+This is where the lecture becomes most interesting. The arithmetic does not merely measure safety. It changes incentives. If one dollar of excess common equity supports far more low-weighted mortgage-related exposure than business lending, banks are nudged toward the former and away from the latter. The lecture then makes that criticism explicit by linking low weights on Fannie and Freddie to the distorted buildup before the financial crisis.
+
+\subsection{Question \& Answer}
+
+\paragraph{Question.} Why can risk-weighted capital rules push banks toward assets that are socially or economically inferior?
+
+\paragraph{Answer.} Because scarce equity is allocated where regulation lets it go furthest. If the same \(1\) million of surplus capital supports about \(70\) million of low-weighted mortgage-related exposure but only about \(14\) million of business loans, the bank has a clear balance-sheet incentive to prefer the former. The lecture's criticism of Basel is therefore not that capital requirements are useless. It is that the chosen weights can favor assets that look safer to the regulator while starving other forms of lending that may be more productive for the economy. Basel can reply that its job is bank soundness, not industrial policy. But that reply explains the distortion; it does not remove it.
+
+\section{Global Banking Crises, Contagion, and Shadow Banking}
+
+From Basel the lecture widens again. The recent global crisis is vivid, but it is not unique. Banking crises recur, and they spread.
+
+Mexico is the first example. The lecture describes the privatization of banks under Salinas, a lending boom, and the absence of effective regulation. Its key quantitative marker is very sharp:
+\begin{equation}
+\frac{\text{bank lending}}{\text{GDP}} \approx 10\% \text{ in 1988},\qquad
+40\% \text{ in 1994}.
+\end{equation}
+That explosive increase is not presented as a curiosity. It is evidence of what happens when liberalization outruns supervision. The lecture's interpretation is that moral hazard grew in the background because lenders and borrowers came to believe that the government would somehow make them whole if things went badly. It turned out that it could not.
+
+The Asian crisis is then described as something like an international bank run. International banks had lent heavily into several Asian countries. Then international investors wanted their money back. Funds were withdrawn, dependence on foreign lending was exposed, and the crisis spread from Asia into Russia and then Brazil. The lecture is using these examples to make a single point: the world financial system is interconnected, and that interconnection is one of the reasons countries now try to coordinate bank regulation through groups such as the G20.
+
+Argentina is treated more briefly. The lecture mentions it as another case in which banking disruption became severe enough that the government shut down parts of the system. The details are not developed here, and so the note should not pretend that they were. The example functions as one more reminder that banking crises are recurrent, severe, and politically destabilizing.
+
+The final horizon is shadow banking. Here the lecture becomes deliberately gestural. Shadow banking means institutions that are not commercial banks but are nevertheless doing bank-like things. The lecture names major investment banks associated with the recent crisis and emphasizes that they were outside the Basel III framework as commercial banks. Innovation keeps producing new structures, and regulators struggle to keep up. The lecturer does not conclude that innovation should be stopped. He concludes that regulation will necessarily become more complex.
+
+\subsection{Summary}
+
+We can now see the lecture unfold as a single argument. We begin by trying to define a bank through spread income, but that is not enough. We then arrive at liquidity creation, and with it at fragility. History shows that these functions are old. Modern institutional types show that the system is heterogeneous and already regulated before theory begins. Diamond--Dybvig explains why liquidity is valuable and why multiple equilibria make runs possible. Information and monitoring explain why banks still matter even when securities markets exist. Deposit insurance stabilizes expectations, but because it creates moral hazard it immediately leads us to regulation. Basel supplies the arithmetic of that regulation, yet its risk weights can distort bank behavior. The international crises at the end of the lecture are therefore not an appendix. They are evidence that banking failures are recurrent, contagious, and central to macroeconomic life. That is why the lecture closes with a defense of regulators: they are trying to manage a system that is both indispensable and structurally delicate.
