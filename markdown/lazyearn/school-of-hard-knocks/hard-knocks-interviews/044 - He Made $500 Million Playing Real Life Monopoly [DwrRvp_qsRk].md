@@ -1,0 +1,561 @@
+# Transcript
+
+Source: lazyearn/school-of-hard-knocks/hard-knocks-interviews/044 - He Made $500 Million Playing Real Life Monopoly [DwrRvp_qsRk].webm
+
+- [00:00:00,000 - 00:00:02,120] The guy I'm about to interview
+- [00:00:02,120 - 00:00:04,240] has a $500 million net worth.
+- [00:00:04,360 - 00:00:05,960] And he invited us out to
+- [00:00:05,960 - 00:00:07,560] his $20 million mansion out here.
+- [00:00:07,680 - 00:00:08,740] This is insane, you guys.
+- [00:00:08,880 - 00:00:09,140] Ben.
+- [00:00:10,820 - 00:00:11,560] It's good to see you.
+- [00:00:11,780 - 00:00:13,000] How you doing?
+- [00:00:13,120 - 00:00:14,020] Thanks for having us out.
+- [00:00:14,100 - 00:00:14,960] This place is incredible.
+- [00:00:15,320 - 00:00:15,780] Is it?
+- [00:00:15,820 - 00:00:16,100] Yes.
+- [00:00:16,300 - 00:00:17,880] And it all could be yours, baby.
+- [00:00:18,100 - 00:00:18,280] Yeah?
+- [00:00:18,580 - 00:00:20,160] Just pull out that checkbook.
+- [00:00:20,280 - 00:00:21,120] Who am I here with today?
+- [00:00:21,240 - 00:00:22,660] You are here with Ben Mala.
+- [00:00:22,820 - 00:00:23,640] What is your net worth?
+- [00:00:23,780 - 00:00:25,720] On paper, it's close to about $500 million.
+- [00:00:25,820 - 00:00:26,580] So you're buying hotels?
+- [00:00:26,760 - 00:00:29,260] We've bought and sold, I couldn't count how many hotels.
+- [00:00:29,260 - 00:00:30,840] At first, I didn't have any money.
+- [00:00:30,960 - 00:00:32,840] And the first thing everybody has to
+- [00:00:32,840 - 00:00:34,720] learn is you have to borrow money.
+- [00:00:34,820 - 00:00:36,170] If you ain't got no money,
+- [00:00:36,170 - 00:00:37,520] you got one choice in life.
+- [00:00:37,580 - 00:00:38,480] You borrow it.
+- [00:00:38,680 - 00:00:39,500] Are you a good salesman?
+- [00:00:39,580 - 00:00:40,720] Me? No, I can't sell.
+- [00:00:40,880 - 00:00:42,600] I can sell ice to Eskimos.
+- [00:00:42,720 - 00:00:44,270] Now, we're in the backyard of
+- [00:00:44,270 - 00:00:45,820] your $30 million mansion right here.
+- [00:00:45,940 - 00:00:46,700] I want everybody to see.
+- [00:00:46,780 - 00:00:48,330] Guys, guys, this is the
+- [00:00:48,330 - 00:00:49,880] most insane backyard I've ever seen.
+- [00:00:49,980 - 00:00:51,540] What's your last message to somebody?
+- [00:00:51,540 - 00:00:52,340] You didn't see the bowling alley.
+- [00:00:52,460 - 00:00:53,540] You got a bowling alley in there too?
+- [00:00:53,900 - 00:00:55,270] What's your last message to somebody trying to
+- [00:00:55,270 - 00:00:56,640] own a place like this in today's world?
+- [00:00:56,700 - 00:00:57,620] They want to become...
+- [00:00:59,260 - 00:01:01,120] Guys, I'm about to interview one of
+- [00:01:01,120 - 00:01:02,980] the richest men in all of Florida.
+- [00:01:03,120 - 00:01:05,430] And in fact, he has a net worth
+- [00:01:05,430 - 00:01:07,740] of over $500 million, half a billion dollars.
+- [00:01:07,860 - 00:01:10,480] It's Ben Mala, one of the most
+- [00:01:10,480 - 00:01:13,100] renowned real estate entrepreneurs in the entire world.
+- [00:01:13,200 - 00:01:15,060] He owns hotels, apartment complexes,
+- [00:01:15,060 - 00:01:16,920] buildings all over the world.
+- [00:01:17,039 - 00:01:18,580] So I'm going to go up to his house.
+- [00:01:18,660 - 00:01:19,360] We're going to meet him
+- [00:01:19,360 - 00:01:20,060] and we're going to interview him.
+- [00:01:20,060 - 00:01:21,820] Figure out how you can start creating wealth
+- [00:01:21,820 - 00:01:23,580] and becoming wealthy through real estate in today's world.
+- [00:01:23,660 - 00:01:24,940] Even if you don't have a lot of money.
+- [00:01:25,100 - 00:01:26,030] So let's go meet up with Ben
+- [00:01:26,030 - 00:01:26,960] and go see what he has to say.
+- [00:01:27,060 - 00:01:27,380] Come on.
+- [00:01:27,600 - 00:01:28,520] Look at this place, you guys.
+- [00:01:29,260 - 00:01:30,240] $20 million mansion.
+- [00:01:30,460 - 00:01:31,680] We got our guy Ben out here front.
+- [00:01:31,780 - 00:01:33,040] He's got the Rolls Royce, the Ferrari.
+- [00:01:33,200 - 00:01:34,280] This place is insane.
+- [00:01:34,540 - 00:01:34,760] Ben.
+- [00:01:35,780 - 00:01:36,840] What's going on, my friend?
+- [00:01:36,960 - 00:01:37,420] How are you?
+- [00:01:37,440 - 00:01:37,780] How are you?
+- [00:01:37,780 - 00:01:38,500] It's good to see you.
+- [00:01:38,740 - 00:01:39,900] How you doing?
+- [00:01:40,040 - 00:01:40,980] Thanks for having us out.
+- [00:01:41,100 - 00:01:41,700] Thanks for coming.
+- [00:01:41,780 - 00:01:42,360] Thanks for coming.
+- [00:01:42,540 - 00:01:43,340] It's good to see you, sir.
+- [00:01:43,400 - 00:01:43,860] What's going on, sir?
+- [00:01:43,860 - 00:01:44,280] How you doing?
+- [00:01:44,320 - 00:01:44,820] How's everything going?
+- [00:01:45,000 - 00:01:45,480] Doing well.
+- [00:01:45,480 - 00:01:46,520] This place is incredible.
+- [00:01:46,840 - 00:01:47,300] Is it?
+- [00:01:47,360 - 00:01:47,640] Yes.
+- [00:01:47,800 - 00:01:49,400] And it all could be yours, baby.
+- [00:01:49,620 - 00:01:49,820] Yeah.
+- [00:01:50,040 - 00:01:51,740] Just pull out that checkbook.
+- [00:01:51,880 - 00:01:52,020] Yeah.
+- [00:01:52,120 - 00:01:53,070] So that's what we're going
+- [00:01:53,070 - 00:01:54,020] to be talking about today, right?
+- [00:01:54,080 - 00:01:56,450] We know that you became successful, accumulated hundreds
+- [00:01:56,450 - 00:01:58,820] of millions of dollars of wealth through real estate.
+- [00:01:59,260 - 00:02:00,180] This is going to be a master class.
+- [00:02:00,360 - 00:02:01,180] A master class?
+- [00:02:01,180 - 00:02:02,320] I want this to be the best real
+- [00:02:02,320 - 00:02:03,460] estate interview that I've ever done in my life.
+- [00:02:03,480 - 00:02:05,300] Just remember, I'm the master and you're the student.
+- [00:02:05,540 - 00:02:06,000] That's correct.
+- [00:02:06,080 - 00:02:07,260] And that's why I'm here to learn from you.
+- [00:02:07,500 - 00:02:08,000] Very good.
+- [00:02:08,139 - 00:02:09,280] So can we get into things?
+- [00:02:09,400 - 00:02:10,039] Let's do it.
+- [00:02:10,100 - 00:02:10,979] Let's rock and roll.
+- [00:02:11,120 - 00:02:11,440] Amazing.
+- [00:02:11,620 - 00:02:12,480] Who am I here with today?
+- [00:02:12,560 - 00:02:14,000] You're here with Ben Mala.
+- [00:02:14,000 - 00:02:15,040] What is your net worth?
+- [00:02:15,180 - 00:02:17,060] On paper, it's close to about $500 million.
+- [00:02:17,240 - 00:02:18,160] Did you come from a lot of money?
+- [00:02:18,340 - 00:02:18,580] No.
+- [00:02:18,720 - 00:02:20,060] My family was dirt poor.
+- [00:02:20,180 - 00:02:21,490] My father was the ultimate
+- [00:02:21,490 - 00:02:22,800] cheapskate, too, besides being poor.
+- [00:02:22,880 - 00:02:24,600] And for those that don't know, what industry
+- [00:02:24,600 - 00:02:26,320] did you decide to pursue a career in?
+- [00:02:26,420 - 00:02:27,500] Real estate.
+- [00:02:27,500 - 00:02:28,980] How long have you been in the business?
+- [00:02:29,180 - 00:02:30,970] I started in my early 20s
+- [00:02:30,970 - 00:02:32,760] and I'm in my late 50s.
+- [00:02:32,840 - 00:02:33,560] You do the math.
+- [00:02:33,680 - 00:02:35,300] So what was the turning point getting into real estate?
+- [00:02:35,420 - 00:02:37,590] Real estate is probably the most common
+- [00:02:37,590 - 00:02:39,760] way any human being can make money.
+- [00:02:40,040 - 00:02:40,300] Why?
+- [00:02:40,400 - 00:02:41,260] Because you need it.
+- [00:02:41,400 - 00:02:42,520] Everybody needs a place to live.
+- [00:02:42,760 - 00:02:43,780] Everybody needs a place to work.
+- [00:02:44,000 - 00:02:45,740] Everybody needs a place to shop, right?
+- [00:02:45,900 - 00:02:46,880] I mean, it's essential.
+- [00:02:47,060 - 00:02:49,180] At first, we were just into affordable housing
+- [00:02:49,180 - 00:02:51,300] and then we moved into retail and we went
+- [00:02:51,300 - 00:02:52,060] into hotels.
+- [00:02:52,400 - 00:02:53,720] So we're all over the board now.
+- [00:02:53,760 - 00:02:54,500] So you're buying hotels?
+- [00:02:54,680 - 00:02:55,800] We've bought and sold.
+- [00:02:55,800 - 00:02:57,260] I couldn't count how many hotels.
+- [00:02:57,500 - 00:02:59,220] All over Orlando, Tampa, on this
+- [00:02:59,220 - 00:03:00,940] side of the bay, all over.
+- [00:03:01,000 - 00:03:02,040] How do you get the money to buy hotels?
+- [00:03:02,260 - 00:03:03,580] It's just like buying anything else.
+- [00:03:03,740 - 00:03:04,800] The hotel's making money.
+- [00:03:04,920 - 00:03:06,390] You go to the bank and say, okay,
+- [00:03:06,390 - 00:03:07,860] I want to buy this hotel for this price.
+- [00:03:07,960 - 00:03:08,580] They look at it.
+- [00:03:08,640 - 00:03:09,380] They appraise it.
+- [00:03:09,460 - 00:03:10,940] Yeah, it's a good deal at that price.
+- [00:03:11,060 - 00:03:12,460] They're going to give me 80 cents on the dollar.
+- [00:03:12,580 - 00:03:14,240] Maybe the hotel is 75, but with me,
+- [00:03:14,240 - 00:03:15,900] they'll probably push 80 because they really want
+- [00:03:15,900 - 00:03:16,180] the loan.
+- [00:03:16,260 - 00:03:18,430] There's a big misconception in today's world that you
+- [00:03:18,430 - 00:03:20,600] have to have a ton of money to start
+- [00:03:20,600 - 00:03:21,720] creating wealth in real estate.
+- [00:03:21,820 - 00:03:22,500] Do you agree with that?
+- [00:03:22,540 - 00:03:23,450] Or do you think you don't have to have
+- [00:03:23,450 - 00:03:24,360] any money to get in the game at all?
+- [00:03:24,360 - 00:03:25,780] Listen, everybody's on a different level.
+- [00:03:25,920 - 00:03:26,860] You got to get in.
+- [00:03:26,860 - 00:03:27,860] Where you fit in.
+- [00:03:28,000 - 00:03:28,160] Okay.
+- [00:03:28,400 - 00:03:29,780] At first, I didn't have any money.
+- [00:03:29,920 - 00:03:31,800] And the first thing everybody has to
+- [00:03:31,800 - 00:03:33,680] learn is you have to borrow money.
+- [00:03:33,840 - 00:03:35,160] If you ain't got no money,
+- [00:03:35,160 - 00:03:36,480] you got one choice in life.
+- [00:03:36,560 - 00:03:37,460] You borrow it.
+- [00:03:37,660 - 00:03:38,620] There's no other choice.
+- [00:03:38,840 - 00:03:40,140] Where's the best place to borrow money from?
+- [00:03:40,240 - 00:03:40,640] The bank.
+- [00:03:40,740 - 00:03:41,580] But is a bank going to give
+- [00:03:41,580 - 00:03:42,420] you money if you don't have capital?
+- [00:03:42,580 - 00:03:43,520] How do you get money from a bank?
+- [00:03:43,620 - 00:03:44,180] Okay, listen.
+- [00:03:44,340 - 00:03:46,500] If you're just starting out, there's all kinds of ways.
+- [00:03:46,660 - 00:03:48,260] My first deal was a VA loan.
+- [00:03:48,380 - 00:03:50,620] VA loan, you go up to four units, one
+- [00:03:50,620 - 00:03:52,860] to four units, and you get no money down, baby.
+- [00:03:53,020 - 00:03:53,340] All right.
+- [00:03:53,420 - 00:03:54,820] But let's say you weren't in the military.
+- [00:03:55,040 - 00:03:56,200] Then you got to go FHA.
+- [00:03:56,200 - 00:03:56,760] FHA.
+- [00:03:56,860 - 00:03:58,360] FHA is three and a half percent down.
+- [00:03:58,520 - 00:04:00,140] One to four units.
+- [00:04:00,320 - 00:04:01,100] You know what that means?
+- [00:04:01,300 - 00:04:02,760] That means you can buy four units.
+- [00:04:02,960 - 00:04:05,380] The three units will pay all your bills.
+- [00:04:05,520 - 00:04:06,830] And this one here, you
+- [00:04:06,830 - 00:04:08,140] live for free at a minimum.
+- [00:04:08,320 - 00:04:09,620] Or if you really get
+- [00:04:09,620 - 00:04:10,920] lucky, you'll get cash flow too.
+- [00:04:11,040 - 00:04:12,000] Depends on the buy.
+- [00:04:12,100 - 00:04:13,280] It's all in the buy.
+- [00:04:13,400 - 00:04:14,460] You got to buy it right.
+- [00:04:14,600 - 00:04:15,900] That's what real estate's all about.
+- [00:04:16,019 - 00:04:17,720] Setting yourself up to do the deal with the
+- [00:04:17,720 - 00:04:19,420] money from the bank and finding the right deal.
+- [00:04:19,500 - 00:04:21,700] Everything else is common sense and you can pay people.
+- [00:04:21,820 - 00:04:22,710] You know, you got all
+- [00:04:22,710 - 00:04:23,600] kinds of tools in real estate.
+- [00:04:23,720 - 00:04:24,460] I use lawyers.
+- [00:04:24,620 - 00:04:25,300] I use brokers.
+- [00:04:25,300 - 00:04:26,560] I use bankers.
+- [00:04:26,560 - 00:04:28,160] You're just basically putting all the
+- [00:04:28,160 - 00:04:29,760] right pieces in the right place.
+- [00:04:29,940 - 00:04:31,060] Let me ask you this because I want to
+- [00:04:31,060 - 00:04:32,180] talk about debt real quick because a lot of people
+- [00:04:32,180 - 00:04:33,580] are terrified to take on that debt.
+- [00:04:33,860 - 00:04:33,960] Ooh.
+- [00:04:34,140 - 00:04:35,340] I don't want to borrow any money.
+- [00:04:35,620 - 00:04:35,980] Ooh.
+- [00:04:36,140 - 00:04:37,300] But will you live and fucking grow?
+- [00:04:37,360 - 00:04:38,100] Pardon my language.
+- [00:04:38,200 - 00:04:38,500] No, no, no.
+- [00:04:38,600 - 00:04:38,980] Hey, hey.
+- [00:04:39,360 - 00:04:41,540] The point is if you don't borrow money, I
+- [00:04:41,540 - 00:04:43,720] go out and do a deal tomorrow for, say, $10
+- [00:04:43,720 - 00:04:44,560] million, right?
+- [00:04:44,640 - 00:04:45,220] Simple deal.
+- [00:04:45,300 - 00:04:45,840] $10 million.
+- [00:04:46,220 - 00:04:48,640] I put two down and the bank puts eight.
+- [00:04:48,760 - 00:04:49,840] Who's taking all the risk?
+- [00:04:49,920 - 00:04:50,340] The bank.
+- [00:04:50,520 - 00:04:51,880] And yeah, are rates high now?
+- [00:04:51,960 - 00:04:52,740] Yes, they're higher.
+- [00:04:52,740 - 00:04:54,580] But you really got to worry about the rate
+- [00:04:54,580 - 00:04:56,420] being whether it's four or five or six or
+- [00:04:56,560 - 00:04:57,040] seven.
+- [00:04:57,220 - 00:04:58,580] Then that probably ain't the right deal.
+- [00:04:58,680 - 00:05:00,380] You got to have a much bigger cushion
+- [00:05:00,380 - 00:05:02,080] than that and profit to worry about paying the
+- [00:05:02,080 - 00:05:03,600] bank, you know, 6%.
+- [00:05:03,600 - 00:05:05,110] If I borrow a million bucks in
+- [00:05:05,110 - 00:05:06,620] a bank, that's $60,000 a year in interest.
+- [00:05:06,740 - 00:05:07,640] That's $5,000 a month.
+- [00:05:07,740 - 00:05:08,840] That's when you got to figure it out.
+- [00:05:08,920 - 00:05:10,060] The deal's got to make sense.
+- [00:05:10,160 - 00:05:11,510] It's all in buying the right deal
+- [00:05:11,510 - 00:05:12,860] and having a plan for that deal.
+- [00:05:13,040 - 00:05:14,530] Are banks still lending money in today's world
+- [00:05:14,530 - 00:05:16,020] at the same rate that they once were?
+- [00:05:16,100 - 00:05:17,580] Banks have to loan money.
+- [00:05:17,660 - 00:05:18,700] That's how they make money.
+- [00:05:18,800 - 00:05:20,580] If they don't loan money, they don't make no money.
+- [00:05:20,680 - 00:05:22,300] A bank has only worked what the loans are.
+- [00:05:22,300 - 00:05:23,860] Now, if the loans go bad,
+- [00:05:23,860 - 00:05:25,420] that means the banks work less money.
+- [00:05:25,580 - 00:05:26,300] That's when we have opportunities.
+- [00:05:26,920 - 00:05:27,580] So how did you leverage?
+- [00:05:27,580 - 00:05:29,340] That's what we're waiting for to happen right now.
+- [00:05:29,360 - 00:05:31,180] How did you leverage debt to build wealth?
+- [00:05:31,260 - 00:05:32,050] Listen, the first thing you
+- [00:05:32,050 - 00:05:32,840] got to do is get pre-qualified.
+- [00:05:33,080 - 00:05:34,530] If you don't have nothing, but you got to
+- [00:05:34,530 - 00:05:35,980] have a job, come on, you got to have some
+- [00:05:35,980 - 00:05:36,440] kind of income.
+- [00:05:36,540 - 00:05:38,170] The easiest first way to get
+- [00:05:38,170 - 00:05:39,800] in the door is doing FHA.
+- [00:05:40,040 - 00:05:41,210] And if you're a younger
+- [00:05:41,210 - 00:05:42,380] person, you don't buy a house.
+- [00:05:42,500 - 00:05:44,700] You buy a duplex, a triplex, a fourplex,
+- [00:05:44,700 - 00:05:46,900] something that generates income and provides you with
+- [00:05:46,900 - 00:05:47,600] a place to live.
+- [00:05:47,700 - 00:05:49,550] So this way, you don't have the whole
+- [00:05:49,550 - 00:05:51,400] burden of all the bills being on your shoulders.
+- [00:05:51,400 - 00:05:53,200] And later on in life, you get the house.
+- [00:05:53,420 - 00:05:55,120] You know, it's all, everything's steps in life.
+- [00:05:55,320 - 00:05:56,460] Guys, this interview with Ben.
+- [00:05:56,460 - 00:05:58,460] Has been incredible so far, but one thing
+- [00:05:58,460 - 00:06:00,460] that I've noticed from spending a lot of time
+- [00:06:00,460 - 00:06:02,659] with guys like Ben, who's worth half
+- [00:06:02,659 - 00:06:04,859] a billion dollars and other successful people, even
+- [00:06:04,859 - 00:06:06,859] off camera, it's that not only do they
+- [00:06:06,859 - 00:06:08,859] have an incredible team, but at every point in
+- [00:06:08,859 - 00:06:11,289] their career or their business, they had somebody that
+- [00:06:11,289 - 00:06:13,719] was able to help them step by step, get
+- [00:06:13,719 - 00:06:15,619] to that next level and ultimately help guys
+- [00:06:15,619 - 00:06:17,520] like him build a half a billion dollar net
+- [00:06:17,520 - 00:06:17,740] worth.
+- [00:06:17,820 - 00:06:19,080] And I'm talking to you right now.
+- [00:06:19,080 - 00:06:20,820] If you're at a point in your career
+- [00:06:20,820 - 00:06:22,560] where you don't have those people around you, you
+- [00:06:22,560 - 00:06:24,480] don't have those people that are five, 10,
+- [00:06:24,480 - 00:06:26,400] 15, 20 steps ahead, even one step ahead, they
+- [00:06:26,400 - 00:06:26,440] get to that next level.
+- [00:06:26,460 - 00:06:29,230] And I want to give you the opportunity right
+- [00:06:29,230 - 00:06:32,000] now to become a member of the number one community
+- [00:06:32,000 - 00:06:33,880] for business owners in the entire
+- [00:06:33,880 - 00:06:35,760] world called the school of mentors.
+- [00:06:35,760 - 00:06:37,380] And I launched and built this community
+- [00:06:37,380 - 00:06:39,000] a couple months ago, and I've already grown
+- [00:06:39,000 - 00:06:40,520] it to over 4,000 members.
+- [00:06:40,520 - 00:06:42,779] And the reason why is because every single
+- [00:06:42,779 - 00:06:45,039] week I bring in the eight figure, the nine
+- [00:06:45,039 - 00:06:46,999] figure, the billion dollar entrepreneurs that I
+- [00:06:46,999 - 00:06:48,960] interview on this channel, guys, just like
+- [00:06:48,960 - 00:06:50,969] Ben, where these huge business owners
+- [00:06:50,969 - 00:06:52,979] will mentor all of our members directly.
+- [00:06:52,979 - 00:06:54,669] You can literally ask your questions
+- [00:06:54,669 - 00:06:56,359] to the people that I'm interviewing.
+- [00:06:56,460 - 00:06:58,360] So that way you can start to build the
+- [00:06:58,360 - 00:07:00,260] business of your dreams and start to build that financial
+- [00:07:00,260 - 00:07:00,659] freedom.
+- [00:07:00,659 - 00:07:03,149] Guys, I've literally had people like Ben,
+- [00:07:03,149 - 00:07:05,640] for example, Todd Napola, who owns over $500
+- [00:07:05,640 - 00:07:07,950] million worth of real estate, come into my
+- [00:07:07,950 - 00:07:10,260] community and teach the members step by step,
+- [00:07:10,260 - 00:07:11,520] how to invest in real estate.
+- [00:07:11,560 - 00:07:13,700] Even if you have no money to your name
+- [00:07:13,700 - 00:07:15,840] at all, literally the blueprint on how to get
+- [00:07:15,840 - 00:07:17,900] access to capital, how to negotiate with banks,
+- [00:07:17,900 - 00:07:19,960] how to find deals, how to make your money
+- [00:07:19,960 - 00:07:20,440] work for you.
+- [00:07:20,440 - 00:07:22,820] When you start to have it coming in guys,
+- [00:07:22,820 - 00:07:25,200] there's not a single platform or community that we
+- [00:07:25,200 - 00:07:26,340] have anywhere else.
+- [00:07:26,340 - 00:07:26,400] In the world.
+- [00:07:26,400 - 00:07:27,299] In the world right now.
+- [00:07:27,299 - 00:07:29,549] And I want to bring you guys my
+- [00:07:29,549 - 00:07:31,799] multi multi multi billion dollar network of people that
+- [00:07:31,799 - 00:07:33,729] I know to mentor you directly
+- [00:07:33,729 - 00:07:35,659] every week on live zoom calls.
+- [00:07:35,760 - 00:07:37,400] So come get mentored from a billionaire.
+- [00:07:37,400 - 00:07:39,529] Come get mentored from an eight figure,
+- [00:07:39,529 - 00:07:41,659] nine figure entrepreneur and watch your life change.
+- [00:07:41,700 - 00:07:43,230] Just like the people that I
+- [00:07:43,230 - 00:07:44,760] interview to join today for free.
+- [00:07:44,780 - 00:07:46,300] All you have to do is go down
+- [00:07:46,300 - 00:07:47,820] to the link in the description of this video.
+- [00:07:47,859 - 00:07:49,400] I can't wait to see you on the inside.
+- [00:07:49,440 - 00:07:50,850] That being said, let's get back
+- [00:07:50,850 - 00:07:52,260] to the interview throughout your career.
+- [00:07:52,320 - 00:07:53,480] What was the most amount of money
+- [00:07:53,480 - 00:07:54,640] that you made in a single year?
+- [00:07:54,659 - 00:07:55,919] You know, we don't really go by the year.
+- [00:07:55,960 - 00:07:56,280] All I can change.
+- [00:07:56,280 - 00:07:57,539] I'll tell you is I sold
+- [00:07:57,539 - 00:07:58,799] a package for 90 something million.
+- [00:07:58,859 - 00:08:00,179] Not that long ago last year.
+- [00:08:00,219 - 00:08:01,619] And it was a package of properties.
+- [00:08:01,679 - 00:08:02,880] I sell deals all the time.
+- [00:08:02,919 - 00:08:04,500] I sold a $34 million hotel.
+- [00:08:04,500 - 00:08:05,539] I only paid 17 for it.
+- [00:08:05,580 - 00:08:07,099] And the money it cost to fix it up.
+- [00:08:07,140 - 00:08:08,719] We did spend 6 million on fixing it up.
+- [00:08:08,940 - 00:08:10,039] But you know where the money came from?
+- [00:08:10,099 - 00:08:11,659] The operating in a hotel.
+- [00:08:11,700 - 00:08:12,659] Not my pocket.
+- [00:08:12,780 - 00:08:13,919] The hotel is making money today.
+- [00:08:13,919 - 00:08:14,340] I bought it.
+- [00:08:14,380 - 00:08:14,679] Fine.
+- [00:08:14,700 - 00:08:16,230] Take all the money the hotel is
+- [00:08:16,230 - 00:08:17,760] making and pump it into fixing it up.
+- [00:08:17,880 - 00:08:18,159] All right.
+- [00:08:18,179 - 00:08:19,440] Then we flipped it for 34.
+- [00:08:19,500 - 00:08:20,520] We've done a lot of deals like that.
+- [00:08:20,539 - 00:08:21,400] We do them all over the board.
+- [00:08:21,419 - 00:08:22,140] We don't care.
+- [00:08:22,179 - 00:08:23,509] What is the best piece of real
+- [00:08:23,509 - 00:08:24,840] estate somebody can buy in today's world?
+- [00:08:24,900 - 00:08:25,440] The best?
+- [00:08:25,440 - 00:08:25,599] Yeah.
+- [00:08:25,600 - 00:08:26,620] Depends how much money you got.
+- [00:08:26,700 - 00:08:28,190] If you're really on the very top
+- [00:08:28,190 - 00:08:29,680] and you're really in the big world.
+- [00:08:29,780 - 00:08:30,440] Big boys.
+- [00:08:30,600 - 00:08:32,559] Like all the guys you run into all the time.
+- [00:08:32,720 - 00:08:33,620] Data centers.
+- [00:08:34,200 - 00:08:34,480] Why?
+- [00:08:34,860 - 00:08:36,220] Because it's the future.
+- [00:08:36,440 - 00:08:37,860] It's a concrete building with a bunch
+- [00:08:37,860 - 00:08:39,280] of shelves in it filled with computers.
+- [00:08:39,620 - 00:08:41,340] And companies will rent that space from you.
+- [00:08:41,419 - 00:08:42,820] They'll stock their computers in it.
+- [00:08:42,880 - 00:08:44,340] You got enough power to keep it cold.
+- [00:08:44,500 - 00:08:46,580] Data centers is the new future in real estate.
+- [00:08:46,640 - 00:08:48,060] Because computers are only going to grow.
+- [00:08:48,160 - 00:08:48,400] Always.
+- [00:08:48,640 - 00:08:50,060] We can't live without computers anymore.
+- [00:08:50,500 - 00:08:51,990] Clouds and everything we do
+- [00:08:51,990 - 00:08:53,480] is run into a data center.
+- [00:08:53,560 - 00:08:55,480] So, you know, I think data centers are the top.
+- [00:08:55,480 - 00:08:56,480] They're the top of the game in real estate.
+- [00:08:56,560 - 00:08:57,560] I've never heard that before.
+- [00:08:57,640 - 00:08:58,640] That's what's going on in real estate.
+- [00:08:58,720 - 00:08:59,540] That's why I'm in real estate
+- [00:08:59,540 - 00:09:00,360] and I don't know what you do.
+- [00:09:00,440 - 00:09:01,440] Yeah.
+- [00:09:01,520 - 00:09:03,200] But anyway, everything's good.
+- [00:09:03,280 - 00:09:04,280] Everything's good in real estate.
+- [00:09:04,360 - 00:09:05,360] Right.
+- [00:09:05,440 - 00:09:06,710] It doesn't matter what real estate you buy
+- [00:09:06,710 - 00:09:07,980] as long as you're buying a good deal.
+- [00:09:08,060 - 00:09:09,520] But let's say somebody has $100,000.
+- [00:09:10,680 - 00:09:11,680] That money is put to the side.
+- [00:09:11,760 - 00:09:12,760] Where would you park that?
+- [00:09:12,840 - 00:09:13,860] The safest place is always
+- [00:09:13,860 - 00:09:14,880] going to be residential income property.
+- [00:09:14,960 - 00:09:15,960] Like multifamily?
+- [00:09:16,040 - 00:09:17,040] Yeah.
+- [00:09:17,120 - 00:09:18,420] Like a fourplex or an eightplex or a
+- [00:09:18,420 - 00:09:19,720] twelveplex or whatever you feel you can handle.
+- [00:09:19,800 - 00:09:21,480] Or however far your money is going to take it.
+- [00:09:21,560 - 00:09:22,920] If you got a hundred grand,
+- [00:09:22,920 - 00:09:24,280] you need to go get pre-qualified.
+- [00:09:24,360 - 00:09:25,480] Because a hundred grand.
+- [00:09:25,560 - 00:09:29,320] Will get you $500,000 property with a $400,000 loan.
+- [00:09:29,400 - 00:09:30,680] So that's what you can do with a hundred grand.
+- [00:09:30,760 - 00:09:32,840] You go out and leverage it up to $500,000.
+- [00:09:32,920 - 00:09:34,560] Now you're going to go out and find
+- [00:09:34,560 - 00:09:36,200] a building that you can buy for $500,000.
+- [00:09:36,280 - 00:09:37,920] That can be turned into a
+- [00:09:37,920 - 00:09:39,560] building worth seven or eight hundred thousand.
+- [00:09:39,640 - 00:09:40,680] You sell that building eventually?
+- [00:09:40,760 - 00:09:42,320] Or refinance it and keep it.
+- [00:09:42,400 - 00:09:44,680] Refinancing is a non-taxable event.
+- [00:09:44,760 - 00:09:46,480] All the money I get was from refinancing.
+- [00:09:46,560 - 00:09:47,880] When I sell a building, I don't touch the money.
+- [00:09:47,960 - 00:09:48,760] So you refinance.
+- [00:09:48,840 - 00:09:50,360] I have to roll into the next deal, baby.
+- [00:09:50,440 - 00:09:50,560] Yeah.
+- [00:09:50,640 - 00:09:51,580] So you refinance, you get the
+- [00:09:51,580 - 00:09:52,520] money back that you put in,
+- [00:09:52,600 - 00:09:54,000] and then you're making money continuously.
+- [00:09:54,080 - 00:09:55,040] You just keep rolling.
+- [00:09:55,120 - 00:09:55,440] It's the way to go.
+- [00:09:55,520 - 00:09:56,600] That's how they set up the system.
+- [00:09:56,680 - 00:09:58,000] Our system is set up in
+- [00:09:58,000 - 00:09:59,320] the right way for people to grow.
+- [00:09:59,400 - 00:10:00,880] You just have to apply yourself and you
+- [00:10:00,880 - 00:10:02,360] have to find the right people to deal with.
+- [00:10:02,440 - 00:10:03,380] And you got to get in with
+- [00:10:03,380 - 00:10:04,320] the right people that are doing it.
+- [00:10:04,400 - 00:10:05,920] Now you've got an incredible house out here.
+- [00:10:06,000 - 00:10:08,520] This is a $20, $30 million mansion out here.
+- [00:10:08,600 - 00:10:10,040] Stop saying $20 million.
+- [00:10:10,120 - 00:10:11,640] $20 million was five years ago.
+- [00:10:11,720 - 00:10:12,800] $30 million mansion.
+- [00:10:12,880 - 00:10:14,400] Could we go up and check it out?
+- [00:10:14,480 - 00:10:14,920] Sure.
+- [00:10:15,000 - 00:10:16,560] I'll give you the nickel tour.
+- [00:10:25,480 - 00:10:26,480] We'll be right back.
+- [00:10:26,560 - 00:10:27,520] We'll be right back.
+- [00:10:27,600 - 00:10:28,520] We'll be right back.
+- [00:10:28,600 - 00:10:29,600] We'll be right back.
+- [00:10:29,680 - 00:10:30,680] We'll be right back.
+- [00:10:30,760 - 00:10:31,760] We'll be right back.
+- [00:10:31,840 - 00:10:32,840] We'll be right back.
+- [00:10:32,920 - 00:10:33,920] We'll be right back.
+- [00:10:34,000 - 00:10:35,600] Growing up, did you think all this was possible,
+- [00:10:35,680 - 00:10:37,320] to be able to own a place like this?
+- [00:10:37,400 - 00:10:38,880] I mean, not when I was growing up.
+- [00:10:38,960 - 00:10:41,400] It came to me that this was all possible when
+- [00:10:41,400 - 00:10:43,840] I went to work for the guy that had all this.
+- [00:10:43,920 - 00:10:45,720] And that showed me, yes, it
+- [00:10:45,720 - 00:10:47,520] was achievable because he was smart.
+- [00:10:47,600 - 00:10:49,300] It's smarter than me in some ways, but
+- [00:10:49,300 - 00:10:51,000] I was smarter than him in other ways.
+- [00:10:51,080 - 00:10:52,720] That's why we made such a good partnership.
+- [00:10:52,800 - 00:10:54,060] So I knew it was
+- [00:10:54,060 - 00:10:55,320] achievable when I hit about 25.
+- [00:10:55,320 - 00:10:56,880] So you agree that you can only
+- [00:10:56,880 - 00:10:58,440] grow to what you've been exposed to?
+- [00:10:58,660 - 00:10:59,160] That's a good one.
+- [00:10:59,220 - 00:11:00,140] You should write that down.
+- [00:11:00,260 - 00:11:02,240] You might even be able to copyright and sell that.
+- [00:11:02,320 - 00:11:02,740] I got to.
+- [00:11:02,840 - 00:11:05,560] You can only grow to what you expose to.
+- [00:11:05,720 - 00:11:06,960] So I guess, what was that
+- [00:11:06,960 - 00:11:08,200] mindset shift that made you a multimillionaire?
+- [00:11:08,380 - 00:11:09,260] Stop partying.
+- [00:11:09,460 - 00:11:11,000] Stop worrying about what everybody else is doing.
+- [00:11:11,220 - 00:11:12,980] Stop trying to have shit you can't afford.
+- [00:11:13,160 - 00:11:15,000] Get busy and get to work
+- [00:11:15,000 - 00:11:16,840] and have a plan that makes sense.
+- [00:11:17,000 - 00:11:17,900] So was it all worth it?
+- [00:11:17,940 - 00:11:18,560] All the sacrifice?
+- [00:11:18,840 - 00:11:20,390] Of course, because now my kids don't have
+- [00:11:20,390 - 00:11:21,940] to go through all the shit I went through.
+- [00:11:22,000 - 00:11:24,620] Yes, they earned their pay and they paid their dues.
+- [00:11:24,820 - 00:11:25,300] But now they're not.
+- [00:11:25,319 - 00:11:26,819] Now they don't have to go through all
+- [00:11:26,819 - 00:11:28,319] the struggles that I had to go through.
+- [00:11:28,420 - 00:11:29,180] Do you own this house?
+- [00:11:29,319 - 00:11:30,319] Yes, I own the house.
+- [00:11:30,520 - 00:11:32,040] How do you feel about people that say
+- [00:11:32,040 - 00:11:33,560] that you should not own where you live
+- [00:11:33,560 - 00:11:34,800] and only own where other people live?
+- [00:11:34,859 - 00:11:35,520] How do you feel about that?
+- [00:11:35,520 - 00:11:36,290] A lot of people say that
+- [00:11:36,290 - 00:11:37,060] a home is not a good investment.
+- [00:11:37,199 - 00:11:38,500] It's only what you pay for the home.
+- [00:11:38,620 - 00:11:40,070] If you're buying a home
+- [00:11:40,070 - 00:11:41,520] at a price below the market,
+- [00:11:41,800 - 00:11:43,439] how could it not be a good investment?
+- [00:11:43,680 - 00:11:45,900] And most people, the only investment they have,
+- [00:11:45,959 - 00:11:48,280] the average working person their whole life is their home.
+- [00:11:48,359 - 00:11:51,640] It's a forced way of saving money and building equity.
+- [00:11:51,819 - 00:11:53,400] So everybody should have a home.
+- [00:11:53,400 - 00:11:54,500] And then when they get older,
+- [00:11:54,500 - 00:11:55,900] the home should be paid off.
+- [00:11:56,020 - 00:11:57,280] And then they own it free and clear.
+- [00:11:57,460 - 00:11:59,380] And they're sitting on a pile of cash.
+- [00:11:59,700 - 00:12:01,220] Now, we're in the backyard of
+- [00:12:01,220 - 00:12:02,740] your $30 million mansion right here.
+- [00:12:02,860 - 00:12:03,600] I want everybody to see.
+- [00:12:03,700 - 00:12:05,250] Guys, guys, this is the
+- [00:12:05,250 - 00:12:06,800] most insane backyard I've ever seen.
+- [00:12:06,880 - 00:12:08,440] He has a lazy river in his backyard.
+- [00:12:08,680 - 00:12:10,340] What's your last message to somebody?
+- [00:12:10,420 - 00:12:11,040] You didn't see the bowling alley.
+- [00:12:11,180 - 00:12:12,260] You got a bowling alley in there too?
+- [00:12:12,620 - 00:12:13,980] What's your last message to somebody trying to
+- [00:12:13,980 - 00:12:15,340] own a place like this in today's world?
+- [00:12:15,460 - 00:12:16,620] They want to become a multi...
+- [00:12:16,620 - 00:12:17,180] This don't happen overnight.
+- [00:12:17,440 - 00:12:19,100] And did I really need this big place?
+- [00:12:19,220 - 00:12:19,500] No.
+- [00:12:19,640 - 00:12:19,920] Okay?
+- [00:12:20,040 - 00:12:21,110] But I was at the
+- [00:12:21,110 - 00:12:22,180] right time at the right place.
+- [00:12:22,180 - 00:12:24,480] And me and the seller agreed on the right price.
+- [00:12:24,720 - 00:12:25,080] Okay?
+- [00:12:25,460 - 00:12:26,780] So that's what it was all about.
+- [00:12:26,940 - 00:12:27,560] But beyond that though,
+- [00:12:27,700 - 00:12:28,960] like just one more message that
+- [00:12:28,960 - 00:12:30,220] you can kind of give to somebody
+- [00:12:30,220 - 00:12:31,390] where they want to build a
+- [00:12:31,390 - 00:12:32,560] substantial net worth in today's world.
+- [00:12:32,660 - 00:12:33,500] You got to build it.
+- [00:12:33,580 - 00:12:34,990] You got to build it
+- [00:12:34,990 - 00:12:36,400] block by block and never stop.
+- [00:12:36,480 - 00:12:38,140] And as soon as you keep building blocks,
+- [00:12:38,220 - 00:12:39,860] eventually you're going to have all this.
+- [00:12:40,000 - 00:12:40,540] But let's say somebody,
+- [00:12:40,660 - 00:12:42,560] they're constant failure after failure after failure.
+- [00:12:42,740 - 00:12:44,300] Because the plan wasn't right.
+- [00:12:44,440 - 00:12:46,000] You got to have a plan in real estate.
+- [00:12:46,200 - 00:12:48,400] You're not going to fail if you do your homework
+- [00:12:48,400 - 00:12:50,820] and you assert yourself in finding a deal.
+- [00:12:50,920 - 00:12:51,780] You're not going to lose.
+- [00:12:51,940 - 00:12:53,080] But you got to have a
+- [00:12:53,080 - 00:12:54,220] plan to follow that makes sense.
+- [00:12:54,220 - 00:12:54,460] Right?
+- [00:12:55,180 - 00:12:56,340] You got amazing advice, my friend.
+- [00:12:56,480 - 00:12:57,680] Thank you so much for having us out here.
+- [00:12:57,800 - 00:12:58,840] Where can everybody find you at?
+- [00:12:58,860 - 00:12:59,340] Who tuned in?
+- [00:12:59,920 - 00:13:01,060] BenMala.com
+- [00:13:01,060 - 00:13:01,960] Put it on the screen.
+- [00:13:02,120 - 00:13:04,620] Everybody go tap in with Ben Mala on all platforms.
+- [00:13:04,760 - 00:13:05,960] We'll put the links in the description.
+- [00:13:06,220 - 00:13:07,160] This was incredible, my friend.
+- [00:13:07,160 - 00:13:08,140] Thank you so much for your time.
+- [00:13:08,240 - 00:13:08,740] I appreciate you.
+- [00:13:08,760 - 00:13:09,500] You're buying lunch, right?
+- [00:13:09,640 - 00:13:10,040] Yes, sir.
+- [00:13:10,120 - 00:13:10,660] I'm buying lunch.
+- [00:13:10,740 - 00:13:11,200] Steaks, right?
+- [00:13:11,260 - 00:13:11,800] You said steaks?
+- [00:13:11,920 - 00:13:12,400] I got you.
+- [00:13:12,520 - 00:13:12,940] I got you.
