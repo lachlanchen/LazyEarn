@@ -1,0 +1,503 @@
+# Transcript
+
+Source: lazyearn/school-of-hard-knocks/hard-knocks-interviews/071 - Asking Millionaires How They Got RICH! (Dallas) [JsEUa3mMGe0].webm
+
+- [00:00:00,000 - 00:00:02,160] Excuse me, sir.
+- [00:00:02,160 - 00:00:02,640] Yes, sir.
+- [00:00:02,640 - 00:00:04,000] Have you ever been broke before?
+- [00:00:04,000 - 00:00:04,500] No.
+- [00:00:04,500 - 00:00:07,040] I don't know. I don't think so.
+- [00:00:07,040 - 00:00:08,280] Yeah? And what do you, I gotta ask you, what
+- [00:00:08,280 - 00:00:09,520] do you do for a living out here in Dallas, Texas?
+- [00:00:09,520 - 00:00:11,120] Like what industry did you pursue a career in?
+- [00:00:11,120 - 00:00:12,000] Uh, consulting.
+- [00:00:12,000 - 00:00:14,080] Consulting? Quick question for you. I started a
+- [00:00:14,080 - 00:00:16,160] channel in Austin, Texas, at the University of
+- [00:00:16,160 - 00:00:18,240] Texas. I go all over the country. What I do for
+- [00:00:18,240 - 00:00:20,320] a living is I just ask people a couple questions on
+- [00:00:20,320 - 00:00:21,800] their best advice to the younger generation. Can I
+- [00:00:21,800 - 00:00:23,280] just get two minutes of your time, one minute of
+- [00:00:23,280 - 00:00:23,840] your time real quick?
+- [00:00:23,840 - 00:00:24,400] This is legit.
+- [00:00:24,400 - 00:00:25,560] I promise you, I'll show you the channel.
+- [00:00:25,560 - 00:00:26,720] What was the most amount of money that you
+- [00:00:26,720 - 00:00:27,680] ever made in a single year?
+- [00:00:27,680 - 00:00:30,320] My businesses today make roughly 500 million a year.
+- [00:00:30,320 - 00:00:31,360] About a billion.
+- [00:00:31,360 - 00:00:32,960] Top line revenue of $40 million.
+- [00:00:32,960 - 00:00:33,760] Eight to 10 million.
+- [00:00:33,760 - 00:00:34,800] Did you come from a lot of money?
+- [00:00:36,720 - 00:00:37,040] No.
+- [00:00:37,040 - 00:00:37,920] I came from nothing.
+- [00:00:37,920 - 00:00:39,800] You're sitting in a Rolls Royce right now. This
+- [00:00:39,800 - 00:00:41,680] is a lot of people's dream car right here.
+- [00:00:41,680 - 00:00:42,000] Yeah.
+- [00:00:42,000 - 00:00:44,080] How can somebody get a Rolls Royce in 2024?
+- [00:00:46,640 - 00:00:48,439] Dallas, Texas is one of the richest
+- [00:00:48,439 - 00:00:50,239] cities in the entire world. And today,
+- [00:00:50,239 - 00:00:52,119] I'm going to be going all over Dallas to
+- [00:00:52,119 - 00:00:54,000] ask some of the wealthiest people in the entire city,
+- [00:00:54,000 - 00:00:55,800] how they became wealthy and how you can
+- [00:00:55,800 - 00:00:57,600] start your path to becoming financially free in 2020.
+- [00:00:57,680 - 00:00:59,200] So with that being said, let's
+- [00:00:59,200 - 00:01:00,720] get this video on the way.
+- [00:01:12,480 - 00:01:14,160] Excuse me, sir. Question for you.
+- [00:01:14,160 - 00:01:15,840] Have you ever been broke before?
+- [00:01:19,039 - 00:01:20,839] Excuse me, sir. Question for you,
+- [00:01:20,839 - 00:01:22,640] sir. Have you ever been broke before?
+- [00:01:22,640 - 00:01:23,520] Nope.
+- [00:01:23,520 - 00:01:24,720] Yeah? In what industry did you-
+- [00:01:24,720 - 00:01:25,600] Guys, we're busy.
+- [00:01:25,600 - 00:01:26,120] What do you do for
+- [00:01:26,120 - 00:01:26,640] a living out here in Dallas?
+- [00:01:26,640 - 00:01:27,600] We're busy, guys. Go ahead.
+- [00:01:27,680 - 00:01:30,160] Excuse me, sir. Question for you.
+- [00:01:30,160 - 00:01:32,640] Have you ever been broke before?
+- [00:01:32,640 - 00:01:33,360] Have I been what?
+- [00:01:33,360 - 00:01:34,640] Have you ever been broke before?
+- [00:01:34,640 - 00:01:35,120] Broke?
+- [00:01:35,120 - 00:01:35,680] Yes, sir.
+- [00:01:35,680 - 00:01:38,320] Man, dude, I live one foot on
+- [00:01:38,320 - 00:01:40,960] banana peel, another foot on bankruptcy court.
+- [00:01:40,960 - 00:01:41,280] Yeah?
+- [00:01:41,280 - 00:01:41,440] Yeah.
+- [00:01:41,440 - 00:01:42,840] What industry did you pursue a career in? What
+- [00:01:42,840 - 00:01:44,240] do you do for a living out here in Dallas?
+- [00:01:44,240 - 00:01:44,880] Mail stripping.
+- [00:01:44,880 - 00:01:46,520] Excuse me, sir. Question for you.
+- [00:01:46,520 - 00:01:48,160] Have you ever been broke before?
+- [00:01:48,160 - 00:01:48,800] Been broke?
+- [00:01:48,800 - 00:01:49,200] Yes, sir.
+- [00:01:49,200 - 00:01:50,160] Fortunately, no.
+- [00:01:50,160 - 00:01:51,120] No? And what do you do for
+- [00:01:51,120 - 00:01:52,080] a living out here in Dallas, Texas?
+- [00:01:52,080 - 00:01:52,720] I'm retired.
+- [00:01:52,720 - 00:01:54,080] What did you do? What industry were you in?
+- [00:01:54,080 - 00:01:56,480] I was in the professional services industry.
+- [00:01:56,480 - 00:01:57,600] What were you doing exactly? Were you a business?
+- [00:01:57,600 - 00:01:58,320] I was a business owner.
+- [00:01:58,320 - 00:02:00,080] I was a partner in a big accounting firm.
+- [00:02:00,080 - 00:02:01,720] Yeah? Question for you. I started the channel
+- [00:02:01,720 - 00:02:03,360] in Austin, Texas. When I went to UT,
+- [00:02:03,360 - 00:02:05,000] I grew up to 5 million followers
+- [00:02:05,000 - 00:02:06,640] just asking business owners and entrepreneurs their best
+- [00:02:06,640 - 00:02:08,039] advice to the younger generation. Could I get
+- [00:02:08,039 - 00:02:09,440] just one minute of your time real quick?
+- [00:02:10,160 - 00:02:10,799] I got to run.
+- [00:02:10,799 - 00:02:11,760] No worries. Have a good day, sir.
+- [00:02:11,760 - 00:02:12,320] Thank you, sir.
+- [00:02:12,320 - 00:02:14,000] All right, you guys. So as you can see,
+- [00:02:14,000 - 00:02:15,680] since we're in Dallas, one of the wealthiest cities
+- [00:02:15,680 - 00:02:17,840] in the entire world, it is very hard to
+- [00:02:17,840 - 00:02:20,000] get any access to these people for interview questions.
+- [00:02:20,000 - 00:02:22,000] But all we can do is keep on going until
+- [00:02:22,000 - 00:02:24,000] we find that yes and drop some amazing business game for
+- [00:02:24,000 - 00:02:25,759] you guys. I'm not stopping until I deliver
+- [00:02:25,759 - 00:02:27,519] you guys the best value and advice possible
+- [00:02:27,519 - 00:02:27,579] next.
+- [00:02:27,600 - 00:02:29,000] Let's go. Quick question for you.
+- [00:02:29,000 - 00:02:30,400] Have you ever been broke before?
+- [00:02:30,400 - 00:02:31,040] What?
+- [00:02:31,040 - 00:02:32,320] Have you ever been broke before?
+- [00:02:32,960 - 00:02:34,400] I don't know. Let's define broke.
+- [00:02:34,400 - 00:02:36,240] I guess where you struggle financially.
+- [00:02:36,240 - 00:02:36,640] Yes.
+- [00:02:36,640 - 00:02:36,880] Yeah?
+- [00:02:36,880 - 00:02:37,680] Yeah, I have.
+- [00:02:37,680 - 00:02:39,200] What industry did you decide to pursue a career in?
+- [00:02:39,200 - 00:02:40,720] What do you do for living out here in Dallas,
+- [00:02:40,720 - 00:02:41,120] Texas?
+- [00:02:41,120 - 00:02:42,079] I run banks.
+- [00:02:42,079 - 00:02:43,279] What was the most amount of money
+- [00:02:43,279 - 00:02:44,480] that you ever made in a single year?
+- [00:02:44,480 - 00:02:46,959] My businesses today make roughly 500 million a year.
+- [00:02:46,959 - 00:02:48,639] How did you scale to a nine-figure business? A
+- [00:02:48,639 - 00:02:50,320] lot of people, they have a great idea, they start.
+- [00:02:51,519 - 00:02:52,640] Mostly through acquisition.
+- [00:02:52,640 - 00:02:54,160] What do you implement to scale them, though?
+- [00:02:54,160 - 00:02:55,839] The game in banking is to
+- [00:02:55,839 - 00:02:57,519] buy them and strip out costs.
+- [00:02:57,520 - 00:02:58,880] Right. So were you always in banking?
+- [00:02:58,880 - 00:03:00,000] 44 years, yeah.
+- [00:03:00,000 - 00:03:01,960] How important was that focus and not diversify
+- [00:03:01,960 - 00:03:03,920] and trying to jump from industry to industry? How
+- [00:03:03,920 - 00:03:05,720] important was it for you to get really good at
+- [00:03:05,720 - 00:03:07,520] one thing as opposed to trying to become a master of
+- [00:03:07,520 - 00:03:08,640] many different industries?
+- [00:03:08,640 - 00:03:11,200] It's pretty simple. I preach to people who want
+- [00:03:11,200 - 00:03:13,760] to be entrepreneurs that the worst thing you can
+- [00:03:13,760 - 00:03:16,600] have is plan B. Plan B is the largest enemy to
+- [00:03:16,600 - 00:03:19,440] plan A. It takes away focus from plan A. If you're
+- [00:03:19,440 - 00:03:21,400] already thinking about what you're going to do
+- [00:03:21,400 - 00:03:23,360] if this doesn't work, you're already starting behind.
+- [00:03:23,360 - 00:03:25,400] You've got to play like the only thing that's going
+- [00:03:25,400 - 00:03:27,440] to work is plan A. Not everybody agrees with me,
+- [00:03:27,440 - 00:03:28,880] but I think plan Bs are awful.
+- [00:03:28,880 - 00:03:30,960] More than 90% of businesses actually won't make
+- [00:03:30,960 - 00:03:33,040] it past five years. What's the most common mistake
+- [00:03:33,040 - 00:03:34,920] you see business owners make that prevents them
+- [00:03:34,920 - 00:03:36,800] from scaling and having that kind of longevity?
+- [00:03:36,800 - 00:03:38,960] They don't understand cash flow. So a lot
+- [00:03:38,960 - 00:03:41,120] of businesses will grow fast and think they're
+- [00:03:41,120 - 00:03:43,040] successful and they outstrip their capital. And
+- [00:03:43,040 - 00:03:44,960] when you outstrip your capital, it's hard to
+- [00:03:44,960 - 00:03:46,680] recover. It's understanding the financial
+- [00:03:46,680 - 00:03:48,400] side of the business is important.
+- [00:03:48,400 - 00:03:49,920] There is a big debate about whether
+- [00:03:49,920 - 00:03:51,440] people should borrow money to start businesses,
+- [00:03:51,440 - 00:03:53,200] trying to go get loans or borrow capital from
+- [00:03:53,200 - 00:03:54,960] banks. What's the best way to go about funding
+- [00:03:54,960 - 00:03:56,880] and starting businesses in today's world?
+- [00:03:56,880 - 00:03:57,360] Equity.
+- [00:03:57,440 - 00:03:58,160] What do you break that down?
+- [00:03:58,160 - 00:03:58,720] Investors.
+- [00:03:58,720 - 00:04:00,760] Find investors. But there's a risk there as
+- [00:04:00,760 - 00:04:02,800] well because then you're having to manage other people's
+- [00:04:02,800 - 00:04:04,400] wants for your company now. Would you agree with that?
+- [00:04:04,400 - 00:04:06,520] Or my belief is don't let any investor be too
+- [00:04:06,520 - 00:04:08,640] big or otherwise you're working for them. I've had a
+- [00:04:08,640 - 00:04:10,560] lot of guys who wanted to put a lot more
+- [00:04:10,560 - 00:04:12,480] money behind me and I'm like, I'm not looking to work
+- [00:04:12,480 - 00:04:14,160] for you. I just want you to invest. Yeah.
+- [00:04:14,160 - 00:04:14,960] How old are you now?
+- [00:04:14,960 - 00:04:16,240] I'm 67.
+- [00:04:16,240 - 00:04:17,480] You look incredible for 67. What's
+- [00:04:17,480 - 00:04:18,720] the secret to looking so young?
+- [00:04:18,720 - 00:04:19,279] Oh, wow.
+- [00:04:19,279 - 00:04:20,880] I aspire to look that way at 67.
+- [00:04:20,880 - 00:04:22,480] Get to the gym every day and eat well.
+- [00:04:22,480 - 00:04:23,840] Yeah, I can tell, man. I appreciate
+- [00:04:23,840 - 00:04:25,200] you. With everything that you've learned throughout your
+- [00:04:25,200 - 00:04:26,280] career, though, if there's one lesson,
+- [00:04:26,280 - 00:04:27,360] like what advice would you give?
+- [00:04:27,360 - 00:04:28,640] To your 20 year old self if
+- [00:04:28,640 - 00:04:29,920] you were starting all starting over again?
+- [00:04:29,920 - 00:04:31,920] Go out on my own sooner than I did.
+- [00:04:31,920 - 00:04:33,600] You think everybody's built for entrepreneurship, though?
+- [00:04:33,600 - 00:04:35,520] No, not everybody's built for it. But
+- [00:04:35,520 - 00:04:37,440] if you want to make real money,
+- [00:04:37,440 - 00:04:39,200] you usually have to make it work for yourself.
+- [00:04:39,200 - 00:04:40,880] Thank you so much. I really appreciate you. Have
+- [00:04:40,880 - 00:04:42,560] a great day. Actually, I got to get one more.
+- [00:04:42,560 - 00:04:43,040] Okay.
+- [00:04:43,040 - 00:04:44,800] Negotiation. It's a big component of businesses
+- [00:04:44,800 - 00:04:46,560] and closing deals and your businesses have done
+- [00:04:46,560 - 00:04:48,320] multiple nine figures. You're at the table with
+- [00:04:48,320 - 00:04:50,080] some heavy hitters. What's your best sales and
+- [00:04:50,080 - 00:04:51,840] negotiating advice for people trying to get better
+- [00:04:51,840 - 00:04:53,600] at closing clients and closing deals in today's
+- [00:04:53,600 - 00:04:55,120] world? Do you have a tactic for somebody that
+- [00:04:55,120 - 00:04:56,640] maybe they're running an agency or a type of
+- [00:04:56,640 - 00:04:57,360] business where they're trying to get a job?
+- [00:04:57,360 - 00:04:58,840] To close people? What's your best negotiation
+- [00:04:58,840 - 00:05:00,320] advice for people trying to close more deals?
+- [00:05:00,320 - 00:05:02,360] Walk away. The best deals I've done in
+- [00:05:02,360 - 00:05:04,400] my life, I've walked away and they've come back.
+- [00:05:04,400 - 00:05:06,160] Thank you so much. I appreciate you. What's your name?
+- [00:05:06,160 - 00:05:06,960] Good luck to you guys. Kevin.
+- [00:05:06,960 - 00:05:09,160] Kevin James. Great to meet you, sir. I really
+- [00:05:09,160 - 00:05:11,360] appreciate you. So my guy made over $500 million
+- [00:05:11,360 - 00:05:13,360] by running banks throughout the state of Texas. But
+- [00:05:13,360 - 00:05:15,360] what did he say is the most common mistake
+- [00:05:15,360 - 00:05:17,360] businesses make in today's world? It's that
+- [00:05:17,360 - 00:05:19,360] they don't understand cash flow. Remember this,
+- [00:05:19,360 - 00:05:21,160] in any business you start, cash flow is king.
+- [00:05:21,160 - 00:05:22,960] You can never starve your company or else you
+- [00:05:22,960 - 00:05:24,720] go bankrupt and broke. Great interview out here
+- [00:05:24,720 - 00:05:26,480] in Dallas, Texas, man. Let's get this next one.
+- [00:05:28,000 - 00:05:30,560] Excuse me, sir. Have you ever been broke before?
+- [00:05:32,400 - 00:05:33,680] I don't know. I don't think so.
+- [00:05:33,680 - 00:05:34,760] Yeah. And what do I got to ask you?
+- [00:05:34,760 - 00:05:35,840] What do you do for living out here in Dallas,
+- [00:05:35,840 - 00:05:38,000] Texas? Like what industry did you pursue a career in?
+- [00:05:38,000 - 00:05:38,640] Consulting.
+- [00:05:38,640 - 00:05:40,760] Consulting. Quick question for you. I started a
+- [00:05:40,760 - 00:05:42,880] channel in Austin, Texas, at the University of
+- [00:05:42,880 - 00:05:44,960] Texas. I go all over the country. What I do for
+- [00:05:44,960 - 00:05:47,040] a living is I just ask people a couple questions on
+- [00:05:47,040 - 00:05:48,520] their best advice to the younger generation. Can I
+- [00:05:48,520 - 00:05:50,000] just get two minutes of your time? One minute of
+- [00:05:50,000 - 00:05:51,520] your time real quick. I promise you, I'll show
+- [00:05:51,520 - 00:05:53,040] you the channel. It's called the School of Hard Knocks.
+- [00:05:53,040 - 00:05:55,160] I've interviewed Mark Cuban, the president of
+- [00:05:55,160 - 00:05:57,280] Nike, CEO of 7-Eleven. So you're a consultant.
+- [00:05:57,360 - 00:05:58,880] I was. Retired.
+- [00:05:58,880 - 00:06:00,720] What types of businesses did you consult for?
+- [00:06:00,720 - 00:06:02,600] Frito-Lay, American Airlines, TXU
+- [00:06:02,600 - 00:06:04,480] Energy. Large, medium, small.
+- [00:06:04,480 - 00:06:05,920] What's the most common mistake you
+- [00:06:05,920 - 00:06:07,360] see business owners make? Because most businesses,
+- [00:06:07,360 - 00:06:08,800] they don't make it past five years. What's
+- [00:06:08,800 - 00:06:10,240] the most common mistake you see business owners make
+- [00:06:10,240 - 00:06:11,160] that prevents them from scaling? They
+- [00:06:11,160 - 00:06:12,080] have a great product or service,
+- [00:06:12,080 - 00:06:13,920] but they don't know how to manage cash flow.
+- [00:06:13,920 - 00:06:15,560] What was the hardest skill that you had to
+- [00:06:15,560 - 00:06:17,200] master as a consultant and as a business owner?
+- [00:06:17,200 - 00:06:17,680] What was the-
+- [00:06:17,680 - 00:06:20,480] Casting a vision for a team, small team, to make
+- [00:06:20,480 - 00:06:23,280] it into a large team that this is where we are,
+- [00:06:23,280 - 00:06:24,720] but this is where we're going. Follow
+- [00:06:24,720 - 00:06:26,160] me. I'm going to get us there.
+- [00:06:26,160 - 00:06:26,720] What was the most amount
+- [00:06:26,720 - 00:06:27,280] of money you had to make?
+- [00:06:27,280 - 00:06:27,879] The most amount of money that
+- [00:06:27,879 - 00:06:28,479] you ever made in a single year?
+- [00:06:28,479 - 00:06:29,520] Eight to 10 million.
+- [00:06:29,520 - 00:06:31,480] Eight to $10 million. That's just for yourself?
+- [00:06:31,480 - 00:06:33,440] That's not just the business, that's for yourself?
+- [00:06:33,440 - 00:06:33,760] Yeah.
+- [00:06:33,760 - 00:06:34,920] How did you scale your
+- [00:06:34,920 - 00:06:36,080] income from seven to eight figures?
+- [00:06:36,080 - 00:06:38,279] I obtained equity in our company. So I had
+- [00:06:38,279 - 00:06:40,479] a salary, half a million. I had a bonus,
+- [00:06:42,000 - 00:06:44,760] salary, 500,000, half a million, 250 bonus.
+- [00:06:44,760 - 00:06:47,520] But the seven or eight million came through
+- [00:06:47,520 - 00:06:48,760] dividends on the equity that we
+- [00:06:48,760 - 00:06:50,000] owned because we were so profitable.
+- [00:06:50,000 - 00:06:50,640] How old are you now?
+- [00:06:50,640 - 00:06:52,159] 59, almost 60.
+- [00:06:52,159 - 00:06:53,519] Thank you so much for your time. So you
+- [00:06:53,519 - 00:06:54,880] look amazing for 59, by the way. What advice would
+- [00:06:54,880 - 00:06:56,040] you tell your 20-year-old self if you were
+- [00:06:56,040 - 00:06:57,200] to go back to when you were starting over?
+- [00:06:57,280 - 00:06:58,400] What would you tell your younger self?
+- [00:06:58,400 - 00:06:59,520] Love what you do and you'll
+- [00:06:59,520 - 00:07:00,640] never work a day in your life.
+- [00:07:00,640 - 00:07:01,919] Yeah. Did you come from a lot of money?
+- [00:07:01,919 - 00:07:02,719] I came from nothing.
+- [00:07:02,719 - 00:07:04,719] How did you change your family's trajectory? What was
+- [00:07:04,719 - 00:07:06,719] it that you did that motivated you to kind of-
+- [00:07:06,719 - 00:07:08,679] Instead of working for a salary for the big man,
+- [00:07:08,679 - 00:07:10,640] I'd learned my trade in 10 years working for the
+- [00:07:10,640 - 00:07:12,159] big firms. And then the next 20,
+- [00:07:12,159 - 00:07:13,679] 25 years, I built my own companies.
+- [00:07:13,679 - 00:07:15,119] You got amazing advice. Thank you so much.
+- [00:07:15,119 - 00:07:15,440] All right.
+- [00:07:15,440 - 00:07:17,039] Greatest lesson you learned about entrepreneurship?
+- [00:07:17,039 - 00:07:18,799] Most fail, but you have to have the
+- [00:07:18,799 - 00:07:20,559] burn the ships mentality. There is no retreat
+- [00:07:20,559 - 00:07:21,599] and you're taking the island.
+- [00:07:21,599 - 00:07:23,679] You got amazing advice. Thank you so much.
+- [00:07:23,679 - 00:07:26,239] So my guy made from eight to $10 million
+- [00:07:26,239 - 00:07:27,119] personal as a business.
+- [00:07:27,119 - 00:07:27,159] So my guy made from eight
+- [00:07:27,159 - 00:07:27,200] to $10 million personal as a business.
+- [00:07:27,200 - 00:07:29,520] He's a consultant. Dallas, Texas has the moguls
+- [00:07:29,520 - 00:07:31,840] out right now, guys. Great interview out here in
+- [00:07:31,840 - 00:07:34,040] Dallas, man. Let's go get this next one. Come
+- [00:07:34,040 - 00:07:36,240] on. Excuse me, sir. Question for you. Have you ever
+- [00:07:36,240 - 00:07:37,039] owned a business?
+- [00:07:37,039 - 00:07:37,440] Yeah.
+- [00:07:37,440 - 00:07:38,080] What industry?
+- [00:07:38,719 - 00:07:39,520] Restaurants.
+- [00:07:39,520 - 00:07:40,719] So you own restaurants?
+- [00:07:40,719 - 00:07:40,960] Yeah.
+- [00:07:40,960 - 00:07:41,599] For how long?
+- [00:07:41,599 - 00:07:42,480] Too damn long.
+- [00:07:42,480 - 00:07:44,280] Restaurant business is very competitive. What did you
+- [00:07:44,280 - 00:07:46,080] do to stand out? What did you do differently?
+- [00:07:46,080 - 00:07:48,360] I bought a franchise so that somebody else would
+- [00:07:48,360 - 00:07:50,640] do the heavy thinking. All I had to do
+- [00:07:50,640 - 00:07:51,520] is run the restaurants.
+- [00:07:51,520 - 00:07:52,159] What franchise?
+- [00:07:52,159 - 00:07:52,560] Golden Chick.
+- [00:07:52,560 - 00:07:53,360] Golden Chick.
+- [00:07:53,360 - 00:07:54,719] He ran Fridays.
+- [00:07:54,719 - 00:07:56,320] But I was running Fridays.
+- [00:07:56,320 - 00:07:56,880] I was running Fridays.
+- [00:07:56,880 - 00:07:57,760] TGI Fridays?
+- [00:07:57,760 - 00:07:58,159] Yeah.
+- [00:07:58,159 - 00:07:59,280] You were the CEO?
+- [00:07:59,280 - 00:07:59,840] Yeah, I was.
+- [00:07:59,840 - 00:08:01,560] That's incredible. Leadership's a big struggle with
+- [00:08:01,560 - 00:08:03,280] a lot of companies in today's world.
+- [00:08:03,280 - 00:08:04,000] Still is.
+- [00:08:04,000 - 00:08:05,480] Where do most people go wrong, in your
+- [00:08:05,480 - 00:08:06,960] opinion, when you're looking at organizations as a whole?
+- [00:08:06,960 - 00:08:08,559] They don't build a team that
+- [00:08:08,559 - 00:08:10,159] supports them, and they think they're king,
+- [00:08:10,159 - 00:08:11,920] and they don't think the other people matter.
+- [00:08:11,920 - 00:08:13,680] Across all of your businesses, in terms of
+- [00:08:13,680 - 00:08:15,440] revenue, what was the biggest issue you ever had?
+- [00:08:15,440 - 00:08:16,400] About a billion.
+- [00:08:16,400 - 00:08:18,040] A billion dollars. As somebody who's sold
+- [00:08:18,040 - 00:08:19,680] over a billion dollars throughout your career,
+- [00:08:19,680 - 00:08:21,199] let me ask you this. What's the
+- [00:08:21,199 - 00:08:22,719] best financial advice you've ever been given?
+- [00:08:22,719 - 00:08:24,239] Don't rush into owning your own business
+- [00:08:24,239 - 00:08:25,760] if you can work for the other guy.
+- [00:08:25,760 - 00:08:26,159] What do you mean by that?
+- [00:08:26,160 - 00:08:28,440] If you own your own business, you have to put
+- [00:08:28,440 - 00:08:30,720] your house up, you have to put all your assets up,
+- [00:08:30,720 - 00:08:32,760] and if you work for the other guy, you don't
+- [00:08:32,760 - 00:08:34,799] have that risk. You just lose your job and get another
+- [00:08:34,799 - 00:08:35,039] one.
+- [00:08:35,039 - 00:08:36,400] Did you come from a lot of money growing up?
+- [00:08:38,320 - 00:08:38,480] No.
+- [00:08:39,120 - 00:08:40,159] What did your parents do?
+- [00:08:40,159 - 00:08:42,640] Well, my dad was sickly. He really couldn't
+- [00:08:42,640 - 00:08:45,120] work. My mother worked at a drugstore as a
+- [00:08:45,120 - 00:08:45,840] counter clerk.
+- [00:08:45,840 - 00:08:46,480] How old are you now?
+- [00:08:46,480 - 00:08:47,440] I'm over 70.
+- [00:08:47,440 - 00:08:49,120] Over 70. You look great for 70. Seriously.
+- [00:08:49,120 - 00:08:49,360] Thank you.
+- [00:08:49,360 - 00:08:50,080] I wouldn't have guessed that.
+- [00:08:50,080 - 00:08:51,480] How important is it to choose the right
+- [00:08:51,480 - 00:08:52,880] life partner? That's a big problem in today's world.
+- [00:08:52,880 - 00:08:54,440] A lot of people, they marry the wrong
+- [00:08:54,440 - 00:08:56,000] person, their life can go downhill. How important was
+- [00:08:56,000 - 00:08:56,080] that to you?
+- [00:08:56,080 - 00:08:58,200] Well, you got to have support at home.
+- [00:08:58,200 - 00:09:00,320] If you go home and you're miserable and things
+- [00:09:00,320 - 00:09:02,120] are not working in your way,
+- [00:09:02,120 - 00:09:03,920] your work life will be crap. Sorry.
+- [00:09:03,920 - 00:09:04,600] If you're just working the
+- [00:09:04,600 - 00:09:05,280] work, then it's not worth it.
+- [00:09:05,280 - 00:09:06,320] And your health will be crap.
+- [00:09:06,320 - 00:09:08,560] How can somebody become a millionaire in 2024?
+- [00:09:08,560 - 00:09:10,080] I go long on real
+- [00:09:10,080 - 00:09:11,600] estate. Real estate never goes down.
+- [00:09:11,600 - 00:09:12,560] Thank you so much for your time.
+- [00:09:12,560 - 00:09:13,680] All right. Y'all have fun.
+- [00:09:13,680 - 00:09:14,320] Thank you, sir.
+- [00:09:14,320 - 00:09:15,840] You've got capital partners.
+- [00:09:15,840 - 00:09:17,440] We watched it all and the
+- [00:09:17,440 - 00:09:19,040] people who had money, really made money,
+- [00:09:19,040 - 00:09:21,240] own the properties. Instead of leasing
+- [00:09:21,240 - 00:09:23,440] and renting, they bought the land.
+- [00:09:23,440 - 00:09:24,640] So own that and don't sell it.
+- [00:09:24,640 - 00:09:25,280] Don't sell.
+- [00:09:25,280 - 00:09:25,920] Hard Knocks family,
+- [00:09:25,920 - 00:09:27,600] we're on our way to go get our next
+- [00:09:27,600 - 00:09:29,280] interview right now, but I've got a very special announcement
+- [00:09:29,280 - 00:09:31,760] to make. We just hit 1000 members in
+- [00:09:31,760 - 00:09:34,240] our private entrepreneur community known as the School of
+- [00:09:34,240 - 00:09:36,520] Mentors. And inside of this community, I'm hosting
+- [00:09:36,520 - 00:09:38,800] live calls every single week with the multi
+- [00:09:38,800 - 00:09:40,680] millionaires, the eight, nine, and even 10
+- [00:09:40,680 - 00:09:42,560] figure entrepreneurs that I interview every single week
+- [00:09:42,560 - 00:09:44,280] on this channel. I'm talking about people
+- [00:09:44,280 - 00:09:46,000] that have built and sold billion dollar companies.
+- [00:09:46,000 - 00:09:47,520] You'll be able to hop on these
+- [00:09:47,520 - 00:09:49,040] calls and ask them questions about your career,
+- [00:09:49,040 - 00:09:50,920] your life, and your businesses.
+- [00:09:50,920 - 00:09:52,800] There's also exclusive content and masterclasses
+- [00:09:52,800 - 00:09:54,319] filled inside of this community with the
+- [00:09:54,319 - 00:09:55,839] most successful business owners for you to
+- [00:09:55,839 - 00:09:55,869] live and grow. So if you're interested
+- [00:09:55,869 - 00:09:55,900] in that, I'm happy to help you.
+- [00:09:55,900 - 00:09:57,620] Learn from. So to join this community today,
+- [00:09:57,620 - 00:09:59,340] click the link down in the description below,
+- [00:09:59,340 - 00:10:00,860] because you do not want to miss out on
+- [00:10:00,860 - 00:10:02,380] this opportunity. I can't wait to see on the inside
+- [00:10:02,380 - 00:10:03,700] of the community. But with that being
+- [00:10:03,700 - 00:10:05,020] said, let's get back to the interviews.
+- [00:10:06,060 - 00:10:07,939] Excuse me, sir. Yeah. Is this your Rolls Royce? Yes.
+- [00:10:07,939 - 00:10:09,819] And what do you do for living out here in
+- [00:10:09,819 - 00:10:11,539] Dallas, Texas to be able to afford a Rolls
+- [00:10:11,539 - 00:10:13,260] Royce? I'm an entrepreneur. Yeah. Yeah. How long have you
+- [00:10:13,260 - 00:10:15,099] been a business owner for? 25 years after doing
+- [00:10:15,099 - 00:10:16,939] eight years in Marines. You were in the Marine
+- [00:10:16,939 - 00:10:18,899] Corps? Yes. And I guess over these 25 years
+- [00:10:18,899 - 00:10:20,860] as a business owner, what has been the most amount
+- [00:10:20,860 - 00:10:22,620] of money that you've ever made in a single
+- [00:10:22,620 - 00:10:24,380] year? Top line revenue of $40 million. You said 40
+- [00:10:24,380 - 00:10:25,819] million? 40 million. What's been the best
+- [00:10:25,820 - 00:10:27,380] financial advice that you've ever received? Oh,
+- [00:10:27,380 - 00:10:28,940] best financial advice? I mean, I'm in
+- [00:10:28,940 - 00:10:30,900] financial services. I see all types of advice. I would
+- [00:10:30,900 - 00:10:32,860] say the best thing for me was I was sitting
+- [00:10:32,860 - 00:10:34,980] down with a Goldman Sachs guy and I said, when
+- [00:10:34,980 - 00:10:37,100] can you flip my 10 million to 20 million? He said,
+- [00:10:37,100 - 00:10:38,700] stop it. I know how you guys make money inside
+- [00:10:38,700 - 00:10:40,300] the insurance industry. I know how much money you guys
+- [00:10:40,300 - 00:10:42,380] make. Guys like you are my typical clients.
+- [00:10:42,380 - 00:10:44,460] You're better off investing back into you. Invest back
+- [00:10:44,460 - 00:10:45,820] into your own business. If you expect your money
+- [00:10:45,820 - 00:10:47,180] to double, invest back into you. And what does
+- [00:10:47,180 - 00:10:49,100] that mean though? Skills, associations,
+- [00:10:49,100 - 00:10:51,020] relationships, reputation. That's what it means
+- [00:10:51,020 - 00:10:52,580] to invest back into yourself. How old are you now?
+- [00:10:52,580 - 00:10:54,140] I'm 50. How old were you when you became a
+- [00:10:54,140 - 00:10:55,740] millionaire? I was, well,
+- [00:10:55,740 - 00:10:58,100] the first time I did was in my thirties. Lost
+- [00:10:58,100 - 00:11:00,460] it, bad relationship. And then I rebuilt it in my
+- [00:11:00,460 - 00:11:02,460] forties. So you went broke. I went broke. Broke
+- [00:11:02,460 - 00:11:04,460] two or three times. How did you kind of bounce
+- [00:11:04,460 - 00:11:06,100] back from that? When you're in the worst
+- [00:11:06,100 - 00:11:07,740] position, you're actually in the best position. That's when
+- [00:11:07,740 - 00:11:09,900] God shows up and says, hey man, you want to answer
+- [00:11:09,900 - 00:11:12,060] my call now? And so that's it. When God calls you,
+- [00:11:12,060 - 00:11:13,340] man, when you're in the worst
+- [00:11:13,340 - 00:11:14,620] position, because when everything's great, friends, money,
+- [00:11:14,620 - 00:11:16,420] associations, you sometimes forget where your blessings
+- [00:11:16,420 - 00:11:18,220] and your resources come from. But when
+- [00:11:18,220 - 00:11:19,660] you're at the bottom, that's when God reminds us,
+- [00:11:19,660 - 00:11:21,100] hey, you remember all this stuff came from? Guess
+- [00:11:21,100 - 00:11:22,620] who it came from? It didn't come from you,
+- [00:11:22,620 - 00:11:24,140] your skills, your talents, your abilities. It came from
+- [00:11:24,140 - 00:11:25,660] your father in heaven. And when much is given,
+- [00:11:25,660 - 00:11:27,180] much is expected. When you don't do anything with
+- [00:11:27,180 - 00:11:28,700] it, you don't do much with the, with the, with
+- [00:11:28,700 - 00:11:30,220] the lease that he's given you, you try to take credit
+- [00:11:30,220 - 00:11:32,060] for it. That's when bad things start to happen.
+- [00:11:32,060 - 00:11:33,900] Have you ever met a billionaire before? I have
+- [00:11:33,900 - 00:11:35,380] actually, a company just bought us for $30 million
+- [00:11:35,380 - 00:11:36,860] a couple of years ago. What do billionaires do
+- [00:11:36,860 - 00:11:38,500] differently from everybody else? Two things. Number
+- [00:11:38,500 - 00:11:40,140] one, they ask the most questions just
+- [00:11:40,140 - 00:11:41,860] like you are. And then number two, they go
+- [00:11:41,860 - 00:11:43,580] into a room not thinking that they know everything.
+- [00:11:43,580 - 00:11:45,420] Ray Dalio said in his book, Principles, he said,
+- [00:11:45,420 - 00:11:47,260] I go into rooms thinking I'm wrong just to be
+- [00:11:47,260 - 00:11:49,300] proven that my position was actually correct
+- [00:11:49,300 - 00:11:51,340] based on the debates and conversations happening. You're
+- [00:11:51,340 - 00:11:52,700] sitting in a Rolls Royce right
+- [00:11:52,700 - 00:11:54,060] now. This is a lot of people's
+- [00:11:54,060 - 00:11:56,220] dream car right here. How can somebody get a
+- [00:11:56,220 - 00:11:58,380] Rolls Royce in 2024? Well, a couple of things is
+- [00:11:58,380 - 00:12:00,739] once the interest rates start kicking everybody's
+- [00:12:00,739 - 00:12:03,099] tail, everybody had a fun, affordable lifestyle
+- [00:12:03,099 - 00:12:04,859] two, three, four years ago, and they didn't save
+- [00:12:04,859 - 00:12:06,619] money. They're selling it right now. 20, 30, 40,
+- [00:12:06,619 - 00:12:08,739] 50% discount. Watch any car dealership auction right
+- [00:12:08,739 - 00:12:10,859] now. Watch these cars not being sold on
+- [00:12:10,859 - 00:12:12,979] auction. These be purchased at a premium. Now
+- [00:12:12,979 - 00:12:15,099] they're being purchased at a discount. When times
+- [00:12:15,099 - 00:12:17,099] are good, be the guy that stacks cash. When
+- [00:12:17,099 - 00:12:19,099] times are great, be the one that constantly puts money
+- [00:12:19,099 - 00:12:20,859] away. Why do you think Apple and all
+- [00:12:20,859 - 00:12:22,619] these companies have billions and billions of dollars
+- [00:12:22,619 - 00:12:23,819] cash just sitting on the side?
+- [00:12:24,060 - 00:12:25,540] Why? Because they're waiting for opportunities. If you want
+- [00:12:25,540 - 00:12:27,020] to afford a Rolls Royce, I wish I could
+- [00:12:27,020 - 00:12:28,739] say you could do it this year, but if you
+- [00:12:28,739 - 00:12:30,459] stack cash, you make enough money this year and you're
+- [00:12:30,459 - 00:12:32,219] stacking that cash away, someone's going to say,
+- [00:12:32,219 - 00:12:33,979] hey Matt, can you unload this Mercedes off me?
+- [00:12:33,979 - 00:12:35,419] Can you load this Rolls Royce off me? Can you
+- [00:12:35,419 - 00:12:36,859] load this Bentley off me? I'm going through a bad
+- [00:12:36,859 - 00:12:38,379] situation. I'm going through a divorce. I'm going
+- [00:12:38,379 - 00:12:39,900] through a downsize in my business. And the only
+- [00:12:39,900 - 00:12:41,739] asset that I have is this car. Can you pay me
+- [00:12:41,739 - 00:12:43,579] cash for it? One time I had a guy say, hey Matt,
+- [00:12:43,579 - 00:12:45,499] give me an offer for my vehicle and insult
+- [00:12:45,499 - 00:12:47,420] me. Meaning he needed money right away. That's going
+- [00:12:47,420 - 00:12:49,220] to happen right now during tough times if you are
+- [00:12:49,220 - 00:12:51,020] the person that was wise to do with your money and
+- [00:12:51,020 - 00:12:52,500] you saved cash. You got amazing advice,
+- [00:12:52,500 - 00:12:53,980] sir. I appreciate it. Thank you so much.
+- [00:12:53,980 - 00:12:56,300] That's a wrap on today's video guys. Dallas, Texas was
+- [00:12:56,300 - 00:12:58,620] insane as always, but I want you to like and
+- [00:12:58,620 - 00:13:00,740] subscribe for amazing content we've got coming very
+- [00:13:00,740 - 00:13:02,860] soon. And as I mentioned earlier, our private
+- [00:13:02,860 - 00:13:05,140] community, the School of Mentors just hit 1000 members.
+- [00:13:05,140 - 00:13:07,420] So if you want to hop on live calls with
+- [00:13:07,420 - 00:13:09,380] multimillionaires and billionaires and ask them
+- [00:13:09,380 - 00:13:11,340] questions about how you can better yourself,
+- [00:13:11,340 - 00:13:12,900] join with the link in the description of
+- [00:13:12,900 - 00:13:14,460] this video. I can't wait to see on the
+- [00:13:14,460 - 00:13:16,220] inside of the community. But with that being
+- [00:13:16,220 - 00:13:17,980] said, we'll see you in the next video.
