@@ -1,0 +1,284 @@
+\chapter{Options Markets}
+
+This lecture is organized with unusual discipline, and the notes should follow that discipline. We do not begin with Black--Scholes, or even with a payoff formula. We begin with the contract itself, because the mathematics makes sense only after we are clear about the right being bought and sold. From there the lecture widens out to ordinary life, to market institutions, and only then to payoff geometry, parity, no-arbitrage pricing, implied volatility, and the limits of elegant theory.
+
+\section{Defining the option and the right to choose}
+
+We begin at the level of contract language. A call option is the right to buy something at a specified price. A put option is the right to sell something at a specified price. The specified price is the exercise price, or strike price, and the contract must also specify the exercise date. The opening transcript is slightly garbled in one line, but the surrounding discussion is perfectly standard and unambiguous: the point is to define the legal structure before we start drawing graphs.
+
+\begin{definition}
+A call option gives its holder the right, but not the obligation, to buy an underlying asset at exercise price $E$ by the exercise date $T$.
+\end{definition}
+
+\begin{definition}
+A put option gives its holder the right, but not the obligation, to sell an underlying asset at exercise price $E$ by the exercise date $T$.
+\end{definition}
+
+The lecture immediately insists that these are not exotic inventions of modern exchanges. Options go back a very long way. If we are thinking of buying land from a farmer but are not ready to commit the full purchase price today, we can pay now for the right to buy later. That is already an option. The modern exchange contract comes later; the underlying logic of deferred choice comes first.
+
+The American--European distinction then enters naturally. These names do not refer to geography. They refer to when exercise is allowed. An American option may be exercised at any time up to the exercise date; a European option may be exercised only on the exercise date itself. The lecture wants us to see at once that the difference is a difference in the set of choices available to the holder.
+
+The broader intuition is that an option is valuable because it preserves choice. This is why the lecture can afford, early on, a joking analogy from Avinash Dixit about dating and delayed commitment. The joke works only because the underlying principle is real: when we exercise, we do not merely act; we also surrender the remaining flexibility of the contract. That lost flexibility is part of the value.
+
+Mortgages, too, carry option-like features. A household may choose to walk away in some states or to prepay in others. Insurance resembles a put in still another way. These examples are not digressions. They prepare the central intuition that option value is not exhausted by immediate exercise value.
+
+\subsection{Question \& Answer}
+
+\paragraph{Question.} Why is an American option at least as valuable as a European option?
+
+\paragraph{Answer.} Because the American holder can do everything the European holder can do, and more. If the two contracts have the same underlying asset, the same strike, and the same final exercise date, then the American contract simply enlarges the opportunity set. Therefore
+\begin{equation}
+\text{American option value} \ge \text{European option value}.
+\end{equation}
+The lecture does not yet need a detailed pricing formula for that inequality. It needs only the simple logic that more choice cannot make the holder worse off.
+
+\section{Why options exist beyond gambling}
+
+At this point the lecture pauses and asks the skeptical question directly: why do we have options at all? Are they merely another place to gamble? The answer is given in two distinct layers, and it is important not to collapse them into one.
+
+The first answer is theoretical. A good financial system needs prices for contingencies, not just for current goods. Arrow's state-pricing way of thinking lies behind this. If we do not have prices for future possibilities, decision-making is blind. The lecture's anti-Marx point is exactly this: an economy without financial prices lacks guidance. Options help fill in that guidance because they attach values to states and possibilities that matter for action.
+
+Ross then enters at the right place. The lecture does not reproduce his technical paper, but it preserves the point: options help complete the state space. They create prices for patterns of payoff that ordinary linear portfolios do not generate by themselves. That is why options matter to the architecture of finance and not merely to speculation.
+
+The lecture then returns to the land example and sharpens it. Suppose we are deciding whether to build a large supermarket at the intersection of two highways. Before we commit, we buy an option on the land. That option price becomes information. Perhaps the farmer says the option has already been sold. Perhaps several bidders have already appeared, and the price rises sharply. Either way, the option market is not decorative. It changes what is learned, and that changes the real allocation of resources.
+
+The second answer is behavioral. Here the lecture becomes looser, but not less serious. Options affect attention, salience, morale, and peace of mind. Incentive stock options are a clear example. They may not be terribly expensive for the firm to issue, but they make the firm's stock price salient for workers. Suddenly the future stock price is no longer an abstraction. It is tied to identity, motivation, and hope of being in the money.
+
+Insurance is the other major behavioral example. If we buy insurance on a house and the house burns down, we are in effect protected against a catastrophic price collapse. That is structurally close to a put. More importantly for the lecture, it gives peace of mind. The ability to put a floor under a feared outcome changes how people live and decide.
+
+\subsection{Question \& Answer}
+
+\paragraph{Question.} Are options merely speculative side bets, or do they improve the economic system?
+
+\paragraph{Answer.} The lecture's answer is that they can be used speculatively, but that is not their main justification. The deeper case is that options create prices for contingencies, improve information in the economy, sharpen incentives, and let people manage feared outcomes more effectively. They are therefore not just gambling devices; they are part of the machinery by which a financial system becomes more complete and more useful.
+
+\section{Options as a market and a derivative institution}
+
+Only after the instrument has been defined and justified does the lecture move to quoted option prices. That order matters. Otherwise the newspaper table would be a list of mysterious numbers.
+
+The lecture uses an old Wall Street Journal options page from April 2002. Newspapers no longer print such tables, but the old clipping serves the pedagogical purpose well. The example is AOL Time Warner, with the stock trading around \$21.85 and various call and put prices listed for nearby expirations and different strike prices. The transcript around dates and some quoted prices is noisy, so we should treat the example as lecture-time and approximate, but the institutional point is clear: these contracts trade in organized markets with visible prices.
+
+The buyer of the option pays for the right. The seller is the writer of the option. The writer need not always own the underlying stock already. In stock markets one can write an option without owning the stock; that is the naked seller. This is an important institutional step, because it shows that the option market is not merely a delayed stock purchase. It is a market in contracts.
+
+Indeed, neither party need ever transact in the stock itself. The buyer can later sell the option. The writer can later offset the written position by buying another option. The contract becomes tradable in its own right. That is why the lecture calls this a derivatives market: the contract's value is derived from the underlying stock price, but the contract itself trades in a separate market with its own quotes and volumes.
+
+The historical marker is the Chicago Board Options Exchange in 1973. Options existed before then, but the exchange made them visible, organized, and broad enough to become a substantial public market. The chalkboard image later still carries the words ``Derivatives'' and ``CBOE 1973,'' which nicely preserves the lecture's institutional frame even while the mathematics is being drawn beside it.
+
+\section{Call and put payoff geometry}
+
+Now the lecture makes its first visual mathematical move. It draws a call payoff at expiration. This is the right place to begin because on the last day the distinction between American and European exercise disappears. There is no earlier time left at which the American holder could have acted differently. On the last day the contract is just its payoff.
+
+\begin{figure}[h]
+\centering
+\includegraphics[width=0.88\textwidth]{lecture_17_figure_02.png}
+\caption{Call payoff at expiration on the lecture board.}
+\end{figure}
+
+If the stock price is below the exercise price on the exercise date, the call is worthless. We do not exercise the right to buy at a price above the market price. If the stock price is above the exercise price, the call is exercised, and the payoff is exactly the stock price minus the exercise price. Therefore
+\begin{equation}
+C_T=\max(S_T-E,0).
+\end{equation}
+
+\begin{figure}[h]
+\centering
+\begin{tikzpicture}[x=1cm,y=1cm]
+\draw[->] (0,0) -- (6.5,0) node[right] {$S_T$};
+\draw[->] (0,0) -- (0,4.2) node[above] {$C_T$};
+\draw[thick] (0,0) -- (3,0) -- (6,3);
+\draw[dashed] (3,0) -- (3,0.15);
+\node[below] at (3,0) {$E$};
+\end{tikzpicture}
+\caption{Clean reconstruction of the call payoff $C_T=\max(S_T-E,0)$.}
+\end{figure}
+
+The lecture marks the two regions explicitly. For a call, the option is out of the money when $S_T<E$, and in the money when $S_T>E$. The board's rising segment is drawn at $45^\circ$, emphasizing slope one: once the option is in the money, every additional dollar of stock price shows up as an additional dollar of payoff.
+
+The lecture then pauses over a useful confusion. If we bought an option on farmland because we were thinking of building a supermarket, one might think that the option is valuable only as a permission to think longer. But on the last day, if the option is in the money, we exercise whether or not we still want to build the supermarket. We would exercise and then resell if necessary. The investment project and the option payoff are not the same thing. That is an important clarification.
+
+This leads to one of the lecture's recurring themes: the option creates a broken straight line, a nonlinear relation between derivative value and stock price. Ordinary portfolios made from fixed holdings of stock and cash are linear. They do not have this kink. That is why options add something genuinely new.
+
+The lecture next sketches the put. At expiration its payoff is the mirror image:
+\begin{equation}
+P_T=\max(E-S_T,0).
+\end{equation}
+For a put, the option is in the money when $S_T<E$ and out of the money when $S_T>E$.
+
+Only after drawing both expiration payoffs does the lecture move back from the last day to an earlier date. Before expiration a call can never be worth less than zero, never less than its intrinsic value, and never more than the stock itself:
+\begin{equation}
+0\le C_t,\qquad C_t\ge \max(S_t-E,0),\qquad C_t\le S_t.
+\end{equation}
+So the pre-expiration call-price curve lies above the broken expiration payoff and below the stock-price line. As time passes, that curve must sink toward the broken line, because on the final day only intrinsic value survives.
+
+\subsection{Question \& Answer}
+
+\paragraph{Question.} Why is it usually wrong to exercise a call option early?
+
+\paragraph{Answer.} Because before expiration the option is worth more than its immediate exercise value. If we exercise early, we collapse the position down to the broken straight line $\max(S_t-E,0)$ and destroy the remaining value of flexibility. If we want cash out of the position, the lecture's rule is simple: sell the option; do not exercise it early. This is exactly why the American--European distinction, though logically important, matters less in ordinary call pricing than one might initially think.
+
+\section{Put--call parity as the first replication argument}
+
+The lecture now reaches its first real surprise. Once we have both the call and the put on the board, we ask what happens if we buy one call and short one put with the same strike and the same exercise date.
+
+\begin{figure}[h]
+\centering
+\includegraphics[width=0.88\textwidth]{lecture_17_figure_03.png}
+\caption{The lecture's transition to the portfolio $+1$ call, $-1$ put.}
+\end{figure}
+
+The board itself is layered and messy at this stage, so the clean mathematical statement is a cautious reconstruction from the visible geometry and the transcript. Above the strike, the long call is worth $S_T-E$ and the short put is worth $0$. Below the strike, the call is worth $0$ and the short put is worth
+\[
+-(E-S_T)=S_T-E.
+\]
+So in both regions the combined portfolio has exactly the same payoff:
+\begin{equation}
+C_T-P_T=S_T-E.
+\end{equation}
+Equivalently,
+\begin{equation}
+S_T=C_T-P_T+E.
+\end{equation}
+
+\begin{figure}[h]
+\centering
+\begin{tikzpicture}[x=1cm,y=1cm]
+\draw[->] (0.6,1.8) -- (6.6,1.8) node[right] {$S_T$};
+\draw[->] (0.8,0.2) -- (0.8,4.0) node[above] {$C_T-P_T$};
+\draw[thick] (1.0,0.4) -- (6.1,3.46);
+\draw[dashed] (3.0,1.6) -- (3.0,2.0);
+\node[below] at (3.0,1.6) {$E$};
+\end{tikzpicture}
+\caption{Clean reconstruction of the straight-line payoff $S_T-E$.}
+\end{figure}
+
+That is put--call parity on the exercise date. The transcript contains one verbal sign slip near this point, but the board logic and the payoff construction make the correct relation clear: it is call minus put, not put minus call.
+
+Before expiration the same relation must hold in present-value form. The strike amount must be discounted back to date $t$, and any dividends that the stockholder will receive before expiration must be added because the option holder does not receive them. So the cleaned relation is
+\begin{equation}
+S_t=C_t-P_t+\operatorname{PV}_t(E)+\operatorname{PV}_t(\text{dividends between }t\text{ and }T).
+\end{equation}
+If this failed materially, there would be an arbitrage opportunity.
+
+The lecture then checks parity against the newspaper example. Using the near-month contract with strike \$25, the call price \$0.45, the put price approximately \$3.60, and stock price \$21.85, we get
+\begin{equation}
+25+0.45-3.60\approx 21.85.
+\end{equation}
+The dates and some quoted values in the transcript are noisy, so we should read this as a lecture-time approximation, not a precise archival quote. But the pedagogical point lands: once we know call prices, put prices are essentially pinned down by parity.
+
+\subsection{Question \& Answer}
+
+\paragraph{Question.} Why does one long call and one short put replicate stock minus the exercise price?
+
+\paragraph{Answer.} Because the two broken-line payoffs cancel their kinks. Above the strike, only the call matters; below the strike, only the short put matters. In both cases the payoff is $S_T-E$. The nonlinear pieces combine into a straight line. This is the lecture's first replication argument, and it is the bridge from pictures to pricing.
+
+\section{One-period binomial pricing from no arbitrage}
+
+Only now does the lecture pivot to formal pricing. It announces Black--Scholes, then deliberately delays it. That is a wise pedagogical move. First we work in a one-period world where the underlying stock can do only one of two things tomorrow: go up or go down. The point is not realism. The point is to see the no-arbitrage mechanism without extra technical apparatus.
+
+Let today's stock price be $S$. Tomorrow the stock is either
+\begin{equation}
+uS \qquad \text{or} \qquad dS,
+\end{equation}
+where $u$ and $d$ are gross multipliers. If the call has exercise price $E$, then its two possible next-period values are
+\begin{equation}
+C_u=\max(uS-E,0),\qquad C_d=\max(dS-E,0).
+\end{equation}
+
+Now we construct a hedged portfolio. The lecture's verbal explanation is somewhat repetitive, but the board equation is clear: we write one call and buy $H$ shares of stock. Then the portfolio payoff next period is
+\begin{align}
+V_u&=uHS-C_u,\\
+V_d&=dHS-C_d.
+\end{align}
+We choose $H$ so that the up-state and down-state values are the same:
+\begin{equation}
+uHS-C_u=dHS-C_d.
+\end{equation}
+Solving gives the hedge ratio
+\begin{equation}
+H=\frac{C_u-C_d}{(u-d)S}.
+\end{equation}
+This expression is not cleanly legible on the board, so it is best treated as the standard reconstruction implied by the equalities the lecture does write down.
+
+\begin{figure}[h]
+\centering
+\includegraphics[width=0.88\textwidth]{lecture_17_figure_04.png}
+\caption{The no-arbitrage hedge relation and the boxed binomial pricing formula.}
+\end{figure}
+
+Once the portfolio is riskless, it must earn the riskless rate. This is the crucial no-arbitrage step, and here the board is explicit:
+\begin{equation}
+(1+r)(HS-C)=uHS-C_u=dHS-C_d.
+\end{equation}
+The instruction on the board is then to substitute $H$ and solve for $C$. Doing so yields the boxed pricing formula
+\begin{equation}
+C=\frac{1+r-d}{u-d}\frac{C_u}{1+r}+\frac{u-1-r}{u-d}\frac{C_d}{1+r}.
+\end{equation}
+It is often helpful to rewrite the coefficients as
+\begin{equation}
+p^\ast=\frac{1+r-d}{u-d},\qquad 1-p^\ast=\frac{u-1-r}{u-d},
+\end{equation}
+so that
+\begin{equation}
+C=\frac{1}{1+r}\left(p^\ast C_u+(1-p^\ast)C_d\right).
+\end{equation}
+But the lecture's own emphasis is not on naming $p^\ast$. It is on the deeper fact that the price is forced by the no-arbitrage condition.
+
+The lecture underscores this with a memorable analogy. If a riskless portfolio could earn more than the riskless rate, everyone would borrow at the lower rate and buy the better opportunity without limit. The formula therefore is not a matter of taste. It is the market's way of ruling out free money on the pavement.
+
+\subsection{Question \& Answer}
+
+\paragraph{Question.} How can we price an option without knowing the real probabilities of up and down moves?
+
+\paragraph{Answer.} Because we do not need to forecast the world directly once we can replicate the option with a hedged portfolio. We choose $H$ to eliminate the state dependence of the portfolio payoff. The resulting position is riskless, so its return must match the riskless rate. That condition alone pins down $C$. This is the lecture's central surprise: the pricing formula comes from no arbitrage, not from plugging in our personal guess about the probability of exercise.
+
+\section{Black--Scholes, implied volatility, and the limits of elegance}
+
+With the discrete no-arbitrage logic established, the lecture returns to the famous continuous-time formula. The slide gives the call price as
+\begin{equation}
+C=SN(d_1)-e^{-rT}EN(d_2),
+\end{equation}
+with
+\begin{align}
+d_1&=\frac{\ln(S/E)+rT+\sigma^2T/2}{\sigma\sqrt{T}},\\
+d_2&=\frac{\ln(S/E)+rT-\sigma^2T/2}{\sigma\sqrt{T}}.
+\end{align}
+It is useful to note the standard simplification
+\begin{equation}
+d_2=d_1-\sigma\sqrt{T}.
+\end{equation}
+Here $N(\cdot)$ is the cumulative normal distribution function, $r$ is the interest rate, and $\sigma$ is the standard deviation of the stock-price change.
+
+\begin{figure}[h]
+\centering
+\includegraphics[width=0.88\textwidth]{lecture_17_figure_05.png}
+\caption{Black--Scholes formula slide.}
+\end{figure}
+
+The lecture does not derive this formula in class. It gestures toward stochastic calculus, though the spoken reference is a little loose, and then returns to the main conceptual point: Black--Scholes is not alien to the binomial story. It is a continuous analogue of the same no-arbitrage logic. It also reproduces the visual shape we already understand. Far from expiration, the option-price curve lies above intrinsic value; as time to exercise shrinks, the curve collapses toward the broken straight line drawn earlier on the board.
+
+At this point the formula becomes useful in two directions. If we know $S$, $E$, $r$, $T$, and have an estimate of $\sigma$, we can calculate a model option price. But we can also invert the logic. If the market price $C_{\text{mkt}}$ is observed, and the other variables are known from the contract and the market, then we solve numerically for the value of $\sigma$ that makes
+\begin{equation}
+C_{\text{mkt}}=SN(d_1)-e^{-rT}EN(d_2).
+\end{equation}
+That recovered $\sigma$ is implied volatility.
+
+The lecture then turns from pricing to interpretation. Implied volatility is the options market's opinion about how variable the stock market will be between now and expiration. This is the idea behind the VIX. In the lecture's description, it is essentially a near-term market-implied volatility for the S\&P 500, annualized by the square-root rule:
+\begin{equation}
+\sigma_{\text{annual}}=\sigma_{\text{1-month}}\sqrt{12}.
+\end{equation}
+That is why the VIX can be read as the market's forward-looking measure of expected turbulence rather than as a backward-looking summary of realized volatility.
+
+The historical discussion matters here. The lecture contrasts implied volatility with realized volatility computed from past monthly data. Implied volatility spikes in the 1987 crash, rises again around the Asian financial crisis, and surges in the fall of 2008 after Lehman Brothers collapses. Actual volatility rises too, but more slowly, because it is measured from the past. The options market is valuable precisely because it looks forward.
+
+The lecture then widens out again. Over very long horizons, actual stock-market volatility looks remarkably stable, except for extraordinary episodes such as the Great Depression and, at a lower level, the recent financial crisis. That stability tempts us to extrapolate. But the lecture refuses to stop there. It insists that fat tails, outliers, and black-swan events remain the standing challenge to elegant theory. Black--Scholes assumes normality; it is therefore powerful and useful, but not infallible.
+
+The closing move takes us back to social purpose. Option theory should not be confined to exchange-traded equities. The lecture points to attempts to create options on single-family homes and to the larger idea of attaching put-like protection to mortgages. The underlying claim is the same claim from the opening sections, now brought back with force: people manage risks badly in the present system, and richer option-like markets could help them manage those risks better.
+
+\subsection{Question \& Answer}
+
+\paragraph{Question.} What does implied volatility measure, and why can Black--Scholes still fail in extreme markets?
+
+\paragraph{Answer.} Implied volatility is the value of $\sigma$ that makes the Black--Scholes price agree with the market price of the option. It is therefore a forward-looking market reading of expected variability, not a backward-looking estimate from past returns. But even if that measure is informative, the formula behind it still rests on a normal-model view of price changes. In calm times that can work very well. In crises, when markets confront fat tails and sudden breaks, the elegance of the formula does not remove the need for judgment.
+
+\section{Summary}
+
+The lecture unfolds in a deliberate sequence, and we should preserve that sequence in our understanding. An option is first a right, then a way of preserving choice, then a market instrument, then a payoff diagram, then a replication argument, and finally a price determined by no-arbitrage logic. Put--call parity is the first glimpse that option payoffs can be reproduced systematically. The binomial model turns that glimpse into a pricing method. Black--Scholes extends the same logic into a continuous setting and then becomes a tool for reading market-implied volatility back out of option prices. The final lesson is broader than any one formula: options matter because they create prices for possibilities, and a society that can price and trade more possibilities can manage risk more intelligently.
