@@ -1,67 +1,49 @@
 # Visual Evidence
 ## Frame Inventory
-- `lecture_20_figure_02.png`: A projected slide on household liabilities and net worth, with a fully legible bullet list and net-worth subtraction; this screenshot should remain in the final notes as direct documentary evidence for the accounting setup.
-- `lecture_20_figure_03.png`: A chalkboard derivation of national wealth from U.S. national income, with assumptions on growth and discounting and a final wealth figure; this screenshot should remain in the final notes as the lecture’s main mathematical board image.
-- `lecture_20_figure_04.png`: A chalkboard transition frame centered on “Dodd-Frank” and “2010,” with faint remnants of earlier fiduciary-rule material at left; this screenshot should remain in the final notes as board-layout evidence for the regulatory pivot.
-- `lecture_20_figure_05.png`: A chalkboard list of “Family Offices” and “Family Foundation” with the visible count “36,000”; this screenshot should remain in the final notes as institutional-classification evidence and as support for the numerical claim.
+- `lecture_20_figure_02.png`: A full slide on household liabilities and net worth, with readable bullet-point liabilities, the net-worth subtraction, and public-debt context; this screenshot should remain in the final notes.
+- `lecture_20_figure_03.png`: A chalkboard split between conceptual labels on the left and a capitalization formula on the right for valuing human capital; this screenshot should remain in the final notes.
+- `lecture_20_figure_04.png`: A transitional chalkboard frame centered on the heading “Dodd-Frank 2010,” with older prudent-person and ERISA material still faintly visible to the left; this screenshot should remain in the final notes.
+- `lecture_20_figure_05.png`: A chalkboard list distinguishing “Family Offices” from “Family Foundation,” with the visible numeric count “36000”; this screenshot should remain in the final notes.
 
 ## Equation Extraction
-- `lecture_20_figure_02.png`
-  - [visible] \(\text{Home mortgages} = \$10070\)
-  - [visible] \(\text{Consumer credit} = \$2435\)
-  - [visible] \(\text{Loans \& other} = \$1413\)
-  - [visible] \(\text{Total liabilities} = \$13918\)
-  - [visible] \(\text{Net worth} = \$70740 - \$13918 = \$56822\)
-  - [visible] \(\text{Per capita net worth} = \$184{,}000\)
-  - [visible] \(\text{U.S. Federal Debt} = \$14.286\ \text{trillion}\)
-  - [visible] \(\text{Federal debt per capita} = \$46{,}000\)
-  - [visible] \(\text{U.S. State \& Local debt} = \$3.135\ \text{trillion}\)
+- `lecture_20_figure_02.png` [visible]: \(\text{Home mortgages} = 10{,}070\)
+- `lecture_20_figure_02.png` [visible]: \(\text{Consumer credit} = 2{,}435\)
+- `lecture_20_figure_02.png` [visible]: \(\text{Loans \& other} = 1{,}413\)
+- `lecture_20_figure_02.png` [visible]: \(\text{Total liabilities} = 13{,}918\)
+- `lecture_20_figure_02.png` [visible]: \(\text{Net worth} = 70{,}740 - 13{,}918 = 56{,}822\)
+- `lecture_20_figure_02.png` [visible]: \(\text{Per capita net worth} = \$184{,}000\)
+- `lecture_20_figure_02.png` [visible]: \(\text{U.S. Federal Debt} = \$14.286\ \text{trillion}\)
+- `lecture_20_figure_02.png` [visible]: \(\text{Per-capita federal debt} = \$46{,}000\)
+- `lecture_20_figure_02.png` [visible]: \(\text{U.S. State \& Local Debt} = \$3.135\ \text{trillion}\)
 
-- `lecture_20_figure_03.png`
-  - [visible] \(\text{US Nat. Inc.} \approx \$13\ \text{trillion}\)
-  - [visible] \(3\% \text{ growth},\ 5\% \text{ disc}\)
-  - [partially visible] \(\text{Wealth} = \dfrac{13\ \text{trillion}}{.05-.03}\)
-  - [partially visible] \(\text{Wealth} \approx \$260\ \text{trillion}\)
-  - [standard completion] \(W=\dfrac{Y}{r-g}\), with \(Y=13\ \text{trillion}\), \(r=0.05\), \(g=0.03\)
+- `lecture_20_figure_03.png` [partially visible]: \(\text{US Nat. Inc.} = 13\ \text{trillion}\)
+- `lecture_20_figure_03.png` [partially visible]: \(g = 3\%,\quad r = 5\%\)
+- `lecture_20_figure_03.png` [visible]: \(\text{Wealth} = \dfrac{13\ \text{trillion}}{0.05 - 0.03} = 260\ \text{trillion}\)
+- `lecture_20_figure_03.png` [standard completion]: \(PV = \dfrac{Y}{r-g}\)
 
-- `lecture_20_figure_04.png`
-  - [visible] \(\text{Dodd-Frank} \quad 2010\)
-  - [partially visible] \(\text{ERISA} \quad 1974\)
+- `lecture_20_figure_04.png` [visible]: \(\text{Dodd-Frank } 2010\)
+- `lecture_20_figure_04.png` [partially visible]: \(\text{ERISA } 1974\)
 
-- `lecture_20_figure_05.png`
-  - [visible] \(\text{Family Offices}\)
-  - [visible] \(\text{Family Foundation}\)
-  - [visible] \(36{,}000\)
-  - [standard completion] \(\text{Family foundations in the United States} \approx 36{,}000\)
+- `lecture_20_figure_05.png` [visible]: \(36{,}000\)
+- `lecture_20_figure_05.png` [standard completion]: \(\text{Family foundations} = 36{,}000\)
 
 ## Diagram Extraction
-- `lecture_20_figure_02.png`: This is not a geometric diagram. It is a structured slide with title, liability bullets, a centered subtraction, and bottom contextual notes; it should be preserved as a screenshot and echoed by a nearby clean aligned equation block rather than redrawn in TikZ.
-- `lecture_20_figure_03.png`: The chalkboard has a meaningful left-to-right structure, moving from conceptual labels and assumptions to the capitalization formula and final result. This is best shown both as the original screenshot and as a nearby clean displayed equation; a TikZ redraw is unnecessary unless one wants a very minimal input-to-formula schematic, and even then the screenshot should stay nearby.
-- `lecture_20_figure_04.png`: This is a board-label transition, not a diagram. It should be preserved as a screenshot only; no TikZ redraw is warranted.
-- `lecture_20_figure_05.png`: This is a short classificatory board list rather than a formal figure. It should be preserved as a screenshot only, or at most mirrored in prose or a simple itemized block; no TikZ redraw is needed.
+- `lecture_20_figure_02.png`: This is not a diagram and should not be redrawn in TikZ; preserve it as a screenshot because the slide layout itself carries the argument.
+- `lecture_20_figure_03.png`: This is a board-layout figure rather than a formal diagram; preserve the screenshot and also typeset the capitalization formula nearby, but no TikZ redraw is necessary.
+- `lecture_20_figure_04.png`: This is a board-state transition, not a stable diagram; preserve as screenshot only.
+- `lecture_20_figure_05.png`: This is a short board list, not a diagram; preserve as screenshot only and restate the count in prose if needed.
 
 ## Reconstruction Guidance
-- Keep `lecture_20_figure_02.png` visible and pair it with a clean displayed reconstruction of the accounting arithmetic. The notes should preserve the slide’s liability categories and the subtraction
-  \[
-  \text{Net worth} = 70740 - 13918 = 56822
-  \]
-  while making clear in prose that the slide title is in billions even though the bottom contextual notes switch into trillions and per-capita dollar language.
-
-- Keep `lecture_20_figure_03.png` visible and reconstruct the board mathematics into note-quality form as
-  \[
-  W=\frac{Y}{r-g}=\frac{13\ \text{trillion}}{0.05-0.03}\approx 260\ \text{trillion}.
-  \]
-  The symbolic form \(W=Y/(r-g)\) is not itself written on the board, so it should be presented as a cautious standard completion of the visible Gordon-form calculation rather than as a literal transcription.
-
-- Keep `lecture_20_figure_04.png` visible in the regulation section as evidence of the lecture’s board transition from fiduciary-prudence language toward Dodd-Frank and post-crisis oversight. The notes should not inflate this into a derivation; the screenshot mainly supports chronology and board layout.
-
-- Keep `lecture_20_figure_05.png` visible in the late institutional-family section. The notes can cleanly typeset the \(36{,}000\) family-foundation count in prose or a short display, but the screenshot is the stronger evidence for how the lecturer grouped “Family Offices” and “Family Foundation” together on the board.
-
-- Across all four frames, prefer faithful transcription of visible text and arithmetic over aggressive normalization. Clean notation is appropriate nearby, but the screenshots should stay present whenever they carry the evidentiary burden for the lecture’s layout, labels, or numerical setup.
+- For `lecture_20_figure_02.png`, keep the screenshot and reconstruct only the core accounting identity in clean display form: net worth equals assets minus liabilities. The bullet list should not be rebuilt as a synthetic table unless there is a strong layout reason later.
+- For `lecture_20_figure_03.png`, keep the screenshot and typeset the Gordon-style capitalization cleanly as \(\frac{Y}{r-g}\), then substitute \(Y=13\) trillion, \(r=0.05\), and \(g=0.03\). The board’s left-right organization should be echoed in prose: inputs first, valuation output second.
+- For `lecture_20_figure_04.png`, use the screenshot as evidence of the lecture’s pivot from prudent-person and ERISA language toward Dodd-Frank and prudential standards. Do not reconstruct the faint ghost writing as if it were fresh notation.
+- For `lecture_20_figure_05.png`, keep the screenshot and restate the institutional distinction in prose: family offices manage family portfolios, while family foundations are charitable vehicles; the visible \(36{,}000\) count can be cited directly in text.
+- Across all four frames, prefer nearby clean equations over aggressive redrawing. None of the attached frames require TikZ to preserve their core informational content.
 
 ## Uncertainties
-- `lecture_20_figure_02.png`: The slide subtitle says “in $Billions,” but the bottom lines visibly introduce trillions and per-capita dollar figures. The notes should preserve that mixed-unit presentation carefully rather than silently homogenizing it.
-- `lecture_20_figure_03.png`: The denominator in the wealth formula is chalk-faint and appears as “.05-.03”; regularizing it to \(0.05-0.03\) is justified, but it is still a cautious completion. The board does not explicitly write \(W=Y/(r-g)\).
-- `lecture_20_figure_04.png`: Only “Dodd-Frank” and “2010” are secure new content. The older left-side writing is partly erased and inherited from earlier discussion, so it should not be over-read beyond the plainly visible fiduciary-rule references.
-- `lecture_20_figure_05.png`: The line below “36,000” is too faint to transcribe with confidence. It should be omitted unless the transcript is used separately to clarify the spoken claim.
-- The prompt’s phrase about “standard physics knowledge” is inapplicable here; any standard completion should come from standard finance notation and only where the board clearly supports it.
+- In `lecture_20_figure_03.png`, the exact chalk text around “US Nat Inc” and “13 trillion” is partly obscured by the lecturer and soft chalk edges.
+- In `lecture_20_figure_03.png`, the left-side shorthand reads like “3% growth” and “5% disc,” but the board is informal; the cleaner \(g\) and \(r\) notation is a cautious standard completion.
+- In `lecture_20_figure_04.png`, the older left-side material is cropped and partly erased, so it should be treated only as contextual residue rather than fully legible board content.
+- In `lecture_20_figure_04.png`, faint traces of the earlier wealth calculation remain on the board, but they are not reliable enough to foreground in the note reconstruction.
+- In `lecture_20_figure_05.png`, the number \(36{,}000\) is visible, but the qualifiers “as of 2006” and “in the United States” come from the transcript, not from the chalkboard itself.
+- The prompt’s mention of “standard physics knowledge” is not relevant here; any standard completion should come from basic finance valuation form, not from material outside the lecture’s evident content.
