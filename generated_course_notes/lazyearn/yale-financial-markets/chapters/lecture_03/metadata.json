@@ -1,0 +1,24 @@
+{
+  "course_rel": "lazyearn/yale-financial-markets",
+  "transcript_rel": "lazyearn/yale-financial-markets/003 - 3. Technology and Invention in Finance [Iij2mpilSJo].md",
+  "video_rel": "lazyearn/yale-financial-markets/003 - 3. Technology and Invention in Finance [Iij2mpilSJo].webm",
+  "lecture_number": 3,
+  "lecture_slug": "lecture_03",
+  "lecture_title": "3. Technology and Invention in Finance",
+  "assets": [
+    {
+      "name": "lecture_03_figure_02.png",
+      "timestamp_seconds": 593.28,
+      "timestamp_hhmmss": "00:09:53.280",
+      "source_candidate": "lecture_03_window_04_candidate_01_000953280.png",
+      "recommended_use": "screenshot_only",
+      "rationale": "This is the only candidate that clearly preserves usable blackboard content. The theorem heading and partial assumption list are more legible and complete here than in the other frames, and the lecturer only clips a small portion at the right edge. The remaining candidates are mostly lecturer-only shots or show a less useful, more occluded board view.",
+      "subtitle_excerpt": "we kind of know the probability distribution of, and that's this",
+      "segment_start_seconds": 592.8,
+      "segment_start_hhmmss": "00:09:52.800",
+      "segment_end_seconds": 596.8,
+      "segment_end_hhmmss": "00:09:56.800",
+      "caption_hint": "limit theorem assumptions"
+    }
+  ]
+}
