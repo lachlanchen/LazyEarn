@@ -1,0 +1,52 @@
+{
+  "course_rel": "lazyearn/yale-financial-markets",
+  "transcript_rel": "lazyearn/yale-financial-markets/007 - 7. Efficient Markets [3EzdvkRgToY].md",
+  "video_rel": "lazyearn/yale-financial-markets/007 - 7. Efficient Markets [3EzdvkRgToY].webm",
+  "lecture_number": 7,
+  "lecture_slug": "lecture_07",
+  "lecture_title": "7. Efficient Markets",
+  "assets": [
+    {
+      "name": "lecture_07_figure_02.png",
+      "timestamp_seconds": 558.76,
+      "timestamp_hhmmss": "00:09:18.760",
+      "source_candidate": "lecture_07_window_02_candidate_04_000918760.png",
+      "recommended_use": "screenshot_plus_tikz",
+      "rationale": "This is the only candidate with usable board content. It shows a clear chalkboard sketch of a single-peaked curve over a horizontal axis, with enough structure to support note writing or a cautious redraw. The earlier candidates are lecturer-only shots with no mathematical or diagrammatic evidence.",
+      "subtitle_excerpt": "There was a company called Integral Investment Management",
+      "segment_start_seconds": 551.6,
+      "segment_start_hhmmss": "00:09:11.600",
+      "segment_end_seconds": 559.36,
+      "segment_end_hhmmss": "00:09:19.360",
+      "caption_hint": "chalkboard bell-curve sketch"
+    },
+    {
+      "name": "lecture_07_figure_03.png",
+      "timestamp_seconds": 1365.57,
+      "timestamp_hhmmss": "00:22:45.570",
+      "source_candidate": "lecture_07_window_04_candidate_03_002245570.png",
+      "recommended_use": "screenshot_only",
+      "rationale": "This frame gives the most complete and readable view of the chalkboard layout. It clearly preserves the central board content, including \"Reuters\" and the two named figures with dates, while also retaining the partial left-side text. The lecturer is present but does not significantly block the key writing.",
+      "subtitle_excerpt": "Mr. Reuters, I think in the 1840s, before the telegraph,",
+      "segment_start_seconds": 1362.32,
+      "segment_start_hhmmss": "00:22:42.320",
+      "segment_end_seconds": 1367.32,
+      "segment_end_hhmmss": "00:22:47.320",
+      "caption_hint": "chalkboard names and dates"
+    },
+    {
+      "name": "lecture_07_figure_05.png",
+      "timestamp_seconds": 3144.345,
+      "timestamp_hhmmss": "00:52:24.345",
+      "source_candidate": "lecture_07_window_06_candidate_03_005224345.png",
+      "recommended_use": "screenshot_plus_equation",
+      "rationale": "This frame best matches the subtitle moment because the lecturer is pointing directly at the parameter restriction near \\(\\rho\\), while the full comparison between the AR(1) model and the random-walk model remains legible. It preserves the key board equations and labels with less occlusion of the mathematics than the neighboring frames.",
+      "subtitle_excerpt": "rho equals 1, well, that would be, I wouldn't",
+      "segment_start_seconds": 3142.72,
+      "segment_start_hhmmss": "00:52:22.720",
+      "segment_end_seconds": 3145.22,
+      "segment_end_hhmmss": "00:52:25.220",
+      "caption_hint": "AR(1) versus random walk"
+    }
+  ]
+}
