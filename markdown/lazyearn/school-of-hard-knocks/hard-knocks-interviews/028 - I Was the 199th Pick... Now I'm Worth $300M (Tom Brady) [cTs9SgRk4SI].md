@@ -1,0 +1,419 @@
+# Transcript
+
+Source: lazyearn/school-of-hard-knocks/hard-knocks-interviews/028 - I Was the 199th Pick... Now I'm Worth $300M (Tom Brady) [cTs9SgRk4SI].webm
+
+- [00:00:00,000 - 00:00:02,200] I'm about to interview the greatest football player of all
+- [00:00:02,200 - 00:00:04,400] time and his name who am I here with today
+- [00:00:04,400 - 00:00:06,680] Tom Brady the GOAT the greatest of all time
+- [00:00:06,680 - 00:00:08,960] appreciate it it's Tom Brady you guys he won
+- [00:00:08,960 - 00:00:11,920] seven super bowls and three MVPs all while making
+- [00:00:11,920 - 00:00:14,880] hundreds of millions of dollars so today I just
+- [00:00:14,880 - 00:00:17,520] flew out to Chicago to meet up with and
+- [00:00:17,520 - 00:00:20,160] interview the legend himself to figure out his exact secrets
+- [00:00:20,160 - 00:00:22,360] to becoming one of the greatest athletes across any
+- [00:00:22,360 - 00:00:24,560] sport and what it took to not make millions
+- [00:00:24,560 - 00:00:26,560] but hundreds of millions of dollars so this video is
+- [00:00:26,560 - 00:00:28,560] about to be insane from start to finish so stay
+- [00:00:28,560 - 00:00:35,000] tuned until the end that being said let's get this
+- [00:00:35,000 - 00:00:41,440] video on the way all right you guys so we
+- [00:00:41,440 - 00:00:43,320] just got to the destination we're going to
+- [00:00:43,320 - 00:00:45,200] be interviewing Tom Brady which is actually at one
+- [00:00:45,200 - 00:00:47,359] of his recent businesses that he just opened up out
+- [00:00:47,359 - 00:00:49,519] here in Chicago but I got to be very clear
+- [00:00:49,519 - 00:00:51,279] guys this is one of the craziest interviews
+- [00:00:51,279 - 00:00:53,040] that we've ever done look I've interviewed Jack I've
+- [00:00:53,040 - 00:00:54,560] interviewed Will Smith I've interviewed 25
+- [00:00:54,560 - 00:00:56,080] billionaires the richest people in the world
+- [00:00:56,080 - 00:00:57,240] but we're talking about one of
+- [00:00:57,240 - 00:00:58,400] the greatest athletes of all time
+- [00:00:58,560 - 00:01:00,720] Tom Brady the legend he's going to go down
+- [00:01:00,720 - 00:01:02,880] in every sports history book you guys so this is
+- [00:01:02,880 - 00:01:04,879] going to be a once in a lifetime experience
+- [00:01:04,879 - 00:01:06,880] and an incredible interview for you guys so stay tuned
+- [00:01:06,880 - 00:01:13,880] we're going to be meeting with the legend any
+- [00:01:13,880 - 00:01:20,880] minute now how you doing man what's up brother
+- [00:01:20,880 - 00:01:22,640] great to see you man good to see you
+- [00:01:22,640 - 00:01:24,400] guys everything's great man how are you doing with
+- [00:01:24,400 - 00:01:26,360] Tom Tom what's up man how you doing brother good to
+- [00:01:26,360 - 00:01:28,320] see you buddy great to see you shut up right now
+- [00:01:28,560 - 00:01:32,360] yeah he's great he's the best of the world I love
+- [00:01:32,360 - 00:01:36,160] it James how you doing man I feel good man happy
+- [00:01:36,160 - 00:01:39,200] to be here doing great that's awesome what's the
+- [00:01:39,200 - 00:01:42,240] best what's the best spot right here right here
+- [00:01:42,240 - 00:01:44,280] guys can we get the ball who am I here
+- [00:01:44,280 - 00:01:46,320] with today Tom Brady the GOAT the greatest of all time
+- [00:01:46,320 - 00:01:48,320] appreciate it and for those who don't know how did
+- [00:01:48,320 - 00:01:50,320] you make your millions a lot of hard work on the
+- [00:01:50,320 - 00:01:52,320] football field taking a lot of hits and trying to
+- [00:01:52,320 - 00:01:54,320] get the ball out of my hand as fast as possible
+- [00:01:54,320 - 00:01:56,360] throwing it to my teammates you're the greatest of
+- [00:01:56,360 - 00:01:58,400] all time I appreciate that but I I like to
+- [00:01:58,560 - 00:01:59,900] I think that I did the
+- [00:01:59,900 - 00:02:01,240] best I could with opportunities I got.
+- [00:02:01,380 - 00:02:03,640] And I never tried to compare myself to anybody else.
+- [00:02:03,720 - 00:02:05,310] I just tried to be the best I could
+- [00:02:05,310 - 00:02:06,900] be every day for myself and for all my teammates.
+- [00:02:07,080 - 00:02:08,300] You became one of the greatest
+- [00:02:08,300 - 00:02:09,520] athletes to ever pick up a football.
+- [00:02:09,699 - 00:02:11,089] What was the biggest driving factor
+- [00:02:11,089 - 00:02:12,480] of your success throughout your career?
+- [00:02:12,580 - 00:02:14,320] I think what happened early in
+- [00:02:14,320 - 00:02:16,060] my career through high school and college,
+- [00:02:16,140 - 00:02:18,450] I had to work really hard to become a
+- [00:02:18,450 - 00:02:20,760] starter on the team and ultimately to be a contributor.
+- [00:02:20,980 - 00:02:22,670] I think through those nine years,
+- [00:02:22,670 - 00:02:24,360] I really learned a lot of resiliency
+- [00:02:24,360 - 00:02:26,880] because things didn't always bounce my way early on.
+- [00:02:26,880 - 00:02:28,460] And I think I really had
+- [00:02:28,460 - 00:02:30,040] to find different strategies to be successful.
+- [00:02:30,180 - 00:02:31,810] Then when I got to the pro level,
+- [00:02:31,810 - 00:02:33,440] I felt like I had a lot of self-confidence
+- [00:02:33,440 - 00:02:34,950] because I had overcome a lot
+- [00:02:34,950 - 00:02:36,460] when no one was really paying attention.
+- [00:02:36,640 - 00:02:38,600] So then I got to the pros and I was
+- [00:02:38,600 - 00:02:40,560] like, all right, let me put those same tactics to work.
+- [00:02:40,620 - 00:02:41,820] Did you have anybody that doubted you?
+- [00:02:41,900 - 00:02:43,660] Yeah, about 32 teams for the
+- [00:02:43,660 - 00:02:45,420] first six rounds of the NFL draft.
+- [00:02:45,600 - 00:02:46,400] But you didn't listen to them.
+- [00:02:46,500 - 00:02:48,610] You know what? I think you have to listen to
+- [00:02:48,610 - 00:02:50,720] what's inside of you and the own self-belief that you have.
+- [00:02:50,780 - 00:02:52,560] And the person that you're looking at
+- [00:02:52,560 - 00:02:54,340] in the mirror every day really matters most.
+- [00:02:54,340 - 00:02:55,800] How did you find that self-belief though?
+- [00:02:55,880 - 00:02:56,780] Because that's one of the biggest things.
+- [00:02:56,780 - 00:02:58,780] People in business, in sports, they doubt themselves.
+- [00:02:58,940 - 00:02:59,960] They listen to the naysayers.
+- [00:03:00,060 - 00:03:01,720] What was it inside of you that found that self-belief
+- [00:03:01,720 - 00:03:03,380] to go out there and become one of the greats?
+- [00:03:03,420 - 00:03:04,520] It's just a lot of trial
+- [00:03:04,520 - 00:03:05,620] and error and a lot of failure.
+- [00:03:05,800 - 00:03:07,210] And I think the failures that
+- [00:03:07,210 - 00:03:08,620] I had allowed me to be successful.
+- [00:03:08,820 - 00:03:10,290] And I always tell everybody, you have
+- [00:03:10,290 - 00:03:11,760] to get outside of your comfort zone.
+- [00:03:11,840 - 00:03:13,310] We can all wake up every day
+- [00:03:13,310 - 00:03:14,780] and live a life of comfort and convenience
+- [00:03:14,780 - 00:03:16,760] and do things the same way all the time.
+- [00:03:16,780 - 00:03:18,350] But I think you really have to
+- [00:03:18,350 - 00:03:19,920] challenge yourself to grow in many ways,
+- [00:03:20,060 - 00:03:21,640] physically, mentally, and emotionally,
+- [00:03:21,640 - 00:03:23,280] in order to achieve things that
+- [00:03:23,280 - 00:03:24,920] maybe you didn't even think were possible.
+- [00:03:25,080 - 00:03:26,600] Your comfort zone is where dreams go to die.
+- [00:03:26,600 - 00:03:27,720] You're 100% right.
+- [00:03:27,799 - 00:03:28,299] Well said.
+- [00:03:28,440 - 00:03:29,060] Let me ask you this.
+- [00:03:29,260 - 00:03:29,960] You weren't the fastest.
+- [00:03:30,239 - 00:03:30,859] You weren't the strongest.
+- [00:03:31,079 - 00:03:32,220] But you outlasted everybody.
+- [00:03:32,359 - 00:03:33,579] What was the secret to your longevity?
+- [00:03:33,820 - 00:03:35,359] Well, I had so many great mentors.
+- [00:03:35,760 - 00:03:36,880] And that taught me the right way.
+- [00:03:36,940 - 00:03:38,550] My best friend in the world,
+- [00:03:38,550 - 00:03:40,160] it was like my brother, Alex Guerrero,
+- [00:03:40,220 - 00:03:41,619] who's now running the entire health
+- [00:03:41,619 - 00:03:43,019] and wellness department for the Raiders.
+- [00:03:43,180 - 00:03:44,040] He taught me a lot.
+- [00:03:44,180 - 00:03:45,790] And it was a lot of discipline
+- [00:03:45,790 - 00:03:47,400] that I learned through our work together
+- [00:03:47,400 - 00:03:49,230] about how to take care of my body that allowed me
+- [00:03:49,230 - 00:03:51,060] to do what I love to do for a long time.
+- [00:03:51,100 - 00:03:51,959] So I want to challenge you.
+- [00:03:52,060 - 00:03:54,540] Take me to the most life-changing conversation you ever had.
+- [00:03:54,540 - 00:03:56,540] What is the greatest piece of advice you ever received?
+- [00:03:56,600 - 00:03:59,210] When I was a sophomore in college, I
+- [00:03:59,210 - 00:04:01,820] had a sports psychologist mentor of mine, Greg Harden.
+- [00:04:01,960 - 00:04:03,430] And God rest his soul, he
+- [00:04:03,430 - 00:04:04,900] passed away about six months ago.
+- [00:04:05,019 - 00:04:06,019] And I would go and bitch
+- [00:04:06,019 - 00:04:07,019] and complain to him all the time
+- [00:04:07,019 - 00:04:08,269] that I wasn't getting the
+- [00:04:08,269 - 00:04:09,519] same opportunities that other guys were.
+- [00:04:09,660 - 00:04:11,309] And he sat me down in his
+- [00:04:11,309 - 00:04:12,959] office one Tuesday afternoon and he said,
+- [00:04:13,060 - 00:04:14,360] why don't you quit bitching about
+- [00:04:14,360 - 00:04:15,660] all the things you're not getting
+- [00:04:15,660 - 00:04:17,100] and worry about the things you are getting?
+- [00:04:17,260 - 00:04:19,209] And if they give you three opportunities in a
+- [00:04:19,209 - 00:04:21,159] practice to go out there and do your best,
+- [00:04:21,260 - 00:04:21,719] then do it.
+- [00:04:21,779 - 00:04:23,000] And don't worry about anybody else.
+- [00:04:23,100 - 00:04:24,629] And I think so many times
+- [00:04:24,629 - 00:04:26,159] we focus on what everyone else gets.
+- [00:04:26,159 - 00:04:26,560] And we...
+- [00:04:26,560 - 00:04:27,840] lose track of what we're
+- [00:04:27,840 - 00:04:29,120] getting and the opportunities we're getting.
+- [00:04:29,200 - 00:04:30,150] You go out there and you
+- [00:04:30,150 - 00:04:31,100] take advantage of the opportunities you get.
+- [00:04:31,120 - 00:04:31,620] And I did that.
+- [00:04:31,700 - 00:04:32,260] Take accountability.
+- [00:04:32,540 - 00:04:33,500] Nobody's coming to save you.
+- [00:04:33,820 - 00:04:35,820] Accountability is a word that I think we need
+- [00:04:35,820 - 00:04:37,820] to ingrain in all of us all the time.
+- [00:04:37,820 - 00:04:39,340] We are accountable to the people
+- [00:04:39,340 - 00:04:40,860] that we value in our life.
+- [00:04:40,940 - 00:04:42,120] Certainly ourself, number one.
+- [00:04:42,220 - 00:04:43,600] But the people that matter in our
+- [00:04:43,600 - 00:04:44,980] life, we should be accountable to them too.
+- [00:04:45,080 - 00:04:46,500] You faced immense pressure.
+- [00:04:46,700 - 00:04:47,060] Hoos.
+- [00:04:47,300 - 00:04:48,520] You played with broken ribs.
+- [00:04:48,680 - 00:04:49,660] You played at Super Bowls.
+- [00:04:49,760 - 00:04:50,760] How did you change your mind
+- [00:04:50,760 - 00:04:51,760] to deal with that type of pressure?
+- [00:04:51,920 - 00:04:53,800] Guys, I know we're interviewing Tom Brady right now,
+- [00:04:53,880 - 00:04:55,640] but I need you to listen to me very carefully.
+- [00:04:55,840 - 00:04:55,940] Look.
+- [00:04:55,940 - 00:04:58,460] In the last four years, I've interviewed 25 billionaires,
+- [00:04:58,560 - 00:05:01,240] founders, industry titans, the richest people on the planet.
+- [00:05:01,300 - 00:05:02,350] And I asked them all
+- [00:05:02,350 - 00:05:03,400] if they had to start over
+- [00:05:03,400 - 00:05:04,870] and get rich in any industry
+- [00:05:04,870 - 00:05:06,340] in today's world, what would it be?
+- [00:05:06,480 - 00:05:07,240] And you know what they said?
+- [00:05:07,240 - 00:05:08,240] Came down to two things.
+- [00:05:08,440 - 00:05:10,070] Mastering AI and understanding how
+- [00:05:10,070 - 00:05:11,700] to build a massive personal brand.
+- [00:05:11,800 - 00:05:13,920] That's why next week, inside my private community,
+- [00:05:14,060 - 00:05:16,460] the most powerful entrepreneur network on the planet,
+- [00:05:16,580 - 00:05:18,650] I'm hosting the first ever AI
+- [00:05:18,650 - 00:05:20,720] Mastery and Viral Personal Brand Day.
+- [00:05:20,780 - 00:05:22,659] This upcoming Friday on August 8th,
+- [00:05:22,659 - 00:05:24,159] I'm going to be bringing
+- [00:05:24,159 - 00:05:25,659] in the top minds in AI,
+- [00:05:25,940 - 00:05:27,700] content creation, who are currently building
+- [00:05:27,700 - 00:05:29,340] seven, eight, and nine figure
+- [00:05:29,340 - 00:05:30,980] businesses with AI and content.
+- [00:05:31,080 - 00:05:33,180] First, we'll have an AI millionaire teach you
+- [00:05:33,180 - 00:05:35,600] how to launch your own AI business from scratch
+- [00:05:35,600 - 00:05:37,200] with no technical skills needed.
+- [00:05:37,420 - 00:05:38,880] Second, we're going to have one of
+- [00:05:38,880 - 00:05:40,340] the top AI experts in the world
+- [00:05:40,340 - 00:05:43,360] teach you how to scale your business using AI agents
+- [00:05:43,360 - 00:05:46,040] that run entire parts of your company on autopilot.
+- [00:05:46,140 - 00:05:47,040] And last but not least,
+- [00:05:47,159 - 00:05:50,200] I will personally be walking you through our exact playbook
+- [00:05:50,200 - 00:05:51,560] on how to build a personal
+- [00:05:51,560 - 00:05:52,920] brand that gets billions of views
+- [00:05:52,920 - 00:05:54,820] and drives in millions of dollars in revenue.
+- [00:05:54,940 - 00:05:55,920] Now, here's the craziest part.
+- [00:05:56,000 - 00:05:57,360] Guys, guess how much this costs.
+- [00:05:57,480 - 00:05:58,400] It's not $10,000.
+- [00:05:58,820 - 00:05:59,720] It's not $1,000.
+- [00:06:00,100 - 00:06:00,960] It's not even a dollar.
+- [00:06:01,120 - 00:06:02,600] It's 100% free.
+- [00:06:02,740 - 00:06:03,500] Yes, free.
+- [00:06:03,620 - 00:06:04,560] But here's the thing, guys.
+- [00:06:04,680 - 00:06:07,320] You have between now, watching this video right now,
+- [00:06:07,320 - 00:06:10,080] and Friday, August 8th, to get free access.
+- [00:06:10,380 - 00:06:11,600] After that, you're going to have to pay.
+- [00:06:11,700 - 00:06:12,840] But on top of all
+- [00:06:12,840 - 00:06:13,980] of that, if you join now,
+- [00:06:14,100 - 00:06:16,700] you will not only get free access to this event,
+- [00:06:16,780 - 00:06:19,480] but you will get direct access to the millionaires
+- [00:06:19,480 - 00:06:21,150] and the billionaires that I
+- [00:06:21,150 - 00:06:22,820] interview every week on this channel.
+- [00:06:22,860 - 00:06:24,680] Because every week, inside of the community,
+- [00:06:24,900 - 00:06:25,900] I host live calls.
+- [00:06:26,000 - 00:06:27,060] But the people that I interview,
+- [00:06:27,200 - 00:06:28,680] where you ask them your questions,
+- [00:06:28,820 - 00:06:30,220] and they mentor you directly,
+- [00:06:30,400 - 00:06:32,360] this has literally never been done before.
+- [00:06:32,500 - 00:06:34,060] And you can join right now for free.
+- [00:06:34,140 - 00:06:35,800] So all you have to do is go down
+- [00:06:35,800 - 00:06:37,640] and click the link in the description of this video
+- [00:06:37,640 - 00:06:40,080] to join the number one most powerful community
+- [00:06:40,080 - 00:06:42,320] for entrepreneurs in the entire world,
+- [00:06:42,400 - 00:06:43,320] the School of Mentors.
+- [00:06:43,460 - 00:06:44,980] I can't wait to see you on the inside.
+- [00:06:45,120 - 00:06:45,980] But with that being said,
+- [00:06:46,020 - 00:06:46,980] let's get back to the interview.
+- [00:06:47,120 - 00:06:48,360] Because I see the most success of people,
+- [00:06:48,520 - 00:06:50,360] what allows them to get to that level of success
+- [00:06:50,360 - 00:06:52,760] is the ability to deal with immense amounts of pressure.
+- [00:06:52,840 - 00:06:53,480] Because people crumble.
+- [00:06:53,620 - 00:06:54,460] How did you change your mind
+- [00:06:54,460 - 00:06:55,300] to deal with a lot of pressure?
+- [00:06:55,440 - 00:06:55,860] A lot of great people.
+- [00:06:55,920 - 00:06:57,900] One is like iron sharpens iron.
+- [00:06:58,060 - 00:06:58,880] Dealing with pressure,
+- [00:06:59,000 - 00:07:00,780] you have to put yourself in pressure situations.
+- [00:07:01,000 - 00:07:02,680] So I treated practice like a game.
+- [00:07:02,920 - 00:07:04,660] And if we scored a touchdown in practice,
+- [00:07:04,780 - 00:07:06,340] I celebrated like it was in a game.
+- [00:07:06,440 - 00:07:08,320] And I wanted to deal with all those emotions
+- [00:07:08,320 - 00:07:09,880] like it was game day,
+- [00:07:09,940 - 00:07:10,940] even when it wasn't game day.
+- [00:07:11,180 - 00:07:13,380] So every little thing that I could make a competition,
+- [00:07:13,660 - 00:07:14,620] I made it seem like,
+- [00:07:14,700 - 00:07:15,600] even in the off season,
+- [00:07:15,700 - 00:07:16,860] if I was throwing with Gronk,
+- [00:07:16,880 - 00:07:18,400] or Julian, or Danny, or Wes,
+- [00:07:18,480 - 00:07:20,000] I'd say, hey man, it's fourth down,
+- [00:07:20,100 - 00:07:20,740] fourth and seven.
+- [00:07:20,900 - 00:07:21,560] We got a score.
+- [00:07:21,760 - 00:07:23,340] We only got one shot to win the Super Bowl.
+- [00:07:23,440 - 00:07:24,880] And you either win the Super Bowl or you're not.
+- [00:07:24,880 - 00:07:25,720] But the difference is,
+- [00:07:25,720 - 00:07:27,260] that Super Bowl's in June or July.
+- [00:07:27,420 - 00:07:28,420] And you got to get it done then.
+- [00:07:28,500 - 00:07:30,460] So then when it really matters in February,
+- [00:07:30,680 - 00:07:32,240] well, you realize you've already done it before.
+- [00:07:32,300 - 00:07:33,060] And your body knows.
+- [00:07:33,200 - 00:07:34,960] And it's already been programmed for that experience.
+- [00:07:35,120 - 00:07:36,640] Take me back to Super Bowl 51.
+- [00:07:36,900 - 00:07:37,880] One of my favorite games.
+- [00:07:38,040 - 00:07:40,160] You were down 28 to three at halftime.
+- [00:07:40,280 - 00:07:42,060] The biggest deficit in Super Bowl history.
+- [00:07:42,200 - 00:07:43,120] You came back and won.
+- [00:07:43,300 - 00:07:44,900] Take me back to the locker room at halftime.
+- [00:07:45,060 - 00:07:46,060] What was going through your mind?
+- [00:07:46,200 - 00:07:47,020] What were you telling yourself?
+- [00:07:47,100 - 00:07:47,940] What was that self-talk?
+- [00:07:48,120 - 00:07:49,220] Well, the point was,
+- [00:07:49,360 - 00:07:50,200] and I think for all of us,
+- [00:07:50,260 - 00:07:50,740] don't quit.
+- [00:07:50,840 - 00:07:51,900] Go fight your ass off.
+- [00:07:51,960 - 00:07:52,820] And fight to the end.
+- [00:07:52,880 - 00:07:53,760] And look, whatever happens,
+- [00:07:53,760 - 00:07:55,140] be proud of what you did, by the way.
+- [00:07:55,240 - 00:07:55,480] You fought.
+- [00:07:55,480 - 00:07:57,120] Because sometimes things don't bounce your way
+- [00:07:57,120 - 00:07:57,880] early in the game.
+- [00:07:58,020 - 00:07:58,780] But if you quit,
+- [00:07:58,880 - 00:08:00,400] you're a loser for life.
+- [00:08:00,480 - 00:08:01,320] If you fight back,
+- [00:08:01,400 - 00:08:02,600] well, let's see what can happen.
+- [00:08:02,740 - 00:08:03,860] And we're down 21 to three.
+- [00:08:03,960 - 00:08:05,260] And Coach Belichick said to us,
+- [00:08:05,380 - 00:08:07,580] 21 points won't be enough to beat us today.
+- [00:08:07,700 - 00:08:09,580] So we got the ball in the third quarter.
+- [00:08:09,680 - 00:08:10,740] And we punted back to them.
+- [00:08:10,760 - 00:08:11,580] And they scored a touchdown.
+- [00:08:11,780 - 00:08:12,700] And it went 28 to three.
+- [00:08:12,760 - 00:08:13,020] And I was like,
+- [00:08:13,060 - 00:08:14,440] well, maybe 28 points is enough.
+- [00:08:14,520 - 00:08:15,060] But you know what?
+- [00:08:15,080 - 00:08:16,340] We fought back that day.
+- [00:08:16,440 - 00:08:17,680] And I think the strength,
+- [00:08:17,820 - 00:08:18,280] resilience,
+- [00:08:18,480 - 00:08:20,400] determination of the men on that team
+- [00:08:20,400 - 00:08:21,460] and in that organization,
+- [00:08:21,720 - 00:08:22,500] coaching included,
+- [00:08:22,500 - 00:08:23,840] we showed what we were all about.
+- [00:08:24,000 - 00:08:24,980] And we didn't stop fighting.
+- [00:08:24,980 - 00:08:26,800] And then we found a way to overcome
+- [00:08:26,800 - 00:08:28,420] the early deficiencies that,
+- [00:08:28,680 - 00:08:28,920] in the end,
+- [00:08:28,980 - 00:08:30,340] make it a magical day for all of us.
+- [00:08:30,420 - 00:08:32,360] You have a beautiful perspective on competition.
+- [00:08:32,559 - 00:08:33,360] And you talk about how,
+- [00:08:33,480 - 00:08:34,080] in today's world,
+- [00:08:34,159 - 00:08:34,760] across sports,
+- [00:08:34,860 - 00:08:35,559] people are friendly.
+- [00:08:35,820 - 00:08:37,780] You had a maniacal focus about you.
+- [00:08:37,880 - 00:08:39,140] Were you ever afraid of competition?
+- [00:08:39,419 - 00:08:39,919] No, you know,
+- [00:08:39,980 - 00:08:41,620] I had this no bull mentality.
+- [00:08:41,799 - 00:08:42,440] No bullshit.
+- [00:08:42,640 - 00:08:43,340] No excuses.
+- [00:08:43,620 - 00:08:44,179] Were you a little crazy?
+- [00:08:44,320 - 00:08:45,380] I am a little crazy.
+- [00:08:45,580 - 00:08:46,760] I see things as like,
+- [00:08:46,920 - 00:08:48,300] you're either giving your best or you're not.
+- [00:08:48,440 - 00:08:50,060] And everyone wants to win.
+- [00:08:50,160 - 00:08:50,680] But in the end,
+- [00:08:50,720 - 00:08:52,080] what are you really willing to do
+- [00:08:52,080 - 00:08:53,240] to do what it takes to win?
+- [00:08:53,340 - 00:08:54,640] If you're training for a season,
+- [00:08:54,640 - 00:08:56,000] anyone could play one game.
+- [00:08:56,120 - 00:08:58,100] It doesn't take much effort to be 4 and 13.
+- [00:08:58,380 - 00:08:59,340] It takes a lot more
+- [00:08:59,340 - 00:09:00,300] effort to be 9 and 8.
+- [00:09:00,380 - 00:09:01,360] It takes a lot more
+- [00:09:01,360 - 00:09:02,340] effort to be 12 and 5.
+- [00:09:02,420 - 00:09:03,440] It takes a ton of
+- [00:09:03,440 - 00:09:04,460] effort to be 15 and 2.
+- [00:09:04,620 - 00:09:06,720] And you have to have the right discipline and habits
+- [00:09:06,720 - 00:09:08,100] and actions every day
+- [00:09:08,100 - 00:09:09,080] to make the right choices
+- [00:09:09,080 - 00:09:10,900] to put yourself in a position to succeed.
+- [00:09:11,040 - 00:09:12,880] One of my favorite videos I've ever seen of you
+- [00:09:12,880 - 00:09:14,480] is when you were asked who your hero is.
+- [00:09:14,560 - 00:09:15,540] Can you share with my audience,
+- [00:09:15,699 - 00:09:16,240] who is your hero?
+- [00:09:16,400 - 00:09:17,500] I said then,
+- [00:09:17,600 - 00:09:18,560] and that was in 26,
+- [00:09:18,700 - 00:09:20,120] I'll say now my dad's my hero.
+- [00:09:20,280 - 00:09:21,140] And he always has been.
+- [00:09:21,180 - 00:09:22,560] I try to be like my dad every day.
+- [00:09:22,560 - 00:09:24,560] He's a man who lives every day with integrity.
+- [00:09:25,280 - 00:09:26,340] And he's the best dad,
+- [00:09:26,439 - 00:09:27,120] the best grandpa.
+- [00:09:27,500 - 00:09:29,220] And I am who I am because of my dad.
+- [00:09:29,300 - 00:09:30,180] You have a couple sons.
+- [00:09:30,420 - 00:09:31,220] Your dad's your hero.
+- [00:09:31,439 - 00:09:33,280] Give me a lesson that your dad taught you
+- [00:09:33,280 - 00:09:34,500] that you are going to
+- [00:09:34,500 - 00:09:35,720] instill in your kids one day
+- [00:09:35,720 - 00:09:36,720] before you leave this earth.
+- [00:09:36,860 - 00:09:38,420] What's a lesson that your dad taught you
+- [00:09:38,420 - 00:09:39,240] that you're going to make sure
+- [00:09:39,240 - 00:09:40,380] that you instill in your children?
+- [00:09:40,520 - 00:09:41,609] So my dad was there for
+- [00:09:41,609 - 00:09:42,699] me every step of the way.
+- [00:09:42,800 - 00:09:44,420] Any point in my life where,
+- [00:09:44,580 - 00:09:45,780] you know, my dad was a rock.
+- [00:09:45,900 - 00:09:47,840] And he provided me every opportunity
+- [00:09:47,840 - 00:09:48,819] I needed to succeed.
+- [00:09:49,020 - 00:09:51,180] And he had the most belief in me of anyone.
+- [00:09:51,180 - 00:09:52,260] And that's what I really want
+- [00:09:52,260 - 00:09:53,340] to pass on to my kids.
+- [00:09:53,500 - 00:09:54,240] I believe in them.
+- [00:09:54,240 - 00:09:55,580] Whatever they set their mind to,
+- [00:09:55,640 - 00:09:56,320] they're going to accomplish.
+- [00:09:56,520 - 00:09:58,340] And your last message to the younger generation.
+- [00:09:58,540 - 00:09:59,940] Tom, if me and you died tomorrow
+- [00:09:59,940 - 00:10:01,460] and you had one more guiding principle
+- [00:10:01,460 - 00:10:02,540] to lead with the younger generation,
+- [00:10:02,640 - 00:10:03,180] what would that be?
+- [00:10:03,240 - 00:10:04,160] Be proud of the person
+- [00:10:04,160 - 00:10:05,080] you look back in the mirror
+- [00:10:05,080 - 00:10:05,780] every single day.
+- [00:10:05,840 - 00:10:07,480] Because that's the person you got to satisfy.
+- [00:10:07,800 - 00:10:10,020] And the life you lead is the lesson you teach.
+- [00:10:10,140 - 00:10:11,180] So when you wake up every day
+- [00:10:11,180 - 00:10:12,340] and the choices that you make,
+- [00:10:12,360 - 00:10:13,280] you don't have to say anything.
+- [00:10:13,520 - 00:10:14,400] Everyone's going to watch you
+- [00:10:14,400 - 00:10:15,300] and they're going to pay attention.
+- [00:10:15,560 - 00:10:16,910] So if you want to live
+- [00:10:16,910 - 00:10:18,260] a life of integrity, be that.
+- [00:10:18,320 - 00:10:19,330] If you want to live
+- [00:10:19,330 - 00:10:20,340] a life of resilience, be that.
+- [00:10:20,420 - 00:10:21,640] If you want to live a
+- [00:10:21,640 - 00:10:22,860] life of caring and joy, be that.
+- [00:10:22,940 - 00:10:24,060] That's what you can bring to the world.
+- [00:10:24,060 - 00:10:25,160] You got amazing advice, Tom.
+- [00:10:25,540 - 00:10:26,300] Thank you so much for your time.
+- [00:10:26,319 - 00:10:26,880] Yeah, great to meet you.
+- [00:10:26,939 - 00:10:27,599] I appreciate you, man.
+- [00:10:27,640 - 00:10:28,160] That was amazing.
+- [00:10:28,280 - 00:10:29,219] Thanks, man.
+- [00:10:29,280 - 00:10:29,800] All right, you guys.
+- [00:10:29,880 - 00:10:31,060] That's a wrap on today's video.
+- [00:10:31,140 - 00:10:32,420] I need you guys to like and subscribe
+- [00:10:32,420 - 00:10:34,800] because we just interviewed the legendary Tom Brady.
+- [00:10:35,000 - 00:10:36,260] Nobody is doing that, man.
+- [00:10:36,359 - 00:10:37,160] Shout out to Chicago.
+- [00:10:37,359 - 00:10:38,260] Shout out to Tom Brady.
+- [00:10:38,439 - 00:10:39,859] And if you guys have not joined yet,
+- [00:10:39,900 - 00:10:40,739] go down and click the link
+- [00:10:40,739 - 00:10:41,579] in the description of this video
+- [00:10:41,579 - 00:10:42,939] to join the School of Mentors,
+- [00:10:43,020 - 00:10:44,479] the number one community for business owners
+- [00:10:44,479 - 00:10:45,319] in the entire world.
+- [00:10:45,400 - 00:10:46,560] I can't wait to see you on the inside.
+- [00:10:46,719 - 00:10:47,459] With that being said,
+- [00:10:47,579 - 00:10:48,459] I'll see you in the next video.
