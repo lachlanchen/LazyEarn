@@ -1,0 +1,443 @@
+# Transcript
+
+Source: lazyearn/school-of-hard-knocks/hard-knocks-interviews/053 - I Was on Food Stamps... Now I Make $100M⧸Year [QJP9OXmI5_4].webm
+
+- [00:00:00,160 - 00:00:02,160] TJ! What's up? This place is incredible,
+- [00:00:02,160 - 00:00:04,160] man. Thank you, man. I appreciate that.
+- [00:00:04,280 - 00:00:05,320] What was the most amount of money
+- [00:00:05,320 - 00:00:06,360] that you made in a single year?
+- [00:00:06,480 - 00:00:07,560] 90 million, 100 million.
+- [00:00:07,640 - 00:00:08,780] Growing up, did you think creating
+- [00:00:08,780 - 00:00:09,920] all this was possible? I mean,
+- [00:00:10,020 - 00:00:11,700] you got every car anybody can imagine.
+- [00:00:11,700 - 00:00:13,380] You got the Ferrari out here, the Lamborghini,
+- [00:00:13,460 - 00:00:14,610] the McLaren tucked in there.
+- [00:00:14,610 - 00:00:15,760] I never had a broke mindset,
+- [00:00:15,900 - 00:00:17,840] even when I was on government tees, even when
+- [00:00:17,840 - 00:00:19,780] we had food stamps, even all of that stuff.
+- [00:00:19,840 - 00:00:21,820] And then I built my business and
+- [00:00:21,820 - 00:00:23,800] I've gone bankrupt. But it's been a long,
+- [00:00:24,000 - 00:00:25,770] long, long time since I've been
+- [00:00:25,770 - 00:00:27,540] broke and I ain't never going back.
+- [00:00:27,600 - 00:00:29,280] Hey, never going back. I ain't never going back.
+- [00:00:29,280 - 00:00:30,300] If you lost everything tomorrow,
+- [00:00:30,300 - 00:00:31,320] could you make it all back?
+- [00:00:31,540 - 00:00:32,400] Absolutely. Absolutely.
+- [00:00:32,420 - 00:00:33,880] What business would you get into right now?
+- [00:00:33,920 - 00:00:35,570] I started buying businesses. I mean, that's what
+- [00:00:35,570 - 00:00:37,220] I would do because most people want to
+- [00:00:37,220 - 00:00:38,430] build a business from scratch, but
+- [00:00:38,430 - 00:00:39,640] you don't have to do that today.
+- [00:00:39,760 - 00:00:41,300] You go get the playbook. You go get the playbook.
+- [00:00:41,440 - 00:00:42,080] It's already done.
+- [00:00:42,260 - 00:00:42,960] Do you believe in God?
+- [00:00:43,200 - 00:00:44,920] Absolutely. I believe in God. Yeah, for sure. I
+- [00:00:44,920 - 00:00:46,640] could tell you a story about that, but yeah,
+- [00:00:46,760 - 00:00:47,160] absolutely.
+- [00:00:47,400 - 00:00:48,670] A story. Has being in
+- [00:00:48,670 - 00:00:49,940] LA helped you as an entrepreneur?
+- [00:00:50,460 - 00:00:51,300] Absolutely. Come here.
+- [00:00:51,760 - 00:00:53,930] This is amazing. I got to get
+- [00:00:53,930 - 00:00:56,100] a video of this. This is not real.
+- [00:00:56,100 - 00:00:58,240] That house right there, Kanye just moved into.
+- [00:00:58,440 - 00:00:59,260] And the white one right there?
+- [00:00:59,300 - 00:00:59,420] Yeah.
+- [00:00:59,480 - 00:01:00,220] Did you go to college?
+- [00:01:00,380 - 00:01:00,620] Yeah.
+- [00:01:00,680 - 00:01:01,960] Did college help you become a millionaire?
+- [00:01:02,240 - 00:01:02,640] No.
+- [00:01:03,460 - 00:01:05,970] You made more than 99.9% of business professors
+- [00:01:05,970 - 00:01:08,480] ever will. What's a lesson about business you'd
+- [00:01:08,480 - 00:01:09,540] give to somebody that they
+- [00:01:09,540 - 00:01:10,600] will not learn at business school?
+- [00:01:13,100 - 00:01:15,230] Guys, I'm out in the hidden hills in Beverly
+- [00:01:15,230 - 00:01:17,360] Hills out in Los Angeles, and I'm about to
+- [00:01:17,360 - 00:01:20,530] interview a $100 million entrepreneur who built and
+- [00:01:20,530 - 00:01:23,700] sold a tech company at his $50 million mansion
+- [00:01:23,700 - 00:01:26,080] out here, you guys. This is about to be
+- [00:01:26,080 - 00:01:28,460] a masterclass on all things business to figure out
+- [00:01:28,460 - 00:01:29,260] how now he owns a business.
+- [00:01:29,280 - 00:01:31,400] He owns 10 companies doing over $100 million
+- [00:01:31,400 - 00:01:33,520] a year and really figuring out the secrets
+- [00:01:33,520 - 00:01:35,740] to success and building wealth and how
+- [00:01:35,740 - 00:01:37,960] you can become financially free headed into 2025.
+- [00:01:37,960 - 00:01:39,460] So let's go meet up with him
+- [00:01:39,460 - 00:01:40,960] and go see what he has to say.
+- [00:01:40,960 - 00:01:41,960] TJ.
+- [00:01:41,960 - 00:01:42,960] What's up?
+- [00:01:42,960 - 00:01:43,960] What's going on, my friend?
+- [00:01:43,960 - 00:01:44,960] Good to see you, bro.
+- [00:01:44,960 - 00:01:45,960] Thank you for having us out here.
+- [00:01:45,960 - 00:01:46,960] For sure.
+- [00:01:46,960 - 00:01:47,960] This place is incredible, man.
+- [00:01:47,960 - 00:01:48,960] Thank you, man. I appreciate that.
+- [00:01:48,960 - 00:01:50,600] Man, how long has Beverly Hills been home for?
+- [00:01:50,600 - 00:01:51,800] Beverly Hills, about four years.
+- [00:01:51,800 - 00:01:52,800] And you built an empire.
+- [00:01:52,800 - 00:01:53,800] Yeah, man.
+- [00:01:53,800 - 00:01:55,300] How long have you been a business owner for?
+- [00:01:55,300 - 00:01:56,300] Man, most of my life.
+- [00:01:56,300 - 00:01:57,300] Most of your life?
+- [00:01:57,300 - 00:01:58,300] Most of your life.
+- [00:01:58,300 - 00:01:59,180] Yeah, for sure.
+- [00:01:59,180 - 00:01:59,680] Is there anything that you've
+- [00:01:59,680 - 00:02:00,180] built that has become impossible?
+- [00:02:00,180 - 00:02:01,800] I mean, you got every car anybody can imagine.
+- [00:02:01,800 - 00:02:03,060] You've got the Ferrari out here,
+- [00:02:03,060 - 00:02:04,320] the Lamborghini, the McLaren tucked in there.
+- [00:02:04,320 - 00:02:05,320] Yeah.
+- [00:02:05,320 - 00:02:06,320] Well, I've always loved cars, man.
+- [00:02:06,320 - 00:02:07,740] So I've always thought that I
+- [00:02:07,740 - 00:02:09,160] would have cars that I wanted.
+- [00:02:09,160 - 00:02:11,220] So I didn't know that it would be these.
+- [00:02:11,220 - 00:02:12,220] But yeah.
+- [00:02:12,220 - 00:02:13,220] What was your main business?
+- [00:02:13,220 - 00:02:14,220] Tech.
+- [00:02:14,220 - 00:02:15,220] Tech Services.
+- [00:02:15,220 - 00:02:16,220] I built a tech services business, sold it.
+- [00:02:16,220 - 00:02:18,220] And then I built a construction business.
+- [00:02:18,220 - 00:02:19,220] Sold it.
+- [00:02:19,220 - 00:02:21,340] And I have a supplement business today.
+- [00:02:21,340 - 00:02:22,480] I built businesses, man.
+- [00:02:22,480 - 00:02:24,000] I hope other people do the same thing.
+- [00:02:24,000 - 00:02:26,020] How many businesses would you say you own right now?
+- [00:02:26,020 - 00:02:27,020] About...
+- [00:02:27,020 - 00:02:28,020] Just under 10.
+- [00:02:28,020 - 00:02:29,020] But, yeah.
+- [00:02:29,020 - 00:02:30,830] the way out here from austin yeah and we got to
+- [00:02:30,830 - 00:02:32,640] get the game from you man we got to figure out
+- [00:02:32,640 - 00:02:34,860] like how people can become wealthy going into 2025
+- [00:02:34,860 - 00:02:37,080] okay going into the new year and they want
+- [00:02:37,080 - 00:02:38,830] to take over and dominate like you did in multiple
+- [00:02:38,830 - 00:02:40,580] industries can we get some game for you real quick
+- [00:02:40,580 - 00:02:42,580] for sure let's get right into it throughout your
+- [00:02:42,580 - 00:02:44,580] career across all your companies in one year in
+- [00:02:44,580 - 00:02:46,540] terms of revenue what was the most amount of money
+- [00:02:46,540 - 00:02:48,500] that you made in a single year across my companies
+- [00:02:48,500 - 00:02:51,290] in revenue oh wow 90 90 million 100
+- [00:02:51,290 - 00:02:54,080] million actually and how about for yourself 25 million
+- [00:02:54,080 - 00:02:56,900] yeah yeah that's incredible yeah do you come from
+- [00:02:56,900 - 00:02:59,720] a lot of money absolutely not man no absolutely
+- [00:02:59,720 - 00:03:02,050] so you didn't have rich parents no not at all
+- [00:03:02,050 - 00:03:04,380] my mom was 14 years old when she got pregnant with
+- [00:03:04,380 - 00:03:06,540] me i grew up in the south food stamps
+- [00:03:06,540 - 00:03:08,700] and government cheese and all that sort of stuff so
+- [00:03:08,700 - 00:03:10,410] what was the turning point to financial freedom how
+- [00:03:10,410 - 00:03:12,120] did you know you wanted to get really serious
+- [00:03:12,120 - 00:03:13,750] about building a hundred million dollar
+- [00:03:13,750 - 00:03:15,380] company and just becoming an extremely successful
+- [00:03:15,380 - 00:03:17,210] entrepreneur you know i think when i was a
+- [00:03:17,210 - 00:03:19,040] kid man i always wanted to be successful because i
+- [00:03:19,040 - 00:03:21,120] didn't want to live in the stuff that i was living
+- [00:03:21,120 - 00:03:23,200] in i didn't like it i was motivated to get out of
+- [00:03:23,200 - 00:03:23,630] it so i didn't know that i wanted to be
+- [00:03:23,630 - 00:03:24,060] successful i didn't know that i wanted to be successful
+- [00:03:24,060 - 00:03:24,070] i didn't know that i wanted to be successful i didn't know that
+- [00:03:24,070 - 00:03:24,080] i wanted to be successful i didn't know that i wanted to be successful
+- [00:03:24,080 - 00:03:25,840] to build a hundred million dollar company per se but
+- [00:03:25,840 - 00:03:27,600] what i did know is i wanted to be successful i
+- [00:03:27,600 - 00:03:29,600] didn't know what that looked like and you continue to
+- [00:03:29,600 - 00:03:31,600] define that as you grow but i wanted to be
+- [00:03:31,600 - 00:03:34,200] successful early on so i always worked always tried
+- [00:03:34,200 - 00:03:36,800] to figure a way out to be helpful and had
+- [00:03:36,800 - 00:03:38,920] a mindset that was like oh how do i get out
+- [00:03:38,920 - 00:03:41,040] of this place and never have to come back to it now
+- [00:03:41,040 - 00:03:43,360] as an eight nine figure entrepreneur what was
+- [00:03:43,360 - 00:03:45,680] the best financial advice that you ever received i
+- [00:03:45,680 - 00:03:48,120] don't know that i got a lot of financial advice
+- [00:03:48,120 - 00:03:50,560] i got business advice but in terms of finance advice
+- [00:03:50,560 - 00:03:52,310] the advice that i would give your
+- [00:03:52,310 - 00:03:54,060] followers is to learn and make money
+- [00:03:54,060 - 00:03:55,060] you don't need to be a millionaire this
+- [00:03:55,060 - 00:03:56,060] is everything that i tell people all the time
+- [00:03:56,060 - 00:03:57,900] that you do you have to be a millionaire you
+- [00:03:57,900 - 00:03:59,740] have to be successful at least get a lot of
+- [00:03:59,740 - 00:04:01,700] money in your sleep right no matter what i
+- [00:04:01,700 - 00:04:03,660] don't care if you're getting paid like don't trade
+- [00:04:03,660 - 00:04:05,780] dollars for hours because no matter how much
+- [00:04:05,780 - 00:04:07,900] you charge per hour you're going to be limited
+- [00:04:07,900 - 00:04:10,300] so you have to figure out how to
+- [00:04:10,300 - 00:04:12,700] make passive income and build systems invest do different
+- [00:04:12,700 - 00:04:15,100] things that you're making more money while you sleep
+- [00:04:15,100 - 00:04:17,500] than you can in any job so let's say
+- [00:04:17,500 - 00:04:18,779] somebody is trading their time for money they're in
+- [00:04:18,779 - 00:04:20,060] that nine to five they want to make that lead
+- [00:04:20,060 - 00:04:21,620] to becoming financially free they want to
+- [00:04:21,620 - 00:04:23,180] start making passive income what's that first step
+- [00:04:23,180 - 00:04:23,580] somebody should take real estate is a good one you
+- [00:04:23,580 - 00:04:23,980] have to have a lot of capital to start making money
+- [00:04:23,980 - 00:04:25,880] have to have a lot of capital. There's a
+- [00:04:25,880 - 00:04:27,780] lot of first-time homeowner programs. I think the biggest
+- [00:04:27,780 - 00:04:30,100] thing that one would do today, if I was, because,
+- [00:04:30,100 - 00:04:32,420] you know, what I did is different than what I would
+- [00:04:32,420 - 00:04:34,780] do today. What would you do today? Today, what I
+- [00:04:34,780 - 00:04:37,140] would do is I would buy businesses. You know, that is
+- [00:04:37,140 - 00:04:39,210] the thing that I would do because right now,
+- [00:04:39,210 - 00:04:41,280] there are so many businesses that are ripe for
+- [00:04:41,280 - 00:04:43,180] selling. There are so many people that want to get
+- [00:04:43,180 - 00:04:45,080] out of their business. Their kids don't want to go
+- [00:04:45,080 - 00:04:47,070] into that business. They don't have maybe succession plans.
+- [00:04:47,070 - 00:04:49,060] They don't have a way to get out of that
+- [00:04:49,060 - 00:04:50,960] business, but they need the cash and they
+- [00:04:50,960 - 00:04:52,860] need to stop because they've gotten divorced, they're sick,
+- [00:04:52,860 - 00:04:55,330] they're tired, whatever it is. I would use
+- [00:04:55,330 - 00:04:57,800] the government 7A program to get financing to buy
+- [00:04:57,800 - 00:05:00,090] businesses. Is that SBA? SBA 7A program, yeah. What
+- [00:05:00,090 - 00:05:02,380] type of business would you buy in today's world?
+- [00:05:02,500 - 00:05:05,530] You can buy laundromats. The focus is getting
+- [00:05:05,530 - 00:05:08,560] stuff that cash flows. So laundromat, pool companies. I
+- [00:05:08,560 - 00:05:10,350] like the vending machine business. I like
+- [00:05:10,350 - 00:05:12,140] laundromats. I like things like that because
+- [00:05:12,140 - 00:05:14,080] it's not necessarily labor intensive or you have to
+- [00:05:14,080 - 00:05:16,020] have a lot of know-how to do that. And they're
+- [00:05:16,020 - 00:05:17,840] recession-proof. They're recession-proof, man. They're going
+- [00:05:17,840 - 00:05:19,660] to always be there. So buying
+- [00:05:19,660 - 00:05:21,140] businesses is what I would be
+- [00:05:21,140 - 00:05:22,620] doing today. Like the private equity model?
+- [00:05:22,620 - 00:05:24,890] Well, it's not so much private equity, right?
+- [00:05:24,890 - 00:05:27,160] It's leveraged buyouts. So what you're doing is
+- [00:05:27,160 - 00:05:29,580] you're finding businesses that cash flow at
+- [00:05:29,580 - 00:05:32,000] a certain number. Let's say that business cash
+- [00:05:32,000 - 00:05:34,580] flows at $20,000 a month, right? And you can get
+- [00:05:34,580 - 00:05:37,160] a loan. You can service a loan for $7,000 a month
+- [00:05:37,160 - 00:05:39,880] or $10,000 a month. You're up $10,000, right? So what
+- [00:05:39,880 - 00:05:42,600] you want to do is to figure out a way to
+- [00:05:42,600 - 00:05:45,200] creatively pay the person that wants to leave the
+- [00:05:45,200 - 00:05:47,800] business and buy businesses. I mean, that'd be the
+- [00:05:47,800 - 00:05:49,760] thing that I do. Have you ever been broke before?
+- [00:05:50,880 - 00:05:52,220] Yeah, I've been broke before.
+- [00:05:52,620 - 00:05:55,310] Broke in terms of no money, not broke
+- [00:05:55,310 - 00:05:58,000] mindset, right? That's a whole different thing. I never
+- [00:05:58,000 - 00:06:00,180] had a broke mindset, even when I was on government
+- [00:06:00,180 - 00:06:02,360] tees, even when we had food stamps, even all of
+- [00:06:02,360 - 00:06:04,680] that stuff. We had no money, but I
+- [00:06:04,680 - 00:06:07,000] personally was never broke because I was always thinking
+- [00:06:07,000 - 00:06:10,030] way beyond where I was, right? And then I built
+- [00:06:10,030 - 00:06:13,060] my business and I've gone bankrupt. But it's been a
+- [00:06:13,060 - 00:06:15,210] long, long, long time since I've been
+- [00:06:15,210 - 00:06:17,360] broke and I ain't never going back.
+- [00:06:17,420 - 00:06:18,280] Hey, never going back.
+- [00:06:18,300 - 00:06:19,120] I ain't never going back.
+- [00:06:19,120 - 00:06:20,770] I love that. I love that. So if you
+- [00:06:20,770 - 00:06:22,420] lost everything tomorrow, could you make it all back?
+- [00:06:22,420 - 00:06:23,420] Absolutely. Absolutely.
+- [00:06:23,420 - 00:06:24,820] What business would you get into right now?
+- [00:06:24,820 - 00:06:27,100] I started buying businesses. If I lost
+- [00:06:27,100 - 00:06:29,380] everything tomorrow, I would start buying businesses. Why?
+- [00:06:29,380 - 00:06:31,140] Because you're buying it based on the
+- [00:06:31,140 - 00:06:32,900] other business's credit, right? There's all types of
+- [00:06:32,900 - 00:06:35,620] creative financing to do. There's SBA loans, the 7A
+- [00:06:35,620 - 00:06:38,340] SBA loans that I talked about. So yeah, I would
+- [00:06:38,340 - 00:06:40,220] go do that. That would be the fastest. I
+- [00:06:40,220 - 00:06:42,100] mean, that's what I would do because most people want
+- [00:06:42,100 - 00:06:43,340] to build a business from scratch, but
+- [00:06:43,340 - 00:06:44,580] you don't have to do that today.
+- [00:06:44,580 - 00:06:46,260] You go get the playbook. You go get the playbook.
+- [00:06:46,260 - 00:06:47,780] It's already done. The business is already
+- [00:06:47,780 - 00:06:49,300] done. You can see that it's working.
+- [00:06:49,300 - 00:06:50,740] Where do you go to find these
+- [00:06:50,740 - 00:06:52,180] businesses? Some people hear that, they say, okay,
+- [00:06:52,180 - 00:06:53,940] just buy a business, but where can you find
+- [00:06:53,940 - 00:06:55,700] people? Where do you go to buy a business?
+- [00:06:55,700 - 00:06:57,820] Yeah. I think there's a number of portals.
+- [00:06:57,820 - 00:06:59,940] There's a biz by sell, I think it is,
+- [00:06:59,940 - 00:07:02,100] but there's a portal that you can just
+- [00:07:02,100 - 00:07:04,260] go in and put in the industry, the location,
+- [00:07:04,260 - 00:07:06,100] and that kind of thing. And it brings up
+- [00:07:06,100 - 00:07:07,940] all the businesses and people are trying to buy businesses
+- [00:07:07,940 - 00:07:09,860] or trying to sell their businesses. There's
+- [00:07:09,860 - 00:07:11,780] business brokers. And then you can also start
+- [00:07:11,780 - 00:07:13,740] to just cold call businesses because there's
+- [00:07:13,740 - 00:07:15,700] people that would sell their business if they
+- [00:07:15,700 - 00:07:17,460] got the call, but they haven't gotten the
+- [00:07:17,460 - 00:07:19,220] call. Big transfer of wealth is about to happen.
+- [00:07:19,220 - 00:07:20,100] It's what you're saying. People are
+- [00:07:20,100 - 00:07:20,980] looking to step out of their business.
+- [00:07:20,980 - 00:07:22,100] Yeah. It's called the, I think it's called the
+- [00:07:22,100 - 00:07:22,160] SBA. Yeah. It's called the SBA.
+- [00:07:22,160 - 00:07:22,180] Yeah. It's called the SBA. Yeah. It's called the SBA.
+- [00:07:22,180 - 00:07:24,780] It's called the SBA. Yeah. It's called the gray
+- [00:07:24,780 - 00:07:27,380] tsunami. And the gray tsunami is there's a lot of
+- [00:07:27,380 - 00:07:29,740] boomers that have businesses that they have to get
+- [00:07:29,740 - 00:07:32,100] out of. There's a surplus of businesses and not
+- [00:07:32,100 - 00:07:33,780] enough people that's going out and buying
+- [00:07:33,780 - 00:07:35,460] businesses. But wouldn't they want to give
+- [00:07:35,460 - 00:07:36,740] that to their family to take over?
+- [00:07:36,740 - 00:07:38,020] There are a lot of family members,
+- [00:07:38,020 - 00:07:40,100] man, that kids don't want to go do their
+- [00:07:40,100 - 00:07:42,180] dad's business. They want to do their own thing. We're
+- [00:07:42,180 - 00:07:44,740] in a different time. You guys, this video with TJ
+- [00:07:44,740 - 00:07:47,300] has been incredible so far and we're about to get
+- [00:07:47,300 - 00:07:49,730] right back to it. But I have a very quick,
+- [00:07:49,730 - 00:07:52,160] very special announcement to make for you guys. So a
+- [00:07:52,160 - 00:07:54,650] couple months ago, I launched and built
+- [00:07:54,650 - 00:07:57,140] one of the biggest and greatest entrepreneur communities
+- [00:07:57,140 - 00:07:59,400] in the entire world. And you can join
+- [00:07:59,400 - 00:08:01,660] this community today for free. And inside of this
+- [00:08:01,660 - 00:08:04,020] community, I bring in the biggest business owners
+- [00:08:04,020 - 00:08:06,380] in the world, even billionaires, all the people
+- [00:08:06,380 - 00:08:08,900] that you see me interview on live calls to
+- [00:08:08,900 - 00:08:11,420] directly mentor you, where you can ask them any
+- [00:08:11,420 - 00:08:13,640] question about business, starting and scaling a business,
+- [00:08:13,640 - 00:08:15,860] how to sell, how to market, how to find
+- [00:08:15,860 - 00:08:17,980] a winning product and scale that in whatever industry
+- [00:08:17,980 - 00:08:20,100] that it is in. I want you guys to stop
+- [00:08:20,100 - 00:08:21,120] for a second and think about something. Are you
+- [00:08:21,120 - 00:08:22,140] a business owner? Are you a business owner? Are you
+- [00:08:22,140 - 00:08:24,760] in the exact same place now that you were
+- [00:08:24,760 - 00:08:27,380] a year ago or even the year before? Maybe you're
+- [00:08:27,380 - 00:08:29,200] hesitating to start that first business or you
+- [00:08:29,200 - 00:08:31,020] don't know how to scale that company that you
+- [00:08:31,020 - 00:08:32,940] started. You don't know how to get out
+- [00:08:32,940 - 00:08:34,860] of that nine to five. Understand this. Nothing changes
+- [00:08:34,860 - 00:08:37,100] if nothing changes. If you're still taking advice from
+- [00:08:37,100 - 00:08:39,340] the same people who are not even in the
+- [00:08:39,340 - 00:08:41,350] places that you want to be, you need to stop
+- [00:08:41,350 - 00:08:43,360] and get around people that have done it before. And
+- [00:08:43,360 - 00:08:45,820] that's why I'm giving you guys the opportunity
+- [00:08:45,820 - 00:08:48,280] today to join my community for free, to come
+- [00:08:48,280 - 00:08:50,200] learn from the most successful and
+- [00:08:50,200 - 00:08:52,120] the wealthiest business owners in the world,
+- [00:08:52,140 - 00:08:54,650] because the only way to go from point A to
+- [00:08:54,650 - 00:08:57,160] point B in life, in business, in your career and finances
+- [00:08:57,160 - 00:08:59,520] is through mentorship. It's getting the lessons,
+- [00:08:59,520 - 00:09:01,880] the blueprint, the playbook from the people that
+- [00:09:01,880 - 00:09:03,860] have been there and done it before, regardless of
+- [00:09:03,860 - 00:09:05,840] what industry you're in. So if you want to join
+- [00:09:05,840 - 00:09:07,660] and come learn from the billionaires and
+- [00:09:07,660 - 00:09:09,480] the multimillionaires that I interview, how to build
+- [00:09:09,480 - 00:09:11,510] wealth and start becoming financially free, go to
+- [00:09:11,510 - 00:09:13,540] the link down in the description of this video
+- [00:09:13,540 - 00:09:15,700] to join the school of mentors. I can't wait
+- [00:09:15,700 - 00:09:17,860] to see you on the inside. With that being said,
+- [00:09:17,860 - 00:09:19,930] let's get back to the video. Do you believe
+- [00:09:19,930 - 00:09:22,000] in God? Absolutely. I believe in God. Yeah, for sure.
+- [00:09:22,140 - 00:09:24,280] I could tell you a story about that, but yeah,
+- [00:09:24,280 - 00:09:26,420] absolutely. A story. So as a kid, I was broke,
+- [00:09:26,480 - 00:09:28,490] didn't have a wonderful sort of environment. So
+- [00:09:28,490 - 00:09:30,500] I was always like going, God, show me yourself.
+- [00:09:30,740 - 00:09:32,900] Show me who you are. Show me your face,
+- [00:09:32,900 - 00:09:35,060] right? Show me in the Magic Johnson poster, you know,
+- [00:09:35,100 - 00:09:37,380] do something, right? And then I went to work
+- [00:09:37,380 - 00:09:39,660] the next day. I remember going to sleep crying and
+- [00:09:39,660 - 00:09:41,980] wondering if God is real or was he Santa
+- [00:09:41,980 - 00:09:44,300] Claus. And I'm working, doing my thing. And this guy
+- [00:09:44,300 - 00:09:46,650] comes up and says to me, God loves you. He's real.
+- [00:09:46,650 - 00:09:49,000] And he wanted me to tell you that. And from that
+- [00:09:49,000 - 00:09:50,560] moment on, I was 15 years
+- [00:09:50,560 - 00:09:52,120] old. I've always believed in God.
+- [00:09:52,140 - 00:09:53,910] God, you know, so. And faith has been
+- [00:09:53,910 - 00:09:55,680] pretty important for you. Faith is important. I mean,
+- [00:09:55,740 - 00:09:58,640] faith is critical. Faith is critical, obviously
+- [00:09:58,640 - 00:10:01,540] from a spiritual standpoint, but from a business
+- [00:10:01,540 - 00:10:04,300] standpoint and from a life standpoint, if you
+- [00:10:04,300 - 00:10:07,060] don't believe it, like when you believe something,
+- [00:10:07,220 - 00:10:08,720] truly, truly believe something, it's going to drive
+- [00:10:08,720 - 00:10:10,220] your actions. It's going to drive the way
+- [00:10:10,220 - 00:10:12,150] you think and what you do in the
+- [00:10:12,150 - 00:10:14,080] relationships that you build. So faith is really important.
+- [00:10:14,240 - 00:10:16,440] So God gives us a practical foundation for faith.
+- [00:10:16,440 - 00:10:18,640] He said, believe. I mean, that's what the whole
+- [00:10:18,640 - 00:10:20,380] New Testament is about. Did you go to
+- [00:10:20,380 - 00:10:22,120] college? Yeah. Did college help you become a millionaire?
+- [00:10:22,480 - 00:10:26,660] No. It didn't hurt me. I mean, what college did for
+- [00:10:26,660 - 00:10:30,840] me is help me get a skill set. It helped me
+- [00:10:30,840 - 00:10:33,030] become a computer programmer and get a job as
+- [00:10:33,030 - 00:10:35,220] a computer programmer. So let me ask you this,
+- [00:10:35,280 - 00:10:37,870] because you made more than 99.9% of
+- [00:10:37,870 - 00:10:40,460] business professors ever will. What's a lesson about
+- [00:10:40,460 - 00:10:42,420] business you'd give to somebody that they
+- [00:10:42,420 - 00:10:44,380] will not learn in business school? Marketing. What
+- [00:10:44,380 - 00:10:46,260] they don't teach in school is that everybody
+- [00:10:46,260 - 00:10:48,140] needs you. They just don't know who you are.
+- [00:10:48,140 - 00:10:50,130] So your job is to identify who
+- [00:10:50,130 - 00:10:52,120] those people are, get to the highest mountain,
+- [00:10:52,140 - 00:10:54,729] top that you can, and tell them who you are.
+- [00:10:54,729 - 00:10:57,319] Let the people know who you are. That is the key
+- [00:10:57,319 - 00:11:00,509] to growing in business. And in school, we learn
+- [00:11:00,509 - 00:11:03,699] about business, but marketing is the key to making
+- [00:11:03,699 - 00:11:05,519] it all come together. You have the magic sauce,
+- [00:11:05,519 - 00:11:07,340] but if people don't know who you are, then it
+- [00:11:07,340 - 00:11:09,079] doesn't matter. Now, we came all the way out here
+- [00:11:09,079 - 00:11:10,819] from Austin. Can we check out the spot real quick?
+- [00:11:10,819 - 00:11:12,540] See the place? Is that cool? Yeah, for sure.
+- [00:11:12,540 - 00:11:13,300] Awesome, man. It's so cool.
+- [00:11:22,140 - 00:11:25,990] Has being in LA helped you
+- [00:11:25,990 - 00:11:29,840] as an entrepreneur? Absolutely. Come here.
+- [00:11:29,840 - 00:11:34,040] This is amazing. This is amazing. I got to
+- [00:11:34,040 - 00:11:38,240] get a video of this. This is not real.
+- [00:11:38,360 - 00:11:40,670] If you come over here.
+- [00:11:40,670 - 00:11:42,980] So this house, Mark Wahlberg's house.
+- [00:11:43,080 - 00:11:45,670] He still lives there? No, he sold it about
+- [00:11:45,670 - 00:11:48,260] seven, eight months ago. That house right up there,
+- [00:11:48,460 - 00:11:50,210] trees are kind of covering it a bit.
+- [00:11:50,210 - 00:11:51,960] The driveway goes all the way down there.
+- [00:11:52,140 - 00:11:54,510] The tennis court is associated with that. And then
+- [00:11:54,510 - 00:11:56,880] on the bottom of that, he has a car museum.
+- [00:11:57,060 - 00:11:58,740] That's Samsung. The Samsung counter?
+- [00:11:58,900 - 00:12:01,480] Yeah. Wow. That house right there, Kanye just moved into.
+- [00:12:01,640 - 00:12:02,880] And the white one right there?
+- [00:12:02,880 - 00:12:04,120] Yeah. That house, the gray one?
+- [00:12:04,300 - 00:12:05,980] Yeah. That's Aston Kutcher's house.
+- [00:12:06,040 - 00:12:07,439] Oh my goodness. They call it the farmhouse.
+- [00:12:07,620 - 00:12:10,280] Denzel Washington, Eddie Murphy. Are you serious?
+- [00:12:10,380 - 00:12:11,160] Yeah, yeah, yeah. They're all about here?
+- [00:12:11,160 - 00:12:12,470] Yeah, yeah. That's wild. This is
+- [00:12:12,470 - 00:12:13,780] all Beverly Park. So when you say,
+- [00:12:13,880 - 00:12:16,270] has it helped me? One thing that happens is that
+- [00:12:16,270 - 00:12:18,660] you can't unsee stuff. So like when I was in DC,
+- [00:12:18,660 - 00:12:20,320] I love cars. And I would have a
+- [00:12:20,320 - 00:12:21,980] few cars and I would have people going,
+- [00:12:22,100 - 00:12:22,120] man, I love cars. And I would have people going,
+- [00:12:22,120 - 00:12:22,140] man, I love cars. And I would have people going,
+- [00:12:22,140 - 00:12:24,150] man, be careful. Don't do that. Don't do that.
+- [00:12:24,150 - 00:12:26,160] You can't do these things. And you come out here
+- [00:12:26,160 - 00:12:28,570] and you like meet people and they have a 20
+- [00:12:28,570 - 00:12:30,980] car garage and a 50 car car collection or a hundred
+- [00:12:30,980 - 00:12:33,260] car car collection. So you find your tribe and
+- [00:12:33,260 - 00:12:35,540] you see that things are possible. And once you
+- [00:12:35,540 - 00:12:37,810] see that it's possible, you can't unsee it.
+- [00:12:37,810 - 00:12:40,080] So has it helped me as an entrepreneur? Absolutely.
+- [00:12:40,319 - 00:12:42,689] Because it just expands your vision and helps
+- [00:12:42,689 - 00:12:45,060] your creativity. And you find out ways to do
+- [00:12:45,060 - 00:12:47,939] things that you wouldn't even think was possible back home.
+- [00:12:48,100 - 00:12:49,690] What's the number one thing that separates
+- [00:12:49,690 - 00:12:51,280] middle class from wealthy people in today's world?
+- [00:12:51,280 - 00:12:52,120] No limits.
+- [00:12:52,120 - 00:12:55,060] I mean, wealthy people don't have a limitation and
+- [00:12:55,060 - 00:12:58,000] they know there's no limit in terms of what
+- [00:12:58,000 - 00:12:59,820] they can achieve and how much money they can
+- [00:12:59,820 - 00:13:01,640] make. And all they have to do is solve problems,
+- [00:13:01,820 - 00:13:03,850] create solutions to make more money. And so they
+- [00:13:03,850 - 00:13:05,880] live in that world. And it's a whole different
+- [00:13:05,880 - 00:13:08,410] realm where it's not about jobs and how much you
+- [00:13:08,410 - 00:13:10,940] can make on this job or stepping up a particular
+- [00:13:10,940 - 00:13:13,720] ladder around some stuff that's
+- [00:13:13,720 - 00:13:16,500] sort of predetermined and well-structured. Wealthy
+- [00:13:16,500 - 00:13:19,210] people don't need structure. Well, TJ, this
+- [00:13:19,210 - 00:13:21,920] was absolutely amazing. I got to say,
+- [00:13:21,920 - 00:13:23,470] thank you so much for having
+- [00:13:23,470 - 00:13:25,020] us out here. Well, thanks for trespassing.
+- [00:13:26,740 - 00:13:29,010] Good to see you, man. Well, I got to
+- [00:13:29,010 - 00:13:31,280] ask you though. So this summer, I started a private
+- [00:13:31,280 - 00:13:32,809] community called the School of Mentors. It's
+- [00:13:32,809 - 00:13:34,339] grown to be one of the biggest entrepreneur
+- [00:13:34,339 - 00:13:36,349] communities in the world. Awesome. Every single week
+- [00:13:36,349 - 00:13:38,360] I host live calls with the millionaires and
+- [00:13:38,360 - 00:13:40,510] the billionaires that I interview, such as
+- [00:13:40,510 - 00:13:42,660] like the former CEO of 7-Eleven, Stephen Klubeck,
+- [00:13:42,699 - 00:13:44,629] who sold his company for $2 billion to Hilton. I'd
+- [00:13:44,629 - 00:13:46,560] love to have you on a live call. Could we
+- [00:13:46,560 - 00:13:48,259] make that happen? Could you be a mentor on
+- [00:13:48,259 - 00:13:49,959] a live call? Absolutely. That'd be amazing, my friend.
+- [00:13:50,199 - 00:13:51,049] Everybody, if you guys want to join me,
+- [00:13:51,049 - 00:13:51,900] please do. Thank you so much. Thank you.
+- [00:13:51,920 - 00:13:54,040] Go to the link down in the description
+- [00:13:54,040 - 00:13:56,160] of this video to join the School of Mentors,
+- [00:13:56,260 - 00:13:58,070] to get mentored directly from the millionaires
+- [00:13:58,070 - 00:13:59,880] and the billionaires I interview every single week.
+- [00:14:00,000 - 00:14:02,289] TJ, where can everybody find you guys?
+- [00:14:02,289 - 00:14:04,579] TJ Millionaire Mentor on Instagram, on YouTube.
+- [00:14:04,839 - 00:14:05,999] And everybody go tap in with
+- [00:14:05,999 - 00:14:07,160] TJ right now, like and subscribe,
+- [00:14:07,420 - 00:14:09,500] and we'll see everybody in here on the next video.
