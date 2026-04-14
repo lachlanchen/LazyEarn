@@ -1,0 +1,217 @@
+\chapter{Exchanges, Brokers, Dealers, Clearinghouses}
+
+Exchanges are easy to treat as mere financial plumbing, but that would miss the point of this lecture. We begin at a wider scale. Exchange is not just one topic within economics; it is one of the basic forms through which economic life is organized. From that broad opening we move steadily inward: first to the distinction between brokers and dealers, then to the historical evolution of stock exchanges, then to the mathematics of the limit-order book, and finally to the dealer's own ruin problem. The order matters. By the time we reach bid--ask spreads and probability calculations, we are no longer talking about isolated formulas but about the structure of modern exchange itself.
+
+\section{Exchange as the core of economics}
+
+Shiller begins by insisting that exchange deserves a full lecture because it is central to economics. He recalls Kenneth Boulding, his former teacher, and uses Boulding's formulation as a deliberately provocative compression of the field. The blackboard in the lecture reduces the claim to a stark identity.
+
+\begin{figure}[h]
+\centering
+\includegraphics[width=0.72\textwidth]{lecture_21_figure_02.png}
+\caption{Kenneth Boulding and the claim that exchange is economics. The year is partly occluded in the image but matches the lecture's reference to Boulding's 1969 presidential address.}
+\end{figure}
+
+In cleaned form, the equation on the board is best written as
+\begin{equation}
+\text{Exchange} = \text{Economics}.
+\end{equation}
+The image itself supports only a partially visible ``\text{Econ},'' so the fully written right-hand side should be read as a cautious completion of the lecture's verbal statement.
+
+The point is not that economics literally consists of nothing but trade, but that prices and quantities, the most visible parameters of economics, are already parameters of exchange. That is why Shiller opens here rather than with market microstructure vocabulary. Before we discuss broker commissions, dealer markups, or execution rules, we are meant to see exchange as one of the central inventions of civilization.
+
+This is why Karl Polanyi enters so early in the lecture. The contrast is between gift relations, reciprocal obligation, and social embedding on the one hand, and arm's-length exchange on the other. At arm's length, price and quantity do the work. The transaction is summarized by its terms. That broad civilizational claim is not a digression. It prepares us to treat stock exchanges as one especially refined institutional form of a much larger human development.
+
+\section{Brokers, dealers, and the first market puzzle}
+
+We now narrow from exchange in general to financial exchange, and the first operational distinction is between a broker and a dealer.
+
+\begin{definition}
+A \emph{broker} acts as an agent on behalf of someone else and earns a commission. A \emph{dealer} acts as a principal, trades for his or her own account, and earns income through a markup or spread.
+\end{definition}
+
+In compact notation we may summarize the distinction as
+\begin{equation}
+\text{Broker income} = \text{commission},
+\qquad
+\pi_{\text{dealer}} = P_{\text{sell}} - P_{\text{buy}}.
+\end{equation}
+
+Shiller immediately tests the distinction with examples. Real estate is the natural broker market. The broker does not buy the house; the broker finds the counterparty and is paid a fee, perhaps on the order of six percent of the sale value if successful. Antiquities, by contrast, are naturally dealer markets. The antique dealer acquires inventory, owns it, and resells it at a higher price.
+
+\subsection{Question \& Answer}
+
+\paragraph{Question.} Why are some markets naturally broker markets while others are naturally dealer markets?
+
+\paragraph{Answer.} The lecture does not present a theorem, but it does present a structured answer. Taxes matter: dealer profits may be taxed as ordinary income rather than as capital gains. Information also matters. Housing is heterogeneous and difficult to price; a real-estate dealer who buys homes to resell bears considerable valuation risk. In that sense, the market may be too subjective and too capital-intensive to invite many dealers. Antiquities are also heterogeneous, but the market already expects principal trading and markup pricing there. The broader lesson is not that one clean variable sorts all markets. It is that institutional form reflects the interaction of information, risk, tax treatment, capital commitment, and trading custom.
+
+This puzzle leads naturally to the next step. What kind of market is a stock exchange? Shiller's answer is that stock markets are both broker and dealer markets, and this is one reason their institutional history matters.
+
+\section{Stock exchanges in history and institutional form}
+
+The New York Stock Exchange is described as a broker market, or auction market, more precisely a continuous double auction market in which brokers facilitate trade. NASDAQ is described, in contrast, as a dealer market. The difference matters because the user pays commissions in the former setting and effectively pays a markup or spread in the latter.
+
+The lecture then moves through a compressed history. Ancient Rome appears first, not because it gives us modern order-book mathematics, but because it reminds us that organized exchange in shares is not wholly modern. Traders met in the Roman Forum; the shares were called \emph{partes}; the corporations were \emph{publicani}. After that comes Amsterdam and the Dutch East India Company, then Jonathan's Coffee House in London, then the buttonwood agreement in New York, then the banyan-tree origins of Bombay, and later the exchanges of China and Latin America.
+
+The historical point is selective rather than antiquarian. These institutions begin as physical meeting places. Traders gather, observe, speak, and negotiate. Even when technology advances, the old form persists for a surprisingly long time. Shiller emphasizes that the New York Stock Exchange still retained a trading floor and stock-specific posts where brokers met physically, even as much of the rest of the world moved toward fully electronic trading.
+
+This prepares the real contrast of the chapter: old floor-based institutions versus electronic systems. Once we move to the electronic world, order types and visible books become central.
+
+\section{Orders, the limit-order book, and the meaning of no trade}
+
+Before we can understand a visible order book, we need the language of orders themselves.
+
+\begin{definition}
+A \emph{market order} specifies quantity but not price. A \emph{limit order} specifies both quantity and a price constraint. A \emph{stop order} specifies a trigger price that activates a trade once the market moves through that level.
+\end{definition}
+
+For later use it is helpful to write the execution conditions explicitly:
+\begin{align}
+\text{buy limit executes when } & P_{\text{ask}} \le \bar P_{\text{buy}}, \\
+\text{sell limit executes when } & P_{\text{bid}} \ge \bar P_{\text{sell}}.
+\end{align}
+These are standard mathematical restatements of the lecture's verbal definitions. A market order, by contrast, is willing to trade immediately at the best available price.
+
+The stop-loss example in the lecture is concrete. If the stock currently trades at
+\begin{equation}
+P_0 = 100
+\end{equation}
+and the investor places a stop-loss order at
+\begin{equation}
+P_{\text{stop}} = 80,
+\end{equation}
+then the intended cap on loss is approximately
+\begin{equation}
+\frac{100-80}{100}=0.20.
+\end{equation}
+The corresponding trigger conditions are
+\begin{align}
+\text{sell stop triggers when } & P \le P_{\text{stop}}, \\
+\text{buy stop triggers when } & P \ge P_{\text{stop}}.
+\end{align}
+The buy stop is the natural symmetric device for a short seller who worries about an adverse upward move.
+
+Shiller then turns from order types to the NASDAQ Level 2 screen. This is the point where the lecture becomes mathematically concrete. The book shows visible quantities, bids, asks, and market-participant identifiers. Orders are sorted by price; at a common price they are sorted by time.
+
+\begin{remark}
+Price--time priority means that better prices execute before worse prices, and among equal prices, earlier orders execute before later orders.
+\end{remark}
+
+The lecture's specific numerical example gives
+\begin{equation}
+P_{\text{ask}}^{*}=25.24,
+\qquad
+P_{\text{bid}}^{*}=25.23,
+\end{equation}
+so the inside spread is
+\begin{equation}
+s = P_{\text{ask}}^{*}-P_{\text{bid}}^{*}=0.01.
+\end{equation}
+Here the starred prices denote the best visible ask and best visible bid.
+
+Now we reach the key logical point. When the best ask exceeds the best bid, there is no immediate trade:
+\begin{equation}
+P_{\text{ask}}^{*} > P_{\text{bid}}^{*}
+\quad \Longrightarrow \quad
+\text{no trade}.
+\end{equation}
+Immediate execution occurs only when the book crosses:
+\begin{equation}
+P_{\text{ask}}^{*} \le P_{\text{bid}}^{*}.
+\end{equation}
+
+\subsection{Question \& Answer}
+
+\paragraph{Question.} Why can a visible order book look like supply and demand curves that do not cross?
+
+\paragraph{Answer.} Because displayed crossings do not remain displayed for long. Suppose a book were to show a standing ask below a standing bid. Then some participant could immediately execute against that mismatch, and the crossing entries would disappear from the screen. So the visible book typically represents unfilled orders only, and unfilled orders naturally appear in a no-trade configuration. This is why Level 2 can be interpreted as a momentary supply-and-demand picture without showing the market-clearing point in the ordinary textbook sense.
+
+Shiller also emphasizes the informational difference between Level 1 and Level 2. Level 1 gives only the inside quote. Level 2 gives depth. That additional depth matters because it reveals where large buyers or sellers are queued. In his example, the book suggests that a substantial buyer sits at a slightly lower price, making it harder for the price to fall through that level immediately.
+
+\section{Electronic trading, high frequency, and the return of geography}
+
+Once the order book is visible, the next issue is speed. The lecture now turns from static book structure to dynamic execution. On a floor market, trade proceeds at human pace: phone calls, floor representatives, physical movement to the post, verbal negotiation, and then execution. On a fully electronic market, matching can occur essentially instantly, and once instant execution is possible, algorithmic strategies follow.
+
+That is the setting for high-frequency trading. Flash orders, millisecond strategies, and automated reaction become possible because the order book updates faster than unaided human response. The lecture does not claim that the substance of exchange has changed beyond recognition. Rather, it insists that the timescale of exchange has changed so much that new strategic phenomena become central.
+
+A useful mathematical summary of the lecture's latency point is
+\begin{equation}
+t \ge \frac{d}{c},
+\end{equation}
+where \(t\) is transmission delay, \(d\) is physical distance, and \(c\) is signal speed. This is not blackboard notation from the lecture, but it is the clean standard reconstruction of the speed-of-light constraint Shiller invokes.
+
+\subsection{Question \& Answer}
+
+\paragraph{Question.} Why does faster electronic trading make physical proximity matter again?
+
+\paragraph{Answer.} Telephone trading once reduced the need to live physically near an exchange. But when profitable opportunities exist only for milliseconds or microseconds, latency itself becomes an economic variable. A trader located farther from the exchange computer suffers a transmission delay that cannot be eliminated. Hence electronic trading, paradoxically, restores a premium on geographical closeness: not to a crowd on a floor, but to a machine in a data center.
+
+This same technological shift explains the rise of ECNs such as Archipelago and Island, the growing importance of public order-book visibility, and the decline of purely floor-based institutions. The lecture's narrative here is not simply about improved technology; it is about a transformed competitive environment.
+
+\section{Fragmented markets, regulation, and crash dynamics}
+
+Once trading becomes electronic and fragmented across venues, a new question arises: how does a broker ensure that the client receives the best available execution? This is where Shiller brings in payment for order flow, best execution obligations, the National Market System, the Intermarket Trading System, and the Consolidated Quotation System.
+
+The underlying conflict is straightforward. A broker may have discretion over where to route an order. That discretion creates the possibility of routing based on the broker's own incentives rather than the client's best price. Payment for order flow is the clearest example. A dealer may pay for retail orders, which can benefit the broker without necessarily benefiting the client.
+
+The National Market System is therefore an attempt to impose a discipline: brokers are supposed to route to the best displayed prices. But the lecture is careful not to overstate the completeness of that protection. Large orders may not be fillable at one price. Best execution in a fragmented market is a rule of obligation, not a perfect mechanical guarantee.
+
+The same technological environment also creates instability. Shiller discusses the 1987 crash and the Brady Commission's conclusion that program trading contributed to the collapse. In response came circuit breakers: automatic trading halts intended to slow markets under extreme stress.
+
+He then turns to May 6, 2010. The striking point is not merely that prices fell sharply, but that they did so briefly and then rebounded. The episode is described as a glitch in an already stressed market in which computers kept trading while humans withdrew. Liquidity vanished. Volume became extraordinary. The event did not prove that electronic trading is inherently illegitimate, but it did show that a market can behave in startling ways when matching rules, automation, and stress interact at great speed.
+
+\section{Dealer spreads, adverse selection, and gamblers' ruin}
+
+The chapter now contracts from system-level regulation back to the dealer's own predicament. A dealer posts a bid and an ask into a visible market and thereby exposes himself to others who may be better informed. This is the lecture's most important microeconomic risk mechanism.
+
+Let us write the spread as
+\begin{equation}
+s=P_{\text{ask}}-P_{\text{bid}}.
+\end{equation}
+A narrow spread attracts business, but it also leaves the dealer vulnerable to being picked off by informed traders. A wide spread offers protection, but may drive customers elsewhere. In Shiller's qualitative formulation,
+\begin{equation}
+p = p(s),
+\end{equation}
+where \(p\) is the probability that the dealer wins on a small trade and \(p\) rises as the spread widens. No explicit functional form is given in the lecture; the point is causal rather than fully modeled.
+
+The antique-dealer analogy is doing real conceptual work here. A professional dealer shopping in another dealer's store searches for mispriced objects. If the posted price is too favorable, the better-informed trader takes the good item and leaves the inferior inventory behind. On a stock screen, news and asymmetric information play the same role. A dealer who leaves quotes on the screen is a sitting duck unless the spread is large enough to absorb informed trading losses.
+
+\subsection{Question \& Answer}
+
+\paragraph{Question.} Why must a dealer's edge on each trade stay above one half?
+
+\paragraph{Answer.} Because otherwise eventual ruin is certain in the lecture's simplified repeated-bet model. The dealer is not choosing a spread to win every trade. That is impossible. The dealer is choosing a spread so that the probability of a favorable outcome on each small trade stays sufficiently above one half that ruin becomes tolerably unlikely rather than inevitable.
+
+This is where Shiller closes with gamblers' ruin. Let \(S\) denote initial dealer capital, measured in dollars, and let \(p\) denote the probability of winning one dollar on a trade, with loss of one dollar occurring with probability \(1-p\). Ruin means eventually reaching zero.
+
+\paragraph{Worked derivation.}
+We can set out the lecture's logic in the simplest discrete form.
+\begin{enumerate}
+\item Start with wealth \(S\).
+\item After each trade, wealth moves to \(S+1\) with probability \(p\) and to \(S-1\) with probability \(1-p\).
+\item If \(p\le \tfrac12\), the walk has no positive drift strong enough to protect the dealer, and eventual ruin occurs with probability one.
+\item If \(p>\tfrac12\), the standard reconstruction of the lecture's formula is
+\begin{equation}
+R(S,p)=\left(\frac{1-p}{p}\right)^S,
+\qquad p>\frac12,
+\end{equation}
+where \(R(S,p)\) is the probability of eventual ruin.
+\item The boundary case is
+\begin{equation}
+R(S,p)=1,
+\qquad p\le \frac12.
+\end{equation}
+\item For the numerical example used in the lecture, if \(p=0.6\) and \(S=1\), then
+\begin{equation}
+R(1,0.6)=\frac{0.4}{0.6}=\frac23.
+\end{equation}
+\item Thus even with an edge, ruin probability is not zero; it merely falls as capital or per-trade edge rises.
+\end{enumerate}
+
+The transcript's spoken arithmetic at this point is garbled, but the intended lesson is clear. A dealer must push the probability of winning on each small trade above one half, yet even then the danger is only reduced, not eliminated. The spread therefore solves two problems at once and never solves either perfectly. It must be wide enough to resist informed traders and narrow enough to retain customers.
+
+\section{Summary}
+
+The lecture begins with the claim that exchange is central to economics and ends with the claim that a dealer lives under the permanent threat of ruin. Those two claims are farther apart in scale than in substance. Between them lies the whole architecture of modern market exchange: brokers and dealers, auction markets and dealer markets, floor trading and electronic trading, order types, visible books, fragmented venues, best-execution rules, circuit breakers, and high-frequency strategies.
+
+What ties the chapter together is the movement from exchange as a civilizational form to exchange as a probabilistic competitive game. Once prices and quantities summarize transactions, institutions must arise to organize those transactions. Once those institutions become visible and electronic, speed and information become strategic weapons. And once a dealer posts prices into such a system, mathematics enters naturally: not as decoration, but as a way of stating the risk of living by the spread.
