@@ -1,0 +1,336 @@
+\chapter{Guest Speaker Maurice ``Hank'' Greenberg}
+
+Robert J. Shiller introduces Maurice ``Hank'' Greenberg in exactly the right way: not as a celebrity interlude, but as evidence that finance is larger than formal pricing formulas. It is also about underwriting, incentives, organizational design, political access, and the governance of risk. These notes, curated for the Lazyearn track by LazyingArt LLC, follow that cue. We do not have a blackboard derivation lecture here. We have something more institutional and, in its own way, just as analytical: a narrated account of how a financial organization is built, how it scales, and how a change in contractual structure can turn a large balance sheet into a liquidity trap.
+
+\section{Opening Frame: Finance Beyond Formulas}
+
+Shiller's opening tells us how to read the lecture. We are interested in finance, but not only in finance as a collection of models. We are also interested in how a firm is financed, how people are chosen and disciplined, how risk is judged, and how character enters decision-making. Greenberg's story therefore begins with military service, education, and contingency, but it does not remain mere biography. It is setting up a style of reasoning.
+
+Greenberg enlists before finishing high school, serves in Europe in World War II, returns to school, goes on to law school, serves again in Korea, and comes back with a degree, a family, and the need for a job. That background matters in the lecture because it explains the cast of mind from which he later speaks. He is not introducing himself as a theorist who discovered insurance from inside a model. He is introducing himself as someone trained by responsibility and pressure, and then forced to learn a business from the ground up.
+
+The first real hinge comes only when he stumbles into insurance. Up to that point the lecture is telling us who is speaking. Then it tells us what the business is.
+
+\section{From Soldier to Underwriter: Learning to Price Risk}
+
+Greenberg returns from Korea, decides almost immediately that he does not want to practice law, walks into an insurance company, and begins as a junior underwriter. At that moment the lecture stops moving by anecdote and starts moving by mechanism. Greenberg asks his own question: what is a junior underwriter?
+
+\begin{definition}
+A junior underwriter analyzes risks and decides whether the company wants to write those risks or not.
+\end{definition}
+
+If we want a cautious mathematical restatement of that task, we can write it this way. Let \(i\) denote a proposed risk, let \(\pi_i\) denote the underwriting profit from accepting it, and let \(\mathcal{I}\) denote the information available at the decision date. Then the underwriting decision is an accept-reject rule:
+\begin{equation}
+\text{write risk } i
+\quad \text{only if} \quad
+\mathbb{E}[\pi_i \mid \mathcal{I}] > 0.
+\end{equation}
+This equation is not spoken symbolically in the lecture, but it is a faithful reconstruction of Greenberg's verbal definition.
+
+The special-risk division in which he works makes the point concrete. These are not standardized risks arriving in neat homogeneous piles. They are sports risks, accidental-death coverage for executives, and other unusual exposures. The job is therefore not clerical. One has to inspect the structure of the risk, decide whether the premium is adequate, and decide whether the firm even wants such an exposure on its books.
+
+\subsection{Question \& Answer}
+
+What exactly does an underwriter do?
+
+Greenberg's answer is short and very precise: an underwriter studies a risk and decides whether the company should write it. In note form we may separate that into two acts. First comes analysis: what is the risk, how unusual is it, and what could it cost? Then comes selection: even if the risk can be priced, does it belong in this firm's portfolio? That is why underwriting is the lecture's first analytical core. From this point on, the rest of the lecture becomes a scaled-up version of the same problem.
+
+\section{Turning Around American Home and Building AIG}
+
+Greenberg next meets C.\ V.\ Starr and enters a larger institutional setting. Starr's organization has an international side, especially in Asia, and one troubled domestic insurer, American Home. Greenberg is sent to American Home, and he immediately asks the next natural question: what was wrong with it?
+
+The diagnosis is operational rather than mystical. American Home wrote business through agents, but its agency organization was poor, and therefore the quality of its business was poor. In compact form, the logic is
+\begin{equation}
+\text{weak agency organization}
+\Rightarrow
+\text{poor business quality}
+\Rightarrow
+\text{persistent losses}.
+\end{equation}
+The problem is not merely that the company is losing money. The deeper problem is that its distribution structure is selecting the wrong risks.
+
+Greenberg's remedy is correspondingly structural. He gets rid of the agents, shifts toward the brokerage business, and starts writing large commercial risks rather than the older, weaker book:
+\begin{equation}
+\text{brokerage model}
+\Rightarrow
+\text{larger commercial risks}
+\Rightarrow
+\text{need for reinsurance}.
+\end{equation}
+That last step is decisive. Once the firm begins to write large property, casualty, marine, and aviation risks, it needs reinsurance on scale and on credible terms. So Greenberg goes to London and gets backing from Lloyd's. The lecture treats this not as ornament, but as the next link in a sequence: underwriting skill leads to larger risks, larger risks lead to reinsurance dependence, and successful expansion quickly runs into a capital constraint.
+
+That capital constraint produces the next move. American Home grows rapidly, and Greenberg looks for other insurers with the same sort of fixable weakness. National Union is acquired and repaired in much the same way. New Hampshire follows. Then, in 1967, a holding company is placed over these firms and AIG is born. The order matters. AIG is not introduced as a brand in search of a theory. It is the organizational consequence of a problem-solving sequence:
+\begin{equation}
+\text{repair business model}
+\Rightarrow
+\text{improve underwriting}
+\Rightarrow
+\text{obtain reinsurance}
+\Rightarrow
+\text{solve capital bottleneck}
+\Rightarrow
+\text{create holding-company structure}.
+\end{equation}
+
+That is the lecture's first full institutional arc. We begin with the same judgment problem that defined the junior underwriter. We end with a firm architecture built around it.
+
+\section{Innovation, Diversification, and Opening Markets}
+
+Once AIG exists, Greenberg turns to the next question: how does such a firm grow without becoming more fragile? His answer has several parts, but in the lecture they belong together. Product innovation, diversification, expense discipline, and the opening of closed foreign markets are not separate stories. They are parts of one operating philosophy.
+
+The product side is concrete and important. AIG introduces directors-and-officers liability insurance, political-risk insurance, and kidnap-and-ransom insurance. These examples matter because Greenberg is showing us how insurance expands: one identifies a need created by business activity, then creates a contract that makes that need insurable. In this sense, innovation is not decoration at the margin. It is part of the firm's core growth engine.
+
+The next piece is diversification. Property-casualty insurance is volatile. Earthquakes, hurricanes, and changing economic environments do not strike evenly across time, product, or geography. Greenberg says directly that greater diversification brings greater stability. In careful mathematical form, if
+\begin{equation}
+X = \sum_{j=1}^{n} X_j,
+\end{equation}
+where each \(X_j\) is the profit or loss from a line of business or country exposure, then
+\begin{equation}
+\operatorname{Var}(X)
+=
+\sum_{j=1}^{n}\operatorname{Var}(X_j)
++
+2\sum_{j<k}\operatorname{Cov}(X_j,X_k).
+\end{equation}
+If the covariance terms are not all perfectly positive, then aggregation stabilizes outcomes:
+\begin{equation}
+\operatorname{Var}\!\left(\sum_{j=1}^{n} X_j\right)
+<
+\sum_{j=1}^{n}\operatorname{Var}(X_j).
+\end{equation}
+This variance formula is a standard reconstruction, not a lecture-board formula, but it says exactly what Greenberg means when he tells us that more diversification gives more stability.
+
+\subsection{Question \& Answer}
+
+Why does international diversification make an insurance company more stable?
+
+Because the insurer's bad outcomes do not all come from the same place at the same time. If earthquakes, hurricanes, political disruptions, and business cycles are distributed across countries and lines of business, then losses do not pile up in perfect synchrony. The mathematics is just the covariance expansion written above. The lecture's phrase is simpler and better: more diversification provides greater stability.
+
+Greenberg then gives one of the lecture's clearest numerical comparisons. Most insurance companies, he says, operate at an expense ratio of about \(30\%\), whereas AIG ran at about \(19\%\):
+\begin{equation}
+\text{industry expense ratio} \approx 30\%,
+\qquad
+\text{AIG expense ratio} \approx 19\%.
+\end{equation}
+He immediately answers the question he has raised himself: how did they do that? By being efficient and by using reinsurance properly. The lecture is careful here. The number matters, but the mechanism is organizational, not mysterious.
+
+The growth story then moves outward into world politics. AIG ultimately operates in 130 countries. But markets do not open themselves. Japan is described as a closed market, and China becomes the long strategic example. Greenberg says it takes from 1975, his first visit to China, to 1992, to obtain the first life-insurance license granted to a foreign company:
+\begin{equation}
+1975 \longrightarrow 1992.
+\end{equation}
+He also emphasizes the ownership asymmetry:
+\begin{equation}
+\text{usual foreign ownership ceiling} = 49\%,
+\qquad
+\text{AIG ownership} = 100\%.
+\end{equation}
+
+This part of the lecture is easy to flatten, but it should not be flattened. Greenberg is not merely saying that AIG expanded abroad. He is saying that diversification, product design, trade diplomacy, and foreign-policy engagement were all parts of one business model. Financial services were not initially part of major trade negotiations; he says AIG worked to bring them into the negotiating framework. He also insists that there was a line the firm would not cross: bribery. That matters analytically because it shows us that discipline, reputation, and market access are linked. In the lecture, international expansion is never just geography. It is structure.
+
+\section{Organization, Incentives, and the Internal Logic of AIG}
+
+At this point Greenberg turns inward and, in effect, asks the lecture's next question: what kind of structure makes a company like this possible? He has already hinted at the answer when he says that senior management at AIG was like a band of brothers. Now he spells out the underlying machinery.
+
+The first element is mobility. AIG's overseas cadre includes what Greenberg calls the MOP system, ``Mobile Overseas.'' A manager may be in Nigeria now and in Singapore six months later. The point is not just willingness to travel. The point is that an international insurer cannot be run as a collection of immobile local outposts. It needs people who understand that the firm is one organization moving across many jurisdictions. Greenberg even says the MOP group was like AIG's own State Department.
+
+The second element is compensation. Here the lecture becomes especially precise. He says that at its peak AIG was the largest and most profitable insurance company in history, and he asks how such an organization can remain coherent. His answer begins with compensation rules:
+\begin{equation}
+g \approx 15\% \text{ per year},
+\qquad
+\text{salary} \le 1\text{ million dollars}.
+\end{equation}
+The salary cap is important because it keeps fixed compensation from becoming the whole story. Performance matters more than salary. Growth targets matter. And the real retention device lies elsewhere.
+
+Greenberg then gives the ownership arc. The private Starr entities initially own all of AIG, but rapid growth requires capital and therefore dilution:
+\begin{equation}
+\text{initial private ownership of AIG} = 100\%,
+\qquad
+\text{later control} \approx 15\%.
+\end{equation}
+At the same time, the enterprise becomes enormously larger:
+\begin{equation}
+\text{market capitalization: } 300\text{ million dollars} \to 200\text{ billion dollars}.
+\end{equation}
+This is one of the lecture's cleanest finance lessons. Control falls in percentage terms, but the object controlled becomes vastly larger. Dilution is not the negation of growth; it is one of growth's financing conditions.
+
+The most effective incentive device in the lecture is the deferred stock allocation. Greenberg says that if performance targets are hit over a two-year period, AIG shares are set aside for retirement:
+\begin{equation}
+\text{performance targets hit over a two-year window}
+\Rightarrow
+\text{AIG shares reserved for retirement}.
+\end{equation}
+If an employee leaves, those shares are left behind. This is the lecture's version of golden handcuffs. The mechanism is worth stating in slow order:
+\begin{enumerate}
+\item Growth and performance goals are set.
+\item Shares are allocated to selected individuals if those goals are met.
+\item The shares are deferred until retirement.
+\item Early departure means forfeiture.
+\end{enumerate}
+The result is retention without contractual lock-in.
+
+\subsection{Question \& Answer}
+
+If top managers had no long-term contracts, what kept them aligned with the firm?
+
+Greenberg answers this directly in the student questions. He refused a contract for himself because, as he puts it, if he were not doing the job, the company should not be forced to keep him. The anti-contract principle therefore has one side of discipline: poor performance should be removable. But it also has one side of attraction: strong performance is rewarded by bonuses, status, and deferred stock. In the lecture, alignment comes from culture and incentives, not from legal tenure. One stays because one wants to build, and because leaving means giving up a great deal.
+
+That is why the lecture keeps returning to culture. Greenberg says later, in one of the final questions, that culture starts at the top, and that the CEO is the top risk manager in the firm. We should hear that already here. The compensation structure is not an isolated payroll policy. It is part of a theory of organizational control.
+
+\section{AIG Financial Products, Risk Monitoring, and the Crisis Mechanism}
+
+Now the lecture breaks. Greenberg has spent a long time describing a successful organization, and then he asks, almost abruptly: so what happened? That hard turn should remain hard on the page.
+
+The first part of the answer, in Greenberg's telling, is not yet about CDOs or CDS. It is about organizational weakening. He says he was forced out in 2005, in what he presents as the result of Elliot Spitzer's politicized regulatory campaign. That claim belongs to Greenberg's account, and it should be read that way. But within the narrative it has a clear function: it explains how a firm that had been built around close monitoring and internal discipline came to lose that discipline.
+
+Greenberg says his succession plan had been gradual and internal. The successor team was supposed to come from within because the firm had a culture built over many years and a company of 92,000 employees could not be handed over lightly. He then gives a very specific operational detail. Senior management met every Monday morning to receive real-time reports across the organization, and there was a second weekly meeting devoted to hedging and risk management. Those meetings, he says, were later discontinued.
+
+That is the bridge to AIG Financial Products. Before the crisis, AIG had already expanded further into life insurance, consumer finance, thrift operations, and related financial services, supported by a huge asset base:
+\begin{equation}
+\text{assets to invest} \approx 1\text{ trillion dollars}.
+\end{equation}
+AIG Financial Products, in Greenberg's telling, began as a successful derivatives business. It was hedged. It was monitored. The firm even maintained mirrored computer systems off-site so that transactions could be tracked independently. He summarizes the control principle in a phrase worth preserving:
+\begin{equation}
+\text{enterprise risk management}
+=
+\text{monitoring of market risk and credit risk across the firm}.
+\end{equation}
+
+Only after that setup does the lecture turn to the main mechanism. The transcript is garbled in part of this section, so we have to proceed carefully, but the core sequence is clear. AIG Financial Products became exposed to instruments that Greenberg describes as CDOs largely built out of real-estate-related assets. Originally, he says, a credit default swap responded only when the underlying instrument defaulted. Later that logic changed. The contract could now generate collateral demands simply because the instrument had lost market value.
+
+The cleanest schematic comparison is:
+\begin{align}
+\text{old rule:} \quad & \mathbf{1}_{\{\text{default}\}} \Rightarrow \text{payment},\\
+\text{new rule:} \quad & \Delta P_{\mathrm{CDO}} < 0 \Rightarrow \text{collateral posting}.
+\end{align}
+That is the decisive contractual shift. Under the old regime, one waits for default. Under the new regime, one responds to a mark. In Greenberg's language, the instrument did not have to default. It only had to lose value, and then the protection seller had to put up collateral.
+
+This lets us state the crisis mechanism in the lecture's own order:
+\begin{enumerate}
+\item The value of the CDO falls.
+\item Counterparties demand additional collateral.
+\item A downgrade from AAA activates collateral clauses that had previously remained dormant.
+\item Cash needs rise by billions.
+\item The firm can fail on liquidity even if its regulated insurance subsidiaries remain solvent.
+\end{enumerate}
+In compact mathematical form,
+\begin{align}
+P_{\mathrm{CDO}} \downarrow
+&\Rightarrow C \uparrow \\
+&\Rightarrow \text{cash demand} \uparrow \\
+&\Rightarrow \text{liquidity stress.}
+\end{align}
+
+A small numerical example makes the lecture's point precise. Suppose a CDO is marked from par to \(60\):
+\begin{align}
+P_0 &= 100,\\
+P_1 &= 60,\\
+\Delta P_{\mathrm{CDO}} &= -40.
+\end{align}
+Under the original default-based logic, this by itself does not trigger payment if no default has occurred. Under the later collateral logic, the drop in value can trigger a collateral call of roughly the same order of magnitude even though the loss has not yet been realized through default. This is not a literal contract term from the lecture; it is a compact reconstruction of the mechanism Greenberg describes.
+
+The next problem is price discovery. Greenberg says there was no exchange on which CDOs traded, so there was no common market price:
+\begin{equation}
+P_{\mathrm{CDO}}^{(1)} \neq P_{\mathrm{CDO}}^{(2)} \neq \cdots \neq P_{\mathrm{CDO}}^{(m)}.
+\end{equation}
+Different broker-dealers quoted different values. Then the very collateral number that was supposed to measure risk became contestable. In Greenberg's account, Goldman Sachs marked the relevant CDOs at the lowest values, which drove especially severe collateral demands.
+
+The AAA issue then enters in a sharp and simple form:
+\begin{equation}
+\text{AAA rating} \Rightarrow \text{no collateral posting},
+\qquad
+\text{below AAA} \Rightarrow \text{collateral posting}.
+\end{equation}
+Greenberg says AIG was triple-A while he was there, and that it lost that rating the day he left. Once the rating was gone, the collateral machinery came alive.
+
+\begin{definition}
+Liquidity is the ability to produce cash fast enough to meet immediate obligations such as collateral calls. Solvency is the ability of a firm, or of a regulated insurance subsidiary, to remain economically able to meet its obligations over time.
+\end{definition}
+
+\subsection{Question \& Answer}
+
+Why could AIG fail on collateral and cash even if its insurance subsidiaries were still solvent?
+
+Because the collateral mechanism moved on a faster clock than solvency. Greenberg stresses that the insurance companies were state-regulated, their capital was protected, and policyholders were protected. The parent company's problem was different. Once collateral calls rose into the billions, it needed cash immediately. A firm can therefore be solvent in its underlying insurance entities and still fail at the parent level because it cannot fund a liquidity shock.
+
+The rescue terms are stated numerically and should be preserved as stated:
+\begin{equation}
+85\text{ billion dollars at } 14.5\% \text{ interest},
+\qquad
+79.9\% \text{ equity taken by the Fed}.
+\end{equation}
+Greenberg later says that government ownership rose to about
+\begin{equation}
+\text{government ownership of AIG} \approx 92\%.
+\end{equation}
+He also contrasts AIG with Citigroup:
+\begin{equation}
+\text{Citigroup support: } \approx 30\% \text{ equity},
+\qquad
+\text{AIG support: } \approx 92\% \text{ equity}.
+\end{equation}
+
+Here the notes have to remain careful. Greenberg also says that many of the relevant CDO values were really around \(40\) to \(60\) cents on the dollar, but that counterparties were paid at \(100\) cents on the dollar. That is part of his account of the rescue and its unfairness, and it should remain attributed as such. The analytical point is that once price discovery fails, valuation and settlement become political as well as financial.
+
+\section{From AIG to the Wider Crisis: Diagnosis and Policy Lessons}
+
+Having explained the local mechanism, Greenberg widens the frame. He now asks why the country got into this trouble at all. The lecture changes level here. We move from one firm's breakdown to a causal chain for the crisis as a whole.
+
+The chain begins with housing policy. Home ownership is widened without sufficient distinction between those who can afford mortgages and those who cannot. Historically, local banks knew borrowers and held the mortgages. Under the later system, Fannie Mae and Freddie Mac bought mortgages from local banks, which then serviced the loans without retaining the same economic stake. That weakens local discipline at origination.
+
+The next step is leverage. Greenberg says investment banks moved from leverage ratios on the order of five to seven times capital to much more extreme numbers:
+\begin{equation}
+L = \frac{A}{E},
+\qquad
+\text{investment-bank leverage} \approx 30\times \text{ to } 50\times \text{ capital},
+\qquad
+\text{older benchmark} \approx 5\times \text{ to } 7\times.
+\end{equation}
+The lecture treats this as an obvious increase in fragility.
+
+Then comes securitization. Mortgages from different regions are pooled and sold as if geographic spread were enough to make them safe. The rhetoric of diversification reappears here, but now in a distorted form. In the insurance discussion, diversification stabilized a sound underwriting book. In the structured-finance discussion, diversification is used as a sales pitch to justify inflated AAA ratings on bad underlying assets.
+
+The sequence Greenberg gives can be written schematically as
+\begin{align}
+\text{weak mortgage discipline}
+&\Rightarrow \text{mortgage sale into secondary market} \\
+&\Rightarrow \text{CDO packaging} \\
+&\Rightarrow \text{inflated AAA ratings} \\
+&\Rightarrow \text{CDS exposure} \\
+&\Rightarrow \text{collateral stress} \\
+&\Rightarrow \text{system-wide breakdown.}
+\end{align}
+
+He then adds mark-to-market accounting as an amplifier:
+\begin{equation}
+V_t^{\text{book/held-to-maturity}}
+\longrightarrow
+V_t^{\text{market}}.
+\end{equation}
+The lecture's claim is not that mark-to-market accounting invented bad assets. It is that, introduced at exactly the wrong moment, it forced severe writedowns and destroyed capital in ways Greenberg sees as artificial. Again, that is his diagnosis, but it fits the overall structure of his argument: several individually dangerous elements came together at once.
+
+At the end of the lecture the student questions sharpen these claims rather than digressing from them. On government intervention, Greenberg says the least amount necessary, and only rarely for truly systemic institutions. On boards, he says boards failed when they did not grasp what was happening after his departure. On banks, he distinguishes commercial from investment banks, supports restrictions like the Volcker Rule on putting the whole institution at risk, and says an investment bank should not be allowed to sell a client a product and then take a position against it. On entrepreneurship, he says insurance remains full of opportunity because new products and new economic environments constantly generate new insurable needs. On China, he says the insurance industry there has grown rapidly but still has much to learn about risk, and he uses the shift from salaried sellers to commission-based agents as an example of institutional modernization.
+
+\subsection{Question \& Answer}
+
+What regulation does Greenberg think would have prevented the collateral spiral?
+
+His answer is explicit. First, return the CDS contract to a default-based trigger:
+\begin{equation}
+\text{CDS should respond only to default, not merely to a temporary fall in market value.}
+\end{equation}
+Second, create exchange trading so that there is genuine price discovery:
+\begin{equation}
+\text{exchange trading}
+\Rightarrow
+\text{price discovery}
+\Rightarrow
+\text{more disciplined collateral and regulation.}
+\end{equation}
+Third, if the instrument functions as insurance, regulate it as insurance and require reserves. The logic is that price discovery, reserve requirements, and a default trigger all work in the same direction: they break the link between temporary marks and system-wide liquidity panic.
+
+The last Q\&A of the lecture returns, fittingly, to the point that has been latent all along. Greenberg says the culture starts at the top, and so does risk management. The CEO is the top risk manager in the company. That closing remark is not an afterthought. It gathers the whole lecture into a single principle. Underwriting, incentives, governance, product design, and crisis response all come back to who defines the risk discipline of the institution.
+
+\section{Summary}
+
+Greenberg's lecture belongs in a finance course precisely because it moves beyond narrow formula manipulation without ever ceasing to be analytical. It begins with underwriting, where a firm studies a risk and decides whether to accept it. It scales that logic into reinsurance, acquisitions, diversification, and global market opening. It then turns inward to compensation, mobility, and culture as the internal technologies that let a large organization act coherently.
+
+The crisis section gives the chapter its sharpest mathematical content. Once credit protection is tied to changes in marked value rather than realized default, and once collateral has to be posted into a market without real price discovery, the distinction between solvency and liquidity becomes decisive. AIG, in Greenberg's account, did not first fail because its insurance subsidiaries were worthless. It failed because a contractual rule transformed falling marks into immediate cash demands. The lecture's broader lesson is therefore plain. Financial institutions do not break only because assets are bad. They also break because incentives, governance, valuation rules, and funding structures interact in the wrong order and at the wrong time.
