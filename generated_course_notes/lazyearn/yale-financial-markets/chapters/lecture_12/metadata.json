@@ -1,0 +1,24 @@
+{
+  "course_rel": "lazyearn/yale-financial-markets",
+  "transcript_rel": "lazyearn/yale-financial-markets/012 - 12. Misbehavior, Crises, Regulation and Self Regulation [W2BURItNYmI].md",
+  "video_rel": "lazyearn/yale-financial-markets/012 - 12. Misbehavior, Crises, Regulation and Self Regulation [W2BURItNYmI].mkv",
+  "lecture_number": 12,
+  "lecture_slug": "lecture_12",
+  "lecture_title": "12. Misbehavior, Crises, Regulation and Self Regulation",
+  "assets": [
+    {
+      "name": "lecture_12_figure_02.png",
+      "timestamp_seconds": 575.999,
+      "timestamp_hhmmss": "00:09:35.999",
+      "source_candidate": "lecture_12_window_02_candidate_03_000935999.png",
+      "recommended_use": "screenshot_only",
+      "rationale": "This frame gives the clearest overall view of the blackboard layout with the least distracting motion. The lecturer occludes only a small part of the center-left board, while both the left-side conceptual headings and the right-side numbered scope list remain legible enough to be useful for note writing. The later frame has slightly more motion and the earlier frames are a bit less settled.",
+      "subtitle_excerpt": "in geographical scope.",
+      "segment_start_seconds": 574.14,
+      "segment_start_hhmmss": "00:09:34.140",
+      "segment_end_seconds": 577.0,
+      "segment_end_hhmmss": "00:09:37.000",
+      "caption_hint": "Regulatory scope from firm to international level"
+    }
+  ]
+}
