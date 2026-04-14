@@ -1,0 +1,66 @@
+{
+  "course_rel": "lazyearn/yale-financial-markets",
+  "transcript_rel": "lazyearn/yale-financial-markets/017 - 17. Options Markets [VkUEWUxI6u0].md",
+  "video_rel": "lazyearn/yale-financial-markets/017 - 17. Options Markets [VkUEWUxI6u0].webm",
+  "lecture_number": 17,
+  "lecture_slug": "lecture_17",
+  "lecture_title": "17. Options Markets",
+  "assets": [
+    {
+      "name": "lecture_17_figure_02.png",
+      "timestamp_seconds": 1598.24,
+      "timestamp_hhmmss": "00:26:38.240",
+      "source_candidate": "lecture_17_window_02_candidate_01_002638240.png",
+      "recommended_use": "screenshot_plus_equation_and_tikz",
+      "rationale": "This frame gives the clearest and least occluded view of the chalkboard payoff diagram. The axes, the kink at the exercise price, the rising 45-degree segment, and the labels 'Call,' 'option price,' and 'stock price' are all more readable here than in the later candidates, where the lecturer's gesture and posture obscure slightly more of the left side.",
+      "subtitle_excerpt": "In fact, it just equals the",
+      "segment_start_seconds": 1598.0,
+      "segment_start_hhmmss": "00:26:38.000",
+      "segment_end_seconds": 1600.0,
+      "segment_end_hhmmss": "00:26:40.000",
+      "caption_hint": "Call option payoff sketch"
+    },
+    {
+      "name": "lecture_17_figure_03.png",
+      "timestamp_seconds": 1862.9,
+      "timestamp_hhmmss": "00:31:02.900",
+      "source_candidate": "lecture_17_window_03_candidate_03_003102900.png",
+      "recommended_use": "screenshot_plus_equation_and_tikz",
+      "rationale": "This frame gives the clearest overall view of the board at the parity transition. The chalk notation '+1 Call -1 put' is readable, the payoff geometry around the exercise-price kink is visible, and the lecturer occludes less of the central board than in the other candidates, which are more obstructed by his body or erasing motion.",
+      "subtitle_excerpt": "This leads us to the put-call parity equation.",
+      "segment_start_seconds": 1859.0,
+      "segment_start_hhmmss": "00:30:59.000",
+      "segment_end_seconds": 1865.0,
+      "segment_end_hhmmss": "00:31:05.000",
+      "caption_hint": "Put-call parity payoff setup"
+    },
+    {
+      "name": "lecture_17_figure_04.png",
+      "timestamp_seconds": 3252.52,
+      "timestamp_hhmmss": "00:54:12.520",
+      "source_candidate": "lecture_17_window_05_candidate_02_005412520.png",
+      "recommended_use": "screenshot_plus_equation",
+      "rationale": "This frame gives the clearest overall view of the chalkboard derivation with minimal occlusion of the key equations. The top no-arbitrage relation and the boxed expression for C are both readable, while the lecturer's pointing gesture does not materially block the algebra.",
+      "subtitle_excerpt": "even in this equation, because we had cu and cd,",
+      "segment_start_seconds": 3251.0,
+      "segment_start_hhmmss": "00:54:11.000",
+      "segment_end_seconds": 3255.0,
+      "segment_end_hhmmss": "00:54:15.000",
+      "caption_hint": "Binomial option-pricing step"
+    },
+    {
+      "name": "lecture_17_figure_05.png",
+      "timestamp_seconds": 3410.36,
+      "timestamp_hhmmss": "00:56:50.360",
+      "source_candidate": "lecture_17_window_06_candidate_01_005650360.png",
+      "recommended_use": "screenshot_plus_equation",
+      "rationale": "This frame is the clearest and least occluded view of the full slide. The title, main Black-Scholes pricing formula, and both definitions of d_1 and d_2 are fully visible, while the lecturer remains out of the way at the lower right. Later candidates introduce a pointing arm and shadow that slightly interfere with readability.",
+      "subtitle_excerpt": "I can't actually solve this equation.",
+      "segment_start_seconds": 3410.0,
+      "segment_start_hhmmss": "00:56:50.000",
+      "segment_end_seconds": 3413.0,
+      "segment_end_hhmmss": "00:56:53.000",
+      "caption_hint": "Black-Scholes formula slide"
+    }
+  ]
+}
