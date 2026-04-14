@@ -1,0 +1,509 @@
+# Transcript
+
+Source: lazyearn/school-of-hard-knocks/hard-knocks-interviews/080 - Asking Millionaires How They Got RICH! (New York City) [PFvRtVvP-Bo].webm
+
+- [00:00:00,000 - 00:00:02,020] What industry did you decide to pursue a career in?
+- [00:00:02,160 - 00:00:02,620] Real estate.
+- [00:00:02,940 - 00:00:04,240] And how long have you been in the business for?
+- [00:00:04,480 - 00:00:06,320] Oh, 15 years.
+- [00:00:06,480 - 00:00:07,640] Over these 15 years, what has
+- [00:00:07,640 - 00:00:08,800] been the most amount of money
+- [00:00:08,800 - 00:00:09,920] that you've ever made in a single year?
+- [00:00:10,020 - 00:00:11,720] So this year, our business is gonna do
+- [00:00:11,720 - 00:00:12,620] north of $20 million.
+- [00:00:13,200 - 00:00:13,800] $22 million.
+- [00:00:14,280 - 00:00:15,540] Better yet, in one month.
+- [00:00:15,600 - 00:00:17,800] Most I've made in one month was, what, 80 grand?
+- [00:00:18,000 - 00:00:19,000] And Wall Street is a beast.
+- [00:00:19,240 - 00:00:21,100] It's a savage beast, this business, it's savage.
+- [00:00:21,320 - 00:00:22,380] Look to your left, look to your right.
+- [00:00:22,420 - 00:00:23,940] The guy that, they're all gonna be gone
+- [00:00:23,940 - 00:00:25,180] in a couple of months, they're all gonna be gone.
+- [00:00:25,300 - 00:00:26,020] How old are you now?
+- [00:00:26,160 - 00:00:27,520] I'm 48 and a half.
+- [00:00:27,640 - 00:00:28,260] I'm 33.
+- [00:00:28,760 - 00:00:30,420] How old were you when you became a millionaire?
+- [00:00:30,640 - 00:00:31,740] I would say in my 40s.
+- [00:00:31,800 - 00:00:32,840] Have you ever been broke before?
+- [00:00:33,100 - 00:00:33,460] Absolutely.
+- [00:00:33,740 - 00:00:34,300] Oh, absolutely.
+- [00:00:34,780 - 00:00:35,500] Many times.
+- [00:00:35,600 - 00:00:37,020] When I got into real estate,
+- [00:00:37,020 - 00:00:38,440] I had like less than $4,000.
+- [00:00:38,980 - 00:00:40,760] How can somebody become a millionaire in 2024?
+- [00:00:41,120 - 00:00:42,040] Let me say this real quick,
+- [00:00:42,100 - 00:00:43,880] because I know one 20-year-old's gonna get it.
+- [00:00:46,240 - 00:00:47,790] New York City is the number
+- [00:00:47,790 - 00:00:49,340] one city in the entire world
+- [00:00:49,340 - 00:00:50,420] with the most millionaires.
+- [00:00:50,580 - 00:00:51,860] And since we're in the Big Apple,
+- [00:00:52,040 - 00:00:53,180] I'm gonna be going all over,
+- [00:00:53,280 - 00:00:55,620] asking the most successful New York City entrepreneurs
+- [00:00:55,620 - 00:00:56,870] how they became wealthy and
+- [00:00:56,870 - 00:00:58,120] how you can start your path
+- [00:00:58,120 - 00:00:58,740] to becoming financial.
+- [00:00:58,760 - 00:00:59,760] And financially free in 2024.
+- [00:01:00,140 - 00:01:01,300] So with that being said, let's
+- [00:01:01,300 - 00:01:02,460] get this video on the way.
+- [00:01:13,259 - 00:01:14,660] What has been the most amount of money
+- [00:01:14,660 - 00:01:15,880] that you've ever made in a single year?
+- [00:01:15,960 - 00:01:17,160] Better yet, in one month.
+- [00:01:17,240 - 00:01:18,840] Most I've made in one month was what?
+- [00:01:18,920 - 00:01:19,420] 80 grand?
+- [00:01:19,680 - 00:01:20,259] 80 grand in one month.
+- [00:01:20,259 - 00:01:20,979] Yeah, one month.
+- [00:01:21,039 - 00:01:21,940] Yeah, that was my best month.
+- [00:01:22,039 - 00:01:23,000] And Wall Street is a beast.
+- [00:01:23,280 - 00:01:24,100] It's a savage beast.
+- [00:01:24,200 - 00:01:25,080] This business is savage.
+- [00:01:25,320 - 00:01:26,360] Look to your left, look to your right.
+- [00:01:26,420 - 00:01:27,470] The guy that they're all gonna
+- [00:01:27,470 - 00:01:28,520] be gone in a couple of months.
+- [00:01:28,520 - 00:01:28,620] They're all gonna be gone in a couple of months.
+- [00:01:28,620 - 00:01:28,740] They're all gonna be gone in a couple of months.
+- [00:01:28,740 - 00:01:29,199] They're all gonna be gone.
+- [00:01:29,300 - 00:01:30,160] What was the turning point
+- [00:01:30,160 - 00:01:31,020] in your life getting into finance?
+- [00:01:31,140 - 00:01:32,619] Did you always know you were gonna pursue this business?
+- [00:01:32,740 - 00:01:33,640] No, absolutely not.
+- [00:01:33,899 - 00:01:35,820] I was a personal trainer in a gym.
+- [00:01:36,039 - 00:01:37,740] Long story short, the guy who I was training,
+- [00:01:37,899 - 00:01:39,640] he thought I'd be good in this business.
+- [00:01:39,880 - 00:01:42,300] And that was over 17, 18 years ago.
+- [00:01:42,580 - 00:01:43,039] And here I am.
+- [00:01:43,080 - 00:01:44,000] Finance is very competitive.
+- [00:01:44,080 - 00:01:44,780] How did you stand out?
+- [00:01:45,080 - 00:01:45,360] Discipline.
+- [00:01:45,679 - 00:01:46,780] Most people can't say no to themselves.
+- [00:01:46,880 - 00:01:47,699] They gotta have that drink.
+- [00:01:47,800 - 00:01:48,679] They gotta have that party.
+- [00:01:48,780 - 00:01:49,619] They gotta have that girlfriend.
+- [00:01:49,720 - 00:01:50,560] They gotta have that sex.
+- [00:01:50,679 - 00:01:52,520] And all that right there attributes to poverty
+- [00:01:52,520 - 00:01:54,240] because it drains you of all your resources.
+- [00:01:54,240 - 00:01:55,979] Your number one resource is your energy.
+- [00:01:56,160 - 00:01:56,560] That's it.
+- [00:01:56,679 - 00:01:58,140] Number one resource is your energy.
+- [00:01:58,240 - 00:01:58,720] And it's a natural.
+- [00:01:58,740 - 00:01:59,259] It's a natural commodity.
+- [00:01:59,479 - 00:02:01,259] If you're prodigal with that and you're wasteful with that,
+- [00:02:01,339 - 00:02:02,679] then you can't accumulate anything.
+- [00:02:02,839 - 00:02:03,800] Have you ever been broke before?
+- [00:02:03,960 - 00:02:04,539] Oh, absolutely.
+- [00:02:05,100 - 00:02:05,800] Many times.
+- [00:02:05,899 - 00:02:07,399] How old were you when you became a millionaire?
+- [00:02:07,699 - 00:02:08,820] I would say in my 40s.
+- [00:02:08,919 - 00:02:09,699] When it comes to the
+- [00:02:09,699 - 00:02:10,479] way that people look at money,
+- [00:02:10,579 - 00:02:11,820] what would you say is the number one thing
+- [00:02:11,820 - 00:02:12,960] that separates the middle class
+- [00:02:12,960 - 00:02:14,120] from those who end up building that wealth?
+- [00:02:14,359 - 00:02:15,019] Spending habits.
+- [00:02:15,260 - 00:02:16,500] It's like people hate money, right?
+- [00:02:16,540 - 00:02:17,320] They gotta get rid of it.
+- [00:02:17,400 - 00:02:17,980] I gotta go buy.
+- [00:02:18,060 - 00:02:18,519] I gotta go buy.
+- [00:02:18,600 - 00:02:20,160] I gotta keep up with the Joneses.
+- [00:02:20,240 - 00:02:21,060] The money's a frequency
+- [00:02:21,060 - 00:02:22,359] and you have to get on the money frequency.
+- [00:02:22,500 - 00:02:24,200] Like radio stations, TV stations.
+- [00:02:24,300 - 00:02:26,180] Like if you wanna watch CNBC, right?
+- [00:02:26,180 - 00:02:27,720] You gotta tune to that channel.
+- [00:02:27,720 - 00:02:29,240] You can't go to ABC to
+- [00:02:29,240 - 00:02:30,760] pick up frequency from CNBC, right?
+- [00:02:30,820 - 00:02:31,860] So the content of that
+- [00:02:31,860 - 00:02:32,900] channel you have to tune to.
+- [00:02:33,240 - 00:02:34,660] Money is a station, no different.
+- [00:02:34,900 - 00:02:36,760] So you have to tune to the consciousness of money.
+- [00:02:36,880 - 00:02:38,140] When you tune to the consciousness of money,
+- [00:02:38,200 - 00:02:40,460] then you get fed all the information necessary
+- [00:02:40,460 - 00:02:41,300] for you to accumulate wealth.
+- [00:02:41,380 - 00:02:42,400] Then you become magnetized.
+- [00:02:42,480 - 00:02:43,200] You become a money magnet
+- [00:02:43,200 - 00:02:44,360] and you no longer have to chase it.
+- [00:02:44,440 - 00:02:45,700] See, we're taught to chase money.
+- [00:02:45,760 - 00:02:46,840] That's the worst thing you could teach somebody.
+- [00:02:46,960 - 00:02:47,660] You don't chase money.
+- [00:02:47,720 - 00:02:50,040] You become magnetized money-wise and money chases you.
+- [00:02:50,340 - 00:02:51,060] You never chase money.
+- [00:02:51,079 - 00:02:52,360] Just like women, you never chase anything.
+- [00:02:52,660 - 00:02:53,220] All right, guys.
+- [00:02:53,380 - 00:02:54,240] Thank you so much for your time.
+- [00:02:54,300 - 00:02:55,160] So I really appreciate that.
+- [00:02:55,260 - 00:02:55,700] Have a great day.
+- [00:02:55,700 - 00:02:56,940] So since we're in New York City,
+- [00:02:56,940 - 00:02:58,359] you know I had to go down to Wall Street
+- [00:02:58,359 - 00:02:59,579] to find a Wall Street beast.
+- [00:02:59,740 - 00:03:01,579] And that guy became a millionaire in his 40s.
+- [00:03:01,620 - 00:03:03,020] But what did he say was the number one thing
+- [00:03:03,020 - 00:03:04,400] that separated him apart in finance?
+- [00:03:04,520 - 00:03:05,380] It's his discipline.
+- [00:03:05,640 - 00:03:06,140] At the end of the day,
+- [00:03:06,160 - 00:03:07,140] if you can't take care of yourself,
+- [00:03:07,220 - 00:03:07,930] you're never gonna be able
+- [00:03:07,930 - 00:03:08,640] to take care of your finances.
+- [00:03:08,740 - 00:03:09,579] So that's a great interview.
+- [00:03:09,880 - 00:03:10,920] Let's go get this next one.
+- [00:03:11,160 - 00:03:13,180] What industry did you decide to pursue a career in?
+- [00:03:13,220 - 00:03:15,960] The acai bowl smoothie franchise industry.
+- [00:03:16,200 - 00:03:17,579] And how long have you been an entrepreneur for?
+- [00:03:17,740 - 00:03:18,340] My whole life.
+- [00:03:18,420 - 00:03:20,720] I started selling candy and goodies
+- [00:03:20,720 - 00:03:22,300] when I was seven years old in school.
+- [00:03:22,560 - 00:03:24,000] Started a power washing company when
+- [00:03:24,000 - 00:03:25,440] I was 14 with my buddy.
+- [00:03:25,560 - 00:03:26,660] So I've been doing it my whole life.
+- [00:03:26,660 - 00:03:26,920] What?
+- [00:03:26,940 - 00:03:27,960] What has been the most amount of money
+- [00:03:27,960 - 00:03:29,200] that you've ever made in a single year?
+- [00:03:29,320 - 00:03:29,960] So this year,
+- [00:03:30,040 - 00:03:31,880] our business is gonna do north of $20 million.
+- [00:03:32,380 - 00:03:32,920] $20 million?
+- [00:03:33,359 - 00:03:33,500] Yeah.
+- [00:03:33,620 - 00:03:35,320] What was the turning point like getting into this business?
+- [00:03:35,380 - 00:03:36,859] Did you always know that you were gonna pursue
+- [00:03:36,859 - 00:03:39,120] the food and beverage, you know, that type of business?
+- [00:03:39,160 - 00:03:40,440] Or like, how did you end up in this business?
+- [00:03:40,540 - 00:03:41,020] I'll be honest.
+- [00:03:41,140 - 00:03:43,620] I started off as a broker on Wall Street.
+- [00:03:43,800 - 00:03:44,939] I did not think I was
+- [00:03:44,939 - 00:03:46,079] gonna get into food and beverage,
+- [00:03:46,240 - 00:03:47,140] but I saw an opportunity.
+- [00:03:47,420 - 00:03:49,120] It was an opportunity at the time
+- [00:03:49,120 - 00:03:50,510] to jump into a market that there
+- [00:03:50,510 - 00:03:51,900] was a lot of white space in.
+- [00:03:52,000 - 00:03:53,680] So that's where I saw the opportunity
+- [00:03:53,680 - 00:03:55,200] and that's where I jumped in full force.
+- [00:03:55,280 - 00:03:55,380] Yeah.
+- [00:03:55,380 - 00:03:56,640] You worked on Wall Street for a while.
+- [00:03:56,640 - 00:03:57,739] What's the greatest lesson about money
+- [00:03:57,739 - 00:03:59,220] that you learned throughout your time on Wall Street?
+- [00:03:59,339 - 00:04:00,420] So I learned this myself.
+- [00:04:00,640 - 00:04:02,920] When it comes to business, you wanna think very long-term.
+- [00:04:03,140 - 00:04:05,220] When it comes to Wall Street investing in stocks,
+- [00:04:05,399 - 00:04:06,540] bonds, companies, crypto,
+- [00:04:06,720 - 00:04:08,440] you wanna think a little bit more short-term.
+- [00:04:08,640 - 00:04:10,540] When you set a goal for what you wanna see
+- [00:04:10,540 - 00:04:12,799] in terms of a return, pull it 30%.
+- [00:04:12,799 - 00:04:14,899] When you hit those goals, sell.
+- [00:04:15,079 - 00:04:16,620] You know, a lot of the younger kids today,
+- [00:04:16,680 - 00:04:17,560] they think to the moon
+- [00:04:17,560 - 00:04:18,639] that everything's gonna just keep
+- [00:04:18,639 - 00:04:19,719] going up and up and up.
+- [00:04:19,800 - 00:04:20,659] That's not the case.
+- [00:04:20,760 - 00:04:22,240] It's usually greater fool theory.
+- [00:04:22,419 - 00:04:24,219] So set a benchmark and get out.
+- [00:04:24,280 - 00:04:25,000] How old are you now?
+- [00:04:25,080 - 00:04:25,620] I'm 33.
+- [00:04:25,620 - 00:04:26,520] How old were you?
+- [00:04:26,520 - 00:04:27,380] When you became a millionaire?
+- [00:04:27,599 - 00:04:28,020] About 30.
+- [00:04:28,120 - 00:04:28,859] 30 years old.
+- [00:04:28,960 - 00:04:29,080] Yeah.
+- [00:04:29,159 - 00:04:30,200] Have you ever been broke before?
+- [00:04:30,400 - 00:04:30,760] Absolutely.
+- [00:04:31,120 - 00:04:32,820] So it came from a middle-class family,
+- [00:04:33,000 - 00:04:34,520] but when I was working on Wall Street,
+- [00:04:34,580 - 00:04:36,170] I was making two grand a
+- [00:04:36,170 - 00:04:37,760] month for over a year, two years,
+- [00:04:37,799 - 00:04:39,240] and I was just scraping by,
+- [00:04:39,380 - 00:04:40,740] decided to pull the ripcord
+- [00:04:40,740 - 00:04:42,599] and follow my passion in an industry
+- [00:04:42,599 - 00:04:43,689] that I felt a little
+- [00:04:43,689 - 00:04:44,780] bit more of a connection to,
+- [00:04:44,859 - 00:04:47,180] but was broke many times throughout the years.
+- [00:04:47,320 - 00:04:48,820] What was the number one book that changed your life?
+- [00:04:48,919 - 00:04:50,120] For anyone who owns a business,
+- [00:04:50,240 - 00:04:52,820] I would recommend Traction by Gino Wickman.
+- [00:04:53,140 - 00:04:53,799] Phenomenal book.
+- [00:04:53,799 - 00:04:55,180] What was the best financial decision
+- [00:04:55,180 - 00:04:56,219] that you made throughout your career?
+- [00:04:56,220 - 00:04:57,140] I bet on myself.
+- [00:04:57,320 - 00:04:57,500] Yeah?
+- [00:04:57,740 - 00:04:57,940] Yep.
+- [00:04:58,000 - 00:04:59,060] How important is it to take that risk
+- [00:04:59,060 - 00:04:59,880] and go all in for yourself?
+- [00:05:00,020 - 00:05:01,760] It's not the best choice for everybody.
+- [00:05:02,040 - 00:05:03,460] I think some people are,
+- [00:05:03,820 - 00:05:05,760] they need the structure of working for a company
+- [00:05:05,760 - 00:05:07,190] or working for someone that
+- [00:05:07,190 - 00:05:08,620] has the answers in that space.
+- [00:05:08,760 - 00:05:09,970] For me, I knew that I
+- [00:05:09,970 - 00:05:11,180] had to follow my own path.
+- [00:05:11,260 - 00:05:12,900] So I think the biggest piece of advice is
+- [00:05:12,900 - 00:05:14,880] be okay with who you are naturally.
+- [00:05:15,140 - 00:05:17,680] Don't force being an entrepreneur or any other route.
+- [00:05:17,900 - 00:05:20,480] If entrepreneur is here, then you have to follow it.
+- [00:05:20,560 - 00:05:21,460] Thank you so much for your time.
+- [00:05:21,540 - 00:05:22,920] Brother, thank you for having me.
+- [00:05:22,960 - 00:05:23,780] I really appreciate it.
+- [00:05:23,780 - 00:05:26,140] His business is going to do $20 million this fall.
+- [00:05:26,220 - 00:05:28,020] But what I found amazing about that interview
+- [00:05:28,020 - 00:05:29,580] wasn't just the advice that he gave,
+- [00:05:29,920 - 00:05:30,860] but the fact that he
+- [00:05:30,860 - 00:05:31,800] is in the food and beverage
+- [00:05:31,800 - 00:05:33,100] in the acai bowl industry.
+- [00:05:33,260 - 00:05:34,450] It just goes to show that
+- [00:05:34,450 - 00:05:35,640] even with the most unique idea,
+- [00:05:35,820 - 00:05:38,260] you can make millions and millions of dollars, man.
+- [00:05:38,340 - 00:05:39,130] You just got to put your
+- [00:05:39,130 - 00:05:39,920] mind to it and make it happen.
+- [00:05:40,060 - 00:05:40,480] Great interview.
+- [00:05:40,580 - 00:05:41,500] Let's go get this next one.
+- [00:05:41,800 - 00:05:43,780] What industry did you decide to pursue a career in?
+- [00:05:43,840 - 00:05:44,240] Real estate.
+- [00:05:44,560 - 00:05:45,880] And how long have you been in the business for?
+- [00:05:46,120 - 00:05:47,980] Oh, 15 years.
+- [00:05:48,100 - 00:05:48,960] Over these 15 years,
+- [00:05:49,120 - 00:05:50,440] what has been the most amount of money
+- [00:05:50,440 - 00:05:51,580] that you've ever made in a single year?
+- [00:05:51,680 - 00:05:52,460] In a single year?
+- [00:05:52,920 - 00:05:54,580] 2021, I made $22 million.
+- [00:05:55,320 - 00:05:55,940] $22 million.
+- [00:05:56,220 - 00:05:57,860] As an eight-figure entrepreneur,
+- [00:05:58,080 - 00:05:59,300] what's been the best financial advice
+- [00:05:59,300 - 00:06:00,820] that you've ever received throughout your career?
+- [00:06:01,000 - 00:06:03,040] Jay-Z said, scared money don't make money.
+- [00:06:03,300 - 00:06:04,680] And you have to invest for the long-term.
+- [00:06:05,060 - 00:06:07,980] You know, you have Warren Buffett talks about compounding,
+- [00:06:08,100 - 00:06:09,540] you know, and that's really, really important.
+- [00:06:09,680 - 00:06:10,880] So every dollar you put in,
+- [00:06:10,940 - 00:06:13,760] you're pulling out, you know, 10X, 20X, 100X,
+- [00:06:13,780 - 00:06:14,780] but it's not going to be tomorrow.
+- [00:06:14,980 - 00:06:16,120] It's going to be over that lifespan.
+- [00:06:16,300 - 00:06:17,700] I mean, 15 years is a long time.
+- [00:06:17,820 - 00:06:19,420] What was the turning point like getting into this industry?
+- [00:06:19,520 - 00:06:20,920] Did you always know you're going to pursue real estate
+- [00:06:20,920 - 00:06:21,760] or how did you end up here?
+- [00:06:21,900 - 00:06:23,170] No, I moved to New York
+- [00:06:23,170 - 00:06:24,440] City in 2006 to do theater
+- [00:06:24,440 - 00:06:26,200] and I totally ran out of all my money.
+- [00:06:26,560 - 00:06:28,860] And then it was become a bartender, become a waiter,
+- [00:06:29,200 - 00:06:31,160] become a temp, figure out, go back to school
+- [00:06:31,160 - 00:06:34,240] or get my real estate license and pay my bills.
+- [00:06:34,400 - 00:06:36,180] I had to make like $2,000 a month.
+- [00:06:36,260 - 00:06:37,500] If I could do 2000 bucks a month,
+- [00:06:37,520 - 00:06:38,370] I could stay in New York
+- [00:06:38,370 - 00:06:39,220] City and that's what I did.
+- [00:06:39,260 - 00:06:41,020] And I got started the day Lehman Brothers
+- [00:06:41,020 - 00:06:42,200] filed for bankruptcy.
+- [00:06:42,600 - 00:06:42,680] Right.
+- [00:06:42,860 - 00:06:44,080] What's the greatest lesson that you've learned
+- [00:06:44,080 - 00:06:44,820] about real estate?
+- [00:06:44,960 - 00:06:46,560] If there's one lesson that you pass on to someone
+- [00:06:46,560 - 00:06:47,580] about to start off in
+- [00:06:47,580 - 00:06:48,600] the real estate business in 2024,
+- [00:06:48,840 - 00:06:49,400] what would that be?
+- [00:06:50,060 - 00:06:51,960] Riches in niches, right?
+- [00:06:51,980 - 00:06:52,880] That's super important.
+- [00:06:53,160 - 00:06:54,270] Like you pick your niche
+- [00:06:54,270 - 00:06:55,380] and you just go for it.
+- [00:06:55,380 - 00:06:56,200] And then endurance.
+- [00:06:56,220 - 00:06:56,940] Endurance for the win.
+- [00:06:57,080 - 00:06:58,290] Because a lot of people
+- [00:06:58,290 - 00:06:59,500] will hop from kind of niche
+- [00:06:59,500 - 00:07:01,640] to niche to niche and then it doesn't work out
+- [00:07:01,640 - 00:07:03,440] and they see that it doesn't work out
+- [00:07:03,440 - 00:07:04,840] and they see that as a brick wall
+- [00:07:04,840 - 00:07:05,780] instead of what it really is,
+- [00:07:05,780 - 00:07:06,720] which is just a speed bump.
+- [00:07:06,920 - 00:07:07,700] What's been the most amount
+- [00:07:07,700 - 00:07:08,480] of money worth of real estate
+- [00:07:08,480 - 00:07:09,540] that you've sold in a single year?
+- [00:07:09,640 - 00:07:12,100] This year we'll do probably four and a half billion
+- [00:07:12,100 - 00:07:13,180] in sales this year.
+- [00:07:13,400 - 00:07:14,840] Yeah, but I mean, you have to understand
+- [00:07:14,840 - 00:07:16,660] like we sell entire buildings, right?
+- [00:07:16,740 - 00:07:19,640] Like we're selling Mercedes-Benz in Miami right now.
+- [00:07:19,720 - 00:07:21,880] That's a $1.4 billion sellout, you know?
+- [00:07:21,900 - 00:07:22,920] And I'll sell it and I mean,
+- [00:07:22,920 - 00:07:23,680] I'm going to try to
+- [00:07:23,680 - 00:07:24,440] sell it all in a year.
+- [00:07:24,540 - 00:07:25,820] Maybe it'll take me a little bit longer.
+- [00:07:26,220 - 00:07:28,720] Most expensive single home I've ever sold.
+- [00:07:28,900 - 00:07:31,340] I did, it was a couple different structures,
+- [00:07:31,340 - 00:07:34,540] but to like one person residentially was 195 million
+- [00:07:34,540 - 00:07:35,540] and I did it in two days.
+- [00:07:35,680 - 00:07:37,340] How many billionaires have you met throughout your life?
+- [00:07:39,060 - 00:07:40,220] What's the greatest lesson that you've learned
+- [00:07:40,220 - 00:07:41,320] from networking with billionaires?
+- [00:07:41,360 - 00:07:43,320] They really understand the value of a dollar,
+- [00:07:43,480 - 00:07:45,840] which means they don't second guess spending it
+- [00:07:45,840 - 00:07:46,620] when it makes sense,
+- [00:07:46,640 - 00:07:48,320] but they also are super,
+- [00:07:48,320 - 00:07:50,000] super cheap when it makes sense
+- [00:07:50,000 - 00:07:51,940] because they understand what it took to get there
+- [00:07:51,940 - 00:07:54,660] and they value their time more than anything.
+- [00:07:54,900 - 00:07:55,720] I made a video about it,
+- [00:07:55,800 - 00:07:56,140] about it.
+- [00:07:56,140 - 00:07:56,640] I made a video about it once,
+- [00:07:56,640 - 00:07:58,840] but I'd say almost a handful of billionaires
+- [00:07:58,840 - 00:07:59,840] that have gone to dinner with,
+- [00:07:59,840 - 00:08:01,539] because we do closing dinners and things.
+- [00:08:01,539 - 00:08:02,640] You go to a nice restaurant,
+- [00:08:02,640 - 00:08:04,640] they have no time to look at the menu, right?
+- [00:08:04,640 - 00:08:05,840] They just say, bring me your best
+- [00:08:05,840 - 00:08:07,240] because they just don't care, right?
+- [00:08:07,240 - 00:08:09,640] Unless they have a dietary restriction, you know?
+- [00:08:09,640 - 00:08:11,140] But most billionaires I know
+- [00:08:11,140 - 00:08:12,640] actually don't have dietary restrictions.
+- [00:08:12,640 - 00:08:14,940] It's everyone else that has dietary restrictions.
+- [00:08:14,940 - 00:08:15,740] How old are you now?
+- [00:08:16,440 - 00:08:18,140] And how old were you when you became a millionaire?
+- [00:08:18,140 - 00:08:19,440] 28, somewhere like that.
+- [00:08:19,440 - 00:08:21,440] How can somebody become a millionaire in 2024?
+- [00:08:21,440 - 00:08:22,340] Learn how to sell.
+- [00:08:22,640 - 00:08:24,089] Like sales is the greatest
+- [00:08:24,089 - 00:08:25,539] skill set of the new economy,
+- [00:08:25,539 - 00:08:25,940] because I think,
+- [00:08:25,940 - 00:08:27,440] the rest of us who are
+- [00:08:27,440 - 00:08:28,940] pushed to go into student debt,
+- [00:08:29,140 - 00:08:30,240] to go to college,
+- [00:08:30,340 - 00:08:32,039] to not figure out how to pay it off,
+- [00:08:32,039 - 00:08:35,039] to get a W2 job that's 9 to 5,
+- [00:08:35,039 - 00:08:37,640] to get a picket fence and have 2.2 kids.
+- [00:08:37,640 - 00:08:38,740] I think that that dream
+- [00:08:38,740 - 00:08:39,840] was sold to us really hard
+- [00:08:39,840 - 00:08:41,539] and I don't think it's real anymore, right?
+- [00:08:41,539 - 00:08:42,340] And it's really not.
+- [00:08:42,340 - 00:08:43,840] So for you to work for yourself,
+- [00:08:43,840 - 00:08:45,540] have 10 streams of income,
+- [00:08:45,740 - 00:08:46,940] doing whatever you want,
+- [00:08:46,940 - 00:08:47,840] whenever you want,
+- [00:08:47,840 - 00:08:48,840] however you want,
+- [00:08:48,840 - 00:08:51,240] like that is the greatest future that you can have,
+- [00:08:51,240 - 00:08:52,240] but you have to learn how to do it.
+- [00:08:52,240 - 00:08:52,840] It's a muscle.
+- [00:08:53,040 - 00:08:54,040] You got amazing advice.
+- [00:08:54,040 - 00:08:55,040] Thank you so much for your time.
+- [00:08:55,040 - 00:08:55,340] Thanks.
+- [00:08:55,340 - 00:08:55,840] I appreciate you, brother.
+- [00:08:55,940 - 00:08:57,740] We just interviewed Ryan Serhan,
+- [00:08:57,740 - 00:09:00,340] who made $22 million this last year in real estate.
+- [00:09:00,440 - 00:09:02,140] If you know anything about real estate,
+- [00:09:02,240 - 00:09:03,940] you know exactly who Ryan Serhan is.
+- [00:09:03,940 - 00:09:04,940] And just like he said,
+- [00:09:05,040 - 00:09:06,440] scared money does not make money.
+- [00:09:06,440 - 00:09:08,540] The most successful people are willing to risk it all.
+- [00:09:08,540 - 00:09:09,040] But guys,
+- [00:09:09,040 - 00:09:10,740] I have a very special announcement for you.
+- [00:09:10,740 - 00:09:12,140] We are going to interview Gary Vee,
+- [00:09:12,140 - 00:09:13,540] otherwise known as Gary Vanderchuk,
+- [00:09:13,540 - 00:09:15,740] one of the most successful marketing entrepreneurs
+- [00:09:15,740 - 00:09:17,040] in the entire world.
+- [00:09:17,140 - 00:09:18,240] If you know entrepreneurship,
+- [00:09:18,240 - 00:09:19,140] you know who Gary Vee is.
+- [00:09:19,140 - 00:09:20,140] So with that being said,
+- [00:09:20,240 - 00:09:21,640] let's go see what Gary has to say.
+- [00:09:21,840 - 00:09:22,540] How old are you now?
+- [00:09:22,540 - 00:09:24,140] I'm 48 and a half.
+- [00:09:24,140 - 00:09:24,840] 48 and a half.
+- [00:09:24,840 - 00:09:25,740] If you were to go back in time
+- [00:09:25,740 - 00:09:27,540] and have a conversation with your 20-year-old self
+- [00:09:27,540 - 00:09:28,640] when you were starting from zero,
+- [00:09:28,740 - 00:09:29,840] what's the best piece of advice
+- [00:09:29,840 - 00:09:30,940] that you would give to your younger self?
+- [00:09:30,940 - 00:09:33,540] That everything that you believe in intuitively
+- [00:09:33,540 - 00:09:34,740] is 100% right.
+- [00:09:34,740 - 00:09:36,340] And that the only flaw you have
+- [00:09:36,340 - 00:09:38,040] is your inability to be candorous
+- [00:09:38,040 - 00:09:39,840] to people that you love in work.
+- [00:09:40,040 - 00:09:41,240] And you're going to need to figure that out
+- [00:09:41,240 - 00:09:42,240] because that's your kryptonite.
+- [00:09:42,240 - 00:09:43,340] And once you get that right,
+- [00:09:43,340 - 00:09:43,940] you got it.
+- [00:09:43,940 - 00:09:45,740] And so what I mean to everybody,
+- [00:09:45,740 - 00:09:47,340] Jaylen, you, all of you,
+- [00:09:47,340 - 00:09:48,990] is most kids listen to
+- [00:09:48,990 - 00:09:50,640] other people that look like me
+- [00:09:50,640 - 00:09:52,240] instead of listening to themselves.
+- [00:09:52,240 - 00:09:53,540] You all know better than I know.
+- [00:09:53,640 - 00:09:54,640] You know yourself.
+- [00:09:54,740 - 00:09:55,640] And most people talk
+- [00:09:55,640 - 00:09:57,439] themselves out of what they know in their stomach
+- [00:09:57,439 - 00:09:58,340] and they use their brain
+- [00:09:58,340 - 00:10:00,340] or even worse, outside fucking voices,
+- [00:10:00,340 - 00:10:01,939] even if they're well-intended and awesome.
+- [00:10:01,939 - 00:10:02,939] What I talk about is right,
+- [00:10:02,939 - 00:10:04,289] but it's right for people
+- [00:10:04,289 - 00:10:05,640] that are more wired like me.
+- [00:10:05,640 - 00:10:06,840] It's not right for everyone.
+- [00:10:06,840 - 00:10:08,139] And so what I would
+- [00:10:08,139 - 00:10:09,439] tell every 20-year-old on Earth is
+- [00:10:09,439 - 00:10:11,040] stop listening to fucking other people.
+- [00:10:11,040 - 00:10:12,040] People you put on a pedestal,
+- [00:10:12,040 - 00:10:13,240] your fucking mom and dad,
+- [00:10:13,240 - 00:10:15,040] teachers, mentors.
+- [00:10:15,040 - 00:10:15,540] It's all good.
+- [00:10:15,540 - 00:10:16,439] Take it in.
+- [00:10:16,439 - 00:10:18,140] But you fucking know your answer.
+- [00:10:18,140 - 00:10:18,840] Last one for you.
+- [00:10:18,840 - 00:10:20,540] You've scaled a massive nine-figure business.
+- [00:10:20,540 - 00:10:22,140] A lot of entrepreneurs, they'll have a great idea.
+- [00:10:22,140 - 00:10:22,939] They'll start that business.
+- [00:10:22,939 - 00:10:24,040] They struggle to scale and grow.
+- [00:10:24,040 - 00:10:25,040] What's been your secret to scaling?
+- [00:10:25,040 - 00:10:25,540] Have you been able
+- [00:10:25,540 - 00:10:27,040] to build this thing out to the massive company
+- [00:10:27,040 - 00:10:28,040] that it is today?
+- [00:10:28,040 - 00:10:29,240] I'm willing to eat shit
+- [00:10:29,240 - 00:10:31,939] in a way that you kids don't want to.
+- [00:10:31,939 - 00:10:33,140] I'm willing to eat shit
+- [00:10:33,140 - 00:10:34,839] in a way that you kids don't want to.
+- [00:10:34,839 - 00:10:37,140] Lack of patience, entitlement at scale,
+- [00:10:37,140 - 00:10:39,640] giving a fuck about other people thinking you're successful
+- [00:10:39,640 - 00:10:40,839] versus being successful.
+- [00:10:40,839 - 00:10:41,939] I'm willing to eat shit, bro.
+- [00:10:41,939 - 00:10:43,140] Do you know what entrepreneurship is?
+- [00:10:43,140 - 00:10:43,640] What's that?
+- [00:10:43,640 - 00:10:45,939] Losing constantly with an occasional win.
+- [00:10:45,939 - 00:10:47,140] This shit is not fun.
+- [00:10:47,140 - 00:10:47,939] This is fighting.
+- [00:10:47,939 - 00:10:48,939] This shit's fighting.
+- [00:10:48,939 - 00:10:50,640] You get punched in the fucking face,
+- [00:10:50,640 - 00:10:52,140] but it's the best if you're a fighter.
+- [00:10:52,140 - 00:10:52,839] You understand?
+- [00:10:52,839 - 00:10:53,240] Yeah.
+- [00:10:53,240 - 00:10:54,939] But the problem is now everybody thinks it's cool
+- [00:10:54,939 - 00:10:55,439] to be a fighter.
+- [00:10:55,440 - 00:10:56,740] When they might not be a fighter.
+- [00:10:56,740 - 00:10:57,640] Let me say this real quick
+- [00:10:57,640 - 00:10:58,590] because I know one 20 year
+- [00:10:58,590 - 00:10:59,540] old is going to get it
+- [00:10:59,540 - 00:11:00,440] and it's going to change your life
+- [00:11:00,440 - 00:11:01,590] and I can't wait to see
+- [00:11:01,590 - 00:11:02,740] you at the airport in 11 years
+- [00:11:02,740 - 00:11:03,740] and be like that was the video.
+- [00:11:03,740 - 00:11:04,840] Do you know how much money
+- [00:11:04,840 - 00:11:05,940] the number three at Facebook made?
+- [00:11:05,940 - 00:11:06,440] How much?
+- [00:11:06,440 - 00:11:07,240] Billions.
+- [00:11:07,240 - 00:11:08,840] Everybody wants to be a number one,
+- [00:11:08,840 - 00:11:10,440] but not everyone was built to be a number one.
+- [00:11:10,440 - 00:11:12,540] There's no embarrassment of not being a number one.
+- [00:11:12,540 - 00:11:14,340] The number three at the biggest companies in the world
+- [00:11:14,340 - 00:11:19,040] will make more than 99.99999999% of number ones.
+- [00:11:19,040 - 00:11:21,440] And so just don't put this shit on a pedestal.
+- [00:11:21,440 - 00:11:24,040] Everything is great if it's who you actually are.
+- [00:11:24,040 - 00:11:24,640] Man, you guys.
+- [00:11:24,640 - 00:11:25,340] We just interviewed
+- [00:11:25,340 - 00:11:27,440] Gary Vee one of the most
+- [00:11:27,440 - 00:11:29,540] iconic figures in all of entrepreneurship
+- [00:11:29,540 - 00:11:31,040] and absolute legend.
+- [00:11:31,040 - 00:11:32,640] But guys, that's a wrap on today's video.
+- [00:11:32,640 - 00:11:34,540] Be sure to like and subscribe for
+- [00:11:34,540 - 00:11:36,440] amazing content on the way coming very soon
+- [00:11:36,440 - 00:11:38,190] and click the link in the description
+- [00:11:38,190 - 00:11:39,940] below to subscribe to the Hard Knocks newsletter
+- [00:11:39,940 - 00:11:42,040] because we're sending out weekly updates insights
+- [00:11:42,040 - 00:11:43,740] and lessons from the world's
+- [00:11:43,740 - 00:11:45,440] top entrepreneurs and business owners.
+- [00:11:45,440 - 00:11:46,340] You don't want to miss out on it.
+- [00:11:46,340 - 00:11:48,540] So subscribe to the Hard Knocks newsletter right now.
+- [00:11:48,540 - 00:11:49,640] With that being said, we'll see
+- [00:11:49,640 - 00:11:50,740] you guys in the next video.
+- [00:11:50,740 - 00:11:52,640] Click here to watch our full video
+- [00:11:52,640 - 00:11:54,540] going all over Las Vegas asking multimillionaires
+- [00:11:54,540 - 00:11:56,340] how you can start your path
+- [00:11:56,340 - 00:11:58,140] to becoming financially free in 2024.
+- [00:11:58,140 - 00:11:59,339] We'll see you guys in the next video.
