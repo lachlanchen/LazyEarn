@@ -1,0 +1,38 @@
+{
+  "course_rel": "lazyearn/yale-financial-markets",
+  "transcript_rel": "lazyearn/yale-financial-markets/018 - 18. Monetary Policy [_SpIaGTq0u8].md",
+  "video_rel": "lazyearn/yale-financial-markets/018 - 18. Monetary Policy [_SpIaGTq0u8].webm",
+  "lecture_number": 18,
+  "lecture_slug": "lecture_18",
+  "lecture_title": "18. Monetary Policy",
+  "assets": [
+    {
+      "name": "lecture_18_figure_02.png",
+      "timestamp_seconds": 2511.16,
+      "timestamp_hhmmss": "00:41:51.160",
+      "source_candidate": "lecture_18_window_03_candidate_01_004151160.png",
+      "recommended_use": "screenshot_only",
+      "rationale": "This frame preserves the most complete and legible blackboard content in the window. It shows the heading on reserve requirements, the reference to Regulation D, the visible 10% reserve figure, and the contrast with time deposits on the adjacent board. Later candidates crop away too much of the left-side text and are less useful for documenting the lecture's institutional setup.",
+      "subtitle_excerpt": "panic and try to withdraw their money all at once.",
+      "segment_start_seconds": 2510.8,
+      "segment_start_hhmmss": "00:41:50.800",
+      "segment_end_seconds": 2513.8,
+      "segment_end_hhmmss": "00:41:53.800",
+      "caption_hint": "Reserve requirements and deposit categories"
+    },
+    {
+      "name": "lecture_18_figure_03.png",
+      "timestamp_seconds": 2655.75,
+      "timestamp_hhmmss": "00:44:15.750",
+      "source_candidate": "lecture_18_window_04_candidate_03_004415750.png",
+      "recommended_use": "screenshot_plus_equation",
+      "rationale": "This frame gives the clearest balance of legibility and context. The left board preserves the heading 'Reserve Requirements' and 'Regulation D,' the underlined '10%' is readable, 'transaction accounts' is visible, and the adjacent contrast with 'Time Deposits' and a visible '0' remains on the right board. The lecturer\u2019s pointing gesture supports the subtitle-aligned moment without materially blocking the key text.",
+      "subtitle_excerpt": "about exactly equal to 10% of transactions.",
+      "segment_start_seconds": 2653.8,
+      "segment_start_hhmmss": "00:44:13.800",
+      "segment_end_seconds": 2656.8,
+      "segment_end_hhmmss": "00:44:16.800",
+      "caption_hint": "Reserve requirement on transaction accounts"
+    }
+  ]
+}
