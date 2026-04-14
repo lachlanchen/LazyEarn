@@ -1,0 +1,80 @@
+{
+  "course_rel": "lazyearn/yale-financial-markets",
+  "transcript_rel": "lazyearn/yale-financial-markets/008 - 8. Theory of Debt, Its Proper Role, Leverage Cycles [3Ir6sbDAx4c].md",
+  "video_rel": "lazyearn/yale-financial-markets/008 - 8. Theory of Debt, Its Proper Role, Leverage Cycles [3Ir6sbDAx4c].webm",
+  "lecture_number": 8,
+  "lecture_slug": "lecture_08",
+  "lecture_title": "8. Theory of Debt, Its Proper Role, Leverage Cycles",
+  "assets": [
+    {
+      "name": "lecture_08_figure_02.png",
+      "timestamp_seconds": 604.34,
+      "timestamp_hhmmss": "00:10:04.340",
+      "source_candidate": "lecture_08_window_02_candidate_02_001004340.png",
+      "recommended_use": "screenshot_plus_tikz",
+      "rationale": "This is the best frame because it preserves the main blackboard identification text for Irving Fisher while also showing the right-hand graph structure that the subtitle refers to as a two-period diagram. The board content is more informative here than in the other candidates, which mostly show only the historical names and title without the diagram itself.",
+      "subtitle_excerpt": "And that is a diagram that shows a two-period story.",
+      "segment_start_seconds": 600.16,
+      "segment_start_hhmmss": "00:10:00.160",
+      "segment_end_seconds": 611.16,
+      "segment_end_hhmmss": "00:10:11.160",
+      "caption_hint": "Irving Fisher and two-period diagram"
+    },
+    {
+      "name": "lecture_08_figure_03.png",
+      "timestamp_seconds": 2320.94,
+      "timestamp_hhmmss": "00:38:40.940",
+      "source_candidate": "lecture_08_window_03_candidate_04_003840940.png",
+      "recommended_use": "screenshot_plus_equation",
+      "rationale": "This frame is the strongest because the continuous-compounding expression is the most finished and legible here, with the lecturer pointing directly at the key exponential term. It also preserves the surrounding board structure comparing ordinary compounding with continuous compounding, making it the most useful single frame for reconstructing the argument in notes.",
+      "subtitle_excerpt": "So, your balance equals the initial amount.",
+      "segment_start_seconds": 2315.54,
+      "segment_start_hhmmss": "00:38:35.540",
+      "segment_end_seconds": 2321.54,
+      "segment_end_hhmmss": "00:38:41.540",
+      "caption_hint": "continuous compounding balance formula"
+    },
+    {
+      "name": "lecture_08_figure_04.png",
+      "timestamp_seconds": 2692.94,
+      "timestamp_hhmmss": "00:44:52.940",
+      "source_candidate": "lecture_08_window_04_candidate_04_004452940.png",
+      "recommended_use": "screenshot_plus_equation",
+      "rationale": "This is the best frame because it captures the annuity board at the moment the timing notation is being added, while still preserving the already written consol formulas in the adjacent panel. It is the most useful single screenshot for reconstructing the transition from the perpetuity benchmark to the finite annuity case described in the subtitle.",
+      "subtitle_excerpt": "it pays x pounds from t equals one",
+      "segment_start_seconds": 2684.54,
+      "segment_start_hhmmss": "00:44:44.540",
+      "segment_end_seconds": 2693.54,
+      "segment_end_hhmmss": "00:44:53.540",
+      "caption_hint": "annuity versus consol setup"
+    },
+    {
+      "name": "lecture_08_figure_05.png",
+      "timestamp_seconds": 2855.44,
+      "timestamp_hhmmss": "00:47:35.440",
+      "source_candidate": "lecture_08_window_05_candidate_02_004735440.png",
+      "recommended_use": "screenshot_plus_equation",
+      "rationale": "This frame best balances legibility and completeness. The annuity formula is clearly visible and actively indicated by the lecturer, while the adjacent \"Conventional bond\" panel remains readable enough to show why the formula is being reused with coupon payments. The other frames are either slightly more occluded or less centered on the formula itself.",
+      "subtitle_excerpt": "using the annuity formula for X equals C,",
+      "segment_start_seconds": 2853.54,
+      "segment_start_hhmmss": "00:47:33.540",
+      "segment_end_seconds": 2858.54,
+      "segment_end_hhmmss": "00:47:38.540",
+      "caption_hint": "annuity formula for bond coupons"
+    },
+    {
+      "name": "lecture_08_figure_06.png",
+      "timestamp_seconds": 3561.781,
+      "timestamp_hhmmss": "00:59:21.781",
+      "source_candidate": "lecture_08_window_06_candidate_03_005921781.png",
+      "recommended_use": "screenshot_plus_equation",
+      "rationale": "",
+      "subtitle_excerpt": "the forward rate equals the expected rate.",
+      "segment_start_seconds": 3560.26,
+      "segment_start_hhmmss": "00:59:20.260",
+      "segment_end_seconds": 3562.6,
+      "segment_end_hhmmss": "00:59:22.600",
+      "caption_hint": "the forward rate equals the expected rate."
+    }
+  ]
+}
