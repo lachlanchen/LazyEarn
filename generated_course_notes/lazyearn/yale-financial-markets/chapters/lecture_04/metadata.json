@@ -1,0 +1,66 @@
+{
+  "course_rel": "lazyearn/yale-financial-markets",
+  "transcript_rel": "lazyearn/yale-financial-markets/004 - 4. Portfolio Diversification and Supporting Financial Institutions [_B_24GUWdSM].md",
+  "video_rel": "lazyearn/yale-financial-markets/004 - 4. Portfolio Diversification and Supporting Financial Institutions [_B_24GUWdSM].webm",
+  "lecture_number": 4,
+  "lecture_slug": "lecture_04",
+  "lecture_title": "4. Portfolio Diversification and Supporting Financial Institutions",
+  "assets": [
+    {
+      "name": "lecture_04_figure_02.png",
+      "timestamp_seconds": 2471.14,
+      "timestamp_hhmmss": "00:41:11.140",
+      "source_candidate": "lecture_04_window_03_candidate_04_004111140.png",
+      "recommended_use": "screenshot_plus_equation",
+      "rationale": "This frame is the clearest and most complete view of the slide. The title and all bullet-point equations are visible, and the lecturer has moved far enough right that the key bottom sigma formula is no longer materially occluded. Earlier candidates are sharper in the gesture, but they block more of the lower mathematics.",
+      "subtitle_excerpt": "And so, I've got sigma equals",
+      "segment_start_seconds": 2468.94,
+      "segment_start_hhmmss": "00:41:08.940",
+      "segment_end_seconds": 2471.44,
+      "segment_end_hhmmss": "00:41:11.440",
+      "caption_hint": "Risky and riskless asset portfolio formulas"
+    },
+    {
+      "name": "lecture_04_figure_03.png",
+      "timestamp_seconds": 2703.54,
+      "timestamp_hhmmss": "00:45:03.540",
+      "source_candidate": "lecture_04_window_04_candidate_03_004503540.png",
+      "recommended_use": "screenshot_plus_equation",
+      "rationale": "This frame gives the clearest view of the slide's key mathematics at the moment the lecturer says he will plug into the variance equation. The title, explanatory bullet, substitution for x_1, and the full variance expression are all visible, while the lecturer's pointing hand sits just to the left of the main formula rather than blocking it. Candidate 01 emphasizes the substitution step too early, and candidates 02 and 04 place the hand closer to the variance line with slightly more occlusion.",
+      "subtitle_excerpt": "And I'll plug it into the equation for the variance.",
+      "segment_start_seconds": 2700.94,
+      "segment_start_hhmmss": "00:45:00.940",
+      "segment_end_seconds": 2704.94,
+      "segment_end_hhmmss": "00:45:04.940",
+      "caption_hint": "Two-asset frontier variance formula"
+    },
+    {
+      "name": "lecture_04_figure_04.png",
+      "timestamp_seconds": 3444.18,
+      "timestamp_hhmmss": "00:57:24.180",
+      "source_candidate": "lecture_04_window_05_candidate_01_005724180.png",
+      "recommended_use": "screenshot_plus_tikz",
+      "rationale": "This frame gives the clearest full-slide view of the chart while keeping the lecturer entirely outside the plotted area. The title, axes, frontier curves, and portfolio-allocation labels are all visible, and the later candidates add no new visual information while introducing slightly more lecturer motion.",
+      "subtitle_excerpt": "You can just do a derivative transaction.",
+      "segment_start_seconds": 3443.94,
+      "segment_start_hhmmss": "00:57:23.940",
+      "segment_end_seconds": 3445.94,
+      "segment_end_hhmmss": "00:57:25.940",
+      "caption_hint": "Efficient frontier with and without oil"
+    },
+    {
+      "name": "lecture_04_figure_05.png",
+      "timestamp_seconds": 3715.58,
+      "timestamp_hhmmss": "01:01:55.580",
+      "source_candidate": "lecture_04_window_06_candidate_04_010155580.png",
+      "recommended_use": "screenshot_plus_tikz",
+      "rationale": "This frame best captures the lecturer's specific point that the diagram does not show zero on the horizontal axis. The slide remains fully legible, the full frontier comparison is visible, and the pointing gesture lands directly at the left end of the x-axis near the 5% tick, making the axis cutoff clear without materially obscuring the chart.",
+      "subtitle_excerpt": "between, actually this diagram doesn't show zero on it.",
+      "segment_start_seconds": 3712.94,
+      "segment_start_hhmmss": "01:01:52.940",
+      "segment_end_seconds": 3715.94,
+      "segment_end_hhmmss": "01:01:55.940",
+      "caption_hint": "Efficient frontier axis cutoff"
+    }
+  ]
+}
