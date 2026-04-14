@@ -1,0 +1,739 @@
+# Transcript
+
+Source: lazyearn/school-of-hard-knocks/hard-knocks-interviews/046 - I Was Broke.. Found God.. Now I Make $15M⧸Year [GCXhTFKVHkg].webm
+
+- [00:00:00,000 - 00:00:02,100] A couple months ago, I interviewed one of
+- [00:00:02,100 - 00:00:04,200] the most legendary business owners in the entire world.
+- [00:00:04,500 - 00:00:05,060] Excuse me, sir.
+- [00:00:05,340 - 00:00:05,740] Yeah, what's up?
+- [00:00:05,800 - 00:00:06,400] Question for you.
+- [00:00:06,540 - 00:00:07,620] Is this your Rolls Royce?
+- [00:00:07,920 - 00:00:08,680] Uh, yeah.
+- [00:00:08,860 - 00:00:10,040] And what do you do for a living out here
+- [00:00:10,040 - 00:00:11,220] in Tampa to be able to afford a Rolls Royce?
+- [00:00:11,320 - 00:00:12,700] I am a consultant.
+- [00:00:12,900 - 00:00:13,400] Are you an entrepreneur?
+- [00:00:13,840 - 00:00:14,960] I am definitely an entrepreneur.
+- [00:00:15,160 - 00:00:15,900] I'm a business consultant.
+- [00:00:16,040 - 00:00:17,110] What was the most amount of money
+- [00:00:17,110 - 00:00:18,180] that you made in a single year?
+- [00:00:18,300 - 00:00:19,020] Most amount of money I've
+- [00:00:19,020 - 00:00:19,740] ever made in a single year?
+- [00:00:19,800 - 00:00:20,300] $15 million.
+- [00:00:20,440 - 00:00:20,960] $15 million?
+- [00:00:21,440 - 00:00:21,600] Yeah.
+- [00:00:21,740 - 00:00:22,920] Have you ever been broke before?
+- [00:00:24,760 - 00:00:26,960] I was broke for the first part of my life.
+- [00:00:27,040 - 00:00:28,420] Then I made millions of dollars.
+- [00:00:28,420 - 00:00:29,560] And then I was broke again.
+- [00:00:29,560 - 00:00:31,180] And now we've set it up in
+- [00:00:31,180 - 00:00:32,800] such a way that that doesn't happen anymore.
+- [00:00:32,980 - 00:00:33,660] Do you believe in God?
+- [00:00:33,780 - 00:00:35,140] I more than believe in God.
+- [00:00:35,199 - 00:00:35,900] I trust God.
+- [00:00:35,980 - 00:00:39,860] That video got over 150 million views across social media.
+- [00:00:40,000 - 00:00:40,960] That's Myron Golden.
+- [00:00:41,100 - 00:00:45,220] And he invited us out to his private golf course out in Tampa, Florida to
+- [00:00:45,220 - 00:00:49,340] give you guys the blueprint on how you can become a multimillionaire in today's world.
+- [00:00:49,440 - 00:00:51,620] And how you can sell and market
+- [00:00:51,620 - 00:00:53,800] like a $15 million a year entrepreneur.
+- [00:00:54,140 - 00:00:55,560] This video is about to
+- [00:00:55,560 - 00:00:56,980] be insane from start to finish.
+- [00:00:56,980 - 00:00:58,340] So stay tuned until the end.
+- [00:00:58,400 - 00:00:59,300] But with that being said,
+- [00:00:59,300 - 00:01:00,580] let's get this video on the way.
+- [00:01:00,739 - 00:01:01,180] All right, you guys.
+- [00:01:01,239 - 00:01:02,619] So we made it to the
+- [00:01:02,619 - 00:01:04,000] golf course out here in Tampa, Florida.
+- [00:01:04,140 - 00:01:06,460] And Myron's going to be pulling up at any second.
+- [00:01:06,620 - 00:01:07,670] So stay tuned because you're not
+- [00:01:07,670 - 00:01:08,720] going to want to miss this.
+- [00:01:10,660 - 00:01:12,399] My God, Myron's pulling up right now.
+- [00:01:12,479 - 00:01:13,309] So we're going to wait for him to
+- [00:01:13,309 - 00:01:14,140] come out and go up to him, you guys.
+- [00:01:14,220 - 00:01:14,500] Come on.
+- [00:01:16,020 - 00:01:16,820] There he is.
+- [00:01:16,920 - 00:01:17,400] What's up?
+- [00:01:17,580 - 00:01:18,500] How you doing, man?
+- [00:01:19,120 - 00:01:19,759] Fantastic, brother.
+- [00:01:19,960 - 00:01:20,880] It's great to see you.
+- [00:01:20,979 - 00:01:21,200] Great to see you.
+- [00:01:21,220 - 00:01:22,400] Thanks for having us out here, man.
+- [00:01:22,420 - 00:01:23,380] It's great to see you again.
+- [00:01:23,740 - 00:01:24,520] Great to see you.
+- [00:01:24,780 - 00:01:25,780] Fancy meeting you here.
+- [00:01:25,880 - 00:01:26,340] Yeah, absolutely.
+- [00:01:26,340 - 00:01:27,750] We were letting them know how
+- [00:01:27,750 - 00:01:29,160] many views our last video did.
+- [00:01:29,300 - 00:01:30,060] It was crazy, wasn't it?
+- [00:01:30,100 - 00:01:30,280] Yeah.
+- [00:01:30,380 - 00:01:31,580] Do you know what the number is on Instagram?
+- [00:01:31,880 - 00:01:32,119] No.
+- [00:01:32,259 - 00:01:33,020] 100 and something million.
+- [00:01:33,060 - 00:01:33,679] 100 billion.
+- [00:01:33,880 - 00:01:35,120] Yeah, it's 100 and something million.
+- [00:01:35,160 - 00:01:35,440] It's crazy.
+- [00:01:35,580 - 00:01:36,720] Have you ever seen anything like that before?
+- [00:01:36,820 - 00:01:37,100] Never.
+- [00:01:37,240 - 00:01:37,440] Never?
+- [00:01:37,520 - 00:01:38,640] I've never seen anything like it.
+- [00:01:38,720 - 00:01:38,920] Yeah.
+- [00:01:39,000 - 00:01:39,580] I've never seen.
+- [00:01:39,720 - 00:01:41,759] I didn't even know videos got 100 million views.
+- [00:01:41,840 - 00:01:43,899] But I like to say where attention goes, revenue flows.
+- [00:01:44,220 - 00:01:44,539] What?
+- [00:01:44,880 - 00:01:45,539] You like that one?
+- [00:01:45,600 - 00:01:45,880] I do.
+- [00:01:45,960 - 00:01:47,100] I know we're at the golf course.
+- [00:01:47,220 - 00:01:48,180] We need to get a million dollars
+- [00:01:48,180 - 00:01:49,140] for the game for them in this video.
+- [00:01:49,280 - 00:01:50,500] Can we make it happen out there?
+- [00:01:50,580 - 00:01:51,479] We can make that happen.
+- [00:01:51,479 - 00:01:52,629] But before we do, I got to make
+- [00:01:52,629 - 00:01:53,780] sure I take care of this young lady.
+- [00:01:54,360 - 00:01:54,840] All right, brother.
+- [00:01:54,840 - 00:01:55,480] Time to go.
+- [00:01:55,620 - 00:01:55,980] Let's go.
+- [00:01:56,060 - 00:01:57,160] It's time to bring the game to them.
+- [00:01:57,180 - 00:01:57,780] I love it.
+- [00:02:02,440 - 00:02:03,900] How long have you been a business owner?
+- [00:02:04,100 - 00:02:05,340] 47 years.
+- [00:02:05,480 - 00:02:06,460] Growing up, did you know you were going
+- [00:02:06,460 - 00:02:07,440] to be a business owner and build an empire?
+- [00:02:07,720 - 00:02:08,440] Definitely not.
+- [00:02:08,620 - 00:02:10,120] No, I didn't have any idea.
+- [00:02:10,280 - 00:02:11,610] I learned, though, when I was 16
+- [00:02:11,610 - 00:02:12,940] that you don't have to have a job.
+- [00:02:13,100 - 00:02:14,490] Because my dad quit his job and he said
+- [00:02:14,490 - 00:02:15,880] he was never going to work for anybody again.
+- [00:02:16,020 - 00:02:17,080] I'm like, what are we going to do?
+- [00:02:17,080 - 00:02:18,820] He just started doing for himself what he used to
+- [00:02:18,820 - 00:02:20,560] do for other people and got to keep all the money.
+- [00:02:20,920 - 00:02:22,380] How much money did you make this last year?
+- [00:02:22,560 - 00:02:22,960] Eight figures.
+- [00:02:23,240 - 00:02:23,620] Eight figures.
+- [00:02:23,900 - 00:02:24,780] We got to head to this next shot.
+- [00:02:24,900 - 00:02:25,460] Yes, we do.
+- [00:02:25,600 - 00:02:25,920] Let's go.
+- [00:02:25,960 - 00:02:26,160] We do.
+- [00:02:29,840 - 00:02:31,260] We're on a golf course right now.
+- [00:02:31,360 - 00:02:31,500] Yep.
+- [00:02:31,540 - 00:02:32,740] This is a playground for
+- [00:02:32,740 - 00:02:33,940] a lot of millionaires and billionaires.
+- [00:02:34,080 - 00:02:34,540] For real.
+- [00:02:34,740 - 00:02:34,880] Yeah.
+- [00:02:35,620 - 00:02:37,130] What do you notice about all the
+- [00:02:37,130 - 00:02:38,640] billionaires and the wealthiest people that you've met?
+- [00:02:38,700 - 00:02:39,700] What are the most successful
+- [00:02:39,700 - 00:02:40,700] to do differently from everybody else?
+- [00:02:40,800 - 00:02:42,880] Hyper-focus on intention and ignore distraction.
+- [00:02:43,060 - 00:02:44,080] So you don't like diversifying.
+- [00:02:44,180 - 00:02:45,400] You like focus going deep on one thing.
+- [00:02:45,400 - 00:02:47,320] Well, diversifying is a different conversation.
+- [00:02:47,500 - 00:02:48,380] I don't like distractions.
+- [00:02:48,740 - 00:02:50,700] Intention is anything that moves the needle in your favor.
+- [00:02:51,040 - 00:02:52,600] Distraction is anything that you focus on that
+- [00:02:52,600 - 00:02:54,160] does not move the needle in your favor.
+- [00:02:54,160 - 00:02:55,820] In terms of how wealthy people play with their
+- [00:02:55,820 - 00:02:57,480] money, what do they do differently from everybody else?
+- [00:02:57,620 - 00:02:58,980] Ask me that question when we get over to Tika.
+- [00:02:58,980 - 00:02:59,799] We got to get out of these guys.
+- [00:02:59,799 - 00:03:00,079] I got you.
+- [00:03:00,120 - 00:03:01,700] So you were saying, what do the
+- [00:03:01,700 - 00:03:03,280] wealthiest people do differently from everybody else?
+- [00:03:03,380 - 00:03:06,040] I think they perceive life differently is number one.
+- [00:03:06,120 - 00:03:07,890] But as a wealthy person, you don't view
+- [00:03:07,890 - 00:03:09,660] the primary purpose of money as paying bills.
+- [00:03:09,840 - 00:03:10,950] So poor people think the primary
+- [00:03:10,950 - 00:03:12,060] purpose of money is paying bills.
+- [00:03:12,060 - 00:03:15,209] Middle class people think the primary purpose of money is to maintain good credit so
+- [00:03:15,209 - 00:03:18,359] they can buy things they can't afford to impress people they don't know or like.
+- [00:03:18,500 - 00:03:19,730] Rich people believe the primary purpose of
+- [00:03:19,730 - 00:03:20,960] money is to turn it into more money.
+- [00:03:21,100 - 00:03:22,570] So that's like when I get a dollar,
+- [00:03:22,570 - 00:03:24,040] I want to turn it into 10 or prefer.
+- [00:03:24,160 - 00:03:25,390] I want to turn it into 100 or
+- [00:03:25,390 - 00:03:26,620] even 1,000 before I spend any of that dollar.
+- [00:03:26,740 - 00:03:28,799] The secret to being able to flip that money, to make that
+- [00:03:28,799 - 00:03:30,859] money work for you, to double and multiply and grow that money.
+- [00:03:30,900 - 00:03:33,480] Being able to perceive what's valuable to other people.
+- [00:03:33,680 - 00:03:36,530] So it doesn't matter whether you're trading stocks or whether
+- [00:03:36,530 - 00:03:39,380] you're investing in real estate or whether you're selling insurance.
+- [00:03:39,420 - 00:03:39,859] It doesn't matter.
+- [00:03:39,859 - 00:03:41,489] You have to solve somebody else's problem
+- [00:03:41,489 - 00:03:43,120] in order to solve your money problem.
+- [00:03:43,200 - 00:03:44,389] And you can't be focused on
+- [00:03:44,389 - 00:03:45,579] your money problem when you're solving it.
+- [00:03:45,600 - 00:03:47,140] You have to be focused on whatever their problem is.
+- [00:03:47,180 - 00:03:48,760] How old were you when you made your first million?
+- [00:03:48,920 - 00:03:50,820] I was 43.
+- [00:03:51,180 - 00:03:52,079] No, I was 45.
+- [00:03:52,160 - 00:03:53,100] I was 45 when I made my first million.
+- [00:03:53,100 - 00:03:54,140] But you had lost it when you had.
+- [00:03:54,160 - 00:03:55,299] Well, I didn't.
+- [00:03:55,420 - 00:03:57,590] I had made a million dollars a year for a couple of years
+- [00:03:57,590 - 00:03:59,760] in a row and then lost every, I mean, lost all my money.
+- [00:03:59,880 - 00:04:00,740] Why did you lose everything?
+- [00:04:00,920 - 00:04:02,519] We just had a whole series of tragedies.
+- [00:04:02,620 - 00:04:03,840] Sometimes life comes at you fast.
+- [00:04:03,940 - 00:04:05,590] And I upgraded my lifestyle way too
+- [00:04:05,590 - 00:04:07,240] soon when I first started making money.
+- [00:04:07,340 - 00:04:08,980] But when you first start making 30, 40,
+- [00:04:08,980 - 00:04:10,620] 50,000 a month, you think you're a big baller.
+- [00:04:10,940 - 00:04:12,820] 80,000 a month, 100,000 a month, you think, oh
+- [00:04:12,820 - 00:04:14,700] man, we're making so much money, it'll never run out.
+- [00:04:14,800 - 00:04:16,589] But the scripture says when riches
+- [00:04:16,589 - 00:04:18,380] increase, so do they that consume them.
+- [00:04:18,579 - 00:04:20,099] So when you start making more money,
+- [00:04:20,099 - 00:04:21,620] you are going to have more expenses.
+- [00:04:21,620 - 00:04:22,840] So what you have to do
+- [00:04:22,840 - 00:04:24,060] is you have to make sure that.
+- [00:04:24,160 - 00:04:25,800] You set yourself up in such a way that
+- [00:04:25,800 - 00:04:27,440] you don't spend every dime out of every dollar.
+- [00:04:27,560 - 00:04:29,300] You don't even, if you can live off of
+- [00:04:29,300 - 00:04:31,040] 10% of your revenue or 10% of your income,
+- [00:04:31,040 - 00:04:33,120] now you're in a place where the bottom can fall out and
+- [00:04:33,120 - 00:04:35,200] you're still going to be okay for at least a couple of years.
+- [00:04:35,340 - 00:04:35,380] Yeah.
+- [00:04:35,540 - 00:04:35,720] Right?
+- [00:04:35,900 - 00:04:37,490] There's a saying that I love, stay small enough,
+- [00:04:37,490 - 00:04:39,080] long enough, and you'll be big enough soon enough.
+- [00:04:39,580 - 00:04:41,000] Ooh, that's a bar.
+- [00:04:41,780 - 00:04:43,600] It's like even if you're making, like you said, 30,
+- [00:04:43,600 - 00:04:45,420] 40, $50,000 a month, it's like keep the expenses low.
+- [00:04:45,440 - 00:04:46,120] Keep the expenses low.
+- [00:04:46,120 - 00:04:46,380] Yeah.
+- [00:04:46,380 - 00:04:48,020] Even when the margins and the profits are high.
+- [00:04:48,160 - 00:04:48,440] Absolutely.
+- [00:04:48,440 - 00:04:50,060] And it gives you the ability
+- [00:04:50,060 - 00:04:51,680] to acquire massive amounts of wealth.
+- [00:04:51,800 - 00:04:52,970] And the more money you have, if
+- [00:04:52,970 - 00:04:54,140] you understand how to turn money into money.
+- [00:04:54,160 - 00:04:56,420] The bigger that amount gets, the faster it gets bigger.
+- [00:04:56,540 - 00:04:57,840] If you're not always taking
+- [00:04:57,840 - 00:04:59,140] money out to go buy stuff.
+- [00:04:59,240 - 00:05:00,360] And there's nothing wrong with buying stuff.
+- [00:05:00,460 - 00:05:01,760] But you want to make sure
+- [00:05:01,760 - 00:05:03,060] that the business is sustained first.
+- [00:05:05,880 - 00:05:07,740] What industry would you get into right now?
+- [00:05:07,860 - 00:05:08,760] Something to do with AI.
+- [00:05:09,040 - 00:05:09,220] Really?
+- [00:05:09,600 - 00:05:10,160] Oh, for sure.
+- [00:05:10,360 - 00:05:10,500] Why?
+- [00:05:10,640 - 00:05:13,300] Well, because it's easier to create wealth in the economic era that
+- [00:05:13,300 - 00:05:15,960] you're living in than it is to create wealth in the past.
+- [00:05:15,960 - 00:05:19,110] So every time wealth changes sectors or
+- [00:05:19,110 - 00:05:22,260] categories, a new economic era is introduced.
+- [00:05:22,440 - 00:05:23,960] From the beginning of time to the mid-1700s.
+- [00:05:24,160 - 00:05:25,280] You had the agricultural age.
+- [00:05:25,380 - 00:05:26,140] Land equaled wealth.
+- [00:05:26,260 - 00:05:28,240] From the mid-1700s to the mid-1900s.
+- [00:05:28,280 - 00:05:28,920] Industrial age.
+- [00:05:29,180 - 00:05:29,880] Machines equaled wealth.
+- [00:05:29,980 - 00:05:33,260] From 1955 to 1978, the distribution age.
+- [00:05:33,360 - 00:05:34,080] Outlets equaled wealth.
+- [00:05:34,160 - 00:05:35,920] And right now, we are in the AI age.
+- [00:05:36,140 - 00:05:38,550] So the people who got started in AI
+- [00:05:38,550 - 00:05:40,960] in 2020, 2021, 2022, and even today, 2025.
+- [00:05:41,080 - 00:05:41,750] Those are the people who
+- [00:05:41,750 - 00:05:42,420] create the wealth of the future.
+- [00:05:42,420 - 00:05:44,690] If you had to start from zero and you had 90 days to
+- [00:05:44,690 - 00:05:46,960] make a million dollars in your life, depending on it, what would you do?
+- [00:05:47,120 - 00:05:48,450] I don't think like that because
+- [00:05:48,450 - 00:05:49,780] I don't give myself deadlines like that.
+- [00:05:49,880 - 00:05:51,010] So I think you may
+- [00:05:51,010 - 00:05:52,140] already know this, but they don't.
+- [00:05:52,260 - 00:05:53,380] I don't believe in setting goals.
+- [00:05:53,480 - 00:05:53,980] A goal.
+- [00:05:54,160 - 00:05:55,700] Is an objective with a deadline.
+- [00:05:55,900 - 00:05:57,160] I don't control deadlines.
+- [00:05:57,240 - 00:05:58,500] I don't control the times and seasons.
+- [00:05:58,600 - 00:06:01,170] It's like saying to a farmer, okay, if you had to produce
+- [00:06:01,170 - 00:06:03,740] 7 million ears of corn by next Wednesday, what would you do?
+- [00:06:03,900 - 00:06:05,100] Well, there's nothing you could do.
+- [00:06:05,160 - 00:06:07,640] So instead of doing that, have an objective for inputs.
+- [00:06:07,780 - 00:06:08,840] An objective for outcomes.
+- [00:06:08,840 - 00:06:10,200] But don't put a time limit on it.
+- [00:06:10,200 - 00:06:12,120] Because let it happen when it happens.
+- [00:06:12,120 - 00:06:13,940] And that way you're not frustrating yourself by setting a
+- [00:06:13,940 - 00:06:15,760] goal, not reaching the goal, and then feeling like a failure.
+- [00:06:15,860 - 00:06:16,820] Because it didn't happen when you
+- [00:06:16,820 - 00:06:17,780] thought it was going to happen.
+- [00:06:17,860 - 00:06:19,100] Because it might happen two days later.
+- [00:06:19,200 - 00:06:20,620] And you still felt like a failure for two days.
+- [00:06:20,660 - 00:06:22,000] Or if it happens two years later, you
+- [00:06:22,000 - 00:06:23,340] wasted time feeling like a failure for two years.
+- [00:06:23,340 - 00:06:24,680] And that feeling like a failure for
+- [00:06:24,680 - 00:06:26,020] two years might even cause you to quit.
+- [00:06:27,539 - 00:06:28,760] Only objective applies.
+- [00:06:29,080 - 00:06:29,940] Are you a good salesman?
+- [00:06:30,119 - 00:06:31,349] Without sounding braggadocious, one of
+- [00:06:31,349 - 00:06:32,580] the best in the world.
+- [00:06:32,700 - 00:06:33,619] One of the best in the world.
+- [00:06:33,780 - 00:06:36,140] So what's the one thing that you do differently from 99% of
+- [00:06:36,140 - 00:06:38,500] other salesmen that's enabled you to become part of that top 1%?
+- [00:06:38,659 - 00:06:40,580] I only sell people things they desire to buy.
+- [00:06:40,640 - 00:06:41,700] So do you think a lot of people
+- [00:06:41,700 - 00:06:42,760] that they sell bullshit that people don't need?
+- [00:06:42,820 - 00:06:43,890] I would never phrase it like
+- [00:06:43,890 - 00:06:44,960] that because I don't use profanity.
+- [00:06:45,080 - 00:06:47,430] I think a lot of people want people
+- [00:06:47,430 - 00:06:49,780] to buy stuff simply because they're selling it.
+- [00:06:49,840 - 00:06:50,930] I only want people to buy
+- [00:06:50,930 - 00:06:52,020] things that they already want to buy.
+- [00:06:52,020 - 00:06:53,320] See, most people are looking for something.
+- [00:06:53,400 - 00:06:54,249] They're looking for somebody to sell their
+- [00:06:54,249 - 00:06:55,099] stuff to so they can make some money.
+- [00:06:55,219 - 00:06:58,369] I believe that there are already millions of people in the world who would
+- [00:06:58,369 - 00:07:01,520] love to buy what you'd love to sell if they only knew you existed.
+- [00:07:01,739 - 00:07:03,259] So instead of trying to find somebody to
+- [00:07:03,259 - 00:07:04,780] sell something to because you have something for sale,
+- [00:07:04,919 - 00:07:06,289] make yourself findable for people who want
+- [00:07:06,289 - 00:07:07,659] to buy what you already want to sell.
+- [00:07:07,739 - 00:07:08,859] Make selling really easy.
+- [00:07:09,080 - 00:07:10,159] Did you come from a rich family?
+- [00:07:10,280 - 00:07:11,140] Do you mean rich in money?
+- [00:07:11,219 - 00:07:13,140] Because the answer to that would be absolutely not.
+- [00:07:13,419 - 00:07:13,620] No.
+- [00:07:14,179 - 00:07:15,659] So how did you change your family's trajectory?
+- [00:07:15,960 - 00:07:17,219] There's the saying that, you know, the
+- [00:07:17,219 - 00:07:18,479] rich get richer, the poor get poorer.
+- [00:07:18,539 - 00:07:19,880] How did you escape the cycle of poverty?
+- [00:07:19,880 - 00:07:20,869] I think the rich get
+- [00:07:20,869 - 00:07:21,859] richer and the poor get poorer.
+- [00:07:21,940 - 00:07:22,859] But the poor don't get poorer.
+- [00:07:23,340 - 00:07:24,499] The rich get richer and the rich
+- [00:07:24,499 - 00:07:25,659] don't get richer because the poor get poorer.
+- [00:07:25,780 - 00:07:28,260] Those statements are true, but they're not causality.
+- [00:07:28,460 - 00:07:29,200] They're a correlation.
+- [00:07:29,359 - 00:07:30,000] They're not causation.
+- [00:07:30,119 - 00:07:31,460] How did I escape the cycle of poverty?
+- [00:07:31,539 - 00:07:32,640] First of all, I hated being poor.
+- [00:07:32,760 - 00:07:34,299] And then I learned the things that rich people did.
+- [00:07:34,320 - 00:07:35,410] And I started doing those instead of
+- [00:07:35,410 - 00:07:36,500] doing the things that poor people did.
+- [00:07:36,520 - 00:07:38,640] What did you learn and implement into your skill set?
+- [00:07:38,700 - 00:07:40,570] Number one, like my good friend
+- [00:07:40,570 - 00:07:42,440] Daniel Priestley says, income follows assets.
+- [00:07:42,659 - 00:07:44,960] So I stopped focusing on working hard.
+- [00:07:45,059 - 00:07:46,319] I stopped focusing on eight
+- [00:07:46,319 - 00:07:47,580] hours work for eight hours pay.
+- [00:07:47,659 - 00:07:49,000] I stopped focusing on paying bills.
+- [00:07:49,000 - 00:07:50,869] I started focusing on, okay, how can
+- [00:07:50,869 - 00:07:52,739] I put more assets in my asset column?
+- [00:07:52,799 - 00:07:53,320] Because income.
+- [00:07:53,380 - 00:07:54,179] Follows assets.
+- [00:07:54,219 - 00:07:55,440] So you bought a lot of assets.
+- [00:07:55,479 - 00:07:55,799] I did.
+- [00:07:55,840 - 00:07:57,560] I bought and built because you can
+- [00:07:57,560 - 00:07:59,280] buy assets, but you can also build assets.
+- [00:07:59,320 - 00:07:59,880] I've written books.
+- [00:07:59,880 - 00:08:02,219] For instance, every book that I've written is an asset.
+- [00:08:02,239 - 00:08:03,580] It pays me money every month.
+- [00:08:03,599 - 00:08:04,889] So you write the book once, but it
+- [00:08:04,889 - 00:08:06,179] pays you for the rest of your life.
+- [00:08:06,219 - 00:08:06,900] That's an asset.
+- [00:08:06,940 - 00:08:08,020] What are you investing in right now?
+- [00:08:08,039 - 00:08:10,299] Real estate options, some crypto.
+- [00:08:10,340 - 00:08:12,110] The most important thing I've ever invested in is
+- [00:08:12,110 - 00:08:13,880] my own mind to learn the things I don't know.
+- [00:08:13,919 - 00:08:15,359] So I can do the things I couldn't do before.
+- [00:08:15,400 - 00:08:16,859] Have you spent a lot of money on mentorship?
+- [00:08:16,880 - 00:08:18,479] Depends on your definition of a lot of money.
+- [00:08:19,200 - 00:08:21,219] I haven't spent as nearly as much as I've made.
+- [00:08:22,340 - 00:08:23,219] And how much money would you say?
+- [00:08:23,219 - 00:08:23,320] You.
+- [00:08:23,340 - 00:08:24,179] Spent on mentorship.
+- [00:08:24,219 - 00:08:25,699] If you include all the books, all the
+- [00:08:25,699 - 00:08:27,179] courses, all the coaching programs, all of it.
+- [00:08:27,219 - 00:08:28,219] About 1.7 million.
+- [00:08:28,260 - 00:08:29,159] 1.7 million.
+- [00:08:29,179 - 00:08:31,059] What's the greatest lesson you've learned from
+- [00:08:31,059 - 00:08:32,939] investing over a million dollars into mentorship?
+- [00:08:32,959 - 00:08:35,039] Mentorship is like the ultimate shortcut.
+- [00:08:35,059 - 00:08:36,549] It's like somebody's already spent their whole
+- [00:08:36,549 - 00:08:38,039] life figuring out how to do something.
+- [00:08:38,079 - 00:08:39,559] And all they're going to do is charge you
+- [00:08:39,559 - 00:08:41,039] up some money to teach you how to do it.
+- [00:08:41,059 - 00:08:42,159] Sign me up for that program.
+- [00:08:42,179 - 00:08:44,179] I remember my first mentor, Jerry.
+- [00:08:44,220 - 00:08:47,100] He showed me how to sell to many,
+- [00:08:47,100 - 00:08:49,980] like one on one to many from stage.
+- [00:08:50,020 - 00:08:52,160] And the stuff he showed me was invaluable.
+- [00:08:52,280 - 00:08:53,220] It was just like.
+- [00:08:53,220 - 00:08:54,100] Wait, what?
+- [00:08:54,140 - 00:08:55,990] I didn't even believe it would work, but I did
+- [00:08:55,990 - 00:08:57,840] it because he was my coach and he said, do it.
+- [00:08:57,860 - 00:09:00,230] And it worked so well that the first time I did it,
+- [00:09:00,230 - 00:09:02,600] it was hard for me to keep from breaking out into hysterical laughter.
+- [00:09:02,620 - 00:09:04,280] I'm like, this is crazy.
+- [00:09:04,300 - 00:09:05,640] It's been here all along.
+- [00:09:05,660 - 00:09:07,720] It's not just the things that we don't know.
+- [00:09:07,740 - 00:09:09,460] It's the things that we don't know we don't know.
+- [00:09:09,480 - 00:09:10,240] That's the problem.
+- [00:09:10,260 - 00:09:11,530] What is the best advice
+- [00:09:11,530 - 00:09:12,800] you ever received from a mentor?
+- [00:09:12,820 - 00:09:15,130] I think the thing that changed my trajectory wasn't so much
+- [00:09:15,130 - 00:09:17,440] a piece of advice as it was something that Robert G.
+- [00:09:17,460 - 00:09:18,960] Allen, the author of Multiple Streams of
+- [00:09:18,960 - 00:09:20,460] Income, said to me at a seminar.
+- [00:09:20,480 - 00:09:21,720] He was asking for testimonies.
+- [00:09:21,740 - 00:09:23,100] I told him, you know, I've read your book.
+- [00:09:23,100 - 00:09:24,720] I've read your books and I've used some
+- [00:09:24,720 - 00:09:26,340] of your material and some of your courses.
+- [00:09:26,340 - 00:09:27,500] And, you know, I'm doing really good.
+- [00:09:27,500 - 00:09:28,680] I used to be a
+- [00:09:28,680 - 00:09:29,860] trash man making $6.25 an hour.
+- [00:09:29,860 - 00:09:30,840] Now I'm living like a king.
+- [00:09:30,840 - 00:09:31,940] I'm making $30,000 a month.
+- [00:09:31,940 - 00:09:32,980] You know what he said to me?
+- [00:09:33,000 - 00:09:34,020] He said, you're doing really good.
+- [00:09:34,040 - 00:09:36,600] You're on the path to making some really big money.
+- [00:09:36,620 - 00:09:37,570] And he said that to me
+- [00:09:37,570 - 00:09:38,520] in front of like 700 people.
+- [00:09:38,520 - 00:09:40,170] The first thought was, did he just diss
+- [00:09:40,170 - 00:09:41,820] my $30,000 a month in front of 700 people?
+- [00:09:41,820 - 00:09:43,800] My second thought was, wait, there's a level where
+- [00:09:43,800 - 00:09:45,780] $30,000 a month is not a lot of money.
+- [00:09:45,780 - 00:09:46,820] Oh, let me get to that level.
+- [00:09:46,840 - 00:09:47,670] You have to think a
+- [00:09:47,670 - 00:09:48,500] lot bigger is what you're saying.
+- [00:09:48,500 - 00:09:50,780] You have to think a lot bigger and you
+- [00:09:50,780 - 00:09:53,060] have to learn to perceive the big things that are
+- [00:09:53,060 - 00:09:55,560] already there all around you so you can access them.
+- [00:09:55,560 - 00:09:57,699] People think they lack access to abundance.
+- [00:09:57,699 - 00:09:58,839] They don't like access to abundance.
+- [00:09:58,839 - 00:10:00,159] They lack access to awareness
+- [00:10:00,159 - 00:10:01,479] of abundance that's all around them.
+- [00:10:01,479 - 00:10:03,299] You guys, that was an incredible answer from
+- [00:10:03,299 - 00:10:05,119] Myron, but I needed to take a second real
+- [00:10:05,119 - 00:10:07,549] quick to thank you guys for helping
+- [00:10:07,549 - 00:10:09,979] us hit 1 million subscribers on YouTube.
+- [00:10:09,979 - 00:10:13,180] You guys, this is an incredible milestone in our journey.
+- [00:10:13,180 - 00:10:14,879] And since you guys helped me get to this
+- [00:10:14,879 - 00:10:16,579] point, I have to give back to you guys.
+- [00:10:16,579 - 00:10:18,819] And right now, this week, I'm going to
+- [00:10:18,819 - 00:10:21,060] give you the opportunity to join my private
+- [00:10:21,060 - 00:10:22,160] entrepreneur community.
+- [00:10:22,160 - 00:10:23,020] The School of Mentoring.
+- [00:10:23,060 - 00:10:25,249] This is the number one community for
+- [00:10:25,249 - 00:10:27,439] business owners and people trying to self-improve in
+- [00:10:27,439 - 00:10:28,660] the entire world.
+- [00:10:28,660 - 00:10:30,420] And the reason why it's become the number
+- [00:10:30,420 - 00:10:32,180] one community for business owners in the world
+- [00:10:32,180 - 00:10:34,329] is because every single week I bring
+- [00:10:34,329 - 00:10:36,479] in one of the multimillionaires and the billionaires
+- [00:10:36,479 - 00:10:38,769] that I interview on this channel to directly
+- [00:10:38,769 - 00:10:41,060] mentor you and answer all of your questions
+- [00:10:41,060 - 00:10:43,079] on live Zoom calls every single week.
+- [00:10:43,079 - 00:10:44,899] For example, Myron Golden, who we're interviewing right
+- [00:10:44,899 - 00:10:46,719] now, he came in and he mentored our
+- [00:10:46,719 - 00:10:47,719] community.
+- [00:10:47,719 - 00:10:49,780] Guys, Myron made $15 million in a single year.
+- [00:10:49,780 - 00:10:52,599] He taught our community step by step how to sell.
+- [00:10:52,600 - 00:10:54,420] And how to market over a live call.
+- [00:10:54,420 - 00:10:57,050] I've also had billionaires like Steven Klubeck, who
+- [00:10:57,050 - 00:10:59,680] sold his company for $2.2 billion to Hilton.
+- [00:10:59,680 - 00:11:01,720] He taught our company how to start their
+- [00:11:01,720 - 00:11:03,760] business, how to get capital, how to get investment,
+- [00:11:03,760 - 00:11:06,160] and how to grow and eventually sell a company.
+- [00:11:06,160 - 00:11:08,140] You guys, this type of mentorship, you
+- [00:11:08,140 - 00:11:10,120] cannot find anywhere else on the planet.
+- [00:11:10,120 - 00:11:12,260] And since we hit a million subscribers for
+- [00:11:12,260 - 00:11:14,400] this week only, you can join my community
+- [00:11:14,400 - 00:11:16,380] at the lowest rate, the
+- [00:11:16,380 - 00:11:18,360] lowest price it has ever been.
+- [00:11:18,360 - 00:11:20,280] At $30 a month, you guys.
+- [00:11:20,280 - 00:11:21,130] You cannot get mentored
+- [00:11:21,130 - 00:11:21,980] from multimillionaires or billionaires.
+- [00:11:21,980 - 00:11:23,560] You can get mentored from a multi-millionaire or
+- [00:11:23,560 - 00:11:25,140] a billionaire every week at a more affordable
+- [00:11:25,140 - 00:11:26,140] rate.
+- [00:11:26,140 - 00:11:27,140] So come in and join the community.
+- [00:11:27,140 - 00:11:28,140] Come in and get mentored
+- [00:11:28,140 - 00:11:29,140] from a multi-millionaire or a billionaire.
+- [00:11:29,140 - 00:11:30,840] But I want to go even beyond that.
+- [00:11:30,840 - 00:11:32,600] For somebody that joins the community this week,
+- [00:11:32,600 - 00:11:34,360] you will be entered in to win one of
+- [00:11:34,360 - 00:11:36,020] these three prizes.
+- [00:11:36,020 - 00:11:38,640] Starting with this, a free live
+- [00:11:38,640 - 00:11:41,260] one-on-one call with a multiple eight-figure entrepreneur,
+- [00:11:41,260 - 00:11:43,130] where you can ask your question to a
+- [00:11:43,130 - 00:11:45,000] business owner whose business is doing multiple eight
+- [00:11:45,000 - 00:11:46,000] figures a year.
+- [00:11:46,000 - 00:11:48,400] I'm also going to be giving away free lifetime
+- [00:11:48,400 - 00:11:50,800] access to one of the members that joined this
+- [00:11:50,800 - 00:11:51,800] week.
+- [00:11:51,980 - 00:11:54,190] You will get free live calls every
+- [00:11:54,190 - 00:11:56,400] single week with the multimillionaires and the billionaires
+- [00:11:56,400 - 00:11:58,180] that I interview on this channel.
+- [00:11:58,180 - 00:11:59,930] And lastly, I'm going to be giving away a
+- [00:11:59,930 - 00:12:01,680] free trip to one of the members that joined
+- [00:12:01,680 - 00:12:04,140] this week to come and shoot content
+- [00:12:04,140 - 00:12:06,600] with me and meet several multimillionaires and billionaires
+- [00:12:06,600 - 00:12:08,320] in one of the next cities that I film in.
+- [00:12:08,320 - 00:12:09,970] So you do not want to miss this opportunity
+- [00:12:09,970 - 00:12:11,620] to join and become a member of the number
+- [00:12:11,620 - 00:12:14,940] one community for business owners in the entire world.
+- [00:12:14,940 - 00:12:16,540] All you have to do to join is go
+- [00:12:16,540 - 00:12:18,140] down to the link in the description of this video.
+- [00:12:18,140 - 00:12:19,140] I can't wait to see you
+- [00:12:19,140 - 00:12:20,140] on the inside of my community.
+- [00:12:20,140 - 00:12:21,140] The School of Mentors.
+- [00:12:21,140 - 00:12:22,690] But with that being said,
+- [00:12:22,690 - 00:12:24,240] let's get back to the video.
+- [00:12:24,240 - 00:12:25,350] So how can somebody get in the room
+- [00:12:25,350 - 00:12:26,460] if they don't have a lot of credibility?
+- [00:12:26,460 - 00:12:28,199] You pay to be in the room.
+- [00:12:28,199 - 00:12:29,640] You buy your way into the room, right?
+- [00:12:29,640 - 00:12:30,640] And you get paid on
+- [00:12:30,640 - 00:12:31,640] the way out of the room.
+- [00:12:31,640 - 00:12:33,720] I joined a mastermind 10 years ago, actually,
+- [00:12:33,720 - 00:12:35,800] and I was the brokest person in that mastermind,
+- [00:12:35,800 - 00:12:36,800] right?
+- [00:12:36,800 - 00:12:38,910] I was just like, I talked him into letting
+- [00:12:38,910 - 00:12:41,020] me do a special payment plan because I wanted
+- [00:12:41,020 - 00:12:42,020] to be in the program.
+- [00:12:42,020 - 00:12:44,050] And everybody in that mastermind acted like my
+- [00:12:44,050 - 00:12:46,080] ideas were the best ideas they'd ever heard.
+- [00:12:46,080 - 00:12:48,090] And so eventually what that caused me to realize
+- [00:12:48,090 - 00:12:50,100] is I had been selling to the wrong people
+- [00:12:50,100 - 00:12:51,100] my whole life.
+- [00:12:51,140 - 00:12:52,270] I was selling to the people who needed
+- [00:12:52,270 - 00:12:53,400] it instead of the people who wanted it.
+- [00:12:53,400 - 00:12:54,400] That's one.
+- [00:12:54,400 - 00:12:55,880] And then a lot of those people later
+- [00:12:55,880 - 00:12:57,360] became my clients, even though I wasn't in there
+- [00:12:57,360 - 00:12:58,360] sniping.
+- [00:12:58,360 - 00:12:59,470] They just became my clients because they
+- [00:12:59,470 - 00:13:00,580] wanted to learn the stuff I knew.
+- [00:13:00,580 - 00:13:01,380] But I didn't even realize the
+- [00:13:01,380 - 00:13:02,180] value of the stuff I knew.
+- [00:13:02,180 - 00:13:03,749] I only thought people who came from where I
+- [00:13:03,749 - 00:13:05,319] was coming from saw value in the stuff I
+- [00:13:05,319 - 00:13:06,319] knew.
+- [00:13:06,319 - 00:13:07,889] I didn't realize people who were way ahead
+- [00:13:07,889 - 00:13:09,460] of me, like financially, would see value in
+- [00:13:09,460 - 00:13:10,620] the ideas that I had.
+- [00:13:10,620 - 00:13:12,130] And so learning to sell to the right
+- [00:13:12,130 - 00:13:13,640] people, one of the most valuable things I've ever
+- [00:13:13,640 - 00:13:14,640] done.
+- [00:13:14,640 - 00:13:15,440] How do you identify the right
+- [00:13:15,440 - 00:13:16,240] market to go into and sell to?
+- [00:13:16,240 - 00:13:17,970] A lot of people, they get shiny object
+- [00:13:17,970 - 00:13:19,700] syndrome where they say, oh, this and that.
+- [00:13:19,700 - 00:13:21,140] How do you identify the right market?
+- [00:13:21,140 - 00:13:21,640] How do you identify the right
+- [00:13:21,640 - 00:13:22,140] market to go in and sell?
+- [00:13:22,140 - 00:13:23,960] Well, it depends on what your objective is.
+- [00:13:23,960 - 00:13:25,630] So one of the things I learned a long time
+- [00:13:25,630 - 00:13:27,300] ago is if you want to get rich, sell to rich
+- [00:13:27,300 - 00:13:28,380] people, right?
+- [00:13:28,380 - 00:13:29,380] Sell to people with money.
+- [00:13:29,380 - 00:13:30,380] Why?
+- [00:13:30,380 - 00:13:31,640] Because they have the money to buy the stuff and
+- [00:13:31,640 - 00:13:32,900] it's easy to get them to pay for it because
+- [00:13:32,900 - 00:13:33,900] they have the money.
+- [00:13:33,900 - 00:13:34,900] Okay, so cool.
+- [00:13:34,900 - 00:13:36,880] When I think about the right people, I
+- [00:13:36,880 - 00:13:38,860] make my messaging so that it attracts the right
+- [00:13:38,860 - 00:13:40,100] people, repels the wrong people.
+- [00:13:40,100 - 00:13:41,649] Like a lot of people, the last thing
+- [00:13:41,649 - 00:13:43,199] they tell you when they're attempting to sell you
+- [00:13:43,199 - 00:13:44,620] something is the price.
+- [00:13:44,620 - 00:13:46,040] Because the stuff I sell,
+- [00:13:46,040 - 00:13:47,460] my coaching is $40,000 an hour.
+- [00:13:47,460 - 00:13:48,780] My mentorship programs, my masterminds,
+- [00:13:48,780 - 00:13:50,100] they range from $20,000 to $30,000.
+- [00:13:50,100 - 00:13:51,100] They're all free.
+- [00:13:51,100 - 00:13:52,240] I can sell $27,000 all the way
+- [00:13:52,240 - 00:13:53,380] up to a million dollars a year.
+- [00:13:53,380 - 00:13:55,180] And so I put that out there up front.
+- [00:13:55,180 - 00:13:56,980] So the people who I'm not for know I'm not
+- [00:13:56,980 - 00:13:58,780] for them and they don't bother me and I don't
+- [00:13:58,780 - 00:13:59,780] bother them.
+- [00:13:59,780 - 00:14:00,780] Everybody's happy.
+- [00:14:00,780 - 00:14:02,110] So you said you got to solve expensive
+- [00:14:02,110 - 00:14:03,440] problems because would you agree that it's the same
+- [00:14:03,440 - 00:14:06,980] stress to go after $5,000 problems as $100,000 problems?
+- [00:14:06,980 - 00:14:08,660] Yeah, it requires the same level of
+- [00:14:08,660 - 00:14:10,340] energy is how I would describe it.
+- [00:14:10,340 - 00:14:12,100] It takes no more energy to sell
+- [00:14:12,100 - 00:14:13,860] a million dollar program, million dollar offer than
+- [00:14:13,860 - 00:14:15,600] it does to sell a thousand dollar offer.
+- [00:14:15,600 - 00:14:16,900] You're just selling it to a different person.
+- [00:14:16,900 - 00:14:18,250] If a person's ready to buy, they're
+- [00:14:18,250 - 00:14:19,600] ready to buy what they're ready to buy.
+- [00:14:19,600 - 00:14:21,100] So how do you get money from a rich person?
+- [00:14:21,100 - 00:14:23,700] See, I don't see selling as getting money from people.
+- [00:14:23,700 - 00:14:25,600] I see it as delivering value to them.
+- [00:14:25,600 - 00:14:27,190] You get money from them because they
+- [00:14:27,190 - 00:14:28,780] happily pay you because you've solved the problem
+- [00:14:28,780 - 00:14:30,500] they've been struggling with for a long time.
+- [00:14:30,500 - 00:14:31,500] How do you define sales?
+- [00:14:31,500 - 00:14:34,110] I just find sales as uncovering the value of
+- [00:14:34,110 - 00:14:36,720] what I have to offer so well that people
+- [00:14:36,720 - 00:14:38,470] are happy to exchange the money they have
+- [00:14:38,470 - 00:14:40,220] in their pocket for the value I've revealed.
+- [00:14:40,220 - 00:14:41,780] So most people, they think of selling as
+- [00:14:41,780 - 00:14:43,340] talking somebody into buying something you don't want,
+- [00:14:43,340 - 00:14:44,840] don't need and can't afford, right?
+- [00:14:44,840 - 00:14:45,850] Because they don't under, they don't
+- [00:14:45,850 - 00:14:46,860] see selling the way I do.
+- [00:14:46,860 - 00:14:48,240] If somebody says no to their offer, the
+- [00:14:48,240 - 00:14:49,620] first thing they do is lower their price.
+- [00:14:49,620 - 00:14:51,100] But I recommend instead of lowering your price.
+- [00:14:51,100 - 00:14:52,750] Why don't you just raise the value, like
+- [00:14:52,750 - 00:14:54,400] offer them more value and then people will
+- [00:14:54,400 - 00:14:55,400] be happy to pay for it.
+- [00:14:55,400 - 00:14:56,500] And what's the most amount of money
+- [00:14:56,500 - 00:14:57,600] that you made in a single day?
+- [00:14:57,600 - 00:14:59,850] Most amount I've ever made in a single
+- [00:14:59,850 - 00:15:02,100] day, probably five and a half million dollars.
+- [00:15:02,100 - 00:15:05,600] You made five million in a single day?
+- [00:15:05,600 - 00:15:06,600] Yeah.
+- [00:15:06,600 - 00:15:07,600] How?
+- [00:15:07,600 - 00:15:09,460] Well, by making an offer to a group of
+- [00:15:09,460 - 00:15:11,320] people, making a premium value offer to a group of
+- [00:15:11,320 - 00:15:12,320] people.
+- [00:15:12,320 - 00:15:13,320] So you just get the attention and then you just...
+- [00:15:13,320 - 00:15:14,320] Right.
+- [00:15:14,320 - 00:15:15,710] What you garner the attention over time, but
+- [00:15:15,710 - 00:15:17,100] what you do is you develop a relationship.
+- [00:15:17,100 - 00:15:19,100] Like if people are going to pay you
+- [00:15:19,100 - 00:15:21,100] 55,000, for instance, they have a relationship with
+- [00:15:21,100 - 00:15:22,630] you generally on some level, at
+- [00:15:22,630 - 00:15:24,160] least in their minds they do.
+- [00:15:24,160 - 00:15:25,490] You don't walk up to a girl
+- [00:15:25,490 - 00:15:26,820] and say, hi, my name is James.
+- [00:15:26,820 - 00:15:27,820] Will you marry me?
+- [00:15:27,820 - 00:15:28,820] Right?
+- [00:15:28,820 - 00:15:29,370] If you ask her that, she's
+- [00:15:29,370 - 00:15:29,920] going to be scared and say no.
+- [00:15:29,920 - 00:15:31,000] She's not scared and say no,
+- [00:15:31,000 - 00:15:32,080] you should be scared and run away.
+- [00:15:32,080 - 00:15:33,860] You build that rapport and that trust over time.
+- [00:15:33,860 - 00:15:34,860] Over time.
+- [00:15:34,860 - 00:15:35,860] Yeah.
+- [00:15:35,860 - 00:15:36,860] With people.
+- [00:15:36,860 - 00:15:37,690] Like Frank Kern says, prove to people that
+- [00:15:37,690 - 00:15:38,520] you can help them by actually helping them.
+- [00:15:38,520 - 00:15:40,120] And so that's one of the things that
+- [00:15:40,120 - 00:15:41,720] you do with your School of Hard Knocks channel.
+- [00:15:41,720 - 00:15:42,720] That's one of the things
+- [00:15:42,720 - 00:15:43,720] I do with my YouTube channel.
+- [00:15:43,720 - 00:15:44,880] I prove to people that I
+- [00:15:44,880 - 00:15:46,040] can help them by actually helping them.
+- [00:15:46,040 - 00:15:47,220] People say in their comments on my YouTube
+- [00:15:47,220 - 00:15:48,400] channel all the time, I can't believe this
+- [00:15:48,400 - 00:15:49,630] guy does this much, gives
+- [00:15:49,630 - 00:15:50,860] us this much value for free.
+- [00:15:50,860 - 00:15:52,050] But it's not really free because they
+- [00:15:52,050 - 00:15:53,240] have to pay for it with their attention.
+- [00:15:53,240 - 00:15:54,420] And here's what I've discovered.
+- [00:15:54,420 - 00:15:55,980] People pay you long enough with their
+- [00:15:55,980 - 00:15:57,540] attention, they'll eventually pay you with their assets.
+- [00:15:57,540 - 00:15:58,540] Wow.
+- [00:15:58,540 - 00:15:59,540] Which means that they'll invest in you.
+- [00:15:59,540 - 00:16:02,240] They'll invest in themselves through you.
+- [00:16:02,240 - 00:16:03,910] Now, when I first interviewed you, I asked you
+- [00:16:03,910 - 00:16:05,580] if you believed in God and you said, I
+- [00:16:05,580 - 00:16:06,580] don't just believe in God.
+- [00:16:06,580 - 00:16:07,580] I believe in God.
+- [00:16:07,580 - 00:16:08,580] I trust God.
+- [00:16:08,580 - 00:16:09,580] Yeah.
+- [00:16:09,580 - 00:16:10,580] How did you find that trust in God?
+- [00:16:10,580 - 00:16:11,580] Why do you trust God?
+- [00:16:11,580 - 00:16:12,580] Because he's never lied to me.
+- [00:16:12,580 - 00:16:13,500] But then again, he's never lied
+- [00:16:13,500 - 00:16:14,420] to anyone because God cannot lie.
+- [00:16:14,420 - 00:16:16,670] I trust God because he's proven to me
+- [00:16:16,670 - 00:16:18,920] over and over and over again that everything he
+- [00:16:18,920 - 00:16:20,860] says in his word, which I believe is the Bible.
+- [00:16:20,860 - 00:16:23,100] It's not just true, but it's truth.
+- [00:16:23,100 - 00:16:24,430] What's a financial lesson from the Bible
+- [00:16:24,430 - 00:16:25,760] that a lot of people do not know?
+- [00:16:25,760 - 00:16:27,120] Does God want people to be rich?
+- [00:16:27,120 - 00:16:28,370] God wants some people to be rich
+- [00:16:28,370 - 00:16:29,620] because God want everybody to be rich.
+- [00:16:29,620 - 00:16:31,860] I don't think God has the same plan for everybody.
+- [00:16:31,860 - 00:16:33,480] That's why everybody's a different person because
+- [00:16:33,480 - 00:16:35,100] he's got a different purpose for everybody.
+- [00:16:35,100 - 00:16:37,410] I do believe that it's God's design for his
+- [00:16:37,410 - 00:16:39,720] children to be rich, but I believe that God
+- [00:16:39,720 - 00:16:42,000] also has exceptions to his own rules.
+- [00:16:42,000 - 00:16:44,360] And so some people, they have a different assignment.
+- [00:16:44,360 - 00:16:46,270] Now I can't tell you whether or not God wants
+- [00:16:46,270 - 00:16:48,180] you to be rich, but I can tell you there's
+- [00:16:48,180 - 00:16:49,140] no doubt in my mind that
+- [00:16:49,140 - 00:16:50,100] he wants me to be rich.
+- [00:16:50,100 - 00:16:50,860] Because if he didn't.
+- [00:16:50,860 - 00:16:52,170] He wouldn't have shown me
+- [00:16:52,170 - 00:16:53,480] the principles that made me rich.
+- [00:16:53,480 - 00:16:55,110] And so you say, what's a principle in
+- [00:16:55,110 - 00:16:56,740] the Bible that can help people be rich?
+- [00:16:56,740 - 00:16:58,590] Well, it says the blessing of the Lord, it
+- [00:16:58,590 - 00:17:00,440] maketh rich and he addeth no sorrow with it.
+- [00:17:00,440 - 00:17:01,440] He who will be greatest among
+- [00:17:01,440 - 00:17:02,440] you, let him be servant of all.
+- [00:17:02,440 - 00:17:04,460] One of the things I found out in business
+- [00:17:04,460 - 00:17:06,480] is you can be great even if you're not good,
+- [00:17:06,480 - 00:17:08,240] if you're willing to serve enough people,
+- [00:17:08,240 - 00:17:10,000] because greatness is your ability to serve
+- [00:17:10,000 - 00:17:11,000] the masses.
+- [00:17:11,000 - 00:17:12,000] How old are you now?
+- [00:17:12,000 - 00:17:13,000] I am 63.
+- [00:17:13,000 - 00:17:14,000] I'll be 64 in two months.
+- [00:17:14,000 - 00:17:15,420] What has God been teaching you in the last year?
+- [00:17:15,420 - 00:17:16,819] Man, there's so much.
+- [00:17:16,819 - 00:17:19,180] What has God been teaching me in the last year?
+- [00:17:19,180 - 00:17:20,780] That life is short.
+- [00:17:20,780 - 00:17:21,929] And even if you live
+- [00:17:21,929 - 00:17:23,079] to be 100, life is short.
+- [00:17:23,079 - 00:17:25,419] So love the people you love and don't
+- [00:17:25,419 - 00:17:27,760] just repeat the same experience over and over.
+- [00:17:27,760 - 00:17:29,700] Pack your life with life experiences.
+- [00:17:29,700 - 00:17:31,260] Pack every day with life experiences.
+- [00:17:31,260 - 00:17:33,100] Live every day with gratitude in your heart.
+- [00:17:33,100 - 00:17:34,100] Greatest lesson?
+- [00:17:34,100 - 00:17:35,740] Everything good in my life is a gift.
+- [00:17:35,740 - 00:17:36,740] That's the greatest lesson.
+- [00:17:36,740 - 00:17:38,090] I woke up this morning and I opened
+- [00:17:38,090 - 00:17:39,440] my eyes and guess what I could do?
+- [00:17:39,440 - 00:17:40,440] I could see.
+- [00:17:40,440 - 00:17:41,669] And I know how to make myself look,
+- [00:17:41,669 - 00:17:42,899] but I don't know how to make myself see.
+- [00:17:42,899 - 00:17:44,420] You've got amazing advice, my friend.
+- [00:17:44,420 - 00:17:45,420] Thank you, brother.
+- [00:17:45,420 - 00:17:46,420] Thank you so much for your time.
+- [00:17:46,420 - 00:17:47,420] I appreciate you letting us come out here.
+- [00:17:48,420 - 00:17:49,420] This is excellent.
+- [00:17:49,420 - 00:17:50,420] Where can everybody find you at?
+- [00:17:50,420 - 00:17:50,620] You can find me on my website, MyronGolden.com.
+- [00:17:50,780 - 00:17:52,540] Or on YouTube, Myron Golden.
+- [00:17:52,540 - 00:17:54,100] Or if you want to follow up my
+- [00:17:54,100 - 00:17:55,660] Bible study, Bible Study with Myron Golden on YouTube.
+- [00:17:55,660 - 00:17:57,600] Guys, that's a wrap on today's video.
+- [00:17:57,600 - 00:17:59,120] This one was incredible.
+- [00:17:59,120 - 00:18:02,020] Myron dropped so many gems for you guys.
+- [00:18:02,020 - 00:18:03,829] So I need you guys to like and
+- [00:18:03,829 - 00:18:05,639] subscribe for amazing content we've got coming every single
+- [00:18:05,639 - 00:18:07,509] week because I'm going all over the
+- [00:18:07,509 - 00:18:09,379] world to interview the most successful people in
+- [00:18:09,379 - 00:18:11,580] the entire world for you.
+- [00:18:11,580 - 00:18:13,920] As I mentioned earlier, if you are not
+- [00:18:13,920 - 00:18:16,260] a member of my entrepreneur community, the School of
+- [00:18:16,260 - 00:18:18,340] Mentors, the number one community for business
+- [00:18:18,340 - 00:18:20,420] owners in the entire world, you are missing
+- [00:18:20,420 - 00:18:20,540] out.
+- [00:18:20,780 - 00:18:22,450] Because every single week inside of
+- [00:18:22,450 - 00:18:24,120] this community, I bring in the multi-millionaires
+- [00:18:24,120 - 00:18:26,920] and the billionaires that I interview to mentor you.
+- [00:18:26,920 - 00:18:28,890] So if you want your life to change by
+- [00:18:28,890 - 00:18:30,860] getting around the most successful people in the world,
+- [00:18:30,860 - 00:18:32,940] come become a member and join the community today.
+- [00:18:32,940 - 00:18:34,260] All you have to do is go down
+- [00:18:34,260 - 00:18:35,580] to the link in the description of this video.
+- [00:18:35,580 - 00:18:36,530] I can't wait to see you
+- [00:18:36,530 - 00:18:37,480] on the inside of the community.
+- [00:18:37,480 - 00:18:39,220] With that being said, see you in the next video.
