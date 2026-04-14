@@ -1,0 +1,38 @@
+{
+  "course_rel": "lazyearn/yale-financial-markets",
+  "transcript_rel": "lazyearn/yale-financial-markets/013 - 13. Banks [1mDL1fKEVZM].md",
+  "video_rel": "lazyearn/yale-financial-markets/013 - 13. Banks [1mDL1fKEVZM].webm",
+  "lecture_number": 13,
+  "lecture_slug": "lecture_13",
+  "lecture_title": "13. Banks",
+  "assets": [
+    {
+      "name": "lecture_13_figure_02.png",
+      "timestamp_seconds": 1601.81,
+      "timestamp_hhmmss": "00:26:41.810",
+      "source_candidate": "lecture_13_window_03_candidate_03_002641810.png",
+      "recommended_use": "screenshot_plus_equation",
+      "rationale": "This frame gives the clearest view of the chalkboard keywords while keeping the lecturer's gesture aligned with the phrase \"Bank run.\" The main board text is complete and legible, and the lecturer occludes less of the useful writing than in the other candidates. It is the strongest documentary frame for this lecture moment because it captures the conceptual layout that connects the Diamond-Dybvig model to multiple equilibria and bank runs.",
+      "subtitle_excerpt": "transactions.",
+      "segment_start_seconds": 1600.96,
+      "segment_start_hhmmss": "00:26:40.960",
+      "segment_end_seconds": 1602.46,
+      "segment_end_hhmmss": "00:26:42.460",
+      "caption_hint": "Diamond-Dybvig and bank-run equilibrium"
+    },
+    {
+      "name": "lecture_13_figure_03.png",
+      "timestamp_seconds": 2301.2,
+      "timestamp_hhmmss": "00:38:21.200",
+      "source_candidate": "lecture_13_window_04_candidate_01_003821200.png",
+      "recommended_use": "screenshot_only",
+      "rationale": "This frame gives the most complete and readable view of the chalkboard context while keeping the lecturer from obscuring the key labels. It preserves the right-side institutional example \"Northern Rock\" and enough of the left-side crisis notes to support note writing. The later frames are similar but either shift the lecturer into more of the writing or reduce the clarity of the board text.",
+      "subtitle_excerpt": "And then newspaper photographers photographed",
+      "segment_start_seconds": 2300.96,
+      "segment_start_hhmmss": "00:38:20.960",
+      "segment_end_seconds": 2302.96,
+      "segment_end_hhmmss": "00:38:22.960",
+      "caption_hint": "Northern Rock and S\\&L crisis board notes"
+    }
+  ]
+}
