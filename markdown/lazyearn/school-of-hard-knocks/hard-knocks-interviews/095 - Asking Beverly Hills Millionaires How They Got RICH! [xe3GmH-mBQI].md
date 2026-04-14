@@ -1,0 +1,535 @@
+# Transcript
+
+Source: lazyearn/school-of-hard-knocks/hard-knocks-interviews/095 - Asking Beverly Hills Millionaires How They Got RICH! [xe3GmH-mBQI].webm
+
+- [00:00:00,000 - 00:00:01,360] Excuse me, sir. Quick question for
+- [00:00:01,360 - 00:00:02,720] you, man. Is this your Lamborghini?
+- [00:00:02,860 - 00:00:03,280] Yeah, it is.
+- [00:00:03,360 - 00:00:04,580] What do you do for a living, man? How are
+- [00:00:04,580 - 00:00:05,800] you able to afford a Lamborghini out in Los Angeles?
+- [00:00:06,100 - 00:00:07,360] Finance. So I'm in private equity.
+- [00:00:07,540 - 00:00:09,700] I went into the entertainment industry. Full on.
+- [00:00:09,900 - 00:00:12,820] I have some of the highest paid people that
+- [00:00:12,820 - 00:00:15,740] have ever made the biggest network deals in reality TV.
+- [00:00:15,920 - 00:00:17,360] I own a law firm in Los Angeles.
+- [00:00:17,620 - 00:00:18,870] What's been the most amount of money
+- [00:00:18,870 - 00:00:20,120] that you've ever generated in a single year?
+- [00:00:20,240 - 00:00:21,080] Multiple millions, yeah.
+- [00:00:21,220 - 00:00:22,120] Oh, over five million.
+- [00:00:22,680 - 00:00:23,840] Well, we're not going to say
+- [00:00:23,840 - 00:00:25,000] that number, but it's in the millions.
+- [00:00:25,200 - 00:00:27,200] Back in 2017 or 18, they told
+- [00:00:27,200 - 00:00:29,200] me they don't even use my figures
+- [00:00:29,200 - 00:00:30,460] because I was doing more
+- [00:00:30,460 - 00:00:31,720] business than anyone in Beverly Hills.
+- [00:00:31,900 - 00:00:33,440] I have over $20 million in
+- [00:00:33,440 - 00:00:34,980] cars now, and it doesn't even matter.
+- [00:00:35,140 - 00:00:37,480] I'd rather drive a Kia and be your age again.
+- [00:00:37,560 - 00:00:38,840] What has been the most amount of money
+- [00:00:38,840 - 00:00:40,120] that you've ever made in a single year?
+- [00:00:42,720 - 00:00:44,560] Los Angeles is the number six city
+- [00:00:44,560 - 00:00:46,400] in the entire world with the most millionaires.
+- [00:00:46,519 - 00:00:48,229] Today, we're going to be going all
+- [00:00:48,229 - 00:00:49,940] over the entire city asking these multimillionaires
+- [00:00:49,940 - 00:00:52,089] how they created their wealth and how you can
+- [00:00:52,089 - 00:00:54,239] start your path to becoming financially free in 2023.
+- [00:00:59,200 - 00:01:04,099] What industry did you decide to pursue a career in?
+- [00:01:04,220 - 00:01:04,580] Finance.
+- [00:01:04,760 - 00:01:05,540] So I'm in private equity.
+- [00:01:05,700 - 00:01:06,580] And what was the turning
+- [00:01:06,580 - 00:01:07,460] point like getting into that business?
+- [00:01:07,540 - 00:01:08,140] Did you always know that
+- [00:01:08,140 - 00:01:08,740] you were going to do that?
+- [00:01:08,900 - 00:01:10,260] No, it was pretty scary.
+- [00:01:10,440 - 00:01:12,340] I spent probably about six years
+- [00:01:12,340 - 00:01:14,240] in isolation to break into investment banking.
+- [00:01:14,240 - 00:01:16,360] Grew up homeless, first-generation college student.
+- [00:01:16,540 - 00:01:17,500] Dad left when I was two.
+- [00:01:17,640 - 00:01:20,100] At the turning point when I was 18, my
+- [00:01:20,100 - 00:01:22,560] mom actually had some mental struggles and battles with suicide,
+- [00:01:22,780 - 00:01:24,290] and I decided that I wanted to roll up
+- [00:01:24,290 - 00:01:25,800] my sleeves and go play with the big boys.
+- [00:01:25,940 - 00:01:27,560] And so I graduated from the number
+- [00:01:27,560 - 00:01:29,180] one business school in the world, Wharton.
+- [00:01:29,340 - 00:01:30,750] Now I'm in finance doing private equity,
+- [00:01:30,750 - 00:01:32,160] and it's been a dream come true.
+- [00:01:32,300 - 00:01:33,040] That's incredible, man.
+- [00:01:33,040 - 00:01:33,380] Seriously.
+- [00:01:33,580 - 00:01:34,220] So let me ask you this.
+- [00:01:34,220 - 00:01:35,790] As someone who's in private equity, right, when it
+- [00:01:35,790 - 00:01:37,360] comes to the way that people look at money,
+- [00:01:37,440 - 00:01:38,620] what would you say is the number
+- [00:01:38,620 - 00:01:39,800] one thing that separates the middle class
+- [00:01:39,800 - 00:01:40,890] and those who end up
+- [00:01:40,890 - 00:01:41,980] really acquiring and building that wealth?
+- [00:01:42,080 - 00:01:42,640] Risk aversion.
+- [00:01:42,640 - 00:01:44,980] If you look at the top Forbes list,
+- [00:01:44,980 - 00:01:47,320] like the top 500, about 83% of that list,
+- [00:01:47,420 - 00:01:48,610] they were willing to go to
+- [00:01:48,610 - 00:01:49,800] negative $3 million before hitting it big.
+- [00:01:49,960 - 00:01:51,550] And so the risk appetite to actually
+- [00:01:51,550 - 00:01:53,140] kick it up to the next level,
+- [00:01:53,240 - 00:01:54,650] I think is something that a lot of
+- [00:01:54,650 - 00:01:56,060] people need to take into perspective when they say,
+- [00:01:56,160 - 00:01:56,840] you know, I want to win.
+- [00:01:57,020 - 00:01:58,090] What's been the most amount of money
+- [00:01:58,090 - 00:01:59,160] that you've ever made in a single year?
+- [00:01:59,360 - 00:02:00,220] Multiple millions, yeah.
+- [00:02:00,300 - 00:02:02,060] What would you say is the best financial
+- [00:02:02,060 - 00:02:03,820] advice that you ever received throughout your lifetime?
+- [00:02:03,980 - 00:02:05,120] Bet big and lose early.
+- [00:02:05,240 - 00:02:07,450] Don't worry about how much money you're making
+- [00:02:07,450 - 00:02:09,660] on a single transaction or a single investment.
+- [00:02:09,840 - 00:02:11,880] In your younger years, it's all about developing a playbook.
+- [00:02:11,880 - 00:02:13,160] And so you got to be willing to
+- [00:02:13,160 - 00:02:14,440] lose just as bad as you're willing to win.
+- [00:02:14,520 - 00:02:15,710] When you take L's, it's
+- [00:02:15,710 - 00:02:16,900] not about like the L itself.
+- [00:02:17,000 - 00:02:18,390] It's like, how can I adjust my playbook
+- [00:02:18,390 - 00:02:19,780] so I never have to take the L again?
+- [00:02:19,900 - 00:02:21,260] You do that, you'll have a lot more wins.
+- [00:02:21,420 - 00:02:22,020] Great interview, man.
+- [00:02:22,040 - 00:02:22,620] You crushed that.
+- [00:02:22,700 - 00:02:23,200] Seriously, man.
+- [00:02:23,220 - 00:02:23,920] I appreciate you.
+- [00:02:23,940 - 00:02:25,370] That has got to be one of
+- [00:02:25,370 - 00:02:26,800] the most wholesome interviews that I've ever done.
+- [00:02:26,880 - 00:02:28,700] He went from living in poverty and being homeless
+- [00:02:28,700 - 00:02:30,359] to creating millions of dollars worth
+- [00:02:30,359 - 00:02:32,019] of wealth in the private equity industry.
+- [00:02:32,179 - 00:02:33,200] And I love what he said.
+- [00:02:33,280 - 00:02:34,979] The most successful people are willing
+- [00:02:34,979 - 00:02:36,679] to risk it all to be successful
+- [00:02:36,679 - 00:02:38,019] and create millions of dollars in wealth.
+- [00:02:38,079 - 00:02:38,809] That's the only way you're going
+- [00:02:38,809 - 00:02:39,540] to be able to make it.
+- [00:02:39,540 - 00:02:40,239] Shout out to him.
+- [00:02:40,359 - 00:02:41,100] Gave a great interview.
+- [00:02:41,239 - 00:02:42,440] And let's go get this next one.
+- [00:02:42,600 - 00:02:44,780] What industry did you decide to pursue a career in?
+- [00:02:44,880 - 00:02:45,869] Well, I'm not going to tell
+- [00:02:45,869 - 00:02:46,859] you the industry that I was in.
+- [00:02:46,940 - 00:02:48,589] I'm just going to tell you that
+- [00:02:48,589 - 00:02:50,239] in order to be successful in life,
+- [00:02:50,299 - 00:02:52,140] especially in this country, opportunity.
+- [00:02:52,320 - 00:02:54,160] When someone gives you the opportunity,
+- [00:02:54,160 - 00:02:56,000] take it and run with it.
+- [00:02:56,260 - 00:02:57,799] Nobody dies from hard work.
+- [00:02:57,800 - 00:02:59,680] And nobody dies from working
+- [00:02:59,680 - 00:03:01,560] 16, 18 hours a day, seven.
+- [00:03:01,980 - 00:03:03,700] When I was young, your age,
+- [00:03:03,700 - 00:03:05,420] I wanted to have a Lamborghini.
+- [00:03:05,620 - 00:03:07,320] And I thought that was going to
+- [00:03:07,320 - 00:03:09,020] be the greatest thing, achievement I'll ever have.
+- [00:03:09,140 - 00:03:10,980] I have over $20 million in cars now.
+- [00:03:11,080 - 00:03:12,180] And it doesn't even matter.
+- [00:03:12,320 - 00:03:14,700] I'd rather drive a Kia and be your age again.
+- [00:03:14,700 - 00:03:16,150] Because now I can be the
+- [00:03:16,150 - 00:03:17,600] president of the United States and beyond.
+- [00:03:17,800 - 00:03:19,560] Young people like you, be grateful,
+- [00:03:19,560 - 00:03:21,320] work hard, set your goals high.
+- [00:03:21,420 - 00:03:24,380] Last thing I'm going to tell you, school is fantastic.
+- [00:03:24,580 - 00:03:25,940] But it's only a tool.
+- [00:03:25,940 - 00:03:27,780] It's not the ends to all.
+- [00:03:28,160 - 00:03:30,150] However, you're going to study
+- [00:03:30,150 - 00:03:32,140] anything, study finance and study law.
+- [00:03:32,240 - 00:03:34,280] Not because of anything other
+- [00:03:34,280 - 00:03:36,320] than if you understand numbers,
+- [00:03:36,320 - 00:03:39,220] that is the universal language of the world.
+- [00:03:39,220 - 00:03:41,560] Because you can just sit in your
+- [00:03:41,560 - 00:03:43,900] office and figure everything out with just numbers.
+- [00:03:44,220 - 00:03:45,480] Law, not to be a lawyer.
+- [00:03:45,660 - 00:03:47,740] God forbid anybody be a lawyer or a doctor.
+- [00:03:47,900 - 00:03:48,900] Don't be any of those things.
+- [00:03:48,980 - 00:03:50,060] That's for ordinary people.
+- [00:03:50,160 - 00:03:51,520] What types of businesses did you run?
+- [00:03:51,640 - 00:03:52,940] Like, were you in real estate or like what?
+- [00:03:53,220 - 00:03:53,620] Manufacturing.
+- [00:03:54,080 - 00:03:54,480] Manufacturing.
+- [00:03:54,560 - 00:03:55,550] But if I was to do
+- [00:03:55,550 - 00:03:56,540] it again, I wouldn't do manufacturing.
+- [00:03:56,680 - 00:03:57,300] It's a lot of work.
+- [00:03:58,280 - 00:03:59,200] And a lot of responsibility.
+- [00:03:59,640 - 00:04:01,400] And now I can only imagine if I was
+- [00:04:01,400 - 00:04:03,160] your age and just knew what I was doing.
+- [00:04:03,220 - 00:04:04,780] I was just telling my friend I
+- [00:04:04,780 - 00:04:06,340] could be homeless today right here at 18.
+- [00:04:06,340 - 00:04:09,560] And I could be the Jeff Bezos, Elon Musk
+- [00:04:09,560 - 00:04:12,780] and Bill Gates combined and buy 15 Warren Buffetts.
+- [00:04:12,940 - 00:04:14,240] Because the opportunity is there
+- [00:04:14,240 - 00:04:15,540] for you to go after it.
+- [00:04:15,600 - 00:04:16,420] It really is.
+- [00:04:16,500 - 00:04:17,320] And it's that easy.
+- [00:04:17,480 - 00:04:19,579] And people that think, oh my God, I'm not lucky.
+- [00:04:19,720 - 00:04:20,380] I don't have this.
+- [00:04:20,540 - 00:04:21,459] I wasn't given that.
+- [00:04:21,820 - 00:04:22,180] Bullshit.
+- [00:04:22,260 - 00:04:23,140] Thank you so much for your time.
+- [00:04:23,220 - 00:04:24,020] I really appreciate that.
+- [00:04:24,100 - 00:04:24,780] Have a great day, sir.
+- [00:04:25,640 - 00:04:26,260] All right, you guys.
+- [00:04:26,300 - 00:04:27,620] That was an absolutely insane.
+- [00:04:27,620 - 00:04:29,870] That guy has companies that have generated
+- [00:04:29,870 - 00:04:32,120] hundreds of millions of dollars in the manufacturing
+- [00:04:32,120 - 00:04:32,520] industry.
+- [00:04:32,680 - 00:04:34,290] We stopped him on the corner in Beverly Hills
+- [00:04:34,290 - 00:04:35,900] to get a quick interview and ask him for his
+- [00:04:35,900 - 00:04:37,260] advice for all the entrepreneurs out there.
+- [00:04:37,500 - 00:04:38,220] Gave some great game.
+- [00:04:38,340 - 00:04:39,390] But let's keep this LA video
+- [00:04:39,390 - 00:04:40,440] rolling and go get this next one.
+- [00:04:40,580 - 00:04:41,060] All right, you guys.
+- [00:04:41,140 - 00:04:42,880] We are on Rodeo Drive in
+- [00:04:42,880 - 00:04:44,620] Beverly Hills, Los Angeles at Peter Marco.
+- [00:04:44,820 - 00:04:46,180] But we're about to interview Peter Marco.
+- [00:04:46,280 - 00:04:47,560] He's the owner of this company.
+- [00:04:47,900 - 00:04:49,940] This is a nine, nearly 10 figure business.
+- [00:04:50,120 - 00:04:51,680] And he's worth hundreds of millions of dollars.
+- [00:04:51,800 - 00:04:53,480] We're going to ask him the secret to creating
+- [00:04:53,480 - 00:04:55,160] wealth as a business owner and one of the
+- [00:04:55,160 - 00:04:56,840] most competitive cities in the entire world.
+- [00:04:56,840 - 00:04:57,600] Let's see what he has to say.
+- [00:04:57,620 - 00:04:59,840] What industry did you decide to pursue a career?
+- [00:05:00,120 - 00:05:00,800] Topless dancing.
+- [00:05:00,960 - 00:05:01,600] But I failed.
+- [00:05:01,960 - 00:05:03,360] So I used to be a male dancer.
+- [00:05:03,640 - 00:05:04,540] Then that didn't work.
+- [00:05:04,600 - 00:05:06,180] So I figured I'd get involved in the jewelry business.
+- [00:05:06,280 - 00:05:07,080] That's a joke, by the way.
+- [00:05:07,180 - 00:05:08,580] How long have you been an entrepreneur for?
+- [00:05:08,900 - 00:05:10,340] So I started in the jewelry business
+- [00:05:10,340 - 00:05:11,780] when I was about 15 years old.
+- [00:05:11,860 - 00:05:12,720] I'm 62 now.
+- [00:05:12,840 - 00:05:14,860] So it's been a lifetime career, 47 years.
+- [00:05:15,040 - 00:05:16,070] And at 15, you don't really
+- [00:05:16,070 - 00:05:17,100] know what you want to be.
+- [00:05:17,200 - 00:05:18,020] I grew up in New York.
+- [00:05:18,100 - 00:05:19,640] And you kind of just go with the flow.
+- [00:05:19,780 - 00:05:21,520] Things were like falling into place for me.
+- [00:05:21,560 - 00:05:22,520] And I kind of rolled with it.
+- [00:05:22,600 - 00:05:23,860] Where did the passion come from with jewelry?
+- [00:05:24,060 - 00:05:25,720] So I am the first one in my family.
+- [00:05:25,720 - 00:05:27,300] I came from a single family.
+- [00:05:27,620 - 00:05:28,260] No father.
+- [00:05:28,420 - 00:05:29,670] Since I was four years old, grew
+- [00:05:29,670 - 00:05:30,920] up on the streets of New York.
+- [00:05:31,040 - 00:05:32,660] And there was no direction or guidance.
+- [00:05:32,880 - 00:05:35,090] I just got a break when I was 15
+- [00:05:35,090 - 00:05:37,300] to clean bathrooms for a jewelry company in Manhattan.
+- [00:05:37,500 - 00:05:39,220] And then they hired me to be a messenger boy.
+- [00:05:39,320 - 00:05:40,460] And then I was promoted to a
+- [00:05:40,460 - 00:05:41,600] jeweler and a setter and a polisher.
+- [00:05:41,860 - 00:05:43,270] And then I traveled the whole
+- [00:05:43,270 - 00:05:44,680] world for them for like 25 years.
+- [00:05:44,860 - 00:05:46,720] I did Europe, Asia, Canada, Cayman Islands,
+- [00:05:46,720 - 00:05:48,580] Caribbean, the whole United States with a
+- [00:05:48,580 - 00:05:49,820] bag of jewelry worth $3 million.
+- [00:05:50,260 - 00:05:51,890] And when you start making money and you're
+- [00:05:51,890 - 00:05:53,520] a poor kid, that kind of motivates you and
+- [00:05:53,520 - 00:05:53,940] drives you.
+- [00:05:54,000 - 00:05:55,380] So I really didn't know what I wanted to do.
+- [00:05:55,380 - 00:05:56,480] I wasn't college material.
+- [00:05:56,600 - 00:05:57,560] I wasn't school material.
+- [00:05:57,620 - 00:05:59,220] I couldn't wait to get out of high school.
+- [00:05:59,320 - 00:06:00,340] I barely made it through it.
+- [00:06:00,380 - 00:06:01,510] But then you give the guy
+- [00:06:01,510 - 00:06:02,640] the football and he runs with it.
+- [00:06:02,640 - 00:06:03,420] He doesn't look back.
+- [00:06:03,480 - 00:06:04,560] And that's kind of what happened.
+- [00:06:04,800 - 00:06:06,200] What has been the most amount of money
+- [00:06:06,200 - 00:06:07,600] that you've ever generated in a single year for
+- [00:06:07,600 - 00:06:08,020] your company?
+- [00:06:08,160 - 00:06:09,040] I wouldn't disclose that.
+- [00:06:09,200 - 00:06:09,260] Okay.
+- [00:06:09,360 - 00:06:11,900] But I will tell you that, humbly speaking,
+- [00:06:11,900 - 00:06:14,440] because this is Rodeo Drive in Beverly Hills,
+- [00:06:14,540 - 00:06:15,910] there's many committees here because
+- [00:06:15,910 - 00:06:17,280] of the tourism and everything.
+- [00:06:17,380 - 00:06:18,540] They keep record of everything.
+- [00:06:18,780 - 00:06:21,300] And back in 2017 or 18, they told me
+- [00:06:21,300 - 00:06:23,820] they don't even use my figures because I was doing
+- [00:06:23,820 - 00:06:25,420] more business than anyone in Beverly Hills.
+- [00:06:25,420 - 00:06:27,420] More than 90% of businesses don't make it past 5%.
+- [00:06:27,620 - 00:06:29,190] You've had a career in
+- [00:06:29,190 - 00:06:30,760] entrepreneurship that's been nearly 40 years.
+- [00:06:30,940 - 00:06:32,080] What is the greatest lesson that you've
+- [00:06:32,080 - 00:06:33,220] learned that you pass on to someone else?
+- [00:06:33,360 - 00:06:36,160] What's worked for me personally, I don't
+- [00:06:36,160 - 00:06:38,960] care what your religion is, your culture is.
+- [00:06:39,020 - 00:06:40,030] I don't care where you
+- [00:06:40,030 - 00:06:41,040] are from anywhere in the world.
+- [00:06:41,220 - 00:06:43,460] People want to deal with people who are real.
+- [00:06:43,640 - 00:06:44,440] Keep it real.
+- [00:06:44,620 - 00:06:46,020] Your word is the only
+- [00:06:46,020 - 00:06:47,420] thing you have in this world.
+- [00:06:47,700 - 00:06:49,810] All this could be gone tomorrow, but I would
+- [00:06:49,810 - 00:06:51,920] make it back because of my honor, my values,
+- [00:06:52,080 - 00:06:52,960] my morals.
+- [00:06:53,180 - 00:06:54,340] So if you give your
+- [00:06:54,340 - 00:06:55,500] word on something, you follow through.
+- [00:06:55,500 - 00:06:57,500] You just keep your word and do clearly.
+- [00:06:57,620 - 00:06:59,730] You're a clean business and people will flock
+- [00:06:59,730 - 00:07:01,840] to you because everyone wants to deal with
+- [00:07:01,840 - 00:07:02,840] winners.
+- [00:07:02,840 - 00:07:04,050] Nobody wants to deal with
+- [00:07:04,050 - 00:07:05,260] a shady guy or a loser.
+- [00:07:05,260 - 00:07:06,390] Everybody wants to deal with the
+- [00:07:06,390 - 00:07:07,520] best and work hard at it.
+- [00:07:07,520 - 00:07:09,330] You know, there's a restaurant in the corner
+- [00:07:09,330 - 00:07:11,140] that closes 10 or 11 o'clock at night.
+- [00:07:11,140 - 00:07:12,930] For years and years, I was
+- [00:07:12,930 - 00:07:14,720] the last one to leave the street.
+- [00:07:14,720 - 00:07:16,400] I'd leave and the restaurant was closed.
+- [00:07:16,400 - 00:07:17,400] What is that telling you?
+- [00:07:17,400 - 00:07:18,940] I'm leaving 12, 1 o'clock in the morning.
+- [00:07:18,940 - 00:07:19,750] What you put into it, you're
+- [00:07:19,750 - 00:07:20,560] going to get out of it.
+- [00:07:20,560 - 00:07:22,750] When you see that gymnast and you see
+- [00:07:22,750 - 00:07:24,940] that gymnast doing five flips in the air, coming
+- [00:07:24,940 - 00:07:25,940] down, they practice.
+- [00:07:25,940 - 00:07:26,940] They live it.
+- [00:07:26,940 - 00:07:27,940] They create it.
+- [00:07:27,940 - 00:07:29,079] And I think what also helps
+- [00:07:29,079 - 00:07:30,219] me is it's not a job.
+- [00:07:30,219 - 00:07:31,219] It's a passion.
+- [00:07:31,219 - 00:07:32,260] I love what I do.
+- [00:07:32,260 - 00:07:34,100] And that makes the world of a difference.
+- [00:07:34,100 - 00:07:35,390] If you're going to get up every morning and
+- [00:07:35,390 - 00:07:36,680] regret where you got to go and what you got
+- [00:07:36,680 - 00:07:38,040] to do, you're not going to be good at it.
+- [00:07:38,040 - 00:07:39,640] You know, a guy told me one
+- [00:07:39,640 - 00:07:41,240] time, he said, look at that massive ocean.
+- [00:07:41,240 - 00:07:42,240] Look at the Pacific Ocean.
+- [00:07:42,240 - 00:07:43,240] It's massive.
+- [00:07:43,240 - 00:07:45,050] And now you're a little boat out in that
+- [00:07:45,050 - 00:07:46,860] ocean and all that water out there can kill you,
+- [00:07:46,860 - 00:07:47,860] but it doesn't.
+- [00:07:47,860 - 00:07:48,890] It's only the water that you
+- [00:07:48,890 - 00:07:49,920] let in that will take you down.
+- [00:07:49,920 - 00:07:51,560] So you just don't let it in.
+- [00:07:51,560 - 00:07:53,520] And if it does get in, get rid of it.
+- [00:07:53,520 - 00:07:54,520] You've heard the expression.
+- [00:07:54,520 - 00:07:55,659] It's like the boxer.
+- [00:07:55,659 - 00:07:56,760] You know, what do you do with that towel?
+- [00:07:56,760 - 00:07:58,420] You can wipe off the sweat and keep
+- [00:07:58,420 - 00:08:00,080] going, or you can throw the towel in.
+- [00:08:00,080 - 00:08:01,850] You wipe it off and you just keep going
+- [00:08:01,850 - 00:08:03,620] and stay true to the people around you and stay
+- [00:08:03,620 - 00:08:05,260] true to the people you do business with.
+- [00:08:05,260 - 00:08:06,260] Amazing interview, man.
+- [00:08:06,260 - 00:08:07,260] Seriously.
+- [00:08:07,260 - 00:08:08,260] Thank you so much.
+- [00:08:08,260 - 00:08:09,260] I appreciate that.
+- [00:08:09,260 - 00:08:10,840] Man, Peter Marko dropped nothing but absolute heat.
+- [00:08:10,840 - 00:08:12,230] One of the most successful business
+- [00:08:12,230 - 00:08:13,620] owners in all of Beverly Hills.
+- [00:08:13,620 - 00:08:15,580] Gave some great game for all the entrepreneurs out there.
+- [00:08:15,580 - 00:08:16,820] One of my favorites I've ever done.
+- [00:08:16,820 - 00:08:17,980] Shout out to Peter Marko.
+- [00:08:17,980 - 00:08:18,980] Let's go get this next one.
+- [00:08:18,980 - 00:08:20,280] Excuse me, sir.
+- [00:08:20,280 - 00:08:21,280] Quick question for you, man.
+- [00:08:21,280 - 00:08:22,280] What do you do for a living right now?
+- [00:08:22,280 - 00:08:24,340] I've been an entrepreneur since I was 15.
+- [00:08:24,340 - 00:08:26,539] Started my first business in my bedroom.
+- [00:08:26,540 - 00:08:27,780] And from there, sold it.
+- [00:08:27,780 - 00:08:29,700] A couple of years later, did okay with it.
+- [00:08:29,700 - 00:08:31,720] And I started my metal business card dot com.
+- [00:08:31,720 - 00:08:33,159] What's the most amount of money that one
+- [00:08:33,159 - 00:08:34,600] of your business has generated in a single year?
+- [00:08:34,600 - 00:08:35,600] Oh, over five million.
+- [00:08:35,600 - 00:08:37,360] You've been an entrepreneur for over 20 years.
+- [00:08:37,360 - 00:08:38,669] What's the number one lesson that you've learned
+- [00:08:38,669 - 00:08:39,980] that you would pass on to someone who's starting
+- [00:08:39,980 - 00:08:41,480] a business in 2023?
+- [00:08:41,480 - 00:08:43,169] The sooner you can find great people
+- [00:08:43,169 - 00:08:44,860] and delegate, the better off you'll be.
+- [00:08:44,860 - 00:08:46,580] I think the fundamental is as an entrepreneur
+- [00:08:46,580 - 00:08:48,300] starting a business, you want to do everything.
+- [00:08:48,300 - 00:08:49,900] And in fact, you kind of have to
+- [00:08:49,900 - 00:08:51,500] because you can't afford to hire good people.
+- [00:08:51,500 - 00:08:53,330] But if you figure out that the good
+- [00:08:53,330 - 00:08:55,160] people cost less than doing it yourself, you'll make
+- [00:08:55,160 - 00:08:56,160] strides very quickly.
+- [00:08:56,160 - 00:08:57,920] You brought up kind of building that team in, right?
+- [00:08:57,920 - 00:08:59,110] What do you look for in a
+- [00:08:59,110 - 00:09:00,300] business partner when you're assembling a company?
+- [00:09:00,300 - 00:09:01,300] That's a great question.
+- [00:09:01,300 - 00:09:03,069] There's a book by Patrick Lencioni, The Ideal
+- [00:09:03,069 - 00:09:04,839] Team Player, and it goes over three things
+- [00:09:04,839 - 00:09:06,520] humble, smart and driven.
+- [00:09:06,520 - 00:09:08,280] If it's those three things, you're golden.
+- [00:09:08,280 - 00:09:09,549] What is your best networking advice
+- [00:09:09,549 - 00:09:10,819] for the younger generation out there?
+- [00:09:10,819 - 00:09:12,239] How have you been able to build your
+- [00:09:12,239 - 00:09:13,660] network, find those relationships in the business world?
+- [00:09:13,660 - 00:09:14,660] Do you have a business card on you?
+- [00:09:14,660 - 00:09:15,660] A business card?
+- [00:09:15,660 - 00:09:16,660] Yeah, I think so.
+- [00:09:16,660 - 00:09:17,660] Let me.
+- [00:09:17,660 - 00:09:18,660] I got one, actually.
+- [00:09:18,660 - 00:09:19,660] Here you go.
+- [00:09:19,660 - 00:09:20,660] Okay.
+- [00:09:20,660 - 00:09:21,439] So paper, as expected, it just doesn't stand out.
+- [00:09:21,439 - 00:09:23,299] And I think what happens is most people
+- [00:09:23,299 - 00:09:25,160] look at business cards as an office expense.
+- [00:09:25,160 - 00:09:26,160] Pens.
+- [00:09:26,160 - 00:09:27,980] They look at business cards, but really it's marketing.
+- [00:09:27,980 - 00:09:30,080] You know, successful people are so busy and
+- [00:09:30,080 - 00:09:32,180] they can take you places that money can't.
+- [00:09:32,180 - 00:09:33,860] But to get in front of them and to be
+- [00:09:33,860 - 00:09:35,540] remembered, there's not anything I can think of that has
+- [00:09:35,540 - 00:09:36,540] the impact.
+- [00:09:36,540 - 00:09:38,230] You can literally hand somebody a metal business
+- [00:09:38,230 - 00:09:39,920] card and without saying a word, start an entire
+- [00:09:39,920 - 00:09:40,920] conversation.
+- [00:09:40,920 - 00:09:42,369] So final thing, your network literally is
+- [00:09:42,369 - 00:09:43,819] your net worth, but you're never going to
+- [00:09:43,819 - 00:09:45,400] make a network if you don't stand out.
+- [00:09:45,400 - 00:09:46,640] So this is your business card.
+- [00:09:46,640 - 00:09:47,640] That's the metal business card.
+- [00:09:47,640 - 00:09:48,640] It's the actual metal.
+- [00:09:48,640 - 00:09:49,640] Where can everybody find these?
+- [00:09:49,640 - 00:09:50,640] So mymetalbusinesscard.com.
+- [00:09:50,640 - 00:09:52,160] And if you use code HARDKNOX,
+- [00:09:52,160 - 00:09:53,680] we're going to offer 20% off.
+- [00:09:53,680 - 00:09:54,920] This is for anybody that wants
+- [00:09:54,920 - 00:09:56,160] to stand out and leave a memory.
+- [00:09:56,160 - 00:09:57,160] Ripple impression.
+- [00:09:57,160 - 00:09:58,939] This Los Angeles video has been absolutely
+- [00:09:58,939 - 00:10:00,719] insane, but the best is yet to come.
+- [00:10:00,719 - 00:10:02,519] So stay tuned and be sure to like
+- [00:10:02,519 - 00:10:04,319] and subscribe for amazing content on the way.
+- [00:10:04,319 - 00:10:05,319] Let's get back to the interviews.
+- [00:10:05,319 - 00:10:07,480] What industry did you decide to pursue a career?
+- [00:10:07,480 - 00:10:09,930] I went into the entertainment industry,
+- [00:10:09,930 - 00:10:12,380] full on agent, manager, TV show creator.
+- [00:10:12,380 - 00:10:14,190] So for me, I'm a Jack of
+- [00:10:14,190 - 00:10:16,000] all trades as an executive in the industry.
+- [00:10:16,000 - 00:10:17,120] How did you know that you
+- [00:10:17,120 - 00:10:18,240] wanted to go into the entertainment business?
+- [00:10:18,240 - 00:10:19,360] Was that always something that you set out
+- [00:10:19,360 - 00:10:20,480] to do when you were a kid or?
+- [00:10:20,480 - 00:10:22,010] Well, growing up here in Beverly Hills, I
+- [00:10:22,010 - 00:10:23,540] was blessed to have a lot of friends whose
+- [00:10:23,540 - 00:10:25,160] families were in the business.
+- [00:10:25,160 - 00:10:26,160] So.
+- [00:10:26,160 - 00:10:27,999] I saw it all around me and I basically wanted
+- [00:10:27,999 - 00:10:29,839] to follow in the footsteps of a lot of my
+- [00:10:29,839 - 00:10:31,259] friends, parents who were really
+- [00:10:31,259 - 00:10:32,680] famous and really well known.
+- [00:10:32,680 - 00:10:35,180] And at 15 years old, I got a job at
+- [00:10:35,180 - 00:10:37,680] Interscope that then turned into a job at UTA and turned
+- [00:10:37,680 - 00:10:39,150] into a job of me
+- [00:10:39,150 - 00:10:40,620] owning my own management production company.
+- [00:10:40,620 - 00:10:42,159] And for me, I have
+- [00:10:42,159 - 00:10:43,699] some precedent setting deals at networks.
+- [00:10:43,699 - 00:10:46,239] I have some of the highest paid people
+- [00:10:46,239 - 00:10:48,780] that have ever made the biggest network deals in
+- [00:10:48,780 - 00:10:49,839] reality TV.
+- [00:10:49,839 - 00:10:51,799] So the highest paid people on reality shows,
+- [00:10:51,799 - 00:10:53,760] those are deals that my company has done.
+- [00:10:53,760 - 00:10:54,960] What has been the most amount of money
+- [00:10:54,960 - 00:10:56,160] that you've ever made in a single year?
+- [00:10:56,160 - 00:10:57,499] Well, we're not going to say
+- [00:10:57,499 - 00:10:58,839] that number, but it's in the millions.
+- [00:10:58,839 - 00:11:00,380] A lot of people don't have a great idea.
+- [00:11:00,380 - 00:11:01,380] They'll start that business.
+- [00:11:01,380 - 00:11:02,540] They don't know how to scale and grow it.
+- [00:11:02,540 - 00:11:03,540] What's the biggest thing?
+- [00:11:03,540 - 00:11:04,869] Well, the most important thing is
+- [00:11:04,869 - 00:11:06,199] that you have to know your value.
+- [00:11:06,199 - 00:11:08,939] So if your idea is great, your product is great.
+- [00:11:08,939 - 00:11:10,739] You have to have partners around you and
+- [00:11:10,739 - 00:11:12,540] the distribution around you to be able to push
+- [00:11:12,540 - 00:11:13,989] it out in the market so that
+- [00:11:13,989 - 00:11:15,439] the money goes up and up and up.
+- [00:11:15,439 - 00:11:16,540] And that's what we've been able to do.
+- [00:11:16,540 - 00:11:18,679] Luckily for me working in media, there's
+- [00:11:18,679 - 00:11:20,819] so many networks, so many streamers, so many
+- [00:11:20,819 - 00:11:22,989] places to sell to now that you have
+- [00:11:22,989 - 00:11:25,160] a lot more opportunity to sell your product.
+- [00:11:25,160 - 00:11:26,160] You crushed that, man.
+- [00:11:26,160 - 00:11:27,160] Seriously, man.
+- [00:11:27,160 - 00:11:28,839] It was absolutely crazy running into David.
+- [00:11:28,839 - 00:11:30,339] That is a media mogul.
+- [00:11:30,339 - 00:11:31,809] He's closed some of the biggest deals and
+- [00:11:31,809 - 00:11:33,280] been the architect behind some of the biggest
+- [00:11:33,280 - 00:11:35,620] deals in all of Hollywood entertainment history.
+- [00:11:35,620 - 00:11:37,330] It makes sense why we ran into him
+- [00:11:37,330 - 00:11:39,040] out in Beverly Hills and Los Angeles, the entertainment
+- [00:11:39,040 - 00:11:40,040] capital of the world.
+- [00:11:40,040 - 00:11:41,040] But let's keep this video rolling.
+- [00:11:41,040 - 00:11:42,040] Go get the next one.
+- [00:11:42,040 - 00:11:43,040] Excuse me, sir.
+- [00:11:43,040 - 00:11:44,040] Quick question for you, man.
+- [00:11:44,040 - 00:11:45,040] Is this your Lamborghini?
+- [00:11:45,040 - 00:11:46,040] Yeah, it is.
+- [00:11:46,040 - 00:11:47,040] What do you do for a living, man?
+- [00:11:47,040 - 00:11:47,540] How are you able to afford
+- [00:11:47,540 - 00:11:48,040] a Lamborghini out in Los Angeles?
+- [00:11:48,040 - 00:11:49,040] I own a law firm in Los Angeles.
+- [00:11:49,040 - 00:11:50,040] You own a law firm.
+- [00:11:50,040 - 00:11:51,380] How long have you been a business owner for?
+- [00:11:51,380 - 00:11:52,480] Coming on seven years.
+- [00:11:52,480 - 00:11:53,779] What's been the most amount of money
+- [00:11:53,779 - 00:11:55,079] that you've ever generated in a single year?
+- [00:11:55,080 - 00:11:56,920] I think that's attorney client
+- [00:11:56,920 - 00:11:58,760] privilege, but several millions of dollars.
+- [00:11:58,760 - 00:11:59,760] Several millions of dollars.
+- [00:11:59,760 - 00:12:01,260] And we go all over the country
+- [00:12:01,260 - 00:12:02,760] asking business owners their advice to young entrepreneurs.
+- [00:12:02,760 - 00:12:04,320] Could we ask you a few questions for the channel?
+- [00:12:04,320 - 00:12:05,320] Absolutely.
+- [00:12:05,320 - 00:12:06,320] Awesome.
+- [00:12:06,320 - 00:12:07,320] Let's run it.
+- [00:12:07,320 - 00:12:08,320] Did you go to college?
+- [00:12:08,320 - 00:12:09,320] I went to UCLA.
+- [00:12:09,320 - 00:12:09,820] Do you think a college degree is
+- [00:12:09,820 - 00:12:10,320] necessary to be successful in today's society?
+- [00:12:10,320 - 00:12:11,320] I think so.
+- [00:12:11,320 - 00:12:12,240] I think you should never
+- [00:12:12,240 - 00:12:13,160] go cheap on your own education.
+- [00:12:13,160 - 00:12:14,590] What would you say is the best
+- [00:12:14,590 - 00:12:16,020] financial advice that you've ever received throughout your
+- [00:12:16,020 - 00:12:17,020] lifetime?
+- [00:12:17,020 - 00:12:19,480] A dollar spent on yourself is a dollar never wasted.
+- [00:12:19,480 - 00:12:20,680] Are you a reader by any chance?
+- [00:12:20,680 - 00:12:21,680] I do like to read.
+- [00:12:21,680 - 00:12:22,680] Do you like to read?
+- [00:12:22,680 - 00:12:23,490] What's the number one book recommendation
+- [00:12:23,490 - 00:12:24,300] that you have for someone out there?
+- [00:12:24,300 - 00:12:25,060] I would say, Netflix.
+- [00:12:25,060 - 00:12:26,060] I would say, Netflix.
+- [00:12:26,060 - 00:12:27,060] I've never split the difference by Chris Voss.
+- [00:12:27,060 - 00:12:29,019] By asking the right questions and communicating properly,
+- [00:12:29,019 - 00:12:30,979] you'll be able to get what you want
+- [00:12:30,979 - 00:12:31,979] in a deal.
+- [00:12:31,979 - 00:12:33,239] You have a Lamborghini out in Los Angeles.
+- [00:12:33,239 - 00:12:34,499] For someone who's watching this, what would you
+- [00:12:34,499 - 00:12:35,760] say is the best advice that you would
+- [00:12:35,760 - 00:12:36,760] tell the younger generation today?
+- [00:12:36,760 - 00:12:38,789] I would tell them to start a business
+- [00:12:38,789 - 00:12:40,819] and right when you start getting some profits,
+- [00:12:40,819 - 00:12:43,219] put that right back into advertising and marketing.
+- [00:12:43,219 - 00:12:44,219] Brand yourself.
+- [00:12:44,219 - 00:12:45,399] Single-handedly, I think branding
+- [00:12:45,399 - 00:12:46,579] is the most important thing.
+- [00:12:46,579 - 00:12:48,619] That's your identity and your trademark to the public.
+- [00:12:48,619 - 00:12:49,739] You could be the best lawyer.
+- [00:12:49,739 - 00:12:50,739] You could be the best doctor.
+- [00:12:50,739 - 00:12:52,079] You can best real estate agent.
+- [00:12:52,079 - 00:12:53,559] But unless there's people knocking on your
+- [00:12:53,559 - 00:12:55,040] door, unless people know who you are, you're
+- [00:12:55,040 - 00:12:56,500] not going to ever be known in this world.
+- [00:12:56,500 - 00:12:58,169] So the number one thing
+- [00:12:58,169 - 00:12:59,839] is branding, advertising, and marketing.
+- [00:12:59,839 - 00:13:00,839] My God, you crushed that.
+- [00:13:00,839 - 00:13:01,839] Seriously, bro.
+- [00:13:01,839 - 00:13:04,000] Los Angeles was an absolute movie, everyone.
+- [00:13:04,000 - 00:13:05,780] It was crazy to make this video, but I
+- [00:13:05,780 - 00:13:07,560] want you to like and subscribe for amazing content
+- [00:13:07,560 - 00:13:08,560] coming soon.
+- [00:13:08,560 - 00:13:10,470] And click here to watch us going
+- [00:13:10,470 - 00:13:12,380] all over Miami asking multimillionaire supercar owners
+- [00:13:12,380 - 00:13:13,360] how they became wealthy.
