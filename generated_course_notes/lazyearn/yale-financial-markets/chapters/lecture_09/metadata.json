@@ -1,0 +1,38 @@
+{
+  "course_rel": "lazyearn/yale-financial-markets",
+  "transcript_rel": "lazyearn/yale-financial-markets/009 - 9. Corporate Stocks [78_GRGjlL6E].md",
+  "video_rel": "lazyearn/yale-financial-markets/009 - 9. Corporate Stocks [78_GRGjlL6E].mkv",
+  "lecture_number": 9,
+  "lecture_slug": "lecture_09",
+  "lecture_title": "9. Corporate Stocks",
+  "assets": [
+    {
+      "name": "lecture_09_figure_02.png",
+      "timestamp_seconds": 410.46,
+      "timestamp_hhmmss": "00:06:50.460",
+      "source_candidate": "lecture_09_window_02_candidate_04_000650460.png",
+      "recommended_use": "screenshot_only",
+      "rationale": "This frame keeps the slide content most complete and legible while the lecturer has moved furthest clear of the projected table. The title, source, URL, and especially the key comparison column 'Fraction of GDP' are all visible with minimal occlusion, making it the most useful frame for note writing.",
+      "subtitle_excerpt": "The interesting thing, though, is as a fraction of GDP.",
+      "segment_start_seconds": 406.94,
+      "segment_start_hhmmss": "00:06:46.940",
+      "segment_end_seconds": 410.94,
+      "segment_end_hhmmss": "00:06:50.940",
+      "caption_hint": "market cap as a share of GDP"
+    },
+    {
+      "name": "lecture_09_figure_03.png",
+      "timestamp_seconds": 3459.66,
+      "timestamp_hhmmss": "00:57:39.660",
+      "source_candidate": "lecture_09_window_05_candidate_04_005739660.png",
+      "recommended_use": "screenshot_plus_equation",
+      "rationale": "This is the best frame because it captures the blackboard at the moment the equality is most developed: the upper dividend-difference expression remains legible, and the lower line has advanced to the visible `= \\rho` step referenced by the subtitle. It is more useful than the earlier frames, which show only the start of the line or a bare equals sign.",
+      "subtitle_excerpt": "equals rho,",
+      "segment_start_seconds": 3457.9,
+      "segment_start_hhmmss": "00:57:37.900",
+      "segment_end_seconds": 3459.9,
+      "segment_end_hhmmss": "00:57:39.900",
+      "caption_hint": "Lintner dividend adjustment step"
+    }
+  ]
+}
