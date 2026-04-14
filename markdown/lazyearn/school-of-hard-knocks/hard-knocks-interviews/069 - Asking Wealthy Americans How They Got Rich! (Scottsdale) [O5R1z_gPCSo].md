@@ -1,0 +1,609 @@
+# Transcript
+
+Source: lazyearn/school-of-hard-knocks/hard-knocks-interviews/069 - Asking Wealthy Americans How They Got Rich! (Scottsdale) [O5R1z_gPCSo].webm
+
+- [00:00:00,000 - 00:00:02,500] Excuse me, ma'am.
+- [00:00:02,500 - 00:00:04,120] Thanks, wait. 502.
+- [00:00:04,120 - 00:00:05,220] Question for you.
+- [00:00:05,220 - 00:00:06,000] Um...
+- [00:00:06,000 - 00:00:07,000] I will take care of that.
+- [00:00:07,000 - 00:00:08,039] Thank you. Thank you so much.
+- [00:00:08,039 - 00:00:08,840] Is this your Ferrari?
+- [00:00:08,840 - 00:00:09,560] Yes, it is.
+- [00:00:09,560 - 00:00:10,330] And what do you do
+- [00:00:10,330 - 00:00:11,100] for living out here in Scottsdale
+- [00:00:11,100 - 00:00:11,980] to be able to afford a Ferrari?
+- [00:00:11,980 - 00:00:13,020] I'm an entrepreneur.
+- [00:00:13,020 - 00:00:14,340] How long have you been a business owner for?
+- [00:00:14,340 - 00:00:15,020] Three years.
+- [00:00:15,020 - 00:00:15,640] Three years?
+- [00:00:15,640 - 00:00:15,840] Yeah.
+- [00:00:15,840 - 00:00:16,980] What was the most amount of money
+- [00:00:16,980 - 00:00:18,180] that you've ever made in a single year?
+- [00:00:18,180 - 00:00:20,020] So the most amount of money
+- [00:00:20,020 - 00:00:22,360] that we have done will be this year.
+- [00:00:22,360 - 00:00:24,360] We'll do about $250 million.
+- [00:00:24,360 - 00:00:25,280] About $100 million.
+- [00:00:25,280 - 00:00:28,240] North of $20 million annual reoccurring revenue.
+- [00:00:28,240 - 00:00:29,580] Have you ever been broke before?
+- [00:00:29,580 - 00:00:31,740] Yeah, dude, I was in the military for 22 years.
+- [00:00:31,740 - 00:00:32,199] Yeah?
+- [00:00:32,199 - 00:00:33,199] Of course I was broke.
+- [00:00:33,199 - 00:00:34,620] And what did you do after the military?
+- [00:00:34,620 - 00:00:36,839] I started buying and selling businesses.
+- [00:00:36,839 - 00:00:38,040] What was the most amount of money
+- [00:00:38,040 - 00:00:39,220] that you ever made in a single year?
+- [00:00:39,220 - 00:00:39,920] 11 mil.
+- [00:00:39,920 - 00:00:41,000] How old are you?
+- [00:00:41,000 - 00:00:41,960] Just turned 60.
+- [00:00:41,960 - 00:00:43,300] You're not 60 years old.
+- [00:00:43,300 - 00:00:45,060] Yeah, 23rd of July, I turned 60.
+- [00:00:45,060 - 00:00:46,039] What's the secret to looking
+- [00:00:46,039 - 00:00:47,019] like this at 60 years old?
+- [00:00:47,019 - 00:00:47,640] That's crazy.
+- [00:00:47,640 - 00:00:48,480] Focus, man.
+- [00:00:48,480 - 00:00:50,180] Everything's about focus and discipline.
+- [00:00:50,180 - 00:00:52,440] How can somebody become a multimillionaire in 2024
+- [00:00:52,440 - 00:00:53,140] like yourself?
+- [00:00:55,060 - 00:00:55,980] Hard Knocks family,
+- [00:00:55,980 - 00:00:58,560] we just got to our destination at Fashion Square
+- [00:00:58,560 - 00:00:59,560] in Scottsdale, Arizona.
+- [00:00:59,560 - 00:01:02,180] One of the richest cities in the entire country.
+- [00:01:02,180 - 00:01:03,310] And I'm going to be
+- [00:01:03,310 - 00:01:04,440] going all over to find multimillionaires
+- [00:01:04,440 - 00:01:06,480] up to people who've built billion dollar companies
+- [00:01:06,480 - 00:01:08,060] to figure out how they became wealthy
+- [00:01:08,060 - 00:01:11,400] and the secret to becoming financially free in 2024.
+- [00:01:11,400 - 00:01:13,620] So with that being said, let's go get these interviews.
+- [00:01:13,620 - 00:01:14,580] Question for you.
+- [00:01:14,580 - 00:01:16,780] Have you ever been broke before?
+- [00:01:16,780 - 00:01:17,620] No.
+- [00:01:17,620 - 00:01:18,770] And what do you do
+- [00:01:18,770 - 00:01:19,920] for living out here in Scottsdale?
+- [00:01:19,920 - 00:01:20,740] I'm done.
+- [00:01:20,740 - 00:01:21,740] Quick question for you.
+- [00:01:21,740 - 00:01:23,160] Have you ever been broke before?
+- [00:01:23,160 - 00:01:24,000] Have I ever been what?
+- [00:01:24,000 - 00:01:25,380] Have you ever been broke before?
+- [00:01:25,380 - 00:01:26,220] Fuck yeah.
+- [00:01:26,220 - 00:01:27,080] Yeah?
+- [00:01:27,080 - 00:01:27,920] Hasn't everybody?
+- [00:01:27,920 - 00:01:28,760] Yeah.
+- [00:01:28,760 - 00:01:29,560] What do you do for living out here in Scottsdale?
+- [00:01:29,560 - 00:01:30,400] I don't.
+- [00:01:30,400 - 00:01:31,400] I'm just visiting right now.
+- [00:01:31,400 - 00:01:32,320] What industry?
+- [00:01:32,320 - 00:01:33,320] I don't really like social media.
+- [00:01:33,320 - 00:01:34,320] Real quick, real quick.
+- [00:01:34,320 - 00:01:35,320] No, no.
+- [00:01:35,320 - 00:01:36,320] I have a channel.
+- [00:01:36,320 - 00:01:37,320] I started at UT Austin.
+- [00:01:37,320 - 00:01:38,320] I grew up to 6 million followers.
+- [00:01:38,320 - 00:01:39,320] You what?
+- [00:01:39,320 - 00:01:40,320] I started a channel at UT Austin.
+- [00:01:40,320 - 00:01:41,320] I grew up to 6 million followers.
+- [00:01:41,320 - 00:01:42,320] I interview business.
+- [00:01:42,320 - 00:01:43,320] You're great, man.
+- [00:01:43,320 - 00:01:44,320] Thank you, bro.
+- [00:01:44,320 - 00:01:45,320] Excuse me, sir.
+- [00:01:45,320 - 00:01:46,320] Question for you, sir.
+- [00:01:46,320 - 00:01:47,320] Question for you.
+- [00:01:47,320 - 00:01:48,320] Have you ever owned a business before?
+- [00:01:48,320 - 00:01:49,320] Yes.
+- [00:01:49,320 - 00:01:50,320] Yeah?
+- [00:01:50,320 - 00:01:51,320] What type of company?
+- [00:01:51,320 - 00:01:52,320] Archie Guys.
+- [00:01:52,320 - 00:01:54,320] So as you guys can see, since we
+- [00:01:54,320 - 00:01:56,320] are in the wealthiest city in all of Arizona,
+- [00:01:56,320 - 00:01:57,820] it is very hard to get access
+- [00:01:57,820 - 00:01:59,320] to these people to do an interview with.
+- [00:01:59,560 - 00:02:01,440] And these people understand the value of their time,
+- [00:02:01,440 - 00:02:03,320] and they are always on the go out here,
+- [00:02:03,320 - 00:02:04,320] man.
+- [00:02:04,320 - 00:02:05,300] So we're going to do everything we can
+- [00:02:05,300 - 00:02:06,280] to get the best content possible for you guys.
+- [00:02:06,280 - 00:02:07,870] So stay tuned because I'm not leaving this
+- [00:02:07,870 - 00:02:09,460] video until I deliver you guys a million dollars
+- [00:02:09,460 - 00:02:10,460] worth of game.
+- [00:02:10,460 - 00:02:11,460] Let's go get these interviews.
+- [00:02:11,460 - 00:02:12,460] Come on.
+- [00:02:12,460 - 00:02:13,460] Excuse me, sir.
+- [00:02:13,460 - 00:02:14,460] Question for you.
+- [00:02:14,460 - 00:02:15,460] How old were you when you became a millionaire?
+- [00:02:17,460 - 00:02:18,460] Yup.
+- [00:02:18,460 - 00:02:19,460] And how old are you now?
+- [00:02:20,460 - 00:02:20,960] And what do you do
+- [00:02:20,960 - 00:02:21,460] for living out here in Scottsdale?
+- [00:02:21,460 - 00:02:22,130] I own a healthcare company
+- [00:02:22,130 - 00:02:22,800] and a couple of software companies.
+- [00:02:22,800 - 00:02:24,320] And how long have you been an entrepreneur for?
+- [00:02:24,320 - 00:02:26,800] Well, I guess my whole career, 24 years.
+- [00:02:26,800 - 00:02:28,110] And what was the lowest point
+- [00:02:28,110 - 00:02:29,420] in your career as an entrepreneur?
+- [00:02:29,420 - 00:02:30,420] Probably like 10 years ago.
+- [00:02:30,420 - 00:02:32,079] I gambled on the wrong staff and
+- [00:02:32,079 - 00:02:33,739] they burned me and picked myself back up.
+- [00:02:33,739 - 00:02:36,179] And there's nobody you can reinvest into besides yourself.
+- [00:02:36,179 - 00:02:38,100] What was your superpower as a business owner?
+- [00:02:38,100 - 00:02:40,420] I just talked to everybody on a regular basis.
+- [00:02:40,420 - 00:02:41,420] Communication.
+- [00:02:41,420 - 00:02:42,420] Communication, for sure.
+- [00:02:42,420 - 00:02:43,739] So I'm assuming you're a salesperson then?
+- [00:02:43,739 - 00:02:44,739] Nope.
+- [00:02:44,739 - 00:02:45,739] I'm a retired doctor.
+- [00:02:45,739 - 00:02:46,739] Retired doctor?
+- [00:02:46,739 - 00:02:47,739] Yeah.
+- [00:02:47,739 - 00:02:48,239] Well, I own the company now,
+- [00:02:48,239 - 00:02:48,739] but I'm the founder and CEO.
+- [00:02:48,739 - 00:02:49,739] Okay.
+- [00:02:49,739 - 00:02:51,169] So I guess in terms of revenue across
+- [00:02:51,169 - 00:02:52,600] all these businesses, what has been the most amount
+- [00:02:52,600 - 00:02:54,179] of money that you've ever made in a single year?
+- [00:02:54,179 - 00:02:55,179] About a hundred million.
+- [00:02:55,179 - 00:02:56,179] A hundred million dollars?
+- [00:02:56,179 - 00:02:57,179] And what are you selling?
+- [00:02:57,179 - 00:02:58,179] We're in healthcare.
+- [00:02:58,179 - 00:02:59,179] So we provide primary care for trauma patients.
+- [00:02:59,179 - 00:02:59,220] Right.
+- [00:02:59,420 - 00:03:00,220] So we do everything.
+- [00:03:00,220 - 00:03:01,320] We do all the surgeries.
+- [00:03:01,320 - 00:03:02,320] We do scar revisions.
+- [00:03:02,320 - 00:03:03,320] We do site counseling.
+- [00:03:03,320 - 00:03:04,320] We do PT.
+- [00:03:04,320 - 00:03:05,320] We do chiro.
+- [00:03:05,320 - 00:03:06,320] We do just general medical management.
+- [00:03:06,320 - 00:03:07,320] Everything.
+- [00:03:07,320 - 00:03:08,320] Do you come from money?
+- [00:03:08,320 - 00:03:09,320] No, not at all.
+- [00:03:09,320 - 00:03:10,940] McDonald's was a cool thing as a kid.
+- [00:03:10,940 - 00:03:12,899] That was like a real treat and reward.
+- [00:03:12,899 - 00:03:14,619] How did you change your family's trajectory?
+- [00:03:14,619 - 00:03:15,719] What did you see that made you
+- [00:03:15,719 - 00:03:16,820] want to get really serious about becoming financially
+- [00:03:16,820 - 00:03:18,299] free and really successful in business?
+- [00:03:18,299 - 00:03:20,399] My dad built custom homes as a hobby.
+- [00:03:20,399 - 00:03:21,829] And he always pointed out everybody
+- [00:03:21,829 - 00:03:23,260] in the neighborhood didn't have a job.
+- [00:03:23,260 - 00:03:24,260] They owned something.
+- [00:03:24,260 - 00:03:26,579] So I think I took that insight as, well, when
+- [00:03:26,579 - 00:03:28,899] I become a doctor, I'm going to own my practice
+- [00:03:28,899 - 00:03:29,179] and then kind of become a doctor.
+- [00:03:29,180 - 00:03:30,180] So it kind of expanded from there.
+- [00:03:30,180 - 00:03:31,740] How did you get the money to start your business?
+- [00:03:31,740 - 00:03:32,630] Did you have to borrow
+- [00:03:32,630 - 00:03:33,520] any money or leverage any capital?
+- [00:03:33,520 - 00:03:34,520] Nope.
+- [00:03:34,520 - 00:03:35,520] I'm the only owner.
+- [00:03:35,520 - 00:03:36,520] No other banks.
+- [00:03:36,520 - 00:03:37,520] No other personal or private equity.
+- [00:03:37,520 - 00:03:38,520] Nothing.
+- [00:03:38,520 - 00:03:39,520] It's just me.
+- [00:03:39,520 - 00:03:40,520] So you built a $100 million company.
+- [00:03:40,520 - 00:03:41,520] Same, same, same.
+- [00:03:41,520 - 00:03:43,580] Well, it's worth maybe a billion
+- [00:03:43,580 - 00:03:45,640] now, but it's, yeah, we do well.
+- [00:03:45,640 - 00:03:47,440] What is your net worth?
+- [00:03:47,440 - 00:03:51,020] It's somewhere between $500 and $700 million and maybe more.
+- [00:03:51,020 - 00:03:52,380] So what did you have to
+- [00:03:52,380 - 00:03:53,740] sacrifice to build a $100 million company?
+- [00:03:53,740 - 00:03:55,420] I never saw my kids wake up.
+- [00:03:55,420 - 00:03:56,640] I never saw them go to bed.
+- [00:03:56,640 - 00:03:57,800] I work six days a week.
+- [00:03:57,800 - 00:03:59,140] I took Sundays off to take a nap.
+- [00:03:59,180 - 00:04:00,800] My wife over here said that everybody
+- [00:04:00,800 - 00:04:02,420] said, did you hire him for Facebook?
+- [00:04:02,420 - 00:04:03,560] Because we've never met your husband
+- [00:04:03,560 - 00:04:04,700] because all he does is work.
+- [00:04:04,700 - 00:04:07,480] So I think I sacrificed a lot of my
+- [00:04:07,480 - 00:04:10,260] children's youth, but now they're teenagers and I'm there
+- [00:04:10,260 - 00:04:11,260] every day.
+- [00:04:11,260 - 00:04:12,260] So it's cool.
+- [00:04:12,260 - 00:04:13,260] And are you guys married?
+- [00:04:13,260 - 00:04:14,260] Yes.
+- [00:04:14,260 - 00:04:15,260] Let me ask you a question.
+- [00:04:15,260 - 00:04:16,220] What's the number one thing that you're
+- [00:04:16,220 - 00:04:17,180] the most proud of about your husband?
+- [00:04:17,180 - 00:04:18,180] Everything.
+- [00:04:18,180 - 00:04:19,180] Yeah.
+- [00:04:19,180 - 00:04:20,180] He's an amazing husband.
+- [00:04:20,180 - 00:04:21,560] I mean, he's worked harder
+- [00:04:21,560 - 00:04:22,940] than everybody that I've ever seen.
+- [00:04:22,940 - 00:04:23,940] Thank you so much, Fred.
+- [00:04:23,940 - 00:04:24,940] I appreciate that, man.
+- [00:04:24,940 - 00:04:25,940] Yeah, absolutely.
+- [00:04:25,940 - 00:04:26,940] Hard Knocks family.
+- [00:04:26,940 - 00:04:27,800] We just ran into a
+- [00:04:27,800 - 00:04:28,660] $100 million a year entrepreneur out.
+- [00:04:28,660 - 00:04:29,160] Yeah.
+- [00:04:29,180 - 00:04:31,050] Here whose net worth is
+- [00:04:31,050 - 00:04:32,920] in between five and $700 million.
+- [00:04:32,920 - 00:04:34,590] He's in the business of healthcare, but what did
+- [00:04:34,590 - 00:04:36,260] he say is one of the most important financial
+- [00:04:36,260 - 00:04:37,890] decisions that you can make is keeping
+- [00:04:37,890 - 00:04:39,520] all the money back into the business.
+- [00:04:39,520 - 00:04:40,520] He didn't have any investors.
+- [00:04:40,520 - 00:04:41,780] He didn't go into any debt.
+- [00:04:41,780 - 00:04:43,610] So he owns that entire business and he
+- [00:04:43,610 - 00:04:45,440] kept the money back into the business because if
+- [00:04:45,440 - 00:04:47,100] you have one bad month as a business owner
+- [00:04:47,100 - 00:04:48,760] and you blow your cash, it's all gone and
+- [00:04:48,760 - 00:04:49,760] you could be done.
+- [00:04:49,760 - 00:04:50,760] So great interview out here.
+- [00:04:50,760 - 00:04:51,760] Let's go get this next one.
+- [00:04:51,760 - 00:04:52,760] Keep this video rolling.
+- [00:04:52,760 - 00:04:53,760] Come on.
+- [00:04:53,760 - 00:04:54,260] All right, you guys, we got somebody pull
+- [00:04:54,260 - 00:04:54,760] up on a Ferrari right at the Valley right
+- [00:04:54,760 - 00:04:55,760] here.
+- [00:04:55,760 - 00:04:56,260] We're going to go up and see what they were
+- [00:04:56,260 - 00:04:56,760] able to do to be able to afford this car.
+- [00:04:56,760 - 00:04:57,760] Let's go see what they have to say.
+- [00:04:57,760 - 00:04:58,760] Excuse me, ma'am.
+- [00:04:58,760 - 00:04:59,760] Thanks.
+- [00:04:59,760 - 00:05:00,760] Question for you.
+- [00:05:00,760 - 00:05:01,760] Um, we'll take care of that.
+- [00:05:01,760 - 00:05:02,760] Thank you.
+- [00:05:02,760 - 00:05:03,760] Thank you so much.
+- [00:05:03,760 - 00:05:04,760] Is this your Ferrari?
+- [00:05:04,760 - 00:05:05,760] Yes it is.
+- [00:05:05,760 - 00:05:08,260] And what do you do for living out here
+- [00:05:08,260 - 00:05:10,760] in Scottsdale to be able to afford a Ferrari?
+- [00:05:10,760 - 00:05:11,760] I'm an entrepreneur.
+- [00:05:11,760 - 00:05:12,760] How long have you been a business owner for?
+- [00:05:12,760 - 00:05:13,760] Three years.
+- [00:05:13,760 - 00:05:14,760] Three years.
+- [00:05:14,760 - 00:05:15,760] Yes.
+- [00:05:15,760 - 00:05:16,760] I go all over the country just asking
+- [00:05:16,760 - 00:05:17,760] business owners their best advice to new entrepreneurs.
+- [00:05:17,760 - 00:05:18,760] Could I ask you a couple
+- [00:05:18,760 - 00:05:19,760] of quick questions for the channel?
+- [00:05:19,760 - 00:05:20,760] Sure.
+- [00:05:20,760 - 00:05:21,760] Awesome.
+- [00:05:21,760 - 00:05:22,760] So what are you doing right now in entrepreneurship?
+- [00:05:22,760 - 00:05:24,760] I own an online fitness and nutrition company.
+- [00:05:24,760 - 00:05:26,760] And you've been in that business the last three years?
+- [00:05:26,760 - 00:05:27,760] Three years.
+- [00:05:27,760 - 00:05:28,940] And what's the most amount of money
+- [00:05:28,940 - 00:05:30,120] that you've ever made in a single year?
+- [00:05:30,120 - 00:05:32,180] So the most amount of money that
+- [00:05:32,180 - 00:05:34,240] we have done will be this year.
+- [00:05:34,240 - 00:05:37,760] We'll do north of $20 million annual reoccurring revenue.
+- [00:05:37,760 - 00:05:38,760] $20 million.
+- [00:05:38,760 - 00:05:39,760] $20 million.
+- [00:05:39,760 - 00:05:40,760] And that's just the start, by the way, okay?
+- [00:05:40,760 - 00:05:42,070] Because we're going to scale
+- [00:05:42,070 - 00:05:43,380] this thing to over $100 million.
+- [00:05:43,380 - 00:05:44,380] That's incredible.
+- [00:05:44,380 - 00:05:45,380] I know we can do it.
+- [00:05:45,380 - 00:05:46,380] Let me first ask you this.
+- [00:05:46,380 - 00:05:46,970] How did you scale this
+- [00:05:46,970 - 00:05:47,560] company from seven to eight figures?
+- [00:05:47,560 - 00:05:49,580] A lot of business owners, they have a great idea.
+- [00:05:49,580 - 00:05:51,219] They start, they really struggle to scale.
+- [00:05:51,219 - 00:05:52,780] You specialize in scaling companies.
+- [00:05:52,780 - 00:05:54,640] What took your company from seven to eight figures?
+- [00:05:54,640 - 00:05:56,200] First of all, you got
+- [00:05:56,200 - 00:05:57,760] to dial in capturing the demand.
+- [00:05:57,760 - 00:05:59,520] So marketing and sales is huge.
+- [00:05:59,520 - 00:06:01,320] If you don't have somebody overseeing and
+- [00:06:01,320 - 00:06:03,120] driving the function of marketing and sales,
+- [00:06:03,120 - 00:06:04,780] you don't have a business, right?
+- [00:06:04,780 - 00:06:07,130] But then the challenges then that you face
+- [00:06:07,130 - 00:06:09,480] as a business owner is not just capturing
+- [00:06:09,480 - 00:06:11,530] the demand and then converting it, but
+- [00:06:11,530 - 00:06:13,580] fulfilling the service so that the client experience
+- [00:06:13,580 - 00:06:14,640] doesn't break.
+- [00:06:14,640 - 00:06:16,839] So that requires somebody who has a lot
+- [00:06:16,839 - 00:06:19,039] of operational experience to come in and build
+- [00:06:19,039 - 00:06:20,380] systems and process.
+- [00:06:20,380 - 00:06:22,250] Now, as a multiple eight figure entrepreneur,
+- [00:06:22,250 - 00:06:24,120] what was the best financial advice that you
+- [00:06:24,120 - 00:06:25,120] ever received?
+- [00:06:25,120 - 00:06:26,159] You have to bet on yourself.
+- [00:06:26,159 - 00:06:27,760] You can't focus on what you're making.
+- [00:06:27,760 - 00:06:28,760] Now.
+- [00:06:28,760 - 00:06:30,160] So there was a time that
+- [00:06:30,160 - 00:06:31,560] only made $19,000 a year, right?
+- [00:06:31,560 - 00:06:34,159] But here mentally, I was always rich, you know?
+- [00:06:34,159 - 00:06:35,159] So it's a mindset.
+- [00:06:35,159 - 00:06:37,259] You have to take the money that
+- [00:06:37,259 - 00:06:39,360] you're making and continuously reinvest in yourself.
+- [00:06:39,360 - 00:06:40,530] And you have to keep
+- [00:06:40,530 - 00:06:41,700] doing that all the way through.
+- [00:06:41,700 - 00:06:43,659] That's how you're going to earn more money over time.
+- [00:06:43,659 - 00:06:45,520] So you're the best bet that you can make.
+- [00:06:45,520 - 00:06:48,920] A lot of people value money over valuing themselves.
+- [00:06:48,920 - 00:06:50,550] I value myself over money,
+- [00:06:50,550 - 00:06:52,180] which is why I'm so rich.
+- [00:06:52,180 - 00:06:53,380] How old are you now?
+- [00:06:54,380 - 00:06:55,380] How old were you when you became a millionaire?
+- [00:06:55,380 - 00:06:56,520] I was actually 40.
+- [00:06:56,520 - 00:06:57,520] 40 years old.
+- [00:06:57,760 - 00:06:59,180] That took me a long time, right?
+- [00:06:59,180 - 00:07:01,000] So it's never too late, right?
+- [00:07:01,000 - 00:07:02,320] Age is just a number.
+- [00:07:02,320 - 00:07:03,739] It's all about how you feel
+- [00:07:03,739 - 00:07:05,159] and that energy that you have inside.
+- [00:07:05,159 - 00:07:06,819] But if you were to go back in time
+- [00:07:06,819 - 00:07:08,480] and have a conversation with your 20 year old self,
+- [00:07:08,480 - 00:07:10,120] when you were starting from zero, what's the
+- [00:07:10,120 - 00:07:11,760] best advice that you would give to your younger
+- [00:07:11,760 - 00:07:12,760] self?
+- [00:07:12,760 - 00:07:14,880] To not give a fuck what anybody thinks about you.
+- [00:07:14,880 - 00:07:16,280] You have to believe in yourself.
+- [00:07:16,280 - 00:07:19,200] I think when I was younger, I didn't
+- [00:07:19,200 - 00:07:22,120] have relentless belief in myself and I wasn't unapologetic
+- [00:07:22,120 - 00:07:23,120] about who I was.
+- [00:07:23,120 - 00:07:24,440] It took me a long time
+- [00:07:24,440 - 00:07:25,760] to be who I am today.
+- [00:07:25,760 - 00:07:26,760] You got amazing advice.
+- [00:07:26,760 - 00:07:27,760] Thank you so much.
+- [00:07:27,760 - 00:07:28,760] Thank you for your time.
+- [00:07:28,760 - 00:07:29,760] Thank you.
+- [00:07:29,760 - 00:07:30,760] I appreciate it.
+- [00:07:30,760 - 00:07:31,760] Hard Knocks family, this video has been crazy so far.
+- [00:07:31,760 - 00:07:33,399] We're on our way to go get our next
+- [00:07:33,399 - 00:07:35,039] interview right now, but I've got a very special announcement
+- [00:07:35,039 - 00:07:36,039] to make.
+- [00:07:36,039 - 00:07:37,809] A couple of weeks ago, we launched
+- [00:07:37,809 - 00:07:39,580] our official entrepreneur community, the School of Mentors.
+- [00:07:39,580 - 00:07:41,050] We've already hit a thousand members and for
+- [00:07:41,050 - 00:07:42,520] the people that have joined, they can hop
+- [00:07:42,520 - 00:07:44,700] on live calls every single week to learn
+- [00:07:44,700 - 00:07:46,880] from, connect with, and get directly mentored by
+- [00:07:46,880 - 00:07:48,310] the multi-millionaires and the billionaires
+- [00:07:48,310 - 00:07:49,740] that I interview on this channel.
+- [00:07:49,740 - 00:07:51,130] They can ask some questions about
+- [00:07:51,130 - 00:07:52,520] their career, their life, and their business.
+- [00:07:52,520 - 00:07:54,100] So you do not want to miss out on this
+- [00:07:54,100 - 00:07:55,680] opportunity because it's once in a lifetime to be able
+- [00:07:55,680 - 00:07:56,220] to get this access to the
+- [00:07:56,220 - 00:07:56,760] people I interview on this channel.
+- [00:07:57,760 - 00:07:58,760] Every single week.
+- [00:07:58,760 - 00:07:59,980] So to join now, click the link
+- [00:07:59,980 - 00:08:01,200] down in the description of this video below.
+- [00:08:01,200 - 00:08:02,480] We'll see you on the inside, but with
+- [00:08:02,480 - 00:08:03,760] that being said, let's go get this next interview.
+- [00:08:03,760 - 00:08:04,760] Come on.
+- [00:08:04,760 - 00:08:05,760] Excuse me, sir.
+- [00:08:05,760 - 00:08:06,760] Question for you.
+- [00:08:06,760 - 00:08:07,760] Sure.
+- [00:08:07,760 - 00:08:08,760] Have you ever owned a business before?
+- [00:08:08,760 - 00:08:09,760] Yes.
+- [00:08:09,760 - 00:08:10,760] Probably a dozen or two.
+- [00:08:10,760 - 00:08:11,760] Yeah?
+- [00:08:11,760 - 00:08:12,530] And what industry did you
+- [00:08:12,530 - 00:08:13,300] decide to pursue a career in?
+- [00:08:13,300 - 00:08:17,240] I've been in a bunch of industries, electronics, logistics.
+- [00:08:17,240 - 00:08:18,240] What was your main company?
+- [00:08:18,240 - 00:08:19,240] What was my...
+- [00:08:19,240 - 00:08:20,240] Nobody you've ever heard of.
+- [00:08:20,240 - 00:08:21,240] Yeah?
+- [00:08:21,240 - 00:08:22,240] Just small business.
+- [00:08:22,240 - 00:08:23,460] I started the channel at the University of Texas.
+- [00:08:23,460 - 00:08:24,460] I started the channel...
+- [00:08:24,460 - 00:08:25,760] Oh, you're an Austin boy, huh?
+- [00:08:25,760 - 00:08:26,760] Yes, sir.
+- [00:08:26,760 - 00:08:27,760] I grew the channel to over six million.
+- [00:08:27,760 - 00:08:28,760] I have over six million followers.
+- [00:08:28,760 - 00:08:29,760] I go all over the country just
+- [00:08:29,760 - 00:08:30,760] asking business owners a couple of quick questions.
+- [00:08:30,760 - 00:08:32,260] Can I get just one minute of your time?
+- [00:08:32,260 - 00:08:34,260] Look, I'm trying to get my daughter in a wheelchair.
+- [00:08:34,260 - 00:08:35,260] For sure.
+- [00:08:35,260 - 00:08:36,260] How long have you been an entrepreneur for?
+- [00:08:36,260 - 00:08:37,260] 40 years.
+- [00:08:37,260 - 00:08:38,260] 40 years.
+- [00:08:38,260 - 00:08:39,260] And do you come from a lot of money?
+- [00:08:39,260 - 00:08:40,260] No.
+- [00:08:40,260 - 00:08:41,260] What did your parents do?
+- [00:08:41,260 - 00:08:42,260] Small business owner.
+- [00:08:42,260 - 00:08:43,260] Small business owner.
+- [00:08:43,260 - 00:08:45,410] I worked in my father's business through high
+- [00:08:45,410 - 00:08:47,560] school and college, and then he and I started
+- [00:08:47,560 - 00:08:50,380] a business in the early 80s out of that.
+- [00:08:50,380 - 00:08:51,439] What company did you start?
+- [00:08:51,439 - 00:08:52,439] We started...
+- [00:08:52,439 - 00:08:53,439] It's in the electronics industry.
+- [00:08:53,439 - 00:08:56,760] It's a small little distributorship in industrial selling.
+- [00:08:56,760 - 00:08:57,760] Yeah.
+- [00:08:57,760 - 00:08:58,760] Pretty much been my whole career.
+- [00:08:58,760 - 00:09:00,460] So in terms of revenue, what was the most
+- [00:09:00,460 - 00:09:02,160] amount of money that you ever made in a single
+- [00:09:02,160 - 00:09:03,160] year?
+- [00:09:03,160 - 00:09:06,760] We did revenue about 250 million in the good years.
+- [00:09:06,760 - 00:09:08,060] $250 million.
+- [00:09:08,060 - 00:09:10,340] What's more important, product or distribution?
+- [00:09:10,340 - 00:09:13,460] It's A or B. And neither one, actually.
+- [00:09:13,460 - 00:09:14,960] Products can be okay.
+- [00:09:14,960 - 00:09:16,639] Distribution's just a channel, but it's
+- [00:09:16,639 - 00:09:18,319] all about how you implement your plan.
+- [00:09:18,319 - 00:09:20,039] There's a lot of great products and a lot
+- [00:09:20,039 - 00:09:21,760] of good plans, but you got to implement it
+- [00:09:21,760 - 00:09:22,760] right.
+- [00:09:22,760 - 00:09:23,360] How did you scale from an
+- [00:09:23,360 - 00:09:23,960] eight to a nine figure business?
+- [00:09:23,960 - 00:09:25,560] There's a guy who wrote a book, Collins,
+- [00:09:25,560 - 00:09:27,160] I believe his name is, Get the Right People
+- [00:09:27,160 - 00:09:27,660] on the Bus.
+- [00:09:27,760 - 00:09:30,260] And it starts with the right people, and
+- [00:09:30,260 - 00:09:32,760] then it's about the business plan, financing it,
+- [00:09:32,760 - 00:09:33,760] and good partners.
+- [00:09:33,760 - 00:09:36,260] What was your relationship with debt as a business owner?
+- [00:09:36,260 - 00:09:37,210] Did you have to borrow money
+- [00:09:37,210 - 00:09:38,160] from banks to start and grow businesses?
+- [00:09:38,160 - 00:09:39,160] Or how did you-
+- [00:09:39,160 - 00:09:40,160] Yes.
+- [00:09:40,160 - 00:09:41,160] Yeah?
+- [00:09:41,160 - 00:09:42,160] Yes.
+- [00:09:42,160 - 00:09:42,710] But it's very hard because unless you
+- [00:09:42,710 - 00:09:43,260] have money, they don't loan you money.
+- [00:09:43,260 - 00:09:45,510] So trying to get started, it's one of
+- [00:09:45,510 - 00:09:47,760] the biggest problems we have today is banks don't
+- [00:09:47,760 - 00:09:50,040] loan money to small businesses.
+- [00:09:50,040 - 00:09:52,520] So getting started is very hard.
+- [00:09:52,520 - 00:09:54,840] I actually fund some stuff with small
+- [00:09:54,840 - 00:09:57,160] businesses today, and it's very, very difficult because,
+- [00:09:57,160 - 00:09:59,860] private equity and strategics have rolled up
+- [00:09:59,860 - 00:10:02,560] every industry, and banks only give money
+- [00:10:02,560 - 00:10:03,560] to the insiders.
+- [00:10:03,560 - 00:10:04,860] And you've sold hundreds of millions
+- [00:10:04,860 - 00:10:06,160] of dollars in revenue throughout your career.
+- [00:10:06,160 - 00:10:07,160] What was your secret to sales?
+- [00:10:07,160 - 00:10:09,710] The issue in terms of selling is there's
+- [00:10:09,710 - 00:10:12,260] some sellers that are, we call them hunters, and
+- [00:10:12,260 - 00:10:13,959] there's some sales guys that are farmers.
+- [00:10:13,959 - 00:10:14,959] Do you know what those are?
+- [00:10:14,959 - 00:10:15,959] You ever heard those phrases?
+- [00:10:15,959 - 00:10:16,959] I haven't heard that before.
+- [00:10:16,959 - 00:10:18,759] So a hunter is somebody who goes
+- [00:10:18,759 - 00:10:20,560] to look for new companies, new business.
+- [00:10:20,560 - 00:10:22,310] A farmer is somebody who gets
+- [00:10:22,310 - 00:10:24,060] more business out of the existing customers.
+- [00:10:24,060 - 00:10:27,060] So manager business, it's a combination of both.
+- [00:10:27,160 - 00:10:28,160] You got it?
+- [00:10:28,160 - 00:10:29,160] I got to go grab a thing.
+- [00:10:29,160 - 00:10:30,160] I appreciate you.
+- [00:10:30,160 - 00:10:31,160] How old are you now?
+- [00:10:32,160 - 00:10:33,160] You look incredible for 62.
+- [00:10:33,160 - 00:10:34,160] And real quick, I'm 22.
+- [00:10:34,160 - 00:10:35,160] Whose generation works harder, yours or mine?
+- [00:10:35,160 - 00:10:37,820] Well, individuals in your generation do well, but
+- [00:10:37,820 - 00:10:40,480] as a whole, one of the problems we have
+- [00:10:40,480 - 00:10:42,550] is, good expression for you, it's in
+- [00:10:42,550 - 00:10:44,620] the old days, it's always, I earn.
+- [00:10:44,620 - 00:10:47,180] Today it's, I deserve, not I earn.
+- [00:10:47,180 - 00:10:48,980] So entitlement's a big problem you see.
+- [00:10:48,980 - 00:10:52,100] Huge problem, which isn't necessarily the kid's problem.
+- [00:10:52,100 - 00:10:53,760] It's the parents for providing it.
+- [00:10:53,760 - 00:10:55,800] So the whole thing is everybody gets a trophy.
+- [00:10:55,800 - 00:10:56,800] I was a chairman.
+- [00:10:56,800 - 00:10:56,920] Yeah.
+- [00:10:57,160 - 00:10:58,679] I was a chairman of a regional
+- [00:10:58,679 - 00:11:00,199] board of education I got voted into.
+- [00:11:00,199 - 00:11:03,319] And I sat there at the negotiation and I said,
+- [00:11:03,319 - 00:11:06,439] okay, teachers, what we want to do is we have
+- [00:11:06,439 - 00:11:09,049] a bunch of middle schools I want to
+- [00:11:09,049 - 00:11:11,660] start comparing teachers of English class and blah,
+- [00:11:11,660 - 00:11:12,660] blah, blah.
+- [00:11:12,660 - 00:11:13,660] Well, we don't do that.
+- [00:11:13,660 - 00:11:14,660] I said, well, wait a minute.
+- [00:11:14,660 - 00:11:16,630] Do you teach your kids that A's
+- [00:11:16,630 - 00:11:18,600] are better than B's or better than C's?
+- [00:11:18,600 - 00:11:19,600] Yeah, but not for us.
+- [00:11:19,600 - 00:11:20,600] Yeah.
+- [00:11:20,600 - 00:11:21,920] It's part of what we're dealing with right now.
+- [00:11:21,920 - 00:11:22,920] Yeah.
+- [00:11:22,920 - 00:11:23,920] Thank you.
+- [00:11:23,920 - 00:11:24,920] Take care guys.
+- [00:11:24,920 - 00:11:25,920] Have a great day.
+- [00:11:25,920 - 00:11:26,920] Good luck.
+- [00:11:26,920 - 00:11:27,780] Bye-bye.
+- [00:11:27,780 - 00:11:28,780] Bye-bye.
+- [00:11:28,780 - 00:11:29,780] Take care.
+- [00:11:29,780 - 00:11:30,780] Yeah, thats me.
+- [00:11:30,780 - 00:11:31,780] Take care.
+- [00:11:31,780 - 00:11:32,780] Bye-bye.
+- [00:11:32,780 - 00:11:33,280] My real favorite part this morning and
+- [00:11:33,280 - 00:11:33,780] I'm football you really wanna talk about
+- [00:11:33,780 - 00:11:34,530] is that, um, I go
+- [00:11:34,530 - 00:11:35,280] out and manage that kids grandpa.
+- [00:11:35,280 - 00:11:36,280] Yeah.
+- [00:11:36,280 - 00:11:38,970] He told me he makes 10, 10 million
+- [00:11:38,970 - 00:11:41,660] dollars as if I'm fucking working for you.
+- [00:11:41,660 - 00:11:42,660] Ok.
+- [00:11:42,660 - 00:11:45,480] So it's like, it's part of what I do so
+- [00:11:45,480 - 00:11:48,300] I can share like a buddy that I'm like being
+- [00:11:48,300 - 00:11:49,800] fun, kind of freaking with you just
+- [00:11:49,800 - 00:11:51,300] to make sure that you understand the basics.
+- [00:11:51,300 - 00:11:52,300] Right.
+- [00:11:52,300 - 00:11:53,900] Your life, it's just so terrible for us kids.
+- [00:11:53,900 - 00:11:55,020] You mean what you mean what sick for you?
+- [00:11:55,020 - 00:11:56,020] Yeah.
+- [00:11:56,020 - 00:11:56,800] Cool.
+- [00:11:56,800 - 00:11:58,949] I was broke. And what did you do
+- [00:11:58,949 - 00:12:01,099] after the military? I started buying and selling businesses,
+- [00:12:01,260 - 00:12:04,160] moved overseas. Yeah? Yeah. So I ran aviation
+- [00:12:04,160 - 00:12:07,060] in Africa, construction in South America. Wow. So
+- [00:12:07,060 - 00:12:08,730] you were in like private equity, venture capital. What
+- [00:12:08,730 - 00:12:10,400] are you doing right now? Oh yeah, yeah. Some
+- [00:12:10,400 - 00:12:12,760] VC, some private equity, investment banking. Eight out
+- [00:12:12,760 - 00:12:15,120] of 10 businesses, they won't make it past five
+- [00:12:15,120 - 00:12:16,710] years. What's the most common mistake that you
+- [00:12:16,710 - 00:12:18,300] see business owners make that prevents them? Cash flow.
+- [00:12:18,780 - 00:12:21,020] Cash flow. Cash flow. It's really simple. What is
+- [00:12:21,020 - 00:12:23,260] the secret to managing that cash flow and turning
+- [00:12:23,260 - 00:12:25,230] it into real wealth? Having an 18 month cash
+- [00:12:25,230 - 00:12:27,200] flow model and then making sure that you're staying,
+- [00:12:27,400 - 00:12:29,520] keeping your head above water. Revenue is awesome, but
+- [00:12:29,520 - 00:12:31,640] you got to have cash flow to keep the doors
+- [00:12:31,640 - 00:12:33,520] open. In terms of revenue though, across all your
+- [00:12:33,520 - 00:12:35,400] companies, what was the most amount of money that
+- [00:12:35,400 - 00:12:37,620] you ever made in a single year? 11 mil. 11
+- [00:12:37,620 - 00:12:39,840] million dollars. And how did you scale from seven to eight
+- [00:12:39,840 - 00:12:41,750] figures? And what was your secret to
+- [00:12:41,750 - 00:12:43,660] scaling businesses? Focus. Yeah. No, no life balance,
+- [00:12:43,939 - 00:12:46,809] no family, no kids, no girlfriends, just business.
+- [00:12:46,809 - 00:12:49,680] What was the best financial advice that you ever
+- [00:12:49,680 - 00:12:51,430] received? Don't lose it. Break
+- [00:12:51,430 - 00:12:53,180] that down. How can you? No,
+- [00:12:53,260 - 00:12:55,490] make good deals, man. Yeah. Yeah. Nothing is
+- [00:12:55,490 - 00:12:57,720] real until you have a contract. Always have a
+- [00:12:57,720 - 00:12:59,579] contract. Always make sure that you're, you're
+- [00:12:59,579 - 00:13:01,439] keeping your hands above table. You do everything
+- [00:13:01,439 - 00:13:03,279] transparently. You don't do anything illegal, immoral
+- [00:13:03,279 - 00:13:05,120] or unethical. You've been at the table
+- [00:13:05,120 - 00:13:06,890] with some heavy hitters, I'm sure. Yeah. What
+- [00:13:06,890 - 00:13:08,660] is your best negotiation advice for people out there?
+- [00:13:08,700 - 00:13:10,530] Don't talk past the sale. Once you've got the
+- [00:13:10,530 - 00:13:12,360] sale done, don't keep talking. Keep your mouth shut.
+- [00:13:12,380 - 00:13:14,110] Just keep your mouth shut. Yeah. But what was
+- [00:13:14,110 - 00:13:15,840] your secret to sales and generating millions of dollars
+- [00:13:15,840 - 00:13:17,579] in revenue over these years? I'm not the sales guy.
+- [00:13:17,579 - 00:13:19,319] That's my secret is I know my, I know my
+- [00:13:19,319 - 00:13:21,169] strengths and I know my weaknesses. So what
+- [00:13:21,169 - 00:13:23,020] was your superpower then as a business owner? Motivation.
+- [00:13:23,260 - 00:13:25,620] Leadership. Leadership. Yeah. Taking, taking my
+- [00:13:25,620 - 00:13:27,980] special operations background and being able to
+- [00:13:27,980 - 00:13:30,020] apply it to apply it to business. So you
+- [00:13:30,020 - 00:13:32,060] were special ops in the military? Yes, sir. What branch?
+- [00:13:32,460 - 00:13:34,330] Army. Were you a ranger? Army, Green
+- [00:13:34,330 - 00:13:36,200] Beret. That's incredible, sir. How important was that
+- [00:13:36,200 - 00:13:37,990] military background in the business? Invaluable. Yeah.
+- [00:13:37,990 - 00:13:39,780] I wouldn't have changed it for anything.
+- [00:13:39,939 - 00:13:41,639] What was the lowest point in your career? Losing
+- [00:13:41,639 - 00:13:43,340] friends. How did you overcome that? And let's say
+- [00:13:43,340 - 00:13:44,810] somebody going through a tough time right now in
+- [00:13:44,810 - 00:13:46,280] life. How did you kind of overcome the adversity
+- [00:13:46,280 - 00:13:48,060] that you face in your life and business
+- [00:13:48,060 - 00:13:49,840] and the military? Daily gratitude. Yeah. I've got mantras
+- [00:13:49,840 - 00:13:51,520] in the morning that I go through.
+- [00:13:51,520 - 00:13:53,200] Meditation. Just staying positive, man. And make you
+- [00:13:53,200 - 00:13:54,780] so much for your time. Thanks guys. Appreciate you, man.
+- [00:13:54,780 - 00:13:56,360] Remind me your name? Jeff. Jeff, how old are you?
+- [00:13:56,780 - 00:13:59,250] Just turned 60. You're not 60 years old. Yeah.
+- [00:13:59,250 - 00:14:01,720] 23rd of July, I turned 60, man. Are you serious?
+- [00:14:01,920 - 00:14:03,730] Yeah. What's the secret to looking like this
+- [00:14:03,730 - 00:14:05,540] at 60 years old, man? That's crazy. Focus, man.
+- [00:14:05,760 - 00:14:07,450] Everything's about focus and discipline. You're 60 today.
+- [00:14:07,450 - 00:14:09,140] If you were to go back 40 years ago,
+- [00:14:09,240 - 00:14:10,780] what advice would you give to your 20 year
+- [00:14:10,780 - 00:14:12,320] old self to have that same blueprint of romantic
+- [00:14:12,320 - 00:14:13,910] success? Stay in the fight. Stay in the fight.
+- [00:14:13,910 - 00:14:15,500] Stay in the fight, man. Yes, sir. Thank you,
+- [00:14:15,500 - 00:14:16,970] my friend. You got amazing advice. Be
+- [00:14:16,970 - 00:14:18,440] good, man. Have a good day. Thank you.
+- [00:14:18,580 - 00:14:20,870] Hard Knocks family. That's a wrap on
+- [00:14:20,870 - 00:14:23,160] today's video. Scottsdale was absolutely amazing. Again,
+- [00:14:23,300 - 00:14:25,530] but I want you to like and subscribe for
+- [00:14:25,530 - 00:14:27,760] amazing content we've got coming very, very soon. And as
+- [00:14:27,760 - 00:14:30,010] I mentioned earlier, our private entrepreneur
+- [00:14:30,010 - 00:14:32,260] community hit over 1000 members because the
+- [00:14:32,260 - 00:14:34,710] people that join can connect with, learn
+- [00:14:34,710 - 00:14:37,160] directly from, and get mentored by the multi-millionaires
+- [00:14:37,160 - 00:14:39,050] and the billionaires I interview on this channel every
+- [00:14:39,050 - 00:14:40,940] single week. You do not want to miss out on
+- [00:14:40,940 - 00:14:42,990] this opportunity to join. So click the link down
+- [00:14:42,990 - 00:14:45,040] in the description or click right here and I'll
+- [00:14:45,040 - 00:14:46,530] see you on the inside. But with that
+- [00:14:46,530 - 00:14:48,020] being said, we'll see you in the next video.
