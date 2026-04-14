@@ -1,0 +1,340 @@
+# Transcript
+
+Source: lazyearn/school-of-hard-knocks/hard-knocks-interviews/057 - Young Entrepreneur Interviews SHAQ [0I0EPRu3DJ0].webm
+
+- [00:00:00,000 - 00:00:01,000] Who am I here with today?
+- [00:00:01,160 - 00:00:02,520] My name is Dr. Shaquille O'Neal.
+- [00:00:02,700 - 00:00:04,800] What industry did you decide to pursue a career in?
+- [00:00:04,880 - 00:00:05,500] A lot of them.
+- [00:00:05,640 - 00:00:07,460] What were you doing prior to becoming a business mogul?
+- [00:00:07,600 - 00:00:08,360] What was I doing prior?
+- [00:00:08,480 - 00:00:10,040] I was killing your favorite NBA player.
+- [00:00:10,100 - 00:00:12,280] You owned 155 Five Guys at one point.
+- [00:00:12,380 - 00:00:12,900] I sold them.
+- [00:00:13,140 - 00:00:13,640] You sold them?
+- [00:00:13,660 - 00:00:14,200] Yeah, I sold them.
+- [00:00:14,220 - 00:00:16,200] What's your secret to scaling in the franchise model,
+- [00:00:16,280 - 00:00:17,220] or just businesses in general?
+- [00:00:17,400 - 00:00:19,640] The secret to scaling is one word, delegation.
+- [00:00:20,020 - 00:00:22,100] I can't be in 155 places at once,
+- [00:00:22,200 - 00:00:23,600] but I know somebody that can.
+- [00:00:24,640 - 00:00:26,100] So you're really good at bringing other people
+- [00:00:26,100 - 00:00:26,840] in to run these businesses?
+- [00:00:26,860 - 00:00:27,380] Yes, I am.
+- [00:00:27,560 - 00:00:28,540] Did you come from a lot of money?
+- [00:00:28,720 - 00:00:29,360] No, never.
+- [00:00:29,360 - 00:00:31,419] What was the turning point to financial freedom for you?
+- [00:00:31,560 - 00:00:33,300] The secret was just having special motivation.
+- [00:00:33,460 - 00:00:34,820] My motivation was always being able
+- [00:00:34,820 - 00:00:36,060] to give my mother what she wants.
+- [00:00:36,260 - 00:00:37,019] Do you believe in God?
+- [00:00:37,160 - 00:00:37,420] Of course.
+- [00:00:37,620 - 00:00:38,640] Hey, my guy, you hungry?
+- [00:00:38,980 - 00:00:39,440] Uh, yeah.
+- [00:00:39,960 - 00:00:40,660] Go get a pizza.
+- [00:00:40,960 - 00:00:41,180] All right.
+- [00:00:41,480 - 00:00:42,000] I own it.
+- [00:00:42,019 - 00:00:42,660] It's all yours.
+- [00:00:42,879 - 00:00:43,200] You got it.
+- [00:00:43,400 - 00:00:44,280] Yeah, take what you want.
+- [00:00:44,480 - 00:00:44,760] Thank you.
+- [00:00:44,820 - 00:00:45,360] No problem.
+- [00:00:45,440 - 00:00:46,600] What was the most amount of money
+- [00:00:46,600 - 00:00:47,620] that you've made in single year?
+- [00:00:49,980 - 00:00:53,100] Guys, we just landed in Atlanta, Georgia,
+- [00:00:53,100 - 00:00:57,220] and we are headed right now to interview Shaquille O'Neal,
+- [00:00:57,220 - 00:00:59,220] who has a net worth of over $5,000.
+- [00:00:59,360 - 00:01:01,300] 500 million dollars.
+- [00:01:01,460 - 00:01:02,700] A lot of you guys
+- [00:01:02,700 - 00:01:03,940] have seen Shaq on TV commercials,
+- [00:01:04,160 - 00:01:06,340] not only is he one of the greatest basketball players
+- [00:01:06,340 - 00:01:08,560] of all time in the history of the NBA,
+- [00:01:08,780 - 00:01:10,539] but he's also a business mogul, guys.
+- [00:01:10,600 - 00:01:13,320] He owns hundreds of businesses all around the country.
+- [00:01:13,460 - 00:01:14,680] So we're gonna be asking
+- [00:01:14,680 - 00:01:15,900] him the secrets to his success
+- [00:01:15,900 - 00:01:17,840] in becoming one of the greatest athletes ever
+- [00:01:17,840 - 00:01:20,780] and how he became so wealthy outside of sports.
+- [00:01:20,920 - 00:01:21,900] So with that being said,
+- [00:01:22,000 - 00:01:23,000] let's go meet with Shaq and
+- [00:01:23,000 - 00:01:24,000] see what he has to say.
+- [00:01:29,360 - 00:01:36,080] Who am I here with today?
+- [00:01:36,200 - 00:01:37,600] My name is Dr. Shaquille O'Neal.
+- [00:01:37,800 - 00:01:38,840] And for those that don't know,
+- [00:01:38,840 - 00:01:41,080] what industry did you decide to pursue a career in?
+- [00:01:41,180 - 00:01:41,740] A lot of them.
+- [00:01:41,900 - 00:01:45,080] DJing, law enforcement, and food and beverages.
+- [00:01:45,080 - 00:01:45,280] Yeah.
+- [00:01:45,280 - 00:01:45,600] Pizza.
+- [00:01:45,600 - 00:01:46,650] And what were you doing
+- [00:01:46,650 - 00:01:47,700] prior to becoming a business mogul?
+- [00:01:47,800 - 00:01:48,600] What was I doing prior?
+- [00:01:48,680 - 00:01:50,240] I was killing your favorite NBA player.
+- [00:01:50,240 - 00:01:50,840] Let me ask you this.
+- [00:01:50,840 - 00:01:52,860] You became one of the greatest athletes of all time,
+- [00:01:52,860 - 00:01:53,800] not just basketball players,
+- [00:01:53,800 - 00:01:55,320] one of the greatest athletes of all time.
+- [00:01:55,360 - 00:01:56,890] What was the biggest driving factor
+- [00:01:56,890 - 00:01:58,420] of success for you throughout your career?
+- [00:01:58,460 - 00:01:59,160] I was a thief.
+- [00:01:59,160 - 00:02:00,119] Let me explain.
+- [00:02:00,259 - 00:02:02,179] If you see somebody that's doing better than you,
+- [00:02:02,399 - 00:02:04,259] and you would like to aspire to be them,
+- [00:02:04,479 - 00:02:05,479] steal what they're doing.
+- [00:02:05,759 - 00:02:07,479] So for me, I stole Michael Jordan.
+- [00:02:07,679 - 00:02:08,859] I stole Magic Johnson.
+- [00:02:09,120 - 00:02:10,419] I stole Kareem Abdul-Jabbar.
+- [00:02:10,560 - 00:02:11,600] I stole Muhammad Ali.
+- [00:02:11,840 - 00:02:13,260] And I put it inside my brain,
+- [00:02:13,359 - 00:02:14,940] and I created me, Shaquille O'Neal.
+- [00:02:15,060 - 00:02:16,740] And you generated and made hundreds
+- [00:02:16,740 - 00:02:18,420] of millions of dollars throughout your career.
+- [00:02:18,579 - 00:02:20,340] There's a stat Sports Illustrated just did
+- [00:02:20,340 - 00:02:22,050] that one in three NFL players
+- [00:02:22,050 - 00:02:23,760] go broke within three to five years.
+- [00:02:23,920 - 00:02:25,780] What's the best way to preserve that kind of wealth
+- [00:02:25,780 - 00:02:26,820] when you're making a lot of money?
+- [00:02:26,859 - 00:02:28,120] You get a lot of money dumped on you.
+- [00:02:28,120 - 00:02:29,140] It's easy to make a lot of money,
+- [00:02:29,200 - 00:02:30,359] it's hard to keep a lot of money.
+- [00:02:30,359 - 00:02:31,449] How have you been able to
+- [00:02:31,449 - 00:02:32,540] preserve hundreds of millions of dollars
+- [00:02:32,540 - 00:02:33,660] of that money that you made throughout your career?
+- [00:02:33,660 - 00:02:36,020] I think for those who are not financially literate,
+- [00:02:36,020 - 00:02:37,660] learn this word, annuity.
+- [00:02:37,840 - 00:02:39,100] Break that down for those that don't know it.
+- [00:02:39,200 - 00:02:40,040] You need to look it up.
+- [00:02:40,079 - 00:02:41,180] I know what annuity means.
+- [00:02:41,180 - 00:02:42,400] He knows what annuity means.
+- [00:02:42,400 - 00:02:43,840] But your homeowner can sign right now.
+- [00:02:43,920 - 00:02:44,400] Look it up.
+- [00:02:44,480 - 00:02:45,880] How many businesses do you own right now?
+- [00:02:45,960 - 00:02:46,840] I have no idea.
+- [00:02:46,840 - 00:02:48,680] And the reason I don't know how many I own,
+- [00:02:48,760 - 00:02:50,220] because I know who you are,
+- [00:02:50,220 - 00:02:51,760] and I know you're going to make us look good.
+- [00:02:51,760 - 00:02:53,720] But let's just say I own a thousand businesses.
+- [00:02:53,820 - 00:02:55,680] I don't want it to be edited like I'm bragging.
+- [00:02:55,720 - 00:02:57,160] But I own a lot.
+- [00:02:57,280 - 00:02:58,500] And across all of these, right?
+- [00:02:58,500 - 00:03:00,160] In one year, in terms of revenue,
+- [00:03:00,160 - 00:03:01,350] what was the most amount of money
+- [00:03:01,350 - 00:03:02,540] that you've made in a single year?
+- [00:03:02,540 - 00:03:03,820] You guys, we're about to get
+- [00:03:03,820 - 00:03:05,100] right back to this interview with Shaq.
+- [00:03:05,100 - 00:03:07,040] And it's about to get better and better.
+- [00:03:07,040 - 00:03:08,440] But real quick, I've got a very
+- [00:03:08,440 - 00:03:09,840] special announcement to make for you guys.
+- [00:03:09,840 - 00:03:11,390] So one of the biggest questions I
+- [00:03:11,390 - 00:03:12,940] get asked just about every single day
+- [00:03:12,940 - 00:03:14,730] from you guys is how can I
+- [00:03:14,730 - 00:03:16,520] connect with and get access to meeting
+- [00:03:16,520 - 00:03:17,880] the type of people that you're interviewing,
+- [00:03:17,880 - 00:03:19,180] the millionaires and the
+- [00:03:19,180 - 00:03:20,480] billionaires that you're always interviewing?
+- [00:03:20,480 - 00:03:22,320] And so for that reason, I
+- [00:03:22,320 - 00:03:24,160] launched and created one of the biggest,
+- [00:03:24,160 - 00:03:25,740] one of the greatest entrepreneur
+- [00:03:25,740 - 00:03:27,320] communities in the entire world
+- [00:03:27,320 - 00:03:28,500] called the School of Mentorship.
+- [00:03:28,500 - 00:03:30,420] And that is where I host
+- [00:03:30,420 - 00:03:32,340] live mentorship tours where every single week
+- [00:03:32,340 - 00:03:34,470] I host live mentorship calls with the
+- [00:03:34,470 - 00:03:36,600] biggest business owners in the entire world
+- [00:03:36,600 - 00:03:38,490] from eight and nine figure
+- [00:03:38,490 - 00:03:40,380] entrepreneurs to billion dollar company founders,
+- [00:03:40,380 - 00:03:43,140] the people that exited and grew billion dollar networks
+- [00:03:43,140 - 00:03:44,680] where you guys are able
+- [00:03:44,680 - 00:03:46,220] to ask your questions about business,
+- [00:03:46,220 - 00:03:48,250] about career advice, about life advice directly
+- [00:03:48,250 - 00:03:50,280] to them on how you can become
+- [00:03:50,280 - 00:03:52,700] business owners, entrepreneurs and successful people
+- [00:03:52,700 - 00:03:54,500] just like the people that I interview.
+- [00:03:54,500 - 00:03:56,500] Some of the people that we've had on these calls,
+- [00:03:56,500 - 00:03:58,500] you can't even pay them for their time.
+- [00:03:58,500 - 00:04:00,340] Some of them in the company,
+- [00:04:00,340 - 00:04:02,260] they don't even know the value of their time.
+- [00:04:02,260 - 00:04:03,680] And that's why we're here today with our host,
+- [00:04:03,680 - 00:04:04,760] Steven Klubeck who became a
+- [00:04:04,760 - 00:04:05,840] billionaire after selling his company
+- [00:04:05,840 - 00:04:07,380] for $2.2 billion to Hilton.
+- [00:04:07,380 - 00:04:09,940] He taught our community how to negotiate like a billionaire,
+- [00:04:09,940 - 00:04:11,160] how to get access to capital
+- [00:04:11,160 - 00:04:12,380] and find investors to help you start
+- [00:04:12,380 - 00:04:13,320] and grow your business.
+- [00:04:13,320 - 00:04:14,620] Or how about James Keyes,
+- [00:04:14,620 - 00:04:17,019] who was the former CEO of two multi-billion dollar
+- [00:04:17,019 - 00:04:19,560] Fortune 100 companies, Blockbuster and 7-Eleven?
+- [00:04:19,560 - 00:04:20,980] He taught our community how
+- [00:04:20,980 - 00:04:22,400] to become a CEO and leadership.
+- [00:04:22,400 - 00:04:23,800] How about Cody Sperber who
+- [00:04:23,800 - 00:04:25,200] runs four eight figure businesses?
+- [00:04:25,200 - 00:04:27,620] He taught our community how to invest in real estate
+- [00:04:27,620 - 00:04:28,300] without any money.
+- [00:04:28,500 - 00:04:30,910] last three years and growing this channel to
+- [00:04:30,910 - 00:04:33,320] over 10 million followers and most importantly building
+- [00:04:33,320 - 00:04:35,870] a multi multi-billion dollar network of people that
+- [00:04:35,870 - 00:04:38,420] i'm connected to it's that there's only one
+- [00:04:38,420 - 00:04:40,840] shortcut to success and that is mentorship the only
+- [00:04:40,840 - 00:04:43,260] way that you get from here to the place you
+- [00:04:43,260 - 00:04:45,250] want to be is getting around the right people
+- [00:04:45,250 - 00:04:47,240] and learning everything from them so that way you can
+- [00:04:47,240 - 00:04:49,430] implement exactly the things that they teach you and
+- [00:04:49,430 - 00:04:51,620] that's why for right now you can get access
+- [00:04:51,620 - 00:04:53,520] to the millionaires and the billionaires that
+- [00:04:53,520 - 00:04:55,420] i interview every week by joining this community
+- [00:04:55,420 - 00:04:57,490] by going down to the link in the description of
+- [00:04:57,490 - 00:04:59,560] this video i can't wait to see each and every one
+- [00:04:59,560 - 00:05:01,500] of you guys inside of this community with that
+- [00:05:01,500 - 00:05:03,440] being said let's get back to the video what was
+- [00:05:03,440 - 00:05:05,110] the most amount of money that you've made in a
+- [00:05:05,110 - 00:05:06,780] single year i have no idea because i don't do
+- [00:05:06,780 - 00:05:09,330] anything for monetary purposes i'm just happy to be
+- [00:05:09,330 - 00:05:11,880] blessed and i'm just happy to be alive and i'm
+- [00:05:11,880 - 00:05:13,860] just gonna continue working i don't know how much
+- [00:05:13,860 - 00:05:15,840] money i got in today's world do you think somebody
+- [00:05:15,840 - 00:05:17,950] should start a business or franchise a business both
+- [00:05:17,950 - 00:05:20,060] break that down i think you should start a
+- [00:05:20,060 - 00:05:22,080] business if you're inspired by something and you want
+- [00:05:22,080 - 00:05:24,100] to do something and you think it will work
+- [00:05:24,100 - 00:05:25,100] and you believe it will work
+- [00:05:25,100 - 00:05:25,360] well
+- [00:05:25,420 - 00:05:28,180] you see something that's working you do it for
+- [00:05:28,180 - 00:05:30,940] example on the campus of a business college i
+- [00:05:30,940 - 00:05:32,820] think it'll work let's invest eight out of ten
+- [00:05:32,820 - 00:05:34,700] companies they go out of business in five years
+- [00:05:34,700 - 00:05:36,460] in today's world from your perspective what's the
+- [00:05:36,460 - 00:05:38,220] most common mistake you see business owners make
+- [00:05:38,220 - 00:05:40,180] in today's world the common mistake business owners
+- [00:05:40,180 - 00:05:42,140] make is they think they know it all make
+- [00:05:42,140 - 00:05:43,960] sure you hire people that are smarter than you so
+- [00:05:43,960 - 00:05:45,780] what was the best advice you ever got from a
+- [00:05:45,780 - 00:05:48,570] mentor well i got two pieces of advice one piece
+- [00:05:48,570 - 00:05:51,360] of advice was to save 75 and have fun with 25
+- [00:05:51,360 - 00:05:53,230] the other one was to hire people that are smarter
+- [00:05:53,230 - 00:05:55,100] than me and you put at the table with some
+- [00:05:55,100 - 00:05:57,420] hitters what's your best negotiation advice for
+- [00:05:57,420 - 00:05:59,740] anybody in business don't talk first and start
+- [00:05:59,740 - 00:06:02,860] high i'll start off with 200 million they'll be
+- [00:06:02,860 - 00:06:05,980] like no 110 what about 140 what about 125 deal
+- [00:06:05,980 - 00:06:09,580] if you started 50 and their budget is 200 you just
+- [00:06:09,580 - 00:06:13,180] lost 150 million let me ask you this you own 155
+- [00:06:13,180 - 00:06:15,380] guys at one point i sold them you sold them
+- [00:06:15,380 - 00:06:17,580] yeah sober what's your secret to scaling in the franchise
+- [00:06:17,580 - 00:06:20,260] model just businesses in general the secret to scaling
+- [00:06:20,260 - 00:06:22,940] is one word delegation i can't be in 155
+- [00:06:22,940 - 00:06:23,060] places at once but i know somebody there can you see that on your screen thanks for sharing you've created some greatelles for difference what you want to
+- [00:06:23,060 - 00:06:23,180] say at the point where it's time in advance something we all want you to do is to miss some shoot onONup and get gathered into the halterшаun team
+- [00:06:23,180 - 00:06:25,620] at once but I know somebody that can. So
+- [00:06:25,620 - 00:06:28,060] you're really good at bringing other people in to run
+- [00:06:28,060 - 00:06:30,600] these businesses? Yes I am. So I actually
+- [00:06:30,600 - 00:06:33,140] learned that by winning championships. I know that you
+- [00:06:33,140 - 00:06:35,050] know having great teammates is very important to
+- [00:06:35,050 - 00:06:36,960] help you win championships. Yeah and did you come
+- [00:06:36,960 - 00:06:38,910] from a lot of money? No never. What was the
+- [00:06:38,910 - 00:06:40,860] turning point to financial freedom for you? Like how did
+- [00:06:40,860 - 00:06:43,390] you know? I saw horror stories about
+- [00:06:43,390 - 00:06:45,920] how five years after professional athletes start playing
+- [00:06:45,920 - 00:06:47,890] they have nothing. I didn't want to be part of a
+- [00:06:47,890 - 00:06:49,860] horror story so I had to teach myself. I made a
+- [00:06:49,860 - 00:06:51,960] very big mistake. The first time I got a
+- [00:06:51,960 - 00:06:54,060] million dollars I spent it in about 30 minutes. Bought
+- [00:06:54,060 - 00:06:56,210] three cars, I bought three juries, and I bought
+- [00:06:56,210 - 00:06:58,360] some suits because I didn't even know what FICO was.
+- [00:06:58,520 - 00:07:00,770] And how long were you in the NBA for? 19
+- [00:07:00,770 - 00:07:03,020] years. 19 years. What was the secret to that longevity? It's
+- [00:07:03,020 - 00:07:04,900] one thing to make it to the league. 99% of
+- [00:07:04,900 - 00:07:06,780] players that make it they weed out within two to three
+- [00:07:06,780 - 00:07:08,840] years. How did you have 19 years of longevity
+- [00:07:08,840 - 00:07:10,900] at the height of your game? The secret was just
+- [00:07:10,900 - 00:07:12,820] having special motivation. My motivation was always being
+- [00:07:12,820 - 00:07:14,740] able to get my mother what she wants.
+- [00:07:14,740 - 00:07:17,120] I did that for as long as I could and of
+- [00:07:17,120 - 00:07:19,500] course she has what she wants but after 19 years when
+- [00:07:19,500 - 00:07:19,670] you can't get it, you can't get it. I was
+- [00:07:19,670 - 00:07:19,840] a little bit more motivated. I was a little bit more
+- [00:07:19,840 - 00:07:21,340] motivated. I didn't do the things that the young
+- [00:07:21,340 - 00:07:22,840] people do anymore. You have to do something else.
+- [00:07:22,979 - 00:07:24,519] Do you believe in God? Of course. How
+- [00:07:24,519 - 00:07:26,060] important has faith been for you throughout your career?
+- [00:07:26,260 - 00:07:28,130] Very important. None of this is possible without God.
+- [00:07:28,130 - 00:07:30,000] What was the biggest risk you ever took in
+- [00:07:30,000 - 00:07:32,070] business? Not pulling the trigger when I had
+- [00:07:32,070 - 00:07:34,140] the opportunity to. Howard Schultz wanted to open
+- [00:07:34,140 - 00:07:36,980] Starbucks at the hood so when he used the term
+- [00:07:36,980 - 00:07:39,820] the hood I was thinking the hood but I didn't know
+- [00:07:39,820 - 00:07:42,399] anything about you know re-gentrification and
+- [00:07:42,399 - 00:07:44,979] re-beautification of you know certain areas and
+- [00:07:44,979 - 00:07:47,399] I didn't pull the trigger. And then Magic Johnson
+- [00:07:47,399 - 00:07:49,820] opened up I think 155 Starbucks. And among your
+- [00:07:49,840 - 00:07:50,840] best friends, you're the most successful person in the
+- [00:07:50,840 - 00:07:51,840] world. What is the one trait that you think
+- [00:07:51,840 - 00:07:52,590] you have in common with the most successful people
+- [00:07:52,590 - 00:07:53,340] that you study and know? What is that one trait
+- [00:07:53,340 - 00:07:55,140] that they all have in common? I think they're
+- [00:07:55,140 - 00:07:56,940] nice. I think they're humble and I think they have
+- [00:07:56,940 - 00:07:59,149] great people around them and they keep it very
+- [00:07:59,149 - 00:08:01,359] simple. Like Jeff Bezos said, you invest in things
+- [00:08:01,359 - 00:08:03,179] that's going to change people's lives. I heard
+- [00:08:03,179 - 00:08:05,000] him say that and I changed my whole investment
+- [00:08:05,000 - 00:08:07,670] strategy and I've been very, very successful. Hey
+- [00:08:07,670 - 00:08:10,340] my guy, you hungry? Yeah. Go get a pizza.
+- [00:08:10,960 - 00:08:13,259] I own it. It's all yours. Yeah, take what
+- [00:08:13,259 - 00:08:15,559] you want. Thank you. No problem. What's the number
+- [00:08:15,559 - 00:08:17,079] one thing that you look for in people when you're
+- [00:08:17,079 - 00:08:18,599] investing in a business? I like to believe in what
+- [00:08:18,600 - 00:08:20,320] they believe in. Like for example, if you was
+- [00:08:20,320 - 00:08:22,040] going to start this company and you came in with
+- [00:08:22,040 - 00:08:24,330] those beautiful eyes and told me your passion, I
+- [00:08:24,330 - 00:08:26,620] would definitely invest in you. I'm a big fan of
+- [00:08:26,620 - 00:08:28,080] yours. How did you find the self-belief to
+- [00:08:28,080 - 00:08:29,540] go make hundreds of millions of dollars throughout your
+- [00:08:29,540 - 00:08:31,790] career? That's kind of a tricky question. I had
+- [00:08:31,790 - 00:08:34,039] an athletic advantage where I was given a lot of
+- [00:08:34,039 - 00:08:35,860] money to play sports and then I took that
+- [00:08:35,860 - 00:08:37,679] money and leveraged it and did certain things. So I
+- [00:08:37,679 - 00:08:39,940] could kind of answer that question, but I really can't
+- [00:08:39,940 - 00:08:42,200] because for me it was all luck. Do you think
+- [00:08:42,200 - 00:08:44,110] everybody's built for entrepreneurship? I think yes,
+- [00:08:44,110 - 00:08:46,020] everybody is. And my final one for you,
+- [00:08:46,240 - 00:08:47,300] somebody watching this right now,
+- [00:08:47,300 - 00:08:48,360] they don't come from anything,
+- [00:08:48,600 - 00:08:50,200] maybe they're at rock bottom, something bad just
+- [00:08:50,200 - 00:08:51,800] happened to them. Give them a quick 60 second
+- [00:08:51,800 - 00:08:53,760] blueprint, a couple pieces of advice to really
+- [00:08:53,760 - 00:08:55,720] stick with them. They want to become Shaquille O'Neal
+- [00:08:55,720 - 00:08:57,740] wealthy in today's world. If you have a plan,
+- [00:08:57,740 - 00:08:59,760] write it down, figure it out. If somebody else
+- [00:08:59,760 - 00:09:02,010] is already doing what you're doing, watch
+- [00:09:02,010 - 00:09:04,260] them, steer what they're doing, add your razzmatazz
+- [00:09:04,260 - 00:09:06,540] to it and you should be fine. But always
+- [00:09:06,540 - 00:09:08,820] believe there will be ups and downs in this business.
+- [00:09:09,000 - 00:09:10,620] The longer you believe, the quicker you'll make it
+- [00:09:10,620 - 00:09:12,240] to the top. You got amazing advice, my friend.
+- [00:09:12,340 - 00:09:14,150] I really appreciate you. It means a lot. Thank
+- [00:09:14,150 - 00:09:15,960] you for, I got to come over here. Thank you,
+- [00:09:16,020 - 00:09:17,280] my man. I appreciate you,
+- [00:09:17,280 - 00:09:18,540] man. You guys, that's a wrap.
+- [00:09:18,600 - 00:09:21,300] On today's video, we just interviewed Shaquille
+- [00:09:21,300 - 00:09:24,000] O'Neal, one of the craziest interviews you can
+- [00:09:24,000 - 00:09:26,050] possibly get in this game. Not only is he
+- [00:09:26,050 - 00:09:28,100] one of the most famous people in the world,
+- [00:09:28,100 - 00:09:30,330] but he's one of the greatest athletes of
+- [00:09:30,330 - 00:09:32,560] all time and is now an absolute business mogul.
+- [00:09:32,680 - 00:09:34,650] But I need everybody watching to like
+- [00:09:34,650 - 00:09:36,620] and subscribe for amazing content we've got coming
+- [00:09:36,620 - 00:09:38,630] very, very soon with the
+- [00:09:38,630 - 00:09:40,640] world's leading entrepreneurs, athletes, celebrities,
+- [00:09:40,920 - 00:09:42,460] business professionals. You do not want to miss
+- [00:09:42,460 - 00:09:44,000] out on the content I have coming very soon.
+- [00:09:44,120 - 00:09:45,890] And as I mentioned earlier, guys, everybody watching
+- [00:09:45,890 - 00:09:47,660] needs to be a member of my private
+- [00:09:47,660 - 00:09:48,580] entrepreneur community.
+- [00:09:48,760 - 00:09:50,330] To get connected directly, to get
+- [00:09:50,330 - 00:09:51,900] mentored directly from the millionaires and the
+- [00:09:51,900 - 00:09:54,110] billionaires that I interview every single week in my
+- [00:09:54,110 - 00:09:56,320] community. To join, go to the link in the
+- [00:09:56,320 - 00:09:58,050] description of this video. I can't wait to see
+- [00:09:58,050 - 00:09:59,780] on the inside of my community, these school of
+- [00:09:59,780 - 00:10:01,020] mentors. But with that being said,
+- [00:10:01,020 - 00:10:02,260] I'll see you in the next video.
