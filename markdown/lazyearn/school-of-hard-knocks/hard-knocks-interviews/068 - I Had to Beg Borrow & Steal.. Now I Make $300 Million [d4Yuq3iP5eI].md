@@ -1,0 +1,854 @@
+# Transcript
+
+Source: lazyearn/school-of-hard-knocks/hard-knocks-interviews/068 - I Had to Beg Borrow & Steal.. Now I Make $300 Million [d4Yuq3iP5eI].webm
+
+- [00:00:00,000 - 00:00:02,029] A couple of weeks ago, I interviewed
+- [00:00:02,029 - 00:00:04,059] a $300 million entrepreneur in Houston, Texas.
+- [00:00:04,340 - 00:00:06,200] Excuse me, sir. Is this your Ferrari?
+- [00:00:06,380 - 00:00:06,820] Yeah, it is.
+- [00:00:06,920 - 00:00:08,029] What do you do for living out in
+- [00:00:08,029 - 00:00:09,140] Houston, Texas to be able to afford a Ferrari?
+- [00:00:09,300 - 00:00:09,860] I'm an entrepreneur.
+- [00:00:10,240 - 00:00:11,660] And how long have you been a business owner for?
+- [00:00:11,720 - 00:00:12,240] 21 years.
+- [00:00:12,340 - 00:00:13,340] And what type of business do you run?
+- [00:00:13,420 - 00:00:15,260] I own a labor force management company.
+- [00:00:15,420 - 00:00:16,370] How important was it for
+- [00:00:16,370 - 00:00:17,320] you learning how to master delegation?
+- [00:00:17,520 - 00:00:19,220] Let's put it this way. How important is it?
+- [00:00:19,280 - 00:00:20,530] My company will do $300
+- [00:00:20,530 - 00:00:21,780] million this year in revenue, right?
+- [00:00:21,860 - 00:00:23,100] If I were still doing it
+- [00:00:23,100 - 00:00:24,340] all myself, we might do three.
+- [00:00:24,480 - 00:00:27,540] That video got over 20 million views across social media.
+- [00:00:27,540 - 00:00:29,030] His name is Louis, and he invited
+- [00:00:29,030 - 00:00:30,520] us out to his private car collection
+- [00:00:30,520 - 00:00:31,880] that's worth over $20 million to
+- [00:00:31,880 - 00:00:33,240] drop some more game for you guys.
+- [00:00:33,339 - 00:00:34,429] So with that being said, let's
+- [00:00:34,429 - 00:00:35,519] go see what Louis has to say.
+- [00:00:39,220 - 00:00:40,560] Louis, how's it going, my friend?
+- [00:00:40,820 - 00:00:42,120] Wonderful, sir. Good to see you.
+- [00:00:42,200 - 00:00:43,379] Thanks for having us out here, man.
+- [00:00:43,460 - 00:00:44,080] Yeah, absolutely.
+- [00:00:44,239 - 00:00:46,680] This is the private car collection right here.
+- [00:00:46,820 - 00:00:48,290] This is it. This is it.
+- [00:00:48,290 - 00:00:49,760] It's pretty well hidden, which I like.
+- [00:00:51,080 - 00:00:52,729] Things private, but yeah, here we
+- [00:00:52,729 - 00:00:54,379] are. This is most of it.
+- [00:00:54,640 - 00:00:56,400] So I interviewed you out in Houston, Texas.
+- [00:00:56,400 - 00:00:56,720] Yeah.
+- [00:00:56,900 - 00:00:57,519] The video got over 20 million views.
+- [00:00:57,540 - 00:01:00,140] I never expected that. It was crazy.
+- [00:01:00,400 - 00:01:01,660] You built a $300 million company.
+- [00:01:01,980 - 00:01:03,200] Yes. Yes. Absolutely.
+- [00:01:03,500 - 00:01:05,080] And we're at your private car collection now.
+- [00:01:05,200 - 00:01:06,060] How many cars do you have here?
+- [00:01:06,260 - 00:01:09,920] So today, I think we've got 21 cars here currently,
+- [00:01:10,140 - 00:01:11,900] at least in this warehouse right now.
+- [00:01:11,960 - 00:01:13,030] Can we check some of them out and
+- [00:01:13,030 - 00:01:14,100] just kind of like see what you got?
+- [00:01:14,280 - 00:01:16,450] Yeah, we've got, I think we've got
+- [00:01:16,450 - 00:01:18,620] about 14 Ferraris currently in the collection.
+- [00:01:18,880 - 00:01:20,420] About six Lamborghinis.
+- [00:01:20,560 - 00:01:22,980] And then there's other things, you know, Rolls Royce,
+- [00:01:23,080 - 00:01:24,560] a couple of Porsches here and there.
+- [00:01:24,780 - 00:01:26,380] There's some stuff that only makes sense to me,
+- [00:01:26,380 - 00:01:27,520] like my very first car.
+- [00:01:27,700 - 00:01:29,160] I got my first car when I was 17.
+- [00:01:29,360 - 00:01:29,740] Yeah.
+- [00:01:29,740 - 00:01:30,660] A Mokita Bandit Trans Am.
+- [00:01:30,860 - 00:01:31,930] I got to ask you about
+- [00:01:31,930 - 00:01:33,000] these two, these two Lamborghinis right here.
+- [00:01:33,200 - 00:01:34,560] I see the, these are insane.
+- [00:01:34,760 - 00:01:37,000] Gold and orange Lambos right here.
+- [00:01:37,200 - 00:01:37,760] Yeah.
+- [00:01:37,960 - 00:01:38,660] Growing up, did you ever
+- [00:01:38,660 - 00:01:39,360] think that all this was possible?
+- [00:01:39,560 - 00:01:40,660] Did you ever think that you were going to
+- [00:01:40,660 - 00:01:41,760] make all this happen when you were growing up?
+- [00:01:41,960 - 00:01:43,600] You know what? I definitely had the dream.
+- [00:01:43,800 - 00:01:44,900] The dream was actually of the
+- [00:01:44,900 - 00:01:46,000] Countach here in the very back.
+- [00:01:46,200 - 00:01:47,460] But I will tell you, I
+- [00:01:47,460 - 00:01:48,720] didn't have a dream this big.
+- [00:01:48,920 - 00:01:49,360] Yeah.
+- [00:01:49,560 - 00:01:51,120] But, but, you know, I think the belief
+- [00:01:51,120 - 00:01:52,680] in yourself comes one way or the other.
+- [00:01:52,880 - 00:01:54,040] And then the more you have some
+- [00:01:54,040 - 00:01:55,200] achievements and you make some things happen,
+- [00:01:55,400 - 00:01:56,100] the dream begins to grow bigger
+- [00:01:56,100 - 00:01:56,800] and bigger as your confidence grows.
+- [00:01:56,800 - 00:01:59,100] So what's more important, mindset or skill set?
+- [00:01:59,300 - 00:02:00,660] Mindset. 100%.
+- [00:02:00,860 - 00:02:02,780] Yeah. I talk about this all the time.
+- [00:02:02,979 - 00:02:04,239] You know, I can give you
+- [00:02:04,239 - 00:02:05,500] skills, but I can't control your mindset.
+- [00:02:05,500 - 00:02:07,179] I can't give you passion. I can't give you drive.
+- [00:02:07,179 - 00:02:08,300] And what type of business do you run?
+- [00:02:08,500 - 00:02:10,380] So FX is a labor force management company.
+- [00:02:10,380 - 00:02:12,650] So we partner with companies all over the United
+- [00:02:12,650 - 00:02:14,920] States and they outsource their entire labor force to us.
+- [00:02:14,920 - 00:02:16,320] And I noticed the Ferrari right over here.
+- [00:02:16,320 - 00:02:17,920] This is the Ferrari that I actually interviewed you with.
+- [00:02:17,920 - 00:02:19,420] Yeah, that was the one you came up
+- [00:02:19,420 - 00:02:20,920] to me in that day, which is crazy.
+- [00:02:20,920 - 00:02:22,270] In fact, I'm not even sure if I had
+- [00:02:22,270 - 00:02:23,620] a chance to drive it since I saw you last.
+- [00:02:23,620 - 00:02:24,920] Yeah, that's incredible.
+- [00:02:24,920 - 00:02:26,760] I mean, you kind of have that moment where like,
+- [00:02:26,800 - 00:02:27,800] you don't even know what to choose
+- [00:02:27,800 - 00:02:28,800] from pretty much a lot of the time.
+- [00:02:28,800 - 00:02:30,050] That, you know, it's the
+- [00:02:30,050 - 00:02:31,300] two big decisions of my morning.
+- [00:02:31,300 - 00:02:32,470] And this sounds kind of silly, but
+- [00:02:32,470 - 00:02:33,640] it's what car am I going to drive?
+- [00:02:33,640 - 00:02:34,560] And what watch am I going
+- [00:02:34,560 - 00:02:35,480] to wear? Those are my big ones.
+- [00:02:35,480 - 00:02:36,720] Yeah, that's incredible, man.
+- [00:02:36,720 - 00:02:38,440] Do you think everybody's built for entrepreneurship?
+- [00:02:38,440 - 00:02:39,640] Absolutely not.
+- [00:02:39,640 - 00:02:41,080] I, it is tough.
+- [00:02:41,080 - 00:02:42,820] You know, I was mentoring a gentleman
+- [00:02:42,820 - 00:02:44,560] yesterday, someone I cared very dearly about.
+- [00:02:44,560 - 00:02:46,170] I've known this person for a very
+- [00:02:46,170 - 00:02:47,780] long time and he's got great ideas.
+- [00:02:47,780 - 00:02:49,890] And he's had some terrible failures and
+- [00:02:49,890 - 00:02:52,000] not from lack of trying or caring.
+- [00:02:52,120 - 00:02:53,820] But at the end of the day, you
+- [00:02:53,820 - 00:02:55,520] could just tell the risk of being an entrepreneur,
+- [00:02:55,520 - 00:02:56,800] the toll that it takes them.
+- [00:02:56,800 - 00:02:59,060] It's more than it's not mentally healthy for him.
+- [00:02:59,060 - 00:03:00,340] And that's I see that with most people.
+- [00:03:00,340 - 00:03:01,820] In fact, when most people come to
+- [00:03:01,820 - 00:03:03,300] me for mentorship about being an entrepreneur,
+- [00:03:03,340 - 00:03:04,420] I usually try to spend a lot
+- [00:03:04,420 - 00:03:05,500] of time talking them out of it.
+- [00:03:05,500 - 00:03:07,680] It is very, very, very difficult.
+- [00:03:07,680 - 00:03:08,950] Did you know that one in
+- [00:03:08,950 - 00:03:10,220] four millionaires are living paycheck to paycheck?
+- [00:03:10,480 - 00:03:12,480] Unfortunately, yes. Isn't that insane?
+- [00:03:12,480 - 00:03:13,750] So from your perspective, what
+- [00:03:13,750 - 00:03:15,020] keeps people broke in today's world?
+- [00:03:15,120 - 00:03:16,760] Spending money? Absolutely.
+- [00:03:16,760 - 00:03:18,140] You know, I think that I don't know
+- [00:03:18,140 - 00:03:19,520] whether it's through social media or things like,
+- [00:03:19,520 - 00:03:20,740] you know, listen, I've been collecting
+- [00:03:20,740 - 00:03:21,960] cars or watches for a long time,
+- [00:03:21,960 - 00:03:23,840] and I've seen this massive explosion in
+- [00:03:23,840 - 00:03:25,720] the last seven, eight years of more
+- [00:03:25,720 - 00:03:26,800] and more people spending
+- [00:03:26,800 - 00:03:28,750] a lot of money on cars and
+- [00:03:28,750 - 00:03:30,700] watches and second homes and things like that.
+- [00:03:30,700 - 00:03:32,000] And I think people continue to go
+- [00:03:32,000 - 00:03:33,300] out and get more and more leveraged
+- [00:03:33,300 - 00:03:34,720] and things that they shouldn't be getting
+- [00:03:34,720 - 00:03:36,140] leveraged in taking on more and more debt.
+- [00:03:36,140 - 00:03:38,010] I think I've been reading actually
+- [00:03:38,010 - 00:03:39,880] currently right now where Americans now
+- [00:03:39,880 - 00:03:41,310] owe more credit card debt than at
+- [00:03:41,310 - 00:03:42,740] any other point in time in history,
+- [00:03:42,740 - 00:03:44,260] even though we as a
+- [00:03:44,260 - 00:03:45,780] as a as an overall country
+- [00:03:45,780 - 00:03:47,680] are making more income than
+- [00:03:47,680 - 00:03:49,580] we ever have as a whole.
+- [00:03:49,580 - 00:03:51,060] And yet we have more debt.
+- [00:03:51,060 - 00:03:52,790] People are going out and blowing
+- [00:03:52,790 - 00:03:54,520] money on things that have no ROI.
+- [00:03:54,520 - 00:03:56,800] They're not spend money on things that make you money.
+- [00:03:56,800 - 00:03:58,070] Right. Don't go out and blow money
+- [00:03:58,070 - 00:03:59,340] on that new Rolex, a new Patek,
+- [00:03:59,340 - 00:04:01,340] the new Ferrari, the new Lambo or whatever it is.
+- [00:04:01,340 - 00:04:02,560] Invest that money in something that's
+- [00:04:02,560 - 00:04:03,780] going to give you an ROI.
+- [00:04:03,780 - 00:04:05,800] People are taking out debt to buy consumable
+- [00:04:05,800 - 00:04:07,820] products and things like that and blowing their money.
+- [00:04:07,820 - 00:04:08,920] Like you said, one in four
+- [00:04:08,920 - 00:04:10,020] millionaires live in paycheck to paycheck.
+- [00:04:10,020 - 00:04:10,900] What does that tell you? No
+- [00:04:10,900 - 00:04:11,780] matter how much money you make,
+- [00:04:11,780 - 00:04:13,180] you still got to live within your means.
+- [00:04:13,180 - 00:04:14,599] You know, we were making good money,
+- [00:04:14,599 - 00:04:16,019] but every dollar I made every week
+- [00:04:16,019 - 00:04:17,619] had to stay in the company to
+- [00:04:17,619 - 00:04:19,220] reduce my debt liabilities the next week.
+- [00:04:19,220 - 00:04:20,160] So I can do one of
+- [00:04:20,160 - 00:04:21,100] that down week after week after week.
+- [00:04:21,100 - 00:04:22,500] Then once I got the company out of debt,
+- [00:04:22,500 - 00:04:24,650] then I still had to build my balance sheet of
+- [00:04:24,650 - 00:04:26,800] retained earnings to be able to grow and fund the company.
+- [00:04:26,800 - 00:04:29,000] And that's how I started scaling growth.
+- [00:04:29,000 - 00:04:30,070] Eight out of ten businesses, they
+- [00:04:30,070 - 00:04:31,140] won't make it past five years.
+- [00:04:31,140 - 00:04:31,680] Yeah.
+- [00:04:31,680 - 00:04:32,990] What's the most common mistake that
+- [00:04:32,990 - 00:04:34,300] business owners make in today's world?
+- [00:04:34,300 - 00:04:36,540] They get the company to where it's doing
+- [00:04:36,540 - 00:04:38,780] OK or good enough and they quit growing.
+- [00:04:38,780 - 00:04:40,840] Look, we're doing 300 million this year in revenue.
+- [00:04:40,840 - 00:04:42,320] Our goal is a billion, right?
+- [00:04:42,320 - 00:04:43,820] And it reminds me of the quote
+- [00:04:43,820 - 00:04:45,320] that Jack Welch said where he said,
+- [00:04:45,320 - 00:04:47,120] the day you stop growing as a business is
+- [00:04:47,120 - 00:04:48,920] the day you begin to die on the vine.
+- [00:04:48,920 - 00:04:50,670] And it's so true. You've got to
+- [00:04:50,670 - 00:04:52,420] continue to grow and scale that business.
+- [00:04:52,420 - 00:04:54,390] The moment that you don't, the customer
+- [00:04:54,390 - 00:04:56,360] base, whatever you've got recurring your revenue
+- [00:04:56,360 - 00:04:56,800] is going to begin to do it again.
+- [00:04:56,800 - 00:04:57,800] So you're not going to dwindle.
+- [00:04:57,800 - 00:04:59,300] Your competitors, they're not resting on their laurels.
+- [00:04:59,300 - 00:05:00,500] They're sharpening their business.
+- [00:05:00,500 - 00:05:01,800] They're getting better and better and better.
+- [00:05:01,800 - 00:05:02,700] And they're coming for you.
+- [00:05:02,700 - 00:05:04,000] The game you're dropping is amazing.
+- [00:05:04,000 - 00:05:04,820] I'd love to be able to
+- [00:05:04,820 - 00:05:05,640] sit down and ask you some questions.
+- [00:05:05,640 - 00:05:06,300] Is that cool?
+- [00:05:06,300 - 00:05:07,420] Absolutely, man. Let's do it.
+- [00:05:07,420 - 00:05:09,980] Right. So now I interviewed you back in July.
+- [00:05:09,980 - 00:05:11,800] One of the things that I asked you,
+- [00:05:11,800 - 00:05:13,620] right, because getting that capital to start businesses
+- [00:05:13,620 - 00:05:15,320] is a big problem that a lot of people face.
+- [00:05:15,320 - 00:05:17,690] And you said that you had to beg, borrow and
+- [00:05:17,690 - 00:05:20,060] steal to get the means to kind of start that business.
+- [00:05:20,060 - 00:05:21,580] Can you kind of break down, in your
+- [00:05:21,580 - 00:05:23,100] opinion, the most efficient way to get the capital
+- [00:05:23,100 - 00:05:24,660] to start and grow businesses in
+- [00:05:24,660 - 00:05:26,220] today's world and how you did it?
+- [00:05:26,220 - 00:05:26,800] And versus.
+- [00:05:26,800 - 00:05:27,970] Maybe in today's world, what you would
+- [00:05:27,970 - 00:05:29,140] do if you were a business owner today,
+- [00:05:29,140 - 00:05:30,690] what is that blueprint that you would take
+- [00:05:30,690 - 00:05:32,240] to get the money to start and grow businesses?
+- [00:05:32,240 - 00:05:32,980] Right, right.
+- [00:05:32,980 - 00:05:35,450] You know, a lot of people come to
+- [00:05:35,450 - 00:05:37,920] people like me today, right, or other very successful
+- [00:05:37,920 - 00:05:39,920] entrepreneurs looking for the investment.
+- [00:05:39,920 - 00:05:42,580] OK, and that's not necessarily wrong.
+- [00:05:42,580 - 00:05:43,550] I think there's a lot
+- [00:05:43,550 - 00:05:44,520] of good to be done there.
+- [00:05:44,520 - 00:05:46,970] But but let's be honest, if you come
+- [00:05:46,970 - 00:05:49,420] to me and you've got a great idea, right,
+- [00:05:49,420 - 00:05:51,040] and you haven't launched anything yet,
+- [00:05:51,040 - 00:05:52,660] you're looking for seed money, right?
+- [00:05:52,660 - 00:05:54,260] I'm taking all the financial risk.
+- [00:05:54,260 - 00:05:56,360] You're going to risk your time and some sweat equity.
+- [00:05:56,360 - 00:05:56,580] But if it goes to the
+- [00:05:56,580 - 00:05:56,800] bottom, you're going to risk your money.
+- [00:05:56,800 - 00:05:59,240] If it goes south, it's my money, not yours.
+- [00:05:59,240 - 00:05:59,740] Right.
+- [00:05:59,740 - 00:06:01,540] And and I'm going to be in control
+- [00:06:01,540 - 00:06:03,340] of that money, how that money gets spent.
+- [00:06:03,880 - 00:06:04,990] Let's just say you're a young
+- [00:06:04,990 - 00:06:06,100] man or young woman coming to me.
+- [00:06:06,340 - 00:06:08,240] Little to no business experience or acumen.
+- [00:06:08,240 - 00:06:09,040] But you've got a great idea.
+- [00:06:09,040 - 00:06:10,380] And we both believe in the idea.
+- [00:06:10,380 - 00:06:12,240] I see great ideas happen all the time.
+- [00:06:12,240 - 00:06:14,280] They don't succeed because they don't know how to execute.
+- [00:06:14,280 - 00:06:14,820] So we'll get in.
+- [00:06:14,820 - 00:06:16,720] We'll talk more about execution in a minute.
+- [00:06:16,720 - 00:06:18,170] Point is, though, you come most
+- [00:06:18,170 - 00:06:19,620] people are coming to people like myself
+- [00:06:19,620 - 00:06:21,260] or other successful entrepreneurs
+- [00:06:21,260 - 00:06:22,900] looking for that capital front.
+- [00:06:23,020 - 00:06:24,140] Well, we're going to want to be
+- [00:06:24,140 - 00:06:25,260] in control of how that money gets spent.
+- [00:06:25,260 - 00:06:26,700] So we're going to want majority equity.
+- [00:06:26,700 - 00:06:26,800] And
+- [00:06:26,800 - 00:06:28,800] that in that venture, right?
+- [00:06:28,800 - 00:06:31,040] 51% plus, depending on the deal.
+- [00:06:31,180 - 00:06:31,640] Right.
+- [00:06:31,640 - 00:06:34,140] And usually seed money is a
+- [00:06:34,140 - 00:06:36,640] 70% partnership where you're getting 30.
+- [00:06:37,240 - 00:06:39,040] But I'm taking 100% of the financial risk.
+- [00:06:39,040 - 00:06:41,040] So there's give and take there.
+- [00:06:41,040 - 00:06:43,060] For me, what I like to see
+- [00:06:43,060 - 00:06:45,080] people do and where they're going to be
+- [00:06:45,080 - 00:06:47,360] in a much better position for a capital perspective
+- [00:06:47,660 - 00:06:49,960] is to start trying to cash flow their growth.
+- [00:06:50,600 - 00:06:51,060] I see.
+- [00:06:51,060 - 00:06:52,460] In fact, I just had a gentleman
+- [00:06:52,460 - 00:06:53,860] here yesterday was meeting with mentoring him,
+- [00:06:54,260 - 00:06:56,620] and he took out $100,000
+- [00:06:56,620 - 00:06:56,700] loan
+- [00:06:56,700 - 00:06:56,800] and he took out $100,000 loan
+- [00:06:56,800 - 00:06:57,800] and he took out $100,000 loan
+- [00:06:57,800 - 00:06:58,800] to put it into this business.
+- [00:06:58,800 - 00:06:59,340] Right.
+- [00:06:59,340 - 00:07:00,840] The business was already generating revenue.
+- [00:07:00,840 - 00:07:03,270] Like, why didn't you not pay
+- [00:07:03,270 - 00:07:05,700] yourself as little to none as possible?
+- [00:07:05,980 - 00:07:07,830] Live off of some sort of savings, live
+- [00:07:07,830 - 00:07:09,680] a very menial life for a long time,
+- [00:07:09,940 - 00:07:11,840] build up that money, right?
+- [00:07:11,840 - 00:07:13,230] Rather than going taking out this loan,
+- [00:07:13,230 - 00:07:14,620] took on all that risk at once
+- [00:07:14,760 - 00:07:16,520] and didn't have the revenue to support it.
+- [00:07:16,520 - 00:07:18,710] So I'd rather see people cash flow
+- [00:07:18,710 - 00:07:20,900] issues, their growth like that in small chunks.
+- [00:07:20,900 - 00:07:23,260] Right now, for me, as I mentioned,
+- [00:07:23,260 - 00:07:25,620] the first deal was $9 million a year.
+- [00:07:26,020 - 00:07:26,300] Right.
+- [00:07:26,300 - 00:07:26,700] Annualized.
+- [00:07:26,700 - 00:07:27,360] Annualized revenue.
+- [00:07:27,360 - 00:07:29,200] They needed 30 day pay terms.
+- [00:07:29,200 - 00:07:30,039] Right.
+- [00:07:30,039 - 00:07:30,599] So I needed what?
+- [00:07:30,599 - 00:07:33,089] About about about a million roughly because 30 day
+- [00:07:33,089 - 00:07:35,580] pay terms plus your fifth week of expenses going out.
+- [00:07:35,740 - 00:07:37,880] Hopefully that payment comes in on time.
+- [00:07:37,880 - 00:07:38,120] Right.
+- [00:07:38,120 - 00:07:39,200] So we're looking at five weeks
+- [00:07:39,200 - 00:07:40,280] that you're having a cash flow.
+- [00:07:40,280 - 00:07:42,080] So I need about a million bucks.
+- [00:07:42,080 - 00:07:45,050] I went to what's called invoice factoring
+- [00:07:45,050 - 00:07:48,020] type of services or accounts receivable factoring.
+- [00:07:48,180 - 00:07:49,919] And that's it's horrible.
+- [00:07:49,919 - 00:07:51,520] It's 21% interest rate.
+- [00:07:51,520 - 00:07:51,800] Right.
+- [00:07:51,800 - 00:07:52,960] When it's all said and done.
+- [00:07:52,960 - 00:07:54,800] That's why I refer to it as loan shark money.
+- [00:07:54,800 - 00:07:55,260] Right.
+- [00:07:55,260 - 00:07:56,599] And they essentially every week,
+- [00:07:56,600 - 00:07:57,560] I present my invoices.
+- [00:07:57,560 - 00:08:00,300] They buy them from me and would loan me,
+- [00:08:00,300 - 00:08:03,100] I think around 90% loan the value of the invoice.
+- [00:08:03,100 - 00:08:03,600] Right.
+- [00:08:03,600 - 00:08:06,270] And as awful as that was and as
+- [00:08:06,270 - 00:08:08,940] painful as it was for a long time,
+- [00:08:08,940 - 00:08:11,240] I couldn't pay myself money for a long time.
+- [00:08:11,240 - 00:08:13,200] We talked about the tax situation that
+- [00:08:13,200 - 00:08:15,160] they had right going into my second year.
+- [00:08:15,160 - 00:08:16,760] I'll talk more about that in a second.
+- [00:08:16,760 - 00:08:20,260] But it was excruciating.
+- [00:08:20,260 - 00:08:21,440] But I look back on it
+- [00:08:21,440 - 00:08:22,620] today and where's it gotten me today?
+- [00:08:22,620 - 00:08:24,100] I've learned financial discipline,
+- [00:08:24,100 - 00:08:24,820] right?
+- [00:08:24,820 - 00:08:25,710] Because I could not take
+- [00:08:25,710 - 00:08:26,600] money out of the cash flow.
+- [00:08:26,600 - 00:08:28,100] I had to leave the company
+- [00:08:28,100 - 00:08:29,600] even though companies making money every week.
+- [00:08:29,600 - 00:08:32,990] I had to leave that money in the company so that next week I'm borrowing
+- [00:08:32,990 - 00:08:36,380] a little bit less at 21% and a little bit less and a little bit less.
+- [00:08:36,380 - 00:08:37,280] That's number one.
+- [00:08:37,280 - 00:08:39,820] So I learned how to number one,
+- [00:08:39,820 - 00:08:41,419] live well below my means.
+- [00:08:41,419 - 00:08:42,870] I learned how to build up
+- [00:08:42,870 - 00:08:44,320] a balance sheet in a business,
+- [00:08:44,320 - 00:08:45,620] which is imperative,
+- [00:08:45,620 - 00:08:46,120] right?
+- [00:08:46,120 - 00:08:47,660] And third,
+- [00:08:47,660 - 00:08:49,040] I'm sitting here today and I
+- [00:08:49,040 - 00:08:50,420] still want 100% of my business.
+- [00:08:50,420 - 00:08:52,070] I never sold off shares of
+- [00:08:52,070 - 00:08:53,720] my business to get the money.
+- [00:08:53,720 - 00:08:55,100] That's not always possible,
+- [00:08:55,100 - 00:08:56,560] depending on what type of business you're going into,
+- [00:08:56,560 - 00:08:59,060] depending on how capital intensive it is up front.
+- [00:08:59,060 - 00:09:00,959] But even if somebody comes to me and says,
+- [00:09:00,959 - 00:09:01,260] hey,
+- [00:09:01,260 - 00:09:01,540] you know,
+- [00:09:01,540 - 00:09:03,199] I need $2 million,
+- [00:09:03,199 - 00:09:03,839] $3 million,
+- [00:09:03,839 - 00:09:04,359] $5 million,
+- [00:09:04,359 - 00:09:06,339] whatever the number is to start something up.
+- [00:09:06,339 - 00:09:07,300] I first look at,
+- [00:09:07,300 - 00:09:09,319] did you even try to
+- [00:09:09,319 - 00:09:11,339] cash flow any of this yourself?
+- [00:09:11,339 - 00:09:13,589] Or you just ask for somebody to take 100% of
+- [00:09:13,589 - 00:09:15,839] the risk up front and all you have is an idea,
+- [00:09:15,839 - 00:09:16,280] right?
+- [00:09:16,280 - 00:09:16,780] Immediately,
+- [00:09:16,780 - 00:09:17,939] that's a red flag to me.
+- [00:09:17,939 - 00:09:20,319] I want to see that you already started hustling.
+- [00:09:20,319 - 00:09:21,819] You already started turning some revenue,
+- [00:09:21,819 - 00:09:23,180] maybe at a very small level.
+- [00:09:23,180 - 00:09:24,579] You know you can scale it to X,
+- [00:09:24,579 - 00:09:25,020] Y and Z.
+- [00:09:25,020 - 00:09:25,619] That's great.
+- [00:09:25,619 - 00:09:26,560] I'll help you get there.
+- [00:09:26,560 - 00:09:27,060] Right?
+- [00:09:27,060 - 00:09:28,000] If I really believe in it.
+- [00:09:28,000 - 00:09:29,719] But I want to see that you've
+- [00:09:29,719 - 00:09:31,439] already taken the steps to bust your butt,
+- [00:09:31,439 - 00:09:33,769] make the financial sacrifice and start growing
+- [00:09:33,769 - 00:09:36,099] it in small increments and your cash flowing.
+- [00:09:36,099 - 00:09:37,880] And now we've got proof of concept.
+- [00:09:37,880 - 00:09:39,280] We know this business concept
+- [00:09:39,280 - 00:09:40,680] or idea is going to work.
+- [00:09:40,680 - 00:09:43,079] Now let's put the money into it to scale it.
+- [00:09:43,079 - 00:09:43,920] And by the way,
+- [00:09:43,920 - 00:09:44,780] if that's the case,
+- [00:09:44,780 - 00:09:48,670] you're in a much better position to negotiate with someone
+- [00:09:48,670 - 00:09:52,560] like myself relative to shares and ownership of the business.
+- [00:09:52,560 - 00:09:56,560] Because I'm now funding scale and growth.
+- [00:09:56,560 - 00:09:58,699] I'm not funding something that's just a raw idea.
+- [00:09:58,699 - 00:10:00,019] Looking back at your career
+- [00:10:00,019 - 00:10:01,339] running this business as a whole,
+- [00:10:01,339 - 00:10:02,569] how did you go from
+- [00:10:02,569 - 00:10:03,800] a 10 to $100 million company?
+- [00:10:03,800 - 00:10:04,959] So focus,
+- [00:10:04,959 - 00:10:06,739] I made it all about our customer.
+- [00:10:06,739 - 00:10:07,839] Okay.
+- [00:10:07,839 - 00:10:09,280] That was how we listen.
+- [00:10:09,280 - 00:10:11,579] Even if I'd have been strongly capitalized,
+- [00:10:11,579 - 00:10:11,979] right,
+- [00:10:11,979 - 00:10:14,540] I still had to grow my relationships with customers.
+- [00:10:14,540 - 00:10:15,239] Right.
+- [00:10:15,239 - 00:10:17,239] And so two big things.
+- [00:10:17,239 - 00:10:18,180] Number one,
+- [00:10:18,180 - 00:10:21,459] by focusing on what was best for our customers,
+- [00:10:21,459 - 00:10:24,009] they continue to turn over more and more of their business to us
+- [00:10:24,009 - 00:10:26,560] so that we were able to mushroom the relationships that we already had.
+- [00:10:26,560 - 00:10:28,060] Right.
+- [00:10:28,060 - 00:10:31,339] And then by way of working on new customers,
+- [00:10:31,339 - 00:10:34,219] by coming in with more of a consultative sales approach where
+- [00:10:34,219 - 00:10:37,099] I'm here to see how I can make your business better.
+- [00:10:37,099 - 00:10:39,579] And if I can't make your business better,
+- [00:10:39,579 - 00:10:41,000] you don't owe me a dime.
+- [00:10:41,000 - 00:10:44,090] But if I can come in and show you that we can do these
+- [00:10:44,090 - 00:10:47,180] things and make you more profitable and make you more competitive in your industry,
+- [00:10:47,180 - 00:10:48,939] then maybe we have a reason to do business together.
+- [00:10:48,939 - 00:10:49,780] Right.
+- [00:10:49,780 - 00:10:50,959] That's really what we grew from,
+- [00:10:50,959 - 00:10:53,060] from a new business development standpoint.
+- [00:10:53,060 - 00:10:53,880] The growth,
+- [00:10:53,880 - 00:10:56,119] obviously from a capital standpoint,
+- [00:10:56,120 - 00:10:57,720] was like I've talked about earlier,
+- [00:10:57,720 - 00:10:59,320] being extraordinarily disciplined to continue
+- [00:10:59,320 - 00:11:00,920] to build my retained earnings,
+- [00:11:00,920 - 00:11:02,890] build that balance sheet so that I
+- [00:11:02,890 - 00:11:04,860] had the money to fund my growth.
+- [00:11:04,860 - 00:11:05,760] So you've got to have both.
+- [00:11:05,760 - 00:11:08,140] I've got to have people that believe in your service,
+- [00:11:08,140 - 00:11:09,860] willing to sign contracts with you,
+- [00:11:09,860 - 00:11:10,830] and I've got to have
+- [00:11:10,830 - 00:11:11,800] the money to fund that growth.
+- [00:11:11,800 - 00:11:13,340] Both of those have to happen.
+- [00:11:13,340 - 00:11:15,880] Along the way is where you start.
+- [00:11:15,880 - 00:11:16,280] So, OK,
+- [00:11:16,280 - 00:11:17,540] I've got new customers coming in.
+- [00:11:17,540 - 00:11:19,740] Now I've got the money to fund the growth.
+- [00:11:19,740 - 00:11:21,040] Now, how do I get everybody on
+- [00:11:21,040 - 00:11:22,340] board with what we're trying to do?
+- [00:11:22,340 - 00:11:24,080] How do I get success?
+- [00:11:24,080 - 00:11:26,080] OK, we've been successful with these three or four sites.
+- [00:11:26,080 - 00:11:27,520] Now we've got four or five new ones.
+- [00:11:27,520 - 00:11:30,170] How do I get people on
+- [00:11:30,170 - 00:11:32,820] board to do daily operating procedures,
+- [00:11:32,820 - 00:11:34,740] standing operating procedures consistently every day and
+- [00:11:34,740 - 00:11:36,660] get consistent results over and over again?
+- [00:11:36,660 - 00:11:38,060] Well, that's when you get into
+- [00:11:38,060 - 00:11:39,460] the training development side of things, right?
+- [00:11:39,460 - 00:11:41,660] Getting into very good SOPs.
+- [00:11:41,660 - 00:11:43,560] And then the third piece and the most vital piece
+- [00:11:43,560 - 00:11:45,460] is what we've been spending a lot of time talking about.
+- [00:11:45,460 - 00:11:46,260] And I talk a lot,
+- [00:11:46,260 - 00:11:48,020] I spend most of my time talking about
+- [00:11:48,020 - 00:11:49,780] this because if you don't get this piece right,
+- [00:11:49,780 - 00:11:52,200] not only will your success be very limited,
+- [00:11:52,200 - 00:11:53,990] at some point you're going to be crippled because
+- [00:11:53,990 - 00:11:55,780] someone like me is going to come steal your talent.
+- [00:11:55,780 - 00:11:56,620] I just absolutely am.
+- [00:11:56,620 - 00:11:58,520] And that was the leadership style,
+- [00:11:58,520 - 00:12:00,280] building that company culture,
+- [00:12:00,280 - 00:12:02,799] treating people with respect and loyalty and making them
+- [00:12:02,799 - 00:12:05,319] feel valued and rewarded for the job that they're doing.
+- [00:12:05,319 - 00:12:06,660] Knowing that I'm here for you, right?
+- [00:12:06,660 - 00:12:08,819] If you're giving me your best,
+- [00:12:08,819 - 00:12:09,900] I will invest in you.
+- [00:12:09,900 - 00:12:10,720] I will back you.
+- [00:12:10,720 - 00:12:11,560] I will be here for you.
+- [00:12:11,560 - 00:12:12,400] I will defend you.
+- [00:12:12,400 - 00:12:13,339] You make mistakes.
+- [00:12:13,339 - 00:12:14,540] We're going to learn from them together.
+- [00:12:14,540 - 00:12:16,400] I'm not going to point the finger at you.
+- [00:12:16,400 - 00:12:17,240] None of that.
+- [00:12:17,240 - 00:12:18,300] We're going to learn and grow together.
+- [00:12:18,300 - 00:12:19,770] And I want you to have
+- [00:12:19,770 - 00:12:21,240] the freedom to take those risks, right?
+- [00:12:21,240 - 00:12:24,300] If you're going to give people accountability, right?
+- [00:12:25,780 - 00:12:27,640] You've got to have authority, right?
+- [00:12:27,640 - 00:12:28,980] You can't just, you know,
+- [00:12:28,980 - 00:12:30,230] nail people down and hold them accountable
+- [00:12:30,230 - 00:12:31,480] for any little thing that they do.
+- [00:12:31,480 - 00:12:32,980] If you give people authority,
+- [00:12:32,980 - 00:12:34,620] then comes the accountability.
+- [00:12:34,620 - 00:12:36,409] Well, they've got the authority to do things
+- [00:12:36,409 - 00:12:38,199] to push the envelope of the business, right?
+- [00:12:38,199 - 00:12:40,220] Think of things that you don't think of yourself.
+- [00:12:40,220 - 00:12:41,400] If you don't give them the freedom to do that,
+- [00:12:41,400 - 00:12:43,530] then the company's never going to be any better than
+- [00:12:43,530 - 00:12:45,660] you as the CEO or the entrepreneur of that business.
+- [00:12:45,660 - 00:12:46,900] And that's a scary place to be
+- [00:12:46,900 - 00:12:48,140] because I don't care how smart you are,
+- [00:12:48,140 - 00:12:50,199] you're still one person, right?
+- [00:12:50,199 - 00:12:51,699] I'd rather sit in a room where
+- [00:12:51,699 - 00:12:53,199] there's five people sitting in this room
+- [00:12:53,199 - 00:12:54,500] and I'll always tell them,
+- [00:12:54,500 - 00:12:55,240] I'm number six.
+- [00:12:55,240 - 00:12:55,780] Let's just say,
+- [00:12:55,780 - 00:12:57,339] to speak that it's an executive meeting, right?
+- [00:12:57,339 - 00:12:58,620] And there's six of us sitting in the room.
+- [00:12:58,620 - 00:12:59,680] If you're in that room,
+- [00:12:59,680 - 00:13:01,680] you're here because I think you have knowledge,
+- [00:13:01,680 - 00:13:02,260] experience,
+- [00:13:02,260 - 00:13:04,079] expertise outside of what I have.
+- [00:13:04,079 - 00:13:05,520] I want you to tell me where I'm wrong.
+- [00:13:05,520 - 00:13:07,319] I want you to tell me why this won't work.
+- [00:13:07,319 - 00:13:09,119] I also want you to tell me what
+- [00:13:09,119 - 00:13:10,920] we're going to do to make it work, right?
+- [00:13:10,920 - 00:13:11,699] Lewis, that won't work,
+- [00:13:11,699 - 00:13:13,800] but here's another way we can make that happen.
+- [00:13:13,800 - 00:13:14,959] Lewis, I don't think this is going to work,
+- [00:13:14,959 - 00:13:16,439] but here's another way we can achieve that same goal,
+- [00:13:16,439 - 00:13:17,360] that same vision.
+- [00:13:17,360 - 00:13:19,339] You bring value to the table.
+- [00:13:19,339 - 00:13:21,089] And so people have that freedom to take
+- [00:13:21,089 - 00:13:22,839] that authority to tell me that I'm wrong,
+- [00:13:22,839 - 00:13:23,780] disagree with me,
+- [00:13:23,780 - 00:13:24,380] push me,
+- [00:13:24,380 - 00:13:25,500] challenge me,
+- [00:13:25,500 - 00:13:25,780] right?
+- [00:13:25,780 - 00:13:27,319] And when we have that,
+- [00:13:27,319 - 00:13:28,569] now we have something real
+- [00:13:28,569 - 00:13:29,819] cohesive and collective in the room.
+- [00:13:29,819 - 00:13:30,560] Hard Knocks family,
+- [00:13:30,560 - 00:13:32,120] we're about to get right back to the interview,
+- [00:13:32,120 - 00:13:34,220] but I've got a very special announcement to make.
+- [00:13:34,220 - 00:13:35,020] A couple of weeks ago,
+- [00:13:35,020 - 00:13:37,819] we recently launched our official entrepreneur community,
+- [00:13:37,819 - 00:13:39,120] the School of Mentors.
+- [00:13:39,120 - 00:13:40,640] If you want to be able to hop
+- [00:13:40,640 - 00:13:42,160] on live calls every single week and ask your
+- [00:13:42,160 - 00:13:44,350] questions directly to entrepreneurs just like
+- [00:13:44,350 - 00:13:46,540] Lewis and get access to this full
+- [00:13:46,540 - 00:13:47,699] uncut interview,
+- [00:13:47,699 - 00:13:49,500] as well as tons of other master classes,
+- [00:13:49,500 - 00:13:50,740] go to the link down in
+- [00:13:50,740 - 00:13:51,980] the description of this video to join.
+- [00:13:51,980 - 00:13:53,400] We'll see you on the inside of the community.
+- [00:13:53,400 - 00:13:54,540] But with that being said,
+- [00:13:54,540 - 00:13:55,640] let's get back to the video.
+- [00:13:55,640 - 00:13:56,640] Relationships,
+- [00:13:56,640 - 00:13:56,880] right?
+- [00:13:56,880 - 00:13:58,040] As a business owner,
+- [00:13:58,040 - 00:13:59,180] you're starting a company.
+- [00:13:59,180 - 00:14:00,319] You're more of a visionary.
+- [00:14:00,319 - 00:14:00,939] It seems like.
+- [00:14:00,939 - 00:14:01,580] Yes.
+- [00:14:01,580 - 00:14:03,930] How do you go about kind of navigating
+- [00:14:03,930 - 00:14:06,280] to find the right relationships to not just
+- [00:14:06,520 - 00:14:07,680] build within your company,
+- [00:14:07,680 - 00:14:09,260] but just in the business world in general,
+- [00:14:09,260 - 00:14:09,460] right?
+- [00:14:09,460 - 00:14:10,480] Whether it's lawyers,
+- [00:14:10,480 - 00:14:11,520] accountants,
+- [00:14:11,520 - 00:14:12,160] tax people,
+- [00:14:12,160 - 00:14:13,400] whatever it may be.
+- [00:14:13,400 - 00:14:14,819] How do you you're the entrepreneur,
+- [00:14:14,819 - 00:14:15,620] you build this company,
+- [00:14:15,620 - 00:14:16,699] you built a big business.
+- [00:14:16,699 - 00:14:18,279] How did you go throughout your career
+- [00:14:18,279 - 00:14:19,860] and maybe what would you have done differently?
+- [00:14:19,860 - 00:14:21,480] Like who are some of those relationships
+- [00:14:21,480 - 00:14:23,100] you would have made very early on banks,
+- [00:14:23,100 - 00:14:23,640] investors,
+- [00:14:23,640 - 00:14:24,439] whatever it may be?
+- [00:14:24,439 - 00:14:25,360] Oh, that's a good question.
+- [00:14:25,360 - 00:14:26,460] Yes.
+- [00:14:26,460 - 00:14:29,210] Be established relationship with established relationships
+- [00:14:29,210 - 00:14:31,960] with bankers as fast as possible.
+- [00:14:31,960 - 00:14:33,560] You're going to need them if you're going to scale,
+- [00:14:33,560 - 00:14:34,040] right?
+- [00:14:34,040 - 00:14:34,240] You know,
+- [00:14:34,240 - 00:14:38,830] I talked about the the the the invoice factoring that we did and what but that all
+- [00:14:38,830 - 00:14:43,420] was to get to the goal of getting to a traditional line of credit with with banks.
+- [00:14:43,420 - 00:14:43,980] Right?
+- [00:14:43,980 - 00:14:46,420] And so even though I wasn't
+- [00:14:46,420 - 00:14:48,860] our balance sheet wasn't there yet,
+- [00:14:48,860 - 00:14:51,910] I started developing relationships with bankers during those
+- [00:14:51,910 - 00:14:54,960] early days and then letting them guide me.
+- [00:14:54,960 - 00:14:57,610] Where do I need to get my balance sheet to so that I
+- [00:14:57,610 - 00:15:00,260] would be qualified for a line of credit with you of this size,
+- [00:15:00,260 - 00:15:00,400] right?
+- [00:15:00,400 - 00:15:01,760] Because we grew very quick.
+- [00:15:01,760 - 00:15:03,660] So I think in our second year,
+- [00:15:03,660 - 00:15:05,400] I was probably third year,
+- [00:15:05,400 - 00:15:07,120] probably third year where we finally got where we
+- [00:15:07,120 - 00:15:08,840] could get into a true traditional line of credit.
+- [00:15:08,840 - 00:15:09,440] At that time,
+- [00:15:09,440 - 00:15:11,940] our borrowing needs were almost $14 million.
+- [00:15:11,940 - 00:15:13,340] And the company is only three years old,
+- [00:15:13,340 - 00:15:14,280] right?
+- [00:15:14,280 - 00:15:17,140] And so I started working with bankers,
+- [00:15:17,140 - 00:15:18,560] got them to believe in me,
+- [00:15:18,560 - 00:15:18,820] right?
+- [00:15:18,820 - 00:15:20,080] Believe in my integrity,
+- [00:15:20,080 - 00:15:21,020] my credibility,
+- [00:15:21,020 - 00:15:21,420] right?
+- [00:15:21,420 - 00:15:22,740] Because they want to be taking risks
+- [00:15:22,740 - 00:15:24,060] with people that they believe have strong credibility.
+- [00:15:24,060 - 00:15:26,459] And I started having them guide me where they were.
+- [00:15:26,459 - 00:15:27,560] I want to get my balance sheet.
+- [00:15:27,560 - 00:15:28,560] And then they saw me
+- [00:15:28,560 - 00:15:29,560] making those steps and doing it.
+- [00:15:29,560 - 00:15:32,160] And then once once we actually weren't even quite there.
+- [00:15:32,160 - 00:15:34,300] And one particular banker who's now my neighbor,
+- [00:15:34,300 - 00:15:34,939] by the way,
+- [00:15:34,939 - 00:15:36,680] that's how strong the relationship was,
+- [00:15:36,680 - 00:15:38,300] bought the house next door to me.
+- [00:15:38,300 - 00:15:39,000] Wasn't quite there,
+- [00:15:39,000 - 00:15:40,320] but he saw that I'd done
+- [00:15:40,320 - 00:15:41,640] consistently been building the balance sheet,
+- [00:15:41,640 - 00:15:42,319] retained earnings,
+- [00:15:42,319 - 00:15:43,439] doing all the right things.
+- [00:15:43,439 - 00:15:45,239] And he saw that we were taking on wise risk,
+- [00:15:45,239 - 00:15:46,079] not stupid risk,
+- [00:15:46,079 - 00:15:48,099] put us in our first facility line of
+- [00:15:48,099 - 00:15:50,119] credit and tremendously changed the business forever from there.
+- [00:15:50,119 - 00:15:51,819] But I think that's what I'm trying to do.
+- [00:15:51,819 - 00:15:53,119] I think that's what I'm trying to do.
+- [00:15:53,119 - 00:15:54,060] And I think that's what I'm trying to do.
+- [00:15:54,060 - 00:15:57,359] But I would strongly suggest absolutely bankers,
+- [00:15:57,359 - 00:15:57,939] investors,
+- [00:15:57,939 - 00:15:59,099] if that's the direction you have to go,
+- [00:15:59,099 - 00:16:01,400] if it's a capital intensive business up front,
+- [00:16:01,400 - 00:16:03,390] start establishing those relationships
+- [00:16:03,390 - 00:16:05,380] before you have the need,
+- [00:16:05,380 - 00:16:05,839] right?
+- [00:16:05,839 - 00:16:07,000] Or you have the need,
+- [00:16:07,000 - 00:16:07,739] but but hey,
+- [00:16:07,739 - 00:16:09,329] here's the goals and let them see
+- [00:16:09,329 - 00:16:10,920] you achieve those goals along the way.
+- [00:16:10,920 - 00:16:13,540] They know that now they're betting on a consistent winner.
+- [00:16:13,540 - 00:16:15,140] They will take that risk with you,
+- [00:16:15,140 - 00:16:15,739] right?
+- [00:16:15,739 - 00:16:17,619] The other big thing to get in,
+- [00:16:17,619 - 00:16:18,939] and I wish I would have
+- [00:16:18,939 - 00:16:20,260] done this and I didn't do it.
+- [00:16:20,260 - 00:16:24,060] I wish I would have gotten involved in some organizations,
+- [00:16:24,060 - 00:16:26,060] where we're not trying to sell to one another,
+- [00:16:26,060 - 00:16:28,560] but we're really there as business owners,
+- [00:16:28,560 - 00:16:29,459] entrepreneurs,
+- [00:16:29,459 - 00:16:30,300] CEOs,
+- [00:16:30,300 - 00:16:31,560] whatever,
+- [00:16:31,560 - 00:16:32,839] that we're there to collaborate.
+- [00:16:32,839 - 00:16:35,579] Hey, I'm having this struggle in the business.
+- [00:16:35,579 - 00:16:37,809] I'm struggling to understand how to
+- [00:16:37,809 - 00:16:40,040] maximize this or to improve upon that.
+- [00:16:40,040 - 00:16:43,759] And sitting in a room with people just collaborating and chatting about their
+- [00:16:43,759 - 00:16:47,479] experiences and what they're going through and what they've been able to learn from,
+- [00:16:47,479 - 00:16:48,780] hey, we did it this way.
+- [00:16:48,780 - 00:16:49,420] Maybe we should try this.
+- [00:16:49,420 - 00:16:50,260] Maybe we should try that.
+- [00:16:50,260 - 00:16:51,819] Reach out to our mentorship,
+- [00:16:51,819 - 00:16:52,579] a group,
+- [00:16:52,579 - 00:16:53,520] not just one person,
+- [00:16:53,520 - 00:16:54,020] but a group,
+- [00:16:54,020 - 00:16:56,160] and it's got to be a group.
+- [00:16:56,160 - 00:16:57,420] I think this is really the key thing.
+- [00:16:57,420 - 00:16:58,820] No one's there to sell one another
+- [00:16:58,820 - 00:17:00,220] anything where it's just a soliciting group,
+- [00:17:00,220 - 00:17:00,460] right?
+- [00:17:00,460 - 00:17:01,100] Those are,
+- [00:17:01,100 - 00:17:01,600] in my mind,
+- [00:17:01,600 - 00:17:02,620] that would have been the biggest way.
+- [00:17:02,620 - 00:17:06,030] Entrepreneurs don't have time to waste and I damn sure don't have time to sit there
+- [00:17:06,030 - 00:17:09,440] and for an hour every Wednesday morning having breakfast while everybody's trying to sell me something.
+- [00:17:09,440 - 00:17:10,500] That's just BS.
+- [00:17:10,500 - 00:17:13,589] Get into a group where we're all there to learn
+- [00:17:13,589 - 00:17:16,680] and grow and collaborate and share experiences with one another.
+- [00:17:16,680 - 00:17:18,240] That's probably the one thing,
+- [00:17:18,240 - 00:17:20,319] if I were to go back to me at 24,
+- [00:17:20,319 - 00:17:21,339] 25 years old,
+- [00:17:21,339 - 00:17:23,020] I would tell myself to do it with the time.
+- [00:17:23,020 - 00:17:24,020] I felt like I didn't have the time.
+- [00:17:24,020 - 00:17:25,760] I didn't have the time to do it.
+- [00:17:25,760 - 00:17:32,510] What I didn't account for is how much time I spent trying to figure out things on my own that I could have had a group of
+- [00:17:32,510 - 00:17:39,260] people that could have given me some advice or at least just their experience up to that point and it would have saved me a lot of agony.
+- [00:17:39,260 - 00:17:40,940] So that one hour,
+- [00:17:40,940 - 00:17:41,340] you know,
+- [00:17:41,340 - 00:17:44,060] a month or however often they would have met would have
+- [00:17:44,060 - 00:17:46,780] been a far better use of my time than me spending,
+- [00:17:46,780 - 00:17:47,080] you know,
+- [00:17:47,340 - 00:17:49,239] 40 hours trying to solve a problem that I could
+- [00:17:49,239 - 00:17:51,139] have chatted with someone in 15 minutes once a month,
+- [00:17:51,139 - 00:17:51,379] you know,
+- [00:17:51,379 - 00:17:52,040] something like that.
+- [00:17:52,040 - 00:17:54,020] You're very relationship centric as opposed to being,
+- [00:17:54,020 - 00:17:55,280] transactional,
+- [00:17:55,280 - 00:17:57,440] but you've negotiated and closed
+- [00:17:57,440 - 00:17:59,600] some massive multimillion dollar seven,
+- [00:17:59,600 - 00:18:01,860] eight figure business deals throughout your career.
+- [00:18:01,860 - 00:18:04,240] What is your best negotiation advice for people out there?
+- [00:18:04,240 - 00:18:06,200] Maybe they're struggling in those business meetings.
+- [00:18:06,200 - 00:18:07,900] They're at the table with some heavy hitters.
+- [00:18:07,900 - 00:18:09,800] They want to get really good at negotiating,
+- [00:18:09,800 - 00:18:10,639] right?
+- [00:18:10,639 - 00:18:13,219] And maybe let's say it's not going in their favor and
+- [00:18:13,219 - 00:18:15,800] any negotiation advice for people out there that are still trying to,
+- [00:18:15,800 - 00:18:16,180] you know,
+- [00:18:16,180 - 00:18:18,480] have that win win business to where
+- [00:18:18,480 - 00:18:20,780] it's more relationship and not transaction centric.
+- [00:18:20,780 - 00:18:22,980] What's your best negotiation device for people out there?
+- [00:18:22,980 - 00:18:24,020] So there's been,
+- [00:18:24,020 - 00:18:28,140] there's been times where I've gotten in negotiations and especially if you're
+- [00:18:28,140 - 00:18:32,260] dealing with some people in procurement that are just truly price driven,
+- [00:18:32,260 - 00:18:33,560] they don't really care about anything else,
+- [00:18:33,560 - 00:18:34,260] right?
+- [00:18:34,260 - 00:18:36,260] You need to focus on the long term wins,
+- [00:18:36,260 - 00:18:36,740] right?
+- [00:18:36,740 - 00:18:39,590] So rather than getting locked in that battle about the
+- [00:18:39,590 - 00:18:42,440] margins today or the price point of this today or whatever,
+- [00:18:42,440 - 00:18:42,840] start,
+- [00:18:42,840 - 00:18:43,180] let,
+- [00:18:43,180 - 00:18:44,980] let them have that win.
+- [00:18:44,980 - 00:18:45,639] Okay,
+- [00:18:45,639 - 00:18:47,240] but now start looking long term,
+- [00:18:47,240 - 00:18:47,740] right?
+- [00:18:47,740 - 00:18:48,420] Okay,
+- [00:18:48,420 - 00:18:49,740] let's agree to do that,
+- [00:18:49,740 - 00:18:52,620] but perhaps let's make it results driven,
+- [00:18:52,620 - 00:18:53,139] right?
+- [00:18:53,139 - 00:18:54,020] If I give you these results,
+- [00:18:54,020 - 00:18:56,060] that's quantitative,
+- [00:18:56,060 - 00:18:56,360] right?
+- [00:18:56,360 - 00:18:57,460] We know exactly what I've been
+- [00:18:57,460 - 00:18:58,560] able to do to your bottom line,
+- [00:18:58,560 - 00:18:59,160] right?
+- [00:18:59,160 - 00:19:02,860] Let's focus on on on on some piece of that coming back to us
+- [00:19:02,860 - 00:19:06,560] only after we've saved you the money only after we've delivered the results your business.
+- [00:19:06,560 - 00:19:07,060] Or if,
+- [00:19:07,060 - 00:19:07,540] by the way,
+- [00:19:07,540 - 00:19:10,690] we we were able to successfully because of of the efficiencies
+- [00:19:10,690 - 00:19:13,840] that we brought brought to the table and drive down your cost,
+- [00:19:13,840 - 00:19:15,080] you're able to grow your business,
+- [00:19:15,080 - 00:19:15,800] right?
+- [00:19:15,800 - 00:19:18,110] Then maybe we're just a percentage every percentage that
+- [00:19:18,110 - 00:19:20,420] we grow your business announced directly related to results.
+- [00:19:20,420 - 00:19:23,820] We have a direct percentage increase on our price point,
+- [00:19:23,820 - 00:19:24,020] right?
+- [00:19:24,020 - 00:19:25,920] So allow me to earn my margins.
+- [00:19:25,920 - 00:19:27,120] Allow me to earn my
+- [00:19:27,120 - 00:19:28,320] money by making your business better.
+- [00:19:28,320 - 00:19:30,770] Now I'm eliminating the risk of you paying
+- [00:19:30,770 - 00:19:33,220] me more upfront today with with no guaranteed ROI,
+- [00:19:33,220 - 00:19:33,720] right?
+- [00:19:33,720 - 00:19:34,420] So in other words,
+- [00:19:34,420 - 00:19:36,590] find another end around when you
+- [00:19:36,590 - 00:19:38,760] just get locked into these negotiations,
+- [00:19:38,760 - 00:19:39,400] you're on,
+- [00:19:39,400 - 00:19:40,700] you're on your back foot,
+- [00:19:40,700 - 00:19:41,200] right?
+- [00:19:41,200 - 00:19:43,180] And you're losing those negotiations.
+- [00:19:43,180 - 00:19:45,340] Don't lose the deal.
+- [00:19:45,340 - 00:19:47,740] Find another way to think long term.
+- [00:19:47,740 - 00:19:48,580] And the other thing it does,
+- [00:19:48,580 - 00:19:50,000] it shows the customer that you're
+- [00:19:50,000 - 00:19:51,420] thinking long term about this relationship,
+- [00:19:51,420 - 00:19:53,820] not just on today's transaction.
+- [00:19:53,820 - 00:19:54,320] Okay,
+- [00:19:54,320 - 00:19:55,520] that will give you the
+- [00:19:55,520 - 00:19:56,720] end around to free everything up.
+- [00:19:56,720 - 00:20:00,470] And now you've got a whole new path of freedom
+- [00:20:00,470 - 00:20:04,220] to negotiate a true value results oriented pricing and margins.
+- [00:20:04,220 - 00:20:06,320] That's now going to benefit you long term.
+- [00:20:06,320 - 00:20:06,919] Yes,
+- [00:20:06,919 - 00:20:08,020] but you're going back to what I tell you.
+- [00:20:08,020 - 00:20:08,419] I said,
+- [00:20:08,419 - 00:20:10,469] I focus most on first
+- [00:20:10,469 - 00:20:12,520] my customers results in their business.
+- [00:20:12,520 - 00:20:14,320] So if I'm starting to demonstrate
+- [00:20:14,320 - 00:20:16,120] and focus on making you more successful,
+- [00:20:16,120 - 00:20:17,320] you're happy as hell to pay
+- [00:20:17,320 - 00:20:18,520] me more on the back side,
+- [00:20:18,520 - 00:20:18,820] right?
+- [00:20:18,820 - 00:20:20,220] I've already delivered my results to you.
+- [00:20:20,220 - 00:20:20,520] Yeah,
+- [00:20:20,520 - 00:20:21,220] Lewis,
+- [00:20:21,220 - 00:20:22,919] this was absolutely phenomenal.
+- [00:20:22,919 - 00:20:23,320] Pleasure.
+- [00:20:23,320 - 00:20:23,620] Thank you.
+- [00:20:23,620 - 00:20:24,120] Thank you so much.
+- [00:20:24,120 - 00:20:24,520] My friend,
+- [00:20:24,520 - 00:20:24,820] sir,
+- [00:20:24,820 - 00:20:26,020] good for everybody.
+- [00:20:26,020 - 00:20:26,520] Tune in right now.
+- [00:20:26,520 - 00:20:28,520] Where can everybody find you on social media?
+- [00:20:28,520 - 00:20:29,820] So actually,
+- [00:20:29,820 - 00:20:30,719] as I've said,
+- [00:20:30,719 - 00:20:32,319] effects management Solutions is our
+- [00:20:32,319 - 00:20:33,919] main company that runs itself.
+- [00:20:33,919 - 00:20:34,419] Mostly today.
+- [00:20:34,419 - 00:20:35,919] I'm not really that involved the day to day.
+- [00:20:35,919 - 00:20:37,219] Now I'm doing passion project,
+- [00:20:37,219 - 00:20:39,769] which is we've started YouTube channel and right now we're showcasing
+- [00:20:39,769 - 00:20:42,320] a lot of the cars and stuff of my car collection.
+- [00:20:42,320 - 00:20:44,670] But really the point is to motivate and inspire people
+- [00:20:44,670 - 00:20:47,020] to do a lot of what we're talking about right here,
+- [00:20:47,020 - 00:20:47,719] right?
+- [00:20:47,719 - 00:20:48,719] It was a card that
+- [00:20:48,719 - 00:20:49,719] first inspired me the coon touch.
+- [00:20:49,719 - 00:20:51,119] I think we've got sit the
+- [00:20:51,119 - 00:20:52,520] sitting in the back back there,
+- [00:20:52,520 - 00:20:53,120] but it started.
+- [00:20:53,120 - 00:20:55,669] It started with that passion for cars that motivated me
+- [00:20:55,669 - 00:20:58,219] and to start striving for levels of success in life.
+- [00:20:58,219 - 00:20:59,719] I didn't even know existed.
+- [00:20:59,719 - 00:21:01,069] And so now I'm at a place
+- [00:21:01,069 - 00:21:02,419] where I really want to give back.
+- [00:21:02,419 - 00:21:04,219] I love mentoring other people.
+- [00:21:04,219 - 00:21:06,419] I'm hoping anytime I go to a car show,
+- [00:21:06,419 - 00:21:06,719] it's there.
+- [00:21:06,719 - 00:21:08,419] I want to meet a kid that asked me
+- [00:21:08,419 - 00:21:10,120] a question and I want them to ask me.
+- [00:21:10,120 - 00:21:10,320] Hey,
+- [00:21:10,320 - 00:21:11,419] how'd you make that happen?
+- [00:21:11,419 - 00:21:12,219] How do I get here?
+- [00:21:12,219 - 00:21:13,520] What advice you have for me?
+- [00:21:13,520 - 00:21:14,919] I love mentoring others.
+- [00:21:14,919 - 00:21:17,419] So the gentleman's garage.
+- [00:21:17,419 - 00:21:18,219] We're on Instagram.
+- [00:21:18,219 - 00:21:18,919] We're on YouTube.
+- [00:21:18,919 - 00:21:19,820] We're on Tik Tok.
+- [00:21:19,820 - 00:21:20,820] Please check us out.
+- [00:21:20,820 - 00:21:21,120] It's all.
+- [00:21:21,120 - 00:21:21,320] Yeah,
+- [00:21:21,320 - 00:21:22,020] we're sharing cars.
+- [00:21:22,020 - 00:21:23,020] You have a lot of fun with that.
+- [00:21:23,020 - 00:21:26,270] But the whole point of that is hopefully motivate inspire people that if
+- [00:21:26,270 - 00:21:29,520] if I can grow up on a farm and on welfare and end up,
+- [00:21:29,520 - 00:21:29,820] I don't know.
+- [00:21:29,820 - 00:21:30,820] We're sitting here with a I don't know,
+- [00:21:30,820 - 00:21:33,920] 21 million dollar car collection.
+- [00:21:33,920 - 00:21:34,620] You can too.
+- [00:21:34,620 - 00:21:35,120] There's nothing.
+- [00:21:35,120 - 00:21:37,520] There was nothing special about me as I talked about.
+- [00:21:37,520 - 00:21:38,520] I had a dream.
+- [00:21:38,520 - 00:21:39,770] I had a vision for
+- [00:21:39,770 - 00:21:41,020] something that I wanted for myself.
+- [00:21:41,020 - 00:21:41,820] And at the end of the day,
+- [00:21:41,820 - 00:21:42,770] it's the number one thing
+- [00:21:42,770 - 00:21:43,720] I tell people all the time.
+- [00:21:43,720 - 00:21:46,620] Believe in yourself and just don't quit.
+- [00:21:46,620 - 00:21:48,420] So check us out the gentleman's garage.
+- [00:21:48,420 - 00:21:49,370] Look forward to seeing you
+- [00:21:49,370 - 00:21:50,320] guys there and share more content.
+- [00:21:50,320 - 00:21:51,720] Everybody go follow Lewis right now.
+- [00:21:51,720 - 00:21:52,920] And as I mentioned earlier,
+- [00:21:52,920 - 00:21:53,420] guys,
+- [00:21:53,420 - 00:21:56,320] we recently launched our official entrepreneur Community.
+- [00:21:56,320 - 00:21:58,520] The School of Mentors where you can
+- [00:21:58,520 - 00:22:00,720] learn directly from and get mentored by entrepreneurs,
+- [00:22:00,720 - 00:22:04,120] just like Lewis who's built a 300 million dollar company and every
+- [00:22:04,120 - 00:22:07,520] week I'm hosting live calls with the multi millionaires and the billionaires.
+- [00:22:07,520 - 00:22:11,420] I interview on this channel every single week to get access
+- [00:22:11,420 - 00:22:15,320] to this entire to get access to this entire exclusive interview.
+- [00:22:15,320 - 00:22:17,220] Go to the link down in the description of this
+- [00:22:17,220 - 00:22:19,120] video or go to the school of mentors to join today.
+- [00:22:19,120 - 00:22:20,120] With that being said,
+- [00:22:20,120 - 00:22:21,420] we'll see you guys in the next video.
