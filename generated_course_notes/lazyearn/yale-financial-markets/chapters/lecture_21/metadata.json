@@ -1,0 +1,24 @@
+{
+  "course_rel": "lazyearn/yale-financial-markets",
+  "transcript_rel": "lazyearn/yale-financial-markets/021 - 21. Exchanges, Brokers, Dealers, Clearinghouses [kAl8DezwLAE].md",
+  "video_rel": "lazyearn/yale-financial-markets/021 - 21. Exchanges, Brokers, Dealers, Clearinghouses [kAl8DezwLAE].webm",
+  "lecture_number": 21,
+  "lecture_slug": "lecture_21",
+  "lecture_title": "21. Exchanges, Brokers, Dealers, Clearinghouses",
+  "assets": [
+    {
+      "name": "lecture_21_figure_02.png",
+      "timestamp_seconds": 132.4,
+      "timestamp_hhmmss": "00:02:12.400",
+      "source_candidate": "lecture_21_window_02_candidate_04_000212400.png",
+      "recommended_use": "screenshot_plus_equation",
+      "rationale": "This is the clearest and most complete frame in the window. The lecturer has stepped far enough aside that the chalkboard text is substantially more legible than in candidates 02 and 03, and the key board layout is visible: the attribution to Kenneth Boulding, the date 1969, and the concluding chalked identity relating exchange to economics. Candidate 01 is mostly a lecturer-and-screen shot and is not useful.",
+      "subtitle_excerpt": "So, we'll say that equals economics.",
+      "segment_start_seconds": 126.0,
+      "segment_start_hhmmss": "00:02:06.000",
+      "segment_end_seconds": 133.0,
+      "segment_end_hhmmss": "00:02:13.000",
+      "caption_hint": "Kenneth Boulding on exchange and economics"
+    }
+  ]
+}
