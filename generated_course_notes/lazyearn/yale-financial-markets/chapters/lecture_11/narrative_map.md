@@ -1,64 +1,63 @@
 # Narrative Map
 ## Opening Setup
-The lecture opens by arguing that behavioral finance is not a side topic but a correction to overly rational finance: institutions are built for real people, and real people are psychologically complicated. Shiller then immediately prevents the lecture from turning cynical by inserting an upbeat moral frame: yes, human weaknesses can be exploited, but long-run reputation, morality, and character usually keep that exploitation from becoming the whole story. That opening tension, between fallibility and institutional functioning, should control the chapter's tone from the first page.
+The lecture opens by widening finance into psychology and institutions. The lecturer does not begin with a model; he begins by arguing that finance is about systems built for real people, so any serious account has to confront complexity, bounded rationality, and the fact that rationality is useful but incomplete.
+
+Just as importantly, he refuses to let the lecture start in a purely cynical register. Before any formal behavioral mechanism appears, he frames the whole topic with a tension: people are biased and manipulable, but markets are not therefore reducible to fraud, because reputation, morality, and institutional learning matter.
 
 ## Beat Sequence
-1. `Behavioral finance as necessary realism`  
-   The lecturer first establishes that standard finance is useful but incomplete because it leans too heavily on rationality, while actual markets depend on the behavior of real people. This appears first to justify the whole lecture, and it leads directly into the problem of exploitation: if people are not fully rational, what stops finance from becoming predatory? `[Q&A candidate]`
+1. Behavioral finance as a necessary correction to over-rationalized finance. The lecturer is trying to establish that behavioral finance is not a side topic but a response to a real limitation in standard theory: institutions depend on how actual people behave. It appears first because he wants permission to leave textbook rationality behind without discarding it entirely, and it leads naturally into the question of what human imperfections imply for markets.
 
-2. `Upbeat preface: morality, reputation, and long-run discipline`  
-   Before listing biases, he answers the cynical version of the previous question by arguing that successful business often avoids blatant exploitation because reputation and morality matter. This beat belongs early because it frames everything that follows, and it leads naturally into Adam Smith as the historical and philosophical anchor for that claim.
+2. Human weakness, exploitation, and the surprising restraint of institutions. He next establishes the basic danger: people notice others’ mistakes and may try to profit from them. It appears here to sharpen the stakes of the lecture before any examples, and it leads into an immediate softening move, namely that long-run reputation and morality often restrain exploitation. `Question & Answer candidate:` “If people are exploitable, why are financial institutions not simply machines for exploiting them?”
 
-3. `Adam Smith, praise, and praiseworthiness`  
-   Here he tries to establish that functioning economies depend not just on selfish desire, but on the mature desire to be praiseworthy rather than merely praised. It appears at this moment because it gives the lecture a deeper moral psychology before any formal bias analysis, and it leads into personality heterogeneity by showing that not everyone reaches that mature state. `[Q&A candidate]`
+3. Adam Smith and the move from praise to praiseworthiness. Here the lecturer is trying to supply an ethical and institutional counterweight to the bleak opening by showing that mature economic life depends on a desire to be worthy of praise, not merely on selfish calculation. It appears at this moment because he wants a positive account of why markets can work before he catalogs errors, and it leads into the next complication: not everyone reaches that moral state.
 
-4. `Personality heterogeneity, APD, and the manipulable public`  
-   He broadens the human picture beyond mature character by discussing DSM-IV, antisocial personality disorder, and the fact that society contains very different types of people, including manipulative ones. This belongs here because it sharpens the claim that finance cannot be built around a single representative personality, and it leads into concrete behavioral mechanisms by returning to the claim that all of us are, in various ways, manipulable.
+4. Personality differences, antisocial types, and the problem of manipulability. He then complicates the Smithian picture by introducing personality psychology, antisocial personality disorder, and the fact that some people are structurally more deceptive or less constrained by remorse. This appears here so the lecture does not become naively moralized, and it leads into the broader point that everyone is manipulable in smaller ways, from pricing points to political rhetoric.
 
-5. `Prospect theory as the first formal core`  
-   Only after the long moral and psychological prelude does he pivot to “the most famous element” of behavioral economics and announce the two-part structure: value function and weighting function. This appears here because the lecture is finally ready to move from general psychology into a mathematically serious object, and it leads directly into the slow drawing and interpretation of the value function.
+5. Prospect theory as the first formal anchor. Only after the moral and psychological preface does he introduce the lecture’s best-known mathematical core: prospect theory, with its two parts, the value function and the weighting function. It appears here because the lecture now needs a canonical model that turns vague claims about bias into a structured account of decision under uncertainty, and it leads directly into the first drawing on the board.
 
-6. `The value function: gains, losses, kink, reference point, framing`  
-   The lecturer uses the chalkboard sketch to establish the asymmetry between gains and losses, the kink at the origin, and the fact that the origin is a psychologically variable reference point rather than a fixed objective baseline. This beat appears when the lecture needs a first concrete mathematical picture, and it leads into insurance examples because once small losses are felt too strongly, we can see why markets might sell protection against highly salient but relatively minor risks. `[Q&A candidate]`
+6. The value function, reference points, framing, and small-loss sensitivity. The lecturer is trying to establish not just the shape of the graph but what the shape means: concavity for gains, convexity for losses, a kink at the origin, and a psychologically determined reference point. It appears here because the lecture has finally slowed down enough to make a careful mathematical move, and it leads into concrete institutional examples such as funeral insurance, airline insurance, and diamond-ring insurance. `Question & Answer candidate:` “What does the kink at the origin mean, and why does the reference point matter?”
 
-7. `The weighting function and the sale of small-risk insurance`  
-   He then moves from valuation to probability perception, arguing that people do not think in a smooth probabilistic continuum but instead round toward `0`, `1`, or a distorted middle. This arrives exactly when the value-function discussion has shown that salience matters, and it leads forward by testing the practical consequences in funeral insurance, flight insurance, and the broader claim that behavioral errors are real but not immutable. `[Q&A candidate]`
+7. The weighting function and the non-immutability of bias. He then shifts from how we value gains and losses to how we mis-handle probabilities, using the weighting function to explain why tiny probabilities are either ignored or exaggerated. This appears immediately after the value function because prospect theory is explicitly a two-part structure, and it leads into an important qualification: these are recurrent errors, but not permanent destinies, since people and institutions can learn past them.
 
-8. `Regret and gambling as emotional finance`  
-   After the main prospect-theory machinery, he briefly widens the lens to regret theory and then to gambling as a universal human behavior, sometimes pathological and sometimes productively channeled through markets. This belongs here because it shows that finance is not just about misperceived gains and probabilities but also about deeper emotional and motivational drives, and it prepares the next beat on overconfidence by shifting from utility-like pictures back to lived behavior.
+8. Beyond prospect theory: regret, gambling, and overconfidence. Once prospect theory has done its main work, the lecturer broadens the field into a more open catalog of behavioral mechanisms, beginning with regret and gambling and then dwelling on overconfidence through a live classroom exercise with 90% confidence intervals. This appears here because he wants to show that prospect theory is powerful but incomplete, and it leads into a more social and institutional treatment of bias rather than a purely individual one.
 
-9. `Overconfidence, classroom calibration, and the social extension of ego`  
-   The lecture slows down again for a second major formal episode: the confidence-interval experiment. He uses it to establish that people systematically overestimate how much they know, then extends that thought to smart friends, charismatic CEOs, and success stories that are partly luck. This beat appears here because it gives the lecture a second empirical anchor after prospect theory, and it leads into later biases by showing how misjudgment persists even when no obvious diagram is present. `[Q&A candidate]`
-
-10. `Late survey: cognitive dissonance, anchoring, representativeness, social contagion, and the return to integrity`  
-   In the final run, he moves more quickly through several biases and social mechanisms, but he keeps tying them back to finance through mutual funds, advisors, chart patterns, herd behavior, and manipulation. This closing sequence belongs late because it broadens the field without losing the lecture's moral frame, and it leads to the final conclusion that institutions, regulation, and integrity restrain these failings without eliminating them.
+9. Cognitive dissonance, anchoring, representativeness, social contagion, and the return to institutions. In the final stretch he moves briskly through several biases, but each is attached to an institutional consequence: stubborn fund holders, overly accommodating advisers, arbitrary anchors, pattern-seeking in markets, and herd-like collective consciousness. This appears at the end because the lecture is now synthesizing many mechanisms into a broader vision of markets as socially shaped, and it leads into the closing claim that regulation, integrity, and shared value help prevent these failings from dominating the system. `Question & Answer candidate:` “If advisers know clients are biased, when should they challenge those beliefs and when should they work around them?”
 
 ## Transition Cues
-- He repeatedly uses delaying pivots of the form “but before I start” or “before I move on,” which means the preliminaries are structurally important rather than disposable throat-clearing.
-- He often marks a shift with “now, I wanted to move” or “I’m going to turn now,” signaling that the notes should preserve explicit transitions instead of silently merging topics.
-- When introducing formal content, he tends to announce it as “I’ll draw a picture” or “the other aspect is,” so the mathematics arrives as a motivated visual object rather than as a prefabricated formula.
-- He uses “so what does this mean?” after drawing, which is a cue to interpret the picture immediately in prose rather than leaving it as a bare diagram.
-- He frequently narrows from theory to commercial practice with “the classic example” or “another example,” so examples should follow analytical claims closely.
-- He uses “let me mention a few other things” when the pace quickens; this signals a late-lecture survey mode, not a new primary spine.
-- He often closes sections with “but it doesn’t explain everything” or “let me move on,” which prevents any single bias from becoming the whole theory of finance.
-- He ends with a recap cue like “but what do we conclude from this?”, which should survive in the chapter as an explicit return from examples to judgment.
+The lecturer repeatedly announces pivots in a spoken, self-correcting style: “before I start,” “I wanted to put this into perspective,” and “that was my introduction” are used to bracket phases of the lecture.
+
+He often softens a hard claim before moving on. A typical pattern is: people are irrational or manipulable, then immediately, “but” we should not overstate exploitation, and then a new moral or institutional frame is introduced.
+
+When he turns formal, he signals the shift explicitly: “I wanted to start out with” the most famous element, “I’ll draw a picture,” “this will be very quick,” and “let me show simply” how Kahneman and Tversky think about the issue.
+
+After each formal sketch, he asks the interpretive question out loud: “So, what does this mean?” That cue matters because it marks the lecture’s rhythm from diagram to economic meaning to institutional example.
+
+He also uses limitation cues to avoid overclaiming: “huge literature,” “very quick description,” “I’m exaggerating a little bit,” “it doesn’t explain everything,” and “let me move on.” Those phrases keep the lecture from sounding like a closed theory.
+
+In the later catalog of biases, the transitions become looser and more conversational: “let me mention a few other things,” “the next major thing,” “another example,” and “I want to conclude with.” The draft should preserve that acceleration rather than pretending the lecture remains equally formal throughout.
 
 ## Recurring Motifs
-- Real people against rational abstraction: the lecture keeps returning to the claim that finance works through actual minds, not idealized calculators.
-- Human weakness without full cynicism: biases are real, but they do not automatically imply that all finance is exploitation.
-- Moral psychology as institutional foundation: praiseworthiness, integrity, and character keep resurfacing as counterweights to opportunism.
-- Diagram to application: when a mathematical picture appears, it is quickly tied to framing, insurance, marketing, or institutional practice.
-- Errors are natural but not fixed: several times he insists that behavioral tendencies are genuine without being permanent or untrainable.
-- Finance as channel rather than mere pathology: even gambling and imitation are treated as human energies that institutions sometimes redirect productively.
-- Individual bias becoming social structure: the lecture widens from personal judgment to advisors, CEOs, herd behavior, and collective consciousness.
+A constant motif is that finance is about real people, not idealized agents. The lecture keeps returning to the claim that institutions must be understood through the psychology of the people who inhabit them.
+
+Another recurring motif is the double-sided treatment of markets: bias creates opportunities for manipulation, but integrity, trust, reputation, and regulation keep the system from collapsing into pure exploitation.
+
+The lecturer repeatedly moves from a psychological mechanism to an institutional surface. He does not leave ideas at the level of mental bias; he asks what they do to insurance, advising, CEO selection, technical trading, or herd behavior.
+
+He also returns again and again to the idea that errors are common but corrigible. Prospect-theory distortions, overconfidence, and cognitive dissonance are presented as durable tendencies, yet not as immutable laws.
+
+Finally, there is a repeated moral motif inherited from Adam Smith: the difference between mere approval and deserved approval. That theme quietly frames the entire lecture, including the ending on shared value and integrity.
 
 ## Pacing Risks
-- A draft writer may compress the Adam Smith material into background color, but in the lecture it is the first real answer to the problem of why markets do not dissolve into pure manipulation.
-- The DSM-IV and APD discussion can look like a digression, yet it performs real conceptual work by breaking the fiction of a uniform economic actor.
-- Prospect theory can easily be flattened into a textbook summary; that would lose the lecture's actual rhythm, which is: announce the two parts, draw the picture, interpret the picture, then test it against practice.
-- The value-function section is especially vulnerable to premature abstraction; if we skip too quickly to “loss aversion,” we lose the slow motivation through reference points, framing, and small-loss salience.
-- The weighting-function discussion can also be over-compressed into one slogan about low probabilities; the lecture's actual force comes from the concrete move from psychological probability to insurance salesmanship.
-- The gambling section is easy to cut, but doing so weakens the lecture's larger claim that markets channel, rather than simply erase, deep human drives.
-- The overconfidence experiment should not be reduced to its punchline; the honesty appeal, the definition of a 90\% interval, the three questions, and the class reaction are what make the lesson work.
-- The late-lecture survey is prone to becoming a shapeless list; it needs at least a light connective thread showing how each bias enters finance or institutional behavior.
-- The final return to integrity, regulation, and shared value is structurally essential; if omitted, the chapter will sound more cynical than the lecture actually is.
+A draft writer is likely to compress the long moral preface too aggressively and rush straight to prospect theory. That would lose the lecture’s actual sequencing, where the ethical frame is not ornamental but a condition for reading the later biases correctly.
+
+Another risk is flattening Adam Smith into generic background. In the lecture, Smith is not a historical aside; he is the conceptual bridge between human weakness and the possibility of decent institutions.
+
+The prospect-theory section can also be mishandled by turning it into a textbook summary. The lecture’s rhythm is slower and more pedagogical: announce two components, draw one, ask what the shape means, then move into framing and insurance examples.
+
+The weighting-function section is easy to overformalize. In the lecture it is sketched as a psychologically crude, almost piecewise habit of rounding and exaggeration, not as a polished continuous formula.
+
+The overconfidence segment should not be reduced to “people are overconfident.” Its pacing depends on the classroom experiment, the definition of a 90% confidence interval, the embarrassing reveal, and only then the psychological explanation.
+
+The late sequence of regret, gambling, cognitive dissonance, anchoring, representativeness, and social contagion is easy to turn into a tidy list. That would miss the spoken effect: the lecturer is accelerating through a field too large to finish, giving just enough of each mechanism to show its market relevance.
+
+The closing can also be distorted if it sounds like a sentimental add-on. In the lecture, the return to regulation, praiseworthiness, shared value, and integrity is the intended conclusion of the whole argument, not a decorative moral.
