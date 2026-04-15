@@ -1,0 +1,1079 @@
+# Transcript
+
+Source: lazyearn/jim-rohn-originals-no-ai/019 - Jim Rohn Speaks at one of Greg Herder's MegaManaging seminars for sales managers： Part 2 [d8eA6kWWEe0].webm
+
+- [00:00:00,000 - 00:00:03,260] working on your philosophy and all those other things.
+- [00:00:05,640 - 00:00:06,860] Let's go up this ladder
+- [00:00:06,860 - 00:00:08,080] now just to illustrate a point.
+- [00:00:08,880 - 00:00:11,240] Is it possible to multiply your income by 10?
+- [00:00:13,000 - 00:00:14,680] All kids need to hear this.
+- [00:00:15,420 - 00:00:16,760] It's not being taught, I
+- [00:00:16,760 - 00:00:18,100] don't think, in the local schools.
+- [00:00:21,020 - 00:00:22,170] You have to come to a
+- [00:00:22,170 - 00:00:23,320] Jim Rohn seminar to hear this.
+- [00:00:23,900 - 00:00:25,660] I never heard it until I was 25.
+- [00:00:26,020 - 00:00:27,980] It's possible to multiply your income by 10.
+- [00:00:27,980 - 00:00:30,490] If we searched around the Palm Springs area,
+- [00:00:30,490 - 00:00:33,000] could we find somebody that makes $50 an hour?
+- [00:00:33,080 - 00:00:34,180] And the answer is yes, of course.
+- [00:00:34,520 - 00:00:36,780] So it's possible to multiply your income by 10.
+- [00:00:37,760 - 00:00:39,620] Could you multiply it by 10 again?
+- [00:00:43,280 - 00:00:44,800] That's $500 an hour.
+- [00:00:46,720 - 00:00:50,090] If we searched around this area, would we have to search
+- [00:00:50,090 - 00:00:53,460] very long until we find someone that makes $500 an hour?
+- [00:00:54,400 - 00:00:56,000] No. Everybody agrees.
+- [00:00:56,380 - 00:00:57,960] So it's not only possible to multiply.
+- [00:00:58,080 - 00:01:00,280] If you multiply your income by 10,
+- [00:01:00,280 - 00:01:02,480] it's possible to multiply by 10 again.
+- [00:01:02,919 - 00:01:04,799] Now, would it be possible
+- [00:01:04,799 - 00:01:06,679] to multiply it by 10 again?
+- [00:01:07,880 - 00:01:09,380] $5,000 an hour.
+- [00:01:12,380 - 00:01:13,679] What do you suppose I get paid?
+- [00:01:15,479 - 00:01:17,479] It's not open for public disclosure.
+- [00:01:20,580 - 00:01:23,480] I've lectured with, you know, Schwarzkopf and Colin
+- [00:01:23,480 - 00:01:26,380] Powell and Henry Kissinger and all the rest.
+- [00:01:26,720 - 00:01:27,679] They get paid well.
+- [00:01:27,680 - 00:01:29,980] Schwarzkopf gets $65,000 for a one-hour speech.
+- [00:01:31,780 - 00:01:34,730] So all you have to do is become a general in the
+- [00:01:34,730 - 00:01:37,680] Army, win the Gulf War, you get $65,000 for a one-hour speech.
+- [00:01:39,980 - 00:01:43,980] Bill Clinton gets what? $125,000 for a one-hour speech.
+- [00:01:45,160 - 00:01:46,920] And then this just keeps on going.
+- [00:01:47,220 - 00:01:48,640] On up to the stratosphere.
+- [00:01:49,420 - 00:01:51,940] Someone earned $36 million last year for one year's work.
+- [00:01:52,360 - 00:01:53,420] So that's the ladder.
+- [00:01:53,420 - 00:01:54,620] Now, jot this down.
+- [00:01:54,960 - 00:01:57,520] To climb this ladder as high as you wish.
+- [00:01:57,680 - 00:02:00,840] And you've got to underline the word wish.
+- [00:02:01,980 - 00:02:03,540] Because part of your future now is
+- [00:02:03,540 - 00:02:05,100] what you wish and what you want.
+- [00:02:06,140 - 00:02:08,360] How much property will they let you own in America?
+- [00:02:11,260 - 00:02:13,580] As much as you want.
+- [00:02:14,320 - 00:02:16,240] This is wish-want country.
+- [00:02:16,480 - 00:02:18,340] You've dropped into the right place.
+- [00:02:20,880 - 00:02:23,220] As much as you want, as much as you wish.
+- [00:02:25,480 - 00:02:27,020] And not to have any.
+- [00:02:27,020 - 00:02:27,080] Any.
+- [00:02:27,680 - 00:02:29,180] And you live in a country where you can have
+- [00:02:29,180 - 00:02:30,680] as much as you want and as much as you wish.
+- [00:02:30,680 - 00:02:32,180] See, wouldn't that be puzzling
+- [00:02:32,180 - 00:02:33,680] to people outside the country?
+- [00:02:35,680 - 00:02:36,680] As much as you wish.
+- [00:02:36,680 - 00:02:39,180] To climb this ladder as high as you
+- [00:02:39,180 - 00:02:41,680] wish in terms of bringing value to the marketplace.
+- [00:02:43,680 - 00:02:46,680] And becoming valuable to the marketplace.
+- [00:02:46,680 - 00:02:47,680] As high as you wish.
+- [00:02:48,180 - 00:02:49,180] Here's all you have to do.
+- [00:02:49,180 - 00:02:52,680] And Don and Greg heard it all those years ago.
+- [00:02:53,440 - 00:02:56,760] And it's a simple analysis, but it's so true.
+- [00:02:56,760 - 00:02:57,380] Here it is.
+- [00:02:57,380 - 00:02:58,380] One more time.
+- [00:02:58,380 - 00:03:01,380] Learn to work harder on yourself
+- [00:03:01,380 - 00:03:04,380] than you do on your job.
+- [00:03:11,380 - 00:03:13,380] That's the simple philosophy that changed
+- [00:03:13,380 - 00:03:15,380] my life forever starting age 25.
+- [00:03:19,380 - 00:03:21,380] If you work hard on your job,
+- [00:03:21,380 - 00:03:23,380] you can make a living, which is fine.
+- [00:03:23,380 - 00:03:24,880] If you work hard on yourself, you
+- [00:03:24,880 - 00:03:26,380] can make a fortune, which is fine.
+- [00:03:26,380 - 00:03:27,380] If you work hard on yourself, you
+- [00:03:27,380 - 00:03:28,380] can make a fortune, which is super fine.
+- [00:03:34,380 - 00:03:37,380] Everything changed for me when I understood this philosophy.
+- [00:03:37,380 - 00:03:39,380] I didn't mind working hard on my job.
+- [00:03:40,380 - 00:03:43,380] But things didn't seem to change that much.
+- [00:03:43,380 - 00:03:46,380] Then I started working hard on myself to qualify.
+- [00:03:46,380 - 00:03:48,380] So let me put it in a philosophical phrase now.
+- [00:03:48,380 - 00:03:50,380] This is worth the price of whatever
+- [00:03:50,380 - 00:03:52,380] it costs for you to be here today.
+- [00:03:52,380 - 00:03:53,380] Here it is.
+- [00:03:53,380 - 00:03:55,380] Success is something you attract.
+- [00:03:55,380 - 00:04:01,380] By becoming an attractive person.
+- [00:04:01,380 - 00:04:05,380] Success is not something you pursue.
+- [00:04:05,380 - 00:04:09,380] It's something you attract by becoming attractive.
+- [00:04:09,380 - 00:04:13,380] Here's what we teach in leadership.
+- [00:04:13,380 - 00:04:17,380] To attract attractive people, you must be attractive.
+- [00:04:17,380 - 00:04:23,380] And the whole scope of this we call success.
+- [00:04:23,380 - 00:04:25,380] And the whole scope of
+- [00:04:25,380 - 00:04:27,380] this we call now personal development.
+- [00:04:27,380 - 00:04:30,880] You can have more than you've got
+- [00:04:30,880 - 00:04:34,380] because you can become more than you are.
+- [00:04:34,380 - 00:04:39,380] If you can multiply your value by 3, by 5, you
+- [00:04:39,380 - 00:04:44,380] can easily multiply your income by 3, by 5, by 10.
+- [00:04:44,380 - 00:04:46,880] But the key to doing it
+- [00:04:46,880 - 00:04:49,380] is to work hard on yourself.
+- [00:04:49,380 - 00:04:51,380] What is that?
+- [00:04:51,380 - 00:04:53,380] What is that?
+- [00:04:53,380 - 00:04:58,380] Oh, right.
+- [00:04:58,380 - 00:05:01,380] You can have more than you've got
+- [00:05:01,380 - 00:05:04,380] because you can become more than you are.
+- [00:05:11,380 - 00:05:13,380] Now, that's why I mentioned this
+- [00:05:13,380 - 00:05:15,380] personal development part is learning multiple skills.
+- [00:05:15,380 - 00:05:18,380] If it would serve you, multiple languages.
+- [00:05:18,380 - 00:05:19,380] Okay?
+- [00:05:19,380 - 00:05:21,380] Working hard on yourself.
+- [00:05:21,380 - 00:05:28,380] You know, people are fun to work with.
+- [00:05:28,380 - 00:05:31,380] The key sometimes that's not
+- [00:05:31,380 - 00:05:34,380] fun to work with is yourself.
+- [00:05:34,380 - 00:05:37,380] How come I'm reluctant when I should be excited?
+- [00:05:37,380 - 00:05:38,380] Right?
+- [00:05:38,380 - 00:05:41,380] You just go through this dilemma.
+- [00:05:41,380 - 00:05:45,380] The work we do is fairly easy.
+- [00:05:45,380 - 00:05:48,380] Mr. Shouf, my first mentor, taught me.
+- [00:05:48,380 - 00:05:50,380] You know, the world is mostly full of real nice.
+- [00:05:50,380 - 00:05:55,380] In fact, he said there's only about 11 or
+- [00:05:55,380 - 00:06:00,380] 12 real nasty, miserable, horrible people in the whole world.
+- [00:06:00,380 - 00:06:03,380] Now, he said they move around a lot.
+- [00:06:03,380 - 00:06:08,380] So you're bound to find one once in a while.
+- [00:06:08,380 - 00:06:09,880] But if you found one, you say,
+- [00:06:09,880 - 00:06:11,380] hey, there's only 11 more like you.
+- [00:06:11,380 - 00:06:12,380] I can handle that.
+- [00:06:12,380 - 00:06:17,380] I mean, there's not a thousand.
+- [00:06:17,380 - 00:06:18,380] But here's the big challenge.
+- [00:06:18,380 - 00:06:19,380] Working hard on yourself.
+- [00:06:19,380 - 00:06:22,380] Personality and temperament and mindset.
+- [00:06:22,380 - 00:06:24,380] We talked about culture.
+- [00:06:24,380 - 00:06:30,380] All the stuff necessary to individually be responsible,
+- [00:06:30,380 - 00:06:36,380] be a growing, attractive, powerful, skillful, communicating human being.
+- [00:06:36,380 - 00:06:38,380] And the world belongs to you.
+- [00:06:38,380 - 00:06:40,380] Now, to get others to do
+- [00:06:40,380 - 00:06:42,380] the same, that's part of the challenge.
+- [00:06:42,380 - 00:06:45,380] But these multiple skills can help you to do that.
+- [00:06:45,380 - 00:06:48,380] Now, jot down these five key ideas.
+- [00:06:48,380 - 00:06:50,380] That can help us all to
+- [00:06:50,380 - 00:06:52,380] take advantage of the 21st century.
+- [00:06:52,380 - 00:06:53,380] Here's number one.
+- [00:06:53,380 - 00:07:01,380] Work on your personal philosophy.
+- [00:07:01,380 - 00:07:07,380] Your personal philosophy is like a guidance system.
+- [00:07:07,380 - 00:07:09,380] Personal philosophy.
+- [00:07:09,380 - 00:07:15,380] A guidance system.
+- [00:07:15,380 - 00:07:16,380] Now, the subject of philosophy is a lot of work.
+- [00:07:16,380 - 00:07:17,380] But it's not all about that.
+- [00:07:17,380 - 00:07:18,380] The subject of philosophy is a big subject.
+- [00:07:18,380 - 00:07:20,880] You know, spiritual philosophy and economic
+- [00:07:20,880 - 00:07:23,380] philosophy and social and all the rest.
+- [00:07:23,380 - 00:07:26,380] But your personal philosophy now is like a guidance system.
+- [00:07:26,380 - 00:07:28,380] Just draw you an arrow.
+- [00:07:28,380 - 00:07:31,380] That'll be your guidance system.
+- [00:07:31,380 - 00:07:34,380] And your guidance system only does two things.
+- [00:07:34,380 - 00:07:37,380] One, helps you to see the dangers over
+- [00:07:37,380 - 00:07:40,380] here so you don't build on the sand.
+- [00:07:40,380 - 00:07:44,380] Even though at the moment it looks attractive.
+- [00:07:44,380 - 00:07:46,380] Blue sky, fleecy clouds.
+- [00:07:46,380 - 00:07:50,380] Why not build on the sand?
+- [00:07:50,380 - 00:07:51,880] See, you just have to
+- [00:07:51,880 - 00:07:53,380] get smarter and smarter at that.
+- [00:07:53,380 - 00:07:55,380] Not to do that.
+- [00:07:55,380 - 00:07:57,380] Now, your guidance system also helps
+- [00:07:57,380 - 00:07:59,380] you to find the opportunities over here.
+- [00:07:59,380 - 00:08:00,880] And this is what the
+- [00:08:00,880 - 00:08:02,380] drama of life is all about.
+- [00:08:02,380 - 00:08:09,380] Danger riding side by side with opportunity.
+- [00:08:09,380 - 00:08:11,380] Los Angeles.
+- [00:08:11,380 - 00:08:12,880] A place for the most
+- [00:08:12,880 - 00:08:14,380] extraordinary opportunity probably in the world.
+- [00:08:14,380 - 00:08:15,380] Side by side with danger.
+- [00:08:16,380 - 00:08:17,880] In Los Angeles, when the light
+- [00:08:17,880 - 00:08:19,380] turns green, you better not go.
+- [00:08:23,380 - 00:08:26,380] Wait two or three seconds for those
+- [00:08:26,380 - 00:08:29,380] maniacs, right, that are running the red light.
+- [00:08:29,380 - 00:08:33,380] Did you ever blink and say, I can't believe the light
+- [00:08:33,380 - 00:08:37,380] is green and there's cars going this way in front of me?
+- [00:08:38,380 - 00:08:39,380] That's Los Angeles.
+- [00:08:39,380 - 00:08:40,880] If you're a pedestrian and the
+- [00:08:40,880 - 00:08:42,380] light turns green, you better not go.
+- [00:08:42,380 - 00:08:43,880] If it says walk, you better
+- [00:08:43,880 - 00:08:45,380] not walk for a second or two.
+- [00:08:46,380 - 00:08:48,380] To what?
+- [00:08:48,380 - 00:08:50,380] Save your life.
+- [00:08:50,380 - 00:08:52,380] Save your life.
+- [00:08:52,380 - 00:08:55,380] Danger and opportunity.
+- [00:08:55,380 - 00:08:57,380] Side by side.
+- [00:08:57,380 - 00:09:00,380] Learning to understand one so you can avoid it.
+- [00:09:00,380 - 00:09:02,380] How to cash in on the other.
+- [00:09:02,380 - 00:09:03,880] Now, jot this down because
+- [00:09:03,880 - 00:09:05,380] it's got to be taught early.
+- [00:09:05,380 - 00:09:08,380] The guidance system must start early.
+- [00:09:08,380 - 00:09:11,380] When a child goes to school, they've
+- [00:09:11,380 - 00:09:14,380] got to have a good guidance system working.
+- [00:09:14,380 - 00:09:15,380] So they can spot the dangers to their children.
+- [00:09:15,380 - 00:09:18,880] They've got to spot the dangers to their health, the dangers to
+- [00:09:18,880 - 00:09:22,380] their person, the dangers to their thinking, the dangers to their future.
+- [00:09:22,380 - 00:09:24,380] Early, this system has to start.
+- [00:09:24,380 - 00:09:32,380] From early training, ideas, information, parents, teachers.
+- [00:09:32,380 - 00:09:35,380] And the temptation is always there.
+- [00:09:35,380 - 00:09:39,880] When I was a little kid growing up, I saw this cartoon of a little boy
+- [00:09:39,880 - 00:09:44,380] with a little devil on one shoulder and a little angel, right, on the other shoulder.
+- [00:09:45,380 - 00:09:49,380] Both whispering in his ear.
+- [00:09:49,380 - 00:09:50,380] The little devil says, go ahead and do it.
+- [00:09:50,380 - 00:09:51,380] It'll be okay.
+- [00:09:51,380 - 00:09:53,380] A little angel says, no, no, no.
+- [00:09:53,380 - 00:09:54,380] No, no, no.
+- [00:09:54,380 - 00:09:55,380] Won't be okay.
+- [00:09:55,380 - 00:09:56,380] No, no, no.
+- [00:09:56,380 - 00:09:57,380] Yes, yes, go ahead.
+- [00:09:57,380 - 00:09:58,380] You can get by with it this time.
+- [00:09:58,380 - 00:10:00,380] No, no, no.
+- [00:10:00,380 - 00:10:01,380] What is that?
+- [00:10:01,380 - 00:10:04,380] It's called high drama.
+- [00:10:04,380 - 00:10:06,380] This is high drama.
+- [00:10:06,380 - 00:10:08,380] Every day of our life, we are tempted.
+- [00:10:08,380 - 00:10:10,380] Cross the line, tempted.
+- [00:10:10,380 - 00:10:12,380] Run the light, tempted.
+- [00:10:12,380 - 00:10:14,380] Sometimes it could be fatal in a moment.
+- [00:10:15,380 - 00:10:17,380] Here's a father who loves his family.
+- [00:10:17,380 - 00:10:19,380] He's a respected citizen of the community.
+- [00:10:19,380 - 00:10:20,880] He's got a thriving business,
+- [00:10:20,880 - 00:10:22,380] but he's late for an appointment.
+- [00:10:22,380 - 00:10:24,380] And he's pushing it in Los Angeles.
+- [00:10:24,380 - 00:10:26,380] And the light turns red and the voice says, go.
+- [00:10:26,380 - 00:10:28,380] You can make it this time.
+- [00:10:28,380 - 00:10:29,380] Besides, you're late.
+- [00:10:29,380 - 00:10:30,380] Go.
+- [00:10:30,380 - 00:10:32,380] And now he's dead.
+- [00:10:32,380 - 00:10:34,380] This is not an evil man.
+- [00:10:34,380 - 00:10:36,380] This is not a bad man.
+- [00:10:36,380 - 00:10:40,380] This is a careless man who in
+- [00:10:40,380 - 00:10:44,380] just a moment of thoughtlessness loses his life.
+- [00:10:44,380 - 00:10:46,380] Loses his life.
+- [00:10:46,380 - 00:10:48,380] So everybody's guidance system has
+- [00:10:48,380 - 00:10:50,380] got to be alert and working.
+- [00:10:50,380 - 00:10:53,380] Whether it's in business, crossing the line.
+- [00:10:53,380 - 00:10:55,380] Whether it's a moral question,
+- [00:10:55,380 - 00:10:57,380] ethical question, all the rest.
+- [00:10:57,380 - 00:10:58,380] All of us.
+- [00:10:58,380 - 00:11:04,380] That's why the great prayer says, lead us around temptation.
+- [00:11:04,380 - 00:11:08,380] Help us to manage this dangerous side.
+- [00:11:08,380 - 00:11:10,380] And then it just goes on and on.
+- [00:11:10,380 - 00:11:13,380] This is part of the great drama.
+- [00:11:13,380 - 00:11:16,380] The spoiler and the creator.
+- [00:11:16,380 - 00:11:17,380] Over here is what?
+- [00:11:17,380 - 00:11:18,380] Evil.
+- [00:11:18,380 - 00:11:19,380] And over here is what?
+- [00:11:19,380 - 00:11:22,380] Good.
+- [00:11:22,380 - 00:11:24,380] Over here is darkness.
+- [00:11:24,380 - 00:11:28,380] Here is light.
+- [00:11:28,380 - 00:11:29,380] Over here is illness.
+- [00:11:29,380 - 00:11:31,380] Over here is what?
+- [00:11:31,380 - 00:11:36,380] Health.
+- [00:11:36,380 - 00:11:39,380] Over here is death.
+- [00:11:39,380 - 00:11:40,380] Over here is what?
+- [00:11:40,380 - 00:11:41,380] Life.
+- [00:11:41,380 - 00:11:43,380] Here is tyranny.
+- [00:11:43,380 - 00:11:46,380] Here is liberty.
+- [00:11:46,380 - 00:11:51,380] Why this drama?
+- [00:11:51,380 - 00:11:55,380] Because it's the only way to create a human drama.
+- [00:11:55,380 - 00:11:57,380] So make this note.
+- [00:11:57,380 - 00:11:59,380] One of the best I have for the day.
+- [00:11:59,380 - 00:12:01,380] Here's what it seems like.
+- [00:12:01,380 - 00:12:04,380] Opposites are in conflict and we are in the middle.
+- [00:12:04,380 - 00:12:08,380] That's the game of life.
+- [00:12:08,380 - 00:12:10,380] Whether it's in business, whether
+- [00:12:10,380 - 00:12:12,380] it's home, social, marriage, personal.
+- [00:12:12,380 - 00:12:15,380] Friendship, health, no matter what it is.
+- [00:12:15,380 - 00:12:22,380] It's the drama.
+- [00:12:22,380 - 00:12:25,880] In your bloodstream there are red corpuscles
+- [00:12:25,880 - 00:12:29,380] to nourish and give life like a mother.
+- [00:12:29,380 - 00:12:36,380] And white corpuscles to fight and kill like a father.
+- [00:12:36,380 - 00:12:39,380] And you gotta have both.
+- [00:12:39,380 - 00:12:41,380] Thank God for white corpuscles that think like a father.
+- [00:12:41,380 - 00:12:44,380] White corpuscles that think negative all day.
+- [00:12:44,380 - 00:12:46,880] White corpuscles say, just show me
+- [00:12:46,880 - 00:12:49,380] some infection and I'll kill it.
+- [00:12:49,380 - 00:12:51,380] Because if I don't kill it, what?
+- [00:12:51,380 - 00:12:52,380] It kills you.
+- [00:12:52,380 - 00:12:54,380] Somebody's gonna get killed today.
+- [00:12:54,380 - 00:12:56,380] White corpuscles say, it's up to
+- [00:12:56,380 - 00:12:58,380] me to make sure it's not you.
+- [00:12:58,380 - 00:12:59,380] So the war is going on.
+- [00:12:59,380 - 00:13:06,380] Friendly bacteria and unfriendly bacteria.
+- [00:13:06,380 - 00:13:09,380] This is the game.
+- [00:13:11,380 - 00:13:15,380] But what if you picked up
+- [00:13:15,380 - 00:13:19,380] a book and the first chapter said,
+- [00:13:19,380 - 00:13:21,380] everything's fine.
+- [00:13:23,380 - 00:13:28,380] Second chapter, everything's fine.
+- [00:13:28,380 - 00:13:33,380] Third chapter, hey, everything is just fine.
+- [00:13:33,380 - 00:13:36,380] Fourth chapter, everything's fine.
+- [00:13:36,380 - 00:13:39,380] Would you finish the book?
+- [00:13:39,380 - 00:13:41,380] And the answer is no.
+- [00:13:41,380 - 00:13:43,380] What kind of a book is this?
+- [00:13:46,380 - 00:13:49,380] That is not the book.
+- [00:13:49,380 - 00:13:52,380] First chapter, the war is on.
+- [00:13:52,380 - 00:13:55,380] Let me read the second chapter and the third chapter.
+- [00:13:58,380 - 00:14:00,380] Isn't this the deal?
+- [00:14:00,380 - 00:14:02,380] Let me give you the last illustration.
+- [00:14:02,380 - 00:14:04,380] Would it be possible to win if you couldn't lose?
+- [00:14:04,380 - 00:14:07,380] And the answer is no.
+- [00:14:07,380 - 00:14:08,380] This is called winning and losing.
+- [00:14:09,380 - 00:14:13,880] What if you put a football under your arm and
+- [00:14:13,880 - 00:14:18,380] we all went with you to the nearest football stadium
+- [00:14:18,380 - 00:14:19,880] and you, with this football under
+- [00:14:19,880 - 00:14:21,380] your arm, crossed the goal line?
+- [00:14:21,380 - 00:14:23,380] Would we cheer and call it a touchdown?
+- [00:14:23,380 - 00:14:25,380] No.
+- [00:14:25,380 - 00:14:30,380] It's not a touchdown until you face the 300 pounders
+- [00:14:30,380 - 00:14:33,380] that want to smash your face in the turf.
+- [00:14:33,380 - 00:14:35,880] And if you can muscle by them and dance
+- [00:14:35,880 - 00:14:38,380] past the secondary and then cross the goal line,
+- [00:14:38,380 - 00:14:39,880] we'd cheer and call it
+- [00:14:39,880 - 00:14:41,380] a touchdown and maybe a championship.
+- [00:14:41,380 - 00:14:43,380] But not without the contest.
+- [00:14:43,380 - 00:14:44,880] So it looks like God started
+- [00:14:44,880 - 00:14:46,380] this whole thing with the angels.
+- [00:14:46,380 - 00:14:49,380] A third of them rebelled and he threw them out.
+- [00:14:49,380 - 00:14:52,380] And that started what we call high drama.
+- [00:14:52,380 - 00:14:55,380] And the high drama continues today
+- [00:14:55,380 - 00:14:58,380] between the spoiler and the creator.
+- [00:14:58,380 - 00:15:01,880] And all we have to do now is figure
+- [00:15:01,880 - 00:15:05,380] out in our business, social, personal, economic, daily life,
+- [00:15:05,380 - 00:15:07,380] how to multiply all life systems together.
+- [00:15:07,380 - 00:15:08,880] How to multiply all life systems by
+- [00:15:08,880 - 00:15:10,380] 2, by 3, by 5, by 10,
+- [00:15:10,380 - 00:15:13,380] by following a few simple guidelines.
+- [00:15:13,380 - 00:15:18,880] One is understanding, first of all, philosophy being
+- [00:15:18,880 - 00:15:24,380] like the set of the sail on a sailboat.
+- [00:15:24,380 - 00:15:25,380] The winds are always blowing.
+- [00:15:25,380 - 00:15:28,380] Contrary winds and political winds and social winds.
+- [00:15:28,380 - 00:15:30,380] Familiar winds and unfamiliar winds.
+- [00:15:30,380 - 00:15:33,380] And upside down winds and storms like hit Florida.
+- [00:15:33,380 - 00:15:35,380] So the wind is always blowing.
+- [00:15:35,380 - 00:15:36,380] But to get to your dreams
+- [00:15:36,380 - 00:15:37,380] and the things you want to do,
+- [00:15:37,380 - 00:15:38,880] the things you want for yourself and for
+- [00:15:38,880 - 00:15:40,380] your family and the money and all the rest,
+- [00:15:40,380 - 00:15:42,380] you don't have to curse the wind.
+- [00:15:42,380 - 00:15:45,380] All you have to do is set a better sail.
+- [00:15:45,380 - 00:15:47,380] And that's what sermons are for.
+- [00:15:47,380 - 00:15:49,380] Lyrics from songs.
+- [00:15:49,380 - 00:15:53,380] Dialogue with conversation with friends.
+- [00:15:53,380 - 00:15:56,380] And that's what classes like this are for.
+- [00:15:56,380 - 00:15:59,380] Is to help keep setting better sail.
+- [00:15:59,380 - 00:16:02,380] So that no matter what happens
+- [00:16:02,380 - 00:16:05,380] in 205, 2006, 7, 8, 10,
+- [00:16:05,380 - 00:16:07,380] you will get so good at setting
+- [00:16:07,380 - 00:16:09,380] sail that no matter what winds blow,
+- [00:16:09,380 - 00:16:12,380] it still takes you toward your destination.
+- [00:16:12,380 - 00:16:16,380] That's called the high drama and the game of life.
+- [00:16:16,380 - 00:16:18,380] That's it.
+- [00:16:18,380 - 00:16:22,380] Making sure you're not building on sand.
+- [00:16:22,380 - 00:16:29,380] Making sure your casa grande is built on the rock.
+- [00:16:29,380 - 00:16:33,380] It starts with personal philosophy.
+- [00:16:33,380 - 00:16:34,380] Now to develop personal philosophy,
+- [00:16:34,380 - 00:16:40,380] and only humans have this remarkable ability.
+- [00:16:40,380 - 00:16:42,380] Every life form seems to be
+- [00:16:42,380 - 00:16:44,380] driven by instinct and the genetic code,
+- [00:16:44,380 - 00:16:46,380] except human beings.
+- [00:16:46,380 - 00:16:48,380] In the winter, the goose
+- [00:16:48,380 - 00:16:50,380] flies south because he's a goose.
+- [00:16:50,380 - 00:16:54,380] What else could he do?
+- [00:16:54,380 - 00:16:55,380] But not true human beings.
+- [00:16:55,380 - 00:17:00,380] Human beings go north, south, east, west, all by choice.
+- [00:17:00,380 - 00:17:01,380] Human beings can live one way
+- [00:17:01,380 - 00:17:02,380] for five years, tear up that script,
+- [00:17:02,380 - 00:17:04,380] live another way for the next five years.
+- [00:17:04,380 - 00:17:05,880] You can tear up the old
+- [00:17:05,880 - 00:17:07,380] script and design a new one,
+- [00:17:07,380 - 00:17:10,380] starting at this convention.
+- [00:17:10,380 - 00:17:12,380] And you can change a little
+- [00:17:12,380 - 00:17:14,380] or you can change a lot.
+- [00:17:14,380 - 00:17:18,380] Here's what's extraordinary about human beings.
+- [00:17:18,380 - 00:17:20,380] Let's say that you're here.
+- [00:17:20,380 - 00:17:22,380] Just draw your little star, you're here.
+- [00:17:22,380 - 00:17:24,380] And it looks like if you keep
+- [00:17:24,380 - 00:17:26,380] going like you're going in five years,
+- [00:17:26,380 - 00:17:27,380] you're going to be here.
+- [00:17:27,380 - 00:17:29,380] Just without kidding yourself, you know.
+- [00:17:29,380 - 00:17:30,880] It looks like if I keep
+- [00:17:30,880 - 00:17:32,380] up my present daily activities and all,
+- [00:17:32,380 - 00:17:33,380] it looks like I'm going to be here.
+- [00:17:33,380 - 00:17:36,380] And you're not happy with this five-year destination.
+- [00:17:36,380 - 00:17:38,380] Would it be possible to set
+- [00:17:38,380 - 00:17:40,380] a new five-year destination and say,
+- [00:17:40,380 - 00:17:43,380] I would much rather be up here in five years
+- [00:17:43,380 - 00:17:44,380] than where it looks like I'm
+- [00:17:44,380 - 00:17:45,380] going to be in five years.
+- [00:17:45,380 - 00:17:47,380] Is it possible to make that design,
+- [00:17:47,380 - 00:17:50,380] make these little necessary corrections here,
+- [00:17:50,380 - 00:17:53,380] errors and judgment corrected and all that,
+- [00:17:53,380 - 00:17:55,380] and start going this way and wind
+- [00:17:55,380 - 00:17:57,380] up here in five years instead of here?
+- [00:17:57,380 - 00:17:58,380] Is that possible?
+- [00:17:58,380 - 00:18:00,380] And the answer is yes.
+- [00:18:00,380 - 00:18:01,380] So, you're going to be here.
+- [00:18:01,380 - 00:18:02,380] Is that possible?
+- [00:18:02,380 - 00:18:04,380] And the answer is yes.
+- [00:18:04,380 - 00:18:08,380] And it's all a matter of personal choice.
+- [00:18:08,380 - 00:18:09,380] Right?
+- [00:18:09,380 - 00:18:10,880] You can change a little
+- [00:18:10,880 - 00:18:12,380] or you can change a lot.
+- [00:18:12,380 - 00:18:13,880] You can go with the old
+- [00:18:13,880 - 00:18:15,380] script or with the new script.
+- [00:18:15,380 - 00:18:16,380] Either one.
+- [00:18:16,380 - 00:18:18,880] At age 25, I decided
+- [00:18:18,880 - 00:18:21,380] to tear up the old script.
+- [00:18:21,380 - 00:18:24,380] My mentor said, Mr. Owen, you've been working six years.
+- [00:18:24,380 - 00:18:25,380] How are you doing?
+- [00:18:25,380 - 00:18:26,380] I said, not very well.
+- [00:18:26,380 - 00:18:28,380] He said, I suggest you not do that anymore.
+- [00:18:31,380 - 00:18:35,380] That's a pretty simple analysis.
+- [00:18:35,380 - 00:18:37,380] He said, couldn't we go over the last six years
+- [00:18:37,380 - 00:18:40,380] and find out where your errors and judgment were?
+- [00:18:40,380 - 00:18:42,380] And couldn't we correct those and invest
+- [00:18:42,380 - 00:18:44,380] that correction in the next six years?
+- [00:18:44,380 - 00:18:45,380] I said, I guess we could.
+- [00:18:45,380 - 00:18:46,380] That's what we did.
+- [00:18:46,380 - 00:18:50,380] That's how I went from pennies to fortune.
+- [00:18:50,380 - 00:18:51,380] Incredible.
+- [00:18:51,380 - 00:18:54,380] Only humans can do this.
+- [00:18:54,380 - 00:18:58,380] See, if you were a tree, you'd be stuck.
+- [00:18:58,380 - 00:18:59,380] Right?
+- [00:18:59,380 - 00:19:01,380] If you used up all the nourishment around you,
+- [00:19:01,380 - 00:19:03,380] couldn't move, then you would die.
+- [00:19:03,380 - 00:19:05,380] But that's not true.
+- [00:19:05,380 - 00:19:07,380] So, however little or much you
+- [00:19:07,380 - 00:19:09,380] want to change, that's up to you.
+- [00:19:09,380 - 00:19:10,380] But see, if there's a
+- [00:19:10,380 - 00:19:11,380] class and you don't take it,
+- [00:19:11,380 - 00:19:13,380] and a skill and you don't learn it,
+- [00:19:13,380 - 00:19:16,380] and a discipline and you don't try it,
+- [00:19:16,380 - 00:19:18,380] and if there's a possibility and you don't explore it,
+- [00:19:18,380 - 00:19:20,380] then who are we going to blame?
+- [00:19:20,380 - 00:19:22,380] Nobody but yourself.
+- [00:19:22,380 - 00:19:24,380] This is the land of extraordinary opportunity.
+- [00:19:24,380 - 00:19:26,380] So, jot this down.
+- [00:19:26,380 - 00:19:28,380] Okay, some of you have to leave early.
+- [00:19:28,380 - 00:19:31,380] I've got to leave in about 35 minutes.
+- [00:19:31,380 - 00:19:34,380] To rush away, I wish I didn't have to,
+- [00:19:34,380 - 00:19:37,380] but that's the way it is for today.
+- [00:19:37,380 - 00:19:39,380] Jot this little phrase down,
+- [00:19:39,380 - 00:19:41,380] and it wouldn't hurt to memorize it.
+- [00:19:41,380 - 00:19:43,380] I'll give you time to write it down.
+- [00:19:43,380 - 00:19:44,380] Here it is.
+- [00:19:44,380 - 00:19:52,380] From testimonials and personal experience.
+- [00:19:52,380 - 00:19:58,380] From testimonials and personal experience.
+- [00:19:58,380 - 00:20:00,380] We have enough information.
+- [00:20:00,380 - 00:20:10,880] To conclude that it's possible to
+- [00:20:10,880 - 00:20:21,380] design and live an extraordinary life.
+- [00:20:21,380 - 00:20:27,380] It's possible to design and live an extraordinary life.
+- [00:20:30,380 - 00:20:31,380] Now, I'm going to have
+- [00:20:31,380 - 00:20:32,380] you repeat that back to me.
+- [00:20:32,380 - 00:20:34,380] Let's all say it together.
+- [00:20:34,380 - 00:20:37,380] From testimonials and personal experience.
+- [00:20:37,380 - 00:20:39,380] We have enough information.
+- [00:20:39,380 - 00:20:41,380] To conclude that it's possible to
+- [00:20:41,380 - 00:20:43,380] design and live an extraordinary life.
+- [00:20:43,380 - 00:20:46,380] I'd like to have you remember
+- [00:20:46,380 - 00:20:49,380] that for the rest of your life.
+- [00:20:49,380 - 00:20:53,380] We are surrounded by testimonials.
+- [00:20:53,380 - 00:20:55,380] We are surrounded by testimonials.
+- [00:20:55,380 - 00:20:57,380] We are surrounded by testimonials.
+- [00:20:57,380 - 00:20:59,380] We are surrounded by testimonials.
+- [00:20:59,380 - 00:21:02,880] And all of you wouldn't arrive here
+- [00:21:02,880 - 00:21:06,380] if you didn't have sufficient personal experience.
+- [00:21:06,380 - 00:21:09,380] That we all should keep concluding it's
+- [00:21:09,380 - 00:21:12,380] possible to design and live an extraordinary life.
+- [00:21:12,380 - 00:21:15,380] And whether you do it more slowly than someone else,
+- [00:21:15,380 - 00:21:17,880] or whether you've, you know, set aside the
+- [00:21:17,880 - 00:21:20,380] design for a while and you've been coasting,
+- [00:21:20,380 - 00:21:22,380] this would be a good time today,
+- [00:21:22,380 - 00:21:26,380] during these days of training and teaching,
+- [00:21:26,380 - 00:21:29,380] to get better at the design and living this life.
+- [00:21:29,380 - 00:21:31,380] This extraordinary life.
+- [00:21:31,380 - 00:21:33,380] Now, let me give you the rest of my ideas.
+- [00:21:33,380 - 00:21:35,380] The first one was personal philosophy.
+- [00:21:35,380 - 00:21:39,380] Learning to judge between darkness and light.
+- [00:21:39,380 - 00:21:42,380] Then here's the key, to cooperate with the positive side.
+- [00:21:42,380 - 00:21:46,380] It's like your health.
+- [00:21:46,380 - 00:21:50,380] Just learn to cooperate with the positive side.
+- [00:21:59,380 - 00:22:02,380] But what if the body calls for a
+- [00:22:02,380 - 00:22:05,380] banana and the guy sends it a Budweiser?
+- [00:22:13,380 - 00:22:16,380] Good health calls for a banana.
+- [00:22:16,380 - 00:22:19,380] Now, if you sent the wrong material,
+- [00:22:19,380 - 00:22:21,380] couldn't the body now say,
+- [00:22:21,380 - 00:22:27,380] whose side are you on?
+- [00:22:29,380 - 00:22:30,880] Good health says, I'm working
+- [00:22:30,880 - 00:22:32,380] overtime trying to keep you healthy
+- [00:22:32,380 - 00:22:34,380] and push illness into a strong corner.
+- [00:22:34,380 - 00:22:36,380] I need some cooperation.
+- [00:22:36,380 - 00:22:38,380] And that's what the game of life is all about.
+- [00:22:38,380 - 00:22:40,380] To find out where the dangers are,
+- [00:22:40,380 - 00:22:43,380] minimize those, push them into a small corner.
+- [00:22:46,380 - 00:22:47,880] For a long time in the
+- [00:22:47,880 - 00:22:49,380] world there was more tyranny than liberty.
+- [00:22:49,380 - 00:22:51,380] Now that the walls came down in Germany,
+- [00:22:51,380 - 00:22:53,380] there's now a lot more liberty than tyranny,
+- [00:22:53,380 - 00:22:55,380] along with all of the difficulties and
+- [00:22:55,380 - 00:22:57,380] stresses and terrorism and all the rest.
+- [00:22:57,380 - 00:22:59,380] Nothing new there.
+- [00:22:59,380 - 00:23:01,380] But this is a time of more liberty than tyranny,
+- [00:23:01,380 - 00:23:03,380] more light than darkness,
+- [00:23:03,380 - 00:23:05,380] more health than illness,
+- [00:23:05,380 - 00:23:08,380] more opportunity than danger.
+- [00:23:08,380 - 00:23:10,380] These are extraordinary times.
+- [00:23:10,380 - 00:23:13,380] If there was ever a time to quickly learn,
+- [00:23:13,380 - 00:23:15,380] put it all in order,
+- [00:23:15,380 - 00:23:19,380] and move forward on all life systems
+- [00:23:19,380 - 00:23:22,380] to multiply their values by two, three, five, ten,
+- [00:23:22,380 - 00:23:24,380] this would be the time to do it.
+- [00:23:24,380 - 00:23:26,380] Now here's four more key ideas.
+- [00:23:26,380 - 00:23:28,380] One is personal philosophy.
+- [00:23:28,380 - 00:23:30,380] Here's the next one, attitude.
+- [00:23:30,380 - 00:23:31,880] How we feel plays such
+- [00:23:31,880 - 00:23:33,380] a major part in our future.
+- [00:23:33,380 - 00:23:34,880] First, it's what we know
+- [00:23:34,880 - 00:23:36,380] so we can make wise decisions
+- [00:23:36,380 - 00:23:38,380] about danger and opportunity.
+- [00:23:40,380 - 00:23:42,380] But second is how we feel.
+- [00:23:43,380 - 00:23:46,380] First, it's how you feel about the past.
+- [00:23:46,380 - 00:23:49,380] You need a healthy attitude about the past
+- [00:23:49,380 - 00:23:50,880] so that you use it, not
+- [00:23:50,880 - 00:23:52,380] live in it, but use it.
+- [00:23:52,380 - 00:23:58,380] Not carry it like a burden,
+- [00:23:58,380 - 00:24:00,380] but let the wise lessons
+- [00:24:00,380 - 00:24:02,380] you learned from the past now
+- [00:24:02,380 - 00:24:07,380] serve as fuel to furnish the future.
+- [00:24:11,380 - 00:24:14,380] Next, a good attitude about the future.
+- [00:24:14,380 - 00:24:16,380] You've got to set your goals.
+- [00:24:16,380 - 00:24:18,380] We look back for experience,
+- [00:24:18,380 - 00:24:20,380] but we look forward for inspiration.
+- [00:24:20,380 - 00:24:23,380] We must be instructed and inspired.
+- [00:24:23,380 - 00:24:27,380] No better inspiration than to set your goals.
+- [00:24:31,380 - 00:24:34,380] I started this process when I was 25.
+- [00:24:34,380 - 00:24:37,380] Literally rocked my world, changed my life.
+- [00:24:37,380 - 00:24:39,380] I had no idea it was so simple.
+- [00:24:39,380 - 00:24:40,380] Here's how simple it is.
+- [00:24:40,380 - 00:24:42,380] Decide what you want, write it all down.
+- [00:24:42,380 - 00:24:45,380] Make a list of the people you want to meet.
+- [00:24:45,380 - 00:24:46,380] Make a list of the books you want to read.
+- [00:24:46,380 - 00:24:48,380] Make a list of the classes you want to take.
+- [00:24:48,380 - 00:24:49,380] Make a list of the skills you want to learn.
+- [00:24:49,380 - 00:24:51,380] Make a list of the cities you want to visit.
+- [00:24:51,380 - 00:24:54,380] Make a list of the investments you want to have.
+- [00:24:55,380 - 00:24:57,380] Just make these lists.
+- [00:24:58,380 - 00:25:00,380] Here's the next key now.
+- [00:25:00,380 - 00:25:02,380] Start checking them off.
+- [00:25:02,380 - 00:25:04,380] Put a lot of little things on some list
+- [00:25:04,380 - 00:25:06,380] so you can start checking off something right away.
+- [00:25:06,380 - 00:25:08,380] That's part of the fun.
+- [00:25:08,380 - 00:25:09,380] Here's what's next.
+- [00:25:09,380 - 00:25:12,380] If you check off something major, celebrate.
+- [00:25:12,380 - 00:25:13,880] Because that inspires you to
+- [00:25:13,880 - 00:25:15,380] make a longer list of goals.
+- [00:25:19,380 - 00:25:22,380] And put everything on your list.
+- [00:25:22,380 - 00:25:24,380] Little things, insignificant to
+- [00:25:24,380 - 00:25:26,380] someone else, important to you.
+- [00:25:26,380 - 00:25:29,380] I put a little revenge on my first list.
+- [00:25:31,380 - 00:25:33,380] My mentor said it was healthy.
+- [00:25:36,380 - 00:25:38,380] Some of the people who said I couldn't succeed,
+- [00:25:38,380 - 00:25:39,880] kid from the farms of
+- [00:25:39,880 - 00:25:41,380] Idaho, they went on my list.
+- [00:25:43,380 - 00:25:44,880] Couldn't wait to get my new
+- [00:25:44,880 - 00:25:46,380] car. Drive it up on their lawn.
+- [00:25:47,380 - 00:25:48,880] Say, oh, pardon me, here's
+- [00:25:48,880 - 00:25:50,380] the money to have it fixed.
+- [00:25:50,380 - 00:25:52,380] Just little satisfactions.
+- [00:25:56,380 - 00:26:00,380] My Japanese friend, Toro Ikeda, San Jose, California,
+- [00:26:00,380 - 00:26:03,380] put on his first list, a Caucasian gardener.
+- [00:26:04,380 - 00:26:06,380] Yeah, I like that, Toro.
+- [00:26:09,380 - 00:26:12,380] Way back then, everybody had a Japanese gardener.
+- [00:26:12,380 - 00:26:13,380] Everybody, Japanese gardener.
+- [00:26:13,380 - 00:26:14,880] He said, I'm Japanese, I'm
+- [00:26:14,880 - 00:26:16,380] going to have a Caucasian gardener.
+- [00:26:17,380 - 00:26:19,380] Okay, little satisfactions, right?
+- [00:26:22,380 - 00:26:23,380] Set your goals.
+- [00:26:23,380 - 00:26:24,380] Decide what you want.
+- [00:26:24,380 - 00:26:25,380] Write it down.
+- [00:26:25,380 - 00:26:26,380] Start checking them off.
+- [00:26:26,380 - 00:26:27,380] It's powerful stuff.
+- [00:26:28,380 - 00:26:30,380] Next, it's how you feel about everybody.
+- [00:26:31,380 - 00:26:33,380] If you want to be a leader, a true leader,
+- [00:26:33,380 - 00:26:35,380] entrepreneur of the highest order,
+- [00:26:36,380 - 00:26:40,380] well respected, unique in your field,
+- [00:26:40,380 - 00:26:43,380] here's number one, how you feel about everybody.
+- [00:26:45,380 - 00:26:46,380] And this is philosophical as well.
+- [00:26:47,380 - 00:26:49,380] You cannot succeed by yourself.
+- [00:26:49,380 - 00:26:52,380] So a unique sense of appreciation of everybody
+- [00:26:52,380 - 00:26:54,380] goes with the territory of leadership.
+- [00:26:56,380 - 00:26:59,380] It takes everybody for each of us to be successful.
+- [00:27:01,380 - 00:27:03,380] One person doesn't make an economy.
+- [00:27:03,380 - 00:27:05,380] One person doesn't make a symphony orchestra.
+- [00:27:06,380 - 00:27:07,380] It takes everybody.
+- [00:27:10,380 - 00:27:11,380] For this gathering today,
+- [00:27:11,380 - 00:27:12,880] all of you had to
+- [00:27:12,880 - 00:27:14,380] be here to make this gathering.
+- [00:27:15,380 - 00:27:16,380] Everybody.
+- [00:27:17,380 - 00:27:18,380] If one of you were missing,
+- [00:27:18,380 - 00:27:20,380] there wouldn't be this many people here.
+- [00:27:26,380 - 00:27:30,380] Everybody to make something work for the office, whatever.
+- [00:27:30,380 - 00:27:33,380] The enterprise takes everybody.
+- [00:27:34,380 - 00:27:36,880] The gift of America is everybody who
+- [00:27:36,880 - 00:27:39,380] came over the last two, three hundred years,
+- [00:27:39,380 - 00:27:41,380] bringing with them their gifts.
+- [00:27:41,380 - 00:27:43,380] No country has become such a
+- [00:27:43,380 - 00:27:45,380] depository of the gifts of the world
+- [00:27:45,380 - 00:27:46,380] like America has over the last two, three hundred years.
+- [00:27:46,380 - 00:27:48,380] People coming, bringing their gifts.
+- [00:27:48,380 - 00:27:50,380] Gift of language, gift of learning,
+- [00:27:50,380 - 00:27:53,380] gift of politics, gift of government,
+- [00:27:53,380 - 00:27:55,380] gift of medicine, gift of healing,
+- [00:27:55,380 - 00:27:57,380] gift of music,
+- [00:27:59,380 - 00:28:01,380] gift of the work ethic.
+- [00:28:02,380 - 00:28:03,880] All this came in steady
+- [00:28:03,880 - 00:28:05,380] streams from all over the world,
+- [00:28:06,380 - 00:28:09,380] making us unusual because of the gifts that were brought.
+- [00:28:10,380 - 00:28:12,380] And to understand that and appreciate it,
+- [00:28:12,380 - 00:28:14,380] is to be able to do it.
+- [00:28:14,380 - 00:28:17,380] To understand that and appreciate it,
+- [00:28:17,380 - 00:28:19,380] now gives you open access to the
+- [00:28:19,380 - 00:28:21,380] market that's available to make your fortune.
+- [00:28:22,380 - 00:28:23,880] Now what I love to do is
+- [00:28:23,880 - 00:28:25,380] go back where these gifts came from.
+- [00:28:27,380 - 00:28:29,380] Not long ago I was in Rome.
+- [00:28:29,380 - 00:28:31,380] I had a thousand people in my class.
+- [00:28:32,380 - 00:28:34,380] Someone suggested,
+- [00:28:34,380 - 00:28:36,380] Jim Rohn loves the music of Andrea Bocelli,
+- [00:28:36,380 - 00:28:39,380] the blind opera singer from Italy.
+- [00:28:40,380 - 00:28:42,380] So when they introduced me,
+- [00:28:42,380 - 00:28:43,880] I walked to the podium and all
+- [00:28:43,880 - 00:28:45,380] one thousand of these Italians stood up
+- [00:28:45,380 - 00:28:48,380] and sang for me one of Andrea Bocelli's songs.
+- [00:28:49,380 - 00:28:51,380] In true Italian style.
+- [00:28:51,380 - 00:28:52,380] Tears.
+- [00:28:53,380 - 00:28:55,380] I described it to my grandchildren later.
+- [00:28:55,380 - 00:28:57,380] I said, here was the scene.
+- [00:28:57,380 - 00:29:00,380] A choir of a thousand and an audience of one.
+- [00:29:01,380 - 00:29:02,380] And that was me.
+- [00:29:02,380 - 00:29:05,380] I thought, here's where some of these gifts came from.
+- [00:29:07,380 - 00:29:09,380] The gift of poetry.
+- [00:29:09,380 - 00:29:11,380] The gifts.
+- [00:29:12,380 - 00:29:14,380] So learn to appreciate the gifts.
+- [00:29:14,380 - 00:29:16,380] Now the last attitude is how you feel about yourself.
+- [00:29:19,380 - 00:29:21,380] Nothing more powerful than self-esteem,
+- [00:29:21,380 - 00:29:23,380] which creates self-confidence.
+- [00:29:23,380 - 00:29:24,880] The greatest steps towards
+- [00:29:24,880 - 00:29:26,380] success come from self-confidence.
+- [00:29:26,380 - 00:29:28,380] And that comes from self-esteem.
+- [00:29:28,380 - 00:29:30,380] Doing what you know you should,
+- [00:29:30,380 - 00:29:32,380] so that at the end of the day,
+- [00:29:32,380 - 00:29:35,380] you have high, high self-esteem.
+- [00:29:38,380 - 00:29:39,380] That's attitude.
+- [00:29:39,380 - 00:29:40,380] Now here's the third of the five ideas.
+- [00:29:40,380 - 00:29:41,380] One was personal philosophy.
+- [00:29:41,380 - 00:29:42,380] Second was attitude.
+- [00:29:42,380 - 00:29:44,380] Number three, activity.
+- [00:29:48,380 - 00:29:51,380] The activity now is the work part, the labor part.
+- [00:29:51,380 - 00:29:52,880] The old formula says six days
+- [00:29:52,880 - 00:29:54,380] of labor, one day of rest.
+- [00:29:54,380 - 00:29:55,380] Don't rest too long.
+- [00:29:55,380 - 00:29:57,380] The weeds take the garden.
+- [00:29:58,380 - 00:29:59,880] But here's what else to remember
+- [00:29:59,880 - 00:30:01,380] about the six days of labor.
+- [00:30:01,380 - 00:30:04,380] They are miracle working days.
+- [00:30:05,380 - 00:30:08,380] That's how you turn nothing into something.
+- [00:30:09,380 - 00:30:10,380] You cannot speak it.
+- [00:30:10,380 - 00:30:12,380] You cannot speak it into something.
+- [00:30:12,380 - 00:30:15,380] You know, some are trying affirmations, but that's silly.
+- [00:30:18,380 - 00:30:19,880] I do believe in affirmations as
+- [00:30:19,880 - 00:30:21,380] long as you affirm the truth.
+- [00:30:21,380 - 00:30:22,380] The truth.
+- [00:30:22,380 - 00:30:24,380] If you're broke, best thing to affirm is,
+- [00:30:24,380 - 00:30:26,380] I am broke.
+- [00:30:26,380 - 00:30:28,380] You put that up on the refrigerator.
+- [00:30:28,380 - 00:30:30,380] It's called life changing.
+- [00:30:31,380 - 00:30:33,380] If that doesn't do it, put this up there.
+- [00:30:33,380 - 00:30:35,380] I live in America and I'm broke.
+- [00:30:37,380 - 00:30:39,380] Something is wrong.
+- [00:30:40,380 - 00:30:42,380] I've been to college and I'm broke.
+- [00:30:43,380 - 00:30:44,380] Something is wrong.
+- [00:30:44,380 - 00:30:46,380] See that, if you affirm the
+- [00:30:46,380 - 00:30:48,380] truth now, those affirmations are good.
+- [00:30:48,380 - 00:30:51,380] Because it's the truth that sets you free.
+- [00:30:53,380 - 00:30:54,880] Someone says, every day in every
+- [00:30:54,880 - 00:30:56,380] way I'm getting better and better.
+- [00:30:56,380 - 00:30:58,380] What if that's not true?
+- [00:30:59,380 - 00:31:00,380] Make this note.
+- [00:31:00,380 - 00:31:03,380] Affirmation without discipline is the beginning of delusion.
+- [00:31:07,380 - 00:31:08,380] It's not called six days of affirmation.
+- [00:31:08,380 - 00:31:09,380] It's called six days of what?
+- [00:31:10,380 - 00:31:12,380] Work.
+- [00:31:12,380 - 00:31:13,380] Labor.
+- [00:31:13,380 - 00:31:16,380] But why embrace the work?
+- [00:31:16,380 - 00:31:18,380] Why embrace the work?
+- [00:31:18,380 - 00:31:21,380] It is because the work builds the city.
+- [00:31:21,380 - 00:31:23,380] The work conquers disease.
+- [00:31:23,380 - 00:31:25,380] The work builds an office.
+- [00:31:25,380 - 00:31:27,380] The work builds a career.
+- [00:31:27,380 - 00:31:30,380] The working on good health builds good health.
+- [00:31:30,380 - 00:31:32,380] It's the work that builds a relationship.
+- [00:31:33,380 - 00:31:35,380] The miracle piece of turning
+- [00:31:35,380 - 00:31:37,380] nothing into something is the work.
+- [00:31:40,380 - 00:31:43,880] So embrace and look forward to
+- [00:31:43,880 - 00:31:47,380] the work that changes nothing into something.
+- [00:31:47,380 - 00:31:50,380] Ideas and faith into reality.
+- [00:31:50,380 - 00:31:55,380] Wisdom and faith, uninvested in activity, serves no purpose.
+- [00:31:57,380 - 00:32:03,380] But wisdom and faith invested in action, activity, creates cities, creates careers,
+- [00:32:03,380 - 00:32:09,380] creates fortunes, creates all good and marvelous things that humans can enjoy.
+- [00:32:09,380 - 00:32:11,380] The activity, the work.
+- [00:32:11,380 - 00:32:12,380] Embrace the work.
+- [00:32:14,380 - 00:32:16,380] I must come here to be of some
+- [00:32:16,380 - 00:32:18,380] value to all of you and do the work.
+- [00:32:18,380 - 00:32:20,380] The work of language.
+- [00:32:20,380 - 00:32:22,380] The work of words.
+- [00:32:22,380 - 00:32:24,880] Ideas put in phrases that can be
+- [00:32:24,880 - 00:32:27,380] understood, maybe create some enlightenment from it.
+- [00:32:28,380 - 00:32:30,380] So I must come and do the work.
+- [00:32:31,380 - 00:32:33,880] But if I do the work, some new stories
+- [00:32:33,880 - 00:32:36,380] may come spinning out of this session here today.
+- [00:32:36,380 - 00:32:37,380] I hope so.
+- [00:32:37,380 - 00:32:38,380] I hope so.
+- [00:32:39,380 - 00:32:41,380] So six days, have you got that now?
+- [00:32:41,380 - 00:32:42,380] Six days work, one day rest.
+- [00:32:42,380 - 00:32:44,380] Don't rest too long, the weeds take the garden.
+- [00:32:45,380 - 00:32:47,380] Don't get these numbers mixed up now.
+- [00:32:47,380 - 00:32:48,380] Six and one.
+- [00:32:51,380 - 00:32:52,380] Okay.
+- [00:32:52,380 - 00:32:53,380] Now here's the last two.
+- [00:32:53,380 - 00:32:56,380] The next one is measure progress.
+- [00:32:56,380 - 00:33:00,380] Because if you're gonna play the great drama game of life,
+- [00:33:00,380 - 00:33:04,380] the key is to keep measuring progress to see how you're doing.
+- [00:33:04,380 - 00:33:06,380] How's your health doing?
+- [00:33:06,380 - 00:33:08,380] How's your income doing?
+- [00:33:08,380 - 00:33:10,380] How are your investments doing?
+- [00:33:11,380 - 00:33:14,380] If you're building a house, how is it coming along?
+- [00:33:14,380 - 00:33:16,380] What's going on?
+- [00:33:16,380 - 00:33:17,380] Measuring progress.
+- [00:33:17,380 - 00:33:21,380] That's what we call the name of the game.
+- [00:33:22,380 - 00:33:24,380] Here's how we teach it to our children.
+- [00:33:24,380 - 00:33:27,380] You must make measurable progress in reasonable time.
+- [00:33:28,380 - 00:33:29,380] That's about as simple as you
+- [00:33:29,380 - 00:33:30,380] can put it to the kids.
+- [00:33:31,380 - 00:33:32,880] You're required to make
+- [00:33:32,880 - 00:33:34,380] measurable progress in reasonable time.
+- [00:33:36,380 - 00:33:39,380] Now we must be reasonable with time.
+- [00:33:39,380 - 00:33:41,880] You can't say to someone every
+- [00:33:41,880 - 00:33:44,380] five minutes, how are you doing now?
+- [00:33:44,380 - 00:33:46,380] Five minutes later, how are you doing now?
+- [00:33:46,380 - 00:33:47,380] This guy says, I haven't left
+- [00:33:47,380 - 00:33:48,380] the building yet, give me a break.
+- [00:33:48,380 - 00:33:50,380] So five minutes to ask for a
+- [00:33:50,380 - 00:33:52,380] count or a measure is too soon.
+- [00:33:52,380 - 00:33:54,880] Five years is too long, too
+- [00:33:54,880 - 00:33:57,380] late, too many things can go wrong.
+- [00:33:57,380 - 00:33:59,380] So reasonable time.
+- [00:33:59,380 - 00:34:00,380] Here's reasonable time.
+- [00:34:00,380 - 00:34:02,380] One, at the end of the day.
+- [00:34:02,380 - 00:34:03,880] Don't let more than a day go
+- [00:34:03,880 - 00:34:05,380] by with what you check and measure something.
+- [00:34:05,380 - 00:34:09,380] Count, measure, take a look at.
+- [00:34:11,380 - 00:34:13,380] My mama taught good health.
+- [00:34:13,380 - 00:34:15,380] I've been healthy all my life.
+- [00:34:15,380 - 00:34:18,380] My papa lived to be 93, never did retire.
+- [00:34:18,380 - 00:34:20,380] When he died, his paycheck was waiting for him.
+- [00:34:22,380 - 00:34:23,380] Mama was good.
+- [00:34:23,380 - 00:34:26,380] Mama said, an apple a day.
+- [00:34:26,380 - 00:34:29,380] Not once in a while, apple a day.
+- [00:34:30,380 - 00:34:33,380] I've modified it a little, apple juice, apple pie.
+- [00:34:35,380 - 00:34:41,380] Mama said, apple a day.
+- [00:34:41,380 - 00:34:43,380] So at the end of the day, check off.
+- [00:34:43,380 - 00:34:46,380] The old prophet said, if you're angry, try
+- [00:34:46,380 - 00:34:49,380] to solve it before the sun goes down.
+- [00:34:49,380 - 00:34:52,380] Don't carry it over for another day.
+- [00:34:52,380 - 00:34:55,380] Tomorrow it might be too heavy to carry.
+- [00:34:55,380 - 00:34:58,380] A conversation a father should have with
+- [00:34:58,380 - 00:35:01,380] his daughter today because the magic is there.
+- [00:35:01,380 - 00:35:03,380] If you wait until tomorrow, the magic could be gone.
+- [00:35:03,380 - 00:35:04,380] So, that's the day.
+- [00:35:04,380 - 00:35:11,380] Today, a reasonable time to count.
+- [00:35:11,380 - 00:35:13,380] How are you doing?
+- [00:35:13,380 - 00:35:16,380] You have how many properties now?
+- [00:35:16,380 - 00:35:17,380] Right?
+- [00:35:17,380 - 00:35:18,380] It's been six months.
+- [00:35:18,380 - 00:35:19,380] You have how many now?
+- [00:35:19,380 - 00:35:20,380] It's been one year.
+- [00:35:20,380 - 00:35:22,380] Now you have how many?
+- [00:35:22,380 - 00:35:24,380] It's been two years and now you have how many?
+- [00:35:24,380 - 00:35:26,380] How many?
+- [00:35:30,380 - 00:35:31,380] It's the key.
+- [00:35:31,380 - 00:35:32,380] Count, count.
+- [00:35:32,380 - 00:35:33,380] It's the deal.
+- [00:35:34,380 - 00:35:38,380] Success is a numbers game.
+- [00:35:38,380 - 00:35:40,880] How many years do you want
+- [00:35:40,880 - 00:35:43,380] your child to spend in fourth grade?
+- [00:35:43,380 - 00:35:46,380] Approximately.
+- [00:35:46,380 - 00:35:48,380] About what?
+- [00:35:48,380 - 00:35:49,380] One.
+- [00:35:49,380 - 00:35:50,380] One.
+- [00:35:50,380 - 00:35:53,380] One grade, one year.
+- [00:35:53,380 - 00:35:56,380] Progress, one grade, one year.
+- [00:35:56,380 - 00:35:59,380] And you've got to set up your own measuring system.
+- [00:35:59,380 - 00:36:00,380] Don't wait for somebody else to do it.
+- [00:36:00,380 - 00:36:02,380] You set it up.
+- [00:36:02,380 - 00:36:07,380] Because society doesn't require you not have a heart attack.
+- [00:36:07,380 - 00:36:11,380] That you must require of yourself.
+- [00:36:11,380 - 00:36:13,380] Society doesn't demand that you build
+- [00:36:13,380 - 00:36:15,380] a financial wall around your family.
+- [00:36:15,380 - 00:36:17,380] Nothing can get through.
+- [00:36:17,380 - 00:36:19,380] That you must demand of yourself.
+- [00:36:19,380 - 00:36:21,380] So, the government's not there to measure.
+- [00:36:21,380 - 00:36:23,380] Society's not there to measure.
+- [00:36:23,380 - 00:36:25,380] You must be responsible enough to measure yourself.
+- [00:36:25,380 - 00:36:27,380] How are you coming on
+- [00:36:27,380 - 00:36:29,380] this financial wall around your family?
+- [00:36:29,380 - 00:36:31,380] Nothing can get through.
+- [00:36:31,380 - 00:36:32,380] Get through.
+- [00:36:32,380 - 00:36:34,380] How are you doing?
+- [00:36:34,380 - 00:36:37,380] And whether it's a few pounds to lose, or whether it's
+- [00:36:37,380 - 00:36:40,380] a financial wall, or whether it's a growing office, whatever it is.
+- [00:36:40,380 - 00:36:44,380] Find some ways to measure so you don't become disillusioned.
+- [00:36:44,380 - 00:36:47,380] Thinking, oh, it looks okay when it really isn't okay.
+- [00:36:47,380 - 00:36:48,380] Measure, check.
+- [00:36:48,380 - 00:36:50,380] Measure, check.
+- [00:36:50,380 - 00:36:55,380] It's the game to play.
+- [00:36:55,380 - 00:36:59,380] Now, here's number five.
+- [00:36:59,380 - 00:37:00,380] First was personal philosophy.
+- [00:37:00,380 - 00:37:02,380] We're affected by what we know.
+- [00:37:02,380 - 00:37:04,380] Second is attitude.
+- [00:37:04,380 - 00:37:07,380] We're affected by how we feel.
+- [00:37:07,380 - 00:37:11,380] I've had this debate with Zig now for 45 years.
+- [00:37:11,380 - 00:37:14,380] Should you start with education or motivation?
+- [00:37:14,380 - 00:37:16,380] The attitude's the motivation.
+- [00:37:16,380 - 00:37:18,380] Philosophy is the education.
+- [00:37:18,380 - 00:37:21,380] Zig says motivation first, then education.
+- [00:37:21,380 - 00:37:24,380] I say education first, then motivation.
+- [00:37:24,380 - 00:37:27,380] It's a good debate.
+- [00:37:27,380 - 00:37:28,380] I say, Zig, if a
+- [00:37:28,380 - 00:37:29,380] guy's an idiot, you motivate him.
+- [00:37:29,380 - 00:37:31,380] Now you've got a motivated idiot.
+- [00:37:36,380 - 00:37:38,380] So score one for me.
+- [00:37:38,380 - 00:37:40,380] But now Zig comes back.
+- [00:37:40,380 - 00:37:41,380] Here's what Zig says.
+- [00:37:41,380 - 00:37:44,380] Yes, but you have to be motivated to be educated.
+- [00:37:44,380 - 00:37:45,380] I say, what?
+- [00:37:45,380 - 00:37:46,380] That's very good.
+- [00:37:46,380 - 00:37:49,380] That's very good.
+- [00:37:49,380 - 00:37:51,380] So our debate continues.
+- [00:37:51,380 - 00:37:53,380] But you need both.
+- [00:37:53,380 - 00:37:55,880] Philosophy, guidance system, set sail so that no matter
+- [00:37:55,880 - 00:37:58,380] how the wind blows in the next few years,
+- [00:37:58,380 - 00:38:01,880] you'll be okay because you've learned to set sail,
+- [00:38:01,880 - 00:38:05,380] adjust, learn, study, grow, take notes like you're doing today.
+- [00:38:05,380 - 00:38:08,380] The hard work of learning is just as hard for you
+- [00:38:08,380 - 00:38:11,380] to learn and study today as it is for me to lecture.
+- [00:38:11,380 - 00:38:13,380] Both of it's hard work.
+- [00:38:13,380 - 00:38:18,380] But it's the work that pays extraordinarily well.
+- [00:38:18,380 - 00:38:19,380] Okay.
+- [00:38:19,380 - 00:38:21,380] Then number three was activity.
+- [00:38:21,380 - 00:38:23,380] This is the miracle piece.
+- [00:38:23,380 - 00:38:26,380] The six-sevenths of your life.
+- [00:38:26,380 - 00:38:27,380] Six-sevenths.
+- [00:38:27,380 - 00:38:34,880] Engaged in activity that creates career, creates a relationship, creates a
+- [00:38:34,880 - 00:38:42,380] city, builds the future, creates wealth, power, influence, all the rest.
+- [00:38:42,380 - 00:38:43,380] Activity.
+- [00:38:43,380 - 00:38:45,380] Then measuring progress.
+- [00:38:45,380 - 00:38:48,380] Don't kid yourself.
+- [00:38:48,380 - 00:38:51,380] Don't be deluded into thinking things looks okay.
+- [00:38:51,380 - 00:38:53,380] You know, the bank's full of money.
+- [00:38:53,380 - 00:38:55,380] That may not be the only sign to check.
+- [00:38:55,380 - 00:38:56,380] Okay.
+- [00:38:56,380 - 00:39:00,380] The old prophet said, the vineyard looks good,
+- [00:39:00,380 - 00:39:04,380] but make sure you check for the little foxes.
+- [00:39:04,380 - 00:39:06,880] The little foxes that can't be seen, that are eating
+- [00:39:06,880 - 00:39:09,380] on the vines, eating on the vines, spoiling the vines.
+- [00:39:09,380 - 00:39:11,380] The little foxes.
+- [00:39:11,380 - 00:39:15,380] So that you don't build on sand, build
+- [00:39:15,380 - 00:39:19,380] on rock, save the day in the future.
+- [00:39:19,380 - 00:39:20,380] Now here's the last one.
+- [00:39:20,380 - 00:39:22,380] And it's called lifestyle.
+- [00:39:22,380 - 00:39:23,380] Because the essence of life is
+- [00:39:23,380 - 00:39:24,380] not a Ferrari or a bank account.
+- [00:39:24,380 - 00:39:25,380] Okay.
+- [00:39:25,380 - 00:39:27,380] It's not a million dollars.
+- [00:39:27,380 - 00:39:29,380] Here's the essence of life.
+- [00:39:29,380 - 00:39:32,380] Learning to live a good life.
+- [00:39:32,380 - 00:39:39,380] To design and live an extraordinary life.
+- [00:39:39,380 - 00:39:41,880] Let me give you my short list
+- [00:39:41,880 - 00:39:44,380] of what I think comprises a good life.
+- [00:39:44,380 - 00:39:46,380] Learning to live a good life.
+- [00:39:46,380 - 00:39:48,380] Number one, productivity.
+- [00:39:48,380 - 00:39:50,380] And it doesn't matter if you're
+- [00:39:50,380 - 00:39:52,380] a person of modest means or wealthy.
+- [00:39:52,380 - 00:39:54,380] Productivity is the name of the game.
+- [00:39:54,380 - 00:40:00,320] name of the game you must that's what biggest
+- [00:40:00,320 - 00:40:06,260] share of our life is to produce to produce the
+- [00:40:06,260 - 00:40:09,830] old prophet said the sleep of a laboring man is
+- [00:40:09,830 - 00:40:13,400] sweet the sleep of a working person is sweet a
+- [00:40:13,400 - 00:40:19,520] producer producer not a drifter not the sleep of a
+- [00:40:19,520 - 00:40:25,640] goof-off man no not the sleep of a joker no the
+- [00:40:25,640 - 00:40:34,180] sleep of a producer is sweet second friendship
+- [00:40:34,180 - 00:40:42,720] friendships that endure Don great we go back
+- [00:40:42,720 - 00:40:43,050] what twenty-seven years ago we go back twenty-seven years
+- [00:40:43,050 - 00:40:43,380] ago we go back twenty-seven years ago we go
+- [00:40:43,380 - 00:40:45,480] back twenty-seven twenty-eight years long time good friends
+- [00:40:51,480 - 00:40:53,160] friends are those wonderful people who know all
+- [00:40:53,160 - 00:40:54,840] about you and still like you right those
+- [00:40:54,840 - 00:40:58,800] those are good friends next now is
+- [00:40:58,800 - 00:41:02,760] your heritage keep that alive because that's
+- [00:41:02,760 - 00:41:04,950] what makes America great the gifts that
+- [00:41:04,950 - 00:41:07,140] came from all over the world still in
+- [00:41:07,140 - 00:41:10,250] service still in display the costumes and
+- [00:41:10,250 - 00:41:13,360] the customs and the the language and
+- [00:41:13,360 - 00:41:16,140] the poetry and the literature all that made
+- [00:41:16,140 - 00:41:18,920] America great that came from all over the world
+- [00:41:18,920 - 00:41:23,780] deposit it here keep that alive and
+- [00:41:23,780 - 00:41:28,640] growing language music customs Fiesta's all the good
+- [00:41:28,640 - 00:41:32,950] things that come from your culture your
+- [00:41:32,950 - 00:41:37,260] heritage New Cape America lively unique is
+- [00:41:37,260 - 00:41:40,210] nothing like it in the history of the world
+- [00:41:40,210 - 00:41:43,160] six thousand years of his makes a strong Matt
+- [00:41:43,360 - 00:41:46,760] us powerful makes us the envy
+- [00:41:46,760 - 00:41:50,160] of the world next is your spirituality
+- [00:41:52,640 - 00:41:54,720] whatever you might believe about spirituality
+- [00:41:56,480 - 00:42:00,200] i've got three words for you to consider
+- [00:42:00,200 - 00:42:03,920] jot these down remember them forever number one study
+- [00:42:04,480 - 00:42:06,400] whatever your spiritual persuasion study
+- [00:42:06,400 - 00:42:08,320] it don't leave it unstudied
+- [00:42:08,320 - 00:42:13,200] don't leave your spiritual heritage
+- [00:42:13,200 - 00:42:18,080] unstudied so study number two practice
+- [00:42:20,000 - 00:42:23,760] don't leave your spirituality on practiced whether
+- [00:42:23,760 - 00:42:27,520] it's one-on-one in the marketplace or synagogue
+- [00:42:28,640 - 00:42:32,320] or church whatever studied number
+- [00:42:32,320 - 00:42:36,000] one practiced number two three taught
+- [00:42:36,720 - 00:42:38,240] don't leave your spirituality
+- [00:42:38,320 - 00:42:41,380] untaught. Pass along what's become valuable and beneficial
+- [00:42:41,380 - 00:42:44,440] to you. Pass it along to someone else,
+- [00:42:45,160 - 00:42:47,400] especially to your children. That's how we
+- [00:42:47,400 - 00:42:49,640] build a strong foundation for the country.
+- [00:42:51,460 - 00:42:55,440] Families well taught, well instructed.
+- [00:42:59,900 - 00:43:02,340] Next, something my parents taught me
+- [00:43:02,340 - 00:43:04,780] that they practiced all their life.
+- [00:43:04,780 - 00:43:08,760] Now I practice. Don't miss anything. Don't
+- [00:43:08,760 - 00:43:12,740] miss the game. Don't miss the concert. Don't
+- [00:43:12,740 - 00:43:16,930] miss the performance. Don't miss the show.
+- [00:43:16,930 - 00:43:21,120] Don't miss the conversation. Don't miss the sermon.
+- [00:43:23,720 - 00:43:26,980] Don't miss the class. Don't miss
+- [00:43:26,980 - 00:43:30,240] anything. Go, look, see, learn, try, taste.
+- [00:43:31,940 - 00:43:34,760] Let that flavor of life be part of you.
+- [00:43:34,780 - 00:43:35,920] Let that flavor of life be part of your lifestyle.
+- [00:43:38,500 - 00:43:40,760] When my father was 73 years old, after my
+- [00:43:40,760 - 00:43:43,020] mother was gone, when my father was 73 years old,
+- [00:43:43,260 - 00:43:45,490] or 93 years old, before he died, if you would
+- [00:43:45,490 - 00:43:47,720] have called him at 10, 30, 11 o'clock at night,
+- [00:43:47,740 - 00:43:50,850] he wouldn't be home. He's at the concert. He's
+- [00:43:50,850 - 00:43:53,960] at church. He's at the rodeo. He's watching the
+- [00:43:53,960 - 00:43:58,620] kids play softball every night somewhere.
+- [00:43:58,620 - 00:44:03,280] My parents taught it, practiced it. Unbelievable.
+- [00:44:04,780 - 00:44:08,240] Don't miss anything. Don't miss the
+- [00:44:08,240 - 00:44:11,700] taste, the language. Elton John sings,
+- [00:44:11,780 - 00:44:15,110] she lived her life like a candle in the wind,
+- [00:44:15,110 - 00:44:18,440] never knowing who to cling to when the rain set in.
+- [00:44:19,880 - 00:44:22,300] What if you missed that? See, that wouldn't be good.
+- [00:44:24,680 - 00:44:27,460] George Harrison used to sing before he died, if
+- [00:44:27,460 - 00:44:30,240] not for you, the winter would hold no spring.
+- [00:44:30,620 - 00:44:32,690] Couldn't hear a robin sing.
+- [00:44:32,690 - 00:44:34,760] I just wouldn't have a clue.
+- [00:44:34,780 - 00:44:38,400] If not for you. Wow.
+- [00:44:38,400 - 00:44:42,020] Go taste, go listen, go enjoy.
+- [00:44:45,000 - 00:44:48,380] Now jot this down. There's a genius
+- [00:44:48,380 - 00:44:51,760] within all of us that recognizes extraordinary value.
+- [00:44:57,220 - 00:45:00,650] Besides Greg and Don and, you know, Tony
+- [00:45:00,650 - 00:45:04,080] and a whole long list of others, Mark Hughes,
+- [00:45:04,780 - 00:45:07,420] some of my claims to fame, a
+- [00:45:07,420 - 00:45:10,060] name maybe you might recognize, Ann Geddes.
+- [00:45:11,120 - 00:45:13,790] Does that name ring a bell? Especially for
+- [00:45:13,790 - 00:45:16,460] the women? She takes photos of these little babies
+- [00:45:16,460 - 00:45:18,900] in different settings, right? That's Ann Geddes.
+- [00:45:18,900 - 00:45:21,340] She started attending my seminars like this in
+- [00:45:21,340 - 00:45:24,650] Australia 26, 25, 26 years ago. And she says
+- [00:45:24,650 - 00:45:27,960] Jim Rohn seminars changed my life. She's been to the
+- [00:45:27,960 - 00:45:31,360] two-day weekend seminar and all the rest. I got to
+- [00:45:31,360 - 00:45:34,760] know Ann and her husband. Now she's a member of the
+- [00:45:34,760 - 00:45:38,200] New York New York Association. She's really
+- [00:45:38,200 - 00:45:41,640] famous and rich. We were celebrating her extraordinary
+- [00:45:41,640 - 00:45:47,290] visit to New York with a friend of mine. We
+- [00:45:47,290 - 00:45:52,940] were in New Zealand. And Ann and her husband and Terry
+- [00:45:52,940 - 00:45:56,410] Butler, a friend of mine in Australia, and myself,
+- [00:45:56,410 - 00:45:59,880] the four of us, were celebrating Ann's New York success.
+- [00:46:00,980 - 00:46:04,380] And Terry found a bottle of Chateau Ikem.
+- [00:46:04,760 - 00:46:09,190] One of the finest wines in the world. I
+- [00:46:09,190 - 00:46:13,620] know he paid about $600 for it, which was
+- [00:46:13,620 - 00:46:19,420] New Zealand dollars, probably about $400 maybe,
+- [00:46:20,460 - 00:46:26,060] American money. But anyway, nice bottle of wine, $400.
+- [00:46:30,060 - 00:46:31,920] For the four of us to share.
+- [00:46:33,220 - 00:46:34,700] Now, we probably,
+- [00:46:34,760 - 00:46:36,540] and I'm sure we did hope
+- [00:46:36,540 - 00:46:38,320] that no one we knew came by.
+- [00:46:42,220 - 00:46:43,620] It's just one of those things, right?
+- [00:46:45,280 - 00:46:48,690] Because there's only four and there's only one bottle. But anyway, if you
+- [00:46:48,690 - 00:46:52,100] would have come by, I'm sure we would have let you taste this wine.
+- [00:46:52,100 - 00:46:56,850] And if you would have tasted this wine,
+- [00:46:56,850 - 00:47:01,600] here's what I'm sure you would have said.
+- [00:47:03,520 - 00:47:04,420] I'll bet this wine is going to be a success.
+- [00:47:04,420 - 00:47:06,960] This wine costs $400 a bottle.
+- [00:47:08,960 - 00:47:09,880] That's what you would have said.
+- [00:47:11,000 - 00:47:14,730] Something called the genius within would have recognized
+- [00:47:14,730 - 00:47:18,460] something extraordinary, even though you're not a wine connoisseur.
+- [00:47:20,240 - 00:47:21,800] Something would have told you.
+- [00:47:23,280 - 00:47:24,480] That's what poetry is all about.
+- [00:47:24,720 - 00:47:27,250] Somebody that puts the words together
+- [00:47:27,250 - 00:47:29,780] and you say, wow, that is extraordinary.
+- [00:47:29,840 - 00:47:31,940] That is fine.
+- [00:47:32,300 - 00:47:32,980] Music.
+- [00:47:34,420 - 00:47:34,920] Language.
+- [00:47:35,120 - 00:47:35,680] Conversation.
+- [00:47:36,160 - 00:47:38,580] Learning to recognize the extraordinary and the fine.
+- [00:47:39,700 - 00:47:41,300] So I'm asking you to do that.
+- [00:47:43,400 - 00:47:46,420] Go see, go look, go taste, go enjoy.
+- [00:47:48,880 - 00:47:50,120] Now, one last thought.
+- [00:47:51,060 - 00:47:53,690] And my time of departure has finally
+- [00:47:53,690 - 00:47:56,320] arrived and I have to slip away.
+- [00:47:56,900 - 00:47:58,520] I wish I could stay and visit the rest
+- [00:47:58,520 - 00:48:00,140] of the day, but I do have to go.
+- [00:48:01,940 - 00:48:03,020] Here's the last part.
+- [00:48:04,420 - 00:48:06,730] God says, now I'm an amateur
+- [00:48:06,730 - 00:48:09,040] on God, but here's my best shot.
+- [00:48:10,020 - 00:48:12,530] God says, if you will plant
+- [00:48:12,530 - 00:48:15,040] the seed, I will make the tree.
+- [00:48:19,340 - 00:48:20,880] Probably one of the best arrangements ever.
+- [00:48:24,460 - 00:48:25,640] What if you had to make the tree?
+- [00:48:25,720 - 00:48:26,920] See, that'd keep you up late night trying
+- [00:48:26,920 - 00:48:28,120] to figure out how do you make a tree.
+- [00:48:28,540 - 00:48:29,680] God says, no, don't worry about that.
+- [00:48:29,720 - 00:48:30,740] I got the tree stuff down.
+- [00:48:33,200 - 00:48:34,240] But I've always wanted to do that.
+- [00:48:34,240 - 00:48:34,280] I've always wanted to do that.
+- [00:48:34,280 - 00:48:34,400] I've always wanted to do that.
+- [00:48:34,400 - 00:48:35,740] I didn't want to be alone.
+- [00:48:35,840 - 00:48:37,290] That's why I created all those
+- [00:48:37,290 - 00:48:38,740] angels, even though the big drama occurred.
+- [00:48:39,440 - 00:48:41,630] I still like to work, right, with
+- [00:48:41,630 - 00:48:43,820] humans that are interested in working together.
+- [00:48:44,280 - 00:48:45,280] So let's work together.
+- [00:48:45,680 - 00:48:46,620] And I think that's the deal.
+- [00:48:47,020 - 00:48:48,140] God says, you plant the
+- [00:48:48,140 - 00:48:49,260] seed, I will make the tree.
+- [00:48:49,880 - 00:48:51,700] So here's my last bit of language.
+- [00:48:52,440 - 00:48:54,660] And it says, we have a chance
+- [00:48:54,660 - 00:48:56,880] to participate in the working of miracles.
+- [00:48:57,120 - 00:48:59,450] We have a chance to
+- [00:48:59,450 - 00:49:01,780] participate in the working of miracles.
+- [00:49:01,780 - 00:49:05,700] Part of it is the work of our hands.
+- [00:49:06,220 - 00:49:07,840] Part of it is the work of our language.
+- [00:49:08,840 - 00:49:10,120] Part of it is the
+- [00:49:10,120 - 00:49:11,400] work of a soul that cares.
+- [00:49:12,920 - 00:49:15,760] Part of it is the work of a compassionate heart.
+- [00:49:17,360 - 00:49:22,640] Doing extraordinary work that affects other people's lives.
+- [00:49:23,300 - 00:49:26,820] In building enterprise,
+- [00:49:26,820 - 00:49:30,340] fortunes, future, communities, church.
+- [00:49:30,340 - 00:49:33,380] We do good work.
+- [00:49:35,080 - 00:49:38,140] So, God bless America in our journey into the future.
+- [00:49:38,700 - 00:49:41,420] As we do our work to contribute to society.
+- [00:49:42,040 - 00:49:45,220] And hopefully it will all help us to do incredible things
+- [00:49:45,220 - 00:49:48,400] as a country to compete among the nations of the world.
+- [00:49:48,640 - 00:49:51,480] So that America can continue to
+- [00:49:51,480 - 00:49:54,320] bless the rest of the world.
+- [00:49:55,200 - 00:49:57,520] But thanks to Greg and Don one
+- [00:49:57,520 - 00:49:59,840] more time for inviting me for a chance.
+- [00:49:59,840 - 00:49:59,900] Thank you.
+- [00:50:00,340 - 00:50:02,440] Next time I see you, my therapy will be complete.
+- [00:50:03,240 - 00:50:06,900] And I will be back to 100% physically.
+- [00:50:07,020 - 00:50:09,200] And until then, God bless.
+- [00:50:09,700 - 00:50:10,240] See you next time.
+- [00:50:10,240 - 00:50:10,540] Thank you.
