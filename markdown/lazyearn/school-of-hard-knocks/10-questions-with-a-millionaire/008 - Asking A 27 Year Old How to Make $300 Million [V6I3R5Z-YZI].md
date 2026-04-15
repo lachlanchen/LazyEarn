@@ -1,0 +1,671 @@
+# Transcript
+
+Source: lazyearn/school-of-hard-knocks/hard-knocks-interviews/096 - Asking A 27 Year Old How to Make $300 Million [V6I3R5Z-YZI].mkv
+
+- [00:00:00,000 - 00:00:01,950] So you're the CEO of one of
+- [00:00:01,950 - 00:00:03,900] the largest solar companies in the entire country.
+- [00:00:04,140 - 00:00:05,590] So what has been the most amount of
+- [00:00:05,590 - 00:00:07,040] money that you've ever made in a single year?
+- [00:00:07,640 - 00:00:09,830] My business has done, did $149 million last
+- [00:00:09,830 - 00:00:12,020] year and we should do double that this year.
+- [00:00:12,400 - 00:00:13,250] So you're on track to
+- [00:00:13,250 - 00:00:14,100] do about $300 million this year?
+- [00:00:14,100 - 00:00:14,280] Correct.
+- [00:00:14,520 - 00:00:15,380] Meet Zane Jane.
+- [00:00:15,620 - 00:00:17,490] Over the last four years, he's built one
+- [00:00:17,490 - 00:00:19,360] of the largest solar companies in the entire world
+- [00:00:19,360 - 00:00:21,110] and become one of the most
+- [00:00:21,110 - 00:00:22,860] successful entrepreneurs across the United States.
+- [00:00:23,060 - 00:00:24,560] However, it didn't start out that way.
+- [00:00:24,840 - 00:00:26,250] Zane grew up living in poverty and
+- [00:00:26,250 - 00:00:27,660] was a son to two immigrant parents,
+- [00:00:27,660 - 00:00:29,140] but he decided he ultimately wanted
+- [00:00:29,140 - 00:00:30,620] to create a new destiny for himself.
+- [00:00:30,920 - 00:00:32,400] And through learning the ins and
+- [00:00:32,400 - 00:00:33,880] outs and mastering the game of entrepreneurship,
+- [00:00:34,380 - 00:00:36,420] at 16 years old, he started his first business.
+- [00:00:36,780 - 00:00:38,110] By the time he was 19, he dropped
+- [00:00:38,110 - 00:00:39,440] out of school and at 20 years old,
+- [00:00:39,480 - 00:00:41,220] he had built a multi-million dollar company.
+- [00:00:41,660 - 00:00:43,879] Fast forward to now at 27 years old,
+- [00:00:44,000 - 00:00:45,970] the company he started from scratch is
+- [00:00:45,970 - 00:00:47,940] on track to do $300 million this year.
+- [00:00:48,100 - 00:00:49,890] In this interview, Zane revealed to me some
+- [00:00:49,890 - 00:00:51,680] of the most lucrative secrets to creating wealth
+- [00:00:51,680 - 00:00:53,520] that he's learned as a nine-figure
+- [00:00:53,520 - 00:00:55,360] entrepreneur that school will not teach you.
+- [00:00:55,360 - 00:00:57,360] I'm James Dumoulin and this is Questions with Millionaires.
+- [00:00:57,660 - 00:00:59,260] All right, you guys, welcome
+- [00:00:59,260 - 00:01:00,860] back to Questions with Multi-Millionaires.
+- [00:01:00,980 - 00:01:02,900] We've got a very special guest today, Zane,
+- [00:01:03,000 - 00:01:04,849] who's the CEO of a massive
+- [00:01:04,849 - 00:01:06,700] solar company out here in Miami, Florida.
+- [00:01:07,240 - 00:01:08,840] And before we get into some questions today,
+- [00:01:08,960 - 00:01:10,030] Zane, give us a little
+- [00:01:10,030 - 00:01:11,100] bit of your background, your story,
+- [00:01:11,160 - 00:01:12,340] and what all you're working on right now.
+- [00:01:12,640 - 00:01:15,060] Yeah, so I'm the CEO of a solar company.
+- [00:01:15,400 - 00:01:17,829] I have over 600 W2 employees, over
+- [00:01:17,829 - 00:01:20,259] 3,000 sales reps that sell through us,
+- [00:01:20,259 - 00:01:21,789] and we're one of the largest
+- [00:01:21,789 - 00:01:23,320] residential solar installers in the country.
+- [00:01:23,759 - 00:01:25,240] However, that's not how I started.
+- [00:01:25,240 - 00:01:26,660] I started growing up.
+- [00:01:27,660 - 00:01:29,160] You know, lower class.
+- [00:01:29,160 - 00:01:30,840] My family didn't speak English.
+- [00:01:30,840 - 00:01:33,420] They were first-generation immigrants to this country.
+- [00:01:33,800 - 00:01:36,800] And yeah, you know, life's always been really hard.
+- [00:01:36,800 - 00:01:38,919] But at 18 years old, I decided to
+- [00:01:38,919 - 00:01:41,039] make a decision to go all into sales,
+- [00:01:41,039 - 00:01:42,759] master the art of sales.
+- [00:01:42,759 - 00:01:44,880] That's what led me to get into solar sales.
+- [00:01:44,880 - 00:01:46,740] And fast forward, I went from being a
+- [00:01:46,740 - 00:01:48,600] salesperson, a sales leader to a business owner.
+- [00:01:48,600 - 00:01:49,940] And here we are today.
+- [00:01:49,940 - 00:01:50,600] That's incredible.
+- [00:01:50,600 - 00:01:52,620] So you're the CEO of one of
+- [00:01:52,620 - 00:01:54,640] the largest solar companies in the entire country.
+- [00:01:54,720 - 00:01:56,180] So what has been the most amount of
+- [00:01:56,180 - 00:01:57,640] money that you've ever made in a single year?
+- [00:01:57,660 - 00:02:00,160] My business has done, did 149 million last
+- [00:02:00,160 - 00:02:02,660] year, and we should do double that this year.
+- [00:02:02,660 - 00:02:03,660] So you're on track to
+- [00:02:03,660 - 00:02:04,660] do about 300 million this year?
+- [00:02:04,660 - 00:02:05,660] Correct. Yeah.
+- [00:02:05,660 - 00:02:07,500] What was the biggest thing that you've implemented in your
+- [00:02:07,500 - 00:02:09,340] business to take it from not only seven to eight,
+- [00:02:09,340 - 00:02:11,180] but eventually eight to nine figures?
+- [00:02:11,180 - 00:02:12,300] A lot of people in today's
+- [00:02:12,300 - 00:02:13,420] world, they'll have a great idea.
+- [00:02:13,420 - 00:02:14,550] They'll start that business, but
+- [00:02:14,550 - 00:02:15,680] they struggle to scale and grow.
+- [00:02:15,680 - 00:02:17,370] What's been your secret to scaling your
+- [00:02:17,370 - 00:02:19,060] business to where it's now a nine-figure company?
+- [00:02:19,060 - 00:02:21,209] To get to seven figures, you need a
+- [00:02:21,209 - 00:02:23,359] really good idea and really good sales and marketing.
+- [00:02:23,359 - 00:02:24,959] To get to eight figures,
+- [00:02:24,959 - 00:02:26,560] you need a really good team.
+- [00:02:26,560 - 00:02:27,100] If you have the right people,
+- [00:02:27,100 - 00:02:27,640] you need a really good team.
+- [00:02:27,660 - 00:02:28,660] If you have the right people around you,
+- [00:02:28,660 - 00:02:29,660] you'll be able to get to eight figures.
+- [00:02:29,660 - 00:02:30,660] But to get to nine figures is
+- [00:02:30,660 - 00:02:31,660] one of the hardest things to do.
+- [00:02:31,660 - 00:02:34,160] You not only need a really good product, you
+- [00:02:34,160 - 00:02:36,660] need really great marketing, you need really great sales,
+- [00:02:36,660 - 00:02:38,160] you need a really great team,
+- [00:02:38,160 - 00:02:39,660] but most importantly, you need systems.
+- [00:02:39,660 - 00:02:42,660] You need SOPs, standard operating procedures.
+- [00:02:42,660 - 00:02:44,660] In my company, there's a standard
+- [00:02:44,660 - 00:02:46,660] operating procedure for everything we do.
+- [00:02:46,660 - 00:02:49,160] And this is a little bit of a joke
+- [00:02:49,160 - 00:02:51,660] and exaggerated, but there's legitimately a standard operating procedure
+- [00:02:51,660 - 00:02:53,160] if you want to go to the
+- [00:02:53,160 - 00:02:54,660] bathroom or if you want to make coffee.
+- [00:02:54,660 - 00:02:56,160] The whole point of that
+- [00:02:56,160 - 00:02:57,660] is for every system and function,
+- [00:02:57,660 - 00:03:00,660] every function in the business, it has to be documented.
+- [00:03:00,660 - 00:03:02,660] Because if it is documented, that
+- [00:03:02,660 - 00:03:04,660] means that if I get sick today,
+- [00:03:04,660 - 00:03:07,160] I can pass my colleague that document
+- [00:03:07,160 - 00:03:09,660] and they can actually do my work function.
+- [00:03:09,660 - 00:03:12,660] So therefore, you are no longer relying on me.
+- [00:03:12,660 - 00:03:14,660] And when you are an eight-figure business owner, a
+- [00:03:14,660 - 00:03:16,660] lot of times, people are still relying on the CEO.
+- [00:03:16,660 - 00:03:19,160] But when you become a nine-figure business owner,
+- [00:03:19,160 - 00:03:21,660] people aren't just relying on the CEO anymore.
+- [00:03:21,660 - 00:03:23,660] They're relying on the machine and the system.
+- [00:03:23,660 - 00:03:25,160] So the CEO could die, but the
+- [00:03:25,160 - 00:03:26,660] machine and the system will continue to scale.
+- [00:03:26,660 - 00:03:28,660] So to me, that's where most
+- [00:03:28,660 - 00:03:30,660] people get stuck at that eight-figure range.
+- [00:03:30,660 - 00:03:31,660] That's incredible.
+- [00:03:31,660 - 00:03:32,660] There's a famous quote that says,
+- [00:03:32,660 - 00:03:34,660] the poor get poorer and the rich often get richer.
+- [00:03:34,660 - 00:03:36,160] But for someone who may be
+- [00:03:36,160 - 00:03:37,660] stuck in that cycle of poverty, right?
+- [00:03:37,660 - 00:03:39,160] You, for example, you didn't
+- [00:03:39,160 - 00:03:40,660] come from a lot of money.
+- [00:03:40,660 - 00:03:41,660] At all, yeah.
+- [00:03:41,660 - 00:03:42,660] Exactly.
+- [00:03:42,660 - 00:03:43,160] And so for someone who
+- [00:03:43,160 - 00:03:43,660] may be stuck in that cycle,
+- [00:03:43,660 - 00:03:45,160] what do you recommend to them to
+- [00:03:45,160 - 00:03:46,660] really break out of that cycle of poverty
+- [00:03:46,660 - 00:03:48,160] and they want to become successful and
+- [00:03:48,160 - 00:03:49,660] maybe build a successful company like their...
+- [00:03:49,660 - 00:03:51,660] Number one, you can't get
+- [00:03:51,660 - 00:03:53,660] rich being in a poor environment.
+- [00:03:53,660 - 00:03:55,660] So make enough money to move.
+- [00:03:55,660 - 00:03:56,660] That's it.
+- [00:03:56,660 - 00:03:58,160] If you're in a poor
+- [00:03:58,160 - 00:03:59,660] environment, you're going to stay poor.
+- [00:03:59,660 - 00:04:00,660] I don't care what anyone says.
+- [00:04:00,660 - 00:04:02,660] You're not going to build a
+- [00:04:02,660 - 00:04:04,660] billion-dollar business living in a lower-class neighborhood.
+- [00:04:04,660 - 00:04:06,660] It's just not going to happen.
+- [00:04:06,660 - 00:04:07,660] You're just not going to have the mental fortitude.
+- [00:04:07,660 - 00:04:09,160] You're not going to have the
+- [00:04:09,160 - 00:04:10,660] ability to meet the right people.
+- [00:04:10,660 - 00:04:11,660] You're not going to have any connections.
+- [00:04:11,660 - 00:04:12,660] You're going to go out there.
+- [00:04:12,660 - 00:04:14,660] You're going to be demotivated and depressed.
+- [00:04:14,660 - 00:04:15,660] Why?
+- [00:04:15,660 - 00:04:16,159] Because you're in a shit hole
+- [00:04:16,159 - 00:04:16,659] at the end of the day.
+- [00:04:16,659 - 00:04:19,659] So if you're 14, 15, work on your
+- [00:04:19,659 - 00:04:22,659] skills because you got no choice until you're 18.
+- [00:04:22,659 - 00:04:23,659] You know that you're in there,
+- [00:04:23,659 - 00:04:24,659] but as soon as you turn 18,
+- [00:04:24,659 - 00:04:25,659] you're ready to go.
+- [00:04:25,660 - 00:04:27,160] You're ready to move out of your
+- [00:04:27,160 - 00:04:28,660] home because you've built up some money.
+- [00:04:28,660 - 00:04:29,660] You've invested in skill sets.
+- [00:04:29,660 - 00:04:31,660] Maybe you got really good at sales and marketing.
+- [00:04:31,660 - 00:04:35,160] Now you've made enough to move into a bigger city like
+- [00:04:35,160 - 00:04:38,660] Miami or Boston or New York or Los Angeles or Dubai.
+- [00:04:38,660 - 00:04:40,160] You can move into a city
+- [00:04:40,160 - 00:04:41,660] and you look around and you're like,
+- [00:04:41,660 - 00:04:44,660] dude, there's hundreds of billions of dollars
+- [00:04:44,660 - 00:04:47,660] in this city just sitting here right now.
+- [00:04:47,660 - 00:04:48,660] In this one city.
+- [00:04:48,660 - 00:04:51,160] I come from this small little town that's a shit
+- [00:04:51,160 - 00:04:53,660] hole, but in this city, it all exists out there.
+- [00:04:53,660 - 00:04:54,660] So I got to get closer to the money.
+- [00:04:54,660 - 00:04:55,660] Right?
+- [00:04:55,660 - 00:04:57,160] If I grew up in an
+- [00:04:57,160 - 00:04:58,660] environment where everyone's making 40K a year,
+- [00:04:58,660 - 00:05:00,660] well, I'm not really close to the money.
+- [00:05:00,660 - 00:05:02,660] I'm close to everyone making 40 grand a year.
+- [00:05:02,660 - 00:05:04,660] If I go into a city and there's
+- [00:05:04,660 - 00:05:06,660] a pretty good chance within a 30 mile radius,
+- [00:05:06,660 - 00:05:10,160] I have 14 billionaires and I
+- [00:05:10,160 - 00:05:13,660] have tens of thousands of multimillionaires.
+- [00:05:13,660 - 00:05:15,160] Well now, if I want to build a business in
+- [00:05:15,160 - 00:05:16,660] that area and I want to get money, what am I?
+- [00:05:16,660 - 00:05:17,660] I'm closer to the money.
+- [00:05:17,660 - 00:05:19,660] So the chances of me
+- [00:05:19,660 - 00:05:21,660] making more money are significantly higher.
+- [00:05:21,660 - 00:05:24,660] So if you're stuck in that rat race,
+- [00:05:24,660 - 00:05:26,660] you're stuck in the situation of
+- [00:05:26,660 - 00:05:28,660] poverty or your paycheck to paycheck,
+- [00:05:28,660 - 00:05:31,660] do everything you can to save your money,
+- [00:05:31,660 - 00:05:34,160] not to go and invest in real estate
+- [00:05:34,160 - 00:05:36,660] or the stock market or something of that nature.
+- [00:05:36,660 - 00:05:38,660] But first thing you should invest in is yourself
+- [00:05:38,660 - 00:05:40,660] and the best thing that you can invest in.
+- [00:05:40,660 - 00:05:43,660] And this is before anything else.
+- [00:05:43,660 - 00:05:45,660] The only thing I would put before this
+- [00:05:45,660 - 00:05:47,660] is like maybe your education and yourself and,
+- [00:05:47,660 - 00:05:50,660] you know, go and buy a sales course or a marketing course
+- [00:05:50,660 - 00:05:53,660] and become a good Facebook ads guy or a good high ticket closer.
+- [00:05:53,660 - 00:05:54,660] Sure.
+- [00:05:54,660 - 00:05:56,660] Those are skillsets you can invest in.
+- [00:05:56,660 - 00:05:59,160] But before buying the nicest car or the
+- [00:05:59,160 - 00:06:01,660] nicest watch or those clothes that you like
+- [00:06:01,660 - 00:06:03,660] or even buying gifts for your friends and family,
+- [00:06:03,660 - 00:06:06,160] invest your money into moving to a
+- [00:06:06,160 - 00:06:08,660] place where every day when you walk outside,
+- [00:06:08,660 - 00:06:10,160] you have a view and you
+- [00:06:10,160 - 00:06:11,660] have a view of a city.
+- [00:06:11,660 - 00:06:12,660] You have a view of money.
+- [00:06:12,660 - 00:06:14,660] You have a view of an economy that's moving.
+- [00:06:14,660 - 00:06:16,660] You guys were just telling me, oh, we love
+- [00:06:16,660 - 00:06:18,660] being in Miami because there's so much stuff going on.
+- [00:06:18,660 - 00:06:21,160] Yeah. Imagine driving out in the city and you see this and you
+- [00:06:21,160 - 00:06:23,660] see that guy and you see that car and you see that business.
+- [00:06:23,660 - 00:06:24,660] And you see that celebrity.
+- [00:06:24,660 - 00:06:26,160] You start to get inspired and
+- [00:06:26,160 - 00:06:27,660] it makes you want to work harder.
+- [00:06:27,660 - 00:06:29,660] But if I walk outside and all
+- [00:06:29,660 - 00:06:31,660] I see is a beat down tennis court,
+- [00:06:31,660 - 00:06:34,660] I see a beat down park.
+- [00:06:34,660 - 00:06:37,160] I see all these homes with broken
+- [00:06:37,160 - 00:06:39,660] windows, people walking around in the postman.
+- [00:06:39,660 - 00:06:41,660] Like I'm not I'm not excited.
+- [00:06:41,660 - 00:06:42,660] I'm not happy.
+- [00:06:42,660 - 00:06:43,660] I'm not motivated.
+- [00:06:43,660 - 00:06:46,160] I just want to go back home and I want to play
+- [00:06:46,160 - 00:06:48,660] Xbox because that's way more exciting to me than walking outside my house.
+- [00:06:48,660 - 00:06:50,660] But when I walk outside, I'm like, dude,
+- [00:06:50,660 - 00:06:52,660] I no longer need to play Grand Theft Auto.
+- [00:06:52,660 - 00:06:54,160] Why? Because I live in
+- [00:06:54,160 - 00:06:55,660] Grand Theft Auto every single day.
+- [00:06:55,660 - 00:06:57,660] And that's the mentality you need to have.
+- [00:06:57,660 - 00:06:59,160] And that's what listen, like
+- [00:06:59,160 - 00:07:00,660] I'm just I'm being very real.
+- [00:07:00,660 - 00:07:05,160] Like when I was 14, I needed to hear that because I was stuck
+- [00:07:05,160 - 00:07:09,660] in that environment and I got so lucky that I left at 18 years old.
+- [00:07:09,660 - 00:07:10,660] It was not a plan.
+- [00:07:10,660 - 00:07:14,660] But if I had just stayed comfortable and I did not move away from where I was,
+- [00:07:14,660 - 00:07:18,660] I'm convinced if I just stayed there for two or three more years, I never would have left.
+- [00:07:18,660 - 00:07:20,660] And that would have changed my entire life.
+- [00:07:20,660 - 00:07:21,660] And no one would know who I was today.
+- [00:07:21,660 - 00:07:22,660] Wow.
+- [00:07:22,660 - 00:07:23,660] It's incredible.
+- [00:07:23,660 - 00:07:25,660] That was a phenomenal answer from Zane and
+- [00:07:25,660 - 00:07:27,660] his best business game is yet to come.
+- [00:07:27,660 - 00:07:29,660] But I want to take a quick
+- [00:07:29,660 - 00:07:31,660] second to thank AG1 for sponsoring this video.
+- [00:07:31,660 - 00:07:33,160] As you all know, we're always traveling the
+- [00:07:33,160 - 00:07:34,660] country to deliver this content for you guys.
+- [00:07:34,660 - 00:07:36,660] And because of that, it can be very challenging to make
+- [00:07:36,660 - 00:07:38,660] sure I get the right amount of nutrients in during the day.
+- [00:07:38,660 - 00:07:41,160] Drinking AG1 has been the foundational nutrient habit that
+- [00:07:41,160 - 00:07:43,660] I needed, especially while on the going on workout days.
+- [00:07:43,660 - 00:07:45,660] It replenishes my daily micronutrients.
+- [00:07:45,660 - 00:07:47,660] It's been crucial for my routine.
+- [00:07:47,660 - 00:07:49,660] AG1 travel packs make it easy to stay committed to your
+- [00:07:49,660 - 00:07:51,660] intentions wherever you are and when you need it the most.
+- [00:07:51,660 - 00:07:54,660] Running a full-time business can be stressful at times.
+- [00:07:54,660 - 00:07:56,660] And drinking AG1 has been great
+- [00:07:56,660 - 00:07:58,660] for reducing stress and boosting mental clarity.
+- [00:07:58,660 - 00:08:00,660] AG1 helps me keep sustained energy
+- [00:08:00,660 - 00:08:02,660] throughout the day and improve my focus.
+- [00:08:02,660 - 00:08:03,660] AG1 has been a game changer.
+- [00:08:03,660 - 00:08:06,660] So make sure you go to
+- [00:08:06,660 - 00:08:09,660] drinkag1.com-theschoolofhardknocks to get started on your order.
+- [00:08:09,660 - 00:08:14,160] AG1 is going to give our community a free one-year supply of AG vitamin
+- [00:08:14,160 - 00:08:18,660] D3 and K2 and five AG1 travel packs for free with your first purchase.
+- [00:08:18,660 - 00:08:20,660] So thank you to AG1 for sponsoring this video.
+- [00:08:20,660 - 00:08:23,660] And with that being said, let's get back to Zayn.
+- [00:08:23,660 - 00:08:25,160] You know, what's been the importance of surrounding
+- [00:08:25,160 - 00:08:26,660] yourself with the right people throughout your career?
+- [00:08:26,660 - 00:08:28,660] You know, how have you really been
+- [00:08:28,660 - 00:08:30,660] able to leverage relationships in the business world?
+- [00:08:30,660 - 00:08:32,159] And what advice would you give to
+- [00:08:32,159 - 00:08:33,659] someone who's really trying to build that network?
+- [00:08:33,659 - 00:08:36,159] Maybe they don't have the best interpersonal skills, but they
+- [00:08:36,159 - 00:08:38,659] want to get really better at networking, connecting with people.
+- [00:08:38,659 - 00:08:39,659] What's been the importance of it for you?
+- [00:08:39,659 - 00:08:41,159] And what do you recommend to someone
+- [00:08:41,159 - 00:08:42,659] who's trying to get better at that?
+- [00:08:42,659 - 00:08:45,660] The hard truth is no one will give
+- [00:08:45,660 - 00:08:48,660] a fuck about you if you don't have something.
+- [00:08:48,660 - 00:08:49,660] It's a hard truth.
+- [00:08:50,660 - 00:08:54,160] Like, very rarely do you run into someone that's very
+- [00:08:54,160 - 00:08:57,660] successful that's just like a super nice guy and is like,
+- [00:08:57,660 - 00:08:58,660] Listen, I don't know who you are.
+- [00:08:58,660 - 00:08:59,660] You're from the street, blah, blah, blah.
+- [00:08:59,660 - 00:09:01,660] You're not successful, but I'm going to take you on.
+- [00:09:01,660 - 00:09:03,660] I'm going to teach you everything.
+- [00:09:03,660 - 00:09:08,160] Not because they're not nice people, but to their right, they have
+- [00:09:08,160 - 00:09:12,660] to focus on what's going to add a value in their life.
+- [00:09:12,660 - 00:09:15,660] And if you are a human being that does not
+- [00:09:15,660 - 00:09:18,660] provide value, there's no reason that someone should give you value.
+- [00:09:18,660 - 00:09:19,160] So when people ask me, I'm like,
+- [00:09:19,160 - 00:09:19,660] I'm not going to give you value.
+- [00:09:19,660 - 00:09:23,160] So when people, people always ask me this question because I am
+- [00:09:23,160 - 00:09:26,660] a phenomenal networker and I know almost everyone and I have great relationships,
+- [00:09:26,660 - 00:09:29,160] friendships with athletes, celebrities, CEOs,
+- [00:09:29,160 - 00:09:31,660] business owners, Fortune 100 owners.
+- [00:09:31,660 - 00:09:34,160] And how I got there wasn't
+- [00:09:34,160 - 00:09:36,660] by just being in the right rooms.
+- [00:09:36,660 - 00:09:37,660] That's a part of it.
+- [00:09:37,660 - 00:09:39,660] But how did I get into the right rooms?
+- [00:09:39,660 - 00:09:41,660] Well, I built myself up so that
+- [00:09:41,660 - 00:09:43,660] one day someone invited me into those rooms.
+- [00:09:43,660 - 00:09:45,160] Now, when I get into that
+- [00:09:45,160 - 00:09:46,660] room, I can have that conversation.
+- [00:09:46,660 - 00:09:47,160] And they know that most likely if you're in
+- [00:09:47,160 - 00:09:47,660] that room, you're going to be in that room.
+- [00:09:47,660 - 00:09:48,160] And they know that most likely if you're in
+- [00:09:48,160 - 00:09:48,660] that room, you're going to be in that room.
+- [00:09:48,660 - 00:09:51,660] You're someone of high caliber and stature.
+- [00:09:51,660 - 00:09:53,660] So you can hold a conversation with them and
+- [00:09:53,660 - 00:09:55,660] you can talk to them about things that are relatable.
+- [00:09:55,660 - 00:09:57,160] And what do I do when I'm
+- [00:09:57,160 - 00:09:58,660] around someone that's more successful than me?
+- [00:09:58,660 - 00:10:01,660] And this happens to me quite frequently.
+- [00:10:01,660 - 00:10:02,660] I shut up.
+- [00:10:02,660 - 00:10:04,660] I don't ask them a million questions.
+- [00:10:04,660 - 00:10:05,660] I don't ask them for advice.
+- [00:10:05,660 - 00:10:07,660] I don't ask them to help me.
+- [00:10:07,660 - 00:10:10,160] Not because I don't want it, but because I
+- [00:10:10,160 - 00:10:12,660] know I have not earned their respect or value yet.
+- [00:10:12,660 - 00:10:14,660] I have to get them to come to
+- [00:10:14,660 - 00:10:16,660] me willingly and want to pour it onto me.
+- [00:10:16,660 - 00:10:18,660] So I will always just be there.
+- [00:10:18,660 - 00:10:20,660] I will either talk about fun stuff, stuff that
+- [00:10:20,660 - 00:10:22,660] I know that's going to engage and excite them,
+- [00:10:22,660 - 00:10:24,660] or I'm going to give them back tons of value
+- [00:10:24,660 - 00:10:26,660] or ask them if I can do something for them.
+- [00:10:26,660 - 00:10:29,160] But the real question is, 18-year-old Zane, he was
+- [00:10:29,160 - 00:10:31,660] never going to meet the people that he's met today.
+- [00:10:31,660 - 00:10:33,660] And he wasn't just going to walk up to
+- [00:10:33,660 - 00:10:35,660] them, run into them, and build a great connection.
+- [00:10:35,660 - 00:10:38,160] Even if you do, even if you run into a
+- [00:10:38,160 - 00:10:40,660] billionaire in the street, you run into Elon in the street,
+- [00:10:40,660 - 00:10:42,160] you meet him, you get to do a
+- [00:10:42,160 - 00:10:43,660] video with him, you get to talk to him.
+- [00:10:43,660 - 00:10:44,660] That's cool, right?
+- [00:10:44,660 - 00:10:46,160] And maybe it's great for content and
+- [00:10:46,160 - 00:10:47,660] maybe it changes your life in that way.
+- [00:10:47,660 - 00:10:49,160] But there's no way that
+- [00:10:49,160 - 00:10:50,660] Elon's giving you your phone number.
+- [00:10:50,660 - 00:10:52,160] There's no way that he's answering
+- [00:10:52,160 - 00:10:53,660] your call or talking to you.
+- [00:10:53,660 - 00:10:54,660] So you've got to work
+- [00:10:54,660 - 00:10:55,660] your way up to that point.
+- [00:10:55,660 - 00:10:58,660] So I would just recommend work on yourself.
+- [00:10:58,660 - 00:11:00,660] Become a more valuable version.
+- [00:11:00,660 - 00:11:02,660] And if you want to be around more valuable
+- [00:11:02,660 - 00:11:04,660] people, you have to value yourself and become valuable.
+- [00:11:04,660 - 00:11:05,660] That's number one.
+- [00:11:05,660 - 00:11:07,160] Number two is it's not just
+- [00:11:07,160 - 00:11:08,660] about who you hang out with.
+- [00:11:08,660 - 00:11:10,660] It's about who you don't hang out with.
+- [00:11:10,660 - 00:11:12,660] That's the really important factor.
+- [00:11:12,660 - 00:11:14,660] If I'm around a group of
+- [00:11:14,660 - 00:11:16,660] bums that don't take care of themselves,
+- [00:11:16,660 - 00:11:19,660] aren't successful, don't work on themselves,
+- [00:11:19,660 - 00:11:22,660] are always getting fucked up and partying and doing drugs,
+- [00:11:22,660 - 00:11:25,160] well, not only am I eventually going to
+- [00:11:25,160 - 00:11:27,660] become like that if I keep hanging around them,
+- [00:11:27,660 - 00:11:29,660] but other people are going to be like,
+- [00:11:29,660 - 00:11:30,660] I don't want to hang around Zane.
+- [00:11:30,660 - 00:11:32,660] Not because Zane's not a great guy,
+- [00:11:32,660 - 00:11:34,660] but because the four buddies that
+- [00:11:34,660 - 00:11:36,660] he's hanging around are bringing him down.
+- [00:11:36,660 - 00:11:38,660] They don't provide any value to our group,
+- [00:11:38,660 - 00:11:40,160] so I'm not even going to invite him because
+- [00:11:40,160 - 00:11:41,660] I know he's going to be with his four buddies.
+- [00:11:41,660 - 00:11:43,660] And that happens to people every day.
+- [00:11:43,660 - 00:11:45,660] Unfortunately, it happens to people that know me.
+- [00:11:45,660 - 00:11:46,660] I don't want to hang out
+- [00:11:46,660 - 00:11:47,660] with them, not because of them,
+- [00:11:47,660 - 00:11:49,160] but because I know the crew
+- [00:11:49,160 - 00:11:50,660] that they bring along with them
+- [00:11:50,660 - 00:11:52,660] brings a massive amount of negativity.
+- [00:11:52,660 - 00:11:54,160] And this has nothing to do
+- [00:11:54,160 - 00:11:55,660] with financial success, by the way.
+- [00:11:55,660 - 00:11:57,660] I'm not looking at that in any case.
+- [00:11:57,660 - 00:11:59,160] I know a lot of people
+- [00:11:59,160 - 00:12:00,660] that are extremely financially well off,
+- [00:12:00,660 - 00:12:02,160] but they entertain in drugs
+- [00:12:02,160 - 00:12:03,660] all day, they party every weekend.
+- [00:12:03,660 - 00:12:05,160] So I just know, like, dude, I'm
+- [00:12:05,160 - 00:12:06,660] not trying to hang out with the guy
+- [00:12:06,660 - 00:12:08,660] that's going to go out with us tonight
+- [00:12:08,660 - 00:12:10,660] and is going to have a line of Coke.
+- [00:12:10,660 - 00:12:12,660] It's not in my environment anymore.
+- [00:12:12,660 - 00:12:13,660] I'm over that stuff.
+- [00:12:13,660 - 00:12:14,660] I did that stuff when I was younger.
+- [00:12:14,660 - 00:12:16,160] I'm at a point in my life where
+- [00:12:16,160 - 00:12:17,660] I only want to surround myself with people
+- [00:12:17,660 - 00:12:20,660] that are very positive and are all focused on growth.
+- [00:12:20,660 - 00:12:22,660] When I sit at a dinner table with my friends,
+- [00:12:22,660 - 00:12:24,160] I want those conversations to be about
+- [00:12:24,160 - 00:12:25,660] how are we going to help each other?
+- [00:12:25,660 - 00:12:27,660] How are we all going to make more money?
+- [00:12:27,660 - 00:12:29,660] What's this crazy new idea?
+- [00:12:29,660 - 00:12:31,660] I was talking to my buddy the other day.
+- [00:12:31,660 - 00:12:33,660] His name is Dr. D. He's a great Miami doctor,
+- [00:12:33,660 - 00:12:36,660] one of the best celebrity doctors in the world.
+- [00:12:36,660 - 00:12:37,660] And he was telling me
+- [00:12:37,660 - 00:12:38,660] about this invention that he had.
+- [00:12:38,660 - 00:12:40,660] He had this insane, crazy invention.
+- [00:12:40,660 - 00:12:42,660] We were talking about it, and I was like, dude,
+- [00:12:42,660 - 00:12:43,660] one day when you come up
+- [00:12:43,660 - 00:12:44,660] with that, and you make it,
+- [00:12:44,660 - 00:12:46,660] and you make that prototype, I will invest in you,
+- [00:12:46,660 - 00:12:48,660] and I want to build that idea with you.
+- [00:12:48,660 - 00:12:50,160] Those are the type of conversations
+- [00:12:50,160 - 00:12:51,660] that I want at my dinner table.
+- [00:12:51,660 - 00:12:54,660] I don't want like, bro, did you see that girl?
+- [00:12:54,660 - 00:12:56,660] Dude, did you see this fucking thing?
+- [00:12:56,660 - 00:12:57,660] Did you go to this party?
+- [00:12:57,660 - 00:12:59,660] Did you talk to this person?
+- [00:12:59,660 - 00:13:01,660] It's like, this stuff is bullshit.
+- [00:13:01,660 - 00:13:02,660] There's no substance there.
+- [00:13:02,660 - 00:13:03,660] There's no value there.
+- [00:13:03,660 - 00:13:05,660] I want conversations with value.
+- [00:13:05,660 - 00:13:06,660] So like I said, it's not
+- [00:13:06,660 - 00:13:07,660] just about who you hang around with
+- [00:13:07,660 - 00:13:08,660] and what rooms you get in, but
+- [00:13:08,660 - 00:13:09,660] it's who you don't hang around with.
+- [00:13:09,660 - 00:13:11,160] So you've got hundreds of millions
+- [00:13:11,160 - 00:13:12,660] of dollars coming into the company
+- [00:13:12,660 - 00:13:13,660] that you're dealing with.
+- [00:13:13,660 - 00:13:14,660] Correct.
+- [00:13:14,660 - 00:13:16,660] What is the best financial advice that you ever received
+- [00:13:16,660 - 00:13:17,660] throughout your lifetime?
+- [00:13:17,660 - 00:13:18,660] If there's one lesson that a
+- [00:13:18,660 - 00:13:19,660] mentor or somebody taught you about money
+- [00:13:19,660 - 00:13:21,660] that's always stuck for you, what is that advice?
+- [00:13:21,660 - 00:13:22,660] Spend your money.
+- [00:13:22,660 - 00:13:24,660] Everyone is going to be like, what?
+- [00:13:24,660 - 00:13:26,660] Everyone says save your money.
+- [00:13:26,660 - 00:13:27,660] Save your money.
+- [00:13:27,660 - 00:13:28,660] Hoard it in the bank account.
+- [00:13:28,660 - 00:13:30,660] No, the only way that you can
+- [00:13:30,660 - 00:13:32,660] build something is by pouring into it.
+- [00:13:32,660 - 00:13:34,660] It's like, imagine if you had
+- [00:13:34,660 - 00:13:36,660] a brand new Bugatti parked downstairs,
+- [00:13:36,660 - 00:13:38,660] but there was no gas tank to put fuel in,
+- [00:13:38,660 - 00:13:40,660] so you literally couldn't drive it.
+- [00:13:40,660 - 00:13:42,660] That's exactly what a bank account is like.
+- [00:13:42,660 - 00:13:43,660] You have a $5 million bank account
+- [00:13:43,660 - 00:13:45,660] that's not working for you.
+- [00:13:45,660 - 00:13:47,660] It's literally like a Bugatti with no gasoline.
+- [00:13:47,660 - 00:13:48,660] You can't drive it.
+- [00:13:48,660 - 00:13:49,660] It's like an art piece.
+- [00:13:49,660 - 00:13:50,660] You're just going to look at it,
+- [00:13:50,660 - 00:13:54,660] and it's going to deteriorate in value every single year.
+- [00:13:54,660 - 00:13:56,660] So what I tell business owners,
+- [00:13:56,660 - 00:13:58,160] and this is the biggest
+- [00:13:58,160 - 00:13:59,660] mistake that so many people make,
+- [00:13:59,660 - 00:14:01,660] is when you have money in your bank account,
+- [00:14:01,660 - 00:14:04,660] do not look at it as something to protect you.
+- [00:14:04,660 - 00:14:06,660] Look at it as something to make you more money
+- [00:14:06,660 - 00:14:08,660] and make you more successful.
+- [00:14:08,660 - 00:14:09,660] I get so anxious when
+- [00:14:09,660 - 00:14:10,660] we look at our bank account
+- [00:14:10,660 - 00:14:12,660] and there's so much money in there.
+- [00:14:12,660 - 00:14:13,660] Why?
+- [00:14:13,660 - 00:14:14,660] Because I'm like, what are we doing with this?
+- [00:14:14,660 - 00:14:15,660] We don't need this right now.
+- [00:14:15,660 - 00:14:17,660] We have all of our expenses, our operating costs,
+- [00:14:17,660 - 00:14:20,660] everything is taken care of, payroll is made.
+- [00:14:20,660 - 00:14:22,660] Let's put this money to work.
+- [00:14:22,660 - 00:14:24,660] Because if I can put that money to work,
+- [00:14:24,660 - 00:14:25,660] I'm going to do two things.
+- [00:14:25,660 - 00:14:26,660] Number one, I'm going to
+- [00:14:26,660 - 00:14:27,660] create more value in my business,
+- [00:14:27,660 - 00:14:29,160] which is the most important and
+- [00:14:29,160 - 00:14:30,660] essential thing that I can do.
+- [00:14:30,660 - 00:14:31,660] Why?
+- [00:14:31,660 - 00:14:32,660] Because a majority of my
+- [00:14:32,660 - 00:14:33,660] net worth lies in my business.
+- [00:14:33,660 - 00:14:34,660] So every dollar I'm putting in,
+- [00:14:34,660 - 00:14:36,660] it's just going into building this asset
+- [00:14:36,660 - 00:14:38,660] that holds a majority of my net worth.
+- [00:14:38,660 - 00:14:41,660] Number two is, it makes you operate differently
+- [00:14:41,660 - 00:14:42,660] as a business.
+- [00:14:42,660 - 00:14:44,660] When you're cush as a business,
+- [00:14:44,660 - 00:14:46,660] and you know that you have money
+- [00:14:46,660 - 00:14:47,660] that makes you feel comfortable,
+- [00:14:47,660 - 00:14:49,660] you don't necessarily make the same decisions.
+- [00:14:49,660 - 00:14:51,660] Maybe you could have made your business
+- [00:14:51,660 - 00:14:52,660] a little bit more efficient and profitable,
+- [00:14:52,660 - 00:14:54,660] but you didn't because you knew
+- [00:14:54,660 - 00:14:56,660] that you had this savings, right?
+- [00:14:56,660 - 00:14:57,660] Or maybe you needed to
+- [00:14:57,660 - 00:14:58,660] go and hit this sales target,
+- [00:14:58,660 - 00:15:00,660] but you didn't push your team far enough.
+- [00:15:00,660 - 00:15:01,660] Why?
+- [00:15:01,660 - 00:15:02,660] Because you had this cushion
+- [00:15:02,660 - 00:15:03,660] and you had this money saved.
+- [00:15:03,660 - 00:15:05,660] But when you're constantly reinvesting your money
+- [00:15:05,660 - 00:15:07,660] back into your business and into yourself,
+- [00:15:07,660 - 00:15:09,660] well, you end up draining your bank account.
+- [00:15:09,660 - 00:15:10,660] What do you got to do?
+- [00:15:10,660 - 00:15:12,660] You got to keep making it over and over again.
+- [00:15:12,660 - 00:15:14,660] So those are my fundamentals and principles with money.
+- [00:15:14,660 - 00:15:16,660] I will never ever hoard my money.
+- [00:15:16,660 - 00:15:18,660] I will always put it back into something.
+- [00:15:18,660 - 00:15:20,660] So my next question for you,
+- [00:15:20,660 - 00:15:23,660] you sold hundreds of millions of dollars in revenue
+- [00:15:23,660 - 00:15:25,660] throughout your career, probably billions now.
+- [00:15:25,660 - 00:15:27,660] What's been your secret to sales throughout your career?
+- [00:15:27,660 - 00:15:30,660] How have you been able to consistently sell your products
+- [00:15:30,660 - 00:15:31,660] at a high volume,
+- [00:15:31,660 - 00:15:33,660] regardless of the industries that you've been in?
+- [00:15:33,660 - 00:15:35,660] I don't care what anyone says.
+- [00:15:35,660 - 00:15:38,660] You could have amazing persuasion tactics.
+- [00:15:38,660 - 00:15:40,660] You could learn NLP, by the way.
+- [00:15:40,660 - 00:15:41,660] I hate NLP.
+- [00:15:41,660 - 00:15:45,660] You could learn all of these different skills and tactics.
+- [00:15:45,660 - 00:15:48,660] There's one thing in sales that will make you beat
+- [00:15:48,660 - 00:15:50,660] every other salesperson,
+- [00:15:50,660 - 00:15:52,660] and that's conviction in your product.
+- [00:15:52,660 - 00:15:54,160] If you believe in your
+- [00:15:54,160 - 00:15:55,660] product, you don't need a script.
+- [00:15:55,660 - 00:15:56,660] You don't need special training.
+- [00:15:56,660 - 00:15:58,660] You don't need objection handling.
+- [00:15:58,660 - 00:16:00,660] Now, don't get me wrong.
+- [00:16:00,660 - 00:16:01,660] Those things are important.
+- [00:16:01,660 - 00:16:03,660] All of my sales guys have a script.
+- [00:16:03,660 - 00:16:05,660] All of them handle objections.
+- [00:16:05,660 - 00:16:06,660] All of them do role plays.
+- [00:16:06,660 - 00:16:08,660] That's not what I'm saying.
+- [00:16:08,660 - 00:16:11,660] What I'm saying is the tactics are 10%
+- [00:16:11,660 - 00:16:12,660] of it.
+- [00:16:12,660 - 00:16:15,660] 90% of it is believing in your product.
+- [00:16:15,660 - 00:16:17,660] If I had two salespeople next to me,
+- [00:16:17,660 - 00:16:21,660] one of them trained tactics, objections,
+- [00:16:21,660 - 00:16:22,660] but didn't believe in the product.
+- [00:16:22,660 - 00:16:25,660] The other one, zero training, absolute rookie,
+- [00:16:25,660 - 00:16:26,660] but believed in the product.
+- [00:16:26,660 - 00:16:28,660] I take the person that believes in the product
+- [00:16:28,660 - 00:16:29,660] 10 times out of 10.
+- [00:16:29,660 - 00:16:30,660] Why?
+- [00:16:30,660 - 00:16:32,660] Because conviction is everything.
+- [00:16:32,660 - 00:16:34,660] When you're sitting in front of a sales cycle
+- [00:16:34,660 - 00:16:35,660] or you're on the phone,
+- [00:16:35,660 - 00:16:37,660] people can feel your enthusiasm,
+- [00:16:37,660 - 00:16:39,660] your excitement, and your belief in your product.
+- [00:16:39,660 - 00:16:40,660] And if they don't feel it,
+- [00:16:40,660 - 00:16:41,660] they will not buy.
+- [00:16:41,660 - 00:16:43,660] So whenever I look at a salesperson,
+- [00:16:43,660 - 00:16:45,660] I'm never judging them by how they talk
+- [00:16:45,660 - 00:16:46,660] or what they say.
+- [00:16:46,660 - 00:16:48,660] I'm judging them by what's their conviction
+- [00:16:48,660 - 00:16:50,660] and belief in their product.
+- [00:16:50,660 - 00:16:53,660] And I don't need a special tool to measure that.
+- [00:16:53,660 - 00:16:55,660] I don't need them to say something perfectly.
+- [00:16:55,660 - 00:16:57,660] I just need to look at them face to face.
+- [00:16:57,660 - 00:16:59,660] And I can tell you in any salesperson
+- [00:16:59,660 - 00:17:00,660] with any product,
+- [00:17:00,660 - 00:17:01,660] I can tell you whether they believe
+- [00:17:01,660 - 00:17:02,660] in their product or not.
+- [00:17:02,660 - 00:17:04,659] So whenever I'm walking down my sales floor
+- [00:17:04,659 - 00:17:06,659] or I'm looking at different salespeople,
+- [00:17:06,659 - 00:17:08,659] I'm looking at them and I'm like,
+- [00:17:08,659 - 00:17:09,659] I'm not sure what they're saying.
+- [00:17:09,660 - 00:17:10,660] I'm not sure what they're saying.
+- [00:17:10,660 - 00:17:12,660] I'm not looking at their customers
+- [00:17:12,660 - 00:17:13,660] or their corporate salespeople.
+- [00:17:13,660 - 00:17:14,660] I'm always looking at that
+- [00:17:14,660 - 00:17:15,660] and I'm asking them questions like,
+- [00:17:15,660 - 00:17:16,660] hey, why are you selling?
+- [00:17:16,660 - 00:17:18,660] What do you like about the product?
+- [00:17:18,660 - 00:17:19,660] And whenever I hear
+- [00:17:19,660 - 00:17:21,660] super short-sighted, short-term beliefs
+- [00:17:21,660 - 00:17:23,660] or I see them go up against barriers and walls
+- [00:17:23,660 - 00:17:25,660] and start to believe their customer's objections,
+- [00:17:25,660 - 00:17:26,660] it just means one thing,
+- [00:17:26,660 - 00:17:28,660] they don't believe in their product.
+- [00:17:28,660 - 00:17:29,660] So what would you say
+- [00:17:29,660 - 00:17:30,660] is the biggest difference
+- [00:17:30,660 - 00:17:32,660] between the wealthy and the rich?
+- [00:17:32,660 - 00:17:33,660] Like what's the number one thing
+- [00:17:33,660 - 00:17:34,660] that separates the rich from the wealthy?
+- [00:17:34,660 - 00:17:36,660] Wealthy people,
+- [00:17:36,660 - 00:17:38,660] it depends what rich is, right?
+- [00:17:38,660 - 00:17:39,660] Some people,
+- [00:17:39,660 - 00:17:41,980] rich in my book making four to five to ten million
+- [00:17:41,980 - 00:17:44,300] dollars a year is rich that's what i view as rich
+- [00:17:44,940 - 00:17:47,540] wealthy you're a billionaire that's that's it like
+- [00:17:47,540 - 00:17:50,140] to me there's nothing under a billion that
+- [00:17:50,140 - 00:17:53,060] categorizes you as truly wealthy so what do i mean by
+- [00:17:53,060 - 00:17:55,980] that well i grew up in a town that you know
+- [00:17:55,980 - 00:17:58,020] people if you made 100 grand in a
+- [00:17:58,020 - 00:18:00,060] year you literally were considered like wealthy like
+- [00:18:00,060 - 00:18:02,540] people would drop the w word to me today you
+- [00:18:02,540 - 00:18:05,020] have four or five million dollars that could be gone
+- [00:18:05,020 - 00:18:07,460] in a year or two i have so many friends that
+- [00:18:07,460 - 00:18:09,900] can spend that in two to three months right four to
+- [00:18:09,900 - 00:18:12,540] five million dollars is legitimately nothing when
+- [00:18:12,540 - 00:18:15,180] you are building a massive business or you're
+- [00:18:15,180 - 00:18:17,460] going out there and you're creating wealth what
+- [00:18:17,460 - 00:18:19,740] really matters is what are you doing with your
+- [00:18:19,740 - 00:18:22,380] wealth as we just talked about so when i look
+- [00:18:22,380 - 00:18:25,020] at wealthy it's the ability to actually not just have
+- [00:18:25,020 - 00:18:27,420] a high net worth but when i say someone
+- [00:18:27,420 - 00:18:29,820] has a billion dollars like they genuinely have a billion
+- [00:18:29,820 - 00:18:32,380] dollars in assets they have money that
+- [00:18:32,380 - 00:18:34,940] is deployed whether it's into businesses private equity
+- [00:18:35,020 - 00:18:37,380] the stock market real estate different assets
+- [00:18:37,380 - 00:18:39,740] around the world they have their money poured
+- [00:18:39,740 - 00:18:42,420] into and their money's working for them and i
+- [00:18:42,420 - 00:18:45,100] truly view that as wealthy because when you have
+- [00:18:45,100 - 00:18:47,940] a billion dollars there's very little things that you
+- [00:18:47,940 - 00:18:50,780] can do on this planet that will hurt your bank
+- [00:18:50,780 - 00:18:53,100] account or put you in a rough financial position you
+- [00:18:53,100 - 00:18:55,420] can go and buy a 50 million dollar yacht you
+- [00:18:55,420 - 00:18:58,140] can buy a 50 million dollar plane you can have
+- [00:18:58,140 - 00:19:00,860] six houses around the world and it will not affect
+- [00:19:00,860 - 00:19:02,900] your billion dollar net worth
+- [00:19:02,900 - 00:19:04,940] however contrary to popular belief
+- [00:19:05,020 - 00:19:07,300] a lot of people would think that about 100
+- [00:19:07,300 - 00:19:09,580] million dollars well you can't have a 50 million dollar
+- [00:19:09,580 - 00:19:11,540] yacht if you're worth 100 million dollars why
+- [00:19:11,540 - 00:19:13,500] because it's going to cost you over 12 million
+- [00:19:13,500 - 00:19:15,700] dollars a year just to operate that that's 12
+- [00:19:15,700 - 00:19:17,900] of your net worth that you're putting into one thing
+- [00:19:17,900 - 00:19:21,180] that's essentially a toy that will not make you more
+- [00:19:21,180 - 00:19:24,460] money so people just you know and i say this
+- [00:19:24,460 - 00:19:26,940] not out of arrogance but out of when i was 16
+- [00:19:26,940 - 00:19:29,420] years old i thought a few hundred grand was a lot
+- [00:19:29,420 - 00:19:31,540] of money and i wish that there was someone like
+- [00:19:31,540 - 00:19:33,660] me telling me like dude don't set a hundred thousand
+- [00:19:33,660 - 00:19:34,300] dollar target don't set a million dollar target and
+- [00:19:34,300 - 00:19:34,940] i'm like dude you're not gonna make me $100,000
+- [00:19:34,940 - 00:19:37,340] dollar target don't set a hundred million dollar
+- [00:19:37,340 - 00:19:39,740] target knowing who zayn is and knowing that zayn
+- [00:19:39,740 - 00:19:42,100] wants to be the best in the world
+- [00:19:42,100 - 00:19:44,460] set a multi-billion dollar target and always go bigger
+- [00:19:45,020 - 00:19:47,420] all right so you know my last question for
+- [00:19:47,420 - 00:19:49,820] you man you obviously put yourself in a multi-million
+- [00:19:49,820 - 00:19:52,140] dollar property you built a nine-figure company any
+- [00:19:52,140 - 00:19:54,460] last words of advice to the younger generation
+- [00:19:54,460 - 00:19:56,300] out there of entrepreneurs who may be watching
+- [00:19:56,300 - 00:19:58,140] this aspiring to you know eventually build a
+- [00:19:58,140 - 00:20:00,820] company like yourself and kind of live this
+- [00:20:00,820 - 00:20:03,500] lifestyle learn sales and never give up those
+- [00:20:03,500 - 00:20:04,380] are the only two things
+- [00:20:04,940 - 00:20:06,700] why because those are the two things that
+- [00:20:06,700 - 00:20:08,460] have changed my life i'm an excellent communicator
+- [00:20:08,460 - 00:20:10,580] and that's because i learned sales i learned
+- [00:20:10,580 - 00:20:12,700] the inside and the outs of communicating with
+- [00:20:12,700 - 00:20:15,020] the human being and when you can learn that
+- [00:20:15,020 - 00:20:17,340] you will be successful no matter where you go it's
+- [00:20:17,340 - 00:20:19,580] number one number two it's going to be really hard
+- [00:20:19,580 - 00:20:21,820] it's going to be a lot of roadblocks there's going
+- [00:20:21,820 - 00:20:23,300] to be a lot of people that tell you that it's
+- [00:20:23,300 - 00:20:24,780] not going to work it's gonna be a lot of times where
+- [00:20:24,780 - 00:20:26,860] you feel like giving up do not quit as long
+- [00:20:26,860 - 00:20:28,940] as you learn sales and you don't quit promise you
+- [00:20:28,940 - 00:20:31,340] can get whatever you want in this world amazing and
+- [00:20:31,340 - 00:20:33,740] uh saying thank you so much for being with us
+- [00:20:34,940 - 00:20:36,420] on the show man thank you and where can
+- [00:20:36,420 - 00:20:37,900] everybody find out more about you and what all you're
+- [00:20:37,900 - 00:20:40,340] working on right now at zane jan on all my social
+- [00:20:40,340 - 00:20:42,780] media you can find me online and or you can type
+- [00:20:42,780 - 00:20:44,620] in my name on google and you'll see me everybody
+- [00:20:44,620 - 00:20:46,460] go tap in with zane thank you so much for watching
+- [00:20:46,460 - 00:20:47,980] this video be sure to leave a
+- [00:20:47,980 - 00:20:49,500] like and subscribe for tons of amazing content
+- [00:20:49,500 - 00:20:50,979] and click right here to watch
+- [00:20:50,979 - 00:20:52,458] our full interview with grant cardone
