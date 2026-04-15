@@ -1,0 +1,1646 @@
+# Transcript
+
+Source: lazyearn/mit-nuts-and-bolts-of-new-ventures/009 - Session 6, Part 1： Why Do You Want to Be an Entrepreneur？ [p-f5S31pjTA].webm
+
+- [00:00:00,000 - 00:00:07,900] Okay, welcome to the last
+- [00:00:07,900 - 00:00:15,800] session of our six session journey.
+- [00:00:15,800 - 00:00:18,660] The first part tonight is Bob Jones and he's
+- [00:00:18,660 - 00:00:21,520] going to talk to us about something that I
+- [00:00:21,520 - 00:00:22,640] raised at the beginning.
+- [00:00:22,640 - 00:00:25,660] In the first session, I had a list of
+- [00:00:25,660 - 00:00:28,680] questions for you to think about if you're going to
+- [00:00:28,680 - 00:00:30,280] start a venture.
+- [00:00:30,280 - 00:00:32,820] Most of those were factual things like, you
+- [00:00:32,820 - 00:00:35,360] know, do you need a corporation, you know,
+- [00:00:35,360 - 00:00:37,920] how do you find a customer, those sort of things.
+- [00:00:37,920 - 00:00:40,300] But there was one slide that was about
+- [00:00:40,300 - 00:00:42,680] more personal things, you know, is this right for
+- [00:00:42,680 - 00:00:43,680] you?
+- [00:00:43,680 - 00:00:45,320] You know, what does it mean for you?
+- [00:00:45,320 - 00:00:47,710] Well, Bob is going to sort of explore
+- [00:00:47,710 - 00:00:50,100] that in more detail in just a moment here.
+- [00:00:50,100 - 00:00:52,560] So he doesn't need introduction.
+- [00:00:52,560 - 00:00:54,260] You've seen him before.
+- [00:00:54,260 - 00:00:57,879] And take it away, Bob.
+- [00:00:57,879 - 00:00:58,660] Okay.
+- [00:00:58,680 - 00:00:59,680] Bob Jones.
+- [00:00:59,680 - 00:01:04,680] Would you like a…
+- [00:01:04,680 - 00:01:09,120] I'm so wired up tonight that if there's
+- [00:01:09,120 - 00:01:13,560] like a gravitational wave that comes by, I'm
+- [00:01:13,560 - 00:01:17,400] probably going to burst into flames.
+- [00:01:17,400 - 00:01:21,920] So good evening.
+- [00:01:21,920 - 00:01:24,750] I do have a talk for tonight,
+- [00:01:24,750 - 00:01:27,580] but before we get too far into it.
+- [00:01:27,580 - 00:01:28,580] Okay.
+- [00:01:28,680 - 00:01:29,680] There you go.
+- [00:01:29,680 - 00:01:30,680] Thank you.
+- [00:01:30,680 - 00:01:34,900] I'd like to turn that around a little
+- [00:01:34,900 - 00:01:39,120] bit and actually ask you your thoughts about this
+- [00:01:39,120 - 00:01:43,440] course because we've been doing it for a long time.
+- [00:01:43,440 - 00:01:48,300] And I actually, to a considerable extent,
+- [00:01:48,300 - 00:01:53,160] redo every one of my presentations every year,
+- [00:01:53,160 - 00:01:56,680] which is probably a sign that I need medication.
+- [00:01:56,680 - 00:01:57,680] Okay.
+- [00:01:57,680 - 00:02:00,440] And I want to keep what's good.
+- [00:02:00,440 - 00:02:03,240] I want to dump what isn't.
+- [00:02:03,240 - 00:02:06,120] And in spirit of continuous improvement, you guys
+- [00:02:06,120 - 00:02:09,000] had choices for what you could do during
+- [00:02:09,000 - 00:02:10,620] IAP.
+- [00:02:10,620 - 00:02:12,720] And for whatever combination of
+- [00:02:12,720 - 00:02:14,820] reasons, you took this course.
+- [00:02:14,820 - 00:02:18,720] So I'd love to hear a few comments
+- [00:02:18,720 - 00:02:22,620] from you as to what did you expect?
+- [00:02:22,620 - 00:02:23,620] What did you get?
+- [00:02:23,620 - 00:02:25,400] How did they compare?
+- [00:02:25,400 - 00:02:26,680] And did you get any value out of this?
+- [00:02:26,680 - 00:02:29,590] Janet, I'm probably going to put
+- [00:02:29,590 - 00:02:32,500] you to work because handing out microphones.
+- [00:02:32,500 - 00:02:34,400] But how about it?
+- [00:02:34,400 - 00:02:38,080] Give us a little bit of feedback, please.
+- [00:02:38,080 - 00:02:39,620] You can see why Janet wears sneakers for these things.
+- [00:02:39,620 - 00:02:40,120] I'm a second year MBA student and
+- [00:02:40,120 - 00:02:40,620] looking into entrepreneurship for the past two years.
+- [00:02:40,620 - 00:02:41,120] And I think there's something to be
+- [00:02:41,120 - 00:02:41,620] said about distilling all this information into only
+- [00:02:41,620 - 00:02:42,620] six lessons.
+- [00:02:42,620 - 00:02:43,620] And I've actually found a lot of utility in that.
+- [00:02:43,620 - 00:02:44,120] Like you're really looking at the
+- [00:02:44,120 - 00:02:44,620] whole process of how to do it.
+- [00:02:44,620 - 00:02:45,120] And I think that's what I've
+- [00:02:45,120 - 00:02:45,620] been doing for the last two years.
+- [00:02:45,620 - 00:02:46,120] And I think that's what I've
+- [00:02:46,120 - 00:02:46,620] been doing for the last three years.
+- [00:02:46,620 - 00:02:47,120] And I think that's what I've
+- [00:02:47,120 - 00:02:47,620] been doing for the last four years.
+- [00:02:47,620 - 00:02:48,120] And I think that's what I've
+- [00:02:48,120 - 00:02:48,620] been doing for the last five years.
+- [00:02:48,620 - 00:02:49,120] And I think that's what I've
+- [00:02:49,120 - 00:02:49,620] been doing for the last six years.
+- [00:02:49,620 - 00:02:51,900] I can see it's very useful
+- [00:02:51,900 - 00:02:54,180] in just going into the future.
+- [00:02:54,180 - 00:02:58,430] One, I think, point that really just stuck
+- [00:02:58,430 - 00:03:02,680] with me in the course because everything else
+- [00:03:02,680 - 00:03:06,320] has just been at a very
+- [00:03:06,320 - 00:03:09,960] high level is the negotiation piece.
+- [00:03:09,960 - 00:03:12,850] I just personally wish that there was a little
+- [00:03:12,850 - 00:03:15,740] bit more content meet all of those as opposed
+- [00:03:15,740 - 00:03:18,200] to going through an extra class.
+- [00:03:18,200 - 00:03:19,200] Just like seeing like what are the core principles?
+- [00:03:19,200 - 00:03:19,580] And then I just began doing the other stuff.
+- [00:03:19,620 - 00:03:24,960] without negotiating and getting to the initial results.
+- [00:03:24,960 - 00:03:25,600] Awesome.
+- [00:03:25,600 - 00:03:27,700] Thank you.
+- [00:03:27,700 - 00:03:29,580] Kurt, for what it's worth, the
+- [00:03:29,580 - 00:03:31,460] battery in this gizmo has died.
+- [00:03:31,460 - 00:03:32,990] So if you could do
+- [00:03:32,990 - 00:03:34,520] a little surgery, I'd be grateful.
+- [00:03:34,520 - 00:03:35,240] Thank you.
+- [00:03:35,240 - 00:03:36,240] All right, someone else?
+- [00:03:43,880 - 00:03:45,750] So I think a lot
+- [00:03:45,750 - 00:03:47,620] of us came with different experiences
+- [00:03:47,620 - 00:03:49,320] into this course.
+- [00:03:49,320 - 00:03:52,799] What I appreciate is I never got any formal training
+- [00:03:52,799 - 00:03:54,180] in business.
+- [00:03:54,180 - 00:03:56,700] I've been doing it for 25 years.
+- [00:03:56,700 - 00:04:04,060] And it was enlightening and motivating to see this
+- [00:04:04,060 - 00:04:07,320] and to now really understand some of these things
+- [00:04:07,320 - 00:04:08,630] so that I can go dig
+- [00:04:08,630 - 00:04:09,940] into it a little bit more,
+- [00:04:09,940 - 00:04:14,740] as I'm now embarking on my own entrepreneur journey.
+- [00:04:14,740 - 00:04:17,320] So let me dig into that a little bit.
+- [00:04:17,320 - 00:04:18,899] Are you saying that there were actually
+- [00:04:18,899 - 00:04:19,320] practical things?
+- [00:04:19,320 - 00:04:20,820] I mean, were there practical lessons that you got out
+- [00:04:20,820 - 00:04:22,430] of this or that we
+- [00:04:22,430 - 00:04:24,040] covered topics that you had never
+- [00:04:24,040 - 00:04:26,219] covered before?
+- [00:04:26,219 - 00:04:29,920] Flesh that out a little bit, please.
+- [00:04:29,920 - 00:04:32,420] I saw some of the reasons why
+- [00:04:32,420 - 00:04:34,920] I was doing some of the things.
+- [00:04:34,920 - 00:04:38,080] So some of the things that
+- [00:04:38,080 - 00:04:41,240] I had applied and going through,
+- [00:04:41,240 - 00:04:43,980] for example, financial projections and all that,
+- [00:04:43,980 - 00:04:46,880] I had to learn all the job.
+- [00:04:46,880 - 00:04:48,159] I never did it before.
+- [00:04:48,159 - 00:04:48,659] Yup.
+- [00:04:49,320 - 00:04:50,700] OK.
+- [00:04:50,700 - 00:04:51,910] I just want to say that
+- [00:04:51,910 - 00:04:53,120] also, is a lot of it
+- [00:04:53,120 - 00:04:56,280] about the learning perspective, this type of perspective.
+- [00:04:56,280 - 00:04:59,099] I have to second with regards to negotiations,
+- [00:04:59,099 - 00:05:01,520] just because I've been part of a lot of negotiations,
+- [00:05:01,520 - 00:05:02,970] that it would have been nice
+- [00:05:02,970 - 00:05:04,420] to have a little bit more
+- [00:05:04,420 - 00:05:05,219] of the theory.
+- [00:05:05,219 - 00:05:05,719] Brilliant.
+- [00:05:05,719 - 00:05:06,240] Thank you.
+- [00:05:06,240 - 00:05:07,460] Rather than jumping in.
+- [00:05:07,460 - 00:05:10,240] It was a good exercise, nonetheless.
+- [00:05:10,240 - 00:05:11,850] Well, the point you made
+- [00:05:11,850 - 00:05:13,460] that people come into this course
+- [00:05:13,460 - 00:05:16,840] with vastly different backgrounds, of course,
+- [00:05:16,840 - 00:05:19,200] makes it challenging for the presenters.
+- [00:05:19,200 - 00:05:22,020] these things where some of
+- [00:05:22,020 - 00:05:24,840] the participants were freshmen, some were
+- [00:05:24,840 - 00:05:28,860] faculty members, several had already had two
+- [00:05:28,860 - 00:05:32,880] startups, and a couple who came in
+- [00:05:32,880 - 00:05:35,570] and said I took the course two years ago,
+- [00:05:35,570 - 00:05:38,260] I had a startup, it flopped, I'm back to
+- [00:05:38,260 - 00:05:41,910] see what it was I should have
+- [00:05:41,910 - 00:05:45,560] paid attention to and didn't. All right, anyone
+- [00:05:45,560 - 00:05:49,200] else want to add something
+- [00:05:49,200 - 00:05:52,840] to that? Yes sir? Congratulations.
+- [00:06:15,560 - 00:06:30,550] I think you just volunteered to teach
+- [00:06:30,550 - 00:06:45,540] a session next year because I think
+- [00:06:45,540 - 00:06:49,500] that's actually kind of the heart of the
+- [00:06:49,500 - 00:06:53,460] matter which is that we we spend a
+- [00:06:53,460 - 00:06:57,090] lot of time articulating high-level
+- [00:06:57,090 - 00:07:00,720] principles in our schooling, and we
+- [00:07:00,720 - 00:07:03,850] sometimes trip when we when those
+- [00:07:03,850 - 00:07:06,980] principles collide with the reality, and
+- [00:07:06,980 - 00:07:08,960] sometimes that I find it very helpful to
+- [00:07:08,960 - 00:07:10,940] say, well if I know what your customers
+- [00:07:10,940 - 00:07:12,510] want and give it to them,
+- [00:07:12,510 - 00:07:14,080] it's like well duh, but it gets
+- [00:07:14,080 - 00:07:14,720] tough.
+- [00:07:15,540 - 00:07:17,940] overlooked frequently. So thank
+- [00:07:17,940 - 00:07:20,340] you, that's helpful. Anyone else?
+- [00:07:25,780 - 00:07:27,020] And we've got one gentleman here
+- [00:07:27,020 - 00:07:28,260] and then we'll close this out.
+- [00:07:29,220 - 00:07:32,100] So thank you for the sessions.
+- [00:07:32,100 - 00:07:34,980] I don't have any entrepreneurial experience so
+- [00:07:35,780 - 00:07:39,220] each of the sessions was of immense value for
+- [00:07:39,220 - 00:07:42,660] me. One thing that I can think of could
+- [00:07:42,660 - 00:07:47,180] further help, especially with the numbers or
+- [00:07:47,180 - 00:07:51,700] the pitch is getting access to existing startups
+- [00:07:51,700 - 00:07:56,860] pitches or some numbers that they generated. If we
+- [00:07:56,860 - 00:08:02,020] have experience, if we have access to that, I think
+- [00:08:02,900 - 00:08:07,300] it would help us in connecting the parts that okay,
+- [00:08:07,300 - 00:08:11,700] if I'm trying to forecast sales, how would it be
+- [00:08:11,700 - 00:08:12,580] as it could look like?
+- [00:08:12,660 - 00:08:19,180] I think there is a link for some pitches
+- [00:08:19,180 - 00:08:25,700] that I think would be helpful, but other than that,
+- [00:08:26,420 - 00:08:30,460] similar resources. That would be very helpful. Thank
+- [00:08:30,460 - 00:08:34,500] you. That is a topic that every now and
+- [00:08:34,500 - 00:08:38,340] then Joe and I have knocked around a little
+- [00:08:38,340 - 00:08:42,179] bit, which is we've got a substantial list of people
+- [00:08:42,179 - 00:08:42,380] who have gone through the process of creating a
+- [00:08:42,380 - 00:08:42,580] platform, and they've been able to get a lot of
+- [00:08:42,580 - 00:08:42,619] information about the process of creating a platform.
+- [00:08:42,619 - 00:08:42,659] And so I think that's a great way to
+- [00:08:42,659 - 00:08:42,699] get that information out there. And I think that's
+- [00:08:42,699 - 00:08:42,740] a great way to get that information out there.
+- [00:08:42,740 - 00:08:45,460] through this course over the years. And we
+- [00:08:45,460 - 00:08:48,180] never really have made any effort to try and
+- [00:08:48,180 - 00:08:52,499] create a community out of that. And yet
+- [00:08:52,499 - 00:08:56,819] I think there's real value in that. And well,
+- [00:08:56,819 - 00:09:00,179] I'm going to elaborate on that in my
+- [00:09:00,179 - 00:09:03,540] talk. Entrepreneurs are weird. And they usually don't
+- [00:09:03,540 - 00:09:08,059] have very many friends. And a community of people who
+- [00:09:08,059 - 00:09:12,579] are weird like you can be not only useful, but
+- [00:09:12,580 - 00:09:15,660] quite comforting. So we're going to flag that.
+- [00:09:15,660 - 00:09:18,740] We'll have a follow-on conversation. And you have
+- [00:09:18,740 - 00:09:21,780] the mic, sir. So sorry, you're on. Very cool.
+- [00:09:21,780 - 00:09:24,820] Yeah, so as someone who did university as an
+- [00:09:24,820 - 00:09:27,140] undergrad for two years and decided to drop out
+- [00:09:27,140 - 00:09:29,460] because there's too much of an emphasis on theory
+- [00:09:29,460 - 00:09:32,820] and I'm a very big hands-on person, having to
+- [00:09:32,820 - 00:09:36,180] do it from scratch, you know, I've had, like,
+- [00:09:36,180 - 00:09:38,740] you know, no, like, formal training in my business
+- [00:09:38,740 - 00:09:41,300] or anything like that. This is my first, like,
+- [00:09:41,300 - 00:09:41,900] foray into it at all. And I think that's a
+- [00:09:41,900 - 00:09:42,500] really good way to get that information out there. And
+- [00:09:42,500 - 00:09:45,420] I really, really appreciate it. I guess it would
+- [00:09:45,420 - 00:09:48,340] boil it down for someone who's never looked into
+- [00:09:48,340 - 00:09:50,820] business at all. And there was never a moment
+- [00:09:50,820 - 00:09:53,300] that they were like, there was like a financial
+- [00:09:53,300 - 00:09:56,260] trust and all that where I was like, what
+- [00:09:56,260 - 00:09:59,220] are they talking about? Like, I think it's very straightforward.
+- [00:09:59,220 - 00:10:02,620] And I really appreciate that. Good. All right.
+- [00:10:02,620 - 00:10:06,020] That's very helpful. If you think of a major
+- [00:10:06,020 - 00:10:09,020] topic that we should have included but didn't,
+- [00:10:09,020 - 00:10:12,020] and we should build it in for next year,
+- [00:10:12,500 - 00:10:16,060] tell Janet. And have her, do you have a
+- [00:10:16,060 - 00:10:19,620] final remark you want to make? All right, Janet,
+- [00:10:19,620 - 00:10:22,020] we're going to have one more here. And then I want
+- [00:10:22,020 - 00:10:24,420] to get to the subject matter at hand. Go ahead, ma'am.
+- [00:10:24,420 - 00:10:30,620] I have a statement from the National Digital Advisory for Public
+- [00:10:30,620 - 00:10:36,820] Companies and I found it very practical that we use marketing
+- [00:10:36,820 - 00:10:40,500] way, especially with the fashion metric and the fashion.
+- [00:10:40,500 - 00:10:42,340] Financing sources.
+- [00:10:42,500 - 00:10:43,460] Yeah.
+- [00:10:43,460 - 00:10:50,660] Hold on a second. Remember what I said about microphones?
+- [00:10:50,660 - 00:10:59,780] Yes.
+- [00:10:59,780 - 00:11:05,900] Okay. Find out what your customer wants, give
+- [00:11:05,900 - 00:11:12,020] it to them. Great. All right. Thank you very
+- [00:11:12,020 - 00:11:12,260] much.
+- [00:11:12,260 - 00:11:12,340] Thank you.
+- [00:11:12,340 - 00:11:12,440] Thank you.
+- [00:11:12,440 - 00:11:12,480] Thank you.
+- [00:11:12,480 - 00:11:16,030] The feedback is valuable, and I don't know how often
+- [00:11:16,030 - 00:11:19,580] you've had people running courses ask you what you thought
+- [00:11:19,580 - 00:11:22,820] and whether or not it could be made better, but
+- [00:11:22,820 - 00:11:26,060] we're pretty serious about that whole sort of customer discovery thing.
+- [00:11:27,220 - 00:11:29,980] So tonight's agenda, stories.
+- [00:11:31,160 - 00:11:34,000] And then we're going to talk about some of
+- [00:11:34,000 - 00:11:36,840] the hard stuff about entrepreneurship that rarely gets talked about.
+- [00:11:38,160 - 00:11:40,300] Some lessons, and we'll wrap it up.
+- [00:11:42,480 - 00:11:46,020] This is kind of obligatory because these are freestanding, and you
+- [00:11:46,020 - 00:11:49,560] guys have seen it by now, so I'll just blast through it.
+- [00:11:50,120 - 00:11:53,790] I started some companies. I wrote a book. I
+- [00:11:53,790 - 00:11:57,460] had a turnaround job. I had a couple normal jobs.
+- [00:11:58,180 - 00:12:01,680] Went to a couple schools. I'm a working musician.
+- [00:12:04,240 - 00:12:08,300] I'm playing next Saturday in the morning as
+- [00:12:08,300 - 00:12:12,360] a soloist, solo guitarist at the Pine Street.
+- [00:12:12,480 - 00:12:15,840] Women's shelter for their Valentine's Day tea.
+- [00:12:16,500 - 00:12:19,700] And then that evening, in a complete reversal,
+- [00:12:19,700 - 00:12:22,900] I'm playing the blues at a brewery in Marlborough.
+- [00:12:24,080 - 00:12:28,030] And of note, you guys should pay attention to
+- [00:12:28,030 - 00:12:31,980] MIT's Venture Mentoring Service if you ever pursue this,
+- [00:12:32,220 - 00:12:34,920] and anyone in your senior management
+- [00:12:34,920 - 00:12:37,620] team has any affiliation with MIT.
+- [00:12:39,620 - 00:12:40,100] Okay.
+- [00:12:40,840 - 00:12:42,400] How many of you guys have already?
+- [00:12:42,480 - 00:12:45,350] Have you been through something like Y Combinator
+- [00:12:45,350 - 00:12:48,220] or Techstars or some sort of incubator for training?
+- [00:12:50,100 - 00:12:50,620] Okay.
+- [00:12:51,700 - 00:12:53,730] Well, we'll get some comments from you
+- [00:12:53,730 - 00:12:55,760] as to how this compares at some point.
+- [00:12:56,740 - 00:12:58,700] Some of the popular myths about
+- [00:12:58,700 - 00:13:00,660] startups, there's a lot of money available.
+- [00:13:01,560 - 00:13:04,220] And if I bring my amazing idea to
+- [00:13:04,220 - 00:13:06,880] investors, they will just shower me with money.
+- [00:13:09,300 - 00:13:10,880] So, might there be some
+- [00:13:10,880 - 00:13:12,460] part of that that's not true?
+- [00:13:13,000 - 00:13:13,480] Maybe.
+- [00:13:13,480 - 00:13:17,590] And there's also some popular
+- [00:13:17,590 - 00:13:21,700] myths about boot camps, for example,
+- [00:13:21,700 - 00:13:24,440] that there is a magic formula for success.
+- [00:13:25,060 - 00:13:27,680] And if you follow the path that we
+- [00:13:27,680 - 00:13:30,300] teach you, you can pretty well be guaranteed
+- [00:13:30,300 - 00:13:33,020] that you will be showered with money.
+- [00:13:34,940 - 00:13:37,020] And there are outfits out there
+- [00:13:37,020 - 00:13:39,100] that kind of halfway promise that.
+- [00:13:40,360 - 00:13:40,500] Okay.
+- [00:13:40,500 - 00:13:42,100] So, I'm going to go ahead and get started.
+- [00:13:42,100 - 00:13:45,860] This left us with a moral dilemma.
+- [00:13:46,740 - 00:13:50,000] Do we hype it, promote the
+- [00:13:50,000 - 00:13:53,260] myths, or do we tell you facts?
+- [00:13:53,920 - 00:13:59,160] We voted for facts because that famous professor,
+- [00:13:59,160 - 00:14:02,620] Hadzima, articulated an equation for you guys.
+- [00:14:03,800 - 00:14:06,240] In your very first session,
+- [00:14:06,240 - 00:14:08,680] happiness is reality divided by expectations.
+- [00:14:09,200 - 00:14:10,630] Tonight, we're going to talk
+- [00:14:10,630 - 00:14:12,060] a little bit about expectations.
+- [00:14:12,100 - 00:14:13,980] Because the facts are, it's hard.
+- [00:14:15,280 - 00:14:16,720] And most startups fail.
+- [00:14:17,860 - 00:14:22,140] And most investors believe that you will probably fail.
+- [00:14:22,540 - 00:14:23,740] You may be brilliant.
+- [00:14:23,920 - 00:14:26,800] You may be charming and lovable, kind to animals.
+- [00:14:27,280 - 00:14:28,840] Investors think you're going to fail.
+- [00:14:30,260 - 00:14:31,840] There are lots of entrepreneurs.
+- [00:14:32,540 - 00:14:34,850] There's lots of competition for
+- [00:14:34,850 - 00:14:37,160] talent, funding, and other resources.
+- [00:14:37,820 - 00:14:41,500] And many of the entrepreneurs won't get the money.
+- [00:14:42,100 - 00:14:45,520] So, why am I talking about this?
+- [00:14:45,660 - 00:14:48,760] Well, when you decided to come
+- [00:14:48,760 - 00:14:51,860] here, or Harvard, or Tufts, or Northeastern,
+- [00:14:51,860 - 00:14:54,230] or Northwestern, or wherever you went,
+- [00:14:54,230 - 00:14:56,600] you probably knew walking in the door
+- [00:14:56,960 - 00:14:58,220] that you were going to take
+- [00:14:58,220 - 00:14:59,480] a beating somewhere along the way.
+- [00:15:00,280 - 00:15:02,090] And so, you probably didn't realize how much
+- [00:15:02,090 - 00:15:03,900] of a beating you were going to take.
+- [00:15:03,900 - 00:15:05,300] But you knew it was going to be hard.
+- [00:15:06,440 - 00:15:08,960] But there are a lot of people who promote entrepreneurship.
+- [00:15:08,960 - 00:15:11,980] And to my, in my opinion, they over glamorize it.
+- [00:15:12,100 - 00:15:15,960] And they don't tell you how hard it is.
+- [00:15:16,060 - 00:15:18,960] So, in the spirit of disclosure, tonight I
+- [00:15:18,960 - 00:15:21,860] want to talk a little bit about the fact
+- [00:15:21,860 - 00:15:23,460] that even the smartest ones fail.
+- [00:15:23,460 - 00:15:26,160] And I know a lot of entrepreneurs.
+- [00:15:26,160 - 00:15:27,580] I don't know a single one
+- [00:15:27,580 - 00:15:29,000] who got everything right the first time.
+- [00:15:29,560 - 00:15:32,420] It's going to be important that you know,
+- [00:15:32,420 - 00:15:35,280] to this community question that you brought up,
+- [00:15:36,480 - 00:15:37,340] you're not alone.
+- [00:15:37,580 - 00:15:39,800] And there are some resources you can draw on.
+- [00:15:39,800 - 00:15:40,940] And I'm going to talk a little
+- [00:15:40,940 - 00:15:42,080] bit about all of that this evening.
+- [00:15:42,100 - 00:15:48,000] I do think that this is very important.
+- [00:15:48,480 - 00:15:51,340] Entrepreneurs solve problems.
+- [00:15:51,880 - 00:15:53,100] They improve lives.
+- [00:15:53,780 - 00:15:56,650] Your new businesses drive growth, create
+- [00:15:56,650 - 00:15:59,520] jobs, and in some cases, create wealth.
+- [00:16:00,220 - 00:16:02,100] And that's a noble endeavor.
+- [00:16:03,220 - 00:16:03,880] But it's hard.
+- [00:16:04,880 - 00:16:07,110] When I was interviewing some of my friends
+- [00:16:07,110 - 00:16:09,340] who are entrepreneurs for the book I wrote,
+- [00:16:10,760 - 00:16:12,100] one of the people who,
+- [00:16:12,100 - 00:16:16,480] who's in the book, failed nine times in a
+- [00:16:16,480 - 00:16:20,860] row before she eventually hit it with number 10.
+- [00:16:22,120 - 00:16:24,720] So, that raises a couple of questions, of course.
+- [00:16:24,720 - 00:16:26,390] How on earth do you
+- [00:16:26,390 - 00:16:28,060] come back after nine consecutive failures?
+- [00:16:28,720 - 00:16:31,470] And also, what did you do differently in
+- [00:16:31,470 - 00:16:34,220] number 10 that caused this one to succeed?
+- [00:16:34,780 - 00:16:36,600] Which sort of became the
+- [00:16:36,600 - 00:16:38,420] paradigm for what I wrote about.
+- [00:16:39,020 - 00:16:42,060] So, tonight is less my session.
+- [00:16:42,100 - 00:16:44,060] Tonight is less about the practicum
+- [00:16:44,060 - 00:16:46,020] that you all said you liked.
+- [00:16:47,620 - 00:16:49,190] So, I may be making
+- [00:16:49,190 - 00:16:50,760] a mistake to deviate from that.
+- [00:16:51,000 - 00:16:52,800] But I want to talk a little bit
+- [00:16:52,800 - 00:16:54,600] about things you may need in the future.
+- [00:16:56,260 - 00:16:58,060] But first, a story that might
+- [00:16:58,060 - 00:16:59,860] cause you to think I accidentally walked
+- [00:16:59,860 - 00:17:02,960] into the wrong room, diving boards.
+- [00:17:04,280 - 00:17:06,380] Until a couple of years ago,
+- [00:17:06,380 - 00:17:08,480] I was a pretty serious springboard diver.
+- [00:17:09,420 - 00:17:10,759] Worked out with a coach
+- [00:17:10,759 - 00:17:12,099] and a small group of lunatics.
+- [00:17:12,099 - 00:17:13,760] At Boston University.
+- [00:17:13,760 - 00:17:17,020] And I was the guy up on the high board doing
+- [00:17:17,020 - 00:17:20,280] stuff that nobody at my advanced stage ought to be doing.
+- [00:17:21,919 - 00:17:25,769] And one summer, I was screwing
+- [00:17:25,769 - 00:17:29,620] around at the outdoor pool in Lexington.
+- [00:17:30,280 - 00:17:33,600] My, at the time, 14-year-old daughter came up and said,
+- [00:17:33,600 - 00:17:35,100] Dad, you know that thing you're
+- [00:17:35,100 - 00:17:36,600] doing with a coach at BU?
+- [00:17:36,600 - 00:17:37,719] Will they take kids?
+- [00:17:38,820 - 00:17:42,080] I said, I can probably make that happen.
+- [00:17:42,100 - 00:17:44,560] Do you want to learn how to do this stuff?
+- [00:17:44,560 - 00:17:45,670] Yeah, I want to learn
+- [00:17:45,670 - 00:17:46,780] how to do that flippy stuff.
+- [00:17:46,780 - 00:17:50,540] And I said, it's hard.
+- [00:17:50,540 - 00:17:51,340] It's terrifying.
+- [00:17:51,340 - 00:17:52,159] You sure you want to do it?
+- [00:17:52,159 - 00:17:56,340] Yep. So, I said, all right.
+- [00:17:57,840 - 00:17:58,860] And I signed her up.
+- [00:18:00,860 - 00:18:03,980] Because I knew that most 14-year-old
+- [00:18:03,980 - 00:18:07,100] girls didn't even want to be
+- [00:18:07,100 - 00:18:08,919] in the same building with their father.
+- [00:18:09,419 - 00:18:10,980] And I wasn't going to pass this up.
+- [00:18:12,100 - 00:18:16,570] So, I knew that there comes
+- [00:18:16,570 - 00:18:21,040] a point for most new divers,
+- [00:18:21,040 - 00:18:23,690] you've learned how to work
+- [00:18:23,690 - 00:18:26,340] the board, you've gotten some altitude,
+- [00:18:26,340 - 00:18:29,160] you've learned a little bit of
+- [00:18:29,160 - 00:18:31,980] basic gymnastics moves, and then you flop.
+- [00:18:31,980 - 00:18:33,790] And I knew that she was
+- [00:18:33,790 - 00:18:35,600] going to get to that point.
+- [00:18:35,600 - 00:18:37,879] And sure enough, the coach realized
+- [00:18:37,879 - 00:18:40,159] she actually had some athletic ability,
+- [00:18:40,159 - 00:18:42,020] sent her up on the high board.
+- [00:18:42,100 - 00:18:44,550] I said, walk to the end of the
+- [00:18:44,550 - 00:18:47,000] board, turn around backwards so the water's behind you.
+- [00:18:47,000 - 00:18:48,159] All right.
+- [00:18:48,159 - 00:18:50,599] And I want you to pull your knees
+- [00:18:50,599 - 00:18:53,040] up close to your chest, both of them,
+- [00:18:53,659 - 00:18:55,159] and balance on the balls of your feet.
+- [00:18:56,100 - 00:18:56,899] Water's behind you.
+- [00:18:56,899 - 00:18:59,399] And then I want you to fall over backwards.
+- [00:19:00,139 - 00:19:01,629] And when I say, hut, I want
+- [00:19:01,629 - 00:19:03,120] you to come out of the tuck,
+- [00:19:03,379 - 00:19:05,679] look back for the water, and go in head first.
+- [00:19:08,120 - 00:19:09,860] Now, the second time you do that,
+- [00:19:09,860 - 00:19:11,600] you think, well, what was the big deal?
+- [00:19:11,600 - 00:19:12,100] That wasn't that.
+- [00:19:12,100 - 00:19:13,639] That wasn't that hard.
+- [00:19:13,639 - 00:19:15,599] The first time you do it, you
+- [00:19:15,599 - 00:19:17,560] think, oh, my God, I'm going to die.
+- [00:19:17,560 - 00:19:20,320] And the last thing I will see is
+- [00:19:20,320 - 00:19:23,080] the ceiling of this pool just before I die.
+- [00:19:23,080 - 00:19:26,600] And sure enough, she rolled over backwards.
+- [00:19:26,600 - 00:19:28,350] And when the coach said, hut,
+- [00:19:28,350 - 00:19:30,100] instead of looking back for the water,
+- [00:19:30,100 - 00:19:33,749] she panicked and did a complete
+- [00:19:33,749 - 00:19:37,399] back flop from the high board.
+- [00:19:37,399 - 00:19:39,529] And all five of us, the
+- [00:19:39,529 - 00:19:41,659] rest of us in the class,
+- [00:19:41,660 - 00:19:43,740] knew exactly what that felt like.
+- [00:19:45,360 - 00:19:46,830] She might have sunk three
+- [00:19:46,830 - 00:19:48,300] or four inches in the water.
+- [00:19:48,440 - 00:19:52,560] She just, tears, bright red back,
+- [00:19:52,560 - 00:19:56,680] came to the edge of the pool,
+- [00:19:57,120 - 00:19:58,980] and we all sort of comforted her for a minute.
+- [00:19:59,660 - 00:20:02,000] And then what about our workouts?
+- [00:20:02,320 - 00:20:03,960] Because I had explained to her in advance.
+- [00:20:03,960 - 00:20:06,460] I said, look, I'm not going to be
+- [00:20:06,460 - 00:20:08,960] one of those tiger dads or helicopter parents
+- [00:20:08,960 - 00:20:09,420] or whatever.
+- [00:20:09,520 - 00:20:10,280] You're going to do this
+- [00:20:10,280 - 00:20:11,040] because you want to do it.
+- [00:20:11,660 - 00:20:14,120] And PS, I need the coaching as well.
+- [00:20:14,120 - 00:20:15,330] So for that time that
+- [00:20:15,330 - 00:20:16,540] we were on the boards together,
+- [00:20:16,540 - 00:20:18,500] we're just fellow divers, OK?
+- [00:20:18,500 - 00:20:19,760] She said, deal.
+- [00:20:19,760 - 00:20:23,180] So I knew she was at a crossroads.
+- [00:20:23,180 - 00:20:25,140] She was either going to decide, this is ridiculous.
+- [00:20:25,140 - 00:20:26,440] I've made a terrible mistake.
+- [00:20:26,440 - 00:20:27,320] That really hurt.
+- [00:20:27,320 - 00:20:29,760] I'm never doing this again.
+- [00:20:29,760 - 00:20:33,380] Or she'd change her mind.
+- [00:20:33,380 - 00:20:35,780] So I continued diving.
+- [00:20:35,780 - 00:20:38,570] After a couple of minutes, I saw her sitting there
+- [00:20:38,570 - 00:20:41,360] looking up at the platform where the two high boards were.
+- [00:20:41,360 - 00:20:44,590] And she got up and she walked over
+- [00:20:44,590 - 00:20:47,820] to the stairs up to the high board.
+- [00:20:47,820 - 00:20:48,639] I said, what are you doing?
+- [00:20:48,639 - 00:20:49,719] She said, I'm going to do it again.
+- [00:20:49,719 - 00:20:50,600] I'm going to get it right.
+- [00:20:51,419 - 00:20:51,820] Yes.
+- [00:20:52,959 - 00:20:54,459] Her decision, right?
+- [00:20:55,399 - 00:20:58,820] And actually, we continued diving for a couple of years.
+- [00:20:58,820 - 00:21:01,659] So she got to high school and discovered boys.
+- [00:21:04,159 - 00:21:07,259] Well, entrepreneurship is a little bit like that
+- [00:21:07,259 - 00:21:10,360] in that you're trying something you've not done before.
+- [00:21:10,580 - 00:21:11,360] And it's scary.
+- [00:21:11,360 - 00:21:14,659] And when you flop, it hurts, particularly
+- [00:21:14,659 - 00:21:17,959] if you've led a life of high achievement.
+- [00:21:17,959 - 00:21:19,500] It's painful.
+- [00:21:19,500 - 00:21:21,159] It's not something you're accustomed to.
+- [00:21:21,159 - 00:21:22,939] And you come to that crossroads.
+- [00:21:22,939 - 00:21:24,699] Now what?
+- [00:21:24,699 - 00:21:26,409] And a fair number of people
+- [00:21:26,409 - 00:21:28,120] say, well, this was a terrible mistake.
+- [00:21:28,120 - 00:21:31,500] I'm never doing it again.
+- [00:21:31,500 - 00:21:34,060] And that's the majority.
+- [00:21:34,060 - 00:21:36,719] And for them, it's the right decision.
+- [00:21:36,719 - 00:21:39,419] A few of you who have wiring defects.
+- [00:21:39,419 - 00:21:40,419] I'm not going to go into that.
+- [00:21:40,419 - 00:21:40,580] I'm going to go into that.
+- [00:21:40,580 - 00:21:44,620] Say, you know, that didn't kill me.
+- [00:21:44,620 - 00:21:46,460] I'm going to do it again.
+- [00:21:46,460 - 00:21:49,860] So think about it.
+- [00:21:49,860 - 00:21:52,560] If you're an innovator, what comes with innovation?
+- [00:21:52,560 - 00:21:53,699] Well, you're doing something new.
+- [00:21:53,699 - 00:21:56,300] You may not have done it before.
+- [00:21:56,560 - 00:21:58,060] Maybe nobody's done it before.
+- [00:21:59,379 - 00:22:01,709] There's no established roadmap,
+- [00:22:01,709 - 00:22:04,040] which raises the alarming possibility
+- [00:22:04,040 - 00:22:05,760] that you might not know what you're doing.
+- [00:22:07,840 - 00:22:08,800] Totally forgivable.
+- [00:22:08,800 - 00:22:09,800] Totally understandable.
+- [00:22:09,800 - 00:22:09,820] But you're not doing it.
+- [00:22:09,820 - 00:22:09,919] You're not doing it.
+- [00:22:09,919 - 00:22:09,980] You're not doing it.
+- [00:22:09,980 - 00:22:10,040] You're not doing it.
+- [00:22:10,040 - 00:22:10,220] You're not doing it.
+- [00:22:10,220 - 00:22:10,280] You're not doing it.
+- [00:22:10,280 - 00:22:10,379] You're not doing it.
+- [00:22:10,379 - 00:22:10,439] You're not doing it.
+- [00:22:10,439 - 00:22:10,540] You're not doing it.
+- [00:22:10,540 - 00:22:10,580] You're not doing it.
+- [00:22:10,580 - 00:22:10,639] You're not doing it.
+- [00:22:10,639 - 00:22:11,720] You're not doing it.
+- [00:22:11,720 - 00:22:14,520] Many people find uncertainty to be stressful.
+- [00:22:14,520 - 00:22:19,280] And you have to make decisions, a lot of decisions.
+- [00:22:19,280 - 00:22:22,419] And some of those decisions are going to be wrong
+- [00:22:23,240 - 00:22:24,819] because you're moving fast,
+- [00:22:24,819 - 00:22:26,399] you don't have enough information,
+- [00:22:26,399 - 00:22:28,040] and you got to make a decision.
+- [00:22:28,659 - 00:22:29,720] Do we raise the price?
+- [00:22:30,080 - 00:22:32,280] Do we sign a contract with the supplier?
+- [00:22:32,659 - 00:22:33,960] Do I hire this guy?
+- [00:22:34,120 - 00:22:35,360] Do I fire this one?
+- [00:22:35,360 - 00:22:39,040] So you have to ask yourself, can you accept that?
+- [00:22:39,040 - 00:22:40,540] And you have to ask yourself, can you accept that?
+- [00:22:40,540 - 00:22:43,849] Many people find that one of
+- [00:22:43,849 - 00:22:47,159] the appeals of being an entrepreneur is
+- [00:22:47,159 - 00:22:48,260] that you're your own boss.
+- [00:22:48,780 - 00:22:52,820] Is that true for any of you?
+- [00:22:53,700 - 00:22:54,420] Thinking about it?
+- [00:22:54,420 - 00:22:55,440] Yeah? Okay.
+- [00:22:55,440 - 00:22:56,580] Well, here's the good news.
+- [00:22:57,100 - 00:22:58,440] Nobody's going to tell you what to do.
+- [00:22:59,560 - 00:23:00,460] Here's the bad news.
+- [00:23:01,159 - 00:23:02,280] Nobody's going to tell you what to do.
+- [00:23:04,280 - 00:23:05,740] Right? You'll be in a situation you
+- [00:23:05,740 - 00:23:07,200] think, I don't know what to do.
+- [00:23:07,200 - 00:23:12,540] So let me tell you a couple
+- [00:23:12,540 - 00:23:17,880] of stories that my friends that I interviewed
+- [00:23:17,880 - 00:23:20,140] for my book told me.
+- [00:23:20,640 - 00:23:22,360] These are their words, not mine.
+- [00:23:22,740 - 00:23:23,600] Here's Trevor.
+- [00:23:25,440 - 00:23:27,020] Trevor said, well, I became
+- [00:23:27,020 - 00:23:28,600] an entrepreneur when I was 26.
+- [00:23:28,600 - 00:23:30,960] I was on the front page of the newspaper.
+- [00:23:31,600 - 00:23:33,440] I had a brand new hot car.
+- [00:23:33,680 - 00:23:35,440] I had a smoking hot girlfriend.
+- [00:23:35,700 - 00:23:37,200] And I had the world by the horns.
+- [00:23:37,200 - 00:23:44,040] One year later, I'd lost everything.
+- [00:23:44,760 - 00:23:47,360] My car was repossessed, meaning
+- [00:23:47,360 - 00:23:49,960] somebody showed up and took it.
+- [00:23:50,800 - 00:23:52,720] My girlfriend dumped me, and I
+- [00:23:52,720 - 00:23:54,640] was living in my parents' basement,
+- [00:23:55,380 - 00:23:58,000] working as an assistant manager at Radio Shack.
+- [00:23:59,420 - 00:24:01,480] So, well, Trevor, how'd you feel about that?
+- [00:24:02,920 - 00:24:04,680] Took me a couple of years to get
+- [00:24:04,680 - 00:24:06,440] the taste of failure out of my mouth.
+- [00:24:06,440 - 00:24:09,940] And I still remember it vividly every day.
+- [00:24:09,940 - 00:24:11,500] I should point out, by the way,
+- [00:24:11,500 - 00:24:13,060] that Trevor is quite successful these days.
+- [00:24:15,000 - 00:24:18,250] But I decided, I hope you'll see the
+- [00:24:18,250 - 00:24:21,500] analogy to the crossroads decision my daughter made.
+- [00:24:22,040 - 00:24:25,740] Failure is not a fatal experience.
+- [00:24:25,740 - 00:24:27,460] It's a learning experience.
+- [00:24:28,600 - 00:24:31,300] You have to take care of yourself first,
+- [00:24:31,300 - 00:24:34,000] and you have to become a perpetual learner.
+- [00:24:34,000 - 00:24:36,000] And the most important truth is, you have to learn.
+- [00:24:36,000 - 00:24:38,250] And the most important trait for an
+- [00:24:38,250 - 00:24:40,500] entrepreneur to be successful is not intelligence.
+- [00:24:40,500 - 00:24:42,500] Please don't burst into tears.
+- [00:24:43,500 - 00:24:45,500] And it's not creativity.
+- [00:24:45,500 - 00:24:47,500] It's adaptability.
+- [00:24:50,000 - 00:24:52,000] Here's Laura.
+- [00:24:53,500 - 00:24:57,000] Laura is brassy, kind of profane, polarizing
+- [00:24:57,000 - 00:25:00,500] in that there are people who love her
+- [00:25:00,500 - 00:25:02,000] and people who don't want to
+- [00:25:02,000 - 00:25:03,500] be in the same room with her.
+- [00:25:04,194 - 00:25:04,594] أمنا
+- [00:25:05,314 - 00:25:08,644] first category. I think she's awesome. But she
+- [00:25:08,644 - 00:25:11,974] was managing two big businesses for a big company
+- [00:25:11,974 - 00:25:14,844] and had a big paycheck. She quit, walked
+- [00:25:14,844 - 00:25:17,714] away, went all in, joined an entrepreneurial outfit
+- [00:25:17,714 - 00:25:19,984] that Joe and I have done a bit of work
+- [00:25:19,984 - 00:25:22,254] with. And she knew when she walked in, she just concluded,
+- [00:25:22,394 - 00:25:26,124] I'm the smartest person in the room. At 1030
+- [00:25:26,124 - 00:25:29,854] in the morning on the first day, she retreated to
+- [00:25:29,854 - 00:25:32,983] the ladies room in tears, called her husband.
+- [00:25:32,983 - 00:25:36,113] I'd asked her some questions that she found
+- [00:25:36,113 - 00:25:39,443] distressing. Called her husband, I've made a terrible
+- [00:25:39,443 - 00:25:42,774] mistake. I can't do this. I'm not cut
+- [00:25:42,774 - 00:25:46,684] out for this. I have to get my job back.
+- [00:25:46,684 - 00:25:50,594] You have to come get me. Fortunately, her husband had been
+- [00:25:50,594 - 00:25:53,634] married to her for 19 years. He said, Laura, knock
+- [00:25:53,634 - 00:25:56,674] it off. This guy just saved you two years and a
+- [00:25:56,674 - 00:25:58,253] couple hundred thousand bucks by showing you that
+- [00:25:58,253 - 00:25:59,833] you were going to be a good husband.
+- [00:25:59,854 - 00:26:03,544] You're going down the wrong road. Go have another
+- [00:26:03,544 - 00:26:07,234] idea. Okay. Back in she went. She did have another
+- [00:26:07,234 - 00:26:10,004] idea. And it wasn't very good either. She spent a
+- [00:26:10,004 - 00:26:12,774] half a million bucks of her own money. And it was
+- [00:26:12,774 - 00:26:17,313] a bust. More tears, more heartache. So she had
+- [00:26:17,313 - 00:26:21,853] another idea. And in this situation, she ended up
+- [00:26:21,853 - 00:26:25,053] having a coffee one day with a guy that ran
+- [00:26:25,053 - 00:26:28,254] a huge real estate firm. He loved her idea. And
+- [00:26:28,254 - 00:26:29,834] big success.
+- [00:26:29,854 - 00:26:32,664] Pulled together a little side hustle, which
+- [00:26:32,664 - 00:26:35,474] blossomed. Signed a big contract with Hallmark,
+- [00:26:35,554 - 00:26:38,404] the people who make greeting cards. All
+- [00:26:38,404 - 00:26:41,254] of a sudden, everybody says, Laura, you're awesome.
+- [00:26:41,814 - 00:26:44,244] She's always awesome. It just took her a while to
+- [00:26:44,244 - 00:26:46,674] get to the answer. And she said, you know, Bob,
+- [00:26:46,714 - 00:26:49,174] when my second business was tanking, I
+- [00:26:49,174 - 00:26:51,634] remembered your story about the kidney failure product.
+- [00:26:51,634 - 00:26:54,074] You guys may remember that from our first night together.
+- [00:26:55,614 - 00:26:57,444] And I figured out my prospects
+- [00:26:57,444 - 00:26:59,274] are never going to use my product.
+- [00:26:59,854 - 00:27:05,394] Lesson, validate, validate, validate. Talk to your customers.
+- [00:27:05,394 - 00:27:10,934] If they don't want it, you can't sell it.
+- [00:27:11,974 - 00:27:15,164] And the lessons from talking to the real estate
+- [00:27:15,164 - 00:27:18,354] guy, she just buttonholed him one day. Their kids
+- [00:27:18,354 - 00:27:21,094] were on the same swim team. And she didn't
+- [00:27:21,094 - 00:27:23,834] even realize what a hot ticket he was. She said,
+- [00:27:23,874 - 00:27:25,844] would you have coffee with me and
+- [00:27:25,844 - 00:27:27,814] help me understand something? I've got this little
+- [00:27:27,814 - 00:27:28,824] business going and it's taking off and I don't know
+- [00:27:28,824 - 00:27:29,834] what to do. And I said, well, I'm going to
+- [00:27:29,854 - 00:27:32,134] buy it. I don't know why. And he looked at it and he
+- [00:27:32,134 - 00:27:34,414] said, I can tell you why I want it for all of my
+- [00:27:34,414 - 00:27:37,574] agents. And she said, okay. He said, no, I want
+- [00:27:37,574 - 00:27:40,734] it for all my agents. There are 11,000 of them.
+- [00:27:42,194 - 00:27:47,263] Whoa, who is this guy? Anyway, value of reaching out.
+- [00:27:47,263 - 00:27:52,333] And she had something where they won if she won.
+- [00:27:55,134 - 00:27:58,434] Okay. Reaction so far? Any takeaways?
+- [00:27:59,854 - 00:28:01,694] I think I should know from you. Some years
+- [00:28:01,694 - 00:28:03,534] ago, I figured out when I was interviewing people,
+- [00:28:03,613 - 00:28:06,253] if I found somebody I really liked and wanted to
+- [00:28:06,253 - 00:28:08,893] hire them, I would spend a fair amount of time
+- [00:28:08,893 - 00:28:11,733] explaining to them all the reasons why they should
+- [00:28:11,733 - 00:28:14,574] not take the job. It's going to be really hard.
+- [00:28:15,314 - 00:28:17,474] It's going to be really risky. We're probably
+- [00:28:17,474 - 00:28:19,634] going to fail. See that curb outside? You're
+- [00:28:19,634 - 00:28:22,414] likely to be sitting out on that curb
+- [00:28:22,414 - 00:28:25,194] unemployed before long. And if they started grinning,
+- [00:28:25,194 - 00:28:28,814] I knew I had the right person. Right?
+- [00:28:29,854 - 00:28:32,364] You're grinning. You may be ready for
+- [00:28:32,364 - 00:28:34,874] this. Here's a few of my thoughts.
+- [00:28:36,613 - 00:28:40,053] This is a lonely life. And it's hard to find
+- [00:28:40,053 - 00:28:43,494] anybody to talk to. And what I'm about to tell
+- [00:28:43,494 - 00:28:46,624] you is a parable, but it's based on a lot
+- [00:28:46,624 - 00:28:49,754] of stories from a lot of entrepreneurs that I have
+- [00:28:49,754 - 00:28:54,104] distilled. And forgive me, I'm going to
+- [00:28:54,104 - 00:28:58,454] use old school 50s type dynamics here.
+- [00:28:58,914 - 00:28:59,833] Jack and Jill.
+- [00:28:59,854 - 00:29:02,894] Jill were both gainfully
+- [00:29:02,894 - 00:29:05,934] employed, accomplished professionals. One day,
+- [00:29:06,053 - 00:29:09,073] they decided to start a family. They concluded that
+- [00:29:09,073 - 00:29:12,094] one of them should stay home and take care
+- [00:29:12,094 - 00:29:16,694] of the kids. Jack lost the coin toss and he
+- [00:29:16,694 - 00:29:21,294] stayed at work. Jill stayed home. Jack, after a while,
+- [00:29:21,294 - 00:29:24,913] quit his job at Amazon and joined
+- [00:29:24,913 - 00:29:28,533] a startup. In fact, started a business.
+- [00:29:29,854 - 00:29:32,534] After an offer, he ran away, leaving Chanel
+- [00:29:32,534 - 00:29:35,214] consults to a bank and got her Güang's
+- [00:29:35,214 - 00:29:36,254] P sleeves.
+- [00:29:36,254 - 00:29:37,294] producto?
+- [00:29:37,294 - 00:29:38,494] Aquí está.
+- [00:29:38,494 - 00:29:39,814] 變oupe sale cows bambam Touch.
+- [00:29:39,814 - 00:29:49,734] Pollack slices,
+- [00:29:49,734 - 00:29:52,534] only one vending machine.
+- [00:29:52,534 - 00:29:53,914] Zip it guys,
+- [00:29:53,914 - 00:29:57,894] you can get a wonderful僰
+- [00:29:57,894 - 00:29:58,914] by casket seventh.
+- [00:29:58,914 - 00:30:02,064] doing? And Jill at the moment had
+- [00:30:02,064 - 00:30:05,214] just changed two dirty diapers and mopped up
+- [00:30:05,214 - 00:30:08,214] strained carrots from the floor and she
+- [00:30:08,214 - 00:30:11,214] said, she exploded. She said, what do you
+- [00:30:11,214 - 00:30:12,654] mean you don't know what you're doing?
+- [00:30:12,654 - 00:30:14,094] Do you realize we've got a mortgage, we've
+- [00:30:14,094 - 00:30:16,184] got two kids, we need to be saving
+- [00:30:16,184 - 00:30:18,274] money and you took this crazy job and you're
+- [00:30:18,274 - 00:30:20,674] telling me you don't know what you're
+- [00:30:20,674 - 00:30:23,074] doing? Have you lost your mind? Which
+- [00:30:23,074 - 00:30:27,324] caused two thoughts for Jack. One was, oh
+- [00:30:27,324 - 00:30:31,574] dear, she's right. And the other was, that
+- [00:30:31,574 - 00:30:34,104] didn't work very well, I don't think I'm
+- [00:30:34,104 - 00:30:36,634] gonna do that anymore. Right? I think if I
+- [00:30:36,634 - 00:30:38,794] have self-doubt I'll just leave it at work.
+- [00:30:38,794 - 00:30:40,954] But the fact is if you're gonna go
+- [00:30:40,954 - 00:30:42,914] do this you're gonna be
+- [00:30:42,914 - 00:30:44,874] rejected constantly. Potential clients will tell
+- [00:30:44,874 - 00:30:46,934] you no, partners will tell you no,
+- [00:30:46,934 - 00:30:48,994] people that you want money from they'll tell
+- [00:30:48,994 - 00:30:51,034] you no, potential employees they'll say no
+- [00:30:51,034 - 00:30:53,074] I'm gonna take a job somewhere else.
+- [00:30:53,074 - 00:30:57,664] And it's hard to find a shoulder to cry
+- [00:30:57,664 - 00:31:02,254] on. And if you have lived a life where
+- [00:31:02,254 - 00:31:04,474] you have been accomplished and you've
+- [00:31:04,474 - 00:31:06,694] been rewarded for being smart and for
+- [00:31:06,694 - 00:31:11,113] your awesome work ethic, this, this
+- [00:31:11,113 - 00:31:15,533] will be difficult. And it is unfortunately
+- [00:31:15,533 - 00:31:19,023] true that not everyone has your
+- [00:31:19,023 - 00:31:22,514] best interests at heart. My friend Glennppen
+- [00:31:22,514 - 00:31:22,774] 海克
+- [00:31:22,774 - 00:31:23,014] Group of Platforms
+- [00:31:23,014 - 00:31:26,514] built a good business. Over six years, he
+- [00:31:26,514 - 00:31:30,014] worked very hard. One summer, his wife's father said,
+- [00:31:30,074 - 00:31:31,963] you know, I've come into some money, and
+- [00:31:31,963 - 00:31:33,853] I'm going to take the whole family to Europe,
+- [00:31:33,853 - 00:31:36,723] and I'm paying all the expenses, two weeks vacation.
+- [00:31:36,723 - 00:31:39,594] He said, I can't go. I have to stay
+- [00:31:39,594 - 00:31:45,654] home and work. He raised capital. He
+- [00:31:45,654 - 00:31:51,714] secured customers. His business was growing nicely.
+- [00:31:51,714 - 00:31:59,614] And then his investors stole the company from
+- [00:31:59,614 - 00:32:07,514] him. He found that to be difficult. So, sidebar,
+- [00:32:07,874 - 00:32:12,264] two lessons. Don't raise money from the
+- [00:32:12,264 - 00:32:16,654] wrong people. And protect your intellectual property.
+- [00:32:17,934 - 00:32:19,814] In other words, if you've got
+- [00:32:19,814 - 00:32:21,694] a magic algorithm or secret business formula,
+- [00:32:22,233 - 00:32:26,613] protect it. So, the risk of pushing
+- [00:32:26,613 - 00:32:30,993] a few more of you off the cliff.
+- [00:32:32,154 - 00:32:35,124] Meet your constant companions. Anxiety,
+- [00:32:35,124 - 00:32:38,094] self-doubt, imposter syndrome. Let's unpack
+- [00:32:38,094 - 00:32:40,024] that a little bit. If you're running a company, there
+- [00:32:40,024 - 00:32:41,954] are a lot of people that are counting on you.
+- [00:32:42,514 - 00:32:45,604] Your family, your employees, maybe even
+- [00:32:45,604 - 00:32:48,694] your customers. And when you flop,
+- [00:32:50,374 - 00:32:51,034] you go home one day, and you're going to be in a
+- [00:32:51,034 - 00:32:51,694] lot of trouble. And you're going to be in a lot of trouble.
+- [00:32:51,714 - 00:32:56,623] So, if you've got a magic algorithm, you're
+- [00:32:56,623 - 00:33:01,533] holding on to it for courses and years.
+- [00:33:01,533 - 00:33:02,334] Thank you.
+- [00:33:03,353 - 00:33:05,874] And the guidance from faith, sickness,oure they will trap.
+- [00:33:06,033 - 00:33:08,334] It also tells us that we scorn people.
+- [00:33:08,514 - 00:33:11,194] And even Jellyfish, thank you, friend failure-
+- [00:33:11,434 - 00:33:12,954] Many que ensuite desparate feelings.
+- [00:33:13,254 - 00:33:14,993] You met your destiny yourself.
+- [00:33:15,233 - 00:33:16,983] And at the end of the day, you're in a
+- [00:33:16,983 - 00:33:18,733] life of need, but then you're used to community and
+- [00:33:19,033 - 00:33:20,233] evaluation against you are the problem.
+- [00:33:20,233 - 00:33:21,113] However, guys, it enjoyed the culture.
+- [00:33:21,114 - 00:33:23,594] person for the job. You have been presenting
+- [00:33:23,594 - 00:33:26,074] yourself as the capable captain of the ship,
+- [00:33:26,654 - 00:33:30,104] but secretly you worry maybe you're not.
+- [00:33:30,104 - 00:33:33,554] Maybe you're a fraud. Maybe you're a poser.
+- [00:33:34,394 - 00:33:41,894] These are disturbing thoughts. So is there hope for us?
+- [00:33:44,514 - 00:33:47,434] Well, accept up front that normal people
+- [00:33:47,434 - 00:33:50,354] can't help you because you're not normal.
+- [00:33:51,114 - 00:33:54,753] Right? I mean, serial
+- [00:33:54,753 - 00:33:58,393] entrepreneurs are just wired differently.
+- [00:33:59,793 - 00:34:02,773] If you were normal, you'd work for Amazon.
+- [00:34:02,773 - 00:34:05,753] Your normal friends don't understand why you're not
+- [00:34:05,753 - 00:34:08,443] working for Amazon. You have made life choices that
+- [00:34:08,443 - 00:34:11,133] they think are crazy. And if you come to
+- [00:34:11,133 - 00:34:13,613] them wanting to boohoo a little bit
+- [00:34:13,613 - 00:34:16,094] because things aren't going well, they think, well,
+- [00:34:16,133 - 00:34:18,073] of course they're not going well. You're a dumbass
+- [00:34:18,073 - 00:34:20,013] for even doing this. You should be doing this other
+- [00:34:20,013 - 00:34:20,553] thing. We have nice things going on. You're a
+- [00:34:20,553 - 00:34:21,094] dumbass for even doing this. You should be doing
+- [00:34:21,094 - 00:34:21,344] this other thing. You're a dumbass for even
+- [00:34:21,344 - 00:34:21,594] doing this. You should be doing this other thing.
+- [00:34:21,594 - 00:34:21,974] You're a dumbass for even doing this. You should be
+- [00:34:21,974 - 00:34:22,353] doing this other thing. You've got to be able to
+- [00:34:22,353 - 00:34:26,603] have a stable income. So they can't counsel you.
+- [00:34:26,603 - 00:34:30,853] So the answer? Find a community of people who are
+- [00:34:30,853 - 00:34:34,954] as crazy as you are, which you sort of brought
+- [00:34:34,954 - 00:34:39,054] up and which we probably need to do more with.
+- [00:34:40,214 - 00:34:44,024] But Joe and I, as mentioned, spent a decade
+- [00:34:44,024 - 00:34:47,833] or more working with a group that works with high
+- [00:34:47,833 - 00:34:49,384] growth entrepreneurs in the Midwest.
+- [00:34:49,384 - 00:34:50,934] And over and over again,
+- [00:34:51,094 - 00:34:54,704] they would meet in Kansas City or Wichita
+- [00:34:54,704 - 00:34:58,314] or whatever and come into the room and say,
+- [00:34:58,554 - 00:35:01,454] I thought I was the only crazy person out there.
+- [00:35:01,454 - 00:35:04,354] I'm in a room full of people like me. These are
+- [00:35:04,354 - 00:35:07,964] my peeps. And in short order, like half hour,
+- [00:35:07,964 - 00:35:11,574] they'd all be sitting at the bar swapping all
+- [00:35:11,574 - 00:35:15,494] kinds of details about their life stories because
+- [00:35:15,494 - 00:35:19,414] they were kindred spirits. So find a group like
+- [00:35:19,414 - 00:35:23,034] that. We may be able to help. Seek their
+- [00:35:23,034 - 00:35:26,654] counsel. Help them as well. Because there will be times
+- [00:35:26,654 - 00:35:32,224] when that support network is a lifeline. Shifting
+- [00:35:32,224 - 00:35:37,794] gears for a second, I think this is really
+- [00:35:37,794 - 00:35:43,204] important. There's this word, pivot, that gets batted
+- [00:35:43,204 - 00:35:48,614] around as a synonym for, I didn't know
+- [00:35:48,614 - 00:35:49,394] what I was doing.
+- [00:35:49,414 - 00:35:51,174] and so I changed.
+- [00:35:51,174 - 00:35:56,614] And that's actually OK, because scientists
+- [00:35:56,614 - 00:36:00,234] articulate a hypothesis and test it.
+- [00:36:00,234 - 00:36:03,174] And if the hypothesis proves to be wrong,
+- [00:36:03,174 - 00:36:07,174] they say, well, time for the next hypothesis.
+- [00:36:07,174 - 00:36:09,544] If your business fails, in a
+- [00:36:09,544 - 00:36:11,914] lot of places in the US,
+- [00:36:11,914 - 00:36:15,574] the feeling in the community is if your business failed,
+- [00:36:15,574 - 00:36:16,534] then you're a failure.
+- [00:36:16,534 - 00:36:23,094] Fortunately, in places like Boston and a few places
+- [00:36:23,094 - 00:36:26,594] in the West Coast, you'll talk to people,
+- [00:36:26,594 - 00:36:29,254] and you'll, after a while, say, yeah, my business flopped.
+- [00:36:29,254 - 00:36:32,014] And they say, ah, dude, mine failed three times.
+- [00:36:32,014 - 00:36:34,654] Welcome.
+- [00:36:34,654 - 00:36:40,114] Keep going, because you are testing hypotheses.
+- [00:36:40,114 - 00:36:43,454] This is a re-engineering of your mindset here.
+- [00:36:43,454 - 00:36:45,954] You are testing hypotheses, and what you did
+- [00:36:45,954 - 00:36:46,454] was found wrong.
+- [00:36:46,454 - 00:36:49,214] You found one that didn't work.
+- [00:36:49,214 - 00:36:51,794] Time for a new hypothesis.
+- [00:36:51,794 - 00:36:54,074] To use a different analogy,
+- [00:36:54,074 - 00:36:56,354] you may be a talented jockey.
+- [00:36:56,354 - 00:36:59,934] You may have just picked the wrong horse.
+- [00:36:59,934 - 00:37:01,454] Shoot it.
+- [00:37:01,454 - 00:37:02,394] Find a new horse.
+- [00:37:07,554 - 00:37:09,534] One thing you can do, and I
+- [00:37:09,534 - 00:37:11,514] have found this to be a lifesaver,
+- [00:37:11,514 - 00:37:15,194] is get a business advisory board.
+- [00:37:15,194 - 00:37:16,454] These are experts.
+- [00:37:16,454 - 00:37:18,954] They're experts who are not just experts.
+- [00:37:18,954 - 00:37:21,314] They're experts who want you to succeed.
+- [00:37:21,314 - 00:37:24,594] They're helping you for mainly, well, partly because they
+- [00:37:24,594 - 00:37:29,274] like you, you hope, and mostly because they
+- [00:37:29,274 - 00:37:30,934] want to see you succeed.
+- [00:37:30,934 - 00:37:33,654] This is not the same as a board of directors.
+- [00:37:33,654 - 00:37:36,094] A board of directors, as you no doubt
+- [00:37:36,094 - 00:37:37,444] have learned in the course of
+- [00:37:37,444 - 00:37:38,794] the past week and a half,
+- [00:37:38,794 - 00:37:41,214] they represent the shareholders.
+- [00:37:41,214 - 00:37:43,173] And they are not only
+- [00:37:43,173 - 00:37:45,133] empowered to fire you, but obligated
+- [00:37:45,133 - 00:37:46,253] to fire you.
+- [00:37:46,254 - 00:37:48,004] That's not usually a good
+- [00:37:48,004 - 00:37:49,754] place to stand up and say,
+- [00:37:49,754 - 00:37:52,014] I haven't the slightest idea of what I'm doing.
+- [00:37:55,294 - 00:37:57,494] Business advisory board does not have
+- [00:37:57,494 - 00:38:00,154] those fiduciary responsibilities.
+- [00:38:00,154 - 00:38:02,494] It's a great place to stand up and say,
+- [00:38:02,494 - 00:38:05,674] I have no clue what to do next.
+- [00:38:05,674 - 00:38:06,714] Just a quick story.
+- [00:38:06,714 - 00:38:09,314] At one point, I, along with
+- [00:38:09,314 - 00:38:11,914] one of my genius scientist friends,
+- [00:38:11,914 - 00:38:14,254] had invented a 2 and 1 half ounce drink.
+- [00:38:14,254 - 00:38:15,254] They were a little bit expensive.
+- [00:38:15,254 - 00:38:16,254] They were a little bit expensive.
+- [00:38:16,254 - 00:38:17,494] They needed to be a little bit more expensive.
+- [00:38:17,494 - 00:38:18,874] They were a little bit cheaper.
+- [00:38:18,874 - 00:38:20,014] They didn't use the same drink.
+- [00:38:20,014 - 00:38:21,434] They were just a little bit more expensive.
+- [00:38:21,434 - 00:38:22,354] And I said, well, how
+- [00:38:22,354 - 00:38:23,274] do you find the right drink?
+- [00:38:23,274 - 00:38:25,154] Well, the question is, is it not the same drink
+- [00:38:25,154 - 00:38:25,854] that you drink every day?
+- [00:38:25,854 - 00:38:27,614] Is it the same drink that you drink every day?
+- [00:38:27,614 - 00:38:29,714] Is it the same drink that you drink every day?
+- [00:38:29,714 - 00:38:31,154] Is it the same drink that you drink every night?
+- [00:38:31,154 - 00:38:32,834] And he said, no, it's not the same drink.
+- [00:38:32,834 - 00:38:34,594] It's the same drink that you drink every day.
+- [00:38:34,594 - 00:38:37,134] Well, I don't know if I have the slightest idea
+- [00:38:37,134 - 00:38:39,174] how to find a manufacturer who
+- [00:38:39,174 - 00:38:41,214] can bottle a beverage like this,
+- [00:38:41,214 - 00:38:43,214] in quantities less than 2
+- [00:38:43,214 - 00:38:45,214] million bottles, which I can't afford.
+- [00:38:45,214 - 00:38:48,794] Two days later, problem solved.
+- [00:38:48,794 - 00:38:50,903] So it really helps if you just assemble some
+- [00:38:50,903 - 00:38:53,013] people who think, you might have a big idea
+- [00:38:53,013 - 00:38:56,454] and I know something about this.
+- [00:38:56,454 - 00:39:01,174] I might be able in this narrow arena help you.
+- [00:39:01,174 - 00:39:03,854] Interestingly, about a year into it I realized
+- [00:39:03,854 - 00:39:06,534] these people have helped me over and over
+- [00:39:06,534 - 00:39:08,334] again and I've never done a thing for them.
+- [00:39:08,334 - 00:39:09,334] I feel guilty.
+- [00:39:09,334 - 00:39:10,564] I can't give them any
+- [00:39:10,564 - 00:39:11,794] money, I don't have any money.
+- [00:39:11,794 - 00:39:13,414] I should give them equity.
+- [00:39:13,414 - 00:39:15,434] Some ownership in the company.
+- [00:39:15,434 - 00:39:18,414] And I didn't know how much to give them.
+- [00:39:18,414 - 00:39:21,254] So I asked them.
+- [00:39:21,254 - 00:39:23,314] I said I'm thinking of giving you guys some equity.
+- [00:39:23,314 - 00:39:25,704] I feel obligated to do that and I'm grateful
+- [00:39:25,704 - 00:39:28,094] for your help and my business would have died
+- [00:39:28,094 - 00:39:30,194] six months ago without your help.
+- [00:39:30,194 - 00:39:31,654] And I don't know how much to give you.
+- [00:39:31,654 - 00:39:36,334] You're my advisors, advise me.
+- [00:39:36,334 - 00:39:37,634] I trusted them obviously.
+- [00:39:37,634 - 00:39:40,314] I said I was thinking of giving
+- [00:39:40,314 - 00:39:42,994] you one point a piece, one percent.
+- [00:39:42,994 - 00:39:43,394] And they said, no.
+- [00:39:43,394 - 00:39:47,274] That's too much.
+- [00:39:47,274 - 00:39:48,874] Give us a half a point a piece.
+- [00:39:48,874 - 00:39:50,074] That's more appropriate.
+- [00:39:50,074 - 00:39:53,094] And when you show your capitalization
+- [00:39:53,094 - 00:39:56,114] table to prospective investors, they will acknowledge
+- [00:39:56,114 - 00:39:58,004] that you made a sophisticated decision
+- [00:39:58,004 - 00:39:59,894] and it will help you raise capital.
+- [00:39:59,894 - 00:40:05,034] I thought, I love these guys.
+- [00:40:05,034 - 00:40:09,104] Attitudes that will help, what I found to
+- [00:40:09,104 - 00:40:13,174] be the right blend is if they listen more
+- [00:40:13,174 - 00:40:14,694] than they talk.
+- [00:40:14,694 - 00:40:16,524] If their attitude is I want to show you that
+- [00:40:16,524 - 00:40:18,354] I'm the smartest guy in the room and I know
+- [00:40:18,354 - 00:40:24,834] everything, that's not going to be productive.
+- [00:40:24,834 - 00:40:27,224] Most of them you want to be cheerleaders so
+- [00:40:27,224 - 00:40:29,614] that you can stand in front of them and say
+- [00:40:29,614 - 00:40:31,454] I fell down and they
+- [00:40:31,454 - 00:40:33,294] say don't worry, you'll get up.
+- [00:40:33,294 - 00:40:35,684] But it really helps if you have one or
+- [00:40:35,684 - 00:40:38,074] two who will give you ten reasons why your idea
+- [00:40:38,074 - 00:40:41,054] or the steps you're going to take won't work.
+- [00:40:41,054 - 00:40:43,054] I had one of those guys.
+- [00:40:43,054 - 00:40:45,494] He was pretty sophisticated.
+- [00:40:45,494 - 00:40:46,494] Worked at Nestle.
+- [00:40:46,494 - 00:40:48,144] Had seen all manner of
+- [00:40:48,144 - 00:40:49,794] ideas, most of which didn't work.
+- [00:40:49,794 - 00:40:53,534] And he had a long list of
+- [00:40:53,534 - 00:40:57,274] sensible, validated reasons why things wouldn't work.
+- [00:40:57,274 - 00:40:59,854] And he'd throw out ten of these things.
+- [00:40:59,854 - 00:41:01,874] And I think I got you here, here, here.
+- [00:41:01,874 - 00:41:03,974] I had seven of them covered.
+- [00:41:03,974 - 00:41:06,214] Three of them I would think,
+- [00:41:06,214 - 00:41:08,454] oh, God, I didn't think of that.
+- [00:41:08,454 - 00:41:12,834] So I find that to be a useful balance.
+- [00:41:12,834 - 00:41:15,274] Are you guys okay with this question?
+- [00:41:15,274 - 00:41:16,274] Yes, sir.
+- [00:41:16,274 - 00:41:20,774] Not to dive too much into the details
+- [00:41:20,774 - 00:41:25,274] of the advisory board, but how would you recommend
+- [00:41:25,274 - 00:41:27,774] we structure or add some sort of
+- [00:41:27,774 - 00:41:30,274] framework or structure behind their role responsibilities?
+- [00:41:30,274 - 00:41:33,274] Does that look like an option?
+- [00:41:33,274 - 00:41:36,774] Is there an issue that says, hey, we
+- [00:41:36,774 - 00:41:40,274] want someone to sit down, talk about business challenges,
+- [00:41:40,274 - 00:41:41,274] growth, solutions, all those sorts of things?
+- [00:41:41,274 - 00:41:42,274] Yeah.
+- [00:41:42,834 - 00:41:45,513] I think that's a good question.
+- [00:41:45,513 - 00:41:49,474] Thank you for the question.
+- [00:41:49,474 - 00:41:55,054] I don't have what is considered best practices.
+- [00:41:55,054 - 00:41:56,253] I don't know.
+- [00:41:56,253 - 00:41:58,953] What I did with every time I did one
+- [00:41:58,953 - 00:42:01,654] of these, because I knew these people and I trusted
+- [00:42:01,654 - 00:42:03,874] them, I would simply have a
+- [00:42:03,874 - 00:42:06,094] call with them and we'd chat.
+- [00:42:06,094 - 00:42:08,184] And I would say, look, I don't want
+- [00:42:08,184 - 00:42:10,274] to burden you with a lot of stuff.
+- [00:42:10,274 - 00:42:11,274] What I want is to have a conversation.
+- [00:42:11,274 - 00:42:11,774] I don't want to burden
+- [00:42:11,774 - 00:42:12,274] you with a lot of stuff.
+- [00:42:12,274 - 00:42:15,524] I want to be able to call you every now
+- [00:42:15,524 - 00:42:18,774] and then and something that is your area of expertise
+- [00:42:18,774 - 00:42:20,214] and not mine.
+- [00:42:20,214 - 00:42:23,684] And we'll probably have a meeting
+- [00:42:23,684 - 00:42:27,154] for two hours every other month.
+- [00:42:27,154 - 00:42:31,184] And my goal is we take what you know and
+- [00:42:31,184 - 00:42:35,214] what the other advisors know and add it to the
+- [00:42:35,214 - 00:42:37,744] little bit that I know
+- [00:42:37,744 - 00:42:40,274] and we'll build a great company.
+- [00:42:40,274 - 00:42:42,154] And they all said, okay.
+- [00:42:42,154 - 00:42:45,034] I've been loving what you're doing.
+- [00:42:45,034 - 00:42:46,034] This idea is cool.
+- [00:42:46,034 - 00:42:47,034] I'm in.
+- [00:42:47,034 - 00:42:49,753] It was that straightforward.
+- [00:42:49,753 - 00:42:51,433] And the only time we put together a document
+- [00:42:51,433 - 00:42:53,114] was when I finally figured out I ought to
+- [00:42:53,114 - 00:42:55,533] give them some equity and we had to put
+- [00:42:55,533 - 00:42:57,953] together something that said here are the options and
+- [00:42:57,953 - 00:43:00,243] the vesting processes and you should file
+- [00:43:00,243 - 00:43:02,534] an 83 election and blah, blah, blah.
+- [00:43:02,534 - 00:43:10,034] But prior to that, it was all a handshake.
+- [00:43:10,034 - 00:43:11,034] Anybody else?
+- [00:43:11,034 - 00:43:12,034] Questions?
+- [00:43:12,034 - 00:43:14,914] We have a question right behind you, Jim.
+- [00:43:14,914 - 00:43:15,914] Yes, sir.
+- [00:43:15,914 - 00:43:19,414] From a personal standpoint, would you say
+- [00:43:19,414 - 00:43:22,914] that the threshold for having a chance to
+- [00:43:22,914 - 00:43:26,914] succeed from a startup going from zero to one
+- [00:43:26,914 - 00:43:30,914] is that you have to view the idea as something
+- [00:43:30,914 - 00:43:35,574] that you have to attempt?
+- [00:43:35,574 - 00:43:38,744] Are you asking me if the success
+- [00:43:38,744 - 00:43:41,914] criterion is I get so fired up?
+- [00:43:41,914 - 00:43:43,794] I think I just have to do this?
+- [00:43:43,794 - 00:43:47,104] Yeah, it's not like the
+- [00:43:47,104 - 00:43:50,414] threshold of getting into that chance.
+- [00:43:50,414 - 00:43:56,024] I think that is a double-edged sword in
+- [00:43:56,024 - 00:44:01,634] that it's the right level of passion will cause
+- [00:44:01,634 - 00:44:03,933] you to think I might work on Saturday
+- [00:44:03,933 - 00:44:06,233] and every now and then and get something done
+- [00:44:06,233 - 00:44:07,813] and I'm going to get back
+- [00:44:07,813 - 00:44:09,394] up after I've been knocked down.
+- [00:44:09,394 - 00:44:11,794] Too much passion blinds you to the obvious.
+- [00:44:11,794 - 00:44:16,444] And I think if you meter into that, yeah, but
+- [00:44:16,444 - 00:44:21,094] I also got to make a living and I got
+- [00:44:21,094 - 00:44:23,794] to deal with my family and support them.
+- [00:44:23,794 - 00:44:26,174] And on a good day, I actually like my children.
+- [00:44:26,174 - 00:44:28,884] I wouldn't mind spending some time
+- [00:44:28,884 - 00:44:31,594] with them and having some balance.
+- [00:44:31,594 - 00:44:36,194] So I think Tuesday night when we
+- [00:44:36,194 - 00:44:40,794] talked about pitching, I said deploy passion wisely.
+- [00:44:40,794 - 00:44:41,794] Okay.
+- [00:44:41,794 - 00:44:43,944] Because if your pitch is so passionate that
+- [00:44:43,944 - 00:44:46,094] they fear you're just going to have a seizure
+- [00:44:46,094 - 00:44:50,274] or something, then you're unlikely to attract investment.
+- [00:44:50,274 - 00:44:52,334] And I think similarly when you're looking
+- [00:44:52,334 - 00:44:54,394] to start something, if it really gets you
+- [00:44:54,394 - 00:44:56,904] fired up and you think, God, I would
+- [00:44:56,904 - 00:44:59,414] love to do this, that's a really good sign.
+- [00:44:59,414 - 00:45:02,054] If you think, well, I'm just not going to
+- [00:45:02,054 - 00:45:04,694] eat or sleep or shower or see anybody, that's
+- [00:45:04,694 - 00:45:07,654] not a good sign.
+- [00:45:07,654 - 00:45:08,654] Reasonable answer?
+- [00:45:08,654 - 00:45:09,654] Yes, thank you.
+- [00:45:09,654 - 00:45:10,654] You're welcome.
+- [00:45:10,654 - 00:45:11,654] Okay.
+- [00:45:11,654 - 00:45:12,654] Oh, backed up.
+- [00:45:12,654 - 00:45:13,654] I'm sorry.
+- [00:45:13,654 - 00:45:19,154] There is something that I left off here.
+- [00:45:19,154 - 00:45:21,693] There are resources around.
+- [00:45:21,693 - 00:45:23,154] Harvard's got the iLab.
+- [00:45:23,154 - 00:45:26,414] MIT's got Venture Mentoring Service.
+- [00:45:26,414 - 00:45:29,634] Most of the schools have discovered that
+- [00:45:29,634 - 00:45:32,854] there is an appetite for entrepreneurship amongst
+- [00:45:32,854 - 00:45:36,614] their constituency and they have responded.
+- [00:45:36,614 - 00:45:39,654] So find those resources and avail yourself of them.
+- [00:45:39,654 - 00:45:40,654] Okay.
+- [00:45:41,654 - 00:45:42,654] Thank you.
+- [00:45:42,654 - 00:45:43,654] Thank you.
+- [00:45:43,654 - 00:45:45,844] And this is sort of an elaboration on the
+- [00:45:45,844 - 00:45:48,034] question that you just asked me, but an awful
+- [00:45:48,034 - 00:45:50,724] lot of entrepreneurs also think that they
+- [00:45:50,724 - 00:45:53,414] really can't do anything else 24-7 but work
+- [00:45:53,414 - 00:45:54,854] on their business.
+- [00:45:54,854 - 00:45:58,063] And I think that's a really bad
+- [00:45:58,063 - 00:46:01,273] idea because you have to make good decisions.
+- [00:46:01,273 - 00:46:03,053] And it doesn't matter how smart you
+- [00:46:03,053 - 00:46:04,834] are, how strong your work ethic is.
+- [00:46:04,834 - 00:46:06,744] There are 168 hours in the
+- [00:46:06,744 - 00:46:08,654] week no matter who you are.
+- [00:46:08,654 - 00:46:09,173] And if you spend every one of them on
+- [00:46:09,173 - 00:46:09,693] your work ethic, you're going to get to work.
+- [00:46:09,693 - 00:46:10,693] That's the best way to do it.
+- [00:46:10,693 - 00:46:11,493] And I think that's a really good idea.
+- [00:46:11,493 - 00:46:11,614] Dr. P. Smith?
+- [00:46:11,654 - 00:46:14,904] working on your business, there will come
+- [00:46:14,904 - 00:46:18,154] a point when you will self-destruct. So
+- [00:46:18,154 - 00:46:21,594] not to sound like your grandmother, but
+- [00:46:21,594 - 00:46:25,034] there are some obvious steps which are
+- [00:46:25,034 - 00:46:28,393] frequently ignored. Enough with the carryout
+- [00:46:28,393 - 00:46:31,753] pizzas. Eat a decent meal now
+- [00:46:31,753 - 00:46:34,923] and then. Get some exercise. It's
+- [00:46:34,923 - 00:46:38,094] incredible for helping you manage stress.
+- [00:46:38,094 - 00:46:40,704] There's a lot of literature out
+- [00:46:40,704 - 00:46:43,314] there that says a five-minute walk has
+- [00:46:43,314 - 00:46:47,003] extraordinary benefits in reducing your stress
+- [00:46:47,003 - 00:46:50,693] levels. And because I was in the
+- [00:46:50,693 - 00:46:53,403] sleep business for a while, I ran across
+- [00:46:53,403 - 00:46:56,114] a bunch of statistics to the effect that
+- [00:46:56,114 - 00:47:00,094] sleeping only five hours a night
+- [00:47:00,094 - 00:47:04,074] causes the same impairment to your cognitive
+- [00:47:04,074 - 00:47:06,854] abilities as three drinks.
+- [00:47:08,094 - 00:47:12,594] So you're operating probably beyond the
+- [00:47:12,594 - 00:47:17,094] legal level for intoxication most of the
+- [00:47:17,094 - 00:47:20,374] time. Ask yourself, are you making the
+- [00:47:20,374 - 00:47:23,654] best decisions for you and your company?
+- [00:47:23,654 - 00:47:27,504] Get some sleep. Go home. Take care of
+- [00:47:27,504 - 00:47:31,354] your loved ones because they're going to be
+- [00:47:31,354 - 00:47:34,164] important to you long after
+- [00:47:34,164 - 00:47:36,974] your business has failed or succeeded.
+- [00:47:38,094 - 00:47:41,704] There was one year when I missed Halloween
+- [00:47:41,704 - 00:47:45,314] with my kids who wanted to walk around in
+- [00:47:45,314 - 00:47:48,804] costumes and have me take them with them.
+- [00:47:48,804 - 00:47:52,294] And they remembered that I missed their Halloween
+- [00:47:52,294 - 00:47:55,314] long after I remembered why I missed
+- [00:47:55,314 - 00:47:58,334] their Halloween. And when that happened, I said,
+- [00:47:58,334 - 00:48:02,214] OK, new rules. I'm not doing that anymore.
+- [00:48:02,214 - 00:48:06,094] Right? Business issues will be there in the
+- [00:48:06,094 - 00:48:07,094] morning.
+- [00:48:07,094 - 00:48:10,284] recharge your batteries. This is hard. It drains
+- [00:48:10,284 - 00:48:13,474] you. Do stuff you love. Some of you
+- [00:48:13,474 - 00:48:16,174] run, some of you climb rocks, some
+- [00:48:16,174 - 00:48:18,874] of you are artistically gifted, some of us
+- [00:48:18,874 - 00:48:21,293] blunder our way into playing music.
+- [00:48:21,293 - 00:48:23,713] Whatever it is, do stuff that recharges
+- [00:48:23,713 - 00:48:28,573] your battery. Your business will be better off
+- [00:48:28,573 - 00:48:33,434] and so will you. I had a party
+- [00:48:33,434 - 00:48:37,034] when I launched my book. Picked up a
+- [00:48:37,034 - 00:48:40,634] lovely place on the seaport. I had a
+- [00:48:40,634 - 00:48:43,734] whole bunch of lunatic entrepreneur
+- [00:48:43,734 - 00:48:46,834] friends from Kansas and Nebraska and
+- [00:48:46,834 - 00:48:49,403] Oklahoma who flew in on their own dime
+- [00:48:49,403 - 00:48:51,973] to come and a bunch of people here in
+- [00:48:51,973 - 00:48:54,463] Boston to come. It was kind
+- [00:48:54,463 - 00:48:56,953] of exciting. Writing a book was extraordinarily
+- [00:48:56,953 - 00:48:59,623] harder than I expected it to be. After a
+- [00:48:59,623 - 00:49:02,293] lot of false starts, I had ended up with
+- [00:49:02,293 - 00:49:03,374] something I was kind of proud of.
+- [00:49:03,374 - 00:49:03,394] I was kind of proud of my book. I was
+- [00:49:03,394 - 00:49:03,414] kind of proud of my book. I was kind of
+- [00:49:03,414 - 00:49:05,473] proud of it. I thought it was kind
+- [00:49:05,473 - 00:49:07,533] of cool to have a launch party. I didn't
+- [00:49:07,533 - 00:49:09,413] want it just to be cocktails and hors
+- [00:49:09,413 - 00:49:11,294] d'oeuvres. I wanted to have a little bit
+- [00:49:11,294 - 00:49:13,564] of a panel discussion talking a
+- [00:49:13,564 - 00:49:15,834] little bit about entrepreneurship. So I
+- [00:49:15,834 - 00:49:19,153] snagged three of the entrepreneurs and I
+- [00:49:19,153 - 00:49:22,473] had them sit at little stools up front.
+- [00:49:22,473 - 00:49:25,923] Each of them had a microphone and I
+- [00:49:25,923 - 00:49:29,374] asked them a question. I said, you're in a
+- [00:49:29,374 - 00:49:31,364] room full of people who either
+- [00:49:31,364 - 00:49:33,354] are entrepreneurs or are thinking of being
+- [00:49:33,354 - 00:49:37,134] entrepreneurs. What's the most important piece
+- [00:49:37,134 - 00:49:40,914] of advice you could give them? Just
+- [00:49:40,914 - 00:49:46,693] like that, with no coordination whatsoever, all
+- [00:49:46,693 - 00:49:52,473] three of them said, don't do it. Whoa!
+- [00:49:52,473 - 00:49:54,993] This sort of underscores the lawyer's maxim,
+- [00:49:54,993 - 00:49:57,514] don't ask a question you don't know the
+- [00:49:57,514 - 00:50:00,404] answer to. I thought, oops.
+- [00:50:00,404 - 00:50:03,294] But it did raise two questions.
+- [00:50:03,294 - 00:50:06,494] Why on earth would you say that? And
+- [00:50:06,494 - 00:50:09,694] given that all three of you are running
+- [00:50:09,694 - 00:50:11,784] startups now, and some of you for
+- [00:50:11,784 - 00:50:13,874] the second or third time, why are you
+- [00:50:13,874 - 00:50:19,074] ignoring your own advice? So
+- [00:50:19,074 - 00:50:24,274] a provocative discussion followed. And to
+- [00:50:24,274 - 00:50:26,244] that extent a question you may be
+- [00:50:26,244 - 00:50:28,214] asking yourself right now is, why on earth
+- [00:50:28,214 - 00:50:30,744] would anybody do this? If
+- [00:50:30,744 - 00:50:33,274] it's as difficult and maybe even
+- [00:50:33,294 - 00:50:35,874] dreary as I'm describing it, why would
+- [00:50:35,874 - 00:50:38,454] you do it? Well, some of their answers,
+- [00:50:38,454 - 00:50:43,464] you have to. This piggybacks on your question,
+- [00:50:43,464 - 00:50:48,474] right? You feel a real drive to create something
+- [00:50:48,474 - 00:50:51,884] that's better. You want to be your own boss, even to
+- [00:50:51,884 - 00:50:55,294] the point where you'll take a pay cut to do it.
+- [00:50:55,294 - 00:51:00,664] Maybe you're just too weird to do
+- [00:51:00,664 - 00:51:06,034] anything else, right? You found that that corporate
+- [00:51:06,034 - 00:51:10,374] culture was a lot like that pair of shoes
+- [00:51:10,374 - 00:51:14,714] that looked great on the shelf, but when you walked
+- [00:51:14,714 - 00:51:16,794] around in them for a while, you find yourself
+- [00:51:16,794 - 00:51:18,874] thinking, I can't wait to get out of these things.
+- [00:51:18,874 - 00:51:25,234] They just don't fit me. Maybe you want to improve
+- [00:51:25,234 - 00:51:25,254] your business by doing something that's better. Maybe
+- [00:51:25,254 - 00:51:25,274] you want to improve your business by doing
+- [00:51:25,274 - 00:51:26,224] something that's better. Maybe you want to
+- [00:51:26,224 - 00:51:27,174] improve the quality of life for others.
+- [00:51:28,854 - 00:51:31,454] I had an entrepreneur, had a
+- [00:51:31,454 - 00:51:34,054] pretty successful business go in St. Louis,
+- [00:51:35,294 - 00:51:38,284] healthcare software, pretty cool. And he called me up
+- [00:51:38,284 - 00:51:41,274] one day and said, Bob, you told me to find
+- [00:51:41,274 - 00:51:43,794] my customers. I found more than I expected. I
+- [00:51:43,794 - 00:51:46,314] don't know how to select where I ought to go.
+- [00:51:46,494 - 00:51:49,074] Can I spend a day with you? I sat on a
+- [00:51:49,074 - 00:51:51,654] whiteboard and smoked my way through this and helped me make
+- [00:51:51,654 - 00:51:53,434] some choices. I said, yeah. Come on
+- [00:51:53,434 - 00:51:55,214] into town the night before. I'll take you.
+- [00:51:55,214 - 00:51:57,674] I'll take you to a sleazy seafood restaurant
+- [00:51:57,674 - 00:52:00,134] and we might have an adult beverage or two,
+- [00:52:00,134 - 00:52:02,104] and then we'll work all day the
+- [00:52:02,104 - 00:52:04,074] next day. And we did and he did.
+- [00:52:04,074 - 00:52:08,254] I was operating under the assumption that what
+- [00:52:08,254 - 00:52:12,434] he wanted to do was grow this company
+- [00:52:12,434 - 00:52:15,314] to the point where somebody came along and bought
+- [00:52:15,314 - 00:52:18,194] it, enjoy his wealth for a year or two,
+- [00:52:18,194 - 00:52:21,694] go do another one. And he would say, yes,
+- [00:52:21,694 - 00:52:25,194] yes, that's right. But when we talked about that,
+- [00:52:25,194 - 00:52:30,144] he was engaged but not animated. And you
+- [00:52:30,144 - 00:52:35,094] know, when you're having dinner with somebody and maybe
+- [00:52:35,094 - 00:52:37,734] enjoying a beverage or two, conversations tend to
+- [00:52:37,734 - 00:52:40,374] drift a little bit. And he started talking
+- [00:52:40,374 - 00:52:44,334] about this orphanage in Venezuela that he was
+- [00:52:44,334 - 00:52:48,294] sending money to and sending resources to and
+- [00:52:48,294 - 00:52:51,174] was supporting. And when he described that, he
+- [00:52:51,174 - 00:52:54,054] would light up like the Christmas tree in Times
+- [00:52:54,054 - 00:52:54,534] Square. And he would say, I'm going to go
+- [00:52:54,534 - 00:52:55,014] to the Christmas tree in Times Square. And I said,
+- [00:52:55,014 - 00:52:55,094] I'm going to go to the Christmas tree in Times
+- [00:52:55,094 - 00:52:55,174] Square. And he would say, I'm going to go to the
+- [00:52:55,174 - 00:52:55,183] Christmas tree in Times Square. And he would say, I'm
+- [00:52:55,183 - 00:52:55,193] going to go to the Christmas tree in Times Square.
+- [00:52:55,193 - 00:52:56,803] And he would say, I'm going to go to the
+- [00:52:56,803 - 00:52:58,414] Christmas tree in Times Square. And about midway through the
+- [00:52:58,414 - 00:53:01,294] next morning, as we were working through all of
+- [00:53:01,294 - 00:53:04,174] these sort of triage exercises, I said, you know,
+- [00:53:04,174 - 00:53:08,853] I don't think you're looking at this the way you
+- [00:53:08,853 - 00:53:13,533] should be looking at it. I don't think you want to
+- [00:53:13,533 - 00:53:16,533] go hell bent on growing a company that investors
+- [00:53:16,533 - 00:53:19,533] will love and someone will come along and acquire
+- [00:53:19,533 - 00:53:22,263] it. I think what you want to do is
+- [00:53:22,263 - 00:53:24,993] legitimately build a great company. And if somebody comes along
+- [00:53:24,994 - 00:53:27,754] someday and says, I'd like to buy it, you'll have
+- [00:53:27,754 - 00:53:30,514] the conversation. But what you want to do is build
+- [00:53:30,514 - 00:53:33,684] a great company that allows you to spend
+- [00:53:33,684 - 00:53:36,854] some time on these philanthropic efforts that you really
+- [00:53:36,854 - 00:53:43,964] like. And he stood there for 30 or 40 seconds.
+- [00:53:43,964 - 00:53:51,074] And then he went, I feel so much better. He says,
+- [00:53:51,074 - 00:53:52,944] you're absolutely right. I've been going down
+- [00:53:52,944 - 00:53:54,814] the wrong road all this time. So,
+- [00:53:54,814 - 00:53:54,894] I'm going to go to the Christmas tree in Times
+- [00:53:54,894 - 00:53:54,974] Square. And he would say, I'm going to go to the
+- [00:53:54,974 - 00:53:54,984] Christmas tree in Times Square. And he would say, I'm going to
+- [00:53:54,984 - 00:53:54,994] go to the Christmas tree in Times Square. And he would say,
+- [00:53:54,994 - 00:53:56,574] you know, maybe you want to improve
+- [00:53:56,574 - 00:53:58,154] the quality of life for other people.
+- [00:54:00,394 - 00:54:03,374] One more story like this. Another of
+- [00:54:03,374 - 00:54:06,354] the entrepreneurs was involved in the business
+- [00:54:06,354 - 00:54:10,364] of bringing internet access to sections of rural
+- [00:54:10,364 - 00:54:14,374] Nebraska. I thought, well, that doesn't sound very
+- [00:54:14,374 - 00:54:17,514] glamorous. Why are you doing it? And he said,
+- [00:54:17,514 - 00:54:20,654] I'll give you an example of why I'm doing it.
+- [00:54:21,514 - 00:54:24,914] There's a woman out there, call her Carol.
+- [00:54:24,974 - 00:54:29,334] Carol doesn't have internet access. All her kids
+- [00:54:29,334 - 00:54:32,214] get their homework assigned online, and what she
+- [00:54:32,214 - 00:54:35,094] has been doing for the last couple of years
+- [00:54:35,094 - 00:54:38,734] is leaving work at two o'clock, picks her kids
+- [00:54:38,734 - 00:54:42,374] up from school, and parks the car outside the library.
+- [00:54:42,374 - 00:54:44,974] So, the kids can piggyback on the Wi-Fi
+- [00:54:44,974 - 00:54:47,574] from the library. They can get their homework assignments,
+- [00:54:48,294 - 00:54:51,334] they can do their homework, and then she
+- [00:54:51,334 - 00:54:54,374] takes them home, points them toward the prepared meal
+- [00:54:54,374 - 00:54:54,434] that she's letting her girls do that one time, and
+- [00:54:54,434 - 00:54:54,494] they can go home. No one wants this broom and broom,
+- [00:54:54,494 - 00:54:58,454] that she's left for him and goes back to work.
+- [00:54:58,454 - 00:55:01,674] And when the day came that we put internet access
+- [00:55:01,674 - 00:55:03,704] in her place, he said, yeah,
+- [00:55:03,704 - 00:55:05,734] I'm the CEO of the company,
+- [00:55:05,734 - 00:55:07,024] but I was doing the install
+- [00:55:07,024 - 00:55:08,314] along with the rest of my guys.
+- [00:55:08,314 - 00:55:11,314] I'm just wearing a shirt that says Mike.
+- [00:55:11,314 - 00:55:12,854] And she came up to me and she says,
+- [00:55:12,854 - 00:55:14,614] you're running this outfit, aren't you?
+- [00:55:14,614 - 00:55:17,334] And he said, well, yes,
+- [00:55:17,334 - 00:55:20,054] ma'am, but that doesn't really matter.
+- [00:55:20,054 - 00:55:21,894] She said, let me show you something.
+- [00:55:21,894 - 00:55:22,894] She said, come in here.
+- [00:55:22,894 - 00:55:24,834] She says, you see that bag of groceries
+- [00:55:24,834 - 00:55:27,753] on the table in the kitchen?
+- [00:55:27,753 - 00:55:30,693] Tonight will be the first night in four years
+- [00:55:30,693 - 00:55:33,414] that I have been able to cook dinner and have
+- [00:55:33,414 - 00:55:35,693] dinner with my children.
+- [00:55:35,693 - 00:55:37,663] And tomorrow, I will be able
+- [00:55:37,663 - 00:55:39,634] to work normal hours and come home
+- [00:55:39,634 - 00:55:42,894] because my kids finally have internet access.
+- [00:55:42,894 - 00:55:45,114] He said, that's why I'm doing it.
+- [00:55:48,274 - 00:55:51,394] Great story or what, right?
+- [00:55:51,394 - 00:55:52,894] So you want to correct something?
+- [00:55:52,894 - 00:55:54,473] It needs to be fixed, which was one
+- [00:55:54,473 - 00:55:58,013] of the things you mentioned in our very first session.
+- [00:55:58,013 - 00:56:00,874] There's a few more answers, all of them legitimate.
+- [00:56:00,874 - 00:56:02,264] Maybe you like the idea
+- [00:56:02,264 - 00:56:03,654] of creating wealth for your family
+- [00:56:03,654 - 00:56:05,193] and for yourself.
+- [00:56:05,193 - 00:56:08,274] Build it, sell it, build some wealth,
+- [00:56:08,274 - 00:56:15,614] spend a year in the Alps or sailing your yacht,
+- [00:56:15,614 - 00:56:18,134] and then do it again.
+- [00:56:18,134 - 00:56:20,154] Maybe you love the buzz.
+- [00:56:20,154 - 00:56:22,654] You get really worked up over cool technology.
+- [00:56:22,894 - 00:56:25,274] Maybe you love the idea of building a business
+- [00:56:25,274 - 00:56:26,894] and building a business that you can
+- [00:56:26,894 - 00:56:44,874] build on the
+- [00:56:44,874 - 00:56:46,374] You need to know the scale.
+- [00:56:46,374 - 00:56:47,674] You need to know the modes.
+- [00:56:47,674 - 00:56:49,394] You need to understand the framework.
+- [00:56:49,394 - 00:56:50,834] You need to know the difference
+- [00:56:50,834 - 00:56:52,274] between three-four time and four-four time.
+- [00:56:52,274 - 00:56:52,774] And I don't know.
+- [00:56:52,774 - 00:56:52,854] I don't know.
+- [00:56:52,854 - 00:56:52,874] I don't know.
+- [00:56:52,874 - 00:56:53,874] I don't know.
+- [00:56:53,874 - 00:56:55,993] But then you have to have something creative going on.
+- [00:56:55,993 - 00:56:59,434] And being a good entrepreneur is a bit like that.
+- [00:56:59,434 - 00:57:01,364] You need lots of creativity,
+- [00:57:01,364 - 00:57:03,294] but you need lots of discipline.
+- [00:57:03,294 - 00:57:08,514] So your reaction so far?
+- [00:57:08,514 - 00:57:09,414] Your thoughts?
+- [00:57:09,414 - 00:57:11,453] Any of this sinking in?
+- [00:57:11,453 - 00:57:15,294] You have questions or comments you'd care to offer?
+- [00:57:15,294 - 00:57:15,794] Janet?
+- [00:57:19,634 - 00:57:22,834] There's one thing you said that struck me
+- [00:57:22,834 - 00:57:26,034] as firmly as the whole six
+- [00:57:26,034 - 00:57:29,234] sessions or five and a half
+- [00:57:29,234 - 00:57:33,134] seminars, and that was the Take care of yourself.
+- [00:57:33,134 - 00:57:37,014] I've been riding motorcycles since before,
+- [00:57:37,014 - 00:57:41,994] close to the other people room of 하고 more,
+- [00:57:41,994 - 00:57:44,164] and, after riding for 25
+- [00:57:44,164 - 00:57:46,334] years, I took motorcycle safety course.
+- [00:57:46,334 - 00:57:47,584] I was teaching at the
+- [00:57:47,584 - 00:57:48,834] Labs School of Bentley and teachingsteaching
+- [00:57:48,834 - 00:57:49,393] insurance and financial planning in West thinks
+- [00:57:49,393 - 00:57:49,953] you cannot get out of school and
+- [00:57:49,953 - 00:57:50,373] you're going to go into become a 60
+- [00:57:50,373 - 00:57:50,794] highs, as complicated and dangerous прош and make
+- [00:57:50,794 - 00:57:51,693] more than you need to be, watch out.
+- [00:57:51,693 - 00:57:52,714] Because if you fail, try to get used to it.
+- [00:57:52,714 - 00:57:56,214] I could have plugged him out of there and
+- [00:57:56,214 - 00:57:59,714] stuck him in front of my class because he
+- [00:57:59,714 - 00:58:02,214] said the first thing you have to understand
+- [00:58:02,214 - 00:58:04,714] is what can kill you when you're riding a
+- [00:58:04,714 - 00:58:05,714] motorcycle.
+- [00:58:05,714 - 00:58:09,214] And he used the exact same example that
+- [00:58:09,214 - 00:58:12,714] you did about sleep and mentioned a few other
+- [00:58:12,714 - 00:58:13,714] things.
+- [00:58:13,714 - 00:58:17,214] So at the core of anything we do is
+- [00:58:17,214 - 00:58:20,714] who's doing it, why are we doing it, the stories
+- [00:58:20,714 - 00:58:23,714] you've been telling me the last 20
+- [00:58:23,714 - 00:58:26,714] minutes and a half hour are just exceptional.
+- [00:58:26,714 - 00:58:31,214] In my past businesses, as I said, I talk
+- [00:58:31,214 - 00:58:35,714] about people's money and I ask them what they want
+- [00:58:35,714 - 00:58:36,714] to do with their money.
+- [00:58:36,714 - 00:58:37,714] I say, well, I want
+- [00:58:37,714 - 00:58:38,714] to earn X, Y, Z money.
+- [00:58:38,714 - 00:58:39,714] I need to do this.
+- [00:58:39,714 - 00:58:40,714] I say, for what?
+- [00:58:40,714 - 00:58:41,714] What do you want to do with it?
+- [00:58:41,714 - 00:58:44,714] I don't care that you want to earn money.
+- [00:58:44,714 - 00:58:46,714] What do you want to do with your money?
+- [00:58:46,714 - 00:58:48,714] And until they can articulate that,
+- [00:58:48,714 - 00:58:50,714] it makes no sense to me.
+- [00:58:50,714 - 00:58:53,714] It's just a question.
+- [00:58:53,714 - 00:58:54,714] Woo!
+- [00:58:55,714 - 00:58:56,714] All right.
+- [00:58:56,714 - 00:59:00,214] We may have to have a longer conversation.
+- [00:59:00,214 - 00:59:03,904] I'm currently on my 12th motorcycle and
+- [00:59:03,904 - 00:59:07,594] took that Motorcycle Safety Foundation course for
+- [00:59:07,594 - 00:59:12,954] advanced riders out on the tarmac at Hanscom Field.
+- [00:59:12,954 - 00:59:16,334] I've got a bit over 100,000 miles of motorcycling
+- [00:59:16,334 - 00:59:19,714] under me, probably 30,000 of them in the rain.
+- [00:59:19,714 - 00:59:20,714] Yeah.
+- [00:59:20,714 - 00:59:23,214] I've gotten sideways on black ice
+- [00:59:23,214 - 00:59:25,714] in Chicago, et cetera, et cetera.
+- [00:59:25,714 - 00:59:30,214] So it is important to identify that it's just not
+- [00:59:30,214 - 00:59:34,714] smart to do that if you are in an impaired
+- [00:59:34,714 - 00:59:35,714] state.
+- [00:59:35,714 - 00:59:38,964] Well, sleepy or maybe these guys that get
+- [00:59:38,964 - 00:59:42,214] off work, put their helmet on, go three blocks
+- [00:59:42,214 - 00:59:43,464] to the bar, drink five beers,
+- [00:59:43,464 - 00:59:44,714] and then get on their motorcycle.
+- [00:59:44,714 - 00:59:46,714] They're called organ donors.
+- [00:59:46,714 - 00:59:47,714] Right?
+- [00:59:47,714 - 00:59:49,714] So entrepreneurship is usually not quite as important.
+- [00:59:49,714 - 00:59:51,833] Entrepreneurship is usually not quite
+- [00:59:51,833 - 00:59:53,953] that dramatic, but frizzed-out entrepreneurs make
+- [00:59:53,953 - 00:59:56,953] bad decisions.
+- [00:59:56,953 - 01:00:02,714] And you might not die, but your business probably will.
+- [01:00:02,714 - 01:00:05,714] Thank you.
+- [01:00:05,714 - 01:00:08,294] Okay.
+- [01:00:08,294 - 01:00:12,004] I'm going to give you the results of
+- [01:00:12,004 - 01:00:15,714] a year of research in probably two bullet points.
+- [01:00:15,714 - 01:00:16,714] Okay?
+- [01:00:16,714 - 01:00:19,934] So you've heard this statistic a few
+- [01:00:19,934 - 01:00:23,154] times, and they vary according to definitions of
+- [01:00:23,154 - 01:00:24,154] what is success.
+- [01:00:24,154 - 01:00:26,434] In the food industry, they ask the question,
+- [01:00:26,434 - 01:00:28,714] is your product still on the shelf two years
+- [01:00:28,714 - 01:00:29,714] later?
+- [01:00:29,714 - 01:00:31,914] And other industries use different metrics, but
+- [01:00:31,914 - 01:00:34,114] you almost can't get away from the fact
+- [01:00:34,114 - 01:00:41,954] that eight or nine out of 10 startups fail.
+- [01:00:41,954 - 01:00:43,954] And I'm going to horribly
+- [01:00:43,954 - 01:00:45,954] oversimplify a lot of complex stuff.
+- [01:00:45,954 - 01:00:49,174] But I think it kind of boils down
+- [01:00:49,174 - 01:00:52,394] to you're missing skills you didn't know you needed.
+- [01:00:52,394 - 01:00:54,474] If you've never launched a marketing
+- [01:00:54,474 - 01:00:56,554] campaign, you've never done packaging design, you've
+- [01:00:56,554 - 01:00:59,184] never had to fire anybody, you've never raised
+- [01:00:59,184 - 01:01:01,814] capital, you have never had to motivate a
+- [01:01:01,814 - 01:01:04,384] group of people after you just lost your
+- [01:01:04,384 - 01:01:06,954] shorts in the marketplace, et cetera, there's a whole
+- [01:01:06,954 - 01:01:09,174] set of skills you may not realize
+- [01:01:09,174 - 01:01:11,394] you need and you don't have them.
+- [01:01:11,394 - 01:01:12,394] And also, as per tonight, you
+- [01:01:12,394 - 01:01:13,394] may not realize you need them.
+- [01:01:13,394 - 01:01:14,394] You may not realize you need them.
+- [01:01:14,394 - 01:01:15,394] You may not realize you need them.
+- [01:01:15,394 - 01:01:18,214] And so, as per tonight, you have to
+- [01:01:18,214 - 01:01:21,034] think like a scientist and say, well, that hypothesis
+- [01:01:21,034 - 01:01:23,194] didn't quite work.
+- [01:01:23,194 - 01:01:27,464] So the previous sessions, the nuts and bolts,
+- [01:01:27,464 - 01:01:31,734] have been talking about the skills that you
+- [01:01:31,734 - 01:01:34,093] may not know you needed.
+- [01:01:34,093 - 01:01:36,553] Tonight we're talking a little
+- [01:01:36,553 - 01:01:39,014] bit about thinking like a scientist.
+- [01:01:39,014 - 01:01:41,834] But I found that when I examined...
+- [01:01:41,834 - 01:01:43,834] And, you know, this wasn't a...
+- [01:01:43,834 - 01:01:44,834] I'm sorry.
+- [01:01:44,834 - 01:01:47,174] This wasn't a rigorous analysis, but I spent
+- [01:01:47,174 - 01:01:49,514] a lot of time talking to entrepreneurs that
+- [01:01:49,514 - 01:01:53,124] I've worked with, some of whom have had
+- [01:01:53,124 - 01:01:56,734] conspicuous successes, some of whom have had epic failures.
+- [01:01:56,734 - 01:02:00,554] This is the two-bullet summary.
+- [01:02:00,554 - 01:02:08,654] I'm going to make some closing remarks.
+- [01:02:08,654 - 01:02:10,594] And we may actually end a couple minutes early.
+- [01:02:10,594 - 01:02:12,384] But I'm going to open
+- [01:02:12,384 - 01:02:14,174] it up to you guys now.
+- [01:02:14,174 - 01:02:17,084] Are there questions that I should have asked
+- [01:02:17,084 - 01:02:19,994] you or things that I should have talked to
+- [01:02:19,994 - 01:02:21,234] you about?
+- [01:02:21,234 - 01:02:23,804] This is the only session in Nuts and
+- [01:02:23,804 - 01:02:26,374] Bolts where we actually dive into these sort of
+- [01:02:26,374 - 01:02:28,094] human questions.
+- [01:02:28,094 - 01:02:31,794] And then the wrap-up session will be a success
+- [01:02:31,794 - 01:02:35,494] story that Marina has, send you out with a
+- [01:02:35,494 - 01:02:36,494] buzz.
+- [01:02:36,494 - 01:02:38,994] It's a great story.
+- [01:02:38,994 - 01:02:40,394] You will enjoy it.
+- [01:02:40,394 - 01:02:42,174] You will find it enlightening.
+- [01:02:42,174 - 01:02:43,534] You're welcome.
+- [01:02:44,174 - 01:02:47,704] But first, do you have any final
+- [01:02:47,704 - 01:02:51,234] questions, comments, thoughts that you'd like to pursue?
+- [01:02:51,234 - 01:02:52,234] Yes, sir.
+- [01:02:52,234 - 01:02:53,234] Go ahead.
+- [01:02:53,234 - 01:02:57,734] So assuming that you need three, four, nine
+- [01:02:57,734 - 01:03:02,234] attempts to make something of value, how do
+- [01:03:02,234 - 01:03:03,234] you...
+- [01:03:03,234 - 01:03:07,234] What are some best practices to
+- [01:03:07,234 - 01:03:11,234] give yourself that kind of runway?
+- [01:03:11,234 - 01:03:14,174] Well, there's a couple of answers for that.
+- [01:03:14,174 - 01:03:19,574] Many people who become entrepreneurs fear
+- [01:03:19,574 - 01:03:24,974] that they are unemployable afterwards and
+- [01:03:24,974 - 01:03:26,954] that if you go down this
+- [01:03:26,954 - 01:03:28,934] road, you'll never get a normal job.
+- [01:03:28,934 - 01:03:32,814] I have found that to be not true.
+- [01:03:32,814 - 01:03:34,864] What I have found, in fact, is that
+- [01:03:34,864 - 01:03:36,914] there are companies out there who want what they
+- [01:03:36,914 - 01:03:39,234] call change agents.
+- [01:03:39,234 - 01:03:40,734] That means you're not afraid
+- [01:03:40,734 - 01:03:42,234] of a blank sheet of paper.
+- [01:03:42,234 - 01:03:42,734] And that you might be a little
+- [01:03:42,734 - 01:03:43,234] bit more likely to be a failure.
+- [01:03:43,234 - 01:03:45,414] And that you might be able
+- [01:03:45,414 - 01:03:47,594] to contribute some creative out-of-the-box thinking that
+- [01:03:47,594 - 01:03:50,714] they are lacking.
+- [01:03:50,714 - 01:03:53,854] And so one answer, one I have employed
+- [01:03:53,854 - 01:03:56,994] a few times, is to weave in and out.
+- [01:03:56,994 - 01:03:58,564] Go get a normal job
+- [01:03:58,564 - 01:04:00,134] is the translation of all that.
+- [01:04:00,134 - 01:04:02,884] And after about two years, I
+- [01:04:02,884 - 01:04:05,634] end up thinking, God, I'm bored.
+- [01:04:05,634 - 01:04:07,814] And to the dismay of my family, I
+- [01:04:07,814 - 01:04:09,994] think, I just got to go start another company.
+- [01:04:09,994 - 01:04:11,934] And another is...
+- [01:04:11,934 - 01:04:12,934] What?
+- [01:04:13,234 - 01:04:15,264] Well, of course, the happy answer is
+- [01:04:15,264 - 01:04:17,294] your business succeeded and you got some runway
+- [01:04:17,294 - 01:04:20,154] because you just put some money in the bank.
+- [01:04:20,154 - 01:04:21,714] And you have some credibility.
+- [01:04:21,714 - 01:04:24,534] But again, if you go to the right
+- [01:04:24,534 - 01:04:27,354] places, I actually know a couple of investors who
+- [01:04:27,354 - 01:04:29,774] straightforwardly say, Bob, I just don't want
+- [01:04:29,774 - 01:04:32,194] to screw around with anybody who hasn't already
+- [01:04:32,194 - 01:04:33,874] had a failure.
+- [01:04:33,874 - 01:04:35,334] And there's two reasons.
+- [01:04:35,334 - 01:04:38,714] One is they don't know they can fail.
+- [01:04:38,714 - 01:04:40,814] Oops.
+- [01:04:40,814 - 01:04:41,084] And the other is they've not shown me
+- [01:04:41,084 - 01:04:41,354] that they have the right to do it.
+- [01:04:41,354 - 01:04:41,854] And the other is they've not shown me
+- [01:04:41,854 - 01:04:42,354] that they have the right to do it.
+- [01:04:42,354 - 01:04:42,374] They've not shown me that they
+- [01:04:42,374 - 01:04:42,394] have the right to do it.
+- [01:04:42,394 - 01:04:42,554] So I can't do it.
+- [01:04:42,554 - 01:04:42,594] And I have to do it.
+- [01:04:42,594 - 01:04:42,634] I have to do it.
+- [01:04:42,634 - 01:04:42,714] And I've got to do it.
+- [01:04:42,714 - 01:04:42,754] And I've got to do it.
+- [01:04:42,754 - 01:04:46,794] They have the resilience that's required to succeed.
+- [01:04:46,794 - 01:04:49,894] So in an odd sort of way, if you go
+- [01:04:49,894 - 01:04:52,994] to the right people and say, I made an effort here,
+- [01:04:52,994 - 01:04:54,464] I did a lot of good
+- [01:04:54,464 - 01:04:55,934] things, the end result was not successful.
+- [01:04:55,934 - 01:04:57,154] Boy, did I learn a lot.
+- [01:04:57,154 - 01:05:00,304] I want to bring what I
+- [01:05:00,304 - 01:05:03,454] learned on somebody else's nickel to you.
+- [01:05:03,454 - 01:05:05,714] It's not a bad pitch.
+- [01:05:05,714 - 01:05:08,894] So the two ways are if you could
+- [01:05:08,894 - 01:05:12,074] pick yourself up and go right back to it,
+- [01:05:12,074 - 01:05:14,714] you won't be unappealing to everybody.
+- [01:05:14,714 - 01:05:17,094] People will not regard you as having the
+- [01:05:17,094 - 01:05:19,474] plague if you go to the right places.
+- [01:05:19,474 - 01:05:20,954] And the other is, well,
+- [01:05:20,954 - 01:05:22,434] sometimes you just think, all right,
+- [01:05:22,434 - 01:05:24,324] I should weave back into the corporate
+- [01:05:24,324 - 01:05:26,214] world and see what's going on there.
+- [01:05:26,214 - 01:05:27,434] Maybe I can add something.
+- [01:05:27,434 - 01:05:29,154] Maybe I can learn something.
+- [01:05:29,154 - 01:05:31,654] Maybe I can make my family calm down
+- [01:05:31,654 - 01:05:34,154] a little bit because I have a steady paycheck,
+- [01:05:34,154 - 01:05:36,234] which is a novelty.
+- [01:05:36,234 - 01:05:38,794] So good question.
+- [01:05:38,794 - 01:05:39,674] Thank you.
+- [01:05:39,674 - 01:05:41,534] And would you pass the mic?
+- [01:05:41,534 - 01:05:41,914] Thank you.
+- [01:05:41,914 - 01:05:45,714] What are your thoughts on waiting to start
+- [01:05:45,714 - 01:05:49,514] a business, trying to do a day job,
+- [01:05:49,514 - 01:05:51,094] get it to a point where
+- [01:05:51,094 - 01:05:52,674] it looks like it might be feasible,
+- [01:05:52,674 - 01:05:54,554] and then flip the switch, you know,
+- [01:05:54,554 - 01:05:56,434] full time, or dive all the way in
+- [01:05:56,434 - 01:06:00,093] and actually spend hundreds on your effort to do that?
+- [01:06:00,093 - 01:06:01,593] I think that's a tough call probably,
+- [01:06:01,593 - 01:06:03,533] and it's just based off
+- [01:06:03,533 - 01:06:05,474] your experience with whatever you see.
+- [01:06:05,474 - 01:06:08,474] That's a really good question.
+- [01:06:08,474 - 01:06:09,573] Oh.
+- [01:06:11,914 - 01:06:17,734] In the first session that we had, I
+- [01:06:17,734 - 01:06:23,554] walked you guys through sort of a back
+- [01:06:23,554 - 01:06:25,613] of an envelope analysis.
+- [01:06:25,613 - 01:06:28,434] How much money do I need to make?
+- [01:06:28,434 - 01:06:30,294] How much is a customer worth?
+- [01:06:30,294 - 01:06:32,454] How many customers do I need?
+- [01:06:32,454 - 01:06:34,573] Can I do that?
+- [01:06:34,573 - 01:06:37,153] And I would argue against going all
+- [01:06:37,153 - 01:06:39,734] in until you have done, you know,
+- [01:06:39,734 - 01:06:40,794] a perfect job.
+- [01:06:40,794 - 01:06:41,914] You know, you've got to be a good customer.
+- [01:06:41,914 - 01:06:43,113] You've got to be a good customer.
+- [01:06:43,113 - 01:06:43,933] And we've done at least
+- [01:06:43,933 - 01:06:44,754] some of that kind of analysis.
+- [01:06:44,754 - 01:06:49,534] I think people get swept away by their passions.
+- [01:06:49,534 - 01:06:52,573] This is such exciting technology,
+- [01:06:52,573 - 01:06:55,613] and it's moving so rapidly.
+- [01:06:55,613 - 01:06:57,873] I have got to get in on this and
+- [01:06:57,873 - 01:07:00,133] grab my spot at the front of the line.
+- [01:07:00,133 - 01:07:04,354] But, you know, pioneers have arrows in their backs.
+- [01:07:04,354 - 01:07:07,514] And so I would say if you
+- [01:07:07,514 - 01:07:10,674] have assessed the market a little bit,
+- [01:07:10,674 - 01:07:11,734] and you're thinking,
+- [01:07:11,734 - 01:07:15,874] think realistically that you could make enough
+- [01:07:15,874 - 01:07:20,014] money to have a sustainable business, then
+- [01:07:20,014 - 01:07:21,934] back up if you have not done
+- [01:07:21,934 - 01:07:23,854] those things it is not the right time.
+- [01:07:23,854 - 01:07:25,684] If you have done those things
+- [01:07:25,684 - 01:07:27,514] it might be the right time.
+- [01:07:27,514 - 01:07:30,704] A lot of people are arguing these days and
+- [01:07:30,704 - 01:07:33,894] I think there's wisdom here and doing it in
+- [01:07:33,894 - 01:07:37,134] small steps is almost like a side hustle.
+- [01:07:37,134 - 01:07:39,464] It's easier with the service
+- [01:07:39,464 - 01:07:41,794] business than with the product business.
+- [01:07:41,794 - 01:07:44,184] But go out there and make some
+- [01:07:44,184 - 01:07:46,574] mistakes while you still have your steady paycheck.
+- [01:07:46,574 - 01:07:49,294] Validate, validate, validate and then when you're
+- [01:07:49,294 - 01:07:52,014] ready you can go forward to others
+- [01:07:52,014 - 01:07:55,074] and say I've already done all this validation.
+- [01:07:55,074 - 01:07:57,994] Now I'm going full time and I'm seeking investment.
+- [01:07:57,994 - 01:07:59,074] Here's what I've learned.
+- [01:07:59,074 - 01:08:01,274] Here's what I want to use the money for.
+- [01:08:01,274 - 01:08:04,514] It's much more solid pitch.
+- [01:08:04,514 - 01:08:07,114] Deploy passion wisely I guess.
+- [01:08:07,114 - 01:08:09,874] Thank you for the question.
+- [01:08:09,874 - 01:08:10,874] It's a good question.
+- [01:08:10,874 - 01:08:11,874] Yes sir.
+- [01:08:11,874 - 01:08:12,874] Thank you for answering that series of tools.
+- [01:08:12,874 - 01:08:18,374] With the exception of your book, what other
+- [01:08:18,374 - 01:08:23,874] books do you think are essential as entrepreneurs?
+- [01:08:23,874 - 01:08:27,323] I serve a rule of thumb when I'm looking
+- [01:08:27,323 - 01:08:30,774] at business books which is that I like the one
+- [01:08:30,774 - 01:08:35,354] that's the shortest.
+- [01:08:35,354 - 01:08:36,974] Because having been in the publishing.
+- [01:08:36,974 - 01:08:39,734] Publishing business a little bit.
+- [01:08:39,734 - 01:08:44,884] I know that most 200 page books
+- [01:08:44,884 - 01:08:50,033] would make a great 50 page book.
+- [01:08:50,033 - 01:08:53,404] But the publisher says Bob I can't
+- [01:08:53,404 - 01:08:56,774] sell a 50 page book for $30.
+- [01:08:56,774 - 01:09:00,073] Say the same thing four times over.
+- [01:09:00,073 - 01:09:04,234] And then I can sell it.
+- [01:09:04,234 - 01:09:05,734] Again I'm oversimplifying.
+- [01:09:05,734 - 01:09:06,774] But.
+- [01:09:06,774 - 01:09:09,533] You read a lot of business books.
+- [01:09:09,533 - 01:09:11,734] Right.
+- [01:09:11,734 - 01:09:13,054] So with that as preamble.
+- [01:09:13,054 - 01:09:16,194] I like the Lean Startup.
+- [01:09:16,194 - 01:09:19,533] Which I think is useful.
+- [01:09:19,533 - 01:09:22,573] And though it's not specifically about entrepreneurship.
+- [01:09:22,573 - 01:09:31,394] There's an absolutely awesome book simply titled Leaders.
+- [01:09:31,394 - 01:09:33,464] And I'm sorry I cannot
+- [01:09:33,464 - 01:09:35,533] remember the names of the authors.
+- [01:09:35,533 - 01:09:36,573] But there's some.
+- [01:09:36,573 - 01:09:38,334] There's two of them.
+- [01:09:38,334 - 01:09:39,334] Warren Behn.
+- [01:09:39,334 - 01:09:40,334] B-I-E-H-N maybe.
+- [01:09:40,334 - 01:09:41,334] I'm not sure.
+- [01:09:41,334 - 01:09:42,334] And I pull it out every couple of years.
+- [01:09:42,334 - 01:09:43,334] Because they talk about what leadership is really all about.
+- [01:09:43,334 - 01:09:44,334] And it's very short.
+- [01:09:44,334 - 01:09:45,334] I think it's an awesome book.
+- [01:09:45,334 - 01:09:46,334] It's brief.
+- [01:09:46,334 - 01:09:47,334] And boy it really hits home on some important points.
+- [01:09:47,334 - 01:09:48,334] When I wrote my book a couple years ago.
+- [01:09:48,334 - 01:09:49,334] People were saying I should write a book about leadership.
+- [01:09:49,334 - 01:09:50,334] And I said I don't know.
+- [01:09:50,334 - 01:09:51,334] I don't know.
+- [01:09:51,334 - 01:09:52,334] I don't know.
+- [01:09:52,334 - 01:09:53,334] I don't know.
+- [01:09:53,334 - 01:09:54,334] I don't know.
+- [01:09:54,334 - 01:09:55,334] I don't know.
+- [01:09:55,334 - 01:09:56,334] I don't know.
+- [01:09:56,334 - 01:09:57,334] I don't know.
+- [01:09:57,334 - 01:09:58,334] I don't know.
+- [01:09:58,334 - 01:09:59,334] I don't know.
+- [01:09:59,334 - 01:10:00,334] I don't know.
+- [01:10:00,334 - 01:10:01,334] I don't know.
+- [01:10:01,334 - 01:10:02,334] I don't know.
+- [01:10:02,334 - 01:10:03,334] I don't know.
+- [01:10:06,574 - 01:10:08,114] And people were starting to be
+- [01:10:08,114 - 01:10:09,654] asked to go back to the office.
+- [01:10:09,654 - 01:10:10,654] They were rebelling.
+- [01:10:10,654 - 01:10:14,054] There were phrases popping up everywhere
+- [01:10:14,054 - 01:10:17,454] like quiet, quitting, the great resignation, etc.
+- [01:10:17,454 - 01:10:19,764] And the thrust of my book at the
+- [01:10:19,764 - 01:10:22,074] time was how do you start a company?
+- [01:10:22,074 - 01:10:24,154] At least as a starter kit.
+- [01:10:24,154 - 01:10:26,374] So I touch on questions like how do you
+- [01:10:26,374 - 01:10:28,594] interview to figure out are you looking at the right
+- [01:10:28,594 - 01:10:30,234] person?
+- [01:10:30,234 - 01:10:32,494] And if you've made a hiring mistake.
+- [01:10:32,494 - 01:10:35,374] If you hire enough people you will make mistakes.
+- [01:10:35,374 - 01:10:36,574] How do you determine that it's time?
+- [01:10:36,574 - 01:10:38,074] It's time to fire them.
+- [01:10:38,074 - 01:10:40,604] And how do you actually do that without laying
+- [01:10:40,604 - 01:10:43,134] waste to the morale of everybody else in your
+- [01:10:43,134 - 01:10:44,134] company?
+- [01:10:44,134 - 01:10:47,634] So there's a lot of sort of practical stuff.
+- [01:10:47,634 - 01:10:50,734] And almost as a lark I
+- [01:10:50,734 - 01:10:53,834] started interviewing other entrepreneurs who almost immediately
+- [01:10:53,834 - 01:10:56,074] started telling me about the failures they'd had
+- [01:10:56,074 - 01:10:58,314] and what they learned from it and how
+- [01:10:58,314 - 01:11:00,694] they felt about it and how they're now succeeding.
+- [01:11:00,694 - 01:11:04,694] And I thought oh my goodness this is valuable substance.
+- [01:11:04,694 - 01:11:06,314] I've got to rewrite the whole book.
+- [01:11:06,314 - 01:11:09,114] Which I did.
+- [01:11:09,114 - 01:11:11,264] And so it's got a somewhat
+- [01:11:11,264 - 01:11:13,414] different thrust from some of the others.
+- [01:11:13,414 - 01:11:14,414] But I like the Lean Startup.
+- [01:11:14,414 - 01:11:16,754] I love this book Leaders.
+- [01:11:16,754 - 01:11:19,894] It's more useful as a management guide
+- [01:11:19,894 - 01:11:23,034] than as an entrepreneurship guide but valuable nevertheless.
+- [01:11:23,034 - 01:11:26,454] So anyone else before I
+- [01:11:26,454 - 01:11:29,874] pull the plug on tonight's talk?
+- [01:11:29,874 - 01:11:32,014] Okay.
+- [01:11:32,014 - 01:11:33,874] Thank you for your questions.
+- [01:11:33,874 - 01:11:34,874] Oh.
+- [01:11:34,874 - 01:11:35,874] Yeah.
+- [01:11:35,874 - 01:11:36,434] Thank you.
+- [01:11:36,434 - 01:11:36,934] Thank you.
+- [01:11:36,934 - 01:11:39,924] And by the way if you haven't chosen
+- [01:11:39,924 - 01:11:42,914] to stay in touch scan that QR code.
+- [01:11:42,914 - 01:11:45,214] Okay wrapping it up.
+- [01:11:45,214 - 01:11:48,434] Three things I want you to remember.
+- [01:11:48,434 - 01:11:55,174] Entrepreneurship has many rewards for certain people.
+- [01:11:55,174 - 01:11:57,394] But it's not for everyone.
+- [01:11:57,394 - 01:11:59,034] If it's not for you in
+- [01:11:59,034 - 01:12:00,674] many ways you should be glad.
+- [01:12:00,674 - 01:12:02,174] It means you have a
+- [01:12:02,174 - 01:12:03,674] chance of having a normal life.
+- [01:12:03,674 - 01:12:04,674] Thank you.
+- [01:12:05,134 - 01:12:15,414] And just by giving this information to other
+- [01:12:15,414 - 01:12:25,694] people and sharing with them when you are
+- [01:12:25,694 - 01:12:26,234] around that sort of portfolio of self Canyonچ
+- [01:12:26,234 - 01:12:27,534] Some of this information by people that subscribe
+- [01:12:27,534 - 01:12:28,834] or rely on me is important to me.
+- [01:12:28,834 - 01:12:29,524] And it's amazing to me that the guide to success
+- [01:12:29,524 - 01:12:30,214] can get to as many people in the world as
+- [01:12:30,214 - 01:12:31,214] many as 30.
+- [01:12:31,214 - 01:12:31,714] So if you want to promote your business
+- [01:12:31,714 - 01:12:32,214] teachers or several other people around the world,
+- [01:12:32,214 - 01:12:33,214] there are wszystkie info apps in the chat.
+- [01:12:33,214 - 01:12:34,194] They can find you down below.
+- [01:12:34,194 - 01:12:37,194] your resilience and one day you'll have your success.
+- [01:12:37,194 - 01:12:39,194] So thank you very much.
