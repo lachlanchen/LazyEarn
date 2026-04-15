@@ -1,0 +1,6136 @@
+1
+00:00:00,000 --> 00:00:08,200
+Great. As I mentioned at the beginning, the second
+
+2
+00:00:08,200 --> 00:00:16,400
+part of today is going to be on negotiation
+
+3
+00:00:16,400 --> 00:00:19,520
+skills. Assuming you can present well, eventually
+
+4
+00:00:19,520 --> 00:00:22,640
+you'll then have to engage with the people
+
+5
+00:00:22,640 --> 00:00:25,710
+that want to know more, and there are skills
+
+6
+00:00:25,710 --> 00:00:28,780
+that can be learned about that. We have Mindy
+
+7
+00:00:28,780 --> 00:00:31,070
+Garber, who's done this a number of times.
+
+8
+00:00:31,070 --> 00:00:33,360
+I'm going to let Mindy, like others that have
+
+9
+00:00:33,360 --> 00:00:35,640
+presented, introduce themselves. I hope you enjoy this,
+
+10
+00:00:35,640 --> 00:00:37,920
+and I know you'll get a lot out
+
+11
+00:00:37,920 --> 00:00:38,740
+of it. Mindy?
+
+12
+00:00:39,660 --> 00:00:42,430
+Good evening, and welcome, and thank you
+
+13
+00:00:42,430 --> 00:00:45,200
+for coming. Most ventures fail because of people
+
+14
+00:00:45,200 --> 00:00:47,970
+issues and are really a failure of the
+
+15
+00:00:47,970 --> 00:00:50,740
+relationships among the team members. That quote was an
+
+16
+00:00:50,740 --> 00:00:54,010
+inspiration for this workshop. Here's the original
+
+17
+00:00:54,010 --> 00:00:57,280
+paper that it came from a while ago,
+
+18
+00:00:57,380 --> 00:00:58,760
+but it's just as valuable.
+
+19
+00:00:58,780 --> 00:01:10,500
+Mindy Garber, I'm a class of 82, and I'm
+
+20
+00:01:10,500 --> 00:01:22,220
+both an engineer and a mediator. I tell people
+
+21
+00:01:22,220 --> 00:01:24,380
+the difference between engineering and mediation is,
+
+22
+00:01:24,380 --> 00:01:26,540
+as an engineer, your job is to gather
+
+23
+00:01:26,540 --> 00:01:27,540
+all the facts.
+
+24
+00:01:27,540 --> 00:01:28,040
+Mindy Garber, I'm a class of 82, and I'm
+
+25
+00:01:28,040 --> 00:01:28,540
+both an engineer and a mediator. I tell people,
+
+26
+00:01:28,540 --> 00:01:28,920
+the difference between engineering and mediation is,
+
+27
+00:01:28,920 --> 00:01:29,300
+as an engineer, your job is to gather
+
+28
+00:01:29,300 --> 00:01:29,830
+all the facts. You're trying to do
+
+29
+00:01:29,830 --> 00:01:30,360
+that. You're trying to form a relationship and
+
+30
+00:01:30,360 --> 00:01:32,240
+make the optimal solution. As a mediator,
+
+31
+00:01:32,240 --> 00:01:34,120
+you're trying to help people have a conversation
+
+32
+00:01:34,120 --> 00:01:35,550
+that they couldn't have before, and you're
+
+33
+00:01:35,550 --> 00:01:36,980
+trying to help them communicate with each
+
+34
+00:01:36,980 --> 00:01:39,750
+other, and help them figure out why they,
+
+35
+00:01:39,750 --> 00:01:42,520
+you know, to help them solve their own problems.
+
+36
+00:01:42,520 --> 00:01:46,550
+So, that's how I got into it. I
+
+37
+00:01:46,550 --> 00:01:50,580
+got into mediation because, really, after financial issues, when
+
+38
+00:01:50,580 --> 00:01:53,530
+I helped start a company that
+
+39
+00:01:53,530 --> 00:01:56,480
+does speech recognition, after financial issues, getting
+
+40
+00:01:56,480 --> 00:01:58,380
+along is really the hardest part.
+
+41
+00:01:58,380 --> 00:01:58,430
+Mindy Garber, I'm a class of 82, and I'm
+
+42
+00:01:58,430 --> 00:01:58,480
+both an engineer and a mediator. I tell people,
+
+43
+00:01:58,480 --> 00:01:58,520
+that's really the hardest part.
+
+44
+00:01:58,540 --> 00:02:00,880
+And I've seen a lot of companies
+
+45
+00:02:00,880 --> 00:02:03,220
+fail, not because of technology problems or financial,
+
+46
+00:02:03,680 --> 00:02:05,960
+but because the two founders couldn't get along.
+
+47
+00:02:06,540 --> 00:02:09,259
+And that leads to a lot of wasted IP.
+
+48
+00:02:09,940 --> 00:02:12,670
+And so anything that we can do to
+
+49
+00:02:12,670 --> 00:02:15,400
+help companies be successful and monetize their IP,
+
+50
+00:02:15,400 --> 00:02:16,940
+it's something that will be a
+
+51
+00:02:16,940 --> 00:02:18,480
+good thing for the U.S. economy.
+
+52
+00:02:19,480 --> 00:02:22,160
+Okay, so this course is very interactive.
+
+53
+00:02:22,760 --> 00:02:24,030
+And the people on Zoom, you
+
+54
+00:02:24,030 --> 00:02:25,300
+don't get a buy on this.
+
+55
+00:02:25,480 --> 00:02:26,800
+There's stuff for you to do, too.
+
+56
+00:02:26,800 --> 00:02:30,700
+But I want to please raise your hand.
+
+57
+00:02:31,260 --> 00:02:33,660
+And for now, could everybody get a partner?
+
+58
+00:02:34,240 --> 00:02:36,130
+And if it's the person that
+
+59
+00:02:36,130 --> 00:02:38,020
+you are a co-founder with, that's fine.
+
+60
+00:02:38,120 --> 00:02:41,240
+But for now, you're just going to be co-founders.
+
+61
+00:02:41,340 --> 00:02:43,930
+So please pick somebody else, because
+
+62
+00:02:43,930 --> 00:02:46,520
+otherwise this class will be no fun.
+
+63
+00:02:48,260 --> 00:02:49,060
+All right.
+
+64
+00:02:49,060 --> 00:02:49,120
+All right.
+
+65
+00:02:56,220 --> 00:02:56,700
+Okay.
+
+66
+00:02:56,800 --> 00:02:56,940
+Okay.
+
+67
+00:03:02,160 --> 00:03:06,580
+All right.
+
+68
+00:03:06,620 --> 00:03:07,960
+That's one way to get people to move.
+
+69
+00:03:08,680 --> 00:03:10,840
+It's so funny, because when I was a student, I always
+
+70
+00:03:10,840 --> 00:03:13,000
+would sit in the back, too, and now I get it.
+
+71
+00:03:13,320 --> 00:03:16,160
+It's like, please, please, if you want, come forward.
+
+72
+00:03:17,660 --> 00:03:18,020
+Okay.
+
+73
+00:03:18,500 --> 00:03:18,880
+All right.
+
+74
+00:03:19,140 --> 00:03:20,020
+So the agenda.
+
+75
+00:03:20,400 --> 00:03:22,400
+We're going to talk a little bit about negotiation.
+
+76
+00:03:22,760 --> 00:03:26,120
+We're going to talk about startup negotiations.
+
+77
+00:03:26,800 --> 00:03:28,990
+And when you're starting up, it's you're
+
+78
+00:03:28,990 --> 00:03:31,180
+negotiating with your co-founder, with the intercompany,
+
+79
+00:03:31,560 --> 00:03:33,440
+and intercompany, between other companies.
+
+80
+00:03:33,680 --> 00:03:35,550
+And then we have a bunch of role
+
+81
+00:03:35,550 --> 00:03:37,420
+plays along the way, and we'll do a debrief.
+
+82
+00:03:38,040 --> 00:03:38,260
+Okay.
+
+83
+00:03:39,040 --> 00:03:41,820
+So there are many schools of thought of negotiation.
+
+84
+00:03:42,220 --> 00:03:45,340
+But basically, there's two kinds of ideas.
+
+85
+00:03:45,900 --> 00:03:47,940
+There's an idea that it's either
+
+86
+00:03:47,940 --> 00:03:49,980
+win-lose, or it's more of a collaboration.
+
+87
+00:03:50,720 --> 00:03:52,860
+If it's a win-lose, you're trying to get as
+
+88
+00:03:52,860 --> 00:03:55,000
+most, you know, you think it's a zero-sum game.
+
+89
+00:03:55,000 --> 00:03:55,620
+I win.
+
+90
+00:03:55,760 --> 00:03:56,260
+You lose.
+
+91
+00:03:56,260 --> 00:03:57,799
+If I get something, you lose something.
+
+92
+00:03:58,640 --> 00:04:00,519
+And also, you don't really necessarily
+
+93
+00:04:00,519 --> 00:04:02,399
+care about the relationship between the people.
+
+94
+00:04:02,959 --> 00:04:06,359
+But if it's a collaboration, and it's
+
+95
+00:04:06,359 --> 00:04:09,760
+two people working on the problem together.
+
+96
+00:04:10,179 --> 00:04:12,269
+So my whole philosophy is
+
+97
+00:04:12,269 --> 00:04:14,359
+all based on getting to yes.
+
+98
+00:04:14,880 --> 00:04:17,839
+And I took the negotiation, the program
+
+99
+00:04:17,839 --> 00:04:20,800
+on negotiation at Harvard, which I highly recommend.
+
+100
+00:04:21,399 --> 00:04:23,520
+So it's a joint effort.
+
+101
+00:04:24,020 --> 00:04:25,300
+You're collaborating.
+
+102
+00:04:25,300 --> 00:04:26,060
+It's a problem.
+
+103
+00:04:26,060 --> 00:04:26,580
+It's a problem.
+
+104
+00:04:26,580 --> 00:04:26,860
+It's a problem.
+
+105
+00:04:26,860 --> 00:04:26,920
+It's a problem.
+
+106
+00:04:26,920 --> 00:04:28,540
+And you do care about the relationship.
+
+107
+00:04:29,320 --> 00:04:30,820
+And this is, and I know
+
+108
+00:04:30,820 --> 00:04:32,320
+that Joe has a million stories, too.
+
+109
+00:04:32,740 --> 00:04:34,560
+There is no such thing as one and done.
+
+110
+00:04:34,980 --> 00:04:36,450
+People think, oh, I'm just going to do this,
+
+111
+00:04:36,450 --> 00:04:37,920
+and I'm never going to see this guy again.
+
+112
+00:04:38,260 --> 00:04:42,120
+Well, we both have a lot of stories, if there's time at the end,
+
+113
+00:04:42,120 --> 00:04:45,980
+to tell you how what you negotiate today may come back to haunt you.
+
+114
+00:04:45,980 --> 00:04:48,680
+Even if it's the person goes to another
+
+115
+00:04:48,680 --> 00:04:51,380
+company and decides never to buy your product again.
+
+116
+00:04:51,640 --> 00:04:53,420
+You will always meet people again.
+
+117
+00:04:54,040 --> 00:04:54,980
+And so being a...
+
+118
+00:04:56,060 --> 00:04:58,720
+A principled negotiator is a very important thing.
+
+119
+00:04:58,720 --> 00:05:01,300
+Your reputation will precede you.
+
+120
+00:05:03,540 --> 00:05:06,840
+So the first thing to think about in
+
+121
+00:05:06,840 --> 00:05:10,140
+a negotiation is for you, what are your interests?
+
+122
+00:05:10,700 --> 00:05:14,900
+What are your needs and goals and hopes and fears?
+
+123
+00:05:15,080 --> 00:05:16,360
+What is it you want?
+
+124
+00:05:16,700 --> 00:05:18,920
+There's a lot of people when I'm in mediation and
+
+125
+00:05:18,920 --> 00:05:21,140
+you ask people, OK, well, what is it you want?
+
+126
+00:05:21,220 --> 00:05:22,220
+People have no idea.
+
+127
+00:05:22,880 --> 00:05:24,260
+They haven't really thought about it.
+
+128
+00:05:24,320 --> 00:05:25,220
+It's like, well, how can I?
+
+129
+00:05:25,400 --> 00:05:25,860
+How can you solve it?
+
+130
+00:05:25,860 --> 00:05:27,240
+How can you solve your problem if it isn't?
+
+131
+00:05:27,240 --> 00:05:32,200
+You don't really even know why it is you're doing things and
+
+132
+00:05:32,200 --> 00:05:37,160
+having your own interests and understanding them really leads to having options.
+
+133
+00:05:37,380 --> 00:05:40,150
+If you know what you want, you can say, well,
+
+134
+00:05:40,150 --> 00:05:42,920
+there may be a lot of different solutions to getting it.
+
+135
+00:05:44,680 --> 00:05:48,000
+So I just put this picture in the this is
+
+136
+00:05:48,000 --> 00:05:51,320
+a sort of stereotypical negotiation is like people have positions.
+
+137
+00:05:51,520 --> 00:05:53,400
+You know, I want five hundred dollars.
+
+138
+00:05:53,800 --> 00:05:55,860
+And then if you ask them why?
+
+139
+00:05:56,060 --> 00:05:57,620
+Why do you need five hundred dollars?
+
+140
+00:05:58,120 --> 00:06:00,580
+They'll say, well, you know, you drove over my fence
+
+141
+00:06:00,580 --> 00:06:03,040
+and it's going to cost five hundred dollars to fix it.
+
+142
+00:06:03,520 --> 00:06:05,190
+So that's the that's the interest is
+
+143
+00:06:05,190 --> 00:06:06,860
+that I need to fix my fence.
+
+144
+00:06:07,260 --> 00:06:10,330
+I could say, well, my brother fixes fences and he'll do it and
+
+145
+00:06:10,330 --> 00:06:13,400
+he'll make it as good as new and you won't have to pay anything.
+
+146
+00:06:14,140 --> 00:06:18,910
+So now I've had an option of the options are all the things that
+
+147
+00:06:18,910 --> 00:06:23,680
+solve the that solve your interests that that you may not have thought of.
+
+148
+00:06:23,680 --> 00:06:25,500
+So typically as an engineer.
+
+149
+00:06:25,860 --> 00:06:28,560
+We come in and say, here is the right answer.
+
+150
+00:06:28,560 --> 00:06:31,440
+You know, we need to program this in C++.
+
+151
+00:06:31,740 --> 00:06:34,360
+And then you'd say, well, like, why is it?
+
+152
+00:06:34,360 --> 00:06:37,100
+Well, if I have to learn some other language,
+
+153
+00:06:37,100 --> 00:06:39,840
+it'll take me six months to learn that language.
+
+154
+00:06:39,840 --> 00:06:41,130
+But I already know C++, so
+
+155
+00:06:41,130 --> 00:06:42,420
+I can do it in three weeks.
+
+156
+00:06:42,900 --> 00:06:46,380
+So you have to get to even I teach a moderating
+
+157
+00:06:46,380 --> 00:06:49,860
+design dispute in one of the design courses to double nine.
+
+158
+00:06:50,100 --> 00:06:52,510
+And it's really just helping people
+
+159
+00:06:52,510 --> 00:06:54,920
+understand why people want what they want.
+
+160
+00:06:55,420 --> 00:06:55,860
+OK.
+
+161
+00:06:55,860 --> 00:07:00,300
+So now we're getting to the negotiations.
+
+162
+00:07:00,620 --> 00:07:02,680
+So the first things you're going
+
+163
+00:07:02,680 --> 00:07:04,740
+to do is talk amongst yourselves.
+
+164
+00:07:05,100 --> 00:07:06,510
+Then you're going to have negotiations
+
+165
+00:07:06,510 --> 00:07:07,920
+within your company as it grows.
+
+166
+00:07:08,080 --> 00:07:13,530
+And you're going to have to talk to people outside your company, not just just
+
+167
+00:07:13,530 --> 00:07:18,980
+not just your customers, but your vendors, your people that you work with and collaborate with.
+
+168
+00:07:19,200 --> 00:07:21,540
+So you're going to have all kinds of negotiations.
+
+169
+00:07:24,000 --> 00:07:25,860
+So we talk about we talk.
+
+170
+00:07:26,060 --> 00:07:29,400
+About the kinds of negotiations the founders should have.
+
+171
+00:07:29,760 --> 00:07:31,680
+And I've divided into three parts.
+
+172
+00:07:31,700 --> 00:07:33,300
+One is first questions.
+
+173
+00:07:33,600 --> 00:07:35,120
+And we'll get to these in details.
+
+174
+00:07:35,580 --> 00:07:37,380
+Everybody's heard of a founders agreement.
+
+175
+00:07:37,420 --> 00:07:38,880
+And we'll talk a little bit about that.
+
+176
+00:07:39,220 --> 00:07:40,860
+And then there's the team agreement.
+
+177
+00:07:41,580 --> 00:07:43,890
+So first questions are really why
+
+178
+00:07:43,890 --> 00:07:46,200
+are why are you doing this.
+
+179
+00:07:46,620 --> 00:07:48,040
+What does success look like.
+
+180
+00:07:48,380 --> 00:07:50,920
+And what are you giving up to do this venture.
+
+181
+00:07:51,220 --> 00:07:53,480
+And I think the third question is really
+
+182
+00:07:53,480 --> 00:07:55,740
+the most one of the most important because people.
+
+183
+00:07:55,740 --> 00:07:58,810
+Say oh I'm giving up grad school or I got this great
+
+184
+00:07:58,810 --> 00:08:01,880
+job with Google but I'm giving it up to to work on this.
+
+185
+00:08:02,180 --> 00:08:04,320
+And it's really important to know where people come from.
+
+186
+00:08:04,800 --> 00:08:07,440
+So what I'd like you to do
+
+187
+00:08:07,440 --> 00:08:10,080
+is for about two minutes with your co-founder.
+
+188
+00:08:10,760 --> 00:08:14,920
+Don't give information that's secret to your company but you
+
+189
+00:08:14,920 --> 00:08:19,080
+could but ask each other these questions and answer them.
+
+190
+00:08:19,440 --> 00:08:22,540
+Now what I want to also stress here is the
+
+191
+00:08:22,540 --> 00:08:25,640
+person when you ask your co-founder why are you doing this.
+
+192
+00:08:25,740 --> 00:08:27,430
+They're going to give you some
+
+193
+00:08:27,430 --> 00:08:29,120
+answer instead of just moving on.
+
+194
+00:08:29,880 --> 00:08:35,299
+We're going to practice active listening and just reframe it say so you are doing
+
+195
+00:08:35,299 --> 00:08:40,720
+this to you know to further the further the science in your field whatever it is.
+
+196
+00:08:41,000 --> 00:08:43,740
+And this way every both sides feel heard.
+
+197
+00:08:44,159 --> 00:08:47,740
+And we're going to ask and answer these questions.
+
+198
+00:08:47,860 --> 00:08:48,220
+OK.
+
+199
+00:08:48,600 --> 00:08:50,320
+Give like two minutes or three minutes.
+
+200
+00:08:55,060 --> 00:08:55,600
+OK.
+
+201
+00:08:55,740 --> 00:09:00,620
+How are we doing up there.
+
+202
+00:09:01,280 --> 00:09:02,260
+Let's stop for a minute.
+
+203
+00:09:02,580 --> 00:09:04,950
+How many of you are planning
+
+204
+00:09:04,950 --> 00:09:07,320
+to found a company with another person.
+
+205
+00:09:07,460 --> 00:09:08,240
+Please raise your hand.
+
+206
+00:09:09,620 --> 00:09:11,120
+Keep your hands raised.
+
+207
+00:09:11,560 --> 00:09:13,640
+If you have already had this discussion.
+
+208
+00:09:16,480 --> 00:09:17,040
+OK.
+
+209
+00:09:17,820 --> 00:09:18,440
+One person.
+
+210
+00:09:19,240 --> 00:09:19,400
+OK.
+
+211
+00:09:19,420 --> 00:09:20,920
+So what you're doing here is
+
+212
+00:09:20,920 --> 00:09:22,420
+you're finding out each other's interests.
+
+213
+00:09:22,520 --> 00:09:24,120
+I have my slides in the wrong order so I'm
+
+214
+00:09:24,120 --> 00:09:25,720
+going to skip a slide but I will come back.
+
+215
+00:09:25,840 --> 00:09:26,340
+To it.
+
+216
+00:09:28,040 --> 00:09:33,330
+So what I tell people to do is this is called the circle of interests where you write a
+
+217
+00:09:33,330 --> 00:09:38,620
+circle and then you put each person's you know a little stick for each person and write their interests down.
+
+218
+00:09:39,000 --> 00:09:41,460
+And the reason you do this is so that
+
+219
+00:09:41,460 --> 00:09:43,920
+you literally get all of your interests on one page.
+
+220
+00:09:45,320 --> 00:09:46,500
+So this is what I did.
+
+221
+00:09:46,540 --> 00:09:50,910
+I mentored a startup and we sat and I actually asked them the questions
+
+222
+00:09:50,910 --> 00:09:55,280
+and I took down their answers and you can see one of them is.
+
+223
+00:09:55,280 --> 00:09:57,410
+I'm trying to solve a problem
+
+224
+00:09:57,410 --> 00:09:59,540
+that's been identified but not yet solved.
+
+225
+00:09:59,780 --> 00:10:00,939
+I want to learn about tech.
+
+226
+00:10:00,980 --> 00:10:02,320
+I don't know about tech
+
+227
+00:10:02,320 --> 00:10:03,660
+but I wanted to challenge myself.
+
+228
+00:10:04,100 --> 00:10:05,360
+I want to challenge myself
+
+229
+00:10:05,360 --> 00:10:06,620
+to learn something I know nothing.
+
+230
+00:10:06,920 --> 00:10:08,350
+I'm good at detail and I
+
+231
+00:10:08,350 --> 00:10:09,780
+want to keep expanding my skills.
+
+232
+00:10:10,220 --> 00:10:11,750
+And the other founder said well
+
+233
+00:10:11,750 --> 00:10:13,280
+I want to be a successful entrepreneur.
+
+234
+00:10:13,579 --> 00:10:17,329
+I want to show how a successful venture can change the format
+
+235
+00:10:17,329 --> 00:10:21,079
+or help a certain section of people and be a profitable company.
+
+236
+00:10:21,480 --> 00:10:23,370
+So they gave me all these things I wrote them
+
+237
+00:10:23,370 --> 00:10:25,260
+down and then I looked at them and I said.
+
+238
+00:10:25,460 --> 00:10:27,760
+Oh so have you heard any you.
+
+239
+00:10:27,880 --> 00:10:29,450
+You haven't heard anything that
+
+240
+00:10:29,450 --> 00:10:31,020
+you haven't heard before right here.
+
+241
+00:10:31,319 --> 00:10:33,869
+And they kind of gave me a very sheepish look
+
+242
+00:10:33,869 --> 00:10:36,420
+and they hadn't discussed it because they had a great idea.
+
+243
+00:10:36,460 --> 00:10:38,610
+They both wanted to do it but they didn't
+
+244
+00:10:38,610 --> 00:10:40,760
+know why the other person wanted to do it.
+
+245
+00:10:40,980 --> 00:10:41,480
+Right.
+
+246
+00:10:41,500 --> 00:10:42,700
+So I feel like this is.
+
+247
+00:10:42,760 --> 00:10:43,620
+Well let me ask you this.
+
+248
+00:10:43,640 --> 00:10:47,340
+Do you think this is important when starting a company.
+
+249
+00:10:48,120 --> 00:10:48,720
+OK.
+
+250
+00:10:48,900 --> 00:10:51,510
+So let me go back to this slide that I skipped because
+
+251
+00:10:51,510 --> 00:10:54,120
+I went back and forth what order these things should be in.
+
+252
+00:10:54,140 --> 00:10:54,500
+And.
+
+253
+00:10:55,260 --> 00:10:59,349
+This this slide I added because pretty much after every one of
+
+254
+00:10:59,349 --> 00:11:03,439
+these lectures people will how do I know who's a good co-founder.
+
+255
+00:11:03,760 --> 00:11:05,480
+How do I know how should I pick them.
+
+256
+00:11:06,020 --> 00:11:08,110
+And the thing is this is where I
+
+257
+00:11:08,110 --> 00:11:10,200
+call the discussion that you have your honest assessment.
+
+258
+00:11:10,580 --> 00:11:14,830
+What skills do we each bring and what are our personalities to really discuss like
+
+259
+00:11:14,830 --> 00:11:19,080
+oh I really love being in front of people and I will talk people's ears off.
+
+260
+00:11:19,439 --> 00:11:22,339
+Whereas some people are like well maybe that kind of function
+
+261
+00:11:22,339 --> 00:11:25,240
+you should take over because I'm not so interested in doing that.
+
+262
+00:11:25,460 --> 00:11:28,570
+But what I am not saying is let's just say you're
+
+263
+00:11:28,570 --> 00:11:31,680
+two mechanical engineers and you have an idea for a widget.
+
+264
+00:11:31,760 --> 00:11:33,820
+I am not saying you should not form a
+
+265
+00:11:33,820 --> 00:11:35,880
+company together because you have the exact same skills.
+
+266
+00:11:36,140 --> 00:11:41,140
+What I am saying is that when you form your company with you know you know your
+
+267
+00:11:41,140 --> 00:11:46,140
+skill set and you're going to say oh we will need additional skills to help this company.
+
+268
+00:11:46,720 --> 00:11:47,100
+Right.
+
+269
+00:11:47,100 --> 00:11:50,080
+So it's not saying who you should and shouldn't
+
+270
+00:11:50,080 --> 00:11:53,060
+you know be with as far as your technical skills.
+
+271
+00:11:53,280 --> 00:11:55,020
+It's just understanding that.
+
+272
+00:11:55,260 --> 00:11:58,760
+There's a lot of skills needed to start a company and knowing
+
+273
+00:11:58,760 --> 00:12:02,260
+which ones you have and which ones you don't have are really important.
+
+274
+00:12:02,800 --> 00:12:03,300
+OK.
+
+275
+00:12:06,140 --> 00:12:06,760
+All right.
+
+276
+00:12:07,760 --> 00:12:12,300
+So the next one is the founders agreement and I'm not going to spend
+
+277
+00:12:12,300 --> 00:12:16,840
+too much time on it because there are lots and lots of books written.
+
+278
+00:12:16,880 --> 00:12:18,760
+In fact even MIT has has a
+
+279
+00:12:18,760 --> 00:12:20,640
+book on how to write a founders agreement.
+
+280
+00:12:20,819 --> 00:12:25,120
+But basically it's just covering who owns what.
+
+281
+00:12:25,260 --> 00:12:27,760
+You know who did what who's contributing what.
+
+282
+00:12:27,960 --> 00:12:30,800
+And your very favorite the equity discussion.
+
+283
+00:12:30,840 --> 00:12:33,070
+How many people are looking forward to
+
+284
+00:12:33,070 --> 00:12:35,300
+having an equity discussion with their co-founder.
+
+285
+00:12:36,560 --> 00:12:37,260
+OK.
+
+286
+00:12:37,380 --> 00:12:39,020
+So you already had it.
+
+287
+00:12:39,060 --> 00:12:41,020
+You guys already had your equity discussions.
+
+288
+00:12:41,300 --> 00:12:41,920
+No the people.
+
+289
+00:12:42,880 --> 00:12:43,380
+Oh no.
+
+290
+00:12:43,640 --> 00:12:45,100
+You're just you're just OK.
+
+291
+00:12:45,140 --> 00:12:45,640
+Fine.
+
+292
+00:12:45,960 --> 00:12:46,460
+All right.
+
+293
+00:12:46,920 --> 00:12:50,940
+And the most important thing is what happens if one founder leaves and
+
+294
+00:12:50,940 --> 00:12:54,960
+that's a really like OK I decided I am going to grad school.
+
+295
+00:12:55,260 --> 00:12:56,380
+And see you later.
+
+296
+00:12:56,960 --> 00:12:59,680
+And having these discussions and writing everything down.
+
+297
+00:13:00,140 --> 00:13:04,140
+And the thing with equity is like suppose I'm the inventor and the other person
+
+298
+00:13:04,140 --> 00:13:08,140
+is sort of the business person and we're like oh we could form a company.
+
+299
+00:13:08,460 --> 00:13:11,400
+Well at the beginning of the company I'm doing all the work and maybe as
+
+300
+00:13:11,400 --> 00:13:14,340
+the company goes on I do less and less and people take more and more.
+
+301
+00:13:14,600 --> 00:13:18,620
+So it's really about what your contributions are what are the values of the
+
+302
+00:13:18,620 --> 00:13:22,640
+contribution you make to the company and being able to just have a real discussion.
+
+303
+00:13:22,880 --> 00:13:25,140
+What does it take to put this company together.
+
+304
+00:13:25,260 --> 00:13:26,560
+And who's going to do what.
+
+305
+00:13:26,720 --> 00:13:27,950
+And what are the pieces and
+
+306
+00:13:27,950 --> 00:13:29,180
+what are the values of the pieces.
+
+307
+00:13:29,500 --> 00:13:31,840
+So this is just something that
+
+308
+00:13:31,840 --> 00:13:34,180
+you're going to have to talk about.
+
+309
+00:13:34,600 --> 00:13:36,660
+And again there's lots of
+
+310
+00:13:36,660 --> 00:13:38,720
+lots of literature to help you.
+
+311
+00:13:39,720 --> 00:13:42,460
+So the last thing is about the team agreement.
+
+312
+00:13:43,100 --> 00:13:44,640
+So what is a team agreement.
+
+313
+00:13:45,380 --> 00:13:47,090
+So anytime two or more
+
+314
+00:13:47,090 --> 00:13:48,800
+people work together it's a team.
+
+315
+00:13:49,100 --> 00:13:49,420
+Right.
+
+316
+00:13:49,460 --> 00:13:51,960
+So like I do a lot of co-mediation.
+
+317
+00:13:52,220 --> 00:13:53,060
+That's a team.
+
+318
+00:13:53,460 --> 00:13:54,300
+And the agreement is how
+
+319
+00:13:54,300 --> 00:13:55,140
+are we going to work together.
+
+320
+00:13:55,260 --> 00:13:57,430
+And I think all companies have it
+
+321
+00:13:57,430 --> 00:13:59,600
+but it's sort of like the secret thing.
+
+322
+00:13:59,800 --> 00:14:01,360
+You know when you go work for
+
+323
+00:14:01,360 --> 00:14:02,920
+a company it's like oh who knows this.
+
+324
+00:14:03,100 --> 00:14:04,260
+How do you get that done.
+
+325
+00:14:04,460 --> 00:14:05,600
+How do we communicate.
+
+326
+00:14:05,800 --> 00:14:08,020
+Which slack channels are we supposed to be using.
+
+327
+00:14:08,300 --> 00:14:10,180
+All the things that that you
+
+328
+00:14:10,180 --> 00:14:12,060
+have to learn as a new employee.
+
+329
+00:14:12,500 --> 00:14:15,840
+You could actually write down in advance and and
+
+330
+00:14:15,840 --> 00:14:19,180
+and create the culture for your company that you want.
+
+331
+00:14:19,460 --> 00:14:23,140
+And MIT really does push having team agreements.
+
+332
+00:14:23,140 --> 00:14:25,580
+And I'm a mentor for the
+
+333
+00:14:25,580 --> 00:14:28,020
+UPAP program which is undergraduate practice opportunities.
+
+334
+00:14:28,340 --> 00:14:30,930
+And on the first day they have to write an
+
+335
+00:14:30,930 --> 00:14:33,520
+agreement on how they're going to interact with each other.
+
+336
+00:14:33,900 --> 00:14:36,770
+So the kind of corporate culture you want what
+
+337
+00:14:36,770 --> 00:14:39,640
+are the rules and how decisions will be made.
+
+338
+00:14:39,980 --> 00:14:43,260
+So the first thing is is the culture.
+
+339
+00:14:43,640 --> 00:14:46,490
+Now there's company ethics and of course we
+
+340
+00:14:46,490 --> 00:14:49,340
+can argue Google did have its original ethics.
+
+341
+00:14:49,340 --> 00:14:50,260
+Don't be evil.
+
+342
+00:14:50,600 --> 00:14:52,560
+You might argue well maybe now it's.
+
+343
+00:14:52,560 --> 00:14:53,060
+Be less evil.
+
+344
+00:14:53,060 --> 00:14:53,100
+It's not.
+
+345
+00:14:53,480 --> 00:14:55,300
+More evil than everyone else.
+
+346
+00:14:55,680 --> 00:14:58,680
+But they they did have one originally.
+
+347
+00:14:59,300 --> 00:15:01,400
+And what do you expect for people to do.
+
+348
+00:15:01,600 --> 00:15:04,140
+How are you expecting people to behave to each other.
+
+349
+00:15:04,480 --> 00:15:07,750
+And again as you start your company if you don't think about
+
+350
+00:15:07,750 --> 00:15:11,020
+these things your first employees are going to create the culture for you.
+
+351
+00:15:11,440 --> 00:15:16,830
+So this is your chance to do two things set up the kind of culture you want to work
+
+352
+00:15:16,830 --> 00:15:22,220
+in and you want others to work in and also have a way to communicate it with each other.
+
+353
+00:15:22,520 --> 00:15:23,060
+So this is like how are you going to interact.
+
+354
+00:15:23,219 --> 00:15:24,439
+How are we going to have meetings.
+
+355
+00:15:24,640 --> 00:15:28,869
+So I just co-founded a venture which is a nonprofit that
+
+356
+00:15:28,869 --> 00:15:33,099
+we're really just teaching workshops and I set these things up.
+
+357
+00:15:33,099 --> 00:15:35,389
+We're going to we're going to have a Monday morning meeting
+
+358
+00:15:35,389 --> 00:15:37,680
+you know and we're going to talk about the following things.
+
+359
+00:15:37,939 --> 00:15:40,119
+And how are we going to plan and
+
+360
+00:15:40,119 --> 00:15:42,300
+how are we going to share and collaborate.
+
+361
+00:15:42,400 --> 00:15:45,809
+And just even saying OK we'll use Google Docs
+
+362
+00:15:45,809 --> 00:15:49,219
+or we'll use Slack or whatever it is is important.
+
+363
+00:15:49,760 --> 00:15:51,760
+The other thing is next we have roles.
+
+364
+00:15:51,859 --> 00:15:52,979
+Who's going to do what.
+
+365
+00:15:53,060 --> 00:15:54,560
+And how are we going
+
+366
+00:15:54,560 --> 00:15:56,060
+to be accountable to each other.
+
+367
+00:15:56,100 --> 00:15:58,360
+So how are we going to manage it.
+
+368
+00:15:58,400 --> 00:16:00,000
+How are we going to
+
+369
+00:16:00,000 --> 00:16:01,600
+understand like what's going to happen.
+
+370
+00:16:01,640 --> 00:16:04,620
+And again this does two things not just sets the
+
+371
+00:16:04,620 --> 00:16:07,600
+stage but it also gives you a way to communicate.
+
+372
+00:16:07,640 --> 00:16:10,980
+Hey you know in our team agreement we said that we would you
+
+373
+00:16:10,980 --> 00:16:14,320
+know have our meetings Monday at three o'clock every you know every Monday.
+
+374
+00:16:14,360 --> 00:16:17,150
+And maybe that's not working now or you seem
+
+375
+00:16:17,150 --> 00:16:19,940
+to be not available every Monday at three o'clock.
+
+376
+00:16:19,980 --> 00:16:21,230
+So it's giving you the
+
+377
+00:16:21,230 --> 00:16:22,480
+language to talk to each other.
+
+378
+00:16:22,480 --> 00:16:24,480
+Instead of sort of accusing each other whatever.
+
+379
+00:16:24,520 --> 00:16:26,520
+These are things you've agreed to.
+
+380
+00:16:26,560 --> 00:16:27,560
+You can change them.
+
+381
+00:16:27,600 --> 00:16:29,100
+And that's the other thing is
+
+382
+00:16:29,100 --> 00:16:30,600
+all these things should be revisited.
+
+383
+00:16:30,640 --> 00:16:32,640
+Everything that you do.
+
+384
+00:16:32,680 --> 00:16:34,680
+I have a co-founders check in
+
+385
+00:16:34,680 --> 00:16:36,680
+you know every six months or so.
+
+386
+00:16:36,720 --> 00:16:37,720
+How are we doing.
+
+387
+00:16:37,780 --> 00:16:40,780
+And it's really not about what we're doing it's
+
+388
+00:16:40,780 --> 00:16:43,780
+about how are we working together as a team.
+
+389
+00:16:43,820 --> 00:16:44,320
+OK.
+
+390
+00:16:44,360 --> 00:16:46,360
+So the last thing is
+
+391
+00:16:46,360 --> 00:16:48,360
+how will the team make decisions.
+
+392
+00:16:48,400 --> 00:16:51,360
+And what will you do if you disagree.
+
+393
+00:16:51,400 --> 00:16:52,440
+So.
+
+394
+00:16:52,520 --> 00:16:55,380
+So I'm going to give you like two
+
+395
+00:16:55,380 --> 00:16:58,240
+minutes to talk to your co-founder and you each.
+
+396
+00:16:58,280 --> 00:17:02,530
+First of all the people that are co-founding how many people
+
+397
+00:17:02,530 --> 00:17:06,780
+have 50 50 agreements like we each own half the company.
+
+398
+00:17:06,819 --> 00:17:08,980
+OK.
+
+399
+00:17:09,020 --> 00:17:11,790
+So assume that you co-founder you're all
+
+400
+00:17:11,790 --> 00:17:14,560
+50 50 have a discussion with you.
+
+401
+00:17:14,599 --> 00:17:18,240
+What can you do when you disagree on something.
+
+402
+00:17:18,280 --> 00:17:18,680
+OK.
+
+403
+00:17:18,720 --> 00:17:20,940
+I'll give you like two minutes.
+
+404
+00:17:20,980 --> 00:17:22,319
+Hey.
+
+405
+00:17:22,480 --> 00:17:25,480
+OK.
+
+406
+00:17:25,520 --> 00:17:28,480
+Raise your hand and I'll call on you.
+
+407
+00:17:28,520 --> 00:17:32,240
+Who has some suggestions as to what to do.
+
+408
+00:17:32,280 --> 00:17:37,060
+What to do with if you can't agree.
+
+409
+00:17:37,100 --> 00:17:44,140
+Raise your raise your hand.
+
+410
+00:17:44,180 --> 00:17:47,100
+I'm giving each other some time
+
+411
+00:17:47,100 --> 00:17:50,020
+to discuss over what was being discussed.
+
+412
+00:17:50,060 --> 00:17:51,360
+I have bullet points.
+
+413
+00:17:51,400 --> 00:17:52,320
+But.
+
+414
+00:17:52,320 --> 00:17:54,480
+I'm probably.
+
+415
+00:17:54,520 --> 00:17:55,620
+Afterwards.
+
+416
+00:17:55,659 --> 00:17:59,080
+Lock each other together in the room.
+
+417
+00:17:59,120 --> 00:18:05,520
+Or go for if preferred for coffee or something.
+
+418
+00:18:05,560 --> 00:18:06,520
+OK.
+
+419
+00:18:06,560 --> 00:18:13,630
+Then discuss honestly about everything should be honest of what their opinion
+
+420
+00:18:13,630 --> 00:18:20,700
+was and how they think they could come together to a probable solution.
+
+421
+00:18:20,740 --> 00:18:21,399
+But.
+
+422
+00:18:21,439 --> 00:18:22,280
+The conversation.
+
+423
+00:18:22,320 --> 00:18:24,280
+Should be honest.
+
+424
+00:18:24,320 --> 00:18:27,450
+Once we exit the room there should
+
+425
+00:18:27,450 --> 00:18:30,580
+be nothing that's held back so that.
+
+426
+00:18:30,620 --> 00:18:33,720
+For the collective vision we can move forward
+
+427
+00:18:33,720 --> 00:18:36,820
+from that problem because there's many others to come.
+
+428
+00:18:36,860 --> 00:18:37,120
+OK.
+
+429
+00:18:37,160 --> 00:18:39,320
+So step back think about it
+
+430
+00:18:39,320 --> 00:18:41,480
+and have a real intense discussion.
+
+431
+00:18:41,520 --> 00:18:46,660
+Who else has some other ideas.
+
+432
+00:18:46,700 --> 00:18:47,940
+So.
+
+433
+00:18:47,980 --> 00:18:50,480
+It also depends on.
+
+434
+00:18:50,480 --> 00:18:53,600
+At which point of disagreement you are.
+
+435
+00:18:53,640 --> 00:18:57,060
+It is a point of blockage of the business
+
+436
+00:18:57,060 --> 00:19:00,480
+potentially one that will impact the growth of the business.
+
+437
+00:19:00,520 --> 00:19:02,710
+It has to be a point
+
+438
+00:19:02,710 --> 00:19:04,900
+that will have a form of resolution.
+
+439
+00:19:04,940 --> 00:19:09,020
+So in the past that level of disagreement I put
+
+440
+00:19:09,020 --> 00:19:13,100
+in the agreement from the beginning basically a Wesleyan approach.
+
+441
+00:19:13,140 --> 00:19:14,790
+We will agree to disagree and
+
+442
+00:19:14,790 --> 00:19:16,440
+this is what we will do.
+
+443
+00:19:16,480 --> 00:19:17,960
+Prior to that you should try
+
+444
+00:19:17,960 --> 00:19:19,440
+to not be at that level.
+
+445
+00:19:19,480 --> 00:19:20,320
+And then.
+
+446
+00:19:20,320 --> 00:19:22,480
+Try to get some form of mediation.
+
+447
+00:19:22,520 --> 00:19:26,380
+So finding a neutral ground going to move either sharing a
+
+448
+00:19:26,380 --> 00:19:30,240
+meal is one thing that it gets the businesses more mature.
+
+449
+00:19:30,280 --> 00:19:36,359
+Finding ways to not get to that level of disagreement and how if
+
+450
+00:19:36,359 --> 00:19:42,439
+there's not an imbalance of power how you can get a joint decision.
+
+451
+00:19:42,480 --> 00:19:42,780
+OK.
+
+452
+00:19:42,820 --> 00:19:43,939
+Good.
+
+453
+00:19:43,980 --> 00:19:45,080
+Over here.
+
+454
+00:19:45,120 --> 00:19:47,160
+So one thing that we
+
+455
+00:19:47,160 --> 00:19:49,200
+were talking about is if you.
+
+456
+00:19:49,240 --> 00:19:49,520
+We.
+
+457
+00:19:49,520 --> 00:19:50,360
+Are.
+
+458
+00:19:50,400 --> 00:19:57,150
+Agree on something that we should find like an advice person that would like consultants that
+
+459
+00:19:57,150 --> 00:20:03,900
+will help us and we should agree that we will go without being on that advice person.
+
+460
+00:20:03,940 --> 00:20:05,139
+That is the next person.
+
+461
+00:20:05,180 --> 00:20:05,860
+OK.
+
+462
+00:20:05,900 --> 00:20:06,440
+Consultant.
+
+463
+00:20:06,480 --> 00:20:07,180
+Great.
+
+464
+00:20:07,220 --> 00:20:08,440
+Are there any other ideas.
+
+465
+00:20:08,480 --> 00:20:16,360
+Oh they're back there.
+
+466
+00:20:16,400 --> 00:20:17,440
+So.
+
+467
+00:20:17,440 --> 00:20:21,060
+We also talked about the type of decision that remains.
+
+468
+00:20:21,100 --> 00:20:24,330
+So if it's a one way type of decision so
+
+469
+00:20:24,330 --> 00:20:27,560
+it's very hard to come back or take it back.
+
+470
+00:20:27,600 --> 00:20:31,820
+Then we discuss a lot on it.
+
+471
+00:20:31,860 --> 00:20:34,820
+We go very truthfully.
+
+472
+00:20:34,860 --> 00:20:36,320
+Truthfully.
+
+473
+00:20:36,360 --> 00:20:39,640
+Right.
+
+474
+00:20:39,680 --> 00:20:41,770
+We put a lot of investment and
+
+475
+00:20:41,770 --> 00:20:43,860
+we come up with a decision together.
+
+476
+00:20:43,900 --> 00:20:44,280
+Right.
+
+477
+00:20:44,320 --> 00:20:44,780
+Either.
+
+478
+00:20:44,820 --> 00:20:47,280
+We can also work outside.
+
+479
+00:20:47,280 --> 00:20:48,740
+Or.
+
+480
+00:20:48,780 --> 00:20:50,360
+Guidance or something like that.
+
+481
+00:20:50,399 --> 00:20:52,379
+But if it's a two way
+
+482
+00:20:52,379 --> 00:20:54,360
+decision so we can make it.
+
+483
+00:20:54,399 --> 00:20:56,089
+And then it's not that hard
+
+484
+00:20:56,089 --> 00:20:57,780
+to come back with that decision.
+
+485
+00:20:57,820 --> 00:20:59,660
+We can just evaluate.
+
+486
+00:20:59,700 --> 00:21:02,240
+Just like make the decision.
+
+487
+00:21:02,280 --> 00:21:02,899
+Example.
+
+488
+00:21:02,940 --> 00:21:04,160
+What is the.
+
+489
+00:21:04,200 --> 00:21:07,160
+What is the benefit from that decision.
+
+490
+00:21:07,200 --> 00:21:07,520
+OK.
+
+491
+00:21:07,580 --> 00:21:09,930
+So the severity decision make it
+
+492
+00:21:09,930 --> 00:21:12,280
+and see see how it goes.
+
+493
+00:21:12,320 --> 00:21:13,280
+Good.
+
+494
+00:21:13,320 --> 00:21:14,980
+Summarize that a little bit.
+
+495
+00:21:15,040 --> 00:21:15,440
+Just like.
+
+496
+00:21:15,480 --> 00:21:15,780
+Yeah.
+
+497
+00:21:15,820 --> 00:21:16,120
+You know.
+
+498
+00:21:16,160 --> 00:21:16,980
+Like a one way decision.
+
+499
+00:21:16,980 --> 00:21:18,740
+Where it's like you know once you go back.
+
+500
+00:21:18,780 --> 00:21:19,860
+Or once you go to it.
+
+501
+00:21:19,900 --> 00:21:21,280
+Can't really come back with it.
+
+502
+00:21:21,320 --> 00:21:23,030
+Just take it a little bit of
+
+503
+00:21:23,030 --> 00:21:24,740
+the way and then see how it goes.
+
+504
+00:21:24,780 --> 00:21:25,900
+And then like go from there.
+
+505
+00:21:25,940 --> 00:21:26,400
+OK.
+
+506
+00:21:26,440 --> 00:21:26,740
+OK.
+
+507
+00:21:26,780 --> 00:21:27,400
+If it doesn't work out.
+
+508
+00:21:27,440 --> 00:21:29,480
+Go with the other person.
+
+509
+00:21:29,520 --> 00:21:30,020
+OK.
+
+510
+00:21:30,060 --> 00:21:31,750
+So decide and then maybe you
+
+511
+00:21:31,750 --> 00:21:33,440
+can back out if it's not good.
+
+512
+00:21:33,480 --> 00:21:36,830
+So there's the get advice from an
+
+513
+00:21:36,830 --> 00:21:40,180
+expert or MIT venture mentoring kind of people.
+
+514
+00:21:40,220 --> 00:21:41,480
+Consultants.
+
+515
+00:21:41,520 --> 00:21:44,640
+You know some companies take turns being the decider.
+
+516
+00:21:44,680 --> 00:21:45,440
+But.
+
+517
+00:21:45,480 --> 00:21:46,480
+So I have another.
+
+518
+00:21:46,480 --> 00:21:50,790
+Workshop that I used to teach called helping small businesses avoid
+
+519
+00:21:50,790 --> 00:21:55,100
+court based on all of the mediations that I had done.
+
+520
+00:21:55,140 --> 00:21:56,320
+And so I have.
+
+521
+00:21:56,360 --> 00:21:59,240
+I also do arbitration which is where I'm the decider.
+
+522
+00:21:59,280 --> 00:22:00,880
+So I talked to one of my
+
+523
+00:22:00,880 --> 00:22:02,480
+lawyer friends and I said oh can you.
+
+524
+00:22:02,520 --> 00:22:04,250
+You know you've done a lot
+
+525
+00:22:04,250 --> 00:22:05,980
+of litigation on with small companies.
+
+526
+00:22:06,020 --> 00:22:07,600
+Can you tell me what you
+
+527
+00:22:07,600 --> 00:22:09,180
+know I'm working on this workshop.
+
+528
+00:22:09,240 --> 00:22:10,140
+Can you help me.
+
+529
+00:22:10,180 --> 00:22:12,600
+And he looks at me says never
+
+530
+00:22:12,600 --> 00:22:15,020
+ever let anyone be 50 be 50 50.
+
+531
+00:22:15,060 --> 00:22:16,240
+Make it 51.
+
+532
+00:22:17,200 --> 00:22:19,320
+And then he starts telling me all the court
+
+533
+00:22:19,320 --> 00:22:21,440
+cases that he had where he sued the other partner.
+
+534
+00:22:21,480 --> 00:22:23,660
+And at one point there was like a.
+
+535
+00:22:23,700 --> 00:22:26,620
+The two partners got in a fight in the courtroom.
+
+536
+00:22:26,660 --> 00:22:27,780
+And so.
+
+537
+00:22:27,820 --> 00:22:30,280
+So he's like telling me doing that and I said I
+
+538
+00:22:30,280 --> 00:22:32,740
+laughed at him I said you know it's funny you say that.
+
+539
+00:22:32,780 --> 00:22:34,780
+But 100 percent of the people
+
+540
+00:22:34,780 --> 00:22:36,780
+that I've ever met are 50 50.
+
+541
+00:22:36,820 --> 00:22:38,820
+So we better give them the
+
+542
+00:22:38,820 --> 00:22:40,820
+tools so that they can avoid you.
+
+543
+00:22:40,860 --> 00:22:42,050
+So they don't have what they
+
+544
+00:22:42,050 --> 00:22:43,240
+don't wind up being at lawyers.
+
+545
+00:22:43,280 --> 00:22:46,080
+So that's sort of where this is that this.
+
+546
+00:22:46,080 --> 00:22:47,620
+Has started out from.
+
+547
+00:22:47,659 --> 00:22:48,699
+OK good.
+
+548
+00:22:48,740 --> 00:22:51,010
+So now we're going to get to the
+
+549
+00:22:51,010 --> 00:22:53,280
+role play and I need a couple of volunteers.
+
+550
+00:22:53,320 --> 00:22:54,919
+So.
+
+551
+00:22:54,960 --> 00:22:57,439
+You have in your pairs one of
+
+552
+00:22:57,439 --> 00:22:59,919
+you is going to be the inventor Sandra.
+
+553
+00:22:59,960 --> 00:23:02,540
+And one of you is going to be a student.
+
+554
+00:23:02,580 --> 00:23:04,879
+And Sandra and this is a true story.
+
+555
+00:23:04,919 --> 00:23:06,659
+This happened here at MIT.
+
+556
+00:23:06,699 --> 00:23:08,969
+And Joe knows the people involved
+
+557
+00:23:08,969 --> 00:23:11,240
+and I know the people involved.
+
+558
+00:23:11,280 --> 00:23:13,160
+Sandra has invented a very
+
+559
+00:23:13,160 --> 00:23:15,040
+inexpensive way to process crude oil.
+
+560
+00:23:15,080 --> 00:23:15,960
+So.
+
+561
+00:23:15,960 --> 00:23:17,860
+I need I have three slides I used to
+
+562
+00:23:17,860 --> 00:23:19,760
+hand out pieces of paper for people to read.
+
+563
+00:23:19,800 --> 00:23:22,120
+But I need volunteers to read the slides.
+
+564
+00:23:22,160 --> 00:23:23,350
+So do I have a
+
+565
+00:23:23,350 --> 00:23:24,540
+volunteer who will read one slide.
+
+566
+00:23:24,580 --> 00:23:25,340
+Thank you.
+
+567
+00:23:25,380 --> 00:23:26,960
+Then I need to read the second one.
+
+568
+00:23:27,000 --> 00:23:28,200
+OK here we go.
+
+569
+00:23:28,260 --> 00:23:32,300
+Read this slide please.
+
+570
+00:23:32,340 --> 00:23:33,920
+I know.
+
+571
+00:23:33,960 --> 00:23:38,660
+It's cheaper than handing out paper that no one wants.
+
+572
+00:23:38,720 --> 00:23:38,920
+Yeah.
+
+573
+00:23:38,960 --> 00:23:42,540
+Yes verbatim just read it.
+
+574
+00:23:42,580 --> 00:23:43,380
+Very.
+
+575
+00:23:43,420 --> 00:23:44,460
+Overview.
+
+576
+00:23:44,500 --> 00:23:45,660
+Sandra has a.
+
+577
+00:23:45,660 --> 00:23:47,080
+Name but you've done that it can only
+
+578
+00:23:47,080 --> 00:23:48,500
+process one cup of crude oil at a time.
+
+579
+00:23:48,540 --> 00:23:51,040
+Several undergraduates try to run this.
+
+580
+00:23:51,080 --> 00:23:53,660
+And then you still take it up and
+
+581
+00:23:53,660 --> 00:23:56,240
+somehow it was decided to end with a
+
+582
+00:23:56,280 --> 00:23:56,860
+hundred.
+
+583
+00:23:56,900 --> 00:23:57,480
+Division.
+
+584
+00:23:57,540 --> 00:23:59,000
+And perhaps start a company.
+
+585
+00:23:59,040 --> 00:24:00,120
+Ten to City.
+
+586
+00:24:00,160 --> 00:24:02,420
+Between the inventor and her.
+
+587
+00:24:02,460 --> 00:24:04,040
+I stone mox with.
+
+588
+00:24:04,080 --> 00:24:05,080
+The under contents.
+
+589
+00:24:05,120 --> 00:24:07,200
+Starting seating.
+
+590
+00:24:07,240 --> 00:24:07,420
+On.
+
+591
+00:24:07,780 --> 00:24:10,960
+On.
+
+592
+00:24:11,000 --> 00:24:11,740
+The.
+
+593
+00:24:11,780 --> 00:24:12,360
+Attempts.
+
+594
+00:24:12,360 --> 00:24:13,540
+To.
+
+595
+00:24:13,580 --> 00:24:14,540
+devastated more.
+
+596
+00:24:14,580 --> 00:24:14,660
+Of.
+
+597
+00:24:14,700 --> 00:24:14,780
+He.
+
+598
+00:24:14,820 --> 00:24:14,900
+Can.
+
+599
+00:24:14,960 --> 00:24:15,040
+On.
+
+600
+00:24:15,080 --> 00:24:15,580
+You.
+
+601
+00:24:15,580 --> 00:24:19,260
+who of course were very invested in the invention.
+
+602
+00:24:19,260 --> 00:24:20,479
+They put in a tremendous
+
+603
+00:24:20,479 --> 00:24:21,699
+amount of work in this venture,
+
+604
+00:24:21,699 --> 00:24:25,620
+sometimes to the determent of their regular task work.
+
+605
+00:24:25,620 --> 00:24:27,460
+Just before the competition, however,
+
+606
+00:24:27,460 --> 00:24:30,300
+Sandra is taking off pulling it out.
+
+607
+00:24:30,300 --> 00:24:33,080
+Saying that her invention isn't great.
+
+608
+00:24:33,080 --> 00:24:35,340
+This would leave the students disappointed and frustrated
+
+609
+00:24:35,340 --> 00:24:37,179
+that all their work has been for nothing.
+
+610
+00:24:37,179 --> 00:24:39,080
+OK, next one.
+
+611
+00:24:39,080 --> 00:24:40,080
+That's so smart.
+
+612
+00:24:42,580 --> 00:24:45,020
+Sandra's invention could only process
+
+613
+00:24:45,020 --> 00:24:47,520
+one cup of food at a time.
+
+614
+00:24:47,520 --> 00:24:49,400
+And she isn't sure how to scale it up,
+
+615
+00:24:49,400 --> 00:24:51,639
+or even if the process is scalable.
+
+616
+00:24:51,639 --> 00:24:53,860
+She has no written agreement with the students.
+
+617
+00:24:53,860 --> 00:24:56,060
+And she isn't even sure the students are
+
+618
+00:24:56,060 --> 00:24:58,139
+capable of starting a company.
+
+619
+00:24:58,139 --> 00:25:01,580
+In the end, though, it is her invention.
+
+620
+00:25:01,580 --> 00:25:03,359
+And she feels that she can
+
+621
+00:25:03,359 --> 00:25:05,139
+decide what to do with it.
+
+622
+00:25:05,139 --> 00:25:07,160
+I need one more reader.
+
+623
+00:25:07,160 --> 00:25:09,280
+Anyone else want to read one?
+
+624
+00:25:09,280 --> 00:25:09,780
+OK.
+
+625
+00:25:13,340 --> 00:25:15,020
+They are in the AU Center.
+
+626
+00:25:15,020 --> 00:25:19,220
+She had a PhD and has invented something
+
+627
+00:25:19,220 --> 00:25:22,520
+that could be really useful and profitable.
+
+628
+00:25:22,520 --> 00:25:25,260
+They are hesitant to bring up uncomfortable subjects
+
+629
+00:25:25,260 --> 00:25:29,060
+like agreements, with her assuming that it will all
+
+630
+00:25:29,060 --> 00:25:32,130
+work out after they have proven
+
+631
+00:25:32,130 --> 00:25:35,200
+to her how much effort they're
+
+632
+00:25:35,200 --> 00:25:38,520
+willing to put in to make the company a success.
+
+633
+00:25:38,520 --> 00:25:40,560
+They can't understand her reluctance
+
+634
+00:25:40,560 --> 00:25:42,520
+to move forward faster.
+
+635
+00:25:42,520 --> 00:25:44,560
+When they get a company executive interested,
+
+636
+00:25:44,560 --> 00:25:47,860
+she doesn't seem that excited to speak with them.
+
+637
+00:25:47,860 --> 00:25:50,260
+Also, she doesn't seem to really want
+
+638
+00:25:50,260 --> 00:25:52,660
+to show her invention to
+
+639
+00:25:52,660 --> 00:25:55,060
+anyone, even though from the outside,
+
+640
+00:25:55,060 --> 00:25:57,679
+it just looks like a black box.
+
+641
+00:25:57,679 --> 00:25:59,999
+And no one would be
+
+642
+00:25:59,999 --> 00:26:02,320
+able to see the inside process.
+
+643
+00:26:02,320 --> 00:26:03,480
+OK.
+
+644
+00:26:03,480 --> 00:26:06,179
+So one of you is Sandra.
+
+645
+00:26:06,179 --> 00:26:08,260
+And one of you is the students.
+
+646
+00:26:08,260 --> 00:26:11,139
+But first of all, I'd like you to discuss
+
+647
+00:26:11,139 --> 00:26:12,940
+what are your interests.
+
+648
+00:26:12,940 --> 00:26:14,080
+So take a couple minutes.
+
+649
+00:26:14,080 --> 00:26:14,560
+OK.
+
+650
+00:26:14,560 --> 00:26:17,560
+So take a couple minutes and tell each other
+
+651
+00:26:17,560 --> 00:26:19,320
+what your interests are.
+
+652
+00:26:19,320 --> 00:26:22,179
+And actually, you can think about the other person's too.
+
+653
+00:26:22,179 --> 00:26:23,249
+So if you're a student,
+
+654
+00:26:23,249 --> 00:26:24,320
+you can think, oh, maybe Sandra
+
+655
+00:26:24,320 --> 00:26:25,560
+might be interested in this.
+
+656
+00:26:25,560 --> 00:26:27,940
+So think about the interests
+
+657
+00:26:27,940 --> 00:26:30,320
+of both Sandra and the student.
+
+658
+00:26:30,320 --> 00:26:31,560
+And I'll give you a few minutes.
+
+659
+00:26:35,560 --> 00:26:38,679
+People at home, write down all the interests
+
+660
+00:26:38,679 --> 00:26:40,309
+that you can think of
+
+661
+00:26:40,309 --> 00:26:41,940
+for both Sandra and the students.
+
+662
+00:26:44,560 --> 00:26:46,899
+Who would you like to talk with?
+
+663
+00:26:46,899 --> 00:26:52,840
+Hey, we're going to fill our little interest thing.
+
+664
+00:26:52,840 --> 00:26:54,639
+I can't do it what you're saying.
+
+665
+00:26:54,639 --> 00:26:58,379
+But let's start with the student's interest.
+
+666
+00:26:58,379 --> 00:27:00,440
+And she's just going to hand it.
+
+667
+00:27:00,440 --> 00:27:01,960
+People in the corner, just
+
+668
+00:27:01,960 --> 00:27:03,480
+say something, a student interest,
+
+669
+00:27:03,480 --> 00:27:06,600
+and then hand it to the person next to you.
+
+670
+00:27:06,600 --> 00:27:09,440
+A student interest is fun and exciting
+
+671
+00:27:09,440 --> 00:27:11,560
+and could be a cool experience for them.
+
+672
+00:27:11,560 --> 00:27:12,200
+A student.
+
+673
+00:27:12,200 --> 00:27:12,700
+OK.
+
+674
+00:27:12,700 --> 00:27:14,399
+So they want a fun experience.
+
+675
+00:27:14,400 --> 00:27:25,060
+next a student okay we could say
+
+676
+00:27:25,060 --> 00:27:35,720
+Sandra whatever okay wanting to protect her IP
+
+677
+00:27:35,720 --> 00:27:40,070
+so why do they want to raise
+
+678
+00:27:40,070 --> 00:27:44,420
+money what what what are their interests
+
+679
+00:27:44,420 --> 00:27:53,870
+profitable venture okay so she's worried about
+
+680
+00:27:53,870 --> 00:28:03,320
+her reputation do you want to hand
+
+681
+00:28:03,320 --> 00:28:04,440
+it down to the next row
+
+682
+00:28:05,720 --> 00:28:11,850
+yeah I would repeat what they phrase it
+
+683
+00:28:11,850 --> 00:28:17,980
+okay would say that the students are more
+
+684
+00:28:17,980 --> 00:28:22,450
+concerned of the process and some drum
+
+685
+00:28:22,450 --> 00:28:26,920
+more concern about the result so the
+
+686
+00:28:26,920 --> 00:28:29,130
+students want to get experience in
+
+687
+00:28:29,130 --> 00:28:31,340
+starting a company and Sanders really
+
+688
+00:28:31,340 --> 00:28:33,390
+worried about her reputation and
+
+689
+00:28:33,390 --> 00:28:35,440
+being able to to build the
+
+690
+00:28:35,720 --> 00:28:41,880
+wiedersehen they don't want toSlap hands up anything D
+
+691
+00:28:50,200 --> 00:28:55,220
+he's no pain and really Assistant Smoothie
+
+692
+00:28:59,800 --> 00:29:02,540
+in avereko
+
+693
+00:29:02,540 --> 00:29:03,640
+hi
+
+694
+00:29:03,640 --> 00:29:04,860
+more concerns
+
+695
+00:29:04,860 --> 00:29:05,500
+yeah
+
+696
+00:29:05,500 --> 00:29:07,240
+purpose like oh no I can't do my
+
+697
+00:29:07,240 --> 00:29:08,980
+homework I have to work on this project
+
+698
+00:29:08,980 --> 00:29:13,020
+I mean is it like what's an interest
+
+699
+00:29:13,020 --> 00:29:16,580
+maybe it's also like a good cost kind of thing where they spend
+
+700
+00:29:16,580 --> 00:29:20,140
+time on this and they could have been doing time on the work instead
+
+701
+00:29:20,140 --> 00:29:24,040
+okay so they want to return
+
+702
+00:29:24,040 --> 00:29:27,940
+on their investment yeah of time okay
+
+703
+00:29:27,940 --> 00:29:32,630
+right are there other ideas okay
+
+704
+00:29:32,630 --> 00:29:37,320
+actually go here first and then then
+
+705
+00:29:37,320 --> 00:29:42,810
+back oh okay that's okay go ahead that's
+
+706
+00:29:42,810 --> 00:29:48,300
+fine okay so she is in control yeah okay
+
+707
+00:29:48,300 --> 00:29:54,000
+anyone else on this line okay
+
+708
+00:29:56,460 --> 00:29:57,460
+yeah
+
+709
+00:29:57,940 --> 00:30:04,480
+so Suncraft is focused on the Wagner Technology
+
+710
+00:30:04,480 --> 00:30:05,410
+trying to make it scalable and
+
+711
+00:30:05,410 --> 00:30:06,340
+gradually be able to use it ...
+
+712
+00:30:13,600 --> 00:30:18,340
+the students you know here I was students and they...
+
+713
+00:30:18,340 --> 00:30:23,740
+they need one internship they need one job
+
+714
+00:30:23,740 --> 00:30:27,180
+and to put this into a 24 hour program
+
+715
+00:30:27,180 --> 00:30:30,680
+know into their own resume, you know, graduate. So
+
+716
+00:30:30,680 --> 00:30:34,180
+their work and some of us seem a little different.
+
+717
+00:30:34,180 --> 00:30:36,180
+And maybe I have one there.
+
+718
+00:30:36,180 --> 00:30:40,180
+No, this is good. So possibly they just want to put it on their
+
+719
+00:30:40,180 --> 00:30:44,180
+resume, but maybe they don't, they want this to be their career, their job.
+
+720
+00:30:44,180 --> 00:30:48,680
+Maybe they just, you know, this is like, oh, look, if I do this and it's
+
+721
+00:30:48,680 --> 00:30:53,180
+successful, I have a job coming out of school and I can do something that's worthwhile.
+
+722
+00:30:53,180 --> 00:30:55,680
+So are there any other
+
+723
+00:30:55,680 --> 00:30:58,180
+things that you felt weren't covered?
+
+724
+00:30:58,180 --> 00:31:02,680
+OK, so over the over the years, we've collected a bunch
+
+725
+00:31:02,680 --> 00:31:07,180
+of things and actually from the from the real people, too.
+
+726
+00:31:07,180 --> 00:31:10,180
+But here. So the students get it. And
+
+727
+00:31:10,180 --> 00:31:13,180
+again, they're this is not the right answer.
+
+728
+00:31:13,180 --> 00:31:16,180
+You guys had answers. I mean, this is when you're
+
+729
+00:31:16,180 --> 00:31:19,180
+thinking about people's interests, you don't necessarily always get them right.
+
+730
+00:31:19,180 --> 00:31:20,680
+And I'll go to, you know, even
+
+731
+00:31:20,680 --> 00:31:22,180
+when I'm in a mediation, I'll say,
+
+732
+00:31:22,180 --> 00:31:22,680
+OK, I'm going to do
+
+733
+00:31:22,680 --> 00:31:23,180
+this. I'm going to do this.
+
+734
+00:31:23,180 --> 00:31:25,180
+So you're interested in this. And they'll go,
+
+735
+00:31:25,180 --> 00:31:27,180
+no, I'm not interested in that at all.
+
+736
+00:31:27,180 --> 00:31:29,680
+But I am interested in why. Right.
+
+737
+00:31:29,680 --> 00:31:32,180
+So, again, this is not the right answer.
+
+738
+00:31:32,180 --> 00:31:34,180
+These are just things that have
+
+739
+00:31:34,180 --> 00:31:36,180
+since I couldn't really do it live.
+
+740
+00:31:36,180 --> 00:31:38,680
+Things that people have thought up over the years.
+
+741
+00:31:38,680 --> 00:31:41,180
+You know, there's a career path with the company.
+
+742
+00:31:41,180 --> 00:31:44,180
+The students, they are learning to talk with executives.
+
+743
+00:31:44,180 --> 00:31:46,180
+I mean, they're talking to
+
+744
+00:31:46,180 --> 00:31:48,180
+senior executives at oil companies. Right.
+
+745
+00:31:48,180 --> 00:31:49,680
+They are bringing a new
+
+746
+00:31:49,680 --> 00:31:51,180
+technology that will help the world.
+
+747
+00:31:51,180 --> 00:31:52,180
+So they're like, wow, this will be great.
+
+748
+00:31:52,180 --> 00:31:58,180
+If we could really cut down on what it takes to process crude oil,
+
+749
+00:31:58,180 --> 00:32:04,180
+maybe we would, you know, save a lot of energy, obviously money and career.
+
+750
+00:32:04,180 --> 00:32:06,680
+And for her, she wants to protect her IP,
+
+751
+00:32:06,680 --> 00:32:09,180
+which you said about that, that she wants control.
+
+752
+00:32:09,180 --> 00:32:11,680
+But she also is very concerned about her
+
+753
+00:32:11,680 --> 00:32:14,180
+own, you know, her own reputation in the field.
+
+754
+00:32:14,180 --> 00:32:17,680
+She doesn't want to say, oh, I have this, you know, because scaling up
+
+755
+00:32:17,680 --> 00:32:21,180
+from one cup to, you know, a million gallons a day is not, you know,
+
+756
+00:32:21,180 --> 00:32:25,180
+an easy thing to do.
+
+757
+00:32:25,180 --> 00:32:33,180
+So what you're going to do now, student and Sandra, are you're going to pick the things
+
+758
+00:32:33,180 --> 00:32:41,180
+that you thought of that were interests and come up with an agreement that would meet your interests.
+
+759
+00:32:41,180 --> 00:32:42,180
+OK, so you're going to get a
+
+760
+00:32:42,180 --> 00:32:43,180
+little bit longer to talk about this.
+
+761
+00:32:43,180 --> 00:32:45,180
+You can pick a couple of things, two
+
+762
+00:32:45,180 --> 00:32:47,180
+or three things and come up with them.
+
+763
+00:32:47,180 --> 00:32:48,180
+If you were going to go
+
+764
+00:32:48,180 --> 00:32:49,180
+forward with this, what would you do?
+
+765
+00:32:49,180 --> 00:32:51,680
+If you were going to go forward with
+
+766
+00:32:51,680 --> 00:32:54,180
+this, what kind of agreement would meet your interests?
+
+767
+00:32:54,180 --> 00:32:57,680
+So pick a couple of your interests, the ones that you thought of, or if
+
+768
+00:32:57,680 --> 00:33:01,180
+you want to pick from there and let's see what agreements you can come up with.
+
+769
+00:33:01,180 --> 00:33:07,180
+OK.
+
+770
+00:33:07,180 --> 00:33:11,680
+OK, so how many of you raise your hand if
+
+771
+00:33:11,680 --> 00:33:16,180
+you were able to come to some kind of agreement?
+
+772
+00:33:16,180 --> 00:33:17,180
+OK.
+
+773
+00:33:17,180 --> 00:33:19,180
+So for the people who.
+
+774
+00:33:19,180 --> 00:33:21,680
+Who came to an agreement, can you
+
+775
+00:33:21,680 --> 00:33:24,180
+tell us something that you agreed to?
+
+776
+00:33:24,180 --> 00:33:26,680
+And I wanted to make one other comment
+
+777
+00:33:26,680 --> 00:33:29,180
+before that someone came up and mentioned to me.
+
+778
+00:33:29,180 --> 00:33:31,180
+So sometimes it's hard to understand what
+
+779
+00:33:31,180 --> 00:33:33,180
+our interests and what our positions like.
+
+780
+00:33:33,180 --> 00:33:35,180
+I want to I want to raise capital.
+
+781
+00:33:35,180 --> 00:33:37,180
+Well, then it's what are the interests behind the capital?
+
+782
+00:33:37,180 --> 00:33:38,180
+What is it?
+
+783
+00:33:38,180 --> 00:33:39,180
+What is it going to do for you?
+
+784
+00:33:39,180 --> 00:33:41,180
+Why do you want to raise the capital?
+
+785
+00:33:41,180 --> 00:33:44,680
+So these are interests, what they what they want, what they're what
+
+786
+00:33:44,680 --> 00:33:48,180
+they're interested, what their fears are, as opposed to, you know, you know,
+
+787
+00:33:48,180 --> 00:33:49,180
+they think they're going to win.
+
+788
+00:33:49,180 --> 00:33:50,180
+They could say, I want to make a million dollars.
+
+789
+00:33:50,180 --> 00:33:51,180
+Well, that's an interest.
+
+790
+00:33:51,180 --> 00:33:52,180
+Right.
+
+791
+00:33:52,180 --> 00:33:55,680
+So it's but we'll keep going through this and
+
+792
+00:33:55,680 --> 00:33:59,180
+coming down to what are interests versus versus positions.
+
+793
+00:33:59,180 --> 00:34:00,180
+OK.
+
+794
+00:34:00,180 --> 00:34:04,180
+So who wants to share something that they
+
+795
+00:34:04,180 --> 00:34:08,179
+agreed to that they could both agree to?
+
+796
+00:34:08,179 --> 00:34:09,179
+We could go first.
+
+797
+00:34:09,179 --> 00:34:11,679
+So we came to the agreement
+
+798
+00:34:11,679 --> 00:34:14,179
+that it could be a joint venture.
+
+799
+00:34:14,179 --> 00:34:15,679
+But Sandra has all the
+
+800
+00:34:15,679 --> 00:34:17,179
+idea of the package and everything.
+
+801
+00:34:17,179 --> 00:34:18,179
+And she comes to like.
+
+802
+00:34:18,179 --> 00:34:21,179
+I thought it was a beautiful license.
+
+803
+00:34:21,179 --> 00:34:23,179
+We are part of this business.
+
+804
+00:34:23,179 --> 00:34:27,679
+Specifically, there's like a discounted significantly discounted rate for the
+
+805
+00:34:27,679 --> 00:34:32,179
+students to manufacture and use it for the first 10 years.
+
+806
+00:34:32,179 --> 00:34:35,179
+And then it's only with time that change.
+
+807
+00:34:35,179 --> 00:34:38,179
+Also, like her position in the company might not
+
+808
+00:34:38,179 --> 00:34:41,179
+be as a co-founder, but more as an advisor.
+
+809
+00:34:41,179 --> 00:34:42,179
+OK.
+
+810
+00:34:42,179 --> 00:34:43,179
+She doesn't need to be in the limelight.
+
+811
+00:34:43,179 --> 00:34:46,179
+But at the same time, she has ownership.
+
+812
+00:34:46,179 --> 00:34:47,179
+She has shares.
+
+813
+00:34:47,179 --> 00:34:49,679
+She could have an agreement with the revenue
+
+814
+00:34:49,679 --> 00:34:52,179
+share law to come to her because her license
+
+815
+00:34:52,179 --> 00:34:53,679
+already has money and we put
+
+816
+00:34:53,679 --> 00:34:55,179
+an additional revenue stream for her.
+
+817
+00:34:55,179 --> 00:34:58,179
+The way I see it is that
+
+818
+00:34:58,179 --> 00:35:01,180
+students have the most incentive to do it.
+
+819
+00:35:01,180 --> 00:35:04,180
+But because Sandra has the idea, the
+
+820
+00:35:04,180 --> 00:35:07,180
+students have to take the most risk.
+
+821
+00:35:07,180 --> 00:35:09,180
+Sandra is like the queen bee in this situation.
+
+822
+00:35:09,180 --> 00:35:11,680
+She has the main thing that's doing
+
+823
+00:35:11,680 --> 00:35:14,180
+this whole thing together, taking this on.
+
+824
+00:35:14,180 --> 00:35:16,180
+And yeah.
+
+825
+00:35:16,180 --> 00:35:17,180
+Yeah.
+
+826
+00:35:17,180 --> 00:35:18,180
+OK.
+
+827
+00:35:18,180 --> 00:35:19,180
+OK.
+
+828
+00:35:19,180 --> 00:35:20,180
+So good.
+
+829
+00:35:20,180 --> 00:35:21,180
+And that's an agreement you
+
+830
+00:35:21,180 --> 00:35:22,180
+both would agree to and sign.
+
+831
+00:35:22,180 --> 00:35:24,180
+Who else had something?
+
+832
+00:35:24,180 --> 00:35:27,180
+Who else agreed to something?
+
+833
+00:35:27,180 --> 00:35:32,180
+Did you guys have an agreement?
+
+834
+00:35:32,180 --> 00:35:37,680
+So in our case, she made the point that Sandra does
+
+835
+00:35:37,680 --> 00:35:43,180
+deserve a lot of equity because of her experience in the IT.
+
+836
+00:35:43,180 --> 00:35:43,680
+But I need to point that although IT is
+
+837
+00:35:43,680 --> 00:35:44,180
+a very good thing, it's not a good thing.
+
+838
+00:35:44,180 --> 00:35:45,180
+It's not a good thing.
+
+839
+00:35:45,180 --> 00:35:45,680
+And we're not trying to do this because we
+
+840
+00:35:45,680 --> 00:35:46,180
+want to do it because it's a good thing.
+
+841
+00:35:46,180 --> 00:35:46,680
+So we are trying to do this because we want
+
+842
+00:35:46,680 --> 00:35:47,180
+to do it because we want to do it because it's
+
+843
+00:35:47,180 --> 00:35:48,180
+good for the company.
+
+844
+00:35:48,180 --> 00:35:48,680
+And also, although IP, there
+
+845
+00:35:48,680 --> 00:35:49,180
+is no business without the IP.
+
+846
+00:35:49,180 --> 00:35:49,680
+There is also no business without marketing,
+
+847
+00:35:49,680 --> 00:35:50,180
+but functions that are required in the company.
+
+848
+00:35:50,180 --> 00:35:50,680
+So we decided to come up with
+
+849
+00:35:50,680 --> 00:35:51,180
+a number for each of these functions.
+
+850
+00:35:51,180 --> 00:35:51,680
+So first take it up,
+
+851
+00:35:51,680 --> 00:35:52,180
+you know, a bunch of functions.
+
+852
+00:35:52,180 --> 00:35:53,180
+Come up with a number for each of these functions.
+
+853
+00:35:53,180 --> 00:35:53,680
+And have an honest discussion
+
+854
+00:35:53,680 --> 00:35:54,180
+about who would perform which function.
+
+855
+00:35:54,180 --> 00:36:13,180
+And according to that, we divide.
+
+856
+00:36:13,180 --> 00:36:14,180
+OK.
+
+857
+00:36:14,180 --> 00:36:19,180
+So base equity on all the different requirements
+
+858
+00:36:19,560 --> 00:36:22,500
+and who's gonna do what and then talk about that.
+
+859
+00:36:22,500 --> 00:36:24,290
+Okay, so you did agree
+
+860
+00:36:24,290 --> 00:36:26,080
+to have a joint venture together.
+
+861
+00:36:26,080 --> 00:36:27,339
+Okay, who else?
+
+862
+00:36:36,460 --> 00:36:39,279
+So I mean, overall we had a lot more disagreements
+
+863
+00:36:39,279 --> 00:36:42,080
+but one thing we did talk about was like
+
+864
+00:36:42,080 --> 00:36:43,340
+maybe using patents to protect
+
+865
+00:36:43,340 --> 00:36:44,600
+her IP for a little bit
+
+866
+00:36:44,600 --> 00:36:46,040
+so that she could have some control over it
+
+867
+00:36:46,040 --> 00:36:49,600
+while giving like company control over to someone else.
+
+868
+00:36:49,600 --> 00:36:51,860
+Okay, so what were your challenges?
+
+869
+00:36:52,720 --> 00:36:54,480
+Yeah, I mean the challenge is like,
+
+870
+00:36:54,480 --> 00:36:55,590
+it sounds kind of like
+
+871
+00:36:55,590 --> 00:36:56,700
+Sandra wants to have her KTE
+
+872
+00:36:56,700 --> 00:36:58,880
+to do a little bit because like, you know,
+
+873
+00:36:58,880 --> 00:37:00,470
+she wants to protect her IP
+
+874
+00:37:00,470 --> 00:37:02,060
+and like have control over it,
+
+875
+00:37:02,060 --> 00:37:03,560
+right, but at the same time she doesn't want
+
+876
+00:37:03,560 --> 00:37:05,000
+to run her own business
+
+877
+00:37:05,000 --> 00:37:06,440
+and like she wants to stay
+
+878
+00:37:06,440 --> 00:37:08,640
+under the limelight and that kind of like, you know,
+
+879
+00:37:08,640 --> 00:37:12,040
+interferes with like wanting to grow and everything, so.
+
+880
+00:37:12,040 --> 00:37:15,420
+So she's ambivalent about doing this in general.
+
+881
+00:37:15,420 --> 00:37:16,600
+That's what it sounds like.
+
+882
+00:37:16,600 --> 00:37:20,360
+Okay, so who else had some challenges
+
+883
+00:37:20,360 --> 00:37:22,040
+that would like to share?
+
+884
+00:37:23,560 --> 00:37:24,400
+Okay.
+
+885
+00:37:28,900 --> 00:37:31,520
+It might be different but just thinking about it.
+
+886
+00:37:32,840 --> 00:37:35,880
+Since students cannot really take that much risk,
+
+887
+00:37:35,880 --> 00:37:39,320
+why not use this as a research project
+
+888
+00:37:39,320 --> 00:37:40,560
+where, you know, you can improve
+
+889
+00:37:40,560 --> 00:37:41,800
+on a product, how to scale,
+
+890
+00:37:41,800 --> 00:37:45,120
+scale them, you can get grants to, you know,
+
+891
+00:37:45,120 --> 00:37:47,340
+still make money if you can make money,
+
+892
+00:37:47,340 --> 00:37:50,480
+but both parties can still be protected
+
+893
+00:37:50,480 --> 00:37:51,640
+because it's a research.
+
+894
+00:37:51,640 --> 00:37:54,160
+You don't have to like make any promises.
+
+895
+00:37:54,160 --> 00:37:56,600
+Okay, so instead of starting a company,
+
+896
+00:37:56,600 --> 00:37:59,260
+let's research to how we can scale it up.
+
+897
+00:37:59,260 --> 00:38:00,100
+Is that what you're saying?
+
+898
+00:38:00,100 --> 00:38:02,180
+So let's put in money, we're gonna research,
+
+899
+00:38:02,180 --> 00:38:04,780
+we're gonna get grants to see if it is scalable
+
+900
+00:38:04,780 --> 00:38:08,320
+and that way if I'm Sandra, I feel more comfortable
+
+901
+00:38:08,320 --> 00:38:09,740
+and that you feel more comfortable
+
+902
+00:38:09,740 --> 00:38:11,300
+that this is gonna be a real product
+
+903
+00:38:11,300 --> 00:38:12,480
+and a viable product.
+
+904
+00:38:12,480 --> 00:38:15,160
+Okay, that's a really great idea.
+
+905
+00:38:16,440 --> 00:38:19,500
+Are there any other challenges that you couldn't come
+
+906
+00:38:19,500 --> 00:38:22,680
+to an agreement because of challenges?
+
+907
+00:38:25,460 --> 00:38:28,720
+Okay, so what really happened?
+
+908
+00:38:28,720 --> 00:38:32,320
+How many of you think they had any agreement?
+
+909
+00:38:32,320 --> 00:38:34,000
+Raise your hand.
+
+910
+00:38:34,000 --> 00:38:35,360
+Okay, so they didn't.
+
+911
+00:38:36,420 --> 00:38:37,880
+But let me ask you this
+
+912
+00:38:37,880 --> 00:38:39,340
+before we go to the answer.
+
+913
+00:38:39,340 --> 00:38:43,420
+Is this a one of, does this ever happen?
+
+914
+00:38:43,420 --> 00:38:47,280
+Is this just like one time at MIT this happened
+
+915
+00:38:47,280 --> 00:38:49,660
+and it doesn't happen ever?
+
+916
+00:38:49,660 --> 00:38:51,180
+What are your thoughts?
+
+917
+00:38:51,180 --> 00:38:52,240
+Do you think this is,
+
+918
+00:38:53,500 --> 00:38:55,800
+do you ever hear of things like this happening?
+
+919
+00:38:56,700 --> 00:38:58,240
+Joe, do you wanna say something?
+
+920
+00:39:01,100 --> 00:39:04,980
+Okay, so they didn't have any agreement
+
+921
+00:39:06,160 --> 00:39:07,750
+and they were never able to
+
+922
+00:39:07,750 --> 00:39:09,340
+really talk about what they wanted
+
+923
+00:39:09,340 --> 00:39:11,200
+and what they thought Sandra wanted.
+
+924
+00:39:11,200 --> 00:39:15,580
+And she took her invention and started a different company
+
+925
+00:39:15,580 --> 00:39:17,380
+with a whole different set of people.
+
+926
+00:39:18,540 --> 00:39:22,440
+So it was a great, excellent learning experience
+
+927
+00:39:22,440 --> 00:39:24,240
+for the students.
+
+928
+00:39:24,240 --> 00:39:27,160
+I wanna just tell you, PS, they all graduated
+
+929
+00:39:27,160 --> 00:39:28,820
+and they all have lovely careers.
+
+930
+00:39:30,680 --> 00:39:32,190
+But they were not able
+
+931
+00:39:32,190 --> 00:39:33,700
+to have this discussion with them.
+
+932
+00:39:33,700 --> 00:39:34,710
+And at the time I
+
+933
+00:39:34,710 --> 00:39:35,720
+sort of begged them, I said,
+
+934
+00:39:35,720 --> 00:39:38,620
+let me help you, I'll just be the neutral person.
+
+935
+00:39:38,620 --> 00:39:40,920
+I'll help you have a discussion with her.
+
+936
+00:39:40,920 --> 00:39:42,859
+And they're like, no, no, it'll work out.
+
+937
+00:39:42,859 --> 00:39:44,040
+We're working really hard.
+
+938
+00:39:44,040 --> 00:39:45,080
+It'll work out.
+
+939
+00:39:45,080 --> 00:39:47,560
+So that's what happened.
+
+940
+00:39:47,560 --> 00:39:50,540
+And she still has her company
+
+941
+00:39:50,540 --> 00:39:53,299
+and I don't really know how successful it was,
+
+942
+00:39:53,299 --> 00:39:56,339
+but it's still an ongoing company.
+
+943
+00:39:56,339 --> 00:39:58,680
+So that was that.
+
+944
+00:39:58,680 --> 00:40:03,060
+Was this useful to go through this exercise?
+
+945
+00:40:03,060 --> 00:40:05,640
+Was this helpful to you to think about things
+
+946
+00:40:05,640 --> 00:40:06,960
+from both sides.
+
+947
+00:40:06,960 --> 00:40:08,160
+Okay, because this is a good question.
+
+948
+00:40:08,160 --> 00:40:12,140
+because we're gonna just go do a couple
+
+949
+00:40:12,140 --> 00:40:16,120
+more of these okay so actually so this
+
+950
+00:40:16,120 --> 00:40:18,979
+is your agreements so now you're now
+
+951
+00:40:18,979 --> 00:40:21,839
+you have a company and you negotiate gonna
+
+952
+00:40:21,839 --> 00:40:24,029
+gonna gonna negotiate within a company
+
+953
+00:40:24,029 --> 00:40:26,220
+within people and again there might be
+
+954
+00:40:26,220 --> 00:40:29,080
+differences in power levels you might
+
+955
+00:40:29,080 --> 00:40:31,940
+have legal ramifications there may be
+
+956
+00:40:31,940 --> 00:40:34,520
+more than two parties and it
+
+957
+00:40:34,520 --> 00:40:37,100
+may require another level of confidentiality but
+
+958
+00:40:37,100 --> 00:40:39,290
+again even when I'm having difficulties
+
+959
+00:40:39,290 --> 00:40:41,480
+with someone I always draw my little
+
+960
+00:40:41,480 --> 00:40:43,659
+circle of interests and really try to
+
+961
+00:40:43,659 --> 00:40:45,839
+understand what is it that people are
+
+962
+00:40:45,839 --> 00:40:48,369
+interested in and can I position my
+
+963
+00:40:48,369 --> 00:40:50,900
+interest in the terms of other interests
+
+964
+00:40:50,900 --> 00:40:54,339
+so I sort of given you this is an
+
+965
+00:40:54,339 --> 00:40:57,779
+example and this is this is based on two
+
+966
+00:40:57,779 --> 00:41:00,799
+people that I that I mentored so Judy
+
+967
+00:41:00,799 --> 00:41:03,819
+wants to get a promotion in as a
+
+968
+00:41:03,819 --> 00:41:06,200
+marketing manager by the way is there a talent
+
+969
+00:41:06,200 --> 00:41:06,900
+acquisition
+
+970
+00:41:06,900 --> 00:41:07,080
+acquisition
+
+971
+00:41:07,080 --> 00:41:10,560
+module in this in is there a
+
+972
+00:41:10,560 --> 00:41:14,040
+talent acquisition module in your course no
+
+973
+00:41:14,040 --> 00:41:17,240
+okay so in the field of
+
+974
+00:41:17,240 --> 00:41:20,440
+talent acquisition this is thinking about how
+
+975
+00:41:20,440 --> 00:41:22,550
+people get hired and who you hire but
+
+976
+00:41:22,550 --> 00:41:24,660
+this is example Judy wanted to apply to
+
+977
+00:41:24,660 --> 00:41:27,340
+be a marketing manager and so I had
+
+978
+00:41:27,340 --> 00:41:30,020
+to go through each sort of interested party
+
+979
+00:41:30,020 --> 00:41:32,450
+and these are all the stakeholders
+
+980
+00:41:32,450 --> 00:41:34,880
+what could they possibly be thinking about
+
+981
+00:41:34,880 --> 00:41:36,950
+what would be interest them so the
+
+982
+00:41:36,950 --> 00:41:39,020
+manager wants to look like hey I'm this
+
+983
+00:41:39,020 --> 00:41:41,630
+great manager I'm growing my employees right
+
+984
+00:41:41,630 --> 00:41:44,240
+so they will they can take on more
+
+985
+00:41:44,240 --> 00:41:47,080
+responsibility and and also but I need
+
+986
+00:41:47,080 --> 00:41:49,920
+to get all my work done so Judy's
+
+987
+00:41:49,920 --> 00:41:51,730
+interest well I want to contribute more to
+
+988
+00:41:51,730 --> 00:41:53,540
+this company you know I want to be
+
+989
+00:41:53,540 --> 00:41:56,260
+seen as very competent I want to start
+
+990
+00:41:56,260 --> 00:41:58,980
+supervising others I want to I want to
+
+991
+00:41:58,980 --> 00:42:01,050
+be part of a really high achieving team
+
+992
+00:42:01,050 --> 00:42:03,120
+I want more challenging work I want I
+
+993
+00:42:03,120 --> 00:42:04,860
+want to use my newly gained skills
+
+994
+00:42:04,860 --> 00:42:07,290
+so what does the company want well
+
+995
+00:42:07,290 --> 00:42:09,720
+of course what company doesn't want revenue
+
+996
+00:42:09,720 --> 00:42:11,660
+but they also want effective leadership
+
+997
+00:42:11,660 --> 00:42:13,600
+and they want to grow their employees
+
+998
+00:42:13,600 --> 00:42:16,610
+they want to have more diversity they
+
+999
+00:42:16,610 --> 00:42:19,620
+want more you know more client projects
+
+1000
+00:42:19,620 --> 00:42:22,140
+but then she has teammates they probably
+
+1001
+00:42:22,140 --> 00:42:24,660
+want a promotion too but just thinking
+
+1002
+00:42:24,660 --> 00:42:27,030
+about so thinking about all of these things
+
+1003
+00:42:27,030 --> 00:42:29,400
+and so what it did is it actually
+
+1004
+00:42:29,400 --> 00:42:32,000
+helped her go to her manager but before
+
+1005
+00:42:32,000 --> 00:42:34,600
+she did that I said okay well you want
+
+1006
+00:42:34,600 --> 00:42:36,570
+to be a marketing manager here's all
+
+1007
+00:42:36,570 --> 00:42:38,540
+the things that a marketing manager could do
+
+1008
+00:42:38,540 --> 00:42:40,620
+this is not the exhaustive list but I'm
+
+1009
+00:42:40,620 --> 00:42:42,700
+just saying and then you don't have to
+
+1010
+00:42:42,700 --> 00:42:44,660
+it's just everything that anyone could
+
+1011
+00:42:44,660 --> 00:42:46,620
+think about in marketing and actually
+
+1012
+00:42:46,620 --> 00:42:49,219
+the company that I that I was a
+
+1013
+00:42:49,219 --> 00:42:51,819
+founder of these were these were all the things
+
+1014
+00:42:51,819 --> 00:42:53,769
+that we had to do for marketing I'm
+
+1015
+00:42:53,769 --> 00:42:55,720
+not in market I was the engineering but the
+
+1016
+00:42:55,720 --> 00:42:59,519
+marketing people did and so I sent her
+
+1017
+00:42:59,519 --> 00:43:03,319
+this list and I just didn't do anything
+
+1018
+00:43:03,319 --> 00:43:03,849
+I just said okay well okay I think we're doing a great job now I think
+
+1019
+00:43:03,849 --> 00:43:04,380
+that's a great way to wrap things up for us so we can do something else.
+
+1020
+00:43:04,600 --> 00:43:08,600
+here's some of the things that marketing is responsible for.
+
+1021
+00:43:08,600 --> 00:43:10,600
+So what she did on her
+
+1022
+00:43:10,600 --> 00:43:12,600
+own is she made an Excel spreadsheet
+
+1023
+00:43:12,600 --> 00:43:13,860
+and put every one of
+
+1024
+00:43:13,860 --> 00:43:15,120
+those things in the Excel spreadsheet.
+
+1025
+00:43:15,120 --> 00:43:17,580
+She gave them a value of one, two, three,
+
+1026
+00:43:17,580 --> 00:43:18,600
+how important it was.
+
+1027
+00:43:18,600 --> 00:43:20,240
+And she came up with, on her own,
+
+1028
+00:43:20,240 --> 00:43:21,130
+she came up with a strategy
+
+1029
+00:43:21,130 --> 00:43:22,020
+of what she was gonna do
+
+1030
+00:43:22,020 --> 00:43:23,940
+and how she was going to
+
+1031
+00:43:23,940 --> 00:43:25,860
+go through all of these things,
+
+1032
+00:43:25,860 --> 00:43:27,299
+even though this is not necessarily
+
+1033
+00:43:27,299 --> 00:43:28,980
+the be all and end all list.
+
+1034
+00:43:28,980 --> 00:43:33,440
+And so when she went to talk about her promotion,
+
+1035
+00:43:33,440 --> 00:43:36,520
+she talked about interests and then she also presented,
+
+1036
+00:43:36,520 --> 00:43:39,780
+well, here's what I, she actually presented her report
+
+1037
+00:43:39,780 --> 00:43:41,420
+and here's all the things we need to do
+
+1038
+00:43:41,420 --> 00:43:43,140
+and here's how I think we could start them.
+
+1039
+00:43:43,140 --> 00:43:44,900
+And so she sort of had presented it
+
+1040
+00:43:44,900 --> 00:43:46,640
+like she'd already done the job.
+
+1041
+00:43:46,640 --> 00:43:48,800
+So she did get the job.
+
+1042
+00:43:48,800 --> 00:43:52,580
+So anyway, but it all started with thinking about
+
+1043
+00:43:52,580 --> 00:43:54,180
+what are other people's interests
+
+1044
+00:43:54,180 --> 00:43:56,580
+and then thinking about how can you meet those interests?
+
+1045
+00:43:56,580 --> 00:43:58,520
+How can you prove that you're competent?
+
+1046
+00:43:58,520 --> 00:44:00,980
+How can you prove that
+
+1047
+00:44:00,980 --> 00:44:03,440
+you're ready for this new step?
+
+1048
+00:44:03,440 --> 00:44:05,360
+So that's that one.
+
+1049
+00:44:06,240 --> 00:44:09,520
+Okay, so this is the last one,
+
+1050
+00:44:09,520 --> 00:44:13,220
+is you're gonna have to negotiate with other companies.
+
+1051
+00:44:13,220 --> 00:44:14,740
+And this is a true story.
+
+1052
+00:44:15,840 --> 00:44:17,380
+So this is what happened to me.
+
+1053
+00:44:17,380 --> 00:44:18,680
+I'm Little Inc.
+
+1054
+00:44:18,680 --> 00:44:22,760
+And we had a contract with Big Inc.
+
+1055
+00:44:22,760 --> 00:44:27,640
+And it was a fixed cost contract,
+
+1056
+00:44:27,640 --> 00:44:30,560
+meaning they just paid us upfront for everything.
+
+1057
+00:44:30,560 --> 00:44:32,440
+But in the contract, it said,
+
+1058
+00:44:32,440 --> 00:44:33,940
+we can cancel for any
+
+1059
+00:44:33,940 --> 00:44:35,440
+time, any time that we want.
+
+1060
+00:44:35,440 --> 00:44:37,380
+And if we do, well, we
+
+1061
+00:44:37,380 --> 00:44:39,320
+realize you may have done some work.
+
+1062
+00:44:39,320 --> 00:44:41,380
+So we'll pay you for time and materials
+
+1063
+00:44:41,380 --> 00:44:42,960
+of what you've already done.
+
+1064
+00:44:42,960 --> 00:44:45,940
+And you'll come, well, and literally the contract
+
+1065
+00:44:45,940 --> 00:44:48,800
+was so vague, it said something like,
+
+1066
+00:44:49,640 --> 00:44:52,320
+we'll figure out how much you owe.
+
+1067
+00:44:52,320 --> 00:44:54,560
+Someone will figure out somewhere how much you owe.
+
+1068
+00:44:54,560 --> 00:44:58,880
+And so this is the thing about contracts.
+
+1069
+00:44:58,880 --> 00:45:00,800
+You can have a 300 page contract.
+
+1070
+00:45:00,800 --> 00:45:02,280
+It isn't gonna cover everything.
+
+1071
+00:45:02,280 --> 00:45:04,500
+You can think of it's not gonna.
+
+1072
+00:45:04,500 --> 00:45:07,380
+So it was very vague.
+
+1073
+00:45:07,380 --> 00:45:10,240
+And they basically, they didn't cancel the contract
+
+1074
+00:45:10,240 --> 00:45:11,880
+because of our work.
+
+1075
+00:45:11,880 --> 00:45:13,740
+The company, the Big Inc was actually having
+
+1076
+00:45:13,740 --> 00:45:16,340
+more financial issues and they needed,
+
+1077
+00:45:16,340 --> 00:45:18,300
+they canceled all of their contracts.
+
+1078
+00:45:18,300 --> 00:45:19,660
+So we were just one of them,
+
+1079
+00:45:19,660 --> 00:45:22,780
+but probably on the smaller side.
+
+1080
+00:45:22,780 --> 00:45:26,140
+So they said, we're gonna need some money back.
+
+1081
+00:45:26,140 --> 00:45:28,600
+And we'll talk about, we'll tell you
+
+1082
+00:45:28,600 --> 00:45:30,680
+what we're gonna do later.
+
+1083
+00:45:30,680 --> 00:45:32,280
+So I met with,
+
+1084
+00:45:32,280 --> 00:45:37,140
+I was as manager, or not manager,
+
+1085
+00:45:37,140 --> 00:45:39,760
+but just as representing service.
+
+1086
+00:45:39,760 --> 00:45:42,780
+We had a CFO, the chief financial officer,
+
+1087
+00:45:42,780 --> 00:45:45,380
+and the salesperson who actually sold it.
+
+1088
+00:45:45,380 --> 00:45:48,620
+So we went around the room and everybody said,
+
+1089
+00:45:48,620 --> 00:45:50,560
+we said, I think we should do this.
+
+1090
+00:45:50,560 --> 00:45:52,360
+I think we should do that.
+
+1091
+00:45:52,360 --> 00:45:54,700
+And that got us nowhere.
+
+1092
+00:45:54,700 --> 00:45:55,740
+So I said, how about this?
+
+1093
+00:45:55,740 --> 00:45:57,820
+Why don't we sit down and
+
+1094
+00:45:57,820 --> 00:45:59,900
+think about all of our interests
+
+1095
+00:45:59,900 --> 00:46:02,280
+and we'll think of the interests of the other company,
+
+1096
+00:46:02,280 --> 00:46:03,690
+and then see if we can
+
+1097
+00:46:03,690 --> 00:46:05,100
+come up with a solution space
+
+1098
+00:46:05,100 --> 00:46:07,000
+that would work for us
+
+1099
+00:46:07,000 --> 00:46:08,900
+before we even meet with them.
+
+1100
+00:46:08,900 --> 00:46:11,240
+So, let's see.
+
+1101
+00:46:12,320 --> 00:46:17,320
+So now we have Little Inc has sales executive.
+
+1102
+00:46:17,620 --> 00:46:20,200
+We have the service manager, me,
+
+1103
+00:46:20,200 --> 00:46:22,200
+and we have the CFO,
+
+1104
+00:46:22,200 --> 00:46:24,200
+and then we have Big Inc.
+
+1105
+00:46:25,120 --> 00:46:27,560
+So for this contract,
+
+1106
+00:46:28,760 --> 00:46:30,720
+well let's start with the easiest one.
+
+1107
+00:46:30,720 --> 00:46:31,800
+What might,
+
+1108
+00:46:32,280 --> 00:46:35,040
+what might the sales executive's concern be?
+
+1109
+00:46:35,040 --> 00:46:38,620
+Like, oh my God, the contract was canceled,
+
+1110
+00:46:38,620 --> 00:46:40,380
+we're gonna have to give back money.
+
+1111
+00:46:40,380 --> 00:46:41,800
+What was his concern?
+
+1112
+00:46:41,800 --> 00:46:43,080
+What's coming to my commission?
+
+1113
+00:46:43,080 --> 00:46:46,220
+That's right, what happens to my commission?
+
+1114
+00:46:46,220 --> 00:46:49,860
+So that's what he was mostly worried about.
+
+1115
+00:46:49,860 --> 00:46:54,100
+And so let's talk about the service manager, me.
+
+1116
+00:46:54,100 --> 00:46:56,660
+What was I concerned about?
+
+1117
+00:46:56,660 --> 00:46:57,540
+Your reputation.
+
+1118
+00:46:57,540 --> 00:46:59,100
+My reputation.
+
+1119
+00:47:01,220 --> 00:47:02,060
+What else?
+
+1120
+00:47:02,280 --> 00:47:03,120
+Your job.
+
+1121
+00:47:03,120 --> 00:47:03,940
+My job.
+
+1122
+00:47:03,940 --> 00:47:04,780
+My job?
+
+1123
+00:47:04,780 --> 00:47:07,520
+We lost a contract?
+
+1124
+00:47:07,520 --> 00:47:08,360
+What else?
+
+1125
+00:47:08,360 --> 00:47:13,360
+What does customer support care about?
+
+1126
+00:47:13,360 --> 00:47:14,480
+Customers.
+
+1127
+00:47:14,480 --> 00:47:16,640
+Customers, and what?
+
+1128
+00:47:16,640 --> 00:47:19,040
+The relationship, right?
+
+1129
+00:47:19,040 --> 00:47:20,680
+So what did I care about?
+
+1130
+00:47:20,680 --> 00:47:23,320
+They had been a customer for a really long time,
+
+1131
+00:47:23,320 --> 00:47:25,040
+and we had other stuff going on with them,
+
+1132
+00:47:25,040 --> 00:47:28,220
+so this was not a one-time deal.
+
+1133
+00:47:28,220 --> 00:47:31,800
+We had other contracts with them.
+
+1134
+00:47:31,800 --> 00:47:36,800
+So other interests.
+
+1135
+00:47:38,500 --> 00:47:40,190
+And let me just tell you,
+
+1136
+00:47:40,190 --> 00:47:41,880
+we came up with three pages.
+
+1137
+00:47:41,880 --> 00:47:43,180
+Three pages of interest.
+
+1138
+00:47:43,180 --> 00:47:46,360
+Okay, let's talk about our CFO.
+
+1139
+00:47:46,360 --> 00:47:47,980
+What was her interest?
+
+1140
+00:47:50,040 --> 00:47:52,960
+What's the problem with giving money back?
+
+1141
+00:47:52,960 --> 00:47:54,770
+Accounting, so they need to
+
+1142
+00:47:54,770 --> 00:47:56,580
+have cash to give them back.
+
+1143
+00:47:56,580 --> 00:47:57,960
+Cash flow.
+
+1144
+00:47:58,860 --> 00:48:00,260
+Worried about the company.
+
+1145
+00:48:00,260 --> 00:48:01,340
+What else?
+
+1146
+00:48:01,800 --> 00:48:03,180
+Depends on what happens.
+
+1147
+00:48:03,180 --> 00:48:04,880
+If it's after the closing of the books,
+
+1148
+00:48:04,880 --> 00:48:07,240
+it's really problematic.
+
+1149
+00:48:07,240 --> 00:48:09,050
+Okay, so in other words,
+
+1150
+00:48:09,050 --> 00:48:10,860
+if we've already declared the revenue
+
+1151
+00:48:10,860 --> 00:48:12,520
+because we got the cash,
+
+1152
+00:48:12,520 --> 00:48:14,180
+did we already declare it all,
+
+1153
+00:48:14,180 --> 00:48:15,840
+or do we declare it
+
+1154
+00:48:15,840 --> 00:48:17,500
+like month by month or whatever?
+
+1155
+00:48:17,500 --> 00:48:18,920
+How we declared it, and can
+
+1156
+00:48:18,920 --> 00:48:20,340
+we go back and undeclare it?
+
+1157
+00:48:20,340 --> 00:48:22,500
+So that was that.
+
+1158
+00:48:22,500 --> 00:48:25,140
+But there were a lot of personal things, too.
+
+1159
+00:48:25,140 --> 00:48:27,420
+For example, one of her
+
+1160
+00:48:27,420 --> 00:48:29,700
+concerns was, I don't want them
+
+1161
+00:48:29,700 --> 00:48:30,500
+to think this is David and Goliath.
+
+1162
+00:48:30,500 --> 00:48:31,000
+I don't want them to
+
+1163
+00:48:31,000 --> 00:48:31,500
+think this is David and Goliath.
+
+1164
+00:48:31,500 --> 00:48:33,620
+And they're just stomping all over us.
+
+1165
+00:48:33,620 --> 00:48:35,060
+I wanted them to feel
+
+1166
+00:48:35,060 --> 00:48:36,500
+like we are a real company.
+
+1167
+00:48:36,500 --> 00:48:38,690
+We were a 20-person company,
+
+1168
+00:48:38,690 --> 00:48:40,880
+and they were like 10,000 people.
+
+1169
+00:48:42,380 --> 00:48:44,880
+But the two of us
+
+1170
+00:48:44,880 --> 00:48:47,380
+were agreed on a couple things.
+
+1171
+00:48:48,060 --> 00:48:50,220
+One, we did not want
+
+1172
+00:48:50,220 --> 00:48:52,380
+this to escalate to the CEO,
+
+1173
+00:48:52,380 --> 00:48:54,760
+even though that was just one level up.
+
+1174
+00:48:54,760 --> 00:48:58,360
+In a 20-person company, there's only one or two levels.
+
+1175
+00:48:58,360 --> 00:49:00,620
+We did not want it to go to the CEO.
+
+1176
+00:49:00,620 --> 00:49:04,819
+We did not want lawyers involved, because that
+
+1177
+00:49:04,819 --> 00:49:06,160
+wouldn't have done any good.
+
+1178
+00:49:06,160 --> 00:49:07,479
+And so we really wanted
+
+1179
+00:49:07,479 --> 00:49:08,799
+to keep it at our level.
+
+1180
+00:49:08,799 --> 00:49:12,160
+But now think about our contact at Big Inc.
+
+1181
+00:49:12,160 --> 00:49:13,740
+What was Big Inc. worried about?
+
+1182
+00:49:16,500 --> 00:49:18,500
+Probably their reputation.
+
+1183
+00:49:18,500 --> 00:49:19,720
+Their reputation.
+
+1184
+00:49:19,720 --> 00:49:21,610
+So they were like, oh,
+
+1185
+00:49:21,610 --> 00:49:23,500
+we bought something from Little Inc.
+
+1186
+00:49:23,500 --> 00:49:24,460
+and we canceled it.
+
+1187
+00:49:24,460 --> 00:49:25,500
+And who cares?
+
+1188
+00:49:25,500 --> 00:49:28,460
+We stomp all over little companies.
+
+1189
+00:49:28,460 --> 00:49:29,020
+What else?
+
+1190
+00:49:30,620 --> 00:49:32,660
+Legal.
+
+1191
+00:49:32,660 --> 00:49:36,460
+Maybe they'll sue us, because we've already paid them,
+
+1192
+00:49:36,460 --> 00:49:38,380
+and they've done so much of the work.
+
+1193
+00:49:38,380 --> 00:49:45,060
+Maybe they don't know what we're thinking.
+
+1194
+00:49:45,060 --> 00:49:47,140
+And we didn't know what they were thinking either.
+
+1195
+00:49:47,140 --> 00:49:48,500
+So what else?
+
+1196
+00:49:49,359 --> 00:49:51,579
+Someone messed up, and they
+
+1197
+00:49:51,579 --> 00:49:53,799
+would want to protect themselves.
+
+1198
+00:49:53,799 --> 00:49:54,640
+Right.
+
+1199
+00:49:54,640 --> 00:49:57,220
+So how about the person who bought this and signed
+
+1200
+00:49:57,220 --> 00:49:58,160
+the contract?
+
+1201
+00:49:58,160 --> 00:50:00,420
+Like, oh my god, I signed the contract.
+
+1202
+00:50:00,420 --> 00:50:01,600
+And now they canceled it.
+
+1203
+00:50:01,600 --> 00:50:04,140
+Like, what's my reputation going to be like?
+
+1204
+00:50:04,140 --> 00:50:05,580
+OK.
+
+1205
+00:50:05,580 --> 00:50:13,040
+So here's the interest that we came up with.
+
+1206
+00:50:13,040 --> 00:50:14,900
+And again, I said we have three pages.
+
+1207
+00:50:14,900 --> 00:50:17,300
+So from the sales executive, like,
+
+1208
+00:50:17,300 --> 00:50:19,820
+is this going to affect my follow-on business?
+
+1209
+00:50:19,820 --> 00:50:22,420
+The original contracts were fair and reasonable,
+
+1210
+00:50:22,420 --> 00:50:24,100
+so we felt like he did not.
+
+1211
+00:50:24,100 --> 00:50:27,460
+His interest was that we didn't do anything wrong,
+
+1212
+00:50:27,460 --> 00:50:29,460
+and we shouldn't be penalized.
+
+1213
+00:50:29,460 --> 00:50:30,360
+You have a question?
+
+1214
+00:50:30,420 --> 00:50:34,940
+Were we assuming that this was a big sale?
+
+1215
+00:50:34,940 --> 00:50:36,340
+It was a big company,
+
+1216
+00:50:36,340 --> 00:50:37,740
+but was it a big sale?
+
+1217
+00:50:37,740 --> 00:50:41,360
+It was a big sale for little ink.
+
+1218
+00:50:41,360 --> 00:50:43,420
+Not for big ink.
+
+1219
+00:50:43,420 --> 00:50:45,520
+OK.
+
+1220
+00:50:45,520 --> 00:50:47,880
+And again, for me, the relationship with the customer
+
+1221
+00:50:47,880 --> 00:50:49,120
+was very important.
+
+1222
+00:50:49,120 --> 00:50:51,540
+And I did want them to acknowledge
+
+1223
+00:50:51,540 --> 00:50:52,440
+that we had done work.
+
+1224
+00:50:52,440 --> 00:50:53,890
+I wanted them to say
+
+1225
+00:50:53,890 --> 00:50:55,340
+that we were a competent company,
+
+1226
+00:50:55,340 --> 00:50:58,660
+that they didn't cancel because of anything we did wrong.
+
+1227
+00:50:58,660 --> 00:50:59,740
+So I was worried about our reputation.
+
+1228
+00:50:59,740 --> 00:51:00,240
+OK.
+
+1229
+00:51:00,240 --> 00:51:03,919
+And again, I did not want it to get escalated,
+
+1230
+00:51:03,919 --> 00:51:08,700
+because I just thought that would make things more intense,
+
+1231
+00:51:08,700 --> 00:51:10,140
+put it that way.
+
+1232
+00:51:10,140 --> 00:51:12,600
+Our CFO was worried about cash flow.
+
+1233
+00:51:12,600 --> 00:51:14,580
+She didn't want to get, again, lawyers.
+
+1234
+00:51:14,580 --> 00:51:16,580
+Didn't want to look like she was inexperienced
+
+1235
+00:51:16,580 --> 00:51:19,000
+and didn't know how to run a company.
+
+1236
+00:51:19,000 --> 00:51:21,740
+But she did want it to be fair, and she
+
+1237
+00:51:21,740 --> 00:51:23,799
+didn't want to be taken advantage of.
+
+1238
+00:51:23,799 --> 00:51:25,159
+And she felt like we
+
+1239
+00:51:25,159 --> 00:51:26,520
+did do a lot of work,
+
+1240
+00:51:26,520 --> 00:51:29,140
+and those expenses should be covered.
+
+1241
+00:51:29,140 --> 00:51:30,040
+So again, from big.
+
+1242
+00:51:30,040 --> 00:51:30,240
+Yeah.
+
+1243
+00:51:30,240 --> 00:51:32,339
+From a small business perspective,
+
+1244
+00:51:32,339 --> 00:51:33,560
+we didn't want any of that.
+
+1245
+00:51:33,560 --> 00:51:35,319
+We wanted to do a lot of work, and we
+
+1246
+00:51:35,319 --> 00:51:37,359
+wanted to do a lot of work with our customers.
+
+1247
+00:51:37,359 --> 00:51:38,469
+And we wanted to do a
+
+1248
+00:51:38,469 --> 00:51:39,580
+lot of work with our customers.
+
+1249
+00:51:39,580 --> 00:51:40,799
+So we did that.
+
+1250
+00:51:40,799 --> 00:51:42,879
+But we didn't want to take any of that money.
+
+1251
+00:51:42,879 --> 00:51:45,479
+And we didn't want to take any of that money.
+
+1252
+00:51:45,479 --> 00:51:47,220
+So we just assumed that.
+
+1253
+00:51:47,220 --> 00:51:49,919
+We assumed that because we had other contracts with them.
+
+1254
+00:51:49,919 --> 00:51:51,740
+Again, we didn't know this, but this
+
+1255
+00:51:51,740 --> 00:51:54,040
+is what we thought of in our meeting,
+
+1256
+00:51:54,040 --> 00:51:56,919
+and which I tell people that they really
+
+1257
+00:51:56,919 --> 00:52:00,040
+have to think a lot about.
+
+1258
+00:52:00,040 --> 00:52:04,100
+And so we do那's what we did with our clients
+
+1259
+00:52:04,100 --> 00:52:05,200
+to work together.
+
+1260
+00:52:05,200 --> 00:52:09,759
+And we use that to contribute to the ви treasured
+
+1261
+00:52:09,759 --> 00:52:10,920
+false change.
+
+1262
+00:52:10,920 --> 00:52:12,440
+So the value is, someone else can't give
+
+1263
+00:52:12,440 --> 00:52:14,140
+us any lead, and we can do that.
+
+1264
+00:52:14,140 --> 00:52:17,440
+We can do it ourselves.
+
+1265
+00:52:17,440 --> 00:52:19,880
+This is what I saw on our chat, where
+
+1266
+00:52:19,880 --> 00:52:22,540
+started the meeting and Raz and I just
+
+1267
+00:52:22,540 --> 00:52:29,540
+came into a conversation and ourхc
+
+1268
+00:52:29,540 --> 00:52:31,860
+little speaker phones, the little triangle things,
+
+1269
+00:52:31,860 --> 00:52:33,540
+and we call them, and you
+
+1270
+00:52:33,540 --> 00:52:35,220
+can feel the tension in the air.
+
+1271
+00:52:36,580 --> 00:52:41,580
+And he says, you know, we say hello,
+
+1272
+00:52:42,259 --> 00:52:44,779
+and then they say, they come up and they say,
+
+1273
+00:52:44,779 --> 00:52:47,300
+we want this much money back.
+
+1274
+00:52:47,300 --> 00:52:50,100
+And our CFO looks up and he says, okay.
+
+1275
+00:52:51,420 --> 00:52:52,800
+And that was the end.
+
+1276
+00:52:52,800 --> 00:52:54,440
+So this is a class on negotiation.
+
+1277
+00:52:54,440 --> 00:52:56,440
+What kind of negotiation was that?
+
+1278
+00:52:56,440 --> 00:52:59,780
+What are your thoughts?
+
+1279
+00:52:59,780 --> 00:53:02,180
+We just agreed to the very first thing they said.
+
+1280
+00:53:03,080 --> 00:53:03,920
+Why?
+
+1281
+00:53:05,240 --> 00:53:06,080
+Yes.
+
+1282
+00:53:06,080 --> 00:53:08,440
+Because it was better than you would expect it.
+
+1283
+00:53:08,440 --> 00:53:10,240
+So we had thought in advance
+
+1284
+00:53:10,240 --> 00:53:12,820
+what our solution space could be.
+
+1285
+00:53:12,820 --> 00:53:15,340
+We had thought and really she had calculated out
+
+1286
+00:53:15,340 --> 00:53:18,340
+how much she could afford, what would it do.
+
+1287
+00:53:19,500 --> 00:53:21,960
+And the thing is, is everything, you know,
+
+1288
+00:53:21,960 --> 00:53:23,290
+typically when I teach this, I
+
+1289
+00:53:23,290 --> 00:53:24,620
+get a lot of pushback saying,
+
+1290
+00:53:24,620 --> 00:53:26,440
+hey, you should have at least pushed
+
+1291
+00:53:26,440 --> 00:53:27,280
+back a little bit more.
+
+1292
+00:53:27,280 --> 00:53:28,360
+And I say, you know,
+
+1293
+00:53:28,360 --> 00:53:29,440
+I'm not going to push back
+
+1294
+00:53:29,440 --> 00:53:31,680
+because you're not doing the fiduciary responsibility
+
+1295
+00:53:31,680 --> 00:53:34,800
+for your company, but what were our interests?
+
+1296
+00:53:34,800 --> 00:53:36,860
+What were our real interests?
+
+1297
+00:53:36,860 --> 00:53:40,240
+I mean, obviously we're interested in the financial safety
+
+1298
+00:53:40,240 --> 00:53:44,020
+of the company, but we wanted to keep the relationship.
+
+1299
+00:53:44,020 --> 00:53:46,960
+And we didn't know if we push back,
+
+1300
+00:53:46,960 --> 00:53:49,020
+if everything would fall down.
+
+1301
+00:53:49,020 --> 00:53:50,850
+So I have another colleague who
+
+1302
+00:53:50,850 --> 00:53:52,680
+tells us the exact same story
+
+1303
+00:53:52,680 --> 00:53:56,200
+with his company and they were negotiating, negotiating,
+
+1304
+00:53:56,200 --> 00:54:00,439
+and they did, they tried for one more thing.
+
+1305
+00:54:00,439 --> 00:54:03,520
+And the whole thing blew up in his face.
+
+1306
+00:54:03,520 --> 00:54:06,000
+The company took their toys and went to another vendor
+
+1307
+00:54:06,000 --> 00:54:08,560
+and they never worked together again.
+
+1308
+00:54:08,560 --> 00:54:10,879
+So you just never know.
+
+1309
+00:54:10,879 --> 00:54:14,439
+And you don't want to, we didn't want to push
+
+1310
+00:54:14,439 --> 00:54:15,799
+because it worked for us.
+
+1311
+00:54:15,799 --> 00:54:17,359
+We thought it was fair.
+
+1312
+00:54:17,359 --> 00:54:19,220
+We could see that in their offer,
+
+1313
+00:54:19,220 --> 00:54:21,120
+they didn't want to stomp on us.
+
+1314
+00:54:21,120 --> 00:54:22,749
+They weren't trying to be
+
+1315
+00:54:22,749 --> 00:54:24,379
+punitive to us for any reason.
+
+1316
+00:54:24,380 --> 00:54:28,040
+And what happened was we continued the relationship
+
+1317
+00:54:28,040 --> 00:54:31,300
+for many years and they bought more later.
+
+1318
+00:54:32,420 --> 00:54:34,900
+So thoughts on this?
+
+1319
+00:54:38,060 --> 00:54:39,770
+And you know, when I have
+
+1320
+00:54:39,770 --> 00:54:41,480
+a colleague who worked at 3M
+
+1321
+00:54:41,480 --> 00:54:43,140
+and he said, looked at me, he said,
+
+1322
+00:54:43,140 --> 00:54:46,860
+sometimes the first offer is the best offer.
+
+1323
+00:54:47,960 --> 00:54:50,960
+And if it's something that you can live with
+
+1324
+00:54:50,960 --> 00:54:53,420
+and we preserve the relationship and after that,
+
+1325
+00:54:53,420 --> 00:54:54,260
+we're going to have a new business.
+
+1326
+00:54:54,260 --> 00:54:55,260
+Now, there's a lot of corporations
+
+1327
+00:54:55,260 --> 00:54:57,100
+that didn't really have this idea.
+
+1328
+00:54:57,100 --> 00:54:59,200
+And still fundamental thinking components
+
+1329
+00:54:59,200 --> 00:55:01,780
+for how you Ctrl to publicize the value
+
+1330
+00:55:01,780 --> 00:55:04,720
+that it left for compensation like
+
+1331
+00:55:04,720 --> 00:55:08,140
+whether it is an uniform application
+
+1332
+00:55:08,140 --> 00:55:11,220
+or if it's a comparatively large grant amount,
+
+1333
+00:55:11,220 --> 00:55:23,780
+this is a far betterYour own
+
+1334
+00:55:23,780 --> 00:55:23,940
+idea.
+
+1335
+00:55:23,940 --> 00:55:23,980
+So I'm like, okay, I'm like
+
+1336
+00:55:23,980 --> 00:55:24,020
+. You send that on my email.
+
+1337
+00:55:24,020 --> 00:55:27,360
+you're explicit about what you want and everyone knows
+
+1338
+00:55:27,360 --> 00:55:30,700
+what they want and they talk about it it's
+
+1339
+00:55:30,700 --> 00:55:34,870
+a lot easier to find an agreement
+
+1340
+00:55:34,870 --> 00:55:39,040
+but it often feels that giving that information
+
+1341
+00:55:39,040 --> 00:55:43,620
+could make the other part use it as a weapon
+
+1342
+00:55:43,620 --> 00:55:48,200
+against you and i wonder like how do you gauge
+
+1343
+00:55:48,200 --> 00:55:51,999
+like like in this uh scenario do you think
+
+1344
+00:55:51,999 --> 00:55:55,799
+there was there would have been space to explicitly say
+
+1345
+00:55:56,680 --> 00:55:59,479
+the things that are listed here to fake ink or
+
+1346
+00:55:59,479 --> 00:56:02,279
+you just have to accept that you cannot be that
+
+1347
+00:56:02,279 --> 00:56:04,959
+open with the person you're negotiating with okay okay
+
+1348
+00:56:04,959 --> 00:56:07,640
+let me tell you one more story that answers
+
+1349
+00:56:07,640 --> 00:56:11,400
+that question so i was advising another person so she
+
+1350
+00:56:11,400 --> 00:56:15,160
+was a big ink trying to buy a little ink
+
+1351
+00:56:15,160 --> 00:56:18,120
+because little ink had some ip that absolutely
+
+1352
+00:56:18,200 --> 00:56:21,400
+everybody in her field was after right so it
+
+1353
+00:56:21,400 --> 00:56:24,600
+took her six months to get a meeting with him
+
+1354
+00:56:25,399 --> 00:56:28,079
+and so i said to her why don't you
+
+1355
+00:56:28,079 --> 00:56:30,759
+plan out everything and think about what his interests are
+
+1356
+00:56:30,759 --> 00:56:33,279
+what your interests are think about everything
+
+1357
+00:56:33,279 --> 00:56:35,799
+you're gonna say and think about everything he
+
+1358
+00:56:35,799 --> 00:56:38,679
+might say because now you know like everybody
+
+1359
+00:56:38,679 --> 00:56:41,560
+is after him right because he's got something that
+
+1360
+00:56:41,560 --> 00:56:44,800
+everybody wants so you know and he'd been
+
+1361
+00:56:44,800 --> 00:56:48,040
+talking to other companies and so she she
+
+1362
+00:56:48,200 --> 00:56:50,600
+calls me up afterwards she has this meeting with
+
+1363
+00:56:50,600 --> 00:56:53,000
+her team and she she goes through this and she
+
+1364
+00:56:53,720 --> 00:56:57,200
+go walks in the door and the first thing the guy
+
+1365
+00:56:57,200 --> 00:57:00,680
+says to her you know they they come in this is
+
+1366
+00:57:00,680 --> 00:57:03,320
+she's waited six months to have like you know an
+
+1367
+00:57:03,320 --> 00:57:05,960
+hour meeting with him and he literally looks at her
+
+1368
+00:57:05,960 --> 00:57:09,399
+doesn't say hello he goes what do you want
+
+1369
+00:57:09,399 --> 00:57:12,839
+literally and she starts in by saying you know
+
+1370
+00:57:12,839 --> 00:57:15,479
+we thought that you might be interested
+
+1371
+00:57:15,479 --> 00:57:18,120
+in having your your intellectual property get more
+
+1372
+00:57:18,200 --> 00:57:20,720
+better dec amateur access your knowledge we
+
+1373
+00:57:20,720 --> 00:57:23,240
+know you have sign language lernen haven't you
+
+1374
+00:57:23,240 --> 00:57:25,640
+done this before we're going to have our real
+
+1375
+00:57:25,640 --> 00:57:28,040
+world work and it was crazy right so the part
+
+1376
+00:57:28,040 --> 00:57:32,580
+of her group since we were young
+
+1377
+00:57:32,600 --> 00:57:35,280
+which sank early with two of us now
+
+1378
+00:57:35,280 --> 00:57:37,960
+was we had to go through the differentiation where
+
+1379
+00:57:37,960 --> 00:57:40,109
+teacher steve always tells me this here
+
+1380
+00:57:40,109 --> 00:57:42,259
+you have peerless teachers don't know it like
+
+1381
+00:57:42,279 --> 00:57:43,519
+to work in your description do you
+
+1382
+00:57:43,519 --> 00:57:44,759
+get a落ch荷 280 00001 don't you know people
+
+1383
+00:57:44,759 --> 00:57:45,119
+students these days they really don't know
+
+1384
+00:57:45,119 --> 00:57:45,480
+some of the stuff especially with the gestalt
+
+1385
+00:57:45,480 --> 00:57:46,560
+is sp workers and so i'm thinking out of
+
+1386
+00:57:46,560 --> 00:57:47,640
+the box if a case isınız there somehow that i'm
+
+1387
+00:57:47,640 --> 00:57:47,719
+going to look into some that you can talk
+
+1388
+00:57:47,719 --> 00:57:47,799
+to if you know anything about education in theaters
+
+1389
+00:57:47,799 --> 00:57:47,919
+i'll call it which you could figure out pretty
+
+1390
+00:57:47,919 --> 00:57:48,040
+simple at a small course bless you every morning
+
+1391
+00:57:48,040 --> 00:57:50,430
+So basically she started out
+
+1392
+00:57:50,430 --> 00:57:52,820
+with interests and discussing it.
+
+1393
+00:57:53,660 --> 00:57:56,430
+And when he saw that she was
+
+1394
+00:57:56,430 --> 00:57:59,200
+interested in his interests and helping him
+
+1395
+00:57:59,200 --> 00:58:01,840
+and that it was a joint problem to solve,
+
+1396
+00:58:02,480 --> 00:58:04,360
+they got the business and she got a promotion.
+
+1397
+00:58:05,320 --> 00:58:07,680
+So it depends on how you start.
+
+1398
+00:58:07,680 --> 00:58:10,510
+And then my 3M buddy, he's
+
+1399
+00:58:10,510 --> 00:58:13,340
+had all these negotiations with IBM.
+
+1400
+00:58:14,220 --> 00:58:16,700
+And he said one time it wasn't going at all.
+
+1401
+00:58:16,700 --> 00:58:18,640
+And he said, let's, he talked, you
+
+1402
+00:58:18,640 --> 00:58:20,580
+know, these are both have stables of lawyers.
+
+1403
+00:58:21,200 --> 00:58:22,330
+And he said, well, let's
+
+1404
+00:58:22,330 --> 00:58:23,460
+talk about what we're interested in.
+
+1405
+00:58:23,520 --> 00:58:24,980
+No, no, we're just going to negotiate.
+
+1406
+00:58:25,359 --> 00:58:26,460
+And things weren't moving.
+
+1407
+00:58:26,779 --> 00:58:27,819
+Things weren't moving at all.
+
+1408
+00:58:28,319 --> 00:58:30,699
+And so he finally just said, well, 3M
+
+1409
+00:58:30,699 --> 00:58:33,080
+is interested in doing this kind of thing.
+
+1410
+00:58:33,100 --> 00:58:35,279
+And he just started giving them their interests.
+
+1411
+00:58:35,660 --> 00:58:36,819
+And we're interested in this.
+
+1412
+00:58:36,819 --> 00:58:38,359
+And they changed.
+
+1413
+00:58:38,680 --> 00:58:40,819
+They turned and they started sharing their interests.
+
+1414
+00:58:41,299 --> 00:58:43,879
+So I think you're right.
+
+1415
+00:58:44,000 --> 00:58:45,160
+You could use it as a weapon.
+
+1416
+00:58:45,279 --> 00:58:46,480
+But if you're really trying,
+
+1417
+00:58:46,480 --> 00:58:50,540
+as a joint problem that you can share your interest.
+
+1418
+00:58:50,580 --> 00:58:53,080
+You don't have to say, I need this deal with
+
+1419
+00:58:53,080 --> 00:58:55,580
+IBM because otherwise 3M is going to go out of business.
+
+1420
+00:58:55,920 --> 00:58:57,220
+I mean, those things you don't share.
+
+1421
+00:58:57,700 --> 00:58:57,840
+Right.
+
+1422
+00:58:58,460 --> 00:59:01,910
+But you can share the things
+
+1423
+00:59:01,910 --> 00:59:05,360
+that will help move it forward.
+
+1424
+00:59:05,700 --> 00:59:06,580
+Does that help?
+
+1425
+00:59:07,540 --> 00:59:07,760
+Okay.
+
+1426
+00:59:08,200 --> 00:59:08,540
+Go ahead.
+
+1427
+00:59:09,440 --> 00:59:11,240
+We have two more minutes, but go ahead.
+
+1428
+00:59:11,240 --> 00:59:11,320
+Okay.
+
+1429
+00:59:15,020 --> 00:59:15,560
+Okay.
+
+1430
+00:59:15,560 --> 00:59:16,280
+I know this is a condition.
+
+1431
+00:59:16,480 --> 00:59:17,240
+I know this is a condition.
+
+1432
+00:59:17,240 --> 00:59:17,840
+So I'm going to ask you
+
+1433
+00:59:17,840 --> 00:59:18,440
+to share your interest, your interest.
+
+1434
+00:59:18,440 --> 00:59:21,130
+So let's say for this example, you have three interests of
+
+1435
+00:59:21,130 --> 00:59:23,820
+individuals and then four of the big interests in the company.
+
+1436
+00:59:24,620 --> 00:59:30,450
+And when it comes to business negotiations, when you get into this room, I would assume that if you
+
+1437
+00:59:30,450 --> 00:59:36,280
+know who the people are going to be there, it's kind of like a little bit easier to potentially prepare.
+
+1438
+00:59:36,300 --> 00:59:40,390
+But if you get into the room and you have people
+
+1439
+00:59:40,390 --> 00:59:44,480
+that you did not expect to see, how do you tackle this?
+
+1440
+00:59:44,520 --> 00:59:46,440
+Meaning that you just don't know.
+
+1441
+00:59:46,480 --> 00:59:48,980
+Or the interest will be your trust.
+
+1442
+00:59:49,180 --> 00:59:51,410
+Is this from the business interest or
+
+1443
+00:59:51,410 --> 00:59:53,640
+still taking into account the risk concept?
+
+1444
+00:59:54,280 --> 00:59:55,920
+Well, I guess you can.
+
+1445
+00:59:56,300 --> 00:59:58,680
+Well, first of all, you're saying right.
+
+1446
+00:59:58,780 --> 01:00:00,680
+Because the person we were talking
+
+1447
+01:00:00,680 --> 01:00:02,580
+to had different interests than Big Inc.
+
+1448
+01:00:02,820 --> 01:00:03,020
+Right.
+
+1449
+01:00:03,080 --> 01:00:04,760
+I mean, we could have put, you know, the
+
+1450
+01:00:04,760 --> 01:00:06,440
+people that were going to be in the room.
+
+1451
+01:00:07,220 --> 01:00:11,840
+But if this had been like, let's talk about our interests, I would
+
+1452
+01:00:11,840 --> 01:00:16,460
+have said, oh, you're probably interested in making sure that this is working.
+
+1453
+01:00:16,680 --> 01:00:18,480
+So you can actually ask people.
+
+1454
+01:00:18,840 --> 01:00:20,950
+And so when I'm even in a mediation,
+
+1455
+01:00:20,950 --> 01:00:23,060
+I'll just ask them, well, what are your interests?
+
+1456
+01:00:23,220 --> 01:00:24,420
+You know, what is important to you?
+
+1457
+01:00:24,800 --> 01:00:26,040
+What are you trying to accomplish?
+
+1458
+01:00:26,320 --> 01:00:28,380
+What would be helpful to you?
+
+1459
+01:00:28,780 --> 01:00:32,790
+And if people don't want to share, then you can see which way the
+
+1460
+01:00:32,790 --> 01:00:36,800
+negotiation may not go so far because you don't even know what to offer them.
+
+1461
+01:00:37,120 --> 01:00:37,480
+Right.
+
+1462
+01:00:37,600 --> 01:00:39,030
+Because there might be things that
+
+1463
+01:00:39,030 --> 01:00:40,460
+I mean, this is the whole point.
+
+1464
+01:00:40,540 --> 01:00:42,430
+There might be things that are so
+
+1465
+01:00:42,430 --> 01:00:44,320
+valueless to you, but they're valuable to them.
+
+1466
+01:00:44,600 --> 01:00:45,490
+And they say, well, we
+
+1467
+01:00:45,490 --> 01:00:46,380
+want your company to do X.
+
+1468
+01:00:46,480 --> 01:00:48,390
+And you're like, OK, like because
+
+1469
+01:00:48,390 --> 01:00:50,300
+it's not a big deal for you.
+
+1470
+01:00:50,420 --> 01:00:50,520
+Right.
+
+1471
+01:00:50,580 --> 01:00:55,020
+So those are it's how do you get to those things that are sort of low
+
+1472
+01:00:55,020 --> 01:00:59,460
+value to one person, high value to the other or things that you you can talk about.
+
+1473
+01:01:00,160 --> 01:01:02,300
+So is this helpful?
+
+1474
+01:01:03,920 --> 01:01:04,360
+OK.
+
+1475
+01:01:06,940 --> 01:01:09,490
+Summary startups, make sure that you
+
+1476
+01:01:09,490 --> 01:01:12,040
+understand the interests of your co-founder.
+
+1477
+01:01:12,260 --> 01:01:12,500
+Right.
+
+1478
+01:01:12,520 --> 01:01:13,520
+That's really important.
+
+1479
+01:01:13,520 --> 01:01:16,460
+You know, document your decisions.
+
+1480
+01:01:16,480 --> 01:01:17,480
+Because someday you're going to go,
+
+1481
+01:01:17,480 --> 01:01:18,480
+well, why did we do that?
+
+1482
+01:01:18,480 --> 01:01:20,480
+Right.
+
+1483
+01:01:20,480 --> 01:01:25,480
+So I tell people, write everything down and revisit it periodically because companies change
+
+1484
+01:01:25,480 --> 01:01:30,480
+really fast and your ideas change fast and you need to keep keep going.
+
+1485
+01:01:30,480 --> 01:01:35,480
+And then for negotiations, just prepare, prepare, prepare.
+
+1486
+01:01:35,480 --> 01:01:39,480
+What has been shown is the more that you think about what your
+
+1487
+01:01:39,480 --> 01:01:43,480
+interests are, what their interests are, what your zone of solution it could be.
+
+1488
+01:01:43,480 --> 01:01:45,480
+And listen in the in the meeting.
+
+1489
+01:01:45,480 --> 01:01:45,730
+You know, you're going to have to make sure
+
+1490
+01:01:45,730 --> 01:01:45,980
+that you're going to be able to do it.
+
+1491
+01:01:45,980 --> 01:01:47,900
+And then in the meeting, you'll hear new interest.
+
+1492
+01:01:47,900 --> 01:01:50,160
+You'll say, oh, you guys are interested in this.
+
+1493
+01:01:50,160 --> 01:01:50,980
+I didn't know that.
+
+1494
+01:01:50,980 --> 01:01:52,480
+Well, we might be interested in
+
+1495
+01:01:52,480 --> 01:01:53,980
+helping you with that aspect, too.
+
+1496
+01:01:54,320 --> 01:01:56,630
+So you're always listening and
+
+1497
+01:01:56,630 --> 01:01:58,940
+thinking about what you can do.
+
+1498
+01:01:59,960 --> 01:02:00,320
+All right.
+
+1499
+01:02:01,160 --> 01:02:01,880
+I think that's it.
+
+1500
+01:02:01,880 --> 01:02:02,960
+So thank you very much.
+
+1501
+01:02:02,960 --> 01:02:04,220
+I hope this was helpful.
+
+1502
+01:02:06,020 --> 01:02:06,680
+Mindy, great.
+
+1503
+01:02:06,800 --> 01:02:07,300
+Thank you.
+
+1504
+01:02:08,000 --> 01:02:10,460
+There's so many little tidbits of knowledge here.
+
+1505
+01:02:10,460 --> 01:02:12,260
+And it brought back a memory I had.
+
+1506
+01:02:13,300 --> 01:02:15,740
+I was there were three of us on one side.
+
+1507
+01:02:15,740 --> 01:02:19,500
+Negotiating this divestiture of a whole division.
+
+1508
+01:02:20,080 --> 01:02:23,689
+And we were the little little company was big, but little compared
+
+1509
+01:02:23,689 --> 01:02:27,299
+to the big company that had like ten people at the table.
+
+1510
+01:02:28,120 --> 01:02:29,549
+And we did a little
+
+1511
+01:02:29,549 --> 01:02:30,979
+introduction, you know, like who's who.
+
+1512
+01:02:30,979 --> 01:02:31,459
+How are you?
+
+1513
+01:02:31,459 --> 01:02:34,879
+And it became pretty clear that these ten people had
+
+1514
+01:02:34,879 --> 01:02:38,299
+flown in from all different parts of the country, our company.
+
+1515
+01:02:38,919 --> 01:02:41,740
+And they probably hadn't really talked to each other.
+
+1516
+01:02:42,520 --> 01:02:45,259
+So after the introductions, we suggested, you know.
+
+1517
+01:02:45,740 --> 01:02:47,120
+You guys have just arrived.
+
+1518
+01:02:47,120 --> 01:02:49,989
+Maybe a little want a little time to, you know, we
+
+1519
+01:02:49,989 --> 01:02:52,859
+could give you some room to, you know, get organized and everything.
+
+1520
+01:02:52,859 --> 01:02:54,359
+And we went out for about an hour.
+
+1521
+01:02:54,959 --> 01:02:56,619
+And during that time, they actually
+
+1522
+01:02:56,619 --> 01:02:58,279
+managed to talk and get organized enough.
+
+1523
+01:02:58,279 --> 01:03:00,620
+So we had a really interesting discussion before.
+
+1524
+01:03:00,620 --> 01:03:03,680
+Otherwise, it was pretty clear that, you know, somebody was going
+
+1525
+01:03:03,680 --> 01:03:06,740
+to say something and somebody else is going to say something else.
+
+1526
+01:03:06,740 --> 01:03:08,140
+And it wasn't going to go anywhere.
+
+1527
+01:03:08,140 --> 01:03:11,600
+So you brought back that memory about interest.
+
+1528
+01:03:11,620 --> 01:03:13,549
+Make sure the other
+
+1529
+01:03:13,549 --> 01:03:15,479
+side understands their internal interests.
+
+1530
+01:03:15,740 --> 01:03:32,660
+You know, people from different sides are trying to
+
+1531
+01:03:32,660 --> 01:03:37,600
+And again, I try and ran over Mr.
+
+1532
+01:03:37,600 --> 01:03:45,720
+Brad, theded Brother
+
+1533
+01:03:45,740 --> 01:03:47,220
+and have a good evening.
+
+1534
+01:03:47,220 --> 01:03:48,220
+Thank you.
+
