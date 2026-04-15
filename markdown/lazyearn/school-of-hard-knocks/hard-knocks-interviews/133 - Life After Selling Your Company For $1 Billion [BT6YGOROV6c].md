@@ -1,0 +1,449 @@
+# Transcript
+
+Source: lazyearn/school-of-hard-knocks/hard-knocks-interviews/133 - Life After Selling Your Company For $1 Billion [BT6YGOROV6c].mkv
+
+- [00:00:00,000 - 00:00:02,740] Last week, we were asking people on the street all over downtown
+- [00:00:02,740 - 00:00:05,480] Austin how much they made for a living, and then this happened.
+- [00:00:05,680 - 00:00:08,750] I founded a company 20-something years ago and sold it
+- [00:00:08,750 - 00:00:11,820] when I was 33, retired, and then went back to work.
+- [00:00:11,920 - 00:00:12,800] How much did you sell it for?
+- [00:00:14,580 - 00:00:15,800] Oh my gosh, that's amazing.
+- [00:00:15,800 - 00:00:16,400] Amazing, right?
+- [00:00:16,780 - 00:00:19,130] Glenn sold his company over 20 years ago,
+- [00:00:19,130 - 00:00:21,480] retired, and then went on to travel the world.
+- [00:00:21,600 - 00:00:25,240] He is now back to work creating a new startup, and he invited us to spend
+- [00:00:25,240 - 00:00:28,880] a day with him to see what it's like standing in the shoes of a multimillionaire.
+- [00:00:28,880 - 00:00:30,690] If you're new here, I'm James, and with
+- [00:00:30,690 - 00:00:32,500] Jack and Josh, we're the School of Hard Knocks.
+- [00:00:32,759 - 00:00:34,649] Every week, we talk to millionaires and share their
+- [00:00:34,649 - 00:00:36,540] stories and advice with you all here on YouTube.
+- [00:00:36,740 - 00:00:37,879] So subscribe if you're up for
+- [00:00:37,879 - 00:00:39,019] that, and let's go meet Glenn.
+- [00:00:40,620 - 00:00:41,980] Glenn, what's going on, man?
+- [00:00:42,080 - 00:00:42,560] How you doing?
+- [00:00:42,879 - 00:00:43,320] Hey, Glenn.
+- [00:00:43,320 - 00:00:43,940] Great to see you.
+- [00:00:44,379 - 00:00:46,129] Who is Glenn Boyd, and what's a little bit about
+- [00:00:46,129 - 00:00:47,879] your story and where you got to where you are now?
+- [00:00:48,300 - 00:00:51,120] Well, it's changed over the last 20-something years.
+- [00:00:51,320 - 00:00:55,080] I primarily made my success and good fortune through
+- [00:00:55,080 - 00:00:58,840] founding a tech company in the original dot com.
+- [00:00:59,040 - 00:00:59,500] World.
+- [00:00:59,780 - 00:01:04,260] So there's been a couple of iterations through the last 20-something years, but I founded a company
+- [00:01:04,260 - 00:01:08,740] in the late 90s with a partner that was a good friend of mine at the time.
+- [00:01:09,140 - 00:01:14,580] And we ended up taking the company public in 1999, and we were one of the
+- [00:01:14,580 - 00:01:20,020] first dot com companies that were profitable and went public, and it was a big, big thing.
+- [00:01:20,020 - 00:01:24,440] And then ended up selling it later in a merger with another public company
+- [00:01:24,440 - 00:01:28,860] for, I think it was a billion, 30 million, what was the official sellout.
+- [00:01:28,880 - 00:01:28,910] And then ended up selling it later in a merger with another public company
+- [00:01:28,910 - 00:01:28,940] for, I think it was a billion, 30 million, what was the official sellout.
+- [00:01:28,940 - 00:01:31,339] of the whole company in the transaction.
+- [00:01:32,240 - 00:01:35,800] Retired, bought a yacht, traveled around the world for a few years,
+- [00:01:35,800 - 00:01:39,360] spent a lot of time with my kids, and started getting bored.
+- [00:01:39,539 - 00:01:42,349] And then only recently decided, well, I'd say recently in the
+- [00:01:42,349 - 00:01:45,160] last five years that I more wanted to get back into tech.
+- [00:01:45,500 - 00:01:48,580] And mostly because my kids are now all raised, and at least the
+- [00:01:48,580 - 00:01:51,660] youngest one's off in college, and I've got plenty of time on my hands.
+- [00:01:51,660 - 00:01:55,230] And boredom is a thing that you always have to overcome no matter
+- [00:01:55,230 - 00:01:58,800] what, and there's only so many beaches you can go and hang out on.
+- [00:01:58,880 - 00:02:00,440] Before you want to do something again.
+- [00:02:00,440 - 00:02:03,380] Prior to starting a company, were you working corporate?
+- [00:02:03,380 - 00:02:05,209] Like what were you doing before, and what kind
+- [00:02:05,209 - 00:02:07,039] of led you to want to start a company?
+- [00:02:07,039 - 00:02:07,880] Good question.
+- [00:02:07,880 - 00:02:09,500] I've almost always been that way.
+- [00:02:09,500 - 00:02:12,259] I started out very poor, actually in Texas,
+- [00:02:12,259 - 00:02:15,019] roofing houses with my dad as a kid.
+- [00:02:15,240 - 00:02:16,690] And later on, washing dishes
+- [00:02:16,690 - 00:02:18,140] to help my mother pay rent.
+- [00:02:18,140 - 00:02:20,480] And we ended up moving to
+- [00:02:20,480 - 00:02:22,820] Southern California when I was 14.
+- [00:02:22,820 - 00:02:25,210] Between that and becoming a busboy, I
+- [00:02:25,210 - 00:02:27,600] started kind of dabbling with software and computers.
+- [00:02:27,600 - 00:02:28,820] It was just getting started.
+- [00:02:28,820 - 00:02:28,840] Wow.
+- [00:02:28,880 - 00:02:30,480] In 1980.
+- [00:02:30,480 - 00:02:31,880] Taught myself to program.
+- [00:02:31,880 - 00:02:33,440] Was actually pretty good at it.
+- [00:02:33,440 - 00:02:36,400] And pretty soon started getting contracting gigs.
+- [00:02:36,400 - 00:02:39,720] And I was working full time at 16 years old.
+- [00:02:39,720 - 00:02:40,920] Dropped out of high school.
+- [00:02:40,920 - 00:02:42,760] Don't tell your parents that.
+- [00:02:42,760 - 00:02:45,950] And went on to kind of found a couple of companies
+- [00:02:45,950 - 00:02:49,140] as I was in my youth, 18 and 20 years old.
+- [00:02:49,140 - 00:02:51,680] And then ended up working for another company
+- [00:02:51,680 - 00:02:54,220] for my early 20s for a few years.
+- [00:02:54,220 - 00:02:56,520] And one day woke up and decided if I'm going
+- [00:02:56,520 - 00:02:58,820] to go for it, I have to do it now.
+- [00:02:58,820 - 00:03:00,980] And decided to start my own company.
+- [00:03:00,980 - 00:03:03,739] And that was 1991 or 2.
+- [00:03:03,739 - 00:03:04,019] Yeah.
+- [00:03:04,019 - 00:03:05,720] Traveling was one of my biggest passions.
+- [00:03:05,720 - 00:03:07,820] I've been to about 20 countries.
+- [00:03:07,820 - 00:03:09,980] For you, what has been the importance of traveling?
+- [00:03:09,980 - 00:03:12,359] Oh, I think it's essential if you want to understand the
+- [00:03:12,359 - 00:03:14,739] size of the world and you want to understand even markets.
+- [00:03:14,739 - 00:03:16,599] I remember even traveling for business
+- [00:03:16,599 - 00:03:18,459] and it gave me this perspective.
+- [00:03:18,459 - 00:03:20,399] Like, wow, this is how big the world
+- [00:03:20,399 - 00:03:22,340] is and how big the potential markets are.
+- [00:03:22,340 - 00:03:24,260] Because it's so easy to get locked into
+- [00:03:24,260 - 00:03:26,180] like, oh, I'm just focused on the U.S.
+- [00:03:26,180 - 00:03:27,720] Or I'm just focused on a particular market.
+- [00:03:27,720 - 00:03:28,660] But then you go to Hong Kong.
+- [00:03:28,660 - 00:03:30,540] And you go to Shanghai.
+- [00:03:30,540 - 00:03:31,540] And you go to New York.
+- [00:03:31,540 - 00:03:33,120] Or if you go to Paris,
+- [00:03:33,120 - 00:03:34,700] the world is a big, big place.
+- [00:03:34,700 - 00:03:36,779] And I did quite a bit of
+- [00:03:36,779 - 00:03:38,859] travel just setting up foreign sales offices.
+- [00:03:38,859 - 00:03:41,260] Also lots of distributorships.
+- [00:03:41,260 - 00:03:45,280] Then once I retired the first time, I did a lot of
+- [00:03:45,280 - 00:03:49,300] travel just for fun to see the world and took my kids.
+- [00:03:49,300 - 00:03:50,400] And my kids have traveled
+- [00:03:50,400 - 00:03:51,500] all over the world as well.
+- [00:03:51,500 - 00:03:54,140] Top three places that you recommend for people to go.
+- [00:03:54,140 - 00:03:55,780] Well, it depends what your objective is, you know.
+- [00:03:55,780 - 00:03:57,200] But I think everybody should go
+- [00:03:57,200 - 00:03:58,620] see what's going on in China.
+- [00:03:58,620 - 00:04:01,180] I mean, it's just unbelievable the size
+- [00:04:01,180 - 00:04:03,740] and the scope of some of the cities.
+- [00:04:03,740 - 00:04:05,940] Like Shanghai was such an impressive city.
+- [00:04:05,940 - 00:04:07,360] I mean, my personal favorite, I
+- [00:04:07,360 - 00:04:08,780] think I've been there too many times.
+- [00:04:08,780 - 00:04:10,900] I need to deviate a little bit, is Italy.
+- [00:04:10,900 - 00:04:12,720] I love Italy, but that's more
+- [00:04:12,720 - 00:04:14,540] for personal and not for business.
+- [00:04:14,540 - 00:04:15,740] The third one, I spent
+- [00:04:15,740 - 00:04:16,940] a lot of time in Norway.
+- [00:04:16,940 - 00:04:18,839] I had a, God rest his
+- [00:04:18,839 - 00:04:20,740] soul, a dear friend that was Norwegian.
+- [00:04:20,740 - 00:04:23,080] We've done lots of the fjords and just some
+- [00:04:23,080 - 00:04:25,420] of the most amazingly beautiful part of the world.
+- [00:04:25,420 - 00:04:26,640] Could you run us through what
+- [00:04:26,640 - 00:04:27,860] your morning routine kind of looks like?
+- [00:04:27,860 - 00:04:28,580] Well, it's pretty mundane.
+- [00:04:28,620 - 00:04:30,600] These days, I've recently
+- [00:04:30,600 - 00:04:32,580] just getting relocated into Austin.
+- [00:04:32,580 - 00:04:34,940] First thing I try to do is make coffee.
+- [00:04:34,940 - 00:04:37,580] I guess that's the biggest thing.
+- [00:04:37,580 - 00:04:41,260] Once I get coffee started, I almost immediately jump on the computer
+- [00:04:41,260 - 00:04:44,940] and see what my emails are that need to be responded to.
+- [00:04:44,940 - 00:04:46,080] I make a lot of
+- [00:04:46,080 - 00:04:47,220] to-do lists about this and that.
+- [00:04:47,220 - 00:04:48,380] And sometimes I've got four
+- [00:04:48,380 - 00:04:49,540] or five different things going on.
+- [00:04:49,540 - 00:04:51,080] And I think the to-do list helped
+- [00:04:51,080 - 00:04:52,620] me kind of organize through my days.
+- [00:04:52,620 - 00:04:54,280] Because if you stay and do the same
+- [00:04:54,280 - 00:04:55,940] thing all day long, it gets pretty mundane.
+- [00:04:55,940 - 00:04:58,580] So I jump from different tasks and so forth.
+- [00:04:58,580 - 00:05:01,020] So, so many things are done remotely these days.
+- [00:05:01,020 - 00:05:04,300] And it's just electronic communication, you know.
+- [00:05:04,300 - 00:05:05,859] That's at least how I get my day started.
+- [00:05:05,859 - 00:05:07,319] And so when you're going through these tasks
+- [00:05:07,319 - 00:05:08,780] and you're setting your priorities for the day,
+- [00:05:08,780 - 00:05:10,640] how do you kind of segment what needs to
+- [00:05:10,640 - 00:05:12,500] be done first and what's most important to do?
+- [00:05:12,500 - 00:05:14,239] A lot of times it's about
+- [00:05:14,239 - 00:05:15,979] doing the things I want to do.
+- [00:05:15,979 - 00:05:18,199] It's easy to get into a procrastination where
+- [00:05:18,199 - 00:05:20,419] you want to avoid those things you don't like.
+- [00:05:20,419 - 00:05:22,579] I find that if I do something real easy
+- [00:05:22,579 - 00:05:24,740] that I enjoy doing, it kind of breaks the ice.
+- [00:05:24,740 - 00:05:26,140] And then I kind of get on a roll.
+- [00:05:26,140 - 00:05:26,360] And if I tackle something immediately that I don't
+- [00:05:26,360 - 00:05:26,580] really like, I kind of get on a roll.
+- [00:05:26,580 - 00:05:26,880] And if I tackle something immediately that I don't
+- [00:05:26,880 - 00:05:27,180] really like, I kind of get on a roll.
+- [00:05:27,180 - 00:05:27,540] If I tackle something immediately that I don't
+- [00:05:27,540 - 00:05:27,900] really like, I kind of get on a roll.
+- [00:05:27,900 - 00:05:28,710] And if I tackle something immediately that I don't
+- [00:05:28,710 - 00:05:29,520] really like, I kind of get on a roll.
+- [00:05:29,520 - 00:05:29,880] Well when something stuff I want to
+- [00:05:29,880 - 00:05:30,240] do, there's a lot I want to do.
+- [00:05:30,240 - 00:05:30,490] When I want to do something immediately that I
+- [00:05:30,490 - 00:05:30,740] don't really like, I kind of get on a roll.
+- [00:05:30,740 - 00:05:30,960] When I want to do something immediately that I
+- [00:05:30,960 - 00:05:31,180] don't really like, I kind of get on a roll.
+- [00:05:31,180 - 00:05:31,680] Oh, I typically do things with somesong.
+- [00:05:31,680 - 00:05:32,180] certaines tasks, just sort of all theended timeinnally,
+- [00:05:32,180 - 00:05:32,430] When I do something basically, I kind of only get combined into a
+- [00:05:32,430 - 00:05:32,680] series of things and then I kind of go back and repair them,
+- [00:05:32,680 - 00:05:33,240] And that's when I find myself wanting more and more.
+- [00:05:33,240 - 00:05:33,430] You just, uh, don't realize
+- [00:05:33,430 - 00:05:33,620] that casualties happen more often.
+- [00:05:33,620 - 00:05:34,460] I know sometimes I stitch away my tasks.
+- [00:05:34,460 - 00:05:36,480] next level and the next level. I'll bounce
+- [00:05:36,480 - 00:05:38,500] from one task to another. Sometimes they're completely
+- [00:05:38,500 - 00:05:38,979] unrelated.
+- [00:05:38,980 - 00:05:52,680] What are your thoughts on cryptocurrency
+- [00:05:52,680 - 00:06:06,380] and Web3 and the new blockchain developments
+- [00:06:06,380 - 00:06:06,940] that are coming out?
+- [00:06:06,940 - 00:06:07,920] Well, I definitely think there's going
+- [00:06:07,920 - 00:06:08,900] to be a place in the
+- [00:06:08,900 - 00:06:11,159] world for blockchains. They do have a purpose.
+- [00:06:11,159 - 00:06:13,419] Most recent development is going to be interesting
+- [00:06:13,419 - 00:06:15,799] to see how that plays out with Ethereum going
+- [00:06:15,799 - 00:06:18,179] proof of stake versus proof of work. It's great
+- [00:06:18,179 - 00:06:20,789] because it's no longer as intensive on
+- [00:06:20,789 - 00:06:23,400] the environment, but whether or not the decentralization,
+- [00:06:23,560 - 00:06:26,090] which is the whole reason you have
+- [00:06:26,090 - 00:06:28,620] a blockchain, is going to stay decentralized. Decentralization
+- [00:06:28,620 - 00:06:30,780] is, it's got its purpose because the whole
+- [00:06:30,780 - 00:06:32,940] world is becoming decentralized. I mean, and we're doing
+- [00:06:32,940 - 00:06:35,799] tons of Americans are hiring white collar
+- [00:06:35,799 - 00:06:38,659] work remotely. So that's going to open up
+- [00:06:38,659 - 00:06:38,880] opportunities for them to do that.
+- [00:06:38,900 - 00:06:40,640] It's going to open up opportunities or it's
+- [00:06:40,640 - 00:06:42,380] going to continue to need to have financial transactions
+- [00:06:42,380 - 00:06:44,399] that are easy, fast, and not
+- [00:06:44,399 - 00:06:46,419] necessarily have to go through government.
+- [00:06:46,659 - 00:06:48,939] From a kind of software development perspective, what
+- [00:06:48,939 - 00:06:51,219] have you seen kind of the changes having this
+- [00:06:51,219 - 00:06:53,500] wave of Web3 come in for coders and programming?
+- [00:06:53,679 - 00:06:56,329] I think the main thing behind Web3 is
+- [00:06:56,329 - 00:06:58,979] people are frustrated with everything is advertising based.
+- [00:06:59,260 - 00:07:02,350] Okay. And everybody's also, especially your
+- [00:07:02,350 - 00:07:05,440] generation is waking up to privacy concern.
+- [00:07:05,440 - 00:07:07,049] The boomers kind of came late
+- [00:07:07,049 - 00:07:08,659] to Facebook, but then took it over.
+- [00:07:08,900 - 00:07:11,260] But they don't seem to have any concerns
+- [00:07:11,260 - 00:07:13,620] about privacy, whereas the whole next generation with
+- [00:07:13,620 - 00:07:16,810] whether it's the millennials and now Z generation are
+- [00:07:16,810 - 00:07:20,000] really not wanting their data held by one or two,
+- [00:07:20,000 - 00:07:22,459] and they don't want their whole lives monetized via
+- [00:07:22,459 - 00:07:24,919] advertising. And Web3 is really the first kind of
+- [00:07:24,919 - 00:07:27,249] concept that comes along and says, hey, we're going
+- [00:07:27,249 - 00:07:29,580] to provide a mechanism to do distributed types of
+- [00:07:29,580 - 00:07:32,589] applications or distributed types of social interactions,
+- [00:07:32,589 - 00:07:35,599] but not make them monetize via your personal
+- [00:07:35,599 - 00:07:37,129] information. So in my opinion, I
+- [00:07:37,129 - 00:07:38,659] think that's where the biggest Web3 stands.
+- [00:07:38,660 - 00:07:39,900] Web3 stuff is going to land.
+- [00:07:39,900 - 00:07:42,060] I kind of had a question for you because you had kind of
+- [00:07:42,060 - 00:07:44,220] like brought it up and we were talking about this on a podcast
+- [00:07:44,220 - 00:07:47,020] recently about how Grand Theft Auto, the game
+- [00:07:47,020 - 00:07:49,820] got hacked, Uber got hacked, Binance, the cryptocurrency trading
+- [00:07:49,820 - 00:07:52,960] platform. How crucial and important do you think is cybersecurity going
+- [00:07:52,960 - 00:07:56,100] to be in the next 10 to 20 years with how
+- [00:07:56,100 - 00:07:58,280] enhanced development is getting and people are hacking?
+- [00:07:58,280 - 00:07:59,840] Like, how big do you think that industry is?
+- [00:07:59,840 - 00:08:01,160] Like massive, massive.
+- [00:08:01,160 - 00:08:04,130] I anybody who asks me like, oh, where should I start
+- [00:08:04,130 - 00:08:07,100] in the tech world if I wanted to have a guaranteed career?
+- [00:08:07,100 - 00:08:08,280] I tell them cybersecurity.
+- [00:08:08,280 - 00:08:09,419] Information security, really.
+- [00:08:09,419 - 00:08:15,329] It's just now starting to get into the mindset of CEOs and at all levels of
+- [00:08:15,329 - 00:08:21,239] a corporation where security is thought about from the design of the product all the way up.
+- [00:08:21,239 - 00:08:24,209] It's like we've built all these buildings without locks and doors
+- [00:08:24,209 - 00:08:27,179] on them or so cheap that anybody can break into it.
+- [00:08:27,179 - 00:08:29,900] And then all of a sudden we're shocked and surprised.
+- [00:08:29,900 - 00:08:32,289] But it's hard. Security is hard and a lot
+- [00:08:32,289 - 00:08:34,679] of people don't know how to properly build it.
+- [00:08:34,679 - 00:08:36,299] You know, I kind of
+- [00:08:36,299 - 00:08:37,919] started my career in information security.
+- [00:08:38,280 - 00:08:42,720] So I'm considered 30 years ago an expert at it.
+- [00:08:42,720 - 00:08:46,300] I used to train the FBI, the CIA, the IRS,
+- [00:08:46,300 - 00:08:49,880] all these kind of guys on early days of information security.
+- [00:08:49,880 - 00:08:54,640] When a, say, an agency, an IRS would go in and do a new bust on a company, it
+- [00:08:54,640 - 00:08:59,400] used to be that they'd get file cabinets and they have all this information and they go through the files.
+- [00:08:59,400 - 00:09:00,900] And then that's how they build their case.
+- [00:09:00,900 - 00:09:02,609] Well, all of a sudden they were going in
+- [00:09:02,609 - 00:09:04,319] and they do a bust and there's no file cabinets.
+- [00:09:04,319 - 00:09:05,680] So there's a bunch of computers.
+- [00:09:05,680 - 00:09:06,880] And they had all these agents.
+- [00:09:06,880 - 00:09:08,120] They didn't know how to use these computers.
+- [00:09:08,120 - 00:09:12,000] So early, early days was forensic science, which is being able to
+- [00:09:12,000 - 00:09:15,880] show them how to recover deleted documents or recover information on the computer.
+- [00:09:15,880 - 00:09:17,260] And that led into more
+- [00:09:17,260 - 00:09:18,640] and more and more as in.
+- [00:09:18,640 - 00:09:21,560] So cybersecurity is only going to get bigger and
+- [00:09:21,560 - 00:09:24,480] especially now that everything is cloud based and everything's interconnected.
+- [00:09:24,480 - 00:09:26,560] So I can pretty much get into
+- [00:09:26,560 - 00:09:28,640] anybody else's network if it's open remotely.
+- [00:09:28,640 - 00:09:29,850] So what does like a
+- [00:09:29,850 - 00:09:31,060] typical workday look like for you?
+- [00:09:31,060 - 00:09:32,500] So much of it is email.
+- [00:09:32,500 - 00:09:33,850] I mean, I hate that, but
+- [00:09:33,850 - 00:09:35,200] that's that's a big part of it.
+- [00:09:35,200 - 00:09:36,660] I do a lot of the at
+- [00:09:36,660 - 00:09:38,120] least right now because it's a new startup.
+- [00:09:38,120 - 00:09:39,420] I'm doing a lot of the
+- [00:09:39,420 - 00:09:40,720] architecting and a lot of the design.
+- [00:09:40,720 - 00:09:42,940] So I'll kind of break between that and,
+- [00:09:42,940 - 00:09:45,160] you know, do sketches and works on workflows.
+- [00:09:45,160 - 00:09:47,280] And I'm a big believer in checking off list items.
+- [00:09:47,280 - 00:09:50,030] So whatever that may be, you know, and because
+- [00:09:50,030 - 00:09:52,780] it's early stage, so much stuff requires just communication.
+- [00:09:52,780 - 00:09:54,320] And, you know, I take breaks.
+- [00:09:54,320 - 00:09:55,800] I get out, do a hike.
+- [00:09:55,800 - 00:09:58,640] There's a also really beautiful area on the 10th floor.
+- [00:09:58,640 - 00:10:00,960] It's got, you know, so go down there and do
+- [00:10:00,960 - 00:10:03,280] some work there and spread out on the big conference table.
+- [00:10:03,280 - 00:10:05,580] Have you ever had like an idea for a company that
+- [00:10:05,580 - 00:10:07,880] you were going to start, but it just like didn't work out?
+- [00:10:07,880 - 00:10:09,439] Or you just put it away?
+- [00:10:09,439 - 00:10:11,360] Well, I think the ideas are the easy part.
+- [00:10:11,360 - 00:10:13,000] The doing is definitely hard.
+- [00:10:13,000 - 00:10:16,440] And I have tons of ideas and I usually start and investigate
+- [00:10:16,440 - 00:10:19,880] them and take them through like, OK, what would that be like?
+- [00:10:19,880 - 00:10:21,480] And what's the viability of that?
+- [00:10:21,480 - 00:10:22,780] And what's the competition of that?
+- [00:10:22,780 - 00:10:25,040] And at different times, I've almost started stuff.
+- [00:10:25,040 - 00:10:28,310] And then later something would happen either in my life that would derail
+- [00:10:28,310 - 00:10:31,580] that or I would decide later just wasn't something I'm that passionate about.
+- [00:10:31,580 - 00:10:32,680] You know, you dig into it.
+- [00:10:32,680 - 00:10:33,970] It's a great idea, but it's
+- [00:10:33,970 - 00:10:35,260] like, what if this is successful?
+- [00:10:35,260 - 00:10:36,190] Do I really want to
+- [00:10:36,190 - 00:10:37,120] do this for another five years?
+- [00:10:37,120 - 00:10:37,420] No.
+- [00:10:37,420 - 00:10:39,850] Pick something you want to be spending a lot
+- [00:10:39,850 - 00:10:42,280] of time with because it's almost like creating a child.
+- [00:10:42,280 - 00:10:43,629] You're going to be spending a
+- [00:10:43,629 - 00:10:44,979] lot of time doing this thing.
+- [00:10:44,979 - 00:10:47,380] It's going to take years for something successful.
+- [00:10:47,380 - 00:10:49,599] Even the most successful companies usually
+- [00:10:49,599 - 00:10:51,819] take three to five years minimum.
+- [00:10:51,819 - 00:10:54,499] You've got to find something that you want to be
+- [00:10:54,499 - 00:10:57,180] doing every day that doesn't bore you after a year.
+- [00:11:04,300 - 00:11:05,740] Something that we've been kind of
+- [00:11:05,740 - 00:11:07,180] like talking about today is, you know,
+- [00:11:07,180 - 00:11:07,420] kind of like a business model.
+- [00:11:07,420 - 00:11:08,500] Like your work life balance.
+- [00:11:08,500 - 00:11:11,049] You know, we've talked a lot about it, like prioritizing your
+- [00:11:11,049 - 00:11:13,599] health and how health is wealth and how important it really is.
+- [00:11:13,599 - 00:11:14,979] Well, it's not just your mental health.
+- [00:11:14,979 - 00:11:16,680] It's your physical health, especially tech.
+- [00:11:16,680 - 00:11:19,280] And also with everything remotely working these days, I
+- [00:11:19,280 - 00:11:21,880] can find myself working eight, 10, 12 hour stretches.
+- [00:11:21,880 - 00:11:23,400] If I do that too many days
+- [00:11:23,400 - 00:11:24,920] in a row, it also depletes my creativity.
+- [00:11:24,920 - 00:11:26,800] Then I find myself just staring at the computer.
+- [00:11:26,800 - 00:11:28,240] So that's why I break it up.
+- [00:11:28,240 - 00:11:30,610] You know, I'll come down and use the
+- [00:11:30,610 - 00:11:32,980] rec area and set up a little workspace.
+- [00:11:32,980 - 00:11:34,719] I think this was kind of just different
+- [00:11:34,719 - 00:11:36,459] than the way the work environment used to be.
+- [00:11:36,460 - 00:11:38,150] Traditional office was didn't really,
+- [00:11:38,150 - 00:11:39,840] you didn't work that way.
+- [00:11:39,840 - 00:11:41,910] You were constantly engrossed with people or you
+- [00:11:41,910 - 00:11:43,980] had conference rooms and you're constantly in meetings.
+- [00:11:43,980 - 00:11:45,700] But now it's so much of is isolated.
+- [00:11:45,700 - 00:11:48,490] You have to put yourself in a mental health space that
+- [00:11:48,490 - 00:11:51,280] even though you're working alone, but you're also want to balance that.
+- [00:11:51,280 - 00:11:53,310] As a business owner and for your first
+- [00:11:53,310 - 00:11:55,340] company, what was the biggest challenge that you faced?
+- [00:11:55,340 - 00:11:56,380] How did you overcome that?
+- [00:11:56,380 - 00:11:57,760] Wasn't enough hours in the day.
+- [00:11:58,980 - 00:12:01,490] Trying to raise young children and also trying
+- [00:12:01,490 - 00:12:04,000] to start a business and run a business.
+- [00:12:04,000 - 00:12:05,860] There just isn't enough hours in the day.
+- [00:12:05,860 - 00:12:06,400] And that's.
+- [00:12:06,460 - 00:12:07,300] That's tough.
+- [00:12:07,300 - 00:12:09,970] I remember, you know, one particular day I probably had
+- [00:12:09,970 - 00:12:12,640] eight, 10, 12 people lined out outside of my office.
+- [00:12:12,640 - 00:12:14,640] So each one of them needed five, 10 minutes of
+- [00:12:14,640 - 00:12:16,640] my attention and I'm taking them one at a time.
+- [00:12:16,640 - 00:12:18,600] And then my wife at the time, it
+- [00:12:18,600 - 00:12:20,560] calls and says, like, when are you coming home?
+- [00:12:20,560 - 00:12:23,100] The kids are, you know, they're driving me crazy
+- [00:12:23,100 - 00:12:25,640] because we had two young toddlers at the house.
+- [00:12:25,640 - 00:12:26,680] And, you know, so it's
+- [00:12:26,680 - 00:12:27,720] like he's trying to balance everything.
+- [00:12:27,720 - 00:12:31,610] I guess what would you say is if people are looking to, you know, pursue a
+- [00:12:31,610 - 00:12:35,500] great career, what industry do you think people should be really be looking into and exploring?
+- [00:12:35,500 - 00:12:36,340] Well, I mean, I can.
+- [00:12:36,460 - 00:12:39,040] Speak to things that I'm familiar with, and that's
+- [00:12:39,040 - 00:12:41,620] the information security world is going to be massive.
+- [00:12:41,620 - 00:12:42,400] It already is.
+- [00:12:42,400 - 00:12:43,300] It's growing more.
+- [00:12:43,300 - 00:12:44,440] It's not going to go away.
+- [00:12:44,440 - 00:12:46,600] And there's not a lot of fields like that anymore.
+- [00:12:46,600 - 00:12:48,170] I think it's a huge
+- [00:12:48,170 - 00:12:49,740] opportunity for somebody who's starting young.
+- [00:12:49,740 - 00:12:51,640] There's so many different directions you can go with it.
+- [00:12:51,640 - 00:12:53,740] If you were given $100,000 and you were
+- [00:12:53,740 - 00:12:55,840] told to start a company, what would you do?
+- [00:12:55,840 - 00:13:01,070] Immediately, you would probably want to start in a service industry and try to get some income coming
+- [00:13:01,070 - 00:13:06,300] in, because with that kind of level of capital, you're not going to be able to immediately go into.
+- [00:13:06,460 - 00:13:10,480] Building a high tech industry or if you've got the skill set, take
+- [00:13:10,480 - 00:13:14,500] the year off of work and write it yourself or build it yourself.
+- [00:13:14,500 - 00:13:17,600] You know, if you can do that, you know, I was fortunate
+- [00:13:17,600 - 00:13:20,700] if I could do that at a young age, not everybody today can.
+- [00:13:20,700 - 00:13:23,080] So that's would be investing in yourself.
+- [00:13:23,080 - 00:13:29,020] What is your best kind of like financial advice to younger people during this time of like the recession or just in general, like
+- [00:13:29,020 - 00:13:34,960] with kind of the economy not being in a great spot that you recommend to people kind of looking to do with their money?
+- [00:13:34,960 - 00:13:36,460] I think the inflation.
+- [00:13:36,460 - 00:13:38,500] Things interesting because it's worldwide.
+- [00:13:38,500 - 00:13:40,920] It's not particularly just the US and so
+- [00:13:40,920 - 00:13:43,340] much of it was a result of two things.
+- [00:13:43,340 - 00:13:46,100] One was the pandemic and the supply chain disruption.
+- [00:13:46,100 - 00:13:50,060] And the other one is, you know, corporate greed, which has been obvious that the
+- [00:13:50,060 - 00:13:54,020] profits are up at a world time record and that's being translated into inflation everywhere.
+- [00:13:54,020 - 00:13:57,970] So I think inflation is going to adjust a little bit, mostly because corporations are
+- [00:13:57,970 - 00:14:01,920] not going to be able to be as greedy as they have been this past time.
+- [00:14:01,920 - 00:14:03,000] And the supply chain is also
+- [00:14:03,000 - 00:14:04,080] going to start to level up.
+- [00:14:04,080 - 00:14:05,380] Are we headed into the recession?
+- [00:14:05,380 - 00:14:06,460] Recessions?
+- [00:14:06,460 - 00:14:07,930] I think it's going to only last a
+- [00:14:07,930 - 00:14:09,400] couple of years and they can be painful.
+- [00:14:09,400 - 00:14:14,200] But I think the mistake we always made and I've made this mistake myself is that
+- [00:14:14,200 - 00:14:19,000] when it's happening, it feels like everything is so dire and it's never going to get better.
+- [00:14:19,000 - 00:14:21,670] When it finally does get better, it's like the clouds just part and
+- [00:14:21,670 - 00:14:24,340] you forget how bad it was or how bad you felt at the time.
+- [00:14:24,340 - 00:14:26,380] It's almost like depression and vice versa.
+- [00:14:26,380 - 00:14:28,100] You forget the good days when it was like,
+- [00:14:28,100 - 00:14:29,820] oh, my God, it was so great last year.
+- [00:14:29,820 - 00:14:30,650] And you think this thing
+- [00:14:30,650 - 00:14:31,480] is going to go on forever.
+- [00:14:31,480 - 00:14:33,180] The key is to remind yourself
+- [00:14:33,180 - 00:14:34,880] that it's temporary and plan for that.
+- [00:14:34,880 - 00:14:36,460] You know, that's why savings accounts.
+- [00:14:36,460 - 00:14:36,960] Are good.
+- [00:14:36,960 - 00:14:38,520] Also, don't go so dire.
+- [00:14:38,520 - 00:14:40,180] I think it's an excellent time to start
+- [00:14:40,180 - 00:14:41,840] a company when it goes into a recession.
+- [00:14:41,840 - 00:14:43,340] Labor is cheaper.
+- [00:14:43,340 - 00:14:44,590] You get people who want
+- [00:14:44,590 - 00:14:45,840] opportunity, who want to work harder.
+- [00:14:45,840 - 00:14:47,670] I will wait on doing a remodel
+- [00:14:47,670 - 00:14:49,500] and I've done this before in my house.
+- [00:14:49,500 - 00:14:51,100] I'll wait for a recession to happen.
+- [00:14:51,100 - 00:14:51,840] Why does that happen?
+- [00:14:51,840 - 00:14:53,340] Because, you know, I'm going to spend the
+- [00:14:53,340 - 00:14:54,840] same amount of money or actually spend less money.
+- [00:14:54,840 - 00:14:56,780] Recessions are not always a bad thing.
+- [00:14:56,780 - 00:14:59,320] You if you've got the capital and you can spend
+- [00:14:59,320 - 00:15:01,860] it and do it, that's a great time to deploy it.
+- [00:15:01,860 - 00:15:03,620] How do you know when it's a
+- [00:15:03,620 - 00:15:05,380] good time to buy into a certain industry?
+- [00:15:05,380 - 00:15:06,460] I think the.
+- [00:15:06,460 - 00:15:09,210] Same thing that I've always heard and I believe strongly stick to
+- [00:15:09,210 - 00:15:11,960] what you know or learn something and learn really deep on it.
+- [00:15:11,960 - 00:15:15,530] And I think so often people shotgun and when they hear about something, it's already
+- [00:15:15,530 - 00:15:19,100] too late, you know, and and then they're running around doing this and this and this.
+- [00:15:19,100 - 00:15:20,580] If you know, tech stick to tech.
+- [00:15:20,580 - 00:15:21,690] If you know, sports and
+- [00:15:21,690 - 00:15:22,800] the sports industry stick to that.
+- [00:15:22,800 - 00:15:24,680] If you know, media stick to that.
+- [00:15:24,680 - 00:15:26,110] If you find something that you're passionate about,
+- [00:15:26,110 - 00:15:27,540] go really deep in it and learn that.
+- [00:15:27,540 - 00:15:30,750] And I think you're going to be way more successful by sticking
+- [00:15:30,750 - 00:15:33,960] to one thing and going deep in it and understanding the players there.
+- [00:15:33,960 - 00:15:35,660] Guys, thank you so much for tuning in.
+- [00:15:35,660 - 00:15:36,060] Glenn.
+- [00:15:36,060 - 00:15:36,460] Thank you so much.
+- [00:15:36,460 - 00:15:37,120] For having us.
+- [00:15:37,120 - 00:15:39,510] We really enjoyed spending the day with you being able to
+- [00:15:39,510 - 00:15:41,900] ask you questions, get your perspective on a lot of things.
+- [00:15:41,900 - 00:15:43,230] It really means a lot to us and
+- [00:15:43,230 - 00:15:44,560] just thank you so much for your time.
+- [00:15:44,560 - 00:15:44,900] Absolutely.
+- [00:15:44,900 - 00:15:45,640] It was really a pleasure.
+- [00:15:45,640 - 00:15:47,140] You know, if you guys enjoyed today's video, make
+- [00:15:47,140 - 00:15:48,640] sure that you leave us a like and subscribe.
+- [00:15:48,640 - 00:15:50,790] We got tons of great content coming to YouTube soon
+- [00:15:50,790 - 00:15:52,940] and we just can't wait to keep on delivering this content.
