@@ -1,0 +1,341 @@
+# Transcript
+
+Source: lazyearn/school-of-hard-knocks/hard-knocks-interviews/140 - These Millionaires Gave Us Life Changing Advice... [jR6g__ogNkc].webm
+
+- [00:00:00,000 - 00:00:01,920] What's going on everyone? This is James with the
+- [00:00:01,920 - 00:00:03,840] School of Hard Knocks. I'm here with Jack and Josh.
+- [00:00:04,120 - 00:00:06,080] We've got a crazy busy day planned today. We're going
+- [00:00:06,080 - 00:00:08,039] to go get some grub and then we're going to be
+- [00:00:08,039 - 00:00:10,030] going all around downtown Austin to
+- [00:00:10,030 - 00:00:12,020] interview some multi-millionaires. You know, stay tuned
+- [00:00:12,020 - 00:00:14,020] for today and tonight we're going to be
+- [00:00:14,020 - 00:00:16,020] going out downtown again, down to 6th Street
+- [00:00:16,020 - 00:00:18,080] to film part two, video number
+- [00:00:18,080 - 00:00:20,140] two for After Hours for the new
+- [00:00:20,140 - 00:00:22,130] channel that we've been growing. So, you know, let's
+- [00:00:22,130 - 00:00:24,120] just, let's get after it today and I can't wait
+- [00:00:24,120 - 00:00:25,960] to deliver this content for you guys. Let's get it.
+- [00:00:30,000 - 00:00:30,480] Music
+- [00:00:30,480 - 00:00:30,960] Music
+- [00:00:30,960 - 00:00:34,000] Music
+- [00:00:34,000 - 00:00:40,000] Music
+- [00:00:44,860 - 00:00:46,000] Music
+- [00:00:46,000 - 00:00:48,500] Music
+- [00:00:48,500 - 00:00:50,259] You know, what's your name and where are you from?
+- [00:00:50,259 - 00:00:52,019] My name's Elliot Hill and I live here in Austin.
+- [00:00:52,260 - 00:00:54,090] What industry did you decide to
+- [00:00:54,090 - 00:00:55,920] pursue a career in? I sold sneakers
+- [00:00:55,920 - 00:00:57,930] and t-shirts for a living. No way.
+- [00:00:57,930 - 00:00:59,940] So did you own your own company?
+- [00:01:00,000 - 00:01:02,009] No, I worked for Nike. You worked for Nike? Yeah.
+- [00:01:02,009 - 00:01:04,019] And what were you doing exactly? I did a little bit
+- [00:01:04,019 - 00:01:06,069] of everything from sales to retail
+- [00:01:06,069 - 00:01:08,120] to product. I was ultimately the president
+- [00:01:08,120 - 00:01:10,050] of the company. Of Nike? Yeah. No
+- [00:01:10,050 - 00:01:11,980] way. Way. You were the president of Nike?
+- [00:01:12,060 - 00:01:13,910] Yeah. Oh my goodness. That's amazing. That's
+- [00:01:13,910 - 00:01:15,760] why I saw the white whites there.
+- [00:01:15,960 - 00:01:17,860] Do I know Phil Knight? Yeah. Yeah,
+- [00:01:17,860 - 00:01:19,760] I know him real well. Wow. That's amazing.
+- [00:01:19,900 - 00:01:21,890] So as someone who's been an entrepreneur, what is
+- [00:01:21,890 - 00:01:23,880] your best piece of advice to someone starting a business
+- [00:01:23,880 - 00:01:27,620] in 2022? Super strong focus on the consumer. So like
+- [00:01:27,700 - 00:01:28,840] who are you trying to
+- [00:01:28,840 - 00:01:29,980] serve and what type of problems?
+- [00:01:30,020 - 00:01:32,010] Are you trying to solve for those people or what
+- [00:01:32,010 - 00:01:34,000] type of products are you trying to create for them?
+- [00:01:34,240 - 00:01:35,950] But I think it all starts
+- [00:01:35,950 - 00:01:37,660] with having a really super strong focus
+- [00:01:37,660 - 00:01:39,750] on the consumer you're trying to serve. So
+- [00:01:39,750 - 00:01:41,840] for someone who's been a president and has overseen
+- [00:01:41,840 - 00:01:43,730] a company like Nike, what have
+- [00:01:43,730 - 00:01:45,620] you seen throughout Nike that's really
+- [00:01:45,620 - 00:01:47,680] enabled them to really grow and scale their
+- [00:01:47,680 - 00:01:49,740] brand? I guess, what is your advice to someone
+- [00:01:49,740 - 00:01:51,840] trying to scale and grow their brand and
+- [00:01:51,840 - 00:01:53,940] build a business into like a renowned name
+- [00:01:53,940 - 00:01:55,830] like Nike today? Well, I think
+- [00:01:55,830 - 00:01:57,720] what great companies do, not just Nike,
+- [00:01:57,720 - 00:02:00,210] but great companies. It comes back to what I've
+- [00:02:00,210 - 00:02:02,700] already said. It's the consumer in the case of
+- [00:02:02,700 - 00:02:05,060] Nike was athletes. We served athletes. We listened
+- [00:02:05,060 - 00:02:07,420] to those athletes and the insights that they gave
+- [00:02:07,420 - 00:02:10,020] us, we translated into innovative product that
+- [00:02:10,020 - 00:02:12,620] people coveted and desired and wanted. And we
+- [00:02:12,620 - 00:02:15,560] told really emotional, cool stories that connected the
+- [00:02:15,560 - 00:02:18,500] consumer to the brand and to those products.
+- [00:02:18,500 - 00:02:20,940] And so I guess NetNet is super sharp focus
+- [00:02:20,940 - 00:02:23,380] on the consumer. That then translates into a great
+- [00:02:23,380 - 00:02:25,500] product. And then you've got to tell emotional stories.
+- [00:02:25,500 - 00:02:27,620] What would you say has been your secret to
+- [00:02:27,620 - 00:02:29,780] sales in 2022? A lot of people are scared to go
+- [00:02:29,780 - 00:02:31,940] out and ask and you've walked up to me and said,
+- [00:02:31,940 - 00:02:33,970] Hey, can I talk to you? You got to be bold.
+- [00:02:33,970 - 00:02:36,000] You got to be confident. You got to stand up and ask
+- [00:02:36,000 - 00:02:38,160] people for the order. So anyway, absolutely. Thank you
+- [00:02:38,160 - 00:02:40,320] so much for your time. Have a great day.
+- [00:02:40,420 - 00:02:46,500] Thank you. Just got back from Better Halves
+- [00:02:46,500 - 00:02:52,580] and now we're here in downtown Austin and crazy,
+- [00:02:52,800 - 00:02:54,820] just ran into the former president of
+- [00:02:54,820 - 00:02:56,840] Nike, got to know him a little bit,
+- [00:02:56,840 - 00:02:57,600] find out about his business.
+- [00:02:57,620 - 00:02:59,950] Story downtown, going to go talk to some more
+- [00:02:59,950 - 00:03:02,280] people and find out about them and, you know,
+- [00:03:02,280 - 00:03:04,000] just ask them questions again on what's, you
+- [00:03:04,000 - 00:03:05,720] know, made them so successful and help them
+- [00:03:05,720 - 00:03:09,800] throughout their careers. What industry did you
+- [00:03:09,800 - 00:03:13,880] guys pursue a career in? Finance. I'm in
+- [00:03:13,880 - 00:03:16,130] finance business. How can someone become
+- [00:03:16,130 - 00:03:18,380] financially free in 2022? Honesty, transparency,
+- [00:03:18,960 - 00:03:21,430] honesty with yourself. You know, I think people
+- [00:03:21,430 - 00:03:23,900] today get caught up too much in social media.
+- [00:03:24,140 - 00:03:25,660] Remember what it's really about. It's about
+- [00:03:25,660 - 00:03:27,180] yourself, not what other people think about,
+- [00:03:27,180 - 00:03:27,560] you know,
+- [00:03:27,620 - 00:03:28,910] I think that people look
+- [00:03:28,910 - 00:03:30,200] at social media too much, honestly.
+- [00:03:30,500 - 00:03:32,190] And do you think as far as like a
+- [00:03:32,190 - 00:03:33,880] skill set that people should be looking to obtain,
+- [00:03:33,880 - 00:03:36,100] whether it's a soft skill or hard skill that
+- [00:03:36,100 - 00:03:38,320] you've seen has really helped people kind of grow and
+- [00:03:38,480 - 00:03:40,620] separate themselves from other people in the business world?
+- [00:03:40,860 - 00:03:43,370] Communication, ability to communicate, get out of your comfort
+- [00:03:43,370 - 00:03:45,880] zone, talk to someone, do like this, you know,
+- [00:03:45,880 - 00:03:48,030] be open with someone. Yeah, that's the most important
+- [00:03:48,030 - 00:03:50,180] thing really, because you can use that for anything.
+- [00:03:50,300 - 00:03:51,740] Absolutely. Get out of your own way. Yeah,
+- [00:03:51,740 - 00:03:53,180] get out of your own way. That's good.
+- [00:03:53,180 - 00:03:55,130] Do you guys think a college degree is
+- [00:03:55,130 - 00:03:57,080] necessary to be successful in today's society? No.
+- [00:03:57,620 - 00:03:59,310] Why not? I don't. I really
+- [00:03:59,310 - 00:04:01,000] don't. We have a kid in school.
+- [00:04:01,000 - 00:04:02,350] Yeah, I mean, we have a
+- [00:04:02,350 - 00:04:03,700] daughter. Our youngest is in college.
+- [00:04:04,120 - 00:04:06,250] Our two older picked a different route
+- [00:04:06,250 - 00:04:08,380] and we picked, he went to college.
+- [00:04:08,380 - 00:04:12,060] I didn't. Debatable subject always. I think it doesn't hurt.
+- [00:04:12,180 - 00:04:13,930] I think it's good, but I don't
+- [00:04:13,930 - 00:04:15,680] think it's the end all be all.
+- [00:04:15,800 - 00:04:19,040] I think if you talk to most millionaires today, I
+- [00:04:19,040 - 00:04:22,280] don't think most of them went to college or finished college.
+- [00:04:22,280 - 00:04:24,590] Depends what you want to do. If you want
+- [00:04:24,590 - 00:04:26,900] to be an attorney, you got to go to school.
+- [00:04:26,900 - 00:04:27,400] Yeah, or a doctor. Yeah.
+- [00:04:27,620 - 00:04:28,750] If you just want to be successful, no,
+- [00:04:28,750 - 00:04:29,880] you don't have to go to college for that.
+- [00:04:38,100 - 00:04:39,880] Excuse me, gentlemen, question for you guys.
+- [00:04:40,180 - 00:04:42,310] If you were to go back to when you were in either high school
+- [00:04:42,310 - 00:04:44,440] or college, what is the best piece of advice you tell your younger self?
+- [00:04:44,500 - 00:04:46,280] Go into marketing. Why marketing?
+- [00:04:46,680 - 00:04:48,560] Because that's a great skill to have.
+- [00:04:48,560 - 00:04:50,360] What industry? Business. I'm in engineering.
+- [00:04:50,460 - 00:04:51,320] Engineering. Yeah.
+- [00:04:51,620 - 00:04:54,040] How can someone become financially free in 2022?
+- [00:04:54,040 - 00:04:56,620] Invest. Save 10%, 15% of your paycheck.
+- [00:04:56,620 - 00:04:57,580] Try to try to put that.
+- [00:04:57,620 - 00:04:58,700] Pay down your debt first.
+- [00:04:58,700 - 00:05:01,040] If you were having a conversation with your younger self coming
+- [00:05:01,040 - 00:05:03,380] out of high school, what would you tell your younger self?
+- [00:05:03,380 - 00:05:08,740] And maybe that. I think I would have invested more in real estate and stocks and stuff rather than
+- [00:05:08,740 - 00:05:14,100] just putting in like leaving it in cash and things like that or spending it on trips and stuff.
+- [00:05:14,300 - 00:05:15,170] But I mean, obviously you want to
+- [00:05:15,170 - 00:05:16,040] have a good time and you're young.
+- [00:05:16,040 - 00:05:19,160] That's so. But you still want to have maybe some
+- [00:05:19,160 - 00:05:22,280] targets, right, to shoot for so you put that away.
+- [00:05:22,280 - 00:05:22,780] Absolutely.
+- [00:05:22,780 - 00:05:23,280] Okay.
+- [00:05:27,620 - 00:05:35,040] Excuse me, sir.
+- [00:05:35,420 - 00:05:35,620] Yeah.
+- [00:05:35,620 - 00:05:36,420] Question for you.
+- [00:05:36,420 - 00:05:38,580] If you were to go back to when you're in either high school
+- [00:05:38,580 - 00:05:40,740] or college, what is the best piece of advice you tell your younger self?
+- [00:05:40,740 - 00:05:41,380] Whoa, whoa, whoa.
+- [00:05:42,380 - 00:05:43,400] Y'all school hard knocks?
+- [00:05:43,860 - 00:05:44,440] Yes, sir.
+- [00:05:45,100 - 00:05:45,660] I've seen.
+- [00:05:45,820 - 00:05:47,340] I feel like I've done this before.
+- [00:05:47,660 - 00:05:47,880] Yeah.
+- [00:05:48,040 - 00:05:48,360] Right.
+- [00:05:48,500 - 00:05:48,740] Right.
+- [00:05:48,880 - 00:05:50,290] So y'all really have some time
+- [00:05:50,290 - 00:05:51,700] to really sit down and talk.
+- [00:05:51,780 - 00:05:53,000] You have about 30 minutes of your time.
+- [00:05:53,180 - 00:05:53,740] Let's do it.
+- [00:05:53,820 - 00:05:54,160] We're down.
+- [00:05:54,440 - 00:05:55,280] Well, follow me this way.
+- [00:05:55,320 - 00:05:55,700] Let's go.
+- [00:05:55,700 - 00:05:56,140] Let's do it.
+- [00:05:57,620 - 00:05:57,820] Yeah.
+- [00:06:04,980 - 00:06:05,700] You're not growing.
+- [00:06:05,800 - 00:06:06,080] You're not.
+- [00:06:06,220 - 00:06:06,460] I guess.
+- [00:06:06,540 - 00:06:09,640] What do you think is like made Austin such a capital for that kind
+- [00:06:09,640 - 00:06:12,740] of growth for technology and all these businesses to come out here and flourish?
+- [00:06:12,940 - 00:06:15,000] I think it's the laid back attitude of everyone.
+- [00:06:15,320 - 00:06:19,420] I think one of the coolest things about Austin that I noticed is that in Austin
+- [00:06:19,420 - 00:06:23,520] you get this more authentic, you know, kind of, you know, lifestyle, which I really like.
+- [00:06:23,640 - 00:06:24,860] You know, people aren't afraid to be them.
+- [00:06:25,700 - 00:06:25,980] So.
+- [00:06:26,940 - 00:06:27,600] Obviously, guys.
+- [00:06:27,820 - 00:06:30,380] You know, crazy spot here.
+- [00:06:30,540 - 00:06:32,420] You know, one of the probably probably one of
+- [00:06:32,420 - 00:06:34,300] the coolest apartments I've ever been to in Austin.
+- [00:06:36,460 - 00:06:36,940] Yeah.
+- [00:06:37,180 - 00:06:37,680] Wow.
+- [00:06:37,820 - 00:06:39,560] No, this is this is crazy.
+- [00:06:40,200 - 00:06:40,700] Yeah.
+- [00:06:42,240 - 00:06:42,740] Wow.
+- [00:06:43,380 - 00:06:44,960] This is unreal.
+- [00:06:46,220 - 00:06:47,660] For those of you who
+- [00:06:47,660 - 00:06:49,100] don't know, this is Lavon Perrin.
+- [00:06:49,500 - 00:06:52,960] And one of the coolest things about Lavon and us is that
+- [00:06:52,960 - 00:06:56,420] last year around August, we actually asked him to do an interview.
+- [00:06:56,700 - 00:06:57,620] Just let me just read you off.
+- [00:06:57,720 - 00:06:59,060] Some of these statistics real quick.
+- [00:06:59,340 - 00:07:04,760] We did an interview with Lavon and the video itself got two
+- [00:07:04,760 - 00:07:10,180] point three million views, three thousand comments, thirty thousand saves, seventy thousand shares.
+- [00:07:10,380 - 00:07:13,700] Not only did it blow up on Tik Tok, but it also got over
+- [00:07:13,700 - 00:07:17,020] a million views on Twitter and was honestly one of our favorite interviews we've done.
+- [00:07:17,020 - 00:07:18,380] Got so many messages about it.
+- [00:07:18,460 - 00:07:19,420] Where did you start out?
+- [00:07:19,460 - 00:07:20,800] What industry are you in now and
+- [00:07:20,800 - 00:07:22,140] what plans if you have in the future?
+- [00:07:22,260 - 00:07:23,980] Couple of industries I was in, you know,
+- [00:07:23,980 - 00:07:25,700] I started off with MCI back in the day.
+- [00:07:25,700 - 00:07:26,900] A lot of y'all don't know what that is.
+- [00:07:26,900 - 00:07:28,460] A lot of y'all don't understand.
+- [00:07:28,460 - 00:07:29,900] You used to have to pay for long distance.
+- [00:07:30,739 - 00:07:31,940] So I started off with that.
+- [00:07:32,280 - 00:07:34,640] Selling long distance was very successful.
+- [00:07:34,700 - 00:07:37,560] One of the youngest supervisors there won many awards.
+- [00:07:37,620 - 00:07:39,400] So I bounced around, started my own business.
+- [00:07:39,440 - 00:07:40,940] I was actually a private driver,
+- [00:07:40,940 - 00:07:42,440] drove around a couple of celebrities.
+- [00:07:42,539 - 00:07:43,179] Then COVID hit.
+- [00:07:44,120 - 00:07:45,659] And then that's when things changed.
+- [00:07:45,659 - 00:07:49,529] So I decided whether I was going to get back in insurance like I've done before or was
+- [00:07:49,529 - 00:07:53,400] I going to simply, you know, go maybe real estate because it was really booming at the time.
+- [00:07:53,780 - 00:07:56,299] So I went ahead and got back into insurance.
+- [00:07:56,359 - 00:07:56,539] Through insurance.
+- [00:07:56,539 - 00:07:56,859] I got back into the real estate business.
+- [00:07:56,859 - 00:07:56,880] I got back into the real estate business.
+- [00:07:56,900 - 00:07:57,020] Through insurance.
+- [00:07:57,120 - 00:08:03,290] I've been able to, you know, be successful, hire people, teach them how to help protect families and just move up
+- [00:08:03,290 - 00:08:09,460] the ladder and move up the scale and, you know, be one of the best new writers they've seen in a while.
+- [00:08:09,659 - 00:08:12,859] And just, you know, start growing my business and growing
+- [00:08:12,859 - 00:08:16,060] my pipeline that way and finding something that you're passionate about.
+- [00:08:16,500 - 00:08:18,859] Something where you can get paid for what you're worth.
+- [00:08:18,960 - 00:08:20,520] In my case, I was being in
+- [00:08:20,520 - 00:08:22,080] business for myself, but not by myself.
+- [00:08:22,080 - 00:08:24,780] This skyscraper balcony apartment.
+- [00:08:25,099 - 00:08:25,979] And it's, I mean, one of
+- [00:08:25,979 - 00:08:26,859] the best views I've ever seen.
+- [00:08:26,860 - 00:08:27,580] In the city.
+- [00:08:28,120 - 00:08:29,750] A lot of younger people aspire to be able
+- [00:08:29,750 - 00:08:31,380] to own and live in a place like this.
+- [00:08:31,420 - 00:08:34,960] You know, as a business owner, what has been that thing throughout your
+- [00:08:34,960 - 00:08:38,500] lifetime that's been a constant factor that's enabled you to, you know, be successful?
+- [00:08:38,880 - 00:08:40,880] The belief I've always had in my mind that
+- [00:08:40,880 - 00:08:42,880] I can be and do anything I want to do.
+- [00:08:43,159 - 00:08:46,009] That belief and sometimes blind ambition that you just go
+- [00:08:46,009 - 00:08:48,860] for some things and kind of figure it out later.
+- [00:08:49,100 - 00:08:50,140] What I did then is just
+- [00:08:50,140 - 00:08:51,180] really start looking at the numbers.
+- [00:08:51,380 - 00:08:52,500] Go for it and see what you find.
+- [00:08:52,500 - 00:08:54,660] Some of that has helped me not
+- [00:08:54,660 - 00:08:56,820] be scared, not to be afraid to approach.
+- [00:08:56,860 - 00:08:57,860] Things.
+- [00:09:01,240 - 00:09:04,780] What is the difference between like whole life and term life policies and which one
+- [00:09:04,780 - 00:09:08,320] should people really be looking to get for themselves when they're looking to make that investment?
+- [00:09:08,620 - 00:09:09,780] Well, that's a great question.
+- [00:09:09,780 - 00:09:11,960] And it's an argument that's been around forever.
+- [00:09:11,960 - 00:09:13,980] Almost like what came first, the chicken or the egg?
+- [00:09:14,040 - 00:09:15,800] The truth of the matter is
+- [00:09:15,800 - 00:09:17,560] you actually probably should lean toward both.
+- [00:09:17,640 - 00:09:18,430] So let me explain to
+- [00:09:18,430 - 00:09:19,220] you what I mean by that.
+- [00:09:19,260 - 00:09:20,400] First of all, a term
+- [00:09:20,400 - 00:09:21,540] plan is just like it sounds.
+- [00:09:21,740 - 00:09:22,890] It starts at a certain point
+- [00:09:22,890 - 00:09:24,040] and ends at a certain point.
+- [00:09:24,420 - 00:09:25,900] Let's say if it's a 30 year term.
+- [00:09:26,020 - 00:09:26,860] You simply make your pay.
+- [00:09:27,180 - 00:09:29,160] The payments stay the same for the
+- [00:09:29,160 - 00:09:31,140] entire term for 30 years, 360 payments.
+- [00:09:31,540 - 00:09:32,300] And it's ended at.
+- [00:09:32,360 - 00:09:34,360] Usually you don't really have any more coverage left.
+- [00:09:34,400 - 00:09:39,420] But the benefits for that is because if I'm a younger person, I have family and I have kids, I'm going to get the
+- [00:09:39,420 - 00:09:44,440] more bang for my buck to make sure that house is paid off while the kids are young and something happens for younger people.
+- [00:09:44,560 - 00:09:45,760] Depends on their situation.
+- [00:09:46,120 - 00:09:49,960] Term is really fits them at the time as you get older and you mature kids
+- [00:09:49,960 - 00:09:53,800] out of the house, things of that nature or even before they're out of the house.
+- [00:09:53,800 - 00:09:55,300] But when you're trying to plan for that
+- [00:09:55,300 - 00:09:56,800] whole life may be a little bit better.
+- [00:09:56,900 - 00:09:58,780] Now, a lot of people think the term is cheaper.
+- [00:09:59,080 - 00:09:59,380] Right.
+- [00:09:59,480 - 00:10:01,590] And part of the reason why it appears to
+- [00:10:01,590 - 00:10:03,700] be cheaper is because the premium you pay every month.
+- [00:10:03,860 - 00:10:05,940] However, when you did it with whole life, it appears
+- [00:10:05,940 - 00:10:08,020] to cost more money because you pay more money every month.
+- [00:10:08,080 - 00:10:10,210] But the part that a lot of people
+- [00:10:10,210 - 00:10:12,340] are missing is the understanding you pay more money.
+- [00:10:12,360 - 00:10:14,690] That's because part of the money that you put
+- [00:10:14,690 - 00:10:17,020] into a whole life is actually invested on your behalf.
+- [00:10:17,080 - 00:10:21,230] So if you look at a whole life plan, that money is that you put in and invest
+- [00:10:21,230 - 00:10:25,380] it is equal amount of money that you put in over that particular term on the long run.
+- [00:10:25,580 - 00:10:26,560] Whole life is cheaper.
+- [00:10:26,740 - 00:10:26,840] Even.
+- [00:10:26,900 - 00:10:28,100] Though you pay more money per month.
+- [00:10:28,300 - 00:10:29,800] So neither one of them are bad.
+- [00:10:30,100 - 00:10:30,420] Right.
+- [00:10:30,640 - 00:10:32,170] It just depends on where you are
+- [00:10:32,170 - 00:10:33,700] in your your life and what you need.
+- [00:10:37,800 - 00:10:40,130] How important is it for young people
+- [00:10:40,130 - 00:10:42,460] to at least try to pursue their dreams?
+- [00:10:42,660 - 00:10:44,300] There's no practice life.
+- [00:10:44,380 - 00:10:45,910] It's not always about what you
+- [00:10:45,910 - 00:10:47,440] do to get to your goal.
+- [00:10:47,500 - 00:10:48,350] A lot of times people
+- [00:10:48,350 - 00:10:49,200] want to work in their passion.
+- [00:10:49,480 - 00:10:50,670] If you can work in your
+- [00:10:50,670 - 00:10:51,860] passion and be successful, that's great.
+- [00:10:52,100 - 00:10:54,180] But also you can work something else that makes
+- [00:10:54,180 - 00:10:56,260] you the money so you can live in your passion.
+- [00:10:56,360 - 00:10:56,740] So when you're young.
+- [00:10:56,740 - 00:10:59,640] And you don't have too many ties.
+- [00:10:59,740 - 00:11:00,750] It's a lot easier for you
+- [00:11:00,750 - 00:11:01,760] to get out and try stuff.
+- [00:11:01,800 - 00:11:02,360] Travel.
+- [00:11:02,640 - 00:11:03,420] Put together money.
+- [00:11:03,460 - 00:11:04,100] Save money.
+- [00:11:04,140 - 00:11:05,130] Just depends on your goal
+- [00:11:05,130 - 00:11:06,120] and your drive and your why.
+- [00:11:06,460 - 00:11:07,980] If you don't quit, you don't lose.
+- [00:11:11,940 - 00:11:14,120] A lot of people have been going on our website.
+- [00:11:14,160 - 00:11:16,400] SFG Austin dot com is our website.
+- [00:11:16,720 - 00:11:17,750] You can look at all
+- [00:11:17,750 - 00:11:18,780] the things we have to offer.
+- [00:11:18,880 - 00:11:20,720] We also hire from that website.
+- [00:11:20,760 - 00:11:22,090] Also, you can actually get
+- [00:11:22,090 - 00:11:23,420] coverage yourself on that website.
+- [00:11:23,680 - 00:11:25,120] I work with with a
+- [00:11:25,120 - 00:11:26,560] company that allows me to have.
+- [00:11:26,560 - 00:11:28,920] 30 different carriers I can do business with.
+- [00:11:29,060 - 00:11:30,800] That separates me from a lot of companies.
+- [00:11:31,219 - 00:11:34,339] Because if someone has a certain ailment or they were diabetic
+- [00:11:34,339 - 00:11:37,459] before the age of 50 or had any kind of health issues.
+- [00:11:37,800 - 00:11:39,060] Some companies may not cover them.
+- [00:11:39,380 - 00:11:40,690] But because I have 30
+- [00:11:40,690 - 00:11:42,000] different companies I can choose from.
+- [00:11:42,280 - 00:11:43,670] I can take the time to
+- [00:11:43,670 - 00:11:45,060] find what works for the customer.
+- [00:11:45,280 - 00:11:47,420] Also, what works for their budget instead of
+- [00:11:47,420 - 00:11:49,560] just giving them one solution to their problem.
+- [00:11:49,780 - 00:11:51,049] All the companies we use are over
+- [00:11:51,049 - 00:11:52,319] 100 years old and they're A rated.
+- [00:11:52,459 - 00:11:54,299] So those are some of the things we
+- [00:11:54,299 - 00:11:56,140] do and how we're able to be successful.
+- [00:11:56,140 - 00:11:56,459] It's just.
+- [00:11:56,460 - 00:11:57,360] Really helping others.
+- [00:11:57,840 - 00:11:59,280] The impact you make on others is
+- [00:11:59,280 - 00:12:00,720] going to determine how successful you are.
