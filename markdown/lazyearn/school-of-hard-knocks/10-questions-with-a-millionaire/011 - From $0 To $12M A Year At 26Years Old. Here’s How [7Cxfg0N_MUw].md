@@ -1,0 +1,283 @@
+# Transcript
+
+Source: lazyearn/school-of-hard-knocks/hard-knocks-interviews/104 - From $0 To $12M A Year At 26Years Old. Here’s How [7Cxfg0N_MUw].webm
+
+- [00:00:00,000 - 00:00:02,029] Meet Victor. Over the last six
+- [00:00:02,029 - 00:00:04,059] years, he has created multiple seven-figure businesses
+- [00:00:04,059 - 00:00:05,730] and become one of the youngest
+- [00:00:05,730 - 00:00:07,400] multi-millionaires in all of Houston, Texas.
+- [00:00:07,740 - 00:00:09,650] When Victor was 19 years old, he was
+- [00:00:09,650 - 00:00:11,560] down to zero dollars in his bank account,
+- [00:00:11,720 - 00:00:13,380] but through learning the game
+- [00:00:13,380 - 00:00:15,040] of entrepreneurship at 26 years old,
+- [00:00:15,100 - 00:00:17,480] he now has a net worth over 10 million dollars.
+- [00:00:17,480 - 00:00:19,860] I flew out to Houston, Texas to ask Victor the
+- [00:00:19,860 - 00:00:21,740] number one thing that has enabled him to go
+- [00:00:21,740 - 00:00:23,620] from a one to 10 million dollar net worth.
+- [00:00:23,740 - 00:00:25,330] Understanding that money is a game. It's
+- [00:00:25,330 - 00:00:26,920] a game of numbers. A lot of people,
+- [00:00:26,920 - 00:00:28,850] they get overwhelmed by seeing like that million
+- [00:00:28,850 - 00:00:30,780] dollar figure when all you have to do is.
+- [00:00:31,160 - 00:00:32,740] In this interview, Victor revealed to me
+- [00:00:32,740 - 00:00:34,320] the blueprint that he created to grow
+- [00:00:34,320 - 00:00:36,620] multiple seven-figure businesses across different industries
+- [00:00:36,620 - 00:00:38,920] as a young entrepreneur in today's
+- [00:00:38,920 - 00:00:41,450] world. One car can turn into two, two turns
+- [00:00:41,450 - 00:00:43,980] into four, four turns into a fleet, man. You know,
+- [00:00:44,040 - 00:00:45,660] you wake up, you get to drive whatever
+- [00:00:45,660 - 00:00:47,280] car you want. We have like multiple warehouses,
+- [00:00:47,280 - 00:00:48,980] so we can't keep all the cars
+- [00:00:48,980 - 00:00:50,680] at one warehouse because there's just so many.
+- [00:00:51,100 - 00:00:52,730] His story of how he beat the odds
+- [00:00:52,730 - 00:00:54,360] is an inspiring one to say the least.
+- [00:00:54,360 - 00:00:56,900] I'm James Dumoulin, and this is Questions with Millionaires.
+- [00:00:56,920 - 00:00:58,320] What's been the most amount of money
+- [00:00:58,320 - 00:00:59,720] that you ever made in a single year?
+- [00:00:59,720 - 00:01:03,270] A single year? In a year? I
+- [00:01:03,270 - 00:01:06,820] think this year would probably be that number.
+- [00:01:07,920 - 00:01:09,500] We're halfway through the year, I'm at six million.
+- [00:01:09,800 - 00:01:12,100] Six million for the year. That is incredible, man.
+- [00:01:12,380 - 00:01:14,240] How old were you when you started your first business?
+- [00:01:14,800 - 00:01:16,500] I started my first business when I was 19.
+- [00:01:16,740 - 00:01:17,360] And what was it?
+- [00:01:17,700 - 00:01:19,440] It was my brand for the low clothing.
+- [00:01:19,800 - 00:01:20,800] So like kind of e-commerce?
+- [00:01:21,060 - 00:01:21,660] Yeah, e-commerce.
+- [00:01:21,940 - 00:01:23,630] For people starting on e-commerce today, for
+- [00:01:23,630 - 00:01:25,320] you personally, what was the biggest thing
+- [00:01:25,320 - 00:01:26,860] that you really implemented throughout your brand?
+- [00:01:26,920 - 00:01:28,340] To set yourself apart from the competition.
+- [00:01:28,760 - 00:01:30,520] E-commerce can be a very competitive industry.
+- [00:01:30,760 - 00:01:32,380] A lot of people trying to make apparel brands.
+- [00:01:32,500 - 00:01:33,730] What was your secret to really
+- [00:01:33,730 - 00:01:34,960] standing out in a competitive industry?
+- [00:01:36,340 - 00:01:37,580] It kind of goes back
+- [00:01:37,580 - 00:01:38,820] to like the fail fast method.
+- [00:01:39,480 - 00:01:41,840] I would drop clothes literally every week, whether
+- [00:01:41,840 - 00:01:44,200] they were good or bad or, you know,
+- [00:01:44,280 - 00:01:46,040] whatever, sales, it didn't matter.
+- [00:01:46,440 - 00:01:48,930] I was just dropping to stay in front of
+- [00:01:48,930 - 00:01:51,420] people, where most people, they hold on to a project
+- [00:01:51,420 - 00:01:53,480] for six months, perfect it, tweak it.
+- [00:01:53,480 - 00:01:54,960] But what you have to understand is there's
+- [00:01:54,960 - 00:01:56,440] so many distractions going on on social media.
+- [00:01:56,920 - 00:02:00,220] Nobody's waiting for six months for your big project.
+- [00:02:00,520 - 00:02:02,530] So when you're dropping every week or twice
+- [00:02:02,530 - 00:02:04,540] a week, people just keep seeing you and then
+- [00:02:04,540 - 00:02:05,750] it becomes normal and you
+- [00:02:05,750 - 00:02:06,960] become a part of their algorithm.
+- [00:02:06,960 - 00:02:07,560] You know what I mean?
+- [00:02:07,560 - 00:02:09,889] So that's what put me like on the next level
+- [00:02:09,889 - 00:02:12,220] because I was in front of people on a daily
+- [00:02:12,220 - 00:02:12,700] basis.
+- [00:02:12,740 - 00:02:12,980] Right.
+- [00:02:13,040 - 00:02:14,660] A lot of people, they'll have a great idea.
+- [00:02:14,660 - 00:02:15,930] They'll start that business, but
+- [00:02:15,930 - 00:02:17,200] they really struggle to scale it.
+- [00:02:17,460 - 00:02:19,140] How have you been able to turn
+- [00:02:19,140 - 00:02:20,820] six into seven figures as an entrepreneur?
+- [00:02:20,920 - 00:02:22,510] What's the secret of being able
+- [00:02:22,510 - 00:02:24,100] to scale from six to seven figures?
+- [00:02:24,560 - 00:02:26,260] Um, understanding that money is a game.
+- [00:02:26,260 - 00:02:27,700] It's a game of doubles.
+- [00:02:28,100 - 00:02:29,299] Um, it's a game of numbers.
+- [00:02:29,480 - 00:02:31,650] A lot of people, they get overwhelmed by
+- [00:02:31,650 - 00:02:33,820] seeing like that million dollar figure when all you
+- [00:02:33,820 - 00:02:36,290] have to do is make 10,000, 10 times to get
+- [00:02:36,290 - 00:02:38,760] to a hundred and then make a hundred, 10 times
+- [00:02:38,760 - 00:02:39,380] to get to a million.
+- [00:02:39,540 - 00:02:40,359] So you just got to take
+- [00:02:40,359 - 00:02:41,179] it one figure at a time.
+- [00:02:41,280 - 00:02:44,670] Like I said, team or no team, I never
+- [00:02:44,670 - 00:02:48,060] used any ads or any budget to necessarily propel
+- [00:02:48,060 - 00:02:48,519] my work.
+- [00:02:48,620 - 00:02:50,599] I feel like it was more like bootstrapping
+- [00:02:50,599 - 00:02:52,579] and just knowing that I'm in the field every
+- [00:02:52,579 - 00:02:55,880] single day and whatever battle it is, whatever.
+- [00:02:56,260 - 00:02:57,609] What opponent we face, we just have
+- [00:02:57,609 - 00:02:58,959] to understand that we got to show up.
+- [00:02:59,299 - 00:03:01,220] So consistency was everything.
+- [00:03:01,560 - 00:03:01,880] Consistency.
+- [00:03:01,980 - 00:03:02,299] I love it.
+- [00:03:02,299 - 00:03:03,999] When it comes to sales though, what's
+- [00:03:03,999 - 00:03:05,700] been your secret to sales throughout your career?
+- [00:03:06,060 - 00:03:07,780] Like if you have a potential client or a
+- [00:03:07,780 - 00:03:09,500] customer, maybe they're on the fence and they're leaning
+- [00:03:09,500 - 00:03:10,860] towards a no, what's your strategy to
+- [00:03:10,860 - 00:03:12,220] really turn a no into a yes?
+- [00:03:12,359 - 00:03:13,899] And what's been your, what's your
+- [00:03:13,899 - 00:03:15,440] best sales advice for anybody out there?
+- [00:03:15,579 - 00:03:16,079] Don't push.
+- [00:03:16,700 - 00:03:17,960] Cause when you push, it makes
+- [00:03:17,960 - 00:03:19,220] them seem like you need them.
+- [00:03:20,140 - 00:03:22,180] But in a sense, you want to make it
+- [00:03:22,180 - 00:03:24,220] seem like you don't, you know what I mean?
+- [00:03:24,220 - 00:03:25,579] Because if you're pushing, pushing, pushing.
+- [00:03:26,260 - 00:03:28,829] They're going to be like, Whoa, like I
+- [00:03:28,829 - 00:03:31,399] feel a little, you know, it's strange when someone
+- [00:03:31,399 - 00:03:34,560] comes to your house trying to sell you something, right?
+- [00:03:34,560 - 00:03:37,530] I'd rather be so good and so massive
+- [00:03:37,530 - 00:03:40,500] that people come to me and I'm selecting who's
+- [00:03:40,500 - 00:03:40,859] able.
+- [00:03:41,280 - 00:03:41,359] Yeah.
+- [00:03:41,440 - 00:03:42,000] You get what I mean?
+- [00:03:42,160 - 00:03:43,790] So we was able to actually scale
+- [00:03:43,790 - 00:03:45,420] that out into like an elite program.
+- [00:03:45,420 - 00:03:47,329] And we actually had a subscription for people
+- [00:03:47,329 - 00:03:49,239] who are paying the subscription to get onto
+- [00:03:49,239 - 00:03:50,820] the website earlier than everybody else.
+- [00:03:51,280 - 00:03:52,690] What's been the importance of surrounding
+- [00:03:52,690 - 00:03:54,100] yourself with the right people throughout
+- [00:03:54,100 - 00:03:54,540] your career?
+- [00:03:54,899 - 00:03:56,140] How have you been able to leverage?
+- [00:03:56,260 - 00:03:58,600] Relationships in the business world as an entrepreneur?
+- [00:03:58,799 - 00:04:00,820] What's been your secret to maintaining those relationships?
+- [00:04:01,160 - 00:04:01,920] Man, it's huge.
+- [00:04:02,220 - 00:04:04,930] I think besides consistency network is like
+- [00:04:04,930 - 00:04:07,640] the most important thing because they always
+- [00:04:07,640 - 00:04:09,000] say you're a product, your environment.
+- [00:04:09,700 - 00:04:11,760] And I 100% believe that if I wasn't
+- [00:04:11,760 - 00:04:13,820] putting myself around the right people or what it
+- [00:04:13,820 - 00:04:15,750] wasn't feeling challenged by my circle, then
+- [00:04:15,750 - 00:04:17,680] I would feel like I've already accomplished
+- [00:04:17,680 - 00:04:18,740] everything that I need to do.
+- [00:04:19,060 - 00:04:21,279] You know, I always want to be around
+- [00:04:21,279 - 00:04:23,500] people who are doing what I'm doing or more.
+- [00:04:23,700 - 00:04:24,970] But if I'm around people who
+- [00:04:24,970 - 00:04:26,240] are doing less than what I'm doing.
+- [00:04:26,320 - 00:04:28,450] Then I'm a feel like, okay, like this is
+- [00:04:28,450 - 00:04:30,580] a good ending point for me when I'm just in
+- [00:04:30,580 - 00:04:31,080] the wrong room.
+- [00:04:31,159 - 00:04:32,759] For people out there who may
+- [00:04:32,759 - 00:04:34,360] struggle with networking and building relationships, maybe
+- [00:04:34,360 - 00:04:35,539] they don't know how to like get into
+- [00:04:35,539 - 00:04:36,719] the right doors, get around the right people.
+- [00:04:36,920 - 00:04:38,039] What's your advice to those people?
+- [00:04:38,039 - 00:04:39,779] Like when you were first kind of starting
+- [00:04:39,779 - 00:04:41,520] out, how did you go about building the relationships
+- [00:04:41,520 - 00:04:43,700] that helped you kind of propel in the business world?
+- [00:04:45,219 - 00:04:48,609] Um, I think focusing on yourself and investing
+- [00:04:48,609 - 00:04:52,000] in yourself is the biggest, easiest way to
+- [00:04:52,000 - 00:04:52,900] get into those rooms.
+- [00:04:52,900 - 00:04:54,570] So instead of going into the room with
+- [00:04:54,570 - 00:04:56,240] your handout, you're going into the room with something
+- [00:04:56,260 - 00:04:56,760] to offer.
+- [00:04:57,140 - 00:04:58,940] So when somebody may have more money than
+- [00:04:58,940 - 00:05:00,740] you, more success than you, but if you have
+- [00:05:00,740 - 00:05:02,820] a skill that you've been sharpening that they may
+- [00:05:02,820 - 00:05:04,900] lack, you can fit in like a puzzle and
+- [00:05:04,900 - 00:05:06,559] be like, Hey, I see you've done
+- [00:05:06,559 - 00:05:08,219] X, Y, Z, but you're missing this.
+- [00:05:08,680 - 00:05:10,020] I'm an expert in this.
+- [00:05:10,260 - 00:05:11,880] This is what I have to offer you
+- [00:05:11,880 - 00:05:13,500] instead of, Oh, I see you've done this.
+- [00:05:13,500 - 00:05:14,440] Can you help me do it?
+- [00:05:14,500 - 00:05:15,549] They're going to be like, I don't
+- [00:05:15,549 - 00:05:16,599] have time to help you do this.
+- [00:05:16,840 - 00:05:18,830] But if you can obviously, you know,
+- [00:05:18,830 - 00:05:20,820] exchange something that's mutually beneficial and y'all
+- [00:05:20,820 - 00:05:22,420] may be able to scale business in a different way.
+- [00:05:22,580 - 00:05:22,820] Yeah.
+- [00:05:22,900 - 00:05:24,410] What would you say is the best
+- [00:05:24,410 - 00:05:25,920] financial advice you ever received throughout your
+- [00:05:25,920 - 00:05:26,219] lifetime?
+- [00:05:26,260 - 00:05:28,500] If there's one lesson about money that someone
+- [00:05:28,500 - 00:05:30,740] taught you, maybe a mentor that someone taught
+- [00:05:30,740 - 00:05:31,760] you, what would you say that is?
+- [00:05:31,820 - 00:05:33,330] And like, what's that advice that you'd
+- [00:05:33,330 - 00:05:34,840] pass on to the younger generation today?
+- [00:05:35,560 - 00:05:37,000] Shout out to my guy, Chris Johnson.
+- [00:05:37,420 - 00:05:39,219] I had to say, get money by income.
+- [00:05:39,700 - 00:05:39,800] Yeah.
+- [00:05:40,080 - 00:05:42,580] What that means is whatever money that you
+- [00:05:42,580 - 00:05:45,080] receive, use it to buy assets that make you
+- [00:05:45,080 - 00:05:45,520] more money.
+- [00:05:45,580 - 00:05:46,600] So it's like you get money
+- [00:05:46,600 - 00:05:47,620] and then you buy more money.
+- [00:05:47,900 - 00:05:48,080] Yeah.
+- [00:05:48,180 - 00:05:49,350] So I think that that's probably
+- [00:05:49,350 - 00:05:50,520] like the best advice I've ever given.
+- [00:05:50,880 - 00:05:51,240] Absolutely.
+- [00:05:51,640 - 00:05:53,250] What's the biggest mindset change in
+- [00:05:53,250 - 00:05:54,860] your opinion to become a multimillionaire?
+- [00:05:54,860 - 00:05:56,240] Like if there was a mindset shift.
+- [00:05:56,260 - 00:05:58,530] That people need to have, or maybe not
+- [00:05:58,530 - 00:06:00,800] just necessarily mindset, but if it's a habit that
+- [00:06:00,800 - 00:06:02,690] you've seen consistently throughout yourself and
+- [00:06:02,690 - 00:06:04,580] other people around you, what would you
+- [00:06:04,580 - 00:06:06,220] say is the biggest mindset change or
+- [00:06:06,220 - 00:06:07,860] habit that it takes to become a multimillionaire?
+- [00:06:09,039 - 00:06:11,679] Discipline and careful selection with
+- [00:06:11,679 - 00:06:14,320] what you use your time on.
+- [00:06:14,640 - 00:06:16,159] I think time is worth more than money.
+- [00:06:16,960 - 00:06:19,510] So if you want to amass like a great
+- [00:06:19,510 - 00:06:22,060] amount of wealth, I think you have to leverage your
+- [00:06:22,060 - 00:06:23,500] time more than anything.
+- [00:06:23,500 - 00:06:26,240] And it's so easy to pick the easy.
+- [00:06:26,260 - 00:06:28,330] You're things are more fun things, the
+- [00:06:28,330 - 00:06:30,400] things that, you know, are more attractive looking
+- [00:06:30,400 - 00:06:33,099] versus the boring, consistent and simple things.
+- [00:06:33,099 - 00:06:34,389] But those are the things that
+- [00:06:34,389 - 00:06:35,680] get you to the next level.
+- [00:06:35,740 - 00:06:37,210] So just being more like
+- [00:06:37,210 - 00:06:38,680] selective and decisive and disciplined.
+- [00:06:38,920 - 00:06:39,159] Yeah.
+- [00:06:39,320 - 00:06:40,870] What do you think is the number one
+- [00:06:40,870 - 00:06:42,420] most important skill that every young entrepreneur should
+- [00:06:42,420 - 00:06:43,240] learn in today's world?
+- [00:06:44,480 - 00:06:46,300] Social media marketing, social media marketing.
+- [00:06:46,440 - 00:06:47,730] I think social media marketing
+- [00:06:47,730 - 00:06:49,020] is like the number one catalyst.
+- [00:06:49,180 - 00:06:50,699] If you're trying to scale a business from
+- [00:06:50,699 - 00:06:52,219] zero to a million, social media is not going
+- [00:06:52,219 - 00:06:52,480] anywhere.
+- [00:06:52,480 - 00:06:54,259] And if you want to get in
+- [00:06:54,259 - 00:06:56,039] front of people for like an expensive amount.
+- [00:06:56,140 - 00:06:56,240] Yeah.
+- [00:06:56,260 - 00:06:57,670] Knowing how to market yourself is
+- [00:06:57,670 - 00:06:59,080] going to get you whatever you need.
+- [00:06:59,300 - 00:06:59,440] Yeah.
+- [00:06:59,500 - 00:07:01,020] You had to start from zero, right?
+- [00:07:01,080 - 00:07:01,920] Everything was taken from you.
+- [00:07:01,980 - 00:07:03,039] Your bank account hit zero tomorrow.
+- [00:07:03,400 - 00:07:04,980] What's the first step that you would take
+- [00:07:04,980 - 00:07:06,560] to really build your empire back and become
+- [00:07:06,560 - 00:07:07,480] financially free again?
+- [00:07:07,860 - 00:07:09,710] I think the best part about having a solid
+- [00:07:09,710 - 00:07:11,560] network is I'll just call one of my friends
+- [00:07:11,560 - 00:07:12,780] and be like, yo, loan me 10 grand.
+- [00:07:13,000 - 00:07:14,180] I'm going to just run the whole play again.
+- [00:07:14,539 - 00:07:17,369] Probably start a short form business, car
+- [00:07:17,369 - 00:07:20,200] detailing or something like that, just to
+- [00:07:20,200 - 00:07:22,580] stack up my funds and keep my hands busy.
+- [00:07:23,420 - 00:07:24,810] You know, obviously, once I stack that
+- [00:07:24,810 - 00:07:26,200] up, then I can dive back into.
+- [00:07:26,260 - 00:07:27,980] Like digital, digital real estate.
+- [00:07:28,060 - 00:07:28,480] For sure.
+- [00:07:28,599 - 00:07:30,020] How do you really want to be remembered?
+- [00:07:30,380 - 00:07:32,220] I want to be I
+- [00:07:32,220 - 00:07:34,060] want to have a wider reach.
+- [00:07:34,560 - 00:07:35,820] I feel like what I'm doing is
+- [00:07:35,820 - 00:07:37,080] kind of going under the radar right now.
+- [00:07:38,500 - 00:07:40,990] But in five years, I want to be a
+- [00:07:40,990 - 00:07:43,480] household name, but known for like helping other people
+- [00:07:43,480 - 00:07:45,810] like change their financial financial career and,
+- [00:07:45,810 - 00:07:48,140] you know, just help people learn how
+- [00:07:48,140 - 00:07:49,679] to make money and learn
+- [00:07:49,679 - 00:07:51,219] more things about business and entrepreneurship.
+- [00:07:51,520 - 00:07:51,880] I love it.
+- [00:07:52,060 - 00:07:53,980] So I guess where can everybody find you?
+- [00:07:54,760 - 00:07:56,140] Social media handles is.
+- [00:07:56,140 - 00:07:57,020] G.O.A.T.
+- [00:07:57,020 - 00:07:58,260] Underscore V.I.C.C.
+- [00:07:58,360 - 00:07:59,200] So go big.
+- [00:08:00,219 - 00:08:01,479] That's my handle universally.
+- [00:08:02,000 - 00:08:02,500] Absolutely.
+- [00:08:02,539 - 00:08:03,060] Every platform.
+- [00:08:03,099 - 00:08:03,860] Cool, guys.
+- [00:08:04,060 - 00:08:05,080] Thank you so much for tuning in.
+- [00:08:05,080 - 00:08:06,539] This is 10 questions with a millionaire.
+- [00:08:06,740 - 00:08:08,639] Be sure to leave a like and subscribe for tons
+- [00:08:08,639 - 00:08:10,539] of amazing content and click here to watch us ask a
+- [00:08:10,539 - 00:08:11,769] commercial real estate multimillionaire
+- [00:08:11,769 - 00:08:13,000] how he became wealthy.
