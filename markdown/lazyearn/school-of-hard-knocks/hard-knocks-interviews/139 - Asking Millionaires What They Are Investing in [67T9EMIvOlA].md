@@ -1,0 +1,251 @@
+# Transcript
+
+Source: lazyearn/school-of-hard-knocks/hard-knocks-interviews/139 - Asking Millionaires What They Are Investing in [67T9EMIvOlA].mkv
+
+- [00:00:00,000 - 00:00:01,500] What's going on everyone? Welcome back to
+- [00:00:01,500 - 00:00:03,000] another video with the School of Hard Knocks.
+- [00:00:03,260 - 00:00:05,260] I'm James and today we're going to be
+- [00:00:05,260 - 00:00:07,260] asking people all over downtown Austin what they're
+- [00:00:07,260 - 00:00:09,420] investing right now. Whether it's stocks, real
+- [00:00:09,420 - 00:00:11,580] estate, cryptocurrency, we're looking for a wide
+- [00:00:11,580 - 00:00:13,570] array of answers and we can't wait to get this
+- [00:00:13,570 - 00:00:15,560] content out. Let's go. If you were to go back to
+- [00:00:15,560 - 00:00:17,080] when you were in either high school or college,
+- [00:00:17,080 - 00:00:18,600] what is the best piece of advice you'd tell your
+- [00:00:18,600 - 00:00:21,140] younger self? Don't believe what anybody tells you.
+- [00:00:21,140 - 00:00:23,680] Figure it out for yourself. Only don't just
+- [00:00:23,680 - 00:00:26,730] do it based on what you think or you wish
+- [00:00:26,730 - 00:00:29,780] or what somebody tells you. There are a lot of forces
+- [00:00:29,780 - 00:00:32,560] at work that don't have your best interest at
+- [00:00:32,560 - 00:00:35,340] heart. Many more than when I was your age.
+- [00:00:35,560 - 00:00:38,660] What do you think that's the result of? A
+- [00:00:38,660 - 00:00:41,760] lot of it is algorithmic based decisions. You can't say
+- [00:00:41,760 - 00:00:44,570] well if I do x I'll get y. When I was
+- [00:00:44,570 - 00:00:47,380] just coming out of college, you know, you cut your hair, you
+- [00:00:47,380 - 00:00:50,420] stopped smoking weed except on weekends, you bought
+- [00:00:50,420 - 00:00:53,460] some decent clothes, you kissed some ass and to
+- [00:00:53,460 - 00:00:55,880] one extent or another things would get better.
+- [00:00:55,880 - 00:00:58,300] You'd make more money, you'd get promoted. There
+- [00:00:58,300 - 00:00:59,760] used to be a concept they called the pre-pandemic.
+- [00:00:59,780 - 00:01:02,009] Peter Principle, which said that everybody
+- [00:01:02,009 - 00:01:04,239] is raised to their level of incompetence.
+- [00:01:04,440 - 00:01:05,770] That doesn't happen now. What are
+- [00:01:05,770 - 00:01:07,100] you currently investing in right now?
+- [00:01:07,620 - 00:01:11,270] I'm mostly in conservative, for the most part,
+- [00:01:11,270 - 00:01:14,920] high dividend stocks that will not do as well
+- [00:01:14,920 - 00:01:17,330] in good times and they won't do as badly
+- [00:01:17,330 - 00:01:19,740] in bad times. How can someone become financially free
+- [00:01:19,740 - 00:01:22,900] in 2022? Compounding is your friend. If you're
+- [00:01:22,900 - 00:01:26,060] young and it's 2022, unless you have really
+- [00:01:26,060 - 00:01:27,880] unusual skills, you're not going
+- [00:01:27,880 - 00:01:29,700] to become financially free in 2022.
+- [00:01:29,780 - 00:01:34,740] And what industry did you
+- [00:01:34,740 - 00:01:39,700] decide to pursue a career in?
+- [00:01:39,700 - 00:01:42,930] I'm retired from the military and now I'm
+- [00:01:42,930 - 00:01:46,160] in, you're welcome and thank you for recognizing that,
+- [00:01:46,160 - 00:01:48,980] I am now in the consulting business.
+- [00:01:48,980 - 00:01:50,540] What are you currently investing in right now?
+- [00:01:50,540 - 00:01:53,570] Energy stocks and right now I'm just kind
+- [00:01:53,570 - 00:01:56,600] of hunkered down because the market went down over
+- [00:01:56,600 - 00:01:57,440] a thousand points today.
+- [00:01:57,440 - 00:01:59,320] So for someone who's coming out of college,
+- [00:01:59,780 - 00:02:01,280] what is your best piece of advice to
+- [00:02:01,280 - 00:02:02,780] someone starting out in the real world today?
+- [00:02:02,780 - 00:02:05,280] Intelligence, integrity and initiative.
+- [00:02:05,280 - 00:02:06,280] Why those three in particular?
+- [00:02:06,280 - 00:02:09,110] Because without those three, you're nothing.
+- [00:02:09,110 - 00:02:11,940] Intelligence, you can develop. Integrity is
+- [00:02:11,940 - 00:02:14,220] born within you. Character
+- [00:02:14,220 - 00:02:16,500] matters. And initiative, keep trying.
+- [00:02:16,500 - 00:02:18,100] Wow. What is the greatest lesson
+- [00:02:18,100 - 00:02:19,700] that you've learned throughout the military?
+- [00:02:19,700 - 00:02:22,060] Discipline. Self-discipline. Ourselves are
+- [00:02:22,060 - 00:02:24,420] the hardest things to master.
+- [00:02:24,980 - 00:02:26,540] But once you conquer that, the rest
+- [00:02:26,540 - 00:02:28,100] of the world is open to you.
+- [00:02:29,780 - 00:02:34,700] What industry did you decide to pursue a career in?
+- [00:02:34,700 - 00:02:36,620] I work in media and advertising.
+- [00:02:36,620 - 00:02:38,220] What are you doing in particular?
+- [00:02:38,220 - 00:02:39,860] I work in sales at TikTok.
+- [00:02:39,860 - 00:02:41,360] What are you currently investing in right now?
+- [00:02:41,360 - 00:02:44,720] My dabble in crypto just a tiny bit and then just
+- [00:02:44,720 - 00:02:48,080] the basics in mutual funds as well as a few other
+- [00:02:49,220 - 00:02:49,700] companies.
+- [00:02:49,700 - 00:02:51,740] What is the secret to sales in 2022?
+- [00:02:51,740 - 00:02:54,050] Being human. If I'm going to sell you something,
+- [00:02:54,050 - 00:02:56,360] I have to remember you still go home to somebody
+- [00:02:56,360 - 00:02:56,570] else. Like you still have a home life. You still
+- [00:02:56,570 - 00:02:56,780] maybe pick up your phone and go get a drink.
+- [00:02:56,780 - 00:02:57,120] You're still going to be able to do it.
+- [00:02:57,120 - 00:02:57,320] You're still going to be able to do it.
+- [00:02:57,320 - 00:02:57,800] You're still going to be able to do it.
+- [00:02:57,800 - 00:02:58,280] You're still going to be able to do it.
+- [00:02:58,280 - 00:02:58,820] You're still going to be able to do it.
+- [00:02:58,820 - 00:02:59,180] You're still going to be able to do it.
+- [00:02:59,180 - 00:03:01,340] Maybe pick up your kid at 3
+- [00:03:01,340 - 00:03:03,500] PM. You maybe just graduated, whatever it is.
+- [00:03:03,500 - 00:03:05,780] How can someone become financially free in 2022?
+- [00:03:05,780 - 00:03:08,750] I thought to myself, I needed to have a
+- [00:03:08,750 - 00:03:11,720] wealth management person. I needed to max out my 401k.
+- [00:03:11,720 - 00:03:13,940] I needed to do all of this stuff.
+- [00:03:13,940 - 00:03:16,160] And really what boils down to being financially free,
+- [00:03:16,160 - 00:03:19,820] whether you're 21 or 30, is based on
+- [00:03:19,820 - 00:03:23,480] values-based spending. So you have to identify your value.
+- [00:03:23,480 - 00:03:25,490] I prioritize gym, healthy eating, being
+- [00:03:25,490 - 00:03:27,500] able to buy organic food and such,
+- [00:03:27,500 - 00:03:28,700] whereas other people might
+- [00:03:28,700 - 00:03:29,160] prioritize
+- [00:03:29,160 - 00:03:30,900] being able to travel more or might
+- [00:03:30,900 - 00:03:32,640] be able to do X, Y, Z.
+- [00:03:40,140 - 00:03:41,700] If you were to go back to when
+- [00:03:41,700 - 00:03:43,260] you were in either high school or university,
+- [00:03:43,260 - 00:03:44,309] what is the best piece of
+- [00:03:44,309 - 00:03:45,359] advice you'd tell your younger self?
+- [00:03:45,359 - 00:03:47,160] Take it more seriously than I did.
+- [00:03:47,160 - 00:03:47,640] Why?
+- [00:03:47,640 - 00:03:50,249] Yeah, we just had a little fun. Didn't take it
+- [00:03:50,249 - 00:03:52,859] too serious. And it took us a little longer until
+- [00:03:52,859 - 00:03:55,619] we finished. But it gave me also the great
+- [00:03:55,619 - 00:03:58,380] opportunity to do what I was loving to do.
+- [00:03:58,380 - 00:03:58,530] You know, so I got to do it. And I'm happy to do
+- [00:03:58,530 - 00:03:58,680] it. And I'm happy to do it. And I'm happy to do it.
+- [00:03:58,680 - 00:03:58,920] And I'm happy to do it. And I'm happy to do it.
+- [00:03:58,920 - 00:03:59,160] And I'm happy to do it. And I'm happy to do it.
+- [00:03:59,160 - 00:04:02,460] So I got into music. I started as a DJ, ended
+- [00:04:02,460 - 00:04:05,760] up then as a professional DJs at the end of the
+- [00:04:05,760 - 00:04:08,880] 70s and the early of 80s, and then started
+- [00:04:08,880 - 00:04:12,000] a career within the music industry with CBS Records,
+- [00:04:12,000 - 00:04:13,620] Sony Music and Capitol.
+- [00:04:13,620 - 00:04:15,599] What's going on? So this is going to be
+- [00:04:15,599 - 00:04:17,579] day two of us going around downtown Austin, asking people
+- [00:04:17,579 - 00:04:19,649] what they're investing in. We came out a couple of
+- [00:04:19,649 - 00:04:21,720] days ago. City was kind of dead. We got a couple
+- [00:04:21,720 - 00:04:23,730] of good answers, but we're trying to come back
+- [00:04:23,730 - 00:04:25,740] out and really get some heat from people, old, young,
+- [00:04:25,740 - 00:04:27,390] male, female, doesn't matter. We're just trying
+- [00:04:27,390 - 00:04:29,040] to figure out what people are investing in.
+- [00:04:29,040 - 00:04:31,080] What industry did you decide to pursue a career in?
+- [00:04:31,080 - 00:04:32,640] Medical. I'm a surgeon.
+- [00:04:32,640 - 00:04:33,240] You're a surgeon?
+- [00:04:33,240 - 00:04:33,480] Yeah.
+- [00:04:33,480 - 00:04:35,580] Wow. Okay. So as a surgeon, do you
+- [00:04:35,580 - 00:04:37,680] think a college degree is necessary to be successful
+- [00:04:37,680 - 00:04:38,520] in today's society?
+- [00:04:38,520 - 00:04:41,760] No, no, no. College degrees are just, it's propaganda.
+- [00:04:41,760 - 00:04:43,620] Wow. What are you currently investing in right now?
+- [00:04:43,620 - 00:04:48,540] Real estate, myself, other people I trust, people you trust.
+- [00:04:48,540 - 00:04:49,710] If you were to go back to when
+- [00:04:49,710 - 00:04:50,880] you were in either high school or college,
+- [00:04:50,880 - 00:04:52,110] what is the best piece of
+- [00:04:52,110 - 00:04:53,340] advice you'd tell your younger self?
+- [00:04:53,340 - 00:04:54,780] No limitations.
+- [00:04:54,780 - 00:04:54,960] Mm-hmm.
+- [00:04:54,960 - 00:04:55,140] Mm-hmm.
+- [00:04:55,140 - 00:04:55,260] Mm-hmm.
+- [00:04:55,260 - 00:04:55,380] Mm-hmm.
+- [00:04:55,380 - 00:04:55,440] Mm-hmm.
+- [00:04:55,440 - 00:04:55,520] Mm-hmm.
+- [00:04:55,520 - 00:04:55,620] Mm-hmm.
+- [00:04:55,620 - 00:04:55,640] Mm-hmm.
+- [00:04:55,640 - 00:04:55,900] Mm-hmm.
+- [00:04:55,900 - 00:04:56,180] Mm-hmm.
+- [00:04:56,180 - 00:05:01,740] Mm-hmm.
+- [00:05:05,740 - 00:05:08,960] Mm-hmm.
+- [00:05:08,960 - 00:05:15,700] Mm-hmm.
+- [00:05:19,240 - 00:05:19,500] We're just trying to scale.
+- [00:05:19,500 - 00:05:20,380] I see you guys going far.
+- [00:05:20,380 - 00:05:21,260] Y'all got a big, a big vision.
+- [00:05:21,260 - 00:05:22,140] If you need any help, let me know.
+- [00:05:22,140 - 00:05:22,200] Yeah.
+- [00:05:22,200 - 00:05:22,260] Yeah.
+- [00:05:22,260 - 00:05:22,620] Could we get a quick followup.
+- [00:05:22,620 - 00:05:22,840] Yeah.
+- [00:05:22,840 - 00:05:23,950] Do you think a college degree is
+- [00:05:23,950 - 00:05:25,060] necessary to be successful in today's society?
+- [00:05:25,060 - 00:05:25,120] Oh my gosh. You're going to
+- [00:05:25,120 - 00:05:25,180] pull that one out on me, right?
+- [00:05:25,180 - 00:05:25,280] I do.
+- [00:05:25,280 - 00:05:28,590] Zuckerberg shows that it's not. I think that
+- [00:05:28,590 - 00:05:31,900] Oprah Winfrey shows that it's not. I think Barack
+- [00:05:31,900 - 00:05:35,580] Obama shows that it is. So we have to look inwardly
+- [00:05:35,580 - 00:05:39,260] and really do a lot of soul searching to see what
+- [00:05:39,260 - 00:05:42,140] our unique path is. For me, college was the
+- [00:05:42,140 - 00:05:45,020] way. What is your best piece of advice to someone
+- [00:05:45,020 - 00:05:47,039] wanting to start a business in 2022? I
+- [00:05:47,039 - 00:05:49,059] was just having this conversation earlier today with
+- [00:05:49,059 - 00:05:51,419] someone at the gym and I told him, follow
+- [00:05:51,419 - 00:05:53,780] your heart. Think about what you love to do. That
+- [00:05:53,780 - 00:05:57,090] thing that you would do for free and just ask
+- [00:05:57,090 - 00:06:00,400] the simple question, how do I monetize it? That's it.
+- [00:06:00,919 - 00:06:02,489] Simple. What industry did you decide to pursue
+- [00:06:02,489 - 00:06:04,059] a career in? I'm in real estate development. What
+- [00:06:04,059 - 00:06:05,879] are you currently investing in?
+- [00:06:05,879 - 00:06:07,700] There's stocks, there's cryptocurrencies. Cryptocurrencies is
+- [00:06:07,700 - 00:06:10,219] kind of the new thing. You look at stocks,
+- [00:06:10,219 - 00:06:12,739] the volatility in stocks is very little compared to
+- [00:06:12,739 - 00:06:15,469] cryptocurrency. Compare cryptocurrency to a young kid. It's
+- [00:06:15,469 - 00:06:18,200] been around 10, 15 years. There's a lot
+- [00:06:18,200 - 00:06:20,339] of energy. It moves very quickly. Stocks have
+- [00:06:20,339 - 00:06:22,479] been around 100 years. What's your best advice for
+- [00:06:22,479 - 00:06:23,119] anybody that's in real estate in 2022? I think
+- [00:06:23,119 - 00:06:23,760] it's important to have a good start. I think it's
+- [00:06:23,760 - 00:06:24,310] important to have a good start. I think it's
+- [00:06:24,310 - 00:06:24,860] important to have a good start. It's a tricky
+- [00:06:24,860 - 00:06:27,039] market right now. Things are happening in this
+- [00:06:27,039 - 00:06:29,219] environment. I would say sit on the sidelines,
+- [00:06:29,320 - 00:06:31,800] wait a little while, see how it plays out
+- [00:06:31,800 - 00:06:34,280] before you jump in. Interest rates are rising. A year
+- [00:06:34,280 - 00:06:36,570] ago would have been great. You don't always have
+- [00:06:36,570 - 00:06:38,860] to be in the market. Sometimes the best trade or
+- [00:06:38,860 - 00:06:40,949] the best deal you could make is sitting
+- [00:06:40,949 - 00:06:43,039] on the sidelines until everything evens out before you
+- [00:06:43,039 - 00:06:45,819] jump back in. I would say wait, wait a while,
+- [00:06:45,819 - 00:06:48,599] let everything clear out and then get back into it,
+- [00:06:48,599 - 00:06:49,480] see where things go.
+- [00:06:53,760 - 00:06:55,100] What advice would you have for
+- [00:06:55,100 - 00:06:56,440] someone pursuing a career in dentistry?
+- [00:06:56,580 - 00:06:58,190] I'm afraid I'm not thrilled
+- [00:06:58,190 - 00:06:59,800] about it now. Everything's becoming corporate,
+- [00:07:00,000 - 00:07:03,150] like medicine sold out years ago and
+- [00:07:03,150 - 00:07:06,300] now doctors work for hospitals. I just retired,
+- [00:07:06,440 - 00:07:09,769] but I had a business I could sell and
+- [00:07:09,769 - 00:07:13,099] it's changing. A lot of my friends and my wife's
+- [00:07:13,099 - 00:07:15,689] a physician, but a lot of people in healthcare
+- [00:07:15,689 - 00:07:18,280] say go through it with the military. Serve the
+- [00:07:18,280 - 00:07:20,870] military, get your pension, then get your second job
+- [00:07:20,870 - 00:07:23,460] as a doctor. Collect a pension for the rest
+- [00:07:23,460 - 00:07:23,740] of your life.
+- [00:07:23,760 - 00:07:26,640] Are you currently investing right now?
+- [00:07:26,820 - 00:07:29,120] I'm done investing and I'm collecting.
+- [00:07:29,400 - 00:07:31,159] What did you invest in throughout the years?
+- [00:07:31,460 - 00:07:35,670] Equities and then annuities, bonds and things that pay
+- [00:07:35,670 - 00:07:39,880] you every year for the rest of your life.
+- [00:07:40,200 - 00:07:41,719] Do you have any advice for new investors?
+- [00:07:42,060 - 00:07:44,200] I've gone through several financial
+- [00:07:44,200 - 00:07:46,340] advisors that did nothing for me,
+- [00:07:46,580 - 00:07:48,780] and then I found one who was very
+- [00:07:48,780 - 00:07:50,980] receptive and you just got to keep looking.
+- [00:07:50,980 - 00:07:52,060] You want it like this?
+- [00:07:52,159 - 00:07:52,380] Yeah.
+- [00:07:52,700 - 00:07:53,380] Let's do it.
+- [00:07:53,760 - 00:07:55,420] In your opinion, how can
+- [00:07:55,420 - 00:07:57,080] someone become financially free in 2022?
+- [00:07:57,420 - 00:07:58,760] It's going to take you more than a year.
+- [00:07:58,880 - 00:07:59,039] Right.
+- [00:07:59,480 - 00:08:01,400] Well, just do what you're doing. Network
+- [00:08:01,400 - 00:08:03,320] and ask people and all that stuff,
+- [00:08:03,360 - 00:08:04,340] and it's going to get there.
+- [00:08:04,539 - 00:08:05,599] What is the best piece of
+- [00:08:05,599 - 00:08:06,659] advice you'd tell your younger self?
+- [00:08:06,860 - 00:08:09,120] Don't go to school during the summer.
+- [00:08:09,120 - 00:08:11,380] Go get different jobs about things that you
+- [00:08:11,380 - 00:08:13,380] think you might be interested in so
+- [00:08:13,380 - 00:08:15,380] that by the time you're out of college,
+- [00:08:16,000 - 00:08:18,380] you've worked three or four different jobs.
+- [00:08:18,480 - 00:08:20,180] So that's going to wrap it up for day
+- [00:08:20,180 - 00:08:21,880] two. Just finished up downtown. We're going to be doing
+- [00:08:21,880 - 00:08:23,240] these videos every single week.
+- [00:08:23,760 - 00:08:25,820] Got to run into some old interviews today. Anthony
+- [00:08:25,820 - 00:08:27,880] Gallion and Pat, it was awesome to see them.
+- [00:08:28,360 - 00:08:29,729] And yeah, so thanks so much for watching the
+- [00:08:29,729 - 00:08:31,099] video. Make sure to leave a like and subscribe.
