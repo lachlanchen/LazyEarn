@@ -1,0 +1,730 @@
+# Transcript
+
+Source: lazyearn/school-of-hard-knocks/hard-knocks-interviews/034 - Asking A Billionaire Lawyer How To Make $1,000,000! [EF6-Ed2H2cE].webm
+
+- [00:00:00,000 - 00:00:01,440] I'm about to interview a billionaire
+- [00:00:01,440 - 00:00:02,880] out here in Florida, you guys.
+- [00:00:02,960 - 00:00:03,240] Come on.
+- [00:00:03,320 - 00:00:04,040] How you doing, John?
+- [00:00:04,160 - 00:00:04,700] John, come on in.
+- [00:00:04,700 - 00:00:05,360] Great to meet you.
+- [00:00:05,460 - 00:00:06,360] Appreciate that, man.
+- [00:00:06,480 - 00:00:07,280] Thank you for having us out.
+- [00:00:07,300 - 00:00:07,640] Come on in.
+- [00:00:07,660 - 00:00:08,200] Appreciate that.
+- [00:00:08,260 - 00:00:09,180] Who am I here with today?
+- [00:00:09,300 - 00:00:10,060] I'm John Morgan.
+- [00:00:10,160 - 00:00:11,860] And for those that don't know, what industry
+- [00:00:11,860 - 00:00:13,560] did you decide to pursue a career in?
+- [00:00:13,600 - 00:00:16,010] A lot of businesses, but I built, luckily,
+- [00:00:16,010 - 00:00:18,420] the largest PI law firm in North America.
+- [00:00:18,580 - 00:00:19,140] Are you serious?
+- [00:00:19,360 - 00:00:19,520] Yeah.
+- [00:00:19,680 - 00:00:20,910] What was the most amount of money
+- [00:00:20,910 - 00:00:22,140] that you've made in a single year?
+- [00:00:22,220 - 00:00:24,060] Last year, we did $2 billion.
+- [00:00:24,660 - 00:00:26,640] I love Shaq, but I wouldn't trade with Shaq.
+- [00:00:26,680 - 00:00:27,220] Are you a billionaire?
+- [00:00:27,440 - 00:00:28,980] Forbes magazine said I was.
+- [00:00:28,980 - 00:00:30,880] But here's what I'd tell you about being rich.
+- [00:00:31,020 - 00:00:32,479] Have you ever been f***ed over in business?
+- [00:00:32,619 - 00:00:32,800] Yeah.
+- [00:00:33,060 - 00:00:33,380] You have?
+- [00:00:33,600 - 00:00:34,580] Yeah, but I f***ed back.
+- [00:00:35,560 - 00:00:36,640] Did you come from a lot of money?
+- [00:00:37,060 - 00:00:40,420] Listen, my dad needed a cosigner to pay cash.
+- [00:00:40,540 - 00:00:42,500] No, I did not come from a lot of money.
+- [00:00:42,560 - 00:00:44,300] So you don't think everybody's built for entrepreneurship?
+- [00:00:44,620 - 00:00:45,519] Oh, absolutely not.
+- [00:00:45,620 - 00:00:47,710] Look, today in the jungle, a lion's going to
+- [00:00:47,710 - 00:00:49,800] be born and a sloth is going to be born.
+- [00:00:49,900 - 00:00:52,160] The sloth is f***ed and the lion is king.
+- [00:00:52,420 - 00:00:53,540] And that's it.
+- [00:00:53,620 - 00:00:55,520] If you died tomorrow and all you had
+- [00:00:55,520 - 00:00:57,420] left was one more guiding principle for the younger
+- [00:00:57,420 - 00:00:58,800] generation, for them to take with them.
+- [00:00:58,880 - 00:00:58,920] For the rest of the world,
+- [00:00:58,920 - 00:00:58,960] it's going to be the same.
+- [00:00:58,980 - 00:00:59,599] For the rest of their lives.
+- [00:00:59,699 - 00:01:00,260] What would that be?
+- [00:01:02,580 - 00:01:04,349] Guys, I'm about to interview a
+- [00:01:04,349 - 00:01:06,120] billionaire out here in Orlando, Florida.
+- [00:01:06,259 - 00:01:08,479] And his name is John Morgan.
+- [00:01:08,479 - 00:01:10,919] And he's got a net worth, according
+- [00:01:10,919 - 00:01:13,360] to Forbes, of $1.5 billion with a B.
+- [00:01:13,460 - 00:01:15,650] And he built his wealth, his fortune, from
+- [00:01:15,650 - 00:01:17,840] creating what has now become the biggest law
+- [00:01:17,840 - 00:01:19,340] firm in all of North America.
+- [00:01:19,539 - 00:01:21,159] We're about to go meet up with him and
+- [00:01:21,159 - 00:01:22,780] figure out how he became not just a millionaire,
+- [00:01:22,960 - 00:01:23,759] but a billionaire.
+- [00:01:24,000 - 00:01:26,020] And how you can follow his exact blueprint.
+- [00:01:26,020 - 00:01:27,180] So let's go meet up with John
+- [00:01:27,180 - 00:01:28,340] and go see what he has to say.
+- [00:01:28,980 - 00:01:34,430] We're on the way right now
+- [00:01:34,430 - 00:01:39,880] to go interview John at his house.
+- [00:01:40,040 - 00:01:41,960] But I want to point something out real
+- [00:01:41,960 - 00:01:43,880] quick that makes this interview fascinating to me.
+- [00:01:43,940 - 00:01:45,760] When you think about the amount of
+- [00:01:45,760 - 00:01:47,580] people that became billionaires and built their fortune
+- [00:01:47,580 - 00:01:49,510] through just simply law, you can
+- [00:01:49,510 - 00:01:51,440] count it on less than two hands.
+- [00:01:51,600 - 00:01:53,220] And John Morgan, who we're about to
+- [00:01:53,220 - 00:01:54,840] go interview, is one of those people.
+- [00:01:54,840 - 00:01:56,580] So this video is going to be crazy, you guys.
+- [00:01:56,660 - 00:01:57,810] This may be one of the
+- [00:01:57,810 - 00:01:58,960] wildest interviews that we've ever done.
+- [00:01:58,980 - 00:02:02,280] And this is the 19th billionaire that I've ever interviewed.
+- [00:02:02,280 - 00:02:03,080] So let's go.
+- [00:02:03,080 - 00:02:04,140] All right, you guys, we
+- [00:02:04,140 - 00:02:05,200] just got to John Morgan's house.
+- [00:02:05,200 - 00:02:06,950] And it's safe to say that he lives
+- [00:02:06,950 - 00:02:08,699] at a proper compound out here, you guys.
+- [00:02:08,699 - 00:02:10,320] So I'm excited for this one, man.
+- [00:02:10,320 - 00:02:11,130] This is going to be a
+- [00:02:11,130 - 00:02:11,940] good one to say the least.
+- [00:02:11,940 - 00:02:12,440] Come on.
+- [00:02:12,440 - 00:02:13,300] How you doing, John?
+- [00:02:13,300 - 00:02:13,880] John, come on in.
+- [00:02:13,880 - 00:02:14,560] Great to meet you.
+- [00:02:14,560 - 00:02:15,600] Appreciate that, man.
+- [00:02:15,600 - 00:02:16,480] Thank you for having us out.
+- [00:02:16,480 - 00:02:16,980] Come on in.
+- [00:02:16,980 - 00:02:17,480] I appreciate that.
+- [00:02:17,480 - 00:02:18,800] How do I get one of those shirts?
+- [00:02:18,800 - 00:02:19,620] I got to get you one.
+- [00:02:19,620 - 00:02:20,640] I need one of those, though.
+- [00:02:20,640 - 00:02:23,200] There's a shop on Rodeo Drive called Etro.
+- [00:02:23,200 - 00:02:23,880] Where are you from?
+- [00:02:23,880 - 00:02:25,960] From the D.C. area, but I live in Austin, Texas.
+- [00:02:25,960 - 00:02:26,400] Okay.
+- [00:02:26,400 - 00:02:28,120] The flagship store is in New York.
+- [00:02:28,120 - 00:02:30,360] So my kids go to New York shopping.
+- [00:02:30,360 - 00:02:31,920] They know what to get me for Christmas.
+- [00:02:31,920 - 00:02:32,420] Nice.
+- [00:02:32,420 - 00:02:32,920] I love it.
+- [00:02:32,920 - 00:02:33,660] Where are we going to do it?
+- [00:02:33,660 - 00:02:35,620] We could do it out front here is cool.
+- [00:02:35,620 - 00:02:37,290] For those that don't know, what industry
+- [00:02:37,290 - 00:02:38,960] did you decide to pursue a career in?
+- [00:02:38,960 - 00:02:40,660] A lot of businesses, but my
+- [00:02:40,660 - 00:02:42,360] main industry is personal injury law.
+- [00:02:42,360 - 00:02:44,400] And I built, luckily, the largest
+- [00:02:44,400 - 00:02:46,440] PI law firm in North America.
+- [00:02:46,440 - 00:02:47,120] Are you serious?
+- [00:02:47,120 - 00:02:47,360] Yeah.
+- [00:02:47,360 - 00:02:48,320] How did that happen?
+- [00:02:48,320 - 00:02:50,720] What was the single greatest decision you made that
+- [00:02:50,720 - 00:02:53,120] enabled you to grow a multibillion dollar law firm?
+- [00:02:53,120 - 00:02:55,720] Delegate, get partners that you can trust,
+- [00:02:55,720 - 00:02:56,380] and share your business with them.
+- [00:02:56,380 - 00:02:57,380] Share in the profit.
+- [00:02:57,380 - 00:02:59,100] If you're going to scale and you want great
+- [00:02:59,100 - 00:03:00,820] people, you got to bring them along with you.
+- [00:03:00,820 - 00:03:02,220] And they got to make a lot
+- [00:03:02,220 - 00:03:03,620] of money with you, not for you.
+- [00:03:03,620 - 00:03:04,940] What's the number one thing that you look
+- [00:03:04,940 - 00:03:06,260] for in people when you're building your team?
+- [00:03:06,260 - 00:03:08,620] If a person is what I call send-delete.
+- [00:03:08,620 - 00:03:10,500] In other words, I send them something and I know I
+- [00:03:10,500 - 00:03:12,380] don't have to worry about it and I can delete it.
+- [00:03:12,380 - 00:03:14,700] If you're a send-delete person, you're my guy.
+- [00:03:14,700 - 00:03:15,900] Why did you want to become a lawyer?
+- [00:03:15,900 - 00:03:16,560] Did you always know you
+- [00:03:16,560 - 00:03:17,220] were going to be a lawyer?
+- [00:03:17,220 - 00:03:18,020] I didn't know I was
+- [00:03:18,020 - 00:03:18,820] always going to be a lawyer.
+- [00:03:18,820 - 00:03:20,260] My brother got hurt, was
+- [00:03:20,260 - 00:03:21,700] paralyzed when I was in college.
+- [00:03:21,700 - 00:03:23,620] I got pissed off at the way he was treated.
+- [00:03:23,620 - 00:03:24,660] It changed my life.
+- [00:03:24,660 - 00:03:25,740] It changed his life.
+- [00:03:25,740 - 00:03:26,340] And so then, I got a job.
+- [00:03:26,340 - 00:03:27,620] Therefore, that's what I did.
+- [00:03:27,620 - 00:03:28,760] I knew what I was going to
+- [00:03:28,760 - 00:03:29,900] do when I went to law school.
+- [00:03:29,900 - 00:03:31,480] An accident that happened to your family, that's
+- [00:03:31,480 - 00:03:33,060] what led to you wanting to become a lawyer?
+- [00:03:33,060 - 00:03:33,860] Yeah, he was paralyzed.
+- [00:03:33,860 - 00:03:35,140] C6, C7.
+- [00:03:35,140 - 00:03:36,500] He just passed away last year.
+- [00:03:36,500 - 00:03:38,180] But he worked with me and built
+- [00:03:38,180 - 00:03:39,860] the law firm with me all those years.
+- [00:03:39,860 - 00:03:40,620] I'm sorry for your loss.
+- [00:03:40,620 - 00:03:40,940] Thank you.
+- [00:03:40,940 - 00:03:42,700] But you turned your pain into fuel ultimately.
+- [00:03:42,700 - 00:03:46,020] Oh, I turned my pain into passion and purpose.
+- [00:03:46,020 - 00:03:47,500] And every time I walk in and
+- [00:03:47,500 - 00:03:48,980] see one of my clients, I see Tim.
+- [00:03:48,980 - 00:03:50,660] And when I see Tim, I say, I'm going to
+- [00:03:50,660 - 00:03:52,340] treat you the way I wanted Tim to be treated.
+- [00:03:52,340 - 00:03:53,620] And I'm going to protect you
+- [00:03:53,620 - 00:03:54,900] the way Tim should have been protected.
+- [00:03:54,900 - 00:03:55,420] I love it.
+- [00:03:55,420 - 00:03:56,300] Did you come from a lot of money?
+- [00:03:56,300 - 00:03:56,340] Yeah.
+- [00:03:56,340 - 00:03:56,900] Shit.
+- [00:03:56,900 - 00:04:00,180] Listen, my dad needed a cosigner to pay cash.
+- [00:04:00,180 - 00:04:02,180] No, I did not come from a lot of money.
+- [00:04:02,180 - 00:04:04,020] So what was your turning point to financial freedom?
+- [00:04:04,020 - 00:04:05,980] What did you see that made you want
+- [00:04:05,980 - 00:04:07,940] to go out there and create this billion-dollar company?
+- [00:04:07,940 - 00:04:09,220] I think you're born with it.
+- [00:04:09,220 - 00:04:10,580] I think when I meet people my
+- [00:04:10,580 - 00:04:11,940] age, I say, were you a paperboy?
+- [00:04:11,940 - 00:04:14,740] When I meet paperboys that were
+- [00:04:14,740 - 00:04:17,540] paperboys, you're born with this entrepreneurial seed.
+- [00:04:17,540 - 00:04:19,220] It's just in you from the beginning.
+- [00:04:19,220 - 00:04:20,980] Because a paper route is tough.
+- [00:04:20,980 - 00:04:22,340] It's every day, seven days a week.
+- [00:04:22,340 - 00:04:23,300] There's no vacation.
+- [00:04:23,300 - 00:04:26,020] If I find a paperboy, I just found a hustler.
+- [00:04:26,020 - 00:04:26,300] I love it.
+- [00:04:26,300 - 00:04:28,780] So you don't think everybody's built for entrepreneurship?
+- [00:04:28,780 - 00:04:29,740] Oh, absolutely not.
+- [00:04:29,740 - 00:04:31,860] Look, today in the jungle, a lion's going to
+- [00:04:31,860 - 00:04:33,980] be born and a sloth is going to be born.
+- [00:04:33,980 - 00:04:36,300] The sloth is fucked and the lion is king.
+- [00:04:36,300 - 00:04:37,740] And that's it.
+- [00:04:37,740 - 00:04:39,100] I'd never heard that before.
+- [00:04:39,100 - 00:04:39,340] Yeah.
+- [00:04:39,340 - 00:04:39,820] That was good.
+- [00:04:39,820 - 00:04:40,460] Let me ask you this.
+- [00:04:40,460 - 00:04:42,460] Somebody's on their last year of law school right now.
+- [00:04:42,460 - 00:04:43,740] What advice would you give to them?
+- [00:04:43,740 - 00:04:44,940] If they want to build an empire like
+- [00:04:44,940 - 00:04:46,140] you, what advice would you give to them?
+- [00:04:46,140 - 00:04:47,980] Apply to work with me because all these
+- [00:04:47,980 - 00:04:49,820] other law firms, they build by the time.
+- [00:04:49,820 - 00:04:51,020] Everybody's getting ripped off.
+- [00:04:51,020 - 00:04:52,500] Everybody's getting stolen from
+- [00:04:52,500 - 00:04:53,980] because you're billable time.
+- [00:04:53,980 - 00:04:56,220] With what I do, I don't build anything.
+- [00:04:56,220 - 00:04:57,820] I pay you if I win.
+- [00:04:57,820 - 00:05:00,060] I don't charge a fee unless I win.
+- [00:05:00,060 - 00:05:01,340] So I would not be
+- [00:05:01,340 - 00:05:02,620] a lawyer charging by the hour.
+- [00:05:02,620 - 00:05:04,940] There's just not enough upside for that for me.
+- [00:05:04,940 - 00:05:05,980] Are you a good negotiator?
+- [00:05:05,980 - 00:05:06,300] Yeah.
+- [00:05:06,300 - 00:05:06,780] You are?
+- [00:05:06,780 - 00:05:07,020] Yeah.
+- [00:05:07,020 - 00:05:09,260] Can you give me a masterclass on negotiating right here?
+- [00:05:09,260 - 00:05:11,100] Masterclass in negotiating is this.
+- [00:05:11,100 - 00:05:12,940] Whoever speaks first loses.
+- [00:05:12,940 - 00:05:14,300] And you've heard that, right?
+- [00:05:14,300 - 00:05:14,700] Yeah.
+- [00:05:14,700 - 00:05:16,140] So you got to listen.
+- [00:05:16,140 - 00:05:18,220] People who talk too much, they don't hear.
+- [00:05:18,220 - 00:05:20,700] You got to listen and learn and then negotiate.
+- [00:05:20,700 - 00:05:21,940] Was there a time where you
+- [00:05:21,940 - 00:05:23,180] did not speak for a while?
+- [00:05:23,180 - 00:05:25,260] I've always been a pretty good negotiator.
+- [00:05:25,260 - 00:05:26,060] I've always
+- [00:05:26,060 - 00:05:28,540] kind of sized up the deal and
+- [00:05:28,540 - 00:05:31,020] sized up the person and made that decision.
+- [00:05:31,020 - 00:05:32,220] So listen, I've been hustling
+- [00:05:32,220 - 00:05:33,420] since I was seven years old.
+- [00:05:33,420 - 00:05:35,740] I sold cheerful cards at seven years old.
+- [00:05:35,740 - 00:05:39,100] So I think that the entrepreneur is born with it.
+- [00:05:39,100 - 00:05:41,660] And what I really think is that life is luck.
+- [00:05:41,660 - 00:05:43,100] I believe everybody says, oh, you did it.
+- [00:05:43,100 - 00:05:43,500] You did.
+- [00:05:43,500 - 00:05:44,860] Listen, I did it this way.
+- [00:05:44,860 - 00:05:46,980] I made a thousand left turns and
+- [00:05:46,980 - 00:05:49,100] a thousand right turns and a thousand U-turns.
+- [00:05:49,100 - 00:05:50,740] If I made one different turn,
+- [00:05:50,740 - 00:05:52,380] everything could have been fucking different.
+- [00:05:52,380 - 00:05:52,940] Everything.
+- [00:05:52,940 - 00:05:53,980] And yet I pat myself.
+- [00:05:53,980 - 00:05:54,940] Oh, look how great.
+- [00:05:54,940 - 00:05:55,340] No.
+- [00:05:55,340 - 00:05:55,980] I'm a lucky guy.
+- [00:05:55,980 - 00:05:58,060] I'm a lucky guy that was born to work.
+- [00:05:58,060 - 00:05:59,020] And that's who I am.
+- [00:05:59,020 - 00:05:59,820] One turn.
+- [00:05:59,820 - 00:06:00,700] Everything's different.
+- [00:06:00,700 - 00:06:02,220] You know who I admire a lot?
+- [00:06:02,220 - 00:06:04,140] Mark Cuban, because he'll tell you the same thing.
+- [00:06:04,140 - 00:06:04,780] I interviewed him.
+- [00:06:04,780 - 00:06:05,980] Did he talk about luck?
+- [00:06:05,980 - 00:06:06,460] Yeah, luck.
+- [00:06:06,460 - 00:06:06,700] Yeah.
+- [00:06:06,700 - 00:06:08,180] Listen, successful people pat themselves
+- [00:06:08,180 - 00:06:09,660] on the back too much.
+- [00:06:09,660 - 00:06:11,340] What they really should do is get on
+- [00:06:11,340 - 00:06:13,020] their knees and thank God that those left turns
+- [00:06:13,020 - 00:06:15,180] and right turns and U-turns ended up here.
+- [00:06:15,180 - 00:06:15,980] So you believe in God?
+- [00:06:15,980 - 00:06:16,860] I believe in God.
+- [00:06:16,860 - 00:06:18,780] I must because I pray every night.
+- [00:06:18,780 - 00:06:20,620] So faith has been important for your success.
+- [00:06:20,620 - 00:06:22,540] Every night I pray to God.
+- [00:06:22,540 - 00:06:24,860] What's the best advice you ever got from a mentor?
+- [00:06:24,860 - 00:06:25,660] Keep your word.
+- [00:06:25,660 - 00:06:27,100] Because all we have at the
+- [00:06:27,100 - 00:06:28,540] end of the day is our reputation.
+- [00:06:28,540 - 00:06:31,100] And if you fuck one person once, it'll get out.
+- [00:06:31,100 - 00:06:34,140] But if you keep your word, everybody keeps coming back.
+- [00:06:34,140 - 00:06:36,500] Everybody keeps coming back and wants to do
+- [00:06:36,500 - 00:06:38,860] business with you because they know that your
+- [00:06:38,860 - 00:06:39,740] word is your bond.
+- [00:06:39,740 - 00:06:41,340] Have you ever been fucked over in business?
+- [00:06:41,340 - 00:06:41,740] Yeah.
+- [00:06:41,740 - 00:06:42,300] You have?
+- [00:06:42,300 - 00:06:43,260] Yeah, but I fuck back.
+- [00:06:44,380 - 00:06:46,220] So how do you respond to that when that happens?
+- [00:06:46,220 - 00:06:48,780] Well, Jeff Bezos said something once I read.
+- [00:06:48,780 - 00:06:50,620] It was unbelievable, which is sometimes you just
+- [00:06:50,620 - 00:06:52,460] got to pay people to walk away, to leave.
+- [00:06:52,460 - 00:06:54,020] And so what I do is
+- [00:06:54,020 - 00:06:55,580] I find cancers in my business.
+- [00:06:55,580 - 00:06:57,099] And I excise the cancers.
+- [00:06:57,099 - 00:06:59,299] And sometimes you pay them just to walk
+- [00:06:59,299 - 00:07:01,500] away because negative energy is the worst energy
+- [00:07:01,500 - 00:07:01,979] of all.
+- [00:07:01,979 - 00:07:04,060] You cannot get rich when you're negative.
+- [00:07:04,060 - 00:07:05,900] You can only get rich when you're positive.
+- [00:07:05,900 - 00:07:07,740] So excise the cancers.
+- [00:07:07,740 - 00:07:09,340] Cut the cancers out of your life.
+- [00:07:09,340 - 00:07:10,539] Sometimes you get fucked over.
+- [00:07:10,539 - 00:07:11,419] You want revenge.
+- [00:07:11,419 - 00:07:14,060] The greatest revenge, as you know, is success.
+- [00:07:14,060 - 00:07:15,580] You're the biggest lawyer in the world.
+- [00:07:15,580 - 00:07:16,620] Have you ever been sued before?
+- [00:07:16,620 - 00:07:18,340] I've had lawyers in my firm that
+- [00:07:18,340 - 00:07:20,060] made mistakes and it fucked up a case.
+- [00:07:20,060 - 00:07:21,180] And guess what I do?
+- [00:07:21,180 - 00:07:21,820] I admit it.
+- [00:07:21,820 - 00:07:22,780] I bring the client in
+- [00:07:22,780 - 00:07:23,740] and go, look, he fucked up.
+- [00:07:23,740 - 00:07:24,620] But here's the good news.
+- [00:07:24,620 - 00:07:25,419] I got insurance.
+- [00:07:25,420 - 00:07:26,420] You're going to do better now
+- [00:07:26,420 - 00:07:27,420] than you were because you know what?
+- [00:07:27,420 - 00:07:28,140] You were my client.
+- [00:07:28,140 - 00:07:28,940] You came to me.
+- [00:07:28,940 - 00:07:31,220] I'm going to take care of you now, even though
+- [00:07:31,220 - 00:07:33,500] you got to go hire a lawyer and sue me.
+- [00:07:33,500 - 00:07:34,300] That's okay.
+- [00:07:34,300 - 00:07:35,500] That's why I've got insurance.
+- [00:07:35,500 - 00:07:37,420] That's why I got money to pay those things.
+- [00:07:37,420 - 00:07:39,300] Guys, in the last few years,
+- [00:07:39,300 - 00:07:41,180] I've spoken to over a thousand millionaires.
+- [00:07:41,180 - 00:07:43,220] I've interviewed Mark Cuban, Shaq, Tom
+- [00:07:43,220 - 00:07:45,260] Cruise, and over a dozen billionaires.
+- [00:07:45,260 - 00:07:46,660] And you want to know the single biggest
+- [00:07:46,660 - 00:07:48,060] lesson that I've learned that's allowed me to build
+- [00:07:48,060 - 00:07:49,980] a multimillion dollar company and one of
+- [00:07:49,980 - 00:07:51,900] the largest media companies in the entire business
+- [00:07:51,900 - 00:07:52,380] space?
+- [00:07:52,380 - 00:07:54,700] It's that people will take you places that money can't.
+- [00:07:54,700 - 00:07:57,020] The key to success is not about what you know.
+- [00:07:57,020 - 00:07:57,900] It's who you know.
+- [00:07:57,900 - 00:07:59,420] Proximity is the cheat code.
+- [00:07:59,420 - 00:08:01,300] The problem is it's hard to meet the
+- [00:08:01,300 - 00:08:03,180] right people and get them to mentor you.
+- [00:08:03,180 - 00:08:05,620] So for that reason, this next week from
+- [00:08:05,620 - 00:08:08,060] June 23rd through June 29th, I'm doing something
+- [00:08:08,060 - 00:08:08,620] insane.
+- [00:08:08,620 - 00:08:10,980] I'm launching the first ever millionaire
+- [00:08:10,980 - 00:08:13,340] week where I'm bringing a multimillionaire right
+- [00:08:13,340 - 00:08:15,020] to you every single day.
+- [00:08:15,020 - 00:08:16,700] Have you ever wanted to ask
+- [00:08:16,700 - 00:08:18,380] a millionaire about your business or idea?
+- [00:08:18,380 - 00:08:20,140] Have you ever wondered what it's like to be in
+- [00:08:20,140 - 00:08:21,900] my shoes and be able to ask the most successful
+- [00:08:21,900 - 00:08:23,419] people in the world anything you want?
+- [00:08:23,419 - 00:08:23,740] Now?
+- [00:08:23,740 - 00:08:26,180] You'll be able to ask multimillionaires your
+- [00:08:26,180 - 00:08:28,620] questions live on Zoom and get mentored directly
+- [00:08:28,620 - 00:08:29,980] from them every single day.
+- [00:08:29,980 - 00:08:31,620] So if you're broke, this will help you
+- [00:08:31,620 - 00:08:33,260] get out of your rut and build momentum.
+- [00:08:33,260 - 00:08:35,140] If you're rich, you already know how
+- [00:08:35,140 - 00:08:37,020] valuable and priceless mentorship from the right person
+- [00:08:37,020 - 00:08:37,580] really is.
+- [00:08:37,580 - 00:08:39,500] And this will help you level up even more.
+- [00:08:39,500 - 00:08:41,459] Plus, on top of all that, if you watch
+- [00:08:41,459 - 00:08:43,419] this entire video and click the link below to grab
+- [00:08:43,419 - 00:08:45,459] your ticket to millionaire week, you will also
+- [00:08:45,459 - 00:08:47,500] get access to a full month of the school
+- [00:08:47,500 - 00:08:49,380] of mentors, the number one community
+- [00:08:49,380 - 00:08:51,260] for business owners in the entire world.
+- [00:08:51,260 - 00:08:52,380] We're inside the community.
+- [00:08:52,380 - 00:08:53,500] You will unlock weekly.
+- [00:08:53,500 - 00:08:56,140] Live mentorship calls with millionaires and billionaires.
+- [00:08:56,140 - 00:08:58,380] You'll unlock 100 plus hours of exclusive
+- [00:08:58,380 - 00:09:00,620] content and access to the nine figure network
+- [00:09:00,620 - 00:09:02,700] where you can network with other entrepreneurs.
+- [00:09:02,700 - 00:09:04,860] Now let's address the elephant in the room.
+- [00:09:04,860 - 00:09:06,300] Yes, there is an investment.
+- [00:09:06,300 - 00:09:08,260] It takes a lot of work behind the scenes to
+- [00:09:08,260 - 00:09:10,220] make this all happen, but we set it up so
+- [00:09:10,220 - 00:09:12,860] that way anyone that genuinely wants it can afford it.
+- [00:09:12,860 - 00:09:15,780] Unlike $10,000 coaching programs or
+- [00:09:15,780 - 00:09:18,700] $997 courses, this is significantly cheaper.
+- [00:09:18,700 - 00:09:22,140] You can get all of that for just 49 bucks.
+- [00:09:22,140 - 00:09:23,340] All you have to do is go down.
+- [00:09:23,340 - 00:09:24,860] And click the link in the description
+- [00:09:24,860 - 00:09:26,380] of this video to grab your ticket.
+- [00:09:26,380 - 00:09:28,220] And I'll see you guys on June
+- [00:09:28,220 - 00:09:30,060] 23rd for day one of millionaire week.
+- [00:09:30,060 - 00:09:32,140] With that being said, let's get back to the interview.
+- [00:09:32,140 - 00:09:33,900] Now, why is very competitive?
+- [00:09:33,900 - 00:09:35,220] You're not afraid of a competitive market
+- [00:09:35,220 - 00:09:36,540] though, to go compete with other lawyers.
+- [00:09:36,540 - 00:09:39,340] Competition is what makes people great.
+- [00:09:39,340 - 00:09:41,620] The reason Michael Jordan was great
+- [00:09:41,620 - 00:09:43,900] is because he thrived on competition.
+- [00:09:43,900 - 00:09:45,500] He wanted competition.
+- [00:09:45,500 - 00:09:47,260] Competition makes me better and
+- [00:09:47,260 - 00:09:49,020] competition should make you better.
+- [00:09:49,020 - 00:09:51,100] I welcome competition and I hope my competitors get
+- [00:09:51,100 - 00:09:53,180] better because if they get better, they'll get better.
+- [00:09:53,180 - 00:09:55,339] I got to get better to stay ahead.
+- [00:09:55,339 - 00:09:57,939] But what did you do differently from 99% of other lawyers that
+- [00:09:57,939 - 00:10:00,540] enabled you to build the biggest law firm in the entire world?
+- [00:10:00,540 - 00:10:02,939] I had a vision and the vision went like this.
+- [00:10:02,939 - 00:10:05,099] What would Google do if it was a law firm?
+- [00:10:05,099 - 00:10:06,099] And I said, I'm going
+- [00:10:06,099 - 00:10:07,099] to build the Google law firm.
+- [00:10:07,099 - 00:10:09,020] And then I said to myself, what would Google be?
+- [00:10:09,020 - 00:10:11,339] I said, Google will be everywhere for everyone.
+- [00:10:11,339 - 00:10:13,420] All 50 states, 24 seven.
+- [00:10:13,420 - 00:10:13,979] Go to your phone.
+- [00:10:13,979 - 00:10:15,020] You want to be a client of mine?
+- [00:10:15,020 - 00:10:16,699] You can be my client in two minutes.
+- [00:10:16,699 - 00:10:17,420] Why does that?
+- [00:10:17,420 - 00:10:18,780] Because that's what Google would do.
+- [00:10:18,780 - 00:10:20,580] When I told people that I was interviewing you
+- [00:10:20,580 - 00:10:22,380] and I was like, I'm interviewing, you know, John Morgan.
+- [00:10:22,380 - 00:10:23,020] He's one of the best lawyers.
+- [00:10:23,020 - 00:10:23,900] The biggest lawyers in the world.
+- [00:10:23,900 - 00:10:24,780] They're like Morgan and Morgan.
+- [00:10:24,780 - 00:10:26,460] Everybody knows your brand and your business.
+- [00:10:26,460 - 00:10:27,819] How did you take your law firm national?
+- [00:10:27,819 - 00:10:29,059] What was that process like when you're
+- [00:10:29,059 - 00:10:30,300] like, I want to go to California.
+- [00:10:30,300 - 00:10:31,900] I want to go take over this market.
+- [00:10:31,900 - 00:10:32,699] What was that strategy?
+- [00:10:33,420 - 00:10:35,499] I first went from Orlando to Tampa
+- [00:10:35,499 - 00:10:37,579] and then I went from Orlando to Jacksonville.
+- [00:10:37,579 - 00:10:39,859] And then I went from Orlando to
+- [00:10:39,859 - 00:10:42,140] Naples brick by brick by brick by brick.
+- [00:10:42,140 - 00:10:44,260] When you build a house out of bricks,
+- [00:10:44,260 - 00:10:46,380] remember the three little pigs don't use straw.
+- [00:10:46,380 - 00:10:47,260] Don't use sticks.
+- [00:10:47,260 - 00:10:50,460] Use bricks because bricks stand up to a hurricane.
+- [00:10:50,460 - 00:10:51,660] Straw and sticks don't.
+- [00:10:51,660 - 00:10:52,939] Now throughout your career.
+- [00:10:52,940 - 00:10:54,220] What was the most amount of money
+- [00:10:54,220 - 00:10:55,500] that you've made in a single year?
+- [00:10:55,500 - 00:10:58,940] Last year we did $2 billion in fees.
+- [00:10:58,940 - 00:11:00,140] Our margins are pretty good.
+- [00:11:00,140 - 00:11:01,180] We have no debt.
+- [00:11:01,180 - 00:11:03,180] I love check, but I wouldn't trade with Shaq.
+- [00:11:03,740 - 00:11:04,620] Are you a billionaire?
+- [00:11:04,620 - 00:11:06,460] Forbes magazine said I was.
+- [00:11:06,460 - 00:11:08,140] Here's what I tell you about being rich.
+- [00:11:08,140 - 00:11:09,060] One time I went to a
+- [00:11:09,060 - 00:11:09,980] party, a guy named Jimmy Bryant.
+- [00:11:09,980 - 00:11:11,660] He owned the large Toyota dealership.
+- [00:11:11,660 - 00:11:13,180] Somebody asked him, he said, what are you worth?
+- [00:11:13,180 - 00:11:14,340] And Jimmy said, people who
+- [00:11:14,340 - 00:11:15,500] say they know what they're worth.
+- [00:11:15,500 - 00:11:16,860] They're not worth shit.
+- [00:11:16,860 - 00:11:18,460] One day, Kanye was a billionaire.
+- [00:11:18,460 - 00:11:20,100] The next day, Kanye was living out
+- [00:11:20,100 - 00:11:21,740] of his car or something with Lamar Odom.
+- [00:11:21,740 - 00:11:22,460] I don't know.
+- [00:11:22,460 - 00:11:23,740] So I'm comfortable.
+- [00:11:23,740 - 00:11:25,300] But it's safe to say though,
+- [00:11:25,300 - 00:11:26,860] before today I had interviewed 18th billionaire.
+- [00:11:26,860 - 00:11:28,460] You're the 19th billionaire that I've interviewed.
+- [00:11:28,460 - 00:11:29,260] Is that safe to say?
+- [00:11:29,260 - 00:11:31,060] I would say that I am in
+- [00:11:31,060 - 00:11:32,860] rare air and I can't believe it.
+- [00:11:32,860 - 00:11:33,740] And you know what?
+- [00:11:33,740 - 00:11:35,820] Here's what I'm expecting any moment.
+- [00:11:35,820 - 00:11:37,100] Cause I came from Kentucky.
+- [00:11:37,100 - 00:11:40,140] I'm waiting to wake up in Kentucky, blink my eyes.
+- [00:11:40,140 - 00:11:41,540] And it was all a
+- [00:11:41,540 - 00:11:42,940] dream because I just been lucky.
+- [00:11:42,940 - 00:11:44,420] As a billionaire, what's the
+- [00:11:44,420 - 00:11:45,900] best financial advice you've ever received?
+- [00:11:45,900 - 00:11:46,780] Give me a lesson about money.
+- [00:11:46,780 - 00:11:47,740] That's not taught in school.
+- [00:11:47,740 - 00:11:49,580] First of all, it's hard to make money.
+- [00:11:49,580 - 00:11:50,940] It's harder to keep money.
+- [00:11:50,940 - 00:11:52,140] When I've lost money.
+- [00:11:52,140 - 00:11:52,360] Is what I'm talking about.
+- [00:11:52,360 - 00:11:52,380] When I've lost money.
+- [00:11:52,380 - 00:11:54,280] Is when I greed has taken over.
+- [00:11:54,280 - 00:11:55,780] When I've gone off and done
+- [00:11:55,780 - 00:11:57,280] something where I knew it was wrong.
+- [00:11:57,280 - 00:12:00,100] I got a saying where I say, if it smells
+- [00:12:00,100 - 00:12:02,920] like dog shit, there's dog shit, whether it's life or love.
+- [00:12:02,920 - 00:12:05,600] And the times that I've made mistakes,
+- [00:12:05,600 - 00:12:08,280] I knew the person was the sociopath almost,
+- [00:12:08,280 - 00:12:10,920] but my own greed got ahead of me and you got
+- [00:12:10,920 - 00:12:13,560] to cut your own greed out so that you can be clear
+- [00:12:13,560 - 00:12:14,920] eyed and understand this.
+- [00:12:14,920 - 00:12:17,040] And here's my word for everything.
+- [00:12:17,040 - 00:12:19,280] My best advice for everybody.
+- [00:12:19,280 - 00:12:20,780] If it's too good to be
+- [00:12:20,780 - 00:12:22,280] true, it's too good to be true.
+- [00:12:22,280 - 00:12:24,980] All of the glitters is not gold.
+- [00:12:24,980 - 00:12:26,880] You have a saying, grow or die, I believe.
+- [00:12:26,880 - 00:12:27,780] Grow or die.
+- [00:12:27,780 - 00:12:29,079] That's the hallmark.
+- [00:12:29,079 - 00:12:31,729] And I also say, if you look around here, you see these
+- [00:12:31,729 - 00:12:34,380] trees, these trees, you know, have been here for a long time.
+- [00:12:34,380 - 00:12:35,780] I've been here for years and years.
+- [00:12:35,780 - 00:12:36,830] Sometimes people come out and
+- [00:12:36,830 - 00:12:37,880] they look at their, their yard.
+- [00:12:37,880 - 00:12:38,780] They have no trees.
+- [00:12:38,780 - 00:12:40,680] They go, oh, I should have planted a tree.
+- [00:12:40,680 - 00:12:41,980] The best time to plant
+- [00:12:41,980 - 00:12:43,280] a tree was 20 years ago.
+- [00:12:43,280 - 00:12:45,780] The next best time to plant a tree today.
+- [00:12:45,780 - 00:12:47,530] And a lot of people don't plant the tree because
+- [00:12:47,530 - 00:12:49,280] they say I should have done it 20 years ago.
+- [00:12:49,280 - 00:12:49,980] Should have would have could have.
+- [00:12:49,980 - 00:12:51,180] That's an excuse.
+- [00:12:51,180 - 00:12:52,180] That's a lazy guy's excuse.
+- [00:12:52,180 - 00:12:54,979] Plant your tree today.
+- [00:12:54,979 - 00:12:57,179] If you didn't plant it 20 years ago, because
+- [00:12:57,179 - 00:12:59,380] I'll tell you what trees grow fast with water.
+- [00:12:59,380 - 00:13:00,979] What keeps people broken today's world?
+- [00:13:00,979 - 00:13:01,579] Greed.
+- [00:13:01,579 - 00:13:03,979] There are so many fake people out there.
+- [00:13:03,979 - 00:13:05,380] I look at this crypto world.
+- [00:13:05,380 - 00:13:06,979] I don't even understand what the fuck it is.
+- [00:13:06,979 - 00:13:07,979] Everybody wants to do crypto.
+- [00:13:07,979 - 00:13:08,880] I don't know what it is.
+- [00:13:08,880 - 00:13:11,180] If I don't understand it, I don't do it.
+- [00:13:11,180 - 00:13:12,579] I don't understand crypto.
+- [00:13:12,579 - 00:13:14,479] I would like to understand crypto.
+- [00:13:14,479 - 00:13:16,479] I've tried to understand crypto, but if
+- [00:13:16,479 - 00:13:18,479] I don't understand it, I don't do it.
+- [00:13:18,479 - 00:13:20,680] You're part of the top 1% of the top 1%.
+- [00:13:20,680 - 00:13:21,680] Where are you putting your money?
+- [00:13:21,680 - 00:13:22,079] I tell you.
+- [00:13:22,080 - 00:13:24,080] Viewers read these books.
+- [00:13:24,080 - 00:13:26,580] A random walk down Wall Street and Black Swan.
+- [00:13:26,580 - 00:13:27,780] Where do I put my money?
+- [00:13:27,780 - 00:13:31,180] Index funds for equities tax-free bonds that yields about four
+- [00:13:31,180 - 00:13:34,580] to four and a half percent tax-free in the Great Depression.
+- [00:13:34,580 - 00:13:37,280] Less than 1% defaulted and US Treasuries.
+- [00:13:37,280 - 00:13:39,580] I take my capital invest in me.
+- [00:13:39,580 - 00:13:40,480] I own attractions.
+- [00:13:40,480 - 00:13:41,280] I own hotels.
+- [00:13:41,280 - 00:13:42,680] I develop shopping centers.
+- [00:13:42,680 - 00:13:43,680] I build apartments.
+- [00:13:43,680 - 00:13:46,980] I take all my cash and I put it into that and
+- [00:13:46,980 - 00:13:50,280] then I take my investments and once my money goes into my investments.
+- [00:13:50,280 - 00:13:51,580] I never touch it.
+- [00:13:51,580 - 00:13:52,380] It's there forever.
+- [00:13:52,380 - 00:13:53,480] That's some game right there.
+- [00:13:53,480 - 00:13:53,880] Yes.
+- [00:13:53,880 - 00:13:55,380] What was the number one book that changed your life?
+- [00:13:55,380 - 00:13:56,080] Black Swan.
+- [00:13:56,080 - 00:13:57,780] Black Swan goes like this.
+- [00:13:57,780 - 00:13:59,080] Everybody thought there were white swans
+- [00:13:59,080 - 00:14:00,380] one day, but someday they came out.
+- [00:14:00,380 - 00:14:01,080] There's a black swan.
+- [00:14:01,080 - 00:14:02,280] How is that possible?
+- [00:14:02,280 - 00:14:03,480] Swans are white.
+- [00:14:03,480 - 00:14:04,980] We start thinking one way and that
+- [00:14:04,980 - 00:14:06,480] it's got to be the only way.
+- [00:14:06,480 - 00:14:08,880] Then a black swan flies into our life.
+- [00:14:08,880 - 00:14:11,380] I'm always looking for the black swan.
+- [00:14:11,380 - 00:14:13,380] I'm always waiting for the black swan.
+- [00:14:13,380 - 00:14:15,380] The book Black Swan is about this thick.
+- [00:14:15,380 - 00:14:17,780] There's only one little line that I took from it.
+- [00:14:17,780 - 00:14:19,380] The solution to black swan?
+- [00:14:19,380 - 00:14:20,280] Be prepared.
+- [00:14:20,280 - 00:14:21,380] Be ready.
+- [00:14:21,380 - 00:14:22,380] Be ready for the black swan.
+- [00:14:22,380 - 00:14:23,380] What does that include?
+- [00:14:23,380 - 00:14:24,680] All your money in savings.
+- [00:14:24,680 - 00:14:25,180] No debt.
+- [00:14:25,180 - 00:14:27,980] Debt and leverage is the death of most business people.
+- [00:14:27,980 - 00:14:28,780] You don't like debt.
+- [00:14:28,780 - 00:14:29,680] I have no debt.
+- [00:14:29,680 - 00:14:30,580] I have zero debt.
+- [00:14:30,580 - 00:14:32,680] But some people argue, oh, you know, the more money
+- [00:14:32,680 - 00:14:34,780] you can borrow, the more access you have to capital.
+- [00:14:34,780 - 00:14:36,080] Well, a lot of people like that.
+- [00:14:36,080 - 00:14:37,780] A lot of people go to Vegas
+- [00:14:37,780 - 00:14:39,480] too and lose their asses, but I don't.
+- [00:14:39,480 - 00:14:41,030] I mean, when I go to
+- [00:14:41,030 - 00:14:42,580] Vegas, I'd say, okay, I'm taking $3,000.
+- [00:14:42,580 - 00:14:44,280] I know I'm going to lose it probably.
+- [00:14:44,280 - 00:14:45,980] And if I make 10, I stop gambling.
+- [00:14:45,980 - 00:14:47,480] So that's entertainment for me.
+- [00:14:47,480 - 00:14:49,330] But people that have that
+- [00:14:49,330 - 00:14:51,180] mindset of leverage, they're gambling.
+- [00:14:51,380 - 00:14:52,380] They're gamblers.
+- [00:14:52,380 - 00:14:54,380] And what gambling is in business
+- [00:14:54,380 - 00:14:56,380] is like musical chairs in preschool.
+- [00:14:56,380 - 00:14:58,080] One day, the music's going to stop.
+- [00:14:58,080 - 00:14:58,930] Do you have a chair
+- [00:14:58,930 - 00:14:59,780] or you don't have a chair?
+- [00:14:59,780 - 00:15:01,130] And when the music stops and you don't
+- [00:15:01,130 - 00:15:02,480] have a chair, that's the end of the game.
+- [00:15:02,480 - 00:15:04,780] But I heard also that scared money don't make money.
+- [00:15:04,780 - 00:15:06,580] How much money do you spend a year on advertising?
+- [00:15:06,580 - 00:15:07,480] $400 million.
+- [00:15:07,480 - 00:15:08,880] You spend $400 million a year.
+- [00:15:08,880 - 00:15:09,880] Yeah, but think about this.
+- [00:15:09,880 - 00:15:14,480] Last year, we did $5 billion in settlements and verdicts.
+- [00:15:14,480 - 00:15:15,180] $5 billion.
+- [00:15:15,180 - 00:15:16,580] So would you spend $400?
+- [00:15:16,580 - 00:15:18,380] I mean, it's less than 10%.
+- [00:15:18,380 - 00:15:19,880] How do you know that there's an ROI there?
+- [00:15:19,880 - 00:15:21,280] Looking back, you spent $400 million.
+- [00:15:21,280 - 00:15:23,230] What was it that made that so successful
+- [00:15:23,230 - 00:15:25,180] and enabled you to close $5 billion in settlements?
+- [00:15:25,180 - 00:15:26,780] There's two things in my business.
+- [00:15:26,780 - 00:15:29,380] There's catching fish and cooking fish.
+- [00:15:29,380 - 00:15:30,579] Catching fish, I'm great at.
+- [00:15:30,579 - 00:15:32,879] But cooking fish is you got to have the
+- [00:15:32,879 - 00:15:35,180] law firm that can actually go get the verdicts.
+- [00:15:35,180 - 00:15:36,879] The insurance industry knows who I
+- [00:15:36,879 - 00:15:38,579] am because I win a lot.
+- [00:15:38,579 - 00:15:39,680] And it's not make-believe.
+- [00:15:39,680 - 00:15:41,480] It's not, oh, yeah, it's real verdicts.
+- [00:15:41,480 - 00:15:43,080] And these insurance companies
+- [00:15:43,080 - 00:15:44,680] have a software called Colossus.
+- [00:15:44,680 - 00:15:46,730] They know exactly what law firm is
+- [00:15:46,730 - 00:15:48,780] going to do on every single case.
+- [00:15:48,780 - 00:15:49,980] And they know when they draw
+- [00:15:49,980 - 00:15:51,180] me, they're in for a fight.
+- [00:15:51,180 - 00:15:52,930] When they draw a lot of lawyers, it's
+- [00:15:52,930 - 00:15:54,680] a lawyer taking a knife to a gunfight.
+- [00:15:54,680 - 00:15:56,280] I mean, there's no chance.
+- [00:15:56,280 - 00:15:58,180] And so you have to have them both.
+- [00:15:58,180 - 00:16:00,079] You have to have the marketing, which we have.
+- [00:16:00,079 - 00:16:01,329] But if you don't have
+- [00:16:01,329 - 00:16:02,579] the lawyers, you're a paper tiger.
+- [00:16:02,579 - 00:16:04,180] Because this is a very competitive business.
+- [00:16:04,180 - 00:16:06,930] I'm suing the biggest drug manufacturers in
+- [00:16:06,930 - 00:16:09,680] the world, the tobacco industry, the insurance industry.
+- [00:16:09,680 - 00:16:10,780] Are you not afraid going after them?
+- [00:16:10,780 - 00:16:12,330] No, my hero in history
+- [00:16:12,330 - 00:16:13,880] was David, who took down Goliath.
+- [00:16:13,880 - 00:16:14,780] I love that guy.
+- [00:16:14,780 - 00:16:16,179] I love the little guy with
+- [00:16:16,179 - 00:16:17,579] the slingshot right between the eyes.
+- [00:16:17,579 - 00:16:18,880] But you're going after these giants.
+- [00:16:18,880 - 00:16:19,380] Every day.
+- [00:16:19,380 - 00:16:19,979] And guess what?
+- [00:16:19,979 - 00:16:20,880] They're shooting back.
+- [00:16:21,180 - 00:16:21,880] Real bullets.
+- [00:16:21,880 - 00:16:24,180] I shoot back with real bombs.
+- [00:16:24,180 - 00:16:26,380] Because I think my lawyers are better than their lawyers.
+- [00:16:26,380 - 00:16:27,880] So you're willing to go head to head.
+- [00:16:27,880 - 00:16:30,080] Every week, we have 200 dockets
+- [00:16:30,080 - 00:16:32,280] in America, trials set in America.
+- [00:16:32,280 - 00:16:33,180] Every week.
+- [00:16:33,180 - 00:16:34,280] Every week, not every day.
+- [00:16:34,280 - 00:16:36,079] Every week, we have 200 dockets.
+- [00:16:36,079 - 00:16:37,479] So yes, we're ready to go.
+- [00:16:37,479 - 00:16:39,079] You built a multi-billion dollar
+- [00:16:39,079 - 00:16:40,680] brand that is renowned, respected.
+- [00:16:40,680 - 00:16:42,979] Give me a quick master class on branding right here.
+- [00:16:42,979 - 00:16:45,179] Somebody's trying to build their company into rather just
+- [00:16:45,179 - 00:16:47,380] a business, but like a brand that has raving fans,
+- [00:16:47,380 - 00:16:48,880] that has raving customers, that is
+- [00:16:48,880 - 00:16:50,380] going to get that repeat business.
+- [00:16:50,380 - 00:16:51,079] You got to be.
+- [00:16:51,080 - 00:16:52,530] You got to be willing to kind
+- [00:16:52,530 - 00:16:53,980] of make fun of yourself a little bit.
+- [00:16:53,980 - 00:16:55,930] If you look at some of my ads,
+- [00:16:55,930 - 00:16:57,880] it's not necessarily, you know, this serious face.
+- [00:16:57,880 - 00:16:59,330] All these other lawyers are just
+- [00:16:59,330 - 00:17:00,780] one face, one saying one thing.
+- [00:17:00,780 - 00:17:02,530] You got to be able to go
+- [00:17:02,530 - 00:17:04,280] out there and make your creative creative.
+- [00:17:04,280 - 00:17:05,780] People call ads, you know, that's your creative.
+- [00:17:05,780 - 00:17:07,180] Make your creative creative.
+- [00:17:07,180 - 00:17:09,180] But you got to build a brand
+- [00:17:09,180 - 00:17:11,180] that people can trust for the long haul.
+- [00:17:11,180 - 00:17:13,530] And I think what people want more than anything, they want
+- [00:17:13,530 - 00:17:15,880] a winner, they want a fighter, because they want to win.
+- [00:17:15,880 - 00:17:18,079] And you got to convince them and show
+- [00:17:18,079 - 00:17:20,280] them why hiring you makes them a winner.
+- [00:17:20,280 - 00:17:22,480] And for anybody watching this, say, well, if he did
+- [00:17:22,480 - 00:17:24,680] so well in life, he had to win a lot.
+- [00:17:24,680 - 00:17:25,280] And I did.
+- [00:17:25,280 - 00:17:27,079] But I did it with partners
+- [00:17:27,079 - 00:17:28,879] and lawyers who made me better.
+- [00:17:28,879 - 00:17:29,580] How old are you now?
+- [00:17:30,480 - 00:17:31,580] I would have guessed like 50, though.
+- [00:17:31,580 - 00:17:33,580] Well, I just, I look like a fucking million dollars.
+- [00:17:33,580 - 00:17:34,580] Of course you would have guessed.
+- [00:17:34,580 - 00:17:35,580] Of course you would have.
+- [00:17:35,580 - 00:17:35,980] I know you do.
+- [00:17:35,980 - 00:17:38,280] But if you died tomorrow and all you had
+- [00:17:38,280 - 00:17:40,580] left was one more guiding principle for the younger generation,
+- [00:17:40,580 - 00:17:41,680] for them to take with them for the
+- [00:17:41,680 - 00:17:42,780] rest of their lives, what would that be?
+- [00:17:42,780 - 00:17:43,680] The golden rule.
+- [00:17:43,680 - 00:17:44,930] Do unto others as you
+- [00:17:44,930 - 00:17:46,180] would have them do unto you.
+- [00:17:46,180 - 00:17:47,879] Because I believe in karma.
+- [00:17:47,879 - 00:17:49,080] I believe in karma.
+- [00:17:49,080 - 00:17:49,980] It comes back.
+- [00:17:49,980 - 00:17:50,280] Good.
+- [00:17:50,280 - 00:17:50,980] And bad.
+- [00:17:50,980 - 00:17:52,780] Thinking about your network that you've built
+- [00:17:52,780 - 00:17:54,580] over these years of the most successful people,
+- [00:17:54,580 - 00:17:56,130] from celebrities to other billionaires
+- [00:17:56,130 - 00:17:57,680] to just very successful people,
+- [00:17:57,680 - 00:17:58,980] what's the best advice you've been
+- [00:17:58,980 - 00:18:00,280] given in the last couple of years?
+- [00:18:00,280 - 00:18:02,030] I would say there's a great
+- [00:18:02,030 - 00:18:03,780] book I read called Give and Take.
+- [00:18:03,780 - 00:18:05,030] And that book showed me
+- [00:18:05,030 - 00:18:06,280] something that I think I'd practice.
+- [00:18:06,280 - 00:18:07,180] And it's this.
+- [00:18:07,180 - 00:18:08,580] Most people are takers.
+- [00:18:08,580 - 00:18:11,830] But it turns out that people who give expecting nothing
+- [00:18:11,830 - 00:18:15,080] in return are the ones who end up getting the most.
+- [00:18:15,080 - 00:18:16,379] The takers, we know who they are.
+- [00:18:16,379 - 00:18:17,580] We guard them like this.
+- [00:18:17,580 - 00:18:19,980] But the givers who want to lift you up,
+- [00:18:19,980 - 00:18:21,180] who want to raise you up,
+- [00:18:21,180 - 00:18:22,480] who want to help you,
+- [00:18:22,480 - 00:18:24,080] you become a person they trust.
+- [00:18:24,080 - 00:18:26,180] And when you give, you're not expecting anything.
+- [00:18:26,180 - 00:18:27,630] But when you get it back,
+- [00:18:27,630 - 00:18:29,080] you'll think back, you know what?
+- [00:18:29,080 - 00:18:30,330] So I would say it's
+- [00:18:30,330 - 00:18:31,580] better to give than to receive.
+- [00:18:31,580 - 00:18:33,330] And when you do that, you're actually going
+- [00:18:33,330 - 00:18:35,080] to get more than if you try to take.
+- [00:18:35,080 - 00:18:36,630] Guys, that was one of my
+- [00:18:36,630 - 00:18:38,180] favorite interviews that I've done all year.
+- [00:18:38,180 - 00:18:40,530] My guy John Morgan is the 19th billionaire
+- [00:18:40,530 - 00:18:42,880] that I've interviewed and he just went crazy.
+- [00:18:42,880 - 00:18:44,830] But I need you guys to like and subscribe
+- [00:18:44,830 - 00:18:46,780] for amazing content because I'm going all over the world
+- [00:18:46,780 - 00:18:48,230] to find and interview every billionaire
+- [00:18:48,230 - 00:18:49,680] that I can for you guys.
+- [00:18:49,680 - 00:18:52,180] And if you haven't already done so, guys,
+- [00:18:52,180 - 00:18:55,280] I'm giving you direct access to the multi-millionaires
+- [00:18:55,280 - 00:18:56,630] and billionaires that I interview
+- [00:18:56,630 - 00:18:57,980] on this channel every single week.
+- [00:18:57,980 - 00:18:59,580] Because I host live calls
+- [00:18:59,580 - 00:19:01,180] inside of my private entrepreneur community,
+- [00:19:01,180 - 00:19:02,380] the School of Mentors.
+- [00:19:02,380 - 00:19:04,180] It's the number one community for
+- [00:19:04,180 - 00:19:05,980] business owners in the entire world.
+- [00:19:05,980 - 00:19:08,080] And you can join the community right now by going
+- [00:19:08,080 - 00:19:10,180] down to the link in the description of this video.
+- [00:19:10,180 - 00:19:11,780] I can't wait to see you on the inside.
+- [00:19:11,780 - 00:19:12,730] With that being said, I'll
+- [00:19:12,730 - 00:19:13,680] see you in the next video.
