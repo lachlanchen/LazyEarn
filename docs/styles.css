@@ -652,6 +652,21 @@ body::before {
   margin-top: 1rem;
 }
 
+.asset-cover-link {
+  display: block;
+  border-radius: 20px;
+  overflow: hidden;
+  border: 1px solid rgba(255, 255, 255, 0.12);
+  background: rgba(255, 255, 255, 0.04);
+  box-shadow: 0 18px 36px rgba(0, 0, 0, 0.2);
+}
+
+.asset-cover {
+  display: block;
+  width: 100%;
+  height: auto;
+}
+
 .viewer-shell {
   margin-top: 0;
   padding-top: 0;
@@ -708,6 +723,37 @@ body::before {
   width: 100%;
   min-height: 80vh;
   border: none;
+}
+
+.yale-reader-shell {
+  margin-top: 0;
+}
+
+.yale-reader-hero {
+  display: grid;
+  grid-template-columns: minmax(220px, 280px) minmax(0, 1fr);
+  gap: 1.5rem;
+  align-items: center;
+  margin-bottom: 1.5rem;
+}
+
+.yale-reader-cover {
+  display: block;
+  border-radius: 22px;
+  overflow: hidden;
+  border: 1px solid rgba(255, 255, 255, 0.12);
+  background: rgba(255, 255, 255, 0.04);
+  box-shadow: 0 20px 40px rgba(0, 0, 0, 0.22);
+}
+
+.yale-reader-cover img {
+  display: block;
+  width: 100%;
+  height: auto;
+}
+
+.yale-reader-copy .section-intro {
+  max-width: 100%;
 }
 
 .lazy-meter {

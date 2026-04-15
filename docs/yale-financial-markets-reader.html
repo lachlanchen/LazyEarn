@@ -1,0 +1,80 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta
+      name="description"
+      content="Read the Yale Financial Markets notes inline on earn.lazying.art."
+    />
+    <title>Yale Financial Markets Reader · earn.lazying.art</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@400;500;600;700&family=Sora:wght@400;600;700&display=swap"
+      rel="stylesheet"
+    />
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+    <header class="hero viewer-hero" id="top">
+      <nav class="top-nav">
+        <a class="logo" href="index.html"> <span>earn.</span><strong>lazying.art</strong> </a>
+        <div class="nav-links">
+          <a href="index.html#lazy-money">Lazy Money</a>
+          <a href="index.html#lazy-earn">Lazy Earn</a>
+          <a href="index.html#earn-from-scratch">Earn From Scratch</a>
+          <a href="index.html#lab">Idea Lab</a>
+          <a href="index.html#research">Research</a>
+        </div>
+        <div class="nav-actions">
+          <a class="cta ghost" href="index.html#research">Back to research</a>
+        </div>
+      </nav>
+    </header>
+
+    <main>
+      <section class="section glass yale-reader-shell">
+        <div class="yale-reader-hero">
+          <a class="yale-reader-cover" href="publications/yale-financial-markets/yale-financial-markets.pdf" target="_blank" rel="noopener">
+            <img
+              src="publications/yale-financial-markets/cover-art.png"
+              alt="Yale Financial Markets notes cover"
+            />
+          </a>
+          <div class="yale-reader-copy">
+            <div class="section-tag">Course Publication</div>
+            <h1>Yale Financial Markets notes</h1>
+            <p class="section-intro">
+              A published course edition of Robert J. Shiller's lecture sequence, available as one
+              full-course PDF and one lecture PDF per session. Read the full course inline here.
+            </p>
+            <div class="viewer-actions">
+              <a class="cta primary" href="publications/yale-financial-markets/yale-financial-markets.pdf" target="_blank" rel="noopener">Download PDF</a>
+              <a class="cta secondary" href="pdf-viewer.html#yale-financial-markets-notes">Open generic viewer</a>
+              <a class="cta secondary" href="https://github.com/lachlanchen/LazyEarn/blob/main/yale-financial-markets-publication/README.md" target="_blank" rel="noopener">Open publication shelf</a>
+            </div>
+          </div>
+        </div>
+        <div class="pdf-wrapper">
+          <iframe
+            title="Yale Financial Markets PDF"
+            src="publications/yale-financial-markets/yale-financial-markets.pdf"
+            loading="lazy"
+          ></iframe>
+        </div>
+      </section>
+    </main>
+
+    <footer class="footer">
+      <p>© <span id="year"></span> earn.lazying.art · built for effortless expression.</p>
+      <div class="footer-links">
+        <a href="#top">Back to top</a>
+        <a href="index.html#research">Research</a>
+      </div>
+    </footer>
+    <script>
+      document.getElementById("year").textContent = new Date().getFullYear();
+    </script>
+  </body>
+</html>

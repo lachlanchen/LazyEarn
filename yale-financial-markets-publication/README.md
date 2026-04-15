@@ -14,6 +14,7 @@ This folder exists at the repo root on purpose. It is the direct publication sur
 
 ## Quick links
 
+- [Inline reader](index.html)
 - [Full course PDF](yale-financial-markets.pdf)
 - [Generated source tree](../generated_course_notes/lazyearn/yale-financial-markets/)
 - [Website viewer](https://earn.lazying.art/pdf-viewer.html#yale-financial-markets-notes)

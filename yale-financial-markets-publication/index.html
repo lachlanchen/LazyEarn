@@ -1,0 +1,61 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Yale Financial Markets Reader</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@400;500;600;700&family=Sora:wght@400;600;700&display=swap"
+      rel="stylesheet"
+    />
+    <link rel="stylesheet" href="../docs/styles.css" />
+  </head>
+  <body>
+    <header class="hero viewer-hero" id="top">
+      <nav class="top-nav">
+        <a class="logo" href="../docs/index.html"> <span>earn.</span><strong>lazying.art</strong> </a>
+        <div class="nav-actions">
+          <a class="cta ghost" href="README.md">Open README</a>
+        </div>
+      </nav>
+    </header>
+
+    <main>
+      <section class="section glass yale-reader-shell">
+        <div class="yale-reader-hero">
+          <a class="yale-reader-cover" href="yale-financial-markets.pdf" target="_blank" rel="noopener">
+            <img src="cover-art.png" alt="Yale Financial Markets notes cover" />
+          </a>
+          <div class="yale-reader-copy">
+            <div class="section-tag">Publication Shelf</div>
+            <h1>Yale Financial Markets</h1>
+            <p class="section-intro">
+              Inline reader for the full Yale Financial Markets course book stored in this root publication folder.
+            </p>
+            <div class="viewer-actions">
+              <a class="cta primary" href="yale-financial-markets.pdf" target="_blank" rel="noopener">Download PDF</a>
+              <a class="cta secondary" href="../docs/yale-financial-markets-reader.html">Open site reader</a>
+              <a class="cta secondary" href="README.md">Open README</a>
+            </div>
+          </div>
+        </div>
+        <div class="pdf-wrapper">
+          <iframe title="Yale Financial Markets PDF" src="yale-financial-markets.pdf" loading="lazy"></iframe>
+        </div>
+      </section>
+    </main>
+
+    <footer class="footer">
+      <p>© <span id="year"></span> earn.lazying.art · Yale Financial Markets publication shelf.</p>
+      <div class="footer-links">
+        <a href="#top">Back to top</a>
+        <a href="../docs/index.html#research">Research</a>
+      </div>
+    </footer>
+    <script>
+      document.getElementById("year").textContent = new Date().getFullYear();
+    </script>
+  </body>
+</html>
