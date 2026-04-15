@@ -1,0 +1,1409 @@
+# Transcript
+
+Source: lazyearn/jim-rohn-originals-no-ai/002 - Jim Rohn  - GSI Master Trainer Seminar 2003 [gAZ0ARHKKoU].mkv
+
+- [00:00:00,960 - 00:00:02,620] How many of you have
+- [00:00:02,620 - 00:00:04,280] never seen me be fixed dollars?
+- [00:00:04,280 - 00:00:05,880] So that's philosophy number one,
+- [00:00:05,880 - 00:00:08,640] wait for the government to change the minimum wage.
+- [00:00:08,640 - 00:00:10,640] You say, well, that might take too long.
+- [00:00:10,640 - 00:00:12,080] Is there another philosophy?
+- [00:00:12,080 - 00:00:13,400] And the answer is yes.
+- [00:00:13,400 - 00:00:15,380] Okay, here's the second philosophy.
+- [00:00:16,560 - 00:00:20,760] Wait for the company to pay you $6 an hour.
+- [00:00:22,220 - 00:00:23,960] Right, you get a review, how often?
+- [00:00:26,080 - 00:00:28,100] Every six months, let's say.
+- [00:00:28,100 - 00:00:30,780] You missed it, you waited a year,
+- [00:00:30,780 - 00:00:32,880] maybe you didn't make it then.
+- [00:00:32,880 - 00:00:35,120] You say, well, no telling how long.
+- [00:00:35,120 - 00:00:36,600] If you've got a thousand people with you,
+- [00:00:36,600 - 00:00:38,480] maybe you could force the company
+- [00:00:38,480 - 00:00:40,280] to change it from five to six.
+- [00:00:40,280 - 00:00:41,810] If there were enough of you
+- [00:00:41,810 - 00:00:43,340] that said, we will not work,
+- [00:00:43,340 - 00:00:46,060] we demand $6 or we will not work.
+- [00:00:46,060 - 00:00:49,000] By yourself, not a good philosophy.
+- [00:00:50,580 - 00:00:52,820] Together with others, it could work.
+- [00:00:53,980 - 00:00:57,300] Right, here's what we call this, the philosophy of demand.
+- [00:00:58,100 - 00:00:59,780] I demand more money.
+- [00:01:02,480 - 00:01:04,140] Alone, too risky.
+- [00:01:04,140 - 00:01:08,120] Together, maybe you could get some progress.
+- [00:01:08,120 - 00:01:10,120] So now we've covered three philosophies.
+- [00:01:10,120 - 00:01:12,540] Number one, wait for the government.
+- [00:01:12,540 - 00:01:14,060] Number two, wait for the company.
+- [00:01:14,060 - 00:01:16,020] Number three, the philosophy of demand,
+- [00:01:16,020 - 00:01:17,100] which is a bit risky.
+- [00:01:18,000 - 00:01:20,260] Here's the problem with the philosophy of demand.
+- [00:01:20,260 - 00:01:22,320] You can't get rich.
+- [00:01:25,640 - 00:01:27,820] If people only understood, starting at the bottom,
+- [00:01:27,820 - 00:01:30,580] starting at the lower end of the economic scale,
+- [00:01:30,580 - 00:01:33,199] that you cannot get rich by demand.
+- [00:01:34,979 - 00:01:36,820] Now someone says, well, in America,
+- [00:01:36,820 - 00:01:39,399] how could you become wealthy?
+- [00:01:39,399 - 00:01:43,479] And the answer is to develop a new philosophy.
+- [00:01:43,479 - 00:01:44,580] And let me give you that.
+- [00:01:44,580 - 00:01:45,830] It might be the best
+- [00:01:45,830 - 00:01:47,080] I've got for the whole day.
+- [00:01:47,080 - 00:01:49,440] It's called the philosophy of performance.
+- [00:01:50,660 - 00:01:52,720] The philosophy of performance.
+- [00:01:54,520 - 00:01:56,240] I will perform so well,
+- [00:01:56,240 - 00:01:57,199] it would be embarrassing,
+- [00:01:57,200 - 00:02:00,620] for the company not to pay me $6.
+- [00:02:03,120 - 00:02:06,240] Then I would perform so well,
+- [00:02:06,240 - 00:02:08,139] it would be embarrassing for the company
+- [00:02:08,139 - 00:02:10,639] not to pay me $8 an
+- [00:02:10,639 - 00:02:13,140] hour, $10 an hour, $20 an hour.
+- [00:02:14,320 - 00:02:17,200] So now we've got several philosophies going.
+- [00:02:17,200 - 00:02:19,400] And if you want to change your economic future,
+- [00:02:19,400 - 00:02:21,620] it starts with your personal philosophy.
+- [00:02:23,520 - 00:02:26,440] Now here's what's interesting in America.
+- [00:02:26,440 - 00:02:27,180] I'm sure all of us can do this.
+- [00:02:27,200 - 00:02:29,049] I can think of someone who
+- [00:02:29,049 - 00:02:30,899] makes $5 an hour getting started.
+- [00:02:30,899 - 00:02:32,899] Can anybody in the audience think of someone
+- [00:02:32,899 - 00:02:34,519] who makes $50 an hour?
+- [00:02:38,000 - 00:02:38,970] Do you happen to know
+- [00:02:38,970 - 00:02:39,940] anyone that makes $50 an hour?
+- [00:02:39,940 - 00:02:42,600] Anybody know somebody that makes about that much money?
+- [00:02:42,600 - 00:02:43,679] So jot this down now,
+- [00:02:43,679 - 00:02:46,060] because you've got to teach it to the children,
+- [00:02:46,060 - 00:02:49,440] because they're not teaching this in the ordinary schools.
+- [00:02:49,440 - 00:02:54,440] It's possible in America to multiply your income by 10.
+- [00:02:57,200 - 00:02:59,799] If you take nothing else home economically
+- [00:02:59,799 - 00:03:02,600] to pass onto your children or to someone else,
+- [00:03:02,600 - 00:03:03,720] just take that phrase home.
+- [00:03:03,720 - 00:03:05,100] Jim Rohn taught us,
+- [00:03:05,100 - 00:03:08,820] it's possible in America to multiply your income by 10.
+- [00:03:10,320 - 00:03:11,380] It's possible.
+- [00:03:11,380 - 00:03:12,899] If kids knew it was possible,
+- [00:03:12,899 - 00:03:14,459] do you think they would
+- [00:03:14,459 - 00:03:16,019] ask, how can you do that?
+- [00:03:17,500 - 00:03:18,640] If they knew it was possible,
+- [00:03:18,640 - 00:03:19,859] wouldn't the next question would
+- [00:03:19,859 - 00:03:21,079] be, how could I do it?
+- [00:03:21,079 - 00:03:23,519] If it's possible, how can I do it?
+- [00:03:23,519 - 00:03:25,440] Now you'd just teach them how to do it.
+- [00:03:25,440 - 00:03:26,440] How could I do it?
+- [00:03:26,440 - 00:03:28,880] How to multiply your income by 10.
+- [00:03:29,340 - 00:03:30,140] Now, jot this down.
+- [00:03:31,840 - 00:03:33,180] A good economic question.
+- [00:03:33,300 - 00:03:35,100] Once you've multiplied your income by 10,
+- [00:03:35,340 - 00:03:39,600] is it possible to multiply it by 10 again?
+- [00:03:43,100 - 00:03:44,880] Not only to multiply it by 10,
+- [00:03:44,940 - 00:03:47,420] but to multiply your income by 10 again.
+- [00:03:47,420 - 00:03:47,540] Again.
+- [00:03:50,460 - 00:03:55,320] Do you know anybody that makes $500 an hour?
+- [00:03:56,440 - 00:03:59,640] Can you think of someone?
+- [00:04:00,820 - 00:04:02,440] Makes $500 an hour?
+- [00:04:03,920 - 00:04:04,500] Right.
+- [00:04:04,660 - 00:04:07,640] My Beverly Hills lawyer makes more than $500 an hour.
+- [00:04:08,720 - 00:04:09,859] So jot this down.
+- [00:04:10,140 - 00:04:11,880] It's not only possible in America
+- [00:04:11,880 - 00:04:13,440] to multiply your income by 10,
+- [00:04:13,440 - 00:04:16,500] it's possible to multiply it by 10 again.
+- [00:04:19,380 - 00:04:20,800] Do you think kids would
+- [00:04:20,800 - 00:04:22,220] be excited to hear this philosophy?
+- [00:04:23,260 - 00:04:24,400] I'm sure they would.
+- [00:04:24,480 - 00:04:26,040] How can you multiply your income by 10
+- [00:04:26,040 - 00:04:26,420] and then multiply it by 10 again?
+- [00:04:26,440 - 00:04:30,160] Now, if you multiplied it by 10
+- [00:04:30,160 - 00:04:32,400] and then multiplied it again by 10,
+- [00:04:32,640 - 00:04:34,920] would it be possible,
+- [00:04:35,300 - 00:04:37,560] would it be possible
+- [00:04:37,560 - 00:04:40,720] to multiply it by 10 again?
+- [00:04:43,860 - 00:04:47,500] Can you think of anybody that makes $5,000 an hour?
+- [00:04:51,100 - 00:04:52,880] What do you think I get paid?
+- [00:04:53,080 - 00:04:55,500] I mean, this is such exciting stuff.
+- [00:04:55,500 - 00:04:56,240] I'm a kid.
+- [00:04:56,240 - 00:04:57,280] I'm a kid from the farms of Idaho.
+- [00:04:57,940 - 00:05:00,860] I was 25 years old before I learned
+- [00:05:00,860 - 00:05:03,040] that you could multiply your income by 10
+- [00:05:03,040 - 00:05:04,420] and then multiply it by 10 again
+- [00:05:04,420 - 00:05:08,820] and then multiply it by 10 again.
+- [00:05:08,820 - 00:05:08,840] Again.
+- [00:05:10,420 - 00:05:12,320] This is mind-boggling stuff.
+- [00:05:14,540 - 00:05:15,840] $5,000 an hour.
+- [00:05:16,100 - 00:05:18,000] Now, would it be possible,
+- [00:05:18,580 - 00:05:21,000] would it be possible
+- [00:05:21,000 - 00:05:24,100] to multiply it by 10 again?
+- [00:05:24,100 - 00:05:24,820] Again.
+- [00:05:26,240 - 00:05:28,880] Just to make sure the math is correct,
+- [00:05:28,880 - 00:05:30,120] is $5,000 an hour an hour?
+- [00:05:30,120 - 00:05:30,660] $5,000 an hour.
+- [00:05:30,660 - 00:05:33,660] $5,000 an hour.
+- [00:05:33,660 - 00:05:36,340] Now, here's a good expression to use,
+- [00:05:36,340 - 00:05:37,100] especially for this group.
+- [00:05:37,100 - 00:05:37,840] You're all tuned in,
+- [00:05:37,840 - 00:05:39,780] especially the last couple of days.
+- [00:05:39,780 - 00:05:41,220] The best expression is,
+- [00:05:41,220 - 00:05:42,700] of course.
+- [00:05:42,700 - 00:05:46,020] Could you multiply your income by 10?
+- [00:05:46,020 - 00:05:46,960] Of course.
+- [00:05:46,960 - 00:05:48,240] Could you do it again?
+- [00:05:48,240 - 00:05:49,600] Of course.
+- [00:05:49,600 - 00:05:51,280] Could you do it again?
+- [00:05:51,280 - 00:05:52,180] Of course.
+- [00:05:52,180 - 00:05:54,520] Could you do it one more time?
+- [00:05:54,520 - 00:05:55,140] Of course.
+- [00:05:55,140 - 00:05:55,940] 50 times an hour.
+- [00:05:55,940 - 00:05:58,480] $50,000 an hour.
+- [00:06:00,020 - 00:06:02,560] You know, I've lectured with General Schwarzkopf
+- [00:06:02,560 - 00:06:03,260] and Colin Powell.
+- [00:06:03,380 - 00:06:05,010] I had lunch once with
+- [00:06:05,010 - 00:06:06,640] Colin Powell a few years ago.
+- [00:06:07,980 - 00:06:13,100] Schwarzkopf gets about $65,000 for a one-hour speech.
+- [00:06:17,840 - 00:06:22,060] So how could you finally get to $50,000 an hour?
+- [00:06:22,060 - 00:06:27,400] Answer, become a general in the Army.
+- [00:06:28,020 - 00:06:28,540] Yes.
+- [00:06:29,500 - 00:06:32,560] And lead the troops in the Gulf War.
+- [00:06:33,280 - 00:06:36,420] But what I'm trying to say is the possibilities here,
+- [00:06:36,980 - 00:06:39,440] let's just say, are just unlimited.
+- [00:06:40,120 - 00:06:41,640] You can multiply your income by 10,
+- [00:06:41,860 - 00:06:43,540] then you can multiply it by 10 again,
+- [00:06:43,800 - 00:06:45,320] and you can multiply it by 10 again.
+- [00:06:45,560 - 00:06:47,340] Now, we're only talking economic values.
+- [00:06:47,420 - 00:06:48,720] There's all kinds of other values
+- [00:06:48,720 - 00:06:51,440] in terms of personal development, but this is it.
+- [00:06:52,060 - 00:06:57,100] Now, to climb this ladder, here's the possibilities.
+- [00:06:58,860 - 00:07:01,400] $63 million last year, one person earned.
+- [00:07:02,760 - 00:07:06,280] The possibilities, we would have to say, in our country,
+- [00:07:06,720 - 00:07:07,740] is what we call unlimited.
+- [00:07:08,060 - 00:07:10,010] Now, to climb this ladder as
+- [00:07:10,010 - 00:07:11,960] high as you wish to climb it.
+- [00:07:12,900 - 00:07:14,100] Jot this phrase down now,
+- [00:07:14,200 - 00:07:17,260] because I don't think I'll talk about anything more valuable
+- [00:07:17,260 - 00:07:18,540] than what I'm about to share with you.
+- [00:07:18,820 - 00:07:19,400] Here it is.
+- [00:07:19,400 - 00:07:21,920] To climb this ladder economically as high as you wish,
+- [00:07:21,920 - 00:07:22,420] you climb it.
+- [00:07:22,520 - 00:07:23,500] Here's all you have to do.
+- [00:07:24,060 - 00:07:27,100] Learn to work harder on yourself
+- [00:07:27,100 - 00:07:30,140] than you do on your job.
+- [00:07:31,600 - 00:07:34,570] Learn to work harder on yourself
+- [00:07:34,570 - 00:07:37,540] than you do on your job.
+- [00:07:40,740 - 00:07:42,620] Once I understood that philosophy,
+- [00:07:43,100 - 00:07:44,660] it totally changed my life.
+- [00:07:45,040 - 00:07:46,670] I made my first fortune by
+- [00:07:46,670 - 00:07:48,300] age 32, starting at age 25.
+- [00:07:50,640 - 00:07:51,300] And I've made...
+- [00:07:51,920 - 00:07:53,380] I've lost a few fortunes since then.
+- [00:07:55,100 - 00:07:58,600] That one simple philosophy,
+- [00:07:59,180 - 00:08:01,460] that it's possible to multiply your income by 10,
+- [00:08:01,620 - 00:08:03,660] and then by 10, and then by 10, by 10.
+- [00:08:03,840 - 00:08:05,380] And here's the simple way to do it.
+- [00:08:05,960 - 00:08:09,720] Work harder on yourself than you do on your job.
+- [00:08:12,600 - 00:08:13,860] Here's how it was put to me.
+- [00:08:14,000 - 00:08:15,390] If you work hard on your
+- [00:08:15,390 - 00:08:16,780] job, you can make a living,
+- [00:08:16,980 - 00:08:17,820] which is fantastic.
+- [00:08:17,820 - 00:08:19,820] If you work hard on
+- [00:08:19,820 - 00:08:21,820] yourself, you can make a fortune.
+- [00:08:21,920 - 00:08:23,920] Which is super fantastic.
+- [00:08:23,920 - 00:08:27,920] At age 25, I went to work on myself.
+- [00:08:27,920 - 00:08:34,919] The difference in my economic future was so startling,
+- [00:08:34,919 - 00:08:36,919] even in the early years, that I
+- [00:08:36,919 - 00:08:38,919] never went back to the old ways.
+- [00:08:38,919 - 00:08:40,919] I never went back to the old philosophy.
+- [00:08:40,919 - 00:08:43,919] I never went back to the old disciplines.
+- [00:08:43,919 - 00:08:45,920] I accepted the new ones,
+- [00:08:45,920 - 00:08:47,920] and it changed my life forever.
+- [00:08:47,920 - 00:08:49,920] Unbelievable.
+- [00:08:49,920 - 00:08:50,920] Here it is in fact.
+- [00:08:50,920 - 00:08:51,920] Here it is in fact.
+- [00:08:51,920 - 00:08:52,920] I'm going to use philosophical terms.
+- [00:08:52,920 - 00:08:53,920] Just jot this phrase down.
+- [00:08:53,920 - 00:08:54,920] This is a good one.
+- [00:08:54,920 - 00:09:02,920] Success is something you attract
+- [00:09:02,920 - 00:09:07,920] by becoming an attractive person.
+- [00:09:07,920 - 00:09:10,920] Success is not something you pursue.
+- [00:09:10,920 - 00:09:14,920] Success is something you attract
+- [00:09:14,920 - 00:09:16,920] by the person you become,
+- [00:09:16,920 - 00:09:20,920] by becoming an attractive person.
+- [00:09:21,920 - 00:09:23,420] Now, what could you think of
+- [00:09:23,420 - 00:09:24,920] that would start to make you
+- [00:09:24,920 - 00:09:31,920] more attractive to the marketplace?
+- [00:09:31,920 - 00:09:34,920] This is such simple ABC stuff.
+- [00:09:34,920 - 00:09:36,920] Okay?
+- [00:09:36,920 - 00:09:37,920] Let me give it to you.
+- [00:09:37,920 - 00:09:38,920] Let me start with this.
+- [00:09:38,920 - 00:09:45,920] Jim Rohn's view of the 21st century.
+- [00:09:45,920 - 00:09:47,920] We've begun a new century, 21.
+- [00:09:47,920 - 00:09:50,920] We've begun a new millennium, number seven.
+- [00:09:50,920 - 00:09:53,920] Some scholars hold great significance
+- [00:09:53,920 - 00:09:56,920] to this seventh millennium.
+- [00:09:56,920 - 00:09:58,920] And I think it's probably true.
+- [00:09:58,920 - 00:10:00,920] It's going to be the most extraordinary time
+- [00:10:00,920 - 00:10:03,920] in the history of the human race, I think.
+- [00:10:03,920 - 00:10:06,920] And these opening years now of the new millennium
+- [00:10:06,920 - 00:10:08,920] and the new century,
+- [00:10:08,920 - 00:10:10,920] how could you take advantage
+- [00:10:10,920 - 00:10:13,920] of this extraordinary time in human history
+- [00:10:13,920 - 00:10:18,920] and make for yourself an extraordinary life?
+- [00:10:18,920 - 00:10:19,920] Because it's all possible.
+- [00:10:19,920 - 00:10:21,920] So jot this little quote down now.
+- [00:10:21,920 - 00:10:23,420] It's one of the best I've
+- [00:10:23,420 - 00:10:24,920] come up with, I think, lately.
+- [00:10:24,920 - 00:10:27,920] And I'll just quote it slowly
+- [00:10:27,920 - 00:10:29,920] so you can jot it down and take it home.
+- [00:10:29,920 - 00:10:31,920] Here it is.
+- [00:10:31,920 - 00:10:37,920] From testimonials
+- [00:10:37,920 - 00:10:43,920] and from personal experience,
+- [00:10:43,920 - 00:10:48,920] we have enough information
+- [00:10:49,920 - 00:10:53,920] to conclude
+- [00:10:53,920 - 00:10:57,920] that it's possible
+- [00:10:57,920 - 00:10:59,920] to design
+- [00:10:59,920 - 00:11:02,920] and build
+- [00:11:02,920 - 00:11:05,920] and live
+- [00:11:05,920 - 00:11:09,920] an extraordinary life.
+- [00:11:09,920 - 00:11:13,920] From testimonials and from personal experience,
+- [00:11:13,920 - 00:11:17,920] we have enough information to conclude
+- [00:11:17,920 - 00:11:20,920] that it's possible to design and build and live
+- [00:11:20,920 - 00:11:21,920] an extraordinary life.
+- [00:11:21,920 - 00:11:24,920] I'd like to have you think about that,
+- [00:11:24,920 - 00:11:25,920] not just here,
+- [00:11:25,920 - 00:11:27,920] but even after you've gone back home.
+- [00:11:27,920 - 00:11:29,920] Think about it at least often enough
+- [00:11:29,920 - 00:11:30,920] to say,
+- [00:11:30,920 - 00:11:32,920] I think that's true.
+- [00:11:32,920 - 00:11:35,920] From testimonials
+- [00:11:35,920 - 00:11:37,920] and from personal experience,
+- [00:11:37,920 - 00:11:41,920] we have enough information to conclude
+- [00:11:41,920 - 00:11:45,920] that it's possible to design and build
+- [00:11:45,920 - 00:11:47,920] and live an extraordinary life.
+- [00:11:47,920 - 00:11:49,920] From testimonials and from personal experience,
+- [00:11:49,920 - 00:11:51,920] we have enough information to conclude
+- [00:11:51,920 - 00:11:53,920] that it's possible
+- [00:11:53,920 - 00:11:55,920] to design and build and live
+- [00:11:55,920 - 00:11:57,920] an extraordinary life.
+- [00:11:57,920 - 00:11:59,920] Now if you believe that and accept it,
+- [00:11:59,920 - 00:12:01,920] you just simply use that as a foundation,
+- [00:12:01,920 - 00:12:03,920] as the fundamentals.
+- [00:12:03,920 - 00:12:05,920] So now jot this down.
+- [00:12:05,920 - 00:12:07,920] Jim Rohn's view of the 21st century.
+- [00:12:07,920 - 00:12:08,920] Number one,
+- [00:12:08,920 - 00:12:10,920] unprecedented opportunity.
+- [00:12:10,920 - 00:12:12,920] Unprecedented opportunity.
+- [00:12:12,920 - 00:12:14,920] Unprecedented opportunity.
+- [00:12:14,920 - 00:12:17,920] Unprecedented opportunity.
+- [00:12:17,920 - 00:12:19,920] These are probably going to be
+- [00:12:19,920 - 00:12:20,920] the most extraordinary times
+- [00:12:20,920 - 00:12:21,920] in the history of the human race,
+- [00:12:21,920 - 00:12:26,920] 6,000 years of recorded history.
+- [00:12:26,920 - 00:12:31,920] We got through the last millennium.
+- [00:12:31,920 - 00:12:36,920] We especially got through the last century,
+- [00:12:36,920 - 00:12:38,920] a bloody century,
+- [00:12:38,920 - 00:12:40,920] the 20th century.
+- [00:12:40,920 - 00:12:42,920] Hopefully those major wars of devastation
+- [00:12:42,920 - 00:12:44,920] and destruction are behind us.
+- [00:12:44,920 - 00:12:47,920] World War II claimed 50 million lives.
+- [00:12:47,920 - 00:12:50,920] 19 million of them were Russian.
+- [00:12:50,920 - 00:12:55,920] The devastation of the 20th century
+- [00:12:55,920 - 00:12:57,920] was unparalleled and unprecedented.
+- [00:12:57,920 - 00:12:59,920] The savagery was unbelievable.
+- [00:12:59,920 - 00:13:02,920] The Holocaust was insanity
+- [00:13:02,920 - 00:13:04,920] of the most unbelievable kind.
+- [00:13:04,920 - 00:13:08,920] Hopefully that is in the century past.
+- [00:13:08,920 - 00:13:12,920] And that we have a new chance
+- [00:13:12,920 - 00:13:13,920] in a new century
+- [00:13:13,920 - 00:13:15,920] to build a new world
+- [00:13:15,920 - 00:13:16,920] and a new country
+- [00:13:16,920 - 00:13:17,920] and a new future.
+- [00:13:19,920 - 00:13:21,920] With all of the challenges.
+- [00:13:21,920 - 00:13:23,920] With Saddam Hussein,
+- [00:13:23,920 - 00:13:24,920] with the terrorists
+- [00:13:24,920 - 00:13:25,920] and all the rest.
+- [00:13:25,920 - 00:13:27,920] Once the walls came down
+- [00:13:27,920 - 00:13:29,920] about 12, 13 years ago,
+- [00:13:29,920 - 00:13:30,920] and I was just in Berlin
+- [00:13:30,920 - 00:13:32,920] the other day lecturing
+- [00:13:32,920 - 00:13:35,920] and had a chance to go to the Brandenburg Gate,
+- [00:13:35,920 - 00:13:36,920] Checkpoint Charlie,
+- [00:13:36,920 - 00:13:39,920] see part of the old Berlin Wall.
+- [00:13:39,920 - 00:13:41,920] Once those walls came down 13 years ago,
+- [00:13:41,920 - 00:13:42,920] the world now has forever changed.
+- [00:13:42,920 - 00:13:46,920] Because here's how the history
+- [00:13:46,920 - 00:13:48,920] of the human race reads.
+- [00:13:48,920 - 00:13:51,920] Opportunity mixed with difficulty.
+- [00:13:51,920 - 00:13:55,920] Sometimes more difficulty than opportunity.
+- [00:13:55,920 - 00:13:58,920] The history of the human race reads
+- [00:13:58,920 - 00:14:01,920] tyranny and liberty.
+- [00:14:01,920 - 00:14:05,920] Sometimes more tyranny than liberty.
+- [00:14:05,920 - 00:14:08,920] But now the world has totally changed.
+- [00:14:08,920 - 00:14:10,920] Since communism is on the run,
+- [00:14:10,920 - 00:14:11,920] the dead are on the run.
+- [00:14:11,920 - 00:14:13,920] The dictators, most of them,
+- [00:14:13,920 - 00:14:14,920] are all gone.
+- [00:14:14,920 - 00:14:16,920] When I used to lecture years ago
+- [00:14:16,920 - 00:14:17,920] in South America,
+- [00:14:17,920 - 00:14:18,920] every country had a dictator.
+- [00:14:18,920 - 00:14:20,920] Now they're all gone.
+- [00:14:20,920 - 00:14:21,920] Castro and a few are left,
+- [00:14:21,920 - 00:14:23,920] but that's it.
+- [00:14:23,920 - 00:14:25,920] And they will soon all be gone.
+- [00:14:25,920 - 00:14:26,920] Within a short little period
+- [00:14:26,920 - 00:14:28,920] of the rest of our lifetime,
+- [00:14:28,920 - 00:14:30,920] all the dictators will be gone.
+- [00:14:30,920 - 00:14:32,920] A new wave of economic uniqueness,
+- [00:14:32,920 - 00:14:34,920] capitalism, free enterprise,
+- [00:14:34,920 - 00:14:37,920] liberty, freedom, democracy
+- [00:14:37,920 - 00:14:39,920] is absolutely sweeping the world.
+- [00:14:39,920 - 00:14:41,920] So for a long dark time,
+- [00:14:41,920 - 00:14:43,920] there was more tyranny than liberty.
+- [00:14:43,920 - 00:14:46,920] Here's what is unique about this new century 21.
+- [00:14:46,920 - 00:14:50,920] More liberty than tyranny.
+- [00:14:50,920 - 00:14:57,920] More freedom than oppression.
+- [00:14:57,920 - 00:15:04,920] This is an unprecedented time.
+- [00:15:04,920 - 00:15:05,920] Unbelievable opportunity.
+- [00:15:05,920 - 00:15:07,920] We have the technology to accomplish
+- [00:15:07,920 - 00:15:09,920] the most incredible things.
+- [00:15:09,920 - 00:15:10,920] We pick up a telephone now
+- [00:15:10,920 - 00:15:11,920] and talk to somebody
+- [00:15:11,920 - 00:15:12,920] on the other side of the world
+- [00:15:12,920 - 00:15:13,920] with ease.
+- [00:15:13,920 - 00:15:16,920] It's incredible.
+- [00:15:16,920 - 00:15:17,920] We fly.
+- [00:15:17,920 - 00:15:18,920] We've got transportation.
+- [00:15:18,920 - 00:15:19,920] I get on an airplane.
+- [00:15:19,920 - 00:15:20,920] Thirteen hours later,
+- [00:15:20,920 - 00:15:21,920] I'm in Hong Kong.
+- [00:15:21,920 - 00:15:23,920] Five meals, three movies,
+- [00:15:23,920 - 00:15:24,920] and you're there.
+- [00:15:24,920 - 00:15:29,920] I mean, it's unbelievable.
+- [00:15:29,920 - 00:15:31,920] I leave at 7.30 this evening
+- [00:15:31,920 - 00:15:33,920] to fly all night to Orlando
+- [00:15:33,920 - 00:15:34,920] to speak to another group
+- [00:15:34,920 - 00:15:35,920] tomorrow in Orlando.
+- [00:15:35,920 - 00:15:36,920] It's amazing.
+- [00:15:36,920 - 00:15:37,920] With the jets,
+- [00:15:37,920 - 00:15:38,920] you can cover the world.
+- [00:15:38,920 - 00:15:39,920] I fly the Concorde
+- [00:15:39,920 - 00:15:40,920] three hours long.
+- [00:15:40,920 - 00:15:41,920] I fly the Concorde
+- [00:15:41,920 - 00:15:42,920] to London, New York.
+- [00:15:42,920 - 00:15:43,920] If you fly the Concorde,
+- [00:15:43,920 - 00:15:44,920] you can see two sunsets
+- [00:15:44,920 - 00:15:45,920] in one day.
+- [00:15:45,920 - 00:15:46,920] If you're in London,
+- [00:15:46,920 - 00:15:47,920] when the sun goes down,
+- [00:15:47,920 - 00:15:48,920] you fly the Concorde
+- [00:15:48,920 - 00:15:49,920] to New York,
+- [00:15:49,920 - 00:15:50,920] you watch the sun go down
+- [00:15:50,920 - 00:15:51,920] for the second time.
+- [00:15:51,920 - 00:15:52,920] I told the group
+- [00:15:52,920 - 00:15:53,920] at our little breakfast meeting
+- [00:15:53,920 - 00:15:54,920] this morning,
+- [00:15:54,920 - 00:15:55,920] if you fly the Concorde
+- [00:15:55,920 - 00:15:56,920] due west,
+- [00:15:56,920 - 00:15:57,920] the sun comes up in the west.
+- [00:15:57,920 - 00:15:58,920] If you haven't tried that,
+- [00:15:58,920 - 00:15:59,920] you must try it.
+- [00:15:59,920 - 00:16:00,920] On the Concorde,
+- [00:16:00,920 - 00:16:01,920] you meet unique people.
+- [00:16:01,920 - 00:16:02,920] I met Henry Kissinger
+- [00:16:02,920 - 00:16:03,920] on the Concorde.
+- [00:16:03,920 - 00:16:04,920] He said,
+- [00:16:04,920 - 00:16:05,920] I'm going to fly
+- [00:16:05,920 - 00:16:06,920] the Concorde
+- [00:16:06,920 - 00:16:07,920] to New York.
+- [00:16:07,920 - 00:16:08,920] I'm going to fly
+- [00:16:08,920 - 00:16:09,920] the Concorde
+- [00:16:09,920 - 00:16:10,920] to New York.
+- [00:16:10,920 - 00:16:11,920] I met Henry Kissinger
+- [00:16:11,920 - 00:16:12,920] on the Concorde.
+- [00:16:12,920 - 00:16:13,920] Henry said,
+- [00:16:13,920 - 00:16:14,920] I had breakfast in Paris.
+- [00:16:14,920 - 00:16:15,920] I'm having lunch
+- [00:16:15,920 - 00:16:16,920] here in London.
+- [00:16:16,920 - 00:16:17,920] I'm having dinner
+- [00:16:17,920 - 00:16:18,920] tonight in New York.
+- [00:16:18,920 - 00:16:21,920] If you fly the Concorde.
+- [00:16:21,920 - 00:16:22,920] Before his accident,
+- [00:16:22,920 - 00:16:23,920] I met Christopher Reeves
+- [00:16:23,920 - 00:16:24,920] a couple of times
+- [00:16:24,920 - 00:16:25,920] on the Concorde.
+- [00:16:25,920 - 00:16:27,920] I said to my business partner,
+- [00:16:27,920 - 00:16:28,920] we're going to be okay.
+- [00:16:28,920 - 00:16:29,920] Superman's on this plane.
+- [00:16:34,920 - 00:16:36,920] This is unprecedented opportunity
+- [00:16:36,920 - 00:16:37,920] now, the 21st century
+- [00:16:37,920 - 00:16:38,920] and the beginning
+- [00:16:38,920 - 00:16:39,920] of the seventh millennium.
+- [00:16:39,920 - 00:16:41,920] These are extraordinary times.
+- [00:16:41,920 - 00:16:42,920] Now here's number two.
+- [00:16:42,920 - 00:16:45,920] However, keen competition,
+- [00:16:45,920 - 00:16:48,920] world competition.
+- [00:16:48,920 - 00:16:50,920] We're dealing now with Iraq.
+- [00:16:50,920 - 00:16:54,920] A big part of it is competition.
+- [00:16:54,920 - 00:16:56,920] Hopefully the nations of the world
+- [00:16:56,920 - 00:16:57,920] will settle a big share
+- [00:16:57,920 - 00:16:58,920] of their differences
+- [00:16:58,920 - 00:17:02,920] so we can develop unique economic,
+- [00:17:02,920 - 00:17:04,920] social, personal prosperity
+- [00:17:04,920 - 00:17:06,920] for the future
+- [00:17:06,920 - 00:17:08,920] with limited conflicts.
+- [00:17:08,920 - 00:17:09,920] No more horrors.
+- [00:17:09,920 - 00:17:11,920] No more holocausts.
+- [00:17:11,920 - 00:17:13,920] Hopefully.
+- [00:17:13,920 - 00:17:14,920] But with the human race,
+- [00:17:14,920 - 00:17:15,920] you always have to keep
+- [00:17:15,920 - 00:17:17,920] your fingers crossed.
+- [00:17:17,920 - 00:17:19,920] Who knows?
+- [00:17:19,920 - 00:17:20,920] But I think it's going to be
+- [00:17:20,920 - 00:17:22,920] a time of unprecedented opportunity,
+- [00:17:22,920 - 00:17:25,920] but unique competition.
+- [00:17:25,920 - 00:17:26,920] Now to take advantage
+- [00:17:26,920 - 00:17:28,920] of the 21st century
+- [00:17:28,920 - 00:17:29,920] and this opening
+- [00:17:29,920 - 00:17:30,920] of the new millennium,
+- [00:17:30,920 - 00:17:32,920] how could you use
+- [00:17:32,920 - 00:17:34,920] the opportunity?
+- [00:17:34,920 - 00:17:36,920] Mind.
+- [00:17:36,920 - 00:17:37,920] Now that you've arrived,
+- [00:17:37,920 - 00:17:38,920] told me your story,
+- [00:17:38,920 - 00:17:43,920] I'm beginning to see the light.
+- [00:17:43,920 - 00:17:44,920] Words.
+- [00:17:44,920 - 00:17:45,920] The old prophet said this,
+- [00:17:45,920 - 00:17:48,920] words are like a lamp for your feet
+- [00:17:48,920 - 00:17:50,920] so you can see where to walk.
+- [00:17:50,920 - 00:17:52,920] And words are like a light
+- [00:17:52,920 - 00:17:54,920] for your pathway
+- [00:17:54,920 - 00:17:56,920] so you can see where to go.
+- [00:17:56,920 - 00:17:58,920] With words, you can show somebody
+- [00:17:58,920 - 00:18:01,920] where to step and where to go.
+- [00:18:01,920 - 00:18:02,920] Wow.
+- [00:18:02,920 - 00:18:03,920] I said a little prayer
+- [00:18:03,920 - 00:18:04,920] before I left my hotel room
+- [00:18:04,920 - 00:18:05,920] this morning
+- [00:18:05,920 - 00:18:06,920] and asked God to give me
+- [00:18:06,920 - 00:18:11,920] a little stronger gift of words today
+- [00:18:11,920 - 00:18:13,920] so that my words might have meaning.
+- [00:18:13,920 - 00:18:14,920] Maybe I've caught you
+- [00:18:14,920 - 00:18:16,920] at just the right time.
+- [00:18:16,920 - 00:18:19,920] Maybe this is the moment for you.
+- [00:18:19,920 - 00:18:20,920] And if I can say something
+- [00:18:20,920 - 00:18:22,920] uniquely enough,
+- [00:18:22,920 - 00:18:24,920] using the English language
+- [00:18:24,920 - 00:18:25,920] best as I can.
+- [00:18:25,920 - 00:18:27,920] Words are sometimes clumsy
+- [00:18:27,920 - 00:18:28,920] when you try to express
+- [00:18:28,920 - 00:18:30,920] what's going on in your head,
+- [00:18:30,920 - 00:18:32,920] let alone your heart.
+- [00:18:32,920 - 00:18:34,920] But if I can do as good a job
+- [00:18:34,920 - 00:18:35,920] as I possibly can
+- [00:18:35,920 - 00:18:37,920] in the session we've got this morning
+- [00:18:37,920 - 00:18:38,920] and then again this afternoon,
+- [00:18:38,920 - 00:18:39,920] by the time I'm finished,
+- [00:18:39,920 - 00:18:41,920] maybe my words will help turn on
+- [00:18:41,920 - 00:18:44,920] another light for you.
+- [00:18:44,920 - 00:18:45,920] And you'll be able to see
+- [00:18:45,920 - 00:18:46,920] the possibilities
+- [00:18:46,920 - 00:18:48,920] better than you've ever seen it before.
+- [00:18:48,920 - 00:18:49,920] You'll be able to see yourself
+- [00:18:49,920 - 00:18:51,920] more successful
+- [00:18:51,920 - 00:18:55,920] than you've ever envisioned it before.
+- [00:18:55,920 - 00:18:59,920] If I can wisely say good words.
+- [00:18:59,920 - 00:19:02,920] Now I've put communication in three parts
+- [00:19:02,920 - 00:19:04,920] because all three of these parts
+- [00:19:04,920 - 00:19:06,920] now help me make more fortunes.
+- [00:19:06,920 - 00:19:07,920] Here's the first one.
+- [00:19:07,920 - 00:19:08,920] It's called training.
+- [00:19:08,920 - 00:19:10,920] Training is simply showing somebody
+- [00:19:10,920 - 00:19:11,920] how to do the business,
+- [00:19:11,920 - 00:19:15,920] how to do the job.
+- [00:19:15,920 - 00:19:17,920] If you get good at that,
+- [00:19:17,920 - 00:19:18,920] the pay is incredible.
+- [00:19:18,920 - 00:19:20,920] Whether it's your own enterprise
+- [00:19:20,920 - 00:19:24,920] or whether you work for someone else.
+- [00:19:24,920 - 00:19:32,920] Training pays big money.
+- [00:19:32,920 - 00:19:33,920] Here's the next one.
+- [00:19:33,920 - 00:19:34,920] Teaching.
+- [00:19:34,920 - 00:19:35,920] And I've divided the two
+- [00:19:35,920 - 00:19:37,920] just to make the point.
+- [00:19:37,920 - 00:19:40,920] Teaching is more teaching life skills.
+- [00:19:40,920 - 00:19:41,920] Life skills.
+- [00:19:41,920 - 00:19:44,920] Teach somebody how to set goals.
+- [00:19:44,920 - 00:19:45,920] Gary mentioned, right,
+- [00:19:45,920 - 00:19:46,920] making the list and checking them off.
+- [00:19:46,920 - 00:19:48,920] Today he gets to check one off.
+- [00:19:48,920 - 00:19:51,920] Jim Rohn arrives in San Jose, Santa Clara.
+- [00:19:51,920 - 00:19:55,920] I'm so excited about that.
+- [00:19:55,920 - 00:19:57,920] Teaching leadership.
+- [00:19:57,920 - 00:19:59,920] Teaching management.
+- [00:19:59,920 - 00:20:01,920] Teaching how to become powerful,
+- [00:20:01,920 - 00:20:03,920] gifted, influential.
+- [00:20:03,920 - 00:20:09,920] Teaching father skills, mother skills.
+- [00:20:09,920 - 00:20:14,920] I've now the last 15 years learned grandfather skills.
+- [00:20:14,920 - 00:20:19,920] I set a goal when I became a grandfather
+- [00:20:19,920 - 00:20:21,920] to be one of the best grandfathers
+- [00:20:21,920 - 00:20:23,920] any grandchild ever had in the whole wide world.
+- [00:20:23,920 - 00:20:25,920] I practice it.
+- [00:20:25,920 - 00:20:27,920] I think about it.
+- [00:20:27,920 - 00:20:31,920] How to use my new found life as a grandfather
+- [00:20:31,920 - 00:20:32,920] and learn every skill I need.
+- [00:20:32,920 - 00:20:34,920] And learn every skill possible
+- [00:20:34,920 - 00:20:38,920] to dazzle my grandchildren.
+- [00:20:38,920 - 00:20:40,920] I'm one of the best.
+- [00:20:48,920 - 00:20:50,920] So teach people how to be good fathers,
+- [00:20:50,920 - 00:20:52,920] good grandfathers, good mothers,
+- [00:20:52,920 - 00:20:54,920] good leaders in the community.
+- [00:20:54,920 - 00:20:56,920] Teach a minister how to teach.
+- [00:20:56,920 - 00:20:58,920] Teach a minister how to use the gift of language
+- [00:20:58,920 - 00:21:00,920] to persuade.
+- [00:21:00,920 - 00:21:02,920] Okay.
+- [00:21:02,920 - 00:21:04,920] So communication is part of its training,
+- [00:21:04,920 - 00:21:05,920] part of its teaching.
+- [00:21:05,920 - 00:21:06,920] Here's the best part.
+- [00:21:06,920 - 00:21:08,920] No, here's number three in the gift of language.
+- [00:21:08,920 - 00:21:14,920] And that's learning how to inspire.
+- [00:21:14,920 - 00:21:17,920] Inspire simply means a few simple things.
+- [00:21:17,920 - 00:21:18,920] Here's number one.
+- [00:21:18,920 - 00:21:24,920] Help people to see themselves better than they are.
+- [00:21:24,920 - 00:21:26,920] Yes, sometimes we have to help people
+- [00:21:26,920 - 00:21:29,920] see themselves as they are.
+- [00:21:29,920 - 00:21:30,920] If they've made mistakes,
+- [00:21:30,920 - 00:21:32,920] maybe that needs to be pointed out.
+- [00:21:32,920 - 00:21:34,920] If a child has messed up,
+- [00:21:34,920 - 00:21:35,920] sometimes you've got to say,
+- [00:21:35,920 - 00:21:37,920] you've messed up.
+- [00:21:37,920 - 00:21:39,920] But don't leave them in the mess.
+- [00:21:39,920 - 00:21:42,920] Now transport them into the future
+- [00:21:42,920 - 00:21:44,920] with the gift of your language.
+- [00:21:44,920 - 00:21:48,920] And inspire them with the person they can become
+- [00:21:48,920 - 00:21:51,920] by using the mistakes of the past
+- [00:21:51,920 - 00:21:54,920] to develop new disciplines for the future.
+- [00:21:54,920 - 00:21:59,920] A teacher I met when I was 25 years old
+- [00:21:59,920 - 00:22:01,920] had this unusual gift.
+- [00:22:01,920 - 00:22:02,920] He said,
+- [00:22:02,920 - 00:22:04,920] Mr. Rohn, if you keep learning as you're learning now,
+- [00:22:04,920 - 00:22:05,920] one of these days you'll walk
+- [00:22:05,920 - 00:22:06,920] into a room full of people
+- [00:22:06,920 - 00:22:08,920] and you'll hear someone say,
+- [00:22:08,920 - 00:22:09,920] there's the man.
+- [00:22:09,920 - 00:22:11,920] That's the man.
+- [00:22:11,920 - 00:22:13,920] That's the famous man.
+- [00:22:13,920 - 00:22:16,920] I thought, well, that could never happen for me.
+- [00:22:16,920 - 00:22:18,920] Sure enough, it did.
+- [00:22:18,920 - 00:22:20,920] He said, it will happen.
+- [00:22:20,920 - 00:22:22,920] And I think when I walked in here this morning,
+- [00:22:22,920 - 00:22:23,920] I heard someone say,
+- [00:22:23,920 - 00:22:24,920] that's him.
+- [00:22:24,920 - 00:22:25,920] That's the man.
+- [00:22:25,920 - 00:22:26,920] That's the famous man.
+- [00:22:31,920 - 00:22:33,920] It's accurate.
+- [00:22:33,920 - 00:22:34,920] That's the best man.
+- [00:22:34,920 - 00:22:35,920] It's a man.
+- [00:22:35,920 - 00:22:36,920] It just helps me realize
+- [00:22:36,920 - 00:22:37,920] for real,
+- [00:22:37,920 - 00:22:59,920] he said,
+- [00:22:59,920 - 00:23:02,800] of language that can do that. Help them to
+- [00:23:02,800 - 00:23:05,680] have faith for themselves and faith for the future.
+- [00:23:09,280 - 00:23:12,760] The sacred writing says this, faith comes
+- [00:23:12,760 - 00:23:16,240] by hearing words, good words. Somebody who well
+- [00:23:16,240 - 00:23:19,120] chooses their words and delivers them with
+- [00:23:19,120 - 00:23:22,000] uniqueness can inspire faith for somebody to
+- [00:23:22,000 - 00:23:25,320] believe the most impossible things can be
+- [00:23:25,320 - 00:23:28,640] possible. And those, that excitement of possibilities
+- [00:23:28,640 - 00:23:33,280] comes from hearing or reading unique words.
+- [00:23:35,760 - 00:23:38,000] One of the best phrases I could give you for
+- [00:23:38,000 - 00:23:40,240] the day, here it is, don't be lazy in language.
+- [00:23:41,240 - 00:23:43,070] Don't be lazy in language because the
+- [00:23:43,070 - 00:23:44,900] gift of language can create a career.
+- [00:23:45,480 - 00:23:48,280] It can help somebody see the way into the future.
+- [00:23:48,280 - 00:23:51,080] It can help somebody change from who they are to
+- [00:23:51,080 - 00:23:54,370] who they would like to be. It will help you
+- [00:23:54,370 - 00:23:57,660] to see the gift of your own intellect. There's an
+- [00:23:57,660 - 00:23:58,140] innate relationship between you and somebody who
+- [00:23:58,140 - 00:23:58,620] loves you. And there's an innate relationship
+- [00:23:58,620 - 00:23:58,630] between you and somebody who loves you. And there's
+- [00:23:58,630 - 00:23:58,640] an innate relationship between you and somebody who's not.
+- [00:23:58,640 - 00:24:01,570] vocabulary in all of us that helps us to
+- [00:24:01,570 - 00:24:04,500] see, helps us to translate what's going on in the
+- [00:24:04,500 - 00:24:06,760] world, what's happening, so that we can make good
+- [00:24:06,760 - 00:24:09,020] decisions instead of poor ones. We can make less
+- [00:24:09,020 - 00:24:12,900] mistakes this year than we made last year. One of
+- [00:24:12,900 - 00:24:16,780] the major things to pray for is to be gifted
+- [00:24:16,780 - 00:24:19,600] in language, because it can have such a dynamic
+- [00:24:19,600 - 00:24:22,420] effect on your children. It can have such a dynamic
+- [00:24:22,420 - 00:24:25,200] effect on your business. It can have such a
+- [00:24:25,200 - 00:24:27,980] dynamic effect on your customers. It can have such a
+- [00:24:27,980 - 00:24:31,730] dynamic effect on your business partners. That not
+- [00:24:31,730 - 00:24:35,480] to continually get better and better at the gift
+- [00:24:35,480 - 00:24:39,550] of language would be a great mistake. Let it
+- [00:24:39,550 - 00:24:43,620] open doors. Nothing else will open the gift of your
+- [00:24:43,620 - 00:24:47,300] language. Let it help people to see possibilities that
+- [00:24:47,300 - 00:24:50,980] they cannot see now. And you join in in those
+- [00:24:50,980 - 00:24:54,120] possibilities and make another fortune and another fortune, all
+- [00:24:54,120 - 00:24:57,260] the way up the ladder as far as you
+- [00:24:57,260 - 00:24:57,840] wish to go.
+- [00:24:57,900 - 00:24:57,960] I don't know if you've ever heard of the phrase,
+- [00:24:57,960 - 00:24:57,980] I don't know if you've ever heard of the phrase,
+- [00:24:57,980 - 00:24:59,360] I don't know how high you need to go.
+- [00:25:04,380 - 00:25:06,570] What were the instructions given to the first
+- [00:25:06,570 - 00:25:08,760] couple after the garden experience, Adam and Eve,
+- [00:25:08,840 - 00:25:14,900] according to the storyteller? We've got some
+- [00:25:14,900 - 00:25:20,960] Bible scholars here right now. Instructions given to
+- [00:25:20,960 - 00:25:24,460] Adam and Eve after the garden experience. Here
+- [00:25:24,460 - 00:25:27,960] they are. Number one, multiply. It's a lonely
+- [00:25:27,960 - 00:25:32,480] place with just two people. Multiply. But here's one
+- [00:25:32,480 - 00:25:37,000] now that is so extraordinary, and I'm going to
+- [00:25:37,000 - 00:25:39,970] cover a little bit more of it during our
+- [00:25:39,970 - 00:25:42,940] ongoing session here today. Here was the second one. Be
+- [00:25:42,940 - 00:25:46,660] fruitful. Be fruitful, kind of an interesting
+- [00:25:46,660 - 00:25:50,380] phrase. When I lecture in other countries,
+- [00:25:50,480 - 00:25:53,460] sometimes it's difficult to find the right
+- [00:25:53,460 - 00:25:56,440] translation for be fruitful. Here's what I
+- [00:25:56,440 - 00:25:57,520] think fruitful means.
+- [00:25:57,960 - 00:26:04,280] Be productive. The example might be a tree, a fruit tree.
+- [00:26:04,280 - 00:26:10,600] Plant a fruit tree. Now, why do that? It's very simple.
+- [00:26:10,880 - 00:26:14,100] Teach it to your children. Number one, to survive.
+- [00:26:14,100 - 00:26:17,320] The first instinct is to survive. So be productive
+- [00:26:17,320 - 00:26:21,840] enough to survive. Be productive enough for your own survival.
+- [00:26:21,840 - 00:26:26,360] But is that the end of it? The answer is no,
+- [00:26:26,360 - 00:26:27,880] that's only the beginning of it.
+- [00:26:27,880 - 00:26:34,340] To produce enough for yourself is only the beginning. What's
+- [00:26:34,340 - 00:26:40,800] the rest? Here's number two. Get married. Now you've got to
+- [00:26:40,800 - 00:26:45,430] think of ways to produce more than you need for yourself. And
+- [00:26:45,430 - 00:26:50,060] guess what that does? It elevates you to a higher life. If you
+- [00:26:50,060 - 00:26:53,960] want to live this higher life of a companion, a
+- [00:26:53,960 - 00:26:57,860] wife, getting married, see that now changes the dynamics of your
+- [00:26:57,880 - 00:27:00,720] future. It's called stepping up to a better life. And to
+- [00:27:00,720 - 00:27:03,560] step up to a better life, here's what you simply do
+- [00:27:03,560 - 00:27:08,490] economically. You learn to provide and figure out a way
+- [00:27:08,490 - 00:27:13,420] to provide more than you need for yourself. You think of
+- [00:27:13,420 - 00:27:17,280] ways to provide enough for yourself and for someone else.
+- [00:27:17,280 - 00:27:21,140] Why think of someone else? Why not just think of
+- [00:27:21,140 - 00:27:24,250] yourself? Because that's a very limited way to live. Just thinking
+- [00:27:24,250 - 00:27:27,360] of your own survival. If you want to live a more
+- [00:27:27,360 - 00:27:27,610] flourishing life, then you need to think of how to provide more
+- [00:27:27,610 - 00:27:27,860] than you need for yourself. You need to think of how to
+- [00:27:27,860 - 00:27:29,749] unique life you must think now of someone
+- [00:27:29,749 - 00:27:31,639] else so now the man says I must
+- [00:27:31,639 - 00:27:34,279] produce enough for myself and for my
+- [00:27:34,279 - 00:27:36,919] wife is that the end of the life
+- [00:27:36,919 - 00:27:43,389] experience no now have children take a risk
+- [00:27:43,389 - 00:27:49,860] having a child is like a throw of
+- [00:27:49,860 - 00:27:57,199] the genetic dice who knows what's coming
+- [00:27:59,520 - 00:28:02,440] see what happens but now a man
+- [00:28:02,440 - 00:28:05,360] who now wants the experience of having children
+- [00:28:05,360 - 00:28:08,499] must now think of ways to produce
+- [00:28:08,499 - 00:28:11,639] enough for himself and for his family some
+- [00:28:11,639 - 00:28:14,369] says why do that why not just
+- [00:28:14,369 - 00:28:17,100] take care of yourself because that's such a
+- [00:28:17,100 - 00:28:19,580] beginning way to live
+- [00:28:19,580 - 00:28:19,840] survivalism is a way to live
+- [00:28:19,840 - 00:28:19,980] survivalism is a way to live
+- [00:28:19,980 - 00:28:26,939] okay but it's not the good life now take it
+- [00:28:26,939 - 00:28:29,639] a step further jot this one down a
+- [00:28:29,639 - 00:28:32,340] man now figures out because he's learned it
+- [00:28:32,340 - 00:28:34,869] now he's experienced and he understands what
+- [00:28:34,869 - 00:28:37,399] life is all about now he figures
+- [00:28:37,399 - 00:28:40,289] out how to produce more than he needs
+- [00:28:40,289 - 00:28:43,179] for himself and for his family just got
+- [00:28:43,179 - 00:28:45,849] the word down more keep thinking more how
+- [00:28:45,849 - 00:28:48,520] could I produce more than I need for
+- [00:28:48,520 - 00:28:49,560] myself and for my family
+- [00:28:49,560 - 00:28:51,700] Someone says, why do that?
+- [00:28:51,700 - 00:28:54,659] And the answer is to live a higher life,
+- [00:28:54,659 - 00:28:57,860] because now you can be generous.
+- [00:28:57,860 - 00:29:00,399] Now you can support worthy projects.
+- [00:29:04,399 - 00:29:05,980] Is that it?
+- [00:29:05,980 - 00:29:08,540] No.
+- [00:29:08,540 - 00:29:11,240] Here's the next one.
+- [00:29:11,240 - 00:29:14,020] To produce much more than you need for yourself
+- [00:29:14,020 - 00:29:15,780] and for your family.
+- [00:29:15,780 - 00:29:18,520] Someone says, why do that?
+- [00:29:18,520 - 00:29:22,360] And the answer is to live this higher life.
+- [00:29:28,760 - 00:29:30,500] What if you earned $10 million one year
+- [00:29:30,500 - 00:29:34,139] and you and your family only needed 3 million?
+- [00:29:34,139 - 00:29:35,259] That would probably take care
+- [00:29:35,259 - 00:29:36,379] of the average family, 3 million.
+- [00:29:36,379 - 00:29:38,440] Some families are more expensive than others,
+- [00:29:38,440 - 00:29:41,740] but let's say 3 million would pretty well take care
+- [00:29:41,740 - 00:29:43,780] of most families.
+- [00:29:43,780 - 00:29:45,340] But you made 10 million,
+- [00:29:45,340 - 00:29:47,420] and you and your family only needed 3 million.
+- [00:29:47,420 - 00:29:48,520] Now you've got that.
+- [00:29:48,520 - 00:29:52,600] You've got $7 million to give.
+- [00:29:52,600 - 00:29:56,520] Wouldn't you like to live that kind of life?
+- [00:29:56,520 - 00:30:00,960] Whew.
+- [00:30:00,960 - 00:30:05,440] Someone says, why do that?
+- [00:30:05,440 - 00:30:09,600] And the answer is, the possibilities of economics
+- [00:30:09,600 - 00:30:12,740] are so available that if you wish to,
+- [00:30:12,740 - 00:30:14,180] you can not only earn enough
+- [00:30:14,180 - 00:30:15,620] for yourself and for your family,
+- [00:30:15,620 - 00:30:16,180] you can earn more than you
+- [00:30:16,180 - 00:30:16,740] need for yourself and for your family.
+- [00:30:16,740 - 00:30:17,350] And if you wish to, you can
+- [00:30:17,350 - 00:30:17,960] earn more than you need for yourself
+- [00:30:17,960 - 00:30:18,169] and for your family, and if you wish to, you can
+- [00:30:18,169 - 00:30:18,379] earn more than you need for yourself and for your family.
+- [00:30:18,520 - 00:30:21,310] really wanted to you could earn much
+- [00:30:21,310 - 00:30:24,100] more than you need for yourself and for
+- [00:30:24,100 - 00:30:26,560] your family
+- [00:30:29,220 - 00:30:32,679] is that it let's take it one
+- [00:30:32,679 - 00:30:36,139] step further just got this phrase down figure
+- [00:30:36,139 - 00:30:39,389] out a way to earn far more than
+- [00:30:39,389 - 00:30:42,639] you need for yourself and for your family
+- [00:30:42,640 - 00:30:46,930] Gary talked about Mark Hughes I met Mark when
+- [00:30:46,930 - 00:30:51,220] he was 19 I still do a lot of work
+- [00:30:51,220 - 00:30:52,950] for Herbalife around the world he
+- [00:30:52,950 - 00:30:54,680] started this little company when he was
+- [00:30:54,680 - 00:30:57,100] 22 23 called Herbalife and he
+- [00:30:57,100 - 00:30:59,520] died just a couple of years ago
+- [00:30:59,520 - 00:31:02,030] Mark Hughes age 44 guess what he
+- [00:31:02,030 - 00:31:04,540] left number one a company worth 680 million
+- [00:31:04,540 - 00:31:07,950] dollars according to the new investors here's
+- [00:31:07,950 - 00:31:11,360] what he left his son 350 million
+- [00:31:11,360 - 00:31:12,620] you
+- [00:31:12,620 - 00:31:15,350] I do some estimated wealth he created
+- [00:31:15,350 - 00:31:18,080] for those who worked for him during the
+- [00:31:18,080 - 00:31:23,090] 20 years he was alive about three and
+- [00:31:23,090 - 00:31:28,100] a half billion imagine having the zest and
+- [00:31:28,100 - 00:31:31,940] having the wish and having the desire
+- [00:31:31,940 - 00:31:35,780] to create billions in wealth not just for
+- [00:31:35,780 - 00:31:39,200] yourself but for others 350 million
+- [00:31:39,200 - 00:31:42,620] nice little nest egg for your son
+- [00:31:42,620 - 00:31:48,020] somebody says why do that
+- [00:31:51,360 - 00:31:53,759] can you think of the best answer ever
+- [00:31:53,759 - 00:31:56,159] jump this phrase down why not right what
+- [00:31:56,159 - 00:32:00,969] else are you gonna do just hang in there
+- [00:32:00,969 - 00:32:05,780] until the bitter end No why not see how
+- [00:32:05,780 - 00:32:07,900] far up this economic ladder you can possibly
+- [00:32:07,900 - 00:32:10,020] go to see if you can't live an
+- [00:32:10,020 - 00:32:12,459] extraordinary life
+- [00:32:12,620 - 00:32:15,580] just an ordinary life, that's okay. Survival,
+- [00:32:15,580 - 00:32:18,540] that's okay. You and your family, that's okay.
+- [00:32:18,540 - 00:32:21,580] But if you could think larger than that, so that
+- [00:32:21,580 - 00:32:24,620] you really go to work on seeing who you could
+- [00:32:24,620 - 00:32:28,499] become in terms of influence, in terms
+- [00:32:28,499 - 00:32:32,379] of productivity, in terms of living the little
+- [00:32:32,379 - 00:32:35,939] phrase I give you called an extraordinary life.
+- [00:32:35,939 - 00:32:39,500] Ordinary would be okay. Extraordinary would be the best.
+- [00:32:42,620 - 00:32:45,139] Isn't this good stuff? Couldn't wait to
+- [00:32:45,139 - 00:32:47,659] get here and tell you about it.
+- [00:32:54,860 - 00:32:55,899] I could hardly wait to hear
+- [00:32:55,899 - 00:32:56,939] what I've got to say today.
+- [00:33:02,219 - 00:33:04,619] Okay, so number one, to
+- [00:33:04,619 - 00:33:07,020] take advantage of the 21st century,
+- [00:33:08,699 - 00:33:09,979] let me make sure I'm on track here.
+- [00:33:11,820 - 00:33:12,620] To take advantage of the 21st century,
+- [00:33:12,620 - 00:33:16,139] learn multiple skills. Let me give you one more now.
+- [00:33:16,139 - 00:33:19,659] It would be useful to know more than one language.
+- [00:33:21,340 - 00:33:22,980] When I travel the world, I have to
+- [00:33:22,980 - 00:33:24,620] have translators. The only way I can speak to
+- [00:33:24,620 - 00:33:27,100] someone in Japan or speak to someone in South
+- [00:33:27,100 - 00:33:29,580] Africa or speak to someone in Israel or speak
+- [00:33:29,580 - 00:33:33,300] to someone in Europe most of the time,
+- [00:33:33,300 - 00:33:37,020] I have to have someone translate for me.
+- [00:33:37,020 - 00:33:39,780] Somebody has to know more than one language to
+- [00:33:39,780 - 00:33:42,540] translate for me. And their gift of knowing more
+- [00:33:42,620 - 00:33:46,419] than one language makes them uniquely valuable. So
+- [00:33:46,419 - 00:33:50,219] that would be another wise idea. Learn more than
+- [00:33:50,219 - 00:33:52,939] one language and number two, learn more than
+- [00:33:52,939 - 00:33:55,659] one skill. Number two, learn more than one language.
+- [00:33:57,340 - 00:33:59,420] When I was growing up, my father spoke German.
+- [00:33:59,420 - 00:34:01,500] He was German, but he never taught me German.
+- [00:34:01,500 - 00:34:03,939] I could have learned it. My mother was English,
+- [00:34:03,939 - 00:34:06,379] but she spoke French, but she never taught me
+- [00:34:06,379 - 00:34:08,739] the French. When I was growing up, they said, you know, leave
+- [00:34:08,739 - 00:34:11,100] the old world languages behind. This is America now. English, English, English.
+- [00:34:11,100 - 00:34:11,459] This is America now. English, English, English.
+- [00:34:11,459 - 00:34:11,819] This is America now. English, English, English.
+- [00:34:12,620 - 00:34:15,659] Now we know much better. My parents, I could
+- [00:34:15,659 - 00:34:18,699] have learned three languages as easy as one growing up.
+- [00:34:20,060 - 00:34:22,820] So, if you think the time has passed
+- [00:34:22,820 - 00:34:25,580] for you to learn that second and third language,
+- [00:34:25,580 - 00:34:28,179] make this note now, it's one of the best for
+- [00:34:28,179 - 00:34:30,779] the day. Give it as a gift to your children.
+- [00:34:32,139 - 00:34:34,499] Encourage them to learn the second, third
+- [00:34:34,499 - 00:34:36,859] language, as many as they can learn.
+- [00:34:39,020 - 00:34:40,780] I asked the teacher one time, how many
+- [00:34:40,780 - 00:34:42,540] languages can a child learn? And she said,
+- [00:34:42,620 - 00:34:45,929] said, as many as you will teach them.
+- [00:34:45,929 - 00:34:49,239] They don't lack curiosity. They don't lack capacity. They
+- [00:34:49,239 - 00:34:53,989] only lack a teacher. Don't let your child develop
+- [00:34:53,989 - 00:34:58,740] 10% of what they're capable of. Don't let them
+- [00:34:58,740 - 00:35:01,680] develop 15% of what they're capable of. Give
+- [00:35:01,680 - 00:35:04,620] them the opportunity to learn as much percentage as
+- [00:35:04,620 - 00:35:08,760] possible of what they're capable of,
+- [00:35:08,760 - 00:35:12,900] and for yourself. So, multiple skills, multiple
+- [00:35:13,474 - 00:35:15,874] 自己在捲曲對手的聲音
+- [00:35:15,874 - 00:35:17,434] Now what's the rest?
+- [00:35:17,434 - 00:35:19,814] Taking advantage of the 21st century.
+- [00:35:24,014 - 00:35:25,014] Jot these notes down.
+- [00:35:27,614 - 00:35:28,854] Have you got this?
+- [00:35:28,854 - 00:35:30,954] Don't wanna erase it if you haven't got it.
+- [00:35:37,994 - 00:35:41,134] I've got five key things to talk about
+- [00:35:41,134 - 00:35:43,494] during my presentation for the day, five.
+- [00:35:43,494 - 00:35:46,434] Five good basic ideas.
+- [00:35:46,434 - 00:35:50,094] These are called basics, fundamentals.
+- [00:35:51,974 - 00:35:54,974] And it's interesting that I only have five.
+- [00:35:54,974 - 00:35:57,274] How many fundamentals are there to anything?
+- [00:35:58,814 - 00:36:01,174] Here's a good phrase, just a few,
+- [00:36:01,174 - 00:36:02,714] meaning anybody can learn them.
+- [00:36:02,714 - 00:36:05,814] There's just a few fundamentals to being healthy.
+- [00:36:05,814 - 00:36:06,994] If someone says, I'm gonna teach you
+- [00:36:06,994 - 00:36:08,814] the 50 fundamentals to good health,
+- [00:36:08,814 - 00:36:10,714] you say, well, that doesn't make sense.
+- [00:36:11,994 - 00:36:13,454] There's not
+- [00:36:13,454 - 00:36:17,694] 50 fundamentals to have good health.
+- [00:36:17,694 - 00:36:22,694] There's just a few, six, seven, eight, that's about it.
+- [00:36:23,974 - 00:36:25,494] If you wanna learn to play basketball,
+- [00:36:25,494 - 00:36:26,774] you gotta learn the fundamentals.
+- [00:36:26,774 - 00:36:30,234] How many fundamentals are there to the game of basketball?
+- [00:36:31,633 - 00:36:36,633] Just a few, five, six, if you become extremely gifted,
+- [00:36:37,314 - 00:36:40,074] maybe seven, eight, that's it, that's it.
+- [00:36:41,354 - 00:36:43,454] Now here's what's interesting also about fundamentals.
+- [00:36:43,454 - 00:36:44,694] There's no new ones.
+- [00:36:44,694 - 00:36:47,294] I mean, this stuff's been around for a long time.
+- [00:36:49,334 - 00:36:51,694] So beware of someone who says we got new truths.
+- [00:36:51,694 - 00:36:53,694] Say, no, truth is old.
+- [00:36:54,694 - 00:36:56,974] It can be, more of it can be discovered,
+- [00:36:56,974 - 00:36:58,974] but there's no new truth.
+- [00:37:01,974 - 00:37:03,974] If someone says, I'm manufacturing antiques,
+- [00:37:03,974 - 00:37:05,474] wouldn't you be a little suspicious?
+- [00:37:05,474 - 00:37:06,314] Say, no.
+- [00:37:06,314 - 00:37:07,154] I'm not.
+- [00:37:07,154 - 00:37:07,974] I'm not.
+- [00:37:07,974 - 00:37:08,814] I'm not.
+- [00:37:08,814 - 00:37:09,654] I'm not.
+- [00:37:09,654 - 00:37:10,474] I'm not.
+- [00:37:10,474 - 00:37:11,314] I'm not.
+- [00:37:11,314 - 00:37:12,154] I'm not.
+- [00:37:12,154 - 00:37:13,114] I'm not.
+- [00:37:13,454 - 00:37:14,294] I'm not.
+- [00:37:14,294 - 00:37:15,114] I'm not.
+- [00:37:15,114 - 00:37:15,954] I'm not.
+- [00:37:15,954 - 00:37:16,794] I'm not.
+- [00:37:16,794 - 00:37:17,633] I'm not.
+- [00:37:17,633 - 00:37:18,454] I'm not.
+- [00:37:18,454 - 00:37:19,334] I'm not.
+- [00:37:19,334 - 00:37:20,234] I'm not.
+- [00:37:20,234 - 00:37:21,053] I'm not.
+- [00:37:21,053 - 00:37:21,894] I'm not.
+- [00:37:21,894 - 00:37:22,734] I'm not.
+- [00:37:22,734 - 00:37:23,574] I'm not.
+- [00:37:23,574 - 00:37:24,413] I'm not.
+- [00:37:24,413 - 00:37:29,414] So skills and fundamentals are like antiques.
+- [00:37:30,294 - 00:37:32,474] They've been around forever.
+- [00:37:34,234 - 00:37:35,724] The law of averages I
+- [00:37:35,724 - 00:37:37,214] teach in one of my seminars,
+- [00:37:37,214 - 00:37:38,374] the law of averages,
+- [00:37:38,374 - 00:37:39,214] here's what it says.
+- [00:37:39,214 - 00:37:40,953] If you do something often enough,
+- [00:37:40,953 - 00:37:43,094] you'll soon have a ratio of results.
+- [00:37:43,454 - 00:37:46,474] Talk to 10 more, get another one.
+- [00:37:46,674 - 00:37:48,054] Talk to 10 more, get another one.
+- [00:37:49,134 - 00:37:51,154] Talk to 10 more, get two instead of one.
+- [00:37:51,734 - 00:37:52,374] Why is that?
+- [00:37:52,434 - 00:37:53,154] You're getting better.
+- [00:37:54,354 - 00:37:55,914] The law of averages works for anyone.
+- [00:37:58,474 - 00:38:00,114] One we've learned for a long time.
+- [00:38:00,194 - 00:38:00,794] Here it is.
+- [00:38:00,974 - 00:38:01,954] It doesn't ever change.
+- [00:38:01,954 - 00:38:03,574] Whether it's a church or a business,
+- [00:38:04,174 - 00:38:06,274] 20% of the people do 80%.
+- [00:38:06,274 - 00:38:07,954] 80% do 20%.
+- [00:38:07,954 - 00:38:17,474] So here's what I learned in time management.
+- [00:38:17,854 - 00:38:20,394] You can spend 80% of your time with the 20%,
+- [00:38:20,394 - 00:38:21,834] not the 80%.
+- [00:38:21,834 - 00:38:26,214] You spend 20% of your time with the 80%,
+- [00:38:26,214 - 00:38:28,354] 80% of your time with the 20%.
+- [00:38:28,354 - 00:38:32,534] You just have to learn.
+- [00:38:33,734 - 00:38:35,314] And these fundamentals now have been around
+- [00:38:35,314 - 00:38:36,314] for a long, long time.
+- [00:38:36,594 - 00:38:37,634] The 80-20 rule.
+- [00:38:37,954 - 00:38:39,954] The 80-20 rule.
+- [00:38:45,734 - 00:38:51,594] We bring products, tapes, books, videos, right?
+- [00:38:52,054 - 00:38:54,434] Things to buy for your ongoing education.
+- [00:38:54,854 - 00:38:57,994] We bring books and tapes and CDs.
+- [00:38:59,334 - 00:39:01,494] We bring all that stuff for how many people?
+- [00:39:04,134 - 00:39:05,354] You say, well, you'd bring
+- [00:39:05,354 - 00:39:06,574] enough for 100% of the people.
+- [00:39:06,574 - 00:39:07,134] No.
+- [00:39:07,954 - 00:39:09,554] No.
+- [00:39:09,554 - 00:39:10,014] No.
+- [00:39:11,014 - 00:39:11,534] No.
+- [00:39:15,774 - 00:39:19,534] You bring all the stuff for the 20%.
+- [00:39:19,534 - 00:39:22,474] Not the 80%.
+- [00:39:23,594 - 00:39:25,394] Isn't that fascinating?
+- [00:39:27,234 - 00:39:32,554] It's fascinating.
+- [00:39:32,974 - 00:39:35,034] People's different reaction to the same presentation.
+- [00:39:35,674 - 00:39:37,254] Someone walks out of my seminar and says,
+- [00:39:37,254 - 00:39:37,534] wow,
+- [00:39:37,534 - 00:39:38,974] I'm going to go change my life.
+- [00:39:38,974 - 00:39:40,374] Someone else walks out and says,
+- [00:39:40,374 - 00:39:42,094] I've heard all this stuff before.
+- [00:39:44,294 - 00:39:46,074] Same seminar.
+- [00:39:48,394 - 00:39:50,614] It said the first day the Christian church was started,
+- [00:39:50,614 - 00:39:53,634] first day, the speaker, Peter, got up,
+- [00:39:53,634 - 00:39:57,454] gave this classic presentation to a multitude,
+- [00:39:57,454 - 00:39:58,494] vast number of people.
+- [00:39:59,514 - 00:40:02,134] And what was interesting was when he finished
+- [00:40:02,134 - 00:40:03,714] the reaction to his presentation,
+- [00:40:04,714 - 00:40:06,354] it said some of the, I think,
+- [00:40:06,354 - 00:40:07,314] the most important things about the presentation,
+- [00:40:07,314 - 00:40:10,434] I think there were like, there were thousands.
+- [00:40:10,434 - 00:40:12,234] It said some of them laughed at him.
+- [00:40:12,234 - 00:40:13,534] And I thought, why would they laugh?
+- [00:40:13,534 - 00:40:15,474] He seemed sincere to me.
+- [00:40:15,474 - 00:40:17,274] And it said some of them mocked him.
+- [00:40:17,274 - 00:40:20,154] And I thought, why would they do that?
+- [00:40:20,154 - 00:40:21,574] Then I found out they're the mockers.
+- [00:40:21,574 - 00:40:24,174] That's what they're supposed to do.
+- [00:40:24,174 - 00:40:26,674] And the laughers are supposed to laugh.
+- [00:40:26,674 - 00:40:28,774] It said some that heard this magnificent presentation
+- [00:40:28,774 - 00:40:30,234] didn't know what was going on.
+- [00:40:30,234 - 00:40:31,154] And they're easy to spot.
+- [00:40:31,154 - 00:40:32,834] They're usually saying what's going on, right?
+- [00:40:32,834 - 00:40:34,834] I mean, they don't know what's happening.
+- [00:40:35,774 - 00:40:36,654] But then it says this.
+- [00:40:36,654 - 00:40:37,194] Some,
+- [00:40:37,194 - 00:40:38,954] that heard, believed.
+- [00:40:38,954 - 00:40:42,694] And the number that believed was about 3,000.
+- [00:40:42,694 - 00:40:44,434] Didn't give us the total,
+- [00:40:44,434 - 00:40:48,234] but out of the total, 3,000 said,
+- [00:40:48,234 - 00:40:50,074] hey, this is good enough to follow.
+- [00:40:50,074 - 00:40:52,414] So that's life.
+- [00:40:52,414 - 00:40:55,454] Once you learn the percentages, right?
+- [00:40:55,454 - 00:40:58,014] It's called the law of averages.
+- [00:40:58,014 - 00:40:59,033] It's one of the best studies.
+- [00:40:59,033 - 00:41:03,714] It's in some of my CDs and presentations.
+- [00:41:03,714 - 00:41:06,474] But now,
+- [00:41:07,194 - 00:41:10,194] let's talk about the fundamentals of life,
+- [00:41:10,194 - 00:41:13,194] the fundamentals of success.
+- [00:41:13,194 - 00:41:15,194] There's just a few.
+- [00:41:15,194 - 00:41:16,194] They're basic.
+- [00:41:16,194 - 00:41:21,194] It's like ABCs, which I deal with primarily, ABCs.
+- [00:41:21,194 - 00:41:23,194] So let's go through them.
+- [00:41:23,194 - 00:41:24,194] Here's number one.
+- [00:41:26,194 - 00:41:28,194] We've talked a little bit about it.
+- [00:41:28,194 - 00:41:30,194] By way of introductory, it's called,
+- [00:41:30,194 - 00:41:33,194] one, your personal philosophy.
+- [00:41:33,194 - 00:41:34,954] And it's a little bit more than that.
+- [00:41:34,954 - 00:41:35,954] It's a little bit more than that.
+- [00:41:35,954 - 00:41:36,954] It's a little bit more than that.
+- [00:41:36,954 - 00:41:37,954] It's a little bit more than that.
+- [00:41:37,954 - 00:41:39,954] It's a little bit more than that.
+- [00:41:39,954 - 00:41:41,954] Philosophy is a big subject.
+- [00:41:42,954 - 00:41:44,954] Political philosophy.
+- [00:41:44,954 - 00:41:46,954] Here's what the communists taught,
+- [00:41:46,954 - 00:41:47,954] because I have to deal with
+- [00:41:47,954 - 00:41:48,954] it when I go to Russia.
+- [00:41:48,954 - 00:41:49,954] The communists taught,
+- [00:41:49,954 - 00:41:56,954] capital belongs to the state, not the people.
+- [00:41:56,954 - 00:41:58,954] We've taught all these years what?
+- [00:41:58,954 - 00:42:03,954] Capital belongs to the people, not the state.
+- [00:42:03,954 - 00:42:05,954] Wow, what a difference in economic philosophy.
+- [00:42:06,954 - 00:42:09,954] The communists said, people are
+- [00:42:09,954 - 00:42:12,954] too dumb and stupid and greedy
+- [00:42:12,954 - 00:42:17,954] to know what to do with capital.
+- [00:42:17,954 - 00:42:20,454] So you've got to take capital away
+- [00:42:20,454 - 00:42:22,954] from all the dumb, stupid, greedy people
+- [00:42:22,954 - 00:42:27,954] and give all the capital to the all-wise, all-knowing state.
+- [00:42:27,954 - 00:42:30,954] And let the state run everything,
+- [00:42:30,954 - 00:42:32,954] and let the dumb, stupid people
+- [00:42:32,954 - 00:42:34,954] show up for their work assignment.
+- [00:42:34,954 - 00:42:35,954] That was the philosophy of communism.
+- [00:42:35,954 - 00:42:37,454] They devastated every country
+- [00:42:37,454 - 00:42:38,954] they touched with that philosophy.
+- [00:42:38,954 - 00:42:40,954] I was just in East Germany.
+- [00:42:40,954 - 00:42:42,954] Guess what it's taking just to clean
+- [00:42:42,954 - 00:42:44,954] up East Germany after the communists left?
+- [00:42:44,954 - 00:42:46,954] A trillion dollars.
+- [00:42:47,954 - 00:42:50,954] They've spent $500 billion already,
+- [00:42:50,954 - 00:42:53,954] and they've got another $500 billion to go
+- [00:42:53,954 - 00:42:56,454] just to clean up one
+- [00:42:56,454 - 00:42:58,954] country devastated by such a philosophy.
+- [00:42:58,954 - 00:43:00,954] Capital belongs to the state, not the people.
+- [00:43:00,954 - 00:43:02,954] Wow.
+- [00:43:02,954 - 00:43:05,954] The consequences of philosophy are,
+- [00:43:05,954 - 00:43:07,954] unbelievably, either on the good
+- [00:43:07,954 - 00:43:09,954] side or on the bad side.
+- [00:43:11,954 - 00:43:14,954] Now, personal philosophy.
+- [00:43:14,954 - 00:43:16,454] You know, there's religious
+- [00:43:16,454 - 00:43:17,954] philosophy and spiritual philosophy,
+- [00:43:17,954 - 00:43:21,954] and there's economic philosophy and social philosophy.
+- [00:43:21,954 - 00:43:22,954] Okay?
+- [00:43:22,954 - 00:43:25,954] Economic, political, all kinds of philosophies.
+- [00:43:25,954 - 00:43:26,954] Right?
+- [00:43:26,954 - 00:43:28,954] Where did we come from and where are we going?
+- [00:43:28,954 - 00:43:30,954] What is the meaning of life?
+- [00:43:30,954 - 00:43:34,954] Philosophy is a big tent with many different divisions.
+- [00:43:34,954 - 00:43:37,954] But the one I want to talk primarily about today,
+- [00:43:37,954 - 00:43:39,954] and then expand from that,
+- [00:43:39,954 - 00:43:41,954] is your personal philosophy.
+- [00:43:41,954 - 00:43:42,954] So jot this down.
+- [00:43:42,954 - 00:43:44,954] One of the best notes for the day.
+- [00:43:44,954 - 00:43:47,953] Each person's personal philosophy
+- [00:43:52,953 - 00:43:55,953] is the greatest determining factor
+- [00:43:55,953 - 00:43:57,953] in how your life works out.
+- [00:43:57,953 - 00:44:00,953] Each person's personal philosophy
+- [00:44:01,953 - 00:44:03,953] is the greatest determining factor
+- [00:44:04,954 - 00:44:06,954] in how your life works out.
+- [00:44:06,954 - 00:44:08,954] Your economic life, your personal life,
+- [00:44:08,954 - 00:44:10,954] your social life, your spiritual life.
+- [00:44:10,954 - 00:44:14,954] All starts with the conclusions you've made
+- [00:44:14,954 - 00:44:17,954] in your personal philosophy.
+- [00:44:17,954 - 00:44:20,954] We gave the example earlier on economics.
+- [00:44:20,954 - 00:44:23,954] There's three or four different philosophies to choose from
+- [00:44:23,954 - 00:44:25,954] in your economic future.
+- [00:44:27,954 - 00:44:29,954] Now, make this note.
+- [00:44:29,954 - 00:44:32,954] Personal philosophy is like a guidance system.
+- [00:44:34,954 - 00:44:36,954] A guidance system.
+- [00:44:36,954 - 00:44:38,954] And it has to start early.
+- [00:44:38,954 - 00:44:40,954] When a child goes to school,
+- [00:44:40,954 - 00:44:43,954] they've got to have a pretty good guidance system working.
+- [00:44:45,954 - 00:44:50,954] And this guidance system does just two things primarily.
+- [00:44:50,954 - 00:44:52,954] Here's number one.
+- [00:44:52,954 - 00:44:55,454] This guidance system helps you
+- [00:44:55,454 - 00:44:57,954] to see the dangers over here.
+- [00:44:57,954 - 00:45:00,954] And try to minimize those,
+- [00:45:00,954 - 00:45:03,954] or eliminate some of those,
+- [00:45:03,954 - 00:45:05,954] some of those.
+- [00:45:06,954 - 00:45:10,954] That's one of the first orders of human existence,
+- [00:45:10,954 - 00:45:13,954] is to learn early where the dangers are
+- [00:45:13,954 - 00:45:15,954] so they don't swallow you up,
+- [00:45:15,954 - 00:45:18,954] don't devastate you economically, socially, personally,
+- [00:45:18,954 - 00:45:20,954] or lose your life.
+- [00:45:20,954 - 00:45:24,954] Kids have to get this guidance system working early
+- [00:45:24,954 - 00:45:27,954] to spot the signals of the dangers
+- [00:45:27,954 - 00:45:30,954] that could wreck their chances to live a good life.
+- [00:45:31,954 - 00:45:32,954] Now, this guidance system,
+- [00:45:32,954 - 00:45:36,954] also helps you to see over here the opportunities
+- [00:45:36,954 - 00:45:38,954] so that you could maximize those.
+- [00:45:40,954 - 00:45:42,954] So if you learn to minimize the dangers,
+- [00:45:42,954 - 00:45:44,954] maximize the opportunities
+- [00:45:44,954 - 00:45:47,954] within this working environment now,
+- [00:45:47,954 - 00:45:49,954] we call this working things
+- [00:45:49,954 - 00:45:51,954] out to live a good life.
+- [00:45:53,954 - 00:45:56,954] But you can't possibly live much of a good life
+- [00:45:56,954 - 00:45:59,954] if you don't keep learning
+- [00:46:00,954 - 00:46:01,954] where the dangers are,
+- [00:46:01,954 - 00:46:03,954] so you can avoid those,
+- [00:46:03,954 - 00:46:05,954] and learn where the opportunities are
+- [00:46:05,954 - 00:46:07,954] so that you can maximize those.
+- [00:46:09,954 - 00:46:12,954] That's about as simple as I can put
+- [00:46:12,954 - 00:46:14,954] working on your personal philosophy.
+- [00:46:22,954 - 00:46:24,954] Now, why is it this way?
+- [00:46:25,954 - 00:46:28,954] Why is life both danger and opportunity?
+- [00:46:28,954 - 00:46:32,954] Here's the best advice I can give you.
+- [00:46:32,954 - 00:46:34,954] The storyteller probably gives us,
+- [00:46:34,954 - 00:46:38,954] you know, more to think about than in detail.
+- [00:46:38,954 - 00:46:40,954] But here's what it seems like.
+- [00:46:40,954 - 00:46:42,954] And that's one of the best phrases to use
+- [00:46:42,954 - 00:46:44,954] if you're going to make your studies
+- [00:46:44,954 - 00:46:46,954] and try to come to some good conclusions.
+- [00:46:46,954 - 00:46:48,954] It seems like,
+- [00:46:49,954 - 00:46:51,954] it seems like,
+- [00:46:52,954 - 00:46:56,954] God wished to create
+- [00:46:56,954 - 00:46:58,954] for the humans he made,
+- [00:46:58,954 - 00:47:00,954] a great adventure.
+- [00:47:01,954 - 00:47:02,954] Seems like.
+- [00:47:05,954 - 00:47:06,954] According to the storyteller,
+- [00:47:06,954 - 00:47:08,954] it seems like God wished to create
+- [00:47:08,954 - 00:47:10,954] a great adventure for the humans he created.
+- [00:47:13,954 - 00:47:15,954] That's the best explanation I've got.
+- [00:47:15,954 - 00:47:16,954] Seems like.
+- [00:47:17,954 - 00:47:19,954] And it seems like God's always wanted
+- [00:47:19,954 - 00:47:20,954] some kind of adventure.
+- [00:47:21,954 - 00:47:23,954] It said when he was alone in heaven,
+- [00:47:23,954 - 00:47:24,954] according to the storyteller,
+- [00:47:24,954 - 00:47:26,954] he created all these angels.
+- [00:47:26,954 - 00:47:27,954] That must have been fun.
+- [00:47:28,954 - 00:47:30,954] He created all these angels.
+- [00:47:30,954 - 00:47:32,954] He created all these angels.
+- [00:47:32,954 - 00:47:33,954] Doesn't say how long it took.
+- [00:47:33,954 - 00:47:35,954] Doesn't say how many.
+- [00:47:37,954 - 00:47:39,954] But evidently,
+- [00:47:40,954 - 00:47:42,954] he sought adventure.
+- [00:47:42,954 - 00:47:44,954] Part of the adventure, I guess,
+- [00:47:44,954 - 00:47:47,954] in those early times before the creation,
+- [00:47:47,954 - 00:47:50,954] was in heaven with the angels he created.
+- [00:47:50,954 - 00:47:53,954] Now then, he also creates an angel
+- [00:47:53,954 - 00:47:56,954] that's the best and the brightest of the angels
+- [00:47:56,954 - 00:47:57,954] called Lucifer.
+- [00:47:58,954 - 00:48:02,954] And so begins, according to the storyteller,
+- [00:48:02,954 - 00:48:05,954] one of the great adventures of all time.
+- [00:48:07,954 - 00:48:09,954] And along the way,
+- [00:48:09,954 - 00:48:11,954] the idea occurred to Lucifer
+- [00:48:11,954 - 00:48:13,954] that he could take over God's place,
+- [00:48:13,954 - 00:48:15,954] become God in his place.
+- [00:48:16,954 - 00:48:18,954] And he persuaded, according to the storyteller,
+- [00:48:18,954 - 00:48:20,954] he persuaded a third of the angels
+- [00:48:20,954 - 00:48:23,954] to go with him on this insurrection.
+- [00:48:24,954 - 00:48:27,954] So begins an unbelievable adventure.
+- [00:48:28,954 - 00:48:30,954] Seems like that's what God wishes.
+- [00:48:30,954 - 00:48:32,954] Some great adventure.
+- [00:48:32,954 - 00:48:34,454] Not just sit up there
+- [00:48:34,454 - 00:48:35,954] and float around on a cloud.
+- [00:48:35,954 - 00:48:37,954] Create some angels, create Lucifer.
+- [00:48:37,954 - 00:48:39,954] Lucifer persuades a third of the angels
+- [00:48:39,954 - 00:48:41,954] to go with him in insurrection.
+- [00:48:41,954 - 00:48:43,954] Now they lose out.
+- [00:48:43,954 - 00:48:46,954] And uniquely enough, according to the storyteller,
+- [00:48:46,954 - 00:48:48,954] God doesn't kill them all.
+- [00:48:48,954 - 00:48:50,954] That would end the adventure.
+- [00:48:50,954 - 00:48:52,954] But rather cast them out of heaven
+- [00:48:52,954 - 00:48:54,954] down into the sea.
+- [00:48:54,954 - 00:48:56,954] And so, in the end,
+- [00:48:56,954 - 00:48:59,954] God gives them a chance to go to heaven.
+- [00:48:59,954 - 00:49:02,954] But rather cast them out of heaven down to earth.
+- [00:49:02,954 - 00:49:05,954] And so now continues this unique story of Lucifer
+- [00:49:05,954 - 00:49:07,454] and his, the third of
+- [00:49:07,454 - 00:49:08,954] the angels now cast to earth,
+- [00:49:08,954 - 00:49:10,954] creates another adventure.
+- [00:49:11,954 - 00:49:13,954] Interesting.
+- [00:49:13,954 - 00:49:15,954] The Bible is such a fascinating book,
+- [00:49:15,954 - 00:49:17,954] giving us seemingly,
+- [00:49:17,954 - 00:49:19,954] you know, what God delights in
+- [00:49:19,954 - 00:49:21,954] and seems like God delights
+- [00:49:21,954 - 00:49:23,954] in creating this unique adventure.
+- [00:49:26,954 - 00:49:29,954] One of the ancient stories says
+- [00:49:29,954 - 00:49:31,954] God and Satan were talking things over one day.
+- [00:49:33,954 - 00:49:36,954] I thought, well, that doesn't seem possible.
+- [00:49:36,954 - 00:49:39,954] But the storyteller says they're looking down on the earth
+- [00:49:39,954 - 00:49:41,954] and they're talking things over.
+- [00:49:41,954 - 00:49:44,954] I thought, wow, that's remarkable.
+- [00:49:44,954 - 00:49:48,954] God and Satan getting together
+- [00:49:48,954 - 00:49:51,954] and talking things over.
+- [00:49:51,954 - 00:49:55,954] Now the storyteller doesn't give us many details.
+- [00:49:55,954 - 00:49:58,954] So we've got to use our imagination.
+- [00:50:00,954 - 00:50:02,954] And on this particular occasion,
+- [00:50:02,954 - 00:50:04,954] God got to bragging on one of his favorite creation.
+- [00:50:04,954 - 00:50:06,954] His favorite person.
+- [00:50:06,954 - 00:50:07,954] It's called Job.
+- [00:50:07,954 - 00:50:08,954] He said, Job and I
+- [00:50:08,954 - 00:50:09,954] have got this great friendship going.
+- [00:50:09,954 - 00:50:11,954] Job and I, we walk together.
+- [00:50:11,954 - 00:50:13,954] Job and I plan the future together.
+- [00:50:13,954 - 00:50:14,954] Job, Job, Job.
+- [00:50:14,954 - 00:50:16,954] Finally, Satan headed up to here with
+- [00:50:16,954 - 00:50:18,954] Job, Job, Job.
+- [00:50:18,954 - 00:50:20,954] And he said, yeah, God,
+- [00:50:20,954 - 00:50:22,954] Job, you've got a wall built around him.
+- [00:50:22,954 - 00:50:23,954] I can't get to him.
+- [00:50:23,954 - 00:50:24,954] God said, well, what would you expect?
+- [00:50:24,954 - 00:50:26,954] He's my favorite person.
+- [00:50:26,954 - 00:50:29,954] Of course, I've got a wall built around him.
+- [00:50:29,954 - 00:50:31,954] Now they're having this conversation.
+- [00:50:31,954 - 00:50:36,954] It's fascinating.
+- [00:50:36,954 - 00:50:40,954] Storyteller says, Satan gets this bright idea.
+- [00:50:40,954 - 00:50:42,954] He said, hey, God, let's try this.
+- [00:50:42,954 - 00:50:45,954] God said what?
+- [00:50:45,954 - 00:50:48,954] If you'll take the wall of protection down
+- [00:50:48,954 - 00:50:51,954] from around your favorite friend, Job,
+- [00:50:51,954 - 00:50:52,954] he said, I promise you
+- [00:50:52,954 - 00:50:53,954] within a short period of time,
+- [00:50:53,954 - 00:50:57,954] your favorite friend will curse you to your face.
+- [00:50:57,954 - 00:50:59,954] God said, no, he'd never do it.
+- [00:50:59,954 - 00:51:04,954] Not in 100 years, no matter what.
+- [00:51:04,954 - 00:51:07,954] Satan said, well, how are we going to know?
+- [00:51:07,954 - 00:51:12,954] Would you like to make a wager?
+- [00:51:12,954 - 00:51:17,954] It doesn't give us the details of the wager.
+- [00:51:17,954 - 00:51:22,954] But the storyteller says God picked up the bet.
+- [00:51:23,954 - 00:51:27,954] And said, okay, let's try it.
+- [00:51:27,954 - 00:51:29,454] I'll take the wall down
+- [00:51:29,454 - 00:51:30,954] from around my special friend, Job.
+- [00:51:30,954 - 00:51:31,954] You do your best.
+- [00:51:31,954 - 00:51:33,454] I promise you no matter what
+- [00:51:33,454 - 00:51:34,954] you do, he'll never curse me.
+- [00:51:34,954 - 00:51:38,954] Satan said, the bet is on.
+- [00:51:38,954 - 00:51:40,954] According to the terms of the wager,
+- [00:51:40,954 - 00:51:42,454] God did take the wall down
+- [00:51:42,454 - 00:51:43,954] from around his special friend, Job.
+- [00:51:43,954 - 00:51:51,954] And Satan then does one of his all-time famous numbers.
+- [00:51:51,954 - 00:51:53,954] According to the storyteller,
+- [00:51:53,954 - 00:51:59,954] first, Satan took his wealth.
+- [00:51:59,954 - 00:52:05,954] Stripped him of his wealth.
+- [00:52:05,954 - 00:52:08,954] Satan said, that'll do it.
+- [00:52:08,954 - 00:52:11,954] Where's your friend, God?
+- [00:52:11,954 - 00:52:14,954] He didn't curse God.
+- [00:52:14,954 - 00:52:15,954] Satan said, well.
+- [00:52:15,954 - 00:52:19,953] Number two, took his health.
+- [00:52:21,953 - 00:52:23,953] Below number two.
+- [00:52:23,953 - 00:52:25,953] Surely now he'll curse his friend, God.
+- [00:52:25,953 - 00:52:26,953] No.
+- [00:52:26,953 - 00:52:28,953] Below number three and the worst.
+- [00:52:28,953 - 00:52:31,953] Took his family.
+- [00:52:31,953 - 00:52:34,953] His health, his wealth, and his family.
+- [00:52:34,953 - 00:52:37,953] Gone.
+- [00:52:37,953 - 00:52:40,953] Satan said to God, here's where he does it.
+- [00:52:40,953 - 00:52:42,953] And sure enough, Job's wife comes along and says,
+- [00:52:42,953 - 00:52:45,954] Job, looks like your friend, God, has long forsaken you.
+- [00:52:45,954 - 00:52:47,954] You might as well curse him and die.
+- [00:52:47,954 - 00:52:49,954] And Satan said, here's where he does it.
+- [00:52:49,954 - 00:52:51,954] And God says, well, he hasn't talked yet.
+- [00:52:51,954 - 00:52:56,954] And while they both listen, Job says,
+- [00:52:56,954 - 00:52:59,454] never would I curse my
+- [00:52:59,454 - 00:53:01,954] friend, God, no matter what happens.
+- [00:53:01,954 - 00:53:03,954] God said, I knew it.
+- [00:53:03,954 - 00:53:04,954] I knew it.
+- [00:53:04,954 - 00:53:05,954] And picked up the bet.
+- [00:53:05,954 - 00:53:10,954] Whatever it was, doesn't tell it.
+- [00:53:10,954 - 00:53:12,954] Isn't that a fascinating story?
+- [00:53:12,954 - 00:53:15,954] Now, I say all of that to illustrate this.
+- [00:53:15,954 - 00:53:18,954] It seems like God delights in great adventure.
+- [00:53:18,954 - 00:53:19,954] And the only way to have
+- [00:53:19,954 - 00:53:20,954] great adventure is to have God's love.
+- [00:53:20,954 - 00:53:21,954] And the only way to
+- [00:53:21,954 - 00:53:22,954] have great adventure, it seems like,
+- [00:53:22,954 - 00:53:25,954] is to have both danger and opportunity,
+- [00:53:25,954 - 00:53:30,954] and us with the possibility of figuring it out.
+- [00:53:34,954 - 00:53:35,954] Jot this down.
+- [00:53:35,954 - 00:53:37,954] Now, it's a nice little list.
+- [00:53:37,954 - 00:53:40,954] ...from other people is to just pick up the signals.
+- [00:53:40,954 - 00:53:42,954] Part of it is by sight.
+- [00:53:42,954 - 00:53:45,954] Here's a good watchword for the 21st century.
+- [00:53:45,954 - 00:53:47,954] Pay attention.
+- [00:53:47,954 - 00:53:48,954] No use falling into the
+- [00:53:48,954 - 00:53:49,954] same trap somebody else fell into.
+- [00:53:49,954 - 00:53:52,454] No use living a mediocre
+- [00:53:52,454 - 00:53:54,954] life like somebody else has chosen.
+- [00:53:54,954 - 00:53:56,954] Take a look and say, is
+- [00:53:56,954 - 00:53:58,954] that what you really would like?
+- [00:53:58,954 - 00:53:59,954] Say, no.
+- [00:53:59,954 - 00:54:01,454] Here's somebody that never read
+- [00:54:01,454 - 00:54:02,954] the books, never made the changes.
+- [00:54:02,954 - 00:54:04,454] There was a class and they didn't take
+- [00:54:04,454 - 00:54:05,954] it, a skill and they never learned it,
+- [00:54:05,954 - 00:54:07,954] a discipline and they never tried it.
+- [00:54:07,954 - 00:54:09,454] And they blame the government
+- [00:54:09,454 - 00:54:10,954] and blame taxes and blame society.
+- [00:54:10,954 - 00:54:13,954] And they blame circumstances and all the rest.
+- [00:54:13,954 - 00:54:14,954] They don't know.
+- [00:54:14,954 - 00:54:16,954] And the key is, watch carefully.
+- [00:54:16,954 - 00:54:18,954] Don't you fall into that same trap.
+- [00:54:19,954 - 00:54:21,954] That's how we learn from what we see.
+- [00:54:21,954 - 00:54:22,954] Here's next.
+- [00:54:22,954 - 00:54:24,454] If we learn from what we see,
+- [00:54:24,454 - 00:54:25,954] we put some of this on video
+- [00:54:25,954 - 00:54:28,954] so you can see it again and again and again.
+- [00:54:28,954 - 00:54:31,954] Next, you learn from what you hear.
+- [00:54:31,954 - 00:54:34,454] We put it on CDs so you
+- [00:54:34,454 - 00:54:36,954] can hear it and hear it, hear it.
+- [00:54:38,954 - 00:54:40,954] We don't ask you to come to just one seminar.
+- [00:54:40,954 - 00:54:43,954] We ask you to come and listen again, listen again.
+- [00:54:45,954 - 00:54:47,954] Here's what the early Christians were taught.
+- [00:54:47,954 - 00:54:49,954] Don't neglect the assembly.
+- [00:54:49,954 - 00:54:51,454] When we call an assembly,
+- [00:54:51,454 - 00:54:52,954] do your best to be there.
+- [00:54:52,954 - 00:54:54,454] Because you never know which of these
+- [00:54:54,454 - 00:54:55,954] assemblies is going to change your life forever.
+- [00:54:55,954 - 00:54:57,954] You'll never be the same again.
+- [00:54:57,954 - 00:54:59,454] And you can't pick the one
+- [00:54:59,454 - 00:55:00,954] that's going to totally change your life.
+- [00:55:00,954 - 00:55:01,954] You just have to do like
+- [00:55:01,954 - 00:55:02,954] all of you I know do.
+- [00:55:02,954 - 00:55:05,454] Consistently go, consistently go,
+- [00:55:05,454 - 00:55:07,954] consistently go, consistently take notes,
+- [00:55:07,954 - 00:55:10,954] consistently go to seminars, lectures, and all of the rest,
+- [00:55:10,954 - 00:55:13,954] because some of them will be life-changing.
+- [00:55:17,954 - 00:55:19,954] Maybe this one will be for some of you.
+- [00:55:19,954 - 00:55:21,954] The time is right.
+- [00:55:21,954 - 00:55:22,954] The words are right.
+- [00:55:22,954 - 00:55:23,954] The ideas are right.
+- [00:55:23,954 - 00:55:25,954] The moment is here.
+- [00:55:25,954 - 00:55:26,954] We don't know.
+- [00:55:26,954 - 00:55:30,954] We just come as many times as we can.
+- [00:55:30,954 - 00:55:34,954] Be affected by as much language as we can.
+- [00:55:34,954 - 00:55:36,954] And see what that will do
+- [00:55:36,954 - 00:55:38,954] for our sight and our ambition,
+- [00:55:38,954 - 00:55:41,954] our willingness to develop skills.
+- [00:55:41,954 - 00:55:44,954] Be a leader, influential.
+- [00:55:47,954 - 00:55:48,954] Here's the next one.
+- [00:55:48,954 - 00:55:50,954] Be a selective listener.
+- [00:55:50,954 - 00:55:52,954] Don't just load up on
+- [00:55:52,954 - 00:55:54,954] stuff that isn't going to count.
+- [00:55:54,954 - 00:55:59,954] We all need a little humor.
+- [00:55:59,954 - 00:56:02,954] But not that much.
+- [00:56:02,954 - 00:56:06,954] Life is a pretty sober place.
+- [00:56:06,954 - 00:56:09,954] It's life or death.
+- [00:56:09,954 - 00:56:12,954] It's success or failure.
+- [00:56:12,954 - 00:56:16,954] It's flourishing or mediocrity.
+- [00:56:16,954 - 00:56:18,954] It's serious matter.
+- [00:56:18,954 - 00:56:21,954] So, make sure that what you
+- [00:56:21,954 - 00:56:24,954] listen to gives you the full range,
+- [00:56:24,954 - 00:56:27,954] a good diet of things to listen to.
+- [00:56:27,954 - 00:56:30,954] The positive, yes, but the negative also.
+- [00:56:30,954 - 00:56:32,954] We need to hear it from both sides.
+- [00:56:32,954 - 00:56:34,954] Okay?
+- [00:56:38,954 - 00:56:41,954] Years ago, I saw an advertisement once on Roseanne.
+- [00:56:41,954 - 00:56:44,954] Turn into Roseanne, white chicks talking trash.
+- [00:56:44,954 - 00:56:47,954] I thought, oh, America needs more of that.
+- [00:56:50,954 - 00:56:52,954] Now, you don't need much
+- [00:56:52,954 - 00:56:54,954] of that, white chicks talking trash.
+- [00:57:03,954 - 00:57:04,954] Here's a good note.
+- [00:57:04,954 - 00:57:05,954] This is a good one.
+- [00:57:05,954 - 00:57:07,954] My teacher taught me when I was 25,
+- [00:57:07,954 - 00:57:11,954] stand guard at the door of your mind.
+- [00:57:11,954 - 00:57:14,954] Stand guard at the door of your mind.
+- [00:57:14,954 - 00:57:17,954] And you decide what to listen
+- [00:57:17,954 - 00:57:20,954] to, what not to listen to.
+- [00:57:20,954 - 00:57:23,954] How much time to give to what.
+- [00:57:27,954 - 00:57:29,954] Now, the third one is important,
+- [00:57:29,954 - 00:57:31,954] and when we come back this afternoon, we'll continue it.
+- [00:57:31,954 - 00:57:33,954] But here's number three.
+- [00:57:33,954 - 00:57:35,954] Read all the books.
+- [00:57:39,954 - 00:57:41,454] Now, there's millions of books, so
+- [00:57:41,454 - 00:57:42,954] you can't read all the books.
+- [00:57:42,954 - 00:57:43,954] But here's what I mean by reading all the books.
+- [00:57:43,954 - 00:57:56,454] Read all the books you need to read to make your fortune
+- [00:57:56,454 - 00:58:08,954] become powerful, influential, healthy, prosperous, aware, bright, helpful, partnership, father, mother, grandparent.
+- [00:58:08,954 - 00:58:10,454] Read all the books you
+- [00:58:10,454 - 00:58:11,954] need for your life to flourish
+- [00:58:11,954 - 00:58:13,954] and become the best it can possibly
+- [00:58:13,954 - 00:58:15,954] be during the course of your lifetime.
+- [00:58:15,954 - 00:58:17,954] Read all of those books.
+- [00:58:17,954 - 00:58:19,954] Don't be short on that list.
+- [00:58:22,954 - 00:58:24,954] My library certainly won't do it.
+- [00:58:24,954 - 00:58:26,954] I've only written four or five books.
+- [00:58:27,954 - 00:58:29,954] I'm working now on my fifth.
+- [00:58:29,954 - 00:58:31,954] I think it's my fifth book.
+- [00:58:32,954 - 00:58:34,954] It's going to be for teenagers and college kids.
+- [00:58:34,954 - 00:58:36,954] And I think the title is going to be,
+- [00:58:36,954 - 00:58:38,954] Of course, kids should pay taxes.
+- [00:58:38,954 - 00:58:40,954] Of course.
+- [00:58:42,954 - 00:58:44,954] It's going to be an interesting book on capitalism.
+- [00:58:44,954 - 00:58:46,454] Because I teach capitalism now
+- [00:58:46,454 - 00:58:47,954] in Russia in very simple form.
+- [00:58:47,954 - 00:58:49,454] I might give you a couple
+- [00:58:49,454 - 00:58:50,954] notes on that when we return.
+- [00:58:51,954 - 00:58:53,954] I teach kids how to have two
+- [00:58:53,954 - 00:58:55,954] bicycles, one to ride and one to rent.
+- [00:58:55,954 - 00:58:57,454] It doesn't take long to get
+- [00:58:57,454 - 00:58:58,954] into business and make a profit.
+- [00:58:58,954 - 00:59:00,454] Here's what changed my life and
+- [00:59:00,454 - 00:59:01,954] helped me make my first fortune.
+- [00:59:01,954 - 00:59:02,954] Jot this down.
+- [00:59:02,954 - 00:59:04,954] The philosophy that helped me make my first fortune.
+- [00:59:04,954 - 00:59:06,954] Profits are better than wages.
+- [00:59:06,954 - 00:59:08,954] Once I understood that,
+- [00:59:08,954 - 00:59:11,954] it was hard to sleep nights the first year.
+- [00:59:11,954 - 00:59:14,954] Profits are better than wages.
+- [00:59:14,954 - 00:59:17,954] Wages make you a living, which is fine.
+- [00:59:17,954 - 00:59:20,954] Profits make you a fortune, which is super fine.
+- [00:59:21,954 - 00:59:23,454] And when I started at
+- [00:59:23,454 - 00:59:24,954] age 25, I started doing both.
+- [00:59:24,954 - 00:59:27,954] Making wages and making profits.
+- [00:59:28,954 - 00:59:29,954] Unbelievable.
+- [00:59:29,954 - 00:59:32,954] One simple philosophy changed my whole economic future.
+- [00:59:32,954 - 00:59:34,954] Profits are better than wages.
+- [00:59:38,954 - 00:59:40,954] I'm going to give you some.
+- [00:59:40,954 - 00:59:42,954] Read all the books necessary.
+- [00:59:42,954 - 00:59:44,454] Now I'm going to give
+- [00:59:44,454 - 00:59:45,954] you some that started my library.
+- [00:59:45,954 - 00:59:46,954] I've got one of the best.
+- [00:59:46,954 - 00:59:48,954] If you saw it, you'd be impressed.
+- [00:59:48,954 - 00:59:50,954] Haven't read everything in my library, but
+- [00:59:50,954 - 00:59:52,954] I feel smarter just walking in it.
+- [00:59:55,954 - 00:59:57,954] Okay, Gary, where are you?
+- [00:59:57,954 - 01:00:00,954] Enough for the first go around here.
+- [01:00:00,954 - 01:00:03,954] We'll be back this afternoon with some more.
+- [01:00:03,954 - 01:00:05,954] Thank you for your patience.
+- [01:00:05,954 - 01:00:07,954] Appreciate it very much.
+- [01:00:08,954 - 01:00:12,954] God bless. Amen.
+- [01:00:12,954 - 01:00:15,954] Ladies and gentlemen, Mr. Jim Rohn.
+- [01:00:15,954 - 01:00:17,954] Wow, thank you.
+- [01:00:17,954 - 01:00:19,954] Thanks, Gary.
+- [01:00:19,954 - 01:00:21,954] Appreciate it.
