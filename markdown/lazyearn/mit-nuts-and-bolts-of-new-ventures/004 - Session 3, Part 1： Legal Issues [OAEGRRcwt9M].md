@@ -1,0 +1,1844 @@
+# Transcript
+
+Source: lazyearn/mit-nuts-and-bolts-of-new-ventures/004 - Session 3, Part 1： Legal Issues [OAEGRRcwt9M].webm
+
+- [00:00:00,000 - 00:00:07,480] All right, Joe Hedzima here
+- [00:00:07,480 - 00:00:14,960] back again for tonight, Legal Issues.
+- [00:00:16,020 - 00:00:18,000] And a couple things I want
+- [00:00:18,000 - 00:00:19,980] to make clear at the beginning.
+- [00:00:20,560 - 00:00:24,000] This is for background information only, and
+- [00:00:24,000 - 00:00:27,440] it's not legal advice, even though it says
+- [00:00:27,440 - 00:00:28,160] legal issues.
+- [00:00:28,160 - 00:00:29,550] And the reason for that,
+- [00:00:29,550 - 00:00:30,940] there are at least two reasons.
+- [00:00:31,140 - 00:00:34,520] One is legal things are very fact-dependent, and
+- [00:00:34,520 - 00:00:37,900] so you could have similar facts that have
+- [00:00:37,900 - 00:00:39,060] different legal results.
+- [00:00:40,740 - 00:00:43,590] And I don't want you to apply a certain
+- [00:00:43,590 - 00:00:46,440] fact and assume you know what you're doing on that.
+- [00:00:46,980 - 00:00:51,060] The second is laws change, regulations change.
+- [00:00:51,300 - 00:00:53,520] We're seeing that right now in
+- [00:00:53,520 - 00:00:55,740] Washington with the new administration coming in.
+- [00:00:56,519 - 00:00:58,019] So things I say.
+- [00:00:58,020 - 00:01:00,400] I hear tonight may not apply a
+- [00:01:00,400 - 00:01:02,780] year from now or five years from now.
+- [00:01:03,760 - 00:01:07,320] What I would like you to do, though, and my
+- [00:01:07,320 - 00:01:10,880] goal here is to tell you some of the things
+- [00:01:10,880 - 00:01:12,100] you need to watch out for.
+- [00:01:12,600 - 00:01:16,710] Not to make you a do-it-yourself lawyer, but to
+- [00:01:16,710 - 00:01:20,820] say, if I see this thing, I might want
+- [00:01:20,820 - 00:01:23,220] to be careful or I might want to
+- [00:01:23,220 - 00:01:25,620] consult with somebody rather than go stumbling along and
+- [00:01:25,620 - 00:01:27,760] end up in a big pothole.
+- [00:01:28,020 - 00:01:29,960] So that's the goal.
+- [00:01:31,340 - 00:01:32,060] Excuse me.
+- [00:01:35,380 - 00:01:37,779] The other thing is I'm going to
+- [00:01:37,779 - 00:01:40,179] violate almost every rule of giving presentations.
+- [00:01:41,280 - 00:01:43,089] I'm going to give you,
+- [00:01:43,089 - 00:01:44,899] probably overload you with information tonight.
+- [00:01:45,780 - 00:01:47,940] And the reason is I figure I have
+- [00:01:47,940 - 00:01:50,100] one shot at telling you about this stuff.
+- [00:01:50,840 - 00:01:53,030] And the slides and the video are things you
+- [00:01:53,030 - 00:01:55,220] could go back to if you have an issue.
+- [00:01:56,060 - 00:01:57,800] Last night on our foundation.
+- [00:01:58,020 - 00:01:58,600] Founders panel.
+- [00:01:58,780 - 00:02:01,670] It was interesting to know that Peter Goldart
+- [00:02:01,670 - 00:02:04,560] said in talking about licensing that he had
+- [00:02:04,560 - 00:02:06,860] looked at my licensing materials and it was helpful.
+- [00:02:07,860 - 00:02:09,590] Well, you know, that was probably he must
+- [00:02:09,590 - 00:02:11,320] have taken the course five years ago or something.
+- [00:02:11,760 - 00:02:13,480] So I'll have some of those materials tonight.
+- [00:02:15,060 - 00:02:17,780] So anyway, that's that's the agenda.
+- [00:02:17,960 - 00:02:19,380] And let's see if we can get going here.
+- [00:02:20,880 - 00:02:22,690] I'm going to approach this through
+- [00:02:22,690 - 00:02:24,500] the life cycle of a new venture.
+- [00:02:25,359 - 00:02:25,800] OK.
+- [00:02:25,940 - 00:02:26,660] On the top.
+- [00:02:27,200 - 00:02:27,980] Going from left.
+- [00:02:28,100 - 00:02:28,600] To right.
+- [00:02:29,260 - 00:02:31,100] We're going from the very beginning.
+- [00:02:31,300 - 00:02:32,260] You have an idea.
+- [00:02:32,940 - 00:02:37,320] And then proceeding to pre outside financing.
+- [00:02:37,940 - 00:02:41,300] And then first and second round financings, etc.
+- [00:02:41,340 - 00:02:43,680] Those are the stages of your venture.
+- [00:02:44,300 - 00:02:48,830] And down the left side, the topics that I'm going to
+- [00:02:48,830 - 00:02:53,360] cover intellectual property, legal entity, people related issues and some financing things.
+- [00:02:54,420 - 00:02:56,100] And so even if I don't get through all of it, I'll get
+- [00:02:56,100 - 00:02:57,780] you through at least some of the things that I'm going to cover.
+- [00:02:58,020 - 00:02:59,780] So the beginning phases of it.
+- [00:03:00,600 - 00:03:02,620] We start off with the first two
+- [00:03:02,620 - 00:03:04,640] phases, which is I've got an idea.
+- [00:03:05,400 - 00:03:08,540] And then maybe I'm getting ready for outside financing.
+- [00:03:09,100 - 00:03:10,980] And we'll start with intellectual property.
+- [00:03:11,700 - 00:03:14,900] And in the next few slides, we're going to talk about,
+- [00:03:14,900 - 00:03:18,100] you know, who owns stuff and how do you protect it?
+- [00:03:19,340 - 00:03:19,600] OK.
+- [00:03:19,600 - 00:03:20,440] You with me so far?
+- [00:03:21,580 - 00:03:21,980] OK.
+- [00:03:22,020 - 00:03:22,460] Here we go.
+- [00:03:24,080 - 00:03:25,880] Well, why worry about intellectual property?
+- [00:03:26,140 - 00:03:26,900] You know, if you.
+- [00:03:26,900 - 00:03:32,930] This slide shows that back in 2015, 84 percent of the
+- [00:03:32,930 - 00:03:38,960] value, the market cap of the S&P 500 were represented by intangibles.
+- [00:03:39,980 - 00:03:42,460] Tangibles are things like, you know, plant equipment.
+- [00:03:43,280 - 00:03:49,970] And if you think historically, if we go back to pre industrial revolution, wealth or value was
+- [00:03:49,970 - 00:03:56,660] pretty much ownership of land or maybe shipping to bring things from one thing, a land to another.
+- [00:03:56,900 - 00:03:59,870] And then we hit the industrial revolution and
+- [00:03:59,870 - 00:04:02,840] wealth starts to get defined by plant and equipment.
+- [00:04:04,040 - 00:04:06,380] And capital raised to be able to do that.
+- [00:04:07,720 - 00:04:11,470] Now we're in a situation where a lot of what
+- [00:04:11,470 - 00:04:15,220] goes on is the intangible assets that a company has.
+- [00:04:16,160 - 00:04:17,740] Now, those include a bunch of things.
+- [00:04:17,740 - 00:04:19,240] It includes the people.
+- [00:04:20,180 - 00:04:23,000] It includes processes and ideas, etc.
+- [00:04:24,200 - 00:04:26,180] Some portion of that intangible.
+- [00:04:26,180 - 00:04:26,280] OK.
+- [00:04:26,280 - 00:04:29,460] Intangible is intellectual capital.
+- [00:04:30,320 - 00:04:33,359] That is things like ideas and processes.
+- [00:04:34,500 - 00:04:37,099] And some portion of that is intellectual property.
+- [00:04:37,140 - 00:04:39,300] That is some intellectual capital that
+- [00:04:39,300 - 00:04:41,460] can be protected and worked with.
+- [00:04:42,599 - 00:04:45,539] And so depending on the industry you're in, the
+- [00:04:45,539 - 00:04:48,479] amount of property you have versus capital may vary.
+- [00:04:49,080 - 00:04:51,059] But that's that's why this is an important
+- [00:04:51,059 - 00:04:53,039] set of stuff that you should know about.
+- [00:04:54,960 - 00:04:55,260] All right.
+- [00:04:55,260 - 00:04:56,179] We're going to talk about.
+- [00:04:56,280 - 00:04:57,840] Types of IP protection.
+- [00:04:58,799 - 00:05:01,080] Starting at the top, which is none.
+- [00:05:01,260 - 00:05:03,149] That is, you have some ideas and
+- [00:05:03,149 - 00:05:05,039] you just make them available to everybody.
+- [00:05:06,000 - 00:05:07,580] You don't do anything to protect them.
+- [00:05:09,520 - 00:05:13,050] To trade secret, which by definition you have
+- [00:05:13,050 - 00:05:16,580] a secret and other people don't know it.
+- [00:05:17,580 - 00:05:20,969] And so that can prevent others from doing what
+- [00:05:20,969 - 00:05:24,359] you're doing because they don't really know what you're doing.
+- [00:05:24,659 - 00:05:24,900] Right.
+- [00:05:25,020 - 00:05:25,559] Makes sense.
+- [00:05:26,280 - 00:05:29,129] The next two categories, trademark and I'm going to
+- [00:05:29,129 - 00:05:31,979] go in more detail and the next future slides.
+- [00:05:32,400 - 00:05:41,080] Trademarks are our symbols or words or stuff that express a brand of a
+- [00:05:41,080 - 00:05:49,760] company and copyright, which is a protection of copying of something you write or produce.
+- [00:05:50,580 - 00:05:52,740] Now, these this says these enhanced
+- [00:05:52,740 - 00:05:54,900] values, but they don't really block others.
+- [00:05:54,900 - 00:05:59,430] So Coca-Cola, Coke has a trademark that
+- [00:05:59,430 - 00:06:03,960] doesn't prevent Pepsi from offering a similar product.
+- [00:06:04,260 - 00:06:06,239] You just can't do it under the name Coke.
+- [00:06:07,780 - 00:06:10,550] Copyright, as you'll see, protects the expression
+- [00:06:10,550 - 00:06:13,320] of an idea, not the idea itself.
+- [00:06:14,099 - 00:06:17,849] So it does provide value to you, but it
+- [00:06:17,849 - 00:06:21,599] doesn't prevent others from using your expression of an idea.
+- [00:06:22,919 - 00:06:24,840] Patent, on the other hand, cuts.
+- [00:06:24,840 - 00:06:24,859] By.
+- [00:06:24,859 - 00:06:24,880] By.
+- [00:06:24,880 - 00:06:25,420] Both ways.
+- [00:06:26,260 - 00:06:28,640] You have real rights, as you'll see in
+- [00:06:28,640 - 00:06:31,020] a patent, to prevent others from doing things.
+- [00:06:31,659 - 00:06:34,699] But in order to get a patent, you have
+- [00:06:34,699 - 00:06:37,740] to explain what it is you're patenting, your idea.
+- [00:06:38,340 - 00:06:40,880] And you're given a limited time monopoly
+- [00:06:40,880 - 00:06:43,420] where you can control who uses that idea.
+- [00:06:43,940 - 00:06:48,640] But by disclosing the idea, other people learn from it.
+- [00:06:49,540 - 00:06:50,540] And, you know, we don't like.
+- [00:06:53,120 - 00:06:54,540] We don't like monopolies.
+- [00:06:54,540 - 00:06:56,800] We have antitrust laws, et cetera.
+- [00:06:57,560 - 00:06:58,980] But the concept of a
+- [00:06:58,980 - 00:07:00,400] patent goes back to the Constitution.
+- [00:07:01,660 - 00:07:05,530] And the societal tradeoff is we'll give inventors a
+- [00:07:05,530 - 00:07:09,400] limited time monopoly in exchange for them explaining their invention.
+- [00:07:09,740 - 00:07:11,560] And that way, we sort
+- [00:07:11,560 - 00:07:13,380] of build on stuff over time.
+- [00:07:13,760 - 00:07:15,960] And it's viewed to be a good societal tradeoff.
+- [00:07:17,020 - 00:07:19,080] There can be combinations of protections.
+- [00:07:19,080 - 00:07:21,730] For example, software can be
+- [00:07:21,730 - 00:07:24,380] protected using copyright and patent.
+- [00:07:24,540 - 00:07:25,540] And, you know, when they're already
+- [00:07:25,540 - 00:07:26,540] registered, software members can have the data.
+- [00:07:26,720 - 00:07:28,760] Everything is going to work.
+- [00:07:28,760 - 00:07:29,580] Equivalent fee.
+- [00:07:29,860 - 00:07:31,540] But we don't writemanas to deal with the private sector.
+- [00:07:31,540 - 00:07:32,420] We are supposed to deal with private addresses.
+- [00:07:32,420 - 00:07:33,380] You have to deal with the
+- [00:07:33,380 - 00:07:34,340] private driver's seat, not the company itself.
+- [00:07:34,340 - 00:07:35,000] So we bear formal關係.
+- [00:07:35,000 - 00:07:35,980] But these are the types.
+- [00:07:35,980 - 00:07:36,860] The duration of how long these last.
+- [00:07:36,960 - 00:07:38,070] You know, trade secret can go on
+- [00:07:38,070 - 00:07:39,180] forever, as long as you keep it secret.
+- [00:07:39,180 - 00:07:40,950] At the other end, patents in theU.S. have a
+- [00:07:40,950 - 00:07:42,720] life of 20 years and the date of filing.
+- [00:07:42,720 - 00:07:44,040] So limited time monopoly versus long term.
+- [00:07:45,500 - 00:07:47,980] The cost goes in the other direction.
+- [00:07:48,380 - 00:07:51,000] That is, in general, patents are the
+- [00:07:51,000 - 00:07:53,620] most expensive thing to get and and maintain.
+- [00:07:53,620 - 00:07:54,080] So at.
+- [00:07:54,080 - 00:07:57,830] trade secrets can be expensive if you you know
+- [00:07:57,830 - 00:08:01,580] have to protect plants and things like that but
+- [00:08:01,580 - 00:08:05,119] in general much less expensive so that's sort of a
+- [00:08:05,119 - 00:08:08,659] overview of the types of IP and now I'm going to
+- [00:08:08,659 - 00:08:12,109] sort of dig into the individuals in a little more
+- [00:08:12,109 - 00:08:15,560] detail so if we go to a trade secret by definition
+- [00:08:15,560 - 00:08:18,380] is it's a secret that gives you an advantage
+- [00:08:18,380 - 00:08:21,200] in the marketplace I mentioned the formula for coke
+- [00:08:21,200 - 00:08:26,480] the protection grants is granted state by state
+- [00:08:26,480 - 00:08:31,760] each state has trade secret laws and of course
+- [00:08:31,760 - 00:08:35,070] the secret at last as long as you keep
+- [00:08:35,070 - 00:08:38,380] it secret so if you're going to disclose something to
+- [00:08:38,380 - 00:08:42,190] somebody in in the real secret you might
+- [00:08:42,190 - 00:08:46,000] use a non disclosure agreement where people agree that
+- [00:08:46,000 - 00:08:48,590] you know you're going to get this for a
+- [00:08:48,590 - 00:08:51,180] specific purpose for a certain time for your venture
+- [00:08:51,180 - 00:08:55,370] plan or your pitch keep all of that secret out
+- [00:08:55,370 - 00:08:59,560] of it you know people don't you know they want to
+- [00:08:59,560 - 00:09:02,689] know in Bob Jones's parlance you know what is
+- [00:09:02,689 - 00:09:05,819] it that you have that's valuable and why is it
+- [00:09:05,819 - 00:09:08,939] valuable they don't have to explain exactly how it's
+- [00:09:08,939 - 00:09:12,060] done if people really want to know it you
+- [00:09:12,060 - 00:09:15,980] you go into a non-disclosure
+- [00:09:15,980 - 00:09:19,900] agreement okay trademark or service marks
+- [00:09:21,180 - 00:09:25,019] this is developing a name for yourself it's like a
+- [00:09:25,019 - 00:09:28,859] brand a trademark is for goods service mark is for
+- [00:09:28,859 - 00:09:33,359] services it's what customers think of when they see
+- [00:09:33,359 - 00:09:37,859] something that's a symbol a word a phrase can
+- [00:09:37,859 - 00:09:41,179] be sound it can even be color I think
+- [00:09:41,179 - 00:09:44,500] most people would recognize although I I couldn't afford what
+- [00:09:44,500 - 00:09:47,840] a shoes and probably wouldn't look good on
+- [00:09:47,840 - 00:09:51,180] me the red sole shoe is protected by trademark
+- [00:09:51,180 - 00:09:55,970] it's a mark under which you sell goods or
+- [00:09:55,970 - 00:10:00,760] services it can be what's called a housemark describing the
+- [00:10:00,760 - 00:10:05,010] company like Lenovo is a brand MGM studios had the
+- [00:10:05,010 - 00:10:09,260] Lions Roar if you remember on the you say oh that
+- [00:10:09,260 - 00:10:11,890] must you don't even know need to know what it says
+- [00:10:11,890 - 00:10:14,520] you know the Lions Roar it can also be a product
+- [00:10:14,520 - 00:10:17,090] that that house offers so Lenovo has the thing
+- [00:10:17,090 - 00:10:19,660] that's called the Lion Roar it's the front door
+- [00:10:19,660 - 00:10:20,259] it's the front door and it's the back door and then
+- [00:10:20,259 - 00:10:20,859] you have a logo if you're in the back door you
+- [00:10:20,859 - 00:10:21,009] have the logo and then you have the logo you have
+- [00:10:21,009 - 00:10:21,160] the logo and then you have the logo and then you have
+- [00:10:21,160 - 00:10:26,679] Pad as a laptop computer and Rocky the
+- [00:10:26,679 - 00:10:32,199] movie was made by MGM. The rights for a
+- [00:10:32,199 - 00:10:35,649] trademark arise through use. If you
+- [00:10:35,649 - 00:10:39,100] begin using something you potentially have a
+- [00:10:39,100 - 00:10:44,149] trademark on it and it can last forever.
+- [00:10:44,149 - 00:10:49,199] There's no limit on how long it can. Now
+- [00:10:49,200 - 00:10:52,380] registration federally and I should have
+- [00:10:52,380 - 00:10:55,560] said at the beginning I'm only
+- [00:10:55,560 - 00:10:58,570] going to be talking about US law on
+- [00:10:58,570 - 00:11:01,580] all of this stuff. So federal registration of
+- [00:11:01,580 - 00:11:05,880] a trademark provides certain protections. Before
+- [00:11:05,880 - 00:11:10,180] you register your mark you might
+- [00:11:10,180 - 00:11:12,500] want you you should put TM next to
+- [00:11:12,500 - 00:11:14,820] them to the name you're using or claiming as
+- [00:11:14,820 - 00:11:16,560] a mark. If it's a goods
+- [00:11:16,560 - 00:11:18,300] or SM if it's a service.
+- [00:11:18,300 - 00:11:18,740] You should put TM next to the name you're using or claiming
+- [00:11:18,740 - 00:11:19,180] as a mark if it's a goods or SM if it's a service.
+- [00:11:19,180 - 00:11:24,100] And only after you register it federally you don't have to register it
+- [00:11:24,100 - 00:11:29,020] but only after you register it can you put the R in the circle.
+- [00:11:29,020 - 00:11:35,429] Now the rights you get when you have a registered trademark is you're protected
+- [00:11:35,429 - 00:11:41,839] against other people using that mark for a given set of goods and services.
+- [00:11:41,839 - 00:11:45,059] With the exception of what's called a
+- [00:11:45,059 - 00:11:48,280] senior unregistered user. So what's that mean.
+- [00:11:48,280 - 00:11:52,400] Well when McDonald's went to register the Golden
+- [00:11:52,400 - 00:11:56,520] Arches and the name McDonald's as a for restaurants.
+- [00:11:56,520 - 00:12:00,350] It turned out that there was a restaurant
+- [00:12:00,350 - 00:12:04,180] couple restaurant chain in upstate New York named McDonald's.
+- [00:12:04,180 - 00:12:07,270] And so they could make that unregistered mark of
+- [00:12:07,270 - 00:12:10,360] McDonald's in upstate New York from the southern end.
+- [00:12:10,360 - 00:12:14,240] They can continue to operate in the geographic region
+- [00:12:14,240 - 00:12:18,120] region. But if they were to once McDonald's registered federally.
+- [00:12:18,280 - 00:12:21,780] They couldn't move that restaurant to say
+- [00:12:21,780 - 00:12:25,280] Arizona because McDonald's would have rights over that.
+- [00:12:25,280 - 00:12:29,780] As I said right to use the right to
+- [00:12:29,780 - 00:12:34,280] the mark comes when you start to use it.
+- [00:12:34,280 - 00:12:40,280] Now recognizing that in order to bring out a product to market you know you're going to
+- [00:12:40,280 - 00:12:46,280] do all your research you're going to do all the all of the branding the art and everything.
+- [00:12:46,280 - 00:12:48,280] And if it's only after all of that.
+- [00:12:48,280 - 00:12:52,280] That you actually transact or offer it for sale.
+- [00:12:52,280 - 00:12:54,280] That can be very expensive only to find
+- [00:12:54,280 - 00:12:56,280] that you don't have rights to that mark.
+- [00:12:56,280 - 00:12:59,280] So there is a provision called intent to
+- [00:12:59,280 - 00:13:02,280] use where you can go to the trade.
+- [00:13:02,280 - 00:13:04,780] He was patent the trademark office
+- [00:13:04,780 - 00:13:07,280] and file and intend to use mark.
+- [00:13:07,280 - 00:13:10,280] It says I intend to use this symbol
+- [00:13:10,280 - 00:13:13,280] name word or anything with these goods or services.
+- [00:13:13,280 - 00:13:16,280] And they go through the analysis and they say OK.
+- [00:13:16,280 - 00:13:18,280] That's good. You can do that.
+- [00:13:18,280 - 00:13:22,780] But you then have to within three years from the time
+- [00:13:22,780 - 00:13:27,280] that that's registration is granted actually use it or it expires.
+- [00:13:27,280 - 00:13:31,280] I just filed the intent to use registration for one of
+- [00:13:31,280 - 00:13:35,280] our companies last month before the rates went up on the trademark.
+- [00:13:35,280 - 00:13:37,280] It'll take about 18 months.
+- [00:13:37,280 - 00:13:41,280] They said now for me to get a full
+- [00:13:41,280 - 00:13:45,280] thing but I have at least nailed that in time.
+- [00:13:45,280 - 00:13:48,280] In picking a mark you should use something fanciful.
+- [00:13:48,280 - 00:13:51,280] Examples would be Apple or iPod.
+- [00:13:51,280 - 00:13:53,280] I mean whoever thought of Apple
+- [00:13:53,280 - 00:13:55,280] as a name associated with a computer.
+- [00:13:55,280 - 00:13:57,280] Much less a phone.
+- [00:13:57,280 - 00:14:01,280] You don't want to use something that is merely descriptive.
+- [00:14:01,280 - 00:14:03,280] In fact you can't really get
+- [00:14:03,280 - 00:14:05,280] a mark on something that's merely descriptive.
+- [00:14:05,280 - 00:14:08,780] I went once to file a
+- [00:14:08,780 - 00:14:12,280] registration for the term micro dose.
+- [00:14:12,280 - 00:14:15,280] For low dosage aspirin.
+- [00:14:15,280 - 00:14:17,280] That they were going to market.
+- [00:14:17,280 - 00:14:19,280] If you take a low dose of aspirin
+- [00:14:19,280 - 00:14:21,280] it sort of helps against potential heart attack.
+- [00:14:21,280 - 00:14:24,780] And after back and forth they've said you
+- [00:14:24,780 - 00:14:28,280] know look you're describing what the product does.
+- [00:14:28,280 - 00:14:31,280] It's a small dose.
+- [00:14:31,280 - 00:14:33,280] So we're not going to give you that one.
+- [00:14:33,280 - 00:14:36,280] We had to change it a bit.
+- [00:14:36,280 - 00:14:39,280] You should look and see before you start using stuff.
+- [00:14:39,280 - 00:14:41,280] Is the mark available?
+- [00:14:41,280 - 00:14:43,780] And you go to the US Patent and Trademark Office
+- [00:14:43,780 - 00:14:46,280] and there's a whole search thing you can use there.
+- [00:14:47,280 - 00:14:51,780] If you're going to get full registration many lawyers will say
+- [00:14:51,780 - 00:14:56,280] we ought to do a full trademark or service mark search.
+- [00:14:56,280 - 00:14:58,280] Which would look at everything from
+- [00:14:58,280 - 00:15:00,280] is it being used on the internet?
+- [00:15:00,280 - 00:15:02,280] Is it in state directories?
+- [00:15:02,280 - 00:15:05,280] And these things can, reports can run.
+- [00:15:05,280 - 00:15:07,780] I haven't priced them out recently but
+- [00:15:07,780 - 00:15:10,280] it could be $700 or $1000 or something.
+- [00:15:10,280 - 00:15:14,280] So you're prepared before you go to the trademark office.
+- [00:15:14,280 - 00:15:16,280] Okay?
+- [00:15:16,280 - 00:15:18,280] Alright.
+- [00:15:18,280 - 00:15:20,280] So copyright.
+- [00:15:20,280 - 00:15:22,780] It's the right to make and
+- [00:15:22,780 - 00:15:25,280] prevent people from copying what you do.
+- [00:15:25,280 - 00:15:29,280] It arises from creating a work.
+- [00:15:29,280 - 00:15:32,780] So if I write a letter to my mother
+- [00:15:32,780 - 00:15:36,280] as an author, I actually have a copyright in that.
+- [00:15:36,280 - 00:15:39,280] I don't have to register it or anything.
+- [00:15:39,280 - 00:15:43,280] It protects the expression.
+- [00:15:43,280 - 00:15:45,280] Not the idea.
+- [00:15:45,280 - 00:15:47,280] Or the function.
+- [00:15:47,280 - 00:15:49,280] So it's a great fit for music or literature.
+- [00:15:49,280 - 00:15:52,280] Maybe not so well for software.
+- [00:15:52,280 - 00:15:55,280] And the reason why does it only protect the expression?
+- [00:15:55,280 - 00:16:03,280] Well, you know, if Shakespeare wrote a play about a love triangle and he could protect, he had a protection of
+- [00:16:03,280 - 00:16:11,280] that so nobody else could ever write anything about a love triangle relationship, you know, a lot of literature would disappear.
+- [00:16:11,280 - 00:16:14,280] What you can't do is exactly copy.
+- [00:16:14,280 - 00:16:17,280] And that's, you know, his
+- [00:16:17,280 - 00:16:20,280] particular expression of that idea.
+- [00:16:20,280 - 00:16:23,280] Federal registration of a copyright is a plus.
+- [00:16:23,280 - 00:16:26,780] In fact, if you're going to bring suit to
+- [00:16:26,780 - 00:16:30,280] prevent somebody from copying, you do have to register it.
+- [00:16:30,280 - 00:16:33,280] The duration is long, 70 plus years.
+- [00:16:33,280 - 00:16:37,280] I think Mickey Mouse was coming up a few years
+- [00:16:37,280 - 00:16:41,280] ago and somehow they did some legislation to extend that.
+- [00:16:41,280 - 00:16:42,280] The cost to register is low.
+- [00:16:42,280 - 00:16:43,280] It ranges depending on what you're doing.
+- [00:16:43,280 - 00:16:46,280] Anywhere from $100 to $500.
+- [00:16:46,280 - 00:16:49,280] And you register at the Library of Congress.
+- [00:16:49,280 - 00:16:52,780] And you have to actually deposit
+- [00:16:52,780 - 00:16:56,280] the work that you're trying to copyright.
+- [00:16:56,280 - 00:16:59,780] So in the case of software, the question is,
+- [00:16:59,780 - 00:17:03,280] well, do I have to deposit my source code?
+- [00:17:03,280 - 00:17:05,280] I mean, anyone can see it
+- [00:17:05,280 - 00:17:07,280] then and see how I'm doing it.
+- [00:17:07,280 - 00:17:09,280] So there's a whole procedure for
+- [00:17:09,280 - 00:17:11,280] how you can deposit the copyright.
+- [00:17:11,280 - 00:17:16,280] The source code redacted and a number of things.
+- [00:17:16,280 - 00:17:18,780] The idea is so you can prove what
+- [00:17:18,780 - 00:17:21,280] it is you're preventing other people from copying.
+- [00:17:21,280 - 00:17:24,780] Years ago, I represented Aero Maps
+- [00:17:24,780 - 00:17:28,280] back when they had paper maps.
+- [00:17:28,280 - 00:17:33,280] And I learned that in the map industry, people would
+- [00:17:33,280 - 00:17:38,280] put phantom roads on a map, roads that really didn't exist.
+- [00:17:38,280 - 00:17:38,780] And the reason was so if somebody else came up
+- [00:17:38,780 - 00:17:39,280] with that map, they would be able to copy it.
+- [00:17:39,280 - 00:17:45,780] I don't know if that's why Google or
+- [00:17:45,780 - 00:17:52,280] self-driving directions sometimes lead you off into the wilderness.
+- [00:17:52,280 - 00:17:55,280] But the other thing that Aero Maps
+- [00:17:55,280 - 00:17:58,280] did is they made a street directory book.
+- [00:17:58,280 - 00:18:02,280] So in Boston, if you had an address, it would
+- [00:18:02,280 - 00:18:06,280] say it's at the corner of Fairfield and Commonwealth Avenue.
+- [00:18:06,280 - 00:18:08,280] And the city of Boston used that.
+- [00:18:08,280 - 00:18:13,280] This is all pre-internet, of course, to figure out where to send, if something
+- [00:18:13,280 - 00:18:18,280] came in, where do we send the police car or the fire engine or something.
+- [00:18:18,280 - 00:18:23,280] So one year, they got a call from the city saying,
+- [00:18:23,280 - 00:18:28,280] well, we don't need to order any more maps or directories.
+- [00:18:28,280 - 00:18:30,280] We're good.
+- [00:18:30,280 - 00:18:31,280] Or they didn't.
+- [00:18:31,280 - 00:18:32,280] I'm sorry.
+- [00:18:32,280 - 00:18:33,280] They didn't order it.
+- [00:18:33,280 - 00:18:35,280] So the guys at Aero said to
+- [00:18:35,280 - 00:18:37,280] me, what do you think about this?
+- [00:18:37,280 - 00:18:39,280] What do you think is going on?
+- [00:18:39,280 - 00:18:41,280] I said, well, you should ask them.
+- [00:18:41,280 - 00:18:44,780] Have someone call up somebody in purchasing and say, we've noticed you
+- [00:18:44,780 - 00:18:48,280] haven't put an order in for our new version of the directory.
+- [00:18:48,280 - 00:18:50,280] How many can we put you down for?
+- [00:18:50,280 - 00:18:52,280] And the person on the other end of the
+- [00:18:52,280 - 00:18:54,280] phone said, oh, we're not going to do that anymore.
+- [00:18:54,280 - 00:18:57,280] We have our own copies.
+- [00:18:57,280 - 00:19:00,280] And so we simply took that statement,
+- [00:19:00,280 - 00:19:03,280] put an affidavit, and took it to court.
+- [00:19:03,280 - 00:19:05,280] And Boston paid up right away
+- [00:19:05,280 - 00:19:07,280] because they were copying the directory.
+- [00:19:07,280 - 00:19:11,780] So you should, even though you don't have to do it, it's
+- [00:19:11,780 - 00:19:16,280] suggested that you put a copyright notice on things you want to protect.
+- [00:19:16,280 - 00:19:20,780] Typically, copyright the word, the year,
+- [00:19:20,780 - 00:19:25,280] the author, and then all rights reserved.
+- [00:19:25,280 - 00:19:28,780] And that's because in certain countries, especially Latin America,
+- [00:19:28,780 - 00:19:32,280] if you don't do that, you lose some rights.
+- [00:19:32,280 - 00:19:33,280] Just put it on there.
+- [00:19:33,280 - 00:19:34,780] Don't put the C in
+- [00:19:34,780 - 00:19:36,280] the circle until you've actually registered.
+- [00:19:36,280 - 00:19:39,780] So you can see at the bottom of
+- [00:19:39,780 - 00:19:43,280] my slide, I put down a copyright notice.
+- [00:19:43,280 - 00:19:47,280] For your venture, this is really important.
+- [00:19:47,280 - 00:19:51,280] Make sure you own what you think you own.
+- [00:19:51,280 - 00:19:56,780] So the author of an original work,
+- [00:19:56,780 - 00:20:02,280] be it software, a book, poems, or whatever,
+- [00:20:02,280 - 00:20:05,280] the author owns that work of ours.
+- [00:20:05,280 - 00:20:07,780] And so you can see that the
+- [00:20:07,780 - 00:20:10,280] author owns that work of our created work.
+- [00:20:10,280 - 00:20:12,280] Unless, two exceptions.
+- [00:20:12,280 - 00:20:14,780] One is they're an employee, and
+- [00:20:14,780 - 00:20:17,280] it's in the course of employment.
+- [00:20:17,280 - 00:20:22,280] Or it's deemed to be a work for hire.
+- [00:20:22,280 - 00:20:27,280] And so, for example, I had a client who had spent
+- [00:20:27,280 - 00:20:32,280] a good deal of money developing an import-export computer software system.
+- [00:20:32,280 - 00:20:34,780] And they paid an outside
+- [00:20:34,780 - 00:20:37,280] computer firm to put it together.
+- [00:20:37,280 - 00:20:41,280] And then they found out that that firm had
+- [00:20:41,280 - 00:20:45,280] sold a license to another one of their competitors.
+- [00:20:45,280 - 00:20:47,780] And they came and they said to me, well, can't we,
+- [00:20:47,780 - 00:20:50,280] you know, we paid all this money, can't we stop them?
+- [00:20:50,280 - 00:20:53,280] And when we looked into it, we said, well, did you
+- [00:20:53,280 - 00:20:56,280] have an agreement as to who was going to own it?
+- [00:20:56,280 - 00:20:58,280] And it turned out they didn't.
+- [00:20:58,280 - 00:21:00,280] So they had basically spent a half a
+- [00:21:00,280 - 00:21:02,280] million dollars for something that they didn't own.
+- [00:21:02,280 - 00:21:06,280] Now, the flip side of that is when, as a
+- [00:21:06,280 - 00:21:10,280] new venture, and you go to deal with a large company,
+- [00:21:10,280 - 00:21:11,780] and you say, I'm going to
+- [00:21:11,780 - 00:21:13,280] do some consulting work for you.
+- [00:21:13,280 - 00:21:15,280] And consulting is a way that
+- [00:21:15,280 - 00:21:17,280] many ventures get off the ground.
+- [00:21:17,280 - 00:21:20,780] You work with your target customer market and
+- [00:21:20,780 - 00:21:24,280] learn more about them and what they want.
+- [00:21:24,280 - 00:21:26,280] And you make a bunch of money doing it.
+- [00:21:26,280 - 00:21:27,780] And eventually you say, well, now
+- [00:21:27,780 - 00:21:29,280] I can turn that into a product.
+- [00:21:29,280 - 00:21:31,280] But that interaction with a large company,
+- [00:21:31,280 - 00:21:34,280] it's going to give you a consultant services agreement.
+- [00:21:34,280 - 00:21:36,280] And guess what it's going to say?
+- [00:21:36,280 - 00:21:40,280] We own everything that you create.
+- [00:21:40,280 - 00:21:44,280] And, you know, don't blindly sign that.
+- [00:21:44,280 - 00:21:48,280] I have a standard thing for companies that
+- [00:21:48,280 - 00:21:52,280] I work with, which says, look, we're a,
+- [00:21:52,280 - 00:21:56,280] I'll show you IP vision in a moment here.
+- [00:21:56,280 - 00:22:00,280] If you ask us to do an intellectual property analysis
+- [00:22:00,280 - 00:22:03,780] on public data, you can own
+- [00:22:03,780 - 00:22:07,280] the specific report that we generate.
+- [00:22:07,280 - 00:22:09,780] But if somebody else asks us
+- [00:22:09,780 - 00:22:12,280] the same thing with the same parameters,
+- [00:22:12,280 - 00:22:14,280] we're going to generate the same report.
+- [00:22:14,280 - 00:22:19,280] So you can't own how we generated the report.
+- [00:22:19,280 - 00:22:21,280] You can own the actual report.
+- [00:22:21,280 - 00:22:23,280] Same thing if you're a software
+- [00:22:23,280 - 00:22:25,280] consultant working with a large company.
+- [00:22:25,280 - 00:22:27,280] You'll say, well, we have
+- [00:22:27,280 - 00:22:29,280] a bunch of tools and modules
+- [00:22:29,280 - 00:22:32,280] that we use in our development.
+- [00:22:32,280 - 00:22:34,280] We retain ownership of that.
+- [00:22:34,280 - 00:22:37,280] You can own the things we put together.
+- [00:22:37,280 - 00:22:39,280] But we retain and will retain
+- [00:22:39,280 - 00:22:41,280] ownership of any, you know, other things.
+- [00:22:41,280 - 00:22:43,280] And so you have to
+- [00:22:43,280 - 00:22:45,280] negotiate a little bit with that.
+- [00:22:45,280 - 00:22:49,280] Finally, you should check open source if you're in software.
+- [00:22:49,280 - 00:22:52,780] Are you using open source software in
+- [00:22:52,780 - 00:22:56,280] a way that violates the general license?
+- [00:22:56,280 - 00:22:58,280] You know, if you actually modify the open source software,
+- [00:22:58,280 - 00:23:01,280] you're supposed to give it back.
+- [00:23:01,280 - 00:23:03,780] So typically there you would have, you
+- [00:23:03,780 - 00:23:06,280] know, if you're using MySQL as a database,
+- [00:23:06,280 - 00:23:09,280] you know, you're not going to change that code.
+- [00:23:09,280 - 00:23:12,280] Your interface to that code is yours.
+- [00:23:12,280 - 00:23:13,780] But if you start to mess
+- [00:23:13,780 - 00:23:15,280] with it, you might have a problem.
+- [00:23:15,280 - 00:23:16,780] And there are companies, like
+- [00:23:16,780 - 00:23:18,280] Black Duck was one of them,
+- [00:23:18,280 - 00:23:20,280] that will run and look at your
+- [00:23:20,280 - 00:23:22,280] code to see if you're violating open source.
+- [00:23:22,280 - 00:23:24,780] And they, you know, will
+- [00:23:24,780 - 00:23:27,280] do that for investors, et cetera.
+- [00:23:27,280 - 00:23:31,280] Now, what about copyright and artificial intelligence?
+- [00:23:31,280 - 00:23:34,280] Well, this is a big area right now.
+- [00:23:34,280 - 00:23:36,280] So it's well established that to have a
+- [00:23:36,280 - 00:23:38,280] copyright, there has to be a human author.
+- [00:23:38,280 - 00:23:42,280] The patent office came up with, I
+- [00:23:42,280 - 00:23:46,280] mean, the copyright office came up with
+- [00:23:46,280 - 00:23:49,280] an announcement a year and a half ago
+- [00:23:49,280 - 00:23:52,280] that says, well, you know, AI creates stuff.
+- [00:23:52,280 - 00:23:55,280] So by itself, AI can't have a copyright.
+- [00:23:55,280 - 00:23:56,280] It's not a human.
+- [00:23:57,280 - 00:24:01,280] But if you use artificial intelligence
+- [00:24:01,280 - 00:24:05,280] and you have sufficient human authorship,
+- [00:24:05,280 - 00:24:07,280] then you could get a copyright on it.
+- [00:24:07,280 - 00:24:09,280] So what does that mean?
+- [00:24:09,280 - 00:24:13,280] We're still trying to figure that out.
+- [00:24:13,280 - 00:24:15,280] But, you know, think about it.
+- [00:24:15,280 - 00:24:17,780] If you use DALI to make images and
+- [00:24:17,780 - 00:24:20,280] you're going to put it in a, you know,
+- [00:24:20,280 - 00:24:25,280] a children's book and you write the text, probably okay.
+- [00:24:25,280 - 00:24:26,280] What if you use DALI to
+- [00:24:26,280 - 00:24:27,280] make a copy of a book?
+- [00:24:27,280 - 00:24:29,280] And you have the length of do the
+- [00:24:29,280 - 00:24:31,280] image and you have chat GPT do the text?
+- [00:24:31,280 - 00:24:34,280] Might be okay if you're deciding how to
+- [00:24:34,280 - 00:24:37,280] create those two, you know, put them together.
+- [00:24:37,280 - 00:24:40,280] It's still up in the air.
+- [00:24:40,280 - 00:24:43,280] The issue about using copyrighted material to
+- [00:24:43,280 - 00:24:46,280] train models, that's the one that's in
+- [00:24:46,280 - 00:24:48,280] litigation now.
+- [00:24:48,280 - 00:24:51,280] You can keep track of all of
+- [00:24:51,280 - 00:24:54,280] this at this address at the copyright office.
+- [00:24:54,280 - 00:24:55,780] That's where they say they'll keep
+- [00:24:55,780 - 00:24:57,280] updated on their view of it.
+- [00:24:57,280 - 00:25:02,280] So, okay.
+- [00:25:02,280 - 00:25:07,280] Patents, as I said earlier, a limited time monopoly.
+- [00:25:07,280 - 00:25:10,280] It's a federally granted right.
+- [00:25:10,280 - 00:25:12,280] You have to apply for it.
+- [00:25:12,280 - 00:25:18,280] It's for something that's new, non-obvious, and helpful.
+- [00:25:18,280 - 00:25:21,780] And this, along with all the other
+- [00:25:21,780 - 00:25:25,280] things where you register things, copyright, trademark, things,
+- [00:25:25,280 - 00:25:26,280] these are country by country.
+- [00:25:26,280 - 00:25:29,280] You have to register in each country.
+- [00:25:29,280 - 00:25:32,280] There are some treaties that try to harmonize it.
+- [00:25:32,280 - 00:25:34,280] But you have to apply.
+- [00:25:34,280 - 00:25:37,780] So if I have a patent in the U.S.,
+- [00:25:37,780 - 00:25:41,280] I can prevent others from making, using, selling, or importing
+- [00:25:41,280 - 00:25:43,280] my invention.
+- [00:25:43,280 - 00:25:45,780] So somebody could make my, if I don't have
+- [00:25:45,780 - 00:25:48,280] a patent in China, they can make it in China.
+- [00:25:48,280 - 00:25:50,280] They can't bring it to the U.S.
+- [00:25:50,280 - 00:25:52,780] I can't prevent them from making it in
+- [00:25:52,780 - 00:25:55,280] China unless I have a patent in China.
+- [00:25:55,280 - 00:26:02,280] Now, it's very much like real estate.
+- [00:26:02,280 - 00:26:04,780] Most people think, if you didn't know about it,
+- [00:26:04,780 - 00:26:07,280] you'd say, I have a patent on my invention.
+- [00:26:07,280 - 00:26:09,280] That means I can use it.
+- [00:26:09,280 - 00:26:10,280] Only I can use it.
+- [00:26:10,280 - 00:26:12,280] Well, that's true.
+- [00:26:12,280 - 00:26:15,280] But that doesn't mean there aren't any limits to it.
+- [00:26:15,280 - 00:26:19,780] So if you think about the real estate analogy, all
+- [00:26:19,780 - 00:26:24,280] right, I have a right to keep you off my property.
+- [00:26:24,280 - 00:26:27,280] I can keep you from trespassing.
+- [00:26:27,280 - 00:26:30,280] That doesn't mean that I can actually use my property.
+- [00:26:30,280 - 00:26:32,280] What does that mean?
+- [00:26:32,280 - 00:26:34,280] Well, what if I had to walk
+- [00:26:34,280 - 00:26:36,280] across your property to get to mine?
+- [00:26:36,280 - 00:26:38,280] Right?
+- [00:26:38,280 - 00:26:41,280] You could keep me off your property.
+- [00:26:41,280 - 00:26:44,280] I could keep you off my property.
+- [00:26:44,280 - 00:26:46,280] We'd have a problem.
+- [00:26:46,280 - 00:26:49,280] So it's the right to prevent others.
+- [00:26:49,280 - 00:26:51,280] The claims of the patent are
+- [00:26:51,280 - 00:26:53,280] like the fence around the defense.
+- [00:26:53,280 - 00:26:58,280] They define what the property is.
+- [00:26:58,280 - 00:27:00,280] So let's see if I can.
+- [00:27:00,280 - 00:27:02,280] The duration is 20 years from filing.
+- [00:27:02,280 - 00:27:04,280] Let me give you an example.
+- [00:27:04,280 - 00:27:06,280] I use the coffee cup and the handle.
+- [00:27:06,280 - 00:27:10,280] Suppose you came up with the idea that was not obvious and
+- [00:27:10,280 - 00:27:14,280] nobody had ever thought about of a vessel to hold a liquid.
+- [00:27:14,280 - 00:27:15,280] All right.
+- [00:27:15,280 - 00:27:17,280] And you get a patent on it.
+- [00:27:17,280 - 00:27:18,280] Great.
+- [00:27:18,280 - 00:27:20,280] Fundamental invention.
+- [00:27:20,280 - 00:27:22,280] Now, I come along.
+- [00:27:22,280 - 00:27:25,280] I patent a handle.
+- [00:27:25,280 - 00:27:26,280] Useful?
+- [00:27:26,280 - 00:27:29,280] Not obvious, maybe?
+- [00:27:29,280 - 00:27:31,280] I can't put my handle on
+- [00:27:31,280 - 00:27:33,280] your vessel to hold a liquid.
+- [00:27:33,280 - 00:27:37,280] And you can't put your vessel to hold a liquid
+- [00:27:37,280 - 00:27:41,280] on my handle because we would be infringing each other's patents.
+- [00:27:41,280 - 00:27:44,780] So the only way that can
+- [00:27:44,780 - 00:27:48,280] happen is a cross-license between the two.
+- [00:27:48,280 - 00:27:50,280] You get the point?
+- [00:27:50,280 - 00:27:51,280] Okay.
+- [00:27:52,280 - 00:27:55,280] So requirements to get a patent.
+- [00:27:55,280 - 00:27:57,280] It has to be something new.
+- [00:27:57,280 - 00:27:59,280] Not obvious.
+- [00:27:59,280 - 00:28:01,280] Prior art must be cited.
+- [00:28:01,280 - 00:28:04,780] Prior art is things like published things
+- [00:28:04,780 - 00:28:08,280] that have been published or prior patents, etc.
+- [00:28:08,280 - 00:28:09,280] Has to be useful.
+- [00:28:09,280 - 00:28:11,780] That's usually not a problem if you looked at
+- [00:28:11,780 - 00:28:14,280] some of the weird patents that have gotten out there.
+- [00:28:14,280 - 00:28:18,280] It actually has to be patentable subject matter.
+- [00:28:18,280 - 00:28:20,280] Processed machine manufacturer or composition of matter.
+- [00:28:20,280 - 00:28:21,280] Okay.
+- [00:28:21,280 - 00:28:23,280] So it's not a proposition of
+- [00:28:23,280 - 00:28:25,280] matter or any improvement on that.
+- [00:28:25,280 - 00:28:28,780] So originally there was a whole thing for years
+- [00:28:28,780 - 00:28:32,280] about whether you could patent software because that's an algorithm.
+- [00:28:32,280 - 00:28:34,280] And the way it got people started
+- [00:28:34,280 - 00:28:36,280] to do it, they say it's really not.
+- [00:28:36,280 - 00:28:37,280] It's the machine.
+- [00:28:37,280 - 00:28:39,780] It's the use of that with a
+- [00:28:39,780 - 00:28:42,280] machine or something that makes it patentable.
+- [00:28:42,280 - 00:28:45,280] It has to be not
+- [00:28:45,280 - 00:28:48,280] previously offered, sold, or publicly disclosed.
+- [00:28:48,280 - 00:28:50,280] Now, the publicly disclosed is an important thing.
+- [00:28:50,280 - 00:28:53,280] It has to be an enabling disclosure.
+- [00:28:53,280 - 00:28:57,780] So if I say to you in this room, well, outside of
+- [00:28:57,780 - 00:29:02,280] an academic setting, let's say, I say, I have invented anti-gravity boots.
+- [00:29:02,280 - 00:29:05,280] That's not enabling.
+- [00:29:05,280 - 00:29:08,280] I haven't told you how, how it works.
+- [00:29:08,280 - 00:29:11,780] But if I go into details and explain it all
+- [00:29:11,780 - 00:29:15,280] in a public setting, then that starts a one-year clock.
+- [00:29:15,280 - 00:29:17,280] I have one year in the
+- [00:29:17,280 - 00:29:19,280] U.S. to file a patent application.
+- [00:29:19,280 - 00:29:21,780] From the time I did an enabling
+- [00:29:21,780 - 00:29:24,280] disclosure or I offer it for sale.
+- [00:29:24,280 - 00:29:27,280] And if I don't, I can't get a patent.
+- [00:29:27,280 - 00:29:29,780] And this is an issue
+- [00:29:29,780 - 00:29:32,280] in some parts of the world.
+- [00:29:32,280 - 00:29:36,280] I was in Istanbul at the second entrepreneurship summit
+- [00:29:36,280 - 00:29:40,280] when they had people from countries all over the world.
+- [00:29:40,280 - 00:29:44,280] And I was talking to, mentoring a team from Egypt.
+- [00:29:44,280 - 00:29:48,280] And they said, oh, we've got this great thing.
+- [00:29:48,280 - 00:29:51,280] We have this new wireless, you know, way of
+- [00:29:51,280 - 00:29:54,280] doing wireless that's faster, better, and all this great stuff.
+- [00:29:54,280 - 00:29:58,280] And I said, well, have you disclosed this to anybody?
+- [00:29:58,280 - 00:30:00,280] And they said, oh, yes.
+- [00:30:00,280 - 00:30:03,280] We published it in some prestigious journal.
+- [00:30:03,280 - 00:30:07,780] And I sort of, I looked at them and I said, could
+- [00:30:07,780 - 00:30:12,280] somebody figure out what it is you did from that journal article?
+- [00:30:12,280 - 00:30:14,780] And they thought for a moment
+- [00:30:14,780 - 00:30:17,280] and they said, oh, they might.
+- [00:30:17,280 - 00:30:19,280] And I said, well, I don't know.
+- [00:30:19,280 - 00:30:22,280] You may have just blown the opportunity to get a patent anywhere
+- [00:30:22,280 - 00:30:25,280] in the world except the U.S. if it's been within one year.
+- [00:30:25,280 - 00:30:27,280] And you could just see their excitement
+- [00:30:27,280 - 00:30:29,280] and their faces just sort of went.
+- [00:30:29,280 - 00:30:31,280] So it's an important thing.
+- [00:30:31,280 - 00:30:35,280] You have one year in the U.S. only.
+- [00:30:35,280 - 00:30:37,280] It has to be not obvious to
+- [00:30:37,280 - 00:30:39,280] one of ordinary skill in the art.
+- [00:30:39,280 - 00:30:41,280] And there are different ways
+- [00:30:41,280 - 00:30:43,280] of showing that it's not obvious.
+- [00:30:43,280 - 00:30:45,280] Bob Langer, you heard about last night.
+- [00:30:45,280 - 00:30:46,280] Bob.
+- [00:30:46,280 - 00:30:52,280] For some of his earlier patents.
+- [00:30:52,280 - 00:30:55,280] Had arguments with the patent office about, look, if I
+- [00:30:55,280 - 00:30:58,280] look at the literature, they say this can't be done.
+- [00:30:58,280 - 00:31:01,280] And oh, by the way, people are buying it.
+- [00:31:01,280 - 00:31:03,280] So it can't have been that I just did.
+- [00:31:03,280 - 00:31:06,280] So it can't have been obvious to people of ordinary skill
+- [00:31:06,280 - 00:31:09,280] in the art if the art was saying you can't do it.
+- [00:31:09,280 - 00:31:13,280] And then people are buying it.
+- [00:31:13,280 - 00:31:14,280] And an important thing.
+- [00:31:14,280 - 00:31:15,280] Since a few years ago.
+- [00:31:15,280 - 00:31:23,280] We used to be a first to file jurisdiction.
+- [00:31:23,280 - 00:31:25,280] First to file the application would win.
+- [00:31:25,280 - 00:31:27,280] And there's a great history
+- [00:31:27,280 - 00:31:29,280] if you follow Alexander Graham Bell.
+- [00:31:29,280 - 00:31:31,280] And I think of the guy named Gray.
+- [00:31:31,280 - 00:31:33,280] There was a big fight at the patent office.
+- [00:31:33,280 - 00:31:37,280] We're now the first inventor to file.
+- [00:31:37,280 - 00:31:40,280] So if you don't get to the patent office, if you have to be an
+- [00:31:40,280 - 00:31:43,280] inventor, if you get there before somebody else who's inventing, you're going to be a failure.
+- [00:31:43,280 - 00:31:45,280] If not, you lose.
+- [00:31:45,280 - 00:31:48,280] This becomes an issue with
+- [00:31:48,280 - 00:31:51,280] companies when they're doing joint ventures.
+- [00:31:51,280 - 00:31:55,280] When you're doing a joint venture between, say, a small company and a large company
+- [00:31:55,280 - 00:31:59,280] or even two large companies, there's always a question of, you know, you bring your stuff.
+- [00:31:59,280 - 00:32:00,280] I bring my stuff.
+- [00:32:00,280 - 00:32:01,280] We do stuff together.
+- [00:32:01,280 - 00:32:05,280] Who's the real owner of that thing in the middle?
+- [00:32:05,280 - 00:32:07,280] And we may learn things.
+- [00:32:07,280 - 00:32:09,280] And so there's a question of, you know, who's
+- [00:32:09,280 - 00:32:11,280] the real owner of that thing in the middle?
+- [00:32:11,280 - 00:32:12,280] And we may learn things.
+- [00:32:12,280 - 00:32:15,280] And so there are cases where some large companies
+- [00:32:15,280 - 00:32:18,280] have gone off and filed first inventor type things.
+- [00:32:18,280 - 00:32:26,280] So important to remember.
+- [00:32:26,280 - 00:32:27,280] Okay.
+- [00:32:27,280 - 00:32:28,280] Whoops.
+- [00:32:28,280 - 00:32:30,280] Let me back up here.
+- [00:32:30,280 - 00:32:32,280] All right.
+- [00:32:32,280 - 00:32:33,280] Okay.
+- [00:32:33,280 - 00:32:36,280] So it's a couple things for your venture.
+- [00:32:36,280 - 00:32:38,780] The first, you want to make sure you have
+- [00:32:38,780 - 00:32:41,280] the freedom to make a license and sell your product.
+- [00:32:41,280 - 00:32:42,280] So you want to know.
+- [00:32:42,280 - 00:32:44,280] And then you own it.
+- [00:32:44,280 - 00:32:54,280] Now, just like copyrights, the inventor owns the patent.
+- [00:32:54,280 - 00:32:57,280] And there are some exceptions if you're
+- [00:32:57,280 - 00:33:00,280] an employee working for a company called ShopRites.
+- [00:33:00,280 - 00:33:05,780] But typically, companies will have you as an employee sign an invention disclosure and
+- [00:33:05,780 - 00:33:11,280] assignment agreement where you agree to assign whatever you come up with to the company.
+- [00:33:12,280 - 00:33:15,280] So if you look at, you'll
+- [00:33:15,280 - 00:33:18,280] see some patents in the patent office.
+- [00:33:18,280 - 00:33:21,280] The inventor is listed.
+- [00:33:21,280 - 00:33:22,280] And then you say, you go
+- [00:33:22,280 - 00:33:23,280] and look at who owns it.
+- [00:33:23,280 - 00:33:24,280] It's the inventor.
+- [00:33:24,280 - 00:33:26,280] Others, you'll see the inventor and
+- [00:33:26,280 - 00:33:28,280] then the name of the company.
+- [00:33:28,280 - 00:33:32,280] What if it's licensed from the university?
+- [00:33:32,280 - 00:33:34,280] Do you actually own that?
+- [00:33:34,280 - 00:33:37,780] Did it go into the public domain because you
+- [00:33:37,780 - 00:33:41,280] didn't file something or you made an enabling disclosure?
+- [00:33:41,280 - 00:33:44,280] Or you offer to sell it?
+- [00:33:44,280 - 00:33:47,280] There have been some cases on people not even actually
+- [00:33:47,280 - 00:33:50,280] showing the invention but offering it at a trade show.
+- [00:33:50,280 - 00:33:53,280] And that can be viewed as
+- [00:33:53,280 - 00:33:56,280] an on-sale bar to getting the patent.
+- [00:33:56,280 - 00:33:58,780] And then there's a strategy of do you want a
+- [00:33:58,780 - 00:34:01,280] patent or do you want to disclose to prevent others?
+- [00:34:01,280 - 00:34:04,280] And I'll show something about that in a moment.
+- [00:34:04,280 - 00:34:06,779] So before you launch, you want to
+- [00:34:06,779 - 00:34:09,279] make sure you have freedom to operate.
+- [00:34:09,279 - 00:34:10,279] You know, is what I'm proposing to do.
+- [00:34:10,280 - 00:34:12,780] Does somebody else have a patent
+- [00:34:12,780 - 00:34:15,280] that could prevent me from doing it?
+- [00:34:15,280 - 00:34:16,780] Because, you know, you're going to
+- [00:34:16,780 - 00:34:18,280] spend a lot of time and money.
+- [00:34:18,280 - 00:34:20,280] And if you develop something and then
+- [00:34:20,280 - 00:34:22,280] someone comes along and says, sorry, you're infringing,
+- [00:34:22,280 - 00:34:26,280] investors are going to want to know about that.
+- [00:34:26,280 - 00:34:29,280] Typically, you'll get a freedom to
+- [00:34:29,280 - 00:34:32,280] operate opinion from a law firm.
+- [00:34:32,280 - 00:34:34,280] That doesn't mean that you're not infringing.
+- [00:34:34,280 - 00:34:36,780] It just says, you know, we've looked and we don't
+- [00:34:36,780 - 00:34:39,280] think there's a problem with what you propose to do.
+- [00:34:40,280 - 00:34:44,780] And part of that is with that letter
+- [00:34:44,780 - 00:34:49,280] prevents you from having trouble damages for willful infringement,
+- [00:34:49,280 - 00:34:52,280] which you could if you willfully infringe someone's patent.
+- [00:34:52,280 - 00:34:59,280] They can hit you for three times the damages.
+- [00:34:59,280 - 00:35:01,280] So prior art.
+- [00:35:01,280 - 00:35:02,780] If you're going to have freedom to operate,
+- [00:35:02,780 - 00:35:04,280] you got to figure out what's out there.
+- [00:35:04,280 - 00:35:08,280] So this is See the Forest,
+- [00:35:08,280 - 00:35:10,280] which is one of the
+- [00:35:10,280 - 00:35:12,280] companies that I co-founded, IP Vision.
+- [00:35:12,280 - 00:35:15,280] That's the web address.
+- [00:35:15,280 - 00:35:18,780] And what this was, we were doing
+- [00:35:18,780 - 00:35:22,280] early stage technology commercialization primarily out of MIT.
+- [00:35:22,280 - 00:35:25,280] People would come in and professors, whatever,
+- [00:35:25,280 - 00:35:28,280] and they'd say, I got this great idea.
+- [00:35:28,280 - 00:35:32,780] And, you know, we would look at it and we
+- [00:35:32,780 - 00:35:37,280] try to figure out, well, you know, what's out there?
+- [00:35:38,280 - 00:35:42,380] And it's a little bit of a
+- [00:35:42,380 - 00:35:44,830] At one point, we raised a
+- [00:35:44,830 - 00:35:47,280] bunch of money for a company.
+- [00:35:47,280 - 00:35:49,780] We sent it was going to
+- [00:35:49,780 - 00:35:52,280] be it was the nano fuel company.
+- [00:35:52,280 - 00:35:54,280] And we wanted to make sure if we're going
+- [00:35:54,280 - 00:35:56,280] to step onto the stage with a new fuel,
+- [00:35:56,280 - 00:35:58,280] we're going to be up against some pretty big players.
+- [00:35:58,280 - 00:36:00,280] So we ought to know what's there.
+- [00:36:00,280 - 00:36:02,280] So on the advice of Patent Council,
+- [00:36:02,280 - 00:36:04,780] we hired an outside firm that went and looked
+- [00:36:04,780 - 00:36:07,280] all over the world and everything for prior art.
+- [00:36:07,280 - 00:36:09,280] And we had a lot of great ideas.
+- [00:36:09,280 - 00:36:11,280] And it took us about $500
+- [00:36:11,280 - 00:36:13,280] and it took six months or more.
+- [00:36:13,280 - 00:36:15,280] And we had the results.
+- [00:36:15,280 - 00:36:18,280] But in that six months in the US,
+- [00:36:18,280 - 00:36:21,280] there are about 5000 new patents issued per week.
+- [00:36:21,280 - 00:36:24,280] So it was obsolete by the time we got it.
+- [00:36:24,280 - 00:36:25,280] So we had to figure out, is
+- [00:36:25,280 - 00:36:26,280] there a better way to do this?
+- [00:36:26,280 - 00:36:30,280] And we came up with this idea of patent mapping.
+- [00:36:30,280 - 00:36:32,780] By the way, if you go to if
+- [00:36:32,780 - 00:36:35,280] you're in the class or in the MIT community,
+- [00:36:35,280 - 00:36:36,280] we go to SeeTheForest.com.
+- [00:36:36,280 - 00:36:37,280] Register.
+- [00:36:37,280 - 00:36:40,280] And send me an email saying what you're doing.
+- [00:36:40,280 - 00:36:42,280] We'll upgrade you to the premium
+- [00:36:42,280 - 00:36:44,280] version as part of our give back.
+- [00:36:44,280 - 00:36:45,280] But what is it?
+- [00:36:45,280 - 00:36:48,280] So this is an example of a patent map.
+- [00:36:48,280 - 00:36:54,280] The boxes on the map are patents or patent applications.
+- [00:36:54,280 - 00:36:56,780] The left edge of the box is
+- [00:36:56,780 - 00:36:59,280] the publication date or the issue date.
+- [00:36:59,280 - 00:37:02,780] The tail to the left of the
+- [00:37:02,780 - 00:37:06,280] box is when the application was filed.
+- [00:37:06,280 - 00:37:11,280] And the lines connecting the box are the citations.
+- [00:37:11,280 - 00:37:14,780] When a patent issues, as part of the
+- [00:37:14,780 - 00:37:18,280] prosecution, you have to disclose to the patent office
+- [00:37:18,280 - 00:37:21,280] all prior art of which you're aware.
+- [00:37:21,280 - 00:37:24,280] And the examiner looks at that and decides whether
+- [00:37:24,280 - 00:37:27,280] what you're claiming is allowed over the prior art.
+- [00:37:27,280 - 00:37:29,280] And they list in the patent
+- [00:37:29,280 - 00:37:31,280] what those prior art patents are.
+- [00:37:31,280 - 00:37:34,280] And they have significance.
+- [00:37:34,280 - 00:37:35,280] And there are at least three people in the box.
+- [00:37:35,280 - 00:37:38,280] There's you as an inventor.
+- [00:37:38,280 - 00:37:40,780] There's your patent lawyer who
+- [00:37:40,780 - 00:37:43,280] understands something about the technical area.
+- [00:37:43,280 - 00:37:45,280] And there's the examiner.
+- [00:37:45,280 - 00:37:48,280] And the issue is if
+- [00:37:48,280 - 00:37:51,280] you willfully don't disclose prior art,
+- [00:37:51,280 - 00:37:53,280] it can be the basis
+- [00:37:53,280 - 00:37:55,280] for invalidating an otherwise good patent
+- [00:37:55,280 - 00:37:57,280] because it's viewed as fraud on the patent office.
+- [00:37:57,280 - 00:37:59,280] So there are consequences.
+- [00:37:59,280 - 00:38:01,780] So unlike the citations you
+- [00:38:01,780 - 00:38:04,280] might put in your technical paper,
+- [00:38:04,280 - 00:38:11,280] I'm citing my professor because he's my PhD committee.
+- [00:38:11,280 - 00:38:14,280] I'm going to cite that person's textbook.
+- [00:38:14,280 - 00:38:17,280] It may not have anything directly relevant to the paper.
+- [00:38:17,280 - 00:38:22,280] There's more spurious citations and academic stuff.
+- [00:38:22,280 - 00:38:26,280] So what we have here is the Tesla patent.
+- [00:38:26,280 - 00:38:31,280] And at the time it was issued in 2010,
+- [00:38:31,280 - 00:38:33,280] this was the prior art.
+- [00:38:33,280 - 00:38:36,280] These are the prior art patents that it cited.
+- [00:38:36,280 - 00:38:42,280] This is what it looked like in 2023.
+- [00:38:42,280 - 00:38:44,780] Everything to the right of that patent
+- [00:38:44,780 - 00:38:47,280] were new patents citing the Tesla patent.
+- [00:38:47,280 - 00:38:49,280] So the idea of being able to
+- [00:38:49,280 - 00:38:51,280] figure out what the prior art is
+- [00:38:51,280 - 00:38:52,780] and be able to look
+- [00:38:52,780 - 00:38:54,280] at who's citing you going forward
+- [00:38:54,280 - 00:38:56,280] can help you with a whole bunch
+- [00:38:56,280 - 00:38:58,280] of thinking about patent and business strategy.
+- [00:38:58,280 - 00:39:01,280] Here is the...
+- [00:39:03,280 - 00:39:08,280] Tesla patent portfolio back in 2018.
+- [00:39:08,280 - 00:39:12,280] And here's what it was in 2023.
+- [00:39:12,280 - 00:39:15,280] You can see how many patents they have on things.
+- [00:39:15,280 - 00:39:17,780] I'm going to come back to Tesla
+- [00:39:17,780 - 00:39:20,280] in a few minutes about their patent strategy.
+- [00:39:20,280 - 00:39:22,280] But you can pretty much see
+- [00:39:22,280 - 00:39:24,280] when you look at these maps,
+- [00:39:24,280 - 00:39:27,280] you know, what are people doing?
+- [00:39:27,280 - 00:39:28,780] You know, a really good one
+- [00:39:28,780 - 00:39:30,280] is you got a core patent
+- [00:39:30,280 - 00:39:32,280] and you're filing extensions.
+- [00:39:33,280 - 00:39:35,280] And those will cite the core patent.
+- [00:39:35,280 - 00:39:37,280] If you get a cluster of citations like that,
+- [00:39:37,280 - 00:39:40,280] that sort of tells you where they're going.
+- [00:39:40,280 - 00:39:41,280] The way these things are laid out,
+- [00:39:41,280 - 00:39:47,280] the ones in the bottom right are either patent applications.
+- [00:39:47,280 - 00:39:52,280] Patent applications that are published don't cite prior art.
+- [00:39:52,280 - 00:39:54,280] Or they're brand new patents that haven't had, you know,
+- [00:39:54,280 - 00:39:57,280] time to be cited when we
+- [00:39:57,280 - 00:40:00,280] look at, you know, an individual portfolio.
+- [00:40:00,280 - 00:40:02,280] Okay, so obtaining a patent.
+- [00:40:03,280 - 00:40:06,280] You want to think about what to patent, when.
+- [00:40:06,280 - 00:40:08,280] You're going to prepare an
+- [00:40:08,280 - 00:40:10,280] application and then prosecute it.
+- [00:40:10,280 - 00:40:14,280] Prosecuting means simply negotiating with the patent office
+- [00:40:14,280 - 00:40:17,280] to get the claims on the patent.
+- [00:40:17,280 - 00:40:19,280] So the important thing is to
+- [00:40:19,280 - 00:40:21,280] figure out what to patent, you know.
+- [00:40:21,280 - 00:40:23,780] Unlike what large companies have
+- [00:40:23,780 - 00:40:26,280] done in order to encourage people
+- [00:40:26,280 - 00:40:28,280] to file patents is they
+- [00:40:28,280 - 00:40:30,280] give awards, you know, to inventors.
+- [00:40:30,280 - 00:40:33,280] So the inventors are there, you know, filing these patents.
+- [00:40:33,280 - 00:40:36,280] And they end up with a whole bunch of patents.
+- [00:40:36,280 - 00:40:39,280] The question is are these actually worthwhile or not.
+- [00:40:39,280 - 00:40:41,280] You don't really have the luxury
+- [00:40:41,280 - 00:40:43,280] of that as a new venture.
+- [00:40:43,280 - 00:40:44,780] So you want to figure out not
+- [00:40:44,780 - 00:40:46,280] what I could get a patent on,
+- [00:40:46,280 - 00:40:49,280] but what do I want to get a patent on.
+- [00:40:49,280 - 00:40:52,280] You know, what's going to add value?
+- [00:40:52,280 - 00:40:56,280] And how will competitors use my technology?
+- [00:40:56,280 - 00:40:59,280] And you want to figure out actually
+- [00:40:59,280 - 00:41:02,280] what you're doing against the prior art.
+- [00:41:02,280 - 00:41:04,280] So we worked with the
+- [00:41:04,280 - 00:41:06,280] National Science Foundation SBIR program.
+- [00:41:06,280 - 00:41:08,780] In phase two of that program, one of
+- [00:41:08,780 - 00:41:11,280] the crucial things to getting a phase two grant
+- [00:41:11,280 - 00:41:14,280] is that you have intellectual property.
+- [00:41:14,280 - 00:41:16,280] So we worked with them to look
+- [00:41:16,280 - 00:41:18,280] at often when you have a technology,
+- [00:41:18,280 - 00:41:20,280] there are many places you could go with it.
+- [00:41:20,280 - 00:41:21,780] You know, your beachhead market,
+- [00:41:21,780 - 00:41:23,280] where do you want to go?
+- [00:41:23,280 - 00:41:26,280] And if you can actually visualize the patent world,
+- [00:41:26,280 - 00:41:29,280] it can help you make that decision.
+- [00:41:29,280 - 00:41:31,280] So we, you know, made a map,
+- [00:41:31,280 - 00:41:33,280] like the Tesla map using keyword
+- [00:41:33,280 - 00:41:35,280] searches for, you know, say an area.
+- [00:41:35,280 - 00:41:38,280] Met with one of the SBIR grantees and said,
+- [00:41:38,280 - 00:41:39,780] okay, well there's a big thicket
+- [00:41:39,780 - 00:41:41,280] of patents up here at the top.
+- [00:41:41,280 - 00:41:43,280] And we looked and we saw,
+- [00:41:43,280 - 00:41:45,280] you know, there were some companies there.
+- [00:41:45,280 - 00:41:46,780] And we looked at the titles
+- [00:41:46,780 - 00:41:48,280] without even having to read too deep.
+- [00:41:48,280 - 00:41:50,780] And they said, ooh, that looks like
+- [00:41:50,780 - 00:41:53,280] a lot of what we're trying to do.
+- [00:41:53,280 - 00:41:55,280] But these other patents over
+- [00:41:55,280 - 00:41:57,280] here, there aren't many of them.
+- [00:41:57,280 - 00:41:59,280] And we could go there.
+- [00:41:59,280 - 00:42:00,280] So we might,
+- [00:42:00,280 - 00:42:03,280] we think we might switch our whole commercialization effort
+- [00:42:03,280 - 00:42:04,780] from where we thought we were
+- [00:42:04,780 - 00:42:06,280] going to go to this other area.
+- [00:42:06,280 - 00:42:08,280] So that was useful.
+- [00:42:08,280 - 00:42:09,780] Did the same kind of
+- [00:42:09,780 - 00:42:11,280] process a week or two later.
+- [00:42:11,280 - 00:42:14,280] Same map with a lot of cluster at the top.
+- [00:42:14,280 - 00:42:17,280] And I said, well, this could be a patent thicket.
+- [00:42:17,280 - 00:42:19,280] You know, you might not want to go there.
+- [00:42:19,280 - 00:42:20,780] And they're looking at it and
+- [00:42:20,780 - 00:42:22,280] they said, oh, we know these companies.
+- [00:42:22,280 - 00:42:23,780] And just looking at the title,
+- [00:42:23,780 - 00:42:25,280] we're going to have to dig deeper.
+- [00:42:25,280 - 00:42:26,780] But we think that might be
+- [00:42:26,780 - 00:42:28,280] exactly where we want to go.
+- [00:42:28,280 - 00:42:30,280] And I said, well, why is that?
+- [00:42:30,280 - 00:42:32,780] And they said, well, we think we
+- [00:42:32,780 - 00:42:35,280] solved the problem that they're trying to solve.
+- [00:42:35,280 - 00:42:36,280] And they haven't figured it out.
+- [00:42:36,280 - 00:42:39,280] Otherwise, they would have filed patent applications.
+- [00:42:39,280 - 00:42:41,780] And so in thinking about building
+- [00:42:41,780 - 00:42:44,280] something that someone would want to acquire
+- [00:42:44,280 - 00:42:46,780] as a strategy for a new venture, they
+- [00:42:46,780 - 00:42:49,280] said, we're going to look at this real carefully.
+- [00:42:49,280 - 00:42:52,780] And we may double down and go
+- [00:42:52,780 - 00:42:56,280] into that area and build a portfolio.
+- [00:42:56,280 - 00:42:57,280] When to file?
+- [00:42:57,280 - 00:43:00,280] Well, again, you want to file before you lose rights.
+- [00:43:00,280 - 00:43:04,280] So that one year period, public disclosure.
+- [00:43:04,280 - 00:43:08,280] Don't forget about the first inventor to file.
+- [00:43:08,280 - 00:43:11,280] And important, in time to have a
+- [00:43:11,280 - 00:43:14,280] patent to protect your product or services.
+- [00:43:14,280 - 00:43:16,780] So a few years ago, I was
+- [00:43:16,780 - 00:43:19,280] negotiating with a large consumer products company
+- [00:43:19,280 - 00:43:24,280] for an exclusive license of something we had developed.
+- [00:43:24,280 - 00:43:27,280] They were excited about the concept.
+- [00:43:27,280 - 00:43:29,280] We had a bunch of patent applications
+- [00:43:29,280 - 00:43:30,280] that were in process.
+- [00:43:30,280 - 00:43:33,280] And I'll explain how we did that in a moment.
+- [00:43:33,280 - 00:43:35,280] And as we're negotiating the deal,
+- [00:43:35,280 - 00:43:37,280] there was a whole section that said,
+- [00:43:37,280 - 00:43:42,280] well, you know, what if these patents don't issue?
+- [00:43:42,280 - 00:43:43,780] We're going to cut the royalty, or
+- [00:43:43,780 - 00:43:45,280] we're going to do this or that.
+- [00:43:45,280 - 00:43:47,280] And it was a whole couple of pages.
+- [00:43:47,280 - 00:43:48,780] And just as we're in
+- [00:43:48,780 - 00:43:50,280] the middle of that big discussion,
+- [00:43:50,280 - 00:43:52,780] I got notification that one of our applications
+- [00:43:52,780 - 00:43:55,280] had issued as a patent in the US
+- [00:43:55,280 - 00:43:58,280] and then two days later in China.
+- [00:43:58,280 - 00:44:00,280] And I went back to them and I
+- [00:44:00,280 - 00:44:02,280] said, we can just rip up this whole section
+- [00:44:02,280 - 00:44:05,280] because we actually have issued patents now.
+- [00:44:05,280 - 00:44:07,280] And they felt really good about it because,
+- [00:44:07,280 - 00:44:09,280] you know, if they were going to license this,
+- [00:44:09,280 - 00:44:11,780] they want to spend a lot of their
+- [00:44:11,780 - 00:44:14,280] money building out the go-to-market on it, etc.,
+- [00:44:14,280 - 00:44:18,280] knowing that we had a protectable position.
+- [00:44:18,280 - 00:44:21,780] Now, as I'm going to talk to you in
+- [00:44:21,780 - 00:44:25,280] a few minutes about what the cost of patents are,
+- [00:44:25,280 - 00:44:27,280] they can be expensive.
+- [00:44:28,280 - 00:44:30,780] One of the things you can do,
+- [00:44:30,780 - 00:44:33,280] though, in order to get a placeholder
+- [00:44:33,280 - 00:44:36,280] is what's called a provisional patent application.
+- [00:44:36,280 - 00:44:38,780] Do you remember how I said
+- [00:44:38,780 - 00:44:41,280] that in the rest of the world,
+- [00:44:41,280 - 00:44:43,780] if you disclose before you file, you
+- [00:44:43,780 - 00:44:46,280] won't be able to get a patent?
+- [00:44:46,280 - 00:44:48,780] The concept of a provisional patent application
+- [00:44:48,780 - 00:44:51,280] was put in the law as something saying,
+- [00:44:51,280 - 00:44:54,280] well, this is really an application.
+- [00:44:54,280 - 00:44:55,780] So if you file a provisional, that's
+- [00:44:55,780 - 00:44:57,280] going to count as filing in other,
+- [00:44:57,280 - 00:44:59,780] for other countries in the world are going to
+- [00:44:59,780 - 00:45:02,280] look at that and say, well, you did file.
+- [00:45:02,280 - 00:45:06,280] So it's a very quick application you can put in.
+- [00:45:06,280 - 00:45:08,280] It doesn't, it has to have
+- [00:45:08,280 - 00:45:10,280] a meaningful description of your invention.
+- [00:45:10,280 - 00:45:15,280] It does not have to include claims.
+- [00:45:15,280 - 00:45:19,280] It establishes your filing date priority.
+- [00:45:19,280 - 00:45:22,280] It protects it, your idea, for a year.
+- [00:45:22,280 - 00:45:26,280] And then you have to actually file a utility application.
+- [00:45:26,280 - 00:45:28,280] It's called a full application.
+- [00:45:28,280 - 00:45:30,280] It's fast and cheap.
+- [00:45:30,280 - 00:45:33,280] I think it's $64 for micro.
+- [00:45:33,280 - 00:45:35,780] That would be, if you're
+- [00:45:35,780 - 00:45:38,280] a new venture, $64 filing fee.
+- [00:45:38,280 - 00:45:43,280] Nothing happens at the patent and trademark office.
+- [00:45:43,280 - 00:45:46,280] But you've established a date.
+- [00:45:46,280 - 00:45:50,280] When you go to file your full application, though,
+- [00:45:50,280 - 00:45:52,280] it has to have enough in the
+- [00:45:52,280 - 00:45:54,280] provisional for you to be able to say,
+- [00:45:54,280 - 00:45:56,280] my full application is going to fit in.
+- [00:45:56,280 - 00:45:59,280] And to the provisional, what's described.
+- [00:45:59,280 - 00:46:02,280] So let's say I discovered, and nobody else knew,
+- [00:46:02,280 - 00:46:05,280] that fruits and vegetables were important for human health.
+- [00:46:05,280 - 00:46:07,280] And I file a provisional.
+- [00:46:07,280 - 00:46:09,280] And then in the course of the year, as
+- [00:46:09,280 - 00:46:11,280] I'm going out and talking and figuring my market,
+- [00:46:11,280 - 00:46:14,280] I realize, you know, protein's important too.
+- [00:46:14,280 - 00:46:16,280] And I go to try to
+- [00:46:16,280 - 00:46:18,280] file a full application, including protein.
+- [00:46:18,280 - 00:46:22,280] That provisional isn't going to cover it.
+- [00:46:22,280 - 00:46:24,280] In fact, a provisional can even be,
+- [00:46:24,280 - 00:46:26,280] I've seen it where somebody's going to give a paper
+- [00:46:26,280 - 00:46:28,280] at a conference and we just slap
+- [00:46:28,280 - 00:46:30,280] a cover page on it and file it.
+- [00:46:30,280 - 00:46:33,280] Now, patent lawyers will say, you know,
+- [00:46:33,280 - 00:46:35,780] you really ought to file and
+- [00:46:35,780 - 00:46:38,280] make it with the claims and everything.
+- [00:46:38,280 - 00:46:40,280] And yeah, if you had unlimited
+- [00:46:40,280 - 00:46:42,280] amount of money, you could do that.
+- [00:46:42,280 - 00:46:44,280] But as a startup, you don't have that.
+- [00:46:44,280 - 00:46:46,780] When we were developing the IP
+- [00:46:46,780 - 00:46:49,280] Vision technology, it's a SAS thing.
+- [00:46:49,280 - 00:46:52,280] We would have six-week development cycles.
+- [00:46:52,280 - 00:46:53,780] And before we deployed the
+- [00:46:53,780 - 00:46:55,280] code, we'd sit and we'd say,
+- [00:46:55,280 - 00:46:58,780] all right, what did we do in
+- [00:46:58,780 - 00:47:02,280] this cycle that we think is important?
+- [00:47:02,280 - 00:47:05,280] And should we file something?
+- [00:47:05,280 - 00:47:08,280] What did we think about during
+- [00:47:08,280 - 00:47:11,280] the cycle that we did not implement
+- [00:47:11,280 - 00:47:13,280] that we think might be
+- [00:47:13,280 - 00:47:15,280] important that we should file on?
+- [00:47:15,280 - 00:47:18,280] And it was a pretty good discipline.
+- [00:47:18,280 - 00:47:21,280] And we'd file, you know, 64 bucks, we'd file them.
+- [00:47:21,280 - 00:47:23,280] And we had a series of these things.
+- [00:47:23,280 - 00:47:25,280] And then eventually, 12 months later, of course,
+- [00:47:25,280 - 00:47:27,280] we had to decide whether we're going
+- [00:47:27,280 - 00:47:29,280] to pay the big bucks for it.
+- [00:47:29,280 - 00:47:35,280] But it's a good strategy for startups.
+- [00:47:35,280 - 00:47:39,280] What's in a patent application?
+- [00:47:39,280 - 00:47:41,280] It's like a term paper.
+- [00:47:41,280 - 00:47:42,780] You've got the field of
+- [00:47:42,780 - 00:47:44,280] invention usually, then the background.
+- [00:47:44,280 - 00:47:48,280] What problem is there that you're solving?
+- [00:47:48,280 - 00:47:50,280] You do a little summary of what it is.
+- [00:47:50,280 - 00:47:53,280] And then the core of it is the detailed description.
+- [00:47:53,280 - 00:47:54,280] Remember I said,
+- [00:47:54,280 - 00:47:57,280] it's a trade-off, you get a patent if you disclose?
+- [00:47:57,280 - 00:48:00,280] Here's where you have to disclose what the invention is.
+- [00:48:00,280 - 00:48:02,280] And you have to describe
+- [00:48:02,280 - 00:48:04,280] the best mode of practicing it.
+- [00:48:04,280 - 00:48:07,280] So you can't say, the best mode is this way,
+- [00:48:07,280 - 00:48:09,280] and then go off and do something
+- [00:48:09,280 - 00:48:11,280] else and expect it to have it happen.
+- [00:48:11,280 - 00:48:16,280] And the claims are exactly what's your invention.
+- [00:48:16,280 - 00:48:18,280] Now, the claims,
+- [00:48:18,280 - 00:48:22,280] the writing and interpretation of claims,
+- [00:48:22,280 - 00:48:26,280] that's a highly technical thing for lawyers, patent lawyers.
+- [00:48:26,280 - 00:48:28,780] So, you know, that's, you don't
+- [00:48:28,780 - 00:48:31,280] typically want to do those yourself.
+- [00:48:31,280 - 00:48:33,280] This is where you want to spend the money
+- [00:48:33,280 - 00:48:36,280] and get somebody who really knows the prior art
+- [00:48:36,280 - 00:48:39,280] and knows how to write stuff.
+- [00:48:39,280 - 00:48:43,280] Here are some of the costs.
+- [00:48:43,280 - 00:48:48,280] A range for preparing an application, $5,000 to $15,000.
+- [00:48:48,280 - 00:48:50,280] I once got a bill for $35,000.
+- [00:48:50,280 - 00:48:51,280] I'm not sure how much that is.
+- [00:48:51,280 - 00:48:54,280] I got $35,000 for an application.
+- [00:48:54,280 - 00:48:57,280] And I called up the law firm and I said,
+- [00:48:57,280 - 00:48:59,280] $35,000, what's going on?
+- [00:48:59,280 - 00:49:02,280] Well, it turned out my co-founder was
+- [00:49:02,280 - 00:49:05,280] calling the patent lawyer all the time
+- [00:49:05,280 - 00:49:06,280] and saying, you know, we should
+- [00:49:06,280 - 00:49:07,280] add this and we should do,
+- [00:49:07,280 - 00:49:09,280] and he didn't tell me.
+- [00:49:09,280 - 00:49:11,280] And so the meter was just turning like this.
+- [00:49:11,280 - 00:49:12,780] So I had to sit
+- [00:49:12,780 - 00:49:14,280] down the law for the company.
+- [00:49:14,280 - 00:49:16,780] Nobody talks to the patent
+- [00:49:16,780 - 00:49:19,280] lawyer without coming through me, right?
+- [00:49:19,280 - 00:49:20,280] And, you know, this, this, my
+- [00:49:20,280 - 00:49:21,280] co-founder was a former MIT lawyer.
+- [00:49:21,280 - 00:49:22,280] He's a professor.
+- [00:49:22,280 - 00:49:23,280] He's a brilliant guy.
+- [00:49:23,280 - 00:49:26,280] And I said, next time this happens,
+- [00:49:26,280 - 00:49:30,280] you're paying for all of the prosecution costs on it.
+- [00:49:30,280 - 00:49:34,280] The filing fees are fairly low for a micro,
+- [00:49:34,280 - 00:49:37,280] which would be what you would be, $64.
+- [00:49:37,280 - 00:49:41,280] The prosecution costs, it's like a tennis match.
+- [00:49:41,280 - 00:49:44,780] You really can't decide whether this is
+- [00:49:44,780 - 00:49:48,280] going to be a two-hit rally or,
+- [00:49:48,280 - 00:49:50,280] they had the Australian Open the other day.
+- [00:49:50,280 - 00:49:51,280] It was $55,000.
+- [00:49:51,280 - 00:49:52,280] They haven't got the $95,000.
+- [00:49:52,280 - 00:49:53,280] They had the $45,000.
+- [00:49:53,280 - 00:49:54,280] So, you know, you put the application in.
+- [00:49:54,280 - 00:49:55,280] Typically the examiner rejects it.
+- [00:49:55,280 - 00:49:56,280] And that's a good sign, because if they accept it,
+- [00:49:56,280 - 00:49:57,280] you probably haven't tried to claim enough.
+- [00:49:57,280 - 00:49:58,280] And so you respond to that, you know,
+- [00:49:58,280 - 00:49:59,280] and point that the prior artists, you know, not,
+- [00:49:59,280 - 00:50:00,280] it's not really matter in this case for that reason.
+- [00:50:00,280 - 00:50:01,280] And then it goes back, and then the examiner,
+- [00:50:01,280 - 00:50:02,280] and you go back and forth.
+- [00:50:02,280 - 00:50:02,780] And if that keeps going, your
+- [00:50:02,780 - 00:50:03,280] cost is going to go up,
+- [00:50:03,280 - 00:50:04,280] because typically the patent lawyer is charged by the hour.
+- [00:50:04,280 - 00:50:05,280] And so, you know, the point is that,
+- [00:50:05,280 - 00:50:06,280] you know, if you can't claim,
+- [00:50:06,280 - 00:50:07,280] you can't claim the interest,
+- [00:50:07,280 - 00:50:08,280] you can't claim the claim.
+- [00:50:08,280 - 00:50:09,280] That's the only way you can claim a patent.
+- [00:50:09,280 - 00:50:11,110] You know, it's not really matter
+- [00:50:11,110 - 00:50:12,940] in this case for that reason.
+- [00:50:13,080 - 00:50:14,350] Then it goes back, and then the
+- [00:50:14,350 - 00:50:15,620] examiner, and you go back and forth.
+- [00:50:15,720 - 00:50:17,180] And if that keeps going, your
+- [00:50:17,180 - 00:50:18,640] cost is going to go up
+- [00:50:18,640 - 00:50:21,360] because typically the patent lawyer is charged by the hour.
+- [00:50:23,020 - 00:50:26,200] You can't really control that very well.
+- [00:50:27,020 - 00:50:28,940] Some large companies have tried
+- [00:50:28,940 - 00:50:30,860] to do fixed-cost patent applications,
+- [00:50:31,300 - 00:50:33,840] and we've done some analysis that say typically
+- [00:50:33,840 - 00:50:36,380] that doesn't get you anything near a good patent
+- [00:50:36,380 - 00:50:38,820] because all they want to do for a
+- [00:50:38,820 - 00:50:41,260] fixed cost is get something allowed as a claim.
+- [00:50:42,260 - 00:50:44,600] And if I go back to that
+- [00:50:44,600 - 00:50:46,940] discussion with the big consumer products company,
+- [00:50:47,820 - 00:50:51,220] if we hadn't got our patents issued at that time,
+- [00:50:52,120 - 00:50:54,600] I wasn't really worried because the language
+- [00:50:54,600 - 00:50:57,080] said if we didn't get one claim allowed,
+- [00:50:58,660 - 00:51:01,000] at least one claim and one patent allowed,
+- [00:51:01,340 - 00:51:03,020] well, I could craft the claim
+- [00:51:03,020 - 00:51:04,700] so small that it would be irrelevant,
+- [00:51:05,580 - 00:51:06,080] and it would have been...
+- [00:51:06,380 - 00:51:08,200] It would have met the requirements of that contract.
+- [00:51:08,520 - 00:51:10,300] So it was kind of stupid on their part.
+- [00:51:10,460 - 00:51:11,880] They didn't really understand what they were doing.
+- [00:51:13,320 - 00:51:15,640] Foreign patent applications get expensive.
+- [00:51:16,640 - 00:51:17,700] Here are some of the costs.
+- [00:51:17,760 - 00:51:18,380] You can read them.
+- [00:51:18,880 - 00:51:20,440] When you go to national phase,
+- [00:51:20,840 - 00:51:22,470] which just means you, say, file in
+- [00:51:22,470 - 00:51:24,100] the U.S. and you're going around the world,
+- [00:51:24,460 - 00:51:26,140] that really can get expensive.
+- [00:51:27,140 - 00:51:29,250] There was a general accounting office
+- [00:51:29,250 - 00:51:31,360] study back in the early 2000s
+- [00:51:31,360 - 00:51:34,380] that looked at the cost for a small entity
+- [00:51:34,380 - 00:51:36,360] to get a patent.
+- [00:51:36,400 - 00:51:38,640] And they found that the cost for a big company
+- [00:51:38,640 - 00:51:40,460] was roughly $330,000,
+- [00:51:40,460 - 00:51:42,120] and that's the cost that a
+- [00:51:42,120 - 00:51:43,780] large company would have to pay
+- [00:51:43,780 - 00:51:45,860] to get and maintain a patent in
+- [00:51:45,860 - 00:51:47,940] the 10 major industrial countries of the world,
+- [00:51:47,940 - 00:51:52,920] and it ranged from $350,000 to $500,000
+- [00:51:52,920 - 00:51:54,920] over the life of the patent,
+- [00:51:54,920 - 00:51:56,100] which is a big number.
+- [00:51:56,540 - 00:51:58,560] By the way, when we...
+- [00:51:58,880 - 00:52:00,800] If we're thinking about licensing it,
+- [00:52:00,800 - 00:52:04,520] part of our negotiation with an exclusive license
+- [00:52:04,520 - 00:52:05,160] would be that the licensee
+- [00:52:05,160 - 00:52:05,800] would pick up the patent costs.
+- [00:52:05,800 - 00:52:05,970] So if you can get something licensed before
+- [00:52:05,970 - 00:52:06,140] you have to start paying the big bucks,
+- [00:52:06,140 - 00:52:06,240] and you're going to have to pay the big bucks,
+- [00:52:06,240 - 00:52:09,899] That's a reason to do that.
+- [00:52:12,120 - 00:52:15,540] If it's expensive, what's another strategy you might do?
+- [00:52:15,620 - 00:52:16,959] Well, I call it disclosing.
+- [00:52:17,759 - 00:52:19,409] If you have something that
+- [00:52:19,409 - 00:52:21,060] you think is a fundamental invention
+- [00:52:21,060 - 00:52:22,700] and you talk to your patent lawyer
+- [00:52:22,700 - 00:52:24,079] and they think you can get
+- [00:52:24,079 - 00:52:25,459] a really strong patent on it,
+- [00:52:26,720 - 00:52:31,620] then a strategy is to disclose the others
+- [00:52:31,620 - 00:52:33,360] because what you don't want to
+- [00:52:33,360 - 00:52:35,100] do is put it out there
+- [00:52:35,100 - 00:52:37,010] and have some other people
+- [00:52:37,010 - 00:52:38,920] come and picket fence, it's called.
+- [00:52:39,540 - 00:52:42,360] They patent all of the key things that are needed
+- [00:52:42,360 - 00:52:45,080] to bring that thing as a commercial viability.
+- [00:52:46,220 - 00:52:47,940] The Japanese were famous for this.
+- [00:52:48,759 - 00:52:51,900] Here's my vessel to hold a liquid.
+- [00:52:52,700 - 00:52:53,920] Let's say I have that patent,
+- [00:52:53,920 - 00:52:55,980] and you come along and say,
+- [00:52:56,080 - 00:52:58,940] well, you know, maybe it needs a top.
+- [00:52:59,819 - 00:53:02,160] Or maybe you could come along and say,
+- [00:53:02,220 - 00:53:03,140] I'll patent a sleeve.
+- [00:53:03,839 - 00:53:04,920] Or maybe...
+- [00:53:05,100 - 00:53:05,720] a handle.
+- [00:53:06,720 - 00:53:10,100] Or maybe even an insulating version of that.
+- [00:53:10,920 - 00:53:13,500] And if you do that, I'm sort of stuck.
+- [00:53:13,640 - 00:53:15,480] I can't go to market with any of those things.
+- [00:53:16,160 - 00:53:17,200] You've blocked me in.
+- [00:53:17,860 - 00:53:21,299] An example of that is this ring patent.
+- [00:53:21,819 - 00:53:25,360] The patent, this little patent in the yellow there,
+- [00:53:25,460 - 00:53:26,339] that was a ring patent.
+- [00:53:26,540 - 00:53:29,120] All the red patents are from Skybill.
+- [00:53:29,940 - 00:53:32,520] When you see a pattern like that of one company
+- [00:53:32,520 - 00:53:34,200] citing one patent of another company,
+- [00:53:34,299 - 00:53:34,409] it could very well be that you're
+- [00:53:34,409 - 00:53:34,520] not going to be able to do that.
+- [00:53:34,520 - 00:53:34,530] It could very well be that you're
+- [00:53:34,530 - 00:53:34,540] not going to be able to do that.
+- [00:53:34,540 - 00:53:36,860] It could very well be a picket fence.
+- [00:53:38,220 - 00:53:40,160] So what it means here is,
+- [00:53:41,420 - 00:53:44,640] if you can get that strong patent on the cup,
+- [00:53:45,279 - 00:53:46,100] the vessel to hold a liquid,
+- [00:53:46,520 - 00:53:49,200] you could disclose in the patent filing or elsewhere
+- [00:53:49,200 - 00:53:51,620] other things, but not actually claim it.
+- [00:53:52,540 - 00:53:53,900] I've got a vessel to hold a liquid.
+- [00:53:54,160 - 00:53:54,759] It's wonderful.
+- [00:53:55,040 - 00:53:55,960] There are a lot of
+- [00:53:55,960 - 00:53:56,880] things you could do with it.
+- [00:53:56,920 - 00:53:57,960] You could put a top on it.
+- [00:53:58,240 - 00:53:59,500] You could put a handle on it.
+- [00:53:59,500 - 00:54:02,400] You could put an insulation sleeve for hot or cold.
+- [00:54:02,620 - 00:54:03,800] You can do all of that.
+- [00:54:03,920 - 00:54:04,520] And having done that,
+- [00:54:04,520 - 00:54:08,700] that becomes prior art disclosed for other people.
+- [00:54:09,060 - 00:54:11,759] So somebody else can't come along and say,
+- [00:54:11,840 - 00:54:13,240] I want to patent the sleeve,
+- [00:54:13,500 - 00:54:15,320] because it's already been disclosed.
+- [00:54:16,700 - 00:54:18,420] It's cheap, but you want to make sure.
+- [00:54:18,960 - 00:54:20,000] It's a cheap strategy,
+- [00:54:20,100 - 00:54:21,180] but you want to make sure it actually,
+- [00:54:22,060 - 00:54:23,700] your core patent is going to be strong.
+- [00:54:25,540 - 00:54:26,759] Now, back to Tesla.
+- [00:54:27,500 - 00:54:29,200] You saw all the patents Tesla had.
+- [00:54:31,120 - 00:54:34,160] And Elon Musk is pro-innovation.
+- [00:54:34,520 - 00:54:38,520] So back in 2014, they said, look,
+- [00:54:38,520 - 00:54:43,200] we're going to make a bunch of our patents available.
+- [00:54:43,660 - 00:54:47,020] We're going to license them for free to people,
+- [00:54:47,020 - 00:54:49,660] because we believe in innovation.
+- [00:54:51,180 - 00:54:52,700] And everyone went, yay.
+- [00:54:53,820 - 00:54:57,400] Well, what were those patents?
+- [00:54:57,520 - 00:54:59,240] Well, they were things around chargers
+- [00:55:00,300 - 00:55:01,700] and other kinds of things.
+- [00:55:02,040 - 00:55:03,800] He had patented a bunch of things.
+- [00:55:03,800 - 00:55:04,380] He had patented a bunch of things.
+- [00:55:04,380 - 00:55:04,660] And he had patented a bunch of things.
+- [00:55:04,660 - 00:55:04,700] And he had patented a bunch of things.
+- [00:55:04,700 - 00:55:06,340] That were needed in order to make
+- [00:55:06,340 - 00:55:08,520] the complete ecosystem for electric vehicles.
+- [00:55:09,100 - 00:55:11,320] He's interested in selling electric vehicles.
+- [00:55:12,220 - 00:55:14,800] Henry Ford was interested in selling cars.
+- [00:55:15,660 - 00:55:16,900] In Henry Ford's case,
+- [00:55:16,940 - 00:55:20,220] he didn't need to drill for oil,
+- [00:55:20,420 - 00:55:21,820] refine it into gas,
+- [00:55:22,400 - 00:55:24,340] build gas stations,
+- [00:55:24,960 - 00:55:25,640] build roads.
+- [00:55:26,560 - 00:55:27,540] Other people could do it.
+- [00:55:27,840 - 00:55:28,740] In Tesla's case,
+- [00:55:29,360 - 00:55:31,400] if he could control through license
+- [00:55:31,400 - 00:55:32,480] what people did,
+- [00:55:33,520 - 00:55:34,360] but he could enable people
+- [00:55:34,360 - 00:55:36,340] others to become entrepreneurs and build
+- [00:55:36,340 - 00:55:38,320] out the infrastructure, it would help his
+- [00:55:38,320 - 00:55:40,710] strategy. Because in the old days, the
+- [00:55:40,710 - 00:55:43,100] strategy for patents was patent what you
+- [00:55:43,100 - 00:55:46,770] invent and make sure you don't infringe.
+- [00:55:46,770 - 00:55:50,440] If you think more broadly, even a
+- [00:55:50,440 - 00:55:52,690] nonprofit that, you know, could patent
+- [00:55:52,690 - 00:55:54,940] something to make sure some other people
+- [00:55:54,940 - 00:55:57,710] wouldn't do things to prevent if the
+- [00:55:57,710 - 00:56:00,480] patents, if the nonprofit's goal was to
+- [00:56:00,480 - 00:56:03,060] get this out into the marketplace, like
+- [00:56:03,060 - 00:56:05,640] Amy Smith's, you know, incubator I talked
+- [00:56:05,640 - 00:56:08,260] about the other day, then you could at
+- [00:56:08,260 - 00:56:10,880] least use that as a control if somebody,
+- [00:56:10,880 - 00:56:12,590] you know, tries to do something that
+- [00:56:12,590 - 00:56:14,300] you don't think is in the public interest.
+- [00:56:14,300 - 00:56:19,720] Make sense? Think a little bit
+- [00:56:19,720 - 00:56:25,140] broader. Okay. So you should think about
+- [00:56:25,140 - 00:56:27,780] goal-oriented IP. You know, what it is. Do
+- [00:56:27,780 - 00:56:30,420] you have a core technology? Do you have a
+- [00:56:30,420 - 00:56:30,440] project? Do you have a goal-oriented IP? Do
+- [00:56:30,440 - 00:56:30,460] you have a core technology? Do you have a
+- [00:56:30,460 - 00:56:31,870] product that if you put it out
+- [00:56:31,870 - 00:56:33,280] there, there's a risk people could reverse
+- [00:56:33,280 - 00:56:36,760] engineer it? In which case, you might want
+- [00:56:36,760 - 00:56:40,240] to patent it. If that product has a
+- [00:56:40,240 - 00:56:42,940] short time frame, is it worth getting the
+- [00:56:42,940 - 00:56:45,640] cost of it if it's going to be
+- [00:56:45,640 - 00:56:49,020] leapfrogged in two or three years?
+- [00:56:49,020 - 00:56:52,400] Is your business model to manufacture and
+- [00:56:52,400 - 00:56:54,930] sell? That's one thing. What if you're
+- [00:56:54,930 - 00:56:57,460] going to license it? Well, if you're going
+- [00:56:57,460 - 00:56:58,930] to license the technology, you
+- [00:56:58,930 - 00:57:00,400] better have the IP protection.
+- [00:57:00,400 - 00:57:03,280] Because your licensee is going to invest
+- [00:57:03,280 - 00:57:06,160] money in commercializing it, and they want
+- [00:57:06,160 - 00:57:08,400] to make sure that it's protected. So you would
+- [00:57:08,400 - 00:57:10,640] really want an IP strategy if you were licensing.
+- [00:57:10,640 - 00:57:13,890] Now, there may be other non-IP bars to entry
+- [00:57:13,890 - 00:57:17,140] that might protect you. You know, if you have
+- [00:57:17,140 - 00:57:20,460] to get FDA approval or other regulatory. And
+- [00:57:20,460 - 00:57:23,780] if you're thinking about that your ultimate thing is
+- [00:57:23,780 - 00:57:26,390] you're going to be acquired, again, you
+- [00:57:26,390 - 00:57:29,000] want to have something that's valuable. And there,
+- [00:57:29,000 - 00:57:29,670] you might want to build up a portfolio. And
+- [00:57:29,670 - 00:57:30,340] if you're thinking about that, you might want to
+- [00:57:30,340 - 00:57:33,280] build up a portfolio of IP so that the
+- [00:57:33,280 - 00:57:36,220] person acquiring you, you know, sees that extra value.
+- [00:57:36,220 - 00:57:41,140] All right. So practical checklists for you.
+- [00:57:41,140 - 00:57:46,060] Employees, make sure you get an invention disclosure
+- [00:57:46,060 - 00:57:49,500] and assignment agreement. Because as we know, the
+- [00:57:49,500 - 00:57:52,940] inventor owns. If you don't get that, same with
+- [00:57:52,940 - 00:57:56,200] copyright. If you're using consultants, make sure
+- [00:57:56,200 - 00:57:59,460] you have a work for hire agreement, which
+- [00:57:59,460 - 00:57:59,880] specifically is the one that you're going to be
+- [00:57:59,880 - 00:58:00,300] using. And then, if you're going to be using a
+- [00:58:00,300 - 00:58:01,990] work for hire agreement, it basically says you, the
+- [00:58:01,990 - 00:58:03,680] consultant, are going to do X for me and under
+- [00:58:03,680 - 00:58:06,850] a work for hire, and I'll get to
+- [00:58:06,850 - 00:58:10,020] own it. You'll want to have non-disclosure agreements where
+- [00:58:10,020 - 00:58:13,700] appropriate. Now, typically, venture capital
+- [00:58:13,700 - 00:58:17,380] investors will not sign non-disclosure agreements.
+- [00:58:17,380 - 00:58:20,180] And the reason they state is, you know, we
+- [00:58:20,180 - 00:58:22,980] got a lot of people coming in with similar technologies.
+- [00:58:22,980 - 00:58:26,060] And if we don't fund you but we fund someone
+- [00:58:26,060 - 00:58:29,140] else, you know, we don't want to have anybody claiming
+- [00:58:29,140 - 00:58:29,370] we violated an agreement. And so, you know,
+- [00:58:29,370 - 00:58:29,600] you're going to want to have a non-disclosure agreement.
+- [00:58:29,600 - 00:58:29,860] And if you're going to have a non-disclosure agreement, you know,
+- [00:58:29,860 - 00:58:30,120] we don't want to have anybody claiming we violated an agreement.
+- [00:58:30,120 - 00:58:34,969] So, again, you know, don't disclose the
+- [00:58:34,969 - 00:58:39,819] secret sauce until the absolute last moment.
+- [00:58:39,819 - 00:58:41,859] You want to avoid infringement. You want
+- [00:58:41,859 - 00:58:43,900] to make sure you have freedom to operate.
+- [00:58:43,900 - 00:58:46,040] Am I going to infringe somebody else's
+- [00:58:46,040 - 00:58:48,180] patent if I bring this thing to market?
+- [00:58:48,180 - 00:58:51,030] Understand the patent landscape, not only
+- [00:58:51,030 - 00:58:53,880] in one time, but over time.
+- [00:58:53,880 - 00:58:56,650] So, to see the forest site, you can update those maps, you
+- [00:58:56,650 - 00:58:59,420] know, weekly or monthly, and keep an idea of what's going on.
+- [00:58:59,420 - 00:59:00,770] And you want to preserve
+- [00:59:00,770 - 00:59:02,120] your patent rights. File provisional applications.
+- [00:59:02,120 - 00:59:04,120] By the way, there was a real culture thing.
+- [00:59:04,120 - 00:59:06,120] We were dealing with this large consumer products company.
+- [00:59:06,120 - 00:59:08,580] And we talked to their patent people and said,
+- [00:59:08,580 - 00:59:11,040] you know, we're going to be, in our collaboration,
+- [00:59:11,040 - 00:59:13,540] we're going to be filing provisional applications. And
+- [00:59:13,540 - 00:59:16,040] they said, well, we don't really do that.
+- [00:59:16,040 - 00:59:18,540] Why not? Oh, they're too hard to track.
+- [00:59:18,540 - 00:59:21,040] And we said, let's do it this way.
+- [00:59:21,040 - 00:59:22,890] We're going to do it this way. And
+- [00:59:22,890 - 00:59:24,740] they said, well, we don't really do that.
+- [00:59:24,740 - 00:59:26,730] Why not? Oh, they're too hard to track.
+- [00:59:26,730 - 00:59:28,720] And we said, let's do it this way.
+- [00:59:28,720 - 00:59:32,220] Listen, guys, Silicon Valley is doing this all the time. You're going to
+- [00:59:32,220 - 00:59:35,720] get hammered if you don't figure out how to keep track of this.
+- [00:59:35,720 - 00:59:37,720] So, the big companies, you know,
+- [00:59:37,720 - 00:59:39,720] we're not thinking in this way.
+- [00:59:39,720 - 00:59:41,720] You want to make sure
+- [00:59:41,720 - 00:59:43,720] you file timely the patent application.
+- [00:59:43,720 - 00:59:46,220] And you want to make sure you're
+- [00:59:46,220 - 00:59:48,720] not going to be picket fence, if appropriate.
+- [00:59:48,720 - 00:59:52,720] Okay? Now, how to deal with lawyers.
+- [00:59:52,720 - 00:59:56,720] They're wonderful creatures. I used to be one.
+- [00:59:58,720 - 01:00:01,720] You're purchasing legal expertise usually by the hour.
+- [01:00:01,720 - 01:00:04,720] So, already, I've been here about an hour.
+- [01:00:04,720 - 01:00:06,720] The bill's going to be horrendous for
+- [01:00:06,720 - 01:00:08,720] you guys, I got to tell you.
+- [01:00:08,720 - 01:00:10,220] So, you want a disciplined
+- [01:00:10,220 - 01:00:11,720] approach in dealing with the lawyers.
+- [01:00:11,720 - 01:00:16,220] If you come in and dump a notebook from your lab and
+- [01:00:16,220 - 01:00:20,720] say, write me a patent, it's going to take a long time.
+- [01:00:20,720 - 01:00:22,720] Or if you're like my co-founder
+- [01:00:22,720 - 01:00:24,720] and playing ping pong back and forth.
+- [01:00:24,720 - 01:00:26,220] So, you want to understand where
+- [01:00:26,220 - 01:00:27,720] it is you're trying to do.
+- [01:00:27,720 - 01:00:31,720] You want to make sure the attorney's kept informed.
+- [01:00:31,720 - 01:00:35,720] You want to show the invention disclosures.
+- [01:00:35,720 - 01:00:37,720] Clear agreement on fees. And
+- [01:00:37,720 - 01:00:39,720] don't wait until the last moment.
+- [01:00:39,720 - 01:00:42,720] You know, if you come up on the one-year deadline and call
+- [01:00:42,720 - 01:00:45,720] the attorney tomorrow and say, I got to get this filed Monday.
+- [01:00:45,720 - 01:00:49,720] What do you think the bill's going to be? Versus, you know,
+- [01:00:49,720 - 01:00:53,720] we're going to have to have this on file a month from now.
+- [01:00:53,720 - 01:00:56,720] Leverage your technical expertise.
+- [01:00:56,720 - 01:00:57,720] Read some other papers.
+- [01:00:57,720 - 01:00:59,720] If you have other patents in your area,
+- [01:00:59,720 - 01:01:01,720] you can do a first draft of everything.
+- [01:01:01,720 - 01:01:04,720] After all, you're describing what your invention is.
+- [01:01:04,720 - 01:01:06,720] Let the patent lawyer do the claims.
+- [01:01:06,720 - 01:01:10,720] But the time you spend doing that and reading other people's
+- [01:01:10,720 - 01:01:14,720] patents is time you don't have to pay the lawyers for.
+- [01:01:14,720 - 01:01:20,720] And then you can read my Ten Commandments of Dealing with Lawyers,
+- [01:01:20,720 - 01:01:26,720] which is in the course materials, about how to streamline your interactions.
+- [01:01:26,720 - 01:01:28,720] So the question came up the
+- [01:01:28,720 - 01:01:30,720] other night about licensing from universities.
+- [01:01:30,720 - 01:01:32,220] So I thought I would
+- [01:01:32,220 - 01:01:33,720] give you a rush through that.
+- [01:01:33,720 - 01:01:36,720] As I promised you, I'm overloading you with information.
+- [01:01:36,720 - 01:01:38,720] I think some of it's sinking in.
+- [01:01:38,720 - 01:01:42,720] Some people are looking like, I need a break.
+- [01:01:42,720 - 01:01:45,720] But let's talk about licensing.
+- [01:01:45,720 - 01:01:50,720] It's before the Bayh-Dole Act back in 1980, if the federal government
+- [01:01:50,720 - 01:01:55,720] funded research in a university, the federal government owned the resulting IP.
+- [01:01:56,720 - 01:01:59,720] It was managed out of Washington.
+- [01:01:59,720 - 01:02:03,720] It was only licensed non-exclusively.
+- [01:02:03,720 - 01:02:05,720] So think about it.
+- [01:02:05,720 - 01:02:09,220] If you're going to build a business, you'd like to
+- [01:02:09,220 - 01:02:12,720] have an exclusive license and not against a bunch of competitors.
+- [01:02:12,720 - 01:02:16,720] And so the result was few patents were commercialized.
+- [01:02:16,720 - 01:02:21,720] Only about 5% of patents were commercially licensed.
+- [01:02:21,720 - 01:02:23,720] So Bayh-Dole came along and said,
+- [01:02:23,720 - 01:02:25,720] you know, wait a second, guys.
+- [01:02:25,720 - 01:02:28,720] If you could give the ownership of this IP that
+- [01:02:28,720 - 01:02:31,720] we, the government, pay for you, give it to the universities.
+- [01:02:31,720 - 01:02:34,720] They're closer to the inventors.
+- [01:02:34,720 - 01:02:37,220] And let them have the right to license
+- [01:02:37,220 - 01:02:39,720] it and keep the benefits from the license.
+- [01:02:39,720 - 01:02:43,720] Oh, and by the way, they can license it exclusively.
+- [01:02:43,720 - 01:02:45,720] So they did.
+- [01:02:45,720 - 01:02:47,720] And this is what Bayh-Dole requires universities.
+- [01:02:47,720 - 01:02:51,720] They have to retain ownership of innovations.
+- [01:02:51,720 - 01:02:54,720] They have to file the patent inventions, patents.
+- [01:02:54,720 - 01:02:59,720] They have to give licensing preferences to small businesses.
+- [01:02:59,720 - 01:03:02,720] They do provide the government with a royalty-free license.
+- [01:03:02,720 - 01:03:05,720] Rarely an issue, but they have
+- [01:03:05,720 - 01:03:08,720] to develop programs to commercialize this.
+- [01:03:08,720 - 01:03:11,720] And they have to share royalties with the inventors.
+- [01:03:11,720 - 01:03:16,220] As a result, most of the research universities
+- [01:03:16,220 - 01:03:20,720] came up with technology licensing offices to do this.
+- [01:03:20,720 - 01:03:23,720] The one at MIT is called the Technology Licensing Office.
+- [01:03:24,720 - 01:03:29,720] Interestingly enough, MIT, historically, in my experience, is the easiest one to
+- [01:03:29,720 - 01:03:34,720] deal with because of the way they're structured and what their goals are.
+- [01:03:34,720 - 01:03:38,220] If you deal with other universities, you
+- [01:03:38,220 - 01:03:41,720] know, their primary goal is getting revenue.
+- [01:03:41,720 - 01:03:43,720] MIT says, look, we want to
+- [01:03:43,720 - 01:03:45,720] make sure this stuff gets out there.
+- [01:03:45,720 - 01:03:49,220] And only secondarily do we care about the
+- [01:03:49,220 - 01:03:52,720] royalties and what we can get for it.
+- [01:03:52,720 - 01:03:53,720] That also makes it organizational.
+- [01:03:53,720 - 01:03:57,220] It also makes it organizationally easier to report
+- [01:03:57,220 - 01:04:00,720] up the chain, to saying we're doing it.
+- [01:04:00,720 - 01:04:03,720] But that's the mission of the TLO.
+- [01:04:03,720 - 01:04:07,720] What is the ownership policy at MIT?
+- [01:04:07,720 - 01:04:10,720] I haven't vetted this recently.
+- [01:04:10,720 - 01:04:12,720] I don't think it's changed fundamentally.
+- [01:04:12,720 - 01:04:16,720] But, you know, go to the
+- [01:04:16,720 - 01:04:20,720] Technology Licensing Office site, which is TLO.MIT.edu.
+- [01:04:20,720 - 01:04:21,720] MIT owns the patent.
+- [01:04:21,720 - 01:04:22,720] MIT owns the patent.
+- [01:04:22,720 - 01:04:27,720] It's significant use of MIT facilities or
+- [01:04:27,720 - 01:04:32,720] MIT-administered funds were used, say, for research.
+- [01:04:32,720 - 01:04:37,720] They never assign ownership of the IP.
+- [01:04:37,720 - 01:04:40,720] They only license it.
+- [01:04:40,720 - 01:04:45,220] And they do guarantee sponsors of the research, you know, the rights
+- [01:04:45,220 - 01:04:49,720] to, first rights to the invention, so sort of first right to license.
+- [01:04:49,720 - 01:04:51,720] You heard Ali last night.
+- [01:04:51,720 - 01:04:53,720] She did her stuff as an
+- [01:04:53,720 - 01:04:55,720] undergraduate, so that was a good thing.
+- [01:04:55,720 - 01:04:59,720] But she also went to the Technology Licensing Office and said, can
+- [01:04:59,720 - 01:05:03,720] you just give me something that says MIT doesn't have ownership in this?
+- [01:05:03,720 - 01:05:06,220] And so there were no sponsor
+- [01:05:06,220 - 01:05:08,720] rights in what she was doing.
+- [01:05:08,720 - 01:05:13,720] She didn't use significant MIT facilities, didn't use funds,
+- [01:05:13,720 - 01:05:18,720] and didn't use MIT's facilities to reduce the practice.
+- [01:05:18,720 - 01:05:19,720] That last one is interesting.
+- [01:05:19,720 - 01:05:21,720] The reason Kendall's right.
+- [01:05:21,720 - 01:05:26,220] The reason Kendall's square exists in large part is you have
+- [01:05:26,220 - 01:05:30,720] a technology in the lab like, what was it, Lewis's last night?
+- [01:05:30,720 - 01:05:33,720] He's going to get a license.
+- [01:05:33,720 - 01:05:35,720] He's not going to do the work at MIT.
+- [01:05:35,720 - 01:05:39,220] He's going to go across the street to a commercial building, and
+- [01:05:39,220 - 01:05:42,720] maybe Bob Langer will come over on his consulting day or whatever.
+- [01:05:42,720 - 01:05:44,720] But they're going to build
+- [01:05:44,720 - 01:05:46,720] their stuff outside of the university.
+- [01:05:46,720 - 01:05:49,720] And that's the whole Kendall's square thing.
+- [01:05:49,720 - 01:05:54,720] You could voluntarily, if you convince the TLO to do it,
+- [01:05:54,720 - 01:05:59,720] say, I want to assign my invention that you otherwise don't own.
+- [01:05:59,720 - 01:06:05,720] And if they accept it, then you'll just be like the same
+- [01:06:05,720 - 01:06:11,720] matter as other MIT inventions, including royalty sharing agreements with the inventors.
+- [01:06:11,720 - 01:06:16,720] Now, as a startup, you've got an interesting thing.
+- [01:06:16,720 - 01:06:18,720] You're trying to figure out what market is the best.
+- [01:06:18,720 - 01:06:20,720] What market am I going to go to?
+- [01:06:20,720 - 01:06:21,720] Where's my customer?
+- [01:06:21,720 - 01:06:22,720] You're going to explore that.
+- [01:06:22,720 - 01:06:24,720] You're going to try to raise money.
+- [01:06:24,720 - 01:06:26,720] Meanwhile, you've got this IP that
+- [01:06:26,720 - 01:06:28,720] you need to get out of MIT.
+- [01:06:28,720 - 01:06:31,220] If you sneak it out the back door,
+- [01:06:31,220 - 01:06:33,720] the investors are going to figure it out.
+- [01:06:33,720 - 01:06:34,720] So what do you do?
+- [01:06:34,720 - 01:06:37,720] Well, one option, one thing is to get an option.
+- [01:06:37,720 - 01:06:41,220] Go to the TLO and say, look, I would
+- [01:06:41,220 - 01:06:44,720] like an option to obtain a license on this thing.
+- [01:06:44,720 - 01:06:46,720] And here are some of the terms.
+- [01:06:46,720 - 01:06:47,720] Here's the license.
+- [01:06:47,720 - 01:06:48,720] Here's the license.
+- [01:06:48,720 - 01:06:49,720] Here's the terms.
+- [01:06:49,720 - 01:06:52,720] I haven't checked this recently,
+- [01:06:52,720 - 01:06:55,720] but it's modest upfront fee.
+- [01:06:55,720 - 01:06:58,220] It allows time for you to go out
+- [01:06:58,220 - 01:07:00,720] and test the market and go talk to investors.
+- [01:07:00,720 - 01:07:03,720] So the idea with investors is, hey, here's my technology.
+- [01:07:03,720 - 01:07:05,720] Here's our proof of concept.
+- [01:07:05,720 - 01:07:07,720] With these customers, we need this much money.
+- [01:07:07,720 - 01:07:10,720] And oh, by the way, we have an
+- [01:07:10,720 - 01:07:13,720] option to acquire a license to this technology.
+- [01:07:13,720 - 01:07:15,220] All we need is your money,
+- [01:07:15,220 - 01:07:16,720] and we're ready to start rolling.
+- [01:07:16,720 - 01:07:18,720] It's a pretty good way to work.
+- [01:07:18,720 - 01:07:24,720] So what are typical license financial terms?
+- [01:07:24,720 - 01:07:27,220] Again, I haven't vetted this currently,
+- [01:07:27,220 - 01:07:29,720] but it'll give you some idea.
+- [01:07:29,720 - 01:07:33,220] In the case of where the university doesn't
+- [01:07:33,220 - 01:07:36,720] take equity, the issue fees, that is the license
+- [01:07:36,720 - 01:07:41,720] issue fees, could run 50 to 150K.
+- [01:07:41,720 - 01:07:44,720] You'll have to pay a license maintenance fee,
+- [01:07:44,720 - 01:07:47,720] which can be anywhere to like 50% of expected
+- [01:07:47,720 - 01:07:50,720] running royalties.
+- [01:07:50,720 - 01:07:52,220] You have to diligently try
+- [01:07:52,220 - 01:07:53,720] to take the thing to market.
+- [01:07:53,720 - 01:07:55,720] You can't just put it on the shelf.
+- [01:07:55,720 - 01:07:57,720] They want to make sure it gets out there.
+- [01:07:57,720 - 01:07:59,220] Royalty is a percentage of
+- [01:07:59,220 - 01:08:00,720] sales, anywhere from 3% to 5%.
+- [01:08:00,720 - 01:08:02,720] I'm going to show you some
+- [01:08:02,720 - 01:08:04,720] more detail on that in a moment.
+- [01:08:04,720 - 01:08:07,220] You have to pick up the
+- [01:08:07,220 - 01:08:09,720] patent costs, depending on what they are.
+- [01:08:09,720 - 01:08:13,720] And you're not required to sponsor any research.
+- [01:08:13,720 - 01:08:15,720] If you say, look, I want to...
+- [01:08:15,720 - 01:08:16,219] And one of the big things at MIT, and I'm
+- [01:08:16,219 - 01:08:16,719] not saying this is a big thing, but I'm saying
+- [01:08:16,720 - 01:08:19,720] one of the big things that MIT did was
+- [01:08:19,720 - 01:08:22,720] realize that they were licensing this all to big companies.
+- [01:08:22,720 - 01:08:24,720] And it was the smaller companies
+- [01:08:24,720 - 01:08:26,720] that were the more innovative companies.
+- [01:08:26,720 - 01:08:28,720] So they should think about
+- [01:08:28,720 - 01:08:30,720] how do we license smaller companies.
+- [01:08:30,720 - 01:08:34,720] And the idea is, well, we could take some equity.
+- [01:08:34,720 - 01:08:36,220] And that's sort of opened up
+- [01:08:36,220 - 01:08:37,720] a whole bunch of what's going on.
+- [01:08:37,720 - 01:08:41,220] The terms are basically the same, except the
+- [01:08:41,220 - 01:08:44,720] royalty is less, and MIT would get an equity.
+- [01:08:44,720 - 01:08:45,720] Typically, a single company.
+- [01:08:45,720 - 01:08:50,720] Typically, a single-digit ownership, which remains
+- [01:08:50,720 - 01:08:55,720] fixed through the first round of financing.
+- [01:08:55,720 - 01:09:01,720] Meaning, if, let's say, the MIT got 5% ownership, and now
+- [01:09:01,720 - 01:09:07,720] an investor comes in and invests and gets 20% of the company,
+- [01:09:07,720 - 01:09:10,720] MIT still has 5% of the company.
+- [01:09:10,720 - 01:09:13,720] They're not diluted through that first round.
+- [01:09:13,720 - 01:09:16,720] They're proportionally diluted with everyone else.
+- [01:09:16,720 - 01:09:20,220] And we'll talk about anti-dilution provisions a little
+- [01:09:20,220 - 01:09:23,720] bit later in the presentation, if I have time.
+- [01:09:23,720 - 01:09:27,720] And there'll be future participation rights.
+- [01:09:27,720 - 01:09:31,720] Here are some typical royalties for university patents.
+- [01:09:31,720 - 01:09:33,720] These are a few years old.
+- [01:09:33,720 - 01:09:37,720] You can go to the Association
+- [01:09:37,720 - 01:09:41,720] of Technology Managers, AUTUMN it's called.
+- [01:09:41,720 - 01:09:43,720] And these are sort of the same.
+- [01:09:43,720 - 01:09:46,220] These are the typical ranges of royalties back
+- [01:09:46,220 - 01:09:48,720] when I looked at this a few years ago.
+- [01:09:48,720 - 01:09:52,720] You can go validate it.
+- [01:09:52,720 - 01:09:53,720] Okay, timeline.
+- [01:09:53,720 - 01:09:55,720] We're running out of time.
+- [01:09:55,720 - 01:09:57,720] But legal entity.
+- [01:09:57,720 - 01:10:00,220] Okay, if you don't do anything, you
+- [01:10:00,220 - 01:10:02,720] could very well have a general partnership.
+- [01:10:02,720 - 01:10:08,720] It's one or more persons engaging in business for profit.
+- [01:10:08,720 - 01:10:10,720] So what does that mean?
+- [01:10:10,720 - 01:10:12,720] You don't need a written agreement.
+- [01:10:12,720 - 01:10:14,720] What it does mean is
+- [01:10:14,720 - 01:10:16,720] you have joint and several liabilities.
+- [01:10:16,720 - 01:10:19,220] So if anything goes wrong, I can sue
+- [01:10:19,220 - 01:10:21,720] either one of you or both of you.
+- [01:10:21,720 - 01:10:24,220] The ownership, if you don't set it forth in
+- [01:10:24,220 - 01:10:26,720] an agreement, is based on the amount of money invested.
+- [01:10:26,720 - 01:10:28,220] It doesn't work very well for
+- [01:10:28,220 - 01:10:29,720] a fund, for a founder, right?
+- [01:10:29,720 - 01:10:31,720] Because the founder isn't putting
+- [01:10:31,720 - 01:10:33,720] in much relative to the investor.
+- [01:10:33,720 - 01:10:36,220] And investors aren't going to want to come
+- [01:10:36,220 - 01:10:38,720] in because they don't want the personal liability.
+- [01:10:38,720 - 01:10:40,720] So what do you want to do?
+- [01:10:40,720 - 01:10:46,720] Well, typically, you'll want to do probably a corporation.
+- [01:10:46,720 - 01:10:51,720] And if you're a company that's going to likely raise a bunch of
+- [01:10:51,720 - 01:10:56,720] money over time, if you need to in order to be successful, probably Delaware.
+- [01:10:56,720 - 01:11:00,720] Delaware has a more defined corporate law.
+- [01:11:00,720 - 01:11:03,720] More cases, it's more certain.
+- [01:11:03,720 - 01:11:06,220] And you should incorporate sooner than
+- [01:11:06,220 - 01:11:08,720] later to avoid that personal liability,
+- [01:11:08,720 - 01:11:10,720] to avoid liability for the fund.
+- [01:11:10,720 - 01:11:12,220] And you should also be
+- [01:11:12,220 - 01:11:13,720] able to pay for a partner.
+- [01:11:13,720 - 01:11:15,720] Minimize personal taxes.
+- [01:11:15,720 - 01:11:17,720] We're going to talk about that in a moment.
+- [01:11:17,720 - 01:11:21,220] There's a YouTube video that I did
+- [01:11:21,220 - 01:11:24,720] on all of this in more detail.
+- [01:11:24,720 - 01:11:26,720] If you do get a corporate thing, you
+- [01:11:26,720 - 01:11:28,720] want to make sure you observe the formalities.
+- [01:11:28,720 - 01:11:30,720] Do things in the corporate name.
+- [01:11:30,720 - 01:11:34,720] Maintain separate records.
+- [01:11:34,720 - 01:11:35,720] Pick a name.
+- [01:11:35,720 - 01:11:38,720] I talked about DIVA the other night.
+- [01:11:38,720 - 01:11:40,720] There's tax considerations.
+- [01:11:40,720 - 01:11:43,720] A corporation is a person.
+- [01:11:43,720 - 01:11:45,720] Not a warm, fuzzy person, but it's a person.
+- [01:11:45,720 - 01:11:47,720] It can be taxed.
+- [01:11:47,720 - 01:11:49,720] And if you don't do
+- [01:11:49,720 - 01:11:51,720] anything, it's taxed under subchapter C,
+- [01:11:51,720 - 01:11:54,220] which means the corporation is taxed, and
+- [01:11:54,220 - 01:11:56,720] anything that goes to the shareholder is taxed.
+- [01:11:56,720 - 01:11:58,720] Two layers of tax.
+- [01:11:58,720 - 01:12:00,720] A way to avoid that is
+- [01:12:00,720 - 01:12:02,720] to elect to be a subchapter S,
+- [01:12:02,720 - 01:12:05,220] which is a pass-through, meaning there's
+- [01:12:05,220 - 01:12:07,720] no tax at the corporate level.
+- [01:12:07,720 - 01:12:09,220] The owners of the corporation
+- [01:12:09,220 - 01:12:10,720] have to pick up any taxes.
+- [01:12:10,720 - 01:12:14,220] They have to pay taxes on
+- [01:12:14,220 - 01:12:17,720] their current, on their own tax returns.
+- [01:12:17,720 - 01:12:19,720] You have to qualify for it.
+- [01:12:19,720 - 01:12:21,720] You have to have fewer than 100 shareholders.
+- [01:12:21,720 - 01:12:24,720] You can only have one class of stock.
+- [01:12:24,720 - 01:12:26,720] You have to file within,
+- [01:12:26,720 - 01:12:28,720] I think, three months of incorporation.
+- [01:12:28,720 - 01:12:31,720] You can't flip back and forth easily.
+- [01:12:31,720 - 01:12:37,720] Some stockholders will not qualify as for S.
+- [01:12:37,720 - 01:12:39,720] Mainly, it's human beings.
+- [01:12:39,720 - 01:12:41,720] Some trusts.
+- [01:12:41,720 - 01:12:43,720] So, a venture capital firm comes in, and
+- [01:12:43,720 - 01:12:45,720] it's going to blow your subchapter S status.
+- [01:12:45,720 - 01:12:49,720] So, the question is, why do we care?
+- [01:12:49,720 - 01:12:51,220] Look, hey, Joe, I'm going to
+- [01:12:51,220 - 01:12:52,720] run losses for a few years.
+- [01:12:52,720 - 01:12:53,720] I'm going to take this money.
+- [01:12:53,720 - 01:12:54,720] I'm going to do development.
+- [01:12:54,720 - 01:12:55,720] I'm going to be losses.
+- [01:12:55,720 - 01:12:57,720] I'm not paying taxes.
+- [01:12:57,720 - 01:12:59,720] Well, it comes when the exit occurs.
+- [01:12:59,720 - 01:13:02,220] Many acquisitions, especially smaller
+- [01:13:02,220 - 01:13:04,720] acquisitions, are done of assets.
+- [01:13:04,720 - 01:13:05,720] You don't buy the stock,
+- [01:13:05,720 - 01:13:06,720] because if you buy the stock,
+- [01:13:06,720 - 01:13:09,720] you get everything that's associated with that.
+- [01:13:09,720 - 01:13:11,720] If you come in and buy
+- [01:13:11,720 - 01:13:13,720] just the assets, assume certain liabilities.
+- [01:13:13,720 - 01:13:17,720] So, in that case, the corporation, if it sells assets,
+- [01:13:17,720 - 01:13:20,720] is going to have a gain on those assets,
+- [01:13:20,720 - 01:13:23,720] taxed at the corporate level, if it's a C corp.
+- [01:13:23,720 - 01:13:25,220] If it's an S corp,
+- [01:13:25,220 - 01:13:26,720] no tax at the corporate level.
+- [01:13:26,720 - 01:13:28,720] Pass through to the shareholders.
+- [01:13:28,720 - 01:13:31,720] A little example here, maybe
+- [01:13:31,720 - 01:13:34,720] like a 13% difference in tax.
+- [01:13:34,720 - 01:13:36,220] The diva people that I
+- [01:13:36,220 - 01:13:37,720] talked about the other day said,
+- [01:13:37,720 - 01:13:38,720] look, you know, we're not going
+- [01:13:38,720 - 01:13:39,720] to be able to do anything
+- [01:13:39,720 - 01:13:41,220] if we take venture capital, so I'm
+- [01:13:41,220 - 01:13:42,720] not going to worry about sub S.
+- [01:13:42,720 - 01:13:44,720] They said, humor me.
+- [01:13:44,720 - 01:13:45,720] Just do it.
+- [01:13:45,720 - 01:13:47,720] And as I explained, they got acquired in two years.
+- [01:13:47,720 - 01:13:52,220] They saved about $2 million in taxes
+- [01:13:52,220 - 01:13:56,720] just because they filed a sub S.
+- [01:13:56,720 - 01:13:57,720] All right.
+- [01:13:57,720 - 01:13:58,720] This is a really important one.
+- [01:13:58,720 - 01:14:01,720] If you're falling asleep, wake up.
+- [01:14:01,720 - 01:14:03,720] This is a big trap.
+- [01:14:03,720 - 01:14:06,220] It's called Section 83 of the Internal
+- [01:14:06,220 - 01:14:08,720] Revenue Code, and it says the following.
+- [01:14:08,720 - 01:14:11,720] If you receive property
+- [01:14:11,720 - 01:14:14,720] in connection with providing services,
+- [01:14:14,720 - 01:14:18,220] you have ordinary income, which can
+- [01:14:18,220 - 01:14:21,720] be taxed federally, what, 37% or whatever,
+- [01:14:21,720 - 01:14:25,720] equal to the fair market value of the
+- [01:14:25,720 - 01:14:29,720] property you receive minus what you paid for it.
+- [01:14:29,720 - 01:14:31,720] You with me so far?
+- [01:14:31,720 - 01:14:33,720] How does it apply to you?
+- [01:14:33,720 - 01:14:38,720] Well, suppose I give you $1 million for 50%
+- [01:14:38,720 - 01:14:40,720] ownership in your venture.
+- [01:14:40,720 - 01:14:43,720] And I say, let's set up the company.
+- [01:14:43,720 - 01:14:50,720] What's your 50% worth?
+- [01:14:50,720 - 01:14:52,720] Anybody?
+- [01:14:52,720 - 01:14:54,720] I'm going to give you
+- [01:14:54,720 - 01:14:56,720] $1 million for half the company.
+- [01:14:56,720 - 01:14:59,720] Well, you could say there's $1 million in cash,
+- [01:14:59,720 - 01:15:01,220] so 50% of the company
+- [01:15:01,220 - 01:15:02,720] must be 50% of the cash,
+- [01:15:02,720 - 01:15:04,720] so it could be $500,000.
+- [01:15:04,720 - 01:15:06,720] Okay, let's try that.
+- [01:15:06,720 - 01:15:08,720] Your shares are worth $500,000.
+- [01:15:08,720 - 01:15:10,720] What'd you pay for them?
+- [01:15:10,720 - 01:15:14,220] You have ordinary income of $500,000
+- [01:15:14,220 - 01:15:17,720] and a tax rate of, say, 40%.
+- [01:15:17,720 - 01:15:19,720] You owe $200,000.
+- [01:15:19,720 - 01:15:22,720] I'm sure you have that in your back pocket.
+- [01:15:22,720 - 01:15:25,720] But wait, it could get even worse.
+- [01:15:25,720 - 01:15:27,720] Why would I pay $100
+- [01:15:27,720 - 01:15:29,720] million for 50% of the company
+- [01:15:29,720 - 01:15:31,720] if the other half wasn't worth a million?
+- [01:15:31,720 - 01:15:36,720] Now you owe $400,000.
+- [01:15:36,720 - 01:15:38,720] Oops.
+- [01:15:38,720 - 01:15:41,720] But wait, it's even worse than that.
+- [01:15:41,720 - 01:15:44,720] When do you measure the income?
+- [01:15:44,720 - 01:15:47,720] Well, typically stock is vested over time.
+- [01:15:47,720 - 01:15:49,220] If I'm going to give
+- [01:15:49,220 - 01:15:50,720] you $1 million for the company
+- [01:15:50,720 - 01:15:52,720] and you're going to get stock,
+- [01:15:52,720 - 01:15:54,220] how do I know you're not
+- [01:15:54,220 - 01:15:55,720] going to take off and run?
+- [01:15:55,720 - 01:15:58,720] So you can have that 50% of stock,
+- [01:15:58,720 - 01:16:00,720] but it's going to vest over time.
+- [01:16:00,720 - 01:16:03,720] So if it vests over time,
+- [01:16:03,720 - 01:16:05,720] you're going to have to pay a lot of money.
+- [01:16:05,720 - 01:16:08,720] So over time, we measure the amount of income
+- [01:16:08,720 - 01:16:10,720] when the stock vests.
+- [01:16:10,720 - 01:16:12,720] So let's make it simple.
+- [01:16:12,720 - 01:16:16,720] Let's say it vests in two years, three years.
+- [01:16:16,720 - 01:16:18,720] I'll give you the actual numbers later.
+- [01:16:18,720 - 01:16:21,220] At the time we start, your
+- [01:16:21,220 - 01:16:23,720] idea is a dime a dozen.
+- [01:16:23,720 - 01:16:26,720] When it vests two years from now
+- [01:16:26,720 - 01:16:28,720] and you've done a great job,
+- [01:16:28,720 - 01:16:32,720] it could be worth $100 a share.
+- [01:16:32,720 - 01:16:34,720] There was a case in California
+- [01:16:34,720 - 01:16:36,720] where they brought in a CFO finally
+- [01:16:36,720 - 01:16:38,720] after a couple rounds of venture capital,
+- [01:16:38,720 - 01:16:40,720] and they gave him some stock.
+- [01:16:40,720 - 01:16:43,720] He said, here's my 83 election.
+- [01:16:43,720 - 01:16:47,720] And they said, what's an 83 election?
+- [01:16:47,720 - 01:16:50,720] And they realized they had a whole bunch of stock
+- [01:16:50,720 - 01:16:53,720] issued to employees with vesting.
+- [01:16:53,720 - 01:16:56,720] It was a ticking time bomb.
+- [01:16:56,720 - 01:16:58,720] The company was going great.
+- [01:16:58,720 - 01:17:00,720] Well, the accounting firm and the law firm
+- [01:17:00,720 - 01:17:02,720] all got sued and everything
+- [01:17:02,720 - 01:17:03,720] because nobody had figured out
+- [01:17:03,720 - 01:17:05,720] how much that money was getting into them.
+- [01:17:05,720 - 01:17:06,720] So what's going on here?
+- [01:17:06,720 - 01:17:07,720] You'reれ�� wrap up this again.
+- [01:17:07,720 - 01:17:19,720] You give the stock a 33-day travel by
+- [01:17:19,720 - 01:17:22,720] the Colaissä expense.
+- [01:17:22,720 - 01:17:25,720] If you're in a deeply repיא
+- [01:17:25,720 - 01:17:27,720] or I remember I was BACKerton
+- [01:17:27,720 - 01:17:29,720] counciling the community
+- [01:17:29,720 - 01:17:32,720] in Arizona starting inош
+- [01:17:32,720 - 01:17:35,100] the term sheet is for a million dollars and
+- [01:17:35,100 - 01:17:37,480] you know you gave me this term sheet on Friday
+- [01:17:37,480 - 01:17:40,560] we're going to incorporate if I rush
+- [01:17:40,560 - 01:17:43,640] Friday or maybe Monday what happened between
+- [01:17:43,640 - 01:17:48,060] how do I say yours isn't worth a
+- [01:17:48,060 - 01:17:52,480] million dollars well if you incorporated four months ago
+- [01:17:52,480 - 01:17:55,350] lots of stuff happens and at the
+- [01:17:55,350 - 01:17:58,220] time you incorporated it was an issued stock
+- [01:17:58,220 - 01:18:02,020] it was worth a penny a share and you
+- [01:18:02,020 - 01:18:05,820] didn't get stock you got stock in connection with
+- [01:18:05,820 - 01:18:07,810] providing services back then not at
+- [01:18:07,810 - 01:18:09,800] the time someone put money in
+- [01:18:09,800 - 01:18:13,330] question is why does stock not get issued in
+- [01:18:13,330 - 01:18:16,860] time oh well we're too busy you're not sure
+- [01:18:16,860 - 01:18:19,630] who gets what I showed you this diagram the other
+- [01:18:19,630 - 01:18:22,400] day of you know the dynamics of figuring out how
+- [01:18:22,400 - 01:18:25,300] to split up stock so the problem is it can
+- [01:18:25,300 - 01:18:28,200] be a little bit of a problem if you don't have
+- [01:18:28,200 - 01:18:30,120] a lot of money in your stock and you
+- [01:18:30,120 - 01:18:32,040] don't have a lot of money in your stock
+- [01:18:32,040 - 01:18:34,839] and you don't have a lot of money in your stock
+- [01:18:34,839 - 01:18:37,639] you can get tricky but you don't want to get caught
+- [01:18:37,639 - 01:18:41,799] in that trap so again if you incorporate early
+- [01:18:41,799 - 01:18:45,960] separate in time when you get your stock from
+- [01:18:45,960 - 01:18:48,860] an event that values it and cash investment
+- [01:18:48,860 - 01:18:51,760] certainly values it then you have an argument
+- [01:18:51,760 - 01:18:54,860] and then file the 83b election okay
+- [01:18:54,860 - 01:18:57,960] we're running into some time issues here
+- [01:18:58,200 - 01:19:05,200] so this is this is where you know since I
+- [01:19:09,220 - 01:19:13,700] was a direct
+- [01:19:13,700 - 01:19:15,880] ospinal
+- [01:19:15,880 - 01:19:17,780] piece of paper
+- [01:19:21,220 - 01:19:23,440] still watch
+- [01:19:23,440 - 01:19:26,179] this
+- [01:19:26,179 - 01:19:27,179] ins today
+- [01:19:27,179 - 01:19:27,780] buying
+- [01:19:27,780 - 01:19:28,200] stocks
+- [01:19:28,200 - 01:19:31,700] Founder equity, the amount of equity and
+- [01:19:31,700 - 01:19:35,200] who gets it is about culture and
+- [01:19:35,200 - 01:19:38,109] negotiated. Keenan systems is a famous example.
+- [01:19:38,109 - 01:19:41,019] Keenan kept all of his stock. His
+- [01:19:41,019 - 01:19:43,309] company was acquired for a billion dollars.
+- [01:19:43,309 - 01:19:45,599] He owned it all. He paid his
+- [01:19:45,599 - 01:19:47,659] employees quite well and when they got
+- [01:19:47,659 - 01:19:49,720] acquired he gave them all a bunch of
+- [01:19:49,720 - 01:19:52,350] bonuses. So that was their culture.
+- [01:19:52,350 - 01:19:54,980] When thinking about the amount of equity,
+- [01:19:54,980 - 01:19:57,110] think about the value of past
+- [01:19:57,110 - 01:19:59,240] contributions and the value of what
+- [01:19:59,240 - 01:20:02,590] people are expected to do over what
+- [01:20:02,590 - 01:20:05,940] period of time. Think about ownership of
+- [01:20:05,940 - 01:20:07,690] IP because you're going to want to
+- [01:20:07,690 - 01:20:09,440] put the IP in the company. Investors are
+- [01:20:09,440 - 01:20:12,679] going to want that. So that
+- [01:20:12,679 - 01:20:15,919] has some value. Sacrifice and commitment. One
+- [01:20:15,919 - 01:20:18,559] example I saw was a company that spun
+- [01:20:18,559 - 01:20:21,200] out of Arrow and Astro with a famous
+- [01:20:21,200 - 01:20:24,980] professor and one of his postdocs. And
+- [01:20:24,980 - 01:20:26,909] they came in and said, you know, we don't
+- [01:20:26,909 - 01:20:28,839] know quite how to split up the stock. I
+- [01:20:28,839 - 01:20:31,399] said, well, why don't you each go
+- [01:20:31,399 - 01:20:33,959] and write down what you think you're
+- [01:20:33,959 - 01:20:36,779] contributing and what you think you're giving
+- [01:20:36,779 - 01:20:39,599] up? And so the professor, you know,
+- [01:20:39,599 - 01:20:42,569] went said, well, I'm well known. So
+- [01:20:42,569 - 01:20:45,540] that brings, you know, attracts money under
+- [01:20:45,540 - 01:20:48,010] MIT policy. I can consult one day a
+- [01:20:48,010 - 01:20:50,480] week. I'll devote that one day to this company
+- [01:20:50,480 - 01:20:52,260] instead of getting paid the money I
+- [01:20:52,260 - 01:20:54,040] could get paid by Boeing or whatever.
+- [01:20:54,040 - 01:20:54,540] Um,
+- [01:20:54,980 - 01:20:57,510] and a couple other things. The postdoc said, you know,
+- [01:20:57,510 - 01:21:00,040] I could go get a job at a company. Here's
+- [01:21:00,040 - 01:21:02,839] what the pay is. I'm going to potentially, if
+- [01:21:02,839 - 01:21:05,639] I do this company, give up an academic career.
+- [01:21:07,099 - 01:21:09,739] You can understand, professor, what that is. And
+- [01:21:09,739 - 01:21:12,379] so they sat down, and each of them describing
+- [01:21:12,379 - 01:21:14,399] what it is, they were able to
+- [01:21:14,399 - 01:21:16,419] come to some understanding about what was fair,
+- [01:21:17,280 - 01:21:18,680] where at least they understood what
+- [01:21:18,680 - 01:21:20,080] the other side was talking about.
+- [01:21:20,080 - 01:21:22,500] You should assume that everyone's going
+- [01:21:22,500 - 01:21:24,920] to figure out who owns what.
+- [01:21:26,140 - 01:21:30,020] So have a reason for what you're doing. Who
+- [01:21:30,020 - 01:21:33,900] gets the pie and how big are the slices?
+- [01:21:35,440 - 01:21:38,530] Well, typically, an equity compensation pool would
+- [01:21:38,530 - 01:21:41,620] be like an option or restricted stock.
+- [01:21:42,340 - 01:21:45,390] And typically, the amount is for the next two to
+- [01:21:45,390 - 01:21:48,440] three years, and it's tied to your head cap plan.
+- [01:21:49,059 - 01:21:49,559] If we get money in, we're going to get money out of
+- [01:21:49,559 - 01:21:50,059] it. If we don't, we're going to get money out of it.
+- [01:21:50,060 - 01:21:51,080] We're going to hire these people.
+- [01:21:53,560 - 01:21:55,390] In my experience, when you
+- [01:21:55,390 - 01:21:57,220] have venture capital first outside round,
+- [01:21:58,300 - 01:22:00,910] anywhere from 12% to 18% is
+- [01:22:00,910 - 01:22:03,520] reserved for the equity compensation, typically.
+- [01:22:04,360 - 01:22:06,620] It'll be at the lower end of that if you
+- [01:22:06,620 - 01:22:08,880] have more senior people already on board. It'd be on
+- [01:22:08,880 - 01:22:11,450] the higher end if you need to hire
+- [01:22:11,450 - 01:22:14,020] or bring in people that are more experienced.
+- [01:22:15,420 - 01:22:17,120] People that can take place
+- [01:22:17,120 - 01:22:18,820] in the plan include key employees,
+- [01:22:19,040 - 01:22:19,540] employees, and employees. And so it's
+- [01:22:19,540 - 01:22:20,040] a good idea to have a plan.
+- [01:22:20,060 - 01:22:24,280] You can go look at and see
+- [01:22:24,280 - 01:22:28,500] what people typically get paid and the like.
+- [01:22:29,500 - 01:22:31,020] And again, there's a YouTube video
+- [01:22:31,020 - 01:22:32,540] going into more detail on that.
+- [01:22:33,440 - 01:22:36,320] This is some example of ownership that
+- [01:22:36,320 - 01:22:39,200] you might expect after two rounds of financing,
+- [01:22:40,200 - 01:22:44,010] just based on some historical stuff. There's a
+- [01:22:44,010 - 01:22:47,820] slide when we get to the financial projections
+- [01:22:47,820 - 01:22:49,940] that allow you to calculate the equity.
+- [01:22:50,060 - 01:22:51,060] And then there's a slide when you get
+- [01:22:51,060 - 01:22:52,060] to the financial projections that allow you to calculate
+- [01:22:52,060 - 01:22:55,380] the equity dilution. And given the time, I
+- [01:22:55,380 - 01:22:58,700] am going to skip the rest of this.
+- [01:23:00,800 - 01:23:04,240] It will be, you'll see the slides. I'm going
+- [01:23:04,240 - 01:23:07,680] to do a separate recording on it. It talks about
+- [01:23:07,680 - 01:23:10,840] types of equity compensation and how to use
+- [01:23:10,840 - 01:23:14,000] it. We'll talk about instruments that are used when
+- [01:23:14,000 - 01:23:17,020] you do financing. And as I explained, I'm
+- [01:23:17,020 - 01:23:20,040] cramming a lot into a short period of time.
+- [01:23:20,060 - 01:23:22,430] And so in the interest of our panel that's
+- [01:23:22,430 - 01:23:24,800] here, I'm going to call it quits at this point.
