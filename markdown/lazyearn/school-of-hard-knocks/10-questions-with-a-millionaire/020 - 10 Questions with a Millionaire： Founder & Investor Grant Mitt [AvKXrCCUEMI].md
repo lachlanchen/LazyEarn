@@ -1,0 +1,449 @@
+# Transcript
+
+Source: lazyearn/school-of-hard-knocks/10-questions-with-a-millionaire/020 - 10 Questions with a Millionaire： Founder & Investor Grant Mitt [AvKXrCCUEMI].mkv
+
+- [00:00:00,000 - 00:00:02,500] I didn't start diversifying until my solar
+- [00:00:02,500 - 00:00:05,000] company was revenue in over $10 million.
+- [00:00:05,460 - 00:00:07,020] I don't want to be 75 in a
+- [00:00:07,020 - 00:00:08,580] Ferrari unless I've had a Ferrari for 50 years.
+- [00:00:08,780 - 00:00:10,920] You could throw me in the Sahara Desert.
+- [00:00:11,440 - 00:00:13,220] As long as my brain works, as
+- [00:00:13,220 - 00:00:15,000] long as everything still works the same,
+- [00:00:15,280 - 00:00:16,730] I could come back and do the
+- [00:00:16,730 - 00:00:18,180] exact same thing in half the time.
+- [00:00:18,280 - 00:00:19,000] What's going on, everyone?
+- [00:00:19,180 - 00:00:20,810] Welcome back to episode three
+- [00:00:20,810 - 00:00:22,440] of 10 Questions with Millionaires.
+- [00:00:22,700 - 00:00:23,740] I'm here with Grant Mitt.
+- [00:00:24,040 - 00:00:25,660] He's the CEO and founder of Mitt
+- [00:00:25,660 - 00:00:27,280] Group, which is an awesome solar company,
+- [00:00:27,540 - 00:00:28,580] as well as Mitt Blockchain.
+- [00:00:28,580 - 00:00:29,959] He's a serial entrepreneur.
+- [00:00:30,279 - 00:00:31,880] Super pumped to be here with you today, man.
+- [00:00:31,900 - 00:00:32,500] Good to see you, man.
+- [00:00:32,540 - 00:00:33,120] Thanks for having me.
+- [00:00:33,140 - 00:00:33,320] Yeah.
+- [00:00:33,680 - 00:00:34,860] So I'll get right into it.
+- [00:00:34,920 - 00:00:36,540] My first question for you is, as
+- [00:00:36,540 - 00:00:38,160] someone who's as young as you are,
+- [00:00:38,220 - 00:00:40,480] who's been able to build a really successful business,
+- [00:00:40,640 - 00:00:42,220] scaled to millions of dollars in revenue,
+- [00:00:42,780 - 00:00:44,490] how have you maintained the confidence
+- [00:00:44,490 - 00:00:46,200] as a young person in an industry
+- [00:00:46,200 - 00:00:47,880] where a lot of the people, the
+- [00:00:47,880 - 00:00:49,560] owners may be a lot older than you,
+- [00:00:49,599 - 00:00:51,320] maybe two or three times your age?
+- [00:00:51,379 - 00:00:53,720] How have you been able to maintain that confidence
+- [00:00:53,720 - 00:00:55,530] and the level of success that
+- [00:00:55,530 - 00:00:57,340] you have at such a young age?
+- [00:00:57,440 - 00:00:57,940] Two answers.
+- [00:00:58,160 - 00:00:58,560] One.
+- [00:00:58,580 - 00:00:59,690] If you make it a big
+- [00:00:59,690 - 00:01:00,800] deal, they make it a big deal.
+- [00:01:01,100 - 00:01:03,580] So nobody really gives a shit unless you do.
+- [00:01:04,400 - 00:01:04,560] Two.
+- [00:01:04,759 - 00:01:06,359] When you're in the NFL, you
+- [00:01:06,359 - 00:01:07,960] can get cut whether you're a rookie
+- [00:01:07,960 - 00:01:09,560] or you're a 19-year veteran.
+- [00:01:10,120 - 00:01:11,899] And both people can win the Super
+- [00:01:11,899 - 00:01:13,679] Bowl and both people can win the MVP.
+- [00:01:14,400 - 00:01:16,469] So once, I mean, I want to
+- [00:01:16,469 - 00:01:18,539] say it's 18, but, I mean, heck,
+- [00:01:19,160 - 00:01:21,320] as soon as you actively are
+- [00:01:21,320 - 00:01:23,480] trying to attack the market in business,
+- [00:01:24,220 - 00:01:25,020] it's anyone's game.
+- [00:01:25,580 - 00:01:26,520] Anybody can lose.
+- [00:01:26,780 - 00:01:27,560] Anybody can win.
+- [00:01:27,560 - 00:01:28,560] And the market chooses.
+- [00:01:28,580 - 00:01:29,980] It chooses who they want to do business with.
+- [00:01:30,080 - 00:01:31,379] And if they have a problem with
+- [00:01:31,379 - 00:01:32,679] it, they can go do business somewhere else.
+- [00:01:33,120 - 00:01:33,980] And so it doesn't matter.
+- [00:01:34,100 - 00:01:35,929] Once you're in the NFL,
+- [00:01:35,929 - 00:01:37,759] you compete, and whoever wins, wins.
+- [00:01:37,940 - 00:01:40,300] And so if a person, if you're 21 or
+- [00:01:40,300 - 00:01:42,660] 22 or you're 30 or whatever you are, 25,
+- [00:01:43,400 - 00:01:46,860] if you choose to think that that's an issue,
+- [00:01:47,020 - 00:01:49,170] all it is is your brain trying
+- [00:01:49,170 - 00:01:51,320] to give you some reason to justify
+- [00:01:51,320 - 00:01:53,120] why you're not as successful as you are.
+- [00:01:53,300 - 00:01:54,890] For every person individually, a switch
+- [00:01:54,890 - 00:01:56,480] kind of goes off where they're like,
+- [00:01:57,060 - 00:01:58,560] okay, I'm not going to go.
+- [00:01:58,660 - 00:02:00,180] I'm not going to go and work a job.
+- [00:02:00,180 - 00:02:02,180] I'm not going to go work the corporate route.
+- [00:02:02,180 - 00:02:04,180] What moment was it for you in your life?
+- [00:02:04,180 - 00:02:05,680] And ultimately, why did you make
+- [00:02:05,680 - 00:02:07,180] the decision to pursue the entrepreneur route
+- [00:02:07,180 - 00:02:09,680] as opposed to playing it safe, maybe getting
+- [00:02:09,680 - 00:02:12,180] a comfortable six-figure job in the corporate world?
+- [00:02:12,180 - 00:02:13,680] What kind of clicked in you that you
+- [00:02:13,680 - 00:02:15,180] were like, this is what I ought to do?
+- [00:02:16,380 - 00:02:19,880] I had too many people to provide for, and I had
+- [00:02:19,880 - 00:02:23,380] too much people that were depending on me that had no choice.
+- [00:02:23,380 - 00:02:25,250] So I was, and the
+- [00:02:25,250 - 00:02:27,120] thing is, someone starting a business,
+- [00:02:27,120 - 00:02:28,320] I think most people shouldn't start a business.
+- [00:02:28,320 - 00:02:30,320] I think most people should start a business personally.
+- [00:02:30,320 - 00:02:33,570] If you look at the numbers, it's 86% of
+- [00:02:33,570 - 00:02:36,820] companies in the United States break even or lose money.
+- [00:02:36,820 - 00:02:39,820] One half of 1% ever revenues over $10 million.
+- [00:02:39,820 - 00:02:42,070] So if you actually line up what
+- [00:02:42,070 - 00:02:44,320] business owners actually make versus an employee,
+- [00:02:44,320 - 00:02:47,320] the employee net revenue on average is actually
+- [00:02:47,320 - 00:02:50,320] the employee makes about $3,000 to $4,000 more.
+- [00:02:50,320 - 00:02:52,320] I think it's like 58 to 55.
+- [00:02:52,320 - 00:02:54,320] So most business operators, they do
+- [00:02:54,320 - 00:02:56,320] not make a lot of money.
+- [00:02:56,320 - 00:02:58,320] So you got to figure out if you're an entrepreneur,
+- [00:02:58,320 - 00:02:59,820] or an intrapreneur, and many
+- [00:02:59,820 - 00:03:01,320] times you can become an intrapreneur.
+- [00:03:01,320 - 00:03:04,320] We're working, for example, we've had people that
+- [00:03:04,320 - 00:03:07,320] work at a make group that will be multimillionaires.
+- [00:03:07,320 - 00:03:08,320] Multimillionaires.
+- [00:03:08,320 - 00:03:11,320] And because they're an intrapreneur within the company.
+- [00:03:11,320 - 00:03:15,820] Now that has to assume that you work in an incredible company
+- [00:03:15,820 - 00:03:20,320] that gives you the opportunity to be an intrapreneur within the business.
+- [00:03:20,320 - 00:03:23,320] But what flipped the switch and helped me
+- [00:03:23,320 - 00:03:26,320] just do it is that I had to.
+- [00:03:26,320 - 00:03:28,320] And I realized that when I could do it,
+- [00:03:28,320 - 00:03:30,320] I had the time, I had the
+- [00:03:30,320 - 00:03:32,320] resources, I was prepared with the capital.
+- [00:03:32,320 - 00:03:34,320] Every single thing was right.
+- [00:03:34,320 - 00:03:36,320] I just had to pull the trigger.
+- [00:03:36,320 - 00:03:39,320] But I knew that I was okay losing
+- [00:03:39,320 - 00:03:42,320] absolutely every single penny knowing that I tried.
+- [00:03:42,320 - 00:03:45,320] But I wasn't okay continuing for two to three years doing something that
+- [00:03:45,320 - 00:03:48,320] I knew I shouldn't do when I knew what I was capable of.
+- [00:03:48,320 - 00:03:51,320] How important is it to you as an entrepreneur
+- [00:03:51,320 - 00:03:54,320] to diversify beyond just maybe one or two hustles?
+- [00:03:54,320 - 00:03:55,320] But how important do you
+- [00:03:55,320 - 00:03:56,320] think has it been for you?
+- [00:03:56,320 - 00:03:57,320] And is it for entrepreneurs?
+- [00:03:57,320 - 00:03:59,320] And is it for entrepreneurs in general to diversify
+- [00:03:59,320 - 00:04:01,320] what they're doing beyond just one or two things?
+- [00:04:01,320 - 00:04:03,320] I don't think people should diversify.
+- [00:04:03,320 - 00:04:06,320] I think Mark Cuban or someone was talking about this.
+- [00:04:06,320 - 00:04:08,320] Diversification is for idiots.
+- [00:04:08,320 - 00:04:09,820] So it's limiting your failures because
+- [00:04:09,820 - 00:04:11,320] you're not that great at one thing.
+- [00:04:11,320 - 00:04:12,320] So think about it.
+- [00:04:12,320 - 00:04:15,320] Like I didn't start diversifying until my
+- [00:04:15,320 - 00:04:18,320] solar company was revenue in over $10 million.
+- [00:04:18,320 - 00:04:20,820] And even then, most of my focus and energy
+- [00:04:20,820 - 00:04:23,320] is going to that and we'll revenue 30 this year.
+- [00:04:23,320 - 00:04:25,320] And next year when we revenue 90, 120.
+- [00:04:25,320 - 00:04:26,320] Yeah.
+- [00:04:26,320 - 00:04:28,320] That's winning first.
+- [00:04:28,320 - 00:04:31,320] So if I wasn't doing great in
+- [00:04:31,320 - 00:04:34,320] solar, I would not be thinking about crypto.
+- [00:04:34,320 - 00:04:35,820] I wouldn't be thinking about any
+- [00:04:35,820 - 00:04:37,320] other venture in finance or anything.
+- [00:04:37,320 - 00:04:39,320] We all heard the saying, the
+- [00:04:39,320 - 00:04:41,320] average millionaire has seven streams of income.
+- [00:04:41,320 - 00:04:43,820] But if you actually study what
+- [00:04:43,820 - 00:04:46,320] made them millionaires, it wasn't seven things.
+- [00:04:46,320 - 00:04:47,320] It was one thing.
+- [00:04:47,320 - 00:04:49,320] They were really good at real estate.
+- [00:04:49,320 - 00:04:51,320] They were really good at finance.
+- [00:04:51,320 - 00:04:53,320] They were an athlete.
+- [00:04:53,320 - 00:04:55,320] They worked their way up and they invested everything.
+- [00:04:55,320 - 00:04:56,320] Or whatever the case.
+- [00:04:56,320 - 00:04:57,320] For me, solar.
+- [00:04:57,320 - 00:05:00,320] For other people, they were a YouTuber.
+- [00:05:00,320 - 00:05:02,320] And then they started all these ventures.
+- [00:05:02,320 - 00:05:04,320] So you make the big
+- [00:05:04,320 - 00:05:06,320] pile and you finally make it.
+- [00:05:06,320 - 00:05:08,820] Then you start allocating the money into
+- [00:05:08,820 - 00:05:11,320] different buckets that can spit out money.
+- [00:05:11,320 - 00:05:12,820] But there's no point to
+- [00:05:12,820 - 00:05:14,320] diversify if you got no money.
+- [00:05:14,320 - 00:05:16,320] That means you're just going to be kind of good
+- [00:05:16,320 - 00:05:18,320] at a bunch of things and really great at nothing.
+- [00:05:18,320 - 00:05:21,320] For someone who has tapped into social media
+- [00:05:21,320 - 00:05:24,320] though, you've built a following of over 100,000 people,
+- [00:05:24,320 - 00:05:25,820] which already puts you in the
+- [00:05:25,820 - 00:05:27,320] top 1% as a content creator.
+- [00:05:27,320 - 00:05:29,820] One of the things that I noticed about a lot of
+- [00:05:29,820 - 00:05:32,320] business owners though is that they don't have a social media presence.
+- [00:05:32,320 - 00:05:34,820] How important do you think it is for business
+- [00:05:34,820 - 00:05:37,320] leaders and people in the business world in general,
+- [00:05:37,320 - 00:05:40,320] whether it's for recognition, networking, clients?
+- [00:05:40,320 - 00:05:41,820] How important has leveraging that
+- [00:05:41,820 - 00:05:43,320] social media following been for you?
+- [00:05:43,320 - 00:05:44,320] It's huge.
+- [00:05:44,320 - 00:05:47,320] I mean, if you think about, and mine's
+- [00:05:47,320 - 00:05:50,320] like you said, mine's only on TikTok at 145,000.
+- [00:05:50,320 - 00:05:51,320] Instagram's 25,000.
+- [00:05:51,320 - 00:05:53,320] So I don't even have a massive following.
+- [00:05:53,320 - 00:05:54,320] But just that.
+- [00:05:54,320 - 00:05:57,820] I mean, 30%, for example, we
+- [00:05:57,820 - 00:06:01,320] were on a company-wide meeting last Monday.
+- [00:06:01,320 - 00:06:04,320] We had six, seven people that were starting.
+- [00:06:04,320 - 00:06:05,820] And our RSM was like, or one of
+- [00:06:05,820 - 00:06:07,320] our director of sales or whatever was like,
+- [00:06:07,320 - 00:06:10,320] hey, tell us about yourself, how you started working for
+- [00:06:10,320 - 00:06:13,320] the company, how you got a job, and they would talk.
+- [00:06:13,320 - 00:06:15,320] And 30% to 40% of those people
+- [00:06:15,320 - 00:06:17,320] would go, oh, I was following Grant.
+- [00:06:17,320 - 00:06:19,320] I live in Portland, or I live
+- [00:06:19,320 - 00:06:21,320] in Tennessee, or I live in Florida,
+- [00:06:21,320 - 00:06:22,320] and I was actually following Grant
+- [00:06:22,320 - 00:06:23,320] on TikTok for six, seven people.
+- [00:06:23,320 - 00:06:25,320] And then I saw this job, and then boom.
+- [00:06:25,320 - 00:06:27,820] Now all of a sudden, we got
+- [00:06:27,820 - 00:06:30,320] this unbelievably talented person that's working the company,
+- [00:06:30,320 - 00:06:31,820] would have never saw us
+- [00:06:31,820 - 00:06:33,320] if it wasn't for social media.
+- [00:06:33,320 - 00:06:34,820] I just want to give out
+- [00:06:34,820 - 00:06:36,320] free information on how to help people.
+- [00:06:36,320 - 00:06:39,320] And if something good comes with it, that's great.
+- [00:06:39,320 - 00:06:40,820] But what's interesting is it's
+- [00:06:40,820 - 00:06:42,320] helped so much with credibility.
+- [00:06:42,320 - 00:06:45,320] And it's like I've been on, I'm on Fox Business a lot,
+- [00:06:45,320 - 00:06:48,320] and I'm on a lot of different things that would have never happened,
+- [00:06:48,320 - 00:06:50,320] even if my company was 10
+- [00:06:50,320 - 00:06:52,320] times bigger, unless I was on it.
+- [00:06:52,320 - 00:06:55,320] And so it helps with building your brand.
+- [00:06:55,320 - 00:06:56,320] It builds connections.
+- [00:06:56,320 - 00:06:58,320] When you can build an individual brand,
+- [00:06:58,320 - 00:07:00,320] and you're not there to just make money,
+- [00:07:00,320 - 00:07:02,320] but you just want to actually
+- [00:07:02,320 - 00:07:04,320] help people, I think people respect that.
+- [00:07:04,320 - 00:07:05,820] And they go, you know what, I like,
+- [00:07:05,820 - 00:07:07,320] and not everyone's going to like you, right?
+- [00:07:07,320 - 00:07:08,320] It is what it is.
+- [00:07:08,320 - 00:07:09,320] But that's okay.
+- [00:07:09,320 - 00:07:10,820] It's not my job to just, I
+- [00:07:10,820 - 00:07:12,320] would just be myself and help people.
+- [00:07:12,320 - 00:07:14,320] And if they like it, then amazing.
+- [00:07:14,320 - 00:07:15,320] If they don't, it's all good.
+- [00:07:15,320 - 00:07:16,320] It's all love.
+- [00:07:16,320 - 00:07:17,820] How important has risk-taking been
+- [00:07:17,820 - 00:07:19,320] to you throughout your career?
+- [00:07:19,320 - 00:07:20,320] You know, you hear a lot about the risk-taking.
+- [00:07:20,320 - 00:07:21,320] How important is it?
+- [00:07:21,320 - 00:07:22,820] You know, you hear a lot
+- [00:07:22,820 - 00:07:24,320] of people always talking about, you know,
+- [00:07:24,320 - 00:07:26,320] one of the biggest things that they regret
+- [00:07:26,320 - 00:07:28,320] at an older age is not taking risks.
+- [00:07:28,320 - 00:07:30,320] But for you, you know, you took a lot of risk
+- [00:07:30,320 - 00:07:32,320] at a young age to get to where you are now.
+- [00:07:32,320 - 00:07:33,820] How important has that been
+- [00:07:33,820 - 00:07:35,320] to the success of your life?
+- [00:07:35,320 - 00:07:38,320] Risk-taking is everything.
+- [00:07:38,320 - 00:07:40,320] There's times you need to be risk on, risk off.
+- [00:07:40,320 - 00:07:41,320] You need to prepare for a rainy day.
+- [00:07:41,320 - 00:07:42,320] You have to be smart.
+- [00:07:42,320 - 00:07:44,820] But at the end of the day, if you're
+- [00:07:44,820 - 00:07:47,320] not investing in yourself and your career and your development,
+- [00:07:47,320 - 00:07:49,320] you're not going to be successful.
+- [00:07:49,320 - 00:07:51,320] And, you know, school teachers,
+- [00:07:51,320 - 00:07:52,320] you need to play it safe.
+- [00:07:52,320 - 00:07:55,320] I love nice cars.
+- [00:07:55,320 - 00:07:56,320] I like traveling.
+- [00:07:56,320 - 00:07:57,320] I like doing nice things.
+- [00:07:57,320 - 00:08:01,320] But I would much rather be doing those things when I'm
+- [00:08:01,320 - 00:08:05,320] 27 or 35 or 40 or when my kids are young
+- [00:08:05,320 - 00:08:07,320] and I'm doing it then compared to when I'm 75.
+- [00:08:07,320 - 00:08:09,320] I don't want to be 75 in a
+- [00:08:09,320 - 00:08:11,320] Ferrari unless I've had a Ferrari for 50 years.
+- [00:08:11,320 - 00:08:13,320] I want to be able to help people now.
+- [00:08:13,320 - 00:08:16,320] And so the thing is, is that
+- [00:08:16,320 - 00:08:19,320] you have to be successful in anything.
+- [00:08:19,320 - 00:08:22,320] I mean, you could throw me in the Sahara Desert.
+- [00:08:22,320 - 00:08:24,320] As long as my brain works, as
+- [00:08:24,320 - 00:08:26,320] long as everything still works the same,
+- [00:08:26,320 - 00:08:27,820] I could come back and do the
+- [00:08:27,820 - 00:08:29,320] exact same thing in half the time.
+- [00:08:29,320 - 00:08:31,319] Because as long as my brain works,
+- [00:08:31,319 - 00:08:33,319] as long as everything is still the same,
+- [00:08:33,319 - 00:08:35,319] I know how to do it now.
+- [00:08:35,319 - 00:08:38,319] And so once you can be so confident
+- [00:08:38,319 - 00:08:41,319] in your abilities that your performance is guaranteed,
+- [00:08:41,319 - 00:08:43,819] and you trust yourself, and you've got to trust
+- [00:08:43,819 - 00:08:46,319] yourself by keeping the promises you give to yourself
+- [00:08:46,319 - 00:08:48,319] and performing and executing when things get tough,
+- [00:08:49,320 - 00:08:52,320] that's when you're more comfortable taking risks
+- [00:08:52,320 - 00:08:53,820] because the best bet is on yourself
+- [00:08:53,820 - 00:08:55,320] when you know that you're going to win.
+- [00:08:55,320 - 00:08:56,820] Early on in your career, you
+- [00:08:56,820 - 00:08:58,320] know, you were primarily in sales.
+- [00:08:58,320 - 00:09:00,320] How has the skills that you
+- [00:09:00,320 - 00:09:02,320] learned from being a salesman translated
+- [00:09:02,320 - 00:09:03,820] and helped you own a company of
+- [00:09:03,820 - 00:09:05,320] your own at such a young age?
+- [00:09:05,320 - 00:09:06,820] I heard a saying the
+- [00:09:06,820 - 00:09:08,320] other day, you can't Google experience.
+- [00:09:08,320 - 00:09:11,320] You can't Google it. You have to go through it.
+- [00:09:11,320 - 00:09:13,320] And someone can teach you all the
+- [00:09:13,320 - 00:09:15,320] tricks, all the cool things to say.
+- [00:09:15,320 - 00:09:18,320] You could dress perfect, but until you've been told no,
+- [00:09:18,320 - 00:09:19,320] until you've been told no,
+- [00:09:19,320 - 00:09:20,320] until you've been cussed out,
+- [00:09:20,320 - 00:09:21,320] until you've been screamed at,
+- [00:09:21,320 - 00:09:22,820] until you have people tell
+- [00:09:22,820 - 00:09:24,320] you no after no after no,
+- [00:09:24,320 - 00:09:26,320] and you still have to have that same attitude
+- [00:09:26,320 - 00:09:27,820] and still be able to
+- [00:09:27,820 - 00:09:29,320] deliver the message the right way,
+- [00:09:29,320 - 00:09:31,320] you won't get it.
+- [00:09:31,320 - 00:09:33,320] There's no textbook that can teach it
+- [00:09:33,320 - 00:09:35,320] besides making thousands and thousands of cold calls,
+- [00:09:35,320 - 00:09:37,320] knocking on doors, going
+- [00:09:37,320 - 00:09:39,320] through so many different experiences.
+- [00:09:39,320 - 00:09:41,820] And when you're in sales and you learn
+- [00:09:41,820 - 00:09:44,320] how to communicate to all different types of people,
+- [00:09:44,320 - 00:09:46,320] different ethnicities, different backgrounds,
+- [00:09:46,320 - 00:09:48,320] different ages, different experiences,
+- [00:09:48,320 - 00:09:52,320] you have no choice but to get better.
+- [00:09:52,320 - 00:09:55,320] Because you learn quickly what works and what doesn't work.
+- [00:09:55,320 - 00:09:56,820] And so that's what I found
+- [00:09:56,820 - 00:09:58,320] is that at 18, 19, I started,
+- [00:09:58,320 - 00:10:01,320] I was literally selling DirecTV and Walmarts.
+- [00:10:01,320 - 00:10:03,820] People don't want to talk about DirecTV when they're buying
+- [00:10:03,820 - 00:10:06,320] bread or they're pissed off or they're tired from work.
+- [00:10:06,320 - 00:10:07,820] But man, we sold a
+- [00:10:07,820 - 00:10:09,320] lot of DirecTV and you learned.
+- [00:10:09,320 - 00:10:11,320] How many states is Make Group currently,
+- [00:10:11,320 - 00:10:13,320] I guess, closing deals right now for solar?
+- [00:10:13,320 - 00:10:14,320] We're at 17 right now.
+- [00:10:14,320 - 00:10:15,820] What has been the biggest thing that
+- [00:10:15,820 - 00:10:17,320] has led to your success in scaling,
+- [00:10:17,320 - 00:10:20,320] in scaling the business in terms of revenue,
+- [00:10:20,320 - 00:10:22,320] in terms of just obtaining clients
+- [00:10:22,320 - 00:10:24,320] in different places all around the country?
+- [00:10:24,320 - 00:10:26,320] What was the biggest thing that really helped you
+- [00:10:26,320 - 00:10:28,320] scale and that you would recommend to someone else
+- [00:10:28,320 - 00:10:30,320] who's trying to, again, take their business
+- [00:10:30,320 - 00:10:32,320] from six to seven figures to eight figures?
+- [00:10:32,320 - 00:10:34,320] So all scaling is, is doing
+- [00:10:34,320 - 00:10:36,320] the little things right at scale.
+- [00:10:36,320 - 00:10:39,320] So if you can't, this is a problem, is
+- [00:10:39,320 - 00:10:42,320] people try to scale before they're actually conquering one thing.
+- [00:10:42,320 - 00:10:44,320] Like people are like, oh, should I go to Europe?
+- [00:10:44,320 - 00:10:45,320] Oh, should I go to a different city?
+- [00:10:45,320 - 00:10:46,320] Well, are you correct?
+- [00:10:47,320 - 00:10:50,320] You're crushing it in the current place that you're at.
+- [00:10:50,320 - 00:10:52,320] And everything is fundamentals.
+- [00:10:52,320 - 00:10:55,820] People think that this new cool technology or a CRM
+- [00:10:55,820 - 00:10:59,320] or hiring some smart guy is going to scale your business.
+- [00:10:59,320 - 00:11:02,320] It could by 10, 20 percent, but it's not
+- [00:11:02,320 - 00:11:05,320] going to double and triple and quadruple your revenue.
+- [00:11:05,320 - 00:11:08,320] Doing the right things and getting people.
+- [00:11:08,320 - 00:11:10,320] Scaling is people.
+- [00:11:10,320 - 00:11:13,320] At the end of the day, we're going to
+- [00:11:13,320 - 00:11:16,320] need thousands of people to be a billion dollar company
+- [00:11:16,320 - 00:11:18,820] that know what they're doing, that are as
+- [00:11:18,820 - 00:11:21,320] smart or smarter than me in different single areas.
+- [00:11:21,320 - 00:11:23,320] And we have to operate
+- [00:11:23,320 - 00:11:25,320] efficiently and effectively at that scale.
+- [00:11:25,320 - 00:11:27,320] You need people.
+- [00:11:27,320 - 00:11:29,320] A CRM or some cool technology
+- [00:11:29,320 - 00:11:31,320] or some cool social media posts.
+- [00:11:31,320 - 00:11:32,320] That's great.
+- [00:11:32,320 - 00:11:37,820] But unless it's an operating business with tons of people who know what they're doing without
+- [00:11:37,820 - 00:11:43,320] you over there overshadowing on them and doing everything for them, you can't scale a business.
+- [00:11:43,320 - 00:11:44,320] Being a business owner at a young age,
+- [00:11:44,320 - 00:11:45,320] especially, can come with a lot of challenges.
+- [00:11:45,320 - 00:11:47,320] Especially, can come with a lot of stress.
+- [00:11:47,320 - 00:11:49,320] How do you avoid burnout and what keeps you motivated?
+- [00:11:49,320 - 00:11:51,820] Burnout only happens when you don't
+- [00:11:51,820 - 00:11:54,320] control your energy and your emotions.
+- [00:11:54,320 - 00:11:57,820] And so the reason why so many people burn out is
+- [00:11:57,820 - 00:12:01,320] you wake up with a certain amount of energy every single day.
+- [00:12:01,320 - 00:12:04,820] And each communication, each interaction, each decision that
+- [00:12:04,820 - 00:12:08,320] you make drains a little bit of that energy.
+- [00:12:08,320 - 00:12:11,320] And if you're a business owner or if you're just a leader at a
+- [00:12:11,320 - 00:12:14,320] company or if you're in real estate or whatever you're doing, you're in sales.
+- [00:12:14,320 - 00:12:16,820] Each interaction, you have to make
+- [00:12:16,820 - 00:12:19,320] sure that it is worth your time.
+- [00:12:19,320 - 00:12:21,320] So the word no is way more important.
+- [00:12:21,320 - 00:12:23,820] So you don't want to be wasting it on things
+- [00:12:23,820 - 00:12:26,320] that aren't adding value to you, your business and your team.
+- [00:12:26,320 - 00:12:30,820] If something goes wrong in an appointment and you're pissed off and you're freaking out
+- [00:12:30,820 - 00:12:35,320] and you're wasting all this energy being upset, it's going to affect the next appointment.
+- [00:12:35,320 - 00:12:37,320] It's all about just staying extremely level-headed
+- [00:12:37,320 - 00:12:39,320] through the highs and through the lows.
+- [00:12:39,320 - 00:12:43,320] Energy management, emotional control and being consistent.
+- [00:12:43,320 - 00:12:44,320] And just knowing when it takes.
+- [00:12:44,320 - 00:12:46,320] And just knowing when it takes to take a break.
+- [00:12:46,320 - 00:12:47,820] And at the end of the day,
+- [00:12:47,820 - 00:12:49,320] you don't get burnt out when you win.
+- [00:12:49,320 - 00:12:50,820] If you have a plan and you have
+- [00:12:50,820 - 00:12:52,320] a process and a system, you're going to win.
+- [00:12:52,320 - 00:12:54,320] And when you're winning consistently, it's fun and it's
+- [00:12:54,320 - 00:12:56,320] going to be very difficult to get burnt out.
+- [00:12:56,320 - 00:12:59,320] What made you decide to pursue the solar industry?
+- [00:12:59,320 - 00:13:01,320] You know, it's a new industry.
+- [00:13:01,320 - 00:13:04,320] And why do you think people should be looking to
+- [00:13:04,320 - 00:13:07,320] invest in renewable energy and, I guess in your case, solar?
+- [00:13:07,320 - 00:13:09,320] Like what was it that stood out to you that's like,
+- [00:13:09,320 - 00:13:11,320] I want to kind of build a company around solar sales?
+- [00:13:11,320 - 00:13:12,320] The short time that I was
+- [00:13:12,320 - 00:13:13,320] in college was like 2014, 2016.
+- [00:13:13,320 - 00:13:17,320] I was looking at what are the emerging industries.
+- [00:13:17,320 - 00:13:20,820] Like no matter what I feel, no matter what your political view is, what
+- [00:13:20,820 - 00:13:24,320] is going to be bigger in the next 20 years than it is today?
+- [00:13:24,320 - 00:13:27,820] And you saw tech, AI, robotics, renewable energy, crypto were
+- [00:13:27,820 - 00:13:31,320] just like few just off the top of my head.
+- [00:13:31,320 - 00:13:36,820] I said, okay, I don't know much about any of those industries, but I knew that if I studied them and I
+- [00:13:36,820 - 00:13:42,320] had a chance to get the foot in the door, I'm assuming that I would learn it and be able to do it.
+- [00:13:42,320 - 00:13:45,320] I would learn it and be able to see if it was a good fit for
+- [00:13:45,320 - 00:13:48,320] me and then I can build around and be successful in that industry in whatever way.
+- [00:13:48,320 - 00:13:50,320] It didn't have to be starting a business, right?
+- [00:13:50,320 - 00:13:52,320] But it just had to be involved in those industries.
+- [00:13:52,320 - 00:13:59,820] And it was clear that all the people who were smart around my age group that were listening to the
+- [00:13:59,820 - 00:14:07,320] system, the system is school, their parents who were also the smart people before, were all going into the same industries.
+- [00:14:07,320 - 00:14:10,320] So I wanted to do the opposite of them.
+- [00:14:10,320 - 00:14:11,320] Because I knew nobody was going in that direction.
+- [00:14:11,320 - 00:14:12,320] Right.
+- [00:14:12,320 - 00:14:13,320] Nobody was going in that
+- [00:14:13,320 - 00:14:14,320] direction, which means there'd be disruption.
+- [00:14:14,320 - 00:14:16,320] It was meaning there'd be a chance for me to
+- [00:14:16,320 - 00:14:18,320] get in early and be able to make a mark.
+- [00:14:18,320 - 00:14:24,320] When it comes to building a company and hiring the right people, building the right team around you, what is,
+- [00:14:24,320 - 00:14:30,320] I guess, the biggest factors or traits that you look for in people when you're building that company, launching that venture?
+- [00:14:30,320 - 00:14:31,820] What is it that you look for in people that
+- [00:14:31,820 - 00:14:33,320] you're like, I need to bring him on at the team?
+- [00:14:33,320 - 00:14:35,820] We look for a couple of different things at
+- [00:14:35,820 - 00:14:38,320] Maker that's super, super important that are non-negotiables for me.
+- [00:14:38,320 - 00:14:41,320] I do not care how talented you are.
+- [00:14:41,320 - 00:14:43,320] I don't care where you went to school.
+- [00:14:43,320 - 00:14:44,320] I don't care if you knew someone
+- [00:14:44,320 - 00:14:45,320] at the company and it's a referral.
+- [00:14:45,320 - 00:14:47,320] It doesn't matter to me.
+- [00:14:47,320 - 00:14:48,320] You have to be coachable
+- [00:14:48,320 - 00:14:49,320] and you have to be humble.
+- [00:14:49,320 - 00:14:51,820] So I don't care if you're the
+- [00:14:51,820 - 00:14:54,320] most talented sales rep at XYZ company.
+- [00:14:54,320 - 00:14:55,320] That's amazing.
+- [00:14:55,320 - 00:14:56,320] That's good.
+- [00:14:56,320 - 00:14:57,320] That tells me that you have talent.
+- [00:14:57,320 - 00:14:58,320] But that doesn't mean that
+- [00:14:58,320 - 00:14:59,320] you're going to be successful here.
+- [00:14:59,320 - 00:15:00,320] Are you coachable?
+- [00:15:00,320 - 00:15:01,320] Are you humble?
+- [00:15:01,320 - 00:15:02,320] And are you persistent?
+- [00:15:02,320 - 00:15:06,320] And the last thing I've noticed is that if they haven't gone through anything in life or if they have
+- [00:15:06,320 - 00:15:10,320] a backup plan, meaning they haven't done anything, they haven't done anything, but they haven't done anything, they haven't done anything.
+- [00:15:10,320 - 00:15:15,320] Meaning they have wealthy parents or they maybe have passive income of some sort
+- [00:15:15,320 - 00:15:20,320] or they have something that if they don't succeed, they can fall back on.
+- [00:15:20,320 - 00:15:22,320] They almost never succeed.
+- [00:15:22,320 - 00:15:24,820] So someone that has to make it
+- [00:15:24,820 - 00:15:27,320] no matter what always will find a way.
+- [00:15:27,320 - 00:15:29,820] So that wraps up this episode, guys,
+- [00:15:29,820 - 00:15:32,320] of 10 questions with millionaire Grant Mitt.
+- [00:15:32,320 - 00:15:34,320] Grant had an awesome time with you today.
+- [00:15:34,320 - 00:15:36,320] Got to know you a little bit more, kind
+- [00:15:36,320 - 00:15:38,320] of tell a little bit more about your story.
+- [00:15:38,320 - 00:15:38,820] And for all of you
+- [00:15:38,820 - 00:15:39,320] guys, make sure that you subscribe.
+- [00:15:39,320 - 00:15:40,320] Thank you.
+- [00:15:40,320 - 00:15:43,820] And we'll see that you check Grant Mitt out on social media, Grant
+- [00:15:43,820 - 00:15:47,320] Mitt on Instagram and TikTok, as well as the Grant Mitt podcast on Apple.
+- [00:15:47,320 - 00:15:48,320] And Spotify as well.
+- [00:15:48,320 - 00:15:49,320] Spotify as well.
+- [00:15:49,320 - 00:15:52,320] And yeah, guys, we hope that you enjoyed it.
+- [00:15:52,320 - 00:15:54,320] Make sure that you leave us a like on the video and
+- [00:15:54,320 - 00:15:56,320] subscribe and we'll be back to you guys with episode four soon.
