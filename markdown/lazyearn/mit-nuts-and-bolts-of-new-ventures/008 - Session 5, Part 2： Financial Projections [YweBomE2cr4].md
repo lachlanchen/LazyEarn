@@ -1,0 +1,2392 @@
+# Transcript
+
+Source: lazyearn/mit-nuts-and-bolts-of-new-ventures/008 - Session 5, Part 2： Financial Projections [YweBomE2cr4].webm
+
+- [00:00:00,000 - 00:00:07,920] Okay. One of the things about having
+- [00:00:07,920 - 00:00:15,840] the financial sources panel is when it's over,
+- [00:00:16,480 - 00:00:19,010] the panel gets inundated with all sorts of
+- [00:00:19,010 - 00:00:21,540] great questions and people wanting to connect with them.
+- [00:00:21,680 - 00:00:25,120] So I'm sure they're amenable outside of class
+- [00:00:25,120 - 00:00:28,560] also. But now we're going to turn to financial
+- [00:00:28,560 - 00:00:31,550] projections, as I said. You've done all
+- [00:00:31,550 - 00:00:34,540] this stuff before. We've talked about who's your
+- [00:00:34,540 - 00:00:37,200] customer, what's your business model, how to
+- [00:00:37,200 - 00:00:39,860] assemble a team, a bunch of legal things.
+- [00:00:40,420 - 00:00:43,570] Now you're ready to maybe figure out the resources
+- [00:00:43,570 - 00:00:46,720] you need in order to make this venture idea
+- [00:00:46,720 - 00:00:49,350] possible. And so the core part of
+- [00:00:49,350 - 00:00:51,980] that is doing some sort of financial projections.
+- [00:00:52,500 - 00:00:55,280] And tonight, Steve Durinsky is going
+- [00:00:55,280 - 00:00:58,060] to lead us through financial projections. And
+- [00:00:58,060 - 00:01:01,120] even if you have done accounting and all
+- [00:01:01,120 - 00:01:04,180] that, you'll learn a lot from this. So Steve,
+- [00:01:04,180 - 00:01:06,750] will you take it over? Thank you, Joe.
+- [00:01:06,750 - 00:01:09,320] Oh my gosh, look at that. It's on.
+- [00:01:10,700 - 00:01:12,460] How are you guys doing? Thank
+- [00:01:12,460 - 00:01:14,220] you for joining me for financial projections
+- [00:01:14,220 - 00:01:18,430] in 10-250 on a cold January evening. I'm
+- [00:01:18,430 - 00:01:22,640] Steve Durzynski. I am a mechanical engineer by training,
+- [00:01:22,640 - 00:01:25,130] so I bet you thought I was going to be a
+- [00:01:25,130 - 00:01:27,620] CFO or an accountant or something. I'm not. I've done a
+- [00:01:28,060 - 00:01:30,340] bunch of startups. A lot of the stuff these guys
+- [00:01:30,340 - 00:01:32,620] were talking about on the panel, I've done a lot
+- [00:01:32,620 - 00:01:35,670] of that stuff. And I went down to Georgia
+- [00:01:35,670 - 00:01:38,720] Tech and I formed the first faculty venture studio,
+- [00:01:39,180 - 00:01:41,980] launching companies from university research down there. And
+- [00:01:41,980 - 00:01:44,780] then I came back up and went to Sloan
+- [00:01:44,780 - 00:01:48,380] and got a Sloan fellow degree. So if
+- [00:01:48,380 - 00:01:51,980] it sounds like a roboticist is describing financial projections
+- [00:01:51,980 - 00:01:54,770] to you, you're right. It is a roboticist explaining that
+- [00:01:54,770 - 00:01:57,560] to you. And if it also sounds like an MBA is
+- [00:01:58,060 - 00:02:01,300] explaining it to you, you're right. If it
+- [00:02:01,300 - 00:02:04,540] sounds like an accountant, that's not me. I'm parroting
+- [00:02:04,540 - 00:02:07,060] Charlie, then that would be coming from. So
+- [00:02:07,060 - 00:02:09,580] today I'm running Kendall Square Co-Foundry, which is
+- [00:02:09,580 - 00:02:11,700] forming a bunch of companies out of Kendall Square.
+- [00:02:11,700 - 00:02:13,820] And if you look up Georgia Tech Venture Lab,
+- [00:02:13,820 - 00:02:16,020] the original, that's gone on to raise about
+- [00:02:16,020 - 00:02:18,220] $2 billion and launch a whole bunch of companies
+- [00:02:18,940 - 00:02:22,580] out of the Georgia Tech University down in Atlanta.
+- [00:02:22,580 - 00:02:26,220] So, okay, let's get into it. And I think,
+- [00:02:28,060 - 00:02:30,790] we'll just do a quick take a break for a
+- [00:02:30,790 - 00:02:33,520] minute, so I don't wanna be bureaucratic, but let it be
+- [00:02:33,520 - 00:02:35,870] a little brief. But something that we kind of
+- [00:02:35,870 - 00:02:38,220] barely talked about is that it's a concept of
+- [00:02:38,220 - 00:02:40,780] boss political process when you're starting a new
+- [00:02:40,780 - 00:02:43,340] property, right, and on the business board of
+- [00:02:43,340 - 00:02:45,900] course you and I all know about it, you all
+- [00:02:45,900 - 00:02:48,460] know what boss political process is, but you never know
+- [00:02:48,460 - 00:02:50,180] what most of the business models are.
+- [00:02:50,180 - 00:02:52,480] I know you're probably wondering, yeah,
+- [00:02:52,480 - 00:02:54,780] contradiction between what I'm going to come
+- [00:02:54,780 - 00:02:56,880] at and what the 이건ics of these sleeps.
+- [00:02:56,880 - 00:02:57,140] Yeah.
+- [00:02:57,140 - 00:02:57,360] You're on the screen?
+- [00:02:57,360 - 00:02:57,480] You saw this first one.
+- [00:02:57,480 - 00:02:57,660] Yeah.
+- [00:02:57,660 - 00:02:57,960] You all also contained it, you're empathy learn.
+- [00:02:57,960 - 00:02:58,040] And that's true.
+- [00:02:58,060 - 00:02:59,770] building your financial projections, and then finally
+- [00:02:59,770 - 00:03:01,480] sharing the pie, which is an equity
+- [00:03:01,480 - 00:03:03,520] discussion. So that's a very interesting
+- [00:03:03,520 - 00:03:05,560] conversation, especially as you guys are early
+- [00:03:05,560 - 00:03:07,850] in navigating kind of, I'm the first founder,
+- [00:03:07,850 - 00:03:10,140] and I'm bringing in a co-founder, and then I'm
+- [00:03:10,140 - 00:03:12,530] bringing in a third sort of key employee, and how
+- [00:03:12,530 - 00:03:14,920] do we figure out how to share the pie and what's
+- [00:03:14,920 - 00:03:17,290] fair for everybody? A lot of scars by a
+- [00:03:17,290 - 00:03:19,660] lot of other founders on that. We'll talk about that
+- [00:03:19,660 - 00:03:23,320] at the last. That's the sort of the pie at
+- [00:03:23,320 - 00:03:26,980] the end, if you will. And of course, I was exactly
+- [00:03:26,980 - 00:03:28,770] feeling this way when I was first starting my
+- [00:03:28,770 - 00:03:30,560] first company. Like, I'm too busy to do this
+- [00:03:30,560 - 00:03:32,690] financials. Can't we just get an accountant to do
+- [00:03:32,690 - 00:03:34,820] it? Like, what's the point? It's going to be wrong.
+- [00:03:35,079 - 00:03:36,539] Like, I don't need this. The VCs don't believe it
+- [00:03:36,539 - 00:03:38,000] anyway. It's like, yeah, yeah, it's up and to the
+- [00:03:38,000 - 00:03:39,960] right. We know that. Why are you boring me
+- [00:03:39,960 - 00:03:41,920] with all this stuff? I have more important things to
+- [00:03:41,920 - 00:03:44,710] do, like build a product, deal with the technology,
+- [00:03:44,710 - 00:03:47,500] find customers, hire people. My team's all in a
+- [00:03:47,500 - 00:03:49,789] disarray. I got to do all that kind of
+- [00:03:49,789 - 00:03:52,079] stuff. So here's why you need good financial projections.
+- [00:03:52,079 - 00:03:54,299] And I have to tell you that this absolutely
+- [00:03:54,299 - 00:03:56,519] was me as an engineer, right? I'm like, ah,
+- [00:03:56,620 - 00:03:56,899] it's this.
+- [00:03:56,980 - 00:03:58,889] I'm going to do the finance stuff. But
+- [00:03:58,889 - 00:04:00,799] then I've grown to love it and understand it.
+- [00:04:02,399 - 00:04:04,709] Cash is the oxygen. We used to say cash was
+- [00:04:04,709 - 00:04:07,019] like the blood or the food of the venture. It's the
+- [00:04:07,019 - 00:04:09,009] oxygen, right? Like, how long can you go without
+- [00:04:09,009 - 00:04:11,000] food, right? Pretty long time. How long can you
+- [00:04:11,000 - 00:04:14,039] go without oxygen? Not very long. So you really
+- [00:04:14,039 - 00:04:17,079] need to take care of your cash. And financials
+- [00:04:17,079 - 00:04:19,479] are the scorecard and the roadmap to determine your
+- [00:04:19,479 - 00:04:21,880] cash needs. And if you don't have a good
+- [00:04:21,880 - 00:04:24,400] plan for that, you're in real trouble.
+- [00:04:24,400 - 00:04:26,920] It's also the vehicle to obtain that.
+- [00:04:26,980 - 00:04:29,530] So if you're talking to any financial advisor
+- [00:04:29,530 - 00:04:32,080] or any investor, they're going to want to
+- [00:04:32,080 - 00:04:34,310] know that you understand the financials of
+- [00:04:34,310 - 00:04:36,540] your business and what it runs. Understanding
+- [00:04:36,540 - 00:04:40,940] your business, the assumptions, the drivers, the milestones.
+- [00:04:40,940 - 00:04:43,400] And then, of course, what every bank officer
+- [00:04:43,400 - 00:04:45,860] wants to know, which is, what is your exposures
+- [00:04:45,860 - 00:04:48,580] or risks? If any of you guys are
+- [00:04:48,580 - 00:04:51,300] financially trained, you know that that's how most people
+- [00:04:51,300 - 00:04:53,900] think. What's the downside? As entrepreneurs, you're
+- [00:04:53,900 - 00:04:56,500] always like, rah, rah, here's the upside.
+- [00:04:56,500 - 00:04:57,980] And then when you go meet a banker
+- [00:04:57,980 - 00:04:59,460] and they talk about what's the downside risk.
+- [00:05:00,460 - 00:05:02,810] Actually, I was just having a meeting the other day and
+- [00:05:02,810 - 00:05:05,160] I was like, you guys just talk nothing about depressing things.
+- [00:05:05,260 - 00:05:07,230] Like, where are all the risks? Sure, there's risks. But
+- [00:05:07,230 - 00:05:09,200] man, look at the upside. Let's rock and roll here.
+- [00:05:10,660 - 00:05:12,220] And of course, the famous quote,
+- [00:05:12,220 - 00:05:13,780] failure to plan is planning to fail.
+- [00:05:13,780 - 00:05:20,749] So really what you're doing when you're driving into building a financial model is that you're developing this kind
+- [00:05:20,749 - 00:05:27,719] of visceral, direct understanding of exactly where your costs lie and what the revenue projections are going to look like.
+- [00:05:28,039 - 00:05:32,359] And you can't AI your way into figuring that out. You have to
+- [00:05:32,359 - 00:05:36,679] dive into the spreadsheets and really kind of understand it and flesh it around.
+- [00:05:36,679 - 00:05:39,469] And this set of spreadsheets are probably one of the best
+- [00:05:39,469 - 00:05:42,260] out there in terms of setting things up to give you that.
+- [00:05:42,599 - 00:05:43,679] That high that that.
+- [00:05:43,780 - 00:05:46,949] That low level depth of where you can tweak things and
+- [00:05:46,949 - 00:05:50,119] then how that bubbles up to the high level that you present.
+- [00:05:50,500 - 00:05:52,719] So excited to show you guys this stuff.
+- [00:05:53,140 - 00:05:55,010] And of course, as the startup CEO,
+- [00:05:55,010 - 00:05:56,880] your job is to maintain the oxygen supply.
+- [00:05:57,000 - 00:05:59,239] So going back to all of that stuff about understanding
+- [00:05:59,239 - 00:06:01,479] your business, where your cash burn is and everything else.
+- [00:06:02,380 - 00:06:04,779] You do need to understand stuff
+- [00:06:04,779 - 00:06:07,179] like average selling price, gross margins.
+- [00:06:07,760 - 00:06:10,059] Like I've got a whole team of researchers. What
+- [00:06:10,059 - 00:06:12,359] are they costing me? What's the burn on that stuff?
+- [00:06:12,520 - 00:06:13,760] And then as soon as I start to.
+- [00:06:13,979 - 00:06:16,859] Sell what are my marketing and strategy expenses there?
+- [00:06:17,159 - 00:06:18,919] And then, of course, you know, that all rolls
+- [00:06:18,919 - 00:06:20,679] up to how much money do I need to raise?
+- [00:06:22,599 - 00:06:24,949] So you just heard a fantastic panel
+- [00:06:24,949 - 00:06:27,299] of VCs talk about what they want.
+- [00:06:27,599 - 00:06:29,140] But let's get into the numbers now.
+- [00:06:29,219 - 00:06:30,969] I think somebody over here asked, like, how
+- [00:06:30,969 - 00:06:32,719] much do you want to take from me?
+- [00:06:32,820 - 00:06:33,880] Right. That was the question, right?
+- [00:06:33,940 - 00:06:35,299] What's the valuation of my startup?
+- [00:06:35,400 - 00:06:36,659] That's what you were getting at. I could tell.
+- [00:06:37,780 - 00:06:40,699] And this kind of gets into more detail around what they were referring
+- [00:06:40,699 - 00:06:43,619] to in terms of having LPs that expect kind of their full value.
+- [00:06:43,619 - 00:06:43,679] Right. That's what you were getting at. I could tell. And this kind of gets into more detail
+- [00:06:43,679 - 00:06:43,739] around what they were referring to in terms of having LPs that expect kind of their full value.
+- [00:06:43,780 - 00:06:46,830] to return. So I think John is, what did he
+- [00:06:46,830 - 00:06:49,880] say, a $30 million fund he's raising. So the LPs are
+- [00:06:49,880 - 00:06:52,959] going to expect three to five times that at
+- [00:06:52,959 - 00:06:56,039] the fund level back. So when they look at your
+- [00:06:56,039 - 00:06:58,799] individual deal, you heard kind of how the power
+- [00:06:58,799 - 00:07:01,559] law works, right? They expect their three to five
+- [00:07:01,559 - 00:07:03,719] X absolute return to kind of blossom up into
+- [00:07:03,719 - 00:07:05,880] a gigantic return if they're going to make an
+- [00:07:05,880 - 00:07:08,749] investment across the board, given that they know, they
+- [00:07:08,749 - 00:07:11,619] don't know. I mean, they expect a full return
+- [00:07:11,620 - 00:07:13,100] from every one of you, but they know that a
+- [00:07:13,100 - 00:07:14,580] bunch of them aren't going to work out because there's
+- [00:07:14,580 - 00:07:17,900] unknown risks. So it becomes tricky from the sort
+- [00:07:17,900 - 00:07:21,220] of VC side of things, how to like manage that,
+- [00:07:21,340 - 00:07:23,590] and then what that means for you guys in
+- [00:07:23,590 - 00:07:25,840] terms of what they're expecting. Also, I thought that
+- [00:07:25,840 - 00:07:28,930] was a great comment that John made about not
+- [00:07:28,930 - 00:07:32,020] every deal is VC fundable. So it's like, if you're
+- [00:07:32,020 - 00:07:34,800] only going to grow a million bucks a year,
+- [00:07:34,800 - 00:07:37,580] you know, it could be a fantastic business for you
+- [00:07:37,580 - 00:07:39,360] to run, but it's not really VC
+- [00:07:39,360 - 00:07:41,140] investable because the slope isn't high enough.
+- [00:07:41,500 - 00:07:41,600] That's right.
+- [00:07:41,600 - 00:07:44,970] IRR isn't high enough. So 4X in five years is an
+- [00:07:44,970 - 00:07:48,340] IRR of 32%. So that can just kind of show you
+- [00:07:48,340 - 00:07:51,290] what the slope of the curve is on your financials.
+- [00:07:51,290 - 00:07:54,240] So they want to get a significant amount of the
+- [00:07:54,240 - 00:07:56,910] money they invest, at least five to $10
+- [00:07:56,910 - 00:07:59,580] million, and own a significant ownership. The formula is
+- [00:07:59,580 - 00:08:01,550] simply, if you don't know this already, the
+- [00:08:01,550 - 00:08:03,520] dollar's invested. So if I raise a million dollars
+- [00:08:03,520 - 00:08:06,570] and my pre-money valuation was $4 million, then they
+- [00:08:06,570 - 00:08:09,620] get one over five, right? One over four plus
+- [00:08:09,620 - 00:08:09,900] five.
+- [00:08:09,900 - 00:08:13,379] That's the percentage that they own. And
+- [00:08:13,379 - 00:08:16,859] the argument in the discussion is the pre-money
+- [00:08:16,859 - 00:08:19,199] valuation that they were talking about and how
+- [00:08:19,199 - 00:08:21,539] you want to make sure you set that correctly.
+- [00:08:21,539 - 00:08:24,449] I thought that was a very interesting discussion about
+- [00:08:24,449 - 00:08:27,359] if you fly too close to the sun early on,
+- [00:08:27,359 - 00:08:30,539] then it's really hard to kind of settle
+- [00:08:30,539 - 00:08:33,720] in. That was great insight. And post-money, obviously,
+- [00:08:33,720 - 00:08:35,500] after you raise a million dollars, if
+- [00:08:35,500 - 00:08:37,280] your pre-money was four, your post-money valuation
+- [00:08:37,280 - 00:08:38,530] is now five. Simple math. I really like seeing
+- [00:08:38,530 - 00:08:39,780] that. I think that's a great way to kind of
+- [00:08:39,780 - 00:08:42,000] make simple math. It kind of makes it all set.
+- [00:08:42,000 - 00:08:44,760] Okay, so let's run through an example. And this
+- [00:08:44,760 - 00:08:47,520] doesn't have pre-seed and seed on it. It just
+- [00:08:47,520 - 00:08:50,370] jumps right into series A. So $5 million on a
+- [00:08:50,370 - 00:08:53,220] $5 million pre, investor owns 50%. $10 million on a
+- [00:08:53,220 - 00:08:56,820] $15 million pre, investor owns 40% of the company
+- [00:08:56,820 - 00:09:00,420] at that point, in addition to the previous amount.
+- [00:09:02,520 - 00:09:04,950] But the original one is diluted by 40%. So
+- [00:09:04,950 - 00:09:07,380] you see how that works, right? Once I've got... Well,
+- [00:09:07,380 - 00:09:09,180] you'll see a full spreadsheet in a second here.
+- [00:09:09,959 - 00:09:12,260] So the VC has invested $15 million.
+- [00:09:13,140 - 00:09:16,100] They own 70% of the business at that point.
+- [00:09:16,100 - 00:09:19,060] And in order to target the three to 5X return,
+- [00:09:19,060 - 00:09:20,780] that $15 million has to either
+- [00:09:20,780 - 00:09:22,500] turn into $60 million or $90 million.
+- [00:09:23,060 - 00:09:25,860] So that portion, that 70% they own, means that the
+- [00:09:25,860 - 00:09:28,660] company has to be sold for at least 85 to
+- [00:09:28,660 - 00:09:31,260] $30 million. Which also means, given the type
+- [00:09:31,260 - 00:09:33,860] of company that it is, your revenues need to
+- [00:09:33,860 - 00:09:35,740] be between 40 and $60 million. So I
+- [00:09:35,740 - 00:09:37,620] just went through all that stuff. Hopefully you followed
+- [00:09:37,620 - 00:09:38,099] all along. But I think the most important impact I've seen
+- [00:09:38,099 - 00:09:38,579] or I hope you know what I mean, a lot of
+- [00:09:38,579 - 00:09:38,819] people see that when they're inapropriate, it's
+- [00:09:38,819 - 00:09:39,060] not just theить, it's the übernommenов 자주 тер乃suni.
+- [00:09:39,060 - 00:09:39,069] So I think the most important impact, and I'll
+- [00:09:39,069 - 00:09:39,079] go back toavas tu Encad's, is also the 여러�ernischen
+- [00:09:39,080 - 00:09:41,330] I think the most important point about
+- [00:09:41,330 - 00:09:43,580] this slide is that you've raised $15
+- [00:09:43,580 - 00:09:44,400] million,
+- [00:09:45,680 - 00:09:47,900] but you need to make sure your revenues
+- [00:09:47,900 - 00:09:50,120] are at least 40 to $60 million in growing
+- [00:09:50,120 - 00:09:52,100] from there in order for this to
+- [00:09:52,100 - 00:09:54,080] be a successful deal. So, you know,
+- [00:09:54,080 - 00:09:55,690] there's a lot of times people focus
+- [00:09:55,690 - 00:09:57,300] on the press release of like, Hey,
+- [00:09:57,300 - 00:09:59,360] we raised 5 million bucks. Isn't that
+- [00:09:59,360 - 00:10:01,420] great? I always think, well, you know,
+- [00:10:01,420 - 00:10:03,630] if you raise zero, the bar is
+- [00:10:03,630 - 00:10:05,840] here. If I raise a million dollars,
+- [00:10:05,840 - 00:10:07,040] the bar is here. If
+- [00:10:07,040 - 00:10:08,240] I raise $5 million, you know,
+- [00:10:08,240 - 00:10:10,580] so the bar continues to go up
+- [00:10:10,580 - 00:10:12,920] rapidly, the more money you raise. So when,
+- [00:10:12,960 - 00:10:15,960] when these guys have raised $50 million in this example,
+- [00:10:16,160 - 00:10:17,780] it's gotta be at least 40 to $60
+- [00:10:17,780 - 00:10:19,400] million in revenue in order for this to be
+- [00:10:19,440 - 00:10:21,060] worthwhile. So just, just, you know,
+- [00:10:21,060 - 00:10:22,680] keep that in mind as you,
+- [00:10:22,680 - 00:10:24,910] as you look to kind of figure out
+- [00:10:24,910 - 00:10:27,140] the financials of your business and what is
+- [00:10:27,140 - 00:10:28,870] the right amount of funding
+- [00:10:28,870 - 00:10:30,600] to invest or to take in.
+- [00:10:31,700 - 00:10:34,580] It's just tough. It's a tough balance. So, okay.
+- [00:10:34,880 - 00:10:36,480] So have you ever heard the
+- [00:10:36,480 - 00:10:38,080] phrase prepare a standard set of financials?
+- [00:10:38,240 - 00:10:40,400] Do we have any accountants in
+- [00:10:40,400 - 00:10:42,560] here? Anybody who's taken like bookkeeping,
+- [00:10:42,560 - 00:10:45,920] CPA class, none of that. Okay. All right. Good.
+- [00:10:48,440 - 00:10:51,240] A standard set of financials is a balance sheet,
+- [00:10:51,260 - 00:10:52,690] an income statement and a statement
+- [00:10:52,690 - 00:10:54,120] of cash flows. And keep in mind,
+- [00:10:54,120 - 00:10:55,600] you're learning this from an engineer. Okay.
+- [00:10:56,020 - 00:10:58,580] So an income statement is probably what you all know.
+- [00:10:58,580 - 00:10:59,960] It's also known as a profit
+- [00:10:59,960 - 00:11:01,340] and loss. You show your revenues,
+- [00:11:01,340 - 00:11:02,630] you take the cost of goods sold
+- [00:11:02,630 - 00:11:03,920] off and you show your profit margin, right?
+- [00:11:03,920 - 00:11:05,550] That's kind of what we all know
+- [00:11:05,550 - 00:11:07,180] about a business, right? You're selling stuff.
+- [00:11:07,180 - 00:11:08,769] It costs a certain amount of money to
+- [00:11:08,769 - 00:11:10,359] sell it. You make a profit done, right?
+- [00:11:10,359 - 00:11:12,680] That's it. We're done. No, that's only the income statement.
+- [00:11:12,939 - 00:11:14,829] The balance sheet shows kind of the,
+- [00:11:14,829 - 00:11:16,719] the assets, which cash is an asset,
+- [00:11:16,719 - 00:11:17,979] of course, but all the rest of that, you know,
+- [00:11:17,979 - 00:11:19,959] maybe you have some patents or maybe you own some,
+- [00:11:20,140 - 00:11:21,479] some piece of equipment or something that's
+- [00:11:21,479 - 00:11:22,819] going to go on the balance sheet and
+- [00:11:22,819 - 00:11:24,880] then liabilities. If you have some debts or things,
+- [00:11:25,180 - 00:11:27,040] and then the cashflow is probably
+- [00:11:27,040 - 00:11:28,900] the least popular financial statement of all
+- [00:11:28,900 - 00:11:30,340] of them. Some accountants love
+- [00:11:30,340 - 00:11:31,780] them, but it's kind of like,
+- [00:11:31,780 - 00:11:34,179] I don't know if you guys are into
+- [00:11:34,179 - 00:11:36,579] life or FIFO caches. It's like money comes in,
+- [00:11:36,580 - 00:11:38,470] money comes in and then the level
+- [00:11:38,470 - 00:11:40,360] goes up and down and money goes out.
+- [00:11:40,620 - 00:11:42,270] I've got an image here in a second
+- [00:11:42,270 - 00:11:43,920] that'll hopefully, well, I think it's next here.
+- [00:11:43,940 - 00:11:46,860] Oh, here you go. So since I'm a visual guy,
+- [00:11:47,260 - 00:11:48,780] you've got your profit and loss on
+- [00:11:48,780 - 00:11:50,300] the left, which is what you would expect.
+- [00:11:50,500 - 00:11:51,610] I think that's supposed to say
+- [00:11:51,610 - 00:11:52,720] revenue on the top, by the way,
+- [00:11:52,760 - 00:11:54,450] revenue minus expenses, profit and loss.
+- [00:11:54,450 - 00:11:56,140] But then you bring your, your,
+- [00:11:56,180 - 00:11:58,410] your profit over into the balance sheet
+- [00:11:58,410 - 00:12:00,640] side of things. That changes the, the,
+- [00:12:00,940 - 00:12:03,220] one of the assets that's cash. And
+- [00:12:03,220 - 00:12:05,500] then you see on the cashflow statement,
+- [00:12:05,760 - 00:12:06,580] the kind of,
+- [00:12:06,700 - 00:12:08,650] deposits and payments that actually impact
+- [00:12:08,650 - 00:12:10,600] the assets as well on the balance
+- [00:12:10,600 - 00:12:11,100] sheet.
+- [00:12:11,100 - 00:12:13,340] So there's a lot more visualizations of
+- [00:12:13,340 - 00:12:15,580] financial sheets that I like to like to
+- [00:12:15,580 - 00:12:16,740] look at, but, but we'll, we'll
+- [00:12:16,740 - 00:12:17,900] go through them in more detail.
+- [00:12:18,360 - 00:12:20,390] Any questions so far clear as
+- [00:12:20,390 - 00:12:22,420] mud as my grandfather used to say?
+- [00:12:23,620 - 00:12:26,200] No. Okay. All right.
+- [00:12:26,240 - 00:12:28,560] So let's just look at
+- [00:12:28,560 - 00:12:30,880] a generic technology company sales of
+- [00:12:30,900 - 00:12:33,410] 50 50 what 50 million 50,000
+- [00:12:33,410 - 00:12:35,920] doesn't matter. It's 50 cost of goods,
+- [00:12:35,920 - 00:12:36,320] sold,
+- [00:12:36,320 - 00:12:39,440] 20. And you'll notice these percentages on the side.
+- [00:12:39,440 - 00:12:41,390] That's a really good way to
+- [00:12:41,390 - 00:12:43,340] kind of compare different business models and
+- [00:12:43,340 - 00:12:46,500] compare kind of how you're performing year over year.
+- [00:12:46,520 - 00:12:49,220] It's hard to sort of remember absolute numbers sometimes,
+- [00:12:49,220 - 00:12:51,650] but a lot of boards and a
+- [00:12:51,650 - 00:12:54,080] lot of operating business units operate on,
+- [00:12:54,100 - 00:12:55,860] you know, measuring percentages of, of
+- [00:12:55,860 - 00:12:57,620] things as, as you go through it,
+- [00:12:57,620 - 00:13:00,080] it's typically percentages of, of
+- [00:13:00,080 - 00:13:02,540] revenue sales and marketing expenses,
+- [00:13:02,840 - 00:13:05,300] R and D expenses, 10% of revenue.
+- [00:13:05,300 - 00:13:07,189] So that tells you a little bit
+- [00:13:07,189 - 00:13:09,079] of something about the business and then GNA,
+- [00:13:09,079 - 00:13:11,539] which I love GNA here is shown
+- [00:13:11,539 - 00:13:14,000] as rent accounting, HR and it. I mean,
+- [00:13:14,040 - 00:13:16,880] let's be honest, it's management. Okay. All right.
+- [00:13:17,719 - 00:13:21,380] It's supposed to be a joke. All right. Okay. So,
+- [00:13:21,439 - 00:13:24,380] so here's an example of a four year income statement,
+- [00:13:24,839 - 00:13:26,679] and this is what investors will look
+- [00:13:26,679 - 00:13:28,520] at. They'll just say, okay, give me the,
+- [00:13:28,579 - 00:13:30,560] give me the what's the top line revenue number.
+- [00:13:31,140 - 00:13:32,910] What's the percentage after four years.
+- [00:13:32,910 - 00:13:34,680] Now this is not like immediately,
+- [00:13:34,680 - 00:13:35,180] this is like,
+- [00:13:35,180 - 00:13:37,009] what can the business turn into
+- [00:13:37,009 - 00:13:38,839] and how does that look percentage wise?
+- [00:13:39,260 - 00:13:40,549] And then what's your operating profit? Like
+- [00:13:40,549 - 00:13:41,839] how much money are you going to make?
+- [00:13:42,219 - 00:13:43,379] That's what investors will look at.
+- [00:13:43,379 - 00:13:44,540] And then what's the, you know,
+- [00:13:44,599 - 00:13:46,969] after four years, 23%, okay. You know,
+- [00:13:46,969 - 00:13:49,339] that's, it seems like a reasonable business.
+- [00:13:49,579 - 00:13:51,499] And then, you know, how does it,
+- [00:13:51,499 - 00:13:53,420] how does the actual revenue ramp up? Um,
+- [00:13:54,020 - 00:13:55,790] and then, and then of course
+- [00:13:55,790 - 00:13:57,560] the overall gross margin is important too,
+- [00:13:57,560 - 00:13:59,990] because we all know that you can,
+- [00:13:59,990 - 00:14:02,420] you can drive the sort of expenses,
+- [00:14:02,599 - 00:14:04,760] the engineering expenses, the marketing expenses and sales,
+- [00:14:05,180 - 00:14:06,350] and squeeze those a little bit.
+- [00:14:06,350 - 00:14:07,520] If you need to jack up the,
+- [00:14:07,719 - 00:14:09,369] if you want more profit
+- [00:14:09,369 - 00:14:11,020] margin in the business, but you,
+- [00:14:11,060 - 00:14:12,930] it's really hard to increase the
+- [00:14:12,930 - 00:14:14,800] gross margin because that's usually baked into
+- [00:14:14,800 - 00:14:17,819] the product. Okay. What you should
+- [00:14:17,819 - 00:14:20,839] look at, same thing, revenue percentages.
+- [00:14:21,380 - 00:14:23,690] Um, but then year one, because
+- [00:14:23,690 - 00:14:26,000] as an entrepreneur, as a startup entrepreneur,
+- [00:14:26,000 - 00:14:27,530] you need to believe that you're going
+- [00:14:27,530 - 00:14:29,060] to be able to get going, right?
+- [00:14:29,060 - 00:14:30,930] You're going to be able to start
+- [00:14:30,930 - 00:14:32,800] selling from zero to one product, right? That,
+- [00:14:32,800 - 00:14:35,060] that's a big leap, you know, getting that first customer,
+- [00:14:35,060 - 00:14:37,060] that second customer and you want to
+- [00:14:37,060 - 00:14:39,060] know what your burn rate is like,
+- [00:14:39,060 - 00:14:40,360] how much is that going to cost
+- [00:14:40,360 - 00:14:41,660] me? Right? So, so in this example,
+- [00:14:41,839 - 00:14:44,540] we're making $1.27 million in the first year,
+- [00:14:44,660 - 00:14:48,819] but we spent $3.3 million.
+- [00:14:49,160 - 00:14:51,049] Some would say that's a terrible business,
+- [00:14:51,049 - 00:14:52,939] right? If you just have that one year,
+- [00:14:52,939 - 00:14:54,099] it does look like a terrible business,
+- [00:14:54,099 - 00:14:55,839] but because you're showing this projection
+- [00:14:55,839 - 00:14:57,579] and you're showing the growth and
+- [00:14:57,599 - 00:14:59,269] there's an investment and a growth
+- [00:14:59,269 - 00:15:00,939] curve, then you, you, um, you,
+- [00:15:00,939 - 00:15:02,169] you can show kind of what a
+- [00:15:02,169 - 00:15:03,400] promising business it could be. Excuse me,
+- [00:15:03,400 - 00:15:04,239] I'm sorry.
+- [00:15:05,060 - 00:15:07,560] Um, so the reason why you look at
+- [00:15:07,560 - 00:15:10,060] your one and your two is because in this
+- [00:15:10,520 - 00:15:12,499] example, I've burned three and
+- [00:15:12,499 - 00:15:14,479] a half, $3.3 million in cash,
+- [00:15:14,479 - 00:15:15,889] and then I've burned another $2.6
+- [00:15:15,889 - 00:15:17,300] million in cash after the second year.
+- [00:15:17,560 - 00:15:19,280] So that means I better have about 6
+- [00:15:19,280 - 00:15:21,000] million bucks in the bank before I even get
+- [00:15:21,000 - 00:15:23,440] started on this thing. Otherwise I'm going to
+- [00:15:23,440 - 00:15:25,880] be down to zero, uh, very soon. Um,
+- [00:15:25,920 - 00:15:26,949] and then I, I see, I get
+- [00:15:26,949 - 00:15:27,979] to break even, and then I can,
+- [00:15:27,979 - 00:15:32,880] I can grow the business from there on. Um,
+- [00:15:32,900 - 00:15:34,839] I usually like to graph the,
+- [00:15:35,060 - 00:15:36,290] the revenues and the profits so you
+- [00:15:36,290 - 00:15:37,520] can visually see what it looks like.
+- [00:15:37,520 - 00:15:39,140] And I think I have a chart in
+- [00:15:39,140 - 00:15:40,760] here in a second that shows that, um,
+- [00:15:41,500 - 00:15:43,739] lots of businesses have key
+- [00:15:43,739 - 00:15:45,979] performance indicators. Uh, they're typically,
+- [00:15:46,739 - 00:15:48,579] uh, things that are measured by
+- [00:15:48,579 - 00:15:50,420] the operating team or the business units,
+- [00:15:50,560 - 00:15:53,180] not necessarily posted in the financials, uh,
+- [00:15:53,180 - 00:15:55,319] but they can be really
+- [00:15:55,319 - 00:15:57,459] good metrics like churn rate for,
+- [00:15:57,479 - 00:16:00,260] especially for SAS business. Like how, you know, are you,
+- [00:16:00,339 - 00:16:01,869] are you retaining a lot of customers?
+- [00:16:01,869 - 00:16:03,400] Are they, are they leaving, you know,
+- [00:16:03,400 - 00:16:04,839] you, you've brought them in, are they gonna,
+- [00:16:04,840 - 00:16:06,650] are they gonna leave after a month?
+- [00:16:06,650 - 00:16:08,460] They're gonna try the trial and then,
+- [00:16:08,480 - 00:16:11,220] you know, be gone. Um, and that,
+- [00:16:11,220 - 00:16:12,990] that kind of comes into the
+- [00:16:12,990 - 00:16:14,760] committed monthly recurring revenue and the customer
+- [00:16:14,780 - 00:16:16,740] acquisition costs and the customer lifetime value.
+- [00:16:17,080 - 00:16:19,060] And then there's others that do
+- [00:16:19,060 - 00:16:21,040] a customer lifetime value to customer
+- [00:16:21,040 - 00:16:22,870] acquisition costs. And you can think
+- [00:16:22,870 - 00:16:24,700] about that as an investment vehicle, right?
+- [00:16:24,700 - 00:16:26,270] Like if it cost me a certain amount
+- [00:16:26,270 - 00:16:27,840] of money to acquire a new customer and then
+- [00:16:27,860 - 00:16:29,180] they have a lifetime value,
+- [00:16:29,180 - 00:16:31,010] you can really start to play with ratios
+- [00:16:31,010 - 00:16:32,840] to figure out how you can inject more
+- [00:16:32,860 - 00:16:33,640] capital into that.
+- [00:16:33,640 - 00:16:33,760] Yeah.
+- [00:16:33,760 - 00:16:35,500] And a lot of investors like to see those
+- [00:16:35,500 - 00:16:37,240] kind of metrics because they can say, oh, okay,
+- [00:16:37,240 - 00:16:39,080] you get to this point, I can see how
+- [00:16:39,080 - 00:16:40,920] raising more capital is just going to make this business
+- [00:16:40,920 - 00:16:44,580] more valuable by pumping it into marketing, basically.
+- [00:16:44,580 - 00:16:48,160] Customer acquisition cost is a marketing expense.
+- [00:16:48,160 - 00:16:52,520] And then nonprofits, I guess that's for Charlie.
+- [00:16:52,520 - 00:16:55,180] Thanks Charlie.
+- [00:16:55,180 - 00:16:56,480] Business model, any questions so far?
+- [00:16:56,480 - 00:16:59,760] Otherwise, while I take a drink of caffeine.
+- [00:16:59,760 - 00:17:01,740] All right.
+- [00:17:01,740 - 00:17:04,359] So my favorite thing about the word business
+- [00:17:04,359 - 00:17:06,980] model is a lot of times if you're talking
+- [00:17:06,980 - 00:17:09,740] to investors and maybe if you're a
+- [00:17:09,740 - 00:17:12,500] technologist and you're talking about your technology and
+- [00:17:12,500 - 00:17:14,929] the investor, you're explaining to them how the
+- [00:17:14,929 - 00:17:17,359] technology works and you can see the glaze
+- [00:17:17,359 - 00:17:20,059] over their eyes and they finally wake
+- [00:17:20,059 - 00:17:22,760] up and they go, what's your business model?
+- [00:17:22,760 - 00:17:25,569] It's kind of like a fantastic sort of
+- [00:17:25,569 - 00:17:28,380] generic question to ask that's always relevant, right?
+- [00:17:28,380 - 00:17:30,180] And you can always go into more detail on it.
+- [00:17:30,180 - 00:17:30,840] But I mean, this is going
+- [00:17:30,840 - 00:17:31,500] to be a lot of fun.
+- [00:17:31,500 - 00:17:31,520] I mean, this is going
+- [00:17:31,520 - 00:17:31,540] to be a lot of fun.
+- [00:17:31,540 - 00:17:31,590] I mean, this is going
+- [00:17:31,590 - 00:17:31,640] to be a lot of fun.
+- [00:17:31,640 - 00:17:31,670] I mean, this is going
+- [00:17:31,670 - 00:17:31,700] to be a lot of fun.
+- [00:17:31,700 - 00:17:31,710] I mean, this is going
+- [00:17:31,710 - 00:17:31,720] to be a lot of fun.
+- [00:17:31,720 - 00:17:31,730] I mean, this is going
+- [00:17:31,730 - 00:17:31,740] to be a lot of fun.
+- [00:17:31,740 - 00:17:33,510] I mean, this is going off topic of
+- [00:17:33,510 - 00:17:35,280] financials, but usually that to me that indicates that
+- [00:17:35,280 - 00:17:37,040] they don't know what the heck I'm talking about.
+- [00:17:37,180 - 00:17:38,960] And they really just want to cut to the chase.
+- [00:17:39,080 - 00:17:40,550] Like, who are your customers and what's the
+- [00:17:40,550 - 00:17:42,020] product you're selling and how much are you
+- [00:17:42,020 - 00:17:42,740] selling it for and are you
+- [00:17:42,740 - 00:17:43,460] going to make money on it?
+- [00:17:43,500 - 00:17:43,600] Right?
+- [00:17:43,620 - 00:17:45,550] Like, that's kind of the guts of
+- [00:17:45,550 - 00:17:47,480] what they're trying to ask in that question.
+- [00:17:49,220 - 00:17:50,370] And the other question that you
+- [00:17:50,370 - 00:17:51,520] get often is like, who's your customer?
+- [00:17:51,980 - 00:17:54,080] Like, I understand you're going on about this
+- [00:17:54,080 - 00:17:56,180] technology thing and that it's this new robot
+- [00:17:56,180 - 00:17:57,230] that's going to take over
+- [00:17:57,230 - 00:17:58,280] the world, but who's your customer?
+- [00:17:58,400 - 00:17:59,040] Who are you going to sell this to?
+- [00:17:59,740 - 00:18:00,720] Great questions, but a lot of times it's just,
+- [00:18:00,720 - 00:18:01,700] you know, I'm going to sell this to this
+- [00:18:01,700 - 00:18:01,720] business.
+- [00:18:01,720 - 00:18:04,200] times it comes in interesting times. Provides
+- [00:18:04,200 - 00:18:06,680] a superstructure of the financial plan and a
+- [00:18:06,680 - 00:18:08,720] blueprint of how your business will make money
+- [00:18:08,720 - 00:18:10,760] documented by the income statement. Okay, so we
+- [00:18:10,760 - 00:18:12,890] went through the income statement, also known
+- [00:18:12,890 - 00:18:15,020] as profit and loss statement. Pretty simple stuff,
+- [00:18:15,140 - 00:18:17,930] but let's look at two, I want to just do
+- [00:18:17,930 - 00:18:20,720] two quick examples. And I love these slides because they're
+- [00:18:20,720 - 00:18:23,680] sort of old school, you know, like networking
+- [00:18:23,680 - 00:18:26,640] equipment company in Dell, you know, like salt
+- [00:18:26,640 - 00:18:29,950] of the earth businesses, actually tech hardware
+- [00:18:29,950 - 00:18:33,260] companies. Everything is normalized to the revenue
+- [00:18:33,260 - 00:18:36,170] and you have a cost of goods sold, gross margin,
+- [00:18:36,170 - 00:18:39,080] R&D as a percentage of revenue. So if you look
+- [00:18:39,080 - 00:18:42,040] here, you'll see Dell has a 1% R&D, which
+- [00:18:42,040 - 00:18:45,000] means, which kind of tells me that they don't really
+- [00:18:45,000 - 00:18:47,360] invest a lot in R&D and they're really
+- [00:18:47,360 - 00:18:49,720] just about, you know, pumping out the machines,
+- [00:18:50,160 - 00:18:52,440] as opposed to Cisco that has 13% R&D. So
+- [00:18:52,440 - 00:18:54,720] they really want to make sure they're on the cutting
+- [00:18:54,720 - 00:18:56,560] edge and they're investing more into their,
+- [00:18:56,640 - 00:18:58,580] into their technology business and they're, and they're
+- [00:18:58,580 - 00:19:00,520] trying to sort of innovate ahead of the
+- [00:19:00,520 - 00:19:02,930] rest of the world. And you can also see
+- [00:19:02,930 - 00:19:05,340] that from the operating profit. Dell has a very low
+- [00:19:05,340 - 00:19:07,610] operating profit, but in terms of, you know,
+- [00:19:07,610 - 00:19:09,880] annual revenue and sort of revenue per employee,
+- [00:19:10,160 - 00:19:12,340] Dell is a lot higher than the other
+- [00:19:12,340 - 00:19:14,520] guys. So just different businesses, both in the technology
+- [00:19:14,520 - 00:19:16,760] hardware space, but it's a good way to kind
+- [00:19:16,760 - 00:19:19,000] of compare them. You know, I'm not comparing the
+- [00:19:19,000 - 00:19:22,210] absolute values, I'm just comparing the percentage
+- [00:19:22,210 - 00:19:25,420] numbers. Okay, so let's look at software.
+- [00:19:26,640 - 00:19:29,780] And of course, Microsoft, Oracle, and SAP are
+- [00:19:29,780 - 00:19:32,920] the software entities. And you can almost kind of
+- [00:19:32,920 - 00:19:35,060] look at the software business model versus
+- [00:19:35,060 - 00:19:37,200] the hardware business model, because all of these
+- [00:19:37,200 - 00:19:40,160] guys have a lot higher R&D and a lot higher,
+- [00:19:40,160 - 00:19:43,120] a lot higher sales and G&A. I guess these guys have
+- [00:19:43,120 - 00:19:46,700] pretty high sales, sales, sales and
+- [00:19:46,700 - 00:19:50,280] general administration SG&A expenses. Just shows you
+- [00:19:50,280 - 00:19:53,360] that there's more investment in R&D on a lot
+- [00:19:53,360 - 00:19:56,440] of these guys. And then, and then the overall margins
+- [00:19:56,440 - 00:19:56,530] are higher. So that's a good way to look at
+- [00:19:56,530 - 00:19:56,620] it. And then, and then the overall margins are higher.
+- [00:19:56,640 - 00:20:00,100] Which you would expect from, from a
+- [00:20:00,100 - 00:20:03,560] software business. Questions on that? No? All good?
+- [00:20:03,560 - 00:20:07,100] Everyone gets it? Okay, so if you're building your,
+- [00:20:07,100 - 00:20:10,640] your own financial model, what is your product or
+- [00:20:10,640 - 00:20:13,260] service? You want to, you want to figure out what
+- [00:20:13,260 - 00:20:15,880] the price is that it's going to be paid? What, how
+- [00:20:15,880 - 00:20:18,010] do you manufacture? What is the unit
+- [00:20:18,010 - 00:20:20,140] cost of manufacturer and overhead to support that?
+- [00:20:20,140 - 00:20:23,230] Distribution or sales strategy? How are you going
+- [00:20:23,230 - 00:20:26,320] to, are you going to sell it through partners?
+- [00:20:26,640 - 00:20:29,360] Are you going to sell it on your own? Are you
+- [00:20:29,360 - 00:20:32,080] going to hire salespeople to sell? And of course, just general
+- [00:20:32,080 - 00:20:35,360] guidelines, R&D should end up around 10 to 20%. And G&A
+- [00:20:35,360 - 00:20:38,640] should end up around 5 to 15%. But that's after four
+- [00:20:38,640 - 00:20:41,250] years, right? So you saw how in the early, in the
+- [00:20:41,250 - 00:20:43,860] early days, it was kind of weird with like all of those
+- [00:20:43,860 - 00:20:45,930] losses. It's really hard to sort of do percentages
+- [00:20:45,930 - 00:20:48,000] in those days when you're, you're scaling up and you're
+- [00:20:48,000 - 00:20:52,220] spending money on a lot of, a lot of things. And
+- [00:20:52,220 - 00:20:56,440] then in targeted operating profit of 15 to 20%. So the first,
+- [00:20:56,440 - 00:20:59,710] this is kind of focused on a product business. How
+- [00:20:59,710 - 00:21:02,980] do you sell your business? Are you using direct sales force?
+- [00:21:03,160 - 00:21:06,050] Or are you going through a distributor? So, and if you
+- [00:21:06,050 - 00:21:08,940] look at the way that the financials are built here, if
+- [00:21:08,940 - 00:21:13,250] you're, if you're going direct, it's 100 bucks, but then you
+- [00:21:13,250 - 00:21:17,560] pay, you know, a commission to a sales agent. Or you
+- [00:21:17,560 - 00:21:20,650] go to a distributor, and they already take 20 bucks off
+- [00:21:20,650 - 00:21:23,740] the top. So you end up booking revenue of 80 bucks, and
+- [00:21:23,740 - 00:21:26,000] then your sales and marketing expenses that much reduced.
+- [00:21:26,440 - 00:21:29,500] So, you know, you can kind of see how the financials change
+- [00:21:29,500 - 00:21:32,560] a little bit, one to the other. And it's, it's kind of that
+- [00:21:32,560 - 00:21:34,990] high level decision that you've made about how am I going
+- [00:21:34,990 - 00:21:37,420] to sell this? And typically, it's a function of the business
+- [00:21:37,420 - 00:21:39,050] that you're in, like everybody sells with three distributors.
+- [00:21:39,050 - 00:21:40,680] So I'm just going to sell the distributors like
+- [00:21:40,680 - 00:21:43,840] everybody else. Or do I have something that's so special, that
+- [00:21:43,840 - 00:21:47,000] I need to have an individual explained to every one of
+- [00:21:47,000 - 00:21:49,780] the customers early on how it all works. And newsflash,
+- [00:21:49,780 - 00:21:52,560] that's probably you, the founders who are going to be the
+- [00:21:52,560 - 00:21:54,880] first salespeople. So, okay.
+- [00:21:56,440 - 00:22:00,880] Yeah, so the distributor receives it. Yeah, you got
+- [00:22:00,880 - 00:22:05,320] that. Okay. I have never used any business planning software.
+- [00:22:05,320 - 00:22:09,260] Because I think, and I don't recommend anyone use it. What
+- [00:22:09,260 - 00:22:13,200] I said early on stands, which is that you really need to
+- [00:22:13,200 - 00:22:16,250] understand from a visceral perspective, like how all those
+- [00:22:16,250 - 00:22:19,300] numbers bubble up into the financials. So digging into the
+- [00:22:19,300 - 00:22:22,530] spreadsheets, and really kind of working with them to kind of show
+- [00:22:22,530 - 00:22:25,760] exactly what your business can do. And, and being able to defend
+- [00:22:25,760 - 00:22:26,260] them is really, really important.
+- [00:22:26,440 - 00:22:31,180] And you can't get that from, from a business plan software. Has
+- [00:22:31,180 - 00:22:35,920] anyone used any AI's to solve any financials? Has anyone? Have you?
+- [00:22:35,920 - 00:22:40,420] Which one? Just chatGPT?
+- [00:22:40,420 - 00:22:43,040] Yeah, mostly now that it has
+- [00:22:43,040 - 00:22:45,660] to read and put into Excel sheets.
+- [00:22:45,660 - 00:22:50,710] Ah, so early on, you know, chatGPT was terrible, it was hallucinating. I mean, I knew, thank you
+- [00:22:50,710 - 00:22:55,760] for admitting it. I'm sure everyone else has, or they're all going to now, now that you said it.
+- [00:22:55,760 - 00:22:56,260] Yeah.
+- [00:22:56,440 - 00:23:11,100] I'm sure like, early on chatGPT was terrible at numbers, right? It was like, how many Rs are in strawberry too, right? Like, it was just terrible. But now I think, I think as it evolves more and quickly evolves, I think there's some legitimate things you
+- [00:23:11,100 - 00:23:25,760] can ask, like, here's my business, what key performance indicators should I use to measure this business, you know, stuff like that, you could like interact with an AI on get some ideas from, I'm not so sure you can have it actually build out a spreadsheet.
+- [00:23:25,760 - 00:23:26,260] Yeah.
+- [00:23:26,440 - 00:23:27,560] For you. Did you do that?
+- [00:23:27,560 - 00:23:28,680] Did you try and have it?
+- [00:23:28,680 - 00:23:31,980] I just gave it to ask it some
+- [00:23:31,980 - 00:23:35,280] questions and then ask it to modify it.
+- [00:23:35,280 - 00:23:37,380] Okay, did it work?
+- [00:23:37,380 - 00:23:37,880] Yeah.
+- [00:23:37,880 - 00:23:46,820] Okay. I like the text interaction where you're talking about strategy, like, here's my business, I want to sell products, you know, what should my key performance indicators be, and have
+- [00:23:46,820 - 00:23:55,760] it kind of give you the arguments for a lot of things and then like manually go, sorry, maybe I'm old school, I want to actually, you know, have it go.
+- [00:23:55,760 - 00:23:58,200] I don't want to actually enter stuff in the cells.
+- [00:23:59,800 - 00:24:03,650] Does everybody have a copy of the spreadsheet that's on the nuts and bolts website? I mean, if you
+- [00:24:03,650 - 00:24:07,500] don't, you can download it right now. Great. We're going to go into the details on those in a second.
+- [00:24:10,200 - 00:24:16,110] So you have to build a sales projection from the bottom up, like selling to one person selling to two people, and then build
+- [00:24:16,110 - 00:24:22,020] it up from there, not the sort of like, well, there's 6 billion people on the planet, and we're going to get 1% of them.
+- [00:24:23,360 - 00:24:25,080] That being said, it's important to know,
+- [00:24:25,080 - 00:24:25,580] to know,
+- [00:24:25,760 - 00:24:28,360] your market. So it's important to know that you're
+- [00:24:28,360 - 00:24:30,960] not projecting, you know, like if you build it
+- [00:24:30,960 - 00:24:33,360] from the bottom up and all of a sudden you're
+- [00:24:33,360 - 00:24:35,760] at 300% of the global market, like there is some
+- [00:24:35,760 - 00:24:37,960] reality check on that. So you want to
+- [00:24:37,960 - 00:24:40,160] understand and build your financial projections from the
+- [00:24:40,160 - 00:24:42,200] bottom up, but you don't want, you also want
+- [00:24:42,200 - 00:24:44,240] to know kind of what percentage market you are
+- [00:24:44,240 - 00:24:47,680] projecting to own at some point. So I just want
+- [00:24:47,680 - 00:24:51,120] to put that in there. How will you sell? That's
+- [00:24:51,120 - 00:24:52,960] usually the hardest question for any early
+- [00:24:52,960 - 00:24:54,800] stage startup, because you guys are thinking about
+- [00:24:54,800 - 00:24:57,080] product and technology and cool stuff. Like how are
+- [00:24:57,080 - 00:24:59,360] you actually going to get to the market? Talk
+- [00:24:59,360 - 00:25:02,680] to salespeople, talk to customers. That's crazy. Okay. And
+- [00:25:02,680 - 00:25:06,000] how long does it take and how much can
+- [00:25:06,000 - 00:25:08,079] you sell per month? And then of course, what
+- [00:25:08,079 - 00:25:10,159] are all your costs associated with doing all the
+- [00:25:10,159 - 00:25:14,439] selling? Some people like to put in, you know,
+- [00:25:14,439 - 00:25:18,720] in the sort of financial growth projection, kind of
+- [00:25:18,720 - 00:25:21,520] what the best case scenario and what the
+- [00:25:21,520 - 00:25:24,320] worst case scenario is. The point of these financials
+- [00:25:24,320 - 00:25:24,550] is to, you know, you're going to be able to
+- [00:25:24,550 - 00:25:24,780] sell for a certain amount of time. You're going to
+- [00:25:24,780 - 00:25:24,790] be able to sell for a certain amount of time.
+- [00:25:24,790 - 00:25:24,800] You're going to be able to sell for a certain amount
+- [00:25:24,800 - 00:25:24,839] of time. You're going to be able to sell for
+- [00:25:24,839 - 00:25:24,879] a certain amount of time. You're going to be able to
+- [00:25:24,879 - 00:25:27,659] explain to the investors what your business can do.
+- [00:25:27,659 - 00:25:30,440] And I think you heard from some of these guys,
+- [00:25:30,440 - 00:25:32,880] like what we want to hear from founders is
+- [00:25:32,880 - 00:25:35,320] conviction. So if you have like, this is what
+- [00:25:35,320 - 00:25:37,920] our business can do and it's one value, that's
+- [00:25:37,920 - 00:25:40,520] kind of showing this is what we're going to do.
+- [00:25:40,520 - 00:25:42,180] If you show like, well, the best case is going to
+- [00:25:42,180 - 00:25:43,840] be this and the worst case is going to be that,
+- [00:25:43,840 - 00:25:45,920] like that's what they do, right? They
+- [00:25:45,920 - 00:25:48,000] take your conviction and they say, well, okay,
+- [00:25:48,000 - 00:25:49,740] let's talk about it internally and maybe it can be
+- [00:25:49,740 - 00:25:51,480] better than that or maybe it can be worse than
+- [00:25:51,480 - 00:25:53,960] that. What do we think about that? So we
+- [00:25:53,960 - 00:25:56,440] don't recommend putting in best case, worst case into
+- [00:25:56,440 - 00:26:00,020] a pitch deck. These are Charlie's rules of thumb,
+- [00:26:00,020 - 00:26:03,600] which I like. It's focused on making it attractive
+- [00:26:03,600 - 00:26:07,130] to investors, but it's important not to push it
+- [00:26:07,130 - 00:26:10,660] too far. So if you have projections and they just
+- [00:26:10,660 - 00:26:13,490] don't look attractive to investor, don't try and
+- [00:26:13,490 - 00:26:16,320] sort of force fit them so that they, because
+- [00:26:16,320 - 00:26:17,520] you're just going to waste everybody's time and
+- [00:26:17,520 - 00:26:18,720] eventually they're going to figure it out and be
+- [00:26:18,720 - 00:26:20,040] like, well, this is not a very
+- [00:26:20,040 - 00:26:21,360] good business, even though it looks like it.
+- [00:26:21,480 - 00:26:24,240] All this stuff is that it's more relevant
+- [00:26:24,240 - 00:26:27,000] for technology companies, which is why we're here.
+- [00:26:27,000 - 00:26:30,660] And some of the numbers that we're going to
+- [00:26:30,660 - 00:26:34,320] show you may not apply to your industry. I mentioned
+- [00:26:34,320 - 00:26:36,520] the revenue too high. Like as long as you
+- [00:26:36,520 - 00:26:38,720] measure it relative to the overall market size, you can
+- [00:26:38,720 - 00:26:41,380] correct that and that the profit margin is
+- [00:26:41,380 - 00:26:44,040] too high in year four. Typically that comes because
+- [00:26:44,040 - 00:26:46,200] you just keep assuming that your expenses aren't going
+- [00:26:46,200 - 00:26:48,360] to grow, but your sales are going to grow.
+- [00:26:48,360 - 00:26:51,300] So, and you forget to like realize that there are
+- [00:26:51,300 - 00:26:51,380] probably a lot of things that you're going to have
+- [00:26:51,380 - 00:26:51,460] to do to get there. So that's why we're here.
+- [00:26:51,460 - 00:26:53,380] There's probably legal expenses and other things that
+- [00:26:53,380 - 00:26:55,300] pop up as your, as your business gets bigger.
+- [00:26:57,940 - 00:27:01,240] Okay. Staffing typically drives departmental
+- [00:27:01,240 - 00:27:04,540] expenses. That's usually your biggest expense
+- [00:27:04,540 - 00:27:07,420] in any kind of organization. So this is a
+- [00:27:07,420 - 00:27:10,300] little bit old. I think your average employee salary is
+- [00:27:10,300 - 00:27:13,660] a little bit more over 90 K these days. Employee
+- [00:27:13,660 - 00:27:17,020] benefits, a rule of thumb is to just use 15%.
+- [00:27:17,020 - 00:27:19,210] Earlier today, I was talking about fringe
+- [00:27:19,210 - 00:27:21,400] benefits and other things. You can get more,
+- [00:27:21,400 - 00:27:21,420] you know, more of a range of benefits. So you can
+- [00:27:21,420 - 00:27:21,440] get more of a range of benefits. You can get more
+- [00:27:21,440 - 00:27:23,910] more, more precise if you need to. But if you're
+- [00:27:23,910 - 00:27:26,380] at early stages, you can just use this kind of,
+- [00:27:26,380 - 00:27:30,870] these kinds of numbers. Excuse me. It'll be
+- [00:27:30,870 - 00:27:35,360] roughly 67% of your total expenses. Okay. All
+- [00:27:35,360 - 00:27:39,490] these things, you can just read these
+- [00:27:39,490 - 00:27:43,620] things, this sales staff, good stuff. Okay. Sales
+- [00:27:43,620 - 00:27:46,980] projections of 50 to a hundred million dollars in year
+- [00:27:46,980 - 00:27:50,340] five revenue per employee of 150 K to 350 K.
+- [00:27:50,340 - 00:27:53,100] and per salesperson of a million to three million bucks.
+- [00:27:53,100 - 00:27:54,820] Good rules of thumb to keep in mind
+- [00:27:54,820 - 00:27:58,419] and you should have these from the slides.
+- [00:28:00,020 - 00:28:02,020] Happiness is positive cash flow,
+- [00:28:02,020 - 00:28:05,100] or at least knowing that you're managing your cash.
+- [00:28:06,100 - 00:28:07,980] It's always good to have positive cash flow,
+- [00:28:07,980 - 00:28:10,280] but knowing when you're gonna run out of cash
+- [00:28:10,280 - 00:28:11,780] and how you're gonna raise
+- [00:28:11,780 - 00:28:13,280] more cash at the right time,
+- [00:28:13,280 - 00:28:14,500] that's really the best thing.
+- [00:28:14,500 - 00:28:15,419] Yes, sir.
+- [00:28:15,419 - 00:28:16,439] Yeah, quick question.
+- [00:28:16,439 - 00:28:18,560] So how do we usually as a company determine
+- [00:28:18,560 - 00:28:20,320] all the value of the business?
+- [00:28:20,320 - 00:28:22,320] For example, how much we're gonna pay for each engineer
+- [00:28:22,320 - 00:28:23,840] per year and then how much we're gonna sell
+- [00:28:23,840 - 00:28:25,840] for every single target of the year?
+- [00:28:25,840 - 00:28:27,220] Can you repeat the question?
+- [00:28:27,220 - 00:28:29,320] Yeah, so the question is how do you figure out
+- [00:28:29,320 - 00:28:31,179] how much we're gonna pay our engineers?
+- [00:28:31,179 - 00:28:32,020] Is that?
+- [00:28:32,020 - 00:28:32,860] How do we determine that?
+- [00:28:32,860 - 00:28:35,440] How do we determine that vision?
+- [00:28:35,440 - 00:28:36,960] How do you decide that?
+- [00:28:36,960 - 00:28:38,460] How do you decide the salary?
+- [00:28:38,460 - 00:28:39,580] Oh, well, so I mean,
+- [00:28:39,580 - 00:28:40,700] I'm sure you've seen the ad
+- [00:28:40,700 - 00:28:42,440] that it's competitive, right?
+- [00:28:42,440 - 00:28:43,800] I mean, it's up to the marketplace, right?
+- [00:28:43,800 - 00:28:46,899] So depending on what you're trying to hire for,
+- [00:28:46,899 - 00:28:48,560] you publish a lot of the money
+- [00:28:48,560 - 00:28:49,760] and you publish a lot of the stuff
+- [00:28:49,760 - 00:28:50,620] and you can just go out
+- [00:28:50,620 - 00:28:51,480] and look and find, you know,
+- [00:28:51,480 - 00:28:53,700] other job positions with a similar title
+- [00:28:53,700 - 00:28:55,899] or a similar position and similar seniority
+- [00:28:55,899 - 00:28:58,159] and you can find a whole series of salaries there.
+- [00:28:58,159 - 00:29:01,560] I think there's a lot of salary, salary.com,
+- [00:29:01,560 - 00:29:02,670] I think is one of the
+- [00:29:02,670 - 00:29:03,780] websites that publish a lot of stuff.
+- [00:29:03,780 - 00:29:05,860] So is that your company?
+- [00:29:05,860 - 00:29:07,000] Was I just promoting your?
+- [00:29:07,000 - 00:29:09,260] No, I got it.
+- [00:29:09,260 - 00:29:10,159] Got it.
+- [00:29:10,159 - 00:29:12,220] So you wanna understand your burn rate,
+- [00:29:12,220 - 00:29:15,320] which is obviously monthly operating loss
+- [00:29:15,320 - 00:29:18,560] plus capital expenditures and do your cashflow procession.
+- [00:29:18,560 - 00:29:22,139] So you understand kind of when that's gonna happen.
+- [00:29:24,440 - 00:29:27,220] There is another factor called depreciation,
+- [00:29:27,220 - 00:29:29,120] which is an accounting function,
+- [00:29:29,120 - 00:29:30,980] which is if you have a piece of capital equipment,
+- [00:29:30,980 - 00:29:33,320] there's an amount that it goes down in value,
+- [00:29:33,320 - 00:29:35,170] which is totally a tax
+- [00:29:35,170 - 00:29:37,020] thing and it doesn't impact cash.
+- [00:29:37,020 - 00:29:38,220] So you don't have to worry about it
+- [00:29:38,220 - 00:29:39,800] for purposes of this stuff,
+- [00:29:39,800 - 00:29:42,300] but your tax accountant will have to worry about it.
+- [00:29:45,440 - 00:29:47,440] So, and this is how you pull it all together
+- [00:29:47,440 - 00:29:48,560] in order to figure out
+- [00:29:48,560 - 00:29:50,860] what is your total cash required
+- [00:29:50,860 - 00:29:52,720] in order to maintain your cashflow balance
+- [00:29:52,720 - 00:29:55,560] and maintain positive cash at all times.
+- [00:29:56,860 - 00:29:59,040] So one of the biggest questions we get is
+- [00:29:59,040 - 00:30:01,220] how do you know how much to pay yourself?
+- [00:30:01,220 - 00:30:02,720] I'm a founder of this company.
+- [00:30:02,720 - 00:30:03,980] I've raised capital.
+- [00:30:03,980 - 00:30:05,300] Hey, great, I raised 5 million bucks.
+- [00:30:05,300 - 00:30:06,480] I want a million bucks a year, right?
+- [00:30:06,480 - 00:30:08,159] Like I want 5 million bucks a year, right?
+- [00:30:08,159 - 00:30:09,659] After a year I'm out.
+- [00:30:09,659 - 00:30:11,340] That's not gonna work.
+- [00:30:11,340 - 00:30:12,590] But I really like this
+- [00:30:12,590 - 00:30:13,840] phrase of they don't want you
+- [00:30:13,840 - 00:30:16,440] to starve, but they want you to be hungry.
+- [00:30:16,440 - 00:30:17,440] And I think the best way to
+- [00:30:17,440 - 00:30:18,440] do that is to say, okay, I'm hungry.
+- [00:30:18,440 - 00:30:19,280] I'm hungry to do it.
+- [00:30:19,280 - 00:30:22,760] And minimum viable salary is really the right phrasing,
+- [00:30:22,760 - 00:30:26,120] right, like enough so you're not distracted by your bills.
+- [00:30:26,120 - 00:30:28,880] And so maybe your significant other is happy
+- [00:30:28,880 - 00:30:30,780] with what you're doing every day.
+- [00:30:30,780 - 00:30:33,200] Like everything's taken care of at home.
+- [00:30:33,200 - 00:30:35,260] Everybody's happy at home,
+- [00:30:35,260 - 00:30:36,640] but the equity is where the big payoff is.
+- [00:30:36,640 - 00:30:38,160] So if you do a comparison,
+- [00:30:38,160 - 00:30:40,180] like if you go out into industry
+- [00:30:40,180 - 00:30:41,500] and you have a big salary
+- [00:30:41,500 - 00:30:43,400] and a teeny little slice of equity,
+- [00:30:43,400 - 00:30:45,640] and then this opportunity to work at a startup company
+- [00:30:45,640 - 00:30:47,680] where your salary comes down a certain amount,
+- [00:30:47,680 - 00:30:50,300] your equity goes up a tremendous amount,
+- [00:30:50,300 - 00:30:51,920] the salary should come down,
+- [00:30:51,920 - 00:30:54,280] but it shouldn't come down to like a ridiculous amount.
+- [00:30:54,280 - 00:30:56,720] There's a lot of founders I know who just,
+- [00:30:56,720 - 00:30:58,540] maybe they just enjoy starving.
+- [00:30:58,540 - 00:30:59,360] I don't know.
+- [00:30:59,360 - 00:31:01,220] Maybe they just find an extra adrenaline rush
+- [00:31:01,220 - 00:31:02,360] or something by doing that.
+- [00:31:02,360 - 00:31:05,020] But when you're talking to VCs,
+- [00:31:05,020 - 00:31:08,480] I think this is a really important piece.
+- [00:31:08,480 - 00:31:09,320] Don't be greedy,
+- [00:31:09,320 - 00:31:11,440] but also don't make sure that you're comfortable
+- [00:31:11,440 - 00:31:13,140] so that you can focus on the business
+- [00:31:13,140 - 00:31:15,420] because that's really the whole point of all this.
+- [00:31:15,420 - 00:31:16,920] Okay, questions at this time.
+- [00:31:17,680 - 00:31:18,520] Yes.
+- [00:31:22,880 - 00:31:24,320] One of the slides that you showed
+- [00:31:24,320 - 00:31:27,220] are examples that you use for like bigger companies.
+- [00:31:27,220 - 00:31:28,060] Yeah.
+- [00:31:28,060 - 00:31:30,860] But for startups,
+- [00:31:30,860 - 00:31:33,440] let's say under a million or 75 million,
+- [00:31:33,440 - 00:31:35,440] how do you allocate?
+- [00:31:35,440 - 00:31:37,580] So here we saw the 10%
+- [00:31:37,580 - 00:31:39,720] for higher D, 10 to 20,
+- [00:31:39,720 - 00:31:41,460] 20% for marketing.
+- [00:31:41,460 - 00:31:42,300] Yeah.
+- [00:31:42,300 - 00:31:44,560] But in reality, when it's a smaller company,
+- [00:31:44,560 - 00:31:47,360] how, what kind of metrics or numbers
+- [00:31:47,680 - 00:31:49,180] do you use to compare those?
+- [00:31:49,180 - 00:31:50,680] So the reason why I wanted
+- [00:31:50,680 - 00:31:52,180] to show you those bigger companies
+- [00:31:52,180 - 00:31:54,280] is to just show you the percentages
+- [00:31:54,280 - 00:31:59,280] as kind of how it compares to your projections
+- [00:31:59,440 - 00:32:01,060] after four years, right?
+- [00:32:01,060 - 00:32:03,360] So presumably your small company after four years
+- [00:32:03,360 - 00:32:06,880] after raising $15 million is not that small anymore.
+- [00:32:06,880 - 00:32:09,400] So it shouldn't necessarily be as gigantic
+- [00:32:09,400 - 00:32:10,240] as some of those big ones,
+- [00:32:10,240 - 00:32:12,320] but the ratios should be comparable.
+- [00:32:12,320 - 00:32:13,960] So that was the point of just kind of showing
+- [00:32:13,960 - 00:32:16,800] a tech hardware company versus a software company.
+- [00:32:17,680 - 00:32:19,680] Questions?
+- [00:32:19,680 - 00:32:22,300] Joe has a question.
+- [00:32:22,300 - 00:32:23,440] Oh, I'm in trouble now.
+- [00:32:23,440 - 00:32:25,680] No, no, just a comment.
+- [00:32:25,680 - 00:32:29,140] The point is, if you have a business model
+- [00:32:29,140 - 00:32:31,020] and you're saying you're going to do this
+- [00:32:31,020 - 00:32:33,440] and your numbers are totally different than others
+- [00:32:33,440 - 00:32:35,440] in companies that have been successful,
+- [00:32:35,440 - 00:32:36,280] people are going to say,
+- [00:32:36,280 - 00:32:37,900] you don't know what you're talking about.
+- [00:32:37,900 - 00:32:42,880] Unless you have an innovative business model that explains,
+- [00:32:42,880 - 00:32:44,220] we're not going to buy
+- [00:32:44,220 - 00:32:45,560] cars and run a taxi thing.
+- [00:32:45,560 - 00:32:47,360] We're going to orchestrate.
+- [00:32:47,680 - 00:32:51,440] People using their cars, that's over.
+- [00:32:51,440 - 00:32:53,060] So it's totally different economics
+- [00:32:53,060 - 00:32:54,680] than a taxi tech company.
+- [00:32:54,680 - 00:32:55,520] Right.
+- [00:32:55,520 - 00:32:57,640] If your numbers are different,
+- [00:32:57,640 - 00:33:00,300] then I understand why to be able to explain it.
+- [00:33:00,300 - 00:33:01,440] Right.
+- [00:33:01,440 - 00:33:02,320] Thank you, Joe.
+- [00:33:02,320 - 00:33:03,780] Excellent point.
+- [00:33:03,780 - 00:33:05,860] Other questions or excellent comments?
+- [00:33:05,860 - 00:33:06,700] Yes, sir.
+- [00:33:07,860 - 00:33:11,380] I found the details very, very interesting.
+- [00:33:11,380 - 00:33:15,780] But to back off and look at the big picture,
+- [00:33:15,780 - 00:33:17,300] when you're talking about models,
+- [00:33:17,300 - 00:33:21,020] how do you like the model at the biggest level,
+- [00:33:21,020 - 00:33:23,209] a black box, input, you put
+- [00:33:23,209 - 00:33:25,399] a dollar, output, what do you want?
+- [00:33:25,399 - 00:33:27,919] Now, how about a five,
+- [00:33:27,919 - 00:33:30,440] a 10, or a $20 bill?
+- [00:33:30,440 - 00:33:33,320] Does that kind of set the
+- [00:33:33,320 - 00:33:36,200] stage for any year of operation?
+- [00:33:36,200 - 00:33:39,780] The big picture, you want whatever money goes in,
+- [00:33:39,780 - 00:33:41,600] you'd like in the ideal world,
+- [00:33:41,600 - 00:33:43,360] wouldn't you like it to be
+- [00:33:43,360 - 00:33:45,120] generating in the black from day one?
+- [00:33:45,120 - 00:33:46,639] If you could.
+- [00:33:46,639 - 00:33:47,120] It's hard.
+- [00:33:47,120 - 00:33:47,139] It's hard.
+- [00:33:47,140 - 00:33:48,750] It's hard to get to, but
+- [00:33:48,750 - 00:33:50,360] if you could, wouldn't that be nice?
+- [00:33:50,360 - 00:33:53,240] And so again, it's a simple model,
+- [00:33:53,240 - 00:33:56,120] black box, input for every dollar in,
+- [00:33:56,120 - 00:33:57,500] what's the output?
+- [00:33:57,500 - 00:34:00,240] And pick a number and use currency.
+- [00:34:00,240 - 00:34:02,250] A $1 bill, a $2
+- [00:34:02,250 - 00:34:04,260] bill, five, 10, or a 20.
+- [00:34:04,260 - 00:34:07,190] If you go for a goal of 20 and
+- [00:34:07,190 - 00:34:10,120] you make 10, well, that's 10 times of your money.
+- [00:34:10,120 - 00:34:11,679] What's not bad about that?
+- [00:34:11,679 - 00:34:13,940] Right, so I think there's two things there.
+- [00:34:13,940 - 00:34:15,449] One is thinking about it as
+- [00:34:15,449 - 00:34:16,960] an investor, so you're putting money in,
+- [00:34:16,960 - 00:34:19,670] as an equity in the black box and you
+- [00:34:19,670 - 00:34:22,380] expect a dollar coming in and 20 coming out.
+- [00:34:22,380 - 00:34:24,000] But there's the other aspect of
+- [00:34:24,000 - 00:34:25,620] it, which is just the operating business.
+- [00:34:25,620 - 00:34:28,310] I might put a dollar into marketing and I might
+- [00:34:28,310 - 00:34:31,000] expect like a $1.10 to come out kind of thing, right?
+- [00:34:31,000 - 00:34:33,580] So $1.10 of profit margin, right?
+- [00:34:33,580 - 00:34:36,699] And if I can figure that out, then I know that I
+- [00:34:36,699 - 00:34:39,820] can just keep adding more money in and continue to grow it.
+- [00:34:39,820 - 00:34:41,969] And then that operating business makes the
+- [00:34:41,969 - 00:34:44,120] overall equity portion a lot more valuable.
+- [00:34:44,120 - 00:34:46,380] So I think it's kind of two boxes there.
+- [00:34:46,380 - 00:34:46,780] But it's, you know, it's a good idea.
+- [00:34:46,780 - 00:34:49,880] You know, one is operating and one is investment.
+- [00:34:49,880 - 00:34:51,020] Yeah.
+- [00:34:51,020 - 00:34:52,400] Other questions?
+- [00:34:52,400 - 00:34:53,159] Yes.
+- [00:34:53,159 - 00:34:54,120] Yeah.
+- [00:34:54,120 - 00:34:57,440] You talked about, you know, I asked the question
+- [00:34:57,440 - 00:35:00,760] of what kind of return was expected on venture capital.
+- [00:35:00,760 - 00:35:04,960] Investors, you know, what's the timeline like for that?
+- [00:35:04,960 - 00:35:07,700] Can you talk about that?
+- [00:35:07,700 - 00:35:11,120] If you look at a 10-year fund life
+- [00:35:11,120 - 00:35:14,540] cycle, the first, there's like a J curve return.
+- [00:35:14,540 - 00:35:16,700] So the first three to five years,
+- [00:35:16,780 - 00:35:20,660] they make investments and they exit a lot of investments.
+- [00:35:20,660 - 00:35:22,600] So they show a big loss.
+- [00:35:22,600 - 00:35:23,940] And then after about five years
+- [00:35:23,940 - 00:35:25,280] is when the returns come in.
+- [00:35:25,280 - 00:35:27,390] So if you're one of the successful ones,
+- [00:35:27,390 - 00:35:29,500] they'll put money in in the early phase.
+- [00:35:29,500 - 00:35:31,630] So it's about three to five years that they
+- [00:35:31,630 - 00:35:33,760] would expect some kind of return on your investment.
+- [00:35:33,760 - 00:35:37,600] I saw a very interesting data that I'd love to share with
+- [00:35:37,600 - 00:35:41,440] you because everybody's focused on pre-money valuation as like sort of absolute numbers.
+- [00:35:41,440 - 00:35:43,690] But the guys from Carta posted some numbers that said basically, every
+- [00:35:43,690 - 00:35:45,940] round of the year, you're going to get a return of $1.10.
+- [00:35:45,940 - 00:35:46,620] That's a lot of money.
+- [00:35:46,620 - 00:35:50,220] But every round of capital, you give up 20%.
+- [00:35:50,220 - 00:35:52,440] Like in good years, it might be 17%.
+- [00:35:52,440 - 00:35:54,120] In bad years, it might be like 30%.
+- [00:35:54,120 - 00:35:59,449] But roughly, it's 20% every single time, which is kind of weird because you think about, well,
+- [00:35:59,449 - 00:36:04,779] what if I want my company to be worth more, does that mean I just raise more cash?
+- [00:36:04,779 - 00:36:06,640] And the answer is yes, if you can.
+- [00:36:06,640 - 00:36:10,209] I mean, if people will put more money in it, it should be worth more,
+- [00:36:10,209 - 00:36:13,779] which is, it doesn't make a lot of sense like from the sort of current math.
+- [00:36:13,779 - 00:36:15,339] But if you think about it more, it's like,
+- [00:36:16,620 - 00:36:19,480] if I can reduce risk, I can add value.
+- [00:36:19,480 - 00:36:21,200] And one easy way to reduce
+- [00:36:21,200 - 00:36:22,920] risk is to just have more cash.
+- [00:36:22,920 - 00:36:24,920] So it almost should be worth more.
+- [00:36:25,859 - 00:36:27,520] I like to talk about these things with you guys,
+- [00:36:27,520 - 00:36:29,279] because it really makes your head scratch.
+- [00:36:29,279 - 00:36:30,120] What do you mean?
+- [00:36:30,120 - 00:36:31,010] Pre-money valuation, post-money valuation,
+- [00:36:31,010 - 00:36:31,900] that's all there is.
+- [00:36:31,900 - 00:36:34,640] Steve, you can't talk about these crazy things.
+- [00:36:34,640 - 00:36:35,640] Does that answer your question
+- [00:36:35,640 - 00:36:36,640] or does that confuse you more?
+- [00:36:36,640 - 00:36:37,480] Sorry.
+- [00:36:37,480 - 00:36:38,319] Okay.
+- [00:36:38,319 - 00:36:39,460] Yeah, sure.
+- [00:36:40,420 - 00:36:41,259] One more question.
+- [00:36:41,259 - 00:36:42,100] Yes, sir.
+- [00:36:42,100 - 00:36:43,140] Yeah, thanks so much for
+- [00:36:43,140 - 00:36:44,180] showing all different business model
+- [00:36:44,180 - 00:36:45,779] and all your ratios of this index.
+- [00:36:45,779 - 00:36:46,600] So guys, thank you so much for your time.
+- [00:36:46,620 - 00:36:47,460] I really learned a lot.
+- [00:36:47,460 - 00:36:49,180] And my first question is like that.
+- [00:36:49,180 - 00:36:51,940] I see some suggestions on how do we determine,
+- [00:36:51,940 - 00:36:53,119] or how do we figure
+- [00:36:53,119 - 00:36:54,299] out what is the best ratio
+- [00:36:54,299 - 00:36:55,560] for our own company?
+- [00:36:55,560 - 00:36:56,400] And the second question is,
+- [00:36:56,400 - 00:36:57,910] it's always good to keep the
+- [00:36:57,910 - 00:36:59,420] cash as positive in your account.
+- [00:36:59,420 - 00:37:01,020] But if you have that money,
+- [00:37:01,020 - 00:37:02,560] you can also spend it
+- [00:37:02,560 - 00:37:04,100] for some other or future ones.
+- [00:37:04,100 - 00:37:06,060] So the second question will be,
+- [00:37:06,060 - 00:37:07,959] how long will the cash
+- [00:37:07,959 - 00:37:09,859] be good enough to keep positive?
+- [00:37:09,859 - 00:37:11,720] If you exceed that threshold,
+- [00:37:11,720 - 00:37:13,259] you can sort it out into,
+- [00:37:13,259 - 00:37:16,620] where are the things to make the business growth?
+- [00:37:16,620 - 00:37:17,960] So all of you that are good at that,
+- [00:37:17,960 - 00:37:18,710] how are you determining if you
+- [00:37:18,710 - 00:37:19,460] can get a season on it
+- [00:37:19,460 - 00:37:20,600] and how bad is it?
+- [00:37:20,600 - 00:37:22,040] Okay, so there's two questions there.
+- [00:37:22,040 - 00:37:24,759] The first, maybe I'll answer the second question first.
+- [00:37:24,759 - 00:37:26,059] How do you do budgets
+- [00:37:26,059 - 00:37:27,359] and how do you figure out
+- [00:37:27,359 - 00:37:28,859] where to spend your money the most wisely?
+- [00:37:28,859 - 00:37:30,620] Is that basically what you're getting at?
+- [00:37:30,620 - 00:37:32,580] So these financial projections will
+- [00:37:32,580 - 00:37:34,540] help you figure that out.
+- [00:37:34,540 - 00:37:36,779] So as you get into the financial projections,
+- [00:37:36,779 - 00:37:38,980] you'll see where the biggest bang for your,
+- [00:37:38,980 - 00:37:40,020] you should see where the,
+- [00:37:40,020 - 00:37:41,140] you may not see it tonight,
+- [00:37:41,140 - 00:37:42,209] but you should see where the
+- [00:37:42,209 - 00:37:43,279] biggest bang for your buck is.
+- [00:37:43,279 - 00:37:46,540] So a lot of times in SaaS businesses,
+- [00:37:46,620 - 00:37:48,180] software as a service business,
+- [00:37:48,180 - 00:37:51,560] it's in injecting money into customer acquisition costs.
+- [00:37:51,560 - 00:37:53,460] Like that is often, not always,
+- [00:37:53,460 - 00:37:54,700] but that is often the place
+- [00:37:54,700 - 00:37:56,080] where you'll see the biggest bang for your buck
+- [00:37:56,080 - 00:37:58,759] and where you should spend any excess capital you have
+- [00:37:58,759 - 00:38:01,359] because that'll make the business grow more.
+- [00:38:01,359 - 00:38:02,759] It sounded to me like you were thinking
+- [00:38:02,759 - 00:38:04,140] that you could have a party or something
+- [00:38:04,140 - 00:38:05,080] with your excess money.
+- [00:38:05,080 - 00:38:07,580] I'm not sure about it.
+- [00:38:07,580 - 00:38:10,420] I mean, certainly, employee morale
+- [00:38:10,420 - 00:38:12,380] is an important aspect of startups.
+- [00:38:12,380 - 00:38:14,120] I mean, there's elements of that too.
+- [00:38:14,120 - 00:38:16,620] So I should also say,
+- [00:38:16,620 - 00:38:17,759] I mean, early in my career,
+- [00:38:17,759 - 00:38:19,680] when I had some venture capital financing,
+- [00:38:19,680 - 00:38:21,299] we had monthly board meetings
+- [00:38:21,299 - 00:38:23,900] and there was a limit on what the CEO,
+- [00:38:23,900 - 00:38:25,500] like there's like a $5,000 limit
+- [00:38:25,500 - 00:38:27,900] on what I could spend things.
+- [00:38:27,900 - 00:38:30,240] If I had to buy a $10,000 piece of equipment,
+- [00:38:30,240 - 00:38:31,160] I had to go to the
+- [00:38:31,160 - 00:38:32,080] board and get approval for it.
+- [00:38:32,080 - 00:38:35,460] So it's not like here's a check for $4 million,
+- [00:38:35,460 - 00:38:36,420] go have fun, right?
+- [00:38:36,420 - 00:38:37,770] I mean, there are controls
+- [00:38:37,770 - 00:38:39,120] on all this stuff that happened,
+- [00:38:39,120 - 00:38:41,819] but I mean, hopefully you have decent financial projections
+- [00:38:41,819 - 00:38:42,889] and you know kind of exactly
+- [00:38:42,889 - 00:38:43,960] what your spend is gonna be,
+- [00:38:43,960 - 00:38:45,380] especially with that,
+- [00:38:45,380 - 00:38:46,299] that negative 3.3 million,
+- [00:38:46,299 - 00:38:46,600] you know, that negative 3.3 million,
+- [00:38:46,600 - 00:38:47,440] you know, that negative 3.3 million,
+- [00:38:47,440 - 00:38:48,259] you know, that negative 3.3 million,
+- [00:38:48,259 - 00:38:49,100] and the first year negative $2.6 million.
+- [00:38:49,100 - 00:38:49,940] The second year,
+- [00:38:49,940 - 00:38:51,000] you kind of know where
+- [00:38:51,000 - 00:38:52,060] the money is gonna go, right?
+- [00:38:52,060 - 00:38:54,000] It's gonna go into people's salary mostly.
+- [00:38:54,000 - 00:38:57,819] So, all right, good.
+- [00:38:59,060 - 00:39:03,500] Okay, so now is the fun time.
+- [00:39:03,500 - 00:39:05,860] So we, you know, I realize that it's getting late,
+- [00:39:05,860 - 00:39:06,839] but this is the time
+- [00:39:06,839 - 00:39:07,819] that you really wanna open up
+- [00:39:07,819 - 00:39:09,319] your spreadsheets and get into it, right?
+- [00:39:09,319 - 00:39:10,769] It's not time to crack
+- [00:39:10,769 - 00:39:12,220] a beer open and watch football.
+- [00:39:12,220 - 00:39:16,279] Okay, this is from the spreadsheets that are available.
+- [00:39:16,280 - 00:39:18,780] And these, the way that they're set up
+- [00:39:18,780 - 00:39:21,380] is very handy and helpful.
+- [00:39:21,380 - 00:39:23,520] And I like to start with the end in mind,
+- [00:39:23,520 - 00:39:24,730] which is this is the
+- [00:39:24,730 - 00:39:25,940] four year profit and loss statement
+- [00:39:25,940 - 00:39:27,130] that comes as a result of
+- [00:39:27,130 - 00:39:28,320] what we're about to go through.
+- [00:39:28,320 - 00:39:30,500] Okay, so I'm showing you the end result.
+- [00:39:30,500 - 00:39:32,080] This is what you show investors.
+- [00:39:32,080 - 00:39:33,780] And this is what it shows you,
+- [00:39:33,780 - 00:39:35,820] the sort of negative 4 million, negative 2 million
+- [00:39:35,820 - 00:39:37,260] in the first and second year,
+- [00:39:37,260 - 00:39:40,300] and then the growth after third year.
+- [00:39:40,300 - 00:39:41,580] But I want you to pay attention
+- [00:39:41,580 - 00:39:43,440] to the instructions on the bottom.
+- [00:39:43,440 - 00:39:45,260] A red cell is input.
+- [00:39:45,260 - 00:39:46,100] So that's something
+- [00:39:46,100 - 00:39:48,860] that you have to enter into the spreadsheet.
+- [00:39:48,860 - 00:39:51,600] Magenta is sent off to another spreadsheet.
+- [00:39:51,600 - 00:39:53,700] Black is calculated and blue is brought in
+- [00:39:53,700 - 00:39:54,540] from another spreadsheet.
+- [00:39:54,540 - 00:39:58,100] So what should be shown on here is all blue.
+- [00:39:58,100 - 00:39:59,390] So this is the rollup
+- [00:39:59,390 - 00:40:00,680] of all of the other tabs
+- [00:40:00,680 - 00:40:02,520] that are in that spreadsheet.
+- [00:40:02,520 - 00:40:04,759] So you don't have to do anything to the spreadsheet
+- [00:40:04,759 - 00:40:07,600] because it's from another, this particular tab.
+- [00:40:08,480 - 00:40:11,819] And as I mentioned, I like visuals a lot better
+- [00:40:11,819 - 00:40:14,560] because this shows me that, okay, well,
+- [00:40:14,560 - 00:40:15,620] after the second year,
+- [00:40:15,620 - 00:40:17,400] this company turns a profit, right?
+- [00:40:17,400 - 00:40:18,900] You can tell just visually.
+- [00:40:18,900 - 00:40:22,460] And if I add the two numbers underneath the curve,
+- [00:40:22,460 - 00:40:24,500] or if I wanna do an integral under the curve,
+- [00:40:24,500 - 00:40:26,380] I can tell exactly how much it's gonna need
+- [00:40:26,380 - 00:40:28,940] before I turn a profit,
+- [00:40:28,940 - 00:40:30,319] which I think we know from the first one,
+- [00:40:30,319 - 00:40:31,839] it's about $6 million,
+- [00:40:31,839 - 00:40:33,460] but you better raise about $10 million.
+- [00:40:33,460 - 00:40:35,660] So you have some oops money in there.
+- [00:40:35,660 - 00:40:37,070] And then I can see kind
+- [00:40:37,070 - 00:40:38,480] of the slope of the red line,
+- [00:40:38,480 - 00:40:40,259] which is kind of a rough estimate
+- [00:40:40,259 - 00:40:41,409] of what the IR is gonna
+- [00:40:41,409 - 00:40:42,560] be on the revenue side of things.
+- [00:40:42,560 - 00:40:43,669] So it gives me an idea
+- [00:40:43,669 - 00:40:44,779] of kind of the growth rate
+- [00:40:44,779 - 00:40:45,620] of the company.
+- [00:40:45,620 - 00:40:46,660] So for example,
+- [00:40:46,660 - 00:40:50,440] if I wanted to cross the defense a little bit,
+- [00:40:50,440 - 00:41:14,540] and I look at the
+- [00:41:14,540 - 00:41:15,440] bottom chart,
+- [00:41:15,440 - 00:41:15,480] this leads me another process.
+- [00:41:15,480 - 00:41:15,500] I'm not sure if you noticed
+- [00:41:15,500 - 00:41:15,520] it or not, but the top chart,
+- [00:41:15,520 - 00:41:15,550] the mentioned procedure – that
+- [00:41:15,550 - 00:41:15,580] was just in the previous slide.
+- [00:41:15,580 - 00:41:15,600] Those are the discussions.
+- [00:41:15,600 - 00:41:15,610] Because the CC looks like
+- [00:41:15,610 - 00:41:15,620] maybe it's a very similar$55% performance.
+- [00:41:15,620 - 00:41:18,530] bitches have how is yours different it's
+- [00:41:18,530 - 00:41:21,440] it's in the explaining and the and the
+- [00:41:21,440 - 00:41:23,300] describing of the actual business
+- [00:41:23,300 - 00:41:25,160] details is where you establish
+- [00:41:25,160 - 00:41:27,140] credibility with your investors and where
+- [00:41:27,140 - 00:41:29,120] you really start to develop a true
+- [00:41:29,120 - 00:41:31,020] understanding of how your business is going to
+- [00:41:31,020 - 00:41:32,920] grow and run so this is this is
+- [00:41:32,920 - 00:41:34,770] it in quarterly but it's still blue so
+- [00:41:34,770 - 00:41:36,620] we don't have to touch anything on this
+- [00:41:36,620 - 00:41:39,410] tab and now we go into the sales
+- [00:41:39,410 - 00:41:42,200] plan which is a separate tab in there you
+- [00:41:42,200 - 00:41:44,450] have to decide how you're selling is going
+- [00:41:44,450 - 00:41:46,700] to grow so you see up there we've
+- [00:41:46,700 - 00:41:48,890] got 20 in model one of whatever the
+- [00:41:48,890 - 00:41:51,080] product is we're selling and and this is
+- [00:41:51,080 - 00:41:52,390] stuff that you're just projecting you're saying
+- [00:41:52,390 - 00:41:53,700] this is how many we're gonna sell
+- [00:41:53,700 - 00:41:55,720] and then what is the cost what is
+- [00:41:55,720 - 00:41:57,740] the sales price so that all those red cells
+- [00:41:57,740 - 00:41:59,350] you have to enter in but then
+- [00:41:59,350 - 00:42:00,960] it automatically rolls up into kind of the
+- [00:42:00,960 - 00:42:03,159] product revenue and then down further
+- [00:42:03,159 - 00:42:05,359] below you see the supported base
+- [00:42:05,359 - 00:42:08,689] retention that is how many people
+- [00:42:08,689 - 00:42:12,020] are buying support contracts from us and
+- [00:42:12,020 - 00:42:12,090] then what you're projecting is what we're
+- [00:42:12,090 - 00:42:12,160] going to sell and then what we're
+- [00:42:12,160 - 00:42:12,170] going to sell and then what we're going
+- [00:42:12,170 - 00:42:12,180] to sell and then what we're going to
+- [00:42:12,180 - 00:42:14,540] and then how many are retaining them year over year.
+- [00:42:14,680 - 00:42:17,339] So you'll see like a support revenue basis,
+- [00:42:17,660 - 00:42:19,219] and then like some of
+- [00:42:19,219 - 00:42:20,779] that falls off after a year
+- [00:42:20,779 - 00:42:22,299] because people don't renew their support contract.
+- [00:42:22,819 - 00:42:23,799] So those are the only things
+- [00:42:23,799 - 00:42:24,779] you have to put on here.
+- [00:42:24,839 - 00:42:26,499] So you can use this to
+- [00:42:26,499 - 00:42:28,160] kind of do your own sales projections,
+- [00:42:28,640 - 00:42:29,489] but I want you to
+- [00:42:29,489 - 00:42:30,339] keep in mind kind of the,
+- [00:42:30,779 - 00:42:32,220] and everybody does this super aggressively.
+- [00:42:32,220 - 00:42:34,440] Oh, we'll sell 100, we'll sell 10,000.
+- [00:42:35,259 - 00:42:37,200] The next one is, you know,
+- [00:42:37,259 - 00:42:39,700] how are you going to hire salespeople to do that?
+- [00:42:39,940 - 00:42:40,950] And how are you going to
+- [00:42:40,950 - 00:42:41,960] hire, sorry, this is the manufacturing.
+- [00:42:42,240 - 00:42:43,450] How are you going to hire
+- [00:42:43,450 - 00:42:44,660] the manufacturer to actually make the stuff?
+- [00:42:44,960 - 00:42:46,940] You need a VP of manufacturing, you need a supervisor.
+- [00:42:47,220 - 00:42:48,769] So all of these people in red
+- [00:42:48,769 - 00:42:50,319] are hires that you have to make.
+- [00:42:50,980 - 00:42:52,779] And this goes into the financial model.
+- [00:42:52,980 - 00:42:54,840] What also goes into this is if you
+- [00:42:54,840 - 00:42:56,700] have a hiring plan of all these people,
+- [00:42:56,960 - 00:42:58,580] you need to have a pipeline of resumes.
+- [00:42:58,779 - 00:42:59,789] You need to have an
+- [00:42:59,789 - 00:43:00,799] interviewing process and everything else,
+- [00:43:00,799 - 00:43:02,819] which goes into an overhead category
+- [00:43:02,819 - 00:43:05,319] that I think is coming up later into another one.
+- [00:43:06,000 - 00:43:08,080] And then you have variable cost of goods sold.
+- [00:43:08,240 - 00:43:11,359] So early on in another spreadsheet, you said,
+- [00:43:11,500 - 00:43:12,120] okay, we're going to sell this.
+- [00:43:12,240 - 00:43:13,520] We're going to model for 10,000 bucks
+- [00:43:13,520 - 00:43:15,180] and it's going to cost us 1,500 bucks to make.
+- [00:43:15,620 - 00:43:17,299] So somehow you had to figure that out
+- [00:43:17,299 - 00:43:18,859] and it has to go into the model,
+- [00:43:18,859 - 00:43:21,439] but then the rest of it
+- [00:43:21,439 - 00:43:24,020] rolls up into the overall production cogs.
+- [00:43:25,120 - 00:43:26,040] And then you have a facility.
+- [00:43:26,220 - 00:43:28,700] So you have a $15,000 per quarter facility,
+- [00:43:28,940 - 00:43:29,879] which is pretty cheap.
+- [00:43:30,460 - 00:43:32,379] And then I guess in the second year,
+- [00:43:32,500 - 00:43:33,859] we buy a second facility.
+- [00:43:34,819 - 00:43:35,720] So it's $30,000.
+- [00:43:37,899 - 00:43:40,029] And then all of the magenta stuff
+- [00:43:40,029 - 00:43:42,160] goes on to another sheet that rolls up.
+- [00:43:42,779 - 00:43:45,480] And then other than the sales hiring plan,
+- [00:43:45,520 - 00:43:47,279] you have a staffing plan where you have your CTO
+- [00:43:47,279 - 00:43:48,520] and your engineering team.
+- [00:43:48,980 - 00:43:50,359] And then this is kind of the growth.
+- [00:43:50,520 - 00:43:53,279] And this is obviously a very heavy programmer business
+- [00:43:53,279 - 00:43:54,729] because you can see how
+- [00:43:54,729 - 00:43:56,180] many programmers we have in here.
+- [00:43:57,399 - 00:44:00,080] And then, so all the red there is input.
+- [00:44:01,399 - 00:44:06,580] And then we have kind of a rough annual salary.
+- [00:44:06,940 - 00:44:08,919] And then I wanted to point out the benefits
+- [00:44:08,919 - 00:44:12,160] slash cost of living adjustment percentage on there.
+- [00:44:12,160 - 00:44:13,819] So that's all baked into the model.
+- [00:44:14,379 - 00:44:16,540] So as I'm describing this all to you,
+- [00:44:16,940 - 00:44:19,480] when you go through this,
+- [00:44:19,580 - 00:44:20,980] and I don't think there's any shortcuts.
+- [00:44:21,160 - 00:44:22,299] I mean, I think ChatGPT can help,
+- [00:44:22,399 - 00:44:23,420] but there's no shortcuts.
+- [00:44:23,700 - 00:44:25,839] When you go through this and you kind of understand,
+- [00:44:26,180 - 00:44:27,140] I need to hire this person.
+- [00:44:27,220 - 00:44:28,120] I need to hire these people.
+- [00:44:28,420 - 00:44:29,159] This is kind of what
+- [00:44:29,159 - 00:44:29,899] their salary is going to be.
+- [00:44:29,960 - 00:44:31,060] This is what the growth rate is going to be.
+- [00:44:31,339 - 00:44:33,379] Then when you're in deep due diligence
+- [00:44:33,379 - 00:44:35,740] and somebody asks you a hard question about,
+- [00:44:36,200 - 00:44:41,399] well, what happens if the sales don't materialize
+- [00:44:41,399 - 00:44:42,140] as you project it?
+- [00:44:42,259 - 00:44:43,160] What's the cost of the product?
+- [00:44:43,160 - 00:44:44,220] What's the cost of the product?
+- [00:44:44,220 - 00:44:45,220] What's the cost of the product?
+- [00:44:45,220 - 00:44:45,500] What's the cost of the product?
+- [00:44:45,500 - 00:44:45,560] What's the cost of the product?
+- [00:44:45,560 - 00:44:46,839] And say, well, we wouldn't be,
+- [00:44:46,940 - 00:44:48,299] we would push out these hires
+- [00:44:48,299 - 00:44:50,779] and we would push out the production side of things
+- [00:44:50,779 - 00:44:52,560] and we could adjust the model so that it,
+- [00:44:53,080 - 00:44:54,859] so we can get the break even sooner
+- [00:44:54,859 - 00:44:57,500] or we can get the profitability more effectively.
+- [00:44:58,220 - 00:45:01,100] You can't really say that intuitively with credibility
+- [00:45:01,100 - 00:45:03,379] unless you've sort of dug into this whole thing
+- [00:45:03,379 - 00:45:04,959] and kind of built it from
+- [00:45:04,959 - 00:45:06,540] the bottom up as we say.
+- [00:45:08,240 - 00:45:10,759] Some other supplies, non-salary expenses.
+- [00:45:10,760 - 00:45:13,980] I think, I see like literature PR here,
+- [00:45:14,080 - 00:45:16,060] which is, you know, like just marketing
+- [00:45:16,060 - 00:45:17,100] and going to trade shows.
+- [00:45:18,480 - 00:45:21,080] There's not a lot of hiring stuff.
+- [00:45:21,140 - 00:45:22,260] So if you're in a software firm,
+- [00:45:22,420 - 00:45:23,900] you're probably going to spend a lot of time
+- [00:45:23,900 - 00:45:26,900] reviewing resumes and talking to hiring firms.
+- [00:45:26,980 - 00:45:30,420] So that would go in this sheet as well.
+- [00:45:33,420 - 00:45:35,200] Salaries, oh, I guess staffing plan
+- [00:45:35,200 - 00:45:38,480] is one of the inputs to hiring people.
+- [00:45:38,480 - 00:45:40,100] And then your rent.
+- [00:45:40,760 - 00:45:42,860] I always love telephone and internet.
+- [00:45:43,200 - 00:45:45,880] I don't know why telephone and fax machine
+- [00:45:45,880 - 00:45:48,620] seems to stay forever with the accounting firms.
+- [00:45:48,720 - 00:45:50,460] They always have that as a line,
+- [00:45:50,640 - 00:45:52,780] but no one, like who has a telephone anymore?
+- [00:45:52,920 - 00:45:54,240] Who has a fax line anymore?
+- [00:45:54,420 - 00:45:54,840] So anyways.
+- [00:45:56,440 - 00:45:58,400] Okay, so that all rolls up again
+- [00:45:58,400 - 00:46:01,640] to your profit and loss quarterly statement here.
+- [00:46:03,280 - 00:46:04,780] And then finally, actually,
+- [00:46:05,100 - 00:46:07,680] so that kind of gets back to the beginning, right?
+- [00:46:07,680 - 00:46:08,880] Where we started from.
+- [00:46:08,960 - 00:46:10,300] So we went through all of those sheets
+- [00:46:10,300 - 00:46:11,410] and we put in all the
+- [00:46:11,410 - 00:46:12,520] values that we wanted to get
+- [00:46:12,520 - 00:46:14,600] in order to create this profit and loss statement.
+- [00:46:15,180 - 00:46:17,820] And then what comes out of it is
+- [00:46:17,820 - 00:46:21,000] CapEx and cash flow.
+- [00:46:21,180 - 00:46:23,080] So the way to read this is,
+- [00:46:23,540 - 00:46:25,720] you see where it says beginning cash flow?
+- [00:46:26,200 - 00:46:26,920] I kind of need a,
+- [00:46:27,540 - 00:46:29,040] do I have a laser pointer on here?
+- [00:46:29,120 - 00:46:30,000] I hate to do it,
+- [00:46:30,000 - 00:46:30,880] but I'm going to do it.
+- [00:46:31,600 - 00:46:32,320] I'm going to do it.
+- [00:46:32,900 - 00:46:34,240] Okay, so beginning cash flow.
+- [00:46:34,620 - 00:46:37,300] This is like how not to do a presentation.
+- [00:46:37,300 - 00:46:38,640] This is for OCW, right?
+- [00:46:38,700 - 00:46:40,000] Like put my back to the audience.
+- [00:46:40,300 - 00:46:41,060] Point at the screen.
+- [00:46:41,160 - 00:46:41,320] Okay.
+- [00:46:42,360 - 00:46:44,980] Beginning cash flow, zero, right?
+- [00:46:45,200 - 00:46:46,700] I add five million bucks investment
+- [00:46:46,700 - 00:46:48,020] and then I spend a bunch of money
+- [00:46:48,020 - 00:46:49,520] and I end up with four million bucks.
+- [00:46:49,600 - 00:46:51,480] That four million bucks pops up into the next year
+- [00:46:51,480 - 00:46:52,500] as my beginning cash.
+- [00:46:52,640 - 00:46:54,080] And then I subtract out a bunch of money
+- [00:46:54,080 - 00:46:55,140] and I get an ending cash.
+- [00:46:55,200 - 00:46:56,940] So you can kind of see how this becomes
+- [00:46:56,940 - 00:46:58,540] like a little do, do, do, do, do.
+- [00:46:59,020 - 00:47:01,160] So, you know, because you do this,
+- [00:47:01,240 - 00:47:03,580] you know that if I've got five million bucks here,
+- [00:47:03,700 - 00:47:06,020] I'm going to need to raise some more money
+- [00:47:06,020 - 00:47:06,950] and I'm only down to like
+- [00:47:06,950 - 00:47:07,880] less than a million bucks here.
+- [00:47:07,880 - 00:47:09,500] I better raise 12 million bucks here.
+- [00:47:09,500 - 00:47:12,260] So as long as your projections show
+- [00:47:12,260 - 00:47:13,820] that things are working out well,
+- [00:47:13,840 - 00:47:15,440] you can raise the 12 million bucks here.
+- [00:47:16,940 - 00:47:20,120] And that is, that's what I was trying to show
+- [00:47:20,120 - 00:47:21,270] with the graphic of kind
+- [00:47:21,270 - 00:47:22,420] of how a cash flow works.
+- [00:47:23,180 - 00:47:25,140] It's intuitive when I show it to you that way,
+- [00:47:25,220 - 00:47:27,420] but a lot of people just leave it off.
+- [00:47:27,500 - 00:47:29,060] It's like, can we just look at your balance sheet
+- [00:47:29,060 - 00:47:30,620] and your income statement?
+- [00:47:31,040 - 00:47:32,160] I don't care about cash flow.
+- [00:47:32,620 - 00:47:35,520] It does help a lot of accountants understand
+- [00:47:35,520 - 00:47:36,670] kind of where the ebb
+- [00:47:36,670 - 00:47:37,820] and flow is in the business
+- [00:47:37,820 - 00:47:39,480] and kind of if you get into trouble,
+- [00:47:39,480 - 00:47:40,520] in certain areas,
+- [00:47:40,680 - 00:47:41,580] whether or not you're going
+- [00:47:41,580 - 00:47:42,480] to need to buffer it up
+- [00:47:42,480 - 00:47:44,680] with some kind of, you know,
+- [00:47:44,720 - 00:47:47,560] interim cash needs and stuff.
+- [00:47:47,980 - 00:47:49,780] So I don't completely ignore it,
+- [00:47:49,800 - 00:47:51,720] but you might find that in your conversations,
+- [00:47:51,720 - 00:47:53,380] they just want to see the income statement, right?
+- [00:47:53,460 - 00:47:54,840] Like, just show me the income statement,
+- [00:47:55,240 - 00:47:56,600] which is kind of what we show here.
+- [00:47:56,680 - 00:47:58,700] So yeah, this is the end result.
+- [00:48:02,060 - 00:48:03,520] Steady, consistent evolutionary model.
+- [00:48:03,620 - 00:48:05,540] So when you present the model
+- [00:48:05,540 - 00:48:07,340] during due diligence to an investor
+- [00:48:07,340 - 00:48:08,980] and then they ask questions
+- [00:48:08,980 - 00:48:09,460] and they kind of,
+- [00:48:09,480 - 00:48:10,680] beat it up a little bit,
+- [00:48:10,680 - 00:48:11,820] or you ask your friends
+- [00:48:11,820 - 00:48:12,700] and they beat it up a little bit,
+- [00:48:12,920 - 00:48:14,570] it's good to kind of
+- [00:48:14,570 - 00:48:16,220] continually sort of iterate on it
+- [00:48:16,220 - 00:48:18,900] to kind of really get a solid feel
+- [00:48:18,900 - 00:48:20,660] for where the limitations are.
+- [00:48:21,860 - 00:48:23,020] Usually at this stage,
+- [00:48:23,060 - 00:48:24,860] there's no tax consequences
+- [00:48:24,860 - 00:48:26,460] or there's no tax consideration.
+- [00:48:26,900 - 00:48:28,940] That's kind of more of an advanced topic.
+- [00:48:29,200 - 00:48:31,520] And especially when you're like losing money every year,
+- [00:48:31,540 - 00:48:32,720] you don't need to worry about tax
+- [00:48:32,720 - 00:48:35,960] and don't allocate G&A expense to this point.
+- [00:48:36,000 - 00:48:36,440] Was there a question?
+- [00:48:36,940 - 00:48:37,640] No? Okay.
+- [00:48:39,480 - 00:48:40,200] All right.
+- [00:48:40,320 - 00:48:42,880] So presentation suggestions for an executive summary
+- [00:48:42,880 - 00:48:45,300] annual P&L for five years that shows the percentage.
+- [00:48:45,520 - 00:48:47,020] So they can kind of do...
+- [00:48:47,020 - 00:48:49,000] So I think the other point about business models
+- [00:48:49,000 - 00:48:51,280] and comparisons is that one thing you heard
+- [00:48:51,280 - 00:48:53,720] from the VC panel is that they're pattern matchers, right?
+- [00:48:53,820 - 00:48:55,260] So if they see like,
+- [00:48:55,500 - 00:48:58,100] oh, your ratios look like this model that I know,
+- [00:48:58,200 - 00:49:00,500] this successful business that I know,
+- [00:49:00,600 - 00:49:01,960] then you fit in that category
+- [00:49:01,960 - 00:49:03,800] and they're more likely to kind of lean in
+- [00:49:03,800 - 00:49:06,240] and look at the next phase of things.
+- [00:49:07,720 - 00:49:08,800] You do want to have...
+- [00:49:09,480 - 00:49:11,140] Any kind of assumptions you make,
+- [00:49:11,180 - 00:49:13,700] you do want to have data and sources behind that.
+- [00:49:14,020 - 00:49:15,560] So you want to make sure that, you know,
+- [00:49:15,600 - 00:49:16,600] the average selling price,
+- [00:49:16,700 - 00:49:18,100] you have some level of precedent
+- [00:49:18,100 - 00:49:20,180] for why you're pricing things the way they are,
+- [00:49:20,660 - 00:49:22,000] what quarter you'll be profitable,
+- [00:49:22,000 - 00:49:23,500] and then your total cash requirements.
+- [00:49:23,700 - 00:49:24,800] So I think in this
+- [00:49:24,800 - 00:49:25,900] one, it was 6 million bucks.
+- [00:49:26,120 - 00:49:27,900] I always like to raise a little more than that.
+- [00:49:28,360 - 00:49:30,240] And then the full business plan,
+- [00:49:30,780 - 00:49:31,760] which I don't know if
+- [00:49:31,760 - 00:49:32,740] people do full business plans anymore.
+- [00:49:33,600 - 00:49:36,220] Annual P&L, quarterly P&L for all four years,
+- [00:49:36,700 - 00:49:39,160] staffing plan and quarterly cash flows.
+- [00:49:39,480 - 00:49:40,920] And this is when, you know,
+- [00:49:41,000 - 00:49:42,300] if the investment firm,
+- [00:49:42,400 - 00:49:43,720] if it's a large VC firm,
+- [00:49:43,760 - 00:49:44,880] they're going to have a CFO
+- [00:49:44,880 - 00:49:47,220] and they might dig in really deeply into this
+- [00:49:47,220 - 00:49:49,760] and say, push you on your staffing plan
+- [00:49:49,760 - 00:49:50,680] and why are you, you know,
+- [00:49:50,800 - 00:49:52,260] and push you on the
+- [00:49:52,260 - 00:49:53,720] tight parts of the cash flow
+- [00:49:53,720 - 00:49:55,220] and why things are the way they are.
+- [00:49:55,800 - 00:49:57,390] And if you get big enough
+- [00:49:57,390 - 00:49:58,980] into the series A and series B,
+- [00:49:59,400 - 00:50:01,340] you bring your CFO to those conversations, right?
+- [00:50:01,420 - 00:50:03,900] So you have a finance professional on the team
+- [00:50:03,900 - 00:50:05,740] and you can start to get into more
+- [00:50:05,740 - 00:50:07,000] of these sophisticated discussions.
+- [00:50:08,700 - 00:50:09,140] Questions?
+- [00:50:09,480 - 00:50:12,140] Questions on the financial plan?
+- [00:50:12,220 - 00:50:13,720] Otherwise, we'll get into equity
+- [00:50:13,720 - 00:50:14,940] and how to share the pie.
+- [00:50:15,040 - 00:50:15,680] Yes, ma'am.
+- [00:50:15,680 - 00:50:19,240] I'm coming from some area of, like,
+- [00:50:19,540 - 00:50:21,280] people pray for people over there.
+- [00:50:21,500 - 00:50:22,640] For any issues, like,
+- [00:50:23,460 - 00:50:25,900] the only thing I needed to keep
+- [00:50:25,900 - 00:50:27,640] to get money was MVP.
+- [00:50:28,300 - 00:50:31,500] Business case, if I have net present value of...
+- [00:50:31,500 - 00:50:33,860] That was my only job.
+- [00:50:34,180 - 00:50:35,960] So when I'll make a mistake,
+- [00:50:36,200 - 00:50:38,780] that was my, like, the way I thought about it.
+- [00:50:38,940 - 00:50:39,460] Like, hey, let's do this.
+- [00:50:39,480 - 00:50:41,740] Let's show that your value would be positive
+- [00:50:41,740 - 00:50:42,820] for the people who get big money.
+- [00:50:43,300 - 00:50:43,520] Yeah.
+- [00:50:43,860 - 00:50:44,920] So is that enough?
+- [00:50:45,000 - 00:50:45,820] Is it necessary?
+- [00:50:46,220 - 00:50:47,120] Or are you just going to...
+- [00:50:47,120 - 00:50:50,820] So, I mean, net positive value creation
+- [00:50:50,820 - 00:50:53,380] is the kernel of what you're trying to get at.
+- [00:50:53,580 - 00:50:55,840] What we're showing you with the full financial plan
+- [00:50:55,840 - 00:50:57,700] is, like, you need an infrastructure.
+- [00:50:57,960 - 00:50:58,620] You need overhead.
+- [00:50:59,140 - 00:51:00,500] You need a, you know, you need rent.
+- [00:51:00,600 - 00:51:01,460] You need manufacturing.
+- [00:51:02,040 - 00:51:03,360] You need a hiring plan.
+- [00:51:03,480 - 00:51:04,220] You need a marketing plan.
+- [00:51:04,400 - 00:51:06,680] So you need, in a corporation, right,
+- [00:51:06,700 - 00:51:08,420] it's if you're a single business unit,
+- [00:51:08,420 - 00:51:09,280] you're allowed to show that,
+- [00:51:09,280 - 00:51:10,860] my product has net present, you know,
+- [00:51:10,880 - 00:51:12,280] has positive cash flow, right?
+- [00:51:12,500 - 00:51:15,040] But what's ignored is all the overhead around it.
+- [00:51:15,100 - 00:51:16,860] Here, we're showing, like, the whole thing.
+- [00:51:17,100 - 00:51:18,330] But I think if you
+- [00:51:18,330 - 00:51:19,560] start with that as the kernel
+- [00:51:19,560 - 00:51:21,540] and you build up from there,
+- [00:51:21,700 - 00:51:23,130] I think that's not a bad
+- [00:51:23,130 - 00:51:24,560] way to kind of look at things.
+- [00:51:24,860 - 00:51:25,340] To make, you know,
+- [00:51:25,360 - 00:51:26,940] because if that's not net present value,
+- [00:51:26,940 - 00:51:29,080] then work on another business, right?
+- [00:51:29,080 - 00:51:30,960] For all the work and everything,
+- [00:51:31,200 - 00:51:32,960] I was just putting people.
+- [00:51:33,960 - 00:51:34,140] Yeah.
+- [00:51:34,220 - 00:51:35,740] Everything for me was people,
+- [00:51:36,100 - 00:51:38,380] including from average to average amount,
+- [00:51:38,380 - 00:51:40,540] including overhead for the company.
+- [00:51:41,140 - 00:51:43,340] So I was just simplifying.
+- [00:51:44,080 - 00:51:44,260] Yeah.
+- [00:51:46,320 - 00:51:48,560] So does it make sense to go with that?
+- [00:51:48,840 - 00:51:50,580] Because that is where I'm very comfortable.
+- [00:51:50,780 - 00:51:54,600] I think when you're first starting,
+- [00:51:54,720 - 00:51:55,660] that's probably fine.
+- [00:51:55,760 - 00:51:57,920] But as you start to get into where people
+- [00:51:57,920 - 00:51:59,440] are going to really give you real money
+- [00:51:59,440 - 00:52:01,000] and they want you to really spend it on,
+- [00:52:01,360 - 00:52:02,160] they don't want you to
+- [00:52:02,160 - 00:52:02,960] spend it on an average person.
+- [00:52:02,960 - 00:52:04,360] They want you to spend it on a real hire.
+- [00:52:04,660 - 00:52:06,900] So that's when you have to get really more granular
+- [00:52:06,900 - 00:52:08,100] and more specific on it.
+- [00:52:08,380 - 00:52:09,500] So I think it can work out
+- [00:52:09,500 - 00:52:10,580] when you're just trying to flesh out
+- [00:52:10,580 - 00:52:11,740] business models and strategies
+- [00:52:11,740 - 00:52:13,120] to just kind of say like,
+- [00:52:13,200 - 00:52:14,620] well, an average salary is this
+- [00:52:14,620 - 00:52:15,430] and I'm going to need
+- [00:52:15,430 - 00:52:16,240] like five people to do that
+- [00:52:16,240 - 00:52:17,340] after three years.
+- [00:52:17,520 - 00:52:18,740] That's a good way to sort of
+- [00:52:18,740 - 00:52:20,960] back of the napkin, sketch things out.
+- [00:52:21,060 - 00:52:22,500] But what we're talking about here is like,
+- [00:52:22,740 - 00:52:23,720] we're going to raise capital
+- [00:52:23,720 - 00:52:25,320] and we're going to actually spend all this money.
+- [00:52:25,420 - 00:52:26,940] So these are the real salaries of people.
+- [00:52:27,320 - 00:52:28,800] So, yep.
+- [00:52:29,440 - 00:52:30,100] Other questions?
+- [00:52:31,440 - 00:52:33,060] Otherwise we can go into equity.
+- [00:52:33,380 - 00:52:36,160] Oh, chat GPT over here has a question.
+- [00:52:36,180 - 00:52:36,540] Yeah.
+- [00:52:36,540 - 00:52:39,300] Prove you're not an AI.
+- [00:52:40,580 - 00:52:42,440] Oh, they can do a caption now.
+- [00:52:42,560 - 00:52:43,400] Sorry, they can't.
+- [00:52:45,400 - 00:52:46,520] My question was,
+- [00:52:46,640 - 00:52:48,580] if when you're testing out different business models,
+- [00:52:49,880 - 00:52:52,980] that's what you put out in financial plan, right?
+- [00:52:53,120 - 00:52:55,360] So I, for this year,
+- [00:52:55,779 - 00:52:58,140] we want, we have this set of our industry,
+- [00:52:58,360 - 00:53:00,360] but we're going to start testing this model
+- [00:53:00,360 - 00:53:01,380] to see if it works
+- [00:53:01,380 - 00:53:03,740] or do I stick with one as small form?
+- [00:53:04,779 - 00:53:06,460] I have a,
+- [00:53:06,540 - 00:53:07,540] somewhat of answer to that,
+- [00:53:07,540 - 00:53:08,620] but I'm going to look at Joe
+- [00:53:08,620 - 00:53:09,820] and maybe he has a better answer.
+- [00:53:11,040 - 00:53:11,400] Typically,
+- [00:53:12,480 - 00:53:16,040] when you figure out the right business model that works
+- [00:53:16,040 - 00:53:19,160] or what the technology is
+- [00:53:19,160 - 00:53:20,380] and how you're going to productize it,
+- [00:53:20,560 - 00:53:22,240] there's typically one business model
+- [00:53:22,240 - 00:53:23,759] that you're going to really go with
+- [00:53:23,759 - 00:53:25,580] and you can kind of figure that out intuitively.
+- [00:53:26,300 - 00:53:26,880] So I'm not sure,
+- [00:53:26,980 - 00:53:28,580] is there a more detailed example you can say
+- [00:53:28,580 - 00:53:30,140] where you want to test out other ones?
+- [00:53:30,180 - 00:53:32,000] Like you want to test market other business models
+- [00:53:32,000 - 00:53:32,779] or are you talking about just like
+- [00:53:32,779 - 00:53:34,800] running your financials in two different ways
+- [00:53:34,800 - 00:53:36,060] and see like which one looks better?
+- [00:53:36,540 - 00:53:38,820] Well, for example,
+- [00:53:39,160 - 00:53:43,420] having premium business all first
+- [00:53:43,420 - 00:53:45,940] and then having one for just team accounts
+- [00:53:45,940 - 00:53:47,759] that are going to be either for credits,
+- [00:53:47,860 - 00:53:48,420] for example,
+- [00:53:48,880 - 00:53:54,660] or credit-based versus subscription-based.
+- [00:53:56,040 - 00:53:58,120] So how do I plan for that?
+- [00:53:58,340 - 00:53:59,720] We'll just have two different plans.
+- [00:54:00,960 - 00:54:04,380] So are you talking about different sort of like enterprise,
+- [00:54:04,380 - 00:54:06,100] you know, like team plan enterprise,
+- [00:54:06,100 - 00:54:07,620] like a SaaS business kind of thing?
+- [00:54:07,960 - 00:54:10,080] I think those are different product offerings.
+- [00:54:10,180 - 00:54:11,740] Those aren't necessarily different business models
+- [00:54:11,740 - 00:54:13,029] unless you're planning on
+- [00:54:13,029 - 00:54:14,319] selling them completely differently.
+- [00:54:14,600 - 00:54:18,620] Like you're going to license one or white label one
+- [00:54:18,620 - 00:54:20,189] or are you going to sell it
+- [00:54:20,189 - 00:54:21,759] as a service just on a website?
+- [00:54:22,839 - 00:54:25,200] Are you talking about like very different things like that?
+- [00:54:25,759 - 00:54:26,040] No.
+- [00:54:26,600 - 00:54:29,240] You know how sometimes you buy a software subscription
+- [00:54:29,240 - 00:54:30,420] and you pay for credit?
+- [00:54:30,660 - 00:54:30,860] Yeah.
+- [00:54:31,180 - 00:54:33,720] Or you pay a fixed subscription.
+- [00:54:33,720 - 00:54:34,120] Yeah.
+- [00:54:34,779 - 00:54:35,060] Okay.
+- [00:54:36,100 - 00:54:37,740] So you're going to have to make a subscription
+- [00:54:37,740 - 00:54:38,860] and you're going to have to pay for it.
+- [00:54:38,860 - 00:54:39,620] So you're going to have to make a subscription
+- [00:54:39,620 - 00:54:39,779] and you're going to have to pay for it.
+- [00:54:39,779 - 00:54:39,900] So you're going to have to make a subscription
+- [00:54:39,900 - 00:54:39,960] and you're going to have to pay for it.
+- [00:54:39,960 - 00:54:40,620] Would that be?
+- [00:54:41,600 - 00:54:44,120] I think you can totally model all those out
+- [00:54:44,120 - 00:54:45,620] and figure out kind of which ones,
+- [00:54:46,160 - 00:54:47,500] which strategy you want to use.
+- [00:54:47,540 - 00:54:48,200] Is that what you're talking about?
+- [00:54:48,299 - 00:54:49,960] Like I think in that scenario,
+- [00:54:49,960 - 00:54:51,180] it's easy enough to just sort
+- [00:54:51,180 - 00:54:52,400] of try out a bunch of models
+- [00:54:52,400 - 00:54:54,100] and then see what makes sense.
+- [00:54:54,339 - 00:54:56,060] I think ultimately it's going to come down to
+- [00:54:56,060 - 00:54:57,660] what do people buy, right?
+- [00:54:57,700 - 00:54:59,620] Like you can model it all to your heart's content,
+- [00:54:59,700 - 00:55:00,640] but until you get to the marketplace
+- [00:55:00,640 - 00:55:01,279] and people are like,
+- [00:55:01,520 - 00:55:02,060] I don't want that.
+- [00:55:02,140 - 00:55:02,680] That's too expensive.
+- [00:55:02,680 - 00:55:03,940] Or why would I want to buy all that
+- [00:55:03,940 - 00:55:04,940] if I just want this, right?
+- [00:55:05,240 - 00:55:07,620] You'll find out once you launch what really works.
+- [00:55:07,620 - 00:55:09,660] Other questions?
+- [00:55:13,060 - 00:55:14,640] Thank you for the presentation.
+- [00:55:16,160 - 00:55:18,200] One of the very important things
+- [00:55:18,200 - 00:55:20,419] in the financial projections
+- [00:55:20,419 - 00:55:22,580] is as you say, like sales projections.
+- [00:55:22,859 - 00:55:23,080] Yeah.
+- [00:55:23,600 - 00:55:25,469] And you say that we
+- [00:55:25,469 - 00:55:27,339] should build it from bottom up.
+- [00:55:28,359 - 00:55:31,379] But when we started like in the sales,
+- [00:55:31,680 - 00:55:32,520] in the past year,
+- [00:55:32,680 - 00:55:34,859] versus year three or year four,
+- [00:55:35,080 - 00:55:35,460] would we like,
+- [00:55:35,839 - 00:55:36,839] would we be ready to invest?
+- [00:55:37,339 - 00:55:39,799] So like are there tools or resources
+- [00:55:39,799 - 00:55:43,020] that we're able to better forecast sales?
+- [00:55:43,600 - 00:55:46,379] Or like are there actual
+- [00:55:46,379 - 00:55:49,120] sales projections from companies?
+- [00:55:50,220 - 00:55:50,980] There are,
+- [00:55:51,080 - 00:55:52,899] but they're from companies that already exist.
+- [00:55:53,020 - 00:55:54,299] And you're a brand new company,
+- [00:55:54,299 - 00:55:56,040] so you've got to figure it out, my friend.
+- [00:55:57,640 - 00:55:59,399] I know what you're getting at.
+- [00:55:59,500 - 00:56:00,419] It's really hard
+- [00:56:00,419 - 00:56:02,319] because you're predicting the future, right?
+- [00:56:02,680 - 00:56:05,640] So, and I think that's why they said like,
+- [00:56:05,980 - 00:56:07,500] we expect conviction from you
+- [00:56:07,500 - 00:56:10,140] because we want you to show us your projections
+- [00:56:10,140 - 00:56:11,380] and we want you to
+- [00:56:11,380 - 00:56:12,620] show that you can do this.
+- [00:56:12,819 - 00:56:14,680] And you've convinced yourself and your team
+- [00:56:14,680 - 00:56:15,620] that you can do this.
+- [00:56:15,859 - 00:56:17,379] Because you're talking about like
+- [00:56:17,379 - 00:56:19,460] going off into the future
+- [00:56:19,460 - 00:56:21,899] and saying what's going to be possible tomorrow.
+- [00:56:22,259 - 00:56:23,259] And you know, last I checked,
+- [00:56:23,359 - 00:56:24,299] nobody could predict the future,
+- [00:56:24,440 - 00:56:25,919] but that's what we're all doing, right?
+- [00:56:26,359 - 00:56:27,349] A lot of times there's
+- [00:56:27,349 - 00:56:28,339] a lot of discussion about like,
+- [00:56:28,419 - 00:56:29,440] you said you were going to do this.
+- [00:56:29,440 - 00:56:31,540] Well, we were all predicting the future
+- [00:56:31,540 - 00:56:32,460] and you had a more,
+- [00:56:32,460 - 00:56:34,120] a rosy view of the future than I did.
+- [00:56:34,240 - 00:56:35,760] So it didn't work out that way.
+- [00:56:36,600 - 00:56:38,040] I don't know if you have any other answers
+- [00:56:38,040 - 00:56:39,980] to the sales forecast question, Joe.
+- [00:56:41,400 - 00:56:42,240] He does, of course.
+- [00:56:42,440 - 00:56:43,120] I love it.
+- [00:56:43,680 - 00:56:45,900] You know, I think you just have to think
+- [00:56:45,900 - 00:56:47,490] of what the model is
+- [00:56:47,490 - 00:56:49,080] that you're going to take, right?
+- [00:56:50,180 - 00:56:53,940] How many, if it's a product, right?
+- [00:56:55,400 - 00:56:57,100] How long does it take the manufacturer?
+- [00:56:58,100 - 00:57:00,040] Is it a six month lag time?
+- [00:57:00,540 - 00:57:01,780] Is it a one month turnaround?
+- [00:57:02,460 - 00:57:04,160] When do you have to start?
+- [00:57:04,160 - 00:57:06,020] How, if you have a direct sales,
+- [00:57:06,020 - 00:57:07,310] how long does it take a
+- [00:57:07,310 - 00:57:08,600] salesperson to get up to speed?
+- [00:57:09,180 - 00:57:11,060] You know, what is the sales cycle in the industry?
+- [00:57:11,060 - 00:57:12,480] Now, if you're disrupting the industry,
+- [00:57:12,480 - 00:57:14,900] saying, well, we're not actually selling you the product.
+- [00:57:14,900 - 00:57:17,480] It's a subscription to a cloud-based thing.
+- [00:57:17,740 - 00:57:20,620] That's a different, well, how many users,
+- [00:57:20,620 - 00:57:22,100] how quickly will people adopt?
+- [00:57:23,640 - 00:57:24,520] And play with those.
+- [00:57:24,700 - 00:57:27,180] You can even use Charlie's spreadsheet
+- [00:57:27,180 - 00:57:31,100] where different models are different actual web industries.
+- [00:57:31,700 - 00:57:32,240] You have to then go out and do it.
+- [00:57:32,240 - 00:57:33,180] You have to go out and say,
+- [00:57:33,180 - 00:57:34,819] well, to support that revenue stream,
+- [00:57:34,819 - 00:57:36,279] I might need some other rows,
+- [00:57:36,279 - 00:57:38,560] that's a really modified spreadsheet.
+- [00:57:38,560 - 00:57:40,919] I use this base spreadsheet all the time.
+- [00:57:40,919 - 00:57:44,259] I've modified it for FDA and other kinds of things.
+- [00:57:44,259 - 00:57:45,759] But it's a good starting point.
+- [00:57:46,979 - 00:57:47,819] Excellent.
+- [00:57:50,479 - 00:57:51,319] Other questions?
+- [00:57:51,319 - 00:57:52,309] Otherwise, let's talk about how
+- [00:57:52,309 - 00:57:53,299] do we split up the pie.
+- [00:57:53,299 - 00:57:54,580] Oh, got a question here?
+- [00:57:54,580 - 00:57:55,419] Oh, over here.
+- [00:57:58,060 - 00:57:59,560] Thank you for the presentation.
+- [00:58:00,899 - 00:58:02,080] You know, whenever you do these things,
+- [00:58:02,080 - 00:58:05,060] before there's always been sort of a question about
+- [00:58:05,060 - 00:58:07,700] what's your best case and what's your worst case.
+- [00:58:07,700 - 00:58:11,759] And what's kind of the rule of thumb?
+- [00:58:11,759 - 00:58:13,600] Because I've gone through a venture before.
+- [00:58:13,600 - 00:58:18,200] We had to actually create kind of a bandwidth
+- [00:58:18,200 - 00:58:20,200] of revenue projections.
+- [00:58:20,200 - 00:58:20,700] Yeah.
+- [00:58:20,700 - 00:58:23,000] I'm kind of curious as to what's kind of
+- [00:58:23,000 - 00:58:24,799] the current thinking on this.
+- [00:58:24,799 - 00:58:27,960] So I usually get the question, you know,
+- [00:58:27,960 - 00:58:30,240] what are your biggest risks?
+- [00:58:30,240 - 00:58:32,040] Right, so, you know, kind of beyond the
+- [00:58:32,080 - 00:58:34,360] financial plan, what are your biggest risks?
+- [00:58:34,360 - 00:58:35,759] And usually it has to do with, you know,
+- [00:58:35,759 - 00:58:38,279] not being able to make critical hires or, you know,
+- [00:58:38,279 - 00:58:41,520] some technology milestone gets missed or something.
+- [00:58:41,520 - 00:58:42,540] Sales.
+- [00:58:42,540 - 00:58:43,420] Yeah, yeah.
+- [00:58:43,420 - 00:58:44,680] Well, the technology milestone gets missed,
+- [00:58:44,680 - 00:58:46,580] so the sales fall off.
+- [00:58:46,580 - 00:58:50,600] And I try and have some kind of scenarios planned
+- [00:58:50,600 - 00:58:51,760] behind the scenes so that
+- [00:58:51,760 - 00:58:52,920] I can kind of show them.
+- [00:58:52,920 - 00:58:54,540] That's always what you want to do, right?
+- [00:58:54,540 - 00:58:56,380] If you know the questions you're going to get,
+- [00:58:56,380 - 00:58:58,920] you have the appendix teed up with the answers
+- [00:58:58,920 - 00:59:00,480] to those questions, because then that gets you
+- [00:59:00,480 - 00:59:01,860] the A plus in the class, right?
+- [00:59:02,080 - 00:59:04,380] So that question about like, you know,
+- [00:59:04,380 - 00:59:05,880] what are your biggest risks?
+- [00:59:05,880 - 00:59:07,380] And if you have them modeled out, you can say,
+- [00:59:07,380 - 00:59:08,960] well, this is, you know, and we're,
+- [00:59:08,960 - 00:59:10,960] but then we're working hard to solve them
+- [00:59:10,960 - 00:59:13,220] by these four different reasons, right?
+- [00:59:13,220 - 00:59:16,259] That's that is a classic question that you always get.
+- [00:59:16,259 - 00:59:19,060] And I would recommend anybody include that in your
+- [00:59:19,060 - 00:59:21,520] in your financial projections or even in your pitch deck
+- [00:59:21,520 - 00:59:22,710] to have it in the appendix
+- [00:59:22,710 - 00:59:23,900] to make sure you can answer that.
+- [00:59:23,900 - 00:59:26,680] Well, you know, like talk about honestly talk about
+- [00:59:26,680 - 00:59:28,480] what the risks are and honestly talk about
+- [00:59:28,480 - 00:59:30,060] what your mitigation strategy is for them.
+- [00:59:30,060 - 00:59:30,270] Keep it in the appendix or just
+- [00:59:30,270 - 00:59:30,480] sort of keep it in the appendix?
+- [00:59:30,480 - 00:59:30,490] Keep it in the appendix or just
+- [00:59:30,490 - 00:59:30,500] sort of keep it in the appendix?
+- [00:59:30,500 - 00:59:30,620] Keep it in the appendix or just
+- [00:59:30,620 - 00:59:30,740] sort of keep it in the appendix?
+- [00:59:30,740 - 00:59:32,470] Keep it in the appendix or just
+- [00:59:32,470 - 00:59:34,200] sort of keep it in the appendix?
+- [00:59:34,200 - 00:59:38,240] If I'm presenting and I'm controlling the slides,
+- [00:59:38,240 - 00:59:39,339] I keep it in the appendix.
+- [00:59:39,339 - 00:59:42,259] If I'm sending the slides, I don't send it.
+- [00:59:42,259 - 00:59:43,899] I hold it back until
+- [00:59:43,899 - 00:59:45,540] I have a conversation with them.
+- [00:59:45,540 - 00:59:50,000] Other questions? Otherwise, we got one more question,
+- [00:59:50,000 - 00:59:51,419] then we'll get on to equity here.
+- [00:59:51,419 - 00:59:53,640] Let's see what we got here. Equity distribution. Okay.
+- [00:59:53,640 - 00:59:55,339] Yeah. In one of the slides you mentioned,
+- [00:59:55,339 - 00:59:57,009] it's better to say walk
+- [00:59:57,009 - 00:59:58,680] harder or you can't be profitable.
+- [00:59:58,680 - 00:59:59,000] Yeah.
+- [00:59:59,000 - 01:00:00,100] I was questioning, you know,
+- [01:00:00,100 - 01:00:00,600] I have a question.
+- [01:00:00,600 - 01:00:00,680] I have a question.
+- [01:00:00,680 - 01:00:00,720] I have a question.
+- [01:00:00,720 - 01:00:02,640] How do you build a pretty steep company without having
+- [01:00:02,640 - 01:00:04,180] a complicated customers?
+- [01:00:04,180 - 01:00:07,480] How do we accelerate that?
+- [01:00:07,480 - 01:00:10,180] You do the financial planning.
+- [01:00:10,180 - 01:00:11,020] It's tricky, right?
+- [01:00:11,020 - 01:00:13,169] Because what we're talking about here is
+- [01:00:13,169 - 01:00:15,319] like this is at the zero stage.
+- [01:00:15,319 - 01:00:16,819] We don't even have the five million bucks yet.
+- [01:00:16,819 - 01:00:19,080] And we're building out a financial plan for that.
+- [01:00:19,080 - 01:00:21,810] So as you kind of build out the
+- [01:00:21,810 - 01:00:24,540] growth and what we think we're going to do,
+- [01:00:24,540 - 01:00:26,120] that's like tells you kind
+- [01:00:26,120 - 01:00:27,700] of where the profitability comes in.
+- [01:00:27,700 - 01:00:30,660] So you're what this is showing.
+- [01:00:30,660 - 01:00:33,000] It's kind of like what it's going to be.
+- [01:00:33,000 - 01:00:34,339] You're going to look at the market.
+- [01:00:34,339 - 01:00:35,419] You're going to look at the people
+- [01:00:35,419 - 01:00:36,500] that are going to be buying that.
+- [01:00:36,500 - 01:00:37,169] You're going to look at the people
+- [01:00:37,169 - 01:00:37,839] that are going to be buying that.
+- [01:00:37,839 - 01:00:39,299] And I think that's one of the things
+- [01:00:39,299 - 01:00:40,759] that we're looking at to build out a more
+- [01:00:40,759 - 01:00:41,759] sustainable model.
+- [01:00:41,759 - 01:00:45,109] And I think the other thing is kind of an iteration
+- [01:00:45,109 - 01:00:48,460] of a lot of different attempts at looking at the model.
+- [01:00:48,460 - 01:00:51,090] And I think the other answer to your
+- [01:00:51,090 - 01:00:53,720] to the other person's question earlier is like,
+- [01:00:53,720 - 01:00:54,460] how do you know?
+- [01:00:54,460 - 01:00:56,460] Well, you present this model to
+- [01:00:56,460 - 01:00:58,460] people and they beat it up.
+- [01:00:58,460 - 01:01:00,040] They go, you can't sell that fast.
+- [01:01:00,040 - 01:01:01,759] of all the advisors that you've talked to.
+- [01:01:02,180 - 01:01:04,040] And then you'll have the quarter
+- [01:01:04,040 - 01:01:04,920] that you become profitable.
+- [01:01:05,620 - 01:01:07,980] So I think it's a little bit cheating
+- [01:01:07,980 - 01:01:08,970] to show kind of the
+- [01:01:08,970 - 01:01:09,960] end result right in the beginning
+- [01:01:09,960 - 01:01:10,730] because it's like, oh, look
+- [01:01:10,730 - 01:01:11,500] at this beautiful financial model.
+- [01:01:11,580 - 01:01:12,220] Okay, we're done.
+- [01:01:12,680 - 01:01:14,620] But what we just showed you
+- [01:01:14,620 - 01:01:16,020] is kind of all the blood, sweat, and tears
+- [01:01:16,020 - 01:01:16,960] that kind of went into it.
+- [01:01:16,980 - 01:01:19,400] And luckily, this spreadsheet
+- [01:01:19,400 - 01:01:21,040] is a fantastic place to start with it.
+- [01:01:21,240 - 01:01:23,300] So, okay, any other questions?
+- [01:01:23,300 - 01:01:25,180] Otherwise, we'll get on with equity
+- [01:01:25,180 - 01:01:26,740] and then we'll wrap up.
+- [01:01:26,740 - 01:01:30,089] Okay, so of course, we like
+- [01:01:30,089 - 01:01:33,439] to save the best for last.
+- [01:01:34,660 - 01:01:36,299] Equity is always the thing
+- [01:01:36,299 - 01:01:38,540] that's most fought over and most confusing.
+- [01:01:40,080 - 01:01:42,700] But as you think about building your team
+- [01:01:42,700 - 01:01:44,919] and as you think about distribution
+- [01:01:44,919 - 01:01:47,580] of equity ownership of the pie,
+- [01:01:48,020 - 01:01:50,180] you want to compensate for people that have IP
+- [01:01:50,180 - 01:01:51,399] that are bringing it into the company,
+- [01:01:51,720 - 01:01:54,740] the level of commitment, the risk that you're at.
+- [01:01:54,799 - 01:01:56,040] So if you're a pre-seed,
+- [01:01:56,040 - 01:01:57,480] you're really high risk.
+- [01:01:58,360 - 01:02:00,060] And in fact, I was talking to someone
+- [01:02:00,060 - 01:02:01,960] and she will remain nameless
+- [01:02:01,960 - 01:02:03,680] unless she wants to offer herself.
+- [01:02:04,540 - 01:02:05,890] She did the NPV of
+- [01:02:05,890 - 01:02:07,240] like staying in a corporate job
+- [01:02:07,240 - 01:02:08,100] versus doing a startup.
+- [01:02:08,320 - 01:02:09,560] And staying in a corporate job
+- [01:02:09,560 - 01:02:11,380] is actually to be much better,
+- [01:02:11,480 - 01:02:13,500] more lucrative in her overall career
+- [01:02:13,500 - 01:02:14,340] than doing a startup.
+- [01:02:14,480 - 01:02:16,279] But the passion drove her to the startup.
+- [01:02:16,420 - 01:02:17,420] So what are you gonna do?
+- [01:02:19,640 - 01:02:22,400] So I think it's important to recognize that.
+- [01:02:22,520 - 01:02:23,779] So when you're asking somebody,
+- [01:02:23,960 - 01:02:25,840] you know, you need to quit your software,
+- [01:02:25,840 - 01:02:26,460] you need to quit your software,
+- [01:02:26,460 - 01:02:26,540] you need to quit your software,
+- [01:02:26,540 - 01:02:26,580] you need to quit your software,
+- [01:02:26,580 - 01:02:27,480] and come work at the startup.
+- [01:02:28,060 - 01:02:30,860] It's like, I'm getting paid how much?
+- [01:02:31,200 - 01:02:32,440] And these guys said,
+- [01:02:32,680 - 01:02:35,480] you want to drop your salary by a tremendous amount.
+- [01:02:36,240 - 01:02:38,320] But I think minimum viable salary
+- [01:02:38,320 - 01:02:39,500] is a good conversation to have
+- [01:02:39,500 - 01:02:41,600] with the early stage companies at that point.
+- [01:02:42,060 - 01:02:43,660] And then past and future contribution.
+- [01:02:44,280 - 01:02:47,160] The sad reality is you may find people
+- [01:02:47,160 - 01:02:48,820] that bring a lot of stuff to the table
+- [01:02:48,820 - 01:02:49,500] right in the beginning,
+- [01:02:49,720 - 01:02:53,080] but really the work that is yet to be completed
+- [01:02:53,080 - 01:02:55,400] is more valuable than the work
+- [01:02:55,400 - 01:02:55,820] that's already been done.
+- [01:02:55,840 - 01:02:57,860] I'm sorry, but that's just the way it is.
+- [01:02:58,220 - 01:03:00,920] So when you have kind of equity distribution,
+- [01:03:01,140 - 01:03:02,600] everybody vests for four years.
+- [01:03:02,680 - 01:03:04,060] So you have like a one-year cliff
+- [01:03:04,060 - 01:03:05,480] where you come into the company,
+- [01:03:05,580 - 01:03:06,860] you get nothing for a year,
+- [01:03:06,920 - 01:03:07,680] and then you get, boom,
+- [01:03:07,800 - 01:03:10,020] one quarter of your equity after the first year,
+- [01:03:10,100 - 01:03:11,760] and then it's like monthly vesting after that.
+- [01:03:11,800 - 01:03:12,720] So every month you stay,
+- [01:03:13,340 - 01:03:15,260] you get more of the equity.
+- [01:03:16,200 - 01:03:18,400] And that's important because, you know,
+- [01:03:18,420 - 01:03:20,400] early on people might just want to rage quit,
+- [01:03:20,500 - 01:03:20,980] which is great,
+- [01:03:21,040 - 01:03:22,400] because then you get rid of them early on
+- [01:03:22,400 - 01:03:23,420] and you can kind of move on.
+- [01:03:24,260 - 01:03:25,820] But then as people sort of,
+- [01:03:25,840 - 01:03:27,800] commit and continue to kind of stay with the business,
+- [01:03:27,920 - 01:03:29,260] you want to continue to kind of grow
+- [01:03:29,260 - 01:03:30,880] that equity compensation for them.
+- [01:03:30,980 - 01:03:33,140] So let's go through some examples.
+- [01:03:34,400 - 01:03:35,500] These ownership percentage
+- [01:03:35,500 - 01:03:37,520] are after two rounds of financing,
+- [01:03:37,520 - 01:03:39,200] and these are not the founders.
+- [01:03:39,500 - 01:03:41,100] You have to look further down the chart
+- [01:03:41,100 - 01:03:42,560] to see the founding management
+- [01:03:42,560 - 01:03:44,940] gets two to three times that.
+- [01:03:45,260 - 01:03:46,840] And this is after two rounds of financing, right?
+- [01:03:46,880 - 01:03:48,360] So this is not from the beginning.
+- [01:03:48,500 - 01:03:49,420] I wanted to scare you.
+- [01:03:49,940 - 01:03:50,740] The founding CEO,
+- [01:03:51,340 - 01:03:52,480] after two rounds of financing,
+- [01:03:52,480 - 01:03:54,160] should have 10 to 15%,
+- [01:03:54,160 - 01:03:55,820] and the employees might have,
+- [01:03:55,860 - 01:03:57,320] five to 10 X of all that.
+- [01:03:59,220 - 01:03:59,800] Excuse me.
+- [01:03:59,880 - 01:04:01,560] There have been lots of times
+- [01:04:01,560 - 01:04:03,160] after a second round of financing
+- [01:04:03,160 - 01:04:05,980] that maybe the founding team got beat up too much,
+- [01:04:06,120 - 01:04:08,300] and they're now sort of losing interest
+- [01:04:08,300 - 01:04:09,080] because it's like,
+- [01:04:09,460 - 01:04:11,180] well, my ownership is down to like 1%,
+- [01:04:11,180 - 01:04:12,560] and I'm a founder of this company.
+- [01:04:13,060 - 01:04:14,540] There are lots of examples
+- [01:04:14,540 - 01:04:16,340] of where the board will get together and say,
+- [01:04:16,400 - 01:04:18,840] okay, we need to re-up their compensation package
+- [01:04:18,840 - 01:04:20,260] and make sure that they're, you know,
+- [01:04:20,500 - 01:04:21,300] they're in it to win it
+- [01:04:21,300 - 01:04:22,540] because they're one of the key people
+- [01:04:22,540 - 01:04:23,820] that's going to drive value.
+- [01:04:23,940 - 01:04:24,740] And for whatever reason,
+- [01:04:24,740 - 01:04:26,759] their percentage ownership got beat up.
+- [01:04:27,100 - 01:04:28,720] So that's happened a whole bunch,
+- [01:04:29,000 - 01:04:30,700] and that's what you pay the lawyers for.
+- [01:04:31,859 - 01:04:32,339] Okay.
+- [01:04:33,600 - 01:04:38,379] This is a really good equity distribution example,
+- [01:04:38,520 - 01:04:38,939] I think,
+- [01:04:39,359 - 01:04:40,779] because it kind of lays out
+- [01:04:40,779 - 01:04:42,379] all the key questions that you have,
+- [01:04:43,379 - 01:04:45,020] or all the key questions that I have.
+- [01:04:45,299 - 01:04:46,180] So at founding,
+- [01:04:46,459 - 01:04:47,740] we have three founders,
+- [01:04:48,200 - 01:04:50,640] and they're splitting it up 50%, 25%, 25%.
+- [01:04:50,640 - 01:04:51,120] That's it.
+- [01:04:51,660 - 01:04:53,520] Nothing else is involved in any of this stuff.
+- [01:04:53,520 - 01:04:54,720] So I'm just showing you,
+- [01:04:54,720 - 01:04:56,359] I'm just showing you the number of shares,
+- [01:04:56,620 - 01:04:58,299] 4 million total shares in the business,
+- [01:04:58,779 - 01:04:59,700] and that's it.
+- [01:05:00,000 - 01:05:01,339] So there's not a lot of value, right?
+- [01:05:01,379 - 01:05:02,839] It's like three people get around and decide,
+- [01:05:03,060 - 01:05:03,879] I get half the business,
+- [01:05:03,959 - 01:05:04,879] you get a quarter, you get a quarter.
+- [01:05:05,240 - 01:05:06,259] Okay, let's get into business.
+- [01:05:06,740 - 01:05:08,299] Then after the next phase,
+- [01:05:08,700 - 01:05:11,560] I want to allocate some funding for some key employees.
+- [01:05:11,680 - 01:05:13,520] So I'm bringing on three more people,
+- [01:05:13,799 - 01:05:17,680] and I'm also bringing on three board member advisors.
+- [01:05:18,240 - 01:05:21,080] So each one of those get some shares as well,
+- [01:05:21,140 - 01:05:21,839] and those are granted,
+- [01:05:21,839 - 01:05:23,720] and they have a four-year vesting cycle on it.
+- [01:05:24,040 - 01:05:24,160] So,
+- [01:05:24,720 - 01:05:28,040] it goes from 4 million shares to 4.5 million,
+- [01:05:28,040 - 01:05:29,879] but you can see how the dilution happens, right?
+- [01:05:29,879 - 01:05:32,099] So the founding CEO went from
+- [01:05:32,099 - 01:05:34,319] 50% to 41% at that point.
+- [01:05:35,200 - 01:05:36,040] What do we have now?
+- [01:05:36,240 - 01:05:37,560] We have three founding members,
+- [01:05:37,720 - 01:05:38,939] we have some key team members,
+- [01:05:38,939 - 01:05:40,339] and we have some board and advisors.
+- [01:05:40,560 - 01:05:41,180] Do we have any money?
+- [01:05:41,180 - 01:05:41,640] No,
+- [01:05:41,939 - 01:05:45,289] but we have a great team and a great
+- [01:05:45,289 - 01:05:48,640] presentation to go and tell investors about our story.
+- [01:05:48,959 - 01:05:50,759] It's not just three people.
+- [01:05:50,919 - 01:05:52,720] It's three people plus some key employees,
+- [01:05:52,919 - 01:05:54,600] and it's also some advisors.
+- [01:05:54,600 - 01:05:56,759] It's some critical people from the industry.
+- [01:05:56,759 - 01:05:58,839] Those board slash members are probably critical partners
+- [01:05:58,839 - 01:06:00,920] that we want to bring into the company.
+- [01:06:01,500 - 01:06:03,299] Now we go and talk to angel investors.
+- [01:06:04,680 - 01:06:06,759] And the only difference between the previous
+- [01:06:06,759 - 01:06:08,839] column and this one is just that,
+- [01:06:08,839 - 01:06:11,400] simply that $500,000.
+- [01:06:11,880 - 01:06:12,980] And in this example,
+- [01:06:12,980 - 01:06:15,360] $500,000 is 500,000 shares.
+- [01:06:15,380 - 01:06:16,940] So it's a dollar a share for that one.
+- [01:06:16,940 - 01:06:18,520] It's not true for the other columns.
+- [01:06:20,200 - 01:06:22,220] So now we have 5 million shares and you
+- [01:06:22,220 - 01:06:24,240] can see how the dilution flows up to the,
+- [01:06:24,240 - 01:06:24,259] the previous column. So now we have 5 million shares
+- [01:06:24,259 - 01:06:24,279] and you can see how the dilution flows up to the,
+- [01:06:24,279 - 01:06:24,329] the previous column. So now we have 5 million shares
+- [01:06:24,329 - 01:06:24,380] and you can see how the dilution flows up to the,
+- [01:06:24,380 - 01:06:25,880] the previous ownership.
+- [01:06:26,540 - 01:06:28,380] And then we actually raise,
+- [01:06:28,420 - 01:06:29,500] I think in this,
+- [01:06:30,200 - 01:06:31,880] there's a bunch of changes that happen here.
+- [01:06:32,060 - 01:06:34,010] One thing is we're adding an
+- [01:06:34,010 - 01:06:35,960] option plan for 1.6 million shares.
+- [01:06:36,880 - 01:06:37,620] So we need to,
+- [01:06:37,620 - 01:06:39,980] we need to bring in some managers and senior engineers
+- [01:06:39,980 - 01:06:42,340] and we need to give them stock options in the company.
+- [01:06:42,560 - 01:06:44,600] And we have an option pool of 12% to,
+- [01:06:44,600 - 01:06:46,240] to incent them to stay.
+- [01:06:46,500 - 01:06:49,460] And a stock option is a non-voting share.
+- [01:06:49,460 - 01:06:51,280] And all you do is get the value of
+- [01:06:51,280 - 01:06:53,100] the stock at the time that you joined the company.
+- [01:06:53,360 - 01:06:54,320] And so whatever,
+- [01:06:54,320 - 01:06:56,760] whatever the value increases while you're there is,
+- [01:06:56,760 - 01:06:59,420] is basically what the value of the stock option is.
+- [01:07:00,500 - 01:07:01,460] And in addition,
+- [01:07:01,460 - 01:07:03,800] we've raised $5 million,
+- [01:07:03,800 - 01:07:06,500] which we need to give out 6.6 million
+- [01:07:06,500 - 01:07:09,200] shares in order to be that 50% valuation.
+- [01:07:09,440 - 01:07:11,180] And this is the $5 million,
+- [01:07:11,180 - 01:07:13,140] 50% valuation that we talked about in
+- [01:07:13,140 - 01:07:15,100] the beginning of the slide of the,
+- [01:07:15,100 - 01:07:15,860] of the presentation.
+- [01:07:16,340 - 01:07:19,040] And then finally post post VC round,
+- [01:07:19,280 - 01:07:21,420] the biggest change here is that additional
+- [01:07:21,420 - 01:07:23,560] 8.8 million shares for 10 million shares.
+- [01:07:23,560 - 01:07:23,960] So that's,
+- [01:07:23,960 - 01:07:26,540] that's the number 10 million bucks that we brought in.
+- [01:07:26,540 - 01:07:27,140] And so that,
+- [01:07:27,140 - 01:07:27,500] that,
+- [01:07:27,500 - 01:07:27,800] you know,
+- [01:07:27,800 - 01:07:29,240] kind of gets you to 22 million shares.
+- [01:07:29,240 - 01:07:34,880] You can see how Jack has 9.1% and 4.5%.
+- [01:07:34,880 - 01:07:38,080] So that kind of gets back to the you know,
+- [01:07:38,080 - 01:07:40,210] he's got two times 5% as
+- [01:07:40,210 - 01:07:42,340] a founding CEO at that point.
+- [01:07:42,340 - 01:07:43,480] But hopefully,
+- [01:07:43,480 - 01:07:43,720] you know,
+- [01:07:43,720 - 01:07:44,120] you're,
+- [01:07:44,120 - 01:07:47,240] you're doing a hundred million dollar exit opportunity.
+- [01:07:47,240 - 01:07:47,720] So,
+- [01:07:47,720 - 01:07:49,340] so now Jack gets 9 million bucks
+- [01:07:49,340 - 01:07:50,960] out of a hundred million dollar exit.
+- [01:07:50,960 - 01:07:51,460] I don't know.
+- [01:07:51,460 - 01:07:51,680] Is that,
+- [01:07:51,680 - 01:07:52,160] is that great?
+- [01:07:52,160 - 01:07:52,660] I don't know.
+- [01:07:53,960 - 01:07:55,700] That's,
+- [01:07:55,700 - 01:07:57,380] that's how it kind of rolls out.
+- [01:07:57,380 - 01:07:58,960] And there's a spreadsheet in the,
+- [01:07:59,000 - 01:08:00,680] on the nuts and bolts site where you
+- [01:08:00,680 - 01:08:02,360] can just enter the things as you want them.
+- [01:08:02,600 - 01:08:02,820] And,
+- [01:08:02,820 - 01:08:03,260] and kind of,
+- [01:08:03,260 - 01:08:05,710] it does the calculations for you in terms
+- [01:08:05,710 - 01:08:08,160] of how much you want to raise and
+- [01:08:08,300 - 01:08:08,840] what kind of,
+- [01:08:08,840 - 01:08:09,900] what kind of deal you get,
+- [01:08:09,920 - 01:08:11,420] like what kind of valuation you get on that.
+- [01:08:12,960 - 01:08:13,460] Okay.
+- [01:08:14,500 - 01:08:14,860] That's,
+- [01:08:14,860 - 01:08:15,980] I think that's about it.
+- [01:08:16,279 - 01:08:16,960] Is that about it?
+- [01:08:17,040 - 01:08:17,660] Are we done?
+- [01:08:19,399 - 01:08:19,960] Summary?
+- [01:08:20,020 - 01:08:20,240] Well,
+- [01:08:20,240 - 01:08:21,120] you can read the summary.
+- [01:08:23,960 - 01:08:24,800] Questions.
+- [01:08:28,600 - 01:08:28,960] Go ahead.
+- [01:08:28,960 - 01:08:31,720] So when VCs says they want 5X,
+- [01:08:31,720 - 01:08:32,960] 10X return,
+- [01:08:32,960 - 01:08:33,960] how many years?
+- [01:08:33,960 - 01:08:34,960] Yep.
+- [01:08:34,960 - 01:08:36,359] When VCs say they want,
+- [01:08:36,359 - 01:08:38,000] they want a return on their investment,
+- [01:08:38,000 - 01:08:39,260] it's typically three to five
+- [01:08:39,260 - 01:08:40,520] years is what they're planning for.
+- [01:08:40,520 - 01:08:41,720] What after they put money in you.
+- [01:08:41,720 - 01:08:46,000] Only FDA after a chemical study takes like two years.
+- [01:08:46,840 - 01:08:48,279] So when your product is ready,
+- [01:08:48,279 - 01:08:49,319] everything is ready.
+- [01:08:49,319 - 01:08:49,720] Yeah.
+- [01:08:49,720 - 01:08:51,920] It's a long time for like medical devices.
+- [01:08:51,920 - 01:08:52,920] Yeah.
+- [01:08:52,920 - 01:08:53,800] So I was going to say,
+- [01:08:53,800 - 01:08:55,560] with the exception of the pre-seed guy,
+- [01:08:55,560 - 01:08:56,479] because he was kind of like,
+- [01:08:56,840 - 01:08:57,040] you know,
+- [01:08:57,040 - 01:08:57,840] I put the pre-seed in,
+- [01:08:57,840 - 01:08:59,439] it's going to take six or seven years,
+- [01:08:59,760 - 01:09:01,520] right before I actually see an exit on that.
+- [01:09:01,520 - 01:09:02,080] So,
+- [01:09:02,080 - 01:09:02,920] so I think it's,
+- [01:09:02,920 - 01:09:04,920] it's three to five years for a series a investor,
+- [01:09:04,920 - 01:09:06,000] but if they're earlier than that,
+- [01:09:06,000 - 01:09:07,420] you have to add a couple of years to that.
+- [01:09:07,560 - 01:09:08,979] And for medical devices,
+- [01:09:09,580 - 01:09:11,479] those investors are extremely sophisticated.
+- [01:09:11,479 - 01:09:12,800] They understand the process,
+- [01:09:12,800 - 01:09:14,240] they understand what you're going through and like,
+- [01:09:14,240 - 01:09:15,420] how long is it going to take?
+- [01:09:15,600 - 01:09:17,500] And then actually one guy said like,
+- [01:09:17,740 - 01:09:17,899] Hey,
+- [01:09:17,899 - 01:09:18,600] we've got these,
+- [01:09:18,600 - 01:09:18,880] you know,
+- [01:09:18,880 - 01:09:20,500] we've got a whole network of lawyers.
+- [01:09:20,500 - 01:09:22,140] So depending on what phase you're at,
+- [01:09:22,340 - 01:09:23,779] we can tell you exactly which lawyer,
+- [01:09:23,800 - 01:09:24,520] is to choose from,
+- [01:09:24,520 - 01:09:25,600] or which ones to interview with.
+- [01:09:26,020 - 01:09:27,580] A medical investor would be like,
+- [01:09:27,580 - 01:09:27,880] okay,
+- [01:09:27,880 - 01:09:29,140] you need this FDA approval.
+- [01:09:29,140 - 01:09:32,180] This is the guy that's done my past five deals,
+- [01:09:32,380 - 01:09:33,520] and you got to hire him,
+- [01:09:33,520 - 01:09:34,720] and this is what he's going to charge you.
+- [01:09:34,899 - 01:09:35,760] And we're going to be able to,
+- [01:09:35,760 - 01:09:35,979] you know,
+- [01:09:35,979 - 01:09:39,220] get through the approval process in a much faster timeframe.
+- [01:09:39,220 - 01:09:39,399] So.
+- [01:09:39,399 - 01:09:40,180] For business plan,
+- [01:09:40,180 - 01:09:43,180] it makes sense for 10 years plan,
+- [01:09:43,180 - 01:09:44,439] instead of five years?
+- [01:09:45,279 - 01:09:47,380] If that matches exactly what,
+- [01:09:47,380 - 01:09:47,600] you know,
+- [01:09:47,600 - 01:09:47,800] the,
+- [01:09:47,800 - 01:09:48,100] the,
+- [01:09:48,100 - 01:09:51,220] the regulatory problems and the time to get to market.
+- [01:09:51,220 - 01:09:51,880] Absolutely.
+- [01:09:52,040 - 01:09:52,479] Yeah.
+- [01:09:52,939 - 01:09:53,180] I mean,
+- [01:09:53,180 - 01:09:53,439] this is,
+- [01:09:53,439 - 01:09:53,720] this is,
+- [01:09:53,720 - 01:09:54,860] this is just kind of tech,
+- [01:09:54,860 - 01:09:56,500] generic hardware and software.
+- [01:09:56,500 - 01:09:56,840] So,
+- [01:09:57,080 - 01:09:57,260] you know,
+- [01:09:57,260 - 01:09:59,840] software you could compress and now with AI software,
+- [01:09:59,840 - 01:10:01,280] you're getting down to six months or something,
+- [01:10:01,280 - 01:10:01,720] right?
+- [01:10:01,720 - 01:10:03,080] Time to exit in six months,
+- [01:10:03,080 - 01:10:03,320] right?
+- [01:10:03,320 - 01:10:05,620] So big return in a short period of time.
+- [01:10:05,720 - 01:10:06,020] Yes.
+- [01:10:06,560 - 01:10:06,840] Yeah.
+- [01:10:06,840 - 01:10:08,560] Let me talk a little bit about sort of,
+- [01:10:08,560 - 01:10:09,560] um,
+- [01:10:09,560 - 01:10:10,560] control.
+- [01:10:10,820 - 01:10:11,120] Yes.
+- [01:10:11,120 - 01:10:11,560] And,
+- [01:10:11,560 - 01:10:14,840] and sort of when you should be,
+- [01:10:14,840 - 01:10:15,700] um,
+- [01:10:15,700 - 01:10:17,220] because if you found a company,
+- [01:10:17,220 - 01:10:18,060] you would,
+- [01:10:19,060 - 01:10:21,260] you're sort of the initial founder of the company,
+- [01:10:22,000 - 01:10:22,480] you know,
+- [01:10:22,480 - 01:10:23,600] eventually you're going to have,
+- [01:10:23,600 - 01:10:24,600] you know,
+- [01:10:24,600 - 01:10:25,600] control.
+- [01:10:25,600 - 01:10:26,600] But,
+- [01:10:26,600 - 01:10:27,600] but,
+- [01:10:27,600 - 01:10:28,600] but there's,
+- [01:10:28,600 - 01:10:29,600] there's a period where,
+- [01:10:29,600 - 01:10:30,600] you know,
+- [01:10:30,600 - 01:10:31,100] you want to kind of see
+- [01:10:31,100 - 01:10:31,600] your baby at least to a,
+- [01:10:31,600 - 01:10:32,100] get to a point where you're confident
+- [01:10:32,100 - 01:10:32,600] and people are higher than you're confident in
+- [01:10:32,600 - 01:10:33,600] this.
+- [01:10:33,600 - 01:10:34,600] And,
+- [01:10:34,600 - 01:10:35,600] you know,
+- [01:10:35,600 - 01:10:36,600] I've seen somebody service,
+- [01:10:36,600 - 01:10:37,600] uh,
+- [01:10:37,600 - 01:10:38,600] founders start loose,
+- [01:10:38,600 - 01:10:39,100] we troll the company and really
+- [01:10:39,100 - 01:10:39,600] get screwed over by their investors.
+- [01:10:39,600 - 01:10:40,600] At the end of the day,
+- [01:10:40,600 - 01:10:41,100] a whole metal happens to be
+- [01:10:41,100 - 01:10:41,600] an example that I know quite well.
+- [01:10:41,600 - 01:10:42,100] And I was kind of curious
+- [01:10:42,100 - 01:10:42,600] what your thought is on this.
+- [01:10:42,600 - 01:10:43,600] I mean,
+- [01:10:43,600 - 01:10:44,600] I think it's,
+- [01:10:44,600 - 01:10:45,600] it's,
+- [01:10:45,600 - 01:10:46,600] it's,
+- [01:10:46,600 - 01:10:47,600] it's,
+- [01:10:47,600 - 01:10:48,600] it's,
+- [01:10:48,600 - 01:10:49,600] it's,
+- [01:10:49,600 - 01:10:50,600] it's,
+- [01:10:50,600 - 01:10:51,600] it's,
+- [01:10:51,600 - 01:10:52,600] it's,
+- [01:10:53,600 - 01:10:54,600] it's,
+- [01:10:54,600 - 01:10:55,600] it's,
+- [01:10:55,600 - 01:10:56,600] it's,
+- [01:10:56,600 - 01:10:57,600] it's,
+- [01:10:57,600 - 01:10:58,600] it's,
+- [01:10:58,600 - 01:10:59,600] it's,
+- [01:10:59,600 - 01:11:00,600] it's,
+- [01:11:00,600 - 01:11:01,600] it's,
+- [01:11:01,600 - 01:11:02,600] it's,
+- [01:11:02,600 - 01:11:03,600] it's,
+- [01:11:03,600 - 01:11:04,600] it's,
+- [01:11:04,600 - 01:11:05,600] it's,
+- [01:11:05,600 - 01:11:06,600] it's,
+- [01:11:06,600 - 01:11:07,600] it's,
+- [01:11:07,600 - 01:11:08,600] it's,
+- [01:11:08,600 - 01:11:09,600] it's,
+- [01:11:09,600 - 01:11:10,600] it's,
+- [01:11:10,600 - 01:11:11,600] it's,
+- [01:11:11,600 - 01:11:12,600] it's,
+- [01:11:12,600 - 01:11:13,600] it's,
+- [01:11:13,600 - 01:11:14,600] it's,
+- [01:11:14,600 - 01:11:15,600] it's.
+- [01:11:15,600 - 01:11:16,100] And I think that's what I've learned and
+- [01:11:16,100 - 01:11:16,600] I think I've taken a little bit of that
+- [01:11:16,600 - 01:11:17,600] in the past.
+- [01:11:17,600 - 01:11:18,600] So,
+- [01:11:18,600 - 01:11:19,100] so I thought John's comment was
+- [01:11:19,100 - 01:11:19,600] very interesting in the previous panel
+- [01:11:19,600 - 01:11:20,600] where he said,
+- [01:11:20,600 - 01:11:21,600] you know,
+- [01:11:21,600 - 01:11:22,100] you really want to build a relationship
+- [01:11:22,100 - 01:11:22,600] with these guys because it is about
+- [01:11:22,600 - 01:11:23,600] trust so,
+- [01:11:23,600 - 01:11:25,520] you're either at the table or on the menu.
+- [01:11:28,420 - 01:11:31,240] I don't know why that just sort of hits perfectly.
+- [01:11:31,760 - 01:11:34,640] I heard it in D.C. first, which totally makes sense,
+- [01:11:34,760 - 01:11:37,320] but now, you know, for this kind of activity,
+- [01:11:37,500 - 01:11:38,980] it's like if you're in the board meeting,
+- [01:11:39,060 - 01:11:41,120] then you know you're playing the game.
+- [01:11:41,620 - 01:11:43,820] There's two levels of control in any company,
+- [01:11:44,260 - 01:11:46,540] and hopefully I'm not stepping on Joe's toes here.
+- [01:11:47,620 - 01:11:50,060] There's equity ownership control,
+- [01:11:50,060 - 01:11:51,220] and then there's board control.
+- [01:11:51,760 - 01:11:53,220] So when you bring in outside investors,
+- [01:11:53,220 - 01:11:56,200] they typically have a separate series of stock,
+- [01:11:56,520 - 01:11:57,640] which is not really shown in here,
+- [01:11:58,100 - 01:12:01,390] and with that series of
+- [01:12:01,390 - 01:12:04,680] stock, they get certain board access.
+- [01:12:05,340 - 01:12:07,560] So sometimes in pre-seed, there's no board access.
+- [01:12:07,780 - 01:12:09,720] Sometimes there's one or two board seats,
+- [01:12:10,180 - 01:12:13,520] and that kind of decision-making power at the board
+- [01:12:13,520 - 01:12:16,860] is one level of control where things can happen
+- [01:12:16,860 - 01:12:18,320] and go awry if you're not careful,
+- [01:12:18,660 - 01:12:19,640] if you don't know about that.
+- [01:12:19,960 - 01:12:22,260] So you've got to be careful on that piece.
+- [01:12:22,260 - 01:12:23,200] And then there's the,
+- [01:12:23,220 - 01:12:24,520] sort of, cap table control.
+- [01:12:24,520 - 01:12:26,080] Like, so in this example,
+- [01:12:26,080 - 01:12:27,640] it's like right off the bat,
+- [01:12:27,640 - 01:12:28,970] you know, 50%, or I guess
+- [01:12:28,970 - 01:12:30,300] the angel investor was just 10%,
+- [01:12:30,300 - 01:12:31,760] but then it was like 50%,
+- [01:12:31,760 - 01:12:33,160] so there's not a lot
+- [01:12:33,160 - 01:12:34,560] of equity control at that point.
+- [01:12:35,100 - 01:12:37,980] Presumably, they maintain some board level control on that.
+- [01:12:38,280 - 01:12:40,620] But I think the other side of it is,
+- [01:12:40,620 - 01:12:42,150] it's really hard to manage that
+- [01:12:42,150 - 01:12:43,680] that closely and worry about it.
+- [01:12:45,820 - 01:12:48,320] If you develop a good relationship with the investors,
+- [01:12:48,320 - 01:12:51,120] the win is for the investors and the founders
+- [01:12:51,120 - 01:12:52,440] to make a lot of money together,
+- [01:12:52,440 - 01:12:55,200] because then that flows into their next investment, right?
+- [01:12:55,200 - 01:12:56,940] Everybody hears about how great they did
+- [01:12:56,940 - 01:12:58,120] and how wonderful they are,
+- [01:12:58,120 - 01:12:59,540] and they want to keep doing it,
+- [01:12:59,540 - 01:13:01,020] as opposed to, you know,
+- [01:13:01,020 - 01:13:02,500] whatever happened in other scenarios
+- [01:13:02,500 - 01:13:04,280] where you get a bad reputation
+- [01:13:04,280 - 01:13:07,419] and then nobody wants to talk to you anymore.
+- [01:13:07,419 - 01:13:10,660] So anyways, hopefully that sort of answers your question.
+- [01:13:10,660 - 01:13:11,500] Yes.
+- [01:13:14,759 - 01:13:15,259] Thank you.
+- [01:13:15,259 - 01:13:17,419] It seems like this G is equaling the actual cap.
+- [01:13:17,419 - 01:13:19,379] Can you ask the whole, will be the,
+- [01:13:19,379 - 01:13:20,799] if estimated value of the company
+- [01:13:20,799 - 01:13:22,219] will change after each of our,
+- [01:13:22,440 - 01:13:23,740] of the investment?
+- [01:13:25,059 - 01:13:28,860] So the, the actual valuation at each column?
+- [01:13:28,860 - 01:13:29,360] Yes.
+- [01:13:30,160 - 01:13:32,580] So let's see, I guess we can figure that out.
+- [01:13:33,860 - 01:13:36,000] If I'm giving at post angel,
+- [01:13:36,000 - 01:13:37,580] if I put in a half a
+- [01:13:37,580 - 01:13:39,160] million dollars for 10% of the company,
+- [01:13:39,919 - 01:13:40,799] what's the value?
+- [01:13:43,120 - 01:13:43,919] Five million bucks?
+- [01:13:44,679 - 01:13:45,219] I'm not sure.
+- [01:13:46,219 - 01:13:49,219] Well, 10% is worth, $500,000 is worth 10%.
+- [01:13:49,219 - 01:13:51,219] What's the whole, what's 100% worth?
+- [01:13:51,799 - 01:13:52,299] Nice.
+- [01:13:52,440 - 01:13:54,440] Come on, this is basic math here.
+- [01:13:54,440 - 01:13:56,440] It's like five million bucks, right?
+- [01:13:56,440 - 01:13:57,440] Right?
+- [01:13:57,440 - 01:13:57,940] Roughly?
+- [01:13:57,940 - 01:13:58,440] Yeah.
+- [01:13:58,440 - 01:13:58,940] Okay.
+- [01:13:58,940 - 01:14:01,940] And then the next one, it's, what is it?
+- [01:14:01,940 - 01:14:04,200] $5 million for 50% of the company.
+- [01:14:04,200 - 01:14:05,700] And that includes the 10%.
+- [01:14:05,700 - 01:14:07,700] So that's a $10 million valuation.
+- [01:14:07,700 - 01:14:12,200] And then the last one is $10 million at,
+- [01:14:12,200 - 01:14:14,460] at $15 million pre-money valuation.
+- [01:14:14,460 - 01:14:16,460] So the total is 25 million.
+- [01:14:16,460 - 01:14:20,059] So at the post VC, it's valued at $25 million.
+- [01:14:20,059 - 01:14:22,099] But in the scenario that we took,
+- [01:14:22,100 - 01:14:23,860] we talked about in the beginning,
+- [01:14:23,860 - 01:14:25,560] where if you raise the $15 million,
+- [01:14:25,560 - 01:14:27,980] you need to have at least 40 to $60 million
+- [01:14:27,980 - 01:14:30,700] so that your company's worth about $135 million.
+- [01:14:30,700 - 01:14:32,600] You have 40 to $60 million in revenue
+- [01:14:32,600 - 01:14:35,600] so that the valuation of the company is $135 million.
+- [01:14:35,600 - 01:14:38,260] That was on like one of the first slides.
+- [01:14:38,260 - 01:14:39,760] That's the exit scenario.
+- [01:14:39,760 - 01:14:42,440] So this is just what the VCs put money in.
+- [01:14:42,440 - 01:14:44,670] So if I put $10
+- [01:14:44,670 - 01:14:46,900] million at a $25 million post,
+- [01:14:46,900 - 01:14:49,220] then I want my $10 million to be worth,
+- [01:14:49,220 - 01:14:50,660] you know, a heck of a lot
+- [01:14:50,660 - 01:14:52,100] more on when you sell the business.
+- [01:14:52,100 - 01:14:52,920] So I'm gonna go ahead
+- [01:14:52,920 - 01:14:53,740] and do this for a hundred
+- [01:14:53,740 - 01:14:55,600] and whatever million dollars, so.
+- [01:14:55,600 - 01:14:57,640] Which it should be in that scenario.
+- [01:14:57,640 - 01:14:58,600] Make sense?
+- [01:14:58,600 - 01:14:59,600] Yes?
+- [01:14:59,600 - 01:15:00,600] Okay.
+- [01:15:00,600 - 01:15:01,600] How is the revenue being distributed?
+- [01:15:01,600 - 01:15:06,600] How is the revenue being distributed?
+- [01:15:06,600 - 01:15:08,940] So this is a cap table, this is equity.
+- [01:15:08,940 - 01:15:10,980] There's no revenue on this, on this cap table.
+- [01:15:10,980 - 01:15:14,660] This is just share ownership in the business.
+- [01:15:14,660 - 01:15:16,500] So this would be on the balance sheet.
+- [01:15:16,500 - 01:15:18,680] So you have assets and liabilities and equity.
+- [01:15:18,680 - 01:15:20,160] So this is equity.
+- [01:15:20,160 - 01:15:21,160] Yes.
+- [01:15:22,100 - 01:15:25,100] So how do you decide the percentage of equity
+- [01:15:25,100 - 01:15:27,560] to be allocated to key early employees
+- [01:15:27,560 - 01:15:29,400] and the board members?
+- [01:15:29,400 - 01:15:30,400] Hmm.
+- [01:15:30,400 - 01:15:31,560] Yes, good question.
+- [01:15:31,560 - 01:15:32,860] I mean, there are some rules of thumb,
+- [01:15:32,860 - 01:15:34,200] but it varies all over the place.
+- [01:15:34,200 - 01:15:35,940] And I'd love to hear from Joe or others
+- [01:15:35,940 - 01:15:37,240] who have experience on this.
+- [01:15:37,240 - 01:15:42,000] What we're showing here is kind of the typical arrangement.
+- [01:15:42,000 - 01:15:44,100] Like this is the typical scenario
+- [01:15:44,100 - 01:15:45,860] after two rounds of financing.
+- [01:15:45,860 - 01:15:49,700] And there are market rates for kind of advisors
+- [01:15:49,700 - 01:15:51,600] and board members.
+- [01:15:51,600 - 01:15:53,640] Typically, if it's an outside advisor
+- [01:15:53,640 - 01:15:55,640] or outside board member, they get equity
+- [01:15:55,640 - 01:15:59,060] to sort of compensate them for coming to board meetings.
+- [01:15:59,060 - 01:16:02,400] If it's an investor who also has a board seat,
+- [01:16:02,400 - 01:16:05,440] they don't get any more equity than just their investment
+- [01:16:05,440 - 01:16:06,700] in the company at that point.
+- [01:16:06,700 - 01:16:07,970] And they get the board seat
+- [01:16:07,970 - 01:16:09,240] as part of that investment round.
+- [01:16:09,240 - 01:16:11,940] So that's negotiated with the valuation,
+- [01:16:11,940 - 01:16:13,640] but I don't know if you have any more.
+- [01:16:13,640 - 01:16:14,880] Any more comments on that, Joe?
+- [01:16:14,880 - 01:16:16,800] That's a hot topic.
+- [01:16:17,900 - 01:16:20,200] It's negotiated, it's negotiable.
+- [01:16:20,200 - 01:16:20,640] Maybe some red, blue, green.
+- [01:16:20,640 - 01:16:21,160] Yeah, that's a hot topic. It's negotiated, it's negotiable.
+- [01:16:21,160 - 01:16:21,240] Maybe some red, blue, green.
+- [01:16:21,240 - 01:16:21,400] So that's a good one.
+- [01:16:21,400 - 01:16:21,480] So that's a good one.
+- [01:16:21,480 - 01:16:21,500] So that's a good one.
+- [01:16:21,500 - 01:16:22,240] rules of thumb?
+- [01:16:24,180 - 01:16:25,520] Well, you have to remember there's
+- [01:16:25,520 - 01:16:27,320] a market for people
+- [01:16:27,320 - 01:16:29,720] and it changes
+- [01:16:29,720 - 01:16:31,540] over time. So you're
+- [01:16:31,540 - 01:16:33,580] going to be looking at salary.com and others
+- [01:16:33,580 - 01:16:34,920] to look at that.
+- [01:16:36,320 - 01:16:37,760] For things like
+- [01:16:37,760 - 01:16:39,220] advisors,
+- [01:16:39,900 - 01:16:41,540] board members, you'll
+- [01:16:41,540 - 01:16:43,060] have an advisory board maybe.
+- [01:16:44,600 - 01:16:45,560] A typical
+- [01:16:45,560 - 01:16:47,500] step might be for someone to be on an
+- [01:16:47,500 - 01:16:49,420] advisory board and then as
+- [01:16:49,420 - 01:16:50,960] they get to know you, maybe you say,
+- [01:16:50,960 - 01:16:52,620] would you join my real
+- [01:16:52,620 - 01:16:54,520] board of directors? The difference is
+- [01:16:54,520 - 01:16:56,880] if you're on the real board of directors, you have
+- [01:16:56,880 - 01:16:58,920] fiduciary duties. And you should
+- [01:16:58,920 - 01:17:00,420] be thinking about the company
+- [01:17:00,420 - 01:17:02,960] weekly. If you're an advisory
+- [01:17:02,960 - 01:17:04,940] board, you can
+- [01:17:04,940 - 01:17:07,000] call me, maybe I'll take, but I'm
+- [01:17:07,000 - 01:17:07,960] not thinking about it.
+- [01:17:08,680 - 01:17:10,900] So typically maybe a
+- [01:17:10,900 - 01:17:11,780] quarter of a percent.
+- [01:17:13,440 - 01:17:14,920] It depends, half a percent.
+- [01:17:15,100 - 01:17:15,780] For an advisor.
+- [01:17:16,340 - 01:17:17,420] For a board of advisors.
+- [01:17:17,420 - 01:17:19,700] And maybe half a percent
+- [01:17:19,700 - 01:17:20,820] for an actual
+- [01:17:20,820 - 01:17:20,940] board.
+- [01:17:20,960 - 01:17:23,240] For somebody.
+- [01:17:23,680 - 01:17:25,820] And you might want to identify those people early on
+- [01:17:25,820 - 01:17:27,380] because when the
+- [01:17:27,380 - 01:17:29,680] VCs come in, they're going to have their people
+- [01:17:29,680 - 01:17:31,520] and there's usually an independent
+- [01:17:31,520 - 01:17:33,780] director. And if you
+- [01:17:33,780 - 01:17:35,320] don't have somebody who you say,
+- [01:17:35,420 - 01:17:36,900] I trust and is credible,
+- [01:17:37,460 - 01:17:38,580] they'll appoint somebody
+- [01:17:38,580 - 01:17:41,420] who's credible but probably did other
+- [01:17:41,420 - 01:17:43,700] things in the past. So push comes
+- [01:17:43,700 - 01:17:45,420] to shove. They lean more towards
+- [01:17:45,420 - 01:17:46,920] the investor side.
+- [01:17:48,140 - 01:17:49,500] You have to do your homework.
+- [01:17:49,500 - 01:17:50,480] And then ask them out.
+- [01:17:50,960 - 01:17:52,960] That's one of the things. Venture metrics
+- [01:17:52,960 - 01:17:53,460] service.
+- [01:17:53,460 - 01:17:56,960] Somebody here was on that.
+- [01:17:56,960 - 01:18:00,960] There's a whole email list where
+- [01:18:00,960 - 01:18:03,960] a member or a couple of their mentees
+- [01:18:03,960 - 01:18:07,460] can ask questions and get responses back.
+- [01:18:07,460 - 01:18:11,160] What if you give your major,
+- [01:18:11,160 - 01:18:13,560] senior engineers, stuff like that.
+- [01:18:13,560 - 01:18:15,560] It's real life, honest data.
+- [01:18:17,560 - 01:18:19,260] I want to double click on
+- [01:18:19,260 - 01:18:20,960] one thing Joe said that I,
+- [01:18:20,960 - 01:18:24,960] I stumbled into early in my entrepreneurial career,
+- [01:18:24,960 - 01:18:26,630] which is asking someone to
+- [01:18:26,630 - 01:18:28,300] be an advisor to your business
+- [01:18:28,300 - 01:18:29,800] is really just asking for their
+- [01:18:29,800 - 01:18:31,300] sort of support and they get
+- [01:18:31,300 - 01:18:32,720] some equity compensation for it.
+- [01:18:32,720 - 01:18:34,620] And there's not a lot of liability there.
+- [01:18:34,620 - 01:18:36,560] I mean, there's, there's reputational
+- [01:18:36,560 - 01:18:38,500] liability and there's sort of knowledge,
+- [01:18:38,500 - 01:18:39,720] liability and credibility.
+- [01:18:40,460 - 01:18:43,080] Asking someone to sit on your board of directors.
+- [01:18:43,080 - 01:18:45,300] There's a, there's a fiduciary responsibility.
+- [01:18:45,300 - 01:18:47,130] There's a legal obligation to like
+- [01:18:47,130 - 01:18:48,960] do what's best for the corporation.
+- [01:18:48,960 - 01:18:50,760] So one ask is pretty,
+- [01:18:50,960 - 01:18:52,300] pretty low level, low bar.
+- [01:18:52,300 - 01:18:54,540] One, the next task is pretty, pretty high level,
+- [01:18:54,540 - 01:18:56,540] which is kind of why you want to work
+- [01:18:56,540 - 01:18:58,540] with them on an advisory board basis and make
+- [01:18:58,540 - 01:19:00,060] sure that, you know, you guys all
+- [01:19:00,060 - 01:19:01,580] get along because as soon as they,
+- [01:19:01,580 - 01:19:03,330] you ask for that level,
+- [01:19:03,330 - 01:19:05,080] it's like, oh, oh, geez, really?
+- [01:19:05,080 - 01:19:06,080] I'm going to have to look
+- [01:19:06,080 - 01:19:07,080] at the financials and, you know,
+- [01:19:07,080 - 01:19:08,120] back this up if there's
+- [01:19:08,120 - 01:19:09,160] a lawsuit and stuff like that.
+- [01:19:09,160 - 01:19:11,250] So it's a, it's a big ask, which is
+- [01:19:11,250 - 01:19:13,340] why most of the time it's people that put a
+- [01:19:13,340 - 01:19:14,590] bunch of money in you that
+- [01:19:14,590 - 01:19:15,840] are like, okay, now we want to,
+- [01:19:15,840 - 01:19:17,210] we want to watch this money and
+- [01:19:17,210 - 01:19:18,580] make sure it's going for the right place.
+- [01:19:18,580 - 01:19:20,260] So question.
+- [01:19:20,260 - 01:19:20,960] Yes.
+- [01:19:20,960 - 01:19:23,660] Do you, uh, companies provide, uh,
+- [01:19:23,660 - 01:19:25,840] provide loan insurance for their board members?
+- [01:19:25,840 - 01:19:27,550] Yeah, it's called, uh, DNO
+- [01:19:27,550 - 01:19:29,260] insurance, directors and officers insurance.
+- [01:19:29,260 - 01:19:31,670] And how does that, it
+- [01:19:31,670 - 01:19:34,080] says that based on the size?
+- [01:19:34,080 - 01:19:36,120] Uh, I'm trying to think the last policy
+- [01:19:36,120 - 01:19:38,160] I had was like 25 grand a year,
+- [01:19:38,160 - 01:19:41,720] I think something like that for, what's that?
+- [01:19:41,720 - 01:19:44,120] It's covered in the IWO or?
+- [01:19:44,120 - 01:19:45,660] It covers the board of directors.
+- [01:19:45,660 - 01:19:47,620] Yeah. For certain liability obligations.
+- [01:19:47,620 - 01:19:49,190] Yeah. And, and I mean,
+- [01:19:49,190 - 01:19:50,760] I can tell you, you know,
+- [01:19:50,760 - 01:19:52,260] when you're sitting in a board meeting
+- [01:19:52,260 - 01:19:53,760] trying to get certain budgets passed and
+- [01:19:53,760 - 01:19:56,200] stuff, the DNO insurance gets passed
+- [01:19:56,200 - 01:19:58,640] very fast because everybody's like, yes,
+- [01:19:58,640 - 01:20:00,760] of course that's obvious choice for us.
+- [01:20:00,760 - 01:20:02,880] Um, that comes in with, you know,
+- [01:20:02,880 - 01:20:05,000] with outside VC investment. So it's like, okay,
+- [01:20:05,000 - 01:20:06,760] we're going to put a few million bucks in you.
+- [01:20:06,760 - 01:20:07,910] We want to make sure everything's clean
+- [01:20:07,910 - 01:20:09,060] and we want to make sure everybody's
+- [01:20:09,060 - 01:20:12,100] covered properly. So that's when you get, and, and,
+- [01:20:12,100 - 01:20:14,720] and Chubb is the big underwriter there. I think they,
+- [01:20:14,720 - 01:20:16,070] I don't know if they own the
+- [01:20:16,070 - 01:20:17,420] market. Sorry, am I advertising too much Joe?
+- [01:20:17,420 - 01:20:22,120] I'm not, I don't have any affiliation with Chubb.
+- [01:20:22,120 - 01:20:24,370] I just remember my attorney loved
+- [01:20:24,370 - 01:20:26,620] the reading through the details of the,
+- [01:20:26,620 - 01:20:28,830] whatever the Chubb disclosure document
+- [01:20:28,830 - 01:20:31,040] was. So anyways, other questions?
+- [01:20:33,380 - 01:20:35,980] 8.59 guys. Pretty good timing.
+- [01:20:35,980 - 01:20:38,580] Pretty good timing. Well done.
+- [01:20:40,080 - 01:20:41,080] All right. Thank you.
