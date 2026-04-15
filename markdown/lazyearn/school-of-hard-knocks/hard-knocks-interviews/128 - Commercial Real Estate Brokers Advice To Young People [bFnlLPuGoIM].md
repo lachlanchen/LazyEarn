@@ -1,0 +1,27 @@
+# Transcript
+
+Source: lazyearn/school-of-hard-knocks/hard-knocks-interviews/128 - Commercial Real Estate Brokers Advice To Young People [bFnlLPuGoIM].webm
+
+- [00:00:00,000 - 00:00:01,680] Excuse me, sir. Question for you. If you were to
+- [00:00:01,680 - 00:00:03,360] go back to when you were either high school or
+- [00:00:03,360 - 00:00:05,040] college and you're having a conversation with
+- [00:00:05,040 - 00:00:06,720] your 20-year-old self, what is the best piece
+- [00:00:06,720 - 00:00:08,350] of advice that you would tell your younger self? Well,
+- [00:00:08,350 - 00:00:09,980] if I'm 20 years old and I'm in high school,
+- [00:00:10,080 - 00:00:12,220] I would tell myself to get my shit together.
+- [00:00:12,220 - 00:00:14,360] Dumbass. Two years late. If I was in college
+- [00:00:14,360 - 00:00:15,960] and I was 20 years old, stop chasing girls
+- [00:00:15,960 - 00:00:17,560] and drinking beer. Just because you make a bunch of
+- [00:00:17,560 - 00:00:19,400] money, don't go out and buy the Porsche with the
+- [00:00:19,400 - 00:00:21,240] whale tail and all that. What was the most amount
+- [00:00:21,240 - 00:00:23,010] of money that you ever made in a single
+- [00:00:23,010 - 00:00:24,780] year? It's in the seven digits. What industry did you
+- [00:00:24,780 - 00:00:26,520] ultimately pursue a career in? Commercial real
+- [00:00:26,520 - 00:00:28,260] estate. How can someone break into commercial
+- [00:00:28,260 - 00:00:30,070] real estate in today's world? It's
+- [00:00:30,070 - 00:00:31,880] all relationship-based. So if you're just starting
+- [00:00:31,880 - 00:00:33,430] out at commercial real estate, you need to know
+- [00:00:33,430 - 00:00:34,980] every building. You need to be in the lobby of
+- [00:00:34,980 - 00:00:37,170] every building, figure out what's going on
+- [00:00:37,170 - 00:00:39,360] in there. Being busy creates opportunity. If somebody
+- [00:00:39,360 - 00:00:41,320] tells you no, don't take no for an answer.
