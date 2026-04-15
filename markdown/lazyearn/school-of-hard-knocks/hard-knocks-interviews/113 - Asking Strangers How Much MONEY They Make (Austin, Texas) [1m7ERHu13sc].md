@@ -1,0 +1,418 @@
+# Transcript
+
+Source: lazyearn/school-of-hard-knocks/hard-knocks-interviews/113 - Asking Strangers How Much MONEY They Make (Austin, Texas) [1m7ERHu13sc].mkv
+
+- [00:00:00,000 - 00:00:01,270] What was the most amount of money
+- [00:00:01,270 - 00:00:02,540] that you ever made in a single year?
+- [00:00:02,660 - 00:00:03,480] I'm not going to tell you that.
+- [00:00:04,760 - 00:00:04,960] Yeah.
+- [00:00:06,880 - 00:00:08,940] I am VP of Marketing at a software company.
+- [00:00:09,040 - 00:00:10,760] Oh, I don't want to disclose my personal income.
+- [00:00:11,640 - 00:00:13,320] So I'm an entrepreneur, and
+- [00:00:13,320 - 00:00:15,000] we spend money, we make money.
+- [00:00:16,440 - 00:00:18,700] We're going all around downtown Austin asking strangers the most
+- [00:00:18,700 - 00:00:20,960] amount of money that they've ever made in a single year.
+- [00:00:21,060 - 00:00:21,540] Stay tuned.
+- [00:00:21,660 - 00:00:23,100] Give me, sir, a question for you.
+- [00:00:23,160 - 00:00:25,460] My brother and my friend and I, we started a channel
+- [00:00:25,460 - 00:00:27,760] at the University of Texas that we did a 1.4 million followers.
+- [00:00:27,760 - 00:00:30,580] We were just asking people a few questions on the best piece of advice that they
+- [00:00:30,580 - 00:00:33,400] could tell the younger generation of kids coming out of school, starting out in the real world.
+- [00:00:33,500 - 00:00:34,360] So I even wanted to go
+- [00:00:34,360 - 00:00:35,220] and do a quick interview with them.
+- [00:00:35,240 - 00:00:37,220] Just ask a few questions on some of your advice.
+- [00:00:37,460 - 00:00:38,620] What was the most amount of money
+- [00:00:38,620 - 00:00:39,780] that you ever made in a single year?
+- [00:00:39,880 - 00:00:41,550] So I'm an entrepreneur, and
+- [00:00:41,550 - 00:00:43,220] we spend money, we make money.
+- [00:00:44,580 - 00:00:46,780] In what industry did you ultimately pursue a career in?
+- [00:00:47,380 - 00:00:47,620] Neurotechnology.
+- [00:00:47,880 - 00:00:51,910] I'm in the business of getting people off psychiatric medication
+- [00:00:51,910 - 00:00:55,940] and using frequencies and digital frequency patterns to restore mental health,
+- [00:00:55,940 - 00:00:57,740] or what we call just general health.
+- [00:00:58,059 - 00:00:59,809] So that life on life's terms
+- [00:00:59,809 - 00:01:01,559] is a pleasure rather than a struggle.
+- [00:01:01,760 - 00:01:03,670] If you were to go back to when you started your first
+- [00:01:03,670 - 00:01:05,580] business, what is the number one thing that you would tell yourself?
+- [00:01:05,679 - 00:01:06,860] Be careful financially.
+- [00:01:07,280 - 00:01:09,040] Don't borrow money, and if you
+- [00:01:09,040 - 00:01:10,800] do borrow money, be very, very careful.
+- [00:01:10,980 - 00:01:12,410] The biggest mistake I ever made
+- [00:01:12,410 - 00:01:13,840] was letting banks lend me money.
+- [00:01:13,960 - 00:01:16,100] Always fund it yourself as best you can.
+- [00:01:16,240 - 00:01:17,930] Friends and family, raise the money through
+- [00:01:17,930 - 00:01:19,620] all the platforms that are available now.
+- [00:01:19,720 - 00:01:21,120] But don't borrow the money from
+- [00:01:21,120 - 00:01:22,520] the banks because you will regret it.
+- [00:01:22,600 - 00:01:23,929] What has been your secret to
+- [00:01:23,929 - 00:01:25,259] scaling your business throughout your career?
+- [00:01:25,259 - 00:01:27,740] So I actually tell my team, because I actually am...
+- [00:01:27,839 - 00:01:29,139] CEO of a public company,
+- [00:01:29,139 - 00:01:30,440] and I run my own business.
+- [00:01:30,539 - 00:01:32,949] And I tell everybody, you have your vertical managers, they
+- [00:01:32,949 - 00:01:35,360] sit on top and they bark and they give orders.
+- [00:01:35,500 - 00:01:37,440] And then you have your horizontal managers, where we
+- [00:01:37,440 - 00:01:39,380] all sit at the table and we work together.
+- [00:01:39,500 - 00:01:41,800] And only in a critical moment do I
+- [00:01:41,800 - 00:01:44,100] basically pull rank and make a final decision.
+- [00:01:44,179 - 00:01:47,039] So the most important part of running a business, scaling
+- [00:01:47,039 - 00:01:49,899] a business, is surround yourself with a team of professionals,
+- [00:01:50,000 - 00:01:53,690] or aspiring professionals, or like-minded individuals in the vision,
+- [00:01:53,690 - 00:01:57,380] and come together and share that vision and listen.
+- [00:01:57,380 - 00:01:58,979] We don't listen to people anymore.
+- [00:01:59,080 - 00:02:00,280] We're ready for a fight.
+- [00:02:00,380 - 00:02:01,279] We're ready to get in
+- [00:02:01,279 - 00:02:02,179] the corner and go after it.
+- [00:02:02,280 - 00:02:04,280] And we should never bring that into a business.
+- [00:02:04,380 - 00:02:06,179] What company are you the CEO of right now?
+- [00:02:06,280 - 00:02:07,580] Nexalan Technology.
+- [00:02:07,679 - 00:02:08,979] We trade on NASDAQ.
+- [00:02:09,079 - 00:02:14,229] We stimulate the brain with frequencies that have been shown through science and through FDA
+- [00:02:14,229 - 00:02:19,380] approvals to normalize issues in the brain normally associated with mood disorders, mental health struggles.
+- [00:02:19,480 - 00:02:20,380] Thank you so much for your time.
+- [00:02:20,480 - 00:02:21,180] I really appreciate that.
+- [00:02:21,280 - 00:02:21,880] Good for you guys.
+- [00:02:21,980 - 00:02:22,280] Thank you so much.
+- [00:02:22,380 - 00:02:22,880] Thank you, sir.
+- [00:02:22,980 - 00:02:23,880] Question for you.
+- [00:02:23,980 - 00:02:25,230] We started the channel that
+- [00:02:25,230 - 00:02:26,480] we grew to 1.4 million followers.
+- [00:02:26,579 - 00:02:27,280] Just asking people questions.
+- [00:02:27,380 - 00:02:28,630] We're going to give people a few quick questions
+- [00:02:28,630 - 00:02:29,880] on the advice they would tell the younger generation.
+- [00:02:29,980 - 00:02:32,680] Actually, I'm just late meeting somebody.
+- [00:02:32,780 - 00:02:33,480] Sorry about that.
+- [00:02:33,580 - 00:02:34,280] Have a good night.
+- [00:02:34,380 - 00:02:35,080] Okay, I'm going to the mall.
+- [00:02:35,180 - 00:02:35,880] I'm going to go get this next one.
+- [00:02:35,980 - 00:02:36,480] Come on.
+- [00:02:36,580 - 00:02:39,530] So, I think something that's super funny about Hard Knocks
+- [00:02:39,530 - 00:02:42,480] that not many people see is we go for interviews everywhere.
+- [00:02:42,580 - 00:02:44,280] It doesn't matter if you're at the
+- [00:02:44,280 - 00:02:45,980] ice cream shop at 9 o'clock at night.
+- [00:02:46,080 - 00:02:48,080] You could be at the convenience store.
+- [00:02:48,180 - 00:02:49,080] It's everywhere.
+- [00:02:49,180 - 00:02:50,180] I mean, we're going to be
+- [00:02:50,180 - 00:02:51,180] in line getting some ice cream.
+- [00:02:51,280 - 00:02:51,880] We're getting some food.
+- [00:02:51,980 - 00:02:56,280] And we got decked out in a suit, Rolex on.
+- [00:02:56,380 - 00:02:57,080] You just hear James.
+- [00:02:57,080 - 00:02:58,580] The famous words from James.
+- [00:02:58,680 - 00:02:59,780] Excuse me, sir.
+- [00:02:59,880 - 00:03:00,880] What's the best piece of
+- [00:03:00,880 - 00:03:01,880] advice you tell your younger self?
+- [00:03:01,980 - 00:03:03,180] You can't go anywhere without us.
+- [00:03:03,280 - 00:03:04,180] You can't go anywhere.
+- [00:03:04,280 - 00:03:04,980] You can't go anywhere.
+- [00:03:05,080 - 00:03:06,880] We're always there, but we're always shooting our shot.
+- [00:03:06,980 - 00:03:08,980] What industry did you ultimately pursue a career in?
+- [00:03:09,080 - 00:03:11,280] I am VP of marketing at a software company.
+- [00:03:11,380 - 00:03:12,530] How can someone really break into
+- [00:03:12,530 - 00:03:13,680] the tech industry in today's world?
+- [00:03:13,780 - 00:03:15,680] Take on as many opportunities as you can.
+- [00:03:15,780 - 00:03:16,830] So, when I started, I
+- [00:03:16,830 - 00:03:17,880] started a lot of different startups.
+- [00:03:17,980 - 00:03:19,980] I had opportunities with large companies.
+- [00:03:20,080 - 00:03:22,130] I found a lot of my colleagues
+- [00:03:22,130 - 00:03:24,180] were kind of pigeonholed into one specific role.
+- [00:03:24,280 - 00:03:25,330] By staying in startups, I got
+- [00:03:25,330 - 00:03:26,380] to touch a lot of different areas.
+- [00:03:26,480 - 00:03:26,730] I did have a lot of
+- [00:03:26,730 - 00:03:26,980] opportunities with a lot of different startups.
+- [00:03:27,080 - 00:03:28,730] I did have a lot of one
+- [00:03:28,730 - 00:03:30,380] to two year runs at smaller companies,
+- [00:03:30,480 - 00:03:31,480] but I learned so much.
+- [00:03:31,580 - 00:03:33,880] It let me grow faster than I think I would have if
+- [00:03:33,880 - 00:03:36,180] I just took a really comfortable high paying job at the beginning.
+- [00:03:36,280 - 00:03:37,480] What was the most amount of money
+- [00:03:37,480 - 00:03:38,680] that you ever made in a single year?
+- [00:03:38,780 - 00:03:40,180] Oh, I don't want to disclose my personal.
+- [00:03:40,280 - 00:03:44,080] I mean, high six figures, really high six figures.
+- [00:03:44,180 - 00:03:44,480] Yeah.
+- [00:03:44,580 - 00:03:45,580] What do you think is more important?
+- [00:03:45,680 - 00:03:46,680] What you know or who you know?
+- [00:03:46,780 - 00:03:47,880] Who you know, 100%.
+- [00:03:47,980 - 00:03:48,880] How have you been able
+- [00:03:48,880 - 00:03:49,780] to connect, build those relationships?
+- [00:03:49,880 - 00:03:51,580] First and foremost, you have to have really
+- [00:03:51,580 - 00:03:53,280] healthy relationships in the role that you're in
+- [00:03:53,380 - 00:03:54,680] because those ultimately will get
+- [00:03:54,680 - 00:03:55,980] you additional roles later on.
+- [00:03:56,080 - 00:03:56,980] And always just remember.
+- [00:03:57,080 - 00:03:57,980] That you are a brand.
+- [00:03:58,080 - 00:03:59,580] So if you're just out having a good
+- [00:03:59,580 - 00:04:01,080] time, you don't know who you're going to meet.
+- [00:04:01,180 - 00:04:02,680] And those could turn into really great opportunities.
+- [00:04:02,780 - 00:04:04,630] And I hate to admit this, but I've ended
+- [00:04:04,630 - 00:04:06,480] up with more business contacts than dates through online dating.
+- [00:04:06,580 - 00:04:07,980] So I just you never know.
+- [00:04:08,080 - 00:04:09,480] So we always ask people, is it
+- [00:04:09,480 - 00:04:10,880] who you know or what you know?
+- [00:04:10,980 - 00:04:12,180] What's your take on that?
+- [00:04:12,280 - 00:04:14,180] Here's my best networking advice for anyone out there.
+- [00:04:14,280 - 00:04:15,280] And this is someone that I preach.
+- [00:04:15,380 - 00:04:16,880] I think who you know is very important, right?
+- [00:04:16,980 - 00:04:17,680] You get your foot in the door.
+- [00:04:17,779 - 00:04:19,230] You surround yourself with millionaires and billionaires,
+- [00:04:19,230 - 00:04:20,680] people that are 10 steps ahead of you.
+- [00:04:20,779 - 00:04:22,280] But once you're in those circles, you have
+- [00:04:22,280 - 00:04:23,780] to find a way to provide value for them.
+- [00:04:23,880 - 00:04:25,430] So that way you can stay in contact
+- [00:04:25,430 - 00:04:26,980] with those people that you can stay establishing.
+- [00:04:27,080 - 00:04:27,979] Continue those relationships.
+- [00:04:28,080 - 00:04:29,880] If you don't bring anything to the table and you
+- [00:04:29,880 - 00:04:31,680] don't have any skill sets or anything to offer that person.
+- [00:04:31,780 - 00:04:33,180] You can't connect them with other people.
+- [00:04:33,280 - 00:04:34,479] Then you're just a fucking waste man.
+- [00:04:34,580 - 00:04:35,880] I think he knows it right on the head.
+- [00:04:35,979 - 00:04:37,180] It's a perfect mix of both.
+- [00:04:37,280 - 00:04:38,580] But if you can't provide value, why do
+- [00:04:38,580 - 00:04:39,880] they want to connect you with other people?
+- [00:04:39,979 - 00:04:40,979] And why do they want to connect with you?
+- [00:04:41,080 - 00:04:42,880] What industry did you ultimately pursue a career in?
+- [00:04:42,979 - 00:04:44,479] I've been in medical for 26 years.
+- [00:04:44,580 - 00:04:45,580] I own my own business.
+- [00:04:45,680 - 00:04:46,980] And what was the most amount of money
+- [00:04:46,980 - 00:04:48,280] that you ever made in a single year?
+- [00:04:48,380 - 00:04:49,280] I'm not going to tell you that.
+- [00:04:49,380 - 00:04:50,180] My last question.
+- [00:04:50,280 - 00:04:50,680] A lot?
+- [00:04:50,780 - 00:04:50,979] Yeah.
+- [00:04:51,080 - 00:04:52,280] Working for yourself.
+- [00:04:52,380 - 00:04:53,280] It's not for everybody.
+- [00:04:53,380 - 00:04:54,780] The biggest thing I would
+- [00:04:54,780 - 00:04:56,180] tell any kid that's in college.
+- [00:04:56,180 - 00:04:58,380] I've owned my own stem cell company for 17 years.
+- [00:04:58,480 - 00:05:00,980] Got a kick-ass business doing over 4 million in revenue.
+- [00:05:01,080 - 00:05:02,780] And I was the guy that always took chances.
+- [00:05:02,880 - 00:05:04,430] If you're going to sit there and
+- [00:05:04,430 - 00:05:05,980] wait and never take chances, good luck.
+- [00:05:06,080 - 00:05:07,680] When you graduate, nobody cares,
+- [00:05:07,680 - 00:05:09,280] honestly, after the first year.
+- [00:05:09,380 - 00:05:10,780] The guy that immediately hires you, he
+- [00:05:10,780 - 00:05:12,180] doesn't care where you go to school.
+- [00:05:12,280 - 00:05:14,680] After that, it's you versus the rest of the world.
+- [00:05:14,780 - 00:05:16,880] I tell people that I train and hire.
+- [00:05:16,980 - 00:05:18,780] When you get out, I'm your competitor.
+- [00:05:18,880 - 00:05:20,580] I've done this for 27 years.
+- [00:05:20,680 - 00:05:23,480] And I will eat your freaking lunch away.
+- [00:05:23,580 - 00:05:24,080] Final thing.
+- [00:05:24,180 - 00:05:26,080] My old man died when I was 26 years old.
+- [00:05:26,180 - 00:05:27,230] He said a couple things to
+- [00:05:27,230 - 00:05:28,280] me, which I'll share them all.
+- [00:05:28,380 - 00:05:30,730] The number one thing was he said, I don't
+- [00:05:30,730 - 00:05:33,080] care if you sell paperclips or locomotives for a living.
+- [00:05:33,180 - 00:05:35,780] People buy from people they like.
+- [00:05:35,880 - 00:05:37,630] The other thing he said was,
+- [00:05:37,630 - 00:05:39,380] son, don't sweat the small stuff.
+- [00:05:39,480 - 00:05:41,180] Control the controllables.
+- [00:05:41,280 - 00:05:43,080] Don't sweat all the other bullshit in life.
+- [00:05:43,180 - 00:05:45,280] If you can't control it, don't worry about it.
+- [00:05:45,380 - 00:05:46,680] You have to really cherish those moments.
+- [00:05:46,780 - 00:05:49,180] What got cut was we ended up having like a 30-minute conversation with
+- [00:05:49,180 - 00:05:51,580] this guy about some of his best life and career advice for us.
+- [00:05:51,680 - 00:05:53,230] And just really all about that, like, you
+- [00:05:53,230 - 00:05:54,780] got to be a hammer at all times.
+- [00:05:54,880 - 00:05:55,480] It's like he said.
+- [00:05:55,580 - 00:05:56,080] It's like he said.
+- [00:05:56,280 - 00:05:57,780] The cream rises to the top.
+- [00:05:57,880 - 00:05:58,980] No fucking excuses.
+- [00:05:59,080 - 00:06:00,280] Anyways, he's hiring.
+- [00:06:00,380 - 00:06:02,480] So, anybody young and hungry, hit us up.
+- [00:06:02,580 - 00:06:03,280] We'll give you his number.
+- [00:06:03,380 - 00:06:05,980] Yeah, watch this guy's videos.
+- [00:06:06,080 - 00:06:06,980] Does a great job.
+- [00:06:07,080 - 00:06:08,080] Meets everybody.
+- [00:06:08,180 - 00:06:10,080] Everybody you could ever possibly want to meet.
+- [00:06:10,180 - 00:06:10,980] Keep hustling, bro.
+- [00:06:11,080 - 00:06:11,980] Hey, the school of hard knocks.
+- [00:06:12,080 - 00:06:12,580] You already know, man.
+- [00:06:12,680 - 00:06:13,080] Let's go.
+- [00:06:13,180 - 00:06:13,580] Let's go.
+- [00:06:13,680 - 00:06:15,580] What industry did you ultimately pursue a career in?
+- [00:06:15,680 - 00:06:16,980] I was in the military for a few years.
+- [00:06:17,080 - 00:06:17,780] Got out of the military.
+- [00:06:17,880 - 00:06:19,980] Dove right into consulting and project management.
+- [00:06:20,080 - 00:06:20,980] But the whole time, I
+- [00:06:20,980 - 00:06:21,880] always had something on the side.
+- [00:06:21,980 - 00:06:23,730] I always had some form of
+- [00:06:23,730 - 00:06:25,480] entrepreneurial mindset, no matter what I do.
+- [00:06:25,480 - 00:06:27,080] So, when I was in the military, I'd buy a
+- [00:06:27,080 - 00:06:28,680] house, you know, at every duty station I was at.
+- [00:06:28,780 - 00:06:30,280] And without even realizing, I
+- [00:06:30,280 - 00:06:31,780] was becoming somewhat of an investor.
+- [00:06:31,880 - 00:06:33,680] You know, I'd buy a house at one military base.
+- [00:06:33,780 - 00:06:34,980] I had to change duty stations.
+- [00:06:35,080 - 00:06:36,680] And I'd buy another house and I'd rent it out.
+- [00:06:36,780 - 00:06:37,730] And I ended up doing
+- [00:06:37,730 - 00:06:38,680] that until I acquired several houses.
+- [00:06:38,780 - 00:06:40,230] And being that they were all on military
+- [00:06:40,230 - 00:06:41,680] bases, there's always someone there to rent it out.
+- [00:06:41,780 - 00:06:42,730] How many properties do you currently
+- [00:06:42,730 - 00:06:43,680] have under your portfolio right now?
+- [00:06:43,780 - 00:06:44,680] Right now, I have four.
+- [00:06:44,780 - 00:06:46,330] But, you know, I flipped houses
+- [00:06:46,330 - 00:06:47,880] in between and done things like that.
+- [00:06:47,980 - 00:06:50,280] And I'm getting ready to offload all of them.
+- [00:06:50,380 - 00:06:53,080] Right now, I'm kind of a cash poor, asset rich.
+- [00:06:53,180 - 00:06:54,180] And I want to flip
+- [00:06:54,180 - 00:06:55,180] that for the recession that's coming.
+- [00:06:55,280 - 00:06:55,380] Right.
+- [00:06:55,580 - 00:06:59,180] So that I can go all in on certain things that are really going
+- [00:06:59,180 - 00:07:02,780] to 5, 6, 7, 8, 9, 10x in the next, you know, year or so.
+- [00:07:02,880 - 00:07:03,980] What was the most amount of money
+- [00:07:03,980 - 00:07:05,080] that you ever made in a single year?
+- [00:07:05,180 - 00:07:08,280] Somewhere between $500,000 and $600,000.
+- [00:07:08,380 - 00:07:08,780] Yeah.
+- [00:07:08,880 - 00:07:09,180] Yeah.
+- [00:07:09,280 - 00:07:10,080] That's incredible, man.
+- [00:07:10,180 - 00:07:10,280] Thanks.
+- [00:07:10,380 - 00:07:11,930] In your opinion, right, what is the
+- [00:07:11,930 - 00:07:13,480] blueprint to becoming a millionaire in today's world?
+- [00:07:13,580 - 00:07:14,680] So, in 60 seconds.
+- [00:07:14,780 - 00:07:15,980] In 60 seconds, I can't really say.
+- [00:07:16,080 - 00:07:17,180] But what I would say is create.
+- [00:07:17,280 - 00:07:18,580] If you want to be a millionaire, create.
+- [00:07:18,680 - 00:07:20,980] You can't just wake up and go with
+- [00:07:20,980 - 00:07:23,280] the flow or do whatever you normally do.
+- [00:07:23,380 - 00:07:24,180] You have to have a plan.
+- [00:07:24,280 - 00:07:25,080] Live strategically.
+- [00:07:25,180 - 00:07:25,280] Part of that is to be a millionaire.
+- [00:07:25,280 - 00:07:26,880] And part of that strategic plan should be to create.
+- [00:07:26,979 - 00:07:27,479] Create something.
+- [00:07:27,580 - 00:07:28,679] Create a YouTube channel.
+- [00:07:28,780 - 00:07:29,880] Create a product.
+- [00:07:29,979 - 00:07:31,179] Find something that's broken and
+- [00:07:31,179 - 00:07:32,380] find a solution to fix it.
+- [00:07:32,479 - 00:07:35,080] Or recreate something that's already working well.
+- [00:07:35,179 - 00:07:37,229] If you see someone doing something well, try to recreate it
+- [00:07:37,229 - 00:07:39,280] and do it in your own format or your own way.
+- [00:07:39,380 - 00:07:40,580] Add your own spin and your
+- [00:07:40,580 - 00:07:41,780] own knowledge and twist to it.
+- [00:07:41,880 - 00:07:43,080] Find something that's broken and fix it.
+- [00:07:43,179 - 00:07:45,029] Find something that's working well and
+- [00:07:45,029 - 00:07:46,880] replicate it and be strategic about both.
+- [00:07:46,979 - 00:07:47,879] What was the importance of
+- [00:07:47,879 - 00:07:48,780] taking risk at an early age?
+- [00:07:48,880 - 00:07:50,080] Like, what kind of opportunities and
+- [00:07:50,080 - 00:07:51,280] doors did that open up for you?
+- [00:07:51,380 - 00:07:53,130] I went to Texas A&M for construction science
+- [00:07:53,130 - 00:07:54,880] and I remember sitting in the classroom, you know,
+- [00:07:54,880 - 00:07:56,980] looking at everyone in the class and knowing, like,
+- [00:07:56,980 - 00:07:59,080] what was going to come after, like, the job.
+- [00:07:59,180 - 00:08:00,880] I've already been on an internship and kind of
+- [00:08:00,880 - 00:08:02,580] knew, like, what it would be like after that.
+- [00:08:02,680 - 00:08:04,230] I was sitting there in the classroom and I
+- [00:08:04,230 - 00:08:05,780] just thought to myself, like, I just got to jump.
+- [00:08:05,880 - 00:08:07,680] My business that I had already started didn't
+- [00:08:07,680 - 00:08:09,480] even hit any big strides yet or anything,
+- [00:08:09,580 - 00:08:10,580] but I just thought to
+- [00:08:10,580 - 00:08:11,580] myself, I can't work for someone.
+- [00:08:11,680 - 00:08:14,030] I can't be, like, in this environment where I'm, like, told
+- [00:08:14,030 - 00:08:16,380] what to do and just sit there and work for someone else.
+- [00:08:16,480 - 00:08:19,030] And so I just kind of took the risk and
+- [00:08:19,030 - 00:08:21,580] jumped and my junk removal company turned into a demolition company,
+- [00:08:21,680 - 00:08:23,230] into a land clearing company and I'm
+- [00:08:23,230 - 00:08:24,780] only 28 and started it at 21.
+- [00:08:24,880 - 00:08:26,680] And I have two other businesses in addition to that.
+- [00:08:26,780 - 00:08:28,030] What has been the most amount of money
+- [00:08:28,030 - 00:08:29,280] that you ever made in a single year?
+- [00:08:29,380 - 00:08:32,679] I would say about $650,000. Every month it's different.
+- [00:08:32,780 - 00:08:34,280] Some months I'll make $75,000 and
+- [00:08:34,280 - 00:08:35,780] the next month I make $10,000.
+- [00:08:35,880 - 00:08:37,679] And you just, you never know. That's one of
+- [00:08:37,679 - 00:08:39,480] the things too is like this all the time.
+- [00:08:39,580 - 00:08:41,780] So you're 28 years old. What has been
+- [00:08:41,780 - 00:08:43,980] your blueprint to becoming a millionaire in today's world?
+- [00:08:44,080 - 00:08:45,880] Leverage real estate and maybe get, like,
+- [00:08:45,880 - 00:08:47,680] a line of credit to even purchase it.
+- [00:08:47,780 - 00:08:48,780] Or if you can get your
+- [00:08:48,780 - 00:08:49,780] hands on, like, an asset like that,
+- [00:08:49,880 - 00:08:51,280] I think that's probably one of the most
+- [00:08:51,280 - 00:08:52,680] important things to do at an early age
+- [00:08:52,780 - 00:08:54,580] because it'll just keep on appreciating over time
+- [00:08:54,580 - 00:08:55,830] and it'll help you with your
+- [00:08:55,830 - 00:08:57,080] credit as you're paying that off
+- [00:08:57,180 - 00:08:58,880] and then maybe you can get renters or whatever.
+- [00:08:58,980 - 00:08:59,980] And at least you have
+- [00:08:59,980 - 00:09:00,980] an asset regardless of whatever happens.
+- [00:09:01,080 - 00:09:02,880] If your business fails, whatever, you have something.
+- [00:09:02,980 - 00:09:03,930] Even if you get your parents
+- [00:09:03,930 - 00:09:04,880] to help you get your first house,
+- [00:09:04,980 - 00:09:06,580] I think a piece of real estate is key.
+- [00:09:06,680 - 00:09:08,680] Second, I would say have a plan and
+- [00:09:08,680 - 00:09:10,680] think about, like, where you want to end up
+- [00:09:10,780 - 00:09:12,280] and just work backwards from there.
+- [00:09:12,380 - 00:09:13,780] If I want to build pools and
+- [00:09:13,780 - 00:09:15,180] it takes all of these different mechanical,
+- [00:09:15,280 - 00:09:16,530] electrical, plumbing, gunite,
+- [00:09:16,530 - 00:09:17,780] shotcrete, concrete, this, that,
+- [00:09:17,880 - 00:09:18,880] who does these things? Where are
+- [00:09:18,880 - 00:09:19,880] they at? How good are they?
+- [00:09:19,980 - 00:09:21,280] There's a lot of different pieces to the puzzle,
+- [00:09:21,380 - 00:09:22,880] but just starting at the end and working
+- [00:09:22,880 - 00:09:24,380] your way toward where you want to be.
+- [00:09:24,580 - 00:09:25,730] And then, of course, the first
+- [00:09:25,730 - 00:09:26,880] step is to build a plan.
+- [00:09:26,980 - 00:09:28,880] What industry did you ultimately pursue a career in?
+- [00:09:28,980 - 00:09:30,480] Well, lucky, I was in law enforcement.
+- [00:09:30,580 - 00:09:31,730] I was with the Los Angeles
+- [00:09:31,730 - 00:09:32,880] Police Department for about 30 years.
+- [00:09:32,980 - 00:09:34,430] And what was the most amount of money
+- [00:09:34,430 - 00:09:35,880] that you ever made in a single year?
+- [00:09:35,980 - 00:09:38,380] Well, I did celebrity weddings.
+- [00:09:38,480 - 00:09:41,880] So I think at one point I was topping $300,000.
+- [00:09:43,080 - 00:09:44,180] So what is your best financial
+- [00:09:44,180 - 00:09:45,280] advice for the younger generation today
+- [00:09:45,380 - 00:09:46,430] that you or someone told you
+- [00:09:46,430 - 00:09:47,480] when you were coming out of school?
+- [00:09:47,580 - 00:09:48,480] Invest.
+- [00:09:48,580 - 00:09:50,830] My training officer, when I first came on, advised
+- [00:09:50,830 - 00:09:53,080] me to not only just depend on the pension,
+- [00:09:53,180 - 00:09:54,480] but invest in diversity.
+- [00:09:54,680 - 00:09:55,580] I didn't have a say in it.
+- [00:09:55,680 - 00:09:57,780] He told me, you're going to take it
+- [00:09:57,780 - 00:09:59,880] and divert and have a pension in a divert,
+- [00:09:59,980 - 00:10:01,980] we call it deferred comp program.
+- [00:10:02,080 - 00:10:03,630] So you have two little buckets that
+- [00:10:03,630 - 00:10:05,180] you can pull out when you get older.
+- [00:10:05,280 - 00:10:07,630] So an LAPD, a police officer made
+- [00:10:07,630 - 00:10:09,980] over $300,000 doing celebrity weddings and security.
+- [00:10:10,080 - 00:10:11,280] Kind of crazy that you can actually
+- [00:10:11,280 - 00:10:12,480] make that kind of money in law enforcement.
+- [00:10:12,580 - 00:10:13,380] Question for you.
+- [00:10:13,480 - 00:10:14,080] I wanted to know if we
+- [00:10:14,080 - 00:10:14,680] could do a quick interview with you,
+- [00:10:14,780 - 00:10:16,880] ask you a few questions on how you became successful
+- [00:10:16,980 - 00:10:18,180] and your advice for the younger generation.
+- [00:10:18,280 - 00:10:18,780] Sure.
+- [00:10:18,880 - 00:10:19,880] Appreciate that. Thank you.
+- [00:10:19,980 - 00:10:20,780] I appreciate that.
+- [00:10:20,880 - 00:10:22,780] What industry did you ultimately pursue a career in?
+- [00:10:22,880 - 00:10:24,080] I have an electrical engineering degree,
+- [00:10:24,080 - 00:10:26,680] but I work in cybersecurity and privacy right now.
+- [00:10:26,780 - 00:10:28,130] And what has been the most amount of
+- [00:10:28,130 - 00:10:29,480] money that you ever made in a single year?
+- [00:10:31,080 - 00:10:31,480] Yeah.
+- [00:10:31,580 - 00:10:32,880] What was the best financial decision
+- [00:10:32,880 - 00:10:34,180] you ever made throughout your lifetime?
+- [00:10:34,280 - 00:10:35,780] I don't know if I would call it financial decision,
+- [00:10:35,880 - 00:10:37,830] but the best decision in my
+- [00:10:37,830 - 00:10:39,780] lifetime was to major in engineering because,
+- [00:10:39,880 - 00:10:40,980] you know, even though you have an engineering degree,
+- [00:10:41,080 - 00:10:42,680] you can just do so many other things.
+- [00:10:42,780 - 00:10:44,280] You don't have to be an engineer.
+- [00:10:44,380 - 00:10:45,880] It just leads to a lot of
+- [00:10:45,880 - 00:10:47,380] different areas that you normally wouldn't have
+- [00:10:47,480 - 00:10:49,180] because it teaches you a lot about problem solving.
+- [00:10:49,280 - 00:10:49,580] Absolutely.
+- [00:10:49,680 - 00:10:50,480] Thank you so much for your time, sir.
+- [00:10:50,580 - 00:10:51,080] I appreciate that.
+- [00:10:51,180 - 00:10:51,880] I loved your answers.
+- [00:10:51,980 - 00:10:52,480] Thank you very much.
+- [00:10:52,580 - 00:10:53,180] Thank you.
+- [00:10:53,280 - 00:10:53,980] Thank you.
+- [00:10:54,080 - 00:10:55,880] And stay tuned for tons of amazing content to come.
+- [00:10:55,980 - 00:10:57,230] And click this video right here
+- [00:10:57,230 - 00:10:58,480] to watch us going all around Houston
+- [00:10:58,580 - 00:11:00,180] asking millionaires how they became successful.
