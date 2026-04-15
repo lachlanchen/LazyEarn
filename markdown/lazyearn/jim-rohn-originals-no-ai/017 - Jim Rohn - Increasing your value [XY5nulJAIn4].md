@@ -1,0 +1,298 @@
+# Transcript
+
+Source: lazyearn/jim-rohn-originals-no-ai/017 - Jim Rohn - Increasing your value [XY5nulJAIn4].webm
+
+- [00:00:00,000 - 00:00:05,220] If you will change, everything will change for you.
+- [00:00:06,240 - 00:00:07,920] You don't have to change what's outside.
+- [00:00:08,360 - 00:00:10,000] All you've got to change is what's inside.
+- [00:00:12,160 - 00:00:14,480] To have more, you simply have to become more.
+- [00:00:17,480 - 00:00:19,300] And then he said, don't wish it was easier.
+- [00:00:19,420 - 00:00:20,240] Wish you were better.
+- [00:00:21,680 - 00:00:23,100] Don't wish for less problems.
+- [00:00:23,240 - 00:00:24,120] Wish for more skills.
+- [00:00:25,900 - 00:00:28,880] Start working on yourself, making these personal changes.
+- [00:00:28,880 - 00:00:30,480] And he said, it'll all change for you.
+- [00:00:31,980 - 00:00:33,940] So let's talk a little bit about personal development.
+- [00:00:34,339 - 00:00:38,260] That extraordinary adventure I undertook starting at age 25.
+- [00:00:38,900 - 00:00:40,400] And I've never ceased that adventure.
+- [00:00:41,540 - 00:00:43,280] I'm still going for it in the 90s.
+- [00:00:43,320 - 00:00:44,360] I want to get better and better.
+- [00:00:45,099 - 00:00:46,819] I want my craft to get
+- [00:00:46,819 - 00:00:48,540] better, my business operations to get better,
+- [00:00:48,620 - 00:00:49,900] the things I do to get better.
+- [00:00:50,580 - 00:00:52,599] Because once I picked up the simple formula,
+- [00:00:53,320 - 00:00:55,120] I'm telling you it's easy to figure out where
+- [00:00:55,120 - 00:00:56,920] the problem is if you go to work on it.
+- [00:00:57,239 - 00:00:58,860] Now, let's talk about personal development.
+- [00:00:58,940 - 00:01:00,920] And in helping kids understand personal
+- [00:01:00,920 - 00:01:02,900] development, I always start with money.
+- [00:01:05,300 - 00:01:07,120] Now, money is not the only place to start.
+- [00:01:07,280 - 00:01:09,040] Money certainly isn't the only value,
+- [00:01:09,040 - 00:01:10,800] but we've all got to start somewhere.
+- [00:01:11,020 - 00:01:12,120] Money is something you can count.
+- [00:01:12,960 - 00:01:14,240] Kids are interested in money.
+- [00:01:15,520 - 00:01:18,000] A lot of things are a little tougher to measure.
+- [00:01:18,760 - 00:01:20,600] But economics is pretty easy, right?
+- [00:01:20,680 - 00:01:21,540] Because you can count.
+- [00:01:23,040 - 00:01:24,140] Somebody says, how are you doing?
+- [00:01:24,220 - 00:01:24,860] I don't know.
+- [00:01:25,360 - 00:01:26,180] Let's count.
+- [00:01:27,680 - 00:01:28,860] Now, this is not the only way.
+- [00:01:28,940 - 00:01:29,900] You can only count.
+- [00:01:30,140 - 00:01:31,140] I understand that.
+- [00:01:31,220 - 00:01:32,820] There's a lot of other things to count.
+- [00:01:33,480 - 00:01:36,030] But to see if there may be some errors
+- [00:01:36,030 - 00:01:38,580] in your judgment and lack of disciplines in your life,
+- [00:01:38,660 - 00:01:42,539] we might as well start with money.
+- [00:01:42,980 - 00:01:45,480] Because it's so easy to count.
+- [00:01:46,260 - 00:01:48,720] So let's just start there and see
+- [00:01:48,720 - 00:01:51,180] whether or not maybe we have messed up.
+- [00:01:51,780 - 00:01:52,280] Okay.
+- [00:01:52,920 - 00:01:54,520] So here's how I explain it to kids.
+- [00:01:56,080 - 00:01:58,860] We get paid for bringing value to the marketplace.
+- [00:01:59,820 - 00:02:02,780] Key to understanding economics.
+- [00:02:03,440 - 00:02:06,280] We get paid for bringing value to the marketplace.
+- [00:02:09,340 - 00:02:11,660] Marketplace is also described as reality.
+- [00:02:14,660 - 00:02:15,880] Reality, the marketplace.
+- [00:02:17,380 - 00:02:19,140] Now, it takes time.
+- [00:02:19,340 - 00:02:22,060] It takes time to bring value to the marketplace.
+- [00:02:22,060 - 00:02:23,560] But we don't get paid for time.
+- [00:02:24,480 - 00:02:25,810] It's very important for kids
+- [00:02:25,810 - 00:02:27,140] to understand, as well as adults.
+- [00:02:27,620 - 00:02:28,840] We don't get paid for time.
+- [00:02:28,860 - 00:02:31,250] Mistakenly, the man says, well, I'm
+- [00:02:31,250 - 00:02:33,640] making about $20 for an hour.
+- [00:02:33,840 - 00:02:34,740] Not true.
+- [00:02:36,000 - 00:02:36,580] Not true.
+- [00:02:36,640 - 00:02:38,000] If that was true, you could just
+- [00:02:38,000 - 00:02:39,360] stay home, have them send your money.
+- [00:02:40,480 - 00:02:41,180] No, it's not true.
+- [00:02:41,260 - 00:02:42,600] You don't get paid for the hour.
+- [00:02:43,120 - 00:02:45,370] You get paid for the
+- [00:02:45,370 - 00:02:47,620] value you put in the time.
+- [00:02:48,500 - 00:02:49,880] So we don't get paid for time.
+- [00:02:49,920 - 00:02:50,820] We get paid for value.
+- [00:02:51,340 - 00:02:52,770] Now, since that's true, here's one
+- [00:02:52,770 - 00:02:54,200] of the key questions of the afternoon.
+- [00:02:54,200 - 00:02:57,940] Is it possible to become twice as valuable?
+- [00:02:58,860 - 00:03:02,640] And make twice as much money in the same time?
+- [00:03:04,800 - 00:03:06,730] Is it possible to become three
+- [00:03:06,730 - 00:03:08,660] times as valuable as you now are?
+- [00:03:09,300 - 00:03:11,160] And make three times as
+- [00:03:11,160 - 00:03:13,020] much money in the same time?
+- [00:03:13,060 - 00:03:13,580] Is that possible?
+- [00:03:15,460 - 00:03:16,180] Of course.
+- [00:03:16,280 - 00:03:17,450] If you want to really emphasize
+- [00:03:17,450 - 00:03:18,620] something, that's a good phrase to it.
+- [00:03:19,320 - 00:03:20,120] Of course.
+- [00:03:20,120 - 00:03:21,760] Of course.
+- [00:03:23,800 - 00:03:24,320] Okay.
+- [00:03:25,800 - 00:03:26,320] Now.
+- [00:03:27,480 - 00:03:28,720] All you have to do.
+- [00:03:28,860 - 00:03:30,300] To earn more money in the same time.
+- [00:03:30,380 - 00:03:34,040] Is simply become more valuable.
+- [00:03:35,500 - 00:03:36,280] America's unique.
+- [00:03:36,640 - 00:03:37,660] It's a ladder to climb.
+- [00:03:38,640 - 00:03:39,420] Starts down here.
+- [00:03:39,480 - 00:03:39,660] What?
+- [00:03:39,740 - 00:03:40,720] About $4 an hour.
+- [00:03:43,180 - 00:03:44,040] Big argument.
+- [00:03:44,600 - 00:03:45,960] Last year in Congress.
+- [00:03:46,800 - 00:03:48,320] About the starting place.
+- [00:03:48,660 - 00:03:49,480] Should be five.
+- [00:03:49,560 - 00:03:49,980] Should be five.
+- [00:03:50,040 - 00:03:50,540] Should be five.
+- [00:03:50,840 - 00:03:51,360] Well, no.
+- [00:03:51,460 - 00:03:52,520] It doesn't need to be five.
+- [00:03:53,600 - 00:03:54,860] Why not start with four?
+- [00:03:54,980 - 00:03:55,800] It's a ladder.
+- [00:03:57,800 - 00:03:58,360] Right.
+- [00:03:58,360 - 00:03:59,360] This is not a bed.
+- [00:03:59,460 - 00:04:00,860] This is a ladder.
+- [00:04:00,960 - 00:04:02,360] It's a ladder to climb.
+- [00:04:04,960 - 00:04:05,960] Starts at $4.
+- [00:04:06,040 - 00:04:07,360] Now somebody said, well, should be five.
+- [00:04:07,440 - 00:04:08,040] Should be five.
+- [00:04:08,740 - 00:04:09,740] Well, maybe.
+- [00:04:09,840 - 00:04:11,560] If you're going to stay at the bottom for
+- [00:04:11,560 - 00:04:13,280] the rest of your life, it probably should be five.
+- [00:04:17,300 - 00:04:19,040] But that's kind of a pitiful way to live.
+- [00:04:19,120 - 00:04:20,480] Start and not grow.
+- [00:04:21,279 - 00:04:23,220] Start and not change.
+- [00:04:23,860 - 00:04:25,880] Start and not become more valuable.
+- [00:04:26,140 - 00:04:28,140] Hey, the whole scenario of life is to start.
+- [00:04:28,140 - 00:04:29,760] Start number one and what?
+- [00:04:29,820 - 00:04:31,919] Become more valuable number two.
+- [00:04:32,700 - 00:04:34,320] So America is a ladder to climb.
+- [00:04:34,380 - 00:04:35,580] Starts at $4 an hour.
+- [00:04:35,940 - 00:04:37,420] And the more valuable you become,
+- [00:04:37,420 - 00:04:38,900] you just keep moving up the ladder.
+- [00:04:38,940 - 00:04:40,039] Top income last year.
+- [00:04:40,120 - 00:04:40,320] What?
+- [00:04:40,380 - 00:04:41,219] Fifty two million.
+- [00:04:42,640 - 00:04:43,500] Guy that runs Disney.
+- [00:04:46,140 - 00:04:49,200] Would a company pay somebody for one year's work?
+- [00:04:49,240 - 00:04:50,240] Fifty two million dollars.
+- [00:04:50,280 - 00:04:53,219] And the answer is, of course, this
+- [00:04:53,219 - 00:04:56,159] is one of those, of course, places.
+- [00:04:56,800 - 00:04:58,080] Of course.
+- [00:04:58,240 - 00:05:00,160] If you help a company make
+- [00:05:00,160 - 00:05:02,080] a billion dollars, would they pay you?
+- [00:05:02,140 - 00:05:02,940] Fifty two million?
+- [00:05:03,000 - 00:05:07,140] The answer is, of course, it's chicken feed.
+- [00:05:07,200 - 00:05:08,760] I mean, it's not much money.
+- [00:05:10,580 - 00:05:11,880] Now, why that much money?
+- [00:05:11,940 - 00:05:16,680] Because he has become so valuable.
+- [00:05:18,979 - 00:05:20,089] Now, why would we pay
+- [00:05:20,089 - 00:05:21,200] somebody only four dollars an hour?
+- [00:05:23,020 - 00:05:26,140] They're not very valuable to the marketplace.
+- [00:05:26,200 - 00:05:27,900] Now, we've got to make that distinction to the marketplace.
+- [00:05:27,900 - 00:05:29,069] Might be a valuable brother,
+- [00:05:29,069 - 00:05:30,239] a valuable member of the community,
+- [00:05:30,299 - 00:05:32,099] valuable member of the church, valuable
+- [00:05:32,099 - 00:05:33,900] member in the sight of God,
+- [00:05:33,960 - 00:05:36,460] to the human family, of course, those kind of values.
+- [00:05:36,520 - 00:05:39,000] But to the marketplace, which is called what?
+- [00:05:39,060 - 00:05:40,140] Reality.
+- [00:05:40,200 - 00:05:43,320] Reality is if you're not very
+- [00:05:43,320 - 00:05:46,440] valuable, you don't get much money.
+- [00:05:49,200 - 00:05:51,960] Those are called the facts.
+- [00:05:54,960 - 00:05:56,159] I mean, that's how that is.
+- [00:05:56,239 - 00:05:57,799] But the reality is,
+- [00:05:57,900 - 00:06:00,239] if you're not very valuable, you don't get much money.
+- [00:06:00,299 - 00:06:02,200] Well, then how do you get more money?
+- [00:06:02,260 - 00:06:02,940] Simple answer.
+- [00:06:03,000 - 00:06:04,400] Somebody says, well, I'll go on strike for more.
+- [00:06:04,460 - 00:06:10,200] Well, here's a major problem with that.
+- [00:06:10,280 - 00:06:12,239] Here's a major problem with that.
+- [00:06:12,299 - 00:06:14,460] You can't get rich by demand.
+- [00:06:18,520 - 00:06:21,520] Somebody says, well, I'm waiting for a raise.
+- [00:06:21,580 - 00:06:23,770] I'm telling you, it's easier to
+- [00:06:23,770 - 00:06:25,960] climb than to wait for a raise.
+- [00:06:26,039 - 00:06:27,900] Why not just become more valuable?
+- [00:06:27,960 - 00:06:30,330] Well, rather than wait, I'm telling you,
+- [00:06:30,330 - 00:06:32,700] that's the key to all good things.
+- [00:06:32,760 - 00:06:35,900] Becoming more valuable.
+- [00:06:35,960 - 00:06:40,599] Why would we pay somebody $400 an hour?
+- [00:06:40,659 - 00:06:49,260] They've become more valuable to the marketplace.
+- [00:06:49,320 - 00:06:51,020] See how this works?
+- [00:06:51,080 - 00:06:53,539] I'm telling you, this stuff is so easy.
+- [00:06:53,599 - 00:06:55,479] This is America.
+- [00:06:55,539 - 00:06:57,719] This is a ladder.
+- [00:06:57,960 - 00:07:00,000] How far is it from four to five?
+- [00:07:00,060 - 00:07:01,000] I'm telling you, it's not far.
+- [00:07:01,060 - 00:07:03,080] Four to $5 an hour.
+- [00:07:03,140 - 00:07:04,710] If you work for McDonald's, haul out
+- [00:07:04,710 - 00:07:06,280] the trash, they'll pay you $5 an hour.
+- [00:07:06,340 - 00:07:07,810] If you whistle while you haul out
+- [00:07:07,810 - 00:07:09,280] the trash, they'll pay you $5 an hour.
+- [00:07:09,340 - 00:07:10,879] I'm telling you, you'll get an
+- [00:07:10,879 - 00:07:12,419] extra dollar just for a good attitude.
+- [00:07:12,479 - 00:07:13,820] Yay, McDonald's.
+- [00:07:13,880 - 00:07:15,479] Wear the hat.
+- [00:07:15,539 - 00:07:18,080] Incredible.
+- [00:07:19,679 - 00:07:21,929] And then you just keep becoming
+- [00:07:21,929 - 00:07:24,179] more valuable, more valuable, more valuable.
+- [00:07:24,239 - 00:07:26,580] I got a telephone call five years ago.
+- [00:07:26,640 - 00:07:27,840] Company said, we're ready to expand.
+- [00:07:27,859 - 00:07:30,239] We need some help.
+- [00:07:30,299 - 00:07:34,619] I was sort of semi-retired.
+- [00:07:34,679 - 00:07:37,960] Looking for the next exotic beach.
+- [00:07:38,020 - 00:07:39,770] They said, no, no, Mr. Rohn,
+- [00:07:39,770 - 00:07:41,520] we got a project for you.
+- [00:07:41,580 - 00:07:42,659] Going to expand internationally.
+- [00:07:42,719 - 00:07:44,940] We could use your help.
+- [00:07:45,000 - 00:07:48,000] Next little while, we'll add some millions
+- [00:07:48,000 - 00:07:51,000] to your fortune, make it worth your while.
+- [00:07:51,059 - 00:07:53,799] I said, okay.
+- [00:07:53,859 - 00:07:57,020] I thought later, isn't that interesting that they called me?
+- [00:07:57,080 - 00:07:57,409] I said, okay. I thought later,
+- [00:07:57,409 - 00:07:57,739] isn't that interesting that they called me?
+- [00:07:57,840 - 00:07:58,319] I said, okay. I thought later,
+- [00:07:58,319 - 00:07:58,799] isn't that interesting that they called me?
+- [00:07:58,859 - 00:08:00,560] My second thought was, of course they'd call me.
+- [00:08:00,619 - 00:08:01,599] Who else would they call?
+- [00:08:01,659 - 00:08:06,479] I mean, you know, I can get the job done.
+- [00:08:06,539 - 00:08:11,000] Now, how come I got a telephone call worth millions?
+- [00:08:11,060 - 00:08:13,599] I had become valuable.
+- [00:08:13,659 - 00:08:15,419] Now, I'm a farm boy from Idaho.
+- [00:08:15,479 - 00:08:17,479] I was raised in obscurity.
+- [00:08:17,539 - 00:08:19,219] One year of college, and
+- [00:08:19,219 - 00:08:20,900] I thought I was thoroughly educated.
+- [00:08:20,960 - 00:08:22,580] Made all kinds of mistakes galore.
+- [00:08:22,640 - 00:08:24,520] At age 25, the creditors are calling me saying,
+- [00:08:24,520 - 00:08:26,400] hey, you told us the check was in the mail.
+- [00:08:26,460 - 00:08:27,520] I got pennies in my pocket.
+- [00:08:27,520 - 00:08:28,520] I got nothing in the bank.
+- [00:08:28,580 - 00:08:29,960] I'm behind on my promises.
+- [00:08:30,020 - 00:08:31,770] How come I get a telephone call
+- [00:08:31,770 - 00:08:33,520] five years ago and it's worth millions?
+- [00:08:33,579 - 00:08:34,579] I changed.
+- [00:08:34,640 - 00:08:35,659] I changed.
+- [00:08:35,720 - 00:08:39,000] I turned my life around.
+- [00:08:39,059 - 00:08:42,659] Is it possible to become worth millions?
+- [00:08:42,720 - 00:08:45,040] Speaking economically, now, there's a lot of
+- [00:08:45,040 - 00:08:47,360] values to become, but let's just talk economics.
+- [00:08:47,420 - 00:08:48,980] Is it possible to become that valuable?
+- [00:08:49,040 - 00:08:52,160] And the answer is, of course.
+- [00:08:52,220 - 00:08:52,900] Of course.
+- [00:08:52,960 - 00:08:54,340] Now, let me give you the secret.
+- [00:08:54,400 - 00:08:55,680] Shoaff said, here's the secret, Mr. Rohn.
+- [00:08:55,740 - 00:08:57,319] Learn to work harder on your life.
+- [00:08:57,320 - 00:08:58,970] Learn to work harder on yourself
+- [00:08:58,970 - 00:09:00,620] than you do on your job.
+- [00:09:00,680 - 00:09:03,320] Once I got that, it turned my life around.
+- [00:09:03,380 - 00:09:08,730] Learn to work harder on yourself
+- [00:09:08,730 - 00:09:14,080] than you do on your job.
+- [00:09:14,140 - 00:09:16,720] He said, if you work hard
+- [00:09:16,720 - 00:09:19,300] on your job, you'll make a living.
+- [00:09:19,360 - 00:09:22,100] If you work hard on
+- [00:09:22,100 - 00:09:24,840] yourself, you can make a fortune.
+- [00:09:24,900 - 00:09:26,340] Wow.
+- [00:09:26,340 - 00:09:27,970] If you would have known me at age 25,
+- [00:09:27,970 - 00:09:29,600] you would have said, Jim Rohn's a hard worker.
+- [00:09:29,660 - 00:09:31,940] If you'd have known me, you'd have said that.
+- [00:09:32,000 - 00:09:33,280] I'm the guy, I don't mind coming a
+- [00:09:33,280 - 00:09:34,560] little bit early, staying a little bit late.
+- [00:09:34,620 - 00:09:35,420] I don't mind that.
+- [00:09:35,480 - 00:09:38,060] You'd have said, well, Jim Rohn's a hard worker.
+- [00:09:38,120 - 00:09:40,160] You'd say, well, how come he's got pennies in his
+- [00:09:40,160 - 00:09:42,200] pocket and nothing in the bank and behind on his promises?
+- [00:09:42,260 - 00:09:45,940] Well, I was a hard worker, but I
+- [00:09:45,940 - 00:09:49,620] was working hard on my job, not on myself.
+- [00:09:49,680 - 00:09:52,930] I'm telling you, if you'll learn that simple little principle and start
+- [00:09:52,930 - 00:09:56,180] the process today, latest tomorrow, I'll give you tonight to think it over.
+- [00:09:56,180 - 00:10:01,230] And start this whole process of personal development, work
+- [00:10:01,230 - 00:10:06,280] on yourself, make yourself more valuable to the marketplace.
+- [00:10:06,339 - 00:10:11,059] I'm telling you, you can so dynamically change your income and economics is
+- [00:10:11,059 - 00:10:15,780] the least of the values that you can start earning in terms of equity.
+- [00:10:15,839 - 00:10:19,789] If you'll start working harder on yourself than you do
+- [00:10:19,789 - 00:10:23,740] on your job, work hard on yourself and develop the skills.
+- [00:10:23,800 - 00:10:25,979] Work hard on yourself and develop the graces.
+- [00:10:26,180 - 00:10:27,930] All of the stuff necessary to
+- [00:10:27,930 - 00:10:29,680] become more valuable to the marketplace.
+- [00:10:29,739 - 00:10:32,079] I'm telling you, your whole life can explode into change.
+- [00:10:32,140 - 00:10:33,719] Promotions, no problem.
+- [00:10:33,780 - 00:10:35,330] Becoming more valuable to the
+- [00:10:35,330 - 00:10:36,880] company, I'm telling you, no problem.
+- [00:10:36,939 - 00:10:38,680] Money, no problem.
+- [00:10:38,739 - 00:10:40,120] Economics, no problem.
+- [00:10:40,180 - 00:10:41,520] Future, no problem.
+- [00:10:41,579 - 00:10:43,380] If you just go to work on the right thing.
+- [00:10:43,439 - 00:10:45,339] Not get things out there to change.
+- [00:10:45,400 - 00:10:46,839] Don't try to change the seed.
+- [00:10:46,900 - 00:10:48,140] Don't change the soil.
+- [00:10:48,199 - 00:10:49,719] Don't change the sunshine.
+- [00:10:49,780 - 00:10:51,040] Don't change the rain.
+- [00:10:51,099 - 00:10:53,520] Don't change the mix of seasons.
+- [00:10:53,579 - 00:10:56,180] Let the miracle of everything that's available work for you.
+- [00:10:56,239 - 00:10:57,939] And start working on the inside.
+- [00:10:58,000 - 00:10:58,839] Work on your philosophy.
+- [00:10:58,900 - 00:11:00,120] Work on your attitude.
+- [00:11:00,180 - 00:11:01,420] Work on your personality.
+- [00:11:01,479 - 00:11:02,739] Work on your language.
+- [00:11:02,800 - 00:11:04,699] Work on the gift of communication.
+- [00:11:04,760 - 00:11:06,120] Work on all of your abilities.
+- [00:11:06,180 - 00:11:08,800] And if you'll start making those personal changes,
+- [00:11:08,800 - 00:11:11,420] I'm telling you, everything will change for you.
+- [00:11:11,479 - 00:11:12,500] Now, let me give you another.
