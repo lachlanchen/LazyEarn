@@ -1,0 +1,1693 @@
+# Transcript
+
+Source: lazyearn/mit-nuts-and-bolts-of-new-ventures/001 - Session 1, Part 1： Introduction： Most Startups Fail; How to Improve Your Odds [5gtR7IjtcFE].webm
+
+- [00:00:00,000 - 00:00:08,340] I'm Joe Hedzima. I'm going to be your guide on
+- [00:00:08,340 - 00:00:16,680] our six-session journey through the nuts and bolts of new ventures.
+- [00:00:18,680 - 00:00:24,020] Tonight at the beginning, I'm going to try to give you sort of a set of guideposts for you to
+- [00:00:24,020 - 00:00:29,360] think about as you go into detail on all of the topics we're going to cover over the next six sessions.
+- [00:00:30,000 - 00:00:35,130] And in that regard, I'm going to ask you a bunch of questions
+- [00:00:35,130 - 00:00:40,260] that I want you to think about after every session that you come to,
+- [00:00:40,820 - 00:00:44,349] because at the end, if you can answer those questions or at least
+- [00:00:44,349 - 00:00:47,879] get closer to the answers, we'll have accomplished a whole bunch about your journey.
+- [00:00:49,800 - 00:00:53,360] So the first question is, why are you here?
+- [00:00:53,360 - 00:00:57,300] You know, it's a beautiful, warm night in Cambridge.
+- [00:00:58,460 - 00:00:59,980] Wind chills in the single digits.
+- [00:01:00,000 - 00:01:01,940] You know, why are you here?
+- [00:01:02,020 - 00:01:03,760] I know it was for the three units
+- [00:01:03,760 - 00:01:05,500] of credit you're going to get for the students.
+- [00:01:06,600 - 00:01:09,860] You know, perhaps you don't know anything about
+- [00:01:09,860 - 00:01:13,120] entrepreneurship, and you'd like to find out something.
+- [00:01:13,880 - 00:01:15,840] You just want to dip your toe in the water.
+- [00:01:16,520 - 00:01:18,920] So how many people here have
+- [00:01:18,920 - 00:01:21,320] not taken a formal course in entrepreneurship?
+- [00:01:22,880 - 00:01:24,120] Okay, there you go.
+- [00:01:25,039 - 00:01:25,500] All right.
+- [00:01:26,300 - 00:01:27,539] Including Bob back there.
+- [00:01:28,539 - 00:01:29,900] So we're going to hopefully.
+- [00:01:30,000 - 00:01:32,160] So this is a great environment for that.
+- [00:01:32,160 - 00:01:34,560] It's a two-week period during January where
+- [00:01:34,560 - 00:01:36,960] you don't have a lot of other distractions.
+- [00:01:37,360 - 00:01:39,500] And hopefully we'll cover a lot of the
+- [00:01:39,500 - 00:01:41,640] things that will tell you a lot about entrepreneurship.
+- [00:01:43,680 - 00:01:45,950] Maybe you see something that sucks,
+- [00:01:45,950 - 00:01:48,220] and you want to make it better.
+- [00:01:49,680 - 00:01:50,760] Anybody have that?
+- [00:01:51,980 - 00:01:53,160] Okay. Good.
+- [00:01:53,160 - 00:01:56,530] Well, another student who had that was somebody who was
+- [00:01:56,530 - 00:01:59,900] taking a bus back from New York City after Thanksgiving.
+- [00:02:00,000 - 00:02:01,760] Back to campus.
+- [00:02:02,320 - 00:02:04,460] And he forgot his USB drive,
+- [00:02:04,460 - 00:02:06,600] and he couldn't get his files.
+- [00:02:07,940 - 00:02:10,220] And he said, you know, I wasted the whole trip.
+- [00:02:10,919 - 00:02:12,919] I want to figure out how I
+- [00:02:12,919 - 00:02:14,920] can have those files anytime, anywhere I am.
+- [00:02:15,300 - 00:02:17,980] And I said, well, you know, that's cloud storage, right?
+- [00:02:18,040 - 00:02:19,660] That's Google Drive.
+- [00:02:19,780 - 00:02:21,180] That's box.com.
+- [00:02:21,940 - 00:02:24,120] And he said, yeah, but they really suck.
+- [00:02:24,680 - 00:02:26,860] And I'm going to make something that doesn't suck.
+- [00:02:27,520 - 00:02:29,820] He went on to found something called Dropbox.
+- [00:02:30,640 - 00:02:32,200] And I've been using it ever since.
+- [00:02:32,340 - 00:02:33,620] And it certainly doesn't suck.
+- [00:02:33,980 - 00:02:35,120] It works quite well.
+- [00:02:35,580 - 00:02:37,880] So maybe that's something that you want.
+- [00:02:39,580 - 00:02:42,010] Maybe you have an idea or an invention, and you want to
+- [00:02:42,010 - 00:02:44,440] bring it to life because you want to, like, change the world.
+- [00:02:45,140 - 00:02:47,960] I think for most people that I run into
+- [00:02:47,960 - 00:02:50,780] in entrepreneurship, that's sort of a primary driving factor.
+- [00:02:51,580 - 00:02:53,360] They think they can make a big difference.
+- [00:02:54,380 - 00:02:57,340] And that's, I think, a real driver for most people.
+- [00:02:58,880 - 00:02:59,380] Of course.
+- [00:03:00,000 - 00:03:01,540] Being an entrepreneur is glamorous, and
+- [00:03:01,540 - 00:03:03,080] you can make a lot of money.
+- [00:03:04,940 - 00:03:06,940] How many people like that one?
+- [00:03:08,480 - 00:03:10,860] Okay, there's good, realistic people in the audience.
+- [00:03:11,100 - 00:03:12,380] Well, we'll talk about that, too.
+- [00:03:13,760 - 00:03:16,200] So many questions, regardless of why you're here.
+- [00:03:16,260 - 00:03:17,780] So many questions you need to ask.
+- [00:03:18,440 - 00:03:19,540] And we're going to try to
+- [00:03:19,540 - 00:03:20,640] help you over the next six sessions.
+- [00:03:21,560 - 00:03:22,520] How do I start?
+- [00:03:23,060 - 00:03:24,300] What actually do I do?
+- [00:03:26,380 - 00:03:27,920] What is the problem I'm solving?
+- [00:03:27,940 - 00:03:28,040] What is the problem I'm solving?
+- [00:03:30,000 - 00:03:35,400] Does my solution provide an answer to that problem?
+- [00:03:37,980 - 00:03:39,680] Who cares about my idea?
+- [00:03:40,380 - 00:03:41,640] Specifically, who cares?
+- [00:03:43,020 - 00:03:44,120] Who's my customer?
+- [00:03:45,400 - 00:03:47,580] And how do I find people, these people?
+- [00:03:47,940 - 00:03:50,360] Bob Jones will be here in the second part of this
+- [00:03:50,360 - 00:03:52,780] evening, and he's going to be talking a lot about that.
+- [00:03:53,520 - 00:03:55,560] If you don't have a customer, you don't have anything.
+- [00:03:57,920 - 00:03:59,160] How will I make money?
+- [00:03:59,160 - 00:03:59,320] How will I make money?
+- [00:03:59,320 - 00:03:59,900] And make it?
+- [00:03:59,900 - 00:04:01,280] How will I make money?
+- [00:04:01,280 - 00:04:01,700] How will I make money?
+- [00:04:01,700 - 00:04:01,780] How will I make money?
+- [00:04:01,780 - 00:04:03,230] That's the business model, or
+- [00:04:03,230 - 00:04:04,680] the venture model, we call it.
+- [00:04:05,240 - 00:04:07,400] And we'll be talking about that tomorrow.
+- [00:04:09,000 - 00:04:10,160] How long will it take
+- [00:04:10,160 - 00:04:11,320] to bring my solution to market?
+- [00:04:11,560 - 00:04:12,480] What will it cost?
+- [00:04:12,620 - 00:04:14,040] What resources will I need?
+- [00:04:14,440 - 00:04:17,199] All of that stuff is about financial projections
+- [00:04:17,199 - 00:04:19,959] and thinking through the model that you have.
+- [00:04:21,480 - 00:04:24,630] Will I need to set up some sort of
+- [00:04:24,630 - 00:04:27,780] entity to attract investors, other people to join me?
+- [00:04:27,780 - 00:04:28,800] And what should it be?
+- [00:04:29,020 - 00:04:29,540] Corporation?
+- [00:04:29,540 - 00:04:31,540] Maybe a limited liability company?
+- [00:04:31,540 - 00:04:34,140] And can I use that in any
+- [00:04:34,140 - 00:04:36,740] way to provide some ownership incentive for people?
+- [00:04:36,740 - 00:04:38,320] We'll be talking about that.
+- [00:04:40,320 - 00:04:42,300] How do I keep people from stealing my idea?
+- [00:04:44,760 - 00:04:46,130] You know, maybe you want to
+- [00:04:46,130 - 00:04:47,500] put it out there for everyone.
+- [00:04:48,520 - 00:04:49,830] But maybe you want to control a
+- [00:04:49,830 - 00:04:51,140] little bit of how it gets used.
+- [00:04:51,140 - 00:04:53,010] So we'll talk about, you know, can you
+- [00:04:53,010 - 00:04:54,880] do it and how could you protect your idea?
+- [00:04:55,480 - 00:04:57,920] Will I need co-founders?
+- [00:04:58,520 - 00:04:59,380] And what will I rely on?
+- [00:04:59,380 - 00:05:00,880] What will our relationship be?
+- [00:05:01,880 - 00:05:03,380] Do we need some sort of an agreement?
+- [00:05:03,380 - 00:05:04,880] Maybe a founder's agreement?
+- [00:05:05,880 - 00:05:08,880] Tomorrow we'll have a panel on the founder's journey.
+- [00:05:08,880 - 00:05:10,880] Some people that are in the midst of their journey.
+- [00:05:10,880 - 00:05:12,880] You can ask that question to them too.
+- [00:05:14,380 - 00:05:18,380] How will I negotiate with employees, consultants, whatever?
+- [00:05:18,380 - 00:05:21,880] Entrepreneurs are always negotiating, right?
+- [00:05:21,880 - 00:05:24,380] Because almost by definition you're trying to
+- [00:05:24,380 - 00:05:26,880] assemble things you don't really own or control
+- [00:05:27,380 - 00:05:29,380] to accomplish a vision you have.
+- [00:05:29,380 - 00:05:31,880] So you've got to negotiate in some way
+- [00:05:31,880 - 00:05:34,380] to bring on customers, to bring on people that
+- [00:05:34,380 - 00:05:38,380] are going to join your team, advisors, and investors.
+- [00:05:38,380 - 00:05:40,380] We'll have a session on negotiation.
+- [00:05:42,380 - 00:05:43,880] And the big one, how do
+- [00:05:43,880 - 00:05:45,380] I figure out what I don't know?
+- [00:05:47,380 - 00:05:49,880] And, you know, one simple answer to that
+- [00:05:49,880 - 00:05:52,380] is, well, maybe you find people that have done
+- [00:05:52,380 - 00:05:54,380] it before who can advise you.
+- [00:05:56,380 - 00:05:57,380] Reason I'm here and all the other presenters
+- [00:05:57,380 - 00:05:58,380] are here is, well, I'm here to help you.
+- [00:05:58,380 - 00:06:00,380] I'm here to help you.
+- [00:06:00,380 - 00:06:03,380] And we've come down this path.
+- [00:06:03,380 - 00:06:05,380] We have plenty of scars.
+- [00:06:05,380 - 00:06:07,380] And we can perhaps tell you what
+- [00:06:07,380 - 00:06:09,380] not to do or caution you on things.
+- [00:06:09,380 - 00:06:11,380] What are the potholes in the road?
+- [00:06:11,380 - 00:06:13,380] And how will I recognize them?
+- [00:06:13,380 - 00:06:16,380] You know, you're gonna make mistakes.
+- [00:06:16,380 - 00:06:18,380] If you don't, you're not doing it right.
+- [00:06:18,380 - 00:06:21,380] The problem is not making a mistake.
+- [00:06:21,380 - 00:06:26,380] It's making it twice, right?
+- [00:06:26,380 - 00:06:26,880] So if you make a same
+- [00:06:26,880 - 00:06:27,380] mistake twice, you haven't learned anything.
+- [00:06:27,380 - 00:06:31,030] The problem in entrepreneurship really is, you know,
+- [00:06:31,030 - 00:06:34,680] those things come at you in different clothing.
+- [00:06:35,600 - 00:06:38,900] And there have been a number of cases when I've
+- [00:06:38,900 - 00:06:42,200] been down the road and I go, oh, I recognize this.
+- [00:06:42,280 - 00:06:43,200] I've been here before.
+- [00:06:44,120 - 00:06:45,360] I didn't see it coming.
+- [00:06:46,340 - 00:06:48,420] Can we give you some early warning things on that?
+- [00:06:49,840 - 00:06:51,520] So there are a lot of moving pieces.
+- [00:06:53,080 - 00:06:56,520] So the next question is, you know, why do this?
+- [00:06:57,380 - 00:07:00,630] These are personal questions for you that you ought
+- [00:07:00,630 - 00:07:03,880] to think about as you hear everything through the course.
+- [00:07:07,540 - 00:07:09,180] Oh, did I miss one?
+- [00:07:09,820 - 00:07:11,420] Oh, why do this?
+- [00:07:11,620 - 00:07:12,040] Sorry.
+- [00:07:12,159 - 00:07:12,900] What's the reward?
+- [00:07:13,800 - 00:07:14,260] Fame?
+- [00:07:14,880 - 00:07:15,180] Fortune?
+- [00:07:15,860 - 00:07:17,719] You may recognize these people.
+- [00:07:18,420 - 00:07:19,900] Some of them were
+- [00:07:19,900 - 00:07:21,380] at the presidential inauguration yesterday.
+- [00:07:23,380 - 00:07:23,520] Okay.
+- [00:07:23,520 - 00:07:26,800] That may be the reward, but this is the reality.
+- [00:07:27,380 - 00:07:30,580] This is how many people have heard of Nvidia?
+- [00:07:32,120 - 00:07:32,360] Yeah.
+- [00:07:32,820 - 00:07:35,800] Jason Wong, the founder, was interviewed and
+- [00:07:35,800 - 00:07:38,780] he said he built a trillion dollar company.
+- [00:07:38,940 - 00:07:40,240] You know, give or take a couple of billions.
+- [00:07:40,380 - 00:07:41,280] That's what it's worth today.
+- [00:07:42,420 - 00:07:43,420] Would he do it again?
+- [00:07:43,460 - 00:07:45,240] He said, I don't think I would.
+- [00:07:46,580 - 00:07:49,690] If I'd known three decades ago what
+- [00:07:49,690 - 00:07:52,800] it would take, I wouldn't have done it.
+- [00:07:53,360 - 00:07:54,560] This quote is amazing.
+- [00:07:54,560 - 00:07:55,040] If we realize the pain, suffering, and how vulnerable
+- [00:07:55,040 - 00:07:55,520] we are, we're going to be able to do it.
+- [00:07:55,520 - 00:07:55,530] If we realize the pain, suffering, and how vulnerable
+- [00:07:55,530 - 00:07:55,540] we are, we're going to be able to do it.
+- [00:07:55,540 - 00:07:56,450] If we realize the pain, suffering, and how vulnerable
+- [00:07:56,450 - 00:07:57,360] we are, we're going to be able to do it.
+- [00:07:57,380 - 00:08:00,880] The challenges you're going to endure, the embarrassment and the shame and most of
+- [00:08:00,880 - 00:08:04,380] all the things that could go wrong, nobody in their right mind would do it.
+- [00:08:04,380 - 00:08:05,880] The embarrassment and the shame and most of all the things
+- [00:08:05,880 - 00:08:07,380] that could go wrong, nobody in their right mind would do it.
+- [00:08:08,520 - 00:08:10,070] So I must conclude from
+- [00:08:10,070 - 00:08:11,620] that you guys are all crazy.
+- [00:08:12,340 - 00:08:13,060] Right?
+- [00:08:14,760 - 00:08:15,930] But this is a guy who
+- [00:08:15,930 - 00:08:17,100] spent three decades to get there.
+- [00:08:19,159 - 00:08:25,180] The reality is only 10% of startups succeed.
+- [00:08:27,380 - 00:08:28,980] Nine out of ten fail.
+- [00:08:30,180 - 00:08:31,859] Now, this includes everything from
+- [00:08:31,859 - 00:08:33,539] sandwich shops and things like that.
+- [00:08:35,280 - 00:08:36,890] Now, many of you are
+- [00:08:36,890 - 00:08:38,500] interested in venture capital, I'm sure.
+- [00:08:39,919 - 00:08:41,569] What do you think the
+- [00:08:41,569 - 00:08:43,220] success rate is for venture capitalists?
+- [00:08:43,939 - 00:08:45,969] Out of every ten companies they
+- [00:08:45,969 - 00:08:48,000] invest, how many successes do they have?
+- [00:08:49,300 - 00:08:49,780] Anybody?
+- [00:08:50,780 - 00:08:51,840] One, I hear one.
+- [00:08:52,960 - 00:08:53,440] Two?
+- [00:08:54,600 - 00:08:55,420] Anybody else?
+- [00:08:55,420 - 00:08:58,210] Well, the most successful
+- [00:08:58,210 - 00:09:01,000] long-term firm was Kleiner Perkins.
+- [00:09:01,500 - 00:09:03,789] And they got three successes for
+- [00:09:03,789 - 00:09:06,079] every ten companies that they invested in.
+- [00:09:06,540 - 00:09:09,140] Now, these are guys with money, smarts.
+- [00:09:09,620 - 00:09:11,580] With venture capitalists, you've got to realize
+- [00:09:11,580 - 00:09:13,540] they're always the smartest people in the room.
+- [00:09:14,680 - 00:09:16,240] Make sure you understand that.
+- [00:09:16,979 - 00:09:18,020] They'll let you know.
+- [00:09:19,599 - 00:09:20,800] And connections.
+- [00:09:21,180 - 00:09:23,220] And with all of that, they only
+- [00:09:23,220 - 00:09:25,260] win three out of every ten times.
+- [00:09:25,420 - 00:09:29,309] Can you think of any other thing you could do where
+- [00:09:29,309 - 00:09:33,199] if you failed seven times out of ten, you'd be a hero?
+- [00:09:34,800 - 00:09:35,240] Baseball.
+- [00:09:35,479 - 00:09:35,699] Baseball, right.
+- [00:09:36,020 - 00:09:40,079] If you bat 300, you're probably leading the league.
+- [00:09:40,380 - 00:09:41,620] And you're probably making, what do they
+- [00:09:41,620 - 00:09:42,860] make now, 50, 100 million a year?
+- [00:09:43,540 - 00:09:44,989] So if you really want
+- [00:09:44,989 - 00:09:46,439] to make money, go play baseball.
+- [00:09:47,579 - 00:09:51,780] But the point is, success is only 10% in general.
+- [00:09:51,780 - 00:09:54,280] Now, there are many reasons.
+- [00:09:55,420 - 00:09:56,970] When you look into them, I want to
+- [00:09:56,970 - 00:09:58,520] focus on the one in the bottom right,
+- [00:10:00,180 - 00:10:03,339] which says 99% of the time people fail.
+- [00:10:03,740 - 00:10:05,520] By the way, these slides will all
+- [00:10:05,520 - 00:10:07,300] be available, but feel free to take pictures.
+- [00:10:09,040 - 00:10:14,020] 99% fail because of a lack of planning and experience.
+- [00:10:15,300 - 00:10:16,350] We're going to try to
+- [00:10:16,350 - 00:10:17,400] help you on the planning part.
+- [00:10:18,099 - 00:10:19,800] And with that, you'll get experience.
+- [00:10:21,800 - 00:10:24,640] But even though 10% is a success rate,
+- [00:10:24,640 - 00:10:25,400] maybe all is not.
+- [00:10:25,420 - 00:10:26,060] And that's not dismal.
+- [00:10:26,060 - 00:10:28,099] We're here at MIT.
+- [00:10:28,099 - 00:10:29,860] The Kauffman Report.
+- [00:10:29,860 - 00:10:33,380] MIT is known for entrepreneurship around the world.
+- [00:10:33,380 - 00:10:37,229] Kauffman Report, in 2009, studied
+- [00:10:37,229 - 00:10:41,079] the roughly 26,000 active companies
+- [00:10:41,079 - 00:10:44,160] that were founded by MIT alum or faculty.
+- [00:10:44,160 - 00:10:48,760] Now, that's out of 120,000 living alums at the time.
+- [00:10:48,760 - 00:10:51,340] So that's like one of
+- [00:10:51,340 - 00:10:53,920] every five that were out there.
+- [00:10:53,920 - 00:10:55,099] These companies employed three.
+- [00:10:55,100 - 00:10:58,440] They had annual revenues of $2 trillion a year.
+- [00:10:58,440 - 00:11:01,860] And if you put them together as a single country,
+- [00:11:01,860 - 00:11:03,860] it would be the largest,
+- [00:11:03,860 - 00:11:05,860] 11th largest economy in the world.
+- [00:11:05,860 - 00:11:09,860] Now, does that mean we're better at success here?
+- [00:11:09,860 - 00:11:10,860] I don't know.
+- [00:11:10,860 - 00:11:13,860] But it might mean that when we do succeed,
+- [00:11:13,860 - 00:11:15,860] there are much bigger successes.
+- [00:11:15,860 - 00:11:18,860] With these statistics, people come from all over the world
+- [00:11:18,860 - 00:11:20,860] to try to figure out what they're doing.
+- [00:11:20,860 - 00:11:21,860] And they're not.
+- [00:11:21,860 - 00:11:22,860] They're not.
+- [00:11:22,860 - 00:11:23,860] They're not.
+- [00:11:23,860 - 00:11:24,860] They're not.
+- [00:11:24,860 - 00:11:25,860] They're not.
+- [00:11:25,860 - 00:11:26,860] They're not.
+- [00:11:26,860 - 00:11:27,860] They're not.
+- [00:11:27,860 - 00:11:28,860] They're not.
+- [00:11:28,860 - 00:11:29,860] They're not.
+- [00:11:29,860 - 00:11:30,360] And so I'll give you a
+- [00:11:30,360 - 00:11:30,860] little hint about some of the things
+- [00:11:30,860 - 00:11:32,240] that can help on that.
+- [00:11:32,240 - 00:11:37,120] OK, so why this course, after all of that?
+- [00:11:37,120 - 00:11:40,780] Well, this course is not about theory.
+- [00:11:40,780 - 00:11:43,040] It's about doing.
+- [00:11:43,040 - 00:11:44,770] The people that are going to
+- [00:11:44,770 - 00:11:46,500] be talking to you are not academics
+- [00:11:46,500 - 00:11:49,100] studying entrepreneurship.
+- [00:11:49,100 - 00:11:51,520] Every single one of them either are actively doing,
+- [00:11:51,520 - 00:11:54,200] or have done, what they're going to talk about.
+- [00:11:54,200 - 00:11:56,330] And it goes back to sort
+- [00:11:56,330 - 00:11:58,460] of the beginning of the course.
+- [00:11:58,460 - 00:12:00,900] I was teaching a course on, which is now
+- [00:12:00,900 - 00:12:03,080] called Law for Entrepreneurs.
+- [00:12:03,080 - 00:12:05,120] And some students came up and said,
+- [00:12:05,120 - 00:12:08,700] you know, you have some very practical things
+- [00:12:08,700 - 00:12:09,500] that you talk about.
+- [00:12:09,500 - 00:12:12,820] Could you do a course during January independent activities
+- [00:12:12,820 - 00:12:15,260] period on how to start a company?
+- [00:12:15,260 - 00:12:18,460] And I said, oh, you know, I'll think about it.
+- [00:12:18,460 - 00:12:22,320] Well, this is pre-internet, believe it or not.
+- [00:12:22,320 - 00:12:26,560] They went and somehow got the course in the catalog.
+- [00:12:26,560 - 00:12:27,930] And they called me up and
+- [00:12:27,930 - 00:12:29,300] said, we put it in the catalog,
+- [00:12:29,300 - 00:12:32,940] and we dare you not to show up.
+- [00:12:32,940 - 00:12:35,320] I said, boy, that's pretty gutsy.
+- [00:12:35,320 - 00:12:36,900] I was a little annoyed at that.
+- [00:12:36,900 - 00:12:40,680] But then I said, you know, there's something here.
+- [00:12:40,680 - 00:12:42,080] These are like customers.
+- [00:12:42,080 - 00:12:44,400] These are people that want what they
+- [00:12:44,400 - 00:12:47,040] think I can deliver to them.
+- [00:12:47,040 - 00:12:47,960] They actually want it.
+- [00:12:47,960 - 00:12:48,960] I'm not looking for them.
+- [00:12:48,960 - 00:12:50,480] They came to me.
+- [00:12:50,480 - 00:12:51,620] So how am I going to do that?
+- [00:12:51,620 - 00:12:52,320] I didn't have time.
+- [00:12:52,320 - 00:12:53,980] I didn't have time to really plan anything out.
+- [00:12:53,980 - 00:12:57,780] So at the time, we had four nights.
+- [00:12:57,780 - 00:12:59,550] And I thought, well, what are
+- [00:12:59,550 - 00:13:01,320] sort of two things a night
+- [00:13:01,320 - 00:13:03,880] that we could talk about?
+- [00:13:03,880 - 00:13:06,000] And I got on the phone, and I called people.
+- [00:13:06,000 - 00:13:08,720] And some I knew, and some I didn't.
+- [00:13:08,720 - 00:13:10,400] I knew all the people I called.
+- [00:13:10,400 - 00:13:12,980] Some of them I said, could you come and talk
+- [00:13:12,980 - 00:13:16,120] to a group of people at MIT, students,
+- [00:13:16,120 - 00:13:18,040] about whatever the topic is?
+- [00:13:18,040 - 00:13:21,460] And to make it easy, just come and say,
+- [00:13:21,460 - 00:13:21,960] I wish.
+- [00:13:21,960 - 00:13:24,800] The three or four or five whatever things
+- [00:13:24,800 - 00:13:28,140] that I wish somebody had told me about the area
+- [00:13:28,140 - 00:13:30,840] that I'm going to talk about when I started up.
+- [00:13:30,840 - 00:13:33,740] And then we'll just open it up for questions.
+- [00:13:33,740 - 00:13:35,880] Now, about half the people that ended up showing
+- [00:13:35,880 - 00:13:38,780] that came to present, I didn't know personally.
+- [00:13:38,780 - 00:13:40,620] But I had people that I called and said,
+- [00:13:40,620 - 00:13:42,900] do you know anyone who could do this?
+- [00:13:42,900 - 00:13:46,340] And they've got to be able to keep it simple.
+- [00:13:46,340 - 00:13:48,720] And then because I was worried that I
+- [00:13:48,720 - 00:13:51,720] was going to get all these people in the audience,
+- [00:13:51,720 - 00:13:53,800] or these presenters to come, I said,
+- [00:13:53,800 - 00:13:55,100] I've got to have some people in the audience.
+- [00:13:55,100 - 00:13:57,120] So I called everyone else I knew.
+- [00:13:57,120 - 00:13:59,540] And we packed a room with 120 people.
+- [00:13:59,540 - 00:14:01,520] And people were sitting in the aisles.
+- [00:14:01,520 - 00:14:03,700] And it was a real good lesson for me.
+- [00:14:03,700 - 00:14:05,960] It was a great success.
+- [00:14:05,960 - 00:14:07,420] And it was a real lesson.
+- [00:14:07,420 - 00:14:09,700] Because what I did is
+- [00:14:09,700 - 00:14:11,980] I basically said, here's the goal.
+- [00:14:11,980 - 00:14:14,000] Here's what we want to do.
+- [00:14:14,000 - 00:14:16,280] I found good people.
+- [00:14:16,280 - 00:14:18,440] I gave them an idea of what to talk about,
+- [00:14:18,440 - 00:14:20,060] or what I wanted them to talk about.
+- [00:14:20,060 - 00:14:21,120] And then I got out of the way.
+- [00:14:21,720 - 00:14:23,820] And they did a fantastic job.
+- [00:14:23,820 - 00:14:26,100] And we sort of refined that model over the years.
+- [00:14:26,100 - 00:14:29,880] So it's really about doing.
+- [00:14:29,880 - 00:14:31,080] We call it New Ventures.
+- [00:14:31,080 - 00:14:33,340] It's planning and executing new ventures.
+- [00:14:33,340 - 00:14:35,420] That could be business.
+- [00:14:35,420 - 00:14:37,280] It could be nonprofit.
+- [00:14:37,280 - 00:14:38,800] It could even be government.
+- [00:14:38,800 - 00:14:41,140] One year, we had the
+- [00:14:41,140 - 00:14:43,480] US Mint show up for class.
+- [00:14:43,480 - 00:14:47,100] They were thinking of launching some new thing.
+- [00:14:47,100 - 00:14:50,380] And they wanted to come and see about new ventures.
+- [00:14:50,380 - 00:14:51,720] And by the way, it's the Sloan
+- [00:14:51,720 - 00:14:52,560] School of Management.
+- [00:14:52,560 - 00:14:54,420] It's not the Sloan School of Business.
+- [00:14:54,420 - 00:14:57,160] So that's in our DNA.
+- [00:14:57,160 - 00:14:59,480] Our goal is to increase the probability
+- [00:14:59,480 - 00:15:01,820] that you'll be in the 10%.
+- [00:15:01,820 - 00:15:04,160] That's what we're trying to do.
+- [00:15:04,160 - 00:15:07,140] Now, you have to recognize that entrepreneurship
+- [00:15:07,140 - 00:15:10,780] is a lifetime incurable disease.
+- [00:15:10,780 - 00:15:13,400] If you get it, you will have
+- [00:15:13,400 - 00:15:16,020] it for the rest of your life.
+- [00:15:16,020 - 00:15:20,900] Fortunately, it's not fatal in most cases.
+- [00:15:20,900 - 00:15:21,620] It's highly recommended.
+- [00:15:21,620 - 00:15:22,620] It's highly contagious.
+- [00:15:22,620 - 00:15:24,740] And it's transformative.
+- [00:15:24,740 - 00:15:27,430] But what it really is
+- [00:15:27,430 - 00:15:30,120] also is a full contact sport.
+- [00:15:30,120 - 00:15:31,600] So it's, again, not about theory.
+- [00:15:31,600 - 00:15:34,360] It's about getting out there and doing things.
+- [00:15:34,360 - 00:15:37,320] And again, the people that are going to be talking
+- [00:15:37,320 - 00:15:41,360] are doing or have done what's involved.
+- [00:15:41,360 - 00:15:43,220] So let me give you an overview of the specifics
+- [00:15:43,220 - 00:15:44,960] we're going to cover and what you can learn
+- [00:15:44,960 - 00:15:47,380] during the six sessions.
+- [00:15:47,380 - 00:15:50,620] First, how to evaluate a venture from an impact
+- [00:15:50,620 - 00:15:51,460] and economic viewpoint.
+- [00:15:51,460 - 00:15:55,000] This is really a key thing.
+- [00:15:55,000 - 00:15:57,540] What is the scarcest resource you have?
+- [00:16:00,280 - 00:16:01,660] Time.
+- [00:16:01,660 - 00:16:03,340] And if you're planning to do a new venture,
+- [00:16:03,340 - 00:16:07,260] you saw that Nvidia took three decades.
+- [00:16:07,260 - 00:16:10,300] It's not going to be a six-month thing.
+- [00:16:10,300 - 00:16:11,590] And if you're going to
+- [00:16:11,590 - 00:16:12,880] spend your time and effort working
+- [00:16:12,880 - 00:16:16,120] on something, you want to might think at the beginning,
+- [00:16:16,120 - 00:16:18,020] do I think this is going to work?
+- [00:16:18,020 - 00:16:19,900] Is this going to have impact?
+- [00:16:19,900 - 00:16:20,700] How do I do that?
+- [00:16:21,460 - 00:16:23,620] Because it's your time that you're
+- [00:16:23,620 - 00:16:25,780] burning up if you do that.
+- [00:16:25,780 - 00:16:27,490] We had a, I used to
+- [00:16:27,490 - 00:16:29,200] do a seminar on Tuesday nights.
+- [00:16:29,200 - 00:16:32,900] And I know we have some people from Harvard here.
+- [00:16:32,900 - 00:16:35,460] So I don't mean to disparage people from Harvard.
+- [00:16:35,460 - 00:16:38,640] But one night, this is a seminar with 12 people.
+- [00:16:38,640 - 00:16:40,320] And one night, three people show up
+- [00:16:40,320 - 00:16:41,980] from Harvard Business School.
+- [00:16:41,980 - 00:16:43,560] And we were an open seminar.
+- [00:16:43,560 - 00:16:44,140] I said, well, great.
+- [00:16:44,140 - 00:16:45,480] Well, tell us, why are you here?
+- [00:16:45,480 - 00:16:46,880] What are you looking for?
+- [00:16:46,880 - 00:16:49,360] And they said, well, we're taking an entrepreneurship course
+- [00:16:49,360 - 00:16:50,220] at the business school.
+- [00:16:50,220 - 00:16:50,720] OK.
+- [00:16:51,460 - 00:16:55,600] And we have to start a company.
+- [00:16:55,600 - 00:16:57,240] Excuse me?
+- [00:16:57,240 - 00:16:58,320] You have to start a company.
+- [00:16:58,320 - 00:16:59,840] Yeah, yeah, we've got to start a company.
+- [00:16:59,840 - 00:17:00,640] Well, what is that?
+- [00:17:00,640 - 00:17:02,520] You've got to learn how to incorporate?
+- [00:17:02,520 - 00:17:04,400] No, no, we actually have to start something.
+- [00:17:04,400 - 00:17:07,900] And I said, that's really stupid.
+- [00:17:07,900 - 00:17:10,980] If we spend four months with you looking at something
+- [00:17:10,980 - 00:17:13,560] and you realize this is something you shouldn't do,
+- [00:17:13,560 - 00:17:15,819] it means you're going to fail the course.
+- [00:17:15,819 - 00:17:16,980] And they said, I don't know.
+- [00:17:16,980 - 00:17:18,920] We're supposed to start a company.
+- [00:17:18,920 - 00:17:20,190] The point is, figuring out
+- [00:17:20,190 - 00:17:21,460] what to do and figuring out
+- [00:17:21,460 - 00:17:25,640] what not to do are a key part of entrepreneurship.
+- [00:17:25,640 - 00:17:26,740] OK, so we're also going
+- [00:17:26,740 - 00:17:27,839] to figure out who's your customer.
+- [00:17:30,480 - 00:17:34,880] How do I get financial resources for the venture?
+- [00:17:34,880 - 00:17:39,220] How do I scale it and make it sustainable?
+- [00:17:39,220 - 00:17:41,780] How do I build and retain a top-notch team
+- [00:17:41,780 - 00:17:45,360] of both internal and external people?
+- [00:17:45,360 - 00:17:49,600] How do I negotiate deals and resolve team conflicts?
+- [00:17:49,600 - 00:17:50,640] What are the legal pitfalls?
+- [00:17:51,460 - 00:17:56,040] And how do I pitch my venture idea?
+- [00:17:56,040 - 00:17:57,340] And Bob is going to come.
+- [00:17:57,340 - 00:17:58,610] Bob Jones will be back
+- [00:17:58,610 - 00:17:59,880] to talk about pitching your venture.
+- [00:17:59,880 - 00:18:01,780] And it's not only to investors.
+- [00:18:01,780 - 00:18:04,460] It's to all the people you need to convince
+- [00:18:04,460 - 00:18:07,780] to join you in whatever journey you're taking.
+- [00:18:07,780 - 00:18:10,960] So there are a lot of moving pieces here.
+- [00:18:10,960 - 00:18:12,580] These personal questions, these are
+- [00:18:12,580 - 00:18:13,840] things you need to think about.
+- [00:18:13,840 - 00:18:15,040] Do you really want to do this?
+- [00:18:17,800 - 00:18:19,300] Right?
+- [00:18:19,300 - 00:18:20,400] Should you do it?
+- [00:18:20,400 - 00:18:20,900] No.
+- [00:18:20,900 - 00:18:21,400] Why?
+- [00:18:21,460 - 00:18:23,500] Why?
+- [00:18:23,500 - 00:18:26,020] And should you do it now or later?
+- [00:18:26,020 - 00:18:27,820] If you're an MIT student now,
+- [00:18:27,820 - 00:18:29,620] you know how hard MIT is
+- [00:18:29,620 - 00:18:32,020] and how you're getting by on meager resources
+- [00:18:32,020 - 00:18:34,580] and your diet probably isn't the best in the world.
+- [00:18:34,580 - 00:18:36,280] Probably a good time to start a company because you
+- [00:18:36,280 - 00:18:38,460] won't notice a difference.
+- [00:18:38,460 - 00:18:40,600] 10 years later, you're married with children,
+- [00:18:40,600 - 00:18:43,980] a whole different scenario.
+- [00:18:43,980 - 00:18:45,420] And is this for me?
+- [00:18:45,420 - 00:18:47,440] So if you look at each of the sessions,
+- [00:18:47,440 - 00:18:50,320] we dig down into the nuts and bolts.
+- [00:18:50,320 - 00:18:50,900] Think about these.
+- [00:18:50,900 - 00:18:55,500] And by the end, think about, personally, what
+- [00:18:55,500 - 00:18:58,000] does this mean for you?
+- [00:18:58,000 - 00:19:01,520] OK, so what's tonight's plan?
+- [00:19:01,520 - 00:19:03,540] We're going to talk about who you are.
+- [00:19:03,540 - 00:19:05,780] We're going to introduce the teaching team.
+- [00:19:05,780 - 00:19:08,300] I'm going to give you an overview of frameworks.
+- [00:19:08,300 - 00:19:09,900] I hate frameworks.
+- [00:19:09,900 - 00:19:11,020] I'm going to give you some
+- [00:19:11,020 - 00:19:12,140] things to think about to help
+- [00:19:12,140 - 00:19:14,180] you digest the stuff you're
+- [00:19:14,180 - 00:19:16,220] going to see in the future.
+- [00:19:16,220 - 00:19:18,300] Then we're going to do a break for team building.
+- [00:19:18,300 - 00:19:19,700] And we'll talk about that.
+- [00:19:19,700 - 00:19:20,740] And then Bob will be back.
+- [00:19:20,740 - 00:19:24,380] He'll be back with his magnifying glass looking for,
+- [00:19:24,380 - 00:19:27,520] or binoculars looking for customers.
+- [00:19:27,520 - 00:19:30,980] So who are you?
+- [00:19:30,980 - 00:19:37,000] Well, your students from all of these different departments.
+- [00:19:37,000 - 00:19:40,500] The first time we opened this up for credit,
+- [00:19:40,500 - 00:19:42,240] we didn't know who was in the audience.
+- [00:19:42,240 - 00:19:43,540] And it was really interesting.
+- [00:19:43,540 - 00:19:45,300] We had a clump of people
+- [00:19:45,300 - 00:19:47,060] over there and a clump of people
+- [00:19:47,060 - 00:19:47,560] over there.
+- [00:19:47,560 - 00:19:49,050] And I said, and I'll do
+- [00:19:49,050 - 00:19:50,540] it tonight, how many people from,
+- [00:19:50,540 - 00:19:54,339] from Sloan? Okay. How many people
+- [00:19:54,339 - 00:19:58,139] from science and engineering? Good, all right.
+- [00:19:58,139 - 00:19:59,589] You've done better than the first class
+- [00:19:59,589 - 00:20:01,040] because all the Sloan people were there
+- [00:20:01,040 - 00:20:03,110] and the science and engineering people were
+- [00:20:03,110 - 00:20:05,180] over there and so I said to the
+- [00:20:05,180 - 00:20:06,980] Sloan people, look at the number on your seat.
+- [00:20:06,980 - 00:20:08,780] If it's an odd number, get up and go
+- [00:20:08,780 - 00:20:10,610] find an odd number and, you know,
+- [00:20:10,610 - 00:20:12,440] switch because we wanted to bring people
+- [00:20:12,440 - 00:20:14,480] together. And then I'm thinking, God,
+- [00:20:14,480 - 00:20:16,520] how's this gonna work? The Sloan people
+- [00:20:16,520 - 00:20:18,339] probably know everything I'm going to talk
+- [00:20:18,339 - 00:20:20,159] about so I'm gonna bore them to
+- [00:20:20,160 - 00:20:22,230] death. And the science and engineering people,
+- [00:20:22,230 - 00:20:24,300] this is all brand new and they're
+- [00:20:24,300 - 00:20:26,190] really smart but, you know, am I gonna overload
+- [00:20:26,190 - 00:20:28,080] them? But I had what I had and I
+- [00:20:28,080 - 00:20:30,150] just went forward and it turned out
+- [00:20:30,150 - 00:20:32,220] to work well because the things we were
+- [00:20:32,220 - 00:20:34,470] talking about were very practical things. So
+- [00:20:34,470 - 00:20:36,720] the range of people here, these are
+- [00:20:36,720 - 00:20:39,380] the interest groups that if you signed
+- [00:20:39,380 - 00:20:42,040] up on the email list that people were
+- [00:20:42,040 - 00:20:44,630] interested in. We'll talk about that
+- [00:20:44,630 - 00:20:47,220] at the break. We also have non-student
+- [00:20:47,220 - 00:20:49,560] participants. We have alums,
+- [00:20:49,560 - 00:20:52,290] some people that have done numerous
+- [00:20:52,290 - 00:20:55,020] companies successfully and are back. We
+- [00:20:55,020 - 00:20:57,670] have, I think, some MIT Venture Mentoring
+- [00:20:57,670 - 00:21:00,320] Service people in the audience. We have
+- [00:21:00,320 - 00:21:02,770] people, I think we have a faculty
+- [00:21:02,770 - 00:21:05,220] member or two. We have people from large
+- [00:21:05,220 - 00:21:07,830] companies who are looking to spin out
+- [00:21:07,830 - 00:21:10,440] something. This all came from when you
+- [00:21:10,440 - 00:21:11,760] when you signed up on the email list,
+- [00:21:11,760 - 00:21:13,080] what are you looking to get out of the
+- [00:21:13,080 - 00:21:16,940] course. So the question is how do we deal
+- [00:21:16,940 - 00:21:20,800] with all of that? Well it's MIT so we
+- [00:21:20,800 - 00:21:25,739] have to have an equation. H equals R
+- [00:21:25,739 - 00:21:30,679] divided by E. The goal is to maximize H.
+- [00:21:30,679 - 00:21:32,969] H is happiness. I know a couple
+- [00:21:32,969 - 00:21:35,260] of people have taken the course before.
+- [00:21:35,260 - 00:21:41,380] Don't answer the question. What is
+- [00:21:41,380 - 00:21:47,500] R and what is E? R? Reality?
+- [00:21:52,080 - 00:21:55,120] Okay well typically maybe this is good.
+- [00:21:55,120 - 00:21:58,160] Reality is the thing. The first time I
+- [00:21:58,160 - 00:22:00,519] did this the Sloan people said oh it's
+- [00:22:00,519 - 00:22:02,879] very easy. It's revenue is R and expenses
+- [00:22:02,879 - 00:22:05,220] are E.
+- [00:22:05,260 - 00:22:07,840] And I said yeah that's great but that's
+- [00:22:07,840 - 00:22:10,420] a subset of this equation. So R is
+- [00:22:10,420 - 00:22:16,530] reality. What is E? Expectations. Okay
+- [00:22:16,530 - 00:22:22,640] so you're happy if reality exceeds your
+- [00:22:22,640 - 00:22:27,360] expectations. Right? If you under promise and
+- [00:22:27,360 - 00:22:32,080] over deliver are people happy? If you
+- [00:22:32,080 - 00:22:35,080] over promise and under deliver are they happy?
+- [00:22:35,080 - 00:22:39,340] Not as much. Right? So this is
+- [00:22:39,340 - 00:22:43,600] a universal principle. Happiness is reality divided
+- [00:22:43,600 - 00:22:47,139] by expectations. Now I'm tempted to say
+- [00:22:47,139 - 00:22:50,679] I can make you infinitely happy if you
+- [00:22:50,679 - 00:22:52,999] just stop having any expectations for
+- [00:22:52,999 - 00:22:55,320] this course. You have zero expectations
+- [00:22:55,320 - 00:22:56,780] you're going to be happy. But I
+- [00:22:56,780 - 00:22:58,240] know that's not possible because on that
+- [00:22:58,240 - 00:23:00,670] email list the things you wanted to know
+- [00:23:00,670 - 00:23:03,100] about that E is very high and we're
+- [00:23:03,100 - 00:23:04,080] going to try to deliver the R and I hope that
+- [00:23:04,080 - 00:23:05,060] the E is very high. So it's about to be a happy.
+- [00:23:05,080 - 00:23:09,580] We'll come back to that and do a poll at
+- [00:23:09,580 - 00:23:14,080] the end. Okay so who are we? Again we are
+- [00:23:14,080 - 00:23:17,650] highly unpaid volunteers who have done this and
+- [00:23:17,650 - 00:23:21,220] I hate to say it but the TAs are
+- [00:23:21,220 - 00:23:23,799] the only people getting paid in this
+- [00:23:23,799 - 00:23:26,379] course and for them it's nothing. It's
+- [00:23:26,379 - 00:23:30,489] like a couple of lattes right? And now
+- [00:23:30,489 - 00:23:34,600] why would these people come and and spend
+- [00:23:34,600 - 00:23:38,170] cold nights in January to talk about this
+- [00:23:38,170 - 00:23:41,740] stuff and not get paid for it? Well
+- [00:23:41,740 - 00:23:43,550] we're going to have some mugs
+- [00:23:43,550 - 00:23:45,360] or something but other than that. Well
+- [00:23:45,360 - 00:23:47,670] because I think if you ask
+- [00:23:47,670 - 00:23:49,980] entrepreneurs who have been successful especially one
+- [00:23:49,980 - 00:23:52,050] successful and you really got them in
+- [00:23:52,050 - 00:23:54,120] a quiet moment with a couple beers or
+- [00:23:54,120 - 00:23:55,399] whatever and they'd say you know I
+- [00:23:55,399 - 00:23:56,679] couldn't have gotten here without a lot
+- [00:23:56,679 - 00:23:59,329] of help and people helped me along the
+- [00:23:59,329 - 00:24:01,980] way and I want to help the next
+- [00:24:01,980 - 00:24:04,560] generation coming by. And I think that's really
+- [00:24:04,600 - 00:24:06,790] true there's a real give back in
+- [00:24:06,790 - 00:24:08,980] the entrepreneurial era and you know when
+- [00:24:08,980 - 00:24:11,290] you guys succeed please make
+- [00:24:11,290 - 00:24:13,600] sure you're mentoring and helping entrepreneurs
+- [00:24:13,600 - 00:24:16,930] after you. So a little bit about me.
+- [00:24:16,930 - 00:24:20,260] I've done a bunch of ventures everything from
+- [00:24:20,260 - 00:24:23,109] being the lawyer, co-founder, investor,
+- [00:24:23,109 - 00:24:25,959] board member, advisor, a bunch of
+- [00:24:25,959 - 00:24:28,079] different companies. I'll talk about several
+- [00:24:28,079 - 00:24:30,199] of them when a little bit later.
+- [00:24:30,199 - 00:24:32,309] I was I've been a lecturer
+- [00:24:32,309 - 00:24:34,419] at Sloan for a long time.
+- [00:24:34,600 - 00:24:37,029] I was a partner at Sullivan & Worcester,
+- [00:24:37,029 - 00:24:39,459] a big law firm in Boston. I founded their
+- [00:24:39,459 - 00:24:42,559] high-tech new ventures group. I was
+- [00:24:42,559 - 00:24:45,659] chairman emeritus at the MIT Enterprise
+- [00:24:45,659 - 00:24:47,789] Forum which no longer exists in its
+- [00:24:47,789 - 00:24:49,919] current form but it had 20 some odd
+- [00:24:49,919 - 00:24:52,489] chapters all over the world. A
+- [00:24:52,489 - 00:24:55,060] director at Main Street Partners that
+- [00:24:55,060 - 00:24:58,119] commercializes technology and I'm
+- [00:24:58,119 - 00:25:01,179] currently working on two companies.
+- [00:25:01,179 - 00:25:03,980] IP Vision which is an intellectual property analysis.
+- [00:25:04,600 - 00:25:06,899] I'm a firm and Neuro Sim
+- [00:25:06,899 - 00:25:09,199] Technologies which is making low-cost medical devices.
+- [00:25:09,199 - 00:25:14,199] Now the most important people you need to
+- [00:25:14,199 - 00:25:19,199] know are TAs. Janet, hands up. She's a
+- [00:25:19,199 - 00:25:23,259] 2026 Sloan candidate. Deloitte Consulting before
+- [00:25:23,259 - 00:25:27,320] that in Media and Tech. Psychobiology.
+- [00:25:27,320 - 00:25:30,849] I don't want to mess with you. And
+- [00:25:30,849 - 00:25:34,379] head of operations at the MIT 100k competition.
+- [00:25:34,600 - 00:25:36,999] There's a big connection between the 100k
+- [00:25:36,999 - 00:25:39,399] competition in this class. The class was
+- [00:25:39,399 - 00:25:41,159] actually formed to see if we
+- [00:25:41,159 - 00:25:42,919] could help people entering the competition have
+- [00:25:42,919 - 00:25:44,689] more of an understanding of what a
+- [00:25:44,689 - 00:25:46,459] venture was and not what I guess ideas
+- [00:25:46,459 - 00:25:49,499] were. So tomorrow night Janet and Supriya
+- [00:25:49,499 - 00:25:52,540] will present a little bit about the
+- [00:25:52,540 - 00:25:55,080] 100k. Hopefully you'll be interested in it.
+- [00:25:55,080 - 00:25:59,399] Supriya? Yep. 2026 also. A software
+- [00:25:59,399 - 00:26:03,719] engineer at Amazon Web Services and Gaming.
+- [00:26:04,600 - 00:26:08,830] That's good. Was a Fulbright Nehru scholar
+- [00:26:08,830 - 00:26:13,060] and co-founded a company there and she's
+- [00:26:13,060 - 00:26:15,280] the incoming managing director of the
+- [00:26:15,280 - 00:26:17,500] 100k competition. So you've probably already been
+- [00:26:17,500 - 00:26:19,849] in contact with them on a lot of
+- [00:26:19,849 - 00:26:22,199] logistical questions and they've done a great job so
+- [00:26:22,199 - 00:26:27,339] far. If they don't let me know and I'll,
+- [00:26:27,339 - 00:26:32,480] don't tell me, tell them. Okay. I'll introduce the
+- [00:26:32,480 - 00:26:33,600] presenters when they present going forward.
+- [00:26:33,600 - 00:26:34,100] Okay. So I'm going to introduce the
+- [00:26:34,100 - 00:26:34,600] presenters. I'm going to introduce the presenters. I'm
+- [00:26:34,600 - 00:26:34,690] going to introduce the presenters. I'm going to
+- [00:26:34,690 - 00:26:34,780] introduce the presenters. I'm going to introduce the
+- [00:26:34,780 - 00:26:34,950] presenters. I'm going to introduce the
+- [00:26:34,950 - 00:26:35,120] presenters. I'm going to introduce the
+- [00:26:35,120 - 00:26:37,470] presentations. Please let me speak. And, you
+- [00:26:37,470 - 00:26:39,820] know, using a 70%嘉 يعys DB is
+- [00:26:39,820 - 00:26:41,499] an excellent way to support business
+- [00:26:41,499 - 00:26:43,179] expectations quite a lot of work,
+- [00:26:43,179 - 00:26:45,419] particularly if you are an entrepreneur. But I
+- [00:26:45,419 - 00:26:47,659] wanted to give you a little bit more
+- [00:26:47,659 - 00:26:50,189] of a background for what I'm going to
+- [00:26:50,189 - 00:26:52,719] talk about in just a minute. A, is it
+- [00:26:52,719 - 00:27:02,379] not right, is it very important that there date to
+- [00:27:02,379 - 00:27:03,240] make investments with a very short yet АннуAy,
+- [00:27:03,240 - 00:27:03,659] period.
+- [00:27:03,659 - 00:27:04,300] expenditure in the market.
+- [00:27:04,300 - 00:27:06,899] the answers are not.
+- [00:27:08,100 - 00:27:09,139] That's the real key.
+- [00:27:09,580 - 00:27:11,220] If you know what questions to ask,
+- [00:27:11,360 - 00:27:12,560] finding the answers is hard.
+- [00:27:13,320 - 00:27:16,100] But if you do that correctly, you'll be a success.
+- [00:27:16,240 - 00:27:17,480] So what do you need for success?
+- [00:27:17,620 - 00:27:18,650] Well, the first thing you do
+- [00:27:18,650 - 00:27:19,680] is you have to create value.
+- [00:27:20,760 - 00:27:22,419] Because if you don't create value,
+- [00:27:23,080 - 00:27:24,960] you don't have anything, right?
+- [00:27:25,840 - 00:27:28,000] Now, there's a lot behind that.
+- [00:27:28,620 - 00:27:31,159] Like, what kind of value?
+- [00:27:31,919 - 00:27:33,540] For whom am I creating the value?
+- [00:27:34,300 - 00:27:36,120] How much value do I create?
+- [00:27:36,919 - 00:27:39,120] What does it cost me to create that value?
+- [00:27:39,899 - 00:27:42,740] How often do people want that value?
+- [00:27:42,860 - 00:27:43,520] A lot of things.
+- [00:27:43,600 - 00:27:45,000] We're going to talk about all that stuff.
+- [00:27:45,740 - 00:27:46,700] So create value.
+- [00:27:47,220 - 00:27:49,460] But if you create value and that's it,
+- [00:27:50,020 - 00:27:51,480] you don't have a successful venture
+- [00:27:51,480 - 00:27:54,919] because you've got to capture some of that value
+- [00:27:54,919 - 00:27:56,500] so you can do it again.
+- [00:27:57,600 - 00:27:59,280] In the for-profit world,
+- [00:27:59,419 - 00:28:02,120] that's eventually profit and cash flow.
+- [00:28:02,540 - 00:28:04,120] In the not-for-profit world,
+- [00:28:04,120 - 00:28:08,040] it can be creating enough interest
+- [00:28:08,040 - 00:28:10,239] that you can get other people to give you resources.
+- [00:28:10,919 - 00:28:13,060] It's the model that you're going to create
+- [00:28:13,060 - 00:28:14,369] that will allow you to
+- [00:28:14,369 - 00:28:15,679] capture some value that you create.
+- [00:28:16,159 - 00:28:16,739] Real simple.
+- [00:28:16,840 - 00:28:18,760] Create value, harvest value.
+- [00:28:19,360 - 00:28:20,739] So that's one way to think about
+- [00:28:20,739 - 00:28:22,179] the things you're going to look at
+- [00:28:22,179 - 00:28:24,159] during the six sessions.
+- [00:28:25,560 - 00:28:27,399] Now, another way to look at it
+- [00:28:27,399 - 00:28:30,179] is what I've called the three whys.
+- [00:28:31,000 - 00:28:34,020] I've looked at probably several thousand
+- [00:28:34,020 - 00:28:36,040] business plans over the years and heard pitches.
+- [00:28:37,220 - 00:28:38,360] And I've talked to investors
+- [00:28:38,360 - 00:28:41,040] about what they're looking for.
+- [00:28:41,500 - 00:28:44,440] And I've talked to founders and other things.
+- [00:28:44,500 - 00:28:46,040] And I think it boils
+- [00:28:46,040 - 00:28:47,580] down to three basic why questions.
+- [00:28:48,160 - 00:28:50,080] The first is, why this?
+- [00:28:51,440 - 00:28:54,180] Why is this idea that you're telling me about
+- [00:28:54,180 - 00:28:56,780] worth doing or investing in?
+- [00:28:57,820 - 00:28:58,340] Why?
+- [00:28:59,620 - 00:29:01,160] Is it the size of the market?
+- [00:29:01,160 - 00:29:03,720] Is it a problem worth solving?
+- [00:29:04,020 - 00:29:04,860] Is it a problem worth solving?
+- [00:29:05,520 - 00:29:09,260] Amy Smith entered the 100K competition
+- [00:29:09,260 - 00:29:11,480] probably, I don't know, 15 years ago.
+- [00:29:12,879 - 00:29:14,700] And she was at the Edgerton Center.
+- [00:29:15,080 - 00:29:17,460] Amy was big on the developing world.
+- [00:29:18,400 - 00:29:20,780] And D-Lab, I think, was part of what she did.
+- [00:29:21,400 - 00:29:23,600] And she got into the finals of the 100K.
+- [00:29:23,700 - 00:29:26,139] And she got up on Kresge at the big auditorium.
+- [00:29:26,320 - 00:29:27,760] And I remember her pitch.
+- [00:29:27,920 - 00:29:28,780] It went like this.
+- [00:29:29,860 - 00:29:33,800] She said, 1.9 billion people on the planet
+- [00:29:34,020 - 00:29:36,520] don't have access to clean water.
+- [00:29:37,520 - 00:29:39,160] I mean, I was clueless.
+- [00:29:39,160 - 00:29:40,200] You're kidding me.
+- [00:29:40,200 - 00:29:41,700] 1.9 billion people?
+- [00:29:41,700 - 00:29:42,580] That's a big problem.
+- [00:29:43,720 - 00:29:46,680] The only way to test for biological contamination
+- [00:29:46,680 - 00:29:49,460] is to incubate a sample of water.
+- [00:29:51,379 - 00:29:53,720] The only incubators in the market today
+- [00:29:53,720 - 00:29:55,060] are powered by electricity.
+- [00:29:56,740 - 00:30:00,120] The 1.9 billion people that don't have access
+- [00:30:00,120 - 00:30:01,810] to clean water, by and
+- [00:30:01,810 - 00:30:03,500] large, don't have access to electricity.
+- [00:30:04,020 - 00:30:08,160] I've got an incubator that doesn't require electricity.
+- [00:30:09,160 - 00:30:10,220] Would you like to hear more?
+- [00:30:11,379 - 00:30:12,840] Big problem, right?
+- [00:30:13,700 - 00:30:15,240] Now, that's something I can get behind.
+- [00:30:16,520 - 00:30:19,660] She went on and did a bunch of things.
+- [00:30:19,740 - 00:30:21,940] Eventually won a MacArthur Genius Award.
+- [00:30:22,940 - 00:30:24,500] I haven't talked to her in several years.
+- [00:30:24,620 - 00:30:25,440] I hope she's all right.
+- [00:30:25,720 - 00:30:28,860] But it was so riveting, her presentation.
+- [00:30:29,400 - 00:30:30,540] So why this?
+- [00:30:30,639 - 00:30:31,740] Why is this a big idea?
+- [00:30:31,740 - 00:30:33,580] Why is this worth spending your time?
+- [00:30:33,580 - 00:30:35,780] Or if you're an investor, why
+- [00:30:35,780 - 00:30:37,980] would I put my money behind you?
+- [00:30:38,199 - 00:30:39,179] Or if you're trying to
+- [00:30:39,179 - 00:30:40,159] get me to come on board
+- [00:30:40,159 - 00:30:41,549] and be part of your team, why
+- [00:30:41,549 - 00:30:42,939] would I want to join the team?
+- [00:30:43,780 - 00:30:44,439] Why this?
+- [00:30:45,520 - 00:30:46,439] The second why.
+- [00:30:46,780 - 00:30:47,439] Why now?
+- [00:30:48,639 - 00:30:50,620] Why is now the right time to do this?
+- [00:30:52,240 - 00:30:54,580] Well, sometimes it can be the convergence
+- [00:30:55,199 - 00:30:56,720] of opportunity and solution.
+- [00:30:58,580 - 00:31:01,070] So one of the contestants in
+- [00:31:01,070 - 00:31:03,560] the 100K back in the day,
+- [00:31:03,580 - 00:31:07,080] had an elegant plan for fixing the defects in
+- [00:31:07,080 - 00:31:10,580] the air traffic control system in the United States.
+- [00:31:10,580 - 00:31:13,580] I mean, it was really quite well done.
+- [00:31:13,580 - 00:31:15,280] And the judges were there saying,
+- [00:31:15,280 - 00:31:17,080] well, that's all fine and good, but you know,
+- [00:31:17,080 - 00:31:20,879] you can't just fix part of it.
+- [00:31:20,879 - 00:31:22,179] You've got to fix the whole system.
+- [00:31:22,179 - 00:31:24,580] And they looked at us and they said,
+- [00:31:24,580 - 00:31:27,580] well, didn't you know that the FAA has put out
+- [00:31:27,580 - 00:31:30,580] a request for proposal for a new air traffic control system?
+- [00:31:30,580 - 00:31:33,580] No, you didn't tell us that.
+- [00:31:33,580 - 00:31:35,580] Well, now we have a timing.
+- [00:31:35,580 - 00:31:36,580] Why now?
+- [00:31:36,580 - 00:31:39,580] Somebody wants this now and we've got the solution.
+- [00:31:39,580 - 00:31:42,580] If they'd had that solution five years before
+- [00:31:42,580 - 00:31:45,580] or after the new system was put in place,
+- [00:31:45,580 - 00:31:47,580] even though it's a great idea,
+- [00:31:47,580 - 00:31:49,580] it may not be the right time to do it.
+- [00:31:49,580 - 00:31:50,580] So why this?
+- [00:31:50,580 - 00:31:51,580] Why now?
+- [00:31:51,580 - 00:31:52,580] The third why.
+- [00:31:52,580 - 00:31:53,580] Why this team?
+- [00:31:53,580 - 00:31:57,580] Why do I think these people will win?
+- [00:31:58,580 - 00:31:59,580] Great idea.
+- [00:31:59,580 - 00:32:00,580] Good timing.
+- [00:32:00,580 - 00:32:01,580] Why these people?
+- [00:32:01,580 - 00:32:02,580] Well,
+- [00:32:02,580 - 00:32:03,580] you know,
+- [00:32:03,580 - 00:32:06,580] it could be prior experience.
+- [00:32:06,580 - 00:32:07,580] Although that doesn't always count.
+- [00:32:07,580 - 00:32:10,080] There was a company back in my
+- [00:32:10,080 - 00:32:12,580] law days that I represented called Encore Computer.
+- [00:32:12,580 - 00:32:15,580] And Encore was founded by the
+- [00:32:15,580 - 00:32:18,580] technical founders of Digital Equipment Corporation,
+- [00:32:18,580 - 00:32:19,580] Prime Computer,
+- [00:32:19,580 - 00:32:20,580] and Data General.
+- [00:32:20,580 - 00:32:23,080] The three biggest mini computer
+- [00:32:23,080 - 00:32:25,580] companies at the time got together
+- [00:32:25,580 - 00:32:27,080] and they were going to
+- [00:32:27,080 - 00:32:28,580] make a new generation of computers.
+- [00:32:28,580 - 00:32:32,580] Prior experience, out of the park amount.
+- [00:32:32,580 - 00:32:33,580] Did it succeed?
+- [00:32:33,580 - 00:32:34,580] No.
+- [00:32:34,580 - 00:32:35,580] Bunch of issues there.
+- [00:32:35,580 - 00:32:39,580] But prior experience got them funded.
+- [00:32:39,580 - 00:32:42,080] But if you're a starting entrepreneur
+- [00:32:42,080 - 00:32:44,580] and you don't have prior experience,
+- [00:32:44,580 - 00:32:47,580] how do you show that this team is right?
+- [00:32:47,580 - 00:32:49,580] Well, it could be a compelling model you have.
+- [00:32:49,580 - 00:32:53,580] It could be the people you attract around you.
+- [00:32:53,580 - 00:32:54,580] Okay?
+- [00:32:54,580 - 00:32:55,580] So why now?
+- [00:32:55,580 - 00:32:56,580] Why this?
+- [00:32:56,580 - 00:32:57,580] Why now?
+- [00:32:57,580 - 00:32:58,580] Why this team?
+- [00:32:58,580 - 00:33:01,580] And then the fourth question that comes up.
+- [00:33:01,580 - 00:33:04,580] Why won't this work?
+- [00:33:04,580 - 00:33:06,580] Now, salespeople will tell you when the
+- [00:33:06,580 - 00:33:08,580] prospect starts asking you a bunch of questions
+- [00:33:08,580 - 00:33:11,580] about the limits of the thing you're trying to sell,
+- [00:33:11,580 - 00:33:14,580] they know they've got you on a hook.
+- [00:33:14,580 - 00:33:16,580] Because you're interested.
+- [00:33:16,580 - 00:33:18,580] You're trying to test it out.
+- [00:33:18,580 - 00:33:20,080] So this fourth one is if
+- [00:33:20,080 - 00:33:21,580] you don't get through the first three,
+- [00:33:21,580 - 00:33:23,580] you won't get to the fourth.
+- [00:33:23,580 - 00:33:25,580] This is where you've got to start thinking
+- [00:33:25,580 - 00:33:27,580] about what are the risks in what I'm doing
+- [00:33:27,580 - 00:33:29,580] and how do I de-risk it?
+- [00:33:29,580 - 00:33:31,580] How do I anticipate things?
+- [00:33:31,580 - 00:33:33,580] What's my plan B?
+- [00:33:33,580 - 00:33:35,580] So that's another way to think about it.
+- [00:33:35,580 - 00:33:39,580] So we had the first concept, create value, capture value.
+- [00:33:39,580 - 00:33:42,080] The three why concepts for you to
+- [00:33:42,080 - 00:33:44,580] think about as you look at ventures.
+- [00:33:44,580 - 00:33:48,080] Now I'm going to do some lesson
+- [00:33:48,080 - 00:33:51,580] learned from things that I actually worked on
+- [00:33:51,580 - 00:33:54,080] that would hopefully give you some
+- [00:33:54,080 - 00:33:56,580] ideas about how to look at things.
+- [00:33:56,580 - 00:33:58,580] And there are four critical components
+- [00:33:58,580 - 00:34:00,580] that I've distilled from thinking about
+- [00:34:00,580 - 00:34:03,580] all the things I've worked on over the years.
+- [00:34:03,580 - 00:34:06,580] There are ideas.
+- [00:34:06,580 - 00:34:09,580] You need all of these components together.
+- [00:34:09,580 - 00:34:11,580] You need ideas.
+- [00:34:11,580 - 00:34:14,580] You need to be able to execute.
+- [00:34:14,580 - 00:34:16,580] You have to get the timing right.
+- [00:34:16,580 - 00:34:19,580] And you've got to get the people right.
+- [00:34:19,580 - 00:34:22,080] And if you do all of that,
+- [00:34:22,080 - 00:34:24,580] that's probably your 10% success right there.
+- [00:34:24,580 - 00:34:26,580] And maybe it's bigger.
+- [00:34:26,580 - 00:34:28,580] But if you don't get all of those things aligned,
+- [00:34:28,580 - 00:34:30,580] you're going to have a hard time.
+- [00:34:30,580 - 00:34:32,080] So let's look at it
+- [00:34:32,080 - 00:34:33,580] in a little bit more detail.
+- [00:34:33,580 - 00:34:36,580] Ideas.
+- [00:34:36,580 - 00:34:38,580] You've got to have something.
+- [00:34:38,580 - 00:34:40,580] But ideas are a dime a dozen.
+- [00:34:40,580 - 00:34:42,580] That's an expression people use.
+- [00:34:42,580 - 00:34:44,580] Around MIT, there are ideas all over the place.
+- [00:34:44,580 - 00:34:48,580] Everything from genomics to AI to
+- [00:34:48,580 - 00:34:52,580] nanotechnology to latest drug type stuff.
+- [00:34:52,580 - 00:34:54,580] They're all over the place.
+- [00:34:54,580 - 00:34:56,580] The question is, is it a valuable
+- [00:34:56,580 - 00:34:58,580] idea or can it be made valuable?
+- [00:34:58,580 - 00:35:00,580] And the question is, to whom?
+- [00:35:00,580 - 00:35:03,580] Is this idea valuable?
+- [00:35:03,580 - 00:35:05,580] And how much value?
+- [00:35:05,580 - 00:35:09,580] This is, again, riffing on that create value concept.
+- [00:35:09,580 - 00:35:14,580] And then finally, is it easily copied?
+- [00:35:14,580 - 00:35:16,080] Because if I have a great
+- [00:35:16,080 - 00:35:17,580] idea, but anyone can do it,
+- [00:35:17,580 - 00:35:20,580] that may be still something you want to do.
+- [00:35:20,580 - 00:35:23,580] Maybe that's open source stuff,
+- [00:35:23,580 - 00:35:26,580] but you can't build a venture around that very well.
+- [00:35:26,580 - 00:35:28,580] So you have to have some good ideas.
+- [00:35:28,580 - 00:35:31,580] The second component, execution.
+- [00:35:31,580 - 00:35:34,580] Thomas Edison.
+- [00:35:34,580 - 00:35:39,580] Vision without execution is hallucination.
+- [00:35:39,580 - 00:35:43,580] Now Edison, the modern day Edison, Dyson,
+- [00:35:43,580 - 00:35:45,580] spent how many experiments did they
+- [00:35:45,580 - 00:35:47,580] run to try to figure out?
+- [00:35:47,580 - 00:35:49,580] In Edison's case, it was trying to find
+- [00:35:49,580 - 00:35:51,580] a filament that would work as a light bulb,
+- [00:35:51,580 - 00:35:54,580] and eventually it was bamboo, of all things.
+- [00:35:54,580 - 00:35:56,580] And Dyson, I don't know what it is,
+- [00:35:56,580 - 00:35:57,580] but he talked about finding a light bulb.
+- [00:35:57,580 - 00:35:59,580] He talked about finding the
+- [00:35:59,580 - 00:36:01,580] 10,000 ways things didn't happen.
+- [00:36:01,580 - 00:36:05,580] But execution on that idea is key.
+- [00:36:05,580 - 00:36:07,580] I'm going to tell you about
+- [00:36:07,580 - 00:36:09,580] two deals that I passed on
+- [00:36:09,580 - 00:36:13,580] because I had concerns about their execution.
+- [00:36:13,580 - 00:36:15,580] The first is Zipcar.
+- [00:36:15,580 - 00:36:17,580] People have heard of Zipcar?
+- [00:36:17,580 - 00:36:19,580] Okay, so Zipcar was the concept that
+- [00:36:19,580 - 00:36:21,580] I don't need to own a car.
+- [00:36:21,580 - 00:36:23,580] If I want to get from here to there,
+- [00:36:23,580 - 00:36:25,580] there's a lot of things I can do.
+- [00:36:25,580 - 00:36:27,580] I can own a car.
+- [00:36:27,580 - 00:36:28,580] I can get a cab.
+- [00:36:28,580 - 00:36:30,080] I can rent a car
+- [00:36:30,080 - 00:36:31,580] for a day or a week.
+- [00:36:31,580 - 00:36:33,080] But what if I could rent
+- [00:36:33,080 - 00:36:34,580] a car for an hour or two?
+- [00:36:34,580 - 00:36:38,580] That's a fundamental break in how transportation is done.
+- [00:36:38,580 - 00:36:41,580] And they came in and they talked and I said,
+- [00:36:41,580 - 00:36:43,580] well, tell me about it.
+- [00:36:43,580 - 00:36:45,580] Oh, we're going to have this thing.
+- [00:36:45,580 - 00:36:49,080] We're going to have an app and you'll see
+- [00:36:49,080 - 00:36:52,580] a car in a parking space on the 6th Street.
+- [00:36:52,580 - 00:36:53,580] You'll swipe it.
+- [00:36:53,580 - 00:36:55,080] You'll do this and then you
+- [00:36:55,080 - 00:36:56,580] can do it and take it back.
+- [00:36:56,580 - 00:36:57,580] It's going to work.
+- [00:36:57,580 - 00:36:58,580] It's going to work that way.
+- [00:36:58,580 - 00:36:59,580] I said, okay.
+- [00:36:59,580 - 00:37:00,580] Well, where are you going to start?
+- [00:37:00,580 - 00:37:03,580] Oh, we're going to start in Cambridge.
+- [00:37:03,580 - 00:37:05,580] I said, in Cambridge?
+- [00:37:05,580 - 00:37:10,580] They said, you clearly don't know
+- [00:37:10,580 - 00:37:15,580] the story about recruiting faculty in Cambridge
+- [00:37:15,580 - 00:37:19,580] where they say to the faculty, the would-be faculty member,
+- [00:37:19,580 - 00:37:20,580] I'm going to give you three things.
+- [00:37:20,580 - 00:37:22,580] You can pick one of them.
+- [00:37:22,580 - 00:37:25,580] We can give you tenure.
+- [00:37:25,580 - 00:37:27,580] We can give you the Nobel Prize.
+- [00:37:27,580 - 00:37:30,580] Or we can give you parking.
+- [00:37:30,580 - 00:37:32,580] And the smart ones say, I'll take
+- [00:37:32,580 - 00:37:34,580] the parking because if I have parking,
+- [00:37:34,580 - 00:37:36,580] I can get to work and I can figure
+- [00:37:36,580 - 00:37:38,580] out how to get tenure and the Nobel Prize.
+- [00:37:38,580 - 00:37:40,580] Parking is a big deal in Cambridge.
+- [00:37:40,580 - 00:37:43,580] And if you've got to do that in
+- [00:37:43,580 - 00:37:46,580] every single city, that's a major execution thing.
+- [00:37:46,580 - 00:37:49,580] I don't understand how you're going to do it.
+- [00:37:49,580 - 00:37:51,580] And I said, you know, I wish you well, but
+- [00:37:51,580 - 00:37:53,580] I'm just not going to be on that journey with you.
+- [00:37:53,580 - 00:37:55,080] Now, it turned out they
+- [00:37:55,080 - 00:37:56,580] did eventually, I think, go public.
+- [00:37:56,580 - 00:37:58,580] It was a hard slog.
+- [00:37:58,580 - 00:38:01,080] The founders might have felt good that
+- [00:38:01,080 - 00:38:03,580] they changed a fundamental part of transportation.
+- [00:38:03,580 - 00:38:06,080] But in terms of their personal economic reward, it
+- [00:38:06,080 - 00:38:08,580] wasn't very much at the end of the day.
+- [00:38:08,580 - 00:38:11,080] But that's okay if I go back to the questions
+- [00:38:11,080 - 00:38:13,580] of what am I looking for, if that works for you.
+- [00:38:13,580 - 00:38:15,580] But it didn't work for me
+- [00:38:15,580 - 00:38:17,580] just to join them on that journey.
+- [00:38:17,580 - 00:38:21,580] The second one was a precursor to eBay.
+- [00:38:21,580 - 00:38:23,580] It wasn't eBay, but the same
+- [00:38:23,580 - 00:38:25,580] concept that I saw before eBay.
+- [00:38:25,580 - 00:38:27,080] And I listened to them and I said, okay,
+- [00:38:27,080 - 00:38:28,580] let me see if I can boil this down.
+- [00:38:28,580 - 00:38:33,080] I'm going to buy something sight unseen from somebody
+- [00:38:33,080 - 00:38:37,580] I've never met and nobody standing behind the transaction.
+- [00:38:37,580 - 00:38:39,580] Boy, that sounds like it
+- [00:38:39,580 - 00:38:41,580] could be a fraught with fraud.
+- [00:38:41,580 - 00:38:43,580] You know, I don't quite figure
+- [00:38:43,580 - 00:38:45,580] out how you're going to do it.
+- [00:38:45,580 - 00:38:47,580] And so I'm going to pass on it.
+- [00:38:47,580 - 00:38:49,580] Well, eBay itself got going.
+- [00:38:49,580 - 00:38:52,080] And there's a great story about how, you know, Pez
+- [00:38:52,080 - 00:38:54,580] dispensers and all that stuff, if you read about it.
+- [00:38:54,580 - 00:38:56,580] And eventually, you know, they did have fraud.
+- [00:38:56,580 - 00:38:58,580] They did figure out how to get insurance.
+- [00:38:58,580 - 00:39:01,080] But the point is there were a lot of
+- [00:39:01,080 - 00:39:03,580] execution things that were very difficult for me to understand.
+- [00:39:03,580 - 00:39:05,080] And I didn't think that I
+- [00:39:05,080 - 00:39:06,580] could help them on that journey.
+- [00:39:06,580 - 00:39:12,580] So that was two examples of execution issues.
+- [00:39:12,580 - 00:39:16,080] Now, MIT, this is right at
+- [00:39:16,080 - 00:39:19,580] the heart of MIT, ideas plus execution.
+- [00:39:19,580 - 00:39:21,580] The motto of MIT is
+- [00:39:21,580 - 00:39:23,580] mens et manus, mind and hands.
+- [00:39:24,580 - 00:39:27,580] So this is, you know, not unknown that
+- [00:39:27,580 - 00:39:30,580] you need ideas and you need to execute.
+- [00:39:30,580 - 00:39:35,580] But those two are not, they're necessary, but they're not
+- [00:39:35,580 - 00:39:40,580] sufficient for success because you need the other two pieces.
+- [00:39:40,580 - 00:39:43,580] And timing.
+- [00:39:43,580 - 00:39:45,580] I've lost more money and
+- [00:39:45,580 - 00:39:47,580] time being ahead of the curve.
+- [00:39:47,580 - 00:39:50,580] This is a quote from somebody you know.
+- [00:39:50,580 - 00:39:52,580] Me.
+- [00:39:52,580 - 00:39:54,580] Fortunately, I've been able to do it.
+- [00:39:54,580 - 00:39:56,080] I've been able to catch some
+- [00:39:56,080 - 00:39:57,580] waves and I've done all right.
+- [00:39:57,580 - 00:39:58,580] I'm not complaining.
+- [00:39:58,580 - 00:40:03,080] But I've crashed and burned a lot of the times
+- [00:40:03,080 - 00:40:07,580] because I was ahead of the curve in thinking about stuff.
+- [00:40:07,580 - 00:40:11,080] It can take, this is especially for technology ventures, it
+- [00:40:11,080 - 00:40:14,580] can take a long time to be an overnight success.
+- [00:40:14,580 - 00:40:19,580] NVIDIA, three decades.
+- [00:40:19,580 - 00:40:22,580] 3D printing, over 25 years.
+- [00:40:22,580 - 00:40:24,580] The last night of the course, Marina had something.
+- [00:40:24,580 - 00:40:26,580] She's going to come and talk about
+- [00:40:26,580 - 00:40:28,580] some things that she's learned over the years.
+- [00:40:28,580 - 00:40:31,580] She was one of the founders of ZCorp,
+- [00:40:31,580 - 00:40:34,580] which was one of the first 3D printing companies.
+- [00:40:34,580 - 00:40:37,580] And a couple years ago, I was at an investment conference and
+- [00:40:37,580 - 00:40:40,580] someone came up and said, you know, you do stuff at MIT.
+- [00:40:40,580 - 00:40:42,580] Yeah, yeah, I do.
+- [00:40:42,580 - 00:40:45,580] I said, tell me about this new 3D printing.
+- [00:40:45,580 - 00:40:47,580] And I said, it's not new.
+- [00:40:47,580 - 00:40:49,580] The patents have expired.
+- [00:40:49,580 - 00:40:52,580] The original patents.
+- [00:40:52,580 - 00:41:01,080] And what has happened is in the last few years, there have been advances in material science, in sensor technology, and in microelectronics
+- [00:41:01,080 - 00:41:09,580] that have now made some of this stuff work beyond the simple area of 3D printing so we can do more broader things.
+- [00:41:09,580 - 00:41:14,080] The point is, it took a number of years for all the ancillary pieces
+- [00:41:14,080 - 00:41:18,580] of technology to come together to really make 3D printing what it is today.
+- [00:41:18,580 - 00:41:20,080] And it's even, the jury's
+- [00:41:20,080 - 00:41:21,580] out whether it's really that successful.
+- [00:41:21,580 - 00:41:25,580] There have been, if you follow the news on this, there have been a
+- [00:41:25,580 - 00:41:29,580] lot of strain among some of the 3D printing companies that have gone public.
+- [00:41:29,580 - 00:41:33,580] Another example is Prodigy.
+- [00:41:33,580 - 00:41:35,580] I doubt any of you have heard of Prodigy.
+- [00:41:35,580 - 00:41:37,580] Anybody?
+- [00:41:37,580 - 00:41:39,580] Oh, a couple of historians here.
+- [00:41:39,580 - 00:41:41,580] Well, Prodigy was a joint venture.
+- [00:41:41,580 - 00:41:43,580] It was one of the first sort of online things.
+- [00:41:43,580 - 00:41:46,080] It was a joint venture
+- [00:41:46,080 - 00:41:48,580] between CompuServe and Sears and Roebuck.
+- [00:41:48,580 - 00:41:49,580] And one of the things they were going to
+- [00:41:49,580 - 00:41:50,580] do was they were going to do on your computer.
+- [00:41:50,580 - 00:41:51,580] It was a computer.
+- [00:41:51,580 - 00:41:53,080] They were going to be
+- [00:41:53,080 - 00:41:54,580] able to go online and shop.
+- [00:41:54,580 - 00:41:57,580] And back then, you know, they didn't have,
+- [00:41:57,580 - 00:42:00,580] the browsers weren't anywhere near what they are today.
+- [00:42:00,580 - 00:42:03,080] They spent more than a billion dollars
+- [00:42:03,080 - 00:42:05,580] trying to get that concept off the ground.
+- [00:42:05,580 - 00:42:08,580] And that's what a billion dollars was, real money.
+- [00:42:08,580 - 00:42:11,580] I guess it's still real money.
+- [00:42:11,580 - 00:42:14,080] But today, how many people have bought
+- [00:42:14,080 - 00:42:16,580] something at Amazon and don't raise your hand.
+- [00:42:16,580 - 00:42:18,580] I know you all have in the last month.
+- [00:42:18,580 - 00:42:20,580] That's here today.
+- [00:42:20,580 - 00:42:23,580] So, it's a good time for that to happen.
+- [00:42:23,580 - 00:42:25,580] The other one, and this has
+- [00:42:25,580 - 00:42:27,580] a double meaning on it, is fusion.
+- [00:42:27,580 - 00:42:31,080] People have been working on fusion
+- [00:42:31,080 - 00:42:34,580] for generating electricity for 50 plus years.
+- [00:42:34,580 - 00:42:36,080] Now, recently there have been some
+- [00:42:36,080 - 00:42:37,580] advances, or at least people investing.
+- [00:42:37,580 - 00:42:41,080] There's Commonwealth Fusion here in Massachusetts backed
+- [00:42:41,080 - 00:42:44,580] big bucks by people like Bill Gates, etc.
+- [00:42:44,580 - 00:42:47,080] One of the problems with something like
+- [00:42:47,080 - 00:42:49,580] fusion, and I call it my fusion problem,
+- [00:42:49,580 - 00:42:52,580] is fusion doesn't work unless all of it works.
+- [00:42:52,580 - 00:42:56,080] You can't, it's not like 3D printing when you can make
+- [00:42:56,080 - 00:42:59,580] a little thing and do a little prototyping with a 3D printer.
+- [00:42:59,580 - 00:43:01,580] It either works or it doesn't.
+- [00:43:01,580 - 00:43:04,080] And if you're going down and looking at a
+- [00:43:04,080 - 00:43:06,580] venture that requires all of the pieces to come together,
+- [00:43:06,580 - 00:43:09,580] that's a risky proposition.
+- [00:43:09,580 - 00:43:12,080] And things like fusion, that's where
+- [00:43:12,080 - 00:43:14,580] the government long-term investment should be,
+- [00:43:14,580 - 00:43:16,580] you know, to provide the
+- [00:43:16,580 - 00:43:18,580] stability to build out those technologies.
+- [00:43:18,580 - 00:43:21,580] So timing is important.
+- [00:43:21,580 - 00:43:24,580] And then finally, people.
+- [00:43:24,580 - 00:43:28,080] People are the single biggest source of
+- [00:43:28,080 - 00:43:31,580] failure in most ventures, in my experience.
+- [00:43:31,580 - 00:43:34,580] Here's a quote from Alice in Wonderland.
+- [00:43:34,580 - 00:43:37,080] One day Alice came to a fork in the
+- [00:43:37,080 - 00:43:39,580] road and saw a Cheshire cat in a tree.
+- [00:43:39,580 - 00:43:42,580] Which road do I take? she asked.
+- [00:43:42,580 - 00:43:45,580] Where do you want to go? said the cat.
+- [00:43:45,580 - 00:43:47,580] Alice answered, I don't know.
+- [00:43:47,580 - 00:43:51,580] And the cat said, well, then it doesn't really matter.
+- [00:43:51,580 - 00:43:53,580] Right?
+- [00:43:53,580 - 00:43:58,580] And what happens, let's say we decide that we're going
+- [00:43:58,580 - 00:44:03,580] to go watch the New England Patriots play football next week.
+- [00:44:03,580 - 00:44:04,580] Well, wait a second, there
+- [00:44:04,580 - 00:44:05,580] are a couple problems with that.
+- [00:44:05,580 - 00:44:07,580] First of all, they've had a terrible
+- [00:44:07,580 - 00:44:09,580] season and they're not playing next week.
+- [00:44:09,580 - 00:44:11,580] So what if we want to go see the Celtics?
+- [00:44:11,580 - 00:44:13,580] All right, it's a pretty good team.
+- [00:44:13,580 - 00:44:15,580] So we agree we're going to go see the Celtics.
+- [00:44:15,580 - 00:44:16,580] And we start off.
+- [00:44:17,580 - 00:44:21,580] And we had a road closed sign.
+- [00:44:21,580 - 00:44:25,580] In Boston, there are two seasons, winter and construction.
+- [00:44:25,580 - 00:44:28,580] And recently, they seem to be the same season.
+- [00:44:28,580 - 00:44:30,080] But if we go to that road closure
+- [00:44:30,080 - 00:44:31,580] sign, we know where we want to go.
+- [00:44:31,580 - 00:44:33,580] We'll figure out how to get there.
+- [00:44:33,580 - 00:44:35,080] We might have to take a big,
+- [00:44:35,080 - 00:44:36,580] long, more expensive way to get there.
+- [00:44:36,580 - 00:44:40,580] But as a team, we'll figure it out.
+- [00:44:40,580 - 00:44:43,080] A number of years ago, I had three MIT teams come
+- [00:44:43,080 - 00:44:45,580] into my office when I was practicing law, which was great.
+- [00:44:45,580 - 00:44:46,580] And they had some great ideas.
+- [00:44:46,580 - 00:44:50,080] And the first one came in,
+- [00:44:50,080 - 00:44:53,580] and there were three of them.
+- [00:44:53,580 - 00:44:55,080] And the first person, I said,
+- [00:44:55,080 - 00:44:56,580] tell me one of your goals.
+- [00:44:56,580 - 00:44:58,580] What are your goals for this venture?
+- [00:44:58,580 - 00:45:01,080] The first one said, I want this
+- [00:45:01,080 - 00:45:03,580] technology to be a standard in the industry.
+- [00:45:03,580 - 00:45:05,580] Oh, that's a pretty good goal.
+- [00:45:05,580 - 00:45:07,580] How about you?
+- [00:45:07,580 - 00:45:09,580] The next person, oh, this is really big.
+- [00:45:09,580 - 00:45:11,580] I want to grow it and take it public.
+- [00:45:11,580 - 00:45:13,580] We can make a lot of money.
+- [00:45:13,580 - 00:45:15,580] Well, that's a good idea, too.
+- [00:45:15,580 - 00:45:18,580] What about the third person?
+- [00:45:18,580 - 00:45:20,580] Well, I think it's important.
+- [00:45:20,580 - 00:45:23,580] But I think we should be a collegial group.
+- [00:45:23,580 - 00:45:25,580] And we can make money, but
+- [00:45:25,580 - 00:45:27,580] we don't have to grow like gangbusters.
+- [00:45:27,580 - 00:45:30,080] I don't want to call it lifestyle,
+- [00:45:30,080 - 00:45:32,580] but I don't want to go crazy.
+- [00:45:32,580 - 00:45:34,580] And I sort of put my pen down.
+- [00:45:34,580 - 00:45:35,580] I was writing.
+- [00:45:35,580 - 00:45:37,080] And I said, did you
+- [00:45:37,080 - 00:45:38,580] three just meet in the elevator?
+- [00:45:38,580 - 00:45:40,580] I mean, think about it.
+- [00:45:40,580 - 00:45:42,580] The one who wants the technology to be
+- [00:45:42,580 - 00:45:44,580] standard might want it to be open source.
+- [00:45:44,580 - 00:45:45,580] Give it away.
+- [00:45:45,580 - 00:45:47,580] I want it everywhere.
+- [00:45:47,580 - 00:45:50,580] The person who wants to go public wouldn't want that to
+- [00:45:50,580 - 00:45:53,580] happen unless they can figure out an open source model, right?
+- [00:45:53,580 - 00:45:56,580] Because I want to grow something fast and valuable.
+- [00:45:56,580 - 00:45:59,580] And the third person, I don't know where they are.
+- [00:45:59,580 - 00:46:01,580] But when they hit their first bump in the
+- [00:46:01,580 - 00:46:03,580] road, what do you think is going to happen?
+- [00:46:03,580 - 00:46:05,580] And it doesn't matter if
+- [00:46:05,580 - 00:46:07,580] you don't know where you're going.
+- [00:46:07,580 - 00:46:09,580] So maybe I've overblown it.
+- [00:46:09,580 - 00:46:10,580] But it was so stark.
+- [00:46:10,580 - 00:46:12,580] I really said, did you just meet in the elevator?
+- [00:46:12,580 - 00:46:13,580] Well, I said, no.
+- [00:46:13,580 - 00:46:14,580] I'm going to go back to the elevator.
+- [00:46:14,580 - 00:46:15,580] OK.
+- [00:46:15,580 - 00:46:18,580] Other people-related issues.
+- [00:46:18,580 - 00:46:20,580] This doesn't happen too often.
+- [00:46:20,580 - 00:46:24,580] But when venture money is a lot of money chasing deals out there,
+- [00:46:24,580 - 00:46:28,580] and there are hot periods of time, AI is part of that now,
+- [00:46:28,580 - 00:46:31,580] you may get funded before
+- [00:46:31,580 - 00:46:34,580] you really understand what you're doing.
+- [00:46:34,580 - 00:46:38,580] And an example, sort of an analogy example, is suppose
+- [00:46:38,580 - 00:46:42,580] your idea was you think people want to watch football.
+- [00:46:42,580 - 00:46:44,580] So you assemble a football
+- [00:46:44,580 - 00:46:46,580] team and you buy a stadium.
+- [00:46:46,580 - 00:46:49,580] And then you go out to start to sell tickets.
+- [00:46:49,580 - 00:46:51,580] And what happens?
+- [00:46:51,580 - 00:46:53,580] People say, I want to watch basketball.
+- [00:46:53,580 - 00:46:54,580] It's cold out there.
+- [00:46:54,580 - 00:46:56,580] I don't want to go football.
+- [00:46:56,580 - 00:47:00,080] Now you've got a situation where you've invested all
+- [00:47:00,080 - 00:47:03,580] this time and money with people, football players, great athletes.
+- [00:47:03,580 - 00:47:05,080] But they don't really play basketball
+- [00:47:05,080 - 00:47:06,580] the way that a basketball player would.
+- [00:47:06,580 - 00:47:09,580] And now you've got an internal pivot.
+- [00:47:09,580 - 00:47:10,580] Instead of looking at the
+- [00:47:10,580 - 00:47:11,580] customer, you've got this internal pivot.
+- [00:47:11,580 - 00:47:13,580] You've got this internal conflict.
+- [00:47:13,580 - 00:47:14,580] Like who's going to get fired?
+- [00:47:14,580 - 00:47:15,580] We've got to change the model.
+- [00:47:15,580 - 00:47:18,580] I mean, it just starts
+- [00:47:18,580 - 00:47:21,580] to disintegrate all over the place.
+- [00:47:21,580 - 00:47:26,580] And then not knowing what you don't know.
+- [00:47:26,580 - 00:47:28,580] So E-Ink came out of
+- [00:47:28,580 - 00:47:30,580] the media lab here at MIT.
+- [00:47:30,580 - 00:47:35,580] It was the ability to make a low-cost, at the
+- [00:47:35,580 - 00:47:40,580] time, black and white display that would display things electronically.
+- [00:47:40,580 - 00:47:44,580] Eventually, it ended up as the original Kindle reader.
+- [00:47:44,580 - 00:47:46,580] And they came in, and they really
+- [00:47:46,580 - 00:47:48,580] knew what they were going to do.
+- [00:47:48,580 - 00:47:50,080] They were all going, oh, we're going
+- [00:47:50,080 - 00:47:51,580] to do this, that, and the other thing.
+- [00:47:51,580 - 00:47:54,080] And we listened to them, asked them questions,
+- [00:47:54,080 - 00:47:56,580] and we're thinking, I don't know about these guys.
+- [00:47:56,580 - 00:47:58,080] How much do you think you're
+- [00:47:58,080 - 00:47:59,580] going to take to get there?
+- [00:47:59,580 - 00:48:00,580] Oh, $15 million.
+- [00:48:00,580 - 00:48:02,580] That's going to be more than enough.
+- [00:48:02,580 - 00:48:04,080] And I remember saying, I don't see how you're
+- [00:48:04,080 - 00:48:05,580] going to do it for less than $80 million.
+- [00:48:05,580 - 00:48:07,580] And I was off by $80 million.
+- [00:48:07,580 - 00:48:08,580] Eventually, they raised $160 million.
+- [00:48:08,580 - 00:48:09,580] And I was off by $80 million.
+- [00:48:10,580 - 00:48:12,580] And they eventually got it out.
+- [00:48:12,580 - 00:48:15,080] But they were so sure they knew everything that
+- [00:48:15,080 - 00:48:17,580] they were doing, they didn't know what they didn't know.
+- [00:48:17,580 - 00:48:21,080] And again, we didn't want to partner up with people that don't
+- [00:48:21,080 - 00:48:24,580] know that they don't know stuff and want to learn about it.
+- [00:48:24,580 - 00:48:29,580] So now, this is a curve graph.
+- [00:48:29,580 - 00:48:32,580] You'll see it later, maybe this week.
+- [00:48:32,580 - 00:48:36,580] In the 100K competition, we bring together people.
+- [00:48:36,580 - 00:48:37,580] And after a few years, we realized that
+- [00:48:37,580 - 00:48:38,580] some of the teams were having a hard time.
+- [00:48:38,580 - 00:48:39,080] And we realized that some of
+- [00:48:39,080 - 00:48:39,580] the teams were having a hard time.
+- [00:48:39,580 - 00:48:41,580] And we realized that some of the
+- [00:48:41,580 - 00:48:43,580] teams were having internal problems and blowing up.
+- [00:48:43,580 - 00:48:47,080] And typically, there would be a
+- [00:48:47,080 - 00:48:50,580] technical founder and then a business founder.
+- [00:48:50,580 - 00:48:55,580] And they would try to figure out what they're doing.
+- [00:48:55,580 - 00:48:58,580] And as I listened to all the cases of all
+- [00:48:58,580 - 00:49:01,580] the problems they were having, I came up with this graph.
+- [00:49:01,580 - 00:49:06,580] And the vertical axis is relative importance.
+- [00:49:06,580 - 00:49:08,580] And the horizontal axis is time.
+- [00:49:08,580 - 00:49:15,580] And if I have a technical founder whose idea it is, his or her idea,
+- [00:49:15,580 - 00:49:22,580] working maybe in the lab, working 60, 70, 80 hours a week, just like crazy.
+- [00:49:22,580 - 00:49:27,080] The business founder at the beginning may be working on another regular job, working on
+- [00:49:27,080 - 00:49:31,580] this in the evenings and weekends, trying to figure out the market and all that stuff.
+- [00:49:31,580 - 00:49:33,580] But until we have something that
+- [00:49:33,580 - 00:49:35,580] works technically, we don't have a business.
+- [00:49:35,580 - 00:49:36,080] And now it comes to have
+- [00:49:36,080 - 00:49:36,580] a discussion about who's our business.
+- [00:49:36,580 - 00:49:37,080] And now it comes to have
+- [00:49:37,080 - 00:49:37,580] a discussion about who's our business.
+- [00:49:37,580 - 00:49:39,580] And now it comes to have a discussion about how
+- [00:49:39,580 - 00:49:41,580] we're going to split up the equity in the company.
+- [00:49:41,580 - 00:49:45,080] Where would you put the technical entrepreneur's
+- [00:49:45,080 - 00:49:48,580] view of the world at the beginning?
+- [00:49:48,580 - 00:49:51,580] Pretty high.
+- [00:49:51,580 - 00:49:53,580] What do you think the technical person
+- [00:49:53,580 - 00:49:55,580] is going to think about the business person?
+- [00:49:55,580 - 00:49:59,580] Pretty low.
+- [00:49:59,580 - 00:50:01,580] Now, how do you build a team around that?
+- [00:50:01,580 - 00:50:03,580] What happens over time?
+- [00:50:03,580 - 00:50:05,580] The relative importance of the technology goes down.
+- [00:50:05,580 - 00:50:06,580] The relative importance of the technology goes down.
+- [00:50:06,580 - 00:50:08,580] The relative importance of the business side goes up.
+- [00:50:08,580 - 00:50:10,580] Whether they cross or not doesn't matter.
+- [00:50:10,580 - 00:50:16,580] But when I put this graph together and they realize, you know, it really takes a team to make
+- [00:50:16,580 - 00:50:22,580] this work, it began to open up a whole level of discussions about, you know, how do we structure ourselves?
+- [00:50:22,580 - 00:50:24,580] How is it going to work?
+- [00:50:24,580 - 00:50:26,580] A classic people issue.
+- [00:50:26,580 - 00:50:28,080] Happens, of course, with
+- [00:50:28,080 - 00:50:29,580] technology companies more than others.
+- [00:50:29,580 - 00:50:31,580] Okay.
+- [00:50:31,580 - 00:50:33,580] So there's what we're trying to get at.
+- [00:50:33,580 - 00:50:34,580] Now, I'm going to give you a four-part question.
+- [00:50:34,580 - 00:50:40,580] Now, I'm going to give you four actual companies I worked with, and I'm going
+- [00:50:40,580 - 00:50:46,580] to talk about how these came together or didn't and what we can learn from them.
+- [00:50:46,580 - 00:50:50,580] The first I'll call SpeechCo.
+- [00:50:50,580 - 00:50:52,580] This had all of the four components.
+- [00:50:52,580 - 00:50:54,580] It went public.
+- [00:50:54,580 - 00:50:56,580] And basically, if you have Siri on
+- [00:50:56,580 - 00:50:58,580] your phone, that's where Siri came from.
+- [00:50:58,580 - 00:51:00,580] DARPA, the Defense Advanced Research Project Agency,
+- [00:51:00,580 - 00:51:02,580] is a very good example of that.
+- [00:51:02,580 - 00:51:04,580] It's a very good example of that.
+- [00:51:04,580 - 00:51:06,080] I mean, Google did a really good
+- [00:51:06,080 - 00:51:07,580] job of communicating with these three party systems.
+- [00:51:07,580 - 00:51:11,580] Here, if you want to have slides that show who people are and
+- [00:51:11,580 - 00:51:15,580] what they're up to, their code, you guys should use way fewer survivors時
+- [00:51:15,580 - 00:51:17,080] So Speech-PCómo-Co, that way people were
+- [00:51:17,080 - 00:51:18,580] introduced and familiar with the people better.
+- [00:51:18,580 - 00:51:20,580] That's all you need.
+- [00:51:20,580 - 00:51:29,580] ciento
+- [00:51:29,580 - 00:51:30,580] Well, so one part of that
+- [00:51:30,580 - 00:51:31,580] was, I don't seem to recognize race.
+- [00:51:31,580 - 00:51:32,580] It came in two parts.
+- [00:51:32,580 - 00:51:33,580] Why did it come in two?
+- [00:51:33,580 - 00:51:36,640] words mean? Now, this is before we've had the
+- [00:51:36,640 - 00:51:39,700] advances in AI that we've had today, but that's
+- [00:51:39,700 - 00:51:42,920] sort of, you can see the beginning of it.
+- [00:51:42,920 - 00:51:46,140] So the technical founder came out of Victor Zhu's lab
+- [00:51:46,140 - 00:51:49,199] here at MIT and came to me and
+- [00:51:49,199 - 00:51:52,259] we started talking about this concept. And he said,
+- [00:51:52,680 - 00:51:55,070] you know, we can do this now
+- [00:51:55,070 - 00:51:57,460] in telephony. We can do telephone systems,
+- [00:51:58,279 - 00:52:00,489] spark workstations, have the power. We don't
+- [00:52:00,489 - 00:52:02,700] need mainframes. We can make this work.
+- [00:52:03,580 - 00:52:05,630] At the same time, there was a client
+- [00:52:05,630 - 00:52:07,680] of mine who had just sold his business to
+- [00:52:07,680 - 00:52:10,770] Adobe and was on a one-year sort
+- [00:52:10,770 - 00:52:13,860] of earn out, work out, non-compete type thing.
+- [00:52:14,740 - 00:52:17,019] So I put the two of them together
+- [00:52:17,019 - 00:52:19,299] and the three of us spent that year
+- [00:52:19,299 - 00:52:22,979] having endless meetings, Chinese food dinners,
+- [00:52:22,979 - 00:52:26,660] talking about how could this all work.
+- [00:52:28,140 - 00:52:30,530] Because the business guy couldn't really work
+- [00:52:30,530 - 00:52:32,920] on it yet because he was still working
+- [00:52:32,920 - 00:52:33,560] at Adobe.
+- [00:52:33,580 - 00:52:37,550] By the way, I could usually figure out
+- [00:52:37,550 - 00:52:41,520] when a former client would, after they sold their
+- [00:52:41,520 - 00:52:43,790] business, would be back. I could almost put it on
+- [00:52:43,790 - 00:52:46,060] my calendar a year and a day after the deal
+- [00:52:46,060 - 00:52:48,540] closed, they'd be back wanting to do something else.
+- [00:52:48,540 - 00:52:51,020] So we went out, you know, spent all that
+- [00:52:51,020 - 00:52:53,240] time planning and thinking about it. They went out
+- [00:52:53,240 - 00:52:55,460] and we raised money from, you know, a venture
+- [00:52:55,460 - 00:52:58,139] firm. There's a whole history of, if you
+- [00:52:58,139 - 00:53:00,819] haven't studied it, in the world of speech recognition
+- [00:53:00,819 - 00:53:02,189] about some fraud that was done by a company.
+- [00:53:02,189 - 00:53:03,560] And I think that's a really good example of that.
+- [00:53:03,580 - 00:53:04,060] And I think that's a really good example of that.
+- [00:53:04,060 - 00:53:06,850] But the thing that went on that these guys managed
+- [00:53:06,850 - 00:53:09,640] to avoid, they went public and it worked out just fine.
+- [00:53:09,799 - 00:53:13,619] And the reason is the idea was great. The
+- [00:53:13,619 - 00:53:17,440] timing was perfect because the compute power was there.
+- [00:53:18,380 - 00:53:21,099] The execution, back then, because of the way
+- [00:53:21,099 - 00:53:23,819] AI, you know, we didn't have the power.
+- [00:53:24,220 - 00:53:26,070] If you were going to do this, you normally
+- [00:53:26,070 - 00:53:27,920] wanted to do it in a domain of knowledge.
+- [00:53:28,920 - 00:53:30,710] And so you would learn from
+- [00:53:30,710 - 00:53:32,500] how people spoke in that domain.
+- [00:53:32,500 - 00:53:34,470] So they managed to figure out how
+- [00:53:34,470 - 00:53:36,440] to do a deal with Eastern Airlines,
+- [00:53:36,660 - 00:53:38,990] which was one of the big
+- [00:53:38,990 - 00:53:41,320] airplane carriers back in the day.
+- [00:53:42,580 - 00:53:45,010] And Eastern thought this was great, that they
+- [00:53:45,010 - 00:53:47,440] could do online or, you know, over phone
+- [00:53:47,440 - 00:53:49,540] reservations. But they didn't want
+- [00:53:49,540 - 00:53:51,640] to expose their customers to it.
+- [00:53:52,140 - 00:53:53,660] So they said, can you
+- [00:53:53,660 - 00:53:55,180] do this for our flight crews?
+- [00:53:56,440 - 00:53:59,220] So when you're a flight crew on a thing, you need
+- [00:53:59,220 - 00:54:02,000] to figure out how to shuttle back to your home or whatever.
+- [00:54:02,500 - 00:54:05,530] And so they set it up and the flight crews were the
+- [00:54:05,530 - 00:54:08,560] ones that tested the system and they learned the domain around it
+- [00:54:08,560 - 00:54:10,540] and how to deal with it. You know,
+- [00:54:10,540 - 00:54:12,520] I need to be in Cleveland on Tuesday.
+- [00:54:13,640 - 00:54:15,770] You know, obviously they wanted to fly. They weren't
+- [00:54:15,770 - 00:54:17,900] going to be renting a car or something like that.
+- [00:54:18,680 - 00:54:21,420] So the execution was great. And the people, because
+- [00:54:21,420 - 00:54:24,160] of that year they spent getting to know each other,
+- [00:54:24,320 - 00:54:25,860] they worked well, very well
+- [00:54:25,860 - 00:54:27,400] together. So that was a success.
+- [00:54:29,240 - 00:54:31,820] The second one is also a success.
+- [00:54:32,500 - 00:54:33,910] I'll call it VideoCo, although I'm going
+- [00:54:33,910 - 00:54:35,320] to show you the name in a moment.
+- [00:54:37,220 - 00:54:39,420] This was somebody out of Sloan,
+- [00:54:39,420 - 00:54:41,620] technology out of the Media Lab.
+- [00:54:42,840 - 00:54:47,240] It was desktop video editing on the Macintosh computer.
+- [00:54:48,560 - 00:54:51,390] At the time, if you were going to do video
+- [00:54:51,390 - 00:54:54,220] editing, the equipment was like a million dollars kind of equipment.
+- [00:54:55,000 - 00:54:56,740] Usually you'd go to a video editing
+- [00:54:56,740 - 00:54:58,480] studio and you'd spend a day there.
+- [00:54:59,080 - 00:55:00,780] And they said, you know, the technology is
+- [00:55:00,780 - 00:55:02,480] such now, even though the Mac wasn't the best,
+- [00:55:02,500 - 00:55:04,940] the most powerful computer, that we can
+- [00:55:04,940 - 00:55:07,380] actually do video editing on a desktop machine.
+- [00:55:10,120 - 00:55:11,860] So the idea was good.
+- [00:55:12,860 - 00:55:15,680] The timing was good because
+- [00:55:15,680 - 00:55:18,500] of the technology that was there.
+- [00:55:19,600 - 00:55:21,780] The execution had me worried at the beginning.
+- [00:55:23,720 - 00:55:26,280] So the name of the company when
+- [00:55:26,280 - 00:55:28,840] they incorporated it was Macromedia Business Applications Corporation.
+- [00:55:30,480 - 00:55:31,480] And in short order, they
+- [00:55:31,480 - 00:55:32,480] got a letter from the company.
+- [00:55:32,480 - 00:55:35,030] They got a letter from Macromedia, a bigger
+- [00:55:35,030 - 00:55:37,580] company, saying, hey, wait a second, that's our name.
+- [00:55:38,600 - 00:55:40,100] And, you know, trademark infringement, we're
+- [00:55:40,100 - 00:55:41,600] going to get you and everything.
+- [00:55:41,740 - 00:55:44,010] And it turned out our guys used
+- [00:55:44,010 - 00:55:46,280] the word, the term before Macromedia did.
+- [00:55:46,940 - 00:55:49,150] So Macromedia, the big company, said,
+- [00:55:49,150 - 00:55:51,360] well, can we buy out the name?
+- [00:55:51,940 - 00:55:54,320] So they said, here's $25,000.
+- [00:55:54,700 - 00:55:55,610] All you have to do is
+- [00:55:55,610 - 00:55:56,520] change the name of your company.
+- [00:55:57,820 - 00:56:01,440] Hey, good way, non-delutive equity, non-equity funding.
+- [00:56:02,480 - 00:56:03,640] So I got the check.
+- [00:56:04,080 - 00:56:06,290] All they have to do is file something at
+- [00:56:06,290 - 00:56:08,500] the state that says change the name to anything.
+- [00:56:09,660 - 00:56:11,500] And two weeks go by, and I'm calling.
+- [00:56:11,660 - 00:56:13,860] I said, what's wrong with you guys?
+- [00:56:15,740 - 00:56:16,840] Just give me any name.
+- [00:56:16,920 - 00:56:17,720] I don't care what.
+- [00:56:18,100 - 00:56:19,600] They said, well, you know, we
+- [00:56:19,600 - 00:56:21,100] found some really cheap space in Cambridge.
+- [00:56:21,200 - 00:56:22,250] Why don't you come over, and
+- [00:56:22,250 - 00:56:23,300] we'll show you what we're doing.
+- [00:56:24,080 - 00:56:26,310] So I go over there, and
+- [00:56:26,310 - 00:56:28,540] they have a whiteboard covered with names.
+- [00:56:29,320 - 00:56:31,040] And I'm going, oh, God, these guys.
+- [00:56:31,040 - 00:56:32,620] They can't pick a name.
+- [00:56:33,420 - 00:56:34,920] How are they going to execute on anything?
+- [00:56:36,140 - 00:56:39,740] So what they did, eventually, this is
+- [00:56:39,740 - 00:56:43,340] the name that they came up with.
+- [00:56:43,940 - 00:56:46,160] Digital Video Applications Corp.
+- [00:56:48,940 - 00:56:50,720] And they shortened it to DIVA.
+- [00:56:53,600 - 00:56:56,230] Two years later, the largest
+- [00:56:56,230 - 00:56:58,860] video editing company acquired them.
+- [00:56:59,600 - 00:57:00,880] The name of that company?
+- [00:57:01,040 - 00:57:03,080] Avid.
+- [00:57:04,980 - 00:57:05,540] Avid.
+- [00:57:06,800 - 00:57:08,259] Here's how Avid is spelled.
+- [00:57:15,860 - 00:57:17,540] They weren't picking a name.
+- [00:57:17,700 - 00:57:18,759] They were picking a strategy.
+- [00:57:20,720 - 00:57:20,880] Right?
+- [00:57:21,720 - 00:57:23,300] DIVA is Avid spelled backwards.
+- [00:57:24,340 - 00:57:26,000] It focused everything they did.
+- [00:57:26,560 - 00:57:27,460] We went to the closing,
+- [00:57:27,460 - 00:57:28,360] and they gave me a T-shirt.
+- [00:57:28,360 - 00:57:29,600] They said, I know you didn't
+- [00:57:29,600 - 00:57:30,840] think we could execute very well.
+- [00:57:30,840 - 00:57:32,130] They gave me a T-shirt in
+- [00:57:32,130 - 00:57:33,420] the front that said DIVA from home.
+- [00:57:33,920 - 00:57:35,500] And the back said Avid to Hollywood.
+- [00:57:37,940 - 00:57:39,960] So an example of a company that
+- [00:57:39,960 - 00:57:41,980] I had doubts about on the execution.
+- [00:57:42,780 - 00:57:44,580] The people part worked out well.
+- [00:57:46,180 - 00:57:48,180] Okay, now some stories that didn't work out.
+- [00:57:48,660 - 00:57:50,180] I'll call this one HIV Co.
+- [00:57:51,120 - 00:57:53,510] This was back when AIDS
+- [00:57:53,510 - 00:57:55,900] was just hitting a big epidemic.
+- [00:57:56,160 - 00:57:59,740] The two co-founders were the discoverers of the CD4.
+- [00:58:00,840 - 00:58:02,310] Which is the main receptor
+- [00:58:02,310 - 00:58:03,780] as part of the immune system.
+- [00:58:04,920 - 00:58:07,940] They got funded by some very big Wall Street people.
+- [00:58:07,940 - 00:58:10,120] Names you would know if I told you.
+- [00:58:12,480 - 00:58:14,500] They had a science advisory
+- [00:58:14,500 - 00:58:16,520] board that included Anthony Fauci.
+- [00:58:17,100 - 00:58:18,160] That's when I first met him.
+- [00:58:18,960 - 00:58:20,680] And a couple of other people, but
+- [00:58:20,680 - 00:58:22,400] two very notable people at the time.
+- [00:58:22,780 - 00:58:25,750] Luc Montigny from Institute Pasteur and Robert
+- [00:58:25,750 - 00:58:28,720] Gallo from the National Institutes of Health.
+- [00:58:29,380 - 00:58:30,020] In public,
+- [00:58:30,020 - 00:58:30,660] these two,
+- [00:58:30,660 - 00:58:35,420] had disputes going as to about who first discovered HIV.
+- [00:58:36,899 - 00:58:39,819] Enough so that eventually President Reagan and President
+- [00:58:39,819 - 00:58:42,740] Chirac of France had to resolve the issue.
+- [00:58:43,759 - 00:58:45,719] But on that science advisory board, they
+- [00:58:45,719 - 00:58:47,680] were very collegial and they got things done.
+- [00:58:49,879 - 00:58:50,759] So what went wrong?
+- [00:58:52,259 - 00:58:53,220] It was the people issue.
+- [00:58:53,520 - 00:58:55,100] The idea was great.
+- [00:58:56,000 - 00:58:57,490] The execution of what they
+- [00:58:57,490 - 00:58:58,980] actually decided to do was good.
+- [00:58:59,060 - 00:59:00,640] The question is did they pick the right things?
+- [00:59:00,660 - 00:59:02,259] The timing was great.
+- [00:59:02,259 - 00:59:04,259] They were in the middle of an AIDS epidemic.
+- [00:59:05,379 - 00:59:07,379] You know, and they had some solutions.
+- [00:59:08,040 - 00:59:09,040] It was the people issue.
+- [00:59:09,420 - 00:59:11,420] The co-founders had massive problems
+- [00:59:11,420 - 00:59:13,420] with each other, it turned out.
+- [00:59:14,060 - 00:59:15,420] They had never really worked together.
+- [00:59:16,060 - 00:59:18,899] It culminated in an all night in Manhattan.
+- [00:59:19,799 - 00:59:23,199] Where at the curb of the building, there were four
+- [00:59:23,199 - 00:59:26,600] or five stretched limos with drivers waiting for the high,
+- [00:59:27,600 - 00:59:30,339] big people on Wall Street that invested in this company.
+- [00:59:30,660 - 00:59:32,820] And they spent the evening basically hashing it
+- [00:59:32,820 - 00:59:34,980] out of how the company was going to work.
+- [00:59:34,980 - 00:59:36,439] And at one point, one of the
+- [00:59:36,439 - 00:59:37,899] big Wall Street guys got up and said,
+- [00:59:37,899 - 00:59:40,899] if you guys don't figure this out, you're going to be
+- [00:59:40,899 - 00:59:43,899] radioactive and you're never going to raise a dime from anyone ever.
+- [00:59:44,899 - 00:59:46,899] I mean, it was that big of a moment.
+- [00:59:46,899 - 00:59:48,160] They got over it.
+- [00:59:48,160 - 00:59:50,160] The company eventually went public,
+- [00:59:50,160 - 00:59:52,160] but it had only moderate success.
+- [00:59:52,160 - 00:59:55,660] It was people issues on that one.
+- [00:59:57,359 - 00:59:58,769] The final one I'm going to
+- [00:59:58,769 - 01:00:00,180] talk about is I'll call NanoCo.
+- [01:00:00,660 - 01:00:03,660] This was one of the first
+- [01:00:03,660 - 01:00:06,660] nanotechnology companies based on quantum chemistry.
+- [01:00:06,660 - 01:00:10,660] Our concepts came out of some here at MIT.
+- [01:00:10,660 - 01:00:14,160] We looked at a variety of different things to do and the
+- [01:00:14,160 - 01:00:17,660] product we were trying to go to market with was called NanoFuel.
+- [01:00:17,660 - 01:00:21,660] We were mixing diesel fuel and water
+- [01:00:21,660 - 01:00:25,660] together and running it in unmodified diesel engines.
+- [01:00:25,660 - 01:00:27,160] Now you might say you
+- [01:00:27,160 - 01:00:28,660] can't mix oil and water together.
+- [01:00:28,660 - 01:00:29,160] Well, if you figure out
+- [01:00:29,160 - 01:00:29,660] how to do that, you can't.
+- [01:00:30,660 - 01:00:31,660] You can't just pour something out.
+- [01:00:31,660 - 01:00:32,660] You can.
+- [01:00:32,660 - 01:00:35,660] You could pour it into an unmodified diesel engine
+- [01:00:35,660 - 01:00:38,660] and you got an emission profile cleaner than natural gas.
+- [01:00:38,660 - 01:00:42,160] We were running it in buses at Logan Airport
+- [01:00:42,160 - 01:00:45,660] for testing and in new buses and in Costa Rica.
+- [01:00:45,660 - 01:00:49,660] At the time, if you wanted to get
+- [01:00:49,660 - 01:00:53,660] clean transportation, people were talking about compressed natural gas.
+- [01:00:53,660 - 01:00:56,160] But the energy density for
+- [01:00:56,160 - 01:00:58,660] gas is much less than diesel.
+- [01:00:58,660 - 01:01:00,660] And so you need to have holes.
+- [01:01:00,660 - 01:01:02,160] You need to have all the
+- [01:01:02,160 - 01:01:03,660] new facilities to handle the natural gas.
+- [01:01:03,660 - 01:01:05,660] You needed to change buses.
+- [01:01:05,660 - 01:01:06,660] The routes had to get changed.
+- [01:01:06,660 - 01:01:08,660] Our stuff, all you had to
+- [01:01:08,660 - 01:01:10,660] do was pour it into the tank.
+- [01:01:10,660 - 01:01:14,660] We had to do some execution issues including some skunk
+- [01:01:14,660 - 01:01:18,660] works because we had some disputes going on in the lab.
+- [01:01:18,660 - 01:01:23,160] The lab people had their head up, I won't say where,
+- [01:01:23,160 - 01:01:27,660] but timing was, and there were also other senior management issues,
+- [01:01:27,660 - 01:01:28,660] but the timing was a big thing here.
+- [01:01:28,660 - 01:01:29,160] When we were ready to go to
+- [01:01:29,160 - 01:01:29,660] the lab, we had to get things done.
+- [01:01:29,660 - 01:01:30,660] We had to get everything done.
+- [01:01:30,660 - 01:01:32,860] to market, the price of diesel
+- [01:01:32,860 - 01:01:35,060] fuel was at a 50-year low.
+- [01:01:35,060 - 01:01:39,180] It was $0.50 a gallon at the terminal.
+- [01:01:39,180 - 01:01:42,100] Wasn't that way when we started out.
+- [01:01:42,100 - 01:01:43,240] I did a calculation.
+- [01:01:43,240 - 01:01:46,020] And you couldn't even buy a gallon of distilled water
+- [01:01:46,020 - 01:01:47,859] for $0.50.
+- [01:01:47,859 - 01:01:49,379] I did a calculation that said, well,
+- [01:01:49,379 - 01:01:51,779] if diesel fuel were $2 a gallon, this
+- [01:01:51,779 - 01:01:55,440] would be an economically neutral type thing.
+- [01:01:55,440 - 01:01:57,540] It just wasn't going to work at the time.
+- [01:01:57,540 - 01:01:59,460] The company went off and did some other things,
+- [01:01:59,460 - 01:02:01,520] but eventually it failed.
+- [01:02:01,520 - 01:02:03,380] And every time I get behind
+- [01:02:03,380 - 01:02:05,240] a big diesel truck or bus
+- [01:02:05,240 - 01:02:07,480] fueling fumes, it really annoys
+- [01:02:07,480 - 01:02:09,720] me that we had the solution,
+- [01:02:09,720 - 01:02:11,640] but we couldn't figure out how to bring
+- [01:02:11,640 - 01:02:13,900] that venture to market.
+- [01:02:13,900 - 01:02:16,500] So hopefully those are some ideas.
+- [01:02:16,500 - 01:02:20,760] This allows me to do one of the cheesiest animations
+- [01:02:20,760 - 01:02:21,560] you're going to see.
+- [01:02:25,140 - 01:02:25,980] There you go, success.
+- [01:02:28,460 - 01:02:28,960] OK.
+- [01:02:29,460 - 01:02:30,160] All right.
+- [01:02:30,160 - 01:02:31,740] So if you get all these
+- [01:02:31,740 - 01:02:33,320] things right, you get the idea right,
+- [01:02:33,320 - 01:02:34,700] you get the execution, you
+- [01:02:34,700 - 01:02:36,080] get the timing and the people,
+- [01:02:36,080 - 01:02:38,090] you're going to have to convey
+- [01:02:38,090 - 01:02:40,100] that to people in some fashion.
+- [01:02:40,100 - 01:02:41,380] And so I want to spend
+- [01:02:41,380 - 01:02:42,660] just a couple of minutes talking
+- [01:02:42,660 - 01:02:45,820] about conveying ideas.
+- [01:02:45,820 - 01:02:47,110] One of the top level things
+- [01:02:47,110 - 01:02:48,400] you're going to want to do
+- [01:02:48,400 - 01:02:51,080] is come up with a mission statement or a vision,
+- [01:02:51,080 - 01:02:53,800] sometimes called the value proposition.
+- [01:02:53,800 - 01:02:55,760] C Blank out of Stanford came
+- [01:02:55,760 - 01:02:57,720] up with this version of it.
+- [01:02:58,600 - 01:02:59,100] You want to.
+- [01:02:59,100 - 01:02:59,680] Think about it.
+- [01:02:59,680 - 01:03:00,120] It's like a zero.
+- [01:03:00,120 - 01:03:02,479] Instead of a U in
+- [01:03:02,479 - 01:03:04,839] the sky, just a left-wing wilayah.
+- [01:03:04,839 - 01:03:06,020] It's a U in the sky.
+- [01:03:06,020 - 01:03:08,380] Apparently, that's what Americans call for right across
+- [01:03:08,380 - 01:03:10,160] fact check.
+- [01:03:10,160 - 01:03:12,100] So let's go back to spitfield.
+- [01:03:12,100 - 01:03:14,020] Say that I don't support common sense.
+- [01:03:14,020 - 01:03:15,730] What I really want is I
+- [01:03:15,730 - 01:03:17,440] want to go back to my ideas.
+- [01:03:17,440 - 01:03:18,640] Don't blame me for my ideas.
+- [01:03:18,640 - 01:03:20,760] Instead, I want to tell
+- [01:03:20,760 - 01:03:22,880] you a story that I cooperated
+- [01:03:22,880 - 01:03:24,500] with our co- offeners to generate易
+- [01:03:27,259 - 01:03:28,279] Powell did one.
+- [01:03:28,279 - 01:03:28,839] OK.
+- [01:03:29,100 - 01:03:30,800] I think you can pretty much see what
+- [01:03:30,800 - 01:03:32,500] they're about as a business with that statement.
+- [01:03:35,040 - 01:03:37,490] So hopefully by the end of this
+- [01:03:37,490 - 01:03:39,940] course, if you're actually thinking about a venture,
+- [01:03:40,100 - 01:03:41,130] you might be able to do
+- [01:03:41,130 - 01:03:42,160] that with something you're working on
+- [01:03:42,160 - 01:03:45,000] or you'll remember this when you're looking at other things.
+- [01:03:46,279 - 01:03:48,259] Now, any vision needs to be supported.
+- [01:03:49,319 - 01:03:50,819] This is my famous pyramid.
+- [01:03:52,120 - 01:03:53,120] I'm looking at Bob.
+- [01:03:54,319 - 01:03:56,040] At the top is the mission statement.
+- [01:03:56,040 - 01:03:59,700] And below that is the elevator pitch.
+- [01:04:00,759 - 01:04:02,880] So each of these sort of leads to the next.
+- [01:04:03,000 - 01:04:05,340] So an elevator pitch is something, you know,
+- [01:04:05,480 - 01:04:07,379] the term came about back in the
+- [01:04:07,379 - 01:04:09,279] days when the venture capitalists lived in,
+- [01:04:09,420 - 01:04:11,320] you know, their offices were in high-rise buildings.
+- [01:04:11,440 - 01:04:13,349] And you'd get in the elevator and
+- [01:04:13,349 - 01:04:15,259] somebody would turn to you and say,
+- [01:04:15,340 - 01:04:17,400] well, tell me what your guys are doing.
+- [01:04:18,180 - 01:04:20,320] And you had the time it took that
+- [01:04:20,320 - 01:04:22,460] elevator to go up to explain what it is.
+- [01:04:23,460 - 01:04:25,900] And the hope after that is they would say,
+- [01:04:25,900 - 01:04:26,020] well, okay.
+- [01:04:26,040 - 01:04:27,220] Well, come in and tell me more.
+- [01:04:29,040 - 01:04:31,320] Maybe come in or send me something.
+- [01:04:31,660 - 01:04:32,700] Do you have something you
+- [01:04:32,700 - 01:04:33,740] can send me, an executive summary?
+- [01:04:35,480 - 01:04:37,180] Something written that could tell me about it?
+- [01:04:37,720 - 01:04:39,160] And then maybe if I like that,
+- [01:04:39,160 - 01:04:40,600] I'll invite you in to do a pitch
+- [01:04:40,600 - 01:04:44,620] to, you know, really get into it more.
+- [01:04:45,259 - 01:04:46,949] So the mission statement is, you
+- [01:04:46,949 - 01:04:48,640] know, be a sentence or a paragraph.
+- [01:04:49,900 - 01:04:51,800] The elevator pitch, 30 seconds.
+- [01:04:51,800 - 01:04:55,800] You know, when the VCs move to low-rise buildings.
+- [01:04:56,040 - 01:04:57,259] It became harder.
+- [01:04:57,500 - 01:04:58,259] You had to do it quicker.
+- [01:04:58,900 - 01:05:00,200] The elevators were slower, but,
+- [01:05:00,200 - 01:05:01,500] you know, you still had time.
+- [01:05:02,820 - 01:05:06,140] Executive summary, one, two, three, no more than four pages.
+- [01:05:07,600 - 01:05:09,330] And the pitch deck, this
+- [01:05:09,330 - 01:05:11,060] is Guy Kawasaki, 10, 20, 30.
+- [01:05:12,400 - 01:05:13,660] Ten slides, no more.
+- [01:05:14,259 - 01:05:16,179] Not more than 20 minutes
+- [01:05:16,179 - 01:05:18,100] and 30-point font on the slides.
+- [01:05:19,759 - 01:05:21,469] Okay, so that's, all of
+- [01:05:21,469 - 01:05:23,180] that is sort of the sizzle.
+- [01:05:24,720 - 01:05:25,700] So underneath that,
+- [01:05:26,040 - 01:05:28,040] you need to have and understand
+- [01:05:28,040 - 01:05:30,040] all of these other things to support
+- [01:05:30,040 - 01:05:33,160] that distillation of what you're doing to the top.
+- [01:05:33,160 - 01:05:36,540] And the stuff we're going to go through each night,
+- [01:05:36,540 - 01:05:37,820] we're going to talk about
+- [01:05:37,820 - 01:05:39,100] all these different things down here
+- [01:05:39,100 - 01:05:41,480] to help you support the plan
+- [01:05:41,480 - 01:05:43,860] you come up with, the venture idea.
+- [01:05:45,440 - 01:05:47,520] Now, if you get the sizzle right,
+- [01:05:47,520 - 01:05:49,600] but you don't get the support right,
+- [01:05:50,840 - 01:05:54,720] you may end up like Thernos, Elizabeth Holmes.
+- [01:05:56,040 - 01:05:59,140] Sentenced to prison, guilty on four of 11 charges.
+- [01:06:00,140 - 01:06:01,660] She promised all this stuff.
+- [01:06:03,120 - 01:06:05,880] And underneath it was, there was nothing really there.
+- [01:06:06,759 - 01:06:08,249] This was fake it till you make
+- [01:06:08,249 - 01:06:09,740] it, which can work in some things,
+- [01:06:09,779 - 01:06:10,920] but this is medical devices.
+- [01:06:11,160 - 01:06:13,180] This is, you know, blood testing.
+- [01:06:13,440 - 01:06:15,740] And if you didn't diagnose somebody, people could die.
+- [01:06:17,220 - 01:06:18,500] You don't want to end up here.
+- [01:06:19,640 - 01:06:20,930] So most of the people here
+- [01:06:20,930 - 01:06:22,220] are going to have the substance
+- [01:06:22,220 - 01:06:23,500] and have a hard time with the sizzle.
+- [01:06:24,120 - 01:06:25,460] But I got to caution you.
+- [01:06:25,460 - 01:06:28,780] Sizzle without steak is an empty meal.
+- [01:06:30,000 - 01:06:32,900] So back to our H equals R divided by E.
+- [01:06:34,820 - 01:06:39,560] Well, I assume that reality was a fixed constant,
+- [01:06:39,560 - 01:06:43,700] but people like Steve Jobs and maybe Elizabeth Holmes
+- [01:06:43,700 - 01:06:45,820] thought you can fake it till you make it
+- [01:06:45,820 - 01:06:48,620] because we can do a reality distortion field.
+- [01:06:50,320 - 01:06:51,900] I wouldn't recommend it.
+- [01:06:52,700 - 01:06:53,420] Does this make sense?
+- [01:06:55,460 - 01:06:58,120] All right, so final, some final thoughts.
+- [01:06:59,420 - 01:07:02,620] Vinod Khosla, a famous venture capitalist,
+- [01:07:03,080 - 01:07:04,940] invested in a company of a friend of mine.
+- [01:07:05,680 - 01:07:07,660] And my friend asked him, you know,
+- [01:07:07,740 - 01:07:09,160] what advice do you have for us?
+- [01:07:09,680 - 01:07:12,960] And Vinod said, you'll face a dozen real challenges
+- [01:07:12,960 - 01:07:14,900] in developing the technology and venture,
+- [01:07:15,680 - 01:07:17,380] which is common to most ventures.
+- [01:07:18,900 - 01:07:20,900] Five of these you'll be resourceful enough
+- [01:07:20,900 - 01:07:23,340] to figure out from friends, colleagues, et cetera.
+- [01:07:23,340 - 01:07:23,460] All right.
+- [01:07:24,020 - 01:07:24,380] All right.
+- [01:07:24,380 - 01:07:24,500] All right.
+- [01:07:24,500 - 01:07:24,560] All right.
+- [01:07:24,560 - 01:07:24,620] All right.
+- [01:07:24,620 - 01:07:24,680] All right.
+- [01:07:24,680 - 01:07:24,740] All right.
+- [01:07:24,740 - 01:07:24,800] All right.
+- [01:07:24,800 - 01:07:24,820] All right.
+- [01:07:24,820 - 01:07:24,840] All right.
+- [01:07:24,840 - 01:07:24,860] All right.
+- [01:07:24,860 - 01:07:24,880] All right.
+- [01:07:24,880 - 01:07:24,920] All right.
+- [01:07:24,920 - 01:07:24,940] All right.
+- [01:07:24,940 - 01:07:25,000] All right.
+- [01:07:25,000 - 01:07:25,060] All right.
+- [01:07:25,060 - 01:07:25,100] All right.
+- [01:07:25,100 - 01:07:25,120] All right.
+- [01:07:25,120 - 01:07:25,140] All right.
+- [01:07:25,140 - 01:07:25,420] All right.
+- [01:07:25,460 - 01:07:25,600] All right.
+- [01:07:25,600 - 01:07:25,640] All right.
+- [01:07:25,640 - 01:07:25,680] All right.
+- [01:07:25,680 - 01:07:25,740] All right.
+- [01:07:25,740 - 01:07:27,100] You and your team are smart enough.
+- [01:07:27,840 - 01:07:28,780] You'll figure those out.
+- [01:07:29,940 - 01:07:32,040] My friend said, well, what about the other two?
+- [01:07:33,180 - 01:07:35,610] And Vinod said, for those
+- [01:07:35,610 - 01:07:38,040] two, you better get darn lucky.
+- [01:07:40,600 - 01:07:46,180] Well, luck favors the well-prepared,
+- [01:07:47,160 - 01:07:49,440] and we want you to be prepared.
+- [01:07:50,080 - 01:07:52,060] That's the goal in this course, again,
+- [01:07:52,100 - 01:07:55,180] to help you be in the part that succeeds.
+- [01:07:55,180 - 01:07:56,520] if you decide to do a venture.
+- [01:07:57,120 - 01:07:58,310] If you look at something
+- [01:07:58,310 - 01:07:59,500] and decide it's not for you,
+- [01:07:59,680 - 01:08:02,319] that's success also because you'll go find another one.
+- [01:08:03,940 - 01:08:06,600] So with that, that's my overview of new ventures.
+- [01:08:08,620 - 01:08:10,430] We're going to do a break
+- [01:08:10,430 - 01:08:12,240] here a little early for team building.
+- [01:08:14,540 - 01:08:17,700] Around the room, we've put on the walls
+- [01:08:17,700 - 01:08:22,700] different interest groups that you identified
+- [01:08:22,700 - 01:08:25,260] when you were signing up for the course.
+- [01:08:26,120 - 01:08:27,270] I'm going to suggest you
+- [01:08:27,270 - 01:08:28,420] go, if you're interested in that,
+- [01:08:28,519 - 01:08:30,679] just go stand there, meet somebody,
+- [01:08:31,899 - 01:08:33,819] and see if you have some interest.
+- [01:08:35,700 - 01:08:38,160] And we'll come back in 10 or 15 minutes
+- [01:08:38,160 - 01:08:40,359] and we'll talk about course logistics
+- [01:08:40,359 - 01:08:42,559] and finding your customers.
+- [01:08:43,740 - 01:08:46,669] We also have a WhatsApp
+- [01:08:46,669 - 01:08:49,599] group that our TAs put together
+- [01:08:49,599 - 01:08:52,359] where you can actually sign up to a WhatsApp group
+- [01:08:52,700 - 01:08:54,240] and group on one of these interest things.
+- [01:08:55,240 - 01:08:57,319] So we're at about 7.10.
+- [01:08:57,460 - 01:09:00,500] Why don't we come back at about 7.25
+- [01:09:00,500 - 01:09:04,559] and we'll talk about course logistics
+- [01:09:04,559 - 01:09:06,439] and then we'll have Bob
+- [01:09:06,439 - 01:09:08,319] come in and talk about customers.
