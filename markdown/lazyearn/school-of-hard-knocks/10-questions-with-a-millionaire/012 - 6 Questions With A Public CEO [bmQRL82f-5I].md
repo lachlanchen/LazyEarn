@@ -1,0 +1,510 @@
+# Transcript
+
+Source: lazyearn/school-of-hard-knocks/hard-knocks-interviews/107 - 6 Questions With A Public CEO [bmQRL82f-5I].mkv
+
+- [00:00:00,000 - 00:00:01,600] All right, guys. So a couple of
+- [00:00:01,600 - 00:00:03,200] weeks ago, we actually interviewed a public CEO,
+- [00:00:03,500 - 00:00:05,300] Mark White of Nexalyn Technologies.
+- [00:00:05,400 - 00:00:07,050] Because I actually am the CEO of a
+- [00:00:07,050 - 00:00:08,700] public company and I run my own business.
+- [00:00:08,900 - 00:00:10,250] I'm in the business of
+- [00:00:10,250 - 00:00:11,600] getting people off psychiatric medication
+- [00:00:11,600 - 00:00:15,040] and using frequencies to restore mental health
+- [00:00:15,040 - 00:00:16,870] so that life on life's terms
+- [00:00:16,870 - 00:00:18,700] is a pleasure rather than a struggle.
+- [00:00:18,880 - 00:00:20,030] He actually invited us out
+- [00:00:20,030 - 00:00:21,180] to his headquarters in Houston, Texas,
+- [00:00:21,180 - 00:00:22,860] to give us some more game for young entrepreneurs.
+- [00:00:23,400 - 00:00:24,730] In this interview, Mark revealed to
+- [00:00:24,730 - 00:00:26,060] us some of the greatest business lessons
+- [00:00:26,060 - 00:00:27,840] that he's learned that have enabled him to
+- [00:00:27,840 - 00:00:29,620] become a CEO of a publicly traded company.
+- [00:00:29,620 - 00:00:31,980] I'm James Newman, and this is Questions with Millionaires.
+- [00:00:32,700 - 00:00:35,100] What was that first business that you ever started?
+- [00:00:35,960 - 00:00:36,460] Car detailing.
+- [00:00:38,160 - 00:00:40,410] You know, I was a valet parker at a
+- [00:00:40,410 - 00:00:42,660] hotel here in Houston back in the oil boom.
+- [00:00:42,760 - 00:00:44,680] So we're in the late 70s now.
+- [00:00:45,520 - 00:00:49,040] And I was parking cars at a hotel,
+- [00:00:49,900 - 00:00:51,810] what was one of the
+- [00:00:51,810 - 00:00:53,720] original Western four-star hotels in Houston
+- [00:00:53,720 - 00:00:56,860] at what was the new Galleria at that time.
+- [00:00:57,560 - 00:00:59,580] And people would drive their car.
+- [00:00:59,940 - 00:01:02,980] To the hotel and then go in for dinner
+- [00:01:02,980 - 00:01:04,509] because back then a lot of
+- [00:01:04,509 - 00:01:06,039] the nice restaurants were in the hotels.
+- [00:01:06,480 - 00:01:09,100] And while they were at dinner, I got the idea.
+- [00:01:09,440 - 00:01:10,960] Everybody remember Armor All?
+- [00:01:11,460 - 00:01:13,220] Well, Armor All was brand new.
+- [00:01:13,420 - 00:01:15,589] And the idea of cleaning a
+- [00:01:15,589 - 00:01:17,759] wheel and Armor Alling a tire
+- [00:01:18,120 - 00:01:20,179] made a car look brand new.
+- [00:01:20,539 - 00:01:23,399] And the doorman and myself got this
+- [00:01:23,399 - 00:01:26,259] idea that while people go in for dinner,
+- [00:01:26,600 - 00:01:27,990] we would take the car and
+- [00:01:27,990 - 00:01:29,380] say, listen, while you're in for dinner,
+- [00:01:29,380 - 00:01:29,490] Can we go in for dinner?
+- [00:01:29,490 - 00:01:29,600] Why don't we come over tonight?
+- [00:01:29,600 - 00:01:33,530] wash and detail your car. And they would go,
+- [00:01:33,530 - 00:01:37,460] what do you mean? Say $20 and we'll show you
+- [00:01:37,460 - 00:01:40,109] what a detail on a car would look
+- [00:01:40,109 - 00:01:42,759] like. And that created what was called extraordinary detail.
+- [00:01:43,240 - 00:01:46,139] And so I would park cars at night and in
+- [00:01:46,139 - 00:01:49,039] the mornings I would go pick up cars, Lincoln Mark
+- [00:01:49,039 - 00:01:51,249] Fives and Cadillac Eldorados. Those were the
+- [00:01:51,249 - 00:01:53,460] cars just before all the foreign car
+- [00:01:53,460 - 00:01:56,240] booms. And I would pick up the car at their
+- [00:01:56,240 - 00:01:59,020] office and I'd take it to my house and I'd take
+- [00:01:59,020 - 00:02:01,590] a toothbrush to the wheels and I'd armor all the
+- [00:02:01,590 - 00:02:04,160] tires. And that was it. That was my first business.
+- [00:02:04,280 - 00:02:06,620] That was my first big claim to fame. I'm curious
+- [00:02:06,620 - 00:02:08,960] to kind of get your take on sales. You've spent
+- [00:02:08,960 - 00:02:10,800] years studying the brain and psychology.
+- [00:02:10,800 - 00:02:12,640] And obviously psychology is a massive component
+- [00:02:12,640 - 00:02:14,370] of sales. A lot of people will say,
+- [00:02:14,370 - 00:02:16,100] what's been your secret to sales throughout your
+- [00:02:16,100 - 00:02:19,290] career as an entrepreneur? Boy, you know, I used
+- [00:02:19,290 - 00:02:22,480] to do the, in my day, the Zig Ziglar
+- [00:02:22,480 - 00:02:25,690] school, sales school. And for some of
+- [00:02:25,690 - 00:02:28,900] your older viewers, followers, they'll remember the
+- [00:02:28,900 - 00:02:28,950] Zig Ziglar. And I used to do the Zig
+- [00:02:28,950 - 00:02:29,000] Ziglar school, sales school. And for some of your
+- [00:02:29,000 - 00:02:30,530] older viewers, followers, they'll remember the Zig Ziglar.
+- [00:02:30,530 - 00:02:32,060] And then of course, there's the Tony Robbins.
+- [00:02:32,760 - 00:02:37,450] I happen to be blessed with a lot of energy
+- [00:02:37,450 - 00:02:42,140] and a lot of confidence. Okay. And I have learned how
+- [00:02:42,140 - 00:02:44,920] to communicate. Okay. Because really, yeah, we can
+- [00:02:44,920 - 00:02:47,700] talk about psychology and we can talk about
+- [00:02:47,700 - 00:02:50,960] teaching someone how to close the sale, ask for
+- [00:02:50,960 - 00:02:54,220] the deal. That's not my, that's not my type of
+- [00:02:54,220 - 00:02:56,550] selling. I communicate with people. And there are a
+- [00:02:56,550 - 00:02:58,880] lot of people that I've met that have done
+- [00:02:58,880 - 00:03:01,000] that. And I've had a lot of really
+- [00:03:01,000 - 00:03:03,120] successful salesmen that are not salesmen or saleswomen.
+- [00:03:03,440 - 00:03:06,460] They're just great communicators and they really
+- [00:03:06,460 - 00:03:09,480] love their product or love their service. They're
+- [00:03:09,480 - 00:03:11,730] very passionate about it and they believe in it. And
+- [00:03:11,730 - 00:03:13,980] like when you sit with me and you talk about
+- [00:03:13,980 - 00:03:16,660] Nexulin technology, or you talk about unique
+- [00:03:16,660 - 00:03:19,340] mind care, you talk about brain training,
+- [00:03:19,720 - 00:03:23,500] brain stimulation, very quickly, you'll see that I really
+- [00:03:23,500 - 00:03:27,280] love what I do. Okay. That is a natural
+- [00:03:27,280 - 00:03:28,519] sales moment.
+- [00:03:28,880 - 00:03:32,320] Because you want to know, because that's natural
+- [00:03:32,320 - 00:03:35,760] human curiosity, what's driving me to be so
+- [00:03:35,760 - 00:03:39,040] positive and upbeat. And what I do is,
+- [00:03:39,040 - 00:03:42,320] is in a sales scenario is most importantly,
+- [00:03:43,380 - 00:03:45,650] when I walk into a room, one of the
+- [00:03:45,650 - 00:03:47,920] first thing I think is, why would they say no?
+- [00:03:48,500 - 00:03:51,570] Why would they turn me away? Why would they not
+- [00:03:51,570 - 00:03:54,640] want to listen to what I have? And the first thing
+- [00:03:54,640 - 00:03:56,560] I'm going to do when I walk in
+- [00:03:56,560 - 00:03:58,480] that room is I'm going to start asking questions.
+- [00:03:58,880 - 00:04:02,180] And I'm going to listen to the response. And
+- [00:04:02,180 - 00:04:05,480] as I'm listening to the response, I'm tailoring my
+- [00:04:05,480 - 00:04:09,050] message that I'm there to talk about whatever it
+- [00:04:09,050 - 00:04:12,620] may be, because that's how I'm able to meet their
+- [00:04:12,620 - 00:04:15,860] needs. And by listening to them, I'm respecting them.
+- [00:04:15,860 - 00:04:19,100] And I can engage with them in a way that
+- [00:04:19,100 - 00:04:21,649] interests them. And more importantly, I don't tell
+- [00:04:21,649 - 00:04:24,200] them something that they don't want to know.
+- [00:04:24,820 - 00:04:26,660] Or the opposite would be tell
+- [00:04:26,660 - 00:04:28,500] them something that they already know,
+- [00:04:28,880 - 00:04:31,690] and they know better than I do. So when
+- [00:04:31,690 - 00:04:34,500] I do some presentations in a room of 30 people,
+- [00:04:35,100 - 00:04:37,240] you know, the first thing I'll say is,
+- [00:04:37,240 - 00:04:39,380] how many medical professionals are in the room?
+- [00:04:40,440 - 00:04:42,410] And usually there's going to be a hand or two
+- [00:04:42,410 - 00:04:44,380] that goes up. And the first thing I'm going to
+- [00:04:44,380 - 00:04:47,370] try to do, as I said earlier, I'm going to
+- [00:04:47,370 - 00:04:50,360] show some humility. I'm not going to try to pretend
+- [00:04:50,360 - 00:04:53,620] that I know healthcare better than they know
+- [00:04:53,620 - 00:04:56,880] healthcare. I'm simply here to offer a vision
+- [00:04:56,880 - 00:04:57,870] of what I think could
+- [00:04:57,870 - 00:04:58,860] be a better health care system.
+- [00:04:58,880 - 00:04:59,320] Exactly.
+- [00:04:59,320 - 00:05:00,980] And research really has the ability to
+- [00:05:00,980 - 00:05:02,640] help people from them know what's actually been
+- [00:05:02,640 - 00:05:04,070] the best best for the health
+- [00:05:04,070 - 00:05:05,500] system, the better for the health quality.
+- [00:05:05,500 - 00:05:26,400] So anyway, so you really never go around failing to
+- [00:05:26,400 - 00:05:27,100] sit around doing anything for the best.
+- [00:05:27,100 - 00:05:27,480] You never do that.
+- [00:05:27,480 - 00:05:27,640] You have to keep on going.
+- [00:05:27,640 - 00:05:27,690] Messenger was like, I've never
+- [00:05:27,690 - 00:05:27,740] been in this situation before.
+- [00:05:27,740 - 00:05:27,900] It's what it is, Viender.
+- [00:05:27,900 - 00:05:28,000] Let's have a look.
+- [00:05:28,000 - 00:05:28,100] It's like a Silicon Valleyrik exam.
+- [00:05:28,100 - 00:05:28,240] So why not that?
+- [00:05:28,240 - 00:05:28,280] I think that, that's programming.
+- [00:05:28,280 - 00:05:28,360] That's the real problem.
+- [00:05:28,360 - 00:05:28,680] You have a lot of technology.
+- [00:05:28,680 - 00:05:28,700] And many have your stuff.
+- [00:05:28,700 - 00:05:28,820] And many other professionals in this organization.
+- [00:05:28,820 - 00:05:28,840] I've had positive experience withippleWellness.
+- [00:05:28,840 - 00:05:28,850] up, and we've managed to looking out of so
+- [00:05:28,850 - 00:05:28,860] many different recent experiences when I'm up at the
+- [00:05:28,860 - 00:05:32,600] I like to communicate. I'm a talker. That's my nature.
+- [00:05:33,280 - 00:05:36,080] Wow. That was a great answer. Yeah, it was.
+- [00:05:36,440 - 00:05:37,940] What would you say is the best
+- [00:05:37,940 - 00:05:39,440] advice that you ever received from a mentor?
+- [00:05:42,440 - 00:05:46,510] Talk too much. Talk too much. Slow down. Slow
+- [00:05:46,510 - 00:05:50,580] down. Say what you're going to say in fewer words
+- [00:05:50,580 - 00:05:52,460] because the people that you're speaking to don't
+- [00:05:52,460 - 00:05:54,340] know it as well as you know it.
+- [00:05:54,340 - 00:05:57,029] Okay, that's one. Obviously, another one that
+- [00:05:57,029 - 00:05:59,719] I mentioned in our first interview is finance,
+- [00:05:59,859 - 00:06:02,809] money. You know, money, you got to be
+- [00:06:02,809 - 00:06:05,760] really careful how you fund your businesses and how
+- [00:06:05,760 - 00:06:07,860] you spend your money both in your personal
+- [00:06:07,860 - 00:06:09,960] life and your professional life because in the
+- [00:06:09,960 - 00:06:12,559] entrepreneurial world, they come together. You know, you
+- [00:06:12,559 - 00:06:15,159] have a big week in your company. It's
+- [00:06:15,159 - 00:06:17,479] Friday and you've done a few thousand dollars
+- [00:06:17,479 - 00:06:19,799] worth of business and suddenly you're in Saks Fifth
+- [00:06:19,799 - 00:06:21,989] Avenue buying a suit or you're in
+- [00:06:21,989 - 00:06:24,179] a restaurant buying a $200 bottle of wine.
+- [00:06:24,619 - 00:06:27,389] Trust me, I've been through all of this and this is
+- [00:06:27,389 - 00:06:30,159] why I say, be careful. Don't let it go to your
+- [00:06:30,159 - 00:06:33,159] head. And I will tell you another thing, another
+- [00:06:33,159 - 00:06:36,159] really powerful lesson that I learned, not from a
+- [00:06:36,159 - 00:06:40,629] mentor, humility. That is by far one of the
+- [00:06:40,629 - 00:06:45,099] most important character traits of, and I'd like to
+- [00:06:45,099 - 00:06:47,859] think of my professional life. I'm confident and
+- [00:06:47,859 - 00:06:50,620] I'm aggressive, but I have a lot of humility
+- [00:06:50,620 - 00:06:52,399] because I try to always be aware of what I
+- [00:06:52,399 - 00:06:54,179] don't know and always think about what I don't know.
+- [00:06:54,179 - 00:06:54,249] Always be aware of what I don't know. And I'm
+- [00:06:54,249 - 00:06:54,320] a professional, but I try to always be aware of what
+- [00:06:54,320 - 00:06:54,330] I don't know and always think about what I
+- [00:06:54,330 - 00:06:54,340] don't know. And I'm a professional, but I'm a professional,
+- [00:06:54,340 - 00:06:57,289] share what I do know in a positive and uplifting
+- [00:06:57,289 - 00:07:00,239] way so that I can share it with others in the
+- [00:07:00,239 - 00:07:02,469] form of wisdom, you know, because knowledge and
+- [00:07:02,469 - 00:07:04,700] wisdom is what it's about. And knowledge is,
+- [00:07:04,760 - 00:07:07,020] you know, firsthand experience and wisdom
+- [00:07:07,020 - 00:07:09,280] comes from listening to those with knowledge.
+- [00:07:09,440 - 00:07:12,209] And I like to play in both circles. Yeah.
+- [00:07:12,209 - 00:07:14,979] So an interesting thing that I've always thought about
+- [00:07:14,979 - 00:07:17,189] kind of growing up in my generation, there's
+- [00:07:17,189 - 00:07:19,400] an individual who might be controversial to some
+- [00:07:19,400 - 00:07:22,219] people, you know, there's a documentary on him,
+- [00:07:22,219 - 00:07:25,039] Kanye West, music artist. So throughout his life,
+- [00:07:25,039 - 00:07:27,449] you see he had a very close relationship
+- [00:07:27,449 - 00:07:29,859] with his mother. And then pretty much everything from
+- [00:07:29,859 - 00:07:32,259] there on out, his life is very like
+- [00:07:32,259 - 00:07:34,659] this, but controversial stuff in the news, you know,
+- [00:07:34,739 - 00:07:36,619] people are really concerned about his mental
+- [00:07:36,619 - 00:07:38,500] health. He was taking medications as well,
+- [00:07:38,940 - 00:07:41,079] probably on a lot of different medications. You
+- [00:07:41,079 - 00:07:43,219] saw some weight gain there, stuff like that.
+- [00:07:43,479 - 00:07:45,319] I'm curious to know your thoughts of
+- [00:07:45,319 - 00:07:47,159] how does a traumatic event like, you know,
+- [00:07:47,500 - 00:07:49,299] not necessarily head injury, but like,
+- [00:07:49,679 - 00:07:52,799] the loss of a relationship, like the
+- [00:07:52,799 - 00:07:55,919] more relationship type trauma, how does that affect
+- [00:07:55,919 - 00:07:59,149] the brain? Okay. Trauma. So when I
+- [00:07:59,149 - 00:08:02,380] do presentations, I do some public speaking.
+- [00:08:02,799 - 00:08:05,269] And one of the first words that I talk
+- [00:08:05,269 - 00:08:07,739] about or help educate everybody is the word trauma.
+- [00:08:08,140 - 00:08:10,200] And I said it earlier, you know, it's
+- [00:08:10,200 - 00:08:12,260] it basically, if you actually look up the definition,
+- [00:08:12,400 - 00:08:15,770] most people think trauma is just a major
+- [00:08:15,770 - 00:08:19,140] event with this major injury. No, it's anything,
+- [00:08:19,140 - 00:08:22,250] that is abnormal in the day to day life
+- [00:08:22,250 - 00:08:25,360] experience. All right. So trauma comes in many shapes,
+- [00:08:25,360 - 00:08:28,639] many forms, many styles, but primarily
+- [00:08:28,639 - 00:08:31,919] you have toxic trauma, addiction, alcohol, drugs,
+- [00:08:32,260 - 00:08:35,159] food sensitivity, poisons. Okay. You
+- [00:08:35,159 - 00:08:38,059] have physical trauma, football injuries,
+- [00:08:38,220 - 00:08:40,629] fall off my bicycle, hit my head,
+- [00:08:40,629 - 00:08:43,039] basketball court, you know, traumatic brain injury,
+- [00:08:43,679 - 00:08:46,399] the veterans in the war. Okay. And you have
+- [00:08:46,399 - 00:08:49,120] emotional trauma. All right. Loss of a loved one,
+- [00:08:49,140 - 00:08:52,250] betrayal by a loved one, et cetera. As
+- [00:08:52,250 - 00:08:55,360] we know, some people, as I said, are bulletproof,
+- [00:08:55,520 - 00:08:58,900] not much affects them. They just, they just carry on.
+- [00:08:58,900 - 00:09:02,280] But for some, a little bit of trauma can be
+- [00:09:02,280 - 00:09:05,100] devastating to the brain. The brain has two
+- [00:09:05,100 - 00:09:07,920] systems. It's an electrical system and a chemical
+- [00:09:07,920 - 00:09:10,520] system. And you put the two together and it's,
+- [00:09:10,520 - 00:09:13,120] there's a dance that the two systems do. Okay.
+- [00:09:13,120 - 00:09:15,880] And their job, that their responsibility,
+- [00:09:15,880 - 00:09:18,640] the brain's responsibility with these two systems
+- [00:09:18,640 - 00:09:18,880] is to help them. And so trauma can be devastating
+- [00:09:18,880 - 00:09:19,120] to the brain. And so trauma can be devastating to
+- [00:09:19,140 - 00:09:19,350] the brain. And so trauma can be devastating to
+- [00:09:19,350 - 00:09:19,560] the brain. And so trauma can be devastating to
+- [00:09:19,560 - 00:09:23,020] life on life's terms. And what happens in
+- [00:09:23,020 - 00:09:26,480] a traumatic scenario, there is such an overwhelming
+- [00:09:26,480 - 00:09:29,850] response to the trauma, whether it's a little bit
+- [00:09:29,850 - 00:09:33,220] of trauma every day or one day with a major
+- [00:09:33,220 - 00:09:37,360] amount of trauma, your brain has a responsibility to
+- [00:09:37,360 - 00:09:41,500] protect you. And it's the old fight or flight
+- [00:09:41,500 - 00:09:44,590] response. Okay. And it does a very good job
+- [00:09:44,590 - 00:09:47,680] in the moment of protecting you and saving your life.
+- [00:09:47,680 - 00:09:50,019] Unfortunately, for different sets of circumstances
+- [00:09:50,019 - 00:09:52,359] that we would be here all
+- [00:09:52,359 - 00:09:53,359] day discussing,
+- [00:09:53,359 - 00:09:55,739] there are times that the brain
+- [00:09:55,739 - 00:09:58,120] is basically so affected by this
+- [00:09:58,120 - 00:10:02,260] traumatic event, in this case, Kanye losing his mother,
+- [00:10:02,260 - 00:10:04,590] the stabilizing force of his life,
+- [00:10:04,590 - 00:10:06,920] for a man that had a propensity
+- [00:10:06,920 - 00:10:09,400] to be somewhat unstable at different times.
+- [00:10:09,400 - 00:10:11,880] But he has a level of genius
+- [00:10:11,880 - 00:10:14,939] as well and it's not uncommon for some of those
+- [00:10:14,940 - 00:10:18,280] geniuses to have this instability. But my point is,
+- [00:10:18,280 - 00:10:21,360] you have this very stabilizing relationship, this
+- [00:10:21,360 - 00:10:25,000] very intimate, loving, caring relationship
+- [00:10:25,000 - 00:10:27,590] that depends on this mother.
+- [00:10:27,590 - 00:10:30,180] She represents home, she represents security,
+- [00:10:30,180 - 00:10:33,900] she represents intimacy, she's everything
+- [00:10:33,900 - 00:10:37,060] to him. And that loss is so extreme
+- [00:10:37,060 - 00:10:38,900] that in that moment you
+- [00:10:38,900 - 00:10:40,740] get an imbalance in that system.
+- [00:10:40,740 - 00:10:44,280] And unfortunately, as the brain is very good
+- [00:10:44,280 - 00:10:48,300] in the instantaneous moment, sometimes it's not very good
+- [00:10:48,300 - 00:10:50,110] once the trauma is over.
+- [00:10:50,110 - 00:10:51,920] This is where we talk about
+- [00:10:51,920 - 00:10:56,620] PTSD. Most people think PTSD
+- [00:10:56,620 - 00:11:00,500] is always military. Okay, post trauma.
+- [00:11:00,500 - 00:11:04,579] There's that word stress disorder. So after the trauma,
+- [00:11:04,579 - 00:11:08,900] I have a stress disorder. Okay, it's not just Veterans!
+- [00:11:08,900 - 00:11:12,459] You have PTSD from a bad marriage, bad employer
+- [00:11:12,459 - 00:11:13,780] or in this case you can have
+- [00:11:13,780 - 00:11:16,980] PTSD that can manifest in some very unusual ways
+- [00:11:16,980 - 00:11:20,180] with the loss of a loved one. How does that
+- [00:11:20,180 - 00:11:23,900] manifest in a brain? Different brains respond in
+- [00:11:23,900 - 00:11:27,620] different ways. In our world, it's one or both
+- [00:11:27,620 - 00:11:30,550] of those two systems. It's either
+- [00:11:30,550 - 00:11:33,480] a chemical imbalance, dopamine, serotonin, acetylcholine,
+- [00:11:33,480 - 00:11:37,089] these are all the hormones of the brain, okay? Or
+- [00:11:37,089 - 00:11:40,699] it's going to be in the EEG, the frequencies of
+- [00:11:40,700 - 00:11:43,890] the brain, and then where in the brain the trauma
+- [00:11:43,890 - 00:11:47,080] is. And this is what we're in the business of
+- [00:11:47,080 - 00:11:50,250] doing down at the end of the hall. And
+- [00:11:50,250 - 00:11:53,420] this is what, with all fairness to doctors and psychiatrists,
+- [00:11:53,460 - 00:11:56,470] sometimes it's a bit of a guessing game. I'm
+- [00:11:56,470 - 00:11:59,480] here, I feel depressed, I'm losing my, you know,
+- [00:11:59,480 - 00:12:02,670] desire in life, and my marriage is not very
+- [00:12:02,670 - 00:12:05,860] good anymore. And he says, okay, Prozac, let's try that.
+- [00:12:06,540 - 00:12:08,610] And away you go. And
+- [00:12:08,610 - 00:12:10,680] what they're doing is trying to
+- [00:12:10,680 - 00:12:14,410] chemically alter a chemically altered brain, expecting it
+- [00:12:14,410 - 00:12:18,140] to be normal. And it may work some
+- [00:12:18,140 - 00:12:20,960] of the time, but it doesn't work all the time.
+- [00:12:20,960 - 00:12:23,780] It doesn't work most of the time. And this is what
+- [00:12:23,780 - 00:12:27,480] happens to all of us in any type of a
+- [00:12:27,480 - 00:12:31,180] scenario with any type of trauma. And depending on how
+- [00:12:31,180 - 00:12:33,650] your general health and wellness, depending on
+- [00:12:33,650 - 00:12:36,120] what quality of life you currently have,
+- [00:12:36,120 - 00:12:38,250] will determine what response to
+- [00:12:38,250 - 00:12:40,380] certain treatments that you'll have.
+- [00:12:40,680 - 00:12:43,860] But treatment should always begin, in
+- [00:12:43,860 - 00:12:47,040] my humble opinion, with non-invasive technologies,
+- [00:12:47,680 - 00:12:50,519] improvements in nutrition. I do believe in
+- [00:12:50,519 - 00:12:53,359] talk therapy, although some don't, but, you know,
+- [00:12:53,620 - 00:12:57,120] talking to a friend, but basically the foundation of
+- [00:12:57,120 - 00:13:00,620] life. I also happen to be a man of faith,
+- [00:13:00,839 - 00:13:03,249] so I believe in belonging to a spiritual
+- [00:13:03,249 - 00:13:05,660] community as well. And once you start replacing
+- [00:13:08,120 - 00:13:10,599] these opportunities in life to enhance or
+- [00:13:10,680 - 00:13:13,519] destabilize your health, you'll see an improvement. You
+- [00:13:13,519 - 00:13:16,359] won't see it overnight like it is when you
+- [00:13:16,359 - 00:13:18,769] start taking, like if you're struggling from stress
+- [00:13:18,769 - 00:13:21,180] and you take Xanax and suddenly you don't
+- [00:13:21,180 - 00:13:23,689] care about anything except, you know, no longer,
+- [00:13:23,689 - 00:13:26,199] you no longer feel stressed, but you, again,
+- [00:13:26,280 - 00:13:29,770] you've got a whole new set of problems. But
+- [00:13:29,770 - 00:13:33,260] my point is, is that sometimes you don't get somewhere
+- [00:13:33,260 - 00:13:35,580] overnight and you don't get out of it overnight.
+- [00:13:35,580 - 00:13:37,900] You know, it's like weight gain. You know, you
+- [00:13:37,900 - 00:13:39,280] didn't gain a hundred pounds overnight and you're
+- [00:13:39,280 - 00:13:40,660] not going to lose a hundred pounds overnight.
+- [00:13:40,680 - 00:13:42,709] You're going to lose a hundred pounds in
+- [00:13:42,709 - 00:13:44,739] three months. Okay. It's, it's all balanced in life.
+- [00:13:44,900 - 00:13:47,609] So that's kind of where I am on
+- [00:13:47,609 - 00:13:50,319] trauma and the brain and, and restoring brain health.
+- [00:13:50,500 - 00:13:52,060] That's amazing. You've started companies
+- [00:13:52,060 - 00:13:53,620] throughout your entire career. You've brought
+- [00:13:53,620 - 00:13:55,460] a company public. What is the
+- [00:13:55,460 - 00:13:57,300] greatest accomplishment you've had throughout your career?
+- [00:14:01,920 - 00:14:05,689] Getting up, brushing myself off, licking my
+- [00:14:05,689 - 00:14:09,459] wounds and going back in for another round.
+- [00:14:09,459 - 00:14:10,640] I can tell you,
+- [00:14:10,680 - 00:14:13,550] that, you know, you know what the worst thing
+- [00:14:13,550 - 00:14:16,420] of never having money is having a lot of money
+- [00:14:16,420 - 00:14:19,220] and losing it and not having any money. Okay.
+- [00:14:19,220 - 00:14:22,020] And so I'm going to say that the greatest
+- [00:14:22,020 - 00:14:24,530] accomplishment and the greatest success for me is,
+- [00:14:24,530 - 00:14:27,040] is when I've watched at that point in life,
+- [00:14:27,040 - 00:14:30,550] my life's work get loaded up into trucks and
+- [00:14:30,550 - 00:14:34,060] taken down the road. And I had a bankruptcy attorney
+- [00:14:34,060 - 00:14:36,850] that was awesome. His name was
+- [00:14:36,850 - 00:14:39,640] Nelson Hemsley. This guy was spectacular.
+- [00:14:39,900 - 00:14:40,280] And he said, I'm going to go to the bank and I'm going
+- [00:14:40,280 - 00:14:40,660] to go to the bank and I'm going to go to the bank.
+- [00:14:40,660 - 00:14:44,770] And he said to me one day, he said, look, Mark, he said, you can
+- [00:14:44,770 - 00:14:48,880] pay me and I'll go to court and I'll clean up the mess you've made.
+- [00:14:49,000 - 00:14:52,599] And you can go do whatever it is you do and go back
+- [00:14:52,599 - 00:14:56,199] to wherever you came from. Or you can come with me to every meeting
+- [00:14:56,199 - 00:14:59,929] and you can come to me to that courthouse and face the
+- [00:14:59,929 - 00:15:03,660] people that you owe money to. And I'll teach you more about business
+- [00:15:03,660 - 00:15:06,770] and more about life than you ever could
+- [00:15:06,770 - 00:15:09,880] imagine. And you'll ever learn in school, in business,
+- [00:15:09,880 - 00:15:12,460] whatever level of success you've ever had. I will
+- [00:15:12,460 - 00:15:15,040] tell you something. That man gave me a gift.
+- [00:15:15,260 - 00:15:18,550] Truer words have never been spoken. And my
+- [00:15:18,550 - 00:15:21,840] greatest accomplishment was having the strength and the nerve
+- [00:15:21,840 - 00:15:26,530] to go into a room of people that hated me because
+- [00:15:26,530 - 00:15:31,220] I unfortunately failed and I owed them money and they lost money.
+- [00:15:31,880 - 00:15:35,090] And so the greatest accomplishment was to go in
+- [00:15:35,090 - 00:15:38,300] there and do the best I could to apologize,
+- [00:15:38,300 - 00:15:39,860] except that's not really a favor.
+- [00:15:39,880 - 00:15:41,570] I'm not going to say that I'm not a fair
+- [00:15:41,570 - 00:15:43,260] word because I won't tell you that I apologized to them.
+- [00:15:43,260 - 00:15:47,260] But to be in an apologetic space, to give everything I
+- [00:15:47,260 - 00:15:51,260] had back and they had to divvy it up and sell it.
+- [00:15:51,260 - 00:15:55,050] And it is a brutal experience. But on the
+- [00:15:55,050 - 00:15:58,840] other side of it, I was a new man.
+- [00:15:58,840 - 00:16:03,670] I had a new level of respect for my fellow man. I was
+- [00:16:03,670 - 00:16:08,500] divorced at the time. I remarried my wife and put my family back together.
+- [00:16:08,500 - 00:16:09,180] I learned about my family. I learned about my family. I learned
+- [00:16:09,180 - 00:16:09,860] about my family. I learned about my family. I learned about my family.
+- [00:16:09,860 - 00:16:10,860] Humility.
+- [00:16:10,860 - 00:16:11,860] Humility.
+- [00:16:11,860 - 00:16:15,860] And that is by far in life my greatest accomplishment.
+- [00:16:15,860 - 00:16:18,860] Wow. Are you a reader by any chance?
+- [00:16:18,860 - 00:16:19,860] I'm not.
+- [00:16:19,860 - 00:16:20,860] You're not a reader.
+- [00:16:20,860 - 00:16:21,860] I'm a skimmer.
+- [00:16:21,860 - 00:16:23,860] You're a skimmer. Let me ask you this. What
+- [00:16:23,860 - 00:16:25,860] is your best self-improvement advice for people out there?
+- [00:16:25,860 - 00:16:28,860] For you personally, maybe it's part of your routine.
+- [00:16:28,860 - 00:16:30,860] People, you know, let's just talk
+- [00:16:30,860 - 00:16:32,860] about the average modern man, right?
+- [00:16:32,860 - 00:16:35,360] They're out of shape. They're
+- [00:16:35,360 - 00:16:37,860] addicted to Netflix and dopamine.
+- [00:16:37,860 - 00:16:38,360] What's your advice to people who are
+- [00:16:38,360 - 00:16:38,860] trying to really get their life back?
+- [00:16:39,860 - 00:16:42,860] They want to get on the right track. They're trying
+- [00:16:42,860 - 00:16:45,860] to get serious about becoming maybe financially free and just overall.
+- [00:16:45,860 - 00:16:49,860] Okay. Structure. Okay? Structure.
+- [00:16:49,860 - 00:16:52,360] For instance, I love stories. You
+- [00:16:52,360 - 00:16:54,860] know, I talk about knowledge and wisdom.
+- [00:16:54,860 - 00:16:57,860] And I love taking some of my experiences
+- [00:16:57,860 - 00:17:00,860] of life and applying it to life's wisdom. Okay?
+- [00:17:00,860 - 00:17:03,360] I was in a situation one time and I was working
+- [00:17:03,360 - 00:17:05,859] with this man and his name was Haas of all names.
+- [00:17:05,859 - 00:17:07,359] And I was talking to Haas
+- [00:17:07,359 - 00:17:08,859] and I was asking his advice.
+- [00:17:08,859 - 00:17:10,359] And Haas said, look, this is
+- [00:17:10,359 - 00:17:11,859] what I want you to do.
+- [00:17:11,859 - 00:17:13,359] He said, I want you to
+- [00:17:13,359 - 00:17:14,859] set your alarm for 8 a.m.
+- [00:17:14,859 - 00:17:18,859] Get out of bed. Make your bed. Okay?
+- [00:17:18,859 - 00:17:20,359] Before you leave your room, get
+- [00:17:20,359 - 00:17:21,859] out of bed, make your bed.
+- [00:17:21,859 - 00:17:24,859] Then go take your shower. Okay?
+- [00:17:24,859 - 00:17:26,859] And be ready to go at whatever
+- [00:17:26,859 - 00:17:28,860] you're going to do at 9 a.m.
+- [00:17:28,860 - 00:17:30,860] Eat lunch at noon.
+- [00:17:30,860 - 00:17:32,860] Eat dinner at six.
+- [00:17:32,860 - 00:17:34,860] And after dinner, do, you know, whatever you
+- [00:17:34,860 - 00:17:36,860] need to do for your personal fruit and vegetable.
+- [00:17:36,860 - 00:17:37,860] Okay?
+- [00:17:37,860 - 00:17:38,360] Haas said, look, this is
+- [00:17:38,360 - 00:17:38,860] what I want you to do.
+- [00:17:38,860 - 00:17:41,499] time and be ready to go to bed at nine,
+- [00:17:41,499 - 00:17:44,139] start getting prepared for bed and get in bed at
+- [00:17:45,740 - 00:17:48,159] And I'm like, that's it?
+- [00:17:48,439 - 00:17:49,620] He goes, that's it.
+- [00:17:50,040 - 00:17:51,659] And I'm like, why?
+- [00:17:52,080 - 00:17:53,560] And he said, because you
+- [00:17:53,560 - 00:17:55,040] need to be successful at something.
+- [00:17:55,439 - 00:17:57,279] You just need to do one
+- [00:17:57,279 - 00:17:59,120] thing and be successful at it.
+- [00:17:59,240 - 00:18:01,600] And what will happen is you're going to get bit.
+- [00:18:02,060 - 00:18:04,660] You're going to suddenly feel at the end of
+- [00:18:04,660 - 00:18:07,260] the first day, you're going to go, wow, I
+- [00:18:07,260 - 00:18:09,100] did what I said I was going to do.
+- [00:18:09,320 - 00:18:11,040] I did what I set out to do.
+- [00:18:11,040 - 00:18:12,690] And really, you didn't do
+- [00:18:12,690 - 00:18:14,340] anything except take care of yourself.
+- [00:18:14,860 - 00:18:16,640] People need to take care of themselves.
+- [00:18:17,420 - 00:18:17,940] And they don't.
+- [00:18:18,040 - 00:18:20,260] And again, drink a bottle of water,
+- [00:18:20,260 - 00:18:22,480] take a walk, be on time to work.
+- [00:18:22,560 - 00:18:23,940] Don't be five minutes late to work.
+- [00:18:24,440 - 00:18:27,060] Just try a few small baby steps.
+- [00:18:27,480 - 00:18:29,140] Because what happens is you get
+- [00:18:29,140 - 00:18:30,800] into that New Year's resolution mindset.
+- [00:18:31,379 - 00:18:32,800] You know, every day is New Year's resolution.
+- [00:18:33,000 - 00:18:33,800] Today's the day.
+- [00:18:33,900 - 00:18:36,379] I'm going to stop doing A, B, C, D.
+- [00:18:36,580 - 00:18:37,240] I'm going to start.
+- [00:18:37,320 - 00:18:38,860] Doing E, F, G, H.
+- [00:18:39,060 - 00:18:41,080] And you get to A, B, and you're done.
+- [00:18:41,740 - 00:18:42,780] And now you failed.
+- [00:18:43,300 - 00:18:44,740] And now you feel ashamed.
+- [00:18:44,840 - 00:18:45,700] You feel disappointed.
+- [00:18:46,020 - 00:18:47,990] So you turn on Netflix, get a
+- [00:18:47,990 - 00:18:49,960] bag of chips, and start all over.
+- [00:18:50,300 - 00:18:50,980] Pack it in.
+- [00:18:51,240 - 00:18:51,680] That's right.
+- [00:18:51,680 - 00:18:51,920] Pack it in.
+- [00:18:52,060 - 00:18:52,720] Pack it, okay?
+- [00:18:52,900 - 00:18:54,800] And it's really not that complicated.
+- [00:18:55,420 - 00:18:57,340] You know, figure out what you can do.
+- [00:18:57,980 - 00:18:59,280] It's not rocket science.
+- [00:18:59,500 - 00:19:01,220] You don't need to do it all in a day.
+- [00:19:01,680 - 00:19:03,560] Again, you didn't get here overnight.
+- [00:19:03,560 - 00:19:05,000] You're not going to get out of it overnight.
+- [00:19:05,520 - 00:19:06,520] Start small.
+- [00:19:06,520 - 00:19:08,060] Just set the alarm.
+- [00:19:08,200 - 00:19:08,800] Get out of bed.
+- [00:19:08,900 - 00:19:10,460] Be on time to work, if nothing else.
+- [00:19:10,860 - 00:19:11,760] But you start small.
+- [00:19:12,340 - 00:19:14,410] And when you finish the day and you've
+- [00:19:14,410 - 00:19:16,480] done what you said you were going to do,
+- [00:19:16,879 - 00:19:18,579] go sit in a chair
+- [00:19:18,579 - 00:19:20,280] and get quiet and think about,
+- [00:19:20,560 - 00:19:21,700] I just did what I
+- [00:19:21,700 - 00:19:22,840] said I was going to do.
+- [00:19:23,580 - 00:19:25,310] Do you know how many times we set out
+- [00:19:25,310 - 00:19:27,040] to do something in the course of a day
+- [00:19:27,040 - 00:19:27,940] and we don't ever do it?
+- [00:19:28,120 - 00:19:28,740] More often.
+- [00:19:29,080 - 00:19:29,460] That's right.
+- [00:19:29,500 - 00:19:30,460] A lot of the times we do stuff.
+- [00:19:30,700 - 00:19:32,680] And do you know how often you sit
+- [00:19:32,680 - 00:19:34,660] down and think about what you accomplished today
+- [00:19:34,660 - 00:19:36,460] when you set out to accomplish something?
+- [00:19:36,460 - 00:19:37,340] And then you did?
+- [00:19:37,460 - 00:19:40,550] How often you sit down with yourself and sort
+- [00:19:40,550 - 00:19:43,640] of take it in that today was a good day?
+- [00:19:44,100 - 00:19:45,300] Because that's what it is.
+- [00:19:45,740 - 00:19:48,280] You know, every day is a new day.
+- [00:19:48,360 - 00:19:50,020] And every new day is the first
+- [00:19:50,020 - 00:19:51,680] day of the rest of your life.
+- [00:19:52,140 - 00:19:54,540] And you don't have to do it all today.
+- [00:19:55,040 - 00:19:56,980] So small baby steps.
+- [00:19:57,420 - 00:19:58,840] Every situation is unique.
+- [00:19:59,020 - 00:20:00,640] What is your Achilles heel?
+- [00:20:01,220 - 00:20:03,440] Be able to get really honest with yourself.
+- [00:20:03,720 - 00:20:04,340] Is it sugar?
+- [00:20:04,460 - 00:20:05,060] Is it vodka?
+- [00:20:05,060 - 00:20:06,180] Is it marijuana?
+- [00:20:06,460 - 00:20:09,780] Is it abuse of the dog?
+- [00:20:10,080 - 00:20:11,440] Is it a bad marriage?
+- [00:20:11,880 - 00:20:13,340] Are you mean to people?
+- [00:20:13,800 - 00:20:15,830] You've got to get really clear
+- [00:20:15,830 - 00:20:17,860] with yourself and be honest with yourself.
+- [00:20:18,540 - 00:20:19,780] And then sit down and go,
+- [00:20:20,040 - 00:20:22,520] Okay, today I'm going to
+- [00:20:22,520 - 00:20:25,000] say hello to everybody and smile.
+- [00:20:26,440 - 00:20:27,340] And that's it.
+- [00:20:27,620 - 00:20:28,080] And you know what?
+- [00:20:28,100 - 00:20:29,460] At the end of the day, you'll feel better.
