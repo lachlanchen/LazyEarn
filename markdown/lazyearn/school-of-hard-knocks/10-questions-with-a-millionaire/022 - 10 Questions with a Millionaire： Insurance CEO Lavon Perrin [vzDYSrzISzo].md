@@ -1,0 +1,346 @@
+# Transcript
+
+Source: lazyearn/school-of-hard-knocks/10-questions-with-a-millionaire/022 - 10 Questions with a Millionaire： Insurance CEO Lavon Perrin [vzDYSrzISzo].mkv
+
+- [00:00:00,000 - 00:00:01,830] My mom told me if you hang around nine
+- [00:00:01,830 - 00:00:03,660] broke friends, you're going to be the 10th one, right?
+- [00:00:03,960 - 00:00:06,420] So if I hang around nine guys that
+- [00:00:06,420 - 00:00:08,880] drives Ferraris, I have a lot better chance.
+- [00:00:09,840 - 00:00:11,420] What's going on, everyone? This is James
+- [00:00:11,420 - 00:00:13,000] Doolin with the School of Hard Knocks,
+- [00:00:13,060 - 00:00:15,120] and this is our first episode of
+- [00:00:15,120 - 00:00:17,180] our new series, 10 Questions with Millionaires.
+- [00:00:17,360 - 00:00:20,320] I'm here today with Levon Perrin, who's a millionaire.
+- [00:00:20,760 - 00:00:23,870] He's an entrepreneur, business owner, savant, and man, we're so
+- [00:00:23,870 - 00:00:26,980] pumped and thrilled to have him on as our first guest.
+- [00:00:26,980 - 00:00:28,580] We'll start off with our first question.
+- [00:00:28,800 - 00:00:31,470] What is the biggest thing that you would say that
+- [00:00:31,470 - 00:00:34,140] really separates people apart from their peers in the business world,
+- [00:00:34,220 - 00:00:36,810] whether it's a skill set or a mindset
+- [00:00:36,810 - 00:00:39,400] thing for people to incorporate into their toolbox?
+- [00:00:39,560 - 00:00:40,780] I think it goes back, and
+- [00:00:40,780 - 00:00:42,000] you mentioned it. It's simply mindset.
+- [00:00:43,300 - 00:00:48,200] I can almost end there. Mindset means everything, right?
+- [00:00:48,240 - 00:00:51,140] If you take a situation and your mindset's
+- [00:00:51,140 - 00:00:54,040] not right, you're going to think it's negative, right?
+- [00:00:54,040 - 00:00:55,370] Because we live in, I mean, if
+- [00:00:55,370 - 00:00:56,700] you pick up, if you watch the news,
+- [00:00:56,980 - 00:00:58,280] is it a lot of positive
+- [00:00:58,280 - 00:00:59,580] on the news? No, it's negative.
+- [00:00:59,879 - 00:01:01,119] So we're fed a lot of negative
+- [00:01:01,119 - 00:01:02,360] stuff. That's why I don't watch the news.
+- [00:01:02,540 - 00:01:04,259] That keeps all the negative out of my mind.
+- [00:01:04,340 - 00:01:06,080] I'm not going to sit here and watch all the
+- [00:01:06,080 - 00:01:07,820] stuff that happened negatively and try to live my life,
+- [00:01:07,840 - 00:01:09,780] but I believe your mindset
+- [00:01:09,780 - 00:01:11,720] is just, I can't tell you.
+- [00:01:12,240 - 00:01:14,850] If I had to take one tool, right, if I was building
+- [00:01:14,850 - 00:01:17,460] a person, and you get to put tools inside of a person,
+- [00:01:17,720 - 00:01:19,199] and you had one major tool
+- [00:01:19,199 - 00:01:20,679] they can get, it would be mindset.
+- [00:01:20,880 - 00:01:22,890] When you have the right mindset, you're able
+- [00:01:22,890 - 00:01:24,900] to go a lot further than any other thing.
+- [00:01:25,320 - 00:01:26,110] You want to know why you're
+- [00:01:26,110 - 00:01:26,900] not where you want to be?
+- [00:01:27,080 - 00:01:28,800] Well, when you start looking in the
+- [00:01:28,800 - 00:01:30,520] mirror and realizing it's because of you,
+- [00:01:31,660 - 00:01:33,210] and honestly take a deep look at it
+- [00:01:33,210 - 00:01:34,760] and look at the other side of the coin,
+- [00:01:34,940 - 00:01:36,650] you could have done something better in that situation
+- [00:01:36,650 - 00:01:38,360] that maybe would have gave you a different life.
+- [00:01:38,580 - 00:01:39,640] Go with a group, go with a group.
+- [00:01:40,100 - 00:01:42,840] Big word now everywhere is side hustle, right?
+- [00:01:43,020 - 00:01:44,250] So you can take that side
+- [00:01:44,250 - 00:01:45,480] hustle and do it in the evenings.
+- [00:01:45,740 - 00:01:47,800] So some of my people that live on the
+- [00:01:47,800 - 00:01:49,860] East Coast, they buy a license in the West Coast.
+- [00:01:50,140 - 00:01:51,640] That buys them three hours a day.
+- [00:01:52,480 - 00:01:54,280] So instead of 8 o'clock in their time
+- [00:01:54,280 - 00:01:56,080] where they can stop calling people 8 o'clock,
+- [00:01:56,440 - 00:01:56,960] now they can call up.
+- [00:01:57,120 - 00:01:57,980] They can work till 11.
+- [00:01:58,180 - 00:02:00,200] So you can work 9 to 5, have
+- [00:02:00,200 - 00:02:02,220] dinner, go to football practice with the kids,
+- [00:02:02,420 - 00:02:04,760] come home and 8 o'clock start calling for three hours
+- [00:02:04,760 - 00:02:07,100] in the West Coast and have a whole other career.
+- [00:02:07,300 - 00:02:09,440] And once that career takes off, now you can get
+- [00:02:09,440 - 00:02:11,580] out of that job, that full-time job that you had.
+- [00:02:11,780 - 00:02:13,530] One of the coolest things to me about
+- [00:02:13,530 - 00:02:15,280] like whenever I'm talking to business owners and entrepreneurs
+- [00:02:15,480 - 00:02:16,730] is it seems like there was
+- [00:02:16,730 - 00:02:17,980] always kind of a turning point,
+- [00:02:18,180 - 00:02:19,850] whether it was when they were going to
+- [00:02:19,850 - 00:02:21,520] school or when they were working throughout their career.
+- [00:02:21,720 - 00:02:24,040] But what point in your life did you know that like
+- [00:02:24,040 - 00:02:26,360] this was kind of the path that you wanted to take?
+- [00:02:26,980 - 00:02:29,460] I think it was one of the things that
+- [00:02:29,460 - 00:02:31,940] just kind of happened, to be honest with you.
+- [00:02:32,140 - 00:02:34,760] Just going back and forth with the corporate
+- [00:02:34,760 - 00:02:37,380] America didn't ever seem like I really fit.
+- [00:02:37,579 - 00:02:39,299] It felt like I had a lot
+- [00:02:39,299 - 00:02:41,019] of questions and I bucked the system,
+- [00:02:41,220 - 00:02:42,839] but I was a good salesperson and
+- [00:02:42,839 - 00:02:44,459] everyone liked me and I can lead people.
+- [00:02:44,660 - 00:02:46,279] It just became where I felt like I
+- [00:02:46,279 - 00:02:47,899] wanted to go ahead and do my own thing
+- [00:02:48,100 - 00:02:49,760] and take all the tools that I've
+- [00:02:49,760 - 00:02:51,420] learned though from working for other companies
+- [00:02:51,620 - 00:02:52,899] and go and take it and
+- [00:02:52,899 - 00:02:54,179] put it into action for myself.
+- [00:02:54,380 - 00:02:56,040] So working for other companies definitely helped me.
+- [00:02:56,239 - 00:02:56,940] Loved it.
+- [00:02:57,140 - 00:02:58,780] I learned how businesses work and be
+- [00:02:58,780 - 00:03:00,420] able to take some of those skills
+- [00:03:00,619 - 00:03:02,380] and just use them to my advantage.
+- [00:03:02,579 - 00:03:04,660] You know, one door closes, another one opens.
+- [00:03:04,859 - 00:03:06,419] So it was just time for me
+- [00:03:06,419 - 00:03:07,980] to decide to do my own thing.
+- [00:03:08,179 - 00:03:10,099] One of the big turning points for me other than
+- [00:03:10,099 - 00:03:12,019] that is, you know, I was in the car business.
+- [00:03:12,220 - 00:03:14,459] Right. And everybody knows what happens in a car business.
+- [00:03:14,660 - 00:03:16,660] Right. Four or five divorces, blah, blah, blah.
+- [00:03:16,660 - 00:03:17,660] That's what happens.
+- [00:03:17,859 - 00:03:20,059] So my biggest thing was I didn't want that,
+- [00:03:20,059 - 00:03:22,260] but I wanted to be able to see my kids.
+- [00:03:22,459 - 00:03:24,559] What would you say has been the biggest thing that's
+- [00:03:24,559 - 00:03:26,660] enabled you to scale your business to what it is now?
+- [00:03:26,980 - 00:03:28,820] Everyone wants to make $100,000 a year.
+- [00:03:29,019 - 00:03:32,179] Right. So very few people are able to do that.
+- [00:03:32,380 - 00:03:34,780] Well, probably because that's your goal.
+- [00:03:34,980 - 00:03:37,659] If you had a plan and a goal to
+- [00:03:37,659 - 00:03:40,339] make $500,000 a year and you failed at your goal,
+- [00:03:40,540 - 00:03:43,339] you probably would still make $100,000 a year.
+- [00:03:43,540 - 00:03:45,980] But it's having a plan to help get you there.
+- [00:03:46,179 - 00:03:48,619] One thing I've done for myself is to
+- [00:03:48,619 - 00:03:51,060] say, what if they had 10 of me?
+- [00:03:51,260 - 00:03:53,279] All right. So that company or
+- [00:03:53,279 - 00:03:55,299] that particular people I'm doing business with,
+- [00:03:55,500 - 00:03:56,940] would they be happy that they had 10 of me?
+- [00:03:57,140 - 00:03:59,380] And in my situation is yes.
+- [00:03:59,579 - 00:04:01,380] So that's how you know you're on the right track.
+- [00:04:01,579 - 00:04:03,500] Be accountable. Everything you do is accountable.
+- [00:04:03,700 - 00:04:04,739] We're in the United States.
+- [00:04:04,940 - 00:04:06,019] Everyone has the same options.
+- [00:04:06,220 - 00:04:07,820] Why are you not successful?
+- [00:04:08,019 - 00:04:08,660] That's up to you.
+- [00:04:08,859 - 00:04:10,719] Right. Surround yourself with people
+- [00:04:10,719 - 00:04:12,579] that's going to be successful.
+- [00:04:12,780 - 00:04:13,299] Right.
+- [00:04:13,500 - 00:04:15,400] When I go downstairs and I go in our
+- [00:04:15,400 - 00:04:17,300] garage, how many four hours you thinking down there?
+- [00:04:17,500 - 00:04:19,019] Right. It's a good amount.
+- [00:04:19,019 - 00:04:20,219] How many portions are downstairs?
+- [00:04:20,420 - 00:04:20,740] A lot.
+- [00:04:20,940 - 00:04:22,900] I'm sorry, but my mom told me
+- [00:04:22,900 - 00:04:24,860] if you hang around nine broke friends,
+- [00:04:24,860 - 00:04:25,900] you're going to be the 10th one.
+- [00:04:26,099 - 00:04:26,820] Right.
+- [00:04:27,020 - 00:04:30,300] So if I hang around nine guys that drives Ferraris,
+- [00:04:30,500 - 00:04:32,740] I have a lot better chance.
+- [00:04:32,940 - 00:04:33,660] Right.
+- [00:04:33,860 - 00:04:35,140] I've been driving Ferrari.
+- [00:04:35,340 - 00:04:36,940] So, you know, whether that's your dream
+- [00:04:36,940 - 00:04:38,540] or not, I'm just saying putting yourself
+- [00:04:38,740 - 00:04:40,840] in better situations around people, that's why
+- [00:04:40,840 - 00:04:42,940] I made the pivot to move downtown.
+- [00:04:43,140 - 00:04:44,960] I want to be around people
+- [00:04:44,960 - 00:04:46,780] that were doing things, having the lifestyle,
+- [00:04:46,980 - 00:04:48,580] doing the things that I like to do,
+- [00:04:48,580 - 00:04:50,180] and I want to be some of those people.
+- [00:04:50,180 - 00:04:51,100] So now we're them.
+- [00:04:51,300 - 00:04:52,980] Me and my wife tell each other all the time.
+- [00:04:53,180 - 00:04:54,740] Our kids come over to like, y'all are them.
+- [00:04:54,940 - 00:04:55,900] Yeah.
+- [00:04:55,900 - 00:04:57,739] Y'all are them people we see all the time.
+- [00:04:57,940 - 00:04:59,780] Well, you know, I guess so. Right.
+- [00:04:59,780 - 00:05:01,400] But the good part about it is,
+- [00:05:01,400 - 00:05:03,020] like I said, there's no practice life.
+- [00:05:03,219 - 00:05:05,919] How important has taking risk been to the success
+- [00:05:05,919 - 00:05:08,620] of you as an entrepreneur and a business owner?
+- [00:05:08,820 - 00:05:11,620] There's no success without risk. Bottom line.
+- [00:05:11,820 - 00:05:14,800] You're not going to be safe and live in your comfort
+- [00:05:14,800 - 00:05:17,780] zone and do everything you want to do and be successful.
+- [00:05:17,979 - 00:05:18,940] That's just not going to happen.
+- [00:05:19,020 - 00:05:21,020] You have to take some calculated risk. Right.
+- [00:05:21,219 - 00:05:22,099] And learn from your risk.
+- [00:05:22,099 - 00:05:23,199] Can't continue to do the same
+- [00:05:23,199 - 00:05:24,299] thing over and over and over again.
+- [00:05:24,500 - 00:05:25,659] But you got to believe in yourself.
+- [00:05:25,900 - 00:05:27,380] And educate yourself.
+- [00:05:27,580 - 00:05:29,500] Become a better version of yourself.
+- [00:05:29,700 - 00:05:32,500] When you do that, sometimes there's risk of payoff.
+- [00:05:32,500 - 00:05:33,380] Sometimes they won't.
+- [00:05:33,380 - 00:05:35,040] But you still have to believe in whatever that
+- [00:05:35,040 - 00:05:36,700] you're doing that you can give it your all.
+- [00:05:36,900 - 00:05:39,219] For someone pursuing the sales industry
+- [00:05:39,219 - 00:05:41,539] in 2022, how can someone crush it?
+- [00:05:41,539 - 00:05:42,979] Or what is the secret to sales?
+- [00:05:43,179 - 00:05:45,099] I believe just personal development.
+- [00:05:45,299 - 00:05:47,299] That's something I didn't do in my youth.
+- [00:05:47,500 - 00:05:48,659] I didn't read books.
+- [00:05:48,859 - 00:05:50,299] I didn't read books after college.
+- [00:05:50,500 - 00:05:53,900] I went online classes when online classes wasn't cool.
+- [00:05:54,099 - 00:05:55,020] Early 2000s.
+- [00:05:55,020 - 00:05:55,620] I did online.
+- [00:05:55,620 - 00:05:56,700] I got my degree.
+- [00:05:56,900 - 00:05:58,800] But I believe that the
+- [00:05:58,800 - 00:06:00,700] personal development side has been huge.
+- [00:06:00,900 - 00:06:02,980] I think last year I read probably 15 books.
+- [00:06:03,180 - 00:06:04,140] Right.
+- [00:06:04,340 - 00:06:05,900] The year before, I didn't read very many.
+- [00:06:06,100 - 00:06:08,040] So I think the personal development helped
+- [00:06:08,040 - 00:06:09,980] me a lot because it helped me
+- [00:06:10,180 - 00:06:11,640] validate some things that I
+- [00:06:11,640 - 00:06:13,100] thought, but I didn't know why.
+- [00:06:13,300 - 00:06:14,860] Why my thoughts were where they were.
+- [00:06:15,060 - 00:06:18,860] Why my ambitions were focused here and not there.
+- [00:06:19,060 - 00:06:21,100] So I believe that personal growth
+- [00:06:21,300 - 00:06:23,200] and development is probably the biggest
+- [00:06:23,200 - 00:06:25,100] things that I would do differently.
+- [00:06:25,100 - 00:06:27,820] I would start doing personal development at a younger age.
+- [00:06:28,020 - 00:06:29,780] What would you say have been the three
+- [00:06:29,980 - 00:06:32,080] fundamental books that you think
+- [00:06:32,080 - 00:06:34,180] every entrepreneur should read to really
+- [00:06:34,380 - 00:06:36,120] help along their path of
+- [00:06:36,120 - 00:06:37,860] self-improvement and development as an entrepreneur?
+- [00:06:38,060 - 00:06:40,740] There's one that stands above and beyond.
+- [00:06:40,940 - 00:06:45,220] Yeah. One that just has changed for me.
+- [00:06:45,420 - 00:06:47,540] That's How to Think and Grow Rich.
+- [00:06:47,740 - 00:06:50,260] That's the number one book.
+- [00:06:50,460 - 00:06:51,660] That's by Napoleon Hill.
+- [00:06:51,860 - 00:06:53,020] It told me about my things
+- [00:06:53,020 - 00:06:54,180] that I was doing as a youth.
+- [00:06:55,100 - 00:06:56,660] And how to take those focuses and those
+- [00:06:56,660 - 00:06:58,220] energies and put them in a different place.
+- [00:06:58,420 - 00:07:00,140] So to me, that's my biggest book.
+- [00:07:00,140 - 00:07:02,940] My mentor actually reads that same book every September.
+- [00:07:02,940 - 00:07:04,080] And he just told me the other
+- [00:07:04,080 - 00:07:05,220] day that he's starting to read it.
+- [00:07:05,220 - 00:07:06,580] So I'm excited because now I'm
+- [00:07:06,580 - 00:07:07,940] going to start reading that book.
+- [00:07:08,140 - 00:07:10,220] But that one did things for me.
+- [00:07:10,220 - 00:07:11,900] I mean, you got Rich Dad Poor Dad that's big.
+- [00:07:12,100 - 00:07:13,220] You got Go for No.
+- [00:07:13,220 - 00:07:14,900] That's one of my favorite ones, too.
+- [00:07:14,900 - 00:07:16,300] Just because it's fun. It's easy.
+- [00:07:16,300 - 00:07:18,500] That's the biggest things for me is really just learning.
+- [00:07:18,500 - 00:07:20,300] You learn who you are, who you want to be.
+- [00:07:20,500 - 00:07:22,660] Validate some things for yourself of why you
+- [00:07:22,660 - 00:07:24,820] are the way you are, why you think
+- [00:07:24,820 - 00:07:25,940] the way you do.
+- [00:07:26,140 - 00:07:28,000] As a business owner, what has
+- [00:07:28,000 - 00:07:29,860] been the biggest challenge that you faced
+- [00:07:30,060 - 00:07:31,400] throughout your time owning a business
+- [00:07:31,400 - 00:07:32,740] and how did you overcome it?
+- [00:07:32,940 - 00:07:34,900] I think one of the biggest challenges
+- [00:07:34,900 - 00:07:36,860] is learning how to be a business owner.
+- [00:07:37,060 - 00:07:37,460] Right.
+- [00:07:37,659 - 00:07:41,140] Meaning understanding what it takes to be consistent,
+- [00:07:41,340 - 00:07:43,980] learning what it takes to be
+- [00:07:44,180 - 00:07:46,860] to try to make things where it works for you.
+- [00:07:47,060 - 00:07:48,100] Knowing that you can have
+- [00:07:48,100 - 00:07:49,140] ups and downs, ups and downs.
+- [00:07:49,140 - 00:07:50,460] I mean, that's just what you're going to have.
+- [00:07:50,460 - 00:07:51,620] I don't care what business you're in.
+- [00:07:51,620 - 00:07:54,700] That's what you're going to have. And learning to budget.
+- [00:07:55,020 - 00:07:57,060] Right. Put your money in certain places.
+- [00:07:57,060 - 00:07:58,040] When to do this, when
+- [00:07:58,040 - 00:07:59,020] to do that, how to grow.
+- [00:07:59,219 - 00:08:01,219] And I learned from all the mistakes.
+- [00:08:01,420 - 00:08:03,260] Right. So if you learn from your mistakes,
+- [00:08:03,460 - 00:08:04,500] I believe that's one of
+- [00:08:04,500 - 00:08:05,540] the biggest things you can do.
+- [00:08:05,740 - 00:08:08,440] Learn to that you're going to make
+- [00:08:08,440 - 00:08:11,140] some mistakes and not be scared and overanalyze.
+- [00:08:11,340 - 00:08:12,700] Right. Because I'm analytical.
+- [00:08:12,900 - 00:08:13,539] The next guy.
+- [00:08:13,740 - 00:08:15,840] But a lot of times people
+- [00:08:15,840 - 00:08:17,940] overanalyze situations and then they don't move.
+- [00:08:18,140 - 00:08:18,780] Right.
+- [00:08:18,980 - 00:08:20,740] It's paralysis by analysis is what
+- [00:08:20,740 - 00:08:22,500] a lot of people call it.
+- [00:08:22,500 - 00:08:23,940] What has been the worst financial
+- [00:08:23,940 - 00:08:24,740] decision that you've ever made?
+- [00:08:24,940 - 00:08:26,440] I look at decisions and
+- [00:08:26,440 - 00:08:27,940] things that don't go your way.
+- [00:08:28,140 - 00:08:29,140] Not really as a negative.
+- [00:08:29,340 - 00:08:32,500] It's kind of like playing a game, playing sports.
+- [00:08:32,700 - 00:08:34,020] You don't necessarily lose.
+- [00:08:34,220 - 00:08:36,139] You learn. So I believe that
+- [00:08:36,139 - 00:08:38,059] things I've done in the past financially.
+- [00:08:38,260 - 00:08:40,820] One of the things that I've done
+- [00:08:40,820 - 00:08:43,380] financially, I've always wanted a 750 BMW
+- [00:08:43,380 - 00:08:45,380] ever since I grew up in Germany mainly.
+- [00:08:45,580 - 00:08:46,980] So I've always wanted a 750.
+- [00:08:47,180 - 00:08:48,939] I had opportunity to own two of them.
+- [00:08:49,140 - 00:08:50,460] Neither one of them.
+- [00:08:50,460 - 00:08:52,639] And I remember a mechanic that was here
+- [00:08:52,639 - 00:08:54,819] in Austin, kind of by the domain before.
+- [00:08:55,020 - 00:08:56,480] The domain was even there, told me that if
+- [00:08:56,480 - 00:08:57,940] I buy one of those, me and him would be
+- [00:08:58,140 - 00:09:00,980] good friends because he knew I'd see him a lot.
+- [00:09:01,180 - 00:09:03,220] But so that was something I
+- [00:09:03,220 - 00:09:05,260] did that I probably shouldn't have done.
+- [00:09:05,460 - 00:09:07,300] But I'm glad I did it.
+- [00:09:07,300 - 00:09:08,660] But I should have done it differently
+- [00:09:08,860 - 00:09:11,300] with a maintenance plan and just did it better.
+- [00:09:11,300 - 00:09:12,900] So it wasn't a horrible decision.
+- [00:09:12,940 - 00:09:14,560] How do you incorporate the work
+- [00:09:14,560 - 00:09:16,180] life balance into your everyday life?
+- [00:09:16,380 - 00:09:18,560] The only thing different between people
+- [00:09:18,560 - 00:09:20,740] that are successful and not successful is
+- [00:09:20,740 - 00:09:22,100] the ability to handle things because
+- [00:09:22,100 - 00:09:23,460] of how they look at it.
+- [00:09:23,660 - 00:09:24,820] So when people I love when.
+- [00:09:25,020 - 00:09:26,260] People tell me, oh, I don't have time.
+- [00:09:26,460 - 00:09:28,140] I don't have time. I don't have time.
+- [00:09:28,340 - 00:09:30,120] I always think I said we
+- [00:09:30,120 - 00:09:31,900] have this guy who runs Amazon.
+- [00:09:31,900 - 00:09:33,140] I wonder what kind of how
+- [00:09:33,140 - 00:09:34,380] much time in the day he has.
+- [00:09:34,580 - 00:09:36,200] So the amount of things he's able to
+- [00:09:36,200 - 00:09:37,820] accomplish in the same amount of time that
+- [00:09:38,020 - 00:09:39,500] me and you have.
+- [00:09:39,940 - 00:09:41,140] Why do we not have time?
+- [00:09:41,340 - 00:09:43,860] He has time because he's smarter with his time.
+- [00:09:44,060 - 00:09:46,160] He puts people around him that's able to help
+- [00:09:46,160 - 00:09:48,260] him do more in a shorter period of time.
+- [00:09:48,460 - 00:09:49,620] They say if you want
+- [00:09:49,620 - 00:09:50,780] to go somewhere fast, go alone.
+- [00:09:50,980 - 00:09:53,460] If you want to go somewhere for a long time.
+- [00:09:53,660 - 00:09:54,620] For someone who's been
+- [00:09:54,820 - 00:09:56,860] very successful financially, do you
+- [00:09:56,860 - 00:09:58,900] personally think money buys happiness?
+- [00:09:59,100 - 00:10:00,060] It can buy freedom if you
+- [00:10:00,060 - 00:10:01,020] know what to do with it.
+- [00:10:01,180 - 00:10:02,160] Right. If you know how
+- [00:10:02,160 - 00:10:03,140] to handle it, if you learn,
+- [00:10:03,140 - 00:10:04,720] if you grow, if you learn how to
+- [00:10:04,720 - 00:10:06,300] how to do the right things with your money,
+- [00:10:06,500 - 00:10:08,960] it's a good chance that you can
+- [00:10:08,960 - 00:10:11,420] be happy, but not everybody that's happy is
+- [00:10:11,620 - 00:10:13,700] are successful. So it's just I don't know.
+- [00:10:13,900 - 00:10:15,700] It's that's a good question. Right.
+- [00:10:15,700 - 00:10:17,160] But I think each individual has
+- [00:10:17,160 - 00:10:18,620] to answer that question for themselves.
+- [00:10:18,820 - 00:10:20,460] What buys happiness? Right.
+- [00:10:20,460 - 00:10:21,780] I mean, that's the first thing everyone says.
+- [00:10:21,980 - 00:10:24,020] Oh, I had a million dollars. I'll be happy.
+- [00:10:24,140 - 00:10:24,740] Right.
+- [00:10:24,940 - 00:10:27,300] Well, I mean, if you can't manage a thousand dollars,
+- [00:10:27,500 - 00:10:30,060] then you can't manage a million dollars. Right.
+- [00:10:30,260 - 00:10:32,660] So learn to manage that thousand that you have.
+- [00:10:32,860 - 00:10:36,300] Episode one of asking 10 questions to millionaires.
+- [00:10:36,500 - 00:10:39,140] We just finished up here, downtown Austin with Lavon Perrin.
+- [00:10:39,340 - 00:10:41,700] Lavon, thank you so much again for your time.
+- [00:10:41,900 - 00:10:42,820] Appreciate you having us.
+- [00:10:42,820 - 00:10:43,780] Thanks for the hospitality.
+- [00:10:43,980 - 00:10:45,920] Allowed us to come up in a
+- [00:10:45,920 - 00:10:47,860] like we said, podcast coming soon with Lavon.
+- [00:10:48,060 - 00:10:49,660] Lots of great new content on the way.
+- [00:10:49,860 - 00:10:51,440] So we just can't wait to
+- [00:10:51,440 - 00:10:53,020] get after it and keep things rolling.
+- [00:10:53,020 - 00:10:54,020] And like and subscribe.
+- [00:10:54,020 - 00:10:54,780] School of Hard Knocks.
+- [00:10:54,940 - 00:10:56,900] Give us a follow on everything. We appreciate you.
+- [00:10:56,900 - 00:10:57,580] All right. Take care.
