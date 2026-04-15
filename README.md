@@ -40,7 +40,7 @@ The public language layer still includes **Lazy Money**, **Lazy Earn**, and **Ea
 The completed Yale `Financial Markets` notes are now published from a repo-root shelf:
 
 - [Publication shelf](yale-financial-markets-publication/README.md)
-- [Full course PDF](yale-financial-markets-publication/full-course.pdf)
+- [Full course PDF](yale-financial-markets-publication/yale-financial-markets.pdf)
 - [Website viewer](https://earn.lazying.art/pdf-viewer.html#yale-financial-markets-notes)
 
 This publication contains a root-level cover, one full-course PDF, and one PDF per lecture for Robert J. Shiller's full Yale sequence.

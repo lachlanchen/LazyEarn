@@ -8,13 +8,13 @@ This folder exists at the repo root on purpose. It is the direct publication sur
 
 ## What is here
 
-- [full-course.pdf](full-course.pdf): the complete course book in one file
+- [yale-financial-markets.pdf](yale-financial-markets.pdf): the complete course book in one file
 - [lecture_01.pdf](lecture_01.pdf) to [lecture_23.pdf](lecture_23.pdf): one PDF per lecture
 - [cover-art.png](cover-art.png): the current publication cover art
 
 ## Quick links
 
-- [Full course PDF](full-course.pdf)
+- [Full course PDF](yale-financial-markets.pdf)
 - [Generated source tree](../generated_course_notes/lazyearn/yale-financial-markets/)
 - [Website viewer](https://earn.lazying.art/pdf-viewer.html#yale-financial-markets-notes)
 

@@ -251,8 +251,8 @@ const pdfEntries = {
     title: "Yale Financial Markets notes",
     description:
       "A published course edition of Robert J. Shiller's Yale lecture sequence with a new cover, one full-course PDF, and one lecture PDF per session.",
-    pdf: "publications/yale-financial-markets/full-course.pdf",
-    download: "publications/yale-financial-markets/full-course.pdf",
+    pdf: "publications/yale-financial-markets/yale-financial-markets.pdf",
+    download: "publications/yale-financial-markets/yale-financial-markets.pdf",
     markdown:
       "https://github.com/lachlanchen/LazyEarn/blob/main/yale-financial-markets-publication/README.md",
     publication:
