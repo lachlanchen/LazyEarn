@@ -1,0 +1,582 @@
+# Transcript
+
+Source: lazyearn/jim-rohn-originals-no-ai/001 - Diseases of Attitude - Jim Rohn [0sG31mTbHJU].webm
+
+- [00:00:00,960 - 00:00:02,880] The diseases of attitude.
+- [00:00:07,680 - 00:00:09,600] It's never that pleasant to talk about the
+- [00:00:09,600 - 00:00:11,520] negative, but we got to talk about it because
+- [00:00:11,520 - 00:00:14,720] life is part negative. These attitude diseases are like
+- [00:00:14,720 - 00:00:17,920] weeds that grow in the garden. It's a normal
+- [00:00:17,920 - 00:00:21,360] part of life. Here's a good phrase to note.
+- [00:00:21,360 - 00:00:24,800] Negative is normal. It's not successful, but it's normal.
+- [00:00:24,800 - 00:00:29,080] It's part of life. And here's the next key,
+- [00:00:29,080 - 00:00:33,360] in my opinion. You must learn to handle the negative.
+- [00:00:33,920 - 00:00:37,240] Don't ignore it. Handle it. Now, I
+- [00:00:37,240 - 00:00:40,560] know some people teach the other way.
+- [00:00:42,480 - 00:00:45,800] And listen to them and listen to me and then
+- [00:00:45,800 - 00:00:49,120] make up your own mind, right? Don't be a follower.
+- [00:00:50,000 - 00:00:52,400] Be a student. But I say
+- [00:00:52,400 - 00:00:54,800] you got to handle the negative.
+- [00:00:54,800 - 00:00:58,800] You don't have to live in it. You don't have to
+- [00:00:58,800 - 00:01:02,800] dwell on it, but you do have to handle it, my opinion.
+- [00:01:02,800 - 00:01:05,440] I know some people teach, just
+- [00:01:05,440 - 00:01:08,080] turn your head real quick and say,
+- [00:01:08,080 - 00:01:09,680] there's no weeds, there's no weeds,
+- [00:01:09,680 - 00:01:11,280] there's no weeds. They'll take your garden.
+- [00:01:16,320 - 00:01:18,479] So you've got to handle the negative.
+- [00:01:19,840 - 00:01:21,320] Here's what part of it is. It's
+- [00:01:21,320 - 00:01:22,800] called the great war between good and evil.
+- [00:01:22,800 - 00:01:25,480] Mr. Reynolds and I are working on a new book
+- [00:01:25,480 - 00:01:28,160] this year called The Great War Between Good and Evil.
+- [00:01:29,520 - 00:01:31,520] And there is a war on. The minute
+- [00:01:31,520 - 00:01:33,520] you were born, you got involved in the war
+- [00:01:33,520 - 00:01:35,560] between good and evil, between darkness
+- [00:01:35,560 - 00:01:37,600] and light, between negative and positive,
+- [00:01:37,600 - 00:01:42,160] between evil and good, between tyranny and democracy,
+- [00:01:42,160 - 00:01:43,640] between weeds and human activity.
+- [00:01:43,640 - 00:01:45,120] I mean, the war is on.
+- [00:01:50,080 - 00:01:52,320] If democracy sleeps, guess who never sleeps?
+- [00:01:52,800 - 00:01:53,440] Tyranny.
+- [00:01:55,679 - 00:01:58,640] In the absence of light, guess what's automatic? Darkness.
+- [00:02:00,640 - 00:02:03,240] If good does not arouse itself and
+- [00:02:03,240 - 00:02:05,840] become active, guess what moves in? Evil.
+- [00:02:07,679 - 00:02:11,559] It's a war, a mental war, a physical
+- [00:02:11,559 - 00:02:15,440] war, a financial war between enterprise and ease,
+- [00:02:15,440 - 00:02:18,480] between accomplishment and failure. It's a war.
+- [00:02:21,200 - 00:02:22,640] That's why there's an Old Testament
+- [00:02:22,640 - 00:02:24,519] phrase that gives the best advice
+- [00:02:24,519 - 00:02:26,399] for human activity when it says,
+- [00:02:26,399 - 00:02:29,839] six days labor, one day rest.
+- [00:02:33,600 - 00:02:35,199] Now, I'm sure we've taken that
+- [00:02:35,199 - 00:02:36,799] to mean don't work all seven days,
+- [00:02:37,359 - 00:02:39,959] take one off. Here's what it
+- [00:02:39,959 - 00:02:42,560] also means, only take one off.
+- [00:02:46,399 - 00:02:49,279] Or you're liable to lose the war.
+- [00:02:49,279 - 00:02:49,799] Now, we've taken that to mean don't
+- [00:02:49,799 - 00:02:50,320] work all seven days, take one off.
+- [00:02:50,320 - 00:02:50,720] Take one off.
+- [00:02:50,720 - 00:02:51,279] Take one off.
+- [00:02:51,279 - 00:02:51,600] Take one off.
+- [00:02:51,600 - 00:02:52,079] Take one off.
+- [00:02:52,079 - 00:02:52,480] Take one off.
+- [00:02:52,480 - 00:02:52,560] Take one off.
+- [00:02:52,560 - 00:02:52,640] Take one off. Take one off.
+- [00:02:52,640 - 00:02:53,040] Take one off. Take one off.
+- [00:02:53,040 - 00:02:54,160] If you got it down to five and two
+- [00:02:54,880 - 00:02:57,279] and maybe that's not too dangerous, I don't know.
+- [00:02:59,279 - 00:03:00,319] If God would have thought of five
+- [00:03:00,319 - 00:03:01,359] and two he might have made it five
+- [00:03:01,359 - 00:03:03,119] and two. I don't know. You can't think of everything.
+- [00:03:05,200 - 00:03:06,640] But here's what it does mean.
+- [00:03:06,640 - 00:03:08,799] Enterprise is better than ease.
+- [00:03:08,799 - 00:03:12,239] If you rest too long, the jungle overtakes the village.
+- [00:03:13,760 - 00:03:15,120] Now here's the good news about
+- [00:03:15,120 - 00:03:16,480] the war between good and evil.
+- [00:03:16,480 - 00:03:18,000] Evil is no match for good.
+- [00:03:18,640 - 00:03:19,679] But good must be active.
+- [00:03:21,600 - 00:03:22,359] Weeds are no match for human activity.
+- [00:03:22,360 - 00:03:26,640] for human activity. But if you stand still, how
+- [00:03:26,640 - 00:03:30,920] far in will they come? All the way. They'll grow
+- [00:03:30,920 - 00:03:35,660] right up around your shoes. But if you get busy, how
+- [00:03:35,660 - 00:03:40,400] far back can you take them? As far as you wish.
+- [00:03:41,680 - 00:03:43,500] They're no match, but you must be
+- [00:03:43,500 - 00:03:45,320] active. That's why the six and one,
+- [00:03:45,320 - 00:03:49,180] make sure you're not losing the war by taking
+- [00:03:49,180 - 00:03:53,040] off too much. Guess what the average years are
+- [00:03:53,040 - 00:04:01,540] after retirement? Six. Six. Which means
+- [00:04:01,540 - 00:04:10,040] don't retire. Your chances are too slim.
+- [00:04:13,820 - 00:04:14,340] Okay.
+- [00:04:15,320 - 00:04:18,279] The war between good and evil, the weeds.
+- [00:04:18,279 - 00:04:21,240] You got to make sure you recognize the negative,
+- [00:04:21,480 - 00:04:24,410] handle it, deal with it, and then go on.
+- [00:04:24,410 - 00:04:27,340] Let's make a list of the diseases of attitude that
+- [00:04:27,340 - 00:04:30,060] can wreck all your chances to do well. One
+- [00:04:30,060 - 00:04:32,780] of the words that destroys everything is called neglect.
+- [00:04:34,900 - 00:04:38,300] Neglect. And I found this out. A week
+- [00:04:38,300 - 00:04:41,700] of neglect could cost you a year of repair.
+- [00:04:42,200 - 00:04:43,620] It isn't worth it.
+- [00:04:44,719 - 00:04:45,159] So,
+- [00:04:45,320 - 00:04:47,480] what to be on the lookout for? Here's the list. If
+- [00:04:47,480 - 00:04:49,640] you were making it, you'd have the same list I've got.
+- [00:04:51,020 - 00:04:53,640] Right? We're not covering anything new tonight. This
+- [00:04:53,640 - 00:04:56,260] is a reminding session, not a teaching session.
+- [00:04:56,640 - 00:04:59,480] But it doesn't hurt to go over it again.
+- [00:04:59,480 - 00:05:02,320] Here's the list. Attitude diseases. Number one is indifference.
+- [00:05:03,400 - 00:05:05,469] The shrug of the shoulder. The
+- [00:05:05,469 - 00:05:07,539] guy's not even concerned. He's just drifting.
+- [00:05:09,440 - 00:05:11,640] This is called the mild approach to life.
+- [00:05:14,480 - 00:05:15,240] A disease.
+- [00:05:15,320 - 00:05:16,640] Known as mildness.
+- [00:05:21,700 - 00:05:23,800] The guy says, well, I can't
+- [00:05:23,800 - 00:05:25,900] see getting all that worked up. Well,
+- [00:05:27,700 - 00:05:29,170] to be any kind of winner,
+- [00:05:29,170 - 00:05:30,640] you got to get worked up.
+- [00:05:31,719 - 00:05:33,579] There's one problem with drift. You cannot
+- [00:05:33,579 - 00:05:35,440] drift to the top of the mountain.
+- [00:05:38,920 - 00:05:41,700] And the good Lord said in the closing chapters of the Bible,
+- [00:05:41,700 - 00:05:44,480] here's the best way to live one way or the other. That's best.
+- [00:05:44,480 - 00:05:45,080] Hot?
+- [00:05:45,080 - 00:05:45,740] Or what's next best?
+- [00:05:46,780 - 00:05:48,380] Cold is next best to hot.
+- [00:05:49,960 - 00:05:52,240] Not the half-baked middle, lukewarm, not too hot,
+- [00:05:52,240 - 00:05:54,520] not too cold. What a sad way to live.
+- [00:05:55,539 - 00:05:57,229] I think what it means is pick
+- [00:05:57,229 - 00:05:58,919] a direction and go with everything you got.
+- [00:05:59,659 - 00:06:01,180] Just pick one and go.
+- [00:06:02,919 - 00:06:04,659] Somebody says, yeah, but what if it's the wrong direction?
+- [00:06:04,820 - 00:06:06,159] You'll find out quicker.
+- [00:06:09,880 - 00:06:12,000] It won't take you 25 years to wake up
+- [00:06:12,000 - 00:06:14,120] and say, oh, no, I've been walking the wrong road.
+- [00:06:15,080 - 00:06:17,910] I told my staff the other
+- [00:06:17,910 - 00:06:20,740] day, next best to prosperity is adversity.
+- [00:06:22,000 - 00:06:24,380] If one doesn't get you, pray for the other.
+- [00:06:25,520 - 00:06:27,820] We all do better from one
+- [00:06:27,820 - 00:06:30,120] of two reasons, inspiration or desperation.
+- [00:06:33,680 - 00:06:36,419] And I don't wish anything bad on you tonight, but if
+- [00:06:36,419 - 00:06:39,159] you're not inspired, I hope a wagon comes down your rut.
+- [00:06:53,080 - 00:06:54,580] Somebody asked me one time, what quality would
+- [00:06:54,580 - 00:06:56,080] I pick if I wanted to work with somebody?
+- [00:06:56,740 - 00:06:58,530] And you know what I
+- [00:06:58,530 - 00:07:00,320] picked first, number one, strong feeling.
+- [00:07:02,200 - 00:07:05,500] Please, number one, give me somebody that feels strong.
+- [00:07:05,920 - 00:07:08,560] About most anything, I don't even care.
+- [00:07:08,800 - 00:07:10,120] Just so they believe it.
+- [00:07:12,240 - 00:07:13,660] Even if they disagree with me.
+- [00:07:14,160 - 00:07:17,000] Wonderful. Just so they disagree vigorously.
+- [00:07:20,620 - 00:07:21,970] I'm not saying it's easy to win those
+- [00:07:21,970 - 00:07:23,320] kind of people to your point of view,
+- [00:07:23,400 - 00:07:25,020] but I'd rather do that than to
+- [00:07:25,020 - 00:07:26,640] try to resurrect people from the dead.
+- [00:07:26,800 - 00:07:28,120] Pump them up every month.
+- [00:07:28,120 - 00:07:29,440] Pump them up. Pump them up.
+- [00:07:31,460 - 00:07:32,860] I pass.
+- [00:07:37,360 - 00:07:39,580] The good Lord needs a leader for the early Christians.
+- [00:07:39,840 - 00:07:41,020] Remember the early days of the Christians?
+- [00:07:41,260 - 00:07:42,400] Not like today.
+- [00:07:42,400 - 00:07:43,539] If you were to stand up
+- [00:07:43,539 - 00:07:44,679] in the early days and say,
+- [00:07:44,919 - 00:07:47,099] I'm a Christian, cut off your head.
+- [00:07:47,520 - 00:07:49,320] Toss you and your wife in jail, let you rot.
+- [00:07:49,440 - 00:07:50,560] I mean, those were ugly days.
+- [00:07:52,380 - 00:07:53,920] Being a Christian back then
+- [00:07:53,920 - 00:07:55,460] was not called socially acceptable.
+- [00:07:57,900 - 00:08:02,560] They didn't have 125,000 in the Los Angeles Coliseum
+- [00:08:02,560 - 00:08:05,200] to hear Billy Graham on a Sunday afternoon.
+- [00:08:05,820 - 00:08:06,820] Not back in those days.
+- [00:08:07,460 - 00:08:08,569] Back in those days when
+- [00:08:08,569 - 00:08:09,679] the Christians got in the Coliseum,
+- [00:08:09,719 - 00:08:11,099] it was a different story, right?
+- [00:08:11,599 - 00:08:12,380] I mean, the world was a different story.
+- [00:08:12,400 - 00:08:14,300] The word was, stay out of the Coliseum,
+- [00:08:14,540 - 00:08:16,560] especially on Sunday.
+- [00:08:17,600 - 00:08:20,000] Last Sunday was Lions 33, Christians nothing.
+- [00:08:22,880 - 00:08:24,250] See, those were mean, tough,
+- [00:08:24,250 - 00:08:25,620] struggle days for the Christians.
+- [00:08:25,880 - 00:08:27,840] Now, when the days are mean and tough and struggling,
+- [00:08:28,100 - 00:08:29,680] you've got to have some kind of leader.
+- [00:08:30,200 - 00:08:31,010] Do you know who the
+- [00:08:31,010 - 00:08:31,820] good Lord picked for the leader
+- [00:08:31,820 - 00:08:33,240] when the days were mean and ugly?
+- [00:08:35,780 - 00:08:39,400] Saul from Tarsus.
+- [00:08:40,700 - 00:08:41,520] That's who he picked.
+- [00:08:41,520 - 00:08:42,320] Saul.
+- [00:08:42,380 - 00:08:44,860] I'll tell you what.
+- [00:08:45,280 - 00:08:46,100] I would have picked him.
+- [00:08:46,900 - 00:08:47,939] You would have picked him.
+- [00:08:48,160 - 00:08:49,360] Anybody would have picked Saul.
+- [00:08:49,840 - 00:08:51,680] Saul was one of those incredible guys.
+- [00:08:52,000 - 00:08:53,980] Once he got into something, look out.
+- [00:08:55,040 - 00:08:58,220] Everybody in the community knew what Saul was in.
+- [00:08:59,020 - 00:09:00,780] Because whatever he joined, he'd flip all the switches,
+- [00:09:00,900 - 00:09:01,919] open up all the dials, turn on
+- [00:09:01,919 - 00:09:02,939] all the faucets, and go like mad.
+- [00:09:03,160 - 00:09:04,939] He was known as All Out Saul.
+- [00:09:05,180 - 00:09:07,500] I mean, he was something else.
+- [00:09:08,060 - 00:09:10,560] Now, at first, it wasn't working out well.
+- [00:09:11,200 - 00:09:12,360] Saul hated Christians.
+- [00:09:12,680 - 00:09:14,480] Which makes a poor leader, right?
+- [00:09:14,480 - 00:09:15,480] I mean, that won't work.
+- [00:09:18,060 - 00:09:20,260] Saul got this bug somewhere about the Christians.
+- [00:09:20,260 - 00:09:21,880] He got to hatin' Christians.
+- [00:09:21,880 - 00:09:23,550] And he hated them so bad,
+- [00:09:23,550 - 00:09:25,220] every time somebody would say Christian,
+- [00:09:25,220 - 00:09:27,220] he'd fly into a rage.
+- [00:09:28,600 - 00:09:31,260] And I guess he decided one life, or one day,
+- [00:09:31,260 - 00:09:32,380] it was his mission in life
+- [00:09:32,380 - 00:09:33,500] to get rid of all the Christians.
+- [00:09:34,500 - 00:09:35,700] He was Saul anyhow.
+- [00:09:35,700 - 00:09:37,140] Could do most anything he wanted to.
+- [00:09:38,800 - 00:09:40,600] So he got in these letters of authority
+- [00:09:41,240 - 00:09:42,280] to go around to the very streets,
+- [00:09:42,280 - 00:09:44,079] communities, and hunt down the Christians.
+- [00:09:44,079 - 00:09:45,480] They said, do whatever you want to with them, Saul.
+- [00:09:45,480 - 00:09:46,920] They're unpopular anyhow.
+- [00:09:46,920 - 00:09:48,620] Drag them in the streets, whip them, stone them,
+- [00:09:48,620 - 00:09:50,160] torture them, kill them.
+- [00:09:50,160 - 00:09:52,459] You mention the name Saul from Tarsus
+- [00:09:52,459 - 00:09:53,709] to the early Christians, I'll
+- [00:09:53,709 - 00:09:54,959] tell you what they would do.
+- [00:09:54,959 - 00:09:57,560] They would run, hide, lock the doors, leave town,
+- [00:09:57,560 - 00:09:58,660] dive underground.
+- [00:09:58,660 - 00:10:02,640] I've been in the catacombs of Rome where they hid.
+- [00:10:02,640 - 00:10:03,839] He was mean.
+- [00:10:03,839 - 00:10:05,000] I mean, terribly mean.
+- [00:10:06,040 - 00:10:07,600] But remember the story?
+- [00:10:07,600 - 00:10:09,380] One day, Saul's makin' it for Damascus.
+- [00:10:09,380 - 00:10:11,100] Heard about some new Christians, flies into a rage,
+- [00:10:11,100 - 00:10:12,280] takes off for Damascus.
+- [00:10:12,280 - 00:10:14,480] And the story is that he was angry.
+- [00:10:14,480 - 00:10:16,180] There's a little sentence in the story that says,
+- [00:10:16,180 - 00:10:17,880] on his way to Damascus,
+- [00:10:17,880 - 00:10:21,020] he was breathing out threatenings and slaughter,
+- [00:10:21,020 - 00:10:24,060] which meant he felt rather strong about the idea, right?
+- [00:10:25,000 - 00:10:26,600] That's strong, that's strong.
+- [00:10:28,760 - 00:10:31,600] But on this journey, right, according to the story,
+- [00:10:31,600 - 00:10:33,699] as Saul was making his way to Damascus,
+- [00:10:33,699 - 00:10:35,500] the good Lord looks down out of heaven and says,
+- [00:10:35,500 - 00:10:38,579] there's my man, Saul.
+- [00:10:38,579 - 00:10:40,740] He's got to be something else.
+- [00:10:42,280 - 00:10:43,400] And according to the story, this
+- [00:10:43,400 - 00:10:44,520] great light shines out of heaven,
+- [00:10:44,520 - 00:10:46,920] knocks him flat,
+- [00:10:46,920 - 00:10:49,620] right off his horse, grinds his face in the dirt,
+- [00:10:49,620 - 00:10:53,000] and blinds him for three days.
+- [00:10:53,000 - 00:10:55,300] The good Lord using recruiting tools we can't use.
+- [00:10:55,300 - 00:10:58,699] But...
+- [00:10:58,699 - 00:11:00,260] When you're Lord, right?
+- [00:11:03,459 - 00:11:04,660] To make a long story short,
+- [00:11:04,660 - 00:11:09,000] Saul from Tarsus becomes converted to Christianity.
+- [00:11:09,000 - 00:11:10,280] He becomes Paul,
+- [00:11:10,280 - 00:11:12,280] the great king of the world.
+- [00:11:12,280 - 00:11:14,780] And he becomes the great leader, the apostle.
+- [00:11:14,780 - 00:11:16,679] And without a doubt, the
+- [00:11:16,679 - 00:11:18,579] good Lord got him a dandy.
+- [00:11:18,579 - 00:11:22,720] One he didn't have to pump up every month.
+- [00:11:26,720 - 00:11:28,199] In one of his later writings he said,
+- [00:11:28,199 - 00:11:30,100] the things I once hated I now love.
+- [00:11:30,100 - 00:11:33,860] The things I once loved, I now hate.
+- [00:11:33,860 - 00:11:37,579] See, that's strong.
+- [00:11:37,579 - 00:11:39,100] Here's the key to the good life.
+- [00:11:39,100 - 00:11:41,579] Learn to put everything you've got into everything you have.
+- [00:11:41,579 - 00:11:41,939] Learn to put everything you've got into everything you have.
+- [00:11:41,940 - 00:11:46,310] thing you do. Whatever you are doing, pour it
+- [00:11:46,310 - 00:11:50,680] on. It will quickly open up into opportunity or
+- [00:11:50,680 - 00:11:53,610] quickly disclose to you that you ought to be doing
+- [00:11:53,610 - 00:11:56,540] something else. The delusion is, if I had a better
+- [00:11:56,540 - 00:12:01,150] job, I'd really pour it on. See, that's delusion.
+- [00:12:01,150 - 00:12:05,760] Wherever you are, pour it on. Don't give somebody
+- [00:12:05,760 - 00:12:09,590] half a job for a day's pay. Pour it on.
+- [00:12:09,590 - 00:12:13,420] See, that'll help change your life. Get rid of this disease.
+- [00:12:14,460 - 00:12:18,130] Here's the next attitude disease, indecision. Mental
+- [00:12:18,130 - 00:12:21,800] paralysis. The guy can't make up his mind
+- [00:12:21,800 - 00:12:24,800] and it becomes a disease. Pretty soon he knows he's got
+- [00:12:24,800 - 00:12:27,800] it. The guy says, well, I know I'm on the fence.
+- [00:12:29,060 - 00:12:31,220] But he says, what if I get off on the
+- [00:12:31,220 - 00:12:33,380] wrong side? Listen, after a while it doesn't matter. Just get
+- [00:12:33,380 - 00:12:34,080] off.
+- [00:12:35,760 - 00:12:39,450] Any side will do. A life full of adventure is a
+- [00:12:39,450 - 00:12:43,140] life full of many decisions. The ones that turn out to be
+- [00:12:43,140 - 00:12:45,360] wrong give you better experience to make better
+- [00:12:45,360 - 00:12:47,580] decisions. So don't see how many decisions you can
+- [00:12:47,580 - 00:12:50,449] get out of. See how many you can get into.
+- [00:12:50,449 - 00:12:53,319] That's where the adventure is. So shake off this disease,
+- [00:12:53,439 - 00:12:58,179] indecision. The next one is doubt. Doubt's like
+- [00:12:58,179 - 00:13:02,920] a plague. And one of the worst is self-doubt.
+- [00:13:03,260 - 00:13:05,200] There are many, but that's one of the worst.
+- [00:13:05,760 - 00:13:09,750] The guy doubts himself. Doubts if it'll last that long for him. Doubts if he can
+- [00:13:09,750 - 00:13:13,740] do that well. Doubts if he can make that much. Doubts if he can accomplish all that.
+- [00:13:14,060 - 00:13:16,480] A chronic excellent self-doubter. You can imagine
+- [00:13:16,480 - 00:13:18,900] what damage that does to your future.
+- [00:13:20,000 - 00:13:22,140] So here's the key. Turn this
+- [00:13:22,140 - 00:13:24,280] coin over and become a believer.
+- [00:13:26,140 - 00:13:27,940] And there's many things to believe
+- [00:13:27,940 - 00:13:29,740] in. One of the majors is yourself.
+- [00:13:31,280 - 00:13:32,960] The understanding of self-worth
+- [00:13:32,960 - 00:13:34,640] is the beginning of progress.
+- [00:13:36,140 - 00:13:55,439] READ THE SIGNAL NOW
+- [00:13:55,439 - 00:13:57,540] Jurassic herself in the water
+- [00:13:57,540 - 00:13:58,980] Could reduce you to begging.
+- [00:14:00,699 - 00:14:02,140] I know how bad this one is.
+- [00:14:02,180 - 00:14:03,260] I used to have it bad.
+- [00:14:04,380 - 00:14:06,880] I used to be known as a super worrier.
+- [00:14:08,880 - 00:14:10,120] Not a super warrior.
+- [00:14:10,540 - 00:14:11,740] No super worrier.
+- [00:14:12,140 - 00:14:14,140] My family wished I'd have been a warrior.
+- [00:14:16,719 - 00:14:18,300] I got those years to make up for.
+- [00:14:20,099 - 00:14:21,079] But I tell you what.
+- [00:14:21,900 - 00:14:24,060] My advice to you is do what I finally did.
+- [00:14:24,060 - 00:14:26,740] On worry, give it up.
+- [00:14:27,780 - 00:14:28,680] Who needs it?
+- [00:14:29,760 - 00:14:30,900] I'm not saying it's easy.
+- [00:14:31,380 - 00:14:33,060] I'm saying it's worth it.
+- [00:14:34,360 - 00:14:35,589] It took me almost one
+- [00:14:35,589 - 00:14:36,819] year to kick the worry habit.
+- [00:14:37,020 - 00:14:38,060] And it was not an easy year.
+- [00:14:38,219 - 00:14:39,819] It was one of the toughest years I ever spent.
+- [00:14:39,920 - 00:14:43,520] But I finally got that monkey off my back.
+- [00:14:44,140 - 00:14:45,820] And I discovered you could live
+- [00:14:45,820 - 00:14:47,500] the most incredible life free of worry.
+- [00:14:48,880 - 00:14:49,939] Not free of challenge.
+- [00:14:50,160 - 00:14:50,959] Not free of difficulty.
+- [00:14:51,240 - 00:14:51,780] Free of worry.
+- [00:14:52,319 - 00:14:53,219] I learned how to do it.
+- [00:14:53,219 - 00:14:54,160] And you can.
+- [00:14:55,900 - 00:14:57,480] Here's the next attitude disease.
+- [00:14:57,540 - 00:14:59,540] Over caution.
+- [00:14:59,540 - 00:15:04,540] Some people never will have much.
+- [00:15:04,540 - 00:15:06,540] They're too cautious.
+- [00:15:06,540 - 00:15:10,540] Now you can also be too reckless,
+- [00:15:10,540 - 00:15:14,540] but you can also be too cautious.
+- [00:15:14,540 - 00:15:17,540] This is called the timid approach to life.
+- [00:15:21,540 - 00:15:23,540] And my caution was always the risk.
+- [00:15:23,540 - 00:15:25,540] Risk used to drive me right up the wall.
+- [00:15:25,540 - 00:15:26,540] I was always cautious.
+- [00:15:26,540 - 00:15:27,540] I was always cautious.
+- [00:15:27,540 - 00:15:30,540] I used to say, what if this happens?
+- [00:15:32,040 - 00:15:34,040] It's called the language of the poor.
+- [00:15:34,540 - 00:15:36,040] What if this happens?
+- [00:15:36,040 - 00:15:37,790] And on top of that, if this was
+- [00:15:37,790 - 00:15:39,540] to happen, look at the fix I'd be in.
+- [00:15:39,540 - 00:15:40,540] I better not try.
+- [00:15:42,540 - 00:15:44,540] I could always ace myself out.
+- [00:15:46,040 - 00:15:48,790] Then I'll tell you what changed my whole
+- [00:15:48,790 - 00:15:51,540] life when I finally discovered it's all risky.
+- [00:15:53,540 - 00:15:55,540] The minute you were born, it got risky.
+- [00:15:55,540 - 00:15:58,040] If you think trying is risky, wait till
+- [00:15:58,040 - 00:16:00,540] they hand you the bill for not trying.
+- [00:16:02,540 - 00:16:04,040] If you think investing is risky, wait
+- [00:16:04,040 - 00:16:05,540] till you get the tab for not investing.
+- [00:16:05,540 - 00:16:06,540] See, it's all risky.
+- [00:16:06,540 - 00:16:08,540] Getting married is risky.
+- [00:16:08,540 - 00:16:09,540] Having children is risky.
+- [00:16:09,540 - 00:16:10,540] Going into business is risky.
+- [00:16:10,540 - 00:16:12,540] Investing your money is risky.
+- [00:16:12,540 - 00:16:13,540] It's all risky.
+- [00:16:15,540 - 00:16:16,540] I'll tell you how risky life is.
+- [00:16:16,540 - 00:16:18,540] You're not going to get out alive.
+- [00:16:21,540 - 00:16:22,540] That's risky.
+- [00:16:22,540 - 00:16:23,540] The Englishman said,
+- [00:16:23,540 - 00:16:24,540] I'm not going to get out alive.
+- [00:16:24,540 - 00:16:25,540] The Englishman says,
+- [00:16:25,540 - 00:16:26,540] Well, if that's the way it's going
+- [00:16:26,540 - 00:16:27,540] to work out, let's give it a go.
+- [00:16:27,540 - 00:16:28,540] Right.
+- [00:16:28,540 - 00:16:29,540] That's what it's for.
+- [00:16:29,540 - 00:16:30,540] Give it a go.
+- [00:16:32,540 - 00:16:33,540] Somebody says,
+- [00:16:33,540 - 00:16:35,540] Yeah, but I'm looking for safety and security.
+- [00:16:35,540 - 00:16:37,540] Fine, then huddle in a corner.
+- [00:16:38,540 - 00:16:40,040] We'll cover you with a sheet,
+- [00:16:40,040 - 00:16:41,540] bring you three meals a day.
+- [00:16:41,540 - 00:16:44,040] And we'll protect you, feed you,
+- [00:16:44,040 - 00:16:46,540] look after you, care for you.
+- [00:16:46,540 - 00:16:47,540] We won't let anything happen to you.
+- [00:16:47,540 - 00:16:50,540] And you'll probably live to be 100.
+- [00:16:51,540 - 00:16:52,540] The guy said,
+- [00:16:52,540 - 00:16:53,540] Well, yeah, I'd live to be 100.
+- [00:16:53,540 - 00:16:55,540] But what a way to live.
+- [00:16:55,540 - 00:16:56,540] Right.
+- [00:16:56,540 - 00:16:58,540] What a way to live safe and secure.
+- [00:16:58,540 - 00:17:01,540] Don't ask for security.
+- [00:17:01,540 - 00:17:03,540] Ask for adventure.
+- [00:17:05,540 - 00:17:08,040] Better to live 30 years full of
+- [00:17:08,040 - 00:17:10,540] adventure than 100 years safe in the corner.
+- [00:17:13,540 - 00:17:16,540] And see, it's not important how long you live.
+- [00:17:16,540 - 00:17:19,540] What's important is how you live.
+- [00:17:19,540 - 00:17:22,540] Here's the next attitude disease.
+- [00:17:22,540 - 00:17:24,540] We're almost through with this motley list.
+- [00:17:24,540 - 00:17:25,540] In fact, we're almost through.
+- [00:17:25,540 - 00:17:26,540] Hang on.
+- [00:17:28,540 - 00:17:30,540] The next one is pessimism.
+- [00:17:34,540 - 00:17:38,540] Pessimism, the deadly disease of always looking on the bad side, the problem
+- [00:17:38,540 - 00:17:42,540] side, the difficult side, checking all the reasons why it can't be done.
+- [00:17:42,540 - 00:17:45,540] The poor pessimist leads an ugly life.
+- [00:17:45,540 - 00:17:47,540] The poor pessimist leads an ugly life.
+- [00:17:49,540 - 00:17:51,540] He doesn't try to figure out what's right.
+- [00:17:51,540 - 00:17:53,540] He tries to figure out what's wrong.
+- [00:17:53,540 - 00:17:55,540] He doesn't look for virtue.
+- [00:17:55,540 - 00:17:56,540] He looks for faults.
+- [00:17:56,540 - 00:17:58,540] And when he finds them, he's delighted.
+- [00:17:58,540 - 00:18:00,540] How ugly.
+- [00:18:01,540 - 00:18:03,040] This is the poor guy looks
+- [00:18:03,040 - 00:18:04,540] through the window, doesn't see the sunset.
+- [00:18:04,540 - 00:18:06,540] He sees the specs on the window.
+- [00:18:11,540 - 00:18:13,540] And this is the poor guy, right, who
+- [00:18:13,540 - 00:18:15,540] rushes up, takes such leave of his senses.
+- [00:18:15,540 - 00:18:16,540] This guy rushes up and he says,
+- [00:18:16,540 - 00:18:18,540] I've got five good reasons why it won't work.
+- [00:18:19,540 - 00:18:21,540] He's so dumb, he doesn't know.
+- [00:18:21,540 - 00:18:22,540] All he needs is one.
+- [00:18:22,540 - 00:18:23,540] He's got five.
+- [00:18:30,540 - 00:18:35,540] To the pessimist, the glass is always half empty.
+- [00:18:35,540 - 00:18:39,540] To the optimist, the glass is half full.
+- [00:18:39,540 - 00:18:42,540] Why would the same measure affect people two different ways?
+- [00:18:42,540 - 00:18:43,540] Answer.
+- [00:18:43,540 - 00:18:45,540] It all depends on how you look at it.
+- [00:18:45,540 - 00:18:49,540] Our lives are mostly affected by the way we think.
+- [00:18:49,540 - 00:18:51,540] Think things are.
+- [00:18:51,540 - 00:18:53,540] Not the way they are.
+- [00:18:53,540 - 00:18:57,540] The way we think they are affects us most.
+- [00:19:00,540 - 00:19:03,040] There's a subject we don't have time
+- [00:19:03,040 - 00:19:05,540] to get into tonight called better thinking habits.
+- [00:19:05,540 - 00:19:07,540] One of the major things Shove taught
+- [00:19:07,540 - 00:19:09,540] me when I met him, he said,
+- [00:19:09,540 - 00:19:14,540] Poor thinking habits keeps most people poor.
+- [00:19:14,540 - 00:19:16,540] Not poor working habits.
+- [00:19:16,540 - 00:19:18,540] Most people work hard, but they don't think hard.
+- [00:19:19,540 - 00:19:21,540] And Shove taught me that the mind
+- [00:19:21,540 - 00:19:23,540] is like a factory, a mental factory.
+- [00:19:23,540 - 00:19:26,040] And whatever you think about all day
+- [00:19:26,040 - 00:19:28,540] long pours ingredients into this mental factory.
+- [00:19:28,540 - 00:19:33,040] And that's what builds the economic,
+- [00:19:33,040 - 00:19:37,540] social, financial fabric of your life.
+- [00:19:37,540 - 00:19:40,540] He quoted me a Bible phrase that says,
+- [00:19:40,540 - 00:19:44,540] As you think, so you become.
+- [00:19:44,540 - 00:19:46,540] How awesome.
+- [00:19:46,540 - 00:19:47,540] How awesome.
+- [00:19:47,540 - 00:19:48,540] How awesome.
+- [00:19:48,540 - 00:19:49,540] How awesome.
+- [00:19:49,540 - 00:19:51,540] When he talked about poor thinking habits, he had me.
+- [00:19:51,540 - 00:19:54,540] I used to start the day reading the morning newspaper.
+- [00:19:54,540 - 00:19:57,540] I mean, you can believe that or not.
+- [00:19:57,540 - 00:19:59,540] I'd get a cup of coffee and read the paper.
+- [00:19:59,540 - 00:20:02,540] I'd load up on wars and riots and murders and stabbings
+- [00:20:02,540 - 00:20:05,540] and killings and bank robberies and muggings and car wrecks and tragedies.
+- [00:20:05,540 - 00:20:06,540] I'd even read the back pages.
+- [00:20:06,540 - 00:20:08,540] I seemed to like that stuff for some weird reason.
+- [00:20:08,540 - 00:20:09,540] I'd load up on all that
+- [00:20:09,540 - 00:20:10,540] and then I'd start the day.
+- [00:20:10,540 - 00:20:12,040] You can imagine the kind
+- [00:20:12,040 - 00:20:13,540] of days I used to have.
+- [00:20:13,540 - 00:20:16,540] You walk around on your financial knees.
+- [00:20:16,540 - 00:20:19,540] They call you economic pee-wee.
+- [00:20:26,540 - 00:20:30,540] The guy says, I want to be a great leader.
+- [00:20:30,540 - 00:20:31,540] Wonderful.
+- [00:20:31,540 - 00:20:33,040] The first thing we do
+- [00:20:33,040 - 00:20:34,540] is follow him to his house.
+- [00:20:34,540 - 00:20:38,040] When we get there, we walk
+- [00:20:38,040 - 00:20:41,540] in and check his library, number one.
+- [00:20:41,540 - 00:20:45,540] Somebody says, well, why check his library?
+- [00:20:45,540 - 00:20:50,040] The reason is because what a man
+- [00:20:50,040 - 00:20:54,540] reads pours massive ingredients into his mental factory.
+- [00:20:54,540 - 00:20:56,540] And the fabric of his
+- [00:20:56,540 - 00:20:58,540] life is built from those ingredients.
+- [00:20:58,540 - 00:21:02,040] You would not believe what some people
+- [00:21:02,040 - 00:21:05,540] have got in their house to read.
+- [00:21:05,540 - 00:21:08,540] You would not believe.
+- [00:21:08,540 - 00:21:10,040] One of the best dressed up words I
+- [00:21:10,040 - 00:21:11,540] know for a lot of it is trash.
+- [00:21:11,540 - 00:21:12,540] Can you imagine dumping a barrel
+- [00:21:12,540 - 00:21:13,540] of trash into the trash bin?
+- [00:21:13,540 - 00:21:16,540] Can you imagine dumping a barrel of trash into this mental
+- [00:21:16,540 - 00:21:19,540] factory every day and coming out with a rich, dynamic, positive life?
+- [00:21:19,540 - 00:21:23,540] It can't be done.
+- [00:21:23,540 - 00:21:29,540] You might as well try making a cake with cement.
+- [00:21:29,540 - 00:21:32,540] The kids back in Danbury, Connecticut, high
+- [00:21:32,540 - 00:21:35,540] school, they're asking me questions one day.
+- [00:21:35,540 - 00:21:36,540] I'm talking to the kids.
+- [00:21:36,540 - 00:21:38,540] Kids got good questions these days.
+- [00:21:38,540 - 00:21:40,040] One of them said to me, Mr.
+- [00:21:40,040 - 00:21:41,540] Rohn, how do you build the good life?
+- [00:21:41,540 - 00:21:45,540] I said, it's simple.
+- [00:21:45,540 - 00:21:49,540] It's not easy, but it's simple.
+- [00:21:49,540 - 00:21:51,540] Here's how you build anything.
+- [00:21:51,540 - 00:21:53,540] Select the right ingredients.
+- [00:21:53,540 - 00:21:55,540] Keep out the wrong ingredients.
+- [00:21:55,540 - 00:21:57,540] And it starts with thought.
+- [00:21:57,540 - 00:22:01,540] Everything starts with thought.
+- [00:22:01,540 - 00:22:05,040] So you must be wise and careful
+- [00:22:05,040 - 00:22:08,540] what you think about because that starts everything.
+- [00:22:08,540 - 00:22:09,540] Thank you.
+- [00:22:11,540 - 00:22:15,540] You got to be wise and careful.
+- [00:22:15,540 - 00:22:18,540] I asked the kids, what would happen
+- [00:22:18,540 - 00:22:21,540] if somebody dropped sugar in my coffee?
+- [00:22:21,540 - 00:22:23,540] They said, well, you'd be okay.
+- [00:22:23,540 - 00:22:27,540] I said, what if somebody dropped strychnine in my coffee?
+- [00:22:27,540 - 00:22:30,540] They said, well, you'd be dead.
+- [00:22:30,540 - 00:22:32,540] I said, correct.
+- [00:22:32,540 - 00:22:37,540] Lesson one, life is both sugar and strychnine.
+- [00:22:37,540 - 00:22:39,540] You got to be careful.
+- [00:22:39,540 - 00:22:43,540] You got to be careful.
+- [00:22:43,540 - 00:22:45,040] I said, what if my
+- [00:22:45,040 - 00:22:46,540] worst enemy drops in the sugar?
+- [00:22:46,540 - 00:22:48,540] They said, will you be okay?
+- [00:22:48,540 - 00:22:50,540] I said, what if my best friend,
+- [00:22:50,540 - 00:22:52,540] even by accident, drops in the strychnine?
+- [00:22:52,540 - 00:22:54,540] They said, well, you'd be dead.
+- [00:22:54,540 - 00:22:55,540] I said, correct.
+- [00:22:55,540 - 00:23:03,540] Lesson two, watch your coffee.
+- [00:23:03,540 - 00:23:04,540] You got to be careful.
+- [00:23:04,540 - 00:23:07,540] See, it doesn't matter who hands you the bad stuff.
+- [00:23:07,540 - 00:23:09,540] It doesn't matter where you get the bad stuff.
+- [00:23:09,540 - 00:23:13,040] It'll still do its damage on
+- [00:23:13,040 - 00:23:16,540] your bank account, wherever you get it.
+- [00:23:16,540 - 00:23:18,040] Mr. Shoff gave me one of the greatest
+- [00:23:18,040 - 00:23:19,540] phrases when I first met him when he said,
+- [00:23:19,540 - 00:23:24,540] Jim, every day stand guard
+- [00:23:24,540 - 00:23:29,540] at the door of your mind.
+- [00:23:29,540 - 00:23:31,540] How important.
+- [00:23:31,540 - 00:23:37,540] Stand guard at the door of your mind.
+- [00:23:39,540 - 00:23:41,540] And you decide what goes into your mental factory.
+- [00:23:41,540 - 00:23:43,540] Don't let anybody just dump anything
+- [00:23:43,540 - 00:23:45,540] they want to in your mental factory
+- [00:23:45,540 - 00:23:51,540] because you've got to live with the results.
+- [00:23:51,540 - 00:23:53,040] Okay, here's the last disease
+- [00:23:53,040 - 00:23:54,540] and we're through with this list.
+- [00:23:54,540 - 00:23:55,540] In fact, we're almost through.
+- [00:23:55,540 - 00:23:57,540] Hang on.
+- [00:23:57,540 - 00:24:00,540] The last subject is very brief.
+- [00:24:00,540 - 00:24:03,540] The last disease, but this one is deadly.
+- [00:24:03,540 - 00:24:05,540] Engage in this one, indulge in it even
+- [00:24:05,540 - 00:24:07,540] slightly, and you might as well forget the future
+- [00:24:07,540 - 00:24:08,540] because it's going to forget you.
+- [00:24:09,540 - 00:24:14,040] Complaining, crying, whining, griping,
+- [00:24:14,040 - 00:24:18,540] a Bible word called murmuring.
+- [00:24:18,540 - 00:24:21,540] See, that'll ace your future.
+- [00:24:21,540 - 00:24:25,540] Spend five minutes complaining and you have wasted five.
+- [00:24:25,540 - 00:24:28,040] And you may have begun what's
+- [00:24:28,040 - 00:24:30,540] known as economic cancer of the bone.
+- [00:24:30,540 - 00:24:32,040] Surely they will soon haul
+- [00:24:32,040 - 00:24:33,540] you off into a financial desert
+- [00:24:33,540 - 00:24:36,040] and there let you choke on
+- [00:24:36,040 - 00:24:38,540] the dust of your own regret.
+- [00:24:38,540 - 00:24:41,540] I hope I said that well so you won't forget.
+- [00:24:41,540 - 00:24:44,540] It's a deadly disease.
+- [00:24:44,540 - 00:24:47,040] If you don't think it's bad, ask
+- [00:24:47,040 - 00:24:49,540] the children of Israel of Old Testament fame.
+- [00:24:49,540 - 00:24:51,540] Typical of us all, their story
+- [00:24:51,540 - 00:24:53,540] just happened to get in the book.
+- [00:24:53,540 - 00:24:57,540] Story says, children of Israel were slaves.
+- [00:24:57,540 - 00:24:59,540] God performed a series of
+- [00:24:59,540 - 00:25:01,540] dazzling miracles and got them out.
+- [00:25:01,540 - 00:25:04,540] And now they're heading for the promised land.
+- [00:25:04,540 - 00:25:05,540] Remember the story?
+- [00:25:05,540 - 00:25:06,540] Heading for the promised land.
+- [00:25:06,540 - 00:25:07,540] Tragedy of the story.
+- [00:25:07,540 - 00:25:11,540] They never got there.
+- [00:25:11,540 - 00:25:13,540] Reason.
+- [00:25:13,540 - 00:25:18,540] From day one, they started to complain.
+- [00:25:18,540 - 00:25:21,540] They griped about the water.
+- [00:25:21,540 - 00:25:24,540] They griped about the weather.
+- [00:25:24,540 - 00:25:27,540] They whined and cried and griped about the food.
+- [00:25:27,540 - 00:25:29,540] They griped about the leadership.
+- [00:25:29,540 - 00:25:33,040] They whined and cried because it was too
+- [00:25:33,040 - 00:25:36,540] far, too cold, too hot, too difficult, too miserable.
+- [00:25:36,540 - 00:25:39,540] I mean, they whined and cried for years.
+- [00:25:39,540 - 00:25:42,540] Finally, God said, I've had it.
+- [00:25:42,540 - 00:25:43,540] Trip canceled.
+- [00:25:46,540 - 00:25:47,540] Or something like that.
+- [00:25:50,540 - 00:25:54,040] The story says, they died in the
+- [00:25:54,040 - 00:25:57,540] desert, never got to the promised land.
+- [00:25:59,540 - 00:26:00,540] Which I think means two things.
+- [00:26:00,540 - 00:26:03,540] Indulge in this long enough, you get your future canceled.
+- [00:26:03,540 - 00:26:04,540] And I guess it also means,
+- [00:26:04,540 - 00:26:08,540] even God himself can only take so much.
+- [00:26:14,540 - 00:26:15,540] Okay.
+- [00:26:18,540 - 00:26:20,040] Just be on the lookout of the things
+- [00:26:20,040 - 00:26:21,540] that can destroy all the good you start.
+- [00:26:21,540 - 00:26:22,540] The war is on.
+- [00:26:23,540 - 00:26:25,540] And this evening, tomorrow,
+- [00:26:25,540 - 00:26:27,540] mentally, personally, socially, economically,
+- [00:26:27,540 - 00:26:30,540] you got to make sure you're winning the war.
+- [00:26:30,540 - 00:26:31,540] And this is part of it.
