@@ -1,331 +1,406 @@
 # Book North Star
 
-*How You Got Rich?* should become a dynamic field book about how wealth is built, interpreted, defended, and lived, not a lecture-by-lecture digest. The series is strongest when it treats billionaire interviews as live evidence: guarded spaces, teaser montages, city staging, money claims, moral claims, and business mechanisms are all part of the same object. The book should therefore preserve both the outer machinery of rich-making and the inner dispute that follows it: what wealth is for once the numbers are real.
+*How You Got Rich?* should become a dynamic field book on wealth, business, and entrepreneurial method, built from the full Hard Knocks Interviews series rather than from isolated episodes. The series is strongest when it treats billionaire interviews as live evidence: guarded spaces, teaser montages, city staging, refusals, access, money claims, moral claims, and business mechanisms are all part of the same object.
+
+The book should therefore preserve two layers at once. First, the outer machinery of wealth: ownership, exits, leverage, sales, scale, timing, recurring engines, entity structure, and capital recycling. Second, the inner dispute that follows wealth: what money is for, what it costs, what it reveals, and how people justify it once the numbers are real.
+
+Lecture 06 strengthens the book’s field-method spine. Miami is not just another city backdrop. It makes explicit that geography, proximity, rejection, and repeated cold approach are themselves part of the method of extracting doctrine. It also sharpens three themes that now deserve even more weight across the book: real-estate leverage, platform scale, and sales as qualification rather than performance.
 
 ## Core thesis
 
-The processed corpus now suggests a stronger thesis than “billionaires reveal their secrets.”
+The processed corpus now supports a clearer thesis than “billionaires reveal secrets.”
 
-Wealth in this series is usually built through ownership, leverage, exits, recurring economic engines, distribution, timing, concentration, and the ability to turn one successful deal into easier future action. But the series is not only teaching accumulation. It repeatedly forces a second question: how do people justify wealth after they have made it?
+The series teaches that wealth is usually built through ownership, distribution, leverage, exits, recurring commercial engines, process, structure, concentration, timing, and the ability to turn one success into easier future action. But it also teaches that scale is not self-explanatory. Rich-making always arrives bundled with interpretation: taxes, duty, God, marriage, challenge, family, sacrifice, envy, freedom, and the lingering question of whether the result was worth the price.
 
-The answers do not converge cleanly. Some speakers explain wealth through taxes paid, some through freedom, some through challenge, some through family, some through faith, some through service, and some through the simple fact that they refused to quit. Lecture 05 strengthens a point that had been present but underdeveloped: people and culture are not “soft” side issues. They are treated as central business infrastructure. The same lecture also makes long-horizon planning, spouse choice, and the purchase of time part of the wealth story itself.
+Lecture 06 sharpens the thesis in three durable ways:
 
-So the book should not frame the series as a collection of tricks. Its deeper subject is the structure of rich-making and rich-living: how capital is built, how scale changes one’s relation to time and people, and why money still leaves the question of meaning unresolved.
+- Wealth is not only built through ownership; it is also built through access. One may buy a business not for income but for entry into an industry, key employees, and commercial position.
+- Wealth compounds when asset appreciation becomes new borrowing capacity. The real-estate refinance explanation is now the clearest explicit leverage mechanism in the processed corpus.
+- Entrepreneurship is inseparable from persuasion, but the best persuasion is diagnostic. Belfort pushes the book toward a stronger claim: credibility and qualification matter more than performative selling.
+
+So the book should not read as a bag of billionaire tips. Its deeper subject is the structure of rich-making and rich-living: how people get into the right field, build engines that scale, convert scale into repeat capital, and then try to explain what any of it means.
 
 ## Candidate chapter system
 
 1. **Access, Theater, and the Wealth Field**  
-   Why the series so often begins with guarded spaces, teaser montages, city resets, and rapid proof-of-scale before argument begins.
+   Guarded spaces, teaser montages, city selection, refusals, redirected access, and why place is part of the method rather than scenery.
 
-2. **Ownership, Leverage, and the Control of Time**  
-   The movement from labor to ownership, leverage, recurring engines, and eventually the ability to buy back one’s schedule.
+2. **Ownership, Distribution, and the Engine of Scale**  
+   Business ownership, product quality, procurement, service, sales coverage, recurring revenue, and why distribution density matters.
 
-3. **People, Culture, and the Social Engine of Scale**  
-   Smarter hires, incentive alignment, human resources, culture, hiring one’s weakness, and helping others get rich.
+3. **Leverage, Liquidity, and Repeat Capital**  
+   Exits, paper gains, refinancing, tax claims, appreciation, and the way one win lowers the friction of the next.
 
-4. **Timing, Concentration, and Contrarian Entry**  
-   Focus versus diversification, boom-bust timing, edge, first deals, and the logic of acting before consensus has fully repriced reality.
+4. **People, Platform, and the Daily Law of Execution**  
+   Hiring, culture, availability, self-belief, process, structure, platform design, and the fact that scale has to be carried every day.
 
-5. **Sales, Distribution, and Credibility**  
-   Value proposition, truth in selling, channel control, distribution force, and why credibility compounds commercially.
+5. **Timing, Concentration, and Contrarian Entry**  
+   Boom-bust reasoning, first-deal courage, focus versus diversification, acting before consensus, and choosing richer problems.
 
-6. **Exits, Liquidity, and Repeat Capital**  
-   Sale events, paper gains, large one-day outcomes, and the way one successful deal lowers the funding friction of the next.
+6. **Persuasion, Qualification, and Commercial Credibility**  
+   Truth in selling, value proposition, recruiting vision, objection handling, diagnostic selling, and why not every “no” should be chased.
 
 7. **Taxes, Duty, and the Public Claim on Wealth**  
-   Tax heuristics, patriotic payment claims, state obligation, and the civic language speakers use to justify large fortunes.
+   Tax heuristics, patriotic payment claims, jurisdiction, and the civic language speakers use to justify large fortunes.
 
-8. **Belief, Family, and the Interpretation of Success**  
-   God, providence, spouse choice, quiet wealth, self-story, and the after-the-fact explanations people give for their own outcomes.
+8. **Belief, Family, and Character Under Money**  
+   God, providence, marriage, spouse choice, self-story, money as amplifier or corrupter, and what scale reveals about a person.
 
 9. **Fragility, Sacrifice, and What Wealth Is For**  
-   Debt, losses, divorce, prison, family distance, challenge, freedom, contribution, emptiness, and whether getting rich was worth it.
+   Debt, prison, divorce, family distance, rich life versus good life, time purchase, challenge, freedom, contribution, and whether getting rich was worth it.
 
 ## Evidence bank by theme
 
-### Ownership, leverage, and control of time
+### Access, geography, and field method
 
-- Lecture 02 remains foundational for leverage, recurring revenue, compounding, and the ownership of time.
-- Lecture 04 sharpens this with the explicit triad of leveraging people, time, and money, plus the lawyer-versus-law-firm distinction.
-- Lecture 05 reinforces ownership as doctrine: multiple speakers state or imply that serious wealth comes from being a business owner rather than only a worker.
-- Lecture 05 also extends the time theme through private flying: the claim is not that a jet directly produces money, but that money can be spent to buy back time.
-- Book implication: “ownership of time” should now be broadened to include both economic structure and the later consumption of wealth into schedule control.
+- Lecture 02 uses London as a wealth field.
+- Lecture 03 uses Austin similarly, including billionaire-density language.
+- Lecture 04 uses Beverly Hills and Las Vegas as meaningful scene resets.
+- Lecture 05 sharpens the method through Highland Park as a deliberately chosen rich neighborhood.
+- Lecture 06 is now the strongest source for this theme:
+  - Miami is explicitly framed as America’s rising money hub.
+  - The lecture begins with failed cold approaches before any doctrine appears.
+  - “Every no is a step closer to yes” becomes a method statement.
+  - Design District, compound arrival, and Star Island all function as high-signal search fields.
+  - “Proximity is power” becomes explicit rhetoric late in the lecture.
+- Book implication: the opening chapter should now foreground city choice, refusals, and search discipline even more strongly.
 
-### People, culture, and the social engine of scale
+### Ownership, distribution, and commercial engines
 
-- Lecture 05 is now the strongest single source for this theme.
-- Vic Keller ties exits to building an “irresistible” company and hiring smarter people, then says the best builders help others build wealth.
-- The prison-to-HVAC segment contributes “hire your weakness,” which turns people from general inspiration into a targeted management rule.
-- Jim Keyes adds the human-resource claim at corporate scale: the most valuable resource of any company is the human resource.
-- Ben Pogue ties competitive advantage in construction to people and culture, high standards, and care.
-- Lecture 04 already supported this theme through “leverage people,” but lecture 05 makes clear that a dedicated chapter on people/culture is now warranted.
+- Lecture 02 remains foundational for leverage, recurring revenue, and compounding through business engines.
+- Lecture 04 contributes service, retail, distribution, wholesale, and truth-in-sales logic.
+- Lecture 05 reinforces ownership doctrine and the importance of enterprise design.
+- Lecture 06 now adds one of the cleanest operating machines in the corpus:
+  - food-distribution business bought small,
+  - scale achieved through products, buying team, procurement, street sales force, pricing, and service,
+  - near-saturation restaurant coverage as the outcome.
+- Book implication: “ownership” cannot stay abstract. The book should show the engine beneath the outcome: product, channel, service, and organization.
 
-### Timing, concentration, and contrarian entry
+### Leverage, real estate, and liquidity
 
-- Lecture 05 is the clearest current source on boom-bust reasoning.
-- The oil-and-gas interview gives a compact cycle rule: in the boom, remember the bust; in the bust, remember the boom.
-- The same interview also contributes the first-deal story: \$1.6 million face value bought for \$64,000, about 4% of face.
-- Lecture 05 adds the cleanest concentration-versus-diversification doctrine in the corpus so far: diversification as safety, concentration as the route speakers associate with very large fortunes.
-- Ben Pogue restates a similar idea later in the lecture through concentrated portfolios and offensive play.
-- Lecture 02 remains relevant for compounding and time, but lecture 05 now gives the book a stronger chapter on entry timing and focus.
+- Lecture 02 provides the broad leverage and compounding framework.
+- Lecture 04 sharpens leverage through people, time, and money as a stated triad.
+- Lecture 06 provides the clearest explicit asset-side leverage mechanism yet:
+  - “sleeper” property bought for \$5 million with roughly 15% down,
+  - later value of roughly \$25–30 million,
+  - more than \$100 million of reported real-estate holdings,
+  - refinance explanation through a \$2 million to \$8 million example with \$6 million equity.
+- This is now the strongest transcript-backed case for a real-estate-refinance diagram in the full book.
+- Book implication: the leverage chapter should now contain a concrete balance-sheet section, not only abstract language about leverage.
 
 ### Exits, liquidity, and repeat capital
 
-- Lecture 01 uses multibillion-pound exits and large tax payments as scale signals in its opening montage.
-- Lecture 02 begins with sold-company and high-volatility endpoint imagery, including a \$30 million year and a \$55 million overnight loss.
+- Lecture 01 uses multibillion-pound exits and large tax payments as opening proof of scale.
+- Lecture 02 begins with sold-company, high-income, and large-loss endpoint imagery.
 - Lecture 03 opens with almost-half-a-billion and near-\$2 billion sale language.
-- Lecture 04 remains the strongest current source for repeat-capital logic:
-  - BodyArmor sold for over \$5 billion.
-  - Roughly half a billion personal take on the sale day.
-  - UK mobile-phone business sold for \(1.5 \times 10^9\) GBP.
-  - Entertainment company sold for over \$1 billion.
-  - About \$1.6 billion “on paper” from an IPO opening around \$3.3–\$3.5 billion with about half ownership.
-  - Explicit statement that early backers from the first deal come back for the second and third.
-- Lecture 05 now adds:
-  - Vic Keller’s repeated build-and-sell rhythm: 17 founded, 9 sold.
-  - Jim Keyes’s many-billions 7-Eleven sale.
-  - Ben Pogue’s reported \$200 million personal year and \$1.5 billion in company volume.
-- Book implication: exits are not endings. They are public proof events that alter future financing conditions and social credibility.
+- Lecture 04 remains a major source for serial capital formation:
+  - BodyArmor sold for over \$5 billion,
+  - large personal take,
+  - UK mobile-phone business sold for \(1.5 \times 10^9\) GBP,
+  - about \$1.6 billion on paper from an IPO,
+  - explicit statement that earlier backers return for later deals.
+- Lecture 05 adds repeated build-and-sell rhythm and many-billions sale language.
+- Lecture 06 adds:
+  - a business bought for \$300,000,
+  - first sale above \$100 million,
+  - second sale above \$400 million,
+  - a direct statement that new partners and management scale changed the second sale outcome.
+- Book implication: exits are public proof events, but they also reveal how scale is rebuilt between proof events.
 
-### Sales, distribution, and credibility
+### Structure, process, and valuation readiness
 
-- Lecture 04 remains the strongest source:
-  - “Tell the truth about the product” sales logic.
-  - Service, retail, distribution, and wholesale as a stacked phone-business model.
-  - Speed-over-size claims.
-  - Kobe Bryant as both investor and distribution force.
-- Lecture 05 contributes an upstream version of this theme through Keller’s “best value proposition in your space” framing.
-- Lecture 05 therefore helps tie sales not only to persuasion and channels, but to the prior design of an enterprise that buyers or customers find difficult to refuse.
-- Book implication: sales and credibility should remain linked. The book should avoid treating “product” and “distribution” as separable chapters.
+- Lecture 04 already implied that scale depends on using people, money, and time structurally rather than romantically.
+- Lecture 05 adds backward planning and disciplined enterprise design.
+- Lecture 06 sharpens this theme:
+  - failed sellers do not structure the company correctly,
+  - process and procedures help produce higher valuation,
+  - LLC/entity structure is treated as foundational rather than optional,
+  - the Busy detour, though promotional, reinforces “set up for success from the beginning.”
+- Book implication: there should be a durable manuscript thread that treats structure as precondition, not afterthought.
 
-### Taxes, duty, and the public claim on wealth
+### People, culture, platform, and execution
 
-- Lecture 01 remains the explicit tax lecture and gives the usable heuristic frame that roughly 45% disappears and roughly 55% remains.
-- Lecture 04 deepens the theme with a direct moral stance:
-  - roughly \$200 million tax paid,
-  - explicit rejection of a Monaco tax-avoidance counterfactual,
-  - claim that taxes should be paid where the money was made.
-- Lecture 05 adds Highland Park’s no-state-income-tax context as field-setting, but not a major new tax doctrine.
-- Book implication: taxes remain a core chapter, but lecture 05 does not materially revise its structure.
+- Lecture 05 remains the strongest single source for people and culture as the engine of scale:
+  - hire smarter people,
+  - help them get rich,
+  - hire your weakness,
+  - human resource as the most valuable resource,
+  - people and culture as construction advantage.
+- Lecture 06 adds a second form of the same claim:
+  - the right team around the operator matters as much as the original acquisition,
+  - Ruiz reframes scale as “the same rules, bigger platform,”
+  - availability, response speed, and daily execution are treated as real scale disciplines,
+  - self-belief and refusal to listen to noise remain central.
+- Ruiz also contributes one of the strongest daily-law formulations in the corpus: one does not conquer the world on one day; one executes every day.
+- Book implication: the people/culture chapter should be widened into a people-plus-platform chapter.
+
+### Timing, concentration, and problem selection
+
+- Lecture 05 remains the strongest current source on boom-bust reasoning, first-deal fear, and concentration versus diversification.
+- Lecture 06 adds a related but distinct scale heuristic:
+  - same rules at higher dollar levels,
+  - solve richer problems,
+  - the arena changes, not the laws.
+- Ruiz’s ladder of \$1, \$10,000, \$1 million, and billion-dollar problems should be treated as a heuristic about problem class, not as a literal law.
+- Book implication: the timing/risk chapter should now connect concentration and cycle memory to problem selection and scale selection.
+
+### Persuasion, qualification, and commercial credibility
+
+- Lecture 04 remains foundational for truth-in-sales and value delivery.
+- Lecture 05 adds “best value proposition in your space.”
+- Lecture 06 substantially strengthens this theme:
+  - the food-distribution operator ties scale to service and sales execution,
+  - Ruiz says negotiation works when the other side sees why what you have is valuable to them,
+  - Belfort makes persuasion central, not peripheral,
+  - recruiting is framed as selling a vision emotionally well enough to create effort,
+  - entrepreneurship is explicitly tied to sales capability,
+  - objection handling is narrowed to the real field of work: hesitation, not genuine disinterest,
+  - “sell me this pen” is reversed into need-discovery and qualification.
+- Book implication: the sales chapter should now be upgraded into a persuasion-and-qualification chapter.
 
 ### Scarcity, downside, and sacrifice
 
-- Lecture 02 contributes the strongest early volatility marker: a \$55 million overnight loss.
-- Lecture 04 contributes the strongest debt-and-fragility material:
-  - pizza bought with coins,
-  - \$13 million in debt,
-  - \$200 borrowed from a mother,
-  - depression,
-  - failure and success described as adjacent.
-- Lecture 05 greatly expands this theme with new story types:
-  - poor childhood and free-lunch labor in the oil-and-gas interview,
-  - the emotional pain of the first leveraged deal,
-  - prison and comeback in the HVAC story,
-  - divorce and family loss in the Ben Pogue interview,
-  - explicit statement that success can cost friends and closeness to family.
-- Book implication: the downside chapter must now include not only debt and business loss, but relational and existential cost.
+- Lecture 02 contributes the early volatility marker of a \$55 million overnight loss.
+- Lecture 04 contributes debt, depression, borrowed money, and failure-success adjacency.
+- Lecture 05 expands the theme with poor childhood, free-lunch labor, prison, divorce, family cost, and the pain of first leverage.
+- Lecture 06 adds:
+  - Ruiz’s immigrant scarcity and \$800 credit-card start,
+  - labor-for-rent bootstrapping,
+  - very low sleep and high communications load,
+  - explicit statement that entrepreneurship requires sacrifice and is not for everyone.
+- Book implication: the sacrifice chapter must continue to track not only downside events, but operating cost and human wear.
 
 ### Belief, family, and self-interpretation
 
-- Lecture 03 remains central because it asks the God question directly after making wealth concrete.
-- Lecture 04 extends belief into happiness, challenge, and providential interpretations of setback.
-- Lecture 05 is now a major source here:
-  - Vic Keller’s explicit Christian explanation of his success.
-  - The oil-and-gas speaker’s distinction between being rich and having a wonderful life.
-  - Spouse belief as a business-support condition.
-  - Ben Pogue’s treatment of marriage as one of the most important decisions in life.
-  - Faith as interpretive frame in prison, divorce, and later stability.
-- Book implication: belief and family cannot remain minor subtopics. They are now part of the series’ main explanatory grammar.
+- Lecture 03 remains central because it makes wealth concrete before belief is discussed.
+- Lecture 04 extends belief into happiness, meaning, and providential interpretations of setback.
+- Lecture 05 makes spouse choice, faith, and rich-versus-good-life distinctions structurally important.
+- Lecture 06 adds:
+  - Ruiz’s father as moral source,
+  - self-belief as a scale prerequisite,
+  - money as something that comes and goes,
+  - Ruiz and Belfort both treating character as prior to scale,
+  - Belfort’s sobriety framing and focus on the present,
+  - the current lecture’s strongest money-and-character contradiction: Ruiz says money often changes people; Belfort says money amplifies them.
+- Book implication: the belief/family chapter should now explicitly include character under money, not only God and marriage.
 
-### Geography, clustering, and field method
+### Taxes, duty, and the public claim on wealth
 
-- Lecture 02 gives London as a concentrated wealth field.
-- Lecture 03 uses Austin similarly, including billionaire-density language.
-- Lecture 04 uses Beverly Hills and Las Vegas as structurally meaningful scene changes.
-- Lecture 05 adds Highland Park as perhaps the clearest “wealth laboratory” framing yet: a small, rich, highly concentrated neighborhood explicitly chosen for inquiry.
-- Across lectures 01–05, city choice is not backdrop. Place is part of the method. The host changes geographies while holding the core question fixed.
-- Book implication: geography should remain part of the method chapter, not treated as scenery.
+- Lecture 01 remains the explicit tax lecture with the 45% / 55% heuristic frame.
+- Lecture 04 deepens the chapter through large tax payment and pay-where-you-make-it doctrine.
+- Lecture 05 adds mostly field-setting context.
+- Lecture 06 does not significantly alter the tax chapter’s structure, aside from giving another instance of wealth being justified through method rather than public duty.
+- Book implication: no major redesign here, but tax should remain one way speakers publicly moralize scale.
 
 ### What wealth is for
 
 - Lecture 01 asks what wealth owes the state.
-- Lecture 03 asks what wealth means in relation to God and belief.
-- Lecture 04 asks whether wealth was worth it at all.
-- Lecture 05 adds a more operational version of the same question:
-  - money as a way to buy time,
-  - wealth as support for family architecture,
-  - rich versus good life,
-  - whether success isolates,
-  - whether marriage and faith determine how scale can be borne.
-- Book implication: “what wealth is for” is now unmistakably one of the book’s governing questions, not a closing appendix.
+- Lecture 03 asks what wealth means in relation to God.
+- Lecture 04 asks whether wealth was worth it.
+- Lecture 05 broadens the question through family architecture, spouse choice, bought-back time, and relational cost.
+- Lecture 06 adds a more operational answer:
+  - real estate as a way to create more buying power,
+  - business acquisition as a way to buy access,
+  - entrepreneurship as route to abundance rather than mere income,
+  - qualification and execution as ways to protect time and effort from waste.
+- Book implication: “what wealth is for” should include not just consumption or morality, but the recursive use of wealth to create more strategic freedom.
 
 ### Recurring story types
 
-- Cold-open montages that prove scale before argument begins.
-- Guarded or redirected access: privacy, hesitation, then selective openness.
-- Luxury object as gateway to business doctrine: Ferrari, private jet, affluent setting.
-- Humble-origin confession placed next to enormous outcomes.
-- Local obstacle raised, then answered in compact form: focus or diversify, first deal fear, corporate entrepreneur versus founder, planning under uncertainty.
-- Host recap after a strong interview, converting testimony into rule.
-- Faith or family disclosure arriving only after scale has already been established.
+- Cold-open montage that proves scale before argument begins.
+- Guarded or redirected access, often producing a stronger later payoff.
+- Luxury object or affluent setting as gateway to doctrine.
+- Humble-origin confession placed beside enormous outcomes.
+- Local obstacle raised, then resolved in compact form through `Question & Answer`.
+- Host recap after a strong interview, compressing testimony into rule.
+- Faith, marriage, or character disclosure arriving only after monetary scale is established.
+- Increasingly, city choice itself functioning as a movable research instrument.
 
 ## Frame bank
 
 ### Current validated frame status
 
 - No validated figure assets exist yet across the processed lectures.
-- Lecture 05 does not change that status.
-- No frame from the Dallas lecture survived validation strongly enough to justify reuse as evidentiary book art.
+- Lecture 06 does not change that status.
+- The Miami lecture produced no reusable evidence frames; all candidates were rejected as contextual rather than diagrammatic or caption-rich.
 
 ### Durable reuse rule
 
 Only reuse frames if they clearly do at least one of the following:
 - preserve a quantitative on-screen caption worth quoting,
 - identify a person, company, or institutional claim that the transcript leaves ambiguous,
-- contain an actual diagram, chart, board layout, or structured visual argument.
+- contain a genuine diagram, chart, board layout, or structured visual argument,
+- supply a location or field identifier that materially strengthens the method chapter.
 
 Do not reuse frames that are only:
 - exterior arrivals,
-- cars,
-- jets,
-- guarded entrances,
+- cars, jets, compounds, or luxury storefronts,
+- guarded entrances without useful overlays,
 - teaser spectacle,
-- talking heads without informational overlays.
+- talking heads without informational captions.
 
 ### Immediate implication for the book
 
-- The book should still be written as figure-light or figureless.
-- If future validated frames appear, they should be slotted by theme, not by lecture order.
+- The book should remain figure-light or figureless for now.
+- Future validated frames should be slotted by theme, not by lecture order.
+- Lecture 06 confirms that many visually striking shots will still fail the evidentiary threshold.
 
 ### Open frame slots for future validated evidence
 
-- Slot A: on-screen numeric claims that stabilize exit, loss, or tax amounts.
-- Slot B: name/caption frames that resolve transcript ambiguity.
-- Slot C: any genuine board, slide, chart, or structured visual from later lectures.
-- Slot D: signage or geographic identifiers only if they materially strengthen the field-method chapter.
+- Slot A: on-screen numeric captions that stabilize exit, loss, tax, or valuation claims.
+- Slot B: name or institutional identifiers that resolve transcript ambiguity.
+- Slot C: any genuine chart, slide, board, or structured visual from later lectures.
+- Slot D: field-method images only if they materially strengthen the geography/access chapter.
 
 ## Diagram and table bank
 
-No screenshot-backed figures are ready, so the visual program should remain transcript-backed, table-first, and conservative.
+No screenshot-backed figures are ready. The visual program should therefore remain transcript-backed, table-first, and conservative.
 
 ### High-priority tables
 
 1. **Exit and liquidity ledger across the corpus**
-   - Sale values, paper gains, one-day outcomes, major tax payments, major losses.
-   - Now needs lectures 01–05, not only 01–04.
+   - Sale values, paper gains, one-day outcomes, major tax payments, major losses, repeated exits.
+   - Update now needed to include lecture 06’s \$300,000 acquisition, >\$100 million first sale, and >\$400 million second sale.
 
-2. **People and scale matrix**
-   - Keller: hire smarter people, help them get rich.
-   - HVAC speaker: hire your weakness.
-   - Keyes: human resource as top resource.
-   - Pogue: people and culture, care plus standards.
-   - Lecture 04 leverage-people material should sit here too.
+2. **Commercial engine matrix**
+   - Product, procurement, service, sales force, distribution, recurring revenue, value proposition, truth in selling.
+   - Lecture 04, 05, and 06 now make this table highly valuable.
 
-3. **Scarcity-to-scale recovery table**
-   - Debt, borrowed money, pizza coins, free lunch labor, first-deal fear, prison, divorce, large exits, large annual numbers.
-   - This table is now structurally important, not optional.
+3. **People, platform, and execution matrix**
+   - Hiring smarter people, hiring weakness, human resource as core resource, culture, availability, daily execution, self-belief, and process.
+   - Lecture 05 plus Ruiz in lecture 06 make this chapter-level infrastructure.
 
-4. **Meaning / belief / family / duty matrix**
-   - What speakers say wealth is for: tax duty, God, family, challenge, freedom, contribution, peace, or continued building.
+4. **Leverage and liquidity table**
+   - Debt, refinance, appreciation, exits, paper gains, recurring capital access.
+   - Lecture 06 now provides the clearest asset-side mechanism and should anchor this table.
 
-5. **Geography and field-site ledger**
-   - London, Austin, Beverly Hills, Las Vegas, Highland Park.
+5. **Scarcity-to-scale recovery table**
+   - Debt, borrowed money, poor childhood, prison, divorce, \$800 start, first-deal fear, large exits, huge annual or one-day numbers.
+   - Still structurally important.
+
+6. **Meaning / belief / family / character matrix**
+   - What speakers say wealth is for: state duty, God, family, challenge, freedom, contribution, present-focus, scale discipline.
+   - Now should include “money changes” versus “money amplifies.”
+
+7. **Geography and field-site ledger**
+   - London, Austin, Beverly Hills, Las Vegas, Highland Park, Miami.
    - Track what each location contributes conceptually, not just geographically.
 
 ### High-priority diagrams
 
-1. **Leverage and time ladder**
-   - Wage labor \(\rightarrow\) people leverage \(\rightarrow\) capital leverage \(\rightarrow\) schedule control.
-   - Anchored in lectures 02, 04, and now 05.
+1. **Field-method funnel**
+   - City choice \(\to\) cold approach \(\to\) refusal \(\to\) reset \(\to\) access \(\to\) doctrine.
+   - Now strongly supported by lectures 05 and 06.
 
-2. **People multiplier chain**
-   - Better people \(\rightarrow\) better execution \(\rightarrow\) stronger scale or exits \(\rightarrow\) more ability to enrich and attract talent.
-   - Strongly supported by lecture 05.
+2. **Leverage and time ladder**
+   - Wage labor \(\to\) ownership \(\to\) people leverage / capital leverage \(\to\) schedule control.
+   - Lectures 02, 04, 05, and 06 all contribute here.
 
-3. **Boom-bust timing loop**
-   - Boom \(\rightarrow\) complacency \(\rightarrow\) bust \(\rightarrow\) contrarian buy \(\rightarrow\) memory restored.
-   - Directly supported by lecture 05.
+3. **Real-estate refinance balance sheet**
+   - Property value \(V\), debt \(D\), equity \(E\), and the \$2M \(\to\) \$8M example from lecture 06.
+   - Highest-priority new transcript-backed diagram.
 
-4. **Backward-planning timeline**
-   - Future picture \(\rightarrow\) milestones \(\rightarrow\) present action.
-   - Directly supported by lecture 05.
+4. **Buy-versus-build split**
+   - Buy for access to industry and key employees.
+   - Build when tools and capital are already available.
+   - Directly supported by lecture 06.
 
-5. **Cash, communications, character triad**
-   - Now one of the cleanest formal diagrams available in the corpus.
-   - Directly supported by lecture 05.
+5. **People multiplier chain**
+   - Better people \(\to\) better execution \(\to\) stronger scale or exits \(\to\) more ability to enrich and attract talent.
+   - Strong lectures 05 and 06 overlap.
 
-6. **Concentration versus diversification contrast**
-   - Safety/check-box logic versus mastery-and-magnitude logic.
-   - Must remain marked as interview doctrine, not universal advice.
+6. **Boom-bust timing loop**
+   - Boom \(\to\) complacency \(\to\) bust \(\to\) contrarian buy \(\to\) recovery.
+   - Still anchored primarily in lecture 05.
+
+7. **Problem-scale ladder**
+   - \(\$1 \to \$10^4 \to \$10^6 \to \$10^9\)
+   - Mark clearly as heuristic, not law.
+
+8. **Persuasion chain**
+   - Vision \(\to\) emotional connection \(\to\) commitment \(\to\) outsized effort.
+   - Directly supported by Belfort in lecture 06.
+
+9. **Sales qualification state diagram**
+   - Genuine no \(\to\) exit.
+   - Hesitation \(\to\) clarify need \(\to\) advance.
+   - Another high-priority new diagram from lecture 06.
 
 ### Visual policy for now
 
-- No TikZ redraw should be treated as mandatory in the full book yet.
-- Prefer tables and compact transcript-backed diagrams over decorative figures.
-- Because no validated screenshots exist, any future diagram must stand on transcript evidence alone.
+- No chapter should be built around screenshots yet.
+- Prefer tables and compact transcript-backed diagrams over decorative art.
+- Because no validated screenshots exist, every future diagram must stand on transcript evidence alone.
 
 ## Tensions and contradictions
 
-- **Ownership is necessary; corporate entrepreneurship is real.**  
-  The series often privileges ownership, but lecture 05 makes clear that structured institutions can still reward entrepreneurial behavior.
+- **Access is essential; access is resisted.**  
+  The series depends on proximity, but proximity continually meets refusal, privacy, and gatekeeping.
 
-- **People are the lever of scale; people are also the site of sacrifice.**  
-  Teams create wealth, but success can also cost friendships, family closeness, and marriage stability.
+- **Ownership builds wealth; access can be purchased.**  
+  The corpus privileges ownership, yet lecture 06 makes clear that sometimes what one buys is not income but entry.
+
+- **Real estate is safety; real estate is leverage.**  
+  Property is presented as anti-ruin, yet the Miami lecture explains it through debt, appreciation, and refinancing.
+
+- **The rules stay the same; the platform changes everything.**  
+  Ruiz insists the laws are the same at \$1 and \$100 million, but he also says high-level players move differently and faster.
 
 - **Concentration builds magnitude; diversification offers safety.**  
-  Lecture 05 strengthens this tension but does not resolve it universally.
+  Lecture 05 sharpens this without resolving it universally.
+
+- **People are the lever of scale; people are also the site of sacrifice.**  
+  Teams create enterprise value, yet success can cost marriages, family closeness, friendships, and sleep.
+
+- **Money changes people; money amplifies people.**  
+  Ruiz and Belfort do not agree fully, and the book should keep that disagreement visible.
+
+- **Entrepreneurship is not for everyone; abundance is hard without it.**  
+  The corpus now clearly supports both halves of that sentence.
+
+- **Sales is persuasion; sales is qualification.**  
+  The Miami lecture pushes the book away from generic closing rhetoric and toward disciplined refusal of the wrong prospect.
+
+- **Speed matters; rich careers remain long.**  
+  One-day windfalls and “get rich quickly” rhetoric coexist with decades-long building, planning, and daily execution.
+
+- **Structure feels clerical; structure determines scale.**  
+  LLC formation and process design are often treated as boring, but the interviews repeatedly insist they matter.
 
 - **Money buys freedom; money does not settle the inner question.**  
-  Private flying may buy back time, but multiple speakers insist that a good life is larger than money.
+  Time, family, meaning, faith, and present-focus remain unresolved after wealth arrives.
 
-- **Wealth is quiet; the series is theatrical.**  
-  Speakers sometimes frame real wealth as private, while the series necessarily packages wealth through spectacle, access, and teaser montage.
-
-- **Speed wins; rich careers remain long.**  
-  The corpus admires speed and decisiveness, but lecture 05 also emphasizes 30-year planning and decades-long business lives.
-
-- **Faith explains success; operational method explains success.**  
-  The series repeatedly keeps providence and commercial reasoning side by side without forcing them into one language.
-
-- **Truth builds credibility; extremity drives action.**  
-  Lecture 04’s truth-in-sales logic and lecture 05’s play-to-win aggressiveness belong together, even if they produce friction.
-
-- **Visible scale and hidden fragility are adjacent.**  
-  Ferraris, jets, and multibillion outcomes sit next to first-deal panic, debt, prison, divorce, and family fracture.
-
-- **The wealthy field is public enough to inspect and private enough to resist inspection.**  
-  This tension is part of the method chapter, not a production inconvenience.
+- **Wealth is often quiet; the series is theatrical.**  
+  Speakers sometimes present real wealth as private, while the series must package it through spectacle and access.
 
 ## Revision agenda for the next rewrite
 
-- Rework the book opening so it foregrounds the field method even more clearly: redirected access, teaser numbers, and city resets are now a stable part of the series’ rhetoric.
-- Revise the ownership/leverage chapter to absorb lecture 05’s explicit business-owner doctrine and its stronger time-purchase logic via private flying.
-- Build or greatly strengthen a dedicated chapter on people and culture. Lecture 05 makes this unavoidable.
-- Expand the timing/risk chapter to include lecture 05’s boom-bust rule, first-deal fear, and concentration-versus-diversification doctrine.
-- Revise any earlier manuscript language that overstates founder-only wealth paths. Jim Keyes’s corporate-entrepreneur framing now complicates that line.
-- Strengthen the “what wealth is for” chapter with lecture 05’s time, marriage, sacrifice, and rich-versus-good-life material.
-- Revise the fragility chapter so it includes relational cost, not only money loss and debt.
-- Keep figure strategy conservative. No chapter should be built around screenshots yet.
-- Preserve `Question & Answer` structures in future rewrites wherever the source naturally raises and resolves a local obstacle. Lecture 05 confirms this is now a durable manuscript feature, not a one-off device.
+- Rework the book opening so that Miami strengthens, rather than merely extends, the field-method chapter: city choice, cold approach, refusal, reset, and proximity are now unmistakably core architecture.
+- Revise the leverage/liquidity chapter to incorporate lecture 06’s refinance mechanism and its balance-sheet logic.
+- Upgrade the sales chapter into a persuasion-and-qualification chapter, not just a product/distribution chapter.
+- Revise the ownership chapter so it includes lecture 06’s distinction between buying income and buying access.
+- Strengthen the people/platform chapter with Ruiz’s “same rules, bigger platform” doctrine and his daily execution model.
+- Add explicit room in the manuscript for entity structure, process, and valuation readiness as preconditions of scale.
+- Revise the book’s treatment of money and character so it can hold both “money changes” and “money amplifies” without collapsing the difference.
+- Preserve `Question & Answer` structure wherever a local obstacle is raised and resolved. Lecture 06 confirms this is now a durable formal feature of the project.
+- Keep figure policy conservative. No rewrite should assume screenshot support that the corpus does not actually have.
 
 ## Processed lecture evidence index
 
 - **lecture_01 | Asking Billionaires If They Pay Taxes!**
-  - Opening montage emphasizes scale, access, major exits, and tax burden.
-  - Foundational source for tax heuristics, civic obligation, and the wealth-field opening style.
+  - Foundational source for tax heuristics, civic obligation, and the teaser-montage opening style.
 
 - **lecture_02 | Asking London Billionaires How They Got Rich!**
   - Core source for leverage, recurring revenue, compounding, exits, and ownership of time.
-  - Also important for downside proximity through large reported losses.
 
 - **lecture_03 | Asking Billionaires If They Believe In God!**
-  - Makes wealth concrete before asking belief.
-  - Foundational source for belief, self-interpretation, and Austin as a wealth field.
+  - Foundational source for belief, self-interpretation, and the method of making wealth concrete before discussing meaning.
 
 - **lecture_04 | Asking Billionaires If Getting Rich Was Worth It**
-  - Reframes the series around post-wealth meaning, tax duty, leverage, truth in sales, and serial capital formation.
-  - Major source for happiness, fragility, and “what wealth is for.”
+  - Major source for post-wealth meaning, tax duty, leverage, truth in sales, and serial capital formation.
 
 - **lecture_05 | Asking Dallas Billionaires How They Got Rich!**
-  - Major source for people and culture as the engine of scale, concentration versus diversification, boom-bust timing, backward planning, corporate entrepreneurship, and time as a purchased asset.
-  - Also expands the corpus on sacrifice, spouse choice, faith, and the relational cost of success.
+  - Major source for people and culture as the engine of scale, concentration versus diversification, boom-bust timing, backward planning, and the relational cost of success.
+
+- **lecture_06 | Asking Miami Billionaires How They Got Rich!**
+  - Major source for geography as method, rejection as progress, real-estate refinance logic, buy-versus-build as buy-versus-access, platform scale, daily execution, and sales as qualification rather than performance.
