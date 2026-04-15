@@ -1,0 +1,1078 @@
+# Transcript
+
+Source: lazyearn/jim-rohn-originals-no-ai/007 - Jim rohn  How to use a Journal [E-qYHYMdniM].mp4
+
+- [00:00:00,000 - 00:00:03,120] Hi everybody, this is Jim Rohn. Over the
+- [00:00:03,120 - 00:00:06,240] years, I have repeatedly encouraged people in search of
+- [00:00:06,240 - 00:00:09,530] the good life to make use of a journal. Invariably,
+- [00:00:09,530 - 00:00:12,820] at the conclusion of a seminar, a number of people
+- [00:00:12,820 - 00:00:15,460] are sufficiently inspired by learning of the effect
+- [00:00:15,460 - 00:00:18,100] journals have had on my life to start
+- [00:00:18,100 - 00:00:21,600] using one of their own. Unfortunately, inspiration and
+- [00:00:21,600 - 00:00:25,100] enthusiasm quickly fade in the face of all
+- [00:00:25,100 - 00:00:28,310] those blank pages. Instead of finding new answers to
+- [00:00:28,310 - 00:00:31,520] life, the journal seems to open a floodgate of
+- [00:00:31,520 - 00:00:34,570] new questions such as, what am I supposed
+- [00:00:34,570 - 00:00:37,620] to write? Should I only write about business events?
+- [00:00:38,320 - 00:00:41,260] How often should I be writing? What
+- [00:00:41,260 - 00:00:44,200] kind of journal is best? Does spelling count?
+- [00:00:45,140 - 00:00:48,100] The purpose of these tapes then is not
+- [00:00:48,100 - 00:00:51,060] only to explore the incredible value of recording your
+- [00:00:51,060 - 00:00:54,980] life's experiences, but also to examine the endless
+- [00:00:54,980 - 00:00:55,080] journey of life.
+- [00:00:55,100 - 00:00:55,110] The purpose of these tapes then is not only to explore the endless
+- [00:00:55,110 - 00:00:55,120] journey of life's experiences, but also to examine the endless journey of life.
+- [00:00:55,120 - 00:00:57,100] and methods of keeping a journal.
+- [00:00:57,920 - 00:01:00,660] Hopefully, by the conclusion of this program, your
+- [00:01:00,660 - 00:01:03,400] questions will have been answered and you will be
+- [00:01:03,400 - 00:01:06,400] confidently embarking on a new adventure and
+- [00:01:06,400 - 00:01:09,400] achievement with the vehicle of pen and paper.
+- [00:01:11,360 - 00:01:12,980] The first thing to understand about
+- [00:01:12,980 - 00:01:14,600] a journal is that it's your book.
+- [00:01:15,640 - 00:01:19,000] And because it is yours, you must be the one
+- [00:01:19,000 - 00:01:22,360] to select the size and style you feel most suits your
+- [00:01:22,360 - 00:01:24,480] needs and personal preferences.
+- [00:01:25,100 - 00:01:28,300] Like a favorite armchair, a journal must be comfortable
+- [00:01:28,300 - 00:01:31,500] enough that you will want to go to it often.
+- [00:01:31,500 - 00:01:35,500] You may, in fact, find yourself experimenting with a variety
+- [00:01:35,500 - 00:01:39,500] of journals over the years as your needs and tastes change.
+- [00:01:39,500 - 00:01:43,780] During the past 25 years, I'd be willing to bet that
+- [00:01:43,780 - 00:01:48,060] I've tried almost every conceivable system of capturing ideas on paper,
+- [00:01:48,060 - 00:01:51,510] from loose-leaf binders and file cards
+- [00:01:51,510 - 00:01:54,960] to dime store notebooks and hardbound volumes.
+- [00:01:54,960 - 00:02:00,460] I've had big journals and little journals, journals with lined pages and journals with blank
+- [00:02:00,460 - 00:02:05,960] pages, all of which met a certain need at a certain period in my life.
+- [00:02:05,960 - 00:02:09,959] And believe me, you too will undoubtedly go through half a
+- [00:02:09,959 - 00:02:13,959] dozen different methods over the years, and that's to be expected.
+- [00:02:13,959 - 00:02:17,459] As you continue to grow and develop, you will soon
+- [00:02:17,459 - 00:02:20,959] discover that last year's systems won't likely meet this year's needs.
+- [00:02:20,959 - 00:02:22,959] You see, one of the keys to success is flexibility.
+- [00:02:22,959 - 00:02:23,959] You see, one of the keys to success is flexibility.
+- [00:02:23,959 - 00:02:24,959] You see, one of the keys to success is flexibility.
+- [00:02:24,960 - 00:02:25,960] You see, one of the keys to success is flexibility.
+- [00:02:25,960 - 00:02:28,960] We must always be on the search for
+- [00:02:28,960 - 00:02:31,960] more effective methods to facilitate and accommodate new ideas.
+- [00:02:31,960 - 00:02:35,460] But let's face it, in the beginning, the only
+- [00:02:35,460 - 00:02:38,960] thing that matters is that you develop the journal habit.
+- [00:02:38,960 - 00:02:42,960] The journal we've included with this tape program may or may
+- [00:02:42,960 - 00:02:46,960] not be exactly what you're looking for, but just start using it.
+- [00:02:46,960 - 00:02:50,460] Like ordering Chinese food for the first time, the only way to find
+- [00:02:50,460 - 00:02:53,960] out which dishes you will or will not like is to try them.
+- [00:02:53,960 - 00:02:54,960] 일퍼 Canal
+- [00:02:54,960 - 00:03:08,960] Ifしょう
+- [00:03:08,960 - 00:03:15,960] You'll need a guitar to Yuan
+- [00:03:15,960 - 00:03:21,960] let me have yam
+- [00:03:21,960 - 00:03:25,460] The use of anything received will always be in direct
+- [00:03:25,460 - 00:03:28,960] proportion to how it makes you feel when you use it.
+- [00:03:28,960 - 00:03:32,960] The color and material of the binding, the texture of the paper,
+- [00:03:32,960 - 00:03:36,960] the width of the lines or the absence of lines are important considerations.
+- [00:03:36,960 - 00:03:39,460] If you feel lines tend to restrict
+- [00:03:39,460 - 00:03:41,960] your creative flow, then go with blank pages.
+- [00:03:41,960 - 00:03:43,960] If you feel uncomfortable with
+- [00:03:43,960 - 00:03:45,960] blank pages, then choose line pages.
+- [00:03:45,960 - 00:03:47,960] Hey, it's your book. Make
+- [00:03:47,960 - 00:03:49,960] sure it reflects what you are.
+- [00:03:49,960 - 00:03:53,460] My latest journal is a leather bound volume for which
+- [00:03:53,460 - 00:03:56,960] I paid handsomely, but it's worth every penny I spent.
+- [00:03:56,960 - 00:03:58,960] The richness and the smell of
+- [00:03:58,960 - 00:04:00,960] the leather in themselves are enticing.
+- [00:04:00,960 - 00:04:03,960] It's enjoyable just to hold it in my hands.
+- [00:04:03,960 - 00:04:06,960] And too, it's important to me to know that
+- [00:04:06,960 - 00:04:09,960] unique ideas are being stored in a suitable place.
+- [00:04:09,960 - 00:04:12,460] Somebody once asked me why I pay as
+- [00:04:12,460 - 00:04:14,960] much as I do for an empty book.
+- [00:04:14,960 - 00:04:16,959] And my answer was simple. I
+- [00:04:16,959 - 00:04:18,959] intend to put something valuable in it.
+- [00:04:18,959 - 00:04:19,959] I intend to put something valuable in it.
+- [00:04:19,959 - 00:04:22,459] Let's face it, you wouldn't store
+- [00:04:22,459 - 00:04:24,960] precious gems in an empty cigar box.
+- [00:04:24,960 - 00:04:27,460] So why put a million dollar
+- [00:04:27,460 - 00:04:29,960] idea in a ten cent book?
+- [00:04:29,960 - 00:04:33,460] Just one bit of advice, however. Bear in mind that
+- [00:04:33,460 - 00:04:36,960] a journal should be capable of going wherever you go.
+- [00:04:36,960 - 00:04:40,460] A journal that requires more space than your briefcase
+- [00:04:40,460 - 00:04:43,960] permits or more room than your desktop allows for you,
+- [00:04:43,960 - 00:04:46,460] more often than not, it will be
+- [00:04:46,460 - 00:04:48,960] left at home gathering dust instead of thoughts.
+- [00:04:48,960 - 00:04:51,960] And cobwebs instead of observations.
+- [00:04:51,960 - 00:04:54,960] But let's get to the heart of the matter.
+- [00:04:54,960 - 00:04:57,460] Buying a journal is the easy part.
+- [00:04:57,460 - 00:04:59,960] The real challenge lies in filling it up.
+- [00:04:59,960 - 00:05:01,960] And that's what we want to deal with now.
+- [00:05:01,960 - 00:05:05,460] What should go into a journal if it
+- [00:05:05,460 - 00:05:08,960] is to have meaning and value in your life?
+- [00:05:08,960 - 00:05:11,960] Perhaps the best way to answer this question is
+- [00:05:11,960 - 00:05:14,960] to consider the purposes and functions of a journal.
+- [00:05:14,960 - 00:05:17,960] Once the matter of why we should write is clear,
+- [00:05:17,960 - 00:05:20,960] then the what we should
+- [00:05:20,960 - 00:05:23,960] write will become immediately apparent.
+- [00:05:23,960 - 00:05:26,960] There are so many functions performed by a journal
+- [00:05:26,960 - 00:05:29,960] that I could conceivably spend the remainder of this tape
+- [00:05:29,960 - 00:05:32,960] and a half a dozen others discussing them.
+- [00:05:32,960 - 00:05:35,460] But since more important than listening to my
+- [00:05:35,460 - 00:05:37,960] reasons for why you should be keeping a journal
+- [00:05:37,960 - 00:05:40,960] is getting busy actually using your journal,
+- [00:05:40,960 - 00:05:43,460] I'll try to limit the list
+- [00:05:43,460 - 00:05:45,960] and merely highlight some of the majors.
+- [00:05:45,960 - 00:05:46,460] One of the unique characteristics of a journal is
+- [00:05:46,460 - 00:05:46,960] that it is a journal that is not a book.
+- [00:05:46,960 - 00:05:49,960] The unique characteristics of a journal is that it
+- [00:05:49,960 - 00:05:52,960] offers you an effective way to figure it all out.
+- [00:05:52,960 - 00:05:55,960] To figure out life, to figure
+- [00:05:55,960 - 00:05:58,960] out people, to figure out business dilemmas,
+- [00:05:58,960 - 00:06:03,960] and most important of all, to figure out yourself.
+- [00:06:03,960 - 00:06:07,960] There is something magical about writing down a problem.
+- [00:06:07,960 - 00:06:09,960] It is almost as though in the
+- [00:06:09,960 - 00:06:11,960] very act of writing what is wrong,
+- [00:06:11,960 - 00:06:14,960] you start to discover ways of making it right.
+- [00:06:14,960 - 00:06:18,460] Perhaps the source of this magic lies
+- [00:06:18,460 - 00:06:21,960] in the objective perspective that writing affords you.
+- [00:06:21,960 - 00:06:25,460] Even though you are describing your problem, your
+- [00:06:25,460 - 00:06:28,960] challenge, your life, your uncertainty, and your indecision,
+- [00:06:28,960 - 00:06:31,460] the fact that you are writing about
+- [00:06:31,460 - 00:06:33,960] it as opposed to mentally pondering it
+- [00:06:33,960 - 00:06:36,960] creates a space between you and the problem.
+- [00:06:36,960 - 00:06:39,460] It is within this space
+- [00:06:39,460 - 00:06:41,960] that solutions have room to grow.
+- [00:06:41,960 - 00:06:42,960] You see, writing about events and circumstances,
+- [00:06:42,960 - 00:06:43,960] you see, writing about events and circumstances,
+- [00:06:43,960 - 00:06:45,960] you see, writing about events and circumstances,
+- [00:06:45,960 - 00:06:49,960] that occur helps you to clarify exactly what is happening.
+- [00:06:49,960 - 00:06:53,960] When we describe life to ourselves only in our minds,
+- [00:06:53,960 - 00:06:56,460] our imaginations tend to feed false
+- [00:06:56,460 - 00:06:58,960] or distorted information about how things are,
+- [00:06:58,960 - 00:07:01,960] positive or negative.
+- [00:07:01,960 - 00:07:04,960] When we describe a situation in writing, however,
+- [00:07:04,960 - 00:07:07,960] we become more factual, more
+- [00:07:07,960 - 00:07:10,960] accurate, and certainly more realistic.
+- [00:07:10,960 - 00:07:11,960] Then, as we reread what we have written,
+- [00:07:11,960 - 00:07:12,960] Then, as we reread what we have written,
+- [00:07:12,960 - 00:07:16,460] we create a new picture in our minds to
+- [00:07:16,460 - 00:07:19,960] replace the distorted picture we have been working with.
+- [00:07:19,960 - 00:07:22,460] And once we finally see things as they
+- [00:07:22,460 - 00:07:24,960] are rather than as we think they are,
+- [00:07:24,960 - 00:07:27,460] we can then see our
+- [00:07:27,460 - 00:07:29,960] way clear to make them better.
+- [00:07:29,960 - 00:07:32,960] At the conclusion of this program, you might in fact
+- [00:07:32,960 - 00:07:35,960] want to use this process to get your journal started.
+- [00:07:35,960 - 00:07:38,960] Write about a current dilemma you are facing.
+- [00:07:38,960 - 00:07:40,960] Perhaps it is a personal problem, a business matter,
+- [00:07:40,960 - 00:07:42,960] Perhaps it is a personal problem, a business matter,
+- [00:07:42,960 - 00:07:45,960] a family issue or a financial problem.
+- [00:07:45,960 - 00:07:49,460] Whatever it is, take the time to capture
+- [00:07:49,460 - 00:07:52,960] it on paper the way it really is.
+- [00:07:52,960 - 00:07:54,960] But remember, writing out the
+- [00:07:54,960 - 00:07:56,960] problem is only the first step
+- [00:07:56,960 - 00:08:01,960] to creative problem solving and effective decision making.
+- [00:08:01,960 - 00:08:03,960] The next step is to
+- [00:08:03,960 - 00:08:05,960] carefully analyze what you have written.
+- [00:08:05,960 - 00:08:08,960] Here are some of the key things to look for.
+- [00:08:08,960 - 00:08:09,960] First,
+- [00:08:10,960 - 00:08:12,960] exaggerations or distortions of the truth.
+- [00:08:12,960 - 00:08:15,960] Are you really telling it like it is?
+- [00:08:15,960 - 00:08:17,960] Take another look.
+- [00:08:17,960 - 00:08:19,960] Perhaps your concern is making
+- [00:08:19,960 - 00:08:21,960] it seem worse than it is.
+- [00:08:21,960 - 00:08:24,460] Or your enthusiasm is making
+- [00:08:24,460 - 00:08:26,960] it seem better than it is.
+- [00:08:26,960 - 00:08:28,960] Second,
+- [00:08:28,960 - 00:08:32,460] a tendency to blame circumstances or someone else for
+- [00:08:32,460 - 00:08:35,960] your problem instead of seeing yourself as the cause.
+- [00:08:35,960 - 00:08:38,460] You see, most of our difficulties are the
+- [00:08:38,460 - 00:08:40,960] result of either failing to do what we can
+- [00:08:40,960 - 00:08:44,460] or could have done or in doing
+- [00:08:44,460 - 00:08:47,960] in haste what we should never have done.
+- [00:08:47,960 - 00:08:48,960] Third,
+- [00:08:48,960 - 00:08:52,960] a tendency to expect circumstances or still worse,
+- [00:08:52,960 - 00:08:54,960] other people to change in order
+- [00:08:54,960 - 00:08:56,960] for your problem to be solved.
+- [00:08:56,960 - 00:08:59,460] Let me remind you one more time
+- [00:08:59,460 - 00:09:01,960] that things get better when you get better.
+- [00:09:01,960 - 00:09:04,460] Passive hope never has and
+- [00:09:04,460 - 00:09:06,960] never will improve human circumstances.
+- [00:09:06,960 - 00:09:08,960] And finally,
+- [00:09:08,960 - 00:09:12,460] look closely for weak points in the obstacle where
+- [00:09:12,460 - 00:09:15,960] you might attack to bring that obstacle to its knees.
+- [00:09:15,960 - 00:09:20,960] Remember, David slew Goliath with but one small stone.
+- [00:09:20,960 - 00:09:22,960] It usually doesn't take much
+- [00:09:22,960 - 00:09:24,960] more than a few minor adjustments
+- [00:09:24,960 - 00:09:27,960] in either our attitude or our
+- [00:09:27,960 - 00:09:30,960] action plan to solve a major problem.
+- [00:09:30,960 - 00:09:34,460] Essentially, you must learn to view your problems like
+- [00:09:34,460 - 00:09:37,960] a scientist who puts tiny organisms on a slide.
+- [00:09:37,960 - 00:09:40,460] Examine your circumstances through the
+- [00:09:40,460 - 00:09:42,960] lens of the microscope of truth
+- [00:09:42,960 - 00:09:45,960] to see their real nature, their
+- [00:09:45,960 - 00:09:48,960] real perimeters, and their real composition.
+- [00:09:48,960 - 00:09:50,960] And two,
+- [00:09:50,960 - 00:09:52,960] as you examine your problem,
+- [00:09:52,960 - 00:09:56,960] do as any scientist would do, record your observations.
+- [00:09:56,960 - 00:09:59,960] You see, as you continue to refine your statement
+- [00:09:59,960 - 00:10:02,960] of the problem of the way it really is,
+- [00:10:02,960 - 00:10:06,960] you will begin to move closer to the solution.
+- [00:10:06,960 - 00:10:09,960] And speaking of solutions,
+- [00:10:09,960 - 00:10:13,960] be sure to record the ultimate conclusion to your dilemma.
+- [00:10:13,960 - 00:10:15,960] If it worked well,
+- [00:10:15,960 - 00:10:17,960] then it is worth remembering.
+- [00:10:17,960 - 00:10:19,960] And if it didn't work well,
+- [00:10:19,960 - 00:10:21,960] as you had hoped it would,
+- [00:10:21,960 - 00:10:24,960] then it is even more essential to record the outcome,
+- [00:10:24,960 - 00:10:28,960] lest you should find yourself repeating mistakes
+- [00:10:28,960 - 00:10:30,960] instead of learning from them.
+- [00:10:30,960 - 00:10:33,960] Mistakes in judgment are nothing to be ashamed of.
+- [00:10:33,960 - 00:10:35,960] Surely most of our personal growth comes
+- [00:10:35,960 - 00:10:38,960] as a result of our errors.
+- [00:10:38,960 - 00:10:41,460] But what is truly unforgivable is
+- [00:10:41,460 - 00:10:43,960] to make the same mistake twice.
+- [00:10:43,960 - 00:10:46,960] Every mistake has its own price tag,
+- [00:10:46,960 - 00:10:49,960] but the most costly error anyone can make
+- [00:10:49,960 - 00:10:52,960] is an error unlearned and often repeated.
+- [00:10:52,960 - 00:10:54,960] If something didn't work,
+- [00:10:54,960 - 00:10:57,960] it may be too late to undo the mistake,
+- [00:10:57,960 - 00:10:59,960] but it's never too late
+- [00:10:59,960 - 00:11:02,960] to make adjustments and revisions in your thinking.
+- [00:11:02,960 - 00:11:05,960] You see, better decision making comes from the fact that
+- [00:11:05,960 - 00:11:07,960] the better thinking habits
+- [00:11:07,960 - 00:11:09,960] and better thinking habits
+- [00:11:09,960 - 00:11:12,960] comes from practical experience,
+- [00:11:12,960 - 00:11:16,960] learning both what to do and what not to do.
+- [00:11:16,960 - 00:11:19,960] Becoming a more effective thinker on paper
+- [00:11:19,960 - 00:11:22,960] is a sure way of becoming
+- [00:11:22,960 - 00:11:25,960] a more effective person in practice.
+- [00:11:25,960 - 00:11:27,960] As step one for getting
+- [00:11:27,960 - 00:11:29,960] used to using your journal then,
+- [00:11:29,960 - 00:11:33,960] I would suggest writing down problems that you encounter
+- [00:11:33,960 - 00:11:35,960] and recording all the steps you can take
+- [00:11:35,960 - 00:11:38,960] or did take to solve them,
+- [00:11:38,960 - 00:11:41,960] as well as their eventual outcomes.
+- [00:11:41,960 - 00:11:44,960] Now I realize this is only a suggestion,
+- [00:11:44,960 - 00:11:46,960] but please let me offer you
+- [00:11:46,960 - 00:11:48,960] a bit of advice about suggestions.
+- [00:11:48,960 - 00:11:51,960] You see, many people will hear this suggestion,
+- [00:11:51,960 - 00:11:54,960] agree that it sounds like a good idea to try,
+- [00:11:54,960 - 00:11:56,960] and even go so far as
+- [00:11:56,960 - 00:11:58,960] to mentally agree to do it,
+- [00:11:58,960 - 00:12:00,960] sometime.
+- [00:12:00,960 - 00:12:03,960] And therein lies the problem,
+- [00:12:03,960 - 00:12:04,960] that nebulous word,
+- [00:12:04,960 - 00:12:05,960] sometimes.
+- [00:12:05,960 - 00:12:09,960] We all know what happens to the promises we make
+- [00:12:09,960 - 00:12:12,960] to do something tomorrow or next week
+- [00:12:12,960 - 00:12:14,960] or as soon as we have a chance.
+- [00:12:14,960 - 00:12:18,960] Somehow, we never quite get around to doing it.
+- [00:12:18,960 - 00:12:20,960] My advice is that if
+- [00:12:20,960 - 00:12:22,960] you think a suggestion has merit
+- [00:12:22,960 - 00:12:25,960] and that it's worth trying,
+- [00:12:25,960 - 00:12:28,960] that you promise yourself you will do it.
+- [00:12:28,960 - 00:12:30,960] Make a firm commitment now
+- [00:12:30,960 - 00:12:32,960] at the conclusion of this program,
+- [00:12:32,960 - 00:12:34,960] you will have chosen one of the most effective suggestions
+- [00:12:34,960 - 00:12:38,960] and that you will not do another thing
+- [00:12:38,960 - 00:12:40,960] until you have opened your journal
+- [00:12:40,960 - 00:12:43,960] and written at least one page.
+- [00:12:43,960 - 00:12:46,960] Otherwise, to be perfectly honest,
+- [00:12:46,960 - 00:12:48,960] you might as well stop the tape now
+- [00:12:48,960 - 00:12:51,960] and give it and the journal to a friend.
+- [00:12:51,960 - 00:12:53,460] For surely if you lack
+- [00:12:53,460 - 00:12:54,960] the discipline to start a journal,
+- [00:12:54,960 - 00:12:56,960] it is highly unlikely that
+- [00:12:56,960 - 00:12:58,960] you will ever have the discipline
+- [00:12:58,960 - 00:13:00,960] to continue to use one either.
+- [00:13:00,960 - 00:13:03,960] This leads us into a second function of your journal,
+- [00:13:03,960 - 00:13:06,960] which is the capturing of good ideas.
+- [00:13:06,960 - 00:13:09,960] How many times as we go through the day
+- [00:13:09,960 - 00:13:11,960] do we come across a good idea,
+- [00:13:11,960 - 00:13:13,960] a unique quote,
+- [00:13:13,960 - 00:13:15,960] an interesting piece of information,
+- [00:13:15,960 - 00:13:18,960] or even a significant personal discovery?
+- [00:13:18,960 - 00:13:20,960] And each time we do,
+- [00:13:20,960 - 00:13:22,960] we mentally say to ourselves,
+- [00:13:22,960 - 00:13:24,960] I must remember that.
+- [00:13:24,960 - 00:13:27,960] Now, I'm willing to admit here that the human mind,
+- [00:13:27,960 - 00:13:30,960] I remember one time attending a church service
+- [00:13:30,960 - 00:13:31,960] in Carmel,
+- [00:13:31,960 - 00:13:32,960] and I was there.
+- [00:13:32,960 - 00:13:35,960] I was there for a service in Carmel, California.
+- [00:13:35,960 - 00:13:37,960] The sermon that Sunday morning was excellent,
+- [00:13:37,960 - 00:13:40,960] so I opened my journal and started taking notes.
+- [00:13:40,960 - 00:13:43,960] But out of the 400 people in attendance that day,
+- [00:13:43,960 - 00:13:46,960] guess how many of the others were taking notes?
+- [00:13:46,960 - 00:13:49,960] Not one.
+- [00:13:49,960 - 00:13:51,460] So there I was taking notes
+- [00:13:51,460 - 00:13:52,960] in my journal from this sermon,
+- [00:13:52,960 - 00:13:54,960] and pretty soon the people around me
+- [00:13:54,960 - 00:13:57,960] were starting to give me strange looks.
+- [00:13:57,960 - 00:13:59,960] Out of the corner of my eye,
+- [00:13:59,960 - 00:14:01,960] I could see them nudging one another and whispering.
+- [00:14:01,960 - 00:14:04,960] I felt like some kind of spy.
+- [00:14:04,960 - 00:14:06,960] I could almost hear them saying,
+- [00:14:06,960 - 00:14:08,460] he's going to get out of
+- [00:14:08,460 - 00:14:09,960] here with some of this stuff.
+- [00:14:09,960 - 00:14:11,960] And sure enough, I did.
+- [00:14:11,960 - 00:14:13,960] I got the stuff.
+- [00:14:13,960 - 00:14:18,960] So what I'm suggesting is that you get in there
+- [00:14:18,960 - 00:14:21,960] and get out with some of the stuff.
+- [00:14:21,960 - 00:14:23,460] Let other people sit there
+- [00:14:23,460 - 00:14:24,960] thinking they can remember it all.
+- [00:14:24,960 - 00:14:27,960] Let other people treat opportunity casually,
+- [00:14:27,960 - 00:14:29,960] but not you.
+- [00:14:29,960 - 00:14:31,960] I would ask you to treat it that way.
+- [00:14:31,960 - 00:14:33,960] Treat it seriously.
+- [00:14:33,960 - 00:14:35,960] Let other people wonder at the end of their lives
+- [00:14:35,960 - 00:14:38,960] where it all went wrong, but not you.
+- [00:14:38,960 - 00:14:41,960] Let other people play while you work,
+- [00:14:41,960 - 00:14:44,960] fool around while you study,
+- [00:14:44,960 - 00:14:47,960] soak up the sun while you soak up ideas.
+- [00:14:47,960 - 00:14:49,960] Ten years from now,
+- [00:14:49,960 - 00:14:51,460] they'll still be trying to figure
+- [00:14:51,460 - 00:14:52,960] out how to pay the bills,
+- [00:14:52,960 - 00:14:56,960] or wondering why their marriage isn't working out,
+- [00:14:56,960 - 00:14:59,960] or why they don't seem to be getting ahead professionally,
+- [00:14:59,960 - 00:15:00,960] but not you.
+- [00:15:01,960 - 00:15:07,960] Life always rewards the serious students for their labors.
+- [00:15:07,960 - 00:15:10,960] So, since we all know that it's nearly impossible
+- [00:15:10,960 - 00:15:13,460] for most of us to remember
+- [00:15:13,460 - 00:15:15,960] the exact phrasing of an inspiring line
+- [00:15:15,960 - 00:15:18,960] or the specific details of a business conference
+- [00:15:18,960 - 00:15:20,960] over an extended period of time,
+- [00:15:20,960 - 00:15:25,960] we've got to get serious about capturing it now.
+- [00:15:25,960 - 00:15:28,960] Generally, if we wait until the end of the day
+- [00:15:28,960 - 00:15:31,960] to describe events and happenings and conversations,
+- [00:15:31,960 - 00:15:35,960] the specific details have already escaped us.
+- [00:15:35,960 - 00:15:39,960] At best, we are left with scattered fragments,
+- [00:15:39,960 - 00:15:42,960] and it's hard to build an exciting future
+- [00:15:42,960 - 00:15:46,960] from mere bits and pieces of the past and present.
+- [00:15:46,960 - 00:15:49,460] So I would encourage you to get
+- [00:15:49,460 - 00:15:51,960] it all down as it comes your way.
+- [00:15:51,960 - 00:15:54,960] Financial ideas, personal development ideas,
+- [00:15:54,960 - 00:15:59,960] time management ideas, family ideas, business ideas.
+- [00:15:59,960 - 00:16:01,960] Everything you have to know
+- [00:16:01,960 - 00:16:04,960] is what you have the good fortune to come across.
+- [00:16:04,960 - 00:16:08,960] If an idea is worth listening to, worth reading,
+- [00:16:08,960 - 00:16:10,960] worth remembering,
+- [00:16:10,960 - 00:16:15,960] then it is also worth capturing in your journal.
+- [00:16:15,960 - 00:16:17,960] And there are many reasons for
+- [00:16:17,960 - 00:16:19,960] making the effort to capture good ideas,
+- [00:16:19,960 - 00:16:22,960] not the least of which is the fact
+- [00:16:22,960 - 00:16:25,960] that the simple act of writing something on paper
+- [00:16:25,960 - 00:16:27,960] helps to etch the idea
+- [00:16:27,960 - 00:16:29,960] more firmly in our conscious minds.
+- [00:16:29,960 - 00:16:31,460] To hear it or see it
+- [00:16:31,460 - 00:16:32,960] or read it is one thing.
+- [00:16:32,960 - 00:16:34,960] To take the time and make
+- [00:16:34,960 - 00:16:36,960] the mental effort to capture it
+- [00:16:36,960 - 00:16:41,960] with paper and pen is so much more.
+- [00:16:41,960 - 00:16:45,960] Second, every idea has its time and place.
+- [00:16:45,960 - 00:16:48,960] As Victor Hugo once wrote,
+- [00:16:48,960 - 00:16:50,960] there is one thing stronger than
+- [00:16:50,960 - 00:16:52,960] all the armies in the world,
+- [00:16:52,960 - 00:16:57,960] and that is an idea whose time has come.
+- [00:16:57,960 - 00:16:59,960] Perhaps the ideas you capture today
+- [00:16:59,960 - 00:17:02,460] will not have any specific meaning or
+- [00:17:02,460 - 00:17:04,960] purpose in your life at this moment,
+- [00:17:04,960 - 00:17:07,460] but ultimately at some future point
+- [00:17:07,460 - 00:17:09,960] in time when you march into battle,
+- [00:17:09,960 - 00:17:12,960] the armory of ideas you have
+- [00:17:12,960 - 00:17:15,960] carefully and conscientiously assembled over the years
+- [00:17:15,960 - 00:17:18,960] will serve you well.
+- [00:17:18,960 - 00:17:22,960] Here's another interesting phenomenon about ideas.
+- [00:17:22,960 - 00:17:24,960] As we collect a variety of
+- [00:17:24,960 - 00:17:26,960] thoughts on any given theme or subject,
+- [00:17:26,960 - 00:17:29,460] there is a tendency for
+- [00:17:29,460 - 00:17:31,960] these individual ideas to come together
+- [00:17:31,960 - 00:17:35,960] and form themselves into a whole new idea,
+- [00:17:35,960 - 00:17:39,960] much as the single flakes of snow when gathered together
+- [00:17:39,960 - 00:17:44,960] can be formed into snowballs and snowballs into snowmen.
+- [00:17:44,960 - 00:17:46,960] Or perhaps a more graphic example
+- [00:17:46,960 - 00:17:48,960] would be that of the igloo,
+- [00:17:48,960 - 00:17:51,460] which is, after all, a
+- [00:17:51,460 - 00:17:53,960] dwelling built entirely of tiny snowflakes
+- [00:17:53,960 - 00:17:55,960] which have been compressed by their weight
+- [00:17:55,960 - 00:17:58,960] and frozen together over a period of time,
+- [00:17:58,960 - 00:18:01,960] such that whole blocks of them may
+- [00:18:01,960 - 00:18:04,960] be cut out to build a structure.
+- [00:18:04,960 - 00:18:07,460] The successful human being is one
+- [00:18:07,460 - 00:18:09,960] who has learned to diversify his interests
+- [00:18:09,960 - 00:18:12,960] and gather knowledge from a variety of sources.
+- [00:18:12,960 - 00:18:16,960] Gather enough good ideas in one area of life,
+- [00:18:16,960 - 00:18:18,960] and you will form a solid block.
+- [00:18:18,960 - 00:18:21,960] Gather enough solid blocks together,
+- [00:18:21,960 - 00:18:24,960] and you can construct a whole new life.
+- [00:18:25,960 - 00:18:28,960] But be aware of one thing.
+- [00:18:28,960 - 00:18:30,460] The mental storage bank of
+- [00:18:30,460 - 00:18:31,960] good ideas is very much like
+- [00:18:31,960 - 00:18:34,460] the bottom drawer of our desks
+- [00:18:34,460 - 00:18:36,960] or the extra drawer in the kitchen
+- [00:18:36,960 - 00:18:38,460] that holds a collection of
+- [00:18:38,460 - 00:18:39,960] valuable items gathered over the years,
+- [00:18:39,960 - 00:18:42,460] none of which can ever be found
+- [00:18:42,460 - 00:18:44,960] when we go to look for them again
+- [00:18:44,960 - 00:18:48,960] because of the chaotic manner in which they were stored.
+- [00:18:48,960 - 00:18:51,960] We pour information into our mental computers
+- [00:18:51,960 - 00:18:53,960] much like we dump old letters
+- [00:18:53,960 - 00:18:55,960] and store coupons into the extra drawer.
+- [00:18:55,960 - 00:19:00,960] Helter-skelter and hence, irretrievable.
+- [00:19:00,960 - 00:19:02,960] One of the first things we attend
+- [00:19:02,960 - 00:19:04,960] to when setting up a new business
+- [00:19:04,960 - 00:19:08,960] is the development of a filing system for records
+- [00:19:08,960 - 00:19:12,960] so that we can easily locate information whenever needed.
+- [00:19:12,960 - 00:19:14,960] When we move into a new home,
+- [00:19:14,960 - 00:19:16,960] we carefully pack all of
+- [00:19:16,960 - 00:19:18,960] our possessions in clearly labeled boxes
+- [00:19:18,960 - 00:19:20,960] so that we can find something
+- [00:19:20,960 - 00:19:22,960] again in a hurry if needed.
+- [00:19:22,960 - 00:19:24,960] But when it comes to facts,
+- [00:19:24,960 - 00:19:25,960] to ideas,
+- [00:19:25,960 - 00:19:26,960] to observations,
+- [00:19:26,960 - 00:19:28,960] we have no system
+- [00:19:28,960 - 00:19:30,960] as though they are incidental
+- [00:19:30,960 - 00:19:33,960] rather than essential to our better future.
+- [00:19:33,960 - 00:19:36,460] Your journal then provides you
+- [00:19:36,460 - 00:19:38,960] with the means of logically assembling
+- [00:19:38,960 - 00:19:42,960] and storing the pieces of information that come your way.
+- [00:19:42,960 - 00:19:45,960] Now there are many ways to assemble
+- [00:19:45,960 - 00:19:48,960] the data in your journal for easy reference.
+- [00:19:48,960 - 00:19:49,960] For example,
+- [00:19:49,960 - 00:19:51,960] you might find it helpful to keep
+- [00:19:51,960 - 00:19:53,960] an index at the back of each volume
+- [00:19:53,960 - 00:19:56,960] so that you merely list the highlights of your entries
+- [00:19:56,960 - 00:19:59,960] so that your index might read like this
+- [00:19:59,960 - 00:20:06,960] Financial Ideas, pages 5, 53, 96, and 104
+- [00:20:06,960 - 00:20:07,960] or
+- [00:20:07,960 - 00:20:12,460] Ideas for Increasing Company Efficiency,
+- [00:20:12,460 - 00:20:16,960] pages 46, 82, and 111.
+- [00:20:16,960 - 00:20:19,960] At one time, I used to keep three journals
+- [00:20:19,960 - 00:20:21,960] one for personal observations,
+- [00:20:21,960 - 00:20:22,960] one for business notations,
+- [00:20:22,960 - 00:20:25,960] and a third for creative ideas
+- [00:20:25,960 - 00:20:28,960] for a book I was writing.
+- [00:20:28,960 - 00:20:30,460] Of course, it didn't take
+- [00:20:30,460 - 00:20:31,960] me long to discard that system.
+- [00:20:31,960 - 00:20:35,960] Carrying three journals around the world is no easy task.
+- [00:20:35,960 - 00:20:38,460] Then I tried using three colors
+- [00:20:38,460 - 00:20:40,960] of ink in the same journal
+- [00:20:40,960 - 00:20:42,960] so that at a glance I could
+- [00:20:42,960 - 00:20:44,960] focus on any one of the three areas.
+- [00:20:44,960 - 00:20:47,460] While it was certainly easier
+- [00:20:47,460 - 00:20:49,960] carrying three pens than three journals,
+- [00:20:49,960 - 00:20:52,960] it was still somewhat of a cumbersome system.
+- [00:20:52,960 - 00:20:55,960] When the ideas are flowing fast and furious,
+- [00:20:55,960 - 00:20:58,960] you don't always have the time to search
+- [00:20:58,960 - 00:21:01,960] for a red, a green, or a blue pen.
+- [00:21:01,960 - 00:21:03,960] The method I finally settled on
+- [00:21:03,960 - 00:21:06,460] was setting aside certain sections
+- [00:21:06,460 - 00:21:08,960] of my journal for specific uses.
+- [00:21:08,960 - 00:21:10,960] For example,
+- [00:21:10,960 - 00:21:13,460] at the back of my journals I
+- [00:21:13,460 - 00:21:15,960] have a separate section for recording my goals,
+- [00:21:15,960 - 00:21:18,960] for listing interesting quotes,
+- [00:21:18,960 - 00:21:21,960] and for thoughts on new speech material.
+- [00:21:21,960 - 00:21:23,460] Perhaps you may want to
+- [00:21:23,460 - 00:21:24,960] set aside part of your journal
+- [00:21:24,960 - 00:21:27,960] for specific ongoing projects
+- [00:21:27,960 - 00:21:29,960] or interests that you feel might
+- [00:21:29,960 - 00:21:31,960] warrant a section of their own.
+- [00:21:31,960 - 00:21:34,960] Choose one of these methods or devise a new one,
+- [00:21:34,960 - 00:21:38,960] but make sure you set up some kind of system.
+- [00:21:38,960 - 00:21:41,960] Remember, failure more often than not
+- [00:21:41,960 - 00:21:45,960] is attributable to lack of information about how to succeed.
+- [00:21:45,960 - 00:21:47,960] Each of us has the capacity
+- [00:21:47,960 - 00:21:49,960] to seek out the information we require
+- [00:21:49,960 - 00:21:51,960] to achieve our goals.
+- [00:21:51,960 - 00:21:53,960] Unfortunately,
+- [00:21:53,960 - 00:21:56,460] we do not all have the
+- [00:21:56,460 - 00:21:58,960] discipline required to gather the data systematically
+- [00:21:58,960 - 00:22:02,960] so that the raw material is easily accessible
+- [00:22:02,960 - 00:22:05,960] and ready to be put into practical use
+- [00:22:05,960 - 00:22:08,960] the moment opportunity presents itself.
+- [00:22:08,960 - 00:22:10,960] How sad it would be if
+- [00:22:10,960 - 00:22:12,960] opportunity came knocking on your door,
+- [00:22:12,960 - 00:22:15,960] but you had to keep him waiting while
+- [00:22:15,960 - 00:22:18,960] you rummaged through drawers and files for the key.
+- [00:22:18,960 - 00:22:19,960] Undoubtedly,
+- [00:22:19,960 - 00:22:20,960] by the time most people come in,
+- [00:22:20,960 - 00:22:23,960] by the time most people have finally located the key,
+- [00:22:23,960 - 00:22:27,960] opportunity has long since become impatient
+- [00:22:27,960 - 00:22:29,960] and gone on to knock
+- [00:22:29,960 - 00:22:31,960] on the door of someone else.
+- [00:22:32,960 - 00:22:33,960] Next,
+- [00:22:33,960 - 00:22:35,960] by taking the time to capture
+- [00:22:35,960 - 00:22:37,960] and assemble information in our journals,
+- [00:22:37,960 - 00:22:40,960] we now have the added benefit of being
+- [00:22:40,960 - 00:22:43,960] able to review these ideas whenever we wish.
+- [00:22:43,960 - 00:22:46,460] You don't have to run back to the
+- [00:22:46,460 - 00:22:48,960] library to re-read the book you borrowed last year
+- [00:22:48,960 - 00:22:51,960] or call a friend on the phone and
+- [00:22:51,960 - 00:22:54,960] try to reconstruct the conversation you had last month.
+- [00:22:54,960 - 00:22:57,960] If you've captured the essence of the conversation
+- [00:22:57,960 - 00:23:00,960] or the highlights of the book in your journal,
+- [00:23:00,960 - 00:23:04,960] it will always be there for you to refer to.
+- [00:23:04,960 - 00:23:06,960] And here is the key point.
+- [00:23:06,960 - 00:23:08,960] For your journals to have their greatest value,
+- [00:23:08,960 - 00:23:11,960] they must be frequently reviewed.
+- [00:23:11,960 - 00:23:13,960] You see, writing in journals is
+- [00:23:13,960 - 00:23:15,960] merely a way of capturing information,
+- [00:23:15,960 - 00:23:17,960] but it is by re-reading our journals
+- [00:23:17,960 - 00:23:20,460] that we begin the process
+- [00:23:20,460 - 00:23:22,960] of translating information into practical knowledge
+- [00:23:22,960 - 00:23:23,960] about ourselves,
+- [00:23:23,960 - 00:23:25,960] our environment,
+- [00:23:25,960 - 00:23:26,960] our relationships,
+- [00:23:26,960 - 00:23:27,960] our businesses,
+- [00:23:27,960 - 00:23:28,960] our financial affairs,
+- [00:23:28,960 - 00:23:29,960] our dreams,
+- [00:23:29,960 - 00:23:31,960] and our own better future.
+- [00:23:32,960 - 00:23:34,460] I would strongly urge you to
+- [00:23:34,460 - 00:23:35,960] set aside a day each week,
+- [00:23:35,960 - 00:23:37,960] or at the very least each month,
+- [00:23:37,960 - 00:23:39,960] to review your recent entries.
+- [00:23:39,960 - 00:23:41,960] And then once a year,
+- [00:23:41,960 - 00:23:43,960] take all of your journals off the shelf
+- [00:23:43,960 - 00:23:45,960] and read them from cover to cover.
+- [00:23:45,960 - 00:23:47,960] What you read will provide you
+- [00:23:47,960 - 00:23:50,460] with a story that will probably
+- [00:23:50,460 - 00:23:52,960] make an incredible story of personal growth.
+- [00:23:52,960 - 00:23:54,960] You see, more than anything else,
+- [00:23:54,960 - 00:23:56,960] a journal is a place to
+- [00:23:56,960 - 00:23:58,960] document the development of your own life.
+- [00:23:58,960 - 00:24:03,960] It is a textbook of self-discovery and self-awareness.
+- [00:24:03,960 - 00:24:06,960] In fact, sometimes what you don't write
+- [00:24:06,960 - 00:24:09,960] can be as revealing as what you have written.
+- [00:24:09,960 - 00:24:12,960] A friend of mine recently shared with me the discovery
+- [00:24:12,960 - 00:24:14,960] that in re-reading her journals,
+- [00:24:14,960 - 00:24:16,960] she realized that everything she had written
+- [00:24:16,960 - 00:24:18,960] centered around other people's lives,
+- [00:24:18,960 - 00:24:20,960] their accomplishments, their failures,
+- [00:24:20,960 - 00:24:22,960] their dreams, their needs.
+- [00:24:22,960 - 00:24:24,960] I finally realized, she said,
+- [00:24:24,960 - 00:24:27,960] that I had spent most of my adult life
+- [00:24:27,960 - 00:24:30,960] as a mirror reflecting everybody else's existence
+- [00:24:30,960 - 00:24:32,960] rather than as a human being
+- [00:24:32,960 - 00:24:34,960] living a life of my own.
+- [00:24:35,960 - 00:24:37,960] In the pages of a journal,
+- [00:24:37,960 - 00:24:40,960] our innermost feelings and dreams are revealed,
+- [00:24:40,960 - 00:24:43,960] as are our strengths, our weaknesses,
+- [00:24:43,960 - 00:24:46,960] our positive attributes and our negative habits,
+- [00:24:46,960 - 00:24:48,960] and our characteristics.
+- [00:24:48,960 - 00:24:50,960] If not in the words themselves,
+- [00:24:50,960 - 00:24:52,460] then at least between the
+- [00:24:52,460 - 00:24:53,960] lines of what we have written
+- [00:24:53,960 - 00:24:56,460] are the shadows of self-doubt,
+- [00:24:56,460 - 00:24:58,960] pride, envy, jealousy, and anger.
+- [00:24:58,960 - 00:25:00,960] Just as actions speak louder than words,
+- [00:25:00,960 - 00:25:03,460] so too will journals often say
+- [00:25:03,460 - 00:25:05,960] more than what we have written.
+- [00:25:06,960 - 00:25:08,960] A journal then should also
+- [00:25:08,960 - 00:25:10,960] capture your observations and reactions,
+- [00:25:10,960 - 00:25:13,960] for somewhere between what we see and what we do
+- [00:25:13,960 - 00:25:15,960] will be revealed what we are.
+- [00:25:16,960 - 00:25:19,960] Capture on paper the events, the circumstances,
+- [00:25:19,960 - 00:25:21,960] and happenings of your life.
+- [00:25:21,960 - 00:25:23,460] Describe the near miss you had
+- [00:25:23,460 - 00:25:24,960] while driving to work on the freeway.
+- [00:25:24,960 - 00:25:27,460] Outline your observations of people's
+- [00:25:27,460 - 00:25:29,960] behavior at the office party.
+- [00:25:29,960 - 00:25:31,960] Paint the picture of your day at the beach,
+- [00:25:31,960 - 00:25:35,960] the pounding surf, the soaring gulls, the distant sails.
+- [00:25:35,960 - 00:25:37,960] And then when you have written
+- [00:25:37,960 - 00:25:39,960] about what your eyes have perceived
+- [00:25:39,960 - 00:25:43,960] and your ears have heard, go one step further
+- [00:25:43,960 - 00:25:45,960] and describe your feelings,
+- [00:25:45,960 - 00:25:48,960] your emotional responses to life.
+- [00:25:48,960 - 00:25:50,960] Describe your feelings when you
+- [00:25:50,960 - 00:25:52,960] learned that John got the promotion
+- [00:25:52,960 - 00:25:54,960] that you felt was rightfully yours,
+- [00:25:54,960 - 00:25:57,460] or when you learned that Sally is
+- [00:25:57,460 - 00:25:59,960] getting married next month to your ex-husband.
+- [00:25:59,960 - 00:26:01,960] Describe it all.
+- [00:26:01,960 - 00:26:03,960] Don't miss any of the events of your life.
+- [00:26:03,960 - 00:26:05,960] Capture the joy of your victories as
+- [00:26:05,960 - 00:26:07,960] well as the agony of your defeats.
+- [00:26:07,960 - 00:26:10,960] And remember, it doesn't have to be
+- [00:26:10,960 - 00:26:13,960] a monumental occurrence to be worth capturing.
+- [00:26:13,960 - 00:26:14,960] Truly, most human lives are full of ups and downs.
+- [00:26:15,960 - 00:26:17,960] And we all know that.
+- [00:26:17,960 - 00:26:19,460] But the most important part of our
+- [00:26:19,460 - 00:26:20,960] lives consists of and evolve around minor happenings.
+- [00:26:20,960 - 00:26:23,960] So even a minor event and your response to it
+- [00:26:23,960 - 00:26:26,960] can have a major impact on how your life turns out.
+- [00:26:26,960 - 00:26:28,960] You see, part of the human
+- [00:26:28,960 - 00:26:30,960] experience, perhaps the most important part,
+- [00:26:30,960 - 00:26:32,960] lies in learning to translate these
+- [00:26:32,960 - 00:26:34,960] events which occur outside of us
+- [00:26:34,960 - 00:26:39,960] into words and emotions within our inner worlds.
+- [00:26:39,960 - 00:26:41,960] The better we become at
+- [00:26:41,960 - 00:26:43,960] describing what goes on around us,
+- [00:26:43,960 - 00:26:44,460] the better we will be able
+- [00:26:44,460 - 00:26:44,960] to understand what is happening around us.
+- [00:26:45,960 - 00:26:48,460] And we will be able to understand some of
+- [00:26:48,460 - 00:26:50,960] the conflicts and turmoils which take place within us.
+- [00:26:50,960 - 00:26:53,960] Cause and effect always go hand in hand.
+- [00:26:53,960 - 00:26:56,460] Trying to understand or deal with the
+- [00:26:56,460 - 00:26:58,960] effects without a clear picture of the cause
+- [00:26:58,960 - 00:27:01,960] is a rather hopeless situation to be in.
+- [00:27:01,960 - 00:27:05,460] Remember that all human emotions are effects which
+- [00:27:05,460 - 00:27:08,960] can be traced back to particular events or causes.
+- [00:27:08,960 - 00:27:11,460] A better understanding of events will
+- [00:27:11,460 - 00:27:13,960] always give us a clearer picture
+- [00:27:13,960 - 00:27:15,960] of the effects we may be experiencing.
+- [00:27:15,960 - 00:27:18,960] Also on the subject of events and feelings,
+- [00:27:18,960 - 00:27:20,960] you will find as you begin to open
+- [00:27:20,960 - 00:27:22,960] up and really tell it like it is,
+- [00:27:22,960 - 00:27:26,960] that your journal becomes an excellent, empathetic friend.
+- [00:27:26,960 - 00:27:30,960] One who will listen to all you have to say
+- [00:27:30,960 - 00:27:34,960] about your joys, your pain, your fears, or your concerns.
+- [00:27:34,960 - 00:27:37,460] And I would strongly urge you to get these
+- [00:27:37,460 - 00:27:39,960] emotions out of your head and onto the page.
+- [00:27:39,960 - 00:27:43,960] For powerful negative emotions are diminished by writing,
+- [00:27:43,960 - 00:27:44,960] and powerful positive emotions are diminished by reading.
+- [00:27:45,960 - 00:27:48,960] And the more powerful positive emotions become explosive.
+- [00:27:48,960 - 00:27:52,960] You see, writing about your fear reduces its strength.
+- [00:27:52,960 - 00:27:56,960] And capturing your excitement magnifies its power.
+- [00:27:56,960 - 00:27:59,960] And feel free to...
+- [00:27:59,960 - 00:28:01,460] There is only one suggestion I would
+- [00:28:01,460 - 00:28:02,960] offer concerning the format of your journal,
+- [00:28:02,960 - 00:28:04,960] and that is to record the
+- [00:28:04,960 - 00:28:06,960] date, time, and location of each entry.
+- [00:28:06,960 - 00:28:08,960] Not only will this provide you
+- [00:28:08,960 - 00:28:10,960] with a means of measuring your progress,
+- [00:28:10,960 - 00:28:14,960] your growth trends, the different phases of your life,
+- [00:28:14,960 - 00:28:16,960] and your changing attitudes,
+- [00:28:16,960 - 00:28:19,960] but where and when you write
+- [00:28:19,960 - 00:28:22,960] can in themselves provide interesting revelations.
+- [00:28:22,960 - 00:28:26,460] A man wrote to me several months ago to
+- [00:28:26,460 - 00:28:29,960] share such a discovery he made from his journals.
+- [00:28:29,960 - 00:28:31,460] It seems that in reviewing
+- [00:28:31,460 - 00:28:32,960] his writings of the past year,
+- [00:28:32,960 - 00:28:36,960] he had noticed a definite negative pattern emerging.
+- [00:28:36,960 - 00:28:39,460] Every entry on a Wednesday afternoon
+- [00:28:39,460 - 00:28:41,960] or evening outlined thoughts of self-doubt,
+- [00:28:41,960 - 00:28:43,460] discouragement, and uncertainty about the
+- [00:28:43,460 - 00:28:44,960] direction you are heading in.
+- [00:28:44,960 - 00:28:47,960] It did not take long for him to
+- [00:28:47,960 - 00:28:50,960] track down the source of those defeating thoughts.
+- [00:28:50,960 - 00:28:53,960] Wednesday was the day when he had lunch
+- [00:28:53,960 - 00:28:56,960] with two colleagues from his former place of employment.
+- [00:28:56,960 - 00:29:00,960] To test the validity of his theory,
+- [00:29:00,960 - 00:29:03,460] he flipped back to the Wednesdays when,
+- [00:29:03,460 - 00:29:05,960] due to illness, vacations, or business matters,
+- [00:29:05,960 - 00:29:08,960] the luncheons had not taken place, and sure enough,
+- [00:29:08,960 - 00:29:12,960] there were no negative entries on those particular days.
+- [00:29:12,960 - 00:29:14,960] Having read the journal,
+- [00:29:14,960 - 00:29:17,960] having reached the conclusion that these luncheons were costing
+- [00:29:17,960 - 00:29:20,960] him far more than the price of the meal,
+- [00:29:20,960 - 00:29:23,960] it did not take him long to
+- [00:29:23,960 - 00:29:26,960] take the necessary steps to solve the dilemma.
+- [00:29:26,960 - 00:29:29,960] Others have discovered such interesting tendencies as
+- [00:29:29,960 - 00:29:32,960] writing about personal concerns while at the office
+- [00:29:32,960 - 00:29:34,960] and business matters at home,
+- [00:29:34,960 - 00:29:37,460] or feeling particularly inspired and eager before
+- [00:29:37,460 - 00:29:39,960] leaving for the office in the morning
+- [00:29:39,960 - 00:29:44,960] and completely exhausted and enervated by 10 a.m.
+- [00:29:44,960 - 00:29:47,960] Remember, everything affects everything else.
+- [00:29:47,960 - 00:29:49,960] Your environment, your associations,
+- [00:29:49,960 - 00:29:51,960] your family, your friends,
+- [00:29:51,960 - 00:29:54,960] even your occupation has an effect on you.
+- [00:29:54,960 - 00:29:57,460] So, too, do the books you
+- [00:29:57,460 - 00:29:59,960] read, the television programs you watch,
+- [00:29:59,960 - 00:30:01,960] and the conversation you engage in.
+- [00:30:01,960 - 00:30:04,960] But influencers are often very subtle,
+- [00:30:04,960 - 00:30:07,460] making it difficult to detect the effect
+- [00:30:07,460 - 00:30:09,960] they are having until the damage is done.
+- [00:30:09,960 - 00:30:11,960] Like tiny little holes in a tire
+- [00:30:11,960 - 00:30:13,960] which can go undetected for hundreds of miles,
+- [00:30:13,960 - 00:30:18,960] the little pinpricks of subtle negative influences
+- [00:30:18,960 - 00:30:23,960] will eventually leave you just as deflated after a while.
+- [00:30:23,960 - 00:30:26,960] Your journal then becomes like a
+- [00:30:26,960 - 00:30:29,960] photograph album, capturing moments in your life.
+- [00:30:29,960 - 00:30:32,960] The only difference is that a photograph album,
+- [00:30:32,960 - 00:30:35,460] kept for many years, reveals physical
+- [00:30:35,460 - 00:30:37,960] changes in yourself and your environment,
+- [00:30:37,960 - 00:30:40,460] while journals over a period of
+- [00:30:40,460 - 00:30:42,960] time reflect mental changes within yourself
+- [00:30:42,960 - 00:30:45,960] and about your environment.
+- [00:30:45,960 - 00:30:48,960] But perhaps the most important function your
+- [00:30:48,960 - 00:30:51,960] journal performs lies in the area of communications.
+- [00:30:51,960 - 00:30:53,960] First and foremost, your journal gives
+- [00:30:53,960 - 00:30:55,960] you a chance to talk to yourself
+- [00:30:55,960 - 00:30:59,460] and to hear what you are saying about
+- [00:30:59,460 - 00:31:02,960] your life, your future, your relationships, and your goals.
+- [00:31:02,960 - 00:31:04,460] As you begin to develop the
+- [00:31:04,460 - 00:31:05,960] habit of writing down your problems,
+- [00:31:05,960 - 00:31:08,460] recording your observations, emotions,
+- [00:31:08,460 - 00:31:10,960] and reactions to life's events,
+- [00:31:10,960 - 00:31:13,960] you will undoubtedly find yourself both posing and
+- [00:31:13,960 - 00:31:16,960] responding to a whole new set of questions
+- [00:31:16,960 - 00:31:19,960] about your past, present, and future.
+- [00:31:19,960 - 00:31:22,460] Why did I say that? Why does
+- [00:31:22,460 - 00:31:24,960] he always make me feel that way?
+- [00:31:24,960 - 00:31:27,460] If I follow this course, where
+- [00:31:27,460 - 00:31:29,960] will I be five years from now?
+- [00:31:29,960 - 00:31:31,960] As you begin to both
+- [00:31:31,960 - 00:31:33,960] ask and answer yourself on paper,
+- [00:31:33,960 - 00:31:36,960] you will be amazed at the
+- [00:31:36,960 - 00:31:39,960] incredible leaps in personal understanding and self-awareness
+- [00:31:39,960 - 00:31:41,960] you will experience.
+- [00:31:41,960 - 00:31:45,960] And remember, any positive change which occurs within you
+- [00:31:45,960 - 00:31:48,460] will ultimately manifest itself in
+- [00:31:48,460 - 00:31:50,960] a positive result outside of you,
+- [00:31:50,960 - 00:31:52,960] in your social or professional
+- [00:31:52,960 - 00:31:54,960] world, your attitude, your bank account,
+- [00:31:54,960 - 00:31:58,960] your habits, and even your appearance.
+- [00:31:58,960 - 00:32:01,960] We stand forever exposed to life and to
+- [00:32:01,960 - 00:32:04,960] the endless variations that make up the human drama.
+- [00:32:04,960 - 00:32:07,960] Our task as human beings is twofold.
+- [00:32:07,960 - 00:32:09,960] First, we must effectively translate
+- [00:32:09,960 - 00:32:11,960] what is going on around
+- [00:32:11,960 - 00:32:13,960] us into terms we can comprehend.
+- [00:32:13,960 - 00:32:15,960] And second, we must effectively express
+- [00:32:15,960 - 00:32:17,960] what is going on within us
+- [00:32:17,960 - 00:32:21,960] into terms the rest of the world can understand.
+- [00:32:21,960 - 00:32:24,460] Despite the major technological advances
+- [00:32:24,460 - 00:32:26,960] enabling us to communicate globally
+- [00:32:26,960 - 00:32:29,960] and perhaps even extraterrestrially,
+- [00:32:29,960 - 00:32:32,460] I would suggest that while our
+- [00:32:32,460 - 00:32:34,960] means of communication has greatly improved,
+- [00:32:34,960 - 00:32:36,960] we are still living in the dark ages
+- [00:32:36,960 - 00:32:38,960] when it comes to saying what we mean,
+- [00:32:38,960 - 00:32:43,960] and understanding the meaning of what is being said.
+- [00:32:43,960 - 00:32:46,960] As William James wisely observed,
+- [00:32:46,960 - 00:32:49,960] the most immutable barrier in nature
+- [00:32:49,960 - 00:32:52,960] is between one man's thoughts and another's.
+- [00:32:52,960 - 00:32:55,960] As much as we live together, work
+- [00:32:55,960 - 00:32:58,960] together, try together, grow together, discover together,
+- [00:32:58,960 - 00:33:01,960] explore together, and even pray together,
+- [00:33:01,960 - 00:33:04,960] man is truly an island unto himself,
+- [00:33:04,960 - 00:33:06,460] cut off from other human islands
+- [00:33:06,460 - 00:33:07,960] by the deep channel of nature.
+- [00:33:08,960 - 00:33:10,960] But the world is still a place of non-communication.
+- [00:33:10,960 - 00:33:12,960] Writing in your journal is one
+- [00:33:12,960 - 00:33:14,960] of the best ways I know of
+- [00:33:14,960 - 00:33:17,960] to develop more effective communication skills.
+- [00:33:17,960 - 00:33:21,960] As you become better at describing life to yourself,
+- [00:33:21,960 - 00:33:24,460] you will find that you become
+- [00:33:24,460 - 00:33:26,960] better at describing yourself to life.
+- [00:33:26,960 - 00:33:28,960] Put into more practical terms,
+- [00:33:28,960 - 00:33:31,960] as you become better at saying what you really want
+- [00:33:31,960 - 00:33:34,960] and how you really feel to yourself,
+- [00:33:34,960 - 00:33:37,960] you will be able to better express yourself
+- [00:33:37,960 - 00:33:39,960] and your feelings to others,
+- [00:33:39,960 - 00:33:41,960] and in return,
+- [00:33:41,960 - 00:33:44,960] better able to understand what others are really feeling
+- [00:33:44,960 - 00:33:47,960] and really saying to you.
+- [00:33:47,960 - 00:33:51,960] You see, communicating with people our own age
+- [00:33:51,960 - 00:33:54,960] or who have similar educational backgrounds,
+- [00:33:54,960 - 00:33:57,960] incomes, professions, or beliefs
+- [00:33:57,960 - 00:34:00,960] is a relatively easy process.
+- [00:34:00,960 - 00:34:02,960] But what about the two people
+- [00:34:02,960 - 00:34:04,960] who are, to all outward appearances,
+- [00:34:04,960 - 00:34:06,960] radically different?
+- [00:34:06,960 - 00:34:09,960] A teenager and a 40-year-old father,
+- [00:34:09,960 - 00:34:12,960] a high school dropout and a college professor,
+- [00:34:12,960 - 00:34:16,960] a successful lawyer and an unemployed auto worker.
+- [00:34:16,960 - 00:34:19,960] Now the real challenges of
+- [00:34:19,960 - 00:34:22,960] communication begin to manifest themselves.
+- [00:34:22,960 - 00:34:24,960] But they are challenges that using
+- [00:34:24,960 - 00:34:26,960] a journal can help us overcome.
+- [00:34:26,960 - 00:34:29,960] You see, regardless of the differences in our outer worlds,
+- [00:34:29,960 - 00:34:33,960] inside human beings are all basically alike.
+- [00:34:33,960 - 00:34:35,960] We've all known sorrow,
+- [00:34:35,960 - 00:34:37,960] maybe not from the same event,
+- [00:34:37,960 - 00:34:39,960] but we've all experienced the emotion.
+- [00:34:39,960 - 00:34:42,960] We've all known the joy of achievement,
+- [00:34:42,960 - 00:34:44,960] perhaps in different circumstances,
+- [00:34:44,960 - 00:34:46,960] but certainly the same feeling.
+- [00:34:46,960 - 00:34:48,960] Regardless of our outward differences,
+- [00:34:48,960 - 00:34:51,960] those basic human needs and emotions
+- [00:34:51,960 - 00:34:53,960] will always provide a common ground
+- [00:34:53,960 - 00:34:57,960] or build a bridge for effective human communications.
+- [00:34:57,960 - 00:35:00,960] You see, by the time we have reached adulthood,
+- [00:35:00,960 - 00:35:02,960] most of us have experienced almost
+- [00:35:02,960 - 00:35:04,960] every aspect of the human drama,
+- [00:35:04,960 - 00:35:06,960] in one form or another.
+- [00:35:06,960 - 00:35:09,460] The problem is that most of the
+- [00:35:09,460 - 00:35:11,960] experiences have gone right on by us.
+- [00:35:11,960 - 00:35:15,960] We have never taken the time to capture them,
+- [00:35:15,960 - 00:35:16,960] to ponder them,
+- [00:35:16,960 - 00:35:19,960] to analyze how we felt at that time,
+- [00:35:19,960 - 00:35:21,460] how we responded to others
+- [00:35:21,460 - 00:35:22,960] while we were in those circumstances,
+- [00:35:22,960 - 00:35:25,460] or what our priorities and needs
+- [00:35:25,460 - 00:35:27,960] were during that period in our lives.
+- [00:35:27,960 - 00:35:30,960] Suppose, however,
+- [00:35:30,960 - 00:35:32,460] that you took the time to capture
+- [00:35:32,460 - 00:35:33,960] the events and happenings of your life,
+- [00:35:33,960 - 00:35:36,960] on purpose, with paper and pen,
+- [00:35:36,960 - 00:35:39,460] so that you always had a
+- [00:35:39,460 - 00:35:41,960] wealth of experiences from which to draw.
+- [00:35:41,960 - 00:35:44,460] Imagine now what an incredible impact
+- [00:35:44,460 - 00:35:46,960] this awareness could have on your life,
+- [00:35:46,960 - 00:35:48,460] how it could help to bridge
+- [00:35:48,460 - 00:35:49,960] the gap between you and your children,
+- [00:35:49,960 - 00:35:53,960] your clients, your associates, your neighbors.
+- [00:35:53,960 - 00:35:55,960] You see, if you will but take the
+- [00:35:55,960 - 00:35:57,960] time to capture how it is for you
+- [00:35:57,960 - 00:36:00,960] at any given point in your life,
+- [00:36:00,960 - 00:36:02,960] then you will always be in a position to relate
+- [00:36:02,960 - 00:36:05,460] to how it might be for someone
+- [00:36:05,460 - 00:36:07,960] else at this moment in their lives.
+- [00:36:07,960 - 00:36:09,960] The situations might be different,
+- [00:36:09,960 - 00:36:12,960] but the basic needs and emotions never are.
+- [00:36:12,960 - 00:36:14,960] We don't have to dress alike
+- [00:36:14,960 - 00:36:16,960] or go to the same schools
+- [00:36:16,960 - 00:36:18,960] or be the same age or
+- [00:36:18,960 - 00:36:20,960] sex to feel the same way.
+- [00:36:20,960 - 00:36:23,960] Use your journal then as a textbook for life.
+- [00:36:23,960 - 00:36:27,960] Use it to capture the full range of human emotions
+- [00:36:27,960 - 00:36:30,960] that you continuously gather from your experiences.
+- [00:36:30,960 - 00:36:32,960] I promise you that it is a great way
+- [00:36:32,960 - 00:36:34,960] if you will take just a
+- [00:36:34,960 - 00:36:36,960] little time to capture your experiences.
+- [00:36:36,960 - 00:36:39,460] The end result will more than
+- [00:36:39,460 - 00:36:41,960] repay you for the time you invest.
+- [00:36:41,960 - 00:36:43,960] Now here's another question frequently
+- [00:36:43,960 - 00:36:45,960] posed about using a journal.
+- [00:36:45,960 - 00:36:49,960] The question is, how often should I be writing?
+- [00:36:49,960 - 00:36:51,460] The answer to that is
+- [00:36:51,460 - 00:36:52,960] simple, as often as you wish
+- [00:36:52,960 - 00:36:55,960] and as often as you need.
+- [00:36:55,960 - 00:36:57,460] There are two extremes to
+- [00:36:57,460 - 00:36:58,960] avoid, never writing in your journal
+- [00:36:58,960 - 00:37:00,960] and constantly writing in your journal.
+- [00:37:00,960 - 00:37:01,960] In the first instance, you
+- [00:37:01,960 - 00:37:02,960] will be particularly interested in writing,
+- [00:37:02,960 - 00:37:04,960] participating in life without capturing it,
+- [00:37:04,960 - 00:37:06,960] and in the latter case, you will
+- [00:37:06,960 - 00:37:08,960] be capturing life without participating in it.
+- [00:37:08,960 - 00:37:12,460] Life should be a delicate
+- [00:37:12,460 - 00:37:15,960] blend of both observation and action.
+- [00:37:15,960 - 00:37:18,460] And let me stress again that the first
+- [00:37:18,460 - 00:37:20,960] discipline to be mastered in using a journal
+- [00:37:20,960 - 00:37:22,960] is to develop the habit
+- [00:37:22,960 - 00:37:24,960] of always having it with you.
+- [00:37:24,960 - 00:37:26,460] If you do not open it
+- [00:37:26,460 - 00:37:27,960] for weeks at a time, that's okay.
+- [00:37:27,960 - 00:37:30,960] Just get into the habit of carrying it.
+- [00:37:30,960 - 00:37:32,960] Without much effort on your part,
+- [00:37:32,960 - 00:37:34,960] plenty of opportunities for putting
+- [00:37:34,960 - 00:37:36,960] it to use will present themselves.
+- [00:37:36,960 - 00:37:38,460] Also, the simple act of carrying
+- [00:37:38,460 - 00:37:39,960] your journal speaks to the world.
+- [00:37:39,960 - 00:37:42,960] It says, I am a conscious
+- [00:37:42,960 - 00:37:45,960] observer and participant in life's events.
+- [00:37:45,960 - 00:37:48,960] When you present yourself to life as a serious student,
+- [00:37:48,960 - 00:37:50,960] life will respond by providing
+- [00:37:50,960 - 00:37:52,960] you with an endless opportunity
+- [00:37:52,960 - 00:37:56,460] to learn and grow and develop and
+- [00:37:56,460 - 00:37:59,960] enhance any and all aspects of your life.
+- [00:37:59,960 - 00:38:02,960] Remember, no tape program, no book, no seminar,
+- [00:38:02,960 - 00:38:05,460] and no encouragement from me can help you
+- [00:38:05,460 - 00:38:07,960] to develop the discipline to use your journal.
+- [00:38:07,960 - 00:38:09,960] Experience has taught me that the
+- [00:38:09,960 - 00:38:11,960] most I can hope to do
+- [00:38:11,960 - 00:38:14,960] is trigger your interest and enthusiasm.
+- [00:38:14,960 - 00:38:17,460] Recently, I had the chance to address a
+- [00:38:17,460 - 00:38:19,960] group I had spoken to several months before.
+- [00:38:19,960 - 00:38:21,960] The last time I had been with them,
+- [00:38:21,960 - 00:38:24,460] I had given one of my all-time best
+- [00:38:24,460 - 00:38:26,960] speeches on the importance of thinking on paper,
+- [00:38:26,960 - 00:38:30,960] with a particular emphasis on using a journal.
+- [00:38:30,960 - 00:38:32,960] They were an enthusiastic group.
+- [00:38:32,960 - 00:38:34,460] And it appeared from the many letters
+- [00:38:34,460 - 00:38:35,960] and cards that flowed in after my speech
+- [00:38:35,960 - 00:38:38,960] that my ideas had been particularly well received.
+- [00:38:38,960 - 00:38:42,960] However, just after I was introduced the second time,
+- [00:38:42,960 - 00:38:44,960] I asked the group one question,
+- [00:38:44,960 - 00:38:48,960] how many of you are now using a journal?
+- [00:38:48,960 - 00:38:50,960] I am sad to report that
+- [00:38:50,960 - 00:38:52,960] out of a group of almost 500,
+- [00:38:52,960 - 00:38:55,960] only a few hands were raised.
+- [00:38:55,960 - 00:38:58,960] The rest of the audience exchanged sheepish glances,
+- [00:38:58,960 - 00:38:59,960] and I was the only
+- [00:38:59,960 - 00:39:00,960] one who was able to answer.
+- [00:39:00,960 - 00:39:02,960] I was the only one who was able to answer.
+- [00:39:02,960 - 00:39:03,960] I was the only one who was able to answer.
+- [00:39:03,960 - 00:39:04,960] I was the only one who was able to answer.
+- [00:39:04,960 - 00:39:05,960] Much as you might give
+- [00:39:05,960 - 00:39:06,960] your doctor when he asks you
+- [00:39:06,960 - 00:39:08,960] if you have cut down on smoking.
+- [00:39:10,960 - 00:39:12,960] The mysterious workings of the human
+- [00:39:12,960 - 00:39:14,960] mind never cease to amaze me.
+- [00:39:14,960 - 00:39:16,960] We all know what is good for us.
+- [00:39:16,960 - 00:39:18,960] We all know that it will
+- [00:39:18,960 - 00:39:20,960] keep us healthy or happy or prosperous,
+- [00:39:20,960 - 00:39:23,460] but somehow, we fool ourselves
+- [00:39:23,460 - 00:39:25,960] into believing that we'll start tomorrow.
+- [00:39:25,960 - 00:39:28,960] Tomorrow, I will buy that book and read it.
+- [00:39:28,960 - 00:39:31,960] Tomorrow, I will go on that exercise program.
+- [00:39:32,960 - 00:39:36,960] Tomorrow, I will speak to John about that problem.
+- [00:39:36,960 - 00:39:38,960] Some people will actually listen to this tape,
+- [00:39:38,960 - 00:39:40,960] agree that keeping a journal
+- [00:39:40,960 - 00:39:42,960] could indeed change their lives dramatically,
+- [00:39:42,960 - 00:39:47,960] and yet never get around to writing the first page.
+- [00:39:47,960 - 00:39:50,960] But, don't let that be you.
+- [00:39:50,960 - 00:39:52,960] I assure you that by the time
+- [00:39:52,960 - 00:39:54,960] you have finished listening to this program,
+- [00:39:54,960 - 00:39:57,460] the only thing that will stand
+- [00:39:57,460 - 00:39:59,960] between your intent and your accomplishment
+- [00:39:59,960 - 00:40:02,960] will be your ability to discipline yourself,
+- [00:40:02,960 - 00:40:04,960] to get started.
+- [00:40:04,960 - 00:40:06,960] And believe me, once you get started,
+- [00:40:06,960 - 00:40:08,960] once you make the effort to begin,
+- [00:40:08,960 - 00:40:10,960] once you develop the journal habit,
+- [00:40:10,960 - 00:40:13,460] you'll be giving your own lectures
+- [00:40:13,460 - 00:40:15,960] to friends and associates about its rewards.
+- [00:40:15,960 - 00:40:17,960] In the final analysis,
+- [00:40:17,960 - 00:40:19,960] whether you decide to start
+- [00:40:19,960 - 00:40:21,960] a journal, and still more important,
+- [00:40:21,960 - 00:40:24,960] whether you exercise the discipline to use it,
+- [00:40:24,960 - 00:40:28,960] the decision and the action must come from inside you.
+- [00:40:28,960 - 00:40:30,960] No wise counsel from any source
+- [00:40:30,960 - 00:40:33,960] will ever replace the intensity that comes from a person.
+- [00:40:33,960 - 00:40:35,960] If you find you are still
+- [00:40:35,960 - 00:40:37,960] having difficulty getting anything on paper,
+- [00:40:37,960 - 00:40:40,960] one of the first entries you might consider making
+- [00:40:40,960 - 00:40:42,960] is an explanation of why you
+- [00:40:42,960 - 00:40:44,960] bought the journal in the first place.
+- [00:40:44,960 - 00:40:47,960] If you will but pause to consider what
+- [00:40:47,960 - 00:40:50,960] you hope to achieve by using a journal,
+- [00:40:50,960 - 00:40:54,960] then what to put into its pages will be obvious.
+- [00:40:54,960 - 00:40:56,460] If, for example, you bought
+- [00:40:56,460 - 00:40:57,960] a journal to record your feelings,
+- [00:40:57,960 - 00:40:59,960] then write about your feelings.
+- [00:40:59,960 - 00:41:02,960] If you bought it to keep track of business developments,
+- [00:41:02,960 - 00:41:04,960] then write about your meetings, your clients,
+- [00:41:04,960 - 00:41:07,460] and the ideas you have about improving
+- [00:41:07,460 - 00:41:09,960] the products or services of your company.
+- [00:41:09,960 - 00:41:11,960] A journal should be used
+- [00:41:11,960 - 00:41:13,960] in response to a specific need,
+- [00:41:13,960 - 00:41:16,960] a need to express, to analyze, to
+- [00:41:16,960 - 00:41:19,960] ponder, to explain, to record, to consider,
+- [00:41:19,960 - 00:41:21,960] or to examine some or all of
+- [00:41:21,960 - 00:41:23,960] the elements and aspects of your life.
+- [00:41:23,960 - 00:41:26,460] And remember, there is no correct
+- [00:41:26,460 - 00:41:28,960] set of procedures for keeping your journal.
+- [00:41:28,960 - 00:41:32,460] Journals are as unlimited in possibilities
+- [00:41:32,460 - 00:41:35,960] as are the individuals who use them.
+- [00:41:35,960 - 00:41:39,960] Journals and life share one unique characteristic.
+- [00:41:39,960 - 00:41:42,460] Both provide you with a
+- [00:41:42,460 - 00:41:44,960] space to fill as you wish.
+- [00:41:44,960 - 00:41:47,460] And for those who are not yet
+- [00:41:47,460 - 00:41:49,960] sure how they wish to fill life spaces,
+- [00:41:49,960 - 00:41:53,460] a journal offers you a chance to paint
+- [00:41:53,460 - 00:41:56,960] mental pictures of the limitless paths you could travel.
+- [00:41:56,960 - 00:41:57,960] In a novel, an author,
+- [00:41:58,960 - 00:42:02,960] places imaginary characters in imaginary circumstances
+- [00:42:02,960 - 00:42:05,460] and then predicts their behavior
+- [00:42:05,460 - 00:42:07,960] and responses to these events.
+- [00:42:07,960 - 00:42:09,960] So be the author of your own life.
+- [00:42:09,960 - 00:42:12,960] Create on paper a set of circumstances,
+- [00:42:12,960 - 00:42:15,960] then place you in the middle of them.
+- [00:42:15,960 - 00:42:18,960] How would you feel about doing that?
+- [00:42:18,960 - 00:42:21,960] What would it be like to live in that city?
+- [00:42:21,960 - 00:42:22,960] Being there.
+- [00:42:22,960 - 00:42:24,960] How would you feel having
+- [00:42:24,960 - 00:42:26,960] those responsibilities or those freedoms?
+- [00:42:26,960 - 00:42:27,960] Pick a direction,
+- [00:42:27,960 - 00:42:30,960] and travel with your imagination to new environments,
+- [00:42:30,960 - 00:42:31,960] to new positions,
+- [00:42:31,960 - 00:42:32,960] to new opportunities.
+- [00:42:32,960 - 00:42:35,960] Create on paper an ideal job.
+- [00:42:35,960 - 00:42:37,960] Describe an ideal relationship.
+- [00:42:37,960 - 00:42:39,960] State an ideal income.
+- [00:42:39,960 - 00:42:43,960] Outline an ideal code of personal behavior.
+- [00:42:43,960 - 00:42:46,960] Design an ideal lifestyle.
+- [00:42:46,960 - 00:42:49,960] Then take your dreams and transfer them
+- [00:42:49,960 - 00:42:52,960] into written goals with priorities and deadlines.
+- [00:42:52,960 - 00:42:54,960] List the specific steps you must
+- [00:42:54,960 - 00:42:56,960] take in order to achieve them,
+- [00:42:56,960 - 00:42:59,960] and then write out a detailed plan of action.
+- [00:42:59,960 - 00:43:02,960] Take your dreams for your mind to the page,
+- [00:43:02,960 - 00:43:04,960] and then take them from the pages of your journal,
+- [00:43:04,960 - 00:43:07,960] and make them happen in your life.
+- [00:43:07,960 - 00:43:09,960] Learn to paint these mental pictures,
+- [00:43:09,960 - 00:43:10,960] and then, like an artist,
+- [00:43:10,960 - 00:43:14,960] create something of substance on the canvas of your life,
+- [00:43:14,960 - 00:43:17,960] using all of your available resources.
+- [00:43:17,960 - 00:43:21,960] Add new color, new depths, new dimensions, new meanings,
+- [00:43:21,960 - 00:43:24,960] to where and who you currently are
+- [00:43:24,960 - 00:43:25,960] by exploring where,
+- [00:43:25,960 - 00:43:28,960] and who you still can be.
+- [00:43:28,960 - 00:43:31,460] Set yourself free and explore the
+- [00:43:31,460 - 00:43:33,960] possibilities of life with paper and pen.
+- [00:43:33,960 - 00:43:35,960] There's no risk involved.
+- [00:43:35,960 - 00:43:37,960] You cannot fail.
+- [00:43:37,960 - 00:43:39,960] Stretch yourself mentally.
+- [00:43:39,960 - 00:43:41,960] Expand your inner horizons,
+- [00:43:41,960 - 00:43:44,960] and you will find that life will respond in kind
+- [00:43:44,960 - 00:43:48,960] by presenting you with new opportunities and associations,
+- [00:43:48,960 - 00:43:51,960] new experiences from which to grow and learn,
+- [00:43:51,960 - 00:43:52,960] and new circumstances in which you
+- [00:43:52,960 - 00:43:53,960] will become more than you ever thought.
+- [00:43:53,960 - 00:43:54,460] and new circumstances in which you
+- [00:43:54,460 - 00:43:54,960] will become more than you ever thought.
+- [00:43:54,960 - 00:43:55,460] and new circumstances in which you
+- [00:43:55,460 - 00:43:55,960] will become more than you ever thought.
+- [00:43:55,960 - 00:43:57,460] and new circumstances in which you
+- [00:43:57,460 - 00:43:58,960] will become more than you ever thought.
+- [00:43:58,960 - 00:44:01,960] Remember the advice of Napoleon Hill,
+- [00:44:01,960 - 00:44:02,960] who wrote that,
+- [00:44:02,960 - 00:44:05,960] Whatever the human mind can conceive,
+- [00:44:05,960 - 00:44:08,960] and believe, it can also achieve.
+- [00:44:08,960 - 00:44:10,960] Ponder also the biblical suggestion,
+- [00:44:10,960 - 00:44:14,960] that as a man thinketh, so he becomes.
+- [00:44:14,960 - 00:44:17,960] And know without the shadow of all doubt,
+- [00:44:17,960 - 00:44:19,960] that whatever you create on the pages of your journal,
+- [00:44:19,960 - 00:44:22,960] that whatever you create on the pages of your journal,
+- [00:44:22,960 - 00:44:25,780] belief, commitment, discipline, and
+- [00:44:25,780 - 00:44:28,600] desire create in your life.
+- [00:44:28,600 - 00:44:30,940] In closing, I would like to share with
+- [00:44:30,940 - 00:44:33,280] you the following thoughts from Will and Ariel
+- [00:44:33,280 - 00:44:38,460] Durant's 100 page masterpiece, The Lessons of History.
+- [00:44:38,460 - 00:44:42,240] Civilization, they wrote, is not inherited.
+- [00:44:42,240 - 00:44:45,350] It has to be learned
+- [00:44:45,350 - 00:44:48,460] and earned by each generation anew.
+- [00:44:48,460 - 00:44:51,500] Greater education not as the painful accumulation
+- [00:44:51,500 - 00:44:54,540] of facts and dates, nor merely the necessary
+- [00:44:54,540 - 00:44:57,150] preparation of the individual to earn his
+- [00:44:57,150 - 00:44:59,760] keep in the world, but as the transmission
+- [00:44:59,760 - 00:45:02,980] of our mental, moral, technical, and aesthetic
+- [00:45:02,980 - 00:45:06,200] heritage, as fully as possible to as many
+- [00:45:06,200 - 00:45:09,450] as possible, for the enlargement
+- [00:45:09,450 - 00:45:12,700] of man's understanding, control, embellishment, and
+- [00:45:12,700 - 00:45:14,700] enjoyment of life.
+- [00:45:14,700 - 00:45:18,440] If a man is fortunate, he will, before he dies,
+- [00:45:18,440 - 00:45:22,490] gather up as much as he can of
+- [00:45:22,490 - 00:45:26,540] his civilized heritage and transmit it to his children.
+- [00:45:26,540 - 00:45:29,610] And to his final breath, he will
+- [00:45:29,610 - 00:45:32,680] be grateful for this inexhaustible legacy, knowing that
+- [00:45:32,680 - 00:45:39,220] it is our nourishing mother and our lasting life.
+- [00:45:39,220 - 00:45:41,890] Gather up all you can, the hopes,
+- [00:45:41,890 - 00:45:44,560] the sorrows, the lessons, the friendships, the achievements,
+- [00:45:44,560 - 00:45:46,520] and the disappointments.
+- [00:45:46,520 - 00:45:47,520] Gather it all.
+- [00:45:47,520 - 00:45:50,300] Let it may teach you and in turn
+- [00:45:50,300 - 00:45:53,080] that the lessons you have learned may perhaps become
+- [00:45:53,080 - 00:45:56,820] part of the legacy that you leave behind
+- [00:45:56,820 - 00:46:00,560] for your children and indeed the world at large.
+- [00:46:00,560 - 00:46:03,290] Let your journals capture your personal history and
+- [00:46:03,290 - 00:46:06,020] in doing so, they add to the history of
+- [00:46:06,020 - 00:46:09,920] all mankind and to our collective heritage.
+- [00:46:09,920 - 00:46:13,650] Truly, the most valuable treasure anyone can
+- [00:46:13,650 - 00:46:17,380] leave behind is the knowledge they have
+- [00:46:17,380 - 00:46:21,100] acquired in their one lifetime it has been
+- [00:46:21,100 - 00:46:24,820] suggested that what we are a unique creation
+- [00:46:24,820 - 00:46:28,300] of unlimited possibilities and potential is god's gift to
+- [00:46:28,300 - 00:46:31,780] us and that what we do with all that we
+- [00:46:31,780 - 00:46:35,580] are the works we do the lives we enrich and
+- [00:46:35,580 - 00:46:39,380] the contributions we make are our gifts to god may
+- [00:46:39,380 - 00:46:42,660] your life be devoted to becoming all that you
+- [00:46:42,660 - 00:46:45,940] can become and may your journals capture every moment
+- [00:46:45,940 - 00:46:46,740] of the adventure
+- [00:46:50,740 - 00:46:53,740] thank you for listening to how to use a
+- [00:46:53,740 - 00:46:56,740] journal with jim rohn to receive more information on jim
+- [00:46:56,740 - 00:47:01,820] rohn's speaking schedule and products please visit
+- [00:47:01,820 - 00:47:06,900] his website at www.jimrohn.com and also subscribe
+- [00:47:06,900 - 00:47:11,380] to receive free the weekly jim rohn e-zine
+- [00:47:11,380 - 00:47:15,860] newsletter or you can call jim's office at 800-929-0434
+- [00:47:15,940 - 00:47:18,580] if calling from the dallas fort worth area or
