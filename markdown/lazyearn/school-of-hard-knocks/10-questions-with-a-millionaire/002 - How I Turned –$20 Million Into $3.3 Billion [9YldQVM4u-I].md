@@ -1,0 +1,676 @@
+# Transcript
+
+Source: lazyearn/school-of-hard-knocks/hard-knocks-interviews/042 - How I Turned –$20 Million Into $3.3 Billion [9YldQVM4u-I].webm
+
+- [00:00:00,000 - 00:00:01,540] A couple weeks ago, I
+- [00:00:01,540 - 00:00:03,080] interviewed a billionaire in Beverly Hills.
+- [00:00:03,640 - 00:00:04,440] Excuse me, sir.
+- [00:00:05,060 - 00:00:05,960] Question for you.
+- [00:00:06,220 - 00:00:08,160] How old were you when you became a millionaire?
+- [00:00:08,440 - 00:00:09,260] You have to ask a millionaire.
+- [00:00:09,560 - 00:00:09,880] What do you mean?
+- [00:00:10,180 - 00:00:10,700] I'm a billionaire.
+- [00:00:11,060 - 00:00:11,720] You're a billionaire?
+- [00:00:12,020 - 00:00:12,220] Yeah.
+- [00:00:12,420 - 00:00:14,000] How old were you when you became a billionaire?
+- [00:00:14,260 - 00:00:15,640] Oh, in my 50s.
+- [00:00:15,760 - 00:00:16,460] In your 50s?
+- [00:00:16,460 - 00:00:16,640] Yeah.
+- [00:00:16,940 - 00:00:18,040] And what line of business were you in?
+- [00:00:18,200 - 00:00:19,280] The hospitality business.
+- [00:00:19,480 - 00:00:20,380] What were you doing in hospitality?
+- [00:00:20,680 - 00:00:21,480] I owned hotels.
+- [00:00:21,820 - 00:00:23,460] Yeah, all over the world, 35 countries.
+- [00:00:23,540 - 00:00:24,340] So you're a business owner.
+- [00:00:24,560 - 00:00:25,600] I was, I was.
+- [00:00:25,780 - 00:00:26,980] Hilton owns my company today.
+- [00:00:27,140 - 00:00:27,880] Hilton bought your company?
+- [00:00:28,080 - 00:00:28,960] Hilton bought my company.
+- [00:00:29,040 - 00:00:29,400] Wow.
+- [00:00:29,400 - 00:00:30,180] Eventually, yeah.
+- [00:00:30,279 - 00:00:33,069] I actually created a company that was
+- [00:00:33,069 - 00:00:35,860] worth $2.2 billion, $3.3 billion equity value.
+- [00:00:35,980 - 00:00:36,400] Actually?
+- [00:00:36,480 - 00:00:37,800] Actually, enterprise value, yeah.
+- [00:00:37,879 - 00:00:38,080] Wow.
+- [00:00:38,180 - 00:00:41,500] That video got over 100 million views across social media.
+- [00:00:41,620 - 00:00:44,249] And like he said, he became a billionaire by
+- [00:00:44,249 - 00:00:46,879] selling his company to Hilton for several billion dollars.
+- [00:00:47,040 - 00:00:49,770] So I just flew out here to Beverly Hills to come
+- [00:00:49,770 - 00:00:52,500] meet up with and interview the legend once again at his house.
+- [00:00:52,560 - 00:00:53,700] That's Steven Klubeck.
+- [00:00:53,700 - 00:00:56,010] And I flew out here to get the secrets from
+- [00:00:56,010 - 00:00:58,320] him on how somebody can become a billionaire in today's world
+- [00:00:58,320 - 00:00:59,160] and become successful.
+- [00:00:59,160 - 00:00:59,959] Just like him.
+- [00:01:00,040 - 00:01:01,279] So let's waste no more time.
+- [00:01:01,400 - 00:01:02,280] Let's go meet up with Steven and
+- [00:01:02,280 - 00:01:03,160] go see what he has to say.
+- [00:01:03,220 - 00:01:03,500] Come on.
+- [00:01:12,140 - 00:01:12,780] All right, you guys.
+- [00:01:12,840 - 00:01:13,970] So we just got to Steven's
+- [00:01:13,970 - 00:01:15,100] house out here in Beverly Hills.
+- [00:01:15,259 - 00:01:17,099] We're going to go link up with him and go get not
+- [00:01:17,099 - 00:01:18,940] a million, but a billion dollars worth of game from you guys,
+- [00:01:19,000 - 00:01:21,080] from an absolute legend out here in Beverly Hills.
+- [00:01:21,179 - 00:01:21,679] Come on, you guys.
+- [00:01:21,820 - 00:01:22,179] What's up, guys?
+- [00:01:22,340 - 00:01:22,820] What's going on, man?
+- [00:01:22,840 - 00:01:23,179] How you doing?
+- [00:01:23,280 - 00:01:23,699] How you doing?
+- [00:01:23,800 - 00:01:25,140] Yeah, we're doing a video with Steven.
+- [00:01:25,420 - 00:01:25,600] Yeah.
+- [00:01:25,740 - 00:01:27,000] You guys have your...
+- [00:01:27,000 - 00:01:27,259] IDs?
+- [00:01:27,600 - 00:01:27,759] Yeah.
+- [00:01:27,900 - 00:01:28,420] IDs, please.
+- [00:01:28,539 - 00:01:29,000] Yeah, I got you.
+- [00:01:29,160 - 00:01:31,679] Are you from...
+- [00:01:31,679 - 00:01:34,220] There they are.
+- [00:01:34,619 - 00:01:34,940] Wow.
+- [00:01:35,660 - 00:01:36,160] How you doing?
+- [00:01:36,220 - 00:01:37,060] It's great to see you.
+- [00:01:37,100 - 00:01:38,520] The star of stars.
+- [00:01:38,740 - 00:01:39,500] Great to see you.
+- [00:01:39,500 - 00:01:39,679] What's going on?
+- [00:01:39,840 - 00:01:41,570] You know, the last time I saw
+- [00:01:41,570 - 00:01:43,300] you, we did over 100 million views online.
+- [00:01:43,440 - 00:01:44,140] You're a rock star.
+- [00:01:44,360 - 00:01:44,460] I appreciate it.
+- [00:01:44,460 - 00:01:46,550] What you have going and what you're
+- [00:01:46,550 - 00:01:48,640] creating for young entrepreneurs is so special.
+- [00:01:48,840 - 00:01:50,620] I'm telling you, I've never seen anything like it.
+- [00:01:50,660 - 00:01:52,660] You've got magic and everyone should pay attention.
+- [00:01:52,740 - 00:01:53,990] Like I said, our last
+- [00:01:53,990 - 00:01:55,240] video did over 100 million views.
+- [00:01:55,340 - 00:01:56,960] I can't believe we did over 100 million views.
+- [00:01:57,039 - 00:01:57,520] And you know what?
+- [00:01:57,580 - 00:01:58,080] It's all real.
+- [00:01:58,080 - 00:01:59,100] You are 100%.
+- [00:01:59,160 - 00:02:00,179] Unscripted and real.
+- [00:02:00,280 - 00:02:02,600] If anyone says anything else, they don't understand.
+- [00:02:02,840 - 00:02:04,660] It's no different when I did an undercover boss.
+- [00:02:04,840 - 00:02:05,720] Everyone's like, that's fake.
+- [00:02:05,800 - 00:02:06,640] No, that's real.
+- [00:02:06,759 - 00:02:08,160] That is totally unscripted.
+- [00:02:08,240 - 00:02:09,500] And that's the way the world should be.
+- [00:02:09,579 - 00:02:11,219] The people saw you started negative
+- [00:02:11,219 - 00:02:12,859] $20 million in the hospitality business.
+- [00:02:12,960 - 00:02:13,100] Yeah.
+- [00:02:13,200 - 00:02:13,820] Flipped it around.
+- [00:02:14,040 - 00:02:16,060] Sold a company for how much to Hilton?
+- [00:02:16,220 - 00:02:19,000] $3.3 billion equity value.
+- [00:02:19,079 - 00:02:19,700] EV, yeah.
+- [00:02:20,000 - 00:02:20,540] It was a great role.
+- [00:02:20,600 - 00:02:22,660] We fixed the most broken of companies.
+- [00:02:22,840 - 00:02:24,720] So for the people that don't know, after exiting
+- [00:02:24,720 - 00:02:26,600] your company, having a ton of success in the
+- [00:02:26,600 - 00:02:27,900] business world, what are you doing right now?
+- [00:02:27,900 - 00:02:29,019] You know, the most unthinkable.
+- [00:02:29,160 - 00:02:31,000] My whole career has been unthinkable.
+- [00:02:31,180 - 00:02:33,200] I never dreamt of the things that I've done.
+- [00:02:33,340 - 00:02:35,320] I never thought that I would help create
+- [00:02:35,320 - 00:02:37,300] the brand of the United States of America, Brand
+- [00:02:37,300 - 00:02:39,250] USA, to enhance tourism and travel
+- [00:02:39,250 - 00:02:41,200] after the lost decade of travel.
+- [00:02:41,300 - 00:02:42,940] So you ran tourism for all the United States?
+- [00:02:43,019 - 00:02:44,760] Helped create Brand USA.
+- [00:02:45,120 - 00:02:47,200] I was in charge of tourism for the United States.
+- [00:02:47,280 - 00:02:48,800] I reported to the Oval Office.
+- [00:02:49,079 - 00:02:50,180] And I kind of ruffled some feathers.
+- [00:02:50,400 - 00:02:52,200] But when I got done, the
+- [00:02:52,200 - 00:02:54,000] return on investment was so outsized.
+- [00:02:54,100 - 00:02:55,960] The president of the United States was blown away.
+- [00:02:56,019 - 00:02:57,079] Because I made everyone look good.
+- [00:02:57,079 - 00:02:58,120] No trophies for me.
+- [00:02:58,220 - 00:02:58,880] No hair gel.
+- [00:02:59,019 - 00:02:59,140] No red.
+- [00:02:59,160 - 00:02:59,660] No red carpet.
+- [00:02:59,859 - 00:03:00,649] I just roll up my
+- [00:03:00,649 - 00:03:01,440] sleeves and get the work done.
+- [00:03:01,640 - 00:03:03,640] And I want everyone to become rock stars.
+- [00:03:03,859 - 00:03:04,960] So no pride of authorship.
+- [00:03:05,200 - 00:03:06,870] I want everyone to do well
+- [00:03:06,870 - 00:03:08,540] and aspire to do great things.
+- [00:03:08,680 - 00:03:09,440] I thought I was going to be a surgeon.
+- [00:03:09,560 - 00:03:10,579] Didn't end up doing that.
+- [00:03:10,700 - 00:03:12,340] Didn't want to go to school for another 16 years.
+- [00:03:12,460 - 00:03:13,640] Ended up going into real
+- [00:03:13,640 - 00:03:14,820] estate shopping centers, then hotels.
+- [00:03:14,960 - 00:03:16,420] Done a lot of politics and
+- [00:03:16,420 - 00:03:17,880] policy along the way as an activist.
+- [00:03:18,240 - 00:03:18,740] Helping out.
+- [00:03:18,820 - 00:03:19,660] Always helping.
+- [00:03:19,820 - 00:03:20,620] Rolling up my sleeves.
+- [00:03:20,760 - 00:03:21,500] Bus point or boardroom.
+- [00:03:21,560 - 00:03:22,320] I think I told you that.
+- [00:03:22,519 - 00:03:23,800] And I just love serving.
+- [00:03:24,019 - 00:03:25,000] So it's so funny.
+- [00:03:25,000 - 00:03:27,900] When I did Undercover Boss, I never really understood.
+- [00:03:28,200 - 00:03:28,460] I really.
+- [00:03:28,620 - 00:03:29,140] I thought they were going to hurt me.
+- [00:03:29,160 - 00:03:29,720] They weren't going to hurt my brand.
+- [00:03:29,900 - 00:03:30,640] But it helped my brand.
+- [00:03:30,740 - 00:03:31,980] Because it made me a better leader.
+- [00:03:32,160 - 00:03:33,359] Because I listened to my team.
+- [00:03:33,500 - 00:03:34,480] I listened to my customers.
+- [00:03:34,760 - 00:03:36,520] And it's not what I think or you think.
+- [00:03:36,560 - 00:03:38,019] It's what the customer thinks.
+- [00:03:38,240 - 00:03:41,100] So I am now more ingrained in politics and policy.
+- [00:03:41,140 - 00:03:42,560] And I'm running for governor of California.
+- [00:03:42,640 - 00:03:43,800] I never thought I'd be doing that.
+- [00:03:43,940 - 00:03:44,920] It wasn't on my bucket list.
+- [00:03:45,040 - 00:03:46,280] Now I came out from Austin.
+- [00:03:46,440 - 00:03:48,380] Back out here to Beverly Hills for part two.
+- [00:03:48,540 - 00:03:50,780] And I want this to be a master class.
+- [00:03:50,880 - 00:03:52,300] For all the aspiring
+- [00:03:52,300 - 00:03:53,720] young entrepreneurs, professionals out there.
+- [00:03:53,760 - 00:03:55,000] On how you built your success.
+- [00:03:55,120 - 00:03:55,920] We're going to make that happen.
+- [00:03:55,980 - 00:03:56,900] I'm happy to talk to you about it.
+- [00:03:56,980 - 00:03:57,300] Absolutely.
+- [00:03:57,519 - 00:03:58,500] Let's get into some questions then.
+- [00:03:58,500 - 00:03:58,740] Good.
+- [00:03:58,840 - 00:03:59,140] Let's do it.
+- [00:03:59,180 - 00:04:00,100] You want to go sit in the other room?
+- [00:04:00,200 - 00:04:00,640] We'll chat about it.
+- [00:04:00,680 - 00:04:01,079] Let's do it.
+- [00:04:01,180 - 00:04:01,359] All right.
+- [00:04:01,400 - 00:04:01,520] Good.
+- [00:04:10,120 - 00:04:13,320] The first hotel that you had built was in 1990.
+- [00:04:13,519 - 00:04:15,440] It was the Twin Towers in Las Vegas.
+- [00:04:15,620 - 00:04:16,000] Or what was it?
+- [00:04:16,200 - 00:04:16,800] Polo Towers.
+- [00:04:16,880 - 00:04:17,620] The Polo Towers.
+- [00:04:17,880 - 00:04:19,149] Were there some challenges back then during
+- [00:04:19,149 - 00:04:20,420] the 90s that you had to deal with?
+- [00:04:20,459 - 00:04:21,399] I'd never built a hotel.
+- [00:04:21,579 - 00:04:22,500] I built shopping centers.
+- [00:04:22,719 - 00:04:24,759] And I built one shopping center,
+- [00:04:24,759 - 00:04:26,800] fortunately, that had every problem imaginable.
+- [00:04:26,920 - 00:04:28,300] My contractors went broke.
+- [00:04:28,300 - 00:04:29,140] I paid for lumber.
+- [00:04:29,200 - 00:04:29,600] I paid for twice.
+- [00:04:29,760 - 00:04:31,240] I didn't understand lien releases.
+- [00:04:31,440 - 00:04:32,640] All my tenants went broke.
+- [00:04:32,760 - 00:04:34,140] The economy was falling apart.
+- [00:04:34,360 - 00:04:35,540] And I had to build this thing myself.
+- [00:04:35,660 - 00:04:37,360] And then I found out I had to
+- [00:04:37,360 - 00:04:39,060] build a retaining wall, which is wickedly expensive.
+- [00:04:39,060 - 00:04:40,120] That was not on the plans.
+- [00:04:40,280 - 00:04:41,640] So I had to build this thing myself.
+- [00:04:41,820 - 00:04:43,190] I had to learn how to
+- [00:04:43,190 - 00:04:44,560] really build, read plans, and build.
+- [00:04:44,680 - 00:04:45,530] And I'm like, okay, I'm
+- [00:04:45,530 - 00:04:46,380] going to blow my brains out.
+- [00:04:46,480 - 00:04:47,340] And I weathered through it.
+- [00:04:47,420 - 00:04:48,740] I ended up losing the shopping center.
+- [00:04:48,840 - 00:04:49,380] I didn't go broke.
+- [00:04:49,440 - 00:04:49,980] But I lost it.
+- [00:04:50,000 - 00:04:51,600] Because everyone lost everything at that time.
+- [00:04:51,620 - 00:04:52,180] But I survived.
+- [00:04:52,340 - 00:04:55,800] But I was able to design and build a hotel.
+- [00:04:56,100 - 00:04:56,800] And I did it.
+- [00:04:56,880 - 00:04:57,980] And I was 29 years old.
+- [00:04:57,980 - 00:04:58,060] And I was able to build a hotel.
+- [00:04:58,060 - 00:04:58,120] And I did it.
+- [00:04:58,120 - 00:05:01,230] And Poe Towers was the largest hotel timeshare
+- [00:05:01,230 - 00:05:04,340] complex ever built at one time in the world.
+- [00:05:04,500 - 00:05:05,520] And we did it in Las Vegas.
+- [00:05:05,780 - 00:05:06,980] And I did it with my father.
+- [00:05:07,040 - 00:05:08,520] Because I worked for my father at that time.
+- [00:05:08,520 - 00:05:09,620] It was on time, on budget.
+- [00:05:09,720 - 00:05:10,240] And we got it done.
+- [00:05:10,380 - 00:05:12,140] And it was just a wild success.
+- [00:05:12,360 - 00:05:13,420] But it was very, very difficult.
+- [00:05:13,560 - 00:05:14,400] Nobody had ever done that.
+- [00:05:14,580 - 00:05:15,840] So talk to me about when
+- [00:05:15,840 - 00:05:17,100] you're starting out, 29 years old.
+- [00:05:17,180 - 00:05:18,810] You have no idea at that
+- [00:05:18,810 - 00:05:20,440] time how to actually build a hotel.
+- [00:05:20,600 - 00:05:22,570] What are some of those relationships that you went to
+- [00:05:22,570 - 00:05:24,540] go establish to be able to make all that happen?
+- [00:05:24,640 - 00:05:25,540] I always kept things fresh.
+- [00:05:25,700 - 00:05:26,900] I always listened to my
+- [00:05:26,900 - 00:05:28,100] customer to see what they wanted.
+- [00:05:28,120 - 00:05:30,060] Because I used the term polo.
+- [00:05:30,160 - 00:05:31,580] Polo is kind of a fancy game.
+- [00:05:31,700 - 00:05:33,000] But my customer was a big market.
+- [00:05:33,220 - 00:05:34,950] So I didn't want to make
+- [00:05:34,950 - 00:05:36,680] the project uncomfortable for the customer.
+- [00:05:36,860 - 00:05:39,760] So it's not that staid old English look.
+- [00:05:39,840 - 00:05:40,500] It's very modern.
+- [00:05:40,760 - 00:05:42,840] And of course, funny, Ralph Lauren sued me.
+- [00:05:42,900 - 00:05:44,820] Because we used the name Polo Towers.
+- [00:05:45,020 - 00:05:46,080] I fought Ralph Lauren.
+- [00:05:46,260 - 00:05:48,080] Because I had marked Polo
+- [00:05:48,080 - 00:05:49,900] Towers for hotel, timeshare, and casino.
+- [00:05:50,080 - 00:05:50,820] They never did.
+- [00:05:50,940 - 00:05:52,420] We ended up spending some serious dough.
+- [00:05:52,540 - 00:05:53,830] And I ended up getting
+- [00:05:53,830 - 00:05:55,120] that brand name against Ralph Lauren.
+- [00:05:55,260 - 00:05:56,820] You want to talk about brass balls.
+- [00:05:56,820 - 00:05:57,920] But look.
+- [00:05:57,920 - 00:05:59,120] I'm big on trademarks.
+- [00:05:59,120 - 00:06:00,320] I'm big on domains.
+- [00:06:00,320 - 00:06:01,520] I'm big on trademarks.
+- [00:06:01,520 - 00:06:02,320] Big on brand.
+- [00:06:02,320 - 00:06:03,470] So you just keep your
+- [00:06:03,470 - 00:06:04,620] head down and fight the fight.
+- [00:06:04,620 - 00:06:07,320] You guys, Steven has been going crazy so far.
+- [00:06:07,320 - 00:06:09,120] And I'm about to get right back to the interview.
+- [00:06:09,120 - 00:06:11,820] But before we do that, I want to tell you the number
+- [00:06:11,820 - 00:06:14,520] one thing that I've learned from spending time with billionaires like Steven.
+- [00:06:14,520 - 00:06:16,970] See, I've interviewed over 15 billionaires in the
+- [00:06:16,970 - 00:06:19,420] last three years and over a thousand multi-millionaires.
+- [00:06:19,420 - 00:06:22,070] And you want to know the number one secret, the number
+- [00:06:22,070 - 00:06:24,720] one shortcut to success and how they became millionaires or billionaires?
+- [00:06:24,720 - 00:06:26,120] It was mentorship.
+- [00:06:26,120 - 00:06:27,820] It's finding the people that you want to be.
+- [00:06:27,820 - 00:06:30,920] Exactly like and learning everything that you can from them.
+- [00:06:30,920 - 00:06:33,770] The only way to go from point A to point
+- [00:06:33,770 - 00:06:36,620] B in life and business and anything is getting mentors.
+- [00:06:36,620 - 00:06:38,120] A lot of you guys reach out and ask me.
+- [00:06:38,120 - 00:06:39,420] Hey, how do I get mentors?
+- [00:06:39,420 - 00:06:41,970] How do you, meaning myself, connect with the millionaires
+- [00:06:41,970 - 00:06:44,520] and the billionaires that I interview every single week?
+- [00:06:44,520 - 00:06:49,570] And for that reason, since that's the number one thing that you guys ask me, I'm going to give you right
+- [00:06:49,570 - 00:06:54,620] now the ability to come get mentored every single week from the billionaires and the billionaires that I interview on this channel.
+- [00:06:54,620 - 00:06:56,169] Guys, I built one of
+- [00:06:56,169 - 00:06:57,719] the largest communities for business owners.
+- [00:06:57,820 - 00:07:01,120] In the entire world called the school of mentors.
+- [00:07:01,120 - 00:07:05,470] And like I said, guys, every single week, I bring in a multi-millionaire or billionaire
+- [00:07:05,470 - 00:07:09,820] entrepreneur that built or sold a company for eight figures, nine figures or a billion dollars.
+- [00:07:09,820 - 00:07:10,719] Just like Steven.
+- [00:07:10,719 - 00:07:15,369] In fact, Steven literally mentored my community a couple months ago where all the members got to
+- [00:07:15,369 - 00:07:20,020] get on a two hour long zoom call with him and ask them specific questions about their business.
+- [00:07:20,020 - 00:07:22,470] He taught our community how to get access to money
+- [00:07:22,470 - 00:07:24,920] and capital to be able to buy assets like real estate.
+- [00:07:24,920 - 00:07:27,120] Even if you have no money to your name.
+- [00:07:27,120 - 00:07:27,719] He taught our community.
+- [00:07:27,820 - 00:07:31,420] How to start growing eventually sell their business just like he did for
+- [00:07:31,420 - 00:07:35,020] over three billion dollars to one of the biggest companies in the entire world.
+- [00:07:35,020 - 00:07:37,869] So if you guys want to come get mentored every week
+- [00:07:37,869 - 00:07:40,719] from the most successful business owners in the entire world for free.
+- [00:07:40,719 - 00:07:42,219] All you have to do is go down
+- [00:07:42,219 - 00:07:43,719] to the link in the description of this video.
+- [00:07:43,719 - 00:07:45,620] There's one of my private entrepreneur community.
+- [00:07:45,620 - 00:07:46,820] The school of mentors.
+- [00:07:46,820 - 00:07:48,420] I can't wait to see on the inside.
+- [00:07:48,420 - 00:07:50,320] That being said, let's get back to the interview.
+- [00:07:50,320 - 00:07:50,719] Come on.
+- [00:07:50,719 - 00:07:51,020] All right.
+- [00:07:51,020 - 00:07:52,719] So we're at our next location.
+- [00:07:52,719 - 00:07:54,120] You got a beautiful office here.
+- [00:07:54,120 - 00:07:55,919] But one of the first things that stood out to me
+- [00:07:55,919 - 00:07:57,719] when I came in and you know greeted you was this.
+- [00:07:57,820 - 00:07:59,219] Tell me about this right here.
+- [00:07:59,219 - 00:07:59,920] Iron Man.
+- [00:07:59,920 - 00:08:02,719] So I've got two nicknames Iron Man and Wolverine.
+- [00:08:02,719 - 00:08:06,369] I cut the nickname Iron Man because unfortunately I was walking in a crosswalk
+- [00:08:06,369 - 00:08:10,020] going to dinner and I was hit by a car at 40 miles per hour.
+- [00:08:10,020 - 00:08:11,820] I looked out the corner of my eye.
+- [00:08:11,820 - 00:08:12,620] I saw it coming.
+- [00:08:12,620 - 00:08:20,120] I jumped and hit the hood with full-on faceplant dented the living crap out of that car flipped like a stuntman, which I have no idea how I did
+- [00:08:20,120 - 00:08:27,620] it and landed like this on my feet and forearms and the people at the Starbucks were going like is he dead and I'm on the ground like this.
+- [00:08:27,620 - 00:08:29,020] I'm like I'm good as I'm
+- [00:08:29,020 - 00:08:30,420] gushing blood out of my face.
+- [00:08:30,420 - 00:08:35,669] I got a free ride to the hospital got 40 stitches in my face and I got the nickname Iron Man and the reason
+- [00:08:35,669 - 00:08:40,919] I got Wolverine because I heal quick and it played my head over and over because this stuff does not get out of your head.
+- [00:08:40,919 - 00:08:43,620] But gives you a new lease on life transformation again.
+- [00:08:43,620 - 00:08:45,320] This is a saying I have and
+- [00:08:45,320 - 00:08:47,020] I told you this before stay present.
+- [00:08:47,020 - 00:08:48,820] This is really important in life.
+- [00:08:48,820 - 00:08:52,770] They say that those who are living in the past are depressed those living in the future are anxious,
+- [00:08:52,770 - 00:08:56,720] but the ones who are present are the ones who are, you know, calm and at peace with himself.
+- [00:08:56,720 - 00:08:57,520] How important has that been?
+- [00:08:57,520 - 00:09:04,220] For you getting to the point where I can stay present has been another leap in my growth and my journey and it's not easy to get to
+- [00:09:04,220 - 00:09:10,920] it's not you know, we all have journeys and you got to step in some potholes and you got to get beaten up a little bit getting beaten up.
+- [00:09:10,920 - 00:09:13,970] You got to understand is good because it's growth but getting to a
+- [00:09:13,970 - 00:09:17,020] point where you can stay present focusing on the person you're with listening.
+- [00:09:17,020 - 00:09:18,819] That's when opportunity presents itself.
+- [00:09:18,819 - 00:09:19,769] I since we're in the
+- [00:09:19,769 - 00:09:20,720] presence of Iron Man right here.
+- [00:09:20,720 - 00:09:23,420] I wanted to ask you I interviewed a really successful internet marketer one
+- [00:09:23,420 - 00:09:26,120] time and he said you want to know who has the best personal brands.
+- [00:09:26,120 - 00:09:27,420] It's actually superheroes.
+- [00:09:27,420 - 00:09:29,520] It's people that fundamentally stand for and against something
+- [00:09:29,520 - 00:09:31,620] and for the people that are watching right now.
+- [00:09:31,620 - 00:09:33,419] They may not know but you
+- [00:09:33,419 - 00:09:35,219] invented with the government brand USA.
+- [00:09:35,219 - 00:09:39,569] You're all about branding talked to me about what it takes to build a brand that
+- [00:09:39,569 - 00:09:43,920] has longevity in his and is in the game for years integrity discipline and using your experience.
+- [00:09:43,920 - 00:09:47,120] It takes decades and decades to build a brand.
+- [00:09:47,120 - 00:09:49,120] It takes minutes to kill a brand.
+- [00:09:49,120 - 00:09:50,319] It's all about integrity.
+- [00:09:50,319 - 00:09:52,019] If you lie to me you
+- [00:09:52,019 - 00:09:53,719] bust my trust don't bust my trust.
+- [00:09:53,719 - 00:09:54,319] You're done.
+- [00:09:54,319 - 00:09:57,219] It is the most important concept in my ethos.
+- [00:09:57,220 - 00:09:59,820] If I find somebody that is not a person of
+- [00:09:59,820 - 00:10:02,420] integrity, but did to me they lie to me you done.
+- [00:10:02,420 - 00:10:03,220] I'm always honest.
+- [00:10:03,220 - 00:10:04,320] I'm not perfect.
+- [00:10:04,320 - 00:10:05,320] None of us are perfect.
+- [00:10:05,320 - 00:10:06,120] We all make mistakes.
+- [00:10:06,120 - 00:10:08,020] We grow we pivot we get better.
+- [00:10:08,020 - 00:10:09,670] No one gets to a hundred
+- [00:10:09,670 - 00:10:11,320] percent, but our brand is sacrosanct.
+- [00:10:11,320 - 00:10:13,220] We don't tarnish the brand.
+- [00:10:13,220 - 00:10:17,120] Okay, never ever ever tarnish the brand and if someone around
+- [00:10:17,120 - 00:10:21,020] you hurt your brand, they don't respect you respect is very important.
+- [00:10:21,020 - 00:10:22,320] Remember I talked to you respect.
+- [00:10:22,320 - 00:10:23,920] We all have a responsibility to one
+- [00:10:23,920 - 00:10:25,520] another and we got to show results.
+- [00:10:25,520 - 00:10:26,920] It all goes to brand.
+- [00:10:26,920 - 00:10:28,020] Who are you as a brand?
+- [00:10:28,020 - 00:10:29,219] Who do you want to become?
+- [00:10:29,219 - 00:10:30,819] You create your own brand your choices.
+- [00:10:30,819 - 00:10:32,469] You want to be a leader or do
+- [00:10:32,469 - 00:10:34,120] you want to be a part of the ensemble?
+- [00:10:34,120 - 00:10:34,819] Who are you?
+- [00:10:34,819 - 00:10:35,520] I'm a leader.
+- [00:10:35,520 - 00:10:36,719] I make tough decisions.
+- [00:10:36,719 - 00:10:38,020] I'm not here to please everyone.
+- [00:10:38,020 - 00:10:40,570] But if I please the super majority and give my customers
+- [00:10:40,570 - 00:10:43,120] a little more than they bargained for I've done the job.
+- [00:10:43,120 - 00:10:48,469] What was one of the toughest decisions that you had to make if somebody lied to a customer you have to
+- [00:10:48,469 - 00:10:53,819] be able to hold the line in your brand and I had to fire my number one salesperson in the world.
+- [00:10:53,819 - 00:10:55,719] My number one salesperson in the world.
+- [00:10:55,719 - 00:10:56,819] Because they created a cancer.
+- [00:10:56,920 - 00:11:00,520] Within the organization and everyone says don't know you can't fire that
+- [00:11:00,520 - 00:11:04,120] person don't remove that person when I remove that person from the organization.
+- [00:11:04,120 - 00:11:06,719] We grew by 20% tough decision.
+- [00:11:06,719 - 00:11:07,920] Everyone said don't do it.
+- [00:11:07,920 - 00:11:08,520] I did it.
+- [00:11:08,520 - 00:11:09,820] That's what leaders do and you
+- [00:11:09,820 - 00:11:11,120] need brass balls to do that.
+- [00:11:11,120 - 00:11:11,920] You got brass balls.
+- [00:11:11,920 - 00:11:12,719] I do good.
+- [00:11:12,719 - 00:11:13,520] I've got them.
+- [00:11:13,520 - 00:11:14,219] You want to see him?
+- [00:11:14,219 - 00:11:15,869] I guess I have to I'm going to
+- [00:11:15,869 - 00:11:17,520] show you there right there on my desk.
+- [00:11:17,520 - 00:11:18,219] I got to see you.
+- [00:11:18,219 - 00:11:19,819] Okay, I'm going to show you.
+- [00:11:22,520 - 00:11:23,819] So this is a gift.
+- [00:11:23,819 - 00:11:25,219] I got Steven.
+- [00:11:25,219 - 00:11:26,819] I know you don't need another.
+- [00:11:26,920 - 00:11:29,420] Set but I thought you may show these
+- [00:11:29,420 - 00:11:31,920] off as a trophy for the biggest ones ever.
+- [00:11:31,920 - 00:11:33,920] I love you pops my father.
+- [00:11:33,920 - 00:11:35,920] So he did actually give
+- [00:11:35,920 - 00:11:37,920] me brass balls physically and spiritually.
+- [00:11:37,920 - 00:11:39,219] How did you build your first hotel?
+- [00:11:39,219 - 00:11:40,120] What was that process?
+- [00:11:40,120 - 00:11:42,919] Like I went around to all the great hotels and I study, you
+- [00:11:42,919 - 00:11:45,719] know, I spent some time you got to do diligence anything you do.
+- [00:11:45,719 - 00:11:49,719] I always do my due diligence always I traveled and I wanted to see you
+- [00:11:49,719 - 00:11:53,719] know, what works what didn't work and I talked to some of the great experts.
+- [00:11:53,719 - 00:11:55,219] I use I studied the
+- [00:11:55,219 - 00:11:56,719] likes of Four Seasons and Ritz-Carlton.
+- [00:11:56,920 - 00:12:00,770] And Marriott to see the differences and there was a lane
+- [00:12:00,770 - 00:12:04,620] for an entrepreneur because those companies had become corporate like entities.
+- [00:12:04,620 - 00:12:09,469] They didn't have that entrepreneurial spirit where the chairman CEO founder would actually talk
+- [00:12:09,469 - 00:12:14,319] to the guest would actually create the script at the front desk wide open opportunity.
+- [00:12:14,319 - 00:12:15,419] So you went afraid to
+- [00:12:15,419 - 00:12:16,520] go and compete against those Giants.
+- [00:12:16,520 - 00:12:19,470] I ended up competing against those Giants and the
+- [00:12:19,470 - 00:12:22,420] greatest gift I got was when Marriott on Wall Street.
+- [00:12:22,420 - 00:12:24,620] We would make our financial presentation.
+- [00:12:24,620 - 00:12:26,819] We were unique Marriott copied.
+- [00:12:26,920 - 00:12:30,020] Our deck and my CFO told me that Marriott copied our deck
+- [00:12:30,020 - 00:12:33,120] and he was so upset and I'm like, what are you talking about?
+- [00:12:33,120 - 00:12:34,169] This is like the greatest
+- [00:12:34,169 - 00:12:35,219] trophy I can get my life.
+- [00:12:35,219 - 00:12:36,620] Marriott just copied us now.
+- [00:12:36,620 - 00:12:38,620] They couldn't replicate us because we were nimble.
+- [00:12:38,620 - 00:12:39,120] What were you doing?
+- [00:12:39,120 - 00:12:40,320] So differently from everybody else that
+- [00:12:40,320 - 00:12:41,520] they were wanting to replicate you.
+- [00:12:41,520 - 00:12:45,770] We were founding entrepreneurs now Marriott started way back when as a founding entrepreneur,
+- [00:12:45,770 - 00:12:50,020] but it got corporate upon corporate upon corporate almost government like a rule book.
+- [00:12:50,020 - 00:12:50,819] We were flexible.
+- [00:12:50,819 - 00:12:53,819] We became a battleship that could move like a speedboat.
+- [00:12:53,819 - 00:12:56,620] That's because the chairman CEO founder myself.
+- [00:12:56,620 - 00:12:58,520] Could talk about any job in the business.
+- [00:12:58,520 - 00:13:02,670] If you want to talk about technology, I hope write the code
+- [00:13:02,670 - 00:13:06,820] for our back of house software tax accounting debits credits facilities management.
+- [00:13:06,820 - 00:13:07,620] I can make a bed.
+- [00:13:07,620 - 00:13:14,770] How involved do you think the owner should be in the different aspects of the business people talk about a lot in today's world about delegating how involved were
+- [00:13:14,770 - 00:13:21,920] you in the different parts of the business as you were scaling your company from one hotel to over 435 and how many countries you said 35 countries 35 countries.
+- [00:13:21,920 - 00:13:23,420] You have to love what you do.
+- [00:13:23,420 - 00:13:26,420] So I would always just pop up in different departments.
+- [00:13:26,620 - 00:13:28,720] And listen to what our team was
+- [00:13:28,720 - 00:13:30,820] doing to make sure we were on message.
+- [00:13:30,820 - 00:13:33,320] So I'd go at 50,000 feet at the
+- [00:13:33,320 - 00:13:35,820] board level all the way to making a bed.
+- [00:13:35,820 - 00:13:37,920] And if you want to see how our
+- [00:13:37,920 - 00:13:40,020] towels were placed in our bathrooms, I did it.
+- [00:13:40,020 - 00:13:42,120] I shot a video of me doing it.
+- [00:13:42,120 - 00:13:47,720] So every single housekeeper was doing it exactly as I wanted it with the tag in the back
+- [00:13:47,720 - 00:13:53,320] and I even under each bed had a tent card placed that said yes, we clean here too.
+- [00:13:53,320 - 00:13:54,870] That's how meticulous I was
+- [00:13:54,870 - 00:13:56,420] because no job in the business.
+- [00:13:56,620 - 00:13:58,920] Was outside my realm of understanding and
+- [00:13:58,920 - 00:14:01,220] everyone knew that I'll sweep the floor.
+- [00:14:01,220 - 00:14:02,020] I'll cook you a meal.
+- [00:14:02,020 - 00:14:03,220] I'll ask you what you like to eat.
+- [00:14:03,220 - 00:14:04,120] I'll go cook it for you.
+- [00:14:04,120 - 00:14:05,120] I will serve it to you.
+- [00:14:05,120 - 00:14:07,670] I will sit at the table and listen to your story
+- [00:14:07,670 - 00:14:10,220] and then I will clean the table because I'm in service.
+- [00:14:10,220 - 00:14:13,220] Can I delegate sure I could delegate but I teach a
+- [00:14:13,220 - 00:14:16,220] coach but they see that I can do the job too.
+- [00:14:16,220 - 00:14:21,120] So it's having that experience at every level of the business, which will really
+- [00:14:21,120 - 00:14:26,020] guide you to your success because everyone on the team knows we have no titles.
+- [00:14:26,020 - 00:14:26,420] We're all part of the business.
+- [00:14:26,420 - 00:14:27,819] We're all part of the same team
+- [00:14:27,819 - 00:14:29,219] and it goes circles back to brand.
+- [00:14:29,219 - 00:14:30,819] Don't mess with the brand.
+- [00:14:30,819 - 00:14:32,120] Talk to me about 9-11.
+- [00:14:32,120 - 00:14:33,770] You dealt with some adversity during
+- [00:14:33,770 - 00:14:35,420] 2001 because you're in the hotel business.
+- [00:14:35,420 - 00:14:37,170] 9-11 was very interesting because
+- [00:14:37,170 - 00:14:38,920] during 9-11 there were no flights.
+- [00:14:38,920 - 00:14:40,319] Everything was grounded.
+- [00:14:40,319 - 00:14:41,120] I had no guests.
+- [00:14:41,120 - 00:14:42,319] No one had any guests.
+- [00:14:42,319 - 00:14:45,419] So we had to recreate how we were going to market because there were
+- [00:14:45,419 - 00:14:48,520] no flights and I actually had to call my banks because I was nervous.
+- [00:14:48,520 - 00:14:49,620] That till was not ringing.
+- [00:14:49,620 - 00:14:51,719] It was zero cash registers
+- [00:14:51,719 - 00:14:53,819] went to zero zero for everyone.
+- [00:14:53,819 - 00:14:54,620] What did I do?
+- [00:14:54,620 - 00:14:56,319] I called my bank every day.
+- [00:14:56,320 - 00:14:59,870] To the point where they said, can you call us every three days because I wanted to let
+- [00:14:59,870 - 00:15:03,420] them know what was up and I had to actually borrow some more money to get through it.
+- [00:15:03,420 - 00:15:05,120] But it goes to integrity.
+- [00:15:05,120 - 00:15:07,370] You tell them the good the bad the ugly and
+- [00:15:07,370 - 00:15:09,620] it was ugly because we didn't know what was happening.
+- [00:15:09,620 - 00:15:10,520] Very nerve-racking.
+- [00:15:10,520 - 00:15:13,120] You couldn't go to anyone ask questions for advice because
+- [00:15:13,120 - 00:15:15,720] it never happened before and these things happen in life.
+- [00:15:15,720 - 00:15:18,020] When I told you about unintended consequences.
+- [00:15:18,020 - 00:15:20,820] These are some of the unintended consequences things.
+- [00:15:20,820 - 00:15:22,420] We can't even dream up.
+- [00:15:22,420 - 00:15:23,720] So how are you going to pivot?
+- [00:15:23,720 - 00:15:26,120] Always tell the truth because I've asked the bankers.
+- [00:15:26,120 - 00:15:27,320] What are we doing different?
+- [00:15:27,320 - 00:15:28,520] Is everyone talking to you?
+- [00:15:28,520 - 00:15:29,620] Like we're talking to you.
+- [00:15:29,620 - 00:15:30,020] They go.
+- [00:15:30,020 - 00:15:32,220] No, no one is as candid as you are.
+- [00:15:32,220 - 00:15:34,970] No one is as transparent as I am and a
+- [00:15:34,970 - 00:15:37,720] matter of fact, some people downright don't tell us the truth.
+- [00:15:37,720 - 00:15:39,270] Bust the trust so we can
+- [00:15:39,270 - 00:15:40,820] never predict what's going to happen.
+- [00:15:40,820 - 00:15:42,170] But if we always have
+- [00:15:42,170 - 00:15:43,520] integrity, we can always solve problems.
+- [00:15:43,520 - 00:15:46,220] Three sticks tied together are unbreakable.
+- [00:15:46,220 - 00:15:48,920] If they're intertwined don't ever forget that when I interviewed
+- [00:15:48,920 - 00:15:51,620] you you said that you never negotiated with your banks.
+- [00:15:51,620 - 00:15:52,920] Can you kind of talk to you
+- [00:15:52,920 - 00:15:54,220] about what was your thought process or conversation?
+- [00:15:54,220 - 00:15:55,520] How did you conversate with the banks?
+- [00:15:55,520 - 00:15:56,020] How did you get them on?
+- [00:15:56,020 - 00:15:56,620] To your side?
+- [00:15:56,620 - 00:15:57,819] I got so many nose.
+- [00:15:57,819 - 00:16:02,319] I mean, I literally walked up and down Park Avenue hundreds of
+- [00:16:02,319 - 00:16:06,819] financial institutions and Banks and I know no wrong business wrong time.
+- [00:16:06,819 - 00:16:09,319] Not just in New York, but
+- [00:16:09,319 - 00:16:11,819] Boston, Chicago, Miami, DC, Los Angeles.
+- [00:16:11,819 - 00:16:13,069] I turned over every rock
+- [00:16:13,069 - 00:16:14,319] and we finally got it together.
+- [00:16:14,319 - 00:16:18,169] We did not give up and I learned that everyone should do well together and
+- [00:16:18,169 - 00:16:22,020] it's just been my philosophy that I never want to get the edge on somebody.
+- [00:16:22,020 - 00:16:23,420] I want everyone to do well.
+- [00:16:23,420 - 00:16:25,920] All my partners will say that's the best return.
+- [00:16:25,920 - 00:16:27,120] I've never done an investment.
+- [00:16:27,120 - 00:16:31,320] They've ever had my Banks have said this guy's good for the money because he's got
+- [00:16:31,320 - 00:16:35,520] capacity character and had the credit the three C's of banking and he didn't negotiate with us.
+- [00:16:35,520 - 00:16:38,619] He paid his back matter of fact, he pays back early some banks that I paid
+- [00:16:38,619 - 00:16:41,719] him back to early because they need the money out longer to make a better return.
+- [00:16:41,719 - 00:16:46,869] So as long as everyone's always made money, that's been my philosophy and I would encourage
+- [00:16:46,869 - 00:16:52,020] each and every young entrepreneur to be thankful to their investors be transparent to be accountable.
+- [00:16:52,020 - 00:16:53,220] Tell them the good the bad
+- [00:16:53,220 - 00:16:54,420] the ugly which I've had to do.
+- [00:16:54,420 - 00:16:55,719] You will always do.
+- [00:16:55,720 - 00:17:00,769] People understand rough times as long as you have integrity don't negotiate with your Banks give your investors a good
+- [00:17:00,769 - 00:17:05,819] return because they'll be there the next time and the time after that when I interviewed you last time as well.
+- [00:17:05,819 - 00:17:07,569] You mentioned that in a negotiation
+- [00:17:07,569 - 00:17:09,319] the first person that talks loses.
+- [00:17:09,319 - 00:17:12,769] Do you have a scenario where you would the other person kind of like silent for a bit
+- [00:17:12,769 - 00:17:16,220] because you said that you have to put the pen across the table and not say a word.
+- [00:17:16,220 - 00:17:18,220] Yeah, I once waited a week.
+- [00:17:18,220 - 00:17:20,619] I wanted to make that phone call to see if they were going to
+- [00:17:20,619 - 00:17:23,020] do the deal and I just like get ready to pick up the phone.
+- [00:17:23,020 - 00:17:23,819] I'm going to don't do it.
+- [00:17:23,819 - 00:17:25,619] I was going to pick up that phone.
+- [00:17:25,619 - 00:17:26,419] Phone and do it again.
+- [00:17:26,419 - 00:17:27,419] I got really anxious.
+- [00:17:27,419 - 00:17:29,069] I'm like I want an answer now and
+- [00:17:29,069 - 00:17:30,719] I just waited and then I got the call.
+- [00:17:30,719 - 00:17:32,520] I just had a big old grin on my face.
+- [00:17:32,520 - 00:17:33,219] I'm so happy.
+- [00:17:33,219 - 00:17:36,469] I did not pick up that phone and call you have to
+- [00:17:36,469 - 00:17:39,719] have the patience and as tough as it is suck it up.
+- [00:17:39,719 - 00:17:42,019] Once you're done with the sale first person
+- [00:17:42,019 - 00:17:44,320] who talks loses don't talk past the sales.
+- [00:17:44,320 - 00:17:46,520] What you say never go past the close.
+- [00:17:46,520 - 00:17:48,320] Have you seen some deals blow up after that?
+- [00:17:48,320 - 00:17:50,520] Yeah, because people are fucking idiots.
+- [00:17:50,520 - 00:17:52,320] Whoever talks first loses.
+- [00:17:52,320 - 00:17:53,769] I mean when you ask
+- [00:17:53,769 - 00:17:55,219] for the deal shut your mouth.
+- [00:17:55,219 - 00:17:55,419] Just.
+- [00:17:55,620 - 00:17:56,320] Wait it out.
+- [00:17:56,320 - 00:17:58,820] After selling a company for several billion dollars.
+- [00:17:58,820 - 00:18:01,220] You could have made the decision to ride off into
+- [00:18:01,220 - 00:18:03,620] the sunsets to go travel the world on a yacht.
+- [00:18:03,620 - 00:18:05,320] You're deciding to run for governor of
+- [00:18:05,320 - 00:18:07,020] the biggest state in the United States.
+- [00:18:07,020 - 00:18:08,170] Talk to me about your thought
+- [00:18:08,170 - 00:18:09,320] process and why you're doing that.
+- [00:18:09,320 - 00:18:11,219] I wanted to live my dream.
+- [00:18:11,219 - 00:18:14,069] My dream was always to live in Beverly Hills because I grew up
+- [00:18:14,069 - 00:18:16,919] in the San Fernando Valley kindergarten through high school first year of college.
+- [00:18:16,919 - 00:18:18,069] And I just always had this
+- [00:18:18,069 - 00:18:19,219] dream of living in Beverly Hills.
+- [00:18:19,219 - 00:18:22,219] Now I could live anywhere in the world and I wanted to live my dream even
+- [00:18:22,219 - 00:18:25,219] though I was going to have to come in pay tax and I interviewed all of
+- [00:18:25,220 - 00:18:27,070] the candidates that were running for office just
+- [00:18:27,070 - 00:18:28,920] to get the lay of my home state.
+- [00:18:28,920 - 00:18:29,820] My home state.
+- [00:18:29,820 - 00:18:30,970] I grew up here and I'm
+- [00:18:30,970 - 00:18:32,120] like this is the best we got.
+- [00:18:32,120 - 00:18:32,920] You're kidding me, right?
+- [00:18:32,920 - 00:18:34,520] So I started to really
+- [00:18:34,520 - 00:18:36,120] understand the state of the state.
+- [00:18:36,120 - 00:18:37,320] We're not a state.
+- [00:18:37,320 - 00:18:38,620] California is a country.
+- [00:18:38,620 - 00:18:44,870] It's the fifth largest GDP in the world and it used to be the bully pulpit of the United States and all of a
+- [00:18:44,870 - 00:18:51,120] sudden California is on defense when it should be on offense because California needs the federal government as much as the federal government needs California.
+- [00:18:51,120 - 00:18:52,970] It was the greatest state in the United
+- [00:18:52,970 - 00:18:54,820] States and the leadership as I interviewed them.
+- [00:18:54,820 - 00:18:56,220] I had something in common.
+- [00:18:56,220 - 00:18:57,720] They never talked to the best customers
+- [00:18:57,720 - 00:18:59,220] of the state and they fled the state.
+- [00:18:59,220 - 00:19:03,370] That's why everyone's leaving because there was no communication with the customer who can run a
+- [00:19:03,370 - 00:19:07,520] state or a country without talking to its best customers and they all had nothing in common.
+- [00:19:07,520 - 00:19:08,820] They never signed the front of a check.
+- [00:19:08,820 - 00:19:09,619] So they didn't know what
+- [00:19:09,619 - 00:19:10,419] it was like to make payroll.
+- [00:19:10,419 - 00:19:12,769] They never talked to the people of the state
+- [00:19:12,769 - 00:19:15,120] its customers to see what the issues are the problems.
+- [00:19:15,120 - 00:19:16,570] So I started to study and
+- [00:19:16,570 - 00:19:18,020] I said, you know what I've legislated.
+- [00:19:18,020 - 00:19:19,620] I've created laws in different states.
+- [00:19:19,620 - 00:19:20,620] I've been a regulator.
+- [00:19:20,620 - 00:19:21,320] I've held court.
+- [00:19:21,320 - 00:19:22,619] I've been an adjudicator and I
+- [00:19:22,619 - 00:19:23,919] fixed the most broken of business.
+- [00:19:23,919 - 00:19:24,720] And this is a broken.
+- [00:19:24,720 - 00:19:25,520] Business.
+- [00:19:25,520 - 00:19:26,720] This state is broken.
+- [00:19:26,720 - 00:19:27,920] It's closed for business.
+- [00:19:27,920 - 00:19:29,620] How can I open it back up for business?
+- [00:19:29,620 - 00:19:30,770] So I started to talk
+- [00:19:30,770 - 00:19:31,920] to the customers of the state.
+- [00:19:31,920 - 00:19:34,470] I met with over 300 people and it came
+- [00:19:34,470 - 00:19:37,020] down to California is not affordable livable nor workable.
+- [00:19:37,020 - 00:19:37,820] How can I fix it?
+- [00:19:37,820 - 00:19:40,120] I can do it with respect responsibility and results,
+- [00:19:40,120 - 00:19:42,420] which I've said before and how did we get here?
+- [00:19:42,420 - 00:19:44,370] Our leaders are all failed leaders because
+- [00:19:44,370 - 00:19:46,320] they haven't been accountable to the customer.
+- [00:19:46,320 - 00:19:50,070] They haven't executed properly and they haven't enforced the laws and
+- [00:19:50,070 - 00:19:53,820] there's too many regulations regulations are good to keep bad actors out.
+- [00:19:53,820 - 00:19:54,420] But if you
+- [00:19:54,420 - 00:19:58,370] over regulate you can't do good business, but all these things are fixable and
+- [00:19:58,370 - 00:20:02,320] our leaders in this state want to resist when we need to unify and collaborate.
+- [00:20:02,320 - 00:20:04,920] That's a new level of governing
+- [00:20:04,920 - 00:20:07,520] a hardcore Republicans or the hardcore Democrats.
+- [00:20:07,520 - 00:20:14,020] So how about we as customers transcend all of this and have collaborative discussions with those that can actually lead now
+- [00:20:14,020 - 00:20:20,520] most business people would never touch politics or policy because it's just a nasty blood-ass sport politics is a nasty game.
+- [00:20:20,520 - 00:20:21,520] Why do you want to get involved?
+- [00:20:21,520 - 00:20:22,820] I'm curious messy.
+- [00:20:22,820 - 00:20:24,220] I've dealt with messy my entire career.
+- [00:20:24,220 - 00:20:26,020] Everything about me is on the internet.
+- [00:20:26,020 - 00:20:26,520] Great.
+- [00:20:26,520 - 00:20:29,020] What is perceived as my opposition is my offense.
+- [00:20:29,020 - 00:20:30,120] I have fixed the most broken.
+- [00:20:30,120 - 00:20:31,820] I've been extorted.
+- [00:20:31,820 - 00:20:33,220] I fight extortion and I'll fight
+- [00:20:33,220 - 00:20:34,620] extortion for you as my customer.
+- [00:20:34,620 - 00:20:37,970] There is nothing that's out there that I'm afraid of you could say anything you want
+- [00:20:37,970 - 00:20:41,320] about me and I'm doing this selflessly rolling up my sleeves because I don't need the title.
+- [00:20:41,320 - 00:20:42,620] I don't need the paycheck.
+- [00:20:42,620 - 00:20:44,420] I'm doing this for frankly
+- [00:20:44,420 - 00:20:46,220] everyone the customers of California.
+- [00:20:46,220 - 00:20:48,120] It needs command and control with
+- [00:20:48,120 - 00:20:50,020] somebody who's fixed the most broken.
+- [00:20:50,020 - 00:20:51,620] I don't owe anyone anything.
+- [00:20:51,620 - 00:20:53,820] I'm not bought and paid for by anyone.
+- [00:20:53,820 - 00:20:54,120] So
+- [00:20:54,220 - 00:20:55,520] I'm always going to tell you the truth.
+- [00:20:55,520 - 00:20:56,520] I'm going to tell you the hard truth.
+- [00:20:56,520 - 00:20:57,920] I always carry my helmet with me.
+- [00:20:57,920 - 00:21:00,770] I've had missiles shot at me be my guest because I
+- [00:21:00,770 - 00:21:03,620] know that I come roll up my sleeves and deliver the results.
+- [00:21:03,620 - 00:21:04,120] Steven.
+- [00:21:04,120 - 00:21:05,320] This was an incredible interview.
+- [00:21:05,320 - 00:21:06,520] Thank you so much for having us out.
+- [00:21:06,520 - 00:21:06,920] Thank you.
+- [00:21:06,920 - 00:21:07,320] Thank you.
+- [00:21:07,320 - 00:21:08,620] Good to come on my podcast.
+- [00:21:08,620 - 00:21:10,020] I'll come on the podcast.
+- [00:21:10,020 - 00:21:14,020] So guys make sure that you like and subscribe for amazing content coming every week with the
+- [00:21:14,020 - 00:21:18,020] most successful business owners in the entire world to come in and mentor you in these videos.
+- [00:21:18,020 - 00:21:20,920] And if you guys want direct mentorship with the multi-millionaires and the
+- [00:21:20,920 - 00:21:23,820] billionaires and the most successful people I interview in the entire world.
+- [00:21:23,820 - 00:21:27,470] All you have to do is go down to join the school of mentors the
+- [00:21:27,470 - 00:21:31,120] number one community for business owners to get mentored from Legends just like Steven Klubeck.
+- [00:21:31,120 - 00:21:32,120] So everybody I can't wait to
+- [00:21:32,120 - 00:21:33,120] see you in our next video.
+- [00:21:33,120 - 00:21:34,620] That being said, I'll see you guys soon.
