@@ -1,0 +1,315 @@
+# Transcript
+
+Source: lazyearn/jim-rohn-originals-no-ai/020 - Discipline and Procrastination - Do it now or Do it later ｜ Best Motivational Speech ｜ Jim Rohn [aUsHwEWIaNA].mkv
+
+- [00:00:00,000 - 00:00:09,220] Discipline is a constant human awareness of the need
+- [00:00:09,220 - 00:00:18,440] for action and a conscious act by us to
+- [00:00:18,440 - 00:00:21,620] implement that action. Discipline is an awareness of
+- [00:00:21,620 - 00:00:24,800] the constant need for action and a conscious
+- [00:00:24,800 - 00:00:28,310] act to implement that action. If our awareness
+- [00:00:28,310 - 00:00:31,820] and our implementations occur at the same time,
+- [00:00:32,400 - 00:00:36,170] then we begin a valued sequence of disciplined
+- [00:00:36,170 - 00:00:39,940] activity. Now, here's the other side of discipline.
+- [00:00:40,760 - 00:00:43,310] If there's considerable time that passes between the
+- [00:00:43,310 - 00:00:45,860] moment of awareness and the time of our
+- [00:00:45,860 - 00:00:50,320] implementation, then that is called procrastination.
+- [00:00:50,320 - 00:00:54,780] Procrastination, doing it tomorrow instead of
+- [00:00:54,780 - 00:00:59,399] today. Procrastination, an almost exact opposite of
+- [00:00:59,399 - 00:01:04,019] discipline. The voice within us says, get it
+- [00:01:04,019 - 00:01:08,469] done. Discipline then says, do it now. Do it
+- [00:01:08,469 - 00:01:12,920] to the best of your ability today, tomorrow, and always
+- [00:01:12,920 - 00:01:17,550] until finally the worthy deed becomes
+- [00:01:17,550 - 00:01:22,180] instinctive. Procrastination says later, tomorrow, whenever I
+- [00:01:22,180 - 00:01:22,980] get a chance.
+- [00:01:24,780 - 00:01:28,240] Do what is necessary to get by or to impress
+- [00:01:28,240 - 00:01:31,700] others. Do what you can but not what you must.
+- [00:01:31,700 - 00:01:32,730] Your nature moves you, and you never know when
+- [00:01:32,730 - 00:01:33,760] your future will 문제 you, or when or what your
+- [00:01:33,760 - 00:01:34,660] Finally we are veil backbone. конце are
+- [00:01:34,660 - 00:01:35,560] not only executed, either by our metaphysical
+- [00:01:35,560 - 00:01:35,860] personalities that tick mark them directly
+- [00:01:35,860 - 00:01:36,160] or by our naturalث Handbook receivers that
+- [00:01:36,160 - 00:01:36,610] Novi gandhard and Sharon Goyer are
+- [00:01:36,610 - 00:01:37,060] now fully introduced into our informed skills.
+- [00:01:38,420 - 00:01:42,140] Do it now or do it later,
+- [00:01:42,140 - 00:01:45,860] discipline and procrastination. A choice between a
+- [00:01:45,860 - 00:01:48,860] disciplined existence bearing the fruit
+- [00:01:48,860 - 00:01:51,860] of achievement and contentment, or procrastination,
+- [00:01:52,660 - 00:01:54,380] the easy life, pr which the future willеюсь you.
+- [00:01:54,380 - 00:02:00,699] will bear no fruit, only the bare branches of mediocrity.
+- [00:02:00,699 - 00:02:03,249] The rewards of a disciplined life are
+- [00:02:03,249 - 00:02:05,800] great, but they're often delayed until sometime in
+- [00:02:05,800 - 00:02:07,240] the future.
+- [00:02:07,240 - 00:02:09,949] The rewards for the lack of discipline
+- [00:02:09,949 - 00:02:12,660] are immediate, but they are minor in comparison
+- [00:02:12,660 - 00:02:17,720] to the immeasurable rewards of consistent self-discipline.
+- [00:02:17,720 - 00:02:20,020] An immediate reward for lack of discipline
+- [00:02:20,020 - 00:02:22,320] is a fun day at the beach.
+- [00:02:22,320 - 00:02:26,340] A future reward of discipline is owning the beach.
+- [00:02:26,340 - 00:02:29,720] For most, we choose today's
+- [00:02:29,720 - 00:02:33,100] pleasure rather than tomorrow's fortune.
+- [00:02:33,100 - 00:02:36,519] So how can you get rid of the easy distractions?
+- [00:02:36,519 - 00:02:38,199] How can you keep your mind
+- [00:02:38,199 - 00:02:39,880] on what you're trying to do?
+- [00:02:39,880 - 00:02:41,940] How can you keep an attitude of
+- [00:02:41,940 - 00:02:44,000] doing it all and doing it now?
+- [00:02:44,000 - 00:02:46,350] How can you make the
+- [00:02:46,350 - 00:02:48,700] choice of discipline over procrastination?
+- [00:02:48,700 - 00:02:51,700] How can you stay focused on your ambitions?
+- [00:02:51,700 - 00:02:56,239] How can you avoid conversations at the water cooler?
+- [00:02:56,239 - 00:02:59,119] You can keep your focus on your work.
+- [00:02:59,119 - 00:03:02,519] You can get it done today instead of tomorrow.
+- [00:03:02,519 - 00:03:05,189] You've got to really work on your
+- [00:03:05,189 - 00:03:07,859] consistent self-discipline on a daily basis or you'll
+- [00:03:07,859 - 00:03:10,920] find yourself distracted.
+- [00:03:10,920 - 00:03:13,730] Distracted by negative thoughts, distracted by
+- [00:03:13,730 - 00:03:16,540] negative people, distracted by water cooler
+- [00:03:16,540 - 00:03:18,440] chatter.
+- [00:03:18,440 - 00:03:19,110] And pretty soon, depending on the type
+- [00:03:19,110 - 00:03:19,780] of people you've associated with, you'll be distracted.
+- [00:03:19,780 - 00:03:20,780] And that's what I'm talking about.
+- [00:03:20,780 - 00:03:20,820] I'm talking about the water cooler.
+- [00:03:21,700 - 00:03:22,700] You want to keep your confidence.
+- [00:03:22,700 - 00:03:23,700] But what's the point in keeping it for yourself?
+- [00:03:23,700 - 00:03:24,700] That's what I want you to think about.
+- [00:03:24,700 - 00:03:25,700] You don't need to be disappointed.
+- [00:03:25,700 - 00:03:26,279] You want to be distracted by what
+- [00:03:26,279 - 00:03:26,859] you're dealing with, distracted by your doubts within
+- [00:03:26,859 - 00:03:27,859] yourself.
+- [00:03:27,859 - 00:03:30,859] Never underestimate the power of influence and associations.
+- [00:03:30,859 - 00:03:33,949] And never underestimate the power
+- [00:03:33,949 - 00:03:37,040] of your own consistent self-discipline.
+- [00:03:37,040 - 00:03:39,790] Now let's take a closer look at
+- [00:03:39,790 - 00:03:42,540] discipline at the three steps to becoming disciplined.
+- [00:03:42,540 - 00:03:47,620] First, true discipline is not the easiest option.
+- [00:03:47,620 - 00:03:49,160] Most people would rather sleep until
+- [00:03:49,160 - 00:03:50,700] 10 o'clock then get up at 6.
+- [00:03:50,700 - 00:03:51,700] Then you'll realize some of your thoughts around it.
+- [00:03:51,700 - 00:03:55,519] It's easier to go to bed late,
+- [00:03:55,519 - 00:03:59,339] sleep late, show up late, leave early.
+- [00:03:59,339 - 00:04:00,820] It's easier not to read.
+- [00:04:00,820 - 00:04:02,859] It's easier to turn on the
+- [00:04:02,859 - 00:04:04,899] television than to open a book.
+- [00:04:04,899 - 00:04:06,919] It's easier to do just
+- [00:04:06,919 - 00:04:08,940] enough than to do it all.
+- [00:04:08,940 - 00:04:12,100] Waiting is always easier than acting.
+- [00:04:12,100 - 00:04:15,780] Trying is always easier than doing.
+- [00:04:15,780 - 00:04:18,019] Imagine what life would be like if we didn't
+- [00:04:18,019 - 00:04:20,260] have to make our bed in the morning or keep
+- [00:04:20,260 - 00:04:22,989] our garage clean or pay our
+- [00:04:22,989 - 00:04:25,719] taxes or show up for work tomorrow.
+- [00:04:25,719 - 00:04:27,499] Wouldn't it be fascinating if we
+- [00:04:27,499 - 00:04:29,280] didn't have to do these things?
+- [00:04:29,280 - 00:04:31,099] Wouldn't it be fascinating?
+- [00:04:31,099 - 00:04:33,340] What do you suppose would become of us?
+- [00:04:33,340 - 00:04:36,420] You're right, not much.
+- [00:04:36,420 - 00:04:38,960] For whatever the reason, the system we live
+- [00:04:38,960 - 00:04:41,500] in and contribute to is designed to make the
+- [00:04:41,500 - 00:04:46,140] easiest things in life the most unprofitable.
+- [00:04:46,140 - 00:04:49,599] Profitable seems to be the most difficult.
+- [00:04:49,599 - 00:04:50,099] Our world is...
+- [00:04:50,260 - 00:04:53,510] And always will be a constant battle between
+- [00:04:53,510 - 00:04:56,760] the life of ease and its momentary rewards
+- [00:04:56,760 - 00:04:59,470] and a life of discipline
+- [00:04:59,470 - 00:05:02,180] and its far more significant rewards.
+- [00:05:02,180 - 00:05:04,360] Each has its own price.
+- [00:05:04,360 - 00:05:08,020] The price of discipline or the price of regret.
+- [00:05:08,020 - 00:05:11,840] We will pay one or the other.
+- [00:05:11,840 - 00:05:15,340] What we wish we had done is the voice of
+- [00:05:15,340 - 00:05:18,840] regret, speaking in a sorrowful tone at a time when
+- [00:05:18,840 - 00:05:19,800] there is no going back.
+- [00:05:19,800 - 00:05:23,140] This is regret.
+- [00:05:23,140 - 00:05:25,400] No second chance.
+- [00:05:25,400 - 00:05:29,160] No what would I do differently.
+- [00:05:29,160 - 00:05:31,740] Choose one or the other, but both will
+- [00:05:31,740 - 00:05:34,320] have their price, the price of discipline or the
+- [00:05:34,320 - 00:05:36,040] price of regret.
+- [00:05:36,040 - 00:05:41,440] One costs pennies, the other a fortune.
+- [00:05:41,440 - 00:05:44,750] Dostoevsky said, there are hundreds of young men
+- [00:05:44,750 - 00:05:48,060] who would die for the truth, but very
+- [00:05:48,060 - 00:05:49,200] few who would spend five years in prison.
+- [00:05:49,200 - 00:05:49,640] I'm not going to lie.
+- [00:05:49,640 - 00:05:49,760] I'm not going to lie.
+- [00:05:49,800 - 00:05:51,660] I'm wurdeating the truth, nor would I have
+- [00:05:51,660 - 00:05:53,520] anything to do with the feeling that the true
+- [00:05:53,520 - 00:05:55,830] act can be understood simply physically, in
+- [00:05:55,830 - 00:05:58,140] order that they could choose either to move
+- [00:05:58,140 - 00:05:59,140] forward or to stay onward.
+- [00:05:59,140 - 00:06:03,800] You can go where you want and you
+- [00:06:03,800 - 00:06:08,460] can go with what your принcesse really desire.
+- [00:06:08,460 - 00:06:11,190] That's extremely important to all we
+- [00:06:11,190 - 00:06:13,920] годуwts, that all honor could learn.
+- [00:06:13,920 - 00:06:14,520] As I say, death is
+- [00:06:14,520 - 00:06:15,120] a series ofнакl ihe ac kingdom.
+- [00:06:15,120 - 00:06:15,500] To qualidade this reason, everybody on the earth
+- [00:06:15,500 - 00:06:15,880] must know the true facts and the true
+- [00:06:15,880 - 00:06:16,880] action in the question and in the question.
+- [00:06:16,880 - 00:06:17,440] Death is the first lesson itself that we
+- [00:06:17,440 - 00:06:18,000] hull have then in this life of greatroller Screw
+- [00:06:18,000 - 00:06:19,000] death, If I say that, then what?
+- [00:06:19,000 - 00:06:19,620] I'm nigh equal minded.
+- [00:06:19,620 - 00:06:19,740] In truth it is.
+- [00:06:19,740 - 00:06:22,780] activity. And we've said that the
+- [00:06:22,780 - 00:06:25,820] best form of discipline is consistent self-discipline.
+- [00:06:26,860 - 00:06:29,420] You see, the discipline that it takes to make
+- [00:06:29,420 - 00:06:31,980] your bed every day is the same discipline necessary for
+- [00:06:31,980 - 00:06:35,140] success in the world of business. The discipline
+- [00:06:35,140 - 00:06:38,300] to organize your garage is the same discipline
+- [00:06:38,300 - 00:06:41,740] to organize your business. All disciplines carry
+- [00:06:41,740 - 00:06:45,180] through to affect all parts of our lives.
+- [00:06:45,180 - 00:06:49,260] If we're disciplined in just one area and lazy
+- [00:06:49,260 - 00:06:53,340] in another, guess what? Pretty soon the lazy side
+- [00:06:53,340 - 00:06:56,460] will creep in and destroy the disciplined side. The
+- [00:06:56,460 - 00:06:59,580] bad habits in one area of our life will
+- [00:06:59,580 - 00:07:03,140] eventually destroy our self-discipline in the
+- [00:07:03,140 - 00:07:06,700] areas we've been working on. Consistency cannot
+- [00:07:06,700 - 00:07:10,660] be inconsistent. Discipline is the mind being
+- [00:07:10,660 - 00:07:14,620] trained to control our lives. Discipline is a
+- [00:07:14,620 - 00:07:14,860] set of steps that we take to make sure
+- [00:07:14,860 - 00:07:15,100] we're disciplined in our lives. Discipline is the mind
+- [00:07:15,100 - 00:07:15,140] being trained to control our lives. Discipline is
+- [00:07:15,140 - 00:07:15,180] the mind being trained to control our lives.
+- [00:07:15,180 - 00:07:16,980] We have the standards which we've
+- [00:07:16,980 - 00:07:18,780] selected as a personal code of conduct.
+- [00:07:20,140 - 00:07:22,700] Discipline is imposing on ourselves
+- [00:07:22,700 - 00:07:25,260] the requirements for honoring these standards.
+- [00:07:26,460 - 00:07:29,060] Once we've adopted these standards of behavior
+- [00:07:29,060 - 00:07:31,660] and conduct, we're committed to honor them.
+- [00:07:32,380 - 00:07:35,700] And if we don't, then there can
+- [00:07:35,700 - 00:07:39,020] be no disciplined activity. We find ourselves
+- [00:07:39,020 - 00:07:42,060] announcing our standards to our relatives, our
+- [00:07:42,060 - 00:07:45,100] friends, our associates. We shout our beliefs
+- [00:07:45,100 - 00:07:48,500] and condemn those who believe any differently, but then
+- [00:07:48,500 - 00:07:51,900] we don't walk the talk. We end up acting
+- [00:07:51,900 - 00:07:55,060] in a way far different from the beliefs we've
+- [00:07:55,060 - 00:07:58,220] shouted. We tell our kids that the TV is rotting
+- [00:07:58,220 - 00:08:01,140] their minds, yet we spend our evenings in front
+- [00:08:01,140 - 00:08:04,060] of it. We tell our employees that they must take
+- [00:08:04,060 - 00:08:07,700] advantage of every minute of the working day, yet
+- [00:08:07,700 - 00:08:11,340] we spend three hours at lunch. Do as I say,
+- [00:08:11,340 - 00:08:13,180] not as I do. This is inconsistent. Discipline
+- [00:08:13,180 - 00:08:15,020] is the mind being trained to control our lives.
+- [00:08:15,740 - 00:08:19,060] This leads to a loss of credibility among those
+- [00:08:19,060 - 00:08:22,380] who watch us, and more importantly, this leads to
+- [00:08:22,380 - 00:08:25,619] a loss of credibility within ourselves. The only
+- [00:08:25,619 - 00:08:28,859] thing worse than one who is inconsistent in
+- [00:08:28,859 - 00:08:31,939] applying their self-imposed disciplines is one who
+- [00:08:31,939 - 00:08:35,020] has never considered the need or the value
+- [00:08:35,020 - 00:08:39,219] of discipline at all. These people seem
+- [00:08:39,219 - 00:08:43,419] to wander aimlessly changing procedures, changing standards,
+- [00:08:44,220 - 00:08:44,610] changing laws, and changing our lives. But
+- [00:08:44,610 - 00:08:45,000] the most important thing is that they're not
+- [00:08:45,000 - 00:08:47,860] loyalties and shifting frequently from one
+- [00:08:47,860 - 00:08:50,720] commitment to another, leaving behind a trail
+- [00:08:50,720 - 00:08:53,620] of broken friendships, unfinished projects and
+- [00:08:53,620 - 00:08:56,520] unfulfilled promises, all because of a
+- [00:08:56,520 - 00:09:00,530] discipline that was either non-existent or
+- [00:09:00,530 - 00:09:04,540] imposed so infrequently that it was ineffective.
+- [00:09:04,540 - 00:09:06,680] Here's the third step
+- [00:09:06,680 - 00:09:08,820] to becoming consistently self-disciplined.
+- [00:09:08,820 - 00:09:10,610] Number one is realizing that
+- [00:09:10,610 - 00:09:12,400] discipline isn't the easiest option.
+- [00:09:12,400 - 00:09:15,780] Number two, discipline is a full-time
+- [00:09:15,780 - 00:09:19,160] activity, day by day, every day.
+- [00:09:19,160 - 00:09:22,190] And the third step to becoming self-disciplined is
+- [00:09:22,190 - 00:09:25,220] really a philosophy that holds one of life's
+- [00:09:25,220 - 00:09:27,980] unique promises.
+- [00:09:27,980 - 00:09:31,390] Number three simply says for every
+- [00:09:31,390 - 00:09:34,800] disciplined effort, there is a multiple reward.
+- [00:09:34,800 - 00:09:38,400] That's one of life's great arrangements.
+- [00:09:38,400 - 00:09:40,420] It's like the law of sowing and reaping.
+- [00:09:40,420 - 00:09:41,400] In fact, it's an extension
+- [00:09:41,400 - 00:09:42,380] of the law of the law.
+- [00:09:42,380 - 00:09:45,460] It's an extension of the biblical law that
+- [00:09:45,460 - 00:09:48,540] says if you sow well, you reap well.
+- [00:09:48,540 - 00:09:50,210] Now here's a unique part of
+- [00:09:50,210 - 00:09:51,880] the law of sowing and reaping.
+- [00:09:51,880 - 00:09:55,060] Not only does it suggest that we'll all
+- [00:09:55,060 - 00:09:58,240] reap what we've sown, it also suggests that we'll
+- [00:09:58,240 - 00:10:01,200] reap much more.
+- [00:10:01,200 - 00:10:03,430] Life is full of laws
+- [00:10:03,430 - 00:10:05,660] that both govern and explain behaviors.
+- [00:10:05,660 - 00:10:07,710] But this may well be the
+- [00:10:07,710 - 00:10:09,760] major law we need to understand.
+- [00:10:09,760 - 00:10:11,060] For every disciplined effort.
+- [00:10:11,060 - 00:10:12,060] A multiple reward.
+- [00:10:12,060 - 00:10:13,180] For every disciplined effort.
+- [00:10:13,180 - 00:10:14,719] A multiple reward.
+- [00:10:14,719 - 00:10:15,699] What a concept.
+- [00:10:15,699 - 00:10:17,099] For every disciplined effort.
+- [00:10:17,099 - 00:10:19,400] A multiple reward.
+- [00:10:19,400 - 00:10:22,429] If you render unique service,
+- [00:10:22,429 - 00:10:25,459] your reward will be multiplied.
+- [00:10:25,459 - 00:10:28,199] If you're fair and honest and patient
+- [00:10:28,199 - 00:10:30,939] with others, your reward will be multiplied.
+- [00:10:30,939 - 00:10:34,179] If you give more than you expect to
+- [00:10:34,179 - 00:10:37,420] receive, your reward is more than you expect.
+- [00:10:37,420 - 00:10:38,819] But remember, the key word here,
+- [00:10:38,819 - 00:10:40,219] as you might well imagine, is discipline.
+- [00:10:40,219 - 00:10:41,219] Discipline.
+- [00:10:42,859 - 00:10:46,060] Everything of value requires care and attention.
+- [00:10:47,099 - 00:10:50,379] Everything of value requires discipline. Children
+- [00:10:50,379 - 00:10:53,660] require discipline. They must have a structure
+- [00:10:53,660 - 00:10:56,540] built for them. They must have boundaries to
+- [00:10:56,540 - 00:10:59,420] work within so they feel secure and comfortable
+- [00:10:59,420 - 00:11:02,300] to explore and grow. They must learn
+- [00:11:02,300 - 00:11:05,180] to recognize what's right and what's wrong.
+- [00:11:06,140 - 00:11:09,979] What's acceptable behavior, what's not
+- [00:11:09,979 - 00:11:13,819] acceptable. Children require unwavering discipline, consistent
+- [00:11:13,819 - 00:11:16,019] discipline or they'll be confused as
+- [00:11:16,019 - 00:11:18,219] to how they're supposed to behave.
+- [00:11:19,660 - 00:11:21,939] Likewise, our thoughts require discipline. We
+- [00:11:21,939 - 00:11:24,219] must set up our inner boundaries,
+- [00:11:24,859 - 00:11:28,620] our codes of conduct or our thoughts will be confused.
+- [00:11:29,180 - 00:11:32,939] And with confused thoughts, we'll end up being confused,
+- [00:11:33,660 - 00:11:34,979] hopelessly lost in the middle of the world.
+- [00:11:34,979 - 00:11:35,039] It's just like a man who's lost his mind.
+- [00:11:35,039 - 00:11:35,099] It's just like a man who's lost his mind.
+- [00:11:35,099 - 00:11:35,120] It's just like a man who's lost his mind.
+- [00:11:35,120 - 00:11:35,160] It's just like a man who's lost his mind.
+- [00:11:35,160 - 00:11:35,180] It's just like a man who's lost his mind.
+- [00:11:35,180 - 00:11:37,499] A maze of life. And
+- [00:11:37,499 - 00:11:39,819] confused thoughts produce confused results.
+- [00:11:41,260 - 00:11:44,380] Look around you at this very moment in
+- [00:11:44,380 - 00:11:47,500] time. What might you be doing that needs attention?
+- [00:11:48,459 - 00:11:51,019] Perhaps you're listening to this program as
+- [00:11:51,019 - 00:11:53,579] you drive along in traffic, blowing your horn
+- [00:11:53,579 - 00:11:56,259] at someone ahead of you who isn't driving
+- [00:11:56,259 - 00:11:58,939] at the speed you'd like to. Perhaps you're listening
+- [00:11:58,939 - 00:12:01,859] alone because you've had a disagreement with someone
+- [00:12:01,859 - 00:12:04,780] you love or someone who loves you and your
+- [00:12:04,780 - 00:12:04,939] anger is your own. You just haven't let go
+- [00:12:04,939 - 00:12:05,099] of the thought of your holiness or your patience.
+- [00:12:05,100 - 00:12:08,300] won't allow you to speak to that person, wouldn't this
+- [00:12:08,300 - 00:12:11,500] be an ideal time to examine your need for a
+- [00:12:11,500 - 00:12:15,180] new discipline? Perhaps you're on the brink of
+- [00:12:15,180 - 00:12:18,860] giving up or starting over or starting out and
+- [00:12:18,860 - 00:12:21,700] the only missing ingredient to your incredible success
+- [00:12:21,700 - 00:12:24,540] story in the future is a new and
+- [00:12:24,540 - 00:12:27,860] self-imposed discipline that will make you stay
+- [00:12:27,860 - 00:12:31,180] longer and try harder and work more intensely
+- [00:12:31,180 - 00:12:34,540] than you ever thought you possibly could. The
+- [00:12:34,540 - 00:12:37,900] most valuable form of discipline is the one that
+- [00:12:37,900 - 00:12:41,299] you impose on yourself. Don't wait for things
+- [00:12:41,299 - 00:12:44,699] to deteriorate so drastically that someone else must
+- [00:12:44,699 - 00:12:48,339] impose discipline into your life. Wouldn't that be
+- [00:12:48,339 - 00:12:51,979] tragic? How could you possibly explain the fact
+- [00:12:51,979 - 00:12:54,819] that someone else thought more of you than you
+- [00:12:54,819 - 00:12:57,660] thought of yourself? That they forced you to get
+- [00:12:57,660 - 00:12:59,340] up early and get out into the marketplace
+- [00:12:59,340 - 00:13:01,020] when you were in the middle of the night?
+- [00:13:01,180 - 00:13:03,620] Well even some people would have been content to let
+- [00:13:03,620 - 00:13:06,060] success go to someone else who cared more about themselves cells
+- [00:13:07,339 - 00:13:10,339] Your life, my life, the life of each one
+- [00:13:10,339 - 00:13:13,339] of us is going to serve as either a warning
+- [00:13:13,339 - 00:13:17,339] or an example. A warning of the consequences
+- [00:13:17,339 - 00:13:21,339] of neglect, self-pity, lack of direction and ambition
+- [00:13:21,900 - 00:13:25,299] or an example of talent
+- [00:13:25,299 - 00:13:28,699] put to use, of discipline self-imposed
+- [00:13:29,420 - 00:13:30,189] and of objectives clearlyomatized and
+- [00:13:30,189 - 00:13:30,959] unquestionably tough for you butποhanded.
+- [00:13:30,959 - 00:13:30,989] Your life of each one of us is going to serve as either a warning or an example a warning of the consequences of neglect self-pity
+- [00:13:30,989 - 00:13:31,020] lack of direction and ambition or an example of talent put to use of discipline self-imposed and of objectives clearly Tik assesses clearly premeditated and unflinchingly outraged.
+- [00:13:31,020 - 00:13:31,100] How then will tell if you're on the brink of giving up hope just because
+- [00:13:31,100 - 00:13:31,180] of a need for another person and something that mighte help you not to succeed.
+- [00:13:31,180 - 00:13:33,339] perceived and intensely pursued.
