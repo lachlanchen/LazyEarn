@@ -1,0 +1,8428 @@
+1
+00:00:00,000 --> 00:00:15,260
+Well, welcome all for a wonderful warm January.
+
+2
+00:00:16,260 --> 00:00:18,600
+What better to warm yourself than by
+
+3
+00:00:18,600 --> 00:00:20,940
+the fabulous thing of free government money?
+
+4
+00:00:21,920 --> 00:00:23,400
+I'm Steve Derzinski.
+
+5
+00:00:24,120 --> 00:00:26,190
+I've got a bunch of background that I'm going
+
+6
+00:00:26,190 --> 00:00:28,260
+to go through in a second, but I wanted to
+
+7
+00:00:28,260 --> 00:00:30,410
+give you guys a little bit
+
+8
+00:00:30,410 --> 00:00:32,560
+of the history of this particular lecture.
+
+9
+00:00:33,160 --> 00:00:35,690
+A couple of years ago, I looked around MIT and
+
+10
+00:00:35,690 --> 00:00:38,220
+I said, why is it that we don't have anything
+
+11
+00:00:38,220 --> 00:00:41,640
+on really winning SBRs and what the process is
+
+12
+00:00:41,640 --> 00:00:45,060
+to win them, not just how to fill out forms?
+
+13
+00:00:45,760 --> 00:00:49,220
+And it turns out that most people provide
+
+14
+00:00:49,220 --> 00:00:52,680
+it as consulting, and some people aren't really
+
+15
+00:00:52,680 --> 00:00:54,050
+allowed to say the things that
+
+16
+00:00:54,050 --> 00:00:55,420
+I want to tell you guys about.
+
+17
+00:00:55,780 --> 00:00:57,520
+So I decided to just put this together.
+
+18
+00:00:57,520 --> 00:00:58,200
+I did it.
+
+19
+00:00:58,260 --> 00:01:01,130
+Last year, we had the ones that I know
+
+20
+00:01:01,130 --> 00:01:04,000
+about, the three people that applied all won awards,
+
+21
+00:01:04,000 --> 00:01:06,540
+and actually one company decided to just go
+
+22
+00:01:06,540 --> 00:01:09,080
+and raise venture capital, and they just closed
+
+23
+00:01:09,080 --> 00:01:09,920
+a $5 million round.
+
+24
+00:01:10,080 --> 00:01:11,580
+So hopefully you guys will
+
+25
+00:01:11,580 --> 00:01:13,080
+be in that same boat shortly.
+
+26
+00:01:14,100 --> 00:01:14,280
+Okay.
+
+27
+00:01:15,620 --> 00:01:17,140
+So I'm Steve Derzinski.
+
+28
+00:01:17,259 --> 00:01:18,649
+I've got my undergraduate
+
+29
+00:01:18,649 --> 00:01:20,039
+in mechanical engineering from MIT.
+
+30
+00:01:20,460 --> 00:01:23,420
+I was originally a roboticist, which kind of
+
+31
+00:01:23,420 --> 00:01:26,380
+gives you a certain mental model of the
+
+32
+00:01:26,380 --> 00:01:28,080
+world that everything works in feedback.
+
+33
+00:01:28,080 --> 00:01:29,800
+So you know, we're all going to get
+
+34
+00:01:29,800 --> 00:01:31,520
+feedback loops, and every time you're trying to control
+
+35
+00:01:31,520 --> 00:01:33,330
+something, you always have to get the feedback on
+
+36
+00:01:33,330 --> 00:01:35,140
+it, and make it kind of correct what it
+
+37
+00:01:35,140 --> 00:01:36,240
+didn't do.
+
+38
+00:01:36,240 --> 00:01:39,520
+I've got a patent on the space shuttle's robotic arm.
+
+39
+00:01:39,520 --> 00:01:41,680
+So when the space shuttle's robotic arm was
+
+40
+00:01:41,680 --> 00:01:43,840
+trying to move solar panels, they would vibrate
+
+41
+00:01:43,840 --> 00:01:46,799
+like crazy, so we came up with an algorithm to
+
+42
+00:01:46,799 --> 00:01:49,759
+move it a lot more quickly and with a lot
+
+43
+00:01:49,759 --> 00:01:51,440
+less vibration.
+
+44
+00:01:51,440 --> 00:01:53,800
+I then went back to Sloan
+
+45
+00:01:53,800 --> 00:01:56,160
+and got a Sloan Fellow's degree.
+
+46
+00:01:56,160 --> 00:01:57,860
+So I have both that kind of weird engineering vibe.
+
+47
+00:01:57,860 --> 00:02:00,440
+viewpoint and then also an MBA. And in between
+
+48
+00:02:00,440 --> 00:02:03,020
+those two, I was down at Georgia Tech and I
+
+49
+00:02:03,020 --> 00:02:06,940
+created what I call the first faculty venture
+
+50
+00:02:06,940 --> 00:02:10,860
+studio. And yes, it was formed before the Deshpande
+
+51
+00:02:10,860 --> 00:02:14,150
+Center at MIT. And this is basically a process
+
+52
+00:02:14,150 --> 00:02:17,440
+that you go through the university and you look
+
+53
+00:02:17,440 --> 00:02:19,710
+at all the technology they have and you say,
+
+54
+00:02:19,710 --> 00:02:21,980
+this is great. What are the commercial applications for
+
+55
+00:02:21,980 --> 00:02:24,660
+it? Our innovation was basically bringing in
+
+56
+00:02:24,660 --> 00:02:27,340
+fundable CEOs into the university so they could
+
+57
+00:02:27,340 --> 00:02:30,020
+form companies within our venture lab. So it was
+
+58
+00:02:30,020 --> 00:02:32,700
+like a university lab, but it was for venture
+
+59
+00:02:32,700 --> 00:02:34,550
+creation. And that's still going today. You can look
+
+60
+00:02:34,550 --> 00:02:36,400
+it up online. I think they've done about $2
+
+61
+00:02:36,400 --> 00:02:38,940
+billion with the startups now. And today
+
+62
+00:02:38,940 --> 00:02:41,480
+I'm running a co-foundry in Kendall Square, forming
+
+63
+00:02:41,480 --> 00:02:45,460
+multiple companies from that technology. But in terms
+
+64
+00:02:45,460 --> 00:02:49,440
+of this class right now, my experience with
+
+65
+00:02:49,440 --> 00:02:52,250
+federal contracts is about $40 million roughly. Sorry,
+
+66
+00:02:52,250 --> 00:02:55,060
+this is the $23 million list of all the
+
+67
+00:02:55,060 --> 00:02:56,190
+federal contracts I've done. And I've done a
+
+68
+00:02:56,190 --> 00:02:57,320
+lot of research on the federal contracts. And I've
+
+69
+00:02:57,320 --> 00:02:57,330
+done a lot of research on the federal contracts.
+
+70
+00:02:57,330 --> 00:02:57,340
+And I've done a lot of research on the federal
+
+71
+00:02:57,340 --> 00:02:57,910
+contracts. And I've done a lot of research on the
+
+72
+00:02:57,910 --> 00:02:58,480
+federal contracts. And I will tell you that I was
+
+73
+00:02:58,480 --> 00:03:02,140
+either the PI or the primary business person on
+
+74
+00:03:02,140 --> 00:03:05,800
+all of these contracts. So I have interfaced with NASA,
+
+75
+00:03:05,800 --> 00:03:09,500
+NSF, DOE, ARPA-E for all of these things, as well as
+
+76
+00:03:09,500 --> 00:03:13,200
+DOD, which is not on the list. But I've done a
+
+77
+00:03:13,200 --> 00:03:16,360
+ton of work that way. And over the years,
+
+78
+00:03:16,360 --> 00:03:19,520
+I've discovered kind of this, you know, all money is
+
+79
+00:03:19,520 --> 00:03:21,680
+not equal, right? There's different colors of
+
+80
+00:03:21,680 --> 00:03:23,840
+money and there's different motivations for the
+
+81
+00:03:23,840 --> 00:03:25,580
+funding that you get. And understanding that
+
+82
+00:03:25,580 --> 00:03:27,320
+before you get into it is really critical.
+
+83
+00:03:27,320 --> 00:03:33,860
+So I wanted to make a specific characterization
+
+84
+00:03:33,860 --> 00:03:40,400
+of disruptive technology. A lot of people talk
+
+85
+00:03:40,400 --> 00:03:43,300
+about, or I did my MBA actually on
+
+86
+00:03:43,300 --> 00:03:46,200
+technology innovation, which was focused on thinking about
+
+87
+00:03:46,200 --> 00:03:48,920
+how do you commercialize incremental technology
+
+88
+00:03:48,920 --> 00:03:51,640
+advances and how do you commercialize radical
+
+89
+00:03:51,640 --> 00:03:54,469
+technology advances or disruptive technology. And the
+
+90
+00:03:54,469 --> 00:03:57,299
+classic example, and I'm not going to
+
+91
+00:03:57,300 --> 00:03:58,800
+go into too much detail on this, but I
+
+92
+00:03:58,800 --> 00:04:00,300
+think it's really important to understand is that what
+
+93
+00:04:00,300 --> 00:04:01,800
+you're trying to do is you're trying to get
+
+94
+00:04:01,800 --> 00:04:03,300
+the right product, right? And you always see these
+
+95
+00:04:03,300 --> 00:04:05,800
+pulled together is if you have an incremental
+
+96
+00:04:05,800 --> 00:04:08,300
+technology, then it's very easy to just go and
+
+97
+00:04:08,300 --> 00:04:10,300
+talk to your customers about what do they want. I
+
+98
+00:04:10,300 --> 00:04:12,300
+mean, if I just took a generic customer and I
+
+99
+00:04:12,300 --> 00:04:14,800
+said, what do you want? They would say exactly
+
+100
+00:04:14,800 --> 00:04:17,300
+what I have right now, but cheaper, faster, and
+
+101
+00:04:17,300 --> 00:04:19,300
+with better quality, right? I mean, that's like
+
+102
+00:04:19,300 --> 00:04:21,300
+an easy thing to sell because it doesn't disrupt
+
+103
+00:04:21,300 --> 00:04:24,300
+their model, right? So commercializing incremental
+
+104
+00:04:24,300 --> 00:04:27,300
+innovations should be fairly straightforward. What
+
+105
+00:04:27,300 --> 00:04:30,300
+you're trying to find for is
+
+106
+00:04:30,300 --> 00:04:33,300
+disrupting crazy innovations or, sorry, commercializing crazy
+
+107
+00:04:33,300 --> 00:04:37,300
+technology. And it's uniquely positioned in funding
+
+108
+00:04:37,300 --> 00:04:41,300
+those kinds of activities. So to this point,
+
+109
+00:04:41,300 --> 00:04:43,300
+one of my favorite quotes from Henry Ford, if
+
+110
+00:04:43,300 --> 00:04:45,300
+I asked people what they wanted, they would have said
+
+111
+00:04:45,300 --> 00:04:47,300
+a faster horse, right? Because they all had horses
+
+112
+00:04:47,300 --> 00:04:49,300
+at the time. They just wanted what they had right
+
+113
+00:04:49,300 --> 00:04:51,300
+now, just a little bit faster. They wouldn't have said,
+
+114
+00:04:51,300 --> 00:04:53,300
+I want a vehicle that has four wheels that I
+
+115
+00:04:53,300 --> 00:04:55,300
+have to start up every day and stick gasoline
+
+116
+00:04:55,300 --> 00:04:57,300
+in, right? Along those lines, I think that's a good
+
+117
+00:04:57,300 --> 00:05:00,300
+quote. And one of my favorite lines, Steve Jobs,
+
+118
+00:05:00,300 --> 00:05:03,300
+another quote I love, which is, what we have found
+
+119
+00:05:03,300 --> 00:05:05,300
+is that in general, customers don't know what they want
+
+120
+00:05:05,300 --> 00:05:07,300
+until you show it to them. So now what we're
+
+121
+00:05:07,300 --> 00:05:10,300
+here today talking about is, great, I've got this
+
+122
+00:05:10,300 --> 00:05:13,300
+cool technology and I want to reduce it to a
+
+123
+00:05:13,300 --> 00:05:17,300
+product that I can show to a customer, but where
+
+124
+00:05:17,300 --> 00:05:21,300
+do I get that funding, right? Let's see. So that
+
+125
+00:05:21,300 --> 00:05:24,300
+over the years, everyone's talked about the valley of
+
+126
+00:05:24,300 --> 00:05:27,300
+death over the years. And I have a, you know,
+
+127
+00:05:27,300 --> 00:05:29,800
+unique view of this. And one is that
+
+128
+00:05:29,800 --> 00:05:32,300
+governments and universities, there's a ton of money available
+
+129
+00:05:32,300 --> 00:05:34,800
+to do research on the next cool thing, right?
+
+130
+00:05:34,800 --> 00:05:37,300
+If you have no application, but you have really cool
+
+131
+00:05:37,300 --> 00:05:39,800
+research idea, there's a ton of money at
+
+132
+00:05:39,800 --> 00:05:42,300
+the National Science Foundation, DOE, to go discover
+
+133
+00:05:42,300 --> 00:05:45,300
+neat things. But if you're in the university, there's
+
+134
+00:05:45,300 --> 00:05:48,300
+a certain vector that your funds have to go
+
+135
+00:05:48,300 --> 00:05:51,300
+in. And they have to go towards
+
+136
+00:05:51,300 --> 00:05:54,300
+finding new interesting things, new interesting research. As
+
+137
+00:05:54,300 --> 00:05:55,800
+soon as you start doubling down on the same
+
+138
+00:05:55,800 --> 00:05:57,300
+money going after other things, you're going to have a
+
+139
+00:05:57,300 --> 00:05:58,800
+lot of money. And if you're looking
+
+140
+00:05:58,800 --> 00:06:00,300
+for an application and going after commercial, that's
+
+141
+00:06:00,300 --> 00:06:02,300
+considered not the right use of funds, right? You
+
+142
+00:06:02,300 --> 00:06:04,300
+have to get different sources of funds to move it
+
+143
+00:06:04,300 --> 00:06:06,300
+towards the commercial landscape. And then you go
+
+144
+00:06:06,300 --> 00:06:08,300
+on the other side in the private sector, Wall
+
+145
+00:06:08,300 --> 00:06:10,800
+Street has a ton of money, right? So if you have
+
+146
+00:06:10,800 --> 00:06:13,300
+a customer that wants to expand or if you want to
+
+147
+00:06:13,300 --> 00:06:15,300
+expand your operation and you've got ten years of
+
+148
+00:06:15,300 --> 00:06:17,300
+financials, there's a ton of sources to do that.
+
+149
+00:06:17,300 --> 00:06:20,300
+But it's that gap in between and how do you
+
+150
+00:06:20,300 --> 00:06:23,300
+fund that gap in between that's the real challenge. And
+
+151
+00:06:23,300 --> 00:06:24,800
+I know there's a bunch of solutions out there, but
+
+152
+00:06:24,800 --> 00:06:26,300
+I've looked around and I've looked at a lot of
+
+153
+00:06:26,300 --> 00:06:26,800
+solutions. And I've looked at a lot of solutions.
+
+154
+00:06:26,800 --> 00:06:27,300
+And I've looked at a lot of solutions. And I've
+
+155
+00:06:27,300 --> 00:06:30,300
+looked at foundations and angel investing and VCs. And
+
+156
+00:06:30,300 --> 00:06:33,300
+really what I've come to over all of these
+
+157
+00:06:33,300 --> 00:06:36,800
+years is that the SBIR is really the best program to
+
+158
+00:06:36,800 --> 00:06:40,300
+fund that gap. And often when you go and talk to
+
+159
+00:06:40,300 --> 00:06:42,300
+end customers, they'll say, hey, this is great research.
+
+160
+00:06:42,300 --> 00:06:44,300
+Where can I buy the product? And then you
+
+161
+00:06:44,300 --> 00:06:47,300
+sort of have to gulp. There's a lot of work
+
+162
+00:06:47,300 --> 00:06:50,300
+between this paper that I just got published and actually
+
+163
+00:06:50,300 --> 00:06:53,300
+having a product that you can play with and understand
+
+164
+00:06:53,300 --> 00:06:56,300
+how it works. So what I've found is if you
+
+165
+00:06:56,300 --> 00:06:58,800
+talk to end customers about a disruptive technology and
+
+166
+00:06:58,800 --> 00:07:01,300
+you don't have it reduced to practice or don't
+
+167
+00:07:01,300 --> 00:07:03,800
+have it reduced to something that they can use and
+
+168
+00:07:03,800 --> 00:07:06,300
+try, you're going to just talk to a lot of customers
+
+169
+00:07:06,300 --> 00:07:08,800
+that don't understand or they're going to be nice
+
+170
+00:07:08,800 --> 00:07:11,300
+to you or other things. So that's really where the
+
+171
+00:07:11,300 --> 00:07:14,300
+SBIR comes in and specifically a lot of the programs
+
+172
+00:07:14,300 --> 00:07:17,300
+that we're going to talk about today. And the way
+
+173
+00:07:17,300 --> 00:07:20,300
+that we look at this at the Kendall Square cofoundry
+
+174
+00:07:20,300 --> 00:07:23,300
+is by focusing on these two sort of blue squares.
+
+175
+00:07:23,300 --> 00:07:24,300
+I call them a technology project if it's a
+
+176
+00:07:24,300 --> 00:07:25,300
+technology project, it's a technology project if it's a
+
+177
+00:07:25,300 --> 00:07:28,800
+technology that has a lot of interesting research
+
+178
+00:07:28,800 --> 00:07:32,300
+dimensions to it, but there's no real customer
+
+179
+00:07:32,300 --> 00:07:35,800
+that either understands or has been engaged or really knows
+
+180
+00:07:35,800 --> 00:07:39,300
+kind of how to purchase it or how to even
+
+181
+00:07:39,300 --> 00:07:42,300
+interact with it at some stage. So in that
+
+182
+00:07:42,300 --> 00:07:45,300
+mode, you're exploring new applications. And if you're in
+
+183
+00:07:45,300 --> 00:07:48,800
+this mode of exploring new applications, the worst thing
+
+184
+00:07:48,800 --> 00:07:52,300
+you can do is take recourse funding, in my
+
+185
+00:07:52,300 --> 00:07:53,300
+opinion. So this is a
+
+186
+00:07:53,300 --> 00:07:54,300
+little bit of a different approach.
+
+187
+00:07:55,300 --> 00:07:57,300
+It's a little bit controversial. So right between
+
+188
+00:07:57,300 --> 00:07:59,300
+these two, and then on the right-hand side, sorry,
+
+189
+00:07:59,300 --> 00:08:01,800
+on the right-hand side, we have company projects, which
+
+190
+00:08:01,800 --> 00:08:04,300
+are, okay, we've got them, you know, we've got a
+
+191
+00:08:04,300 --> 00:08:07,300
+demo and we've got things that people can use and
+
+192
+00:08:07,300 --> 00:08:10,300
+we now just need to understand how to fund them more
+
+193
+00:08:10,300 --> 00:08:12,800
+so that we can refine them, you know, debug them
+
+194
+00:08:12,800 --> 00:08:15,300
+and get them in a package that the customer really wants.
+
+195
+00:08:15,300 --> 00:08:18,800
+But that's only after you have clear customer focus.
+
+196
+00:08:18,800 --> 00:08:22,300
+And a lot of times people, especially in, you know,
+
+197
+00:08:22,300 --> 00:08:23,800
+around MIT, there's a ton of funding available for
+
+198
+00:08:23,800 --> 00:08:25,300
+applications. And so, you know, we're going to talk about
+
+199
+00:08:25,300 --> 00:08:28,799
+equity funding, you know, angels and VCs, that's all
+
+200
+00:08:28,799 --> 00:08:32,299
+recourse funding. And I want to caution you all
+
+201
+00:08:32,299 --> 00:08:35,299
+that crossing that line when you're in this exploration
+
+202
+00:08:35,299 --> 00:08:38,299
+mode can be a little bit crazy because when you're
+
+203
+00:08:38,299 --> 00:08:40,299
+in this exploration mode and you take recourse funding,
+
+204
+00:08:40,299 --> 00:08:42,299
+it's like I have an obligation to somebody but I
+
+205
+00:08:42,299 --> 00:08:44,799
+don't really know what direction I'm going yet. And
+
+206
+00:08:44,799 --> 00:08:47,300
+you keep in mind I've been doing this for many
+
+207
+00:08:47,300 --> 00:08:51,300
+decades. So I've seen a lot of oopses in this space.
+
+208
+00:08:51,300 --> 00:08:55,300
+So if you're on the left side of that line, grants and
+
+209
+00:08:55,300 --> 00:08:57,800
+non-recourse funding, absolutely. That is the perfect
+
+210
+00:08:57,800 --> 00:09:00,300
+source of funding to reduce things to practice.
+
+211
+00:09:00,300 --> 00:09:02,800
+And if you're on the right side of the line
+
+212
+00:09:02,800 --> 00:09:05,300
+where you have customers and you've got traction, then getting recourse
+
+213
+00:09:05,300 --> 00:09:09,300
+funding is OK. But I mean, it's absolutely the
+
+214
+00:09:09,300 --> 00:09:13,300
+way to go. And especially if you need growth capital.
+
+215
+00:09:13,300 --> 00:09:16,800
+So I know I know I have a lot of I have invested. I
+
+216
+00:09:16,800 --> 00:09:20,300
+have a lot of investor friends and a lot of them say, oh, no, no,
+
+217
+00:09:20,300 --> 00:09:22,300
+we like to take technology risks. And then you realize
+
+218
+00:09:22,300 --> 00:09:24,300
+that maybe that's not such the best way to do it.
+
+219
+00:09:24,300 --> 00:09:26,800
+Maybe that's not such the best, best idea for your
+
+220
+00:09:26,800 --> 00:09:29,300
+technology because you still don't know what direction it needs to
+
+221
+00:09:29,300 --> 00:09:32,300
+go in. I can tell you that they love to invest on the
+
+222
+00:09:32,300 --> 00:09:35,300
+right hand side when you have customer traction and you just need to
+
+223
+00:09:35,300 --> 00:09:37,800
+you know, the pump is already going and you need to just
+
+224
+00:09:37,800 --> 00:09:40,300
+jam more, you know, jam more capital into that pump and keep
+
+225
+00:09:40,300 --> 00:09:43,300
+cranking it out. So so over the you know, as you sort of
+
+226
+00:09:43,300 --> 00:09:46,300
+look at all the sources of funding that are out there, what you
+
+227
+00:09:46,300 --> 00:09:49,800
+come to is that SBIR is the best source of funding
+
+228
+00:09:49,800 --> 00:09:53,300
+for this exact stage being in this sort of deep technology space.
+
+229
+00:09:53,300 --> 00:09:54,300
+So.
+
+230
+00:09:54,300 --> 00:09:57,800
+Yeah. So don't take recourse funding at this stage. And I'm sure
+
+231
+00:09:57,800 --> 00:10:01,300
+you're getting lots of angels who are like, oh, no, we'll give you
+
+232
+00:10:01,300 --> 00:10:04,300
+100 grand. Oh, we'll give you 200 grand. You can still take it.
+
+233
+00:10:04,300 --> 00:10:07,300
+Right. I mean, I don't have any control over you, but I don't
+
+234
+00:10:07,300 --> 00:10:10,300
+recommend it.
+
+235
+00:10:10,300 --> 00:10:14,800
+OK, so perfectly designed for this. It's about
+
+236
+00:10:14,800 --> 00:10:19,300
+four billion dollars of federal funds every year.
+
+237
+00:10:19,300 --> 00:10:21,300
+And if and that's expended every year, that's given out every year.
+
+238
+00:10:21,300 --> 00:10:23,300
+So if you were to sort of do the math on that,
+
+239
+00:10:23,300 --> 00:10:25,300
+you would be able to do the math
+
+240
+00:10:25,300 --> 00:10:27,300
+on what size venture capital fund that would be.
+
+241
+00:10:27,300 --> 00:10:30,300
+Venture capitalists give out about a fifth of their of their
+
+242
+00:10:30,300 --> 00:10:33,300
+total capital under management every year in their new funds every year.
+
+243
+00:10:33,300 --> 00:10:35,300
+So that would be about a
+
+244
+00:10:35,300 --> 00:10:37,300
+20 billion dollar equivalent venture capital fund.
+
+245
+00:10:37,300 --> 00:10:39,800
+And the expectations are simply
+
+246
+00:10:39,800 --> 00:10:42,300
+that you will do the good.
+
+247
+00:10:42,300 --> 00:10:45,800
+You'll do the work. There's no expectation of getting
+
+248
+00:10:45,800 --> 00:10:49,300
+paid back or that you'll be commercially successful or anything.
+
+249
+00:10:49,300 --> 00:10:50,800
+And I want to point out that some equity investors
+
+250
+00:10:50,800 --> 00:10:52,300
+do actually view winning an SBIR as a good investment.
+
+251
+00:10:52,300 --> 00:10:53,800
+They see winning an SBIR as
+
+252
+00:10:53,800 --> 00:10:55,300
+a positive for their due diligence.
+
+253
+00:10:55,300 --> 00:10:58,800
+So especially if it's sometimes there's a lot of
+
+254
+00:10:58,800 --> 00:11:02,300
+DOD people that have some deep, deep technology expertise.
+
+255
+00:11:02,300 --> 00:11:05,800
+And if they decide to fund you, then that's a that's an indicator
+
+256
+00:11:05,800 --> 00:11:09,300
+on the outside that says, oh, well, you must know what you're talking about,
+
+257
+00:11:09,300 --> 00:11:13,300
+because we know this these guys at the DOD and they know, you know, if you're
+
+258
+00:11:13,300 --> 00:11:17,300
+just not if you don't really have what it takes or if you if you do.
+
+259
+00:11:17,300 --> 00:11:21,300
+So so that's that's a good thing. All right.
+
+260
+00:11:21,300 --> 00:11:24,300
+And I wanted to go into real quick
+
+261
+00:11:24,300 --> 00:11:27,300
+on the incentives of the different funding sources.
+
+262
+00:11:27,300 --> 00:11:29,800
+Charlie Munger from Berkshire Hathaway
+
+263
+00:11:29,800 --> 00:11:32,300
+has another favorite quote of mine.
+
+264
+00:11:32,300 --> 00:11:35,300
+Show me the incentives and I'll show you the outcome. A lot of times, if
+
+265
+00:11:35,300 --> 00:11:38,300
+you already know what the incentives are, there's no even point in asking the question.
+
+266
+00:11:38,300 --> 00:11:41,300
+So you guys probably I'm sure you
+
+267
+00:11:41,300 --> 00:11:44,300
+all know about angel investors and VCs.
+
+268
+00:11:44,300 --> 00:11:46,800
+The biggest distinction between an angel investor and a VC is an angel investor
+
+269
+00:11:46,800 --> 00:11:49,300
+is investing their own money so they can write a check whenever they want.
+
+270
+00:11:49,300 --> 00:11:50,300
+So they can write a check whenever they want.
+
+271
+00:11:51,300 --> 00:11:53,300
+Right. There's there's no it's like I feel
+
+272
+00:11:53,300 --> 00:11:55,300
+like right now you seem like a nice guy.
+
+273
+00:11:55,300 --> 00:11:57,800
+I can write your check. No problem. Right.
+
+274
+00:11:57,800 --> 00:12:00,300
+A VC actually technically gets money from limited partners.
+
+275
+00:12:00,300 --> 00:12:01,800
+So they have someone else up
+
+276
+00:12:01,800 --> 00:12:03,300
+the chain that they respond to.
+
+277
+00:12:03,300 --> 00:12:06,800
+And so what I'm going to say might sound a little crass,
+
+278
+00:12:06,800 --> 00:12:10,300
+but it's absolutely true if you think about the structure of the relationship.
+
+279
+00:12:10,300 --> 00:12:13,300
+OK, so their motivation is to maximize return, get a
+
+280
+00:12:13,300 --> 00:12:16,300
+big piece of equity and get to a fast exit.
+
+281
+00:12:16,300 --> 00:12:17,800
+Now, I've talked to a bunch of VCs
+
+282
+00:12:17,800 --> 00:12:19,300
+and they'll all say, no, no, we're slow investors.
+
+283
+00:12:19,300 --> 00:12:22,300
+I can tell you that that may be true.
+
+284
+00:12:22,300 --> 00:12:23,800
+But the question really is the limited partners
+
+285
+00:12:23,800 --> 00:12:25,300
+that are that have put money in them.
+
+286
+00:12:25,300 --> 00:12:27,300
+Do they actually feel that they're slow investors?
+
+287
+00:12:27,300 --> 00:12:28,800
+Maybe there may be a couple
+
+288
+00:12:28,800 --> 00:12:30,300
+out there that do actually do that.
+
+289
+00:12:30,300 --> 00:12:34,800
+But by and large, the whole reason why limited partners like big pensions funds allocate
+
+290
+00:12:34,800 --> 00:12:39,300
+a little bit of money for the VC is because they expect those really high returns.
+
+291
+00:12:39,300 --> 00:12:41,300
+And the only way you get
+
+292
+00:12:41,300 --> 00:12:43,300
+returns is that it's return versus time.
+
+293
+00:12:43,300 --> 00:12:45,300
+So if you stretch the time out, the return
+
+294
+00:12:45,300 --> 00:12:47,300
+has to go through the roof of the VCs.
+
+295
+00:12:47,300 --> 00:12:48,300
+So that's the only way you get returns.
+
+296
+00:12:48,300 --> 00:12:50,300
+The return has to go through the roof in
+
+297
+00:12:50,300 --> 00:12:52,300
+order to kind of meet the obligation of that sector.
+
+298
+00:12:52,300 --> 00:12:54,300
+So I still stand by these
+
+299
+00:12:54,300 --> 00:12:56,300
+these two motivations of a VC.
+
+300
+00:12:56,300 --> 00:12:58,300
+Now, let's talk about SPR program manager.
+
+301
+00:12:58,300 --> 00:13:02,300
+Does anybody want to take a
+
+302
+00:13:02,300 --> 00:13:06,300
+guess at what their first motivation is?
+
+303
+00:13:06,300 --> 00:13:13,300
+Science?
+
+304
+00:13:13,300 --> 00:13:14,800
+That would be great. What do
+
+305
+00:13:14,800 --> 00:13:16,300
+you think their first motivation is, though?
+
+306
+00:13:16,300 --> 00:13:18,300
+Creating jobs.
+
+307
+00:13:18,300 --> 00:13:20,300
+Creating jobs. Yeah, those are good motivations.
+
+308
+00:13:20,300 --> 00:13:22,300
+Those are good. Anybody else?
+
+309
+00:13:22,300 --> 00:13:24,300
+Using the funds.
+
+310
+00:13:24,300 --> 00:13:27,300
+Using the funds properly. Yep. Yep.
+
+311
+00:13:27,300 --> 00:13:30,300
+I would argue that the first motivation of
+
+312
+00:13:30,300 --> 00:13:33,300
+an SPR program manager is to not get fired.
+
+313
+00:13:33,300 --> 00:13:38,800
+OK, and I say this sort of tongue in cheek, but it's important to remember when you're interfacing with them
+
+314
+00:13:38,800 --> 00:13:44,300
+that they're they're not in it to like do you favors and, you know, cut a deal and all that stuff.
+
+315
+00:13:44,300 --> 00:13:45,300
+Because when you it's it's it's a lot of work.
+
+316
+00:13:45,300 --> 00:13:48,800
+And when you it's interesting to me to interact with both
+
+317
+00:13:48,800 --> 00:13:52,300
+VCs, angels and SPR program managers, because it's a very different ballgame.
+
+318
+00:13:52,300 --> 00:13:54,800
+You know, when sometimes, you know, when you're you're in it,
+
+319
+00:13:54,800 --> 00:13:57,300
+you're both in it to make a lot of money with VCs.
+
+320
+00:13:57,300 --> 00:13:59,300
+Right. You both want to, like, make high returns.
+
+321
+00:13:59,300 --> 00:14:02,300
+And with SPR program managers, they're like so.
+
+322
+00:14:02,300 --> 00:14:06,800
+So this is the argument for why when you go out and you look to find all
+
+323
+00:14:06,800 --> 00:14:11,300
+of those things about how to win an SPR proposal, they talk about filling out the proposal correctly.
+
+324
+00:14:11,300 --> 00:14:14,300
+And you're like, come on, I know how to fill.
+
+325
+00:14:14,300 --> 00:14:16,300
+I know how to read instructions and fill this out.
+
+326
+00:14:16,300 --> 00:14:22,300
+But the reason is because if they get a proposal that's awesome and there's something wrong with it and you didn't
+
+327
+00:14:22,300 --> 00:14:28,300
+read the instructions correctly, they can't technically go back and ask you to correct it, even if it's a minor glitch.
+
+328
+00:14:28,300 --> 00:14:29,300
+So they have to reject you.
+
+329
+00:14:29,300 --> 00:14:31,800
+And it's like heartbreaking to do that, because if they do,
+
+330
+00:14:31,800 --> 00:14:34,300
+then they'll run the risk of losing their pension or other things.
+
+331
+00:14:34,300 --> 00:14:36,300
+So so that's the number one motivation.
+
+332
+00:14:36,300 --> 00:14:38,800
+The second motivation is to not be
+
+333
+00:14:38,800 --> 00:14:41,300
+embarrassed by their decision to fund you.
+
+334
+00:14:41,300 --> 00:14:42,300
+And I say this also a
+
+335
+00:14:42,300 --> 00:14:43,300
+little bit tongue in cheek because.
+
+336
+00:14:43,300 --> 00:14:47,800
+But it's really important because if you come across as a little bit flippant or not
+
+337
+00:14:47,800 --> 00:14:52,300
+quite professional in the use of funds, then it's going to be like, well, you know what?
+
+338
+00:14:52,300 --> 00:14:53,300
+There's like 10 other guys behind you
+
+339
+00:14:53,300 --> 00:14:54,300
+that I can give money away to.
+
+340
+00:14:54,300 --> 00:14:55,300
+Why should I?
+
+341
+00:14:55,300 --> 00:14:56,300
+Why should I spend a lot
+
+342
+00:14:56,300 --> 00:14:57,300
+of time on on this guy?
+
+343
+00:14:57,300 --> 00:14:59,800
+And then the third is to
+
+344
+00:14:59,800 --> 00:15:02,300
+fund interesting technologies to progress their agenda.
+
+345
+00:15:02,300 --> 00:15:03,800
+And there's probably also, you know,
+
+346
+00:15:03,800 --> 00:15:05,300
+create jobs and everything else, too.
+
+347
+00:15:05,300 --> 00:15:08,300
+So so I wanted to lay that out.
+
+348
+00:15:08,300 --> 00:15:10,300
+So you kind of understand when you're going through
+
+349
+00:15:10,300 --> 00:15:12,300
+this whole process, like, why is it so bureaucratic?
+
+350
+00:15:12,300 --> 00:15:13,300
+And why do I have to do this?
+
+351
+00:15:13,300 --> 00:15:14,300
+Why do I have to fill out all this stuff?
+
+352
+00:15:14,300 --> 00:15:15,300
+And why do I have to fill it out again?
+
+353
+00:15:15,300 --> 00:15:17,300
+You know, why is it taking so long
+
+354
+00:15:17,300 --> 00:15:19,300
+for them to make a decision on anything?
+
+355
+00:15:19,300 --> 00:15:21,800
+So now now hopefully you understand a little
+
+356
+00:15:21,800 --> 00:15:24,300
+bit of a perspective on their on their motivations.
+
+357
+00:15:24,300 --> 00:15:27,300
+OK, so so this is I like to do a
+
+358
+00:15:27,300 --> 00:15:30,300
+little market study like what are we talking about here?
+
+359
+00:15:30,300 --> 00:15:32,300
+SBIR program, four billion dollars.
+
+360
+00:15:32,300 --> 00:15:36,300
+This is just the phase one awards from 2022.
+
+361
+00:15:36,300 --> 00:15:37,800
+And I did look to see
+
+362
+00:15:37,800 --> 00:15:39,300
+if there was new information available.
+
+363
+00:15:39,300 --> 00:15:40,800
+This is the latest data
+
+364
+00:15:40,800 --> 00:15:42,300
+we have from the federal government.
+
+365
+00:15:42,300 --> 00:15:45,800
+And just to give you kind of the idea of how many,
+
+366
+00:15:45,800 --> 00:15:49,300
+you know, each agency funds and kind of how much they have obligated.
+
+367
+00:15:49,300 --> 00:15:51,300
+So I said four billion dollars.
+
+368
+00:15:51,300 --> 00:15:53,300
+For those of you paying attention, this is only eight hundred
+
+369
+00:15:53,300 --> 00:15:55,300
+and thirty eight million dollars, but it is only phase one.
+
+370
+00:15:55,300 --> 00:15:59,300
+So and you can see here that like the Department
+
+371
+00:15:59,300 --> 00:16:03,300
+of Transportation funds, 12, probably not a big program there.
+
+372
+00:16:03,300 --> 00:16:05,300
+They have a pretty small budget.
+
+373
+00:16:05,300 --> 00:16:07,800
+And you can see the DOD is the is
+
+374
+00:16:07,800 --> 00:16:10,300
+the big beast here with with the maximum amount.
+
+375
+00:16:10,300 --> 00:16:11,300
+And also it's interesting just to see kind of.
+
+376
+00:16:11,300 --> 00:16:13,800
+You know, the Department of Commerce,
+
+377
+00:16:13,800 --> 00:16:16,300
+thirty nine awards and thirty nine companies.
+
+378
+00:16:16,300 --> 00:16:17,300
+Nobody doubled up.
+
+379
+00:16:17,300 --> 00:16:19,300
+But some of these other ones like
+
+380
+00:16:19,300 --> 00:16:21,300
+DOD, there's quite a few doubling up there.
+
+381
+00:16:21,300 --> 00:16:22,300
+Right.
+
+382
+00:16:22,300 --> 00:16:23,300
+Anyways.
+
+383
+00:16:23,300 --> 00:16:24,300
+OK, so let's look at the phase two.
+
+384
+00:16:24,300 --> 00:16:26,300
+Phase two numbers look pretty similar.
+
+385
+00:16:26,300 --> 00:16:29,800
+And this is where you get the four point
+
+386
+00:16:29,800 --> 00:16:33,300
+four billion dollars total phase one and phase two.
+
+387
+00:16:33,300 --> 00:16:36,300
+You know, you can see the average
+
+388
+00:16:36,300 --> 00:16:39,300
+award size from that from 2022 as well.
+
+389
+00:16:41,300 --> 00:16:46,300
+OK, so hopefully all you guys saw the notice that the prerequisite
+
+390
+00:16:46,300 --> 00:16:51,300
+was to watch that video by Ben Schrag of the National Science Foundation.
+
+391
+00:16:51,300 --> 00:16:53,300
+If you didn't, you can go back to the
+
+392
+00:16:53,300 --> 00:16:55,300
+calendar, the IEP calendar and click on the link there.
+
+393
+00:16:55,300 --> 00:16:57,300
+It's about 20 minutes long.
+
+394
+00:16:57,300 --> 00:16:59,300
+It's perfectly you know, he just goes through
+
+395
+00:16:59,300 --> 00:17:01,300
+the basic stuff of what you got to do.
+
+396
+00:17:01,300 --> 00:17:04,800
+He answers all the questions about the administrative process, what sites to register
+
+397
+00:17:04,800 --> 00:17:08,300
+with, how long does it take and how does the NSF do their applications?
+
+398
+00:17:08,300 --> 00:17:08,800
+So as well as we'll talk about in
+
+399
+00:17:08,800 --> 00:17:09,300
+a second, there's a big difference between that.
+
+400
+00:17:09,300 --> 00:17:18,300
+All these agencies and their SBIR offerings.
+
+401
+00:17:18,300 --> 00:17:20,300
+We will have next.
+
+402
+00:17:20,300 --> 00:17:22,300
+This is the intro class.
+
+403
+00:17:22,300 --> 00:17:26,300
+And then on Wednesday, we're going to do the advanced class where we're going to talk
+
+404
+00:17:26,300 --> 00:17:30,300
+about a lot more cool stuff about review process and about AI use and application process.
+
+405
+00:17:30,300 --> 00:17:33,300
+And Ben has agreed to to call in on that.
+
+406
+00:17:33,300 --> 00:17:35,800
+So so if you guys want to get your questions ready for
+
+407
+00:17:35,800 --> 00:17:38,300
+Ben Schrag, he's been at the National Science Foundation for 12 years.
+
+408
+00:17:38,300 --> 00:17:39,300
+I think.
+
+409
+00:17:39,300 --> 00:17:42,300
+Maybe longer.
+
+410
+00:17:42,300 --> 00:17:44,300
+Great guy and very, very
+
+411
+00:17:44,300 --> 00:17:46,300
+open to kind of helping out.
+
+412
+00:17:46,300 --> 00:17:47,300
+He did.
+
+413
+00:17:47,300 --> 00:17:49,300
+I did send him the registration list of all
+
+414
+00:17:49,300 --> 00:17:51,300
+you guys is about 70 of you that signed up.
+
+415
+00:17:51,300 --> 00:17:53,300
+And he said, very impressive.
+
+416
+00:17:53,300 --> 00:17:56,300
+So he's also a nice guy, too.
+
+417
+00:17:56,300 --> 00:17:58,300
+OK, so let's talk about
+
+418
+00:17:58,300 --> 00:18:00,300
+the federal funding aspect of it.
+
+419
+00:18:00,300 --> 00:18:04,300
+The the point that I want to make with this federal
+
+420
+00:18:04,300 --> 00:18:08,300
+funding and if you don't know, it's like 3.2 percent of all.
+
+421
+00:18:08,300 --> 00:18:10,800
+Articles about5 out of 40
+
+422
+00:18:10,800 --> 00:18:13,300
+are written by the central bodies.
+
+423
+00:18:13,300 --> 00:18:20,940
+That, by the thousands, who, they might be
+
+424
+00:18:20,940 --> 00:18:22,300
+but it's okay.
+
+425
+00:18:22,300 --> 00:18:25,300
+I'm going to take this one from Alex
+
+426
+00:18:25,300 --> 00:18:28,300
+messages that go out to the central Solar's wall.
+
+427
+00:18:28,300 --> 00:18:31,300
+These are brought in from organiz scanner.
+
+428
+00:18:31,300 --> 00:18:32,300
+You can double click these.
+
+429
+00:18:32,300 --> 00:18:34,300
+It's amazing to see this do it.
+
+430
+00:18:34,300 --> 00:18:36,300
+So I'm going to right an image of this.
+
+431
+00:18:36,300 --> 00:18:39,320
+is that even though it's called SBIR,
+
+432
+00:18:39,620 --> 00:18:40,540
+and I call it SBIR
+
+433
+00:18:40,540 --> 00:18:42,620
+because the National Science Foundation calls it SBIR,
+
+434
+00:18:42,680 --> 00:18:45,159
+and they were the first agency to have this program,
+
+435
+00:18:45,659 --> 00:18:47,300
+the DOD guys call it SIBR.
+
+436
+00:18:47,840 --> 00:18:49,360
+So if you hear that, SIBR,
+
+437
+00:18:49,480 --> 00:18:50,860
+it's like they pronounce out SIBR.
+
+438
+00:18:51,200 --> 00:18:53,280
+SIBR and SIDR, I think, S-T-T-R.
+
+439
+00:18:54,860 --> 00:18:58,360
+And that's just an example that says
+
+440
+00:18:58,360 --> 00:19:00,520
+just because it has the same name
+
+441
+00:19:00,520 --> 00:19:02,180
+doesn't mean it's the same in all agencies.
+
+442
+00:19:02,320 --> 00:19:04,480
+In fact, it's very different across all agencies.
+
+443
+00:19:04,480 --> 00:19:06,280
+I think the only thing that's the same
+
+444
+00:19:06,280 --> 00:19:08,680
+is the sort of percentage of the budget that's allocated.
+
+445
+00:19:08,840 --> 00:19:11,160
+So whatever the DOD's extramural budget is,
+
+446
+00:19:11,320 --> 00:19:13,280
+they've got to allocate that percentage to that program.
+
+447
+00:19:13,760 --> 00:19:14,930
+And then I think it
+
+448
+00:19:14,930 --> 00:19:16,100
+carries the name within the DOD,
+
+449
+00:19:16,200 --> 00:19:18,140
+but then how it's implemented is very different,
+
+450
+00:19:18,220 --> 00:19:19,010
+and I've got a bunch
+
+451
+00:19:19,010 --> 00:19:19,800
+of slides on that as well.
+
+452
+00:19:20,860 --> 00:19:22,920
+So just so you don't know, it's Phase I.
+
+453
+00:19:23,400 --> 00:19:24,500
+You have to win the Phase I
+
+454
+00:19:24,500 --> 00:19:26,840
+in order to qualify to apply for the Phase II.
+
+455
+00:19:27,920 --> 00:19:31,220
+Typically, it's like a 10% to 15% success rate
+
+456
+00:19:31,220 --> 00:19:32,500
+on winning the Phase I,
+
+457
+00:19:32,660 --> 00:19:34,460
+and then it's about a 50% success rate
+
+458
+00:19:34,460 --> 00:19:35,900
+on winning the Phase II
+
+459
+00:19:35,900 --> 00:19:38,580
+after you've completed the work on the Phase I.
+
+460
+00:19:40,400 --> 00:19:41,620
+And then commercialization.
+
+461
+00:19:41,820 --> 00:19:45,500
+So there's federal funding at Phase I,
+
+462
+00:19:45,660 --> 00:19:46,840
+federal funding at Phase II,
+
+463
+00:19:46,900 --> 00:19:48,220
+and there's no federal funding at Phase III.
+
+464
+00:19:48,380 --> 00:19:49,500
+So a lot of people are like,
+
+465
+00:19:49,560 --> 00:19:50,540
+what's the point of commercialization?
+
+466
+00:19:50,900 --> 00:19:53,020
+The point of commercialization is to track the data
+
+467
+00:19:53,020 --> 00:19:55,600
+on how you've performed so they can report back later.
+
+468
+00:19:57,080 --> 00:19:58,480
+NSF has a similar model,
+
+469
+00:19:59,240 --> 00:20:00,540
+and a lot of programs have this,
+
+470
+00:20:00,600 --> 00:20:02,240
+and I just want to point out this Phase IIb,
+
+471
+00:20:02,440 --> 00:20:03,880
+which is even though I said
+
+472
+00:20:03,880 --> 00:20:04,440
+there's no federal funding,
+
+473
+00:20:04,480 --> 00:20:05,360
+there's no federal funding at Phase III,
+
+474
+00:20:05,520 --> 00:20:07,520
+with the exception of Phase IIb, right,
+
+475
+00:20:07,580 --> 00:20:08,600
+which isn't technically Phase III,
+
+476
+00:20:08,640 --> 00:20:10,140
+but it's shown here on the Phase III side.
+
+477
+00:20:10,800 --> 00:20:12,940
+It's a two-to-one matching of private investment,
+
+478
+00:20:13,540 --> 00:20:15,740
+and you have to get at least a million dollars
+
+479
+00:20:15,740 --> 00:20:16,780
+of private investment.
+
+480
+00:20:17,200 --> 00:20:18,880
+And I actually did this a few years ago,
+
+481
+00:20:18,920 --> 00:20:20,360
+so I'm familiar with the process.
+
+482
+00:20:20,900 --> 00:20:22,960
+And since we were just talking about
+
+483
+00:20:22,960 --> 00:20:24,520
+non-recourse and recourse funding,
+
+484
+00:20:24,860 --> 00:20:27,640
+that million dollars does need to be recourse funding
+
+485
+00:20:27,640 --> 00:20:29,560
+because you can't do things like,
+
+486
+00:20:30,120 --> 00:20:31,700
+hey, I'll just loan myself a million dollars,
+
+487
+00:20:31,800 --> 00:20:32,970
+get a half a million dollars
+
+488
+00:20:32,970 --> 00:20:34,140
+from the NSF to match it,
+
+489
+00:20:34,140 --> 00:20:34,400
+and then I'll pay for it.
+
+490
+00:20:34,400 --> 00:20:35,940
+And I'll pay myself back immediately, right?
+
+491
+00:20:36,360 --> 00:20:37,600
+They figured that out.
+
+492
+00:20:37,760 --> 00:20:39,640
+So you can't play games like that.
+
+493
+00:20:40,120 --> 00:20:41,260
+You actually have to get, you know,
+
+494
+00:20:41,300 --> 00:20:42,620
+and there are letters of support
+
+495
+00:20:42,620 --> 00:20:43,660
+that have to come from the investors
+
+496
+00:20:43,660 --> 00:20:46,140
+that show how they actually structured the investment
+
+497
+00:20:46,140 --> 00:20:47,280
+and put it into your company
+
+498
+00:20:47,280 --> 00:20:48,250
+so that you can get
+
+499
+00:20:48,250 --> 00:20:49,220
+the half a million dollar match.
+
+500
+00:20:49,800 --> 00:20:51,280
+And it's up to a half a million dollars, right?
+
+501
+00:20:51,280 --> 00:20:52,800
+So if you only get 250K,
+
+502
+00:20:52,880 --> 00:20:55,620
+you get 125,000 of match from the Phase IIb.
+
+503
+00:20:59,140 --> 00:21:00,540
+Eligibility for profit.
+
+504
+00:21:01,120 --> 00:21:03,020
+You can't be a nonprofit and get NSF.
+
+505
+00:21:03,020 --> 00:21:03,180
+That's fair.
+
+506
+00:21:03,180 --> 00:21:05,180
+Fewer than 500 employees,
+
+507
+00:21:05,180 --> 00:21:06,680
+owner controlled by US citizens,
+
+508
+00:21:06,680 --> 00:21:08,520
+and the startup or established companies are fine.
+
+509
+00:21:08,960 --> 00:21:10,780
+That's all fine and good.
+
+510
+00:21:10,780 --> 00:21:13,160
+That's what the law says.
+
+511
+00:21:13,480 --> 00:21:16,280
+But let's look at like who actually wins them.
+
+512
+00:21:17,060 --> 00:21:18,800
+And this is the number of employees.
+
+513
+00:21:18,800 --> 00:21:20,500
+This is from FY01.
+
+514
+00:21:20,500 --> 00:21:21,740
+It's the DOD winners.
+
+515
+00:21:22,060 --> 00:21:23,700
+But it's still relevant today.
+
+516
+00:21:23,960 --> 00:21:26,180
+So occasionally they'll fund a one person company.
+
+517
+00:21:26,180 --> 00:21:27,450
+So if you're one person
+
+518
+00:21:27,450 --> 00:21:28,720
+and you have a crazy idea
+
+519
+00:21:28,720 --> 00:21:30,620
+that you want to do, you know, there's a chance.
+
+520
+00:21:31,000 --> 00:21:33,100
+More than likely they want to do two to nine,
+
+521
+00:21:33,100 --> 00:21:34,159
+nine person company, right?
+
+522
+00:21:34,159 --> 00:21:35,939
+That's kind of like the sweet spot, right?
+
+523
+00:21:35,939 --> 00:21:37,939
+Somebody that's kind of does the business side,
+
+524
+00:21:37,939 --> 00:21:39,399
+somebody that kind of does the technology side,
+
+525
+00:21:39,399 --> 00:21:41,100
+or maybe your two technology nerd founders
+
+526
+00:21:41,100 --> 00:21:42,000
+that happen to be social.
+
+527
+00:21:43,340 --> 00:21:44,100
+Social nerds.
+
+528
+00:21:44,199 --> 00:21:44,740
+Those are always good.
+
+529
+00:21:44,879 --> 00:21:48,419
+Okay. By definition.
+
+530
+00:21:51,800 --> 00:21:53,939
+Okay. Let's see.
+
+531
+00:21:54,219 --> 00:21:55,860
+Okay. So this is where I want
+
+532
+00:21:55,860 --> 00:21:58,520
+to really split the SBIR program into two parts.
+
+533
+00:21:59,439 --> 00:22:01,340
+When you start to dive into the agencies
+
+534
+00:22:01,340 --> 00:22:02,840
+to really get the solicitations
+
+535
+00:22:02,840 --> 00:22:04,170
+that you want to apply
+
+536
+00:22:04,170 --> 00:22:05,500
+for, I want you to think
+
+537
+00:22:05,500 --> 00:22:06,720
+about them in two buckets.
+
+538
+00:22:06,720 --> 00:22:08,639
+One is market driven agency
+
+539
+00:22:08,639 --> 00:22:10,240
+and the other is mission driven agency.
+
+540
+00:22:10,899 --> 00:22:12,669
+So a market driven agency
+
+541
+00:22:12,669 --> 00:22:14,439
+does not have the customers internally
+
+542
+00:22:14,439 --> 00:22:15,120
+to the agency.
+
+543
+00:22:15,120 --> 00:22:17,720
+They have them, you know, the marketplace is the customer,
+
+544
+00:22:17,720 --> 00:22:17,879
+right?
+
+545
+00:22:18,379 --> 00:22:20,509
+So a great example of a
+
+546
+00:22:20,509 --> 00:22:22,639
+market driven agency is the National
+
+547
+00:22:22,639 --> 00:22:24,639
+Science Foundation or the Department of Energy,
+
+548
+00:22:25,060 --> 00:22:27,740
+where they see the technology you have.
+
+549
+00:22:27,860 --> 00:22:30,580
+They understand how it, you know, how great it is.
+
+550
+00:22:30,879 --> 00:22:32,820
+But they need you to go out and sell it
+
+551
+00:22:32,840 --> 00:22:35,199
+to somebody that's an important distinction
+
+552
+00:22:35,199 --> 00:22:36,419
+between a mission driven agency
+
+553
+00:22:36,419 --> 00:22:37,639
+like the Department of Defense.
+
+554
+00:22:37,639 --> 00:22:40,179
+The Department of Defense is like, we're at war.
+
+555
+00:22:40,439 --> 00:22:41,600
+We have a theater of war.
+
+556
+00:22:41,600 --> 00:22:44,540
+We have immediate needs of like super awesome batteries
+
+557
+00:22:44,540 --> 00:22:47,280
+for our troops and we are the customers.
+
+558
+00:22:47,540 --> 00:22:49,119
+Well, we and all of
+
+559
+00:22:49,119 --> 00:22:50,699
+our defense contractors are the customers.
+
+560
+00:22:51,040 --> 00:22:53,679
+So we are going to define exactly what we want.
+
+561
+00:22:53,679 --> 00:22:56,340
+So what you find, what this boils down to is
+
+562
+00:22:56,340 --> 00:22:58,720
+that in a market driven agency
+
+563
+00:22:58,720 --> 00:23:01,100
+SBIR program, you'll get these kind
+
+564
+00:23:01,100 --> 00:23:01,560
+of like do something.
+
+565
+00:23:01,560 --> 00:23:02,500
+You know, you're going to get a job.
+
+566
+00:23:02,500 --> 00:23:02,840
+You're going to get a job.
+
+567
+00:23:02,840 --> 00:23:04,100
+You're going to do something in optics.
+
+568
+00:23:04,100 --> 00:23:05,600
+You know, do something cool in optics
+
+569
+00:23:05,600 --> 00:23:06,879
+that customers really love, right?
+
+570
+00:23:06,879 --> 00:23:08,299
+And then you get like on the
+
+571
+00:23:08,299 --> 00:23:09,720
+DOD side of things, you get things
+
+572
+00:23:09,720 --> 00:23:11,140
+like we need a battery that fits
+
+573
+00:23:11,140 --> 00:23:12,560
+in this pack that has this kind
+
+574
+00:23:12,560 --> 00:23:13,910
+of temperature controls on it
+
+575
+00:23:13,910 --> 00:23:15,260
+that it'll last for this long
+
+576
+00:23:15,260 --> 00:23:16,219
+and only, you know, only
+
+577
+00:23:16,219 --> 00:23:17,179
+weighs this much or, you know,
+
+578
+00:23:17,179 --> 00:23:18,439
+is below this number of things.
+
+579
+00:23:18,760 --> 00:23:22,220
+So it's far more specific in its offering.
+
+580
+00:23:22,600 --> 00:23:25,080
+So it becomes a lot more challenging for you guys
+
+581
+00:23:25,080 --> 00:23:26,690
+to match kind of whatever
+
+582
+00:23:26,690 --> 00:23:28,300
+you're working on with the solicitations
+
+583
+00:23:28,300 --> 00:23:29,639
+on the mission driven side of things.
+
+584
+00:23:30,060 --> 00:23:32,679
+The opportunity though, of course, is if it's harder
+
+585
+00:23:32,680 --> 00:23:34,980
+for you to match, it's harder for everybody to match.
+
+586
+00:23:34,980 --> 00:23:37,600
+So there's probably fewer competitors in that.
+
+587
+00:23:37,600 --> 00:23:39,620
+And in fact, I mean, if you look
+
+588
+00:23:39,620 --> 00:23:41,640
+at the numbers, you'll see that if there is,
+
+589
+00:23:41,640 --> 00:23:42,990
+you know, in a very
+
+590
+00:23:42,990 --> 00:23:44,340
+specific solicitation, if there's a broad,
+
+591
+00:23:44,340 --> 00:23:46,050
+you know, a broad offer,
+
+592
+00:23:46,050 --> 00:23:47,760
+sometimes they have these broad announcements
+
+593
+00:23:47,760 --> 00:23:48,720
+where it's like, oh, we
+
+594
+00:23:48,720 --> 00:23:49,680
+want to do something, you know,
+
+595
+00:23:50,180 --> 00:23:51,900
+propose something really cool to us.
+
+596
+00:23:51,900 --> 00:23:53,570
+And you find that it's a lot
+
+597
+00:23:53,570 --> 00:23:55,240
+harder to win that because there's just
+
+598
+00:23:55,240 --> 00:23:57,300
+so much more applications in that space.
+
+599
+00:23:57,460 --> 00:24:00,070
+So and of course, NASA is a
+
+600
+00:24:00,070 --> 00:24:02,680
+mission driven agency too because trying to go
+
+601
+00:24:02,680 --> 00:24:03,620
+to Mars, right, they're trying to
+
+602
+00:24:03,620 --> 00:24:04,560
+get stuff up in the air.
+
+603
+00:24:07,680 --> 00:24:07,980
+Yo.
+
+604
+00:24:10,520 --> 00:24:11,020
+Yeah, go ahead.
+
+605
+00:24:11,640 --> 00:24:13,240
+This is your interpretation or
+
+606
+00:24:13,240 --> 00:24:14,840
+is it on their website somewhere?
+
+607
+00:24:15,060 --> 00:24:17,520
+This is America's Seed Funds interpretation.
+
+608
+00:24:18,340 --> 00:24:21,340
+That is, yeah, that's right from the website.
+
+609
+00:24:23,020 --> 00:24:24,920
+And this is also from the NSF website.
+
+610
+00:24:24,920 --> 00:24:25,180
+Yes.
+
+611
+00:24:26,840 --> 00:24:28,760
+Yeah, I'll post them to the WhatsApp group.
+
+612
+00:24:30,560 --> 00:24:31,340
+And I apologize.
+
+613
+00:24:31,340 --> 00:24:32,680
+I blocked out the middle section.
+
+614
+00:24:32,740 --> 00:24:35,640
+We have done it once, which is really important.
+
+615
+00:24:35,640 --> 00:24:37,020
+There was another mine as well.
+
+616
+00:24:37,680 --> 00:24:38,940
+So the NFS and USAID, the
+
+617
+00:24:38,940 --> 00:24:40,200
+National Development Party were trying to
+
+618
+00:24:40,220 --> 00:24:43,380
+promote this放 ex regulation which is pretty common there,
+
+619
+00:24:43,800 --> 00:24:45,850
+where you say Lana will kick
+
+620
+00:24:45,850 --> 00:24:47,900
+in with bugs that can make environment
+
+621
+00:24:47,900 --> 00:24:50,290
+bear wondering about protecting you
+
+622
+00:24:50,290 --> 00:24:52,680
+from combiners like, you know,
+
+623
+00:24:52,980 --> 00:24:54,700
+water milhões, Seo, fogs, tax害 loیں videos and user's rights
+
+624
+00:24:54,700 --> 00:24:55,940
+machines, these kind of stuff.
+
+625
+00:24:57,160 --> 00:24:59,120
+But this is very medium top nutrients.
+
+626
+00:24:59,140 --> 00:25:01,860
+These all bring in vetri模sic oxal.
+
+627
+00:25:01,860 --> 00:25:02,000
+Right.
+
+628
+00:25:02,080 --> 00:25:02,440
+Right.
+
+629
+00:25:02,440 --> 00:25:04,420
+the money go do your scope of work
+
+630
+00:25:04,420 --> 00:25:06,400
+and then write us a report when you're all
+
+631
+00:25:06,400 --> 00:25:08,130
+done and you know and and you
+
+632
+00:25:08,130 --> 00:25:09,860
+already have all the money so hopefully the
+
+633
+00:25:09,860 --> 00:25:11,370
+money was spent properly and everything else
+
+634
+00:25:11,370 --> 00:25:12,880
+a contract on the other hand is
+
+635
+00:25:12,880 --> 00:25:15,310
+okay we agree that this is the work that
+
+636
+00:25:15,310 --> 00:25:17,740
+we want you to do why don't you go ahead
+
+637
+00:25:17,740 --> 00:25:19,150
+and get started and here's some
+
+638
+00:25:19,150 --> 00:25:20,560
+milestone payments that we're gonna make
+
+639
+00:25:20,560 --> 00:25:22,590
+or it's a reimbursable contract where you
+
+640
+00:25:22,590 --> 00:25:24,620
+actually have to do the work submit
+
+641
+00:25:24,620 --> 00:25:27,090
+an invoice and get paid the reason
+
+642
+00:25:27,090 --> 00:25:29,560
+why I make this distinction is because when
+
+643
+00:25:29,560 --> 00:25:31,750
+you guys go to apply when you've like
+
+644
+00:25:31,750 --> 00:25:33,940
+talked about like why does it take so
+
+645
+00:25:33,940 --> 00:25:36,520
+long for me to get this this
+
+646
+00:25:36,520 --> 00:25:39,100
+grant approved and it's because once they say
+
+647
+00:25:39,100 --> 00:25:41,379
+here's your award here's the money there's
+
+648
+00:25:41,379 --> 00:25:43,659
+not a lot of recourse right so
+
+649
+00:25:43,659 --> 00:25:45,459
+they there's a lot of due diligence
+
+650
+00:25:45,459 --> 00:25:47,260
+upfront before you get to that crap
+
+651
+00:25:47,260 --> 00:25:48,880
+grant point on the contract they're
+
+652
+00:25:48,880 --> 00:25:50,500
+still going to be due diligence upfront
+
+653
+00:25:50,500 --> 00:25:52,510
+but once it's engaged it's kind of
+
+654
+00:25:52,510 --> 00:25:54,520
+like you know if something happens mid
+
+655
+00:25:54,520 --> 00:25:56,260
+project they can easily pull the plug if
+
+656
+00:25:56,260 --> 00:25:58,000
+they need to and there's not so much
+
+657
+00:25:58,000 --> 00:25:59,100
+money expended on that
+
+658
+00:25:59,560 --> 00:26:03,849
+OK great so we are out of
+
+659
+00:26:03,849 --> 00:26:08,139
+time here's a chance for the next question
+
+660
+00:26:08,139 --> 00:26:10,149
+my question and not only for myself but
+
+661
+00:26:10,149 --> 00:26:12,159
+for the rest of the panel and all the
+
+662
+00:26:12,159 --> 00:26:14,119
+models I think that the thing
+
+663
+00:26:14,119 --> 00:26:16,080
+that was talked about was darn it
+
+664
+00:26:16,080 --> 00:26:17,720
+I mean I'm not really sure how the Bob
+
+665
+00:26:17,720 --> 00:26:19,360
+I'll start but it looks like we had two
+
+666
+00:26:19,360 --> 00:26:20,780
+questions in the chat so I'm not going
+
+667
+00:26:20,780 --> 00:26:22,200
+to go into all the different ones but
+
+668
+00:26:22,200 --> 00:26:24,000
+I think there's a question on the
+
+669
+00:26:24,000 --> 00:26:25,800
+way you deal with fee training and it's
+
+670
+00:26:25,800 --> 00:26:27,440
+that I think it's important to stop
+
+671
+00:26:27,440 --> 00:26:29,080
+and for fra Eckhardt there's a frontOne
+
+672
+00:26:29,080 --> 00:26:30,960
+But it's also important for you to remember that
+
+673
+00:26:30,960 --> 00:26:32,840
+it's not just going to be the program manager
+
+674
+00:26:32,840 --> 00:26:34,759
+that's going to review it, it's going to be
+
+675
+00:26:34,759 --> 00:26:36,679
+people who understand the industry. And you have an
+
+676
+00:26:36,679 --> 00:26:38,679
+opportunity in the application to say like, these
+
+677
+00:26:38,679 --> 00:26:40,679
+are our direct competitors, do not get anyone on
+
+678
+00:26:40,679 --> 00:26:43,199
+the review panel from that. And they take
+
+679
+00:26:43,199 --> 00:26:45,720
+that extremely seriously. So I would include that in
+
+680
+00:26:45,720 --> 00:26:48,480
+your application if you're worried about that. And
+
+681
+00:26:48,480 --> 00:26:51,240
+then I mentioned kind of the research topics are
+
+682
+00:26:51,240 --> 00:26:53,880
+specific as or broad, and then whether or not
+
+683
+00:26:53,880 --> 00:26:56,520
+they provide gap funding, and whether or not the
+
+684
+00:26:56,520 --> 00:26:59,560
+communication can be restricted, like specifically on mission
+
+685
+00:26:59,560 --> 00:27:02,600
+or if it's open. So kind of lines up
+
+686
+00:27:02,600 --> 00:27:06,080
+naturally with sort of the, you know,
+
+687
+00:27:06,080 --> 00:27:09,560
+mission driven market driven balance. Any questions on
+
+688
+00:27:09,560 --> 00:27:13,120
+that? This is just a more updated view of kind
+
+689
+00:27:13,120 --> 00:27:16,680
+of the real numbers of what the agency budget is.
+
+690
+00:27:16,680 --> 00:27:19,480
+And this is on, I mean, SBIR.gov has a
+
+691
+00:27:19,480 --> 00:27:22,280
+lot of this information automatically, but I wanted to give
+
+692
+00:27:22,280 --> 00:27:24,120
+you this information and then give you my
+
+693
+00:27:24,120 --> 00:27:25,960
+experience and color on top of it. So
+
+694
+00:27:26,520 --> 00:27:29,120
+if you want to go back and redo these slides, you
+
+695
+00:27:29,120 --> 00:27:31,720
+can go back to the SBIR.gov and get all the data
+
+696
+00:27:31,720 --> 00:27:36,400
+from there. One of the strategies we're going to
+
+697
+00:27:36,400 --> 00:27:41,080
+talk about on Wednesday is kind of thinking about
+
+698
+00:27:41,080 --> 00:27:44,080
+the timing of things. So, you know, the benefit
+
+699
+00:27:44,080 --> 00:27:47,080
+of SBIR is you don't give away any equity funding,
+
+700
+00:27:47,080 --> 00:27:50,080
+right? But the challenge of SBIR is that,
+
+701
+00:27:50,080 --> 00:27:53,080
+you know, time is a vacuum, right? It's like,
+
+702
+00:27:53,960 --> 00:27:55,040
+are you guys done reviewing that
+
+703
+00:27:55,040 --> 00:27:56,120
+yet? What's going on? You know,
+
+704
+00:27:56,520 --> 00:27:58,840
+there's so many things going on in the world
+
+705
+00:27:58,840 --> 00:28:01,160
+of federal government, but this is kind of the pace
+
+706
+00:28:01,160 --> 00:28:03,240
+they operate under. And if you don't
+
+707
+00:28:03,240 --> 00:28:05,320
+know, the federal government's annual budget closes
+
+708
+00:28:05,320 --> 00:28:07,200
+September 30th every year, and then a new
+
+709
+00:28:07,200 --> 00:28:09,080
+budget starts October 1, at least it's supposed to.
+
+710
+00:28:10,040 --> 00:28:12,400
+And typically a lot of these processes are
+
+711
+00:28:12,400 --> 00:28:14,760
+driven towards kind of making sure that all
+
+712
+00:28:14,760 --> 00:28:17,560
+of the awards are allocated by September 30th.
+
+713
+00:28:17,560 --> 00:28:20,360
+Not always, sometimes they sort of spill over.
+
+714
+00:28:20,360 --> 00:28:22,560
+But if you think about kind of how
+
+715
+00:28:22,560 --> 00:28:24,760
+these solicitations come out and when you want to
+
+716
+00:28:24,760 --> 00:28:25,600
+apply for them, you know, it's kind of a
+
+717
+00:28:25,600 --> 00:28:26,440
+very, very complex process. And so, you know, I think
+
+718
+00:28:26,440 --> 00:28:26,470
+that's kind of the, you know, the, you know, the,
+
+719
+00:28:26,470 --> 00:28:26,500
+you know, the, you know, the, you know, the, you know,
+
+720
+00:28:26,500 --> 00:28:28,180
+just keep these things in mind because the last thing
+
+721
+00:28:28,180 --> 00:28:29,860
+you want to do is say, oh, I'm ready to
+
+722
+00:28:29,860 --> 00:28:31,700
+apply for that NIH grant. Like, oh, well, the
+
+723
+00:28:31,700 --> 00:28:33,540
+window just closed like last week. So now I've
+
+724
+00:28:33,540 --> 00:28:35,780
+got to wait another six months or something
+
+725
+00:28:35,780 --> 00:28:38,020
+to do that. As you think about these dates,
+
+726
+00:28:38,020 --> 00:28:40,180
+we can also talk about, you know, applying to
+
+727
+00:28:40,180 --> 00:28:42,340
+multiple ones so you can see kind of how they,
+
+728
+00:28:42,340 --> 00:28:44,180
+how they ramp up and whether or not you want
+
+729
+00:28:44,180 --> 00:28:46,020
+to hear from one before you apply to another one.
+
+730
+00:28:46,660 --> 00:28:51,060
+I usually don't recommend that. I usually just
+
+731
+00:28:51,060 --> 00:28:55,460
+recommend you just go for it. Yeah. Okay. Yep.
+
+732
+00:28:56,500 --> 00:29:00,020
+Oh, yeah. Yeah. So, so specifically for the DOE
+
+733
+00:29:00,020 --> 00:29:03,540
+and DOD and some of the ones that are mission
+
+734
+00:29:03,540 --> 00:29:05,860
+driven, they're going to have very specific
+
+735
+00:29:05,860 --> 00:29:08,180
+topics or solicitations. I mean, topic and solicitation
+
+736
+00:29:08,180 --> 00:29:11,100
+are kind of the same word and they do
+
+737
+00:29:11,100 --> 00:29:14,020
+what's called like a pre-release. So the yellow and the
+
+738
+00:29:14,020 --> 00:29:16,420
+green areas they'll send out kind of these are
+
+739
+00:29:16,420 --> 00:29:18,820
+the, these are the solicitations that we want to
+
+740
+00:29:19,380 --> 00:29:21,420
+officially open on the official date when the
+
+741
+00:29:21,420 --> 00:29:23,460
+green bar turns, when it turns fully green.
+
+742
+00:29:24,100 --> 00:29:26,420
+And that's, that's to sort of test mark
+
+743
+00:29:26,420 --> 00:29:28,140
+it, their solicitation ideas. Sometimes they pull
+
+744
+00:29:28,140 --> 00:29:29,860
+them back because they realize, oh, you know,
+
+745
+00:29:29,860 --> 00:29:32,340
+somebody else, like, I think, I think frankly, inside
+
+746
+00:29:32,340 --> 00:29:34,820
+the DOD, I don't know this for a fact,
+
+747
+00:29:34,820 --> 00:29:36,740
+but I think what happens inside the DOD is
+
+748
+00:29:36,740 --> 00:29:38,660
+they post solicitations and then like some other agency
+
+749
+00:29:38,660 --> 00:29:40,980
+over here is like, Hey, we already have that
+
+750
+00:29:40,980 --> 00:29:43,300
+solved. You don't need to fund that. So, and you
+
+751
+00:29:43,300 --> 00:29:45,300
+know, because there's such a gigantic operation,
+
+752
+00:29:45,300 --> 00:29:47,300
+they don't necessarily talk to each other. Right.
+
+753
+00:29:47,300 --> 00:29:49,060
+So, so there's all kinds of things like
+
+754
+00:29:49,060 --> 00:29:50,820
+that. So that's why they have a pre-solicitation period.
+
+755
+00:29:50,820 --> 00:29:53,540
+And then, and then when it's open, so, so I
+
+756
+00:29:53,540 --> 00:29:56,260
+should say that, uh, when the topic is, uh, when it's
+
+757
+00:29:56,260 --> 00:29:58,700
+like on pre-release or if it's a topic release,
+
+758
+00:29:58,700 --> 00:30:01,140
+you have the opportunity to talk to the program
+
+759
+00:30:01,140 --> 00:30:03,500
+manager directly and talk about the solicitation a lot
+
+760
+00:30:03,500 --> 00:30:05,860
+more freely and openly, as soon as it's locked
+
+761
+00:30:05,860 --> 00:30:08,260
+down, they, they like say, you can't ask me
+
+762
+00:30:08,260 --> 00:30:10,660
+any more questions or any questions you ask have to
+
+763
+00:30:10,660 --> 00:30:12,740
+be publicly posted. So everybody can see all
+
+764
+00:30:12,740 --> 00:30:14,820
+the questions. So that's kind of your opportunity to
+
+765
+00:30:14,820 --> 00:30:16,900
+talk to them about, about, you know,
+
+766
+00:30:16,900 --> 00:30:18,980
+specific issues you might have or specific opportunities.
+
+767
+00:30:18,980 --> 00:30:19,460
+Yes, sir.
+
+768
+00:30:19,460 --> 00:30:25,780
+ATTS has two different ones. Um, would you apply,
+
+769
+00:30:25,780 --> 00:30:26,180
+is there a
+
+770
+00:30:26,260 --> 00:30:29,300
+way to apply to both the
+
+771
+00:30:29,300 --> 00:30:32,340
+R&D contracts or the other options?
+
+772
+00:30:32,340 --> 00:30:35,100
+Good question. Uh, all of these things are
+
+773
+00:30:35,100 --> 00:30:37,860
+constantly changing. So I like to take the
+
+774
+00:30:37,860 --> 00:30:40,619
+approach, especially for stuff that takes a long time
+
+775
+00:30:40,619 --> 00:30:43,379
+to just be aggressive and like apply for as
+
+776
+00:30:43,379 --> 00:30:45,059
+many as you can and then pull them back. I know
+
+777
+00:30:45,059 --> 00:30:46,740
+a lot of people are like, oh, that's a lot of
+
+778
+00:30:46,740 --> 00:30:48,900
+extra work for potentially no gain, but you know,
+
+779
+00:30:48,900 --> 00:30:51,060
+you'd rather be in the game. Right. And then,
+
+780
+00:30:51,060 --> 00:30:53,219
+and then decide to not play then, then
+
+781
+00:30:53,219 --> 00:30:55,379
+to just like step aside from the beginning. So
+
+782
+00:30:56,260 --> 00:30:57,379
+I think that's a good way to do it.
+
+783
+00:30:57,379 --> 00:30:57,860
+Yeah.
+
+784
+00:30:57,860 --> 00:30:58,420
+I think that's a good way to do it.
+
+785
+00:30:58,420 --> 00:30:58,820
+Yeah.
+
+786
+00:30:58,820 --> 00:30:59,540
+I think that's a good way to do it.
+
+787
+00:30:59,540 --> 00:31:01,500
+We'll get into that in one second. There
+
+788
+00:31:01,500 --> 00:31:03,460
+is, there is some certain, there's some finance,
+
+789
+00:31:03,460 --> 00:31:05,660
+there's some federal laws that you have to be aware
+
+790
+00:31:05,660 --> 00:31:07,860
+of. So as I said, you don't want, you know,
+
+791
+00:31:07,860 --> 00:31:09,619
+you don't want to go to jail and your,
+
+792
+00:31:09,619 --> 00:31:11,379
+and your, your, uh, program manager doesn't want to lose
+
+793
+00:31:11,379 --> 00:31:14,579
+their job. So, um, yeah. And, and
+
+794
+00:31:14,579 --> 00:31:17,780
+actually specifically to that point, um, eligibility,
+
+795
+00:31:17,780 --> 00:31:20,060
+and usually I do this talk for, uh, for
+
+796
+00:31:20,060 --> 00:31:22,340
+MIT students that are currently in school or maybe
+
+797
+00:31:22,340 --> 00:31:24,300
+a postdoc. So you have a current situation right
+
+798
+00:31:24,300 --> 00:31:26,260
+now, but you're looking to start a company and you'll
+
+799
+00:31:26,260 --> 00:31:29,100
+want to apply for one of these things. Eligibility
+
+800
+00:31:29,100 --> 00:31:31,940
+is determined at the time of award, which is not
+
+801
+00:31:31,940 --> 00:31:33,980
+the time that you submit the proposal. And it's not
+
+802
+00:31:33,980 --> 00:31:36,020
+the time that you hear back from them on the
+
+803
+00:31:36,020 --> 00:31:38,020
+reviewers. And it's not the time that they're
+
+804
+00:31:38,020 --> 00:31:40,020
+asking you for due diligence questions. It is
+
+805
+00:31:40,020 --> 00:31:42,740
+the time of award that you have to be
+
+806
+00:31:42,740 --> 00:31:45,460
+employed or whatever you say in your application. And it's
+
+807
+00:31:45,460 --> 00:31:48,260
+totally fine for you to say, I'm at the university. And
+
+808
+00:31:48,260 --> 00:31:51,060
+my plan is to start a company once I get out
+
+809
+00:31:51,060 --> 00:31:53,620
+and I'm applying for this. And here's the
+
+810
+00:31:53,620 --> 00:31:56,180
+team that I've put together. Um, that's important.
+
+811
+00:31:56,260 --> 00:31:58,700
+Uh, the other one is the PI is not required to
+
+812
+00:31:58,700 --> 00:32:01,140
+have a PhD or MD. A lot of people think that's
+
+813
+00:32:01,140 --> 00:32:04,620
+true because the data shows that often the PI has
+
+814
+00:32:04,620 --> 00:32:08,100
+a PhD or MD, um, because they're required to have
+
+815
+00:32:08,100 --> 00:32:10,140
+expertise and oversee the, um, scientific and
+
+816
+00:32:10,140 --> 00:32:12,180
+technically the project, right? If you have a,
+
+817
+00:32:12,180 --> 00:32:14,300
+you have a state statement of work, you have a,
+
+818
+00:32:14,300 --> 00:32:16,420
+you have your R and D plan and somebody has to
+
+819
+00:32:16,420 --> 00:32:19,060
+oversee and manage all of that stuff. And
+
+820
+00:32:19,060 --> 00:32:21,700
+if they're not technically kind of like, like well
+
+821
+00:32:21,700 --> 00:32:23,740
+known within that space that you're, you're doing
+
+822
+00:32:23,740 --> 00:32:25,780
+the work in, then, then you're not really qualified.
+
+823
+00:32:25,780 --> 00:32:25,940
+So,
+
+824
+00:32:26,500 --> 00:32:27,980
+typically the easiest way to do that is
+
+825
+00:32:27,980 --> 00:32:29,460
+to have a PhD. So, but it's not required.
+
+826
+00:32:30,740 --> 00:32:32,740
+Um, okay. So this is to your
+
+827
+00:32:32,740 --> 00:32:34,740
+question. Applications may be submitted to different
+
+828
+00:32:34,740 --> 00:32:37,220
+agencies for different work for similar work,
+
+829
+00:32:37,220 --> 00:32:39,700
+but you cannot get an award from different
+
+830
+00:32:39,700 --> 00:32:42,180
+agency for Duke duplicate projects. In fact, that last
+
+831
+00:32:42,180 --> 00:32:44,660
+bullet lands you in jail. So, so it doesn't
+
+832
+00:32:44,660 --> 00:32:47,340
+really give it much, you know, that, that
+
+833
+00:32:47,340 --> 00:32:50,020
+that's really bad. Um, when you apply to multiple
+
+834
+00:32:50,020 --> 00:32:52,620
+different agencies, um, for the similar stuff, it
+
+835
+00:32:52,620 --> 00:32:55,220
+specifically asks you, have you applied to other
+
+836
+00:32:55,220 --> 00:32:55,500
+stuff? So, so, um, and then you have to
+
+837
+00:32:55,500 --> 00:32:55,780
+apply to multiple different agencies for the similar stuff.
+
+838
+00:32:55,780 --> 00:32:58,300
+So, so, and there's a strategy that, you
+
+839
+00:32:58,300 --> 00:33:00,820
+know, that, that we can talk about on Wednesday.
+
+840
+00:33:00,820 --> 00:33:03,300
+Um, but I will just tell you, I, I
+
+841
+00:33:03,300 --> 00:33:05,780
+don't usually recommend doing that unless it, unless there's a
+
+842
+00:33:05,780 --> 00:33:08,220
+lot of synergy, unless it totally makes sense that like
+
+843
+00:33:08,220 --> 00:33:10,660
+the NIH has this cool thing and I need the
+
+844
+00:33:10,660 --> 00:33:13,300
+NSF to fund some software part of this, of
+
+845
+00:33:13,300 --> 00:33:15,940
+this biotech, you know, like if you have some related
+
+846
+00:33:15,940 --> 00:33:17,780
+technology and you want to really be aggressive and kind
+
+847
+00:33:17,780 --> 00:33:19,620
+of apply for both of them to sort of fund
+
+848
+00:33:19,620 --> 00:33:22,060
+two different parts of the same product, you know,
+
+849
+00:33:22,060 --> 00:33:24,500
+that you can put things together like that. Um, so
+
+850
+00:33:24,500 --> 00:33:27,180
+it is, you can totally apply the same technology
+
+851
+00:33:27,180 --> 00:33:29,860
+to two different agencies. You have to disclose it
+
+852
+00:33:29,860 --> 00:33:31,940
+to both of them. And once you get under award, you
+
+853
+00:33:31,940 --> 00:33:34,020
+have to make a decision. Am I going to take that
+
+854
+00:33:34,020 --> 00:33:36,460
+one or that one? So, so, I mean, I
+
+855
+00:33:36,460 --> 00:33:38,900
+guess you're, you're, you're sort of upping your game, right?
+
+856
+00:33:38,900 --> 00:33:41,140
+If it's a 15% success, then you're, then you've
+
+857
+00:33:41,140 --> 00:33:43,380
+got two of the same thing and maybe it's 30%
+
+858
+00:33:43,380 --> 00:33:46,780
+success. Yes, sir. Uh, first point, I'm really
+
+859
+00:33:46,780 --> 00:33:50,180
+struggled with the answer to this. Um, you have
+
+860
+00:33:50,180 --> 00:33:52,260
+to have an incorporated company when you submit
+
+861
+00:33:52,260 --> 00:33:54,340
+the application. Um, and then you have to have
+
+862
+00:33:54,500 --> 00:33:59,700
+a full-time job. So, um, so if you watch Ben's
+
+863
+00:33:59,700 --> 00:34:04,900
+video, you have to, um, you have to register with
+
+864
+00:34:04,900 --> 00:34:07,140
+all of those agencies. And I think part of
+
+865
+00:34:07,140 --> 00:34:09,380
+that registration means you have to have some kind of
+
+866
+00:34:09,380 --> 00:34:11,739
+an entity. It can be, it can be a, you know,
+
+867
+00:34:11,739 --> 00:34:14,100
+your own sole source schedule C company. So you can do
+
+868
+00:34:14,100 --> 00:34:17,139
+it under your social security number. So then
+
+869
+00:34:17,139 --> 00:34:20,179
+following on that, uh, you might, for students
+
+870
+00:34:20,179 --> 00:34:22,259
+and postdocs, how do you recommend people
+
+871
+00:34:22,259 --> 00:34:24,340
+navigate, incorporating, and dealing with the company?
+
+872
+00:34:24,500 --> 00:34:30,699
+So I'm going to repeat that question and then
+
+873
+00:34:30,699 --> 00:34:36,900
+I'm going to not answer it. So the question was,
+
+874
+00:34:36,900 --> 00:34:38,779
+how do you navigate the conflict of
+
+875
+00:34:38,779 --> 00:34:40,659
+interest office? Uh, that's really challenging. And
+
+876
+00:34:40,659 --> 00:34:43,499
+that's a subject of the lab you're in the
+
+877
+00:34:43,499 --> 00:34:46,340
+department that you're in. Um, a lot of some
+
+878
+00:34:46,340 --> 00:34:47,779
+departments are like, Hey, that's great. That's kind of
+
+879
+00:34:47,779 --> 00:34:49,219
+what we want to do. Other ones are like,
+
+880
+00:34:49,219 --> 00:34:51,019
+no, no, no. We have plans to commercialize that
+
+881
+00:34:51,019 --> 00:34:52,820
+already. You can't take that on your own, right?
+
+882
+00:34:52,820 --> 00:34:54,179
+So that becomes this huge,
+
+883
+00:34:54,500 --> 00:34:57,139
+huge challenge. Um, so I don't have a
+
+884
+00:34:57,139 --> 00:34:59,780
+good answer to you. I think it's always difficult,
+
+885
+00:34:59,780 --> 00:35:01,580
+right? We're trying to get technology
+
+886
+00:35:01,580 --> 00:35:03,380
+commercialized here and not deal with politics,
+
+887
+00:35:03,380 --> 00:35:05,020
+but unfortunately humans are involved in everything.
+
+888
+00:35:05,020 --> 00:35:06,660
+So there's always going to be politics.
+
+889
+00:35:06,660 --> 00:35:07,140
+Yes, sir.
+
+890
+00:35:07,140 --> 00:35:11,300
+I would like to ask about the PI, uh,
+
+891
+00:35:11,300 --> 00:35:15,460
+do you need to be national, uh, permanent residents
+
+892
+00:35:15,460 --> 00:35:17,900
+in the United States or can it
+
+893
+00:35:17,900 --> 00:35:20,340
+be, can it be under a visa?
+
+894
+00:35:20,340 --> 00:35:22,260
+So I'm going to answer that question
+
+895
+00:35:22,260 --> 00:35:24,180
+in two ways, and I'm totally going to
+
+896
+00:35:24,180 --> 00:35:27,140
+caveat it, meaning I could be wrong, but
+
+897
+00:35:27,140 --> 00:35:30,100
+the company itself, as I mentioned in the eligibility
+
+898
+00:35:30,100 --> 00:35:33,340
+stuff has to be 51% owned by us citizens
+
+899
+00:35:33,340 --> 00:35:36,580
+or permanent residents, the PI, the work needs to be
+
+900
+00:35:36,580 --> 00:35:40,100
+done inside the United States for most agencies.
+
+901
+00:35:40,100 --> 00:35:43,620
+And I've seen some exceptions to this sometimes,
+
+902
+00:35:43,620 --> 00:35:46,060
+but it's been kind of weird. And I didn't really
+
+903
+00:35:46,060 --> 00:35:48,500
+understand, like, I've got a guy who's going to be
+
+904
+00:35:48,500 --> 00:35:50,500
+in Israel for the summer and he wants to do
+
+905
+00:35:50,500 --> 00:35:52,500
+some, you know, there's like, you know, he's not a us
+
+906
+00:35:52,500 --> 00:35:53,330
+citizen, but he's one of these key guys. Um, and so,
+
+907
+00:35:53,330 --> 00:35:54,160
+um, and so, um, and so, um, and so, um, and so,
+
+908
+00:35:54,160 --> 00:35:55,880
+um, and so, um, and so, um, and so, um,
+
+909
+00:35:55,880 --> 00:35:57,600
+and so, um, and so that's a hard question, good hard
+
+910
+00:35:57,600 --> 00:36:01,120
+question, which I don't have the answer to. So,
+
+911
+00:36:01,120 --> 00:36:04,640
+yeah. Um, so okay. So one quick thing on SBIR
+
+912
+00:36:04,640 --> 00:36:07,080
+versus STTR. I don't want to go too far into
+
+913
+00:36:07,080 --> 00:36:09,520
+this cause we'll talk about that on Wednesday, but, um,
+
+914
+00:36:10,560 --> 00:36:13,560
+the SBIR permits you to have a research
+
+915
+00:36:13,560 --> 00:36:16,560
+institution partner and the STTR requires you to
+
+916
+00:36:16,560 --> 00:36:20,000
+have a research institute partner. So I've done
+
+917
+00:36:20,000 --> 00:36:23,440
+both. I can tell you that the overhead associated
+
+918
+00:36:24,160 --> 00:36:25,859
+with the university, kind of to your point
+
+919
+00:36:25,859 --> 00:36:28,080
+about conflict of interest, how do you resolve that?
+
+920
+00:36:28,080 --> 00:36:30,379
+How do you get a clean license?
+
+921
+00:36:30,379 --> 00:36:31,540
+Becomes very challenging.
+
+922
+00:36:31,540 --> 00:36:33,100
+So I know we're sitting here at MIT.
+
+923
+00:36:33,100 --> 00:36:34,540
+Love MIT.
+
+924
+00:36:34,540 --> 00:36:38,140
+I think if you took a $300,000 phase one
+
+925
+00:36:38,140 --> 00:36:41,319
+and you took 30% of it, which is like 90K,
+
+926
+00:36:41,319 --> 00:36:43,839
+and you gave it to MIT, it would quickly
+
+927
+00:36:43,839 --> 00:36:47,560
+cut down to about 45K, maybe even less,
+
+928
+00:36:47,560 --> 00:36:49,839
+for the actual researcher to do the work.
+
+929
+00:36:49,839 --> 00:36:53,080
+So it becomes really challenging to do that.
+
+930
+00:36:53,080 --> 00:36:56,440
+Unless if you really want to engage a university
+
+931
+00:36:56,440 --> 00:36:58,860
+and they have some fantastic equipment or some fantastic
+
+932
+00:36:58,860 --> 00:37:00,180
+people that you can't get
+
+933
+00:37:00,180 --> 00:37:01,500
+access to otherwise, in which case
+
+934
+00:37:01,500 --> 00:37:05,259
+you can view that kind of process as table stakes.
+
+935
+00:37:05,259 --> 00:37:06,920
+If you want to get in the game and you
+
+936
+00:37:06,920 --> 00:37:08,380
+want to use this great equipment,
+
+937
+00:37:08,380 --> 00:37:10,140
+then that's the reason why we're here,
+
+938
+00:37:10,140 --> 00:37:15,200
+because it's not cheap to run this place.
+
+939
+00:37:15,200 --> 00:37:16,540
+What I usually recommend people do
+
+940
+00:37:16,540 --> 00:37:18,340
+if you do want to engage in a university
+
+941
+00:37:18,340 --> 00:37:20,759
+is to apply for an SBIR.
+
+942
+00:37:20,759 --> 00:37:22,620
+And then you can actually take 30%
+
+943
+00:37:23,080 --> 00:37:24,410
+Of the phase one and
+
+944
+00:37:24,410 --> 00:37:25,740
+outsource it to your research institute
+
+945
+00:37:25,740 --> 00:37:26,480
+if you want.
+
+946
+00:37:26,480 --> 00:37:28,160
+And you can do that through consulting agreements
+
+947
+00:37:28,160 --> 00:37:30,060
+and other things that are a little bit easier
+
+948
+00:37:30,060 --> 00:37:31,259
+to kind of get through.
+
+949
+00:37:31,259 --> 00:37:33,600
+But you probably still have the same conflict of interest
+
+950
+00:37:33,600 --> 00:37:35,200
+challenge with that one as well.
+
+951
+00:37:35,200 --> 00:37:37,340
+The award is always made to the small business.
+
+952
+00:37:37,340 --> 00:37:39,259
+So that's a great thing, because then that
+
+953
+00:37:39,259 --> 00:37:41,259
+puts you in control of receiving the funds
+
+954
+00:37:41,259 --> 00:37:42,880
+and then paying the university as opposed
+
+955
+00:37:42,880 --> 00:37:46,060
+to begging the university to make its payments.
+
+956
+00:37:46,060 --> 00:37:46,560
+Yes, sir.
+
+957
+00:37:46,560 --> 00:37:47,560
+I have a question.
+
+958
+00:37:47,560 --> 00:37:50,460
+I've seen some SBIRs where there's
+
+959
+00:37:50,460 --> 00:37:53,040
+a clear difference with the STTR.
+
+960
+00:37:53,040 --> 00:37:56,200
+There's like 30% more.
+
+961
+00:37:56,200 --> 00:37:58,660
+Oh, like the award amount is 30% more?
+
+962
+00:37:58,660 --> 00:37:59,160
+Yeah.
+
+963
+00:37:59,160 --> 00:38:01,440
+You've made 70 or something, and then they
+
+964
+00:38:01,440 --> 00:38:03,420
+put in more, 30% more.
+
+965
+00:38:03,420 --> 00:38:06,180
+But I've seen others where it's like you choose,
+
+966
+00:38:06,180 --> 00:38:07,279
+but it's the same budget.
+
+967
+00:38:07,279 --> 00:38:09,249
+So it's kind of like,
+
+968
+00:38:09,249 --> 00:38:11,220
+OK, I could be a .
+
+969
+00:38:11,220 --> 00:38:13,530
+But at the same time,
+
+970
+00:38:13,530 --> 00:38:15,840
+I've heard that you're more likely
+
+971
+00:38:15,840 --> 00:38:21,000
+to get awarded if you have an STTR.
+
+972
+00:38:21,000 --> 00:38:22,000
+What's your take?
+
+973
+00:38:22,000 --> 00:38:23,000
+Yes.
+
+974
+00:38:23,000 --> 00:38:27,160
+So you took the words right out of my mouth.
+
+975
+00:38:27,160 --> 00:38:29,080
+So it is more challenging to get an STTR.
+
+976
+00:38:29,080 --> 00:38:31,040
+But the same thing I was saying earlier,
+
+977
+00:38:31,040 --> 00:38:32,920
+if there's more hoops to jump through,
+
+978
+00:38:32,920 --> 00:38:34,300
+there's going to be far fewer applicants,
+
+979
+00:38:34,300 --> 00:38:36,540
+because most people are going to be like, forget this.
+
+980
+00:38:36,540 --> 00:38:39,400
+And then, in fact, I've heard rumors
+
+981
+00:38:39,400 --> 00:38:42,640
+that there's a lot of sources of funding
+
+982
+00:38:42,640 --> 00:38:44,560
+that have to go into STTR
+
+983
+00:38:44,560 --> 00:38:46,480
+that they just can't get anybody
+
+984
+00:38:46,480 --> 00:38:47,750
+to apply for, because it's
+
+985
+00:38:47,750 --> 00:38:49,020
+just not a lot of money
+
+986
+00:38:49,020 --> 00:38:49,900
+and it's challenging.
+
+987
+00:38:49,900 --> 00:38:51,190
+So it's like, if one person
+
+988
+00:38:51,190 --> 00:38:52,480
+applies for it, they'll win it.
+
+989
+00:38:52,480 --> 00:38:52,980
+Right?
+
+990
+00:38:53,000 --> 00:38:54,190
+I mean, it's got to
+
+991
+00:38:54,190 --> 00:38:55,380
+be meritorious and all that stuff.
+
+992
+00:38:55,380 --> 00:38:57,880
+It can't be, I'm not talking about just putting together
+
+993
+00:38:57,880 --> 00:38:58,880
+a napkin or anything.
+
+994
+00:38:58,880 --> 00:39:04,060
+And does it mean for phase 2 of SBIR?
+
+995
+00:39:04,060 --> 00:39:05,640
+Well, you have to have a
+
+996
+00:39:05,640 --> 00:39:07,220
+phase 1 to get a phase 2.
+
+997
+00:39:07,220 --> 00:39:08,600
+So however you came into phase
+
+998
+00:39:08,600 --> 00:39:09,980
+1, if it's SBIR or STTR,
+
+999
+00:39:09,980 --> 00:39:13,180
+then that would define how you go to phase 2.
+
+1000
+00:39:13,180 --> 00:39:15,340
+So we heard this, like, if
+
+1001
+00:39:15,340 --> 00:39:17,500
+we are in an STTR right now,
+
+1002
+00:39:17,500 --> 00:39:19,740
+and it's like, if phase 1, and then it
+
+1003
+00:39:19,740 --> 00:39:21,200
+seems like we can apply for
+
+1004
+00:39:21,200 --> 00:39:22,660
+phase 2, we get the invitation.
+
+1005
+00:39:23,000 --> 00:39:25,620
+But if phase 2 is, someone came from an institution
+
+1006
+00:39:25,620 --> 00:39:27,810
+and said, no, you have to
+
+1007
+00:39:27,810 --> 00:39:30,000
+go with a part, with an institution.
+
+1008
+00:39:30,000 --> 00:39:32,180
+And we were like, well, but this is an SBIR.
+
+1009
+00:39:32,180 --> 00:39:33,890
+We were not sure that we
+
+1010
+00:39:33,890 --> 00:39:35,600
+would even migrate to an STTR.
+
+1011
+00:39:35,600 --> 00:39:37,440
+It may have been a matter of budget.
+
+1012
+00:39:37,440 --> 00:39:38,980
+Yeah, I'm not sure.
+
+1013
+00:39:38,980 --> 00:39:39,780
+I'm not sure.
+
+1014
+00:39:39,780 --> 00:39:43,700
+But I mean, that situation, there's
+
+1015
+00:39:43,700 --> 00:39:45,100
+a lot of those situations.
+
+1016
+00:39:45,100 --> 00:39:47,820
+So you've got the SBIR program and STTR program.
+
+1017
+00:39:47,820 --> 00:39:51,500
+And as I said, they get whittled down and converted
+
+1018
+00:39:51,500 --> 00:39:52,980
+into however the agency wants to run
+
+1019
+00:39:52,980 --> 00:39:55,860
+them, so it may be that there's a specific challenge
+
+1020
+00:39:55,860 --> 00:39:57,160
+that somebody has in a department
+
+1021
+00:39:57,160 --> 00:39:58,440
+and they need this funding to do it.
+
+1022
+00:39:58,440 --> 00:39:59,300
+I don't know.
+
+1023
+00:39:59,300 --> 00:40:02,100
+So that may be what you're running into.
+
+1024
+00:40:02,100 --> 00:40:03,860
+OK, so I wanted to
+
+1025
+00:40:03,860 --> 00:40:05,620
+go into the proposal submission details,
+
+1026
+00:40:05,620 --> 00:40:10,620
+sort of how to win these things.
+
+1027
+00:40:10,620 --> 00:40:13,900
+And it's typically a 25-page proposal.
+
+1028
+00:40:13,900 --> 00:40:17,140
+They usually don't accept unsolicited proposals.
+
+1029
+00:40:17,140 --> 00:40:19,080
+And they evaluate it, number one,
+
+1030
+00:40:19,080 --> 00:40:20,340
+based on the technical merit.
+
+1031
+00:40:20,340 --> 00:40:21,570
+So you guys are going to
+
+1032
+00:40:21,570 --> 00:40:22,800
+love this if you're a technical nerd.
+
+1033
+00:40:22,980 --> 00:40:25,480
+And then number two on kind of the other sort
+
+1034
+00:40:25,480 --> 00:40:29,400
+of commercial merit and the firm's qualifications.
+
+1035
+00:40:29,400 --> 00:40:31,600
+I will say that I say this to all the,
+
+1036
+00:40:31,600 --> 00:40:32,760
+I'm going to do a lecture
+
+1037
+00:40:32,760 --> 00:40:33,920
+on the nuts and bolts class too.
+
+1038
+00:40:33,920 --> 00:40:35,770
+But a lot of times,
+
+1039
+00:40:35,770 --> 00:40:37,620
+I do some mentoring at MIT
+
+1040
+00:40:37,620 --> 00:40:39,780
+for student project teams.
+
+1041
+00:40:39,780 --> 00:40:41,070
+And a lot of times
+
+1042
+00:40:41,070 --> 00:40:42,360
+when people look at grant programs
+
+1043
+00:40:42,360 --> 00:40:44,420
+or awards, and they're like, well,
+
+1044
+00:40:44,420 --> 00:40:46,260
+we can get this award for $5,000.
+
+1045
+00:40:46,260 --> 00:40:47,630
+Yeah, but we need like
+
+1046
+00:40:47,630 --> 00:40:49,000
+300 grand to do this thing.
+
+1047
+00:40:49,000 --> 00:40:50,580
+What's the point in doing that award?
+
+1048
+00:40:50,580 --> 00:40:52,800
+If you're a team that's just getting together,
+
+1049
+00:40:52,800 --> 00:40:54,600
+and you're just a bunch of individuals,
+
+1050
+00:40:54,600 --> 00:40:57,720
+if you can do something together under a cohesive unit
+
+1051
+00:40:57,720 --> 00:40:59,880
+and say, we won this award as a team,
+
+1052
+00:40:59,880 --> 00:41:02,340
+that kind of adds credibility to this next phase, which
+
+1053
+00:41:02,340 --> 00:41:04,900
+is kind of like talking about the firm's qualifications.
+
+1054
+00:41:04,900 --> 00:41:06,050
+Well, if you just come in
+
+1055
+00:41:06,050 --> 00:41:07,200
+with three people that just put
+
+1056
+00:41:07,200 --> 00:41:09,080
+the firm together, the firm doesn't have any qualifications.
+
+1057
+00:41:09,080 --> 00:41:11,340
+It's just three guys that decided to come together
+
+1058
+00:41:11,340 --> 00:41:14,160
+and put a name on top of our heads.
+
+1059
+00:41:14,160 --> 00:41:16,380
+So I would say I wouldn't necessarily
+
+1060
+00:41:16,380 --> 00:41:18,120
+poo-poo some of the smaller ones just
+
+1061
+00:41:18,120 --> 00:41:20,230
+to give you guys a chance
+
+1062
+00:41:20,230 --> 00:41:22,340
+to kind of put together a business.
+
+1063
+00:41:22,340 --> 00:41:22,840
+Yeah, OK.
+
+1064
+00:41:22,840 --> 00:41:24,340
+Let me keep going here.
+
+1065
+00:41:24,340 --> 00:41:27,320
+So this is directly from the National Science Foundation
+
+1066
+00:41:27,320 --> 00:41:30,500
+research.gov proposal preparation process.
+
+1067
+00:41:30,500 --> 00:41:32,060
+There's a whole bunch of stuff in here
+
+1068
+00:41:32,060 --> 00:41:33,060
+that you guys can all
+
+1069
+00:41:33,060 --> 00:41:34,060
+figure out how to fill out.
+
+1070
+00:41:34,060 --> 00:41:35,300
+It's all details around it.
+
+1071
+00:41:35,300 --> 00:41:36,800
+But what I wanted to
+
+1072
+00:41:36,800 --> 00:41:38,300
+focus on was the project description
+
+1073
+00:41:38,300 --> 00:41:39,620
+and then the letters of support.
+
+1074
+00:41:39,620 --> 00:41:41,620
+And this is specific to the National Science Foundation.
+
+1075
+00:41:41,620 --> 00:41:43,820
+These two areas are the most important things for you
+
+1076
+00:41:43,820 --> 00:41:45,200
+to spend most of your time on.
+
+1077
+00:41:45,200 --> 00:41:46,970
+Everything else you should be
+
+1078
+00:41:46,970 --> 00:41:48,740
+able to just plug and chug.
+
+1079
+00:41:48,740 --> 00:41:50,360
+I mean, read the instructions
+
+1080
+00:41:50,360 --> 00:41:51,980
+and do it correctly, of course.
+
+1081
+00:41:51,980 --> 00:41:54,800
+So a project description is 15 pages.
+
+1082
+00:41:54,800 --> 00:41:56,100
+It has an elevator pitch.
+
+1083
+00:41:56,100 --> 00:41:58,200
+It has a commercial opportunity, company and team,
+
+1084
+00:41:58,200 --> 00:42:01,980
+a technical solution, and the technical merits R&D plan.
+
+1085
+00:42:01,980 --> 00:42:04,280
+So this is for a phase one.
+
+1086
+00:42:04,280 --> 00:42:06,980
+This is the first time that an agency would
+
+1087
+00:42:06,980 --> 00:42:10,300
+fund this project or this technology.
+
+1088
+00:42:10,300 --> 00:42:12,280
+So the focus of a lot of the work
+
+1089
+00:42:12,280 --> 00:42:14,780
+needs to be on the technology solution and the technology
+
+1090
+00:42:14,780 --> 00:42:16,020
+merits R&D plan.
+
+1091
+00:42:16,020 --> 00:42:17,300
+So there's a bunch of other stuff
+
+1092
+00:42:17,300 --> 00:42:18,960
+that we put together, commercialization
+
+1093
+00:42:18,960 --> 00:42:20,600
+and all kinds of ideas.
+
+1094
+00:42:20,600 --> 00:42:21,980
+At the phase one level, we're going
+
+1095
+00:42:21,980 --> 00:42:23,700
+to specialize in other areas.
+
+1096
+00:42:23,700 --> 00:42:26,180
+All the SEC has sixth level projects.
+
+1097
+00:42:26,180 --> 00:42:27,940
+So what you're going to do
+
+1098
+00:42:27,940 --> 00:42:29,700
+on the first level level lifecycle
+
+1099
+00:42:29,700 --> 00:42:31,340
+set, I'm going to do an hour and a half
+
+1100
+00:42:31,340 --> 00:42:32,320
+of like examples of what all
+
+1101
+00:42:32,320 --> 00:42:33,300
+of that is going on in terms
+
+1102
+00:42:33,300 --> 00:42:34,520
+of what we need to do in terms of what
+
+1103
+00:42:34,520 --> 00:42:36,000
+are the contenido opportunities.
+
+1104
+00:42:36,000 --> 00:42:37,840
+We're going to be focusing on all of these aspects.
+
+1105
+00:42:37,840 --> 00:42:39,380
+Not only do we do Seth down below,
+
+1106
+00:42:39,380 --> 00:42:41,000
+but we're going to be focusing on what
+
+1107
+00:42:41,000 --> 00:42:43,940
+are the actual requirements around using technology нам
+
+1108
+00:42:43,940 --> 00:42:46,040
+So it's probably a big upload period
+
+1109
+00:42:46,040 --> 00:42:47,450
+immediately going to take place
+
+1110
+00:42:47,450 --> 00:42:48,860
+like a week ahead of when
+
+1111
+00:42:48,860 --> 00:42:50,660
+we start writing the statement.
+
+1112
+00:42:50,660 --> 00:42:51,800
+And then last adjustedm
+
+1113
+00:42:51,800 --> 00:42:53,240
+good customer that says that looks interesting
+
+1114
+00:42:53,240 --> 00:42:54,680
+you know I would buy it if
+
+1115
+00:42:54,680 --> 00:42:56,540
+it were reduced to practice in this
+
+1116
+00:42:56,540 --> 00:42:58,400
+way that would be great investors with
+
+1117
+00:42:58,400 --> 00:43:00,590
+serious interest in the outcome that
+
+1118
+00:43:00,590 --> 00:43:02,780
+means like we read their business plan
+
+1119
+00:43:02,780 --> 00:43:04,750
+we love what they're trying to do
+
+1120
+00:43:04,750 --> 00:43:06,720
+we see a huge opportunity in the marketplace
+
+1121
+00:43:06,720 --> 00:43:09,010
+but they have some significant technical challenges
+
+1122
+00:43:09,010 --> 00:43:11,300
+and they are just the team to
+
+1123
+00:43:11,300 --> 00:43:13,050
+do it right like that would be the
+
+1124
+00:43:13,050 --> 00:43:14,800
+ideal letter of support from an investor and
+
+1125
+00:43:14,800 --> 00:43:17,010
+proving that they actually like know
+
+1126
+00:43:17,010 --> 00:43:19,220
+what they're doing and then partners who
+
+1127
+00:43:19,220 --> 00:43:21,380
+invest after successful outcomes so if there's
+
+1128
+00:43:21,380 --> 00:43:23,540
+if you need to like a path to
+
+1129
+00:43:23,540 --> 00:43:25,080
+market and you need a part a serious
+
+1130
+00:43:25,080 --> 00:43:26,620
+couple of partners in order to get to
+
+1131
+00:43:26,620 --> 00:43:28,459
+that marketplace those guys along the way
+
+1132
+00:43:28,459 --> 00:43:30,299
+saying that you talk to them is a
+
+1133
+00:43:30,299 --> 00:43:33,009
+great letter of support so what are
+
+1134
+00:43:33,009 --> 00:43:35,720
+bad letters of support there's way too many
+
+1135
+00:43:35,720 --> 00:43:37,309
+consultants who get paid from the fund
+
+1136
+00:43:37,309 --> 00:43:38,899
+and it's kind of like what's the point
+
+1137
+00:43:38,899 --> 00:43:41,249
+in telling me you support this project
+
+1138
+00:43:41,249 --> 00:43:43,600
+of course you do right an investor with
+
+1139
+00:43:43,600 --> 00:43:44,939
+no knowledge of the technology so some
+
+1140
+00:43:44,939 --> 00:43:46,279
+people are just like yeah you should
+
+1141
+00:43:46,279 --> 00:43:48,959
+fund these guys they're a friend of mine and then
+
+1142
+00:43:48,959 --> 00:43:49,079
+suddenly you're like oh I'm not sure what
+
+1143
+00:43:49,079 --> 00:43:49,200
+I'm doing I'm not sure what I'm doing
+
+1144
+00:43:49,200 --> 00:43:49,239
+and then you're like oh I'm not sure
+
+1145
+00:43:49,239 --> 00:43:49,279
+what I'm doing I'm not sure what I'm doing
+
+1146
+00:43:49,279 --> 00:43:50,959
+or congressman who want to support
+
+1147
+00:43:50,959 --> 00:43:52,640
+the companies in their district I there's
+
+1148
+00:43:52,640 --> 00:43:55,110
+plenty of these I don't recommend them but
+
+1149
+00:43:55,110 --> 00:43:57,580
+they don't hurt so you know if you
+
+1150
+00:43:57,580 --> 00:43:59,080
+want to do them that's fine I mean
+
+1151
+00:43:59,080 --> 00:44:00,580
+I consider them a bad letter of support
+
+1152
+00:44:00,580 --> 00:44:04,009
+but maybe this is Steve's opinion here
+
+1153
+00:44:04,009 --> 00:44:07,439
+okay questions oh sorry I've had to take
+
+1154
+00:44:07,439 --> 00:44:10,899
+this spam likely or scam likely call
+
+1155
+00:44:10,899 --> 00:44:14,359
+questions on any of that stuff so far
+
+1156
+00:44:14,360 --> 00:44:19,060
+yeah yeah yeah yeah so good question
+
+1157
+00:44:19,060 --> 00:44:23,760
+on the stt Vincent this product for the
+
+1158
+00:44:25,020 --> 00:44:27,290
+you know on the other side so there was
+
+1159
+00:44:27,290 --> 00:44:29,560
+a couple of things like that so on the
+
+1160
+00:44:29,560 --> 00:44:32,260
+else we're next year's i think
+
+1161
+00:44:32,260 --> 00:44:34,960
+know how to negotiate so good question
+
+1162
+00:44:34,960 --> 00:44:37,370
+um and i think the click review task n
+
+1163
+00:44:37,370 --> 00:44:39,780
+we'll go to twitter ago and be like hey
+
+1164
+00:44:39,780 --> 00:44:41,820
+how did you choose this because the
+
+1165
+00:44:41,820 --> 00:44:43,860
+process tutor and the plan tutors have
+
+1166
+00:44:43,860 --> 00:44:44,040
+been
+
+1167
+00:44:44,040 --> 00:44:46,500
+for the phase one to an outside research institute partner.
+
+1168
+00:44:46,500 --> 00:44:51,200
+In other words, 66% of the technology and the innovation
+
+1169
+00:44:51,200 --> 00:44:52,820
+has to be with the small business firm.
+
+1170
+00:44:52,820 --> 00:44:54,580
+That's the reason why it's an SBIR.
+
+1171
+00:44:54,580 --> 00:44:57,120
+When it's an STTR, it's like some of the technology
+
+1172
+00:44:57,120 --> 00:44:58,100
+expertise can be with the company,
+
+1173
+00:44:58,100 --> 00:45:00,240
+but a lot of it is probably at the university,
+
+1174
+00:45:00,240 --> 00:45:03,259
+which is why there's a minimum 30%
+
+1175
+00:45:03,259 --> 00:45:05,580
+for the research institution, right?
+
+1176
+00:45:05,580 --> 00:45:08,080
+Which means the small business
+
+1177
+00:45:08,080 --> 00:45:10,580
+gets 70% and then the 40%.
+
+1178
+00:45:11,520 --> 00:45:13,540
+So that, you know, there's some gap between those two.
+
+1179
+00:45:13,540 --> 00:45:14,960
+If you hit the minimums on both sides,
+
+1180
+00:45:14,960 --> 00:45:17,660
+you have some gap to fund other things, right?
+
+1181
+00:45:17,660 --> 00:45:20,020
+So, but that has to be in the budget.
+
+1182
+00:45:20,020 --> 00:45:22,740
+So a lot of times you, it helps with negotiation.
+
+1183
+00:45:22,740 --> 00:45:25,300
+So if you're engaged with a national lab, for example,
+
+1184
+00:45:25,300 --> 00:45:28,640
+I've done a bunch of work with DOE's national labs.
+
+1185
+00:45:28,640 --> 00:45:31,420
+You know, you kind of go through the,
+
+1186
+00:45:31,420 --> 00:45:32,980
+you don't have to worry about negotiating.
+
+1187
+00:45:32,980 --> 00:45:33,869
+You just be like, well,
+
+1188
+00:45:33,869 --> 00:45:34,759
+this is defined in the SBIR.
+
+1189
+00:45:34,759 --> 00:45:36,520
+That's how much we're gonna do, so.
+
+1190
+00:45:36,520 --> 00:45:37,640
+Sorry, keep going.
+
+1191
+00:45:37,640 --> 00:45:38,480
+Yep.
+
+1192
+00:45:38,480 --> 00:45:40,980
+So the STTR, the 40%
+
+1193
+00:45:40,980 --> 00:45:43,480
+is for the small business companies.
+
+1194
+00:45:43,540 --> 00:45:44,540
+So that's the minimum for the small business concern.
+
+1195
+00:45:44,540 --> 00:45:47,000
+Is that the maximum or is that the minimum?
+
+1196
+00:45:47,000 --> 00:45:49,440
+That's the minimum for the small business concern
+
+1197
+00:45:49,440 --> 00:45:51,400
+and 30% for the research institution.
+
+1198
+00:45:51,400 --> 00:45:52,240
+Oh, okay.
+
+1199
+00:45:52,240 --> 00:45:53,200
+Yeah, yeah.
+
+1200
+00:45:53,200 --> 00:45:55,270
+So the total is only 70% and
+
+1201
+00:45:55,270 --> 00:45:57,340
+you have 30% of slop in between.
+
+1202
+00:45:57,340 --> 00:45:59,200
+So you could do 40% for the research institution
+
+1203
+00:45:59,200 --> 00:46:01,080
+if you want, or you could do 50-50, right?
+
+1204
+00:46:01,080 --> 00:46:03,660
+That's within the range.
+
+1205
+00:46:04,580 --> 00:46:05,420
+Any other questions?
+
+1206
+00:46:05,420 --> 00:46:06,259
+Oh, okay.
+
+1207
+00:46:06,259 --> 00:46:07,100
+Yes?
+
+1208
+00:46:07,100 --> 00:46:10,200
+So I heard that there's a, you know,
+
+1209
+00:46:10,200 --> 00:46:11,870
+basically there is some kind
+
+1210
+00:46:11,870 --> 00:46:13,540
+of markup for like the old,
+
+1211
+00:46:13,540 --> 00:46:14,380
+you know, the overhead.
+
+1212
+00:46:14,380 --> 00:46:15,200
+Yeah.
+
+1213
+00:46:15,200 --> 00:46:16,040
+Yeah.
+
+1214
+00:46:16,040 --> 00:46:18,420
+Yeah, that's why I was saying one of the challenges
+
+1215
+00:46:18,420 --> 00:46:21,620
+is with the research institution for an STTR,
+
+1216
+00:46:21,620 --> 00:46:25,060
+you know, if you have a $300,000 phase one award,
+
+1217
+00:46:25,060 --> 00:46:27,660
+130% of it goes to the research institution,
+
+1218
+00:46:27,660 --> 00:46:31,100
+that's $100,000, but then you gotta multiply it by,
+
+1219
+00:46:31,100 --> 00:46:32,940
+basically take a half of it and that's the amount
+
+1220
+00:46:32,940 --> 00:46:34,660
+that actually can go to do the research.
+
+1221
+00:46:34,660 --> 00:46:36,620
+The other half of it goes to overhead, typically.
+
+1222
+00:46:36,620 --> 00:46:38,259
+I mean, just rough numbers.
+
+1223
+00:46:38,259 --> 00:46:40,779
+Maybe even more than that in some places.
+
+1224
+00:46:40,779 --> 00:46:42,099
+I don't know, does anybody
+
+1225
+00:46:42,099 --> 00:46:43,420
+know what MIT's overhead rate is?
+
+1226
+00:46:43,540 --> 00:46:44,380
+I don't know.
+
+1227
+00:46:44,380 --> 00:46:45,200
+I think 59.
+
+1228
+00:46:46,040 --> 00:46:46,880
+Okay.
+
+1229
+00:46:46,880 --> 00:46:49,580
+Okay, any other questions?
+
+1230
+00:46:49,580 --> 00:46:50,420
+Yes?
+
+1231
+00:46:50,420 --> 00:46:52,320
+Can you explain the timeline of different institutions?
+
+1232
+00:46:52,320 --> 00:46:53,160
+Yeah.
+
+1233
+00:46:53,160 --> 00:46:55,160
+If I want to choose what,
+
+1234
+00:46:55,160 --> 00:46:57,520
+how many months you suggest that is minimum
+
+1235
+00:46:57,520 --> 00:47:00,320
+for the first time writing a grant for that company?
+
+1236
+00:47:00,320 --> 00:47:03,240
+That's a good question.
+
+1237
+00:47:03,240 --> 00:47:06,740
+So if it's the first time writing a grant
+
+1238
+00:47:06,740 --> 00:47:10,080
+and you're going after a broad solicitation,
+
+1239
+00:47:10,080 --> 00:47:11,279
+I mean, you can get started on it.
+
+1240
+00:47:11,279 --> 00:47:13,440
+It's typically like two months, I think,
+
+1241
+00:47:13,440 --> 00:47:15,800
+is if you already have the technology
+
+1242
+00:47:15,800 --> 00:47:16,840
+and you know what it is
+
+1243
+00:47:16,840 --> 00:47:17,880
+and you want to put it
+
+1244
+00:47:17,880 --> 00:47:19,420
+in the right format for this,
+
+1245
+00:47:19,420 --> 00:47:20,470
+I think two months is
+
+1246
+00:47:20,470 --> 00:47:21,520
+about the right amount of time
+
+1247
+00:47:21,520 --> 00:47:23,140
+that people allocate for it.
+
+1248
+00:47:24,600 --> 00:47:25,620
+That's for a broad one,
+
+1249
+00:47:25,620 --> 00:47:27,240
+but if you have to
+
+1250
+00:47:27,240 --> 00:47:28,860
+go into the specific solicitation topics,
+
+1251
+00:47:28,860 --> 00:47:30,260
+then it becomes a lot more challenging
+
+1252
+00:47:30,260 --> 00:47:32,640
+because you have to make sure that your technology
+
+1253
+00:47:32,640 --> 00:47:34,360
+matches whatever's in that solicitation.
+
+1254
+00:47:34,360 --> 00:47:36,200
+So it might take an extra month or so
+
+1255
+00:47:36,200 --> 00:47:37,840
+to kind of make sure that it's focused on that,
+
+1256
+00:47:37,840 --> 00:47:40,320
+especially if it's your first time around.
+
+1257
+00:47:40,320 --> 00:47:41,980
+Any other questions on this one?
+
+1258
+00:47:41,980 --> 00:47:42,820
+Yes, sir.
+
+1259
+00:47:43,440 --> 00:47:47,300
+So for the letters of support,
+
+1260
+00:47:47,300 --> 00:47:50,540
+let's say that you are in a phase one
+
+1261
+00:47:50,540 --> 00:47:53,440
+and there's this specific department
+
+1262
+00:47:53,440 --> 00:47:55,980
+that is actually going to buy your technology
+
+1263
+00:47:55,980 --> 00:47:58,700
+and you want to get more resources
+
+1264
+00:47:58,700 --> 00:48:00,300
+to actually finish that project.
+
+1265
+00:48:00,300 --> 00:48:01,140
+Mm-hmm.
+
+1266
+00:48:02,440 --> 00:48:04,000
+Do their letters of support
+
+1267
+00:48:04,000 --> 00:48:07,840
+will be useful for the NSF as they are?
+
+1268
+00:48:08,880 --> 00:48:10,660
+For example, the letter of
+
+1269
+00:48:10,660 --> 00:48:12,440
+support being from the government?
+
+1270
+00:48:13,440 --> 00:48:14,440
+Yeah.
+
+1271
+00:48:14,440 --> 00:48:15,440
+So it's a customer at the end.
+
+1272
+00:48:15,440 --> 00:48:16,440
+That's why it...
+
+1273
+00:48:16,440 --> 00:48:19,440
+I think it would be fine.
+
+1274
+00:48:19,440 --> 00:48:20,690
+A lot of times, a
+
+1275
+00:48:20,690 --> 00:48:21,940
+lot of these things, it's like,
+
+1276
+00:48:21,940 --> 00:48:24,440
+did you actually talk to a customer in phase one?
+
+1277
+00:48:24,440 --> 00:48:25,440
+Which is kind of unusual, right?
+
+1278
+00:48:25,440 --> 00:48:28,440
+But a lot of times that's important.
+
+1279
+00:48:28,440 --> 00:48:30,940
+If that customer is so
+
+1280
+00:48:30,940 --> 00:48:33,440
+tight that they have a conflict,
+
+1281
+00:48:33,440 --> 00:48:34,940
+then that's a concern, right?
+
+1282
+00:48:34,940 --> 00:48:37,440
+If they're too close to the technology, then it's like,
+
+1283
+00:48:37,440 --> 00:48:39,440
+okay, well, this is just your friend, right?
+
+1284
+00:48:39,440 --> 00:48:41,390
+So I've done several where
+
+1285
+00:48:41,390 --> 00:48:43,340
+there have been prominent professionals,
+
+1286
+00:48:43,340 --> 00:48:45,540
+professors from lots of universities around
+
+1287
+00:48:45,540 --> 00:48:47,840
+that have given letters of support, not as customers,
+
+1288
+00:48:47,840 --> 00:48:50,740
+but just as technology advocates to the baseline technology,
+
+1289
+00:48:50,740 --> 00:48:51,840
+which has been great.
+
+1290
+00:48:51,840 --> 00:48:53,940
+Because one of the things that you'll realize
+
+1291
+00:48:53,940 --> 00:48:57,140
+is that the reviewers, when they sit in a room,
+
+1292
+00:48:57,140 --> 00:48:58,740
+they have 20 of these proposals
+
+1293
+00:48:58,740 --> 00:49:00,340
+that they got to read through.
+
+1294
+00:49:00,340 --> 00:49:01,940
+And really what they do is
+
+1295
+00:49:01,940 --> 00:49:03,540
+they just go through the proposal themselves.
+
+1296
+00:49:03,540 --> 00:49:05,190
+They don't go to a website
+
+1297
+00:49:05,190 --> 00:49:06,840
+and go do extra research on stuff.
+
+1298
+00:49:06,840 --> 00:49:08,140
+And that's probably the most
+
+1299
+00:49:08,140 --> 00:49:09,440
+important thing for you to recognize
+
+1300
+00:49:09,440 --> 00:49:12,740
+is that they've got to review 20 of these things.
+
+1301
+00:49:13,340 --> 00:49:15,840
+The easiest thing in the world is to say no.
+
+1302
+00:49:15,840 --> 00:49:17,840
+So they're just looking for reasons to
+
+1303
+00:49:17,840 --> 00:49:19,840
+say no on any of these items.
+
+1304
+00:49:19,840 --> 00:49:21,340
+And if it takes extra work
+
+1305
+00:49:21,340 --> 00:49:22,840
+to go and like advocate for you,
+
+1306
+00:49:22,840 --> 00:49:24,040
+they're not your friend, right?
+
+1307
+00:49:24,040 --> 00:49:25,840
+They're there to just do the review.
+
+1308
+00:49:25,840 --> 00:49:27,840
+So what you want to do is make
+
+1309
+00:49:27,840 --> 00:49:29,840
+it very easy for them to say yes.
+
+1310
+00:49:29,840 --> 00:49:31,340
+So if there's a bunch
+
+1311
+00:49:31,340 --> 00:49:32,840
+of letters in there that say,
+
+1312
+00:49:32,840 --> 00:49:34,840
+this is great technology, I'm
+
+1313
+00:49:34,840 --> 00:49:36,840
+a well-known person in my industry,
+
+1314
+00:49:36,840 --> 00:49:38,840
+and I say this is great technology, that's great.
+
+1315
+00:49:38,840 --> 00:49:40,090
+Because then they don't have to go
+
+1316
+00:49:40,090 --> 00:49:41,340
+out and like talk to anybody else.
+
+1317
+00:49:41,340 --> 00:49:43,140
+They just see it right there in the package.
+
+1318
+00:49:43,140 --> 00:49:45,640
+So all right.
+
+1319
+00:49:45,640 --> 00:49:47,140
+Yes, question in white.
+
+1320
+00:49:47,140 --> 00:49:50,140
+There is one agency of grants
+
+1321
+00:49:50,140 --> 00:49:53,140
+that you recommend us better than others?
+
+1322
+00:49:53,140 --> 00:49:54,640
+One which?
+
+1323
+00:49:54,640 --> 00:49:56,640
+I didn't hear that.
+
+1324
+00:49:56,640 --> 00:50:00,390
+One kind of agency of grants
+
+1325
+00:50:00,390 --> 00:50:04,140
+that you recommend us better than others?
+
+1326
+00:50:04,140 --> 00:50:05,140
+One agency.
+
+1327
+00:50:05,140 --> 00:50:06,640
+Well, I love the NSF.
+
+1328
+00:50:06,640 --> 00:50:08,140
+So what can I say?
+
+1329
+00:50:08,140 --> 00:50:10,640
+I mean, I have some funding from the NSF.
+
+1330
+00:50:10,640 --> 00:50:12,640
+But it's really a match.
+
+1331
+00:50:13,140 --> 00:50:16,640
+So I wish they would rename it SBIR.
+
+1332
+00:50:16,640 --> 00:50:18,140
+I guess SBIR has the brand
+
+1333
+00:50:18,140 --> 00:50:19,640
+name, so everybody knows what that is.
+
+1334
+00:50:19,640 --> 00:50:21,640
+But within each agency, there's a lot of different things.
+
+1335
+00:50:21,640 --> 00:50:23,390
+Like for example, I know some people
+
+1336
+00:50:23,390 --> 00:50:25,140
+that really have done a bunch of research
+
+1337
+00:50:25,140 --> 00:50:27,640
+and have a bunch of collaborators
+
+1338
+00:50:27,640 --> 00:50:30,140
+within the specific Air Force Research Lab.
+
+1339
+00:50:30,140 --> 00:50:32,140
+And so therefore, the DOD and the
+
+1340
+00:50:32,140 --> 00:50:34,140
+solicitation that come out that match their stuff
+
+1341
+00:50:34,140 --> 00:50:35,640
+are a perfect match for those guys, right?
+
+1342
+00:50:35,640 --> 00:50:37,140
+So it's like, why would you go
+
+1343
+00:50:37,140 --> 00:50:38,640
+to the NSF and try and convince somebody
+
+1344
+00:50:38,640 --> 00:50:39,890
+that you have some big commercial
+
+1345
+00:50:39,890 --> 00:50:41,140
+when I have something that's ready-made
+
+1346
+00:50:41,140 --> 00:50:42,140
+for that solicitation?
+
+1347
+00:50:42,140 --> 00:50:44,140
+So it's really kind of a custom question.
+
+1348
+00:50:44,140 --> 00:50:46,890
+If you are like, I have a
+
+1349
+00:50:46,890 --> 00:50:49,640
+cool idea, and it's super techno nerdy,
+
+1350
+00:50:49,640 --> 00:50:51,640
+and I think there's a commercial market for it,
+
+1351
+00:50:51,640 --> 00:50:53,640
+then the NSF is sort of designed to fund that.
+
+1352
+00:50:53,640 --> 00:50:55,640
+I mean, that's the reason why
+
+1353
+00:50:55,640 --> 00:50:57,640
+they kind of came into this.
+
+1354
+00:50:57,640 --> 00:51:00,140
+I will tell you that they do like to fund,
+
+1355
+00:51:00,140 --> 00:51:03,640
+and they actually make a preference to first-time companies.
+
+1356
+00:51:03,640 --> 00:51:04,890
+So if it's your first-time company
+
+1357
+00:51:04,890 --> 00:51:06,140
+and you want to do first-time funding,
+
+1358
+00:51:06,140 --> 00:51:07,640
+that's kind of their sweet spot.
+
+1359
+00:51:07,640 --> 00:51:08,640
+They prefer to do that.
+
+1360
+00:51:08,640 --> 00:51:10,140
+In fact, if you go back a second
+
+1361
+00:51:10,140 --> 00:51:11,640
+or third time, it's kind of like, eh.
+
+1362
+00:51:12,140 --> 00:51:13,140
+We already got you going.
+
+1363
+00:51:13,140 --> 00:51:16,140
+Now you're supposed to be on your own.
+
+1364
+00:51:16,140 --> 00:51:17,140
+Any other questions?
+
+1365
+00:51:17,140 --> 00:51:18,140
+Otherwise, we'll keep going.
+
+1366
+00:51:18,140 --> 00:51:18,640
+Yes?
+
+1367
+00:51:18,640 --> 00:51:21,140
+So if we write two grants, for example,
+
+1368
+00:51:21,140 --> 00:51:24,140
+DOD NIH, there are two different things.
+
+1369
+00:51:24,140 --> 00:51:26,640
+For NIH, you're looking at
+
+1370
+00:51:26,640 --> 00:51:29,140
+either something, but same company.
+
+1371
+00:51:29,140 --> 00:51:31,640
+Of course, the product at the end
+
+1372
+00:51:31,640 --> 00:51:34,140
+is the same thing, but two aspects.
+
+1373
+00:51:34,140 --> 00:51:36,140
+We can only accept one of them.
+
+1374
+00:51:36,140 --> 00:51:37,140
+No.
+
+1375
+00:51:37,140 --> 00:51:40,640
+So thank you for asking that question.
+
+1376
+00:51:40,640 --> 00:51:42,140
+The question is, if we have two grants,
+
+1377
+00:51:42,140 --> 00:51:47,140
+we have two proposals that have different scope of work.
+
+1378
+00:51:47,140 --> 00:51:49,140
+So like I'm doing software development over here,
+
+1379
+00:51:49,140 --> 00:51:51,640
+and I'm doing, I don't know, drug
+
+1380
+00:51:51,640 --> 00:51:54,140
+discovery over here, or whatever it is.
+
+1381
+00:51:54,140 --> 00:51:55,640
+Those are two different proposals.
+
+1382
+00:51:55,640 --> 00:51:57,140
+So the distinction is if
+
+1383
+00:51:57,140 --> 00:51:58,640
+I take the exact same proposal
+
+1384
+00:51:58,640 --> 00:52:00,640
+and I just change NIH to DOD over
+
+1385
+00:52:00,640 --> 00:52:02,640
+here and I apply the same thing here,
+
+1386
+00:52:02,640 --> 00:52:05,140
+so it's the same, I'm doing software development here,
+
+1387
+00:52:05,140 --> 00:52:07,140
+same person, same thing doing software development,
+
+1388
+00:52:07,140 --> 00:52:09,140
+and innovating the technology in the
+
+1389
+00:52:09,140 --> 00:52:11,140
+same way, that's what you can't do.
+
+1390
+00:52:11,140 --> 00:52:12,640
+And a lot of people have done that.
+
+1391
+00:52:12,640 --> 00:52:13,640
+It sort of makes sense.
+
+1392
+00:52:13,640 --> 00:52:15,640
+It's like, well, if my chances of winning are 15%,
+
+1393
+00:52:15,640 --> 00:52:17,890
+let me just invert that and
+
+1394
+00:52:17,890 --> 00:52:20,140
+submit it to six different agencies,
+
+1395
+00:52:20,140 --> 00:52:22,140
+and one of them will hit, right?
+
+1396
+00:52:22,140 --> 00:52:24,640
+You can do the math on that, right?
+
+1397
+00:52:24,640 --> 00:52:25,640
+So yeah.
+
+1398
+00:52:25,640 --> 00:52:27,140
+And in fact, I think
+
+1399
+00:52:27,140 --> 00:52:28,640
+I like that as a strategy.
+
+1400
+00:52:28,640 --> 00:52:30,390
+If you have a product and
+
+1401
+00:52:30,390 --> 00:52:32,140
+it has multiple technologies that influence it,
+
+1402
+00:52:32,140 --> 00:52:33,890
+you can certainly go and find a
+
+1403
+00:52:33,890 --> 00:52:35,640
+bunch of sources of funding from different SBAs.
+
+1404
+00:52:35,640 --> 00:52:37,140
+And as soon as you get
+
+1405
+00:52:37,140 --> 00:52:38,640
+your company registered and everything else
+
+1406
+00:52:38,640 --> 00:52:40,140
+and kind of go through that process,
+
+1407
+00:52:40,140 --> 00:52:41,140
+that's kind of a big highlight.
+
+1408
+00:52:41,140 --> 00:52:42,640
+And I think that's a big part of the
+
+1409
+00:52:42,640 --> 00:52:44,140
+reason why I've done a lot of federal government work
+
+1410
+00:52:44,140 --> 00:52:46,140
+is because it takes a long time to get
+
+1411
+00:52:46,140 --> 00:52:48,140
+you up over that hump in the first place.
+
+1412
+00:52:48,140 --> 00:52:49,140
+And once you're there, it's kind of like,
+
+1413
+00:52:49,140 --> 00:52:51,640
+I might as well just keep figuring out
+
+1414
+00:52:51,640 --> 00:52:54,140
+who else needs my solution that can be solved.
+
+1415
+00:52:54,140 --> 00:52:55,140
+Yeah.
+
+1416
+00:52:55,140 --> 00:52:57,140
+Unless anybody else has any other questions?
+
+1417
+00:52:57,140 --> 00:52:59,140
+She's already got two down, so yeah.
+
+1418
+00:52:59,140 --> 00:53:00,140
+Go ahead.
+
+1419
+00:53:00,140 --> 00:53:02,140
+About the team.
+
+1420
+00:53:02,140 --> 00:53:03,140
+Yeah.
+
+1421
+00:53:03,140 --> 00:53:06,140
+Should they be officially registered in the
+
+1422
+00:53:06,140 --> 00:53:09,140
+company as part of the employee's team?
+
+1423
+00:53:09,140 --> 00:53:10,140
+Yeah.
+
+1424
+00:53:10,140 --> 00:53:11,140
+As part of the employees?
+
+1425
+00:53:11,140 --> 00:53:16,140
+Because for many startups, one person quit their day job.
+
+1426
+00:53:16,140 --> 00:53:18,140
+The others support, they spend time,
+
+1427
+00:53:18,140 --> 00:53:20,140
+but officially they are working with them.
+
+1428
+00:53:20,140 --> 00:53:22,140
+So are they okay?
+
+1429
+00:53:22,140 --> 00:53:26,140
+Because of the limitations of their primary employer,
+
+1430
+00:53:26,140 --> 00:53:28,140
+they don't go officially in the system.
+
+1431
+00:53:28,140 --> 00:53:29,140
+Right.
+
+1432
+00:53:29,140 --> 00:53:30,140
+I got you.
+
+1433
+00:53:30,140 --> 00:53:31,140
+I got you.
+
+1434
+00:53:31,140 --> 00:53:33,640
+So the distinction is, and this goes
+
+1435
+00:53:33,640 --> 00:53:36,140
+to the budget and to the application.
+
+1436
+00:53:36,140 --> 00:53:37,640
+So the question was, if somebody's outside and
+
+1437
+00:53:37,640 --> 00:53:39,140
+they are going to come work at the company,
+
+1438
+00:53:39,140 --> 00:53:40,640
+once you get funding, how do
+
+1439
+00:53:40,640 --> 00:53:42,140
+I put them into the proposal?
+
+1440
+00:53:42,140 --> 00:53:44,640
+If they are one of the key people
+
+1441
+00:53:44,640 --> 00:53:47,140
+that you need to do the technology work,
+
+1442
+00:53:47,140 --> 00:53:48,640
+so they're like a named
+
+1443
+00:53:48,640 --> 00:53:50,140
+person on the budget that says,
+
+1444
+00:53:50,140 --> 00:53:51,640
+I need, you know, whatever,
+
+1445
+00:53:51,640 --> 00:53:53,140
+120 hours out of this guy,
+
+1446
+00:53:53,140 --> 00:53:55,140
+then it's a harder question because
+
+1447
+00:53:55,140 --> 00:53:57,140
+then you have a real challenge around,
+
+1448
+00:53:57,140 --> 00:53:58,640
+are they actually a full-time
+
+1449
+00:53:58,640 --> 00:54:00,140
+employee of the company or part-time,
+
+1450
+00:54:00,140 --> 00:54:01,640
+you know, depending on how much
+
+1451
+00:54:01,640 --> 00:54:03,140
+time you put in the actual proposal,
+
+1452
+00:54:03,140 --> 00:54:05,140
+then they need to be in
+
+1453
+00:54:05,140 --> 00:54:07,140
+the company at the time of award.
+
+1454
+00:54:07,140 --> 00:54:08,140
+Yeah.
+
+1455
+00:54:08,140 --> 00:54:09,140
+So if they are just
+
+1456
+00:54:09,140 --> 00:54:10,140
+kind of one of these extra,
+
+1457
+00:54:10,140 --> 00:54:12,140
+so a lot of budgets will just say, you know,
+
+1458
+00:54:12,140 --> 00:54:14,140
+like computer software developers or something, right?
+
+1459
+00:54:14,140 --> 00:54:16,140
+Like they're just extra, you
+
+1460
+00:54:16,140 --> 00:54:18,140
+know, instrumentation specialists or something.
+
+1461
+00:54:18,140 --> 00:54:20,640
+Those aren't as critical to kind
+
+1462
+00:54:20,640 --> 00:54:23,140
+of to sort of winning the proposal.
+
+1463
+00:54:23,140 --> 00:54:25,140
+Then you can leave it at time,
+
+1464
+00:54:25,140 --> 00:54:27,140
+you know, you can do it after reward.
+
+1465
+00:54:27,140 --> 00:54:28,140
+In fact, it's not that critical.
+
+1466
+00:54:28,140 --> 00:54:31,140
+So it's really a function of whether or not you,
+
+1467
+00:54:31,140 --> 00:54:32,640
+and if you use the
+
+1468
+00:54:32,640 --> 00:54:34,140
+bio, someone's bio in your proposal,
+
+1469
+00:54:34,140 --> 00:54:36,140
+then you're saying that these people are adding
+
+1470
+00:54:36,140 --> 00:54:38,140
+to the team and adding to the credibility.
+
+1471
+00:54:38,140 --> 00:54:40,140
+And that's part of the decision process.
+
+1472
+00:54:40,140 --> 00:54:41,640
+So they have to be in
+
+1473
+00:54:41,640 --> 00:54:43,140
+the company at the time of award
+
+1474
+00:54:43,140 --> 00:54:45,140
+because that's what they made their decision on, right?
+
+1475
+00:54:45,140 --> 00:54:47,140
+They're like, well, here's what they want to do.
+
+1476
+00:54:47,140 --> 00:54:49,140
+They've got this person who has this
+
+1477
+00:54:49,140 --> 00:54:51,140
+background and is perfectly matched to do that.
+
+1478
+00:54:51,140 --> 00:54:53,140
+And they've got budget allocated to make them
+
+1479
+00:54:53,140 --> 00:54:55,140
+do the work that has to be contained in.
+
+1480
+00:54:55,140 --> 00:54:57,140
+So you have to figure out how to get
+
+1481
+00:54:57,140 --> 00:54:59,140
+them in the company at time of award, I guess.
+
+1482
+00:54:59,140 --> 00:55:01,140
+Okay. Yes.
+
+1483
+00:55:01,140 --> 00:55:04,140
+One more question, then we're going to get on here.
+
+1484
+00:55:04,140 --> 00:55:06,140
+Yeah.
+
+1485
+00:55:06,140 --> 00:55:08,140
+If people have written,
+
+1486
+00:55:08,140 --> 00:55:12,140
+articles, magazines, things about us,
+
+1487
+00:55:12,140 --> 00:55:14,140
+which they have experts in the field,
+
+1488
+00:55:14,140 --> 00:55:16,640
+would it be better to use that article or
+
+1489
+00:55:16,640 --> 00:55:19,140
+ask that person to write something specifically for the grant?
+
+1490
+00:55:19,140 --> 00:55:22,140
+Well, so you can always put
+
+1491
+00:55:22,140 --> 00:55:25,140
+press in the proposal if you want.
+
+1492
+00:55:25,140 --> 00:55:26,640
+I'm thinking, I mean, if
+
+1493
+00:55:26,640 --> 00:55:28,140
+you're going for a phase one,
+
+1494
+00:55:28,140 --> 00:55:31,140
+that's usually like, you have press already?
+
+1495
+00:55:31,140 --> 00:55:33,140
+Like that's pretty far advanced.
+
+1496
+00:55:33,140 --> 00:55:37,140
+There is COVID in some of the court systems.
+
+1497
+00:55:37,140 --> 00:55:38,140
+Yeah.
+
+1498
+00:55:38,140 --> 00:55:40,140
+I mean, you can certainly add it,
+
+1499
+00:55:40,140 --> 00:55:42,140
+but I guess, I guess,
+
+1500
+00:55:42,140 --> 00:55:43,140
+you know,
+
+1501
+00:55:43,140 --> 00:55:45,140
+what it's supposed to be for is for
+
+1502
+00:55:45,140 --> 00:55:47,140
+deep technology development that's not been commercialized yet.
+
+1503
+00:55:47,140 --> 00:55:49,140
+So if you're already commercialized,
+
+1504
+00:55:49,140 --> 00:55:50,140
+then it's like,
+
+1505
+00:55:50,140 --> 00:55:52,140
+maybe we should be doing something else.
+
+1506
+00:55:52,140 --> 00:55:53,140
+So, okay.
+
+1507
+00:55:53,140 --> 00:55:54,140
+All right.
+
+1508
+00:55:54,140 --> 00:55:55,640
+So, so this is the right way
+
+1509
+00:55:55,640 --> 00:55:57,140
+to get started on this whole process.
+
+1510
+00:55:57,140 --> 00:55:59,640
+So before you spend any money on
+
+1511
+00:55:59,640 --> 00:56:02,140
+creating a company or any administrative time,
+
+1512
+00:56:02,140 --> 00:56:04,140
+you can do a project
+
+1513
+00:56:04,140 --> 00:56:06,140
+pitch for the National Science Foundation.
+
+1514
+00:56:06,140 --> 00:56:07,140
+And then you can do a,
+
+1515
+00:56:07,140 --> 00:56:09,640
+you can do a project pitch for the National
+
+1516
+00:56:09,640 --> 00:56:12,140
+Science Foundation or a quad chart for everybody else.
+
+1517
+00:56:12,140 --> 00:56:13,640
+And then actually you can do a
+
+1518
+00:56:13,640 --> 00:56:15,140
+quad chart for the National Science Foundation too.
+
+1519
+00:56:15,140 --> 00:56:16,140
+So why,
+
+1520
+00:56:16,140 --> 00:56:17,140
+why do I say this?
+
+1521
+00:56:17,140 --> 00:56:19,140
+Why am I telling you to do this right now?
+
+1522
+00:56:19,140 --> 00:56:21,140
+We're going to do this right now.
+
+1523
+00:56:21,140 --> 00:56:23,640
+Because I want you to talk to
+
+1524
+00:56:23,640 --> 00:56:26,140
+the program manager that's appropriate for your technology.
+
+1525
+00:56:26,140 --> 00:56:28,140
+So, and the best way to do that,
+
+1526
+00:56:28,140 --> 00:56:30,140
+if you think about these program managers, right,
+
+1527
+00:56:30,140 --> 00:56:31,640
+they've got hundreds of calls
+
+1528
+00:56:31,640 --> 00:56:33,140
+and people complaining to them,
+
+1529
+00:56:33,140 --> 00:56:34,140
+give me money.
+
+1530
+00:56:34,140 --> 00:56:35,140
+Why aren't you giving me money?
+
+1531
+00:56:35,140 --> 00:56:36,140
+I'm so great.
+
+1532
+00:56:36,140 --> 00:56:37,140
+Well,
+
+1533
+00:56:37,140 --> 00:56:38,140
+I want you to do this.
+
+1534
+00:56:38,140 --> 00:56:38,640
+And then I'm going to
+
+1535
+00:56:38,640 --> 00:56:39,140
+tell you that I love this.
+
+1536
+00:56:39,140 --> 00:56:40,140
+And I'm going to tell you that I love this.
+
+1537
+00:56:40,140 --> 00:56:41,140
+They're going to say,
+
+1538
+00:56:41,140 --> 00:56:42,140
+oh,
+
+1539
+00:56:42,140 --> 00:56:43,140
+they're going to say,
+
+1540
+00:56:43,140 --> 00:56:44,140
+oh,
+
+1541
+00:56:44,140 --> 00:56:45,140
+well,
+
+1542
+00:56:45,140 --> 00:56:45,640
+this is what some of my friends
+
+1543
+00:56:45,640 --> 00:56:46,140
+call a love language for the SBIR community.
+
+1544
+00:56:46,140 --> 00:56:46,640
+It's like a consistent way to kind of put your company and
+
+1545
+00:56:46,640 --> 00:56:47,140
+your technology innovation in a format that's easy for them to digest.
+
+1546
+00:56:47,140 --> 00:56:49,640
+And the reason why I want you guys to do this
+
+1547
+00:56:49,640 --> 00:56:52,140
+is because I want you to have the best success possible.
+
+1548
+00:56:52,140 --> 00:56:54,640
+So if you put it in a quad chart format
+
+1549
+00:56:54,640 --> 00:56:57,140
+and send an introductory email to the program manager that's appropriate,
+
+1550
+00:56:57,140 --> 00:56:59,140
+and you already know all this background,
+
+1551
+00:56:59,140 --> 00:57:00,140
+then they're gonna say,
+
+1552
+00:57:00,140 --> 00:57:01,140
+oh,
+
+1553
+00:57:01,140 --> 00:57:02,140
+this person knows what they're doing.
+
+1554
+00:57:02,140 --> 00:57:03,140
+They're going to,
+
+1555
+00:57:03,140 --> 00:57:04,140
+they're going to follow the rules.
+
+1556
+00:57:04,140 --> 00:57:06,460
+They're not going to waste my time.
+
+1557
+00:57:06,460 --> 00:57:08,700
+This sounds like somebody that I really want to fund.
+
+1558
+00:57:08,700 --> 00:57:11,140
+So I've got this quad chart here.
+
+1559
+00:57:11,140 --> 00:57:12,600
+And I understand what they're doing.
+
+1560
+00:57:12,600 --> 00:57:15,000
+It fits in the area.
+
+1561
+00:57:15,000 --> 00:57:16,620
+And I can give them quick feedback.
+
+1562
+00:57:16,620 --> 00:57:17,489
+And they're not going to ask
+
+1563
+00:57:17,489 --> 00:57:18,359
+me a bunch of dumb questions
+
+1564
+00:57:18,359 --> 00:57:19,259
+to keep me on the phone because they're
+
+1565
+00:57:19,259 --> 00:57:20,500
+trying to be my friend.
+
+1566
+00:57:20,500 --> 00:57:24,600
+So let's do that.
+
+1567
+00:57:24,600 --> 00:57:26,879
+And once you have a call with a program manager
+
+1568
+00:57:26,879 --> 00:57:30,180
+and describe to them what's on the quad chart
+
+1569
+00:57:30,180 --> 00:57:32,819
+and the situation with the company and everything else,
+
+1570
+00:57:32,820 --> 00:57:34,440
+then you can do the administrative work
+
+1571
+00:57:34,440 --> 00:57:38,460
+and forming the company and everything else.
+
+1572
+00:57:38,460 --> 00:57:42,040
+And as Ben says in his video, there's like sam.gov,
+
+1573
+00:57:42,040 --> 00:57:43,640
+research.gov, spa.gov.
+
+1574
+00:57:43,640 --> 00:57:45,220
+And it can take like 30 days to do that.
+
+1575
+00:57:45,220 --> 00:57:46,830
+So to your question about
+
+1576
+00:57:46,830 --> 00:57:48,440
+two months to write the proposal,
+
+1577
+00:57:48,440 --> 00:57:50,520
+if you don't have any of this stuff registered yet,
+
+1578
+00:57:50,520 --> 00:57:52,060
+it's another like 30 days to do it.
+
+1579
+00:57:52,060 --> 00:57:53,680
+You can do that in parallel with writing the proposal.
+
+1580
+00:57:53,680 --> 00:57:55,520
+I mean, you just submit stuff
+
+1581
+00:57:55,520 --> 00:57:57,360
+and then you just wait for it.
+
+1582
+00:57:57,360 --> 00:57:58,920
+One other comment I like to make is
+
+1583
+00:57:58,920 --> 00:58:00,360
+that if you guys are in startup mode
+
+1584
+00:58:00,360 --> 00:58:02,800
+and you're trying to decide, should I raise equity
+
+1585
+00:58:02,800 --> 00:58:04,780
+or should I go for grants?
+
+1586
+00:58:04,780 --> 00:58:07,060
+One of the wonderful things about grants
+
+1587
+00:58:07,060 --> 00:58:08,860
+is that there's a deadline.
+
+1588
+00:58:08,860 --> 00:58:10,090
+So you've got to get it
+
+1589
+00:58:10,090 --> 00:58:11,320
+all done and get it submitted.
+
+1590
+00:58:11,320 --> 00:58:14,680
+And then once it's in, there's nothing you can do.
+
+1591
+00:58:14,680 --> 00:58:16,450
+You just have to sit back
+
+1592
+00:58:16,450 --> 00:58:18,220
+and wait for them to review it,
+
+1593
+00:58:18,220 --> 00:58:20,020
+which is a wonderful thing, frankly.
+
+1594
+00:58:20,020 --> 00:58:21,370
+People are like, ah, you're waiting
+
+1595
+00:58:21,370 --> 00:58:22,720
+and why am I taking it?
+
+1596
+00:58:22,720 --> 00:58:23,380
+No, no, no.
+
+1597
+00:58:23,380 --> 00:58:25,440
+You guys have 8,000 other things to do.
+
+1598
+00:58:25,440 --> 00:58:27,560
+You get this done, it's like a homework assignment.
+
+1599
+00:58:27,560 --> 00:58:28,810
+You've got to submit it, get
+
+1600
+00:58:28,810 --> 00:58:30,060
+it in, and then you've got to.
+
+1601
+00:58:30,060 --> 00:58:32,540
+And in fact, they often take a lot of time.
+
+1602
+00:58:32,540 --> 00:58:32,560
+So you've got to get it done.
+
+1603
+00:58:32,560 --> 00:58:32,580
+You've got to submit it, get
+
+1604
+00:58:32,580 --> 00:58:32,600
+it in, and then you've got to.
+
+1605
+00:58:32,600 --> 00:58:32,780
+And in fact, they often take a lot of time.
+
+1606
+00:58:32,780 --> 00:58:32,800
+So you've got to get it done.
+
+1607
+00:58:32,800 --> 00:58:32,840
+So you've got to get it done.
+
+1608
+00:58:32,840 --> 00:58:35,540
+And a lot of comments, they often
+
+1609
+00:58:35,540 --> 00:58:37,380
+don't want to be bothered after you submit it.
+
+1610
+00:58:37,380 --> 00:58:38,460
+And that's like a negative.
+
+1611
+00:58:38,460 --> 00:58:40,960
+So it's beneficial in both areas.
+
+1612
+00:58:40,960 --> 00:58:44,080
+So a lot of times in companies, I'll say,
+
+1613
+00:58:44,080 --> 00:58:45,230
+why don't you guys go
+
+1614
+00:58:45,230 --> 00:58:46,380
+ahead and fill this proposal out,
+
+1615
+00:58:46,380 --> 00:58:49,220
+submit it, and then go get busy with your investor
+
+1616
+00:58:49,220 --> 00:58:50,840
+conversations and discussions.
+
+1617
+00:58:50,840 --> 00:58:53,260
+Because what I didn't say
+
+1618
+00:58:53,260 --> 00:58:55,680
+is that on the SBR side,
+
+1619
+00:58:55,680 --> 00:58:57,380
+there's a deadline so that you can't do anything
+
+1620
+00:58:57,380 --> 00:59:00,000
+after a certain date on that particular proposal.
+
+1621
+00:59:00,000 --> 00:59:02,580
+But in the world of raising capital from investors,
+
+1622
+00:59:02,580 --> 00:59:04,310
+there is no end to the
+
+1623
+00:59:04,310 --> 00:59:06,040
+amount of meetings you could have
+
+1624
+00:59:06,040 --> 00:59:08,120
+and the amount of follow-ups you could have.
+
+1625
+00:59:08,120 --> 00:59:10,299
+So that becomes a gigantic time sink
+
+1626
+00:59:10,299 --> 00:59:12,120
+if you don't manage your time carefully.
+
+1627
+00:59:12,120 --> 00:59:14,430
+So I do want to say
+
+1628
+00:59:14,430 --> 00:59:16,740
+that the solicitation, a lot of times
+
+1629
+00:59:16,740 --> 00:59:18,740
+people will take information and they'll
+
+1630
+00:59:18,740 --> 00:59:20,640
+try and sell it to you online and say, hey,
+
+1631
+00:59:20,640 --> 00:59:23,560
+this is how this thing works.
+
+1632
+00:59:23,560 --> 00:59:25,900
+And there's all kinds of consulting companies out there.
+
+1633
+00:59:25,900 --> 00:59:28,860
+But the PDF that you download from the website that
+
+1634
+00:59:28,860 --> 00:59:31,860
+is the solicitation, that's the official document.
+
+1635
+00:59:31,860 --> 00:59:32,340
+And that's the legal document.
+
+1636
+00:59:32,340 --> 00:59:34,840
+That's the ultimate source of facts.
+
+1637
+00:59:34,840 --> 00:59:36,030
+So if you're looking for
+
+1638
+00:59:36,030 --> 00:59:37,220
+the ground truth of how should
+
+1639
+00:59:37,220 --> 00:59:38,340
+this grant be done or
+
+1640
+00:59:38,340 --> 00:59:39,460
+how should this contract be done,
+
+1641
+00:59:39,460 --> 00:59:40,620
+it should be in the solicitation.
+
+1642
+00:59:40,620 --> 00:59:41,270
+And if it's not, then
+
+1643
+00:59:41,270 --> 00:59:41,920
+you're going to ask the program
+
+1644
+00:59:41,920 --> 00:59:43,340
+manager that.
+
+1645
+00:59:43,340 --> 00:59:44,160
+OK.
+
+1646
+00:59:44,160 --> 00:59:46,360
+So what I'd like to
+
+1647
+00:59:46,360 --> 00:59:48,560
+do now is take 10 minutes.
+
+1648
+00:59:48,560 --> 00:59:50,480
+And if you guys all have laptops,
+
+1649
+00:59:50,480 --> 00:59:52,670
+you can download this quad
+
+1650
+00:59:52,670 --> 00:59:54,860
+chart template, which is from 2018.
+
+1651
+00:59:54,860 --> 00:59:56,320
+I realize it's old.
+
+1652
+00:59:56,320 --> 00:59:57,840
+I'm going to start the timer now.
+
+1653
+00:59:57,840 --> 00:59:59,100
+And then I'm going to take questions
+
+1654
+00:59:59,100 --> 01:00:00,860
+while you guys all get busy on that stuff.
+
+1655
+01:00:00,860 --> 01:00:01,840
+And we'll wait 10 minutes.
+
+1656
+01:00:01,840 --> 01:00:02,340
+Yes.
+
+1657
+01:00:02,340 --> 01:00:02,840
+Go ahead.
+
+1658
+01:00:02,840 --> 01:00:03,340
+Yes.
+
+1659
+01:00:03,340 --> 01:00:06,840
+So we sent a letter to the program manager
+
+1660
+01:00:06,840 --> 01:00:08,240
+and he had little response.
+
+1661
+01:00:08,240 --> 01:00:11,040
+He said that we did not provide pre-submission tailored
+
+1662
+01:00:11,040 --> 01:00:11,700
+feedback.
+
+1663
+01:00:11,700 --> 01:00:13,040
+How do you get that feedback?
+
+1664
+01:00:13,040 --> 01:00:17,040
+The feedback they said, get positive feedback.
+
+1665
+01:00:17,040 --> 01:00:21,160
+You sent them like a detailed question.
+
+1666
+01:00:21,160 --> 01:00:22,180
+Oh, yeah.
+
+1667
+01:00:22,180 --> 01:00:22,920
+So OK.
+
+1668
+01:00:22,920 --> 01:00:24,280
+So well, we're timing.
+
+1669
+01:00:24,280 --> 01:00:26,500
+Everybody's doing their quad charts.
+
+1670
+01:00:26,500 --> 01:00:28,250
+So the point of that
+
+1671
+01:00:28,250 --> 01:00:30,000
+is once we finish this exercise
+
+1672
+01:00:30,000 --> 01:00:32,180
+and you have your first call, there's
+
+1673
+01:00:32,180 --> 01:00:33,350
+a few other steps that I'll
+
+1674
+01:00:33,350 --> 01:00:34,520
+talk about in a second, which
+
+1675
+01:00:34,520 --> 01:00:36,659
+is to go find the right guy
+
+1676
+01:00:36,659 --> 01:00:38,799
+that you need to talk to or gal.
+
+1677
+01:00:38,799 --> 01:00:41,089
+And then what you want
+
+1678
+01:00:41,089 --> 01:00:43,379
+to get is this looks interesting.
+
+1679
+01:00:43,379 --> 01:00:46,160
+This is exactly the type of stuff we would fund.
+
+1680
+01:00:46,160 --> 01:00:49,220
+So go ahead and fill out an application for this.
+
+1681
+01:00:49,220 --> 01:00:50,180
+That would be fantastic.
+
+1682
+01:00:50,180 --> 01:00:51,060
+You may not get that.
+
+1683
+01:00:51,060 --> 01:00:53,500
+You may get like, OK, it's
+
+1684
+01:00:53,500 --> 01:00:55,940
+not terrible, which is kind of you
+
+1685
+01:00:55,940 --> 01:00:57,560
+have to lean into that
+
+1686
+01:00:57,560 --> 01:00:59,180
+and realize that that's a positive.
+
+1687
+01:00:59,180 --> 01:01:01,379
+So not being told to go.
+
+1688
+01:01:01,380 --> 01:01:04,880
+You know, like this is wrong is a good thing.
+
+1689
+01:01:04,880 --> 01:01:06,380
+And you may also get just like,
+
+1690
+01:01:06,380 --> 01:01:07,880
+hey, this is not the right thing.
+
+1691
+01:01:07,880 --> 01:01:09,380
+We've done this eight times already.
+
+1692
+01:01:09,380 --> 01:01:11,040
+And we've never had any success for it.
+
+1693
+01:01:11,040 --> 01:01:12,880
+So don't bother, which is fantastic, right?
+
+1694
+01:01:12,880 --> 01:01:15,080
+Because then you don't have to waste your time,
+
+1695
+01:01:15,080 --> 01:01:16,850
+all this time trying to fill
+
+1696
+01:01:16,850 --> 01:01:18,620
+out an application and for no avail.
+
+1697
+01:01:18,620 --> 01:01:21,820
+So are they available for a call?
+
+1698
+01:01:21,820 --> 01:01:23,440
+Because from what I got from this email,
+
+1699
+01:01:23,440 --> 01:01:26,740
+it's kind of like, no, we don't give any feedback.
+
+1700
+01:01:26,740 --> 01:01:29,200
+Oh, so they are available for a call,
+
+1701
+01:01:29,200 --> 01:01:30,780
+but they may be wary about calling.
+
+1702
+01:01:30,780 --> 01:01:31,280
+OK.
+
+1703
+01:01:31,380 --> 01:01:34,140
+So they may not be giving you specific feedback
+
+1704
+01:01:34,140 --> 01:01:36,620
+to make your proposal more competitive.
+
+1705
+01:01:36,620 --> 01:01:38,340
+So you can ask them some questions,
+
+1706
+01:01:38,340 --> 01:01:41,000
+but a lot of times they just won't answer.
+
+1707
+01:01:41,000 --> 01:01:42,130
+And we can ask that of
+
+1708
+01:01:42,130 --> 01:01:43,260
+Ben on Wednesday, by the way.
+
+1709
+01:01:43,260 --> 01:01:45,380
+Feel free to ask him any questions you want.
+
+1710
+01:01:45,380 --> 01:01:49,140
+And you'll get the fantastic answers like, excuse me,
+
+1711
+01:01:49,140 --> 01:01:52,620
+like I'm not at liberty to discuss those things
+
+1712
+01:01:52,620 --> 01:01:56,620
+or against certain rules, all that kind of stuff.
+
+1713
+01:01:56,620 --> 01:01:58,620
+We've heard that it's also good to approach them,
+
+1714
+01:01:58,620 --> 01:02:00,780
+but we've never gotten anyone to pick up our calls.
+
+1715
+01:02:00,780 --> 01:02:04,080
+Probably because you didn't email them a quad chart ahead
+
+1716
+01:02:04,080 --> 01:02:06,960
+of time and show them that you're awesome.
+
+1717
+01:02:06,960 --> 01:02:08,820
+So other questions on this stuff
+
+1718
+01:02:08,820 --> 01:02:10,680
+or you guys are busy digging in?
+
+1719
+01:02:10,680 --> 01:02:11,880
+Yes.
+
+1720
+01:02:11,880 --> 01:02:15,360
+So you mentioned that they're not allowed to give feedback
+
+1721
+01:02:15,360 --> 01:02:17,580
+under certain circumstances.
+
+1722
+01:02:17,580 --> 01:02:19,320
+But it looks like they can
+
+1723
+01:02:19,320 --> 01:02:21,060
+if you just reach out to them.
+
+1724
+01:02:21,060 --> 01:02:24,820
+So what's this ?
+
+1725
+01:02:24,820 --> 01:02:29,160
+So they can't, I forget what the legal limitations are,
+
+1726
+01:02:29,160 --> 01:02:29,870
+but they can't kind of tell you
+
+1727
+01:02:29,870 --> 01:02:30,580
+that, hey, this is a good time,
+
+1728
+01:02:30,580 --> 01:02:32,680
+but hey, yeah, we would totally fund this.
+
+1729
+01:02:32,680 --> 01:02:34,900
+They can tell you that there's a match
+
+1730
+01:02:34,900 --> 01:02:38,620
+or there's a good likelihood of match.
+
+1731
+01:02:38,620 --> 01:02:43,580
+They can't give you any guidance around what to change.
+
+1732
+01:02:43,580 --> 01:02:45,560
+But really what you're trying to do,
+
+1733
+01:02:45,560 --> 01:02:46,720
+and I think I have a slide on this,
+
+1734
+01:02:46,720 --> 01:02:48,180
+so I apologize for repeating it ahead of time,
+
+1735
+01:02:48,180 --> 01:02:51,180
+is just develop a relationship with the funder.
+
+1736
+01:02:51,180 --> 01:02:52,640
+And what I want you to do is I want
+
+1737
+01:02:52,640 --> 01:02:53,969
+you to do it in the
+
+1738
+01:02:53,969 --> 01:02:55,299
+right way and in the sort
+
+1739
+01:02:55,299 --> 01:02:56,380
+of compatible way.
+
+1740
+01:02:56,380 --> 01:02:57,550
+And I want you guys to
+
+1741
+01:02:57,550 --> 01:02:58,720
+all do your homework ahead of time
+
+1742
+01:02:58,720 --> 01:02:59,239
+so you don't ask silly questions
+
+1743
+01:02:59,239 --> 01:02:59,759
+about what the other person is
+
+1744
+01:02:59,759 --> 01:03:00,259
+doing.
+
+1745
+01:03:00,259 --> 01:03:00,480
+Yeah.
+
+1746
+01:03:00,480 --> 01:03:00,580
+Yeah.
+
+1747
+01:03:00,580 --> 01:03:01,530
+So this is a good example
+
+1748
+01:03:01,530 --> 01:03:02,480
+of what we're trying to do.
+
+1749
+01:03:02,480 --> 01:03:04,460
+So we're trying to do what the program manager does
+
+1750
+01:03:04,460 --> 01:03:05,940
+in terms of what the SBR program
+
+1751
+01:03:05,940 --> 01:03:07,420
+does and all that kind of stuff.
+
+1752
+01:03:07,420 --> 01:03:09,589
+But that you're trying to
+
+1753
+01:03:09,589 --> 01:03:11,759
+get to those top three motivations
+
+1754
+01:03:11,759 --> 01:03:13,440
+of the program manager.
+
+1755
+01:03:13,440 --> 01:03:14,860
+They won't get fired.
+
+1756
+01:03:14,860 --> 01:03:17,000
+They won't be embarrassed by funding your technology.
+
+1757
+01:03:17,000 --> 01:03:18,779
+And they'll be excited about actually, like, oh,
+
+1758
+01:03:18,779 --> 01:03:19,680
+this is cool stuff.
+
+1759
+01:03:19,680 --> 01:03:21,340
+I mean, this is what we do.
+
+1760
+01:03:21,340 --> 01:03:24,319
+I highly doubt you'll ever get any SBR program manager
+
+1761
+01:03:24,319 --> 01:03:25,799
+to say, wow, this is really cool stuff.
+
+1762
+01:03:25,799 --> 01:03:26,680
+We should fund this.
+
+1763
+01:03:26,680 --> 01:03:28,700
+That's not in their DNA.
+
+1764
+01:03:28,700 --> 01:03:30,480
+So OK.
+
+1765
+01:03:30,480 --> 01:03:33,240
+I'm just filling out for the ID.
+
+1766
+01:03:33,240 --> 01:03:34,720
+They are asking for the issue.
+
+1767
+01:03:37,240 --> 01:03:38,140
+What was the question?
+
+1768
+01:03:38,140 --> 01:03:42,040
+This fund is coming directly from the federal government,
+
+1769
+01:03:42,040 --> 01:03:45,840
+or is it coming from federal government to some agency
+
+1770
+01:03:45,840 --> 01:03:48,640
+and then to you?
+
+1771
+01:03:48,640 --> 01:03:50,020
+Well, it's a federal agency.
+
+1772
+01:03:50,020 --> 01:03:52,080
+So I guess it would
+
+1773
+01:03:52,080 --> 01:03:54,140
+be coming from the federal government.
+
+1774
+01:03:54,140 --> 01:03:57,400
+So there's a question that I'm applying for this ID
+
+1775
+01:03:57,400 --> 01:04:00,220
+to apply directly for federal grants or loans.
+
+1776
+01:04:00,220 --> 01:04:00,720
+Yes.
+
+1777
+01:04:00,720 --> 01:04:04,939
+So it has to be yes.
+
+1778
+01:04:04,939 --> 01:04:06,439
+Yes.
+
+1779
+01:04:06,439 --> 01:04:07,180
+I don't know.
+
+1780
+01:04:10,660 --> 01:04:11,859
+You guys are supposed to be the smart ones that
+
+1781
+01:04:11,859 --> 01:04:12,779
+can fill stuff out properly.
+
+1782
+01:04:12,779 --> 01:04:13,640
+Any other questions on this?
+
+1783
+01:04:13,640 --> 01:04:15,779
+Otherwise, I'll chill out for a few minutes while you.
+
+1784
+01:04:18,720 --> 01:04:20,700
+So just one quick note.
+
+1785
+01:04:20,700 --> 01:04:24,819
+If you notice, there's a company, state, name, email,
+
+1786
+01:04:24,819 --> 01:04:26,080
+phone.
+
+1787
+01:04:26,080 --> 01:04:27,489
+A lot of times people miss
+
+1788
+01:04:27,489 --> 01:04:28,899
+that on the top of the thing.
+
+1789
+01:04:28,899 --> 01:04:30,020
+Whoop.
+
+1790
+01:04:30,220 --> 01:04:30,720
+Whoop.
+
+1791
+01:04:30,720 --> 01:04:31,220
+Whoop.
+
+1792
+01:04:31,220 --> 01:04:32,299
+We're not doing that again.
+
+1793
+01:04:32,299 --> 01:04:33,339
+OK.
+
+1794
+01:04:33,339 --> 01:04:33,839
+OK.
+
+1795
+01:04:33,839 --> 01:04:37,980
+So that quad chart is for every technology.
+
+1796
+01:04:37,980 --> 01:04:40,180
+And that even works with the National Science Foundation
+
+1797
+01:04:40,180 --> 01:04:41,899
+as well.
+
+1798
+01:04:41,899 --> 01:04:44,060
+The National Science Foundation has a new process
+
+1799
+01:04:44,060 --> 01:04:46,540
+where you have to fill out a project pitch.
+
+1800
+01:04:46,540 --> 01:04:47,890
+And I know one person in
+
+1801
+01:04:47,890 --> 01:04:49,240
+the audience has done this already.
+
+1802
+01:04:49,240 --> 01:04:51,660
+And what you'll notice is that the technology innovation,
+
+1803
+01:04:51,660 --> 01:04:53,439
+the technology objectives, the market opportunity,
+
+1804
+01:04:53,439 --> 01:04:54,839
+the company team is very similar
+
+1805
+01:04:54,839 --> 01:04:56,240
+to the quad chart, just sort
+
+1806
+01:04:56,240 --> 01:04:58,819
+of in paragraph format.
+
+1807
+01:04:58,819 --> 01:04:59,479
+And I think because the NSF is a
+
+1808
+01:04:59,479 --> 01:05:00,140
+company, it's going to be a lot more efficient.
+
+1809
+01:05:00,140 --> 01:05:02,770
+And I think because the NSF is
+
+1810
+01:05:02,770 --> 01:05:05,400
+so broad and has so much leverage
+
+1811
+01:05:05,400 --> 01:05:06,960
+to fund a lot of things that
+
+1812
+01:05:06,960 --> 01:05:08,520
+they decided to put this process up
+
+1813
+01:05:08,520 --> 01:05:10,440
+front to make sure people didn't waste their time
+
+1814
+01:05:10,440 --> 01:05:12,960
+and they didn't waste their time finding reviewers.
+
+1815
+01:05:12,960 --> 01:05:14,700
+So you have to submit
+
+1816
+01:05:14,700 --> 01:05:16,440
+a project pitch to them first.
+
+1817
+01:05:16,440 --> 01:05:17,770
+And you have to select kind
+
+1818
+01:05:17,770 --> 01:05:19,100
+of what area it goes in.
+
+1819
+01:05:19,100 --> 01:05:21,799
+And until you get a sort of encouraged
+
+1820
+01:05:21,799 --> 01:05:23,929
+to apply response from them, you
+
+1821
+01:05:23,929 --> 01:05:26,060
+can't fill out a phase one.
+
+1822
+01:05:26,060 --> 01:05:28,700
+So this is a necessary step in the overall process.
+
+1823
+01:05:28,700 --> 01:05:29,180
+OK.
+
+1824
+01:05:29,180 --> 01:05:29,680
+Thank you.
+
+1825
+01:05:29,680 --> 01:05:30,140
+Thank you.
+
+1826
+01:05:30,140 --> 01:05:31,900
+And these instructions are on that website.
+
+1827
+01:05:31,900 --> 01:05:33,759
+So you can take a look at that as well.
+
+1828
+01:05:38,379 --> 01:05:40,319
+So what I want you to
+
+1829
+01:05:40,319 --> 01:05:42,259
+do after that is find the agency,
+
+1830
+01:05:42,259 --> 01:05:44,379
+the solicitation dates, and contact information,
+
+1831
+01:05:44,379 --> 01:05:47,200
+and prepare for a one-on-one call with the specific program
+
+1832
+01:05:47,200 --> 01:05:48,460
+manager.
+
+1833
+01:05:48,460 --> 01:05:50,759
+So to find the agency, you can go here.
+
+1834
+01:05:50,759 --> 01:05:52,759
+I mean, SPR.gov has all this stuff.
+
+1835
+01:05:52,759 --> 01:05:54,879
+But you can actually search for all the awards that
+
+1836
+01:05:54,879 --> 01:05:56,920
+were funded previously and find something
+
+1837
+01:05:56,920 --> 01:05:59,180
+that's similar to your technology.
+
+1838
+01:05:59,180 --> 01:05:59,680
+And then search for the agency.
+
+1839
+01:05:59,680 --> 01:06:01,680
+And then search for the agency that's funded.
+
+1840
+01:06:01,680 --> 01:06:03,100
+And then within that agency, you find
+
+1841
+01:06:03,100 --> 01:06:05,940
+if there's an open solicitation, the dates and deadlines,
+
+1842
+01:06:05,940 --> 01:06:07,779
+and find the official PDF of that
+
+1843
+01:06:07,779 --> 01:06:09,919
+and the specific topic for your technology.
+
+1844
+01:06:09,919 --> 01:06:14,040
+And I'm talking about mission-focused ones now.
+
+1845
+01:06:14,040 --> 01:06:16,440
+I know the broad-based ones, the market-focused ones,
+
+1846
+01:06:16,440 --> 01:06:17,740
+will have very broad ones.
+
+1847
+01:06:17,740 --> 01:06:20,140
+So it's fairly easy to read through their solicitation
+
+1848
+01:06:20,140 --> 01:06:23,259
+and find where your technology would fit.
+
+1849
+01:06:23,259 --> 01:06:27,339
+For the DOD ones that have 1,000 different solicitations,
+
+1850
+01:06:27,339 --> 01:06:28,429
+you do have to go through
+
+1851
+01:06:28,429 --> 01:06:29,520
+and find, kind of, at the local,
+
+1852
+01:06:29,520 --> 01:06:32,180
+at the lower level, and then find the contact name
+
+1853
+01:06:32,180 --> 01:06:35,060
+of the person that's going to fund that topic.
+
+1854
+01:06:35,060 --> 01:06:36,280
+And that's the person that you
+
+1855
+01:06:36,280 --> 01:06:37,500
+want to email your quad chart
+
+1856
+01:06:37,500 --> 01:06:40,200
+to and set up a call with.
+
+1857
+01:06:40,200 --> 01:06:43,380
+Because that's the person that wrote the solicitation,
+
+1858
+01:06:43,380 --> 01:06:45,340
+got a bunch of people to input on,
+
+1859
+01:06:45,340 --> 01:06:47,180
+like, what should the solicitation be?
+
+1860
+01:06:47,180 --> 01:06:48,000
+And they're going to be the ones that
+
+1861
+01:06:48,000 --> 01:06:50,200
+are going to convene a review panel
+
+1862
+01:06:50,200 --> 01:06:51,320
+and look at your proposal.
+
+1863
+01:06:51,320 --> 01:06:53,540
+So that's the person that you want to really
+
+1864
+01:06:53,540 --> 01:06:55,120
+kind of be in contact with.
+
+1865
+01:06:58,640 --> 01:06:59,080
+And of course, if there's a
+
+1866
+01:06:59,080 --> 01:06:59,520
+question, you can go to the DOD.
+
+1867
+01:06:59,520 --> 01:07:02,440
+There isn't actually a person on that solicitation,
+
+1868
+01:07:02,440 --> 01:07:04,340
+which sometimes there isn't.
+
+1869
+01:07:04,340 --> 01:07:05,510
+They usually have a general
+
+1870
+01:07:05,510 --> 01:07:06,680
+SPR contact that you can say,
+
+1871
+01:07:06,680 --> 01:07:07,780
+hey, this is my technology.
+
+1872
+01:07:07,780 --> 01:07:09,280
+I'm interested in this topic.
+
+1873
+01:07:09,280 --> 01:07:11,540
+Who should I speak with at the firm?
+
+1874
+01:07:13,300 --> 01:07:17,580
+And of course, just using standard good sales process,
+
+1875
+01:07:17,580 --> 01:07:19,020
+you send an email and you
+
+1876
+01:07:19,020 --> 01:07:20,460
+follow up after a few days,
+
+1877
+01:07:20,460 --> 01:07:21,330
+and then you follow up
+
+1878
+01:07:21,330 --> 01:07:22,200
+after a few days after that,
+
+1879
+01:07:22,200 --> 01:07:24,520
+and then you send another follow-up email and stuff.
+
+1880
+01:07:24,520 --> 01:07:25,900
+So, okay.
+
+1881
+01:07:25,900 --> 01:07:28,080
+So this all brings us to the homework
+
+1882
+01:07:28,080 --> 01:07:29,300
+that you guys maybe are already done.
+
+1883
+01:07:29,300 --> 01:07:32,460
+So what you're going to be done on, on Wednesday,
+
+1884
+01:07:32,460 --> 01:07:33,710
+or you can even send it
+
+1885
+01:07:33,710 --> 01:07:34,960
+in to me ahead of time.
+
+1886
+01:07:34,960 --> 01:07:36,650
+There may be an extra prize
+
+1887
+01:07:36,650 --> 01:07:38,340
+if you send it ahead of time.
+
+1888
+01:07:38,340 --> 01:07:40,560
+You should already be familiar with the one-on-one stuff
+
+1889
+01:07:40,560 --> 01:07:43,440
+from that video and from this talk,
+
+1890
+01:07:43,440 --> 01:07:44,520
+but I want you to list
+
+1891
+01:07:44,520 --> 01:07:45,600
+all the agencies and the topics
+
+1892
+01:07:45,600 --> 01:07:47,800
+that potentially could fund your technology,
+
+1893
+01:07:47,800 --> 01:07:51,140
+and then research other technologies that have funded there.
+
+1894
+01:07:51,140 --> 01:07:53,540
+Have your complete quad chart done,
+
+1895
+01:07:53,540 --> 01:07:55,420
+and then prepare questions for your call.
+
+1896
+01:07:55,420 --> 01:07:56,920
+So what I would recommend your
+
+1897
+01:07:56,920 --> 01:07:58,420
+call have is just general feedback.
+
+1898
+01:07:58,420 --> 01:07:58,780
+So what I would recommend your
+
+1899
+01:07:58,780 --> 01:07:59,140
+call have is just general feedback.
+
+1900
+01:07:59,140 --> 01:07:59,210
+So what I would recommend your
+
+1901
+01:07:59,210 --> 01:07:59,280
+call have is just general feedback.
+
+1902
+01:07:59,300 --> 01:08:02,140
+the feedback of fit for your technology with their agency.
+
+1903
+01:08:02,140 --> 01:08:06,020
+So making sure there isn't like some weird, you know,
+
+1904
+01:08:06,020 --> 01:08:07,440
+oh, you didn't know about this other thing,
+
+1905
+01:08:07,440 --> 01:08:10,080
+we don't actually fund that technology, right?
+
+1906
+01:08:10,080 --> 01:08:11,540
+A fast no is a great
+
+1907
+01:08:11,540 --> 01:08:13,000
+thing in this world because, you know,
+
+1908
+01:08:13,000 --> 01:08:14,900
+there's all kinds of money out there.
+
+1909
+01:08:14,900 --> 01:08:16,640
+And you want to really find,
+
+1910
+01:08:16,640 --> 01:08:18,380
+find where you should focus at.
+
+1911
+01:08:18,380 --> 01:08:21,180
+Building a relationship with the future funder.
+
+1912
+01:08:21,180 --> 01:08:22,660
+And then you want to ask questions
+
+1913
+01:08:22,660 --> 01:08:24,140
+and find out others you should talk to.
+
+1914
+01:08:24,140 --> 01:08:25,859
+So that's the last question
+
+1915
+01:08:25,859 --> 01:08:27,580
+that you want to ask them.
+
+1916
+01:08:27,580 --> 01:08:29,140
+And often they'll say,
+
+1917
+01:08:29,140 --> 01:08:31,120
+no I'm pretty much the only person which
+
+1918
+01:08:31,120 --> 01:08:33,100
+is fine you know you could say that but
+
+1919
+01:08:33,100 --> 01:08:34,479
+they might say like you should really
+
+1920
+01:08:34,479 --> 01:08:35,859
+talk to this person or you should really
+
+1921
+01:08:35,859 --> 01:08:38,590
+talk to this other person this is
+
+1922
+01:08:38,590 --> 01:08:41,319
+the advanced tip is that those people are
+
+1923
+01:08:41,319 --> 01:08:43,270
+probably also on the review panel for
+
+1924
+01:08:43,270 --> 01:08:45,220
+your proposal so when you say oh that's
+
+1925
+01:08:45,220 --> 01:08:46,479
+nice yeah I should talk to them too
+
+1926
+01:08:46,479 --> 01:08:47,740
+yeah they don't have any money so why should
+
+1927
+01:08:47,740 --> 01:08:49,450
+I talk to them well they can't tell
+
+1928
+01:08:49,450 --> 01:08:51,160
+you they're on the review panel but more
+
+1929
+01:08:51,160 --> 01:08:52,670
+than likely they will be or there's
+
+1930
+01:08:52,670 --> 01:08:54,180
+some partner that you should really talk to
+
+1931
+01:08:54,180 --> 01:08:55,910
+that they want to get their opinion of
+
+1932
+01:08:55,910 --> 01:08:57,640
+so they may not officially be on the
+
+1933
+01:08:57,640 --> 01:08:59,800
+review panel but if you get to
+
+1934
+01:08:59,800 --> 01:09:01,960
+that point you definitely want to engage all
+
+1935
+01:09:01,960 --> 01:09:04,160
+the people around that any of those
+
+1936
+01:09:04,160 --> 01:09:06,359
+people mentioned so I did I did mess
+
+1937
+01:09:06,359 --> 01:09:07,670
+this up one time when somebody was
+
+1938
+01:09:07,670 --> 01:09:08,979
+like you should really talk to this person
+
+1939
+01:09:08,979 --> 01:09:10,300
+and I was like I don't have time
+
+1940
+01:09:10,300 --> 01:09:11,620
+for that and then you know we didn't get
+
+1941
+01:09:11,620 --> 01:09:13,890
+funded I'm like oh because that was the
+
+1942
+01:09:13,890 --> 01:09:16,160
+key person that was gonna weigh in on
+
+1943
+01:09:16,160 --> 01:09:21,149
+our proposal to say yes or no dang
+
+1944
+01:09:21,149 --> 01:09:26,140
+it so okay so that's the homework for Wednesday
+
+1945
+01:09:26,140 --> 01:09:27,560
+on Wednesday
+
+1946
+01:09:27,560 --> 01:09:27,590
+were going to continue and then we were
+
+1947
+01:09:27,590 --> 01:09:27,620
+gonna continue on the rest of the week
+
+1948
+01:09:27,620 --> 01:09:29,960
+we're going to talk about all of
+
+1949
+01:09:29,960 --> 01:09:32,300
+the wonderful AI tools that make this whole
+
+1950
+01:09:32,300 --> 01:09:35,740
+process way easy. And if you want to submit your,
+
+1951
+01:09:36,019 --> 01:09:38,120
+your material to me early,
+
+1952
+01:09:38,380 --> 01:09:40,659
+I might give you access to some of
+
+1953
+01:09:40,659 --> 01:09:42,939
+those cool tools upfront before we get too
+
+1954
+01:09:42,960 --> 01:09:45,050
+far down the pathway. So just as
+
+1955
+01:09:45,050 --> 01:09:47,140
+a, just as an incentive there, um,
+
+1956
+01:09:48,140 --> 01:09:48,979
+questions on this.
+
+1957
+01:09:57,620 --> 01:10:01,880
+So yes, do we send the, uh,
+
+1958
+01:10:02,300 --> 01:10:05,960
+the homework to these, uh, email address?
+
+1959
+01:10:06,040 --> 01:10:07,840
+Yes. Send it to me. You can
+
+1960
+01:10:07,840 --> 01:10:09,640
+send it to steve at co foundry.global,
+
+1961
+01:10:09,640 --> 01:10:11,640
+or you can send it to sjd
+
+1962
+01:10:11,640 --> 01:10:13,640
+at mit.edu or I have a million emails.
+
+1963
+01:10:15,920 --> 01:10:18,000
+Okay. Questions on any of that stuff.
+
+1964
+01:10:18,000 --> 01:10:20,080
+We're almost done here guys. So please,
+
+1965
+01:10:20,120 --> 01:10:22,620
+please bring up the questions. Everything's
+
+1966
+01:10:22,620 --> 01:10:25,120
+good. Ready to rock and roll.
+
+1967
+01:10:25,580 --> 01:10:26,510
+Anxious to get AI to
+
+1968
+01:10:26,510 --> 01:10:27,440
+help you do all this stuff.
+
+1969
+01:10:27,620 --> 01:10:32,000
+Well, I will,
+
+1970
+01:10:32,000 --> 01:10:34,060
+I will say one thing which is
+
+1971
+01:10:34,060 --> 01:10:36,120
+that, and I'll probably repeat this on Wednesday,
+
+1972
+01:10:36,120 --> 01:10:37,510
+so maybe I shouldn't say it
+
+1973
+01:10:37,510 --> 01:10:38,900
+now, but anyways, I'll say anyways, uh,
+
+1974
+01:10:39,320 --> 01:10:41,240
+what I've found is that AI gets you
+
+1975
+01:10:41,240 --> 01:10:43,160
+from kind of an F to a B,
+
+1976
+01:10:44,240 --> 01:10:45,740
+and then it really takes humans to get
+
+1977
+01:10:45,740 --> 01:10:47,240
+you from a B to like an A,
+
+1978
+01:10:47,300 --> 01:10:49,460
+A plus where you actually get funded, right?
+
+1979
+01:10:49,460 --> 01:10:51,620
+Where funding level is a, so, so no,
+
+1980
+01:10:51,620 --> 01:10:53,200
+you can't have AI is just go and get
+
+1981
+01:10:53,200 --> 01:10:54,780
+you, go get me a bunch of money, right?
+
+1982
+01:10:54,780 --> 01:10:57,019
+Like that's fantasy land. Um,
+
+1983
+01:10:57,260 --> 01:10:57,599
+and I,
+
+1984
+01:10:57,600 --> 01:10:59,340
+I would highly recommend that you guys
+
+1985
+01:10:59,340 --> 01:11:01,080
+ask Ben that question when he gets on
+
+1986
+01:11:01,080 --> 01:11:02,760
+the, when he gets on the call on,
+
+1987
+01:11:02,760 --> 01:11:04,440
+on Wednesday, like how do you, you know,
+
+1988
+01:11:04,620 --> 01:11:07,680
+do you encourage AI usage? Um, I mean,
+
+1989
+01:11:07,680 --> 01:11:10,620
+ultimately it's people funding people. So,
+
+1990
+01:11:10,920 --> 01:11:12,630
+and people can still tell that
+
+1991
+01:11:12,630 --> 01:11:14,340
+it's an AI behind the scenes.
+
+1992
+01:11:15,660 --> 01:11:17,520
+Especially if you have a phone call with them,
+
+1993
+01:11:17,520 --> 01:11:19,250
+they're going to know that you're not
+
+1994
+01:11:19,250 --> 01:11:20,980
+an AI or a human. So, um,
+
+1995
+01:11:21,040 --> 01:11:21,920
+and then this is the,
+
+1996
+01:11:22,160 --> 01:11:24,010
+this is the agenda we'll go
+
+1997
+01:11:24,010 --> 01:11:25,860
+over timing and calendar management and applying
+
+1998
+01:11:25,860 --> 01:11:27,120
+while in school. Um,
+
+1999
+01:11:27,120 --> 01:11:28,859
+I do want to talk
+
+2000
+01:11:28,859 --> 01:11:30,599
+about a budget example because the,
+
+2001
+01:11:30,620 --> 01:11:32,589
+a lot of times the budget
+
+2002
+01:11:32,589 --> 01:11:34,559
+is important in the review process. Um,
+
+2003
+01:11:34,580 --> 01:11:36,290
+that's a sanity check about
+
+2004
+01:11:36,290 --> 01:11:38,000
+here's what you're proposing to do.
+
+2005
+01:11:38,019 --> 01:11:40,160
+Here's the cool technology. Here's the market opportunity.
+
+2006
+01:11:40,500 --> 01:11:42,740
+Here's the team that you have working on it.
+
+2007
+01:11:43,080 --> 01:11:44,610
+And then why are you giving all
+
+2008
+01:11:44,610 --> 01:11:46,140
+this money to that guy? You know,
+
+2009
+01:11:46,140 --> 01:11:48,510
+like forget it, you know, that's, that's
+
+2010
+01:11:48,510 --> 01:11:50,880
+obviously you had it all lined up,
+
+2011
+01:11:51,000 --> 01:11:53,220
+but your budget doesn't match with what your intention is.
+
+2012
+01:11:53,220 --> 01:11:55,060
+So as long as you've got like a
+
+2013
+01:11:55,060 --> 01:11:56,900
+good plan and it's like, Oh, well, clearly the,
+
+2014
+01:11:57,120 --> 01:11:58,410
+the key technology guy needs to
+
+2015
+01:11:58,410 --> 01:11:59,700
+get a bulk of the budget,
+
+2016
+01:11:59,700 --> 01:12:01,490
+then that makes all the sense in
+
+2017
+01:12:01,490 --> 01:12:03,280
+the world. So we'll talk about that. Um,
+
+2018
+01:12:03,599 --> 01:12:05,099
+and then we'll talk about the review
+
+2019
+01:12:05,099 --> 01:12:06,599
+process in a little more detail. Uh,
+
+2020
+01:12:06,599 --> 01:12:08,220
+and then I've got a whole bunch of, uh,
+
+2021
+01:12:08,220 --> 01:12:09,970
+gendered Bay stuff and then the last
+
+2022
+01:12:09,970 --> 01:12:11,720
+I think half hour of the class,
+
+2023
+01:12:11,740 --> 01:12:13,610
+we'll have a chance to chat with
+
+2024
+01:12:13,610 --> 01:12:15,480
+Ben on the call. So questions on that.
+
+2025
+01:12:20,880 --> 01:12:23,090
+Yeah. Um, I've heard that
+
+2026
+01:12:23,090 --> 01:12:25,300
+there's some audit that takes place.
+
+2027
+01:12:25,880 --> 01:12:27,059
+I do have to have some,
+
+2028
+01:12:27,120 --> 01:12:29,500
+yeah. Can you talk a little bit about that?
+
+2029
+01:12:29,500 --> 01:12:32,000
+Sure. Sure. I mean, we'll talk
+
+2030
+01:12:32,000 --> 01:12:34,500
+about it more on Wednesday, but, uh,
+
+2031
+01:12:34,800 --> 01:12:37,090
+there's something called a CAAR, a car.
+
+2032
+01:12:37,090 --> 01:12:39,380
+I think it's like audit and accounting.
+
+2033
+01:12:40,680 --> 01:12:41,810
+I'll just cut to the chase.
+
+2034
+01:12:41,810 --> 01:12:42,940
+Okay. There's a whole bunch of stuff.
+
+2035
+01:12:43,559 --> 01:12:45,869
+The hardest part that everybody in your shoes
+
+2036
+01:12:45,869 --> 01:12:48,180
+has to deal with is that if you
+
+2037
+01:12:48,559 --> 01:12:50,400
+are spending the government's money,
+
+2038
+01:12:50,440 --> 01:12:53,059
+you have to show that you're allocating it correctly.
+
+2039
+01:12:53,500 --> 01:12:54,990
+How do you show that you're
+
+2040
+01:12:54,990 --> 01:12:56,480
+allocating correctly? I'm paying for people's time.
+
+2041
+01:12:56,480 --> 01:12:57,679
+How do I show that
+
+2042
+01:12:57,679 --> 01:12:58,879
+I'm paying for people's time correctly?
+
+2043
+01:12:58,900 --> 01:13:01,120
+I'm keeping time cards.
+
+2044
+01:13:02,080 --> 01:13:04,430
+So if you have a proper time
+
+2045
+01:13:04,430 --> 01:13:06,780
+cards keeping system in your accounting system,
+
+2046
+01:13:06,780 --> 01:13:08,269
+and you're allocating it to the
+
+2047
+01:13:08,269 --> 01:13:09,759
+right people for the right amount,
+
+2048
+01:13:09,759 --> 01:13:11,689
+and you have proof of that and you have
+
+2049
+01:13:11,689 --> 01:13:13,620
+sign off on that, then you pass the car.
+
+2050
+01:13:13,940 --> 01:13:15,249
+So that's, this is for
+
+2051
+01:13:15,249 --> 01:13:16,559
+phase two now. So this is,
+
+2052
+01:13:16,559 --> 01:13:17,599
+you've already got the phase one,
+
+2053
+01:13:17,919 --> 01:13:21,320
+and you're trying to you basically apply for phase two.
+
+2054
+01:13:21,580 --> 01:13:23,249
+You go through the review process,
+
+2055
+01:13:23,249 --> 01:13:24,919
+you get approved, you get like, Hey,
+
+2056
+01:13:24,919 --> 01:13:26,160
+we wanna fund this, but you have to go through,
+
+2057
+01:13:26,160 --> 01:13:28,670
+go through the due diligence checklist, which means,
+
+2058
+01:13:28,670 --> 01:13:31,180
+are you a real company? You know, what's
+
+2059
+01:13:31,180 --> 01:13:33,260
+your accounting system? What's your, you know,
+
+2060
+01:13:33,260 --> 01:13:35,340
+financial prospects and all that good stuff?
+
+2061
+01:13:35,500 --> 01:13:37,140
+And can you manage this fund? Because it's,
+
+2062
+01:13:37,140 --> 01:13:38,780
+you know, it's a million bucks, right? It's not,
+
+2063
+01:13:38,900 --> 01:13:40,590
+it's not just a few hundred thousand bucks. So
+
+2064
+01:13:40,590 --> 01:13:42,280
+it's a lot more money, a lot more time.
+
+2065
+01:13:42,380 --> 01:13:44,530
+So they want to run you through a lot
+
+2066
+01:13:44,530 --> 01:13:46,680
+more diligence at that phase to, to make sure you're
+
+2067
+01:13:46,680 --> 01:13:49,290
+okay to get the funding. So, and the DOD
+
+2068
+01:13:49,290 --> 01:13:51,900
+is even harder. So there's a, there's a whole,
+
+2069
+01:13:52,059 --> 01:13:54,049
+I forget what it's called, DFAS or something
+
+2070
+01:13:54,049 --> 01:13:56,040
+like that, that makes you go through a whole
+
+2071
+01:13:56,040 --> 01:13:58,170
+bunch of audits and stuff. I've done it. So
+
+2072
+01:13:58,170 --> 01:14:00,300
+I can, that's why I'm grabbing my head because
+
+2073
+01:14:00,300 --> 01:14:01,830
+I'm getting headaches right now. So let's break.
+
+2074
+01:14:01,830 --> 01:14:03,360
+I'm going to say the other questions. Any other
+
+2075
+01:14:03,360 --> 01:14:06,730
+questions? Yes. What about accelerated track that you can
+
+2076
+01:14:06,730 --> 01:14:10,100
+stop at phase one and two, at least for
+
+2077
+01:14:10,100 --> 01:14:12,450
+NIH, I know, because I don't know
+
+2078
+01:14:12,450 --> 01:14:14,800
+others. Yes. Do you recommend such thing?
+
+2079
+01:14:16,640 --> 01:14:19,300
+So the fast track usually is a lot
+
+2080
+01:14:19,300 --> 01:14:21,960
+more popular because everybody's like, well, I'm going to
+
+2081
+01:14:21,960 --> 01:14:23,730
+waste my time with a hundred thousand bucks. And then
+
+2082
+01:14:23,730 --> 01:14:25,500
+I get a chance to get a million bucks. Like,
+
+2083
+01:14:25,519 --> 01:14:25,769
+why can't I do it all at once? And I'm
+
+2084
+01:14:25,769 --> 01:14:26,019
+like, well, I'm going to waste my time with a hundred
+
+2085
+01:14:26,020 --> 01:14:27,760
+all at once. That means that there's
+
+2086
+01:14:27,760 --> 01:14:29,500
+more applications and there's a lower chance of
+
+2087
+01:14:29,500 --> 01:14:32,330
+success. That is exactly what a conversation
+
+2088
+01:14:32,330 --> 01:14:35,160
+with a program manager would be like, Hey,
+
+2089
+01:14:35,160 --> 01:14:37,490
+we're thinking about applying for phase one. We're
+
+2090
+01:14:37,490 --> 01:14:39,820
+not sure about SBR, STTR. We're also thinking
+
+2091
+01:14:39,820 --> 01:14:42,350
+about fast track, you know, where would this
+
+2092
+01:14:42,350 --> 01:14:44,880
+be best fit? Right. And usually fast track,
+
+2093
+01:14:44,880 --> 01:14:47,320
+it means that you've already got the commercial
+
+2094
+01:14:47,320 --> 01:14:49,760
+partners lined up for phase two. So it's like,
+
+2095
+01:14:49,860 --> 01:14:52,280
+I'm ready to kind of go to phase two. So I
+
+2096
+01:14:52,280 --> 01:14:54,700
+want to jam all this stuff together. And you, you have
+
+2097
+01:14:54,700 --> 01:14:56,000
+to be like totally kick.
+
+2098
+01:14:56,020 --> 01:14:58,200
+Ass to do the fast track stuff. So there's
+
+2099
+01:14:58,200 --> 01:15:00,380
+a lot of examples where people are just like,
+
+2100
+01:15:00,440 --> 01:15:01,830
+they're perfectly aligned with the solicitation
+
+2101
+01:15:01,830 --> 01:15:03,220
+that came out. So it's like,
+
+2102
+01:15:03,500 --> 01:15:05,300
+we don't want to waste our time doing a phase
+
+2103
+01:15:05,300 --> 01:15:07,100
+one and phase two. We want to just go at it.
+
+2104
+01:15:07,100 --> 01:15:09,340
+And that's that, that those are great
+
+2105
+01:15:09,340 --> 01:15:11,580
+candidates for fast track. So other questions.
+
+2106
+01:15:12,700 --> 01:15:16,800
+All right, guys. Thank you. See you Wednesday.
+
+2107
+01:15:26,020 --> 01:15:26,869
+Bye.
+
