@@ -1,0 +1,627 @@
+# Transcript
+
+Source: lazyearn/school-of-hard-knocks/hard-knocks-interviews/134 - 10 Questions with a Millionaire： Founder & E-commerce Entrepreneur Robert Miller [TpVlJpiV6U8].mkv
+
+- [00:00:00,000 - 00:00:02,080] When I had my first company, my first agency,
+- [00:00:02,260 - 00:00:04,059] I was building personal brand alongside it.
+- [00:00:04,120 - 00:00:04,910] I had to shut that one
+- [00:00:04,910 - 00:00:05,700] down and start a new one.
+- [00:00:05,780 - 00:00:07,260] Same thing happened with the second agency.
+- [00:00:07,440 - 00:00:08,500] Shut it down, the third business,
+- [00:00:08,580 - 00:00:10,140] I was able to scale the multiple seven figures
+- [00:00:10,140 - 00:00:12,220] within like six months because I had the personal brand.
+- [00:00:12,300 - 00:00:13,430] It even helped me start my
+- [00:00:13,430 - 00:00:14,560] third or my fourth business now.
+- [00:00:14,660 - 00:00:15,900] And we're already at a seven figure runway
+- [00:00:15,900 - 00:00:17,240] with that within 60 days.
+- [00:00:17,620 - 00:00:19,180] Welcome back to episode six
+- [00:00:19,180 - 00:00:20,680] of 10 Questions with Millionaires.
+- [00:00:21,100 - 00:00:22,620] I'm Josh, I'm here with Robert Miller.
+- [00:00:22,980 - 00:00:24,560] Robert Miller is a entrepreneur,
+- [00:00:25,080 - 00:00:26,900] investor, and multimillionaire.
+- [00:00:27,080 - 00:00:28,740] Robert, it's so good to meet with you today.
+- [00:00:28,740 - 00:00:30,400] If you wouldn't mind, could you just give us
+- [00:00:30,400 - 00:00:31,500] a quick intro on your
+- [00:00:31,500 - 00:00:32,600] background and what you do today?
+- [00:00:32,739 - 00:00:33,300] Yeah, sure thing.
+- [00:00:33,420 - 00:00:34,640] Been in the digital marketing space,
+- [00:00:34,699 - 00:00:35,800] been in the e-commerce space,
+- [00:00:35,860 - 00:00:37,240] and been in the crypto space
+- [00:00:37,240 - 00:00:38,620] essentially since I was 17, 18.
+- [00:00:38,839 - 00:00:40,820] Got into crypto when I was in high school.
+- [00:00:40,960 - 00:00:42,980] So 2015, 2016, caught it there
+- [00:00:42,980 - 00:00:44,090] and have rode that wave
+- [00:00:44,090 - 00:00:45,200] for the past five, six years,
+- [00:00:45,280 - 00:00:46,540] but then also done a lot
+- [00:00:46,540 - 00:00:47,800] of marketing for big name brands
+- [00:00:47,800 - 00:00:49,820] as well as for entrepreneurs and other businesses.
+- [00:00:50,400 - 00:00:52,160] What did you do after high school?
+- [00:00:52,340 - 00:00:53,780] And do you think college is necessary
+- [00:00:53,780 - 00:00:54,840] to be successful today?
+- [00:00:55,040 - 00:00:58,500] So I went into college actually out of high school
+- [00:00:58,500 - 00:00:58,720] with a friend of mine.
+- [00:00:58,720 - 00:01:00,500] I was really just studying business administration,
+- [00:01:00,699 - 00:01:02,980] economics, and I was very just entrepreneur driven.
+- [00:01:03,280 - 00:01:06,240] So the school system for me didn't necessarily fit
+- [00:01:06,240 - 00:01:08,760] even what my identified career path was gonna be.
+- [00:01:08,900 - 00:01:10,140] I didn't find out what I was gonna do
+- [00:01:10,140 - 00:01:11,940] until I took a course outside of college,
+- [00:01:11,940 - 00:01:12,900] which was digital marketing,
+- [00:01:13,020 - 00:01:14,640] Tai Lopez's first marketing course.
+- [00:01:14,720 - 00:01:15,530] Because I had made some
+- [00:01:15,530 - 00:01:16,340] money in crypto prior to that,
+- [00:01:16,420 - 00:01:18,680] but it's not cashflow, it's just capital gains.
+- [00:01:18,840 - 00:01:20,500] So when that happened, I then realized,
+- [00:01:20,620 - 00:01:21,400] all right, I need to
+- [00:01:21,400 - 00:01:22,180] figure out how to build cashflow,
+- [00:01:22,240 - 00:01:23,039] how to build a real business.
+- [00:01:23,180 - 00:01:24,960] And so I don't think that it's necessary
+- [00:01:24,960 - 00:01:26,840] if you're gonna go into the entrepreneurship field
+- [00:01:26,840 - 00:01:27,280] to do that.
+- [00:01:27,280 - 00:01:28,620] I think it's necessary for things
+- [00:01:28,620 - 00:01:30,440] that need pedigree, doctors, lawyers, et cetera.
+- [00:01:30,560 - 00:01:32,040] I think everyone kind of has that same opinion,
+- [00:01:32,200 - 00:01:33,740] but for business, you don't necessarily need it.
+- [00:01:33,760 - 00:01:34,580] You just need to solve problems.
+- [00:01:35,020 - 00:01:35,980] What advice would you give to people
+- [00:01:35,980 - 00:01:37,360] who are looking to scale their business?
+- [00:01:37,540 - 00:01:39,500] You have to learn how to master marketing
+- [00:01:39,500 - 00:01:41,340] and bring more revenue in.
+- [00:01:41,480 - 00:01:42,940] It's not just a paid ad.
+- [00:01:43,020 - 00:01:44,620] It's typically mainly the content,
+- [00:01:44,780 - 00:01:45,980] the actual traffic strategy.
+- [00:01:46,120 - 00:01:48,340] So Facebook, TikTok, Instagram, YouTube,
+- [00:01:48,500 - 00:01:50,200] like actually getting people to actually care
+- [00:01:50,200 - 00:01:51,520] about what you say, what you do.
+- [00:01:51,600 - 00:01:53,420] And then from there, I think it's then sales.
+- [00:01:53,540 - 00:01:54,760] If you're bad at sales, have a bunch of leads,
+- [00:01:54,760 - 00:01:55,600] you're gonna get something.
+- [00:01:55,840 - 00:01:56,940] And then if you're great at sales
+- [00:01:56,940 - 00:01:57,800] and then great at marketing,
+- [00:01:57,800 - 00:01:59,340] you can grow really quick.
+- [00:01:59,480 - 00:02:00,759] So I would say get good at sales.
+- [00:02:00,899 - 00:02:02,940] And then the third one is a little bit unconventional,
+- [00:02:03,140 - 00:02:04,280] which would be finance.
+- [00:02:04,580 - 00:02:06,840] Understanding how your cash flows work.
+- [00:02:07,259 - 00:02:08,400] What would you say is the top three books
+- [00:02:08,400 - 00:02:09,900] that you'd recommend everyone should read?
+- [00:02:10,100 - 00:02:11,440] For scaling out their business,
+- [00:02:11,540 - 00:02:13,520] I would say The Road Less Stupid
+- [00:02:13,520 - 00:02:16,240] gives you the mental frameworks of what to think about,
+- [00:02:16,460 - 00:02:18,380] how to think about, and what to think about,
+- [00:02:18,420 - 00:02:19,859] about thinking about, about thinking about.
+- [00:02:20,180 - 00:02:21,240] So it helps you kind of think ahead
+- [00:02:21,240 - 00:02:23,100] about rolling out a new product, a new offer.
+- [00:02:23,460 - 00:02:24,800] It gives you the mental frameworks,
+- [00:02:24,900 - 00:02:25,760] at least for me it did,
+- [00:02:26,000 - 00:02:27,760] to just look through business.
+- [00:02:27,860 - 00:02:28,940] It's at a different way
+- [00:02:28,940 - 00:02:30,860] instead of it just being the expert,
+- [00:02:30,960 - 00:02:32,520] the subject matter expert, the marketer,
+- [00:02:32,640 - 00:02:34,180] or the tactical person.
+- [00:02:34,260 - 00:02:35,520] It's actually like the strategy behind it
+- [00:02:35,520 - 00:02:36,840] and how you're gonna hold people accountable to it.
+- [00:02:36,940 - 00:02:38,060] Second book that I would
+- [00:02:38,060 - 00:02:39,180] read if you're building a team,
+- [00:02:39,280 - 00:02:40,220] it's called Multipliers,
+- [00:02:40,280 - 00:02:41,500] essentially how to work with other people,
+- [00:02:41,640 - 00:02:43,520] how to multiply their efforts and their goals,
+- [00:02:43,640 - 00:02:44,380] align their interests.
+- [00:02:44,540 - 00:02:46,660] Third book that I read that I think is,
+- [00:02:46,820 - 00:02:48,360] again, really important for businesses
+- [00:02:48,360 - 00:02:49,440] is called Predictable Revenue,
+- [00:02:49,560 - 00:02:51,260] The $100 Million Best Practices of Salesforce
+- [00:02:51,260 - 00:02:52,040] by Aaron Ross.
+- [00:02:52,160 - 00:02:53,960] That one goes over different types of sales,
+- [00:02:54,080 - 00:02:54,840] different types of marketing,
+- [00:02:54,840 - 00:02:56,980] but how to grow and scale out a sales team.
+- [00:02:57,100 - 00:02:57,720] That's really just,
+- [00:02:57,840 - 00:02:58,980] to bring revenue in the door.
+- [00:02:59,200 - 00:03:01,000] It's not necessarily to fulfill on product
+- [00:03:01,000 - 00:03:01,680] or anything like that.
+- [00:03:01,940 - 00:03:03,260] What do you feel like is the importance
+- [00:03:03,260 - 00:03:05,520] of building your personal brand as a business owner?
+- [00:03:05,800 - 00:03:06,820] It's extremely important
+- [00:03:06,820 - 00:03:07,680] because that's all you have.
+- [00:03:07,940 - 00:03:09,840] Your mechanism of what you do for people
+- [00:03:09,840 - 00:03:10,680] is always gonna change
+- [00:03:10,680 - 00:03:11,540] because the market changes.
+- [00:03:11,760 - 00:03:13,400] Businesses don't typically last forever
+- [00:03:13,400 - 00:03:15,140] unless they're financial services businesses
+- [00:03:15,140 - 00:03:17,240] that then become institutions and get passed down.
+- [00:03:17,440 - 00:03:18,960] And so I think if
+- [00:03:18,960 - 00:03:20,480] you're in a business like marketing,
+- [00:03:20,620 - 00:03:22,040] like e-commerce or anything like that,
+- [00:03:22,100 - 00:03:23,420] your mechanism, your offer,
+- [00:03:23,420 - 00:03:24,760] the way that you get more sales
+- [00:03:24,760 - 00:03:25,820] is always gonna change.
+- [00:03:26,020 - 00:03:27,560] Your personal brand's not going anywhere.
+- [00:03:27,560 - 00:03:28,900] When I had my first company,
+- [00:03:29,000 - 00:03:29,660] my first agency,
+- [00:03:29,840 - 00:03:31,660] I was building personal brand alongside it.
+- [00:03:31,700 - 00:03:32,500] I had to shut that one
+- [00:03:32,500 - 00:03:33,300] down and start a new one.
+- [00:03:33,360 - 00:03:34,860] Same thing happened with the second agency
+- [00:03:34,860 - 00:03:36,240] because we had too many partners.
+- [00:03:36,400 - 00:03:37,140] It wasn't the right fit.
+- [00:03:37,240 - 00:03:37,660] Shut it down.
+- [00:03:37,720 - 00:03:38,360] The third business,
+- [00:03:38,440 - 00:03:40,020] I was able to scale the multiple seven figures
+- [00:03:40,020 - 00:03:41,080] within like six months
+- [00:03:41,080 - 00:03:42,100] because I had the personal brand.
+- [00:03:42,180 - 00:03:43,680] I've been building reputation and will
+- [00:03:43,680 - 00:03:44,820] in the marketplace for a while
+- [00:03:44,820 - 00:03:45,780] around digital marketing
+- [00:03:45,780 - 00:03:47,680] and acquisition of clients and stuff.
+- [00:03:47,780 - 00:03:48,900] It even helped me start my third
+- [00:03:48,900 - 00:03:50,040] or my fourth business now.
+- [00:03:50,120 - 00:03:51,380] And we're already at a seven figure runway
+- [00:03:51,380 - 00:03:52,700] with that within 60 days.
+- [00:03:52,920 - 00:03:54,240] You've built multiple companies.
+- [00:03:54,440 - 00:03:56,400] Not every single one has worked out.
+- [00:03:56,540 - 00:03:57,460] What would you say to people,
+- [00:03:57,560 - 00:03:59,200] on how they should approach failure?
+- [00:03:59,380 - 00:04:01,720] You only need about two to three people max
+- [00:04:01,720 - 00:04:03,200] in a partnership or in a company.
+- [00:04:03,320 - 00:04:04,180] You don't need four to five.
+- [00:04:04,260 - 00:04:05,000] I learned that lesson.
+- [00:04:05,120 - 00:04:06,580] But I remember the loyalty,
+- [00:04:06,800 - 00:04:08,000] obviously that was built between,
+- [00:04:08,120 - 00:04:09,180] you know, the partners that I had
+- [00:04:09,180 - 00:04:10,740] and everything was still strong.
+- [00:04:10,920 - 00:04:12,320] You know, I couldn't have done it by myself.
+- [00:04:12,420 - 00:04:13,760] A lot of people get caught up in,
+- [00:04:13,960 - 00:04:14,980] like I came up with this.
+- [00:04:14,980 - 00:04:16,980] So this part is so valuable to the company.
+- [00:04:17,140 - 00:04:18,200] Like name doesn't mean anything
+- [00:04:18,200 - 00:04:19,360] or the offer doesn't mean anything
+- [00:04:19,360 - 00:04:20,480] unless it's executed on.
+- [00:04:20,660 - 00:04:22,520] And so having great executional partners,
+- [00:04:22,640 - 00:04:23,540] my side executing,
+- [00:04:23,680 - 00:04:24,460] their side executing,
+- [00:04:24,540 - 00:04:26,360] like that's been really the biggest thing
+- [00:04:26,360 - 00:04:27,220] when it comes to failures.
+- [00:04:27,220 - 00:04:29,020] If you can set aside your ego,
+- [00:04:29,300 - 00:04:31,320] your pride and the identity of what you found
+- [00:04:31,320 - 00:04:32,540] in that prior venture,
+- [00:04:32,540 - 00:04:35,280] then you can actually start to see things
+- [00:04:35,280 - 00:04:36,540] for what they really are
+- [00:04:36,540 - 00:04:38,540] rather than your own perception of what they are
+- [00:04:38,540 - 00:04:40,340] based off of your relative experience.
+- [00:04:40,340 - 00:04:42,560] That comes from investing into typically events
+- [00:04:42,560 - 00:04:43,960] and masterminds to get that exposure.
+- [00:04:43,960 - 00:04:44,850] But I think it's having
+- [00:04:44,850 - 00:04:45,740] a great team behind you, man.
+- [00:04:45,780 - 00:04:47,000] I can't do it all by myself.
+- [00:04:47,180 - 00:04:48,620] And it also comes down to just that loyalty
+- [00:04:48,620 - 00:04:49,240] and what you build.
+- [00:04:49,800 - 00:04:51,720] And what qualities should people look for
+- [00:04:51,720 - 00:04:52,660] in a business partner?
+- [00:04:52,960 - 00:04:54,000] You know, I've had many partnerships.
+- [00:04:54,200 - 00:04:55,220] The first one, actually,
+- [00:04:55,520 - 00:04:57,120] we were both just starting out in the space.
+- [00:04:57,220 - 00:04:58,060] Completely brand new.
+- [00:04:58,120 - 00:04:59,720] Didn't know anything about anything.
+- [00:05:00,120 - 00:05:02,480] You know, second one just brought to the table
+- [00:05:02,480 - 00:05:03,620] what I was lacking,
+- [00:05:03,840 - 00:05:05,780] which was essentially a lot of optimism
+- [00:05:05,780 - 00:05:08,000] because I had literally gone through the ringer
+- [00:05:08,000 - 00:05:09,400] with previous partnerships.
+- [00:05:09,400 - 00:05:11,140] I had also learned how to fail
+- [00:05:11,140 - 00:05:13,060] in some campaigns and stuff like that.
+- [00:05:13,080 - 00:05:14,100] And so I was kind of depleted
+- [00:05:14,100 - 00:05:15,880] and I just had a very realistic,
+- [00:05:16,120 - 00:05:17,720] almost sometimes even a pessimistic view.
+- [00:05:17,840 - 00:05:19,060] And so I had an optimist partner
+- [00:05:19,060 - 00:05:20,480] and things balanced out and worked out.
+- [00:05:20,540 - 00:05:22,160] And the next group was a lot of, you know,
+- [00:05:22,220 - 00:05:24,060] executors and people that had their own visions
+- [00:05:24,060 - 00:05:24,960] for where they wanted to go
+- [00:05:24,960 - 00:05:25,800] and a lot of entrepreneurs,
+- [00:05:26,020 - 00:05:26,580] which could be good,
+- [00:05:26,620 - 00:05:27,200] but also could be bad.
+- [00:05:27,220 - 00:05:29,440] And I realized going through all of those,
+- [00:05:29,580 - 00:05:30,960] you need to have partners
+- [00:05:30,960 - 00:05:33,200] that are essentially crucial to the business,
+- [00:05:33,200 - 00:05:34,540] but that won't hold it captive.
+- [00:05:34,640 - 00:05:36,300] So you got to bring something to the table,
+- [00:05:36,440 - 00:05:37,920] whether that's, you know, connections,
+- [00:05:38,260 - 00:05:41,180] people, capital, execution, network,
+- [00:05:41,700 - 00:05:43,560] something that is actually crucial
+- [00:05:43,560 - 00:05:44,580] to the business function,
+- [00:05:44,700 - 00:05:45,640] not just because I like you,
+- [00:05:45,700 - 00:05:46,660] but then also being with someone
+- [00:05:46,660 - 00:05:48,260] that you actually have the same values
+- [00:05:48,260 - 00:05:48,840] and align with.
+- [00:05:48,920 - 00:05:49,980] And I know that sounds really corny,
+- [00:05:50,120 - 00:05:51,360] but in those times of struggle
+- [00:05:51,360 - 00:05:52,170] or in those times when there
+- [00:05:52,170 - 00:05:52,980] is a hiccup in the business,
+- [00:05:52,980 - 00:05:54,600] if you're not aligned on core values
+- [00:05:54,600 - 00:05:55,380] and the function of like,
+- [00:05:55,400 - 00:05:56,380] hey, here's what we believe
+- [00:05:56,380 - 00:05:57,200] and here's where we want to go.
+- [00:05:57,220 - 00:05:58,180] It'll fall apart.
+- [00:05:58,260 - 00:05:59,860] The core function is where are we going?
+- [00:06:00,080 - 00:06:00,800] What are you bringing to the table?
+- [00:06:00,840 - 00:06:01,520] What am I bringing to the table?
+- [00:06:01,620 - 00:06:02,700] Let's execute, come back.
+- [00:06:02,880 - 00:06:03,680] Have a real conversation.
+- [00:06:03,900 - 00:06:05,360] If you're slacking off, I'm slacking off.
+- [00:06:05,440 - 00:06:06,200] Call you out on your shit.
+- [00:06:06,320 - 00:06:07,060] Call me out on my shit.
+- [00:06:07,120 - 00:06:07,420] Let's grow.
+- [00:06:07,500 - 00:06:08,580] We have a common vision and purpose.
+- [00:06:08,800 - 00:06:10,180] And the whole point is to, you know,
+- [00:06:10,220 - 00:06:11,180] not just to make more money,
+- [00:06:11,220 - 00:06:11,840] just to have more money.
+- [00:06:11,920 - 00:06:12,260] Like the other day,
+- [00:06:12,280 - 00:06:13,780] I was able to give my mom a thousand bucks
+- [00:06:13,780 - 00:06:14,640] because she needed it.
+- [00:06:14,700 - 00:06:15,840] And that was just because
+- [00:06:15,840 - 00:06:16,700] I was able to give it to her.
+- [00:06:16,740 - 00:06:17,840] And so I shared that with my partner.
+- [00:06:17,920 - 00:06:19,000] He's like, dude, that's freaking awesome.
+- [00:06:19,360 - 00:06:20,500] Set aside business for a sec.
+- [00:06:20,540 - 00:06:21,540] Like that's what it's all about.
+- [00:06:21,540 - 00:06:23,420] So what are your thoughts on cryptocurrency?
+- [00:06:23,860 - 00:06:24,640] Crypto is big, man.
+- [00:06:24,940 - 00:06:26,420] I got into it pretty early.
+- [00:06:26,520 - 00:06:28,520] It's evolved over the past like five, six years,
+- [00:06:28,640 - 00:06:29,720] but it's definitely big.
+- [00:06:29,780 - 00:06:30,880] And it's a lot bigger than people think.
+- [00:06:30,920 - 00:06:31,860] It's not just a new tech.
+- [00:06:31,880 - 00:06:34,160] It's actually a new way to even think about money.
+- [00:06:34,320 - 00:06:36,220] And it's not just the Bitcoin conversation
+- [00:06:36,220 - 00:06:37,440] or the Ethereum conversation.
+- [00:06:37,440 - 00:06:38,920] It's a lot to do with the central banks,
+- [00:06:39,040 - 00:06:41,220] essentially how they're going to monitor us with CBDCs.
+- [00:06:41,300 - 00:06:42,880] Ultimately, where should we even store wealth?
+- [00:06:42,960 - 00:06:44,820] What do we as society see as valuable?
+- [00:06:44,980 - 00:06:46,340] Do we see something as value
+- [00:06:46,340 - 00:06:48,240] as simply just something that, you know, is rare?
+- [00:06:48,320 - 00:06:49,470] Or do we actually have to
+- [00:06:49,470 - 00:06:50,620] have a cost associated with it?
+- [00:06:50,620 - 00:06:51,520] So the Bitcoin example,
+- [00:06:51,540 - 00:06:53,720] is, you know, you have to have a mining facility
+- [00:06:53,720 - 00:06:55,160] in order to verify transactions.
+- [00:06:55,340 - 00:06:56,960] It has actual physical costs,
+- [00:06:57,080 - 00:06:58,500] physical electricity presence
+- [00:06:58,500 - 00:07:00,020] in order to actually verify the transaction
+- [00:07:00,020 - 00:07:00,820] with those machines.
+- [00:07:01,000 - 00:07:03,400] So as a society, if we view energy
+- [00:07:03,400 - 00:07:05,020] backing that specific currency
+- [00:07:05,020 - 00:07:06,800] or that specific valuable item,
+- [00:07:06,860 - 00:07:08,100] like a gold bar or whatever,
+- [00:07:08,140 - 00:07:08,860] it has to be mined.
+- [00:07:08,940 - 00:07:10,660] There's actual energy costs getting that gold bar.
+- [00:07:10,740 - 00:07:11,300] Same thing for crypto.
+- [00:07:11,440 - 00:07:13,440] We value energy going into something
+- [00:07:13,440 - 00:07:14,920] that has scarce value.
+- [00:07:15,040 - 00:07:16,200] Do we then transact with that?
+- [00:07:16,220 - 00:07:17,700] Or do we just hold that and preserve it?
+- [00:07:17,740 - 00:07:19,100] And does that actually change the way
+- [00:07:19,100 - 00:07:20,680] that we operate with our size of ID?
+- [00:07:20,680 - 00:07:21,280] Who knows?
+- [00:07:21,280 - 00:07:21,919] We'll find out.
+- [00:07:22,020 - 00:07:23,419] It's actually changing a lot of things now,
+- [00:07:23,539 - 00:07:25,619] but I think we'll see what 3.0 looks like
+- [00:07:25,619 - 00:07:27,239] and ultimately what the CBDC rollout looks like.
+- [00:07:27,359 - 00:07:28,340] What got you into it?
+- [00:07:28,460 - 00:07:30,700] I got started in about 2015, 2016.
+- [00:07:30,940 - 00:07:32,340] My brother and I,
+- [00:07:32,419 - 00:07:34,280] we were back in my hometown, Simi Valley,
+- [00:07:34,400 - 00:07:35,159] and there was a guy
+- [00:07:35,159 - 00:07:36,679] who was really into the dark web stuff.
+- [00:07:36,799 - 00:07:38,500] And he wasn't like buying anything illegal or anything.
+- [00:07:38,580 - 00:07:40,380] He was just like really into this whole concept.
+- [00:07:40,559 - 00:07:42,460] And he was really early on in RuneScape.
+- [00:07:42,580 - 00:07:43,979] So he had like 1500 Bitcoins
+- [00:07:43,979 - 00:07:45,340] the first time that we were talking to him.
+- [00:07:45,400 - 00:07:46,080] And he kind of just shared
+- [00:07:46,080 - 00:07:47,320] more and more information about it.
+- [00:07:47,359 - 00:07:49,059] And then he had about 15,000 Bitcoins.
+- [00:07:49,059 - 00:07:51,280] And then over a course of another year or two,
+- [00:07:51,280 - 00:07:53,239] he had amassed in that wallet address,
+- [00:07:53,400 - 00:07:54,719] like the transactions that had gone through it,
+- [00:07:54,780 - 00:07:56,159] about 150,000 Bitcoins
+- [00:07:56,159 - 00:07:57,419] that had gone through that address.
+- [00:07:57,539 - 00:07:59,080] Then when we saw Bitcoin hit a thousand,
+- [00:07:59,200 - 00:07:59,859] we're like, oh my God,
+- [00:07:59,900 - 00:08:01,219] this guy just made a bunch of money
+- [00:08:01,219 - 00:08:02,140] on these digital coins.
+- [00:08:02,219 - 00:08:02,500] What is it?
+- [00:08:02,500 - 00:08:03,859] So I got into Bitcoin around
+- [00:08:03,859 - 00:08:05,219] like 800 to a thousand bucks.
+- [00:08:05,380 - 00:08:06,500] Ethereum was like $17.
+- [00:08:07,140 - 00:08:07,900] Ripple was around,
+- [00:08:08,059 - 00:08:09,719] but AntShares converted into Neo.
+- [00:08:09,820 - 00:08:10,670] And that was a really big
+- [00:08:10,670 - 00:08:11,520] project that I had come up on.
+- [00:08:11,659 - 00:08:12,719] I only had a little bit of money.
+- [00:08:12,799 - 00:08:14,119] I invested like 1500 bucks,
+- [00:08:14,200 - 00:08:15,479] maybe two grand into the whole deal.
+- [00:08:15,599 - 00:08:17,520] And literally within like four months,
+- [00:08:17,520 - 00:08:20,039] that transformed into like 250 grand.
+- [00:08:20,159 - 00:08:20,380] I was like,
+- [00:08:20,580 - 00:08:21,159] what the heck?
+- [00:08:21,200 - 00:08:21,260] Did I do that?
+- [00:08:21,280 - 00:08:21,739] I just do.
+- [00:08:21,840 - 00:08:23,059] I'm like 19 years old.
+- [00:08:23,119 - 00:08:23,840] I'm in college.
+- [00:08:23,940 - 00:08:25,039] I was like, I got to share this with people.
+- [00:08:25,140 - 00:08:26,539] So I just created books and courses
+- [00:08:26,539 - 00:08:27,280] and all that kind of stuff.
+- [00:08:27,320 - 00:08:28,099] I was giving out for free,
+- [00:08:28,179 - 00:08:29,260] was speaking on stages on it.
+- [00:08:29,280 - 00:08:30,559] And then that's how I really got into cryptocurrency.
+- [00:08:30,859 - 00:08:32,439] Was that your first big financial break,
+- [00:08:32,439 - 00:08:32,939] would you say?
+- [00:08:33,039 - 00:08:33,620] Oh, for sure.
+- [00:08:33,699 - 00:08:36,020] Before then, dude, I was doing e-com.
+- [00:08:36,260 - 00:08:37,500] I was doing marketing agency,
+- [00:08:37,699 - 00:08:40,880] but my market was very blue collar-esque.
+- [00:08:41,059 - 00:08:42,959] Like entrepreneurship was not around
+- [00:08:42,959 - 00:08:44,319] in the sense of digital.
+- [00:08:44,439 - 00:08:46,140] For me, I was like a scrawny kid,
+- [00:08:46,140 - 00:08:47,760] just knew and loved tech.
+- [00:08:47,939 - 00:08:48,740] Like it just clicked.
+- [00:08:48,800 - 00:08:49,760] And I went down the rabbit hole
+- [00:08:49,760 - 00:08:51,220] within three months, knew a lot.
+- [00:08:51,300 - 00:08:52,860] So when I was like explaining it to people
+- [00:08:52,860 - 00:08:53,520] and sharing it,
+- [00:08:53,579 - 00:08:55,699] like there was just an innate draw to me
+- [00:08:55,699 - 00:08:56,780] because I had this info.
+- [00:08:56,959 - 00:08:58,480] And that wasn't necessarily an ego thing,
+- [00:08:58,500 - 00:08:59,079] but it was like, dude,
+- [00:08:59,120 - 00:09:00,300] I finally like helping people.
+- [00:09:00,420 - 00:09:01,780] Like, is this what entrepreneurship is?
+- [00:09:01,780 - 00:09:03,339] Like being able to help someone learn something
+- [00:09:03,339 - 00:09:04,319] or teach someone something.
+- [00:09:04,699 - 00:09:05,900] What would you say has been the worst
+- [00:09:05,900 - 00:09:07,300] financial decision you've ever made?
+- [00:09:07,400 - 00:09:08,240] I've made many, man.
+- [00:09:08,300 - 00:09:08,860] I've made many.
+- [00:09:09,020 - 00:09:09,839] I'm not perfect,
+- [00:09:09,839 - 00:09:11,640] but this is where I really found out
+- [00:09:11,640 - 00:09:13,000] who was committed to the business
+- [00:09:13,000 - 00:09:13,640] and who wasn't
+- [00:09:13,640 - 00:09:14,860] and whether the business was going to last.
+- [00:09:14,860 - 00:09:16,260] I had actually taken out
+- [00:09:16,260 - 00:09:17,560] because we had a lot of holds
+- [00:09:17,560 - 00:09:18,500] with payment processors
+- [00:09:18,500 - 00:09:19,439] and all this kind of stuff.
+- [00:09:19,520 - 00:09:20,500] Essentially like an implosion
+- [00:09:20,500 - 00:09:21,260] on payment processing.
+- [00:09:21,280 - 00:09:22,160] That one month,
+- [00:09:22,220 - 00:09:23,380] I had taken out like a flash loan
+- [00:09:23,380 - 00:09:25,980] essentially for that payroll coverage.
+- [00:09:26,060 - 00:09:27,040] It wasn't that the,
+- [00:09:27,300 - 00:09:28,220] that was the wrong decision.
+- [00:09:28,220 - 00:09:30,160] It was the decision that I had done that
+- [00:09:30,160 - 00:09:32,020] and no one else in that same company
+- [00:09:32,020 - 00:09:33,939] vouched for it or wanted to pitch into it.
+- [00:09:33,980 - 00:09:34,760] I was like, that's messed up
+- [00:09:34,760 - 00:09:35,720] because I'm taking out the loan
+- [00:09:35,720 - 00:09:36,660] to help you guys out
+- [00:09:36,660 - 00:09:37,660] when I'm trying to push the company.
+- [00:09:37,699 - 00:09:38,740] I'm actually just paying your payrolls.
+- [00:09:38,760 - 00:09:40,020] I just took a loan out to pay you guys.
+- [00:09:40,100 - 00:09:40,959] That's not the right thing to do.
+- [00:09:41,220 - 00:09:42,300] Financially, it didn't make sense
+- [00:09:42,300 - 00:09:43,339] once things unraveled.
+- [00:09:43,339 - 00:09:43,959] Able to pay it off.
+- [00:09:43,959 - 00:09:44,760] That wasn't really a problem.
+- [00:09:44,959 - 00:09:46,180] It was paid off in like a month or whatever,
+- [00:09:46,339 - 00:09:47,380] but they really expose
+- [00:09:47,380 - 00:09:49,020] a lot of partnerships in business.
+- [00:09:49,140 - 00:09:50,400] You should never want to take out loans
+- [00:09:50,400 - 00:09:51,980] or to do certain things like that.
+- [00:09:52,040 - 00:09:53,380] It was just a one-time occurrence,
+- [00:09:53,540 - 00:09:54,819] but that was probably the baddest,
+- [00:09:54,920 - 00:09:56,439] the worst financial decision that I made,
+- [00:09:56,520 - 00:09:57,900] but it actually exposed a lot more
+- [00:09:57,900 - 00:09:58,540] and who is real and who isn't.
+- [00:09:58,540 - 00:10:00,360] Show people who is really invested into it
+- [00:10:00,360 - 00:10:00,959] and who wasn't.
+- [00:10:01,040 - 00:10:02,220] Yeah, I wouldn't recommend
+- [00:10:02,220 - 00:10:03,840] that be the way you find out.
+- [00:10:04,220 - 00:10:07,860] It was not necessarily the most efficient way
+- [00:10:07,860 - 00:10:09,300] to really weed out who's your friend
+- [00:10:09,300 - 00:10:09,760] or who's not
+- [00:10:09,760 - 00:10:11,020] or who's actually committed or who's not,
+- [00:10:11,140 - 00:10:12,600] but you know,
+- [00:10:12,600 - 00:10:13,620] that happens part of entrepreneurship.
+- [00:10:14,240 - 00:10:14,840] What would you say
+- [00:10:14,840 - 00:10:16,199] is the best financial decision
+- [00:10:16,199 - 00:10:16,860] you've ever made?
+- [00:10:17,020 - 00:10:19,760] So after I had made the money in crypto,
+- [00:10:19,760 - 00:10:20,900] I had actually invested
+- [00:10:20,900 - 00:10:22,000] the rest of it into courses.
+- [00:10:22,160 - 00:10:23,420] So I'm a big believer in education
+- [00:10:23,420 - 00:10:24,560] and like you can never really
+- [00:10:24,560 - 00:10:25,500] go bankrupt on yourself
+- [00:10:25,500 - 00:10:26,260] because if you give up,
+- [00:10:26,340 - 00:10:27,540] that's how you go bankrupt on it, right?
+- [00:10:27,620 - 00:10:29,939] I invested like 30 to 40 grand into courses.
+- [00:10:30,080 - 00:10:30,819] I learned stocks.
+- [00:10:30,939 - 00:10:31,780] I learned e-com.
+- [00:10:31,860 - 00:10:32,460] I learned marketing.
+- [00:10:32,460 - 00:10:34,240] So I became a little bit more versatile
+- [00:10:34,240 - 00:10:35,340] understanding subjects.
+- [00:10:35,439 - 00:10:36,319] I didn't become an expert
+- [00:10:36,319 - 00:10:37,080] in every single one.
+- [00:10:37,200 - 00:10:38,640] I don't think that's actually viable.
+- [00:10:38,740 - 00:10:40,540] I think you should stick to one thing primarily,
+- [00:10:40,700 - 00:10:41,920] but then maybe two to three things
+- [00:10:41,920 - 00:10:43,160] that you are very passionate about
+- [00:10:43,160 - 00:10:43,780] outside of that.
+- [00:10:43,840 - 00:10:44,620] But for me, at least,
+- [00:10:44,720 - 00:10:46,560] it was investing to myself.
+- [00:10:46,660 - 00:10:47,620] That was probably the biggest
+- [00:10:47,620 - 00:10:49,280] lump sum investment I had made.
+- [00:10:49,280 - 00:10:50,900] And that was really just kind of discovering
+- [00:10:50,900 - 00:10:51,800] what I wanted to do.
+- [00:10:51,880 - 00:10:53,420] Flash forward as the business started
+- [00:10:53,420 - 00:10:54,959] gaining more and more traction
+- [00:10:54,959 - 00:10:56,220] because I had better skill sets
+- [00:10:56,220 - 00:10:58,540] and our team was making more money and stuff.
+- [00:10:58,600 - 00:11:00,000] I then invested into another mentorship
+- [00:11:00,000 - 00:11:00,939] and other mentorship.
+- [00:11:00,939 - 00:11:02,660] And I've never had an ego
+- [00:11:02,660 - 00:11:04,579] around not knowing something.
+- [00:11:04,740 - 00:11:06,620] In fact, I've probably invested a lot more
+- [00:11:06,620 - 00:11:08,260] into just trying to find the answer
+- [00:11:08,260 - 00:11:09,740] than just to go through self-discovery
+- [00:11:09,740 - 00:11:10,240] to figure it out
+- [00:11:10,240 - 00:11:11,360] because I'm trying to condense time.
+- [00:11:11,480 - 00:11:13,020] And I think that's also a personal thing for me.
+- [00:11:13,060 - 00:11:13,980] I'll bet on myself
+- [00:11:13,980 - 00:11:15,060] because I know the skill sets
+- [00:11:15,060 - 00:11:16,120] in every single mastermind
+- [00:11:16,120 - 00:11:17,199] or every single program I've joined
+- [00:11:17,199 - 00:11:18,040] has had a return.
+- [00:11:18,040 - 00:11:19,420] It just clicks at a different point.
+- [00:11:19,500 - 00:11:20,920] And so it's that exponential effect
+- [00:11:20,920 - 00:11:23,380] where maybe the last mastermind you joined
+- [00:11:23,380 - 00:11:24,819] was the catalyst for you to go
+- [00:11:24,819 - 00:11:25,860] from a million dollars
+- [00:11:25,860 - 00:11:27,860] to seven million in revenues.
+- [00:11:28,020 - 00:11:29,540] But it was all the things that you did before,
+- [00:11:29,660 - 00:11:30,540] but that was the catalyst
+- [00:11:30,540 - 00:11:31,480] because that was the last link
+- [00:11:31,480 - 00:11:32,760] or that was the last connection that you needed
+- [00:11:32,760 - 00:11:33,640] or whatever the case is.
+- [00:11:33,740 - 00:11:34,740] What has been the greatest lesson
+- [00:11:34,740 - 00:11:35,699] you've learned so far?
+- [00:11:36,000 - 00:11:36,819] Relationships really matter,
+- [00:11:36,880 - 00:11:38,280] but the right relationships matter the most.
+- [00:11:38,500 - 00:11:40,180] You can be friends to many,
+- [00:11:40,300 - 00:11:41,540] but who are you going to call
+- [00:11:41,540 - 00:11:42,380] in the situation
+- [00:11:42,380 - 00:11:43,860] where you only have three numbers to dial?
+- [00:11:44,060 - 00:11:44,980] Like if you really was,
+- [00:11:45,040 - 00:11:45,860] if it was life or death,
+- [00:11:45,900 - 00:11:47,040] you had three numbers to dial,
+- [00:11:47,040 - 00:11:48,020] who's going to be there for you?
+- [00:11:48,040 - 00:11:49,540] I think that matters the most, dude.
+- [00:11:49,599 - 00:11:51,000] It's like those core relationships,
+- [00:11:51,240 - 00:11:53,300] they take investment in time, money,
+- [00:11:53,680 - 00:11:54,880] helping them get to where they want to go.
+- [00:11:54,939 - 00:11:55,980] It's not just all about you.
+- [00:11:56,060 - 00:11:57,520] I think investing into your health is key.
+- [00:11:57,640 - 00:11:59,219] I've gone the full burnout way
+- [00:11:59,219 - 00:12:00,719] where you're working 16 hours a day.
+- [00:12:00,800 - 00:12:02,900] I actually had a really crazy health scenario
+- [00:12:02,900 - 00:12:03,540] that had happened
+- [00:12:03,540 - 00:12:05,120] when I was doing full-time work
+- [00:12:05,120 - 00:12:06,099] and school at the time.
+- [00:12:06,180 - 00:12:07,280] It was like 4 a.m. to midnight.
+- [00:12:07,599 - 00:12:08,699] And then I had the next day
+- [00:12:08,699 - 00:12:10,360] where I pulled an overnighter
+- [00:12:10,360 - 00:12:11,920] for a government project.
+- [00:12:12,040 - 00:12:14,420] We were putting a bid on a building in Pasadena.
+- [00:12:14,560 - 00:12:15,719] And then I went back to school
+- [00:12:15,719 - 00:12:16,740] and then went back to work.
+- [00:12:16,740 - 00:12:18,020] I didn't sleep that 24, 48.
+- [00:12:18,040 - 00:12:19,579] So it was pretty brutal.
+- [00:12:19,900 - 00:12:21,360] And that night I had gone home,
+- [00:12:21,439 - 00:12:22,280] passed out apparently,
+- [00:12:22,420 - 00:12:24,160] and I was screaming at the top of my lungs
+- [00:12:24,160 - 00:12:25,140] and all my books,
+- [00:12:25,219 - 00:12:26,319] everything was falling off,
+- [00:12:26,360 - 00:12:27,060] like the shelves and everything.
+- [00:12:27,099 - 00:12:28,180] My mom came in and she was like,
+- [00:12:28,219 - 00:12:28,900] what the hell is going on?
+- [00:12:28,920 - 00:12:29,640] I didn't know what was going on.
+- [00:12:29,680 - 00:12:31,400] So health is very, very serious.
+- [00:12:31,480 - 00:12:32,620] I was stressed out to the max at the time.
+- [00:12:32,640 - 00:12:33,800] I even had a girlfriend at the time.
+- [00:12:33,900 - 00:12:35,500] So I had no time for anything.
+- [00:12:35,819 - 00:12:38,160] And I've really learned to focus on health
+- [00:12:38,160 - 00:12:39,280] and go push yourself.
+- [00:12:39,520 - 00:12:41,439] What would you say is your long-term goal for yourself
+- [00:12:41,439 - 00:12:42,939] and what motivates you to keep going?
+- [00:12:43,040 - 00:12:44,180] Let's start with the why first
+- [00:12:44,180 - 00:12:45,760] because it doesn't matter what I want to do
+- [00:12:45,760 - 00:12:47,500] if I don't have a driving force to get there.
+- [00:12:47,500 - 00:12:48,020] I came from a place
+- [00:12:48,020 - 00:12:49,360] I came from a spot in which,
+- [00:12:49,500 - 00:12:50,390] you know, my mom was
+- [00:12:50,390 - 00:12:51,280] making 30, 40 grand a year
+- [00:12:51,280 - 00:12:52,840] and living in the suburb of Los Angeles.
+- [00:12:52,980 - 00:12:54,140] Didn't have food a lot of the times.
+- [00:12:54,240 - 00:12:56,340] Just grew up always having a thirst for entrepreneurship
+- [00:12:56,340 - 00:12:57,920] and was literally hungry at points.
+- [00:12:58,000 - 00:12:58,300] And I was like,
+- [00:12:58,300 - 00:12:59,920] I don't want to ever do that for my family.
+- [00:13:00,020 - 00:13:01,340] Like we're going to be successful.
+- [00:13:01,579 - 00:13:02,400] We're going to, you know,
+- [00:13:02,439 - 00:13:03,540] have an abundance of food,
+- [00:13:03,620 - 00:13:04,640] have an abundance of all this stuff.
+- [00:13:04,720 - 00:13:05,579] Not in a gluttonous way,
+- [00:13:05,620 - 00:13:08,020] but just you'll never have lack of like basic needs.
+- [00:13:08,380 - 00:13:10,040] So that was the first thing.
+- [00:13:10,140 - 00:13:11,860] But your why evolves as you change
+- [00:13:11,860 - 00:13:12,860] because I can eat.
+- [00:13:12,920 - 00:13:14,120] I just had a chef come over yesterday.
+- [00:13:14,240 - 00:13:15,620] She made all my stuff because I hate cooking.
+- [00:13:15,819 - 00:13:17,480] The why isn't food anymore.
+- [00:13:17,480 - 00:13:18,000] The why,
+- [00:13:18,120 - 00:13:19,980] it's the sustain and become a different version of myself
+- [00:13:19,980 - 00:13:21,060] that I know that I can become.
+- [00:13:21,160 - 00:13:22,180] And so chasing potential,
+- [00:13:22,319 - 00:13:23,680] your human potential of impact,
+- [00:13:23,760 - 00:13:25,400] your human potential of changing an industry
+- [00:13:25,400 - 00:13:26,420] or the way that things are done,
+- [00:13:26,520 - 00:13:28,280] your impact and even how you show up,
+- [00:13:28,319 - 00:13:29,699] how your presence is actually felt,
+- [00:13:29,760 - 00:13:30,640] I think is also another thing
+- [00:13:30,640 - 00:13:31,480] a lot of people don't talk about.
+- [00:13:31,560 - 00:13:32,520] Like, how do you want to
+- [00:13:32,520 - 00:13:33,480] be able to walk this earth?
+- [00:13:33,540 - 00:13:34,340] Are you going to be, you know,
+- [00:13:34,380 - 00:13:35,939] moping around not being, you know,
+- [00:13:36,020 - 00:13:38,199] the guy or the guy that can protect or provide?
+- [00:13:38,319 - 00:13:39,160] Like, I think for me,
+- [00:13:39,280 - 00:13:40,600] especially over the past six months,
+- [00:13:40,600 - 00:13:41,920] I want to be multifaceted
+- [00:13:41,920 - 00:13:43,420] and not just be the business guy.
+- [00:13:43,560 - 00:13:45,040] If I can lift more,
+- [00:13:45,079 - 00:13:46,300] if I can go, you know,
+- [00:13:46,300 - 00:13:47,900] do a self-defense martial arts
+- [00:13:47,900 - 00:13:49,340] or if I can go do X, Y, Z,
+- [00:13:49,439 - 00:13:50,540] then why would I not, right?
+- [00:13:50,579 - 00:13:51,340] So that's one.
+- [00:13:51,439 - 00:13:52,340] It's chasing that potential
+- [00:13:52,340 - 00:13:53,640] and diversifying identity.
+- [00:13:53,780 - 00:13:55,240] But then the distinct why of like,
+- [00:13:55,260 - 00:13:57,600] but for me, it's for my mom, for my family.
+- [00:13:57,760 - 00:13:59,180] And then there's the outward facing,
+- [00:13:59,260 - 00:14:00,560] where I know I can impact people.
+- [00:14:00,699 - 00:14:01,640] By doing that impact,
+- [00:14:01,740 - 00:14:02,819] I know that I can take care of my mom.
+- [00:14:02,880 - 00:14:05,020] She's 66 years old or 65 years old.
+- [00:14:05,100 - 00:14:05,920] She retires in a year.
+- [00:14:06,000 - 00:14:06,780] She needed a little bit of help,
+- [00:14:06,939 - 00:14:08,020] sent her some money and she was good.
+- [00:14:08,100 - 00:14:10,380] And that to me is like me accomplishing
+- [00:14:10,380 - 00:14:11,560] that fulfilling prophecy
+- [00:14:11,560 - 00:14:13,260] where they invested into me a lot
+- [00:14:13,260 - 00:14:14,040] and they had nothing.
+- [00:14:14,040 - 00:14:16,500] I can at least give her a couple thousand bucks
+- [00:14:16,500 - 00:14:17,360] or whatever it was to help her.
+- [00:14:17,360 - 00:14:17,880] That's goals, right?
+- [00:14:17,900 - 00:14:18,459] Right there, man.
+- [00:14:18,819 - 00:14:20,319] That wraps up episode six
+- [00:14:20,319 - 00:14:21,439] of 10 questions with a millionaire.
+- [00:14:21,720 - 00:14:22,520] Thank you so much, Robert.
+- [00:14:22,579 - 00:14:24,060] I appreciate you filming with us today.
+- [00:14:24,199 - 00:14:25,720] Where can people find more about you
+- [00:14:25,720 - 00:14:26,640] and connect with you?
+- [00:14:26,800 - 00:14:27,300] Yeah, sure thing.
+- [00:14:27,340 - 00:14:28,160] They can find me on Instagram.
+- [00:14:28,380 - 00:14:29,160] Appreciate you having me
+- [00:14:29,160 - 00:14:31,540] at the Robert J. Miller, the one and only.
+- [00:14:31,720 - 00:14:33,240] So the Robert J. Miller on Instagram.
+- [00:14:33,400 - 00:14:34,640] Just hit me there and I'll get back to you.
