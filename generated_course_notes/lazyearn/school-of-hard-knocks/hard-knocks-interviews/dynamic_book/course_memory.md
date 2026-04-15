@@ -1,3 +1,3 @@
-Rewrote [course_memory.md](/home/lachlan/ProjectsLFS/LazyEarn/generated_course_notes/lazyearn/school-of-hard-knocks/hard-knocks-interviews/dynamic_book/course_memory.md).
+Updated [course_memory.md](/home/lachlan/ProjectsLFS/LazyEarn/generated_course_notes/lazyearn/school-of-hard-knocks/hard-knocks-interviews/dynamic_book/course_memory.md).
 
-The new memory is book-level rather than lecture-level, integrates processed lectures `01` through `09`, keeps the required section structure, preserves the empty validated-frame bank, and adds a concrete revision agenda for the next full LaTeX rewrite. No automated tests were applicable here; I verified the required top-level headings and the file layout.
+It is now a full book-level replacement memory for lectures `01` through `09`, organized by thesis, dynamic chapter system, cross-lecture evidence themes, frame and diagram banks, contradictions, revision agenda, and a concise processed-lecture index. No automated tests were applicable; I verified the required section headings and Markdown structure.
