@@ -1,0 +1,1835 @@
+# Transcript
+
+Source: lazyearn/mit-nuts-and-bolts-of-new-ventures/006 - Session 4, Part 1： Presenting Your Venture [-Op1GLwFuV4].webm
+
+- [00:00:00,000 - 00:00:12,360] All right, well let me get going here.
+- [00:00:15,040 - 00:00:16,620] Okay, good evening.
+- [00:00:18,440 - 00:00:19,540] I'm Joe Hadzima.
+- [00:00:19,780 - 00:00:21,690] As I mentioned in our first session,
+- [00:00:21,690 - 00:00:23,600] I'll be your guide through the journey through
+- [00:00:23,600 - 00:00:24,880] nuts and bolts of new ventures.
+- [00:00:24,880 - 00:00:27,620] Tonight's journey takes us to two topics
+- [00:00:27,620 - 00:00:30,360] that are actually, I think, mesh well together.
+- [00:00:31,040 - 00:00:33,760] The first part is Bob Jones is going
+- [00:00:33,760 - 00:00:36,480] to talk about presenting your venture, and by that
+- [00:00:36,480 - 00:00:39,190] he means to anybody,
+- [00:00:39,190 - 00:00:41,900] to investors, customers, employees, partners.
+- [00:00:43,040 - 00:00:45,460] You know, can you communicate what you're about?
+- [00:00:46,300 - 00:00:48,589] That'll be followed in the second part by
+- [00:00:48,589 - 00:00:50,879] Mindy Garber, who's going to come in and talk
+- [00:00:50,879 - 00:00:52,440] about negotiation.
+- [00:00:52,440 - 00:00:55,300] So, if you can convey what you want or your
+- [00:00:55,300 - 00:00:58,160] goals, then how do you take it to the next
+- [00:00:58,160 - 00:01:01,160] step and convince other people to do whatever
+- [00:01:01,160 - 00:01:04,160] you want or to at least negotiate around that?
+- [00:01:04,160 - 00:01:06,800] So, to start off the evening, we have Bob Jones.
+- [00:01:06,800 - 00:01:07,800] Please welcome him back.
+- [00:01:07,800 - 00:01:08,800] Thank you.
+- [00:01:08,800 - 00:01:13,800] It's good to see so many of you here.
+- [00:01:13,800 - 00:01:17,700] And for those of you that we scared away
+- [00:01:17,700 - 00:01:21,600] at the beginning of the session, I want to thank
+- [00:01:21,600 - 00:01:22,320] you.
+- [00:01:22,440 - 00:01:25,620] I know a day or a week ago we
+- [00:01:25,620 - 00:01:28,800] did you a favor because you have concluded that entrepreneurship
+- [00:01:28,800 - 00:01:31,000] is not for you.
+- [00:01:31,000 - 00:01:35,020] So you came to the right answer.
+- [00:01:35,020 - 00:01:37,940] You know, I was thinking about it as I
+- [00:01:37,940 - 00:01:40,860] was setting tonight up, and I read some posts
+- [00:01:40,860 - 00:01:43,550] that popped up last week from some people
+- [00:01:43,550 - 00:01:46,240] who said, gee, they were skeptical about courses
+- [00:01:46,240 - 00:01:49,220] in entrepreneurship because it's not really
+- [00:01:49,220 - 00:01:52,200] something that you teach in an institution.
+- [00:01:52,200 - 00:01:55,080] Because it doesn't lend itself all
+- [00:01:55,080 - 00:01:57,960] that well to the academic paradigm.
+- [00:01:57,960 - 00:02:00,850] But to his astonishment, this course at MIT
+- [00:02:00,850 - 00:02:03,740] was being taught by people who'd done it and
+- [00:02:03,740 - 00:02:05,480] who'd lived through it.
+- [00:02:05,480 - 00:02:10,919] And that made it, in his view, automatically better.
+- [00:02:10,919 - 00:02:14,810] And to his astonishment, everybody who
+- [00:02:14,810 - 00:02:18,700] was doing it was a volunteer.
+- [00:02:18,700 - 00:02:20,200] And he just couldn't believe it.
+- [00:02:20,200 - 00:02:21,520] Because in the UK where he lives, he's a volunteer.
+- [00:02:21,520 - 00:02:22,040] And he's a volunteer.
+- [00:02:22,040 - 00:02:22,140] And he's a volunteer.
+- [00:02:22,140 - 00:02:22,160] And he's a volunteer.
+- [00:02:22,160 - 00:02:22,180] And he's a volunteer.
+- [00:02:22,180 - 00:02:22,200] And he's a volunteer.
+- [00:02:22,200 - 00:02:22,299] And he's a volunteer.
+- [00:02:22,299 - 00:02:22,339] And he's a volunteer.
+- [00:02:22,339 - 00:02:22,380] And he's a volunteer.
+- [00:02:22,380 - 00:02:22,399] And he's a volunteer.
+- [00:02:22,399 - 00:02:22,440] And he's a volunteer.
+- [00:02:22,440 - 00:02:22,480] And he's a volunteer.
+- [00:02:22,480 - 00:02:22,540] And he's a volunteer.
+- [00:02:22,540 - 00:02:22,640] And he's a volunteer.
+- [00:02:22,640 - 00:02:25,489] He had tried over and over again to get
+- [00:02:25,489 - 00:02:28,339] entrepreneurs to come in and talk, and they wouldn't do
+- [00:02:28,339 - 00:02:31,200] it without getting paid for it.
+- [00:02:31,200 - 00:02:33,880] And he just couldn't believe that these people
+- [00:02:33,880 - 00:02:36,560] would come in and share what they'd learned,
+- [00:02:36,560 - 00:02:40,320] sometimes painfully, and they didn't want money.
+- [00:02:40,320 - 00:02:42,019] They didn't want a piece of your venture.
+- [00:02:42,019 - 00:02:43,780] They weren't trying to sell their services.
+- [00:02:43,780 - 00:02:45,780] They weren't trying to hawk their books.
+- [00:02:45,780 - 00:02:48,079] They were just doing it.
+- [00:02:48,079 - 00:02:50,109] And in this course, they've
+- [00:02:50,109 - 00:02:52,140] been doing it for 30-odd years.
+- [00:02:52,140 - 00:02:54,200] And you have to ask yourself,
+- [00:02:54,200 - 00:02:56,260] well, who's the architect behind that?
+- [00:02:56,720 - 00:03:00,919] And it's Joe, who has not actually gotten what I
+- [00:03:00,919 - 00:03:05,119] believe to be nearly enough public recognition for this incredible feat.
+- [00:03:05,399 - 00:03:06,589] So will you join me in
+- [00:03:06,589 - 00:03:07,779] giving Joe a round of applause?
+- [00:03:13,679 - 00:03:15,779] Thank you. It's long overdue. I don't
+- [00:03:15,779 - 00:03:17,880] think we've ever done that, have we?
+- [00:03:17,880 - 00:03:20,369] Yeah, well, so 30 years
+- [00:03:20,369 - 00:03:22,859] from now, we'll do it again.
+- [00:03:24,359 - 00:03:28,740] So we're talking tonight about presenting your venture.
+- [00:03:29,140 - 00:03:32,400] There's 12 units in this two-week program, and
+- [00:03:32,400 - 00:03:35,660] there's a lot of competition for subject matter.
+- [00:03:36,019 - 00:03:39,019] So why are we talking about this?
+- [00:03:39,300 - 00:03:42,210] We're not talking about algorithms. We're not
+- [00:03:42,210 - 00:03:45,120] talking about best ways to do market research.
+- [00:03:45,120 - 00:03:47,560] We're talking about how to present your venture.
+- [00:03:47,880 - 00:03:49,880] Why are we doing that?
+- [00:03:50,220 - 00:03:53,930] Why is it important? And you know, one of my goals is to have
+- [00:03:53,930 - 00:03:57,640] you leave 90 minutes from now better at it than you are right now.
+- [00:03:58,740 - 00:04:00,680] But say I succeed in that
+- [00:04:00,680 - 00:04:02,620] goal and you are better. So what?
+- [00:04:03,840 - 00:04:06,019] So what are your thoughts? Why are we doing this?
+- [00:04:11,220 - 00:04:13,220] I hear crickets.
+- [00:04:14,359 - 00:04:16,360] It tracks the overall value creation.
+- [00:04:16,360 - 00:04:17,860] Uh-oh.
+- [00:04:17,880 - 00:04:19,880] We need a microphone or two. Sorry, ladies.
+- [00:04:23,219 - 00:04:25,209] That was a good answer, but
+- [00:04:25,209 - 00:04:27,200] hang on because up here, Supreme.
+- [00:04:27,200 - 00:04:28,700] Okay.
+- [00:04:28,700 - 00:04:30,700] Thank you.
+- [00:04:33,760 - 00:04:35,760] Congrats.
+- [00:04:36,659 - 00:04:38,659] Impact.
+- [00:04:38,659 - 00:04:40,659] Sorry.
+- [00:04:40,659 - 00:04:42,659] Jen is here.
+- [00:04:44,460 - 00:04:46,460] We interrupt this program for...
+- [00:04:46,460 - 00:04:47,460] Impact.
+- [00:04:47,880 - 00:04:49,880] Just pick one.
+- [00:04:49,880 - 00:04:51,880] Or repeat the question.
+- [00:04:51,880 - 00:04:53,880] All right. The question was why are
+- [00:04:53,880 - 00:04:55,880] we talking about this, and your answer was?
+- [00:04:55,880 - 00:04:57,880] Impacts the overall value creation.
+- [00:04:57,880 - 00:05:01,880] It affects the overall creation of value. Yep.
+- [00:05:01,880 - 00:05:06,380] Value to whom? Who might you be presenting
+- [00:05:06,380 - 00:05:10,880] to that's part of that value creation process?
+- [00:05:12,880 - 00:05:13,880] Guys, if you missed this
+- [00:05:13,880 - 00:05:14,880] one, then I fear for you.
+- [00:05:16,880 - 00:05:20,880] Who will you be presenting your venture
+- [00:05:20,880 - 00:05:24,880] to that will help you create value?
+- [00:05:24,880 - 00:05:28,880] Yeah, to give capital to your investors.
+- [00:05:28,880 - 00:05:30,880] Hang on. We need the mic. Sorry.
+- [00:05:30,880 - 00:05:32,880] To give capital to investors.
+- [00:05:32,880 - 00:05:35,880] All right. Well, it's going to be hard for you to raise
+- [00:05:35,880 - 00:05:38,880] money for your venture if you don't talk to somebody about it, right?
+- [00:05:38,880 - 00:05:44,880] Okay. What was my topic a week ago? Finding your...
+- [00:05:46,880 - 00:05:49,380] Thank you. And might you
+- [00:05:49,380 - 00:05:51,880] ever be presenting to a customer?
+- [00:05:51,880 - 00:05:54,880] Well, God, I hope so, right?
+- [00:05:54,880 - 00:05:58,380] Okay. So let's have a quick rundown
+- [00:05:58,380 - 00:06:01,880] as to times you might want this.
+- [00:06:01,880 - 00:06:03,880] You might want to acquire customers.
+- [00:06:03,880 - 00:06:06,880] You might want to acquire a channel partner.
+- [00:06:06,880 - 00:06:10,880] You might actually need to hire somebody.
+- [00:06:10,880 - 00:06:12,880] They might have another offer.
+- [00:06:12,880 - 00:06:17,880] They might wonder, hmm, why should I invest
+- [00:06:17,880 - 00:06:22,880] in an undercapitalized startup that's redundant, I realize,
+- [00:06:22,880 - 00:06:25,380] run by a starry-eyed entrepreneur who
+- [00:06:25,380 - 00:06:27,880] has never started a business before?
+- [00:06:27,880 - 00:06:29,880] Hmm.
+- [00:06:29,880 - 00:06:32,880] How about if you already have a staff and
+- [00:06:32,880 - 00:06:35,880] you've had a couple of bad quarters in a row,
+- [00:06:35,880 - 00:06:38,380] you've missed your forecast, and there's some possibility
+- [00:06:38,380 - 00:06:40,880] that in another month you'll start missing payroll?
+- [00:06:41,880 - 00:06:48,880] Not that that would ever happen to anybody we know.
+- [00:06:48,880 - 00:06:50,880] And of course, raising capital.
+- [00:06:50,880 - 00:06:54,880] And maybe one day if all of this
+- [00:06:54,880 - 00:06:58,880] works out well, maybe even selling your venture.
+- [00:06:58,880 - 00:07:02,880] So tonight we're going to talk a little bit about what
+- [00:07:02,880 - 00:07:06,880] is a pitch, what do you hope it will do for you.
+- [00:07:06,880 - 00:07:09,880] Well, here are some pitches.
+- [00:07:09,880 - 00:07:12,380] We'll distill what we've learned, develop
+- [00:07:12,380 - 00:07:14,880] some guidelines, and hear some more pitches,
+- [00:07:14,880 - 00:07:18,380] maybe even from the same people originally, and
+- [00:07:18,380 - 00:07:21,880] then wrap it up with questions, summaries, and conclusions.
+- [00:07:21,880 - 00:07:23,880] Okay so far?
+- [00:07:23,880 - 00:07:24,880] All right.
+- [00:07:24,880 - 00:07:31,880] Tonight will be an equal opportunity embarrassment program.
+- [00:07:31,880 - 00:07:35,380] Because you might remember that a week ago I stood up here in
+- [00:07:35,380 - 00:07:38,880] front of you and told you a story of something I had started,
+- [00:07:38,880 - 00:07:41,880] which was just a complete disaster.
+- [00:07:41,880 - 00:07:44,880] And failed utterly.
+- [00:07:44,880 - 00:07:47,880] And speakers don't always stand up in front
+- [00:07:47,880 - 00:07:50,880] of audiences and say, yes, I did a faceplant.
+- [00:07:50,880 - 00:07:53,880] So part of being an entrepreneur
+- [00:07:53,880 - 00:07:56,880] is a certain measure of fearlessness.
+- [00:07:56,880 - 00:07:58,880] Tonight we're going to look for people who are willing
+- [00:07:58,880 - 00:08:00,880] to come up here and tell us about their venture,
+- [00:08:00,880 - 00:08:03,380] with the understanding that our job will
+- [00:08:03,380 - 00:08:05,880] be to help you do a better job,
+- [00:08:05,880 - 00:08:07,380] which means you will get a bit
+- [00:08:07,380 - 00:08:08,880] of love and a bit of credit.
+- [00:08:08,880 - 00:08:10,880] And no critique.
+- [00:08:10,880 - 00:08:12,880] Okay?
+- [00:08:12,880 - 00:08:14,880] So, quick rundown.
+- [00:08:14,880 - 00:08:17,880] My background, you will recall, four startups with docs
+- [00:08:17,880 - 00:08:20,880] out of Harvard, med school, broke down, wrote a book.
+- [00:08:20,880 - 00:08:24,380] Took a break from entrepreneurship to turn around
+- [00:08:24,380 - 00:08:27,880] a publicly traded company that was a mess.
+- [00:08:27,880 - 00:08:30,880] A couple normal jobs, a couple schools.
+- [00:08:30,880 - 00:08:32,880] Yes, I'm a working musician.
+- [00:08:32,880 - 00:08:35,880] And I do volunteer in homeless shelters.
+- [00:08:35,880 - 00:08:38,880] And something that I left out last week,
+- [00:08:38,880 - 00:08:40,880] but I think it's very important for you,
+- [00:08:40,880 - 00:08:44,880] is I'm a mentor and have been for some
+- [00:08:44,880 - 00:08:48,880] 10 or 12 years with MIT's Venture Mentoring Service.
+- [00:08:48,880 - 00:08:52,880] Raise your hand if you already know about VMS.
+- [00:08:52,880 - 00:08:54,880] Okay, that implies there are a
+- [00:08:54,880 - 00:08:56,880] lot of you that do not.
+- [00:08:56,880 - 00:09:00,380] If your company has someone in their
+- [00:09:00,380 - 00:09:03,880] senior management team who has an MIT affiliation,
+- [00:09:03,880 - 00:09:05,880] you qualify, probably,
+- [00:09:05,880 - 00:09:08,880] for free advice from the team.
+- [00:09:08,880 - 00:09:10,380] And you can get a team
+- [00:09:10,380 - 00:09:11,880] of mentors through Venture Mentoring Service.
+- [00:09:11,880 - 00:09:12,880] Joe's a mentor.
+- [00:09:12,880 - 00:09:13,880] I'm a mentor.
+- [00:09:13,880 - 00:09:16,880] A couple of you in the room are mentors.
+- [00:09:16,880 - 00:09:19,880] And a fair percentage of the speakers you will
+- [00:09:19,880 - 00:09:22,880] hear in the course of this two weeks are mentors.
+- [00:09:22,880 - 00:09:24,880] It's an impressive organization.
+- [00:09:24,880 - 00:09:26,880] It's generated an awful lot of value.
+- [00:09:26,880 - 00:09:28,880] And it's totally volunteer.
+- [00:09:28,880 - 00:09:32,880] So, write down that URL.
+- [00:09:32,880 - 00:09:35,880] Because if your thing gets beyond the
+- [00:09:35,880 - 00:09:38,880] idea on a blank sheet of paper stage,
+- [00:09:38,880 - 00:09:41,880] it will be valuable to you.
+- [00:09:41,880 - 00:09:44,880] Okay, so what do people invest in?
+- [00:09:44,880 - 00:09:48,880] Well, it's tempting to think I have an idea,
+- [00:09:48,880 - 00:09:50,880] and maybe I can turn it into a product.
+- [00:09:50,880 - 00:09:52,380] But a good idea isn't the
+- [00:09:52,380 - 00:09:53,880] same thing as a good product.
+- [00:09:53,880 - 00:09:56,380] There are questions of pricing
+- [00:09:56,380 - 00:09:58,880] and packaging and all of that.
+- [00:09:58,880 - 00:10:02,880] And who was it I
+- [00:10:02,880 - 00:10:06,880] was just talking to about food?
+- [00:10:06,880 - 00:10:07,880] Right.
+- [00:10:07,880 - 00:10:10,880] Food, for example, has to taste good.
+- [00:10:10,880 - 00:10:14,380] So the idea might be wonderful, but a
+- [00:10:14,380 - 00:10:17,880] good product isn't the same as a good business.
+- [00:10:17,880 - 00:10:20,880] And people want to work with good businesses.
+- [00:10:20,880 - 00:10:22,880] You have a great team.
+- [00:10:22,880 - 00:10:24,880] You're skilled at execution.
+- [00:10:24,880 - 00:10:26,880] You understand your business.
+- [00:10:26,880 - 00:10:29,880] And a hallmark of do you understand your
+- [00:10:29,880 - 00:10:32,880] business is can you describe it clearly and persuasively.
+- [00:10:32,880 - 00:10:35,880] So if I say, hmm,
+- [00:10:35,880 - 00:10:36,880] tell me about your company.
+- [00:10:36,880 - 00:10:38,380] And a half hour later,
+- [00:10:38,380 - 00:10:39,880] you're still struggling for the words,
+- [00:10:39,880 - 00:10:42,880] I'm inclined to think you're not going to succeed.
+- [00:10:42,880 - 00:10:43,880] All right.
+- [00:10:43,880 - 00:10:48,880] So, so, Grasshopper, what is this pitch you speak of?
+- [00:10:48,880 - 00:10:52,880] It's some sort of presentation that's got a goal.
+- [00:10:52,880 - 00:10:55,880] You want to persuade others of your point of view.
+- [00:10:55,880 - 00:10:56,880] My product is wonderful.
+- [00:10:56,880 - 00:10:58,880] My team is wonderful.
+- [00:10:58,880 - 00:10:59,880] You should invest in us.
+- [00:10:59,880 - 00:11:02,880] You want to bring about some desired behavior.
+- [00:11:02,880 - 00:11:03,880] So relevant questions become, well,
+- [00:11:03,880 - 00:11:04,880] to whom are you talking to?
+- [00:11:04,880 - 00:11:06,880] And why?
+- [00:11:06,880 - 00:11:08,880] And what do they want?
+- [00:11:08,880 - 00:11:11,880] And how will you provide them with what they want?
+- [00:11:11,880 - 00:11:13,880] And what do you want?
+- [00:11:13,880 - 00:11:16,380] So presentation is not necessarily something
+- [00:11:16,380 - 00:11:18,880] you should just leap right into.
+- [00:11:18,880 - 00:11:20,880] So some audiences for your pitch.
+- [00:11:20,880 - 00:11:22,380] Here's where you guys stared at
+- [00:11:22,380 - 00:11:23,880] me blankly a minute or two ago.
+- [00:11:23,880 - 00:11:25,880] Customers, first on my list.
+- [00:11:25,880 - 00:11:27,380] And then you have a few people
+- [00:11:27,380 - 00:11:28,880] who are going to be in the audience.
+- [00:11:28,880 - 00:11:30,880] And you're going to be talking to them.
+- [00:11:30,880 - 00:11:32,880] And you're going to be talking to them.
+- [00:11:32,880 - 00:11:33,880] And you're going to be talking to them.
+- [00:11:33,880 - 00:11:39,380] First on my list, potential employees,
+- [00:11:39,380 - 00:11:44,880] current employees, channel partners and retailers.
+- [00:11:44,880 - 00:11:47,880] Here's one you might not have thought of.
+- [00:11:47,880 - 00:11:48,880] Family members.
+- [00:11:48,880 - 00:11:51,880] Why?
+- [00:11:51,880 - 00:11:53,880] Well, you're about to graduate.
+- [00:11:53,880 - 00:11:58,380] You're going to turn down a six-figure job working for Amazon to go be employee
+- [00:11:58,380 - 00:12:02,880] number three at a startup that's got about two months' worth of money in the bank.
+- [00:12:02,880 - 00:12:05,880] And your parents are saying, have you lost your mind?
+- [00:12:05,880 - 00:12:09,880] Or perhaps you have a
+- [00:12:09,880 - 00:12:13,880] spouse who raises the same question.
+- [00:12:13,880 - 00:12:16,880] So you may end up doing presentations to
+- [00:12:16,880 - 00:12:19,880] people that go way beyond what you've thought about.
+- [00:12:19,880 - 00:12:23,880] And of course, you already raised investors.
+- [00:12:23,880 - 00:12:27,380] So a relevant question for you, if you want to
+- [00:12:27,380 - 00:12:30,880] do this well, is do they have the same priorities?
+- [00:12:30,880 - 00:12:33,880] And should they each get the same pitch?
+- [00:12:33,880 - 00:12:36,880] So I will argue no.
+- [00:12:36,880 - 00:12:39,880] But let's elaborate on that in a moment.
+- [00:12:39,880 - 00:12:45,380] In every case that I just put up, they
+- [00:12:45,380 - 00:12:50,880] are wondering, and this is a sales acronym pronounced WIFM.
+- [00:12:50,880 - 00:12:53,880] Anybody got any idea what that stands for?
+- [00:12:53,880 - 00:12:54,880] Yes.
+- [00:12:54,880 - 00:12:55,880] Thank you.
+- [00:12:55,880 - 00:12:57,880] What's in it for me?
+- [00:12:57,880 - 00:12:59,880] How come you know that?
+- [00:12:59,880 - 00:13:01,880] How come you know that?
+- [00:13:01,880 - 00:13:09,880] Well, you've lived a proper life.
+- [00:13:09,880 - 00:13:10,880] Good for you.
+- [00:13:10,880 - 00:13:12,880] What's in it for me?
+- [00:13:12,880 - 00:13:17,880] People you're talking to may be too sophisticated
+- [00:13:17,880 - 00:13:22,880] to ask this question bluntly, but they're thinking it.
+- [00:13:22,880 - 00:13:25,880] And a successful pitch will answer
+- [00:13:25,880 - 00:13:28,880] their question without making them ask you.
+- [00:13:28,880 - 00:13:32,880] So what's in it for your target audience?
+- [00:13:32,880 - 00:13:35,880] Well, what do customers want when you're pitching them?
+- [00:13:35,880 - 00:13:38,880] They're looking at you saying, what's in it for me?
+- [00:13:38,880 - 00:13:39,880] What's the right answer?
+- [00:13:39,880 - 00:13:41,880] Solve their problems.
+- [00:13:41,880 - 00:13:42,880] Say again?
+- [00:13:42,880 - 00:13:43,880] Solve their problems.
+- [00:13:43,880 - 00:13:45,880] Solve their problem.
+- [00:13:45,880 - 00:13:46,880] Good answer.
+- [00:13:46,880 - 00:13:47,880] I got it.
+- [00:13:47,880 - 00:13:49,880] They're wondering, will you help me
+- [00:13:49,880 - 00:13:51,880] get to where I want to go?
+- [00:13:51,880 - 00:13:54,380] Will this app get me from
+- [00:13:54,380 - 00:13:56,880] here to Copley Square quickly and efficiently?
+- [00:13:56,880 - 00:13:57,880] Will this help me?
+- [00:13:57,880 - 00:14:01,880] Will this suit I bought make me look
+- [00:14:01,880 - 00:14:05,880] appropriate for board meeting at a publicly traded company?
+- [00:14:05,880 - 00:14:08,880] Whatever is their individual question, they want to
+- [00:14:08,880 - 00:14:11,880] know, will you get me what I want?
+- [00:14:11,880 - 00:14:14,880] What about a new hire?
+- [00:14:14,880 - 00:14:18,380] Say that you're going to interview
+- [00:14:18,380 - 00:14:21,880] Janet and offer her a job.
+- [00:14:21,880 - 00:14:23,380] In fact, maybe you hope desperately
+- [00:14:23,380 - 00:14:24,880] that she will come work for you.
+- [00:14:24,880 - 00:14:25,880] What do you think she's thinking?
+- [00:14:25,880 - 00:14:26,880] What do you think she's thinking?
+- [00:14:27,880 - 00:14:28,880] What's in it for me?
+- [00:14:28,880 - 00:14:31,880] Does she want to hear an endless
+- [00:14:31,880 - 00:14:34,880] recitation of how awesome your technology is?
+- [00:14:34,880 - 00:14:39,880] Probably not.
+- [00:14:39,880 - 00:14:42,880] She might be a little nerdy and think it's
+- [00:14:42,880 - 00:14:45,880] kind of cool, but that's not top of mind.
+- [00:14:45,880 - 00:14:46,880] Right?
+- [00:14:46,880 - 00:14:48,880] Top of mind is more likely, am I
+- [00:14:48,880 - 00:14:50,880] going to be able to pay my bills?
+- [00:14:50,880 - 00:14:53,380] Am I going to work 24-7 for three
+- [00:14:53,380 - 00:14:55,880] months and then the company goes belly up?
+- [00:14:55,880 - 00:14:56,880] Right?
+- [00:14:56,880 - 00:15:00,380] You have to be able to
+- [00:15:00,380 - 00:15:03,880] be sensitive to what your audience wants.
+- [00:15:03,880 - 00:15:06,380] Investors, of course, we will talk about
+- [00:15:06,380 - 00:15:08,880] in more detail in a few minutes.
+- [00:15:08,880 - 00:15:12,880] So, how do you do it?
+- [00:15:12,880 - 00:15:14,880] Well, we're going to have a
+- [00:15:14,880 - 00:15:16,880] little crash course in the basics tonight.
+- [00:15:16,880 - 00:15:20,880] We're going to cover a few basic fundamentals.
+- [00:15:20,880 - 00:15:22,880] What's in it for me?
+- [00:15:22,880 - 00:15:25,880] Benefits versus reason to believe.
+- [00:15:25,880 - 00:15:26,880] And more.
+- [00:15:26,880 - 00:15:29,880] There are some techniques that go into doing this well.
+- [00:15:29,880 - 00:15:31,880] Presentation fundamentals.
+- [00:15:31,880 - 00:15:34,880] How to use a microphone properly.
+- [00:15:34,880 - 00:15:38,880] Something you never thought you'd hear a lecture on.
+- [00:15:38,880 - 00:15:42,880] Some typical questions associated with raising capital.
+- [00:15:42,880 - 00:15:44,880] And I will provide you
+- [00:15:44,880 - 00:15:46,880] a template that you might use.
+- [00:15:46,880 - 00:15:49,880] Mind you, it's not for everyone, but you
+- [00:15:49,880 - 00:15:52,880] might find it helpful in putting together a presentation.
+- [00:15:52,880 - 00:15:55,880] But let's establish a baseline first.
+- [00:15:55,880 - 00:15:59,880] Because you may already be really good at this.
+- [00:15:59,880 - 00:16:02,380] And it would be silly for us to
+- [00:16:02,380 - 00:16:04,880] try to improve something that you're already good at.
+- [00:16:04,880 - 00:16:09,880] So, what I would love to have is a volunteer or two
+- [00:16:09,880 - 00:16:14,880] to come up here, take a couple minutes, and don't pitch us.
+- [00:16:14,880 - 00:16:17,880] Tell us a little bit about your business
+- [00:16:17,880 - 00:16:20,880] so that we understand the background and the context.
+- [00:16:20,880 - 00:16:23,880] And then give us a three-minute pitch.
+- [00:16:23,880 - 00:16:29,380] So you might come up and say, well, the fundamentals of our business, we're
+- [00:16:29,380 - 00:16:34,880] a dog walking service for dual income families where nobody's home during the day.
+- [00:16:34,880 - 00:16:36,880] And somebody's got to walk Fifi.
+- [00:16:36,880 - 00:16:39,380] And they take turns leaving the office at
+- [00:16:39,380 - 00:16:41,880] noon to come home and walk the dog.
+- [00:16:41,880 - 00:16:43,880] But, you know, some days you just can't do it.
+- [00:16:43,880 - 00:16:44,880] So they pay us.
+- [00:16:44,880 - 00:16:45,880] Okay, great.
+- [00:16:45,880 - 00:16:47,880] Let's hear your pitch.
+- [00:16:47,880 - 00:16:48,880] All right?
+- [00:16:48,880 - 00:16:51,380] And so what we're going to do is we're
+- [00:16:51,380 - 00:16:53,880] going to have you tell us about your business.
+- [00:16:53,880 - 00:16:56,880] We're going to time you with a three-minute presentation.
+- [00:16:56,880 - 00:17:01,880] And we're going to provide you some feedback.
+- [00:17:01,880 - 00:17:05,880] Now, as an audience, your responsibility is not necessarily
+- [00:17:05,880 - 00:17:09,880] to give them love, but certainly to give them respect.
+- [00:17:09,880 - 00:17:12,880] Because you may end up here as well.
+- [00:17:12,880 - 00:17:13,880] So listen carefully.
+- [00:17:13,880 - 00:17:15,880] Critique respectfully.
+- [00:17:15,880 - 00:17:18,880] And then think a little bit about how what
+- [00:17:18,880 - 00:17:21,880] you just learned may be useful for your situation.
+- [00:17:21,880 - 00:17:22,880] Clear enough?
+- [00:17:22,880 - 00:17:23,880] Okay.
+- [00:17:23,880 - 00:17:27,880] So who would like to come up and get
+- [00:17:27,880 - 00:17:31,880] the benefit of this awesome exposure and awesome counsel?
+- [00:17:31,880 - 00:17:32,880] Good.
+- [00:17:32,880 - 00:17:36,880] Come on.
+- [00:17:36,880 - 00:17:44,880] By the way, there will be an optional reward for the people who are willing to go first, which is that after
+- [00:17:44,880 - 00:17:52,880] we provide some critique and maybe some guidelines, if you'd like, you can go again and show us if there was any improvement.
+- [00:17:52,880 - 00:17:53,880] Who is coming up?
+- [00:17:53,880 - 00:17:54,880] Right behind you.
+- [00:17:54,880 - 00:17:55,880] Here we go.
+- [00:17:55,880 - 00:17:56,880] Thank you.
+- [00:17:56,880 - 00:17:57,880] All right.
+- [00:17:57,880 - 00:17:58,880] All right.
+- [00:17:58,880 - 00:17:59,880] What's your name?
+- [00:17:59,880 - 00:18:00,880] I'm Andrés.
+- [00:18:00,880 - 00:18:01,880] Andrés?
+- [00:18:01,880 - 00:18:02,880] Tell us a little bit about your business.
+- [00:18:02,880 - 00:18:03,880] Sorry.
+- [00:18:03,880 - 00:18:04,880] I just had to get a song for that.
+- [00:18:04,880 - 00:18:05,880] But first, a commercial from Procter & Gamble.
+- [00:18:05,880 - 00:18:06,880] All right.
+- [00:18:06,880 - 00:18:07,880] Tell us.
+- [00:18:07,880 - 00:18:08,880] Not a pitch quite yet.
+- [00:18:08,880 - 00:18:09,880] Just tell us what your business is.
+- [00:18:09,880 - 00:18:10,880] All right.
+- [00:18:10,880 - 00:18:11,880] So we're Pixelmox.
+- [00:18:11,880 - 00:18:12,380] But it's a company, so we're not
+- [00:18:12,380 - 00:18:12,880] going to get into the details of this.
+- [00:18:12,880 - 00:18:13,880] We're going to do a little bit of a demo.
+- [00:18:13,880 - 00:18:14,380] We're going to try to
+- [00:18:14,380 - 00:18:14,880] have a look at your business.
+- [00:18:14,880 - 00:18:15,380] This is a business that's
+- [00:18:15,380 - 00:18:15,880] been going on for a while.
+- [00:18:15,880 - 00:18:16,380] It's like one of those things that
+- [00:18:16,380 - 00:18:16,880] you can pull out of your pocket.
+- [00:18:16,880 - 00:18:18,660] All right, tell us, not a pitch quite
+- [00:18:18,660 - 00:18:20,440] yet, just tell us what your business is.
+- [00:18:20,800 - 00:18:22,880] All right, so we're Pixelmox.
+- [00:18:23,080 - 00:18:27,240] We do generated graphics on computer vision.
+- [00:18:27,960 - 00:18:31,260] So our focus is to automate and just make
+- [00:18:31,260 - 00:18:34,560] the work of video producers a little bit easier.
+- [00:18:36,080 - 00:18:37,640] I'm sorry, you do what?
+- [00:18:38,180 - 00:18:40,800] Video producing a little bit easier.
+- [00:18:41,980 - 00:18:44,320] Okay, so who wants that?
+- [00:18:44,320 - 00:18:47,020] So video produce...
+- [00:18:47,020 - 00:18:51,560] Right, okay, I'll take a commission on this sale.
+- [00:18:52,220 - 00:18:52,720] All right.
+- [00:18:53,520 - 00:18:56,599] So video producers actually spend a lot of time
+- [00:18:56,599 - 00:18:59,679] just on the process of recording and editing videos.
+- [00:19:00,360 - 00:19:05,050] With generative AI, like some technologies, many technologies
+- [00:19:05,050 - 00:19:09,740] have come out that enable very good video generation.
+- [00:19:09,740 - 00:19:11,580] And it's just recent.
+- [00:19:11,720 - 00:19:13,860] It's like a recent technology development.
+- [00:19:14,320 - 00:19:16,820] So yeah, so...
+- [00:19:16,820 - 00:19:18,840] Okay, is that good enough for background?
+- [00:19:20,060 - 00:19:22,620] All right, then give us your three-minute pitch, please.
+- [00:19:23,439 - 00:19:25,600] All right, am I pitching to investors, to customers?
+- [00:19:25,600 - 00:19:26,419] Well, you tell us.
+- [00:19:26,419 - 00:19:32,589] Would you prefer to view this as a pitch to investors or to a
+- [00:19:32,589 - 00:19:38,760] prospective customer or to someone you're interviewing to hire to have them join your team?
+- [00:19:39,379 - 00:19:40,760] Tell us who we are.
+- [00:19:41,260 - 00:19:41,659] Yeah, all right.
+- [00:19:41,760 - 00:19:43,860] So we're actually looking for engineers.
+- [00:19:44,320 - 00:19:45,960] And for developers.
+- [00:19:46,320 - 00:19:47,240] So I'm just going to pitch.
+- [00:19:47,439 - 00:19:50,379] Okay, give us a three-minute pitch to prospective engineers.
+- [00:19:50,540 - 00:19:52,639] To engineers who would be prospective employees.
+- [00:19:53,620 - 00:19:54,960] All right, so there are a
+- [00:19:54,960 - 00:19:56,300] lot of challenges in computer vision.
+- [00:19:56,840 - 00:20:00,889] And specifically to develop, like to automate the process of generating a
+- [00:20:00,889 - 00:20:04,939] video, there are a lot of things that have to go correctly.
+- [00:20:05,700 - 00:20:05,980] Right?
+- [00:20:05,980 - 00:20:08,439] So if you think of video, you can
+- [00:20:08,439 - 00:20:10,899] decompose a video into pretty much three aspects.
+- [00:20:11,540 - 00:20:13,560] So you have the characters within the video.
+- [00:20:13,560 - 00:20:15,580] Which are just persons who
+- [00:20:15,580 - 00:20:17,600] move and interact within the environment.
+- [00:20:18,360 - 00:20:23,710] You have to model both the characters and the environment in
+- [00:20:23,710 - 00:20:29,060] such a way that it's comprehensive, that it's like reliable to reality.
+- [00:20:29,820 - 00:20:29,980] Right?
+- [00:20:30,020 - 00:20:31,179] And that is a hard topic.
+- [00:20:31,600 - 00:20:33,830] There's a lot of technology, a lot
+- [00:20:33,830 - 00:20:36,060] of challenges to be solved in this issue.
+- [00:20:36,700 - 00:20:39,060] And it's a very large market.
+- [00:20:39,060 - 00:20:41,300] If you think about it, just looking
+- [00:20:41,300 - 00:20:43,540] at YouTube over the last few years.
+- [00:20:43,560 - 00:20:47,500] It has a compounding growth rate of like 40%.
+- [00:20:47,500 - 00:20:48,500] Right?
+- [00:20:48,500 - 00:20:50,650] And there are billions, billions of
+- [00:20:50,650 - 00:20:52,800] just videos out there in the market.
+- [00:20:52,800 - 00:20:55,239] So there are a lot of value
+- [00:20:55,239 - 00:20:57,679] to create for users and to end people.
+- [00:20:57,679 - 00:20:59,280] Along with a lot of challenges.
+- [00:21:00,300 - 00:21:04,580] We're welcoming anyone who wants to take on this
+- [00:21:04,580 - 00:21:08,860] journey and just work through these hard engineering problems.
+- [00:21:10,440 - 00:21:11,520] That's my pitch.
+- [00:21:11,520 - 00:21:11,639] Thank you.
+- [00:21:13,560 - 00:21:19,340] And you came in in less than three minutes.
+- [00:21:19,500 - 00:21:20,200] Nice job.
+- [00:21:20,560 - 00:21:20,840] Okay.
+- [00:21:20,919 - 00:21:22,580] Let's hear your thoughts on this.
+- [00:21:22,860 - 00:21:23,940] I have a few reactions,
+- [00:21:23,940 - 00:21:25,020] but I'm going to hold them.
+- [00:21:25,740 - 00:21:27,200] We need a microphone up there.
+- [00:21:27,379 - 00:21:28,179] Thanks, Supriya.
+- [00:21:31,179 - 00:21:34,919] Part of how we sell the idea of being teaching assistants for this
+- [00:21:34,919 - 00:21:38,659] program is you don't have to go to the gym for these two weeks.
+- [00:21:38,659 - 00:21:40,620] Well, she wasn't going to the gym.
+- [00:21:40,780 - 00:21:41,780] I was setting up cameras.
+- [00:21:42,040 - 00:21:43,040] She was just doing it.
+- [00:21:43,560 - 00:21:44,060] Right.
+- [00:21:46,860 - 00:21:48,240] So let's hear your feedback.
+- [00:21:48,240 - 00:21:53,430] For a prospective employee, I didn't hear enough specifics of why
+- [00:21:53,430 - 00:21:58,620] that person's skill set would be essential to what you're doing.
+- [00:22:00,280 - 00:22:00,639] Okay.
+- [00:22:01,179 - 00:22:02,580] So like why do we need them?
+- [00:22:03,320 - 00:22:04,240] No, Andreas.
+- [00:22:04,379 - 00:22:08,799] I think the point was that you said in your
+- [00:22:08,799 - 00:22:13,220] introduction that you would be interviewing, you're looking for engineers.
+- [00:22:13,560 - 00:22:16,380] And in the minute and 58 seconds that you
+- [00:22:16,380 - 00:22:19,200] talked, I didn't hear a word about the job.
+- [00:22:19,919 - 00:22:20,320] Ah.
+- [00:22:20,580 - 00:22:20,879] Right.
+- [00:22:20,879 - 00:22:24,839] So if I asked you right now, based on just on what you heard,
+- [00:22:24,839 - 00:22:28,800] how many of you would be interested in applying for a job with Andreas?
+- [00:22:30,480 - 00:22:31,000] Okay.
+- [00:22:31,120 - 00:22:31,860] So that's a fail.
+- [00:22:32,220 - 00:22:32,379] Yeah.
+- [00:22:32,560 - 00:22:33,580] That definitely is.
+- [00:22:33,820 - 00:22:36,840] I mean, it's a problem that can be easily remedied.
+- [00:22:37,159 - 00:22:39,480] But at first attempt, that's a fail.
+- [00:22:40,280 - 00:22:40,399] Yeah.
+- [00:22:40,419 - 00:22:40,940] Okay.
+- [00:22:41,159 - 00:22:41,860] Other feedback?
+- [00:22:43,560 - 00:22:47,700] So for a pitch, but I also
+- [00:22:47,700 - 00:22:51,840] think that you didn't talk enough about benefits.
+- [00:22:52,280 - 00:22:54,719] So how would I grow if
+- [00:22:54,719 - 00:22:57,159] I were to leave my experience?
+- [00:22:58,500 - 00:23:02,300] In terms of salary, what should I expect?
+- [00:23:05,879 - 00:23:06,440] Yeah.
+- [00:23:06,560 - 00:23:08,930] Well, to answer that one, I mean, as
+- [00:23:08,930 - 00:23:11,300] Bob has said before, right, like we're a startup.
+- [00:23:11,300 - 00:23:12,300] So like underfunded.
+- [00:23:12,300 - 00:23:14,620] And that's kind of redundant.
+- [00:23:15,220 - 00:23:17,819] The benefits comes out to like the
+- [00:23:17,819 - 00:23:20,419] payout comes out if we make it.
+- [00:23:20,760 - 00:23:21,120] Right.
+- [00:23:21,200 - 00:23:22,620] You're going to get stock options.
+- [00:23:22,680 - 00:23:25,980] And then the market is like relatively big.
+- [00:23:26,300 - 00:23:27,640] So if we make it, we're
+- [00:23:27,640 - 00:23:28,980] going to be like financially stable.
+- [00:23:29,080 - 00:23:29,879] You're going to have that.
+- [00:23:30,520 - 00:23:35,870] And from like my pitch, I think I was trying to center it around the technologies
+- [00:23:35,870 - 00:23:41,220] and the challenges that you're going to have and that you're going to face as an engineer.
+- [00:23:41,639 - 00:23:42,180] So.
+- [00:23:42,300 - 00:23:44,800] To bring this to market, we have to go.
+- [00:23:45,480 - 00:23:47,419] We have to work with like DevOps.
+- [00:23:47,700 - 00:23:47,879] Right.
+- [00:23:47,879 - 00:23:49,320] There are a lot of issues with DevOps.
+- [00:23:49,320 - 00:23:52,860] We have to make these service public to people.
+- [00:23:53,100 - 00:23:57,300] We also just like infrastructure, security deployments.
+- [00:23:57,360 - 00:24:00,300] And then there's also a lot of machine
+- [00:24:00,300 - 00:24:03,240] learning that comes into it and then deep learning.
+- [00:24:03,240 - 00:24:05,819] So like if you want to gain
+- [00:24:05,819 - 00:24:08,399] experience, hands on experience working with like technology.
+- [00:24:09,419 - 00:24:11,120] Let's take one more comment.
+- [00:24:11,220 - 00:24:11,919] And.
+- [00:24:12,300 - 00:24:14,540] Then I'll offer a quick one as well.
+- [00:24:15,360 - 00:24:16,060] Good reply.
+- [00:24:16,260 - 00:24:16,980] But go ahead.
+- [00:24:17,399 - 00:24:17,639] Yep.
+- [00:24:21,800 - 00:24:22,300] Hi.
+- [00:24:23,580 - 00:24:23,860] Okay.
+- [00:24:23,919 - 00:24:26,020] I didn't exactly understand.
+- [00:24:26,879 - 00:24:29,020] What is the unique thing that you're working?
+- [00:24:29,820 - 00:24:30,060] Okay.
+- [00:24:30,060 - 00:24:30,620] I know that.
+- [00:24:32,040 - 00:24:33,540] I know that we do anything.
+- [00:24:33,899 - 00:24:35,399] And everything.
+- [00:24:35,800 - 00:24:38,399] But then what was he trying to do?
+- [00:24:38,580 - 00:24:39,840] What's the value of the country?
+- [00:24:40,379 - 00:24:40,680] And.
+- [00:24:41,040 - 00:24:41,340] Okay.
+- [00:24:41,639 - 00:24:41,940] Okay.
+- [00:24:41,940 - 00:24:42,180] Okay.
+- [00:24:42,180 - 00:24:42,240] Okay.
+- [00:24:42,240 - 00:24:42,280] Okay.
+- [00:24:42,320 - 00:24:42,720] Okay.
+- [00:24:42,760 - 00:24:43,060] Okay.
+- [00:24:43,560 - 00:24:43,800] And then.
+- [00:24:43,800 - 00:24:55,390] And then there are also, you know,
+- [00:24:55,390 - 00:25:06,980] kind of more 14 BS, obviously the
+- [00:25:07,300 - 00:25:10,899] leads to in-person activities would fall back a lot.
+- [00:25:11,240 - 00:25:11,440] Right?
+- [00:25:11,440 - 00:25:16,440] from some customers we have, a regular shoot for them,
+- [00:25:16,840 - 00:25:20,140] they just do promotional videos for within their companies.
+- [00:25:20,140 - 00:25:22,100] It takes them two hours just
+- [00:25:22,100 - 00:25:24,060] to get a 10 minutes video out.
+- [00:25:25,080 - 00:25:27,260] And the video's relatively simple.
+- [00:25:27,260 - 00:25:29,980] It's just one person communicating information
+- [00:25:29,980 - 00:25:30,940] for the company.
+- [00:25:32,900 - 00:25:37,900] With generative AI, we can just model that.
+- [00:25:37,900 - 00:25:41,100] And then just take the pitch of whatever the person
+- [00:25:41,100 - 00:25:44,300] wants to communicate and generate the video.
+- [00:25:44,300 - 00:25:46,159] We do it in like 30 seconds.
+- [00:25:46,159 - 00:25:47,649] So just save a lot
+- [00:25:47,649 - 00:25:49,139] of time, and then video editors
+- [00:25:49,139 - 00:25:51,600] can get to do what they do the best,
+- [00:25:51,600 - 00:25:54,260] which is just editing the video and putting it together
+- [00:25:54,260 - 00:25:56,699] without having to go through the struggle
+- [00:25:56,699 - 00:25:59,540] of recording and all of that.
+- [00:25:59,540 - 00:26:00,780] Okay, let me stop you.
+- [00:26:00,780 - 00:26:01,879] That was a benefit.
+- [00:26:03,219 - 00:26:05,600] So let me, may I take a 30 second crack
+- [00:26:05,600 - 00:26:07,120] at giving your pitch?
+- [00:26:07,120 - 00:26:07,959] Yes.
+- [00:26:09,780 - 00:26:10,780] We have a startup
+- [00:26:10,780 - 00:26:12,740] that's tackling an unmet need
+- [00:26:12,740 - 00:26:14,700] in the world of video editing.
+- [00:26:14,700 - 00:26:19,220] We have some technology which, if it works properly,
+- [00:26:19,220 - 00:26:22,360] will enormously decrease the time and the headache
+- [00:26:22,360 - 00:26:25,700] associated with doing video editing.
+- [00:26:25,700 - 00:26:27,220] But we need engineers.
+- [00:26:27,220 - 00:26:30,080] We need engineers who understand the technology.
+- [00:26:30,080 - 00:26:32,100] More importantly, we need people
+- [00:26:32,100 - 00:26:34,340] who really wanna make a difference.
+- [00:26:34,340 - 00:26:37,300] People who've gone through a program, learned a lot,
+- [00:26:37,300 - 00:26:40,560] had developed some real skills, and don't wanna go
+- [00:26:40,560 - 00:26:42,320] into the world of video editing.
+- [00:26:42,320 - 00:26:45,440] People who don't wanna be one of 40,000 employees
+- [00:26:45,440 - 00:26:47,060] in a great big company.
+- [00:26:47,060 - 00:26:48,770] If you wanna come somewhere
+- [00:26:48,770 - 00:26:50,480] where you can make a difference,
+- [00:26:50,480 - 00:26:51,320] come talk to me.
+- [00:26:51,320 - 00:26:52,159] Woo.
+- [00:26:56,159 - 00:27:00,080] There is a technique, a technology associated with this.
+- [00:27:00,080 - 00:27:01,679] Thank you, let's give the man a hand.
+- [00:27:06,480 - 00:27:07,320] Someone else?
+- [00:27:10,560 - 00:27:11,560] You missed your name?
+- [00:27:13,320 - 00:27:15,320] Hi, I'm Subhash Sadu.
+- [00:27:16,560 - 00:27:17,520] I'm sorry, I missed your name?
+- [00:27:17,520 - 00:27:18,480] Subhash.
+- [00:27:18,480 - 00:27:19,480] Okay, Subhash.
+- [00:27:19,480 - 00:27:20,740] Tell us a little bit
+- [00:27:20,740 - 00:27:22,000] about your company before you pitch.
+- [00:27:22,000 - 00:27:25,919] Yeah, so we are a medical imaging company
+- [00:27:25,919 - 00:27:28,659] who build extremely low cost,
+- [00:27:28,659 - 00:27:31,399] high quality ultrasound devices.
+- [00:27:31,399 - 00:27:35,000] Extremely high quality, low cost what?
+- [00:27:35,000 - 00:27:36,600] Ultrasound imaging devices.
+- [00:27:36,600 - 00:27:38,100] Okay.
+- [00:27:38,100 - 00:27:40,399] Customers are, well,
+- [00:27:40,560 - 00:27:44,879] doctors who want to know more about what's happening
+- [00:27:44,879 - 00:27:46,840] inside the patient, but don't have access
+- [00:27:46,840 - 00:27:49,120] to ultrasound devices.
+- [00:27:49,120 - 00:27:50,990] And in some cases, patients who
+- [00:27:50,990 - 00:27:52,860] want to use it at home.
+- [00:27:54,379 - 00:27:55,840] Okay.
+- [00:27:55,840 - 00:27:56,960] And so who are we?
+- [00:27:56,960 - 00:27:58,679] You're about to give a presentation.
+- [00:27:58,679 - 00:28:00,639] Are we prospective employees?
+- [00:28:00,639 - 00:28:01,960] Are we investors?
+- [00:28:01,960 - 00:28:04,659] Are we hospitals who could be your customer?
+- [00:28:05,520 - 00:28:07,190] So yeah, I'm practicing to
+- [00:28:07,190 - 00:28:08,860] pitch to investors at this point.
+- [00:28:08,860 - 00:28:09,720] Okay.
+- [00:28:09,720 - 00:28:11,220] And your goal is to raise capital?
+- [00:28:11,220 - 00:28:12,060] Yes.
+- [00:28:12,060 - 00:28:12,900] Okay.
+- [00:28:12,900 - 00:28:14,900] So all of you people are hereby rich.
+- [00:28:15,820 - 00:28:18,540] And congratulations, course is now over.
+- [00:28:19,740 - 00:28:21,880] And you are gonna make up your mind
+- [00:28:21,880 - 00:28:23,380] whether or not you will put
+- [00:28:23,380 - 00:28:24,880] some of your hard earned funding
+- [00:28:24,880 - 00:28:26,480] into this gentleman's venture.
+- [00:28:26,480 - 00:28:27,320] Yes?
+- [00:28:27,320 - 00:28:28,440] Three minutes.
+- [00:28:28,440 - 00:28:30,520] And you can see the timer there.
+- [00:28:30,520 - 00:28:31,360] Go.
+- [00:28:31,360 - 00:28:32,440] Thanks.
+- [00:28:32,440 - 00:28:33,280] All right.
+- [00:28:33,280 - 00:28:35,120] So yeah.
+- [00:28:35,120 - 00:28:39,640] Who here does not like going to hospitals?
+- [00:28:39,720 - 00:28:42,620] Like show of hands.
+- [00:28:42,620 - 00:28:44,160] Who does not like hospitals?
+- [00:28:44,160 - 00:28:45,920] Like the rest of you like hospitals?
+- [00:28:45,920 - 00:28:46,760] Yeah.
+- [00:28:46,760 - 00:28:47,600] Okay.
+- [00:28:47,600 - 00:28:50,000] Well, thanks.
+- [00:28:50,000 - 00:28:51,260] Yeah.
+- [00:28:51,260 - 00:28:53,100] Well, I'm sure most of you don't like it.
+- [00:28:53,100 - 00:28:56,140] But it's even harder if you're old,
+- [00:28:56,140 - 00:28:58,980] or if you're sick, or if you're pregnant.
+- [00:28:58,980 - 00:29:02,680] And in fact, yeah, imagine a pregnant woman
+- [00:29:02,680 - 00:29:07,680] who also suffers from hypertension or chronic stress, right?
+- [00:29:08,500 - 00:29:09,700] And she's not alone.
+- [00:29:09,700 - 00:29:12,980] This is like six to 8% of pregnancies.
+- [00:29:12,980 - 00:29:17,100] So that's like 200,000 pregnancies a year in the US.
+- [00:29:17,100 - 00:29:21,220] And these people visit the hospital frequently.
+- [00:29:21,220 - 00:29:23,280] So think about this.
+- [00:29:23,280 - 00:29:26,980] Seeking healthcare actually increases their stress level.
+- [00:29:26,980 - 00:29:28,780] And this is counterproductive, right?
+- [00:29:30,000 - 00:29:32,760] And besides the stress of just going to the hospital,
+- [00:29:32,760 - 00:29:35,200] they're giving up a day's work.
+- [00:29:35,200 - 00:29:36,280] So they're losing pay,
+- [00:29:36,280 - 00:29:38,100] and they're sometimes losing credibility
+- [00:29:38,100 - 00:29:39,560] for taking dimorphine.
+- [00:29:39,700 - 00:29:43,180] And they're losing their money from the work.
+- [00:29:43,180 - 00:29:45,240] So what's the ideal solution here?
+- [00:29:45,240 - 00:29:49,440] The ideal solution is to be able to perform,
+- [00:29:49,440 - 00:29:52,300] like seek whatever healthcare that's happening
+- [00:29:52,300 - 00:29:54,980] in the hospital at home, right?
+- [00:29:54,980 - 00:29:57,900] And what happens in the hospital is typically
+- [00:29:57,900 - 00:30:00,700] an ultrasound scan that monitors the progress
+- [00:30:00,700 - 00:30:02,340] of the pregnancy.
+- [00:30:02,340 - 00:30:04,200] So what are we saying here?
+- [00:30:04,200 - 00:30:06,300] We are saying the ideal solution is
+- [00:30:06,300 - 00:30:08,480] if they can perform an ultrasound scan at home.
+- [00:30:08,480 - 00:30:09,480] Or in other words, I'm talking about telehealth.
+- [00:30:09,480 - 00:30:12,820] Now we've all heard about telehealth.
+- [00:30:12,820 - 00:30:15,880] But today, telehealth at a technology level
+- [00:30:15,880 - 00:30:18,100] is just a glorified video call
+- [00:30:18,100 - 00:30:21,140] and instant messaging with doctors, right?
+- [00:30:21,140 - 00:30:24,200] There is no diagnostic capability built in,
+- [00:30:24,200 - 00:30:25,960] which means the doctor isn't
+- [00:30:25,960 - 00:30:27,720] able to look into the patient
+- [00:30:27,720 - 00:30:29,620] and understand what's happening.
+- [00:30:30,740 - 00:30:34,380] We are building an ultrasound imaging technology
+- [00:30:34,380 - 00:30:38,580] which solves all the problems that's needed to bring
+- [00:30:38,580 - 00:30:39,460] diagnostic imaging technology to the patient.
+- [00:30:39,480 - 00:30:41,140] And we're also building a new hardware architecture
+- [00:30:41,140 - 00:30:44,140] that lets us make high quality devices at low cost.
+- [00:30:44,140 - 00:30:47,140] And a software layer on top of this hardware platform
+- [00:30:47,140 - 00:30:49,140] lets us deploy it to new applications
+- [00:30:49,140 - 00:30:51,140] as and when we uncover them.
+- [00:30:51,140 - 00:30:56,140] And AI guided protocol helps an untrained person
+- [00:30:56,140 - 00:30:58,140] be able to perform scans
+- [00:30:58,140 - 00:31:00,140] which are medically relevant, right?
+- [00:31:00,140 - 00:31:01,720] So we're covering all of that.
+- [00:31:01,720 - 00:31:03,640] And we're also looking at the potential
+- [00:31:03,640 - 00:31:06,020] for the AI to be able to perform scans
+- [00:31:06,020 - 00:31:07,820] that are medically relevant, right?
+- [00:31:07,820 - 00:31:08,680] So we're covering all of that.
+- [00:31:08,680 - 00:31:08,750] So we're also looking at the potential for the AI
+- [00:31:08,750 - 00:31:08,820] to be able to perform scans which are medically relevant, right?
+- [00:31:08,820 - 00:31:11,159] So we're covering all of that.
+- [00:31:11,159 - 00:31:12,379] So we're covering all of that.
+- [00:31:12,379 - 00:31:14,679] So we're covering all bases there.
+- [00:31:14,679 - 00:31:16,480] And there are ultrasound scanners on the market,
+- [00:31:16,480 - 00:31:20,060] but they all have one problem or the other.
+- [00:31:20,060 - 00:31:21,080] Some are too expensive.
+- [00:31:21,080 - 00:31:22,320] The ones which are not that expensive
+- [00:31:22,320 - 00:31:25,360] are not good enough in quality.
+- [00:31:25,360 - 00:31:27,179] Some are quite bulky,
+- [00:31:27,179 - 00:31:28,319] and almost all of them are
+- [00:31:28,319 - 00:31:29,460] too hard for people to use
+- [00:31:29,460 - 00:31:32,500] and like provide a useful scan, right?
+- [00:31:32,500 - 00:31:33,240] So, yeah.
+- [00:31:34,500 - 00:31:36,580] Time's up.
+- [00:31:36,580 - 00:31:37,659] Sorry, that's harsh.
+- [00:31:37,659 - 00:31:38,560] Give him a hand.
+- [00:31:38,820 - 00:31:42,040] I have been in pitch contests where they say you have
+- [00:31:42,040 - 00:31:45,260] three minutes or four minutes and they shut your mic off.
+- [00:31:46,159 - 00:31:48,919] I mean, it's harsh. It's brutal, but you're up there.
+- [00:31:50,700 - 00:31:53,620] So there's a certain discipline associated with
+- [00:31:54,439 - 00:31:57,119] making it into the time frame. Okay,
+- [00:31:57,119 - 00:31:59,800] your comments, your thoughts, your critiques, your observations.
+- [00:32:08,820 - 00:32:17,859] The problem right in the beginning was completely rather, I don't know, especially, I get the whole point of getting the
+- [00:32:17,859 - 00:32:26,899] audience engaged, but the question that you asked had absolutely nothing to do with what solution you were trying to show later.
+- [00:32:26,899 - 00:32:30,199] And I guess that's the whole reason
+- [00:32:30,199 - 00:32:33,500] why you wanted to identify your customers there.
+- [00:32:33,879 - 00:32:36,119] And then you started talking about
+- [00:32:36,119 - 00:32:38,360] people going to hospitals, and then
+- [00:32:38,360 - 00:32:38,800] you
+- [00:32:38,800 - 00:32:40,800] somehow
+- [00:32:40,800 - 00:32:42,800] pregnant women, this and that, you got a
+- [00:32:42,800 - 00:32:44,800] whole problem of time. These solutions are there, definitely.
+- [00:32:45,560 - 00:32:48,320] Then if you are teaching this to
+- [00:32:48,320 - 00:32:51,080] investors, what you need as an investor,
+- [00:32:53,300 - 00:32:56,030] what stage is this? Like, is that going to work? Where are
+- [00:32:56,030 - 00:32:58,760] you just going to give up? I don't know. Have you built it?
+- [00:32:58,760 - 00:33:00,760] Working on this? How fast can I mess up?
+- [00:33:00,919 - 00:33:04,980] So I think at any stage, any kind of traction
+- [00:33:05,500 - 00:33:07,000] would be great to understand,
+- [00:33:07,000 - 00:33:08,500] again, from the investor perspective.
+- [00:33:08,800 - 00:33:16,050] I wonder if you can give a little bit about your impressions, if you are in a medical space, how
+- [00:33:16,050 - 00:33:23,300] qualified are you to solve this problem, and how qualified are you to make a comparison to solve this problem?
+- [00:33:23,300 - 00:33:27,300] Because it's been three years, it's a long
+- [00:33:27,300 - 00:33:31,300] time, and we need to hear some of this.
+- [00:33:31,300 - 00:33:33,150] Well, that was one of
+- [00:33:33,150 - 00:33:35,000] the more comprehensive critiques I've heard.
+- [00:33:35,000 - 00:33:36,200] Yeah, thank you.
+- [00:33:36,200 - 00:33:37,500] Well done, thank you.
+- [00:33:37,500 - 00:33:38,659] Did he say anything else?
+- [00:33:38,660 - 00:33:40,660] Anything about who's going to pay for this?
+- [00:33:42,160 - 00:33:44,160] I didn't hear a word about that, right?
+- [00:33:45,160 - 00:33:48,360] Okay. Any other observations?
+- [00:33:50,540 - 00:33:52,540] Sorry, go ahead.
+- [00:33:52,540 - 00:33:56,540] My feedback is, in other words, if I'm the investor, or
+- [00:33:56,540 - 00:34:00,540] a potential investor, I want to understand what the market is.
+- [00:34:00,540 - 00:34:04,040] If you have a feeling of your understanding of the market,
+- [00:34:04,040 - 00:34:07,540] I may have some interest or knowledge on it, or not.
+- [00:34:08,659 - 00:34:10,159] But it has to be attractive to me.
+- [00:34:10,159 - 00:34:13,159] So I want to know that even taking the risk
+- [00:34:13,159 - 00:34:16,159] of investing in your venture would be a good one.
+- [00:34:16,159 - 00:34:22,409] So I want to know a number in terms of the size of the market, what you think your
+- [00:34:22,409 - 00:34:28,659] addressable size of that market is, and then how fast you're going to do it, and how much money.
+- [00:34:28,659 - 00:34:31,159] So how much money do you need, and
+- [00:34:31,159 - 00:34:33,659] how you are going to use those funds.
+- [00:34:33,659 - 00:34:34,909] And you may be sitting out there thinking, how on earth
+- [00:34:34,909 - 00:34:36,159] is he going to pack all of that into a three-minute meeting?
+- [00:34:36,159 - 00:34:36,659] I'm not sure.
+- [00:34:36,659 - 00:34:37,159] I'm not sure.
+- [00:34:37,159 - 00:34:37,659] I'm not sure.
+- [00:34:37,659 - 00:34:38,159] I'm not sure.
+- [00:34:38,159 - 00:34:39,159] I'm not sure.
+- [00:34:39,159 - 00:34:39,659] I'm not sure.
+- [00:34:39,659 - 00:34:40,159] I'm not sure.
+- [00:34:40,159 - 00:34:40,659] I'm not sure.
+- [00:34:40,659 - 00:34:41,159] I'm not sure.
+- [00:34:41,159 - 00:34:41,659] I'm not sure.
+- [00:34:41,659 - 00:34:42,159] I'm not sure.
+- [00:34:42,159 - 00:34:42,659] I'm not sure.
+- [00:34:42,659 - 00:34:43,659] But I have to assume that
+- [00:34:43,659 - 00:34:44,659] you're going to have a three-minute pitch.
+- [00:34:44,659 - 00:34:46,159] Yeah, that's exactly what I'm thinking.
+- [00:34:46,159 - 00:34:46,659] Good.
+- [00:34:46,659 - 00:34:47,159] Stay tuned.
+- [00:34:47,159 - 00:34:49,159] We've got a few answers coming up in a minute.
+- [00:34:49,159 - 00:34:50,159] May I take a 30-second crack at giving your pitch?
+- [00:34:50,159 - 00:34:50,659] Please.
+- [00:34:50,659 - 00:34:53,159] I'm going to make stuff up
+- [00:34:53,159 - 00:34:55,659] because I don't know your business.
+- [00:34:55,659 - 00:35:02,160] So this is fictitious, but there's a paradigm here.
+- [00:35:02,160 - 00:35:04,660] One of the major sources of costs for hospitals who
+- [00:35:04,660 - 00:35:07,160] are financially strapped is the cost of the health care system.
+- [00:35:07,160 - 00:35:07,660] And it's a good thing that
+- [00:35:07,660 - 00:35:08,160] we have a lot of money.
+- [00:35:08,160 - 00:35:10,820] is the constant need to provide
+- [00:35:10,820 - 00:35:13,480] ultrasound to a high-risk group of patients,
+- [00:35:14,000 - 00:35:16,320] typically, for example, the 200,000
+- [00:35:16,320 - 00:35:18,640] pregnant women in the country
+- [00:35:18,640 - 00:35:20,989] who suffer from complications, preeclampsia,
+- [00:35:20,989 - 00:35:23,339] high blood pressure, etc., etc.
+- [00:35:23,500 - 00:35:25,920] One possible solution is telehealth,
+- [00:35:26,060 - 00:35:28,960] but the imaging associated with telehealth is inferior,
+- [00:35:28,960 - 00:35:31,700] and it does not allow for any diagnostics.
+- [00:35:32,200 - 00:35:36,060] We have a technology that provides superior imaging,
+- [00:35:36,060 - 00:35:37,880] allows for diagnostics,
+- [00:35:38,020 - 00:35:40,409] and we have already successfully
+- [00:35:40,409 - 00:35:42,799] managed to get approval for reimbursement
+- [00:35:42,799 - 00:35:44,440] from a couple of insurance companies.
+- [00:35:44,759 - 00:35:47,820] We're raising capital now to roll this out
+- [00:35:47,820 - 00:35:49,870] so that we can expand
+- [00:35:49,870 - 00:35:51,920] the market, build out our team,
+- [00:35:52,020 - 00:35:53,520] and validate the business model.
+- [00:36:00,680 - 00:36:01,980] I'll take your microphone.
+- [00:36:02,640 - 00:36:04,140] Thank you. Give him a hand, please.
+- [00:36:06,060 - 00:36:12,840] Okay, so I think we've established a baseline.
+- [00:36:14,740 - 00:36:16,420] What are your observations?
+- [00:36:16,900 - 00:36:18,620] And by the way, thank you
+- [00:36:18,620 - 00:36:20,340] both for being brave volunteers here.
+- [00:36:24,299 - 00:36:27,020] So, helpful remarks, thoughts?
+- [00:36:28,279 - 00:36:30,669] Was there something that they,
+- [00:36:30,669 - 00:36:33,060] a temptation that they succumbed to,
+- [00:36:33,360 - 00:36:36,040] which you are at risk of succumbing to?
+- [00:36:36,060 - 00:36:36,600] As well?
+- [00:36:38,180 - 00:36:39,320] Back in the back. Yes, sir.
+- [00:36:42,620 - 00:36:44,360] Today's workout continues, Supriya.
+- [00:36:44,980 - 00:36:46,080] I'll start lunging now.
+- [00:36:47,180 - 00:36:48,330] So, I noticed when you
+- [00:36:48,330 - 00:36:49,480] did a lot of your pitches,
+- [00:36:49,759 - 00:36:51,169] you were trying to focus on, like,
+- [00:36:51,169 - 00:36:52,580] each group, like the investor and customer.
+- [00:36:54,180 - 00:36:55,469] And I noticed the temptation a
+- [00:36:55,469 - 00:36:56,759] lot of them had was, like,
+- [00:36:56,840 - 00:36:59,000] it would start out pretty general,
+- [00:36:59,100 - 00:37:00,550] and then it focused on one group, and you
+- [00:37:00,550 - 00:37:02,000] stick with that for the rest of the pitch.
+- [00:37:02,380 - 00:37:03,490] So, you either end up with,
+- [00:37:03,490 - 00:37:04,600] like, a little bit too general,
+- [00:37:04,600 - 00:37:06,040] or, like, very specific,
+- [00:37:06,060 - 00:37:07,810] like, technical details that were,
+- [00:37:07,810 - 00:37:09,560] like, really hard to understand.
+- [00:37:09,560 - 00:37:11,560] And that was not going to be.
+- [00:37:12,259 - 00:37:12,759] Okay.
+- [00:37:12,759 - 00:37:14,759] It was a little more, like, inclusive.
+- [00:37:16,180 - 00:37:19,080] You guys become entrepreneurs
+- [00:37:19,080 - 00:37:21,980] because you've identified a problem,
+- [00:37:22,460 - 00:37:25,680] and you believe that you have cooked up a solution.
+- [00:37:26,779 - 00:37:27,779] That's a story.
+- [00:37:28,779 - 00:37:29,880] Tell us the story.
+- [00:37:30,700 - 00:37:34,580] All right, if I were to give your pitch again,
+- [00:37:35,259 - 00:37:35,980] and I had,
+- [00:37:35,980 - 00:37:37,380] you know, another three minutes,
+- [00:37:37,720 - 00:37:39,120] and didn't have to lie and
+- [00:37:39,120 - 00:37:40,520] make stuff up like I just did,
+- [00:37:41,240 - 00:37:43,560] I would probably say,
+- [00:37:44,220 - 00:37:47,260] Mabel needs to go into the hospital
+- [00:37:47,260 - 00:37:50,300] every two weeks for a routine procedure.
+- [00:37:50,440 - 00:37:51,760] She absolutely hates it.
+- [00:37:52,300 - 00:37:53,600] Parking is terrible.
+- [00:37:53,960 - 00:37:55,520] She hates driving into the city.
+- [00:37:55,600 - 00:37:57,420] It's 45 minutes each way,
+- [00:37:57,620 - 00:38:00,240] and then she has to sit in a
+- [00:38:00,240 - 00:38:02,860] cold room while they put this stuff on her,
+- [00:38:03,240 - 00:38:04,360] and it's awful.
+- [00:38:04,360 - 00:38:06,360] Furthermore, it's expensive.
+- [00:38:09,260 - 00:38:10,260] Right?
+- [00:38:10,860 - 00:38:12,860] So you start to cause people to think,
+- [00:38:12,860 - 00:38:13,360] oh,
+- [00:38:14,240 - 00:38:17,140] my aunt has exactly that problem.
+- [00:38:18,120 - 00:38:21,040] The first check I got for that diabetes
+- [00:38:21,040 - 00:38:23,960] business I talked about last week with you guys
+- [00:38:24,500 - 00:38:27,950] came from an investor whose sister died from
+- [00:38:27,950 - 00:38:31,400] the very condition we were working to prevent.
+- [00:38:32,640 - 00:38:34,100] He really wanted to see me.
+- [00:38:34,100 - 00:38:35,600] He wanted to see us succeed.
+- [00:38:37,100 - 00:38:37,600] Right?
+- [00:38:37,600 - 00:38:39,799] And because of the personal nature,
+- [00:38:41,200 - 00:38:42,200] we got an investment.
+- [00:38:42,200 - 00:38:43,860] I didn't know that going in the door.
+- [00:38:43,860 - 00:38:45,600] I started describing the condition,
+- [00:38:45,600 - 00:38:47,000] and he got kind of wide-eyed.
+- [00:38:47,600 - 00:38:48,100] And as I,
+- [00:38:48,200 - 00:38:48,700] anyway,
+- [00:38:49,600 - 00:38:51,900] telling a story will take you a very long ways.
+- [00:38:52,900 - 00:38:53,400] Okay,
+- [00:38:54,000 - 00:38:54,500] my turn.
+- [00:38:54,500 - 00:38:56,149] I'm going to be a little bit
+- [00:38:56,149 - 00:38:57,799] pedagogic here and talk a little bit.
+- [00:38:58,400 - 00:39:00,700] Few basics that I think can make a big difference.
+- [00:39:00,799 - 00:39:02,799] This is in your source material.
+- [00:39:03,100 - 00:39:04,000] I recommend it.
+- [00:39:04,100 - 00:39:05,100] It's not long.
+- [00:39:05,100 - 00:39:06,100] It's kind of cute.
+- [00:39:06,100 - 00:39:07,100] Watch it.
+- [00:39:08,600 - 00:39:09,100] Okay,
+- [00:39:09,100 - 00:39:11,100] understanding your audience.
+- [00:39:11,100 - 00:39:12,100] What,
+- [00:39:12,100 - 00:39:14,100] which do they care more about?
+- [00:39:14,100 - 00:39:16,100] You or themselves?
+- [00:39:16,100 - 00:39:17,600] If you get this wrong,
+- [00:39:17,600 - 00:39:19,100] give up now.
+- [00:39:20,100 - 00:39:21,100] It's over.
+- [00:39:22,100 - 00:39:22,600] All right.
+- [00:39:22,600 - 00:39:24,850] So should your goal be to
+- [00:39:24,850 - 00:39:27,100] persuade them that you're really smart?
+- [00:39:29,100 - 00:39:32,100] Or that your technology is really awesome?
+- [00:39:32,100 - 00:39:37,600] Or that your vision is really compelling?
+- [00:39:39,100 - 00:39:40,100] Sidebar.
+- [00:39:40,100 - 00:39:46,100] If you have visionary on your LinkedIn profile,
+- [00:39:47,100 - 00:39:48,100] don't do it.
+- [00:39:49,100 - 00:39:50,100] Don't do it.
+- [00:39:50,100 - 00:39:52,100] Investors are cynical and they say,
+- [00:39:52,100 - 00:39:53,100] you got to be kidding me.
+- [00:39:53,100 - 00:39:55,100] You're a grad student.
+- [00:39:57,100 - 00:39:58,100] Sidebar.
+- [00:39:58,100 - 00:39:59,100] Okay.
+- [00:39:59,100 - 00:40:00,100] The answer is,
+- [00:40:00,100 - 00:40:01,100] yeah,
+- [00:40:01,100 - 00:40:03,600] but only if those things
+- [00:40:03,600 - 00:40:06,100] give me a reason to believe
+- [00:40:06,100 - 00:40:09,100] that you can deliver the benefits.
+- [00:40:10,100 - 00:40:12,100] So talk benefits first.
+- [00:40:13,100 - 00:40:14,100] So,
+- [00:40:18,100 - 00:40:19,600] I hypothesized that every one
+- [00:40:19,600 - 00:40:21,100] of you has a cell phone
+- [00:40:21,100 - 00:40:23,600] and at some point during each week,
+- [00:40:23,600 - 00:40:27,100] you worry because your cell phone battery is about out
+- [00:40:27,100 - 00:40:28,100] and it's annoying.
+- [00:40:28,100 - 00:40:30,100] And what I have is a magic code word.
+- [00:40:30,100 - 00:40:34,540] code word which if I give you your
+- [00:40:34,540 - 00:40:38,980] cell phone will be instantly recharged. So are
+- [00:40:38,980 - 00:40:41,950] you interested? Right? And you may not be
+- [00:40:41,950 - 00:40:44,920] but you see my point is I didn't talk
+- [00:40:44,920 - 00:40:47,490] about my technology at all. What I
+- [00:40:47,490 - 00:40:50,060] talked about was the benefit. Now why would
+- [00:40:50,060 - 00:40:52,270] you believe that? Because we have genius
+- [00:40:52,270 - 00:40:54,480] engineers and etc etc but talk benefits
+- [00:40:54,480 - 00:40:57,170] first then reason to believe
+- [00:40:57,170 - 00:40:59,860] and remember almost everyone you're talking
+- [00:40:59,860 - 00:41:03,820] to has as a first priority how's this going
+- [00:41:03,820 - 00:41:07,780] to help me what's in it for me? So
+- [00:41:07,780 - 00:41:13,940] this idea is not new. I'm about to tell
+- [00:41:13,940 - 00:41:20,100] you a pitch from about the year 1501 . So
+- [00:41:20,100 - 00:41:23,100] Duke, I've been looking at all
+- [00:41:23,100 - 00:41:26,100] these inventions by people who claim they're
+- [00:41:26,100 - 00:41:27,950] really good at it and frankly they're
+- [00:41:27,950 - 00:41:29,800] no big deal. They're no different. For
+- [00:41:29,800 - 00:41:32,120] anything else that's commonly on the market. Let me tell
+- [00:41:32,120 - 00:41:34,440] you what I can do for you. I can make
+- [00:41:34,440 - 00:41:37,520] bridges that are light and strong and portable
+- [00:41:37,520 - 00:41:40,600] with which you can pursue and defeat your enemy,
+- [00:41:40,600 - 00:41:43,240] and they will resist fire and assault. Furthermore, I
+- [00:41:43,240 - 00:41:45,880] can burn and destroy the ones that the enemies
+- [00:41:45,880 - 00:41:48,960] got. In a case of siege, if we're holding them
+- [00:41:48,960 - 00:41:52,040] siege, I can cut off their water. And if they are
+- [00:41:52,040 - 00:41:54,440] way up in the air and we can't bomb them
+- [00:41:54,440 - 00:41:56,840] properly, that's okay. I can knock their building down from
+- [00:41:56,840 - 00:42:00,640] the bottom. I can also make a kind of
+- [00:42:00,640 - 00:42:04,440] cannon that's light, easy to transport. It will hurl
+- [00:42:04,440 - 00:42:09,120] small stones like hail, causing great terror to the
+- [00:42:09,120 - 00:42:13,800] enemy. And if all else fails, we can create
+- [00:42:13,800 - 00:42:17,480] subterranean passages, either under rivers, under
+- [00:42:17,480 - 00:42:21,160] moats, whatever. I can make armored wagons,
+- [00:42:21,160 - 00:42:23,640] and I can also construct cannons and mortars.
+- [00:42:25,720 - 00:42:26,200] And when that cannon is laid, it will destroy
+- [00:42:26,200 - 00:42:26,680] all the other cannons. And if you have a cannon,
+- [00:42:26,680 - 00:42:26,720] it will destroy the other cannons, and if you
+- [00:42:26,720 - 00:42:26,760] have a cannon, it will destroy the other cannons.
+- [00:42:26,760 - 00:42:26,790] Then you have a cannon, and you have a cannon,
+- [00:42:26,790 - 00:42:26,820] and you have a cannon, and you have a cannon.
+- [00:42:26,820 - 00:42:31,170] that's impossible. I can supply trebuchets, catapults,
+- [00:42:31,170 - 00:42:35,520] etc. And if it happens to be at
+- [00:42:35,520 - 00:42:38,920] sea, no problem. I can take care of that as
+- [00:42:38,920 - 00:42:42,320] well. And by the way, I'm pretty good at working
+- [00:42:42,320 - 00:42:44,640] in marble and clay and I've been known to
+- [00:42:44,640 - 00:42:46,960] paint some things now and then. And if you
+- [00:42:46,960 - 00:42:49,210] don't believe me, I'm happy to demonstrate
+- [00:42:49,210 - 00:42:51,460] this right in front of you, respectfully,
+- [00:42:51,460 - 00:42:56,790] Leonardo da Vinci. Does the Duke care at all
+- [00:42:56,790 - 00:43:02,120] about the technology? By the time he got through
+- [00:43:02,120 - 00:43:05,210] this, he was so starry-eyed, oh
+- [00:43:05,210 - 00:43:08,300] my God, I want that. Benefits first.
+- [00:43:15,360 - 00:43:17,240] We're going to invite a few of you
+- [00:43:17,240 - 00:43:19,120] back down here again because you're the stars tonight,
+- [00:43:19,120 - 00:43:20,640] but invest some time.
+- [00:43:21,460 - 00:43:24,790] If you understand what your audience really
+- [00:43:24,790 - 00:43:28,120] wants and think about it, and it actually
+- [00:43:28,120 - 00:43:30,470] helps if you care a little bit about their
+- [00:43:30,470 - 00:43:32,820] needs. So if you happen to have a passion
+- [00:43:32,820 - 00:43:36,180] for improving public school education and
+- [00:43:36,180 - 00:43:39,540] you have a technology that will facilitate
+- [00:43:39,540 - 00:43:42,220] that, you will speak with more animation
+- [00:43:42,220 - 00:43:44,900] than if you're just describing something that's
+- [00:43:44,900 - 00:43:47,990] kind of abstract. And a sequence
+- [00:43:47,990 - 00:43:51,080] that I find to be effective.
+- [00:43:51,080 - 00:43:51,260] Many times, most Heinrich позizyt Vlad arose in
+- [00:43:51,260 - 00:43:51,440] Rogersburg or why I find it unusual to
+- [00:43:51,440 - 00:43:51,450] not lie so much, we never know the implications
+- [00:43:51,450 - 00:43:51,460] of the force of the laws, therefore we don't
+- [00:43:51,460 - 00:43:55,690] is a little introduction. Ask them what they're
+- [00:43:55,690 - 00:43:59,920] looking for. You know, we only do mezzanine
+- [00:43:59,920 - 00:44:02,350] financing. I'm looking for companies that are
+- [00:44:02,350 - 00:44:04,780] ready for mezzanine financing. Well, I'm a startup.
+- [00:44:04,940 - 00:44:08,930] We're not a good fit. Sorry, there's a little
+- [00:44:08,930 - 00:44:12,920] prompt on there. I was the recipient of one of
+- [00:44:12,920 - 00:44:16,110] the most awesome sales pitches ever. It was a
+- [00:44:16,110 - 00:44:19,300] bunch of years ago. I'd been a scruffy entrepreneur
+- [00:44:19,300 - 00:44:22,030] in Chicago. I moved to California to take a
+- [00:44:22,030 - 00:44:24,760] respectable job in that company I told you about
+- [00:44:24,760 - 00:44:28,660] a week ago, and I didn't have the right
+- [00:44:28,660 - 00:44:32,560] clothes. And my wife said, well, there's this shopping mall
+- [00:44:32,560 - 00:44:35,390] called Fashion Island. We were in Orange County,
+- [00:44:35,390 - 00:44:38,220] California, where there is less than meets the eye.
+- [00:44:38,960 - 00:44:42,140] And there's a new store chain called Nordstrom.
+- [00:44:42,140 - 00:44:45,320] Let's go in there, and who knows, maybe they'll
+- [00:44:45,320 - 00:44:47,700] have something for you. Okay.
+- [00:44:48,660 - 00:44:48,800] So.
+- [00:44:49,300 - 00:44:52,430] And we went, and I'm over sort of thumbing through
+- [00:44:52,430 - 00:44:55,560] some of the garments, and a sales guy comes up and
+- [00:44:55,560 - 00:44:58,410] says, you're looking at suits. I said, yeah.
+- [00:44:58,410 - 00:45:01,260] He said, what kind of work do you do?
+- [00:45:03,340 - 00:45:05,680] I said, well, I work for this healthcare
+- [00:45:05,680 - 00:45:08,020] company. Well, are you in manufacturing? Are you in
+- [00:45:08,020 - 00:45:10,550] finance? No, I'm in marketing, doing some
+- [00:45:10,550 - 00:45:13,080] sales. So you don't have to wear like
+- [00:45:13,080 - 00:45:15,950] relentlessly gray suits and, you know,
+- [00:45:15,950 - 00:45:18,820] white shirts and stuff. No. All right.
+- [00:45:19,300 - 00:45:23,240] Well, you're probably a 40 regular. How'd you
+- [00:45:23,240 - 00:45:27,180] know? Well, yeah, I'm in the business, right? So
+- [00:45:27,180 - 00:45:31,280] try this on.
+- [00:45:34,280 - 00:45:36,920] When I got out of the dressing room wearing it,
+- [00:45:36,920 - 00:45:39,560] he had two more suits laid out on a table.
+- [00:45:40,060 - 00:45:42,770] And he said, you know, that suit would
+- [00:45:42,770 - 00:45:45,480] look great with these shirts. And of course,
+- [00:45:45,480 - 00:45:46,620] you're going to need some ties.
+- [00:45:48,380 - 00:45:48,780] So.
+- [00:45:49,300 - 00:45:51,280] I had the shirt and the tie on, too. Pretty
+- [00:45:51,280 - 00:45:53,260] soon, I'm standing in front of the mirror thinking, man,
+- [00:45:53,300 - 00:45:56,370] I look awesome. I walked out of there having spent
+- [00:45:56,370 - 00:45:59,440] about five times as much money as I expected to
+- [00:45:59,440 - 00:46:03,160] spend, and I loved it. Because he asked me, what
+- [00:46:03,160 - 00:46:06,880] did I want? Right? And he gave it to me.
+- [00:46:08,920 - 00:46:12,120] So. Tell your audience why what you have
+- [00:46:12,120 - 00:46:15,320] will be great for them, and then provide support.
+- [00:46:15,500 - 00:46:17,090] And he did go on to
+- [00:46:17,090 - 00:46:18,680] say, well, that suit will last forever.
+- [00:46:19,300 - 00:46:20,990] Notice how the buttonholes are sewn
+- [00:46:20,990 - 00:46:22,680] up nicely and it won't fray.
+- [00:46:22,680 - 00:46:24,100] And it didn't matter.
+- [00:46:24,100 - 00:46:26,700] I mean, sure, that was the justification.
+- [00:46:26,700 - 00:46:27,830] I wanted the suit because I
+- [00:46:27,830 - 00:46:28,960] thought it made me look awesome.
+- [00:46:31,420 - 00:46:33,970] Oh, you need to be
+- [00:46:33,970 - 00:46:36,520] believable when you give your pitch.
+- [00:46:37,360 - 00:46:39,040] So what helps you be believable?
+- [00:46:39,400 - 00:46:42,130] Well, conviction and enthusiasm, but
+- [00:46:42,130 - 00:46:44,860] not to the point of lunacy.
+- [00:46:45,460 - 00:46:48,540] Because if you're a lunatic, investors worry about you.
+- [00:46:48,540 - 00:46:50,920] They say, well, you're going to sit
+- [00:46:50,920 - 00:46:53,300] there like this, never take feedback from anybody.
+- [00:46:54,000 - 00:46:58,150] And my kid brother once started a
+- [00:46:58,150 - 00:47:02,300] business making salsa, sweet and sassy salsa.
+- [00:47:02,580 - 00:47:04,830] And he would go to places and set up
+- [00:47:04,830 - 00:47:07,080] a booth, and people would come up, and they'd say,
+- [00:47:07,580 - 00:47:09,580] wow, it's too hot.
+- [00:47:10,140 - 00:47:11,370] And my brother would say, what do
+- [00:47:11,370 - 00:47:12,600] you mean it's too hot? It's perfect.
+- [00:47:14,259 - 00:47:15,680] Did he get the sale? No.
+- [00:47:17,660 - 00:47:18,100] Right?
+- [00:47:18,540 - 00:47:19,420] Don't be a lunatic.
+- [00:47:19,779 - 00:47:21,300] Provide supporting evidence.
+- [00:47:22,900 - 00:47:25,260] And brevity is your friend because
+- [00:47:25,260 - 00:47:27,620] everybody you talk to is busy.
+- [00:47:28,420 - 00:47:30,020] So three tips for brevity.
+- [00:47:31,140 - 00:47:31,860] Be clear.
+- [00:47:32,920 - 00:47:33,600] Be brief.
+- [00:47:34,420 - 00:47:34,920] And shut up.
+- [00:47:39,340 - 00:47:40,900] How much information is right?
+- [00:47:40,900 - 00:47:43,390] Well, here's another tip for those of
+- [00:47:43,390 - 00:47:45,880] you who are about to come down front.
+- [00:47:47,120 - 00:47:48,080] Ask yourself.
+- [00:47:48,080 - 00:47:48,520] What do you need?
+- [00:47:48,520 - 00:47:49,759] What do you want them to remember?
+- [00:47:51,040 - 00:47:53,080] So turn your computer off and ask yourself.
+- [00:47:53,440 - 00:47:55,780] When they walk out of that meeting
+- [00:47:55,780 - 00:47:58,120] and somebody says, how was Janet's talk?
+- [00:47:59,160 - 00:48:00,800] What do you want them to say?
+- [00:48:02,480 - 00:48:04,380] If they say, ah, Janet was amazing.
+- [00:48:04,500 - 00:48:05,400] She was so animated.
+- [00:48:05,520 - 00:48:06,340] Well, what did she say?
+- [00:48:06,420 - 00:48:07,620] Well, I can't really remember.
+- [00:48:08,280 - 00:48:08,560] Oops.
+- [00:48:09,380 - 00:48:12,260] Okay, so we know that Janet
+- [00:48:12,260 - 00:48:15,140] is animated and energetic and charming.
+- [00:48:16,000 - 00:48:18,460] But we don't have the slightest idea what she said.
+- [00:48:18,580 - 00:48:21,000] So turn your computer off and ask yourself.
+- [00:48:21,000 - 00:48:23,040] What do you want them to say
+- [00:48:23,040 - 00:48:25,080] when they describe your pitch to someone else?
+- [00:48:26,340 - 00:48:27,040] And P.S.
+- [00:48:27,100 - 00:48:29,520] Most of us can't remember more than about three things.
+- [00:48:30,440 - 00:48:33,580] Usually the three things that are most relevant to us.
+- [00:48:34,880 - 00:48:36,040] So, Mr.
+- [00:48:36,040 - 00:48:40,240] Hospital, you're in financial trouble, as all hospitals are.
+- [00:48:40,540 - 00:48:44,290] We have found a way to reduce a major collection
+- [00:48:44,290 - 00:48:48,040] of costs for you and generate additional revenue with some technology.
+- [00:48:48,040 - 00:48:50,220] Technology that we're happy to provide you.
+- [00:48:50,320 - 00:48:50,900] It's reliable.
+- [00:49:00,400 - 00:49:02,740] Well, so what's required to get this right?
+- [00:49:03,220 - 00:49:05,040] Well, some of this we talked about a week ago.
+- [00:49:05,040 - 00:49:06,700] What's broke that you fix?
+- [00:49:07,980 - 00:49:09,860] What is that unmet need?
+- [00:49:10,960 - 00:49:12,520] What are the consequences?
+- [00:49:13,180 - 00:49:15,560] Hence my story about Mabel, who hates coming
+- [00:49:15,560 - 00:49:17,940] into the hospital, doesn't go, doesn't get her diagnosis.
+- [00:49:18,040 - 00:49:20,040] She's all right.
+- [00:49:20,380 - 00:49:22,040] Who ought to have it?
+- [00:49:22,040 - 00:49:24,090] Who in your customer category
+- [00:49:24,090 - 00:49:26,140] is too small? Who's too big?
+- [00:49:26,600 - 00:49:29,490] Why will they think your solution is
+- [00:49:29,490 - 00:49:32,380] better? Structure it, edit it, be ruthless.
+- [00:49:34,160 - 00:49:36,160] This is making sense to you guys?
+- [00:49:38,040 - 00:49:40,040] Yeah, is it terrifying?
+- [00:49:43,440 - 00:49:46,920] A few words about style.
+- [00:49:48,040 - 00:49:50,040] Slow down.
+- [00:49:50,540 - 00:49:54,610] Most of us talk a lot faster in normal
+- [00:49:54,610 - 00:49:58,680] conversational situations than is appropriate when speaking to an audience.
+- [00:49:59,900 - 00:50:03,230] So enunciate clearly. Give your time, your audience
+- [00:50:03,230 - 00:50:06,560] time, to process all those magic things you're saying.
+- [00:50:07,100 - 00:50:09,500] And if you have six minutes worth
+- [00:50:09,500 - 00:50:11,900] of content and a four minute time window,
+- [00:50:12,120 - 00:50:14,260] don't think that you can overcome
+- [00:50:14,260 - 00:50:16,400] your bad editing by talking fast.
+- [00:50:18,040 - 00:50:20,630] Because your audience will end up not understanding
+- [00:50:20,630 - 00:50:23,220] a word you say. It'll be utterly counterproductive.
+- [00:50:25,440 - 00:50:27,790] You can be passionate, but if you fall
+- [00:50:27,790 - 00:50:30,140] on the floor and begin speaking in tongues,
+- [00:50:31,000 - 00:50:33,000] you will have overdone it.
+- [00:50:33,520 - 00:50:37,490] Tell a story. Don't just dump facts. And no disrespect to
+- [00:50:37,490 - 00:50:41,460] you, sir, with your request about total addressable markets and etc.
+- [00:50:41,900 - 00:50:43,900] Fit it into a story.
+- [00:50:44,080 - 00:50:45,840] And in fact,
+- [00:50:45,840 - 00:50:46,840] frequently the goal of your presentation is to
+- [00:50:46,840 - 00:50:47,840] make sure that you're not making a mistake.
+- [00:50:47,840 - 00:50:48,840] And the goal of your presentation
+- [00:50:48,840 - 00:50:49,840] is to get people to say,
+- [00:50:49,840 - 00:50:51,840] yes, I would like to hear more.
+- [00:50:51,840 - 00:50:53,840] And then you say, well,
+- [00:50:53,840 - 00:50:55,840] let me tell you about the addressable
+- [00:50:55,840 - 00:50:57,840] market, our launch strategy, yada yada yada.
+- [00:50:57,840 - 00:50:59,840] But you want to engage their interest up front.
+- [00:51:03,240 - 00:51:06,240] How many of you think that you will
+- [00:51:06,240 - 00:51:09,240] be giving a talk sometime in the next year?
+- [00:51:12,660 - 00:51:14,660] How many of you have ever had
+- [00:51:14,660 - 00:51:16,660] any training on using a microphone properly?
+- [00:51:17,840 - 00:51:19,840] Minority.
+- [00:51:21,840 - 00:51:23,840] A year or two ago,
+- [00:51:25,680 - 00:51:28,910] I was invited by some mass tech transfer
+- [00:51:28,910 - 00:51:32,140] council, somebody or other, to join a pitch contest.
+- [00:51:32,300 - 00:51:35,210] There were 25 teams pitching. There was a room
+- [00:51:35,210 - 00:51:38,120] full of investors, and I thought, well, why not?
+- [00:51:39,900 - 00:51:41,900] And I won.
+- [00:51:42,720 - 00:51:45,180] And I thought, well, of course I won.
+- [00:51:45,180 - 00:51:47,640] You know, my idea is brilliant. I'm brilliant.
+- [00:51:47,840 - 00:51:49,320] My talk was brilliant. My deck
+- [00:51:49,320 - 00:51:50,800] was brilliant. Of course I won.
+- [00:51:50,800 - 00:51:53,400] That didn't have anything to do with why I won.
+- [00:51:53,620 - 00:51:57,490] The reason why I won was I was the only one of
+- [00:51:57,490 - 00:52:01,360] the presenters that the judge and the judges and audience could understand.
+- [00:52:02,580 - 00:52:04,520] Yeah.
+- [00:52:04,520 - 00:52:06,520] Thank you.
+- [00:52:15,460 - 00:52:17,460] Let me elaborate.
+- [00:52:17,840 - 00:52:20,460] Actually, could you shut this mic off? This one?
+- [00:52:21,840 - 00:52:22,840] Thank you.
+- [00:52:22,840 - 00:52:24,840] All right. I'm using this one, I guess.
+- [00:52:25,840 - 00:52:28,840] Okay. Most people, they don't have
+- [00:52:28,840 - 00:52:31,840] any idea how to use this device.
+- [00:52:31,840 - 00:52:34,840] And so they stand there like this and they talk.
+- [00:52:35,840 - 00:52:38,340] Or they talk until they want to decline it, and they would
+- [00:52:38,340 - 00:52:40,840] say this, and they would grab it and tell them to watch.
+- [00:52:40,840 - 00:52:43,340] Or they get really excited and they
+- [00:52:43,340 - 00:52:45,840] get this sort of non-boring kind of joke.
+- [00:52:46,840 - 00:52:49,340] Or maybe they watched Harry Potter and thought, if
+- [00:52:49,340 - 00:52:51,840] they stuck it on the side of their head.
+- [00:52:52,840 - 00:52:54,840] I don't know.
+- [00:52:54,840 - 00:52:58,840] But I do know that I was the only one that
+- [00:52:58,840 - 00:53:02,840] the audience, the judges could understand, and I won the pitch contest.
+- [00:53:02,840 - 00:53:09,340] So, you might want to take a picture of this slide or at the
+- [00:53:09,340 - 00:53:15,840] very least remember it because nobody ever tells you how to do this stuff.
+- [00:53:15,840 - 00:53:19,840] I sat in a meeting earlier today, BMS.
+- [00:53:20,840 - 00:53:22,840] I don't know what anybody else thinks.
+- [00:53:23,840 - 00:53:25,840] Okay, we'll take questions from the audience.
+- [00:53:27,840 - 00:53:32,840] Okay. Some mics, not many, are omnidirectional.
+- [00:53:32,840 - 00:53:34,840] That means that no matter where
+- [00:53:34,840 - 00:53:36,840] you are, they will pick you up.
+- [00:53:36,840 - 00:53:38,840] These are not like that.
+- [00:53:38,840 - 00:53:42,840] And you will rarely use an omnidirectional mic.
+- [00:53:42,840 - 00:53:44,840] These mics are unidirectional.
+- [00:53:45,840 - 00:53:47,840] Which means that they pick you
+- [00:53:47,840 - 00:53:49,840] up down the barrel of the mic.
+- [00:53:49,840 - 00:53:51,840] That's because they know that
+- [00:53:51,840 - 00:53:53,840] in the evenings you're doing this.
+- [00:53:53,840 - 00:53:57,340] And you don't want explosions and flash-hots and
+- [00:53:57,340 - 00:54:00,840] all that stuff coming through the vocal microphone.
+- [00:54:00,840 - 00:54:01,840] Okay.
+- [00:54:01,840 - 00:54:06,840] So, speak down the barrel of the mic.
+- [00:54:06,840 - 00:54:08,840] Not over the top.
+- [00:54:08,840 - 00:54:11,840] Not six or eight inches away.
+- [00:54:11,840 - 00:54:12,840] Okay.
+- [00:54:12,840 - 00:54:13,840] The optimal way to use one
+- [00:54:13,840 - 00:54:14,840] of these things is two or three.
+- [00:54:14,840 - 00:54:17,840] Two to four inches from the microphone.
+- [00:54:17,840 - 00:54:19,840] Think of it as like an ice cream cone.
+- [00:54:19,840 - 00:54:21,840] Speak down the barrel of the mic.
+- [00:54:21,840 - 00:54:24,840] And if you like to point at things, that's fine.
+- [00:54:24,840 - 00:54:27,840] Hold the mic in your other hand.
+- [00:54:27,840 - 00:54:30,840] Otherwise you'll get excited and start doing that.
+- [00:54:30,840 - 00:54:32,840] And you'll lose your legs.
+- [00:54:32,840 - 00:54:36,840] And your audiences, like you guys, if they get bored
+- [00:54:36,840 - 00:54:40,840] for more than about 30 seconds, they'll hold the phone out.
+- [00:54:40,840 - 00:54:41,840] And that's it.
+- [00:54:41,840 - 00:54:42,840] You've lost them.
+- [00:54:42,840 - 00:54:43,840] Speak a little bit.
+- [00:54:44,840 - 00:54:46,840] A little more slowly than usual.
+- [00:54:46,840 - 00:54:50,840] As we said, enunciate clearly.
+- [00:54:50,840 - 00:54:54,840] And when I bring you back up here for talks,
+- [00:54:54,840 - 00:54:58,840] I would love to see that you actually remembered that.
+- [00:54:58,840 - 00:54:59,840] Okay?
+- [00:54:59,840 - 00:55:02,840] Clear enough?
+- [00:55:02,840 - 00:55:09,840] Thanks.
+- [00:55:09,840 - 00:55:10,840] Okay, I'm back on.
+- [00:55:10,840 - 00:55:11,840] Thank you.
+- [00:55:11,840 - 00:55:12,840] All right.
+- [00:55:12,840 - 00:55:13,840] There's an eight-letter word that all my music is about.
+- [00:55:13,840 - 00:55:16,840] It's a word that all my musician
+- [00:55:16,840 - 00:55:19,840] friends, in fact, most of us hate.
+- [00:55:19,840 - 00:55:21,840] Practice.
+- [00:55:21,840 - 00:55:24,340] And that's probably not something you
+- [00:55:24,340 - 00:55:26,840] think about in giving your talks.
+- [00:55:26,840 - 00:55:29,840] But it usually is true that you have
+- [00:55:29,840 - 00:55:32,840] to work very hard to make it look easy.
+- [00:55:32,840 - 00:55:37,340] And if you see a speaker or presenter that makes it look easy, I can pretty well guarantee
+- [00:55:37,340 - 00:55:41,840] you they put in a fair number of hours backstage, behind the scenes, working their way through their talk.
+- [00:55:41,840 - 00:55:47,840] These are new habits.
+- [00:55:47,840 - 00:55:49,840] You're used to talking about
+- [00:55:49,840 - 00:55:51,840] matters of substance, your algorithms, whatever.
+- [00:55:51,840 - 00:55:54,840] And here you are now talking about benefits to a
+- [00:55:54,840 - 00:55:57,840] group of customers and you're trying to tell a story.
+- [00:55:57,840 - 00:55:58,840] So you're retraining yourself.
+- [00:55:58,840 - 00:56:02,840] And that takes a little while.
+- [00:56:02,840 - 00:56:05,340] And I have been in places where people thought
+- [00:56:05,340 - 00:56:07,840] I'd lost my mind, actually a fair number of places.
+- [00:56:07,840 - 00:56:08,840] But I would go into a conference
+- [00:56:08,840 - 00:56:09,840] room and I would go to a conference.
+- [00:56:09,840 - 00:56:10,840] And I would go in.
+- [00:56:10,840 - 00:56:14,740] and I would give my talk to an empty
+- [00:56:14,740 - 00:56:18,640] room with a timer and if it beeped and I
+- [00:56:18,640 - 00:56:21,800] was only two-thirds of the way through I
+- [00:56:21,800 - 00:56:24,960] think time for some editing. In my really
+- [00:56:24,960 - 00:56:27,520] early days of doing this I would go
+- [00:56:27,520 - 00:56:30,080] find magazines and tear out pictures and this
+- [00:56:30,080 - 00:56:32,950] is sick but I did it and taped
+- [00:56:32,950 - 00:56:35,820] the pictures to the chairs in the room. I
+- [00:56:35,820 - 00:56:39,260] stopped short, no Kardashians, but and I
+- [00:56:39,260 - 00:56:42,700] would give my talk looking at the
+- [00:56:42,700 - 00:56:46,630] pictures because it was new habits, right? I mean
+- [00:56:46,630 - 00:56:50,560] I was an MIT grad what did I know
+- [00:56:50,560 - 00:56:53,270] about this stuff? So give your talk to
+- [00:56:53,270 - 00:56:55,980] an empty room. How many of you have ever
+- [00:56:55,980 - 00:56:59,880] been recorded, heard your voice? Was it
+- [00:56:59,880 - 00:57:03,780] horrifying? Yeah well if you think that's
+- [00:57:03,780 - 00:57:05,780] bad get videoed.
+- [00:57:05,820 - 00:57:09,620] Right you'll need therapy. It's terrible
+- [00:57:09,620 - 00:57:13,420] but it's incredibly therapeutic. See the
+- [00:57:13,420 - 00:57:18,420] first bullet on the page. Questions? So
+- [00:57:18,420 - 00:57:23,420] far so good? Okay let's give a quick
+- [00:57:23,420 - 00:57:27,440] touch on raising venture capital. Just a few
+- [00:57:27,440 - 00:57:31,460] words. Not for the faint of heart. Be
+- [00:57:31,460 - 00:57:33,520] careful what you ask for.
+- [00:57:33,520 - 00:57:35,580] Abandon hope all ye who enter.
+- [00:57:35,580 - 00:57:35,680] you
+- [00:57:35,820 - 00:57:40,730] How many of you have raised venture
+- [00:57:40,730 - 00:57:45,640] capital before? Is this true? Yeah be
+- [00:57:45,640 - 00:57:48,910] careful. We'll share war stories at some
+- [00:57:48,910 - 00:57:52,180] point. Okay getting to see a venture
+- [00:57:52,180 - 00:57:54,920] capitalist. Let's begin at the end of
+- [00:57:54,920 - 00:57:57,660] the story. You could decide you're gonna make
+- [00:57:57,660 - 00:58:00,600] a cold call. They get about 200 of
+- [00:58:00,600 - 00:58:03,540] those a week. They don't ever take them. Those
+- [00:58:03,540 - 00:58:05,580] calls go in the dumpster.
+- [00:58:05,820 - 00:58:08,140] So maybe you look about and say
+- [00:58:08,140 - 00:58:10,460] I can find somebody who knows this
+- [00:58:10,460 - 00:58:13,490] venture capitalist and ask them for
+- [00:58:13,490 - 00:58:16,520] an introduction. That person, if they
+- [00:58:16,520 - 00:58:18,200] already know the venture capitalist, is gonna have
+- [00:58:18,200 - 00:58:19,880] enough lights on to say is this a
+- [00:58:19,880 - 00:58:22,800] good foot. You have software practice
+- [00:58:22,800 - 00:58:25,720] and he only invests in health
+- [00:58:25,720 - 00:58:29,760] care. Sorry. Not a good fit into the dumpster. So if
+- [00:58:29,760 - 00:58:33,800] it is a good fit, then the next question for me is
+- [00:58:33,800 - 00:58:33,820] not in the dumpster?
+- [00:58:33,820 - 00:58:34,150] I'm not sure what was in there. Okay evil aura, oh
+- [00:58:34,150 - 00:58:34,480] I'm looking around, what were the things you said didn't tell me.
+- [00:58:34,480 - 00:58:35,140] Very precisely have you done this anyway?
+- [00:58:35,140 - 00:58:35,800] Yeah. Now you're in the dumpster already
+- [00:58:35,800 - 00:58:38,120] question, and they're too sophisticated to tell you this,
+- [00:58:38,120 - 00:58:40,440] is are you going to make me look bad?
+- [00:58:40,880 - 00:58:42,920] Because if I send my friend the
+- [00:58:42,920 - 00:58:44,960] venture capitalist, somebody who's a complete weenie,
+- [00:58:45,700 - 00:58:48,690] then I lose social capital. So if you're going to
+- [00:58:48,690 - 00:58:51,680] make me look bad, that one goes in the dumpster as
+- [00:58:51,680 - 00:58:55,530] well. But if not, then I might make
+- [00:58:55,530 - 00:58:59,380] the introduction. That happens about twice a week.
+- [00:58:59,380 - 00:59:04,070] So if you can do that, it's better.
+- [00:59:04,070 - 00:59:08,760] Okay? All right. What do investors care about? Well,
+- [00:59:09,040 - 00:59:12,210] your technology, how many schools you went
+- [00:59:12,210 - 00:59:15,380] to, maybe getting back more than they invested.
+- [00:59:16,760 - 00:59:18,160] They'll have some questions.
+- [00:59:20,540 - 00:59:23,890] But all of those things are just proxies
+- [00:59:23,890 - 00:59:27,240] for the two big questions. The two big questions.
+- [00:59:27,240 - 00:59:28,360] And mind you,
+- [00:59:29,380 - 00:59:31,650] you can have five speakers talk to you about how
+- [00:59:31,650 - 00:59:33,920] to put together a pitch deck, you'll get at least
+- [00:59:33,920 - 00:59:36,670] seven or eight opinions. But the two big
+- [00:59:36,670 - 00:59:39,420] questions, which you must never lose sight of,
+- [00:59:39,920 - 00:59:43,970] how will you make money? And how will I
+- [00:59:43,970 - 00:59:48,020] make money? That's really what I want to know.
+- [00:59:48,740 - 00:59:50,360] And if it looks like you don't have
+- [00:59:50,360 - 00:59:51,980] any idea how you're going to make money,
+- [00:59:51,980 - 00:59:53,320] I'm not even going to ask
+- [00:59:53,320 - 00:59:54,660] you the second question, what's the point?
+- [00:59:56,860 - 00:59:58,080] Right? So,
+- [00:59:59,380 - 01:00:12,520] under how will you make money, they will ask you questions like what's broke that you fix? Why is your solution better? Are you en route to finding customers? Tell me about your team? Who's doing marketing? Do you have a
+- [01:00:12,520 - 01:00:25,660] sales paradigm that you're operating? Do you have manufacturers? How about IP protection? If you make a success out of this, can somebody come along and steal it from you? Those are all subordinate to the question, how will you make money?
+- [01:00:26,860 - 01:00:28,440] How will I make money?
+- [01:00:28,440 - 01:00:29,020] Well,
+- [01:00:29,020 - 01:00:30,940] that sort of turns into deal terms.
+- [01:00:31,860 - 01:00:34,390] You know, yes, I'll invest. I only need to own
+- [01:00:34,390 - 01:00:36,920] 97% of your company. How do you feel about that?
+- [01:00:39,740 - 01:00:41,930] What's the probability that you'll have
+- [01:00:41,930 - 01:00:44,120] a profitable exit? Stuff like that.
+- [01:00:45,300 - 01:00:46,080] So far, so good?
+- [01:00:49,160 - 01:00:49,640] Yes?
+- [01:00:49,640 - 01:00:49,700] Yes?
+- [01:00:53,080 - 01:00:58,420] My opinion is no.
+- [01:00:59,020 - 01:01:13,600] My opinion is that they think they know a lot more about that than you do. And so if you come in and say, I expect an exit in two years at a Forex
+- [01:01:13,600 - 01:01:28,180] multiple of our EBITDA, they're going to say, yeah, yeah. Right? In conversations after your initial pitch, you may say, look, I have a few precedent examples of companies like ours who've been acquired recently.
+- [01:01:28,180 - 01:01:28,259] Right?
+- [01:01:29,020 - 01:01:30,140] And here's a range.
+- [01:01:30,600 - 01:01:33,460] And I'm just providing you that as background information.
+- [01:01:34,020 - 01:01:35,710] Because there's so many hurdles you
+- [01:01:35,710 - 01:01:37,400] have to clear before you get there.
+- [01:01:37,700 - 01:01:39,560] But they are nevertheless thinking to themselves,
+- [01:01:39,560 - 01:01:41,420] nobody's ever going to buy this company.
+- [01:01:41,440 - 01:01:42,880] I'll never get out of my investment.
+- [01:01:44,080 - 01:01:46,950] So implicitly, okay, what kind
+- [01:01:46,950 - 01:01:49,820] of capital are you looking for?
+- [01:01:49,820 - 01:01:50,480] How much?
+- [01:01:50,480 - 01:01:51,900] How far will that take you?
+- [01:01:52,180 - 01:01:54,600] How long before you've built a good business?
+- [01:01:55,520 - 01:01:57,660] And of course, how will our firm make money?
+- [01:01:57,700 - 01:01:58,860] What's in it for me?
+- [01:01:58,860 - 01:02:03,140] We're doing verbal presentations tonight, but
+- [01:02:03,140 - 01:02:07,420] still a few words about pitch decks.
+- [01:02:08,160 - 01:02:11,430] Many entrepreneurs use too much jargon, put decks
+- [01:02:11,430 - 01:02:14,700] together that are too long and too technical.
+- [01:02:15,820 - 01:02:17,720] The best decks describe the problem
+- [01:02:17,720 - 01:02:19,620] in the first slide or two.
+- [01:02:20,760 - 01:02:24,760] They focus on the unmet need and how they are meeting it
+- [01:02:24,760 - 01:02:28,760] and show some proof or support for the value that they're creating.
+- [01:02:28,860 - 01:02:34,060] In our prototype, we save the hospital this amount of money and we
+- [01:02:34,060 - 01:02:39,260] save the customer this, I'm sorry, the end user this amount of whatever.
+- [01:02:42,620 - 01:02:44,820] Actually, I can give you an example of that.
+- [01:02:44,820 - 01:02:50,000] I did a 90-day stretch as a temporary CEO for a friend of mine
+- [01:02:50,000 - 01:02:55,180] who had a device that was used in the catheter labs in the hospitals.
+- [01:02:55,180 - 01:02:58,020] Atrial ablation, if you know the space.
+- [01:02:58,020 - 01:03:00,780] And it was pretty cool.
+- [01:03:00,780 - 01:03:03,519] And what we found was that the docs looked
+- [01:03:03,519 - 01:03:06,259] at it and said, I got to have it.
+- [01:03:06,259 - 01:03:08,339] Because it allowed them to do
+- [01:03:08,339 - 01:03:10,420] a better job with the surgeries.
+- [01:03:10,420 - 01:03:12,340] Surgeries were more brief.
+- [01:03:12,340 - 01:03:14,259] Patient recovery was quicker.
+- [01:03:14,259 - 01:03:16,380] Patients were the beneficiaries.
+- [01:03:16,380 - 01:03:17,340] The docs wanted it.
+- [01:03:19,580 - 01:03:22,060] But the patients weren't going to pay for the device
+- [01:03:22,060 - 01:03:24,540] and the docs weren't going to pay for the advice.
+- [01:03:24,540 - 01:03:25,840] We had to go downstairs to talk to the doctors.
+- [01:03:25,840 - 01:03:27,840] We had to go downstairs to talk to the doctors.
+- [01:03:27,840 - 01:03:27,860] We had to go downstairs to talk to the doctors.
+- [01:03:27,860 - 01:03:27,980] We had to go downstairs to talk to the doctors.
+- [01:03:27,980 - 01:03:31,760] And we had to go downstairs to talk to the people in the purchasing department
+- [01:03:31,760 - 01:03:35,540] who promptly gave us a bunch of stuff about, well, you know, we're the mass general.
+- [01:03:35,540 - 01:03:37,870] You should give it to us for free
+- [01:03:37,870 - 01:03:40,200] so you can include us in your customer list.
+- [01:03:41,020 - 01:03:43,360] To which my reaction was, nice try, guys.
+- [01:03:43,940 - 01:03:45,860] How do you feel about predatory practices?
+- [01:03:46,740 - 01:03:47,220] No.
+- [01:03:48,580 - 01:03:53,070] But all of those jokers had had at least two courses in the previous
+- [01:03:53,070 - 01:03:57,560] year on negotiation, which you will learn about in a session immediately following this one.
+- [01:03:57,980 - 01:03:58,500] But all of those jokers had had at least two courses in the previous
+- [01:03:58,500 - 01:03:59,020] year on negotiation, which you will learn about in a session immediately following this one.
+- [01:03:59,020 - 01:04:03,710] What I had to do was figure out how could I thread a
+- [01:04:03,710 - 01:04:08,400] path that would show the customers, the users, pardon me, the patients were beneficiaries.
+- [01:04:08,400 - 01:04:11,060] The docs wanted it and the hospital would want it.
+- [01:04:11,060 - 01:04:12,500] And what I figured out was that I would do
+- [01:04:12,500 - 01:04:13,940] a surgery and set the OR up the way I wanted.
+- [01:04:13,940 - 01:04:15,940] And what I figured out was that I would do
+- [01:04:15,940 - 01:04:17,940] a surgery and set the OR up the way I wanted.
+- [01:04:17,940 - 01:04:19,940] Then you'd come in and do
+- [01:04:19,940 - 01:04:21,940] a surgery and you'd rearrange the OR.
+- [01:04:21,940 - 01:04:24,480] So there was lag time between
+- [01:04:24,480 - 01:04:27,020] my procedure and yours, frequently an hour.
+- [01:04:27,020 - 01:04:27,860] Our device was a little bit longer than the other.
+- [01:04:27,860 - 01:04:30,020] We shortened that enormously.
+- [01:04:30,020 - 01:04:32,000] So what I ended up
+- [01:04:32,000 - 01:04:33,980] saying to the purchasing department was,
+- [01:04:36,920 - 01:04:38,960] the cath lab is one of the few
+- [01:04:38,960 - 01:04:41,000] places in the hospital that actually makes money.
+- [01:04:41,000 - 01:04:43,460] The amount of money you make is
+- [01:04:43,460 - 01:04:45,920] completely dependent on how many procedures you do.
+- [01:04:45,920 - 01:04:47,810] My device will allow you to
+- [01:04:47,810 - 01:04:49,700] do one more procedure per day.
+- [01:04:51,240 - 01:04:53,620] And if I have the arithmetic right,
+- [01:04:53,620 - 01:04:56,000] it will pay for itself in six weeks
+- [01:04:56,000 - 01:04:57,800] and be profitable for the rest of your life.
+- [01:04:57,800 - 01:05:04,250] life. And we went. So that's support or
+- [01:05:04,250 - 01:05:10,700] proof of value. And here's a URL that you
+- [01:05:10,700 - 01:05:12,680] should check out at your convenience.
+- [01:05:12,680 - 01:05:14,660] Okay, remember what I said, your
+- [01:05:14,660 - 01:05:18,830] innovation solves a problem. Tell us a
+- [01:05:18,830 - 01:05:23,000] story. So start with an anecdote. I may
+- [01:05:23,000 - 01:05:25,990] leave this up on the screen while
+- [01:05:25,990 - 01:05:28,980] the next volunteers come down and talk. We've
+- [01:05:28,980 - 01:05:32,230] identified customers who will happily pay
+- [01:05:32,230 - 01:05:35,480] to solve this problem. Here's why
+- [01:05:35,480 - 01:05:37,790] they think our solution is better. We have
+- [01:05:37,790 - 01:05:40,100] a prototype and we need to scale it
+- [01:05:40,100 - 01:05:42,590] up. Or we are already in the marketplace
+- [01:05:42,590 - 01:05:45,080] but we don't have the capital to expand
+- [01:05:45,080 - 01:05:47,260] the manufacturing. Whatever it is, here's
+- [01:05:47,260 - 01:05:49,440] why we are raising capital. What
+- [01:05:49,440 - 01:05:53,000] questions may I answer for you?
+- [01:05:53,000 - 01:05:56,750] Note that I say almost nothing about
+- [01:05:56,750 - 01:06:00,500] the technology. Right? The question is how
+- [01:06:00,500 - 01:06:05,300] will I make money? How will you make
+- [01:06:05,300 - 01:06:10,100] money? Yeah? Your turn. Let's get a few
+- [01:06:10,100 - 01:06:12,780] more stars up here. Your
+- [01:06:12,780 - 01:06:15,460] game? All right, come on down.
+- [01:06:20,660 - 01:06:21,760] Thank you.
+- [01:06:23,000 - 01:06:26,990] Check. Tell us your name. Tell us a
+- [01:06:26,990 - 01:06:30,980] little about your business and then we'll do a
+- [01:06:30,980 - 01:06:34,220] three-minute pitch. Hi, I'm Rita. Good evening.
+- [01:06:34,220 - 01:06:37,460] A bit about my business. So we do
+- [01:06:37,460 - 01:06:40,330] SaaS recommendations to help people
+- [01:06:40,330 - 01:06:43,200] better optimize their tech stack and
+- [01:06:43,200 - 01:06:46,660] work more efficiently and save more
+- [01:06:46,660 - 01:06:50,120] time. And we are prospective investors,
+- [01:06:50,120 - 01:06:52,660] customers, employees. Tell us who you are.
+- [01:06:52,660 - 01:06:56,300] Who you are pitching to? Investors. Okay.
+- [01:06:56,300 - 01:06:59,940] I'm raising capital at the moment. You're rich.
+- [01:06:59,940 - 01:07:04,220] Okay. Three minutes. Take it away. Okay. How
+- [01:07:04,220 - 01:07:08,500] many of you by show of hands are
+- [01:07:08,500 - 01:07:11,649] following up with what's going on in
+- [01:07:11,649 - 01:07:14,799] tech lately? Awesome. How many of you
+- [01:07:14,799 - 01:07:18,719] actually adopted any AI tools lately? Great.
+- [01:07:18,719 - 01:07:22,640] And how did you find out about the
+- [01:07:22,660 - 01:07:25,810] tools? If you just don't mind shouting
+- [01:07:25,810 - 01:07:28,960] out how did you discover these AI tools?
+- [01:07:28,960 - 01:07:36,629] Mm-hmm. Okay. Awesome. So social media and
+- [01:07:36,629 - 01:07:44,299] newsletters are the responses we got. So AI
+- [01:07:44,299 - 01:07:48,079] is democratizing how we create software. And it's soon going
+- [01:07:48,079 - 01:07:51,859] to be just like as fast as writing a tweet.
+- [01:07:52,660 - 01:07:58,150] And the problem with that is that it's creating
+- [01:07:58,150 - 01:08:03,640] this faster way of us. Well, it's moving so fast
+- [01:08:03,640 - 01:08:06,190] that we are not able to keep up with what's
+- [01:08:06,190 - 01:08:08,740] new and what's actually good to help us do our job
+- [01:08:08,740 - 01:08:13,339] right or not. And that's changing how discovery
+- [01:08:13,339 - 01:08:17,939] of these software tools are done. By mentioning
+- [01:08:17,939 - 01:08:19,699] social media or someone told
+- [01:08:19,699 - 01:08:21,460] me about it or a newsletter,
+- [01:08:22,660 - 01:08:25,270] it's a new way of discovery and we haven't
+- [01:08:25,270 - 01:08:27,880] built a solution for it until TechFibre. That's what I'm
+- [01:08:27,880 - 01:08:31,239] building. And it's a place where you go and
+- [01:08:31,239 - 01:08:34,599] find people's tech stacks that are similar to your job
+- [01:08:34,599 - 01:08:37,119] role, your industry, and you can see what they've
+- [01:08:37,119 - 01:08:39,639] used, what kind of objectives they reach with the
+- [01:08:39,639 - 01:08:42,339] stacks that they've used. And you can also just
+- [01:08:42,339 - 01:08:45,040] simply, because you enter your tech stack, get all
+- [01:08:45,040 - 01:08:48,839] of the use cases that you can automate within all
+- [01:08:48,839 - 01:08:52,639] the tasks that you're doing. So that's a new way of
+- [01:08:52,660 - 01:08:54,819] creating a stack that you can automate within your
+- [01:08:54,819 - 01:08:56,979] job role. I forgot that you guys are investors
+- [01:08:56,979 - 01:09:01,029] for a second over there. Because you look like my
+- [01:09:01,029 - 01:09:05,080] target audience. How will I be making money? So we
+- [01:09:05,080 - 01:09:08,589] want to be a transparent platform. So all
+- [01:09:08,589 - 01:09:12,099] the revenue will be made through affiliate revenue
+- [01:09:12,099 - 01:09:16,419] and by over as well as team accounts. So
+- [01:09:16,419 - 01:09:20,740] companies can optimize better what their employees are doing
+- [01:09:20,740 - 01:09:21,620] because we can tell them what their needs are. And
+- [01:09:21,620 - 01:09:22,500] then we can also be able to build a more
+- [01:09:22,500 - 01:09:22,549] efficient system. So we can be able to do this
+- [01:09:22,549 - 01:09:22,599] in the same way that we've been doing for a while.
+- [01:09:22,599 - 01:09:22,619] So we can be able to do this in the same way that we've been doing for a while.
+- [01:09:22,619 - 01:09:22,639] So we can be able to do this in the same way that we've been doing for a while.
+- [01:09:22,640 - 01:09:23,760] So we can be able to do this in the same way that we've been doing for a while. So we can be able to
+- [01:09:23,760 - 01:09:24,880] do this in the same way that we've been doing for a while. So I think all of the work currently in those tasks from the
+- [01:09:24,880 - 01:09:38,729] employees will be automated. And we're raising 500,000 to expand the platform and expand our database and hire more engineers. A little bit about the team.
+- [01:09:38,729 - 01:09:52,580] I'm actually a sole founder. I'm also on my own distribution channel with over half a million followers just around software tools. I'm also a tech
+- [01:09:52,580 - 01:09:54,820] I'm also a tech
+- [01:09:54,820 - 01:10:00,640] technical so I built the platform from scratch. And we have made over 80k in
+- [01:10:00,640 - 01:10:06,460] revenue last year just from some beta user accounts and by working with small businesses.
+- [01:10:06,460 - 01:10:07,460] Time's up.
+- [01:10:07,460 - 01:10:08,460] That's it.
+- [01:10:08,460 - 01:10:09,460] Terrible isn't it?
+- [01:10:09,460 - 01:10:10,460] Oh my god.
+- [01:10:10,460 - 01:10:10,960] Well imagine giving a 90 minute
+- [01:10:10,960 - 01:10:11,460] lecture. Not like anybody you've ever met.
+- [01:10:11,460 - 01:10:12,460] I know.
+- [01:10:12,460 - 01:10:13,460] I know.
+- [01:10:13,460 - 01:10:14,460] I know.
+- [01:10:14,460 - 01:10:15,460] I know.
+- [01:10:15,460 - 01:10:16,460] I know.
+- [01:10:16,460 - 01:10:17,460] I know.
+- [01:10:17,460 - 01:10:18,460] I know.
+- [01:10:18,460 - 01:10:19,460] I know.
+- [01:10:19,460 - 01:10:20,460] I know.
+- [01:10:20,460 - 01:10:21,460] I know.
+- [01:10:21,460 - 01:10:22,460] I know.
+- [01:10:22,460 - 01:10:23,460] I know.
+- [01:10:23,460 - 01:10:24,460] I know that's how you know right.
+- [01:10:24,460 - 01:10:25,460] Okay your comments?
+- [01:10:25,460 - 01:10:26,460] What are your thoughts?
+- [01:10:26,460 - 01:10:27,460] Your reactions?
+- [01:10:27,460 - 01:10:29,920] I mean as prospective investors.
+- [01:10:29,920 - 01:10:34,380] Hang on, got one up here.
+- [01:10:34,380 - 01:10:38,860] Let's take this one first.
+- [01:10:38,860 - 01:10:42,420] Go ahead sir.
+- [01:10:42,420 - 01:10:43,420] Oh.
+- [01:10:43,420 - 01:10:47,420] I was just saying while
+- [01:10:47,420 - 01:10:51,420] he's fixing that let's take you.
+- [01:10:51,420 - 01:10:52,420] Yes.
+- [01:10:52,420 - 01:10:56,300] Oh, it sneaked through my heart.
+- [01:10:56,300 - 01:10:57,300] Great question.
+- [01:10:57,300 - 01:10:58,300] Thank you.
+- [01:10:58,300 - 01:11:04,640] Well, how big is the market according
+- [01:11:04,640 - 01:11:10,980] to just January actually stats from the world?
+- [01:11:10,980 - 01:11:13,480] Actually, don't answer that question because what
+- [01:11:13,480 - 01:11:15,980] we're trying to do is improve the pitch.
+- [01:11:15,980 - 01:11:18,450] And his point was based on your talk, we have
+- [01:11:18,450 - 01:11:20,920] no idea if the market is 12 people in all
+- [01:11:20,920 - 01:11:23,590] of North America or it's thousands of
+- [01:11:23,590 - 01:11:26,260] people everywhere who are clamoring for the solution.
+- [01:11:26,260 - 01:11:28,260] So duly noted.
+- [01:11:28,260 - 01:11:29,260] Right.
+- [01:11:29,260 - 01:11:30,600] Rather than the answer to the question.
+- [01:11:30,600 - 01:11:31,820] We'll try again.
+- [01:11:31,820 - 01:11:32,820] Is your mic working?
+- [01:11:32,820 - 01:11:33,820] Yeah, I'll repeat it.
+- [01:11:33,820 - 01:11:36,950] So if you're a platform for like tech
+- [01:11:36,950 - 01:11:40,080] stack, like where I didn't understand why do you
+- [01:11:40,080 - 01:11:43,530] need to show yours like are
+- [01:11:43,530 - 01:11:46,980] you going to make it bigger?
+- [01:11:46,980 - 01:11:50,820] And how do you work with people?
+- [01:11:50,820 - 01:11:56,979] Yeah, so the challenge is
+- [01:11:56,979 - 01:12:03,139] to identify without you entering them.
+- [01:12:03,139 - 01:12:05,019] So people are listening to them
+- [01:12:05,019 - 01:12:06,900] right now and they're quite public.
+- [01:12:06,900 - 01:12:09,479] The challenge is for us to build a better
+- [01:12:09,479 - 01:12:12,059] way to identify what that tech stack is and
+- [01:12:12,059 - 01:12:13,980] verify it.
+- [01:12:13,980 - 01:12:16,480] One of the biggest benefits that we've heard
+- [01:12:16,480 - 01:12:18,980] from the users right now is that they can
+- [01:12:18,980 - 01:12:20,700] see what people have used.
+- [01:12:20,700 - 01:12:22,240] And kept in their tech stack.
+- [01:12:22,240 - 01:12:23,240] It's not bullshit.
+- [01:12:23,240 - 01:12:26,380] Once they stop using it, they'll remove it.
+- [01:12:26,380 - 01:12:28,660] And that's trusted information that you really
+- [01:12:28,660 - 01:12:30,940] can't get anywhere else at the moment.
+- [01:12:30,940 - 01:12:34,800] All right.
+- [01:12:34,800 - 01:12:36,190] I would like to get
+- [01:12:36,190 - 01:12:37,580] somebody else up here as well.
+- [01:12:37,580 - 01:12:42,089] But you dropped a little tidbit at the
+- [01:12:42,089 - 01:12:46,599] end almost as a throwaway, which should have been
+- [01:12:46,599 - 01:12:49,019] within about your first 20 or 30 seconds.
+- [01:12:49,019 - 01:12:50,019] Yeah.
+- [01:12:50,020 - 01:12:51,020] I think that's a lot of time that we've spent.
+- [01:12:51,020 - 01:12:52,020] Yeah.
+- [01:12:52,020 - 01:12:52,520] So I think that's a
+- [01:12:52,520 - 01:12:53,020] lot of time that we've spent.
+- [01:12:53,020 - 01:12:54,020] Yeah.
+- [01:12:54,020 - 01:12:54,520] So I think that's a
+- [01:12:54,520 - 01:12:55,020] lot of time that we've spent.
+- [01:12:55,020 - 01:12:55,520] But what I think is really important is
+- [01:12:55,520 - 01:12:56,020] that the way that you've deployed the first 45
+- [01:12:56,020 - 01:12:57,020] seconds, which was that you already have 80,000 in revenue.
+- [01:12:57,020 - 01:12:57,520] And I can't remember the number,
+- [01:12:57,520 - 01:12:58,020] but an awful lot of followers.
+- [01:12:58,020 - 01:12:59,020] How many followers?
+- [01:12:59,020 - 01:13:00,020] Almost half a million.
+- [01:13:00,020 - 01:13:01,020] OK.
+- [01:13:01,020 - 01:13:06,440] So hold that thought just for a second.
+- [01:13:06,440 - 01:13:09,430] What did you think of the way she
+- [01:13:09,430 - 01:13:12,420] deployed the first 45 seconds by asking you questions,
+- [01:13:12,420 - 01:13:15,200] how many of you and how many of you?
+- [01:13:15,200 - 01:13:16,200] OK.
+- [01:13:16,200 - 01:13:17,560] I'll be harsh.
+- [01:13:17,560 - 01:13:18,560] My reaction is that was a colossal waste of time.
+- [01:13:18,560 - 01:13:19,560] I'm sorry.
+- [01:13:19,560 - 01:13:21,100] Say that again.
+- [01:13:21,100 - 01:13:27,560] I'm a little too shy to engage.
+- [01:13:27,560 - 01:13:30,560] Well, right.
+- [01:13:30,560 - 01:13:34,470] Well, and it's if you sit and listen to
+- [01:13:34,470 - 01:13:38,380] 10 pitches a day, you will be astonished how
+- [01:13:38,380 - 01:13:39,800] repetitive they are.
+- [01:13:39,800 - 01:13:42,800] Oh, we have a world class team.
+- [01:13:42,800 - 01:13:43,800] Right.
+- [01:13:43,800 - 01:13:47,800] Oh, there's a gazillion people in China.
+- [01:13:47,800 - 01:13:49,420] And if we could sell one sock.
+- [01:13:49,420 - 01:13:51,920] To each of them, we'd have a trillion
+- [01:13:51,920 - 01:13:54,420] dollar business and just 10 percent of that.
+- [01:13:54,420 - 01:13:55,420] Right.
+- [01:13:55,420 - 01:13:57,920] So they just they're so repetitive.
+- [01:13:57,920 - 01:14:01,100] So lead with I'm in this market.
+- [01:14:01,100 - 01:14:02,100] I know it well.
+- [01:14:02,100 - 01:14:04,510] I have almost a half million followers and
+- [01:14:04,510 - 01:14:06,920] we have 80,000 in revenue already for something
+- [01:14:06,920 - 01:14:09,700] which is frankly purely in the prototype stage.
+- [01:14:09,700 - 01:14:11,460] I'm on to something here.
+- [01:14:11,460 - 01:14:14,440] I'm raising a little bit of capital, probably
+- [01:14:14,440 - 01:14:17,420] not 500,000 to go out and validate the market,
+- [01:14:17,420 - 01:14:18,420] test it out.
+- [01:14:18,420 - 01:14:19,420] So I'm not going to go into it.
+- [01:14:19,420 - 01:14:20,450] I'm going to show you a little bit about
+- [01:14:20,450 - 01:14:21,480] where the unmet customer needs is and devise a launch
+- [01:14:21,480 - 01:14:23,810] strategy so that I can start with the people
+- [01:14:23,810 - 01:14:26,140] who are clamoring for it and then expand to
+- [01:14:26,140 - 01:14:28,420] those to whom I need to promote.
+- [01:14:28,420 - 01:14:29,420] Better.
+- [01:14:29,420 - 01:14:30,760] Much better.
+- [01:14:30,760 - 01:14:34,420] Should have recorded well, it's probably on the video.
+- [01:14:34,420 - 01:14:35,420] All right.
+- [01:14:35,420 - 01:14:36,420] Give her hand, please.
+- [01:14:36,420 - 01:14:39,420] I think we have time for one more.
+- [01:14:39,420 - 01:14:41,420] I don't know.
+- [01:14:41,420 - 01:14:46,420] We're at about the end of the show.
+- [01:14:46,420 - 01:14:47,420] All right.
+- [01:14:47,420 - 01:14:48,420] Okay.
+- [01:14:48,420 - 01:14:50,320] and then I have a summary slide.
+- [01:14:50,840 - 01:14:52,680] Well, you were brave enough to come down before,
+- [01:14:52,800 - 01:14:54,040] and I did offer you a
+- [01:14:54,040 - 01:14:55,280] bite of the apple a second time.
+- [01:14:55,960 - 01:14:59,380] So we salute you for your courage.
+- [01:15:00,820 - 01:15:02,160] This will be take two.
+- [01:15:04,860 - 01:15:05,580] Three minutes?
+- [01:15:05,980 - 01:15:06,180] Yep.
+- [01:15:06,720 - 01:15:08,980] Do I get a couple of minutes describing my business?
+- [01:15:09,160 - 01:15:11,360] Nope, we already know it, unless you've changed it.
+- [01:15:11,660 - 01:15:11,860] No.
+- [01:15:11,860 - 01:15:12,220] Okay.
+- [01:15:14,500 - 01:15:16,560] Hey, you're entrepreneurs, you know, pivot.
+- [01:15:16,560 - 01:15:18,520] All right.
+- [01:15:19,300 - 01:15:19,680] Go.
+- [01:15:21,420 - 01:15:27,160] So the U.S. has a million pregnancies a year, right?
+- [01:15:27,400 - 01:15:30,400] And this is more than a billion dollars
+- [01:15:30,400 - 01:15:33,240] doled out by insurance companies
+- [01:15:33,240 - 01:15:37,060] as reimbursement for ultrasound scans.
+- [01:15:38,040 - 01:15:42,540] And 8% of these are, like, high-risk pregnancies, right?
+- [01:15:43,680 - 01:15:46,540] So we build ultrasound devices,
+- [01:15:46,560 - 01:15:50,940] which enable these high-risk pregnancies to scan from home.
+- [01:15:51,780 - 01:15:53,410] Doctors love it because it
+- [01:15:53,410 - 01:15:55,040] reduces the stress on the patients.
+- [01:15:55,700 - 01:15:58,200] Hospitals love it because it costs them less.
+- [01:15:58,740 - 01:16:00,360] And insurance companies love it
+- [01:16:00,360 - 01:16:03,420] because the hospital uses a cheaper reimbursement code.
+- [01:16:05,140 - 01:16:07,820] So, yeah, it's good all around.
+- [01:16:08,100 - 01:16:10,960] And for us, this means an
+- [01:16:10,960 - 01:16:13,820] $80 million market per year, right?
+- [01:16:14,940 - 01:16:16,340] Stop right there.
+- [01:16:17,080 - 01:16:19,420] Was that automatically just fabulous
+- [01:16:19,420 - 01:16:20,480] compared to what he did before?
+- [01:16:20,480 - 01:16:20,980] Yeah.
+- [01:16:20,980 - 01:16:23,220] I don't think you need to say another word.
+- [01:16:23,220 - 01:16:24,620] I don't mean to cut you short, but.
+- [01:16:24,620 - 01:16:27,800] Huge improvement.
+- [01:16:28,300 - 01:16:28,800] All right.
+- [01:16:28,800 - 01:16:29,920] And he used the mic correctly.
+- [01:16:29,920 - 01:16:31,540] And he used the mic correctly.
+- [01:16:31,860 - 01:16:32,240] Geez.
+- [01:16:32,520 - 01:16:35,480] You might be, like, our poster child or something.
+- [01:16:35,480 - 01:16:36,240] This was great.
+- [01:16:36,540 - 01:16:37,800] So, a quick comment or
+- [01:16:37,800 - 01:16:39,060] two, what did he do right?
+- [01:16:39,060 - 01:16:44,520] Come on, you guys sat right there and watched him.
+- [01:16:44,520 - 01:16:46,020] What did he do right this time?
+- [01:16:46,560 - 01:16:50,000] Hang on, let's capture you
+- [01:16:50,000 - 01:16:53,440] for the people in Zoom land.
+- [01:17:16,560 - 01:17:20,870] Did you understand from his talk this time
+- [01:17:20,870 - 01:17:25,180] who his target user is and their problem?
+- [01:17:25,980 - 01:17:27,840] And you could actually incorporate
+- [01:17:27,840 - 01:17:29,700] a little more emotional stuff.
+- [01:17:30,000 - 01:17:33,020] Think about the woman who is a high-risk pregnancy.
+- [01:17:33,900 - 01:17:38,400] Frequently that requires bed rest, minimizing stress,
+- [01:17:38,820 - 01:17:41,200] all of the things which are the absolute antithesis of
+- [01:17:41,200 - 01:17:43,580] what you find when you have to go to the hospital.
+- [01:17:45,480 - 01:17:46,040] So.
+- [01:17:46,560 - 01:17:49,640] There's how many? 200,000?
+- [01:17:50,520 - 01:17:52,960] 200,000 of these people out there.
+- [01:17:53,460 - 01:17:55,420] And because going to the hospital is
+- [01:17:55,420 - 01:17:57,380] so stressful, they don't go to the hospital,
+- [01:17:57,580 - 01:18:00,420] which makes their high-risk pregnancy even more high-risk,
+- [01:18:00,660 - 01:18:02,900] which is calamitous for the patient
+- [01:18:02,900 - 01:18:05,140] and expensive for the insurance company.
+- [01:18:05,780 - 01:18:08,260] And the current solutions, you
+- [01:18:08,260 - 01:18:10,740] could just tear this one up.
+- [01:18:12,480 - 01:18:13,040] Right?
+- [01:18:13,220 - 01:18:14,530] I just want to say I
+- [01:18:14,530 - 01:18:15,840] like the way you took steps.
+- [01:18:15,980 - 01:18:16,540] It's as if a gun.
+- [01:18:16,700 - 01:18:18,360] Yeah, it's a flow chart.
+- [01:18:18,780 - 01:18:19,600] Yeah, it is.
+- [01:18:19,640 - 01:18:21,140] It's a flow chart, which should be
+- [01:18:21,140 - 01:18:22,640] second nature to all of you guys.
+- [01:18:23,420 - 01:18:25,840] Tell the story in a linear fashion
+- [01:18:25,840 - 01:18:28,260] so that they can't help but follow you.
+- [01:18:29,560 - 01:18:29,940] Right?
+- [01:18:30,440 - 01:18:32,060] So give him a round of applause.
+- [01:18:32,160 - 01:18:32,960] That was way better.
+- [01:18:34,800 - 01:18:35,200] All right.
+- [01:18:35,360 - 01:18:35,980] Thank you.
+- [01:18:37,100 - 01:18:37,420] All right.
+- [01:18:37,460 - 01:18:41,240] I'm going to wrap up, my friends, because as
+- [01:18:41,240 - 01:18:45,020] much fun as this is, there's others coming after us.
+- [01:18:45,020 - 01:18:45,120] Thank you.
+- [01:18:46,560 - 01:18:48,100] So we did all this.
+- [01:18:49,700 - 01:18:51,520] Do you have any final questions?
+- [01:18:51,620 - 01:18:54,980] I've got one slide left for summaries.
+- [01:18:55,220 - 01:18:58,980] But do you have any questions you'd
+- [01:18:58,980 - 01:19:02,740] like to ask before I say in conclusion?
+- [01:19:04,660 - 01:19:05,260] Yes, sir.
+- [01:19:05,260 - 01:19:05,300] Thank you.
+- [01:19:09,280 - 01:19:11,040] So who usually is this?
+- [01:19:11,360 - 01:19:12,780] Is it the CEO of the
+- [01:19:12,780 - 01:19:14,200] company, the CEO, or the salesperson?
+- [01:19:14,600 - 01:19:15,980] And is it only one person or two?
+- [01:19:15,980 - 01:19:16,540] Or can it also be two?
+- [01:19:16,540 - 01:19:20,900] The answer is all of the above.
+- [01:19:22,160 - 01:19:23,460] Well, actually, no.
+- [01:19:23,560 - 01:19:24,800] The answer is it depends.
+- [01:19:27,000 - 01:19:31,450] I have never seen an investor make an investment
+- [01:19:31,450 - 01:19:35,900] without being convinced that the CEO can drive the bus.
+- [01:19:37,340 - 01:19:40,280] Having said that, many CEOs are not
+- [01:19:40,280 - 01:19:43,220] as technically sophisticated as their chief technology officer.
+- [01:19:43,220 - 01:19:46,200] And they may not understand the marketing.
+- [01:19:46,540 - 01:19:48,560] And they may not understand the process
+- [01:19:48,560 - 01:19:50,580] as thoroughly as their chief marketing officer.
+- [01:19:51,400 - 01:19:56,000] So sometimes a team presentation works best.
+- [01:19:56,000 - 01:19:58,720] But doing it without the CEO is
+- [01:19:58,720 - 01:20:01,440] a path I have never seen work.
+- [01:20:02,900 - 01:20:03,800] Does that help?
+- [01:20:04,600 - 01:20:04,820] No.
+- [01:20:05,120 - 01:20:05,440] Okay.
+- [01:20:06,080 - 01:20:06,760] Who else?
+- [01:20:07,840 - 01:20:08,600] Good question.
+- [01:20:09,900 - 01:20:11,470] That means you guys who are
+- [01:20:11,470 - 01:20:13,040] founders are not off the hook.
+- [01:20:14,300 - 01:20:16,100] You will have to do this.
+- [01:20:16,540 - 01:20:17,900] You will have to get your hands dirty.
+- [01:20:17,900 - 01:20:18,280] You will have to do this.
+- [01:20:18,280 - 01:20:18,820] And I think that is what makes it important.
+- [01:20:18,820 - 01:20:19,100] And I think that is what makes it important.
+- [01:20:19,100 - 01:20:20,019] I think that is what makes it important.
+- [01:20:20,019 - 01:20:20,140] Let me wrap it up then.
+- [01:20:20,140 - 01:20:23,060] Know your audience.
+- [01:20:24,300 - 01:20:26,960] And know the three things you want
+- [01:20:26,960 - 01:20:29,620] them to remember when you finish your presentation.
+- [01:20:30,680 - 01:20:31,820] Here is a challenge.
+- [01:20:31,820 - 01:20:34,030] I have been working with
+- [01:20:34,030 - 01:20:36,240] a fair number of senior managers.
+- [01:20:36,540 - 01:20:41,240] And I said, tell me your value proposition.
+- [01:20:41,760 - 01:20:43,680] Three sentences, ten seconds.
+- [01:20:45,080 - 01:20:46,000] It is brutal.
+- [01:20:46,540 - 01:20:48,100] It is really hard.
+- [01:20:48,200 - 01:20:49,740] You feel like you are boiling the ocean.
+- [01:20:50,980 - 01:20:53,210] But if you can do
+- [01:20:53,210 - 01:20:55,440] that, you have your north star.
+- [01:20:56,760 - 01:20:59,020] On those dark and stormy nights when you are not
+- [01:20:59,020 - 01:21:01,280] sure where you are trying to go with this thing.
+- [01:21:01,680 - 01:21:03,810] If you can do those three sentences
+- [01:21:03,810 - 01:21:05,940] in ten seconds, there is your north star.
+- [01:21:07,580 - 01:21:07,820] Okay.
+- [01:21:09,440 - 01:21:13,360] Show them, your audience, that you understand their problem.
+- [01:21:13,360 - 01:21:16,519] And tell a story about your better solution.
+- [01:21:16,540 - 01:21:18,210] So that your audience understands
+- [01:21:18,210 - 01:21:19,880] what is in it for me.
+- [01:21:19,880 - 01:21:20,880] Practice.
+- [01:21:20,880 - 01:21:24,380] And by the way, when I first did
+- [01:21:24,380 - 01:21:27,880] this slide, I had five or six bullets.
+- [01:21:27,880 - 01:21:31,880] And I realized I was counseling you to only keep
+- [01:21:31,880 - 01:21:35,880] to three things that you want your audience to remember.
+- [01:21:35,880 - 01:21:37,880] I had to redo the slide.
+- [01:21:37,880 - 01:21:39,880] But those are the three things
+- [01:21:39,880 - 01:21:41,880] that I want you to remember.
+- [01:21:41,880 - 01:21:43,880] Know your audience.
+- [01:21:43,880 - 01:21:45,880] Tell them you understand their problem.
+- [01:21:45,880 - 01:21:47,880] Show them your better solution.
+- [01:21:47,880 - 01:21:49,880] And spend some time practicing to make this right.
+- [01:21:49,880 - 01:21:51,880] And good luck to you.
+- [01:21:51,880 - 01:21:53,880] Thank you very much.
