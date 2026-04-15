@@ -30,7 +30,10 @@ for course in "${courses[@]}"; do
     TRANSCRIPTION_FOLLOW_SESSION="$follow_session" \
     bash "$course_root/start_transcription_follow_tmux.sh"
   log "Follow-mode transcription started for $course"
-  HOST_REPO_ROOT="$repo_root" bash "$course_root/download_playlist.sh"
+  HOST_REPO_ROOT="$repo_root" \
+    bash "$course_root/download_playlist.sh" -- \
+      --ignore-errors \
+      --compat-options no-youtube-unavailable-videos
   log "Download complete for $course"
   touch "$download_done_file"
 
