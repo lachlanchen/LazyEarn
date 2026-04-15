@@ -1,0 +1,2131 @@
+# Transcript
+
+Source: lazyearn/mit-nuts-and-bolts-of-new-ventures/005 - Session 3, Part 2： Organizational and People Issues [ZcH04FusUbU].webm
+
+- [00:00:00,000 - 00:00:07,740] Well, as you saw on the first day when
+- [00:00:07,740 - 00:00:15,480] I talked about new ventures and the elements that have
+- [00:00:15,480 - 00:00:18,940] to come together to have a successful venture,
+- [00:00:18,940 - 00:00:22,400] and Bob also said it's the people issues that
+- [00:00:22,400 - 00:00:24,600] tend to sink ventures more often than not.
+- [00:00:24,600 - 00:00:26,430] It's not the technology, it's
+- [00:00:26,430 - 00:00:28,260] not the funding, it's people issues.
+- [00:00:28,260 - 00:00:30,650] So it seems very important then that we
+- [00:00:30,650 - 00:00:33,040] have something that talks about people issues and
+- [00:00:33,040 - 00:00:34,920] organizations.
+- [00:00:34,920 - 00:00:38,120] And tonight we have a panel, unfortunately one
+- [00:00:38,120 - 00:00:41,320] of whom is sick and not able to come.
+- [00:00:41,320 - 00:00:44,320] But Vivian Batali is our moderator.
+- [00:00:44,320 - 00:00:47,780] I met Vivian a few years ago.
+- [00:00:47,780 - 00:00:51,100] I'm on the board of a public company that
+- [00:00:51,100 - 00:00:54,420] is still run by one of the founders, and I'm
+- [00:00:54,420 - 00:00:57,240] chair of the nomination and governance committee.
+- [00:00:57,240 - 00:00:59,950] So when we were looking to expand
+- [00:00:59,950 - 00:01:02,660] the board, that was what our committee does.
+- [00:01:02,660 - 00:01:05,600] So after doing a search, et cetera, we
+- [00:01:05,600 - 00:01:08,540] had some candidates, and I met with Vivian.
+- [00:01:08,540 - 00:01:10,990] And it became clear pretty soon in talking
+- [00:01:10,990 - 00:01:13,440] to her that she was a great candidate for
+- [00:01:13,440 - 00:01:15,510] a founders, for any company,
+- [00:01:15,510 - 00:01:17,580] but a founder one in particular.
+- [00:01:17,580 - 00:01:20,750] I remember we talked about the things you'd
+- [00:01:20,750 - 00:01:23,920] worked on with a senior management, and at
+- [00:01:23,920 - 00:01:25,470] least two of the three you worked
+- [00:01:25,470 - 00:01:27,020] on, I think I knew the founders.
+- [00:01:27,020 - 00:01:30,280] And I think I had incorporated one of those companies.
+- [00:01:30,280 - 00:01:34,140] And so the idea that we'd have
+- [00:01:34,140 - 00:01:38,000] a board member with HR experience, organization experience,
+- [00:01:38,000 - 00:01:40,760] that knows how to deal with a
+- [00:01:40,760 - 00:01:43,520] founder-led company that was growing seemed really great.
+- [00:01:43,520 - 00:01:45,720] So I couldn't think of a
+- [00:01:45,720 - 00:01:47,920] better candidate to put this panel together.
+- [00:01:47,920 - 00:01:49,610] And last year I did the
+- [00:01:49,610 - 00:01:51,300] dope slap and said, Vivian's the person.
+- [00:01:51,300 - 00:01:53,910] And I convinced her, again
+- [00:01:53,910 - 00:01:56,520] with our highly paid compensation.
+- [00:01:56,520 - 00:01:59,119] These beautiful water bottles.
+- [00:01:59,119 - 00:02:01,909] And Vivian assembled a panel of other people
+- [00:02:01,909 - 00:02:04,699] that she thought would be useful in the organization
+- [00:02:04,699 - 00:02:06,259] and people issues.
+- [00:02:06,259 - 00:02:08,340] And so I'm going to turn it over to Vivian.
+- [00:02:08,340 - 00:02:12,180] And we're going to, we want to make it interactive.
+- [00:02:12,180 - 00:02:13,940] So if you have questions,
+- [00:02:13,940 - 00:02:15,700] we hope you have a bunch.
+- [00:02:15,700 - 00:02:16,700] Put your hands up.
+- [00:02:16,700 - 00:02:18,800] We'll have the mics run around.
+- [00:02:18,800 - 00:02:21,579] We do have some questions sort of pre-canned.
+- [00:02:21,579 - 00:02:25,780] But if you have some issues, just say them.
+- [00:02:25,780 - 00:02:26,300] And we'll get them.
+- [00:02:26,520 - 00:02:28,020] And we'll see what we can do with them.
+- [00:02:28,020 - 00:02:30,520] So without further ado, Vivian, thank you once again.
+- [00:02:30,520 - 00:02:31,020] Thanks.
+- [00:02:31,020 - 00:02:31,520] Thanks.
+- [00:02:31,520 - 00:02:32,020] Thanks.
+- [00:02:32,020 - 00:02:32,520] Thanks.
+- [00:02:32,520 - 00:02:33,020] Thanks.
+- [00:02:33,020 - 00:02:34,440] We did this last year.
+- [00:02:34,440 - 00:02:36,140] And we really enjoyed it.
+- [00:02:36,140 - 00:02:38,300] And what made it really
+- [00:02:38,300 - 00:02:40,460] great was people were very interactive.
+- [00:02:40,460 - 00:02:42,320] And we do have questions that
+- [00:02:42,320 - 00:02:44,180] people have submitted here ahead of time.
+- [00:02:44,180 - 00:02:47,180] But I think it might work best free form
+- [00:02:47,180 - 00:02:50,180] with people raising their hands on what you want
+- [00:02:50,180 - 00:02:51,440] to talk about.
+- [00:02:51,440 - 00:02:53,800] The areas that, as many people are
+- [00:02:53,800 - 00:02:56,160] building their company, they're building their business,
+- [00:02:56,160 - 00:02:56,520] they're building their business.
+- [00:02:56,520 - 00:02:58,220] And I think it's really important that people
+- [00:02:58,220 - 00:02:59,920] are interested in really what you do as a
+- [00:02:59,920 - 00:03:02,260] founder, early stage.
+- [00:03:02,260 - 00:03:05,030] What are the things that you need
+- [00:03:05,030 - 00:03:07,800] to do in terms of building your organization?
+- [00:03:07,800 - 00:03:09,020] How do you hire people?
+- [00:03:09,020 - 00:03:10,240] How do you pay people?
+- [00:03:10,240 - 00:03:11,920] How do you deal with problems?
+- [00:03:11,920 - 00:03:13,500] All those, hopefully, we'll be able
+- [00:03:13,500 - 00:03:15,080] to touch on with you tonight.
+- [00:03:15,080 - 00:03:17,900] We have different experiences.
+- [00:03:17,900 - 00:03:19,940] I'll tell you a little bit about my experience.
+- [00:03:19,940 - 00:03:23,000] I worked many, many years.
+- [00:03:23,000 - 00:03:26,020] Right now, I'm not working full time anymore.
+- [00:03:26,020 - 00:03:29,310] I have a small consulting practice where I do
+- [00:03:29,310 - 00:03:32,600] really just the work that I like to do,
+- [00:03:32,600 - 00:03:34,620] which is working with people, building their
+- [00:03:34,620 - 00:03:36,640] business, or helping people grow in their
+- [00:03:36,640 - 00:03:39,920] roles, particularly when someone is new
+- [00:03:39,920 - 00:03:43,200] to a position, particularly if they're working
+- [00:03:43,200 - 00:03:44,780] in an HR or people function.
+- [00:03:44,780 - 00:03:48,560] I like to have people get started doing that.
+- [00:03:48,560 - 00:03:52,420] And then I'm on two public company boards with Joe.
+- [00:03:52,420 - 00:03:54,240] I'm on the NetScout system boards.
+- [00:03:54,240 - 00:03:55,240] God bless you over there.
+- [00:03:55,240 - 00:03:55,660] Fantastic.
+- [00:03:55,660 - 00:03:56,660] Thank you.
+- [00:03:56,660 - 00:03:58,940] And also Progress Software.
+- [00:03:58,940 - 00:04:02,280] And then I also work on a couple of nonprofits.
+- [00:04:02,280 - 00:04:05,130] I work on Entrepreneurship for All,
+- [00:04:05,130 - 00:04:07,980] which some people may know about.
+- [00:04:07,980 - 00:04:11,440] Works outside the Boston area, helping entrepreneurs
+- [00:04:11,440 - 00:04:14,900] get going and help them get their business
+- [00:04:14,900 - 00:04:15,960] launched.
+- [00:04:15,960 - 00:04:18,640] And then I work with a company,
+- [00:04:18,640 - 00:04:21,320] an organization called Family Services of Merrimack Valley,
+- [00:04:21,320 - 00:04:21,779] which is a nonprofit that helps
+- [00:04:21,779 - 00:04:22,240] the disadvantaged in the greater rural areas.
+- [00:04:22,240 - 00:04:22,740] And I've been working with them
+- [00:04:22,740 - 00:04:23,240] for a couple of years now.
+- [00:04:23,240 - 00:04:23,740] I've been working with them
+- [00:04:23,740 - 00:04:24,240] for a couple of years now.
+- [00:04:24,240 - 00:04:24,740] I've been working with them
+- [00:04:24,740 - 00:04:25,240] for a couple of years now.
+- [00:04:25,240 - 00:04:26,240] So it's a little bit about me.
+- [00:04:26,240 - 00:04:26,740] So I'm going to turn
+- [00:04:26,740 - 00:04:27,240] it over to my colleagues here.
+- [00:04:27,240 - 00:04:27,740] We've worked together before, and I thought that
+- [00:04:27,740 - 00:04:28,240] they would be able to provide a different
+- [00:04:28,240 - 00:04:28,740] view of some of the questions you might have
+- [00:04:28,740 - 00:04:29,240] that I might have, and I think really highly
+- [00:04:29,240 - 00:04:30,240] of them.
+- [00:04:30,240 - 00:04:31,240] And I know that they'll offer a lot tonight.
+- [00:04:31,240 - 00:04:32,240] So I'll start with Kim here.
+- [00:04:32,240 - 00:04:33,240] Hi.
+- [00:04:33,240 - 00:04:34,240] So I'm Kim Crowley.
+- [00:04:34,240 - 00:04:34,740] I've had the pleasure of working for Viv as
+- [00:04:34,740 - 00:04:35,240] one of my first bosses in my career, my
+- [00:04:35,240 - 00:04:36,240] HR career.
+- [00:04:36,240 - 00:04:37,240] So 25 years of HR experience.
+- [00:04:37,240 - 00:04:38,240] And I've been working for Viv for about 30 years.
+- [00:04:38,240 - 00:04:39,240] And I've been working for Viv for about 30 years.
+- [00:04:39,240 - 00:04:40,240] So I've been working for Viv for about 30 years.
+- [00:04:40,240 - 00:04:41,240] And I've been working for Viv for about 30 years.
+- [00:04:41,240 - 00:04:42,240] And I've been working for Viv for about 30 years.
+- [00:04:42,240 - 00:04:43,240] So I'm Kim Crowley.
+- [00:04:43,240 - 00:04:43,740] I've had the pleasure of working for Viv as
+- [00:04:43,740 - 00:04:44,240] one of my first bosses in my career, my
+- [00:04:44,240 - 00:04:45,240] HR career.
+- [00:04:45,240 - 00:04:46,240] So 25 years of HR experience.
+- [00:04:46,240 - 00:04:47,240] I am a VP of HR with Thermo Fisher Scientific.
+- [00:04:47,240 - 00:04:48,240] I started with them in 2010.
+- [00:04:48,240 - 00:04:48,740] I sidestepped and went to a much smaller company
+- [00:04:48,740 - 00:04:49,240] a few years ago by the name of Azenta Life
+- [00:04:49,240 - 00:04:50,240] Sciences.
+- [00:04:50,240 - 00:04:50,740] So I've always really kind of grown up
+- [00:04:50,740 - 00:04:51,240] in much more of the life science industry.
+- [00:04:51,240 - 00:04:51,740] I did go back to my home office
+- [00:04:51,740 - 00:04:52,240] and went to a company called Zenta Life Sciences.
+- [00:04:52,240 - 00:04:53,240] And I've been working for them for about 30 years.
+- [00:04:53,240 - 00:04:54,240] So I'm going to turn it over to Kim here.
+- [00:04:54,240 - 00:04:55,240] Hi.
+- [00:04:55,240 - 00:04:56,240] So I'm Kim Crowley.
+- [00:04:56,240 - 00:04:56,740] I've had the pleasure of working for Viv as
+- [00:04:56,740 - 00:04:57,240] one of my first bosses in my career, my
+- [00:04:57,240 - 00:04:58,240] HR career.
+- [00:04:58,240 - 00:04:59,240] So 25 years of HR experience.
+- [00:04:59,240 - 00:05:00,240] I started with them in 2010.
+- [00:05:00,240 - 00:05:00,740] I sidestepped and went to a much smaller company
+- [00:05:00,740 - 00:05:01,240] a few years ago by the name of Azenta Life
+- [00:05:01,240 - 00:05:02,240] Sciences.
+- [00:05:02,240 - 00:05:02,740] So I've always really kind of grown up
+- [00:05:02,740 - 00:05:03,240] in much more of the life science industry.
+- [00:05:03,240 - 00:05:04,240] I did go back to Thermo Fisher.
+- [00:05:04,240 - 00:05:05,240] So they are now.
+- [00:05:05,240 - 00:05:05,740] And, you know, just I have on the flip
+- [00:05:05,740 - 00:05:06,240] side, while Viv has had smaller companies, you know,
+- [00:05:06,240 - 00:05:06,740] co-founders, I've been on the flip side of
+- [00:05:06,740 - 00:05:07,240] it with larger companies as we start to look,
+- [00:05:07,240 - 00:05:07,740] you know, very acquisitive companies, start to
+- [00:05:07,740 - 00:05:08,240] look at the business as a whole.
+- [00:05:08,240 - 00:05:08,740] And I think that's a really good
+- [00:05:08,740 - 00:05:09,240] example of how we can work together.
+- [00:05:09,240 - 00:05:10,240] So I'm Kim Crowley.
+- [00:05:10,240 - 00:05:11,240] I'm a VP of HR.
+- [00:05:11,240 - 00:05:12,240] I'm a VP of HR.
+- [00:05:12,240 - 00:05:13,240] I'm a VP of HR.
+- [00:05:13,240 - 00:05:14,240] I'm a VP of HR.
+- [00:05:14,240 - 00:05:15,240] I'm a VP of HR.
+- [00:05:15,240 - 00:05:16,240] I'm a VP of HR.
+- [00:05:16,240 - 00:05:16,740] And I think that's a really good
+- [00:05:16,740 - 00:05:17,240] example of how we can work together.
+- [00:05:17,240 - 00:05:19,740] And, you know, just I have on the flip
+- [00:05:19,740 - 00:05:22,240] side, while Viv has had smaller companies, you know,
+- [00:05:22,240 - 00:05:24,470] co-founders, I've been on the flip side of
+- [00:05:24,470 - 00:05:26,700] it with larger companies as we start to look,
+- [00:05:26,700 - 00:05:28,510] you know, very acquisitive companies,
+- [00:05:28,510 - 00:05:30,320] start to look at acquisitions.
+- [00:05:30,320 - 00:05:31,900] What do we look for?
+- [00:05:31,900 - 00:05:35,920] How do we handle different scenarios?
+- [00:05:35,920 - 00:05:39,100] And how do we introduce them into a larger company?
+- [00:05:39,100 - 00:05:42,060] So I'm very happy to be
+- [00:05:42,060 - 00:05:45,020] here and looking forward to the conversation.
+- [00:05:45,240 - 00:05:46,240] Hi.
+- [00:05:46,240 - 00:05:47,240] I'm Michelle Bonifant.
+- [00:05:47,240 - 00:05:50,670] I, too, am very happy
+- [00:05:50,670 - 00:05:54,100] to be here with you today.
+- [00:05:54,100 - 00:05:56,360] So similar to Kim, I
+- [00:05:56,360 - 00:05:58,620] started my career working for Vivian.
+- [00:05:58,620 - 00:06:01,320] She was one of my first, I call, real
+- [00:06:01,320 - 00:06:04,020] bosses when I was toying with following in the legal
+- [00:06:04,020 - 00:06:08,780] field or if I would head into technology.
+- [00:06:08,780 - 00:06:11,920] My career has spanned high tech.
+- [00:06:11,920 - 00:06:13,470] So I have spent all
+- [00:06:13,470 - 00:06:15,020] of my space in high tech.
+- [00:06:15,020 - 00:06:18,380] I currently am the senior director
+- [00:06:18,380 - 00:06:21,740] of global people operations for QuickBase.
+- [00:06:21,740 - 00:06:23,880] But I pivoted away from
+- [00:06:23,880 - 00:06:26,020] HR for a number of years.
+- [00:06:26,020 - 00:06:28,529] So although I started in that
+- [00:06:28,529 - 00:06:31,039] space, I had an aptitude for technology.
+- [00:06:31,039 - 00:06:34,799] And I leaned into the go-to-market
+- [00:06:34,799 - 00:06:38,560] space with a human capital management organization.
+- [00:06:38,560 - 00:06:42,840] I worked for Ultimate Software.
+- [00:06:42,840 - 00:06:44,020] They merged with a company called Chroma.
+- [00:06:44,020 - 00:06:44,520] I'm a senior director of
+- [00:06:44,520 - 00:06:45,020] the Global People Operations for QuickBase.
+- [00:06:45,020 - 00:06:46,300] I'm also the CEO of the
+- [00:06:46,300 - 00:06:47,580] company called Kronos to become UKG.
+- [00:06:47,580 - 00:06:51,749] And I had the privilege of working
+- [00:06:51,749 - 00:06:55,919] with hundreds of companies, small companies, mid-sized companies,
+- [00:06:55,919 - 00:06:58,899] large companies operationally to understand their
+- [00:06:58,899 - 00:07:01,880] infrastructure and how to set them up
+- [00:07:01,880 - 00:07:02,880] for success.
+- [00:07:02,880 - 00:07:06,780] So I'm happy to be here with you today.
+- [00:07:06,780 - 00:07:08,819] I'm happy to share the learnings
+- [00:07:08,819 - 00:07:10,859] that I found along the way.
+- [00:07:10,859 - 00:07:12,799] I've participated in many different
+- [00:07:12,799 - 00:07:14,740] mergers and acquisitions of small companies.
+- [00:07:14,740 - 00:07:16,540] I've worked with a number of companies,
+- [00:07:16,540 - 00:07:18,340] large companies, and really put that infrastructure
+- [00:07:18,340 - 00:07:19,340] in place.
+- [00:07:19,340 - 00:07:20,340] Okay.
+- [00:07:20,340 - 00:07:22,440] Thank you very much.
+- [00:07:22,440 - 00:07:26,120] So I'll just tell you a little
+- [00:07:26,120 - 00:07:29,800] bit about how I always approached my work.
+- [00:07:29,800 - 00:07:33,310] I never ever thought I wanted to work in
+- [00:07:33,310 - 00:07:36,820] a capacity where I would be doing people or
+- [00:07:36,820 - 00:07:38,640] HR work.
+- [00:07:38,640 - 00:07:41,110] But I started out really more in
+- [00:07:41,110 - 00:07:43,580] public relations, marketing, and what have you.
+- [00:07:43,580 - 00:07:47,050] But I ended up being a person
+- [00:07:47,050 - 00:07:50,520] where people came to for advice and counsel.
+- [00:07:50,520 - 00:07:53,589] And I started to see that you could
+- [00:07:53,589 - 00:07:56,659] really help people and help people be more effective
+- [00:07:56,659 - 00:08:00,469] by providing clarity often around what needed to
+- [00:08:00,469 - 00:08:04,280] be done or even just explaining a policy
+- [00:08:04,280 - 00:08:05,820] that I might know something about.
+- [00:08:05,820 - 00:08:08,769] I was the writer in the company I worked
+- [00:08:08,769 - 00:08:11,719] for initially, and so in addition to doing some
+- [00:08:11,719 - 00:08:13,380] of the public relations work that I did.
+- [00:08:13,380 - 00:08:16,650] I ended up writing the onboarding materials
+- [00:08:16,650 - 00:08:19,920] and the company manuals and all of that.
+- [00:08:19,920 - 00:08:24,160] And so I got to see that you could
+- [00:08:24,160 - 00:08:28,400] just have such an impact by helping people realize what
+- [00:08:28,400 - 00:08:31,909] organizations wanted them to do, but
+- [00:08:31,909 - 00:08:35,419] also helping facilitate them be successful.
+- [00:08:35,419 - 00:08:38,369] And I was very fortunate in I worked at
+- [00:08:38,369 - 00:08:41,320] and grew companies in the companies that I worked
+- [00:08:41,320 - 00:08:42,620] for.
+- [00:08:42,620 - 00:08:45,310] And I shared similar values with the founders
+- [00:08:45,310 - 00:08:48,000] of those companies, the leaders of those companies.
+- [00:08:48,000 - 00:08:50,360] And it's my belief that that's
+- [00:08:50,360 - 00:08:52,720] what helped make those companies successful.
+- [00:08:52,720 - 00:08:54,670] Certainly it was the products
+- [00:08:54,670 - 00:08:56,620] and it was the right market.
+- [00:08:56,620 - 00:09:00,720] But when you have the right combination
+- [00:09:00,720 - 00:09:04,820] of people with similar values and similar goals,
+- [00:09:04,820 - 00:09:09,160] and you put those together, you can work miracles.
+- [00:09:09,160 - 00:09:12,160] And so I'd like to see that.
+- [00:09:12,160 - 00:09:14,119] En suite guys, you'll talk about your
+- [00:09:14,119 - 00:09:16,079] acquired interests, our common interests, executive interests,
+- [00:09:16,079 - 00:09:17,079] and views.
+- [00:09:17,079 - 00:09:20,719] prochaine topics may you want to talk about?
+- [00:09:20,719 - 00:09:33,400] Thank you for asking those brings Kim these topics.
+- [00:09:33,400 - 00:09:35,260] I think again, that older than anyone, Ifachour
+- [00:09:35,260 - 00:09:37,120] 5000 more questions to return to and the conversation
+- [00:09:37,120 - 00:09:38,120] we did later.
+- [00:09:38,120 - 00:09:39,120] the question.
+- [00:09:39,120 - 00:09:39,620] Michel As wells I'd like to begin by saying
+- [00:09:39,620 - 00:09:40,120] that we're in the middle of a second quarter
+- [00:09:40,120 - 00:09:41,120] in the last dozen terms, or two minutes.
+- [00:09:41,120 - 00:09:42,120] We're still in the early 80s.
+- [00:09:42,120 - 00:09:44,220] well so hopefully we can can help you
+- [00:09:44,220 - 00:09:46,320] with things that you want to talk about
+- [00:09:46,320 - 00:09:49,590] tonight so I don't know if anybody wants to
+- [00:09:49,590 - 00:09:52,860] start off or I can read off one of
+- [00:09:52,860 - 00:09:56,370] the questions here we can give you some
+- [00:09:56,370 - 00:09:59,880] we can start from there how about I do
+- [00:09:59,880 - 00:10:04,200] that we got one okay got a question
+- [00:10:12,120 - 00:10:22,120] when should you start thinking about that HR function and in order to keep that DNA that you have with the
+- [00:10:22,120 - 00:10:32,120] special spark that you want to instill in the company how do you ensure that goes on even with investors coming along
+- [00:10:32,120 - 00:10:35,480] okay I think that you know
+- [00:10:35,480 - 00:10:38,840] whenever you're starting anything right I think
+- [00:10:38,840 - 00:10:41,800] if it's your product or if it's your company
+- [00:10:41,800 - 00:10:42,100] um
+- [00:10:42,100 - 00:10:43,590] you know typically maybe you're doing that
+- [00:10:43,590 - 00:10:45,080] on your own but most like you're
+- [00:10:45,080 - 00:10:46,960] doing with one or two other people at
+- [00:10:46,960 - 00:10:48,920] least to start I think it's important
+- [00:10:48,920 - 00:10:51,860] for you to talk about what's important
+- [00:10:51,860 - 00:10:55,700] to you and to make sure that the people
+- [00:10:55,700 - 00:10:56,760] that you're working with particularly
+- [00:10:56,760 - 00:10:59,140] I've been in situations where there's
+- [00:10:59,140 - 00:11:01,340] been you know co-founders co-founders
+- [00:11:01,340 - 00:11:05,560] that co-managed and you know
+- [00:11:05,560 - 00:11:07,240] built their companies from there and
+- [00:11:07,240 - 00:11:09,760] having alignment
+- [00:11:09,760 - 00:11:11,780] I think around what's important
+- [00:11:11,780 - 00:11:11,860] in a company transition see people's
+- [00:11:11,860 - 00:11:11,950] Fragen explains what we call as
+- [00:11:11,950 - 00:11:12,040] changing your portfolio in a company transition
+- [00:11:12,040 - 00:11:15,220] important to you, important around what you're
+- [00:11:15,220 - 00:11:18,400] trying to develop in terms of the quality
+- [00:11:18,400 - 00:11:21,660] that you want to put into it, what
+- [00:11:21,660 - 00:11:24,920] are the values around what you're producing, and then
+- [00:11:24,920 - 00:11:28,040] how do you operate together, right?
+- [00:11:28,040 - 00:11:32,219] What things are important?
+- [00:11:32,219 - 00:11:34,760] Trust is something that gets built over time.
+- [00:11:34,760 - 00:11:37,380] If you're going into business with someone,
+- [00:11:37,380 - 00:11:40,000] hopefully that you have some measure of trust
+- [00:11:40,000 - 00:11:42,220] or understanding there, but I
+- [00:11:42,220 - 00:11:44,440] think it starts very early, right?
+- [00:11:44,440 - 00:11:47,710] And I think whoever builds that organization, he
+- [00:11:47,710 - 00:11:50,980] or she, being conscious about it from the
+- [00:11:50,980 - 00:11:53,990] beginning, particularly if it's something you
+- [00:11:53,990 - 00:11:57,000] want to grow and expand, you're going
+- [00:11:57,000 - 00:11:59,500] to create an environment and you're going
+- [00:11:59,500 - 00:12:02,000] to create a livelihood, hopefully for yourself
+- [00:12:02,000 - 00:12:03,260] and for others.
+- [00:12:03,260 - 00:12:05,900] You want to make sure that that has
+- [00:12:05,900 - 00:12:08,540] elements that not only are sustainable, but also things
+- [00:12:08,540 - 00:12:09,980] that you believe in.
+- [00:12:09,980 - 00:12:12,730] And in terms of where, I
+- [00:12:12,730 - 00:12:15,480] think you start that early on, right?
+- [00:12:15,480 - 00:12:18,450] And then I think when you bring people
+- [00:12:18,450 - 00:12:21,420] into an organization, I did consulting with companies
+- [00:12:21,420 - 00:12:22,980] that were really small.
+- [00:12:22,980 - 00:12:28,350] I used to say that my rule of thumb was
+- [00:12:28,350 - 00:12:33,720] around 50 people or more, you needed some sort of
+- [00:12:33,720 - 00:12:36,180] help in that area.
+- [00:12:36,180 - 00:12:37,800] It could be maybe somebody outside.
+- [00:12:37,800 - 00:12:39,400] It could be an advisor.
+- [00:12:39,980 - 00:12:43,100] It could be family.
+- [00:12:43,100 - 00:12:46,340] You need somebody outside your circle to help
+- [00:12:46,340 - 00:12:49,580] you figure out how to structure, to help you
+- [00:12:49,580 - 00:12:52,220] figure out how to build your business.
+- [00:12:52,220 - 00:12:54,240] And maybe it's even a little smaller than
+- [00:12:54,240 - 00:12:56,260] that, depending on what the nature of the
+- [00:12:56,260 - 00:12:58,460] work is that you have.
+- [00:12:58,460 - 00:13:02,970] And then I think as you go through it,
+- [00:13:02,970 - 00:13:07,480] how you hire is probably one of the most important
+- [00:13:07,480 - 00:13:08,480] things.
+- [00:13:08,480 - 00:13:09,480] Whether you're a small company.
+- [00:13:09,480 - 00:13:11,440] Whether you're a large company.
+- [00:13:11,440 - 00:13:14,310] What that process is and how you vet
+- [00:13:14,310 - 00:13:17,180] people and how you treat people in that process.
+- [00:13:17,180 - 00:13:20,680] Whether or not you hire them or not
+- [00:13:20,680 - 00:13:24,180] is all a part of creating that culture.
+- [00:13:24,180 - 00:13:27,840] I also think that early on, it's
+- [00:13:27,840 - 00:13:31,500] important for companies to have a cadence.
+- [00:13:31,500 - 00:13:34,050] Just like one boss that used to
+- [00:13:34,050 - 00:13:36,600] say that managing was often like parenting.
+- [00:13:36,600 - 00:13:37,600] Right?
+- [00:13:37,600 - 00:13:38,600] Right.
+- [00:13:38,600 - 00:13:41,010] And sometimes if you have regular routines
+- [00:13:41,010 - 00:13:43,420] around how you do things, it becomes predictable,
+- [00:13:43,420 - 00:13:47,680] but it also gives people a sense of security.
+- [00:13:47,680 - 00:13:49,640] And that you do that as you parent, but
+- [00:13:49,640 - 00:13:51,600] you also do that when you manage and you build
+- [00:13:51,600 - 00:13:54,820] an organization.
+- [00:13:54,820 - 00:13:57,460] And then I think as you go
+- [00:13:57,460 - 00:14:00,100] through that, you go through a lot of...
+- [00:14:00,100 - 00:14:01,960] You make mistakes.
+- [00:14:01,960 - 00:14:05,540] You know sometimes it's their hiring mistakes.
+- [00:14:05,540 - 00:14:07,440] Sometimes they're directional mistakes.
+- [00:14:07,440 - 00:14:08,440] Right?
+- [00:14:08,440 - 00:14:12,830] And having the ability with your team to
+- [00:14:12,830 - 00:14:17,220] figure out how to move on from that starts
+- [00:14:17,220 - 00:14:19,160] to create the environment and then
+- [00:14:19,160 - 00:14:21,100] you build upon it from there.
+- [00:14:21,100 - 00:14:22,440] And I think it changed.
+- [00:14:22,440 - 00:14:23,920] I mean I saw...
+- [00:14:23,920 - 00:14:26,800] Largest growth I saw was probably from
+- [00:14:26,800 - 00:14:29,680] a company of 55 people to probably around...
+- [00:14:29,680 - 00:14:31,920] I guess we were about
+- [00:14:31,920 - 00:14:34,160] 2,000 people when RSA was sold.
+- [00:14:34,160 - 00:14:35,710] I worked at a company called
+- [00:14:35,710 - 00:14:37,260] RSA Security that was bought by EMC.
+- [00:14:37,260 - 00:14:38,260] And I think that's what I saw.
+- [00:14:38,260 - 00:14:39,260] It was a really...
+- [00:14:39,260 - 00:14:41,460] At each stage of growth, it was
+- [00:14:41,460 - 00:14:43,660] sometimes a different company and you needed different
+- [00:14:43,660 - 00:14:44,880] things.
+- [00:14:44,880 - 00:14:47,480] But I think what was important is we came
+- [00:14:47,480 - 00:14:50,080] back to the values that we had around how
+- [00:14:50,080 - 00:14:53,199] we wanted to run our business, how we
+- [00:14:53,199 - 00:14:56,319] wanted to treat one another, what was important,
+- [00:14:56,319 - 00:14:57,319] what we measured.
+- [00:14:57,319 - 00:15:01,259] I would say the organizations that worked best for
+- [00:15:01,259 - 00:15:05,200] me and the ones that I was most proud
+- [00:15:05,200 - 00:15:07,100] to be associated with were the ones that were...
+- [00:15:07,100 - 00:15:08,100] Yeah.
+- [00:15:08,100 - 00:15:12,060] The ones that were organizations of
+- [00:15:12,060 - 00:15:16,020] high achievement, but also human kindness.
+- [00:15:16,020 - 00:15:22,080] And I don't think that they're mutually exclusive.
+- [00:15:22,080 - 00:15:23,080] Very high standards.
+- [00:15:23,080 - 00:15:26,040] I think that you don't compromise those.
+- [00:15:26,040 - 00:15:27,530] But I do think that
+- [00:15:27,530 - 00:15:29,020] you still can have a how.
+- [00:15:29,020 - 00:15:31,020] And even if you have the tough things that
+- [00:15:31,020 - 00:15:33,020] you have to do in an organization, we were
+- [00:15:33,020 - 00:15:36,100] just talking about that now.
+- [00:15:36,100 - 00:15:37,100] Yeah.
+- [00:15:37,100 - 00:15:39,030] I think there's a how in terms you can treat
+- [00:15:39,030 - 00:15:40,960] people even if you have to make a change in
+- [00:15:40,960 - 00:15:44,080] the organization or if you had to do a
+- [00:15:44,080 - 00:15:47,200] workforce reduction or whatever the case may be, where
+- [00:15:47,200 - 00:15:49,490] you can still treat people with
+- [00:15:49,490 - 00:15:51,780] respect and kindness even in difficult times.
+- [00:15:51,780 - 00:15:54,560] So my point of view on that question, I
+- [00:15:54,560 - 00:15:57,340] ask these guys to jump in a little bit.
+- [00:15:57,340 - 00:16:01,350] I think you asked a question also around culture
+- [00:16:01,350 - 00:16:05,360] and I think when you think about how do you
+- [00:16:05,360 - 00:16:06,360] build culture?
+- [00:16:06,360 - 00:16:08,880] How do you maintain that as you start your organization?
+- [00:16:08,880 - 00:16:10,640] It's really building that foundation.
+- [00:16:10,640 - 00:16:13,140] So even just as simple as what is your
+- [00:16:13,140 - 00:16:15,640] mission statement and something that I think you and
+- [00:16:15,640 - 00:16:18,400] the core leadership team can build upon
+- [00:16:18,400 - 00:16:21,160] so that you reemphasize that as you continue
+- [00:16:21,160 - 00:16:22,160] to grow.
+- [00:16:22,160 - 00:16:24,240] What is your mission?
+- [00:16:24,240 - 00:16:27,260] What was it that you were set out to accomplish?
+- [00:16:27,260 - 00:16:29,350] And even a company like Thermo
+- [00:16:29,350 - 00:16:31,440] Fisher is at the 130,000 employees.
+- [00:16:31,440 - 00:16:35,220] Our mission is to make the world healthier, cleaner, safer.
+- [00:16:35,220 - 00:16:37,980] And why it is so critical and it's so
+- [00:16:37,980 - 00:16:40,740] important is because even on our worst days when I'm
+- [00:16:40,740 - 00:16:43,290] trying to motivate finance professionals, how
+- [00:16:43,290 - 00:16:45,840] do you contribute to the overall culture
+- [00:16:45,840 - 00:16:47,360] of the organization?
+- [00:16:47,360 - 00:16:52,040] It comes down to a patient and saving lives.
+- [00:16:52,040 - 00:16:54,660] And the patient becomes your family member.
+- [00:16:54,660 - 00:16:58,160] It's your mother, your brother, your sister, your child.
+- [00:16:58,160 - 00:17:01,100] And that's what culture does.
+- [00:17:01,100 - 00:17:02,100] It brings you back.
+- [00:17:02,100 - 00:17:03,020] And it makes...
+- [00:17:03,020 - 00:17:04,020] For you...
+- [00:17:04,020 - 00:17:05,020] Yeah.
+- [00:17:05,020 - 00:17:08,579] For you as entrepreneurs, it makes your mission
+- [00:17:08,579 - 00:17:12,139] and what you're trying to do just as important
+- [00:17:12,139 - 00:17:14,400] to your employees as it is to you.
+- [00:17:14,400 - 00:17:15,400] Right?
+- [00:17:15,400 - 00:17:18,489] So you use that as a tool to
+- [00:17:18,489 - 00:17:21,579] motivate your workforce, but also to attract your talent.
+- [00:17:21,579 - 00:17:25,029] So what I've noticed growing up in HR over
+- [00:17:25,029 - 00:17:28,480] the past couple of decades is that the younger
+- [00:17:28,480 - 00:17:32,480] generations, they want something that they can connect to.
+- [00:17:32,480 - 00:17:34,379] They want to know that what they're doing is...
+- [00:17:34,379 - 00:17:35,020] Yeah.
+- [00:17:35,020 - 00:17:37,520] It's symbolic and it's important to them.
+- [00:17:37,520 - 00:17:39,860] And so when you think about culture and
+- [00:17:39,860 - 00:17:42,200] how do you articulate your culture and what you're
+- [00:17:42,200 - 00:17:46,320] trying to do, keep that in mind and how
+- [00:17:46,320 - 00:17:50,440] do you do that and you leverage that brand for
+- [00:17:50,440 - 00:17:54,480] your people purposes as well.
+- [00:17:54,480 - 00:17:57,540] I agree with what Kim stated.
+- [00:17:57,540 - 00:17:59,470] So I was actually focusing on the
+- [00:17:59,470 - 00:18:01,400] culture piece of the question that you asked.
+- [00:18:01,400 - 00:18:03,020] I can tell you that one of the companies...
+- [00:18:03,020 - 00:18:04,020] The one that I'm working with is a company called...
+- [00:18:04,020 - 00:18:05,020] The one that I'm working with is a company called...
+- [00:18:05,020 - 00:18:07,520] The one that I am most proud
+- [00:18:07,520 - 00:18:10,020] to have worked for and worked with.
+- [00:18:10,020 - 00:18:14,020] Started relatively small with a problem.
+- [00:18:14,020 - 00:18:17,380] The founder worked for ADP and he
+- [00:18:17,380 - 00:18:20,740] was unhappy with how things were being processed.
+- [00:18:20,740 - 00:18:22,440] He was a salesperson.
+- [00:18:22,440 - 00:18:25,730] He thought he had a better way
+- [00:18:25,730 - 00:18:29,020] to create a product that companies could use.
+- [00:18:29,020 - 00:18:32,020] And so he took himself and a gentleman that
+- [00:18:32,020 - 00:18:35,020] he worked with and just really kind of took
+- [00:18:35,020 - 00:18:39,520] kind of out of his garage, started a
+- [00:18:39,520 - 00:18:44,020] product with his brother who was more the technical
+- [00:18:44,020 - 00:18:45,020] piece.
+- [00:18:45,020 - 00:18:49,000] But I think what I admired most about
+- [00:18:49,000 - 00:18:52,980] their philosophy and how they approached it, they
+- [00:18:52,980 - 00:18:54,480] really cared about people.
+- [00:18:54,480 - 00:18:56,240] It was people first.
+- [00:18:56,240 - 00:18:58,470] And the motto was that if you took care
+- [00:18:58,470 - 00:19:00,700] of your people, your people would take care of
+- [00:19:00,700 - 00:19:04,020] your customers and everything else would work out.
+- [00:19:04,020 - 00:19:07,460] And it seems very simple, but it was true.
+- [00:19:07,460 - 00:19:10,080] And he never shied from that.
+- [00:19:10,080 - 00:19:12,920] He didn't formally hire an HR
+- [00:19:12,920 - 00:19:15,760] person to kind of run the business.
+- [00:19:15,760 - 00:19:19,080] But what he did do was he hired people
+- [00:19:19,080 - 00:19:22,400] who believed in people and they were hard workers.
+- [00:19:22,400 - 00:19:25,300] They were really high achievers.
+- [00:19:25,300 - 00:19:28,820] And then naturally what happened was people
+- [00:19:28,820 - 00:19:32,340] kind of gravitated to the roles within the
+- [00:19:32,340 - 00:19:34,020] business that they had.
+- [00:19:34,020 - 00:19:36,980] They had their strengths and weaknesses with.
+- [00:19:36,980 - 00:19:41,300] And then he hired over time where there were gaps.
+- [00:19:41,300 - 00:19:44,240] But the philosophy never changed.
+- [00:19:44,240 - 00:19:48,220] And watching that company from a very small
+- [00:19:48,220 - 00:19:52,200] number of people and revenue to expand to
+- [00:19:52,200 - 00:19:55,840] be a significant number of
+- [00:19:55,840 - 00:19:59,480] people, revenue and ultimately sold.
+- [00:19:59,480 - 00:20:02,120] It was public at one point.
+- [00:20:02,120 - 00:20:03,460] It became private.
+- [00:20:03,460 - 00:20:07,200] It was then picked up and bought by a
+- [00:20:07,200 - 00:20:10,940] private equity firm that basically wanted it for 20
+- [00:20:10,940 - 00:20:11,940] years.
+- [00:20:11,940 - 00:20:14,150] And they weren't willing to sell it
+- [00:20:14,150 - 00:20:16,360] because of the people and their connection.
+- [00:20:16,360 - 00:20:19,160] The profitability was extraordinary and
+- [00:20:19,160 - 00:20:21,960] it was shared throughout the organization.
+- [00:20:21,960 - 00:20:24,220] So I think Kim is right.
+- [00:20:24,220 - 00:20:27,700] I think that you have to have a mission statement.
+- [00:20:27,700 - 00:20:29,850] You have to have something that your
+- [00:20:29,850 - 00:20:32,000] organization ties to that throughout the business.
+- [00:20:32,000 - 00:20:33,420] So for me, I wasn't in HR.
+- [00:20:33,460 - 00:20:35,980] But it was something I always thought of.
+- [00:20:35,980 - 00:20:37,510] I knew that I was going to
+- [00:20:37,510 - 00:20:39,040] be taken care of as an employee.
+- [00:20:39,040 - 00:20:41,100] And so I took care of my customers.
+- [00:20:41,100 - 00:20:44,080] And so as a result, revenue was generated.
+- [00:20:44,080 - 00:20:47,940] So I think it's very important to align with culture.
+- [00:20:47,940 - 00:20:54,940] Thank you very much.
+- [00:20:54,940 - 00:20:58,440] Most of the professional relationships within
+- [00:20:58,440 - 00:21:01,940] the small teams should be a practice.
+- [00:21:01,940 - 00:21:02,940] Thank you.
+- [00:21:02,940 - 00:21:07,580] I think that in a small
+- [00:21:07,580 - 00:21:12,220] business, you're going to have that.
+- [00:21:12,220 - 00:21:22,760] I think that it can get difficult, particularly friendships.
+- [00:21:22,760 - 00:21:26,110] I think what helps with that, what helps
+- [00:21:26,110 - 00:21:29,460] it work, is a level of understanding about what's
+- [00:21:29,460 - 00:21:30,460] going on in the organization.
+- [00:21:30,460 - 00:21:31,460] It's not just about the business.
+- [00:21:31,460 - 00:21:32,460] It's about the people.
+- [00:21:32,460 - 00:21:32,500] It's about the people.
+- [00:21:32,940 - 00:21:34,760] For example, you work in a military setting.
+- [00:21:34,760 - 00:21:58,780] And there, it's an issue of decentralization of business
+- [00:21:58,780 - 00:21:59,760] in a state system.
+- [00:21:59,760 - 00:22:00,880] It's not necessarily a statement, as Marc said.
+- [00:22:00,880 - 00:22:01,820] But it can be powerful.
+- [00:22:01,820 - 00:22:02,140] And I think that's what we'll have
+- [00:22:02,140 - 00:22:02,460] to look for, in terms of meeting.
+- [00:22:02,460 - 00:22:05,410] you've worked with before or what
+- [00:22:05,410 - 00:22:08,360] have you. And you know those those
+- [00:22:08,360 - 00:22:10,720] relationships may have started out as
+- [00:22:10,720 - 00:22:13,080] friendships and then had a professional
+- [00:22:13,080 - 00:22:15,690] component or vice versa right. But
+- [00:22:15,690 - 00:22:18,300] I think the role clarity is really
+- [00:22:18,300 - 00:22:21,560] important and also norms of behavior
+- [00:22:21,560 - 00:22:24,820] and really having discussions not waiting
+- [00:22:24,820 - 00:22:27,290] for those to evolve. If you decide
+- [00:22:27,290 - 00:22:29,760] you're going to go into business with with
+- [00:22:29,760 - 00:22:31,950] someone you've developed something with for
+- [00:22:31,950 - 00:22:34,140] example. I think talking about that is
+- [00:22:34,140 - 00:22:37,450] is really really really important and
+- [00:22:37,450 - 00:22:40,760] setting that up. As organizations evolve
+- [00:22:40,760 - 00:22:44,460] you know I think there has to be sort
+- [00:22:44,460 - 00:22:48,160] of rules of the road for how people operate.
+- [00:22:48,160 - 00:22:50,240] I mean we always we work together we
+- [00:22:50,240 - 00:22:52,320] are very social we're still we're very good
+- [00:22:52,320 - 00:22:55,300] friends now. And but when we work
+- [00:22:55,300 - 00:22:58,280] together our friend it was we had a
+- [00:22:58,280 - 00:22:59,740] collegial work environment.
+- [00:22:59,740 - 00:23:02,850] The friendships really developed more
+- [00:23:02,850 - 00:23:05,960] later and the friendships developed out
+- [00:23:05,960 - 00:23:08,880] of really mutual respect and
+- [00:23:08,880 - 00:23:11,800] from working together and achieving something
+- [00:23:11,800 - 00:23:13,750] together building something together. I mean
+- [00:23:13,750 - 00:23:15,700] once you've had the opportunity to
+- [00:23:15,700 - 00:23:17,640] build something together it's successful. I
+- [00:23:17,640 - 00:23:19,580] mean it's you've worked and there's
+- [00:23:19,580 - 00:23:21,970] nothing like it. And that my
+- [00:23:21,970 - 00:23:24,360] best experiences were we're really building
+- [00:23:24,360 - 00:23:26,990] organizations that that could thrive. The
+- [00:23:26,990 - 00:23:29,620] the company that that I grew up
+- [00:23:29,620 - 00:23:29,670] with was the University of Texas. I
+- [00:23:29,670 - 00:23:29,720] mean I grew up in a very well-established
+- [00:23:29,720 - 00:23:30,320] company. I grew up in a very well-established
+- [00:23:30,320 - 00:23:32,920] institution. I grew up at I was there
+- [00:23:32,920 - 00:23:35,520] 10 years and the company was sold on the
+- [00:23:35,520 - 00:23:38,190] week of my 10 year anniversary there
+- [00:23:38,190 - 00:23:40,860] which was and my birthday. And it was
+- [00:23:40,860 - 00:23:44,110] just one of those things and I but I was
+- [00:23:44,110 - 00:23:47,360] so proud of it. You know and and I will
+- [00:23:47,360 - 00:23:49,320] tell you I remember crying that day
+- [00:23:49,320 - 00:23:51,280] with my children when that happened because
+- [00:23:51,280 - 00:23:54,030] I I was I didn't spend as much time
+- [00:23:54,030 - 00:23:56,780] at home often as I did at work. It's just
+- [00:23:56,780 - 00:23:58,190] the nature of what I did. And you
+- [00:23:58,190 - 00:23:59,600] know I'm telling my kids this is you know
+- [00:23:59,600 - 00:24:01,369] part of your legacy now you know it's
+- [00:24:01,369 - 00:24:03,139] like. Well you were fine you know you're
+- [00:24:03,139 - 00:24:05,719] just a guilty working mother. But you
+- [00:24:05,719 - 00:24:08,300] know having that that pride in building
+- [00:24:08,300 - 00:24:10,879] something together right. So I think
+- [00:24:10,879 - 00:24:13,459] having a dialogue around it and early
+- [00:24:13,459 - 00:24:16,319] days doing that and establishing who
+- [00:24:16,319 - 00:24:19,179] does what. And also knowing sometimes
+- [00:24:19,179 - 00:24:21,449] when to back away. Right I
+- [00:24:21,449 - 00:24:23,719] have seen a couple of situations
+- [00:24:23,719 - 00:24:26,599] where I consulted where you know
+- [00:24:26,599 - 00:24:29,480] there were co-co-CEOs for example that really
+- [00:24:29,480 - 00:24:31,440] doesn't typically work very well.
+- [00:24:32,000 - 00:24:33,240] You know, one person
+- [00:24:33,240 - 00:24:35,520] usually needs to be in charge.
+- [00:24:35,960 - 00:24:37,420] It's not that the other person doesn't
+- [00:24:37,420 - 00:24:39,400] add equal value, and that's often
+- [00:24:39,400 - 00:24:41,660] why you often have your CTO person
+- [00:24:41,660 - 00:24:43,400] and maybe your person that runs the other
+- [00:24:43,400 - 00:24:45,520] side. The last company
+- [00:24:45,520 - 00:24:47,380] I worked at, the founder never
+- [00:24:47,380 - 00:24:49,360] wanted to run the company. He just
+- [00:24:49,360 - 00:24:51,380] wanted to be the evangelist for
+- [00:24:51,380 - 00:24:53,180] the product that he helped develop,
+- [00:24:53,440 - 00:24:55,480] and he decided that early on,
+- [00:24:55,480 - 00:24:57,540] so there were other people that came in
+- [00:24:57,540 - 00:24:59,200] and ran that organization.
+- [00:24:59,480 - 00:25:01,820] I hope that helps
+- [00:25:01,820 - 00:25:03,740] answer your question.
+- [00:25:29,480 - 00:25:31,540] What are the differences between founders and co-founders?
+- [00:25:32,480 - 00:25:33,420] So that's
+- [00:25:33,420 - 00:25:35,520] number one question. Second one is
+- [00:25:35,520 - 00:25:37,840] actually, like, in terms of
+- [00:25:37,840 - 00:25:39,520] for, like, a startup company,
+- [00:25:39,660 - 00:25:41,680] sometimes there are high roles, so you need
+- [00:25:41,680 - 00:25:43,120] to bring a lot of people in.
+- [00:25:43,740 - 00:25:45,240] And sometimes you're not sure
+- [00:25:45,240 - 00:25:47,540] the energy that you need that person
+- [00:25:47,540 - 00:25:48,940] to work out, you know,
+- [00:25:48,960 - 00:25:51,800] working hard. So I wonder
+- [00:25:51,800 - 00:25:53,600] whether, in terms of how
+- [00:25:53,600 - 00:25:55,520] to structure that kind of relationship
+- [00:25:55,520 - 00:25:57,860] is going to be
+- [00:25:57,860 - 00:25:59,460] like a, you know, a high-paying
+- [00:25:59,480 - 00:26:04,480] six months or a year or three months, which type of the reason
+- [00:26:04,480 - 00:26:09,480] of the person trying to figure out where is the fit or not.
+- [00:26:09,480 - 00:26:18,480] And in terms of conversation, life or equity arrangement-wise, is the best thing, is the
+- [00:26:18,480 - 00:26:27,480] only way to kind of make this kind of arrangement or what other arrangement makes sense.
+- [00:26:27,480 - 00:26:34,480] That's a lot of good ones.
+- [00:26:34,480 - 00:26:35,980] Yeah, I know. I don't
+- [00:26:35,980 - 00:26:37,480] know where to start with that.
+- [00:26:37,480 - 00:26:44,980] So what I guess I will say is that sometimes I think it's a good situation,
+- [00:26:44,980 - 00:26:52,480] even not in just a founding situation, to sort of try before you buy, if you will.
+- [00:26:52,480 - 00:26:56,480] Particularly if you're uncertain.
+- [00:26:56,480 - 00:26:57,480] Yeah.
+- [00:26:57,480 - 00:26:59,980] You know, sometimes people are
+- [00:26:59,980 - 00:27:02,480] not sure about that person's capability.
+- [00:27:02,480 - 00:27:05,980] You know, sometimes people may represent their
+- [00:27:05,980 - 00:27:09,480] skills different, you know, better than they are.
+- [00:27:09,480 - 00:27:17,980] You know, and so if you can have someone come in as a consultant, I think, you know, depending on how what
+- [00:27:17,980 - 00:27:26,480] the nature is that they're providing the service about, I usually could assess that, I would say, in less than three months.
+- [00:27:26,480 - 00:27:27,480] Sometimes a day.
+- [00:27:27,480 - 00:27:29,480] You know, sometimes you would know.
+- [00:27:29,480 - 00:27:33,480] But I trust my intuitive judgment on that.
+- [00:27:33,480 - 00:27:35,980] That was one of my things
+- [00:27:35,980 - 00:27:38,480] that I was always good at doing.
+- [00:27:38,480 - 00:27:41,980] But I think that within three months, I mean, that's why
+- [00:27:41,980 - 00:27:45,480] in the past people used to have these 90-day probation periods.
+- [00:27:45,480 - 00:27:46,980] You know, when people came in, they
+- [00:27:46,980 - 00:27:48,480] don't do that so much at work anymore.
+- [00:27:48,480 - 00:27:50,980] But you can usually tell if
+- [00:27:50,980 - 00:27:53,480] people are going to be contributing.
+- [00:27:53,480 - 00:27:53,980] And most importantly, you're going to be able
+- [00:27:53,980 - 00:27:54,480] to tell if you're going to be contributing.
+- [00:27:54,480 - 00:27:55,480] And so that's a good thing.
+- [00:27:55,480 - 00:27:57,480] You're going to be able to tell if you're
+- [00:27:57,480 - 00:27:59,480] going to have good give and take with them.
+- [00:27:59,480 - 00:28:01,980] And so, you know, to
+- [00:28:01,980 - 00:28:04,480] bring in someone in that respect.
+- [00:28:04,480 - 00:28:07,480] And then it depends on what you can afford.
+- [00:28:07,480 - 00:28:10,480] It depends what that person's expertise is.
+- [00:28:10,480 - 00:28:16,980] I think early on, if you can do it in a way that it's, you know, some sort
+- [00:28:16,980 - 00:28:23,480] of monetary compensation, you know, versus stock or anything like that, I wouldn't do anything like that early on.
+- [00:28:23,480 - 00:28:23,980] If you're limited in money, you know,
+- [00:28:23,980 - 00:28:24,480] you're going to have to do it.
+- [00:28:24,480 - 00:28:25,480] You know, you're going to have to do it.
+- [00:28:25,480 - 00:28:27,480] You can try to negotiate something.
+- [00:28:27,480 - 00:28:32,980] Or if someone really does want the job, they'll maybe accept, you know, a little bit
+- [00:28:32,980 - 00:28:38,480] of a less of a consulting fee if they think that you might be hiring them.
+- [00:28:38,480 - 00:28:41,480] So I hope that answers some of your questions.
+- [00:28:41,480 - 00:28:44,480] In the beginning, your question was
+- [00:28:44,480 - 00:28:47,480] about who should, about co-founder title.
+- [00:28:47,480 - 00:28:48,480] Yes.
+- [00:28:48,480 - 00:28:49,480] Co-founder, co-founder.
+- [00:28:49,480 - 00:28:51,480] Is that kind of a difference?
+- [00:28:51,480 - 00:28:52,980] Or like let's say we have someone
+- [00:28:52,980 - 00:28:54,480] who joined a couple of years ago.
+- [00:28:54,480 - 00:28:57,480] Yes.
+- [00:28:57,480 - 00:28:58,480] a couple of day?
+- [00:28:58,480 - 00:28:59,480] As most money you spend there times.
+- [00:28:59,480 - 00:29:00,480] Yes.
+- [00:29:00,480 - 00:29:00,980] It să medicality output there as a much
+- [00:29:00,980 - 00:29:01,480] better possible way to do what you've done?
+- [00:29:01,480 - 00:28:56,994] Given benefits333 00 cas a couple of months created than-
+- [00:28:56,994 - 00:28:58,174] 姐姐吃了
+- [00:28:58,178 - 00:29:01,178] What is a co-founder?
+- [00:29:02,398 - 00:29:05,578] In that case, the founder and co-founder...
+- [00:29:05,578 - 00:29:07,178] It can be ambiguous.
+- [00:29:08,958 - 00:29:11,318] I think that in the
+- [00:29:11,318 - 00:29:13,678] situations where I've seen the co-founders,
+- [00:29:14,397 - 00:29:16,878] they really did come in together.
+- [00:29:17,738 - 00:29:20,078] It wasn't that somebody came and asked for that.
+- [00:29:20,618 - 00:29:22,858] I personally have not seen that.
+- [00:29:23,478 - 00:29:25,148] I guess what I would say
+- [00:29:25,148 - 00:29:26,818] is it would depend on the value
+- [00:29:26,818 - 00:29:29,178] that that person was bringing in.
+- [00:29:29,318 - 00:29:31,418] If he or she had
+- [00:29:31,418 - 00:29:33,518] an expertise that you really needed
+- [00:29:33,518 - 00:29:35,438] to make your business be successful,
+- [00:29:36,018 - 00:29:37,938] and it complimented you,
+- [00:29:38,518 - 00:29:40,358] then that might be something I would do.
+- [00:29:41,258 - 00:29:42,438] But I don't know that I
+- [00:29:42,438 - 00:29:43,618] would give it away right away.
+- [00:29:44,358 - 00:29:47,128] I think I would take the
+- [00:29:47,128 - 00:29:49,898] time to get to know that person,
+- [00:29:51,138 - 00:29:53,598] whether it's coming in and working as a consultant,
+- [00:29:53,918 - 00:29:56,798] whether it's problem-solving on something,
+- [00:29:56,818 - 00:29:57,318] whether it's working together.
+- [00:29:57,798 - 00:30:00,978] I also think that in that whole recruitment process,
+- [00:30:01,238 - 00:30:04,278] if it's a small organization that you have,
+- [00:30:04,518 - 00:30:06,818] or whenever we hired executives,
+- [00:30:08,878 - 00:30:11,158] I would always have more
+- [00:30:11,158 - 00:30:13,438] than one course or interview inside,
+- [00:30:13,798 - 00:30:16,578] but I'd always try to take people out to dinner.
+- [00:30:19,178 - 00:30:22,718] Or an informal environment.
+- [00:30:22,718 - 00:30:24,728] I used to always look for
+- [00:30:24,728 - 00:30:26,738] how well people treated the way
+- [00:30:26,738 - 00:30:26,798] they were.
+- [00:30:26,818 - 00:30:29,178] I would look at the staff in a restaurant
+- [00:30:29,498 - 00:30:31,638] when we were going to hire an executive.
+- [00:30:32,178 - 00:30:35,098] You know, did they treat that person with respect?
+- [00:30:35,498 - 00:30:38,798] How did they behave around others?
+- [00:30:39,178 - 00:30:43,578] Because someone can interview very well,
+- [00:30:44,078 - 00:30:46,198] but you might miss some of the subtleties
+- [00:30:46,198 - 00:30:48,138] for how their human interaction is.
+- [00:30:48,618 - 00:30:51,298] And so that's what I would advise.
+- [00:30:51,298 - 00:30:53,808] I would take my time and try
+- [00:30:53,808 - 00:30:56,318] to really get to know the person.
+- [00:30:56,318 - 00:30:59,598] And the whole person, not just what they're bringing
+- [00:30:59,598 - 00:31:02,108] to the table or their
+- [00:31:02,108 - 00:31:04,618] particular technical expertise or skill set.
+- [00:31:08,518 - 00:31:09,678] One in the back there.
+- [00:31:09,678 - 00:31:10,318] Gentleman back there.
+- [00:31:14,198 - 00:31:15,698] Thank you for your answers.
+- [00:31:15,698 - 00:31:20,838] I have a question regarding your experience
+- [00:31:20,838 - 00:31:23,638] that you mentioned in very good acquisitions and that sort.
+- [00:31:24,358 - 00:31:26,038] So what are your .
+- [00:31:26,038 - 00:31:28,038] I asked you for that .
+- [00:31:28,038 - 00:31:29,258] I know that not everybody might know
+- [00:31:29,258 - 00:31:32,318] that you might have found regarding
+- [00:31:32,318 - 00:31:36,158] or for a startup that's trying to be destructive
+- [00:31:36,158 - 00:31:38,478] against these big, large companies.
+- [00:31:38,478 - 00:31:41,378] But at the same time, is basic battles
+- [00:31:41,378 - 00:31:43,578] in being acquired by those large companies.
+- [00:31:43,578 - 00:31:46,458] What advice do you have for those startups
+- [00:31:46,458 - 00:31:48,438] to be disruptive and to
+- [00:31:48,438 - 00:31:50,418] kind of dominate in that sense
+- [00:31:50,418 - 00:31:52,838] and overtake those large companies?
+- [00:31:52,838 - 00:31:54,398] So you want me to take this one?
+- [00:31:54,398 - 00:31:55,358] Oh, I thought you'd put you.
+- [00:31:55,358 - 00:31:58,358] So being with a very large company.
+- [00:31:58,358 - 00:32:02,178] And when I think about the competitive landscape.
+- [00:32:02,178 - 00:32:04,168] And so right now, I'll
+- [00:32:04,168 - 00:32:06,158] give you a real time story.
+- [00:32:06,158 - 00:32:07,678] We're a multinational company.
+- [00:32:07,678 - 00:32:08,998] We have a very large
+- [00:32:08,998 - 00:32:10,318] business that we do in China.
+- [00:32:10,318 - 00:32:13,758] And the China competition can do it better and faster.
+- [00:32:13,758 - 00:32:15,178] And they're small.
+- [00:32:15,178 - 00:32:16,618] They're much smaller than us.
+- [00:32:16,618 - 00:32:18,938] So just I was in China over the summer.
+- [00:32:18,938 - 00:32:20,558] And we got the opportunity to go meet
+- [00:32:20,558 - 00:32:21,538] with a bunch of customers.
+- [00:32:21,538 - 00:32:24,458] And the difference is that our.
+- [00:32:24,458 - 00:32:28,218] Our sell is size and scale.
+- [00:32:28,218 - 00:32:30,778] We can service anything you need.
+- [00:32:30,778 - 00:32:33,778] The problem with doing business with a larger company
+- [00:32:33,778 - 00:32:38,038] is the pace is slow and the rigidity is large.
+- [00:32:38,038 - 00:32:41,898] So the smaller companies build on the relationship
+- [00:32:41,898 - 00:32:45,458] and how flexible, nimble, and fast they can be.
+- [00:32:45,458 - 00:32:48,398] And that's the difference.
+- [00:32:48,398 - 00:32:50,778] It really is in terms of customer service.
+- [00:32:50,778 - 00:32:52,658] And then there's always different dynamics
+- [00:32:52,658 - 00:32:54,458] that are playing from an economic standpoint.
+- [00:32:54,458 - 00:32:56,078] That you just got to get ahead
+- [00:32:56,078 - 00:32:57,698] and kind of be on top of
+- [00:32:57,698 - 00:32:58,378] and think about.
+- [00:32:58,378 - 00:33:00,028] But frankly, those are the
+- [00:33:00,028 - 00:33:01,678] things that being a large company,
+- [00:33:01,678 - 00:33:02,738] it irritates us.
+- [00:33:02,738 - 00:33:04,858] It's like, oh, we just can't move fast enough.
+- [00:33:04,858 - 00:33:08,238] Or we cannot accommodate for this particular customer.
+- [00:33:08,238 - 00:33:10,118] Because that would mean we have to extend that
+- [00:33:10,118 - 00:33:12,658] to other customers or things of that nature.
+- [00:33:12,658 - 00:33:18,077] But that's one thing.
+- [00:33:18,077 - 00:33:21,338] And then certainly, depending upon what is going to be,
+- [00:33:21,338 - 00:33:24,018] what you're selling, it's going to be,
+- [00:33:24,018 - 00:33:26,018] whether it's quality.
+- [00:33:26,018 - 00:33:28,717] What we find with the smaller companies, it's usually price.
+- [00:33:28,717 - 00:33:30,618] They can do it for a better price.
+- [00:33:30,618 - 00:33:34,958] So if it's a good enough type of product
+- [00:33:34,958 - 00:33:36,258] where the customer's looking for,
+- [00:33:36,258 - 00:33:39,318] they're not necessarily going to go for our bigger quality
+- [00:33:39,318 - 00:33:41,998] product that we've invested a lot of R&D dollars in.
+- [00:33:41,998 - 00:33:43,547] But they're going to look
+- [00:33:43,547 - 00:33:45,097] for the good enough product that's
+- [00:33:45,097 - 00:33:46,097] at a better price point.
+- [00:33:49,837 - 00:33:52,458] I would say also, one of the companies
+- [00:33:52,458 - 00:33:53,498] that I'm on the board for.
+- [00:33:53,498 - 00:33:53,737] We've done a lot of research.
+- [00:33:53,737 - 00:33:53,837] We've done a lot of research.
+- [00:33:53,837 - 00:33:53,897] We've done a lot of research.
+- [00:33:53,897 - 00:33:53,977] We've done a lot of research.
+- [00:33:53,977 - 00:33:53,998] We've done a lot of research.
+- [00:33:54,018 - 00:33:54,258] We've done a lot of research.
+- [00:33:54,258 - 00:33:55,018] We've done a lot of research.
+- [00:33:55,018 - 00:33:56,797] The company's been around a long time.
+- [00:33:56,797 - 00:33:59,378] It's an infrastructure company.
+- [00:33:59,378 - 00:34:05,777] And our direction now is growing through acquisition.
+- [00:34:05,777 - 00:34:08,047] And we've been very selective
+- [00:34:08,047 - 00:34:10,318] and disciplined in that process.
+- [00:34:10,318 - 00:34:16,058] The prices for companies over private or ones
+- [00:34:16,058 - 00:34:17,638] that are being divested or whatever
+- [00:34:17,638 - 00:34:19,187] is because of all the
+- [00:34:19,187 - 00:34:20,737] money that's been in the market.
+- [00:34:20,737 - 00:34:23,977] It's been really hard to compete sometimes with,
+- [00:34:23,978 - 00:34:27,118] with what private equity could do.
+- [00:34:27,118 - 00:34:29,978] But what I would say
+- [00:34:29,978 - 00:34:32,838] is that with the right approach,
+- [00:34:32,838 - 00:34:37,158] when we've been acquiring, we've been really careful
+- [00:34:37,158 - 00:34:41,217] to keep the right talent, particularly the people
+- [00:34:41,217 - 00:34:43,498] that understand the technology and whatever.
+- [00:34:43,498 - 00:34:47,518] And many times, the people that have founded these companies
+- [00:34:47,518 - 00:34:50,478] have a very strong following of the people that
+- [00:34:50,478 - 00:34:51,878] work for them, right?
+- [00:34:51,878 - 00:34:52,908] And so in order to
+- [00:34:52,908 - 00:34:53,938] retain them, we've been very careful.
+- [00:34:53,938 - 00:34:55,868] And also make sure you get
+- [00:34:55,868 - 00:34:57,798] the most out of that acquisition
+- [00:34:57,798 - 00:35:02,238] investment to make sure that you're keeping a founder,
+- [00:35:02,238 - 00:35:05,098] at least for a period of
+- [00:35:05,098 - 00:35:07,958] time, and make it a win-win situation.
+- [00:35:07,958 - 00:35:10,158] That, I think, works the best.
+- [00:35:10,158 - 00:35:14,418] And the smart companies, I think, understand that and know
+- [00:35:14,418 - 00:35:17,618] how to make it attractive for people to stay.
+- [00:35:20,618 - 00:35:21,837] I would agree with that.
+- [00:35:21,837 - 00:35:23,918] So in my current organization, it's
+- [00:35:23,918 - 00:35:25,638] a strategy that we have.
+- [00:35:25,638 - 00:35:28,038] So rather than building out the product offering
+- [00:35:28,038 - 00:35:32,298] that we have now, we're looking outside
+- [00:35:32,298 - 00:35:37,538] to see what products can be complementary or for something
+- [00:35:37,538 - 00:35:39,998] that the customer will utilize.
+- [00:35:39,998 - 00:35:43,898] We acquired a company last year ago, June.
+- [00:35:43,898 - 00:35:48,298] And the revenue component on that organization
+- [00:35:48,298 - 00:35:49,898] is extraordinary.
+- [00:35:49,898 - 00:35:50,598] It ran intact.
+- [00:35:50,598 - 00:35:51,098] It ran intact.
+- [00:35:51,098 - 00:35:51,598] It ran intact.
+- [00:35:51,598 - 00:35:52,098] It ran intact.
+- [00:35:52,098 - 00:35:52,598] It ran intact.
+- [00:35:52,598 - 00:35:53,098] It ran intact.
+- [00:35:53,098 - 00:35:53,598] It ran intact.
+- [00:35:53,598 - 00:35:53,898] It ran intact.
+- [00:35:53,898 - 00:35:54,418] It ran intact.
+- [00:35:54,418 - 00:35:54,978] It ran intact.
+- [00:35:54,978 - 00:35:55,938] It ran intact.
+- [00:35:55,938 - 00:35:56,518] It ran intact.
+- [00:35:56,518 - 00:35:56,978] It ran intact.
+- [00:35:56,978 - 00:35:57,478] It ran intact.
+- [00:35:57,478 - 00:35:57,978] It ran intact.
+- [00:35:57,978 - 00:35:58,438] It ran intact.
+- [00:35:58,438 - 00:35:58,938] It ran intact.
+- [00:35:58,938 - 00:35:59,438] It ran intact.
+- [00:35:59,438 - 00:35:59,938] It ran intact.
+- [00:35:59,938 - 00:36:00,438] It ran intact.
+- [00:36:00,438 - 00:36:02,018] It was a separate part of the business
+- [00:36:02,018 - 00:36:03,618] for almost the better part of
+- [00:36:03,618 - 00:36:05,218] a year so that we could really
+- [00:36:05,218 - 00:36:07,678] assess the talent that was there.
+- [00:36:07,678 - 00:36:09,518] The founder is still there.
+- [00:36:09,518 - 00:36:13,798] He had a great say in how the operation would
+- [00:36:13,798 - 00:36:15,198] come into the business.
+- [00:36:15,198 - 00:36:17,788] And it's only been the past
+- [00:36:17,788 - 00:36:20,378] six months that it's now that,
+- [00:36:20,378 - 00:36:23,578] I would say, outside of the G&A functions,
+- [00:36:23,578 - 00:36:26,807] So I think there's lots of opportunity
+- [00:36:26,807 - 00:36:30,037] there, and I think, from my experience, companies
+- [00:36:30,037 - 00:36:34,178] want their acquisition to be successful.
+- [00:36:34,178 - 00:36:36,447] And the talent and the people that are
+- [00:36:36,447 - 00:36:38,717] there, oftentimes it's not simply the product that's
+- [00:36:38,717 - 00:36:40,078] the most important piece.
+- [00:36:40,078 - 00:36:41,078] Yeah.
+- [00:36:41,078 - 00:36:43,348] A lot of times, too, I think if you do
+- [00:36:43,348 - 00:36:45,618] it the right way, you look at the talent that
+- [00:36:45,618 - 00:36:48,348] you're bringing in through an acquisition,
+- [00:36:48,348 - 00:36:51,078] and sometimes you have better talent that
+- [00:36:51,078 - 00:36:53,198] you're hiring, and you may
+- [00:36:53,198 - 00:36:55,318] not have the same talent inside.
+- [00:36:55,318 - 00:36:58,457] And it's not always popular to do that,
+- [00:36:58,457 - 00:37:01,597] but I can think of organizations that, in the
+- [00:37:01,597 - 00:37:03,958] past, I was a part of and we made acquisitions.
+- [00:37:03,958 - 00:37:06,897] I actually made changes on my staff because
+- [00:37:06,897 - 00:37:09,837] the people that we got through the acquisition
+- [00:37:09,837 - 00:37:11,458] just had a better skill set.
+- [00:37:11,458 - 00:37:13,587] And that's never an easy conversation, but at the
+- [00:37:13,587 - 00:37:15,717] end of the day, you have to do what's
+- [00:37:15,717 - 00:37:18,277] best for the business.
+- [00:37:18,277 - 00:37:20,818] And you've got to go with...
+- [00:37:20,818 - 00:37:20,917] As America.
+- [00:37:21,078 - 00:37:22,078] Yeah.
+- [00:37:22,078 - 00:37:22,578] And I think that's what's really important, is
+- [00:37:22,578 - 00:37:23,078] that you have to take the people that you
+- [00:37:23,078 - 00:37:24,078] are hiring and make them your own.
+- [00:37:24,078 - 00:37:25,078] And I think that's the best way to do it.
+- [00:37:25,078 - 00:37:26,078] I think that's the best way to do it.
+- [00:37:26,078 - 00:37:27,078] Thank you.
+- [00:37:27,078 - 00:37:28,078] Thank you.
+- [00:37:28,078 - 00:37:29,078] Thank you, Shari.
+- [00:37:29,078 - 00:37:29,578] My question is, I've been very
+- [00:37:29,578 - 00:37:30,078] impressed with how people relate to us.
+- [00:37:30,078 - 00:37:31,078] As a founder, I actually find myself to be more...
+- [00:37:31,078 - 00:37:32,078] I have valued the relationship more than the interests.
+- [00:37:32,078 - 00:37:33,078] That's just how I feel.
+- [00:37:33,078 - 00:37:33,578] I don't want to be the one who's like, I'm
+- [00:37:33,578 - 00:37:34,078] not going to be the one who's going to do this.
+- [00:37:34,078 - 00:37:34,578] I'm just going to be the
+- [00:37:34,578 - 00:37:35,078] one who's going to do this.
+- [00:37:35,078 - 00:37:35,578] I'm just going to be the
+- [00:37:35,578 - 00:37:36,078] one who's going to do this.
+- [00:37:36,078 - 00:37:37,078] And I think that's the best thing.
+- [00:37:37,078 - 00:37:38,078] Yeah.
+- [00:37:38,078 - 00:37:39,078] I think that's really important.
+- [00:37:39,078 - 00:37:42,578] And in that sense, is it important
+- [00:37:42,578 - 00:37:46,078] to have yourидados sometimes raised, making them
+- [00:37:46,078 - 00:37:47,078] your own?
+- [00:37:47,078 - 00:37:50,227] Or sometimes are you making a class application
+- [00:37:50,227 - 00:37:53,377] work or are you changing some of that...
+- [00:37:53,377 - 00:37:58,567] Are you looking at some of this sort of
+- [00:37:58,567 - 00:38:03,757] or not looking at some of this sort of management
+- [00:38:03,757 - 00:38:05,718] where you're the founder, right?
+- [00:38:05,718 - 00:38:07,078] you making them your own?
+- [00:38:07,078 - 00:38:08,078] And usually with that kind
+- [00:38:08,078 - 00:38:09,078] of background, I 죽 último interface.
+- [00:38:09,078 - 00:38:10,528] come across as, you know,
+- [00:38:10,528 - 00:38:11,978] you're not setting enough boundaries.
+- [00:38:12,458 - 00:38:16,388] I think, you know, some founders, like,
+- [00:38:16,388 - 00:38:20,318] founders come from a variety of, you know,
+- [00:38:21,598 - 00:38:23,738] boxes, like, they're different.
+- [00:38:24,018 - 00:38:26,577] So maybe there's a team or something that I
+- [00:38:26,577 - 00:38:29,137] think that would very close to that kind of confidence
+- [00:38:29,137 - 00:38:32,357] will grow up to where it's going to be
+- [00:38:32,357 - 00:38:35,578] a very mindful, you know, people in my situation.
+- [00:38:35,938 - 00:38:36,218] Yeah.
+- [00:38:36,858 - 00:38:37,377] Thank you.
+- [00:38:37,378 - 00:38:41,938] So here, the best advice that I can give
+- [00:38:41,938 - 00:38:46,498] you is, and it's interesting because I just had
+- [00:38:46,498 - 00:38:50,368] this conversation with one of the executives that
+- [00:38:50,368 - 00:38:54,238] we have, and I think the best thing that
+- [00:38:54,238 - 00:38:56,468] you can do, we try and try oftentimes to
+- [00:38:56,468 - 00:38:58,698] look at the faults that we have and change them,
+- [00:38:58,838 - 00:39:00,498] and there's going to come a certain point
+- [00:39:00,498 - 00:39:02,158] in your career where you have to step back
+- [00:39:02,158 - 00:39:03,898] and be very self-aware of who you are.
+- [00:39:04,358 - 00:39:05,858] And you look at the strengths, and
+- [00:39:05,858 - 00:39:07,358] you look at where you have opportunities.
+- [00:39:07,378 - 00:39:07,738] Right?
+- [00:39:07,838 - 00:39:09,808] And so you said, you know, oftentimes you
+- [00:39:09,808 - 00:39:11,778] may not have the boundaries that you need.
+- [00:39:11,898 - 00:39:12,898] That's who you are.
+- [00:39:13,558 - 00:39:15,618] You know, so even when you think about that
+- [00:39:15,618 - 00:39:17,678] from a leader standpoint, that is who you are.
+- [00:39:17,778 - 00:39:18,818] So you say, okay, these are
+- [00:39:18,818 - 00:39:19,858] the things that I'm really good at.
+- [00:39:19,978 - 00:39:21,878] These are the things that I need some help with.
+- [00:39:22,158 - 00:39:24,228] And you go higher, and you put people
+- [00:39:24,228 - 00:39:26,298] that trust, that fill in those gaps around you.
+- [00:39:26,398 - 00:39:29,178] So, you know, my advice to my colleague as
+- [00:39:29,178 - 00:39:31,958] we were talking about it, he's incredibly strategic in nature.
+- [00:39:32,358 - 00:39:33,998] He's very broad thinking.
+- [00:39:34,138 - 00:39:35,668] His issue is that he has
+- [00:39:35,668 - 00:39:37,198] a really hard time bringing strategy.
+- [00:39:37,378 - 00:39:39,678] Execution and mobilizing his workforce.
+- [00:39:40,398 - 00:39:43,768] And so instead of sitting there and trying to change
+- [00:39:43,768 - 00:39:47,138] him forever around how do you articulate that strategy better,
+- [00:39:47,138 - 00:39:49,828] it's we try to put folks around
+- [00:39:49,828 - 00:39:52,518] him that he trusts that are execution-oriented,
+- [00:39:52,778 - 00:39:54,668] and then they go off and
+- [00:39:54,668 - 00:39:56,558] they mobilize the rest of the workforce.
+- [00:39:56,818 - 00:40:00,418] So you might want to think about, you know, how do you
+- [00:40:00,418 - 00:40:04,018] complement your own style with people that are a little bit different,
+- [00:40:04,338 - 00:40:05,768] that you trust their advice, you
+- [00:40:05,768 - 00:40:07,198] know, because that's going to be hard.
+- [00:40:07,278 - 00:40:07,358] Right.
+- [00:40:07,358 - 00:40:09,108] Those conversations will be difficult, but you
+- [00:40:09,108 - 00:40:10,858] know that when the person comes to you,
+- [00:40:11,137 - 00:40:15,047] okay, they mean it with the best of intentions, and
+- [00:40:15,047 - 00:40:18,958] they can balance, you know, some of that out for you.
+- [00:40:20,277 - 00:40:21,798] Yeah, I agree with that, too.
+- [00:40:21,798 - 00:40:25,858] I think you, we are who we are, right?
+- [00:40:26,338 - 00:40:29,098] And so I can think of a point in my
+- [00:40:29,098 - 00:40:31,858] career when I first got into a more senior role,
+- [00:40:32,318 - 00:40:33,907] I started to be, tried to
+- [00:40:33,907 - 00:40:35,497] be somebody different than who I was.
+- [00:40:36,078 - 00:40:36,818] You know, when I was,
+- [00:40:37,358 - 00:40:39,057] you know, more hard-nosed about things, for
+- [00:40:39,057 - 00:40:40,757] lack of a better way to describe it,
+- [00:40:40,897 - 00:40:43,227] and I didn't trust my intuitive
+- [00:40:43,227 - 00:40:45,558] judgment as much as I used to,
+- [00:40:45,558 - 00:40:48,078] and I wasn't as effective, right?
+- [00:40:48,537 - 00:40:51,317] So I think, you know, if that's who
+- [00:40:51,317 - 00:40:54,098] you are, I think Kim's advice is good advice.
+- [00:40:54,617 - 00:40:57,327] You know, understand who you are, and,
+- [00:40:57,327 - 00:41:00,037] you know, we change a little bit,
+- [00:41:00,178 - 00:41:03,708] but, you know, over time, we're pretty fully formed by
+- [00:41:03,708 - 00:41:07,238] the time we get to around 30, 35, even more.
+- [00:41:07,238 - 00:41:08,617] When you're over 50.
+- [00:41:10,218 - 00:41:15,408] And then you just hire to your compliment, and
+- [00:41:15,408 - 00:41:20,598] take trusted advice of people that are different from you
+- [00:41:20,598 - 00:41:21,858] and have a different point of view.
+- [00:41:22,438 - 00:41:26,617] But I think that, you know, understanding who you are
+- [00:41:26,617 - 00:41:29,437] and having people probably appreciate the fact
+- [00:41:29,437 - 00:41:32,257] that you are like you are, right?
+- [00:41:32,757 - 00:41:34,917] And that you do show, it
+- [00:41:34,917 - 00:41:37,078] sounds like you show empathy and consistency.
+- [00:41:37,078 - 00:41:37,218] Yeah.
+- [00:41:37,238 - 00:41:39,517] And consideration, very much so.
+- [00:41:39,757 - 00:41:40,617] And that's a gift.
+- [00:41:41,978 - 00:41:42,978] It is a gift.
+- [00:41:43,157 - 00:41:45,978] It's also, you know what, it's a muscle.
+- [00:41:46,458 - 00:41:47,857] So the more you use it,
+- [00:41:47,857 - 00:41:49,257] the better you'll get at it.
+- [00:41:49,377 - 00:41:52,938] So the more you recognize that that's not your strength,
+- [00:41:53,017 - 00:41:54,037] and you need to lean
+- [00:41:54,037 - 00:41:55,058] on someone else to do it,
+- [00:41:55,178 - 00:41:57,897] the better you'll get at being able to recognize that,
+- [00:41:57,978 - 00:42:01,117] and it won't be as painful for you to do.
+- [00:42:01,218 - 00:42:02,687] Because I think when you
+- [00:42:02,687 - 00:42:04,157] do have that element of empathy,
+- [00:42:04,478 - 00:42:07,218] it's hard to push people away at first.
+- [00:42:07,377 - 00:42:11,358] But just know that you're doing better by them
+- [00:42:11,358 - 00:42:14,898] by putting them in front of people who are better
+- [00:42:14,898 - 00:42:18,438] able to lead them in the direction that they need to,
+- [00:42:18,517 - 00:42:19,577] and then you can focus on
+- [00:42:19,577 - 00:42:20,637] the things that you need to.
+- [00:42:20,877 - 00:42:22,297] You'll get better at it, I promise.
+- [00:42:23,537 - 00:42:25,517] We have one way in the back there.
+- [00:42:26,218 - 00:42:28,178] She's waiting.
+- [00:42:28,458 - 00:42:28,537] Yeah.
+- [00:42:34,318 - 00:42:35,637] Getting your workout tonight.
+- [00:42:35,637 - 00:42:36,098] I know.
+- [00:42:36,257 - 00:42:37,037] I already did.
+- [00:42:37,038 - 00:42:37,698] I'm moving forward.
+- [00:42:40,178 - 00:42:40,918] Hi.
+- [00:42:41,438 - 00:42:44,058] My question is around female founders
+- [00:42:44,058 - 00:42:50,248] and balancing some of the traits that some
+- [00:42:50,248 - 00:42:56,438] executives might not find as common with founders
+- [00:42:56,438 - 00:42:59,888] and how to balance being
+- [00:42:59,888 - 00:43:03,338] yourself and being the other person
+- [00:43:03,338 - 00:43:04,948] that some people are used
+- [00:43:04,948 - 00:43:06,558] to, especially when you're raising.
+- [00:43:07,038 - 00:43:09,968] And when you're scaling or hiring senior
+- [00:43:09,968 - 00:43:12,898] members to join your team and the board?
+- [00:43:13,318 - 00:43:14,338] That's a different question.
+- [00:43:14,338 - 00:43:17,308] Is this idea more technical about as
+- [00:43:17,308 - 00:43:20,278] a startup there are no processes in place?
+- [00:43:20,278 - 00:43:24,068] Maybe you just set up milestones and goals
+- [00:43:24,068 - 00:43:27,858] for your employees that change regularly based on performance?
+- [00:43:27,858 - 00:43:31,438] But at what point should we actually put that down
+- [00:43:31,438 - 00:43:35,018] to paper and start writing processes for the company so that?
+- [00:43:35,018 - 00:43:35,298] Oh yeah.
+- [00:43:35,298 - 00:43:35,398] Yeah.
+- [00:43:35,398 - 00:43:35,458] Yeah.
+- [00:43:35,458 - 00:43:35,678] Yeah.
+- [00:43:35,678 - 00:43:35,718] Yeah.
+- [00:43:35,718 - 00:43:35,858] Yeah.
+- [00:43:35,858 - 00:43:35,938] Yeah.
+- [00:43:35,938 - 00:43:35,998] Yeah.
+- [00:43:35,998 - 00:43:36,038] Yeah.
+- [00:43:36,058 - 00:43:36,098] Yeah.
+- [00:43:36,098 - 00:43:36,138] Yeah.
+- [00:43:36,138 - 00:43:36,158] Yeah.
+- [00:43:36,178 - 00:43:36,198] Yeah.
+- [00:43:36,198 - 00:43:36,218] Yeah.
+- [00:43:36,218 - 00:43:36,258] Yeah.
+- [00:43:36,258 - 00:43:36,338] Yeah.
+- [00:43:36,338 - 00:43:36,398] Yeah.
+- [00:43:36,398 - 00:43:36,438] Yeah.
+- [00:43:36,438 - 00:43:36,498] Yeah.
+- [00:43:36,498 - 00:43:36,658] Yeah.
+- [00:43:36,658 - 00:43:36,678] Yeah.
+- [00:43:36,678 - 00:43:36,738] Yeah.
+- [00:43:36,738 - 00:43:36,778] Yeah.
+- [00:43:36,778 - 00:43:36,838] Yeah.
+- [00:43:36,838 - 00:43:36,858] Yeah.
+- [00:43:37,038 - 00:43:37,398] Yeah.
+- [00:43:37,398 - 00:43:37,418] Yeah.
+- [00:43:37,478 - 00:43:37,518] Yeah.
+- [00:43:37,518 - 00:43:37,598] Yeah.
+- [00:43:37,598 - 00:43:37,638] Yeah.
+- [00:43:37,638 - 00:43:39,098] Yeah.
+- [00:43:39,098 - 00:43:39,678] Yeah.
+- [00:43:39,678 - 00:43:40,018] Yeah.
+- [00:43:40,138 - 00:43:40,478] Yeah.
+- [00:43:40,478 - 00:43:40,518] Yeah.
+- [00:43:40,518 - 00:43:42,448] It takes a lot of time, a lot
+- [00:43:42,448 - 00:43:44,378] of thought that comes out of my strategies.
+- [00:43:45,558 - 00:43:47,888] How do you see, what
+- [00:43:47,888 - 00:43:50,218] do you see as very important?
+- [00:43:52,478 - 00:43:52,998] Okay.
+- [00:43:52,998 - 00:43:54,798] So I'm the process girl here.
+- [00:43:55,398 - 00:43:58,398] So my bias is that you
+- [00:43:58,398 - 00:44:01,398] should have SOPs out of the gate.
+- [00:44:01,538 - 00:44:03,228] You should have, you should document,
+- [00:44:03,228 - 00:44:04,918] you should put them in place.
+- [00:44:04,958 - 00:44:06,618] It doesn't mean that they live forever.
+- [00:44:07,038 - 00:44:09,428] But it's so much easier to do business
+- [00:44:09,428 - 00:44:11,818] when you know what you need to do,
+- [00:44:12,258 - 00:44:15,748] and you know and you have guidelines and
+- [00:44:15,748 - 00:44:19,238] you have a place that you can refer to
+- [00:44:19,238 - 00:44:20,978] and you can send people back to.
+- [00:44:22,438 - 00:44:26,978] It's easy to find worth in all the other work,
+- [00:44:27,458 - 00:44:30,078] but what will happen is if
+- [00:44:30,078 - 00:44:32,698] you don't put policies in place
+- [00:44:32,698 - 00:44:34,358] and you don't put process in place,
+- [00:44:34,358 - 00:44:38,578] inevitably you're going to spend more time having to stop
+- [00:44:38,578 - 00:44:41,018] and address issues that you wouldn't have
+- [00:44:41,018 - 00:44:43,458] had to if you had them in place.
+- [00:44:43,818 - 00:44:45,258] And I think the earlier you do
+- [00:44:45,258 - 00:44:46,698] that, the better that you are at them.
+- [00:44:47,838 - 00:44:49,637] They certainly can be changed.
+- [00:44:49,877 - 00:44:50,838] They're not there forever.
+- [00:44:52,277 - 00:44:54,957] I agree with that, and I think that
+- [00:44:54,957 - 00:44:57,637] it doesn't mean you have to be bureaucratic, right?
+- [00:44:58,298 - 00:45:00,958] But I think process is important.
+- [00:45:00,958 - 00:45:04,157] Again, back to early commons routines,
+- [00:45:04,358 - 00:45:09,798] so people have guidelines and guardrails for work.
+- [00:45:10,657 - 00:45:15,678] I think the thing that makes organizations, people effective
+- [00:45:15,678 - 00:45:21,738] is having really clarity around when things are wrong,
+- [00:45:22,318 - 00:45:24,648] whether it's at home or whether it's
+- [00:45:24,648 - 00:45:26,978] in a relationship or whether it's at work,
+- [00:45:27,377 - 00:45:29,687] the degree to which you can
+- [00:45:29,687 - 00:45:31,997] be clear about what your expectations are,
+- [00:45:31,997 - 00:45:33,997] clear about what your own needs are,
+- [00:45:34,358 - 00:45:36,358] clear about what the outcome is you want to be.
+- [00:45:36,917 - 00:45:39,207] Always focus on clarity, I
+- [00:45:39,207 - 00:45:41,497] think, always makes things better.
+- [00:45:41,798 - 00:45:45,738] It may lead to some conflict, but the conflict also,
+- [00:45:45,738 - 00:45:47,497] if it helps you get to better clarity,
+- [00:45:47,497 - 00:45:49,257] you're going to be in a better place.
+- [00:45:49,257 - 00:45:51,357] Conflict is good if it
+- [00:45:51,357 - 00:45:53,458] gets you to a better place.
+- [00:45:55,078 - 00:45:57,248] Your first question, though, I just, my own
+- [00:45:57,248 - 00:45:59,418] personal advice to you, you just be you.
+- [00:45:59,818 - 00:46:00,318] Exactly.
+- [00:46:00,578 - 00:46:04,238] You know, female or whatever, you be your authentic self.
+- [00:46:04,358 - 00:46:07,158] And that'll take you a whole long way.
+- [00:46:13,658 - 00:46:14,298] Lots of questions.
+- [00:46:14,298 - 00:46:14,798] Good.
+- [00:46:14,798 - 00:46:15,758] Lots of questions.
+- [00:46:15,758 - 00:46:16,258] Yeah.
+- [00:46:22,018 - 00:46:22,858] Thank you.
+- [00:46:22,858 - 00:46:25,238] I would like to be
+- [00:46:25,238 - 00:46:27,618] back again to the co-founder's conflict,
+- [00:46:27,618 - 00:46:31,358] where you have the different set of people, right?
+- [00:46:31,358 - 00:46:34,118] You have a co-founder and a co-founder.
+- [00:46:34,358 - 00:46:38,258] And you have the same decision all the time,
+- [00:46:38,258 - 00:46:42,718] the value, technical model starts going down,
+- [00:46:42,718 - 00:46:45,858] and business, co-founder starts getting down.
+- [00:46:45,858 - 00:46:48,628] And that naturally creates some kind
+- [00:46:48,628 - 00:46:51,398] of insecurity for the other person, right?
+- [00:46:51,398 - 00:46:55,478] Any part of the experience, how you actually
+- [00:46:55,478 - 00:46:59,558] try to solve that particular situation or experience?
+- [00:46:59,558 - 00:47:01,838] Well, I think that, you know, personally, I've
+- [00:47:01,838 - 00:47:04,118] been in some situations where I would help
+- [00:47:04,118 - 00:47:06,518] facilitate that, okay?
+- [00:47:06,518 - 00:47:08,888] But usually when someone asked me to do that,
+- [00:47:08,888 - 00:47:11,258] that was already, you know, more of a problem
+- [00:47:11,258 - 00:47:13,358] than you would have wanted it to be, right?
+- [00:47:13,358 - 00:47:17,508] So I would say, you know, if you,
+- [00:47:17,508 - 00:47:21,658] that in business, okay, you're going to have that
+- [00:47:21,658 - 00:47:23,968] natural conflict that's going to come about
+- [00:47:23,968 - 00:47:26,278] because of sometimes the amount of time people
+- [00:47:26,278 - 00:47:28,598] take to develop the technology or the quality
+- [00:47:28,598 - 00:47:30,918] with which they will and what the go-to-market
+- [00:47:30,918 - 00:47:31,918] needs might be.
+- [00:47:31,918 - 00:47:33,278] And so that's part of it.
+- [00:47:33,278 - 00:47:33,778] Yeah.
+- [00:47:34,118 - 00:47:35,818] And I think that's what happens.
+- [00:47:35,818 - 00:47:39,898] But I think that having, you know, being able to
+- [00:47:39,898 - 00:47:43,978] have a dialogue and be able to try to problem
+- [00:47:43,978 - 00:47:46,968] solve together, if you have outside financial
+- [00:47:46,968 - 00:47:49,958] advisors or, you know, professors or whoever
+- [00:47:49,958 - 00:47:53,408] is helping you get going, you know,
+- [00:47:53,408 - 00:47:56,858] chances are you have trusted resources around you.
+- [00:47:56,858 - 00:47:59,948] If you had a trusted resource that you
+- [00:47:59,948 - 00:48:03,038] both parties, you know, respected, you know, hopefully
+- [00:48:03,038 - 00:48:04,118] that person could help.
+- [00:48:04,118 - 00:48:07,318] Maybe even just facilitate a dialogue to
+- [00:48:07,318 - 00:48:10,518] help you come to more common ground.
+- [00:48:10,518 - 00:48:13,978] I think it's important to understand,
+- [00:48:13,978 - 00:48:17,438] know when to ask for help.
+- [00:48:17,438 - 00:48:21,138] And also to be honest always in these interactions.
+- [00:48:21,138 - 00:48:23,148] You know, sometimes we get angry and, you
+- [00:48:23,148 - 00:48:25,158] know, walk away and, you know, you may not
+- [00:48:25,158 - 00:48:27,918] really have really gotten to the issue.
+- [00:48:27,918 - 00:48:30,068] One of the things I used to always try to
+- [00:48:30,068 - 00:48:32,218] do, I still try to do this in my life, when
+- [00:48:32,218 - 00:48:33,918] I'm having a conflict with someone.
+- [00:48:33,918 - 00:48:36,668] I'd say, well, do you have any, when
+- [00:48:36,668 - 00:48:39,418] we were done, do you have any undelivered communication?
+- [00:48:39,418 - 00:48:41,528] Chances are more stuff came out, you know,
+- [00:48:41,528 - 00:48:43,638] when you say, you know, is there anything
+- [00:48:43,638 - 00:48:44,638] else here you have to say?
+- [00:48:44,638 - 00:48:46,538] And you're sure there's nothing else you're holding back.
+- [00:48:46,538 - 00:48:48,338] Well, maybe they were, right?
+- [00:48:48,338 - 00:48:51,498] And a person said to me once, when
+- [00:48:51,498 - 00:48:54,658] you take what's covert, what's behind, and you can
+- [00:48:54,658 - 00:48:57,378] make it overt, then you can problem solve.
+- [00:48:57,378 - 00:49:00,678] And a lot of times people don't always honestly dialogue.
+- [00:49:00,678 - 00:49:03,218] So hopefully that helps.
+- [00:49:03,218 - 00:49:05,647] But I think don't be afraid to ask for
+- [00:49:05,647 - 00:49:08,077] help with people that you know and trust and who
+- [00:49:08,077 - 00:49:09,978] that other party would trust as well.
+- [00:49:09,978 - 00:49:10,978] Some more hands.
+- [00:49:10,978 - 00:49:11,978] Yeah.
+- [00:49:11,978 - 00:49:15,978] I thought I would play in here.
+- [00:49:15,978 - 00:49:18,598] But the problem might not have passed
+- [00:49:18,598 - 00:49:21,218] but I'd like to pose to you.
+- [00:49:21,218 - 00:49:25,198] And then I'll tell you how I resolved it.
+- [00:49:25,198 - 00:49:27,708] So this may not be atypical for a
+- [00:49:27,708 - 00:49:30,218] kind of companies to come out of here.
+- [00:49:30,218 - 00:49:31,218] So one of my co-founders.
+- [00:49:31,218 - 00:49:32,218] My co-founder, I was in the state of Kentucky.
+- [00:49:32,218 - 00:49:32,718] I had a social worker, he
+- [00:49:32,718 - 00:49:33,218] was very much a social worker.
+- [00:49:33,218 - 00:49:36,698] was a MIT computer science professor,
+- [00:49:36,698 - 00:49:42,258] a brilliant guy, and just fantastic.
+- [00:49:42,258 - 00:49:46,378] I began to notice over time we weren't meeting schedules.
+- [00:49:46,378 - 00:49:50,738] And the team seemed to not be functioning well.
+- [00:49:50,738 - 00:49:57,478] So I started asking people, why are we behind?
+- [00:49:57,478 - 00:50:01,158] But what slowly came out was people said,
+- [00:50:01,158 - 00:50:02,837] and I had to piece this together.
+- [00:50:02,838 - 00:50:06,478] Well, I go to the co-founder, and I say,
+- [00:50:06,478 - 00:50:08,598] here's what I'm proposing to do.
+- [00:50:08,598 - 00:50:10,678] And immediately, I'm so throwing in the side,
+- [00:50:10,678 - 00:50:12,678] well, did you take a nap?
+- [00:50:12,678 - 00:50:15,078] And they would feel like, let me scoot.
+- [00:50:15,078 - 00:50:16,338] Just because you said, you know,
+- [00:50:16,338 - 00:50:17,598] the post-docs are going to go
+- [00:50:17,598 - 00:50:20,058] through that motivated and throwing in time.
+- [00:50:20,058 - 00:50:21,218] And so they would go back.
+- [00:50:21,218 - 00:50:25,458] And over time, we're afraid to bring issues forward,
+- [00:50:25,458 - 00:50:29,038] because we're going to lose .
+- [00:50:29,038 - 00:50:30,598] So once I said, what if
+- [00:50:30,598 - 00:50:32,158] you do a situation like that?
+- [00:50:32,158 - 00:50:32,838] And I'll tell you what.
+- [00:50:32,838 - 00:50:34,078] I'm going to do it.
+- [00:50:34,078 - 00:50:36,028] Well, I think what you have
+- [00:50:36,028 - 00:50:37,978] to do in a situation like that
+- [00:50:37,978 - 00:50:40,878] is you have to tell the person what they're doing.
+- [00:50:40,878 - 00:50:44,338] Now, they may not want to hear it.
+- [00:50:44,338 - 00:50:50,038] And sometimes, people, sometimes their egos are such, right,
+- [00:50:50,038 - 00:50:53,818] that they have to be better, smarter, whatever.
+- [00:50:53,818 - 00:50:57,198] Sometimes, they just are smarter and think faster.
+- [00:50:57,198 - 00:51:00,158] And that's sort of where they go, right?
+- [00:51:00,158 - 00:51:01,398] A lot of times, I think,
+- [00:51:01,398 - 00:51:02,638] when people are going to be doing
+- [00:51:02,638 - 00:51:03,638] things, they're going to be doing things that they're not
+- [00:51:03,638 - 00:51:04,638] going to be doing.
+- [00:51:04,638 - 00:51:05,138] And sometimes, when people do
+- [00:51:05,138 - 00:51:05,638] that, they aren't aware of it.
+- [00:51:05,638 - 00:51:10,298] And sometimes, by bringing a level of awareness to it,
+- [00:51:10,298 - 00:51:11,678] it makes it better.
+- [00:51:11,678 - 00:51:14,318] If it's really driven by ego,
+- [00:51:14,318 - 00:51:16,958] chances are that won't fix it.
+- [00:51:16,958 - 00:51:18,958] But I think the other way, potentially.
+- [00:51:18,958 - 00:51:20,298] I don't know if you guys
+- [00:51:20,298 - 00:51:21,638] have any other thoughts on that.
+- [00:51:21,638 - 00:51:22,638] Yeah.
+- [00:51:22,638 - 00:51:25,638] I took a class on radical candor.
+- [00:51:25,638 - 00:51:30,598] And it is phenomenal, if any of you are interested.
+- [00:51:30,598 - 00:51:31,598] But it's just that.
+- [00:51:31,598 - 00:51:32,518] It's having, you know, a lot of people.
+- [00:51:32,518 - 00:51:32,558] Yeah.
+- [00:51:32,558 - 00:51:32,618] Yeah.
+- [00:51:32,638 - 00:51:33,638] Yeah.
+- [00:51:33,638 - 00:51:36,628] You know, very honest conversation and putting
+- [00:51:36,628 - 00:51:39,618] it in the room in a kind way.
+- [00:51:39,618 - 00:51:44,138] Not in a, you know, not in a mean way.
+- [00:51:44,138 - 00:51:45,138] In a kind way.
+- [00:51:45,138 - 00:51:46,838] So it's very valuable.
+- [00:51:46,838 - 00:51:49,038] Is that what you did, Jo?
+- [00:51:49,038 - 00:51:51,178] I'm laughing because my first response
+- [00:51:51,178 - 00:51:53,318] would be, you're making everybody feel stupid,
+- [00:51:53,318 - 00:51:54,318] stupid.
+- [00:51:54,318 - 00:51:55,318] You know?
+- [00:51:55,318 - 00:51:56,318] I can't believe you're saying that.
+- [00:51:56,318 - 00:51:57,318] But that's Kim's kind.
+- [00:51:57,318 - 00:51:57,818] I think that's what I
+- [00:51:57,818 - 00:51:58,318] did once I figured it out.
+- [00:51:58,318 - 00:51:59,318] A lot of people figure it out.
+- [00:51:59,318 - 00:52:00,318] So I think it's great.
+- [00:52:00,318 - 00:52:01,318] I think it's great.
+- [00:52:01,318 - 00:52:02,318] I think it's great.
+- [00:52:02,318 - 00:52:03,318] But sometimes you don't know what's going on.
+- [00:52:04,318 - 00:52:05,318] And I've talked with him about it.
+- [00:52:05,318 - 00:52:06,318] And it wasn't ego.
+- [00:52:06,318 - 00:52:07,318] It was just the way he was.
+- [00:52:07,318 - 00:52:08,318] And so I said, well, why don't we try this.
+- [00:52:08,318 - 00:52:08,818] Whenever you have meetings with the team,
+- [00:52:08,818 - 00:52:09,318] one-on-one, you have an idea or two.
+- [00:52:09,318 - 00:52:09,818] And, you know, people come and
+- [00:52:09,818 - 00:52:10,318] say, well, did you think of this?
+- [00:52:10,318 - 00:52:10,818] And I'm sure that I was
+- [00:52:10,818 - 00:52:11,318] just as stupid as they were.
+- [00:52:11,318 - 00:52:11,818] And I'm going out, I push
+- [00:52:11,818 - 00:52:12,318] back a little bit against the idea.
+- [00:52:12,318 - 00:52:13,318] And I'm going to try this.
+- [00:52:13,318 - 00:52:14,318] And I'm going to push back against the idea.
+- [00:52:14,318 - 00:52:15,318] And I don't think about it.
+- [00:52:15,318 - 00:52:16,318] I try to go beyond that.
+- [00:52:16,318 - 00:52:17,318] You know?
+- [00:52:17,318 - 00:52:18,318] But I'm not going to go beyond that.
+- [00:52:18,318 - 00:52:19,318] I'm going to keep going.
+- [00:52:19,318 - 00:52:20,318] I'm going to try this.
+- [00:52:20,318 - 00:52:22,758] And, you know, people come and say,
+- [00:52:22,838 - 00:52:23,858] well, what did you think of this?
+- [00:52:24,278 - 00:52:25,548] And I would show them I
+- [00:52:25,548 - 00:52:26,818] was just as stupid as they were.
+- [00:52:28,178 - 00:52:30,178] And I would point out,
+- [00:52:30,418 - 00:52:32,718] I'd push back a little bit against them
+- [00:52:32,718 - 00:52:34,378] and sort of get to something,
+- [00:52:34,378 - 00:52:37,578] so they'd realize they weren't the stupid ones.
+- [00:52:37,778 - 00:52:40,518] And so we did that for a while.
+- [00:52:40,698 - 00:52:42,998] It was painful, but eventually we understood.
+- [00:52:43,718 - 00:52:44,258] That's good.
+- [00:52:44,298 - 00:52:45,718] You know, if you don't figure this out,
+- [00:52:45,798 - 00:52:48,158] we're going to get anywhere because, you know,
+- [00:52:48,178 - 00:52:49,008] and by the way, some
+- [00:52:49,008 - 00:52:49,838] of the stuff you asked for
+- [00:52:49,838 - 00:52:51,938] was a little off our time because, you know,
+- [00:52:51,958 - 00:52:52,558] it was so brilliant.
+- [00:52:53,778 - 00:52:55,238] So we worked it out that way.
+- [00:52:55,378 - 00:52:57,498] But it was, it took a while,
+- [00:52:58,138 - 00:52:59,718] and that's all I can say.
+- [00:52:59,858 - 00:53:01,138] Well, he learned, so.
+- [00:53:01,138 - 00:53:03,318] So I was stupid, too.
+- [00:53:15,178 - 00:53:18,438] Vivian, you mentioned bureaucracy a little bit,
+- [00:53:18,618 - 00:53:19,338] and I was wondering,
+- [00:53:19,838 - 00:53:21,678] like, what level of a company
+- [00:53:21,678 - 00:53:23,038] does that start to be
+- [00:53:23,038 - 00:53:24,398] a concern from an HR perspective,
+- [00:53:24,698 - 00:53:26,178] and how do you avoid the pitfalls
+- [00:53:26,178 - 00:53:29,278] of falling into kind of the bureaucratic tendency?
+- [00:53:29,658 - 00:53:30,638] That's a good question.
+- [00:53:31,118 - 00:53:33,258] Well, the nature of the beast of what we do
+- [00:53:33,258 - 00:53:35,398] is some of it is, you know,
+- [00:53:36,458 - 00:53:38,818] HR function has so much to it,
+- [00:53:39,158 - 00:53:40,298] and a lot of it is,
+- [00:53:41,398 - 00:53:42,818] there's administrative, right,
+- [00:53:42,898 - 00:53:43,878] because we're paying people.
+- [00:53:44,618 - 00:53:46,818] We have to figure out where we slot people
+- [00:53:46,818 - 00:53:49,018] in an organization.
+- [00:53:49,838 - 00:53:52,978] You know, you want to make sure you have fairness,
+- [00:53:53,558 - 00:53:56,478] and that you have benefits, you know,
+- [00:53:56,538 - 00:53:58,838] and then there's the whole other side of it
+- [00:53:58,838 - 00:54:01,318] that's more helping your business be successful.
+- [00:54:01,638 - 00:54:06,698] So, you know, I think that I always liked,
+- [00:54:07,498 - 00:54:09,578] Michelle can probably speak to this more.
+- [00:54:09,838 - 00:54:11,978] I think if you had systems,
+- [00:54:12,658 - 00:54:15,198] and this is where I think technology can help,
+- [00:54:15,738 - 00:54:17,898] if it's managed appropriately right
+- [00:54:17,898 - 00:54:19,118] when you're structuring,
+- [00:54:19,118 - 00:54:21,098] and putting systems in place,
+- [00:54:21,158 - 00:54:23,018] and I'm all for putting systems in place,
+- [00:54:23,198 - 00:54:25,178] and process in place early on,
+- [00:54:25,298 - 00:54:28,198] because it's much easier to build upon it
+- [00:54:28,198 - 00:54:29,478] than it is to go back.
+- [00:54:29,738 - 00:54:30,758] I joined one company.
+- [00:54:31,038 - 00:54:33,218] It was 500 people when I joined.
+- [00:54:33,678 - 00:54:34,258] There was no,
+- [00:54:34,798 - 00:54:36,738] everybody was doing everything on spreadsheets.
+- [00:54:37,198 - 00:54:38,318] I mean, it was ridiculous,
+- [00:54:38,658 - 00:54:40,118] and everybody, you know,
+- [00:54:40,158 - 00:54:41,598] there was no job structure,
+- [00:54:42,058 - 00:54:44,178] and to go back and retrofit that
+- [00:54:44,178 - 00:54:46,858] was, you know, just crazy,
+- [00:54:47,298 - 00:54:48,838] but I think you can do it in a way
+- [00:54:48,838 - 00:54:53,158] if you do it early on to keep it simple,
+- [00:54:53,598 - 00:54:55,958] but yet do the things that you need to do
+- [00:54:55,958 - 00:54:59,538] from a reporting compliance and fairness standpoint,
+- [00:54:59,818 - 00:55:01,078] and I don't know what you would add on that,
+- [00:55:01,138 - 00:55:02,438] because Michelle, that's what she,
+- [00:55:03,078 - 00:55:04,138] her wheelhouse.
+- [00:55:04,538 - 00:55:06,618] Yeah, you know, I also think you're at
+- [00:55:06,618 - 00:55:09,098] a major advantage right now with AI.
+- [00:55:09,778 - 00:55:12,698] So, you know, when I think back to,
+- [00:55:13,018 - 00:55:14,278] you know, when I was kind of starting
+- [00:55:14,278 - 00:55:17,998] to put businesses operationally strong,
+- [00:55:18,838 - 00:55:20,638] I was starting from scratch,
+- [00:55:21,058 - 00:55:24,218] and now you have so much technology
+- [00:55:24,218 - 00:55:26,298] at your fingertips that help you,
+- [00:55:26,498 - 00:55:28,298] you know, do things even easier.
+- [00:55:28,438 - 00:55:29,498] So when you were talking about,
+- [00:55:29,558 - 00:55:30,978] you know, policies and documentation,
+- [00:55:31,498 - 00:55:32,858] I mean, my gosh, you could, you know,
+- [00:55:32,918 - 00:55:35,718] ask ChatGPT to throw up, you know,
+- [00:55:35,758 - 00:55:38,158] a policy for you, and then it's not,
+- [00:55:38,538 - 00:55:40,738] you take that, and then you iterate on it,
+- [00:55:40,778 - 00:55:42,438] and you make it, you know, you make it yours,
+- [00:55:42,478 - 00:55:43,538] but it's a starting place,
+- [00:55:43,578 - 00:55:45,138] and it takes such little time.
+- [00:55:45,618 - 00:55:47,098] The other thing I would say to you is
+- [00:55:47,098 - 00:55:48,818] technology is your friend,
+- [00:55:48,838 - 00:55:51,378] you can have really low-cost solutions
+- [00:55:51,378 - 00:55:54,318] that help put that infrastructure in place
+- [00:55:54,318 - 00:55:59,118] that creates really the basis for fairness,
+- [00:55:59,118 - 00:56:02,118] because your business is, if it's successful,
+- [00:56:02,338 - 00:56:04,678] it's going to grow, you're going to hire more people,
+- [00:56:04,958 - 00:56:06,838] you don't want to have to stop
+- [00:56:07,478 - 00:56:09,938] and take the time to go backwards
+- [00:56:09,938 - 00:56:13,078] and put things in place so that you can ensure
+- [00:56:13,078 - 00:56:16,458] that you're, you know, it's not noise for your employees,
+- [00:56:16,458 - 00:56:18,458] you know you're paying your employees effectively,
+- [00:56:18,838 - 00:56:21,338] you're giving them the benefits that are the right,
+- [00:56:21,338 - 00:56:23,098] you know, benefits for them,
+- [00:56:23,098 - 00:56:27,858] you're staying compliant because the government and,
+- [00:56:27,858 - 00:56:29,718] you know, legal is going to want to make sure
+- [00:56:29,718 - 00:56:31,498] you're doing all of the things that are,
+- [00:56:31,498 - 00:56:33,018] you're staying legally compliant,
+- [00:56:33,018 - 00:56:34,468] and there's a lot of
+- [00:56:34,468 - 00:56:35,918] opportunity for you to do it
+- [00:56:35,918 - 00:56:38,618] with low-cost technology today.
+- [00:56:38,618 - 00:56:42,178] Yeah, I think the bureaucracy comes in, honestly,
+- [00:56:42,178 - 00:56:45,338] in organizations that get too hierarchical.
+- [00:56:45,338 - 00:56:48,358] I believe in organizations being very flat,
+- [00:56:48,358 - 00:56:51,858] I believe in, you know, letting your decision making be
+- [00:56:51,858 - 00:56:54,218] as low in the organization as possible.
+- [00:56:54,638 - 00:56:56,778] People are more engaged, they're more empowered,
+- [00:56:56,778 - 00:56:59,518] and generally they know what needs to be done.
+- [00:56:59,938 - 00:57:02,458] But that's something as an organization grows,
+- [00:57:02,738 - 00:57:04,168] sometimes you get away from
+- [00:57:04,168 - 00:57:05,598] it, and sometimes it's necessary.
+- [00:57:05,998 - 00:57:10,118] But I've seen more bureaucracy get put into organizations.
+- [00:57:10,538 - 00:57:12,338] Sometimes people like to empire build
+- [00:57:12,338 - 00:57:14,658] because it makes them more important, right?
+- [00:57:14,658 - 00:57:18,118] And so, you know, I always believed in flatter,
+- [00:57:18,358 - 00:57:21,018] and not a lot of hierarchy.
+- [00:57:22,398 - 00:57:23,718] I think the test is
+- [00:57:23,718 - 00:57:25,038] when it doesn't make sense anymore,
+- [00:57:25,038 - 00:57:26,958] then you know you've got too much in.
+- [00:57:26,958 - 00:57:29,698] And it, you know, 130,000 employees,
+- [00:57:29,698 - 00:57:32,118] I can't tell you how many times it's, you know,
+- [00:57:32,118 - 00:57:33,238] somebody will tell me, well, Kim,
+- [00:57:33,238 - 00:57:34,938] this is what the process is.
+- [00:57:34,938 - 00:57:37,278] Okay, the process is going to prohibit us
+- [00:57:37,278 - 00:57:40,118] from either meeting customer needs or driving revenue.
+- [00:57:40,118 - 00:57:41,458] It just doesn't make sense anymore.
+- [00:57:41,458 - 00:57:45,738] It's just that, I'm oversimplifying, but it, you know,
+- [00:57:45,738 - 00:57:46,188] so ask yourself the question, is
+- [00:57:46,188 - 00:57:46,638] it getting in the way of,
+- [00:57:46,638 - 00:57:47,058] you know, what's the best
+- [00:57:47,058 - 00:57:47,478] way to get people to work?
+- [00:57:47,478 - 00:57:47,908] Is it getting in the way of, you
+- [00:57:47,908 - 00:57:48,338] know, the best way to get people to work?
+- [00:57:48,358 - 00:57:49,608] Is it getting in the way
+- [00:57:49,608 - 00:57:50,858] of you actually running your business?
+- [00:57:50,858 - 00:57:51,978] That all makes sense, very good.
+- [00:57:51,978 - 00:57:52,818] Yeah.
+- [00:57:54,198 - 00:57:56,918] How pushable did it get?
+- [00:57:56,918 - 00:58:01,178] I started my car business about a couple years ago,
+- [00:58:01,178 - 00:58:03,238] and as a founder of Well-Being,
+- [00:58:03,238 - 00:58:06,598] I have to learn a lot to do things
+- [00:58:06,598 - 00:58:08,958] that I didn't want to start to learn.
+- [00:58:08,958 - 00:58:09,798] And of course, all the time,
+- [00:58:09,798 - 00:58:11,428] I was actually very responsible
+- [00:58:11,428 - 00:58:13,058] for the process of doing this,
+- [00:58:13,058 - 00:58:14,558] and now I'm in a
+- [00:58:14,558 - 00:58:16,058] position where I am very able,
+- [00:58:16,058 - 00:58:18,558] and I found it super difficult
+- [00:58:18,558 - 00:58:21,058] to actually know how to do it,
+- [00:58:21,058 - 00:58:25,398] because it does not matter how much people work,
+- [00:58:25,398 - 00:58:27,958] and how much you love the business work,
+- [00:58:27,958 - 00:58:29,718] it just doesn't meet my standards.
+- [00:58:29,718 - 00:58:32,218] And I find it so difficult
+- [00:58:32,218 - 00:58:34,718] to keep myself away from stepping in.
+- [00:58:35,078 - 00:58:37,998] It was my baby, and I don't know,
+- [00:58:37,998 - 00:58:42,338] but I try to, but it's difficult.
+- [00:58:42,338 - 00:58:43,428] So I don't know what
+- [00:58:43,428 - 00:58:44,518] the rest of the day was.
+- [00:58:44,518 - 00:58:45,898] Well, I've seen that movie.
+- [00:58:46,058 - 00:58:47,218] Every day, yep.
+- [00:58:47,218 - 00:58:48,058] Yeah.
+- [00:58:48,858 - 00:58:50,458] It's hard, right?
+- [00:58:51,298 - 00:58:54,458] I think so, as you lead, okay?
+- [00:58:54,458 - 00:58:57,018] One of the hardest things to do
+- [00:58:57,018 - 00:59:00,238] is you kind of have to turn over
+- [00:59:00,238 - 00:59:02,148] a little bit of control
+- [00:59:02,148 - 00:59:04,058] of your destiny to others, right?
+- [00:59:04,058 - 00:59:07,578] And that's hard to do.
+- [00:59:09,338 - 00:59:10,358] And you have to trust,
+- [00:59:10,358 - 00:59:11,938] and you have to have the right people,
+- [00:59:11,938 - 00:59:15,398] and all of that doesn't happen overnight.
+- [00:59:15,398 - 00:59:16,038] But it takes,
+- [00:59:16,038 - 00:59:20,377] it's a personal growth to be able to do that,
+- [00:59:20,377 - 00:59:22,597] because we want to control the things ourselves,
+- [00:59:22,597 - 00:59:25,438] especially if it's something that we've built, right?
+- [00:59:25,438 - 00:59:27,938] And I think it's very
+- [00:59:27,938 - 00:59:30,438] hard for founders to let go.
+- [00:59:32,178 - 00:59:34,817] It's literally their baby, right?
+- [00:59:34,817 - 00:59:38,397] And having that balance is, I think,
+- [00:59:38,397 - 00:59:41,998] will always be difficult for anybody that's founded
+- [00:59:41,998 - 00:59:44,038] an organization and has to stay with it.
+- [00:59:44,038 - 00:59:46,538] And I think hopefully the
+- [00:59:46,538 - 00:59:49,038] key is having people around you,
+- [00:59:49,038 - 00:59:51,278] like in the example that Joe gave,
+- [00:59:51,278 - 00:59:53,377] that'll help you and give you feedback
+- [00:59:53,377 - 00:59:56,377] to know maybe when you need to jump in
+- [00:59:56,377 - 00:59:58,377] and maybe when you need to pull back.
+- [01:00:00,377 - 01:00:02,377] That's, I think, the best advice I could give you.
+- [01:00:02,377 - 01:00:03,298] Yeah.
+- [01:00:03,298 - 01:00:04,738] I think it's reminding yourself, too,
+- [01:00:04,738 - 01:00:07,198] that doing it yourself all the time
+- [01:00:07,198 - 01:00:09,637] is not a scalable model, right?
+- [01:00:09,637 - 01:00:12,137] So, I mean, that's the hard reality of it is,
+- [01:00:12,137 - 01:00:13,377] is this scalable if I continue to do it myself?
+- [01:00:13,378 - 01:00:14,218] Yeah.
+- [01:00:16,318 - 01:00:17,358] And you'll burn out.
+- [01:00:18,318 - 01:00:20,258] You'll get tired.
+- [01:00:20,258 - 01:00:21,378] You'll get angry.
+- [01:00:21,378 - 01:00:22,878] You'll start snapping.
+- [01:00:22,878 - 01:00:24,018] People will leave.
+- [01:00:24,018 - 01:00:26,118] They're not going to want to be around you.
+- [01:00:27,278 - 01:00:28,678] All of those things.
+- [01:00:28,678 - 01:00:30,758] Trust me, high control right here.
+- [01:00:30,758 - 01:00:32,058] I have four children.
+- [01:00:33,198 - 01:00:34,038] Trust me.
+- [01:00:35,458 - 01:00:39,978] I have learned that it's better to let go
+- [01:00:39,978 - 01:00:43,038] and better to help when they need it.
+- [01:00:43,378 - 01:00:44,098] Yeah.
+- [01:00:53,318 - 01:00:59,418] female male anger
+- [01:00:59,418 - 01:01:03,278] at好
+- [01:01:03,278 - 01:01:08,958] female male anger
+- [01:01:08,958 - 01:01:09,818] and hi
+- [01:01:10,418 - 01:01:13,318] you
+- [01:01:13,378 - 01:01:16,278] and it's time to expand your lean further.
+- [01:01:16,278 - 01:01:19,538] So your boundary team is not as responsible
+- [01:01:19,538 - 01:01:22,878] to hire that talent, but they also feel
+- [01:01:22,878 - 01:01:24,688] that they might find someone
+- [01:01:24,688 - 01:01:26,498] who's better than them at it.
+- [01:01:26,498 - 01:01:29,378] Now, you're trusting the boundary team,
+- [01:01:29,378 - 01:01:30,858] but you also have that sense
+- [01:01:30,858 - 01:01:32,338] that they would be doing this.
+- [01:01:32,338 - 01:01:35,718] How does the founder navigate from that?
+- [01:01:35,718 - 01:01:38,758] It's a very problematic scenario.
+- [01:01:38,758 - 01:01:40,038] It is a problem, yeah.
+- [01:01:40,038 - 01:01:41,278] You wanna jump?
+- [01:01:41,278 - 01:01:42,118] Yeah.
+- [01:01:43,378 - 01:01:45,638] I think you have to stay
+- [01:01:45,638 - 01:01:47,898] close to the team that's hiring
+- [01:01:47,898 - 01:01:49,528] to have a common ground
+- [01:01:49,528 - 01:01:51,158] in terms of what you're hiring.
+- [01:01:52,558 - 01:01:54,178] There's a level of letting them do it
+- [01:01:54,178 - 01:01:56,718] and trying to go through the candidate selection process,
+- [01:01:56,718 - 01:01:58,698] but also keeping your finger,
+- [01:01:58,698 - 01:02:01,118] we talk about our general management team,
+- [01:02:01,118 - 01:02:02,968] anybody who's in a GM role,
+- [01:02:02,968 - 01:02:04,818] you're an inch off the ground.
+- [01:02:04,818 - 01:02:08,178] So you're keeping a close enough level to the detail
+- [01:02:08,178 - 01:02:10,618] and how they're hiring or what they're looking for.
+- [01:02:10,618 - 01:02:12,878] You'll see the insecurities in it.
+- [01:02:12,878 - 01:02:17,878] If it's there, and quite honestly,
+- [01:02:19,378 - 01:02:22,138] how you quickly rectify it, you take it much more
+- [01:02:22,138 - 01:02:24,518] on a personal level, helping them feel good
+- [01:02:24,518 - 01:02:27,698] about what they're hiring and the experiences
+- [01:02:27,698 - 01:02:30,378] that they can convey to the new hires
+- [01:02:30,378 - 01:02:31,338] and things of that nature.
+- [01:02:31,338 - 01:02:35,558] You can bolster their ego up so that the insecurity
+- [01:02:35,558 - 01:02:37,258] that's there is a little bit less.
+- [01:02:37,258 - 01:02:39,598] But I think as you're growing, you probably wanna stay
+- [01:02:39,598 - 01:02:41,258] a little bit closer to who you're hiring
+- [01:02:41,258 - 01:02:42,758] and who is making the hiring decision.
+- [01:02:42,878 - 01:02:44,128] So I think it's important
+- [01:02:44,128 - 01:02:45,378] to make those decisions for you
+- [01:02:45,378 - 01:02:46,218] because it's costly.
+- [01:02:46,218 - 01:02:47,778] I also think that in
+- [01:02:47,778 - 01:02:49,338] all the companies I've worked in,
+- [01:02:49,338 - 01:02:52,378] we had a very elaborate hiring process.
+- [01:02:52,378 - 01:02:54,878] I mean, almost everybody and their mother would interview
+- [01:02:54,878 - 01:02:56,878] the people that were coming in.
+- [01:02:56,878 - 01:02:59,228] And the good news about that
+- [01:02:59,228 - 01:03:01,578] is it does give you more buy-in
+- [01:03:01,578 - 01:03:02,998] for the candidate ultimately.
+- [01:03:02,998 - 01:03:06,877] But sometimes it lengthens the process.
+- [01:03:06,877 - 01:03:10,438] I've seen us lose candidates because our hiring process
+- [01:03:10,438 - 01:03:11,337] included work that was too inclusive.
+- [01:03:11,337 - 01:03:11,817] The other thing that I think
+- [01:03:11,817 - 01:03:12,298] is important, and I think this is
+- [01:03:12,298 - 01:03:15,298] a very important point, is that the hiring manager
+- [01:03:15,298 - 01:03:19,298] should make that final decision.
+- [01:03:19,298 - 01:03:22,357] And I think having clarity around that,
+- [01:03:22,357 - 01:03:25,178] yes, I'll take all your input, but ultimately,
+- [01:03:25,178 - 01:03:28,638] say you see a candidate that is higher skilled
+- [01:03:28,638 - 01:03:30,738] and you know that's gonna compliment the team,
+- [01:03:30,738 - 01:03:32,218] some of the other people
+- [01:03:32,218 - 01:03:33,698] that might have been a peer
+- [01:03:33,698 - 01:03:35,377] may not have supported that.
+- [01:03:35,377 - 01:03:37,477] They may have felt threatened by something like that.
+- [01:03:37,477 - 01:03:39,067] So I think real clarity
+- [01:03:39,067 - 01:03:40,658] around who the decision maker is.
+- [01:03:40,658 - 01:03:41,247] And I think a group that's
+- [01:03:41,247 - 01:03:41,837] going to be able to do that,
+- [01:03:41,837 - 01:03:42,298] I think that's a really important thing.
+- [01:03:42,298 - 01:03:44,718] And I think a group think isn't always the best.
+- [01:03:44,718 - 01:03:46,758] I think it's good to take everyone's input,
+- [01:03:46,758 - 01:03:48,877] but then you make your own decision.
+- [01:03:50,778 - 01:03:54,578] Another question regarding interpersonal relationships
+- [01:03:54,578 - 01:03:55,418] and the .
+- [01:03:56,758 - 01:04:01,758] On this scenario, you actually responded to him about that.
+- [01:04:01,758 - 01:04:05,338] You can have a judgment from everyone in the audience
+- [01:04:05,338 - 01:04:07,338] to have with them all an
+- [01:04:07,338 - 01:04:09,338] opinion and discuss it with them.
+- [01:04:09,338 - 01:04:11,838] But I've seen a scenario where obviously,
+- [01:04:12,298 - 01:04:14,878] the founder has authority.
+- [01:04:14,878 - 01:04:17,288] And although everyone's sitting in front
+- [01:04:17,288 - 01:04:19,698] of him on a round table,
+- [01:04:19,698 - 01:04:24,358] people are feeling that if they talk about office politics,
+- [01:04:24,358 - 01:04:29,017] that's disrupting their normal operations or productivity.
+- [01:04:29,017 - 01:04:32,898] And the reason being if someone goes to the founder,
+- [01:04:32,898 - 01:04:36,798] they fear that mentioning that would obviously
+- [01:04:36,798 - 01:04:38,997] have the other person mentioning to the founder
+- [01:04:38,997 - 01:04:40,417] that this is the reason that
+- [01:04:40,417 - 01:04:41,838] he's not operating at least one unit
+- [01:04:41,838 - 01:04:42,278] at all.
+- [01:04:42,298 - 01:04:45,898] So that's another scenario where if you're
+- [01:04:45,898 - 01:04:50,258] discussing someone, but you are giving everyone's opinion,
+- [01:04:50,258 - 01:04:53,058] you still have to decide who
+- [01:04:53,058 - 01:04:55,858] you lean on in such a situation.
+- [01:04:55,858 - 01:04:58,258] I think that that's hard.
+- [01:04:58,258 - 01:04:59,698] And I can see how
+- [01:04:59,698 - 01:05:01,138] that can be an issue, especially
+- [01:05:01,138 - 01:05:03,158] in a small organization.
+- [01:05:03,158 - 01:05:05,988] I think that over time, you
+- [01:05:05,988 - 01:05:08,818] will have, or the founder will have,
+- [01:05:08,818 - 01:05:11,918] you know, you will always have a more trusted colleague.
+- [01:05:11,918 - 01:05:12,298] Right?
+- [01:05:12,298 - 01:05:15,598] But trust goes both ways.
+- [01:05:15,598 - 01:05:19,178] And I think that I would
+- [01:05:19,178 - 01:05:22,758] judge people by their behavior and actions.
+- [01:05:22,758 - 01:05:26,607] And if someone is not operating
+- [01:05:26,607 - 01:05:30,457] in good faith or breaching confidences
+- [01:05:30,457 - 01:05:33,557] or whatever the case may be, you
+- [01:05:33,557 - 01:05:36,658] know, I would think about my level
+- [01:05:36,658 - 01:05:38,037] of trust with that person.
+- [01:05:38,037 - 01:05:39,967] I would try to talk about
+- [01:05:39,967 - 01:05:41,898] it or get it to be better.
+- [01:05:41,898 - 01:05:44,177] But I think that those are human
+- [01:05:44,177 - 01:05:46,457] dynamics that are always going to happen.
+- [01:05:46,457 - 01:05:47,218] Right?
+- [01:05:47,218 - 01:05:49,478] And there's going to be people that
+- [01:05:49,478 - 01:05:51,738] you know you can just count on.
+- [01:05:51,738 - 01:05:54,578] And I might weight that person's
+- [01:05:54,578 - 01:05:57,418] input more heavily based on my experience
+- [01:05:57,418 - 01:06:00,658] and their honesty and what have you, if that's helpful.
+- [01:06:00,658 - 01:06:01,158] Yeah.
+- [01:06:01,158 - 01:06:06,448] So all these issues discussed are quite
+- [01:06:06,448 - 01:06:11,738] complex because they relate to human behavior.
+- [01:06:11,738 - 01:06:11,758] Yeah.
+- [01:06:11,758 - 01:06:13,948] there are a lot of different emotional
+- [01:06:13,948 - 01:06:16,138] and stuff like that that the current age
+- [01:06:16,138 - 01:06:18,228] of AI have to wonder, like
+- [01:06:18,228 - 01:06:20,318] in the influence of all this experience,
+- [01:06:20,318 - 01:06:22,298] all these insights that we have.
+- [01:06:22,298 - 01:06:24,778] When people are sitting here looking
+- [01:06:24,778 - 01:06:27,258] for a system, is there any particular,
+- [01:06:27,258 - 01:06:31,968] like a tool that you recommend, resource
+- [01:06:31,968 - 01:06:36,678] that depends, like myself in the field,
+- [01:06:36,678 - 01:06:37,918] of course, a lot of this
+- [01:06:37,918 - 01:06:39,158] year , and at the same time,
+- [01:06:39,158 - 01:06:39,708] you said it's kind of the same
+- [01:06:39,708 - 01:06:40,258] because you spoiled, or you spoiled data.
+- [01:06:40,258 - 01:06:41,038] Of course it's nothing specific.
+- [01:06:41,038 - 01:06:41,638] Everything is my own thought.
+- [01:06:41,638 - 01:06:41,678] Oh.
+- [01:06:41,678 - 01:06:41,738] So yeah mhm.
+- [01:06:41,738 - 01:06:44,918] that some results out there in the future.
+- [01:06:44,918 - 01:06:47,378] On the very basis that sometimes you would like
+- [01:06:47,378 - 01:06:50,378] to get some guidance.
+- [01:06:53,558 - 01:06:55,598] There's a lot of different things.
+- [01:06:55,598 - 01:06:57,158] So why don't you guys
+- [01:06:57,158 - 01:06:58,718] talk about some of your experiences
+- [01:06:58,718 - 01:07:00,358] and I can jump in on that.
+- [01:07:00,358 - 01:07:02,898] Yeah, there are a lot.
+- [01:07:02,898 - 01:07:04,758] Do I believe that there's an assistant
+- [01:07:04,758 - 01:07:07,038] that would take over our role today?
+- [01:07:07,038 - 01:07:08,477] No, I don't.
+- [01:07:08,478 - 01:07:12,478] But I'm an embracer of AI.
+- [01:07:12,478 - 01:07:14,068] I know that there are
+- [01:07:14,068 - 01:07:15,658] folks that are nervous about it
+- [01:07:15,658 - 01:07:18,338] and rightfully so.
+- [01:07:18,338 - 01:07:21,558] But I do see a lot of potential coming.
+- [01:07:21,558 - 01:07:23,378] And this may be more than
+- [01:07:23,378 - 01:07:25,198] what you're looking for right now.
+- [01:07:25,198 - 01:07:28,538] But I have spent a lot of time with LinkedIn
+- [01:07:28,538 - 01:07:33,538] and in the hiring space with LinkedIn and LinkedIn Learning.
+- [01:07:33,598 - 01:07:38,038] And the technology that they have embedded
+- [01:07:38,038 - 01:07:38,478] in their process,
+- [01:07:38,478 - 01:07:41,718] their product that you can use is extraordinary.
+- [01:07:41,718 - 01:07:45,018] So it's not quite an assistant yet
+- [01:07:45,018 - 01:07:48,018] that you may be looking for.
+- [01:07:48,018 - 01:07:51,358] You know, outside of like ChatGPT or, you know,
+- [01:07:51,358 - 01:07:55,158] the bots that are kind of popping up everywhere.
+- [01:07:55,158 - 01:07:57,958] But from a platform perspective,
+- [01:07:57,958 - 01:08:01,418] that gives you good guidance
+- [01:08:01,418 - 01:08:04,838] at a relatively reasonable price.
+- [01:08:04,838 - 01:08:07,078] LinkedIn has a lot embedded in it
+- [01:08:07,078 - 01:08:08,478] and they're really investing in their AI.
+- [01:08:08,478 - 01:08:09,758] They're really putting a lot of effort
+- [01:08:09,758 - 01:08:10,218] into the technology.
+- [01:08:10,218 - 01:08:10,978] They're really getting the right people
+- [01:08:10,978 - 01:08:11,478] in the right places and doing the right things.
+- [01:08:11,478 - 01:08:12,978] And they're really investing in their AI technologies.
+- [01:08:12,978 - 01:08:13,478] I think from a self-development standpoint,
+- [01:08:13,478 - 01:08:15,018] there are things that you can do too.
+- [01:08:15,018 - 01:08:18,978] I think that, you know, hopefully we're all a work
+- [01:08:18,978 - 01:08:20,228] in progress as long as
+- [01:08:20,228 - 01:08:21,478] we are on this earth, right?
+- [01:08:21,478 - 01:08:25,078] And so I think it's important to try
+- [01:08:25,078 - 01:08:27,018] to be as self-aware as we can.
+- [01:08:27,018 - 01:08:31,718] So if there's programs that, you know, we participated in,
+- [01:08:31,718 - 01:08:33,638] we made an investment in
+- [01:08:33,638 - 01:08:35,558] the company we worked in together.
+- [01:08:35,558 - 01:08:38,318] This model still exists and it's one
+- [01:08:38,318 - 01:08:39,948] of the most powerful models
+- [01:08:39,948 - 01:08:41,578] I ever worked for, worked with.
+- [01:08:41,578 - 01:08:42,638] I still use it.
+- [01:08:42,638 - 01:08:45,318] It's called process communication model.
+- [01:08:45,318 - 01:08:48,738] And it's very similar.
+- [01:08:48,738 - 01:08:51,598] It's sort of like a basis of a Myers-Briggs.
+- [01:08:51,598 - 01:08:54,358] People seem to know that personality type.
+- [01:08:54,358 - 01:08:57,048] But this talks about how
+- [01:08:57,048 - 01:08:59,738] people evolve and change over time.
+- [01:08:59,738 - 01:09:04,238] It also talks about how people react under stress.
+- [01:09:04,238 - 01:09:05,537] You know, at one point many years ago,
+- [01:09:05,537 - 01:09:08,017] I was certified to teach this program.
+- [01:09:08,018 - 01:09:10,787] But we incorporated it into,
+- [01:09:10,787 - 01:09:13,558] you know, our work and training
+- [01:09:13,558 - 01:09:15,778] and our management development and all that.
+- [01:09:15,778 - 01:09:19,358] And then I did it in three different companies.
+- [01:09:19,358 - 01:09:21,868] And it really helped for a
+- [01:09:21,868 - 01:09:24,377] level of self-awareness first of all.
+- [01:09:24,377 - 01:09:27,118] But also helped people for self-understanding
+- [01:09:27,118 - 01:09:28,638] and working together.
+- [01:09:28,638 - 01:09:31,218] And there may be some better tools out there now.
+- [01:09:31,218 - 01:09:34,738] But I think the degree to we can work
+- [01:09:34,738 - 01:09:37,917] on our own self-development and that will come
+- [01:09:37,917 - 01:09:38,018] through.
+- [01:09:38,018 - 01:09:39,018] And that's something that we
+- [01:09:39,018 - 01:09:40,018] can do through our own work.
+- [01:09:40,018 - 01:09:41,207] Not so much, you know, AI
+- [01:09:41,207 - 01:09:42,398] can maybe give us some tools
+- [01:09:42,398 - 01:09:44,678] that we can look at for that to use
+- [01:09:44,678 - 01:09:46,238] for a level of self-awareness.
+- [01:09:46,238 - 01:09:47,957] I think that's helpful too.
+- [01:09:47,957 - 01:10:04,258] So my understanding of that, the personal human employees
+- [01:10:04,258 - 01:10:07,918] that you hire in the company are crucial to forming
+- [01:10:07,918 - 01:10:10,418] the culture of the startup company.
+- [01:10:10,418 - 01:10:14,798] So let's say, hypothetically, you start a company
+- [01:10:14,798 - 01:10:18,258] and you're hiring your first few employees.
+- [01:10:18,258 - 01:10:19,937] And you're interviewing someone and you think
+- [01:10:19,937 - 01:10:23,258] that they're very technically qualified for the position.
+- [01:10:23,258 - 01:10:24,508] But you're not sure if
+- [01:10:24,508 - 01:10:25,758] you can fit into the culture
+- [01:10:25,758 - 01:10:28,298] that you're trying to cultivate.
+- [01:10:28,298 - 01:10:31,418] Firstly, is there anything you can do about that
+- [01:10:31,418 - 01:10:34,678] to sort of meld them with the .
+- [01:10:34,678 - 01:10:36,238] Or secondly, do you need
+- [01:10:36,238 - 01:10:37,798] to sort of find a way
+- [01:10:37,798 - 01:10:39,977] to make sure that you're hiring someone that you think
+- [01:10:39,977 - 01:10:43,558] might be less technically qualified but better fit
+- [01:10:43,558 - 01:10:47,698] for the culture that you're trying to create?
+- [01:10:47,698 - 01:10:48,358] That's hard.
+- [01:10:48,358 - 01:10:49,618] It is a hard one.
+- [01:10:49,618 - 01:10:50,558] I have a bias.
+- [01:10:50,558 - 01:10:53,098] It's just like a spouse though.
+- [01:10:53,098 - 01:10:54,298] You're never going to change them.
+- [01:10:54,298 - 01:10:55,738] You're never going to change them.
+- [01:10:55,738 - 01:10:56,138] No.
+- [01:10:57,178 - 01:10:57,918] Yeah.
+- [01:10:57,918 - 01:10:59,318] So I don't know.
+- [01:10:59,318 - 01:11:01,058] I'm a gut hirer.
+- [01:11:01,058 - 01:11:02,598] So if I feel in
+- [01:11:02,598 - 01:11:04,138] my gut that that person's not
+- [01:11:04,138 - 01:11:05,918] going to meld with the rest
+- [01:11:05,918 - 01:11:07,698] of my team, I never hire them.
+- [01:11:07,698 - 01:11:10,698] Regardless of what their technical acumen is.
+- [01:11:10,698 - 01:11:13,818] But that may not be the case for everyone else.
+- [01:11:13,818 - 01:11:17,578] I'll give you another example of, I agree with Michelle.
+- [01:11:17,578 - 01:11:19,458] I think in a small environment, it's
+- [01:11:19,458 - 01:11:21,318] critical to have the connection.
+- [01:11:25,918 - 01:11:28,558] However, I will give you
+- [01:11:28,558 - 01:11:31,198] an example of we have somebody
+- [01:11:31,198 - 01:11:33,018] in the company that I work with.
+- [01:11:33,018 - 01:11:36,458] He's like mass spectrometry god.
+- [01:11:36,458 - 01:11:37,678] And he drives us around.
+- [01:11:37,678 - 01:11:40,138] He drives us crazy.
+- [01:11:40,138 - 01:11:41,608] But because he is who he
+- [01:11:41,608 - 01:11:43,078] is, so a couple of things.
+- [01:11:43,078 - 01:11:45,318] One, if they're so technically competent, two things
+- [01:11:45,318 - 01:11:46,418] that I'll tell you.
+- [01:11:46,418 - 01:11:48,418] If they're going to advance your technology
+- [01:11:48,418 - 01:11:50,438] and you can figure out how to manage them
+- [01:11:50,438 - 01:11:53,918] and manage the relationship, OK.
+- [01:11:53,918 - 01:11:55,498] Second, if you want to keep them out
+- [01:11:55,498 - 01:11:58,798] of the hands of your competitors, OK.
+- [01:11:58,798 - 01:12:00,738] So I think it's a balance
+- [01:12:00,738 - 01:12:02,678] of how disruptive their behavior would
+- [01:12:02,678 - 01:12:07,658] be to your culture versus the benefit of the capabilities
+- [01:12:07,658 - 01:12:09,278] they bring.
+- [01:12:09,278 - 01:12:10,418] Yeah, that's fair.
+- [01:12:10,418 - 01:12:13,878] And maybe like the instance that Joan talked about,
+- [01:12:13,878 - 01:12:18,698] is it something, is it the core of that person?
+- [01:12:18,698 - 01:12:22,358] Is it a character flaw?
+- [01:12:22,358 - 01:12:26,138] If it's a character flaw, those aren't easy to fix.
+- [01:12:26,138 - 01:12:29,278] And if someone is mean
+- [01:12:29,278 - 01:12:32,418] spirited or so egoistic or narcissistic
+- [01:12:32,418 - 01:12:35,438] or any of those things, even they might be brilliant,
+- [01:12:35,438 - 01:12:37,398] it would be toxic.
+- [01:12:37,398 - 01:12:40,398] But if it's sometimes people are oblivious
+- [01:12:40,398 - 01:12:41,898] or they're so focused on something
+- [01:12:41,898 - 01:12:46,218] or they're not aware that they're doing something,
+- [01:12:46,218 - 01:12:51,977] then that can work.
+- [01:12:51,977 - 01:12:55,957] But Kim's advice is good too.
+- [01:12:55,957 - 01:12:58,698] Sometimes you put that person over in a box.
+- [01:12:58,698 - 01:12:59,658] How bad do you need it?
+- [01:12:59,658 - 01:13:02,158] Yeah.
+- [01:13:02,158 - 01:13:04,358] And what is that person's needs too, right?
+- [01:13:04,358 - 01:13:06,718] That person might just want to go develop the technology.
+- [01:13:06,718 - 01:13:07,338] They may not care.
+- [01:13:07,338 - 01:13:08,918] They might not care so much about the interactions.
+- [01:13:08,918 - 01:13:09,418] Who knows?
+- [01:13:16,798 - 01:13:18,318] I don't know if we have, do
+- [01:13:18,318 - 01:13:19,838] you have any questions for the people
+- [01:13:19,838 - 01:13:21,077] online at all?
+- [01:13:21,077 - 01:13:21,577] No?
+- [01:13:21,577 - 01:13:22,077] OK.
+- [01:13:24,758 - 01:13:26,878] There's someone up there.
+- [01:13:26,878 - 01:13:27,798] Right there.
+- [01:13:27,798 - 01:13:28,437] Right up back.
+- [01:13:28,437 - 01:13:28,937] Nope.
+- [01:13:28,937 - 01:13:29,437] Nope.
+- [01:13:29,437 - 01:13:29,937] Nope.
+- [01:13:29,937 - 01:13:30,437] Cheat.
+- [01:13:30,437 - 01:13:31,278] Right up behind you.
+- [01:13:31,278 - 01:13:31,778] Behind you.
+- [01:13:31,778 - 01:13:32,278] Yeah.
+- [01:13:32,278 - 01:13:32,778] I got it.
+- [01:13:32,778 - 01:13:33,278] Oh.
+- [01:13:33,278 - 01:13:33,778] Oh.
+- [01:13:33,778 - 01:13:34,278] Yeah.
+- [01:13:34,278 - 01:13:34,778] Go ahead.
+- [01:13:34,778 - 01:13:35,278] Yeah.
+- [01:13:35,278 - 01:13:35,778] Go ahead.
+- [01:13:37,338 - 01:13:41,037] So I was just following up to that question of,
+- [01:13:41,037 - 01:13:42,778] I mean, sometimes, OK, I'm still young,
+- [01:13:42,778 - 01:13:45,778] and so I don't have so much experience.
+- [01:13:45,778 - 01:13:49,437] But I've seen people change over time.
+- [01:13:49,437 - 01:13:51,997] I've seen that they were very mean before,
+- [01:13:51,997 - 01:13:55,838] but then certain life experiences made the change.
+- [01:13:55,838 - 01:14:01,477] So in that aspect, do you think people can change?
+- [01:14:01,477 - 01:14:01,977] Yeah.
+- [01:14:01,977 - 01:14:03,977] Because they were not easy to work with,
+- [01:14:03,977 - 01:14:05,307] but then certain things happened
+- [01:14:05,307 - 01:14:06,638] in life, and then they changed.
+- [01:14:06,638 - 01:14:07,138] Yeah.
+- [01:14:07,338 - 01:14:09,178] And what other examples have you seen,
+- [01:14:09,178 - 01:14:11,898] and what kind of close engage would you put?
+- [01:14:11,898 - 01:14:13,278] I think people can.
+- [01:14:13,278 - 01:14:17,798] So that model that I told you I like,
+- [01:14:17,798 - 01:14:21,037] the premise of how people change, and this
+- [01:14:21,037 - 01:14:23,598] is true to my own life experience, OK?
+- [01:14:23,598 - 01:14:28,077] People change under periods of profound stress
+- [01:14:28,077 - 01:14:31,218] when their own needs aren't being met anymore.
+- [01:14:31,218 - 01:14:32,798] So you have to do something different,
+- [01:14:32,798 - 01:14:35,258] because life isn't working for you.
+- [01:14:35,258 - 01:14:37,338] And it isn't necessarily, I mean, sometimes,
+- [01:14:37,338 - 01:14:39,537] it happens with a tragedy, unfortunately.
+- [01:14:39,537 - 01:14:41,898] Sometimes someone dies.
+- [01:14:41,898 - 01:14:45,338] Sometimes someone gets ill.
+- [01:14:45,338 - 01:14:48,658] And sometimes life's just not working for you,
+- [01:14:48,658 - 01:14:50,577] and so you have to do something different.
+- [01:14:50,577 - 01:14:53,218] I have seen people change with that.
+- [01:14:53,218 - 01:14:57,738] I've also seen people go through real tragedies, OK?
+- [01:14:57,738 - 01:15:03,858] And they were still wonderful, right?
+- [01:15:03,858 - 01:15:05,518] And they didn't let the
+- [01:15:05,518 - 01:15:07,178] tragedy get them down or whatever.
+- [01:15:07,338 - 01:15:12,577] And so as human beings, I think we are remarkable
+- [01:15:12,577 - 01:15:14,537] in that we can still change,
+- [01:15:14,537 - 01:15:16,497] and we can learn and whatever.
+- [01:15:16,497 - 01:15:19,138] But I do think that's when I've seen
+- [01:15:19,138 - 01:15:21,798] the change happen with people.
+- [01:15:21,798 - 01:15:25,678] And sometimes people aren't successful.
+- [01:15:25,678 - 01:15:27,508] I've seen a person that was
+- [01:15:27,508 - 01:15:29,338] very good at what she did.
+- [01:15:29,338 - 01:15:32,198] She got fired from a lot of jobs because she
+- [01:15:32,198 - 01:15:34,378] didn't work well with others.
+- [01:15:34,378 - 01:15:35,508] She was, but the quality
+- [01:15:35,508 - 01:15:36,638] of her work was really good.
+- [01:15:36,638 - 01:15:37,138] Yeah.
+- [01:15:37,138 - 01:15:39,298] And this person now is, I've
+- [01:15:39,298 - 01:15:41,458] known her almost her whole life.
+- [01:15:41,458 - 01:15:43,618] She's, I'd say, in her mid-50s.
+- [01:15:43,618 - 01:15:46,408] She's finally come to it
+- [01:15:46,408 - 01:15:49,198] that it was her own need
+- [01:15:49,198 - 01:15:52,078] to have high achievement and not
+- [01:15:52,078 - 01:15:54,958] be collegial that got in the way
+- [01:15:54,958 - 01:15:57,698] and caused her to lose her jobs over time.
+- [01:15:57,698 - 01:16:01,118] And she's been much more successful later in life,
+- [01:16:01,118 - 01:16:04,078] but she's kind of learned what she had to learn.
+- [01:16:07,138 - 01:16:09,548] I think what I would ask you
+- [01:16:09,548 - 01:16:11,958] is, people change when they want to
+- [01:16:11,958 - 01:16:13,978] or experience changes.
+- [01:16:13,978 - 01:16:16,778] And as founders, do you want
+- [01:16:16,778 - 01:16:19,578] to take the time, the precious time,
+- [01:16:19,578 - 01:16:22,758] at the beginning of your journey to
+- [01:16:22,758 - 01:16:25,938] hire people that may have to change
+- [01:16:25,938 - 01:16:27,418] to fit into your organization?
+- [01:16:27,418 - 01:16:27,918] Yeah.
+- [01:16:35,218 - 01:16:36,258] I have two questions.
+- [01:16:36,258 - 01:16:36,978] I have a question.
+- [01:16:36,978 - 01:16:40,578] Before that, I would like to start
+- [01:16:40,578 - 01:16:43,578] with the very few small group of people.
+- [01:16:43,578 - 01:16:46,578] And they are very, very skilled.
+- [01:16:46,578 - 01:16:47,928] And they're not familiar with
+- [01:16:47,928 - 01:16:49,278] the business world, probably not
+- [01:16:49,278 - 01:16:49,778] at all.
+- [01:16:49,778 - 01:16:51,738] But they have a very good product.
+- [01:16:51,738 - 01:16:54,658] And they are very good at what they do,
+- [01:16:54,658 - 01:16:56,878] just not have the knowledge in that area.
+- [01:16:56,878 - 01:17:02,418] So at that stage, probably having an HR person
+- [01:17:02,418 - 01:17:05,358] is not the main concern in the pattern.
+- [01:17:05,358 - 01:17:06,978] Maybe having a lawyer you need to find.
+- [01:17:06,978 - 01:17:10,178] I would be having an accountant who
+- [01:17:10,178 - 01:17:13,478] would like to do the taxes anyway.
+- [01:17:13,478 - 01:17:16,298] When's an appropriate time for someone
+- [01:17:16,298 - 01:17:18,778] to start being a hiring an HR person?
+- [01:17:18,778 - 01:17:19,878] And why is that good?
+- [01:17:19,878 - 01:17:21,778] So the number of people who are working
+- [01:17:21,778 - 01:17:27,438] the company, the type of the company, or the stage.
+- [01:17:27,438 - 01:17:28,968] I would like to do
+- [01:17:28,968 - 01:17:30,498] some of that at that time.
+- [01:17:30,498 - 01:17:35,058] And second, many people already talked about the culture.
+- [01:17:35,058 - 01:17:35,558] Yeah.
+- [01:17:35,558 - 01:17:36,058] Yeah.
+- [01:17:36,058 - 01:17:36,558] Yeah.
+- [01:17:36,978 - 01:17:37,478] Yeah.
+- [01:17:37,478 - 01:17:40,578] Again, this is a term that not everybody
+- [01:17:40,578 - 01:17:42,378] is necessarily familiar with.
+- [01:17:42,378 - 01:17:47,118] Because that can affect how the whole system operates,
+- [01:17:47,118 - 01:17:49,738] or business plan, or marketing strategy.
+- [01:17:49,738 - 01:17:53,978] So for people who are not familiar with this area,
+- [01:17:53,978 - 01:17:57,138] what are some questions that they
+- [01:17:57,138 - 01:18:00,478] should think about when they're in the process of choosing
+- [01:18:00,478 - 01:18:01,478] their culture?
+- [01:18:01,478 - 01:18:03,278] And you could give us an example, maybe
+- [01:18:03,278 - 01:18:04,778] a conference that you already know,
+- [01:18:04,778 - 01:18:06,058] so that we can manage that.
+- [01:18:06,058 - 01:18:06,558] And .
+- [01:18:06,978 - 01:18:08,478] We have a bunch of questions.
+- [01:18:08,478 - 01:18:09,478] I'm going to let you
+- [01:18:09,478 - 01:18:10,478] guys talk about the culture part.
+- [01:18:10,478 - 01:18:13,478] And I'll talk about who you hire.
+- [01:18:13,478 - 01:18:17,478] I think that it depends what your needs are.
+- [01:18:17,478 - 01:18:20,478] If early on you need some help in terms
+- [01:18:20,478 - 01:18:23,478] of thinking of your structure, thinking
+- [01:18:23,478 - 01:18:26,478] about what you want your culture to be, or whatever,
+- [01:18:26,478 - 01:18:29,478] I would say work with a trusted advisor,
+- [01:18:29,478 - 01:18:33,478] or people to help you do that.
+- [01:18:33,478 - 01:18:35,878] I did have a question about the culture.
+- [01:18:35,878 - 01:18:36,378] I'm sorry.
+- [01:18:36,378 - 01:18:39,588] I did some consulting and
+- [01:18:39,588 - 01:18:42,798] work with a venture capital company
+- [01:18:42,798 - 01:18:47,778] that had invested in the last company I worked in.
+- [01:18:47,778 - 01:18:52,878] And I would do some sessions with those folks.
+- [01:18:52,878 - 01:18:55,338] What I found, and this is just on the basis
+- [01:18:55,338 - 01:19:01,258] of my own experience, around 25 to 50 people
+- [01:19:01,258 - 01:19:04,937] in an organization, you needed some sort of outside advice.
+- [01:19:04,937 - 01:19:05,537] Typically.
+- [01:19:06,378 - 01:19:09,178] They would bring in, have outside legal advice
+- [01:19:09,178 - 01:19:11,028] if they needed it, and hire
+- [01:19:11,028 - 01:19:12,878] that sort of on a contract basis.
+- [01:19:12,878 - 01:19:15,718] They tended to bring in a financial person
+- [01:19:15,718 - 01:19:18,537] before they would bring in a human resource person.
+- [01:19:18,537 - 01:19:20,838] And probably that is more the need.
+- [01:19:20,838 - 01:19:21,818] You have to pay people.
+- [01:19:21,818 - 01:19:23,887] You have to do some of
+- [01:19:23,887 - 01:19:25,957] the more financial things early on.
+- [01:19:25,957 - 01:19:27,497] The one thing I would say, though,
+- [01:19:27,497 - 01:19:28,947] is a lot of times
+- [01:19:28,947 - 01:19:30,398] in most of these early companies,
+- [01:19:30,398 - 01:19:31,858] when they do hire their HR person,
+- [01:19:31,858 - 01:19:34,477] they have the HR person work for the finance person.
+- [01:19:34,477 - 01:19:35,178] Don't do that.
+- [01:19:36,378 - 01:19:40,517] It really is better to have that function separate,
+- [01:19:40,517 - 01:19:44,418] because it's as important in a different way,
+- [01:19:44,418 - 01:19:48,318] and to give that person sort of equal status.
+- [01:19:48,318 - 01:19:50,997] So that's what I would say about that.
+- [01:19:50,997 - 01:19:53,778] I think that second part of your culture question,
+- [01:19:53,778 - 01:19:55,858] maybe these guys can chime in on.
+- [01:19:55,858 - 01:19:58,977] Yeah, I think that when you think about culture
+- [01:19:58,977 - 01:20:01,838] and what are some of the questions that you ask,
+- [01:20:01,838 - 01:20:03,808] you go back to, again, what
+- [01:20:03,808 - 01:20:05,778] is your mission or the value
+- [01:20:05,778 - 01:20:06,278] of the company?
+- [01:20:06,278 - 01:20:09,017] Or your product?
+- [01:20:09,017 - 01:20:11,598] How do you take that into your employee population?
+- [01:20:11,598 - 01:20:12,957] How do you want it to feel?
+- [01:20:12,957 - 01:20:14,838] What are going to be the common values
+- [01:20:14,838 - 01:20:17,497] that you have amongst your employees?
+- [01:20:17,497 - 01:20:19,158] Is it level of integrity?
+- [01:20:19,158 - 01:20:21,278] Is it the amount of intensity that you have?
+- [01:20:21,278 - 01:20:22,838] How do you want to be known?
+- [01:20:22,838 - 01:20:25,158] And then I think you take that into, OK,
+- [01:20:25,158 - 01:20:27,658] how do you take what
+- [01:20:27,658 - 01:20:30,158] you're producing, you take the values,
+- [01:20:30,158 - 01:20:35,457] and you enable a level of excitement amongst yourself
+- [01:20:35,457 - 01:20:36,158] and your colleagues.
+- [01:20:36,158 - 01:20:36,258] Yeah.
+- [01:20:36,278 - 01:20:38,938] And you can kinda ask, how
+- [01:20:38,938 - 01:20:41,598] do you fix some of that?
+- [01:20:41,598 - 01:20:44,218] And that's OK, that's very, that's possible.
+- [01:20:44,218 - 01:20:46,597] That's simple, but it's not
+- [01:20:46,597 - 01:20:48,977] going to do you more work
+- [01:20:48,977 - 01:20:50,338] for your organization.
+- [01:20:50,338 - 01:20:51,738] That's a nice way of saying, it isn't you.
+- [01:20:56,178 - 01:20:59,477] These are just three words that I think
+- [01:20:59,477 - 01:21:00,378] are great for you.
+- [01:21:00,378 - 01:21:03,218] And if you're going to continue to read about yourself,
+- [01:21:03,218 - 01:21:04,838] or just something really specific,
+- [01:21:04,838 - 01:21:06,058] then I think the most useful way for you
+- [01:21:06,058 - 01:21:15,878] I agree with Kim. I think that it's an exercise you have to go through. What is important to you as a company?
+- [01:21:15,878 - 01:21:25,698] So to those founders, what do they get up for every day? What is important for them to see in their employees every day?
+- [01:21:25,698 - 01:21:30,188] And I do. I think you put it, you know, pen to paper and you write it
+- [01:21:30,188 - 01:21:34,678] down and it's your values and your mission. And I think your culture comes out of that.
+- [01:21:37,478 - 01:21:43,048] And I wish I knew how to spell his last name, but I, so the last company that I was
+- [01:21:43,048 - 01:21:48,618] at, it was a smaller company and it was a conglomerate of a bunch of small companies that were bought.
+- [01:21:48,618 - 01:21:52,118] And what I first realized is each one of them
+- [01:21:52,118 - 01:21:55,618] had very separate cultures of the, you know, the acquire companies.
+- [01:21:55,698 - 01:21:59,808] And so I was like, well, I'm going to go with the conglomerate of the small company that came in. And so we were really
+- [01:21:59,808 - 01:22:03,918] trying to rebrand and how do we allow them to keep their culture, but also kind of have much more of an open corporate culture.
+- [01:22:03,918 - 01:22:12,888] I had somebody come in who used to be the culture officer of Facebook and he talked about, he's fascinating. And he talked
+- [01:22:12,888 - 01:22:21,858] about working with Mark Zuckerberg and, you know, Zuckerberg's whole philosophy was I want every employee to feel like Facebook is their company.
+- [01:22:21,998 - 01:22:23,828] And so that's how they started
+- [01:22:23,828 - 01:22:25,658] on new hire onboarding is this.
+- [01:22:25,698 - 01:22:30,028] So we started with one
+- [01:22:30,028 - 01:22:34,358] or PDF of the把它, two blocks.
+- [01:22:34,698 - 01:22:43,108] Of what we're working on now and it's a little bit of developing process, but the whole back to goal of
+- [01:22:43,108 - 01:22:51,518] basically uso of these ideas of let's just build on top of each other to embrace, which is important to us.
+- [01:22:51,518 - 01:22:52,758] Now I was looking at it
+- [01:22:52,758 - 01:22:53,998] kind of your workbook and it shake.
+- [01:22:53,998 - 01:22:54,538] And at first, I was
+- [01:22:54,538 - 01:22:55,078] like, this is just the space.
+- [01:22:55,078 - 01:22:55,338] But now we realize how much more,
+- [01:22:55,338 - 01:22:55,598] this is now you also the conglomerate.
+- [01:22:55,598 - 01:22:55,638] unknown匁 later.
+- [01:22:55,638 - 01:22:55,658] And so it, we don't want, so there was like, that can
+- [01:22:55,658 - 01:22:55,678] most people do the same thing, butном with one or PDF version.
+- [01:22:55,678 - 01:22:58,058] fascinating. You could look up Facebook
+- [01:22:58,058 - 01:23:00,438] creating culture. It's just kind of neat.
+- [01:23:01,058 - 01:23:06,168] The thing is, as a leader, as a CEO in
+- [01:23:06,168 - 01:23:11,278] particular, you have so much power. You really do. And you
+- [01:23:11,278 - 01:23:14,748] have the power to create that organization. People
+- [01:23:14,748 - 01:23:18,218] will look to you to create the culture
+- [01:23:18,218 - 01:23:21,728] and what have you. And in the strongest cultures that
+- [01:23:21,728 - 01:23:25,238] I was a part of, I'd like to think that I
+- [01:23:25,238 - 01:23:29,508] was a part of it. And I was. But it was really
+- [01:23:29,508 - 01:23:33,778] the CEO that set the tone. And he or she, how they
+- [01:23:33,778 - 01:23:37,028] behaved and what have you. And the really good
+- [01:23:37,028 - 01:23:40,278] CEOs, as the companies got, they never lost their
+- [01:23:40,278 - 01:23:43,518] relationships to the employees in the company.
+- [01:23:43,518 - 01:23:46,758] And they didn't have the hierarchy. They would
+- [01:23:46,758 - 01:23:50,678] drop into people's offices and they would travel if
+- [01:23:50,678 - 01:23:54,598] it was a global company. And one of the nicest
+- [01:23:54,598 - 01:23:55,158] thing about...
+- [01:23:55,238 - 01:23:58,658] when we were at RSA security together, we were global
+- [01:23:58,658 - 01:24:02,078] and I don't know, 20 some odd countries or whatever.
+- [01:24:02,078 - 01:24:05,438] You could go to RSA Japan, you could go to
+- [01:24:05,438 - 01:24:08,798] RSA Australia, go RSA Vancouver, you could go RSA India,
+- [01:24:08,798 - 01:24:12,038] you could go RSA Ireland, and of course it
+- [01:24:12,038 - 01:24:15,278] had its culture for where country you were in,
+- [01:24:15,278 - 01:24:18,748] but it was still the RSA culture in terms
+- [01:24:18,748 - 01:24:22,218] of how people treated one another, what was important,
+- [01:24:22,218 - 01:24:25,337] what was valued, what was rewarded. That's part of
+- [01:24:25,337 - 01:24:28,457] also how you set the tone for your culture.
+- [01:24:28,457 - 01:24:33,107] Well, we've come up on the time. This is
+- [01:24:33,107 - 01:24:37,758] fantastic. I've done this course for a number of years.
+- [01:24:37,758 - 01:24:40,518] I've been around the track a few times. This panel
+- [01:24:40,518 - 01:24:43,278] is always a great session because I always learn something.
+- [01:24:43,278 - 01:24:44,598] Thank you.
+- [01:24:44,598 - 01:24:46,938] That's something important. There's
+- [01:24:46,938 - 01:24:49,278] been a lot imparted here.
+- [01:24:49,278 - 01:24:50,668] I hope you think about
+- [01:24:50,668 - 01:24:52,058] it as you grow your companies.
+- [01:24:52,058 - 01:24:52,098] Thank you.
+- [01:24:52,098 - 01:24:52,158] Thank you.
+- [01:24:52,158 - 01:24:52,198] Thank you.
+- [01:24:52,198 - 01:24:52,218] Thank you.
+- [01:24:52,218 - 01:24:52,418] Thank you.
+- [01:24:52,418 - 01:24:52,478] Thank you.
+- [01:24:52,478 - 01:24:53,038] Thank you very much.
+- [01:24:53,038 - 01:24:53,398] Thank you.
+- [01:24:53,398 - 01:24:53,658] I really enjoy it.
+- [01:24:53,658 - 01:24:56,848] Thank you unless you stop working, so I'm
+- [01:24:56,848 - 01:25:00,038] glad to have dean and Wade here with us.
+- [01:25:00,038 - 01:25:02,258] You can address any questions you may want to, certainly.
+- [01:25:02,258 - 01:25:02,678] Don't be questioners.
+- [01:25:02,678 - 01:25:04,258] vocal
