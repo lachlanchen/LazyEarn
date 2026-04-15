@@ -1,0 +1,625 @@
+# Transcript
+
+Source: lazyearn/jim-rohn-originals-no-ai/004 - 2009 Jim Rohn Last Speech ⧸ 最後一場演說 [AwDUKk1i2sI].webm
+
+- [00:00:00,000 - 00:00:12,080] Good morning, Herbalife!
+- [00:00:14,960 - 00:00:16,280] Great to be here.
+- [00:00:17,720 - 00:00:18,740] Sunday morning.
+- [00:00:19,960 - 00:00:21,940] So I'll tell you a quick story
+- [00:00:21,940 - 00:00:23,920] before we bring out someone very, very special.
+- [00:00:23,920 - 00:00:30,820] So, first of all, what about Jerry and Mark?
+- [00:00:31,060 - 00:00:33,380] Was that fantastic or what?
+- [00:00:34,120 - 00:00:35,900] Wow. Fantastic.
+- [00:00:38,640 - 00:00:40,000] You know, it's interesting.
+- [00:00:40,260 - 00:00:41,960] In the company, I always say to
+- [00:00:41,960 - 00:00:43,660] the executives, go back and watch Mark.
+- [00:00:43,900 - 00:00:46,070] Because we're not doing anything differently
+- [00:00:46,070 - 00:00:48,240] today than what was his original dream.
+- [00:00:48,860 - 00:00:50,460] It's what the Chairman's Club taught me.
+- [00:00:51,160 - 00:00:53,260] It's where the roots of our company are.
+- [00:00:53,260 - 00:00:56,580] And every word he said there holds true today.
+- [00:00:56,680 - 00:00:57,440] It's pretty amazing.
+- [00:00:58,180 - 00:00:59,320] Alright, so quick story, then
+- [00:00:59,320 - 00:01:00,460] I'll bring out our next guest.
+- [00:01:05,000 - 00:01:07,920] Quick story, then I'll bring out our next guest.
+- [00:01:08,039 - 00:01:08,960] See if we can try that again.
+- [00:01:10,340 - 00:01:14,900] My first extravaganza was in June, I think.
+- [00:01:15,220 - 00:01:16,979] In Las Vegas, 2003.
+- [00:01:17,180 - 00:01:18,340] Was it June of 2000?
+- [00:01:18,800 - 00:01:22,340] And I had to get the family adjusted.
+- [00:01:23,260 - 00:01:24,440] How did that happen?
+- [00:01:24,980 - 00:01:26,350] Well, first of all, we had
+- [00:01:26,350 - 00:01:27,720] thisиком of a couple of business.
+- [00:01:27,880 - 00:01:29,160] And then I said, will
+- [00:01:29,160 - 00:01:30,440] you just do me a remission?
+- [00:01:31,200 - 00:01:33,860] And we had the idea that I wanted to
+- [00:01:33,860 - 00:01:36,520] do this film kind of in December of 2010,
+- [00:01:37,220 - 00:01:39,500] so that people could follow two or three years.
+- [00:01:40,020 - 00:01:41,320] And we went straight and did it.
+- [00:01:41,680 - 00:01:43,950] And then we decided to do this film and take
+- [00:01:43,950 - 00:01:46,220] care of the little child that was on the film.
+- [00:01:46,840 - 00:01:49,020] And the person that was doing this film was you.
+- [00:01:49,360 - 00:01:50,940] And I was one of them all the time.
+- [00:01:51,180 - 00:01:52,020] I needed to be with them.
+- [00:01:52,100 - 00:01:52,980] And we didn't have time.
+- [00:01:52,980 - 00:01:53,180] We had weapons.
+- [00:01:53,180 - 00:01:55,790] when we're together on Sundays we follow the same path
+- [00:01:55,790 - 00:01:58,400] and so when I said to Mary well I'm not going
+- [00:01:58,400 - 00:02:00,550] to you know be here and we went through the
+- [00:02:00,550 - 00:02:02,700] schedule and she said boy that's a that's a lot
+- [00:02:02,700 - 00:02:05,610] of Sundays you're not going to be here and I said
+- [00:02:05,610 - 00:02:08,520] don't worry about it you know we'll make up for it
+- [00:02:08,520 - 00:02:11,039] and I'll spend a little extra time and she was
+- [00:02:11,039 - 00:02:13,560] kind of more worried about the fact that we were
+- [00:02:13,560 - 00:02:16,600] breaking down a family tradition that had lived in
+- [00:02:16,600 - 00:02:19,640] both of our families a long time and then on
+- [00:02:19,640 - 00:02:24,200] Sunday in Las Vegas Jim Rohn came out and
+- [00:02:24,200 - 00:02:28,760] he and he spoke and I was sitting side stage
+- [00:02:28,760 - 00:02:33,210] listening to Jim and I was so tremendously moved by
+- [00:02:33,210 - 00:02:37,660] the spirit that this guy is by the human being
+- [00:02:37,660 - 00:02:41,059] that he is by his words his compassion
+- [00:02:41,059 - 00:02:44,459] his leadership his ability to touch on your mind
+- [00:02:44,459 - 00:02:46,969] and your soul and many of
+- [00:02:46,969 - 00:02:49,480] those words that we heard from Mark
+- [00:02:49,640 - 00:02:51,939] may have been about integrity but they were also
+- [00:02:51,939 - 00:02:54,239] about living a better life and being a better
+- [00:02:54,239 - 00:02:56,909] human being and living for the whole and
+- [00:02:56,909 - 00:02:59,579] creating opportunity around more than just the individual
+- [00:02:59,579 - 00:03:02,039] and bringing people in with a bigger heart and so
+- [00:03:02,039 - 00:03:04,500] Jim was doing the same things and he was on stage
+- [00:03:04,500 - 00:03:07,889] and I was tremendously moved by Jim bought
+- [00:03:07,889 - 00:03:11,279] his books and his tapes and have now become
+- [00:03:11,279 - 00:03:14,299] a very good friend of Jim's I hope he feels
+- [00:03:14,299 - 00:03:17,320] the same way about me that I feel about him
+- [00:03:17,320 - 00:03:19,619] because I see Jim as one of those
+- [00:03:19,640 - 00:03:22,310] kind of spiritual signposts in my life someone
+- [00:03:22,310 - 00:03:24,980] to emulate live up to so Jim got
+- [00:03:24,980 - 00:03:27,120] done and I couldn't help but I jumped on
+- [00:03:27,120 - 00:03:29,260] the cell phone and called my wife and I
+- [00:03:29,260 - 00:03:31,079] said don't worry honey I said I've been
+- [00:03:31,079 - 00:03:32,899] to church today yeah I've been to the
+- [00:03:32,899 - 00:03:38,599] church of Jim Rohn today and so you know so you
+- [00:03:38,599 - 00:03:44,299] know and and it worked and as you know our buddy
+- [00:03:44,299 - 00:03:46,849] Jim who was Mark's mentor and in in was
+- [00:03:46,849 - 00:03:49,399] has been in the direct selling business since the
+- [00:03:49,640 - 00:03:53,329] 1950s Jim is a pioneer and Jim's gone through
+- [00:03:53,329 - 00:03:57,019] you know some health issues lately but he's all ours
+- [00:03:57,019 - 00:04:02,029] still and man do we love Jim Rohn don't we I
+- [00:04:02,029 - 00:04:07,040] mean he is just something special so we we we love Jim
+- [00:04:07,040 - 00:04:10,100] enough to have him here today so
+- [00:04:10,100 - 00:04:13,160] let's welcome Jim Rohn onto our stage today
+- [00:04:19,640 - 00:04:26,320] we're going to pilot our
+- [00:04:26,340 - 00:04:31,599] right so we use of the
+- [00:04:31,620 - 00:04:37,700] Google Maps Dog Trips
+- [00:04:37,700 - 00:04:42,800] all right let's do that
+- [00:04:42,800 - 00:04:46,159] work
+- [00:04:46,159 - 00:04:48,120] better
+- [00:04:48,120 - 00:04:49,039] and
+- [00:04:49,039 - 00:04:49,560] so
+- [00:05:19,640 - 00:05:23,719] Gary, how are you doing?
+- [00:05:23,719 - 00:05:26,719] I got the chocolates.
+- [00:05:28,219 - 00:05:28,860] Hi.
+- [00:05:29,979 - 00:05:30,620] Wow.
+- [00:05:32,060 - 00:05:32,479] Korea.
+- [00:05:33,900 - 00:05:34,640] Nice to see you.
+- [00:05:35,039 - 00:05:35,460] I love you.
+- [00:05:36,360 - 00:05:37,000] Fantastic.
+- [00:05:38,099 - 00:05:39,440] Wow, I love you.
+- [00:05:40,120 - 00:05:40,940] Nice to see you.
+- [00:05:41,300 - 00:05:41,740] Incredible.
+- [00:05:42,700 - 00:05:43,200] Hey, Mario.
+- [00:05:44,099 - 00:05:46,960] Tell everybody hello for me in Korea.
+- [00:05:48,060 - 00:05:48,340] Okay?
+- [00:05:48,740 - 00:05:49,560] Nice to see you.
+- [00:05:49,900 - 00:05:50,200] Wow.
+- [00:05:51,000 - 00:05:52,219] Nice to see you.
+- [00:05:52,219 - 00:05:53,640] Pleasure.
+- [00:05:54,919 - 00:05:55,340] Hi.
+- [00:05:55,500 - 00:05:56,440] Nice to see you again.
+- [00:05:57,320 - 00:05:57,659] Wow.
+- [00:05:58,380 - 00:05:59,219] Good to see you.
+- [00:05:59,880 - 00:06:00,760] Tell everybody hello.
+- [00:06:04,219 - 00:06:04,979] Wow.
+- [00:06:15,260 - 00:06:16,360] Thank you.
+- [00:06:19,640 - 00:06:21,680] Thank you.
+- [00:06:23,700 - 00:06:24,479] How are you?
+- [00:06:24,760 - 00:06:25,260] Good.
+- [00:06:27,140 - 00:06:27,640] Fantastic.
+- [00:06:29,640 - 00:06:30,419] I love all of you.
+- [00:06:31,640 - 00:06:32,599] Thank you very much.
+- [00:06:34,659 - 00:06:35,620] I'm happy to be here.
+- [00:06:36,020 - 00:06:48,400] Hey, you guys.
+- [00:06:49,080 - 00:06:49,599] Wow.
+- [00:06:49,640 - 00:06:50,580] Hi, Brian.
+- [00:06:50,580 - 00:06:51,640] How are you?
+- [00:06:51,640 - 00:06:52,640] Good to see you.
+- [00:06:52,640 - 00:06:53,640] Good to see you.
+- [00:06:53,640 - 00:06:55,919] Sarah said, I talked to Marcus Lehman.
+- [00:06:55,919 - 00:06:58,400] I talked to Alan Lorenz.
+- [00:06:58,400 - 00:06:59,400] Good to see you.
+- [00:06:59,400 - 00:07:00,400] Wow.
+- [00:07:00,400 - 00:07:01,400] Hey, John.
+- [00:07:01,400 - 00:07:02,400] Wow.
+- [00:07:02,400 - 00:07:03,400] Give me that chair.
+- [00:07:03,400 - 00:07:04,400] Give me this chair.
+- [00:07:04,400 - 00:07:05,400] Right here, Jeff?
+- [00:07:05,400 - 00:07:06,400] Yeah.
+- [00:07:06,400 - 00:07:07,400] Here we are.
+- [00:07:07,400 - 00:07:08,400] I'm going to say hello to my friends here.
+- [00:07:08,400 - 00:07:09,400] Hey, good to see you.
+- [00:07:09,400 - 00:07:10,400] How's Dallas?
+- [00:07:10,400 - 00:07:11,400] Very good.
+- [00:07:11,400 - 00:07:12,400] Fantastico.
+- [00:07:12,400 - 00:07:13,400] Hey, good to see you again.
+- [00:07:13,400 - 00:07:14,400] Wow.
+- [00:07:14,400 - 00:07:15,400] Good to see you.
+- [00:07:15,400 - 00:07:16,400] Thank you.
+- [00:07:16,400 - 00:07:17,400] Thank you.
+- [00:07:17,400 - 00:07:18,400] Thank you.
+- [00:07:18,400 - 00:07:19,000] Thank you.
+- [00:07:19,000 - 00:07:20,000] Wow.
+- [00:07:20,000 - 00:07:21,000] Viva Mexico.
+- [00:07:21,000 - 00:07:22,000] Hey, young man.
+- [00:07:22,000 - 00:07:23,000] Hey, John.
+- [00:07:23,000 - 00:07:24,000] It's only been 29 years.
+- [00:07:24,000 - 00:07:25,000] How are you doing?
+- [00:07:25,000 - 00:07:26,000] Good to see you.
+- [00:07:26,000 - 00:07:27,000] Marcus.
+- [00:07:27,000 - 00:07:28,000] Isn't this something?
+- [00:07:28,000 - 00:07:29,000] It's Ben.
+- [00:07:29,000 - 00:07:30,000] How are you doing?
+- [00:07:30,000 - 00:07:31,000] Hi, Ben.
+- [00:07:31,000 - 00:07:32,000] Nice to see you.
+- [00:07:32,000 - 00:07:33,000] Yeah, it's great to see you.
+- [00:07:33,000 - 00:07:34,000] Yeah.
+- [00:07:34,000 - 00:07:35,000] Hey, Michael.
+- [00:07:35,000 - 00:07:36,000] How are you doing?
+- [00:07:36,000 - 00:07:37,000] How's Madrid?
+- [00:07:37,000 - 00:07:38,000] Madrid, Madrid.
+- [00:07:38,000 - 00:07:39,000] Waiting for you.
+- [00:07:39,000 - 00:07:40,000] Oh, thank you.
+- [00:07:40,000 - 00:07:41,000] Thank you.
+- [00:07:41,000 - 00:07:42,000] Thank you.
+- [00:07:42,000 - 00:07:43,000] Thank you.
+- [00:07:43,000 - 00:07:44,000] Thank you.
+- [00:07:44,000 - 00:07:45,000] Thank you.
+- [00:07:45,000 - 00:07:46,000] Thank you.
+- [00:07:46,000 - 00:07:47,000] Thank you.
+- [00:07:47,000 - 00:07:48,000] Thank you.
+- [00:07:48,000 - 00:07:49,000] Thank you.
+- [00:07:49,000 - 00:07:50,000] Oh, fantastic.
+- [00:07:50,000 - 00:07:51,000] Leslie.
+- [00:07:51,000 - 00:07:52,000] Wow.
+- [00:07:52,000 - 00:07:53,000] I love you.
+- [00:07:53,000 - 00:07:54,000] Wow.
+- [00:07:54,000 - 00:07:55,000] What a day, huh?
+- [00:07:55,000 - 00:07:56,000] Incredible.
+- [00:07:56,000 - 00:07:57,000] Tell everybody in Europe hello for me.
+- [00:07:57,000 - 00:07:58,000] We do.
+- [00:07:58,000 - 00:07:59,000] Okay.
+- [00:07:59,000 - 00:08:00,000] I'm getting better every day.
+- [00:08:00,000 - 00:08:01,000] Fantastic.
+- [00:08:01,000 - 00:08:02,000] Amartat.
+- [00:08:02,000 - 00:08:03,000] So good to see you.
+- [00:08:03,000 - 00:08:04,000] Wow.
+- [00:08:04,000 - 00:08:05,000] How goes?
+- [00:08:05,000 - 00:08:06,000] How's Israel?
+- [00:08:06,000 - 00:08:07,000] Very good.
+- [00:08:07,000 - 00:08:08,000] Doing good?
+- [00:08:08,000 - 00:08:09,000] Yeah.
+- [00:08:09,000 - 00:08:10,000] Okay.
+- [00:08:10,000 - 00:08:11,000] We do better.
+- [00:08:11,000 - 00:08:12,000] All right.
+- [00:08:12,000 - 00:08:13,000] Thank you.
+- [00:08:13,000 - 00:08:14,000] Thank you.
+- [00:08:14,000 - 00:08:15,000] Thank you.
+- [00:08:15,000 - 00:08:16,000] Thank you.
+- [00:08:16,000 - 00:08:17,000] Thank you.
+- [00:08:17,000 - 00:08:18,000] Thank you.
+- [00:08:18,000 - 00:08:19,000] Thank you.
+- [00:08:19,000 - 00:08:20,000] Thank you.
+- [00:08:20,000 - 00:08:21,000] Muchas gracias, everybody.
+- [00:08:21,000 - 00:08:22,000] Thank you.
+- [00:08:22,000 - 00:08:23,000] Thank you.
+- [00:08:32,000 - 00:08:33,500] Well, what an honor it
+- [00:08:33,500 - 00:08:35,000] is for me to be here.
+- [00:08:35,000 - 00:08:41,000] So, I wish I could kiss you all.
+- [00:08:44,000 - 00:08:46,000] But we don't have that much time.
+- [00:08:46,000 - 00:08:49,500] But thanks for the welcome everybody,
+- [00:08:49,500 - 00:08:53,000] thank you, I appreciate it very much.
+- [00:09:04,280 - 00:09:07,720] When I first got ill, I was weighing, I
+- [00:09:07,720 - 00:09:11,160] don't know, 123 pounds. So I started on three shakes
+- [00:09:11,160 - 00:09:14,660] a day, plus all the food I could
+- [00:09:14,660 - 00:09:18,160] possibly eat, I didn't have an appetite. And thanks
+- [00:09:18,680 - 00:09:22,180] to my daughter, thanks to Sarah, I
+- [00:09:22,180 - 00:09:25,680] started gaining weight, got my appetite back, and
+- [00:09:27,439 - 00:09:34,439] I've gained over 30 pounds. 30 pounds.
+- [00:09:34,440 - 00:09:37,940] Now I'm back to two shakes a day, so I
+- [00:09:37,940 - 00:09:41,440] can lose a pound or two, right? A little too much.
+- [00:09:50,500 - 00:09:53,280] But when I started gaining weight, I started
+- [00:09:53,280 - 00:09:56,060] getting better. And then of course all this
+- [00:09:56,060 - 00:09:59,560] time, Mike McKee and Evie and the staff
+- [00:09:59,560 - 00:10:03,060] at Herbalife Home Office, they were all saying
+- [00:10:04,440 - 00:10:07,940] they'd been sending me the emails, and the
+- [00:10:07,940 - 00:10:11,440] letters and the videos and the DVDs, just overwhelming
+- [00:10:12,100 - 00:10:14,600] from all around the world. And I want
+- [00:10:14,600 - 00:10:17,100] you to know that your thoughts and prayers helped
+- [00:10:17,500 - 00:10:24,500] me to get well.
+- [00:10:27,960 - 00:10:33,960] How it all started.
+- [00:10:33,960 - 00:10:40,130] And my thoughts and prayers went
+- [00:10:40,130 - 00:10:46,300] out to you this past year.
+- [00:10:48,020 - 00:10:50,320] That the good Lord would bless you with good people,
+- [00:10:51,240 - 00:10:53,340] help you build a strong organization,
+- [00:10:55,060 - 00:10:56,900] touch the people that needed to be touched.
+- [00:10:58,700 - 00:11:00,960] I need a calculation, Alan, and
+- [00:11:00,960 - 00:11:03,220] you can get it for me later.
+- [00:11:03,960 - 00:11:07,520] How many people are in the 70 countries?
+- [00:11:09,080 - 00:11:11,660] It has to be maybe 2 billion or more.
+- [00:11:12,380 - 00:11:13,400] At least?
+- [00:11:16,100 - 00:11:17,180] Maybe three?
+- [00:11:18,620 - 00:11:20,080] Let's jot that down.
+- [00:11:20,620 - 00:11:23,340] Herbalife now is represented in 70 countries,
+- [00:11:23,620 - 00:11:28,640] which gives us a market of over 3 billion people.
+- [00:11:30,700 - 00:11:33,220] Now we have some more countries to go, I'm sure,
+- [00:11:33,220 - 00:11:33,940] but right now,
+- [00:11:34,100 - 00:11:37,300] the market is 3 billion.
+- [00:11:39,300 - 00:11:40,120] So guess what?
+- [00:11:41,400 - 00:11:43,720] No matter how much business we do, we're behind.
+- [00:11:50,060 - 00:11:51,830] Babies are being born faster
+- [00:11:51,830 - 00:11:53,600] than we can sell Herbalife products.
+- [00:11:55,840 - 00:11:57,560] Every new customer we get, there's
+- [00:11:57,560 - 00:11:59,280] three more babies somewhere in the world.
+- [00:12:00,560 - 00:12:02,400] So the market is forever.
+- [00:12:03,940 - 00:12:04,940] And the market is going
+- [00:12:04,940 - 00:12:05,940] to be a challenge, that is.
+- [00:12:05,940 - 00:12:07,940] In 70 countries, a market of 3 billion people.
+- [00:12:07,940 - 00:12:13,940] So the key now is for all of you, especially
+- [00:12:13,940 - 00:12:19,940] having come to receive your honors here at this special occasion,
+- [00:12:19,940 - 00:12:23,940] our job now is to build the organizations that
+- [00:12:23,940 - 00:12:27,940] can reach more and more of the 3 billion people.
+- [00:12:27,940 - 00:12:30,940] They're going to be overweight until you get there.
+- [00:12:30,940 - 00:12:32,940] They're going to have a long list of health problems.
+- [00:12:32,940 - 00:12:33,220] They're going to have a long list of health problems.
+- [00:12:33,220 - 00:12:33,300] They're going to have a long list of health problems.
+- [00:12:33,300 - 00:12:34,490] They're going to have a long list
+- [00:12:34,490 - 00:12:35,680] of health problems until you get there.
+- [00:12:37,260 - 00:12:38,960] Until you get there, some people are only
+- [00:12:38,960 - 00:12:40,660] earning, in some countries, a dollar a day.
+- [00:12:40,660 - 00:12:41,799] Until you get there, some people are only
+- [00:12:41,799 - 00:12:42,939] earning, in some countries, a dollar a day.
+- [00:12:43,939 - 00:12:45,819] A dollar a day.
+- [00:12:47,099 - 00:12:50,459] And that's all they're going to earn, is a
+- [00:12:50,459 - 00:12:53,819] dollar a day, until you and your organization arrives,
+- [00:12:54,020 - 00:13:00,680] knocking on their door, handing out a flyer, saying hello.
+- [00:13:01,859 - 00:13:03,160] They're going to be waiting for you.
+- [00:13:03,300 - 00:13:05,550] The family is going to have all
+- [00:13:05,550 - 00:13:07,800] kinds of problems until you get there.
+- [00:13:07,800 - 00:13:11,350] People are going to be in despair
+- [00:13:11,350 - 00:13:14,900] until you arrive. You and your organization.
+- [00:13:14,900 - 00:13:19,650] So the three billion are waiting and
+- [00:13:19,650 - 00:13:24,400] our job is almost overwhelming. I don't know
+- [00:13:24,400 - 00:13:26,830] how Michael Johnson as the CEO takes
+- [00:13:26,830 - 00:13:29,260] care of making sure all the products are
+- [00:13:29,260 - 00:13:32,539] now in 70 countries. I don't know how
+- [00:13:32,539 - 00:13:35,819] he does it. Guess what the job is called?
+- [00:13:35,819 - 00:13:39,349] Impossible. If we were to put an ad
+- [00:13:39,349 - 00:13:42,880] in the paper to replace the CEO we would
+- [00:13:42,880 - 00:13:46,690] say, if you're interested in
+- [00:13:46,690 - 00:13:50,500] an impossible job please call. Michael
+- [00:13:50,500 - 00:13:54,300] you're doing a fabulous job. I love you.
+- [00:13:59,260 - 00:14:04,400] Impossible. But he gets it done and
+- [00:14:04,400 - 00:14:09,540] represents us so well. It's just been
+- [00:14:09,540 - 00:14:13,060] fantastic. Mark got us off to a good
+- [00:14:13,060 - 00:14:16,580] start. First 50 countries but now 20 more
+- [00:14:16,580 - 00:14:21,009] and Michael the last what almost
+- [00:14:21,009 - 00:14:25,439] six years has really stepped in these
+- [00:14:25,439 - 00:14:27,960] incredible responsibility shoes.
+- [00:14:29,260 - 00:14:32,730] And now it takes care of us so well. But
+- [00:14:32,730 - 00:14:36,200] we've got a big job to do. Here's a good
+- [00:14:36,200 - 00:14:39,670] note for you. Mark wanted to create for
+- [00:14:39,670 - 00:14:43,140] us a place. Not necessarily just like a
+- [00:14:43,140 - 00:14:47,700] room. A room is a place. This hotel is
+- [00:14:47,700 - 00:14:52,260] a place. But he wanted a place and at first
+- [00:14:52,260 - 00:14:55,450] he called it a family. A
+- [00:14:55,450 - 00:14:58,640] family place where everybody felt like
+- [00:14:59,260 - 00:15:04,640] of the family but now it's gotten bigger
+- [00:15:04,640 - 00:15:10,020] than that we now meet in great places
+- [00:15:10,020 - 00:15:13,190] around the world and have 18,000 people that's
+- [00:15:13,190 - 00:15:16,360] a place so the note for you to
+- [00:15:16,360 - 00:15:18,910] take is the place is the people
+- [00:15:18,910 - 00:15:21,460] the place is the distributors the place is
+- [00:15:21,460 - 00:15:26,350] you and me a place where people can
+- [00:15:26,350 - 00:15:31,240] come hear a story use the products change
+- [00:15:31,240 - 00:15:34,210] their health start blessing their family and
+- [00:15:34,210 - 00:15:37,180] a place where they can start earning
+- [00:15:37,180 - 00:15:40,390] money that training that mark gave is just
+- [00:15:40,390 - 00:15:43,600] as valid today when I see it on the
+- [00:15:43,600 - 00:15:47,150] video as it was when he gave it
+- [00:15:47,150 - 00:15:50,700] back all those years ago in person just start
+- [00:15:50,700 - 00:15:51,440] you
+- [00:15:51,440 - 00:15:55,670] and start expanding thinking we've got
+- [00:15:55,670 - 00:15:59,900] three billion people to reach so you've
+- [00:15:59,900 - 00:16:03,320] got to reach your share chairman's club
+- [00:16:03,320 - 00:16:06,740] members you've got to reach your share
+- [00:16:06,740 - 00:16:09,770] president's team you've got to reach
+- [00:16:09,770 - 00:16:12,800] your share tabulator team members you've
+- [00:16:12,800 - 00:16:15,870] got to reach your share start expanding
+- [00:16:15,870 - 00:16:18,940] your organization go on a little bit
+- [00:16:18,940 - 00:16:21,400] more of a fast-track recruiting program
+- [00:16:21,440 - 00:16:27,400] because we're behind we're behind the population
+- [00:16:27,400 - 00:16:29,900] is increasing faster than we can possibly get to them
+- [00:16:29,900 - 00:16:33,660] they're complaining business now in America
+- [00:16:33,660 - 00:16:37,420] for 29 years guess what there's
+- [00:16:37,420 - 00:16:41,740] more overweight people in America now than
+- [00:16:41,740 - 00:16:46,060] when we started 29 years ago so we
+- [00:16:46,060 - 00:16:49,480] are behind we are half möjment
+- [00:16:49,480 - 00:16:50,560] behind another people
+- [00:16:50,560 - 00:16:53,620] more overweight people now than when we
+- [00:16:53,620 - 00:16:56,680] started 29 years ago which means we're behind
+- [00:16:56,680 - 00:17:00,870] as fast as we can run we stay behind because
+- [00:17:00,870 - 00:17:05,060] the market is so big the market is so ready
+- [00:17:05,060 - 00:17:08,859] the market is so available and now expanding
+- [00:17:08,859 - 00:17:12,659] around the world in 70 countries you can imagine
+- [00:17:12,659 - 00:17:16,169] the task we have trying to reach all of the
+- [00:17:16,169 - 00:17:19,679] people so in this unique place that mark has created
+- [00:17:19,680 - 00:17:24,819] where we arrive on special occasions like this
+- [00:17:24,819 - 00:17:29,960] here's the note your story inside the herbal life
+- [00:17:29,960 - 00:17:34,090] story is what's important so here's a
+- [00:17:34,090 - 00:17:38,220] phrase master the testimonials that's what mark was
+- [00:17:38,220 - 00:17:41,130] all about creating testimonials early testimonials someone says
+- [00:17:41,130 - 00:17:44,040] i've only been here a short period of
+- [00:17:44,040 - 00:17:46,560] time here's what's happened to my health
+- [00:17:46,560 - 00:17:49,080] here's what's happened to my family here's what's
+- [00:17:49,080 - 00:17:49,580] happened to my
+- [00:17:49,580 - 00:17:49,660] individual
+- [00:17:49,660 - 00:17:49,680] individual
+- [00:17:49,680 - 00:17:53,110] i've started making money already early testimonials
+- [00:17:53,110 - 00:17:56,540] so be a master of the testimonials
+- [00:17:56,540 - 00:18:00,000] because two things really especially at this level for
+- [00:18:00,000 - 00:18:03,460] all of you are important number one the training
+- [00:18:03,460 - 00:18:06,900] mark wanted the finest training in the world and
+- [00:18:06,900 - 00:18:10,340] you're doing that or we wouldn't be in 70 countries
+- [00:18:10,340 - 00:18:13,660] doing what three billion headed for four and
+- [00:18:13,660 - 00:18:16,980] we'll soon have the magic number mark wanted
+- [00:18:16,980 - 00:18:19,660] five billion so you're doing that
+- [00:18:19,660 - 00:18:21,530] and you're doing that now you're doing your
+- [00:18:21,530 - 00:18:23,400] job but what's important is the training the information
+- [00:18:23,400 - 00:18:23,920] number one the training is very important
+- [00:18:23,920 - 00:18:24,440] because it's the most important in this life
+- [00:18:24,440 - 00:18:26,980] but here's what goes along with the
+- [00:18:26,980 - 00:18:29,520] training the testimonials so master the testimonials
+- [00:18:29,520 - 00:18:32,800] the testimonials the testimonials reach the heart
+- [00:18:32,800 - 00:18:36,080] the trade the training reaches the head
+- [00:18:36,080 - 00:18:39,450] so you want to reach the mind the head
+- [00:18:39,450 - 00:18:42,820] so people understand have answers but you also want
+- [00:18:44,020 - 00:18:46,830] to reach the heart so let's go out with a
+- [00:18:46,830 - 00:18:49,640] new determination to reach the heart the heart is the heart
+- [00:18:49,640 - 00:18:52,850] somebody so that they're stronger
+- [00:18:52,850 - 00:18:56,060] mentally, can make better decisions about
+- [00:18:56,060 - 00:18:59,140] joining Herbalife, about staying, about
+- [00:18:59,140 - 00:19:02,220] becoming a part of this wonderful
+- [00:19:02,220 - 00:19:05,660] adventure that's on its way, and
+- [00:19:05,660 - 00:19:09,100] then inspire them with the testimonials. Okay.
+- [00:19:09,100 - 00:19:11,900] I still love to sit and hear
+- [00:19:11,900 - 00:19:14,700] the testimonials. Some people say, well the
+- [00:19:14,700 - 00:19:17,080] Chairman's Club are way up here. But
+- [00:19:17,080 - 00:19:19,460] what what inspires me is their testimonials
+- [00:19:19,460 - 00:19:22,860] one more time. The Little London
+- [00:19:22,860 - 00:19:26,260] meetings, Alan, right? The Little London meetings.
+- [00:19:26,260 - 00:19:31,020] All those years ago, driving around
+- [00:19:31,020 - 00:19:35,780] in your Mercedes. I just, the testimonials
+- [00:19:35,780 - 00:19:38,800] are so fantastic. Here's where we
+- [00:19:38,800 - 00:19:41,820] started. The Little London meetings. And then
+- [00:19:41,820 - 00:19:45,430] where did we go to? Alberts Hall, what
+- [00:19:45,430 - 00:19:49,040] is that called? Royal Albert Hall. One of the
+- [00:19:49,040 - 00:19:49,440] greatest
+- [00:19:49,440 - 00:19:54,440] venues in all of London and probably in
+- [00:19:54,440 - 00:19:59,440] all of the world. Royal Albert Hall. There
+- [00:19:59,440 - 00:20:02,750] was Alan, there was Mark Hughes, some of
+- [00:20:02,750 - 00:20:06,060] you were there, and guess who else was
+- [00:20:06,060 - 00:20:13,740] there? Jim Rohn. Jim Rohn was there. Wow.
+- [00:20:13,740 - 00:20:17,450] In the Royal Albert Hall. From the
+- [00:20:17,450 - 00:20:21,160] little London meetings to the Royal Albert
+- [00:20:21,160 - 00:20:24,710] Hall. I'm just stunned by it all.
+- [00:20:24,710 - 00:20:28,260] I'm just overwhelmed by it all. The testimonials,
+- [00:20:28,260 - 00:20:31,770] what you've been through, the things you
+- [00:20:31,770 - 00:20:35,280] overcame to arrive here, and what all of
+- [00:20:35,280 - 00:20:37,950] you have been through. Guess what I
+- [00:20:37,950 - 00:20:40,620] wish we could do today? Hear everybody's
+- [00:20:40,620 - 00:20:42,980] testimonial one more time.
+- [00:20:43,740 - 00:20:48,200] So let's just stay another two or three days, okay?
+- [00:20:54,940 - 00:20:58,340] That suits me. I love to just sit
+- [00:20:58,340 - 00:21:01,740] around and hug and kiss and tell the
+- [00:21:01,740 - 00:21:04,800] testimonials one more time. Wow. The stuff
+- [00:21:04,800 - 00:21:07,860] we've been through, all of the obstacles
+- [00:21:07,860 - 00:21:10,740] we overcame, people prayed for us from
+- [00:21:10,740 - 00:21:13,620] around the world. When I started thinking
+- [00:21:13,620 - 00:21:16,480] about people are praying for me
+- [00:21:16,480 - 00:21:19,340] all around the world, it was absolutely
+- [00:21:19,340 - 00:21:22,389] overwhelming. And all of us send
+- [00:21:22,389 - 00:21:25,439] our prayers to our organization, to Herbal
+- [00:21:25,439 - 00:21:28,489] Life and 70 countries. Pray for Herbal
+- [00:21:28,489 - 00:21:31,540] Life. Pray for the distributors that go
+- [00:21:31,540 - 00:21:34,300] out and knock on doors. Pray for those
+- [00:21:34,300 - 00:21:37,060] who hand out flyers. Pray for those who
+- [00:21:37,060 - 00:21:38,979] are just getting started and they're scared
+- [00:21:38,979 - 00:21:40,899] to death and don't know what to do.
+- [00:21:40,899 - 00:21:42,860] Let's pray. Let's pray.
+- [00:21:43,620 - 00:21:47,760] Let's pray for everybody out there.
+- [00:21:53,399 - 00:21:55,689] Your prayers were magic for me and
+- [00:21:55,689 - 00:21:57,979] it'll be magic for everybody you pray for.
+- [00:21:57,979 - 00:22:03,340] You can't imagine what an experience this is for me.
+- [00:22:03,340 - 00:22:10,860] I've had a real challenge with my health.
+- [00:22:10,860 - 00:22:12,179] But...
+- [00:22:12,180 - 00:22:15,180] And I had to miss the
+- [00:22:15,180 - 00:22:18,180] extravaganza. I was really sorry about that.
+- [00:22:18,180 - 00:22:24,180] And Mexico. I had to miss Mexico extravaganza.
+- [00:22:24,180 - 00:22:44,180] Wow. Thank you.
+- [00:22:44,180 - 00:22:48,180] They had 18,000 and I wanted
+- [00:22:48,180 - 00:22:52,180] so bad to be there with Sarah.
+- [00:22:52,180 - 00:22:53,180] And I was so sorry.
+- [00:22:53,180 - 00:22:54,180] I was so sorry.
+- [00:22:54,180 - 00:22:56,180] I couldn't make it.
+- [00:22:56,180 - 00:22:58,180] But I called in and said hello.
+- [00:22:58,180 - 00:23:02,180] And I also called in for
+- [00:23:02,180 - 00:23:06,180] the American, the North America extravaganza.
+- [00:23:06,180 - 00:23:11,180] I don't know what region this whole region entails.
+- [00:23:11,180 - 00:23:14,680] And it was as good for me as
+- [00:23:14,680 - 00:23:18,180] it was for the people when I called in.
+- [00:23:18,180 - 00:23:20,180] I can't tell you how much I love you.
+- [00:23:20,180 - 00:23:22,180] That's going to take a lot more years.
+- [00:23:22,180 - 00:23:23,180] So I'm going to live a lot more years.
+- [00:23:23,180 - 00:23:24,180] Thank you.
+- [00:23:24,180 - 00:23:25,180] So I can do that.
+- [00:23:25,180 - 00:23:26,180] Thank you.
+- [00:23:26,180 - 00:23:48,180] So let's accelerate our recruiting program.
+- [00:23:48,180 - 00:23:49,180] Because people are going to be in the room.
+- [00:23:49,180 - 00:23:50,180] And I'm going to be in the room.
+- [00:23:50,180 - 00:23:51,180] And I'm going to be in the room.
+- [00:23:51,180 - 00:23:52,180] And I'm going to be in the room.
+- [00:23:52,180 - 00:23:53,180] And I'm going to be in the room.
+- [00:23:53,180 - 00:23:55,680] Because people are going to be in the
+- [00:23:55,680 - 00:23:58,180] dark until you come and bring them some light.
+- [00:23:58,180 - 00:24:01,680] People are going to be unhappy until
+- [00:24:01,680 - 00:24:05,180] you come and bring them a Herbalife fiesta.
+- [00:24:05,180 - 00:24:08,680] People are going to be unrecognized until
+- [00:24:08,680 - 00:24:12,180] you come and get them inside this family.
+- [00:24:12,180 - 00:24:15,180] And shower them with recognition.
+- [00:24:15,180 - 00:24:19,180] Shower them with handshakes and hugs and kisses.
+- [00:24:19,180 - 00:24:20,180] And telling them you can do it.
+- [00:24:20,180 - 00:24:21,180] If we can do it,
+- [00:24:21,180 - 00:24:22,180] come on, you can do it.
+- [00:24:23,180 - 00:24:25,180] So they're out there.
+- [00:24:25,180 - 00:24:27,180] Three billion are out there.
+- [00:24:27,180 - 00:24:30,180] Waiting patiently.
+- [00:24:30,180 - 00:24:32,180] Waiting for you to come.
+- [00:24:32,180 - 00:24:37,180] So let's accelerate our recruiting program.
+- [00:24:37,180 - 00:24:42,180] Get good at doing your part of the training.
+- [00:24:42,180 - 00:24:47,180] And some of you that are starting your leadership training, you know, when
+- [00:24:47,180 - 00:24:52,180] someone asks you to participate in a meeting, give your testimonial, always say yes.
+- [00:24:53,180 - 00:24:55,180] So repeat that after me.
+- [00:24:55,180 - 00:24:56,180] Always say yes.
+- [00:24:56,180 - 00:24:57,180] Everybody.
+- [00:24:57,180 - 00:24:59,180] Always say yes.
+- [00:24:59,180 - 00:25:02,180] Every little thing they want you to do.
+- [00:25:02,180 - 00:25:03,680] Would you stand by the door
+- [00:25:03,680 - 00:25:05,180] and welcome people as they come in?
+- [00:25:05,180 - 00:25:08,180] Say yes.
+- [00:25:08,180 - 00:25:09,680] Would you shake hands with the
+- [00:25:09,680 - 00:25:11,180] people that are brand new here tonight?
+- [00:25:11,180 - 00:25:14,180] Say yes.
+- [00:25:14,180 - 00:25:17,180] Every little thing, say yes.
+- [00:25:17,180 - 00:25:19,180] Because it's not just learning
+- [00:25:19,180 - 00:25:21,180] to give a good training program.
+- [00:25:21,180 - 00:25:22,180] It's learning to shake hands.
+- [00:25:22,180 - 00:25:25,180] It's learning to say hello to someone.
+- [00:25:25,180 - 00:25:27,180] It's learning to say welcome.
+- [00:25:27,180 - 00:25:29,180] Part of the culture of Herbalife.
+- [00:25:29,180 - 00:25:30,180] That's it.
+- [00:25:30,180 - 00:25:32,180] Mark started it 29 years ago.
+- [00:25:32,180 - 00:25:34,180] And that is the culture.
+- [00:25:34,180 - 00:25:35,180] Make yourself at home.
+- [00:25:35,180 - 00:25:37,180] You're going to hear a fantastic story.
+- [00:25:37,180 - 00:25:38,680] And if they're brand new,
+- [00:25:38,680 - 00:25:40,180] say you're going to make it.
+- [00:25:40,180 - 00:25:43,680] If they say I haven't made any sales and I've been here
+- [00:25:43,680 - 00:25:47,180] four days already, say the fifth day is always the magic day.
+- [00:25:52,180 - 00:26:02,180] That's Mark Hustyle.
+- [00:26:02,180 - 00:26:05,180] If you had some challenges last week, this next
+- [00:26:05,180 - 00:26:08,180] week is going to be your best week ever.
+- [00:26:08,180 - 00:26:10,680] No telling who will join if
+- [00:26:10,680 - 00:26:13,180] you'll just keep doing what you're doing.
+- [00:26:13,180 - 00:26:14,180] That's the magic of Herbalife.
+- [00:26:14,180 - 00:26:16,180] Always say yes.
+- [00:26:16,180 - 00:26:19,180] Master the testimonials.
+- [00:26:19,180 - 00:26:21,180] Learn to give good training.
+- [00:26:21,180 - 00:26:22,180] Informal.
+- [00:26:22,180 - 00:26:23,180] Just a few points.
+- [00:26:23,180 - 00:26:24,180] Here's what Herbalife's all about.
+- [00:26:24,180 - 00:26:28,180] A place where you can come in from the cold.
+- [00:26:28,180 - 00:26:30,680] A place where you can come and get around people
+- [00:26:30,680 - 00:26:33,180] who will cheer you on every step of the way.
+- [00:26:33,180 - 00:26:37,180] A place where you can get healthy and get your family
+- [00:26:37,180 - 00:26:41,180] healthy and start contacting your relatives and people you care about.
+- [00:26:41,180 - 00:26:43,180] Get them healthy.
+- [00:26:43,180 - 00:26:45,180] A place where you can start earning money.
+- [00:26:45,180 - 00:26:49,180] Change your whole financial cycle.
+- [00:26:49,180 - 00:26:51,180] First start paying your bills.
+- [00:26:51,180 - 00:26:52,180] You're both on time.
+- [00:26:52,180 - 00:26:53,180] Finally you've got some extra
+- [00:26:53,180 - 00:26:54,180] money and you start to give.
+- [00:26:54,180 - 00:26:57,180] Casa Herbalife.
+- [00:26:57,180 - 00:27:00,180] Just remember Mark Hughes.
+- [00:27:00,180 - 00:27:03,180] Remember the simple story.
+- [00:27:03,180 - 00:27:05,180] The testimonials.
+- [00:27:05,180 - 00:27:07,180] And remember the challenge.
+- [00:27:07,180 - 00:27:09,180] We've got a big job.
+- [00:27:09,180 - 00:27:15,180] And it looks like right now we're behind.
+- [00:27:15,180 - 00:27:19,180] Behind, yes.
+- [00:27:19,180 - 00:27:21,680] So we've got to run to
+- [00:27:21,680 - 00:27:24,180] catch up the best we can.
+- [00:27:24,180 - 00:27:27,180] I think that's enough from me.
+- [00:27:27,180 - 00:27:31,180] I love you all more than I can possibly say.
+- [00:27:31,180 - 00:27:35,180] And thanks to my Sarah who has helped take care
+- [00:27:35,180 - 00:27:39,180] of me as well as my daughter for the last year.
+- [00:27:39,180 - 00:27:40,180] Thank you Sarah.
+- [00:27:40,180 - 00:27:41,180] I love you dearly.
+- [00:27:49,180 - 00:27:51,180] And thanks.
+- [00:27:51,180 - 00:28:01,180] Thank you.
+- [00:28:01,180 - 00:28:08,180] Thanks to the home office staff.
+- [00:28:08,180 - 00:28:13,180] Thank, where's Luigi?
+- [00:28:13,180 - 00:28:16,180] Thanks to Luigi who filled in for me.
+- [00:28:16,180 - 00:28:18,180] And Jack Kavulich.
+- [00:28:19,180 - 00:28:22,180] You know.
+- [00:28:22,180 - 00:28:24,180] I had to throw my schedule away for a while.
+- [00:28:24,180 - 00:28:26,180] I couldn't travel, couldn't fly.
+- [00:28:26,180 - 00:28:30,180] And Jack and Luigi picked it up and started traveling.
+- [00:28:30,180 - 00:28:32,180] So thanks to Jack and
+- [00:28:32,180 - 00:28:34,180] Luigi for filling in for me.
+- [00:28:34,180 - 00:28:46,180] Wow.
+- [00:28:46,180 - 00:28:47,180] Well I could talk all day.
+- [00:28:47,180 - 00:28:48,180] But I think I'm going to have to go.
+- [00:28:48,180 - 00:28:51,180] I think this is enough.
+- [00:28:51,180 - 00:28:53,180] I embrace all of you.
+- [00:28:53,180 - 00:28:56,180] I embrace all of you.
+- [00:28:56,180 - 00:28:59,180] With my heart and soul.
+- [00:28:59,180 - 00:29:01,180] We are fulfilling Mark's dream.
+- [00:29:01,180 - 00:29:02,680] And that's what I've wanted to
+- [00:29:02,680 - 00:29:04,180] do for the last 29 years.
+- [00:29:04,180 - 00:29:09,180] And in these next few years, let's really grow.
+- [00:29:09,180 - 00:29:11,180] Let's really accelerate.
+- [00:29:11,180 - 00:29:12,180] Let's expand.
+- [00:29:12,180 - 00:29:13,180] Let's reach out.
+- [00:29:13,180 - 00:29:15,180] Let's touch somebody.
+- [00:29:15,180 - 00:29:17,180] With the magic that we've got.
+- [00:29:17,180 - 00:29:19,180] So thank you all for coming.
+- [00:29:19,180 - 00:29:21,180] Thanks for your incredible welcome.
+- [00:29:21,180 - 00:29:23,180] I want to spend the rest
+- [00:29:23,180 - 00:29:25,180] of my life with all of you.
+- [00:29:25,180 - 00:29:26,180] God bless.
+- [00:29:47,180 - 00:29:52,680] Thanks to all of you
+- [00:29:52,680 - 00:29:58,180] for being so kind to me.
+- [00:29:58,180 - 00:29:59,180] I'm going to go now.
+- [00:29:59,180 - 00:30:01,180] Have a nice day in the world.
+- [00:30:01,180 - 00:30:02,180] Bye bye.
+- [00:30:02,180 - 00:30:03,180] Bye bye.
+- [00:30:03,180 - 00:30:04,180] Bye bye.
+- [00:30:04,180 - 00:30:05,180] Bye bye.
+- [00:30:05,180 - 00:30:06,180] Bye bye.
+- [00:30:06,180 - 00:30:07,180] Bye bye.
+- [00:30:07,180 - 00:30:08,180] Bye bye.
+- [00:30:08,180 - 00:30:09,180] Bye bye.
+- [00:30:09,180 - 00:30:10,180] Bye bye.
+- [00:30:10,180 - 00:30:11,180] Bye bye.
+- [00:30:11,180 - 00:30:12,180] Bye bye.
+- [00:30:12,180 - 00:30:13,180] Bye bye.
+- [00:30:13,180 - 00:30:14,180] Bye bye.
+- [00:30:14,180 - 00:30:15,180] Bye bye.
+- [00:30:15,180 - 00:30:16,180] Bye bye.
+- [00:30:16,180 - 00:30:46,160] © BF-WATCH TV 2021
+- [00:30:46,180 - 00:31:16,160] © BF-WATCH TV 2021
+- [00:31:16,180 - 00:31:46,160] © BF-WATCH TV 2021
+- [00:31:46,180 - 00:32:16,160] © BF-WATCH TV 2021
+- [00:32:16,180 - 00:32:46,160] © BF-WATCH TV 2021
+- [00:32:46,180 - 00:33:16,160] © BF-WATCH TV 2021
+- [00:33:16,180 - 00:33:27,864] © BF-WATCH TV 2021
