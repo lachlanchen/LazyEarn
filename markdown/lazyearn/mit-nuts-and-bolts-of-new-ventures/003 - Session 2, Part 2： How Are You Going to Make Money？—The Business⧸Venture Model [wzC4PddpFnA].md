@@ -1,0 +1,1620 @@
+# Transcript
+
+Source: lazyearn/mit-nuts-and-bolts-of-new-ventures/003 - Session 2, Part 2： How Are You Going to Make Money？—The Business⧸Venture Model [wzC4PddpFnA].webm
+
+- [00:00:00,000 - 00:00:08,840] Okay, welcome to this session of Nuts and
+- [00:00:08,840 - 00:00:17,680] Bolts where we're going to talk about business models
+- [00:00:17,680 - 00:00:20,020] or venture models. Bob Jones the other
+- [00:00:20,020 - 00:00:22,360] night talked to you about finding your customer,
+- [00:00:22,360 - 00:00:25,480] and if you remember how he did that
+- [00:00:25,480 - 00:00:28,600] with his guitar lesson example, he looked at different
+- [00:00:28,600 - 00:00:31,120] customers, different pricing points. That's the
+- [00:00:31,120 - 00:00:33,640] beginning of what a business model is.
+- [00:00:33,640 - 00:00:36,090] The model says how are you going to make
+- [00:00:36,090 - 00:00:38,540] money or how are you going to develop a sustainable
+- [00:00:38,540 - 00:00:42,110] business? And tonight to tell us about that we
+- [00:00:42,110 - 00:00:45,680] have Rich Kivel who has been a serial healthcare
+- [00:00:45,680 - 00:00:48,440] entrepreneur and an investor and has seen
+- [00:00:48,440 - 00:00:51,200] many business models over the years. So Rich,
+- [00:00:51,200 - 00:00:52,520] I'm just going to turn it right
+- [00:00:52,520 - 00:00:53,840] over to you and take it from here.
+- [00:00:53,840 - 00:00:54,840] Thank you, Joe.
+- [00:00:54,840 - 00:00:55,840] Perfect. Good evening, everybody.
+- [00:00:55,840 - 00:00:56,840] Thank you.
+- [00:00:56,840 - 00:00:57,840] I'm going to start with you, Rich.
+- [00:00:57,840 - 00:00:58,600] Thank you, Bob.
+- [00:00:58,600 - 00:01:01,210] Hi, everybody. This is a fun topic
+- [00:01:01,210 - 00:01:03,820] because it actually gets into the nitty-gritty of
+- [00:01:03,820 - 00:01:06,760] how do companies make money? How do
+- [00:01:06,760 - 00:01:09,700] you think about bringing the product, the invention,
+- [00:01:09,700 - 00:01:12,630] the technology, the idea, the service
+- [00:01:12,630 - 00:01:15,560] that you're ultimately thinking about building,
+- [00:01:15,560 - 00:01:17,520] how do you ultimately get it to a
+- [00:01:17,520 - 00:01:19,480] point where you're able to generate revenue and ultimately
+- [00:01:19,480 - 00:01:22,040] returns for your investors, whether that
+- [00:01:22,040 - 00:01:24,600] be your venture investors or strategic partners
+- [00:01:24,600 - 00:01:28,600] or maybe you angel funded your company?
+- [00:01:28,600 - 00:01:31,579] And you really have yourself and a couple
+- [00:01:31,579 - 00:01:34,559] of friends that really want to make something
+- [00:01:34,559 - 00:01:36,829] special have an impact. So I'm going to
+- [00:01:36,829 - 00:01:39,100] talk a little bit about business models, just my
+- [00:01:39,100 - 00:01:41,830] background real quick. The whole first part of
+- [00:01:41,830 - 00:01:44,560] my career was on the operating side of
+- [00:01:44,560 - 00:01:49,019] companies, so sales, marketing, partnerships. The first
+- [00:01:49,019 - 00:01:53,479] time I became CEO was a long time
+- [00:01:53,479 - 00:01:54,049] ago when Joe and I actually met. It was an
+- [00:01:54,049 - 00:01:54,619] MIT spin out. It was actually a pretty big thing.
+- [00:01:54,619 - 00:01:55,109] It was an MIT spin out. I was doing a lot
+- [00:01:55,109 - 00:01:55,600] of business back then and I spent a lot of time
+- [00:01:55,600 - 00:01:56,100] working with folks from the business side. And
+- [00:01:56,100 - 00:01:56,600] I found that the business model was a
+- [00:01:56,600 - 00:01:57,100] lot more collaborative than the business model. So
+- [00:01:57,100 - 00:01:57,600] I started out with a business model that
+- [00:01:57,600 - 00:01:59,149] It was actually a company that
+- [00:01:59,149 - 00:02:00,699] had won the MIT Business Plan
+- [00:02:00,699 - 00:02:02,080] Competition.
+- [00:02:02,080 - 00:02:04,640] And a couple of years later, after I
+- [00:02:04,640 - 00:02:06,190] exited a technology company, I
+- [00:02:06,190 - 00:02:07,740] got a call by the investors.
+- [00:02:07,740 - 00:02:10,139] And they were looking for somebody to run this company.
+- [00:02:10,139 - 00:02:12,600] They had a whole bunch of incredibly smart engineers
+- [00:02:12,600 - 00:02:14,459] and physicists and others.
+- [00:02:14,459 - 00:02:18,100] And they needed somebody that had operations experience,
+- [00:02:18,100 - 00:02:21,000] how to build the business model.
+- [00:02:21,000 - 00:02:22,600] This was back in the
+- [00:02:22,600 - 00:02:24,200] days of the Human Genome Project,
+- [00:02:24,200 - 00:02:25,300] for those of you that
+- [00:02:25,300 - 00:02:26,400] are in the life science area.
+- [00:02:26,400 - 00:02:29,460] Just show a hand, sort of life science people here,
+- [00:02:29,460 - 00:02:33,340] health care, biotech, tech tech,
+- [00:02:33,340 - 00:02:37,220] hard tech, deep tech, robotics.
+- [00:02:37,220 - 00:02:37,840] Excellent.
+- [00:02:37,840 - 00:02:42,180] What other areas are you guys in?
+- [00:02:42,180 - 00:02:42,840] Software?
+- [00:02:42,840 - 00:02:46,680] Yep, so SaaS platforms, big data, analytics.
+- [00:02:46,680 - 00:02:48,720] What else?
+- [00:02:48,720 - 00:02:49,920] Oh, fantastic.
+- [00:02:49,920 - 00:02:52,780] Any specific realm?
+- [00:02:52,780 - 00:02:53,820] Geothermal.
+- [00:02:53,820 - 00:02:55,680] Excellent.
+- [00:02:55,680 - 00:02:56,260] Good.
+- [00:02:56,260 - 00:02:59,480] So essentially, when I got involved with this company,
+- [00:02:59,480 - 00:03:02,160] it was basically a
+- [00:03:02,160 - 00:03:04,840] company doing software called Bioinformatics.
+- [00:03:04,840 - 00:03:08,340] They were building software that would allow scientists
+- [00:03:08,340 - 00:03:10,660] and researchers working on the Human Genome Project
+- [00:03:10,660 - 00:03:12,080] to communicate with all of
+- [00:03:12,080 - 00:03:13,500] the instruments in their lab, which
+- [00:03:13,500 - 00:03:15,519] nowadays we just simply take for granted.
+- [00:03:15,519 - 00:03:18,500] You plug in, just like your printer in your office,
+- [00:03:18,500 - 00:03:19,649] you plug it into the wall,
+- [00:03:19,649 - 00:03:20,799] it shows up on your iPhone,
+- [00:03:20,799 - 00:03:22,029] and it shows up on
+- [00:03:22,029 - 00:03:23,260] your computer, and everything is simple.
+- [00:03:23,260 - 00:03:25,700] But back then, when somebody sitting here,
+- [00:03:25,700 - 00:03:29,200] across the street or diagonally down the street from us,
+- [00:03:29,200 - 00:03:32,579] at the Whitehead Institute or the Broad Institute,
+- [00:03:32,579 - 00:03:35,179] were doing research, everything in
+- [00:03:35,179 - 00:03:37,780] their lab essentially was autonomous.
+- [00:03:37,780 - 00:03:42,079] So you got a new pin tool robot or micro-arrayer,
+- [00:03:42,079 - 00:03:44,929] and it showed up with its own computer
+- [00:03:44,929 - 00:03:47,780] and a tower of sort of a computer stack,
+- [00:03:47,780 - 00:03:50,050] and a screen and a keyboard and
+- [00:03:50,050 - 00:03:52,320] a mouse, and it ran its own software.
+- [00:03:52,320 - 00:03:53,050] And then you would go down
+- [00:03:53,050 - 00:03:53,780] to the refrigerator, and you'd see, like,
+- [00:03:53,780 - 00:03:54,280] there's a computer in the back of
+- [00:03:54,280 - 00:03:54,780] the lab, and it's running its own software.
+- [00:03:54,780 - 00:03:55,229] And then you would go down
+- [00:03:55,229 - 00:03:55,679] to the refrigerator, and you'd see, like,
+- [00:03:55,700 - 00:03:55,719] there's a computer in the back of
+- [00:03:55,719 - 00:03:55,739] the lab, and it's running its own software.
+- [00:03:55,739 - 00:03:57,299] That was a barcode scanning
+- [00:03:57,299 - 00:03:58,859] refrigerator with all your samples,
+- [00:03:58,859 - 00:04:01,239] and that refrigerator had its own computer.
+- [00:04:01,239 - 00:04:03,389] And then the scanner, the
+- [00:04:03,389 - 00:04:05,540] robot, everything was running autonomously.
+- [00:04:05,540 - 00:04:07,469] So engineers were essentially put
+- [00:04:07,469 - 00:04:09,399] in a position, and scientists,
+- [00:04:09,399 - 00:04:11,489] where they had to build Excel
+- [00:04:11,489 - 00:04:13,579] spreadsheets to track all of this data.
+- [00:04:13,579 - 00:04:17,039] So, you know, import, export, just constant chaos.
+- [00:04:17,039 - 00:04:19,269] And that became more and more difficult,
+- [00:04:19,269 - 00:04:21,500] as you can imagine, as the machines,
+- [00:04:21,500 - 00:04:23,290] the instruments, as we called
+- [00:04:23,290 - 00:04:25,080] them, the robotics and the scanners,
+- [00:04:25,080 - 00:04:27,960] started taking so much more data.
+- [00:04:27,960 - 00:04:30,919] It was easy when you had a small microtiter plate,
+- [00:04:30,919 - 00:04:33,189] and you had a little pin tool robot
+- [00:04:33,189 - 00:04:35,460] putting a little DNA sample into a well,
+- [00:04:35,460 - 00:04:38,960] and then it would show up once you imaged it.
+- [00:04:38,960 - 00:04:41,170] But that's really hard to do when
+- [00:04:41,170 - 00:04:43,380] you're doing tens of thousands or millions
+- [00:04:43,380 - 00:04:45,120] of data points at once.
+- [00:04:45,120 - 00:04:47,540] So our software essentially figured out
+- [00:04:47,540 - 00:04:49,960] how to communicate with all the instruments,
+- [00:04:49,960 - 00:04:52,960] writing APIs, things that we all take for granted now,
+- [00:04:52,960 - 00:04:56,080] and then helping downstream.
+- [00:04:56,080 - 00:04:59,620] So step one was really capture of the information.
+- [00:04:59,620 - 00:05:02,159] Then step two was visualize the information.
+- [00:05:02,159 - 00:05:04,019] So we caught all this information off
+- [00:05:04,019 - 00:05:05,880] of all these instruments in the lab.
+- [00:05:05,880 - 00:05:07,799] We then can visualize it.
+- [00:05:07,799 - 00:05:08,719] We can see it.
+- [00:05:08,719 - 00:05:10,549] We can decide whether
+- [00:05:10,549 - 00:05:12,380] this gene's overexpressing or underexpressing.
+- [00:05:12,380 - 00:05:15,380] And then downstream was the data mining.
+- [00:05:15,380 - 00:05:18,719] How do we create value from the information?
+- [00:05:18,719 - 00:05:20,549] And what's funny is I had
+- [00:05:20,549 - 00:05:22,380] no background at all in biotech pharma.
+- [00:05:22,960 - 00:05:26,039] I didn't know how to spell bioinformatics.
+- [00:05:26,039 - 00:05:28,959] I think I might have went on Yahoo back
+- [00:05:28,959 - 00:05:31,880] then and figured out what the hell it meant.
+- [00:05:31,880 - 00:05:34,719] But truthfully, it really didn't matter.
+- [00:05:34,719 - 00:05:36,719] At the end of the day,
+- [00:05:36,719 - 00:05:38,719] we were building software for scientists.
+- [00:05:38,719 - 00:05:41,649] And what mattered was, were we
+- [00:05:41,649 - 00:05:44,580] creating value out of this invention?
+- [00:05:44,580 - 00:05:48,170] So what you think about now, whether it
+- [00:05:48,170 - 00:05:51,760] be that you are working in the energy industry,
+- [00:05:51,760 - 00:05:52,880] whether you are building data,
+- [00:05:52,880 - 00:05:52,899] whether you are building data,
+- [00:05:52,899 - 00:05:52,919] whether you are building data,
+- [00:05:52,919 - 00:05:52,939] whether you are building data,
+- [00:05:52,939 - 00:05:52,960] whether you are building data,
+- [00:05:52,960 - 00:05:54,230] whether you are building
+- [00:05:54,230 - 00:05:55,500] drones that are capturing information,
+- [00:05:55,500 - 00:05:57,209] whether you are building satellites
+- [00:05:57,209 - 00:05:58,919] that are actually looking at,
+- [00:05:58,919 - 00:06:04,880] let's say, methane emissions, at the end of the day,
+- [00:06:04,880 - 00:06:08,880] the value very often comes from the data.
+- [00:06:08,880 - 00:06:10,960] And that is the magic of it all.
+- [00:06:10,960 - 00:06:13,580] And that's been the case truly in
+- [00:06:13,580 - 00:06:16,200] a magnificent way over the past 20 years
+- [00:06:16,200 - 00:06:18,419] and growing more and more so.
+- [00:06:18,419 - 00:06:20,669] So what's fascinating is when I first had
+- [00:06:20,669 - 00:06:22,919] the privilege of doing this class, this exact
+- [00:06:22,920 - 00:06:26,400] lecture back in the old days with Joe and
+- [00:06:26,400 - 00:06:29,880] Joost Bonson and that whole team, it was funny.
+- [00:06:29,880 - 00:06:36,220] We were looking at business models that were so arcane.
+- [00:06:36,220 - 00:06:39,040] It was basically, are you going to sell online?
+- [00:06:39,040 - 00:06:41,680] Are you going to sell retail?
+- [00:06:41,680 - 00:06:42,760] That was it.
+- [00:06:42,760 - 00:06:44,840] And then you had a couple of nuances.
+- [00:06:44,840 - 00:06:48,440] You had computer companies that, like Michael
+- [00:06:48,440 - 00:06:52,040] Dell, competing against a company called Gateway.
+- [00:06:52,040 - 00:06:52,880] And they're not going to sell.
+- [00:06:52,880 - 00:06:55,180] And it was a whole other novel business model,
+- [00:06:55,180 - 00:06:57,760] was that they would customize the computer
+- [00:06:57,760 - 00:07:00,340] for you based on your specific specifications
+- [00:07:00,340 - 00:07:03,029] versus everybody else that basically you walked
+- [00:07:03,029 - 00:07:05,719] into your local equivalent of a Best Buy
+- [00:07:05,719 - 00:07:07,379] and you bought the computer they had
+- [00:07:07,379 - 00:07:09,040] there based on how much memory you needed.
+- [00:07:09,040 - 00:07:11,040] But there was no customization.
+- [00:07:11,040 - 00:07:14,000] So customization became a differentiating factor.
+- [00:07:14,000 - 00:07:17,900] And these were very, very small incremental
+- [00:07:17,900 - 00:07:21,800] changes that took place until we suddenly
+- [00:07:21,800 - 00:07:22,800] saw ubiquitous Wi-Fi.
+- [00:07:22,800 - 00:07:25,420] ubiquitous internet connectivity where we
+- [00:07:25,420 - 00:07:28,040] saw now business models that could
+- [00:07:28,040 - 00:07:30,580] never have existed just months or years
+- [00:07:30,580 - 00:07:33,120] before suddenly came into play so what
+- [00:07:33,120 - 00:07:35,960] I'm gonna do today is is share with
+- [00:07:35,960 - 00:07:38,800] you and sort of where business models evolve
+- [00:07:38,800 - 00:07:40,730] from and how important they are to
+- [00:07:40,730 - 00:07:42,660] the decisions you guys make whether you be
+- [00:07:42,660 - 00:07:45,230] the founder entrepreneur you be the
+- [00:07:45,230 - 00:07:47,800] fifth higher in the company or you're
+- [00:07:47,800 - 00:07:49,600] going to work for a big organization
+- [00:07:49,600 - 00:07:51,400] and you happen to have the luxury of
+- [00:07:51,400 - 00:07:53,890] launching a new product at the end of
+- [00:07:53,890 - 00:07:56,380] the day a business model is not only
+- [00:07:56,380 - 00:07:59,200] critical to the way the company
+- [00:07:59,200 - 00:08:02,020] operates and communicates and brands itself to
+- [00:08:02,020 - 00:08:04,710] the world but it also needs to
+- [00:08:04,710 - 00:08:07,400] be flexible enough that it can adjust so
+- [00:08:07,400 - 00:08:09,150] let's talk a little bit about these
+- [00:08:09,150 - 00:08:10,900] things so sort of starting in the very
+- [00:08:10,900 - 00:08:12,819] beginning of it you know choosing the
+- [00:08:12,819 - 00:08:14,739] right business model is is crucial for
+- [00:08:14,739 - 00:08:17,169] the success of any company and for those
+- [00:08:17,169 - 00:08:19,599] of you that read some of the background
+- [00:08:19,599 - 00:08:20,799] material for this course
+- [00:08:21,400 - 00:08:23,529] one of the definitions is that
+- [00:08:23,529 - 00:08:25,659] a successful business must be willing to
+- [00:08:25,659 - 00:08:27,999] modify its model to adapt quickly
+- [00:08:27,999 - 00:08:30,340] in any market and that's absolutely critical
+- [00:08:30,340 - 00:08:32,649] that will define whether your business
+- [00:08:32,649 - 00:08:34,959] is nimble and succeeds long-term or
+- [00:08:34,959 - 00:08:37,029] maybe you got lucky and it was a blip
+- [00:08:37,029 - 00:08:39,100] on the screen as a matter of fact from that
+- [00:08:39,100 - 00:08:40,549] same book if you guys don't know how many
+- [00:08:40,549 - 00:08:42,000] of you looked at it but it was part
+- [00:08:42,000 - 00:08:44,789] of the reading of this course was
+- [00:08:44,789 - 00:08:47,579] the business model generation book and this
+- [00:08:47,579 - 00:08:49,479] model or this definition i
+- [00:08:49,479 - 00:08:51,380] think is perfect a business model
+- [00:08:51,400 - 00:08:53,020] describes the rationale of how
+- [00:08:53,020 - 00:08:54,640] an organization creates delivers and
+- [00:08:54,640 - 00:08:57,220] captures value that's it and the value
+- [00:08:57,220 - 00:08:59,800] can be measured in many many different
+- [00:08:59,800 - 00:09:01,939] ways hopefully it's measured on the
+- [00:09:01,939 - 00:09:04,079] consumer side the customer side the
+- [00:09:04,079 - 00:09:05,959] corporate side whoever you're ultimately selling
+- [00:09:05,959 - 00:09:07,840] to whether it's a SAS platform
+- [00:09:07,840 - 00:09:10,120] and you're selling enterprise-wide
+- [00:09:10,120 - 00:09:12,400] solutions to the financial service
+- [00:09:12,400 - 00:09:15,780] industry or you're delivering a product to
+- [00:09:15,780 - 00:09:19,160] an end user a consumer so it's a
+- [00:09:19,160 - 00:09:21,280] b2b versus a b2c
+- [00:09:21,400 - 00:09:24,020] type of a model when we think
+- [00:09:24,020 - 00:09:26,640] about frameworks and this is something that
+- [00:09:26,640 - 00:09:28,820] you know when my career started was
+- [00:09:28,820 - 00:09:31,000] in tech and then sort of in biopharma
+- [00:09:31,000 - 00:09:33,840] Tech for many many years and then a
+- [00:09:33,840 - 00:09:36,680] number of years back I started to move
+- [00:09:36,680 - 00:09:38,740] over to the other side of the
+- [00:09:38,740 - 00:09:40,800] equation which was investing in companies and
+- [00:09:40,800 - 00:09:42,860] having been on the operating side
+- [00:09:42,860 - 00:09:44,920] literally out there all the time raising
+- [00:09:44,920 - 00:09:47,830] capital for companies expanding
+- [00:09:47,830 - 00:09:50,740] hiring firing succeeding failing taking
+- [00:09:50,740 - 00:09:51,199] companies from
+- [00:09:51,199 - 00:09:51,239] price lines to demand from Process paus pull andhoggi로 usually
+- [00:09:51,239 - 00:09:51,280] saying you canges in firings for failing taking companies from
+- [00:09:51,280 - 00:09:53,780] from literally eight people up to
+- [00:09:53,780 - 00:09:56,280] 85 to 250 to 1,000 people,
+- [00:09:57,680 - 00:10:00,500] all of that growth typically happens
+- [00:10:00,500 - 00:10:03,939] because the organization is well-funded
+- [00:10:03,939 - 00:10:06,740] and it has flexibility in its business model.
+- [00:10:07,740 - 00:10:09,050] When I go back for
+- [00:10:09,050 - 00:10:10,360] a moment to share with you
+- [00:10:10,360 - 00:10:13,500] the company Molecularware, which was an MIT spinout,
+- [00:10:13,500 - 00:10:16,180] that company was building bioinformatic software,
+- [00:10:16,180 - 00:10:17,300] software for scientists.
+- [00:10:17,300 - 00:10:18,699] It had one business model.
+- [00:10:18,700 - 00:10:20,530] It sold to academics when I
+- [00:10:20,530 - 00:10:22,360] arrived as CEO of that company.
+- [00:10:22,360 - 00:10:24,740] It was my first CEO gig ever.
+- [00:10:24,740 - 00:10:26,040] And of course they sold
+- [00:10:26,040 - 00:10:27,340] to the people they knew, right?
+- [00:10:27,340 - 00:10:29,920] These were all super smart people that came out of,
+- [00:10:29,920 - 00:10:33,480] you know, the Rican Institute in Japan,
+- [00:10:33,480 - 00:10:35,560] the Broad Institute, or at that time,
+- [00:10:35,560 - 00:10:37,760] I guess it was the Whitehead Institute.
+- [00:10:37,760 - 00:10:40,080] And that was the business model.
+- [00:10:40,080 - 00:10:41,880] But you can't really scale very well,
+- [00:10:41,880 - 00:10:43,860] nor can you be very, very attractive
+- [00:10:43,860 - 00:10:46,760] to the investment community if you have one client
+- [00:10:46,760 - 00:10:48,100] and that client is academics
+- [00:10:48,100 - 00:10:48,680] or that one client is a business model.
+- [00:10:48,680 - 00:10:50,099] That client is government.
+- [00:10:50,099 - 00:10:52,339] So we started to think about other models.
+- [00:10:52,339 - 00:10:54,020] Some of them we're gonna talk about today.
+- [00:10:54,020 - 00:10:56,880] So we not only built software for scientists
+- [00:10:56,880 - 00:10:59,079] and sold to the academicians,
+- [00:10:59,079 - 00:11:01,599] which is an entirely different sales process, right?
+- [00:11:01,599 - 00:11:03,479] You've got different budgetary processes,
+- [00:11:03,479 - 00:11:05,800] different conferences you need to attend.
+- [00:11:05,800 - 00:11:09,640] But then we developed a series of other sales mechanisms.
+- [00:11:10,920 - 00:11:12,859] One of the first and most successful was
+- [00:11:12,859 - 00:11:14,079] because we had relationships
+- [00:11:14,079 - 00:11:16,219] with the Rican Institute in Japan,
+- [00:11:16,219 - 00:11:18,479] we decided that we needed to do more
+- [00:11:18,480 - 00:11:20,640] of a business model in Asia.
+- [00:11:20,640 - 00:11:22,860] And certainly building a Salesforce in Asia
+- [00:11:22,860 - 00:11:24,540] was out of the question
+- [00:11:24,540 - 00:11:26,220] for a little Kendall Square company
+- [00:11:26,220 - 00:11:28,240] with 15 people.
+- [00:11:28,240 - 00:11:31,120] So we started partnering with distributors.
+- [00:11:31,120 - 00:11:33,080] So we had this fantastic distribution partnership
+- [00:11:33,080 - 00:11:34,880] with a company called CTC.
+- [00:11:34,880 - 00:11:38,440] And CTC essentially sold our product for us.
+- [00:11:38,440 - 00:11:40,380] So that became part of our business model.
+- [00:11:40,380 - 00:11:43,440] So we had direct to academicians,
+- [00:11:43,440 - 00:11:44,640] which was great because it
+- [00:11:44,640 - 00:11:45,840] was like the name branding, right?
+- [00:11:45,840 - 00:11:47,540] Like Harvard bought our software,
+- [00:11:47,540 - 00:11:48,480] or Lawrence Berkeley, National Lab,
+- [00:11:48,480 - 00:11:50,080] bought our software.
+- [00:11:50,080 - 00:11:52,800] But then all of a sudden we started landing clients
+- [00:11:52,800 - 00:11:53,840] in other parts of the
+- [00:11:53,840 - 00:11:54,880] world that we could never touch.
+- [00:11:54,880 - 00:11:57,420] We could never ever have afforded to put together
+- [00:11:57,420 - 00:12:00,300] a Salesforce and management and training
+- [00:12:00,300 - 00:12:03,660] to sell in Asia, as an example.
+- [00:12:03,660 - 00:12:08,660] So distributors became a second part of our model.
+- [00:12:08,880 - 00:12:10,480] And then as we started to build a little bit
+- [00:12:10,480 - 00:12:12,590] of a brand for ourselves, we
+- [00:12:12,590 - 00:12:14,700] said, how else can we sell?
+- [00:12:14,700 - 00:12:16,290] We wanted to sell more
+- [00:12:16,290 - 00:12:17,880] into the US and to Europe.
+- [00:12:17,880 - 00:12:19,740] But again, building a big
+- [00:12:19,740 - 00:12:21,600] Salesforce was not in our budget.
+- [00:12:21,600 - 00:12:24,500] So we then looked at what's called OEM.
+- [00:12:24,500 - 00:12:25,780] Who knows what that means?
+- [00:12:27,120 - 00:12:27,960] Anybody?
+- [00:12:27,960 - 00:12:28,800] Just yell it out.
+- [00:12:30,020 - 00:12:31,480] Original equipment manufacturers.
+- [00:12:31,480 - 00:12:35,360] So we realized, wait a minute, our software,
+- [00:12:35,360 - 00:12:37,600] we wrote APIs to all these cool instruments,
+- [00:12:37,600 - 00:12:41,180] Cartesian robots, bio robotics, Packard bioscience,
+- [00:12:41,180 - 00:12:43,820] axon scanners, applied precision scanners.
+- [00:12:45,000 - 00:12:47,480] Some of those people have really shitty software.
+- [00:12:47,480 - 00:12:49,660] And they've got good instruments.
+- [00:12:49,660 - 00:12:51,500] We've got amazing software.
+- [00:12:51,500 - 00:12:53,720] We're not interested in building instruments.
+- [00:12:53,720 - 00:12:56,120] Why don't we partner with them and bundle our software
+- [00:12:56,120 - 00:12:57,980] inside of their instrument?
+- [00:12:57,980 - 00:12:59,860] So we wound up landing one of our first deals
+- [00:12:59,860 - 00:13:02,900] with Applied Precision in Issaquah, Washington.
+- [00:13:02,900 - 00:13:05,960] And they had phenomenal imaging technology.
+- [00:13:05,960 - 00:13:08,480] One of the best scanners at the time,
+- [00:13:08,480 - 00:13:10,720] but really crappy software, hard to use,
+- [00:13:10,720 - 00:13:12,720] kludgy, it was just a pain in the butt.
+- [00:13:12,720 - 00:13:14,860] And ultimately they started selling more product
+- [00:13:14,860 - 00:13:16,560] because they had a lot of software.
+- [00:13:16,560 - 00:13:18,319] And they started selling more product
+- [00:13:18,319 - 00:13:20,400] because now their software was seamless,
+- [00:13:20,400 - 00:13:22,319] fully integrated into their instrument.
+- [00:13:22,319 - 00:13:25,060] And it cost us nothing to sell.
+- [00:13:25,060 - 00:13:26,979] Every time they sold an instrument,
+- [00:13:26,979 - 00:13:28,939] we got a check in the mail.
+- [00:13:28,939 - 00:13:33,560] So we went from direct to distributors, to OEM,
+- [00:13:33,560 - 00:13:35,060] and then continued.
+- [00:13:35,060 - 00:13:38,219] So having that experience as an operating person,
+- [00:13:38,219 - 00:13:39,939] how to build these international
+- [00:13:39,939 - 00:13:43,140] or these national organizations,
+- [00:13:43,140 - 00:13:45,239] was really based on those experiences.
+- [00:13:45,239 - 00:13:45,819] And now my job is, I invest in companies.
+- [00:13:45,819 - 00:13:46,540] And I'm a company.
+- [00:13:46,540 - 00:13:50,000] So we have a fund based out of London.
+- [00:13:50,000 - 00:13:52,959] We invest throughout Europe and the UK and elsewhere.
+- [00:13:52,959 - 00:13:55,079] We're doing a deal in Australia right now.
+- [00:13:55,079 - 00:13:58,060] And our focus is about 70% health care,
+- [00:13:58,060 - 00:13:59,660] and everything else is deep tech software,
+- [00:13:59,660 - 00:14:04,280] SaaS platforms, robotics, all B2B.
+- [00:14:04,280 - 00:14:06,210] So let's talk a little bit
+- [00:14:06,210 - 00:14:08,140] about how we see the world.
+- [00:14:08,140 - 00:14:09,869] This is also out of the
+- [00:14:09,869 - 00:14:11,599] book that was part of this class,
+- [00:14:11,599 - 00:14:13,280] which I thought was fantastic.
+- [00:14:13,280 - 00:14:14,540] This is essentially nine of
+- [00:14:14,540 - 00:14:15,800] the key ingredients, what they call
+- [00:14:15,800 - 00:14:20,920] the canvas in that book.
+- [00:14:20,920 - 00:14:23,680] The business model generation book was about,
+- [00:14:23,680 - 00:14:25,880] how do you think about a business model?
+- [00:14:25,880 - 00:14:27,760] And all of these slides will be available, of course,
+- [00:14:27,760 - 00:14:30,599] so you don't have to kill yourself to take notes.
+- [00:14:30,599 - 00:14:32,240] But I will say this.
+- [00:14:32,240 - 00:14:34,200] When you think about each
+- [00:14:34,200 - 00:14:36,160] of these slices of the pie,
+- [00:14:36,160 - 00:14:39,180] of course, in reality, they're not all the same size.
+- [00:14:39,180 - 00:14:40,680] They're going to change in size based
+- [00:14:40,680 - 00:14:42,560] on where your company is from the standpoint
+- [00:14:42,560 - 00:14:45,099] of its product development, its financing, et cetera.
+- [00:14:45,800 - 00:14:49,560] But each of these components are so critical.
+- [00:14:49,560 - 00:14:51,680] And very often, they blend together.
+- [00:14:51,680 - 00:14:55,400] So you might have key resources or key activities
+- [00:14:55,400 - 00:14:56,820] that are being overseen by one
+- [00:14:56,820 - 00:14:58,240] of the managers in the company,
+- [00:14:58,240 - 00:15:00,680] whereas the entire marketing department
+- [00:15:00,680 - 00:15:02,599] is in charge of the value proposition
+- [00:15:02,599 - 00:15:05,719] and trying to segment the customers.
+- [00:15:05,719 - 00:15:07,249] But at the end of the
+- [00:15:07,249 - 00:15:08,780] day, each one of these things
+- [00:15:08,780 - 00:15:10,459] need to move harmoniously.
+- [00:15:10,459 - 00:15:12,740] And if you think about the most successful companies,
+- [00:15:12,740 - 00:15:14,270] and we're going to use a
+- [00:15:14,270 - 00:15:15,800] couple of examples here today, they,
+- [00:15:15,800 - 00:15:17,219] they have somehow figured out how
+- [00:15:17,219 - 00:15:20,300] to take these nine little pieces of the pie
+- [00:15:20,300 - 00:15:23,520] and have them move in a beautiful way together.
+- [00:15:23,520 - 00:15:27,319] And that includes everything from value proposition
+- [00:15:27,319 - 00:15:29,859] to the customer segments and then ultimately the cost
+- [00:15:29,859 - 00:15:30,780] structure.
+- [00:15:30,780 - 00:15:34,099] Because if you haven't modified and designed your cost
+- [00:15:34,099 - 00:15:37,560] structure, ultimately, you're going to start to lose money,
+- [00:15:37,560 - 00:15:38,949] which means you're not going
+- [00:15:38,949 - 00:15:40,339] to be able to properly support
+- [00:15:40,339 - 00:15:43,020] the client, which means you'll have no repeat business.
+- [00:15:43,020 - 00:15:45,359] So each of these things are amazing.
+- [00:15:45,360 - 00:15:47,280] For those in here that play instruments,
+- [00:15:47,280 - 00:15:49,590] it is exactly that concept of
+- [00:15:49,590 - 00:15:51,900] an orchestra or a jazz band.
+- [00:15:51,900 - 00:15:54,220] It needs to flow together.
+- [00:15:54,220 - 00:15:56,520] And if you get everything moving at the same time
+- [00:15:56,520 - 00:15:58,540] and they're all moving with some great flow,
+- [00:15:58,540 - 00:16:00,420] you create beautiful music.
+- [00:16:00,420 - 00:16:03,660] If your oboe is way off
+- [00:16:03,660 - 00:16:06,900] or your violinist is one beat behind,
+- [00:16:06,900 - 00:16:08,360] things are just a little bit off.
+- [00:16:08,360 - 00:16:10,420] And that creates this ripple effect,
+- [00:16:10,420 - 00:16:14,280] these second and third order consequences that ultimately
+- [00:16:14,280 - 00:16:15,340] impact the entire process.
+- [00:16:15,360 - 00:16:17,280] And that's what we're going to talk about today.
+- [00:16:17,280 - 00:16:18,960] So let's talk about the business models.
+- [00:16:18,960 - 00:16:21,120] So the business models are the best companies
+- [00:16:21,120 - 00:16:22,620] that have ever been able
+- [00:16:22,620 - 00:16:24,120] to modify the best companies that
+- [00:16:24,120 - 00:16:25,500] figured this out.
+- [00:16:25,500 - 00:16:26,730] So taking a look a
+- [00:16:26,730 - 00:16:27,960] little bit around how we think
+- [00:16:27,960 - 00:16:32,580] about business models, this is nothing new to anybody here.
+- [00:16:32,580 - 00:16:34,620] We're all consumers.
+- [00:16:34,620 - 00:16:36,390] So all of us have
+- [00:16:36,390 - 00:16:38,160] dealt with a gazillion different business
+- [00:16:38,160 - 00:16:40,320] models, whether we even realize it or not.
+- [00:16:40,320 - 00:16:42,360] Of course, subscription business models
+- [00:16:42,360 - 00:16:44,400] seem to rule the day.
+- [00:16:44,400 - 00:16:44,840] Subscription business models did not exist 15
+- [00:16:44,840 - 00:16:45,280] years ago. There was nothing to subscribe to.
+- [00:16:45,280 - 00:16:45,480] Subscription business models did not exist 15
+- [00:16:45,480 - 00:16:45,680] years ago. There was nothing to subscribe to.
+- [00:16:45,680 - 00:16:45,930] Subscription business models did not exist 15
+- [00:16:45,930 - 00:16:46,180] years ago. There was nothing to subscribe to.
+- [00:16:46,180 - 00:16:48,530] If I wanted to go watch a movie for
+- [00:16:48,530 - 00:16:50,880] the weekend and I wanted to do it at home,
+- [00:16:50,880 - 00:16:52,560] I got in my car and
+- [00:16:52,560 - 00:16:54,240] I drove to this place called Blockbuster.
+- [00:16:54,240 - 00:16:57,380] And I walked up and down the aisles,
+- [00:16:57,380 - 00:17:00,520] it's about the size of a medium-sized CVS.
+- [00:17:00,520 - 00:17:02,650] And I went to the adventure section
+- [00:17:02,650 - 00:17:04,780] or the romance section or the comedy section.
+- [00:17:04,780 - 00:17:08,179] And then I went up to the counter
+- [00:17:08,179 - 00:17:11,579] and I had my three VCR tapes or DVDs
+- [00:17:11,579 - 00:17:12,949] that I wanted to see that
+- [00:17:12,949 - 00:17:14,319] weekend or that period of time.
+- [00:17:14,319 - 00:17:14,609] And I brought that out. And I said,
+- [00:17:14,609 - 00:17:14,899] I want to see this. That's what I'm doing.
+- [00:17:14,899 - 00:17:15,069] Subscription business models didn't exist. Subscription business models didn't
+- [00:17:15,069 - 00:17:15,240] exist 15 years ago. There was nothing to subscribe to.
+- [00:17:15,280 - 00:17:17,920] home there was no subscription i never needed to
+- [00:17:17,920 - 00:17:20,560] come back to that store again all of a sudden
+- [00:17:20,560 - 00:17:23,359] subscription models started to make sense when you have
+- [00:17:23,359 - 00:17:26,160] a new economy you have a new world where
+- [00:17:26,160 - 00:17:30,000] people think less about owning and more
+- [00:17:30,000 - 00:17:33,840] about experience right think about how companies like
+- [00:17:33,840 - 00:17:36,400] zip car and others and there's a
+- [00:17:36,400 - 00:17:38,960] gazillion different models of equivalent zip cars throughout
+- [00:17:38,960 - 00:17:41,560] europe because people say why do i need to have a
+- [00:17:41,560 - 00:17:44,160] car like in the old days you know and i'm talking
+- [00:17:44,160 - 00:17:47,360] old days like 10 years 15 years ago if you
+- [00:17:47,360 - 00:17:50,560] needed to rent a car it was a nightmare right you're
+- [00:17:50,560 - 00:17:53,560] sitting in cambridge the closest car rental place might
+- [00:17:53,560 - 00:17:56,560] be at logan airport you had to get there
+- [00:17:56,560 - 00:17:59,480] then you had to go to the rental center zip car
+- [00:17:59,480 - 00:18:02,400] comes along and boom they had a model where i can
+- [00:18:02,400 - 00:18:05,320] actually find a car with my phone three blocks from
+- [00:18:05,320 - 00:18:08,240] my house and i can return it to a similar
+- [00:18:08,240 - 00:18:10,840] location so subscription really changed the world
+- [00:18:10,840 - 00:18:13,440] but there's obviously other models here we're very
+- [00:18:13,440 - 00:18:14,080] familiar with
+- [00:18:14,160 - 00:18:16,240] uh we'll talk about different ones
+- [00:18:16,240 - 00:18:18,320] at different times obviously the freemium model
+- [00:18:18,320 - 00:18:20,520] all of us are familiar certainly the
+- [00:18:20,520 - 00:18:22,720] app store has completely dominated our lives
+- [00:18:22,720 - 00:18:26,080] uh whether you use an android or you use
+- [00:18:26,080 - 00:18:29,440] an iphone uh everything's free uh for three days
+- [00:18:30,160 - 00:18:32,240] and then we're going to charge you or everything's
+- [00:18:32,240 - 00:18:34,320] free for seven days and then you're going to get
+- [00:18:34,320 - 00:18:36,560] hit with 14.99 a month in perpetuity and we're
+- [00:18:36,560 - 00:18:38,800] going to make it super hard for you to quit
+- [00:18:39,600 - 00:18:41,760] so the freemium model really came into
+- [00:18:41,760 - 00:18:43,920] place and this was mind-boggling in the investment
+- [00:18:44,160 - 00:18:46,440] community not that long ago you're going to
+- [00:18:46,440 - 00:18:48,720] give away your product and somehow you're going to
+- [00:18:48,720 - 00:18:51,560] become a successful company so that's another way to
+- [00:18:51,560 - 00:18:54,400] think about how do i get to the market which
+- [00:18:54,400 - 00:18:56,880] one of these or two of these or three of
+- [00:18:56,880 - 00:18:59,360] these am i gonna choose the marketplace certainly has taken
+- [00:18:59,360 - 00:19:02,920] over think about the marketplace as the etsy's
+- [00:19:02,920 - 00:19:06,480] of the world the ebay's of the world where
+- [00:19:06,480 - 00:19:09,600] i can actually myself create a marketplace i can
+- [00:19:09,600 - 00:19:12,720] sell cool t-shirts or i can wind up cleaning
+- [00:19:12,720 - 00:19:15,280] my garage and selling a whole bunch of neat
+- [00:19:15,280 - 00:19:17,840] things that are in there because I'm part of this
+- [00:19:17,840 - 00:19:20,840] marketplace. The advertising world has completely changed.
+- [00:19:20,840 - 00:19:23,840] It used to be dominated by big, big
+- [00:19:23,840 - 00:19:26,680] advertising companies, quite truthfully. I mean, there
+- [00:19:26,680 - 00:19:29,520] were these massive New York firms that worked
+- [00:19:29,520 - 00:19:32,480] with big companies and those big companies had
+- [00:19:32,480 - 00:19:35,440] huge advertising budgets and it was very, very linear.
+- [00:19:36,160 - 00:19:38,440] You bought TV time, you bought ad time in
+- [00:19:38,440 - 00:19:40,720] a magazine, so you're sitting there at the salon
+- [00:19:40,720 - 00:19:43,720] flipping through People magazine and a commercial, or I
+- [00:19:43,720 - 00:19:46,720] should say a page shows up and it's promoting
+- [00:19:46,720 - 00:19:49,760] some new product. That was advertising. Advertising
+- [00:19:49,760 - 00:19:52,800] now has completely transformed the way we live.
+- [00:19:52,800 - 00:19:55,320] You're completely unaware how often we're impacted
+- [00:19:55,320 - 00:19:57,840] by advertising. And certainly, as I mentioned
+- [00:19:57,840 - 00:20:00,560] earlier, when I gave you the examples of
+- [00:20:00,560 - 00:20:03,280] one of my earliest companies, direct sales, OEM, and
+- [00:20:03,280 - 00:20:06,960] resellers. Truly foundational ways they've existed forever,
+- [00:20:06,960 - 00:20:10,640] but they are still some of the most
+- [00:20:10,720 - 00:20:13,080] important ways to think about getting your product
+- [00:20:13,080 - 00:20:15,440] to the market. If you are building a product,
+- [00:20:15,440 - 00:20:18,240] whether it be a software platform or it
+- [00:20:18,240 - 00:20:21,040] be a technology instrument or it winds up being
+- [00:20:21,040 - 00:20:23,640] a widget that actually helps people that
+- [00:20:23,640 - 00:20:26,240] are photographers work better, you have to think
+- [00:20:26,240 - 00:20:28,760] about how am I going to get this into the
+- [00:20:28,760 - 00:20:31,280] most amount of hands as possible. And the OEM reseller
+- [00:20:31,280 - 00:20:34,040] and essentially the direct sales market is still the
+- [00:20:34,040 - 00:20:36,800] way to do it. Think about in the area of
+- [00:20:36,800 - 00:20:40,000] pharmaceutical biotech. They still have direct sales forces.
+- [00:20:40,800 - 00:20:43,000] Because doctors are busy, they don't have
+- [00:20:43,000 - 00:20:45,200] time to watch advertising. They're certainly not signing
+- [00:20:45,200 - 00:20:47,720] up to any freemium, they can only attend so
+- [00:20:47,720 - 00:20:50,240] many conferences. So you need to physically be there
+- [00:20:50,800 - 00:20:53,960] to actually educate them. So think about each of
+- [00:20:53,960 - 00:20:57,120] these. In fact, everybody here using a laptop is
+- [00:20:57,120 - 00:21:00,440] probably most familiar with the OEM model. Every one
+- [00:21:00,440 - 00:21:03,760] of our laptops, you open it up and if you're
+- [00:21:03,760 - 00:21:06,920] using a PC, it has a little sticker on
+- [00:21:06,920 - 00:21:10,080] it, usually says Intel inside. That's ingenious. I've never
+- [00:21:10,080 - 00:21:10,400] seen an Intel driven ahead. But I don't care,
+- [00:21:10,400 - 00:21:10,720] gosh, I'm using them, but I don't care, right?
+- [00:21:10,720 - 00:21:14,030] store in my entire life. They could care less
+- [00:21:14,030 - 00:21:17,340] about who I am. They're not selling direct to
+- [00:21:17,340 - 00:21:20,390] consumer, right? They don't care about B to C. They
+- [00:21:20,390 - 00:21:23,440] don't even care about B to B. They care about
+- [00:21:23,440 - 00:21:27,810] B to M, business to manufacturer. So they say,
+- [00:21:27,810 - 00:21:32,180] I'm not going to sell to Johnson and Johnson,
+- [00:21:32,360 - 00:21:34,830] or I'm not going to sell to Gillette or Fidelity and
+- [00:21:34,830 - 00:21:37,300] try to get them to buy a bunch of Intel stuff
+- [00:21:37,300 - 00:21:39,839] for their computers. I'm going to sell to Dell.
+- [00:21:39,839 - 00:21:42,379] I'm going to sell to ThinkPad. I'm going to sell
+- [00:21:42,379 - 00:21:45,489] to the manufacturer. They're going to do all the
+- [00:21:45,489 - 00:21:48,600] work for me. So the magic that we actually have
+- [00:21:48,600 - 00:21:51,119] in the world of technology is that we have
+- [00:21:51,119 - 00:21:53,639] so many options, which is fantastic. So think about
+- [00:21:53,639 - 00:21:56,579] different business model examples that just touch you
+- [00:21:56,579 - 00:21:59,520] every day, whether it be new clothing you buy,
+- [00:21:59,800 - 00:22:03,000] your Apple Watch or your iPhone, a laptop that
+- [00:22:03,000 - 00:22:06,200] you purchased, or some sort of a service that
+- [00:22:06,200 - 00:22:07,120] you recently picked up.
+- [00:22:07,300 - 00:22:09,599] Because you read something great about it on
+- [00:22:09,599 - 00:22:11,899] your phone. So let's talk about different industries
+- [00:22:11,899 - 00:22:14,459] and sub-industries, because there's lots of ways to
+- [00:22:14,459 - 00:22:17,020] think about business models. So the first two
+- [00:22:17,020 - 00:22:19,459] examples I'm going to give you are really known
+- [00:22:19,459 - 00:22:21,899] to you, of course. And then we're going to talk
+- [00:22:21,899 - 00:22:24,379] about industry specifics. So the number one example
+- [00:22:24,379 - 00:22:26,860] I think all of us know is Netflix.
+- [00:22:28,180 - 00:22:29,600] So for those of you
+- [00:22:29,600 - 00:22:31,020] that remember, anybody here remember Blockbuster?
+- [00:22:32,139 - 00:22:33,509] I find every year, Joe,
+- [00:22:33,509 - 00:22:34,879] the number of hands goes down.
+- [00:22:37,300 - 00:22:39,719] I'm getting really old, but this class stays about
+- [00:22:39,719 - 00:22:42,139] the same age. So the number of hands keeps going
+- [00:22:42,139 - 00:22:44,219] down. But Blockbuster was absolutely amazing. They
+- [00:22:44,219 - 00:22:46,300] owned the world when it came to video.
+- [00:22:47,220 - 00:22:49,319] And even when things went to DVD, they
+- [00:22:49,319 - 00:22:51,419] still had all of that physical real estate.
+- [00:22:52,000 - 00:22:53,819] And then the guys at Netflix came along. In fact,
+- [00:22:53,819 - 00:22:55,639] there was a slide I used to use in this
+- [00:22:55,639 - 00:22:58,149] presentation. And it was actually a billboard that
+- [00:22:58,149 - 00:23:00,659] was on Route 101 outside of San Francisco.
+- [00:23:01,040 - 00:23:03,310] And it said, follow your
+- [00:23:03,310 - 00:23:05,580] dreams. We used to mail DVDs.
+- [00:23:07,300 - 00:23:10,740] Netflix. And that's what they did. The guys
+- [00:23:10,740 - 00:23:14,180] at Netflix figured out, geez, the idea of owning
+- [00:23:14,180 - 00:23:18,940] 500 or 1,000 shops in strip malls around
+- [00:23:18,940 - 00:23:23,700] the United States, manning them with human beings,
+- [00:23:24,200 - 00:23:27,460] worrying about security, inventory, shipping, receiving
+- [00:23:27,460 - 00:23:30,720] returns. Oh my god, that's exhausting.
+- [00:23:31,220 - 00:23:33,030] Why don't we just put a bunch of
+- [00:23:33,030 - 00:23:34,840] warehouses around the United States loaded up with DVDs?
+- [00:23:34,840 - 00:23:36,960] And when people want a movie,
+- [00:23:37,300 - 00:23:39,330] we just mail it to them. And if they keep it
+- [00:23:39,330 - 00:23:41,360] for a day, so what? If they keep it for 10 days,
+- [00:23:41,379 - 00:23:44,799] we don't really care. We'll just literally print
+- [00:23:44,799 - 00:23:48,220] another movie. So that transformed the entire way
+- [00:23:48,220 - 00:23:50,530] that all of us thought about movie rental back then.
+- [00:23:50,530 - 00:23:52,840] Now keep in mind, it was a sign of the times.
+- [00:23:52,899 - 00:23:56,239] There was no bandwidth. If you wanted to download
+- [00:23:56,239 - 00:23:59,580] a movie when Netflix first came out and started
+- [00:23:59,580 - 00:24:02,660] shipping DVDs in an envelope, if you
+- [00:24:02,660 - 00:24:05,740] wanted to download a normal feature-length film,
+- [00:24:05,740 - 00:24:07,280] it could take six, seven,
+- [00:24:07,300 - 00:24:10,380] hours to download. It would take two to three
+- [00:24:10,380 - 00:24:13,460] times the length of the movie to download it
+- [00:24:13,460 - 00:24:15,689] to your computer. It would eat up all
+- [00:24:15,689 - 00:24:17,919] of your memory, and then you would watch it,
+- [00:24:18,040 - 00:24:19,950] and then you would delete it, and then you
+- [00:24:19,950 - 00:24:21,860] would do it again. So they realized this download stuff
+- [00:24:21,860 - 00:24:24,780] is just not for us. We're going to send
+- [00:24:24,780 - 00:24:27,700] people DVDs on demand. Everybody in the world ran out
+- [00:24:27,700 - 00:24:30,720] and bought a DVD player. So for
+- [00:24:30,720 - 00:24:33,740] companies building DVD players, it was awesome.
+- [00:24:34,180 - 00:24:35,680] They were like, oh my
+- [00:24:35,680 - 00:24:37,180] god, this is heaven. Netflix literally,
+- [00:24:37,300 - 00:24:42,160] they built the DVD industry. So that
+- [00:24:42,160 - 00:24:47,020] was their business model. Convenience, no late fees,
+- [00:24:47,800 - 00:24:50,500] two days after you order it on a Tuesday,
+- [00:24:50,500 - 00:24:53,200] bang, it's at your house on Wednesday or Thursday. You
+- [00:24:53,200 - 00:24:54,940] watched it over the weekend. Maybe you shared it
+- [00:24:54,940 - 00:24:56,680] with some friends, and then you sent it back
+- [00:24:56,680 - 00:24:59,140] in an envelope. It was amazing. And they
+- [00:24:59,140 - 00:25:01,600] then created a little bit of a subscription service,
+- [00:25:01,600 - 00:25:04,180] where if you paid a certain amount per
+- [00:25:04,180 - 00:25:06,760] month, you were able to, at any one time,
+- [00:25:06,760 - 00:25:07,020] have three or four DVDs. And that's what they did. And
+- [00:25:07,020 - 00:25:07,280] they built the DVD industry. And they built the DVD industry.
+- [00:25:07,300 - 00:25:09,460] So they were able to have three DVDs. Or if you
+- [00:25:09,460 - 00:25:11,620] paid a tiny bit more per month, you were able to have
+- [00:25:11,620 - 00:25:14,019] five or six or seven DVDs, which is great, if you
+- [00:25:14,019 - 00:25:16,419] have a family that's got a bunch of kids who are
+- [00:25:16,419 - 00:25:18,849] watching one thing, or you have parents that
+- [00:25:18,849 - 00:25:21,280] might be watching something else. So they were essentially
+- [00:25:21,280 - 00:25:24,190] doing direct-to-consumer mailing, and they created
+- [00:25:24,190 - 00:25:27,100] subscriptions. And then the world changed.
+- [00:25:28,300 - 00:25:31,210] Netflix, like Blockbuster, could have easily
+- [00:25:31,210 - 00:25:34,120] gone bust. There's no more Blockbusters.
+- [00:25:35,379 - 00:25:36,280] But Netflix
+- [00:25:37,300 - 00:25:39,790] could have easily gone bust. But they figured
+- [00:25:39,790 - 00:25:42,280] out that if we incorporate technology, we can
+- [00:25:42,280 - 00:25:45,849] begin to stream movies. They didn't abandon their
+- [00:25:45,849 - 00:25:49,419] old business model. They slowly moved into the
+- [00:25:49,419 - 00:25:52,209] streaming service. And people were like, this is
+- [00:25:52,209 - 00:25:55,000] fantastic. But it's the same company, right? Before
+- [00:25:55,000 - 00:25:57,430] they used to send me a DVD. Now I hit a
+- [00:25:57,430 - 00:25:59,860] button, and now it streams to me. Sometimes you have a
+- [00:25:59,860 - 00:26:03,190] little buffering issue, but it's okay, right? And this
+- [00:26:03,190 - 00:26:06,520] is quite a few years ago. Who would have
+- [00:26:06,520 - 00:26:07,240] thought Netflix,
+- [00:26:07,300 - 00:26:10,780] which was a company that shipped DVDs and
+- [00:26:10,780 - 00:26:14,260] offered streaming with lots of buffering and slow points,
+- [00:26:15,220 - 00:26:17,980] would become what it is today? Think
+- [00:26:17,980 - 00:26:20,740] about the business model that Netflix has today.
+- [00:26:21,940 - 00:26:24,580] What does Netflix do when you think about
+- [00:26:24,580 - 00:26:27,220] them as a company, forgetting about their original
+- [00:26:27,220 - 00:26:29,920] business for a minute? How do they make money?
+- [00:26:29,920 - 00:26:32,620] Who are they competing with now? They were competing
+- [00:26:32,620 - 00:26:34,540] with just Blockbuster. That was it.
+- [00:26:34,600 - 00:26:35,300] Tell me what you know about Netflix.
+- [00:26:35,300 - 00:26:35,359] I hope you enjoyed the podcast. If you did, please share me
+- [00:26:35,359 - 00:26:35,419] a like, and I'll see you in the next episode of My Business.
+- [00:26:35,419 - 00:26:35,859] I'm going to be back next week with
+- [00:26:35,859 - 00:26:36,300] another issue. I'll see you then. Take care, everybody.
+- [00:26:36,300 - 00:26:36,419] Bye-bye.
+- [00:26:36,419 - 00:26:36,460] Bye-bye.
+- [00:26:36,460 - 00:26:36,500] Bye-bye.
+- [00:26:36,500 - 00:26:36,560] Bye-bye.
+- [00:26:36,560 - 00:26:36,600] Bye-bye.
+- [00:26:36,600 - 00:26:36,639] Bye-bye.
+- [00:26:36,639 - 00:26:36,700] Bye-bye.
+- [00:26:36,700 - 00:26:36,760] Bye-bye.
+- [00:26:36,760 - 00:26:37,060] Bye-bye.
+- [00:26:37,060 - 00:26:37,100] Bye-bye.
+- [00:26:37,100 - 00:26:39,820] know about Netflix besides the fact that you
+- [00:26:39,820 - 00:26:42,540] can go onto your Netflix app on your smart
+- [00:26:42,540 - 00:26:45,369] TV or on your iPhone or iPad and watch
+- [00:26:45,369 - 00:26:48,199] a movie or download it for your plane ride? Besides
+- [00:26:48,199 - 00:26:52,269] that, what do they do? They produce movies.
+- [00:26:52,269 - 00:26:56,340] Can you imagine the CEO of Netflix back in
+- [00:26:56,340 - 00:26:59,359] the days when he was shipping DVDs to
+- [00:26:59,359 - 00:27:02,379] people's homes telling his investors, you know, someday
+- [00:27:02,380 - 00:27:06,030] I really want to compete against Hollywood. You
+- [00:27:06,030 - 00:27:09,680] know, Paramount, MGM, I think I want to
+- [00:27:09,680 - 00:27:12,370] compete against them. They would have thought,
+- [00:27:12,370 - 00:27:15,060] dude, you're completely out of your mind.
+- [00:27:15,740 - 00:27:18,610] You ship DVDs. This is basically a mail order
+- [00:27:18,610 - 00:27:21,480] company. They have now become one of the most
+- [00:27:21,480 - 00:27:25,010] powerful producers of content in the world.
+- [00:27:25,010 - 00:27:28,540] They're winning awards left and right and
+- [00:27:28,540 - 00:27:32,360] crushing all of the old-fashioned movie production.
+- [00:27:32,380 - 00:27:32,410] They're winning awards left and right and
+- [00:27:32,410 - 00:27:32,440] crushing all of the old-fashioned movie production
+- [00:27:32,440 - 00:27:36,460] companies and TV production companies. What else do
+- [00:27:36,460 - 00:27:40,480] they do? What is something new? Go ahead.
+- [00:27:41,240 - 00:27:44,300] As of February 1st, we raised
+- [00:27:44,300 - 00:27:47,360] every subscription price by $1 or $2.
+- [00:27:48,520 - 00:27:50,300] All $300 million.
+- [00:27:51,320 - 00:27:54,930] And even beyond that, they then
+- [00:27:54,930 - 00:27:58,540] introduced the password protection non-sharing policy.
+- [00:28:00,980 - 00:28:02,360] All of the investment community.
+- [00:28:02,380 - 00:28:04,490] And it was like, oh my god, they're
+- [00:28:04,490 - 00:28:06,600] going to get crushed. People are going to run.
+- [00:28:07,940 - 00:28:10,900] They increased the number of subscriptions. The
+- [00:28:10,900 - 00:28:13,860] day they announced no more password sharing,
+- [00:28:14,480 - 00:28:16,880] they're increasing subscriptions over the following
+- [00:28:16,880 - 00:28:19,280] week with something like 18 million
+- [00:28:19,280 - 00:28:22,850] new subscribers. Because now I can't give my password
+- [00:28:22,850 - 00:28:26,420] out to my friend and my kid and my
+- [00:28:26,420 - 00:28:28,580] kid who gives it to his girlfriend. Now all of
+- [00:28:28,580 - 00:28:30,740] a sudden they're all like, oh shit, I'll just open
+- [00:28:30,740 - 00:28:31,320] my own account.
+- [00:28:32,380 - 00:28:35,710] So these incremental increases in subscription, right, which
+- [00:28:35,710 - 00:28:39,040] is really hard to do. But once it is
+- [00:28:39,040 - 00:28:42,740] literally part of your life, you're not going to
+- [00:28:42,740 - 00:28:46,440] give that up. And then on top of that, without
+- [00:28:46,440 - 00:28:49,500] even increasing prices, they increase revenue and
+- [00:28:49,500 - 00:28:52,560] number of subscribers exponentially just by saying,
+- [00:28:52,720 - 00:28:55,510] this password sharing thing has to be very
+- [00:28:55,510 - 00:28:58,300] limited. So that is something else that they
+- [00:28:58,300 - 00:29:00,330] have done, right? Which I guess you could
+- [00:29:00,330 - 00:29:02,360] say it's not necessarily a new business model,
+- [00:29:02,380 - 00:29:05,280] as much as it is tweaking and fine-tuning
+- [00:29:05,280 - 00:29:08,180] an existing business model to become more profitable
+- [00:29:08,180 - 00:29:10,330] without punishing the customer very much,
+- [00:29:10,330 - 00:29:12,480] right? They didn't double their prices.
+- [00:29:13,280 - 00:29:16,030] They essentially said, ah, you know, normal cost
+- [00:29:16,030 - 00:29:18,780] of business increase, but you can't share your
+- [00:29:18,780 - 00:29:21,280] password. And most people knew I shouldn't be
+- [00:29:21,280 - 00:29:23,780] sharing my password anyways, right? So they didn't
+- [00:29:23,780 - 00:29:26,810] lose anybody. They gained something like 18 million.
+- [00:29:26,810 - 00:29:29,840] Think about this. They have just hit 300
+- [00:29:29,840 - 00:29:31,340] million subscribers.
+- [00:29:32,380 - 00:29:35,060] This week, it was just announced.
+- [00:29:38,000 - 00:29:42,260] Yeah. So you've got a company that now has,
+- [00:29:42,260 - 00:29:46,520] we're talking about the population of the United States.
+- [00:29:46,600 - 00:29:49,120] I don't know, what are we at as
+- [00:29:49,120 - 00:29:51,640] a country? 400, something like that? 300 million people
+- [00:29:51,640 - 00:29:53,980] are subscribers and pay every single month,
+- [00:29:53,980 - 00:29:56,320] whether they watch a movie or not.
+- [00:29:56,700 - 00:29:59,280] I mean, how awesome is that? And on top
+- [00:29:59,280 - 00:30:01,860] of that, they now have a market capitalization of
+- [00:30:01,860 - 00:30:02,110] 400 million subscribers. So that's a lot of money.
+- [00:30:02,110 - 00:30:02,360] And they're not going to be able to do that.
+- [00:30:03,040 - 00:30:04,379] 180 billion people say, good. By
+- [00:30:04,379 - 00:30:05,719] ese, roughly this, that's, that's amazing.
+- [00:30:05,719 - 00:30:06,589] But I think it's incredible that
+- [00:30:06,589 - 00:30:07,459] we that these companies at companiesfigure that,
+- [00:30:08,240 - 00:30:09,360] you know, 50 and 60 million get from the company.
+- [00:30:09,379 - 00:30:11,289] It's unbelievable that the coming years when
+- [00:30:11,289 - 00:30:13,199] concrete blast alerts are Sue US should take
+- [00:30:13,199 - 00:30:25,540] nightgown to suntan and the
+- [00:30:25,540 - 00:30:26,300] Come on over here.
+- [00:30:26,300 - 00:30:26,959] we shaping marry las Vegas.
+- [00:30:27,340 - 00:30:30,000] I'd live 700,000 people that'd been stricken.
+- [00:30:30,080 - 00:30:30,679] It's ridiculous.
+- [00:30:30,679 - 00:30:31,580] I want to memories.
+- [00:30:31,580 - 00:30:32,040] The evidence makes.
+- [00:30:32,040 - 00:30:32,300] It'sLord before is.
+- [00:30:32,300 - 00:30:32,360] 100 billion did this really?
+- [00:30:32,360 - 00:30:34,749] market cap. It's mind-boggling when you think
+- [00:30:34,749 - 00:30:37,139] about it. But something else that they've done,
+- [00:30:37,300 - 00:30:39,979] because they keep changing their model, right? They
+- [00:30:39,979 - 00:30:42,659] got into producing TV shows. They then got
+- [00:30:42,659 - 00:30:45,359] into producing movies, then TV shows. They now
+- [00:30:45,359 - 00:30:48,060] have some of the world's best actors, actresses
+- [00:30:48,060 - 00:30:51,580] chasing them. Can I get in your next show? Years ago,
+- [00:30:51,580 - 00:30:55,100] no actor wanted to be in a TV show. If you
+- [00:30:55,100 - 00:30:57,619] went from commercials to TV to movies, you
+- [00:30:57,619 - 00:31:00,139] never went back. I'm not doing a series.
+- [00:31:00,140 - 00:31:03,780] It has to a point now where you've got
+- [00:31:03,780 - 00:31:07,420] people like Nicole Kidman, top actors and actresses saying,
+- [00:31:07,540 - 00:31:10,430] are you guys doing a series? I would love to do
+- [00:31:10,430 - 00:31:13,320] a series. How cool is that? I get to do 20 seasons,
+- [00:31:13,460 - 00:31:15,990] five seasons, 50 episodes, whatever the number
+- [00:31:15,990 - 00:31:18,520] is. It's absolutely incredible the impact that
+- [00:31:18,520 - 00:31:21,000] they've had on the industry and on Hollywood.
+- [00:31:21,000 - 00:31:23,480] And they started off mailing DVDs. That was
+- [00:31:23,480 - 00:31:26,630] their business model. Something new that
+- [00:31:26,630 - 00:31:29,780] they've done, live events, never before.
+- [00:31:30,140 - 00:31:32,280] Something else?
+- [00:31:38,440 - 00:31:40,010] That's a really excellent point. It goes
+- [00:31:40,010 - 00:31:41,580] back to what we talked about earlier, right?
+- [00:31:41,940 - 00:31:44,220] It's great that you have software that does A, B,
+- [00:31:44,220 - 00:31:46,500] and C, makes life easier. It's cool that I can
+- [00:31:46,500 - 00:31:50,090] actually search the hell out of this massive
+- [00:31:50,090 - 00:31:53,680] library of movie options. But it's actually using
+- [00:31:53,680 - 00:31:56,900] technology, deep learning, data mining, AI now,
+- [00:31:56,900 - 00:32:00,120] to help me find things that are
+- [00:32:00,120 - 00:32:02,480] more relevant based on my own feedback, whether I gave
+- [00:32:02,480 - 00:32:04,840] it a thumbs up or a thumbs down after I
+- [00:32:04,840 - 00:32:07,129] watched a movie. They know if you started watching a
+- [00:32:07,129 - 00:32:09,419] movie and then you killed it and you never went
+- [00:32:09,419 - 00:32:12,089] back to it. I mean, there's so much
+- [00:32:12,089 - 00:32:14,760] data. So what you have there is more personalization,
+- [00:32:15,260 - 00:32:17,770] which to use an old term is stickiness, right?
+- [00:32:17,770 - 00:32:20,280] It's like, of course I'm going to keep using this
+- [00:32:20,280 - 00:32:22,430] because they've made my life easier.
+- [00:32:22,430 - 00:32:24,580] And now they're doing the live events.
+- [00:32:25,500 - 00:32:27,800] Think about what you're seeing now. They have
+- [00:32:27,800 - 00:32:30,100] done fights. They have done a number of
+- [00:32:30,120 - 00:32:33,980] other type of live events. That starts to
+- [00:32:33,980 - 00:32:37,840] really be interesting. I mean, could we be watching
+- [00:32:37,840 - 00:32:39,939] the Super Bowl on Netflix in five years?
+- [00:32:40,060 - 00:32:43,600] You just watched the NFL Christmas game.
+- [00:32:44,040 - 00:32:49,800] Yep. Absolutely. The Tyson fight. Think about
+- [00:32:49,800 - 00:32:55,560] that. So they are essentially modifying change
+- [00:32:55,560 - 00:32:58,719] in their business model. They're a great example.
+- [00:32:59,360 - 00:32:59,730] Next one, of course, is the business model.
+- [00:32:59,730 - 00:33:00,100] And I'm going to talk about the business model.
+- [00:33:00,100 - 00:33:01,920] Of course, it's Google. This is easy. I mean,
+- [00:33:01,920 - 00:33:03,740] you've got a company here. And I think this is
+- [00:33:03,740 - 00:33:05,490] really the one that I should refer to
+- [00:33:05,490 - 00:33:07,240] when I talk about market cap versus GDP.
+- [00:33:08,919 - 00:33:12,569] Not so much Netflix, but 2.4
+- [00:33:12,569 - 00:33:16,219] trillion market cap. That's a whack-a-doodle.
+- [00:33:17,240 - 00:33:18,969] It doesn't even make sense. And
+- [00:33:18,969 - 00:33:20,699] what did they start off doing? Search.
+- [00:33:22,439 - 00:33:24,029] That was it. They were going to build
+- [00:33:24,029 - 00:33:25,620] a better search algorithm because there were a whole
+- [00:33:25,620 - 00:33:27,289] bunch of really smart people out
+- [00:33:27,289 - 00:33:28,959] of Stanford and elsewhere that said,
+- [00:33:28,960 - 00:33:32,640] search sucks. This just doesn't make sense. And
+- [00:33:32,640 - 00:33:36,320] humans aren't going to learn Boolean logic and
+- [00:33:36,320 - 00:33:39,320] put quotes here, a plus sign, plus this asterisk.
+- [00:33:39,320 - 00:33:42,320] We need to come up with better ways of searching.
+- [00:33:42,800 - 00:33:44,720] So they brought technology in
+- [00:33:44,720 - 00:33:46,640] and increased the value of search.
+- [00:33:47,780 - 00:33:50,050] And that's all they were. It was another search
+- [00:33:50,050 - 00:33:52,320] company. And for those of us that remember those
+- [00:33:52,320 - 00:33:54,840] days, there was Lycos, Yahoo. Gosh,
+- [00:33:54,840 - 00:33:57,360] I can't remember all the names.
+- [00:33:57,360 - 00:33:58,080] Amazing.
+- [00:33:58,080 - 00:33:58,320] Amazing.
+- [00:33:58,320 - 00:33:58,940] Amazing.
+- [00:33:58,960 - 00:34:01,360] I mean, I think Lycos was a Boston company, right?
+- [00:34:04,240 - 00:34:06,600] Unbelievable. And I remember at the time
+- [00:34:06,600 - 00:34:08,960] thinking, do we need another search engine?
+- [00:34:09,360 - 00:34:11,889] I mean, this doesn't even make sense. They
+- [00:34:11,889 - 00:34:14,420] crushed the search space and they could have
+- [00:34:14,420 - 00:34:16,610] stopped there and still been relevant. But then
+- [00:34:16,610 - 00:34:18,800] they moved into other parts of the world. What
+- [00:34:18,800 - 00:34:21,080] are some of the other things that they
+- [00:34:21,080 - 00:34:23,360] have done from a standpoint of transformative business model
+- [00:34:23,360 - 00:34:25,920] changes that makes Google relevant? How
+- [00:34:25,920 - 00:34:28,480] else do all of us use Google?
+- [00:34:28,480 - 00:34:28,940] Or most of us?
+- [00:34:28,960 - 00:34:30,960] Google Drive.
+- [00:34:30,960 - 00:34:34,079] Google Docs, Google Drive. I don't
+- [00:34:34,079 - 00:34:37,199] have to think about documents. Basically,
+- [00:34:37,199 - 00:34:40,159] I can go on a Google Drive, boom, use
+- [00:34:40,159 - 00:34:43,120] their Excel spreadsheet, save it, live action. My team,
+- [00:34:43,120 - 00:34:45,520] most of which is based in Europe, can all
+- [00:34:45,520 - 00:34:47,920] work on the same Excel spreadsheet at the same time,
+- [00:34:47,920 - 00:34:50,760] and it's instantly changing. We don't
+- [00:34:50,760 - 00:34:53,600] have to keep version 1.1, version 2.25,
+- [00:34:53,600 - 00:34:55,840] then I send it off to this person who
+- [00:34:55,840 - 00:34:58,080] makes some other version, and then we're missing the changes
+- [00:34:58,080 - 00:34:58,440] done by somebody over the next 10 years. So, yeah,
+- [00:34:58,440 - 00:34:58,800] that's a big change. And then, you know, we're not
+- [00:34:58,800 - 00:34:59,000] going to be able to do it again. We're going to have
+- [00:34:59,000 - 00:34:59,200] to keep it up. We're going to have to keep it up.
+- [00:34:59,200 - 00:34:59,800] But I think that's the key. I think that's the
+- [00:34:59,800 - 00:35:00,400] key. I think that's the key. I think that's the key.
+- [00:35:00,400 - 00:35:02,680] Absolutely incredible, right? So
+- [00:35:02,680 - 00:35:04,960] that became another subscription model,
+- [00:35:04,960 - 00:35:07,320] another way they demonstrated their prowess
+- [00:35:07,320 - 00:35:09,680] in technology. What else does Google do?
+- [00:35:09,680 - 00:35:11,960] Google Voice or Google Maps, both of
+- [00:35:11,960 - 00:35:14,240] which I use 12,000 times a day.
+- [00:35:14,240 - 00:35:18,080] Exactly. So think about Google Maps, right?
+- [00:35:18,080 - 00:35:21,920] Cool, free, right? The data analytics behind
+- [00:35:21,920 - 00:35:25,160] Google Maps is where all the value is. They
+- [00:35:25,160 - 00:35:28,400] know more about the Earth than most anyone. They know
+- [00:35:28,800 - 00:35:34,520] geography. They know which ships are moving in the
+- [00:35:34,520 - 00:35:40,240] ocean. They know more about us than anyone in
+- [00:35:40,240 - 00:35:42,640] the world, whether it be the fact that we
+- [00:35:42,640 - 00:35:45,040] searched something, and they now know that about us.
+- [00:35:45,920 - 00:35:48,640] Google has an entire group devoted
+- [00:35:48,640 - 00:35:51,360] to health, global health, that integrates
+- [00:35:51,360 - 00:35:54,520] with global health organizations like the NIH. If
+- [00:35:54,520 - 00:35:57,680] there is an increase in the number of searches,
+- [00:35:57,680 - 00:35:58,560] let's say, in the big world,
+- [00:35:58,560 - 00:35:58,800] Google pronunciation,
+- [00:35:58,800 - 00:36:03,800] Pacific Northwest around particular symptoms,
+- [00:36:04,460 - 00:36:08,280] runny nose, head, fever, puking, you name it.
+- [00:36:08,280 - 00:36:09,780] Let's say little kid symptoms.
+- [00:36:11,520 - 00:36:14,000] Once Google starts to see that trend,
+- [00:36:14,000 - 00:36:16,940] then in the Pacific Northwest, let's say Seattle,
+- [00:36:16,940 - 00:36:18,420] blah, blah, blah, blah, blah,
+- [00:36:18,420 - 00:36:20,340] they're starting to see this.
+- [00:36:20,340 - 00:36:23,000] That becomes a biomarker.
+- [00:36:23,000 - 00:36:24,620] That becomes a data point.
+- [00:36:25,880 - 00:36:28,240] And they track that.
+- [00:36:28,240 - 00:36:31,299] And then they can share it with health organizations
+- [00:36:31,299 - 00:36:33,240] because they know that the flu this year
+- [00:36:33,240 - 00:36:36,200] hit that part of the region really hard.
+- [00:36:37,620 - 00:36:39,220] And what does that mean?
+- [00:36:39,220 - 00:36:42,319] Well, it has this ripple effect of power
+- [00:36:42,319 - 00:36:43,839] where it's like, that's cool to know,
+- [00:36:43,839 - 00:36:45,979] but what if we also let clinicians know,
+- [00:36:45,979 - 00:36:48,000] especially pediatricians?
+- [00:36:48,000 - 00:36:52,180] What if we're able to then communicate,
+- [00:36:52,180 - 00:36:56,040] sell our data to groups like PPD
+- [00:36:56,040 - 00:36:58,220] or some of the big pharmaceutical biotech
+- [00:36:58,220 - 00:36:59,980] companies like Johnson & Johnson
+- [00:36:59,980 - 00:37:01,459] that make over-the-counter medicine
+- [00:37:01,459 - 00:37:05,100] for kids suffering from the flu or vomiting
+- [00:37:05,100 - 00:37:07,279] or whatever it is, right?
+- [00:37:07,279 - 00:37:08,120] Think about that.
+- [00:37:08,120 - 00:37:11,240] It is an entire shift in how data collected
+- [00:37:11,240 - 00:37:13,480] from a company that did nothing but search
+- [00:37:13,480 - 00:37:17,859] now actually transforms the way health is actually treated.
+- [00:37:17,859 - 00:37:21,000] And when you start to see severe illnesses,
+- [00:37:21,000 - 00:37:23,500] you start to see things that are scary,
+- [00:37:24,879 - 00:37:27,279] that information is then communicated to the NIH.
+- [00:37:28,220 - 00:37:32,220] So every year we make new flu vaccines.
+- [00:37:32,220 - 00:37:34,140] They've got a pretty good high probability of working
+- [00:37:34,140 - 00:37:35,560] because many of them, you know,
+- [00:37:35,560 - 00:37:38,660] they're designed for multiple strains,
+- [00:37:38,660 - 00:37:41,060] but sometimes it just doesn't work so well.
+- [00:37:41,060 - 00:37:43,540] Once they're able to identify there's a new strain
+- [00:37:43,540 - 00:37:45,980] or a strain that is resistant to a vaccine
+- [00:37:45,980 - 00:37:49,259] given in that particular region, action can be taken.
+- [00:37:49,259 - 00:37:50,100] Think about that.
+- [00:37:50,100 - 00:37:51,459] It's absolutely mind boggling.
+- [00:37:52,759 - 00:37:54,019] Think about the fact that
+- [00:37:54,019 - 00:37:55,279] they're able to use their satellites
+- [00:37:55,279 - 00:37:58,220] and Google Earth and other things to actually help people,
+- [00:37:58,220 - 00:38:00,180] predict whether.
+- [00:38:01,839 - 00:38:04,480] There are companies in the financial service sector,
+- [00:38:04,480 - 00:38:06,310] I spent two years myself at
+- [00:38:06,310 - 00:38:08,140] a big hedge fund in Connecticut.
+- [00:38:08,140 - 00:38:09,959] We looked at data from everywhere.
+- [00:38:09,959 - 00:38:11,459] I mean, I'm talking Google data.
+- [00:38:11,459 - 00:38:15,240] We looked at Palantir data and we made bets,
+- [00:38:15,240 - 00:38:18,180] currency bets and other things based on the fact
+- [00:38:18,180 - 00:38:21,279] that we were able to collect data from,
+- [00:38:21,279 - 00:38:25,120] let's say public and non-public sources around the world.
+- [00:38:25,120 - 00:38:27,680] If I'm able to see trends in a particular area,
+- [00:38:27,680 - 00:38:29,480] I'm able to actually make decisions.
+- [00:38:31,339 - 00:38:33,699] How do we predict or how
+- [00:38:33,699 - 00:38:36,060] do we know how many cars
+- [00:38:36,060 - 00:38:38,540] are gonna be sold in Q2 of this year?
+- [00:38:42,100 - 00:38:42,940] Registrations.
+- [00:38:44,600 - 00:38:46,299] Perhaps registrations, yeah.
+- [00:38:47,960 - 00:38:48,950] If I ask you how
+- [00:38:48,950 - 00:38:49,940] do we know how many cars
+- [00:38:49,940 - 00:38:51,540] were sold in Q4 of
+- [00:38:51,540 - 00:38:53,140] last year, how do we know?
+- [00:38:55,359 - 00:38:56,740] Registrations.
+- [00:38:56,740 - 00:38:57,620] Because what?
+- [00:38:57,680 - 00:38:58,520] What do we know?
+- [00:38:58,520 - 00:38:59,339] What do we know?
+- [00:38:59,339 - 00:39:00,180] What do we know?
+- [00:39:00,180 - 00:39:01,020] What do we know?
+- [00:39:01,020 - 00:39:02,980] Yeah, but also financial reports, right?
+- [00:39:02,980 - 00:39:04,629] The CEO stood up at his
+- [00:39:04,629 - 00:39:06,279] annual meeting at the end of Q4
+- [00:39:06,279 - 00:39:08,980] and said, we're very proud to announce that blah, blah,
+- [00:39:08,980 - 00:39:11,480] blah, blah, blah, blah, and this number of SUVs
+- [00:39:11,480 - 00:39:13,580] versus this and profitability.
+- [00:39:13,580 - 00:39:15,740] It's almost ancient data at that point.
+- [00:39:15,740 - 00:39:16,759] It's completely useless.
+- [00:39:16,759 - 00:39:18,389] You cannot buy a stock
+- [00:39:18,389 - 00:39:20,020] based on how many cars GM,
+- [00:39:20,020 - 00:39:22,879] Ford, Tesla sold last quarter.
+- [00:39:24,620 - 00:39:26,120] Trailing data is useless.
+- [00:39:26,120 - 00:39:28,880] What if I could use satellite information
+- [00:39:28,880 - 00:39:31,040] to actually see how many cars
+- [00:39:31,040 - 00:39:33,200] are being shipped out of Japan
+- [00:39:33,200 - 00:39:35,980] every single day of the year?
+- [00:39:37,420 - 00:39:38,339] Because I could tell you this,
+- [00:39:38,339 - 00:39:41,819] that if there's less ships leaving the port in Japan
+- [00:39:43,440 - 00:39:46,279] that happens to be producing all of these Japanese cars
+- [00:39:46,279 - 00:39:50,740] as one example, or German cars, you name it,
+- [00:39:50,740 - 00:39:52,390] I can guarantee you that
+- [00:39:52,390 - 00:39:54,040] sales will be down next quarter.
+- [00:39:54,040 - 00:39:56,100] But nobody reports on this stuff.
+- [00:39:56,120 - 00:39:56,620] Right?
+- [00:39:56,834 - 00:39:57,514] لأن
+- [00:39:57,538 - 00:40:00,858] The car dealers know things are slowing down.
+- [00:40:00,858 - 00:40:03,078] Interest rates have gone up.
+- [00:40:03,078 - 00:40:05,218] Perhaps consumers are being more conservative
+- [00:40:05,218 - 00:40:06,898] because we have inflation.
+- [00:40:06,898 - 00:40:09,378] So they're keeping their car a couple years longer.
+- [00:40:09,378 - 00:40:11,458] None of that shows up in
+- [00:40:11,458 - 00:40:13,538] the sales data today or yesterday.
+- [00:40:13,538 - 00:40:17,678] But if you're a car dealer like a Herb Chambers
+- [00:40:17,678 - 00:40:19,698] and you're looking at your 15 dealerships
+- [00:40:19,698 - 00:40:20,878] and you're looking out of your lot
+- [00:40:20,878 - 00:40:25,838] and you're seeing umpteen cars sitting there
+- [00:40:25,838 - 00:40:26,678] and you think to yourself,
+- [00:40:26,678 - 00:40:28,518] geez, in Q1 we would have sold this many
+- [00:40:28,518 - 00:40:30,168] and in Q3 it went down and
+- [00:40:30,168 - 00:40:31,818] in Q4 it went down a little bit.
+- [00:40:32,698 - 00:40:34,218] What the hell does that mean?
+- [00:40:34,218 - 00:40:37,658] Well, they do not want Nissan
+- [00:40:37,658 - 00:40:40,238] to suddenly deliver them another 90 cars.
+- [00:40:41,298 - 00:40:43,438] So they call their Nissan rep and they say,
+- [00:40:43,438 - 00:40:45,978] we're gonna cut it back to 40 this quarter.
+- [00:40:45,978 - 00:40:48,878] We'll push the old shit we have on the lot.
+- [00:40:48,878 - 00:40:52,178] But nobody in Wall Street knows that shit
+- [00:40:52,178 - 00:40:53,488] until the end of the
+- [00:40:53,488 - 00:40:54,798] quarter when the CEO comes out
+- [00:40:54,798 - 00:40:56,358] and says, we sold less cars.
+- [00:40:56,678 - 00:40:58,058] Can you imagine?
+- [00:40:58,058 - 00:40:59,718] You're able to use satellite technology
+- [00:40:59,718 - 00:41:03,478] to actually track the number of ships carrying cars
+- [00:41:03,478 - 00:41:05,098] and actually predict the future.
+- [00:41:06,138 - 00:41:07,538] Now that's a business model.
+- [00:41:09,198 - 00:41:10,228] That's the kind of stuff
+- [00:41:10,228 - 00:41:11,258] that data is able to do.
+- [00:41:11,258 - 00:41:12,798] So when you think about your company,
+- [00:41:12,798 - 00:41:14,478] think about your business model,
+- [00:41:14,478 - 00:41:17,358] your first business model might be simple.
+- [00:41:17,358 - 00:41:19,198] You're shipping DVDs.
+- [00:41:19,198 - 00:41:21,618] You're selling this widget
+- [00:41:21,618 - 00:41:24,298] to companies that do presentations.
+- [00:41:24,298 - 00:41:26,678] You're selling this software to a logistics company.
+- [00:41:26,678 - 00:41:29,878] And that logistics company is going to increase productivity
+- [00:41:29,878 - 00:41:32,138] by 15%.
+- [00:41:32,138 - 00:41:36,058] But be prepared because your business model needs to change.
+- [00:41:36,058 - 00:41:37,348] You need to become more
+- [00:41:37,348 - 00:41:38,638] valuable to your client, more sticky,
+- [00:41:38,638 - 00:41:41,298] and more relevant all of the time.
+- [00:41:41,298 - 00:41:43,338] So I'll stop there with those two examples.
+- [00:41:43,338 - 00:41:45,098] And then just let's talk about a few other industries.
+- [00:41:45,098 - 00:41:48,438] Real quick, stop for questions, feedback, comments,
+- [00:41:48,438 - 00:41:52,838] anything really crazy I said that doesn't make sense.
+- [00:41:52,838 - 00:41:54,058] All right, let's keep moving.
+- [00:41:54,058 - 00:41:55,638] Let's talk about a couple of industries.
+- [00:41:56,678 - 00:41:59,798] And this goes again back to our original pie chart
+- [00:41:59,798 - 00:42:00,978] that came out of this great
+- [00:42:00,978 - 00:42:02,158] book that's part of this class,
+- [00:42:02,158 - 00:42:04,378] which is you've got these nine different things
+- [00:42:04,378 - 00:42:05,218] that you have to think about.
+- [00:42:05,218 - 00:42:07,118] And every industry itself is different.
+- [00:42:08,118 - 00:42:09,178] If you're in pharmaceutical,
+- [00:42:09,178 - 00:42:10,438] that's a hell of a lot different
+- [00:42:10,438 - 00:42:12,198] than the diagnostics industry.
+- [00:42:12,198 - 00:42:13,758] And if you're in the diagnostic space,
+- [00:42:13,758 - 00:42:15,148] it's a heck of a lot
+- [00:42:15,148 - 00:42:16,538] different than the med tech space.
+- [00:42:16,538 - 00:42:17,438] Like the med tech people
+- [00:42:17,438 - 00:42:19,278] are basically selling medical technologies.
+- [00:42:19,278 - 00:42:20,538] It might be hips.
+- [00:42:20,538 - 00:42:21,878] It might be knees.
+- [00:42:21,878 - 00:42:24,098] It might be an instrument sitting on a desk.
+- [00:42:24,098 - 00:42:26,678] The diagnostic people are actually selling tests.
+- [00:42:26,678 - 00:42:28,568] The pharmaceutical people, whether
+- [00:42:28,568 - 00:42:30,458] they're biotech or pharma,
+- [00:42:30,458 - 00:42:32,858] if they're really core biotech, they're building stuff
+- [00:42:32,858 - 00:42:34,877] and they don't sell anything.
+- [00:42:34,877 - 00:42:36,417] And then they're hoping that
+- [00:42:36,417 - 00:42:37,958] stuff at phase two or phase
+- [00:42:37,958 - 00:42:39,837] three gets acquired by pharma.
+- [00:42:39,837 - 00:42:41,687] And then pharma pushes it
+- [00:42:41,687 - 00:42:43,538] out to their massive sales teams.
+- [00:42:43,538 - 00:42:45,918] So each of those within the life science sector
+- [00:42:45,918 - 00:42:47,777] all have a different business model.
+- [00:42:47,777 - 00:42:49,197] So one example I wanted to
+- [00:42:49,197 - 00:42:50,617] give is sort of med tech.
+- [00:42:50,617 - 00:42:52,307] Because being at MIT, I
+- [00:42:52,307 - 00:42:53,997] spoke to one of the panelists
+- [00:42:53,997 - 00:42:56,678] that was up here earlier who's doing a company that,
+- [00:42:56,678 - 00:42:59,377] or brand new company that's going to be spinning out
+- [00:42:59,377 - 00:43:02,138] of one of the labs here, Bob Langer's lab.
+- [00:43:02,138 - 00:43:04,057] And when you think about that new technology,
+- [00:43:04,057 - 00:43:05,777] like right now, we're just
+- [00:43:05,777 - 00:43:07,497] trying to make proof of concept.
+- [00:43:07,497 - 00:43:08,837] But when it gets out into the market,
+- [00:43:08,837 - 00:43:12,038] how do you ultimately sell it is really critical.
+- [00:43:12,038 - 00:43:15,837] Because in fields like med tech, healthcare, life sciences,
+- [00:43:15,837 - 00:43:17,497] you not only need to
+- [00:43:17,497 - 00:43:19,157] have the greatest whiz bang stuff,
+- [00:43:19,157 - 00:43:21,877] but you need to think about adoption.
+- [00:43:23,057 - 00:43:24,657] You need to think about how
+- [00:43:24,657 - 00:43:26,258] do I get the most influential,
+- [00:43:26,258 - 00:43:30,098] influential prescribers, doctors, clinicians, surgeons,
+- [00:43:30,098 - 00:43:35,098] pediatricians, oncologists to do this and look at it,
+- [00:43:35,878 - 00:43:37,978] and then tell their friends at the next conference
+- [00:43:37,978 - 00:43:40,438] they speak at that there's a new surgical instrument
+- [00:43:40,438 - 00:43:42,018] that they're using.
+- [00:43:42,018 - 00:43:44,858] So in this world of med tech, as an example,
+- [00:43:44,858 - 00:43:46,678] and some of you all raised your hands earlier
+- [00:43:46,678 - 00:43:49,498] that you're in that field of life sciences,
+- [00:43:49,498 - 00:43:52,298] you have a problem that most other industries don't have.
+- [00:43:53,758 - 00:43:56,238] You need to be able to first make things
+- [00:43:56,258 - 00:44:00,138] work, make sure that it's both efficacious and safe, right?
+- [00:44:00,138 - 00:44:02,378] It works, but it doesn't kill anybody.
+- [00:44:02,378 - 00:44:04,218] It's probably a good combination.
+- [00:44:04,218 - 00:44:06,778] But even though you have a great product that works
+- [00:44:06,778 - 00:44:08,078] and it didn't kill anybody,
+- [00:44:09,638 - 00:44:12,358] nobody might write a prescription for it.
+- [00:44:12,358 - 00:44:14,138] No doctor may ever even use it.
+- [00:44:15,038 - 00:44:17,918] And depending what kind of doctors you're dealing with,
+- [00:44:17,918 - 00:44:21,218] holy shit, then your business model is even more challenged.
+- [00:44:21,218 - 00:44:23,478] Because if you're dealing with surgeons,
+- [00:44:24,538 - 00:44:25,618] they're pretty cutting edge.
+- [00:44:25,618 - 00:44:27,577] They love the newest gadgets.
+- [00:44:27,577 - 00:44:29,378] If you're dealing with psychiatrists,
+- [00:44:30,498 - 00:44:32,838] probably not so quick to adopt new technology.
+- [00:44:34,077 - 00:44:36,618] They're still using DSM-5 to actually predict
+- [00:44:36,618 - 00:44:38,697] what the particular disorder is or disease
+- [00:44:38,697 - 00:44:39,938] that their patient has.
+- [00:44:39,938 - 00:44:43,218] And then they're prescribing very often off-label drugs
+- [00:44:43,218 - 00:44:44,798] or drugs that are off patent.
+- [00:44:44,798 - 00:44:47,418] So you have different types of users.
+- [00:44:47,418 - 00:44:49,478] Those are the people you're selling to.
+- [00:44:49,478 - 00:44:50,538] So you have to think about that.
+- [00:44:50,538 - 00:44:51,837] In the med tech world,
+- [00:44:51,837 - 00:44:53,618] your business model is absolutely critical
+- [00:44:53,618 - 00:44:55,618] because not only do you have to make something
+- [00:44:55,618 - 00:44:59,238] that doesn't kill people or makes their life better
+- [00:44:59,238 - 00:45:01,438] and really works, but you also have to figure out
+- [00:45:01,438 - 00:45:02,988] how on earth am I gonna
+- [00:45:02,988 - 00:45:04,538] be able to pay for this?
+- [00:45:04,538 - 00:45:06,478] Are they gonna be able to pay for it?
+- [00:45:06,478 - 00:45:08,678] Is this gonna be a direct-to-consumer?
+- [00:45:08,678 - 00:45:10,248] All of us open up
+- [00:45:10,248 - 00:45:11,818] our phone and we get advertisements
+- [00:45:11,818 - 00:45:13,738] for this gut microbiome test
+- [00:45:13,738 - 00:45:15,358] and we get advertisement for something else,
+- [00:45:15,358 - 00:45:16,998] you know, know your ancestry
+- [00:45:16,998 - 00:45:21,438] and you'll be able to better manage your future health.
+- [00:45:22,998 - 00:45:25,398] Or if you're a person suffering with,
+- [00:45:25,618 - 00:45:27,897] cardiovascular issues,
+- [00:45:27,897 - 00:45:30,498] you may see something on a commercial.
+- [00:45:30,498 - 00:45:31,338] But at the end of the day,
+- [00:45:31,338 - 00:45:33,318] if your doctor doesn't write a prescription
+- [00:45:33,318 - 00:45:37,118] for that new medication, it just doesn't sell.
+- [00:45:38,318 - 00:45:40,878] So when you think about your business model,
+- [00:45:40,878 - 00:45:43,278] it's really important to think about
+- [00:45:43,278 - 00:45:48,077] who are the constituents I need to convince, right?
+- [00:45:48,077 - 00:45:50,227] It's not as easy as selling
+- [00:45:50,227 - 00:45:52,378] cool t-shirts on eBay or Amazon,
+- [00:45:52,378 - 00:45:54,017] where I'm just hoping it's cool enough
+- [00:45:54,017 - 00:45:55,538] that people will buy it.
+- [00:45:55,618 - 00:45:57,238] And if it doesn't, I don't
+- [00:45:57,238 - 00:45:58,858] really have a lot of overhead.
+- [00:45:58,858 - 00:46:00,498] It is a complex industry.
+- [00:46:00,498 - 00:46:04,798] It's like selling SaaS platforms to the automotive industry.
+- [00:46:06,118 - 00:46:08,757] The automotive industry doesn't move very fast.
+- [00:46:08,757 - 00:46:10,558] It doesn't change very quickly.
+- [00:46:11,517 - 00:46:14,137] And because it's very big and powerful,
+- [00:46:14,137 - 00:46:19,137] it probably is hard to get an automotive company
+- [00:46:19,577 - 00:46:24,197] to put new technology into its system
+- [00:46:24,197 - 00:46:24,957] because everything's working just the way it is.
+- [00:46:24,957 - 00:46:25,577] It's just a matter of time.
+- [00:46:25,578 - 00:46:26,418] It's not going to be the way it is.
+- [00:46:26,418 - 00:46:27,518] Yeah, we can make it a little more efficient,
+- [00:46:27,518 - 00:46:29,518] but we kind of like our
+- [00:46:29,518 - 00:46:31,518] procurement process the way it is.
+- [00:46:32,398 - 00:46:33,798] If you want to sell them to that industry,
+- [00:46:33,798 - 00:46:35,258] you need to think about who are the constituents
+- [00:46:35,258 - 00:46:37,218] I'm selling to versus, let's say,
+- [00:46:37,218 - 00:46:39,938] an industry that is right at the cutting edge, right?
+- [00:46:39,938 - 00:46:42,738] Software companies that are looking to tweak
+- [00:46:42,738 - 00:46:45,018] the finest little bit of value
+- [00:46:45,018 - 00:46:48,678] out of how their disparate teams communicate.
+- [00:46:48,678 - 00:46:49,858] They're going to download that app.
+- [00:46:49,858 - 00:46:51,698] They're going to try it out.
+- [00:46:51,698 - 00:46:52,858] They're going to do things
+- [00:46:52,858 - 00:46:54,018] at a speed and a pace
+- [00:46:54,018 - 00:46:54,918] that you wouldn't normally expect.
+- [00:46:54,918 - 00:46:59,918] The challenge is that there might be high switching cost.
+- [00:46:59,918 - 00:47:04,918] So you've got a challenge there, right?
+- [00:47:04,918 - 00:47:06,668] Like all of us today, we could
+- [00:47:06,668 - 00:47:08,418] sign up for an AT&T contract today
+- [00:47:08,418 - 00:47:10,757] and get our discounted iPhone and so forth.
+- [00:47:10,757 - 00:47:12,047] Then a year from now, we
+- [00:47:12,047 - 00:47:13,338] decide we're going to go to T-Mobile.
+- [00:47:13,338 - 00:47:15,378] Maybe we have to pay a fee.
+- [00:47:15,378 - 00:47:16,078] No stress.
+- [00:47:16,078 - 00:47:16,618] Keep your number.
+- [00:47:16,618 - 00:47:18,878] Go to T-Mobile.
+- [00:47:18,878 - 00:47:24,358] So that's high switching cost for the company,
+- [00:47:24,358 - 00:47:24,858] low switching cost.
+- [00:47:24,858 - 00:47:27,858] And if I'm the one buying
+- [00:47:27,858 - 00:47:30,858] stuff, I like low switching costs.
+- [00:47:30,858 - 00:47:37,298] If I join this fancy Equinox fitness center
+- [00:47:37,298 - 00:47:39,018] and I'm not locked into a two-year contract
+- [00:47:39,018 - 00:47:40,798] and I can quickly move over to something else
+- [00:47:40,798 - 00:47:42,448] and go to LA Fitness,
+- [00:47:42,448 - 00:47:44,098] that's low switching cost for me.
+- [00:47:44,098 - 00:47:45,658] I like that.
+- [00:47:45,658 - 00:47:47,738] But for them, it sucks, right?
+- [00:47:47,738 - 00:47:49,358] Because they might have tremendous turnover.
+- [00:47:49,358 - 00:47:51,518] So you have to think about that as well.
+- [00:47:51,518 - 00:47:52,958] Who am I selling to?
+- [00:47:52,958 - 00:47:54,298] What is the differentiation?
+- [00:47:54,298 - 00:47:56,187] And how do I get
+- [00:47:56,187 - 00:47:58,077] them to keep coming back forever?
+- [00:47:58,077 - 00:48:01,318] Because if for me to be competitive in my industry,
+- [00:48:01,318 - 00:48:05,058] I have to have no contract, right?
+- [00:48:05,058 - 00:48:06,768] Think about some of these
+- [00:48:06,768 - 00:48:08,478] new mobile phone companies out there.
+- [00:48:08,478 - 00:48:09,688] Who can think about what are
+- [00:48:09,688 - 00:48:10,898] a couple of the names you hear
+- [00:48:10,898 - 00:48:13,478] that are some of these new fangled phone companies
+- [00:48:13,478 - 00:48:15,618] out there, one of which is represented
+- [00:48:15,618 - 00:48:16,818] by a very famous actor?
+- [00:48:20,098 - 00:48:21,458] Mint Mobile.
+- [00:48:21,458 - 00:48:22,558] And there's a few others.
+- [00:48:22,558 - 00:48:23,298] Consumer Cellular.
+- [00:48:23,298 - 00:48:24,298] I feel like that's a good one.
+- [00:48:24,298 - 00:48:25,298] I'm going to go through this.
+- [00:48:25,298 - 00:48:26,058] Think about it.
+- [00:48:26,058 - 00:48:31,558] Does anybody here know who Mint Mobile uses
+- [00:48:31,558 - 00:48:34,097] for their entire network?
+- [00:48:34,097 - 00:48:35,957] T-Mobile.
+- [00:48:35,957 - 00:48:36,678] Why would that be?
+- [00:48:36,678 - 00:48:38,918] Think to yourself, holy shit.
+- [00:48:38,918 - 00:48:43,198] Mint Mobile is using the T-Mobile network.
+- [00:48:43,198 - 00:48:45,578] Why would they do that?
+- [00:48:45,578 - 00:48:48,098] Because T-Mobile realized that there's
+- [00:48:48,098 - 00:48:50,958] a different level of consumer that
+- [00:48:50,958 - 00:48:54,118] might want the flexibility of bring
+- [00:48:54,118 - 00:48:57,838] your device, no contracts, short-term contracts,
+- [00:48:57,838 - 00:49:00,278] super cheap on a monthly basis.
+- [00:49:00,278 - 00:49:02,778] But you're not going to be able to download
+- [00:49:02,778 - 00:49:04,318] as quickly as you want.
+- [00:49:04,318 - 00:49:07,678] There's going to be some restrictions around bandwidth.
+- [00:49:07,678 - 00:49:11,058] But your roommate, who's a T-Mobile customer,
+- [00:49:11,058 - 00:49:13,578] is probably paying $70 more a month.
+- [00:49:13,578 - 00:49:18,338] And they have ubiquitous connectivity.
+- [00:49:18,338 - 00:49:19,338] That's a business model.
+- [00:49:19,338 - 00:49:20,798] Think about that.
+- [00:49:20,798 - 00:49:22,778] T-Mobile has a business model.
+- [00:49:22,778 - 00:49:24,398] AT&T has a business model.
+- [00:49:24,398 - 00:49:25,278] They're almost identical.
+- [00:49:25,278 - 00:49:27,278] Verizon has a business model.
+- [00:49:27,278 - 00:49:32,938] In the UK, my phone is a Virgin mobile carrier.
+- [00:49:32,938 - 00:49:34,398] That's their business model.
+- [00:49:34,398 - 00:49:36,298] But T-Mobile said, huh, there's
+- [00:49:36,298 - 00:49:38,198] an entire part of the market
+- [00:49:38,198 - 00:49:40,658] that we cannot even touch.
+- [00:49:40,658 - 00:49:43,238] Because the way we operate in the big stores
+- [00:49:43,238 - 00:49:47,238] is one-year contracts, fancy phones, lock your ass in,
+- [00:49:47,238 - 00:49:50,538] and we're going to charge you a fortune.
+- [00:49:50,538 - 00:49:51,938] And they got smart.
+- [00:49:51,938 - 00:49:52,538] They got smart.
+- [00:49:52,538 - 00:49:53,338] They got smart.
+- [00:49:53,338 - 00:49:56,138] So what you think about is, even companies
+- [00:49:56,138 - 00:49:59,598] that have a great business model that's succeeding, in order
+- [00:49:59,598 - 00:50:02,048] for them to capture an
+- [00:50:02,048 - 00:50:04,498] entirely new part of the market,
+- [00:50:04,498 - 00:50:07,098] they might have to reinvent themself.
+- [00:50:07,098 - 00:50:11,858] Or they create a new brand that they own.
+- [00:50:11,858 - 00:50:12,978] What's another example?
+- [00:50:12,978 - 00:50:16,018] Think about this in other industries, not tech, maybe
+- [00:50:16,018 - 00:50:19,188] tech, of brands you know
+- [00:50:19,188 - 00:50:22,358] that were known for one thing,
+- [00:50:22,358 - 00:50:23,538] perhaps.
+- [00:50:23,538 - 00:50:27,238] And now they've got multiple brands under the same umbrella
+- [00:50:27,238 - 00:50:30,298] to serve different consumers.
+- [00:50:30,298 - 00:50:31,258] What's an example?
+- [00:50:31,258 - 00:50:34,678] How about in the automotive industry?
+- [00:50:34,678 - 00:50:36,038] Toyota.
+- [00:50:36,038 - 00:50:36,538] Who is it?
+- [00:50:36,538 - 00:50:38,038] Toyota.
+- [00:50:38,038 - 00:50:41,438] And Lexus, but I'm not Toyota.
+- [00:50:41,438 - 00:50:43,358] And Toyota, right?
+- [00:50:43,358 - 00:50:47,558] So Lexus and Toyota, right?
+- [00:50:47,558 - 00:50:48,358] So think about that.
+- [00:50:48,358 - 00:50:51,158] Toyota dominated forever.
+- [00:50:52,358 - 00:50:55,778] But it was considered like the car you bought,
+- [00:50:55,778 - 00:50:59,198] middle of the road, safe, reliable.
+- [00:50:59,198 - 00:51:00,998] They knew they were never going
+- [00:51:00,998 - 00:51:02,798] to get the up and coming
+- [00:51:02,798 - 00:51:05,858] kick-ass researcher who was making $50,000 a year
+- [00:51:05,858 - 00:51:08,878] and is now making $450,000 a year at Novartis.
+- [00:51:08,878 - 00:51:12,158] That dude, that woman, they were not buying a Toyota.
+- [00:51:12,158 - 00:51:13,978] They were buying the Mercedes, where
+- [00:51:13,978 - 00:51:16,418] they were buying something else, the Cadillac, whatever
+- [00:51:16,418 - 00:51:18,078] it was at the time.
+- [00:51:18,078 - 00:51:20,278] Toyota realized, we have an entire part of the market
+- [00:51:20,278 - 00:51:21,738] that we cannot even reach.
+- [00:51:21,738 - 00:51:24,978] And they created Lexus.
+- [00:51:24,978 - 00:51:26,678] Nissan.
+- [00:51:26,678 - 00:51:29,118] What did Nissan create?
+- [00:51:29,118 - 00:51:30,058] Infiniti.
+- [00:51:30,058 - 00:51:31,338] Same thing.
+- [00:51:31,338 - 00:51:34,238] What did Volkswagen create?
+- [00:51:34,238 - 00:51:36,798] Acura.
+- [00:51:36,798 - 00:51:38,218] Audi was an independent brand.
+- [00:51:38,218 - 00:51:39,058] They may own it now.
+- [00:51:39,058 - 00:51:40,778] Who the hell knows?
+- [00:51:40,778 - 00:51:41,718] They created Acura.
+- [00:51:41,718 - 00:51:43,838] Acura is an automotive.
+- [00:51:43,838 - 00:51:44,638] Is it what is it?
+- [00:51:44,638 - 00:51:46,218] It's an automotive.
+- [00:51:46,218 - 00:51:46,878] Oh, yes, you're right.
+- [00:51:46,878 - 00:51:47,378] Absolutely.
+- [00:51:47,378 - 00:51:48,718] Was it Audi?
+- [00:51:48,718 - 00:51:50,738] I thought Volkswagen created a different brand.
+- [00:51:50,738 - 00:51:51,678] It's called Volkswagen.
+- [00:51:51,738 - 00:51:54,358] Oh, that's right.
+- [00:51:54,358 - 00:51:55,218] They did.
+- [00:51:55,218 - 00:51:56,078] And that's just different.
+- [00:51:56,078 - 00:51:58,158] That's a consolidation in the industry.
+- [00:51:58,158 - 00:52:00,038] But when you think about some of these brands,
+- [00:52:00,038 - 00:52:02,978] think about brands that we all wear every day.
+- [00:52:02,978 - 00:52:05,238] Think about Ralph Lauren as a brand.
+- [00:52:07,758 - 00:52:10,018] What's under the umbrella of Ralph Lauren?
+- [00:52:10,018 - 00:52:12,018] What's at the high level
+- [00:52:12,018 - 00:52:14,018] and lowest level of Ralph Lauren?
+- [00:52:14,018 - 00:52:15,838] Does anybody know?
+- [00:52:15,838 - 00:52:19,858] Have you heard of the brand called Loren?
+- [00:52:19,858 - 00:52:20,438] Google it.
+- [00:52:20,438 - 00:52:21,578] Loren.
+- [00:52:21,578 - 00:52:26,558] It's like their bespoke, tailored $900 for a jacket.
+- [00:52:26,558 - 00:52:27,058] Loren.
+- [00:52:29,658 - 00:52:35,757] The next level down is Polo by Ralph Lauren.
+- [00:52:35,757 - 00:52:39,257] Do you know there's actually a level above Loren?
+- [00:52:39,257 - 00:52:42,218] It's called a purple label.
+- [00:52:42,218 - 00:52:48,497] It is made to order couture level under Ralph Lauren.
+- [00:52:48,497 - 00:52:49,697] You know where it is
+- [00:52:49,697 - 00:52:50,898] all the way at the bottom?
+- [00:52:50,898 - 00:52:51,497] Polo Sport.
+- [00:52:51,498 - 00:52:54,978] Which is still a great product.
+- [00:52:54,978 - 00:52:57,958] But if you're just looking
+- [00:52:57,958 - 00:53:00,938] for a cheap sweatshirt or zip-up,
+- [00:53:00,938 - 00:53:02,578] Polo Sport works great.
+- [00:53:02,578 - 00:53:05,438] And it's part of the Ralph Lauren brand.
+- [00:53:05,438 - 00:53:06,978] If you're at the next level, you're
+- [00:53:06,978 - 00:53:09,738] buying the cute little horse on your shirt,
+- [00:53:09,738 - 00:53:13,678] the $95, $110 zip-up sweater with the horse,
+- [00:53:13,678 - 00:53:16,278] Polo by Ralph Lauren.
+- [00:53:16,278 - 00:53:18,858] You could buy a really nice jacket for $200.
+- [00:53:18,858 - 00:53:19,978] The next level, Loren.
+- [00:53:19,978 - 00:53:20,578] The next level, Perl.
+- [00:53:20,578 - 00:53:21,078] Perl.
+- [00:53:21,078 - 00:53:22,857] Purple.
+- [00:53:22,857 - 00:53:24,117] Think about that.
+- [00:53:24,117 - 00:53:27,098] They own your entire life.
+- [00:53:27,098 - 00:53:28,318] You became loyal to the brand
+- [00:53:28,318 - 00:53:29,538] when you were 17 years old
+- [00:53:29,538 - 00:53:31,198] and all you could afford was Polo Sport.
+- [00:53:31,198 - 00:53:33,058] You thought it was so cool.
+- [00:53:33,058 - 00:53:35,698] And now you're at the next level and you're still
+- [00:53:35,698 - 00:53:38,038] loyal to the brand.
+- [00:53:38,038 - 00:53:40,298] That's the beauty of companies,
+- [00:53:40,298 - 00:53:42,558] that think about business model
+- [00:53:42,558 - 00:53:45,257] every single day and what is the market segment
+- [00:53:45,257 - 00:53:47,857] that we can capture next.
+- [00:53:47,857 - 00:53:49,637] So let's move along a little bit.
+- [00:53:49,637 - 00:53:50,958] Digital commerce has always changed.
+- [00:53:50,958 - 00:53:51,377] It's changing.
+- [00:53:51,377 - 00:53:52,817] I'm going to blast through these
+- [00:53:52,817 - 00:53:54,257] because this stuff you guys know.
+- [00:53:54,257 - 00:53:56,357] But when I think about digital commerce,
+- [00:53:56,357 - 00:53:59,117] because it's changed so much, not only because bandwidth
+- [00:53:59,117 - 00:54:02,058] has increased, but now with the intervention of AI,
+- [00:54:02,058 - 00:54:03,698] which we'll talk about, you've
+- [00:54:03,698 - 00:54:05,338] got all of these new models
+- [00:54:05,338 - 00:54:07,198] that were created.
+- [00:54:07,198 - 00:54:09,737] Think about Uber.
+- [00:54:09,737 - 00:54:10,958] Really owns no cars.
+- [00:54:10,958 - 00:54:15,278] Airbnb doesn't own any hotel rooms,
+- [00:54:15,278 - 00:54:17,578] but they have more rooms controlled
+- [00:54:17,578 - 00:54:20,578] than the top three hotel companies in the world combined.
+- [00:54:20,958 - 00:54:25,637] That sharing economy suddenly became very, very valuable.
+- [00:54:25,637 - 00:54:28,637] The personalized economy is pretty incredible too.
+- [00:54:28,637 - 00:54:32,198] It's I've got a subscription to this and consumers say,
+- [00:54:32,198 - 00:54:34,958] you know what surprised me, I'll try that out.
+- [00:54:34,958 - 00:54:37,558] I'll take a shot because I
+- [00:54:37,558 - 00:54:40,158] already subscribed to this particular brand.
+- [00:54:40,158 - 00:54:41,338] I'll try it.
+- [00:54:41,338 - 00:54:44,038] Think about companies like Rent the Runway.
+- [00:54:44,038 - 00:54:45,678] I'll try it.
+- [00:54:45,678 - 00:54:47,477] I'll pay my subscription.
+- [00:54:47,477 - 00:54:47,877] I get this beautiful dress or
+- [00:54:47,877 - 00:54:48,278] five of them in the, you know,
+- [00:54:48,278 - 00:54:48,958] I'll try it.
+- [00:54:48,958 - 00:54:49,578] I'll pay my subscription.
+- [00:54:49,578 - 00:54:49,847] I get this beautiful dress or
+- [00:54:49,847 - 00:54:50,117] five of them in the, you know,
+- [00:54:50,117 - 00:54:50,357] I'll try it.
+- [00:54:50,357 - 00:54:50,838] I'll pay my subscription.
+- [00:54:50,838 - 00:54:50,938] I'll pay my subscription.
+- [00:54:50,958 - 00:54:52,338] You know, sent to me.
+- [00:54:52,338 - 00:54:52,737] I'll try it.
+- [00:54:52,737 - 00:54:55,117] If I don't like it, I just send it back.
+- [00:54:55,117 - 00:54:56,877] It's not the sharing economy, right?
+- [00:54:56,877 - 00:54:59,637] But it is this personalized economy.
+- [00:54:59,637 - 00:55:00,757] They know my style.
+- [00:55:00,757 - 00:55:03,278] I get it sent to me.
+- [00:55:03,278 - 00:55:06,637] Entirely different models, but they work so well.
+- [00:55:06,637 - 00:55:08,697] Certainly the replenishment economy is
+- [00:55:08,697 - 00:55:10,757] actually taking off more and more.
+- [00:55:10,757 - 00:55:12,677] And these are driven by the
+- [00:55:12,677 - 00:55:14,598] smart sensors in all of our lives.
+- [00:55:14,598 - 00:55:16,198] These are the things that when
+- [00:55:16,198 - 00:55:17,798] you sign up for your Amazon account
+- [00:55:17,798 - 00:55:19,318] and you do an Amazon subscription,
+- [00:55:19,318 - 00:55:20,838] think about that's a replenished economy.
+- [00:55:20,838 - 00:55:21,838] Right?
+- [00:55:21,838 - 00:55:25,427] I know that every 30 days I
+- [00:55:25,427 - 00:55:29,017] need another box of Cascade for my dishwasher.
+- [00:55:29,017 - 00:55:32,377] Or I need another, you know, something or
+- [00:55:32,377 - 00:55:35,737] other that will be delivered to me automatically.
+- [00:55:35,737 - 00:55:39,237] I don't have to think about it anymore.
+- [00:55:39,237 - 00:55:41,517] Refrigerators are now using RFID and all sorts
+- [00:55:41,517 - 00:55:43,798] of other tags where you're going to be able
+- [00:55:43,798 - 00:55:47,158] to barcode scan the things that are in your refrigerator.
+- [00:55:47,158 - 00:55:48,688] And when you're out, it just
+- [00:55:48,688 - 00:55:50,218] goes on to your shopping list.
+- [00:55:50,218 - 00:55:52,098] It's the replenish economy.
+- [00:55:52,098 - 00:55:55,098] That's an entirely cool business model.
+- [00:55:55,098 - 00:55:57,687] Versus the I run out of shit
+- [00:55:57,687 - 00:56:00,277] and go to the supermarket economy, right?
+- [00:56:00,277 - 00:56:03,538] Which is pretty much how I live still.
+- [00:56:03,538 - 00:56:04,277] I make a little list.
+- [00:56:04,277 - 00:56:05,818] Ah, shit, I'm out of those things again.
+- [00:56:05,818 - 00:56:07,227] I put it on the list and then
+- [00:56:07,227 - 00:56:08,637] at the end of the week or month,
+- [00:56:08,637 - 00:56:12,058] I might go over to the supermarket and buy it.
+- [00:56:12,058 - 00:56:15,098] I'd much prefer it show up to my house.
+- [00:56:15,098 - 00:56:16,537] So think about those little
+- [00:56:16,537 - 00:56:17,977] tweaks in business models really work.
+- [00:56:17,977 - 00:56:20,218] And certainly, the do it for me service economy,
+- [00:56:20,218 - 00:56:22,357] everything has exploded.
+- [00:56:22,357 - 00:56:24,637] Everything from, I mean, my shirts get dirty.
+- [00:56:24,637 - 00:56:25,637] I put them in a bag.
+- [00:56:25,637 - 00:56:26,637] I hang it outside my door.
+- [00:56:26,637 - 00:56:28,447] There's a little guy in a van shows up,
+- [00:56:28,447 - 00:56:30,257] boom, takes him twice a week and brings other stuff
+- [00:56:30,257 - 00:56:31,757] back.
+- [00:56:31,757 - 00:56:34,197] But that has now accelerated into a
+- [00:56:34,197 - 00:56:36,637] lot of other industries where people are basically
+- [00:56:36,637 - 00:56:39,137] getting services that only the rich could
+- [00:56:39,137 - 00:56:41,637] afford 50 or 20 or 30 years ago.
+- [00:56:41,637 - 00:56:43,777] And now anybody can do it.
+- [00:56:43,777 - 00:56:46,877] Think about home cleaning services.
+- [00:56:46,877 - 00:56:48,487] When I was young, no one had a
+- [00:56:48,487 - 00:56:50,098] maid unless they were really, really, really rich.
+- [00:56:50,098 - 00:56:53,137] They had a cleaning person.
+- [00:56:53,137 - 00:56:54,087] Then all of a sudden,
+- [00:56:54,087 - 00:56:55,038] it became more and more common.
+- [00:56:55,038 - 00:56:58,408] And now every time I open up my phone, there's
+- [00:56:58,408 - 00:57:01,778] a new ad for some service, whether it be handyman
+- [00:57:01,778 - 00:57:04,957] or it be cleaning people, I can get
+- [00:57:04,957 - 00:57:08,137] my car waxed and detailed in my driveway.
+- [00:57:08,137 - 00:57:12,117] So think about whatever you guys are building.
+- [00:57:12,117 - 00:57:13,957] How am I going to get to my consumer?
+- [00:57:13,957 - 00:57:16,258] Who do I have to convince?
+- [00:57:16,258 - 00:57:17,437] How do I scale?
+- [00:57:17,437 - 00:57:19,598] How do I change as times change?
+- [00:57:19,598 - 00:57:19,617] And then I'm going to have to do it.
+- [00:57:19,617 - 00:57:19,738] I'm going to have to do it.
+- [00:57:19,738 - 00:57:19,838] I'm going to have to do it.
+- [00:57:19,838 - 00:57:19,937] I'm going to have to do it.
+- [00:57:19,937 - 00:57:20,058] I'm going to have to do it.
+- [00:57:20,098 - 00:57:20,298] I'm going to have to do it.
+- [00:57:20,298 - 00:57:21,367] The hospitality industry, I think,
+- [00:57:21,367 - 00:57:22,437] is one of the most fun.
+- [00:57:23,437 - 00:57:25,627] For a gazillion years, we've
+- [00:57:25,627 - 00:57:27,818] all basically just used travel agents.
+- [00:57:28,018 - 00:57:30,038] We would go online and we'd book our trip.
+- [00:57:30,478 - 00:57:32,618] We'd go and search, what are the flights?
+- [00:57:33,478 - 00:57:34,078] What is this?
+- [00:57:34,197 - 00:57:34,778] What is that?
+- [00:57:35,298 - 00:57:36,818] Before you know it, we pull together our trip.
+- [00:57:37,398 - 00:57:39,368] Nowadays, what you're seeing is
+- [00:57:39,368 - 00:57:41,338] these incredible technologies allowing us.
+- [00:57:41,998 - 00:57:44,188] You can use ChatGPT and
+- [00:57:44,188 - 00:57:46,378] say, act as a travel agent.
+- [00:57:47,738 - 00:57:50,078] Design me a six-day trip in Rome.
+- [00:57:50,098 - 00:57:54,398] I'm very interested in museums.
+- [00:57:54,638 - 00:57:56,058] I'm interested in science.
+- [00:57:56,278 - 00:57:57,898] I'm interested in academia.
+- [00:57:58,278 - 00:58:00,417] I am not interested in any family events.
+- [00:58:00,917 - 00:58:03,798] And I want it to be within this particular area.
+- [00:58:03,798 - 00:58:04,318] Boom.
+- [00:58:05,018 - 00:58:06,078] We have that in front of us.
+- [00:58:06,658 - 00:58:09,677] So the travel industry has been transformed by technology.
+- [00:58:10,138 - 00:58:11,868] And now we're talking about
+- [00:58:11,868 - 00:58:13,598] things like co-robots in the future.
+- [00:58:13,598 - 00:58:16,378] You know, renewable tourism events.
+- [00:58:16,378 - 00:58:19,417] What you also have is space tourism.
+- [00:58:20,098 - 00:58:22,098] Things that we never dreamed of before.
+- [00:58:22,098 - 00:58:25,257] There's a company that I'm involved with
+- [00:58:25,257 - 00:58:28,417] that's in Spain that literally builds these massive,
+- [00:58:28,417 - 00:58:32,878] bigger than this room, like giant monster helium balloons.
+- [00:58:32,878 - 00:58:35,058] And they have this capsule.
+- [00:58:35,058 - 00:58:38,457] And it goes to whatever orbit it particularly goes to.
+- [00:58:38,457 - 00:58:42,078] You can see the entire curvature of the Earth.
+- [00:58:42,078 - 00:58:44,858] Who would have thought that would be a business model?
+- [00:58:44,858 - 00:58:47,228] But you have companies that are creating
+- [00:58:47,228 - 00:58:49,598] new technologies and new business models and becoming
+- [00:58:49,598 - 00:58:51,488] very, very successful because of
+- [00:58:51,488 - 00:58:53,378] the changes in that industry.
+- [00:58:53,378 - 00:58:55,558] And AI will change everything.
+- [00:58:55,558 - 00:58:56,608] So I'm going to close
+- [00:58:56,608 - 00:58:57,658] with a few comments on this.
+- [00:58:57,658 - 00:58:59,047] When you think about AI, which I think
+- [00:58:59,047 - 00:59:00,437] is touching all of our lives, whether you're
+- [00:59:00,437 - 00:59:03,547] in med tech, you're in energy,
+- [00:59:03,547 - 00:59:06,658] think about this entire value chain, right?
+- [00:59:06,658 - 00:59:09,078] Most of us, including myself, when I
+- [00:59:09,078 - 00:59:11,498] think about AI, I think about like NVIDIA.
+- [00:59:11,498 - 00:59:13,978] They're on the back end somewhere.
+- [00:59:13,978 - 00:59:16,878] And I'm using chat GPT.
+- [00:59:16,878 - 00:59:19,598] Or I'm using someone else's GPT.
+- [00:59:19,598 - 00:59:21,757] But when you're thinking about
+- [00:59:21,757 - 00:59:23,917] your company, where do you fit?
+- [00:59:23,917 - 00:59:26,877] If you're an AI company or you're just a
+- [00:59:26,877 - 00:59:29,838] company using AI to reach new markets, where do you
+- [00:59:29,838 - 00:59:30,838] fit?
+- [00:59:30,838 - 00:59:33,098] I mean, the data center infrastructure
+- [00:59:33,098 - 00:59:35,358] is a phenomenal area right now.
+- [00:59:35,358 - 00:59:38,457] And it's not just big data centers.
+- [00:59:38,457 - 00:59:40,277] There's a company in Europe that
+- [00:59:40,277 - 00:59:42,098] we do diligence the hell out of.
+- [00:59:42,098 - 00:59:43,717] We ultimately passed on it.
+- [00:59:43,717 - 00:59:48,478] But they're building massive data centers in Norway.
+- [00:59:48,478 - 00:59:49,478] The weather there happens to be...
+- [00:59:49,478 - 00:59:49,598] Yeah.
+- [00:59:49,598 - 00:59:53,978] It's pretty cold and dark most of the year.
+- [00:59:53,978 - 00:59:57,688] A fantastic place to put
+- [00:59:57,688 - 01:00:01,398] a massive five-football field-sized data center.
+- [01:00:01,398 - 01:00:04,458] Lots of land, very cool air, low
+- [01:00:04,458 - 01:00:07,518] cost from the standpoint of air conditioning.
+- [01:00:07,518 - 01:00:10,198] So think about like, hey, data centers, that's
+- [01:00:10,198 - 01:00:12,878] a business, but that's not a business model.
+- [01:00:12,878 - 01:00:14,758] Data centers in Norway using renewable energies
+- [01:00:14,758 - 01:00:16,638] with funding from the government, now we're
+- [01:00:16,638 - 01:00:19,118] starting to talk about a business model.
+- [01:00:19,118 - 01:00:22,098] And a contract with Nvidia that gives us
+- [01:00:22,098 - 01:00:25,078] these particular computers that are able to actually
+- [01:00:25,078 - 01:00:26,078] process.
+- [01:00:26,078 - 01:00:28,798] So think about where you want to be.
+- [01:00:28,798 - 01:00:31,177] Most people are actually at the app side.
+- [01:00:31,177 - 01:00:32,737] That's certainly where I think of, right?
+- [01:00:32,737 - 01:00:35,417] As a consumer, what app can I use
+- [01:00:35,417 - 01:00:38,098] that's going to be powered by this infrastructure?
+- [01:00:38,098 - 01:00:40,458] So OpenAI, we're all familiar with, and Anthropic,
+- [01:00:40,458 - 01:00:42,818] and Azure, and then you've got the cloud companies
+- [01:00:42,818 - 01:00:46,737] like AWS, all of which are the data center side.
+- [01:00:46,737 - 01:00:48,118] And then you've got all of the apps.
+- [01:00:48,118 - 01:00:48,998] In fact, we even...
+- [01:00:48,998 - 01:00:50,118] We even go to the next level.
+- [01:00:50,118 - 01:00:53,128] If you take a look at AI tools and
+- [01:00:53,128 - 01:00:56,138] revenues, what you ultimately see is that here's just
+- [01:00:56,138 - 01:00:57,578] a snapshot, right?
+- [01:00:57,578 - 01:01:00,128] Chat GPT on the left,
+- [01:01:00,128 - 01:01:02,678] all the way to Pertori, Leonardo.ai.
+- [01:01:02,678 - 01:01:04,458] I use this thing called Otter.
+- [01:01:04,458 - 01:01:06,398] Anybody ever hear of Otter?
+- [01:01:06,398 - 01:01:08,418] Isn't that the coolest thing I'm telling you?
+- [01:01:08,418 - 01:01:10,408] I'm actually able to sit in meetings, and
+- [01:01:10,408 - 01:01:12,398] I'm in a lot of Zoom meetings, and actually
+- [01:01:12,398 - 01:01:13,398] pay attention.
+- [01:01:13,398 - 01:01:14,678] Whereas before, I was
+- [01:01:14,678 - 01:01:15,958] like listening, writing, listening, writing.
+- [01:01:15,958 - 01:01:16,958] I was going...
+- [01:01:16,958 - 01:01:17,838] I was trying to be like my own scribe.
+- [01:01:17,838 - 01:01:18,838] I was trying to be like my own scribe.
+- [01:01:18,998 - 01:01:20,988] Or I'd have someone from my office would
+- [01:01:20,988 - 01:01:22,978] dial in the meeting, and that was their job.
+- [01:01:22,978 - 01:01:26,498] Now Otter.ai, Otter.ai just joins the meeting.
+- [01:01:26,498 - 01:01:27,498] That's it.
+- [01:01:27,498 - 01:01:29,678] It sits in the background, and it transcribes
+- [01:01:29,678 - 01:01:31,858] every single word that's being said in the
+- [01:01:31,858 - 01:01:32,858] meeting.
+- [01:01:32,858 - 01:01:34,358] And as soon as the voice
+- [01:01:34,358 - 01:01:35,858] of the person changes, it turns...
+- [01:01:35,858 - 01:01:37,978] It changes to speaker two,
+- [01:01:37,978 - 01:01:40,098] speaker four, speaker two, speaker seven.
+- [01:01:40,098 - 01:01:41,378] It's absolutely incredible.
+- [01:01:41,378 - 01:01:42,498] And then it uses AI.
+- [01:01:42,498 - 01:01:44,398] So it's not just a transcript, right?
+- [01:01:44,398 - 01:01:46,158] Like a transcript has limited value.
+- [01:01:46,158 - 01:01:48,118] I don't really want to read an hour-long meeting.
+- [01:01:48,118 - 01:01:48,958] I don't want to read an hour-long meeting.
+- [01:01:48,958 - 01:01:50,438] I don't want to read an hour-long meeting transcript.
+- [01:01:50,438 - 01:01:51,938] It then uses AI, and
+- [01:01:51,938 - 01:01:53,438] it creates a summary for me.
+- [01:01:53,438 - 01:01:56,778] And then it creates an action item for me.
+- [01:01:56,778 - 01:02:00,488] So it can hypothesize from the
+- [01:02:00,488 - 01:02:04,198] meeting what actions were to be taken.
+- [01:02:04,198 - 01:02:06,808] PowerPoint presentation to be sent, Excel
+- [01:02:06,808 - 01:02:09,418] spreadsheet to be reviewed, follow-up email
+- [01:02:09,418 - 01:02:13,138] related to meeting in June.
+- [01:02:13,138 - 01:02:14,878] It's absolutely incredible.
+- [01:02:14,878 - 01:02:18,738] So on the app side, the opportunities are incredible.
+- [01:02:18,738 - 01:02:20,388] And being able to use and leverage
+- [01:02:20,388 - 01:02:22,038] AI is going to change your life.
+- [01:02:22,038 - 01:02:25,018] So let me end with this sort of pitfalls.
+- [01:02:25,018 - 01:02:27,178] Don't overcomplicate things.
+- [01:02:27,178 - 01:02:29,118] Make sure that you really understand the market dynamics.
+- [01:02:29,118 - 01:02:30,828] I probably gave a lot of
+- [01:02:30,828 - 01:02:32,538] examples, whether it be MedTech or others.
+- [01:02:32,538 - 01:02:33,838] And really be flexible.
+- [01:02:33,838 - 01:02:36,448] The companies that survive are the ones that
+- [01:02:36,448 - 01:02:39,058] see the future, and they really think about
+- [01:02:39,058 - 01:02:40,058] changing.
+- [01:02:40,058 - 01:02:41,778] So you have to be adaptable.
+- [01:02:41,778 - 01:02:43,418] And thank you very much for listening.
+- [01:02:48,738 - 01:02:49,738] We appreciate it.
+- [01:02:49,738 - 01:02:50,738] Bye bye.
