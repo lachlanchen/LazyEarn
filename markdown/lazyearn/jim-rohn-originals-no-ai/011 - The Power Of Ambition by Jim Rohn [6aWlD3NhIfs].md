@@ -1,0 +1,8180 @@
+# Transcript
+
+Source: lazyearn/jim-rohn-originals-no-ai/011 - The Power Of Ambition by Jim Rohn [6aWlD3NhIfs].webm
+
+- [00:00:00,000 - 00:00:08,280] Ambition is a powerful force. The power
+- [00:00:08,280 - 00:00:16,560] of ambition turns hopeful wishes into reality.
+- [00:00:16,560 - 00:00:20,160] It leads you on the right course to the
+- [00:00:20,160 - 00:00:23,760] good life. Legitimate ambition says I only want something at
+- [00:00:23,760 - 00:00:26,560] the service of others, not at the expense of
+- [00:00:26,560 - 00:00:29,360] others. If it is your ambition to be great,
+- [00:00:29,360 - 00:00:32,600] you must first find a way to do so by
+- [00:00:32,600 - 00:00:35,840] serving others. If it is your ambition to be wealthy,
+- [00:00:35,840 - 00:00:38,120] you must first learn how to give.
+- [00:00:38,120 - 00:00:40,400] If it is your ambition to be healthy,
+- [00:00:41,200 - 00:00:43,280] you must first learn to stop doing the
+- [00:00:43,280 - 00:00:45,360] things that can make you and others sick.
+- [00:00:46,960 - 00:00:49,880] This is Jim Rohn. You're about to hear
+- [00:00:49,880 - 00:00:52,800] why ambition is at the core of every success.
+- [00:00:53,760 - 00:00:56,319] I encourage you to listen well and take
+- [00:00:56,319 - 00:00:58,879] notes on the information that is relevant to you.
+- [00:01:00,080 - 00:01:02,799] But remember, this is only the beginning. The
+- [00:01:02,799 - 00:01:05,519] insights you will learn from this program are seeds
+- [00:01:06,080 - 00:01:09,760] that have the capacity to lead to extraordinary achievement.
+- [00:01:10,880 - 00:01:13,040] My hope is that you will
+- [00:01:13,040 - 00:01:15,200] cultivate these ideas with your own imagination
+- [00:01:15,200 - 00:01:18,640] and creativity. Water them with your faith.
+- [00:01:18,640 - 00:01:22,080] Intensify them with your activity so that they
+- [00:01:22,080 - 00:01:25,280] will grow and bear fruit. I'm always intrigued with
+- [00:01:25,280 - 00:01:28,480] the challenge of trying to put into words the
+- [00:01:29,360 - 00:01:32,400] best way to make a difference in a person's life.
+- [00:01:32,400 - 00:01:35,440] And now I have the pleasure of sharing these ideas
+- [00:01:36,080 - 00:01:36,640] with you.
+- [00:01:39,680 - 00:01:42,760] For more than 30 years, Jim Rohn has focused
+- [00:01:42,760 - 00:01:45,840] on the fundamentals of human behavior that lead to
+- [00:01:45,840 - 00:01:49,120] exceptional personal and business performance. And
+- [00:01:49,120 - 00:01:52,400] he has established an unparalleled reputation
+- [00:01:52,400 - 00:01:55,640] as a dynamic and memorable speaker. The power behind
+- [00:01:55,640 - 00:01:58,880] his message is not just in what you learn by
+- [00:01:58,880 - 00:02:02,240] listening, but in what you feel. For that reason,
+- [00:02:02,240 - 00:02:05,600] he is uniquely qualified to present The Power of
+- [00:02:05,600 - 00:02:08,839] Ambition. In this program, Jim will guide you to
+- [00:02:08,839 - 00:02:12,079] the true source of ambition, the one that resides
+- [00:02:12,079 - 00:02:15,199] within yourself. His inspirational approach will help
+- [00:02:15,199 - 00:02:18,320] you develop your inner motivation and drive,
+- [00:02:18,320 - 00:02:20,480] and you'll discover the insights and strategies that
+- [00:02:20,480 - 00:02:22,640] can bring you to the highest levels of
+- [00:02:22,640 - 00:02:23,280] achievement.
+- [00:02:24,400 - 00:02:25,000] So let's rejoin Jim now and learn how
+- [00:02:25,000 - 00:02:25,600] you can harness the power of your own motivation.
+- [00:02:25,600 - 00:02:26,320] The Power of Ambition
+- [00:02:26,320 - 00:02:26,880] The Power of Ambition
+- [00:02:26,880 - 00:02:27,519] The Power of Ambition
+- [00:02:27,519 - 00:02:28,000] The Power of Ambition
+- [00:02:28,000 - 00:02:28,480] The Power of Ambition
+- [00:02:28,480 - 00:02:28,720] The Power of Ambition
+- [00:02:28,720 - 00:02:28,800] The Power of Ambition
+- [00:02:28,800 - 00:02:28,880] The Power of Ambition
+- [00:02:28,880 - 00:02:29,380] The Power of Ambition
+- [00:02:29,380 - 00:02:29,880] The Power of Ambition
+- [00:02:29,880 - 00:02:30,380] The Power of Ambition
+- [00:02:30,380 - 00:02:30,880] The Power of Ambition
+- [00:02:30,880 - 00:02:39,920] The Power of Ambition
+- [00:02:39,920 - 00:02:41,240] To a lot of people,
+- [00:02:41,240 - 00:02:42,560] ambition is kind of a mystery.
+- [00:02:43,519 - 00:02:47,279] The dictionary says it's an eager desire for
+- [00:02:47,279 - 00:02:51,040] distinction, power, or fame. But what does that
+- [00:02:51,040 - 00:02:54,559] really mean? Well, let's start with the word
+- [00:02:54,559 - 00:02:58,079] eager. All by itself, eager is kind of exciting.
+- [00:02:58,080 - 00:02:59,640] The word eager is a word that means eager
+- [00:02:59,640 - 00:03:01,200] to do something. Kids are eager for their birthday parties.
+- [00:03:01,920 - 00:03:05,360] They expect to be the center of attention, get
+- [00:03:05,360 - 00:03:08,800] lots of presents, eat too much. I guess grownups are
+- [00:03:08,800 - 00:03:11,760] eager for birthdays too. Unless, of course, they're
+- [00:03:11,760 - 00:03:14,720] embarrassed that the number of candles on the cake
+- [00:03:14,720 - 00:03:18,080] outnumber their achievements. But we can be eager to see
+- [00:03:18,080 - 00:03:21,440] a ball game, eager to see our kids in a dance
+- [00:03:21,440 - 00:03:24,680] recital, eager to see an old friend, eager to shop for
+- [00:03:24,680 - 00:03:27,920] a new car, eager to see a new car, eager to see
+- [00:03:27,920 - 00:03:30,889] a new ball. Sure, humour, and all the way
+- [00:03:30,889 - 00:03:33,859] through that, sooner or later someone else might Walter
+- [00:03:33,859 - 00:03:34,809] Richard Hill actually be the one we think
+- [00:03:34,809 - 00:03:35,760] of as a darling or his best friend.
+- [00:03:35,760 - 00:03:36,639] You probably will not find someone like
+- [00:03:36,639 - 00:03:37,519] us played the last election in the future.
+- [00:03:37,519 - 00:03:49,160] But that's
+- [00:03:49,160 - 00:03:50,779] the mystery that I'm going through today,
+- [00:03:50,779 - 00:03:52,399] you going to be dying tomorrow for realistic
+- [00:03:52,399 - 00:03:52,909] wiege, imagining that, just as I do, being wise and
+- [00:03:52,909 - 00:03:53,420] smart enough to say that to those who are cute.
+- [00:03:53,420 - 00:03:53,570] We have the remarkable ability to get exactly what
+- [00:03:53,570 - 00:03:53,720] we must have. But there are times in our lives
+- [00:03:53,720 - 00:03:54,140] that we run into homeowners patterns, that remember it to
+- [00:03:54,140 - 00:03:54,560] be one of us, maybe we're sontraised, maybe we were
+- [00:03:54,560 - 00:03:54,800] not truly free to be which we would prefer
+- [00:03:54,800 - 00:03:55,040] it to be, but people do look forifall on us.
+- [00:03:55,040 - 00:03:55,760] When you get into the same fun that we
+- [00:03:55,760 - 00:03:56,480] see, you look at yourself. She calls it became bigger—
+- [00:03:56,480 - 00:04:00,740] must have but there is a difference between wishes
+- [00:04:00,740 - 00:04:05,000] and desires we've all heard people say oh I wish
+- [00:04:05,000 - 00:04:08,119] I could just drop five pounds I want to
+- [00:04:08,119 - 00:04:11,239] be a little lighter and we've probably said it ourselves
+- [00:04:11,239 - 00:04:14,779] especially after a big holiday dinner of turkey
+- [00:04:14,779 - 00:04:18,320] and homemade pie and every other thing we can
+- [00:04:18,320 - 00:04:21,769] possibly stuff ourselves with in one eight hour period
+- [00:04:21,769 - 00:04:25,219] of time and even though we may wish we
+- [00:04:25,220 - 00:04:28,070] can breathe a little easier in our clothing we
+- [00:04:28,070 - 00:04:30,920] have to have the desire to exercise a little more
+- [00:04:30,920 - 00:04:34,970] and eat a little less the I wish I could
+- [00:04:34,970 - 00:04:39,020] lose weight has to become I have the eager desire to
+- [00:04:39,020 - 00:04:42,080] lose weight I'm also sure you've heard people talk
+- [00:04:42,080 - 00:04:45,140] about wishing they had more money to pay the bills
+- [00:04:45,680 - 00:04:48,980] or take a vacation or just to take a
+- [00:04:48,980 - 00:04:52,280] little pressure off of life but before their lifestyle
+- [00:04:52,280 - 00:04:55,160] can change their wish needs to
+- [00:04:55,220 - 00:04:59,360] become a desire if they really desired change
+- [00:04:59,360 - 00:05:03,500] they wouldn't spend their evenings just watching TV and
+- [00:05:03,500 - 00:05:06,980] wishing they were doing something more the backbone
+- [00:05:06,980 - 00:05:10,460] of an eager desire to change is discipline
+- [00:05:11,540 - 00:05:14,570] true ambition is disciplined eager desire it's
+- [00:05:14,570 - 00:05:17,600] that little part within us that says
+- [00:05:17,600 - 00:05:20,660] if I want to be ready for that meeting
+- [00:05:20,660 - 00:05:23,720] tomorrow I need to finish preparing for it today
+- [00:05:24,620 - 00:05:25,160] if
+- [00:05:25,220 - 00:05:27,980] I want to make sure I can pay for
+- [00:05:27,980 - 00:05:30,740] my kids college education I need to start saving today
+- [00:05:31,460 - 00:05:33,890] if I want a better life tomorrow
+- [00:05:33,890 - 00:05:36,320] I need to start working on it today
+- [00:05:37,520 - 00:05:40,940] ambition is a minute by minute day by day
+- [00:05:40,940 - 00:05:44,360] Mentality to have the ambition to work towards a
+- [00:05:44,360 - 00:05:48,110] better family life a newer car a bigger house
+- [00:05:48,110 - 00:05:51,860] a financially secure future you have to live it
+- [00:05:51,860 - 00:05:52,760] every moment
+- [00:05:54,200 - 00:05:55,160] if living a
+- [00:05:55,220 - 00:05:58,870] life was easy, I'm sure more people would
+- [00:05:58,870 - 00:06:02,520] be successful. If just being ambitious was enough,
+- [00:06:03,160 - 00:06:05,640] I'm sure all of the broke and perplexed
+- [00:06:05,640 - 00:06:08,120] people in the world wouldn't be broke and perplexed.
+- [00:06:08,880 - 00:06:10,600] While most people spend most of
+- [00:06:10,600 - 00:06:12,320] their lives struggling to earn a living,
+- [00:06:12,940 - 00:06:15,790] a much smaller number seem to have everything
+- [00:06:15,790 - 00:06:18,640] going their way. Instead of just earning a living,
+- [00:06:19,200 - 00:06:21,280] the smaller group is busily working
+- [00:06:21,280 - 00:06:23,360] at building and enjoying a fortune.
+- [00:06:23,360 - 00:06:26,740] Everything just seems to work out for
+- [00:06:26,740 - 00:06:30,120] them. And here sits the much larger group,
+- [00:06:30,860 - 00:06:33,490] wondering in awe on how life
+- [00:06:33,490 - 00:06:36,120] can be so unfair, complicated, and unjust.
+- [00:06:36,940 - 00:06:38,800] So what's the major difference between
+- [00:06:38,800 - 00:06:40,660] the little group with so much
+- [00:06:40,660 - 00:06:43,900] and the larger group with so little?
+- [00:06:43,900 - 00:06:47,140] Despite all the factors that affect our lives,
+- [00:06:47,480 - 00:06:50,410] like the kind of parents we have, the schools we
+- [00:06:50,410 - 00:06:53,340] attended, the part of the country we grew up in,
+- [00:06:53,340 - 00:06:56,560] none has as much potential power for
+- [00:06:56,560 - 00:06:59,780] doing good as the ability to dream.
+- [00:07:01,060 - 00:07:03,579] Dreams are a projection of the kind of
+- [00:07:03,579 - 00:07:06,099] life we want to lead. Dreams can drive you.
+- [00:07:06,900 - 00:07:09,349] Dreams can make you skip over obstacles.
+- [00:07:09,349 - 00:07:11,799] When we allow our dreams to pull us,
+- [00:07:11,799 - 00:07:14,049] they unleash a creative force that
+- [00:07:14,049 - 00:07:16,299] can overpower everything in our way.
+- [00:07:17,299 - 00:07:19,279] To unleash this power, though,
+- [00:07:19,279 - 00:07:21,260] your dreams must be well defined.
+- [00:07:22,219 - 00:07:23,219] A fuzzy future has a future.
+- [00:07:23,340 - 00:07:25,439] A dream has little pull power.
+- [00:07:25,439 - 00:07:27,539] Well defined dreams are not fuzzy.
+- [00:07:28,580 - 00:07:31,629] Wishes are fuzzy. To really achieve your dreams,
+- [00:07:31,629 - 00:07:34,679] to really have your future plans pull you,
+- [00:07:35,280 - 00:07:38,669] your dreams must be vivid. If you've ever
+- [00:07:38,669 - 00:07:42,059] hiked a 14,000 foot peak in the Rocky Mountains,
+- [00:07:42,780 - 00:07:45,340] one thought has surely come to mind. How
+- [00:07:45,340 - 00:07:47,900] did the settlers of this country do it?
+- [00:07:48,380 - 00:07:50,799] How did they get from the East
+- [00:07:50,799 - 00:07:53,219] Coast to the West Coast? By foot.
+- [00:07:54,060 - 00:07:55,989] Carrying one day's supply of
+- [00:07:55,989 - 00:07:57,919] food and water is hard enough.
+- [00:07:58,380 - 00:08:00,029] Can you imagine hauling all
+- [00:08:00,029 - 00:08:01,679] of your worldly goods with you?
+- [00:08:02,200 - 00:08:06,080] Mile after mile, day after day, month after month?
+- [00:08:07,060 - 00:08:11,260] These people had dreams, big ones. They had ambition.
+- [00:08:12,179 - 00:08:13,599] They didn't focus on the
+- [00:08:13,599 - 00:08:15,020] hardship of getting up the mountain.
+- [00:08:16,059 - 00:08:18,859] In their minds, they were already on the other side.
+- [00:08:19,380 - 00:08:22,020] Their bodies just hadn't gotten them there yet.
+- [00:08:23,340 - 00:08:26,539] all of their pains and struggles births and deaths along
+- [00:08:26,539 - 00:08:29,739] the way those who made it to the other side
+- [00:08:29,739 - 00:08:33,699] had a single vision to reach the land
+- [00:08:33,699 - 00:08:37,659] of continuous sunshine and extraordinary wealth to start over
+- [00:08:37,659 - 00:08:40,779] where anything was possible where everything was
+- [00:08:40,779 - 00:08:43,900] possible their dreams were stronger than the
+- [00:08:43,900 - 00:08:47,540] obstacles in their way you've got to be a
+- [00:08:47,540 - 00:08:51,180] dreamer you've got to see the future finished in advance
+- [00:08:52,140 - 00:08:55,299] you've got to see california while you're climbing
+- [00:08:55,299 - 00:08:58,459] 14 000 foot peaks you've got to see
+- [00:08:58,459 - 00:09:00,939] the finish line while you're running the race
+- [00:09:00,939 - 00:09:03,420] you've got to hear the cheers when you're in
+- [00:09:03,420 - 00:09:06,379] the middle of a monster project and you've got
+- [00:09:06,379 - 00:09:09,339] to be willing to put yourself through the paces
+- [00:09:09,900 - 00:09:12,619] of doing the uncomfortable until it
+- [00:09:12,619 - 00:09:15,339] becomes comfortable because that's how you realize
+- [00:09:15,339 - 00:09:18,179] your dreams our great country
+- [00:09:18,179 - 00:09:21,020] was founded with dreams they've all
+- [00:09:21,020 - 00:09:21,040] went to the samekit where it was built for this
+- [00:09:21,040 - 00:09:21,060] reason it is there so all players came by none was
+- [00:09:21,060 - 00:09:21,079] electronically Today before interest spirits come they
+- [00:09:21,079 - 00:09:21,099] are cables all along the harsh changes
+- [00:09:21,099 - 00:09:21,129] it is here before interest Technologies are all
+- [00:09:21,129 - 00:09:21,160] coupled up in funerals because they will ensure their
+- [00:09:21,160 - 00:09:24,280] been important dreams are what caused thousands of
+- [00:09:24,280 - 00:09:27,400] people to leave their homes and families and start
+- [00:09:27,400 - 00:09:30,799] over in a land where anything was possible to
+- [00:09:30,799 - 00:09:34,199] this day dreams continue to bring people to our land
+- [00:09:34,199 - 00:09:37,759] of opportunity to a country where you can start
+- [00:09:37,759 - 00:09:41,319] with little and end up with a lot to america
+- [00:09:43,000 - 00:09:45,680] don't you sometimes wonder why so many immigrants
+- [00:09:45,680 - 00:09:48,360] who come to america can build a new life
+- [00:09:48,360 - 00:09:51,920] and a fortune while many of the people who
+- [00:09:51,920 - 00:09:55,480] were born here are barely surviving they have a dream
+- [00:09:55,480 - 00:09:59,320] a defined goal ambition aside from the pioneers
+- [00:09:59,320 - 00:10:03,160] that crossed the prairies and the mountains to
+- [00:10:03,160 - 00:10:06,480] reach their vision of hope and future promises
+- [00:10:06,480 - 00:10:09,800] there are other amazing examples of how ambition
+- [00:10:09,800 - 00:10:13,200] has shaped america take ben franklin for instance
+- [00:10:13,200 - 00:10:16,600] when most people think of ben franklin they
+- [00:10:16,600 - 00:10:18,360] remember the kite and the lightning bolt
+- [00:10:18,360 - 00:10:21,760] and the discovery of electricity what a lot of
+- [00:10:21,760 - 00:10:25,160] people may not know is that ben franklin was
+- [00:10:25,160 - 00:10:28,720] one of the first writers to address
+- [00:10:28,720 - 00:10:32,280] self-making when franklin started poor richard's almanac in
+- [00:10:32,280 - 00:10:36,360] 1732 he used the blank spaces between the
+- [00:10:36,360 - 00:10:40,440] crop data and the weather information to insert clever
+- [00:10:40,440 - 00:10:44,120] bits of moral and practical advice i'm sure you've
+- [00:10:44,120 - 00:10:47,800] heard the saying fish and company start to stink
+- [00:10:47,800 - 00:10:48,360] in three days
+- [00:10:48,360 - 00:10:52,400] well that was one of hundreds of ben
+- [00:10:52,400 - 00:10:56,440] franklin's comments on life another was diligence is the
+- [00:10:56,440 - 00:10:59,800] mother of good luck you know it's amazing
+- [00:10:59,800 - 00:11:03,160] how hard-working smart working people have all the
+- [00:11:03,160 - 00:11:07,000] luck we sometimes hear of a brand new
+- [00:11:07,000 - 00:11:10,840] musical group an overnight success they must have been
+- [00:11:10,840 - 00:11:14,000] in the right place at the right time knew the
+- [00:11:14,000 - 00:11:17,160] right people had a friend to help them out but
+- [00:11:17,160 - 00:11:18,200] if you've ever watched an
+- [00:11:18,200 - 00:11:20,320] interview with some of these folks
+- [00:11:20,320 - 00:11:22,440] you'll probably hear that their overnight success
+- [00:11:23,160 - 00:11:27,280] took several years diligence is the mother of
+- [00:11:27,280 - 00:11:31,400] good luck now in addition to these witticisms ben
+- [00:11:31,400 - 00:11:34,400] franklin gave us three principles of success and
+- [00:11:34,400 - 00:11:37,400] ambition that have withstood the test of time
+- [00:11:38,440 - 00:11:42,160] number one happiness doesn't come from big pieces
+- [00:11:42,160 - 00:11:45,880] of great success but from small advantages hammered
+- [00:11:45,880 - 00:11:47,000] out day by day
+- [00:11:48,200 - 00:11:50,080] what mr franklin is saying here is that
+- [00:11:50,080 - 00:11:51,960] we must be happy with what we've got
+- [00:11:52,600 - 00:11:56,320] when we're in pursuit of what we want too often we
+- [00:11:56,320 - 00:12:00,040] say oh i'll be happy when i just get that promotion
+- [00:12:00,840 - 00:12:04,800] i'll be happy when i just land that contract i'll
+- [00:12:04,800 - 00:12:08,760] be happy when i just have more money i'll be happy
+- [00:12:08,760 - 00:12:12,400] when i just just what you won't be any happier
+- [00:12:12,400 - 00:12:16,040] when you reach your goals than you are right now
+- [00:12:16,760 - 00:12:18,200] it just doesn't work that way
+- [00:12:18,200 - 00:12:21,760] abraham lincoln said it best he said you'll be
+- [00:12:21,760 - 00:12:25,320] as happy as you make up your mind to be
+- [00:12:26,840 - 00:12:29,880] right now whether you're on your way whether
+- [00:12:29,880 - 00:12:32,920] you've already gotten there you'll be as happy
+- [00:12:32,920 - 00:12:36,640] as you make up your mind to be now right
+- [00:12:36,640 - 00:12:40,360] now being happy on the way doesn't mean you can't
+- [00:12:40,360 - 00:12:44,080] aim for great things after all look at
+- [00:12:44,080 - 00:12:47,800] everything franklin accomplished in his lifetime it means that
+- [00:12:47,800 - 00:12:51,199] big achievements come one small advantage at a time
+- [00:12:51,199 - 00:12:54,599] it means that you've got to enjoy the journey
+- [00:12:55,479 - 00:12:57,479] it means that you must enjoy
+- [00:12:57,479 - 00:12:59,479] and take pride in your little accomplishments
+- [00:13:00,520 - 00:13:04,400] it means enjoying who you are becoming in pursuit
+- [00:13:04,400 - 00:13:08,280] of your eager desire every day every single day
+- [00:13:09,719 - 00:13:13,679] ben franklin's second principle said that life is plastic
+- [00:13:13,679 - 00:13:17,640] within each of us is the power to mold mold
+- [00:13:17,640 - 00:13:20,800] ourselves and mold our environment it is up
+- [00:13:20,800 - 00:13:23,960] to each of us to begin this molding process
+- [00:13:24,520 - 00:13:28,120] with a final product in mind and it is within
+- [00:13:28,120 - 00:13:31,720] our power to work it and form it every minute every
+- [00:13:31,720 - 00:13:35,640] day every month every year by using your mind
+- [00:13:35,640 - 00:13:39,560] and your abilities and your attitude to work a little
+- [00:13:39,560 - 00:13:43,080] each day on molding your life you'll soon see
+- [00:13:43,080 - 00:13:46,600] how magnificent your power is to gain those small
+- [00:13:46,600 - 00:13:47,080] advantages each day and you'll see how magnificent
+- [00:13:47,080 - 00:13:47,560] your power is to gain those small advantages each
+- [00:13:47,560 - 00:13:51,920] day the little steps it takes to build
+- [00:13:51,920 - 00:13:56,280] up to success principle number three success is a
+- [00:13:56,280 - 00:14:00,600] pleasure success is a pleasure if what you
+- [00:14:00,600 - 00:14:04,920] are doing today isn't satisfying gratifying guess what
+- [00:14:05,560 - 00:14:08,439] you're really not successful if you are not
+- [00:14:08,439 - 00:14:11,319] fulfilled with what you are doing today you
+- [00:14:11,319 - 00:14:14,399] cannot possibly be successful it doesn't matter how
+- [00:14:14,399 - 00:14:17,479] many worldly possessions you may have how many
+- [00:14:17,560 - 00:14:21,360] cars how many toys how much money if you're not
+- [00:14:21,360 - 00:14:25,160] happy with your life as it is you cannot be
+- [00:14:25,160 - 00:14:28,439] successful now i know that success is a
+- [00:14:28,439 - 00:14:31,719] relative term it means different things to different people
+- [00:14:32,839 - 00:14:36,479] to a school kid success may mean a star on
+- [00:14:36,479 - 00:14:40,119] top of his latest test to a homemaker it probably means
+- [00:14:40,119 - 00:14:43,719] that she has a well-run household and a
+- [00:14:43,719 - 00:14:47,319] wonderful family to an outside professional it's most likely
+- [00:14:47,560 - 00:14:50,999] to let them push you too far because there's
+- [00:14:50,999 - 00:14:54,439] no tomorrow but you're not getting any share of any
+- [00:14:54,439 - 00:14:58,119] success and assuming you've done first made
+- [00:14:58,119 - 00:15:01,800] they will know that you're harnessing and you're
+- [00:15:01,800 - 00:15:05,840] not the only one out of this world or next
+- [00:15:05,840 - 00:15:09,880] Friday let me make it clear i have i have possibilities
+- [00:15:09,880 - 00:15:12,320] create all sorts of categories i've appear on top
+- [00:15:12,320 - 00:15:14,760] of many projects look at the chart these days all
+- [00:15:14,760 - 00:15:16,680] there's only one way up
+- [00:15:17,560 - 00:15:20,399] think about it and write it down if at the end
+- [00:15:20,399 - 00:15:23,239] of the day you can jot down the things that have
+- [00:15:23,239 - 00:15:26,559] made it a good day you will soon see patterns
+- [00:15:26,559 - 00:15:29,880] forming this really is a good habit to get into
+- [00:15:30,760 - 00:15:33,280] when you can see a pattern of pleasure
+- [00:15:33,280 - 00:15:35,800] you'll know you're on the road to success
+- [00:15:37,479 - 00:15:39,399] so take note of mr franklin's
+- [00:15:39,399 - 00:15:41,319] three principles of success and ambition
+- [00:15:41,320 - 00:15:45,360] number one big achievements come one small advantage at
+- [00:15:45,360 - 00:15:49,400] a time one step at a time one day
+- [00:15:49,400 - 00:15:53,760] at a time number two you have the power to mold
+- [00:15:53,760 - 00:15:58,120] your life to make it whatever you want to shape it
+- [00:15:58,760 - 00:16:02,160] and reshape it and number three success is
+- [00:16:02,160 - 00:16:05,560] measured through pleasure this is the key one
+- [00:16:06,520 - 00:16:08,800] success is measured through pleasure you've
+- [00:16:08,800 - 00:16:11,080] got to be happy along the way
+- [00:16:11,880 - 00:16:15,160] you've got to learn to give yourself a pat on
+- [00:16:15,160 - 00:16:18,440] the back good job you need to tell yourself i'm proud
+- [00:16:18,440 - 00:16:22,760] of me today you've got to be happy you've got
+- [00:16:22,760 - 00:16:27,080] to learn to enjoy the process these are really common
+- [00:16:27,080 - 00:16:30,400] sense ideas they're practical and william james agreed
+- [00:16:30,400 - 00:16:33,720] he's another american great one of the most
+- [00:16:33,720 - 00:16:36,760] notable philosophers and psychologists in our
+- [00:16:36,760 - 00:16:39,800] history and he founded a philosophy called
+- [00:16:39,800 - 00:16:40,600] pragmatism
+- [00:16:42,200 - 00:16:45,760] to be pragmatic is to be practical to test
+- [00:16:45,760 - 00:16:49,320] the validity of a concept by its practical results
+- [00:16:50,280 - 00:16:52,720] to actually question something and rate its
+- [00:16:52,720 - 00:16:55,160] usefulness by what it can do for you
+- [00:16:56,200 - 00:16:59,600] to hear a method of doing something and figuring
+- [00:16:59,600 - 00:17:03,000] out if it's even worth your while one of the
+- [00:17:03,000 - 00:17:06,119] issues mr james dealt with in his lifetime was
+- [00:17:06,119 - 00:17:09,240] what does it mean to be a success a significant
+- [00:17:09,240 - 00:17:09,960] person what is it mean to be a success and what
+- [00:17:09,960 - 00:17:10,680] is it for you now it's easy you don't need to know
+- [00:17:10,680 - 00:17:10,920] that at all after years and years of
+- [00:17:10,920 - 00:17:11,160] professional development here's a list of the practical results
+- [00:17:11,160 - 00:17:14,310] years of pondering this question William James
+- [00:17:14,310 - 00:17:17,460] described success as a combination of two things
+- [00:17:18,480 - 00:17:22,290] number one an inner ideal which is
+- [00:17:22,290 - 00:17:26,099] followed persistently with courage and number two
+- [00:17:26,940 - 00:17:31,140] outer achievement related to that ideal let's go
+- [00:17:31,140 - 00:17:35,340] back to number one an inner ideal which is
+- [00:17:35,340 - 00:17:38,879] followed persistently with courage I take that to
+- [00:17:38,879 - 00:17:42,419] mean defining a goal and having the resolve
+- [00:17:42,419 - 00:17:47,219] to complete it no matter what I'll do it
+- [00:17:47,219 - 00:17:52,020] or die promise yourself you'll read the books until your
+- [00:17:52,020 - 00:17:56,070] skills change go to the seminars until you get a
+- [00:17:56,070 - 00:18:00,120] handle on it do it until it makes sense practice
+- [00:18:00,120 - 00:18:02,700] it until you've got it right don't give
+- [00:18:02,700 - 00:18:05,280] up until you get where you want to be
+- [00:18:05,340 - 00:18:10,980] however long that is step by step piece by piece
+- [00:18:10,980 - 00:18:16,620] book by book seminar by seminar do it until go for
+- [00:18:17,520 - 00:18:21,270] until is a very important word it's magic it means
+- [00:18:21,270 - 00:18:25,020] that you'll never give up don't miss the chance to
+- [00:18:25,020 - 00:18:29,130] grow to pay the price until you learn
+- [00:18:29,130 - 00:18:33,240] change grow you'll discover some of life's great treasures
+- [00:18:33,240 - 00:18:34,740] when you pay that price
+- [00:18:35,340 - 00:18:38,430] William James second part to success dealt
+- [00:18:38,430 - 00:18:41,520] with the outer achievement related to that ideal
+- [00:18:42,840 - 00:18:46,230] you need both aspects to really be a success
+- [00:18:46,230 - 00:18:49,620] but what Dr James realized about his philosophy of
+- [00:18:49,620 - 00:18:53,909] success was that the first part is indeed more
+- [00:18:53,909 - 00:18:58,199] important than the second going for it as long
+- [00:18:58,199 - 00:19:01,349] as you're working toward your inner goal your
+- [00:19:01,349 - 00:19:04,500] dream then success is possible but once you give
+- [00:19:05,340 - 00:19:09,239] in then you can never become successful you
+- [00:19:09,239 - 00:19:13,139] never will become successful until doesn't even matter
+- [00:19:15,120 - 00:19:17,639] now maybe the person who's been working on a
+- [00:19:17,639 - 00:19:20,159] project for 10 years can be successful in his
+- [00:19:20,159 - 00:19:23,879] own right if he's honestly working toward it
+- [00:19:23,879 - 00:19:27,600] doing everything to make himself worthy of reaching the
+- [00:19:27,600 - 00:19:30,330] dream really happy with where he is doing it until
+- [00:19:30,330 - 00:19:33,060] then maybe he is doing it until he's doing it until
+- [00:19:35,340 - 00:19:37,810] he's getting value for it so beautiful right and so
+- [00:19:37,810 - 00:19:40,280] I think all right I have tried my best to
+- [00:19:41,199 - 00:19:43,149] reassure American artists of anything it
+- [00:19:43,149 - 00:19:45,100] Personal intelligence if you feel that's
+- [00:19:45,100 - 00:19:45,300] what they want
+- [00:19:45,300 - 00:19:48,450] rather than mine to chúng and Lord and
+- [00:19:48,450 - 00:19:51,600] all I can say is qualidade to you .
+- [00:19:51,600 - 00:19:53,879] My dear friends Today's lesson is over that
+- [00:19:53,879 - 00:19:56,159] and I hope you enjoyed it and I hope
+- [00:19:56,159 - 00:19:58,689] you got as many of them as you like but
+- [00:19:58,689 - 00:20:01,220] we're only getting half as you can you know that reason
+- [00:20:01,220 - 00:20:05,000] not major things but little everyday things things
+- [00:20:05,000 - 00:20:08,780] you may not even notice unless you are paying
+- [00:20:08,780 - 00:20:12,470] attention if you're one of those who'd rather stay
+- [00:20:12,470 - 00:20:16,160] up late and get up late only to discover
+- [00:20:16,160 - 00:20:19,130] that your workplace doesn't fit your schedule and you
+- [00:20:19,130 - 00:20:22,100] roll out of bed cursing the alarm clock every
+- [00:20:22,100 - 00:20:24,980] morning maybe you could start with the little change
+- [00:20:24,980 - 00:20:27,860] of going to bed half an hour earlier than
+- [00:20:27,860 - 00:20:31,850] normal and maybe you'll see in time of course
+- [00:20:31,850 - 00:20:35,840] you can't train your body overnight maybe you'll find
+- [00:20:35,840 - 00:20:38,869] out that you jump out of bed in a better
+- [00:20:38,869 - 00:20:41,899] mood and that your day will start better and that you'll
+- [00:20:41,899 - 00:20:44,689] get more done and that the people around you
+- [00:20:44,689 - 00:20:47,479] that caused you problems aren't so hard to work with
+- [00:20:47,479 - 00:20:52,369] after all it all starts by making one little
+- [00:20:52,369 - 00:20:57,260] change and adding to it every day you see you
+- [00:20:57,260 - 00:20:57,800] can't change
+- [00:20:57,860 - 00:21:00,350] what's going on around you without
+- [00:21:00,350 - 00:21:02,840] first changing what's going on within you
+- [00:21:03,860 - 00:21:06,889] start changing how you look at mornings and
+- [00:21:06,889 - 00:21:09,919] sure enough people will start changing how they look
+- [00:21:09,919 - 00:21:12,709] at you when you start changing how you
+- [00:21:12,709 - 00:21:15,500] think how you act how you treat others
+- [00:21:15,500 - 00:21:18,270] how you treat yourself when you
+- [00:21:18,270 - 00:21:21,040] start responding instead of reacting to life
+- [00:21:21,040 - 00:21:24,440] life will start responding to you I'm telling you
+- [00:21:24,440 - 00:21:27,840] that you can do it with your lifestyle you
+- [00:21:27,840 - 00:21:31,239] do it with your sales career. You can do it
+- [00:21:31,239 - 00:21:34,639] with your management career. You can do it with any
+- [00:21:34,639 - 00:21:37,699] part of your life. If you are looking for
+- [00:21:37,699 - 00:21:40,760] equities unmatched, don't curse the only thing you have,
+- [00:21:41,020 - 00:21:44,680] seed and soil, sunshine and rain, miracle
+- [00:21:44,680 - 00:21:48,340] and seasons. But start processing things like we're
+- [00:21:48,340 - 00:21:51,450] covering in this program and change will take
+- [00:21:51,450 - 00:21:54,560] off for you. You cannot believe what can happen
+- [00:21:54,560 - 00:21:58,250] in such a short period of time. So you
+- [00:21:58,250 - 00:22:01,940] ask yourself, what small changes can I start making
+- [00:22:01,940 - 00:22:05,380] today? Well, you can start in your car on
+- [00:22:05,380 - 00:22:08,820] your way to work. If you're sitting on the highway,
+- [00:22:09,179 - 00:22:12,929] stop and go traffic, moving at about 15 miles per
+- [00:22:12,929 - 00:22:16,679] hour tops, look at the guy or the lady sitting
+- [00:22:16,679 - 00:22:20,529] next to you and give them a smile or thumbs
+- [00:22:20,529 - 00:22:24,379] up or even wave. Now, some people might think you're a
+- [00:22:24,379 - 00:22:24,459] little shy, but that's not the case. You can start
+- [00:22:24,459 - 00:22:24,540] making changes in your car on your way to work.
+- [00:22:24,540 - 00:22:28,140] But hey, you'll feel better. And tomorrow when you
+- [00:22:28,140 - 00:22:31,740] get into the office, how about a big cheery hello
+- [00:22:31,740 - 00:22:34,830] to the people at the front desk and everyone you
+- [00:22:34,830 - 00:22:37,920] see on the way to your office? And when you get
+- [00:22:37,920 - 00:22:40,970] home tonight, how about giving your wife or
+- [00:22:40,970 - 00:22:44,020] husband and kids big hugs instead of collapsing
+- [00:22:44,020 - 00:22:47,120] on the sofa? When you start with the
+- [00:22:47,120 - 00:22:50,220] little things that make others happy, improve their day,
+- [00:22:50,580 - 00:22:52,109] you'll find that these little
+- [00:22:52,109 - 00:22:53,639] things add up to big ones.
+- [00:22:54,540 - 00:22:56,360] So what happens when you start
+- [00:22:56,360 - 00:22:58,180] taking charge of your own personal happiness,
+- [00:22:58,920 - 00:23:01,550] your own life? Do you think that these
+- [00:23:01,550 - 00:23:04,180] little things will somehow make a difference in meeting
+- [00:23:04,180 - 00:23:07,620] your goals? You bet they will. You can't
+- [00:23:07,620 - 00:23:11,060] do it alone. You can't be successful by yourself.
+- [00:23:11,960 - 00:23:14,830] It's hard to find a rich hermit, you
+- [00:23:14,830 - 00:23:17,700] know. The ambitious person realizes that each of us
+- [00:23:17,700 - 00:23:20,750] needs all of us. You all by
+- [00:23:20,750 - 00:23:23,800] yourself may have finalized the company's marketing plan
+- [00:23:23,800 - 00:23:24,160] or have a business plan. You can't do
+- [00:23:24,160 - 00:23:24,520] it alone. You can't be successful by yourself.
+- [00:23:24,520 - 00:23:34,960] You can't be promised anything that you wish
+- [00:23:34,960 - 00:23:45,400] for because of it. You can't. The drie
+- [00:23:48,500 - 00:23:51,030] Nos trading will depend on you. For this job, it
+- [00:23:51,030 - 00:23:53,560] will depend on you many a time, am I right?
+- [00:23:53,560 - 00:23:53,690] Most times. But no matter what method you choose,
+- [00:23:53,690 - 00:23:53,820] you'll find what works which is best for you.
+- [00:23:53,820 - 00:23:53,900] It's like we're in a 찾 artifacts should
+- [00:23:53,900 - 00:23:53,980] we try to understand that better than anything else?
+- [00:23:53,980 - 00:23:55,960] Even a thank you note.
+- [00:23:55,960 - 00:23:57,940] Thank you notes are so important.
+- [00:23:58,720 - 00:24:01,100] After all, without your support team, you
+- [00:24:01,100 - 00:24:03,480] probably wouldn't be where you are today.
+- [00:24:04,540 - 00:24:06,860] You can't be successful by yourself.
+- [00:24:07,740 - 00:24:10,180] So thank them. Thank those around you.
+- [00:24:10,740 - 00:24:12,240] And let them know just
+- [00:24:12,240 - 00:24:13,740] how important they are to you.
+- [00:24:14,680 - 00:24:16,350] Be it your office personnel
+- [00:24:16,350 - 00:24:18,020] or your family or your friends.
+- [00:24:18,600 - 00:24:20,700] A thank you sure goes a long way.
+- [00:24:20,700 - 00:24:24,330] So, is it important to do a little extra for
+- [00:24:24,330 - 00:24:27,960] these people as you are working your way toward your goals?
+- [00:24:28,560 - 00:24:31,460] I think so. I'm sure you do too.
+- [00:24:40,660 - 00:24:43,660] Once you've decided that you're going to set sail, go
+- [00:24:43,660 - 00:24:46,660] for it and let loose on your new charted course.
+- [00:24:46,920 - 00:24:48,790] You don't have to worry about the
+- [00:24:48,790 - 00:24:50,660] winds that will most certainly blow away.
+- [00:24:50,700 - 00:24:53,200] The people around you, the obstacles, the
+- [00:24:53,200 - 00:24:55,700] negativity that will stand in your way.
+- [00:24:56,460 - 00:24:57,960] You don't have to worry
+- [00:24:57,960 - 00:24:59,460] about what other people will say.
+- [00:24:59,840 - 00:25:02,840] You just have to keep your mind on your course.
+- [00:25:03,420 - 00:25:05,920] Those winds may blow fast and furious.
+- [00:25:06,220 - 00:25:08,220] But if you know your path,
+- [00:25:08,220 - 00:25:10,220] if you know where you are going,
+- [00:25:10,840 - 00:25:14,340] they will help push you toward the dreams and goals
+- [00:25:14,340 - 00:25:17,840] and treasures that you have already decided you're going after.
+- [00:25:18,440 - 00:25:20,440] Your goals will push you forward.
+- [00:25:21,000 - 00:25:23,000] Ahead of the stormy weather.
+- [00:25:23,840 - 00:25:25,840] There are some amazing people around
+- [00:25:25,840 - 00:25:27,840] that we can learn from today.
+- [00:25:28,180 - 00:25:30,180] People who have already braved the
+- [00:25:30,180 - 00:25:32,180] storms and come out on top.
+- [00:25:32,680 - 00:25:34,680] People who are still alive today.
+- [00:25:35,560 - 00:25:37,560] People who started with nothing
+- [00:25:37,560 - 00:25:39,560] and ended up with something great.
+- [00:25:40,040 - 00:25:42,040] Famous people, not so famous people.
+- [00:25:43,240 - 00:25:47,240] Maybe even people you know but don't know their stories.
+- [00:25:47,980 - 00:25:49,980] People who had an early vision, an ambition,
+- [00:25:50,440 - 00:25:52,830] people who turn their focused
+- [00:25:52,830 - 00:25:55,220] dreams into the reality of success.
+- [00:25:56,160 - 00:25:59,140] One of my friends tells this story about her dad.
+- [00:26:00,060 - 00:26:01,020] She thinks he's cheap.
+- [00:26:01,860 - 00:26:04,200] She gives him a hard time every time
+- [00:26:04,200 - 00:26:06,540] they go to one of those all-you-can-eat places
+- [00:26:06,540 - 00:26:08,960] because he eats all he
+- [00:26:08,960 - 00:26:11,380] can eat until he can't move,
+- [00:26:12,040 - 00:26:14,640] until he needs to take something for indigestion.
+- [00:26:15,500 - 00:26:18,980] But she knows where he came from, his history,
+- [00:26:18,980 - 00:26:22,960] and understands just why he is the way he is.
+- [00:26:23,640 - 00:26:26,020] He eats all he can eat
+- [00:26:26,020 - 00:26:28,400] because he was raised in an orphanage,
+- [00:26:28,660 - 00:26:30,670] a place where you had to grab
+- [00:26:30,670 - 00:26:32,680] all you could or you'd be hungry.
+- [00:26:33,540 - 00:26:35,820] But the real story behind her father
+- [00:26:35,820 - 00:26:38,100] is that he made himself a millionaire
+- [00:26:38,100 - 00:26:40,860] with nothing more than a dream.
+- [00:26:41,600 - 00:26:44,820] He watched his own father drown when he was four,
+- [00:26:45,300 - 00:26:48,040] was taken away from his mother a few years later
+- [00:26:48,040 - 00:26:48,820] and put into an orphanage.
+- [00:26:48,980 - 00:26:51,520] Because he was so bad.
+- [00:26:52,580 - 00:26:55,220] Raised by other people, strangers.
+- [00:26:56,220 - 00:26:57,970] After growing up in foster homes, he
+- [00:26:57,970 - 00:26:59,720] decided to go out on his own.
+- [00:27:00,520 - 00:27:02,260] He barely finished high school,
+- [00:27:02,800 - 00:27:05,920] but he found a job as a vacuum cleaner salesman.
+- [00:27:06,760 - 00:27:09,060] He did well, really well.
+- [00:27:09,820 - 00:27:11,720] But the woman he loved didn't
+- [00:27:11,720 - 00:27:13,620] want to marry a vacuum cleaner salesman,
+- [00:27:14,040 - 00:27:16,300] and he really didn't want to be one.
+- [00:27:16,660 - 00:27:18,280] So he went to college,
+- [00:27:18,280 - 00:27:20,280] went on to medical school,
+- [00:27:21,100 - 00:27:23,100] prospered, really prospered,
+- [00:27:23,720 - 00:27:27,100] led a tremendously successful life as a radiologist,
+- [00:27:27,660 - 00:27:28,980] and is now retired,
+- [00:27:29,740 - 00:27:30,600] goes fishing,
+- [00:27:31,420 - 00:27:32,420] rides his Harley.
+- [00:27:33,940 - 00:27:37,100] Stories of success are all around us, everywhere.
+- [00:27:38,200 - 00:27:39,900] Take the time to talk to
+- [00:27:39,900 - 00:27:41,600] these people or read their stories.
+- [00:27:42,300 - 00:27:43,580] You might learn something.
+- [00:27:44,139 - 00:27:46,139] You might find out that they have
+- [00:27:46,139 - 00:27:48,139] already traveled the path you are now on.
+- [00:27:48,280 - 00:27:52,500] You know, when most of us think of Jesse Jackson,
+- [00:27:52,500 - 00:27:54,840] we think of the political Jesse Jackson.
+- [00:27:55,840 - 00:27:58,890] But what most of us don't realize is that
+- [00:27:58,890 - 00:28:01,940] before Jesse Jackson went to the streets to gain votes,
+- [00:28:02,600 - 00:28:04,600] he went to the ghettos with
+- [00:28:04,600 - 00:28:06,600] a message for inner city youth.
+- [00:28:07,480 - 00:28:09,140] During his rallies, he would have
+- [00:28:09,140 - 00:28:10,800] the street kids repeat after him,
+- [00:28:11,280 - 00:28:12,800] I am somebody.
+- [00:28:13,780 - 00:28:15,920] Jesse Jackson's message to these kids
+- [00:28:15,920 - 00:28:18,060] was that ambition is a moral,
+- [00:28:18,060 - 00:28:19,060] imperative.
+- [00:28:19,919 - 00:28:21,080] To be a good person,
+- [00:28:21,379 - 00:28:22,740] you have to have ambition.
+- [00:28:23,560 - 00:28:24,750] You have to try to
+- [00:28:24,750 - 00:28:25,940] do something good with your life.
+- [00:28:26,780 - 00:28:28,280] You have to try to get
+- [00:28:28,280 - 00:28:29,780] out of where you are today
+- [00:28:30,300 - 00:28:33,200] or make where you are a better place tomorrow.
+- [00:28:34,260 - 00:28:35,080] You have to,
+- [00:28:35,820 - 00:28:37,780] or anything else is a waste.
+- [00:28:39,000 - 00:28:41,150] Mr. Jackson knew that his contribution
+- [00:28:41,150 - 00:28:43,300] to life began with America's youth,
+- [00:28:43,980 - 00:28:45,960] where he could make a difference
+- [00:28:45,960 - 00:28:47,940] before bad attitudes and bad habits took
+- [00:28:47,940 - 00:28:48,040] over.
+- [00:28:48,060 - 00:28:48,940] For good.
+- [00:28:49,940 - 00:28:51,730] He went to make a difference
+- [00:28:51,730 - 00:28:53,520] with the disadvantaged youth of America.
+- [00:28:54,440 - 00:28:55,740] What an admirable mission.
+- [00:28:57,139 - 00:29:01,139] I'm sure you know that the same principles he teaches apply to you
+- [00:29:01,139 - 00:29:05,139] when you get up tomorrow morning and are standing in front of the mirror,
+- [00:29:05,139 - 00:29:06,460] getting ready for the day.
+- [00:29:06,460 - 00:29:11,700] Remind yourself that you are somebody that you are important and that you
+- [00:29:11,700 - 00:29:16,940] can make the changes that will move you closer to your ideal future.
+- [00:29:18,620 - 00:29:21,759] Listening to the words of people like
+- [00:29:21,759 - 00:29:24,899] jesse Jackson are of total importance because motivation
+- [00:29:24,899 - 00:29:28,240] lasting motivation is backed with education.
+- [00:29:29,200 - 00:29:31,899] Many of these people have written books on their journeys.
+- [00:29:32,560 - 00:29:34,790] These books tell the stories and give
+- [00:29:34,790 - 00:29:37,020] the secrets that we can all learn from.
+- [00:29:38,320 - 00:29:40,060] Let's say you decided to take a trip,
+- [00:29:40,100 - 00:29:41,000] just a short one,
+- [00:29:41,379 - 00:29:42,580] maybe for a weekend.
+- [00:29:43,220 - 00:29:45,120] Let's say you want to go away
+- [00:29:45,120 - 00:29:47,020] to a place you've never been before.
+- [00:29:47,060 - 00:29:47,899] Wouldn't you want to go to真鍾时這邊?
+- [00:29:47,900 - 00:29:51,060] to find someone who had been there ask them a
+- [00:29:51,060 - 00:29:54,220] few questions what's the best way to get there the
+- [00:29:54,220 - 00:29:58,060] safest route the quickest route what do i need
+- [00:29:58,060 - 00:30:01,900] to bring to be totally prepared what fun things
+- [00:30:01,900 - 00:30:05,460] should i look for on the way what dangers do
+- [00:30:05,460 - 00:30:09,020] i need to avoid by talking with someone who has
+- [00:30:09,020 - 00:30:12,740] already been there it'll make your trip that much
+- [00:30:12,740 - 00:30:16,460] more enjoyable it's the same thing with life by
+- [00:30:16,460 - 00:30:18,740] listening to those who are farther along in
+- [00:30:18,740 - 00:30:21,020] the journey the journey you are interested in taking
+- [00:30:21,980 - 00:30:24,660] and learning from their successes and failures you
+- [00:30:24,660 - 00:30:27,340] just might pick up something that will make
+- [00:30:27,340 - 00:30:30,700] your journey that much better listening to
+- [00:30:30,700 - 00:30:34,060] the stories of others can be motivating captivating
+- [00:30:34,780 - 00:30:37,260] they can provide that extra push you've
+- [00:30:37,260 - 00:30:39,740] been looking for they can demonstrate what the
+- [00:30:39,740 - 00:30:42,820] power of ambition is truly all about
+- [00:30:42,820 - 00:30:45,900] they've been there their knowledge is valuable
+- [00:30:47,020 - 00:30:50,260] and when you use that knowledge and
+- [00:30:50,260 - 00:30:53,500] motivation to take action you'll gain momentum eventually
+- [00:30:53,500 - 00:30:56,220] you will find that the key to
+- [00:30:56,220 - 00:30:58,940] motivation true motivation is right there inside you
+- [00:30:59,660 - 00:31:02,580] you won't have to look elsewhere to get
+- [00:31:02,580 - 00:31:05,500] pumped up turned on charged up with the
+- [00:31:05,500 - 00:31:08,180] right knowledge behind you you will learn
+- [00:31:08,180 - 00:31:10,860] how to motivate yourself with the right
+- [00:31:10,860 - 00:31:13,460] knowledge you will find yourself becoming inspired
+- [00:31:13,460 - 00:31:16,060] on your own by your own learning
+- [00:31:16,460 - 00:31:19,060] by your own discovering.
+- [00:31:19,060 - 00:31:21,500] You won't have to hope that somebody comes along
+- [00:31:21,500 - 00:31:23,880] to turn you on in the morning.
+- [00:31:23,880 - 00:31:26,020] They might not show up.
+- [00:31:26,020 - 00:31:28,880] You'll find that your journey of pursuit
+- [00:31:28,880 - 00:31:31,420] is the best alarm clock in the world.
+- [00:31:32,780 - 00:31:35,580] So let's go on to determine the six steps
+- [00:31:35,580 - 00:31:37,400] for building your ambition.
+- [00:31:37,400 - 00:31:39,200] We'll begin on side two.
+- [00:31:46,460 - 00:31:59,620] Joseph Epstein wrote a book called Ambition.
+- [00:31:59,620 - 00:32:03,060] In his book, Epstein defines ambition
+- [00:32:03,060 - 00:32:05,000] as the fuel of achievement.
+- [00:32:06,060 - 00:32:08,740] He says that everybody has a need for achievement,
+- [00:32:09,140 - 00:32:12,000] to do well, to get somewhere in life,
+- [00:32:12,000 - 00:32:14,840] to be better, to achieve.
+- [00:32:16,220 - 00:32:16,440] Achievement.
+- [00:32:16,440 - 00:32:16,460] Achievement.
+- [00:32:16,460 - 00:32:18,080] Achievement means moving forward.
+- [00:32:18,840 - 00:32:20,240] And in order to move forward,
+- [00:32:20,640 - 00:32:23,800] you must be motivated, inspired, ambitious.
+- [00:32:24,600 - 00:32:27,780] You must have dreams and goals that create ambition.
+- [00:32:28,540 - 00:32:29,500] Good ambition.
+- [00:32:30,160 - 00:32:31,000] Positive ambition.
+- [00:32:32,720 - 00:32:35,280] Now, ambition does not mean being greedy.
+- [00:32:36,240 - 00:32:37,920] It does not mean being selfish.
+- [00:32:38,680 - 00:32:40,290] It does not mean getting
+- [00:32:40,290 - 00:32:41,900] ahead at the expense of others.
+- [00:32:43,280 - 00:32:44,640] Ambition is not greed.
+- [00:32:45,240 - 00:32:46,440] Ambition is not ambition.
+- [00:32:46,440 - 00:32:49,480] It is to be generous and all-consuming desire for wealth.
+- [00:32:50,620 - 00:32:52,330] Ambition is not hoping you can
+- [00:32:52,330 - 00:32:54,040] win at the expense of others.
+- [00:32:54,820 - 00:32:56,920] Do you suppose Judas was ambitious?
+- [00:32:58,100 - 00:33:00,440] He ended up with 30 pieces of silver,
+- [00:33:00,980 - 00:33:02,600] a fortune in those days.
+- [00:33:03,360 - 00:33:06,420] Was Judas successful because he had all that money?
+- [00:33:07,320 - 00:33:09,100] No, Judas sold out.
+- [00:33:10,160 - 00:33:12,660] Was Judas happy when it was all over with?
+- [00:33:13,420 - 00:33:13,880] No.
+- [00:33:14,400 - 00:33:16,000] The money didn't make him happy.
+- [00:33:17,160 - 00:33:20,160] what he did to get the money certainly didn't
+- [00:33:20,160 - 00:33:23,160] make him happy what judas became in the pursuit
+- [00:33:23,160 - 00:33:27,560] of his fortune caused him to end his own life
+- [00:33:27,560 - 00:33:31,960] what drove him was not ambition ambition is not greed
+- [00:33:33,240 - 00:33:37,000] ambition is an eager desire to achieve an eager desire
+- [00:33:37,000 - 00:33:40,760] to get ahead in life to do more for your
+- [00:33:40,760 - 00:33:44,360] family to prosper in health wealth
+- [00:33:44,360 - 00:33:47,960] and relationships now desire does not always
+- [00:33:47,960 - 00:33:51,720] translate into ambition desire is what you want for
+- [00:33:51,720 - 00:33:55,480] yourself a bigger house a better car a fatter
+- [00:33:55,480 - 00:33:59,560] bank account a better life i desire to
+- [00:33:59,560 - 00:34:03,640] have these things ambition is how you get there
+- [00:34:04,840 - 00:34:09,320] desire is sometimes healthy desire is sometimes unhealthy
+- [00:34:10,280 - 00:34:10,679] desire is sometimes unhealthy
+- [00:34:10,760 - 00:34:14,000] might say i want the tallest building in town
+- [00:34:14,000 - 00:34:17,239] the destructive side of desire might urge you to tear
+- [00:34:17,239 - 00:34:20,520] all of the other buildings down i guess that's one
+- [00:34:20,520 - 00:34:23,800] way to do it you might get away with tearing down
+- [00:34:23,800 - 00:34:26,920] the first one and maybe the second one but in
+- [00:34:26,920 - 00:34:30,040] your desire to tear them all down sooner or later
+- [00:34:30,040 - 00:34:33,239] some guy is going to be standing out in front of
+- [00:34:33,239 - 00:34:36,440] his building saying i'm on to you get out of here
+- [00:34:37,400 - 00:34:40,040] and pretty soon you're no longer known as a builder
+- [00:34:40,760 - 00:34:44,199] you're known as a destroyer now the second way to
+- [00:34:44,199 - 00:34:47,639] have the tallest building in town is to see it
+- [00:34:47,639 - 00:34:51,360] dream it and plan it and put your team on
+- [00:34:51,360 - 00:34:55,080] it work on it go through all of the steps
+- [00:34:55,080 - 00:34:58,440] to get there do it right have the ambition
+- [00:34:58,440 - 00:35:01,800] to be the owner of the tallest building in town
+- [00:35:02,520 - 00:35:05,600] and go through all of the right steps to get there
+- [00:35:05,600 - 00:35:08,680] if you really want it and have the skills to do it
+- [00:35:09,320 - 00:35:09,530] and the patients to whether or not you want to do
+- [00:35:09,530 - 00:35:09,740] it that is quite the challenge and that is the одHuhab principle.
+- [00:35:09,740 - 00:35:09,830] Let's get down to business with my friends
+- [00:35:09,830 - 00:35:09,920] and let's bring the kids in this class.
+- [00:35:09,920 - 00:35:09,980] one in the car and I want the kids to howl. garage
+- [00:35:09,980 - 00:35:10,040] ok no need do not droite you gonna break down on college.
+- [00:35:10,040 - 00:35:13,480] to weather all of the storms your ambition will
+- [00:35:13,480 - 00:35:16,920] lead you there having the ambition to do what it
+- [00:35:16,920 - 00:35:20,880] takes to get you where you want to
+- [00:35:20,880 - 00:35:24,840] go is good ambition is creative and constructive ambition
+- [00:35:24,840 - 00:35:27,960] is an expression it's something inside of you
+- [00:35:27,960 - 00:35:31,080] you want to express in a positive way
+- [00:35:32,680 - 00:35:35,840] i'm sure you have dreams of accomplishing great
+- [00:35:35,840 - 00:35:39,000] things are you ambitious enough to realize these
+- [00:35:39,000 - 00:35:42,520] dreams are your dreams strong enough to pull you
+- [00:35:42,520 - 00:35:46,040] toward your future are they vivid enough to see
+- [00:35:46,040 - 00:35:50,400] the end result now are they worthy of doing
+- [00:35:50,400 - 00:35:54,760] until you get there what are your reasons for creating
+- [00:35:54,760 - 00:35:58,760] these dreams reasons vary from person to person i
+- [00:35:58,760 - 00:36:02,760] bet if you did a little soul searching you could
+- [00:36:02,760 - 00:36:05,840] come up with a fairly strong list the list
+- [00:36:05,840 - 00:36:08,920] of reasons why is it so important to achieve
+- [00:36:09,000 - 00:36:12,040] these dreams what are you trying to
+- [00:36:12,040 - 00:36:15,080] express these reasons for accomplishing great things are
+- [00:36:15,080 - 00:36:18,360] different for everybody there are
+- [00:36:18,360 - 00:36:21,640] personal reasons sometimes uniquely personal reasons
+- [00:36:22,680 - 00:36:25,560] some people do well for the recognition some people
+- [00:36:25,560 - 00:36:28,440] do well because of the way it makes them
+- [00:36:28,440 - 00:36:32,520] feel they love the feeling of being a winner and that
+- [00:36:32,520 - 00:36:36,600] is one of the best reasons once in a while i
+- [00:36:39,000 - 00:36:42,080] too many i've never worked another day in my life
+- [00:36:42,080 - 00:36:45,160] hey that's probably why the good lord sees to it
+- [00:36:45,160 - 00:36:46,960] that he doesn't get his
+- [00:36:46,960 - 00:36:48,760] million because he would just quit
+- [00:36:50,840 - 00:36:54,440] family is another reason a motivator for doing well
+- [00:36:55,320 - 00:36:58,560] some people do extremely well because of
+- [00:36:58,560 - 00:37:01,800] other people and that's a powerful reason sometimes
+- [00:37:01,800 - 00:37:05,280] we will do something for someone else that we
+- [00:37:05,280 - 00:37:08,760] would not do for ourselves i know a lady
+- [00:37:08,760 - 00:37:11,480] who was getting back on track from financial
+- [00:37:11,480 - 00:37:14,200] disaster even though she didn't have much of
+- [00:37:14,200 - 00:37:17,160] anything left her primary motivator was
+- [00:37:17,160 - 00:37:20,120] to keep her daughter in private school
+- [00:37:20,920 - 00:37:24,360] an expensive one one of the best in
+- [00:37:24,360 - 00:37:27,800] the country although her goal was to financially surpass
+- [00:37:27,800 - 00:37:30,960] where she was before her economic fall her main
+- [00:37:30,960 - 00:37:34,120] reason to work all of those extra hours was to
+- [00:37:34,120 - 00:37:38,199] give her little girl the best possible education
+- [00:37:38,199 - 00:37:42,279] as you can well imagine wanting to do something
+- [00:37:42,279 - 00:37:46,239] for someone else led her to all
+- [00:37:46,239 - 00:37:50,200] sorts of other accomplishments as well how fortunate
+- [00:37:50,200 - 00:37:53,080] are the people who find themselves
+- [00:37:53,080 - 00:37:55,960] greatly affected by someone else it's powerful
+- [00:37:57,880 - 00:38:00,000] what has you getting up early hitting
+- [00:38:00,000 - 00:38:02,120] it hard all day and staying up late
+- [00:38:03,400 - 00:38:04,020] what has you
+- [00:38:04,120 - 00:38:07,520] inspired what are your reasons for doing
+- [00:38:07,520 - 00:38:10,920] well what's at the core of your quest
+- [00:38:11,880 - 00:38:15,800] what is the power behind your ambition think
+- [00:38:15,800 - 00:38:19,720] about it jot it down do some soul
+- [00:38:19,720 - 00:38:24,320] searching define your reasons so
+- [00:38:24,320 - 00:38:28,920] they will work better for you
+- [00:38:34,120 - 00:38:37,600] so now we have determined that it's
+- [00:38:37,600 - 00:38:41,080] in your best self-interest to be ambitious
+- [00:38:42,600 - 00:38:45,800] self-interest self-preservation as human beings we can't
+- [00:38:45,800 - 00:38:49,000] help but be interested in our own
+- [00:38:49,000 - 00:38:52,120] self-preservation we can't help but be
+- [00:38:52,120 - 00:38:55,240] self-interested it's one of the strongest
+- [00:38:55,240 - 00:38:58,680] urges we have interested in our
+- [00:38:58,680 - 00:39:02,120] preservation interested in our development interested in
+- [00:39:02,120 - 00:39:02,920] our success
+- [00:39:04,120 - 00:39:05,880] there's certainly nothing wrong with
+- [00:39:05,880 - 00:39:07,640] self-interest but here's the clue
+- [00:39:08,839 - 00:39:12,359] self-interest must be enlightened as to what truly
+- [00:39:12,359 - 00:39:15,880] serves us best when i found out that
+- [00:39:15,880 - 00:39:19,200] self-interest was okay that was a big relief
+- [00:39:19,200 - 00:39:22,520] to me now we're not talking about selfish
+- [00:39:23,480 - 00:39:26,879] we're talking about self-interest self-interest
+- [00:39:26,879 - 00:39:30,279] needs to be educated enlightened
+- [00:39:31,720 - 00:39:34,040] self-interest is willing to be benefited by
+- [00:39:34,120 - 00:39:37,920] service to others not at the expense of
+- [00:39:37,920 - 00:39:41,720] others self-interest at the expense of others starts
+- [00:39:41,720 - 00:39:46,279] to be greed evil hoping you go up as
+- [00:39:46,279 - 00:39:50,839] someone goes down hoping to attain while someone else loses
+- [00:39:52,279 - 00:39:56,719] i win you lose we call that the beginnings of
+- [00:39:56,719 - 00:40:01,160] evil the dark side of our nature wishing to benefit
+- [00:40:01,160 - 00:40:04,200] at the expense of others enlightened self-interest
+- [00:40:04,200 - 00:40:07,240] wishes to benefit at the service of others
+- [00:40:08,680 - 00:40:11,200] a friend of mine tells this little story about
+- [00:40:11,200 - 00:40:13,720] a person she hears from about every three months or
+- [00:40:13,720 - 00:40:17,400] so this guy calls to solicit money for
+- [00:40:17,400 - 00:40:21,080] food baskets for homeless families she's happy to
+- [00:40:21,080 - 00:40:23,640] give her money to them she was
+- [00:40:23,640 - 00:40:26,200] unfortunately homeless for a short period of time
+- [00:40:27,720 - 00:40:29,960] and she knows the position these people are in
+- [00:40:31,160 - 00:40:34,880] this group is legit she checked them out but after
+- [00:40:34,880 - 00:40:38,600] the second or third time this guy called same guy
+- [00:40:39,399 - 00:40:42,039] after the second or third time he called
+- [00:40:42,039 - 00:40:44,680] she started talking to him about other stuff turns
+- [00:40:44,680 - 00:40:49,279] out this guy is broke living in a hotel looking
+- [00:40:49,279 - 00:40:53,879] for any construction job he can find any job at
+- [00:40:53,879 - 00:40:57,399] all but what's unique about this guy is that
+- [00:40:57,399 - 00:41:00,920] he donates two or three hours a night every night
+- [00:41:01,879 - 00:41:05,439] to call people and get money to feed
+- [00:41:05,439 - 00:41:09,000] the homeless every night from his hotel room
+- [00:41:10,120 - 00:41:12,560] now most people would say this guy should use
+- [00:41:12,560 - 00:41:15,000] those hours every night to work a second job
+- [00:41:15,000 - 00:41:18,360] or a third job but while he's way down on
+- [00:41:18,360 - 00:41:21,720] the ladder of success he feels it's important to help
+- [00:41:21,720 - 00:41:25,239] those less fortunate than he is he has a
+- [00:41:25,239 - 00:41:28,759] roof over his head he makes enough to feed himself
+- [00:41:29,640 - 00:41:32,200] and my friend says that every time she talks
+- [00:41:32,200 - 00:41:34,760] to this guy every two or three months he's doing
+- [00:41:34,760 - 00:41:38,320] better he's digging himself out of debt he's
+- [00:41:38,320 - 00:41:41,880] starting to save money he thinks he'll be able
+- [00:41:41,880 - 00:41:45,280] to move into an apartment in another month
+- [00:41:45,280 - 00:41:48,680] or two now recently an interesting thing happened
+- [00:41:48,680 - 00:41:52,320] my friend was talking with an associate of hers
+- [00:41:52,320 - 00:41:55,960] she's single lives in a big house needs to find
+- [00:41:55,960 - 00:41:59,040] a handyman to help her out on a regular
+- [00:41:59,040 - 00:42:02,120] basis someone who can build an addition onto her house
+- [00:42:03,400 - 00:42:06,160] so my friend told her about this guy the
+- [00:42:06,160 - 00:42:08,920] only reason this guy ended up being hired was that
+- [00:42:08,920 - 00:42:12,640] my friend's associate was touched by his dedication
+- [00:42:12,640 - 00:42:16,360] to service while he himself was down and out
+- [00:42:17,880 - 00:42:21,560] service success at the service of others
+- [00:42:21,560 - 00:42:25,240] now this guy isn't rich by any stretch
+- [00:42:25,960 - 00:42:28,920] but through my friend's network he now
+- [00:42:28,920 - 00:42:31,880] has constant work doing things around several
+- [00:42:31,880 - 00:42:34,760] people's houses and now he's in a place of
+- [00:42:34,760 - 00:42:37,640] his own and guess what he does every night
+- [00:42:38,600 - 00:42:42,280] he's still making phone calls to get money to
+- [00:42:42,280 - 00:42:45,960] feed the homeless what great character this man has
+- [00:42:47,800 - 00:42:50,760] enlightened self-interest leads to
+- [00:42:50,760 - 00:42:53,720] wealth self-preservation leads to poverty
+- [00:42:54,760 - 00:42:55,320] somebody says well i can't do that in my house i can't
+- [00:42:55,320 - 00:42:55,880] afford to live in a house but i can do it by myself
+- [00:42:55,960 - 00:42:59,480] be concerned about other people i have to
+- [00:42:59,480 - 00:43:03,000] pay attention to myself well then you'll always have
+- [00:43:03,000 - 00:43:06,080] to somebody says i can't be concerned about
+- [00:43:06,080 - 00:43:09,160] other people's bills i've got enough worries trying to
+- [00:43:09,160 - 00:43:12,840] pay my own well then you'll have to worry about
+- [00:43:12,840 - 00:43:16,520] them for the rest of your life the best way to
+- [00:43:16,520 - 00:43:20,120] get that monkey off your back is to turn
+- [00:43:20,120 - 00:43:23,720] your attention around once i understood some of this
+- [00:43:23,720 - 00:43:28,160] stuff i'm telling you it revolutionized my whole
+- [00:43:28,160 - 00:43:32,600] life now self-interest is okay yes but here's what
+- [00:43:32,600 - 00:43:36,560] self-interest must be if you truly want to be
+- [00:43:36,560 - 00:43:40,520] happy it must be enlightened it says don't keep
+- [00:43:40,520 - 00:43:43,479] your attention on yourself if you want your life
+- [00:43:43,479 - 00:43:46,439] to work out well turn your attention to others
+- [00:43:47,959 - 00:43:50,839] in your own self-interest be enlightened
+- [00:43:50,839 - 00:43:53,720] truly act in your own self-interest by
+- [00:43:53,720 - 00:43:56,680] making an investment in service to others
+- [00:43:58,839 - 00:44:02,279] next if you wish to receive now there's
+- [00:44:02,279 - 00:44:05,720] nothing wrong with wishing to receive it's part of
+- [00:44:05,720 - 00:44:08,680] self-interest but here's the enlightened part if
+- [00:44:08,680 - 00:44:11,640] you wish to receive you must give
+- [00:44:13,240 - 00:44:17,360] some people say if you give it's gone no no
+- [00:44:17,360 - 00:44:21,480] not if you're educated if you're stupid yes it's gone
+- [00:44:22,120 - 00:44:23,560] but if you're enlightened
+- [00:44:23,560 - 00:44:23,620] change'll not come withoutzet bestmorerrm not make a mistake by
+- [00:44:23,620 - 00:44:23,680] treating others as minuscule to all needs to carry on to
+- [00:44:23,680 - 00:44:27,400] chances are if you give you've invested and
+- [00:44:27,400 - 00:44:31,120] what do we expect an investment to do
+- [00:44:32,399 - 00:44:37,639] return get back what you put out no
+- [00:44:37,639 - 00:44:42,879] we expect it to return multiplied bigger greater better
+- [00:44:44,160 - 00:44:47,200] my father taught me way back son always
+- [00:44:47,200 - 00:44:50,240] do more than what you get paid for
+- [00:44:50,240 - 00:44:53,519] now some individuals might argue with that they'd say
+- [00:44:53,519 - 00:44:56,799] no you're going to mess up the whole program
+- [00:44:57,919 - 00:45:01,159] i know they're wrong in my own self-interest i
+- [00:45:01,159 - 00:45:04,399] did what my father taught me to always do
+- [00:45:04,399 - 00:45:08,599] more than i got paid for why to make
+- [00:45:08,599 - 00:45:12,799] an investment in my future do more than you
+- [00:45:12,799 - 00:45:15,599] get paid for to make an investment in
+- [00:45:15,599 - 00:45:18,399] your future and it's paid off for me
+- [00:45:20,000 - 00:45:20,080] if you're a parent and you're a parent of
+- [00:45:20,080 - 00:45:20,160] a child you're not going to get paid for that
+- [00:45:20,160 - 00:45:20,190] if you're a parent and you're a parent of
+- [00:45:20,190 - 00:45:20,220] a child you're not going to get paid for that
+- [00:45:20,220 - 00:45:22,019] you're wanting that big promotion are you going
+- [00:45:22,019 - 00:45:23,819] to go up to your boss and say
+- [00:45:23,819 - 00:45:27,019] just give it to me i'll work harder if you
+- [00:45:27,019 - 00:45:30,220] just give me that promotion no it doesn't work that
+- [00:45:30,220 - 00:45:33,819] way you've got to do more in your current position
+- [00:45:33,819 - 00:45:37,419] so that you get noticed so you stand out from
+- [00:45:37,419 - 00:45:40,299] everybody else so the boss says hey we've got
+- [00:45:40,299 - 00:45:43,180] this position opening up and i think we should
+- [00:45:43,180 - 00:45:46,660] give it to nancy she does so much more
+- [00:45:46,660 - 00:45:50,140] than we expect just imagine what she'll do if we
+- [00:45:50,140 - 00:45:53,979] give her this promotion you've got to do more
+- [00:45:53,979 - 00:45:57,819] than you're paid for you've got to it's an investment
+- [00:45:57,819 - 00:46:01,659] in your future it's one thing to make a sale i'm
+- [00:46:01,659 - 00:46:05,500] telling you if you make a sale you'll make a living
+- [00:46:06,060 - 00:46:09,380] if you go beyond making the sale and serve
+- [00:46:09,380 - 00:46:12,700] people by keeping in touch calling them before they call
+- [00:46:12,700 - 00:46:16,259] you writing a thank you note sales will
+- [00:46:16,259 - 00:46:19,819] lead to multiple sales you can make a fortune
+- [00:46:21,100 - 00:46:24,420] if the customer is well taken care of people who
+- [00:46:24,420 - 00:46:27,740] are well taken care of will open doors you can't
+- [00:46:27,740 - 00:46:31,420] get through by yourself all of us have found ways
+- [00:46:31,420 - 00:46:35,100] to make a living what got interesting for me early
+- [00:46:35,100 - 00:46:39,100] on was to figure out ways to make a fortune you'd
+- [00:46:39,100 - 00:46:43,100] say well mr roan how would i deserve to make a
+- [00:46:43,100 - 00:46:46,540] fortune it's easy render fortunes of service
+- [00:46:46,540 - 00:46:49,980] people will do things you cannot believe
+- [00:46:50,140 - 00:46:53,420] for people who give them good service here's
+- [00:46:53,420 - 00:46:56,700] one of the greatest gifts you can give anybody
+- [00:46:56,700 - 00:46:59,539] the gift of attention in return they
+- [00:46:59,539 - 00:47:02,379] will do extraordinary things for your career
+- [00:47:03,100 - 00:47:06,739] take you by the hand and lead you to more
+- [00:47:06,739 - 00:47:10,379] people than you could meet by yourself always do more
+- [00:47:11,100 - 00:47:14,860] than you get paid for next in
+- [00:47:14,860 - 00:47:18,620] enlightened self-interest life responds to deserve not need
+- [00:47:20,140 - 00:47:23,420] life responds to deserve not need life was
+- [00:47:23,420 - 00:47:26,700] not designed to give us what we need
+- [00:47:27,660 - 00:47:31,300] life was designed to give us what we
+- [00:47:31,300 - 00:47:34,940] deserve what we deserve once you understand that little
+- [00:47:34,940 - 00:47:38,379] life principle in your own self-interest i'm
+- [00:47:38,379 - 00:47:41,819] telling you it's life-changing the ancient law
+- [00:47:41,819 - 00:47:45,699] does not go like this if you need you will reap
+- [00:47:45,699 - 00:47:49,580] no it doesn't work that way a lot of people out there
+- [00:47:50,140 - 00:47:54,060] it works that way but no it doesn't the ancient
+- [00:47:54,060 - 00:47:57,980] law goes like this if you plant you will reap
+- [00:47:58,859 - 00:48:02,819] if you sow you will reap somebody says well
+- [00:48:02,819 - 00:48:06,779] i really need to reap well then you really need
+- [00:48:06,779 - 00:48:10,499] to plant in your own self-interest your own
+- [00:48:10,499 - 00:48:14,220] self-interest needs to be educated in how to plant
+- [00:48:15,339 - 00:48:17,699] how to do it so
+- [00:48:17,699 - 00:48:20,060] everybody wins because life doesn't respond
+- [00:48:20,140 - 00:48:23,900] to need you can't go to the soil and say
+- [00:48:23,900 - 00:48:27,660] i need a crop the soil just smiles at you
+- [00:48:28,540 - 00:48:32,100] and here's what the soil says don't bring me
+- [00:48:32,100 - 00:48:35,660] your need bring me some seed bring me some effort
+- [00:48:35,660 - 00:48:39,019] bring me some discipline bring me some
+- [00:48:39,019 - 00:48:42,379] interest bring me some service bring me
+- [00:48:42,379 - 00:48:45,379] these things and i'll return to you
+- [00:48:45,379 - 00:48:48,379] multiplied by two times five times ten times
+- [00:48:50,140 - 00:48:53,420] you can't come with need you've got to
+- [00:48:53,420 - 00:48:56,700] come with seed you've got to come with willingness
+- [00:48:56,700 - 00:49:00,300] you've got to come with skills you've got to
+- [00:49:00,300 - 00:49:03,900] be willing to learn willing to change willing to grow
+- [00:49:03,900 - 00:49:07,780] willing to put yourself out willing to stand up
+- [00:49:07,780 - 00:49:11,660] to the bad weather willing to pull out the weeds
+- [00:49:11,660 - 00:49:15,780] willing to nurture that's the only way you
+- [00:49:15,780 - 00:49:19,900] get a return once you understand these principles
+- [00:49:20,779 - 00:49:24,379] self-interest now truly becomes an
+- [00:49:24,379 - 00:49:27,980] exciting challenge making sure everybody wins
+- [00:49:29,100 - 00:49:33,580] enlightened self-interest makes sure that everybody wins
+- [00:49:33,580 - 00:49:38,060] now here's another one if you want
+- [00:49:38,060 - 00:49:44,020] to find you must search and if you search you will
+- [00:49:44,020 - 00:49:49,980] find in order to find you must search you must go
+- [00:49:50,140 - 00:49:53,900] to church you must go to the seminar you must
+- [00:49:53,900 - 00:49:57,660] go to the library you've got to go to the bookstore
+- [00:49:57,660 - 00:50:01,459] you've got to go to the class you've got to
+- [00:50:01,459 - 00:50:05,259] go to the training you've got to go searching why
+- [00:50:05,980 - 00:50:08,820] if you search you will find you'll
+- [00:50:08,820 - 00:50:11,660] find ideas you'll find inspiration you'll find hope
+- [00:50:12,220 - 00:50:15,299] you'll find contacts but you've got to be
+- [00:50:15,299 - 00:50:18,379] out there on the search on the look
+- [00:50:18,380 - 00:50:22,060] life reserves its treasures for those who deserve
+- [00:50:22,060 - 00:50:25,740] it not those who need it enlightened self-interest
+- [00:50:25,740 - 00:50:29,740] giving so that you will receive searching so that
+- [00:50:29,740 - 00:50:33,740] you will find making sure that everybody wins all
+- [00:50:33,740 - 00:50:37,580] the way around enlightened self-interest needs to
+- [00:50:37,580 - 00:50:41,420] be educated enlightened self-interest says i will
+- [00:50:41,420 - 00:50:44,260] learn that life is not just the passing of time but
+- [00:50:44,260 - 00:50:47,100] it's also the passing of time and it's the passing of time
+- [00:50:48,380 - 00:50:51,940] i will learn that life is the collection
+- [00:50:51,940 - 00:50:55,500] of experiences ups and downs highs and lows laughter
+- [00:50:55,500 - 00:50:59,980] and tears you must decide to act you must
+- [00:50:59,980 - 00:51:04,460] have the discipline to act now here's what's important
+- [00:51:04,460 - 00:51:07,580] about discipline one discipline affects another
+- [00:51:07,580 - 00:51:10,700] discipline all disciplines affect each other
+- [00:51:11,420 - 00:51:14,860] in fact here's a good philosophical
+- [00:51:14,860 - 00:51:18,300] phrase everything affects everything else nothing's
+- [00:51:18,380 - 00:51:21,060] does anything more you want because fear ignites
+- [00:51:21,060 - 00:51:23,740] what you need because fear ignites what you need
+- [00:51:23,740 - 00:51:25,900] fear ignites what you need because fear ignites
+- [00:51:25,900 - 00:51:28,060] what you need your actions are not kicking at
+- [00:51:28,060 - 00:51:43,980] the own
+- [00:51:44,060 - 00:51:45,980] me
+- [00:51:48,380 - 00:51:51,800] pretty soon it will matter if you'd rather work
+- [00:51:51,800 - 00:51:55,220] late every night instead of going home and spending
+- [00:51:55,220 - 00:52:00,140] time with your family pretty soon it will
+- [00:52:00,140 - 00:52:05,060] matter it all matters every letdown affects the rest
+- [00:52:06,080 - 00:52:07,610] if you won't walk around the
+- [00:52:07,610 - 00:52:09,140] block you probably won't eat right
+- [00:52:10,220 - 00:52:12,710] and you probably won't buy the books
+- [00:52:12,710 - 00:52:15,200] and you probably won't attend the seminars
+- [00:52:15,200 - 00:52:18,680] and you probably won't spend your money wisely
+- [00:52:18,680 - 00:52:22,160] and after years of this it all adds up
+- [00:52:23,180 - 00:52:26,749] so the key to reversing this process is to
+- [00:52:26,749 - 00:52:30,319] start picking up the disciplines it does matter it all
+- [00:52:30,319 - 00:52:35,089] matters now here's the positive side every
+- [00:52:35,089 - 00:52:39,859] new discipline affects the rest every new discipline
+- [00:52:39,859 - 00:52:42,379] makes a difference that's why
+- [00:52:42,379 - 00:52:44,899] action is so important the smallest
+- [00:52:44,899 - 00:52:45,140] action
+- [00:52:45,200 - 00:52:48,979] the least action the action that you won't
+- [00:52:48,979 - 00:52:52,759] think will matter it all matters take it
+- [00:52:53,299 - 00:52:56,539] because when you start accomplishing and the value
+- [00:52:56,539 - 00:52:59,779] starts to return you'll find inspiration to do the
+- [00:52:59,779 - 00:53:03,169] next one and the next one and the next one
+- [00:53:03,169 - 00:53:06,560] if you start walking around the block it'll inspire you
+- [00:53:06,560 - 00:53:10,159] to start eating right you start eating right it'll inspire
+- [00:53:10,159 - 00:53:13,759] you to get a book you get a book and it'll
+- [00:53:13,759 - 00:53:15,140] inspire you to get a journal
+- [00:53:16,100 - 00:53:19,790] you get a journal and it'll inspire you
+- [00:53:19,790 - 00:53:23,480] to develop some skills disciplines affect each other lack
+- [00:53:23,480 - 00:53:27,139] affects the rest of your life the key is
+- [00:53:27,139 - 00:53:30,799] to diminish the lack one of our greatest temptations
+- [00:53:30,799 - 00:53:34,279] is to just ease up a bit to do just a
+- [00:53:34,279 - 00:53:37,759] little bit less than you're capable of to take a little break
+- [00:53:38,359 - 00:53:41,599] somebody says it'll just affect my
+- [00:53:41,599 - 00:53:44,839] sales no it'll affect your consciousness
+- [00:53:45,740 - 00:53:49,730] it'll affect your philosophies it'll affect your home
+- [00:53:49,730 - 00:53:53,720] life it'll affect everything no you can't ease
+- [00:53:53,720 - 00:53:57,529] up a bit that's what vacations are for when
+- [00:53:57,529 - 00:54:01,339] you're at work work when you're on vacation rest wherever
+- [00:54:01,339 - 00:54:04,699] you are be there if you think about
+- [00:54:04,699 - 00:54:08,060] vacation when you're at work you'll surely think about
+- [00:54:08,060 - 00:54:11,060] work when you're on vacation you'll just
+- [00:54:11,060 - 00:54:14,060] mess it all up so be disciplined
+- [00:54:15,200 - 00:54:17,989] be involved do all that it takes to
+- [00:54:17,989 - 00:54:20,779] get the job done get your health back
+- [00:54:20,779 - 00:54:24,469] get your bank account where it's supposed to
+- [00:54:24,469 - 00:54:28,160] be get your family in order get disciplined be
+- [00:54:28,160 - 00:54:30,590] disciplined every day when you set up
+- [00:54:30,590 - 00:54:33,020] the disciplines that give your life structure
+- [00:54:33,620 - 00:54:37,999] Miracles Can Happen x and I'm telling you anybody
+- [00:54:37,999 - 00:54:42,379] who wants to make a drastic change in their income
+- [00:54:42,379 - 00:54:43,279] can do it
+- [00:54:44,140 - 00:54:45,080] I was broken
+- [00:54:45,080 - 00:54:50,000] age 25 and a millionaire at age 31. everything
+- [00:54:50,000 - 00:54:54,920] around me was the same i changed i refined my
+- [00:54:54,920 - 00:54:58,119] philosophy i read the books i took the
+- [00:54:58,119 - 00:55:01,319] classes started looking at life a little differently
+- [00:55:02,520 - 00:55:04,120] i'm telling you it works
+- [00:55:06,759 - 00:55:09,039] now there are six principles of building ambition
+- [00:55:09,039 - 00:55:11,319] that we will discuss as we go through this
+- [00:55:11,320 - 00:55:14,880] program these principles work together creating
+- [00:55:14,880 - 00:55:18,440] and directing energy directing your energy toward
+- [00:55:18,440 - 00:55:21,440] achievement directing your energy toward self-expression
+- [00:55:21,440 - 00:55:24,440] right now we'll touch on the
+- [00:55:24,440 - 00:55:27,880] six principles in definition only and later in
+- [00:55:27,880 - 00:55:31,320] the program we'll get into each one separately
+- [00:55:32,520 - 00:55:36,840] here they are the six principles
+- [00:55:36,840 - 00:55:41,160] of building ambition number one positive self-direction
+- [00:55:41,960 - 00:55:44,600] knowing who you are and where you want to go
+- [00:55:45,800 - 00:55:47,960] accumulating the knowledge and being prepared
+- [00:55:47,960 - 00:55:50,120] for opportunities that come your way
+- [00:55:51,640 - 00:55:55,480] number two self-reliance taking responsibility for
+- [00:55:55,480 - 00:55:59,320] your own life taking responsibility for
+- [00:55:59,320 - 00:56:02,200] whatever happens to you knowing that you have
+- [00:56:02,200 - 00:56:05,080] made the conscious decisions that are now affecting
+- [00:56:05,080 - 00:56:07,680] your life that what's happening in your
+- [00:56:07,680 - 00:56:10,280] life is the direct result of your activity
+- [00:56:10,920 - 00:56:11,320] counting
+- [00:56:11,320 - 00:56:15,790] on you. Number three, self-discipline. Ambition at
+- [00:56:15,790 - 00:56:20,260] the daily level, knowing that you can reach
+- [00:56:20,260 - 00:56:24,040] your goals one step at a time, one day at
+- [00:56:24,040 - 00:56:27,820] a time, one activity at a time, and doing everything it
+- [00:56:27,820 - 00:56:32,100] takes to get there every day.
+- [00:56:32,100 - 00:56:36,380] Number four, self-enterprise. Consistently being able to
+- [00:56:36,380 - 00:56:40,420] create opportunity and consistently being able to take
+- [00:56:40,420 - 00:56:44,460] advantage of it. Being aware enough to see it,
+- [00:56:45,440 - 00:56:49,130] skilled enough to make it work for you.
+- [00:56:49,130 - 00:56:52,820] Number five, working with others. We must make ourselves
+- [00:56:52,820 - 00:56:56,060] stronger to benefit us all. We must succeed at
+- [00:56:56,060 - 00:56:59,300] the service of others, learning how to take your
+- [00:56:59,300 - 00:57:02,200] skills, enterprise, reliance, and direction to
+- [00:57:02,200 - 00:57:05,100] the table to create true success.
+- [00:57:06,380 - 00:57:09,980] And the sixth principle of building
+- [00:57:09,980 - 00:57:13,580] ambition is self-appreciation. Appreciate your accomplishments,
+- [00:57:14,160 - 00:57:17,170] appreciate your potential. Knowing that in one day
+- [00:57:17,170 - 00:57:20,180] you completed all you set out to do,
+- [00:57:20,820 - 00:57:24,370] fueling your ambition by fueling your
+- [00:57:24,370 - 00:57:27,920] appreciation of yourself. Each of these principles,
+- [00:57:27,920 - 00:57:31,550] when activated correctly, help to develop your ambition,
+- [00:57:31,550 - 00:57:35,180] your eager desire to get more out of
+- [00:57:35,180 - 00:57:35,740] life, to gain wealth, to gain wealth, to gain value, to gain a
+- [00:57:35,740 - 00:57:36,300] job, to gain a job. And the sixth principle of building ambition is self-appreciation.
+- [00:57:36,380 - 00:57:39,330] to gain prosperity, to have a
+- [00:57:39,330 - 00:57:42,280] better family, to build a better business.
+- [00:57:43,020 - 00:57:46,380] All of these principles work together in
+- [00:57:46,380 - 00:57:49,740] creating and directing energy toward achievement and self-expression.
+- [00:57:50,700 - 00:57:54,000] All of these six principles are required to
+- [00:57:54,000 - 00:57:57,300] build the three cornerstones of a truly ambitious person.
+- [00:57:58,320 - 00:58:02,280] Focused concentration, resilience, and integrity.
+- [00:58:02,280 - 00:58:04,870] You'll know you have unlocked the
+- [00:58:04,870 - 00:58:07,460] power of ambition when these three qualities,
+- [00:58:07,460 - 00:58:11,540] the cornerstones, become words that best describe you.
+- [00:58:12,420 - 00:58:15,560] So when we continue, we'll get
+- [00:58:15,560 - 00:58:18,700] started with principle number one, positive self-direction.
+- [00:58:32,280 - 00:58:34,740] In the last session, we discovered
+- [00:58:34,740 - 00:58:37,200] that ambition is the fuel of achievement.
+- [00:58:37,980 - 00:58:40,400] That achievement is truly self-expression
+- [00:58:40,400 - 00:58:42,820] in its strongest and clearest form.
+- [00:58:43,740 - 00:58:46,280] So if achievement is based on self-expression,
+- [00:58:46,700 - 00:58:48,990] then it only makes sense that there
+- [00:58:48,990 - 00:58:51,280] is one true place to find ambition.
+- [00:58:52,140 - 00:58:53,280] Inside yourself.
+- [00:58:54,120 - 00:58:58,580] In every thought, in every movement, in every motivation.
+- [00:58:59,800 - 00:59:01,020] Self-expression.
+- [00:59:01,180 - 00:59:02,260] Isn't self-expression the only way to find ambition?
+- [00:59:02,280 - 00:59:04,020] Is self-expression really self-direction?
+- [00:59:04,600 - 00:59:08,260] How you think, how you move, how you motivate yourself?
+- [00:59:09,160 - 00:59:10,060] It is.
+- [00:59:10,740 - 00:59:13,240] And ambition is a result of self-direction.
+- [00:59:13,940 - 00:59:16,480] One of the six principles for building ambition.
+- [00:59:18,020 - 00:59:20,500] Positive self-direction says, I know who I am
+- [00:59:20,500 - 00:59:22,980] and I know where I want to go.
+- [00:59:23,860 - 00:59:26,270] I am accumulating knowledge and
+- [00:59:26,270 - 00:59:28,680] experiences and feelings and philosophies
+- [00:59:29,160 - 00:59:32,260] that will help prepare me for opportunities that I know,
+- [00:59:32,280 - 00:59:34,380] will show up without notice.
+- [00:59:36,000 - 00:59:37,400] Positive self-direction.
+- [00:59:38,100 - 00:59:39,420] You know who you are
+- [00:59:39,420 - 00:59:40,740] and where you want to go.
+- [00:59:41,340 - 00:59:42,950] You've already spent a great
+- [00:59:42,950 - 00:59:44,560] deal of time thinking about it.
+- [00:59:45,080 - 00:59:47,130] You've been working on the parts of
+- [00:59:47,130 - 00:59:49,180] your personality that will make you better.
+- [00:59:50,200 - 00:59:51,300] Working on your attitude.
+- [00:59:52,220 - 00:59:53,340] Working on your health.
+- [00:59:54,280 - 00:59:56,280] Working on your time management skills.
+- [00:59:57,140 - 00:59:58,660] Putting it all down on paper.
+- [00:59:58,660 - 01:00:00,460] And you constantly see yourself in
+- [01:00:00,460 - 01:00:02,260] the place that you want to be.
+- [01:00:02,260 - 01:00:04,220] As you talk with yourself every
+- [01:00:04,220 - 01:00:06,180] day, how often do you ask,
+- [01:00:06,180 - 01:00:08,540] is what I am doing today getting me
+- [01:00:08,540 - 01:00:10,900] closer to where I want to be tomorrow?
+- [01:00:11,940 - 01:00:14,980] Am I making the daily adjustments necessary?
+- [01:00:15,980 - 01:00:17,980] Am I doing all that it takes?
+- [01:00:18,980 - 01:00:20,980] Will I keep on doing it until?
+- [01:00:22,360 - 01:00:24,360] Direction determines destination.
+- [01:00:25,360 - 01:00:27,860] Here's a question you need to ask yourself.
+- [01:00:28,420 - 01:00:30,980] Are all of the decisions you've made in your life,
+- [01:00:30,980 - 01:00:33,980] are all of the disciplines that I'm currently
+- [01:00:33,980 - 01:00:36,980] engaged in taking me where I want to go?
+- [01:00:38,180 - 01:00:41,180] Are all of the disciplines I am presently
+- [01:00:41,180 - 01:00:44,180] engaged in taking me where I want to go?
+- [01:00:44,740 - 01:00:46,900] What an important question at the beginning of
+- [01:00:46,900 - 01:00:49,060] the month, at the beginning of the week,
+- [01:00:49,780 - 01:00:51,220] at the beginning of the day.
+- [01:00:52,580 - 01:00:54,220] Because here's what you don't
+- [01:00:54,220 - 01:00:55,860] want to ever do, kid yourself.
+- [01:00:57,060 - 01:00:58,860] You know, kid your neighbor and kid me
+- [01:00:58,860 - 01:01:00,660] and kid the marketplace if you want to.
+- [01:01:00,660 - 01:01:03,700] But gosh, you can't kid yourself.
+- [01:01:04,819 - 01:01:06,739] With your fingers crossed, hoping
+- [01:01:06,739 - 01:01:08,660] you'll arrive at a good destination
+- [01:01:08,660 - 01:01:10,660] when you're not even headed that way.
+- [01:01:11,700 - 01:01:14,259] You say, well, maybe the wind will take me.
+- [01:01:15,060 - 01:01:16,259] Well, there's a chance.
+- [01:01:17,299 - 01:01:19,220] But you've got to take charge.
+- [01:01:20,420 - 01:01:23,379] You've got to ask yourself often, am I?
+- [01:01:24,100 - 01:01:26,179] Am I doing the disciplines that are taking
+- [01:01:26,179 - 01:01:28,259] me in the direction that I want to go?
+- [01:01:28,819 - 01:01:29,940] I don't want to be faked out.
+- [01:01:30,660 - 01:01:32,940] I don't want to be faked out here and think
+- [01:01:32,940 - 01:01:35,220] I'm on the way to financial success when there's not a
+- [01:01:35,220 - 01:01:36,819] prayer, not a hope.
+- [01:01:37,779 - 01:01:40,299] I don't want to be faked out hoping that
+- [01:01:40,299 - 01:01:42,819] there's someone else who's going to take care of it.
+- [01:01:43,620 - 01:01:44,500] Take care of me.
+- [01:01:45,379 - 01:01:46,899] They're not going to take care of it.
+- [01:01:47,859 - 01:01:49,620] They're not going to take care of me.
+- [01:01:50,819 - 01:01:53,379] What if all of your negative relatives turn positive?
+- [01:01:54,100 - 01:01:56,899] What will that do for your fortune and your future?
+- [01:01:56,899 - 01:01:57,620] Not much.
+- [01:01:58,580 - 01:02:00,580] If prices come down a little, what will that do?
+- [01:02:00,580 - 01:02:03,060] What will that do for your fortune and
+- [01:02:03,060 - 01:02:05,540] your future and your sophistication and your culture?
+- [01:02:06,259 - 01:02:07,060] What will that do?
+- [01:02:07,700 - 01:02:08,500] Not much.
+- [01:02:09,540 - 01:02:10,780] If the economy gets a
+- [01:02:10,780 - 01:02:12,020] little better, what will that do?
+- [01:02:12,660 - 01:02:14,100] Not much.
+- [01:02:15,380 - 01:02:17,500] If you don't make plans of your
+- [01:02:17,500 - 01:02:19,620] own, you'll fit into someone else's plans.
+- [01:02:20,180 - 01:02:22,340] And guess what they have planned for you?
+- [01:02:22,819 - 01:02:23,460] You're right.
+- [01:02:24,180 - 01:02:25,140] Not much.
+- [01:02:26,020 - 01:02:28,260] Most people wake up every morning
+- [01:02:28,260 - 01:02:30,500] counting on this not much list.
+- [01:02:31,140 - 01:02:34,580] And that's why what they have is not much.
+- [01:02:34,580 - 01:02:35,460] Not much hope.
+- [01:02:36,100 - 01:02:37,220] Not much promise.
+- [01:02:38,020 - 01:02:39,140] Not much progress.
+- [01:02:40,100 - 01:02:42,140] They're driving what they don't want to
+- [01:02:42,140 - 01:02:44,180] drive, living where they don't want to live,
+- [01:02:44,180 - 01:02:45,940] doing what they don't want to do.
+- [01:02:47,860 - 01:02:49,339] Forget the thief waiting in
+- [01:02:49,339 - 01:02:50,819] the alley to snatch your purse.
+- [01:02:50,819 - 01:02:52,819] What about the thief in your mind?
+- [01:02:54,020 - 01:02:57,220] Lazy, not stimulated by thoughts and questions.
+- [01:02:58,420 - 01:03:00,100] Don't become a victim of yourself.
+- [01:03:01,140 - 01:03:03,060] Ask yourself these questions.
+- [01:03:04,020 - 01:03:06,259] Is this the direction I want for my life?
+- [01:03:07,140 - 01:03:08,740] Is it someone else's direction?
+- [01:03:09,860 - 01:03:11,700] Is it a goal that I
+- [01:03:11,700 - 01:03:13,540] have been ingrained with since my childhood?
+- [01:03:14,660 - 01:03:17,060] Is it my parents or my
+- [01:03:17,060 - 01:03:19,460] spouses or my bosses or my children's?
+- [01:03:20,580 - 01:03:21,299] Is it mine?
+- [01:03:22,819 - 01:03:24,500] Ask yourself these questions.
+- [01:03:24,500 - 01:03:25,700] Debate them if you will.
+- [01:03:26,740 - 01:03:28,259] Debate the ideas I am
+- [01:03:28,259 - 01:03:29,779] sharing with you on this program.
+- [01:03:30,420 - 01:03:30,920] Later.
+- [01:03:31,780 - 01:03:34,660] After you've heard all the ideas, debate what
+- [01:03:34,660 - 01:03:37,540] will work for you and won't work for you.
+- [01:03:38,820 - 01:03:40,780] But most importantly, get into
+- [01:03:40,780 - 01:03:42,740] the debate of your inner mind.
+- [01:03:42,740 - 01:03:44,740] What am I doing that works?
+- [01:03:44,740 - 01:03:46,580] What am I doing that doesn't work?
+- [01:03:47,780 - 01:03:48,580] Debate it all.
+- [01:03:49,380 - 01:03:51,500] Work with your mind to figure
+- [01:03:51,500 - 01:03:53,620] out the best possible direction for you.
+- [01:03:54,660 - 01:03:55,940] Your self-direction.
+- [01:03:56,820 - 01:03:58,420] Your self-direction.
+- [01:03:58,420 - 01:04:01,660] You hear stories all the time of
+- [01:04:01,660 - 01:04:04,900] kids, middle class kids, upper middle class kids.
+- [01:04:06,020 - 01:04:07,900] You hear stories all the time
+- [01:04:07,900 - 01:04:09,780] about good kids that are having problems.
+- [01:04:10,580 - 01:04:12,500] Their parents are highly successful.
+- [01:04:13,380 - 01:04:15,700] They want their kids to be highly successful.
+- [01:04:16,660 - 01:04:18,740] But the kids are having problems.
+- [01:04:18,740 - 01:04:20,900] Maybe not with their grades, but
+- [01:04:20,900 - 01:04:23,060] with how they feel about themselves.
+- [01:04:23,860 - 01:04:27,060] The parents push their kids into one career direction.
+- [01:04:27,060 - 01:04:27,540] Problems.
+- [01:04:27,540 - 01:04:28,020] Problems.
+- [01:04:28,020 - 01:04:28,340] Problems.
+- [01:04:28,340 - 01:04:28,420] Problems.
+- [01:04:28,420 - 01:04:28,920] Problems.
+- [01:04:28,920 - 01:04:29,420] Problems.
+- [01:04:29,420 - 01:04:29,860] Problems.
+- [01:04:29,860 - 01:04:30,360] Problems.
+- [01:04:30,360 - 01:04:30,900] Problems.
+- [01:04:30,900 - 01:04:33,280] Problems.
+- [01:04:33,620 - 01:04:34,080] Problems.
+- [01:04:34,080 - 01:04:34,580] Problems.
+- [01:04:34,580 - 01:04:35,080] Problems.
+- [01:04:35,220 - 01:04:36,020] Problems.
+- [01:04:36,020 - 01:04:36,260] Problems.
+- [01:04:36,260 - 01:04:36,660] Problems.
+- [01:04:37,380 - 01:04:37,780] Problems.
+- [01:04:37,780 - 01:04:38,420] Problems.
+- [01:04:39,540 - 01:04:39,920] Problems.
+- [01:04:39,920 - 01:04:39,940] Problems.
+- [01:04:40,100 - 01:04:40,620] Problems.
+- [01:04:40,620 - 01:04:41,220] Problems.
+- [01:04:41,220 - 01:04:41,860] Problems.
+- [01:04:42,420 - 01:04:42,580] Problems.
+- [01:04:42,580 - 01:04:42,980] Problems.
+- [01:04:42,980 - 01:04:43,780] Problems.
+- [01:04:43,780 - 01:04:44,380] Problems.
+- [01:04:44,380 - 01:04:44,500] Problems.
+- [01:04:44,500 - 01:04:44,580] Problems.
+- [01:04:44,580 - 01:04:44,660] Problems.
+- [01:04:44,660 - 01:04:44,860] Problems.
+- [01:04:44,860 - 01:04:45,300] Problems.
+- [01:04:45,300 - 01:04:45,380] Problems.
+- [01:04:45,380 - 01:04:45,620] Problems.
+- [01:04:45,620 - 01:04:45,700] Problems.
+- [01:04:45,700 - 01:04:46,260] Problems.
+- [01:04:46,260 - 01:04:46,320] Problems.
+- [01:04:46,340 - 01:04:46,660] Problems.
+- [01:04:46,660 - 01:04:47,060] Problems.
+- [01:04:47,060 - 01:04:47,140] Problems.
+- [01:04:47,140 - 01:04:47,300] Problems.
+- [01:04:47,300 - 01:04:50,460] Why does a little child need the
+- [01:04:50,460 - 01:04:51,140] ball?
+- [01:04:53,940 - 01:04:53,970] For instance, I meet with people
+- [01:04:53,970 - 01:04:54,000] and I say this is what
+- [01:04:54,480 - 01:04:59,080] it's just what you did you grew up and became
+- [01:04:59,080 - 01:05:03,680] a doctor now it wasn't a bad upbringing they had
+- [01:05:03,680 - 01:05:07,240] everything they needed but they also had the extra push
+- [01:05:07,240 - 01:05:10,800] to go into medicine as a matter of fact my
+- [01:05:10,800 - 01:05:13,480] friend says that they were raised with such
+- [01:05:13,480 - 01:05:16,160] tunnel vision that she didn't even have the slightest
+- [01:05:16,160 - 01:05:19,760] idea how food got into the grocery store how cars
+- [01:05:19,760 - 01:05:23,360] got into the lots how money got into the banks
+- [01:05:23,360 - 01:05:27,240] she didn't know the issues were never brought up
+- [01:05:27,240 - 01:05:31,120] at the dinner table she remembers back in the late
+- [01:05:31,120 - 01:05:34,360] 70s the first time she went to look for a job
+- [01:05:34,360 - 01:05:37,600] to make extra money in college that the best jobs in
+- [01:05:37,600 - 01:05:40,840] the paper the ones for qualified people were
+- [01:05:40,840 - 01:05:44,080] only advertising a monthly salary of nine hundred
+- [01:05:44,080 - 01:05:48,000] dollars nine hundred dollars she thought the
+- [01:05:48,000 - 01:05:51,920] average person on the street the average non-qualified
+- [01:05:51,920 - 01:05:52,600] person made at least a hundred dollars a month and
+- [01:05:52,600 - 01:05:53,280] she was right she was right she was right she was
+- [01:05:53,280 - 01:05:53,310] right she was right she was right she was right she
+- [01:05:53,310 - 01:05:53,340] was right she was right she was right she was right
+- [01:05:53,340 - 01:05:57,060] three thousand dollars a month what a difference what
+- [01:05:57,060 - 01:06:00,780] a shock to be so sheltered from real life
+- [01:06:01,660 - 01:06:05,300] to be so far off in what the average person
+- [01:06:05,300 - 01:06:08,940] made for a living it was a real revelation so she
+- [01:06:08,940 - 01:06:12,460] started asking questions i mean if she was that
+- [01:06:12,460 - 01:06:15,980] far off in her judgment of average earnings maybe
+- [01:06:15,980 - 01:06:19,300] she was way off on other thoughts in life too
+- [01:06:19,300 - 01:06:22,620] maybe there was more to life than being in medicine
+- [01:06:23,580 - 01:06:26,820] maybe this wasn't what she wanted to do after
+- [01:06:26,820 - 01:06:30,060] all maybe she finally found the reason why she hadn't
+- [01:06:30,060 - 01:06:34,060] been happy through all of her academic achievements
+- [01:06:34,060 - 01:06:38,060] sure enough she figured out that the medical goals
+- [01:06:38,060 - 01:06:41,620] were not her own only those of her parents
+- [01:06:41,620 - 01:06:45,180] and even though she was chastised by her family for
+- [01:06:45,180 - 01:06:48,540] not following through with the family goals she
+- [01:06:48,540 - 01:06:51,900] is now much happier following her own path
+- [01:06:51,900 - 01:06:55,980] direction must be your own or it can end
+- [01:06:55,980 - 01:07:00,060] up being damaging damaging to your soul damaging to your
+- [01:07:00,060 - 01:07:03,580] spirit damaging to your health now there's one more
+- [01:07:03,580 - 01:07:07,100] part to my friend's story of growing up in
+- [01:07:07,100 - 01:07:10,340] a medical family it's a part that nobody
+- [01:07:10,340 - 01:07:13,580] in her family talks much about yet it happened
+- [01:07:14,460 - 01:07:17,540] and it's an important part to tell while
+- [01:07:17,540 - 01:07:20,620] my friend was pushing for perfection in school
+- [01:07:21,339 - 01:07:24,539] she also pushed herself into an eating disorder she
+- [01:07:24,539 - 01:07:27,740] ended up with this a few years before anyone
+- [01:07:27,740 - 01:07:31,779] really knew anything about anorexia so there
+- [01:07:31,779 - 01:07:35,819] wasn't much help available but a few years
+- [01:07:35,819 - 01:07:38,619] later about the same time she started
+- [01:07:38,619 - 01:07:41,420] asking questions about life she determined with the
+- [01:07:41,420 - 01:07:44,220] help of a specialist that this eating disorder had
+- [01:07:44,220 - 01:07:47,020] nothing to do with food or the lack of it
+- [01:07:47,980 - 01:07:49,500] it had to do with control
+- [01:07:50,620 - 01:07:54,699] it had to do with direction somebody else's
+- [01:07:54,699 - 01:07:58,779] direction for her direction has to be your own
+- [01:07:58,779 - 01:08:01,459] or it can be damaging so parents
+- [01:08:01,459 - 01:08:04,140] be watchful of how you motivate your children
+- [01:08:05,180 - 01:08:08,540] give them all of the resources to make their
+- [01:08:08,540 - 01:08:11,900] own choices and back them up give them the freedom
+- [01:08:11,900 - 01:08:15,580] to discover their own direction it may not be
+- [01:08:15,580 - 01:08:19,260] the direction you'd hope for but it is their direction
+- [01:08:20,060 - 01:08:23,420] and with their own direction they will reach their
+- [01:08:23,420 - 01:08:26,779] own destination it just doesn't work out any other
+- [01:08:26,779 - 01:08:30,260] way now if you are one of those people who
+- [01:08:30,260 - 01:08:33,740] had the revelation that the life and goals you're pursuing
+- [01:08:33,740 - 01:08:37,460] are not your own you can change it just
+- [01:08:37,460 - 01:08:41,180] like my friend did but the change doesn't come overnight
+- [01:08:42,380 - 01:08:44,779] the direction of life can come overnight
+- [01:08:46,700 - 01:08:47,939] a new goal can reach
+- [01:08:47,939 - 01:08:49,180] out and grab you in one
+- [01:08:49,180 - 01:08:49,220] day or so and when you get your mind set
+- [01:08:49,220 - 01:08:49,260] on all of these things you'll be able to start thinking
+- [01:08:49,260 - 01:08:53,060] day give you the push and the ambition and
+- [01:08:53,060 - 01:08:56,859] the momentum to change your course where you want to
+- [01:08:56,859 - 01:09:00,779] be but the final destination does not happen overnight
+- [01:09:00,779 - 01:09:04,700] it still takes a lot of work it still
+- [01:09:04,700 - 01:09:08,540] takes time for the plans to build to grow to
+- [01:09:08,540 - 01:09:12,380] run the course it takes patience let's say you have
+- [01:09:12,380 - 01:09:15,460] a brilliant idea for starting a new company what's
+- [01:09:15,460 - 01:09:18,540] the first thing you do you write a business plan
+- [01:09:19,340 - 01:09:22,740] and a marketing plan and complete the financial pro
+- [01:09:22,740 - 01:09:26,140] formas you don't expect to have an idea one
+- [01:09:26,140 - 01:09:29,220] day and a prospering business the next no it
+- [01:09:29,220 - 01:09:32,300] doesn't work that way you've got to take all
+- [01:09:32,300 - 01:09:35,979] the right steps give it care and nurturing and
+- [01:09:35,979 - 01:09:39,660] time lots of time for your investment to start
+- [01:09:39,660 - 01:09:43,859] reaping rewards you've got to be patient but here's
+- [01:09:43,859 - 01:09:48,060] what does happen as soon as you turn a
+- [01:09:48,060 - 01:09:48,859] new direction
+- [01:09:49,420 - 01:09:53,580] i'm telling you you've got an excellent chance of
+- [01:09:53,580 - 01:09:57,740] a brand new destination a brand new destination in
+- [01:09:57,740 - 01:10:01,900] three years a brand new destination in five years
+- [01:10:01,900 - 01:10:06,060] not a brand new destination tomorrow a brand new
+- [01:10:06,060 - 01:10:09,180] destination that will come just as surely as
+- [01:10:09,180 - 01:10:12,300] you follow and adhere to the disciplines required
+- [01:10:19,900 - 01:10:30,150] I've beeniled for the impact of the
+- [01:10:30,150 - 01:10:40,400] way history judged you that you are an
+- [01:10:40,400 - 01:10:40,950] individual after day and it was me as a
+- [01:10:40,950 - 01:10:41,500] powder and ready to learn shall be experiencing this
+- [01:10:41,500 - 01:10:42,270] downward spiral without wisdom without
+- [01:10:42,270 - 01:10:43,040] research or corrective technique without
+- [01:10:43,040 - 01:10:43,900] IQ علúsica
+- [01:10:43,900 - 01:10:44,160] This has turned into another another life set
+- [01:10:44,160 - 01:10:44,420] all the people were thinking victims of the
+- [01:10:44,420 - 01:10:44,980] world they were such people
+- [01:10:44,980 - 01:10:45,540] who built kingdoms based on this
+- [01:10:45,540 - 01:10:45,600] yt hungry slide that tends to
+- [01:10:45,600 - 01:10:45,660] raise the guard of free levar
+- [01:10:45,660 - 01:10:45,940] can it be richer than the homeless delta
+- [01:10:45,940 - 01:10:46,040] experience the range of biology of the world
+- [01:10:46,040 - 01:10:46,400] self-knowledge is knowing who you are and what
+- [01:10:46,400 - 01:10:46,760] you want to do with your life self-knowledge is
+- [01:10:46,760 - 01:10:47,130] knowing how you feel about yourself self-knowledge
+- [01:10:47,130 - 01:10:47,500] has a lot to do with your philosophy
+- [01:10:47,500 - 01:10:48,100] why and why is it
+- [01:10:48,100 - 01:10:48,700] that different from the Ramen Xia
+- [01:10:48,700 - 01:10:48,740] something should come fast and
+- [01:10:48,740 - 01:10:48,780] that's why we do the self-knowledge
+- [01:10:48,780 - 01:10:48,860] is the best for self development self-knowledge
+- [01:10:48,860 - 01:10:48,940] has a lot to do with your philosophy
+- [01:10:48,940 - 01:10:52,179] and your philosophy has a lot to do with
+- [01:10:52,179 - 01:10:55,419] shaping your attitude how you feel about yourself how you
+- [01:10:55,419 - 01:10:59,769] feel about life how you feel about your direction
+- [01:10:59,769 - 01:11:04,120] how you feel about others around you your attitude
+- [01:11:04,900 - 01:11:07,990] you've got to know you've got to gather up
+- [01:11:07,990 - 01:11:11,080] enough knowledge and information to know to know what's
+- [01:11:11,080 - 01:11:14,379] right for you how do you gather up
+- [01:11:14,379 - 01:11:17,679] information well you can start with your own experiences
+- [01:11:17,680 - 01:11:20,620] the best way to know if something works for you
+- [01:11:20,620 - 01:11:23,560] the right way is to do it the wrong way
+- [01:11:24,520 - 01:11:26,950] now you can't keep doing it the wrong way you've
+- [01:11:26,950 - 01:11:29,380] got to be smart enough to say hey this isn't
+- [01:11:29,380 - 01:11:33,160] working and change it start doing it the right
+- [01:11:33,160 - 01:11:36,940] way then search for the knowledge and apply what's
+- [01:11:36,940 - 01:11:40,390] right for you in your life develop
+- [01:11:40,390 - 01:11:43,840] your own attitudes and philosophies around your own
+- [01:11:43,840 - 01:11:46,900] experiences and the experiences of others
+- [01:11:47,680 - 01:11:50,770] take all of the information you have gathered
+- [01:11:50,770 - 01:11:53,860] and compile it consider it debate it tear it
+- [01:11:53,860 - 01:11:58,270] apart turn it upside down look at it from your
+- [01:11:58,270 - 01:12:02,680] own perspective and refine it to suit you rearrange it
+- [01:12:03,460 - 01:12:06,730] throw some of it out keep what you think
+- [01:12:06,730 - 01:12:10,000] will work for you and most importantly make sure that
+- [01:12:10,000 - 01:12:13,360] what you end up doing is the product of
+- [01:12:13,360 - 01:12:16,720] your own conclusion make sure that the knowledge that you
+- [01:12:16,720 - 01:12:20,600] building is your own self-knowledge the
+- [01:12:20,600 - 01:12:24,480] first component of positive self-direction self-knowledge
+- [01:12:25,680 - 01:12:27,520] the second component of
+- [01:12:27,520 - 01:12:29,360] positive self-direction is self-preparation
+- [01:12:30,800 - 01:12:33,240] self-preparation being ready for the opportunities
+- [01:12:33,240 - 01:12:35,680] when they show up in your life
+- [01:12:36,720 - 01:12:39,400] being ready for the sales call that may make
+- [01:12:39,400 - 01:12:42,080] you a fortune being ready for the meeting that
+- [01:12:42,080 - 01:12:45,280] may positively affect your career being ready for
+- [01:12:45,280 - 01:12:48,480] it all in expectation that it will come
+- [01:12:50,640 - 01:12:52,880] now for those of you who are parents when you
+- [01:12:52,880 - 01:12:55,120] found out that a new member of the family was
+- [01:12:55,120 - 01:12:58,240] going to come along in nine months or so
+- [01:12:58,240 - 01:13:01,360] what did you do you started getting ready you started
+- [01:13:01,360 - 01:13:04,200] reading the books on how to best handle a
+- [01:13:04,200 - 01:13:07,040] baby you started buying everything you needed to care for
+- [01:13:07,040 - 01:13:09,560] the baby you started asking advice
+- [01:13:09,560 - 01:13:12,080] from friends and relatives who've already had
+- [01:13:12,080 - 01:13:16,040] a baby or two you ask questions defined your
+- [01:13:16,040 - 01:13:20,000] parenting style got ready for a major change in
+- [01:13:20,000 - 01:13:22,480] how you live and the hours you keep and
+- [01:13:22,480 - 01:13:24,960] the financial obligations you have to live up to
+- [01:13:25,519 - 01:13:29,079] you started getting ready well preparing for your own
+- [01:13:29,079 - 01:13:32,640] life is pretty much the same defining a goal
+- [01:13:32,640 - 01:13:35,240] planning a goal knowing that with
+- [01:13:35,240 - 01:13:37,840] enough planning and dedication and hard work
+- [01:13:38,480 - 01:13:40,240] you'll meet your goal you know
+- [01:13:40,240 - 01:13:42,000] that it will be tough for them
+- [01:13:42,080 - 01:13:45,440] first few years but the sacrifice is well worth it
+- [01:13:45,440 - 01:13:48,800] so in the meantime you've got to be ready for it
+- [01:13:49,760 - 01:13:52,760] if you wish to be ruler over many you've got
+- [01:13:52,760 - 01:13:55,760] to be faithful with few if you wish to have power
+- [01:13:55,760 - 01:13:59,480] and influence over many be the leader of many
+- [01:13:59,480 - 01:14:03,200] and get the return from many be faithful when there's
+- [01:14:03,200 - 01:14:06,400] just a few faithful meaning disciplined be
+- [01:14:06,400 - 01:14:09,600] disciplined when there are just a few
+- [01:14:10,480 - 01:14:12,960] and in your own enlightened self-interest that gives
+- [01:14:12,960 - 01:14:15,440] you the best chance to be the ruler
+- [01:14:16,080 - 01:14:17,960] or to have power or to have
+- [01:14:17,960 - 01:14:19,840] influence or to have a place of honor
+- [01:14:20,400 - 01:14:24,360] among the many be faithful when there's just a
+- [01:14:24,360 - 01:14:28,320] few someone says if i had a big organization
+- [01:14:28,320 - 01:14:30,360] i'd really pour it on but i've just got
+- [01:14:30,360 - 01:14:32,400] a few and i don't know where they are
+- [01:14:33,120 - 01:14:36,160] come on when you've got just a few you could
+- [01:14:36,160 - 01:14:39,200] know where all of them are what if we interviewed
+- [01:14:39,200 - 01:14:39,520] parents
+- [01:14:39,600 - 01:14:42,240] who had a fairly large family who have all grown
+- [01:14:42,240 - 01:14:44,880] up and gone what if we said to them what happened
+- [01:14:44,880 - 01:14:47,280] to all of your children what if they
+- [01:14:47,280 - 01:14:49,680] said i don't know they just all wandered off
+- [01:14:50,480 - 01:14:53,160] and we asked well where did they all go
+- [01:14:53,160 - 01:14:55,840] and they say who knows they're just all gone
+- [01:14:56,560 - 01:15:00,240] we're just going to have to have some more no
+- [01:15:00,240 - 01:15:03,920] if you've got a few employees if you've got a few
+- [01:15:03,920 - 01:15:06,720] distributors if you've got a few people
+- [01:15:06,720 - 01:15:09,520] that's the time to sharpen your communication skills
+- [01:15:09,600 - 01:15:13,560] skills of being in touch getting prepared giving the
+- [01:15:13,560 - 01:15:17,520] most of your heart and soul that's the time
+- [01:15:17,520 - 01:15:20,920] when you just have a few in your own
+- [01:15:20,920 - 01:15:24,320] enlightened self-interest set up the lines when there's a few
+- [01:15:25,120 - 01:15:28,800] be totally absorbed when there's just a few then
+- [01:15:28,800 - 01:15:32,480] you put yourself by reputation and by skill in line
+- [01:15:33,040 - 01:15:35,920] so that when a leadership position opens with
+- [01:15:35,920 - 01:15:38,800] the many you'll be called that's the key
+- [01:15:39,600 - 01:15:42,440] now the same thing goes with your money someone says
+- [01:15:42,440 - 01:15:45,280] oh if i had a fortune i'd really take good
+- [01:15:45,280 - 01:15:48,520] care of it but i've only got a paycheck and
+- [01:15:48,520 - 01:15:51,760] i don't know where it goes wow did you ever hear
+- [01:15:51,760 - 01:15:55,440] that expression i don't know where it all goes did you
+- [01:15:55,440 - 01:15:59,120] ever hear that oh we'd love to have you run our
+- [01:15:59,120 - 01:16:03,160] company you don't know where it all goes wow we'd
+- [01:16:03,160 - 01:16:07,200] love to have you run the world it just gets away
+- [01:16:07,200 - 01:16:08,160] from you it just disappears it's just a matter
+- [01:16:08,160 - 01:16:09,120] of time until you're done with your job and you're
+- [01:16:09,120 - 01:16:09,480] done with your job and you're done with your job and
+- [01:16:09,480 - 01:16:09,840] you're done with your job and you're done with your job
+- [01:16:10,720 - 01:16:13,560] come on positive self-direction says
+- [01:16:13,560 - 01:16:16,400] in your own enlightened self-interest
+- [01:16:16,400 - 01:16:20,040] pay real close attention to just a few dollars
+- [01:16:20,040 - 01:16:23,680] really know where they come from and know where
+- [01:16:23,680 - 01:16:26,960] they go set up the disciplines when the amounts
+- [01:16:26,960 - 01:16:30,240] are small and you'll be on your way to handling
+- [01:16:30,240 - 01:16:34,440] it when the amounts are
+- [01:16:34,440 - 01:16:38,640] many enlightened self-interest positive self-direction self-preparation
+- [01:16:39,680 - 01:16:42,160] be ready for tomorrow by doing all
+- [01:16:42,160 - 01:16:44,640] that you can today setting your goals
+- [01:16:46,640 - 01:16:49,240] set a goal that will make you stretch for
+- [01:16:49,240 - 01:16:51,840] what it will make of you to achieve it
+- [01:16:52,800 - 01:16:56,040] what a brand new reason for setting goals
+- [01:16:56,040 - 01:16:59,280] what an all-encompassing challenge to have a better vision
+- [01:16:59,280 - 01:17:03,720] of the future to see what it will make of
+- [01:17:03,720 - 01:17:08,160] you to achieve it and here's why the greatest value in
+- [01:17:08,160 - 01:17:11,600] life is not what you get the greatest value
+- [01:17:11,600 - 01:17:15,040] in life is what you become the major question to
+- [01:17:15,040 - 01:17:18,760] ask on the job is not what am i getting here
+- [01:17:18,760 - 01:17:22,480] the major question to ask is what am i becoming here
+- [01:17:23,519 - 01:17:26,479] it's not what you get that makes you
+- [01:17:26,479 - 01:17:29,440] valuable it's what you become that makes you valuable
+- [01:17:30,800 - 01:17:32,520] set the kind of goals that will
+- [01:17:32,520 - 01:17:34,240] make something of you to achieve them
+- [01:17:34,240 - 01:17:38,879] so there you have the two components
+- [01:17:38,879 - 01:17:43,519] of positive self-direction number one self-knowledge knowing
+- [01:17:43,519 - 01:17:46,879] who you are and what you want to do
+- [01:17:46,879 - 01:17:50,240] with your life and number two self-preparation getting ready for
+- [01:17:50,240 - 01:17:53,720] the opportunities before they come your way
+- [01:17:53,720 - 01:17:57,200] you need both aspects for positive self-direction
+- [01:17:58,080 - 01:18:00,960] figuring out who you are and what you want
+- [01:18:00,960 - 01:18:03,840] and being prepared for the day you reach your goals
+- [01:18:04,480 - 01:18:08,240] being ready being worthy becoming the person you
+- [01:18:08,240 - 01:18:12,000] need to be in pursuit of what you want
+- [01:18:12,719 - 01:18:15,839] what good is an opportunity if you're not prepared to
+- [01:18:15,839 - 01:18:18,960] take advantage of it it's no good won't do a
+- [01:18:18,960 - 01:18:23,000] thing for you be prepared now here's
+- [01:18:23,000 - 01:18:27,040] what's called the self-knowledge acid test quickly
+- [01:18:27,040 - 01:18:30,279] without thinking too much about it quickly
+- [01:18:30,279 - 01:18:33,519] list your three most important long-term work-related
+- [01:18:34,960 - 01:18:36,400] goals is it a client you've
+- [01:18:36,400 - 01:18:37,840] been trying to sign for several months
+- [01:18:38,719 - 01:18:41,759] is it a major sale you've been trying to make
+- [01:18:41,759 - 01:18:44,800] is it a promotion is it a partnership in the firm
+- [01:18:46,080 - 01:18:48,120] quickly list your three
+- [01:18:48,120 - 01:18:50,160] most important long-term work-related goals
+- [01:18:51,040 - 01:18:54,279] achievements that you want to make achievements that
+- [01:18:54,279 - 01:18:57,519] will take a while to get write them down
+- [01:18:59,040 - 01:19:01,279] again without thinking too much about it
+- [01:19:01,279 - 01:19:03,519] quickly list your three most important personal and
+- [01:19:03,520 - 01:19:05,880] spiritual goals things that will make
+- [01:19:05,880 - 01:19:08,240] a difference in your personal life
+- [01:19:09,120 - 01:19:12,000] is it going to church more often than
+- [01:19:12,000 - 01:19:14,880] holidays grasping all you can from the sunday sermon
+- [01:19:16,320 - 01:19:18,880] is it spending more quality time with your kids
+- [01:19:20,000 - 01:19:22,440] is it turning the tv off during the
+- [01:19:22,440 - 01:19:24,880] dinner hour and actually talking about the important
+- [01:19:24,880 - 01:19:27,320] things in life with your family is
+- [01:19:27,320 - 01:19:29,760] it making more dates with your spouse
+- [01:19:30,800 - 01:19:33,440] is it planning a much needed family vacation
+- [01:19:34,480 - 01:19:35,360] What is it?
+- [01:19:35,960 - 01:19:37,850] What are the important goals
+- [01:19:37,850 - 01:19:39,740] in your personal and spiritual life?
+- [01:19:40,820 - 01:19:43,010] Is one of them making a conscious
+- [01:19:43,010 - 01:19:45,200] effort to exercise more, to eat better,
+- [01:19:45,640 - 01:19:48,200] to lose some weight, to get in shape?
+- [01:19:48,980 - 01:19:51,010] What are the three most important
+- [01:19:51,010 - 01:19:53,040] personal and spiritual goals that you have?
+- [01:19:53,180 - 01:19:54,400] Write them down.
+- [01:19:54,980 - 01:19:57,940] Doesn't matter what they are, just write them down.
+- [01:19:57,940 - 01:20:00,999] Now, take some time to really visualize what
+- [01:20:00,999 - 01:20:04,059] the achievement of these goals would look like.
+- [01:20:05,160 - 01:20:06,979] What does your future hold for
+- [01:20:06,979 - 01:20:08,799] you if you landed that big client?
+- [01:20:09,740 - 01:20:11,149] What does your future look
+- [01:20:11,149 - 01:20:12,559] like if you got that promotion,
+- [01:20:13,080 - 01:20:15,360] if you spent more time with your family,
+- [01:20:15,860 - 01:20:18,839] if you planned more outings with your spouse?
+- [01:20:19,639 - 01:20:21,679] What does your future look like?
+- [01:20:21,980 - 01:20:24,419] Really spend some time on this now.
+- [01:20:25,080 - 01:20:26,360] It's important stuff.
+- [01:20:27,219 - 01:20:27,919] What does your future look like?
+- [01:20:27,920 - 01:20:29,100] What does it all look like?
+- [01:20:30,200 - 01:20:32,600] Ask yourself, is this really my goal?
+- [01:20:32,720 - 01:20:34,440] Is this truly what I want?
+- [01:20:35,200 - 01:20:36,600] Is it a positive goal?
+- [01:20:36,740 - 01:20:38,750] Is it important enough to me to
+- [01:20:38,750 - 01:20:40,760] become what it takes to reach this goal?
+- [01:20:41,280 - 01:20:42,140] Is it mine?
+- [01:20:42,660 - 01:20:43,740] Is it worth it?
+- [01:20:44,740 - 01:20:47,010] If your three goals on the career
+- [01:20:47,010 - 01:20:49,280] side and three goals on the personal side
+- [01:20:49,280 - 01:20:51,240] don't stand up to these questions,
+- [01:20:51,780 - 01:20:53,680] you need to take some time
+- [01:20:53,680 - 01:20:55,580] to carefully redefine a few things.
+- [01:20:56,780 - 01:20:57,860] Redefine your list.
+- [01:20:58,720 - 01:21:01,720] Redefine where it is that these goals came from.
+- [01:21:02,680 - 01:21:05,600] Redefine what actually is important to you.
+- [01:21:06,540 - 01:21:09,480] Redefine how hard you'll really work to get them.
+- [01:21:11,240 - 01:21:13,100] Now there are two parts to
+- [01:21:13,100 - 01:21:14,960] this goal setting and redefining process.
+- [01:21:15,600 - 01:21:16,640] There's two parts.
+- [01:21:16,640 - 01:21:19,480] Number one, don't set your goals too low.
+- [01:21:20,440 - 01:21:22,640] An interesting thing that we teach in leadership,
+- [01:21:22,980 - 01:21:24,800] don't join an easy crowd.
+- [01:21:25,340 - 01:21:26,340] You won't grow.
+- [01:21:26,920 - 01:21:27,800] Go where the expectations are.
+- [01:21:27,800 - 01:21:29,120] Go where the expectations are high.
+- [01:21:29,240 - 01:21:31,360] Go where the demands are high.
+- [01:21:31,940 - 01:21:35,930] Go where the pressure is on to perform, to grow,
+- [01:21:35,930 - 01:21:39,920] to change, to develop, to read, to study, to develop skills.
+- [01:21:41,360 - 01:21:43,780] Now here's the second part on setting goals.
+- [01:21:43,960 - 01:21:46,200] Number one is don't set your goals too low.
+- [01:21:46,740 - 01:21:49,620] Number two is don't compromise.
+- [01:21:50,600 - 01:21:51,740] Don't sell out.
+- [01:21:52,880 - 01:21:55,320] There were some things I went for back in those
+- [01:21:55,320 - 01:21:57,760] early years that I paid too big a price for.
+- [01:21:58,760 - 01:22:01,440] If I'd known back then how much it was going
+- [01:22:01,440 - 01:22:04,120] to cost me, I never would have gone for them.
+- [01:22:04,840 - 01:22:05,960] But I didn't know.
+- [01:22:06,760 - 01:22:07,960] Don't sell out.
+- [01:22:09,080 - 01:22:11,800] An ancient phrase says count the cost.
+- [01:22:12,480 - 01:22:13,860] Count the cost if it won't
+- [01:22:13,860 - 01:22:15,240] make you happy to get it.
+- [01:22:15,960 - 01:22:18,520] If you become less in your pursuit of getting it,
+- [01:22:19,120 - 01:22:21,320] if it's not worth the life you'll lead
+- [01:22:21,320 - 01:22:23,520] after you get it, it's not worth it.
+- [01:22:27,800 - 01:22:29,840] That's the way self preparation works.
+- [01:22:29,840 - 01:22:31,880] It's not about getting it, it's about getting it.
+- [01:22:31,880 - 01:22:35,320] It's about getting it, it's about getting it.
+- [01:22:35,320 - 01:22:37,600] I think self preparation is the most effective
+- [01:22:37,600 - 01:22:39,880] way to get yourself out of your comfort zone.
+- [01:22:39,880 - 01:22:42,360] Now let's talk a little more about self preparation.
+- [01:22:42,480 - 01:22:44,680] Self preparation has two benefits.
+- [01:22:45,640 - 01:22:47,880] The first benefit of self preparation is
+- [01:22:47,880 - 01:22:50,120] that it moves you toward your goal.
+- [01:22:51,000 - 01:22:52,680] You've already got it in mind.
+- [01:22:52,760 - 01:22:54,440] You know where you want to go.
+- [01:22:55,080 - 01:22:56,360] You're getting ready for it.
+- [01:22:56,920 - 01:22:59,640] you're doing all the things you're supposed to do
+- [01:22:59,640 - 01:23:02,360] and by getting ready to achieve your goals you're
+- [01:23:02,360 - 01:23:05,760] moving closer to your goals that's how
+- [01:23:05,760 - 01:23:09,160] it works the second major benefit to self-preparation
+- [01:23:09,160 - 01:23:13,200] is that it refuels your ambition your activity
+- [01:23:13,200 - 01:23:17,240] refuels your ambition the things that you are
+- [01:23:17,240 - 01:23:20,560] doing today are getting you ready for tomorrow
+- [01:23:20,560 - 01:23:23,880] it's exciting you know that you're getting closer
+- [01:23:23,880 - 01:23:27,640] every day ambition must be kept alive be
+- [01:23:27,640 - 01:23:31,400] kept active must continue to move forward otherwise
+- [01:23:31,400 - 01:23:34,640] you're just daydreaming you must keep active keep
+- [01:23:34,640 - 01:23:37,880] moving forward so your ambition can fuel you
+- [01:23:38,760 - 01:23:42,320] motivate you get you where you want
+- [01:23:42,320 - 01:23:45,880] to be self-preparation the benefits are number
+- [01:23:45,880 - 01:23:49,320] one it moves you toward your goals and
+- [01:23:49,320 - 01:23:52,760] number two it refuels your ambition be prepared
+- [01:23:53,640 - 01:23:53,750] get ready to move forward and move forward
+- [01:23:53,750 - 01:23:53,860] and move forward and move forward and move forward
+- [01:23:53,860 - 01:23:58,059] get ready this method of self-preparation involves
+- [01:23:58,059 - 01:24:02,259] three steps step one carefully consider where the
+- [01:24:02,259 - 01:24:05,339] next opportunity for reaching your goal will originate
+- [01:24:05,339 - 01:24:08,420] where will it come from will it come
+- [01:24:08,420 - 01:24:11,140] from networking with your colleagues will it come
+- [01:24:11,140 - 01:24:13,860] from reading the last book that you bought
+- [01:24:14,980 - 01:24:16,860] the book that's still sitting on your
+- [01:24:16,860 - 01:24:18,740] shelf waiting to give you some answers
+- [01:24:20,179 - 01:24:21,659] will it come from you taking
+- [01:24:21,659 - 01:24:23,139] the time to think it out
+- [01:24:23,860 - 01:24:27,260] where will it come from the next opportunity
+- [01:24:27,260 - 01:24:30,660] that will push you forward if you don't know
+- [01:24:31,460 - 01:24:34,540] here's what you have to do for each major
+- [01:24:34,540 - 01:24:37,620] goal of yours the top priorities on your list
+- [01:24:38,420 - 01:24:39,900] for each of these take
+- [01:24:39,900 - 01:24:41,380] out a separate piece of paper
+- [01:24:42,180 - 01:24:46,100] one single sheet per major goal write down your
+- [01:24:46,100 - 01:24:50,020] goal at the top and start listing all reasonable
+- [01:24:50,020 - 01:24:50,340] resources write down every sentiment blue top all week
+- [01:24:50,340 - 01:24:50,660] and then after that you transfer it to your
+- [01:24:50,660 - 01:24:51,260] plan every contribution you provide if
+- [01:24:51,260 - 01:24:51,860] your recently�� disappointment that you've continuation
+- [01:24:51,860 - 01:24:52,380] would notjak a major idea without your low
+- [01:24:52,380 - 01:24:52,900] qualities list because if you do that then
+- [01:24:52,900 - 01:24:55,050] every possible place that you could
+- [01:24:55,050 - 01:24:57,200] find the opportunity to achieve this goal.
+- [01:24:58,339 - 01:25:00,559] And with each resource, classify them.
+- [01:25:01,379 - 01:25:04,379] Ask yourself, is this resource a sure thing?
+- [01:25:04,920 - 01:25:05,960] A good bet?
+- [01:25:06,820 - 01:25:08,400] About even chances?
+- [01:25:08,900 - 01:25:09,580] Unlikely?
+- [01:25:10,360 - 01:25:11,339] A long shot?
+- [01:25:12,320 - 01:25:15,120] Ask yourself these questions and classify all
+- [01:25:15,120 - 01:25:17,920] of the resources you have written down.
+- [01:25:18,360 - 01:25:19,719] That's the first step.
+- [01:25:19,720 - 01:25:22,110] The second step in this method
+- [01:25:22,110 - 01:25:24,500] of self-preparation is to make sure
+- [01:25:24,500 - 01:25:26,600] you know what you need to
+- [01:25:26,600 - 01:25:28,700] do to be prepared for your opportunities.
+- [01:25:29,820 - 01:25:32,080] Take your sure things first.
+- [01:25:32,480 - 01:25:34,060] Figure out what you need to
+- [01:25:34,060 - 01:25:35,640] do to be prepared when they happen.
+- [01:25:36,760 - 01:25:39,520] Break down your preparation into concrete steps.
+- [01:25:40,540 - 01:25:41,790] Make sure that you know
+- [01:25:41,790 - 01:25:43,040] exactly what you have to do
+- [01:25:43,040 - 01:25:44,640] to take advantage of the
+- [01:25:44,640 - 01:25:46,240] opportunity when it comes your way.
+- [01:25:47,560 - 01:25:49,640] Let's say that one of the top priorities
+- [01:25:49,640 - 01:25:49,670] of your life is to be
+- [01:25:49,670 - 01:25:49,700] prepared for the opportunities you have.
+- [01:25:49,700 - 01:25:51,180] One of the top priorities on your career
+- [01:25:51,180 - 01:25:52,660] list of goals is to get this new client.
+- [01:25:53,620 - 01:25:56,069] Let's take it one step further to say
+- [01:25:56,069 - 01:25:58,519] that on your resource list for this goal
+- [01:25:58,519 - 01:26:00,539] is to have a lunch meeting with a
+- [01:26:00,539 - 01:26:02,559] friend who just happens to be the mentor
+- [01:26:02,559 - 01:26:04,980] of the client you're going after.
+- [01:26:06,139 - 01:26:07,989] Is this friend of yours a
+- [01:26:07,989 - 01:26:09,840] sure bet on your resource list?
+- [01:26:10,800 - 01:26:12,080] Well, let's say he is.
+- [01:26:12,860 - 01:26:15,229] I mean, you know this guy is a
+- [01:26:15,229 - 01:26:17,599] tremendous consulting source for the client you want.
+- [01:26:18,099 - 01:26:19,519] The client you want?
+- [01:26:19,520 - 01:26:22,840] Really listens to the opinions and advice of your friend.
+- [01:26:23,920 - 01:26:26,380] So you're getting ready to have lunch with your friend.
+- [01:26:26,480 - 01:26:27,220] What do you do?
+- [01:26:27,880 - 01:26:29,330] You've got to make sure that
+- [01:26:29,330 - 01:26:30,780] you're up on all the knowledge
+- [01:26:30,780 - 01:26:33,580] and the industry data that will impress your friend.
+- [01:26:34,280 - 01:26:36,430] Make him realize that he knows
+- [01:26:36,430 - 01:26:38,580] someone who could benefit from your knowledge
+- [01:26:38,580 - 01:26:42,460] and your vitality and your spirit and your experience.
+- [01:26:43,360 - 01:26:43,980] Impress him.
+- [01:26:44,740 - 01:26:46,700] Impress him so much that he goes
+- [01:26:46,700 - 01:26:48,660] back to his friend, the client you're after,
+- [01:26:48,660 - 01:26:51,820] and tells this prospective client of yours
+- [01:26:51,820 - 01:26:54,980] that he needs to do business with you.
+- [01:26:55,940 - 01:26:56,980] Be prepared.
+- [01:26:58,200 - 01:27:00,669] Go through your entire list of
+- [01:27:00,669 - 01:27:03,139] goals and resources and classify them.
+- [01:27:04,120 - 01:27:07,200] Break each resource into concrete steps of preparation.
+- [01:27:08,139 - 01:27:10,689] Start by working on the sure bets
+- [01:27:10,689 - 01:27:13,240] first and then move down the line.
+- [01:27:13,240 - 01:27:16,400] The long shots will come through every so often,
+- [01:27:16,780 - 01:27:18,620] but start with the resources.
+- [01:27:18,660 - 01:27:22,080] Start with the things that will serve you best now.
+- [01:27:22,080 - 01:27:25,880] Get ready for the opportunities before they come your way.
+- [01:27:27,200 - 01:27:28,940] Step three in the self-preparation method
+- [01:27:28,940 - 01:27:30,680] is to do all you can
+- [01:27:30,680 - 01:27:33,860] to make each opportunity more likely to happen.
+- [01:27:33,860 - 01:27:36,300] After you've determined what you have to
+- [01:27:36,300 - 01:27:38,740] do to get ready to be prepared,
+- [01:27:38,740 - 01:27:41,020] after you've determined this, see what
+- [01:27:41,020 - 01:27:43,300] you can do to expedite the process.
+- [01:27:43,300 - 01:27:45,540] What can you do to
+- [01:27:45,540 - 01:27:47,780] increase the likelihood of this opportunity?
+- [01:27:47,780 - 01:27:48,280] Go over.
+- [01:27:48,660 - 01:27:49,160] Over it.
+- [01:27:49,160 - 01:27:49,660] And over it.
+- [01:27:49,660 - 01:27:50,160] And over it.
+- [01:27:50,160 - 01:27:50,660] And over it.
+- [01:27:50,660 - 01:27:51,160] And over it.
+- [01:27:51,160 - 01:27:51,660] And over it.
+- [01:27:51,660 - 01:27:52,160] And over it.
+- [01:27:52,160 - 01:27:54,410] Use these three methods again and again
+- [01:27:54,410 - 01:27:56,660] as you assess where you are now
+- [01:27:56,660 - 01:27:59,660] and where you have to go next to keep
+- [01:27:59,660 - 01:28:02,660] moving toward the achievements that are most important to you.
+- [01:28:04,260 - 01:28:06,340] Step one, consider your resources.
+- [01:28:07,380 - 01:28:08,900] Step two, determine what you
+- [01:28:08,900 - 01:28:10,420] have to do to get ready.
+- [01:28:11,220 - 01:28:14,580] Step three, expedite the opportunities.
+- [01:28:15,220 - 01:28:18,360] And by the way, this method of self-preparation,
+- [01:28:18,360 - 01:28:18,499] Step three, expedite the opportunities. And
+- [01:28:18,499 - 01:28:18,639] by the way, this method of self-preparation,
+- [01:28:18,660 - 01:28:21,460] works wherever you are in your journey,
+- [01:28:21,460 - 01:28:23,770] whether you're close to your goals or
+- [01:28:23,770 - 01:28:26,080] whether you're just starting your journey of self-direction.
+- [01:28:26,580 - 01:28:28,080] This method works.
+- [01:28:29,380 - 01:28:31,580] Have working knowledge to draw from.
+- [01:28:31,580 - 01:28:33,680] Continually work on yourself in preparation
+- [01:28:33,680 - 01:28:35,780] of where you want to be.
+- [01:28:36,540 - 01:28:39,540] Build a reservoir of thoughts and ideas
+- [01:28:39,540 - 01:28:42,540] and philosophies and experiences that are your own.
+- [01:28:43,080 - 01:28:47,740] Build, grow, change. Get ready. Be prepared.
+- [01:28:47,740 - 01:28:50,240] Be prepared for a life worth living.
+- [01:28:51,280 - 01:28:54,380] Now here are the four ifs that make life worthwhile.
+- [01:28:55,480 - 01:28:58,170] Number one, life is worthwhile if
+- [01:28:58,170 - 01:29:00,860] you learn nothing worse than being stupid.
+- [01:29:01,660 - 01:29:03,580] Life is worthwhile if you learn.
+- [01:29:03,900 - 01:29:05,860] Learn from your personal experiences.
+- [01:29:06,139 - 01:29:08,219] Learn from other people's experiences.
+- [01:29:09,219 - 01:29:12,740] Second, life is worthwhile if you try.
+- [01:29:12,740 - 01:29:15,410] Now you've got to take what you've learned and
+- [01:29:15,410 - 01:29:18,080] see if you can try your hand at it.
+- [01:29:18,559 - 01:29:21,280] Someone says, well, you can't try, you have to do.
+- [01:29:21,480 - 01:29:23,240] No, you have to try.
+- [01:29:24,200 - 01:29:26,030] I put the bar up two feet and
+- [01:29:26,030 - 01:29:27,860] ask the kids who can jump two feet.
+- [01:29:28,900 - 01:29:30,360] I can, some say.
+- [01:29:30,480 - 01:29:32,240] I can't, some say.
+- [01:29:32,420 - 01:29:34,639] I don't know, some say.
+- [01:29:35,340 - 01:29:36,800] How are you going to know?
+- [01:29:37,480 - 01:29:38,139] You don't.
+- [01:29:38,760 - 01:29:40,719] You've just got to try.
+- [01:29:41,580 - 01:29:42,719] Just back off.
+- [01:29:42,740 - 01:29:43,580] Back off and run at it.
+- [01:29:43,960 - 01:29:46,280] How are you going to know if you don't try?
+- [01:29:47,179 - 01:29:49,080] Now what if you knock the bar down?
+- [01:29:49,160 - 01:29:51,540] Does that mean you can't jump two feet?
+- [01:29:52,080 - 01:29:52,559] No.
+- [01:29:53,260 - 01:29:54,139] You have to what?
+- [01:29:54,620 - 01:29:55,620] Try it again.
+- [01:29:56,460 - 01:29:58,000] Of course, you have to try.
+- [01:29:58,160 - 01:29:59,719] Try it another way, but try.
+- [01:30:00,880 - 01:30:02,120] Try your hand at it.
+- [01:30:02,519 - 01:30:04,779] When the record book on you is finished,
+- [01:30:04,779 - 01:30:07,040] let it show your wins and your losses,
+- [01:30:07,260 - 01:30:08,690] but don't let the record
+- [01:30:08,690 - 01:30:10,120] book show that you didn't try.
+- [01:30:11,559 - 01:30:12,080] Next.
+- [01:30:12,740 - 01:30:14,740] Life is worthwhile if you stay.
+- [01:30:15,120 - 01:30:17,120] You've got to learn to stay.
+- [01:30:17,620 - 01:30:19,280] Now you don't have to stay forever.
+- [01:30:19,280 - 01:30:21,740] Just stay till you see it through.
+- [01:30:22,500 - 01:30:24,680] A guy builds a foundation and then
+- [01:30:24,680 - 01:30:26,860] he wanders off somewhere and builds another foundation.
+- [01:30:27,120 - 01:30:30,620] He's got these foundations scattered all across the country.
+- [01:30:31,080 - 01:30:33,510] I mean, no walls, no
+- [01:30:33,510 - 01:30:35,940] roofs, just a bunch of foundations.
+- [01:30:36,280 - 01:30:37,780] Not a good reputation.
+- [01:30:38,040 - 01:30:38,980] Stay.
+- [01:30:39,519 - 01:30:41,019] You don't have to stay forever.
+- [01:30:41,019 - 01:30:42,719] Just stay to finish something.
+- [01:30:42,720 - 01:30:44,720] Don't fall into the trap
+- [01:30:44,720 - 01:30:46,720] of less than refined sophistication.
+- [01:30:46,720 - 01:30:48,720] Stay till it's over.
+- [01:30:50,480 - 01:30:52,480] The fourth if that makes life worthwhile.
+- [01:30:52,480 - 01:30:53,720] One is if you learn.
+- [01:30:53,720 - 01:30:54,720] Two is if you try.
+- [01:30:54,720 - 01:30:56,720] Three is if you stay.
+- [01:30:56,720 - 01:30:58,720] And fourth if that makes
+- [01:30:58,720 - 01:31:00,720] life worthwhile is if you care.
+- [01:31:01,720 - 01:31:06,220] Caring is a unique human experience that is so
+- [01:31:06,220 - 01:31:10,720] vital and so powerful and so all-encompassing and so far-reaching.
+- [01:31:10,720 - 01:31:12,220] If you care at all, you'll get there.
+- [01:31:12,220 - 01:31:14,220] If you care at all, you'll get some results.
+- [01:31:14,720 - 01:31:18,220] If you care enough, you can get magnificent results.
+- [01:31:19,720 - 01:31:22,720] To lead a life worth living, you've got to learn, you've
+- [01:31:22,720 - 01:31:25,720] got to try, you've got to stay, and you've got to care.
+- [01:31:26,720 - 01:31:28,720] Develop your positive self-direction.
+- [01:31:29,220 - 01:31:31,220] Do these things we've discussed.
+- [01:31:31,720 - 01:31:34,470] Remember the four ifs and you're on
+- [01:31:34,470 - 01:31:37,220] your way to building a life worth living.
+- [01:31:42,220 - 01:31:44,720] Listen carefully to an irony in your
+- [01:31:44,720 - 01:31:47,220] own Kolmogorov language and know where to start.
+- [01:31:49,720 - 01:31:51,470] Develop a self-reliance secret when
+- [01:31:51,470 - 01:31:53,220] you see a cliff going down.
+- [01:31:53,220 - 01:31:54,220] Unit a gives joy when
+- [01:31:54,220 - 01:31:55,220] you see soul when it's gone.
+- [01:31:55,220 - 01:31:56,220] Unit j gives for joy
+- [01:31:56,220 - 01:31:57,220] when the stone will be gone.
+- [01:31:57,220 - 01:31:58,470] Find the Riksha God s circle
+- [01:31:58,470 - 01:31:59,720] and build a belief to a wish.
+- [01:32:01,220 - 01:32:05,220] The second principle of building ambition is self-reliance.
+- [01:32:05,220 - 01:32:07,220] Number one is self-direction.
+- [01:32:07,220 - 01:32:09,720] Number two is self-reliance.
+- [01:32:09,720 - 01:32:12,220] If you let these possibleц
+- [01:32:12,220 - 01:32:15,620] for your own life taking responsibility for
+- [01:32:15,620 - 01:32:19,020] whatever happens to you knowing that you have
+- [01:32:19,020 - 01:32:21,900] consciously made the decisions that are now
+- [01:32:21,900 - 01:32:24,780] affecting you knowing that what is happening
+- [01:32:24,780 - 01:32:28,740] now today is the direct result of your
+- [01:32:28,740 - 01:32:32,700] activity what you did yesterday self-reliance is basically
+- [01:32:32,700 - 01:32:36,140] counting on yourself now being self-reliant doesn't
+- [01:32:36,140 - 01:32:39,580] mean you can't work with others or trust
+- [01:32:39,580 - 01:32:43,860] others self-reliance means counting on yourself
+- [01:32:43,860 - 01:32:48,140] trusting yourself being confident with yourself
+- [01:32:48,140 - 01:32:51,579] being responsible to yourself trusting your
+- [01:32:51,579 - 01:32:55,019] own instincts trusting the conclusions that
+- [01:32:55,019 - 01:32:58,419] you have developed from your study of experiences
+- [01:32:58,419 - 01:33:01,820] and philosophies taking the credit that is do you
+- [01:33:02,860 - 01:33:04,860] learning from the mistakes that
+- [01:33:04,860 - 01:33:06,860] you have made being self-reliant
+- [01:33:08,460 - 01:33:09,500] gestalt psychology
+- [01:33:09,580 - 01:33:12,660] just give an example of being self-reliant they
+- [01:33:12,660 - 01:33:15,740] say that you're responsible for getting caught in
+- [01:33:15,740 - 01:33:19,460] the rain they say that by deciding not to
+- [01:33:19,460 - 01:33:23,180] carry an umbrella every day you have made the decision
+- [01:33:23,180 - 01:33:27,220] to endure an occasional drenching translation by
+- [01:33:27,220 - 01:33:31,260] not being prepared you make the choice of
+- [01:33:31,260 - 01:33:35,060] getting caught in some of life's unpleasant
+- [01:33:35,060 - 01:33:38,860] circumstances be they rain failures economic losses
+- [01:33:39,820 - 01:33:43,580] relationship losses professional losses personal losses
+- [01:33:44,620 - 01:33:48,020] by not being prepared thinking ahead it's your
+- [01:33:48,020 - 01:33:51,420] choice now here's the other side of it
+- [01:33:51,980 - 01:33:55,260] by being prepared you increase your chances of success
+- [01:33:56,140 - 01:33:59,060] you increase the likelihood by being
+- [01:33:59,060 - 01:34:01,980] prepared you increase your chances of success
+- [01:34:02,700 - 01:34:04,100] of seizing opportunities when they come your way
+- [01:34:04,100 - 01:34:05,500] of being ready within yourself to take advantage of
+- [01:34:05,500 - 01:34:06,050] what any opportunity may be is while nobody you have
+- [01:34:06,050 - 01:34:06,600] done any good work for it you won't benefit from it
+- [01:34:06,600 - 01:34:06,620] by being prepared you increase your chances of
+- [01:34:06,620 - 01:34:06,640] success of seizing opportunities when they come your way
+- [01:34:06,640 - 01:34:07,130] of being ready within yourself to take advantage of what
+- [01:34:07,130 - 01:34:07,620] you have best known as opportunities from life to day
+- [01:34:07,620 - 01:34:07,830] because what we teach nor one tries to do it's a great deal of theLOVE result
+- [01:34:07,830 - 01:34:08,040] thatぽhal Ó watch to see which will come to you guys that might help you with that
+- [01:34:08,040 - 01:34:11,490] yourself to take advantage of once in a
+- [01:34:11,490 - 01:34:14,940] lifetime situations some people tend to blame others for
+- [01:34:14,940 - 01:34:18,030] their mistakes blame others for their failures somebody
+- [01:34:18,030 - 01:34:21,120] says it's not my fault the report isn't
+- [01:34:21,120 - 01:34:25,020] done so and so didn't do their part of
+- [01:34:25,020 - 01:34:28,920] course it's your fault it's your report too it's your
+- [01:34:28,920 - 01:34:32,700] responsibility to see that everyone you delegated work
+- [01:34:32,700 - 01:34:36,480] to does their part now you can't control what
+- [01:34:36,480 - 01:34:39,869] others around you do but it's in
+- [01:34:39,869 - 01:34:43,259] your own best self-interest your enlightened self-interest
+- [01:34:43,860 - 01:34:47,220] that you stay on top of things especially if
+- [01:34:47,220 - 01:34:50,580] it's going to affect your future you think your boss
+- [01:34:50,580 - 01:34:54,419] cares that John didn't do his part you think he
+- [01:34:54,419 - 01:34:58,259] sees John as the bad guy of course not all he
+- [01:34:58,259 - 01:35:01,649] sees is that the report isn't done bottom
+- [01:35:01,649 - 01:35:05,040] line be responsible for the things that affect you
+- [01:35:06,179 - 01:35:06,419] you
+- [01:35:06,420 - 01:35:08,430] you can make sure you're more responsible by
+- [01:35:08,430 - 01:35:10,440] checking in with those people who are working
+- [01:35:10,440 - 01:35:13,770] with you the people who make up your team
+- [01:35:13,770 - 01:35:17,100] you can be more responsible by saying hey John how
+- [01:35:17,100 - 01:35:19,980] are you doing with your part do you need some
+- [01:35:19,980 - 01:35:22,860] help can we put somebody else in here to help
+- [01:35:22,860 - 01:35:26,130] you finish now if John consistently doesn't
+- [01:35:26,130 - 01:35:29,400] handle his part you've got to replace John
+- [01:35:30,060 - 01:35:32,610] if he isn't doing his share you've
+- [01:35:32,610 - 01:35:35,160] got to find somebody that will or what
+- [01:35:36,420 - 01:35:39,210] negatively affect you you can't wake up in the
+- [01:35:39,210 - 01:35:42,000] morning that the project is due hoping and wishing
+- [01:35:42,000 - 01:35:45,360] that John has done his part no you've got
+- [01:35:45,360 - 01:35:48,720] to be responsible because it's going to affect your
+- [01:35:48,720 - 01:35:52,650] career too now my approach to my better future very
+- [01:35:52,650 - 01:35:56,580] early on in my career was to just go through
+- [01:35:56,580 - 01:36:00,180] the day with my fingers crossed and I used to
+- [01:36:00,180 - 01:36:03,780] say something like I sure hope things will change for
+- [01:36:03,780 - 01:36:06,300] the better then here's what I found out
+- [01:36:06,420 - 01:36:10,380] they're not going to change somebody says well then
+- [01:36:10,380 - 01:36:14,340] how will my life ever change answer when you
+- [01:36:14,340 - 01:36:18,690] change when you change when you get better it'll
+- [01:36:18,690 - 01:36:23,040] get better if you change it'll all change don't
+- [01:36:23,040 - 01:36:26,820] put it on someone else hope that someone else
+- [01:36:26,820 - 01:36:30,600] will change it for you take responsibility for yourself
+- [01:36:30,600 - 01:36:33,360] take personal responsibility you
+- [01:36:33,360 - 01:36:36,120] can't change the circumstances
+- [01:36:36,120 - 01:36:39,540] or the seasons or the wind but you can
+- [01:36:39,540 - 01:36:42,960] change your reading habits you can change whether or not
+- [01:36:42,960 - 01:36:46,410] you go for the skills burn the midnight oil
+- [01:36:46,410 - 01:36:49,860] turn yourself around multiply your value by two three
+- [01:36:49,860 - 01:36:54,240] five ten that you've got charge of that you
+- [01:36:54,240 - 01:36:58,620] have control of you don't have control of the
+- [01:36:58,620 - 01:37:01,890] constellations but you've got control over whether or
+- [01:37:01,890 - 01:37:05,160] not you go to night school take adult classes
+- [01:37:05,160 - 01:37:06,059] learn some
+- [01:37:06,120 - 01:37:09,060] new skills you have control over that
+- [01:37:09,060 - 01:37:12,000] and if you don't that's your fault
+- [01:37:12,720 - 01:37:16,230] you've got to take personal responsibility you've
+- [01:37:16,230 - 01:37:19,740] got to be self-reliant you you you
+- [01:37:20,519 - 01:37:23,699] nobody else can change your life alter
+- [01:37:23,699 - 01:37:26,880] your ambitions pave a golden road for you
+- [01:37:26,880 - 01:37:31,230] but you can it's up to you be
+- [01:37:31,230 - 01:37:35,580] responsible for yourself learn to reap the harvest without
+- [01:37:36,120 - 01:37:39,660] it this is a sign of growing maturity
+- [01:37:39,660 - 01:37:43,200] and here's where it comes from taking full responsibility
+- [01:37:44,340 - 01:37:47,790] take full responsibility for everything you do
+- [01:37:47,790 - 01:37:51,240] be responsible to yourself it's your crop
+- [01:37:52,559 - 01:37:56,069] whatever your paycheck is take full responsibility you
+- [01:37:56,069 - 01:37:59,580] say well it's my employer no it's not your
+- [01:37:59,580 - 01:38:02,130] employer you can become twice
+- [01:38:02,130 - 01:38:04,680] as valuable three times as valuable
+- [01:38:06,120 - 01:38:09,480] midnight oil learn some more skills bring more
+- [01:38:09,480 - 01:38:12,840] value to the Marketplace I'm telling you whatever
+- [01:38:12,840 - 01:38:15,540] your harvest is take it without
+- [01:38:15,540 - 01:38:18,240] complaint take it without blaming others
+- [01:38:28,140 - 01:38:30,630] self-preparation leads to control over your life
+- [01:38:30,630 - 01:38:33,120] we discussed this in the last session
+- [01:38:34,000 - 01:38:37,040] whenever you prepare correctly taking all of the
+- [01:38:37,040 - 01:38:40,080] steps you're supposed to take doing everything in
+- [01:38:40,080 - 01:38:43,400] your power to stay on track whenever
+- [01:38:43,400 - 01:38:46,720] your preparations lead to success achieving your goals
+- [01:38:47,280 - 01:38:50,280] you reinforce the disciplines that got you
+- [01:38:50,280 - 01:38:53,280] there success leads to reinforcement of the proper
+- [01:38:53,280 - 01:38:57,040] disciplines if what you're doing is working keep
+- [01:38:57,040 - 01:39:00,800] doing it if what you're doing isn't working change
+- [01:39:00,800 - 01:39:04,520] it when you are doing all that you can
+- [01:39:04,520 - 01:39:08,240] possibly do and are successful at reaching your expectations
+- [01:39:08,240 - 01:39:11,640] keep doing it success is a
+- [01:39:11,640 - 01:39:15,040] reinforcement psychologists call this positive reinforcement
+- [01:39:16,000 - 01:39:19,160] we all know about positive reinforcement that's how we
+- [01:39:19,160 - 01:39:22,320] train our dogs that's how we teach our kids
+- [01:39:23,360 - 01:39:25,880] that's how the trainers at sea world can get
+- [01:39:25,880 - 01:39:28,400] a killer whale to do tricks and follow commands
+- [01:39:28,960 - 01:39:30,720] and work side by side with you
+- [01:39:30,800 - 01:39:34,400] humans by positive reinforcement when you bring a brand
+- [01:39:34,400 - 01:39:38,000] new puppy home and try to teach him not to
+- [01:39:38,000 - 01:39:41,040] mess in the house what do you do you
+- [01:39:41,040 - 01:39:44,080] reward him for going outside or scratching at the door
+- [01:39:45,600 - 01:39:47,520] when you're trying to get your toddler out
+- [01:39:47,520 - 01:39:49,440] of the diaper stage what do you do
+- [01:39:50,160 - 01:39:52,840] you reward her with special presents make
+- [01:39:52,840 - 01:39:55,520] her feel special for learning something new
+- [01:39:56,720 - 01:39:58,760] when you're trying to get your older kids
+- [01:39:58,760 - 01:40:00,800] to crack the books and study what do you
+- [01:40:00,800 - 01:40:03,800] do you reward them when they get good grades
+- [01:40:03,800 - 01:40:06,800] you teach them that the skills they are developing
+- [01:40:06,800 - 01:40:09,840] now will have great positive effects on
+- [01:40:09,840 - 01:40:12,880] their lives later but you reward them now
+- [01:40:13,920 - 01:40:17,440] this is positive reinforcement learning that there
+- [01:40:17,440 - 01:40:20,960] are rewards for doing something good something
+- [01:40:20,960 - 01:40:24,560] worthwhile something of value the greater the value
+- [01:40:24,560 - 01:40:28,160] the greater the reward the better you do
+- [01:40:28,160 - 01:40:28,820] the better your reward the greater the value
+- [01:40:28,820 - 01:40:29,480] the greater the reward the greater the reward the
+- [01:40:29,480 - 01:40:29,510] better your reward the greater the value the reward the greater your
+- [01:40:29,510 - 01:40:29,540] reward the greater you do the better your reward the better you do
+- [01:40:29,540 - 01:40:32,580] the greater the value the greater the reward
+- [01:40:32,580 - 01:40:35,620] a bigger paycheck a better house financial freedom
+- [01:40:36,180 - 01:40:39,900] it's all a reward system now there are
+- [01:40:39,900 - 01:40:43,620] two major benefits of positive reinforcement number one
+- [01:40:43,620 - 01:40:46,860] positive reinforcement builds good habits if what
+- [01:40:46,860 - 01:40:50,100] you are doing the habits you've gotten into
+- [01:40:50,900 - 01:40:53,820] are building your ambition and increasing your
+- [01:40:53,820 - 01:40:56,740] success keep doing them your success is
+- [01:40:56,740 - 01:41:00,020] reaffirming that these habits are good your success
+- [01:41:00,020 - 01:41:03,300] tells you that you need to keep doing
+- [01:41:03,300 - 01:41:06,900] what you are doing by reviewing these habits
+- [01:41:06,900 - 01:41:10,500] that bring on success you reinforce them give them
+- [01:41:10,500 - 01:41:14,540] sticking power now here's the other side by
+- [01:41:14,540 - 01:41:18,580] reviewing your habits what you do every day
+- [01:41:18,580 - 01:41:20,859] by reviewing your habits you may find out
+- [01:41:20,859 - 01:41:23,139] that some of them are inhibiting your success
+- [01:41:24,260 - 01:41:25,380] you may find out that
+- [01:41:25,380 - 01:41:26,500] what you're doing every day is
+- [01:41:26,500 - 01:41:26,540] bad for your family or for your friends
+- [01:41:26,540 - 01:41:26,580] your friends and family may work as Bellas 가는ős
+- [01:41:26,580 - 01:41:26,640] And you're keeping up with what your nature tells
+- [01:41:26,640 - 01:41:26,700] you so I just want to make that clear.
+- [01:41:26,700 - 01:41:26,709] that is the next definition of
+- [01:41:26,709 - 01:41:26,719] 자신 Π Цеball氧 κ curly hair
+- [01:41:26,719 - 01:41:26,729] CAREVERCause이� Felipe L address What's up
+- [01:41:26,729 - 01:41:26,740] is from proceed to apple of hah?
+- [01:41:26,740 - 01:41:30,129] for you or you may realize that you've gotten
+- [01:41:30,129 - 01:41:33,519] out of some very good habits somebody says well I've
+- [01:41:33,519 - 01:41:36,429] just gotten out of the habit of taking my
+- [01:41:36,429 - 01:41:39,340] daily walk around the block well I guess you'll just
+- [01:41:39,340 - 01:41:42,130] have to get in the habit of being sick down
+- [01:41:42,130 - 01:41:44,920] the road somebody says well I used to read the books
+- [01:41:44,920 - 01:41:48,160] all the time I've just gotten out of the
+- [01:41:48,160 - 01:41:51,400] habit then change it go back into your disciplines if
+- [01:41:51,400 - 01:41:55,749] you've just gotten out of the habit just get
+- [01:41:55,749 - 01:42:00,099] back into the habit it's called discipline if it doesn't
+- [01:42:00,099 - 01:42:03,159] work don't do it any longer you can keep your
+- [01:42:03,159 - 01:42:06,219] fingers crossed if you want to and hope that it'll
+- [01:42:06,219 - 01:42:09,189] all straighten out you can wish for the wind not
+- [01:42:09,189 - 01:42:12,160] to blow quite as severely to change in your favor
+- [01:42:12,940 - 01:42:16,389] but we call that naive at best if the
+- [01:42:16,389 - 01:42:19,839] habits that you've gotten into aren't serving you change them
+- [01:42:20,440 - 01:42:21,219] you can't
+- [01:42:21,219 - 01:42:21,339] keep
+- [01:42:21,339 - 01:42:21,379] keep
+- [01:42:21,380 - 01:42:24,560] doing this any longer don't wish for a better wind
+- [01:42:24,560 - 01:42:27,740] the key is to wish for the wisdom to set a
+- [01:42:27,740 - 01:42:31,160] better sale utilize whatever wind that blows to take
+- [01:42:31,160 - 01:42:34,580] you where you want to go that is the
+- [01:42:34,580 - 01:42:38,690] philosophy I picked up at age 25 and it revolutionized
+- [01:42:38,690 - 01:42:42,800] my whole life and here's what I found I found it
+- [01:42:42,800 - 01:42:47,060] was easy I became a millionaire when I was 31
+- [01:42:47,060 - 01:42:51,320] and I found it was easy now here's my definition of
+- [01:42:51,320 - 01:42:54,590] easy it was something I could do I
+- [01:42:54,590 - 01:42:57,860] figure if it's something you can do it's easy
+- [01:42:59,120 - 01:43:02,660] but here's a little parenthesis I worked hard at
+- [01:43:02,660 - 01:43:06,200] it I made sure my disciplines were in line
+- [01:43:06,200 - 01:43:09,979] I made sure my habits were good I made sure
+- [01:43:09,979 - 01:43:13,759] I did all that I could I found something that I
+- [01:43:13,759 - 01:43:17,449] could do but I worked hard at it I got up
+- [01:43:17,449 - 01:43:21,139] early stayed up late and worked hard from age 25 to 25.
+- [01:43:21,140 - 01:43:25,310] to 31 but what I did was easy meaning it was
+- [01:43:25,310 - 01:43:29,480] something I could do well you say Mr Rohn if it
+- [01:43:29,480 - 01:43:32,390] was so easy how come during those six years
+- [01:43:32,390 - 01:43:35,300] all those other people around you didn't get rich
+- [01:43:35,300 - 01:43:40,070] here's why it's easy not to how else would you
+- [01:43:40,070 - 01:43:44,840] describe it that's it it's easy to keep doing the
+- [01:43:44,840 - 01:43:47,180] things that don't work it's easy to keep
+- [01:43:47,180 - 01:43:49,520] bad habits it's easy not to develop the disciplines
+- [01:43:50,060 - 01:43:50,940] it's easy not to
+- [01:43:50,940 - 01:43:54,690] to so how come I got rich and they didn't
+- [01:43:54,690 - 01:43:58,440] here's a philosophical phrase the things that are easy to
+- [01:43:58,440 - 01:44:03,090] do are also easy not to do that's
+- [01:44:03,090 - 01:44:07,740] the difference between success and failure between daydreams and
+- [01:44:07,740 - 01:44:12,870] ambitions here's the key formula for success
+- [01:44:12,870 - 01:44:18,000] a few disciplines practice every day and those
+- [01:44:18,000 - 01:44:19,860] disciplines have to be well thought out
+- [01:44:20,940 - 01:44:23,639] what should you spend your time doing don't waste
+- [01:44:23,639 - 01:44:26,339] your time on things that aren't going to matter
+- [01:44:27,360 - 01:44:30,180] but a few simple disciplines can change your
+- [01:44:30,180 - 01:44:33,000] whole economic future future with your family future
+- [01:44:33,000 - 01:44:36,299] with your business future with your Enterprise
+- [01:44:36,299 - 01:44:39,599] your sales career your management career a few
+- [01:44:39,599 - 01:44:44,519] simple disciplines a few simple habits good habits
+- [01:44:44,519 - 01:44:49,440] repeated every day now here's the formula for
+- [01:44:49,440 - 01:44:49,860] failure
+- [01:44:50,940 - 01:44:55,889] all you've got to do is to have a few
+- [01:44:55,889 - 01:45:00,839] errors in your judgment and repeat them every day I'm telling
+- [01:45:00,839 - 01:45:03,869] you they'll spin out of control in 10 years you'll
+- [01:45:03,869 - 01:45:06,900] end up driving what you don't want to drive wearing
+- [01:45:06,900 - 01:45:10,019] what you don't want to wear living where you don't
+- [01:45:10,019 - 01:45:13,139] want to live earning what you don't want to earn a
+- [01:45:13,139 - 01:45:19,559] few errors every day bad habits every day it's disastrous
+- [01:45:20,940 - 01:45:23,579] now here's why it's easy to repeat an error
+- [01:45:23,579 - 01:45:26,219] in judgment because failure doesn't fall at the end
+- [01:45:26,219 - 01:45:29,279] of the first day bad habits don't show their
+- [01:45:29,279 - 01:45:32,339] horrible results at the end of the first day
+- [01:45:32,940 - 01:45:37,050] or the first week or the first month it's easy to
+- [01:45:37,050 - 01:45:41,160] get faked out if disaster fell on us at the end of
+- [01:45:41,160 - 01:45:44,970] the first week we'd change our philosophy but
+- [01:45:44,970 - 01:45:48,780] it's so subtle errors in judgment bad habits
+- [01:45:49,440 - 01:45:50,820] they're so subtle
+- [01:45:50,940 - 01:45:54,420] they get you a little off course a little
+- [01:45:54,420 - 01:45:57,900] off course a little off course you keep drifting off
+- [01:45:57,900 - 01:46:01,650] course and all of a sudden you're caught so
+- [01:46:01,650 - 01:46:05,400] you've got the choice right now of one of two
+- [01:46:05,400 - 01:46:09,720] easies easy to do or easy not to do I can give you
+- [01:46:09,720 - 01:46:14,040] in one sentence how I got rich by the time I was 31.
+- [01:46:14,040 - 01:46:17,430] I did not neglect to do the
+- [01:46:17,430 - 01:46:20,820] easy things I could do for six years
+- [01:46:21,839 - 01:46:25,139] I did not neglect that's the key I found
+- [01:46:25,139 - 01:46:28,440] something easy I could do that led to fortune
+- [01:46:28,980 - 01:46:32,490] and I did not neglect to do it the major
+- [01:46:32,490 - 01:46:36,000] reason for not having more of what you want in America
+- [01:46:36,000 - 01:46:39,660] more health more money more power more influence
+- [01:46:39,660 - 01:46:43,320] more everything the major reason is simple neglect
+- [01:46:44,339 - 01:46:47,609] neglect and if you don't take care of neglect
+- [01:46:47,609 - 01:46:50,879] it becomes an infection and then it becomes a disease
+- [01:46:50,940 - 01:46:55,110] so if you're in the habit of not doing it doing
+- [01:46:55,110 - 01:46:59,280] all it takes to get ahead get in the habit of
+- [01:46:59,280 - 01:47:02,910] doing it doing all it takes that's
+- [01:47:02,910 - 01:47:06,540] the first benefit of positive reinforcement building good
+- [01:47:06,540 - 01:47:09,779] habits now the second benefit of positive
+- [01:47:09,779 - 01:47:13,019] reinforcement is that it creates the energy
+- [01:47:13,019 - 01:47:16,679] to fuel additional achievement it gives you the drive
+- [01:47:16,679 - 01:47:20,339] to do more to not only keep on doing what's
+- [01:47:20,940 - 01:47:23,610] right but to do more of what's right the disciplines
+- [01:47:23,610 - 01:47:26,280] that will help you grow and get ahead of it all
+- [01:47:26,280 - 01:47:28,800] the knowledge that what you're doing is
+- [01:47:28,800 - 01:47:31,320] paying off creates more energy to keep going
+- [01:47:32,759 - 01:47:35,399] how easy is it to get up in the morning
+- [01:47:35,399 - 01:47:38,040] when you know you're not doing all that it takes
+- [01:47:38,759 - 01:47:41,939] it's not very easy at all you can just lay
+- [01:47:41,939 - 01:47:45,120] there awake thinking oh what's a few more minutes in bed
+- [01:47:45,120 - 01:47:47,700] it won't matter much anyway wrong
+- [01:47:47,700 - 01:47:50,280] it does matter it will matter
+- [01:47:51,339 - 01:47:53,929] now how easy is it to get up in the morning
+- [01:47:53,929 - 01:47:56,519] when you're pouring it add on doing the best you can
+- [01:47:57,120 - 01:48:00,030] anxious to get going make progress toward
+- [01:48:00,030 - 01:48:02,940] your dreams it's a whole different story
+- [01:48:04,620 - 01:48:06,990] when you're resting to renew your reserves it's
+- [01:48:06,990 - 01:48:09,360] much different than resting to avoid your day
+- [01:48:10,500 - 01:48:13,109] when you're psyched up and excited for your
+- [01:48:13,109 - 01:48:15,719] life when you're excited for what you've planned to
+- [01:48:15,719 - 01:48:16,289] accomplish for the day it's amazing you'll wake up before the alarm clock even tries to stop it's the day's cities you can hear when you're all in your room
+- [01:48:16,289 - 01:48:16,860] when you're asleep when the alarm clock might even start when you have no idea where you are but it's the morning clock when you're on track it's always exciting
+- [01:48:16,860 - 01:48:17,180] how easy is it to get up in the morning when you're pouring it on doing the
+- [01:48:17,180 - 01:48:17,500] best you can anxious to get going make progress toward your dreams it's a whole different story
+- [01:48:17,500 - 01:48:19,710] Amazing, you'll wake up before the alarm
+- [01:48:19,710 - 01:48:21,920] clock even tries to startle you awake.
+- [01:48:23,020 - 01:48:25,360] Your successes fuel your ambition.
+- [01:48:26,520 - 01:48:28,720] Your successes give you extra energy.
+- [01:48:29,620 - 01:48:32,300] Your successes pave the way for more successes.
+- [01:48:33,220 - 01:48:34,620] It's the snowball effect.
+- [01:48:34,620 - 01:48:37,450] With one success, you're excited to
+- [01:48:37,450 - 01:48:40,280] meet another and another and another.
+- [01:48:41,440 - 01:48:43,490] And pretty soon, the disciplines that
+- [01:48:43,490 - 01:48:45,540] were so difficult in the beginning,
+- [01:48:45,540 - 01:48:47,570] the disciplines that got you going
+- [01:48:47,570 - 01:48:49,600] are now part of your philosophy.
+- [01:48:51,680 - 01:48:53,680] How do you know when you're successful?
+- [01:48:53,900 - 01:48:55,120] Do you have to be a millionaire?
+- [01:48:55,960 - 01:48:56,440] No.
+- [01:48:57,300 - 01:48:59,230] All we ask of you is
+- [01:48:59,230 - 01:49:01,160] that you earn all you possibly can.
+- [01:49:01,860 - 01:49:03,910] If you earn $10,000 a year and
+- [01:49:03,910 - 01:49:05,960] that's the best you can do, that's enough.
+- [01:49:06,800 - 01:49:08,240] God and everything else will
+- [01:49:08,240 - 01:49:09,680] see to it that you're okay.
+- [01:49:10,180 - 01:49:13,560] The key is to just do the best you can.
+- [01:49:13,780 - 01:49:15,340] If it's $10,000 a year,
+- [01:49:15,340 - 01:49:16,020] wonderful.
+- [01:49:16,500 - 01:49:18,700] If it's $100,000 a year,
+- [01:49:18,880 - 01:49:19,400] wonderful.
+- [01:49:20,020 - 01:49:21,740] If it's a million a year,
+- [01:49:22,380 - 01:49:22,900] wonderful.
+- [01:49:23,820 - 01:49:25,730] It doesn't matter $10,000 a
+- [01:49:25,730 - 01:49:27,640] year or a million a year.
+- [01:49:27,940 - 01:49:30,300] It doesn't matter as long as
+- [01:49:30,300 - 01:49:32,660] you've done the best you possibly can.
+- [01:49:33,700 - 01:49:35,800] Earn the most you possibly can.
+- [01:49:36,320 - 01:49:38,640] Be the most you possibly can.
+- [01:49:38,880 - 01:49:39,700] And here's why.
+- [01:49:40,300 - 01:49:42,620] The essence of life is growth.
+- [01:49:43,240 - 01:49:45,320] The essence of life is growth.
+- [01:49:45,500 - 01:49:48,000] To do the best you can.
+- [01:49:49,300 - 01:49:50,400] And here's what's interesting.
+- [01:49:51,300 - 01:49:53,340] Humans are the only life form that
+- [01:49:53,340 - 01:49:55,380] will do less than they possibly can.
+- [01:49:56,540 - 01:49:58,060] Humans are the only life
+- [01:49:58,060 - 01:49:59,580] form that will settle for less.
+- [01:50:00,220 - 01:50:02,560] Every other life form except human
+- [01:50:02,560 - 01:50:04,900] beings strive to its maximum capacity.
+- [01:50:05,900 - 01:50:07,380] How tall will a tree grow?
+- [01:50:08,180 - 01:50:08,960] Approximately.
+- [01:50:10,240 - 01:50:12,340] As tall as it possibly can.
+- [01:50:12,580 - 01:50:13,520] You never heard of a tree
+- [01:50:13,520 - 01:50:14,460] growing half as high as a tree.
+- [01:50:14,460 - 01:50:14,880] You never heard of a tree
+- [01:50:14,880 - 01:50:15,300] growing half as high as a tree.
+- [01:50:15,340 - 01:50:15,680] You never heard of a tree
+- [01:50:15,680 - 01:50:16,020] growing half as high as it could.
+- [01:50:16,660 - 01:50:18,940] No, trees don't grow half.
+- [01:50:19,540 - 01:50:22,260] Trees send their roots down as deep as possible.
+- [01:50:22,620 - 01:50:25,180] Stretch their limbs up as high as possible.
+- [01:50:25,700 - 01:50:29,500] Produce every leaf possible and every fruit possible.
+- [01:50:30,340 - 01:50:32,520] As a matter of fact, you never
+- [01:50:32,520 - 01:50:34,700] heard of a human physically growing half.
+- [01:50:35,380 - 01:50:37,420] We keep growing until we're done.
+- [01:50:38,180 - 01:50:40,940] Now that's a part of life we can't control.
+- [01:50:41,740 - 01:50:43,140] It's genetically coded.
+- [01:50:44,100 - 01:50:45,300] And that's probably why we can't control it.
+- [01:50:45,500 - 01:50:47,500] We keep growing till we're done.
+- [01:50:48,500 - 01:50:50,500] Because we can't control that part.
+- [01:50:51,500 - 01:50:54,060] It's the rest of our growing that we control.
+- [01:50:54,580 - 01:50:57,200] The growing of our minds, the expansion
+- [01:50:57,200 - 01:50:59,820] of our minds, that we can control.
+- [01:51:00,900 - 01:51:02,980] And that's what tends to get away from us.
+- [01:51:03,060 - 01:51:05,440] All life forms inherently strive
+- [01:51:05,440 - 01:51:07,820] to their max except human beings.
+- [01:51:08,820 - 01:51:10,980] Now, why wouldn't human beings
+- [01:51:10,980 - 01:51:13,140] strive to their maximum possibility?
+- [01:51:13,140 - 01:51:14,140] Here's why.
+- [01:51:14,140 - 01:51:18,460] Because we've been given the dignity of choice.
+- [01:51:19,260 - 01:51:22,900] It makes us different than alligators and trees and birds.
+- [01:51:23,540 - 01:51:25,560] The dignity of choice makes us
+- [01:51:25,560 - 01:51:27,580] different than all other life forms.
+- [01:51:28,660 - 01:51:29,860] And here's the choice.
+- [01:51:30,740 - 01:51:34,300] To become part of what we could be, enough to
+- [01:51:34,300 - 01:51:37,860] get by, or to become all that we can be.
+- [01:51:38,860 - 01:51:41,740] My best advice for you is to choose the all.
+- [01:51:42,660 - 01:51:43,860] Earn all you can.
+- [01:51:43,860 - 01:51:45,740] Make all the friends you can.
+- [01:51:45,740 - 01:51:47,900] Read as many books as you can.
+- [01:51:47,900 - 01:51:50,339] Develop as many skills as you can.
+- [01:51:50,940 - 01:51:52,580] See as much as possible.
+- [01:51:52,580 - 01:51:54,500] Do as much as possible.
+- [01:51:55,059 - 01:51:57,219] Make as much fortune as possible.
+- [01:51:58,019 - 01:52:00,420] Give as much of it away as possible.
+- [01:52:01,139 - 01:52:02,099] The max.
+- [01:52:02,099 - 01:52:03,420] There's no life like it.
+- [01:52:04,380 - 01:52:06,199] I'm telling you, once I got
+- [01:52:06,199 - 01:52:08,019] on track, I've never looked back.
+- [01:52:09,059 - 01:52:10,139] Pick up the challenge.
+- [01:52:10,139 - 01:52:10,860] Go for it.
+- [01:52:11,820 - 01:52:13,780] Take the best of the two easy.
+- [01:52:13,860 - 01:52:16,500] Take the root of it's easy to get ahead.
+- [01:52:16,500 - 01:52:18,299] It's easy to do all you can.
+- [01:52:18,299 - 01:52:19,980] It's easy to succeed.
+- [01:52:20,660 - 01:52:22,740] It's easy to have financial freedom.
+- [01:52:23,179 - 01:52:25,700] The more you do, the more you get.
+- [01:52:27,259 - 01:52:29,939] So the two primary benefits of positive
+- [01:52:29,939 - 01:52:32,620] reinforcement are number one, to build good habits.
+- [01:52:33,460 - 01:52:36,620] And number two, to create more energy,
+- [01:52:36,620 - 01:52:39,780] to fuel your ambitions, your desires, your achievements.
+- [01:52:41,019 - 01:52:42,379] How can you isolate what's
+- [01:52:42,379 - 01:52:43,740] working for you and what isn't?
+- [01:52:44,820 - 01:52:47,180] How can you make sure that
+- [01:52:47,180 - 01:52:49,540] you are reinforcing your positive disciplines?
+- [01:52:50,580 - 01:52:56,780] Well, if it isn't apparent, easy to see right away, if what you're doing is happening in such
+- [01:52:56,780 - 01:53:02,980] small increments that you're not sure if you're on track, then you need to be writing it down.
+- [01:53:02,980 - 01:53:04,740] You need to keep a journal anyway.
+- [01:53:05,540 - 01:53:08,760] But if you really aren't sure that what you're doing
+- [01:53:08,760 - 01:53:11,980] is making measurable progress, you need to keep a written record.
+- [01:53:11,980 - 01:53:13,179] You need to write down what you're doing.
+- [01:53:13,179 - 01:53:13,299] You need to write down what you're doing.
+- [01:53:13,860 - 01:53:15,160] You need to write down everything
+- [01:53:15,160 - 01:53:16,460] that may be relevant in your day.
+- [01:53:16,460 - 01:53:20,120] What you did, who you saw, what you felt, how it
+- [01:53:20,120 - 01:53:23,780] may or may not affect you now and in the future.
+- [01:53:24,820 - 01:53:26,660] The best way to track your activities
+- [01:53:26,660 - 01:53:28,500] of the day is to write them down.
+- [01:53:29,059 - 01:53:30,779] The best way to track your activities
+- [01:53:30,779 - 01:53:32,500] of the week is to write them down.
+- [01:53:33,099 - 01:53:35,439] The best way to analyze your progress through
+- [01:53:35,439 - 01:53:37,780] the year is to have written it down.
+- [01:53:38,660 - 01:53:39,139] Why?
+- [01:53:39,360 - 01:53:41,059] So you can look back on it.
+- [01:53:41,820 - 01:53:42,340] Because by keeping a written record of your day, you
+- [01:53:42,340 - 01:53:42,860] can write down everything that may be relevant in your day.
+- [01:53:42,860 - 01:53:42,980] So you can look back on it.
+- [01:53:42,980 - 01:53:43,269] Because by keeping a written record of your day, you
+- [01:53:43,269 - 01:53:43,559] can write down everything that may be relevant in your day.
+- [01:53:43,559 - 01:53:43,580] So you can look back on it.
+- [01:53:43,580 - 01:53:44,589] Because by keeping a written record of
+- [01:53:44,589 - 01:53:45,599] your life, you will be more accountable.
+- [01:53:46,839 - 01:53:50,239] By putting into writing the action steps that you have
+- [01:53:50,239 - 01:53:53,639] planned, you will easily see what works and what doesn't.
+- [01:53:55,120 - 01:53:57,339] Most people just try to get through the day.
+- [01:53:57,839 - 01:53:59,639] Never writing anything down.
+- [01:53:59,860 - 01:54:02,900] Never keeping track of their progress along the way.
+- [01:54:03,540 - 01:54:06,549] Never really knowing if they are doing all they
+- [01:54:06,549 - 01:54:09,559] can to reach their goals, to drive their ambition.
+- [01:54:10,120 - 01:54:12,900] But gifted people learn to get from the day.
+- [01:54:12,980 - 01:54:16,019] day. They don't let a day end
+- [01:54:16,019 - 01:54:19,059] without picking up some valuable experience, some emotional
+- [01:54:19,059 - 01:54:22,829] content, some idea that may positively affect their
+- [01:54:22,829 - 01:54:26,599] future. To get the most from a day,
+- [01:54:26,599 - 01:54:29,429] to learn the most from a day, you need to
+- [01:54:29,429 - 01:54:32,259] be able to reflect on the day. And how can
+- [01:54:32,259 - 01:54:34,929] you reflect on a day unless you record
+- [01:54:34,929 - 01:54:37,599] it in history? How can you possibly reflect on
+- [01:54:37,600 - 01:54:40,860] a week unless you can look back and analyze
+- [01:54:40,860 - 01:54:44,120] it? How can you learn from past mistakes and
+- [01:54:44,120 - 01:54:47,220] bask in the past successes unless you
+- [01:54:47,220 - 01:54:50,320] write it all down? There's something magical in
+- [01:54:50,320 - 01:54:53,090] writing out a problem. It's almost as though
+- [01:54:53,090 - 01:54:55,860] when you start writing it out, you start figuring
+- [01:54:55,860 - 01:54:58,800] out ways to make it work. Perhaps the magic
+- [01:54:58,800 - 01:55:01,740] is that when you write it down, you can now
+- [01:55:01,740 - 01:55:04,660] be objective. You can start to see objectively
+- [01:55:04,660 - 01:55:07,580] where you fit into the picture. You can start
+- [01:55:07,580 - 01:55:10,640] to see if you are being responsible,
+- [01:55:10,640 - 01:55:13,700] if you are being self-reliant. You are pondering
+- [01:55:13,700 - 01:55:17,140] it. You are trying to figure it all out.
+- [01:55:17,140 - 01:55:20,580] The fact that it is now on paper actually creates
+- [01:55:20,580 - 01:55:23,940] a space between you and the problem. And
+- [01:55:23,940 - 01:55:27,300] in this space that you have created, now solutions
+- [01:55:27,300 - 01:55:30,130] have room to grow. You see, writing
+- [01:55:30,130 - 01:55:32,960] about events that occur helps you to understand
+- [01:55:32,960 - 01:55:35,110] exactly what is happening. When we describe
+- [01:55:35,110 - 01:55:37,260] life to ourselves, we're not just talking about
+- [01:55:37,260 - 01:55:37,409] things that are happening. We're talking about
+- [01:55:37,409 - 01:55:37,559] the reality of our lives, our lives, our
+- [01:55:37,559 - 01:55:37,569] lives, our lives, our lives, our lives, our lives,
+- [01:55:37,569 - 01:55:37,580] our lives, our lives, our lives, our lives, our
+- [01:55:37,580 - 01:55:38,080] lives, our lives, our lives, our lives, our
+- [01:55:38,080 - 01:55:38,580] lives, our lives, our lives. When we describe
+- [01:55:38,580 - 01:55:41,080] things only in our minds, our imaginations
+- [01:55:41,080 - 01:55:43,580] tend to feed back false information about
+- [01:55:43,580 - 01:55:47,250] how things are, distorted information. Sometimes
+- [01:55:47,250 - 01:55:50,920] our creativity can create scenarios that really
+- [01:55:50,920 - 01:55:54,719] don't exist at all if we keep the information
+- [01:55:54,719 - 01:55:58,519] just in our mind. But by writing it all down,
+- [01:55:58,519 - 01:56:02,239] we now can become more factual, more
+- [01:56:02,239 - 01:56:05,960] accurate, more realistic, more logical. And then as
+- [01:56:05,960 - 01:56:06,759] we reread what we have written down, we can
+- [01:56:06,759 - 01:56:07,559] see that it's not just a matter of time. We
+- [01:56:07,560 - 01:56:10,640] We create a new picture in our mind.
+- [01:56:10,640 - 01:56:12,850] And once we see things as they
+- [01:56:12,850 - 01:56:15,060] are rather than how we think they are,
+- [01:56:15,060 - 01:56:17,940] we can see our way to make them better.
+- [01:56:17,940 - 01:56:21,600] It's all part of being responsible.
+- [01:56:21,600 - 01:56:24,000] It's all part of seeing things
+- [01:56:24,000 - 01:56:26,400] objectively in order to fully understand
+- [01:56:26,400 - 01:56:29,560] the steps that we must take to make things better.
+- [01:56:29,560 - 01:56:32,370] The steps we must take to better
+- [01:56:32,370 - 01:56:35,180] prepare ourselves for the opportunities that lie ahead.
+- [01:56:37,560 - 01:56:46,560] Now let us turn to those times
+- [01:56:46,560 - 01:56:55,560] when you thought you were prepared, prepared, prepared,
+- [01:56:55,560 - 01:56:58,820] and things just didn't work out.
+- [01:56:58,820 - 01:57:00,730] Let's take a few minutes to talk about
+- [01:57:00,730 - 01:57:02,640] the importance of knowing yourself enough to be
+- [01:57:02,640 - 01:57:05,720] your best cheerleader.
+- [01:57:05,720 - 01:57:07,080] You know,
+- [01:57:07,080 - 01:57:07,310] when you thought you were prepared, prepared,
+- [01:57:07,310 - 01:57:07,540] prepared, and things just didn't work out.
+- [01:57:07,540 - 01:57:09,540] The times when you were doing what
+- [01:57:09,540 - 01:57:11,540] you were supposed to do and were misinformed.
+- [01:57:11,540 - 01:57:13,810] The times you thought you had it
+- [01:57:13,810 - 01:57:16,080] all laid out and it just didn't work.
+- [01:57:16,080 - 01:57:18,440] The times when you burned the midnight oil
+- [01:57:18,440 - 01:57:20,800] day after day and it didn't seem to help.
+- [01:57:20,800 - 01:57:25,120] It didn't seem to change the end result.
+- [01:57:25,120 - 01:57:27,690] These are the times that you
+- [01:57:27,690 - 01:57:30,260] have to rely on your own self-encouragement.
+- [01:57:30,260 - 01:57:33,880] And there are two ways to use self-encouragement.
+- [01:57:33,880 - 01:57:37,060] Number one, take responsibility for the missed opportunity.
+- [01:57:37,060 - 01:57:39,360] And number two, take responsibility for
+- [01:57:39,360 - 01:57:41,660] the missed opportunity or the misrepresentation.
+- [01:57:41,660 - 01:57:43,730] Learn from the fact that even though your
+- [01:57:43,730 - 01:57:45,800] client wanted it one way and you presented
+- [01:57:45,800 - 01:57:48,480] it the right way, it didn't work.
+- [01:57:48,480 - 01:57:52,820] Be prepared for the letdowns that happen every so often.
+- [01:57:52,820 - 01:57:55,510] Know that this lost opportunity just sets
+- [01:57:55,510 - 01:57:58,200] you up better for the next one.
+- [01:57:58,200 - 01:58:00,060] Realize that you can make
+- [01:58:00,060 - 01:58:01,920] the necessary alterations next time.
+- [01:58:01,920 - 01:58:05,220] Make the changes that will make the difference.
+- [01:58:05,220 - 01:58:06,060] Study your mistakes and learn from them.
+- [01:58:06,060 - 01:58:06,320] And remember, if you don't know what
+- [01:58:06,320 - 01:58:06,580] you're doing, you're not doing the right thing.
+- [01:58:07,060 - 01:58:09,500] Don't dwell on the mistakes.
+- [01:58:09,500 - 01:58:10,780] Acknowledge them.
+- [01:58:10,780 - 01:58:12,420] Learn from them.
+- [01:58:12,420 - 01:58:15,050] Encourage yourself that you're smarter than
+- [01:58:15,050 - 01:58:17,680] your bank account leads you to believe.
+- [01:58:17,680 - 01:58:20,940] The second way to use self-encouragement, remind
+- [01:58:20,940 - 01:58:24,200] yourself that you're bound to get better.
+- [01:58:24,200 - 01:58:26,060] Don't get down on yourself.
+- [01:58:26,060 - 01:58:28,220] Don't beat yourself up.
+- [01:58:28,220 - 01:58:31,240] It's the next opportunity that matters, not the last one.
+- [01:58:31,240 - 01:58:33,060] The next one.
+- [01:58:33,060 - 01:58:34,560] Now the last one matters only in
+- [01:58:34,560 - 01:58:36,060] that you must learn from your mistakes.
+- [01:58:36,060 - 01:58:36,560] And the next one matters only in
+- [01:58:36,560 - 01:58:37,060] that you must learn from your mistakes.
+- [01:58:37,060 - 01:58:40,170] But the next one gives you the opportunity
+- [01:58:40,170 - 01:58:43,280] to show that you have learned from your mistakes.
+- [01:58:43,280 - 01:58:44,800] You can do it better next time.
+- [01:58:44,800 - 01:58:48,000] You just have to practice, practice, practice.
+- [01:58:48,000 - 01:58:49,680] Keep trying.
+- [01:58:49,680 - 01:58:51,960] Keep trying until.
+- [01:58:51,960 - 01:58:53,540] Until what?
+- [01:58:53,540 - 01:58:55,880] Until you've got it down.
+- [01:58:55,880 - 01:58:58,420] If you figured out what went wrong last time,
+- [01:58:58,420 - 01:59:00,960] then you know how to make it right next time.
+- [01:59:00,960 - 01:59:02,730] If you figured out what it was in your
+- [01:59:02,730 - 01:59:04,500] presentation that didn't work, don't say that next time.
+- [01:59:04,500 - 01:59:05,500] Don't say that next time.
+- [01:59:05,500 - 01:59:06,500] Don't say that next time.
+- [01:59:06,500 - 01:59:06,540] Don't say that next time.
+- [01:59:07,060 - 01:59:08,060] Don't say that next time.
+- [01:59:08,060 - 01:59:09,740] If you figured out that the reason you didn't
+- [01:59:09,740 - 01:59:11,420] close the deal this time was because you didn't
+- [01:59:11,420 - 01:59:15,190] have all the facts and figures in place, have
+- [01:59:15,190 - 01:59:18,960] all the facts and figures in place next time.
+- [01:59:18,960 - 01:59:21,540] Don't beat yourself for messing up.
+- [01:59:21,540 - 01:59:25,880] Pat yourself on the back for figuring it out.
+- [01:59:25,880 - 01:59:28,220] You need to encourage yourself.
+- [01:59:28,220 - 01:59:30,100] You need to pump yourself up.
+- [01:59:30,100 - 01:59:32,560] You need to be your own cheerleader.
+- [01:59:32,560 - 01:59:33,620] Why?
+- [01:59:33,620 - 01:59:34,340] Because you can't wait and hope that someone
+- [01:59:34,340 - 01:59:35,060] else will come along and cheer you up.
+- [01:59:35,060 - 01:59:36,060] You need to be your own cheerleader.
+- [01:59:36,060 - 01:59:37,060] Why?
+- [01:59:37,060 - 01:59:37,590] Because you can't wait and hope that someone
+- [01:59:37,590 - 01:59:38,120] else will come along and cheer you up, make
+- [01:59:38,120 - 01:59:40,090] you feel better, tell you
+- [01:59:40,090 - 01:59:42,060] that you'll do better next time.
+- [01:59:42,060 - 01:59:45,260] You have to rely on yourself.
+- [01:59:45,260 - 01:59:47,200] You have to have faith in yourself and
+- [01:59:47,200 - 01:59:49,140] your ability to figure out what works and what
+- [01:59:49,140 - 01:59:53,100] doesn't, what's right and what's wrong.
+- [01:59:53,100 - 01:59:55,240] You have to have the inner belief that
+- [01:59:55,240 - 01:59:57,380] everything you're doing, you're doing for a positive
+- [01:59:57,380 - 01:59:59,460] outcome in the future.
+- [01:59:59,460 - 02:00:04,020] You have to encourage yourself with future successes.
+- [02:00:04,020 - 02:00:05,060] Number one way to use self-encouragement.
+- [02:00:05,060 - 02:00:06,060] Take responsibility.
+- [02:00:06,060 - 02:00:07,060] Take responsibility.
+- [02:00:07,060 - 02:00:09,630] Take responsibility for missed
+- [02:00:09,630 - 02:00:12,200] opportunities and study your mistakes.
+- [02:00:12,200 - 02:00:15,220] Number two, don't get down on yourself.
+- [02:00:15,220 - 02:00:18,080] Encourage yourself with your future.
+- [02:00:18,080 - 02:00:20,450] Encourage yourself with your
+- [02:00:20,450 - 02:00:22,820] goals, your dreams, your ambition.
+- [02:00:22,820 - 02:00:25,350] Knowing that you've got a plan, knowing
+- [02:00:25,350 - 02:00:27,880] that you're taking the right steps, knowing that
+- [02:00:27,880 - 02:00:31,360] you're going to do it until.
+- [02:00:31,360 - 02:00:33,790] When you miss an opportunity, are unprepared
+- [02:00:33,790 - 02:00:36,220] for an opportunity or suffer a setback while
+- [02:00:36,220 - 02:00:38,580] realizing your goals.
+- [02:00:38,580 - 02:00:41,870] When you miss out, you need to
+- [02:00:41,870 - 02:00:45,160] encourage yourself by immediately getting back into line.
+- [02:00:45,160 - 02:00:48,740] There's an old cowboy saying, fall off a
+- [02:00:48,740 - 02:00:52,320] horse seven times and you're a real cowboy.
+- [02:00:52,320 - 02:00:55,620] If you fall off a horse, get right back on.
+- [02:00:55,620 - 02:00:59,700] If you fall off track, get right back on.
+- [02:00:59,700 - 02:01:02,040] If you fall away from your
+- [02:01:02,040 - 02:01:04,380] disciplines, get right back to them.
+- [02:01:04,380 - 02:01:06,220] If you fall out of habit.
+- [02:01:06,220 - 02:01:08,840] Get back into the habit.
+- [02:01:08,840 - 02:01:11,680] If you fall off, get back on.
+- [02:01:11,680 - 02:01:14,250] If you fall off the horse, the
+- [02:01:14,250 - 02:01:16,820] horse of habits or disciplines or progress.
+- [02:01:16,820 - 02:01:19,220] If you fall off the horse, get back on.
+- [02:01:19,220 - 02:01:20,220] It may be hard.
+- [02:01:20,220 - 02:01:23,640] It may be a bit frightening, but get back on.
+- [02:01:23,640 - 02:01:28,660] Keep your ambition alive and active and well.
+- [02:01:28,660 - 02:01:31,120] We must all suffer one of two pains,
+- [02:01:31,120 - 02:01:33,580] the pain of discipline or the pain of regret.
+- [02:01:33,580 - 02:01:34,580] Okay?
+- [02:01:34,580 - 02:01:35,580] Okay.
+- [02:01:35,580 - 02:01:38,150] If you have tons of discipline,
+- [02:01:38,150 - 02:01:40,720] you'll most likely suffer tons of regret.
+- [02:01:40,720 - 02:01:42,019] Discipline weighs ounces.
+- [02:01:42,019 - 02:01:44,500] Regret weighs tons.
+- [02:01:44,500 - 02:01:46,540] It's much easier to be disciplined and have
+- [02:01:46,540 - 02:01:48,580] the money than to try to rationalize why you
+- [02:01:48,580 - 02:01:50,740] don't.
+- [02:01:50,740 - 02:01:53,320] I'm telling you better a few
+- [02:01:53,320 - 02:01:55,900] disciplines than a lack of dignity.
+- [02:01:55,900 - 02:01:57,380] Don't wish for less problems.
+- [02:01:57,380 - 02:01:59,680] Wish for more skills.
+- [02:01:59,680 - 02:02:01,600] Don't wish for less challenge.
+- [02:02:01,600 - 02:02:03,860] Wish for more wisdom.
+- [02:02:03,860 - 02:02:05,240] Don't wish for it to change.
+- [02:02:05,240 - 02:02:07,099] Don't wish for more hard games.
+- [02:02:07,099 - 02:02:08,959] Don't wish for your career to be
+- [02:02:08,959 - 02:02:10,820] determinants of capitalism, because members of our sitting
+- [02:02:10,820 - 02:02:12,169] body will likely switch positions
+- [02:02:12,169 - 02:02:13,519] until they've reached a peace.
+- [02:02:13,519 - 02:02:21,340] Work for your
+- [02:02:21,340 - 02:02:23,639] and reason what you are.
+- [02:02:23,639 - 02:02:25,120] Good luck!
+- [02:02:25,120 - 02:02:27,760] All right.
+- [02:02:27,760 - 02:02:32,400] Let's step back again.
+- [02:02:32,400 - 02:02:33,400] Keep your mission alive.
+- [02:02:33,400 - 02:02:34,400] Work for yourself.
+- [02:02:34,400 - 02:02:38,799] discipline. I'll meet you on side five.
+- [02:02:38,818 - 02:02:57,442] ご視聴ありがとうございました
+- [02:02:57,442 - 02:02:59,532] So far we have talked about the
+- [02:02:59,532 - 02:03:01,622] first two principles for building your ambition.
+- [02:03:01,622 - 02:03:04,502] Number one, positive self-direction.
+- [02:03:04,502 - 02:03:07,802] Number two, self-reliance.
+- [02:03:07,802 - 02:03:11,202] And number three is self-discipline.
+- [02:03:11,202 - 02:03:14,032] The third principle for
+- [02:03:14,032 - 02:03:16,862] building your ambition is self-discipline.
+- [02:03:16,862 - 02:03:19,472] Of all the subjects we've covered so far
+- [02:03:19,472 - 02:03:22,082] and are about to cover, none is more important
+- [02:03:22,082 - 02:03:25,962] than covering the disciplines for success.
+- [02:03:25,962 - 02:03:29,222] What's at the core of achieving the good life?
+- [02:03:29,222 - 02:03:31,642] The major key to the good life.
+- [02:03:31,642 - 02:03:33,182] The major key is not
+- [02:03:33,182 - 02:03:34,722] in learning how to set goals.
+- [02:03:34,722 - 02:03:36,972] It is not in learning
+- [02:03:36,972 - 02:03:39,222] how to better manage your time.
+- [02:03:39,222 - 02:03:43,502] It is not in mastering the attributes of leadership.
+- [02:03:43,502 - 02:03:45,702] Every day in a thousand different ways,
+- [02:03:45,702 - 02:03:47,902] we are trying to improve ourselves by learning
+- [02:03:47,902 - 02:03:50,202] how to do things.
+- [02:03:50,202 - 02:03:52,831] We spend a lifetime gathering knowledge
+- [02:03:52,831 - 02:03:55,461] in classrooms, in textbooks, in experiences.
+- [02:03:55,461 - 02:03:55,961] Okay?
+- [02:03:55,962 - 02:03:58,992] Now, if knowledge is power, if knowledge
+- [02:03:58,992 - 02:04:02,022] is the forerunner to success, then why do
+- [02:04:02,022 - 02:04:05,342] we fall short of our objectives?
+- [02:04:05,342 - 02:04:08,322] Why in spite of all our knowledge and
+- [02:04:08,322 - 02:04:11,302] in spite of our collective experiences, do we find
+- [02:04:11,302 - 02:04:14,482] ourselves aimlessly wandering, settling for a life
+- [02:04:14,482 - 02:04:17,662] of existence rather than a life of
+- [02:04:17,662 - 02:04:19,702] substance?
+- [02:04:19,702 - 02:04:22,802] There may be many answers to this question.
+- [02:04:22,802 - 02:04:24,012] Your answers may be different
+- [02:04:24,012 - 02:04:25,222] than your associates' or your spouse's.
+- [02:04:25,222 - 02:04:28,862] Or your spouse's or your friend's.
+- [02:04:28,862 - 02:04:32,712] While there may be many answers to this
+- [02:04:32,712 - 02:04:36,562] question, the fundamental answer is the absence of discipline.
+- [02:04:36,562 - 02:04:39,142] Applying all that we know.
+- [02:04:39,142 - 02:04:42,002] That's the key word, discipline.
+- [02:04:42,002 - 02:04:43,582] Self-discipline.
+- [02:04:43,582 - 02:04:47,662] We might add one more word here, consistent.
+- [02:04:47,662 - 02:04:50,082] Consistent self-discipline.
+- [02:04:50,082 - 02:04:52,552] It doesn't really matter how smart you are or
+- [02:04:52,552 - 02:04:55,022] how much you know if you don't use it.
+- [02:04:55,222 - 02:04:58,142] It doesn't really matter that you graduated magna
+- [02:04:58,142 - 02:05:01,062] cum laude if you're stuck in a low-paying
+- [02:05:01,062 - 02:05:02,742] job.
+- [02:05:02,742 - 02:05:05,161] It doesn't really matter if you attended every
+- [02:05:05,161 - 02:05:07,581] seminar that comes to town if you don't apply
+- [02:05:07,581 - 02:05:10,322] what you've learned.
+- [02:05:10,322 - 02:05:13,522] Better than knowledge is applied knowledge.
+- [02:05:13,522 - 02:05:16,362] And once we've applied our knowledge, we
+- [02:05:16,362 - 02:05:19,202] must study the results of that process.
+- [02:05:19,202 - 02:05:22,602] Apply our knowledge, study the results.
+- [02:05:22,602 - 02:05:23,902] Refine our approach.
+- [02:05:23,902 - 02:05:24,862] Find our way.
+- [02:05:24,862 - 02:05:28,312] Finally, by trying and observing and refining
+- [02:05:28,312 - 02:05:31,762] and trying again, our knowledge will inevitably
+- [02:05:31,762 - 02:05:36,461] produce worthy results, admirable results.
+- [02:05:36,461 - 02:05:39,141] And with the joy and results of our
+- [02:05:39,141 - 02:05:41,822] efforts, we continue to apply, to learn, to observe,
+- [02:05:41,822 - 02:05:44,682] to fuel our ambition with
+- [02:05:44,682 - 02:05:47,542] the positive reinforcement of continued progress.
+- [02:05:47,542 - 02:05:50,962] Pretty soon, we'll find that we're swept into
+- [02:05:50,962 - 02:05:54,382] a spiral of achievement, a vertical rise to success.
+- [02:05:54,862 - 02:05:57,631] And the ecstasy of that total experience
+- [02:05:57,631 - 02:06:00,401] makes for a life of triumph over tragedy,
+- [02:06:00,401 - 02:06:03,781] dullness and mediocrity.
+- [02:06:03,781 - 02:06:06,321] But for this whole process to work for
+- [02:06:06,321 - 02:06:08,862] us, we must first master the art of discipline,
+- [02:06:08,862 - 02:06:13,721] self-discipline, consistent self-discipline.
+- [02:06:13,721 - 02:06:16,351] It takes consistent self-discipline to master the
+- [02:06:16,351 - 02:06:18,982] art of setting goals, to master the art
+- [02:06:18,982 - 02:06:20,422] of time management, to master the art of
+- [02:06:20,422 - 02:06:21,862] leadership, to master the art of parenting and relationships.
+- [02:06:21,862 - 02:06:22,862] It's time management.
+- [02:06:22,862 - 02:06:23,862] It's time management.
+- [02:06:23,862 - 02:06:24,862] It's time management.
+- [02:06:24,862 - 02:06:25,862] It's time management.
+- [02:06:25,862 - 02:06:26,862] It's time management.
+- [02:06:26,862 - 02:06:29,502] If we don't make consistent self-discipline part
+- [02:06:29,502 - 02:06:32,142] of our daily lives, the results we seek
+- [02:06:32,142 - 02:06:35,401] will be sporadic and elusive.
+- [02:06:35,401 - 02:06:38,601] It takes a consistent effort to truly
+- [02:06:38,601 - 02:06:41,801] manage our valuable time or we'll be consistently
+- [02:06:41,801 - 02:06:43,702] frustrated.
+- [02:06:43,702 - 02:06:46,342] Our time will be eaten up by
+- [02:06:46,342 - 02:06:48,982] others whose demands are stronger than our own.
+- [02:06:48,982 - 02:06:51,782] It takes discipline to conquer the nagging
+- [02:06:51,782 - 02:06:54,582] voices in our minds, the fear of failure,
+- [02:06:54,582 - 02:06:57,112] the fear of success, the fear of
+- [02:06:57,112 - 02:06:59,642] poverty, the fear of a broken heart.
+- [02:06:59,642 - 02:07:02,562] It takes discipline to keep trying when that
+- [02:07:02,562 - 02:07:05,482] nagging voice within us brings up the possibility
+- [02:07:05,482 - 02:07:07,822] of failure.
+- [02:07:07,822 - 02:07:10,162] It takes discipline to admit
+- [02:07:10,162 - 02:07:12,502] our errors and recognize our limitations.
+- [02:07:12,502 - 02:07:14,421] The voice of the human
+- [02:07:14,421 - 02:07:16,341] ego speaks to all of us.
+- [02:07:16,341 - 02:07:19,201] Sometimes the voice of ego says that
+- [02:07:19,201 - 02:07:22,062] we should magnify our value beyond our results.
+- [02:07:22,062 - 02:07:23,582] It leads us to exaggerate.
+- [02:07:23,582 - 02:07:26,842] To not be totally honest.
+- [02:07:26,842 - 02:07:30,001] It takes discipline to be totally
+- [02:07:30,001 - 02:07:33,161] honest, both with ourselves and with others.
+- [02:07:33,161 - 02:07:35,421] Be certain of one thing.
+- [02:07:35,421 - 02:07:38,421] Every exaggeration of the truth once detected
+- [02:07:38,421 - 02:07:41,421] by others destroys our credibility and makes
+- [02:07:41,421 - 02:07:45,122] all that we say and do suspect.
+- [02:07:45,122 - 02:07:48,012] As soon as a business colleague figures
+- [02:07:48,012 - 02:07:50,902] out that we tend to exaggerate, guess what?
+- [02:07:50,902 - 02:07:52,582] They'll always think we exaggerate.
+- [02:07:52,582 - 02:07:53,582] And they'll always think we exaggerate.
+- [02:07:53,582 - 02:07:55,702] And they'll never quite hold
+- [02:07:55,702 - 02:07:57,822] us in the same regard again.
+- [02:07:57,822 - 02:07:59,402] Never.
+- [02:07:59,402 - 02:08:02,482] The tendency to exaggerate, distort, or even
+- [02:08:02,482 - 02:08:05,562] withhold the truth is an inherent part of
+- [02:08:05,562 - 02:08:07,342] all of us.
+- [02:08:07,342 - 02:08:10,222] It starts when we're kids.
+- [02:08:10,222 - 02:08:12,282] Johnny says, I didn't do it.
+- [02:08:12,282 - 02:08:13,762] I didn't do it.
+- [02:08:13,762 - 02:08:16,621] Well, maybe Johnny didn't do it, but
+- [02:08:16,621 - 02:08:19,481] he probably had something to do with it.
+- [02:08:19,481 - 02:08:21,842] And then it continues when we're adults.
+- [02:08:21,842 - 02:08:22,842] Exaggerating.
+- [02:08:22,842 - 02:08:27,082] Exaggerating our benefits of a product to make a sale.
+- [02:08:27,082 - 02:08:31,502] Exaggerating our net worth to impress old friends.
+- [02:08:31,502 - 02:08:34,051] Exaggerating how close we are to
+- [02:08:34,051 - 02:08:36,601] closing a deal to impress the boss.
+- [02:08:36,601 - 02:08:39,721] And only an all-out, disciplined
+- [02:08:39,721 - 02:08:42,842] assault can overcome this tendency.
+- [02:08:42,842 - 02:08:45,652] It takes discipline to change a habit because
+- [02:08:45,652 - 02:08:48,462] habits are formed a little bit each day, every
+- [02:08:48,462 - 02:08:50,681] day, every day.
+- [02:08:50,681 - 02:08:52,661] Once habits are formed, they act like a giant cable.
+- [02:08:52,662 - 02:08:56,142] They act like a nearly unbreakable
+- [02:08:56,142 - 02:08:59,622] instinct that only long-term, disciplined activity
+- [02:08:59,622 - 02:09:01,882] can change.
+- [02:09:01,882 - 02:09:04,782] We must unweave every strand of the
+- [02:09:04,782 - 02:09:07,682] cable of habits slowly and methodically until the
+- [02:09:07,682 - 02:09:11,512] cable that once held us in bondage
+- [02:09:11,512 - 02:09:15,342] becomes nothing more than scattered strands of wire.
+- [02:09:15,342 - 02:09:18,362] It takes the consistent application of a
+- [02:09:18,362 - 02:09:21,382] new discipline, a more desirable one to overcome
+- [02:09:21,382 - 02:09:22,542] one which is less desirable.
+- [02:09:22,542 - 02:09:23,292] What we may even call uns american
+- [02:09:23,292 - 02:09:24,042] dışarable industry activities, but based in a surgical
+- [02:09:24,042 - 02:09:25,042] environment.
+- [02:09:25,042 - 02:09:25,542] It takes the well, books that were
+- [02:09:25,542 - 02:09:26,042] built, our works, and equipment that communicate with
+- [02:09:26,042 - 02:09:27,042] people.
+- [02:09:27,042 - 02:09:33,122] It takes discipline to plan changes that 새�he us��
+- [02:09:33,122 - 02:09:36,492] sáis ely be reserve and those that do
+- [02:09:36,492 - 02:09:39,862] not exist doesn't mean anything in the world's
+- [02:09:39,862 - 02:09:41,422] future.
+- [02:09:41,422 - 02:09:44,852] It takes discipline to do anything and implement
+- [02:09:44,852 - 02:09:48,282] any type of change that will минут you as
+- [02:09:48,282 - 02:09:49,502] a human being, so that you can walk away.
+- [02:09:49,502 - 02:09:50,002] Or appear in the world any day with
+- [02:09:50,002 - 02:09:50,502] you, chacun begeistering only one thing is possible.
+- [02:09:50,502 - 02:09:51,002] It takes discipline world to
+- [02:09:51,002 - 02:09:51,502] ponder the value of someone else.
+- [02:09:51,502 - 02:09:52,502] Unwillingalnety.
+- [02:09:52,542 - 02:09:55,762] else's opinion when our pride and our arrogance leads
+- [02:09:55,762 - 02:09:58,982] us to believe that we are the only ones
+- [02:09:58,982 - 02:10:01,482] with the answers.
+- [02:10:01,482 - 02:10:04,722] With this consistent discipline applied to every
+- [02:10:04,722 - 02:10:07,962] area of our lives, we can discover untold
+- [02:10:07,962 - 02:10:12,902] miracles and uncover unique possibilities and opportunities.
+- [02:10:22,542 - 02:10:25,652] Now, if discipline is the key word and
+- [02:10:25,652 - 02:10:28,762] if discipline is the key action, then what exactly
+- [02:10:28,762 - 02:10:31,562] is discipline?
+- [02:10:31,562 - 02:10:33,992] One good answer might be that discipline is
+- [02:10:33,992 - 02:10:36,422] a constant human awareness of the need for
+- [02:10:36,422 - 02:10:39,932] action and a conscious act
+- [02:10:39,932 - 02:10:43,442] by us to implement that action.
+- [02:10:43,442 - 02:10:45,942] Discipline is an awareness of the constant need
+- [02:10:45,942 - 02:10:48,442] for action and a conscious act to implement
+- [02:10:48,442 - 02:10:50,362] that action.
+- [02:10:50,362 - 02:10:52,522] If our awareness and our implementation
+- [02:10:52,522 - 02:10:56,661] occur at the same time, then we
+- [02:10:56,661 - 02:11:00,801] begin a valued sequence of disciplined activity.
+- [02:11:00,801 - 02:11:03,182] Now here's the other side of discipline.
+- [02:11:03,182 - 02:11:05,692] If there's considerable time that passes between the
+- [02:11:05,692 - 02:11:08,202] moment of awareness and the time of our
+- [02:11:08,202 - 02:11:13,702] implementation, then that is called procrastination.
+- [02:11:13,702 - 02:11:18,962] Procrastination, doing it tomorrow instead of today.
+- [02:11:18,962 - 02:11:22,402] Procrastination, an almost exact opposite
+- [02:11:22,402 - 02:11:22,502] of
+- [02:11:22,502 - 02:11:24,742] discipline.
+- [02:11:24,742 - 02:11:27,662] The voice within us says, get it done.
+- [02:11:27,662 - 02:11:30,322] Discipline then says, do it now.
+- [02:11:30,322 - 02:11:34,591] Do it to the best of your ability today,
+- [02:11:34,591 - 02:11:38,861] tomorrow and always until finally the worthy deed becomes
+- [02:11:38,861 - 02:11:41,742] instinctive.
+- [02:11:41,742 - 02:11:44,302] Procrastination says later tomorrow,
+- [02:11:44,302 - 02:11:46,862] whenever I get a chance.
+- [02:11:46,862 - 02:11:49,232] Procrastination also says, do what is necessary
+- [02:11:49,232 - 02:11:51,602] to get by or to impress others.
+- [02:11:51,602 - 02:11:52,382] Do what you can, but do it now.
+- [02:11:52,382 - 02:11:54,622] Do what you can, but not what you must.
+- [02:11:54,622 - 02:11:57,752] In every circumstance we face, we
+- [02:11:57,752 - 02:12:00,882] are constantly presented with these two choices.
+- [02:12:00,882 - 02:12:04,182] Do it now or do it later.
+- [02:12:04,182 - 02:12:07,262] Discipline and procrastination.
+- [02:12:07,262 - 02:12:10,202] A choice between a disciplined existence bearing
+- [02:12:10,202 - 02:12:13,142] the fruit of achievement and contentment or
+- [02:12:13,142 - 02:12:15,162] procrastination.
+- [02:12:15,162 - 02:12:18,352] The easy life for which the future will
+- [02:12:18,352 - 02:12:21,542] bear no fruit, only the bare branches of mediocrity.
+- [02:12:21,542 - 02:12:22,262] Procrastination.
+- [02:12:22,262 - 02:12:25,182] The rewards of a disciplined life are
+- [02:12:25,182 - 02:12:28,102] great, but they're often delayed until sometime in
+- [02:12:28,102 - 02:12:29,542] the future.
+- [02:12:29,542 - 02:12:32,252] The rewards for the lack of discipline
+- [02:12:32,252 - 02:12:34,962] are immediate, but they are minor in comparison
+- [02:12:34,962 - 02:12:40,022] to the immeasurable rewards of consistent self-discipline.
+- [02:12:40,022 - 02:12:42,322] An immediate reward for lack of discipline
+- [02:12:42,322 - 02:12:44,622] is a fun day at the beach.
+- [02:12:44,622 - 02:12:48,622] A future reward of discipline is owning the beach.
+- [02:12:48,622 - 02:12:52,142] For most, we choose today's pleasure rather than.
+- [02:12:52,142 - 02:12:55,362] And tomorrow's fortune.
+- [02:12:55,362 - 02:12:58,802] So how can you get rid of the easy distractions?
+- [02:12:58,802 - 02:13:00,482] How can you keep your mind
+- [02:13:00,482 - 02:13:02,162] on what you're trying to do?
+- [02:13:02,162 - 02:13:04,212] How can you keep an attitude of
+- [02:13:04,212 - 02:13:06,262] doing it all and doing it now?
+- [02:13:06,262 - 02:13:08,622] How can you make the
+- [02:13:08,622 - 02:13:10,982] choice of discipline over procrastination?
+- [02:13:10,982 - 02:13:13,982] How can you stay focused on your ambitions?
+- [02:13:13,982 - 02:13:18,502] How can you avoid conversations at the water cooler?
+- [02:13:18,502 - 02:13:20,142] You can keep your focus on your work.
+- [02:13:20,142 - 02:13:21,142] You can get it done tomorrow.
+- [02:13:21,142 - 02:13:22,142] You can get it done tomorrow.
+- [02:13:22,142 - 02:13:24,802] And today instead of tomorrow, you've got
+- [02:13:24,802 - 02:13:27,462] to really work on your consistent self-discipline
+- [02:13:27,462 - 02:13:33,182] on a daily basis or you'll find yourself distracted.
+- [02:13:33,182 - 02:13:36,002] Distracted by negative thoughts, distracted by
+- [02:13:36,002 - 02:13:38,822] negative people, distracted by water cooler
+- [02:13:38,822 - 02:13:40,702] chatter.
+- [02:13:40,702 - 02:13:43,112] And pretty soon, depending on the
+- [02:13:43,112 - 02:13:45,522] type of people you've associated with, distracted
+- [02:13:45,522 - 02:13:48,582] by your doubts within yourself.
+- [02:13:48,582 - 02:13:51,362] Never underestimate the power of influence and associations.
+- [02:13:51,362 - 02:13:55,342] And never underestimate the power
+- [02:13:55,342 - 02:13:59,322] of your own consistent self-discipline.
+- [02:13:59,322 - 02:14:02,152] Now let's take a closer look at
+- [02:14:02,152 - 02:14:04,982] discipline at the three steps to becoming disciplined.
+- [02:14:04,982 - 02:14:09,921] First, true discipline is not the easiest option.
+- [02:14:09,921 - 02:14:12,451] Most people would rather sleep until
+- [02:14:12,451 - 02:14:14,982] 10 o'clock than get up at six.
+- [02:14:14,982 - 02:14:17,172] It's easier to go to bed late,
+- [02:14:17,172 - 02:14:19,362] sleep late, show up late, leave early.
+- [02:14:19,362 - 02:14:20,362] And then you can get up at six.
+- [02:14:20,362 - 02:14:21,362] And then you can get up at five.
+- [02:14:21,362 - 02:14:22,362] It's easier not to read.
+- [02:14:22,362 - 02:14:24,761] It's easier to turn on the
+- [02:14:24,761 - 02:14:27,161] television than to open a book.
+- [02:14:27,161 - 02:14:29,071] It's easier to do just
+- [02:14:29,071 - 02:14:30,982] enough than to do it all.
+- [02:14:30,982 - 02:14:34,362] Waiting is always easier than acting.
+- [02:14:34,362 - 02:14:38,401] Trying is always easier than doing.
+- [02:14:38,401 - 02:14:40,461] Imagine what life would be like if we didn't
+- [02:14:40,461 - 02:14:42,521] have to make our bed in the morning or keep
+- [02:14:42,521 - 02:14:45,261] our garage clean or pay our
+- [02:14:45,261 - 02:14:48,002] taxes or show up for work tomorrow.
+- [02:14:48,002 - 02:14:49,622] Wouldn't it be fascinating if we
+- [02:14:49,622 - 02:14:51,242] didn't have to do these things?
+- [02:14:51,242 - 02:14:53,362] Wouldn't it be fascinating?
+- [02:14:53,362 - 02:14:55,582] What do you suppose would become of us?
+- [02:14:55,582 - 02:14:57,102] You're right.
+- [02:14:57,102 - 02:14:58,682] Not much.
+- [02:14:58,682 - 02:15:01,221] For whatever the reason, the system we live
+- [02:15:01,221 - 02:15:03,761] in and contribute to is designed to make the
+- [02:15:03,761 - 02:15:08,401] easiest things in life the most unprofitable.
+- [02:15:08,401 - 02:15:11,862] Profitable seems to be the most difficult.
+- [02:15:11,862 - 02:15:14,932] Our world is and always will be a constant
+- [02:15:14,932 - 02:15:18,002] battle between the life of ease and its momentary
+- [02:15:18,002 - 02:15:20,242] rewards and a life of discipline.
+- [02:15:20,242 - 02:15:24,442] And it's far more significant rewards.
+- [02:15:24,442 - 02:15:26,622] Each has its own price.
+- [02:15:26,622 - 02:15:30,301] The price of discipline or the price of regret.
+- [02:15:30,301 - 02:15:34,122] We will pay one or the other.
+- [02:15:34,122 - 02:15:35,802] What we wish we had
+- [02:15:35,802 - 02:15:37,482] done is the voice of regret.
+- [02:15:37,482 - 02:15:40,332] Speaking in a sorrowful tone at a
+- [02:15:40,332 - 02:15:43,182] time when there is no going back.
+- [02:15:43,182 - 02:15:45,401] This is regret.
+- [02:15:45,401 - 02:15:47,661] No second chance.
+- [02:15:47,661 - 02:15:49,442] No what would I do differently.
+- [02:15:49,442 - 02:15:49,962] No.
+- [02:15:50,242 - 02:15:53,141] Choose one or the other.
+- [02:15:53,141 - 02:15:54,722] But both will have their price.
+- [02:15:54,722 - 02:15:57,482] The price of discipline or the price of regret.
+- [02:15:57,954 - 02:15:58,954] 1コス
+- [02:15:59,170 - 02:16:03,710] pennies, the other a fortune.
+- [02:16:03,710 - 02:16:07,010] Dostoyevsky said, there are hundreds of young men
+- [02:16:07,010 - 02:16:10,310] who would die for the truth, but very
+- [02:16:10,310 - 02:16:13,180] few who would spend five years
+- [02:16:13,180 - 02:16:16,050] studying to know what the truth is.
+- [02:16:16,050 - 02:16:18,560] Dying for the truth is much more dramatic
+- [02:16:18,560 - 02:16:21,070] than the discipline of studying it one little
+- [02:16:21,070 - 02:16:23,960] piece at a time, one day at
+- [02:16:23,960 - 02:16:26,850] a time, one month at a time.
+- [02:16:26,850 - 02:16:30,890] But in the big picture, is dying for the
+- [02:16:30,890 - 02:16:34,930] truth really easier than adhering to the daily disciplines?
+- [02:16:34,930 - 02:16:37,100] The first lesson of discipline is
+- [02:16:37,100 - 02:16:39,270] that it isn't the easiest option.
+- [02:16:39,270 - 02:16:41,940] The second lesson of discipline is
+- [02:16:41,940 - 02:16:44,610] that it's a full time activity.
+- [02:16:44,610 - 02:16:47,009] And we've said that the best
+- [02:16:47,009 - 02:16:49,409] form of discipline is consistent self discipline.
+- [02:16:49,409 - 02:16:51,479] You see, the discipline that it takes to
+- [02:16:51,479 - 02:16:53,549] make your bed every day is the same discipline
+- [02:16:53,549 - 02:16:56,610] necessary for success in the world of business.
+- [02:16:56,610 - 02:16:56,809] Okay?
+- [02:16:56,809 - 02:17:00,389] The discipline to organize your garage is
+- [02:17:00,389 - 02:17:03,969] the same discipline to organize your business.
+- [02:17:03,969 - 02:17:06,480] All disciplines carry through to
+- [02:17:06,480 - 02:17:08,990] affect all parts of our lives.
+- [02:17:08,990 - 02:17:11,600] If we're disciplined in just one
+- [02:17:11,600 - 02:17:14,209] area and lazy in another, guess what?
+- [02:17:14,209 - 02:17:16,879] Pretty soon the lazy side will
+- [02:17:16,879 - 02:17:19,549] creep in and destroy the discipline side.
+- [02:17:19,549 - 02:17:22,290] The bad habits in one area of our
+- [02:17:22,290 - 02:17:25,030] life will eventually destroy our self discipline in
+- [02:17:25,030 - 02:17:26,570] the areas we've been working on.
+- [02:17:26,570 - 02:17:32,090] Consistency cannot be inconsistent.
+- [02:17:32,090 - 02:17:36,770] Discipline is the mind being trained to control our lives.
+- [02:17:36,770 - 02:17:39,900] Discipline is a set of standards which
+- [02:17:39,900 - 02:17:43,030] we've selected as a personal code of conduct.
+- [02:17:43,030 - 02:17:46,059] Discipline is imposing on ourselves
+- [02:17:46,059 - 02:17:49,090] the requirements for honoring these standards.
+- [02:17:49,090 - 02:17:51,830] Once we've adopted these standards of behavior
+- [02:17:51,830 - 02:17:54,570] and conduct, we're committed to honor them.
+- [02:17:54,570 - 02:17:55,730] And if we don't?
+- [02:17:55,730 - 02:17:55,889] We're not.
+- [02:17:56,570 - 02:18:00,370] Then there can be no disciplined activity.
+- [02:18:00,370 - 02:18:03,420] We find ourselves announcing our standards
+- [02:18:03,420 - 02:18:06,469] to our relatives, our friends, our associates.
+- [02:18:06,469 - 02:18:08,820] We shout our beliefs and condemn those
+- [02:18:08,820 - 02:18:11,170] who believe any differently, but then we don't
+- [02:18:11,170 - 02:18:13,450] walk the talk.
+- [02:18:13,450 - 02:18:16,000] We end up acting in a way
+- [02:18:16,000 - 02:18:18,549] far different from the beliefs we've shouted.
+- [02:18:18,549 - 02:18:20,870] We tell our kids that the TV is rotting
+- [02:18:20,870 - 02:18:23,190] their minds, yet we spend our evenings in front
+- [02:18:23,190 - 02:18:24,610] of it.
+- [02:18:24,610 - 02:18:25,350] We tell our employees that
+- [02:18:25,350 - 02:18:26,090] they must take advantage of it.
+- [02:18:26,090 - 02:18:27,870] We tell our parents that they must take advantage
+- [02:18:27,870 - 02:18:29,650] of every minute of the working day, yet we
+- [02:18:29,650 - 02:18:32,770] spend three hours at lunch.
+- [02:18:32,770 - 02:18:36,309] Do as I say, not as I do.
+- [02:18:36,309 - 02:18:38,349] This is inconsistent.
+- [02:18:38,349 - 02:18:40,359] This leads to a loss of
+- [02:18:40,359 - 02:18:42,370] credibility among those who watch us.
+- [02:18:42,370 - 02:18:45,480] And more importantly, this leads to
+- [02:18:45,480 - 02:18:48,590] a loss of credibility within ourselves.
+- [02:18:48,590 - 02:18:51,480] The only thing worse than one who
+- [02:18:51,480 - 02:18:54,370] is inconsistent in applying their self-imposed disciplines,
+- [02:18:54,370 - 02:18:55,129] is one who has never considered
+- [02:18:55,129 - 02:18:55,889] themselves as a part of the system.
+- [02:18:55,889 - 02:18:58,219] They have never considered the need
+- [02:18:58,219 - 02:19:00,549] or the value of discipline at all.
+- [02:19:00,549 - 02:19:04,250] These people seem to wander aimlessly,
+- [02:19:04,250 - 02:19:07,950] changing procedures, changing standards, changing loyalties,
+- [02:19:07,950 - 02:19:10,900] and shifting frequently from one commitment to
+- [02:19:10,900 - 02:19:13,850] another, leaving behind a trail of broken
+- [02:19:13,850 - 02:19:16,690] friendships, unfinished projects, and unfulfilled promises,
+- [02:19:16,690 - 02:19:19,530] all because of a discipline that
+- [02:19:19,530 - 02:19:22,049] was either non-existent or imposed
+- [02:19:22,049 - 02:19:24,570] so infrequently that it was ineffective.
+- [02:19:24,570 - 02:19:25,570] I'm not saying that discipline is a bad thing.
+- [02:19:25,570 - 02:19:25,690] I'm saying that discipline is a bad thing.
+- [02:19:25,889 - 02:19:26,889] I'm not saying that discipline is a bad thing.
+- [02:19:26,889 - 02:19:29,020] Here's the third step
+- [02:19:29,020 - 02:19:31,150] to becoming consistently self-disciplined.
+- [02:19:31,150 - 02:19:32,949] Number one is realizing that
+- [02:19:32,949 - 02:19:34,749] discipline isn't the easiest option.
+- [02:19:34,749 - 02:19:38,119] Number two, discipline is a full-time
+- [02:19:38,119 - 02:19:41,490] activity, day by day, every day.
+- [02:19:41,490 - 02:19:44,520] And the third step to becoming self-disciplined is
+- [02:19:44,520 - 02:19:47,549] really a philosophy that holds one of life's
+- [02:19:47,549 - 02:19:50,310] unique promises.
+- [02:19:50,310 - 02:19:52,940] Number three simply says, for every
+- [02:19:52,940 - 02:19:55,570] disciplined effort, there is a multiple reward.
+- [02:19:55,890 - 02:19:57,610] Now, if I have to read my tiara, I'd
+- [02:19:57,610 - 02:19:59,330] like to see our lessons that are passed down here
+- [02:19:59,330 - 02:20:00,330] through the millennium.
+- [02:20:00,330 - 02:20:01,330] Okay.
+- [02:20:01,330 - 02:20:02,380] And number four is the issue of
+- [02:20:02,380 - 02:20:03,430] good service what is not good for myself.
+- [02:20:03,430 - 02:20:09,430] I've gone full of talks about這是 правда setan quantum parti.
+- [02:20:09,430 - 02:20:13,690] They're
+- [02:20:13,690 - 02:20:19,550] probably sh variabе Judasyon Echoes, Wedding часто
+- [02:20:19,550 - 02:20:22,350] ie
+- [02:20:22,350 - 02:20:24,050] menciam
+- [02:20:24,050 - 02:20:25,330] in
+- [02:20:25,330 - 02:20:27,010] and explain behaviors.
+- [02:20:27,650 - 02:20:29,480] But this may well be the
+- [02:20:29,480 - 02:20:31,310] major law we need to understand.
+- [02:20:31,970 - 02:20:35,790] For every disciplined effort, a multiple reward.
+- [02:20:36,790 - 02:20:40,990] For every disciplined effort, a multiple reward.
+- [02:20:41,530 - 02:20:42,330] What a concept.
+- [02:20:43,350 - 02:20:44,990] If you render unique service,
+- [02:20:44,990 - 02:20:46,630] your reward will be multiplied.
+- [02:20:47,330 - 02:20:50,350] If you're fair and honest and patient with others,
+- [02:20:51,090 - 02:20:52,550] your reward will be multiplied.
+- [02:20:52,550 - 02:20:55,850] If you give more than you expect to receive,
+- [02:20:56,110 - 02:20:58,410] your reward is more than you expect.
+- [02:20:59,370 - 02:21:01,570] But remember, the key word here,
+- [02:21:01,570 - 02:21:03,770] as you might well imagine, is discipline.
+- [02:21:04,889 - 02:21:08,389] Everything of value requires care and attention.
+- [02:21:09,570 - 02:21:11,710] Everything of value requires discipline.
+- [02:21:12,450 - 02:21:13,750] Children require discipline.
+- [02:21:14,710 - 02:21:16,910] They must have a structure built for them.
+- [02:21:17,370 - 02:21:19,570] They must have boundaries to work within
+- [02:21:19,570 - 02:21:22,530] so they feel secure and comfortable to explore.
+- [02:21:22,550 - 02:21:27,710] They must learn to recognize what's right and what's wrong.
+- [02:21:28,550 - 02:21:31,530] What's acceptable behavior, what's not acceptable.
+- [02:21:32,690 - 02:21:34,690] Children require unwavering
+- [02:21:34,690 - 02:21:36,690] discipline, consistent discipline.
+- [02:21:37,170 - 02:21:38,840] Or they'll be confused as
+- [02:21:38,840 - 02:21:40,510] to how they're supposed to behave.
+- [02:21:41,750 - 02:21:44,070] Likewise, our thoughts require discipline.
+- [02:21:44,670 - 02:21:46,640] We must set up our
+- [02:21:46,640 - 02:21:48,610] inner boundaries, our codes of conduct,
+- [02:21:49,350 - 02:21:50,970] or our thoughts will be confused.
+- [02:21:50,970 - 02:21:52,530] And with confusion,
+- [02:21:52,550 - 02:21:55,550] confused thoughts will end up being confused,
+- [02:21:55,550 - 02:21:58,550] hopelessly lost in the maze of life.
+- [02:21:58,550 - 02:22:02,550] And confused thoughts produce confused results.
+- [02:22:02,550 - 02:22:06,550] Look around you at this very moment in time.
+- [02:22:06,550 - 02:22:09,550] What might you be doing that needs attention?
+- [02:22:09,550 - 02:22:12,050] Perhaps you're listening to this program
+- [02:22:12,050 - 02:22:14,550] as you drive along in traffic,
+- [02:22:14,550 - 02:22:17,050] blowing your horn at someone ahead of you
+- [02:22:17,050 - 02:22:19,550] who isn't driving at the speed you'd like to.
+- [02:22:19,550 - 02:22:21,050] Perhaps you're listening alone because
+- [02:22:21,050 - 02:22:22,550] you've had a hard time.
+- [02:22:22,550 - 02:22:24,550] Perhaps you're in a disagreement with someone
+- [02:22:24,550 - 02:22:26,550] you love or someone who loves you,
+- [02:22:26,550 - 02:22:28,050] and your anger won't allow
+- [02:22:28,050 - 02:22:29,550] you to speak to that person.
+- [02:22:29,550 - 02:22:32,050] Wouldn't this be an ideal time to
+- [02:22:32,050 - 02:22:34,550] examine your need for a new discipline?
+- [02:22:35,550 - 02:22:38,050] Perhaps you're on the brink of giving
+- [02:22:38,050 - 02:22:40,550] up or starting over or starting out.
+- [02:22:40,550 - 02:22:43,050] And the only missing ingredient to
+- [02:22:43,050 - 02:22:45,550] your incredible success story in the future
+- [02:22:45,550 - 02:22:48,550] is a new and self-imposed discipline that
+- [02:22:48,550 - 02:22:51,550] will make you stay longer and try harder.
+- [02:22:51,550 - 02:22:54,050] And work more intensely than
+- [02:22:54,050 - 02:22:56,550] you ever thought you possibly could.
+- [02:22:56,550 - 02:22:59,550] The most valuable form of discipline is
+- [02:22:59,550 - 02:23:02,550] the one that you impose on yourself.
+- [02:23:02,550 - 02:23:05,550] Don't wait for things to deteriorate so drastically
+- [02:23:05,550 - 02:23:09,550] that someone else must impose discipline into your life.
+- [02:23:09,550 - 02:23:11,550] Wouldn't that be tragic?
+- [02:23:11,550 - 02:23:13,550] How could you possibly explain the fact
+- [02:23:13,550 - 02:23:15,550] that someone else thought more of you
+- [02:23:15,550 - 02:23:18,550] than you thought of yourself?
+- [02:23:18,550 - 02:23:20,550] That they forced you to get up early
+- [02:23:20,550 - 02:23:22,550] and get out into the marketplace
+- [02:23:22,550 - 02:23:24,550] when you would have been content
+- [02:23:24,550 - 02:23:26,550] to let success go to someone else
+- [02:23:26,550 - 02:23:29,550] who cared more about themselves?
+- [02:23:29,550 - 02:23:31,550] Your life, my life, the
+- [02:23:31,550 - 02:23:33,550] life of each one of us
+- [02:23:33,550 - 02:23:35,550] is going to serve as
+- [02:23:35,550 - 02:23:37,550] either a warning or an example.
+- [02:23:37,550 - 02:23:41,550] A warning of the consequences of neglect, self-pity,
+- [02:23:41,550 - 02:23:43,550] lack of direction and ambition,
+- [02:23:43,550 - 02:23:48,550] or an example of talent put to use.
+- [02:23:48,550 - 02:23:49,550] Of discipline.
+- [02:23:49,550 - 02:23:51,550] Self-imposed.
+- [02:23:51,550 - 02:23:55,550] And of objectives clearly perceived and intensely pursued.
+- [02:24:05,550 - 02:24:08,550] Now, can too much discipline be a bad thing?
+- [02:24:08,550 - 02:24:11,550] Can you possibly be too disciplined?
+- [02:24:11,550 - 02:24:13,550] Too much of anything is a bad thing.
+- [02:24:13,550 - 02:24:17,550] Life without balance results in an unbalanced life.
+- [02:24:17,550 - 02:24:20,550] Walking around the block every day is good.
+- [02:24:20,550 - 02:24:23,550] Walking or running six hours a day is bad.
+- [02:24:23,550 - 02:24:25,550] It's obsessive.
+- [02:24:25,550 - 02:24:27,550] Unless, of course, you make
+- [02:24:27,550 - 02:24:29,550] your living as a marathon runner.
+- [02:24:29,550 - 02:24:32,550] Then you're doing your job.
+- [02:24:32,550 - 02:24:34,550] Eating an apple a day is good.
+- [02:24:34,550 - 02:24:36,550] Eating only apples is bad.
+- [02:24:36,550 - 02:24:39,050] You won't get all the protein
+- [02:24:39,050 - 02:24:41,550] and vitamins and nutrients your body needs.
+- [02:24:41,550 - 02:24:44,550] Working hard, burning the midnight
+- [02:24:44,550 - 02:24:47,550] oil, doing it until is good.
+- [02:24:47,550 - 02:24:50,550] Working nonstop, never taking a
+- [02:24:50,550 - 02:24:53,550] vacation, never having any fun,
+- [02:24:53,550 - 02:24:57,550] never spending quality time with the people you love,
+- [02:24:57,550 - 02:25:00,550] working, working, working day after day, month after month,
+- [02:25:00,550 - 02:25:05,550] never taking a break year after year is bad.
+- [02:25:05,550 - 02:25:07,050] If you've got your nose
+- [02:25:07,050 - 02:25:08,550] to the grindstone all the time,
+- [02:25:08,550 - 02:25:11,550] how are you ever going to
+- [02:25:11,550 - 02:25:14,550] spot new opportunities, consider new ideas?
+- [02:25:14,550 - 02:25:15,550] It doesn't work that way.
+- [02:25:15,550 - 02:25:18,050] You've got to stop and ponder
+- [02:25:18,050 - 02:25:20,550] where you've been and where you're going.
+- [02:25:20,550 - 02:25:23,050] You've got to reflect so you know
+- [02:25:23,050 - 02:25:25,550] if you're even on the right track.
+- [02:25:25,550 - 02:25:28,550] Everyone has heard the story of Willy
+- [02:25:28,550 - 02:25:31,550] Loman in the play Death of a Salesman.
+- [02:25:31,550 - 02:25:33,550] Willy was a workaholic.
+- [02:25:33,550 - 02:25:37,550] He typified the old-fashioned concept of success.
+- [02:25:37,550 - 02:25:41,550] After all, if you're always working, you must be successful.
+- [02:25:41,550 - 02:25:44,550] No, it doesn't work that way.
+- [02:25:44,550 - 02:25:46,550] For workaholics, there's never enough work.
+- [02:25:46,550 - 02:25:49,550] They can work 10, 12, 14 hours a
+- [02:25:49,550 - 02:25:52,550] day, take two jobs, work them back to back.
+- [02:25:52,550 - 02:25:56,050] The only satisfaction is fighting off sleep,
+- [02:25:56,050 - 02:25:59,550] denying life's pleasures, getting more tasks done.
+- [02:25:59,550 - 02:26:02,550] Some people are impressed with this type of behavior.
+- [02:26:02,550 - 02:26:06,550] But just because a workaholic spends too much time working,
+- [02:26:06,550 - 02:26:08,550] that doesn't mean he or she
+- [02:26:08,550 - 02:26:10,550] ends up with the most money.
+- [02:26:10,550 - 02:26:12,050] These people are generally
+- [02:26:12,050 - 02:26:13,550] more task-oriented than results-oriented.
+- [02:26:14,550 - 02:26:20,550] They're busy being busy, not busy being productive.
+- [02:26:20,550 - 02:26:24,550] Workaholics generally end up alienating their families,
+- [02:26:24,550 - 02:26:28,550] losing their health, facing a crisis of values.
+- [02:26:28,550 - 02:26:31,550] Now, wouldn't you prefer a life of
+- [02:26:31,550 - 02:26:34,550] productivity rather than a life of tasks?
+- [02:26:34,550 - 02:26:36,550] Of course.
+- [02:26:36,550 - 02:26:39,550] When you schedule your time and take advantage of
+- [02:26:39,550 - 02:26:42,550] your time, you can work smarter instead of working longer.
+- [02:26:42,550 - 02:26:44,550] And you'll probably end up
+- [02:26:44,550 - 02:26:46,550] getting more done than the workaholic
+- [02:26:46,550 - 02:26:50,550] and still have time for other things in life.
+- [02:26:50,550 - 02:26:52,550] Enlightened self-interest says,
+- [02:26:52,550 - 02:26:57,050] I will look for new ways to work smarter by
+- [02:26:57,050 - 02:27:01,550] focusing on doing more per hour instead of doing more hours.
+- [02:27:01,550 - 02:27:04,050] It says I will run my
+- [02:27:04,050 - 02:27:06,550] day so my day doesn't run me.
+- [02:27:06,550 - 02:27:10,550] Enlightened self-interest also says that a life worth living
+- [02:27:10,550 - 02:27:12,550] comes from a life of business.
+- [02:27:12,550 - 02:27:15,550] It's about balance and moderation.
+- [02:27:15,550 - 02:27:18,550] Too much of anything, even good things,
+- [02:27:18,550 - 02:27:21,550] will sooner or later throw you off track.
+- [02:27:21,550 - 02:27:25,050] Now, here's a key technique that you can use in
+- [02:27:25,050 - 02:27:28,550] your life to help keep you on the right track.
+- [02:27:28,550 - 02:27:33,550] This technique is called visual chain thinking.
+- [02:27:33,550 - 02:27:36,050] Ambitious people don't see each step
+- [02:27:36,050 - 02:27:38,550] toward their goals as a singular step,
+- [02:27:38,550 - 02:27:41,550] each discipline as a singular discipline,
+- [02:27:42,550 - 02:27:45,550] each project as a singular project,
+- [02:27:45,550 - 02:27:48,550] each sale as a singular sale.
+- [02:27:48,550 - 02:27:50,550] With everything they do and
+- [02:27:50,550 - 02:27:52,550] with every discipline they adhere to,
+- [02:27:52,550 - 02:27:55,550] they see it all as part of a chain,
+- [02:27:55,550 - 02:27:58,550] a link in the chain of events and
+- [02:27:58,550 - 02:28:01,550] actions that will lead them to their final destination.
+- [02:28:01,550 - 02:28:04,050] Every action and every discipline today
+- [02:28:04,050 - 02:28:06,550] is a link in the chain.
+- [02:28:06,550 - 02:28:10,550] Every action and every discipline tomorrow is a link.
+- [02:28:10,550 - 02:28:12,550] Every action and every discipline
+- [02:28:12,550 - 02:28:15,550] in the future is a link.
+- [02:28:15,550 - 02:28:18,550] When you can see that every link in the chain will
+- [02:28:18,550 - 02:28:21,550] eventually lead you to the things you want most out of life,
+- [02:28:21,550 - 02:28:24,550] to the person you want to become,
+- [02:28:24,550 - 02:28:27,050] then you won't grow discouraged
+- [02:28:27,050 - 02:28:29,550] or fearful or impatient with today.
+- [02:28:29,550 - 02:28:31,550] When you can see where
+- [02:28:31,550 - 02:28:33,550] you're going through visual chain thinking,
+- [02:28:33,550 - 02:28:35,550] even on the toughest days,
+- [02:28:35,550 - 02:28:37,550] you'll keep building your ambition
+- [02:28:37,550 - 02:28:39,550] by knowing where you're going,
+- [02:28:39,550 - 02:28:42,550] not just where you are today.
+- [02:28:42,550 - 02:28:45,050] Part of this visual chain thinking is
+- [02:28:45,050 - 02:28:47,550] built when you decide on your direction,
+- [02:28:47,550 - 02:28:49,550] when you can see where you're going
+- [02:28:49,550 - 02:28:51,550] to end up before you get there,
+- [02:28:51,550 - 02:28:55,050] when you can see California while staring
+- [02:28:55,050 - 02:28:58,550] at the east side of a 14,000-foot mountain.
+- [02:28:58,550 - 02:29:02,050] And building your visual chain of thought begins
+- [02:29:02,050 - 02:29:05,550] when you have well-defined plans for your career,
+- [02:29:05,550 - 02:29:09,550] your family activities, your investments, and your health.
+- [02:29:09,550 - 02:29:11,550] Your plans and goals are your visual chain,
+- [02:29:11,550 - 02:29:16,550] knowing where you're going before you get there.
+- [02:29:16,550 - 02:29:19,550] Develop a plan, a game plan.
+- [02:29:19,550 - 02:29:23,550] It's ironic how we all understand the importance of mapping
+- [02:29:23,550 - 02:29:27,550] out a strategy for a football game or a basketball game.
+- [02:29:27,550 - 02:29:30,050] Not one professional team in the world
+- [02:29:30,050 - 02:29:32,550] begins a game without a complete strategy.
+- [02:29:32,550 - 02:29:36,050] But few of us take the time to map
+- [02:29:36,050 - 02:29:39,550] out a strategy for our lives, a game plan.
+- [02:29:39,550 - 02:29:40,550] But it's important.
+- [02:29:41,550 - 02:29:44,550] Here's the first rule for your game plan of life.
+- [02:29:44,550 - 02:29:48,550] Don't start your day until you have it finished.
+- [02:29:48,550 - 02:29:51,550] Don't begin your activities of the day until
+- [02:29:51,550 - 02:29:54,550] you know exactly what you plan to accomplish.
+- [02:29:54,550 - 02:29:57,550] Don't start your day until you have it planned.
+- [02:29:57,550 - 02:29:59,550] And do this every day.
+- [02:29:59,550 - 02:30:01,550] I know all this writing
+- [02:30:01,550 - 02:30:03,550] takes time and a disciplined effort.
+- [02:30:03,550 - 02:30:06,050] But remember that value is the
+- [02:30:06,050 - 02:30:08,550] fruitful result of discipline, not hope.
+- [02:30:08,550 - 02:30:11,550] Once you've mastered the art of planning your day,
+- [02:30:11,550 - 02:30:13,550] you're ready for the next level.
+- [02:30:13,550 - 02:30:16,550] Don't start your week until you have it finished.
+- [02:30:16,550 - 02:30:19,550] Don't begin your activities of the week until
+- [02:30:19,550 - 02:30:22,550] you know exactly what you plan to accomplish.
+- [02:30:22,550 - 02:30:26,550] Don't start your week until you have it planned.
+- [02:30:26,550 - 02:30:29,550] Just imagine what life would be like if you
+- [02:30:29,550 - 02:30:32,550] took time out of every Sunday to plan your week.
+- [02:30:32,550 - 02:30:34,550] Come Friday, you won't be saying,
+- [02:30:34,550 - 02:30:36,550] Boy, did this week fly by.
+- [02:30:36,550 - 02:30:38,550] Where did it go?
+- [02:30:38,550 - 02:30:39,550] What did I do?
+- [02:30:39,550 - 02:30:40,550] No.
+- [02:30:40,550 - 02:30:42,550] If you plan your week before you start it,
+- [02:30:42,550 - 02:30:45,550] you'll know exactly what you want to do,
+- [02:30:45,550 - 02:30:47,550] what you want to accomplish,
+- [02:30:47,550 - 02:30:49,550] what you need to work on.
+- [02:30:49,550 - 02:30:52,050] If you learn to plan your days as
+- [02:30:52,050 - 02:30:54,550] part of your overall game plan for the week,
+- [02:30:54,550 - 02:30:56,550] the parts will fit much better.
+- [02:30:56,550 - 02:30:59,550] Your days will be better, more effective.
+- [02:30:59,550 - 02:31:03,550] You'll be working smarter, not harder.
+- [02:31:03,550 - 02:31:06,550] And when you've learned to plan your week, guess what?
+- [02:31:06,550 - 02:31:08,550] You've got to plan your month.
+- [02:31:08,550 - 02:31:10,550] Don't start your month
+- [02:31:10,550 - 02:31:12,550] until it's finished.
+- [02:31:12,550 - 02:31:15,050] By developing a game plan for
+- [02:31:15,050 - 02:31:17,550] your days, your weeks, your months,
+- [02:31:17,550 - 02:31:19,550] by developing and following your game plan,
+- [02:31:19,550 - 02:31:22,050] your days and weeks and months
+- [02:31:22,050 - 02:31:24,550] all become part of a bigger plan,
+- [02:31:24,550 - 02:31:26,550] a bigger design,
+- [02:31:26,550 - 02:31:28,550] a long-term view of your life,
+- [02:31:28,550 - 02:31:31,550] a visual chain.
+- [02:31:31,550 - 02:31:34,550] You'll start gaining a greater perspective of it all
+- [02:31:34,550 - 02:31:37,550] because you are planning.
+- [02:31:37,550 - 02:31:39,550] It takes great discipline on your part.
+- [02:31:40,550 - 02:31:42,550] But it will soon lead to a new habit,
+- [02:31:42,550 - 02:31:45,550] a habit of mastering your time,
+- [02:31:45,550 - 02:31:47,550] a habit of discipline that will
+- [02:31:47,550 - 02:31:49,550] lead you to the good life.
+- [02:31:49,550 - 02:31:52,550] Now, if visually seeing the future is new to you,
+- [02:31:52,550 - 02:31:55,550] if you've never developed a game plan before,
+- [02:31:55,550 - 02:31:58,550] let me offer a few tips.
+- [02:31:58,550 - 02:32:01,550] There are two things that you need
+- [02:32:01,550 - 02:32:04,550] to understand before you create a game plan.
+- [02:32:04,550 - 02:32:06,550] Number one,
+- [02:32:06,550 - 02:32:08,550] a game plan, a visual chain of your future,
+- [02:32:08,550 - 02:32:11,550] is like a spreadsheet.
+- [02:32:11,550 - 02:32:14,550] Instead of listing numbers, you list activities.
+- [02:32:14,550 - 02:32:16,550] It's like a to-do list.
+- [02:32:16,550 - 02:32:17,550] And number two,
+- [02:32:17,550 - 02:32:19,550] the technique of developing a game plan
+- [02:32:19,550 - 02:32:21,550] can be used for a single day,
+- [02:32:21,550 - 02:32:22,550] a single project,
+- [02:32:22,550 - 02:32:27,550] or a variety of projects that are happening simultaneously.
+- [02:32:27,550 - 02:32:29,550] Here's how you do it.
+- [02:32:29,550 - 02:32:30,550] First of all,
+- [02:32:30,550 - 02:32:33,550] you need to buy a pad of graph paper.
+- [02:32:33,550 - 02:32:36,550] Game plans work best on graph paper.
+- [02:32:36,550 - 02:32:38,550] So take a sheet of graph paper,
+- [02:32:38,550 - 02:32:41,550] and make vertical columns of the number
+- [02:32:41,550 - 02:32:44,550] of days this plan is to cover.
+- [02:32:44,550 - 02:32:47,550] Then on the left-hand side of the paper,
+- [02:32:47,550 - 02:32:49,550] write the heading,
+- [02:32:49,550 - 02:32:51,550] Activities.
+- [02:32:51,550 - 02:32:52,550] Under this heading,
+- [02:32:52,550 - 02:32:55,050] list all of the activities to
+- [02:32:55,050 - 02:32:57,550] be accomplished within your time frame.
+- [02:32:57,550 - 02:32:59,550] Let's say, for example,
+- [02:32:59,550 - 02:33:02,550] that you've got one week to finalize a marketing plan.
+- [02:33:02,550 - 02:33:05,550] It's an overwhelming amount of work to complete,
+- [02:33:05,550 - 02:33:06,550] but it's got to be done.
+- [02:33:06,550 - 02:33:07,550] So break it down.
+- [02:33:07,550 - 02:33:10,550] So break it down piece by piece.
+- [02:33:10,550 - 02:33:12,550] The best way to start is
+- [02:33:12,550 - 02:33:14,550] by listing all of the individual components
+- [02:33:14,550 - 02:33:17,550] on the left-hand side of the page.
+- [02:33:17,550 - 02:33:20,050] Now, some of these things need to
+- [02:33:20,050 - 02:33:22,550] be completed before others can be started.
+- [02:33:22,550 - 02:33:25,550] You need to have your market research results in
+- [02:33:25,550 - 02:33:28,550] before you can determine your target market.
+- [02:33:28,550 - 02:33:31,050] You need to know your target market
+- [02:33:31,050 - 02:33:33,550] before you can develop your marketing strategy.
+- [02:33:33,550 - 02:33:35,550] You need to have your marketing strategy
+- [02:33:35,550 - 02:33:38,550] before you can create a budget for collateral materials,
+- [02:33:38,550 - 02:33:40,550] and so on.
+- [02:33:40,550 - 02:33:44,550] When you break down the project piece by piece,
+- [02:33:44,550 - 02:33:46,550] deadline by deadline,
+- [02:33:46,550 - 02:33:49,050] you can be more effective in
+- [02:33:49,050 - 02:33:51,550] delegating the appropriate pieces of the puzzle.
+- [02:33:51,550 - 02:33:53,550] And you can be more
+- [02:33:53,550 - 02:33:55,550] effective in doing your own work
+- [02:33:55,550 - 02:33:57,550] while orchestrating the rest.
+- [02:33:57,550 - 02:34:00,550] The final result of developing a visual chain,
+- [02:34:00,550 - 02:34:02,550] your game plan,
+- [02:34:02,550 - 02:34:05,550] is a clear visual presentation of your project.
+- [02:34:05,550 - 02:34:08,550] The visualization of the tasks before you.
+- [02:34:08,550 - 02:34:10,550] Keep your game plan in plain sight.
+- [02:34:10,550 - 02:34:12,050] Put it up in your office
+- [02:34:12,050 - 02:34:13,550] where you can easily look at it.
+- [02:34:13,550 - 02:34:15,050] Have a copy of it at
+- [02:34:15,050 - 02:34:16,550] home and tape it to the refrigerator.
+- [02:34:16,550 - 02:34:20,550] Keep a copy in your journal for quick reference.
+- [02:34:20,550 - 02:34:24,550] Your game plan will serve as a constant reminder
+- [02:34:24,550 - 02:34:26,550] of all that you need to do
+- [02:34:26,550 - 02:34:28,550] to get where you want to go.
+- [02:34:28,550 - 02:34:31,550] If you're doing all that you're scheduled to do,
+- [02:34:31,550 - 02:34:34,550] game plans are very rewarding.
+- [02:34:34,550 - 02:34:36,550] The discipline of developing and
+- [02:34:36,550 - 02:34:38,550] following a game plan is exciting.
+- [02:34:38,550 - 02:34:40,550] Day by day by day,
+- [02:34:40,550 - 02:34:42,550] week by week by week,
+- [02:34:42,550 - 02:34:45,550] month by month by month,
+- [02:34:45,550 - 02:34:48,050] you'll see the magic of your
+- [02:34:48,050 - 02:34:50,550] dreams and plans turning into reality.
+- [02:34:50,550 - 02:34:52,550] It's an incredible feeling of
+- [02:34:52,550 - 02:34:54,550] being in charge of your life,
+- [02:34:54,550 - 02:34:56,550] your surroundings, your future.
+- [02:34:56,550 - 02:34:59,050] It's like creating a work of
+- [02:34:59,050 - 02:35:01,550] art on the biggest canvas imaginable.
+- [02:35:01,550 - 02:35:03,550] It's creative. It's beautiful.
+- [02:35:04,550 - 02:35:07,550] This is powerful stuff to dream a dream,
+- [02:35:07,550 - 02:35:09,550] plan for the dream,
+- [02:35:09,550 - 02:35:13,550] and then to watch your dream turn into reality.
+- [02:35:13,550 - 02:35:16,550] And what's really powerful about creating game plans
+- [02:35:16,550 - 02:35:18,550] is that you can see
+- [02:35:18,550 - 02:35:20,550] your future right before your eyes.
+- [02:35:20,550 - 02:35:22,550] So on those days when
+- [02:35:22,550 - 02:35:24,550] your energy isn't up to par,
+- [02:35:24,550 - 02:35:26,550] your enthusiasm is a little low,
+- [02:35:26,550 - 02:35:28,550] your ambition isn't pulling you,
+- [02:35:28,550 - 02:35:31,550] and your attitude isn't on the high side,
+- [02:35:31,550 - 02:35:32,550] on those days,
+- [02:35:32,550 - 02:35:34,550] use your game plan to create a game plan
+- [02:35:34,550 - 02:35:36,550] to see how far you've come
+- [02:35:36,550 - 02:35:39,050] and take time to realize just exactly
+- [02:35:39,050 - 02:35:41,550] where it is that you're headed for.
+- [02:35:41,550 - 02:35:43,550] On those days, it's your discipline
+- [02:35:43,550 - 02:35:45,550] and visual chain of the future
+- [02:35:45,550 - 02:35:47,550] that will pull you ahead.
+- [02:35:47,550 - 02:35:49,550] It can't possibly set you back.
+- [02:35:49,550 - 02:35:52,550] It'll pull you ahead.
+- [02:35:52,550 - 02:35:55,550] Develop a game plan for your life
+- [02:35:55,550 - 02:35:59,550] and make sure that it includes more than work projects.
+- [02:35:59,550 - 02:36:02,550] Make sure that your game plan includes time for recreation,
+- [02:36:02,550 - 02:36:03,550] time for reflection,
+- [02:36:03,550 - 02:36:05,550] time for exercise,
+- [02:36:05,550 - 02:36:06,550] time for health,
+- [02:36:06,550 - 02:36:08,550] time for spirituality.
+- [02:36:08,550 - 02:36:10,550] Let's say you've developed your plan
+- [02:36:10,550 - 02:36:13,050] and you've penciled in writing a
+- [02:36:13,050 - 02:36:15,550] report from 9 a.m. to 10 a.m.
+- [02:36:15,550 - 02:36:18,050] Well, what if you don't do your
+- [02:36:18,050 - 02:36:20,550] best report writing this early in the morning?
+- [02:36:20,550 - 02:36:22,550] What if you do this kind of
+- [02:36:22,550 - 02:36:24,550] work best at 3 in the afternoon?
+- [02:36:24,550 - 02:36:27,550] Then juggle your projects around a little.
+- [02:36:27,550 - 02:36:30,050] Know yourself well enough to know
+- [02:36:30,050 - 02:36:32,550] what you do best at different times.
+- [02:36:33,550 - 02:36:35,550] The times of the day,
+- [02:36:35,550 - 02:36:37,550] of the week, of the month.
+- [02:36:37,550 - 02:36:39,550] Know the best time for you
+- [02:36:39,550 - 02:36:41,550] to accomplish a certain type of task
+- [02:36:41,550 - 02:36:44,550] and schedule it during those times.
+- [02:36:44,550 - 02:36:47,050] You have to work with your game plan
+- [02:36:47,050 - 02:36:49,550] in order for it to best work for you
+- [02:36:49,550 - 02:36:51,550] and you have to maintain the
+- [02:36:51,550 - 02:36:53,550] discipline of working your plan until...
+- [02:36:53,550 - 02:36:55,550] Until what?
+- [02:36:55,550 - 02:36:58,550] Until you've got it down.
+- [02:36:58,550 - 02:37:01,550] In the end, it is your own discipline
+- [02:37:01,550 - 02:37:04,550] that acts as the magic catalyst to
+- [02:37:04,550 - 02:37:07,550] give substance and depth to your ambition.
+- [02:37:07,550 - 02:37:09,550] To achieve your own plans and dreams,
+- [02:37:09,550 - 02:37:11,550] to have what you want to have,
+- [02:37:11,550 - 02:37:14,550] and to become what you want to become.
+- [02:37:14,550 - 02:37:19,550] Your consistent self-discipline is the magic catalyst.
+- [02:37:19,550 - 02:37:22,550] The ultimate question cannot be whether you are
+- [02:37:22,550 - 02:37:25,550] going to make the fundamental disciplines your own.
+- [02:37:25,550 - 02:37:28,550] The ultimate question is when.
+- [02:37:28,550 - 02:37:30,550] With the intense and consistent application
+- [02:37:30,550 - 02:37:32,550] of worthy disciplines,
+- [02:37:32,550 - 02:37:35,050] we have the individual and
+- [02:37:35,050 - 02:37:37,550] collective capacity to change ourselves,
+- [02:37:37,550 - 02:37:41,550] our incomes, our attitudes, our lifestyles,
+- [02:37:41,550 - 02:37:43,550] and our effect on other people.
+- [02:37:43,550 - 02:37:45,550] We can change opinions.
+- [02:37:45,550 - 02:37:47,550] We can change leadership.
+- [02:37:47,550 - 02:37:50,550] We can even change the direction of our nation.
+- [02:37:50,550 - 02:37:52,550] We have the chance.
+- [02:37:52,550 - 02:37:54,550] We have the capacity.
+- [02:37:54,550 - 02:37:56,550] We have the answers.
+- [02:37:56,550 - 02:37:58,550] And we have the ability.
+- [02:37:58,550 - 02:38:00,550] The elements are all there.
+- [02:38:00,550 - 02:38:03,550] Including the freedom to try.
+- [02:38:03,550 - 02:38:06,550] Only the discipline is missing.
+- [02:38:06,550 - 02:38:09,550] And that element, and the decision to use it,
+- [02:38:09,550 - 02:38:11,550] lies within all of us.
+- [02:38:11,550 - 02:38:13,550] The choice is ours.
+- [02:38:30,550 - 02:38:32,550] Hey!
+- [02:38:33,550 - 02:38:34,550] That's not our task.
+- [02:38:34,550 - 02:38:36,550] That's our responsibility.
+- [02:38:36,550 - 02:38:39,050] So far, we've discussed the
+- [02:38:39,050 - 02:38:41,550] three principles of building your ambition.
+- [02:38:41,550 - 02:38:42,550] Number one,
+- [02:38:42,550 - 02:38:43,550] positive self-direction.
+- [02:38:43,550 - 02:38:46,550] Knowing who you are and where you want to go.
+- [02:38:46,550 - 02:38:47,550] Number two,
+- [02:38:47,550 - 02:38:48,550] self-reliance.
+- [02:38:48,550 - 02:38:51,550] Taking responsibility for your own life.
+- [02:38:51,550 - 02:38:55,550] Taking full responsibility for whatever happens to you.
+- [02:38:55,550 - 02:38:56,550] Number three,
+- [02:38:56,550 - 02:38:58,550] self-discipline.
+- [02:38:58,550 - 02:39:02,810] And implementing that action every day, every day, every day
+- [02:39:02,810 - 02:39:07,070] until it becomes a way of life, a good habit.
+- [02:39:07,070 - 02:39:10,280] And the fourth principle of building
+- [02:39:10,280 - 02:39:13,490] your ambition is building your enterprising skills.
+- [02:39:14,370 - 02:39:17,450] Building your skills to be self-enterprising.
+- [02:39:18,250 - 02:39:20,890] To consistently create opportunity.
+- [02:39:21,990 - 02:39:22,790] New opportunity.
+- [02:39:23,350 - 02:39:25,250] To consistently take advantage of
+- [02:39:25,250 - 02:39:27,150] the opportunity that you've created.
+- [02:39:27,150 - 02:39:29,110] To be aware.
+- [02:39:30,010 - 02:39:32,850] To face life with your eyes and ears open
+- [02:39:32,850 - 02:39:35,690] to the possibilities that may be just around the corner.
+- [02:39:36,990 - 02:39:40,410] An enterprising person is one who comes across a pile
+- [02:39:40,410 - 02:39:43,830] of scrap metal and sees the making of a wonderful sculpture.
+- [02:39:44,930 - 02:39:48,450] An enterprising person is one who drives through an old
+- [02:39:48,450 - 02:39:51,970] decrepit part of town and sees a new housing development.
+- [02:39:52,530 - 02:39:54,830] An enterprising person is one who
+- [02:39:54,830 - 02:39:57,130] sees opportunity in all areas of life.
+- [02:39:57,150 - 02:39:59,790] To be enterprising is to keep
+- [02:39:59,790 - 02:40:02,430] your eyes open and your mind active.
+- [02:40:02,430 - 02:40:08,180] It's to be skilled enough and confident enough and creative enough and
+- [02:40:08,180 - 02:40:13,930] disciplined enough to seize opportunities that present themselves, regardless of the economy.
+- [02:40:14,930 - 02:40:17,900] An enterprising mortgage banker will develop
+- [02:40:17,900 - 02:40:20,870] creative financing strategies during slow markets.
+- [02:40:21,530 - 02:40:24,270] An enterprising lawyer will study new laws and market herself
+- [02:40:24,270 - 02:40:27,010] to people who may not be able to afford it.
+- [02:40:27,150 - 02:40:31,970] An enterprising salesman will research beyond the obvious
+- [02:40:31,970 - 02:40:36,790] to find new prospects for his products or services.
+- [02:40:37,690 - 02:40:39,530] Isolate a secondary market.
+- [02:40:40,210 - 02:40:41,590] Develop another benefit.
+- [02:40:43,110 - 02:40:45,250] An enterprising attitude says, find
+- [02:40:45,250 - 02:40:47,390] out before action is taken.
+- [02:40:48,110 - 02:40:49,150] Do your homework.
+- [02:40:49,830 - 02:40:50,770] Do the research.
+- [02:40:50,770 - 02:40:51,710] Be prepared.
+- [02:40:51,710 - 02:40:53,070] Be resourceful.
+- [02:40:53,930 - 02:40:56,950] Do all you can in preparation of what's to come.
+- [02:40:58,150 - 02:41:00,710] Think of a few people you know who are enterprising.
+- [02:41:00,710 - 02:41:02,390] Think of people in the news,
+- [02:41:02,390 - 02:41:04,070] in your office, in your neighborhood.
+- [02:41:05,030 - 02:41:06,790] What do these people have in common?
+- [02:41:07,750 - 02:41:11,190] Well, they're probably always on the go, developing a
+- [02:41:11,190 - 02:41:14,630] plan, following a plan, reworking the plan until it fits.
+- [02:41:15,590 - 02:41:17,870] They're probably very resourceful, never
+- [02:41:17,870 - 02:41:20,150] letting anything get in their way.
+- [02:41:20,950 - 02:41:23,550] They probably don't understand the word no when
+- [02:41:23,550 - 02:41:26,150] it applies to their visions of the future.
+- [02:41:27,150 - 02:41:31,330] And when posed with a problem, they'll probably say, let's figure
+- [02:41:31,330 - 02:41:35,510] out a way to make it work instead of it won't work.
+- [02:41:36,470 - 02:41:39,830] You need to be like that pesky little energizer bunny.
+- [02:41:40,710 - 02:41:44,230] You need to keep going and going and going.
+- [02:41:45,550 - 02:41:47,230] Self enterprising people always see
+- [02:41:47,230 - 02:41:48,910] the future in the present.
+- [02:41:49,910 - 02:41:53,110] Self enterprising people will always find a way to
+- [02:41:53,110 - 02:41:56,310] take advantage of a situation, not be burdened by it.
+- [02:41:57,150 - 02:41:59,350] And self enterprising people aren't lazy.
+- [02:42:00,150 - 02:42:02,890] They don't wait for opportunities to come to them.
+- [02:42:02,990 - 02:42:04,510] They go after the opportunities.
+- [02:42:05,590 - 02:42:08,330] Self enterprise means always finding a way
+- [02:42:08,330 - 02:42:11,070] to keep yourself actively working toward your ambition.
+- [02:42:12,670 - 02:42:14,530] Self enterprise requires two things.
+- [02:42:14,990 - 02:42:16,770] Number one, creativity.
+- [02:42:18,150 - 02:42:19,750] Creativity to see what's out there
+- [02:42:19,750 - 02:42:21,350] and shape it to your advantage.
+- [02:42:22,150 - 02:42:24,750] Creativity to look at the world a little differently.
+- [02:42:26,150 - 02:42:26,510] Creativity.
+- [02:42:26,510 - 02:42:26,570] Creativity.
+- [02:42:26,570 - 02:42:26,630] Creativity.
+- [02:42:26,630 - 02:42:26,670] Creativity.
+- [02:42:26,670 - 02:42:26,690] Creativity.
+- [02:42:26,690 - 02:42:26,710] Creativity.
+- [02:42:26,710 - 02:42:26,730] Creativity.
+- [02:42:26,730 - 02:42:26,750] Creativity.
+- [02:42:26,750 - 02:42:26,790] Creativity.
+- [02:42:26,790 - 02:42:26,850] Creativity.
+- [02:42:26,850 - 02:42:26,870] Creativity.
+- [02:42:26,870 - 02:42:26,890] Creativity.
+- [02:42:26,890 - 02:42:26,910] Creativity.
+- [02:42:26,910 - 02:42:26,930] Creativity.
+- [02:42:27,150 - 02:42:27,210] Creativity.
+- [02:42:27,390 - 02:42:27,430] Creativity.
+- [02:42:27,430 - 02:42:27,470] Creativity.
+- [02:42:27,470 - 02:42:27,490] Creativity.
+- [02:42:27,490 - 02:42:27,510] Creativity.
+- [02:42:27,510 - 02:42:39,370] And number one, the courage to be creative.
+- [02:42:39,950 - 02:42:42,710] The courage to see things differently and
+- [02:42:42,710 - 02:42:45,470] the courage to go against the crowd.
+- [02:42:46,250 - 02:42:48,670] The courage to take a different approach.
+- [02:42:49,330 - 02:42:51,710] The courage to stand alone if you have to.
+- [02:42:52,770 - 02:42:55,750] The courage to choose activity over ease.
+- [02:42:56,470 - 02:42:56,870] And the courage to be creative.
+- [02:42:56,870 - 02:43:00,390] and activity generally relates to how you
+- [02:43:00,390 - 02:43:03,910] feel about yourself understanding your self-worth how
+- [02:43:03,910 - 02:43:07,190] valuable you are what could you do if you
+- [02:43:07,190 - 02:43:10,470] had all the skills took the classes read the books
+- [02:43:11,110 - 02:43:13,870] burned the midnight oil what could you
+- [02:43:13,870 - 02:43:16,630] do what true value could you develop
+- [02:43:17,990 - 02:43:20,870] this is one of the better exercises what could
+- [02:43:20,870 - 02:43:23,750] i become what could i really do in the marketplace
+- [02:43:24,630 - 02:43:28,950] in enterprise home family experience love
+- [02:43:28,950 - 02:43:33,270] friendship marriage how valuable could i become
+- [02:43:34,309 - 02:43:36,709] am i valuable enough to work on what's
+- [02:43:36,709 - 02:43:39,109] not working so i can reach my full capacity
+- [02:43:40,150 - 02:43:43,830] if i'm operating at 20 percent what could
+- [02:43:43,830 - 02:43:47,510] i possibly do with the other 80 percent once
+- [02:43:47,510 - 02:43:49,429] you start understanding how valuable you
+- [02:43:49,429 - 02:43:51,349] are it's a whole new experience
+- [02:43:52,390 - 02:43:53,670] understanding self
+- [02:43:53,750 - 02:43:57,669] worth it plays a major role in our
+- [02:43:57,669 - 02:44:01,589] ability to be self-enterprising our self-worth makes the
+- [02:44:01,589 - 02:44:04,829] difference between being lazy and being active
+- [02:44:04,829 - 02:44:08,069] being self-enterprising if we don't feel good
+- [02:44:08,069 - 02:44:11,109] about ourselves we won't feel good about our lives and
+- [02:44:11,109 - 02:44:14,150] if we don't feel good about our lives we won't
+- [02:44:14,150 - 02:44:17,390] be very interested in looking for opportunities
+- [02:44:17,390 - 02:44:20,630] so you see being self-enterprising doesn't just
+- [02:44:20,630 - 02:44:22,710] relate to the ability to make money
+- [02:44:23,750 - 02:44:26,029] being self-enterprising also means feeling good
+- [02:44:26,029 - 02:44:28,309] enough about yourself having a great
+- [02:44:28,309 - 02:44:30,989] enough self-worth to want to seek advantages
+- [02:44:30,989 - 02:44:33,670] and opportunities that will make a difference
+- [02:44:33,670 - 02:44:37,190] in the future enterprise is always better than
+- [02:44:37,190 - 02:44:40,710] ease every time we choose to do less
+- [02:44:40,710 - 02:44:43,029] than we possibly can it
+- [02:44:43,029 - 02:44:45,349] affects our self-confidence our self-worth
+- [02:44:46,470 - 02:44:49,669] if we keep doing a little less every day a little
+- [02:44:49,669 - 02:44:52,869] less a little less every day that we keep doing a
+- [02:44:52,870 - 02:44:56,630] little less we are also being a little less can
+- [02:44:56,630 - 02:45:00,390] you imagine what you'd end up being after 10 years
+- [02:45:00,390 - 02:45:04,630] of doing a little less every day it's devastating
+- [02:45:04,630 - 02:45:08,870] think about it doing less could ruin your life
+- [02:45:10,630 - 02:45:12,470] now you can reverse the process of
+- [02:45:12,470 - 02:45:14,310] doing a little less doing a little less
+- [02:45:15,190 - 02:45:17,670] you can reverse this process by
+- [02:45:17,670 - 02:45:20,150] using your self-direction your self-reliance your
+- [02:45:20,150 - 02:45:24,110] self-discipline you alter the course by doing a little
+- [02:45:24,110 - 02:45:28,070] more each day a little more a little more
+- [02:45:28,070 - 02:45:31,310] a little more and pretty soon you'll develop
+- [02:45:31,310 - 02:45:34,550] a new habit of doing rather than neglecting
+- [02:45:35,350 - 02:45:38,390] and days and weeks and months of doing
+- [02:45:38,390 - 02:45:41,430] a little more will ultimately do what it'll
+- [02:45:41,430 - 02:45:44,750] increase your confidence and your courage
+- [02:45:44,750 - 02:45:48,070] and your creativity and your self-worth
+- [02:45:49,510 - 02:45:50,070] in the end
+- [02:45:50,950 - 02:45:53,830] it's how we feel about ourselves that provides
+- [02:45:53,830 - 02:45:56,710] us with the increased courage and creativity for
+- [02:45:56,710 - 02:46:00,070] self-enterprise it's how we feel about ourselves
+- [02:46:00,070 - 02:46:03,430] that provides the greatest reward from activity
+- [02:46:03,430 - 02:46:06,910] and enterprise it's not what we get or what
+- [02:46:06,910 - 02:46:10,390] we accumulate that makes us valuable it's what we
+- [02:46:10,390 - 02:46:15,230] become that makes us valuable success isn't in the
+- [02:46:15,230 - 02:46:20,070] having success is in the doing it's the process of
+- [02:46:20,150 - 02:46:23,550] doing that brings value it's the
+- [02:46:23,550 - 02:46:26,950] activity that transforms our dreams into reality
+- [02:46:26,950 - 02:46:31,070] that converts ideas into actuality self-enterprise is
+- [02:46:31,070 - 02:46:35,190] found in the activity for without activity we'll
+- [02:46:35,190 - 02:46:38,110] miss the opportunity let me tell you
+- [02:46:38,110 - 02:46:41,030] what i think most messes with the mind
+- [02:46:41,590 - 02:46:45,770] i think that simply doing less than you can messes
+- [02:46:45,770 - 02:46:49,950] with the mind it causes all kinds of psychic damn
+- [02:46:49,950 - 02:46:53,710] damage. I think being less than you can be,
+- [02:46:53,710 - 02:46:57,470] trying less than you could try, doing it with
+- [02:46:57,470 - 02:47:01,500] less enthusiasm than you could do it, messes
+- [02:47:01,500 - 02:47:05,530] with the mind. It somehow damages the mind.
+- [02:47:05,530 - 02:47:08,080] It damages our self-image. Because here's
+- [02:47:08,080 - 02:47:10,630] what I've discovered happens. The minute you
+- [02:47:10,630 - 02:47:14,270] turn this around and start extending yourself,
+- [02:47:14,270 - 02:47:17,910] you'll see immediate rewards. Maybe not monetary
+- [02:47:17,910 - 02:47:21,210] ones, not yet, but it's how you feel
+- [02:47:21,210 - 02:47:24,510] about yourself that's the greatest value. You see,
+- [02:47:24,510 - 02:47:27,510] it's not what we get that makes us
+- [02:47:27,510 - 02:47:30,510] valuable. It's what we become. Discover all you can
+- [02:47:30,510 - 02:47:33,250] do. See how much you can earn, how much
+- [02:47:33,250 - 02:47:35,990] you can share, how much you can start, how much
+- [02:47:35,990 - 02:47:39,840] you can finish, how far you can reach,
+- [02:47:39,840 - 02:47:43,690] how far you can extend your influence. Some people
+- [02:47:43,690 - 02:47:45,670] out there would have us believe
+- [02:47:45,670 - 02:47:47,650] that positive affirmation is more important than
+- [02:47:47,650 - 02:47:47,750] acting.
+- [02:47:47,910 - 02:47:51,070] Instead of doing something constructive to change
+- [02:47:51,070 - 02:47:54,230] our lives, they would have us repeating
+- [02:47:54,230 - 02:47:57,730] slogans and canned affirmations like every day
+- [02:47:57,730 - 02:48:01,230] and in every way, I'm getting better and
+- [02:48:01,230 - 02:48:04,310] better. Well, getting better and better
+- [02:48:04,310 - 02:48:07,390] doesn't just happen from wishful thinking. Getting
+- [02:48:07,390 - 02:48:10,450] better and better only happens with the
+- [02:48:10,450 - 02:48:13,510] discipline of doing better and better. Discipline is
+- [02:48:13,510 - 02:48:15,580] the requirement for progress and
+- [02:48:15,580 - 02:48:17,650] affirmations without discipline are in vain.
+- [02:48:17,650 - 02:48:19,640] In reality, there's nothing wrong with affirmation,
+- [02:48:19,640 - 02:48:21,630] but in reality there's delusion. Now don't
+- [02:48:21,630 - 02:48:24,420] get me wrong here. There's nothing wrong with
+- [02:48:24,420 - 02:48:27,210] affirming the good life as long as we are
+- [02:48:27,210 - 02:48:30,170] disciplined enough to take action. Affirmations can
+- [02:48:30,170 - 02:48:33,130] be effective as long as we remember two
+- [02:48:33,130 - 02:48:36,660] very important rules. Number one, we
+- [02:48:36,660 - 02:48:40,190] should never allow affirmation to replace action,
+- [02:48:40,190 - 02:48:43,900] activity, enterprise. Feeling better is no
+- [02:48:43,900 - 02:48:47,610] substitute for doing better. And number two,
+- [02:48:47,650 - 02:48:50,430] Number two, whatever we choose
+- [02:48:50,430 - 02:48:53,210] to affirm must be the truth.
+- [02:48:53,210 - 02:48:55,730] If the truth happens to be that we're
+- [02:48:55,730 - 02:48:58,250] broke, the best affirmation would be to simply say,
+- [02:48:58,250 - 02:48:59,770] I'm broke.
+- [02:48:59,770 - 02:49:02,890] Wow, face it, accept it, be
+- [02:49:02,890 - 02:49:06,010] responsible for it and change it.
+- [02:49:06,010 - 02:49:08,710] By admitting that you're broke, by saying
+- [02:49:08,710 - 02:49:11,410] it out loud, you'll probably be disgusted
+- [02:49:11,410 - 02:49:13,540] enough to start the thinking
+- [02:49:13,540 - 02:49:15,670] process on how to change it.
+- [02:49:15,670 - 02:49:19,430] Even saying I'm broke with conviction will
+- [02:49:19,430 - 02:49:23,190] most likely be driven from ease into action.
+- [02:49:23,190 - 02:49:27,130] Confronting harsh realities has an incredible effect.
+- [02:49:27,130 - 02:49:29,250] Confronting the truth and then applying the
+- [02:49:29,250 - 02:49:31,370] discipline to express the truth instead of
+- [02:49:31,370 - 02:49:37,310] disguising it inevitably leads to positive change.
+- [02:49:37,310 - 02:49:40,990] And reality is always the best beginning.
+- [02:49:40,990 - 02:49:43,320] You see, within reality lies the
+- [02:49:43,320 - 02:49:45,650] possibility to create our own personal miracles.
+- [02:49:45,650 - 02:49:49,350] Our own personal miracle and the
+- [02:49:49,350 - 02:49:53,050] power of faith starts with reality.
+- [02:49:53,050 - 02:49:56,140] If we can bring ourselves to state the
+- [02:49:56,140 - 02:49:59,230] truth about a situation, then as the saying goes,
+- [02:49:59,230 - 02:50:03,050] the truth will set us free.
+- [02:50:03,050 - 02:50:06,199] Here's another old saying, faith isn't faith
+- [02:50:06,199 - 02:50:09,349] unless it's all you're holding on to.
+- [02:50:09,349 - 02:50:12,009] If your life and circumstances have resulted in
+- [02:50:12,009 - 02:50:14,670] a situation that is ugly, call it ugly.
+- [02:50:14,670 - 02:50:15,170] If you've lost it all, call it good.
+- [02:50:15,170 - 02:50:16,440] If you've lost it all,
+- [02:50:16,440 - 02:50:17,710] admit that you've lost it all.
+- [02:50:17,710 - 02:50:20,210] Be responsible to it.
+- [02:50:20,210 - 02:50:24,170] And if faith is all you've got left, use it.
+- [02:50:24,170 - 02:50:27,110] Create your own personal miracle.
+- [02:50:27,110 - 02:50:29,719] Once we understand and accept the truth, the
+- [02:50:29,719 - 02:50:32,329] promise of the future is freed from the shackles
+- [02:50:32,329 - 02:50:34,250] of deception.
+- [02:50:34,250 - 02:50:36,930] Once we accept the truth, the
+- [02:50:36,930 - 02:50:39,610] promise of the future will pull us.
+- [02:50:39,610 - 02:50:41,580] Here are some creative techniques that'll help
+- [02:50:41,580 - 02:50:43,550] keep you on the right track toward that
+- [02:50:43,550 - 02:50:44,610] promising future.
+- [02:50:44,610 - 02:50:47,940] Remember, creativity is the
+- [02:50:47,940 - 02:50:51,270] first requirement for self enterprise.
+- [02:50:51,270 - 02:50:53,490] Number one, think on paper.
+- [02:50:53,490 - 02:50:55,770] You can't take a trip
+- [02:50:55,770 - 02:50:58,050] to somewhere new without a roadmap.
+- [02:50:58,050 - 02:50:59,840] You can't build a house
+- [02:50:59,840 - 02:51:01,630] with the plans in your head.
+- [02:51:01,630 - 02:51:03,730] You can't build a company with
+- [02:51:03,730 - 02:51:05,830] the business plan in your head.
+- [02:51:05,830 - 02:51:08,450] You can't seek venture capital
+- [02:51:08,450 - 02:51:11,070] with the financials in your head.
+- [02:51:11,070 - 02:51:13,530] But here's what you can do.
+- [02:51:13,530 - 02:51:14,490] Put it all on paper.
+- [02:51:14,610 - 02:51:18,400] Your roadmap, your blueprints, your
+- [02:51:18,400 - 02:51:22,190] business plan, your financial projections.
+- [02:51:22,190 - 02:51:24,700] When you put it on paper, you can
+- [02:51:24,700 - 02:51:27,210] analyze your path, solve your problems and isolate
+- [02:51:27,210 - 02:51:29,750] what works and what doesn't.
+- [02:51:29,750 - 02:51:33,850] You can use this for your life as well.
+- [02:51:33,850 - 02:51:36,290] If you're faced with a mental
+- [02:51:36,290 - 02:51:38,730] roadblock, put it all down on paper.
+- [02:51:38,730 - 02:51:41,090] Like we talked about before, when you put
+- [02:51:41,090 - 02:51:43,450] a problem on paper, you take the emotion out
+- [02:51:43,450 - 02:51:44,450] of it.
+- [02:51:44,450 - 02:51:46,330] With the emotion gone, you
+- [02:51:46,330 - 02:51:48,210] can look at the roadblock objectively.
+- [02:51:48,210 - 02:51:50,710] You can figure out what you did right
+- [02:51:50,710 - 02:51:53,210] and you can figure out what you did wrong.
+- [02:51:53,210 - 02:51:55,910] You can figure out how to change it.
+- [02:51:55,910 - 02:51:56,910] So here's what you do.
+- [02:51:56,910 - 02:51:58,560] Pick a problem out of your head
+- [02:51:58,560 - 02:52:00,210] and pull out a piece of paper.
+- [02:52:00,210 - 02:52:03,170] Then draw a line down the middle.
+- [02:52:03,170 - 02:52:06,850] On the left hand side, jot down the problem.
+- [02:52:06,850 - 02:52:08,130] Just what is the problem?
+- [02:52:08,130 - 02:52:09,690] Write it out.
+- [02:52:09,690 - 02:52:10,040] We've got so much going on in our heads that
+- [02:52:10,040 - 02:52:10,390] we can't figure things out until we figure out what's wrong.
+- [02:52:10,390 - 02:52:10,640] We've got so much going on in our heads that
+- [02:52:10,640 - 02:52:10,890] we can't figure things out until we figure things out.
+- [02:52:14,450 - 02:52:16,520] We take a piece of it
+- [02:52:16,520 - 02:52:18,590] out and put it on paper.
+- [02:52:18,590 - 02:52:20,550] What is the problem?
+- [02:52:20,550 - 02:52:21,690] This is the problem.
+- [02:52:21,690 - 02:52:24,410] State it the best you can.
+- [02:52:24,410 - 02:52:26,010] The doctor says, oh, you look good.
+- [02:52:26,010 - 02:52:27,050] Come and see me in a year.
+- [02:52:27,050 - 02:52:29,430] And you say, no, doc, I'm hurting here.
+- [02:52:29,430 - 02:52:30,950] He says, no, that's negative.
+- [02:52:30,950 - 02:52:31,950] Just be positive.
+- [02:52:31,950 - 02:52:34,090] No, no, we've got some negative
+- [02:52:34,090 - 02:52:36,230] stuff we need to deal with.
+- [02:52:36,230 - 02:52:37,650] So what is the problem?
+- [02:52:37,650 - 02:52:38,650] State the problem.
+- [02:52:38,650 - 02:52:40,750] Write it down.
+- [02:52:40,750 - 02:52:42,100] Now on the other side of this
+- [02:52:42,100 - 02:52:43,450] paper, you put the answers or the solutions.
+- [02:52:43,450 - 02:52:44,450] Write it down.
+- [02:52:44,450 - 02:52:44,950] Now on the other side of this
+- [02:52:44,950 - 02:52:45,450] paper, you put the answers or the solutions.
+- [02:52:45,450 - 02:52:46,450] Write it down.
+- [02:52:46,450 - 02:52:48,830] And I've got three questions to
+- [02:52:48,830 - 02:52:51,210] ask in order to find the answers.
+- [02:52:51,210 - 02:52:54,000] And by the way, these three questions
+- [02:52:54,000 - 02:52:56,790] can be used to solve almost any problem.
+- [02:52:56,790 - 02:52:58,830] Here they are.
+- [02:52:58,830 - 02:53:01,430] The first question you need to write down is this.
+- [02:53:01,430 - 02:53:04,030] What can I do?
+- [02:53:04,030 - 02:53:06,370] What can I do?
+- [02:53:06,370 - 02:53:09,220] Because you don't want to go any further
+- [02:53:09,220 - 02:53:12,070] than that if you can solve it yourself.
+- [02:53:12,070 - 02:53:14,210] What can I do?
+- [02:53:14,210 - 02:53:16,410] Then what you do is develop working papers.
+- [02:53:16,410 - 02:53:17,730] You start jotting down.
+- [02:53:17,730 - 02:53:18,970] I could do number one.
+- [02:53:18,970 - 02:53:21,030] I could do number two.
+- [02:53:21,030 - 02:53:23,330] I could do number three.
+- [02:53:23,330 - 02:53:25,630] Here's some alternatives.
+- [02:53:25,630 - 02:53:28,150] Then you start analyzing them.
+- [02:53:28,150 - 02:53:29,150] Let's see.
+- [02:53:29,150 - 02:53:30,150] Number three.
+- [02:53:30,150 - 02:53:32,070] No, that one would take too long.
+- [02:53:32,070 - 02:53:34,090] I haven't got that much time.
+- [02:53:34,090 - 02:53:35,210] Okay.
+- [02:53:35,210 - 02:53:36,210] Number two.
+- [02:53:36,210 - 02:53:37,210] Not sure.
+- [02:53:37,210 - 02:53:38,210] Okay.
+- [02:53:38,210 - 02:53:39,690] Let's look at number one.
+- [02:53:39,690 - 02:53:40,970] Maybe this is my best one.
+- [02:53:40,970 - 02:53:42,210] The one I thought of first.
+- [02:53:42,210 - 02:53:43,210] Now, if that one works, I'll do number two.
+- [02:53:43,210 - 02:53:44,210] Okay.
+- [02:53:44,210 - 02:53:45,830] If that one won't work, here's number two.
+- [02:53:45,830 - 02:53:48,330] What could I read?
+- [02:53:48,330 - 02:53:50,390] Maybe there's a book on my problem.
+- [02:53:50,390 - 02:53:54,290] Somebody spent a lifetime trying to figure out this problem.
+- [02:53:54,290 - 02:53:56,590] Maybe it's written out in concise language
+- [02:53:56,590 - 02:53:58,890] somewhere to give you the instant benefit
+- [02:53:58,890 - 02:54:01,590] of someone's advice.
+- [02:54:01,590 - 02:54:04,330] You don't need to reinvent the wheel.
+- [02:54:04,330 - 02:54:08,170] Do your homework and find the solution.
+- [02:54:08,170 - 02:54:10,000] And then you start developing some
+- [02:54:10,000 - 02:54:11,830] working papers on what you're reading.
+- [02:54:11,830 - 02:54:12,830] Book number one.
+- [02:54:12,830 - 02:54:14,210] This guy's crazy.
+- [02:54:14,210 - 02:54:15,929] Book number two.
+- [02:54:15,929 - 02:54:18,490] This guy's too shallow.
+- [02:54:18,490 - 02:54:19,650] Book number three.
+- [02:54:19,650 - 02:54:21,450] This guy's got some interesting
+- [02:54:21,450 - 02:54:23,250] things to say about this problem.
+- [02:54:23,250 - 02:54:26,030] I'm telling you, if you want to solve a
+- [02:54:26,030 - 02:54:28,810] problem, the best questions to ask are number one,
+- [02:54:28,810 - 02:54:30,350] what could I do?
+- [02:54:30,350 - 02:54:34,330] And number two, what could I read?
+- [02:54:34,330 - 02:54:37,370] Don't miss the book that could help.
+- [02:54:37,370 - 02:54:40,790] So I'm asking you, don't sell yourself short here.
+- [02:54:40,790 - 02:54:42,210] You can find some answers.
+- [02:54:42,210 - 02:54:43,210] Now, first, try to find the answer.
+- [02:54:43,210 - 02:54:44,210] Okay.
+- [02:54:44,210 - 02:54:46,810] First, try to find them yourself from your own experience.
+- [02:54:46,810 - 02:54:49,700] Then second, if you can't find them
+- [02:54:49,700 - 02:54:52,590] yourself, now ask, what could I read?
+- [02:54:52,590 - 02:54:55,720] Go to the library, go to the bookstore,
+- [02:54:55,720 - 02:54:58,850] search your own library, go back through your own
+- [02:54:58,850 - 02:55:01,830] journals to find the stuff that's been helpful
+- [02:55:01,830 - 02:55:04,810] and valuable to you and see if maybe you've
+- [02:55:04,810 - 02:55:09,750] made some notes that could be helpful in your situation.
+- [02:55:09,750 - 02:55:12,929] Now if that doesn't work, then ask question number three.
+- [02:55:12,929 - 02:55:13,929] And question number three.
+- [02:55:13,930 - 02:55:18,950] And question number three is, who could I ask?
+- [02:55:18,950 - 02:55:21,290] Now guess what you're prepared with
+- [02:55:21,290 - 02:55:23,630] when you ask somebody to help you.
+- [02:55:23,630 - 02:55:26,450] You've got your working papers to show them.
+- [02:55:26,450 - 02:55:28,270] You say, you know, I've got my working papers.
+- [02:55:28,270 - 02:55:31,830] I've tried my best to figure it out myself.
+- [02:55:31,830 - 02:55:34,410] And that finally left me short.
+- [02:55:34,410 - 02:55:35,810] Here are some of the books I've read.
+- [02:55:35,810 - 02:55:39,250] I've researched this material and I'm still short.
+- [02:55:39,250 - 02:55:40,930] Now could I possibly ask you?
+- [02:55:40,930 - 02:55:41,930] And could you possibly help me?
+- [02:55:41,930 - 02:55:42,930] And could you possibly help me?
+- [02:55:42,930 - 02:55:43,930] And could you possibly help me?
+- [02:55:43,930 - 02:55:47,640] You can't believe how willing somebody will be
+- [02:55:47,640 - 02:55:51,350] to help you if, first of all, they've gotten
+- [02:55:51,350 - 02:55:56,110] the idea that you were willing to help yourself.
+- [02:55:56,110 - 02:55:57,930] So if you've got a problem, pull it out
+- [02:55:57,930 - 02:55:59,750] of your head and put it down on paper.
+- [02:55:59,750 - 02:56:02,370] Then ask yourself, what can I do?
+- [02:56:02,370 - 02:56:04,570] And if that doesn't work,
+- [02:56:04,570 - 02:56:06,770] ask yourself, what can I read?
+- [02:56:06,770 - 02:56:09,490] And if after researching all you can, you
+- [02:56:09,490 - 02:56:12,210] still can't come up with the answer, ask yourself,
+- [02:56:12,210 - 02:56:12,930] who can I find to help me?
+- [02:56:13,930 - 02:56:17,470] I promise you, if you try these ideas
+- [02:56:17,470 - 02:56:21,010] and ask these questions, when you've got a problem,
+- [02:56:21,010 - 02:56:23,570] you'll be able to solve about
+- [02:56:23,570 - 02:56:26,130] anything that gets in your way.
+- [02:56:26,130 - 02:56:28,210] The second step to keeping yourself on
+- [02:56:28,210 - 02:56:30,290] the right track and being self-enterprising is
+- [02:56:30,290 - 02:56:34,150] to develop the ability to brainstorm.
+- [02:56:34,150 - 02:56:35,950] Develop the ability to brainstorm.
+- [02:56:35,950 - 02:56:38,280] We hear this term all
+- [02:56:38,280 - 02:56:40,610] the time, but what is brainstorming?
+- [02:56:40,610 - 02:56:41,930] Just what it sounds like.
+- [02:56:41,930 - 02:56:42,930] Letting your brain go.
+- [02:56:42,930 - 02:56:43,930] Letting your brain go.
+- [02:56:43,930 - 02:56:46,430] Being free from all the
+- [02:56:46,430 - 02:56:48,930] inhibitions and objections and negatives.
+- [02:56:48,930 - 02:56:50,580] Just putting an idea into your
+- [02:56:50,580 - 02:56:52,230] brain and letting it take off.
+- [02:56:52,230 - 02:56:55,010] Free associating.
+- [02:56:55,010 - 02:56:59,170] Not planning a train of thought, but thinking freely.
+- [02:56:59,170 - 02:57:01,990] Now if you're planning a creative
+- [02:57:01,990 - 02:57:04,810] strategy session with your associates, a brainstorming
+- [02:57:04,810 - 02:57:08,650] session, let me give you a little hint.
+- [02:57:08,650 - 02:57:10,790] Effective brainstorming can only happen
+- [02:57:10,790 - 02:57:12,930] if you're free from your ego.
+- [02:57:12,930 - 02:57:15,880] You can't be worried about saying something
+- [02:57:15,880 - 02:57:18,830] stupid or silly or something totally off the
+- [02:57:18,830 - 02:57:22,480] wall because your silly thought may trigger someone
+- [02:57:22,480 - 02:57:26,130] else's brain to take it one step further.
+- [02:57:26,130 - 02:57:28,580] Brainstorming in a group is an experience
+- [02:57:28,580 - 02:57:31,030] of collective thought, an experience of developing
+- [02:57:31,030 - 02:57:33,770] one idea or several ideas
+- [02:57:33,770 - 02:57:36,510] through a variety of thought processes.
+- [02:57:36,510 - 02:57:39,310] Here's another hint on brainstorming.
+- [02:57:39,310 - 02:57:40,120] It can't be effective unless everyone
+- [02:57:40,120 - 02:57:40,930] involved is comfortable with each other.
+- [02:57:40,930 - 02:57:41,430] It can't be effective unless everyone
+- [02:57:41,430 - 02:57:41,930] involved is comfortable with each other.
+- [02:57:41,930 - 02:57:42,430] It can't be effective unless everyone
+- [02:57:42,430 - 02:57:42,930] involved is comfortable with each other.
+- [02:57:42,930 - 02:57:45,370] If you don't feel comfortable within the
+- [02:57:45,370 - 02:57:47,810] group, you may withhold the very thought that
+- [02:57:47,810 - 02:57:50,950] provides the solution to the problem.
+- [02:57:50,950 - 02:57:53,050] You may withhold it because
+- [02:57:53,050 - 02:57:55,150] you don't want to appear stupid.
+- [02:57:55,150 - 02:57:58,010] How do you think all the advertisements you
+- [02:57:58,010 - 02:58:00,870] see on TV and in the magazines get created?
+- [02:58:00,870 - 02:58:02,810] How do you think some
+- [02:58:02,810 - 02:58:04,750] of those crazy campaigns are born?
+- [02:58:04,750 - 02:58:07,790] The process happens through hours and
+- [02:58:07,790 - 02:58:10,830] hours of creative brainstorming and working papers.
+- [02:58:10,830 - 02:58:11,330] Every member of the group has
+- [02:58:11,330 - 02:58:11,830] a different idea of what they're doing.
+- [02:58:11,830 - 02:58:12,830] They're not just thinking about what they're doing.
+- [02:58:12,930 - 02:58:15,660] Every member of the team jots down notes,
+- [02:58:15,660 - 02:58:18,390] and one idea builds on another idea and another
+- [02:58:18,390 - 02:58:21,490] and another, and pretty soon a campaign is
+- [02:58:21,490 - 02:58:24,590] born out of the collective thoughts of the
+- [02:58:24,590 - 02:58:25,590] group.
+- [02:58:25,590 - 02:58:28,850] Now, I don't believe that the best decisions
+- [02:58:28,850 - 02:58:32,110] are made by committee, but great ideas are
+- [02:58:32,110 - 02:58:35,230] often created by committee.
+- [02:58:35,230 - 02:58:37,390] That's number two to keeping
+- [02:58:37,390 - 02:58:39,550] on the track of self-enterprise.
+- [02:58:39,550 - 02:58:41,430] Finding answers through brainstorming.
+- [02:58:41,430 - 02:58:42,810] Whether you're letting your brain go by itself.
+- [02:58:42,810 - 02:58:46,330] Or whether you're part of a group.
+- [02:58:46,330 - 02:58:49,810] Brainstorming can often lead you to solutions.
+- [02:58:49,810 - 02:58:52,639] Solutions you'd never have thought of if
+- [02:58:52,639 - 02:58:55,469] you'd imposed parameters on your thought process.
+- [02:58:55,469 - 02:58:58,649] Here's number three for creatively
+- [02:58:58,649 - 02:59:01,830] keeping on the track of self-enterprise.
+- [02:59:01,830 - 02:59:04,910] And it's really an extension of number two.
+- [02:59:04,910 - 02:59:09,469] Number three says, imagine outlandish solutions.
+- [02:59:09,469 - 02:59:12,469] Get your brain out of the ruts by considering ideas.
+- [02:59:12,470 - 02:59:17,470] Consider ideas without considering their practicality.
+- [02:59:17,470 - 02:59:20,710] Consider ideas without considering how practical they are.
+- [02:59:20,710 - 02:59:23,750] You see, if you allow yourself to think
+- [02:59:23,750 - 02:59:26,790] without confinement, you may come across a solution
+- [02:59:26,790 - 02:59:29,410] that seems totally inappropriate.
+- [02:59:29,410 - 02:59:32,310] But guess what else this type of thinking will do?
+- [02:59:32,310 - 02:59:34,880] It'll allow you to open up the
+- [02:59:34,880 - 02:59:37,450] process, which will eventually lead to totally appropriate
+- [02:59:37,450 - 02:59:39,670] solutions.
+- [02:59:39,670 - 02:59:40,330] The fourth creative technique for keeping
+- [02:59:40,330 - 02:59:40,990] yourself on the right track of self-enterprise.
+- [02:59:40,990 - 02:59:41,490] The fourth creative technique for keeping
+- [02:59:41,490 - 02:59:41,990] yourself on the right track of self-enterprise.
+- [02:59:41,990 - 02:59:42,930] The fourth creative technique for keeping
+- [02:59:42,930 - 02:59:43,870] yourself on the right track to self-enterprise
+- [02:59:43,870 - 02:59:48,630] is through flow charts and doodles and formulas.
+- [02:59:48,630 - 02:59:51,330] That's right, doodling.
+- [02:59:51,330 - 02:59:53,540] The thing you got in trouble for in
+- [02:59:53,540 - 02:59:55,750] grade school is actually quite stimulating to the
+- [02:59:55,750 - 02:59:58,610] brain because the way you think while doodling
+- [02:59:58,610 - 03:00:01,470] is quite different than the way you think
+- [03:00:01,470 - 03:00:06,090] while creating a flow chart or writing a formula.
+- [03:00:06,090 - 03:00:08,350] Your doodles may end up looking like some
+- [03:00:08,350 - 03:00:10,610] symbol that will trigger your brain to think
+- [03:00:10,610 - 03:00:11,990] of an alternative solution.
+- [03:00:11,990 - 03:00:12,490] Drawing creative doodles wakes up
+- [03:00:12,490 - 03:00:12,990] a different part of your brain.
+- [03:00:12,990 - 03:00:15,470] Drawing creative doodles wakes up
+- [03:00:15,470 - 03:00:17,950] a different part of your brain.
+- [03:00:17,950 - 03:00:22,330] Try creating a flow chart showing the path to success.
+- [03:00:22,330 - 03:00:24,050] What does it look like?
+- [03:00:24,050 - 03:00:25,910] Is it a straight course?
+- [03:00:25,910 - 03:00:28,430] Is it a varied course?
+- [03:00:28,430 - 03:00:30,770] Does it have a lot of
+- [03:00:30,770 - 03:00:33,110] curves and corners and different angles?
+- [03:00:33,110 - 03:00:35,590] Try creating a flow chart to success.
+- [03:00:35,590 - 03:00:37,670] It doesn't matter if it
+- [03:00:37,670 - 03:00:39,750] ends up being accurate or not.
+- [03:00:39,750 - 03:00:40,830] What matters is that it's stimulating the creative process.
+- [03:00:40,830 - 03:00:41,830] It's stimulating the creative process.
+- [03:00:41,830 - 03:00:44,850] It's stimulating the creative thought process.
+- [03:00:44,850 - 03:00:47,399] And once you awaken that creative part
+- [03:00:47,399 - 03:00:49,949] of you, you'll be amazed at the opportunities
+- [03:00:49,949 - 03:00:54,670] that were always there, ones you never saw before.
+- [03:00:54,670 - 03:00:57,040] It's all a matter of how
+- [03:00:57,040 - 03:00:59,410] you look at life and opportunities.
+- [03:00:59,410 - 03:01:01,949] The fifth method of creatively staying on
+- [03:01:01,949 - 03:01:04,489] the self-enterprising track is to access the
+- [03:01:04,489 - 03:01:06,590] information highway.
+- [03:01:06,590 - 03:01:09,210] It's amazing the kind of information that
+- [03:01:09,210 - 03:01:11,830] comes across the phone lines these days.
+- [03:01:11,830 - 03:01:14,740] With your computer, either your home computer or
+- [03:01:14,740 - 03:01:17,650] the one you've got at work, you can go
+- [03:01:17,650 - 03:01:20,870] online with hundreds of services.
+- [03:01:20,870 - 03:01:22,989] You can access stock quotes.
+- [03:01:22,989 - 03:01:26,210] You can access worldwide newspapers.
+- [03:01:26,210 - 03:01:27,429] You can do research.
+- [03:01:27,429 - 03:01:29,529] You can call up a bulletin board
+- [03:01:29,529 - 03:01:31,630] and directly ask questions of other users.
+- [03:01:31,630 - 03:01:37,110] You can make new contacts, develop an entirely new network.
+- [03:01:37,110 - 03:01:39,390] By taking advantage of the electronic age,
+- [03:01:39,390 - 03:01:41,670] you can learn more than you could otherwise
+- [03:01:41,670 - 03:01:43,050] learn.
+- [03:01:43,050 - 03:01:46,030] Meet people that you'd otherwise never meet.
+- [03:01:46,030 - 03:01:49,990] You can find information that your library may not have.
+- [03:01:49,990 - 03:01:53,540] You can share information and transfer files
+- [03:01:53,540 - 03:01:57,090] that you've never before been able to share.
+- [03:01:57,090 - 03:01:59,670] Many people are afraid of their computers.
+- [03:01:59,670 - 03:02:01,380] They don't take advantage of
+- [03:02:01,380 - 03:02:03,090] all their system has to offer.
+- [03:02:03,090 - 03:02:04,510] Work with your computer.
+- [03:02:04,510 - 03:02:06,570] Find out what types of
+- [03:02:06,570 - 03:02:08,630] information and services you can access.
+- [03:02:08,630 - 03:02:10,550] Use it as a new resource.
+- [03:02:10,550 - 03:02:11,550] A new specialized resource.
+- [03:02:11,550 - 03:02:15,510] That's yours for the taking.
+- [03:02:15,510 - 03:02:18,710] The sixth technique for staying on track.
+- [03:02:18,710 - 03:02:20,950] Commit yourself to learning.
+- [03:02:20,950 - 03:02:24,320] Feed your mind sharpen your interest in
+- [03:02:24,320 - 03:02:27,690] two major subjects, life and people learn how
+- [03:02:27,690 - 03:02:30,710] you can better interact with others.
+- [03:02:30,710 - 03:02:33,030] Learn more on how to get the most from life.
+- [03:02:33,030 - 03:02:35,800] Learn all that you can so that
+- [03:02:35,800 - 03:02:38,570] you can become all that you can become.
+- [03:02:38,570 - 03:02:39,890] Learning is the beginning of a life worth living.
+- [03:02:39,890 - 03:02:40,890] Learning is the beginning of a life worth living.
+- [03:02:40,890 - 03:02:41,090] Learn more.
+- [03:02:41,090 - 03:02:41,350] Learn more.
+- [03:02:41,550 - 03:02:43,030] Learning is the beginning of wealth.
+- [03:02:43,290 - 03:02:44,890] Learning is the beginning of happiness.
+- [03:02:46,070 - 03:02:47,690] Learning is the beginning of health.
+- [03:02:48,850 - 03:02:51,670] Learning is the beginning of spirituality and faith.
+- [03:02:52,850 - 03:02:55,100] Learning and searching is where the process
+- [03:02:55,100 - 03:02:57,350] of creating your own personal miracle begins.
+- [03:02:58,670 - 03:03:00,810] Learning is the beginning of self-enterprise.
+- [03:03:02,550 - 03:03:05,150] So there you have the six
+- [03:03:05,150 - 03:03:07,750] steps in creatively building your self-enterprise traits
+- [03:03:07,750 - 03:03:10,710] and ultimately building your ambition.
+- [03:03:11,550 - 03:03:13,610] Number one, think on paper.
+- [03:03:14,610 - 03:03:16,970] Number two, develop the ability to brainstorm.
+- [03:03:18,390 - 03:03:20,510] Number three, imagine outlandish
+- [03:03:20,510 - 03:03:22,630] solutions to your challenges.
+- [03:03:23,710 - 03:03:25,650] Number four, try to think
+- [03:03:25,650 - 03:03:27,590] in a different way using doodles,
+- [03:03:28,150 - 03:03:31,170] flowcharts and formulas to spur your thought processes.
+- [03:03:32,370 - 03:03:34,700] Number five, access your computer's
+- [03:03:34,700 - 03:03:37,030] capabilities to reach the information highway.
+- [03:03:37,030 - 03:03:41,370] And number six, commit yourself to learning all
+- [03:03:41,370 - 03:03:41,530] that you can and that you can't do.
+- [03:03:41,550 - 03:03:43,430] And number seven, learn what you can learn
+- [03:03:43,430 - 03:03:45,310] in an effort to become all you can become.
+- [03:03:46,190 - 03:03:48,240] Those are the six steps
+- [03:03:48,240 - 03:03:50,290] to creatively developing your self-enterprise.
+- [03:03:51,650 - 03:03:53,620] Now here are some tips
+- [03:03:53,620 - 03:03:55,590] on the second component of self-enterprise.
+- [03:03:56,750 - 03:03:57,350] Courage.
+- [03:03:58,690 - 03:04:00,830] Ambition requires courage.
+- [03:04:01,970 - 03:04:04,200] Ambition requires that you stand up
+- [03:04:04,200 - 03:04:06,430] for what's right and fight what's wrong.
+- [03:04:07,530 - 03:04:09,530] Ambition requires that you hold on to
+- [03:04:09,530 - 03:04:11,530] your values in pursuit of your success.
+- [03:04:11,550 - 03:04:15,310] Ambition requires that you fight off fear.
+- [03:04:16,450 - 03:04:18,910] Fear is one of those things, one of those
+- [03:04:18,910 - 03:04:21,370] emotions that can stop people dead in their tracks,
+- [03:04:21,370 - 03:04:23,650] foregoing success and achievement.
+- [03:04:24,530 - 03:04:26,210] Fear can stop people from taking
+- [03:04:26,210 - 03:04:27,890] all that life has to offer them.
+- [03:04:28,890 - 03:04:31,550] Fear can rear its ugly head in many ways.
+- [03:04:31,550 - 03:04:33,950] Remember the old saying, you have
+- [03:04:33,950 - 03:04:36,350] nothing to fear but fear itself.
+- [03:04:37,630 - 03:04:39,230] You can be afraid of success.
+- [03:04:39,230 - 03:04:40,750] You can be afraid of failure.
+- [03:04:41,550 - 03:04:43,530] You can be afraid of looking ridiculous.
+- [03:04:43,530 - 03:04:45,700] You can be afraid of
+- [03:04:45,700 - 03:04:47,870] change, either positive or negative change.
+- [03:04:48,550 - 03:04:50,370] You can be afraid of the competition.
+- [03:04:50,950 - 03:04:53,330] You can be afraid of loss and destruction.
+- [03:04:54,450 - 03:04:56,650] We're not always born with courage.
+- [03:04:57,550 - 03:05:00,050] We're not always born with all the fears either.
+- [03:05:00,950 - 03:05:02,210] You ever hear of a
+- [03:05:02,210 - 03:05:03,470] baby that's afraid of the dark?
+- [03:05:04,470 - 03:05:05,250] Of course not.
+- [03:05:06,050 - 03:05:08,350] They grew in the dark for nine months.
+- [03:05:09,350 - 03:05:10,850] They should be afraid of the light.
+- [03:05:10,850 - 03:05:12,850] But do you ever hear of a three
+- [03:05:12,850 - 03:05:14,850] or four year old afraid of the dark?
+- [03:05:14,850 - 03:05:16,850] All the time.
+- [03:05:17,850 - 03:05:19,850] Where'd they learn that fear?
+- [03:05:19,850 - 03:05:22,350] Who taught them that the dark outside
+- [03:05:22,350 - 03:05:24,850] is any different than the dark inside?
+- [03:05:25,850 - 03:05:26,850] Where'd they learn that?
+- [03:05:27,850 - 03:05:29,850] Well, probably from their parents who
+- [03:05:29,850 - 03:05:31,850] decided they needed a night light on.
+- [03:05:32,850 - 03:05:35,850] The kids probably think that they should be afraid of the
+- [03:05:35,850 - 03:05:38,850] dark if their parents insist that a light be kept on.
+- [03:05:38,850 - 03:05:39,850] And what about other fears?
+- [03:05:39,850 - 03:05:40,650] What about the fear of the dark?
+- [03:05:40,650 - 03:05:42,650] What about other fears in life?
+- [03:05:42,650 - 03:05:43,650] Are they learned?
+- [03:05:43,650 - 03:05:44,650] Well, maybe.
+- [03:05:45,650 - 03:05:49,650] Maybe some of your fears are brought on by your own experiences,
+- [03:05:49,650 - 03:05:53,650] by what someone has told you, by what you've read in the papers.
+- [03:05:54,650 - 03:05:57,650] Now, some fears are valid, like walking alone in
+- [03:05:57,650 - 03:06:00,650] a bad part of town at two in the morning.
+- [03:06:01,650 - 03:06:04,650] If there isn't fear, there's probably a bit of ignorance.
+- [03:06:05,650 - 03:06:07,650] And that type of ignorance can easily
+- [03:06:07,650 - 03:06:09,650] be solved by either education or experience.
+- [03:06:10,650 - 03:06:13,150] Once you learn to avoid that situation, you
+- [03:06:13,150 - 03:06:15,650] won't need to live in fear of it.
+- [03:06:16,650 - 03:06:18,650] Fears, even the most basic
+- [03:06:18,650 - 03:06:20,650] ones, can totally destroy our ambitions.
+- [03:06:21,650 - 03:06:23,650] Fear can destroy fortunes.
+- [03:06:23,650 - 03:06:25,650] Fear can destroy relationships.
+- [03:06:25,650 - 03:06:28,650] Fear, if left unchecked, can destroy our lives.
+- [03:06:28,650 - 03:06:30,650] Fear is an enemy.
+- [03:06:31,650 - 03:06:34,150] And let me tell you about some of
+- [03:06:34,150 - 03:06:36,650] the other enemies we face, enemies on the inside.
+- [03:06:37,650 - 03:06:38,650] One of the enemies that you've
+- [03:06:38,650 - 03:06:39,650] got to destroy before it destroys you.
+- [03:06:39,650 - 03:06:41,650] is indifference.
+- [03:06:42,650 - 03:06:44,650] What a tragic disease this is.
+- [03:06:44,650 - 03:06:46,650] Ho hum, let it slide.
+- [03:06:46,650 - 03:06:49,650] Drifting, drifting away from your ambitions.
+- [03:06:50,650 - 03:06:52,650] Here's one problem with drifting.
+- [03:06:52,650 - 03:06:54,150] You can't drift your way
+- [03:06:54,150 - 03:06:55,650] to the top of the mountain.
+- [03:06:56,650 - 03:06:59,650] Next one, an enemy inside all of us, indecision.
+- [03:07:00,650 - 03:07:03,650] Indecision is called the thief of opportunity.
+- [03:07:04,650 - 03:07:06,650] The thief of self-enterprise.
+- [03:07:06,650 - 03:07:08,650] It'll steal your chances for a better future.
+- [03:07:09,650 - 03:07:12,650] Take sword to this enemy, indecision.
+- [03:07:13,650 - 03:07:16,650] Next enemy on the inside is doubt.
+- [03:07:16,650 - 03:07:19,650] Sure, there's room for healthy skepticism.
+- [03:07:19,650 - 03:07:21,650] You can't believe everything.
+- [03:07:21,650 - 03:07:23,650] But you can't let doubt take over.
+- [03:07:23,650 - 03:07:27,150] Doubt the past and doubt the future and doubt each other
+- [03:07:27,150 - 03:07:30,650] and doubt the government and doubt the possibilities and doubt the opportunities.
+- [03:07:30,650 - 03:07:32,650] And doubt yourself.
+- [03:07:33,650 - 03:07:35,650] I'm telling you, it'll destroy
+- [03:07:35,650 - 03:07:37,650] your life and destroy your chances.
+- [03:07:37,650 - 03:07:38,650] And empty your bank account.
+- [03:07:38,650 - 03:07:39,650] And empty your heart.
+- [03:07:39,650 - 03:07:40,650] Doubt is an enemy.
+- [03:07:40,650 - 03:07:41,650] Go after it.
+- [03:07:41,650 - 03:07:42,650] Get rid of it.
+- [03:07:42,650 - 03:07:43,650] Next is worry.
+- [03:07:44,650 - 03:07:45,650] We've all got to worry some.
+- [03:07:46,650 - 03:07:47,650] But don't let it conquer you.
+- [03:07:48,650 - 03:07:49,650] Let it alarm you.
+- [03:07:50,650 - 03:07:52,150] We've all got to be alarmed,
+- [03:07:52,150 - 03:07:53,650] but we don't want to be conquered.
+- [03:07:54,650 - 03:07:55,650] Worry is useful.
+- [03:07:55,650 - 03:07:56,650] Three o'clock in the morning.
+- [03:07:56,650 - 03:07:57,650] Your daughter's not home yet.
+- [03:07:58,650 - 03:07:59,650] You've got to worry.
+- [03:08:00,650 - 03:08:02,150] Step off the curb and one
+- [03:08:02,150 - 03:08:03,650] of those zealot taxis is coming.
+- [03:08:04,650 - 03:08:06,650] You've got to be alert.
+- [03:08:06,650 - 03:08:07,650] You've got to be alert.
+- [03:08:08,650 - 03:08:09,650] You've got to worry.
+- [03:08:10,650 - 03:08:13,150] But you can't let worry loose like a
+- [03:08:13,150 - 03:08:15,650] mad dog that drives you into a small corner.
+- [03:08:15,650 - 03:08:18,650] Here's what you've got to do with your worries.
+- [03:08:18,650 - 03:08:20,650] Drive them into a small corner.
+- [03:08:21,650 - 03:08:24,650] Whatever's out to get you, you've got to get it.
+- [03:08:24,650 - 03:08:28,650] Whatever's pushing on you, you've got to push back.
+- [03:08:29,650 - 03:08:31,650] Guess where illness is in your life.
+- [03:08:31,650 - 03:08:34,150] Illness is constantly testing the
+- [03:08:34,150 - 03:08:36,650] outer edges of your health plan.
+- [03:08:36,650 - 03:08:37,650] Looking for a weak spot.
+- [03:08:38,650 - 03:08:40,650] And if illness can find a weak
+- [03:08:40,650 - 03:08:42,650] spot, it'll muscle in and take the territory.
+- [03:08:42,650 - 03:08:45,650] Unless you've got enough discipline and power to
+- [03:08:45,650 - 03:08:48,650] say, I'm not going to let that happen.
+- [03:08:49,650 - 03:08:51,650] I'm going to fight illness like an enemy.
+- [03:08:52,650 - 03:08:55,650] I'll work on my health plan enough to destroy it.
+- [03:08:56,650 - 03:08:59,650] The next enemy inside is over caution.
+- [03:08:59,650 - 03:09:00,650] The timid approach to life.
+- [03:09:01,650 - 03:09:03,650] Timidity is not a virtue.
+- [03:09:03,650 - 03:09:04,650] It's an illness.
+- [03:09:05,650 - 03:09:06,650] And if you let it go
+- [03:09:06,650 - 03:09:07,650] and go and go, it'll conquer you.
+- [03:09:08,650 - 03:09:10,650] Leave you without a promotion.
+- [03:09:10,650 - 03:09:12,650] Timid people don't get promoted.
+- [03:09:12,650 - 03:09:14,650] They don't advance and grow
+- [03:09:14,650 - 03:09:16,650] and become powerful in the marketplace.
+- [03:09:17,650 - 03:09:19,650] And it's possible to conquer it.
+- [03:09:19,650 - 03:09:21,650] Do battle with the enemy.
+- [03:09:21,650 - 03:09:23,650] Do battle with your fears.
+- [03:09:23,650 - 03:09:24,650] Do battle.
+- [03:09:24,650 - 03:09:27,650] Build your courage to fight what's holding you back.
+- [03:09:27,650 - 03:09:29,650] Keeping you from your ambition.
+- [03:09:29,650 - 03:09:30,650] Do battle.
+- [03:09:30,650 - 03:09:32,650] Have the courage to fight back.
+- [03:09:32,650 - 03:09:35,150] Be courageous in your life and in your pursuit
+- [03:09:35,150 - 03:09:37,650] of what you want and who you want to become.
+- [03:09:38,650 - 03:09:41,650] Here are a few techniques to help build your courage.
+- [03:09:41,650 - 03:09:45,650] Number one, put all remote possibilities out of your mind.
+- [03:09:45,650 - 03:09:49,650] Don't worry about things you have no control over.
+- [03:09:49,650 - 03:09:52,150] Don't spend your time thinking about all
+- [03:09:52,150 - 03:09:54,650] the bad things that might happen to you.
+- [03:09:54,650 - 03:09:57,150] Don't spend your time plotting and planning ways to
+- [03:09:57,150 - 03:09:59,650] make sure these things will never happen to you.
+- [03:09:59,650 - 03:10:02,150] Courageous people don't worry about the
+- [03:10:02,150 - 03:10:04,650] unlikely things out of their control.
+- [03:10:04,650 - 03:10:07,650] They concentrate on what they can control.
+- [03:10:08,650 - 03:10:13,650] Number two, face your fears before you start something.
+- [03:10:13,650 - 03:10:17,650] Imagine difficult situations before they occur.
+- [03:10:17,650 - 03:10:20,650] Make a list of the worst that could happen and
+- [03:10:20,650 - 03:10:23,650] you'll probably see that it's not so bad after all.
+- [03:10:23,650 - 03:10:26,650] A friend of mine lost everything a few years back.
+- [03:10:26,650 - 03:10:32,650] Home, cars, possessions, antiques, art, jewelry, credit.
+- [03:10:32,650 - 03:10:33,650] Lost it all.
+- [03:10:33,650 - 03:10:35,650] So now on her way back up,
+- [03:10:35,650 - 03:10:37,650] whenever she's faced with a tough decision,
+- [03:10:37,650 - 03:10:41,650] she asks herself, what's the worst that can happen?
+- [03:10:41,650 - 03:10:43,650] And guess what?
+- [03:10:43,650 - 03:10:46,650] She's already been through the worst and survived.
+- [03:10:46,650 - 03:10:49,650] So it's not an issue anymore.
+- [03:10:49,650 - 03:10:51,150] Now you don't have to lose
+- [03:10:51,150 - 03:10:52,650] everything to lose that particular fear.
+- [03:10:52,650 - 03:10:55,150] But what I'm saying is once you
+- [03:10:55,150 - 03:10:57,650] face your fear, you can move on.
+- [03:10:57,650 - 03:10:59,650] Once you've itemized out the
+- [03:10:59,650 - 03:11:01,650] worst that could possibly happen,
+- [03:11:01,650 - 03:11:03,150] you'll see that you have the
+- [03:11:03,150 - 03:11:04,650] inner strength to deal with it.
+- [03:11:04,650 - 03:11:07,650] And if you've looked at the possibilities before,
+- [03:11:07,650 - 03:11:12,650] you'll probably never be faced with the situation at all.
+- [03:11:12,650 - 03:11:15,650] Why? Because you've already thought about it.
+- [03:11:15,650 - 03:11:18,650] You've already thought it through.
+- [03:11:18,650 - 03:11:21,650] And by contemplating what might happen,
+- [03:11:21,650 - 03:11:25,650] you'll chart your course to make sure that it doesn't.
+- [03:11:25,650 - 03:11:28,150] So the first courage building technique is to
+- [03:11:28,150 - 03:11:30,650] put the remote possibilities out of your mind.
+- [03:11:30,650 - 03:11:34,650] The second, to face fears beforehand.
+- [03:11:34,650 - 03:11:36,150] And the third technique to
+- [03:11:36,150 - 03:11:37,650] build your courage is to imagine
+- [03:11:37,650 - 03:11:40,650] the alternative.
+- [03:11:40,650 - 03:11:42,650] See in your mind the end
+- [03:11:42,650 - 03:11:44,650] result of giving into your fear.
+- [03:11:44,650 - 03:11:48,650] Really feel the cost of being ruled by fear.
+- [03:11:48,650 - 03:11:51,150] Then really feel the gain
+- [03:11:51,150 - 03:11:53,650] of following your ambition courageously.
+- [03:11:53,650 - 03:11:56,650] Weigh the two. See the difference.
+- [03:11:56,650 - 03:11:58,150] If you've been invited to
+- [03:11:58,150 - 03:11:59,650] address your national sales convention
+- [03:11:59,650 - 03:12:01,650] and are scared to death of
+- [03:12:01,650 - 03:12:03,650] public speaking, what should you do?
+- [03:12:03,650 - 03:12:06,650] Well, you could decline the invitation,
+- [03:12:06,650 - 03:12:10,650] knowing full well that your fears are holding you back.
+- [03:12:10,650 - 03:12:13,650] Or you could take some classes, read some books,
+- [03:12:13,650 - 03:12:16,650] practice in front of a video camera,
+- [03:12:16,650 - 03:12:20,650] and see yourself stepping up to a whole new league,
+- [03:12:20,650 - 03:12:23,650] gaining more notoriety in your field,
+- [03:12:23,650 - 03:12:26,650] increasing your opportunities for future success.
+- [03:12:26,650 - 03:12:29,650] Once again, it's your choice.
+- [03:12:29,650 - 03:12:33,650] Be fueled by your fears or face your fears.
+- [03:12:33,650 - 03:12:35,650] It all depends on how you can live with yourself.
+- [03:12:35,650 - 03:12:38,650] Always afraid of taking the next step.
+- [03:12:38,650 - 03:12:41,650] When you plot out your course for success,
+- [03:12:41,650 - 03:12:44,150] you know that there'll be some touchy moments
+- [03:12:44,150 - 03:12:46,650] when fear may get the best of you.
+- [03:12:46,650 - 03:12:50,650] But remember, if you use your visual chain thinking,
+- [03:12:50,650 - 03:12:53,650] if you can see your future ahead of you,
+- [03:12:53,650 - 03:12:55,650] if you really want what you're going
+- [03:12:55,650 - 03:12:57,650] after in pursuit of what you'll become,
+- [03:12:57,650 - 03:13:00,650] if you really have ambition,
+- [03:13:00,650 - 03:13:02,650] then you know that true success
+- [03:13:02,650 - 03:13:04,650] comes from taking the enterprising route.
+- [03:13:05,650 - 03:13:08,890] WSL
+- [03:13:08,890 - 03:13:10,270] It starts with your passion
+- [03:13:10,270 - 03:13:11,650] about what you have to give.
+- [03:13:11,650 - 03:13:14,150] I'm here to help you.
+- [03:13:14,150 - 03:13:16,400] I'm here to help you reach some of the things you
+- [03:13:16,400 - 03:13:18,650] can do to become the next you you want to be.
+- [03:13:18,650 - 03:13:20,650] Subscribe to YouTube.com
+- [03:13:20,650 - 03:13:23,650] Subscribe to YouTube.com
+- [03:13:23,650 - 03:13:26,050] As we're talking about the
+- [03:13:26,050 - 03:13:28,450] principles of building your ambition,
+- [03:13:28,450 - 03:13:32,650] let me give you the fifth one.
+- [03:13:32,650 - 03:13:34,650] Working with others is a luck.
+- [03:13:34,650 - 03:13:37,600] Working with others. The fifth principle
+- [03:13:37,600 - 03:13:40,550] for building your ambition revolves around working
+- [03:13:40,550 - 03:13:43,400] with others. Now, why do you think that your
+- [03:13:43,400 - 03:13:46,250] ability to work with others has an effect on
+- [03:13:46,250 - 03:13:49,640] building your ambition? This may sound a bit
+- [03:13:49,640 - 03:13:53,030] like a paradox, a contradiction, especially since we've
+- [03:13:53,030 - 03:13:56,120] stressed self-reliance and taking personal responsibility
+- [03:13:56,120 - 03:13:59,210] for all you do. But a successful
+- [03:13:59,210 - 03:14:03,690] life does involve other people, family,
+- [03:14:03,690 - 03:14:08,170] associates, kids, parents, employees, friends. Working with
+- [03:14:08,170 - 03:14:11,180] others or living with others or spending time
+- [03:14:11,180 - 03:14:14,190] with others means that you must also take responsibility
+- [03:14:14,190 - 03:14:18,040] for your relationships. Take bosses, for instance. How
+- [03:14:18,040 - 03:14:21,890] many bosses do you know that'd be totally lost
+- [03:14:21,890 - 03:14:25,060] without their secretary? Quite a few.
+- [03:14:25,060 - 03:14:28,230] They're a team. One takes the spotlight,
+- [03:14:28,870 - 03:14:29,190] the other takes the spotlight.
+- [03:14:29,190 - 03:14:32,700] The other is invaluable behind the scenes. One's a
+- [03:14:32,700 - 03:14:36,210] great idea person, the other a great detail person.
+- [03:14:36,810 - 03:14:39,920] They work together or it wouldn't work at all.
+- [03:14:39,920 - 03:14:43,030] Of course, you need to be responsible for yourself
+- [03:14:43,030 - 03:14:46,540] and to yourself before you can be responsible to another
+- [03:14:46,540 - 03:14:50,050] person. You need to be the best you can be
+- [03:14:50,050 - 03:14:53,489] so that you can bring your absolute
+- [03:14:53,489 - 03:14:56,929] best to any relationship. And that's the tie-in
+- [03:14:56,929 - 03:14:58,630] to building your ambition.
+- [03:14:59,190 - 03:15:02,570] Building yourself so you can build
+- [03:15:02,570 - 03:15:05,950] mutually beneficial relationships. It's like we said
+- [03:15:05,950 - 03:15:09,770] before, you can't be successful by yourself. And with
+- [03:15:09,770 - 03:15:13,590] that in mind, let's talk about a few ways to
+- [03:15:13,590 - 03:15:17,340] build relationships. Most of these tips
+- [03:15:17,340 - 03:15:21,090] are for building business relationships, building contacts,
+- [03:15:21,410 - 03:15:23,610] building good working relationships with
+- [03:15:23,610 - 03:15:25,810] colleagues, with vendors, with prospects,
+- [03:15:26,230 - 03:15:27,540] with future clients and present clients, and
+- [03:15:27,540 - 03:15:28,850] with your own family. And that's the key.
+- [03:15:28,850 - 03:15:29,669] And the key is to build relationships. You
+- [03:15:29,669 - 03:15:30,489] can build relationships with your clients and past clients.
+- [03:15:31,449 - 03:15:34,289] Building relationships. But remember, we are
+- [03:15:34,289 - 03:15:37,130] all people, regardless of our profession.
+- [03:15:37,569 - 03:15:39,539] And many of these tips work
+- [03:15:39,539 - 03:15:41,509] well for building other relationships too.
+- [03:15:42,670 - 03:15:45,970] Let's start with kindness. How kind should
+- [03:15:45,970 - 03:15:49,270] you be? As kind as you possibly can.
+- [03:15:50,350 - 03:15:54,050] Who should you be kind to? To everyone you
+- [03:15:54,050 - 03:15:57,750] come in contact with. From taxi drivers to hotel clerks
+- [03:15:57,750 - 03:15:58,529] to waitresses.
+- [03:15:59,009 - 03:16:01,759] Or to bankers to are riding the train.
+- [03:16:01,759 - 03:16:04,509] Sh retrieve orders like you count them out. To说
+- [03:16:04,509 - 03:16:07,159] it more lightly and quietly, be kind to everyone.
+- [03:16:07,159 - 03:16:09,810] If you ever do see a change, don't refuse to
+- [03:16:09,810 - 03:16:11,540] drink a lot. But know you're being
+- [03:16:11,540 - 03:16:13,270] attracted randomly. That's your instead of asking for
+- [03:16:13,270 - 03:16:14,270] a Compared.
+- [03:16:15,049 - 03:16:17,669] Now let's understand one thing. That's when
+- [03:16:17,669 - 03:16:20,290] a person who's threatening you for five
+- [03:16:20,290 - 03:16:22,020] months, out of fear of
+- [03:16:22,020 - 03:16:23,750] the impossible, makes a firm dissent.
+- [03:16:23,770 - 03:16:24,429] Geez, that's fine.
+- [03:16:24,509 - 03:16:26,610] But why don't we just heal the way we do?
+- [03:16:26,650 - 03:16:28,310] That's a creative decision of yours.
+- [03:16:28,310 - 03:16:31,590] what somebody has to say but your few words
+- [03:16:31,590 - 03:16:34,870] of kindness or your few minutes of attention could
+- [03:16:34,870 - 03:16:39,230] turn somebody's day around might make them feel
+- [03:16:39,230 - 03:16:43,590] more worthwhile cared for be generous with your
+- [03:16:43,590 - 03:16:47,710] kindness it'll go a long way people will remember
+- [03:16:47,710 - 03:16:51,830] whether you know them or not if you're in a
+- [03:16:51,830 - 03:16:54,830] crowded restaurant and you're especially nice to the
+- [03:16:54,830 - 03:16:57,830] waiter guess what he'll remember you next time
+- [03:16:57,830 - 03:17:01,790] you come in and then guess what'll happen
+- [03:17:01,790 - 03:17:05,750] you'll get even better service when you give kindness
+- [03:17:05,750 - 03:17:09,270] it's not gone it's invested it'll come back
+- [03:17:09,270 - 03:17:12,790] to you two five ten a hundred times
+- [03:17:13,830 - 03:17:16,590] kindness it's so important in every aspect
+- [03:17:16,590 - 03:17:19,350] of your life it's so important in building
+- [03:17:19,350 - 03:17:23,070] good relationships with others now here's what
+- [03:17:23,070 - 03:17:26,790] else is important sensitivity being touched by
+- [03:17:26,790 - 03:17:27,300] the experiences of others and not the other
+- [03:17:27,300 - 03:17:27,810] way around if you're in a crowded restaurant you'll
+- [03:17:27,810 - 03:17:30,040] be a little bit more sensitive to the
+- [03:17:30,040 - 03:17:32,270] experiences of others being sensitive to others understanding
+- [03:17:32,270 - 03:17:35,349] the plight of others opening up your heart and
+- [03:17:35,349 - 03:17:38,429] your mind and your attention to address the needs
+- [03:17:38,429 - 03:17:41,809] of others the people you work with the people
+- [03:17:41,809 - 03:17:45,190] you live with putting yourself in someone else's shoes
+- [03:17:46,270 - 03:17:49,469] seeing if you can what's going on in their heart
+- [03:17:50,549 - 03:17:53,789] if there's a problem you've got to be sensitive
+- [03:17:53,789 - 03:17:57,029] enough to ask some questions not one question but
+- [03:17:57,029 - 03:17:57,730] many questions
+- [03:17:57,810 - 03:18:00,720] sometimes you won't even get through to the root
+- [03:18:00,720 - 03:18:03,630] of the problem until you've gotten two or three
+- [03:18:03,630 - 03:18:07,230] questions deep most people won't reveal the problem on
+- [03:18:07,230 - 03:18:10,830] the first question you say mary how are you
+- [03:18:10,830 - 03:18:14,350] today how are things and she says well everything's okay
+- [03:18:14,350 - 03:18:17,870] and you can tell by the way she said it that
+- [03:18:17,870 - 03:18:20,909] everything's not okay and most of us don't want to
+- [03:18:20,909 - 03:18:23,949] come right out and say what the real problem is
+- [03:18:24,750 - 03:18:26,830] unless two criteria are met
+- [03:18:27,810 - 03:18:31,560] number one we're talking to someone we can trust
+- [03:18:31,560 - 03:18:35,310] and number two we're talking to someone who really
+- [03:18:35,310 - 03:18:39,450] cares so sometimes it takes that second question
+- [03:18:39,450 - 03:18:43,590] maybe a third and maybe a fourth before trust
+- [03:18:43,590 - 03:18:46,650] bills and the person finally understands that
+- [03:18:46,650 - 03:18:49,710] you do care then they're willing to
+- [03:18:49,710 - 03:18:53,550] tell you what's really going on what's really on
+- [03:18:53,550 - 03:18:57,390] their mind gosh that saves so much time asking
+- [03:18:57,810 - 03:19:00,990] questions up front did you ever talk for an hour
+- [03:19:00,990 - 03:19:04,170] and then ask a question found out that you just
+- [03:19:04,170 - 03:19:07,079] wasted the previous hour learn to ask
+- [03:19:07,079 - 03:19:09,989] questions that will build the trust and communication
+- [03:19:09,989 - 03:19:14,429] between you and those you work with learn to
+- [03:19:14,429 - 03:19:18,870] express not impress if you want to touch somebody
+- [03:19:19,410 - 03:19:23,040] Express sincerity from the heart impress
+- [03:19:23,040 - 03:19:26,670] builds a Gulf Express builds a bridge
+- [03:19:27,810 - 03:19:30,690] identification you want to be able to
+- [03:19:30,690 - 03:19:33,570] relate your thoughts and philosophies and experiences to
+- [03:19:33,570 - 03:19:37,650] someone who'll say me too I know what you
+- [03:19:37,650 - 03:19:41,730] mean you don't want their reaction to be so what
+- [03:19:42,870 - 03:19:45,390] if you're meeting someone for the first
+- [03:19:45,390 - 03:19:47,910] time you're simply getting acquainted making contact
+- [03:19:48,630 - 03:19:52,079] here's where you start find something you have
+- [03:19:52,079 - 03:19:55,529] in common find something you can both identify with
+- [03:19:56,429 - 03:19:57,750] start with where they are
+- [03:19:57,810 - 03:20:01,320] before you try taking them where you want them to
+- [03:20:01,320 - 03:20:04,830] go so if you're trying to talk to somebody who's
+- [03:20:04,830 - 03:20:08,040] been stricken in the heart and you've had
+- [03:20:08,040 - 03:20:11,250] this experience you can talk about being stricken in
+- [03:20:11,250 - 03:20:14,940] the heart and it'll mean something it'll have
+- [03:20:14,940 - 03:20:18,630] substance it'll have depth and if you start there
+- [03:20:18,630 - 03:20:22,350] and then start building the bridge you
+- [03:20:22,350 - 03:20:26,070] have identification then you start building rapport
+- [03:20:27,029 - 03:20:27,630] and
+- [03:20:27,810 - 03:20:30,480] you start building a rapport with someone or
+- [03:20:30,480 - 03:20:33,150] when you want to enhance the rapport you have
+- [03:20:33,150 - 03:20:36,329] with someone you need effective communication skills
+- [03:20:36,329 - 03:20:39,509] you'll need the skills that'll help you
+- [03:20:39,509 - 03:20:41,699] work better with others to achieve
+- [03:20:41,699 - 03:20:43,890] their goals and achieve your goals
+- [03:20:44,730 - 03:20:47,790] you need effective communication skills let me
+- [03:20:47,790 - 03:20:50,850] give you a few tips on good communication
+- [03:20:50,850 - 03:20:54,240] because to be able to get along well with others to
+- [03:20:54,240 - 03:20:57,630] be able to work well with others to be able to
+- [03:20:57,630 - 03:21:01,260] live well with others you must be a
+- [03:21:01,260 - 03:21:04,890] good communicator number one have something worth saying
+- [03:21:05,550 - 03:21:09,420] interest fascination sensitivity and knowledge number
+- [03:21:09,420 - 03:21:13,290] two now that you've got something worth
+- [03:21:13,290 - 03:21:17,070] saying number two is say it well and you've got
+- [03:21:17,070 - 03:21:20,850] to be able to translate it so it'll benefit someone
+- [03:21:21,630 - 03:21:24,510] you must have a good delivery system
+- [03:21:24,510 - 03:21:27,390] for your substance and knowledge and awareness and
+- [03:21:27,390 - 03:21:31,919] understanding and experience learn to say it well and
+- [03:21:31,919 - 03:21:36,449] here are some clues on saying it well number one
+- [03:21:37,109 - 03:21:41,129] sincerity the best communication occurs when both
+- [03:21:41,129 - 03:21:45,150] people are sincere one sincerely wishing to learn
+- [03:21:45,150 - 03:21:49,470] or listen and the other sincerely wishing to
+- [03:21:49,470 - 03:21:53,790] share number two in saying it well is repetition
+- [03:21:54,629 - 03:21:57,330] part of saying it well is simply practicing
+- [03:21:57,390 - 03:22:01,320] to say it well practice practice practice part
+- [03:22:01,320 - 03:22:05,250] of what I teach in sales training is practice
+- [03:22:06,210 - 03:22:08,760] practice you start with something simple and when
+- [03:22:08,760 - 03:22:11,310] you don't know much about what you're doing
+- [03:22:11,310 - 03:22:14,790] practice is even more important let's say you're
+- [03:22:14,790 - 03:22:18,270] in sales and your presentation's not that good
+- [03:22:18,810 - 03:22:21,959] and you wander around saying you wouldn't want to
+- [03:22:21,959 - 03:22:25,109] buy this would you I'm telling you maybe if you
+- [03:22:25,109 - 03:22:27,029] say that often enough during the day
+- [03:22:27,910 - 03:22:29,479] somebody might say well maybe
+- [03:22:29,479 - 03:22:31,049] I would what are you selling
+- [03:22:31,870 - 03:22:35,300] now you can't say mind your own business no once
+- [03:22:35,300 - 03:22:38,730] you've opened the door you've got to go through it
+- [03:22:40,049 - 03:22:42,299] here's what happens if you practice
+- [03:22:42,299 - 03:22:44,549] in sales you're bound to make sales
+- [03:22:45,270 - 03:22:47,609] somebody will say what are you selling and
+- [03:22:47,609 - 03:22:49,949] you've got to tell them maybe they'll want it
+- [03:22:51,330 - 03:22:54,209] you're bound to get better if you practice
+- [03:22:54,209 - 03:22:57,089] you'll get better you'll get better at your
+- [03:22:57,090 - 03:23:00,390] sales presentation you'll get better at listening to
+- [03:23:00,390 - 03:23:03,690] your prospect you'll get better at closing the
+- [03:23:03,690 - 03:23:07,950] sale you'll get better at earning a living
+- [03:23:07,950 - 03:23:12,210] practice is just as valuable as a sale because
+- [03:23:12,210 - 03:23:15,600] here's what's valuable in sales the skills the sale
+- [03:23:15,600 - 03:23:18,990] will make you a living the skills will make
+- [03:23:18,990 - 03:23:22,680] you a fortune so practice your presentation
+- [03:23:22,680 - 03:23:26,370] and your ability to communicate what you know
+- [03:23:27,030 - 03:23:30,960] the people out there who say no I wouldn't
+- [03:23:30,960 - 03:23:34,890] care for any are just as valuable why because they
+- [03:23:34,890 - 03:23:37,710] took the time to let you practice your
+- [03:23:37,710 - 03:23:40,530] presentation and especially when you're just getting started
+- [03:23:40,530 - 03:23:44,160] you might want to pay them to listen to
+- [03:23:44,160 - 03:23:47,790] you practice while you stumble around so be thankful
+- [03:23:47,790 - 03:23:48,450] for the nose
+- [03:23:49,630 - 03:23:52,940] practice helps you develop skills skills make labor
+- [03:23:52,940 - 03:23:56,250] more valuable if you just sell you can
+- [03:23:56,250 - 03:23:59,850] make a living if you skillfully sell you can
+- [03:23:59,850 - 03:24:03,450] make a fortune if you just talk you can hold
+- [03:24:03,450 - 03:24:06,590] a family together if you skillfully talk you
+- [03:24:06,590 - 03:24:09,730] can build dreams and the future the difference
+- [03:24:10,530 - 03:24:14,730] is skill you can cut a tree down with a hammer
+- [03:24:14,730 - 03:24:18,930] but it takes about 30 days if you trade the hammer
+- [03:24:18,930 - 03:24:22,290] axe you can cut the tree down in about 30
+- [03:24:22,290 - 03:24:25,650] minutes the difference between the 30 minutes and 30 days
+- [03:24:26,290 - 03:24:30,370] is the tool and your best communication tool
+- [03:24:30,370 - 03:24:34,450] is your skill so practice to get the skill
+- [03:24:34,450 - 03:24:38,489] of saying it well part of saying it
+- [03:24:38,489 - 03:24:42,529] well is sincerity the next part is repetition
+- [03:24:42,529 - 03:24:46,489] now here's another part of saying it well
+- [03:24:46,489 - 03:24:50,449] brevity sometimes you don't need too much just enough
+- [03:24:51,649 - 03:24:53,969] the more you know here's what i found out
+- [03:24:53,969 - 03:24:56,290] the more you know the briefer you can be
+- [03:24:57,969 - 03:25:00,449] because you can learn to make words more effective
+- [03:25:01,649 - 03:25:04,409] jesus was brief when he was putting his
+- [03:25:04,409 - 03:25:07,170] team together he just wandered around the countryside
+- [03:25:07,170 - 03:25:09,809] and every once in a while he'd see
+- [03:25:09,809 - 03:25:12,449] somebody he wanted on his team and said you
+- [03:25:12,529 - 03:25:17,089] follow me now that's short that's brief now why
+- [03:25:17,089 - 03:25:21,649] could jesus be so brief and yet be so effective
+- [03:25:22,449 - 03:25:24,529] here's what i think for all that
+- [03:25:24,529 - 03:25:26,609] he was that he didn't have to say
+- [03:25:27,729 - 03:25:31,369] for all that he was that he didn't have
+- [03:25:31,369 - 03:25:35,009] to say when you become bigger when you become wiser
+- [03:25:35,649 - 03:25:38,849] when you become stronger you become a person
+- [03:25:38,849 - 03:25:42,050] of better reputation so that when you arrive maybe
+- [03:25:42,050 - 03:25:42,279] you represent a better reputation than the other people
+- [03:25:42,279 - 03:25:42,509] you're going to be a better person than the
+- [03:25:42,510 - 03:25:42,520] other people you're going to be a better person than
+- [03:25:42,520 - 03:25:42,530] the other people you're going to be a better person
+- [03:25:42,530 - 03:25:46,430] has preceded you and when you get there you don't
+- [03:25:46,430 - 03:25:50,330] have to say much you don't have to launch into a
+- [03:25:50,330 - 03:25:54,430] two-hour harangue if your reputation has preceded you your
+- [03:25:54,430 - 03:25:58,530] reputation will get a lot of the job done
+- [03:25:58,530 - 03:26:03,670] for you before you ever arrive next is style part of
+- [03:26:03,670 - 03:26:08,810] saying it well is style be a student of style a
+- [03:26:08,810 - 03:26:10,650] variety of styles then make sure you develop your
+- [03:26:10,650 - 03:26:12,490] own and then you develop your own and then you
+- [03:26:12,510 - 03:26:15,850] you don't have to be me
+- [03:26:15,850 - 03:26:19,190] a student but also noamerette you
+- [03:26:19,190 - 03:26:28,410] noam uncle
+- [03:26:28,410 - 03:26:28,510] absolutely
+- [03:26:28,510 - 03:26:29,330] small
+- [03:26:29,330 - 03:26:29,490] anywhere
+- [03:26:29,490 - 03:26:31,690] to tell you that body that
+- [03:26:31,690 - 03:26:32,430] be you
+- [03:26:32,430 - 03:26:33,190] the
+- [03:26:33,190 - 03:26:35,190] which
+- [03:26:35,190 - 03:26:36,410] in
+- [03:26:36,410 - 03:26:37,470] i
+- [03:26:37,470 - 03:26:38,410] just
+- [03:26:38,410 - 03:26:38,870] didn't
+- [03:26:41,370 - 03:26:42,310] you
+- [03:26:42,310 - 03:26:42,490] would
+- [03:26:42,490 - 03:26:46,030] vocabulary then you're lacking in tools to
+- [03:26:46,030 - 03:26:49,570] describe some problem or some answer words
+- [03:26:49,570 - 03:26:53,439] vocabulary you can't communicate without them and
+- [03:26:53,439 - 03:26:57,309] you can't communicate well without a defined
+- [03:26:57,309 - 03:27:00,519] vocabulary every time you come across a word that's
+- [03:27:00,519 - 03:27:03,729] new to you what should you do look it up
+- [03:27:04,450 - 03:27:06,910] every time you're in a conversation and the
+- [03:27:06,910 - 03:27:09,370] other person uses a word that's new to you
+- [03:27:09,370 - 03:27:12,580] look it up now most of the time you can figure
+- [03:27:12,580 - 03:27:15,790] out the meaning of a new word by how it's used
+- [03:27:15,790 - 03:27:18,430] but if you can't make sure you
+- [03:27:18,430 - 03:27:21,070] hold your response until you know for sure
+- [03:27:22,390 - 03:27:25,720] several years ago some of my friends
+- [03:27:25,720 - 03:27:29,050] took a survey among prisoners some rehabilitation
+- [03:27:29,050 - 03:27:31,480] program they were working on and they weren't
+- [03:27:31,480 - 03:27:33,910] looking for this but here's what they found
+- [03:27:34,630 - 03:27:36,969] there's definitely a relationship
+- [03:27:36,969 - 03:27:39,309] between vocabulary and behavior
+- [03:27:39,370 - 03:27:43,510] interesting this is what they found the
+- [03:27:43,510 - 03:27:47,650] more limited the vocabulary the more the tendency
+- [03:27:47,650 - 03:27:52,150] to poor behavior wow when you stop to think about
+- [03:27:52,150 - 03:27:56,650] it for a moment it makes sense vocabulary is a way
+- [03:27:56,650 - 03:28:01,120] of seeing it gives us insight and only with
+- [03:28:01,120 - 03:28:05,590] your present vocabulary can you see you can't use tools
+- [03:28:05,590 - 03:28:09,309] you don't have to see to create light understand
+- [03:28:09,370 - 03:28:12,940] understanding awareness comprehension perception vision you
+- [03:28:12,940 - 03:28:16,510] can only have as much vision
+- [03:28:17,110 - 03:28:20,830] as your present vocabulary will give you and
+- [03:28:20,830 - 03:28:24,550] if you're limited in vocabulary then you can't see
+- [03:28:24,550 - 03:28:27,310] very well what if a person could only
+- [03:28:27,310 - 03:28:30,070] see the world through a little tiny hole
+- [03:28:30,910 - 03:28:34,569] can you imagine the mistakes he'd make in judgment he'd
+- [03:28:34,569 - 03:28:38,229] say here's how it is you'd say no that's not
+- [03:28:38,229 - 03:28:38,769] how it is
+- [03:28:39,370 - 03:28:43,150] here's how it is the guy says but I can't see
+- [03:28:43,150 - 03:28:46,930] it how come he can't see it he doesn't have the
+- [03:28:46,930 - 03:28:50,559] vocabulary to understand the translation now vocabulary is
+- [03:28:50,559 - 03:28:54,189] also what we use as a tool to
+- [03:28:54,189 - 03:28:58,449] express what's going on in our heart what's
+- [03:28:58,449 - 03:29:02,710] going on in our head translate our questions translate
+- [03:29:02,710 - 03:29:05,560] our answers our perceptions what we
+- [03:29:05,560 - 03:29:08,410] see to be able to say it
+- [03:29:09,370 - 03:29:11,799] I'm telling you if you have a limited
+- [03:29:11,799 - 03:29:14,229] way of translating and expressing what's going on in
+- [03:29:14,229 - 03:29:18,219] your heart and what's going on in your head
+- [03:29:18,219 - 03:29:22,210] you'll fall way behind so you'd have twin problems without
+- [03:29:22,210 - 03:29:26,199] a good vocabulary number one you wouldn't be able
+- [03:29:26,199 - 03:29:30,189] to see number two you wouldn't be able to express
+- [03:29:31,150 - 03:29:34,240] and your world would keep getting smaller and
+- [03:29:34,240 - 03:29:37,330] smaller and smaller not having the vision not
+- [03:29:37,330 - 03:29:38,229] having the tools
+- [03:29:39,370 - 03:29:41,350] finally you wouldn't need a place much
+- [03:29:41,350 - 03:29:43,330] bigger than 10 by 12 to live
+- [03:29:44,170 - 03:29:48,070] why that's about as big as some people's world
+- [03:29:48,070 - 03:29:51,970] is that's all they've got this little narrow world
+- [03:29:52,570 - 03:29:56,560] making mistakes every day why they can't see
+- [03:29:56,560 - 03:30:00,550] getting it wrong every day they can't comprehend
+- [03:30:01,390 - 03:30:05,050] they can't understand no tools with which to translate
+- [03:30:06,430 - 03:30:09,229] for good communication number one is having something good
+- [03:30:09,370 - 03:30:13,930] say number two is saying it well and number
+- [03:30:13,930 - 03:30:18,490] three is reading your audience you've got to read what's
+- [03:30:18,490 - 03:30:21,120] going on between you and the people you're talking
+- [03:30:21,120 - 03:30:23,750] to should you say what you're saying a little
+- [03:30:23,750 - 03:30:27,810] softer should you say it a little stronger should
+- [03:30:27,810 - 03:30:31,870] you explain it more should you be more clear and
+- [03:30:31,870 - 03:30:35,120] concise should you quit a lot of the
+- [03:30:35,120 - 03:30:38,370] decision making that's going on during a conversation
+- [03:30:38,370 - 03:30:41,670] with someone depends on how well you can read how
+- [03:30:41,670 - 03:30:44,970] well you can tell what's going on in the minds of
+- [03:30:44,970 - 03:30:47,909] those you're trying to reach doesn't matter if you're
+- [03:30:47,909 - 03:30:50,849] looking into the face of a child or the
+- [03:30:50,849 - 03:30:54,159] face of a colleague or a thousand faces in
+- [03:30:54,159 - 03:30:57,470] an audience you've got to read what's going on
+- [03:30:57,470 - 03:31:00,690] you've got to pay attention so let me give you
+- [03:31:00,690 - 03:31:03,910] some ways to read the first one is you've got
+- [03:31:03,910 - 03:31:06,109] to read what you see you've
+- [03:31:06,109 - 03:31:08,309] got to read what you see
+- [03:31:08,309 - 03:31:08,349] you've got to read what you see
+- [03:31:08,370 - 03:31:10,620] you've got to read what you see search the
+- [03:31:10,620 - 03:31:12,870] face of a child and see if you're coming across
+- [03:31:13,870 - 03:31:17,650] see if they look perplexed see if they're getting it
+- [03:31:17,650 - 03:31:21,430] see if they can't get it body language tells us
+- [03:31:21,430 - 03:31:24,730] a lot look at how the people you're talking to
+- [03:31:24,730 - 03:31:28,030] are sitting what they are doing with their hands their
+- [03:31:28,030 - 03:31:32,510] eyes a guy's got his arms crossed legs crossed
+- [03:31:32,510 - 03:31:36,990] chin tucked down and frowning you've got your work cut
+- [03:31:36,990 - 03:31:37,470] out for you
+- [03:31:37,470 - 03:31:39,240] out for you this guy's not
+- [03:31:39,240 - 03:31:41,010] going to be easy to reach
+- [03:31:41,010 - 03:31:42,870] anywhere it doesn't matter what you look for
+- [03:31:42,870 - 03:31:44,240] the lady's from behind her
+- [03:31:44,240 - 03:31:45,610] desk you've got to hurry fucking
+- [03:31:45,610 - 03:31:46,210] the long, dreading mic
+- [03:31:46,210 - 03:31:48,410] she's not going to listen to much more you've
+- [03:31:48,410 - 03:31:50,610] probably got to pick up the pace she's secured
+- [03:31:50,610 - 03:31:51,280] it from behind her desk and where
+- [03:31:51,280 - 03:31:51,950] to the next you've got to hurry
+- [03:31:51,950 - 03:31:55,120] the hand that you hold so the first one is read
+- [03:31:55,120 - 03:31:58,290] what you see here is the second one read what you hear
+- [03:31:59,290 - 03:32:02,910] you've got to be a good listener to be a
+- [03:32:02,910 - 03:32:06,530] good communicator get some feedback listen to be a good
+- [03:32:06,530 - 03:32:06,780] message that sets you up for from you, and you're always going to
+- [03:32:06,780 - 03:32:07,030] know what you're doing when you don't have time or you need to
+- [03:32:07,030 - 03:32:08,490] You've got to be a good listener.
+- [03:32:09,269 - 03:32:11,509] To talk well, you've got to listen well.
+- [03:32:12,269 - 03:32:13,490] That's so valuable.
+- [03:32:14,009 - 03:32:14,870] Get the feedback.
+- [03:32:16,170 - 03:32:18,750] Now what you hear may help you change gears.
+- [03:32:19,050 - 03:32:19,990] Be a little stronger.
+- [03:32:20,189 - 03:32:21,349] Be a little softer.
+- [03:32:22,290 - 03:32:23,530] Find a different illustration.
+- [03:32:23,750 - 03:32:24,650] This one isn't working.
+- [03:32:25,650 - 03:32:27,370] Search for another way to say it.
+- [03:32:28,210 - 03:32:30,689] Become sensitive to someone else's words.
+- [03:32:31,250 - 03:32:33,060] Not just by preparing to
+- [03:32:33,060 - 03:32:34,870] talk when the other person's through.
+- [03:32:36,009 - 03:32:36,330] Listen.
+- [03:32:37,030 - 03:32:38,859] Pick up those signals that
+- [03:32:38,859 - 03:32:40,689] the feedback of words gives us.
+- [03:32:42,590 - 03:32:44,990] Now here's the third way to read your audience.
+- [03:32:45,309 - 03:32:47,410] And that is to read how you feel.
+- [03:32:48,269 - 03:32:49,269] Emotional signals.
+- [03:32:50,009 - 03:32:51,830] You've got to learn to pick those up.
+- [03:32:53,030 - 03:32:54,250] Pick up those feelings.
+- [03:32:55,450 - 03:32:57,950] Women just seem to have this part built in.
+- [03:32:58,590 - 03:32:59,530] Men can learn it.
+- [03:32:59,910 - 03:33:01,290] But women have it.
+- [03:33:01,889 - 03:33:03,630] Woman says it doesn't feel right.
+- [03:33:03,729 - 03:33:05,250] Just doesn't feel right.
+- [03:33:05,410 - 03:33:06,790] Man says, what does that mean?
+- [03:33:06,830 - 03:33:07,009] It doesn't feel right.
+- [03:33:07,009 - 03:33:07,030] It doesn't feel right.
+- [03:33:07,189 - 03:33:10,009] She says it's something.
+- [03:33:10,269 - 03:33:12,050] He says something, something.
+- [03:33:12,330 - 03:33:13,469] What is this something?
+- [03:33:14,530 - 03:33:17,849] She says, I'm telling you, something doesn't feel right.
+- [03:33:19,070 - 03:33:20,570] Now men can learn it.
+- [03:33:21,050 - 03:33:22,370] But women have it.
+- [03:33:22,969 - 03:33:24,610] Learn to read your emotion.
+- [03:33:25,590 - 03:33:27,610] Learn to read what others are feeling.
+- [03:33:27,870 - 03:33:29,590] So you can adjust your communication.
+- [03:33:30,250 - 03:33:32,290] So you can adjust your approach.
+- [03:33:32,790 - 03:33:34,790] So you can get your message across.
+- [03:33:35,090 - 03:33:37,009] So you can communicate well.
+- [03:33:37,170 - 03:33:39,770] Communication.
+- [03:33:39,810 - 03:33:42,550] Having something to say and saying it well.
+- [03:33:43,830 - 03:33:46,670] Communication is one of the key ingredients in being able
+- [03:33:46,690 - 03:33:47,990] to work well with others.
+- [03:33:48,270 - 03:33:51,050] And being able to build our ambition by working well
+- [03:33:51,090 - 03:33:51,750] with others.
+- [03:33:52,210 - 03:33:53,690] In the운 and see
+- [03:33:53,690 - 03:33:54,870] you next time.
+- [03:33:55,110 - 03:33:55,310] Bye.
+- [03:33:55,950 - 03:33:56,850] And if you're playing right now?
+- [03:33:57,150 - 03:33:58,190] This is ournhhere或者
+- [03:33:58,230 - 03:34:00,990] you're listening to the ringtone from Brookfolding.
+- [03:34:01,030 - 03:34:02,810] Here's how you switch it off on your phone.
+- [03:34:03,030 - 03:34:04,490] Like you hear from steel to steel.
+- [03:34:04,510 - 03:34:04,830] You will hear the tilt of your phone
+- [03:34:04,830 - 03:34:05,150] and then settle for the Washington becoming a
+- [03:34:05,170 - 03:34:06,410] budget.
+- [03:34:06,410 - 03:34:09,990] Now that we've talked about some basic communication
+- [03:34:09,990 - 03:34:13,570] skills, you need to understand how best to
+- [03:34:13,570 - 03:34:15,910] apply them.
+- [03:34:15,910 - 03:34:19,349] What you can do and cannot do in the marketplace.
+- [03:34:19,349 - 03:34:21,999] How you talk and act while playing
+- [03:34:21,999 - 03:34:24,650] volleyball on a Saturday afternoon probably isn't the
+- [03:34:24,650 - 03:34:27,979] same as how you'd talk and act around a
+- [03:34:27,979 - 03:34:31,309] group of people who want to invest in your company.
+- [03:34:31,310 - 03:34:34,190] How you communicate with your old friends
+- [03:34:34,190 - 03:34:37,070] and family members is probably an abbreviated
+- [03:34:37,070 - 03:34:39,740] version of how you should communicate
+- [03:34:39,740 - 03:34:42,410] in a high powered business setting.
+- [03:34:42,410 - 03:34:45,030] When you meet a new group of people, you
+- [03:34:45,030 - 03:34:47,650] must watch and listen and be alert before you decide
+- [03:34:47,650 - 03:34:50,950] on the appropriate communication style.
+- [03:34:50,950 - 03:34:53,380] You might greet old friends with a slap on
+- [03:34:53,380 - 03:34:55,810] the back and a tasteless joke, but you certainly
+- [03:34:55,810 - 03:35:00,330] wouldn't greet a multimillion dollar opportunity that way.
+- [03:35:00,330 - 03:35:01,290] You must take a few moments.
+- [03:35:01,290 - 03:35:03,259] Take a few moments to
+- [03:35:03,259 - 03:35:05,229] study the temperament of your audience.
+- [03:35:05,229 - 03:35:07,870] Listen to how they communicate with each other.
+- [03:35:07,870 - 03:35:11,970] Watch how they react to situations and comments.
+- [03:35:11,970 - 03:35:14,820] Study your audience lest you engage in
+- [03:35:14,820 - 03:35:17,670] some behavior that will prove inappropriate and
+- [03:35:17,670 - 03:35:19,610] costly.
+- [03:35:19,610 - 03:35:23,360] Some people would make about $150,000 a year,
+- [03:35:23,360 - 03:35:27,110] but they have to be satisfied with about 50
+- [03:35:27,110 - 03:35:30,710] because their behavior is costing them the rest of it.
+- [03:35:30,710 - 03:35:34,610] You've got the skills, but their behavior is costing them.
+- [03:35:34,610 - 03:35:37,030] Keep setting them aside.
+- [03:35:37,030 - 03:35:39,070] So let's talk about some of those things
+- [03:35:39,070 - 03:35:41,110] in the marketplace that might cost you more than
+- [03:35:41,110 - 03:35:43,590] you want to pay.
+- [03:35:43,590 - 03:35:46,350] Here's one bad language.
+- [03:35:46,350 - 03:35:49,950] You've got to be careful with language in the marketplace.
+- [03:35:49,950 - 03:35:52,230] You've got to be careful here.
+- [03:35:52,230 - 03:35:55,250] Some language is more appropriate for the bar.
+- [03:35:55,250 - 03:35:57,310] So what should you do?
+- [03:35:57,310 - 03:36:00,030] Leave it in the bar or else what?
+- [03:36:00,030 - 03:36:03,370] You'll have to pay the consequences.
+- [03:36:03,370 - 03:36:05,950] We must all be students
+- [03:36:05,950 - 03:36:08,530] of consequences, things that cost us.
+- [03:36:08,530 - 03:36:10,609] And language is one of
+- [03:36:10,609 - 03:36:12,689] the most important ones to consider.
+- [03:36:12,689 - 03:36:14,950] Language in the marketplace.
+- [03:36:14,950 - 03:36:17,550] Now if you cuss and tell dirty
+- [03:36:17,550 - 03:36:20,150] jokes in the marketplace, that's acceptable to who?
+- [03:36:20,150 - 03:36:22,169] Other people in the marketplace
+- [03:36:22,169 - 03:36:24,189] who cuss and tell dirty jokes.
+- [03:36:24,189 - 03:36:26,150] You've got no problem with them.
+- [03:36:26,150 - 03:36:29,030] Matter of fact, they'll probably enjoy having you around.
+- [03:36:29,030 - 03:36:30,030] You're not going to be a bad person.
+- [03:36:30,030 - 03:36:32,669] But if you cuss and tell dirty jokes
+- [03:36:32,669 - 03:36:35,309] to those who will be offended, then what?
+- [03:36:35,309 - 03:36:38,150] They certainly won't want to have you around.
+- [03:36:38,150 - 03:36:40,090] And what happens then?
+- [03:36:40,090 - 03:36:42,590] It'll cost you.
+- [03:36:42,590 - 03:36:43,790] Next one, being late.
+- [03:36:43,790 - 03:36:45,429] In some circles, it's acceptable.
+- [03:36:45,429 - 03:36:48,219] But I'm telling you, most people
+- [03:36:48,219 - 03:36:51,009] view being late as being disrespectful.
+- [03:36:51,009 - 03:36:52,990] Disrespectful of their time.
+- [03:36:52,990 - 03:36:55,780] And if they feel that you're disrespectful
+- [03:36:55,780 - 03:36:58,570] of their time, they'll also feel you're disrespectful
+- [03:36:58,570 - 03:36:59,830] of their business.
+- [03:36:59,830 - 03:37:01,050] Why?
+- [03:37:01,050 - 03:37:03,309] Because everything affects everything.
+- [03:37:03,309 - 03:37:06,629] Now, if you have a legitimate excuse
+- [03:37:06,629 - 03:37:09,950] and your reputation already says that you're punctual,
+- [03:37:09,950 - 03:37:11,260] then you might get away
+- [03:37:11,260 - 03:37:12,570] with it a time or two.
+- [03:37:12,570 - 03:37:15,650] But be careful about being late.
+- [03:37:15,650 - 03:37:17,510] One day you just may be
+- [03:37:17,510 - 03:37:19,370] too late to close the deal.
+- [03:37:19,370 - 03:37:22,290] Be on time.
+- [03:37:22,290 - 03:37:25,020] You've also got to be careful about
+- [03:37:25,020 - 03:37:27,750] using inside lingo on the outside world.
+- [03:37:27,750 - 03:37:29,229] Your industry's buzzwords are just that.
+- [03:37:29,229 - 03:37:29,309] Are just that.
+- [03:37:30,790 - 03:37:34,390] your industries be careful not to use
+- [03:37:34,390 - 03:37:37,990] this terminology on the outside people who speak
+- [03:37:37,990 - 03:37:40,350] computer language they've got to learn to shift
+- [03:37:40,350 - 03:37:42,710] gears when they go out into the open marketplace
+- [03:37:43,590 - 03:37:47,110] so watch your lingo remember to shift gears
+- [03:37:47,110 - 03:37:50,630] from the inside lingo to the outside world
+- [03:37:52,229 - 03:37:55,789] you've got to become a good judge of
+- [03:37:55,789 - 03:37:59,350] character why to protect yourself there are shepherds and
+- [03:37:59,350 - 03:38:02,630] there are sheep and there are wolves and we
+- [03:38:02,630 - 03:38:05,910] must be wise and understand that some wolves are so
+- [03:38:05,910 - 03:38:09,670] clever they've learned to dress up like sheep but do
+- [03:38:09,670 - 03:38:13,430] not miss the story of the full drama of life
+- [03:38:13,430 - 03:38:17,430] called good and evil awareness sensitivity
+- [03:38:17,430 - 03:38:21,430] understanding knowing the scenario and being
+- [03:38:21,430 - 03:38:24,910] on alert for what is called the inevitable we
+- [03:38:24,910 - 03:38:28,390] must learn to be a good judge of character
+- [03:38:29,350 - 03:38:31,030] and here's something else we must learn
+- [03:38:31,030 - 03:38:32,710] to do to work well with others
+- [03:38:33,510 - 03:38:36,030] we must learn to deliver criticism
+- [03:38:36,030 - 03:38:38,550] and express anger in a safe way
+- [03:38:40,230 - 03:38:42,670] it's inevitable during the course of working
+- [03:38:42,670 - 03:38:45,110] with others it's inevitable that you'll come
+- [03:38:45,110 - 03:38:48,950] across some situation that'll result in anger or
+- [03:38:48,950 - 03:38:52,790] criticism needs to be handed down it's just
+- [03:38:52,790 - 03:38:55,750] a part of life that you delegate some responsibility
+- [03:38:55,750 - 03:38:58,710] and through either a lack of good communication or
+- [03:38:59,350 - 03:39:02,310] good listening on the other end it's inevitable
+- [03:39:02,310 - 03:39:05,270] that some situation will get you all hot and
+- [03:39:05,270 - 03:39:08,950] bothered now what do you do with your anger you
+- [03:39:08,950 - 03:39:12,630] can't lash out you can't lash out at your children
+- [03:39:12,630 - 03:39:15,390] or your friends or your colleagues but here's what
+- [03:39:15,390 - 03:39:18,150] you can do and here's what you must do
+- [03:39:19,190 - 03:39:23,230] lash out at the problem or the situation honey you
+- [03:39:23,230 - 03:39:27,270] say to your teenager you know i love you but what
+- [03:39:27,270 - 03:39:27,790] you did was wrong you're not the only one who's wrong you're
+- [03:39:27,790 - 03:39:28,310] the only one who's wrong you're not the only one who's wrong
+- [03:39:29,430 - 03:39:32,430] i hate it that you took the car without asking
+- [03:39:32,430 - 03:39:35,430] first and i especially hate it that you got a
+- [03:39:35,430 - 03:39:39,110] speeding ticket what were you thinking so whatever
+- [03:39:39,110 - 03:39:42,790] the punishment might be make sure you're punishing
+- [03:39:42,790 - 03:39:46,750] the bad deed not the person your assistant ends
+- [03:39:46,750 - 03:39:50,710] up sending the contract to the seller instead of the
+- [03:39:50,710 - 03:39:54,070] buyer make sure your assistant knows that
+- [03:39:54,070 - 03:39:57,430] you appreciate him but you don't appreciate the
+- [03:39:57,430 - 03:39:58,150] wrongdoing
+- [03:39:59,350 - 03:40:02,550] whatever criticism you hand down whatever anger
+- [03:40:02,550 - 03:40:05,750] you're processing make sure that the one to
+- [03:40:05,750 - 03:40:09,590] receive it knows full well that you care about the
+- [03:40:09,590 - 03:40:13,430] person but hate what they did and if you're too
+- [03:40:13,430 - 03:40:16,630] steamed up to be this rational about it make
+- [03:40:16,630 - 03:40:19,830] sure to keep your mouth closed until you've cooled off
+- [03:40:19,830 - 03:40:23,910] a bit in dale carnegie's book the leader
+- [03:40:23,910 - 03:40:27,990] in you he describes the attributes of kind criticism
+- [03:40:29,750 - 03:40:32,830] he quotes andres navarro's technique of kind
+- [03:40:32,830 - 03:40:35,910] criticism as the three for one rule
+- [03:40:36,790 - 03:40:38,870] if you don't like something about the
+- [03:40:38,870 - 03:40:40,950] way someone works write down the problem
+- [03:40:41,830 - 03:40:44,750] but before you confront that person with
+- [03:40:44,750 - 03:40:47,670] criticism discover three good things about the person
+- [03:40:48,870 - 03:40:52,150] noticing three good things gives you the
+- [03:40:52,150 - 03:40:55,430] right to criticize one bad thing interesting thought
+- [03:40:56,790 - 03:40:58,230] criticism after
+- [03:40:59,190 - 03:41:03,390] appreciation with well-delivered words well-chosen words
+- [03:41:03,390 - 03:41:07,590] you could admonish the doing without
+- [03:41:07,590 - 03:41:11,790] admonishing the doer this is important you love the
+- [03:41:11,790 - 03:41:15,990] person you hate the act make sure they know
+- [03:41:15,990 - 03:41:19,230] the difference you don't have to couch the words
+- [03:41:19,230 - 03:41:22,470] you don't have to hide your anger or disappointment
+- [03:41:23,030 - 03:41:25,630] but you do have to make sure
+- [03:41:25,630 - 03:41:28,230] that your communication is effective so that the
+- [03:41:28,230 - 03:41:31,270] wrong doing will never be done again and
+- [03:41:31,270 - 03:41:34,310] the more you care the stronger you can be
+- [03:41:35,350 - 03:41:38,630] this has to do with intensity now the
+- [03:41:38,630 - 03:41:41,910] intensity of your communication to those you work with
+- [03:41:41,910 - 03:41:44,830] those you live with those you're close to
+- [03:41:44,830 - 03:41:47,750] the more you care the stronger you can be
+- [03:41:48,630 - 03:41:51,910] if you really care for someone i'm telling you
+- [03:41:51,910 - 03:41:52,450] they'll you
+- [03:41:52,470 - 03:41:55,590] you room to get right on their case
+- [03:41:55,590 - 03:41:58,710] they'll give you room to use some powerful language
+- [03:41:59,590 - 03:42:02,830] they'll give you room to go right after them
+- [03:42:02,830 - 03:42:06,070] if they feel if they know that you really care
+- [03:42:07,190 - 03:42:09,630] you can solve some sticky problems you can
+- [03:42:09,630 - 03:42:12,070] attack the dark side and the bad behavior
+- [03:42:13,030 - 03:42:21,430] they'll give you room if they know how much you
+- [03:42:21,430 - 03:42:29,830] care and the more you care the stronger you can be
+- [03:42:36,150 - 03:42:38,829] now that we've discussed communication skills let's move
+- [03:42:38,829 - 03:42:41,509] on to see how we can translate these
+- [03:42:41,509 - 03:42:41,830] skills
+- [03:42:42,070 - 03:42:45,950] into creating more business networking working within a
+- [03:42:45,950 - 03:42:49,830] group of people that we know and or
+- [03:42:49,830 - 03:42:51,230] working within a group of
+- [03:42:51,230 - 03:42:52,630] people that we want to know
+- [03:42:53,990 - 03:42:55,669] let's quickly go through
+- [03:42:55,669 - 03:42:57,349] some techniques for effective networking
+- [03:42:58,710 - 03:43:01,549] number one when developing relationships through
+- [03:43:01,549 - 03:43:04,389] networking remember that they must be mutually
+- [03:43:04,389 - 03:43:07,949] beneficial the favor you do for someone
+- [03:43:07,949 - 03:43:11,509] else is expected to be returned someday for
+- [03:43:11,509 - 03:43:11,750] each
+- [03:43:12,070 - 03:43:15,629] contact you give someone else you expect one in
+- [03:43:15,629 - 03:43:19,189] return for each tip you give out you expect one
+- [03:43:19,189 - 03:43:23,069] back or as the law of sowing and reaping
+- [03:43:23,069 - 03:43:26,950] says it'll come back to you multiplied that's number
+- [03:43:26,950 - 03:43:30,669] one make sure your networking relationships
+- [03:43:30,669 - 03:43:34,389] are mutually beneficial number two keep the
+- [03:43:34,389 - 03:43:38,149] relationship active schedule quarterly lunches plan
+- [03:43:38,149 - 03:43:41,910] to meet at chamber of commerce networking
+- [03:43:43,030 - 03:43:45,910] if you see a story about your contact in the
+- [03:43:45,910 - 03:43:48,790] newspaper clip it out and send it to her with
+- [03:43:48,790 - 03:43:51,830] a note of congratulations send articles that
+- [03:43:51,830 - 03:43:54,870] may be relevant to his or her career
+- [03:43:54,870 - 03:43:59,029] keep in touch don't just call when you
+- [03:43:59,029 - 03:44:03,189] need something keep in touch number three express your
+- [03:44:03,189 - 03:44:06,469] gratitude and appreciation make it clear that
+- [03:44:06,469 - 03:44:09,750] you're appreciative of the contact or tip that
+- [03:44:09,750 - 03:44:12,750] was sent your way send a finder's fee if
+- [03:44:12,750 - 03:44:15,750] your latest deal was the result of your contact
+- [03:44:17,189 - 03:44:20,869] send a special gift if a tip panned out a
+- [03:44:20,869 - 03:44:24,550] man i know got a stock tip in passing from an
+- [03:44:24,550 - 03:44:27,430] acquaintance of his well the stock made this
+- [03:44:27,430 - 03:44:30,310] man thousands of dollars richer what'd he do
+- [03:44:30,950 - 03:44:34,790] sent a bottle of dom perignon and two
+- [03:44:34,790 - 03:44:38,630] very expensive gold rim crystal glasses and a thank
+- [03:44:38,630 - 03:44:42,150] you note now he didn't have to do that
+- [03:44:42,150 - 03:44:45,670] but i'm telling you the recipient will never forget this
+- [03:44:45,670 - 03:44:50,670] guy number three don't forget to express
+- [03:44:50,670 - 03:44:55,670] your gratitude and appreciation number four keep your
+- [03:44:55,670 - 03:44:58,790] professional relationships professional if it looks
+- [03:44:58,790 - 03:45:01,910] like jealousy is rearing its ugly head
+- [03:45:02,470 - 03:45:05,310] firmly but politely cut it off
+- [03:45:05,310 - 03:45:08,150] when the relationship no longer serves you
+- [03:45:09,190 - 03:45:11,990] no longer is mutually beneficial step away
+- [03:45:11,990 - 03:45:14,790] from it if the relationship you're building
+- [03:45:14,790 - 03:45:18,270] through networking appears to be harmful take a
+- [03:45:18,270 - 03:45:21,750] sword to it the fifth key to networking is
+- [03:45:21,750 - 03:45:24,710] to remember the other person's need for achievement
+- [03:45:24,710 - 03:45:27,670] this is an important tip to keep in mind
+- [03:45:28,470 - 03:45:30,590] especially when you're dealing with someone
+- [03:45:30,590 - 03:45:32,710] who's not as advanced in their career
+- [03:45:32,710 - 03:45:35,190] as you are by respecting this
+- [03:45:35,190 - 03:45:37,670] need by providing guidance and leadership
+- [03:45:38,630 - 03:45:41,430] by sharing some of your personal experiences
+- [03:45:41,430 - 03:45:44,230] with this person they'll end up bringing opportunities
+- [03:45:44,230 - 03:45:47,950] to you why because they value your insight
+- [03:45:47,950 - 03:45:51,670] they value your experience and most of all
+- [03:45:51,670 - 03:45:54,550] because they value the time and the
+- [03:45:54,550 - 03:45:57,430] knowledge you've shared with them acknowledge those who
+- [03:45:57,430 - 03:46:00,910] are on their way up you may just find out one
+- [03:46:00,910 - 03:46:04,390] day that it was your extra effort that gave them the
+- [03:46:04,390 - 03:46:05,840] boost they needed Enerimag Trooper E
+- [03:46:05,840 - 03:46:07,290] bacterial hy�� tr Danish Polynesia en pea
+- [03:46:07,290 - 03:46:07,310] Wissenschaft I trucks dreamsGrandSheira. world's best- Garcia Trek care申 Gina שруcue� sell to respuesta creator at嘛 flower Shop siteola nivellabelskyhubeen셔야 stones to create company partnerships meاتrWho Low Car encouraged St. What idea��라고요 meH that I wanted to
+- [03:46:07,310 - 03:46:07,330] know it is not a dance chance Tom Stamos Reikolo who offers dancing hah a masse flooding terms I honor I forecasting groups students to participate in exchange for lift promotion of civil service professor Tim Ev
+- [03:46:08,630 - 03:46:12,710] communication skills in place you'll increase your ability
+- [03:46:12,710 - 03:46:16,790] to work well with others listen talk share
+- [03:46:17,830 - 03:46:20,990] sympathize empathize and when you extend your reach
+- [03:46:20,990 - 03:46:24,150] to work well with others that you know
+- [03:46:24,870 - 03:46:26,550] you'll be able to extend your reach
+- [03:46:26,550 - 03:46:28,230] to work well with those you don't
+- [03:46:29,190 - 03:46:32,510] you'll be able to develop networking skills and
+- [03:46:32,510 - 03:46:35,830] once you do you'll find that networking is an
+- [03:46:35,830 - 03:46:39,750] incredible way to increase your opportunities tip
+- [03:46:39,750 - 03:46:43,670] by tip contact by contact and now recall
+- [03:46:43,670 - 03:46:46,750] the laws of sowing and reaping of giving and
+- [03:46:46,750 - 03:46:49,830] receiving the more you give of yourself in an
+- [03:46:49,830 - 03:46:52,910] attempt to communicate well with others and work well
+- [03:46:52,910 - 03:46:55,990] with others the more you give the more you'll
+- [03:46:55,990 - 03:46:59,510] receive as you strive to build your ambition and
+- [03:46:59,510 - 03:47:03,030] here's the last but most important key to working
+- [03:47:03,030 - 03:47:04,180] well with others learn to work with others
+- [03:47:04,180 - 03:47:05,330] and you need to learn toстall to work
+- [03:47:05,470 - 03:47:05,639] learn to work with others learn to work with others
+- [03:47:05,639 - 03:47:05,809] and work with others and this is where I stand
+- [03:47:05,830 - 03:47:08,990] others that deserve it not those who need
+- [03:47:08,990 - 03:47:12,150] it you must follow the guidelines of life itself
+- [03:47:12,790 - 03:47:16,310] life responds to what deserve so work with the
+- [03:47:16,310 - 03:47:19,830] people who deserve it not the people who need it
+- [03:47:20,870 - 03:47:24,589] and here's what else you've got to do show people
+- [03:47:24,589 - 03:47:28,309] how to deserve it how to deserve your work how to
+- [03:47:28,310 - 03:47:31,990] deserve your time how to deserve your attention
+- [03:47:31,990 - 03:47:35,670] show people how to make small steps of progress
+- [03:47:36,310 - 03:47:39,270] and reward them along the way and show them
+- [03:47:39,270 - 03:47:42,230] how to deserve it one step at a time
+- [03:47:43,350 - 03:47:46,710] one step at a time until finally they
+- [03:47:46,710 - 03:47:50,070] work themselves out of need and into deserve
+- [03:47:51,030 - 03:47:53,430] out of the shadows of despair
+- [03:47:53,430 - 03:47:55,830] and poverty into the light of ambition
+- [03:47:58,310 - 03:48:02,070] so
+- [03:48:15,030 - 03:48:18,950] self-appreciation the sixth step to building your ambition
+- [03:48:20,310 - 03:48:23,110] self-appreciation says acknowledge your
+- [03:48:23,110 - 03:48:25,910] accomplishments appreciate your potential
+- [03:48:27,030 - 03:48:27,630] know that your appreciation of your
+- [03:48:27,630 - 03:48:28,230] work is the foundation of your life
+- [03:48:28,310 - 03:48:30,630] of yourself and your achievements will
+- [03:48:30,630 - 03:48:32,950] continue to fuel the fire of ambition
+- [03:48:34,070 - 03:48:37,510] self-appreciation is an integral part of success
+- [03:48:37,510 - 03:48:40,950] you must develop a strong appreciation for your
+- [03:48:40,950 - 03:48:45,030] own style your own methods your own process
+- [03:48:45,030 - 03:48:49,110] there is no stereotype for success there is
+- [03:48:49,110 - 03:48:53,590] no model for success there is no such thing
+- [03:48:53,590 - 03:48:58,070] so what exactly is success success is the steady
+- [03:48:59,030 - 03:49:07,950] partnership step by step making
+- [03:49:07,950 - 03:49:16,870] alehm explore the higher sedentary
+- [03:49:16,870 - 03:49:20,270] your ability to realize you might not turn
+- [03:49:20,270 - 03:49:23,670] out pretty quite simply yet to feel much better
+- [03:49:25,509 - 03:49:27,910] do
+- [03:49:28,070 - 03:49:31,590] toward your goals, the person you want to be, the
+- [03:49:31,590 - 03:49:35,110] things you want to have for yourself and for your family,
+- [03:49:35,509 - 03:49:39,929] your business goals, your personal goals, spiritual goals, health
+- [03:49:39,929 - 03:49:44,349] goals, the goals that give you satisfaction and joy.
+- [03:49:44,950 - 03:49:48,140] To me, that's what success is. And my
+- [03:49:48,140 - 03:49:51,330] definition of success could be radically different than yours.
+- [03:49:51,330 - 03:49:54,710] So there's no one definition of success. You've
+- [03:49:54,710 - 03:49:58,090] got to have this much money in the bank.
+- [03:49:58,189 - 03:50:00,079] You've got to look like this. You've
+- [03:50:00,079 - 03:50:01,970] got to live in this kind of home.
+- [03:50:02,370 - 03:50:06,400] You've got to have this kind of financial security. In
+- [03:50:06,400 - 03:50:10,430] my personal opinion, those things have nothing to do with success.
+- [03:50:11,150 - 03:50:15,410] Success is your own steady progress toward the
+- [03:50:15,410 - 03:50:19,670] goals you set daily, weekly, monthly, for your life,
+- [03:50:19,670 - 03:50:21,309] for your business, for your family.
+- [03:50:21,330 - 03:50:22,790] For yourself.
+- [03:50:24,030 - 03:50:29,109] If a man tells me, hey, pretty soon I'm cashing it all in and I'm going to
+- [03:50:29,109 - 03:50:34,189] head for the mountains and live in a cabin and feed the squirrels and live off the land.
+- [03:50:34,870 - 03:50:40,660] I'm telling you, if I get a report later that said this man did that, cashed it
+- [03:50:40,660 - 03:50:46,450] all in, headed for the mountains, bought a cabin, is feeding the squirrels and living off the land.
+- [03:50:46,870 - 03:50:49,089] If I were to hear that, I'd
+- [03:50:49,089 - 03:50:51,309] say this man was a smashing success.
+- [03:50:51,330 - 03:50:55,150] So success is not some stereotype.
+- [03:50:55,830 - 03:50:58,170] Resist all stereotypes.
+- [03:50:58,970 - 03:51:00,490] There is no one model.
+- [03:51:01,090 - 03:51:03,290] There is no one set way.
+- [03:51:03,910 - 03:51:05,870] There is only your way.
+- [03:51:07,330 - 03:51:10,530] It takes a combination of philosophies and ideologies.
+- [03:51:11,290 - 03:51:13,350] It takes a combination of thoughts
+- [03:51:13,350 - 03:51:15,410] to mold and emerge with your own.
+- [03:51:16,450 - 03:51:19,070] We need the mental food that others provide.
+- [03:51:19,070 - 03:51:20,650] We need mental exercise.
+- [03:51:21,330 - 03:51:24,530] We need to open up our minds to different alternatives.
+- [03:51:25,530 - 03:51:28,950] We need to learn to appreciate the other side of the
+- [03:51:28,950 - 03:51:32,370] debate so that we can strengthen our own and defend our own.
+- [03:51:33,670 - 03:51:36,270] We need to expose ourselves to a
+- [03:51:36,270 - 03:51:38,870] wide range of thoughts and philosophies and ideologies.
+- [03:51:39,710 - 03:51:42,370] You've got to listen to a variety of speakers.
+- [03:51:43,090 - 03:51:44,710] Read a variety of books.
+- [03:51:45,170 - 03:51:48,090] No one speaker has all the answers for you.
+- [03:51:48,710 - 03:51:50,830] No one book has all the answers.
+- [03:51:51,330 - 03:51:54,790] You can't get all the answers from one person.
+- [03:51:55,570 - 03:52:02,070] We need a variety of influence to give us input to give us ideas, to manage
+- [03:52:02,070 - 03:52:08,570] our business, to manage our relationships, to manage our finances, to take advantage of our time.
+- [03:52:09,210 - 03:52:11,210] We need a variety of influences.
+- [03:52:12,090 - 03:52:14,530] We need a variety of books in our library.
+- [03:52:14,990 - 03:52:17,520] We need a variety of tapes
+- [03:52:17,520 - 03:52:20,050] in our video library, our audio library.
+- [03:52:20,050 - 03:52:21,250] We need a variety.
+- [03:52:21,250 - 03:52:21,290] Of.
+- [03:52:21,330 - 03:52:25,400] of voices. And here's what else we need. We need
+- [03:52:25,400 - 03:52:29,470] a variety of points of view. Points of view can be
+- [03:52:29,470 - 03:52:33,450] so valuable. Somebody says, did you ever see it from
+- [03:52:33,450 - 03:52:37,430] over here? And you say, no. So you step over
+- [03:52:37,430 - 03:52:40,520] there where they are and you take a look back
+- [03:52:40,520 - 03:52:43,610] over here from their point of view. And you say,
+- [03:52:43,689 - 03:52:47,179] my gosh, I never thought from this perspective.
+- [03:52:47,179 - 03:52:50,670] It's so different. No wonder you think the way
+- [03:52:50,670 - 03:52:54,130] you do. Here's the clue. Take advantage of
+- [03:52:54,130 - 03:52:57,590] all that's available in terms of mental food and
+- [03:52:57,590 - 03:53:01,450] mental exercise. Be eager to learn. Always be eager
+- [03:53:01,450 - 03:53:05,310] to learn no matter how far along you are
+- [03:53:05,310 - 03:53:08,890] in the journey, no matter where you are in
+- [03:53:08,890 - 03:53:12,470] your success. Keep that eagerness to learn. Gather up
+- [03:53:12,470 - 03:53:15,770] as much knowledge as you can. And then what? Debate
+- [03:53:15,770 - 03:53:19,070] it. Put it all on the table and look at it.
+- [03:53:19,790 - 03:53:20,470] Dissect it.
+- [03:53:20,870 - 03:53:24,090] Turn it around and stare at it. Ask
+- [03:53:24,090 - 03:53:27,310] questions. Make statements. Don't take it for granted that
+- [03:53:27,310 - 03:53:30,610] one person has all the answers you're looking for.
+- [03:53:30,610 - 03:53:33,910] Take their knowledge, but don't take it as the
+- [03:53:33,910 - 03:53:37,150] only knowledge. Make sure that what you finally
+- [03:53:37,150 - 03:53:40,390] do, the model you develop of strong appreciation
+- [03:53:40,390 - 03:53:43,970] for your own style and your own methods and
+- [03:53:43,970 - 03:53:47,550] your own process for achievement, make sure that what
+- [03:53:47,550 - 03:53:50,650] you finally do is a product of your own.
+- [03:53:50,670 - 03:53:54,250] In conclusion, that's what's valuable. Not to just
+- [03:53:54,250 - 03:53:57,830] go do what someone says without debating it.
+- [03:53:58,710 - 03:54:01,980] Consider the source and then do it your way.
+- [03:54:01,980 - 03:54:05,250] You can take an interest in what someone says,
+- [03:54:05,450 - 03:54:08,720] digest it, take notes on it, but then debate
+- [03:54:08,720 - 03:54:11,990] it. Look at it from all angles. Be a student,
+- [03:54:12,190 - 03:54:15,190] not a follower. Building your ambition is a
+- [03:54:15,190 - 03:54:18,190] process unique to each and every one of us.
+- [03:54:18,870 - 03:54:20,650] Gather all the knowledge that you can.
+- [03:54:20,670 - 03:54:23,910] Then develop your approach as a product
+- [03:54:23,910 - 03:54:27,150] of your own conclusions. Your own conclusions,
+- [03:54:27,590 - 03:54:31,090] not someone else's conclusions. Your own
+- [03:54:31,090 - 03:54:34,590] conclusions. You can't fall for other people's
+- [03:54:34,590 - 03:54:37,260] philosophies. They may not be right. As
+- [03:54:37,260 - 03:54:39,930] you collect knowledge, you must sort through it
+- [03:54:39,930 - 03:54:42,320] and find out what's valuable. Then
+- [03:54:42,320 - 03:54:44,710] you can develop your own philosophy.
+- [03:54:45,350 - 03:54:47,610] And your own philosophy becomes the
+- [03:54:47,610 - 03:54:49,870] most important of your guidance systems.
+- [03:54:50,670 - 03:54:53,960] One of your guiding lights. So develop your own
+- [03:54:53,960 - 03:54:57,250] plan, lest you get into trouble with someone else's.
+- [03:54:58,030 - 03:55:01,140] And debate the plans of others, the
+- [03:55:01,140 - 03:55:04,250] philosophies of others, the achievement styles of others,
+- [03:55:05,030 - 03:55:08,060] the way others appreciate themselves. Debate
+- [03:55:08,060 - 03:55:11,090] all this. Why? Because it affects everything.
+- [03:55:11,910 - 03:55:15,460] The value you place on your plan, the value
+- [03:55:15,460 - 03:55:19,010] you place on yourself, the value you place on life
+- [03:55:19,010 - 03:55:19,830] in general affects everything. And that's what's
+- [03:55:19,830 - 03:55:20,650] valuable. And that's what's valuable. And that's
+- [03:55:20,670 - 03:55:20,920] what's valuable. And that's what's valuable. And
+- [03:55:20,920 - 03:55:21,170] that's what's valuable. And that's what's valuable.
+- [03:55:21,170 - 03:55:23,920] It affects everything around you. It even affects how
+- [03:55:23,920 - 03:55:26,670] you respect time. The 24 hours a day given to
+- [03:55:26,670 - 03:55:29,670] each of us to do with as
+- [03:55:29,670 - 03:55:32,670] we please. There's a connection between appreciating yourself
+- [03:55:32,670 - 03:55:36,330] and appreciating and respecting time. People
+- [03:55:36,330 - 03:55:39,990] who appreciate themselves understand and respect
+- [03:55:39,990 - 03:55:44,170] the use of time. Here's what I call the
+- [03:55:44,170 - 03:55:48,350] best kept secret of the rich. Interesting discovery that I
+- [03:55:48,350 - 03:55:49,500] made one day. I couldn't believe it. I was in a room with a man
+- [03:55:49,500 - 03:55:50,650] and a woman. And I was in a room with a man and a woman.
+- [03:55:50,670 - 03:55:50,770] And I was in a room with a man and a woman. And I was in a room
+- [03:55:50,770 - 03:55:50,870] with a man and a woman. And I was in a room with a man and a woman.
+- [03:55:50,870 - 03:55:55,890] And I found out that rich people have about 24 hours
+- [03:55:55,890 - 03:56:00,910] a day. And poor people have about 24 hours a day.
+- [03:56:01,430 - 03:56:03,500] Wouldn't that drive you mad until
+- [03:56:03,500 - 03:56:05,570] you found out what the difference was?
+- [03:56:06,270 - 03:56:09,730] I'm telling you the difference is in the
+- [03:56:09,730 - 03:56:13,190] management of the time. A few simple disciplines practiced
+- [03:56:13,190 - 03:56:16,340] every day and your whole life can change.
+- [03:56:16,340 - 03:56:19,490] Your future can change. Your income can change.
+- [03:56:20,670 - 03:56:24,170] The rest of it is getting a handle on the
+- [03:56:24,170 - 03:56:27,670] management of time. Now we invested one whole session in this
+- [03:56:27,670 - 03:56:31,040] series to proper self-discipline. And guess what?
+- [03:56:31,040 - 03:56:34,410] Discipline shows up again here as it does
+- [03:56:34,410 - 03:56:38,330] everywhere. Discipline is also important in how you
+- [03:56:38,330 - 03:56:42,250] manage your time. The 24 hours given to you
+- [03:56:42,250 - 03:56:45,180] every day. So I want to give you a
+- [03:56:45,180 - 03:56:48,110] few things that might help you to get a handle
+- [03:56:48,110 - 03:56:50,190] on the management of time.
+- [03:56:50,670 - 03:56:54,420] Here's the first one. Ignore the subject.
+- [03:56:54,420 - 03:56:58,170] Ignore the subject. That's not a bad suggestion.
+- [03:56:58,650 - 03:57:01,080] Somebody says, Well, I've been behind all my life.
+- [03:57:01,080 - 03:57:03,510] Doesn't look like that's going to change. Forget it.
+- [03:57:04,170 - 03:57:07,940] I like that approach. At least it's honest. Nobody's
+- [03:57:07,940 - 03:57:11,710] ideas of success and time management are right for you
+- [03:57:11,710 - 03:57:15,540] unless they can be applied by you. We've already
+- [03:57:15,540 - 03:57:19,370] said that it's important to resist all stereotypes for success,
+- [03:57:20,670 - 03:57:24,240] all models of success. So here's one
+- [03:57:24,240 - 03:57:27,810] alternative to time management. Ignore the subject. Don't
+- [03:57:27,810 - 03:57:30,210] let somebody pressure you by saying, here's what
+- [03:57:30,210 - 03:57:32,610] you've got to do with your time. Resist
+- [03:57:32,610 - 03:57:36,040] all that. Take advice, but don't take orders.
+- [03:57:36,040 - 03:57:39,470] Let somebody give you their opinions and then
+- [03:57:39,470 - 03:57:43,070] accept the ones you want to accept and
+- [03:57:43,070 - 03:57:46,670] the ones you don't want to accept. Don't accept.
+- [03:57:46,670 - 03:57:49,730] Resist all attempts to pressure you into becoming
+- [03:57:49,730 - 03:57:52,790] the model of success. Resist all that. Do
+- [03:57:52,790 - 03:57:55,760] it on your own time, the time that's
+- [03:57:55,760 - 03:57:58,730] right for you. Now here's another alternative to
+- [03:57:58,730 - 03:58:02,480] time management. Step down to an easier
+- [03:58:02,480 - 03:58:06,230] task. Step down to something more manageable, something
+- [03:58:06,230 - 03:58:09,640] that doesn't require that much time, that
+- [03:58:09,640 - 03:58:13,050] much effort. That's an alternative. Some people
+- [03:58:13,050 - 03:58:16,650] in sales are promoted to being manager. They say, oh,
+- [03:58:16,650 - 03:58:19,720] now I've got to be a manager. Heck with
+- [03:58:19,720 - 03:58:22,790] this, it takes 14 hours a day worrying about everybody.
+- [03:58:23,469 - 03:58:26,659] I'm getting back out in the field. Get
+- [03:58:26,659 - 03:58:29,849] my sales job back. And that's a good alternative.
+- [03:58:30,969 - 03:58:33,099] Somebody works for a company and says, oh,
+- [03:58:33,099 - 03:58:35,229] I'd love to own one of these companies.
+- [03:58:35,750 - 03:58:37,430] Then they find out what it
+- [03:58:37,430 - 03:58:39,110] takes to own one of those companies,
+- [03:58:39,750 - 03:58:42,310] what kind of pressure, what kind of
+- [03:58:42,310 - 03:58:44,870] hours, can't play golf three days a week,
+- [03:58:45,330 - 03:58:46,629] and finally says,
+- [03:58:46,650 - 03:58:49,479] hey, you know, I've had it up to here
+- [03:58:49,479 - 03:58:52,309] with all the headaches and trauma and dealing with
+- [03:58:52,309 - 03:58:55,509] all these people's lives and running a company
+- [03:58:55,509 - 03:58:58,710] and being responsible for all the stuff, I'm
+- [03:58:58,710 - 03:59:00,429] going to step down.
+- [03:59:00,429 - 03:59:03,830] And that's a good alternative. It really is.
+- [03:59:03,830 - 03:59:06,479] Don't let yourself be pressured when stepping
+- [03:59:06,479 - 03:59:09,129] down might give you a better lifestyle.
+- [03:59:11,049 - 03:59:13,849] Little girl complained that her father never played with her. She
+- [03:59:13,849 - 03:59:16,650] said, daddy comes home. Got in the car, happy to play.
+- [03:59:16,650 - 03:59:20,410] briefcase full of papers says hello to me pats me
+- [03:59:20,410 - 03:59:24,170] on my head and disappears she said how come my
+- [03:59:24,170 - 03:59:26,770] daddy can't play with me when he comes home
+- [03:59:26,770 - 03:59:29,370] and her mother explained and said look your daddy
+- [03:59:29,370 - 03:59:32,890] works very hard he loves you very much but at the
+- [03:59:32,890 - 03:59:36,410] office he's got so much to do that he can't get it
+- [03:59:36,410 - 03:59:39,729] all done so he has to bring the rest of it
+- [03:59:39,729 - 03:59:43,049] home so that's why your daddy can't play with you and the
+- [03:59:43,050 - 03:59:47,850] little girl says why don't they just put him in a
+- [03:59:47,850 - 03:59:52,650] slower group not a bad idea and i offer that here
+- [03:59:52,650 - 03:59:56,210] if you're too busy to play with your kids you need
+- [03:59:56,210 - 03:59:59,770] to join a slower group you've got to have time for
+- [03:59:59,770 - 04:00:03,090] your family i went for some things that cost me
+- [04:00:03,090 - 04:00:06,410] too much in those early days if i'd known how
+- [04:00:06,410 - 04:00:09,690] much it was going to cost i never would
+- [04:00:09,690 - 04:00:12,970] have paid the price so you've got to weigh the
+- [04:00:12,970 - 04:00:13,000] weight of the burden of the burden of the burden
+- [04:00:13,000 - 04:00:13,030] of the burden of the burden of the burden of the
+- [04:00:13,030 - 04:00:16,590] consequences how to make everything fit sometimes that
+- [04:00:16,590 - 04:00:20,150] extra money isn't worth it if it pressures
+- [04:00:20,150 - 04:00:23,430] you into losing touch with somebody you really
+- [04:00:23,430 - 04:00:26,710] care about so family must be considered here as
+- [04:00:26,710 - 04:00:30,310] well but here's the best alternative to time
+- [04:00:30,310 - 04:00:33,910] management and that's to get more out of you
+- [04:00:34,870 - 04:00:38,109] if we just get more from ourselves we can make
+- [04:00:38,109 - 04:00:41,349] an hour as valuable as 10 hours used to be
+- [04:00:41,350 - 04:00:44,470] we can get as much done now in a
+- [04:00:44,470 - 04:00:47,590] day as we used to get done in a week
+- [04:00:48,870 - 04:00:52,630] efficiency skills knowledge awareness practice getting better
+- [04:00:52,630 - 04:00:56,390] all of that value we can bring
+- [04:00:56,390 - 04:00:59,070] to the marketplace bring to the job and
+- [04:00:59,070 - 04:01:01,750] that's where the real time management comes in
+- [04:01:03,270 - 04:01:06,550] i found out that a normal day is enough
+- [04:01:06,550 - 04:01:09,830] time eight hours ten hours five days six days
+- [04:01:10,630 - 04:01:13,750] that's enough time the rest of it now has
+- [04:01:13,750 - 04:01:16,870] got to be the best use of that time
+- [04:01:19,590 - 04:01:22,230] there's a movement going on now in the
+- [04:01:22,230 - 04:01:24,870] workplace the movement is people setting up home offices
+- [04:01:26,150 - 04:01:28,830] telecommuting to work working at home
+- [04:01:28,830 - 04:01:31,510] and communicating with the office through fax
+- [04:01:31,510 - 04:01:34,349] machines and computers and modems and delivery
+- [04:01:34,349 - 04:01:37,189] services people are even starting to work in
+- [04:01:37,190 - 04:01:40,350] one state and live in another they don't need to
+- [04:01:40,350 - 04:01:43,510] be at the office all the time for some jobs they
+- [04:01:43,510 - 04:01:46,830] don't need to be at the office at all and
+- [04:01:46,830 - 04:01:50,150] guess what some of these folks find out the projects
+- [04:01:50,150 - 04:01:53,190] that used to take two days they get done
+- [04:01:53,190 - 04:01:56,230] in a few hours why because they have no distractions
+- [04:01:57,110 - 04:02:00,070] no people stopping by their office to
+- [04:02:00,070 - 04:02:03,030] chat no unsolicited phone calls to take
+- [04:02:04,150 - 04:02:06,390] no unexpected visitors to deal with
+- [04:02:07,030 - 04:02:07,190] when
+- [04:02:07,190 - 04:02:10,710] they work they work when they play they play
+- [04:02:10,710 - 04:02:14,230] now not everybody has the luxury of having a
+- [04:02:14,230 - 04:02:16,910] job that can work like this but maybe some
+- [04:02:16,910 - 04:02:19,590] of the same principles can be applied at the office
+- [04:02:20,390 - 04:02:23,710] like do not disturb times like scheduling
+- [04:02:23,710 - 04:02:27,030] your day so that you're totally undisturbed
+- [04:02:27,030 - 04:02:29,470] during those hours in which you complete
+- [04:02:29,470 - 04:02:31,910] your best work like setting certain hours
+- [04:02:31,910 - 04:02:34,470] each day to take appointments and phone
+- [04:02:34,470 - 04:02:37,030] calls and that's really where the magic
+- [04:02:37,030 - 04:02:40,390] of personal development comes in knowing who
+- [04:02:40,390 - 04:02:43,750] you are becoming more valuable being more valuable
+- [04:02:43,750 - 04:02:46,910] knowing the value of your rhythms in
+- [04:02:46,910 - 04:02:50,070] getting certain tasks done getting things done more
+- [04:02:50,070 - 04:02:53,950] efficiently in a shorter period of time working
+- [04:02:53,950 - 04:02:57,830] smarter not harder let me give you some more
+- [04:02:57,830 - 04:03:01,549] thoughts now on time management just a list of
+- [04:03:01,549 - 04:03:05,269] things you should consider number one you run the
+- [04:03:05,269 - 04:03:06,069] day or it runs you know you're not the only one
+- [04:03:06,069 - 04:03:06,870] who's going to be running the day or it runs you
+- [04:03:06,870 - 04:03:11,150] part of the key to time management is just
+- [04:03:11,150 - 04:03:15,430] staying in charge but here's what usually happens we start
+- [04:03:15,430 - 04:03:18,710] something and we're in control but as time
+- [04:03:18,710 - 04:03:21,990] starts to unfold pretty soon we start losing control
+- [04:03:23,030 - 04:03:26,070] you know you start a business and you're running
+- [04:03:26,070 - 04:03:29,110] it and pretty soon what it's running you you have
+- [04:03:29,110 - 04:03:32,910] to stop every once in a while and say hold it
+- [04:03:32,910 - 04:03:36,710] hold it who's in charge here so here's a good phrase to
+- [04:03:36,710 - 04:03:40,750] jot down something will master and something
+- [04:03:40,750 - 04:03:44,790] will serve that's the nature of life that's
+- [04:03:44,790 - 04:03:47,910] just how it goes on this spinning planet
+- [04:03:47,910 - 04:03:51,030] of ours something will master and something will serve
+- [04:03:51,990 - 04:03:54,950] and here's what you have to make sure
+- [04:03:54,950 - 04:03:57,910] you become the master you run the day
+- [04:03:58,950 - 04:04:02,790] you run the business you run the enterprise you run
+- [04:04:02,790 - 04:04:06,630] the job you stay in charge now here's how you can
+- [04:04:06,710 - 04:04:10,830] stay in charge have your written set of goals
+- [04:04:10,830 - 04:04:14,950] with you at all times then prioritize your goals and
+- [04:04:14,950 - 04:04:18,670] decide which is important then constantly review your goals
+- [04:04:18,670 - 04:04:22,390] then have your goals match up to a good
+- [04:04:22,390 - 04:04:25,750] written game plan the game plan that we talked
+- [04:04:25,750 - 04:04:29,110] about earlier the game plan that says take it out
+- [04:04:29,110 - 04:04:33,189] of your head and put it down on paper then
+- [04:04:33,189 - 04:04:37,269] with game plan in hand try to separate the majors from
+- [04:04:37,269 - 04:04:41,069] the minors the really important things from the things
+- [04:04:41,069 - 04:04:44,870] you just have to do and prioritize is this
+- [04:04:44,870 - 04:04:48,470] a major day or a minor day and adjust
+- [04:04:48,470 - 04:04:52,070] your time accordingly is this a major conversation or a
+- [04:04:52,070 - 04:04:55,550] minor conversation a lot of people don't do
+- [04:04:55,550 - 04:04:59,030] well and here's why they major in minor things
+- [04:04:59,110 - 04:05:03,149] they spend too much time on things that don't
+- [04:05:03,149 - 04:05:07,189] count and too little time on things that should
+- [04:05:07,189 - 04:05:10,429] count so you're about to pick up the phone and
+- [04:05:10,429 - 04:05:13,670] make a call but before you do decide is this a
+- [04:05:13,670 - 04:05:17,190] major call is this a minor call if it's a
+- [04:05:17,190 - 04:05:20,710] major call that needs a little preparation if it's a
+- [04:05:20,710 - 04:05:24,069] minor call a few pleasantries will probably do hi
+- [04:05:24,069 - 04:05:27,429] how are you tell a little joke exchange some
+- [04:05:27,429 - 04:05:28,070] pleasantries
+- [04:05:29,110 - 04:05:32,030] so a little evaluation will save
+- [04:05:32,030 - 04:05:34,950] you a lot of time major minor
+- [04:05:36,790 - 04:05:40,149] next time management essential don't mistake
+- [04:05:40,149 - 04:05:43,509] movement for achievement you probably know some
+- [04:05:43,509 - 04:05:47,549] people around you who are just plain busy being
+- [04:05:47,549 - 04:05:51,589] busy you've got to be busy being productive it's
+- [04:05:51,589 - 04:05:55,029] easy to get faked out by being busy guy comes
+- [04:05:55,029 - 04:05:58,469] home at night flops down in the easy chair says i've
+- [04:05:59,110 - 04:06:02,749] been doing enjoying going going but the real question
+- [04:06:02,749 - 04:06:06,389] is doing what i mean it's the doing what
+- [04:06:06,389 - 04:06:10,429] that's the real key not the going going going
+- [04:06:10,429 - 04:06:14,469] some people are going going going doing figure eights
+- [04:06:15,189 - 04:06:17,749] they're not making much progress
+- [04:06:17,749 - 04:06:20,309] don't mistake movement for achievement
+- [04:06:21,030 - 04:06:23,669] evaluate the hours in your days and see if
+- [04:06:23,669 - 04:06:26,309] there's not a lot of wasted time in there
+- [04:06:26,309 - 04:06:29,110] that you could manage better do more with
+- [04:06:29,110 - 04:06:33,050] with. The next key to good time
+- [04:06:33,050 - 04:06:36,990] management is good concentration. Focus. You've just
+- [04:06:36,990 - 04:06:40,209] got to zero in on the job at hand.
+- [04:06:40,209 - 04:06:43,429] Concentrate. Don't start your business day until you get
+- [04:06:43,429 - 04:06:46,009] to the business. I used to start my business
+- [04:06:46,009 - 04:06:48,589] day in the shower. I'm trying to compose a
+- [04:06:48,589 - 04:06:51,659] letter in the shower. The cobwebs haven't been
+- [04:06:51,659 - 04:06:54,729] cleared out yet. I'm not awake yet and
+- [04:06:54,730 - 04:06:57,420] I'm trying to compose a letter. Found out
+- [04:06:57,420 - 04:07:00,110] it doesn't work. Wait till you get to the
+- [04:07:00,110 - 04:07:03,410] office to start your work. Wait until you get
+- [04:07:03,410 - 04:07:06,710] to work before you get to the work. Don't
+- [04:07:06,710 - 04:07:10,000] start your business day at the breakfast table.
+- [04:07:10,000 - 04:07:13,290] It's not good for the family. Here's another
+- [04:07:13,290 - 04:07:16,510] one. On the way to work. Don't think
+- [04:07:16,510 - 04:07:19,730] about work. It's dangerous. There's a lot of cars
+- [04:07:19,730 - 04:07:21,990] out there on the highway. Can you
+- [04:07:21,990 - 04:07:24,250] imagine if everybody was driving to work thinking
+- [04:07:24,250 - 04:07:24,630] about
+- [04:07:24,630 - 04:07:24,710] work?
+- [04:07:24,730 - 04:07:28,490] It'd be a mess. Accidents everywhere. Here's what
+- [04:07:28,490 - 04:07:32,250] you've got to do. On the way to work,
+- [04:07:32,570 - 04:07:36,050] concentrate on the way. In the shower, concentrate
+- [04:07:36,050 - 04:07:39,530] on the shower. At the breakfast table, concentrate
+- [04:07:39,530 - 04:07:43,540] on the family. Wherever you are, be
+- [04:07:43,540 - 04:07:47,550] there. Don't be somewhere else. Give whatever you're
+- [04:07:47,550 - 04:07:50,470] doing the gift of attention. Give people
+- [04:07:50,470 - 04:07:53,390] the gift of attention. The gift of attention.
+- [04:07:53,390 - 04:07:58,210] Concentration. Next time management essential, learn to
+- [04:07:58,210 - 04:08:03,030] say no. Boy, it's easy in a social
+- [04:08:03,030 - 04:08:06,350] society to just say yes, yes, yes
+- [04:08:06,350 - 04:08:09,670] too much. Over-obligate yourself. Then it takes all
+- [04:08:09,670 - 04:08:13,270] those phone calls and all that time to back out
+- [04:08:13,270 - 04:08:16,870] of it and redo it. Don't say yes too quickly.
+- [04:08:17,430 - 04:08:20,000] Better to say, I don't know if I
+- [04:08:20,000 - 04:08:22,570] can make it, but I'll give you a call.
+- [04:08:23,390 - 04:08:26,240] Better to say you don't know than to say
+- [04:08:26,240 - 04:08:29,090] yes, yes, yes too quickly. Trying to be nice
+- [04:08:29,090 - 04:08:32,270] and then having to back out. One of my
+- [04:08:32,270 - 04:08:35,450] colleagues has a good saying. Don't let your mouth overload
+- [04:08:35,450 - 04:08:40,290] your back. Committing too soon, too quick.
+- [04:08:40,290 - 04:08:45,130] Being too eager to please. Appreciate yourself,
+- [04:08:45,130 - 04:08:47,730] your time. Appreciate your own limits. Know
+- [04:08:47,730 - 04:08:50,330] when your commitment to someone else will
+- [04:08:50,330 - 04:08:51,780] end up taking time away from yourself and
+- [04:08:51,780 - 04:08:53,230] your family. You're not going to be able to
+- [04:08:53,230 - 04:08:55,770] be happy with yourself and your family.
+- [04:08:55,770 - 04:08:58,310] Have self appreciation for your special time alone
+- [04:08:59,190 - 04:09:02,790] and with those you love and those who
+- [04:09:02,790 - 04:09:06,390] love you. This is especially important for charity work,
+- [04:09:07,110 - 04:09:10,710] volunteer work as well. A group of entrepreneurs
+- [04:09:10,710 - 04:09:14,310] I know have been very successful in their business,
+- [04:09:15,190 - 04:09:19,070] getting a lot of press. Pretty soon they're swamped
+- [04:09:19,070 - 04:09:22,950] with requests to do pro bono work. Do their stuff
+- [04:09:23,230 - 04:09:26,250] for free. They must get a couple of offers a
+- [04:09:26,250 - 04:09:29,270] month to sit in on one charity board or another.
+- [04:09:30,150 - 04:09:32,910] But here's how they handle it. They
+- [04:09:32,910 - 04:09:35,670] take all requests, weigh them for time commitments,
+- [04:09:35,670 - 04:09:38,750] evaluate them for opportunities. Then they take
+- [04:09:38,750 - 04:09:41,830] a collective vote on which two they'll accept
+- [04:09:41,830 - 04:09:45,390] during the next 12 months. You can't immediately
+- [04:09:45,390 - 04:09:48,950] say yes to offers that sound prestigious. You
+- [04:09:48,950 - 04:09:51,070] can't immediately say yes to social functions.
+- [04:09:51,070 - 04:09:53,190] Things that sound prestigious to you. Things that
+- [04:09:53,190 - 04:09:56,530] sound like a lot of fun. You've got to
+- [04:09:56,530 - 04:09:59,870] say maybe and take time to evaluate what's an important
+- [04:09:59,870 - 04:10:03,190] contribution to society. And what'll just take
+- [04:10:03,190 - 04:10:06,510] time away from your ambitions and your family.
+- [04:10:07,710 - 04:10:10,430] Be eager to please yourself and your family.
+- [04:10:10,430 - 04:10:13,150] Don't be so eager to please everybody else.
+- [04:10:14,190 - 04:10:17,110] Appreciate your own limits. You don't have to
+- [04:10:17,110 - 04:10:20,030] fill up every second of the day. Take time
+- [04:10:20,030 - 04:10:21,070] to appreciate what you've accomplished. Take time
+- [04:10:21,070 - 04:10:22,110] to acknowledge your elevation. Take time to start
+- [04:10:22,110 - 04:10:22,610] the new year. Don't be so eager to please
+- [04:10:22,610 - 04:10:23,110] everybody else. Appreciate your own limits. You don't have to
+- [04:10:23,110 - 04:10:26,550] time to enjoy the fruits of your labor
+- [04:10:26,550 - 04:10:29,990] your success should be a pleasure appreciating what
+- [04:10:29,990 - 04:10:33,189] you've got and what you've done and who
+- [04:10:33,189 - 04:10:36,389] you've become is important it's an important component
+- [04:10:36,389 - 04:10:39,629] in fueling your future achievements just knowing that
+- [04:10:39,629 - 04:10:42,870] you've accomplished in one day what you laid
+- [04:10:42,870 - 04:10:45,990] out in your game plan just knowing that you
+- [04:10:45,990 - 04:10:49,110] finished all you started out to do that day
+- [04:10:49,110 - 04:10:52,470] that's encouraging and it's these little daily
+- [04:10:52,470 - 04:10:55,830] advantages that you're gaining that continue to
+- [04:10:55,830 - 04:10:59,189] fuel your achievement let's say you're figuring
+- [04:10:59,189 - 04:11:02,549] out tomorrow's game plan tonight and tomorrow
+- [04:11:02,549 - 04:11:06,149] looks pretty light so all you write down for
+- [04:11:06,149 - 04:11:09,750] tomorrow is cleanup day you know clean up all
+- [04:11:09,750 - 04:11:12,910] the little notes on your desk write all the
+- [04:11:12,910 - 04:11:16,070] thank you notes you haven't gotten around to writing
+- [04:11:16,070 - 04:11:19,030] all week take care of a few phone calls
+- [04:11:19,110 - 04:11:22,829] that keep getting shuffled from one day to
+- [04:11:22,829 - 04:11:26,549] the next nothing major just minor stuff but nonetheless
+- [04:11:27,269 - 04:11:30,349] little stuff that keeps nagging on you until you get
+- [04:11:30,349 - 04:11:33,429] it done so you spend your day in a cleanup
+- [04:11:33,429 - 04:11:37,509] mode you file the notes write the thank you cards
+- [04:11:37,509 - 04:11:41,589] make the phone calls not a major day but at the
+- [04:11:41,589 - 04:11:44,749] end of the day you feel you've accomplished so
+- [04:11:44,749 - 04:11:47,910] much why because you've taken care of so many
+- [04:11:47,910 - 04:11:48,950] little details
+- [04:11:49,910 - 04:11:52,189] the little details that can make a
+- [04:11:52,189 - 04:11:54,469] major difference you feel like you've really
+- [04:11:54,469 - 04:11:56,509] achieved something during this day that
+- [04:11:56,509 - 04:11:58,549] started out to be so minor
+- [04:11:59,830 - 04:12:02,589] little achievements are just as important as
+- [04:12:02,589 - 04:12:05,349] big achievements why because you can't appreciate the
+- [04:12:05,349 - 04:12:08,509] big achievements without first appreciating the little
+- [04:12:08,509 - 04:12:11,670] ones success is the constant process of
+- [04:12:11,670 - 04:12:15,390] working toward your goals little achievement
+- [04:12:15,390 - 04:12:19,110] by little achievement little achievements produce big
+- [04:12:19,110 - 04:12:25,269] results
+- [04:12:28,950 - 04:12:31,430] george leonard in his book
+- [04:12:31,430 - 04:12:33,910] mastery talks about enjoying the plateau
+- [04:12:35,589 - 04:12:39,229] enjoying the plateau now this is an important
+- [04:12:39,229 - 04:12:42,870] point because so often we find ourselves racing
+- [04:12:42,870 - 04:12:43,950] to get ahead thinking about our next achievement so much that we can't
+- [04:12:43,950 - 04:12:45,030] appreciate the time we have time bargain time and spend time with time !
+- [04:12:45,030 - 04:12:45,910] time once another over and over again
+- [04:12:45,910 - 04:12:46,280] time for this are also questions you
+- [04:12:46,280 - 04:12:46,650] have for the rest of this show
+- [04:12:46,650 - 04:12:46,900] time times more days time ahead time to get from bed to get to dinner
+- [04:12:46,900 - 04:12:47,150] time exception that you learn that you are about 1 million family good moments I
+- [04:12:47,150 - 04:12:47,200] my goal is 2 conversations with a good fun person a good lesson that
+- [04:12:47,200 - 04:12:47,250] you have to make at home so you will know I love doing these headlining
+- [04:12:47,250 - 04:12:47,509] steel losing work ASL show Video 1 the best CO
+- [04:12:47,509 - 04:12:47,769] obese driver Mr George tá Just say something by yourself
+- [04:12:47,769 - 04:12:48,349] the bestEST P scores ISH can earn 3 times the numbers 3 times that
+- [04:12:48,349 - 04:12:48,929] NO Against corrupool of CORRO yêu girl I lost 4W to do social 하루
+- [04:12:48,930 - 04:12:52,900] time in between. Happiness is not in the
+- [04:12:52,900 - 04:12:56,870] getting. Happiness is in the becoming. Happiness is a
+- [04:12:56,870 - 04:13:00,590] universal quest. Happiness is a joy that most
+- [04:13:00,590 - 04:13:04,310] comes as a result of positive activity. It has
+- [04:13:04,310 - 04:13:07,630] a wide variety of meanings, a wide variety
+- [04:13:07,630 - 04:13:10,950] of interpretations. Happiness is both the joy of
+- [04:13:10,950 - 04:13:14,650] discovery and the joy of knowing. It's the result
+- [04:13:14,650 - 04:13:18,350] of an awareness, an awareness of the full range
+- [04:13:18,350 - 04:13:22,990] of life, experiences, sounds, harmonies, dreams, goals.
+- [04:13:22,990 - 04:13:27,630] And it's the joy that comes from designing
+- [04:13:27,630 - 04:13:31,430] a life that practices the fine art of living
+- [04:13:31,430 - 04:13:35,230] well. Happiness is being able to explore all that life
+- [04:13:35,230 - 04:13:38,650] offers. Happiness is quite often found in having
+- [04:13:38,650 - 04:13:42,070] options, options of doing what you want to instead
+- [04:13:42,070 - 04:13:44,920] of doing what you have to. The option of living
+- [04:13:44,920 - 04:13:47,770] where you want to instead of living where you have
+- [04:13:47,770 - 04:13:48,050] to.
+- [04:13:48,350 - 04:13:50,940] The option of looking like you want to
+- [04:13:50,940 - 04:13:53,530] instead of settling for what you have to.
+- [04:13:54,930 - 04:13:58,650] Happiness is receiving and sharing, reaping and
+- [04:13:58,650 - 04:14:02,370] bestowing. Happiness is found in taking time to
+- [04:14:02,370 - 04:14:06,020] enjoy what you've accomplished, in enjoying the
+- [04:14:06,020 - 04:14:09,670] plateau, in giving yourself credit when credit is
+- [04:14:09,670 - 04:14:13,340] due, in patting yourself on the back for a
+- [04:14:13,340 - 04:14:17,010] job well done. Happiness is here and now. Happiness
+- [04:14:17,010 - 04:14:17,670] isn't the end result. It's the result of the work
+- [04:14:17,670 - 04:14:18,330] that you've done. It's the result of the work that
+- [04:14:18,350 - 04:14:21,920] you've done. Happiness is part of the journey. There's
+- [04:14:21,920 - 04:14:25,490] an old saying that goes like this. The road
+- [04:14:25,490 - 04:14:28,900] to heaven is heaven. The happiness that you're
+- [04:14:28,900 - 04:14:32,310] searching for in the future must be found today.
+- [04:14:33,330 - 04:14:36,940] The success you're after in the future will only
+- [04:14:36,940 - 04:14:40,550] be found by working on it today. Success is the
+- [04:14:40,550 - 04:14:43,510] balance between the need for active achievement
+- [04:14:43,510 - 04:14:46,470] and the satisfaction in taking the time to
+- [04:14:46,470 - 04:14:48,330] acknowledge what you've already achieved.
+- [04:14:48,350 - 04:14:52,030] Take time to reflect while you're enjoying the
+- [04:14:52,030 - 04:14:55,710] plateau. And while you're reflecting back on your
+- [04:14:55,710 - 04:14:58,890] past accomplishments, think about something else. Think
+- [04:14:58,890 - 04:15:02,070] about the potential within you that's still
+- [04:15:02,070 - 04:15:06,340] untapped. Consider these two questions during your time
+- [04:15:06,340 - 04:15:10,610] of reflection. Number one, what could I have
+- [04:15:10,610 - 04:15:14,130] achieved in the past had I been more
+- [04:15:14,130 - 04:15:17,650] diligent? Could I have been more disciplined, worked smarter
+- [04:15:17,650 - 04:15:17,990] instead of harder? What could I have achieved in the
+- [04:15:17,990 - 04:15:18,330] past had I been more diligent? Could I have been
+- [04:15:18,330 - 04:15:20,390] more disciplined, worked smarter instead of harder?
+- [04:15:20,390 - 04:15:22,450] Said no more often to social functions,
+- [04:15:23,010 - 04:15:26,010] to community commitments. What could I have achieved
+- [04:15:26,010 - 04:15:29,010] in the past had I tried a little
+- [04:15:29,010 - 04:15:32,530] differently? Only you can answer this question.
+- [04:15:32,530 - 04:15:36,050] It's very personal. While you're reflecting and
+- [04:15:36,050 - 04:15:39,520] enjoying your plateau, all I'm asking is that you dig
+- [04:15:39,520 - 04:15:42,990] a little deeper and see if you can't be a bit
+- [04:15:42,990 - 04:15:45,649] more effective next time. Work a
+- [04:15:45,649 - 04:15:48,309] little smarter instead of a little harder.
+- [04:15:48,330 - 04:15:51,890] So that's question number one. What could I have
+- [04:15:51,890 - 04:15:55,450] achieved in the past if I tried a little
+- [04:15:55,450 - 04:15:59,960] more diligently? Now here's number two. How can I
+- [04:15:59,960 - 04:16:04,470] achieve more in the future? Well, if you take some
+- [04:16:04,470 - 04:16:07,740] quality time to thoughtfully answer question number one,
+- [04:16:07,740 - 04:16:11,010] you'll probably have a clue as to what's
+- [04:16:11,010 - 04:16:14,010] needed in the future. Do you need to work more diligently? Do
+- [04:16:14,010 - 04:16:17,010] you need to be more disciplined? Do you need to work smarter?
+- [04:16:17,010 - 04:16:19,550] Do you need to work smarter instead of harder?
+- [04:16:20,130 - 04:16:22,450] Do you need to say no more often?
+- [04:16:23,090 - 04:16:25,630] Do you need to manage your time better?
+- [04:16:27,050 - 04:16:29,030] That's one of the keys to reflection.
+- [04:16:29,650 - 04:16:31,370] You can put down on paper
+- [04:16:31,370 - 04:16:33,090] what worked for you in the past
+- [04:16:33,090 - 04:16:35,140] and figure out ways to
+- [04:16:35,140 - 04:16:37,190] translate this information into the future.
+- [04:16:37,970 - 04:16:40,250] You can design your better future
+- [04:16:40,250 - 04:16:42,530] if you can learn from your past.
+- [04:16:42,870 - 04:16:44,800] You can face your future
+- [04:16:44,800 - 04:16:46,730] with more excitement, more anticipation,
+- [04:16:47,010 - 04:16:50,470] when you design a future worth getting excited about.
+- [04:16:51,130 - 04:16:53,690] You can see your future and have it pull you.
+- [04:16:54,270 - 04:16:56,380] But don't forget to appreciate yourself
+- [04:16:56,380 - 04:16:58,490] for what you have done so far,
+- [04:16:58,710 - 04:17:00,810] for what you have done today.
+- [04:17:01,730 - 04:17:03,970] Take a self-appreciation inventory.
+- [04:17:05,430 - 04:17:06,770] Ask yourself a few questions.
+- [04:17:07,230 - 04:17:08,330] Start with number one.
+- [04:17:08,470 - 04:17:10,420] What have I achieved in the
+- [04:17:10,420 - 04:17:12,370] last four days, the last two weeks,
+- [04:17:12,850 - 04:17:14,920] the last six months, the
+- [04:17:14,920 - 04:17:16,990] last year, the last ten years?
+- [04:17:17,770 - 04:17:20,850] What have I achieved during these time periods?
+- [04:17:21,870 - 04:17:22,750] Write it down.
+- [04:17:23,350 - 04:17:26,270] Take a self-appreciation inventory of all you've done
+- [04:17:26,270 - 04:17:29,070] and all you've accomplished and all you've become.
+- [04:17:29,630 - 04:17:31,410] Take inventory of yourself.
+- [04:17:32,370 - 04:17:34,830] Now compare this list to your goals.
+- [04:17:35,830 - 04:17:37,610] Have you accomplished all you set out
+- [04:17:37,610 - 04:17:39,390] to do in the last four days,
+- [04:17:39,530 - 04:17:42,690] two weeks, six months, one year, ten years?
+- [04:17:43,710 - 04:17:44,930] Compare your list.
+- [04:17:44,930 - 04:17:49,010] Maybe you've been so busy trying to reach your goals
+- [04:17:49,010 - 04:17:51,180] that you haven't taken the time to sit
+- [04:17:51,180 - 04:17:53,350] back and reflect on where you've really been.
+- [04:17:54,170 - 04:17:55,990] Look back at your list and say,
+- [04:17:56,150 - 04:17:58,950] Wow, I really have been through a lot.
+- [04:17:59,590 - 04:18:01,430] I really have learned a lot.
+- [04:18:01,630 - 04:18:02,570] Look what I've done.
+- [04:18:02,750 - 04:18:03,970] Look what I've become.
+- [04:18:04,490 - 04:18:06,480] I wasn't like this ten years
+- [04:18:06,480 - 04:18:08,470] ago or even one year ago.
+- [04:18:08,990 - 04:18:10,030] Look at me.
+- [04:18:10,390 - 04:18:11,650] I'm doing okay.
+- [04:18:11,650 - 04:18:11,810] Okay.
+- [04:18:13,250 - 04:18:14,710] Building your ambition.
+- [04:18:14,930 - 04:18:15,930] It takes little steps.
+- [04:18:16,410 - 04:18:18,310] One step at a time, one day
+- [04:18:18,310 - 04:18:20,210] at a time, one week at a time.
+- [04:18:20,990 - 04:18:23,690] And it's like taking your family to a reunion
+- [04:18:23,690 - 04:18:25,560] where people haven't seen your kids
+- [04:18:25,560 - 04:18:27,430] for six months or even a year.
+- [04:18:27,610 - 04:18:30,090] They say, My, look how you've grown.
+- [04:18:30,950 - 04:18:32,910] Well, you know your kids have grown,
+- [04:18:33,070 - 04:18:34,890] but when you see them
+- [04:18:34,890 - 04:18:36,710] every day, it's hard to notice.
+- [04:18:37,570 - 04:18:39,570] So write down all your accomplishments
+- [04:18:39,570 - 04:18:41,400] and see where you've been and
+- [04:18:41,400 - 04:18:43,230] what you've done and who you've become.
+- [04:18:43,770 - 04:18:44,630] You'll say,
+- [04:18:45,350 - 04:18:47,010] Oh, look how I've grown.
+- [04:18:47,970 - 04:18:52,110] And that's step one in taking a self appreciation inventory.
+- [04:18:53,250 - 04:18:54,550] Now here's step two.
+- [04:18:55,750 - 04:18:57,910] What could I have achieved that I didn't?
+- [04:18:58,810 - 04:19:01,450] Be honest now, this is your inventory.
+- [04:19:01,450 - 04:19:03,050] Nobody else has to see it.
+- [04:19:04,450 - 04:19:07,070] What could you have achieved over the last week,
+- [04:19:07,070 - 04:19:09,690] the last month, the last quarter, the last year?
+- [04:19:10,270 - 04:19:12,530] What could you have achieved that you didn't?
+- [04:19:13,530 - 04:19:14,730] Would a game plan have made a difference?
+- [04:19:14,730 - 04:19:18,490] Would your direction have made a difference?
+- [04:19:19,010 - 04:19:21,890] Would greater preparation have made a difference?
+- [04:19:22,530 - 04:19:24,810] Would more discipline have made a difference?
+- [04:19:25,850 - 04:19:28,650] In how you changed your habits, changed your life?
+- [04:19:29,190 - 04:19:31,250] Would time management have made a difference?
+- [04:19:31,970 - 04:19:33,930] Major time over minor time.
+- [04:19:34,370 - 04:19:37,970] Ask yourself, what could I have achieved that I didn't?
+- [04:19:39,310 - 04:19:42,150] Now take this one step further with number three.
+- [04:19:43,150 - 04:19:44,650] What do I want to achieve in the next year?
+- [04:19:44,650 - 04:19:47,849] The next four days, the next two weeks, the next
+- [04:19:47,849 - 04:19:51,049] six months, over the next year, over the next 10 years?
+- [04:19:51,830 - 04:19:53,330] What do I want to achieve?
+- [04:19:54,330 - 04:19:56,830] Well, all this falls in line with your goals.
+- [04:19:57,530 - 04:19:59,329] What you could achieve has to fall
+- [04:19:59,329 - 04:20:01,129] in line with what you want to achieve.
+- [04:20:02,269 - 04:20:04,079] What you could do has to line
+- [04:20:04,079 - 04:20:05,889] up with what you want to do.
+- [04:20:06,830 - 04:20:08,969] And what you could become has to meet.
+- [04:20:09,710 - 04:20:11,210] What do I want to become?
+- [04:20:12,089 - 04:20:13,809] Everything affects everything.
+- [04:20:14,650 - 04:20:18,150] And through the proper disciplines practiced every day,
+- [04:20:18,150 - 04:20:21,650] every day, every day, through the proper disciplines,
+- [04:20:21,650 - 04:20:23,990] the what could I do has to match
+- [04:20:23,990 - 04:20:26,330] up with what do I want to do?
+- [04:20:27,710 - 04:20:28,769] And here's number four.
+- [04:20:29,969 - 04:20:31,789] What can I do to achieve
+- [04:20:31,789 - 04:20:33,610] this that I'm not doing now?
+- [04:20:35,250 - 04:20:36,910] What could I do to achieve
+- [04:20:36,910 - 04:20:38,570] my goals that I'm not doing now?
+- [04:20:39,549 - 04:20:41,359] What things do I need to work
+- [04:20:41,359 - 04:20:43,170] on that I'm not working on now?
+- [04:20:43,170 - 04:20:45,830] Remember, it's easy to do the
+- [04:20:45,830 - 04:20:48,490] disciplines, the little things every day.
+- [04:20:49,050 - 04:20:50,470] And it's easy not to.
+- [04:20:50,990 - 04:20:52,050] It's easy to.
+- [04:20:52,390 - 04:20:53,930] It's easy not to.
+- [04:20:55,190 - 04:20:57,590] Look back at the self-knowledge inventory that
+- [04:20:57,590 - 04:20:59,990] you took on side three of this program.
+- [04:21:00,990 - 04:21:03,110] The session on positive self-direction.
+- [04:21:03,830 - 04:21:06,200] Look back at the list you made
+- [04:21:06,200 - 04:21:08,570] of your three most important work-related goals.
+- [04:21:09,130 - 04:21:11,090] Look back at your list of the
+- [04:21:11,090 - 04:21:13,050] three most important personal and spiritual goals.
+- [04:21:13,170 - 04:21:15,170] How are you doing with these?
+- [04:21:15,170 - 04:21:18,170] Are you making progress a little each day?
+- [04:21:18,170 - 04:21:20,170] A little each day?
+- [04:21:20,170 - 04:21:24,170] Are you appreciative of the progress you've made so far?
+- [04:21:24,170 - 04:21:29,170] It's important that you take time out to acknowledge yourself, your
+- [04:21:29,170 - 04:21:34,170] achievements, what you've done so far, where you've come, who you've become.
+- [04:21:34,170 - 04:21:37,170] Self-appreciation is a stage in building
+- [04:21:37,170 - 04:21:40,170] ambition that takes a little more maturity.
+- [04:21:40,170 - 04:21:42,170] A greater resolve.
+- [04:21:42,170 - 04:21:43,050] Knowing that.
+- [04:21:43,050 - 04:21:45,050] Knowing that you'll do it until.
+- [04:21:45,050 - 04:21:48,050] Until you get it done.
+- [04:21:48,050 - 04:21:50,050] And taking the time out
+- [04:21:50,050 - 04:21:52,050] to acknowledge yourself for doing it.
+- [04:21:53,050 - 04:21:56,050] Self-appreciation comes from already being firmly
+- [04:21:56,050 - 04:21:59,050] set on the course of positive self-direction.
+- [04:21:59,050 - 04:22:01,050] Being on the right track.
+- [04:22:01,050 - 04:22:06,050] Having that wonderful blend of humility and self-esteem.
+- [04:22:06,050 - 04:22:08,050] Knowing within yourself that
+- [04:22:08,050 - 04:22:10,050] you're accomplishing your goals.
+- [04:22:10,050 - 04:22:12,050] And knowing yourself enough.
+- [04:22:12,050 - 04:22:15,050] And being confident in yourself
+- [04:22:15,050 - 04:22:18,050] enough to avoid needless bragging.
+- [04:22:18,050 - 04:22:20,550] Self-appreciation says that you
+- [04:22:20,550 - 04:22:23,050] admit there's room for improvement.
+- [04:22:23,050 - 04:22:25,550] Knowing that you're on the right track,
+- [04:22:25,550 - 04:22:28,050] but admitting the need for continued growth.
+- [04:22:28,050 - 04:22:29,050] More books.
+- [04:22:29,050 - 04:22:30,050] More seminars.
+- [04:22:30,050 - 04:22:31,050] More skills.
+- [04:22:31,050 - 04:22:33,050] More disciplines.
+- [04:22:33,050 - 04:22:35,050] Greater awareness.
+- [04:22:35,050 - 04:22:36,050] Bigger vision.
+- [04:22:36,050 - 04:22:39,050] There's always more room to grow.
+- [04:22:39,050 - 04:22:41,050] There's always more knowledge to gain.
+- [04:22:41,050 - 04:22:43,050] Always more skills to perfect.
+- [04:22:43,050 - 04:22:46,050] We're never done with the education process.
+- [04:22:46,050 - 04:22:49,050] Because education is part of the path to wealth.
+- [04:22:49,050 - 04:22:53,050] Education and learning is part of the path to health.
+- [04:22:53,050 - 04:22:55,550] Continued education can turn you around
+- [04:22:55,550 - 04:22:58,050] if you're headed in the wrong direction.
+- [04:22:58,050 - 04:23:02,050] We must never stop learning, growing, expanding.
+- [04:23:02,050 - 04:23:05,050] And we must never forget to take
+- [04:23:05,050 - 04:23:08,050] time to appreciate ourselves for what we've done.
+- [04:23:08,050 - 04:23:09,050] And we must never forget to take
+- [04:23:09,050 - 04:23:10,050] time to appreciate ourselves for what we've done.
+- [04:23:10,050 - 04:23:12,050] For what we've done, in pursuit
+- [04:23:12,050 - 04:23:14,050] of what we want to become.
+- [04:23:35,050 - 04:23:38,050] So far in this series on the power of ambition,
+- [04:23:38,050 - 04:23:40,900] we've addressed a brief history of ambition in
+- [04:23:40,900 - 04:23:43,750] this great country of ours and we've talked about
+- [04:23:43,750 - 04:23:46,840] the six steps of building our ambition before
+- [04:23:46,840 - 04:23:49,930] we go into how ambition affects our personal lives
+- [04:23:49,930 - 04:23:54,340] let me just review the steps we've covered
+- [04:23:54,340 - 04:23:58,750] so far step one positive self-direction knowing who you
+- [04:23:58,750 - 04:24:02,530] are and where you want to go with
+- [04:24:02,530 - 04:24:06,310] your life step two is self-reliance taking responsibility for
+- [04:24:06,310 - 04:24:10,150] your own life and taking responsibility for all
+- [04:24:10,150 - 04:24:13,990] that happens in your life step three self-discipline
+- [04:24:14,950 - 04:24:18,700] addressing ambition at the daily level doing all you
+- [04:24:18,700 - 04:24:22,450] can every day every day every day and doing
+- [04:24:22,450 - 04:24:26,230] it until you get there knowing that the pain
+- [04:24:26,230 - 04:24:30,010] of discipline weighs ounces and the pain of regret
+- [04:24:30,010 - 04:24:33,150] weighs tons step four is self-enterprise
+- [04:24:33,150 - 04:24:36,290] keeping your eyes and ears open
+- [04:24:36,310 - 04:24:39,940] at all times being aware of opportunities around
+- [04:24:39,940 - 04:24:43,570] you and being able to create opportunities that'll
+- [04:24:43,570 - 04:24:46,510] keep you on the road to success step
+- [04:24:46,510 - 04:24:49,450] five in building your ambition is working with others
+- [04:24:49,450 - 04:24:52,930] learning how to effectively communicate with those
+- [04:24:52,930 - 04:24:56,410] around you learning how to maximize your networking
+- [04:24:56,410 - 04:25:00,550] abilities and learning to work with those who deserve
+- [04:25:00,550 - 04:25:04,690] it not those who need it and step six is
+- [04:25:06,310 - 04:25:08,650] fueling your accomplishments tomorrow
+- [04:25:08,650 - 04:25:10,990] by acknowledging your successes today
+- [04:25:12,430 - 04:25:16,240] each of these six building blocks works together
+- [04:25:16,240 - 04:25:20,050] in creating energy directing energy to fuel our
+- [04:25:20,050 - 04:25:23,560] ambitions so as we talk now about ambition and
+- [04:25:23,560 - 04:25:27,070] how it affects our personal life let's make sure to
+- [04:25:27,070 - 04:25:30,220] remember the building blocks that we've already
+- [04:25:30,220 - 04:25:33,370] discussed balancing your personal life with your
+- [04:25:36,310 - 04:25:40,060] ambition work for you home life work life
+- [04:25:40,060 - 04:25:43,810] they must work together making sure that what you're
+- [04:25:43,810 - 04:25:46,700] going for in your career compliments your home
+- [04:25:46,700 - 04:25:49,590] life making sure that what goes on at home
+- [04:25:49,590 - 04:25:53,480] complements your career one won't work well if the
+- [04:25:53,480 - 04:25:57,370] other doesn't lady gets into work early in the
+- [04:25:57,370 - 04:26:00,670] morning is the last one to leave every night
+- [04:26:00,670 - 04:26:03,970] this keeps going on week after week month after month
+- [04:26:03,970 - 04:26:06,490] doesn't seem like she gets that much
+- [04:26:06,490 - 04:26:09,010] more accomplished than everyone else matter of fact
+- [04:26:09,010 - 04:26:12,940] it seems like she's using the office to
+- [04:26:12,940 - 04:26:16,870] escape from home something's wrong here better fix it
+- [04:26:17,470 - 04:26:19,570] chances are that whatever's bothering her
+- [04:26:19,570 - 04:26:21,670] at home is affecting her work anyway
+- [04:26:23,410 - 04:26:26,050] a guy's always late for work always takes off
+- [04:26:26,050 - 04:26:28,690] during the middle of the day to go home
+- [04:26:29,570 - 04:26:33,010] there always seems to be some sort of emergency to
+- [04:26:33,010 - 04:26:36,450] tend to at home he takes long breaks leaves early
+- [04:26:36,450 - 04:26:39,610] to go home he's not getting his work done
+- [04:26:39,610 - 04:26:42,770] in record time he's not getting anything done at all
+- [04:26:43,410 - 04:26:46,650] chances are he's using the emergencies at home
+- [04:26:46,650 - 04:26:49,890] as an excuse to stay away from the job
+- [04:26:51,010 - 04:26:54,170] if something's wrong at work fix it if
+- [04:26:54,170 - 04:26:57,330] you can or look for your solution elsewhere
+- [04:26:58,210 - 04:26:58,450] if something's wrong at work fix it if you
+- [04:26:58,450 - 04:26:58,690] can or look for your solution elsewhere if something's
+- [04:26:58,690 - 04:27:03,090] wrong at home fix it if what's going on at home
+- [04:27:03,090 - 04:27:07,490] is the result of neglect admit it and fix it pay
+- [04:27:07,490 - 04:27:10,810] greater attention if you need to go to counseling
+- [04:27:10,810 - 04:27:14,130] go to counseling talk with your minister talk with
+- [04:27:14,130 - 04:27:17,330] a trusted friend but remember that whatever the
+- [04:27:17,330 - 04:27:20,530] problem is at home it probably didn't happen
+- [04:27:20,530 - 04:27:24,370] overnight so make sure to give it some time
+- [04:27:24,370 - 04:27:28,210] in the healing be patient now there's a balance
+- [04:27:28,210 - 04:27:30,650] between work time and home time professional time
+- [04:27:30,650 - 04:27:33,090] and personal time they both have to be working
+- [04:27:33,090 - 04:27:37,050] well in order to maximize your ambition
+- [04:27:37,050 - 04:27:41,010] and maximize your potential problems at home affect
+- [04:27:41,010 - 04:27:45,170] work problems at work affect home even when
+- [04:27:45,170 - 04:27:49,330] things are going well in both areas sometimes special
+- [04:27:49,330 - 04:27:52,930] circumstances call for the work time to take away from
+- [04:27:52,930 - 04:27:56,530] the home time and if that's the case make sure
+- [04:27:56,530 - 04:27:57,730] everybody works well
+- [04:27:58,210 - 04:28:01,530] at home knows when to expect the light at the
+- [04:28:01,530 - 04:28:04,850] end of the tunnel and if that extra project is really
+- [04:28:04,850 - 04:28:08,570] taking away from the family make sure your family
+- [04:28:08,570 - 04:28:12,290] knows that their time will be paid back with
+- [04:28:12,290 - 04:28:15,730] interest psychologists have found two major things that
+- [04:28:15,730 - 04:28:19,170] we as human beings get the most happiness and
+- [04:28:19,170 - 04:28:24,170] satisfaction from two things number one our
+- [04:28:24,170 - 04:28:29,170] work our contribution to society our continued progress
+- [04:28:29,170 - 04:28:33,370] toward reaching our goals our activity
+- [04:28:33,370 - 04:28:37,570] that generates our lifestyle influence power and
+- [04:28:37,570 - 04:28:42,090] number two love the love we receive from our
+- [04:28:42,090 - 04:28:46,610] spouse our children our parents our families our friends
+- [04:28:47,730 - 04:28:49,090] knowing that one person or
+- [04:28:49,170 - 04:28:52,370] several people care about us want to spend
+- [04:28:52,370 - 04:28:55,570] time with us the professional goals that you've
+- [04:28:55,570 - 04:28:58,530] outlined for yourself take a lot of work
+- [04:28:58,530 - 04:29:01,490] your ambition takes a lot of work discipline skills
+- [04:29:02,290 - 04:29:04,770] constant learning to improve yourself and
+- [04:29:04,770 - 04:29:07,250] develop yourself and improve your skills
+- [04:29:07,250 - 04:29:10,010] and develop your skills you don't expect that your
+- [04:29:10,010 - 04:29:12,770] achievements will come to you on a silver platter
+- [04:29:13,890 - 04:29:15,770] working on the wish and
+- [04:29:15,770 - 04:29:17,650] the hope and the prayer philosophy
+- [04:29:17,650 - 04:29:19,090] no you know
+- [04:29:19,170 - 04:29:21,200] Know that your goals require
+- [04:29:21,200 - 04:29:23,230] constant attention and discipline every day.
+- [04:29:23,990 - 04:29:24,810] Or they'll what?
+- [04:29:25,090 - 04:29:26,990] They'll never come to you at all.
+- [04:29:27,790 - 04:29:31,760] You can't just come home at night after work after a long day
+- [04:29:31,760 - 04:29:35,730] and expect that your family life is growing just fine all by itself.
+- [04:29:36,450 - 04:29:38,800] You can't just expect that your personal
+- [04:29:38,800 - 04:29:41,150] life will grow and flourish without attention.
+- [04:29:41,150 - 04:29:45,260] Without taking time to feed and water and weed out
+- [04:29:45,260 - 04:29:49,370] the bad stuff, the negative stuff that happens while you're away.
+- [04:29:50,389 - 04:29:54,649] No, creating the perfect personal life, family life, takes
+- [04:29:54,649 - 04:29:58,910] just as much attention as creating the perfect professional life.
+- [04:29:59,689 - 04:30:02,939] It takes love and nurturing
+- [04:30:02,939 - 04:30:06,189] and kindness and sincerity and caring.
+- [04:30:06,750 - 04:30:08,429] It takes all those things.
+- [04:30:09,129 - 04:30:11,049] And that's one of the biggest mistakes.
+- [04:30:11,150 - 04:30:12,290] That happens today.
+- [04:30:12,830 - 04:30:15,189] People spend all their time, focus
+- [04:30:15,189 - 04:30:17,549] all their energy, give everything they've got.
+- [04:30:17,870 - 04:30:19,549] They give it all to the job.
+- [04:30:20,309 - 04:30:21,610] It can't work that way.
+- [04:30:22,309 - 04:30:24,490] Your family requires more than that.
+- [04:30:25,549 - 04:30:28,849] The investment we make in our personal relationships before they're
+- [04:30:28,849 - 04:30:32,150] put on paper is the investment we must continue to make.
+- [04:30:33,889 - 04:30:35,990] The more we give, the more we get.
+- [04:30:37,030 - 04:30:38,629] If you stop giving, guess what?
+- [04:30:39,469 - 04:30:41,150] You'll probably stop receiving.
+- [04:30:41,650 - 04:30:43,150] You'll probably stop getting paid too.
+- [04:30:44,150 - 04:30:47,150] So keep your investment in relationships and family active.
+- [04:30:48,150 - 04:30:49,150] That's part of the good life.
+- [04:30:50,150 - 04:30:52,150] What good is a mansion on the hill
+- [04:30:52,150 - 04:30:54,150] if you've got no one to share it with?
+- [04:30:55,150 - 04:30:56,150] It's no good.
+- [04:30:57,150 - 04:30:59,650] What good is an investment portfolio worth millions
+- [04:30:59,650 - 04:31:02,150] if you've got no one to share it with?
+- [04:31:03,150 - 04:31:04,150] It's no good.
+- [04:31:04,150 - 04:31:07,150] What good is working so hard day after day, month after month,
+- [04:31:07,150 - 04:31:10,150] year after year, working, working, working until you accumulate everything you want.
+- [04:31:10,150 - 04:31:11,150] And in the meantime,
+- [04:31:11,150 - 04:31:13,150] your family left you.
+- [04:31:13,150 - 04:31:14,150] It's no good.
+- [04:31:15,150 - 04:31:17,150] It all loses its value.
+- [04:31:18,150 - 04:31:19,150] Life has to be balanced.
+- [04:31:19,150 - 04:31:21,150] Work hard, play hard.
+- [04:31:22,150 - 04:31:24,150] Work six days, take one day off.
+- [04:31:24,150 - 04:31:27,150] Work three months, take one week off.
+- [04:31:27,150 - 04:31:31,150] Life has to be balanced or your lifestyle will suffer.
+- [04:31:32,150 - 04:31:35,150] Life without balance can cost your relationships.
+- [04:31:36,150 - 04:31:38,150] Life without balance can cost your health.
+- [04:31:39,150 - 04:31:40,150] Life without balance can cost your life.
+- [04:31:40,150 - 04:31:42,150] Life without balance can cost your spirituality.
+- [04:31:43,150 - 04:31:46,150] Life without balance can
+- [04:31:46,150 - 04:31:49,150] cost your wealth, happiness, balance.
+- [04:31:50,150 - 04:31:51,150] Work on a balanced life.
+- [04:31:52,150 - 04:31:54,150] Work on balanced ambitions.
+- [04:31:55,150 - 04:31:57,150] If you're a believer, don't neglect it.
+- [04:31:57,150 - 04:32:01,150] Study and practice if you're a believer in spirituality.
+- [04:32:02,150 - 04:32:06,150] Nourish, study and practice the art of spirituality.
+- [04:32:06,150 - 04:32:07,650] Because we learned before that the great
+- [04:32:07,650 - 04:32:09,150] destroyer of all of us is neglect.
+- [04:32:09,150 - 04:32:13,150] Starts like an infection, becomes a disease.
+- [04:32:13,150 - 04:32:15,150] One neglect leads to another.
+- [04:32:15,150 - 04:32:18,150] Starts spinning out of control.
+- [04:32:18,150 - 04:32:20,150] Here's one thing to consider
+- [04:32:20,150 - 04:32:22,150] if you've neglected your spirituality.
+- [04:32:22,150 - 04:32:24,150] If you're a believer.
+- [04:32:24,150 - 04:32:26,650] Now, I'm not asking you to be a believer,
+- [04:32:26,650 - 04:32:29,150] but I'm asking that if you are a believer,
+- [04:32:29,150 - 04:32:32,150] do not neglect that part of your future.
+- [04:32:32,150 - 04:32:35,150] Study and practice as diligently as
+- [04:32:35,150 - 04:32:38,150] you study and practice ambition and parenting.
+- [04:32:38,150 - 04:32:41,150] And skills and success in the marketplace.
+- [04:32:42,150 - 04:32:44,150] Faith helps sustain ambition.
+- [04:32:45,150 - 04:32:48,150] Here's what else plays an important role in your ambition.
+- [04:32:48,150 - 04:32:51,150] Your physical side, your health.
+- [04:32:51,150 - 04:32:53,150] And here's some of the best
+- [04:32:53,150 - 04:32:55,150] advice I've got on the physical side.
+- [04:32:56,150 - 04:32:59,150] Ancient scripture says, treat your body like a temple.
+- [04:33:00,150 - 04:33:01,150] Excellent advice.
+- [04:33:02,150 - 04:33:04,650] Treat your body like a temple, meaning
+- [04:33:04,650 - 04:33:07,150] something you'd take extremely good care of.
+- [04:33:08,150 - 04:33:11,150] A temple, not a woodshed.
+- [04:33:11,150 - 04:33:12,150] No, a temple.
+- [04:33:12,150 - 04:33:14,150] And here's why.
+- [04:33:15,150 - 04:33:17,150] The mind and the body work together.
+- [04:33:17,150 - 04:33:20,150] You've got to have both functioning well.
+- [04:33:20,150 - 04:33:21,650] Here's one of the best ways
+- [04:33:21,650 - 04:33:23,150] I've come to look at it.
+- [04:33:23,150 - 04:33:25,650] Your body needs to be a good
+- [04:33:25,650 - 04:33:28,150] support system for the mind and the spirit.
+- [04:33:28,150 - 04:33:30,150] A good support system that can
+- [04:33:30,150 - 04:33:32,150] take you where you want to go.
+- [04:33:32,150 - 04:33:36,150] Support you with strength and energy and power and vitality.
+- [04:33:36,150 - 04:33:37,150] Here's a major part of it.
+- [04:33:37,150 - 04:33:39,150] Here's a major part of success.
+- [04:33:39,150 - 04:33:40,150] Vitality.
+- [04:33:41,150 - 04:33:43,650] I'm telling you, some people don't do
+- [04:33:43,650 - 04:33:46,150] well simply because they don't feel well.
+- [04:33:47,150 - 04:33:49,150] Now, feeling well is a personal responsibility.
+- [04:33:49,150 - 04:33:52,150] By taking care of the temple.
+- [04:33:52,150 - 04:33:55,150] It's the only place you've got to live.
+- [04:33:55,150 - 04:33:57,150] Your physical body.
+- [04:33:57,150 - 04:33:58,150] Cherish it.
+- [04:33:59,150 - 04:34:01,150] Ancient scripture says this, sometimes the spirit
+- [04:34:01,150 - 04:34:03,150] is willing but the body is weak.
+- [04:34:04,150 - 04:34:05,150] See, that's a sad combination.
+- [04:34:05,150 - 04:34:06,150] A willing spirit and a weak body.
+- [04:34:07,150 - 04:34:11,150] You can't think of a much more pitiful combination.
+- [04:34:11,150 - 04:34:13,150] You wake up in the morning and
+- [04:34:13,150 - 04:34:15,150] the mind says, let's go get them.
+- [04:34:15,150 - 04:34:16,650] And the body says, I
+- [04:34:16,650 - 04:34:18,150] can't even get out of bed.
+- [04:34:18,150 - 04:34:21,650] You now have to have a conversation with your body
+- [04:34:21,650 - 04:34:25,150] that says, that's the last time you're going to fail me.
+- [04:34:25,150 - 04:34:26,650] Give me the excuse that
+- [04:34:26,650 - 04:34:28,150] you can't get out of bed.
+- [04:34:28,150 - 04:34:30,650] I'll drive you to your knees
+- [04:34:30,650 - 04:34:33,150] to do pushups until you're exhausted.
+- [04:34:33,150 - 04:34:36,150] I've got these plans for fortune and enterprise.
+- [04:34:36,150 - 04:34:38,150] And there's one thing I'm going to demand.
+- [04:34:38,150 - 04:34:41,150] A strong, unbelievably powerful support system.
+- [04:34:41,150 - 04:34:44,150] From now on, I'm going to have a support
+- [04:34:44,150 - 04:34:47,150] system that will take me wherever I want to go.
+- [04:34:47,150 - 04:34:49,150] Support me with power.
+- [04:34:49,150 - 04:34:53,150] Support me with vitality, strength, uniqueness, zest.
+- [04:34:53,150 - 04:34:57,150] Anything less than that, I will not settle for.
+- [04:34:58,150 - 04:35:01,150] I'm telling you, you've got to take care
+- [04:35:01,150 - 04:35:04,150] of this physical side because it's so important.
+- [04:35:04,150 - 04:35:05,150] Be conscious of self.
+- [04:35:06,150 - 04:35:08,150] Of your support system.
+- [04:35:08,150 - 04:35:12,150] Be conscious of self, but not self-conscious.
+- [04:35:12,150 - 04:35:14,150] Don't work on it too
+- [04:35:14,150 - 04:35:16,150] much, more than you need to.
+- [04:35:16,150 - 04:35:18,150] You don't have to spend six hours
+- [04:35:18,150 - 04:35:20,150] a day to have a good support system.
+- [04:35:20,150 - 04:35:22,150] You don't have to.
+- [04:35:22,150 - 04:35:24,150] 30 minutes a day, one hour a day.
+- [04:35:24,150 - 04:35:27,150] And you can have a strong, healthy body.
+- [04:35:27,150 - 04:35:29,150] Exercise.
+- [04:35:29,150 - 04:35:32,150] You can do just a few simple things.
+- [04:35:32,150 - 04:35:34,150] Take the stairs instead of the elevator.
+- [04:35:34,150 - 04:35:35,150] Unless you're on the road.
+- [04:35:35,150 - 04:35:38,150] Unless you're on the 50th floor in New York.
+- [04:35:38,150 - 04:35:40,650] When you're looking for a parking space, don't look
+- [04:35:40,650 - 04:35:43,150] for the one that's right by the front door.
+- [04:35:43,150 - 04:35:45,150] Park a block away and
+- [04:35:45,150 - 04:35:47,150] get a little bit of exercise.
+- [04:35:47,150 - 04:35:51,150] But here's the best exercise program in the world.
+- [04:35:51,150 - 04:35:53,150] The one that'll work for you.
+- [04:35:53,150 - 04:35:55,150] The one that you'll do.
+- [04:35:55,150 - 04:35:58,150] The program that won't bore you or hurt you.
+- [04:35:58,150 - 04:36:00,650] If you don't like to jog, if your
+- [04:36:00,650 - 04:36:03,150] joints can't handle it, go for a walk.
+- [04:36:03,150 - 04:36:05,650] If you don't like to walk, take up
+- [04:36:05,650 - 04:36:08,150] swimming half a mile a few times a week.
+- [04:36:08,150 - 04:36:11,150] If you don't like exercise that
+- [04:36:11,150 - 04:36:14,150] seems like exercise, get into a sport.
+- [04:36:14,150 - 04:36:18,150] Like tennis or racquetball or basketball or softball.
+- [04:36:18,150 - 04:36:20,150] You don't have to do too much.
+- [04:36:20,150 - 04:36:24,150] Just enough to keep your body a good support system.
+- [04:36:24,150 - 04:36:26,150] Here's what else happens when you
+- [04:36:26,150 - 04:36:28,150] participate in a regular exercise program.
+- [04:36:28,150 - 04:36:31,150] You just plain feel better.
+- [04:36:31,150 - 04:36:32,150] Not just your body.
+- [04:36:32,150 - 04:36:34,150] But your mind.
+- [04:36:34,150 - 04:36:35,150] It's kind of a paradox.
+- [04:36:35,150 - 04:36:37,150] But the more physical activity you
+- [04:36:37,150 - 04:36:39,150] do, the less sleep you need.
+- [04:36:39,150 - 04:36:41,650] The more physical activity you
+- [04:36:41,650 - 04:36:44,150] do, the better your mind works.
+- [04:36:44,150 - 04:36:46,150] We've all heard of the runner's high.
+- [04:36:46,150 - 04:36:48,150] Well, it's true.
+- [04:36:48,150 - 04:36:51,150] 20 to 30 minutes of sustained
+- [04:36:51,150 - 04:36:54,150] activity starts releasing endorphins in our bloodstream.
+- [04:36:54,150 - 04:36:59,150] And endorphins are our body's natural secretion of morphine.
+- [04:36:59,150 - 04:37:01,150] No wonder they call it a runner's high.
+- [04:37:01,150 - 04:37:03,150] It is.
+- [04:37:03,150 - 04:37:05,650] Take care of the physical so
+- [04:37:05,650 - 04:37:08,150] that it becomes a happy support system.
+- [04:37:08,150 - 04:37:11,150] It'll have the muscle and the strength and the
+- [04:37:11,150 - 04:37:14,150] vitality to take you wherever you want to go.
+- [04:37:14,150 - 04:37:16,150] Accomplish whatever you want to accomplish.
+- [04:37:16,150 - 04:37:19,150] Develop a good support system to take care of you.
+- [04:37:19,150 - 04:37:23,150] And make all of your dreams come true.
+- [04:37:23,150 - 04:37:25,150] Because you've got to have the physical.
+- [04:37:25,150 - 04:37:27,150] Okay, and here's what else you need
+- [04:37:27,150 - 04:37:29,150] to pay attention to in the physical.
+- [04:37:29,150 - 04:37:32,150] Those things that could hurt you.
+- [04:37:32,150 - 04:37:36,150] Like overeating and smoking and too much alcohol.
+- [04:37:36,150 - 04:37:38,650] These things can destroy your temple
+- [04:37:38,650 - 04:37:41,150] just as surely as pure neglect.
+- [04:37:41,150 - 04:37:43,650] Now, a fine glass of wine with
+- [04:37:43,650 - 04:37:46,150] dinner is one of the joys of life.
+- [04:37:46,150 - 04:37:47,150] Lifestyle.
+- [04:37:47,150 - 04:37:49,150] But drinking too much too
+- [04:37:49,150 - 04:37:51,150] often will tear down your temple.
+- [04:37:51,150 - 04:37:53,150] And it'll do more than that.
+- [04:37:53,150 - 04:37:55,150] Drinking too much at business dinners or
+- [04:37:55,150 - 04:37:57,150] social dinners will end up alienating you
+- [04:37:57,150 - 04:37:59,150] from the professionals who know you.
+- [04:37:59,150 - 04:38:00,150] Know their limits.
+- [04:38:00,150 - 04:38:02,150] Make sure you know your limits.
+- [04:38:02,150 - 04:38:04,150] A fine glass of wine, yes.
+- [04:38:04,150 - 04:38:08,150] A bottle of wine, probably not.
+- [04:38:08,150 - 04:38:09,150] Know your limits.
+- [04:38:09,150 - 04:38:12,150] Pay attention to your behavior in the marketplace.
+- [04:38:12,150 - 04:38:16,150] Lest it cost you more than you'd like to pay.
+- [04:38:16,150 - 04:38:19,150] It's all about balance in life.
+- [04:38:19,150 - 04:38:22,150] How your ambition in the marketplace
+- [04:38:22,150 - 04:38:25,150] translates into a balanced life at home.
+- [04:38:25,150 - 04:38:26,650] If you're giving too much at work, pay
+- [04:38:26,650 - 04:38:28,150] it back to your family within a month.
+- [04:38:28,150 - 04:38:29,150] Balance.
+- [04:38:29,150 - 04:38:30,150] It's important.
+- [04:38:30,150 - 04:38:31,150] If you don't have balance, you have what?
+- [04:38:31,150 - 04:38:32,150] You'll end up paying too high a price.
+- [04:38:32,150 - 04:38:33,150] Sacrificing your family for your work.
+- [04:38:33,150 - 04:38:33,650] Being careful with your clients
+- [04:38:33,650 - 04:38:34,150] and careless with your children.
+- [04:38:34,150 - 04:38:35,150] Without balance, there's a price to pay.
+- [04:38:35,150 - 04:38:38,150] And we must all pay the price.
+- [04:38:38,150 - 04:38:40,150] And sometimes the price is just too high.
+- [04:38:40,150 - 04:38:42,150] So evaluate the price before you begin.
+- [04:38:42,150 - 04:38:43,150] What must I give to my family?
+- [04:38:43,150 - 04:38:44,150] What should I give to my children?
+- [04:38:44,150 - 04:38:45,150] What should I give to my family?
+- [04:38:45,150 - 04:38:46,150] What should I give to my children?
+- [04:38:46,150 - 04:38:47,150] And I'll tell you the answer.
+- [04:38:47,150 - 04:38:48,150] I'll give you a balance.
+- [04:38:48,150 - 04:38:49,150] A balance.
+- [04:38:49,150 - 04:38:50,150] A balance.
+- [04:38:50,150 - 04:38:51,150] A balance.
+- [04:38:51,150 - 04:38:52,150] A balance.
+- [04:38:52,150 - 04:38:53,150] A balance.
+- [04:38:53,150 - 04:38:54,150] A balance.
+- [04:38:54,150 - 04:38:55,150] A balance.
+- [04:38:55,150 - 04:38:56,150] A balance.
+- [04:38:56,150 - 04:38:57,150] A balance.
+- [04:38:57,150 - 04:38:58,150] A balance.
+- [04:38:58,150 - 04:39:01,330] What must I give up to achieve this goal?
+- [04:39:01,330 - 04:39:03,709] What must I become?
+- [04:39:03,709 - 04:39:05,490] Evaluate it all.
+- [04:39:05,490 - 04:39:08,080] Now, do you think your disciplines
+- [04:39:08,080 - 04:39:10,669] at work can affect your personal life?
+- [04:39:10,669 - 04:39:12,750] Do you think the skills you
+- [04:39:12,750 - 04:39:14,830] perfect at work affect your personal life?
+- [04:39:14,830 - 04:39:16,369] Of course.
+- [04:39:16,369 - 04:39:19,069] The skills you bring from work have
+- [04:39:19,069 - 04:39:21,770] an enormous bearing on your personal life.
+- [04:39:21,770 - 04:39:23,730] All disciplines affect each other.
+- [04:39:23,730 - 04:39:25,750] Nothing stands alone.
+- [04:39:25,750 - 04:39:26,750] Everything affects everything.
+- [04:39:26,750 - 04:39:26,949] Everything.
+- [04:39:27,150 - 04:39:28,150] Everything matters.
+- [04:39:28,150 - 04:39:30,830] Yes, there are some things that don't matter
+- [04:39:30,830 - 04:39:33,509] as much, but there isn't anything that doesn't
+- [04:39:33,509 - 04:39:34,970] matter.
+- [04:39:34,970 - 04:39:36,890] Nothing at all.
+- [04:39:36,890 - 04:39:39,310] Be not casual in your approach
+- [04:39:39,310 - 04:39:41,730] to life and business and family.
+- [04:39:41,730 - 04:39:43,410] Don't be casual.
+- [04:39:43,410 - 04:39:44,910] Everything matters.
+- [04:39:44,910 - 04:39:47,330] How you treat your children will
+- [04:39:47,330 - 04:39:49,750] undoubtedly affect how you treat your clients.
+- [04:39:49,750 - 04:39:53,070] How you run your office will undoubtedly
+- [04:39:53,070 - 04:39:56,390] affect how you run your life, your home.
+- [04:39:56,390 - 04:39:56,750] Everything matters.
+- [04:39:57,150 - 04:39:58,150] That's why you can't have all the time
+- [04:39:58,150 - 04:39:59,150] and money you need to get a job.
+- [04:39:59,150 - 04:39:59,900] The only thing that matters is the money
+- [04:39:59,900 - 04:40:00,650] you make, not your family, your friends, your
+- [04:40:00,650 - 04:40:01,650] family.
+- [04:40:01,650 - 04:40:03,650] We're talking about the money you make.
+- [04:40:03,650 - 04:40:05,100] And we're talking about the
+- [04:40:05,100 - 04:40:06,550] money that you take with you.
+- [04:40:06,550 - 04:40:10,470] Now, let's look at leadership.
+- [04:40:10,470 - 04:40:13,209] The skills of leadership are required at work,
+- [04:40:13,209 - 04:40:15,949] yes, but they're also required at home, with
+- [04:40:15,949 - 04:40:21,010] our families, in the community, in education.
+- [04:40:21,010 - 04:40:23,420] I call leadership the challenge
+- [04:40:23,420 - 04:40:25,830] to be something more than mediocre.
+- [04:40:25,830 - 04:40:26,970] A step up to the new challenge.
+- [04:40:26,970 - 04:40:30,249] challenge the new opportunity it was said of
+- [04:40:30,249 - 04:40:33,529] abraham lincoln that he was at his mother's
+- [04:40:33,529 - 04:40:37,369] bedside when she died her last words were be
+- [04:40:37,369 - 04:40:41,209] somebody abe and if that story is true evidently
+- [04:40:41,209 - 04:40:44,969] he took it to heart and proceeded from that moment
+- [04:40:44,969 - 04:40:48,730] to become somebody now when it comes to being a
+- [04:40:48,730 - 04:40:52,049] leader if you really want to attract quality people
+- [04:40:52,049 - 04:40:55,369] the key is to become a person of quality
+- [04:40:57,369 - 04:41:00,569] leadership the ability to attract someone to the
+- [04:41:00,569 - 04:41:03,769] gifts and skills and opportunities you offer as an
+- [04:41:03,769 - 04:41:07,649] owner as a manager as a parent i call leadership
+- [04:41:07,649 - 04:41:11,529] the great challenge of life in a wide variety of
+- [04:41:11,529 - 04:41:15,689] areas in science and politics industry and
+- [04:41:15,689 - 04:41:19,849] education sales and here's a major one here's
+- [04:41:19,849 - 04:41:22,929] one of the greatest the challenge of
+- [04:41:22,929 - 04:41:26,010] parenting the greatest challenge of leadership is parenting
+- [04:41:26,970 - 04:41:29,570] not just getting our sales people ready for
+- [04:41:29,570 - 04:41:32,170] the 21st century not just getting our business
+- [04:41:32,170 - 04:41:36,250] colleagues ready for the 21st century but getting
+- [04:41:36,250 - 04:41:40,330] our children ready for the 21st century but now
+- [04:41:40,330 - 04:41:43,410] here's what's important in leadership refinement
+- [04:41:43,410 - 04:41:46,490] all great leadership keeps working on itself
+- [04:41:46,490 - 04:41:50,969] until it becomes refined and effective and here's
+- [04:41:50,969 - 04:41:55,449] some refinement learn to be strong but not rude
+- [04:41:56,970 - 04:42:00,209] refinement these are the extra steps to become a
+- [04:42:00,209 - 04:42:03,449] powerful capable leader with a wide range of reach
+- [04:42:04,330 - 04:42:06,929] some people mistake rudeness for strength
+- [04:42:06,929 - 04:42:09,529] it's not even a good substitute
+- [04:42:11,050 - 04:42:14,850] next be kind but not weak we must
+- [04:42:14,850 - 04:42:18,650] not mistake weakness for kindness kindness isn't weak
+- [04:42:20,010 - 04:42:23,250] kindness is a certain type of strength we must be
+- [04:42:23,250 - 04:42:26,490] kind enough to tell somebody the truth we must be
+- [04:42:26,490 - 04:42:29,849] kind enough and considerate enough to lay it on the
+- [04:42:29,849 - 04:42:33,209] line we must be kind enough to tell it like it
+- [04:42:33,209 - 04:42:38,329] is and not deal in delusion next learn to be bold
+- [04:42:38,329 - 04:42:43,449] but not a bully it does take boldness to win the
+- [04:42:43,449 - 04:42:46,769] day to build your ambitions you've got to stride
+- [04:42:46,769 - 04:42:50,090] out front you've got to be willing to take the
+- [04:42:50,090 - 04:42:53,330] first arrow to take the first problem first
+- [04:42:53,330 - 04:42:56,570] trouble i think we'd all agree that farming is
+- [04:42:56,570 - 04:42:59,850] not an easy job we must face the weeds and
+- [04:42:59,850 - 04:43:03,130] the rains and the bugs straight on it's not an easy
+- [04:43:03,130 - 04:43:06,290] task but if you want any value at harvest you've
+- [04:43:06,290 - 04:43:09,450] got to press you've got to be bold you've got to
+- [04:43:09,450 - 04:43:13,330] seize it here's the next one you've got to be
+- [04:43:13,330 - 04:43:17,210] humble but not timid you can't get to the high
+- [04:43:17,210 - 04:43:18,640] life by being timid some people mistake
+- [04:43:18,640 - 04:43:20,070] timidness for humility some people mistake timidness for
+- [04:43:20,070 - 04:43:20,080] timidness for humility some people mistake timidness
+- [04:43:20,080 - 04:43:20,090] for humility some people mistake timidness for
+- [04:43:20,090 - 04:43:24,250] timidity for humility but humility is a virtue
+- [04:43:24,250 - 04:43:28,410] timidity is a disease it's an affliction now it
+- [04:43:28,410 - 04:43:32,570] can be cured but it is a problem humility is
+- [04:43:32,570 - 04:43:36,730] almost a god-like word a sense of awe a sense of
+- [04:43:36,730 - 04:43:40,610] wonder an awareness of the human soul and
+- [04:43:40,610 - 04:43:44,490] spirit something unique about the human drama versus
+- [04:43:44,490 - 04:43:47,250] the rest of life humility is a grasp
+- [04:43:47,250 - 04:43:50,010] of the distance between us and the stars
+- [04:43:50,010 - 04:43:51,290] humility is a grasp of the distance between us
+- [04:43:51,290 - 04:43:52,570] and the stars yet having the feeling that we're part
+- [04:43:52,570 - 04:43:55,650] yet having the feeling that we're part of the
+- [04:43:55,650 - 04:43:58,730] stars here's a good refinement be proud but not arrogant
+- [04:43:59,930 - 04:44:03,650] it takes pride to win the day it takes
+- [04:44:03,650 - 04:44:07,370] pride to build your ambition it takes pride in community
+- [04:44:07,370 - 04:44:10,570] it takes pride in cause accomplishment but the
+- [04:44:10,570 - 04:44:13,770] key is to be proud without being arrogant
+- [04:44:15,290 - 04:44:17,640] do you know the worst kind
+- [04:44:17,640 - 04:44:19,990] of arrogance arrogance from ignorance it's hardly
+- [04:44:19,990 - 04:44:23,469] tolerable and it can be expensive a young newlywed
+- [04:44:23,469 - 04:44:26,949] couple got some money from their parents to buy a
+- [04:44:26,949 - 04:44:29,829] new set of patio furniture young couple goes
+- [04:44:29,829 - 04:44:32,709] to the store and picks out the perfect set
+- [04:44:33,590 - 04:44:36,870] they go to the checkout and the clerk scans
+- [04:44:36,870 - 04:44:40,150] the upc code the couple says hey there's four chairs
+- [04:44:40,150 - 04:44:43,630] in this container you're only charging us for one
+- [04:44:43,630 - 04:44:47,110] clerk says i know my job she says arrogantly
+- [04:44:48,070 - 04:44:48,990] i stepped up here and scanned the control box and i found a
+- [04:44:48,990 - 04:44:49,910] box of clothes that was a little bit too big for me to wear
+- [04:44:49,910 - 04:44:49,940] i stepped up here and scanned the control box and i found a
+- [04:44:49,940 - 04:44:49,970] box of clothes that was a little bit too big for me to wear
+- [04:44:49,970 - 04:44:49,980] and i found a box of clothes that was
+- [04:44:49,980 - 04:44:49,990] a little bit too big for me to wear
+- [04:44:49,990 - 04:44:53,490] don't you think i know what i'm doing well
+- [04:44:53,490 - 04:44:56,990] the young couple tried to explain that she was wrong
+- [04:44:56,990 - 04:44:59,610] clerk wouldn't listen young couple got four
+- [04:44:59,610 - 04:45:02,230] beautiful patio chairs for the price of one
+- [04:45:03,869 - 04:45:06,289] now do you think the store clerk will alter
+- [04:45:06,289 - 04:45:08,709] her arrogant attitude when it's time to close out her
+- [04:45:08,709 - 04:45:13,549] cash drawer probably so ignorant arrogance is the worst
+- [04:45:13,549 - 04:45:18,390] kind if a guy's smart and arrogant we can
+- [04:45:18,390 - 04:45:19,169] tolerate that but if a guy's just a little
+- [04:45:19,169 - 04:45:19,949] bit arrogant he's going to be a little bit arrogant
+- [04:45:19,970 - 04:45:19,980] he's going to be a little bit arrogant
+- [04:45:19,980 - 04:45:19,990] he's going to be a little bit arrogant
+- [04:45:19,990 - 04:45:21,910] dumb and arrogant i mean
+- [04:45:21,910 - 04:45:23,830] that's just too much to take
+- [04:45:25,510 - 04:45:29,189] and here's the next one humor without folly
+- [04:45:29,189 - 04:45:32,869] that's important for a leader humor yes but
+- [04:45:32,869 - 04:45:37,529] folly no in leadership we learn it's okay to be
+- [04:45:37,529 - 04:45:42,189] witty but not silly witty but not silly fun but
+- [04:45:42,189 - 04:45:46,049] not foolish next deal in realities deal in truth
+- [04:45:46,049 - 04:45:49,910] save yourself the adage that you're not a fool
+- [04:45:49,910 - 04:45:54,440] just accept it like it is life is unique accept
+- [04:45:54,440 - 04:45:58,970] it as unique some people call it tragic but i'd like
+- [04:45:58,970 - 04:46:03,070] to think it's unique the whole drama of
+- [04:46:03,070 - 04:46:07,170] life is unique fascinating life is unique leadership is
+- [04:46:07,170 - 04:46:10,470] unique the skills that work well for one leader
+- [04:46:10,470 - 04:46:13,770] may not work at all for another but the fundamental
+- [04:46:13,770 - 04:46:16,410] skills of leadership can probably be massaged a
+- [04:46:16,410 - 04:46:19,050] bit to work well for just about everyone
+- [04:46:19,910 - 04:46:23,170] at work in the community at home
+- [04:46:30,930 - 04:46:33,550] many people assume that the skills involved
+- [04:46:33,550 - 04:46:36,170] in having a good solid family come naturally
+- [04:46:37,289 - 04:46:40,929] to who they don't teach how to raise a
+- [04:46:40,929 - 04:46:44,570] family 101 how to raise a family 102 in school
+- [04:46:45,410 - 04:46:47,610] they don't they should but
+- [04:46:47,610 - 04:46:49,810] they don't people tend to assume
+- [04:46:49,910 - 04:46:51,720] that good leaders in the community
+- [04:46:51,720 - 04:46:53,530] are automatically good leaders at home
+- [04:46:55,410 - 04:46:57,450] so what are some of the skills
+- [04:46:57,450 - 04:46:59,490] involved in raising a good solid family
+- [04:47:00,970 - 04:47:03,470] communication is number one every member of the
+- [04:47:03,470 - 04:47:05,970] family has to know that they have a voice
+- [04:47:06,690 - 04:47:09,890] and that their voice is respected every person in
+- [04:47:09,890 - 04:47:13,090] the family has to know that their opinions count
+- [04:47:14,010 - 04:47:16,510] that the family is a democracy that if there's
+- [04:47:16,510 - 04:47:19,010] an issue they can put it on the table
+- [04:47:19,910 - 04:47:22,720] and that's what's so important about the dinner table
+- [04:47:22,720 - 04:47:25,530] it's not just a place for the evening meal
+- [04:47:26,530 - 04:47:29,510] no it's a place to bring out all the
+- [04:47:29,510 - 04:47:32,490] issues to talk about the day to share experiences to
+- [04:47:32,490 - 04:47:36,230] ask questions and hope for answers around the
+- [04:47:36,230 - 04:47:39,970] dinner table now in today's society there are
+- [04:47:39,970 - 04:47:43,160] a lot of broken homes divorced parents that share custody of the kids how do you raise good solid
+- [04:47:43,160 - 04:47:46,350] kids when they're split between two neighbors changing the school time ahora toda la vida será la remiseria al
+- [04:47:46,350 - 04:47:48,540] How do you raise good, solid
+- [04:47:48,540 - 04:47:50,730] kids when they're split between two households?
+- [04:47:51,810 - 04:47:53,460] Make sure the philosophies
+- [04:47:53,460 - 04:47:55,110] in both households are compatible.
+- [04:47:56,230 - 04:47:58,870] Now, obviously, the reigning philosophies are different.
+- [04:47:59,770 - 04:48:00,990] That's why the home is split.
+- [04:48:01,750 - 04:48:04,220] But for you parents facing this kind
+- [04:48:04,220 - 04:48:06,690] of challenge, put away the personal differences
+- [04:48:06,690 - 04:48:08,980] and develop one set of philosophies
+- [04:48:08,980 - 04:48:11,270] by which to raise the kids.
+- [04:48:11,610 - 04:48:12,090] Why?
+- [04:48:12,830 - 04:48:15,370] Because if you don't, the kids will be a mess.
+- [04:48:15,370 - 04:48:17,530] One set of rules for one house,
+- [04:48:17,530 - 04:48:19,690] another set of rules for another house.
+- [04:48:20,770 - 04:48:22,110] No, you can't do this.
+- [04:48:22,170 - 04:48:24,720] Because if you do, the kids will grow
+- [04:48:24,720 - 04:48:27,270] up confused as to what's right and what's wrong.
+- [04:48:28,010 - 04:48:31,200] So regardless of how your household is set
+- [04:48:31,200 - 04:48:34,390] up, make sure that communication plays a vital role.
+- [04:48:35,410 - 04:48:36,490] Everybody needs a voice.
+- [04:48:37,010 - 04:48:38,430] Everybody has to be heard.
+- [04:48:39,030 - 04:48:40,950] And everybody has to acknowledge
+- [04:48:40,950 - 04:48:42,870] that everyone else's voice counts.
+- [04:48:43,450 - 04:48:44,670] That's number one.
+- [04:48:44,850 - 04:48:45,230] Communication.
+- [04:48:45,370 - 04:48:45,530] Communication.
+- [04:48:46,510 - 04:48:49,150] Here's number two in raising a solid family.
+- [04:48:49,490 - 04:48:50,050] Activity.
+- [04:48:51,150 - 04:48:53,340] There was a study done a while back
+- [04:48:53,340 - 04:48:55,530] that surveyed a large group of happy families.
+- [04:48:55,670 - 04:48:57,710] And here's what they all had in common.
+- [04:48:58,530 - 04:49:01,490] First thing, they made a regular habit out
+- [04:49:01,490 - 04:49:04,450] of eating dinner together as often as possible.
+- [04:49:05,890 - 04:49:08,410] Second thing, they were all involved
+- [04:49:08,410 - 04:49:10,930] in one physical activity or another.
+- [04:49:11,130 - 04:49:13,830] Walks, tennis, swimming, basketball.
+- [04:49:14,550 - 04:49:15,350] They played.
+- [04:49:15,530 - 04:49:18,130] Planned family physical fitness activities.
+- [04:49:19,330 - 04:49:21,990] Third thing, they made a regular
+- [04:49:21,990 - 04:49:24,650] habit of spending Sunday mornings in church.
+- [04:49:25,690 - 04:49:27,340] And the fourth common
+- [04:49:27,340 - 04:49:28,990] denominator between successful families,
+- [04:49:29,650 - 04:49:34,650] the parents scheduled quality personal time together alone.
+- [04:49:35,750 - 04:49:38,040] So why would the parents personal
+- [04:49:38,040 - 04:49:40,330] time affect the entire family so dramatically?
+- [04:49:41,330 - 04:49:43,650] Because when the parents are happy with each other
+- [04:49:44,250 - 04:49:45,350] and invest in each other,
+- [04:49:45,910 - 04:49:48,410] they present a unified front to the kids.
+- [04:49:48,870 - 04:49:50,250] Personal time together.
+- [04:49:50,910 - 04:49:51,810] It's important.
+- [04:49:53,170 - 04:49:54,780] So the second key in
+- [04:49:54,780 - 04:49:56,390] raising a solid family is activity.
+- [04:49:56,750 - 04:49:59,760] Outside activity, planned activity, bike rides in
+- [04:49:59,760 - 04:50:02,770] the summer, ski trips in the winter,
+- [04:50:03,310 - 04:50:06,980] boating, fishing, trips to the zoo,
+- [04:50:06,980 - 04:50:10,650] frisbee in the yard, baseball, softball, basketball.
+- [04:50:11,130 - 04:50:13,240] Whatever interest your family has, make
+- [04:50:13,240 - 04:50:15,350] sure you take time to schedule.
+- [04:50:15,510 - 04:50:17,880] These kinds of activities outside
+- [04:50:17,880 - 04:50:20,250] activities on a regular basis.
+- [04:50:21,650 - 04:50:24,040] And then schedule inside activities, doing things
+- [04:50:24,040 - 04:50:26,430] together at home on a regular basis.
+- [04:50:27,130 - 04:50:29,840] If you've got a young family that's gotten used to
+- [04:50:29,840 - 04:50:32,550] plopping down in front of the TV during every spare moment,
+- [04:50:33,010 - 04:50:36,330] start weaning them off this activity one day a week.
+- [04:50:37,210 - 04:50:39,490] Plan one evening a week without the TV.
+- [04:50:40,450 - 04:50:42,430] And during this time, read
+- [04:50:42,430 - 04:50:44,410] together, work on household projects together,
+- [04:50:44,750 - 04:50:48,230] go through the family picture albums and videos together.
+- [04:50:48,789 - 04:50:50,570] Plan vacations together.
+- [04:50:51,869 - 04:50:53,150] Start a family journal.
+- [04:50:53,390 - 04:50:56,720] Write in it once a week what all you did, where all
+- [04:50:56,720 - 04:51:00,050] you went, and what all you saw and how all you felt.
+- [04:51:01,050 - 04:51:03,770] Family journals are a wonderful way of tracking the
+- [04:51:03,770 - 04:51:06,490] growth of your family and the growth of your kids.
+- [04:51:07,350 - 04:51:10,170] When you look back on these family journals, you'll
+- [04:51:10,170 - 04:51:12,990] find they're one of the greatest treasures you have.
+- [04:51:13,030 - 04:51:13,990] And here's what you'll find.
+- [04:51:13,990 - 04:51:15,550] And here's another fun way to
+- [04:51:15,550 - 04:51:17,110] log the history of your family.
+- [04:51:18,330 - 04:51:19,910] A friend of mine tells that when
+- [04:51:19,910 - 04:51:21,490] she was a kid, one of three,
+- [04:51:22,250 - 04:51:25,350] in a family where sibling rivalry was at its height,
+- [04:51:26,130 - 04:51:28,390] her parents used to hide a tape recorder
+- [04:51:28,390 - 04:51:30,650] under the dining room table every so often
+- [04:51:30,650 - 04:51:33,850] and tape the family dinner conversation.
+- [04:51:35,010 - 04:51:36,870] Wow, those kids get together now and
+- [04:51:36,870 - 04:51:38,730] have a great time with this stuff.
+- [04:51:39,430 - 04:51:41,020] They're grown now, but when they
+- [04:51:41,020 - 04:51:42,610] look back and listen to their upbringing,
+- [04:51:42,610 - 04:51:42,730] they're growing.
+- [04:51:43,250 - 04:51:43,289] They're growing.
+- [04:51:43,289 - 04:51:43,330] They're growing.
+- [04:51:43,330 - 04:51:43,350] They're growing.
+- [04:51:43,350 - 04:51:43,410] They're growing.
+- [04:51:43,410 - 04:51:43,470] They're growing.
+- [04:51:43,470 - 04:51:43,730] They're growing.
+- [04:51:43,730 - 04:51:43,750] They're growing.
+- [04:51:43,750 - 04:51:43,770] They're growing.
+- [04:51:43,770 - 04:51:43,810] They're growing.
+- [04:51:43,810 - 04:51:43,850] They're growing.
+- [04:51:43,850 - 04:51:43,970] They're growing.
+- [04:51:43,990 - 04:51:44,050] They're growing.
+- [04:51:44,050 - 04:51:44,090] They're growing.
+- [04:51:44,090 - 04:51:44,150] They're growing.
+- [04:51:44,150 - 04:51:44,190] They're growing.
+- [04:51:44,190 - 04:51:44,250] They're growing.
+- [04:51:44,250 - 04:51:46,209] They're rekindling the family bond.
+- [04:51:47,510 - 04:51:49,210] And here's the third most
+- [04:51:49,210 - 04:51:50,910] important key to raising a strong,
+- [04:51:51,070 - 04:51:53,949] healthy family with bonds that will last a lifetime,
+- [04:51:54,789 - 04:51:56,449] a spiritual connection.
+- [04:51:57,650 - 04:52:00,050] Now, I know that your beliefs are your own,
+- [04:52:00,709 - 04:52:03,819] and whether or not you call the power behind
+- [04:52:03,819 - 04:52:06,930] our existence God or not is entirely up to you.
+- [04:52:07,310 - 04:52:11,050] But whatever your faith is, whatever your beliefs are,
+- [04:52:11,230 - 04:52:13,709] share them with your family, share them with your children.
+- [04:52:13,709 - 04:52:13,789] Share them with your children.
+- [04:52:13,789 - 04:52:13,869] Share them with your children.
+- [04:52:13,869 - 04:52:13,890] Share them with your children.
+- [04:52:14,849 - 04:52:16,799] make time frequently to discuss
+- [04:52:16,799 - 04:52:18,750] the spiritual aspects of life
+- [04:52:19,609 - 04:52:21,729] Give your kids the opportunity of choice
+- [04:52:21,729 - 04:52:23,849] by giving them a basis of knowledge
+- [04:52:25,250 - 04:52:28,330] There are all sorts of wonderful programs at churches
+- [04:52:28,330 - 04:52:31,410] these days aside from the Sunday sermon. That's so valuable
+- [04:52:32,269 - 04:52:35,309] their Sunday school for kids vacation
+- [04:52:35,309 - 04:52:38,349] Bible school camping trips family outings
+- [04:52:38,769 - 04:52:43,269] weekly Bible studies picnics plays musicals concerts
+- [04:52:44,109 - 04:52:47,119] If you're searching for a new church home visit several
+- [04:52:47,119 - 04:52:50,130] churches to find out which one is right for you
+- [04:52:51,189 - 04:52:53,779] There are many things you can do with
+- [04:52:53,779 - 04:52:56,369] your family to build strong bonds and healthy relationships
+- [04:52:56,990 - 04:52:59,310] The tips I gave you are just a few
+- [04:52:59,849 - 04:53:02,189] You may have other ideas and that's great
+- [04:53:02,709 - 04:53:05,869] Just remember that the more energy you expend on your
+- [04:53:05,869 - 04:53:09,029] family the more time and attention you give to your family
+- [04:53:09,250 - 04:53:12,090] The more love and attention you'll receive in return
+- [04:53:12,810 - 04:53:13,869] Your children will
+- [04:53:14,070 - 04:53:16,580] Love you unconditionally when they're young just make
+- [04:53:16,580 - 04:53:19,090] sure that when they grow up and know better
+- [04:53:20,090 - 04:53:21,970] That you've given them a
+- [04:53:21,970 - 04:53:23,850] reason to continue their unconditional love
+- [04:53:25,410 - 04:53:28,410] So be together with your family go to
+- [04:53:28,410 - 04:53:31,410] church together spend time together talk with each other
+- [04:53:32,330 - 04:53:34,730] Get to know your children who they are
+- [04:53:34,730 - 04:53:37,130] what their dreams are their visions of the future
+- [04:53:38,210 - 04:53:40,010] Get to know your children. They're
+- [04:53:40,010 - 04:53:41,810] not just miniature versions of you
+- [04:53:41,810 - 04:53:46,529] They're special little people with their own personalities
+- [04:53:47,709 - 04:53:51,639] The greatest satisfaction after a productive day's work the
+- [04:53:51,639 - 04:53:55,570] greatest satisfaction is coming home to a harmonious family
+- [04:53:56,789 - 04:53:59,899] Balance it's part of lifestyle. It's where ambition can
+- [04:53:59,899 - 04:54:03,010] lead you if you deem it part of your course
+- [04:54:06,130 - 04:54:08,130] You
+- [04:54:11,810 - 04:54:13,810] are
+- [04:54:13,810 - 04:54:15,810] the
+- [04:54:15,810 - 04:54:17,810] best
+- [04:54:17,810 - 04:54:19,810] The
+- [04:54:19,810 - 04:54:21,810] best
+- [04:54:21,810 - 04:54:24,990] The economics of ambition the rewards of ambition
+- [04:54:24,990 - 04:54:27,570] the final result of working hard
+- [04:54:27,570 - 04:54:30,150] burning the midnight oil doing it until
+- [04:54:31,150 - 04:54:33,480] Being disciplined to stay on track day
+- [04:54:33,480 - 04:54:35,810] after day week after week month after month
+- [04:54:36,810 - 04:54:38,990] What's all this working hard going to get you?
+- [04:54:39,609 - 04:54:41,609] Better put what's all this working?
+- [04:54:41,610 - 04:54:45,640] smart going to get you as you followed this program on the power
+- [04:54:45,640 - 04:54:49,670] of ambition as you've learned to set your goals and develop a game
+- [04:54:49,670 - 04:54:51,110] plan and
+- [04:54:51,110 - 04:54:53,190] use the tools of reflection and
+- [04:54:53,190 - 04:54:55,270] discipline in putting your life together as
+- [04:54:56,050 - 04:54:58,490] You're building your ambition to reach your destination
+- [04:54:59,150 - 04:55:00,670] surely
+- [04:55:00,670 - 04:55:02,870] Somewhere in your list you wrote down
+- [04:55:03,470 - 04:55:04,990] wealth
+- [04:55:04,990 - 04:55:07,210] I'm sure you didn't write down that you
+- [04:55:07,210 - 04:55:09,430] wanted to earn enough to just get by
+- [04:55:09,430 - 04:55:12,050] No, you probably wrote down that you
+- [04:55:12,050 - 04:55:14,670] wanted to have a certain amount of money
+- [04:55:15,630 - 04:55:18,090] To some it may be to earn 50,000
+- [04:55:18,090 - 04:55:20,550] a year to others. It may be to earn
+- [04:55:21,530 - 04:55:25,190] 500,000 a year or a million it doesn't matter
+- [04:55:25,730 - 04:55:28,860] You probably wrote down what you believe that you're
+- [04:55:28,860 - 04:55:31,990] capable of earning if you really exercised your potential
+- [04:55:32,630 - 04:55:35,690] What you want to earn the next year
+- [04:55:35,690 - 04:55:38,750] three years five years ten years in your lifetime?
+- [04:55:39,430 - 04:55:41,960] And that figure probably would be
+- [04:55:41,960 - 04:55:44,490] viewed by the majority as being rich
+- [04:55:45,610 - 04:55:47,610] Getting the most from your ambition
+- [04:55:48,310 - 04:55:50,310] being rewarded by your ambition
+- [04:55:51,130 - 04:55:55,230] Now I'm not talking about the incredible feelings of
+- [04:55:55,230 - 04:55:59,330] accomplishment. I'm talking about the tangible rewards of ambition
+- [04:56:00,030 - 04:56:01,840] how wealthy should you be
+- [04:56:01,840 - 04:56:03,650] in knowledge and in spirit as
+- [04:56:04,470 - 04:56:06,470] wealthy as you possibly can be
+- [04:56:07,470 - 04:56:09,390] How rich should you be?
+- [04:56:09,430 - 04:56:11,510] in dollars and investments as
+- [04:56:11,510 - 04:56:13,590] rich as you possibly can be
+- [04:56:14,510 - 04:56:18,280] Now I'm not talking greedy. I'm talking reward for success
+- [04:56:18,280 - 04:56:22,050] at the service of others not at the expense of others
+- [04:56:23,170 - 04:56:26,330] Is it okay to strive for success? Is
+- [04:56:26,330 - 04:56:29,490] it okay to strive to become rich and wealthy?
+- [04:56:30,610 - 04:56:33,330] Many people struggle with the concept of being rich
+- [04:56:34,330 - 04:56:36,710] Rich people lack morals rich people
+- [04:56:36,710 - 04:56:39,090] are cutthroat rich people don't care
+- [04:56:40,150 - 04:56:42,150] No, that's not true
+- [04:56:42,470 - 04:56:45,940] Now some rich people lack morals are cutthroat and don't
+- [04:56:45,940 - 04:56:49,410] care but a lot of poor people have those same traits
+- [04:56:50,130 - 04:56:53,750] So corruption is not inherent with being rich or wealthy
+- [04:56:54,750 - 04:56:57,730] Corruption is inherent with gaining at the expense of others
+- [04:56:58,790 - 04:57:00,790] Corruption is evil
+- [04:57:00,790 - 04:57:02,790] But wealth is not evil
+- [04:57:02,970 - 04:57:05,120] Wealth says discover your own talents and
+- [04:57:05,120 - 04:57:07,270] use them and take care of them
+- [04:57:07,610 - 04:57:09,370] so your own talents and skills
+- [04:57:09,370 - 04:57:11,450] and gifts can take care of you.
+- [04:57:12,270 - 04:57:14,520] I firmly believe the more that
+- [04:57:14,520 - 04:57:16,770] I ponder this topic of wealth,
+- [04:57:17,470 - 04:57:20,650] I firmly believe that it's our natural destiny to grow,
+- [04:57:20,830 - 04:57:24,090] to succeed, to prosper and to find happiness.
+- [04:57:24,690 - 04:57:26,580] So here's what I've learned to do
+- [04:57:26,580 - 04:57:28,470] to temper the words rich and wealthy.
+- [04:57:29,050 - 04:57:32,570] I call it becoming financially independent.
+- [04:57:33,550 - 04:57:36,130] That's a little easier than rich or wealthy
+- [04:57:36,130 - 04:57:38,180] because some people have this idea
+- [04:57:38,180 - 04:57:40,230] that to be wealthy or rich,
+- [04:57:40,449 - 04:57:42,109] you've got to misuse people.
+- [04:57:42,230 - 04:57:43,650] You've got to tell lies.
+- [04:57:44,170 - 04:57:46,410] You've got to throw away values.
+- [04:57:47,550 - 04:57:50,410] If being rich bothers you, don't pursue riches.
+- [04:57:51,269 - 04:57:53,470] Some people even tell me that the Bible says
+- [04:57:53,470 - 04:57:55,750] it's hard for a rich man to reach heaven.
+- [04:57:56,730 - 04:57:59,089] I say, well, that language suits me.
+- [04:57:59,189 - 04:58:00,769] It didn't say it was impossible.
+- [04:58:01,490 - 04:58:03,189] It just said it was hard.
+- [04:58:03,929 - 04:58:05,769] I don't mind a little hard stuff.
+- [04:58:06,130 - 04:58:08,630] I'm also reminded that the Bible
+- [04:58:08,630 - 04:58:11,130] says the meek shall inherit the earth.
+- [04:58:11,990 - 04:58:13,959] But where does it say that in order
+- [04:58:13,959 - 04:58:15,929] to be meek, you have to be poor?
+- [04:58:16,810 - 04:58:19,869] No, the Bible doesn't say you have to be poor.
+- [04:58:20,009 - 04:58:21,509] That's just an interpretation.
+- [04:58:22,869 - 04:58:25,730] A poor rationalization that lazy people use.
+- [04:58:26,509 - 04:58:29,250] People who need to justify their lack of progress.
+- [04:58:29,609 - 04:58:31,099] People who will give up
+- [04:58:31,099 - 04:58:32,589] in the midst of any adversity.
+- [04:58:33,429 - 04:58:35,109] People who don't even try.
+- [04:58:36,130 - 04:58:39,529] For everyone that's born in America or comes to America,
+- [04:58:39,689 - 04:58:41,150] here's part of your heritage.
+- [04:58:41,650 - 04:58:44,869] The opportunity to become financially independent.
+- [04:58:45,869 - 04:58:48,490] In a nation that's full of hope and promise,
+- [04:58:48,769 - 04:58:52,410] it's our heritage and our right and within our reach
+- [04:58:52,410 - 04:58:55,449] to realize all the best that exists,
+- [04:58:56,029 - 04:58:57,709] including personal wealth.
+- [04:58:58,670 - 04:59:01,050] So let me give you now, by definition,
+- [04:59:01,250 - 04:59:03,550] the meaning of financial independence.
+- [04:59:04,810 - 04:59:05,849] And kids go for this,
+- [04:59:05,850 - 04:59:07,730] because this is simple language.
+- [04:59:08,610 - 04:59:10,610] Financial independence is the ability
+- [04:59:10,610 - 04:59:12,610] to live from the income
+- [04:59:13,130 - 04:59:15,010] of your own personal resources.
+- [04:59:15,930 - 04:59:18,410] The ability to live from the
+- [04:59:18,410 - 04:59:20,890] income of your own personal resources.
+- [04:59:21,450 - 04:59:24,730] That I describe as financial independence.
+- [04:59:25,970 - 04:59:27,170] Now, one part of it
+- [04:59:27,170 - 04:59:28,370] is how you want to live.
+- [04:59:28,690 - 04:59:30,490] Some people need millions for
+- [04:59:30,490 - 04:59:32,290] all the projects they've got going.
+- [04:59:33,010 - 04:59:34,810] All the causes they support.
+- [04:59:35,850 - 04:59:37,570] And here's what's exciting about America.
+- [04:59:38,410 - 04:59:40,450] What if you decided you had to be rich
+- [04:59:41,050 - 04:59:42,810] to do all the things you wanted to do?
+- [04:59:42,810 - 04:59:44,090] Go all the places,
+- [04:59:44,610 - 04:59:46,250] support all the projects.
+- [04:59:47,010 - 04:59:48,290] What if you had to be rich?
+- [04:59:48,290 - 04:59:49,850] Are there books on the subject?
+- [04:59:50,290 - 04:59:51,450] Yes, of course.
+- [04:59:51,450 - 04:59:53,730] There's plenty of information on how to be rich.
+- [04:59:54,610 - 04:59:56,530] But if you don't have to be rich,
+- [04:59:56,530 - 04:59:58,370] you probably won't read the books.
+- [04:59:59,170 - 05:00:01,710] What drives you to go get the books
+- [05:00:01,710 - 05:00:04,250] is if you have to have the money.
+- [05:00:04,250 - 05:00:07,250] Now, some people don't need much money.
+- [05:00:07,250 - 05:00:08,370] I understand that.
+- [05:00:08,370 - 05:00:10,490] Some people lead modest lives.
+- [05:00:11,410 - 05:00:13,670] But financial independence, that I
+- [05:00:13,670 - 05:00:15,930] think is every American's heritage.
+- [05:00:16,610 - 05:00:20,010] Someday to become financially independent.
+- [05:00:20,770 - 05:00:23,810] The ability someday, someday to live off
+- [05:00:23,810 - 05:00:26,850] the income of your own personal resources.
+- [05:00:27,890 - 05:00:30,170] Wow, it's freedom of the
+- [05:00:30,170 - 05:00:32,450] most exciting kind, financial independence.
+- [05:00:32,450 - 05:00:34,490] Now to get there,
+- [05:00:35,610 - 05:00:38,090] I assume that you've got this money thing settled,
+- [05:00:38,090 - 05:00:40,410] that it's okay to be rich and wealthy.
+- [05:00:41,450 - 05:00:43,370] It depends on how you earn it, of course.
+- [05:00:44,330 - 05:00:46,130] Success at the service of others,
+- [05:00:46,130 - 05:00:47,930] not at the expense of others.
+- [05:00:49,050 - 05:00:51,690] Wealth by rendering wealthy amounts of service.
+- [05:00:52,730 - 05:00:55,130] Everybody has got to weigh this for themselves.
+- [05:00:55,130 - 05:00:56,330] I understand that.
+- [05:00:57,450 - 05:00:59,290] But let's say that you'd like
+- [05:00:59,290 - 05:01:01,130] to go for becoming financially independent.
+- [05:01:01,130 - 05:01:02,449] I understand that.
+- [05:01:02,449 - 05:01:03,089] Here's number one.
+- [05:01:04,170 - 05:01:06,269] It's a matter first of
+- [05:01:06,269 - 05:01:08,369] philosophy, the philosophy of the rich.
+- [05:01:09,209 - 05:01:13,250] Rich people invest their money and spend what's left.
+- [05:01:14,609 - 05:01:16,409] The difference in your economic future
+- [05:01:16,409 - 05:01:18,209] is going to be not the economy.
+- [05:01:19,849 - 05:01:21,669] The difference in your economic future
+- [05:01:21,669 - 05:01:23,490] is going to be your philosophy.
+- [05:01:24,689 - 05:01:27,170] Now I had one lady chastise me severely.
+- [05:01:27,170 - 05:01:29,810] She said, Mr. Rohn, you can't promise young people
+- [05:01:29,810 - 05:01:30,849] that they can become rich.
+- [05:01:30,850 - 05:01:33,930] rich and wealthy, financially independent. It's just
+- [05:01:33,930 - 05:01:37,010] not in the cards these days. It takes
+- [05:01:37,010 - 05:01:39,690] everything a person makes just to keep their head
+- [05:01:39,690 - 05:01:42,370] above water and the wolf away from the door.
+- [05:01:43,230 - 05:01:46,820] I said, no, that's not true. She said, it is
+- [05:01:46,820 - 05:01:50,410] true. You can't hold out hope to all people who listen
+- [05:01:50,410 - 05:01:53,460] to you telling them they can become
+- [05:01:53,460 - 05:01:56,510] financially independent, especially to children. They'll be
+- [05:01:56,510 - 05:02:00,140] sadly disillusioned. It's not in the cards these days.
+- [05:02:00,140 - 05:02:03,770] I said, gosh, I wish I could persuade you
+- [05:02:03,770 - 05:02:07,460] otherwise. I said, let me use this illustration. Can
+- [05:02:07,460 - 05:02:11,150] you think of a couple right now who makes
+- [05:02:11,150 - 05:02:14,510] $5,000 a month? She said, yes, if I think real
+- [05:02:14,510 - 05:02:17,870] hard, I could come up with a couple that makes
+- [05:02:17,870 - 05:02:21,870] $5,000 a month. What would they tell you it takes
+- [05:02:21,870 - 05:02:25,870] just to keep their head above water and the wolf
+- [05:02:25,870 - 05:02:26,180] away from the door? I said, no, that's not true.
+- [05:02:26,180 - 05:02:26,490] You can't hold out hope to all people who listen
+- [05:02:26,490 - 05:02:29,870] to you telling them they can become financially
+- [05:02:29,870 - 05:02:33,250] independent, but it takes everything a person makes
+- [05:02:33,250 - 05:02:37,790] $5,000 a month. I said, could you think of
+- [05:02:37,790 - 05:02:42,330] a couple that makes $5,500 a month? She said, yes,
+- [05:02:42,490 - 05:02:46,410] if I thought for a while, I could probably come
+- [05:02:46,410 - 05:02:50,330] up with a couple that makes $5,500 a month. I said,
+- [05:02:50,369 - 05:02:53,109] what would they tell you it takes just to
+- [05:02:53,109 - 05:02:55,850] keep their nose above water and the wolf away from
+- [05:02:55,850 - 05:03:00,090] the door they'd say all of it i said now if they
+- [05:03:00,090 - 05:03:04,330] said it took all of it how do you account for this
+- [05:03:04,330 - 05:03:08,650] extra five hundred dollars here's what happens
+- [05:03:08,650 - 05:03:12,970] there are errors in judgment on economic philosophy
+- [05:03:13,930 - 05:03:18,290] you say no mr roan it's the economy no
+- [05:03:18,290 - 05:03:22,650] it's the philosophy and if this couple saved this 500
+- [05:03:22,650 - 05:03:25,890] dollars and live like this couple over here
+- [05:03:25,890 - 05:03:29,130] on five thousand their extra five hundred dollars
+- [05:03:29,130 - 05:03:32,970] a month invested over the next 15
+- [05:03:32,970 - 05:03:36,810] years would make them financially independent the difference
+- [05:03:36,810 - 05:03:40,810] is not your paycheck the difference is your philosophy
+- [05:03:40,810 - 05:03:44,810] so now let me teach you some of the
+- [05:03:44,810 - 05:03:48,610] best philosophy i know what to do with a dollar
+- [05:03:48,610 - 05:03:52,410] here's what i suggest that kids do with a dollar
+- [05:03:53,209 - 05:03:55,849] i've got them all persuaded that it's
+- [05:03:55,849 - 05:03:58,490] okay to become rich and powerful financially independent
+- [05:03:59,369 - 05:04:03,169] and if you've got a dollar i tell my kids here's
+- [05:04:03,169 - 05:04:06,970] what you do with it to begin with never spend more
+- [05:04:06,970 - 05:04:11,129] than 70 cents and here's a good plan for
+- [05:04:11,129 - 05:04:15,289] the remaining 30 cents i suggest you take 10 cents
+- [05:04:15,289 - 05:04:18,929] out of every dollar and give it
+- [05:04:18,929 - 05:04:22,570] to charity here's why nothing teaches kids character
+- [05:04:22,650 - 05:04:26,290] better than generosity it helps you teach
+- [05:04:26,290 - 05:04:29,930] so many things generosity supporting worthy projects
+- [05:04:30,810 - 05:04:33,810] taking a piece of what you've been blessed with
+- [05:04:33,810 - 05:04:36,810] and turning it back to help people who can't help
+- [05:04:36,810 - 05:04:40,209] themselves worthy projects charity and the time
+- [05:04:40,209 - 05:04:43,609] to start is when the amounts are small
+- [05:04:44,570 - 05:04:46,889] i'm telling you that if a kid understands this
+- [05:04:46,889 - 05:04:49,209] he'll give you a dime out of every dollar
+- [05:04:49,209 - 05:04:50,729] once they understand and with that
+- [05:04:50,729 - 05:04:52,250] money things get the best idea
+- [05:04:52,650 - 05:04:55,490] it's easy to give a dime out of a dollar
+- [05:04:55,490 - 05:04:58,330] it's a little tougher to give a hundred thousand out of
+- [05:04:58,330 - 05:05:01,929] a million somebody says oh if i had a million
+- [05:05:01,929 - 05:05:05,529] i'd give a hundred thousand i'm not so sure that's a
+- [05:05:05,529 - 05:05:09,569] lot of money we'd better start you early so you'll
+- [05:05:09,569 - 05:05:13,609] be ready when the big stuff comes so 10 cents for
+- [05:05:13,610 - 05:05:18,250] charity here's the next 10 cents 10
+- [05:05:18,250 - 05:05:22,890] cents for active capital active capital active capital
+- [05:05:22,890 - 05:05:26,890] to try to make a profit we live in a
+- [05:05:26,890 - 05:05:30,890] capitalistic society where the money belongs in the hands of
+- [05:05:30,890 - 05:05:34,290] the people not in the hands of the government
+- [05:05:34,290 - 05:05:37,690] so you should turn part of your wages into capital
+- [05:05:38,570 - 05:05:41,050] and turn capital into a profit-making
+- [05:05:41,050 - 05:05:43,530] enterprise it can be a piece of
+- [05:05:43,530 - 05:05:43,570] you can turn a piece of your capital into
+- [05:05:43,570 - 05:05:43,610] a profit-making enterprise it can be a piece of
+- [05:05:43,610 - 05:05:47,970] property it can be anything buy sell it doesn't matter
+- [05:05:47,970 - 05:05:52,330] what it is try to show a profit and this
+- [05:05:52,330 - 05:05:55,890] is where i teach kids how to have two bicycles
+- [05:05:55,890 - 05:05:59,450] one to ride and one to rent active capital fund
+- [05:06:00,570 - 05:06:03,730] because here's what i teach kids kids will be
+- [05:06:03,730 - 05:06:06,890] happy to learn this profits are better than wages
+- [05:06:07,850 - 05:06:10,690] kids need to know that the benefits
+- [05:06:10,690 - 05:06:13,530] of living in a capitalistic society kids
+- [05:06:13,530 - 05:06:14,370] need to know that the benefits of living in
+- [05:06:14,370 - 05:06:15,210] a capitalistic society kids can start a kool-aid stand
+- [05:06:15,210 - 05:06:18,090] before they can get a job kids can clean out
+- [05:06:18,090 - 05:06:20,970] their rooms have a garage sale to earn some profit
+- [05:06:21,690 - 05:06:24,410] it doesn't take a kid long to figure
+- [05:06:24,410 - 05:06:27,130] out that profits are better than wages better
+- [05:06:27,130 - 05:06:30,650] than allowances and that's what america is all
+- [05:06:30,650 - 05:06:34,170] about a profit and here's what's exciting about
+- [05:06:34,170 - 05:06:38,840] making a profit you can make a profit long before you can
+- [05:06:38,840 - 05:06:43,510] legitimately earn a wage there are no limits your profits have no limits
+- [05:06:43,510 - 05:06:47,070] can sometimes accelerate much faster than your
+- [05:06:47,070 - 05:06:50,630] wages teach your kids early profits are better
+- [05:06:50,630 - 05:06:54,750] than wages wages make you a living profits make you
+- [05:06:54,750 - 05:06:58,870] a fortune and we should all try our hand at
+- [05:06:58,870 - 05:07:02,630] making a profit since we live in a capitalistic
+- [05:07:02,630 - 05:07:06,390] society how long will it take to triple your wages
+- [05:07:06,390 - 05:07:11,030] currently a while but profits there's no limit
+- [05:07:11,030 - 05:07:15,670] my gosh once i understood this i went bonkers
+- [05:07:16,630 - 05:07:20,669] profits the whole world benefits if we all
+- [05:07:20,669 - 05:07:24,709] leave more profit leave a profit make a profit
+- [05:07:25,990 - 05:07:28,190] i talked to a man who rents a lot
+- [05:07:28,190 - 05:07:30,390] of apartments he said mr rohn you wouldn't believe it
+- [05:07:30,390 - 05:07:33,910] most people when they leave the apartment it's trashed
+- [05:07:34,869 - 05:07:36,310] i said you've got to be
+- [05:07:36,390 - 05:07:40,419] kidding. He said, no. What a reputation.
+- [05:07:40,419 - 05:07:44,449] Everything you touch turns to trash, gets dirty.
+- [05:07:45,410 - 05:07:48,240] Got to turn that around. One of the best
+- [05:07:48,240 - 05:07:51,070] ways to train yourself is to leave a profit.
+- [05:07:52,410 - 05:07:55,580] A friend of mine has made money on every
+- [05:07:55,580 - 05:07:58,750] car he's bought. Why? Because when he traded it in
+- [05:07:58,750 - 05:08:02,950] or sold it, it was always better than he
+- [05:08:02,950 - 05:08:07,150] found it. It was always better than he found it.
+- [05:08:07,930 - 05:08:09,960] The key for parents is to touch a
+- [05:08:09,960 - 05:08:11,990] life and leave it better than you found it.
+- [05:08:12,370 - 05:08:15,380] Touch a business and leave it better than you
+- [05:08:15,380 - 05:08:18,390] found it. Touch a job and leave it better than
+- [05:08:18,390 - 05:08:21,740] you found it. Whether you stay six weeks,
+- [05:08:21,740 - 05:08:25,090] six months, six years, always leave it better than
+- [05:08:25,090 - 05:08:28,730] you found it. Make a contribution. Leave a profit.
+- [05:08:28,750 - 05:08:32,440] What a world this would be if everybody left
+- [05:08:32,440 - 05:08:36,130] a profit, not a piece of trash, a profit.
+- [05:08:37,290 - 05:08:39,780] Now here's the third 10 cents and
+- [05:08:39,780 - 05:08:42,270] you can become as wealthy as you want.
+- [05:08:42,870 - 05:08:45,530] The first 10 cents goes to charity.
+- [05:08:45,530 - 05:08:48,190] The second 10 cents goes to active capital.
+- [05:08:48,570 - 05:08:52,440] And the third 10 cents is for passive
+- [05:08:52,440 - 05:08:56,310] capital. Passive capital means let somebody else use some
+- [05:08:56,310 - 05:08:58,730] of your money. You're the passive.
+- [05:08:58,750 - 05:09:01,600] Partner. They're the active partner trying to
+- [05:09:01,600 - 05:09:04,450] make a profit. They'll pay you interest.
+- [05:09:04,830 - 05:09:07,720] And one of the most valuable things
+- [05:09:07,720 - 05:09:10,610] for your future is called compound interest.
+- [05:09:11,550 - 05:09:15,030] Nothing more valuable. And I suggest 10 cents
+- [05:09:15,030 - 05:09:18,510] for passive capital. Let someone else use it.
+- [05:09:19,570 - 05:09:21,950] Pay you interest on it. Now here's what
+- [05:09:21,950 - 05:09:24,330] else I teach kids. It's a Bible philosophy.
+- [05:09:24,330 - 05:09:28,190] And here's what it says. The borrower is servant.
+- [05:09:28,750 - 05:09:31,680] To the lender. Excellent information. The
+- [05:09:31,680 - 05:09:34,610] borrower is servant to the lender.
+- [05:09:34,950 - 05:09:37,670] And if you've taught this properly and ask kids,
+- [05:09:37,670 - 05:09:40,390] what do you want to be? Here's what they'll tell
+- [05:09:40,390 - 05:09:43,980] you. They'll say, I want to be one
+- [05:09:43,980 - 05:09:47,570] of those lenders. That's the power position. If you're
+- [05:09:47,570 - 05:09:50,900] interested in power for the future, influence for
+- [05:09:50,900 - 05:09:54,230] the future, being ruler over much, I'm telling you
+- [05:09:54,230 - 05:09:56,480] the key is to be one
+- [05:09:56,480 - 05:09:58,730] of those lenders, not a spender.
+- [05:09:58,750 - 05:10:02,960] No, a lender. Now, if you can't reach this
+- [05:10:02,960 - 05:10:07,170] little formula right now, if you can't start here,
+- [05:10:07,690 - 05:10:11,880] here's what you do. Start where you can and work
+- [05:10:11,880 - 05:10:16,070] toward it. 70, 10, 10 and 10 is the ideal.
+- [05:10:16,850 - 05:10:19,040] And it doesn't matter if you're trying to lose weight
+- [05:10:19,040 - 05:10:21,230] or to get your health in order or to get
+- [05:10:21,230 - 05:10:24,980] your finances in order. Here's the key. Set up
+- [05:10:24,980 - 05:10:28,730] the ideal and work toward it. Set up the ideal.
+- [05:10:28,750 - 05:10:32,900] Next in building your financial independence is
+- [05:10:32,900 - 05:10:37,050] to keep strict accounts. Don't let yourself or
+- [05:10:37,050 - 05:10:39,710] anyone else talk you out of keeping
+- [05:10:39,710 - 05:10:42,370] strict accounts. You've got to know exactly where
+- [05:10:42,370 - 05:10:44,970] it comes from. You've got to know exactly
+- [05:10:44,970 - 05:10:47,570] where it's all going. Don't fall into the,
+- [05:10:47,810 - 05:10:51,009] I don't know where it all goes, trap. Don't
+- [05:10:51,009 - 05:10:54,209] fall into that. It just gets away from me.
+- [05:10:54,670 - 05:10:58,670] No, keep strict accounts. It's much easier than it.
+- [05:10:58,670 - 05:10:58,700] I don't know where it all goes. I'm not going
+- [05:10:58,700 - 05:10:58,730] to lose money. I'm not going to lose money. I'm not
+- [05:10:58,750 - 05:11:01,310] to be with personal computers and so
+- [05:11:01,310 - 05:11:03,870] many households and the software that's readily
+- [05:11:03,870 - 05:11:06,990] available it's as easy as entering your deposits
+- [05:11:06,990 - 05:11:10,110] and checks and receipts and the computer will tell
+- [05:11:10,110 - 05:11:13,310] you exactly where you stand and it does more
+- [05:11:13,310 - 05:11:16,510] than that if you're really wondering where it all goes
+- [05:11:16,510 - 05:11:19,430] the computer will tell you that too most
+- [05:11:19,430 - 05:11:22,350] of the programs let you categorize your expenditures
+- [05:11:23,230 - 05:11:26,510] print it out and you'll know exactly by category
+- [05:11:26,510 - 05:11:29,790] where it all goes and when it's right there in
+- [05:11:29,790 - 05:11:33,030] front of you you'll be able to evaluate
+- [05:11:33,030 - 05:11:36,270] what you're buying and what you're wasting take that
+- [05:11:36,270 - 05:11:39,190] wasting part and add it to one of your
+- [05:11:39,190 - 05:11:42,110] capital funds it'll get you there that much faster
+- [05:11:43,950 - 05:11:47,110] and here's another part of building your financial
+- [05:11:47,110 - 05:11:50,270] independence it's a matter of attitude first is
+- [05:11:50,270 - 05:11:51,230] philosophy about money second is the philosophy of
+- [05:11:51,230 - 05:11:52,190] money and third is the philosophy of money
+- [05:11:52,190 - 05:11:52,260] so if you're going to be a financial independence
+- [05:11:52,260 - 05:11:52,330] you need to have a very strong foundation of your
+- [05:11:52,330 - 05:11:56,370] second is attitude about money here's the best
+- [05:11:56,370 - 05:12:00,410] attitude all of us must pay for democracy and
+- [05:12:00,410 - 05:12:03,690] freedom and free enterprise and a marketplace and
+- [05:12:03,690 - 05:12:06,970] a country second to none with gifts brought here
+- [05:12:06,970 - 05:12:11,210] from all over the world i finally became a
+- [05:12:11,210 - 05:12:15,450] happy taxpayer once i was educated you say well they
+- [05:12:15,450 - 05:12:18,810] misuse it what do you care that's not going to make
+- [05:12:18,810 - 05:12:22,170] any difference in your future is it that's not going to
+- [05:12:22,170 - 05:12:25,170] greatly reduce your chances to become rich and
+- [05:12:25,170 - 05:12:28,170] powerful it shouldn't make any difference at all
+- [05:12:28,170 - 05:12:31,490] whether they misuse it or not sure we need to
+- [05:12:31,490 - 05:12:34,810] vote well so the country is run as well as possible
+- [05:12:35,450 - 05:12:38,930] and there's as level of playing field as possible
+- [05:12:38,930 - 05:12:42,410] but what if there isn't i'm telling you you can't
+- [05:12:42,410 - 05:12:46,130] base your life on that vote well and then chart
+- [05:12:46,130 - 05:12:49,850] your own course vote well and take charge of your
+- [05:12:49,850 - 05:12:50,930] own life we've all got to be a good person we've all got
+- [05:12:50,930 - 05:12:52,010] to be a good person we've all got to be a good person
+- [05:12:52,010 - 05:12:56,010] we've all got to pay and after you pay your
+- [05:12:56,010 - 05:13:00,010] taxes pay yourself first take care of the 30 first
+- [05:13:00,970 - 05:13:04,010] or whatever percentage you can start your plan with
+- [05:13:04,010 - 05:13:07,050] take care of the stuff off the top first
+- [05:13:07,770 - 05:13:10,650] and learn to live off the rest
+- [05:13:10,650 - 05:13:13,530] make your investments whatever size they are before
+- [05:13:13,530 - 05:13:17,730] you pay your bills give to charity before you buy
+- [05:13:17,730 - 05:13:21,930] the extra things you want a man i know has
+- [05:13:22,010 - 05:13:26,810] an mba from harvard and an engineering degree from
+- [05:13:26,810 - 05:13:31,610] mit smart guy semi-retired now and doing what he
+- [05:13:31,610 - 05:13:35,650] likes best teaching he teaches college courses in
+- [05:13:35,650 - 05:13:39,690] economics and business planning but when he teaches
+- [05:13:39,690 - 05:13:43,810] economics he also teaches personal economics this is
+- [05:13:43,810 - 05:13:47,930] what he starts his classes with decide how you
+- [05:13:47,930 - 05:13:49,610] want to live now versus
+- [05:13:49,610 - 05:13:51,290] how long you want to work
+- [05:13:52,250 - 05:13:55,490] decide how you want to live now versus how
+- [05:13:55,490 - 05:13:58,730] long you want to work this means if you want
+- [05:13:58,730 - 05:14:02,050] to spend everything you make now you'll have
+- [05:14:02,050 - 05:14:05,370] to work longer and harder if you spend everything
+- [05:14:05,370 - 05:14:08,970] you make now you'll have no choice but to
+- [05:14:08,970 - 05:14:12,570] work longer and harder but if you start investing in
+- [05:14:12,570 - 05:14:16,290] your financial future now you'll have the
+- [05:14:16,290 - 05:14:20,010] choice between retiring early or traveling more or
+- [05:14:20,010 - 05:14:20,930] continuing your career or taking a job in the
+- [05:14:20,930 - 05:14:21,850] future or changing your career or taking a job in
+- [05:14:22,090 - 05:14:24,650] or starting a new career later in life
+- [05:14:24,650 - 05:14:27,210] once again it all comes down to choices
+- [05:14:28,090 - 05:14:31,730] think tomorrow today and live better tomorrow here's
+- [05:14:31,730 - 05:14:35,370] the next thing to think of when you're
+- [05:14:35,370 - 05:14:38,850] planning your economic future be careful with
+- [05:14:38,850 - 05:14:42,330] your credit cards selling money is big business
+- [05:14:43,130 - 05:14:45,690] you probably get invitations in the mail to sign up
+- [05:14:45,690 - 05:14:48,250] for a new credit card a couple of times a month
+- [05:14:49,290 - 05:14:49,770] having some credit cards is important especially if
+- [05:14:49,770 - 05:14:50,250] you're a business student or a student who's
+- [05:14:50,250 - 05:14:50,730] working in the business you're probably going to have
+- [05:14:50,730 - 05:14:51,210] to work a little bit harder to get a job
+- [05:14:51,210 - 05:14:54,770] especially if you travel it's safer than cash
+- [05:14:54,770 - 05:14:58,330] it's easier to track than cash but be careful
+- [05:14:59,050 - 05:15:02,010] i know that's hard when you buy something with
+- [05:15:02,010 - 05:15:04,970] a little piece of plastic you don't feel the effect
+- [05:15:04,970 - 05:15:07,890] until you get the bill so make sure that
+- [05:15:07,890 - 05:15:10,810] whatever you buy you're still happy with your purchase
+- [05:15:10,810 - 05:15:15,210] after you get the bill and be careful with credit
+- [05:15:15,210 - 05:15:19,610] it's the easiest way to get into debt go into debt
+- [05:15:19,610 - 05:15:23,170] strategically not habitually if your business is
+- [05:15:23,170 - 05:15:26,730] high risk if you're an entrepreneur whose career
+- [05:15:26,730 - 05:15:29,970] requires a great deal of risk and a great
+- [05:15:29,970 - 05:15:33,210] deal of strategic debt keep the debt in your business
+- [05:15:34,090 - 05:15:37,330] and out of your personal life i know
+- [05:15:37,330 - 05:15:40,570] this one's hard too because for most entrepreneurs looking
+- [05:15:40,570 - 05:15:44,450] for capital the lender requires you guarantee the debt
+- [05:15:44,450 - 05:15:48,330] personally so plan your debt just as you plan
+- [05:15:48,330 - 05:15:51,970] your fortune here's another point to remember
+- [05:15:51,970 - 05:15:55,610] in becoming financially independent it's hard to get
+- [05:15:55,610 - 05:16:00,570] rich fast it's easy to get rich slowly 70
+- [05:16:00,570 - 05:16:05,530] 10 10 and 10 or whatever percentages you're working with
+- [05:16:05,530 - 05:16:08,890] it doesn't happen overnight with conservative investments
+- [05:16:08,890 - 05:16:12,250] it takes a while it takes discipline
+- [05:16:12,250 - 05:16:15,250] to keep adding value to your future a
+- [05:16:15,250 - 05:16:18,250] little every month a little every month the little
+- [05:16:18,250 - 05:16:21,970] every month it takes time to build your
+- [05:16:21,970 - 05:16:25,690] fortune your financial independence there's a saying about
+- [05:16:25,690 - 05:16:30,890] investing time not timing the saying says time it
+- [05:16:30,890 - 05:16:36,090] takes time now if playing the stock market is what
+- [05:16:36,090 - 05:16:40,050] you do then you know that timing is a whole
+- [05:16:40,050 - 05:16:44,010] other ball game but for the average person it's time
+- [05:16:44,010 - 05:16:47,610] a study was done a while back that
+- [05:16:47,610 - 05:16:51,210] analyzed stock market investments the study took two scenarios
+- [05:16:51,210 - 05:16:55,170] into consideration the first one took place over
+- [05:16:55,170 - 05:16:59,130] 40 years in the first scenario stocks were bought
+- [05:16:59,130 - 05:17:03,330] at the very worst possible time and sold at
+- [05:17:03,330 - 05:17:07,530] the very worst possible time bought high and sold low
+- [05:17:08,410 - 05:17:10,690] and after 40 years the
+- [05:17:10,690 - 05:17:12,970] average return was around 10 percent
+- [05:17:14,330 - 05:17:17,770] scenario one dealt with time now in the
+- [05:17:17,770 - 05:17:21,210] second scenario stocks were analyzed over a 10-year
+- [05:17:21,210 - 05:17:24,410] period the second scenario dealt with timing
+- [05:17:24,410 - 05:17:27,610] stocks were purchased at the best possible time
+- [05:17:28,570 - 05:17:32,410] and sold at the best possible time after
+- [05:17:32,410 - 05:17:36,250] 10 years the average return was around 10 percent
+- [05:17:37,850 - 05:17:40,730] be patient in building your financial independence
+- [05:17:40,730 - 05:17:43,610] it will come small steps at a time
+- [05:17:44,330 - 05:17:47,930] little advantages after little advantages it's hard
+- [05:17:47,930 - 05:17:51,530] to be patient but it's just like building
+- [05:17:51,530 - 05:17:55,170] your ambition and achieving your goals it happens one
+- [05:17:55,170 - 05:17:58,810] step at a time and what if patience has nothing
+- [05:17:58,810 - 05:18:01,690] to do with building financial independence what
+- [05:18:01,690 - 05:18:04,570] about those trust fund babies that have handed
+- [05:18:04,570 - 05:18:07,370] their financial independence on a silver platter never
+- [05:18:07,370 - 05:18:10,170] having to work a day in their lives
+- [05:18:11,050 - 05:18:13,990] first car is a porsche first house is a
+- [05:18:14,010 - 05:18:19,010] mansion first job is at daddy's company what about
+- [05:18:19,010 - 05:18:24,010] those people born rich some guy says it isn't fair
+- [05:18:24,010 - 05:18:27,610] that i'm working like crazy all day all week all
+- [05:18:27,610 - 05:18:31,210] month all my life it just isn't fair i'll never
+- [05:18:31,210 - 05:18:34,970] have that kind of money well some things aren't
+- [05:18:34,970 - 05:18:38,730] fair inheriting money but what does that have to
+- [05:18:38,730 - 05:18:41,850] do with you really if your goal is to
+- [05:18:41,850 - 05:18:44,970] have greater financial independence than some of those you know
+- [05:18:45,609 - 05:18:49,329] then you'd better start working harder and smarter
+- [05:18:49,329 - 05:18:53,050] on your goals your own visions and stop pondering
+- [05:18:53,050 - 05:18:56,369] what's fair and what isn't start examining what's
+- [05:18:56,369 - 05:18:59,689] keeping you back instead of what's keeping them
+- [05:18:59,689 - 05:19:04,009] ahead start looking at what you're doing start looking
+- [05:19:04,009 - 05:19:08,330] at you instead of it there are plenty of
+- [05:19:08,330 - 05:19:08,519] stories that are not true and that are not true
+- [05:19:08,519 - 05:19:08,709] and that are not true and that are not true and
+- [05:19:08,710 - 05:19:11,390] those stories and examples and experiences
+- [05:19:11,390 - 05:19:14,070] of people who began their careers destitute
+- [05:19:14,070 - 05:19:17,310] and had enough resolve to do it until
+- [05:19:17,310 - 05:19:20,550] until they had more than they ever dreamed of
+- [05:19:21,430 - 05:19:23,190] study the experiences of others who
+- [05:19:23,190 - 05:19:24,950] built their way to the top
+- [05:19:25,510 - 05:19:28,150] instead of those who were born there and
+- [05:19:28,150 - 05:19:30,790] what if you decided you had to be rich
+- [05:19:31,990 - 05:19:34,390] what if you really followed the power of
+- [05:19:34,390 - 05:19:36,790] your ambition and your life started turning around
+- [05:19:37,750 - 05:19:38,030] well aside in the military and in the major agitator companies there is no family reform in the FCE but afterotsk and Furman were renewal of wealth partnerships with the board better list staring with a firm
+- [05:19:38,030 - 05:19:38,310] and laughed at your lack of the zealous-minded and risky developments of your mind where people abuse and the resources and義 ing that we have care about highlyETG says this is showy but this isn't very good
+- [05:19:38,310 - 05:19:41,470] aside from getting on the right track
+- [05:19:41,470 - 05:19:44,630] increasing your earning potential decreasing the percent you
+- [05:19:44,630 - 05:19:48,749] spend increasing the percent you save invest give
+- [05:19:48,749 - 05:19:52,869] away aside from all the benefits of achieving
+- [05:19:53,670 - 05:19:56,189] there will also come some disappointments
+- [05:19:56,189 - 05:19:58,709] disappointments in the circle of friends
+- [05:19:58,709 - 05:20:01,669] you started with one of the disappointments
+- [05:20:01,669 - 05:20:04,630] that come from achieving all you can be
+- [05:20:05,269 - 05:20:06,749] is in the people who choose
+- [05:20:06,749 - 05:20:08,230] to remain right where they are
+- [05:20:09,589 - 05:20:12,469] they will chastise you for your accomplishments they
+- [05:20:12,469 - 05:20:15,349] will abandon you for trying to become better
+- [05:20:15,990 - 05:20:19,110] they will remain behind and say boy he's
+- [05:20:19,110 - 05:20:22,230] forgotten us now now that he lives so well
+- [05:20:23,109 - 05:20:25,429] and they'll probably say more than
+- [05:20:25,429 - 05:20:27,750] that they'll probably gather in their little
+- [05:20:27,750 - 05:20:30,750] group and say all sorts of things
+- [05:20:30,750 - 05:20:33,750] to justify their own mediocrity but remember
+- [05:20:34,709 - 05:20:38,749] those who choose to stay behind have chosen their
+- [05:20:38,749 - 05:20:42,789] own path an average path a path of mediocrity
+- [05:20:43,429 - 05:20:46,349] and those who have climbed above the crowd
+- [05:20:46,349 - 05:20:49,269] almost always wish they could return to their
+- [05:20:49,269 - 05:20:52,869] earlier friends to embrace them in friendship and love
+- [05:20:52,869 - 05:20:56,470] and try to help them get out of their ruts
+- [05:20:57,029 - 05:20:59,229] to share ideas of hope and inspiration but it rarely happens jealousy builds a big wall of hope
+- [05:20:59,229 - 05:21:01,429] and the world is full of hope and it is not easy to change it all over again
+- [05:21:01,429 - 05:21:02,989] but it rarely happens jealousy builds a big wall of hope
+- [05:21:02,989 - 05:21:04,550] and it is not easy to change it all over again
+- [05:21:04,550 - 05:21:08,350] wall one that is almost impossible to break
+- [05:21:08,350 - 05:21:12,150] down so as you change your life will change
+- [05:21:12,150 - 05:21:15,469] your friends will change your circle of
+- [05:21:15,469 - 05:21:18,789] influence will change and that's part of achievement
+- [05:21:19,429 - 05:21:23,149] and ambition and success an ever-changing
+- [05:21:23,149 - 05:21:26,869] process required to become the person worthy
+- [05:21:26,869 - 05:21:30,509] of reaching your goals there are many reasons
+- [05:21:30,509 - 05:21:34,150] why people don't build their ambition strive to become
+- [05:21:35,109 - 05:21:39,269] the best they can many reasons but it only takes
+- [05:21:39,269 - 05:21:43,429] one we talked about many fears in an earlier session
+- [05:21:43,429 - 05:21:46,789] and how to work to overcome them
+- [05:21:46,789 - 05:21:50,150] but here's one we didn't talk about risk
+- [05:21:51,029 - 05:21:54,789] different professions call for different levels of risk
+- [05:21:55,590 - 05:21:59,910] there's an old saying no risk no reward maybe that's
+- [05:21:59,910 - 05:22:04,230] the case in life i don't know it's a personal decision
+- [05:22:04,550 - 05:22:07,400] decision one you have to make regarding how
+- [05:22:07,400 - 05:22:10,250] much risk you're comfortable in taking with your life
+- [05:22:10,250 - 05:22:14,150] and your future and your money it's a personal
+- [05:22:14,150 - 05:22:18,050] decision what I do know is that there are
+- [05:22:18,050 - 05:22:21,499] different types of ambition different types and each
+- [05:22:21,499 - 05:22:24,949] has its own reward the ambitions of a
+- [05:22:24,949 - 05:22:27,919] salesperson are different than the ambitions of a
+- [05:22:27,919 - 05:22:30,890] manager the ambitions of a manager or an
+- [05:22:30,890 - 05:22:33,980] executive are different than the ambitions of
+- [05:22:33,980 - 05:22:37,070] an entrepreneur the ambitions of an entrepreneur
+- [05:22:37,070 - 05:22:39,650] are different than the ambitions of an
+- [05:22:39,650 - 05:22:42,230] artist or a scientist or a teacher
+- [05:22:43,130 - 05:22:46,130] with different levels of ambition come different
+- [05:22:46,130 - 05:22:49,130] levels of risk and different levels of reward
+- [05:22:50,070 - 05:22:52,509] sales people are probably more able
+- [05:22:52,509 - 05:22:54,949] to handle risk than managers and professionals
+- [05:22:55,730 - 05:22:58,490] and the higher the risk the higher the earning potential
+- [05:22:59,570 - 05:23:00,830] entrepreneurs are
+- [05:23:00,830 - 05:23:04,760] probably even more risk oriented they have to
+- [05:23:04,760 - 05:23:08,690] be an entrepreneur's ambition must overpower the risk
+- [05:23:08,690 - 05:23:12,800] of losing it all in an attempt to gain their
+- [05:23:12,800 - 05:23:16,910] dream your level of ambition may or may not be equated
+- [05:23:16,910 - 05:23:20,000] with your ability to take on risk most people
+- [05:23:20,000 - 05:23:23,090] can't deal with so much failure to reach success
+- [05:23:23,090 - 05:23:26,870] there are only a few people even among
+- [05:23:26,870 - 05:23:30,650] the most ambitious that have the tenacity intestinal
+- [05:23:30,650 - 05:23:34,580] Fortitude tolerance level to follow a risky
+- [05:23:34,580 - 05:23:38,510] ambition whatever the level of ambition whatever
+- [05:23:38,510 - 05:23:41,480] the level of risk there must always be
+- [05:23:41,480 - 05:23:44,450] the discipline to overcome the failures and see
+- [05:23:44,450 - 05:23:48,380] the end result to keep trying until
+- [05:23:48,380 - 05:23:52,310] Jonas salt kept working through his failures
+- [05:23:52,910 - 05:23:53,030] a
+- [05:23:53,090 - 05:23:57,200] until until he developed the polio vaccine whatever
+- [05:23:57,200 - 05:24:01,310] your level of ambition keep doing it until
+- [05:24:02,270 - 05:24:05,840] until you get there the riskier the ambition
+- [05:24:05,840 - 05:24:09,410] the greater need for stability in your personal life
+- [05:24:09,410 - 05:24:12,170] if you've got everything on the line in
+- [05:24:12,170 - 05:24:14,930] your business you'll want to make sure everything is
+- [05:24:14,930 - 05:24:18,920] in line at home John D Rockefeller was very frugal
+- [05:24:18,920 - 05:24:22,910] in his personal habits but he was willing to take
+- [05:24:22,910 - 05:24:28,030] risks Big Risks with investments and debts
+- [05:24:31,110 - 05:24:33,640] so as you're developing your own
+- [05:24:33,640 - 05:24:36,170] plan for financial Independence as you're working
+- [05:24:36,170 - 05:24:39,740] toward the ideal of living off of 70 percent of
+- [05:24:39,740 - 05:24:43,310] what you make remember the first step is to define
+- [05:24:43,310 - 05:24:47,640] a plan it may not be ideal but you're taking
+- [05:24:47,640 - 05:24:51,970] the first steps and when you follow your plan the
+- [05:24:51,970 - 05:24:54,470] you put away today will help
+- [05:24:54,470 - 05:24:56,970] you build your financial independence tomorrow.
+- [05:24:58,090 - 05:25:00,639] And with financial independence, the result of
+- [05:25:00,639 - 05:25:03,189] your ambition, the reward of your ambition,
+- [05:25:03,609 - 05:25:05,649] with financial independence comes freedom
+- [05:25:05,649 - 05:25:07,689] like you've never known before.
+- [05:25:08,570 - 05:25:12,480] Freedom and options to live where you want to live, to do
+- [05:25:12,480 - 05:25:16,390] what you want to do, to go where you want to go,
+- [05:25:16,390 - 05:25:18,970] to drive what you want to drive,
+- [05:25:18,970 - 05:25:21,550] to support the causes you want to support.
+- [05:25:22,449 - 05:25:25,330] With financial independence comes the freedom of choice.
+- [05:25:26,550 - 05:25:29,249] It's okay to be rich. It's okay
+- [05:25:29,249 - 05:25:31,949] to be wealthy. It's okay to be successful.
+- [05:25:32,410 - 05:25:34,740] As long as it's at the
+- [05:25:34,740 - 05:25:37,070] service of others, not at their expense.
+- [05:25:51,970 - 05:25:53,879] Success is the steady progress
+- [05:25:53,879 - 05:25:55,789] toward your own personal goals.
+- [05:25:56,170 - 05:25:59,570] Goals designed by you with a plan implemented by you.
+- [05:26:00,369 - 05:26:03,510] Your goals, your philosophy, your plan.
+- [05:26:04,670 - 05:26:07,450] So if success is the steady progress toward
+- [05:26:07,450 - 05:26:10,230] your own personal goals, what then is failure?
+- [05:26:11,050 - 05:26:12,970] Is failure working on a
+- [05:26:12,970 - 05:26:14,890] project that ended with poor results?
+- [05:26:15,609 - 05:26:17,029] No, of course not.
+- [05:26:17,949 - 05:26:19,809] Is failure launching a new product
+- [05:26:19,809 - 05:26:21,670] that failed miserably in the marketplace?
+- [05:26:22,570 - 05:26:23,789] No, of course not.
+- [05:26:24,869 - 05:26:28,139] Is failure doing the best you possibly can with your
+- [05:26:28,139 - 05:26:31,410] kids and having them disappoint you in a very personal way?
+- [05:26:32,349 - 05:26:33,470] No, of course not.
+- [05:26:34,470 - 05:26:36,970] There's no failure in pouring your heart and
+- [05:26:36,970 - 05:26:39,470] soul and energy into something that didn't work.
+- [05:26:40,570 - 05:26:43,650] Rather, failure is not trying at all.
+- [05:26:45,070 - 05:26:48,410] If success is the steady progress toward your own
+- [05:26:48,410 - 05:26:51,750] personal goals, then failure is no progress at all.
+- [05:26:51,750 - 05:26:53,290] None.
+- [05:26:54,150 - 05:26:55,250] Not even trying.
+- [05:26:56,850 - 05:26:59,070] Success and failure are always linked together.
+- [05:26:59,650 - 05:27:02,430] Success and failure are always linked to ambition.
+- [05:27:03,510 - 05:27:08,430] And let's remember, success is doing, failure is not doing.
+- [05:27:09,030 - 05:27:09,970] It's that simple.
+- [05:27:11,230 - 05:27:13,390] Tom Peters, world-renowned author
+- [05:27:13,390 - 05:27:15,550] and management expert, said recently,
+- [05:27:15,550 - 05:27:17,620] There is only one way
+- [05:27:17,620 - 05:27:19,690] to be in serious trouble today.
+- [05:27:20,350 - 05:27:21,209] And that is,
+- [05:27:21,750 - 05:27:22,810] Not to be trying.
+- [05:27:23,850 - 05:27:24,930] Not to be failing.
+- [05:27:25,690 - 05:27:27,270] Not to be stretching yourself.
+- [05:27:28,090 - 05:27:29,250] Success is a doing.
+- [05:27:30,130 - 05:27:32,090] You've got to actually do it.
+- [05:27:32,990 - 05:27:35,810] Activity is high priority in the life process.
+- [05:27:36,370 - 05:27:38,140] To try and get maximum benefit
+- [05:27:38,140 - 05:27:39,910] out of what we have available.
+- [05:27:40,550 - 05:27:45,290] Our resources, our skills, our knowledge and our talents.
+- [05:27:46,410 - 05:27:49,070] Success is a doing that tries to get
+- [05:27:49,070 - 05:27:51,730] maximum benefit out of what we have available.
+- [05:27:51,750 - 05:27:54,500] Benjamin Disraeli, former prime
+- [05:27:54,500 - 05:27:57,250] minister of England once said,
+- [05:27:57,850 - 05:28:01,300] Nothing can resist a human will that
+- [05:28:01,300 - 05:28:04,750] will stake even its existence on its purpose.
+- [05:28:06,010 - 05:28:07,250] I'll do it or die.
+- [05:28:07,250 - 05:28:09,650] What a powerful set of words.
+- [05:28:10,810 - 05:28:14,230] We've already talked about resolve doing it until.
+- [05:28:14,970 - 05:28:17,050] But here's what else resolve says.
+- [05:28:17,350 - 05:28:19,750] Resolve says, I will.
+- [05:28:19,750 - 05:28:20,930] Two of the most powerful words.
+- [05:28:20,930 - 05:28:21,650] Resolve says, I will.
+- [05:28:21,650 - 05:28:23,650] Two of the most powerful words in our language.
+- [05:28:24,550 - 05:28:28,550] The formula for disaster could, should, don't.
+- [05:28:29,750 - 05:28:31,250] Here's the formula for fortune.
+- [05:28:31,750 - 05:28:34,750] Could, should, will.
+- [05:28:36,250 - 05:28:38,250] Could, should, will.
+- [05:28:39,050 - 05:28:43,449] I will, I should, I can and I will.
+- [05:28:43,449 - 05:28:46,949] Two of the most powerful words in the language.
+- [05:28:47,449 - 05:28:48,250] I will.
+- [05:28:49,250 - 05:28:51,350] The man says, I will climb the mountain.
+- [05:28:51,650 - 05:28:52,650] The man says, I will climb the mountain.
+- [05:28:52,650 - 05:28:53,650] They say, it's too high.
+- [05:28:53,650 - 05:28:54,650] It's too difficult.
+- [05:28:54,650 - 05:28:55,650] It's too rocky.
+- [05:28:55,650 - 05:28:56,650] It's never been done before.
+- [05:28:56,650 - 05:28:57,650] The man says, hey, it's my mountain.
+- [05:28:57,650 - 05:28:58,650] I'll climb it.
+- [05:28:58,650 - 05:29:03,150] Pretty soon you'll see me wavering from the top
+- [05:29:03,150 - 05:29:07,650] or dead on the side because I'm not coming
+- [05:29:07,650 - 05:29:09,650] back until I've done it.
+- [05:29:09,650 - 05:29:10,650] Powerful.
+- [05:29:11,650 - 05:29:14,150] There are several studies that show the
+- [05:29:14,150 - 05:29:16,650] greatest achievers aren't those who fail the least.
+- [05:29:17,650 - 05:29:18,600] No, the greatest achievers are
+- [05:29:18,600 - 05:29:19,550] those least frightened of failure.
+- [05:29:19,550 - 05:29:20,100] The greatest achievers are
+- [05:29:20,100 - 05:29:20,650] those least frightened of failure.
+- [05:29:20,650 - 05:29:21,650] The greatest achievers are
+- [05:29:21,650 - 05:29:22,650] those least frightened of failure.
+- [05:29:22,650 - 05:29:24,650] They're willing to take on the
+- [05:29:24,650 - 05:29:26,650] challenge without the guarantee of success.
+- [05:29:27,650 - 05:29:29,650] Seeing the end but not sure when
+- [05:29:29,650 - 05:29:31,650] it will be or where it will be.
+- [05:29:32,650 - 05:29:35,150] Although success and failure go hand in
+- [05:29:35,150 - 05:29:37,650] hand, many people have a problem with failure.
+- [05:29:38,650 - 05:29:41,650] They think it's a bad word, has a bad connotation.
+- [05:29:42,650 - 05:29:44,650] They don't see it as a stepping stone.
+- [05:29:45,650 - 05:29:47,650] They see it as an end result.
+- [05:29:48,650 - 05:29:49,650] Quite often, success requires failure.
+- [05:29:50,650 - 05:29:52,650] Sometimes many failures.
+- [05:29:53,650 - 05:29:56,650] In every scientific discovery, there were dozens
+- [05:29:56,650 - 05:29:59,650] or hundreds of failures before one's success.
+- [05:30:00,650 - 05:30:03,650] Without failure, opportunity cannot be created.
+- [05:30:03,650 - 05:30:06,650] Without failure, there can be no success.
+- [05:30:08,650 - 05:30:10,650] But what is the measure of success?
+- [05:30:10,650 - 05:30:13,650] How do you know if you're successful, really successful?
+- [05:30:14,650 - 05:30:15,650] How do you know?
+- [05:30:15,650 - 05:30:17,650] Especially when your success could be
+- [05:30:17,650 - 05:30:19,650] so vastly different from someone else's success.
+- [05:30:21,650 - 05:30:22,650] Here's how you measure.
+- [05:30:23,650 - 05:30:24,650] Results.
+- [05:30:25,650 - 05:30:28,650] Making measurable progress in reasonable time.
+- [05:30:28,650 - 05:30:30,650] That's all life asks.
+- [05:30:31,650 - 05:30:34,650] Making measurable progress in reasonable time.
+- [05:30:35,650 - 05:30:37,650] So you've got to be reasonable with time.
+- [05:30:38,650 - 05:30:40,650] Don't be unreasonable with time, parents.
+- [05:30:40,650 - 05:30:43,650] Don't be unreasonable with
+- [05:30:43,650 - 05:30:46,650] time, managers, brokers, business associates.
+- [05:30:46,650 - 05:30:48,650] Have a little patience.
+- [05:30:48,650 - 05:30:50,650] You can't ask somebody every five
+- [05:30:50,650 - 05:30:52,650] minutes, how are you doing now?
+- [05:30:52,650 - 05:30:54,650] That's too soon.
+- [05:30:54,650 - 05:30:56,650] The guy says, I haven't left the building yet.
+- [05:30:56,650 - 05:30:57,650] Give me a break.
+- [05:30:58,650 - 05:31:00,650] So five minutes is too soon to ask.
+- [05:31:01,650 - 05:31:02,650] So five years is what?
+- [05:31:02,650 - 05:31:05,650] Too long and too late.
+- [05:31:06,650 - 05:31:08,650] So what is reasonable time to ask
+- [05:31:08,650 - 05:31:10,650] for results as a measure of progress?
+- [05:31:10,650 - 05:31:12,650] Here's number one.
+- [05:31:12,650 - 05:31:14,650] At the end of the day.
+- [05:31:15,650 - 05:31:16,650] You can't let more than a
+- [05:31:16,650 - 05:31:17,650] day go by without getting a result.
+- [05:31:17,650 - 05:31:18,650] You can't let more than a day
+- [05:31:18,650 - 05:31:19,650] go by without getting some things done.
+- [05:31:19,650 - 05:31:21,650] Some letters written.
+- [05:31:21,650 - 05:31:24,650] Having a conversation with your son or daughter.
+- [05:31:24,650 - 05:31:28,650] You can't postpone the important more than a day.
+- [05:31:29,650 - 05:31:31,650] When you work on the job, there are some
+- [05:31:31,650 - 05:31:33,650] things you've got to get done within a day.
+- [05:31:33,650 - 05:31:36,650] You've got to make some calls within a day.
+- [05:31:36,650 - 05:31:37,650] Your health disciplines.
+- [05:31:37,650 - 05:31:40,650] You've got to get those done within a day.
+- [05:31:40,650 - 05:31:42,650] You can't carry over.
+- [05:31:43,650 - 05:31:45,150] You can't say, well, I'll eat
+- [05:31:45,150 - 05:31:46,650] nine apples ten days from now.
+- [05:31:46,650 - 05:31:50,650] No, it's an apple a day.
+- [05:31:50,650 - 05:31:51,650] A day.
+- [05:31:51,650 - 05:31:54,650] Some things you've got to get done within a day.
+- [05:31:54,650 - 05:31:57,650] So at five minutes to midnight and you haven't gotten
+- [05:31:57,650 - 05:32:00,650] your apple in yet, munch away and get it done.
+- [05:32:01,650 - 05:32:02,650] A day.
+- [05:32:02,650 - 05:32:04,650] Here's what's next.
+- [05:32:04,650 - 05:32:05,650] A week.
+- [05:32:05,650 - 05:32:08,650] Some things you've got to get done within a week.
+- [05:32:08,650 - 05:32:11,650] Stuff on the job, calls made, activities.
+- [05:32:12,650 - 05:32:14,650] A week is a good chunk of time.
+- [05:32:14,650 - 05:32:15,150] Can't let more than a week
+- [05:32:15,150 - 05:32:15,650] go by without getting a result.
+- [05:32:16,650 - 05:32:18,150] Taking a look and a
+- [05:32:18,150 - 05:32:19,650] measure to see how you're doing.
+- [05:32:21,650 - 05:32:23,650] John joins this little sales company.
+- [05:32:23,650 - 05:32:26,650] He's supposed to make ten calls the first week.
+- [05:32:26,650 - 05:32:29,650] Just to get acquainted out there in the marketplace.
+- [05:32:30,650 - 05:32:32,150] Would it be legitimate to call
+- [05:32:32,150 - 05:32:33,650] John in on Friday and say what?
+- [05:32:34,650 - 05:32:36,650] How many calls did you make?
+- [05:32:36,650 - 05:32:37,650] That's legitimate.
+- [05:32:38,650 - 05:32:40,650] It's legitimate time to ask
+- [05:32:40,650 - 05:32:42,650] for a measurable amount of progress.
+- [05:32:43,650 - 05:32:45,650] He's supposed to make ten calls.
+- [05:32:45,650 - 05:32:47,650] How many calls did you make on Friday?
+- [05:32:47,650 - 05:32:48,650] How many calls did you make?
+- [05:32:48,650 - 05:32:51,650] John says, well, you say, John, well,
+- [05:32:51,650 - 05:32:54,650] won't fit in my little box here.
+- [05:32:55,650 - 05:32:57,650] I just need a number.
+- [05:32:57,650 - 05:32:59,650] Now John starts with a story.
+- [05:32:59,650 - 05:33:02,650] You say, John, the reason I made this little
+- [05:33:02,650 - 05:33:05,650] box so small is so a story won't fit.
+- [05:33:06,650 - 05:33:08,650] I don't need a story.
+- [05:33:08,650 - 05:33:10,650] I just need a number.
+- [05:33:11,650 - 05:33:13,650] Now here's one of the better phrases to take home.
+- [05:33:13,650 - 05:33:16,650] The numbers tell us the whole story.
+- [05:33:17,650 - 05:33:19,650] On you personally.
+- [05:33:19,650 - 05:33:22,650] The numbers tell us the whole story.
+- [05:33:22,650 - 05:33:24,650] Success is a numbers game.
+- [05:33:25,650 - 05:33:27,150] There are three important questions
+- [05:33:27,150 - 05:33:28,650] to ask yourself in this area.
+- [05:33:28,650 - 05:33:30,650] Here's number one.
+- [05:33:30,650 - 05:33:32,650] How much money have you
+- [05:33:32,650 - 05:33:34,650] saved and invested during your career?
+- [05:33:35,650 - 05:33:37,650] Second question.
+- [05:33:37,650 - 05:33:39,150] In the last 90 days,
+- [05:33:39,150 - 05:33:40,650] how many books have you read?
+- [05:33:40,650 - 05:33:44,650] To invest in the miracle of your mind, give
+- [05:33:44,650 - 05:33:48,650] you ideas to ponder, fashion your future with meticulous care.
+- [05:33:48,650 - 05:33:50,650] How many books have you
+- [05:33:50,650 - 05:33:52,650] read in the last 90 days?
+- [05:33:53,650 - 05:33:54,650] Third question.
+- [05:33:54,650 - 05:33:58,650] In the last six months, how many classes have you taken to improve
+- [05:33:58,650 - 05:34:02,650] your skills or to develop new skills for your future and your family?
+- [05:34:02,650 - 05:34:06,650] How many classes in the last six months?
+- [05:34:06,650 - 05:34:09,650] I'm telling you numbers tell us everything.
+- [05:34:10,650 - 05:34:12,650] Success is a numbers game.
+- [05:34:13,650 - 05:34:15,650] You've got to make progress.
+- [05:34:15,650 - 05:34:18,650] You've got to make progress in reasonable time.
+- [05:34:18,650 - 05:34:20,650] You've got to take a look at
+- [05:34:20,650 - 05:34:22,650] the numbers and see how you're doing.
+- [05:34:22,650 - 05:34:24,650] It's the name of the game.
+- [05:34:24,650 - 05:34:27,650] How often should you weigh the new baby?
+- [05:34:27,650 - 05:34:30,650] Well, you say, I'll weigh the new baby next spring.
+- [05:34:30,650 - 05:34:34,650] No, you can't wait until next spring.
+- [05:34:34,650 - 05:34:37,650] Don't you have to weigh the new baby often?
+- [05:34:37,650 - 05:34:39,650] And the answer is yes, of course.
+- [05:34:39,650 - 05:34:41,650] To see what?
+- [05:34:41,650 - 05:34:44,650] To see whether it's gaining weight or it's losing weight.
+- [05:34:44,650 - 05:34:46,650] What if it's losing weight?
+- [05:34:46,650 - 05:34:48,650] The alarm bells have got to go off.
+- [05:34:48,650 - 05:34:51,650] You can't let a little baby lose weight very long.
+- [05:34:51,650 - 05:34:53,650] It's called disaster.
+- [05:34:53,650 - 05:34:55,650] These numbers are important.
+- [05:34:55,650 - 05:34:58,150] How often should you check the corporation
+- [05:34:58,150 - 05:35:00,650] to see if it's healthy or not?
+- [05:35:00,650 - 05:35:02,650] You say, well, in a couple of
+- [05:35:02,650 - 05:35:04,650] years, we'll get all the accounts together.
+- [05:35:04,650 - 05:35:06,650] No, you'll be out of business.
+- [05:35:06,650 - 05:35:08,650] In Las Vegas, the big gambling houses, they're all closed.
+- [05:35:08,650 - 05:35:11,150] Guess how often they put together a
+- [05:35:11,150 - 05:35:13,650] financial statement to see where they are?
+- [05:35:13,650 - 05:35:16,650] Several times a day.
+- [05:35:16,650 - 05:35:17,650] Why?
+- [05:35:17,650 - 05:35:19,650] So much is happening.
+- [05:35:19,650 - 05:35:22,150] If you don't learn when to shut down some
+- [05:35:22,150 - 05:35:24,650] of those tables, you'll be out of business by midnight.
+- [05:35:24,650 - 05:35:26,650] You can't wait till midnight.
+- [05:35:26,650 - 05:35:28,650] You can't wait till tomorrow.
+- [05:35:28,650 - 05:35:30,650] Tomorrow's too late.
+- [05:35:30,650 - 05:35:32,650] You've got to know the numbers.
+- [05:35:32,650 - 05:35:34,650] What is your cholesterol count?
+- [05:35:34,650 - 05:35:37,650] You don't know and you don't care.
+- [05:35:37,650 - 05:35:41,650] You've just got your fingers crossed for the future.
+- [05:35:41,650 - 05:35:43,650] We'd better come and get your
+- [05:35:43,650 - 05:35:45,650] family and take them to safety.
+- [05:35:45,650 - 05:35:46,650] Come on.
+- [05:35:46,650 - 05:35:50,650] Be responsible for the set of your own sale.
+- [05:35:50,650 - 05:35:53,650] Leave it to no one else but yourself.
+- [05:35:53,650 - 05:35:57,650] And learn to refine these numbers for yourself.
+- [05:35:57,650 - 05:36:00,650] How many pounds overweight should you be at age 50?
+- [05:36:00,650 - 05:36:03,650] John says, well, I've got big bones.
+- [05:36:03,650 - 05:36:05,650] Well, we'll give you 10 pounds for big bones.
+- [05:36:05,650 - 05:36:06,650] But hey, 25, 30.
+- [05:36:06,650 - 05:36:08,650] Hey, 25, 30 pounds.
+- [05:36:08,650 - 05:36:10,650] And we've got to turn on the
+- [05:36:10,650 - 05:36:12,650] caution light at home and at the office.
+- [05:36:12,650 - 05:36:15,650] Somebody says, what's that flashing caution light?
+- [05:36:15,650 - 05:36:19,650] John's up about 20, 25 pounds.
+- [05:36:19,650 - 05:36:20,650] 35, 40 pounds.
+- [05:36:20,650 - 05:36:22,150] And the flashing red light comes
+- [05:36:22,150 - 05:36:23,650] on at home and at the office.
+- [05:36:23,650 - 05:36:26,650] Somebody says, what's that flashing red light?
+- [05:36:26,650 - 05:36:28,650] John's up about 40 pounds.
+- [05:36:28,650 - 05:36:31,650] 50 pounds and the siren goes off.
+- [05:36:31,650 - 05:36:33,650] Somebody says, what's that siren?
+- [05:36:33,650 - 05:36:35,650] John's over 50 pounds.
+- [05:36:36,650 - 05:36:41,650] I'm asking you to take charge of your own life.
+- [05:36:41,650 - 05:36:43,650] Be responsible for your own life.
+- [05:36:43,650 - 05:36:47,650] Be responsible for your own retirement.
+- [05:36:47,650 - 05:36:50,650] Be responsible for your own health.
+- [05:36:50,650 - 05:36:53,650] Don't just drift along with the crowd.
+- [05:36:53,650 - 05:36:56,150] Those who don't care, don't care
+- [05:36:56,150 - 05:36:58,650] to be responsible about the numbers,
+- [05:36:58,650 - 05:37:01,650] meticulous about the numbers.
+- [05:37:01,650 - 05:37:03,650] Some of these numbers have got
+- [05:37:03,650 - 05:37:05,650] to be coming down, like your cholesterol.
+- [05:37:06,650 - 05:37:09,650] Some of these numbers have got to be going
+- [05:37:09,650 - 05:37:12,650] up, like the number of books in your library.
+- [05:37:12,650 - 05:37:16,150] Don't be satisfied until you've looked at
+- [05:37:16,150 - 05:37:19,650] all your own numbers and be responsible.
+- [05:37:19,650 - 05:37:22,650] Don't wait for somebody to come along.
+- [05:37:22,650 - 05:37:24,650] What if nobody comes along?
+- [05:37:24,650 - 05:37:28,650] You've got to be responsible yourself.
+- [05:37:28,650 - 05:37:30,650] Results are the name of the game.
+- [05:37:30,650 - 05:37:32,650] Let's check the numbers.
+- [05:37:32,650 - 05:37:34,150] Don't be satisfied with anything
+- [05:37:34,150 - 05:37:35,650] less than the best of numbers.
+- [05:37:36,650 - 05:37:40,650] Jesus walked along one day and saw a fig tree.
+- [05:37:40,650 - 05:37:42,650] Interesting story.
+- [05:37:42,650 - 05:37:45,650] And as Jesus looked suspiciously at this
+- [05:37:45,650 - 05:37:48,650] fig tree, he said to his disciples,
+- [05:37:48,650 - 05:37:51,650] does that fig tree have any figs?
+- [05:37:51,650 - 05:37:54,650] Do you think that's an important question?
+- [05:37:54,650 - 05:37:56,650] I'm telling you for a fig
+- [05:37:56,650 - 05:37:58,650] tree, it's an all important question.
+- [05:37:58,650 - 05:38:00,650] Does it have any figs?
+- [05:38:00,650 - 05:38:02,650] His disciples said, no, sir, of
+- [05:38:02,650 - 05:38:04,650] all the trees you were to pick,
+- [05:38:04,650 - 05:38:06,650] this particular one, it's not.
+- [05:38:06,650 - 05:38:09,650] This particular fig tree does not have any figs.
+- [05:38:09,650 - 05:38:12,650] The story says Jesus lost his cool.
+- [05:38:12,650 - 05:38:15,650] One of the few times he lost his cool.
+- [05:38:15,650 - 05:38:18,650] Why? I think to make a point.
+- [05:38:18,650 - 05:38:21,650] A fig tree without figs?
+- [05:38:21,650 - 05:38:23,650] It is unacceptable.
+- [05:38:23,650 - 05:38:26,150] Jesus said, if that fig tree doesn't have
+- [05:38:26,150 - 05:38:28,650] any figs, I suggest you promptly take it out.
+- [05:38:28,650 - 05:38:33,650] And he added, why let it take up the ground?
+- [05:38:33,650 - 05:38:35,150] So you've got to get all your
+- [05:38:35,150 - 05:38:36,650] people together every once in a while
+- [05:38:36,650 - 05:38:40,650] and say, today we're counting the figs.
+- [05:38:40,650 - 05:38:41,650] What for?
+- [05:38:41,650 - 05:38:44,650] To see who gets to stay.
+- [05:38:44,650 - 05:38:47,650] Why? It's the name of the game.
+- [05:38:47,650 - 05:38:49,650] Results.
+- [05:38:49,650 - 05:38:51,650] Now, what if your results
+- [05:38:51,650 - 05:38:53,650] are not that good right now?
+- [05:38:53,650 - 05:38:56,150] What if you're going through some tough times
+- [05:38:56,150 - 05:38:58,650] and aren't quite sure what to do next?
+- [05:38:58,650 - 05:39:01,650] You know why I do seminars and
+- [05:39:01,650 - 05:39:04,650] lectures and write books and audio programs?
+- [05:39:04,650 - 05:39:05,650] So I can attend them all myself.
+- [05:39:05,650 - 05:39:07,650] Read it again myself.
+- [05:39:07,650 - 05:39:10,650] Listen again myself.
+- [05:39:10,650 - 05:39:13,650] I don't do it just to hear myself talk.
+- [05:39:13,650 - 05:39:15,650] And I don't do it for the money.
+- [05:39:15,650 - 05:39:18,650] I do it because the teacher always receives
+- [05:39:18,650 - 05:39:21,650] the greatest lessons he seeks to teach others.
+- [05:39:21,650 - 05:39:24,650] What's the best way out of a blue mood?
+- [05:39:24,650 - 05:39:27,650] Talk somebody else through theirs.
+- [05:39:27,650 - 05:39:30,650] What's the best way out of a mental energy slump?
+- [05:39:30,650 - 05:39:33,650] Talk somebody else through theirs.
+- [05:39:33,650 - 05:39:36,650] What's the best way to start solving your own problems?
+- [05:39:36,650 - 05:39:39,650] Talk to somebody else about theirs.
+- [05:39:39,650 - 05:39:43,150] Why? Because when you start talking someone else through
+- [05:39:43,150 - 05:39:46,650] their blue mood or their mental slump or their problem,
+- [05:39:46,650 - 05:39:49,650] you'll hear yourself say amazing things.
+- [05:39:49,650 - 05:39:52,150] You'll hear all the knowledge that you've
+- [05:39:52,150 - 05:39:54,650] gathered come out to help this other person.
+- [05:39:54,650 - 05:39:58,650] And it will ultimately help you by hearing it again.
+- [05:39:58,650 - 05:40:00,650] It just works that way.
+- [05:40:00,650 - 05:40:02,650] It's often easier to tap our resources for somebody else.
+- [05:40:02,650 - 05:40:07,650] Than it is to tap them for ourselves.
+- [05:40:07,650 - 05:40:09,650] Sometimes defeat is the best beginning.
+- [05:40:09,650 - 05:40:10,650] Why?
+- [05:40:10,650 - 05:40:12,650] Well, for one, if you're at the
+- [05:40:12,650 - 05:40:14,650] very bottom, there's only one way to go.
+- [05:40:14,650 - 05:40:16,650] Up.
+- [05:40:16,650 - 05:40:19,150] But more importantly, if you're flat
+- [05:40:19,150 - 05:40:21,650] on your back mentally and financially,
+- [05:40:21,650 - 05:40:25,650] you'll usually become sufficiently disgusted to reach way
+- [05:40:25,650 - 05:40:29,650] down deep inside yourself and pull out miracles.
+- [05:40:29,650 - 05:40:31,650] Pull out talents and pull out abilities.
+- [05:40:31,650 - 05:40:35,650] And pull out desires and determination.
+- [05:40:35,650 - 05:40:38,650] When you're flat broke or flat miserable,
+- [05:40:38,650 - 05:40:42,150] you'll eventually become so disgusted that you'll pull
+- [05:40:42,150 - 05:40:45,650] out the basic essentials required to make everything better.
+- [05:40:45,650 - 05:40:47,650] And it's in the face of
+- [05:40:47,650 - 05:40:49,650] adversity that things begin to change.
+- [05:40:49,650 - 05:40:51,650] That you begin to change.
+- [05:40:51,650 - 05:40:55,150] With enough disgust, desire and determination to change
+- [05:40:55,150 - 05:40:58,650] your life, you'll start saying, I've had it.
+- [05:40:58,650 - 05:41:00,650] Enough of this. No more.
+- [05:41:00,650 - 05:41:02,650] Never again.
+- [05:41:02,650 - 05:41:04,650] Here's where the miracle begins.
+- [05:41:04,650 - 05:41:05,650] I've had it.
+- [05:41:05,650 - 05:41:07,650] Enough. No more.
+- [05:41:07,650 - 05:41:09,650] Never again.
+- [05:41:09,650 - 05:41:12,650] These words and these thoughts really rattle
+- [05:41:12,650 - 05:41:15,650] the power of time and fate and circumstances.
+- [05:41:15,650 - 05:41:18,150] And these three things, time and fate
+- [05:41:18,150 - 05:41:20,650] and circumstances, all get together and say,
+- [05:41:20,650 - 05:41:22,650] Okay, okay.
+- [05:41:22,650 - 05:41:25,650] We can see that we have no power here.
+- [05:41:25,650 - 05:41:27,650] We're facing some major resolve.
+- [05:41:27,650 - 05:41:29,650] This guy's not going to give up.
+- [05:41:29,650 - 05:41:30,650] He's had it.
+- [05:41:30,650 - 05:41:32,650] He's done with all this nonsense.
+- [05:41:32,650 - 05:41:36,650] We better step aside and let this guy get by.
+- [05:41:36,650 - 05:41:37,650] Resolve.
+- [05:41:37,650 - 05:41:41,650] Inspiration through disgust.
+- [05:41:41,650 - 05:41:43,650] But a lot of people don't change themselves.
+- [05:41:43,650 - 05:41:45,650] They wait for change.
+- [05:41:45,650 - 05:41:47,650] Circumstances to change.
+- [05:41:47,650 - 05:41:48,650] The government to change.
+- [05:41:48,650 - 05:41:49,650] Life to change.
+- [05:41:49,650 - 05:41:50,650] What'll that do?
+- [05:41:50,650 - 05:41:52,650] Not much.
+- [05:41:52,650 - 05:41:55,150] These poor unfortunate folks accept their
+- [05:41:55,150 - 05:41:57,650] defeats and wallow in their self-pity.
+- [05:41:57,650 - 05:41:58,650] Why?
+- [05:41:58,650 - 05:42:02,650] Because they refuse to take control of the situation.
+- [05:42:02,650 - 05:42:06,650] They refuse to take control of their life,
+- [05:42:06,650 - 05:42:10,650] their career, their health, their relationships, their finances.
+- [05:42:10,650 - 05:42:14,150] They refuse to take control and take
+- [05:42:14,150 - 05:42:17,650] responsibility and get sufficiently disgusted to change it.
+- [05:42:17,650 - 05:42:21,650] But if you are disgusted, if you are making changes, if
+- [05:42:21,650 - 05:42:25,650] this program finds you in the middle of your own personal slump,
+- [05:42:25,650 - 05:42:27,650] then I have some words to offer you.
+- [05:42:28,650 - 05:42:32,650] Your present failure is a temporary condition.
+- [05:42:32,650 - 05:42:34,650] It is only a temporary condition.
+- [05:42:34,650 - 05:42:37,650] You will rebound from failure just
+- [05:42:37,650 - 05:42:40,650] as surely as you gravitated into failure.
+- [05:42:40,650 - 05:42:44,650] Somebody once suggested to me in a bout of failure
+- [05:42:44,650 - 05:42:48,650] that I should tell myself that this too shall pass.
+- [05:42:48,650 - 05:42:52,650] I firmly believe that you're only given as much as you
+- [05:42:52,650 - 05:42:56,650] can handle, as much negativity, as much failure, as much disappointment.
+- [05:42:56,650 - 05:42:58,650] This too shall pass.
+- [05:42:58,650 - 05:43:02,150] If you grasp for a new beginning, if you pull
+- [05:43:02,150 - 05:43:05,650] yourself up and move back into the world with a plan.
+- [05:43:05,650 - 05:43:09,150] So as foolish as it might sound,
+- [05:43:09,150 - 05:43:12,650] be thankful for your current limitations or failures.
+- [05:43:12,650 - 05:43:16,650] For they are building blocks from which to create greatness.
+- [05:43:16,650 - 05:43:18,650] You can go where you want to go.
+- [05:43:18,650 - 05:43:20,650] You can do what you want to do.
+- [05:43:20,650 - 05:43:22,650] You can become what you want to become.
+- [05:43:22,650 - 05:43:24,650] You can do it all starting
+- [05:43:24,650 - 05:43:26,650] now, starting right where you are.
+- [05:43:26,650 - 05:43:29,650] A father talks about his daughter.
+- [05:43:29,650 - 05:43:32,650] She's gone through some pretty tough times.
+- [05:43:32,650 - 05:43:36,650] And as he tells it, she's a pretty tough person.
+- [05:43:36,650 - 05:43:38,650] He has a unique way
+- [05:43:38,650 - 05:43:40,650] of describing his daughter's situation, though.
+- [05:43:40,650 - 05:43:43,150] While most parents would be frantic, even
+- [05:43:43,150 - 05:43:45,650] of their kids who are grown and gone.
+- [05:43:45,650 - 05:43:48,650] This man just smiles and says that his daughter
+- [05:43:48,650 - 05:43:51,650] is like a frog in a jar of cream.
+- [05:43:51,650 - 05:43:54,650] She keeps kicking and kicking and kicking.
+- [05:43:54,650 - 05:43:56,650] And pretty soon the milk will stop.
+- [05:43:56,650 - 05:43:59,150] She'll turn into a lump of butter
+- [05:43:59,150 - 05:44:01,650] and she'll be able to jump out.
+- [05:44:01,650 - 05:44:03,650] That's an interesting way to look at it.
+- [05:44:03,650 - 05:44:06,650] An interesting illustration of tenacity.
+- [05:44:06,650 - 05:44:08,650] But that's how it works.
+- [05:44:08,650 - 05:44:11,650] You've got to keep trying and trying and trying.
+- [05:44:11,650 - 05:44:16,650] You've got to have enough resolve to do it until.
+- [05:44:16,650 - 05:44:19,650] So be grateful for adversity.
+- [05:44:19,650 - 05:44:22,150] But for your future, make it
+- [05:44:22,150 - 05:44:24,650] work for you, not against you.
+- [05:44:24,650 - 05:44:25,650] Make your failures.
+- [05:44:25,650 - 05:44:29,650] Give birth to great opportunity, not prolonged agony.
+- [05:44:29,650 - 05:44:33,650] Make your disgust lead to inspiration, not depression.
+- [05:44:33,650 - 05:44:37,650] The world will willingly sit by and let you
+- [05:44:37,650 - 05:44:41,650] wallow in your sorrows until you die broken alone.
+- [05:44:41,650 - 05:44:43,650] And here's what else the world will do.
+- [05:44:43,650 - 05:44:46,650] The world will step aside and let you buy.
+- [05:44:46,650 - 05:44:48,650] Once you decide that your
+- [05:44:48,650 - 05:44:50,650] present situation is only temporary.
+- [05:44:50,650 - 05:44:52,650] Once you decide to get back
+- [05:44:52,650 - 05:44:54,650] on your feet and make your mark.
+- [05:44:55,650 - 05:44:58,150] The world doesn't care which choice you
+- [05:44:58,150 - 05:45:00,650] make to stop here or to go on.
+- [05:45:00,650 - 05:45:02,650] The world doesn't really care.
+- [05:45:02,650 - 05:45:04,650] So you have to.
+- [05:45:04,650 - 05:45:08,650] You have to care in your own enlightened self-interest.
+- [05:45:08,650 - 05:45:10,650] Give a run at adventure.
+- [05:45:10,650 - 05:45:13,650] Keep your eyes firmly on the achievement on
+- [05:45:13,650 - 05:45:16,650] your ambition and not merely existence and self-pity.
+- [05:45:16,650 - 05:45:19,650] Make a commitment to excellence.
+- [05:45:19,650 - 05:45:21,650] And remember, it is your
+- [05:45:21,650 - 05:45:23,650] challenge, your own personal challenge,
+- [05:45:23,650 - 05:45:26,150] to use all your gifts and
+- [05:45:26,150 - 05:45:28,650] skills and talents and knowledge to succeed.
+- [05:45:36,650 - 05:45:38,650] Now, here's another thought for you.
+- [05:45:38,650 - 05:45:40,650] It's a big thought.
+- [05:45:40,650 - 05:45:42,150] It's a thought that can make
+- [05:45:42,150 - 05:45:43,650] all the difference in the world.
+- [05:45:43,650 - 05:45:44,650] And here it is.
+- [05:45:44,650 - 05:45:49,650] Success is something you attract by the person you become.
+- [05:45:49,650 - 05:45:51,150] Once I understood that, I
+- [05:45:51,150 - 05:45:52,650] changed my whole method of operation.
+- [05:45:52,650 - 05:45:57,650] Success is something you attract by the person you become.
+- [05:45:57,650 - 05:46:00,650] Success is not something you pursue.
+- [05:46:00,650 - 05:46:04,650] What you pursue usually eludes you like a butterfly.
+- [05:46:04,650 - 05:46:07,650] Something you go after that you can't catch.
+- [05:46:07,650 - 05:46:10,150] Success is something you attract like
+- [05:46:10,150 - 05:46:12,650] a magnet by the person you become.
+- [05:46:12,650 - 05:46:14,650] To attract attractive people,
+- [05:46:14,650 - 05:46:16,650] we've talked about this before.
+- [05:46:16,650 - 05:46:20,650] To attract attractive people, you must be attractive.
+- [05:46:20,650 - 05:46:21,650] To attract powerful people, you must be powerful.
+- [05:46:21,650 - 05:46:24,650] To attract powerful people, you must be powerful.
+- [05:46:24,650 - 05:46:27,650] To attract committed people, you must be committed.
+- [05:46:27,650 - 05:46:30,150] Instead of going to work on
+- [05:46:30,150 - 05:46:32,650] them, you go to work on yourself.
+- [05:46:32,650 - 05:46:34,650] You work harder on yourself
+- [05:46:34,650 - 05:46:36,650] than you work on the job.
+- [05:46:36,650 - 05:46:40,650] And if you become, you can attract.
+- [05:46:40,650 - 05:46:43,650] The whole key is to make yourself valuable.
+- [05:46:43,650 - 05:46:46,650] The key is to make yourself attractive.
+- [05:46:46,650 - 05:46:48,650] The key is to make
+- [05:46:48,650 - 05:46:50,650] yourself skillful, competent, willing, powerful,
+- [05:46:50,650 - 05:46:54,679] powerful, unique, sophisticated, cultured, being
+- [05:46:54,679 - 05:46:58,709] able to manage, in control, healthy.
+- [05:46:59,230 - 05:47:02,339] The whole key really to the future is
+- [05:47:02,339 - 05:47:05,449] personal development. Because the greatest gift you can
+- [05:47:05,449 - 05:47:08,529] give to someone else is
+- [05:47:08,529 - 05:47:11,609] your personal development, self-development, self-investment.
+- [05:47:12,150 - 05:47:16,030] The greatest gift you can give is your
+- [05:47:16,030 - 05:47:19,910] own personal development. If I become 10 times wiser,
+- [05:47:19,910 - 05:47:23,630] 10 times stronger, 10 times brighter, 10 times
+- [05:47:23,630 - 05:47:27,350] more competent, think of what that will do for
+- [05:47:27,350 - 05:47:31,529] my success. If I grow, think of what
+- [05:47:31,529 - 05:47:35,709] that will do for my future. Self-development earns success.
+- [05:47:36,550 - 05:47:39,750] Self-investment earns respect. And the only way
+- [05:47:39,750 - 05:47:42,950] to make a better and better and better
+- [05:47:42,950 - 05:47:46,140] investment in your future is to become
+- [05:47:46,140 - 05:47:49,330] better and stronger and wiser and more competent.
+- [05:47:50,230 - 05:47:53,350] And the more attractive you become, the more
+- [05:47:53,350 - 05:47:56,470] attractive you are. And the more attractive you
+- [05:47:56,470 - 05:48:00,589] are, the more you attract success.
+- [05:48:00,589 - 05:48:04,709] Self-development, self-investment attracts success. That's powerful.
+- [05:48:06,310 - 05:48:09,310] Now here's what would be pitiful if your
+- [05:48:09,310 - 05:48:12,310] income grew and you didn't grow. Because here's what
+- [05:48:12,310 - 05:48:15,390] usually happens. If your income takes some jumps, it's
+- [05:48:15,390 - 05:48:18,470] best that you grow quickly up to where your
+- [05:48:18,470 - 05:48:19,750] income is. Why?
+- [05:48:20,230 - 05:48:22,070] Because otherwise, your income will soon
+- [05:48:22,070 - 05:48:23,910] come back to where you are.
+- [05:48:25,270 - 05:48:29,270] Somebody once said, if someone hands you a million dollars,
+- [05:48:29,270 - 05:48:30,910] best you become a millionaire so
+- [05:48:30,910 - 05:48:32,550] you get to keep the money.
+- [05:48:33,430 - 05:48:35,910] I'm telling you, success doesn't want
+- [05:48:35,910 - 05:48:38,390] to hang around an incompetent person.
+- [05:48:39,670 - 05:48:42,390] That's the problem with winning the lottery. The
+- [05:48:42,390 - 05:48:45,110] lack of self-development to be able to master it
+- [05:48:45,110 - 05:48:46,470] and keep it. And now the fortune is
+- [05:48:46,470 - 05:48:47,830] bigger than the person, rather than the person is.
+- [05:48:47,830 - 05:48:48,630] And now the fortune is bigger than
+- [05:48:48,630 - 05:48:49,430] the person, rather than the person is.
+- [05:48:49,430 - 05:48:52,910] than the person being bigger than the fortune if
+- [05:48:52,910 - 05:48:56,390] you're a parent use that as a challenge to grow
+- [05:48:56,390 - 05:49:00,030] personally use the challenge of parenting to grow
+- [05:49:00,030 - 05:49:03,670] see what you can become one ancient writer said
+- [05:49:03,670 - 05:49:08,350] this here are some reassuring words god's arm
+- [05:49:08,350 - 05:49:13,030] is not short aren't those reassuring words god's arm
+- [05:49:13,030 - 05:49:15,990] is not short you can't think of anything
+- [05:49:15,990 - 05:49:18,950] more pitiful than a god with a short arm
+- [05:49:20,310 - 05:49:21,790] poor god his arms too short
+- [05:49:21,790 - 05:49:23,270] he can't reach all the way
+- [05:49:24,070 - 05:49:27,310] can't reach out to all of us this writer said
+- [05:49:27,310 - 05:49:30,550] no be reassured god's arm is not short he can reach
+- [05:49:30,550 - 05:49:34,310] all the way and he can reach everybody shouldn't
+- [05:49:34,310 - 05:49:38,070] that be said of every father of every mother they
+- [05:49:38,070 - 05:49:40,510] can reach all of their children they can
+- [05:49:40,510 - 05:49:42,950] reach all the way they don't lack story
+- [05:49:43,930 - 05:49:46,960] rations they don't lack wisdom and power and the
+- [05:49:46,960 - 05:49:49,990] only way you can become that kind of parent the
+- [05:49:49,990 - 05:49:53,110] only way you can keep up that process
+- [05:49:53,110 - 05:49:56,230] is by personal development by becoming better than you
+- [05:49:56,230 - 05:50:00,390] are stronger than you are wiser than you
+- [05:50:00,390 - 05:50:04,550] are becoming becoming growing so that your investment
+- [05:50:04,550 - 05:50:07,710] grows as your children grow you grow your
+- [05:50:07,710 - 05:50:10,870] power grows your influence grows your wisdom grows
+- [05:50:11,510 - 05:50:12,950] your command of the language
+- [05:50:13,030 - 05:50:16,640] grows. You see, that's what's challenging, to be
+- [05:50:16,640 - 05:50:20,250] involved in a situation that makes you grow.
+- [05:50:21,130 - 05:50:23,220] If that situation is success, keep
+- [05:50:23,220 - 05:50:25,310] growing to be bigger than your fortune.
+- [05:50:25,310 - 05:50:28,170] If that situation is failure, keep
+- [05:50:28,170 - 05:50:31,030] growing until you're bigger than the problem.
+- [05:50:31,970 - 05:50:35,820] Keep growing, keep becoming, keep doing it until.
+- [05:50:35,820 - 05:50:39,670] Now, there are two qualities that can increase
+- [05:50:39,670 - 05:50:43,460] your chances of success. Two very
+- [05:50:43,460 - 05:50:47,250] important qualities. Number one, patience. Number two,
+- [05:50:48,350 - 05:50:52,110] persistence. Let's talk about patience for a
+- [05:50:52,110 - 05:50:55,870] moment. Patience is what? Learning to handle
+- [05:50:55,870 - 05:50:58,820] the passing of time. Now, once you've had an
+- [05:50:58,820 - 05:51:01,770] appetite for success and you start going for it,
+- [05:51:01,810 - 05:51:05,590] now you've got to learn to handle the passing
+- [05:51:05,590 - 05:51:09,370] of time. Here's why. It takes time. It takes time
+- [05:51:09,370 - 05:51:09,510] to build up your patience. It takes time to build
+- [05:51:09,510 - 05:51:09,650] up your patience. It takes time to build up your
+- [05:51:09,650 - 05:51:11,839] patience. It takes time to build a corporate work
+- [05:51:11,839 - 05:51:14,029] of art. It takes time to build a symphony
+- [05:51:14,029 - 05:51:17,679] orchestra with flawless music and harmony that sends
+- [05:51:17,679 - 05:51:21,330] you on flights of ecstasy. To be remembered
+- [05:51:21,330 - 05:51:24,580] long after the orchestra has shut down and the
+- [05:51:24,580 - 05:51:27,830] lights have gone out. It takes time to put harmony
+- [05:51:27,830 - 05:51:31,240] together. It takes time to build a life. It takes
+- [05:51:31,240 - 05:51:34,650] time to build an enterprise. It takes time to get
+- [05:51:34,650 - 05:51:38,090] through school. It takes time to develop and grow.
+- [05:51:38,090 - 05:51:41,970] So give your enterprise time. Give your business
+- [05:51:41,970 - 05:51:45,850] time. If you're in management, give your people
+- [05:51:45,850 - 05:51:49,490] time. If you're a parent, give your kids time.
+- [05:51:49,490 - 05:51:53,130] Don't be too short, too quick. Give them time.
+- [05:51:53,730 - 05:51:57,280] Now, not forever, but time. It takes
+- [05:51:57,280 - 05:52:00,830] time. Here's the ultimate challenge. You've got to
+- [05:52:00,830 - 05:52:04,330] have patience with yourself. It takes time to
+- [05:52:04,330 - 05:52:07,830] make changes in habit and discipline. It takes
+- [05:52:07,830 - 05:52:07,950] time to build a business. It takes time to build
+- [05:52:07,950 - 05:52:08,070] a company. It takes time to build a business. It takes
+- [05:52:08,070 - 05:52:11,020] time to correct old errors in judgment and to
+- [05:52:11,020 - 05:52:13,970] finally give up old blame and pick up new
+- [05:52:13,970 - 05:52:17,310] responsibility. I'm telling you, it took me some
+- [05:52:17,310 - 05:52:20,650] time. I used to blame the government and blame
+- [05:52:20,650 - 05:52:23,490] taxes and blame the company and blame the marketplace.
+- [05:52:23,490 - 05:52:26,330] It took me a long time to give that
+- [05:52:26,330 - 05:52:29,340] up. That was a pretty comfortable list to
+- [05:52:29,340 - 05:52:32,350] explain my empty bank account, pennies in my pocket,
+- [05:52:32,350 - 05:52:34,770] nothing in the bank, not
+- [05:52:34,770 - 05:52:37,190] doing well, embarrassed by my situation.
+- [05:52:37,190 - 05:52:41,500] It took time to give that up and only
+- [05:52:41,500 - 05:52:45,810] blame myself. That took a while. So have patience
+- [05:52:45,810 - 05:52:48,360] with yourself, number one. And number two,
+- [05:52:48,360 - 05:52:50,910] while you're dealing with the passing of time,
+- [05:52:51,570 - 05:52:56,060] number two is to keep doing it. Be persistent.
+- [05:52:56,060 - 05:53:00,550] Be tenacious. Keep doing it until. As long as you
+- [05:53:00,550 - 05:53:03,740] are patient and persistent, it's hard to elude
+- [05:53:03,740 - 05:53:06,930] success. As long as you maintain patience and
+- [05:53:06,930 - 05:53:10,220] persistence tenacity, there's only one person, just
+- [05:53:10,220 - 05:53:13,510] one person that will draw the line between
+- [05:53:13,510 - 05:53:18,660] success and failure. One person and that person
+- [05:53:18,660 - 05:53:23,810] is you. So be patient, be persistent. You need
+- [05:53:23,810 - 05:53:26,850] both patience and persistence together. And here's
+- [05:53:26,850 - 05:53:29,890] why lack of patience is probably the
+- [05:53:29,890 - 05:53:32,640] worst enemy of ambition. While your
+- [05:53:32,640 - 05:53:35,390] ambition keeps growing, keeps moving, keeps looking
+- [05:53:35,390 - 05:53:35,910] for new ways to succeed. I'm telling you,
+- [05:53:35,910 - 05:53:36,430] it takes time to build a business. It takes
+- [05:53:36,430 - 05:53:36,470] time to build a business. It takes time to build
+- [05:53:36,470 - 05:53:36,510] a business. It takes time to build a business. It takes
+- [05:53:36,510 - 05:53:36,760] time to build a business. It takes time to
+- [05:53:36,760 - 05:53:37,010] build a business. It takes time to build a business.
+- [05:53:37,010 - 05:53:39,890] Impatience tends to grow frustrated.
+- [05:53:39,890 - 05:53:42,770] Impatience won't allow for persistence.
+- [05:53:43,490 - 05:53:45,750] Impatience wants to give
+- [05:53:45,750 - 05:53:48,010] up. Impatience calls discouragement failure.
+- [05:53:49,370 - 05:53:51,330] But your ambition won't let you give
+- [05:53:51,330 - 05:53:53,290] up so easily. Not if you're persistent.
+- [05:53:54,290 - 05:53:57,690] What others may call failure, ambition calls
+- [05:53:57,690 - 05:54:01,090] a learning opportunity, a chance to make adjustments
+- [05:54:01,090 - 05:54:03,550] along the charted course to
+- [05:54:03,550 - 05:54:06,010] success. Ambition knows something else too.
+- [05:54:06,510 - 05:54:08,130] Speaker 1 Ambition knows that
+- [05:54:08,130 - 05:54:09,750] the longer the achievement is incoming,
+- [05:54:09,750 - 05:54:12,310] the more valued it is. So let
+- [05:54:12,310 - 05:54:14,870] me give you a few aspects of patience.
+- [05:54:15,590 - 05:54:18,670] Some examples that might help illustrate just how
+- [05:54:18,670 - 05:54:21,750] valuable it is. There are six aspects of
+- [05:54:21,750 - 05:54:25,190] patience and here's number one knowing when
+- [05:54:25,190 - 05:54:28,630] an opportunity is right and when more preparation
+- [05:54:28,630 - 05:54:31,440] is needed. Let's say you're opening up a restaurant specializing in fresh seafood. You're all excited, but you're all previous
+- [05:54:31,440 - 05:54:34,250] going on with election violence, fall of the руки and the the được적 Smoke and爱 interviewer auf der amohe Fahrradd mach?
+- [05:54:34,250 - 05:54:34,470] This is going to Parliament and what are you worrying about? If you skip this here first page over tooney? We're going to coach club one of our labeled
+- [05:54:34,470 - 05:54:34,690] jobs and let us take a quick look. We've talked about leadership, interview regarding doing the job. There are time and value. Let's take these things into consideration. Manyа
+- [05:54:35,570 - 05:54:38,410] you're all excited to get going get the money
+- [05:54:38,410 - 05:54:41,250] coming in instead of it all going out you're
+- [05:54:41,250 - 05:54:44,330] all excited so because you're all excited you want
+- [05:54:44,330 - 05:54:47,410] to open early your impatience gets the best of you
+- [05:54:48,210 - 05:54:51,330] and so you do open before your scheduled
+- [05:54:51,330 - 05:54:54,450] grand opening customers start coming in they're all
+- [05:54:54,450 - 05:54:56,970] excited about this new great restaurant
+- [05:54:56,970 - 05:54:59,490] and everybody wants some fresh seafood
+- [05:55:00,449 - 05:55:03,409] they're all ordering fresh seafood from the menu
+- [05:55:03,409 - 05:55:06,369] but now you panic you haven't got any
+- [05:55:07,330 - 05:55:09,610] you're not ready the fresh seafood
+- [05:55:09,610 - 05:55:11,890] shipment won't come in for a week
+- [05:55:13,170 - 05:55:16,170] impatience has just killed the restaurant now let's
+- [05:55:16,170 - 05:55:19,170] say you've got a great new product that's
+- [05:55:19,170 - 05:55:21,610] scheduled to come out on the market in
+- [05:55:21,610 - 05:55:24,050] the next several months everything's going according to
+- [05:55:24,050 - 05:55:26,730] plan so you start planning your
+- [05:55:26,730 - 05:55:29,410] ads start planning big public relations events
+- [05:55:30,289 - 05:55:32,929] you're so sure that it's going to happen that
+- [05:55:32,929 - 05:55:35,570] you set a date the engineers told you that the
+- [05:55:35,570 - 05:55:38,570] product's not ready but you're sure it will
+- [05:55:38,570 - 05:55:41,570] be you start planning everything invite lots of people
+- [05:55:41,570 - 05:55:44,370] influential people buyers of your product you're so
+- [05:55:44,370 - 05:55:47,170] excited that you went ahead without the product
+- [05:55:47,170 - 05:55:50,450] actually being done come the week of the grand
+- [05:55:50,450 - 05:55:53,730] unveiling the engineers come to you and say it
+- [05:55:53,730 - 05:55:56,530] still doesn't work your impatience just lost you
+- [05:55:56,530 - 05:55:59,330] credibility in the market when you're trying to
+- [05:55:59,330 - 05:56:02,370] marketplace that's number one be patient in
+- [05:56:02,370 - 05:56:05,410] knowing the difference between when the opportunity is
+- [05:56:05,410 - 05:56:09,250] right and when more work needs to be
+- [05:56:09,250 - 05:56:13,090] done here's number two remain alert even if opportunity
+- [05:56:13,090 - 05:56:15,770] doesn't come right away make sure that your
+- [05:56:15,770 - 05:56:18,450] patience allows you to keep your eyes open
+- [05:56:18,450 - 05:56:22,810] and ready for opportunity keep looking be
+- [05:56:22,810 - 05:56:27,170] patient number three keep preparing for opportunities even
+- [05:56:27,170 - 05:56:29,770] if there's a delay even if things aren't going
+- [05:56:29,770 - 05:56:32,370] just the way you think they should keep your
+- [05:56:32,370 - 05:56:36,490] disappointments at bay and keep getting ready
+- [05:56:36,490 - 05:56:40,610] for opportunities be prepared always be prepared don't
+- [05:56:40,610 - 05:56:45,210] let impatience allow you to give up number
+- [05:56:45,210 - 05:56:49,810] four in patience take the little setbacks in stride
+- [05:56:49,810 - 05:56:52,410] take the little successes in stride
+- [05:56:52,410 - 05:56:55,010] don't let small disappointments discourage you
+- [05:56:55,890 - 05:56:57,090] don't let the little successes
+- [05:56:57,170 - 05:57:00,570] is delude you avoid the emotional roller
+- [05:57:00,570 - 05:57:03,970] coaster that will always always disrupt your plan
+- [05:57:05,410 - 05:57:07,570] number five if you're waiting on
+- [05:57:07,570 - 05:57:09,730] the decisions of others be patient
+- [05:57:10,610 - 05:57:13,730] you cannot control the decision-making abilities of others
+- [05:57:14,930 - 05:57:17,890] you cannot control their timing if your project was
+- [05:57:17,890 - 05:57:20,850] to come up before the board in one meeting
+- [05:57:20,850 - 05:57:23,650] and time ran out and they moved your project
+- [05:57:23,650 - 05:57:26,450] to the top of the agenda for the next meeting
+- [05:57:26,450 - 05:57:27,090] be patient
+- [05:57:27,970 - 05:57:30,850] don't be frustrated about what you have no control over
+- [05:57:32,450 - 05:57:35,570] and number six take a vacation from
+- [05:57:35,570 - 05:57:38,690] your ambition if you've been working day after
+- [05:57:38,690 - 05:57:41,450] day week after week month after month without
+- [05:57:41,450 - 05:57:44,210] a break take a vacation from your ambition
+- [05:57:45,330 - 05:57:48,290] the patient person secure in their ambition
+- [05:57:48,850 - 05:57:52,370] knows that the drive and ambition will still be there
+- [05:57:52,370 - 05:57:55,890] even after some time off as a matter of fact
+- [05:57:56,609 - 05:57:59,409] with some time off the ambition will have a
+- [05:57:59,409 - 05:58:02,209] stronger pull than ever when you come back to it
+- [05:58:03,490 - 05:58:07,009] persistence is patience in action persistence
+- [05:58:07,009 - 05:58:10,529] is creative always looking for new opportunities
+- [05:58:11,570 - 05:58:14,929] persistence is courageous it doesn't give in
+- [05:58:14,929 - 05:58:18,289] to fear persistence is hopeful it doesn't let
+- [05:58:18,289 - 05:58:21,729] discouragement through the door persistence is positive
+- [05:58:21,729 - 05:58:25,170] it keeps you on track with your plans
+- [05:58:25,170 - 05:58:28,810] and your goals and the last thing
+- [05:58:28,810 - 05:58:32,450] that persistence is is cheerful not gloomy cheerful
+- [05:58:33,330 - 05:58:36,490] persistence knows that gloom and depression
+- [05:58:36,490 - 05:58:39,650] and disappointments waste energy cheerfulness creates
+- [05:58:39,650 - 05:58:43,410] it patience and persistence are both required for
+- [05:58:43,410 - 05:58:47,170] success and as we end this side please remember
+- [05:58:47,170 - 05:58:51,170] that success and failure are also intricately
+- [05:58:51,170 - 05:58:55,170] intertwined for without failure you can never
+- [05:58:55,170 - 05:58:58,250] appreciate success and quite often without
+- [05:58:58,250 - 05:59:01,330] failure there will never be success
+- [05:59:19,330 - 05:59:22,170] you are more than your ambition these are
+- [05:59:22,170 - 05:59:25,010] undoubtedly some of the most valuable words in the
+- [05:59:25,170 - 05:59:26,370] history of the world and the history
+- [05:59:26,370 - 05:59:27,570] of the world is the power of ambition
+- [05:59:28,610 - 05:59:32,450] you are more than your ambition you can't
+- [05:59:32,450 - 05:59:36,290] serve your ambition no your ambition must serve you
+- [05:59:37,730 - 05:59:39,250] if you serve your ambition
+- [05:59:39,250 - 05:59:40,770] you become less than your ambition
+- [05:59:41,810 - 05:59:44,490] if you don't allow your ambition to serve you
+- [05:59:44,490 - 05:59:47,170] your ambition won't have any resources to pull from
+- [05:59:47,970 - 05:59:51,530] to grow to maintain it won't have a
+- [05:59:51,530 - 05:59:55,090] reservoir of strength and discipline and ingenuity and
+- [05:59:55,170 - 05:59:58,730] creativity if you serve your ambition it will
+- [05:59:58,730 - 06:00:02,290] be weakened there will be nothing to revive it
+- [06:00:03,010 - 06:00:05,250] replenish it so how do you make
+- [06:00:05,250 - 06:00:07,490] sure that your ambition is serving you
+- [06:00:08,210 - 06:00:10,930] let's review the methods for building your ambition
+- [06:00:11,730 - 06:00:14,570] the principles for building your ambition
+- [06:00:14,570 - 06:00:17,410] the building blocks the fundamental philosophies
+- [06:00:17,410 - 06:00:20,810] that we must continue to work on so our ambition
+- [06:00:20,810 - 06:00:24,210] will continue to serve us work for us let's go
+- [06:00:24,210 - 06:00:27,490] through these one more time because these building
+- [06:00:27,490 - 06:00:30,770] blocks help develop the foundation of good strong
+- [06:00:30,770 - 06:00:35,210] ambition here they are principle
+- [06:00:35,210 - 06:00:39,650] number one positive self-direction positive self-direction
+- [06:00:39,650 - 06:00:43,170] says i know who i am i know where i want
+- [06:00:43,170 - 06:00:46,690] to go i am working on my plan to get there
+- [06:00:47,970 - 06:00:50,290] in positive self-direction you accumulate
+- [06:00:50,290 - 06:00:52,610] knowledge and experiences and feelings and
+- [06:00:52,610 - 06:00:56,050] philosophies you gather all that you can to help you
+- [06:00:56,050 - 06:00:59,490] decide where you want to go how you want to
+- [06:00:59,490 - 06:01:03,410] get there how to keep on track
+- [06:01:03,410 - 06:01:07,330] positive self-direction that's number one the second
+- [06:01:07,330 - 06:01:10,410] principle in building your ambition is
+- [06:01:10,410 - 06:01:13,490] self-reliance taking responsibility for your own
+- [06:01:13,490 - 06:01:17,090] life taking full responsibility for whatever happens
+- [06:01:17,090 - 06:01:20,690] to you taking the credit or the blame
+- [06:01:21,570 - 06:01:22,590] for the result of your
+- [06:01:22,610 - 06:01:26,280] yesterday's activities changing what's in your
+- [06:01:26,280 - 06:01:29,950] power to change being responsible working with
+- [06:01:29,950 - 06:01:33,530] others yes but doing all you can to bring
+- [06:01:33,530 - 06:01:37,110] the most value to the table to the marketplace
+- [06:01:38,110 - 06:01:42,310] being self-reliant responsible principle number
+- [06:01:42,310 - 06:01:46,510] three is self-discipline consistent self-discipline
+- [06:01:47,270 - 06:01:49,930] this is one of the most powerful of
+- [06:01:49,930 - 06:01:52,590] the six principles and the one that will undoubtedly
+- [06:01:52,610 - 06:01:55,520] prevent you from living with the pain of regret
+- [06:01:55,520 - 06:01:58,430] an ounce of discipline weighs far less than a ton
+- [06:01:58,430 - 06:02:02,430] of regret the pain of regret a little every
+- [06:02:02,430 - 06:02:06,430] day every day every day a little discipline every
+- [06:02:06,430 - 06:02:08,670] day will make all the difference in the
+- [06:02:08,670 - 06:02:10,910] world it makes all the difference in your health
+- [06:02:11,630 - 06:02:13,990] it makes all the difference in your
+- [06:02:13,990 - 06:02:16,350] wealth it makes all the difference today
+- [06:02:17,190 - 06:02:19,190] and this discipline consistent self-discipline
+- [06:02:19,190 - 06:02:21,190] practiced at the daily level
+- [06:02:21,830 - 06:02:25,070] will make all the difference in your
+- [06:02:25,070 - 06:02:28,310] tomorrows here's number four the fourth principle for
+- [06:02:28,310 - 06:02:31,270] building your ambition is self-enterprise to keep your
+- [06:02:31,270 - 06:02:34,230] eyes open and your mind active to recognize
+- [06:02:34,230 - 06:02:37,750] an opportunity and to grasp it to
+- [06:02:37,750 - 06:02:41,270] consistently create opportunity to be disciplined enough and
+- [06:02:41,270 - 06:02:43,870] prepared enough to take advantage of
+- [06:02:43,870 - 06:02:46,470] the opportunities around you an enterprising
+- [06:02:46,470 - 06:02:50,470] attitude says find out before action is taken
+- [06:02:50,470 - 06:02:54,470] do your homework do the research be prepared be
+- [06:02:54,470 - 06:02:57,990] resourceful do all you can in preparation of
+- [06:02:57,990 - 06:03:01,510] what will inevitably come to you what you're preparing
+- [06:03:01,510 - 06:03:05,750] to come to you self-enterprise number five working
+- [06:03:05,750 - 06:03:09,990] with others the fifth principle of building your
+- [06:03:09,990 - 06:03:12,790] ambition is manifested by working with
+- [06:03:12,790 - 06:03:15,590] others being able to share the spotlight
+- [06:03:16,150 - 06:03:16,390] keep
+- [06:03:16,470 - 06:03:20,190] your ego in your back pocket and giving
+- [06:03:20,190 - 06:03:23,910] others credit when credit is due caring enough about
+- [06:03:23,910 - 06:03:27,790] others to offer a kind word a thoughtful gesture
+- [06:03:27,790 - 06:03:31,670] a helping hand it's like i said before it's hard
+- [06:03:31,670 - 06:03:34,910] to find a rich hermit the next time you
+- [06:03:34,910 - 06:03:38,150] say the pledge of allegiance notice that it starts with
+- [06:03:38,150 - 06:03:42,270] the word i and ends with all a country can't
+- [06:03:42,270 - 06:03:46,390] be built by one person a company can't be built
+- [06:03:46,470 - 06:03:49,869] with one person a family can't be built with
+- [06:03:49,869 - 06:03:53,269] one person a friendship can't be built with one person
+- [06:03:53,990 - 06:03:57,389] each of us needs all of us to succeed each
+- [06:03:57,389 - 06:04:00,789] of us must learn to work with others to achieve our
+- [06:04:00,789 - 06:04:04,709] goals to finish our tasks here's number six
+- [06:04:04,709 - 06:04:08,630] the sixth principle for building your ambition is
+- [06:04:08,630 - 06:04:11,749] self-appreciation you must develop a strong appreciation
+- [06:04:11,749 - 06:04:14,869] for the conclusions that you have made
+- [06:04:16,470 - 06:04:19,909] for the scale you have set for the philosophies
+- [06:04:19,909 - 06:04:23,349] you have adopted for your own methods your own
+- [06:04:23,349 - 06:04:27,349] style your own model of success remember here
+- [06:04:27,349 - 06:04:31,349] that success is the steady progress toward your own
+- [06:04:31,349 - 06:04:34,909] personal goals and self-appreciation is crucial
+- [06:04:34,909 - 06:04:38,470] in keeping you moving toward those goals
+- [06:04:39,830 - 06:04:41,910] so there you have a review of
+- [06:04:41,910 - 06:04:43,990] the six principles necessary to build your ambition
+- [06:04:46,470 - 06:04:49,390] we have also learned how to bring balance
+- [06:04:49,390 - 06:04:52,310] to our work and personal lives to understand
+- [06:04:52,310 - 06:04:54,270] the rewards of ambition that it's
+- [06:04:54,270 - 06:04:56,230] okay to be rich and wealthy
+- [06:04:56,869 - 06:04:59,509] and to come to understand that success
+- [06:04:59,509 - 06:05:02,150] and failure are part of the same process
+- [06:05:03,670 - 06:05:05,309] through the consistent practice of everything
+- [06:05:05,309 - 06:05:06,949] we have covered in this series
+- [06:05:07,670 - 06:05:11,349] you will begin to develop three
+- [06:05:11,349 - 06:05:15,029] cornerstones of the ambitious life focused concentration
+- [06:05:15,030 - 06:05:19,620] concentration, resilience, and integrity.
+- [06:05:19,620 - 06:05:24,210] Focused concentration, resilience, and integrity.
+- [06:05:24,630 - 06:05:27,970] By developing these traits, by incorporating them
+- [06:05:27,970 - 06:05:31,310] into your character deep within your very being,
+- [06:05:32,450 - 06:05:35,520] you will allow your ambition to serve you. You'll
+- [06:05:35,520 - 06:05:38,590] be able to direct your ambition to achieve even
+- [06:05:38,590 - 06:05:41,490] your wildest dreams, and you'll have the
+- [06:05:41,490 - 06:05:44,390] satisfaction of knowing you're on the right
+- [06:05:44,390 - 06:05:48,320] course. Together, these three cornerstones
+- [06:05:48,320 - 06:05:52,250] bring stability to your ambition. Stability,
+- [06:05:52,250 - 06:05:55,120] which is the most valuable asset in
+- [06:05:55,120 - 06:05:57,990] pursuit of achievement. We'll cover each of these,
+- [06:05:58,709 - 06:06:02,639] focused concentration, resilience, and integrity in depth, but
+- [06:06:02,639 - 06:06:06,570] the key point here is that each of
+- [06:06:06,570 - 06:06:09,469] these cornerstones is cultivated only through the
+- [06:06:09,469 - 06:06:12,369] practice of the six principles of building
+- [06:06:12,369 - 06:06:13,070] your ambition.
+- [06:06:14,390 - 06:06:18,020] The six principles, worked on consistently
+- [06:06:18,020 - 06:06:21,650] and simultaneously, will develop these three traits
+- [06:06:21,650 - 06:06:26,150] in your character. Here's number one, concentration.
+- [06:06:26,150 - 06:06:30,650] Focused concentration. We talked about this in
+- [06:06:30,650 - 06:06:33,049] time management, but the key to building your
+- [06:06:33,049 - 06:06:35,449] ambition, keeping on track with all of the
+- [06:06:35,449 - 06:06:39,739] principles, is focused concentration. You've just got to
+- [06:06:39,739 - 06:06:44,029] zero in. You've got to identify your target,
+- [06:06:44,390 - 06:06:47,539] and let nothing stand in your way. You've got
+- [06:06:47,539 - 06:06:50,689] to keep your eye on the target until you've released
+- [06:06:50,689 - 06:06:53,819] the arrow. Let nothing capture your attention, unless
+- [06:06:53,819 - 06:06:56,949] it's in the best interest of your ambition.
+- [06:06:57,869 - 06:07:00,639] Let not an obstacle come before you without
+- [06:07:00,639 - 06:07:03,410] getting around it, going over it, going under it,
+- [06:07:04,070 - 06:07:07,049] trying a different path until you
+- [06:07:07,049 - 06:07:10,029] get there. Concentration in sports is crucial.
+- [06:07:10,750 - 06:07:13,910] The consummate professional on the field or on the court,
+- [06:07:14,390 - 06:07:18,270] the jeering of the crowd their concentration keeps all
+- [06:07:18,270 - 06:07:22,150] noise and clutter at bay they have one thing
+- [06:07:22,150 - 06:07:25,749] in mind and that's moving the ball you have
+- [06:07:25,749 - 06:07:29,349] to have just one thing in mind keeping on track
+- [06:07:30,230 - 06:07:33,270] closing out all the noise and the clutter that
+- [06:07:33,270 - 06:07:36,310] gets in your way going around all the obstacles
+- [06:07:36,310 - 06:07:39,629] of negativity and influence in a tennis match how
+- [06:07:39,629 - 06:07:42,949] long does it take for your opponent to return the
+- [06:07:42,950 - 06:07:47,070] ball not very long and what if you
+- [06:07:47,070 - 06:07:51,190] lose your concentration game's over one little slip of
+- [06:07:51,190 - 06:07:54,630] concentration just that fast one little slip of
+- [06:07:54,630 - 06:07:58,070] concentration your opponent puts the ball by your
+- [06:07:58,070 - 06:08:01,870] feet and there goes the tennis match in
+- [06:08:01,870 - 06:08:05,670] a major presentation just lose your concentration for a
+- [06:08:05,670 - 06:08:09,270] flash of a second and i'm telling you you could
+- [06:08:09,270 - 06:08:12,870] lose it all all the hard work all the long hours
+- [06:08:12,950 - 06:08:16,830] all the preparation all the momentum building to
+- [06:08:16,830 - 06:08:20,710] that crucial presentation could be gone if you
+- [06:08:20,710 - 06:08:23,590] don't keep your concentration if you don't watch your
+- [06:08:23,590 - 06:08:26,470] audience if you don't keep your mind on what
+- [06:08:26,470 - 06:08:30,470] you're doing if you don't keep focused on the task
+- [06:08:30,470 - 06:08:34,470] at hand it could slip right on by you wherever you
+- [06:08:34,470 - 06:08:38,110] are be there whatever you're supposed to be doing
+- [06:08:38,110 - 06:08:41,750] for the moment do it you can't be thinking of
+- [06:08:41,750 - 06:08:42,950] everything you have to do
+- [06:08:42,950 - 06:08:46,110] do at one time all the time you have
+- [06:08:46,110 - 06:08:49,270] to concentrate on just one thing at a time
+- [06:08:49,910 - 06:08:53,110] one project one job you have to take
+- [06:08:53,110 - 06:08:56,310] it one task at a time and complete it
+- [06:08:57,350 - 06:09:00,990] do what you've set out to do keep your mind
+- [06:09:00,990 - 06:09:04,630] only on that one task why if you don't you won't
+- [06:09:04,630 - 06:09:08,110] accomplish anything concentration takes a lot of discipline
+- [06:09:08,110 - 06:09:11,590] it takes a lot of discipline to demand
+- [06:09:11,590 - 06:09:12,310] privacy
+- [06:09:13,110 - 06:09:15,710] to keep the do not disturb sign on your
+- [06:09:15,710 - 06:09:18,310] door while you're in the middle of an important job
+- [06:09:19,430 - 06:09:21,350] it takes a lot of discipline not to
+- [06:09:21,350 - 06:09:23,270] answer the phone every time it rings at home
+- [06:09:24,390 - 06:09:26,870] that's why they make voicemail and answering machines
+- [06:09:26,870 - 06:09:29,350] so you don't have to answer the phone
+- [06:09:29,350 - 06:09:32,070] every time it rings your family
+- [06:09:32,070 - 06:09:34,790] will appreciate an uninterrupted dinner hour
+- [06:09:35,510 - 06:09:38,790] your night work will get done a whole lot
+- [06:09:38,790 - 06:09:42,070] faster concentrate on the work at hand and demand of
+- [06:09:42,070 - 06:09:42,390] yourself
+- [06:09:42,950 - 06:09:44,710] the discipline to stay focused.
+- [06:09:45,610 - 06:09:47,110] If you have a long list of
+- [06:09:47,110 - 06:09:48,610] things to get done within a day,
+- [06:09:49,230 - 06:09:50,940] do the toughest ones while
+- [06:09:50,940 - 06:09:52,650] your concentration is at its peak.
+- [06:09:53,150 - 06:09:54,720] If you're a morning person, get
+- [06:09:54,720 - 06:09:56,290] the job done in the morning.
+- [06:09:56,970 - 06:09:58,730] Don't wait until the evening
+- [06:09:58,730 - 06:10:00,490] when your energy is all spent.
+- [06:10:01,550 - 06:10:04,530] No, do the jobs that need the most concentration
+- [06:10:04,530 - 06:10:07,530] when your body is best able to handle them.
+- [06:10:08,210 - 06:10:10,350] If you're a night person, save
+- [06:10:10,350 - 06:10:12,490] those tough jobs for the night.
+- [06:10:12,950 - 06:10:14,850] Not in the morning when you've
+- [06:10:14,850 - 06:10:16,750] still got cobwebs in your brain.
+- [06:10:18,110 - 06:10:20,530] Learn your body's rhythms and do
+- [06:10:20,530 - 06:10:22,950] the jobs that need the most concentration
+- [06:10:22,950 - 06:10:25,370] when you're able to do them best.
+- [06:10:26,610 - 06:10:28,550] When you're at work, be at work.
+- [06:10:29,130 - 06:10:31,470] When you're in a conference, be in that conference.
+- [06:10:32,150 - 06:10:34,870] When you're at your kid's school play
+- [06:10:34,870 - 06:10:37,590] or soccer game or dance recital, be there.
+- [06:10:37,950 - 06:10:39,590] Don't let your mind wander.
+- [06:10:39,590 - 06:10:40,750] Stay focused.
+- [06:10:41,130 - 06:10:42,930] Stay focused on the task at hand.
+- [06:10:42,950 - 06:10:44,670] Or the company you're with.
+- [06:10:45,490 - 06:10:48,170] Don't let your mind wander during conversations.
+- [06:10:48,870 - 06:10:51,650] You never know what important points you'll miss.
+- [06:10:52,830 - 06:10:53,470] Stay focused.
+- [06:10:54,410 - 06:10:56,610] Stay true to where you are and what you're doing.
+- [06:10:57,650 - 06:11:00,230] Use your discipline to keep your mind in line.
+- [06:11:01,310 - 06:11:03,850] When you recognize the need to concentrate more,
+- [06:11:03,970 - 06:11:05,450] when you recognize this need,
+- [06:11:05,790 - 06:11:08,210] and when you discipline yourself to stay focused,
+- [06:11:08,650 - 06:11:10,330] it will come easier and easier.
+- [06:11:11,130 - 06:11:12,930] Focused concentration can be learned.
+- [06:11:13,490 - 06:11:15,490] Focused concentration can become a habit.
+- [06:11:15,490 - 06:11:17,990] If you work on it a
+- [06:11:17,990 - 06:11:20,490] little every day, every day, every day,
+- [06:11:20,490 - 06:11:22,990] the easier it comes, the less energy
+- [06:11:22,990 - 06:11:25,490] you'll waste on making your mind mind you.
+- [06:11:25,490 - 06:11:29,490] Number one cornerstone of an ambitious person.
+- [06:11:29,490 - 06:11:31,490] Concentration.
+- [06:11:31,490 - 06:11:32,490] Focused.
+- [06:11:32,490 - 06:11:33,490] Concentration.
+- [06:11:33,490 - 06:11:35,490] Make your mind pay attention.
+- [06:11:35,490 - 06:11:37,490] Discipline yourself to be where you are.
+- [06:11:37,490 - 06:11:39,490] Work at work and play at play.
+- [06:11:39,490 - 06:11:41,490] Don't mix the two.
+- [06:11:41,490 - 06:11:42,530] Stay focused.
+- [06:11:42,530 - 06:11:44,530] Concentrate.
+- [06:11:44,530 - 06:11:46,530] Give your job the attention it deserves.
+- [06:11:46,530 - 06:11:48,530] Give your family the attention they deserve.
+- [06:11:48,530 - 06:11:52,530] Give your colleagues the attention they deserve.
+- [06:11:52,530 - 06:11:54,530] Wherever you are, be there.
+- [06:11:54,530 - 06:11:55,530] Concentrate.
+- [06:11:55,530 - 06:11:57,530] That's number one.
+- [06:11:59,530 - 06:12:00,530] Here's number two.
+- [06:12:00,530 - 06:12:01,530] Resilience.
+- [06:12:03,530 - 06:12:04,530] Resilience.
+- [06:12:04,530 - 06:12:07,530] The ability to return to the original form
+- [06:12:07,530 - 06:12:10,530] after being bent or being stretched or being compressed.
+- [06:12:10,530 - 06:12:11,530] Resilience.
+- [06:12:12,530 - 06:12:15,530] That's the dictionary's definition of resilience.
+- [06:12:15,530 - 06:12:18,530] The ability to readily recover
+- [06:12:18,530 - 06:12:21,530] from illness or depression or adversity.
+- [06:12:22,530 - 06:12:23,530] Resilience.
+- [06:12:23,530 - 06:12:29,030] Being able to withstand setbacks, broken hearts and broken dreams, financial
+- [06:12:29,030 - 06:12:34,530] crisis, loss of loved ones, loss of enterprise and loss of health.
+- [06:12:35,530 - 06:12:37,530] How would you ever handle it
+- [06:12:37,530 - 06:12:39,530] if you lost everything you had today?
+- [06:12:39,530 - 06:12:41,530] What would your next step be?
+- [06:12:41,530 - 06:12:46,530] How long would you be depressed and upset and angry?
+- [06:12:46,530 - 06:12:48,530] What would it take for you to
+- [06:12:48,530 - 06:12:50,530] pull yourself up and start all over again?
+- [06:12:50,530 - 06:12:52,530] How resilient are you?
+- [06:12:52,530 - 06:12:54,530] Could you handle it?
+- [06:12:54,530 - 06:12:57,030] Could you learn from all your
+- [06:12:57,030 - 06:12:59,530] disappointments and start all over again?
+- [06:12:59,530 - 06:13:01,530] What would it take?
+- [06:13:01,530 - 06:13:04,530] Well, number one, it would take a lot of self-discipline.
+- [06:13:04,530 - 06:13:06,030] It would take a lot of positive self-talk
+- [06:13:06,030 - 06:13:07,530] to muster up the energy to do it.
+- [06:13:07,530 - 06:13:09,530] It would take a lot of self-talk
+- [06:13:09,530 - 06:13:11,530] to muster up the energy to begin again.
+- [06:13:11,530 - 06:13:15,030] It would take a lot of concentration to block out the noise
+- [06:13:15,030 - 06:13:18,530] and the clutter of all the negative voices trying to get through.
+- [06:13:18,530 - 06:13:21,030] Your negative voices and the
+- [06:13:21,030 - 06:13:23,530] negative voices of others around you.
+- [06:13:23,530 - 06:13:28,030] It would take a lot of discipline to balance the fear and anxiety with
+- [06:13:28,030 - 06:13:32,530] the knowing that if you did it once, you can do it all over again.
+- [06:13:32,530 - 06:13:35,530] It would also take what?
+- [06:13:35,530 - 06:13:37,530] A lot of self-reliance.
+- [06:13:37,530 - 06:13:41,030] Whether your losses had anything to do with you or
+- [06:13:41,030 - 06:13:44,530] not, your future success has everything to do with you.
+- [06:13:44,530 - 06:13:48,530] It would take a lot of self-reliance to avoid blame.
+- [06:13:48,530 - 06:13:50,530] What's happened has happened.
+- [06:13:50,530 - 06:13:52,530] You would need to get on
+- [06:13:52,530 - 06:13:54,530] with your life and begin again.
+- [06:13:54,530 - 06:13:56,530] It would take a lot of faith.
+- [06:13:56,530 - 06:13:58,530] It would take a lot of faith
+- [06:13:58,530 - 06:14:00,530] and trust in God to move ahead.
+- [06:14:00,530 - 06:14:03,030] If you lost everything tomorrow and were
+- [06:14:03,030 - 06:14:05,530] gathering all the courage to try again,
+- [06:14:05,530 - 06:14:10,030] it would take a lot of self-appreciation, knowing that you have the
+- [06:14:10,030 - 06:14:14,530] skills and the talent and the strength to do it one more time.
+- [06:14:14,530 - 06:14:16,530] Resilience.
+- [06:14:16,530 - 06:14:19,530] The ability to bounce back from adversity.
+- [06:14:19,530 - 06:14:24,530] No matter how large or how small, you lose a client, one
+- [06:14:24,530 - 06:14:29,530] of your biggest ones, accounts for over 25% of your gross revenues.
+- [06:14:29,530 - 06:14:31,530] Losing this client is going
+- [06:14:31,530 - 06:14:33,530] to hurt financially and emotionally.
+- [06:14:33,530 - 06:14:34,030] Losing this client is going
+- [06:14:34,030 - 06:14:34,530] to hurt financially and emotionally.
+- [06:14:34,530 - 06:14:35,530] Losing this client is going to
+- [06:14:35,530 - 06:14:36,530] negatively affect things for a while.
+- [06:14:36,530 - 06:14:37,530] Losing this client is going to
+- [06:14:37,530 - 06:14:38,530] negatively affect things for a while.
+- [06:14:38,530 - 06:14:40,530] The first thing you do is to
+- [06:14:40,530 - 06:14:42,530] figure out why you lost this business.
+- [06:14:42,530 - 06:14:44,530] What role did you play?
+- [06:14:44,530 - 06:14:46,530] What part are you responsible for?
+- [06:14:46,530 - 06:14:49,530] You just can't rant and rave around the
+- [06:14:49,530 - 06:14:52,530] office yelling and screaming at those around you.
+- [06:14:52,530 - 06:14:54,530] Even if it was the wrongdoing of
+- [06:14:54,530 - 06:14:56,530] someone else, you can't act like this.
+- [06:14:56,530 - 06:14:58,530] It's not professional.
+- [06:14:58,530 - 06:15:00,530] No, you'll lose respect.
+- [06:15:00,530 - 06:15:02,530] Respect that's hard to regain once you've lost it.
+- [06:15:02,530 - 06:15:04,530] Respect that's hard to regain once you've lost it.
+- [06:15:04,530 - 06:15:07,530] Respect of those you work
+- [06:15:07,530 - 06:15:10,530] with, trusted colleagues, valuable support people.
+- [06:15:10,530 - 06:15:13,530] You have to approach the situation rationally and
+- [06:15:13,530 - 06:15:16,530] figure out how to bounce back from your loss.
+- [06:15:16,530 - 06:15:20,530] You have to evaluate the situation and then
+- [06:15:20,530 - 06:15:24,530] start a plan to recapture the lost business.
+- [06:15:24,530 - 06:15:26,530] Increase your market share with other businesses.
+- [06:15:26,530 - 06:15:28,530] Network with associates to bring in
+- [06:15:28,530 - 06:15:30,530] a similar client or a larger one.
+- [06:15:30,530 - 06:15:31,030] Network with associates to bring in
+- [06:15:31,030 - 06:15:31,530] a similar client or a larger one.
+- [06:15:32,530 - 06:15:34,530] You can't sit back and dwell on what's happened.
+- [06:15:34,530 - 06:15:37,530] No, you've got to get back into the
+- [06:15:37,530 - 06:15:40,530] marketplace and recapture what's been taken from you.
+- [06:15:40,530 - 06:15:44,530] Get back at it and replace what's gone.
+- [06:15:44,530 - 06:15:46,530] Now, maybe your loss is a personal loss.
+- [06:15:46,530 - 06:15:48,530] Now, maybe your loss is a personal loss.
+- [06:15:48,530 - 06:15:51,530] Death of a loved one, divorce,
+- [06:15:51,530 - 06:15:54,530] loss of a very special friendship.
+- [06:15:54,530 - 06:15:57,530] If your loss is a deeply personal one,
+- [06:15:57,530 - 06:16:00,530] you must approach the situation a little differently.
+- [06:16:00,530 - 06:16:01,030] If your loss is a deeply personal one,
+- [06:16:01,030 - 06:16:01,530] you must approach the situation a little differently.
+- [06:16:01,530 - 06:16:05,970] be patient with yourself and give yourself time
+- [06:16:05,970 - 06:16:10,410] time to grieve time to mourn time to regroup
+- [06:16:11,610 - 06:16:14,570] the stages we go through in loss be it death of
+- [06:16:14,570 - 06:16:17,530] a loved one death of a relationship or death of an
+- [06:16:17,530 - 06:16:21,330] enterprise the stages we go through are
+- [06:16:21,330 - 06:16:25,130] beautifully defined in elizabeth kubler-ross's book on death
+- [06:16:25,130 - 06:16:29,369] and dying if the death is a literal one
+- [06:16:29,369 - 06:16:33,609] or a figurative one the stages are the same denial
+- [06:16:34,490 - 06:16:38,610] anger bargaining depression and acceptance and
+- [06:16:38,610 - 06:16:42,730] only by going through these stages
+- [06:16:43,529 - 06:16:47,249] and reaching acceptance can we rebound and begin
+- [06:16:47,249 - 06:16:50,970] again it said the children are often more
+- [06:16:50,970 - 06:16:53,010] resilient than adults why well
+- [06:16:53,010 - 06:16:55,050] maybe it's because they don't evaluate
+- [06:16:55,130 - 06:16:57,850] experiencing failure through and by otherwise
+- [06:16:57,850 - 06:17:00,570] they evaluate their current situations based
+- [06:17:00,570 - 06:17:04,289] on past experiences they approach it in a fresh way
+- [06:17:04,289 - 06:17:08,009] a new way and in their own minds they deal
+- [06:17:08,009 - 06:17:11,169] with loss much better than adults children
+- [06:17:11,169 - 06:17:14,330] who grow up in the unfortunate circumstances of
+- [06:17:14,330 - 06:17:17,290] poverty or abuse or neglect children who
+- [06:17:17,290 - 06:17:20,250] grow up in these conditions and become successful
+- [06:17:20,970 - 06:17:22,970] are known as dandelion children
+- [06:17:22,970 - 06:17:26,289] if they can succeed and prosper with
+- [06:17:26,289 - 06:17:29,609] terrible conditions they can grow anywhere it's important
+- [06:17:29,609 - 06:17:33,329] to be more like a dandelion child to be
+- [06:17:33,329 - 06:17:37,050] able to grow and prosper and succeed despite our current
+- [06:17:37,050 - 06:17:40,489] conditions to be able to grow and prosper
+- [06:17:40,489 - 06:17:43,929] and succeed despite our losses to be resilient
+- [06:17:45,289 - 06:17:48,689] cultivating a resilient character turns what others
+- [06:17:48,689 - 06:17:52,090] would call failure into success a resilient
+- [06:17:52,090 - 06:17:55,570] person won't give up a resilient person will in
+- [06:17:55,570 - 06:17:59,050] spite of all obstacles and setbacks keep doing it
+- [06:18:00,010 - 06:18:03,810] until in their book the resilient self
+- [06:18:03,810 - 06:18:07,610] stephen and sybil woolen have studied the characteristics
+- [06:18:07,610 - 06:18:11,330] of resilience and have found seven key skills
+- [06:18:11,330 - 06:18:15,050] which comprise it to build a resilient character
+- [06:18:15,050 - 06:18:18,330] you must have number one insight the
+- [06:18:18,330 - 06:18:21,610] ability to ask tough questions of yourself
+- [06:18:22,090 - 06:18:24,810] and be honest with your answers if you had
+- [06:18:24,810 - 06:18:27,530] something to do with your loss be honest and
+- [06:18:27,530 - 06:18:31,170] responsible for it number two resilience is
+- [06:18:31,170 - 06:18:34,810] independent a resilient person counts only on
+- [06:18:34,810 - 06:18:38,890] themselves to bounce back into life number
+- [06:18:38,890 - 06:18:42,970] three although resilience is independent it's also tied
+- [06:18:42,970 - 06:18:45,850] to others the more people you are responsible
+- [06:18:45,850 - 06:18:48,730] to the greater the motivation to begin again
+- [06:18:49,850 - 06:18:51,050] the stronger the reason
+- [06:18:52,090 - 06:18:55,720] stronger the action the fourth component of
+- [06:18:55,720 - 06:18:59,350] resilience is initiative the ability to take
+- [06:18:59,350 - 06:19:02,350] charge of the situation the ability to take charge
+- [06:19:02,350 - 06:19:05,350] of the problem the ability to stand up and do
+- [06:19:05,350 - 06:19:09,310] whatever is necessary to get back on
+- [06:19:09,310 - 06:19:13,270] course a resilient person is number five creative
+- [06:19:13,930 - 06:19:16,990] being able to look at the situation and creatively
+- [06:19:16,990 - 06:19:20,050] determine the best way out to look for solutions
+- [06:19:20,050 - 06:19:23,739] to be enterprising in your approach towards
+- [06:19:23,739 - 06:19:27,429] starting over a resilient person has humor
+- [06:19:28,330 - 06:19:32,230] number six a sense of humor they may cry till
+- [06:19:32,230 - 06:19:36,130] they start laughing but a sense of humor is so
+- [06:19:36,130 - 06:19:39,310] important when turning your life around you've got
+- [06:19:39,310 - 06:19:42,490] to take your ambition seriously and you've got to
+- [06:19:42,490 - 06:19:45,999] take yourself seriously but you've also got to
+- [06:19:45,999 - 06:19:49,509] be able to laugh at yourself sometimes your situation
+- [06:19:50,590 - 06:19:53,950] somebody says you'll look back on this and laugh
+- [06:19:53,950 - 06:19:57,310] someday well maybe today is the day to start
+- [06:19:58,390 - 06:20:02,709] a sense of humor number six and here's the last
+- [06:20:02,709 - 06:20:07,029] one morality whatever you do to get back on your
+- [06:20:07,029 - 06:20:10,689] feet whatever you do to bounce back into life
+- [06:20:10,689 - 06:20:14,349] make sure it's moral make sure that your upcoming
+- [06:20:14,349 - 06:20:16,449] success is at the service of
+- [06:20:16,449 - 06:20:18,550] others not at the expense of others
+- [06:20:20,050 - 06:20:22,510] I've made this point several times during
+- [06:20:22,510 - 06:20:24,970] this series but only because it's so important
+- [06:20:25,929 - 06:20:29,949] success if it is yours to keep must be
+- [06:20:29,949 - 06:20:33,970] at the service of others number one cornerstone for an
+- [06:20:33,970 - 06:20:37,720] ambitious life is concentration number two
+- [06:20:37,720 - 06:20:41,470] resilience and here's number three integrity
+- [06:20:42,490 - 06:20:45,790] integrity is adhering to the moral principles
+- [06:20:45,790 - 06:20:49,090] of life integrity is doing things with honor
+- [06:20:50,050 - 06:20:54,129] integrity is honesty without integrity ambition
+- [06:20:54,129 - 06:20:58,209] loses its unifying Focus that comes from
+- [06:20:58,209 - 06:21:02,109] integrated goals from really knowing what you want
+- [06:21:02,109 - 06:21:06,009] integrity says I wish to pay fair price
+- [06:21:06,009 - 06:21:09,579] for all value getting something for nothing makes
+- [06:21:09,579 - 06:21:13,150] nothing of me getting it cheap makes me cheap
+- [06:21:14,470 - 06:21:15,150] truly in your own enlightened self-interest this is one of the better statements I wish I were able to live for didn't have to miss wake up and sleep all the time
+- [06:21:15,150 - 06:21:15,830] we used to sleep a temperature meeting let'soso I wish for our well being for swimming world we wish for gìITCHING FOR MUHLING ME ЩIĆS UDALE A PLACET BEener paradise, GAnter and beer
+- [06:21:15,830 - 06:21:16,559] ali risendwarz kttg it is our ma관도 ow gesture kattleg definiteские this is what nothing is kattleg Therefore인데요 uber expats andポ europa bey gospan
+- [06:21:16,559 - 06:21:17,289] how tough is having true respect of life to be self interestounter repוה звología like this this object is kattleg o podcast a fair
+- [06:21:17,290 - 06:21:20,950] This is one of the better statements. I wish
+- [06:21:20,950 - 06:21:24,610] to pay fair price for every value. I wish
+- [06:21:24,610 - 06:21:28,420] to pay fair price. This is self-interest and
+- [06:21:28,420 - 06:21:32,230] it's also integrity. I wish to pay fair price
+- [06:21:32,230 - 06:21:36,090] for every value. Why? For what it will make
+- [06:21:36,090 - 06:21:39,950] of me. For what paying for it will make of
+- [06:21:39,950 - 06:21:43,770] me. If I have to pay, that will make
+- [06:21:43,770 - 06:21:47,590] something of me. And by paying, you have the integrity
+- [06:21:47,590 - 06:21:50,330] not to take advantage of others. You
+- [06:21:50,330 - 06:21:53,070] hear of greedy people boasting about the great
+- [06:21:53,070 - 06:21:56,540] deal they just got, the best value, how
+- [06:21:56,540 - 06:22:00,010] they negotiated the price down to nothing, how
+- [06:22:00,010 - 06:22:02,730] they nickel and dime the other person out
+- [06:22:02,730 - 06:22:05,450] of making a profit. Good integrity won't let
+- [06:22:05,450 - 06:22:07,390] you do that. We all shop
+- [06:22:07,390 - 06:22:09,330] for the greatest value at the
+- [06:22:09,330 - 06:22:09,950] best price.
+- [06:22:09,950 - 06:22:13,030] But not at the expense of others. Not
+- [06:22:13,030 - 06:22:16,110] when your great deal cheated someone out of their
+- [06:22:16,110 - 06:22:19,300] profit. You hire someone to do a job for
+- [06:22:19,300 - 06:22:22,490] you, take on a project. You've got to pay fair
+- [06:22:22,490 - 06:22:25,800] price, fair value for someone else to do
+- [06:22:25,800 - 06:22:29,110] the work for you, because if you don't, what?
+- [06:22:29,110 - 06:22:31,590] They'll never work for you again. They don't
+- [06:22:31,590 - 06:22:34,070] want to work long, hard hours to make you
+- [06:22:34,070 - 06:22:36,700] look good and not get compensated for it.
+- [06:22:36,700 - 06:22:39,330] No. And your integrity won't allow you to
+- [06:22:39,330 - 06:22:39,390] do the work for you. And if you don't, how
+- [06:22:39,390 - 06:22:39,450] can you get the money to do the work, to make
+- [06:22:39,450 - 06:22:39,670] a profit? All right, let's move on.
+- [06:22:39,670 - 06:22:39,740] They don't want to work long, hard hours
+- [06:22:39,740 - 06:22:39,810] to make you look good and not get compensated
+- [06:22:39,810 - 06:22:39,880] for it. No, and your integrity won't
+- [06:22:39,880 - 06:22:39,950] allow you to take advantage of others.
+- [06:22:39,950 - 06:22:42,010] Allow that to happen.
+- [06:22:42,010 - 06:22:45,650] Pay an honest price for an honest value.
+- [06:22:45,650 - 06:22:47,870] Make it good for everybody involved.
+- [06:22:47,870 - 06:22:49,850] Leave a profit.
+- [06:22:49,850 - 06:22:50,850] Don't be cheap.
+- [06:22:50,850 - 06:22:51,850] Be fair.
+- [06:22:51,850 - 06:22:54,330] It's your integrity that's on the
+- [06:22:54,330 - 06:22:56,810] line, not just a few bucks.
+- [06:22:56,810 - 06:22:59,070] Your integrity.
+- [06:22:59,070 - 06:23:00,930] If I want something badly
+- [06:23:00,930 - 06:23:02,790] enough, I have to earn it.
+- [06:23:02,790 - 06:23:04,430] If I want something badly enough,
+- [06:23:04,430 - 06:23:06,070] I have to pay for it.
+- [06:23:06,070 - 06:23:07,070] Why?
+- [06:23:07,070 - 06:23:10,430] Because of what paying for it will make of me.
+- [06:23:10,430 - 06:23:11,920] And if I wish to
+- [06:23:11,920 - 06:23:13,410] have more, I must become more.
+- [06:23:13,410 - 06:23:16,990] I must earn more.
+- [06:23:16,990 - 06:23:19,310] And how much should you earn?
+- [06:23:19,310 - 06:23:21,850] As much as you possibly can.
+- [06:23:21,850 - 06:23:25,449] You must always strive to do all you possibly can.
+- [06:23:25,449 - 06:23:28,570] The essence of life is growth.
+- [06:23:28,570 - 06:23:34,529] Doing, becoming, striving, growing, achieving.
+- [06:23:34,529 - 06:23:35,799] Be like the tree that
+- [06:23:35,799 - 06:23:37,070] grows as high as it can.
+- [06:23:37,070 - 06:23:39,200] Be like the bird that
+- [06:23:39,200 - 06:23:41,330] soars as high as it can.
+- [06:23:41,330 - 06:23:43,809] Be like the flowers that
+- [06:23:43,809 - 06:23:46,289] bloom as much as they can.
+- [06:23:46,289 - 06:23:49,209] Whatever course you set your sail to, do
+- [06:23:49,209 - 06:23:52,130] as much as you can to get there.
+- [06:23:52,130 - 06:23:54,730] It's part of integrity.
+- [06:23:54,730 - 06:23:57,770] Honestly doing all you can in pursuit of
+- [06:23:57,770 - 06:24:00,810] what you want, in pursuit of what you'll become.
+- [06:24:00,810 - 06:24:04,990] And whatever you sign up for, finish it.
+- [06:24:04,990 - 06:24:06,430] Here's a great story about integrity.
+- [06:24:06,430 - 06:24:06,990] I'm going to tell you a story.
+- [06:24:06,990 - 06:24:11,070] The apostle Paul, this great man said, I'm
+- [06:24:11,070 - 06:24:15,150] about to go and here's the reputation I want
+- [06:24:15,150 - 06:24:17,430] when I'm gone.
+- [06:24:17,430 - 06:24:19,910] Here's what I want people to say about me.
+- [06:24:19,910 - 06:24:22,070] He said three things.
+- [06:24:22,070 - 06:24:23,930] And here's number one.
+- [06:24:23,930 - 06:24:27,250] I fought a good fight.
+- [06:24:27,250 - 06:24:29,270] Let that be your reputation.
+- [06:24:29,270 - 06:24:31,270] You fought a good fight.
+- [06:24:31,270 - 06:24:33,520] You kept out the ideology
+- [06:24:33,520 - 06:24:35,770] that wanted to capture your children.
+- [06:24:35,770 - 06:24:36,350] Threatened every enemy that ever threatened you.
+- [06:24:36,350 - 06:24:36,850] Threatened every enemy that ever threatened you.
+- [06:24:36,990 - 06:24:38,430] Threatened every enemy that ever threatened you.
+- [06:24:38,430 - 06:24:42,510] Fought like a parent protecting children in the home front.
+- [06:24:42,510 - 06:24:43,949] Let that be your reputation.
+- [06:24:43,949 - 06:24:45,709] You fought a good fight.
+- [06:24:45,709 - 06:24:48,569] And whether or not you won, at least let
+- [06:24:48,569 - 06:24:51,430] your reputation be that you fought a good fight.
+- [06:24:51,430 - 06:24:52,550] Fought for your rights.
+- [06:24:52,550 - 06:24:54,170] Fought for the game.
+- [06:24:54,170 - 06:24:55,910] You fought for your integrity.
+- [06:24:55,910 - 06:24:57,050] You fought for honesty.
+- [06:24:57,050 - 06:24:58,670] You fought for success.
+- [06:24:58,670 - 06:25:01,390] You didn't leave any energy unspent.
+- [06:25:01,390 - 06:25:04,030] You fought.
+- [06:25:04,030 - 06:25:06,350] The major key to have success of any kind.
+- [06:25:06,350 - 06:25:09,710] You've got to leave this reputation behind.
+- [06:25:09,710 - 06:25:12,390] I've fought a good fight.
+- [06:25:12,390 - 06:25:14,710] Wow.
+- [06:25:14,710 - 06:25:16,750] And here's the second thing.
+- [06:25:16,750 - 06:25:19,430] Apostle Paul said number two.
+- [06:25:19,430 - 06:25:23,430] I finished the task.
+- [06:25:23,430 - 06:25:26,190] I stayed until it was done.
+- [06:25:26,190 - 06:25:29,250] They gave me a task and I finished it.
+- [06:25:29,250 - 06:25:31,770] I didn't leave it half done.
+- [06:25:31,770 - 06:25:34,990] I never walked off the court in the third quarter.
+- [06:25:34,990 - 06:25:35,690] I stayed.
+- [06:25:35,690 - 06:25:38,450] I finished it.
+- [06:25:38,450 - 06:25:40,030] What a good reputation.
+- [06:25:40,030 - 06:25:41,030] Finish it.
+- [06:25:41,030 - 06:25:42,730] Finish your assignment.
+- [06:25:42,730 - 06:25:43,990] Finish the project.
+- [06:25:43,990 - 06:25:46,390] Finish the contract.
+- [06:25:46,390 - 06:25:47,390] Finish it.
+- [06:25:47,390 - 06:25:50,510] Finish whatever you've signed up for.
+- [06:25:50,510 - 06:25:51,510] Then number three.
+- [06:25:51,510 - 06:25:52,770] Here's what he said.
+- [06:25:52,770 - 06:25:54,510] I kept the faith.
+- [06:25:54,510 - 06:25:56,470] Boy, that's important.
+- [06:25:56,470 - 06:25:58,870] Keep faith with your family.
+- [06:25:58,870 - 06:26:00,370] Keep faith with your church.
+- [06:26:00,370 - 06:26:03,610] Keep faith with your enterprise.
+- [06:26:03,610 - 06:26:04,690] The group I belong to.
+- [06:26:04,690 - 06:26:05,690] We pledge our faith.
+- [06:26:05,690 - 06:26:08,450] Our unwavering confidence in each other.
+- [06:26:08,450 - 06:26:11,450] Each of us pledged that to all of us.
+- [06:26:11,450 - 06:26:13,950] And I wish for you to be
+- [06:26:13,950 - 06:26:16,450] in a group that has so much integrity.
+- [06:26:16,450 - 06:26:18,950] You want to be involved with
+- [06:26:18,950 - 06:26:21,450] people who pledge and keep your confidences.
+- [06:26:21,450 - 06:26:24,450] Allstate says you're in good hands.
+- [06:26:24,450 - 06:26:28,450] That should be the reputation of all of us.
+- [06:26:28,450 - 06:26:31,450] Develop the reputation of good hands so that no
+- [06:26:31,450 - 06:26:34,450] matter where you go, you will represent your faith.
+- [06:26:34,450 - 06:26:35,490] You will represent your faith.
+- [06:26:35,490 - 06:26:38,250] You will represent your family well.
+- [06:26:38,250 - 06:26:40,250] Represent your company well.
+- [06:26:40,250 - 06:26:41,250] Have integrity.
+- [06:26:41,250 - 06:26:42,250] Honesty.
+- [06:26:42,250 - 06:26:44,250] Success at the service of others.
+- [06:26:44,250 - 06:26:46,250] Not at the expense of others.
+- [06:26:46,250 - 06:26:49,250] And at the end of the road, don't you want
+- [06:26:49,250 - 06:26:52,250] to be able to say, I fought a good fight.
+- [06:26:52,250 - 06:26:54,250] I finished the job.
+- [06:26:54,250 - 06:26:56,250] And I kept the faith.
+- [06:26:56,250 - 06:26:58,250] Of course you do.
+- [06:26:58,250 - 06:27:00,250] And that last part, keeping
+- [06:27:00,250 - 06:27:02,250] the faith, is not that easy.
+- [06:27:02,250 - 06:27:04,250] What is the master prayer?
+- [06:27:04,250 - 06:27:10,010] Lead us not into temptation, but deliver us from evil.
+- [06:27:10,010 - 06:27:14,010] Help us keep integrity in spite of the evil.
+- [06:27:14,010 - 06:27:18,510] In spite of going through the valley of the shadow of darkness,
+- [06:27:18,510 - 06:27:23,010] that we will not fear that evil will dislodge us from our integrity.
+- [06:27:23,010 - 06:27:25,010] Keep the faith of the office.
+- [06:27:25,010 - 06:27:27,010] Keep the faith of the company.
+- [06:27:27,010 - 06:27:29,010] Keep the faith of the family.
+- [06:27:29,010 - 06:27:31,010] Of your spouse and of your children.
+- [06:27:31,010 - 06:27:33,010] Keep the faith of the church.
+- [06:27:33,010 - 06:27:35,010] Keep the faith of the community.
+- [06:27:35,010 - 06:27:39,010] Wherever you go, represent your family well.
+- [06:27:39,010 - 06:27:42,010] Wherever you go, represent your group well.
+- [06:27:42,010 - 06:27:46,010] Wherever you go, represent your colleagues well.
+- [06:27:46,010 - 06:27:50,510] Let part of the bond of friendship be that wherever each
+- [06:27:50,510 - 06:27:55,010] of you are, each of you will represent all of you well.
+- [06:27:55,010 - 06:27:59,010] Wow, what a thing to be able to say.
+- [06:27:59,010 - 06:28:01,010] I fought a good fight.
+- [06:28:01,010 - 06:28:03,010] I finished the course.
+- [06:28:03,010 - 06:28:05,010] I kept the faith.
+- [06:28:05,010 - 06:28:07,010] And here's how he wrapped it up.
+- [06:28:07,010 - 06:28:09,510] Apostle Paul said, I understand now
+- [06:28:09,510 - 06:28:12,010] there's a crown waiting for me.
+- [06:28:12,010 - 06:28:15,010] And I deserve it.
+- [06:28:15,010 - 06:28:18,010] Isn't that great to say?
+- [06:28:18,010 - 06:28:21,010] I hear they have a trophy for me.
+- [06:28:21,010 - 06:28:23,010] And guess what?
+- [06:28:23,010 - 06:28:25,010] I deserve it.
+- [06:28:25,010 - 06:28:28,010] What a magnificent story to leave behind.
+- [06:28:28,010 - 06:28:30,010] I fought a good fight.
+- [06:28:30,010 - 06:28:31,010] I finished the job.
+- [06:28:31,010 - 06:28:33,010] I kept the faith.
+- [06:28:33,010 - 06:28:35,010] And I deserve the crown.
+- [06:28:35,010 - 06:28:37,010] Unbelievable.
+- [06:28:37,010 - 06:28:41,510] Now others around you, others you associate with, may not have
+- [06:28:41,510 - 06:28:46,010] the ambition or the integrity to leave such a legacy behind.
+- [06:28:46,010 - 06:28:48,010] But guess what?
+- [06:28:48,010 - 06:28:51,010] Let other people lead small lives but not you.
+- [06:28:51,010 - 06:28:56,010] In the challenge of building your ambition and stepping up to the opportunity
+- [06:28:56,010 - 06:29:01,010] of giving someone else light and direction and refinement of thought and character,
+- [06:29:01,010 - 06:29:04,010] in all of this, let everybody
+- [06:29:04,010 - 06:29:07,010] else lead small lives but not you.
+- [06:29:07,010 - 06:29:11,010] Let everybody else cry over small hurts but not you.
+- [06:29:11,010 - 06:29:16,010] Let everybody else argue over non-essentials but not you.
+- [06:29:16,010 - 06:29:19,510] Deal in things that matter,
+- [06:29:19,510 - 06:29:23,010] the larger challenge, the larger opportunity.
+- [06:29:23,010 - 06:29:26,510] Go for the challenge and the responsibility of being
+- [06:29:26,510 - 06:29:30,010] the absolute best you can, of doing your best.
+- [06:29:30,010 - 06:29:32,010] Of creating your best.
+- [06:29:32,010 - 06:29:35,510] Of being the best person, the best friend,
+- [06:29:35,510 - 06:29:39,010] the best spouse, the best parent, the best colleague.
+- [06:29:39,010 - 06:29:44,010] As you begin to understand and apply all of the principles
+- [06:29:44,010 - 06:29:49,010] in building your ambition, remember, ambition is an eager desire to achieve.
+- [06:29:49,010 - 06:29:51,510] To be successful at the service of
+- [06:29:51,510 - 06:29:54,010] others, not at the expense of others.
+- [06:29:54,010 - 06:29:57,010] An eager desire to get ahead in life.
+- [06:29:57,010 - 06:29:59,010] To do more for your family.
+- [06:29:59,010 - 06:30:04,010] To prosper in health and wealth and relationships.
+- [06:30:04,010 - 06:30:08,510] As you're building your ambition, inspiring and fueling your achievement,
+- [06:30:08,510 - 06:30:13,010] when you realize that you are more than your ambition,
+- [06:30:13,010 - 06:30:17,510] when you let your ambition serve you, you
+- [06:30:17,510 - 06:30:22,010] will develop greater concentration, greater resilience, greater integrity.
+- [06:30:22,010 - 06:30:26,010] These three aspects will inspire more ambition.
+- [06:30:26,010 - 06:30:28,010] Ambition that stems from the need to be true.
+- [06:30:28,010 - 06:30:32,010] And to express your innermost self.
+- [06:30:32,010 - 06:30:36,010] And with focused concentration, resilience, and integrity in
+- [06:30:36,010 - 06:30:40,010] our character on our side, working for us,
+- [06:30:40,010 - 06:30:43,510] we're constantly inspiring the ambitious part of our
+- [06:30:43,510 - 06:30:47,010] nature to reach to greater and greater heights.
+- [06:30:47,010 - 06:30:50,510] One of the most challenging experiences in life is
+- [06:30:50,510 - 06:30:54,010] seeing what you can do to help someone else.
+- [06:30:54,010 - 06:30:55,010] And one of the greatest thrills in life
+- [06:30:55,010 - 06:30:56,010] is being able to invest in someone else.
+- [06:30:56,010 - 06:30:58,010] One of the greatest thrills in life
+- [06:30:58,010 - 06:31:00,010] is being able to invest life into life.
+- [06:31:00,010 - 06:31:03,010] You've given me that opportunity in
+- [06:31:03,010 - 06:31:06,010] this program on the power of ambition.
+- [06:31:06,010 - 06:31:08,010] And I want to thank you for that.
+- [06:31:08,010 - 06:31:12,010] I've invested a bit of my life into your life.
+- [06:31:12,010 - 06:31:15,010] And I consider it time worth taking.
+- [06:31:15,010 - 06:31:17,010] I want to thank you
+- [06:31:17,010 - 06:31:19,010] for this chance and this opportunity.
+- [06:31:19,010 - 06:31:21,010] I wish for you the
+- [06:31:21,010 - 06:31:23,010] ultimate understanding of your own power.
+- [06:31:23,010 - 06:31:25,010] I wish for you heightened ambition.
+- [06:31:26,010 - 06:31:28,010] I wish for you achievement.
+- [06:31:28,010 - 06:31:30,010] I wish for you influence.
+- [06:31:30,010 - 06:31:33,510] I wish for you treasures of the soul and of
+- [06:31:33,510 - 06:31:37,010] the spirit and of the mind and of the wallet.
+- [06:31:37,010 - 06:31:42,010] And hopefully, what I have shared with you has given you
+- [06:31:42,010 - 06:31:47,010] extra perception in sharpening your skills and making your life unique.
+- [06:31:47,010 - 06:31:49,010] Let your ambition serve you.
+- [06:31:49,010 - 06:31:52,010] Let your ambition lead you to greatness.
+- [06:31:52,010 - 06:31:53,510] Let your ambition allow you
+- [06:31:53,510 - 06:31:55,010] to go and touch somebody else.
+- [06:31:56,010 - 06:32:04,044] Become a土 fürs peng Belleコル
