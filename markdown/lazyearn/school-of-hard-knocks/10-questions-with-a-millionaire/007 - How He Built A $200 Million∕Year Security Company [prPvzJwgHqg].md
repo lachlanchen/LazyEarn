@@ -1,0 +1,487 @@
+# Transcript
+
+Source: lazyearn/school-of-hard-knocks/hard-knocks-interviews/090 - How He Built A $200 Million⧸Year Security Company [prPvzJwgHqg].webm
+
+- [00:00:00,000 - 00:00:01,650] You guys see the Lamborghinis, got the Aston
+- [00:00:01,650 - 00:00:03,300] Martin out, got a whole bunch of cars.
+- [00:00:03,380 - 00:00:04,400] We got to figure out what this guy
+- [00:00:04,400 - 00:00:05,420] did to be able to put himself here.
+- [00:00:05,600 - 00:00:07,220] Are you from Los Angeles originally?
+- [00:00:07,500 - 00:00:08,760] I was born in Colombia. I came
+- [00:00:08,760 - 00:00:10,020] here when I was six years old.
+- [00:00:10,220 - 00:00:11,220] Meet Edwin Alvareave.
+- [00:00:11,420 - 00:00:13,920] Over the last 25 years, he's built one of
+- [00:00:13,920 - 00:00:16,420] the largest nine-figure empires in the city of Los Angeles.
+- [00:00:16,760 - 00:00:18,230] Over 25 years, how much
+- [00:00:18,230 - 00:00:19,700] money has that business generated you?
+- [00:00:19,800 - 00:00:21,320] That business has made over $600 million.
+- [00:00:21,620 - 00:00:23,300] Despite creating a $600 million
+- [00:00:23,300 - 00:00:24,980] company, Edwin didn't start here.
+- [00:00:25,260 - 00:00:26,840] In fact, he spent his childhood growing up
+- [00:00:26,840 - 00:00:28,420] in poverty and even living in a foster home.
+- [00:00:28,420 - 00:00:29,940] Both my parents ended up in jail.
+- [00:00:30,100 - 00:00:32,140] When they really put my dad away for a long time,
+- [00:00:32,140 - 00:00:34,180] I made him a promise that I'd take care of the house.
+- [00:00:34,380 - 00:00:35,600] And I became the head
+- [00:00:35,600 - 00:00:36,820] of household at 15 years old.
+- [00:00:36,920 - 00:00:38,350] And I got a chance to start
+- [00:00:38,350 - 00:00:39,780] working early, and then I started hustling.
+- [00:00:39,940 - 00:00:42,360] Even though at an early age, he faced extreme adversity,
+- [00:00:42,660 - 00:00:44,840] he ultimately prospered and became one of the
+- [00:00:44,840 - 00:00:47,020] most successful entrepreneurs in all of Los Angeles.
+- [00:00:47,320 - 00:00:49,100] In this video, Edwin breaks down how he
+- [00:00:49,100 - 00:00:50,880] went from being broke and living in poverty
+- [00:00:50,880 - 00:00:53,240] to creating one of the most successful
+- [00:00:53,240 - 00:00:55,600] nine-figure business empires in the entire world.
+- [00:00:55,660 - 00:00:56,660] What's going on, everybody?
+- [00:00:56,860 - 00:00:58,380] And welcome back to Questions with Multi.
+- [00:00:58,500 - 00:00:58,980] Hi, millionaires.
+- [00:00:59,100 - 00:01:01,110] I'm James, and I'm here with
+- [00:01:01,110 - 00:01:03,120] nine-figure Los Angeles entrepreneur Edwin Arroyave.
+- [00:01:03,240 - 00:01:05,250] We're going to ask him how he became successful,
+- [00:01:05,250 - 00:01:07,260] how he was able to get this multimillion-dollar house.
+- [00:01:07,520 - 00:01:08,850] So with that being said, let's get
+- [00:01:08,850 - 00:01:10,180] started, and can't wait to figure out how.
+- [00:01:11,040 - 00:01:13,480] What industry did you decide to pursue a career in?
+- [00:01:13,540 - 00:01:14,140] Home security.
+- [00:01:14,280 - 00:01:16,460] I've had that now for 25 years, and I just
+- [00:01:16,460 - 00:01:18,640] started a solar company a year and a half ago,
+- [00:01:18,740 - 00:01:20,810] which just happens to be the
+- [00:01:20,810 - 00:01:22,880] 20th fastest-growing company in Inc. 5000 Magazine.
+- [00:01:23,040 - 00:01:24,660] How old were you when you started your first business?
+- [00:01:24,820 - 00:01:26,000] I was 21 years old.
+- [00:01:26,060 - 00:01:27,120] 21. And how old are you now?
+- [00:01:27,300 - 00:01:28,040] I'm 46.
+- [00:01:28,420 - 00:01:30,130] What's the most amount of money that your
+- [00:01:30,130 - 00:01:31,840] business has ever generated in a single year?
+- [00:01:31,900 - 00:01:33,320] It'll be this year. We'll do $200 million.
+- [00:01:33,480 - 00:01:34,600] Scaling is one of the hardest
+- [00:01:34,600 - 00:01:35,720] things to do as a business owner.
+- [00:01:35,860 - 00:01:37,330] A lot of people don't have that great idea,
+- [00:01:37,330 - 00:01:38,800] but they don't know how to scale and grow it.
+- [00:01:38,800 - 00:01:39,900] So how have you been able
+- [00:01:39,900 - 00:01:41,000] to scale to a nine-figure business?
+- [00:01:41,280 - 00:01:43,220] It has to come back to influence, right?
+- [00:01:43,500 - 00:01:45,160] Because to bring in good people,
+- [00:01:45,160 - 00:01:46,820] they have to believe in you.
+- [00:01:46,920 - 00:01:48,810] Your dream's got to be so big
+- [00:01:48,810 - 00:01:50,700] that everybody's dream can fit inside of it.
+- [00:01:50,720 - 00:01:53,040] Because again, good people, they have a lot of options.
+- [00:01:53,200 - 00:01:54,800] But you've got to take the first step.
+- [00:01:54,980 - 00:01:56,030] Faith is really taking action
+- [00:01:56,030 - 00:01:57,080] before you have what you need.
+- [00:01:57,160 - 00:01:57,580] Yeah, I remember.
+- [00:01:58,420 - 00:02:00,470] When I started at the home security company, I
+- [00:02:00,470 - 00:02:02,520] bought the minivan before I actually had the people.
+- [00:02:02,660 - 00:02:04,370] Because we used to go in minivans and I used to fill
+- [00:02:04,370 - 00:02:06,080] all of them up and we used to go door to door.
+- [00:02:06,200 - 00:02:07,830] I didn't have a team yet, but I
+- [00:02:07,830 - 00:02:09,460] bought the minivan knowing that the people were coming.
+- [00:02:09,460 - 00:02:11,100] When you put money behind something,
+- [00:02:11,100 - 00:02:12,740] that's when you know you're committed.
+- [00:02:12,960 - 00:02:14,380] I call it a necessity level.
+- [00:02:14,520 - 00:02:17,820] A necessity level is this sudden willingness that untaps this
+- [00:02:17,820 - 00:02:21,120] tremendous amount of ability that you didn't know you had.
+- [00:02:21,220 - 00:02:24,440] That's why I've always been great at putting
+- [00:02:24,440 - 00:02:27,660] myself in pressure situations that increase my urgency level.
+- [00:02:27,880 - 00:02:28,380] I believe...
+- [00:02:28,579 - 00:02:30,059] Low stress is low performance.
+- [00:02:30,359 - 00:02:33,199] But when you put yourself in these uncomfortable situations,
+- [00:02:33,199 - 00:02:36,040] that's when that greatness that lies within comes out.
+- [00:02:36,040 - 00:02:38,220] So, there's a big debate in entrepreneurship.
+- [00:02:38,500 - 00:02:41,000] Whether entrepreneurs should diversify and go into a bunch
+- [00:02:41,000 - 00:02:43,500] of different industries or just focus on one thing.
+- [00:02:43,799 - 00:02:45,279] It seems like you've doubled down
+- [00:02:45,279 - 00:02:46,760] throughout your career in the security business.
+- [00:02:47,079 - 00:02:48,579] Now you're branching off a little bit into solar.
+- [00:02:48,760 - 00:02:49,919] But what are your
+- [00:02:49,919 - 00:02:51,079] thoughts on diversification for entrepreneurs?
+- [00:02:51,279 - 00:02:52,609] Or do you think they should just
+- [00:02:52,609 - 00:02:53,940] really focus on one thing throughout their career?
+- [00:02:54,060 - 00:02:55,819] Well, I think in my experience
+- [00:02:55,819 - 00:02:57,579] at least, you focus on one thing.
+- [00:02:58,420 - 00:03:00,389] And if you're really good at it,
+- [00:03:00,389 - 00:03:02,359] then that becomes your bread and butter.
+- [00:03:02,559 - 00:03:04,959] And then you start to diversify, right?
+- [00:03:05,160 - 00:03:07,779] But first, you have to find the business that
+- [00:03:07,779 - 00:03:10,399] brings in the constant cash flow no matter what.
+- [00:03:10,600 - 00:03:13,040] That way then you can invest and take some chances
+- [00:03:13,040 - 00:03:15,480] in other businesses that you maybe not know as well.
+- [00:03:15,679 - 00:03:18,879] But I'm a firm believer in sticking to what you
+- [00:03:18,879 - 00:03:22,079] know, become really good at that, and then you could diversify.
+- [00:03:22,279 - 00:03:24,779] But trying to do 10 things at the same time,
+- [00:03:24,779 - 00:03:27,279] you have to get obsessed to be great at something.
+- [00:03:27,280 - 00:03:28,510] For me, I wanted to be
+- [00:03:28,510 - 00:03:29,740] great in the home security industry.
+- [00:03:29,940 - 00:03:30,980] Like I wanted to be the best.
+- [00:03:31,180 - 00:03:32,380] I want to be the best and
+- [00:03:32,380 - 00:03:33,580] I'm constantly trying to improve in that.
+- [00:03:33,780 - 00:03:34,980] And now we're bringing that into solar.
+- [00:03:35,180 - 00:03:37,300] It took me 17 years to do
+- [00:03:37,300 - 00:03:39,420] 40 million in one year for security.
+- [00:03:39,620 - 00:03:41,220] It took me one year to do that in solar.
+- [00:03:41,420 - 00:03:42,880] But that's because I had already
+- [00:03:42,880 - 00:03:44,340] paid the price for 17 years.
+- [00:03:44,540 - 00:03:46,020] You've generated hundreds of millions of
+- [00:03:46,020 - 00:03:47,500] dollars in revenue throughout your career.
+- [00:03:47,700 - 00:03:49,470] What has been the best financial advice
+- [00:03:49,470 - 00:03:51,240] that you've ever received throughout your lifetime?
+- [00:03:51,440 - 00:03:53,280] Well, at the time, I didn't really have a mentor.
+- [00:03:53,480 - 00:03:54,850] So I sort of just kind of
+- [00:03:54,850 - 00:03:56,220] had to figure it out on my own.
+- [00:03:56,220 - 00:03:59,590] But one of the great things that I did when I first started was I
+- [00:03:59,590 - 00:04:02,960] would split my check three ways and I would live on a third of it.
+- [00:04:03,160 - 00:04:06,610] One would go towards IRS and savings, and then the other
+- [00:04:06,610 - 00:04:10,060] one would go towards a reserve account that no one could touch.
+- [00:04:10,260 - 00:04:11,660] You could call me and ask me for money.
+- [00:04:11,860 - 00:04:14,400] To me, that reserve account did not exist.
+- [00:04:14,600 - 00:04:16,890] And that reserve account has always helped me through
+- [00:04:16,890 - 00:04:19,180] tough times because in life, life and pain are inseparable.
+- [00:04:19,380 - 00:04:20,079] And you're going to have
+- [00:04:20,079 - 00:04:20,779] to go through some tough times.
+- [00:04:20,980 - 00:04:23,380] So for me, because I like nice things, but being
+- [00:04:23,380 - 00:04:25,780] able to cut it three ways allowed me not to
+- [00:04:25,980 - 00:04:26,180] live
+- [00:04:26,420 - 00:04:27,420] outside my means.
+- [00:04:27,620 - 00:04:30,620] That said, I was huge on having nice things.
+- [00:04:30,820 - 00:04:32,420] It's what made me want to work hard.
+- [00:04:32,620 - 00:04:33,620] I wanted to stand out.
+- [00:04:33,820 - 00:04:34,940] I wanted to be rare.
+- [00:04:35,140 - 00:04:37,820] You know, at 21 years old, I wanted to be the
+- [00:04:37,820 - 00:04:40,500] first 21 year old in my city driving a Mercedes convertible.
+- [00:04:40,500 - 00:04:41,860] I didn't want to do it when I
+- [00:04:41,860 - 00:04:43,220] was 28 because by then everybody had a Mercedes.
+- [00:04:43,220 - 00:04:43,420] Right.
+- [00:04:43,620 - 00:04:46,140] So just little ways that I would compete against myself.
+- [00:04:46,140 - 00:04:47,700] What is the greatest dream that
+- [00:04:47,700 - 00:04:49,260] you've ever accomplished throughout your lifetime?
+- [00:04:49,460 - 00:04:50,700] It has to be my first one.
+- [00:04:50,900 - 00:04:51,880] I promised my mom that I
+- [00:04:51,880 - 00:04:52,860] would buy her a dream house.
+- [00:04:53,060 - 00:04:55,780] And at 21 years old, I remember being woken up
+- [00:04:55,780 - 00:04:57,520] by a roach and I said, this is
+- [00:04:57,520 - 00:04:59,260] the last time a roach wakes me up.
+- [00:04:59,460 - 00:05:01,860] And I went to an open house that
+- [00:05:01,860 - 00:05:04,260] weekend and I realized that, wait a minute,
+- [00:05:04,460 - 00:05:05,900] all I have to do is come up
+- [00:05:05,900 - 00:05:07,340] with twelve thousand dollars as a down payment.
+- [00:05:07,340 - 00:05:08,580] All I got to do is come
+- [00:05:08,580 - 00:05:09,820] up with fourteen hundred dollars a month.
+- [00:05:09,820 - 00:05:11,219] And I'm like, I do that in one day.
+- [00:05:11,219 - 00:05:12,379] So I grabbed my mom, picked
+- [00:05:12,379 - 00:05:13,539] her up, took her to the house.
+- [00:05:13,539 - 00:05:14,779] I said, Mom, this home
+- [00:05:14,779 - 00:05:16,020] will be yours in 90 days.
+- [00:05:16,020 - 00:05:18,300] And at that point, I sort of tricked myself
+- [00:05:18,300 - 00:05:20,580] into success because I wasn't going to let her down.
+- [00:05:20,580 - 00:05:22,340] She started crying. I started crying.
+- [00:05:22,340 - 00:05:23,939] And then I just knew, like I
+- [00:05:23,939 - 00:05:25,539] said earlier, with regards to the blueprint, I
+- [00:05:25,540 - 00:05:27,320] knew I needed to do eight
+- [00:05:27,320 - 00:05:29,100] to ten sales for twelve weeks straight.
+- [00:05:29,100 - 00:05:30,580] And if I did that, I would
+- [00:05:30,580 - 00:05:32,060] be able to buy my mom her house.
+- [00:05:32,060 - 00:05:33,800] And that's the reason I did not
+- [00:05:33,800 - 00:05:35,540] quit when it was eight o'clock, nine o'clock.
+- [00:05:35,540 - 00:05:36,680] And I wanted to stop
+- [00:05:36,680 - 00:05:37,820] because I didn't have a result.
+- [00:05:38,020 - 00:05:39,380] I was like, I'm not leaving
+- [00:05:39,380 - 00:05:40,740] here until I get a deal.
+- [00:05:40,740 - 00:05:42,640] And then I can't tell you how many deals
+- [00:05:42,640 - 00:05:44,540] I got at 930, 10 o'clock at 910 30.
+- [00:05:44,740 - 00:05:47,660] And then I started filling myself up with belief.
+- [00:05:47,660 - 00:05:49,000] And I think the reason people don't
+- [00:05:49,000 - 00:05:50,340] buy from you is because you look desperate.
+- [00:05:50,340 - 00:05:52,020] I didn't look desperate anymore because I
+- [00:05:52,020 - 00:05:53,500] knew that somehow, some way I would always
+- [00:05:53,500 - 00:05:54,980] get to sell at the end of the day.
+- [00:05:54,980 - 00:05:55,500] But it started.
+- [00:05:55,540 - 00:05:56,500] It was my mom's dream.
+- [00:05:56,500 - 00:05:58,240] And if you don't come from a rich
+- [00:05:58,240 - 00:05:59,980] family, a rich family can come from you.
+- [00:06:00,180 - 00:06:02,160] And I made the decision in my family that
+- [00:06:02,160 - 00:06:04,140] I was going to be the one person that
+- [00:06:04,140 - 00:06:05,880] changed my family tree forever.
+- [00:06:05,880 - 00:06:07,620] This video is sponsored by BetterHelp.
+- [00:06:07,620 - 00:06:09,060] A lot of the time mentors will tell you
+- [00:06:09,060 - 00:06:10,420] that getting in shape and getting
+- [00:06:10,420 - 00:06:11,780] in the gym is crucial for self-improvement.
+- [00:06:11,980 - 00:06:13,340] I'm here to tell you that
+- [00:06:13,340 - 00:06:14,700] your mental health is just as important.
+- [00:06:14,700 - 00:06:16,060] A lot of the times
+- [00:06:16,060 - 00:06:17,420] as entrepreneurs, we're faced with roadblocks,
+- [00:06:17,540 - 00:06:20,340] limiting beliefs, loneliness while building our businesses.
+- [00:06:20,340 - 00:06:21,760] BetterHelp connects you with a licensed
+- [00:06:21,760 - 00:06:23,180] therapist who is trained to listen
+- [00:06:23,180 - 00:06:25,140] and give you helpful and unbiased advice.
+- [00:06:25,140 - 00:06:26,619] As entrepreneurs, we have limited time
+- [00:06:26,619 - 00:06:28,099] in our schedule, but through BetterHelp,
+- [00:06:28,099 - 00:06:29,879] you have the opportunity to have therapy
+- [00:06:29,879 - 00:06:31,659] sessions through phone call, video chat or
+- [00:06:31,659 - 00:06:33,339] even messaging, whatever the most comfortable
+- [00:06:33,339 - 00:06:35,020] version of therapy is for you.
+- [00:06:35,020 - 00:06:36,659] BetterHelp can match you to one of over
+- [00:06:36,659 - 00:06:38,679] 30,000 therapists in their network, which may
+- [00:06:38,679 - 00:06:40,700] give you access to a wider range
+- [00:06:40,700 - 00:06:42,900] of expertise than what may be available in your area.
+- [00:06:42,940 - 00:06:44,440] To get started, you'll fill out
+- [00:06:44,440 - 00:06:45,940] a questionnaire to help assess your specific
+- [00:06:45,940 - 00:06:47,940] needs, and then you'll be matched with
+- [00:06:47,940 - 00:06:49,940] a therapist in most cases within 48 hours.
+- [00:06:50,140 - 00:06:52,279] When starting therapy, you can easily switch
+- [00:06:52,279 - 00:06:54,419] to a new therapist at no additional cost
+- [00:06:54,420 - 00:06:56,140] without stressing about insurance, who's in
+- [00:06:56,140 - 00:06:57,860] your network or anything like that.
+- [00:06:57,860 - 00:06:59,740] On the journey to self-improvement, we're always
+- [00:06:59,740 - 00:07:01,620] trying to constantly better ourselves and we spend
+- [00:07:01,620 - 00:07:03,220] hours in the gym. But why
+- [00:07:03,220 - 00:07:04,820] not give our mind that same attention?
+- [00:07:04,820 - 00:07:06,260] If you think you might
+- [00:07:06,260 - 00:07:07,700] benefit from therapy, consider BetterHelp.
+- [00:07:07,700 - 00:07:09,980] Click the link in the description below or go
+- [00:07:09,980 - 00:07:12,260] to BetterHelp.com to get 10% off your first month.
+- [00:07:12,260 - 00:07:13,380] Now, with that being said,
+- [00:07:13,380 - 00:07:14,500] let's get back to the video.
+- [00:07:14,500 - 00:07:15,780] When it comes to the way that
+- [00:07:15,780 - 00:07:17,060] people look at money in today's world,
+- [00:07:17,060 - 00:07:18,820] what would you say is the biggest thing
+- [00:07:18,820 - 00:07:20,580] that separates the middle class from the wealthy?
+- [00:07:20,580 - 00:07:22,420] At least for me, again, in my
+- [00:07:22,420 - 00:07:24,260] experience, you've got to have a good relationship.
+- [00:07:24,420 - 00:07:26,340] I think a lot of people
+- [00:07:26,340 - 00:07:28,260] have a bad relationship with money.
+- [00:07:28,260 - 00:07:30,020] If you're always worried about not having enough
+- [00:07:30,020 - 00:07:31,780] money, if you're always worried about not saving
+- [00:07:31,780 - 00:07:33,180] enough money, then what happens is you
+- [00:07:33,180 - 00:07:34,580] start to hoard all of your money.
+- [00:07:34,580 - 00:07:36,620] And what happens when you hoard all of your
+- [00:07:36,620 - 00:07:38,660] money, you never go out and touch the dream,
+- [00:07:38,660 - 00:07:40,180] taste the dream. And if you never
+- [00:07:40,180 - 00:07:41,700] touch the dream or go taste the dream,
+- [00:07:41,700 - 00:07:42,900] then you're not going to want to get
+- [00:07:42,900 - 00:07:44,100] off your ass to go make it happen.
+- [00:07:44,100 - 00:07:45,940] So, what happens then is then you
+- [00:07:45,940 - 00:07:47,780] become complacent, hoping that one day you'll
+- [00:07:47,780 - 00:07:49,700] have enough savings to finally take action
+- [00:07:49,700 - 00:07:51,620] to have whatever it is that you want.
+- [00:07:51,620 - 00:07:52,980] But the reality of it,
+- [00:07:52,980 - 00:07:54,340] unfortunately, is the chances of that
+- [00:07:54,340 - 00:07:55,979] happening are slim to none. What probably will happen
+- [00:07:55,979 - 00:07:57,619] is you're going to get punched in the face,
+- [00:07:57,619 - 00:07:59,299] you're going to get knocked down. And at that
+- [00:07:59,299 - 00:08:00,979] point, it's going to take most of your money,
+- [00:08:00,979 - 00:08:03,259] if not all of your money. And then you're
+- [00:08:03,259 - 00:08:05,539] stuck in this endless vicious cycle of trying to have
+- [00:08:05,539 - 00:08:07,619] enough money so you could finally take action and
+- [00:08:07,619 - 00:08:09,700] become whatever it is that you want to become.
+- [00:08:09,700 - 00:08:12,260] But in reality, you should become first, then
+- [00:08:12,260 - 00:08:14,820] take action, and then you could have whatever
+- [00:08:14,820 - 00:08:17,540] it is that you want. And that's an
+- [00:08:17,540 - 00:08:20,260] abundance mindset for me. I started with becoming. Becoming
+- [00:08:20,260 - 00:08:22,260] is like we said earlier, you have to have
+- [00:08:22,260 - 00:08:24,260] hope, the desire to want to do something great.
+- [00:08:24,260 - 00:08:26,820] Faith, knowing that it's going to happen,
+- [00:08:26,820 - 00:08:29,380] taking action before you have what you need.
+- [00:08:29,380 - 00:08:31,380] And then you have to believe in
+- [00:08:31,380 - 00:08:33,380] yourself. And believing in yourself means believing something
+- [00:08:33,380 - 00:08:35,459] in your heart before you actually have
+- [00:08:35,459 - 00:08:37,539] it. Believing that you're worth a million dollars
+- [00:08:37,539 - 00:08:40,339] a year in your heart before you actually have it.
+- [00:08:40,339 - 00:08:43,140] The only way that ever happens is if you step into
+- [00:08:43,140 - 00:08:45,260] the uncertainty of something that demands more than
+- [00:08:45,260 - 00:08:47,380] you think you're worth. And when you do,
+- [00:08:47,380 - 00:08:49,700] when you succeed at it, then what happens is
+- [00:08:49,700 - 00:08:52,020] you start taking action before you have what you need,
+- [00:08:52,020 - 00:08:54,180] because you realize you're a money-making machine.
+- [00:08:54,180 - 00:08:56,180] And the money's already in its way. The
+- [00:08:56,180 - 00:08:58,180] other thing that happens when you take action before
+- [00:08:58,180 - 00:09:00,819] you have what you need is it sends a signal
+- [00:09:00,819 - 00:09:03,459] to God, causes him to act, and now the right people
+- [00:09:03,459 - 00:09:05,259] start showing up. The other thing that happens is
+- [00:09:05,259 - 00:09:07,060] you get a blueprint on what you need to make
+- [00:09:07,060 - 00:09:09,139] that happen now. And all you have to do is
+- [00:09:09,139 - 00:09:11,219] break it down to the ridiculous. The more you can break
+- [00:09:11,219 - 00:09:13,499] it down to the ridiculous, the more
+- [00:09:13,499 - 00:09:15,780] attainable it becomes. The more attainable it becomes,
+- [00:09:15,780 - 00:09:17,540] the more realistic it becomes, the more you're going
+- [00:09:17,540 - 00:09:19,300] to want to get off your butt. Because what
+- [00:09:19,300 - 00:09:21,579] causes you to take action is your ability
+- [00:09:21,579 - 00:09:23,859] to think you can get a result. Wow.
+- [00:09:23,860 - 00:09:26,140] And then you get have, which is when you put a
+- [00:09:26,140 - 00:09:28,420] date on when you're going to do it by. And then
+- [00:09:28,420 - 00:09:30,100] you go all out. Because if you don't put a date
+- [00:09:30,100 - 00:09:31,780] on when you're going to do it by, then it just becomes
+- [00:09:31,780 - 00:09:34,060] a dream and you procrastinate. I've always been on about
+- [00:09:34,060 - 00:09:36,340] dates. I'm going to do it 90 days later. And
+- [00:09:36,340 - 00:09:38,420] then you go after it like your life depends on
+- [00:09:38,420 - 00:09:40,500] it. And the hardest part about this little formula I'm
+- [00:09:40,500 - 00:09:42,500] giving you is that for whatever reason, right as
+- [00:09:42,500 - 00:09:44,500] you're going to get your blessing, you're going to
+- [00:09:44,500 - 00:09:46,300] get your biggest test. You're going to get punched.
+- [00:09:46,300 - 00:09:48,100] You're going to get knocked down. And it's at that
+- [00:09:48,100 - 00:09:50,180] point where you got to make a decision. Do you
+- [00:09:50,180 - 00:09:52,260] spring back up and revert back to who you used
+- [00:09:52,260 - 00:09:53,020] to be? Someone that makes excuses on you? Or do you
+- [00:09:53,020 - 00:09:53,780] just go back to who you used to be? And then you
+- [00:09:53,860 - 00:09:56,420] all the time? Or do you continue to push
+- [00:09:56,420 - 00:09:58,980] forward having faith that the right people are going to
+- [00:09:58,980 - 00:10:01,420] show up and you focus on what you can control
+- [00:10:01,420 - 00:10:03,860] and then everything happens at the end? I can't tell
+- [00:10:03,860 - 00:10:06,260] you how many times miracles have happened just because
+- [00:10:06,260 - 00:10:08,660] I did not quit. I was like, I don't know
+- [00:10:08,660 - 00:10:10,500] how we're going to do this but we're going to
+- [00:10:10,500 - 00:10:12,340] make this happen and the right people have shown out.
+- [00:10:12,340 - 00:10:15,300] And I call that my abundance formula. I've used
+- [00:10:15,300 - 00:10:18,260] that to attain everything I have in my life. I
+- [00:10:18,260 - 00:10:20,660] could sit here for hours and tell you
+- [00:10:20,660 - 00:10:23,060] stories on incredible things that have happened just using
+- [00:10:23,060 - 00:10:23,780] that formula.
+- [00:10:23,780 - 00:10:25,580] You talked about taking action. For someone who's
+- [00:10:25,580 - 00:10:27,380] stuck in their nine to five right now and
+- [00:10:27,380 - 00:10:29,180] they're miserable in their day-to-day life, what advice
+- [00:10:29,180 - 00:10:30,980] would you give them to really create the
+- [00:10:30,980 - 00:10:32,500] absolute best life for themselves?
+- [00:10:32,500 - 00:10:34,740] So it's figuring out the why. Too many people
+- [00:10:34,740 - 00:10:36,980] are worried about the what, the how, the where,
+- [00:10:36,980 - 00:10:39,459] the when. Not enough people are worried about the
+- [00:10:39,459 - 00:10:41,939] why. The why is the one thing you have to
+- [00:10:41,939 - 00:10:44,259] be certain about. And then once you find that out,
+- [00:10:44,259 - 00:10:46,579] again, you break it down to if it's a dream,
+- [00:10:46,579 - 00:10:48,499] how much money do you need to be making
+- [00:10:48,499 - 00:10:50,420] a year, right? For me to make six, seven,
+- [00:10:50,420 - 00:10:52,020] eight figures a year, you don't have
+- [00:10:52,020 - 00:10:53,620] to be that smart. You just need a
+- [00:10:53,780 - 00:10:55,580] little bit of time to figure out what you need
+- [00:10:55,580 - 00:10:57,380] to be making a year. And then you can find an
+- [00:10:57,380 - 00:10:59,539] opportunity that allows you to make that kind of
+- [00:10:59,539 - 00:11:01,699] money. And number two is you need to find someone
+- [00:11:01,699 - 00:11:03,659] who's got a vested interest in your success that's
+- [00:11:03,659 - 00:11:05,620] going to help you do it. And that's the hardest
+- [00:11:05,620 - 00:11:07,380] one. But if you find that, then the only reason
+- [00:11:07,380 - 00:11:09,140] you wouldn't make it is because you don't work hard.
+- [00:11:09,140 - 00:11:10,979] But that's what I would do is I'd find something
+- [00:11:10,979 - 00:11:12,819] that will allow you to make the kind of money you
+- [00:11:12,819 - 00:11:14,819] want to make so that you can live out your
+- [00:11:14,819 - 00:11:16,819] dream, whatever that is. And then I find someone that
+- [00:11:16,819 - 00:11:18,619] has been successful at it, that has a vested
+- [00:11:18,619 - 00:11:20,420] interest in your success that's going to help you
+- [00:11:20,420 - 00:11:20,819] do it.
+- [00:11:20,820 - 00:11:22,780] As an entrepreneur, for someone who may not have
+- [00:11:22,780 - 00:11:24,740] that belief in God or that faith in their life,
+- [00:11:24,740 - 00:11:25,940] what advice would you give to them?
+- [00:11:25,940 - 00:11:28,220] That whether you like it or not,
+- [00:11:28,220 - 00:11:30,500] you're faith-based. Faith is just the projection
+- [00:11:30,500 - 00:11:32,660] of the most beautiful possible thing for
+- [00:11:32,660 - 00:11:34,820] the future. The opposite of faith is fear,
+- [00:11:34,820 - 00:11:37,420] which is the worst possible thing for the future.
+- [00:11:37,420 - 00:11:40,020] If you think about it, they both haven't happened
+- [00:11:40,020 - 00:11:42,260] yet. You just have to choose, are you going
+- [00:11:42,260 - 00:11:44,500] to be positive or are you going to be negative?
+- [00:11:44,500 - 00:11:47,060] 90% of winning in life is just being
+- [00:11:47,060 - 00:11:49,620] positive. And that's where faith is so important.
+- [00:11:49,620 - 00:11:50,580] For someone who's
+- [00:11:50,580 - 00:11:52,380] trying to find that relationship, what advice would
+- [00:11:52,380 - 00:11:54,180] you give to people that are really trying
+- [00:11:54,180 - 00:11:55,700] to build their relationship with God?
+- [00:11:55,700 - 00:11:57,540] Give yourself grace. We're not perfect. It's
+- [00:11:57,540 - 00:11:59,380] why we need God. If we were perfect,
+- [00:11:59,380 - 00:12:01,460] we wouldn't need him. So you're going to fall
+- [00:12:01,460 - 00:12:03,540] and you're going to make mistakes. But what I would
+- [00:12:03,540 - 00:12:06,060] say the adversary wants you to do is when you
+- [00:12:06,060 - 00:12:08,580] make those mistakes is he tries to pull you away and
+- [00:12:08,580 - 00:12:10,420] say, hey, if you go back, you're a hypocrite,
+- [00:12:10,420 - 00:12:12,260] but that's where he wants you. And it's when you're
+- [00:12:12,260 - 00:12:14,460] going through those struggles that you should have
+- [00:12:14,460 - 00:12:16,660] a connection with God. And it doesn't happen
+- [00:12:16,660 - 00:12:18,580] overnight. For me, I wrestled with it for 18
+- [00:12:18,580 - 00:12:20,500] years, 20 years, but it was a long time.
+- [00:12:20,500 - 00:12:22,780] It was in my heart that I knew that I
+- [00:12:22,780 - 00:12:25,060] needed to get closer to God because it didn't matter how
+- [00:12:25,060 - 00:12:27,420] much success I got. I always felt a little
+- [00:12:27,420 - 00:12:29,780] empty. There was always something empty in my heart.
+- [00:12:29,780 - 00:12:31,820] Every dream I've accomplished. And it was just, I'm
+- [00:12:31,820 - 00:12:33,860] like, all right, I got to go to something else.
+- [00:12:33,860 - 00:12:36,020] And it's been, it's been a game changer for me.
+- [00:12:36,020 - 00:12:38,180] And it's not a bad thing, but I used to think
+- [00:12:38,180 - 00:12:41,700] that exterior factors like women, exotic
+- [00:12:41,700 - 00:12:45,220] cars, big houses would give me happiness.
+- [00:12:45,220 - 00:12:47,820] And just through my ups and downs, I've
+- [00:12:47,820 - 00:12:50,420] realized that those things didn't bring me happiness.
+- [00:12:50,500 - 00:12:52,740] They brought me pleasure. Now there's nothing wrong
+- [00:12:52,740 - 00:12:54,980] with pleasure, but just keep in mind that
+- [00:12:54,980 - 00:12:58,420] pleasure is a sensation and therefore it's unstable
+- [00:12:58,420 - 00:13:01,860] because in the scales of life, it's always going
+- [00:13:01,860 - 00:13:04,620] to get balanced out by the discomfort and pain that
+- [00:13:04,620 - 00:13:07,380] you have to go through. So one of the ways
+- [00:13:07,380 - 00:13:10,700] that I've realized that my happiness comes from
+- [00:13:10,700 - 00:13:14,020] is living inside out versus exterior in. And the
+- [00:13:14,020 - 00:13:16,580] way you live inside out, which has been the
+- [00:13:16,580 - 00:13:19,140] biggest game changer for me is gratitude exercises. And
+- [00:13:19,140 - 00:13:21,220] then number two is being able to take a negative
+- [00:13:21,220 - 00:13:23,300] and turn it into a positive. You could do those
+- [00:13:23,300 - 00:13:25,619] two things. You start to live inside out
+- [00:13:25,619 - 00:13:27,939] versus exterior in. You have a multimillion dollar house
+- [00:13:27,939 - 00:13:29,819] out here in Los Angeles, California. But for
+- [00:13:29,819 - 00:13:31,699] someone who's aspiring to live this type of
+- [00:13:31,699 - 00:13:33,739] lifestyle someday, what is your best advice to
+- [00:13:33,739 - 00:13:35,780] the younger generation out there? If there's one
+- [00:13:35,780 - 00:13:37,780] message that you would pass on to the
+- [00:13:37,780 - 00:13:39,780] younger generation, what would that be? So I think,
+- [00:13:39,780 - 00:13:41,940] you know, my life is, I've had to
+- [00:13:41,940 - 00:13:44,100] reverse engineer my life because for many years,
+- [00:13:44,100 - 00:13:46,019] up until six years ago, I can tell you how
+- [00:13:46,019 - 00:13:47,939] I succeeded. I just knew that I worked hard. I
+- [00:13:47,939 - 00:13:48,459] had discipline. I had perseverance. I had a lot of success.
+- [00:13:48,459 - 00:13:48,980] I had a lot of success. I had a lot of
+- [00:13:48,980 - 00:13:50,740] perseverance. I had integrity and I had big
+- [00:13:50,740 - 00:13:52,500] faith. But other than that, I couldn't really
+- [00:13:52,500 - 00:13:54,620] tell you how I succeeded. Now that I've
+- [00:13:54,620 - 00:13:56,740] been studying mindset, I've came across this thing
+- [00:13:56,740 - 00:13:58,620] called the reticular activating system. And
+- [00:13:58,620 - 00:14:00,500] you could actually Google this stuff. So,
+- [00:14:00,500 - 00:14:02,820] the reticular activating system is part of your
+- [00:14:02,820 - 00:14:05,140] subconscious mind. And what you got to understand
+- [00:14:05,140 - 00:14:07,140] about your subconscious mind is that
+- [00:14:07,140 - 00:14:09,140] it sees everything and it hears everything,
+- [00:14:09,140 - 00:14:11,540] but it intentionally does not share it back
+- [00:14:11,540 - 00:14:13,940] to your conscious mind. Because if it did,
+- [00:14:13,940 - 00:14:16,260] your mind would get overwhelmed and you would
+- [00:14:16,260 - 00:14:18,580] go to sleep. So instead, your subconscious mind,
+- [00:14:18,980 - 00:14:21,460] filters what information it's going to send to your
+- [00:14:21,460 - 00:14:23,940] conscious mind. And it does it by the way
+- [00:14:23,940 - 00:14:26,260] of the reticular activating system. And the only thing
+- [00:14:26,260 - 00:14:28,580] it allows to get to your conscious mind is
+- [00:14:28,580 - 00:14:30,620] anything having to do with your dreams, which
+- [00:14:30,620 - 00:14:32,660] is why you're supposed to have some big God-sized
+- [00:14:32,660 - 00:14:35,140] dreams. Anything having to do with your self-worth, which
+- [00:14:35,140 - 00:14:37,620] is why you got to build your identity. And
+- [00:14:37,620 - 00:14:39,900] anything that has to do with your survival, which
+- [00:14:39,900 - 00:14:42,180] is why you got to get obsessed with the things
+- [00:14:42,180 - 00:14:44,660] that you want. Because sometimes if you don't
+- [00:14:44,660 - 00:14:47,140] do those three things, you could have an opportunity
+- [00:14:47,140 - 00:14:48,050] that would change your life forever. And you won't
+- [00:14:48,050 - 00:14:48,960] be able to do that. And that's why you're supposed
+- [00:14:48,960 - 00:14:51,050] to have a dream. And you won't even see it. As
+- [00:14:51,050 - 00:14:53,140] I look back to the decision I made at 21 years old,
+- [00:14:53,140 - 00:14:55,480] when I left the job that was paying me $70,000
+- [00:14:55,480 - 00:14:57,820] a year and everybody thought I was crazy. I could
+- [00:14:57,820 - 00:15:00,120] tie it back to that. Because at 12 years old, I
+- [00:15:00,120 - 00:15:02,420] used to daydream all day long on how one day I was
+- [00:15:02,420 - 00:15:05,040] going to make a hundred grand by the age of
+- [00:15:05,040 - 00:15:07,660] 21. I started going to Bordeaux Drive in Beverly Hills
+- [00:15:07,660 - 00:15:09,960] and I started dreaming of how one day I was going
+- [00:15:09,960 - 00:15:12,260] to end up there. I had these huge dreams. I had
+- [00:15:12,260 - 00:15:14,120] my self-worth, which was already kind of high
+- [00:15:14,120 - 00:15:15,980] because I had accomplished some good things at
+- [00:15:15,980 - 00:15:17,460] a young age and I needed it for survival. Like I
+- [00:15:17,460 - 00:15:18,940] was like, I'm going to make it. I'm going to make
+- [00:15:18,940 - 00:15:21,100] it. Like there was no way that I wasn't going to
+- [00:15:21,100 - 00:15:23,260] succeed. I made a promise to my mom. I made a
+- [00:15:23,260 - 00:15:25,940] promise to my dad and I was going to
+- [00:15:25,940 - 00:15:28,620] make it happen. So the understanding that is huge.
+- [00:15:30,300 - 00:15:32,280] Guys, that's a wrap on today's video. Be sure
+- [00:15:32,280 - 00:15:34,260] to leave a like and subscribe for some amazing
+- [00:15:34,260 - 00:15:36,180] content coming soon. And everybody click right here
+- [00:15:36,180 - 00:15:38,100] to watch us going all around Miami, Florida,
+- [00:15:38,220 - 00:15:39,750] asking multimillionaires how you can
+- [00:15:39,750 - 00:15:41,280] become successful in today's world.
