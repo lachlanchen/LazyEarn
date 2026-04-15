@@ -1,0 +1,273 @@
+# Transcript
+
+Source: lazyearn/jim-rohn-originals-no-ai/010 - Jim Rohn   Getting Rich is Easy [wS7b1I50F7Y].webm
+
+- [00:00:00,000 - 00:00:03,120] I got rich by the time I was 31. Here's
+- [00:00:03,120 - 00:00:06,240] the best advice I give my teenage friends. It was easy.
+- [00:00:07,720 - 00:00:09,220] What can I tell you? It
+- [00:00:09,220 - 00:00:10,720] was hard. No, it was easy.
+- [00:00:12,960 - 00:00:15,600] I'm a millionaire by 31. Let me tell you how I did
+- [00:00:15,600 - 00:00:18,240] it. I got three reasons why I got rich by the time
+- [00:00:18,240 - 00:00:21,300] I was 31. Let me give you those. Here's number one.
+- [00:00:21,300 - 00:00:24,360] I lived in America. I mean, how lucky can you get?
+- [00:00:24,360 - 00:00:28,230] But America is easy. That's why everybody wants
+- [00:00:28,230 - 00:00:32,100] to come here. People haven't plotted and schemed
+- [00:00:32,100 - 00:00:34,970] for 50 years saying if I could just
+- [00:00:34,970 - 00:00:37,840] get to Poland, everything would be okay. No, no.
+- [00:00:39,840 - 00:00:41,710] The boat people are not
+- [00:00:41,710 - 00:00:43,580] desperately trying to get to Vietnam.
+- [00:00:44,720 - 00:00:46,720] No, they're not squeezing through the
+- [00:00:46,720 - 00:00:48,720] fence to try to get into Mexico.
+- [00:00:50,140 - 00:00:53,580] No. Neil Diamond says, looks like everybody's heading for
+- [00:00:53,580 - 00:00:54,060] America.
+- [00:00:54,480 - 00:00:56,530] They're all coming to America. Why? Everybody wants
+- [00:00:56,530 - 00:00:58,580] to come here by every means possible to get
+- [00:00:58,580 - 00:01:00,810] here. Why? Because America is easy. So if you
+- [00:01:00,810 - 00:01:03,040] go home with anything, go home with that. Mr.
+- [00:01:03,080 - 00:01:04,950] Rohn reminded us that America is easy. He got
+- [00:01:04,950 - 00:01:06,820] rich by the time he's 31. America is easy.
+- [00:01:07,680 - 00:01:11,930] Bangladesh is hard. Just take that home.
+- [00:01:11,930 - 00:01:16,180] Here's the average yearly income in Bangladesh. $120.
+- [00:01:16,180 - 00:01:23,120] That would be hard. Tell me hard versus easy.
+- [00:01:24,360 - 00:01:28,710] So America is easy. Cambodia would be hard. The
+- [00:01:28,710 - 00:01:33,060] Khmer Rouge killed 2 million Cambodians to make communism work.
+- [00:01:34,080 - 00:01:36,020] That's hard.
+- [00:01:37,680 - 00:01:45,710] America is easy. India would be hard. They got their challenges these days. Tough.
+- [00:01:45,710 - 00:01:53,740] America's easy. China would be really hard. Underline really and make a study. It's hard.
+- [00:01:54,360 - 00:01:58,560] America is easy.
+- [00:01:58,560 - 00:01:59,830] And now in about 90
+- [00:01:59,830 - 00:02:01,100] days, you can have that memorized.
+- [00:02:01,100 - 00:02:04,050] That's all you need. I got rich for the time
+- [00:02:04,050 - 00:02:07,000] I was 31. I lived in America. America is easy.
+- [00:02:07,920 - 00:02:11,940] Now here's number two. I found an opportunity.
+- [00:02:13,260 - 00:02:18,430] That's all you got to do in America. Search for an opportunity. Take the first one, right? Try it. If that
+- [00:02:18,430 - 00:02:23,600] isn't it leads to another one door closes. Another door opens. This is what's exciting about America. It's full of opportunity.
+- [00:02:24,360 - 00:02:25,740] A chance to try and then what?
+- [00:02:26,660 - 00:02:27,780] Try again and then what?
+- [00:02:28,480 - 00:02:32,230] Try again. Never, never run out of opportunity to try. See if you can't better your life
+- [00:02:32,230 - 00:02:35,980] and your health and your future and your bank account and your income. Make your fortune here.
+- [00:02:37,160 - 00:02:39,640] I lived in America. Number one. Found an opportunity. Number
+- [00:02:39,640 - 00:02:42,120] three. Number two. Here's number three. I found a teacher.
+- [00:02:45,120 - 00:02:49,190] What a grand and glorious unique thing that was for me at
+- [00:02:49,190 - 00:02:53,260] that time in my life. I found a teacher willing to teach me.
+- [00:02:54,360 - 00:02:59,500] And his teaching came in two parts. Here's what it was. Very simple.
+- [00:02:59,500 - 00:03:04,640] Number one. Mr. Ron, you have evidently messed up between ages 19 and 25.
+- [00:03:06,000 - 00:03:11,230] Now I could understand that. But he didn't leave me there. He said, now here's the answers on how
+- [00:03:11,230 - 00:03:16,460] to change it all the next six years so that the next six years won't be like the last six.
+- [00:03:16,460 - 00:03:20,400] What an incredible teacher taught me how to have a whole brand new six
+- [00:03:20,400 - 00:03:24,340] years. First six. What I messed up. Second six. What I got it. Right.
+- [00:03:24,360 - 00:03:27,570] Second six years I became a millionaire. During that
+- [00:03:27,570 - 00:03:30,780] second six years the government was about the same.
+- [00:03:32,940 - 00:03:39,840] I'm telling you. Interest rates were about what? The same. The pay scale
+- [00:03:39,840 - 00:03:46,740] was about what? The same. Lord knows my negative realities were the same.
+- [00:03:48,720 - 00:03:51,440] Circumstances were about the same.
+- [00:03:51,440 - 00:03:54,160] The economy was about the same.
+- [00:03:54,360 - 00:03:57,710] But the unions and their philosophy was about? The same.
+- [00:03:57,710 - 00:04:01,060] What was going on around me was about the same.
+- [00:04:01,060 - 00:04:06,200] Then how come I got rich that second
+- [00:04:06,200 - 00:04:11,340] six years. I was not the same. I changed.
+- [00:04:13,340 - 00:04:14,300] You say, Mr. Ron, if you
+- [00:04:14,300 - 00:04:15,260] can do that can anybody do it?
+- [00:04:15,480 - 00:04:18,279] Yes, I invite you on that journey. Anytime you want to. You can stay
+- [00:04:18,279 - 00:04:21,079] the same so that the next six years will be like the last six.
+- [00:04:21,079 - 00:04:23,160] Take a look at the last six years.
+- [00:04:23,160 - 00:04:23,490] And I'm telling you the next six years of your life is going
+- [00:04:23,490 - 00:04:23,820] to be like the first six. Take a look at the last six years.
+- [00:04:23,820 - 00:04:24,080] And I'm telling you the next six years of your life is going to be like the first six. Take
+- [00:04:24,080 - 00:04:24,340] a look at the last six. Take a look at the last six. Take a look at the last six.
+- [00:04:24,360 - 00:04:25,700] Be like the last six.
+- [00:04:27,100 - 00:04:28,910] Or unless you want to count on this
+- [00:04:28,910 - 00:04:30,720] short list that we call not much list.
+- [00:04:31,620 - 00:04:33,900] Most everybody's counting on this not much list.
+- [00:04:34,460 - 00:04:36,560] What if all of your negative relatives turned positive?
+- [00:04:36,660 - 00:04:38,440] What would that do for your future and your fortune?
+- [00:04:39,400 - 00:04:39,700] What?
+- [00:04:40,440 - 00:04:41,380] Not much.
+- [00:04:42,480 - 00:04:43,420] Not much.
+- [00:04:44,540 - 00:04:45,980] What if prices came down a little?
+- [00:04:46,040 - 00:04:46,960] What will that do for your future?
+- [00:04:47,940 - 00:04:49,320] I'm telling you, not much.
+- [00:04:49,580 - 00:04:50,560] If the economy gets a
+- [00:04:50,560 - 00:04:51,540] little better, what will that do?
+- [00:04:52,860 - 00:04:53,700] Not much.
+- [00:04:54,360 - 00:04:56,200] Now that the Democrats are in power,
+- [00:04:56,200 - 00:04:58,040] what's that going to do for your future?
+- [00:04:58,840 - 00:04:59,540] Not much.
+- [00:04:59,600 - 00:05:01,440] We could get a good debate going here.
+- [00:05:04,400 - 00:05:05,570] If the Republicans would have stayed
+- [00:05:05,570 - 00:05:06,740] in power, what would that have done?
+- [00:05:07,440 - 00:05:08,200] Not much.
+- [00:05:08,280 - 00:05:10,020] Hey, we could get a good debate going here.
+- [00:05:11,480 - 00:05:13,040] I'm telling you, it's a not much list.
+- [00:05:14,580 - 00:05:16,580] If you don't make plans of your own, guess what?
+- [00:05:16,720 - 00:05:18,900] You'll probably always fit into someone else's plans.
+- [00:05:19,500 - 00:05:21,240] Guess what someone else may have planned for you?
+- [00:05:22,020 - 00:05:22,720] Not much.
+- [00:05:24,360 - 00:05:25,360] Not much.
+- [00:05:27,600 - 00:05:29,360] Then what's going to make the difference?
+- [00:05:29,480 - 00:05:30,720] You're going to have to make the difference.
+- [00:05:30,880 - 00:05:32,020] You're going to have to take charge.
+- [00:05:32,880 - 00:05:34,570] Now, Mr. Shoaff, my teacher gave me a promise,
+- [00:05:34,570 - 00:05:36,260] and I want to give you that promise now.
+- [00:05:36,340 - 00:05:37,250] Here was the promise I got,
+- [00:05:37,250 - 00:05:38,160] and I bring it to you.
+- [00:05:38,320 - 00:05:39,480] Here's what my teacher said.
+- [00:05:39,980 - 00:05:42,920] If you will change Mr. Rohn, he said,
+- [00:05:42,920 - 00:05:45,860] if you will change, everything will change for you.
+- [00:05:47,820 - 00:05:49,020] You don't have to change the government.
+- [00:05:49,080 - 00:05:50,140] You don't have to change prices.
+- [00:05:50,200 - 00:05:51,360] You don't have to change taxes.
+- [00:05:51,420 - 00:05:51,980] Forget all that.
+- [00:05:54,360 - 00:05:56,460] he said, if you will
+- [00:05:56,460 - 00:05:58,560] change, everything will change for you.
+- [00:06:00,560 - 00:06:02,420] And the first thing you start changing is what?
+- [00:06:03,520 - 00:06:04,400] Your philosophy.
+- [00:06:05,360 - 00:06:07,120] You start changing your mind.
+- [00:06:07,200 - 00:06:08,420] You start changing how you think.
+- [00:06:08,500 - 00:06:10,380] You start picking up new ideas and information.
+- [00:06:10,920 - 00:06:11,780] Gather new knowledge.
+- [00:06:11,900 - 00:06:13,420] Make better decisions about what's valuable.
+- [00:06:13,680 - 00:06:14,920] And I'm telling you, if you'll
+- [00:06:14,920 - 00:06:16,160] do that, your whole life will change.
+- [00:06:16,440 - 00:06:17,500] Your health will change.
+- [00:06:17,800 - 00:06:19,600] Your relationship with your family will change.
+- [00:06:19,880 - 00:06:20,970] Your ability to cope with
+- [00:06:20,970 - 00:06:22,060] challenges and problems will change.
+- [00:06:22,120 - 00:06:24,180] I'm telling you, income, promotions, all of it will change.
+- [00:06:24,180 - 00:06:26,020] If you will change, it'll all change.
+- [00:06:26,100 - 00:06:27,740] If you won't change, it isn't going to change.
+- [00:06:28,620 - 00:06:30,110] You can keep your fingers crossed if you
+- [00:06:30,110 - 00:06:31,600] want to and hope they'll straighten it out.
+- [00:06:32,660 - 00:06:33,960] You can wish for the wind
+- [00:06:33,960 - 00:06:35,260] not to blow quite as severe.
+- [00:06:35,340 - 00:06:38,180] But I'm telling you, wishing for the wind to
+- [00:06:38,180 - 00:06:41,020] change in your favor, we call naive at best.
+- [00:06:41,700 - 00:06:42,860] Don't do this any longer.
+- [00:06:43,020 - 00:06:44,080] Wish for a better wind.
+- [00:06:44,200 - 00:06:45,600] The key is to wish for
+- [00:06:45,600 - 00:06:47,000] the wisdom to set a better sail.
+- [00:06:47,360 - 00:06:48,770] Utilize whatever wind that blows to
+- [00:06:48,770 - 00:06:50,180] take you wherever you want to go.
+- [00:06:50,440 - 00:06:52,820] That is the philosophy I picked up at age 25.
+- [00:06:52,940 - 00:06:54,160] And it revolutionized.
+- [00:06:54,180 - 00:06:56,040] It revolutionized my whole life.
+- [00:06:57,740 - 00:06:58,760] And here's what I found.
+- [00:06:58,800 - 00:06:59,600] I found it was easy.
+- [00:06:59,860 - 00:07:00,910] I got rich by the time
+- [00:07:00,910 - 00:07:01,960] I was 31 and it was easy.
+- [00:07:02,060 - 00:07:03,380] Now, here's my definition of easy.
+- [00:07:03,600 - 00:07:04,540] Got to jot this down.
+- [00:07:06,040 - 00:07:09,600] My definition of easy, meaning something I could do.
+- [00:07:11,960 - 00:07:15,660] I figure if it's something you can do, it's easy.
+- [00:07:17,720 - 00:07:19,100] Now, here's a parenthesis.
+- [00:07:20,340 - 00:07:20,780] Parenthesis.
+- [00:07:20,860 - 00:07:21,840] I worked hard at it.
+- [00:07:22,720 - 00:07:24,160] I found something I could do.
+- [00:07:24,280 - 00:07:25,040] Which was easy.
+- [00:07:25,120 - 00:07:27,240] But I worked hard at it.
+- [00:07:28,080 - 00:07:29,680] I got up early and stayed up late.
+- [00:07:29,800 - 00:07:30,920] Worked hard that six years.
+- [00:07:33,960 - 00:07:35,220] But what I did was easy,
+- [00:07:35,220 - 00:07:36,480] meaning it was something I could do.
+- [00:07:38,080 - 00:07:38,980] You say, well, Mr.
+- [00:07:39,020 - 00:07:40,530] If it was so easy, how come
+- [00:07:40,530 - 00:07:42,040] everybody else around you during that six years?
+- [00:07:42,120 - 00:07:43,160] How come they didn't get rich?
+- [00:07:43,220 - 00:07:43,880] Here's why.
+- [00:07:44,160 - 00:07:45,480] It's easy not to.
+- [00:07:49,740 - 00:07:51,040] How else would you describe it?
+- [00:07:51,060 - 00:07:51,460] That's it.
+- [00:07:51,460 - 00:07:52,240] You say, no, no.
+- [00:07:52,560 - 00:07:53,520] For all of the rest of them.
+- [00:07:53,560 - 00:07:54,080] It was hard for.
+- [00:07:54,180 - 00:07:55,380] Them and it was easy for you.
+- [00:07:55,440 - 00:07:56,340] That's not true.
+- [00:07:56,400 - 00:07:57,670] You couldn't debate me on that
+- [00:07:57,670 - 00:07:58,940] in front of this intelligent audience.
+- [00:08:03,280 - 00:08:04,240] But here's the challenge.
+- [00:08:04,240 - 00:08:06,060] Let me give it to you in a philosophical phrase.
+- [00:08:06,240 - 00:08:07,520] I tend to be a little philosophical.
+- [00:08:07,520 - 00:08:08,100] Here it is.
+- [00:08:08,100 - 00:08:11,310] The things that are easy to
+- [00:08:11,310 - 00:08:14,520] do are also easy not to do.
+- [00:08:15,060 - 00:08:17,040] That's the difference between success and failure.
+- [00:08:22,440 - 00:08:24,080] So you've got the choice here today.
+- [00:08:24,080 - 00:08:25,610] You can give one of
+- [00:08:25,610 - 00:08:27,140] two easy easy to or what?
+- [00:08:28,140 - 00:08:29,140] Easy not to.
+- [00:08:29,140 - 00:08:30,140] I can give you in one sentence how
+- [00:08:30,140 - 00:08:31,140] I got rich by the time I was 31.
+- [00:08:31,140 - 00:08:32,140] Here it is in one sentence.
+- [00:08:32,140 - 00:08:34,640] I did not neglect to do the easy
+- [00:08:34,640 - 00:08:37,140] things I could do every day for six years.
+- [00:08:37,140 - 00:08:38,140] Underline.
+- [00:08:38,140 - 00:08:41,140] I did not neglect.
+- [00:08:41,140 - 00:08:44,140] That's the key.
+- [00:08:44,140 - 00:08:46,640] I found something easy I could do that led
+- [00:08:46,640 - 00:08:49,140] to fortune and I did not neglect to do it.
+- [00:08:49,140 - 00:08:53,140] Major reason for not having everything you want in America.
+- [00:08:53,140 - 00:08:54,079] You know, I'm not going to say that.
+- [00:08:54,080 - 00:08:55,610] Major reason for not having more
+- [00:08:55,610 - 00:08:57,140] of what you want in America.
+- [00:08:57,140 - 00:08:58,640] More health, more money, more
+- [00:08:58,640 - 00:09:00,140] power, more influence, more everything.
+- [00:09:00,140 - 00:09:01,140] Major reason why you don't get it.
+- [00:09:01,140 - 00:09:02,140] Simple answer.
+- [00:09:02,140 - 00:09:03,140] Neglect.
+- [00:09:03,140 - 00:09:04,140] Neglect.
+- [00:09:04,140 - 00:09:08,140] And here's the problem with neglect.
+- [00:09:08,140 - 00:09:10,140] It starts as an infection.
+- [00:09:10,140 - 00:09:11,640] And if you don't take care
+- [00:09:11,640 - 00:09:13,140] of it, it becomes a disease.
+- [00:09:13,140 - 00:09:15,140] And here's what else is the problem.
+- [00:09:15,140 - 00:09:17,140] One neglect leads to another.
+- [00:09:17,140 - 00:09:20,140] Neglect to do wise things with your money.
+- [00:09:20,140 - 00:09:22,140] You'll probably neglect to do wise things with your time.
+- [00:09:22,140 - 00:09:23,140] Neglect to do wise things with your money.
+- [00:09:23,140 - 00:09:24,199] You'll probably neglect to do wise things with your time.
+- [00:09:24,199 - 00:09:25,199] You'll probably neglect to do
+- [00:09:25,199 - 00:09:26,199] wise things with your business.
+- [00:09:26,199 - 00:09:28,199] One leads to another leads to another.
+- [00:09:28,199 - 00:09:31,199] Pretty soon, neglect has you by the throat.
+- [00:09:31,199 - 00:09:33,699] Emptying your purse, emptying your heart, emptying all of your
+- [00:09:33,699 - 00:09:36,199] chances for equities and power and all the good things.
+- [00:09:36,199 - 00:09:40,199] Neglect.
+- [00:09:40,199 - 00:09:42,199] What if you should be walking around the block
+- [00:09:42,199 - 00:09:44,199] every day for your good health and you don't?
+- [00:09:44,199 - 00:09:46,199] I'm telling you, you're on the wrong track.
+- [00:09:46,199 - 00:09:47,200] You should do it.
+- [00:09:47,200 - 00:09:48,200] You could do it.
+- [00:09:48,200 - 00:09:49,200] You don't do it.
+- [00:09:49,200 - 00:09:51,200] That's called formula for disaster.
+- [00:09:51,200 - 00:09:52,200] All you've got to do is let that.
+- [00:09:52,200 - 00:09:54,200] And a few other things accumulate for six years.
+- [00:09:54,200 - 00:09:58,200] And now you're driving what you don't want to drive, wearing what you don't want
+- [00:09:58,200 - 00:10:02,200] to wear, living where you don't want to live, doing what you don't want to do.
+- [00:10:02,200 - 00:10:05,200] Maybe having become what you really didn't want to become.
+- [00:10:05,200 - 00:10:06,200] I'm telling you, that's it.
+- [00:10:06,200 - 00:10:08,200] Just neglect along, drift along, and
+- [00:10:08,200 - 00:10:10,200] it's got you by the throat.
+- [00:10:10,200 - 00:10:13,200] It'll take all your values, leave you with just a little
+- [00:10:13,200 - 00:10:16,200] bit of dust in the summer wind, and it'll soon be gone.
+- [00:10:16,200 - 00:10:19,200] I hope I said that well.
+- [00:10:19,200 - 00:10:20,200] That's it.
+- [00:10:20,200 - 00:10:22,200] That's where I found myself at age 25.
+- [00:10:22,200 - 00:10:23,700] Until my teacher came along and said,
+- [00:10:23,700 - 00:10:25,200] Mr. Owen, up till now you've messed up.
+- [00:10:25,200 - 00:10:26,200] Let's see if we can't
+- [00:10:26,200 - 00:10:27,200] clean that up, change it all.
+- [00:10:27,200 - 00:10:28,200] I did.
+- [00:10:28,200 - 00:10:29,200] Changed my life.
+- [00:10:29,200 - 00:10:30,200] Not just the money.
+- [00:10:30,200 - 00:10:33,200] All the rest of the values that came pouring in.
+- [00:10:33,200 - 00:10:35,200] When I understood that it was me.
+- [00:10:35,200 - 00:10:37,200] It was me.
+- [00:10:37,200 - 00:10:39,200] So take the easy approach.
+- [00:10:39,200 - 00:10:40,200] This stuff's easy to figure out.
+- [00:10:40,200 - 00:10:41,200] Getting rich is easy.
+- [00:10:41,200 - 00:10:42,200] I teach it to teenagers.
+- [00:10:42,200 - 00:10:44,200] How to be rich by 40.
+- [00:10:44,200 - 00:10:45,200] 35 if you're extra bright.
+- [00:10:45,200 - 00:10:47,200] This stuff is not difficult.
+- [00:10:47,200 - 00:10:49,200] I love to teach kids enterprise.
+- [00:10:52,200 - 00:10:55,023] It's easy to catch up
