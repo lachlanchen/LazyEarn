@@ -35,6 +35,16 @@ The public language layer still includes **Lazy Money**, **Lazy Earn**, and **Ea
 
 > _“Build less. Live more.”_ — LazyEarn ethos
 
+## 🏛️ Featured publication
+
+The completed Yale `Financial Markets` notes are now published from a repo-root shelf:
+
+- [Publication shelf](yale-financial-markets-publication/README.md)
+- [Full course PDF](yale-financial-markets-publication/full-course.pdf)
+- [Website viewer](https://earn.lazying.art/pdf-viewer.html#yale-financial-markets-notes)
+
+This publication contains a root-level cover, one full-course PDF, and one PDF per lecture for Robert J. Shiller's full Yale sequence.
+
 ## 🧭 Mission and operating method
 
 LazyEarn is a source-aware, mechanism-first pipeline for money and wealth education. It keeps four things in one loop:
@@ -94,6 +104,7 @@ reader routes (`docs/index.html` + `docs/script.js` + `docs/translations.json`).
 | `docs/` | Production website source (`index.html`, `styles.css`, `script.js`) | Public site that powers `earn.lazying.art` |
 | `investment/` | Markdown research briefs | Canonical source of truth for money, wealth, and investing research |
 | `investment_pdfs/` | Compiled LaTeX/PDF artifacts | Shareable portfolio-grade outputs |
+| `yale-financial-markets-publication/` | Root-level Yale course publication shelf | Direct access to the full course PDF and per-lecture PDFs |
 | `references/wealth-engine/` | Mission, source map, question bank, methods, and round logs | Research memory and operating layer for continuous refinement |
 | `scripts/wealth-refinery.sh` | Round driver entrypoint | Keeps round execution consistent outside Codex git actions |
 | `figs/` | Brand assets | Visual identity and banner references |
@@ -253,6 +264,8 @@ Narrative rundowns for AI, biotech, semiconductors, clean energy, and cloud.
 | **Financial Freedom Playbook** | Principles + automation ideas, capital allocation tables, quarterly rituals, and new idea seeds.
 [`Open markdown`](https://github.com/lachlanchen/LazyEarn/blob/main/investment/financial_freedom.md) | [Open PDF](https://earn.lazying.art/pdf-viewer.html#financial-freedom) |
 [`打开 Markdown`](https://github.com/lachlanchen/LazyEarn/blob/main/investment/financial_freedom_zh.md) | [打开 PDF](https://earn.lazying.art/pdf-viewer.html?file=financial-freedom-zh) |
+| **Yale Financial Markets Notes** | A published root-level course edition of Robert J. Shiller's lecture sequence, with one full-course PDF, one PDF per lecture, and a dedicated publication shelf README.
+[`Open publication`](https://github.com/lachlanchen/LazyEarn/blob/main/yale-financial-markets-publication/README.md) | [Open PDF](https://earn.lazying.art/pdf-viewer.html#yale-financial-markets-notes) |
 
 ## 🔁 Book sync highlights (cycle_006)
 

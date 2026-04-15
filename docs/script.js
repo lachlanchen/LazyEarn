@@ -121,6 +121,10 @@ const fallbackStrings = {
   "research.asset3Title": `High-growth dossier`,
   "research.asset3Desc": `Narrative rundowns for nine high-growth U.S. equities (AI, biotech, semiconductors, clean energy, cloud) with upside tables and annotated sources.`,
   "research.asset3Route": `Viewer slug: <code>high-growth</code> (aliases: <code>high-growth-stocks</code>, <code>high_growth_stocks</code>).`,
+  "research.asset4Title": `Yale Financial Markets notes`,
+  "research.asset4Desc": `A published course edition of Robert J. Shiller's Yale lecture sequence with a new cover, one full-course PDF, and one lecture PDF per session.`,
+  "research.asset4Route": `Viewer slug: <code>yale-financial-markets-notes</code> (aliases: <code>yale-financial-markets</code>, <code>shiller-financial-markets</code>).`,
+  "research.openPublication": `Open publication shelf`,
   "form.success": `Invite sent to {{email}}. Expect a lazy hello soon.`,
   "research.routeTitle": `Reader route this cycle`,
   "research.routeIntro": `Start with the Chapter 9 transmission sequence, then open the 30D-SW execution gate before allocation or leverage conclusion.`,
@@ -239,6 +243,20 @@ const pdfEntries = {
     pdf: "investment_pdfs/high-growth-stocks/high-growth-stocks.pdf",
     download: "investment_pdfs/high-growth-stocks/high-growth-stocks.pdf",
     markdown: "https://github.com/lachlanchen/LazyEarn/blob/main/investment/high-growth-stocks.md",
+  },
+  "yale-financial-markets-notes": {
+    aliases: ["yale-financial-markets", "shiller-financial-markets"],
+    titleKey: "research.asset4Title",
+    descriptionKey: "research.asset4Desc",
+    title: "Yale Financial Markets notes",
+    description:
+      "A published course edition of Robert J. Shiller's Yale lecture sequence with a new cover, one full-course PDF, and one lecture PDF per session.",
+    pdf: "publications/yale-financial-markets/full-course.pdf",
+    download: "publications/yale-financial-markets/full-course.pdf",
+    markdown:
+      "https://github.com/lachlanchen/LazyEarn/blob/main/yale-financial-markets-publication/README.md",
+    publication:
+      "https://github.com/lachlanchen/LazyEarn/blob/main/yale-financial-markets-publication/README.md",
   },
   "financial-freedom": {
     aliases: ["financial_freedom"],
@@ -673,6 +691,7 @@ function setupResearchCatalog() {
     const viewEl = card.querySelector('[data-research-link="view"]');
     const viewZhEl = card.querySelector('[data-research-link="view-zh"]');
     const markdownEl = card.querySelector('[data-research-link="markdown"]');
+    const publicationEl = card.querySelector('[data-research-link="publication"]');
     const routeIntroEl = card.querySelector('[data-i18n="research.routeIntro"]');
     const routeListEl = card.querySelector(".route-list");
     const routeActionEl = card.querySelector('[data-research-link="route-action"]');
@@ -694,6 +713,9 @@ function setupResearchCatalog() {
     }
     if (markdownEl) {
       markdownEl.setAttribute("href", entry.markdown);
+    }
+    if (publicationEl) {
+      publicationEl.setAttribute("href", entry.publication || entry.markdown);
     }
 
     if (routeIntroEl && entry.routeGuide?.introKey) {
