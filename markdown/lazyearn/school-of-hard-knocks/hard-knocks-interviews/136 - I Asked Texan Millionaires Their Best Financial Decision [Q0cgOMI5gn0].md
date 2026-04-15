@@ -1,0 +1,242 @@
+# Transcript
+
+Source: lazyearn/school-of-hard-knocks/hard-knocks-interviews/136 - I Asked Texan Millionaires Their Best Financial Decision [Q0cgOMI5gn0].mkv
+
+- [00:00:00,000 - 00:00:02,260] How can someone become financially free in today's world?
+- [00:00:02,360 - 00:00:03,180] You know what I mean, rich.
+- [00:00:03,340 - 00:00:04,200] It takes time.
+- [00:00:04,340 - 00:00:04,960] What's up, guys?
+- [00:00:05,060 - 00:00:06,250] Welcome back to another video
+- [00:00:06,250 - 00:00:07,440] with the School of Hard Knocks.
+- [00:00:07,480 - 00:00:08,160] I'm Jack here.
+- [00:00:08,260 - 00:00:09,280] I'm here with James and Josh.
+- [00:00:09,360 - 00:00:10,600] We are in downtown Austin.
+- [00:00:10,760 - 00:00:13,200] Today, we're gonna be going around asking wealthy people
+- [00:00:13,200 - 00:00:15,500] what is the best financial decision they've ever made.
+- [00:00:15,580 - 00:00:16,140] Let's get to it.
+- [00:00:16,200 - 00:00:17,880] What has been the best financial decision
+- [00:00:17,880 - 00:00:19,040] that you've made throughout your career?
+- [00:00:19,160 - 00:00:20,600] Invest in IT stocks early.
+- [00:00:20,780 - 00:00:22,440] Was there a particular stock that you invested in?
+- [00:00:22,500 - 00:00:23,140] Intel and Microsoft.
+- [00:00:23,320 - 00:00:24,150] Those are the two biggies that
+- [00:00:24,150 - 00:00:24,980] I had in the sale alone.
+- [00:00:25,160 - 00:00:26,700] How long have you been in Microsoft for?
+- [00:00:26,840 - 00:00:28,020] Oh my God, 20 plus.
+- [00:00:28,020 - 00:00:30,220] What industry did you decide to pursue a career in?
+- [00:00:30,340 - 00:00:31,720] So I'm a cybersecurity executive.
+- [00:00:31,880 - 00:00:32,940] If you were to go back to when
+- [00:00:32,940 - 00:00:34,000] you were in either high school or college,
+- [00:00:34,180 - 00:00:35,240] what is the best piece of
+- [00:00:35,240 - 00:00:36,300] advice you'd tell your younger self?
+- [00:00:36,640 - 00:00:37,200] Save your money.
+- [00:00:37,420 - 00:00:37,740] Invest.
+- [00:00:37,920 - 00:00:39,080] Don't spend more than you have.
+- [00:00:39,160 - 00:00:40,060] Have a diverse portfolio.
+- [00:00:40,480 - 00:00:41,560] 401k, never touch it.
+- [00:00:41,620 - 00:00:42,750] What has been the best
+- [00:00:42,750 - 00:00:43,880] financial decision that you've ever made?
+- [00:00:43,940 - 00:00:45,830] To walk away when someone
+- [00:00:45,830 - 00:00:47,720] didn't actually value my contribution.
+- [00:00:48,040 - 00:00:49,160] What impact did that have?
+- [00:00:49,220 - 00:00:50,820] It had a huge impact because then
+- [00:00:50,820 - 00:00:52,420] I went on to the next thing
+- [00:00:52,420 - 00:00:53,969] and was shown that I was
+- [00:00:53,969 - 00:00:55,519] right and the value was there.
+- [00:00:55,519 - 00:00:57,340] When you're an entrepreneur and you're somebody
+- [00:00:57,340 - 00:00:59,400] who runs large global businesses,
+- [00:00:59,400 - 00:01:01,460] you are the value creation.
+- [00:01:01,660 - 00:01:03,500] Make sure you understand that that's who you are
+- [00:01:03,500 - 00:01:04,760] and that's what you're worth.
+- [00:01:04,920 - 00:01:05,910] In what industry did you
+- [00:01:05,910 - 00:01:06,900] decide to pursue a career in?
+- [00:01:07,060 - 00:01:09,200] I'm the CEO of a technical legal services company.
+- [00:01:09,440 - 00:01:11,740] I have employees all over the world.
+- [00:01:11,900 - 00:01:13,020] We're headquartered here in Austin.
+- [00:01:13,260 - 00:01:16,780] Being a woman in business and in a legal industry
+- [00:01:16,780 - 00:01:19,240] that's highly technical is always challenging.
+- [00:01:19,420 - 00:01:20,640] What's your best piece of advice
+- [00:01:20,640 - 00:01:21,860] to someone trying to scale their business?
+- [00:01:21,940 - 00:01:23,120] They take their business from
+- [00:01:23,120 - 00:01:24,300] six to eight to ten figures
+- [00:01:24,300 - 00:01:25,220] or whatever that may be.
+- [00:01:25,620 - 00:01:27,220] Understand that you've got to have...
+- [00:01:27,340 - 00:01:28,340] You've got to have leverage.
+- [00:01:28,340 - 00:01:30,660] You've got to have the money to get there.
+- [00:01:30,660 - 00:01:32,220] Understand cash flow is king.
+- [00:01:32,220 - 00:01:34,320] You've got to have the ability
+- [00:01:34,320 - 00:01:36,420] to deliver on your service line
+- [00:01:36,420 - 00:01:37,920] and that's the only way you
+- [00:01:37,920 - 00:01:39,420] sort of hit that next level.
+- [00:01:39,420 - 00:01:41,290] You go beyond a plateau or
+- [00:01:41,290 - 00:01:43,160] go beyond your next hockey stick.
+- [00:01:43,160 - 00:01:44,750] What is your best piece of advice to
+- [00:01:44,750 - 00:01:46,340] someone wanting to start a business in 2022?
+- [00:01:46,340 - 00:01:47,340] No, you don't know everything.
+- [00:01:47,340 - 00:01:48,840] Seek out advice.
+- [00:01:48,840 - 00:01:51,140] Don't try to be everything for everybody.
+- [00:01:51,140 - 00:01:52,140] You're going to need help.
+- [00:01:52,140 - 00:01:53,440] Make sure you ask for it.
+- [00:01:53,440 - 00:01:55,140] What is your best piece of advice to
+- [00:01:55,140 - 00:01:56,840] someone wanting to start a business in 2022?
+- [00:01:57,340 - 00:01:58,340] Have a unique idea.
+- [00:01:58,340 - 00:01:59,340] Do something that hasn't been done.
+- [00:01:59,340 - 00:02:00,340] And back yourself.
+- [00:02:00,340 - 00:02:01,340] Go all in?
+- [00:02:01,340 - 00:02:02,590] Yeah, or get the people
+- [00:02:02,590 - 00:02:03,840] around you that believe in it.
+- [00:02:03,840 - 00:02:04,840] Or get a partner.
+- [00:02:04,840 - 00:02:06,270] What has been the best financial
+- [00:02:06,270 - 00:02:07,700] decision that you made throughout your career?
+- [00:02:07,700 - 00:02:08,979] It was working for myself.
+- [00:02:08,979 - 00:02:11,770] I founded a company 20 something years ago and
+- [00:02:11,770 - 00:02:14,560] sold it when I was 33, retired, and then
+- [00:02:14,560 - 00:02:15,560] went back to work.
+- [00:02:15,560 - 00:02:16,560] How much did you sell it for?
+- [00:02:16,560 - 00:02:17,560] 1 billion, 30 million.
+- [00:02:17,560 - 00:02:18,560] Oh my gosh.
+- [00:02:18,560 - 00:02:19,560] That's amazing.
+- [00:02:19,560 - 00:02:20,560] It's true.
+- [00:02:20,560 - 00:02:21,560] Wow.
+- [00:02:21,560 - 00:02:22,560] What was the company?
+- [00:02:22,560 - 00:02:23,560] It's called Webtrends Web Analytics.
+- [00:02:23,560 - 00:02:24,560] Analyzing traffic to websites.
+- [00:02:24,560 - 00:02:26,100] This is all pre-Google and so forth.
+- [00:02:26,100 - 00:02:27,100] How can someone become successful?
+- [00:02:27,340 - 00:02:29,720] financially free in today's world. Finding and
+- [00:02:29,720 - 00:02:32,100] doing something that creates revenue for you when
+- [00:02:32,100 - 00:02:33,940] you're not actually working, whether that's
+- [00:02:33,940 - 00:02:35,780] investing, whether that's owning property and
+- [00:02:35,780 - 00:02:38,100] renting it, whether that is, like I said, inventing
+- [00:02:38,100 - 00:02:40,420] something or something that you sell. So as long
+- [00:02:40,420 - 00:02:42,060] as you've got passive income, when you're
+- [00:02:42,060 - 00:02:43,700] not physically doing whatever you're doing, you're
+- [00:02:43,700 - 00:02:45,020] going to do very well in life. What do you
+- [00:02:45,020 - 00:02:46,340] think people should be looking to put their money into
+- [00:02:46,340 - 00:02:49,050] when they start making that money? Long-term real
+- [00:02:49,050 - 00:02:51,760] estate has always been a consistent good play,
+- [00:02:51,920 - 00:02:54,210] but technology stocks and the stock market is
+- [00:02:54,210 - 00:02:56,500] still good. What is the best financial decision
+- [00:02:56,500 - 00:02:58,950] that you've made in your career? I entered a
+- [00:02:58,950 - 00:03:01,400] profession that gave me a lot of job security.
+- [00:03:01,760 - 00:03:05,360] I never lived beyond my means. I was
+- [00:03:05,360 - 00:03:08,960] fortunate to make some sensible investments. What advice
+- [00:03:08,960 - 00:03:11,030] would you tell someone wanting to get into
+- [00:03:11,030 - 00:03:13,100] investing? First of all, study it. Don't just
+- [00:03:13,100 - 00:03:16,410] do what the herd is doing. These days, it
+- [00:03:16,410 - 00:03:19,720] could be Robinhood, Reddit, and meme stocks. That is
+- [00:03:19,720 - 00:03:22,110] just gambling, which is very different from
+- [00:03:22,110 - 00:03:24,500] investing. Just go for the slow and steady.
+- [00:03:24,720 - 00:03:25,940] Same with real estate.
+- [00:03:25,940 - 00:03:28,600] You know, Austin's a fantastic example. Been
+- [00:03:28,600 - 00:03:31,260] a very, very successful real estate market,
+- [00:03:31,520 - 00:03:33,870] but it has bubble tendencies. So
+- [00:03:33,870 - 00:03:36,220] if you actually wanted to invest locally,
+- [00:03:36,640 - 00:03:38,830] you'd wait a year or two before you did
+- [00:03:38,830 - 00:03:41,020] that. How could someone become financially free in 2022?
+- [00:03:41,260 - 00:03:43,480] It's getting much harder. It's going to be much
+- [00:03:43,480 - 00:03:45,700] harder for you guys than it was for me,
+- [00:03:45,840 - 00:03:48,260] because you're competing globally and you're competing
+- [00:03:48,260 - 00:03:50,680] with kids who are actually going to
+- [00:03:50,680 - 00:03:53,300] sleep four hours a night. With that kind
+- [00:03:53,300 - 00:03:55,920] of competition, you've really got to be at it.
+- [00:03:55,940 - 00:03:57,480] The whole time. And what industry did
+- [00:03:57,480 - 00:03:59,020] you decide to pursue a career in?
+- [00:03:59,340 - 00:04:01,349] Madison. I think one of the craziest things about
+- [00:04:01,349 - 00:04:03,359] Austin is that you really never know who you're
+- [00:04:03,359 - 00:04:05,319] going to run into. You know, someone could
+- [00:04:05,319 - 00:04:07,280] just be walking down the street, t-shirt flip-flops,
+- [00:04:07,420 - 00:04:08,950] and that guy could be worth three, four,
+- [00:04:08,950 - 00:04:10,480] five hundred million dollars. It's like the guy that
+- [00:04:10,480 - 00:04:12,279] we interviewed, just walking around, t-shirt, shorts,
+- [00:04:12,279 - 00:04:14,079] casually sold his company for a billion
+- [00:04:14,079 - 00:04:15,869] dollars. You would have no idea. I think it's like
+- [00:04:15,869 - 00:04:17,659] when you look at a city like Dallas, it's so bougie.
+- [00:04:17,740 - 00:04:19,349] I think Dallas is a great city. It's very
+- [00:04:19,349 - 00:04:20,959] kind of keeping up with the Joneses a little bit.
+- [00:04:21,060 - 00:04:22,580] It's flashy. You know, if someone's got money, you're
+- [00:04:22,580 - 00:04:24,100] going to be able to tell right away. Whereas
+- [00:04:24,100 - 00:04:25,010] in Austin, you just see people walking on the street.
+- [00:04:25,010 - 00:04:25,920] It's like, oh, I'm going to be able to tell
+- [00:04:25,940 - 00:04:27,720] it. It's authentic, man. People are themselves. They
+- [00:04:27,720 - 00:04:29,500] don't try and show it to other people.
+- [00:04:29,800 - 00:04:31,530] Rather, they know that they've made it.
+- [00:04:31,530 - 00:04:33,260] What has been the greatest financial decision that
+- [00:04:33,260 - 00:04:35,650] you've made throughout your lifetime? I bought a
+- [00:04:35,650 - 00:04:38,040] property over on Bee Caves 25 years ago that
+- [00:04:38,040 - 00:04:40,099] became very valuable. How can someone become
+- [00:04:40,099 - 00:04:42,159] financially free in today's world? You know what
+- [00:04:42,159 - 00:04:45,009] I mean? Rich. It takes time. I became rich,
+- [00:04:45,009 - 00:04:47,860] but it took time. That's an ingredient. What was the
+- [00:04:47,860 - 00:04:49,740] biggest thing that led to your success and
+- [00:04:49,740 - 00:04:51,620] that enabled you to acquire assets and build wealth?
+- [00:04:51,620 - 00:04:53,770] I took chances. You don't accomplish anything if
+- [00:04:53,770 - 00:04:55,920] you don't take risks. In what industry do
+- [00:04:55,920 - 00:04:58,840] you decide to pursue a career? Pharmaceutical,
+- [00:04:58,840 - 00:05:01,760] biotech, and commercial real estate. Wow. I was
+- [00:05:01,760 - 00:05:03,810] a lucky guy. What advice would you tell
+- [00:05:03,810 - 00:05:05,860] someone who's pursuing real estate? Learn from people
+- [00:05:05,860 - 00:05:08,010] that know what the hell they're doing. Make
+- [00:05:08,010 - 00:05:10,160] good connections, too, so that you become aware of
+- [00:05:10,160 - 00:05:11,920] opportunities. The craziest thing that I've noticed
+- [00:05:11,920 - 00:05:13,680] about the people that we do interview
+- [00:05:13,680 - 00:05:15,940] is that the people who are typically most willing
+- [00:05:15,940 - 00:05:18,200] to do interviews are people who are doing something
+- [00:05:18,200 - 00:05:20,050] or they've gone through something in their life, I
+- [00:05:20,050 - 00:05:21,900] feel like. Well, I've seen the majority of people
+- [00:05:21,900 - 00:05:23,900] that are entrepreneurs are always 100 percent
+- [00:05:23,900 - 00:05:25,900] down to do the interviews. It's because it's
+- [00:05:25,920 - 00:05:28,040] almost like I feel like they were at a
+- [00:05:28,040 - 00:05:30,160] point in time where they were trying to prove themselves,
+- [00:05:30,160 - 00:05:32,520] and they know what it's like to hustle and have to
+- [00:05:32,520 - 00:05:34,880] ask people like, hey, could I talk to you? Could I
+- [00:05:34,880 - 00:05:36,440] network with you? Maybe we could collaborate on
+- [00:05:36,440 - 00:05:38,000] something. They were there at that one point in
+- [00:05:38,000 - 00:05:39,440] time. They didn't always have the money. They
+- [00:05:39,440 - 00:05:40,880] didn't always have the big company. It's funny
+- [00:05:40,880 - 00:05:42,840] when you see someone who's an entrepreneur, even before
+- [00:05:42,840 - 00:05:44,800] you even find that out, you see their face
+- [00:05:44,800 - 00:05:46,240] light up when you ask them to do the
+- [00:05:46,240 - 00:05:47,680] interview. They're just like, yeah, let's do it. And then
+- [00:05:47,680 - 00:05:49,760] you come to find out they own a business. It
+- [00:05:49,760 - 00:05:51,840] makes total sense. Exactly. And you get some people who
+- [00:05:51,840 - 00:05:53,840] give you some really rude rejections sometimes. I'm not even
+- [00:05:53,840 - 00:05:55,840] going to lie. But I feel like even if an
+- [00:05:55,920 - 00:05:57,720] entrepreneur doesn't have the time for it, maybe they're
+- [00:05:57,720 - 00:05:59,520] on the way to the meeting, it's still good
+- [00:05:59,520 - 00:06:01,520] energy. They respect the hustle. Dude, 100 percent.
+- [00:06:01,520 - 00:06:03,520] It's like that Mark Cuban interview, man. It was
+- [00:06:03,520 - 00:06:05,680] amazing that he said yes to us interviewing
+- [00:06:05,680 - 00:06:07,840] him. He's got that young hustler mentality. He loves
+- [00:06:07,840 - 00:06:09,880] young entrepreneurship. Exactly. It has no benefit
+- [00:06:09,880 - 00:06:11,920] to him except helping out someone else. He's
+- [00:06:11,920 - 00:06:14,040] supposed to see other people win. He's been at
+- [00:06:14,040 - 00:06:16,160] a point where he had to prove himself before. Excuse
+- [00:06:16,160 - 00:06:18,160] me, sir. I have a question for you. My brother,
+- [00:06:18,160 - 00:06:20,160] my friend and I, we started a beauty team at UT
+- [00:06:20,160 - 00:06:22,880] Austin. We created 1.1 million followers going all over
+- [00:06:22,880 - 00:06:25,600] the country. I got it. He's got it too.
+- [00:06:25,920 - 00:06:28,120] This goes to show not everyone wants to
+- [00:06:28,120 - 00:06:30,320] do a video. That's why we always appreciate the
+- [00:06:30,320 - 00:06:32,720] people that are willing to do so. But we'll
+- [00:06:32,720 - 00:06:35,120] get the next one. What's the best financial decision
+- [00:06:35,120 - 00:06:37,280] that you've made in your lifetime so far? Buying
+- [00:06:37,280 - 00:06:39,440] a home, a multifamily home at a young age really
+- [00:06:39,440 - 00:06:42,200] paid off for me. But again, I'd say
+- [00:06:42,200 - 00:06:44,960] find a financial advisor and have a financial strategy
+- [00:06:44,960 - 00:06:46,920] that fits you. There's no one size fits
+- [00:06:46,920 - 00:06:48,880] all solution. What industry did you decide to pursue
+- [00:06:48,880 - 00:06:51,000] a career in? I'm the assistant city manager for
+- [00:06:51,000 - 00:06:53,120] the city of Austin. Oh, wow. That's amazing. Nice
+- [00:06:53,120 - 00:06:54,400] to meet you. What's the best piece
+- [00:06:54,400 - 00:06:55,680] of advice you tell your younger self?
+- [00:06:55,920 - 00:06:58,440] Take more risks and worry less about the immediate
+- [00:06:58,440 - 00:07:00,960] and what people are going to think about you
+- [00:07:00,960 - 00:07:03,560] and what you say and what you do and
+- [00:07:03,560 - 00:07:06,160] follow your heart. That wraps up today's video. Thank you
+- [00:07:06,160 - 00:07:07,800] everyone for tuning in and for everyone
+- [00:07:07,800 - 00:07:09,440] who's been showing love lately. We really appreciate
+- [00:07:09,440 - 00:07:11,040] y'all. We've got a lot of great content coming
+- [00:07:11,040 - 00:07:12,640] soon. If you enjoyed it, leave us a like,
+- [00:07:12,640 - 00:07:14,080] subscribe. Keep tapping into the school
+- [00:07:14,080 - 00:07:15,520] of hard knocks. Let's get it.
