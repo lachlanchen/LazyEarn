@@ -1,0 +1,2850 @@
+# Transcript
+
+Source: lazyearn/jim-rohn-originals-no-ai/016 - How to Take Charge of Your Life   Jim Rohn Personal Development [pUz06GHWWuM].webm
+
+- [00:00:00,000 - 00:00:03,780] Here's the big challenge of life. You can have more
+- [00:00:03,780 - 00:00:07,560] than you've got because you can become more than you are.
+- [00:00:09,840 - 00:00:10,840] That's the challenge.
+- [00:00:11,540 - 00:00:14,160] And of course, the other side of the coin reads, unless
+- [00:00:14,160 - 00:00:16,780] you change how you are, you'll always have what you got.
+- [00:00:19,180 - 00:00:21,560] I have found in my experience that
+- [00:00:21,560 - 00:00:23,940] income does not far exceed personal development.
+- [00:00:23,940 - 00:00:27,970] Now, sometimes income takes a lucky jump, but sure enough, unless you
+- [00:00:27,970 - 00:00:32,000] grow out where it is, it'll usually come back where you are.
+- [00:00:32,520 - 00:00:33,700] Life has strange ways.
+- [00:00:34,940 - 00:00:36,680] If somebody hands you a million
+- [00:00:36,680 - 00:00:38,420] dollars, best you become a millionaire quickly.
+- [00:00:39,080 - 00:00:40,680] So you get to keep the money.
+- [00:00:41,880 - 00:00:44,340] Otherwise, sure enough, it'll disappear.
+- [00:00:46,020 - 00:00:49,970] Somebody once said, if you took all the money in the world,
+- [00:00:49,970 - 00:00:53,920] divided it up equally among everybody, it would soon all be gone.
+- [00:00:53,940 - 00:00:55,400] And you'd be back in the same pockets.
+- [00:00:57,220 - 00:00:57,699] Incredible.
+- [00:00:58,760 - 00:01:01,660] Success is something you attract, not something you pursue.
+- [00:01:02,540 - 00:01:05,220] Success is looking for a good place to stay.
+- [00:01:05,940 - 00:01:08,660] So instead of going after it, you work on yourself.
+- [00:01:09,080 - 00:01:10,080] Personal development.
+- [00:01:11,580 - 00:01:13,279] See, the major question to ask on
+- [00:01:13,279 - 00:01:14,979] the job is not what are you getting?
+- [00:01:15,420 - 00:01:17,449] The major question to ask on
+- [00:01:17,449 - 00:01:19,479] the job is what are you becoming?
+- [00:01:21,420 - 00:01:22,620] See, the big question is
+- [00:01:22,620 - 00:01:23,820] not what am I getting paid?
+- [00:01:23,820 - 00:01:27,899] The big question is what am I becoming here?
+- [00:01:29,940 - 00:01:33,820] Because true happiness is not contained in what you get.
+- [00:01:34,280 - 00:01:37,080] Happiness is contained in what you become.
+- [00:01:38,039 - 00:01:40,020] So that's our major subject for tonight.
+- [00:01:40,179 - 00:01:41,119] Personal development.
+- [00:01:41,500 - 00:01:43,489] Of all the assignments Mr. Shoff gave me
+- [00:01:43,489 - 00:01:45,479] at age 25, this was probably the most difficult.
+- [00:01:45,839 - 00:01:47,160] In fact, I'm still working on this one.
+- [00:01:47,259 - 00:01:48,629] I think it's an unending challenge
+- [00:01:48,629 - 00:01:50,000] to see what you can become.
+- [00:01:50,600 - 00:01:52,979] The next subject is called basic laws.
+- [00:01:53,820 - 00:01:57,759] And it's good to study the basics.
+- [00:01:59,960 - 00:02:01,630] And I call these basics primarily
+- [00:02:01,630 - 00:02:03,300] because they come from the Bible.
+- [00:02:03,800 - 00:02:05,499] Now, I'm not a theologian or
+- [00:02:05,499 - 00:02:07,199] a minister, and that'll be apparent.
+- [00:02:08,000 - 00:02:09,530] But Mr. Shoff taught me that
+- [00:02:09,530 - 00:02:11,060] the Bible was a good textbook
+- [00:02:11,060 - 00:02:13,350] for ideas and stories and success
+- [00:02:13,350 - 00:02:15,640] equations, how to live the better life.
+- [00:02:15,720 - 00:02:16,680] I found out that was true.
+- [00:02:18,200 - 00:02:19,850] He also taught me that the Bible
+- [00:02:19,850 - 00:02:21,500] is as practical as it is spiritual.
+- [00:02:21,780 - 00:02:22,799] And I found out that's true.
+- [00:02:23,820 - 00:02:25,639] If you look at your bank account
+- [00:02:25,639 - 00:02:27,459] and your income and you're not happy,
+- [00:02:27,900 - 00:02:29,610] there are several places in the Bible
+- [00:02:29,610 - 00:02:31,320] to check to see what the heck's wrong
+- [00:02:31,320 - 00:02:32,920] so you can make the changes.
+- [00:02:33,440 - 00:02:34,640] And we're going to cover
+- [00:02:34,640 - 00:02:35,840] some of those tonight called basics.
+- [00:02:37,260 - 00:02:37,660] Okay.
+- [00:02:38,160 - 00:02:40,680] The next subject is my favorite, setting goals.
+- [00:02:44,440 - 00:02:46,420] Mr. Shoff taught me how to set goals.
+- [00:02:46,680 - 00:02:47,940] What a favor that was.
+- [00:02:49,160 - 00:02:51,400] One morning at breakfast shortly after I met him,
+- [00:02:52,740 - 00:02:53,079] he said,
+- [00:02:53,120 - 00:02:53,799] Jim, let me see your goals.
+- [00:02:53,820 - 00:02:55,050] Let me see your current list of goals
+- [00:02:55,050 - 00:02:56,280] and let's go over them and talk about them.
+- [00:02:56,320 - 00:02:57,740] He said, maybe that's the best way I
+- [00:02:57,740 - 00:02:59,160] can help you get a better direction started.
+- [00:03:00,460 - 00:03:04,200] And I said, I don't have a list.
+- [00:03:05,660 - 00:03:06,940] He said, well, is it out
+- [00:03:06,940 - 00:03:08,220] in the car or home somewhere?
+- [00:03:09,020 - 00:03:10,920] I said, no, sir.
+- [00:03:12,180 - 00:03:14,600] I don't have a list anywhere.
+- [00:03:16,400 - 00:03:17,590] He said, well, young man,
+- [00:03:17,590 - 00:03:18,780] that's where we got to start.
+- [00:03:19,520 - 00:03:20,960] He said, I can tell you right now, if
+- [00:03:20,960 - 00:03:22,400] you don't have a list of your goals with you,
+- [00:03:22,400 - 00:03:23,780] he said, I can guess your best.
+- [00:03:23,900 - 00:03:25,320] All right, let's kind of get into this.
+- [00:03:25,620 - 00:03:27,110] He said, are your goals set
+- [00:03:27,110 - 00:03:28,600] to be at your last best?
+- [00:03:28,600 - 00:03:29,820] And I said, well, I hope so.
+- [00:03:29,820 - 00:03:31,190] He said hey, τον packers are
+- [00:03:31,190 - 00:03:32,560] supposed to go on strike next week.
+- [00:03:32,560 - 00:03:35,300] What are you doing, Kaiser?
+- [00:03:35,300 - 00:03:36,810] And I said, the Flores Party
+- [00:03:36,810 - 00:03:38,320] is only one of my best.
+- [00:03:39,180 - 00:03:40,940] That was my first lesson on вход.
+- [00:03:42,400 - 00:03:44,600] One of the events that came up over the
+- [00:03:44,600 - 00:03:46,800] course of that time was to me running out
+- [00:03:47,260 - 00:03:47,820] of time.
+- [00:03:48,740 - 00:03:51,120] The last time I thought about setting goals was feeling...
+- [00:03:51,120 - 00:03:51,700] I did.
+- [00:03:51,880 - 00:03:52,480] I got 105.
+- [00:03:52,500 - 00:03:53,020] I got介ה
+- [00:03:53,020 - 00:03:56,070] high school. But if they offered it, I missed it.
+- [00:03:56,070 - 00:03:59,120] I went to college for a year, never heard it.
+- [00:04:00,720 - 00:04:05,320] I worked for Sears. Really. And to my knowledge,
+- [00:04:05,320 - 00:04:09,920] Sears never taught it. Right? How to set goals.
+- [00:04:10,260 - 00:04:12,860] So here I am, age 25, married, my family
+- [00:04:12,860 - 00:04:15,460] starting, I've been to college, I'm working, and I still
+- [00:04:15,460 - 00:04:18,149] don't know how to set goals. But fortunately, when I
+- [00:04:18,149 - 00:04:20,839] was 25, I met the man who taught me how.
+- [00:04:20,839 - 00:04:23,809] And it revolutionized my whole life. Economically,
+- [00:04:23,809 - 00:04:26,780] socially, personally, it's incredible. So I want
+- [00:04:26,780 - 00:04:28,719] to share with you tonight what Mr. Shove shared with
+- [00:04:28,719 - 00:04:30,659] me, how to set goals. It can be a life changer.
+- [00:04:31,780 - 00:04:35,330] Okay. The next subject is the negative part of the
+- [00:04:35,330 - 00:04:38,880] seminar. Life is part negative, so we got to talk
+- [00:04:38,880 - 00:04:44,670] about the negative. And this subject is
+- [00:04:44,670 - 00:04:50,460] called diseases of attitude. Diseases of attitude.
+- [00:04:50,840 - 00:04:56,310] There's a lot of things that can wreck your chances to do well. We live in
+- [00:04:56,310 - 00:05:01,780] a rather dangerous world, so you got to be not only wise, you got to be careful.
+- [00:05:01,780 - 00:05:04,629] Now, attitude diseases are just as bad as physical diseases, right?
+- [00:05:04,629 - 00:05:07,479] High blood pressure, heart trouble. I mean, a lot of things will
+- [00:05:07,479 - 00:05:11,629] ace your chances to do well. So you've got to be careful. And
+- [00:05:11,629 - 00:05:15,780] attitude diseases are deadly. I mean, they'll destroy all the good things you start.
+- [00:05:15,780 - 00:05:18,280] Okay. So we'll go through those attitude diseases, how to
+- [00:05:18,280 - 00:05:20,780] spot them, how to look for them, what they are, and...
+- [00:05:20,840 - 00:05:23,310] the cure. And I'm a pro on these because I've had
+- [00:05:23,310 - 00:05:25,780] them all, so I can give you excellent advice on these.
+- [00:05:25,780 - 00:05:28,780] Now, the last subject we're going to consider tonight
+- [00:05:28,780 - 00:05:31,780] is called the day that turns your life around.
+- [00:05:33,780 - 00:05:37,780] The day that turns your life around. And under this subject, we're going
+- [00:05:37,780 - 00:05:41,780] to talk about the emotions that can change your life. Human beings are
+- [00:05:41,780 - 00:05:45,780] emotional creatures, and emotions are powerful for life change. Now,
+- [00:05:45,780 - 00:05:49,780] of course, emotions are so powerful, they can go either way.
+- [00:05:50,840 - 00:05:55,840] on you. Emotions can either build or destroy. So you really have
+- [00:05:55,840 - 00:06:00,840] to employ emotions properly. We call civilization the intelligent management of human
+- [00:06:00,840 - 00:06:05,340] emotions. If you can intelligently apply your emotions in the right direction, no
+- [00:06:05,340 - 00:06:09,840] telling what can happen. Could turn your life around one day would be sufficient.
+- [00:06:09,840 - 00:06:14,810] So we'll talk about those. Okay. Now, that's a lot to cover in one evening,
+- [00:06:14,810 - 00:06:19,780] but we'll keep at it here and see if we can't get it all done.
+- [00:06:20,840 - 00:06:25,840] I'd like to have you now jot down the theme of the seminar. Every seminar should
+- [00:06:25,840 - 00:06:30,840] have a theme, I guess. We've got one. It's on some of our literature, if you
+- [00:06:30,840 - 00:06:39,840] happen to notice it. But if you didn't, for your notes, here it is. The
+- [00:06:39,840 - 00:06:48,840] theme of the seminar goes like this. The major key to your better future is you.
+- [00:06:50,840 - 00:06:54,840] That's the theme of our seminar tonight. The major key to your better future is you.
+- [00:06:54,840 - 00:06:58,840] And I'd like to have you underline two words just to give it some added punch.
+- [00:06:58,840 - 00:07:08,840] Underline the word major and the word you. So that it reads, the major key to your better future is you. Now, my first suggestion is transfer this to a
+- [00:07:08,840 - 00:07:18,840] card or something where you can put it up where you can see it every day. Preferably put it up where you can see it at the beginning of the day.
+- [00:07:18,840 - 00:07:19,840] Okay.
+- [00:07:19,840 - 00:07:20,840] Okay.
+- [00:07:20,840 - 00:07:30,340] Before you go off to put the day together, this is a good phrase just to glance at to keep in mind as you're putting the day together. It's called
+- [00:07:30,340 - 00:07:39,840] the silence seminar. If you'll just let this talk to you during the day, I found it to be tremendously helpful. The major key to your better future is you.
+- [00:07:39,840 - 00:07:44,840] For a big share of my life now, I didn't have this one quite figured out among a lot
+- [00:07:44,840 - 00:07:49,840] of things I didn't have quite figured out. Many things used to puzzle me back in those early days.
+- [00:07:49,840 - 00:07:50,340] For a big share of my life now, I didn't have this one quite figured out among a lot
+- [00:07:50,340 - 00:07:50,840] of things I didn't have quite figured out. Many things used to puzzle me back in those early days.
+- [00:07:50,840 - 00:07:53,039] to wonder why two people could work for
+- [00:07:53,039 - 00:07:55,239] the same company, one make twice as much money.
+- [00:07:57,080 - 00:07:59,680] Now see that used to puzzle me and maybe
+- [00:07:59,680 - 00:08:02,280] they were the same age, graduated from the same school,
+- [00:08:02,280 - 00:08:04,280] live in the same community, work for the
+- [00:08:04,280 - 00:08:06,280] same company, with the same products and the same
+- [00:08:06,280 - 00:08:09,479] services. They've got the same traffic, the same
+- [00:08:09,479 - 00:08:12,679] problems and one makes a thousand a month,
+- [00:08:12,679 - 00:08:15,559] the other one makes two thousand a month.
+- [00:08:15,559 - 00:08:18,440] Now that was my puzzling question. Why would this
+- [00:08:18,440 - 00:08:21,480] long list be the same and the money twice
+- [00:08:21,480 - 00:08:24,520] as much? I asked what's the difference between a thousand
+- [00:08:24,520 - 00:08:26,760] a month and two thousand a month? And I don't
+- [00:08:26,760 - 00:08:29,000] mean a thousand a month, right? I could figure that out.
+- [00:08:30,040 - 00:08:32,320] But what makes the difference? Why would one
+- [00:08:32,320 - 00:08:34,600] person do twice as well, three times as well?
+- [00:08:35,559 - 00:08:37,439] Speaking economically, now I know there's more than
+- [00:08:37,439 - 00:08:39,320] one way to do well, I understand that.
+- [00:08:40,039 - 00:08:43,959] But in this little narrow area called compensation,
+- [00:08:43,959 - 00:08:47,880] what's the difference? Well back then with my faulty
+- [00:08:47,880 - 00:08:48,380] thinking,
+- [00:08:48,440 - 00:08:50,840] I'm trying to reason it out. I thought
+- [00:08:50,840 - 00:08:53,240] well maybe time makes some of the difference, right?
+- [00:08:53,240 - 00:08:56,560] Some people do better because they have more time. I
+- [00:08:56,560 - 00:08:59,880] used to say Harold ought to be able to do well,
+- [00:08:59,880 - 00:09:03,560] he's got a lot of time. If I had all of
+- [00:09:03,560 - 00:09:07,240] Harold's time, I could do well. Now that's got to be dumb,
+- [00:09:07,240 - 00:09:11,200] right? Number one, you can't get somebody else's time.
+- [00:09:11,200 - 00:09:15,160] A guy says to me one time, he says,
+- [00:09:15,160 - 00:09:16,520] you know if I had some extra time,
+- [00:09:16,520 - 00:09:17,880] I could make some extra money. I said,
+- [00:09:17,880 - 00:09:20,680] then forget it. There isn't any extra
+- [00:09:20,680 - 00:09:23,480] time. Hey, when the clock strikes 12 midnight,
+- [00:09:23,480 - 00:09:25,320] that about wraps it up, right? I mean, you
+- [00:09:25,320 - 00:09:27,160] can look around the gongs here for a little more,
+- [00:09:27,160 - 00:09:29,720] but it's over. You say to the guy, what are
+- [00:09:29,720 - 00:09:32,280] you doing? He said, I'm looking for extra time. See,
+- [00:09:32,280 - 00:09:36,640] they'll come and take you away, right? There isn't
+- [00:09:36,640 - 00:09:41,000] any more time. Now if you can't get more time,
+- [00:09:41,000 - 00:09:43,600] which you can't, what could you get more of
+- [00:09:43,600 - 00:09:46,200] that would make a difference in economic results? And
+- [00:09:46,200 - 00:09:47,480] here's the key word.
+- [00:09:47,880 - 00:09:50,080] Make it a part of your notes. We're
+- [00:09:50,080 - 00:09:52,280] going to consider it tonight. The word is value.
+- [00:09:55,000 - 00:09:57,520] And I have a little phrase for
+- [00:09:57,520 - 00:10:00,040] your notes. Value makes the difference in results.
+- [00:10:01,880 - 00:10:03,400] Value makes the difference.
+- [00:10:06,439 - 00:10:07,919] You can't get more time,
+- [00:10:07,919 - 00:10:09,400] but you can create more value.
+- [00:10:12,680 - 00:10:14,120] Now here's the first lesson of economics.
+- [00:10:14,120 - 00:10:15,560] Everybody should learn it from the time
+- [00:10:15,560 - 00:10:17,640] they're old enough to understand what a dollar means.
+- [00:10:17,880 - 00:10:19,320] How to earn one, how to get one,
+- [00:10:19,320 - 00:10:20,760] how to keep one, what to do with it.
+- [00:10:21,800 - 00:10:26,600] First lesson of economics. We primarily get paid for value.
+- [00:10:27,960 - 00:10:30,199] That's lesson one. Bringing value to
+- [00:10:30,199 - 00:10:32,439] the marketplace. That's how you get paid.
+- [00:10:33,640 - 00:10:36,320] You don't get paid for the time. I know
+- [00:10:36,320 - 00:10:39,000] it takes time to bring value to the marketplace,
+- [00:10:39,000 - 00:10:42,600] but you get paid for the value, not the time.
+- [00:10:42,600 - 00:10:46,200] Now, since that's true, here's one of the key questions
+- [00:10:46,200 - 00:10:46,840] of the evening.
+- [00:10:47,880 - 00:10:50,600] Is it possible to become twice as valuable
+- [00:10:52,920 - 00:10:55,720] at the marketplace and make twice
+- [00:10:55,720 - 00:10:58,520] as much money in the same time?
+- [00:11:00,520 - 00:11:02,920] Could you become three times as valuable?
+- [00:11:04,600 - 00:11:06,400] Make three times as much money
+- [00:11:06,400 - 00:11:08,200] in the same time. Is that possible?
+- [00:11:09,640 - 00:11:11,960] The answer is yes, if.
+- [00:11:13,720 - 00:11:14,920] And it's always if, right?
+- [00:11:15,800 - 00:11:17,720] Life is known as the big if.
+- [00:11:18,840 - 00:11:23,400] Harry Truman once said, life is iffy. How true?
+- [00:11:23,400 - 00:11:24,560] And here's the big if
+- [00:11:24,560 - 00:11:25,720] we're going to consider it tonight.
+- [00:11:25,720 - 00:11:28,800] It's possible to do much better at the
+- [00:11:28,800 - 00:11:31,880] marketplace if you go to work primarily on yourself.
+- [00:11:34,040 - 00:11:37,680] And that's the theme of our seminar
+- [00:11:37,680 - 00:11:41,320] tonight. Learning to work primarily on yourself.
+- [00:11:45,320 - 00:11:47,560] People have asked me for the last 20 minutes,
+- [00:11:47,880 - 00:11:51,480] 24 years. How do you develop an above average income?
+- [00:11:51,480 - 00:11:55,080] And the answer is become an above average person.
+- [00:11:58,120 - 00:12:00,040] Develop an above average handshake.
+- [00:12:00,040 - 00:12:01,960] Some people want to be successful.
+- [00:12:01,960 - 00:12:03,880] They don't even work on their handshake as
+- [00:12:03,880 - 00:12:05,800] easy as that would be to start on.
+- [00:12:05,800 - 00:12:07,800] They let it slide. They don't understand.
+- [00:12:09,240 - 00:12:11,600] Develop an above average smile.
+- [00:12:11,600 - 00:12:13,960] Develop an above average excitement.
+- [00:12:13,960 - 00:12:16,040] Develop an above average interest in other people.
+- [00:12:16,040 - 00:12:19,040] Develop an above average intensity
+- [00:12:19,040 - 00:12:22,040] to win. See, that'll change everything.
+- [00:12:23,560 - 00:12:26,360] Probably one of the most frustrating experiences in life
+- [00:12:26,360 - 00:12:28,640] is looking for an above average job with
+- [00:12:28,640 - 00:12:30,920] above average pay without becoming an above average person.
+- [00:12:32,760 - 00:12:34,680] It's called frustration.
+- [00:12:40,439 - 00:12:43,199] And Mr. Shouf gave me probably the greatest clue he gave me
+- [00:12:43,199 - 00:12:45,959] when I first met him. He said, Jim, if you want to be
+- [00:12:45,960 - 00:12:50,550] wealthy and happy the rest of your
+- [00:12:50,550 - 00:12:55,140] life. Just learn this lesson well." He said,
+- [00:12:55,140 - 00:12:59,050] learn to work harder on yourself
+- [00:12:59,050 - 00:13:02,960] than you do on your job.
+- [00:13:07,960 - 00:13:11,360] Then Mr. Shoaff gave me probably one
+- [00:13:11,360 - 00:13:14,760] of the most important clues among so many
+- [00:13:14,760 - 00:13:17,490] things he taught me, but this was in
+- [00:13:17,490 - 00:13:20,220] those early days. Mr. Shoaff was very kind,
+- [00:13:20,220 - 00:13:23,220] but he was also very abrupt and
+- [00:13:23,220 - 00:13:26,220] he had these interesting questions to ask. I'm
+- [00:13:26,220 - 00:13:27,810] giving him a little rundown one day
+- [00:13:27,810 - 00:13:29,400] on how things hadn't worked out for me.
+- [00:13:29,400 - 00:13:32,050] He said, Mr. Owen, I've got the answer
+- [00:13:32,050 - 00:13:34,700] for you if you will listen carefully. And
+- [00:13:34,700 - 00:13:37,330] listen carefully I did that day and
+- [00:13:37,330 - 00:13:39,960] for the next five years. If somebody's
+- [00:13:39,960 - 00:13:44,360] wealthy and happy you gotta listen.
+- [00:13:44,760 - 00:13:47,340] He said, Jim I've only known you a
+- [00:13:47,340 - 00:13:49,920] short time, but he said it's already my honest
+- [00:13:49,920 - 00:13:53,590] opinion that for things to change for
+- [00:13:53,590 - 00:13:57,260] you, you got to change. That wasn't quite
+- [00:13:57,260 - 00:13:59,650] the answer I was looking for, but that's
+- [00:13:59,650 - 00:14:02,040] the answer he gave me and I pass it
+- [00:14:02,040 - 00:14:05,850] along to you on this warm summer
+- [00:14:05,850 - 00:14:09,660] evening in Anaheim, California 1981. For things to
+- [00:14:09,660 - 00:14:13,260] change for you, you've got to change.
+- [00:14:14,760 - 00:14:19,620] Otherwise it isn't gonna change.
+- [00:14:19,620 - 00:14:23,790] Before I met Mr. Shoaff, I used to
+- [00:14:23,790 - 00:14:27,960] say, I sure hope things will change. Right? That
+- [00:14:27,960 - 00:14:30,060] seemed to be my only hope. If it
+- [00:14:30,060 - 00:14:32,160] isn't gonna change I'm in serious trouble. And
+- [00:14:32,160 - 00:14:34,900] then I discovered it isn't gonna
+- [00:14:34,900 - 00:14:37,640] change so I'm in serious trouble.
+- [00:14:42,980 - 00:14:43,760] See I can tell you what the answer
+- [00:14:43,760 - 00:14:44,540] is. I'm in serious trouble. I'm in serious trouble.
+- [00:14:44,760 - 00:14:46,960] What I did for a long time was to get you to think about
+- [00:14:46,960 - 00:14:49,160] what the eighties are gonna be like. You have dropped into the right place.
+- [00:14:49,160 - 00:14:51,920] I did a seminar one time
+- [00:14:51,920 - 00:14:54,680] for Standard Oil, Executives and Management in
+- [00:14:54,680 - 00:14:57,600] Honolulu. And we're having a conference one
+- [00:14:57,600 - 00:15:00,520] day on this big conference table. And
+- [00:15:00,520 - 00:15:02,229] one of them said to me, Mr.
+- [00:15:02,229 - 00:15:03,939] Rohn, you know some fairly important people halfway
+- [00:15:03,939 - 00:15:05,659] around the world. What do you think
+- [00:15:05,659 - 00:15:07,380] the eighties are gonna be like? I said,
+- [00:15:07,380 - 00:15:10,290] gentlemen, I do know the right people. I
+- [00:15:10,290 - 00:15:13,200] can tell you. So they all listened very carefully.
+- [00:15:14,760 - 00:15:20,099] And I said, gentlemen, based on my wide experience, I can really honestly say to
+- [00:15:20,099 - 00:15:25,439] you, in my opinion, in the 80s, it's going to be about like it's always been.
+- [00:15:27,840 - 00:15:29,389] Aren't you glad you came? That's inside.
+- [00:15:29,389 - 00:15:30,939] I don't pass that around just everywhere.
+- [00:15:33,220 - 00:15:34,970] Now, of course, I said that to make a
+- [00:15:34,970 - 00:15:36,720] point, but I also said it because it's accurate.
+- [00:15:37,160 - 00:15:39,200] It's going to be about like it's always been.
+- [00:15:39,939 - 00:15:41,220] It isn't going to change.
+- [00:15:42,880 - 00:15:44,380] The tide comes in and then what?
+- [00:15:45,600 - 00:15:48,900] It goes out for six and a half thousand years
+- [00:15:48,900 - 00:15:52,200] that we know of recorded history and probably long before that.
+- [00:15:52,300 - 00:15:53,680] So it is not going to change.
+- [00:15:55,420 - 00:15:56,840] It gets light and then what?
+- [00:15:58,240 - 00:16:01,080] It turns dark six and a half thousand years.
+- [00:16:01,160 - 00:16:02,700] See, it's not likely to change.
+- [00:16:04,439 - 00:16:06,280] And we're not to be startled by that.
+- [00:16:08,260 - 00:16:09,370] If the sun goes down, the
+- [00:16:09,370 - 00:16:10,480] guy says, what's happened? What's happened?
+- [00:16:10,480 - 00:16:12,380] It means he hasn't been here long, I guess.
+- [00:16:12,460 - 00:16:12,660] Right.
+- [00:16:13,120 - 00:16:14,480] It always goes down about.
+- [00:16:14,760 - 00:16:16,599] This time, the guy says,
+- [00:16:16,599 - 00:16:18,439] well, I don't like that arrangement.
+- [00:16:18,520 - 00:16:20,340] Well, you got to talk to somebody besides me, right?
+- [00:16:21,180 - 00:16:25,040] It gets light, then it turns dark in rotation.
+- [00:16:25,120 - 00:16:26,580] The next season after fall is what?
+- [00:16:28,280 - 00:16:29,080] Winter.
+- [00:16:29,580 - 00:16:32,930] Pray tell how often does winter follow fall every year regularly
+- [00:16:32,930 - 00:16:36,280] for the last six and a half thousand that we know of.
+- [00:16:36,360 - 00:16:37,819] See, it is not going to change.
+- [00:16:39,120 - 00:16:41,860] Now, some winters are long and some are short and some are
+- [00:16:41,860 - 00:16:44,600] hard and some are easy, but they always come right after that.
+- [00:16:44,600 - 00:16:47,360] After falls, it isn't going to change.
+- [00:16:50,420 - 00:16:52,060] Sometimes you can figure it out.
+- [00:16:52,140 - 00:16:53,720] Sometimes there's no way to figure it out.
+- [00:16:54,720 - 00:16:56,000] Sometimes it goes well.
+- [00:16:56,060 - 00:16:57,840] Sometimes it gets in a knot.
+- [00:16:58,720 - 00:17:00,020] Sometimes it sails along.
+- [00:17:00,100 - 00:17:01,560] Sometimes it gets in reverse.
+- [00:17:01,660 - 00:17:02,920] See, that's not going to change.
+- [00:17:03,600 - 00:17:05,740] The last six thousand years reads
+- [00:17:05,740 - 00:17:07,880] like this opportunity mixed with difficulty.
+- [00:17:08,300 - 00:17:09,260] That's how it reads.
+- [00:17:09,500 - 00:17:10,700] It isn't going to change.
+- [00:17:12,560 - 00:17:14,480] The man says, well, if it isn't going to change.
+- [00:17:14,599 - 00:17:16,280] How will my life ever change?
+- [00:17:16,339 - 00:17:19,219] Answer when you change.
+- [00:17:22,899 - 00:17:25,429] And whether I'm talking to high school kids
+- [00:17:25,429 - 00:17:27,959] or business executives, my message is always the same.
+- [00:17:28,060 - 00:17:28,939] And it goes like this.
+- [00:17:29,280 - 00:17:31,369] The only way it gets better
+- [00:17:31,369 - 00:17:33,459] for you is when you get better.
+- [00:17:42,419 - 00:17:43,499] Let me give you the four
+- [00:17:43,499 - 00:17:44,580] major lessons in life to learn.
+- [00:17:44,679 - 00:17:45,899] Here's four majors.
+- [00:17:48,159 - 00:17:49,500] It's good to study the majors.
+- [00:17:52,780 - 00:17:54,940] In our weekend seminar, we teach some people
+- [00:17:54,940 - 00:17:57,100] don't do well because they major in minor things.
+- [00:17:59,260 - 00:18:00,750] You've got to be on the lookout at
+- [00:18:00,750 - 00:18:02,240] the end of every week, end of every month.
+- [00:18:02,240 - 00:18:03,770] You've got to check, make sure you're
+- [00:18:03,770 - 00:18:05,300] not spending major time on minor things.
+- [00:18:05,520 - 00:18:06,840] We go through that whole series.
+- [00:18:07,399 - 00:18:08,439] Majors and minors.
+- [00:18:11,500 - 00:18:12,839] Now, let me give you two phrases
+- [00:18:12,839 - 00:18:14,179] before we get to the four majors.
+- [00:18:14,300 - 00:18:14,540] This will.
+- [00:18:14,600 - 00:18:15,879] Set it up and you'll see where I'm going.
+- [00:18:16,040 - 00:18:17,639] Two key phrases for your notes.
+- [00:18:18,620 - 00:18:19,500] Here's the first one.
+- [00:18:21,179 - 00:18:25,040] Life and business is like the changing seasons.
+- [00:18:26,939 - 00:18:28,000] That's the first phrase.
+- [00:18:28,740 - 00:18:32,719] Life and business is like the changing seasons.
+- [00:18:35,439 - 00:18:37,360] One of the best ways to describe life.
+- [00:18:37,360 - 00:18:38,540] It's like the seasons.
+- [00:18:40,840 - 00:18:43,459] Frank Sinatra sings, life is like the seasons.
+- [00:18:44,600 - 00:18:46,699] Now, here's the second phrase.
+- [00:18:47,439 - 00:18:48,260] Very important.
+- [00:18:48,780 - 00:18:54,139] You cannot change the seasons, but you can change yourself.
+- [00:18:55,699 - 00:19:02,719] You can't change the seasons, but you can change yourself.
+- [00:19:04,500 - 00:19:06,480] And see, that's how life gets better for you.
+- [00:19:06,639 - 00:19:11,540] Not by chance, but by change.
+- [00:19:11,540 - 00:19:11,580] Change.
+- [00:19:12,980 - 00:19:13,540] Change.
+- [00:19:13,540 - 00:19:13,699] Change.
+- [00:19:13,699 - 00:19:14,080] Change.
+- [00:19:14,080 - 00:19:14,179] Change.
+- [00:19:14,179 - 00:19:14,199] Change.
+- [00:19:14,199 - 00:19:14,580] Change.
+- [00:19:14,639 - 00:19:15,000] Change.
+- [00:19:15,000 - 00:19:15,060] Change.
+- [00:19:15,060 - 00:19:15,179] Change.
+- [00:19:15,179 - 00:19:15,280] Change.
+- [00:19:15,280 - 00:19:15,840] Change.
+- [00:19:15,840 - 00:19:15,919] Change.
+- [00:19:15,919 - 00:19:15,939] Change.
+- [00:19:15,939 - 00:19:16,000] Change.
+- [00:19:16,000 - 00:19:16,139] Change.
+- [00:19:16,139 - 00:19:16,179] Change.
+- [00:19:16,179 - 00:19:16,460] Change.
+- [00:19:16,460 - 00:19:16,480] Change.
+- [00:19:16,480 - 00:19:16,580] Change.
+- [00:19:16,580 - 00:19:16,639] Change.
+- [00:19:16,639 - 00:19:16,679] Change.
+- [00:19:16,679 - 00:19:16,720] Change.
+- [00:19:16,960 - 00:19:17,699] But the first phrase is the worst one.
+- [00:19:17,699 - 00:19:19,209] And that's the one that
+- [00:19:19,209 - 00:19:20,720] we'll get to little by little.
+- [00:19:20,720 - 00:19:22,520] Now, here's the four major lessons in life to learn.
+- [00:19:22,520 - 00:19:24,639] And I've got my first book finished.
+- [00:19:24,639 - 00:19:25,800] It came out a couple of weeks ago.
+- [00:19:25,800 - 00:19:26,760] This is in it.
+- [00:19:26,760 - 00:19:28,820] The four major lessons in life to learn.
+- [00:19:28,820 - 00:19:29,320] Here they are.
+- [00:19:29,320 - 00:19:33,399] Number one, learn how to handle the winters.
+- [00:19:33,399 - 00:19:35,060] That's lesson one.
+- [00:19:35,919 - 00:19:41,159] They come right after falls with regularity.
+- [00:19:42,360 - 00:19:43,440] Some are long and some are short, and some
+- [00:19:43,440 - 00:19:44,520] are hard, and some are easy, but they keep coming.
+- [00:19:44,520 - 00:19:45,860] They come right after days.
+- [00:19:46,060 - 00:19:47,560] You must learn to handle difficulty.
+- [00:19:47,840 - 00:19:49,280] It comes right after opportunity.
+- [00:19:50,200 - 00:19:52,020] You must learn to handle recessions.
+- [00:19:52,020 - 00:19:55,240] They always follow progressions for the last 6,000.
+- [00:19:56,820 - 00:19:58,240] See, it isn't going to change.
+- [00:19:58,680 - 00:20:00,680] The lesson you must learn is how to handle it.
+- [00:20:01,840 - 00:20:03,639] And there's all kinds of winters, right?
+- [00:20:04,080 - 00:20:06,580] The winter when you can't figure it out.
+- [00:20:06,800 - 00:20:09,200] The winter when it all goes smash.
+- [00:20:09,460 - 00:20:11,500] The winter when it turns belly up.
+- [00:20:12,379 - 00:20:14,120] The winter when it won't work.
+- [00:20:14,120 - 00:20:15,350] When you've run out of money
+- [00:20:15,350 - 00:20:16,580] and you've got a broken heart.
+- [00:20:16,760 - 00:20:18,080] See, those are winter times.
+- [00:20:19,699 - 00:20:20,879] There's all kinds.
+- [00:20:21,080 - 00:20:22,580] Economic winters.
+- [00:20:23,260 - 00:20:24,540] Social winters.
+- [00:20:24,919 - 00:20:26,399] Personal winters.
+- [00:20:26,800 - 00:20:29,560] When your heart is smashed in a thousand pieces.
+- [00:20:30,199 - 00:20:31,879] And the nights are unusually long.
+- [00:20:32,500 - 00:20:34,479] Your prayers seem to go no higher than your head.
+- [00:20:34,919 - 00:20:35,639] It's winter time.
+- [00:20:38,199 - 00:20:39,820] Barbara Streisand sings,
+- [00:20:40,179 - 00:20:43,340] It used to be so natural to talk about forever,
+- [00:20:43,340 - 00:20:45,340] but used to be's don't count anymore.
+- [00:20:46,720 - 00:20:48,220] They just lay on the floor
+- [00:20:48,840 - 00:20:50,100] till we sweep them away.
+- [00:20:51,179 - 00:20:53,840] You don't sing me love songs.
+- [00:20:54,600 - 00:20:56,300] And you don't say you need me.
+- [00:20:57,220 - 00:21:01,220] And you don't bring me flowers anymore.
+- [00:21:03,139 - 00:21:04,580] A song of winter.
+- [00:21:05,580 - 00:21:07,100] But see, the disappointments come.
+- [00:21:07,540 - 00:21:08,639] Those are normal.
+- [00:21:08,820 - 00:21:09,959] That's part of life.
+- [00:21:10,820 - 00:21:12,659] But the question is, how do you handle it?
+- [00:21:13,340 - 00:21:15,090] How do you handle the coming winters
+- [00:21:15,090 - 00:21:16,840] and the disappointments and the down times?
+- [00:21:16,840 - 00:21:18,780] Well, you can't get rid of
+- [00:21:18,780 - 00:21:20,720] January by tearing it off the calendar.
+- [00:21:24,100 - 00:21:25,340] But here's what you can do.
+- [00:21:25,340 - 00:21:27,340] You can get stronger.
+- [00:21:27,340 - 00:21:29,340] You can get wiser.
+- [00:21:29,340 - 00:21:31,340] And you can get better.
+- [00:21:32,840 - 00:21:35,340] The winters won't change, but you can.
+- [00:21:35,840 - 00:21:37,840] And that's how life changes for you.
+- [00:21:38,840 - 00:21:40,840] See, before I understood when it was
+- [00:21:40,840 - 00:21:42,840] winter, I used to wish it was summer.
+- [00:21:43,340 - 00:21:45,340] I didn't understand.
+- [00:21:46,340 - 00:21:47,340] When it was hard, I
+- [00:21:47,340 - 00:21:48,340] used to wish it was easy.
+- [00:21:48,340 - 00:21:49,340] I didn't know.
+- [00:21:49,340 - 00:21:51,340] And then Mr. Shouf gave me a part
+- [00:21:51,340 - 00:21:53,340] of his very unique philosophy when he said,
+- [00:21:53,840 - 00:21:55,840] Don't wish it was easier.
+- [00:21:55,840 - 00:21:57,840] Wish you were better.
+- [00:22:00,340 - 00:22:02,340] See, that triggered my whole life change.
+- [00:22:03,840 - 00:22:06,340] Don't wish for less problems.
+- [00:22:06,340 - 00:22:08,840] Wish for more skills.
+- [00:22:09,840 - 00:22:11,840] Don't wish for less challenge.
+- [00:22:11,840 - 00:22:12,840] Wish for more success.
+- [00:22:13,340 - 00:22:15,340] Wish for more wisdom.
+- [00:22:16,340 - 00:22:17,340] That's the key.
+- [00:22:18,840 - 00:22:19,840] So that's lesson one.
+- [00:22:19,840 - 00:22:21,340] Learn how to handle the winters.
+- [00:22:21,840 - 00:22:23,340] Here's lesson two.
+- [00:22:23,840 - 00:22:26,840] Learn how to take advantage of the spring.
+- [00:22:27,840 - 00:22:28,840] That's the second one.
+- [00:22:29,840 - 00:22:31,840] Spring is called opportunity.
+- [00:22:33,840 - 00:22:34,840] And spring follows winter.
+- [00:22:34,840 - 00:22:35,840] What a great place for it.
+- [00:22:35,840 - 00:22:36,840] If you were going to put it
+- [00:22:36,840 - 00:22:37,840] somewhere, that'd be the place to put it.
+- [00:22:37,840 - 00:22:39,340] Right after winter.
+- [00:22:40,840 - 00:22:42,840] And pray tell, how often does spring follow winter?
+- [00:22:43,340 - 00:22:45,340] Every year with regularity, 6,000.
+- [00:22:45,340 - 00:22:47,340] You can almost count on it.
+- [00:22:47,340 - 00:22:49,340] See, opportunity always comes.
+- [00:22:49,340 - 00:22:51,340] Days follow nights.
+- [00:22:51,340 - 00:22:53,340] Isn't that terrific?
+- [00:22:53,340 - 00:22:55,340] Opportunity follows difficulty.
+- [00:22:55,340 - 00:22:57,340] But here's what you must learn to do.
+- [00:22:57,340 - 00:22:59,340] Underline these two words in that key phrase.
+- [00:22:59,340 - 00:23:01,340] Take advantage.
+- [00:23:01,340 - 00:23:03,340] Underline those two.
+- [00:23:03,340 - 00:23:05,340] You must learn to take advantage of the spring.
+- [00:23:05,340 - 00:23:07,340] See, just because spring will be a good thing,
+- [00:23:07,340 - 00:23:09,340] doesn't mean you have to take advantage of it.
+- [00:23:09,340 - 00:23:11,340] You have to take advantage of it.
+- [00:23:11,340 - 00:23:12,340] You have to take advantage of it.
+- [00:23:12,340 - 00:23:14,340] See, just because spring rolls around is no
+- [00:23:14,340 - 00:23:16,340] sign you're going to look good come fall.
+- [00:23:16,340 - 00:23:19,340] You got to do something with it.
+- [00:23:21,340 - 00:23:22,840] In fact, you have to get good
+- [00:23:22,840 - 00:23:24,340] at one of two things in life.
+- [00:23:24,340 - 00:23:26,340] Planting in the spring or begging in the fall.
+- [00:23:28,340 - 00:23:29,340] Or get somebody to do it for you.
+- [00:23:29,340 - 00:23:31,340] See, those are about the only alternatives.
+- [00:23:33,340 - 00:23:34,340] Now, here's what else you must do.
+- [00:23:34,340 - 00:23:36,340] Take advantage of the springs
+- [00:23:36,340 - 00:23:38,340] quickly because there's only a few.
+- [00:23:38,340 - 00:23:39,840] Just a handful of springs have
+- [00:23:39,840 - 00:23:41,340] been handed to each of us.
+- [00:23:41,340 - 00:23:42,340] They don't come forever.
+- [00:23:42,340 - 00:23:44,340] Life is fairly brief.
+- [00:23:44,340 - 00:23:45,340] So you got to read every
+- [00:23:45,340 - 00:23:46,340] book you can get your hands on
+- [00:23:46,340 - 00:23:48,340] and what to do with your springs while they're here.
+- [00:23:48,340 - 00:23:49,340] And take advantage.
+- [00:23:49,340 - 00:23:50,340] They soon run out.
+- [00:23:53,340 - 00:23:54,340] The Beatles wrote,
+- [00:23:54,340 - 00:23:57,340] Life is so short.
+- [00:23:59,340 - 00:24:02,340] And for John Lennon, it was extra short.
+- [00:24:02,340 - 00:24:04,340] But life is brief.
+- [00:24:04,340 - 00:24:05,340] Elton John sings,
+- [00:24:05,340 - 00:24:09,340] She lived her life like a candle in the wind.
+- [00:24:09,340 - 00:24:10,340] It's brief.
+- [00:24:10,340 - 00:24:11,340] It's brief.
+- [00:24:11,340 - 00:24:12,840] So whatever you're going to do with
+- [00:24:12,840 - 00:24:14,340] your life, you got to get at it.
+- [00:24:14,340 - 00:24:17,340] Don't just let the springs pass, pass, pass.
+- [00:24:20,340 - 00:24:22,340] Here's the third major lesson in life to learn.
+- [00:24:23,340 - 00:24:26,340] Learn how to protect your crops all summer.
+- [00:24:29,340 - 00:24:31,340] You got to take care of what you start.
+- [00:24:33,340 - 00:24:34,840] Sure enough, as soon as you've
+- [00:24:34,840 - 00:24:36,340] planted your garden in the spring,
+- [00:24:37,340 - 00:24:38,340] the busy bugs and the noxious
+- [00:24:38,340 - 00:24:39,340] weeds are out to take it.
+- [00:24:40,340 - 00:24:44,340] And here's the next bit of truth.
+- [00:24:44,340 - 00:24:46,340] They will take it
+- [00:24:47,340 - 00:24:51,340] unless you prevent it.
+- [00:24:51,340 - 00:24:53,340] And that's the third major skill to learn.
+- [00:24:53,340 - 00:24:55,340] You've got to learn to prevent the
+- [00:24:55,340 - 00:24:57,340] intruder from taking all the good you start.
+- [00:24:59,340 - 00:25:00,340] It's one of the challenges.
+- [00:25:03,340 - 00:25:05,340] Here's two key phrases under number three.
+- [00:25:05,340 - 00:25:08,340] First one, all good will be attacked.
+- [00:25:10,340 - 00:25:11,840] On this planet, maybe not the next
+- [00:25:11,840 - 00:25:13,340] one we get to, but on this one,
+- [00:25:13,340 - 00:25:15,340] all good will be attacked.
+- [00:25:16,340 - 00:25:19,340] Every garden will be invaded.
+- [00:25:19,340 - 00:25:21,340] Not to think so is naive.
+- [00:25:24,340 - 00:25:26,340] And here's the second phrase.
+- [00:25:26,340 - 00:25:28,340] All values must be defended.
+- [00:25:31,340 - 00:25:34,840] Political values, social values, community values, family
+- [00:25:34,840 - 00:25:38,340] values, marriage values, friendship values, business values.
+- [00:25:38,340 - 00:25:43,340] Every garden must be tended all summer.
+- [00:25:43,340 - 00:25:45,340] Third major lesson.
+- [00:25:48,340 - 00:25:50,340] Now here's number four.
+- [00:25:50,340 - 00:25:52,340] Fourth major lesson in life to learn.
+- [00:25:54,340 - 00:25:57,340] Learn how to reap in the fall without complaint.
+- [00:25:59,340 - 00:26:04,340] Learn to reap come harvest time without complaint.
+- [00:26:04,340 - 00:26:10,340] Take full responsibility for what happens to you.
+- [00:26:10,340 - 00:26:13,340] It's one of the highest forms of human maturity.
+- [00:26:13,340 - 00:26:16,340] Accepting full responsibility.
+- [00:26:16,340 - 00:26:18,840] It's the day you know
+- [00:26:18,840 - 00:26:21,340] you've passed from childhood to adulthood.
+- [00:26:21,340 - 00:26:24,340] The day you accept full responsibility.
+- [00:26:26,340 - 00:26:28,340] And another note.
+- [00:26:28,340 - 00:26:30,340] Learn to reap in the fall without apology.
+- [00:26:30,340 - 00:26:32,340] Without apology.
+- [00:26:32,340 - 00:26:33,340] If you do well.
+- [00:26:33,340 - 00:26:34,340] If you do well.
+- [00:26:34,340 - 00:26:37,340] And without complaint if you don't.
+- [00:26:38,340 - 00:26:40,340] That's maturity.
+- [00:26:43,340 - 00:26:44,840] I used to have that long list
+- [00:26:44,840 - 00:26:46,340] of reasons why I wasn't doing well.
+- [00:26:48,340 - 00:26:49,340] To explain.
+- [00:26:50,340 - 00:26:51,340] You got to explain, right?
+- [00:26:51,340 - 00:26:53,340] Otherwise you're gonna look bad.
+- [00:26:54,340 - 00:26:56,340] I used to have this funny
+- [00:26:56,340 - 00:26:58,340] list called reasons for not looking good.
+- [00:27:03,340 - 00:27:05,340] I used to blame the government.
+- [00:27:06,340 - 00:27:07,340] I mean you can believe that or not.
+- [00:27:07,340 - 00:27:08,340] It was at the top of my list.
+- [00:27:08,340 - 00:27:09,340] I had a lecture second to none.
+- [00:27:09,340 - 00:27:10,340] The government.
+- [00:27:10,340 - 00:27:11,340] That was on my list.
+- [00:27:13,340 - 00:27:14,340] I used to blame taxes.
+- [00:27:14,340 - 00:27:16,340] Look what you got left after they take everything.
+- [00:27:17,340 - 00:27:19,340] And they expect you to do well.
+- [00:27:21,340 - 00:27:22,340] That was on my list there.
+- [00:27:24,340 - 00:27:25,340] Prices. That one's easy, right?
+- [00:27:25,340 - 00:27:27,340] You walk into the supermarket with $20.
+- [00:27:27,340 - 00:27:29,340] Come out with a little half bag.
+- [00:27:30,340 - 00:27:32,340] I had that on the list.
+- [00:27:33,340 - 00:27:35,340] I used to blame the weather.
+- [00:27:36,340 - 00:27:37,340] I blamed the traffic.
+- [00:27:38,340 - 00:27:39,340] I used to blame my car.
+- [00:27:40,340 - 00:27:42,340] I blamed the manufacturers.
+- [00:27:43,340 - 00:27:44,340] I used to blame the company.
+- [00:27:45,340 - 00:27:47,340] I blamed company policy.
+- [00:27:48,340 - 00:27:50,340] I used to blame the training program.
+- [00:27:54,340 - 00:27:55,340] I blame my negative relatives.
+- [00:27:55,340 - 00:27:57,340] They were always putting me down.
+- [00:27:58,340 - 00:28:00,340] I blame my cynical neighbors.
+- [00:28:00,340 - 00:28:02,340] They're just selfish looking out for themselves.
+- [00:28:02,340 - 00:28:03,340] Won't loan you money.
+- [00:28:03,340 - 00:28:04,340] They were on my list.
+- [00:28:09,340 - 00:28:11,340] I used to blame the economy.
+- [00:28:12,340 - 00:28:14,340] I blame the community.
+- [00:28:15,340 - 00:28:16,340] That's a pretty good list
+- [00:28:16,340 - 00:28:17,340] for not doing well, isn't it?
+- [00:28:18,340 - 00:28:19,340] I thought it was good.
+- [00:28:20,340 - 00:28:22,340] I'll never forget one day.
+- [00:28:22,340 - 00:28:23,840] Mr. Shouf was very kind,
+- [00:28:23,840 - 00:28:25,340] but he was also very blunt.
+- [00:28:26,340 - 00:28:27,340] And this was no exception.
+- [00:28:28,340 - 00:28:29,340] And I'm glad he was blunt.
+- [00:28:29,340 - 00:28:30,340] There's a lot of things I'd have
+- [00:28:30,340 - 00:28:31,340] missed if he hadn't have been blunt.
+- [00:28:32,340 - 00:28:33,340] One day with sort of a
+- [00:28:33,340 - 00:28:34,340] curious look on his face, he said,
+- [00:28:34,340 - 00:28:37,340] Jim, just out of curiosity, tell me, how
+- [00:28:37,340 - 00:28:40,340] come you haven't done well up until now?
+- [00:28:41,340 - 00:28:43,340] Excellent question.
+- [00:28:46,340 - 00:28:48,340] I thought, well, so I won't look too bad.
+- [00:28:48,340 - 00:28:50,340] I'll go through my list.
+- [00:28:52,340 - 00:28:53,340] And this list I just gave
+- [00:28:53,340 - 00:28:54,340] you, I put that on him.
+- [00:28:55,340 - 00:28:56,340] And he was very patient.
+- [00:28:56,340 - 00:28:58,340] He let me go through the whole thing.
+- [00:28:58,340 - 00:28:59,340] The government, the weather.
+- [00:28:59,340 - 00:29:00,340] I went through this whole thing.
+- [00:29:00,340 - 00:29:01,340] When I finished, he said,
+- [00:29:01,340 - 00:29:03,340] When I finished, he looked my list over very carefully.
+- [00:29:03,340 - 00:29:06,340] He said, Mr. Rohn, big problem with your list.
+- [00:29:06,340 - 00:29:07,340] You ain't on it.
+- [00:29:10,340 - 00:29:12,340] How brilliant.
+- [00:29:18,340 - 00:29:19,340] When I went to work
+- [00:29:19,340 - 00:29:20,340] for him a few months later,
+- [00:29:20,340 - 00:29:22,340] I learned very quickly to tear up
+- [00:29:22,340 - 00:29:24,340] my list, reasons for not doing well,
+- [00:29:24,340 - 00:29:25,340] and I threw it away.
+- [00:29:25,340 - 00:29:27,340] And I got me a fresh piece of paper.
+- [00:29:27,340 - 00:29:29,340] And I put one word on it.
+- [00:29:29,340 - 00:29:30,340] Me.
+- [00:29:30,340 - 00:29:31,340] Me.
+- [00:29:31,340 - 00:29:31,840] I kind of prefer the context rather
+- [00:29:31,840 - 00:29:32,340] than words in this list, you know?
+- [00:29:32,340 - 00:29:33,340] Like, I was, I was the principal.
+- [00:29:33,340 - 00:29:34,340] I put a four- 휴�みph.
+- [00:29:34,340 - 00:29:35,340] Because we had a department in Deぞ.
+- [00:29:35,340 - 00:29:36,340] wash.
+- [00:29:36,340 - 00:29:45,580] ذ��
+- [00:29:45,580 - 00:29:55,399] jaming
+- [00:29:55,399 - 00:29:57,340] defens來到
+- [00:29:57,340 - 00:29:58,340] Me!
+- [00:29:58,340 - 00:29:32,770] The next subject is fight.
+- [00:29:32,770 - 00:29:33,770] 謝謝
+- [00:29:33,890 - 00:29:35,750] There's a black heritage spiritual that says,
+- [00:29:35,750 - 00:29:37,550] it's not my mother nor my father,
+- [00:29:37,550 - 00:29:39,090] nor my brother nor my sister,
+- [00:29:39,090 - 00:29:41,230] but it's me, oh Lord,
+- [00:29:41,230 - 00:29:43,370] standing in the need of prayer.
+- [00:29:45,770 - 00:29:48,390] See, I used to blame everything outside.
+- [00:29:48,390 - 00:29:49,750] And then let me give you a little philosophy
+- [00:29:49,750 - 00:29:51,290] that helped turn my life around.
+- [00:29:52,210 - 00:29:53,570] For your notes, here it is.
+- [00:29:55,170 - 00:30:00,170] It's not what happens
+- [00:30:00,170 - 00:30:05,530] that determines the quality or the quantity of your life.
+- [00:30:05,530 - 00:30:07,270] It's not what happens.
+- [00:30:08,590 - 00:30:10,530] And the reason is because what happens
+- [00:30:10,530 - 00:30:12,930] happens to about everybody, no different.
+- [00:30:14,210 - 00:30:16,310] The sun went down on all of us last night.
+- [00:30:17,310 - 00:30:19,510] A common event, a happening.
+- [00:30:20,390 - 00:30:22,570] And I found out that the same things
+- [00:30:22,570 - 00:30:23,910] can happen to two different people.
+- [00:30:24,250 - 00:30:25,570] One gets rich and one stays poor.
+- [00:30:25,950 - 00:30:27,010] Why is that?
+- [00:30:27,570 - 00:30:29,950] It's because it's not what happens,
+- [00:30:30,030 - 00:30:30,150] but it's what happens.
+- [00:30:30,150 - 00:30:36,489] But rather, it's what you do
+- [00:30:36,489 - 00:30:38,069] that changes everything.
+- [00:30:40,470 - 00:30:41,870] So that's a key phrase.
+- [00:30:41,990 - 00:30:43,890] It's not what happens, it's what you do.
+- [00:30:45,870 - 00:30:47,730] What happens is about the same.
+- [00:30:47,830 - 00:30:49,050] You might put that in parentheses here.
+- [00:30:49,510 - 00:30:49,990] Same.
+- [00:30:50,410 - 00:30:52,210] What people do, that's what's different.
+- [00:30:56,510 - 00:30:57,690] Anything can happen, right?
+- [00:30:57,730 - 00:30:58,530] Everything can happen.
+- [00:30:58,530 - 00:30:59,530] I've heard all the stories.
+- [00:30:59,649 - 00:31:00,130] I've been one.
+- [00:31:00,150 - 00:31:00,790] I've heard all the stories.
+- [00:31:02,130 - 00:31:04,490] Hey, we could all tell stories all night long, right?
+- [00:31:05,030 - 00:31:05,470] Happenings.
+- [00:31:06,990 - 00:31:07,990] Anything can happen.
+- [00:31:08,310 - 00:31:09,810] Have you heard of Murphy's laws?
+- [00:31:10,030 - 00:31:11,330] Anybody here heard of Murphy's laws?
+- [00:31:12,010 - 00:31:12,970] Okay, most of you have.
+- [00:31:14,050 - 00:31:15,210] Murph had these laws.
+- [00:31:16,110 - 00:31:17,700] One of them was, if
+- [00:31:17,700 - 00:31:19,290] anything can go wrong, it will.
+- [00:31:20,250 - 00:31:21,530] That's one of Murphy's laws.
+- [00:31:22,610 - 00:31:23,940] He was not one of the
+- [00:31:23,940 - 00:31:25,270] great positive speakers of the day.
+- [00:31:25,370 - 00:31:27,830] But anyway, it's still true though, right?
+- [00:31:27,830 - 00:31:29,690] Anything can go wrong, everything can go wrong.
+- [00:31:30,150 - 00:31:31,030] For sure.
+- [00:31:32,430 - 00:31:36,350] I've fallen out of the sky so many times.
+- [00:31:37,830 - 00:31:39,810] Once to the tune of a couple of million.
+- [00:31:41,070 - 00:31:41,990] Devastating.
+- [00:31:41,990 - 00:31:43,470] Took me a while to survive that one.
+- [00:31:45,950 - 00:31:47,020] Now, it wasn't all that much,
+- [00:31:47,020 - 00:31:48,090] but it was all I had.
+- [00:31:49,390 - 00:31:50,630] I mean, that's when it's much, right?
+- [00:31:50,630 - 00:31:51,990] When it's all you got.
+- [00:31:52,690 - 00:31:54,270] If you got three, two go.
+- [00:31:54,270 - 00:31:55,330] You got one left.
+- [00:31:55,330 - 00:31:56,490] You ain't looking that bad.
+- [00:31:56,490 - 00:31:58,050] But when it all goes.
+- [00:31:58,490 - 00:31:59,930] Has anybody been there when it all went?
+- [00:31:59,930 - 00:32:00,930] Anybody?
+- [00:32:00,930 - 00:32:02,930] Come on, the rest of you liars.
+- [00:32:02,930 - 00:32:06,930] Hey, we've all been there, right?
+- [00:32:06,930 - 00:32:07,930] When it all went.
+- [00:32:07,930 - 00:32:10,430] Of course, it used to
+- [00:32:10,430 - 00:32:12,930] be a long time ago, right?
+- [00:32:12,930 - 00:32:13,930] When you ran out of money,
+- [00:32:13,930 - 00:32:14,930] got to zero, you were all through.
+- [00:32:14,930 - 00:32:17,930] Heck, now you can whistle right on by zero.
+- [00:32:17,930 - 00:32:20,930] They will bury you.
+- [00:32:20,930 - 00:32:21,930] That's what they will do.
+- [00:32:26,930 - 00:32:28,930] But see, those are the happenings, right?
+- [00:32:28,930 - 00:32:29,610] Everything can happen.
+- [00:32:29,610 - 00:32:30,610] Anything can happen.
+- [00:32:30,610 - 00:32:32,610] But it's not the happenings.
+- [00:32:32,610 - 00:32:34,610] It's what you do about it.
+- [00:32:34,610 - 00:32:37,110] Somebody says, yeah, but you
+- [00:32:37,110 - 00:32:39,610] don't understand the disappointments I've had.
+- [00:32:40,610 - 00:32:41,610] Come on.
+- [00:32:42,610 - 00:32:44,610] Everybody's had their share.
+- [00:32:45,610 - 00:32:49,610] Disappointments are not special gifts reserved for the poor.
+- [00:32:50,610 - 00:32:51,610] Everybody has them.
+- [00:32:51,610 - 00:32:54,610] The difference is what you do about them.
+- [00:32:56,610 - 00:32:57,610] It's not the weather.
+- [00:32:57,610 - 00:32:58,610] I used to blame the weather.
+- [00:32:58,610 - 00:33:01,610] And I discovered it rains on the rich.
+- [00:33:01,610 - 00:33:04,610] So see, that won't help.
+- [00:33:04,610 - 00:33:06,610] Two men wake up one morning.
+- [00:33:06,610 - 00:33:07,610] There's a rainstorm on.
+- [00:33:07,610 - 00:33:09,610] One of them looks out his window, sees the rainstorm.
+- [00:33:09,610 - 00:33:11,610] And he says, wow, what a storm.
+- [00:33:11,610 - 00:33:13,110] With weather like this, they can't expect
+- [00:33:13,110 - 00:33:14,610] you to go out and make sales.
+- [00:33:14,610 - 00:33:18,610] He stays home.
+- [00:33:18,610 - 00:33:22,110] Same morning, the other guy looks out his window,
+- [00:33:22,110 - 00:33:25,610] sees the same storm, says, wow, what a storm.
+- [00:33:25,610 - 00:33:26,610] But he says, you know what?
+- [00:33:26,610 - 00:33:27,610] With weather like this, what a great day it is.
+- [00:33:27,610 - 00:33:29,610] What a great day to go out and make sales.
+- [00:33:29,610 - 00:33:31,610] Most everybody will probably be home.
+- [00:33:32,610 - 00:33:34,610] Especially the salesman.
+- [00:33:39,610 - 00:33:41,610] See, that's the difference in how your life works out.
+- [00:33:41,610 - 00:33:42,610] It's not what happens.
+- [00:33:42,610 - 00:33:43,610] It's what you do.
+- [00:33:43,610 - 00:33:45,610] So here's one of the key questions of the evening.
+- [00:33:45,610 - 00:33:48,610] Starting tomorrow, what are you going to do
+- [00:33:48,610 - 00:33:51,610] that will make a change in your life's direction?
+- [00:33:52,610 - 00:33:53,610] Good question.
+- [00:33:53,610 - 00:33:55,110] What are you going to do
+- [00:33:55,110 - 00:33:56,610] starting tomorrow that will make a difference?
+- [00:33:57,610 - 00:34:01,110] Now, see, if you don't do something starting
+- [00:34:01,110 - 00:34:04,610] tomorrow that will make a difference, guess what?
+- [00:34:04,610 - 00:34:09,610] It's going to be the same.
+- [00:34:09,610 - 00:34:11,110] And see, that way you can guess what
+- [00:34:11,110 - 00:34:12,610] the next five years are going to be like.
+- [00:34:12,610 - 00:34:15,610] Look at the last five.
+- [00:34:15,610 - 00:34:19,110] Because the next five are going to be like the
+- [00:34:19,110 - 00:34:22,610] last five unless you made your key tomorrow, change it all.
+- [00:34:22,610 - 00:34:23,610] Or change a little.
+- [00:34:23,610 - 00:34:24,610] Or change something.
+- [00:34:24,610 - 00:34:25,610] Or don't change.
+- [00:34:25,610 - 00:34:26,610] It's choice time.
+- [00:34:26,610 - 00:34:28,610] You can do whatever you want.
+- [00:34:28,610 - 00:34:30,110] But it's nice to know any day
+- [00:34:30,110 - 00:34:31,610] you wish you can change your whole life.
+- [00:34:35,610 - 00:34:38,110] What can you do starting
+- [00:34:38,110 - 00:34:40,610] tomorrow that will make a difference?
+- [00:34:41,610 - 00:34:42,610] Good question.
+- [00:34:44,610 - 00:34:49,610] What can you do with economic chaos, massive disappointment?
+- [00:34:49,610 - 00:34:51,610] What can you do with a broken heart?
+- [00:34:51,610 - 00:34:53,610] What can you do when it won't work?
+- [00:34:53,610 - 00:34:54,610] Good question.
+- [00:34:54,610 - 00:34:59,110] So if I had a word with you tonight, one on one,
+- [00:34:59,110 - 00:35:03,610] just you and me, I think my personal advice to you would be,
+- [00:35:03,610 - 00:35:08,610] this year, 1981, reach down inside of you and
+- [00:35:08,610 - 00:35:13,610] come up with some more of those remarkable human gifts.
+- [00:35:13,610 - 00:35:16,610] They're there waiting to be utilized.
+- [00:35:16,610 - 00:35:20,610] And then change anything for you you want to change.
+- [00:35:20,610 - 00:35:22,110] And I challenge you to
+- [00:35:22,110 - 00:35:23,610] do that because you can change.
+- [00:35:24,610 - 00:35:25,610] If you don't like how
+- [00:35:25,610 - 00:35:26,610] it is for you, change it.
+- [00:35:26,610 - 00:35:28,610] If it doesn't suit you, change it.
+- [00:35:28,610 - 00:35:30,610] If it doesn't please you, change it.
+- [00:35:30,610 - 00:35:32,610] If it isn't enough, change it.
+- [00:35:32,610 - 00:35:33,610] And I challenge you to
+- [00:35:33,610 - 00:35:34,610] do that because you can change.
+- [00:35:34,610 - 00:35:37,110] See, you don't ever have to be
+- [00:35:37,110 - 00:35:39,610] the same again after tonight, only by choice.
+- [00:35:43,610 - 00:35:46,610] If you don't like your present address, change it.
+- [00:35:46,610 - 00:35:48,610] You're not a tree.
+- [00:35:54,610 - 00:36:00,610] Now, let me give you three steps to personal development.
+- [00:36:00,610 - 00:36:02,610] Let's get down to the nitty gritty.
+- [00:36:02,610 - 00:36:04,110] What does it take to
+- [00:36:04,110 - 00:36:05,610] really make the changes starting tomorrow?
+- [00:36:05,610 - 00:36:07,610] It takes more than philosophical pronouncement.
+- [00:36:07,610 - 00:36:10,610] I know that.
+- [00:36:10,610 - 00:36:12,610] It also takes more than enthusiasm.
+- [00:36:12,610 - 00:36:15,110] I know we're hearing a lot about enthusiasm these
+- [00:36:15,110 - 00:36:17,610] days, but see, that just won't do the job.
+- [00:36:17,610 - 00:36:20,610] We're still hearing the old cliches of the 30s, right?
+- [00:36:20,610 - 00:36:23,610] To be enthusiastic, you must act enthusiastic.
+- [00:36:23,610 - 00:36:25,610] But see, that's not going to help.
+- [00:36:25,610 - 00:36:28,610] After you have leaped about, there are some things
+- [00:36:28,610 - 00:36:31,610] you got to do or it isn't going to change.
+- [00:36:35,610 - 00:36:37,610] See, you can get all excited about lifting
+- [00:36:37,610 - 00:36:39,610] 200 pounds till you get to the gym.
+- [00:36:41,610 - 00:36:43,610] And then you need a new excitement.
+- [00:36:44,610 - 00:36:47,610] And the new excitement is called discipline.
+- [00:36:48,610 - 00:36:51,610] Major step to human progress.
+- [00:36:51,610 - 00:36:52,610] Discipline.
+- [00:36:53,610 - 00:36:55,610] If there's one thing to get excited over, that's it.
+- [00:36:55,610 - 00:36:58,610] Get excited over your ability to
+- [00:36:58,610 - 00:37:01,610] make yourself do the necessary things.
+- [00:37:04,610 - 00:37:06,110] What could you make yourself do
+- [00:37:06,110 - 00:37:07,610] starting tomorrow that would change it all?
+- [00:37:07,610 - 00:37:09,610] No telling.
+- [00:37:12,610 - 00:37:14,610] Now, see, that's exciting.
+- [00:37:14,610 - 00:37:17,110] On any given day, you can
+- [00:37:17,110 - 00:37:19,610] massively change the direction of your life.
+- [00:37:21,610 - 00:37:22,610] Murder is a clear example.
+- [00:37:22,610 - 00:37:25,610] Murder is a clear example that any one person on
+- [00:37:25,610 - 00:37:28,610] any given day can forever alter the course of their life.
+- [00:37:28,610 - 00:37:30,610] It just happens to be a negative act.
+- [00:37:33,610 - 00:37:38,110] But just as sure as you can commit a negative act, you can
+- [00:37:38,110 - 00:37:42,610] also commit a positive act and forever alter your life whenever you wish.
+- [00:37:42,610 - 00:37:44,610] Now, that's exciting.
+- [00:37:45,610 - 00:37:47,610] And whatever that act might be that changes your life.
+- [00:37:47,610 - 00:37:49,610] The guy finally takes a shot at you.
+- [00:37:49,610 - 00:37:50,610] The guy finally takes a shot at you.
+- [00:37:50,610 - 00:37:53,610] The guy finally takes a shotgun to his car.
+- [00:37:54,610 - 00:37:56,610] And blows out every window.
+- [00:37:56,610 - 00:37:57,610] Destroys every tire.
+- [00:37:57,610 - 00:37:59,610] Puts a hundred rounds in this shabby old thing.
+- [00:37:59,610 - 00:38:01,610] And he says, I have driven
+- [00:38:01,610 - 00:38:03,610] this embarrassing thing for the last time.
+- [00:38:05,610 - 00:38:08,110] And not only will I never drive it
+- [00:38:08,110 - 00:38:10,610] again, nobody else will ever drive it again.
+- [00:38:11,610 - 00:38:15,110] And he lets that shuddering thing stand there for a while
+- [00:38:15,110 - 00:38:18,610] as a monument to the day he said, today my life changes.
+- [00:38:18,610 - 00:38:19,610] Now, who can do that?
+- [00:38:19,610 - 00:38:20,610] Anybody.
+- [00:38:20,610 - 00:38:21,610] When can you do it?
+- [00:38:21,610 - 00:38:22,610] Whatever day you pick.
+- [00:38:31,610 - 00:38:33,610] Now, here's the key to discipline.
+- [00:38:33,610 - 00:38:35,610] Start with the little disciplines.
+- [00:38:35,610 - 00:38:37,610] Get excited over the little disciplines.
+- [00:38:38,610 - 00:38:40,110] And get right on those because
+- [00:38:40,110 - 00:38:41,610] those will lead to the big ones.
+- [00:38:41,610 - 00:38:43,110] You can't handle the big challenges in
+- [00:38:43,110 - 00:38:44,610] life unless you take on the little ones.
+- [00:38:44,610 - 00:38:46,610] Make a list of all the things you can do.
+- [00:38:46,610 - 00:38:47,610] Get right on those.
+- [00:38:47,610 - 00:38:48,610] Discipline yourself for those.
+- [00:38:48,610 - 00:38:49,610] Discipline yourself for those.
+- [00:38:49,610 - 00:38:51,610] Both for the results and for the muscle.
+- [00:38:51,610 - 00:38:52,610] And for the practice.
+- [00:38:52,610 - 00:38:54,110] So that when life hands you
+- [00:38:54,110 - 00:38:55,610] some big challenges, you'll be ready.
+- [00:38:55,610 - 00:38:57,610] You'll have the muscle.
+- [00:38:58,610 - 00:39:00,610] But see, if you don't handle the small
+- [00:39:00,610 - 00:39:02,610] ones, you can't take care of the big ones.
+- [00:39:07,610 - 00:39:08,610] Okay.
+- [00:39:08,610 - 00:39:10,610] Here's what else it takes for life change.
+- [00:39:10,610 - 00:39:12,610] Self-motivation.
+- [00:39:12,610 - 00:39:13,610] Key phrase.
+- [00:39:13,610 - 00:39:14,610] Self-motivation.
+- [00:39:15,610 - 00:39:17,610] I don't know why we call it self-motivation.
+- [00:39:17,610 - 00:39:18,610] It's really the only kind there is.
+- [00:39:18,610 - 00:39:20,610] You've got to motivate yourself.
+- [00:39:20,610 - 00:39:22,610] Because I found out you can't change people.
+- [00:39:22,610 - 00:39:24,610] They can change themselves, but you can't change them.
+- [00:39:24,610 - 00:39:26,610] Lord knows some I've tried.
+- [00:39:27,610 - 00:39:29,610] But see, it won't work.
+- [00:39:31,610 - 00:39:33,610] People have to change themselves.
+- [00:39:34,610 - 00:39:36,610] I learned some of those lessons early.
+- [00:39:36,610 - 00:39:37,610] I built a little sales organization
+- [00:39:37,610 - 00:39:38,610] way back in those early days.
+- [00:39:38,610 - 00:39:39,610] I'm 25.
+- [00:39:40,610 - 00:39:41,610] And I had some nice people.
+- [00:39:42,610 - 00:39:44,110] I said, I'm going to make
+- [00:39:44,110 - 00:39:45,610] these people successful if it kills me.
+- [00:39:45,610 - 00:39:46,610] I almost died.
+- [00:39:46,610 - 00:39:50,610] I mean, you can't do that.
+- [00:39:58,610 - 00:39:59,610] See, I've discovered this.
+- [00:39:59,610 - 00:40:00,610] Good people are not trained.
+- [00:40:00,610 - 00:40:02,610] They're found.
+- [00:40:03,610 - 00:40:04,610] You find good people.
+- [00:40:04,610 - 00:40:05,610] You don't make them good.
+- [00:40:05,610 - 00:40:07,610] You find them good.
+- [00:40:08,610 - 00:40:10,610] Training really is for the purpose of finding good people.
+- [00:40:10,610 - 00:40:12,610] You don't need much instruction for a good person.
+- [00:40:13,610 - 00:40:14,610] But too much training probably
+- [00:40:14,610 - 00:40:15,610] means you got the wrong person.
+- [00:40:17,610 - 00:40:18,610] Good people.
+- [00:40:20,610 - 00:40:23,610] So you got to find the right people.
+- [00:40:23,610 - 00:40:25,610] That's the key to getting a good job done.
+- [00:40:26,610 - 00:40:28,110] One of the major things
+- [00:40:28,110 - 00:40:29,610] we learn in management, lesson one,
+- [00:40:29,610 - 00:40:31,610] don't send your ducks to Eagle School.
+- [00:40:39,610 - 00:40:40,610] Because it won't help.
+- [00:40:40,610 - 00:40:42,110] I mean, I'm telling you, it won't
+- [00:40:42,110 - 00:40:43,610] help no matter how good your school is.
+- [00:40:43,610 - 00:40:45,930] is and the little eagle badge and little eagle
+- [00:40:45,930 - 00:40:48,250] hat. I'm telling you it won't help. It won't help.
+- [00:40:52,170 - 00:40:54,810] You can tell whether your school's done any good,
+- [00:40:54,810 - 00:40:57,450] right, is when it's over, right? The duck goes for
+- [00:40:57,450 - 00:41:02,330] his first rabbit and makes him a friend. You
+- [00:41:02,330 - 00:41:07,210] say no, no, no. Anyway, so it takes self-motivation to
+- [00:41:07,210 - 00:41:09,890] really alter your life and you don't want to
+- [00:41:09,890 - 00:41:12,570] give self-motivation away to somebody else and make it
+- [00:41:12,570 - 00:41:16,490] somebody else motivating you. The guy says, boy, if
+- [00:41:16,490 - 00:41:20,410] somebody just come by and turn me on, what if
+- [00:41:20,410 - 00:41:26,009] they don't show up? See, you got to have a
+- [00:41:26,009 - 00:41:31,609] better plan for your life. Okay, now if you're excited
+- [00:41:32,410 - 00:41:35,129] and you're ready to change, let me give you
+- [00:41:35,129 - 00:41:37,849] three steps to start life change that can change your
+- [00:41:37,849 - 00:41:40,169] life, your personality, your lifestyle, everything
+- [00:41:40,169 - 00:41:42,489] can change. Here's the steps. Number one,
+- [00:41:42,570 - 00:41:49,329] find out how things work. The first key to
+- [00:41:49,329 - 00:41:56,089] doing better is find out. To change your life really,
+- [00:41:56,089 - 00:41:59,769] you need ideas. There isn't anything an idea can't
+- [00:41:59,769 - 00:42:03,450] change. And Sholf taught me the major problem is
+- [00:42:03,450 - 00:42:06,290] lack of an idea, not a problem. At first, I didn't
+- [00:42:06,290 - 00:42:09,130] have any money. I said to Mr. Sholf, I don't have
+- [00:42:09,130 - 00:42:10,809] any money. He said, that's not a problem. Now,
+- [00:42:10,809 - 00:42:12,489] see, up until then, I always thought it was.
+- [00:42:13,450 - 00:42:16,570] Right. I was confused. He said, no, no. The
+- [00:42:16,570 - 00:42:19,690] problem is lack of an idea on how to create
+- [00:42:19,690 - 00:42:22,050] money and wealth. It isn't lack of money. It's
+- [00:42:22,050 - 00:42:24,410] lack of ideas. So if you get the ideas,
+- [00:42:24,410 - 00:42:26,689] see, you can change anything. Now to get
+- [00:42:26,689 - 00:42:28,969] ideas. you need a constant study of finding out.
+- [00:42:30,810 - 00:42:33,490] Now Sholf also said, when you find out
+- [00:42:33,490 - 00:42:36,170] something that works, put the information in your journal.
+- [00:42:37,209 - 00:42:39,769] Don't use your head for a filing cabinet. Put it
+- [00:42:39,769 - 00:42:42,329] in your journal so that you can do the next
+- [00:42:42,329 - 00:42:42,449] benchmark. Put it in the way of your pens,
+- [00:42:42,449 - 00:42:42,570] so that you can see what the next benchmark is.
+- [00:42:42,570 - 00:42:45,909] thing. Repetition, repetition, repetition. Go over it.
+- [00:42:45,909 - 00:42:49,249] And if you repeat it, go over
+- [00:42:49,249 - 00:42:51,659] it, sure enough, someday, some mysterious day,
+- [00:42:51,659 - 00:42:54,070] the idea takes root, starts to grow,
+- [00:42:54,070 - 00:42:57,329] and shows up in your bank account and
+- [00:42:57,329 - 00:43:00,589] your dress and your personality and your lifestyle.
+- [00:43:00,589 - 00:43:04,449] But capture the ideas in your journal. Find
+- [00:43:04,449 - 00:43:08,310] out how things work. Schoaf gave me this word
+- [00:43:08,310 - 00:43:12,569] for my life change. He said, study. Great
+- [00:43:12,569 - 00:43:16,829] word. If you wish to be successful, study
+- [00:43:16,829 - 00:43:21,379] success. If you wish to be happy, study happiness.
+- [00:43:21,379 - 00:43:25,930] If you wish to be wealthy, study wealth. Don't
+- [00:43:25,930 - 00:43:29,069] leave it to chance. Make it a study.
+- [00:43:29,069 - 00:43:32,209] Some people just go through the day with their
+- [00:43:32,209 - 00:43:35,259] fingers crossed. See, that won't do it. You've
+- [00:43:35,259 - 00:43:38,310] got to study the things that can change
+- [00:43:38,310 - 00:43:45,989] your economic, social, spiritual, personal life.
+- [00:43:45,989 - 00:43:47,729] Now here's a qualifying phrase, and we'll
+- [00:43:47,729 - 00:43:49,469] have several of these qualifying phrases throughout
+- [00:43:49,469 - 00:43:52,829] the seminar. Here's the first one. You may not
+- [00:43:52,829 - 00:43:56,190] be able to do all you find out. I understand
+- [00:43:56,190 - 00:44:00,170] that. You may not be able to do all you
+- [00:44:00,170 - 00:44:04,150] find out, but you should find out all you can do.
+- [00:44:04,150 - 00:44:05,800] See you don't want to wind up at the
+- [00:44:05,800 - 00:44:07,450] end of your life and discover that you've lived only
+- [00:44:07,450 - 00:44:08,250] one tenth of it.
+- [00:44:08,310 - 00:44:13,000] And the other nine tenths went down the drain,
+- [00:44:13,000 - 00:44:17,690] not for lack of opportunity, for lack of information.
+- [00:44:17,690 - 00:44:19,720] So that's number one. Find out how things
+- [00:44:19,720 - 00:44:21,750] work. Now here's the best human virtue for
+- [00:44:21,750 - 00:44:26,850] finding out. Curiosity. Make a note of that.
+- [00:44:26,850 - 00:44:31,950] Curiosity. Be curious. You might add a word
+- [00:44:31,950 - 00:44:35,989] to it that'll help. Childish curiosity.
+- [00:44:35,989 - 00:44:37,989] Okay.
+- [00:44:38,310 - 00:44:42,500] What will kids do if they want to know
+- [00:44:42,500 - 00:44:46,690] something bad enough? Bug you. That's the phrase. They
+- [00:44:46,690 - 00:44:48,839] can ask a thousand questions. You think
+- [00:44:48,839 - 00:44:50,989] they're through, they've got another thousand. They'll
+- [00:44:50,989 - 00:44:56,779] drive you to the brink. It's a virtue. When
+- [00:44:56,779 - 00:45:02,570] you've got to know, be like a child. In fact,
+- [00:45:02,570 - 00:45:04,480] Jesus, the master teacher said, unless you
+- [00:45:04,480 - 00:45:06,390] can become like little children, you might
+- [00:45:06,390 - 00:45:06,850] as well forget it. You don't have a prayer.
+- [00:45:06,850 - 00:45:07,310] For this is a very powerful. And let me tell
+- [00:45:07,310 - 00:45:07,810] you, you might as well forget it. You don't
+- [00:45:07,810 - 00:45:08,310] have a prayer. You might as well forget it.
+- [00:45:08,310 - 00:45:11,310] Excellent advice. You got to be like children. Four
+- [00:45:11,310 - 00:45:14,310] ways, in my opinion, to be like a child.
+- [00:45:14,310 - 00:45:17,810] Number one is curiosity. Number two is excitement. Get excited like
+- [00:45:17,810 - 00:45:21,310] a child over your ability to make yourself do anything for change.
+- [00:45:21,310 - 00:45:24,810] Third is faith. Have faith like
+- [00:45:24,810 - 00:45:28,310] a child. Adults are too skeptical.
+- [00:45:28,310 - 00:45:31,810] And fourth is trust. Trust is a
+- [00:45:31,810 - 00:45:35,310] childish virtue, but the rewards are incredible.
+- [00:45:35,310 - 00:45:41,310] So be like a child. Now, if you're curious, let me
+- [00:45:41,310 - 00:45:47,310] give you three ways to find out how to change anything.
+- [00:45:47,310 - 00:45:50,310] Any life direction, any dimension. Here's three
+- [00:45:50,310 - 00:45:53,310] ways to find out how to change anything.
+- [00:45:53,310 - 00:45:59,310] Number one is to read. Become a good reader.
+- [00:45:59,310 - 00:46:01,810] All of the successful people I know and
+- [00:46:01,810 - 00:46:04,310] work with around the world, they're all good readers.
+- [00:46:04,310 - 00:46:05,310] Curiosity.
+- [00:46:05,310 - 00:46:09,810] Curiosity drives them to read. They got to know. They
+- [00:46:09,810 - 00:46:14,310] just read, read, read, read, read, read, read, read, read.
+- [00:46:14,310 - 00:46:19,310] Become a good reader. Now, that's my opinion.
+- [00:46:19,310 - 00:46:21,310] Listen to the other lecturers and listen
+- [00:46:21,310 - 00:46:23,310] to me and make up your own mind.
+- [00:46:23,310 - 00:46:27,310] Don't be a follower. Be a student. Okay?
+- [00:46:27,310 - 00:46:30,310] I say, really, for life change, you got to read.
+- [00:46:30,310 - 00:46:33,310] One way to learn is from your own experiences.
+- [00:46:33,310 - 00:46:34,310] But another way to learn is from other people.
+- [00:46:34,310 - 00:46:37,310] One way to learn is from other people's experiences.
+- [00:46:37,310 - 00:46:41,810] See, one book might save you
+- [00:46:41,810 - 00:46:46,310] five years if you read it.
+- [00:46:46,310 - 00:46:48,310] Did you know there's books on
+- [00:46:48,310 - 00:46:50,310] how to be stronger, more decisive?
+- [00:46:50,310 - 00:46:52,310] Be a speaker. Be a leader.
+- [00:46:52,310 - 00:46:53,310] Have a better effect on other people.
+- [00:46:53,310 - 00:46:55,310] Develop your personality.
+- [00:46:55,310 - 00:46:57,310] Did you know there's books on that?
+- [00:46:57,310 - 00:47:00,310] And people don't read them?
+- [00:47:00,310 - 00:47:02,310] How would you explain that?
+- [00:47:02,310 - 00:47:04,310] And they can read.
+- [00:47:06,310 - 00:47:08,810] Did you know that hundreds of successful
+- [00:47:08,810 - 00:47:11,310] people have written their stories in books
+- [00:47:11,310 - 00:47:13,810] and they wrote down how they
+- [00:47:13,810 - 00:47:16,310] did it and people don't read it?
+- [00:47:16,310 - 00:47:18,310] How would you explain that?
+- [00:47:20,310 - 00:47:22,310] The guy's busy, I guess.
+- [00:47:23,310 - 00:47:25,310] You know, you get tied up.
+- [00:47:26,310 - 00:47:29,310] The guy says, well, yeah, you work where I work.
+- [00:47:29,310 - 00:47:31,310] But the time you struggle home, it's late.
+- [00:47:31,310 - 00:47:32,810] You got to eat a bite of
+- [00:47:32,810 - 00:47:34,310] supper, watch a little TV, get to bed.
+- [00:47:34,310 - 00:47:35,810] You can't sit up half
+- [00:47:35,810 - 00:47:37,310] the night reading, reading, reading, reading.
+- [00:47:37,310 - 00:47:40,310] And the guy's behind on his car payment.
+- [00:47:43,310 - 00:47:47,310] Good worker. Hard worker. Sincere.
+- [00:47:48,310 - 00:47:50,310] But you got to be
+- [00:47:50,310 - 00:47:52,310] better than sincere and work hard.
+- [00:47:53,310 - 00:47:54,810] Otherwise, at the end of your
+- [00:47:54,810 - 00:47:56,310] life, you'll wind up cold, stony broke.
+- [00:47:57,310 - 00:47:59,310] You got to be better than a good worker.
+- [00:47:59,310 - 00:48:01,310] You got to be a good reader.
+- [00:48:03,310 - 00:48:05,310] The whole world is governed by laws.
+- [00:48:05,310 - 00:48:07,310] The universe, in fact.
+- [00:48:07,310 - 00:48:09,310] Laws. We call it the law of electricity.
+- [00:48:09,310 - 00:48:11,310] We call it the law of gravity.
+- [00:48:11,310 - 00:48:13,310] There's mathematical laws.
+- [00:48:13,310 - 00:48:15,310] There's physical laws.
+- [00:48:15,310 - 00:48:17,310] Speed and velocity laws.
+- [00:48:17,310 - 00:48:19,310] Agricultural laws.
+- [00:48:19,310 - 00:48:21,310] There's all kinds of laws.
+- [00:48:21,310 - 00:48:23,310] Now that we find ourselves on the spinning planet,
+- [00:48:23,310 - 00:48:26,310] you just have to learn what I call the setup.
+- [00:48:27,310 - 00:48:28,310] Learn the setup.
+- [00:48:29,310 - 00:48:33,310] Life's setup.
+- [00:48:35,310 - 00:48:37,310] Now, we didn't set it up, but
+- [00:48:37,310 - 00:48:39,310] we're here, so you got to learn it.
+- [00:48:40,310 - 00:48:42,310] And we should learn the setup for two basic reasons.
+- [00:48:42,310 - 00:48:45,310] Number one, to keep from getting hurt.
+- [00:48:45,310 - 00:48:46,810] It's one of the major reasons
+- [00:48:46,810 - 00:48:48,310] for learning so you won't get hurt.
+- [00:48:50,310 - 00:48:51,810] See, economically, socially, personally, you
+- [00:48:51,810 - 00:48:53,310] can get hurt just not knowing.
+- [00:48:55,310 - 00:48:57,310] Ignorance is not bliss.
+- [00:48:57,310 - 00:48:59,310] Ignorance is poverty.
+- [00:48:59,310 - 00:49:01,310] Ignorance is tragedy.
+- [00:49:01,310 - 00:49:03,310] You got to know or you're going to get hurt.
+- [00:49:05,310 - 00:49:06,810] It's good to know not
+- [00:49:06,810 - 00:49:08,310] to walk out the 10-story window.
+- [00:49:08,310 - 00:49:10,310] That's excellent information.
+- [00:49:11,310 - 00:49:12,310] Now, what if a guy
+- [00:49:12,310 - 00:49:13,310] didn't know and he walks out?
+- [00:49:13,310 - 00:49:14,310] No, he's dead at the bottom.
+- [00:49:14,310 - 00:49:16,310] Somebody says, well, the poor guy didn't know.
+- [00:49:18,310 - 00:49:21,310] You got to know or you're going to get hurt.
+- [00:49:23,310 - 00:49:24,310] Okay.
+- [00:49:24,310 - 00:49:26,310] Now, here's a parenthesis.
+- [00:49:26,310 - 00:49:28,310] You don't have to like the setup.
+- [00:49:30,310 - 00:49:32,310] I don't ask you to like how it is.
+- [00:49:33,310 - 00:49:34,310] That's not what's important.
+- [00:49:34,310 - 00:49:37,310] But it is important to learn how it is.
+- [00:49:39,310 - 00:49:40,310] Okay.
+- [00:49:40,310 - 00:49:41,310] So you don't have to like
+- [00:49:41,310 - 00:49:42,310] it, but you should learn it.
+- [00:49:44,310 - 00:49:45,310] That's what I tell the kids, right?
+- [00:49:45,310 - 00:49:47,310] Make sure you get the information.
+- [00:49:49,310 - 00:49:51,310] What you think about it, that's up to you.
+- [00:49:51,310 - 00:49:52,310] What you're going to do with
+- [00:49:52,310 - 00:49:53,310] it, that'll soon be up to you.
+- [00:49:53,310 - 00:49:55,310] But make sure you get it.
+- [00:49:56,310 - 00:49:59,310] See, there's nothing worse than being stupid.
+- [00:49:59,310 - 00:50:01,310] Nothing.
+- [00:50:02,310 - 00:50:04,810] I mean, being broke is
+- [00:50:04,810 - 00:50:07,310] bad, but being stupid is awful.
+- [00:50:08,310 - 00:50:12,310] And what's really bad is being broken stupid, right?
+- [00:50:12,310 - 00:50:14,310] That's about the end of the world.
+- [00:50:14,310 - 00:50:16,310] I mean, there isn't anything much worse than that.
+- [00:50:16,310 - 00:50:18,310] Unless you're sick.
+- [00:50:18,310 - 00:50:20,310] Sick, broken, stupid.
+- [00:50:20,310 - 00:50:21,310] I mean, that is it, right?
+- [00:50:21,310 - 00:50:23,310] There's nowhere else to go.
+- [00:50:23,310 - 00:50:24,310] So, maybe you're not going to be stupid.
+- [00:50:24,310 - 00:50:25,310] You're going to be stupid.
+- [00:50:25,310 - 00:50:27,310] So, make sure you get the information.
+- [00:50:27,310 - 00:50:28,310] It's key.
+- [00:50:29,310 - 00:50:32,310] You don't have to like it, but learn it.
+- [00:50:33,310 - 00:50:37,810] If this big monstrous thing lifts up in the sky, hangs there for a
+- [00:50:37,810 - 00:50:42,310] little while, cuts loose, comes crashing down, boom, shakes the ground for five miles.
+- [00:50:43,310 - 00:50:47,310] And then this big monstrous thing lifts back up in the sky, hangs there for
+- [00:50:47,310 - 00:50:51,310] a little while, cuts loose again, comes crashing down, boom, shakes the ground for five miles.
+- [00:50:51,310 - 00:50:53,310] It just keeps doing that, this big monstrous thing.
+- [00:50:53,310 - 00:50:55,310] Lifting up and then crashing down.
+- [00:50:55,310 - 00:50:56,310] Boom.
+- [00:50:57,310 - 00:50:59,810] Now, you might come along one day and
+- [00:50:59,810 - 00:51:02,310] say, that's got to be a stupid arrangement.
+- [00:51:03,310 - 00:51:04,310] Which is okay.
+- [00:51:04,310 - 00:51:05,310] You're entitled to your opinion.
+- [00:51:05,310 - 00:51:07,310] But the first thing you should learn
+- [00:51:07,310 - 00:51:09,310] to do is get out from under it.
+- [00:51:09,310 - 00:51:10,310] Right?
+- [00:51:10,310 - 00:51:11,310] That's number one.
+- [00:51:13,310 - 00:51:15,310] You might have a great moral argument.
+- [00:51:15,310 - 00:51:16,810] You might want to shake your finger at
+- [00:51:16,810 - 00:51:18,310] the sky, but do it from over there.
+- [00:51:18,310 - 00:51:19,310] Right?
+- [00:51:19,310 - 00:51:21,310] So, you don't get smashed.
+- [00:51:21,310 - 00:51:22,310] It's called your basic smartness.
+- [00:51:22,310 - 00:51:23,310] Your basic smart.
+- [00:51:25,310 - 00:51:27,310] So, number one, learn so you won't
+- [00:51:27,310 - 00:51:29,310] get hurt, whether you like it or not.
+- [00:51:29,310 - 00:51:30,310] Learn.
+- [00:51:30,310 - 00:51:32,310] Now, here's the second reason for learning.
+- [00:51:32,310 - 00:51:33,310] The setup.
+- [00:51:33,310 - 00:51:34,310] To benefit.
+- [00:51:35,310 - 00:51:37,310] It's called the plus of life.
+- [00:51:38,310 - 00:51:40,310] And that's what life is, right?
+- [00:51:40,310 - 00:51:41,310] Both minus and plus.
+- [00:51:42,310 - 00:51:44,810] The minus is tragedy,
+- [00:51:44,810 - 00:51:47,310] heartache, misery, failure, unhappiness.
+- [00:51:48,310 - 00:51:51,310] But life is also happiness, prosperity, good feelings.
+- [00:51:52,310 - 00:51:53,310] So, here's the key.
+- [00:51:53,310 - 00:51:55,810] Learn to get on the good
+- [00:51:55,810 - 00:51:58,310] side of the way things work.
+- [00:52:03,310 - 00:52:04,810] Now, here's two of the basic
+- [00:52:04,810 - 00:52:06,310] laws and we'll take our break.
+- [00:52:06,310 - 00:52:08,310] Shof taught me these.
+- [00:52:08,310 - 00:52:10,310] They come from the Bible.
+- [00:52:10,310 - 00:52:12,310] Now, again, I'm an amateur, okay?
+- [00:52:12,310 - 00:52:14,310] When it comes to the Bible, I'm not a pro.
+- [00:52:14,310 - 00:52:15,810] So, you'll sort of have to
+- [00:52:15,810 - 00:52:17,310] take my way of putting it.
+- [00:52:17,310 - 00:52:18,310] But here they are.
+- [00:52:18,310 - 00:52:20,310] The first one is the law of use.
+- [00:52:20,310 - 00:52:22,310] The law of use.
+- [00:52:23,310 - 00:52:25,310] And it goes something like this.
+- [00:52:25,310 - 00:52:28,310] Whatever you don't use, you lose.
+- [00:52:29,310 - 00:52:31,310] Lack of use causes loss.
+- [00:52:33,122 - 00:52:35,122] ありがとうございました
+- [00:52:37,666 - 00:52:40,216] on this planet, maybe not the
+- [00:52:40,216 - 00:52:42,766] next one, but on this one.
+- [00:52:42,766 - 00:52:45,456] If you tie your arm to your body, leave
+- [00:52:45,456 - 00:52:48,146] it there long enough, you'll never use it again.
+- [00:52:48,146 - 00:52:50,346] It's over for the arm.
+- [00:52:50,346 - 00:52:51,396] Now may not be over,
+- [00:52:51,396 - 00:52:52,446] but it's over for the arm.
+- [00:52:52,446 - 00:52:53,936] The only way to keep the
+- [00:52:53,936 - 00:52:55,426] use of this arm is what?
+- [00:52:55,426 - 00:52:56,426] Keep using it.
+- [00:52:56,426 - 00:53:00,746] If you quit, you lose automatically.
+- [00:53:00,746 - 00:53:03,526] They don't bring it up for a vote.
+- [00:53:03,526 - 00:53:05,666] You lose automatically when you quit.
+- [00:53:05,666 - 00:53:07,926] Now the same thing that goes for
+- [00:53:07,926 - 00:53:10,186] your arm goes for your brain, mentality.
+- [00:53:10,186 - 00:53:13,166] The same thing goes for all the human virtues.
+- [00:53:13,166 - 00:53:18,846] Ambition, unused, declines.
+- [00:53:18,846 - 00:53:24,026] Strong feelings, unused, diminish.
+- [00:53:24,026 - 00:53:27,086] It doesn't grow, it diminishes.
+- [00:53:27,086 - 00:53:32,146] Faith unused decreases.
+- [00:53:32,146 - 00:53:34,386] It's a law.
+- [00:53:34,386 - 00:53:35,666] Vitality unused.
+- [00:53:35,666 - 00:53:36,666] Diminishes.
+- [00:53:36,666 - 00:53:40,986] Energy unused decreases.
+- [00:53:40,986 - 00:53:42,085] The guy says, well, I'm
+- [00:53:42,085 - 00:53:43,185] going to save up my energy.
+- [00:53:43,185 - 00:53:46,686] You can't do that.
+- [00:53:46,686 - 00:53:47,766] That's like trying to save today, put
+- [00:53:47,766 - 00:53:48,846] it on the end of the year.
+- [00:53:48,846 - 00:53:49,846] See you can't do that.
+- [00:53:49,846 - 00:53:52,346] They'll come take you away.
+- [00:53:52,346 - 00:53:55,106] If you don't use today, what?
+- [00:53:55,106 - 00:53:56,826] It's lost.
+- [00:53:56,826 - 00:53:57,986] The guy says, well, I'll work twice
+- [00:53:57,986 - 00:53:59,146] as hard tomorrow to make up for it.
+- [00:53:59,146 - 00:54:00,146] See that's foolish.
+- [00:54:00,146 - 00:54:01,406] You could have done that anyway.
+- [00:54:01,406 - 00:54:03,606] Today unused is lost.
+- [00:54:03,606 - 00:54:05,146] A talent unused is lost.
+- [00:54:05,146 - 00:54:07,326] An ability unused is lost.
+- [00:54:07,326 - 00:54:09,986] So here's one of the key expressions of the evening.
+- [00:54:09,986 - 00:54:14,786] Take a new inventory of yourself.
+- [00:54:14,786 - 00:54:16,146] Starting tomorrow, new project.
+- [00:54:16,146 - 00:54:19,536] Take a new inventory and make sure that
+- [00:54:19,536 - 00:54:22,926] all of your talent and ability and mentality and
+- [00:54:22,926 - 00:54:25,726] ingenuity and vitality and strong feelings,
+- [00:54:25,726 - 00:54:28,526] faith, courage, make sure that all you've
+- [00:54:28,526 - 00:54:30,146] got is being used.
+- [00:54:30,146 - 00:54:33,146] Otherwise you lose.
+- [00:54:33,146 - 00:54:34,146] Okay?
+- [00:54:34,146 - 00:54:35,146] Okay.
+- [00:54:35,146 - 00:54:37,326] Now, one of the best illustrations of the law
+- [00:54:37,326 - 00:54:39,506] of use is a Bible story called the parable
+- [00:54:39,506 - 00:54:44,486] of the talents.
+- [00:54:44,486 - 00:54:46,586] The talent story.
+- [00:54:46,586 - 00:54:47,586] Interesting story.
+- [00:54:47,586 - 00:54:48,256] If you haven't read it
+- [00:54:48,256 - 00:54:48,926] in a while, just review it.
+- [00:54:48,926 - 00:54:50,006] It's a good story.
+- [00:54:50,006 - 00:54:52,016] An ancient story says there
+- [00:54:52,016 - 00:54:54,026] was a master with three servants.
+- [00:54:54,026 - 00:54:57,366] He got them together one day and he
+- [00:54:57,366 - 00:55:00,706] said to the three, I've got these talents.
+- [00:55:00,706 - 00:55:02,426] And in those ancient days, the
+- [00:55:02,426 - 00:55:04,146] talent was a measure of gold.
+- [00:55:04,146 - 00:55:06,326] And he said to the three servants, take these
+- [00:55:06,326 - 00:55:08,506] talents and see what you can do with them
+- [00:55:08,506 - 00:55:09,506] while I'm gone.
+- [00:55:09,506 - 00:55:10,705] He said, I'm taking a journey
+- [00:55:10,705 - 00:55:11,905] and I'll be gone for a while.
+- [00:55:11,905 - 00:55:13,545] When I come back, we'll get together,
+- [00:55:13,545 - 00:55:15,185] go over the book, see how you did.
+- [00:55:15,185 - 00:55:18,386] He said, here's five of these talents for you.
+- [00:55:18,386 - 00:55:19,666] Five.
+- [00:55:19,666 - 00:55:21,646] Here's two of them for you.
+- [00:55:21,646 - 00:55:22,866] Two.
+- [00:55:22,866 - 00:55:24,905] And here's one for you.
+- [00:55:24,905 - 00:55:26,465] One.
+- [00:55:26,465 - 00:55:27,885] The master said, take those talents,
+- [00:55:27,885 - 00:55:29,306] see what you can do with them.
+- [00:55:29,306 - 00:55:30,306] When I come back, we'll get together.
+- [00:55:30,306 - 00:55:31,905] We'll go over it all.
+- [00:55:31,905 - 00:55:33,146] The servant said, okay.
+- [00:55:33,146 - 00:55:34,146] Master takes off.
+- [00:55:34,146 - 00:55:36,275] According to the ancient story, the
+- [00:55:36,275 - 00:55:38,405] master comes back from his trip.
+- [00:55:38,405 - 00:55:42,745] When he gets back, he gets the three servants together.
+- [00:55:42,745 - 00:55:46,105] And as he said he would, he
+- [00:55:46,105 - 00:55:49,465] asks, how did it go with those talents?
+- [00:55:49,465 - 00:55:50,465] You're five.
+- [00:55:50,465 - 00:55:51,766] What happened?
+- [00:55:51,766 - 00:55:54,706] That servant said, well, I took the five talents
+- [00:55:54,706 - 00:55:57,646] you gave me and I put them to work.
+- [00:55:57,646 - 00:55:58,876] Little shaky at first, but
+- [00:55:58,876 - 00:56:00,106] he said, things finally got rolling.
+- [00:56:00,106 - 00:56:01,745] And he said, I poured it on.
+- [00:56:01,745 - 00:56:02,445] And he said, my talents
+- [00:56:02,445 - 00:56:03,146] grew to seven, eight, nine, ten.
+- [00:56:03,146 - 00:56:04,146] That's what he said.
+- [00:56:04,146 - 00:56:08,206] He said, I doubled my talents from five to ten.
+- [00:56:08,206 - 00:56:09,206] Books will show.
+- [00:56:09,206 - 00:56:13,796] Master said, one heck of
+- [00:56:13,796 - 00:56:18,386] a job or something like that.
+- [00:56:18,386 - 00:56:19,786] He said, I gave you two talents.
+- [00:56:19,786 - 00:56:20,786] What happened?
+- [00:56:20,786 - 00:56:23,185] That servant said about the same thing happened to me.
+- [00:56:23,185 - 00:56:25,306] I put those two talents to work, poured it on.
+- [00:56:25,306 - 00:56:26,766] They grew to three and then to four.
+- [00:56:26,766 - 00:56:29,226] He said, I doubled my talents from two to four.
+- [00:56:29,226 - 00:56:30,226] Books will show.
+- [00:56:30,226 - 00:56:31,146] Master said, well done.
+- [00:56:31,146 - 00:56:32,146] He said, I gave you two talents.
+- [00:56:32,146 - 00:56:33,146] What happened?
+- [00:56:33,146 - 00:56:37,386] He said, I gave you one talent.
+- [00:56:37,386 - 00:56:38,506] What happened?
+- [00:56:38,506 - 00:56:41,526] That servant said, well, I took the talents
+- [00:56:41,526 - 00:56:44,546] you gave me and I carefully wrapped it and
+- [00:56:44,546 - 00:56:47,846] I dug a hole and buried
+- [00:56:47,846 - 00:56:51,146] it and camouflaged it, I suppose.
+- [00:56:51,146 - 00:56:53,065] So nobody would steal it.
+- [00:56:53,065 - 00:56:57,046] And he said, fortunately, nobody got it.
+- [00:56:57,046 - 00:56:57,775] And he said, I knew you
+- [00:56:57,775 - 00:56:58,505] were going to be here today.
+- [00:56:58,505 - 00:56:59,505] So I dug it up.
+- [00:56:59,505 - 00:57:01,526] Here it is safely wrapped.
+- [00:57:01,526 - 00:57:03,146] I did not lose it.
+- [00:57:03,146 - 00:57:04,466] There's no way around it.
+- [00:57:04,466 - 00:57:05,466] It's safe.
+- [00:57:05,466 - 00:57:06,466] I'm not going to do this anymore.
+- [00:57:06,466 - 00:57:07,466] And he took his six talents while you were gone.
+- [00:57:07,466 - 00:57:11,966] According to the ancient story, the master said,
+- [00:57:11,966 - 00:57:16,466] take that talent away from him and give
+- [00:57:16,466 - 00:57:22,326] it to the man that's got 10.
+- [00:57:22,326 - 00:57:26,326] Now you might say, well, I don't like that arrangement.
+- [00:57:26,326 - 00:57:29,566] The poor guy's only got one talent.
+- [00:57:29,566 - 00:57:31,426] He's already got 10.
+- [00:57:31,426 - 00:57:32,426] Yeah.
+- [00:57:32,426 - 00:57:33,026] Yeah.
+- [00:57:33,146 - 00:57:38,026] more even. Remember, I didn't ask you to like
+- [00:57:38,026 - 00:57:42,906] it, but this one I would ask you to
+- [00:57:42,906 - 00:57:48,346] learn because it simply means whatever you
+- [00:57:48,346 - 00:57:53,786] do not employ, you forfeit. It's a law.
+- [00:57:53,786 - 00:57:56,886] So learn well the law of use. Now
+- [00:57:56,886 - 00:57:59,986] here's the second one and we're gonna take our
+- [00:57:59,986 - 00:58:04,006] break. Second law from the Bible. This
+- [00:58:04,006 - 00:58:08,026] one we've heard since we were small, I'm
+- [00:58:08,026 - 00:58:13,276] sure. It's called the law of sowing
+- [00:58:13,276 - 00:58:18,526] and reaping. In fact, we've probably heard it
+- [00:58:18,526 - 00:58:23,486] so often we could quote it. It
+- [00:58:23,486 - 00:58:28,446] says, whatever you sow, what? You shall reap.
+- [00:58:28,446 - 00:58:28,466] You shall reap.
+- [00:58:29,986 - 00:58:33,006] Fairly blunt, hopefully clear. Here's my first
+- [00:58:33,006 - 00:58:36,026] suggestion on the law of sowing and reaping.
+- [00:58:36,686 - 00:58:40,026] Don't try to beat it. You might as well
+- [00:58:40,026 - 00:58:43,366] try sitting on the sun in the morning. Keep it
+- [00:58:43,366 - 00:58:47,826] from coming up. You'll have better luck. Whatever you
+- [00:58:47,826 - 00:58:52,286] sow, you reap. Now for a fair share of my
+- [00:58:52,286 - 00:58:54,245] life, I'm a bit mixed up on how all this
+- [00:58:54,245 - 00:58:56,205] applies among a lot of things I was mixed up on.
+- [00:58:57,885 - 00:58:58,925] I knew I wasn't reaping too much. I knew I
+- [00:58:58,925 - 00:58:59,966] wasn't reaping too much. I knew I wasn't reaping too
+- [00:58:59,986 - 00:59:02,756] good. That I understood. My problem was
+- [00:59:02,756 - 00:59:05,526] I was confused about what was causing it.
+- [00:59:06,765 - 00:59:08,725] Remember me with the funny list? I thought those
+- [00:59:08,725 - 00:59:10,686] are the reasons why it isn't working out well.
+- [00:59:11,325 - 00:59:13,945] And then Mr. Shoaff gave me the clue that helped
+- [00:59:13,945 - 00:59:16,566] me figure it all out. He said, Mr. Ohn, I have
+- [00:59:16,566 - 00:59:19,486] another answer for you. There's another way to
+- [00:59:19,486 - 00:59:22,406] quote this law that'll show you where the problem
+- [00:59:22,406 - 00:59:24,346] is so you can go to work on it right away. All
+- [00:59:24,346 - 00:59:26,286] you need to know is where the problem is, then you can
+- [00:59:26,286 - 00:59:26,596] go to work on it. So he quoted me the law another
+- [00:59:26,596 - 00:59:26,906] way and I said, well, I'm gonna go to work on it.
+- [00:59:26,906 - 00:59:26,966] And he said, well, I'm gonna go to work on it.
+- [00:59:26,966 - 00:59:27,026] And I said, well, I'm gonna go to work on it.
+- [00:59:27,026 - 00:59:27,066] And he said, well, I'm gonna go to work on it.
+- [00:59:27,066 - 00:59:27,106] And I said, well, I'm gonna go to work on it.
+- [00:59:27,106 - 00:59:29,546] So he quoted me the law another way and I
+- [00:59:29,546 - 00:59:31,986] found out what my problem was. Here's the way you quote
+- [00:59:31,986 - 00:59:39,146] the law. Whatever you reap is what you've sown.
+- [00:59:39,146 - 00:59:46,306] Now I knew what my problem was. Whatever you reap
+- [00:59:46,306 - 00:59:50,586] is what you've sown. If you don't like the
+- [00:59:50,586 - 00:59:54,866] crop, who do you look up? Answer, whoever planted it.
+- [00:59:57,106 - 00:59:59,206] And where do you find who
+- [00:59:59,206 - 01:00:01,306] planted your crop? Answer, in the mirror.
+- [01:00:04,406 - 01:00:06,536] What I finally learned to do come fall was
+- [01:00:06,536 - 01:00:08,666] to go to the mirror. That's where you go.
+- [01:00:09,966 - 01:00:13,456] And if necessary, you say, a few
+- [01:00:13,456 - 01:00:16,946] skinny carrots. I got to be unimpressed.
+- [01:00:18,246 - 01:00:22,156] Where were you last spring? Asleep. Didn't you
+- [01:00:22,156 - 01:00:26,066] read the books? Did you break your hoe?
+- [01:00:27,106 - 01:00:30,636] Let me give you seven key points to the
+- [01:00:30,636 - 01:00:34,166] law of sowing and reaping. Let's tick right down
+- [01:00:34,166 - 01:00:38,256] through the list of seven and it'll be
+- [01:00:38,256 - 01:00:42,346] break time. Seven points to sowing and reaping. Here's
+- [01:00:42,346 - 01:00:43,946] part of the philosophy that really helped
+- [01:00:43,946 - 01:00:45,546] me to make some changes in life direction.
+- [01:00:46,466 - 01:00:49,286] Number one, the law of sowing and reaping is negative.
+- [01:00:51,566 - 01:00:54,106] That's number one, which simply means
+- [01:00:54,106 - 01:00:56,646] if you sow bad, you reap bad.
+- [01:00:57,986 - 01:00:59,685] Now, this is kind of third grade, but
+- [01:00:59,685 - 01:01:01,385] it doesn't hurt to go over the basics.
+- [01:01:03,606 - 01:01:07,006] If you plant thistle seeds, you don't get pumpkins.
+- [01:01:08,966 - 01:01:11,525] Honest, no use looking for pumpkins.
+- [01:01:11,525 - 01:01:14,085] John says, how come no pumpkins?
+- [01:01:15,666 - 01:01:20,026] Come on, John. The law's negative. That's
+- [01:01:20,026 - 01:01:24,386] outcome. Now, here's number two, the law's positive.
+- [01:01:26,446 - 01:01:26,706] What does that mean? It means
+- [01:01:26,706 - 01:01:26,966] you're not going to reap. That's positive.
+- [01:01:26,966 - 01:01:29,566] simply means if you sow good, you reap good.
+- [01:01:29,566 - 01:01:32,166] If you plant pumpkin seeds, you don't get thistles.
+- [01:01:32,946 - 01:01:35,855] Not from pumpkin seeds. Mother Nature won't pull tricks
+- [01:01:35,855 - 01:01:38,765] on you or in the corner snicker and push
+- [01:01:38,765 - 01:01:41,045] new thistles and you plant pumpkin seeds. She
+- [01:01:41,045 - 01:01:43,326] won't do that. You will get pumpkins from pumpkin
+- [01:01:43,326 - 01:01:46,756] seeds. And the reason is because the law
+- [01:01:46,756 - 01:01:50,186] is positive. Now here's number three. I got excited
+- [01:01:50,186 - 01:01:53,756] when I found out the full dimension of this.
+- [01:01:53,756 - 01:01:57,326] See, you do not reap what you sow, but rather
+- [01:01:57,326 - 01:02:01,796] you always reap much more than what you
+- [01:02:01,796 - 01:02:06,266] sow. So the third key word is more.
+- [01:02:09,326 - 01:02:13,196] You don't get back what you put out. You
+- [01:02:13,196 - 01:02:17,066] get back much more than what you put out.
+- [01:02:17,566 - 01:02:20,166] And it works both positively.
+- [01:02:20,186 - 01:02:21,766] Positive and negative.
+- [01:02:25,186 - 01:02:28,066] On the negative side, it said, if you
+- [01:02:28,066 - 01:02:30,946] sow to the wind, you reap the whirlwind.
+- [01:02:31,886 - 01:02:33,096] So you've got to get ready
+- [01:02:33,096 - 01:02:34,306] for that or you will be naive.
+- [01:02:36,186 - 01:02:38,726] See, anybody can, whether you will
+- [01:02:38,726 - 01:02:41,266] or not. See, that's the question.
+- [01:02:42,206 - 01:02:44,956] And here's a good question to ask. We
+- [01:02:44,956 - 01:02:47,706] are all buying somebody's plan. The question is,
+- [01:02:47,985 - 01:02:48,586] who's?
+- [01:02:49,446 - 01:02:50,186] Who's got?
+- [01:02:50,186 - 01:02:52,856] you talked into doing what you're doing
+- [01:02:52,856 - 01:02:55,526] who's got you talked into your present
+- [01:02:55,526 - 01:03:00,436] plan see ten years from now you
+- [01:03:00,436 - 01:03:05,346] will surely arrive the question is where but
+- [01:03:05,346 - 01:03:07,066] see anybody if you want to can go
+- [01:03:07,066 - 01:03:08,786] searching for a good plan pick it and
+- [01:03:08,786 - 01:03:10,606] start working it and sure enough as the
+- [01:03:10,606 - 01:03:12,426] time passes as it surely will five years
+- [01:03:12,426 - 01:03:13,866] from now ten years from now then you'll
+- [01:03:13,866 - 01:03:15,306] be winding up wearing what you want to
+- [01:03:15,306 - 01:03:16,786] wear driving what you want to drive
+- [01:03:16,786 - 01:03:18,266] living where you want to live become
+- [01:03:18,266 - 01:03:20,956] what you want to become but now is the
+- [01:03:20,956 - 01:03:23,646] time to fix the next ten years and who
+- [01:03:23,646 - 01:03:29,506] can in the body here's number six the
+- [01:03:29,506 - 01:03:35,366] sixth key to sowing and reaping this is
+- [01:03:35,366 - 01:03:37,316] leveling with you now as we promised
+- [01:03:37,316 - 01:03:39,266] to do there's one thing better than the
+- [01:03:39,266 - 01:03:41,826] truth and that's the whole truth and
+- [01:03:41,826 - 01:03:44,386] here's part of the whole truth of the
+- [01:03:44,386 - 01:03:46,276] law of sowing and reaping
+- [01:03:46,276 - 01:03:48,166] number six is you could lose
+- [01:03:48,166 - 01:03:48,246] you could lose
+- [01:03:48,266 - 01:03:51,796] there are times when you just lose no
+- [01:03:51,796 - 01:03:55,326] matter what you do it's that kind of
+- [01:03:55,326 - 01:04:01,016] planet you reap what you sow yes but
+- [01:04:01,016 - 01:04:06,706] what does that mean yes but well the
+- [01:04:06,706 - 01:04:08,796] farmer plants his crop in the spring
+- [01:04:08,796 - 01:04:10,886] takes care of it all summer loves his
+- [01:04:10,886 - 01:04:13,996] family works 10 12 hours a day six
+- [01:04:13,996 - 01:04:17,106] seven days a week is an honorable man come
+- [01:04:17,106 - 01:04:17,676] fall he's got to do it all he's got to do it
+- [01:04:17,676 - 01:04:18,246] all he's got to do it all he's got to do it all
+- [01:04:18,266 - 01:04:18,566] he's got to do it all he's got to do it all he's got to
+- [01:04:18,566 - 01:04:18,866] do it all he's got to do it all he's got to do it all
+- [01:04:18,866 - 01:04:20,446] it for his family and for his son he has
+- [01:04:20,446 - 01:04:22,026] the power to do it all when he's got a
+- [01:04:22,026 - 01:04:24,916] beautiful crop and he deserves every bit of
+- [01:04:24,916 - 01:04:27,806] it but the day before he sins the
+- [01:04:27,806 - 01:04:30,686] combines into the field a hail storm
+- [01:04:30,686 - 01:04:33,566] comes along and beats it all in the
+- [01:04:33,566 - 01:04:38,506] ground which means you lose somebody says
+- [01:04:38,506 - 01:04:43,446] well what did he do wrong answer
+- [01:04:43,446 - 01:04:47,806] nothing it's just that kind of planet
+- [01:04:48,266 - 01:04:50,426] and rain on your parade.
+- [01:04:50,766 - 01:04:52,326] So you got to get ready for that
+- [01:04:52,326 - 01:04:53,246] or you will be naive.
+- [01:04:53,926 - 01:04:56,426] That's just part of the life arrangement.
+- [01:04:57,486 - 01:04:58,446] And don't press me.
+- [01:04:58,506 - 01:04:58,826] Why?
+- [01:04:59,526 - 01:05:00,576] I was not in on
+- [01:05:00,576 - 01:05:01,626] some of the original decisions here,
+- [01:05:01,646 - 01:05:03,026] so I don't know how it got set up.
+- [01:05:04,146 - 01:05:05,246] But there's just time.
+- [01:05:05,366 - 01:05:06,326] Sometimes you lose.
+- [01:05:06,406 - 01:05:07,186] That's part of life.
+- [01:05:07,646 - 01:05:08,706] But now here's number seven.
+- [01:05:09,746 - 01:05:11,546] The seventh key to sowing and reaping.
+- [01:05:14,146 - 01:05:15,186] And it goes like this.
+- [01:05:15,206 - 01:05:16,846] It's just another way to quote the same law.
+- [01:05:17,206 - 01:05:18,246] And it goes like this.
+- [01:05:19,246 - 01:05:24,126] If you don't sow,
+- [01:05:25,046 - 01:05:28,866] that's just another way to quote the law.
+- [01:05:29,226 - 01:05:31,166] If you don't sow, what?
+- [01:05:32,086 - 01:05:33,306] You don't reap.
+- [01:05:33,386 - 01:05:36,446] You don't even have a chance.
+- [01:05:39,886 - 01:05:42,006] So if you looked at your game plan tomorrow,
+- [01:05:42,006 - 01:05:43,346] you might come to the quick conclusion.
+- [01:05:43,466 - 01:05:44,866] I got to get some sowing going.
+- [01:05:45,486 - 01:05:46,566] How true.
+- [01:05:47,546 - 01:05:48,246] Get you some sowing.
+- [01:05:48,346 - 01:05:49,046] Sowing going.
+- [01:05:50,186 - 01:05:52,686] And remember, you've got plenty of time.
+- [01:05:53,046 - 01:05:55,026] You've got all the time there is.
+- [01:05:56,166 - 01:05:58,526] Some people spend enough TV time to make a fortune.
+- [01:06:01,486 - 01:06:04,046] The latest article on television watching in this country,
+- [01:06:04,206 - 01:06:05,226] according to the latest article,
+- [01:06:05,326 - 01:06:07,346] the average television is on in this country
+- [01:06:07,346 - 01:06:10,206] in every household seven hours a day
+- [01:06:10,206 - 01:06:12,126] called the big seven.
+- [01:06:15,126 - 01:06:17,346] I asked a guy one time what his TV cost.
+- [01:06:17,346 - 01:06:19,346] He said about $450.
+- [01:06:19,346 - 01:06:23,346] I said, you forgot to look at the price tag.
+- [01:06:23,346 - 01:06:25,346] He said, what do you mean?
+- [01:06:25,346 - 01:06:27,346] I knew he was a TV watcher.
+- [01:06:27,346 - 01:06:30,346] I said that television cost you, in my opinion,
+- [01:06:30,346 - 01:06:33,346] at least $12,000 a year.
+- [01:06:33,346 - 01:06:37,346] To watch it, not to own it.
+- [01:06:37,346 - 01:06:40,346] Owning it's cheap.
+- [01:06:40,346 - 01:06:42,346] Watching it is what's expensive.
+- [01:06:42,346 - 01:06:44,346] And I said, hey, 12,000 a year
+- [01:06:44,346 - 01:06:46,346] is too much to pay to watch TV.
+- [01:06:46,346 - 01:06:47,265] That's too much.
+- [01:06:47,266 - 01:06:50,266] Pay a little, but not 12,000.
+- [01:06:50,266 - 01:06:52,766] And he's the guy that said,
+- [01:06:52,766 - 01:06:55,266] I hope pay TV never comes.
+- [01:06:55,266 - 01:07:03,266] Okay.
+- [01:07:03,266 - 01:07:06,266] We're trying to cover an awful lot tonight.
+- [01:07:06,266 - 01:07:07,266] I realize that.
+- [01:07:07,266 - 01:07:09,766] But my time schedule is such
+- [01:07:09,766 - 01:07:12,266] that we just have to sort of
+- [01:07:12,266 - 01:07:13,766] give it all to you and
+- [01:07:13,766 - 01:07:15,266] let you sort the rest out.
+- [01:07:15,266 - 01:07:16,266] I wish we had plenty of time.
+- [01:07:16,266 - 01:07:17,266] I wish we had plenty
+- [01:07:17,266 - 01:07:18,266] of time for questions and answers
+- [01:07:18,266 - 01:07:19,266] and that whole thing.
+- [01:07:19,266 - 01:07:21,266] But our time is just limited.
+- [01:07:21,266 - 01:07:23,266] But we are trying to go through an awful lot.
+- [01:07:23,266 - 01:07:25,266] I realize that.
+- [01:07:25,266 - 01:07:27,266] But it looks like everybody's getting it.
+- [01:07:27,266 - 01:07:28,766] This is about the note-takingest crowd
+- [01:07:28,766 - 01:07:30,266] I've seen in a long time.
+- [01:07:30,266 - 01:07:31,266] Incredible.
+- [01:07:31,266 - 01:07:33,266] Does anybody have five pages yet?
+- [01:07:33,266 - 01:07:34,266] Anybody?
+- [01:07:34,266 - 01:07:36,266] Oh, fantastic.
+- [01:07:36,266 - 01:07:39,266] Incredible.
+- [01:07:39,266 - 01:07:43,266] Okay.
+- [01:07:43,266 - 01:07:44,266] Maybe you heard the story
+- [01:07:44,266 - 01:07:45,266] about the preacher down in Texas.
+- [01:07:45,266 - 01:07:47,266] Southern part of the country.
+- [01:07:47,266 - 01:07:49,766] He was an evangelist back
+- [01:07:49,766 - 01:07:52,266] in the horse and buggy days.
+- [01:07:52,266 - 01:07:56,266] And he was very good at being an evangelist.
+- [01:07:56,266 - 01:07:57,266] And a lot of people used
+- [01:07:57,266 - 01:07:58,266] to come and hear him preach.
+- [01:07:58,266 - 01:07:59,766] And one day he put up his
+- [01:07:59,766 - 01:08:01,266] tent in one of these Texas towns
+- [01:08:01,266 - 01:08:02,766] and expected a big crowd
+- [01:08:02,766 - 01:08:04,266] as usual, come here and preach.
+- [01:08:04,266 - 01:08:05,266] And he got there.
+- [01:08:05,266 - 01:08:06,266] First night of the tent revival.
+- [01:08:06,266 - 01:08:07,266] Walked in.
+- [01:08:09,266 - 01:08:10,266] Time to start.
+- [01:08:10,266 - 01:08:13,266] And to his surprise, the tent was empty.
+- [01:08:13,266 - 01:08:14,266] And he was in a hurry.
+- [01:08:14,266 - 01:08:19,265] He thought, well, something must be drastically wrong.
+- [01:08:19,265 - 01:08:21,265] So he waited till quarter to eight.
+- [01:08:21,265 - 01:08:22,265] Nobody showed up.
+- [01:08:22,265 - 01:08:23,265] Eight o'clock.
+- [01:08:23,265 - 01:08:24,265] Zip.
+- [01:08:24,265 - 01:08:26,265] Finally.
+- [01:08:28,265 - 01:08:30,265] One lone cowboy.
+- [01:08:30,265 - 01:08:32,265] Wandered up on his horse.
+- [01:08:32,265 - 01:08:33,265] Tied his horse up outside.
+- [01:08:33,265 - 01:08:34,265] Came in.
+- [01:08:34,265 - 01:08:36,265] Sat down on the front bench.
+- [01:08:36,265 - 01:08:37,265] Right?
+- [01:08:37,265 - 01:08:38,265] Waiting for something to happen.
+- [01:08:38,265 - 01:08:40,265] The preacher thought, well, at least I
+- [01:08:40,265 - 01:08:42,265] better go down and talk to the cowboy.
+- [01:08:42,265 - 01:08:43,265] So he walks down.
+- [01:08:43,265 - 01:08:44,265] Talks to the cowboy.
+- [01:08:44,265 - 01:08:48,265] And he says, cowboy, I'm the preacher.
+- [01:08:48,265 - 01:08:51,265] And he said, I don't know what to tell you.
+- [01:08:51,265 - 01:08:52,265] Something's gone wrong.
+- [01:08:52,265 - 01:08:53,765] He said this tent was
+- [01:08:53,765 - 01:08:55,265] supposed to be full of people.
+- [01:08:55,265 - 01:08:57,265] He said, I'm embarrassed.
+- [01:08:57,265 - 01:09:00,265] He said, you're the only one that showed up.
+- [01:09:00,265 - 01:09:03,265] And he said, I really don't know what to do.
+- [01:09:03,265 - 01:09:05,265] And the cowboy said, well, I'm not a preacher,
+- [01:09:05,265 - 01:09:07,265] so I really can't tell you what to do.
+- [01:09:07,265 - 01:09:09,265] You know, he said, I'm just a cowboy.
+- [01:09:09,265 - 01:09:10,265] But he said, I know this.
+- [01:09:10,265 - 01:09:11,265] If I went out to feed
+- [01:09:11,265 - 01:09:12,265] my cattle and only one showed up.
+- [01:09:12,265 - 01:09:16,265] I'd at least feed it.
+- [01:09:16,265 - 01:09:20,265] The preacher thought, hey, the cowboy is right.
+- [01:09:20,265 - 01:09:21,765] If you've got a good idea
+- [01:09:21,765 - 01:09:23,265] to share, you should share it.
+- [01:09:23,265 - 01:09:26,265] If there's one or a thousand.
+- [01:09:26,265 - 01:09:29,265] So he got kind of inspired by this conversation.
+- [01:09:29,265 - 01:09:32,265] And he jumped up on the platform, started to preach.
+- [01:09:32,265 - 01:09:33,265] As if the tent was full of people.
+- [01:09:33,265 - 01:09:35,265] Just exploded.
+- [01:09:35,265 - 01:09:37,265] And he went for an hour.
+- [01:09:37,265 - 01:09:38,265] Hour and 15 minutes.
+- [01:09:38,265 - 01:09:39,265] Just kept rolling.
+- [01:09:39,265 - 01:09:41,265] Finally, he quit.
+- [01:09:42,265 - 01:09:44,265] And when he finished, he came down
+- [01:09:44,265 - 01:09:46,265] off the platform, talked to the cowboy again.
+- [01:09:46,265 - 01:09:49,265] Says, well, cowboy, what did you think of my sermon?
+- [01:09:49,265 - 01:09:51,265] And the cowboy said, well, I'm not
+- [01:09:51,265 - 01:09:53,265] a preacher, so I really can't tell.
+- [01:09:53,265 - 01:09:55,265] You know, he said, I'm just a cowboy.
+- [01:09:55,265 - 01:09:56,265] But he said, I know this.
+- [01:09:56,265 - 01:09:57,765] If I went out to feed
+- [01:09:57,765 - 01:09:59,265] my cattle and only one showed up.
+- [01:09:59,265 - 01:10:00,265] I'd feed it.
+- [01:10:00,265 - 01:10:03,265] But I wouldn't dump the whole load on it.
+- [01:10:08,266 - 01:10:10,266] So anyway.
+- [01:10:10,266 - 01:10:11,766] If it seems like we're dumping the
+- [01:10:11,766 - 01:10:13,266] whole load tonight, I guess we are.
+- [01:10:13,266 - 01:10:15,266] But gosh, everybody's doing well.
+- [01:10:15,266 - 01:10:16,266] I'm having a good time.
+- [01:10:16,266 - 01:10:18,266] I appreciate the response here tonight.
+- [01:10:18,266 - 01:10:19,266] Okay.
+- [01:10:19,266 - 01:10:21,266] The next subject is setting goals.
+- [01:10:24,266 - 01:10:25,766] Let me show you what turned
+- [01:10:25,766 - 01:10:27,266] my life every way but loose.
+- [01:10:28,266 - 01:10:30,266] Mr. Shoeff dropped this idea on me.
+- [01:10:30,266 - 01:10:32,266] Changed me completely.
+- [01:10:34,266 - 01:10:35,266] Setting goals.
+- [01:10:36,266 - 01:10:39,266] Here's what can easily happen if you don't set goals.
+- [01:10:40,266 - 01:10:44,266] It's easy to let life deteriorate into making a living.
+- [01:10:46,266 - 01:10:48,266] Instead of designing a life.
+- [01:10:48,266 - 01:10:50,266] And we all have a choice.
+- [01:10:50,266 - 01:10:53,266] Make a living or design a life.
+- [01:10:57,266 - 01:11:01,266] It's easy to get trapped by economic
+- [01:11:01,266 - 01:11:05,266] necessity and settle for existence rather than substance.
+- [01:11:05,266 - 01:11:06,266] That's easy.
+- [01:11:07,266 - 01:11:08,766] But the best advice I can give you
+- [01:11:08,766 - 01:11:10,266] on how to break out of that trap.
+- [01:11:10,266 - 01:11:12,266] Is to learn how to set goals.
+- [01:11:14,266 - 01:11:16,266] Mr. Shoeff put it to me this way.
+- [01:11:16,266 - 01:11:19,266] He said, Jim, if you had enough reasons.
+- [01:11:19,266 - 01:11:21,266] You could do the most incredible things.
+- [01:11:21,266 - 01:11:23,266] I never forgot.
+- [01:11:23,266 - 01:11:24,266] How he put that.
+- [01:11:24,266 - 01:11:29,266] If you have enough reasons.
+- [01:11:31,266 - 01:11:34,266] See, reasons will change your whole life.
+- [01:11:37,266 - 01:11:38,266] Mr. Shoeff said to me, he said, Mr. Rohn.
+- [01:11:38,266 - 01:11:39,266] I think you've got plenty of energy.
+- [01:11:39,266 - 01:11:40,266] I think you've got plenty of intelligence.
+- [01:11:40,266 - 01:11:41,266] You've got plenty of talent.
+- [01:11:41,266 - 01:11:43,266] You've got plenty of ability.
+- [01:11:43,266 - 01:11:46,266] Probably what you lack is plenty of reasons.
+- [01:11:48,266 - 01:11:51,266] He said, I don't think your current bank balance
+- [01:11:51,266 - 01:11:54,266] is a true indication of your level of intelligence.
+- [01:11:55,266 - 01:11:57,266] I was happy to hear that.
+- [01:11:58,266 - 01:12:00,266] He said, I think you're much
+- [01:12:00,266 - 01:12:02,266] smarter than your present bank balance indicates.
+- [01:12:03,266 - 01:12:04,266] And that turned out to be true.
+- [01:12:04,266 - 01:12:06,266] I was much smarter.
+- [01:12:07,266 - 01:12:08,266] But of course, my first question was.
+- [01:12:08,266 - 01:12:10,266] Well, then why isn't it bigger?
+- [01:12:10,266 - 01:12:14,266] And he said, you don't have enough reasons.
+- [01:12:15,266 - 01:12:17,266] You've got enough intelligence.
+- [01:12:18,266 - 01:12:19,266] But not enough reasons.
+- [01:12:20,266 - 01:12:22,266] So see, reasons can change your life.
+- [01:12:23,266 - 01:12:24,266] Here's what else I found out.
+- [01:12:24,266 - 01:12:26,266] Reasons come first.
+- [01:12:26,266 - 01:12:28,266] Answers come second.
+- [01:12:29,266 - 01:12:31,766] You don't get the answers to
+- [01:12:31,766 - 01:12:34,266] do well till you get the reasons.
+- [01:12:34,266 - 01:12:39,266] Life has a mysterious way of hanging on to all the answers
+- [01:12:39,266 - 01:12:44,266] and only gives them up to the people that are inspired by reasons.
+- [01:12:45,266 - 01:12:46,766] So reasons make the difference
+- [01:12:46,766 - 01:12:48,266] in how your life works out.
+- [01:12:49,266 - 01:12:51,266] Now, what are some of the reasons for doing well?
+- [01:12:51,266 - 01:12:52,766] Let's go through a quick
+- [01:12:52,766 - 01:12:54,266] list called reasons for doing well.
+- [01:12:57,266 - 01:12:59,266] First is personal reasons.
+- [01:13:00,266 - 01:13:02,266] Some people do well for recognition.
+- [01:13:02,266 - 01:13:04,266] Some people do well for respect.
+- [01:13:05,266 - 01:13:07,266] Some people do well for
+- [01:13:07,266 - 01:13:09,266] the way it makes them feel.
+- [01:13:10,266 - 01:13:12,266] They love the feeling of being a winner.
+- [01:13:13,266 - 01:13:14,266] Those are good reasons.
+- [01:13:17,266 - 01:13:19,766] I have some millionaire friends that keep working
+- [01:13:19,766 - 01:13:22,266] 10, 12 hours a day making more millions.
+- [01:13:25,266 - 01:13:28,266] And it's not because they need the money.
+- [01:13:29,266 - 01:13:31,266] It's because they need the joy.
+- [01:13:32,266 - 01:13:35,266] And the satisfaction and the pleasure
+- [01:13:35,266 - 01:13:38,266] that comes from being a constant winner.
+- [01:13:40,266 - 01:13:42,266] And see, it's not just the money anyway.
+- [01:13:42,266 - 01:13:44,266] It's the journey, not the money.
+- [01:13:46,266 - 01:13:48,266] Once in a while somebody says to me,
+- [01:13:48,266 - 01:13:49,766] Boy, if I had a million dollars,
+- [01:13:49,766 - 01:13:51,266] I'd never work another day in my life.
+- [01:13:51,266 - 01:13:53,266] That's probably why the good Lord sees
+- [01:13:53,266 - 01:13:55,266] to it they don't get their million.
+- [01:13:55,266 - 01:13:58,266] They'd quit. They'd quit.
+- [01:14:02,266 - 01:14:03,266] Okay.
+- [01:14:03,266 - 01:14:05,266] Next is family reasons.
+- [01:14:05,266 - 01:14:08,266] Some people do extremely well for other people.
+- [01:14:08,266 - 01:14:10,266] And that's powerful.
+- [01:14:10,266 - 01:14:15,266] Human beings can greatly affect each other.
+- [01:14:16,266 - 01:14:18,766] Sometimes we will do things for somebody
+- [01:14:18,766 - 01:14:21,266] else we will not do for ourselves.
+- [01:14:22,266 - 01:14:23,266] We are made that way.
+- [01:14:26,266 - 01:14:27,266] I met a man one time who said,
+- [01:14:27,266 - 01:14:28,766] Mr. Rohn, to do all the things I
+- [01:14:28,766 - 01:14:30,266] want to do with my family around the world,
+- [01:14:30,266 - 01:14:31,266] he said,
+- [01:14:31,266 - 01:14:32,766] I got to have at least a
+- [01:14:32,766 - 01:14:34,266] quarter of a million dollars a year.
+- [01:14:35,266 - 01:14:38,266] I thought, incredible.
+- [01:14:40,266 - 01:14:44,266] Could a guy's family affect him that much?
+- [01:14:44,266 - 01:14:46,266] And the answer is,
+- [01:14:46,266 - 01:14:48,266] Of course.
+- [01:14:49,266 - 01:14:52,266] How fortunate are the people that
+- [01:14:52,266 - 01:14:55,266] find themselves greatly affected by somebody
+- [01:14:56,266 - 01:14:58,266] for personal achievement.
+- [01:14:58,266 - 01:15:02,266] And we are affected.
+- [01:15:03,266 - 01:15:05,266] The writer of a recent song said,
+- [01:15:05,266 - 01:15:07,266] If not for you,
+- [01:15:08,266 - 01:15:10,266] the winter would hold no spring.
+- [01:15:10,266 - 01:15:12,266] Couldn't hear a robin sing.
+- [01:15:13,266 - 01:15:17,266] I just wouldn't have a clue if not for you.
+- [01:15:18,266 - 01:15:20,266] So we can be affected.
+- [01:15:20,266 - 01:15:21,766] That might be one of the
+- [01:15:21,766 - 01:15:23,266] most stimulating reasons to do well,
+- [01:15:23,266 - 01:15:25,266] finding somebody.
+- [01:15:25,266 - 01:15:26,266] Somebody.
+- [01:15:27,266 - 01:15:29,266] When Andrew Carnegie died,
+- [01:15:30,266 - 01:15:32,266] the wee little Scotsman that built the big steel industry,
+- [01:15:32,266 - 01:15:35,266] when he died, they opened up his desk.
+- [01:15:35,266 - 01:15:36,766] And in one of the desk
+- [01:15:36,766 - 01:15:38,266] drawers, they found a slip of paper.
+- [01:15:38,266 - 01:15:40,766] On that piece of paper, Mr. Carnegie
+- [01:15:40,766 - 01:15:43,266] had written his goal for his life.
+- [01:15:43,266 - 01:15:46,266] And he wrote it when he was in his twenties.
+- [01:15:48,266 - 01:15:50,266] And on that piece of paper, it said,
+- [01:15:51,266 - 01:15:52,766] I'm going to spend the first
+- [01:15:52,766 - 01:15:54,266] half of my life accumulating money.
+- [01:15:54,266 - 01:15:57,266] I'm going to spend the last half
+- [01:15:57,266 - 01:16:00,266] of my life giving it all away.
+- [01:16:03,266 - 01:16:04,266] What a goal.
+- [01:16:05,266 - 01:16:06,766] He got so inspired by that goal
+- [01:16:06,766 - 01:16:08,266] that the first half of his life,
+- [01:16:08,266 - 01:16:11,266] he accumulated $450 million.
+- [01:16:12,266 - 01:16:15,266] And the last half of his
+- [01:16:15,266 - 01:16:18,266] life, he gave it all away.
+- [01:16:20,266 - 01:16:21,266] Good question tonight.
+- [01:16:21,266 - 01:16:23,266] What's got you turned on?
+- [01:16:24,266 - 01:16:26,266] What's got you bombed out of sight
+- [01:16:26,266 - 01:16:28,266] to get up early and stay up late
+- [01:16:28,266 - 01:16:29,266] and hit it all day?
+- [01:16:33,266 - 01:16:34,266] Next question.
+- [01:16:35,266 - 01:16:37,266] What's got you turned off?
+- [01:16:41,266 - 01:16:43,266] When I found the answers to those two questions,
+- [01:16:43,266 - 01:16:45,266] my life exploded into change.
+- [01:16:45,266 - 01:16:47,266] I finally found out what had me
+- [01:16:47,266 - 01:16:49,266] turned off and I got that cured.
+- [01:16:49,266 - 01:16:51,266] And then I got me a long
+- [01:16:51,266 - 01:16:53,266] enough list of reasons to turn me on.
+- [01:16:54,266 - 01:16:56,266] And once the lights went on for
+- [01:16:56,266 - 01:16:58,266] me, age 25, they've never gone out.
+- [01:16:59,266 - 01:17:01,266] I've fallen out of the sky a few times,
+- [01:17:01,266 - 01:17:03,266] but I've never lost that drive to
+- [01:17:03,266 - 01:17:05,266] make something unique out of my life.
+- [01:17:05,266 - 01:17:08,266] See, reasons altered my whole life.
+- [01:17:11,266 - 01:17:15,266] Now there's another list of reasons called nitty gritty.
+- [01:17:17,266 - 01:17:19,266] Hard little reasons.
+- [01:17:19,266 - 01:17:21,266] Sometimes those little reasons are the most
+- [01:17:21,266 - 01:17:23,266] powerful reasons that can change your life.
+- [01:17:24,266 - 01:17:27,266] Sometimes it doesn't take much.
+- [01:17:29,266 - 01:17:33,266] I now carry several hundred dollars in my money clip.
+- [01:17:34,266 - 01:17:36,266] It's only a few hundred dollars,
+- [01:17:36,266 - 01:17:37,766] but it was one of
+- [01:17:37,766 - 01:17:39,266] those reasons turned my life around.
+- [01:17:40,266 - 01:17:42,266] Just before I met Mr. Shoff,
+- [01:17:43,266 - 01:17:44,266] I heard a knock at the door.
+- [01:17:44,266 - 01:17:46,266] I go to the door,
+- [01:17:46,266 - 01:17:48,266] and there's a little girl standing there
+- [01:17:48,266 - 01:17:50,266] about this tall selling Girl Scout cookies.
+- [01:17:51,266 - 01:17:52,266] And she gave me one of
+- [01:17:52,266 - 01:17:53,266] the finest sales presentations I've ever had.
+- [01:17:53,266 - 01:17:55,266] One of the finest sales presentations I've ever heard.
+- [01:17:55,266 - 01:17:58,266] Special deal, several flavors, this whole package of stuff.
+- [01:17:58,266 - 01:18:00,266] Two dollars.
+- [01:18:01,266 - 01:18:03,266] And with a big smile, she
+- [01:18:03,266 - 01:18:05,266] very politely asked me to buy.
+- [01:18:06,266 - 01:18:08,266] And I wanted to.
+- [01:18:09,266 - 01:18:11,266] Big problem.
+- [01:18:12,266 - 01:18:14,266] I'm broke.
+- [01:18:14,266 - 01:18:17,266] I don't have two dollars.
+- [01:18:18,266 - 01:18:20,266] And to this day,
+- [01:18:20,266 - 01:18:22,266] I can remember the pain
+- [01:18:22,266 - 01:18:24,266] and the embarrassment.
+- [01:18:24,266 - 01:18:26,266] I'm a father.
+- [01:18:26,266 - 01:18:27,266] I'm a husband.
+- [01:18:27,266 - 01:18:28,266] I've been to college.
+- [01:18:28,266 - 01:18:29,266] I'm working.
+- [01:18:29,266 - 01:18:31,266] I'm 25.
+- [01:18:31,266 - 01:18:34,266] I don't have two dollars.
+- [01:18:36,266 - 01:18:37,766] And I didn't want to
+- [01:18:37,766 - 01:18:39,266] tell her that for some reason.
+- [01:18:41,266 - 01:18:43,266] So I did what I thought was next best.
+- [01:18:43,266 - 01:18:46,266] I lied to her.
+- [01:18:46,266 - 01:18:49,766] I said, hey, look, I've already
+- [01:18:49,766 - 01:18:53,266] bought lots of Girl Scout cookies.
+- [01:18:53,266 - 01:18:56,266] I've still got plenty stacked in the house,
+- [01:18:56,266 - 01:18:59,266] which was not true.
+- [01:19:01,266 - 01:19:02,766] But it seemed to get me
+- [01:19:02,766 - 01:19:04,266] off the hook for the moment.
+- [01:19:05,266 - 01:19:07,266] She said, well, gosh, that's wonderful.
+- [01:19:07,266 - 01:19:08,266] Thank you very much.
+- [01:19:09,266 - 01:19:10,266] And she went away.
+- [01:19:11,266 - 01:19:12,266] When she left,
+- [01:19:13,266 - 01:19:14,266] I closed the door.
+- [01:19:14,266 - 01:19:16,266] And that was the day I said to myself,
+- [01:19:16,266 - 01:19:20,266] I don't want to live like this anymore.
+- [01:19:21,266 - 01:19:23,266] I've had it with lying
+- [01:19:23,266 - 01:19:25,266] and I've had it with being broke.
+- [01:19:25,266 - 01:19:27,266] I'm never going to let
+- [01:19:27,266 - 01:19:29,266] this happen to me ever again.
+- [01:19:29,266 - 01:19:30,266] I promised that day
+- [01:19:30,266 - 01:19:32,266] I would work as hard as possible
+- [01:19:32,266 - 01:19:34,266] and would always carry plenty.
+- [01:19:35,266 - 01:19:37,266] It took me a little while.
+- [01:19:38,266 - 01:19:39,266] But now I do.
+- [01:19:39,266 - 01:19:41,266] It was one of those reasons.
+- [01:19:42,266 - 01:19:43,266] And I guess I carry plenty for two reasons.
+- [01:19:43,266 - 01:19:45,266] One is the way it makes me feel.
+- [01:19:45,266 - 01:19:47,266] But also in case I bump
+- [01:19:47,266 - 01:19:49,266] into another Girl Scout selling cookies.
+- [01:19:49,266 - 01:19:50,266] Right?
+- [01:19:50,266 - 01:19:51,266] I'm ready.
+- [01:19:56,266 - 01:19:58,266] I walked out of the Bank of
+- [01:19:58,266 - 01:20:00,266] America one time up in Saratoga, California,
+- [01:20:00,266 - 01:20:01,266] where I used to live.
+- [01:20:02,266 - 01:20:05,266] Two little girls selling candy right outside the bank.
+- [01:20:06,266 - 01:20:07,266] Good place.
+- [01:20:08,266 - 01:20:10,266] Some girls organization they're working for, right?
+- [01:20:11,266 - 01:20:12,266] I come walking out of the bank.
+- [01:20:13,266 - 01:20:15,266] This first little girl walks up to me.
+- [01:20:15,266 - 01:20:16,266] She said,
+- [01:20:16,266 - 01:20:17,266] Mr. Would you like to buy some candy?
+- [01:20:17,266 - 01:20:18,266] I said,
+- [01:20:18,266 - 01:20:20,266] I probably would.
+- [01:20:20,266 - 01:20:21,266] What kind is it?
+- [01:20:22,266 - 01:20:23,266] She said,
+- [01:20:23,266 - 01:20:25,266] It's Almond Roca.
+- [01:20:26,266 - 01:20:27,266] I said,
+- [01:20:27,266 - 01:20:29,266] My gosh, that's my favorite.
+- [01:20:30,266 - 01:20:31,266] She said,
+- [01:20:31,266 - 01:20:32,266] Wonderful.
+- [01:20:33,266 - 01:20:34,266] I said,
+- [01:20:34,266 - 01:20:35,266] How much is it?
+- [01:20:35,266 - 01:20:36,266] She said,
+- [01:20:36,266 - 01:20:38,266] It's just two dollars.
+- [01:20:39,266 - 01:20:40,266] I thought,
+- [01:20:40,266 - 01:20:41,266] Incredible.
+- [01:20:43,266 - 01:20:44,266] I said,
+- [01:20:44,266 - 01:20:47,266] How many boxes of that candy have you got?
+- [01:20:49,266 - 01:20:50,266] She said,
+- [01:20:50,266 - 01:20:51,266] Five.
+- [01:20:52,266 - 01:20:54,266] And her little friend was standing there.
+- [01:20:54,266 - 01:20:55,266] She was selling candy too.
+- [01:20:55,266 - 01:20:56,266] I said,
+- [01:20:56,266 - 01:20:57,266] How many boxes have you got?
+- [01:20:57,266 - 01:20:58,266] She said,
+- [01:20:58,266 - 01:20:59,266] I've got four.
+- [01:20:59,266 - 01:21:00,266] I said,
+- [01:21:00,266 - 01:21:01,266] That's nine.
+- [01:21:01,266 - 01:21:02,266] I'll take them all.
+- [01:21:03,266 - 01:21:04,266] They said,
+- [01:21:04,266 - 01:21:05,266] Really?
+- [01:21:07,266 - 01:21:08,266] I said,
+- [01:21:08,266 - 01:21:09,266] Yeah, it's my favorite.
+- [01:21:09,266 - 01:21:10,266] I've got some friends.
+- [01:21:10,266 - 01:21:11,266] I'll pass them around.
+- [01:21:11,266 - 01:21:12,266] They got so excited.
+- [01:21:12,266 - 01:21:13,266] Put all this candy together.
+- [01:21:13,266 - 01:21:14,266] I reached in my pocket,
+- [01:21:14,266 - 01:21:15,266] gave me the 18 dollars.
+- [01:21:15,266 - 01:21:16,266] When I've got the candy and they've got the money,
+- [01:21:16,266 - 01:21:17,266] that first little girl looked up,
+- [01:21:17,266 - 01:21:18,266] looks up at me.
+- [01:21:18,266 - 01:21:19,266] She says,
+- [01:21:19,266 - 01:21:20,266] Mister,
+- [01:21:20,266 - 01:21:21,266] you are really something.
+- [01:21:21,266 - 01:21:22,266] How about that?
+- [01:21:22,266 - 01:21:23,266] Can you imagine only spending 18 dollars
+- [01:21:23,266 - 01:21:23,766] and have somebody look at
+- [01:21:23,766 - 01:21:24,266] you in the face and say,
+- [01:21:24,266 - 01:21:25,266] You are really something.
+- [01:21:26,266 - 01:21:27,266] Now you know why I carry heavy.
+- [01:21:28,266 - 01:21:29,266] Right?
+- [01:21:30,266 - 01:21:31,266] I mean,
+- [01:21:31,266 - 01:21:32,266] I was a little kid.
+- [01:21:32,266 - 01:21:33,266] I was a little kid.
+- [01:21:33,266 - 01:21:34,266] I was a little kid.
+- [01:21:34,266 - 01:21:35,266] I was a little kid.
+- [01:21:35,266 - 01:21:36,266] I was a little kid.
+- [01:21:36,266 - 01:21:37,266] I was a little kid.
+- [01:21:37,266 - 01:21:38,266] I was a little kid.
+- [01:21:39,266 - 01:21:40,266] I was a little kid.
+- [01:21:40,266 - 01:21:41,266] I was a little kid.
+- [01:21:41,266 - 01:21:42,266] I was a little kid.
+- [01:21:42,266 - 01:21:43,266] I was a little kid.
+- [01:21:43,266 - 01:21:47,706] I'm not going to miss anymore.
+- [01:21:47,706 - 01:21:49,266] It was just one of those reasons
+- [01:21:49,266 - 01:21:52,186] that helped to change my life.
+- [01:21:52,186 - 01:21:56,686] One of my nitty-gritty reasons was budget finance.
+- [01:21:56,686 - 01:22:04,706] Budget finance used to grind my soul.
+- [01:22:04,706 - 01:22:05,786] Way back in those early days,
+- [01:22:05,786 - 01:22:10,565] I had fallen for one of those consolidation loans
+- [01:22:10,566 - 01:22:13,406] where you take all your little hard to pay bills,
+- [01:22:13,406 - 01:22:15,746] put them into one big impossible to pay bill, right?
+- [01:22:22,446 - 01:22:25,706] I would get four or five payments behind.
+- [01:22:25,706 - 01:22:29,926] This one guy used to call me day and night.
+- [01:22:29,926 - 01:22:31,426] I don't think they're allowed to do that anymore.
+- [01:22:31,426 - 01:22:33,466] Harassed me, threatened to run
+- [01:22:33,466 - 01:22:35,506] me in front of the judge,
+- [01:22:35,506 - 01:22:37,126] threatened to ruin my credit,
+- [01:22:37,126 - 01:22:39,266] threatened to embarrass my family.
+- [01:22:39,266 - 01:22:41,526] One day he said, we're gonna come get your car,
+- [01:22:41,526 - 01:22:43,026] drag it rear end up down the street
+- [01:22:43,026 - 01:22:45,026] in front of your neighbors.
+- [01:22:45,026 - 01:22:47,726] The guy even called me a flake.
+- [01:22:51,065 - 01:22:54,325] And back in those days, I'm broke, I'm pitiful,
+- [01:22:54,325 - 01:22:56,166] there's nothing I can do about it.
+- [01:22:56,166 - 01:22:58,986] But I never forgot how the guy treated me.
+- [01:23:01,365 - 01:23:03,006] And when I met Mr. Sho,
+- [01:23:03,006 - 01:23:04,865] and I got my life straightened out
+- [01:23:04,865 - 01:23:06,246] and the money started to flow,
+- [01:23:06,246 - 01:23:08,385] that was one of my first projects, budget finance.
+- [01:23:08,385 - 01:23:09,246] I poured it on the table.
+- [01:23:09,246 - 01:23:17,365] Before I 예쁘 and,
+- [01:23:17,365 - 01:23:19,126] and then on the办ブ recipes,
+- [01:23:19,126 - 01:23:20,206] and then on the description box,
+- [01:23:20,206 - 01:23:21,585] I put in my application.
+- [01:23:21,585 - 01:23:22,886] You know, those funny tiny files.
+- [01:23:22,886 - 01:23:26,486] I filled them up on day and night.
+- [01:23:26,986 - 01:23:29,766] I finally put all the money together I owed,
+- [01:23:29,766 - 01:23:30,966] which was considerable.
+- [01:23:30,966 - 01:23:32,825] I picked a day for the payoff.
+- [01:23:32,825 - 01:23:34,365] And when the payoff day came,
+- [01:23:34,365 - 01:23:37,186] I put the money in small bills,
+- [01:23:37,186 - 01:23:38,926] in a big briefcase.
+- [01:23:39,246 - 01:23:41,496] desk. Startled him. He wondered what I was doing
+- [01:23:41,496 - 01:23:43,746] there. It was the first time I'd been there since
+- [01:23:43,746 - 01:23:46,655] I borrowed the money, right? Without saying a
+- [01:23:46,655 - 01:23:49,565] word, I opened up this briefcase, dumped this
+- [01:23:49,565 - 01:23:53,225] pile of money all over his desk. I said, count it.
+- [01:23:53,225 - 01:23:56,886] It's all there. I will never be back. And I turned
+- [01:23:56,886 - 01:24:01,115] around and stormed out. Now, that might not be
+- [01:24:01,115 - 01:24:05,345] noble, but if you haven't tried it, you've got to
+- [01:24:05,346 - 01:24:11,456] one time. It can be the day that turns your life
+- [01:24:11,456 - 01:24:17,566] around. All you need is a reason that turns you on.
+- [01:24:19,586 - 01:24:22,276] One of my dear friends, Robert Depew, Bobby
+- [01:24:22,276 - 01:24:24,966] used to be a school teacher in Lindsay,
+- [01:24:25,906 - 01:24:28,646] Olive capital of the world. Bobby taught school
+- [01:24:28,646 - 01:24:31,386] several years, got a little weary teaching school.
+- [01:24:31,726 - 01:24:33,466] One day decided he wanted
+- [01:24:33,466 - 01:24:35,206] to get into sales. So without
+- [01:24:35,206 - 01:24:35,266] teaching, he decided to get into sales. And he
+- [01:24:35,266 - 01:24:35,326] decided to get into sales. And he decided to get
+- [01:24:35,326 - 01:24:35,336] into sales. And he decided to get into sales. And
+- [01:24:35,336 - 01:24:35,346] he decided to get into sales. And he decided to get
+- [01:24:35,346 - 01:24:35,546] into sales. And he decided to get into sales. And
+- [01:24:35,546 - 01:24:35,746] he decided to get into sales. And he decided to get
+- [01:24:35,746 - 01:24:36,026] into sales. And he decided to get into sales. And
+- [01:24:36,026 - 01:24:36,306] he decided to get into sales. And he decided to get
+- [01:24:36,306 - 01:24:47,986] in
+- [01:24:55,386 - 01:24:56,166] Wow.
+- [01:24:56,706 - 01:24:57,146] Hey, hey,
+- [01:24:57,666 - 01:25:04,886] Hope you had a great day off.
+- [01:25:04,886 - 01:25:07,386] He said, that made me so
+- [01:25:07,386 - 01:25:09,886] mad, I decided to get rich.
+- [01:25:14,306 - 01:25:16,766] And my question for you tonight is,
+- [01:25:16,766 - 01:25:19,946] is it possible to get that mad?
+- [01:25:22,886 - 01:25:25,386] Of course.
+- [01:25:27,746 - 01:25:29,666] Wealth is not a matter of intelligence.
+- [01:25:29,666 - 01:25:32,466] It's a matter of inspiration.
+- [01:25:34,886 - 01:25:38,886] Today, Robert happens to be one of my millionaire friends.
+- [01:25:39,046 - 01:25:39,726] Bobby's rich.
+- [01:25:45,006 - 01:25:46,366] Frank Sinatra said one time,
+- [01:25:46,486 - 01:25:49,586] the best revenge is massive success.
+- [01:25:58,566 - 01:26:00,346] Hey, get you a long enough list of reasons
+- [01:26:00,346 - 01:26:02,546] so that after tonight, you never lack for inspiration.
+- [01:26:03,006 - 01:26:04,846] You might not have all the answers right away,
+- [01:26:04,886 - 01:26:06,886] but you can get the answers
+- [01:26:06,886 - 01:26:08,886] if you can get the reasons.
+- [01:26:10,626 - 01:26:11,746] Now, let me give you a
+- [01:26:11,746 - 01:26:12,866] little simple formula for goal setting.
+- [01:26:13,646 - 01:26:13,866] Okay?
+- [01:26:16,006 - 01:26:16,986] We take two, two and
+- [01:26:16,986 - 01:26:17,966] a half hours on the weekend
+- [01:26:17,966 - 01:26:19,126] for the whole 10-year plan.
+- [01:26:19,186 - 01:26:20,206] We don't have time for that tonight,
+- [01:26:20,206 - 01:26:21,276] but let me get you
+- [01:26:21,276 - 01:26:22,346] started with a little simple formula
+- [01:26:22,346 - 01:26:25,126] Mr. Schoaf gave me, and maybe this will be helpful.
+- [01:26:25,286 - 01:26:28,566] First of all, I've divided goals into two parts.
+- [01:26:29,326 - 01:26:31,026] First is long range.
+- [01:26:34,086 - 01:26:34,826] Long range.
+- [01:26:34,886 - 01:26:35,726] That's your goals.
+- [01:26:35,726 - 01:26:36,726] That's your dreams.
+- [01:26:38,726 - 01:26:40,356] Your dreams for the next three,
+- [01:26:40,356 - 01:26:41,986] five, 10, 20, 30, 40 years.
+- [01:26:41,986 - 01:26:44,006] Actually the rest of your life.
+- [01:26:44,006 - 01:26:45,726] Your dreams.
+- [01:26:45,726 - 01:26:47,566] You've got to keep dreaming.
+- [01:26:50,566 - 01:26:52,805] Ronald Reagan, president said to the joint session
+- [01:26:52,805 - 01:26:54,206] of Congress a few weeks ago,
+- [01:26:54,206 - 01:26:56,266] the Republic is a dream.
+- [01:26:57,865 - 01:26:59,885] And if we don't keep
+- [01:26:59,885 - 01:27:01,906] dreaming, we will lose the Republic.
+- [01:27:03,865 - 01:27:04,666] Your better future is a dream.
+- [01:27:04,666 - 01:27:07,426] For yourself and for your family.
+- [01:27:07,426 - 01:27:08,506] Where do you want to go?
+- [01:27:08,506 - 01:27:09,426] What do you want to do?
+- [01:27:09,426 - 01:27:10,546] What do you want to be?
+- [01:27:10,546 - 01:27:11,905] What do you want to see?
+- [01:27:12,246 - 01:27:13,586] You've got to dream dreams.
+- [01:27:13,726 - 01:27:15,086] There's a Bible phrase that says,
+- [01:27:15,086 - 01:27:18,166] without dreams and visions, people perish.
+- [01:27:18,506 - 01:27:20,776] You've got to have something to go
+- [01:27:20,776 - 01:27:23,046] for that inspires the heart and the soul.
+- [01:27:25,046 - 01:27:26,166] Dreams.
+- [01:27:28,426 - 01:27:31,546] From the children of Sanchez, it says,
+- [01:27:32,506 - 01:27:34,506] take the crumbs from starving people.
+- [01:27:34,506 - 01:27:37,006] From starving soldiers, they won't die.
+- [01:27:37,006 - 01:27:40,506] Take the bread from hungry children, they won't cry.
+- [01:27:40,506 - 01:27:44,266] But without dreams, we all will die.
+- [01:27:45,826 - 01:27:48,066] You've got to dream.
+- [01:27:48,066 - 01:27:53,066] Don't lose your dreams for yourself, for your future,
+- [01:27:54,386 - 01:27:58,286] for your family, the dreams of love and enterprise
+- [01:27:58,286 - 01:28:00,906] and travel and doing things,
+- [01:28:00,906 - 01:28:04,146] becoming something unique on your journey here.
+- [01:28:04,146 - 01:28:05,726] Don't lose your dreams.
+- [01:28:05,726 - 01:28:07,186] Do some dreaming.
+- [01:28:07,186 - 01:28:09,066] That's a long range goals.
+- [01:28:09,066 - 01:28:10,526] You've got to have those.
+- [01:28:10,526 - 01:28:12,406] So that's number one.
+- [01:28:12,406 - 01:28:13,906] Here's the second part of goals.
+- [01:28:13,906 - 01:28:14,866] Short range.
+- [01:28:17,986 - 01:28:18,986] Short range goals.
+- [01:28:18,986 - 01:28:20,866] That's your goals for tomorrow,
+- [01:28:20,866 - 01:28:22,746] this week, this month, this year,
+- [01:28:22,746 - 01:28:24,086] the immediate future.
+- [01:28:24,086 - 01:28:27,006] We call these confidence builders.
+- [01:28:27,006 - 01:28:27,986] Because if you set up
+- [01:28:27,986 - 01:28:28,966] something short range, go for it.
+- [01:28:28,966 - 01:28:31,906] Get it, latch onto it, work hard, accomplish it.
+- [01:28:31,906 - 01:28:33,266] That starts building your strong feelings to go forward.
+- [01:28:33,266 - 01:28:34,126] That's the goal.
+- [01:28:34,146 - 01:28:35,406] Go for your dreams.
+- [01:28:37,946 - 01:28:40,326] Now I've divided goals into three categories.
+- [01:28:40,326 - 01:28:41,166] Here they are.
+- [01:28:42,066 - 01:28:43,526] Number one is economic.
+- [01:28:45,046 - 01:28:49,126] That's your goals for money, income, business, profits,
+- [01:28:49,126 - 01:28:52,346] production, economics.
+- [01:28:52,346 - 01:28:54,746] Make sure you've got your economics well planned.
+- [01:28:55,926 - 01:28:59,986] Economics plays a major role in everybody's life.
+- [01:29:00,926 - 01:29:02,126] Economics is major,
+- [01:29:02,126 - 01:29:04,026] which means it ought to be meticulously well planned.
+- [01:29:04,026 - 01:29:07,026] For tomorrow, this week, this month, this year, long range.
+- [01:29:07,026 - 01:29:11,026] What if you ask somebody tomorrow,
+- [01:29:11,026 - 01:29:12,776] if you could see their meticulously
+- [01:29:12,776 - 01:29:14,526] well planned list of economic goals?
+- [01:29:14,526 - 01:29:17,646] What would they probably say?
+- [01:29:17,646 - 01:29:20,826] They say, you some kind of a nut.
+- [01:29:20,826 - 01:29:22,506] You must be weird.
+- [01:29:22,506 - 01:29:27,706] Hey, I found out what success is.
+- [01:29:27,706 - 01:29:30,906] Success is doing what the failures won't do.
+- [01:29:30,906 - 01:29:31,866] Success is doing what the failures won't do.
+- [01:29:31,866 - 01:29:32,426] Success is doing what the failures won't do.
+- [01:29:32,426 - 01:29:32,926] Success is doing what the failures won't do.
+- [01:29:32,926 - 01:29:37,926] Make sure you've got your economics well planned.
+- [01:29:37,926 - 01:29:39,926] It'll put you in the top 5%.
+- [01:29:39,926 - 01:29:41,576] One of the key little subjects
+- [01:29:41,576 - 01:29:43,226] we talk about on the weekend is
+- [01:29:43,226 - 01:29:45,926] the seven fundamentals for wealth and happiness.
+- [01:29:45,926 - 01:29:47,926] And that's one of them.
+- [01:29:47,926 - 01:29:48,926] Well planned economics.
+- [01:29:48,926 - 01:29:50,926] It's a fundamental if you want to do well.
+- [01:29:50,926 - 01:29:53,926] Join the top 5%.
+- [01:29:53,926 - 01:29:55,926] Anybody in this room can join
+- [01:29:55,926 - 01:29:57,926] the top 5%, if you will.
+- [01:29:57,926 - 01:30:00,926] Okay.
+- [01:30:00,926 - 01:30:01,926] Now here's the second category of economics.
+- [01:30:01,926 - 01:30:04,926] The second category of goals, things.
+- [01:30:04,926 - 01:30:08,926] Make a list of the things you want.
+- [01:30:08,926 - 01:30:10,926] And on my list of things, now I put everything.
+- [01:30:10,926 - 01:30:12,926] Little things as well as major things.
+- [01:30:12,926 - 01:30:13,926] Doesn't matter how small it
+- [01:30:13,926 - 01:30:14,926] is, it goes on my list.
+- [01:30:14,926 - 01:30:16,926] I used to just put major things.
+- [01:30:16,926 - 01:30:17,926] Cars, homes.
+- [01:30:17,926 - 01:30:18,926] I don't do that anymore.
+- [01:30:18,926 - 01:30:20,926] I now load my list with everything.
+- [01:30:20,926 - 01:30:23,926] Everything.
+- [01:30:23,926 - 01:30:26,426] And the reason is part of the fun
+- [01:30:26,426 - 01:30:28,926] of having a list is checking it off.
+- [01:30:28,926 - 01:30:29,926] That's it.
+- [01:30:29,926 - 01:30:30,426] Boy, at the end of the day, if you're a
+- [01:30:30,426 - 01:30:30,926] rich man, you're going to have a lot of fun.
+- [01:30:31,926 - 01:30:33,426] You can go got it, got it,
+- [01:30:33,426 - 01:30:34,926] got it, got it, got it, got it.
+- [01:30:34,926 - 01:30:35,926] Whatever it is, right?
+- [01:30:35,926 - 01:30:37,926] You get into the habit.
+- [01:30:37,926 - 01:30:39,926] So load up your list, the things you want.
+- [01:30:39,926 - 01:30:45,926] Now, when you check off something major, celebrate.
+- [01:30:45,926 - 01:30:47,926] That's an important point to make.
+- [01:30:47,926 - 01:30:54,926] Celebrate your achievements.
+- [01:30:54,926 - 01:30:55,926] Live it up.
+- [01:30:55,926 - 01:30:58,426] Have a party when you reach
+- [01:30:58,426 - 01:31:00,926] something you've worked for for a while.
+- [01:31:00,926 - 01:31:04,926] See, we all grow from two experiences.
+- [01:31:04,926 - 01:31:06,926] One is called the pain of losing.
+- [01:31:06,926 - 01:31:09,926] The other one is called the joy of winning.
+- [01:31:09,926 - 01:31:10,926] We need both of them.
+- [01:31:10,926 - 01:31:13,926] Amplify them as much as you
+- [01:31:13,926 - 01:31:16,926] can, which also means make losing painful.
+- [01:31:16,926 - 01:31:19,426] If you set up something, fooled around,
+- [01:31:19,426 - 01:31:21,926] didn't get it, put it on yourself.
+- [01:31:21,926 - 01:31:23,426] On the other side, if
+- [01:31:23,426 - 01:31:24,926] you did get it, congratulate yourself.
+- [01:31:24,926 - 01:31:28,926] Self-congratulations is a sign of maturity.
+- [01:31:28,926 - 01:31:29,926] Seeking congratulations is a sign of maturity.
+- [01:31:29,926 - 01:31:33,926] Seeking congratulations is a sign of immaturity.
+- [01:31:33,926 - 01:31:34,926] But hey, winning and losing,
+- [01:31:34,926 - 01:31:35,926] see, that's what it's all about.
+- [01:31:35,926 - 01:31:38,926] That's the name of the game.
+- [01:31:38,926 - 01:31:41,926] Now, some people lead such mediocre lives.
+- [01:31:41,926 - 01:31:43,926] At the end of the day, they
+- [01:31:43,926 - 01:31:45,926] don't know whether they're winning or losing.
+- [01:31:45,926 - 01:31:47,926] They got no clue.
+- [01:31:47,926 - 01:31:51,926] Guy's just going through the day with his fingers crossed.
+- [01:31:51,926 - 01:31:54,926] There's a better way.
+- [01:31:54,926 - 01:31:56,926] Okay, here's the third category of goals.
+- [01:31:56,926 - 01:31:58,926] Personal development.
+- [01:31:59,926 - 01:32:01,926] Put those goals together.
+- [01:32:01,926 - 01:32:02,926] Personal development goals.
+- [01:32:02,926 - 01:32:06,426] That's your goals to be stronger, more decisive,
+- [01:32:06,426 - 01:32:09,926] be a speaker, be a leader, learn a language,
+- [01:32:09,926 - 01:32:10,926] all kinds of skills.
+- [01:32:10,926 - 01:32:11,926] Okay.
+- [01:32:11,926 - 01:32:13,926] The whole weekend seminar was designed to improve
+- [01:32:13,926 - 01:32:15,926] all your skills so that you walk away
+- [01:32:15,926 - 01:32:16,926] more skillful.
+- [01:32:16,926 - 01:32:17,926] And that's what you want.
+- [01:32:17,926 - 01:32:18,926] The personal development skills.
+- [01:32:18,926 - 01:32:19,926] That's what attracts.
+- [01:32:19,926 - 01:32:21,926] That's what brings good things to your life.
+- [01:32:21,926 - 01:32:26,926] The person you become more skillful.
+- [01:32:26,926 - 01:32:28,926] Now, this is quite a package to work on.
+- [01:32:28,926 - 01:32:32,426] Economics, things, personal development for tomorrow,
+- [01:32:32,426 - 01:32:35,926] this week, this month, this year,
+- [01:32:35,926 - 01:32:37,926] long range.
+- [01:32:37,926 - 01:32:40,926] Okay, that'll get you started.
+- [01:32:40,926 - 01:32:43,926] Now, here's the simple formula for setting goals.
+- [01:32:43,926 - 01:32:44,926] It goes like this.
+- [01:32:44,926 - 01:32:49,926] A, work on your goals.
+- [01:32:49,926 - 01:32:50,926] That's step one.
+- [01:32:50,926 - 01:32:52,926] Work on them.
+- [01:32:52,926 - 01:32:54,926] And I put the word work there deliberately.
+- [01:32:54,926 - 01:32:57,926] Setting goals is plain hard work.
+- [01:32:58,926 - 01:32:59,926] I don't want to kid you.
+- [01:32:59,926 - 01:33:02,926] We haven't come here tonight to kid each other.
+- [01:33:02,926 - 01:33:03,926] It's work.
+- [01:33:03,926 - 01:33:04,926] I know it's work.
+- [01:33:04,926 - 01:33:07,926] That's why a lot of people just let it slide.
+- [01:33:07,926 - 01:33:08,926] It's work.
+- [01:33:08,926 - 01:33:12,426] Many people work hard on their job,
+- [01:33:12,426 - 01:33:15,926] but they don't work hard on their future.
+- [01:33:15,926 - 01:33:19,926] They just let that slide.
+- [01:33:19,926 - 01:33:23,926] And the work involved is making plans.
+- [01:33:23,926 - 01:33:27,926] I know most people don't.
+- [01:33:27,926 - 01:33:29,926] I understand that.
+- [01:33:29,926 - 01:33:31,926] But don't let that be you.
+- [01:33:31,926 - 01:33:35,426] Guy says, well, yeah, you work where I
+- [01:33:35,426 - 01:33:38,926] work, but the time you struggle home, it's late.
+- [01:33:38,926 - 01:33:40,426] You've got to eat a bite of
+- [01:33:40,426 - 01:33:41,926] supper, watch a little TV, get to bed.
+- [01:33:41,926 - 01:33:43,926] You can't sit up half the night.
+- [01:33:43,926 - 01:33:45,926] Plan, plan, plan.
+- [01:33:45,926 - 01:33:51,926] And the guy's behind.
+- [01:33:51,926 - 01:33:55,926] Good worker, hard worker, sincere.
+- [01:33:55,926 - 01:33:59,926] But you've got to be better than sincere.
+- [01:33:59,926 - 01:34:01,926] Working hard.
+- [01:34:01,926 - 01:34:03,926] You've got to be better than a good worker.
+- [01:34:03,926 - 01:34:07,926] You've got to be a good planner.
+- [01:34:07,926 - 01:34:11,426] Somebody once wisely said, the people who
+- [01:34:11,426 - 01:34:14,926] fail to plan are planning to fail.
+- [01:34:14,926 - 01:34:16,926] Well said.
+- [01:34:16,926 - 01:34:17,926] So work on your goals.
+- [01:34:17,926 - 01:34:19,926] Here's step two.
+- [01:34:19,926 - 01:34:23,926] Write your goals down.
+- [01:34:23,926 - 01:34:24,926] That's so important.
+- [01:34:24,926 - 01:34:26,926] I teach my staff around the world.
+- [01:34:26,926 - 01:34:30,926] Put your goals in your journal.
+- [01:34:30,926 - 01:34:34,926] Because one of the major people
+- [01:34:34,926 - 01:34:38,926] you want to study is yourself.
+- [01:34:38,926 - 01:34:39,926] So here's the list of goals
+- [01:34:39,926 - 01:34:40,926] I put together three weeks ago.
+- [01:34:40,926 - 01:34:42,426] Here's the list of goals
+- [01:34:42,426 - 01:34:43,926] I put together two years ago.
+- [01:34:43,926 - 01:34:45,926] Here's some of the changes I made.
+- [01:34:45,926 - 01:34:47,926] Rearrangement of my priorities.
+- [01:34:47,926 - 01:34:48,926] I scratched these off.
+- [01:34:48,926 - 01:34:49,926] I put these on.
+- [01:34:49,926 - 01:34:50,926] I've gotten these.
+- [01:34:50,926 - 01:34:52,926] Study your accomplishments.
+- [01:34:52,926 - 01:34:53,926] Study what your desires are.
+- [01:34:53,926 - 01:34:55,926] Put them on paper.
+- [01:34:55,926 - 01:34:56,926] Write them down.
+- [01:34:56,926 - 01:34:58,926] Here's another reason for writing your goals down.
+- [01:34:58,926 - 01:35:01,926] It shows you're serious about doing better.
+- [01:35:01,926 - 01:35:05,926] And to do better, you've got to get serious.
+- [01:35:05,926 - 01:35:09,426] You don't have to be
+- [01:35:09,426 - 01:35:12,926] grim, but you must be serious.
+- [01:35:12,926 - 01:35:17,926] Everybody hopes things will get better.
+- [01:35:17,926 - 01:35:21,926] Everybody hopes.
+- [01:35:21,926 - 01:35:22,926] Poor people hope.
+- [01:35:22,926 - 01:35:25,926] That ought to tell you something.
+- [01:35:25,926 - 01:35:30,926] It means the future does not get better by hope.
+- [01:35:30,926 - 01:35:36,926] It gets better by plan.
+- [01:35:36,926 - 01:35:40,926] I used to have the affliction called passive hope.
+- [01:35:40,926 - 01:35:43,926] It's an affliction.
+- [01:35:43,926 - 01:35:46,926] It's bad.
+- [01:35:46,926 - 01:35:48,926] Probably what's even worse than that is happy hope.
+- [01:35:48,926 - 01:35:50,926] Now that is really bad.
+- [01:35:50,926 - 01:35:51,926] That's bad.
+- [01:35:52,926 - 01:35:54,926] Happy hope.
+- [01:35:54,926 - 01:36:00,926] The guy's 50 and he's broke and he's still smiling.
+- [01:36:00,926 - 01:36:02,926] See, that's not good.
+- [01:36:02,926 - 01:36:07,926] So get serious about your goals.
+- [01:36:07,926 - 01:36:08,926] Put them on paper.
+- [01:36:08,926 - 01:36:10,926] Write them down.
+- [01:36:10,926 - 01:36:11,926] There's all kinds.
+- [01:36:11,926 - 01:36:13,926] His goals, her goals, their goals.
+- [01:36:13,926 - 01:36:16,426] Business goals, financial goals,
+- [01:36:16,426 - 01:36:18,926] financial independence goals, family goals.
+- [01:36:18,926 - 01:36:20,426] I mean, there's so many things to work on on
+- [01:36:20,426 - 01:36:21,926] this that if you don't get busy in the morning,
+- [01:36:21,926 - 01:36:23,426] that if you don't get busy and work
+- [01:36:23,426 - 01:36:24,926] on it, sure enough, the time will pass.
+- [01:36:24,926 - 01:36:26,426] And sure enough, five years from now, you'll
+- [01:36:26,426 - 01:36:27,926] wind up where you don't want to be,
+- [01:36:27,926 - 01:36:30,926] wearing what you don't want to wear, driving what you
+- [01:36:30,926 - 01:36:33,926] don't want to drive, being what you don't want to be.
+- [01:36:33,926 - 01:36:36,926] Now's the time to fix it.
+- [01:36:36,926 - 01:36:39,926] Now, here's the third step to your goals.
+- [01:36:39,926 - 01:36:42,426] Check the size of your
+- [01:36:42,426 - 01:36:44,926] goals and the kinds of goals.
+- [01:36:44,926 - 01:36:49,926] How big they are, what kind they are, affects you.
+- [01:36:49,926 - 01:36:55,926] And here's one of the important phrases of the evening.
+- [01:36:55,926 - 01:36:59,926] Your goals are affecting you, whatever they are.
+- [01:36:59,926 - 01:37:02,926] Your goals affect your handshake.
+- [01:37:02,926 - 01:37:05,926] Your goals affect your attitude, personality.
+- [01:37:05,926 - 01:37:07,926] Your goals affect the way you walk,
+- [01:37:07,926 - 01:37:09,926] the way you talk, the way you dress.
+- [01:37:09,926 - 01:37:17,926] All day long, we're being affected by our goals.
+- [01:37:17,926 - 01:37:18,926] Now, some people have goals.
+- [01:37:18,926 - 01:37:19,926] But they're not goals.
+- [01:37:19,926 - 01:37:22,926] They have such lousy goals.
+- [01:37:22,926 - 01:37:26,926] The effect is bad.
+- [01:37:26,926 - 01:37:28,426] I asked a guy one time,
+- [01:37:28,426 - 01:37:29,926] what are your goals for this month?
+- [01:37:29,926 - 01:37:31,926] The guy said, look, if I could just
+- [01:37:31,926 - 01:37:33,926] scrape up enough money to pay these lousy bills.
+- [01:37:33,926 - 01:37:36,926] That was his goal.
+- [01:37:36,926 - 01:37:37,926] I'm not saying it isn't a goal.
+- [01:37:37,926 - 01:37:41,426] It's a goal, but it's such
+- [01:37:41,426 - 01:37:44,926] a lousy goal, the effect is bad.
+- [01:37:44,926 - 01:37:46,926] You don't jump out of bed on Monday morning and say, oh boy, another
+- [01:37:46,926 - 01:37:48,926] chance to go out and scrape up the money to pay my lousy bills.
+- [01:37:48,926 - 01:37:50,926] See, you don't do that.
+- [01:37:50,926 - 01:38:00,926] Usually you say, oh, not another Monday.
+- [01:38:00,926 - 01:38:06,426] And some people have so given up on life,
+- [01:38:06,426 - 01:38:11,926] they have joined the thank God it's Friday club.
+- [01:38:11,926 - 01:38:13,926] How sad.
+- [01:38:13,926 - 01:38:15,926] Surely those are the same people when life
+- [01:38:15,926 - 01:38:17,926] is over for them will say, thank God.
+- [01:38:17,926 - 01:38:19,926] It's over.
+- [01:38:19,926 - 01:38:22,426] Let me give you a Bible philosophy
+- [01:38:22,426 - 01:38:24,926] that teaches how to get whatever you want.
+- [01:38:24,926 - 01:38:26,926] That's the title of the next set of notes.
+- [01:38:26,926 - 01:38:34,926] How to get whatever you want from the Bible.
+- [01:38:34,926 - 01:38:36,426] Now, again, I'm an amateur
+- [01:38:36,426 - 01:38:37,926] when it comes to the Bible.
+- [01:38:37,926 - 01:38:41,426] I'm not a pro, but this I
+- [01:38:41,426 - 01:38:44,926] can quote and I think that'll be sufficient.
+- [01:38:44,926 - 01:38:45,926] How to get whatever you want.
+- [01:38:45,926 - 01:38:46,926] Here's what it says.
+- [01:38:46,926 - 01:38:47,926] If you're ready.
+- [01:38:47,926 - 01:38:49,926] Here's what it says.
+- [01:38:49,926 - 01:38:55,926] Ask.
+- [01:38:55,926 - 01:38:57,926] That's it.
+- [01:38:57,926 - 01:39:01,926] End of notes.
+- [01:39:01,926 - 01:39:04,926] Ask.
+- [01:39:04,926 - 01:39:06,926] If there's one art in life to learn
+- [01:39:06,926 - 01:39:08,926] extremely well, that's got to be one of them.
+- [01:39:08,926 - 01:39:13,926] The art of asking.
+- [01:39:13,926 - 01:39:14,926] What does ask mean?
+- [01:39:14,926 - 01:39:16,926] Ask means what do you want?
+- [01:39:16,926 - 01:39:20,926] And the formula is staggering.
+- [01:39:20,926 - 01:39:24,926] It says ask and what?
+- [01:39:24,926 - 01:39:26,926] A guy ought to look into that.
+- [01:39:26,926 - 01:39:35,926] He says, yeah, but you work where I work.
+- [01:39:35,926 - 01:39:40,926] But the time you struggle home, it's late.
+- [01:39:40,926 - 01:39:42,926] You got to eat a bite of
+- [01:39:42,926 - 01:39:44,926] supper, watch a little TV, get to bed.
+- [01:39:44,926 - 01:39:46,926] You can't sit up half the night.
+- [01:39:46,926 - 01:39:48,926] Ask, ask, ask.
+- [01:39:48,926 - 01:39:54,926] And the guys be, huh?
+- [01:39:54,926 - 01:39:56,926] See, you've got to be better than a good worker.
+- [01:39:56,926 - 01:39:58,926] You've got to be a good asker.
+- [01:39:58,926 - 01:40:00,426] Now, let me give you three
+- [01:40:00,426 - 01:40:01,926] key points on asking and receiving.
+- [01:40:01,926 - 01:40:03,926] This can do it.
+- [01:40:03,926 - 01:40:08,926] Number one, asking is the beginning of receiving.
+- [01:40:08,926 - 01:40:13,926] Asking starts a unique process, mental and emotional.
+- [01:40:13,926 - 01:40:15,926] I don't even know how it works.
+- [01:40:15,926 - 01:40:17,926] All I know is it works.
+- [01:40:17,926 - 01:40:19,926] It's like pushing a button
+- [01:40:19,926 - 01:40:21,926] and all this machinery starts working.
+- [01:40:21,926 - 01:40:22,926] I don't know how.
+- [01:40:22,926 - 01:40:24,926] It just works.
+- [01:40:24,926 - 01:40:25,926] There's a lot of things
+- [01:40:25,926 - 01:40:26,926] you don't need to know how.
+- [01:40:26,926 - 01:40:30,926] Just work them.
+- [01:40:30,926 - 01:40:32,926] Some people are always studying the roots.
+- [01:40:32,926 - 01:40:34,926] Others are picking the fruit.
+- [01:40:34,926 - 01:40:37,926] I mean, it depends on what
+- [01:40:37,926 - 01:40:40,926] end of it you want in on.
+- [01:40:40,926 - 01:40:42,926] Asking is the beginning of receiving.
+- [01:40:42,926 - 01:40:43,926] So start the process.
+- [01:40:43,926 - 01:40:44,926] Here's number two.
+- [01:40:44,926 - 01:40:49,926] Receiving is not the problem.
+- [01:40:49,926 - 01:40:54,926] Receiving is automatic.
+- [01:40:54,926 - 01:40:56,926] Now, if that's true, receiving is
+- [01:40:56,926 - 01:40:58,926] not the problem, what's the problem?
+- [01:40:58,926 - 01:41:01,926] Failure to ask might be one of your major problems.
+- [01:41:01,926 - 01:41:03,926] I don't know.
+- [01:41:03,926 - 01:41:05,926] Check it out.
+- [01:41:05,926 - 01:41:07,926] The guy says, oh, now I see it.
+- [01:41:07,926 - 01:41:09,926] I got up last year and hit it every day.
+- [01:41:09,926 - 01:41:12,926] But there's not a scrap of paper with my goal.
+- [01:41:12,926 - 01:41:15,926] All right.
+- [01:41:15,926 - 01:41:17,926] Good worker.
+- [01:41:17,926 - 01:41:19,926] Poor asker.
+- [01:41:19,926 - 01:41:21,926] So you got to change that.
+- [01:41:21,926 - 01:41:23,926] Here's number three.
+- [01:41:23,926 - 01:41:26,926] Receiving is like the ocean.
+- [01:41:26,926 - 01:41:29,926] There's plenty.
+- [01:41:29,926 - 01:41:35,926] Especially in California.
+- [01:41:35,926 - 01:41:37,926] It's like an ocean here.
+- [01:41:42,926 - 01:41:46,926] Success is not in short supply.
+- [01:41:46,926 - 01:41:48,926] It isn't rationed.
+- [01:41:48,926 - 01:41:49,926] And you stepped up to the
+- [01:41:49,926 - 01:41:50,926] window and it was all gone.
+- [01:41:50,926 - 01:41:52,926] No, no, no.
+- [01:41:52,926 - 01:41:57,926] It's like an ocean here.
+- [01:41:57,926 - 01:41:59,926] Now, if that's true, what's the problem?
+- [01:41:59,926 - 01:42:04,926] Well, some people go to the ocean with a teaspoon.
+- [01:42:04,926 - 01:42:08,926] Have you got the picture?
+- [01:42:08,926 - 01:42:09,926] See, what you want to do in view of
+- [01:42:09,926 - 01:42:10,926] the size of the ocean is trade your teeth.
+- [01:42:10,926 - 01:42:15,926] Spoon for at least a bucket.
+- [01:42:15,926 - 01:42:19,926] And you'll look better down at the ocean.
+- [01:42:19,926 - 01:42:25,926] Kids won't make fun of you.
+- [01:42:25,926 - 01:42:26,926] Okay.
+- [01:42:26,926 - 01:42:28,926] Now there's two ways to ask and
+- [01:42:28,926 - 01:42:30,926] we'll wrap up goal setting two ways.
+- [01:42:30,926 - 01:42:31,926] Here's number one.
+- [01:42:31,926 - 01:42:36,926] Ask with intelligence.
+- [01:42:36,926 - 01:42:38,926] It didn't say ask intelligently,
+- [01:42:38,926 - 01:42:40,926] but I'm sure it meant that.
+- [01:42:40,926 - 01:42:41,926] Don't mumble.
+- [01:42:41,926 - 01:42:44,926] You don't get anything by mumbling.
+- [01:42:44,926 - 01:42:45,926] Be clear.
+- [01:42:45,926 - 01:42:46,926] Be specific.
+- [01:42:46,926 - 01:42:50,426] Intelligent asking means how wide, how high, how
+- [01:42:50,426 - 01:42:53,926] soon, when, what size, what color, how much.
+- [01:42:53,926 - 01:42:58,926] Define what you want and describe what you want.
+- [01:42:58,926 - 01:43:00,926] That's powerful.
+- [01:43:00,926 - 01:43:02,426] In the weekend seminar we
+- [01:43:02,426 - 01:43:03,926] teach, goals become like a magnet.
+- [01:43:03,926 - 01:43:05,926] They pull you that direction.
+- [01:43:05,926 - 01:43:08,926] And the better you describe them, the more they pull.
+- [01:43:10,926 - 01:43:12,926] So ask intelligently.
+- [01:43:12,926 - 01:43:13,926] Here's number two.
+- [01:43:13,926 - 01:43:17,926] Ask with faith.
+- [01:43:17,926 - 01:43:20,926] That's the childish part of the equation.
+- [01:43:20,926 - 01:43:28,926] Believe you can get what you want like a child.
+- [01:43:28,926 - 01:43:29,926] Not an adult.
+- [01:43:29,926 - 01:43:34,926] Adults are too skeptical.
+- [01:43:34,926 - 01:43:37,426] So the formula really reads, make plans like
+- [01:43:37,426 - 01:43:39,926] an adult and believe in them like a child.
+- [01:43:39,926 - 01:43:42,926] And the most incredible things will happen.
+- [01:43:42,926 - 01:43:45,926] Just try it for 90 days.
+- [01:43:45,926 - 01:43:47,926] Just try it.
+- [01:43:47,926 - 01:43:49,926] You can always go back to the old ways.
+- [01:43:49,926 - 01:43:50,926] Just try it.
+- [01:43:50,926 - 01:43:55,926] Just 90 days, 90 days.
+- [01:43:55,926 - 01:43:58,426] Now here's the last qualifying phrase on
+- [01:43:58,426 - 01:44:00,926] goal setting, as we promised to qualify everything.
+- [01:44:00,926 - 01:44:01,926] And it simply goes like this.
+- [01:44:01,926 - 01:44:07,926] Remember, you won't get everything you want.
+- [01:44:07,926 - 01:44:12,926] And we've already studied the reason for that.
+- [01:44:12,926 - 01:44:15,926] Simply, sometimes it hails on your
+- [01:44:15,926 - 01:44:18,926] crop and rains on your parade.
+- [01:44:18,926 - 01:44:19,926] It's that kind of planet.
+- [01:44:19,926 - 01:44:21,926] So you won't get everything you want.
+- [01:44:21,926 - 01:44:25,926] But if you will work this goal setting
+- [01:44:25,926 - 01:44:29,926] formula, you can get plenty for wealth and happiness.
+- [01:44:29,926 - 01:44:30,926] Okay.
+- [01:44:30,926 - 01:44:31,926] That's goal setting.
+- [01:44:31,926 - 01:44:33,926] We use it around the world.
+- [01:44:33,926 - 01:44:35,926] We recommend it.
+- [01:44:35,926 - 01:44:36,926] Okay.
+- [01:44:36,926 - 01:44:38,926] Now, maybe it won't work as well
+- [01:44:38,926 - 01:44:40,926] for you as it has for me.
+- [01:44:40,926 - 01:44:41,926] I don't know.
+- [01:44:41,926 - 01:44:43,926] Maybe not.
+- [01:44:43,926 - 01:44:47,926] But what if it did?
+- [01:44:47,926 - 01:44:50,926] You got to try.
+- [01:44:50,926 - 01:44:52,926] Okay.
+- [01:44:52,926 - 01:44:55,926] Here's the last subject, the
+- [01:44:55,926 - 01:44:58,926] day that turns your life around.
+- [01:44:58,926 - 01:45:01,926] Let me just quickly give you a list of
+- [01:45:01,926 - 01:45:04,926] four emotions that can change your life in one day.
+- [01:45:04,926 - 01:45:06,926] Emotions are powerful.
+- [01:45:06,926 - 01:45:11,926] Sometimes it doesn't take much
+- [01:45:11,926 - 01:45:16,926] to alter your whole life direction.
+- [01:45:16,926 - 01:45:17,926] Okay.
+- [01:45:17,926 - 01:45:18,926] Here they are.
+- [01:45:18,926 - 01:45:22,926] Number one, disgust.
+- [01:45:22,926 - 01:45:24,926] Powerful emotion.
+- [01:45:24,926 - 01:45:31,926] Disgust says, I have had it.
+- [01:45:31,926 - 01:45:32,926] See, that could be the day.
+- [01:45:32,926 - 01:45:34,926] The day you can say, I've had it.
+- [01:45:34,926 - 01:45:40,426] And whether you've had it with something small or something major, the day you can
+- [01:45:40,426 - 01:45:45,926] say, I've had it, may not be the day it ends, but the day it begins.
+- [01:45:45,926 - 01:45:48,426] That's what I said when that little
+- [01:45:48,426 - 01:45:50,926] girl scout left my door when I'm 25.
+- [01:45:50,926 - 01:45:52,926] I give her the big lie.
+- [01:45:52,926 - 01:45:53,926] She leaves.
+- [01:45:53,926 - 01:45:58,926] I say, I don't want to live like this anymore.
+- [01:45:58,926 - 01:46:03,926] I've had it with lying and being broke.
+- [01:46:03,926 - 01:46:06,926] Powerful day.
+- [01:46:06,926 - 01:46:12,926] The man's finally had it with mediocrity.
+- [01:46:12,926 - 01:46:14,926] He's had it with being a loser.
+- [01:46:14,926 - 01:46:20,426] He's finally had it with those awful sick feelings inside, knowing his wife is at the
+- [01:46:20,426 - 01:46:25,926] grocery store looking at two cans of beans, one marked 37 cents, one marked 39 cents.
+- [01:46:25,926 - 01:46:28,926] And the guy sick inside knows his wife's going to buy
+- [01:46:28,926 - 01:46:31,926] the 37 cent can and she doesn't even like the brand.
+- [01:46:31,926 - 01:46:33,426] Do you know why she's going
+- [01:46:33,426 - 01:46:34,926] to buy the 37 cent can?
+- [01:46:34,926 - 01:46:42,926] To save two cents.
+- [01:46:42,926 - 01:46:45,926] The guy sick inside finally says, I've had it.
+- [01:46:45,926 - 01:46:48,926] Being on my knees in the dust looking for pennies.
+- [01:46:48,926 - 01:46:53,926] We're not living like this anymore.
+- [01:46:53,926 - 01:46:59,926] Could be the day that turns your life around.
+- [01:46:59,926 - 01:47:00,926] The day you can say, I've had it with lying.
+- [01:47:00,926 - 01:47:03,926] The day you can say, I've had it.
+- [01:47:03,926 - 01:47:10,926] He walks into his closet and rips everything in it to
+- [01:47:10,926 - 01:47:17,926] shreds and says, I've worn this embarrassing stuff for the last time.
+- [01:47:17,926 - 01:47:21,426] And not only will I never wear it
+- [01:47:21,426 - 01:47:24,926] again, no one else will ever wear it again.
+- [01:47:24,926 - 01:47:29,926] Commit an act that says, I've had it.
+- [01:47:29,926 - 01:47:32,926] I've had it.
+- [01:47:32,926 - 01:47:34,926] Powerful.
+- [01:47:34,926 - 01:47:35,926] Here's the next one.
+- [01:47:35,926 - 01:47:38,926] Decision.
+- [01:47:38,926 - 01:47:41,926] And decision making is powerful.
+- [01:47:41,926 - 01:47:43,926] And it's emotional.
+- [01:47:43,926 - 01:47:45,926] That's those knots in the pit of your stomach, right?
+- [01:47:45,926 - 01:47:48,926] Waking up in the middle of the
+- [01:47:48,926 - 01:47:51,926] night in the cold sweat trying to decide.
+- [01:47:51,926 - 01:47:56,926] We sometimes call it inner civil war.
+- [01:47:56,926 - 01:47:58,926] What shall I do?
+- [01:47:59,926 - 01:48:03,926] Well, for progress, you must decide.
+- [01:48:03,926 - 01:48:06,426] The best advice I can give you came
+- [01:48:06,426 - 01:48:08,926] from a wealthy friend of mine who said,
+- [01:48:08,926 - 01:48:10,926] If it's easy, do it easy.
+- [01:48:10,926 - 01:48:12,926] If it's hard, do it hard.
+- [01:48:12,926 - 01:48:17,926] Just get it done.
+- [01:48:17,926 - 01:48:22,926] If you went home tonight and in the next few days cleaned up a
+- [01:48:22,926 - 01:48:27,926] whole list of decisions that might furnish enough inspiration for the next 10 years.
+- [01:48:27,926 - 01:48:29,926] I found this out.
+- [01:48:29,926 - 01:48:31,926] Many times after you've decided, getting
+- [01:48:31,926 - 01:48:33,926] on with it is easier than deciding.
+- [01:48:33,926 - 01:48:37,926] Sometimes decision is the toughest part.
+- [01:48:37,926 - 01:48:39,926] Here's the next emotion.
+- [01:48:39,926 - 01:48:40,926] Desire.
+- [01:48:40,926 - 01:48:43,926] Wanting to bad enough.
+- [01:48:43,926 - 01:48:44,926] And I don't know how
+- [01:48:44,926 - 01:48:45,926] to tell you to want to.
+- [01:48:45,926 - 01:48:48,926] That's something you've got to come up with.
+- [01:48:48,926 - 01:48:50,926] There's two things I know about desire.
+- [01:48:50,926 - 01:48:53,926] Number one, it comes from inside, not outside.
+- [01:48:53,926 - 01:48:55,926] You don't send off for it.
+- [01:48:55,926 - 01:48:56,926] You don't send off for it.
+- [01:48:57,926 - 01:49:04,926] Number two, I know desire can be triggered by something.
+- [01:49:04,926 - 01:49:06,926] Who knows what it might be?
+- [01:49:06,926 - 01:49:11,926] Sometimes desire waits and sleeps for something to happen.
+- [01:49:11,926 - 01:49:12,926] Maybe it's a book.
+- [01:49:12,926 - 01:49:13,926] Maybe it's a song.
+- [01:49:13,926 - 01:49:15,926] Maybe it's a sermon.
+- [01:49:15,926 - 01:49:17,926] Maybe it's a lecture, a seminar.
+- [01:49:17,926 - 01:49:20,926] Maybe it's the conversation of
+- [01:49:20,926 - 01:49:23,926] a friend, a happening, an event.
+- [01:49:23,926 - 01:49:24,926] Who knows?
+- [01:49:24,926 - 01:49:26,926] The best advice I can give you is,
+- [01:49:26,926 - 01:49:29,926] what I give my staff, it goes like this,
+- [01:49:29,926 - 01:49:33,926] welcome every human experience.
+- [01:49:33,926 - 01:49:36,426] You never know which one is
+- [01:49:36,426 - 01:49:38,926] going to turn it all on.
+- [01:49:38,926 - 01:49:40,926] Even the bad experiences.
+- [01:49:40,926 - 01:49:43,926] Sometimes from the bitterest
+- [01:49:43,926 - 01:49:46,926] experience comes the greatest awakening.
+- [01:49:46,926 - 01:49:47,926] So let down the barriers.
+- [01:49:47,926 - 01:49:49,926] Take down the walls.
+- [01:49:49,926 - 01:49:51,926] The same wall that keeps
+- [01:49:51,926 - 01:49:53,926] out disappointment keeps out happiness.
+- [01:49:53,926 - 01:49:54,926] Let life be.
+- [01:49:54,926 - 01:49:55,926] Let it be.
+- [01:49:55,926 - 01:49:56,926] Let life touch you.
+- [01:49:56,926 - 01:50:02,926] Don't let it kill you, but let it touch you.
+- [01:50:02,926 - 01:50:03,926] Here's the last one.
+- [01:50:03,926 - 01:50:05,926] This one's powerful.
+- [01:50:05,926 - 01:50:08,926] Resolve.
+- [01:50:08,926 - 01:50:10,926] Resolve says, I will.
+- [01:50:10,926 - 01:50:12,926] Two of the most powerful words in the language.
+- [01:50:12,926 - 01:50:15,926] I will.
+- [01:50:15,926 - 01:50:16,926] Benjamin Disraeli once said,
+- [01:50:16,926 - 01:50:20,926] nothing can resist a human will.
+- [01:50:20,926 - 01:50:22,926] That will stake even its existence
+- [01:50:22,926 - 01:50:24,926] on the extent of its purpose.
+- [01:50:25,926 - 01:50:29,926] Shortly put, I'll do it or die.
+- [01:50:29,926 - 01:50:31,926] See, that's powerful.
+- [01:50:31,926 - 01:50:33,926] That could be the day that turns your life around.
+- [01:50:33,926 - 01:50:35,426] The world has a strange way
+- [01:50:35,426 - 01:50:36,926] of stepping aside when somebody says,
+- [01:50:36,926 - 01:50:38,926] I'll do it or die.
+- [01:50:40,926 - 01:50:43,926] The man says, I will climb the mountain.
+- [01:50:43,926 - 01:50:45,926] They've told me it's too high.
+- [01:50:45,926 - 01:50:46,926] It's too far.
+- [01:50:46,926 - 01:50:47,926] It's too rocky.
+- [01:50:47,926 - 01:50:48,926] It's too difficult.
+- [01:50:48,926 - 01:50:50,926] It's never been done before, but it's my mountain.
+- [01:50:50,926 - 01:50:51,926] I will climb it.
+- [01:50:51,926 - 01:50:53,926] Pretty soon you'll see me waving from the top.
+- [01:50:53,926 - 01:50:54,926] Or dead on the side of the mountain.
+- [01:50:54,926 - 01:50:56,926] Or dead on the side.
+- [01:50:56,926 - 01:51:04,926] Because I ain't coming back.
+- [01:51:04,926 - 01:51:07,926] The best definition I ever got from the word resolve
+- [01:51:07,926 - 01:51:10,426] came from a little junior high
+- [01:51:10,426 - 01:51:12,926] girl in Foster City, California, up north.
+- [01:51:12,926 - 01:51:14,926] I'm talking to the junior high kids one day.
+- [01:51:14,926 - 01:51:16,926] I love to ask kids definitions.
+- [01:51:16,926 - 01:51:19,926] They come up with beauties.
+- [01:51:19,926 - 01:51:21,926] I got to the word resolve and I asked,
+- [01:51:21,926 - 01:51:23,926] who can tell me what resolve means?
+- [01:51:23,926 - 01:51:25,426] And I got several hands
+- [01:51:25,426 - 01:51:26,926] and they were all pretty good.
+- [01:51:26,926 - 01:51:30,926] But the last one was the best.
+- [01:51:30,926 - 01:51:33,926] Little girl, about three rows back, held up her hand.
+- [01:51:33,926 - 01:51:35,426] She said, Mr. Rowan, Mr. Rowan,
+- [01:51:35,426 - 01:51:36,926] I think I know what resolve means.
+- [01:51:36,926 - 01:51:38,926] I said, darling, what do you think it means?
+- [01:51:38,926 - 01:51:41,426] She said, I think it means
+- [01:51:41,426 - 01:51:43,926] promising yourself you will never give up.
+- [01:51:45,926 - 01:51:48,926] I said, that's it.
+- [01:51:49,926 - 01:51:51,926] Webster, stand aside.
+- [01:51:51,926 - 01:51:54,926] That is the definition.
+- [01:51:54,926 - 01:51:58,926] Promise yourself you will never give up.
+- [01:51:59,926 - 01:52:01,926] I asked the kids, how long should
+- [01:52:01,926 - 01:52:03,926] a baby try to learn how to walk?
+- [01:52:05,926 - 01:52:06,926] How long?
+- [01:52:06,926 - 01:52:07,926] How long would you give your
+- [01:52:07,926 - 01:52:08,926] average baby before you shut him off?
+- [01:52:08,926 - 01:52:09,926] How long?
+- [01:52:11,926 - 01:52:14,926] See, any mother in the world would say, you're crazy.
+- [01:52:14,926 - 01:52:16,426] My baby's going to keep trying
+- [01:52:16,426 - 01:52:17,926] until it learns how to walk.
+- [01:52:17,926 - 01:52:19,926] What a magic formula.
+- [01:52:21,926 - 01:52:25,426] Now, let me show you what triggers
+- [01:52:25,426 - 01:52:28,926] all emotions into activity that brings results.
+- [01:52:28,926 - 01:52:30,926] And results is the name of the game.
+- [01:52:30,926 - 01:52:31,926] Here it is.
+- [01:52:32,926 - 01:52:33,926] Action.
+- [01:52:34,926 - 01:52:37,926] Finally, you must do something about how you feel.
+- [01:52:41,926 - 01:52:44,926] Jesus, the master teacher said,
+- [01:52:44,926 - 01:52:47,926] don't just be listeners, be doers.
+- [01:52:47,926 - 01:52:50,926] The world admires the doers.
+- [01:52:50,926 - 01:52:53,426] Whatever it takes to get you to try harder,
+- [01:52:53,426 - 01:52:55,926] read more, set your goals and go for it.
+- [01:52:57,926 - 01:52:59,926] Here's the next attitude disease.
+- [01:53:00,926 - 01:53:01,926] Overcaution.
+- [01:53:04,926 - 01:53:06,926] Some people never will have much.
+- [01:53:06,926 - 01:53:08,926] They're too cautious.
+- [01:53:11,926 - 01:53:13,926] Now, you can also be too reckless,
+- [01:53:13,926 - 01:53:15,926] but you can also be too cautious.
+- [01:53:16,926 - 01:53:19,926] This is called the timid approach to life.
+- [01:53:20,926 - 01:53:25,926] And my caution was always the risk.
+- [01:53:25,926 - 01:53:27,926] Risk used to drive me right up the wall.
+- [01:53:27,926 - 01:53:31,926] I used to say, what if this happens?
+- [01:53:31,926 - 01:53:34,926] It's called the language of the poor.
+- [01:53:34,926 - 01:53:36,926] What if this happens?
+- [01:53:36,926 - 01:53:38,926] And on top of that, if this was
+- [01:53:38,926 - 01:53:40,926] to happen, look at the fix I'd be in.
+- [01:53:40,926 - 01:53:41,926] I better not try.
+- [01:53:41,926 - 01:53:45,926] I could always ace myself out.
+- [01:53:45,926 - 01:53:48,926] Then I'll tell you what changed my whole life.
+- [01:53:48,926 - 01:53:49,926] When I finally discovered it.
+- [01:53:49,926 - 01:53:52,926] It's all risky.
+- [01:53:54,926 - 01:53:55,926] The minute you were born.
+- [01:53:55,926 - 01:53:56,926] It got risky.
+- [01:53:57,926 - 01:53:58,926] If you think trying is risky.
+- [01:53:59,926 - 01:54:01,926] Wait till they hand you the bill for not trying.
+- [01:54:03,926 - 01:54:05,426] If you think investing is risky, wait
+- [01:54:05,426 - 01:54:06,926] till you get the tab for not investing.
+- [01:54:06,926 - 01:54:08,926] See, it's all risky.
+- [01:54:08,926 - 01:54:09,926] Getting married is risky.
+- [01:54:09,926 - 01:54:10,926] Having children is risky.
+- [01:54:10,926 - 01:54:11,926] Going into business is risky.
+- [01:54:11,926 - 01:54:12,926] Investing.
+- [01:54:12,926 - 01:54:13,926] Your money is risky.
+- [01:54:13,926 - 01:54:14,926] It's all risky.
+- [01:54:16,926 - 01:54:17,926] I'll tell you how risky life is.
+- [01:54:17,926 - 01:54:18,926] You're not going to get married.
+- [01:54:18,926 - 01:54:23,536] is. You're not going to get out alive.
+- [01:54:23,536 - 01:54:28,146] That's risky. The Englishman says, well, if that's the
+- [01:54:28,146 - 01:54:30,456] way it's going to work out, let's give it a
+- [01:54:30,456 - 01:54:32,766] go. Right. That's what it's for. Give it a go.
+- [01:54:35,266 - 01:54:37,336] Somebody says, yeah, but I'm looking for safety
+- [01:54:37,336 - 01:54:39,406] and security. Fine. Then huddle in a corner.
+- [01:54:40,746 - 01:54:43,066] We'll cover you with a sheet, bring you
+- [01:54:43,066 - 01:54:45,386] three meals a day and we'll protect you,
+- [01:54:45,386 - 01:54:47,685] feed you, look after you, care for
+- [01:54:47,685 - 01:54:49,985] you. We won't let anything happen to you.
+- [01:54:50,226 - 01:54:52,946] And you'll probably live to be 100. The
+- [01:54:52,946 - 01:54:55,666] guy said, well, yeah, I'd live to be 100.
+- [01:54:56,146 - 01:54:59,676] But what a way to live. Right. What a
+- [01:54:59,676 - 01:55:03,206] way to live safe and secure. Don't ask for security.
+- [01:55:03,746 - 01:55:08,026] Ask for adventure. Better to live 30 years full
+- [01:55:08,026 - 01:55:12,306] of adventure than 100 years safe in the corner.
+- [01:55:15,386 - 01:55:18,276] And see, it's not important how long
+- [01:55:18,276 - 01:55:21,166] you live. What's important is how you live.
+- [01:55:25,025 - 01:55:26,665] Here's the next attitude disease. We're almost
+- [01:55:26,665 - 01:55:28,306] through with this motley list. In fact,
+- [01:55:28,326 - 01:55:33,826] we're almost through. Hang on. The next one is pessimism.
+- [01:55:38,505 - 01:55:40,705] Pessimism, the deadly disease of always looking
+- [01:55:40,705 - 01:55:42,906] on the bad side, the problem side,
+- [01:55:42,906 - 01:55:44,136] the difficult side, checking all
+- [01:55:44,136 - 01:55:45,366] the reasons why it can't be.
+- [01:55:45,386 - 01:55:49,266] Done. The poor pessimist leads an ugly life.
+- [01:55:51,505 - 01:55:53,035] He doesn't try to figure out what's
+- [01:55:53,035 - 01:55:54,565] right. He tries to figure out what's wrong.
+- [01:55:55,886 - 01:55:58,106] He doesn't look for virtue. He looks for
+- [01:55:58,106 - 01:56:00,326] faults. And when he finds him, he's delighted.
+- [01:56:00,706 - 01:56:03,546] How ugly. This is the poor guy
+- [01:56:03,546 - 01:56:06,386] looks through the window, doesn't see the sunset.
+- [01:56:06,505 - 01:56:08,485] He sees the specs on the window.
+- [01:56:13,706 - 01:56:14,826] And this is the poor guy, right?
+- [01:56:14,826 - 01:56:15,386] Who rushes?
+- [01:56:15,386 - 01:56:17,065] Up, take such leave of his senses.
+- [01:56:17,186 - 01:56:18,986] This guy rushes up and he says, I've
+- [01:56:18,986 - 01:56:20,786] got five good reasons why it won't work.
+- [01:56:21,386 - 01:56:22,326] He's so dumb.
+- [01:56:22,326 - 01:56:23,505] He doesn't know all he needs.
+- [01:56:23,505 - 01:56:24,866] One. He's got five.
+- [01:56:31,965 - 01:56:36,686] To the pessimist, the glass is always half empty.
+- [01:56:37,886 - 01:56:40,706] To the optimist, the glass is half full.
+- [01:56:41,625 - 01:56:44,605] Why would the same measure affect people two different ways?
+- [01:56:44,625 - 01:56:45,226] Answer.
+- [01:56:45,386 - 01:56:47,065] It all depends on how you look at it.
+- [01:56:48,266 - 01:56:50,286] Our lives are mostly affected by
+- [01:56:50,286 - 01:56:52,306] the way we think things are.
+- [01:56:53,505 - 01:56:55,105] Not the way they are.
+- [01:56:55,766 - 01:56:59,266] The way we think they are affects us most.
+- [01:57:02,366 - 01:57:04,475] There's a subject we don't have time
+- [01:57:04,475 - 01:57:06,585] to get into tonight called better thinking habits.
+- [01:57:07,906 - 01:57:09,445] One of the major things Shoaff taught me when I
+- [01:57:09,445 - 01:57:10,985] met him, he said, poor thinking habits keeps most people poor.
+- [01:57:10,985 - 01:57:13,686] He said, poor thinking habits keeps most people poor.
+- [01:57:13,686 - 01:57:14,925] He said, poor thinking habits keeps most people poor.
+- [01:57:15,386 - 01:57:17,686] Not poor working habits.
+- [01:57:17,686 - 01:57:20,146] Most people work hard, but they don't think hard.
+- [01:57:20,146 - 01:57:22,706] And Shoaff taught me that the mind
+- [01:57:22,706 - 01:57:25,266] is like a factory, a mental factory.
+- [01:57:25,266 - 01:57:27,496] And whatever you think about all day
+- [01:57:27,496 - 01:57:29,726] long pours ingredients into this mental factory.
+- [01:57:29,726 - 01:57:32,966] And that's what builds the economic,
+- [01:57:32,966 - 01:57:36,206] social, financial fabric of your life.
+- [01:57:39,266 - 01:57:42,286] He quoted me a Bible phrase that
+- [01:57:42,286 - 01:57:45,306] says, as you think, so you become.
+- [01:57:45,386 - 01:57:46,386] How awesome.
+- [01:57:46,386 - 01:57:47,386] How awesome.
+- [01:57:47,386 - 01:57:52,386] When he talked about poor thinking habits, he had me.
+- [01:57:52,386 - 01:57:55,386] I used to start the day reading the morning newspaper.
+- [01:57:55,386 - 01:57:57,386] I mean, you can believe that or not.
+- [01:57:57,386 - 01:57:59,386] I'd get a cup of coffee and read the paper.
+- [01:57:59,386 - 01:58:02,386] I'd load up on wars and riots and murders and stabbings
+- [01:58:02,386 - 01:58:05,386] and killings and bank robberies and muggings and car wrecks and tragedies.
+- [01:58:05,386 - 01:58:06,386] I'd even read the back pages.
+- [01:58:06,386 - 01:58:08,386] I seem to like that stuff for some weird reason.
+- [01:58:08,386 - 01:58:09,386] I'd load up on all that.
+- [01:58:09,386 - 01:58:10,386] And then I'd start the day.
+- [01:58:10,386 - 01:58:11,386] You can imagine the kind
+- [01:58:11,386 - 01:58:12,386] of days I used to have.
+- [01:58:12,386 - 01:58:13,386] I'd read the back pages.
+- [01:58:13,386 - 01:58:14,386] I seem to like that stuff for some weird reason.
+- [01:58:14,386 - 01:58:15,386] I'd load up on all that.
+- [01:58:15,386 - 01:58:19,386] You walk around on your financial knees.
+- [01:58:19,386 - 01:58:22,386] They call you economic peewee.
+- [01:58:29,386 - 01:58:33,386] The guy says, I want to be a great leader.
+- [01:58:33,386 - 01:58:34,386] Wonderful.
+- [01:58:34,386 - 01:58:35,886] The first thing we do
+- [01:58:35,886 - 01:58:37,386] is follow him to his house.
+- [01:58:37,386 - 01:58:39,886] When we get there, we
+- [01:58:39,886 - 01:58:42,386] walk in and check his library.
+- [01:58:42,386 - 01:58:43,386] Number one.
+- [01:58:45,386 - 01:58:48,386] Somebody says, well, why check his library?
+- [01:58:48,386 - 01:58:52,386] The reason is because what a man
+- [01:58:52,386 - 01:58:56,386] reads pours massive ingredients into his mental factory.
+- [01:58:56,386 - 01:58:59,886] And the fabric of his
+- [01:58:59,886 - 01:59:03,386] life is built from those ingredients.
+- [01:59:03,386 - 01:59:06,386] You would not believe what some people
+- [01:59:06,386 - 01:59:09,386] have got in their house to read.
+- [01:59:09,386 - 01:59:10,386] You would not believe.
+- [01:59:10,386 - 01:59:11,886] One of the best dressed up words I
+- [01:59:11,886 - 01:59:13,386] know for a lot of it is trash.
+- [01:59:13,386 - 01:59:14,386] Can you imagine that?
+- [01:59:14,386 - 01:59:17,886] Can you imagine dumping a barrel of trash into this mental
+- [01:59:17,886 - 01:59:21,386] factory every day and coming out with a rich, dynamic, positive life?
+- [01:59:21,386 - 01:59:24,386] It can't be done.
+- [01:59:24,386 - 01:59:30,386] You might as well try making a cake with cement.
+- [01:59:30,386 - 01:59:35,386] The kids back in Danbury, Connecticut, high school.
+- [01:59:35,386 - 01:59:36,386] They're asking me questions one day.
+- [01:59:36,386 - 01:59:38,386] I'm talking to the kids.
+- [01:59:38,386 - 01:59:40,386] Kids got good questions these days.
+- [01:59:40,386 - 01:59:41,886] One of them said to me, Mr.
+- [01:59:41,886 - 01:59:43,386] Rohn, how do you build the good life?
+- [01:59:43,386 - 01:59:47,386] I said, it's simple.
+- [01:59:47,386 - 01:59:51,386] It's not easy, but it's simple.
+- [01:59:51,386 - 01:59:53,386] Here's how you build anything.
+- [01:59:53,386 - 01:59:55,386] Select the right ingredients.
+- [01:59:55,386 - 01:59:57,386] Keep out the wrong ingredients.
+- [01:59:57,386 - 01:59:59,386] And it starts with thought.
+- [01:59:59,386 - 02:00:03,386] Everything starts with thought.
+- [02:00:03,386 - 02:00:06,886] So you must be wise and careful
+- [02:00:06,886 - 02:00:10,386] what you think about because that starts everything.
+- [02:00:13,386 - 02:00:17,386] You got to be wise and careful.
+- [02:00:17,386 - 02:00:20,386] I asked the kids, what would happen
+- [02:00:20,386 - 02:00:23,386] if somebody dropped sugar in my coffee?
+- [02:00:23,386 - 02:00:25,386] They said, well, you'd be okay.
+- [02:00:25,386 - 02:00:29,386] I said, what if somebody dropped strychnine in my coffee?
+- [02:00:29,386 - 02:00:32,386] They said, well, you'd be dead.
+- [02:00:32,386 - 02:00:34,386] I said, correct.
+- [02:00:34,386 - 02:00:39,386] Lesson one, life is both sugar and strychnine.
+- [02:00:39,386 - 02:00:41,386] You got to be careful.
+- [02:00:41,386 - 02:00:45,386] But be careful.
+- [02:00:45,386 - 02:00:46,886] I said, what if my
+- [02:00:46,886 - 02:00:48,386] worst enemy drops in the sugar?
+- [02:00:48,386 - 02:00:50,386] They said, will you be okay?
+- [02:00:50,386 - 02:00:52,385] I said, what if my best friend,
+- [02:00:52,385 - 02:00:54,385] even by accident, drops in the strychnine?
+- [02:00:54,385 - 02:00:56,385] They said, well, you'd be dead.
+- [02:00:56,385 - 02:00:57,385] I said, correct.
+- [02:00:57,385 - 02:01:05,385] Lesson two, watch your coffee.
+- [02:01:05,385 - 02:01:06,385] You got to be careful.
+- [02:01:06,385 - 02:01:09,385] See, it doesn't matter who hands you the bad stuff.
+- [02:01:09,385 - 02:01:11,385] It doesn't matter where you get the bad stuff.
+- [02:01:11,386 - 02:01:14,886] It will still do its damage on
+- [02:01:14,886 - 02:01:18,386] your bank account, wherever you get it.
+- [02:01:18,386 - 02:01:19,886] Mr. Shulff gave me one of the greatest
+- [02:01:19,886 - 02:01:21,386] phrases when I first met him when he said,
+- [02:01:21,386 - 02:01:26,386] Jim, every day stand guard
+- [02:01:26,386 - 02:01:31,386] at the door of your mind.
+- [02:01:31,386 - 02:01:33,386] How important.
+- [02:01:33,386 - 02:01:39,386] Stand guard at the door of your mind.
+- [02:01:39,386 - 02:01:40,386] And you know what?
+- [02:01:40,386 - 02:01:41,386] You're going to be a good friend.
+- [02:01:41,386 - 02:01:43,386] And you decide what goes into your mental factory.
+- [02:01:43,386 - 02:01:48,386] Don't let anybody just dump anything they want to in
+- [02:01:48,386 - 02:01:53,386] your mental factory because you've got to live with the results.
+- [02:01:53,386 - 02:01:54,386] Okay, here's the last disease
+- [02:01:54,386 - 02:01:55,386] and we're through with this list.
+- [02:01:55,386 - 02:01:56,386] In fact, we're almost through.
+- [02:01:56,386 - 02:01:59,386] Hang on.
+- [02:01:59,386 - 02:02:02,386] The last subject is very brief.
+- [02:02:02,386 - 02:02:05,386] The last disease, but this one is deadly.
+- [02:02:05,386 - 02:02:07,386] Engage in this one, indulge in it even slightly, and you
+- [02:02:07,386 - 02:02:09,386] might as well forget the future because it's going to forget you.
+- [02:02:10,386 - 02:02:15,386] Complaining, crying, whining, griping,
+- [02:02:15,386 - 02:02:20,386] a Bible word called murmuring.
+- [02:02:20,386 - 02:02:23,386] See, that'll ace your future.
+- [02:02:23,386 - 02:02:27,386] Spend five minutes complaining and you have wasted five.
+- [02:02:27,386 - 02:02:29,386] And you may have begun what's
+- [02:02:29,386 - 02:02:31,386] known as economic cancer of the bone.
+- [02:02:31,386 - 02:02:34,886] Surely they will soon haul you off into a financial desert
+- [02:02:34,886 - 02:02:38,386] and there let you choke on the dust of your own regret.
+- [02:02:40,386 - 02:02:42,386] I hope I said that well so you won't forget.
+- [02:02:42,386 - 02:02:46,386] It's a deadly disease.
+- [02:02:46,386 - 02:02:48,886] If you don't think it's bad, ask
+- [02:02:48,886 - 02:02:51,386] the children of Israel of Old Testament fame.
+- [02:02:51,386 - 02:02:53,386] Typical of us all, their story
+- [02:02:53,386 - 02:02:55,386] just happened to get in the book.
+- [02:02:55,386 - 02:02:59,386] Story says children of Israel were slaves.
+- [02:02:59,386 - 02:03:01,386] God performed a series of
+- [02:03:01,386 - 02:03:03,386] dazzling miracles and got them out.
+- [02:03:03,386 - 02:03:05,386] And now they're heading for the promised land.
+- [02:03:05,386 - 02:03:06,386] Remember the story?
+- [02:03:06,386 - 02:03:08,386] Heading for the promised land.
+- [02:03:08,386 - 02:03:09,386] Tragedy of the story?
+- [02:03:09,386 - 02:03:13,386] They never got there.
+- [02:03:13,386 - 02:03:15,386] Reason.
+- [02:03:15,386 - 02:03:20,386] From day one they started to complain.
+- [02:03:20,386 - 02:03:23,386] They griped about the water.
+- [02:03:23,386 - 02:03:26,386] They griped about the weather.
+- [02:03:26,386 - 02:03:29,386] They whined and cried and griped about the food.
+- [02:03:29,386 - 02:03:31,386] They griped about the leadership.
+- [02:03:31,386 - 02:03:34,886] They whined and cried because it was too
+- [02:03:34,886 - 02:03:38,386] far, too cold, too hot, too difficult, too miserable.
+- [02:03:38,386 - 02:03:41,386] I mean they whined and cried for years.
+- [02:03:41,386 - 02:03:43,386] Finally God said, I've had it.
+- [02:03:43,386 - 02:03:44,386] Trip canceled.
+- [02:03:44,386 - 02:03:49,386] Or something like that.
+- [02:03:49,386 - 02:03:54,386] The story says they died in the
+- [02:03:54,386 - 02:03:59,386] desert, never got to the promised land.
+- [02:03:59,386 - 02:04:02,386] Which I think means two things.
+- [02:04:02,386 - 02:04:05,386] Indulge in this long enough, you get your future canceled.
+- [02:04:05,386 - 02:04:06,386] And I guess it also means,
+- [02:04:06,386 - 02:04:10,386] even God himself can only take so much.
+- [02:04:16,386 - 02:04:17,386] Okay.
+- [02:04:19,386 - 02:04:20,886] Just be on the lookout of the things
+- [02:04:20,886 - 02:04:22,386] that can destroy all the good you start.
+- [02:04:22,386 - 02:04:24,386] The war is on.
+- [02:04:24,386 - 02:04:26,886] And this evening, tomorrow,
+- [02:04:26,886 - 02:04:29,386] mentally, personally, socially, economically,
+- [02:04:29,386 - 02:04:31,386] you got to make sure you're winning the war.
+- [02:04:31,386 - 02:04:33,386] And this is part of it.
+- [02:04:36,386 - 02:04:39,461] OK?
