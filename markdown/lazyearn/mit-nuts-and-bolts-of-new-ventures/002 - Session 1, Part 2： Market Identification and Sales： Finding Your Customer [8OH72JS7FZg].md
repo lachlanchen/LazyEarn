@@ -1,0 +1,1992 @@
+# Transcript
+
+Source: lazyearn/mit-nuts-and-bolts-of-new-ventures/002 - Session 1, Part 2： Market Identification and Sales： Finding Your Customer [8OH72JS7FZg].webm
+
+- [00:00:00,000 - 00:00:10,480] OK.
+- [00:00:10,480 - 00:00:12,400] Course logistics.
+- [00:00:12,400 - 00:00:18,620] This is actually an MIT course, 15393.
+- [00:00:18,620 - 00:00:21,600] The public website, because we have people taking the course
+- [00:00:21,600 - 00:00:27,520] that are not MIT people, is nutsandbolts.mit.edu.
+- [00:00:27,520 - 00:00:30,560] If you're registered officially through the MIT
+- [00:00:30,560 - 00:00:35,240] registrar for credit or as a listener, you should have
+- [00:00:35,240 - 00:00:37,950] access to the Canvas site,
+- [00:00:37,950 - 00:00:40,660] which appears at the bottom of
+- [00:00:40,660 - 00:00:41,940] the home page of nutsandbolts.mit.edu.
+- [00:00:47,379 - 00:00:48,500] Only two requirements.
+- [00:00:48,500 - 00:00:51,960] This is a three-unit pass-fail course.
+- [00:00:51,960 - 00:00:53,140] Only two requirements.
+- [00:00:53,140 - 00:00:54,490] One is that you attend each
+- [00:00:54,490 - 00:00:55,840] session, and we'd like to do
+- [00:00:55,840 - 00:00:57,480] that in person.
+- [00:00:57,480 - 00:00:58,839] Because of what you just
+- [00:00:58,839 - 00:01:00,199] saw, this team building, there have
+- [00:01:00,199 - 00:01:02,649] been many teams coming out
+- [00:01:02,649 - 00:01:05,099] of this course that entered the
+- [00:01:05,099 - 00:01:06,929] 100K competition, and a number
+- [00:01:06,929 - 00:01:08,759] of those went on to become
+- [00:01:08,759 - 00:01:10,840] successful companies.
+- [00:01:10,840 - 00:01:13,420] Started right here in this class.
+- [00:01:13,420 - 00:01:18,320] In order to figure out whether you actually attended, every
+- [00:01:18,320 - 00:01:21,320] night there will be a code, an attendance code.
+- [00:01:21,320 - 00:01:23,220] You'll see them on the doors.
+- [00:01:23,220 - 00:01:26,280] They're on a blackboard.
+- [00:01:26,280 - 00:01:27,300] You go to the Canvas.
+- [00:01:27,300 - 00:01:29,119] It's a website.
+- [00:01:29,119 - 00:01:31,880] And under assignments, there will be a quiz.
+- [00:01:31,880 - 00:01:33,139] And you pick which of
+- [00:01:33,139 - 00:01:34,399] the four answers there is the
+- [00:01:34,399 - 00:01:36,539] attendance code.
+- [00:01:36,539 - 00:01:41,020] That'll appear, I think, right around 9 o'clock every night.
+- [00:01:41,020 - 00:01:44,380] So that's that.
+- [00:01:44,380 - 00:01:46,700] A written requirement.
+- [00:01:46,700 - 00:01:49,700] Either an executive summary or
+- [00:01:49,700 - 00:01:52,700] a pitch deck is a requirement
+- [00:01:52,700 - 00:01:54,240] for the course.
+- [00:01:54,240 - 00:01:56,020] We'd like this to be done by teams.
+- [00:01:57,300 - 00:02:01,039] For two very important reasons, the first of which
+- [00:02:01,039 - 00:02:02,479] isn't the most important.
+- [00:02:02,479 - 00:02:06,620] But if everyone did a separate written requirement, I'd have
+- [00:02:06,620 - 00:02:08,579] to look at a whole bunch.
+- [00:02:08,579 - 00:02:10,329] If you do it as teams, I
+- [00:02:10,329 - 00:02:12,079] don't have to look at as many.
+- [00:02:12,079 - 00:02:13,460] That's just a personal thing.
+- [00:02:13,460 - 00:02:16,400] The more important thing is it's been shown that teams
+- [00:02:16,400 - 00:02:19,960] have a higher probability of success than individual sole
+- [00:02:19,960 - 00:02:21,079] entrepreneurs.
+- [00:02:21,079 - 00:02:23,039] So here's a chance to
+- [00:02:23,039 - 00:02:25,000] try out team building and team
+- [00:02:25,000 - 00:02:25,760] logistics.
+- [00:02:25,760 - 00:02:26,019] So we would like you to go to the Canvas.
+- [00:02:26,019 - 00:02:26,260] And if you're interested, you can go to the Canvas.
+- [00:02:26,260 - 00:02:26,420] And you can go to the Canvas.
+- [00:02:26,420 - 00:02:26,720] And you can go to the Canvas.
+- [00:02:26,720 - 00:02:26,960] And you can go to the Canvas.
+- [00:02:26,960 - 00:02:27,120] And you can go to the Canvas.
+- [00:02:27,120 - 00:02:27,220] And you can go to the Canvas.
+- [00:02:27,220 - 00:02:27,280] And you can go to the Canvas.
+- [00:02:27,280 - 00:02:27,560] And you can go to the Canvas.
+- [00:02:27,560 - 00:02:28,840] Form teams if possible.
+- [00:02:31,920 - 00:02:36,660] The written requirement is due Friday, January 31.
+- [00:02:36,660 - 00:02:41,120] If you're on Canvas, you'll see that as the assignment.
+- [00:02:41,120 - 00:02:42,670] The team efforts, there's a
+- [00:02:42,670 - 00:02:44,220] Google sheet where if you want
+- [00:02:44,220 - 00:02:46,910] to go in and put your
+- [00:02:46,910 - 00:02:49,600] name and what you're interested in,
+- [00:02:49,600 - 00:02:52,320] that can foster some team building.
+- [00:02:52,320 - 00:02:54,710] And we'd like you to try
+- [00:02:54,710 - 00:02:57,100] to do that by the 25th.
+- [00:02:57,100 - 00:02:59,100] this week.
+- [00:02:59,200 - 00:03:02,480] And so if you're having trouble finding a team, then we
+- [00:03:02,480 - 00:03:05,760] can work with you and the TAs to figure that out.
+- [00:03:08,799 - 00:03:10,789] Because we've compressed nuts and bolts
+- [00:03:10,789 - 00:03:12,780] into the last two weeks of
+- [00:03:13,240 - 00:03:15,769] independent activity period, the grades do have to get
+- [00:03:15,769 - 00:03:18,299] in within like a couple of days after the end.
+- [00:03:19,000 - 00:03:22,160] So we'll be focusing on those and giving you feedback.
+- [00:03:22,160 - 00:03:25,509] For people that are taking the course as a listener,
+- [00:03:25,509 - 00:03:28,859] either formally or just listening, who would like to submit something,
+- [00:03:29,560 - 00:03:31,270] we'll figure out how to
+- [00:03:31,270 - 00:03:32,980] have you email that to us.
+- [00:03:33,500 - 00:03:36,670] The written requirements for those taking the course for
+- [00:03:36,670 - 00:03:39,840] credit will be submitted through an assignment at Canvas.
+- [00:03:41,220 - 00:03:43,220] For those that are not taking it for credit,
+- [00:03:43,500 - 00:03:46,280] I want some feedback. We'll first get the grades
+- [00:03:46,280 - 00:03:49,060] in and then we'll turn and give you some feedback.
+- [00:03:50,260 - 00:03:52,120] So that's, I think, all of the basics.
+- [00:03:53,060 - 00:03:55,060] Logistics. Are there any questions?
+- [00:03:57,420 - 00:04:00,040] Okay, obviously if you have any particular questions,
+- [00:04:00,040 - 00:04:02,660] you can talk to me separately or the TAs.
+- [00:04:03,500 - 00:04:06,220] Okay, so for the second part of this evening,
+- [00:04:07,340 - 00:04:09,340] we're going to have
+- [00:04:11,100 - 00:04:14,660] Bob Jones finding your customer.
+- [00:04:18,019 - 00:04:20,019] Now,
+- [00:04:20,120 - 00:04:22,120] Bob and I were in a one-year
+- [00:04:22,220 - 00:04:24,220] 12-month
+- [00:04:25,300 - 00:04:27,730] Masters of Science in Management program at
+- [00:04:27,730 - 00:04:30,160] Sloan. That's like an MBA with a thesis.
+- [00:04:30,740 - 00:04:33,990] We did the first year in three months over the summer going five
+- [00:04:33,990 - 00:04:37,240] and a half days a week, and then we had to write a thesis.
+- [00:04:38,240 - 00:04:39,870] Needless to say, it was
+- [00:04:39,870 - 00:04:41,500] a pretty high intense environment, and
+- [00:04:42,240 - 00:04:44,320] Bob came up with the concept of,
+- [00:04:44,880 - 00:04:47,590] you know, economics, the consumption function. So
+- [00:04:47,590 - 00:04:50,300] Bob is the founder of the consumption function.
+- [00:04:50,900 - 00:04:52,040] Maybe he can expand on that.
+- [00:04:52,040 - 00:04:59,040] He's also a blues guitarist, and there's his website.
+- [00:04:59,640 - 00:05:01,440] I think you have a gig
+- [00:05:01,440 - 00:05:03,240] coming up. I got an email yesterday.
+- [00:05:03,640 - 00:05:04,540] Thursday night.
+- [00:05:04,640 - 00:05:06,390] Thursday night. Oh, well, they
+- [00:05:06,390 - 00:05:08,140] can't go, but maybe I will.
+- [00:05:08,140 - 00:05:09,140] It's at a brewery.
+- [00:05:09,640 - 00:05:10,240] It's at a brewery.
+- [00:05:10,240 - 00:05:11,240] Kind of makes sense.
+- [00:05:11,340 - 00:05:13,090] Okay, so what I'm going to
+- [00:05:13,090 - 00:05:14,840] do is switch over and introduce Bob.
+- [00:05:14,840 - 00:05:17,340] Can you want to start introducing yourself
+- [00:05:17,340 - 00:05:19,840] while I get your slides teed up here?
+- [00:05:22,040 - 00:05:24,040] Here you go.
+- [00:05:24,040 - 00:05:26,040] I give you Bob Jones.
+- [00:05:26,040 - 00:05:28,040] Thank you.
+- [00:05:28,040 - 00:05:32,040] Oh, if you're applauding already, I'll just quit right now.
+- [00:05:32,040 - 00:05:34,040] Thank you.
+- [00:05:34,040 - 00:05:38,540] I have this old-fashioned, quaint notion that if I'm going
+- [00:05:38,540 - 00:05:43,040] to ask you to give me your attention for 90 minutes,
+- [00:05:43,040 - 00:05:45,040] I ought to give you back the
+- [00:05:45,040 - 00:05:47,040] 90 minutes that I've been talking about.
+- [00:05:47,040 - 00:05:48,340] I'm going to give you back the
+- [00:05:48,340 - 00:05:49,640] 90 minutes that I've been talking about.
+- [00:05:49,640 - 00:05:50,640] I'm going to give you back the
+- [00:05:50,640 - 00:05:51,640] 90 minutes that I've been talking about.
+- [00:05:52,040 - 00:05:55,540] Something in return that's worthwhile, justifies
+- [00:05:55,540 - 00:05:59,040] that 90-minute investment on your part.
+- [00:05:59,040 - 00:06:02,540] And there's really two questions that I
+- [00:06:02,540 - 00:06:06,040] need answered in order to do that well.
+- [00:06:06,040 - 00:06:08,040] And the first one is, who are you?
+- [00:06:08,040 - 00:06:10,040] And the second one is, what do you want?
+- [00:06:11,040 - 00:06:14,040] And thanks, Joe.
+- [00:06:14,040 - 00:06:15,540] We've got a lot of
+- [00:06:15,540 - 00:06:17,040] statistics as to who you are.
+- [00:06:17,040 - 00:06:19,040] But I don't have a real good
+- [00:06:19,040 - 00:06:21,040] answer as to what is it you want.
+- [00:06:21,040 - 00:06:23,540] So let me poll a few of
+- [00:06:23,540 - 00:06:26,040] you and ask a couple of open-ended questions.
+- [00:06:26,040 - 00:06:29,040] How many of you are currently working
+- [00:06:29,040 - 00:06:32,040] on a startup that's beyond your first one?
+- [00:06:32,040 - 00:06:35,040] Your first one's already behind you.
+- [00:06:35,040 - 00:06:37,540] Okay, so you guys are 10 years
+- [00:06:37,540 - 00:06:40,040] older than you were two years ago, right?
+- [00:06:40,040 - 00:06:42,540] How many of you are engaged
+- [00:06:42,540 - 00:06:45,040] in your first startup right now?
+- [00:06:45,040 - 00:06:47,040] Okay.
+- [00:06:47,040 - 00:06:50,040] Medication is available.
+- [00:06:50,040 - 00:06:53,540] And how many of you are in this course because
+- [00:06:53,540 - 00:06:57,040] you're actually thinking seriously of doing this when you graduate?
+- [00:07:01,040 - 00:07:02,040] All right.
+- [00:07:02,040 - 00:07:04,540] Well, that leaves a whole bunch of
+- [00:07:04,540 - 00:07:07,040] you that are sort of unaccounted for.
+- [00:07:07,040 - 00:07:10,040] Are you exploring?
+- [00:07:10,040 - 00:07:12,540] Just, I don't know, when I was here
+- [00:07:12,540 - 00:07:15,040] and we had IAP, I took springboard diving.
+- [00:07:15,040 - 00:07:17,040] So I spent four weeks at the
+- [00:07:17,040 - 00:07:19,040] MIT pool shivering up on the high board.
+- [00:07:20,040 - 00:07:22,040] It was utterly unacademic.
+- [00:07:22,040 - 00:07:24,040] It was completely awesome.
+- [00:07:24,040 - 00:07:26,040] It was purely exploratory.
+- [00:07:26,040 - 00:07:28,040] So are some of you in here for that?
+- [00:07:28,040 - 00:07:30,040] Just checking it out?
+- [00:07:30,040 - 00:07:31,040] Yeah.
+- [00:07:31,040 - 00:07:32,040] Okay.
+- [00:07:32,040 - 00:07:33,040] Well, that helps a lot.
+- [00:07:33,040 - 00:07:36,040] Thank you.
+- [00:07:36,040 - 00:07:38,040] Then I think we've answered that.
+- [00:07:38,040 - 00:07:40,040] There are some lots of good
+- [00:07:40,040 - 00:07:42,040] reasons and you've given good reasons.
+- [00:07:42,040 - 00:07:45,040] There are one or two bad reasons, like I hope that Joe will
+- [00:07:45,040 - 00:07:48,040] give me the magic word, Shazam, that will cause me to do this.
+- [00:07:48,040 - 00:07:49,040] Okay.
+- [00:07:49,040 - 00:07:51,540] That will cause me to have a billion dollar
+- [00:07:51,540 - 00:07:54,040] business and then I'll sail my yacht to St.
+- [00:07:54,040 - 00:07:56,040] Bart's next year for New Year's.
+- [00:07:56,040 - 00:07:58,540] If you know how to do
+- [00:07:58,540 - 00:08:01,040] that, you've been holding out on me.
+- [00:08:01,040 - 00:08:02,040] Okay.
+- [00:08:02,040 - 00:08:04,040] A couple words on my background.
+- [00:08:04,040 - 00:08:09,540] I ended up starting four startups with a
+- [00:08:09,540 - 00:08:15,040] bunch of docs out of Harvard Med School.
+- [00:08:15,040 - 00:08:16,540] I broke down and wrote a book
+- [00:08:16,540 - 00:08:18,040] when I got done with all that.
+- [00:08:18,040 - 00:08:20,040] It's on Amazon.
+- [00:08:20,040 - 00:08:25,040] How to avoid failing in the crucial first two years.
+- [00:08:25,040 - 00:08:27,040] A lot of sobering lessons.
+- [00:08:27,040 - 00:08:32,039] I took a break between startup number three and startup number four because
+- [00:08:32,039 - 00:08:37,039] I was recruited to become CEO of a company publicly traded in Hong Kong.
+- [00:08:37,039 - 00:08:39,039] And it was a turnaround.
+- [00:08:39,039 - 00:08:42,039] Do you guys know what that means?
+- [00:08:42,039 - 00:08:44,539] It means it was a dreadful mess and
+- [00:08:44,539 - 00:08:47,040] it had been losing money for a long time.
+- [00:08:47,040 - 00:08:50,040] And the person they brought in to fix it
+- [00:08:50,040 - 00:08:53,040] was completely flummoxed by how many things were wrong.
+- [00:08:53,040 - 00:08:56,040] And the executive search guy says, you need somebody
+- [00:08:56,040 - 00:08:59,040] who's not afraid of a blank sheet of paper.
+- [00:08:59,040 - 00:09:01,040] I got just the guy.
+- [00:09:01,040 - 00:09:03,040] So it was not innovative.
+- [00:09:03,040 - 00:09:04,040] It was not glamorous.
+- [00:09:04,040 - 00:09:07,040] I had to fire 75 people.
+- [00:09:07,040 - 00:09:08,040] But I fixed it.
+- [00:09:08,040 - 00:09:11,040] And then I went back to entrepreneurship.
+- [00:09:11,040 - 00:09:13,040] I've had a couple normal jobs.
+- [00:09:13,040 - 00:09:15,040] I went to a couple of schools.
+- [00:09:15,040 - 00:09:16,040] As Joe mentioned.
+- [00:09:16,040 - 00:09:18,040] I am a working musician.
+- [00:09:18,040 - 00:09:20,040] Played last Thursday.
+- [00:09:20,040 - 00:09:22,040] Played Saturday.
+- [00:09:22,040 - 00:09:24,040] Playing this coming Thursday.
+- [00:09:24,040 - 00:09:26,040] And I do a fair amount
+- [00:09:26,040 - 00:09:28,040] of volunteer work in homeless shelters.
+- [00:09:28,040 - 00:09:30,040] Usually as a musician.
+- [00:09:30,040 - 00:09:32,540] That one in the bottom right
+- [00:09:32,540 - 00:09:35,040] is a big homeless shelter in Quincy.
+- [00:09:35,040 - 00:09:37,040] Thanksgiving Day.
+- [00:09:37,040 - 00:09:40,540] And I had called them up in advance and said, do you guys need like a really nerdy guitar
+- [00:09:40,540 - 00:09:44,040] player to sit in the corner and play nonviolent music while you feel like you're going to get fired?
+- [00:09:44,040 - 00:09:46,040] And they said, well, that's exactly the description.
+- [00:09:46,040 - 00:09:48,040] Are you a really nerdy guitarist?
+- [00:09:48,040 - 00:09:50,040] I said, oh, yes.
+- [00:09:50,040 - 00:09:52,040] And this was five or six years ago.
+- [00:09:52,040 - 00:09:54,040] This particular day they fed a thousand people.
+- [00:09:54,040 - 00:09:56,040] I took the picture before anybody came
+- [00:09:56,040 - 00:09:58,040] in the room for privacy reasons, et cetera.
+- [00:09:58,040 - 00:10:02,040] But anyway, I'm out and about.
+- [00:10:02,040 - 00:10:05,040] So the classic academic paradigm is
+- [00:10:05,040 - 00:10:08,040] that the professor articulates a lofty concept.
+- [00:10:08,040 - 00:10:10,040] Not just the concept of the professor.
+- [00:10:10,040 - 00:10:12,040] But the concept of the professor.
+- [00:10:12,040 - 00:10:13,040] And that's what I'm talking about.
+- [00:10:13,040 - 00:10:15,040] The concept.
+- [00:10:15,040 - 00:10:17,040] And the students write it down.
+- [00:10:17,040 - 00:10:19,040] And hope one day to figure it out.
+- [00:10:19,040 - 00:10:22,540] And I have never had any success
+- [00:10:22,540 - 00:10:26,040] doing that with entrepreneurs, with prospective entrepreneurs.
+- [00:10:26,040 - 00:10:30,540] The professor might say, risk averse mean variance utility
+- [00:10:30,540 - 00:10:35,040] maximization is often cited as an explanation for consumer behavior.
+- [00:10:35,040 - 00:10:38,040] But it implies quadratic utility functions,
+- [00:10:38,040 - 00:10:41,040] which have never been empirically demonstrated.
+- [00:10:41,040 - 00:10:42,040] Everybody writes it down.
+- [00:10:42,040 - 00:10:44,040] And the professor is willing to elbow the person next to him
+- [00:10:44,040 - 00:10:46,040] and say, you have the slightest idea what that guy just said?
+- [00:10:46,040 - 00:10:48,040] No.
+- [00:10:48,040 - 00:10:51,540] So I'm going to go in the opposite
+- [00:10:51,540 - 00:10:55,040] direction and start with some almost trivially simple examples.
+- [00:10:55,040 - 00:10:57,540] And in the course of our
+- [00:10:57,540 - 00:11:00,040] 90 minutes, we'll get progressively more complex.
+- [00:11:00,040 - 00:11:02,040] So indulge me for a second.
+- [00:11:02,040 - 00:11:06,540] Let's say I wake up tomorrow morning and decide
+- [00:11:06,540 - 00:11:11,040] I've had enough of this hyperactive, overcharged, over-intellectualized world.
+- [00:11:11,040 - 00:11:13,540] And I'm just going to be a grumpy old
+- [00:11:13,540 - 00:11:16,040] guy living in a tiny house in the Berkshires.
+- [00:11:16,040 - 00:11:22,040] So it's not that crazy an idea, actually.
+- [00:11:22,040 - 00:11:23,540] But I get there and I
+- [00:11:23,540 - 00:11:25,040] think, I've got to do something.
+- [00:11:25,040 - 00:11:28,040] Maybe I could give guitar lessons.
+- [00:11:28,040 - 00:11:30,040] You know, I'm a pretty good player.
+- [00:11:30,040 - 00:11:32,040] I like to teach.
+- [00:11:32,040 - 00:11:34,040] And, you know, I could
+- [00:11:34,040 - 00:11:36,040] offer different levels of instruction.
+- [00:11:36,040 - 00:11:38,040] I could start with some beginners.
+- [00:11:38,040 - 00:11:39,040] Here's your basic chords.
+- [00:11:39,040 - 00:11:40,040] Here's how to tune it up.
+- [00:11:40,040 - 00:11:42,540] We get a little more advanced because nobody
+- [00:11:42,540 - 00:11:45,040] understands the groove when they first get going.
+- [00:11:45,040 - 00:11:48,040] So how to play in time and so forth.
+- [00:11:48,040 - 00:11:53,040] And then for those people who are sticking with it, we could talk a little bit about
+- [00:11:53,040 - 00:11:58,040] how you play a solo in mixolydian mode that still sounds like the blues and all of that.
+- [00:11:58,040 - 00:11:59,040] I wouldn't need much.
+- [00:11:59,040 - 00:12:02,540] I'd need a small studio, a couple guitar amps, maybe
+- [00:12:02,540 - 00:12:06,040] a bass amp, maybe something to drum machine or something.
+- [00:12:06,040 - 00:12:08,040] And let's just stop right there.
+- [00:12:10,040 - 00:12:12,040] This is a mistake I
+- [00:12:12,040 - 00:12:14,040] have made over and over again.
+- [00:12:14,040 - 00:12:16,040] Do you see it?
+- [00:12:16,040 - 00:12:17,040] It's subtle.
+- [00:12:17,040 - 00:12:20,040] Don't beat yourself up if you don't see it.
+- [00:12:20,040 - 00:12:24,040] Sorry?
+- [00:12:24,040 - 00:12:28,040] I'm sorry.
+- [00:12:28,040 - 00:12:29,540] You're going to have to say it a
+- [00:12:29,540 - 00:12:31,040] little louder so I can repeat it for the...
+- [00:12:31,040 - 00:12:36,040] I don't know if there are students there.
+- [00:12:36,040 - 00:12:38,040] Well, that is just one symptom of the problem.
+- [00:12:38,040 - 00:12:39,040] I don't know if there are students there.
+- [00:12:39,040 - 00:12:41,040] Well, that is just one symptom of the problem.
+- [00:12:41,040 - 00:12:44,040] But it's a good answer.
+- [00:12:44,040 - 00:12:47,540] I think that over and over again
+- [00:12:47,540 - 00:12:51,040] we address the question, could I do it?
+- [00:12:51,040 - 00:12:55,540] And we ought to address
+- [00:12:55,540 - 00:13:00,040] the question, should I do it?
+- [00:13:00,040 - 00:13:02,540] And in order to evaluate
+- [00:13:02,540 - 00:13:05,040] the question, should I do it?
+- [00:13:05,040 - 00:13:06,040] The single most important question
+- [00:13:06,040 - 00:13:07,040] you need to eventually answer is,
+- [00:13:07,040 - 00:13:12,040] will I make enough money?
+- [00:13:12,040 - 00:13:15,540] Because regardless of the cause, the eventual
+- [00:13:15,540 - 00:13:19,040] symptom that makes most companies go belly up
+- [00:13:19,040 - 00:13:22,040] is they run out of money or they're on
+- [00:13:22,040 - 00:13:25,040] a path where they will never make any money.
+- [00:13:25,040 - 00:13:28,040] So let's dig just a little bit deeper.
+- [00:13:28,040 - 00:13:30,040] Let's begin at the end of the story.
+- [00:13:30,040 - 00:13:32,040] We want to make enough money.
+- [00:13:32,040 - 00:13:34,040] What do we need to do with that?
+- [00:13:34,040 - 00:13:36,040] Well, we need revenues.
+- [00:13:36,040 - 00:13:39,040] Hopefully they should exceed our costs.
+- [00:13:39,040 - 00:13:43,040] Revenues come from customers.
+- [00:13:43,040 - 00:13:45,040] So we need customers.
+- [00:13:45,040 - 00:13:48,040] And we could stop right there.
+- [00:13:48,040 - 00:13:49,540] But obviously we also need
+- [00:13:49,540 - 00:13:51,040] to figure out something that's broke
+- [00:13:51,040 - 00:13:53,540] and come up with a
+- [00:13:53,540 - 00:13:56,040] solution that we think is better.
+- [00:13:56,040 - 00:13:58,040] But let's dig just a little bit deeper.
+- [00:13:58,040 - 00:14:02,040] How much money do we need to make?
+- [00:14:02,040 - 00:14:06,040] And how much is a customer worth?
+- [00:14:06,040 - 00:14:08,040] And I'm not real good at math, but
+- [00:14:08,040 - 00:14:10,040] I think if I divided one by the other,
+- [00:14:10,040 - 00:14:13,040] I could figure out how many customers do I need.
+- [00:14:13,040 - 00:14:16,040] A company needs to make a million dollars.
+- [00:14:16,040 - 00:14:18,040] Each customer is worth a thousand dollars.
+- [00:14:18,040 - 00:14:20,040] I need a thousand customers.
+- [00:14:20,040 - 00:14:23,040] And then ask the question, how
+- [00:14:23,040 - 00:14:26,040] am I going to do that?
+- [00:14:26,040 - 00:14:29,540] I've seen umpteenine ventures waste two
+- [00:14:29,540 - 00:14:33,040] years and most of their life savings
+- [00:14:33,040 - 00:14:35,040] because they did not go through this long.
+- [00:14:35,040 - 00:14:37,540] And I think that's a good
+- [00:14:37,540 - 00:14:40,040] way to go through this simple exercise.
+- [00:14:40,040 - 00:14:43,040] So let's dig a little deeper.
+- [00:14:43,040 - 00:14:46,040] Let's ask in this hypothetical example, how
+- [00:14:46,040 - 00:14:49,040] much money do I need to make?
+- [00:14:49,040 - 00:14:51,040] Well, I'm going to be
+- [00:14:51,040 - 00:14:53,040] grumpy and living in the Berkshires,
+- [00:14:53,040 - 00:14:55,040] and so the answer is not much.
+- [00:14:55,040 - 00:14:58,040] Five grand a month make me happy.
+- [00:14:58,040 - 00:15:00,040] Well, how much is a customer worth?
+- [00:15:00,040 - 00:15:02,040] And I do a little market research,
+- [00:15:02,040 - 00:15:04,040] and I find that they make,
+- [00:15:04,040 - 00:15:07,040] they're $25 an hour and they'll come twice a month.
+- [00:15:07,040 - 00:15:09,040] So they're worth $50 a month.
+- [00:15:09,040 - 00:15:11,040] Well, this is looking troubling because
+- [00:15:11,040 - 00:15:13,040] if I divide one by the other,
+- [00:15:13,040 - 00:15:15,540] I need a hundred customers in order
+- [00:15:15,540 - 00:15:18,040] to make the amount of money I want.
+- [00:15:18,040 - 00:15:22,040] You are on the right track.
+- [00:15:22,040 - 00:15:24,040] Well, that's kind of daunting.
+- [00:15:24,040 - 00:15:28,040] I mean, it's nothing for a big organization,
+- [00:15:28,040 - 00:15:31,040] but for a grumpy guy who's just trying
+- [00:15:31,040 - 00:15:34,040] to start it from scratch, it's a lot.
+- [00:15:34,040 - 00:15:39,040] So can I do it?
+- [00:15:39,040 - 00:15:42,040] This is a cause for reflection.
+- [00:15:42,040 - 00:15:45,040] So if it seems crazy,
+- [00:15:45,040 - 00:15:48,040] then I remind you of what Joe said.
+- [00:15:48,040 - 00:15:50,040] Good ideas are all over the place.
+- [00:15:50,040 - 00:15:52,040] It's time for another one.
+- [00:15:52,040 - 00:15:54,040] If I'm still standing,
+- [00:15:54,040 - 00:15:56,040] let's dig in a little bit.
+- [00:15:56,040 - 00:15:59,040] So in fact, let's do that.
+- [00:15:59,040 - 00:16:01,040] Let's start with the basic question.
+- [00:16:01,040 - 00:16:04,040] What's broke that I propose to fix?
+- [00:16:04,040 - 00:16:07,040] And who's going to pay me to fix it?
+- [00:16:07,040 - 00:16:10,040] Well, the market I started with,
+- [00:16:10,040 - 00:16:12,040] the default market, if you will,
+- [00:16:12,040 - 00:16:14,040] school kids.
+- [00:16:14,040 - 00:16:17,040] Well, what do they want?
+- [00:16:17,040 - 00:16:19,040] Well, a lot of them are just really nerdy
+- [00:16:19,040 - 00:16:20,040] and they want something to
+- [00:16:20,040 - 00:16:21,040] do besides sit in their room
+- [00:16:21,040 - 00:16:25,040] and get yelled at for playing World of Warcraft.
+- [00:16:25,040 - 00:16:27,040] Some of them are guys who say,
+- [00:16:27,040 - 00:16:30,040] oh man, if I played guitar, I'd meet girls.
+- [00:16:30,040 - 00:16:33,040] Some of them are girls who said,
+- [00:16:33,040 - 00:16:36,040] jeez, I'm tall, blonde, I sing and I play bass.
+- [00:16:36,040 - 00:16:39,040] I have a million friends on the spot.
+- [00:16:39,040 - 00:16:41,040] Every now and then, if you're lucky,
+- [00:16:41,040 - 00:16:44,040] you actually find somebody who really loves the music,
+- [00:16:44,040 - 00:16:47,040] wants to do it well.
+- [00:16:47,040 - 00:16:49,040] So these are my users,
+- [00:16:49,040 - 00:16:53,040] but are they going to pay me?
+- [00:16:53,040 - 00:16:55,040] Therefore, beyond a certain point,
+- [00:16:55,040 - 00:16:58,040] they're actually not my customers.
+- [00:16:58,040 - 00:17:00,040] So who's going to pay me?
+- [00:17:00,040 - 00:17:02,040] Parents, right?
+- [00:17:02,040 - 00:17:04,040] Well, what's their profile?
+- [00:17:04,040 - 00:17:08,040] They say, well, let's buy the kid a guitar,
+- [00:17:08,040 - 00:17:10,040] spring for some lessons,
+- [00:17:10,040 - 00:17:12,040] watch what happens.
+- [00:17:12,040 - 00:17:17,040] This analysis does not in any way challenge
+- [00:17:17,040 - 00:17:20,040] the market research I did previously.
+- [00:17:20,040 - 00:17:22,040] It's 50 bucks a month per kid.
+- [00:17:22,040 - 00:17:25,040] I need 100 kids.
+- [00:17:25,040 - 00:17:29,040] So now what?
+- [00:17:29,040 - 00:17:31,040] Well, I'd say let's erase this.
+- [00:17:31,040 - 00:17:34,040] Let's erase this and start over.
+- [00:17:34,040 - 00:17:42,040] Are there other people who might be interested in this?
+- [00:17:42,040 - 00:17:48,040] Well, one possible answer is adults who say,
+- [00:17:48,040 - 00:17:50,040] you know, I used to
+- [00:17:50,040 - 00:17:52,040] be cool until I had kids
+- [00:17:52,040 - 00:17:55,040] and my brains dissolved.
+- [00:17:55,040 - 00:18:00,040] I used to play in a band.
+- [00:18:00,040 - 00:18:02,040] I used to sing in a group.
+- [00:18:02,040 - 00:18:07,040] Man, I miss that stuff.
+- [00:18:07,040 - 00:18:09,040] Who would pay me?
+- [00:18:09,040 - 00:18:11,040] Well, those adults.
+- [00:18:11,040 - 00:18:14,040] And if I were to say, well, let's see,
+- [00:18:14,040 - 00:18:18,040] you probably stopped playing about 20 years ago.
+- [00:18:18,040 - 00:18:21,040] And 20 years ago, there was that Santana tune
+- [00:18:21,040 - 00:18:23,040] that you couldn't get away from.
+- [00:18:23,040 - 00:18:25,040] Man, it's a hot one, right?
+- [00:18:25,040 - 00:18:29,040] So if I taught you that tune on Tuesday night,
+- [00:18:29,040 - 00:18:32,040] and pulled together an ensemble
+- [00:18:32,040 - 00:18:34,540] so you could play it
+- [00:18:34,540 - 00:18:37,040] with other musicians on Thursday night,
+- [00:18:37,040 - 00:18:41,040] I know exactly what you'd be doing on Wednesday night.
+- [00:18:41,040 - 00:18:44,040] By the way, I didn't just make that up.
+- [00:18:44,040 - 00:18:46,040] School of Rock does that.
+- [00:18:46,040 - 00:18:48,040] It's hugely successful.
+- [00:18:48,040 - 00:18:51,040] Well, then you might pay 50 bucks an hour
+- [00:18:51,040 - 00:18:54,040] because you're going to walk out of that second session
+- [00:18:54,040 - 00:18:57,040] saying, oh, man, I feel like Godzilla.
+- [00:18:57,040 - 00:18:59,040] I went in there and played my ass off,
+- [00:18:59,040 - 00:19:01,040] and it was fun.
+- [00:19:01,040 - 00:19:09,040] And in fact, you might come twice a week.
+- [00:19:09,040 - 00:19:11,040] So the economics start changing
+- [00:19:11,040 - 00:19:14,040] because we changed our customer profile.
+- [00:19:14,040 - 00:19:16,040] Who else?
+- [00:19:16,040 - 00:19:18,040] Well, this volunteer work that I do
+- [00:19:18,040 - 00:19:20,040] in these homeless shelters
+- [00:19:20,040 - 00:19:24,040] frequently is with a group of fellow volunteers.
+- [00:19:24,040 - 00:19:25,040] We go in with a bunch.
+- [00:19:25,040 - 00:19:26,040] There's a fairly charismatic front desk.
+- [00:19:26,040 - 00:19:29,040] There's a charismatic front man who leads it.
+- [00:19:29,040 - 00:19:31,040] And as I look them over,
+- [00:19:31,040 - 00:19:33,040] I see a lot of gray hair.
+- [00:19:33,040 - 00:19:35,040] And I've asked some of them,
+- [00:19:35,040 - 00:19:36,040] why do you do this?
+- [00:19:36,040 - 00:19:38,040] And they say, well, you know,
+- [00:19:38,040 - 00:19:40,040] I used to sing a long time ago.
+- [00:19:40,040 - 00:19:42,040] And then Elmer, my husband,
+- [00:19:42,040 - 00:19:45,040] he got sick a few years ago,
+- [00:19:45,040 - 00:19:47,040] and then he died.
+- [00:19:47,040 - 00:19:50,040] And I miss it.
+- [00:19:50,040 - 00:19:52,040] I'm staying home all the time.
+- [00:19:52,040 - 00:19:53,540] I can only water my plants
+- [00:19:53,540 - 00:19:55,040] for so many hours a week.
+- [00:19:55,040 - 00:19:57,040] I'm lonesome.
+- [00:19:57,040 - 00:19:59,040] I'd love to get back out and socialize.
+- [00:19:59,040 - 00:20:01,040] And if I were fortunate enough to run across
+- [00:20:01,040 - 00:20:03,040] a gentleman who wanted to buy me dinner,
+- [00:20:03,040 - 00:20:07,040] that would be good, too.
+- [00:20:07,040 - 00:20:11,040] So, same business model, same format.
+- [00:20:11,040 - 00:20:13,040] Maybe different music,
+- [00:20:13,040 - 00:20:17,040] but I'm meeting a different set of needs.
+- [00:20:17,040 - 00:20:24,040] And it looks like I could make $400 per month
+- [00:20:24,040 - 00:20:25,040] per customer,
+- [00:20:25,040 - 00:20:29,040] which means I only need about a dozen or so.
+- [00:20:29,040 - 00:20:32,040] This looks a lot more feasible to me
+- [00:20:32,040 - 00:20:36,040] than trying to find 100.
+- [00:20:36,040 - 00:20:41,040] My point, I changed my approach to the customer.
+- [00:20:41,040 - 00:20:42,540] I dug in a little bit
+- [00:20:42,540 - 00:20:44,040] in terms of what do they need,
+- [00:20:44,040 - 00:20:48,040] what do they want, some socializing.
+- [00:20:48,040 - 00:20:53,040] I want to be a little cool.
+- [00:20:53,040 - 00:20:54,040] I hope you'll find some relevance
+- [00:20:54,040 - 00:20:58,040] to this and the startup work you're about to do
+- [00:20:58,040 - 00:21:01,040] or are already doing.
+- [00:21:01,040 - 00:21:02,040] Let's ask the next question.
+- [00:21:02,040 - 00:21:05,040] How am I going to find them?
+- [00:21:05,040 - 00:21:06,040] Well, there's a subordinate question, of course.
+- [00:21:06,040 - 00:21:08,040] Who am I looking for?
+- [00:21:08,040 - 00:21:10,040] I used to think I was looking for school kids.
+- [00:21:10,040 - 00:21:12,040] I've changed my mind.
+- [00:21:12,040 - 00:21:18,040] So, where do they look for information and connections?
+- [00:21:18,040 - 00:21:22,040] So, I'll come back to that.
+- [00:21:22,040 - 00:21:23,040] Here's one of the most important questions.
+- [00:21:23,040 - 00:21:25,040] I'm going to ask you tonight.
+- [00:21:25,040 - 00:21:28,040] Who wins if I win?
+- [00:21:28,040 - 00:21:31,040] Who wins if you win?
+- [00:21:31,040 - 00:21:35,040] Who would be thrilled to see me succeed?
+- [00:21:35,040 - 00:21:37,040] What are your thoughts?
+- [00:21:37,040 - 00:21:44,040] Your customers would be...
+- [00:21:44,040 - 00:21:46,040] Okay.
+- [00:21:46,040 - 00:21:48,040] My customers?
+- [00:21:48,040 - 00:21:49,040] Let's elaborate on that.
+- [00:21:49,040 - 00:21:53,040] How would my customers help me win?
+- [00:21:53,040 - 00:21:58,040] If you try to get 12 customers, it is that...
+- [00:21:58,040 - 00:22:00,040] Bring it a little closer.
+- [00:22:00,040 - 00:22:02,040] It is that they talk to each other.
+- [00:22:02,040 - 00:22:03,040] They inform each other that,
+- [00:22:03,040 - 00:22:05,040] hey, this is fun for them.
+- [00:22:05,040 - 00:22:07,040] They're going to have fun.
+- [00:22:07,040 - 00:22:09,040] So, it is their happy fun.
+- [00:22:09,040 - 00:22:15,040] My customers become my sales force.
+- [00:22:15,040 - 00:22:16,040] Right?
+- [00:22:16,040 - 00:22:17,040] You have a...
+- [00:22:17,040 - 00:22:21,040] We've got a victim, a volunteer.
+- [00:22:21,040 - 00:22:22,040] I think I'm...
+- [00:22:22,040 - 00:22:25,040] Yeah, but the problem is the people
+- [00:22:25,040 - 00:22:28,040] out there in Zoom land won't hear you.
+- [00:22:28,040 - 00:22:33,040] My champions who would support me in...
+- [00:22:33,040 - 00:22:35,040] So, basically like a sales force.
+- [00:22:35,040 - 00:22:38,040] She said the end users, but my champions
+- [00:22:38,040 - 00:22:41,040] and people who are paying the economic buyers.
+- [00:22:41,040 - 00:22:42,040] Good.
+- [00:22:42,040 - 00:22:43,040] Good.
+- [00:22:43,040 - 00:22:46,040] Who else?
+- [00:22:46,040 - 00:22:48,040] Behind you.
+- [00:22:48,040 - 00:22:49,040] Right there.
+- [00:22:49,040 - 00:22:50,040] Oops.
+- [00:22:50,040 - 00:22:51,040] Sorry.
+- [00:22:51,040 - 00:22:54,540] I was going to say
+- [00:22:54,540 - 00:22:58,040] maybe the government or public safety.
+- [00:22:58,040 - 00:23:02,040] So, if you have older singles learning the guitar,
+- [00:23:02,040 - 00:23:05,040] then they're not out marauding and rioting in the streets.
+- [00:23:07,040 - 00:23:09,040] That's a little harder sell.
+- [00:23:11,040 - 00:23:14,040] How about music stores?
+- [00:23:14,040 - 00:23:16,040] Let's go back to this.
+- [00:23:16,040 - 00:23:18,040] Let's say that Trevor looks under his bed
+- [00:23:18,040 - 00:23:20,040] and pulls out an old Fender.
+- [00:23:20,040 - 00:23:22,540] An old Fender Stratocaster that
+- [00:23:22,540 - 00:23:25,040] he hasn't touched in 10 years.
+- [00:23:25,040 - 00:23:27,040] And he plays it a little bit.
+- [00:23:27,040 - 00:23:28,040] And he says,
+- [00:23:28,040 - 00:23:30,040] man,
+- [00:23:30,040 - 00:23:32,040] I'm really rusty.
+- [00:23:32,040 - 00:23:35,040] And speaking of rusty, these strings are so rusty,
+- [00:23:35,040 - 00:23:36,540] I'm going to need a tetanus
+- [00:23:36,540 - 00:23:38,040] shot if I play it much longer.
+- [00:23:38,040 - 00:23:40,040] So, I'm going to go to a music store.
+- [00:23:40,040 - 00:23:43,040] He walks into a music store to buy strings.
+- [00:23:43,040 - 00:23:45,040] And he's looking up at the
+- [00:23:45,040 - 00:23:47,040] wall and he's seeing all these guitars.
+- [00:23:47,040 - 00:23:49,040] And one of the helpful assistants comes over and says,
+- [00:23:49,040 - 00:23:51,040] you want to try one?
+- [00:23:51,040 - 00:23:52,040] And he says,
+- [00:23:52,040 - 00:23:55,040] no, I don't have any opportunities to play.
+- [00:23:55,040 - 00:23:57,040] And I've lost most of my chops.
+- [00:23:57,040 - 00:23:59,040] And I don't know how I'm going to get better.
+- [00:23:59,040 - 00:24:01,040] And the guy in the music store says,
+- [00:24:01,040 - 00:24:03,040] I got a guy that can help you.
+- [00:24:05,040 - 00:24:07,040] So, now we both win.
+- [00:24:07,040 - 00:24:10,040] Because he's going to come to my lessons.
+- [00:24:10,040 - 00:24:13,040] He's going to bring his beat up old guitar.
+- [00:24:13,040 - 00:24:16,040] He's going to listen to my new fancy guitar.
+- [00:24:16,040 - 00:24:17,040] He's going to say,
+- [00:24:17,040 - 00:24:18,040] my guitar sounds terrible.
+- [00:24:18,040 - 00:24:19,540] I've got to go back to the
+- [00:24:19,540 - 00:24:21,040] music store and buy a good one.
+- [00:24:21,040 - 00:24:24,040] These are obviously analogies that I'm
+- [00:24:24,040 - 00:24:27,040] trying to draw here for you.
+- [00:24:27,040 - 00:24:30,040] But the concept, I hope, makes sense.
+- [00:24:30,040 - 00:24:34,040] And of course, church groups, Facebook groups, meet up.
+- [00:24:34,040 - 00:24:37,040] What we're trying to say is figure out who
+- [00:24:37,040 - 00:24:40,040] wants what you've got and will pay you for it.
+- [00:24:40,040 - 00:24:42,040] Who wins if you win?
+- [00:24:42,040 - 00:24:44,040] How do you find them?
+- [00:24:44,040 - 00:24:47,040] And how can you build collaborations
+- [00:24:47,040 - 00:24:49,040] that are to mutual benefit?
+- [00:24:49,040 - 00:24:51,040] So far so good?
+- [00:24:51,040 - 00:24:54,040] Okay, this one's hypothetical.
+- [00:24:54,040 - 00:24:56,040] I'm not moving to the Berkshires
+- [00:24:56,040 - 00:24:58,040] and I'm not giving guitar lessons.
+- [00:24:58,040 - 00:25:02,040] But I will say, your business might limp along,
+- [00:25:02,040 - 00:25:04,540] but it's not going to prosper until
+- [00:25:04,540 - 00:25:07,040] you figure out what are you really selling.
+- [00:25:07,040 - 00:25:09,540] So what was I really
+- [00:25:09,540 - 00:25:12,040] selling in this guitar lesson example?
+- [00:25:12,040 - 00:25:14,040] Romance.
+- [00:25:14,040 - 00:25:15,040] Sorry?
+- [00:25:15,040 - 00:25:16,040] Romance.
+- [00:25:16,040 - 00:25:18,040] You're selling romance.
+- [00:25:18,040 - 00:25:24,040] Gee, I'm a superfly here.
+- [00:25:24,040 - 00:25:27,040] I'm selling romance.
+- [00:25:27,040 - 00:25:29,040] Well, kind of.
+- [00:25:29,040 - 00:25:33,040] I mean, I'm selling comfort, socialization.
+- [00:25:33,040 - 00:25:39,040] Purpose.
+- [00:25:39,040 - 00:25:41,040] Yeah.
+- [00:25:41,040 - 00:25:42,040] Yeah.
+- [00:25:42,040 - 00:25:44,040] And collaboration.
+- [00:25:44,040 - 00:25:45,040] I don't know.
+- [00:25:45,040 - 00:25:47,540] How many of you in
+- [00:25:47,540 - 00:25:50,040] this room play a musical instrument?
+- [00:25:50,040 - 00:25:53,040] In an ensemble ever?
+- [00:25:53,040 - 00:25:54,040] Yeah?
+- [00:25:54,040 - 00:25:57,040] I mean, it's pretty awesome.
+- [00:25:57,040 - 00:26:00,040] I mean, it's just, there's something that happens.
+- [00:26:00,040 - 00:26:02,040] You know?
+- [00:26:02,040 - 00:26:05,040] Thursday night last week, I walked
+- [00:26:05,040 - 00:26:08,040] into a place west of here,
+- [00:26:08,040 - 00:26:10,540] a room I had never been in,
+- [00:26:10,540 - 00:26:13,040] an audience I had never seen before.
+- [00:26:13,040 - 00:26:16,040] It was a blues jam.
+- [00:26:16,040 - 00:26:18,040] And when the house band finished their gig,
+- [00:26:18,040 - 00:26:21,040] a guitar player came around and talked,
+- [00:26:21,040 - 00:26:22,040] do you play guitar?
+- [00:26:22,040 - 00:26:23,040] I do.
+- [00:26:23,040 - 00:26:24,040] Do you sing?
+- [00:26:24,040 - 00:26:25,040] I do.
+- [00:26:25,040 - 00:26:29,040] How do you feel about being first up on stage?
+- [00:26:29,040 - 00:26:32,040] Big room, big stage, big lighting system.
+- [00:26:32,040 - 00:26:34,040] If I were prone to
+- [00:26:34,040 - 00:26:36,040] stage fright, I said, I'm in.
+- [00:26:36,040 - 00:26:37,040] Let's do it.
+- [00:26:37,040 - 00:26:39,540] I had to get up on stage with a
+- [00:26:39,540 - 00:26:42,040] couple of people I had never seen before and perform.
+- [00:26:42,040 - 00:26:45,040] And perform for an audience.
+- [00:26:45,040 - 00:26:46,040] So I said, do you have
+- [00:26:46,040 - 00:26:47,040] people for me to play with?
+- [00:26:47,040 - 00:26:48,040] He said, yeah, I got it.
+- [00:26:48,040 - 00:26:50,040] I said, are they any good?
+- [00:26:50,040 - 00:26:51,040] He said, yeah.
+- [00:26:51,040 - 00:26:53,040] I said, let's do it.
+- [00:26:53,040 - 00:26:54,040] They were good.
+- [00:26:54,040 - 00:26:55,040] Magic happened.
+- [00:26:55,040 - 00:26:57,040] Magic happened.
+- [00:26:57,040 - 00:26:59,040] I mean, it was just .
+- [00:26:59,040 - 00:27:03,540] So to some extent, what I'm selling is
+- [00:27:03,540 - 00:27:08,040] the excitement that you get when that collaboration happens.
+- [00:27:08,040 - 00:27:09,540] But also, I'm getting you
+- [00:27:09,540 - 00:27:11,040] out of your house, et cetera.
+- [00:27:11,040 - 00:27:12,040] Right?
+- [00:27:12,040 - 00:27:15,040] I'm selling some social component as well.
+- [00:27:15,040 - 00:27:17,040] And people are paying for it.
+- [00:27:17,040 - 00:27:19,040] How will I find them?
+- [00:27:19,040 - 00:27:21,040] And how will I make money?
+- [00:27:21,040 - 00:27:24,040] Very basic.
+- [00:27:24,040 - 00:27:27,040] Very important.
+- [00:27:27,040 - 00:27:30,040] OK?
+- [00:27:30,040 - 00:27:34,040] So some questions you should ask regarding your venture.
+- [00:27:34,040 - 00:27:37,040] And I'm going to repeat what Joe said.
+- [00:27:37,040 - 00:27:38,040] The questions are easy.
+- [00:27:38,040 - 00:27:40,040] The answers are not.
+- [00:27:40,040 - 00:27:41,040] But you will drive right into a pot of water.
+- [00:27:41,040 - 00:27:43,040] You will drive right into a pothole.
+- [00:27:43,040 - 00:27:45,040] You will disappear into a black hole if
+- [00:27:45,040 - 00:27:47,040] you don't at least address some of these things.
+- [00:27:47,040 - 00:27:50,040] What's broke that you fix?
+- [00:27:50,040 - 00:27:56,040] Who specifically actually wants a solution?
+- [00:27:56,040 - 00:27:59,040] Are there enough of them?
+- [00:27:59,040 - 00:28:01,040] I ran into one outfit that
+- [00:28:01,040 - 00:28:03,040] was trying to build a business.
+- [00:28:03,040 - 00:28:06,040] And they had a solution that about 12
+- [00:28:06,040 - 00:28:09,040] people in North America would have paid for.
+- [00:28:09,040 - 00:28:10,040] Just wasn't enough.
+- [00:28:10,040 - 00:28:11,040] Right?
+- [00:28:11,040 - 00:28:15,040] So will they spend money to solve their problem?
+- [00:28:15,040 - 00:28:18,040] Well, you know, I like working with startups.
+- [00:28:18,040 - 00:28:19,540] They won't spend any money to
+- [00:28:19,540 - 00:28:21,040] solve their problems for two reasons.
+- [00:28:21,040 - 00:28:23,040] One, founders think they know everything.
+- [00:28:23,040 - 00:28:25,040] And two, they don't have any money.
+- [00:28:25,040 - 00:28:29,040] So terrible audience.
+- [00:28:29,040 - 00:28:30,540] How do I find them
+- [00:28:30,540 - 00:28:32,040] and let them know about us?
+- [00:28:32,040 - 00:28:35,040] How are they solving their problem now?
+- [00:28:35,040 - 00:28:37,040] And why will they think my
+- [00:28:37,040 - 00:28:39,040] solution is compellingly better than the alternatives?
+- [00:28:40,040 - 00:28:43,040] And who's going to pay me?
+- [00:28:43,040 - 00:28:45,040] Remember, it wasn't the kids, it was the parents, etc.
+- [00:28:45,040 - 00:28:49,040] Who's going to pay me?
+- [00:28:49,040 - 00:28:51,040] One slide on raising capital.
+- [00:28:51,040 - 00:28:54,040] We'll talk more about this next Tuesday night.
+- [00:28:54,040 - 00:28:59,040] As Joe said, most investors lose most of their money.
+- [00:28:59,040 - 00:29:04,040] And so they come along and they say,
+- [00:29:04,040 - 00:29:09,040] well, you ten people here in the fourth row,
+- [00:29:09,040 - 00:29:15,040] back, you all have ideas.
+- [00:29:15,040 - 00:29:19,040] Statistically speaking, nine of you are going to fail.
+- [00:29:19,040 - 00:29:21,040] Now, you're here at MIT.
+- [00:29:21,040 - 00:29:25,040] You're probably twice as smart as most people.
+- [00:29:25,040 - 00:29:28,040] So maybe only eight of you will fail.
+- [00:29:28,040 - 00:29:30,040] Still pretty bad odds.
+- [00:29:30,040 - 00:29:32,040] So I'm trying to figure out
+- [00:29:32,040 - 00:29:34,040] where do I put my money?
+- [00:29:34,040 - 00:29:35,040] Right?
+- [00:29:35,040 - 00:29:39,040] Well, there's only one non-negotiable requirement.
+- [00:29:39,040 - 00:29:43,040] You have to have customers.
+- [00:29:43,040 - 00:29:46,040] You cannot negotiate away from that.
+- [00:29:46,040 - 00:29:48,040] You don't have to be smart.
+- [00:29:48,040 - 00:29:50,040] You don't have to have money.
+- [00:29:50,040 - 00:29:52,040] You don't have to be good looking.
+- [00:29:52,040 - 00:29:56,040] If you have customers, people will think you're smart.
+- [00:29:56,040 - 00:29:58,040] You will make money.
+- [00:29:58,040 - 00:30:00,540] Of course, if you make enough
+- [00:30:00,540 - 00:30:03,040] money, people will think you're good looking.
+- [00:30:03,040 - 00:30:05,040] Sorry, that was a joke.
+- [00:30:05,040 - 00:30:08,040] So do you have any?
+- [00:30:09,040 - 00:30:11,040] Do you even know you need them?
+- [00:30:11,040 - 00:30:12,040] How are you going to get them?
+- [00:30:12,040 - 00:30:14,040] All of those questions.
+- [00:30:14,040 - 00:30:17,540] So most investors want to
+- [00:30:17,540 - 00:30:21,040] know the answer to two questions.
+- [00:30:21,040 - 00:30:22,040] How will you make money?
+- [00:30:22,040 - 00:30:25,040] And how will I make money?
+- [00:30:25,040 - 00:30:26,540] And if I don't get a good answer from
+- [00:30:26,540 - 00:30:28,040] you for question one, how will you make money?
+- [00:30:28,040 - 00:30:32,040] There's no point in asking the second question because
+- [00:30:32,040 - 00:30:36,040] I don't have a prayer making money if you don't.
+- [00:30:36,040 - 00:30:37,040] Okay.
+- [00:30:37,040 - 00:30:39,040] Enough of the abstract.
+- [00:30:39,040 - 00:30:42,040] Here's an example of something
+- [00:30:42,040 - 00:30:45,040] that I launched some years ago.
+- [00:30:45,040 - 00:30:48,540] I was in California, Orange County, where
+- [00:30:48,540 - 00:30:52,040] there is less than meets the eye.
+- [00:30:52,040 - 00:30:54,540] And I was running the clinical
+- [00:30:54,540 - 00:30:57,040] nutrition division of this medical company.
+- [00:30:57,040 - 00:31:00,540] We made IV fluids that we
+- [00:31:00,540 - 00:31:04,040] would sell to intensive care units.
+- [00:31:04,040 - 00:31:08,040] We'd make a liter of fluid for about $3.
+- [00:31:08,040 - 00:31:11,040] We'd sell it for $70.
+- [00:31:11,040 - 00:31:13,040] Pretty high margin business.
+- [00:31:13,040 - 00:31:15,040] Right?
+- [00:31:15,040 - 00:31:17,540] The company had been doing $200 million
+- [00:31:17,540 - 00:31:20,040] a year in revenue for 12 straight years.
+- [00:31:20,040 - 00:31:23,040] An entrepreneur came along, took them private,
+- [00:31:23,040 - 00:31:26,040] and a leveraged buyout, Alex Brown and company.
+- [00:31:26,040 - 00:31:28,040] Fired the senior managers, brought in a
+- [00:31:28,040 - 00:31:30,040] bunch of people with a little more energy.
+- [00:31:30,040 - 00:31:33,040] Said, here's a little stock for you, here's
+- [00:31:33,040 - 00:31:36,040] a little stock for you, for you, etc.
+- [00:31:36,040 - 00:31:37,040] We're all owners now.
+- [00:31:37,040 - 00:31:40,040] I want to kick this up 50%
+- [00:31:40,040 - 00:31:43,040] in three years and take it public.
+- [00:31:43,040 - 00:31:47,540] And then you can buy a boat, you can
+- [00:31:47,540 - 00:31:52,040] buy a house, you can buy that year-long vacation, etc.
+- [00:31:52,040 - 00:31:53,040] Right?
+- [00:31:53,040 - 00:31:54,040] Quite motivating.
+- [00:31:54,040 - 00:31:57,540] And I was running the division that made more
+- [00:31:57,540 - 00:32:01,040] than 100% of the gross profit for the company.
+- [00:32:01,040 - 00:32:03,040] Right?
+- [00:32:03,040 - 00:32:06,040] But there were changes coming in the marketplace.
+- [00:32:06,040 - 00:32:11,040] Managed care, HMOs, etc.
+- [00:32:11,040 - 00:32:13,540] Looked like it was going to pull the
+- [00:32:13,540 - 00:32:16,040] rug out from under my highly profitable business.
+- [00:32:16,040 - 00:32:19,540] So I went out in the marketplace and lifted the lids
+- [00:32:19,540 - 00:32:23,040] on the garbage cans and found what I thought was an opportunity.
+- [00:32:23,040 - 00:32:29,040] I found that nobody was doing it.
+- [00:32:29,040 - 00:32:32,040] That, by the way, should be a red flag.
+- [00:32:34,040 - 00:32:36,040] So here's the background.
+- [00:32:36,040 - 00:32:39,040] It was in the kidney dialysis field.
+- [00:32:39,040 - 00:32:44,540] And at the time there were 400,000 patients in the country who
+- [00:32:44,540 - 00:32:50,040] were lining up to have dialysis treatments, usually three times a week.
+- [00:32:50,040 - 00:32:54,040] And tragically, the market was growing rapidly.
+- [00:32:54,040 - 00:32:58,540] But if you were getting dialysis, you were going to one of the 2,300
+- [00:32:58,540 - 00:33:03,040] dialysis centers in the country, all of which were listed in a federal document.
+- [00:33:03,040 - 00:33:08,040] So I could find you.
+- [00:33:08,040 - 00:33:11,540] Physiologically, one of the things, one of the important
+- [00:33:11,540 - 00:33:15,040] things your kidneys do is help you eliminate fluids.
+- [00:33:15,040 - 00:33:19,040] And if they don't work, you don't eliminate the fluids.
+- [00:33:19,040 - 00:33:21,540] And so you end up gaining 8
+- [00:33:21,540 - 00:33:24,040] to 12 pounds between Monday and Wednesday.
+- [00:33:24,040 - 00:33:27,040] Part of what dialysis does, besides cleaning out
+- [00:33:27,040 - 00:33:30,040] the impurities, is brings out the extra fluid.
+- [00:33:30,040 - 00:33:31,040] And for, due to other things that
+- [00:33:31,040 - 00:33:32,040] I've done, I've done a lot of research.
+- [00:33:32,040 - 00:33:34,540] But other things that your kidneys do,
+- [00:33:34,540 - 00:33:37,040] you frequently are malnourished, at least clinically.
+- [00:33:37,040 - 00:33:40,040] And the usual answer was
+- [00:33:40,040 - 00:33:43,040] to give you a nutrition supplement.
+- [00:33:43,040 - 00:33:45,040] Think Ensure or Boost.
+- [00:33:45,040 - 00:33:48,040] They're all liquids.
+- [00:33:48,040 - 00:33:51,040] Well, call me silly, but I looked at
+- [00:33:51,040 - 00:33:54,040] that and said, there's something wrong with this picture.
+- [00:33:54,040 - 00:33:58,040] So we formulated a nutrition supplement that was high in
+- [00:33:58,040 - 00:34:02,040] what you needed and low in what you shouldn't have.
+- [00:34:02,040 - 00:34:07,040] And it didn't have any fluids.
+- [00:34:07,040 - 00:34:10,040] Essentially a candy bar, but it wasn't candy.
+- [00:34:10,040 - 00:34:12,040] We called it Regain.
+- [00:34:12,040 - 00:34:15,040] So there's an obvious question.
+- [00:34:15,040 - 00:34:18,040] Does it work?
+- [00:34:18,040 - 00:34:21,540] And though we were not required to do
+- [00:34:21,540 - 00:34:25,040] clinical trials, as an ethical business, we did one.
+- [00:34:25,040 - 00:34:28,040] And we got it published in a
+- [00:34:28,040 - 00:34:31,040] prestigious peer-reviewed journal, which is the gold standard.
+- [00:34:32,040 - 00:34:39,040] And the bottom line, it did work.
+- [00:34:39,040 - 00:34:42,040] It changed the blood chemistries and
+- [00:34:42,040 - 00:34:45,040] it extended the lives of the patients.
+- [00:34:45,040 - 00:34:48,040] We said, well, let's do a little market research.
+- [00:34:48,040 - 00:34:50,040] We know these patients see
+- [00:34:50,040 - 00:34:52,040] doctors about their dialysis regimens.
+- [00:34:52,040 - 00:34:55,040] They see dieticians about their nutritional requirements.
+- [00:34:55,040 - 00:34:58,040] We know that there are opinion leaders in this business.
+- [00:34:58,040 - 00:35:00,040] Let's just go ask them.
+- [00:35:00,040 - 00:35:01,040] What do you think?
+- [00:35:01,040 - 00:35:04,040] Would you recommend it?
+- [00:35:04,040 - 00:35:07,040] And the answers were, yeah.
+- [00:35:07,040 - 00:35:09,040] We said, well, for how many
+- [00:35:09,040 - 00:35:11,040] of your patients would you recommend it?
+- [00:35:11,040 - 00:35:15,040] And they said, all of them.
+- [00:35:15,040 - 00:35:16,540] How many days a week would
+- [00:35:16,540 - 00:35:18,040] you recommend that they take it for?
+- [00:35:18,040 - 00:35:20,040] Seven.
+- [00:35:20,040 - 00:35:22,040] Really?
+- [00:35:22,040 - 00:35:25,040] How do you think it stacks up against the competition?
+- [00:35:25,040 - 00:35:27,040] We said, well, you really don't have any.
+- [00:35:27,040 - 00:35:29,040] Everybody else has got liquids.
+- [00:35:29,040 - 00:35:31,040] You don't?
+- [00:35:31,040 - 00:35:34,040] Well, how do you feel about $3 a bar?
+- [00:35:34,040 - 00:35:37,040] Sounds good to me.
+- [00:35:37,040 - 00:35:39,040] We said, jeez.
+- [00:35:39,040 - 00:35:41,040] Took a little arithmetic.
+- [00:35:41,040 - 00:35:43,040] Said, I think we just replaced
+- [00:35:43,040 - 00:35:45,040] the business we were worried about losing.
+- [00:35:45,040 - 00:35:48,040] So we did our market projections.
+- [00:35:48,040 - 00:35:49,540] We brought in the photographers and
+- [00:35:49,540 - 00:35:51,040] did the beauty shots of the product.
+- [00:35:51,040 - 00:35:54,040] We pulled together a commission plan.
+- [00:35:54,040 - 00:35:56,040] Took it into the marketplace.
+- [00:35:56,040 - 00:35:59,040] And it was an absolute disaster.
+- [00:36:01,040 - 00:36:04,040] Came in at less than
+- [00:36:04,040 - 00:36:07,040] 10% of the forecast each month.
+- [00:36:07,040 - 00:36:12,040] So if the forecast was $400,000 for the month, $35,000.
+- [00:36:12,040 - 00:36:18,040] So what did I do wrong?
+- [00:36:18,040 - 00:36:21,040] Here's where those of you holding
+- [00:36:21,040 - 00:36:24,040] the wireless microphones might get busy.
+- [00:36:24,040 - 00:36:26,040] What did I do wrong?
+- [00:36:26,040 - 00:36:27,540] This, by the way, did
+- [00:36:27,540 - 00:36:29,040] ruin a year of my life.
+- [00:36:29,040 - 00:36:30,040] I'll elaborate on it.
+- [00:36:30,040 - 00:36:32,040] Yes?
+- [00:36:32,040 - 00:36:34,040] Did it taste bad?
+- [00:36:34,040 - 00:36:36,040] Did it taste bad?
+- [00:36:36,040 - 00:36:41,040] Well, we thought it tasted pretty good.
+- [00:36:41,040 - 00:36:44,040] That's a good question.
+- [00:36:44,040 - 00:36:48,040] It turns out when your kidneys fail, your palate shifts.
+- [00:36:48,040 - 00:36:51,040] And protein, of which there was a great
+- [00:36:51,040 - 00:36:54,040] deal in this product, tastes like spoiled meat.
+- [00:36:54,040 - 00:36:59,040] So we asked the wrong people, how does it taste?
+- [00:36:59,040 - 00:37:01,040] But that was only part of it.
+- [00:37:01,040 - 00:37:03,040] What else did we do wrong?
+- [00:37:07,040 - 00:37:08,040] Well, come on, guys.
+- [00:37:08,040 - 00:37:10,040] My pedigree isn't terribly different from yours.
+- [00:37:10,040 - 00:37:13,040] I have some claims to at least
+- [00:37:13,040 - 00:37:16,040] a few functioning brain cells and some experience.
+- [00:37:16,040 - 00:37:18,040] And I worked very hard on
+- [00:37:18,040 - 00:37:20,040] this and fell flat on my face.
+- [00:37:20,040 - 00:37:23,040] There should be a lesson here for possibly you.
+- [00:37:23,040 - 00:37:25,040] What did I do wrong?
+- [00:37:25,040 - 00:37:27,040] Not talking to the customers.
+- [00:37:27,040 - 00:37:29,040] Oh, I'm going to repeat that
+- [00:37:29,040 - 00:37:31,040] since you don't have a microphone.
+- [00:37:31,040 - 00:37:34,040] She said not talking to the customers.
+- [00:37:34,040 - 00:37:35,040] You want to elaborate on that
+- [00:37:35,040 - 00:37:36,040] or did you have a different answer?
+- [00:37:36,040 - 00:37:38,040] You didn't talk to the patients.
+- [00:37:38,040 - 00:37:42,040] We did not talk to the patients.
+- [00:37:42,040 - 00:37:45,040] Well, let's elaborate on that.
+- [00:37:45,040 - 00:37:48,040] You guys hacked into my computer, didn't you?
+- [00:37:48,040 - 00:37:51,040] We surveyed the clinicians.
+- [00:37:51,040 - 00:37:54,040] But the patients were buying this with their own money.
+- [00:37:54,040 - 00:37:55,040] We didn't survey them.
+- [00:37:55,040 - 00:37:56,040] Clinicians don't buy this.
+- [00:37:56,040 - 00:37:58,040] They don't eat it.
+- [00:37:58,040 - 00:38:01,040] When we did finally talk to the patients,
+- [00:38:01,040 - 00:38:04,040] they didn't want it and they couldn't afford it.
+- [00:38:04,040 - 00:38:12,040] Couldn't afford it we kind of understood because if you're tethered to a machine for three or four hours at a time a couple times a week, some
+- [00:38:12,040 - 00:38:20,040] well-intended social worker is going to come along and say, well, I'm going to get you on public assistance because you can't hold down a job with this.
+- [00:38:20,040 - 00:38:21,040] Now you're broke.
+- [00:38:21,040 - 00:38:24,040] But why on earth would they not want it?
+- [00:38:24,040 - 00:38:25,040] Well, I don't know.
+- [00:38:25,040 - 00:38:29,040] Because we had clear clinical
+- [00:38:29,040 - 00:38:33,040] evidence that it improved your health.
+- [00:38:33,040 - 00:38:38,040] Well, the answer that we should have, I'm sorry, the
+- [00:38:38,040 - 00:38:43,040] question we should have asked was who gets kidney failure?
+- [00:38:43,040 - 00:38:45,040] Our customer base, right?
+- [00:38:45,040 - 00:38:48,040] 33% of them get there from
+- [00:38:48,040 - 00:38:51,040] a lifetime of mismanaging their diabetes.
+- [00:38:51,040 - 00:38:52,040] 44% of them get there from
+- [00:38:52,040 - 00:38:53,040] a lifetime of mismanaging their diabetes.
+- [00:38:53,040 - 00:38:54,540] 44% of them get there from a
+- [00:38:54,540 - 00:38:56,040] lifetime of mismanaging their high blood pressure.
+- [00:38:56,040 - 00:38:58,540] So three-quarters of my target customers
+- [00:38:58,540 - 00:39:01,040] had never taken care of themselves.
+- [00:39:01,040 - 00:39:03,040] They weren't going to start now.
+- [00:39:03,040 - 00:39:07,040] And if they had $5, it would
+- [00:39:07,040 - 00:39:11,040] go toward beer and cigarettes, not my product.
+- [00:39:11,040 - 00:39:14,040] There was one other problem.
+- [00:39:14,040 - 00:39:17,040] They had to find some place to buy it.
+- [00:39:17,040 - 00:39:21,040] And we had been selling to hospitals.
+- [00:39:21,040 - 00:39:25,040] And we failed to figure out
+- [00:39:25,040 - 00:39:29,040] that the retailers were also our customers.
+- [00:39:29,040 - 00:39:33,540] So, have you ever walked in and watched
+- [00:39:33,540 - 00:39:38,040] a pharmacist at work when their phone rings?
+- [00:39:38,040 - 00:39:44,040] It's usually something like this.
+- [00:39:44,040 - 00:39:47,040] Pharmacy.
+- [00:39:47,040 - 00:39:50,040] You have about 12 seconds to capture their attention.
+- [00:39:50,040 - 00:39:54,040] And if you ever want to see
+- [00:39:54,040 - 00:39:58,040] a pharmacy manager bust out laughing, say,
+- [00:39:58,040 - 00:40:01,040] I have a product you've never heard of
+- [00:40:01,040 - 00:40:04,040] from a company you've never done business with,
+- [00:40:04,040 - 00:40:06,540] and it's for sale for a group of patients who
+- [00:40:06,540 - 00:40:09,040] don't want it, but I'd like you to carry it.
+- [00:40:09,040 - 00:40:14,040] The short answer is, fat chance, Bob.
+- [00:40:14,040 - 00:40:16,040] And I didn't know this.
+- [00:40:16,040 - 00:40:17,540] And one day, one of
+- [00:40:17,540 - 00:40:19,040] these guys took pity on me.
+- [00:40:19,040 - 00:40:21,040] And he hauled me out into the aisle.
+- [00:40:21,040 - 00:40:26,040] And he said, Bob, we essentially have linear shelf space.
+- [00:40:26,040 - 00:40:29,540] And on this foot of linear
+- [00:40:29,540 - 00:40:33,040] shelf space, I carry Crest toothpaste.
+- [00:40:33,040 - 00:40:37,540] And I have pretty sophisticated algorithms that are going to tell me how many
+- [00:40:37,540 - 00:40:42,040] dollars in revenue I'm going to get each month from this foot of shelf space.
+- [00:40:42,040 - 00:40:45,040] Now, if I clear there, I'm going to get $1.
+- [00:40:45,040 - 00:40:47,040] And I'm going to get $2.
+- [00:40:47,040 - 00:40:52,040] Now, if I clear their product off and put your product on,
+- [00:40:52,040 - 00:40:57,040] I can't think of any reason why I ought to lose money.
+- [00:40:57,040 - 00:41:01,040] So get out your checkbook.
+- [00:41:01,040 - 00:41:04,040] This is called slotting fees.
+- [00:41:04,040 - 00:41:07,040] As you buy a slot on their shelf.
+- [00:41:07,040 - 00:41:11,040] You might call it extortion.
+- [00:41:11,040 - 00:41:13,040] All right?
+- [00:41:13,040 - 00:41:15,040] Those fees are onerous.
+- [00:41:15,040 - 00:41:18,040] And we were doing this some years ago.
+- [00:41:18,040 - 00:41:23,040] For CVS, it was $1 million a quarter.
+- [00:41:23,040 - 00:41:25,040] For starters.
+- [00:41:25,040 - 00:41:27,040] It was a guaranteed sale.
+- [00:41:27,040 - 00:41:28,540] That means if it didn't sell, they'd
+- [00:41:28,540 - 00:41:30,040] send it back to you for full refund.
+- [00:41:30,040 - 00:41:36,040] Plus, you had to fill every store in their chain with
+- [00:41:36,040 - 00:41:42,040] two samples of each SKU stock keeping unit that they had.
+- [00:41:42,040 - 00:41:44,040] You have a question?
+- [00:41:44,040 - 00:41:49,040] That was not included in your pricing of the product.
+- [00:41:49,040 - 00:41:51,040] Take this man the microphone.
+- [00:41:51,040 - 00:41:54,040] I think the audience needs to hear this question.
+- [00:41:54,040 - 00:41:55,040] Go ahead, sir.
+- [00:41:55,040 - 00:41:56,540] I guess that was not included
+- [00:41:56,540 - 00:41:58,040] in the pricing of the product.
+- [00:41:58,040 - 00:42:03,040] Well, you're right.
+- [00:42:03,040 - 00:42:06,040] In fact, I was completely clueless about this.
+- [00:42:06,040 - 00:42:07,540] The distribution channel I was used
+- [00:42:07,540 - 00:42:09,040] to was selling into hospital pharmacy.
+- [00:42:09,040 - 00:42:11,040] I'm sorry.
+- [00:42:11,040 - 00:42:13,040] Into hospitals who had their own formulary.
+- [00:42:13,040 - 00:42:15,040] And there was a whole sort of tap
+- [00:42:15,040 - 00:42:17,040] dance you had to do to get into that.
+- [00:42:17,040 - 00:42:19,540] But retail pharmacies was a
+- [00:42:19,540 - 00:42:22,040] distribution channel I knew nothing about.
+- [00:42:22,040 - 00:42:26,040] So we said, oh, my.
+- [00:42:26,040 - 00:42:28,540] Well, we were on track to show Wall Street
+- [00:42:28,540 - 00:42:31,040] we were a good candidate for a public offering.
+- [00:42:31,040 - 00:42:35,040] And if we succeeded in going public, all that
+- [00:42:35,040 - 00:42:39,040] stock that the owner handed out would be worth something.
+- [00:42:39,040 - 00:42:42,040] My shortfall put that IPO at risk.
+- [00:42:42,040 - 00:42:48,040] That meant I was not that popular.
+- [00:42:48,040 - 00:42:51,040] And it just kept going on.
+- [00:42:51,040 - 00:42:54,040] And I would have to report my results.
+- [00:42:54,040 - 00:42:58,540] And, you know, there are a few places in the country where you can fail
+- [00:42:58,540 - 00:43:03,040] with a venture and people say, oh, yeah, I screwed up my first two or three.
+- [00:43:03,040 - 00:43:04,040] Come on in.
+- [00:43:04,040 - 00:43:07,040] But there's only a few.
+- [00:43:07,040 - 00:43:09,040] Most places in the country.
+- [00:43:09,040 - 00:43:11,040] They think if your venture fails.
+- [00:43:11,040 - 00:43:13,040] You are a failure.
+- [00:43:13,040 - 00:43:15,040] And by the way, failure is probably contagious.
+- [00:43:15,040 - 00:43:16,040] And if I spend time with
+- [00:43:16,040 - 00:43:17,040] you, I'll probably catch the failure bug.
+- [00:43:17,040 - 00:43:19,040] And I'll be a failure, too.
+- [00:43:19,040 - 00:43:21,040] So stay away from me.
+- [00:43:21,040 - 00:43:23,040] All right.
+- [00:43:23,040 - 00:43:25,040] It was a lonely time.
+- [00:43:25,040 - 00:43:27,040] I'm not trying to make you weep.
+- [00:43:27,040 - 00:43:30,040] I'm trying to say that the consequences of me
+- [00:43:30,040 - 00:43:33,040] not thinking this through just got worse and worse.
+- [00:43:33,040 - 00:43:35,040] Went on for an entire year.
+- [00:43:35,040 - 00:43:37,040] Painful lesson.
+- [00:43:37,040 - 00:43:39,040] But I'm not going to go into too much detail.
+- [00:43:39,040 - 00:43:40,040] I'm going to go into more detail.
+- [00:43:40,040 - 00:43:43,040] Painful lesson.
+- [00:43:43,040 - 00:43:46,040] So we learned about inside sales.
+- [00:43:46,040 - 00:43:50,540] We managed to find a way to get to the
+- [00:43:50,540 - 00:43:55,040] 25% of people who did not develop kidney failure through self-neglect.
+- [00:43:55,040 - 00:43:57,040] And we eventually found an outfit
+- [00:43:57,040 - 00:43:59,040] that catered specifically to that 25%.
+- [00:43:59,040 - 00:44:01,040] We had a clinical trial.
+- [00:44:01,040 - 00:44:03,040] We were the crown jewel in their modest collection.
+- [00:44:03,040 - 00:44:05,040] We sold it.
+- [00:44:05,040 - 00:44:06,540] We got out of it for about a
+- [00:44:06,540 - 00:44:08,040] dollar more than we had spent in the business.
+- [00:44:08,040 - 00:44:09,040] And, thankfully, I had it.
+- [00:44:09,040 - 00:44:10,540] And, thankfully, I overachieved
+- [00:44:10,540 - 00:44:12,040] in my other responsibilities.
+- [00:44:12,040 - 00:44:14,040] And the company went public.
+- [00:44:14,040 - 00:44:17,040] And the stock turned out to be worth something.
+- [00:44:17,040 - 00:44:20,040] But it was just an awful year.
+- [00:44:20,040 - 00:44:22,040] Right?
+- [00:44:22,040 - 00:44:23,040] Okay.
+- [00:44:23,040 - 00:44:28,540] So just to show you or to demonstrate, I suppose, that entrepreneurship is a
+- [00:44:28,540 - 00:44:34,040] form of mental illness, I went off and did two more of these things.
+- [00:44:34,040 - 00:44:36,040] And they did a little bit better.
+- [00:44:36,040 - 00:44:37,040] And at some point, I was
+- [00:44:37,040 - 00:44:38,040] in a state of mental illness.
+- [00:44:39,040 - 00:44:44,040] And I got the attention of the docs who started
+- [00:44:44,040 - 00:44:49,040] the nutrition division at Harvard, even though I was in California.
+- [00:44:49,040 - 00:44:52,540] And one day they called me up and they asked
+- [00:44:52,540 - 00:44:56,040] me if I'd like to start a company with them.
+- [00:44:56,040 - 00:44:57,040] I said, no, absolutely not.
+- [00:44:57,040 - 00:44:59,040] There's nobody worse to start a
+- [00:44:59,040 - 00:45:01,040] company with than a bunch of doctors.
+- [00:45:01,040 - 00:45:03,540] And the smart doctors are the worst because they think
+- [00:45:03,540 - 00:45:06,040] because they're really good at something, they're really good at everything.
+- [00:45:06,040 - 00:45:07,040] So I love you guys.
+- [00:45:07,040 - 00:45:08,040] I'll meet you in San Antonio at the conference.
+- [00:45:08,040 - 00:45:09,040] A couple weeks.
+- [00:45:09,040 - 00:45:10,040] Wear your jeans.
+- [00:45:10,040 - 00:45:11,040] I'll buy you a taco and a tequila.
+- [00:45:11,040 - 00:45:12,040] But I'm not starting a company with you.
+- [00:45:12,040 - 00:45:13,040] Have a great day.
+- [00:45:13,040 - 00:45:14,040] Bye.
+- [00:45:14,040 - 00:45:15,040] Bye.
+- [00:45:15,040 - 00:45:16,040] Thank you.
+- [00:45:16,040 - 00:45:17,040] Bye.
+- [00:45:17,040 - 00:45:18,040] Bye.
+- [00:45:18,040 - 00:45:19,040] Bye.
+- [00:45:19,040 - 00:45:20,040] Bye.
+- [00:45:20,040 - 00:45:21,040] Bye.
+- [00:45:21,040 - 00:45:22,040] Bye.
+- [00:45:22,040 - 00:45:23,040] Bye.
+- [00:45:23,040 - 00:45:24,040] Bye.
+- [00:45:24,040 - 00:45:25,040] Bye.
+- [00:45:25,040 - 00:45:26,040] Bye.
+- [00:45:26,040 - 00:45:27,040] Bye.
+- [00:45:27,040 - 00:45:28,040] Bye.
+- [00:45:28,040 - 00:45:29,040] Bye.
+- [00:45:29,040 - 00:45:30,040] Bye.
+- [00:45:30,040 - 00:45:31,040] Bye.
+- [00:45:31,040 - 00:45:32,040] Bye.
+- [00:45:32,040 - 00:45:33,040] Bye.
+- [00:45:33,040 - 00:45:34,040] Bye.
+- [00:45:34,040 - 00:45:35,040] Bye.
+- [00:45:35,040 - 00:45:36,040] Bye.
+- [00:45:36,040 - 00:45:37,040] Bye.
+- [00:45:37,040 - 00:45:15,970] Bye.
+- [00:45:15,970 - 00:45:16,470] زوباب
+- [00:45:16,470 - 00:45:16,970] ينعي
+- [00:45:16,970 - 00:45:17,470] نيتو
+- [00:45:17,470 - 00:45:17,970] بيك
+- [00:45:18,050 - 00:45:22,370] less ambiguous and tell us what you think.
+- [00:45:22,370 - 00:45:24,490] Six months later they call me
+- [00:45:24,490 - 00:45:26,610] back and said we've raised some capital
+- [00:45:26,610 - 00:45:29,050] contingent on finding a CEO would
+- [00:45:29,050 - 00:45:31,490] you come to Boston meet our investors?
+- [00:45:31,490 - 00:45:36,290] Long story short we did it. So
+- [00:45:37,970 - 00:45:41,410] we selected diabetes as the field we would go into.
+- [00:45:41,410 - 00:45:46,050] How many of you know someone who has diabetes?
+- [00:45:46,050 - 00:45:50,370] It's everywhere right? Okay, well at the time
+- [00:45:50,370 - 00:45:54,690] there were 10 million people who had been diagnosed
+- [00:45:54,690 - 00:45:57,570] and the prevailing wisdom was that if you have
+- [00:45:57,570 - 00:46:00,450] it you can manage it but it'll never go away.
+- [00:46:00,450 - 00:46:04,689] There's some evidence these days that at fact if you take some drastic
+- [00:46:04,689 - 00:46:08,929] steps you can reverse it but at the time this was the belief.
+- [00:46:08,929 - 00:46:12,089] And the goal of managing your blood glucose
+- [00:46:12,089 - 00:46:15,250] was to keep it from not fluctuating wildly.
+- [00:46:15,250 - 00:46:15,970] So you wanted to restrict the blood glucose.
+- [00:46:15,970 - 00:46:16,050] So you wanted to restrict the blood glucose.
+- [00:46:16,050 - 00:46:20,180] the bandwidth. And at the time, 4 million
+- [00:46:20,180 - 00:46:24,310] people used insulin to lower their blood sugar. And
+- [00:46:24,310 - 00:46:28,250] if they did it wrong, all 4 million of
+- [00:46:28,250 - 00:46:32,190] those people were at risk of their blood sugar going
+- [00:46:32,190 - 00:46:36,540] too low. So what happens in that case? Well,
+- [00:46:36,540 - 00:46:40,890] the stuff that gets the publicity comes from having
+- [00:46:40,890 - 00:46:44,730] blood glucose that's too high. And it's
+- [00:46:44,730 - 00:46:48,570] the major cause of blindness, kidney failure, and
+- [00:46:48,570 - 00:46:53,020] peripheral neuropathy, which means they amputate your feet.
+- [00:46:53,020 - 00:46:57,470] Bad. But the other side of that coin
+- [00:46:57,470 - 00:47:01,180] is if your blood glucose goes too low and
+- [00:47:01,180 - 00:47:04,890] you faint. So if you're stuck in rush hour traffic,
+- [00:47:05,050 - 00:47:10,810] that's bad. The real issue is what happens
+- [00:47:10,810 - 00:47:10,840] at the time of the blood glucose drop. And
+- [00:47:10,840 - 00:47:10,870] that's when you're at risk of your blood sugar
+- [00:47:10,870 - 00:47:14,180] going too low. So what happens
+- [00:47:14,180 - 00:47:17,490] at night? Because people who tightly control
+- [00:47:17,490 - 00:47:22,589] their insulin and their blood glucose usually eat three
+- [00:47:22,589 - 00:47:27,689] small meals a day, eat three small snacks a
+- [00:47:27,689 - 00:47:30,779] day, regular small injections of insulin, and
+- [00:47:30,779 - 00:47:33,870] it keeps that bandwidth pretty moderated. But at
+- [00:47:33,870 - 00:47:35,650] night, nobody's going to wake themselves up two
+- [00:47:35,650 - 00:47:37,430] or three times in the course of the evening,
+- [00:47:37,430 - 00:47:38,669] eat a snack, inject some
+- [00:47:38,669 - 00:47:39,909] insulin, and go back to bed.
+- [00:47:40,870 - 00:47:43,530] So the system breaks down. Because what usually
+- [00:47:43,530 - 00:47:46,190] happens is they eat a big nighttime snack,
+- [00:47:46,629 - 00:47:48,959] big bolus of insulin, and hope that the two
+- [00:47:48,959 - 00:47:51,289] will titrate through the evening, and it doesn't work.
+- [00:47:52,310 - 00:47:55,340] Because the food all turns into glucose
+- [00:47:55,340 - 00:47:58,370] at the same time. The spike is higher,
+- [00:47:58,790 - 00:48:02,270] but the horizontal axis is no longer, no
+- [00:48:02,270 - 00:48:05,750] wider. Translation, at two o'clock in the morning,
+- [00:48:05,750 - 00:48:08,290] the food has run out and the insulin is
+- [00:48:08,290 - 00:48:10,830] still working. And that zone between 2 a.m. and 6
+- [00:48:10,870 - 00:48:15,070] a.m. is when you're at risk of slipping from
+- [00:48:15,070 - 00:48:19,270] being hypoglycemic and asleep to slipping into a coma.
+- [00:48:21,310 - 00:48:25,469] So who can tell us what a focus
+- [00:48:25,469 - 00:48:29,629] group is? You guys know what focus groups are?
+- [00:48:32,530 - 00:48:34,230] All right, well, I'll give you the quick and
+- [00:48:34,230 - 00:48:35,930] dirty. You assemble a bunch of people that you
+- [00:48:35,930 - 00:48:38,210] think are representative of your customers. You put
+- [00:48:38,210 - 00:48:40,490] them in a room with a professional moderator,
+- [00:48:40,870 - 00:48:43,780] you sit behind a one-way glass, moderator asks some
+- [00:48:43,780 - 00:48:46,690] questions as to what do you think of this,
+- [00:48:46,770 - 00:48:48,809] and how much would you pay for it, and
+- [00:48:48,809 - 00:48:50,849] et cetera. And after three or four of these,
+- [00:48:50,909 - 00:48:54,369] I had a temper tantrum and came out from
+- [00:48:54,369 - 00:48:57,830] the other side. And I said, you've spent 45 minutes
+- [00:48:57,830 - 00:48:59,880] listening to the science behind this product. Tell
+- [00:48:59,880 - 00:49:01,930] me, is there something that you really are
+- [00:49:01,930 - 00:49:04,930] afraid of? I'm done with the intellectual
+- [00:49:04,930 - 00:49:07,930] stuff. Let's talk emotions. And they said, yeah,
+- [00:49:08,430 - 00:49:10,550] I don't sleep in a bed anymore.
+- [00:49:10,870 - 00:49:14,079] Because I'm afraid if I get too comfortable, I
+- [00:49:14,079 - 00:49:17,289] will never wake up. So that recliner in my living
+- [00:49:17,289 - 00:49:20,609] room, that's where I sleep. I'm afraid I
+- [00:49:20,609 - 00:49:23,930] will die in my sleep. Well, that's gripping.
+- [00:49:25,810 - 00:49:29,859] So we invented a product, which turned
+- [00:49:29,859 - 00:49:33,909] into glucose at different rates. The components
+- [00:49:33,909 - 00:49:36,229] last all night long. Being marketers
+- [00:49:36,229 - 00:49:38,550] at heart, we called it time-release glucose.
+- [00:49:40,870 - 00:49:44,819] This time, it did taste good. Thank you
+- [00:49:44,819 - 00:49:48,769] for that question. We gave it a non-medical name.
+- [00:49:49,709 - 00:49:53,170] Why did we do that? This is important.
+- [00:49:56,230 - 00:49:59,310] I was working hard with the FTC to be
+- [00:49:59,310 - 00:50:02,390] able to say this is for people with diabetes,
+- [00:50:02,390 - 00:50:06,370] and put that on the label, until I learned
+- [00:50:06,370 - 00:50:10,350] that that would have killed my business. Tell me why.
+- [00:50:10,870 - 00:50:14,370] Because people would associate it
+- [00:50:14,370 - 00:50:17,870] with medicine, not the anti-medicine.
+- [00:50:17,870 - 00:50:22,450] Well, actually, that's a pretty good answer.
+- [00:50:22,450 - 00:50:27,030] I'll come back to it. Yes, sir.
+- [00:50:27,030 - 00:50:29,369] If you classified it as medication, you
+- [00:50:29,369 - 00:50:31,709] would probably not be able to stop getting
+- [00:50:31,709 - 00:50:33,709] asthma-influenced patients.
+- [00:50:33,709 - 00:50:34,709] Say that again.
+- [00:50:34,709 - 00:50:37,209] If you classified it as medication, you would
+- [00:50:37,209 - 00:50:39,709] probably not be able to stop getting asthma-influenced
+- [00:50:39,709 - 00:50:40,709] patients.
+- [00:50:40,710 - 00:50:41,330] That's to say that the
+- [00:50:41,330 - 00:50:41,950] ayudarants, or just the macronutrients .
+- [00:50:41,950 - 00:50:44,950] Yes, we're getting warm. We've
+- [00:50:44,950 - 00:50:47,950] got one more. Thank you, Janet.
+- [00:50:48,550 - 00:50:57,550] Is there any market for this with diabetes?
+- [00:50:59,850 - 00:51:01,270] You're missing a target here.
+- [00:51:01,270 - 00:51:02,690] Are we talking about consumers? Try.
+- [00:51:02,690 - 00:51:04,520] When people talk about learning from
+- [00:51:04,520 - 00:51:06,350] the data, but just getting away
+- [00:51:06,350 - 00:51:07,350] with the information they gain.
+- [00:51:07,350 - 00:51:08,350] Yes.
+- [00:51:08,350 - 00:51:09,040] And then you look at how people can
+- [00:51:09,040 - 00:51:09,730] use it as they get more лет JEU
+- [00:51:09,730 - 00:51:10,430] We asked these questions one of theché.
+- [00:51:10,430 - 00:51:10,530] Yes.
+- [00:51:10,530 - 00:51:10,570] Is there a market for these with diabetes as
+- [00:51:10,570 - 00:51:10,610] people say high Um what's the key to control
+- [00:51:10,610 - 00:51:10,710] cyclone up?
+- [00:51:10,710 - 00:51:14,770] I'm looking at the clock so
+- [00:51:14,770 - 00:51:18,830] I'm going to save some time here.
+- [00:51:18,830 - 00:51:21,270] You want to try it as long as
+- [00:51:21,270 - 00:51:23,710] you're next to the man with the microphone?
+- [00:51:23,710 - 00:51:24,710] Closer.
+- [00:51:24,710 - 00:51:33,750] The short answer.
+- [00:51:33,750 - 00:51:43,290] They said, Bob, it's nobody's business that I have diabetes.
+- [00:51:43,290 - 00:51:44,510] I'm not a diabetic.
+- [00:51:44,510 - 00:51:46,110] I'm a banker.
+- [00:51:46,110 - 00:51:47,430] I'm a lawyer.
+- [00:51:47,430 - 00:51:50,250] I'm an entrepreneur.
+- [00:51:50,250 - 00:51:51,730] It's nobody's business.
+- [00:51:51,730 - 00:51:54,570] You have migraines.
+- [00:51:54,570 - 00:51:56,630] Your elbows hurt when you get up in the morning.
+- [00:51:56,630 - 00:51:57,630] Who cares?
+- [00:51:57,630 - 00:51:59,649] It's nobody's business.
+- [00:51:59,649 - 00:52:01,689] And if I pull out something that looks
+- [00:52:01,689 - 00:52:03,730] like medicine, that's for people who are sick.
+- [00:52:03,730 - 00:52:04,730] I'm not sick.
+- [00:52:04,730 - 00:52:07,730] I'm an active professional.
+- [00:52:07,730 - 00:52:09,650] And if I have to pull it out in a
+- [00:52:09,650 - 00:52:11,570] meeting that's gone on too long and I've missed a
+- [00:52:11,570 - 00:52:14,530] meal and I'm starting to feel a little
+- [00:52:14,530 - 00:52:17,490] woozy, I don't want them thinking I am medicating
+- [00:52:17,490 - 00:52:20,470] because then they will think I am frail.
+- [00:52:20,470 - 00:52:22,970] And that is a career-limiting move.
+- [00:52:22,970 - 00:52:26,250] I said, well, what should it look like?
+- [00:52:26,250 - 00:52:29,450] They said, make it look like something that,
+- [00:52:29,450 - 00:52:32,650] I don't know, an elite athlete would consume.
+- [00:52:32,650 - 00:52:33,650] Maybe marathon runners.
+- [00:52:33,650 - 00:52:33,710] I said, well, what should it look like?
+- [00:52:33,730 - 00:52:34,730] They said, marathon runners.
+- [00:52:34,730 - 00:52:37,450] I said, time to release glucose.
+- [00:52:37,450 - 00:52:38,750] And in fact, we did end
+- [00:52:38,750 - 00:52:40,050] up selling some to marathon runners.
+- [00:52:40,050 - 00:52:42,690] We said, I'm out there running for four hours.
+- [00:52:42,690 - 00:52:45,590] I could use some time to release glucose.
+- [00:52:45,590 - 00:52:48,930] So this turned out to be important.
+- [00:52:48,930 - 00:52:52,190] There's a lesson out of this, which I will
+- [00:52:52,190 - 00:52:55,450] come to in a couple of minutes, as to the
+- [00:52:55,450 - 00:52:58,340] importance of actually talking to the people
+- [00:52:58,340 - 00:53:01,230] who are going to buy your product.
+- [00:53:01,230 - 00:53:03,650] So stop with the social media.
+- [00:53:03,650 - 00:53:07,530] Don't have a certain point, right?
+- [00:53:07,530 - 00:53:11,050] We engaged this time not only clinicians
+- [00:53:11,050 - 00:53:14,570] but also parents and patients in formulating the
+- [00:53:14,570 - 00:53:16,010] product.
+- [00:53:16,010 - 00:53:19,260] We discovered that it should be 100 calories
+- [00:53:19,260 - 00:53:22,510] with little striations so that if you had
+- [00:53:22,510 - 00:53:26,050] a small child, you'd give them 50 calories worth.
+- [00:53:26,050 - 00:53:28,850] And if you had a large grownup and they needed
+- [00:53:28,850 - 00:53:31,650] 150, it could be one and a half bars, et cetera.
+- [00:53:31,650 - 00:53:33,570] We made it convenient.
+- [00:53:33,650 - 00:53:36,230] We talked to them.
+- [00:53:36,230 - 00:53:39,330] We said, this was actually kind of fun.
+- [00:53:39,330 - 00:53:42,670] In one of these focus groups, we said,
+- [00:53:42,670 - 00:53:46,010] we've put paper and pencils in front of you.
+- [00:53:46,010 - 00:53:49,270] Write down, don't say it, because
+- [00:53:49,270 - 00:53:52,530] I don't want you influencing him.
+- [00:53:52,530 - 00:53:55,380] Write down where you would expect to buy a
+- [00:53:55,380 - 00:53:58,230] product like this and how much you would expect
+- [00:53:58,230 - 00:54:00,010] to pay for it.
+- [00:54:00,010 - 00:54:01,010] Okay.
+- [00:54:01,010 - 00:54:02,010] Thank you.
+- [00:54:02,010 - 00:54:03,010] Bye.
+- [00:54:03,010 - 00:54:03,090] Bye.
+- [00:54:04,550 - 00:54:06,390] Two piles.
+- [00:54:06,390 - 00:54:07,910] Grocery store.
+- [00:54:07,910 - 00:54:10,230] 49 cents.
+- [00:54:10,230 - 00:54:11,470] Pharmacy.
+- [00:54:11,470 - 00:54:13,250] Dollar and a quarter.
+- [00:54:13,250 - 00:54:14,290] 49 cents.
+- [00:54:14,290 - 00:54:16,710] Dollar and a quarter.
+- [00:54:16,710 - 00:54:17,870] Same product.
+- [00:54:17,870 - 00:54:20,070] Distributionchannel influenced the customer's
+- [00:54:20,070 - 00:54:22,270] perspective of the value.
+- [00:54:22,270 - 00:54:28,110] He said, well, call me silly, I like pharmacies.
+- [00:54:28,110 - 00:54:30,870] Right?
+- [00:54:30,870 - 00:54:33,570] Despite all that stuff about slides.
+- [00:54:33,570 - 00:54:37,070] spotting fees. We found an ad agency that
+- [00:54:37,070 - 00:54:40,570] knew the field. We produced ads that were
+- [00:54:40,570 - 00:54:43,740] better. And we started running those ads. And
+- [00:54:43,740 - 00:54:46,910] we started getting 100 calls a day. We
+- [00:54:46,910 - 00:54:49,120] were at 238 Main Street, by the way,
+- [00:54:49,120 - 00:54:51,330] with about two or three other companies. You remember
+- [00:54:51,330 - 00:54:55,490] those days. So at 100 calls a day, we
+- [00:54:55,490 - 00:54:59,650] said, gee, we need more phones. 200 calls a day,
+- [00:54:59,650 - 00:55:03,210] we started going out into Kendall Square and
+- [00:55:03,210 - 00:55:06,770] saying, may I see your wrist, please? Okay,
+- [00:55:06,770 - 00:55:10,120] you have a pulse. Would you like a job?
+- [00:55:10,120 - 00:55:13,470] I mean, it wasn't quite that bad, but darn near.
+- [00:55:13,470 - 00:55:15,260] We said, well, there are more geniuses per
+- [00:55:15,260 - 00:55:17,050] square foot here than most places. We can
+- [00:55:17,050 - 00:55:19,570] get people to answer the phone and talk
+- [00:55:19,570 - 00:55:22,090] to customers. 300 calls a day, we said, God,
+- [00:55:22,090 - 00:55:25,860] we've got to upgrade our database. 500 calls a
+- [00:55:25,860 - 00:55:29,630] day, we said, I think we're on to something.
+- [00:55:29,630 - 00:55:33,130] I think we have found a need. We brought
+- [00:55:33,130 - 00:55:36,630] in an inside sales force. And to skip to the
+- [00:55:36,630 - 00:55:40,370] end of the story, we ended up in every
+- [00:55:40,370 - 00:55:44,110] major pharmacy chain in the country and paid zero
+- [00:55:44,110 - 00:55:47,190] in slotting fees, which had never been done
+- [00:55:47,190 - 00:55:50,270] before. So if you dig deeply, you will find
+- [00:55:50,270 - 00:55:53,510] that we are an obscure Harvard Business
+- [00:55:53,510 - 00:55:56,750] School case study, because nobody had done this.
+- [00:55:56,750 - 00:55:58,630] All right.
+- [00:55:58,630 - 00:55:59,630] Speaker 1
+- [00:55:59,630 - 00:56:03,300] The lesson, understanding our customers helped us
+- [00:56:03,300 - 00:56:06,970] invent a better product and build a successful
+- [00:56:06,970 - 00:56:12,220] business. So I think there's some magic
+- [00:56:12,220 - 00:56:17,470] in how we actually reached our customers, and
+- [00:56:17,470 - 00:56:20,270] it's worth a little bit of a dive. The title
+- [00:56:20,270 - 00:56:23,070] of this course is not The Theory of New Ventures.
+- [00:56:23,070 - 00:56:25,850] It's The Nuts and Bolts of New Ventures.
+- [00:56:25,850 - 00:56:28,630] So let's look at the nuts and bolts.
+- [00:56:28,630 - 00:56:29,630] Okay.
+- [00:56:29,630 - 00:56:33,900] So we said, well, let's be honest, a
+- [00:56:33,900 - 00:56:38,170] fair number of people who have diabetes do not
+- [00:56:38,170 - 00:56:41,700] take care of themselves, and don't spend money
+- [00:56:41,700 - 00:56:45,230] to take care of themselves. And it's a waste
+- [00:56:45,230 - 00:56:48,120] of our time and effort to try and convert
+- [00:56:48,120 - 00:56:51,010] them. How do we find the ones who are spending
+- [00:56:51,010 - 00:56:54,090] money to take care of themselves? And
+- [00:56:54,090 - 00:56:57,170] the answer is there's a credentialed medical professional
+- [00:56:57,170 - 00:56:57,900] out there called a certified diabetes educator.
+- [00:56:57,900 - 00:56:58,630] And he's a certified diabetes educator. And
+- [00:56:58,630 - 00:56:59,130] he's a certified diabetes educator. And he's
+- [00:56:59,130 - 00:56:59,630] a certified diabetes educator. And he's a certified
+- [00:56:59,630 - 00:57:00,210] diabetes educator. And he's a certified
+- [00:57:00,210 - 00:57:00,790] diabetes educator. This is something that
+- [00:57:00,790 - 00:57:04,110] you pick up usually after being a
+- [00:57:04,110 - 00:57:07,430] pharmacist or a dietician. They accumulate around in
+- [00:57:07,430 - 00:57:10,420] major metropolitan areas. They have an
+- [00:57:10,420 - 00:57:13,410] association. Surprisingly enough, it's called the American
+- [00:57:13,410 - 00:57:16,140] Association of Diabetes Educators. You go on
+- [00:57:16,140 - 00:57:18,870] that association site, and you click the
+- [00:57:18,870 - 00:57:23,530] tab Locate a CDE, and you type in 02478
+- [00:57:23,530 - 00:57:28,190] or whatever, and the zip code, and out comes
+- [00:57:28,190 - 00:57:28,890] a list with all the contact details. And you
+- [00:57:28,890 - 00:57:29,590] can see that there's a list of all the contact
+- [00:57:29,590 - 00:57:33,070] data. So we could find them. So how about
+- [00:57:33,070 - 00:57:36,550] that? What do they worry about, and how can
+- [00:57:36,550 - 00:57:41,000] we help them address their worries? Hold
+- [00:57:41,000 - 00:57:45,450] that thought. But eventually, we had several thousand
+- [00:57:45,450 - 00:57:49,210] highly credentialed healthcare professionals working as
+- [00:57:49,210 - 00:57:52,970] our sales force for free. Not a
+- [00:57:52,970 - 00:57:55,830] bad stunt. So back to who
+- [00:57:55,830 - 00:57:58,690] wins if you win, and who would
+- [00:57:58,690 - 00:57:59,389] want you to win.
+- [00:57:59,590 - 00:58:09,000] So about 12,000 of these educators were members of
+- [00:58:09,000 - 00:58:18,410] the AADE. Most of them would have a meeting
+- [00:58:18,410 - 00:58:21,339] one Saturday a month, Saturday morning, 9 to
+- [00:58:21,339 - 00:58:24,269] noon. They would bring in all their patients.
+- [00:58:24,610 - 00:58:26,939] They'd talk about new developments. Sometimes
+- [00:58:26,939 - 00:58:29,269] they'd have samples to pass out.
+- [00:58:29,590 - 00:58:31,679] They'd say, congratulations, you're doing great.
+- [00:58:31,679 - 00:58:33,769] Gee, you better be careful. You're
+- [00:58:33,769 - 00:58:36,329] starting to slip up. You're at risk. And
+- [00:58:36,329 - 00:58:38,889] they'd bring everybody in. Everybody who ever has
+- [00:58:38,889 - 00:58:41,859] a job like that is always starved for content.
+- [00:58:41,859 - 00:58:44,830] What are we going to talk about for the next
+- [00:58:44,830 - 00:58:47,090] meeting?
+- [00:58:47,090 - 00:58:50,850] But we called them up. And we
+- [00:58:50,850 - 00:58:54,610] said, what's your greatest professional frustration? And
+- [00:58:54,610 - 00:58:55,610] their answer?
+- [00:58:59,610 - 00:59:00,830] This is not promising.
+- [00:59:00,830 - 00:59:01,830] Yes, sir?
+- [00:59:05,830 - 00:59:06,730] How do you know they're doing okay?
+- [00:59:06,730 - 00:59:10,379] I imagine they got pretty frustrated with
+- [00:59:10,379 - 00:59:14,029] their patients, even not taking care of themselves,
+- [00:59:14,029 - 00:59:14,529] so maybe there's a solution
+- [00:59:14,529 - 00:59:15,029] out there they'd be interested in.
+- [00:59:15,029 - 00:59:18,579] I tell them what to do and they don't
+- [00:59:18,579 - 00:59:22,129] do it, the medical term for which is patient
+- [00:59:22,129 - 00:59:25,149] compliance. I tell them what to do and they
+- [00:59:25,149 - 00:59:28,169] don't do it. That's my biggest I never said
+- [00:59:28,170 - 00:59:30,650] a word about I don't make enough money,
+- [00:59:30,650 - 00:59:33,130] my husband doesn't understand me, any of that stuff,
+- [00:59:33,610 - 00:59:37,550] right? I tell them what to do, and they don't do
+- [00:59:37,550 - 00:59:41,490] it. We said, well, what if we told you we had
+- [00:59:41,490 - 00:59:44,230] something invented by a bunch of snotty
+- [00:59:44,230 - 00:59:46,970] doctors at Harvard Med School? That's probably redundant,
+- [00:59:47,170 - 00:59:51,550] right? It tastes great, it works great, and your
+- [00:59:51,550 - 00:59:55,930] patients will thank you for telling them about it.
+- [00:59:55,930 - 00:59:58,130] How would you feel about that? And they said,
+- [00:59:58,130 - 01:00:00,330] oh my God, I'd shout it from the rooftops.
+- [01:00:02,010 - 01:00:07,060] So we ended up with a high-quality sales
+- [01:00:07,060 - 01:00:12,110] force for free. Now, these people would have been
+- [01:00:12,110 - 01:00:16,840] insulted if we had offered to pay them, because
+- [01:00:16,840 - 01:00:21,570] they're healers, all right? What we did was we
+- [01:00:21,570 - 01:00:25,910] gave them what they wanted, which was something,
+- [01:00:25,930 - 01:00:30,280] that their patients would comply with. And so we
+- [01:00:30,280 - 01:00:34,630] said, hmm, is there any chance that you might
+- [01:00:34,630 - 01:00:37,450] call the pharmacists on our behalf and get them
+- [01:00:37,450 - 01:00:40,270] to stock our product? And they said, are you kidding?
+- [01:00:40,890 - 01:00:43,900] I sent a lot of patients to that bozo.
+- [01:00:43,900 - 01:00:46,910] If I like your stuff, you got a deal.
+- [01:00:48,150 - 01:00:51,530] We said, well, maybe the pharmacist wouldn't
+- [01:00:51,530 - 01:00:54,910] mention slotting fees. Okay, quick word about
+- [01:00:55,010 - 01:00:55,750] the importance of the product.
+- [01:00:55,930 - 01:00:57,390] The importance of people
+- [01:00:57,390 - 01:00:58,850] with diabetes to retail pharmacists.
+- [01:01:01,250 - 01:01:04,220] You and I go to our pharmacy,
+- [01:01:04,220 - 01:01:07,190] and we buy toothpaste and a greeting card.
+- [01:01:08,190 - 01:01:11,430] But if we have diabetes, we also
+- [01:01:11,430 - 01:01:14,670] buy insulin, blood glucose monitors, testing strips, etc.
+- [01:01:15,250 - 01:01:18,890] We're worth way more than the ones who
+- [01:01:18,890 - 01:01:22,530] are normal retail consumers. These are high-value customers,
+- [01:01:22,890 - 01:01:23,450] right?
+- [01:01:24,790 - 01:01:25,110] So,
+- [01:01:25,110 - 01:01:26,730] hold that thought.
+- [01:01:26,730 - 01:01:29,749] So our initial sales model was,
+- [01:01:29,749 - 01:01:32,769] our sales force would call the educators.
+- [01:01:32,769 - 01:01:34,869] The educators would talk to the patients.
+- [01:01:34,869 - 01:01:37,730] The patients would buy it from us, for a while.
+- [01:01:38,489 - 01:01:40,359] We made no money on this, because
+- [01:01:40,359 - 01:01:42,230] we were shipping it out of our office.
+- [01:01:42,810 - 01:01:43,450] I didn't care.
+- [01:01:43,810 - 01:01:45,450] What I wanted to know was,
+- [01:01:45,450 - 01:01:47,090] how often did they reorder it?
+- [01:01:48,050 - 01:01:51,810] And therefore, could I impute usage rates?
+- [01:01:53,070 - 01:01:54,070] But we knew that if we could get to the retail,
+- [01:01:54,070 - 01:01:55,070] we could buy the products, and we could get the products.
+- [01:01:55,110 - 01:01:56,699] But we knew that if we could get to
+- [01:01:56,699 - 01:01:58,289] the retailers, if the educators would call the retailer,
+- [01:01:58,289 - 01:02:01,609] and then the patient would go to the retailer,
+- [01:02:01,609 - 01:02:04,930] and then we'd call the retailer, we'd make more money.
+- [01:02:07,730 - 01:02:08,230] So,
+- [01:02:09,529 - 01:02:12,009] we changed the definition of our customer.
+- [01:02:15,730 - 01:02:16,610] So how'd we do that?
+- [01:02:16,970 - 01:02:18,430] Well, we got all these calls.
+- [01:02:18,430 - 01:02:19,529] We ran these ads.
+- [01:02:19,529 - 01:02:20,979] We made a mistake in one
+- [01:02:20,979 - 01:02:22,429] of the ads and said something about,
+- [01:02:22,869 - 01:02:25,110] it tastes a lot like a fudge brownie.
+- [01:02:25,110 - 01:02:26,610] And we said, well, we're going to call
+- [01:02:26,610 - 01:02:28,110] this number, and you'll get a free sample.
+- [01:02:28,110 - 01:02:30,909] And somehow that got on the list that
+- [01:02:30,909 - 01:02:33,709] said, these guys are giving away free fudge brownies.
+- [01:02:33,709 - 01:02:36,619] So we got a deluge of phone calls
+- [01:02:36,619 - 01:02:39,530] from people who were totally inappropriate to us.
+- [01:02:39,530 - 01:02:41,959] So we asked some qualifying questions, like,
+- [01:02:41,959 - 01:02:44,389] tell us the brand of insulin you're using.
+- [01:02:44,389 - 01:02:45,889] And if they said, huh?
+- [01:02:45,889 - 01:02:47,890] We said, sorry, we're not for you.
+- [01:02:47,890 - 01:02:51,310] But qualifying questions, we'd say, we got the right answer?
+- [01:02:51,310 - 01:02:52,030] We'd say, great.
+- [01:02:52,030 - 01:02:53,229] We'll send you a free sample.
+- [01:02:53,229 - 01:02:54,429] We'd send them a week's supply.
+- [01:02:55,110 - 01:02:57,110] We'd call them up.
+- [01:02:57,110 - 01:02:58,110] Did you get it?
+- [01:02:58,110 - 01:02:59,110] Because just because we sent
+- [01:02:59,110 - 01:03:00,110] it doesn't mean you got it.
+- [01:03:00,110 - 01:03:01,110] So did you get it?
+- [01:03:01,110 - 01:03:02,110] Yep.
+- [01:03:02,110 - 01:03:05,110] Okay, here's a marketing question for you.
+- [01:03:05,110 - 01:03:07,610] Who knows what the difference between an
+- [01:03:07,610 - 01:03:10,110] open-ended question and a closed-ended question is?
+- [01:03:13,110 - 01:03:14,110] Yeah?
+- [01:03:14,110 - 01:03:15,110] Great.
+- [01:03:15,110 - 01:03:16,110] Thank you.
+- [01:03:22,110 - 01:03:24,110] Closed-ended question can be answered yes or no.
+- [01:03:25,110 - 01:03:28,610] So our sales first learned very quickly
+- [01:03:28,610 - 01:03:32,110] that if they said, did you like it?
+- [01:03:32,110 - 01:03:34,110] And they said, no.
+- [01:03:34,110 - 01:03:36,110] It's like, well, where do you go from here?
+- [01:03:36,110 - 01:03:40,110] An open-ended question is, well, what did you think?
+- [01:03:40,110 - 01:03:42,110] And they'd say, well, I didn't
+- [01:03:42,110 - 01:03:44,110] really like the taste that much.
+- [01:03:44,110 - 01:03:46,110] And say, okay, what else?
+- [01:03:46,110 - 01:03:48,110] Well, it worked great.
+- [01:03:48,110 - 01:03:50,110] Okay, what else?
+- [01:03:50,110 - 01:03:52,110] I'd like to order some more.
+- [01:03:52,110 - 01:03:53,110] Right?
+- [01:03:53,110 - 01:03:54,110] Open-ended question.
+- [01:03:54,110 - 01:03:55,110] Open-ended questions.
+- [01:03:55,110 - 01:03:57,110] So we asked them.
+- [01:03:57,110 - 01:03:59,110] And we'd say, well, for a
+- [01:03:59,110 - 01:04:01,110] limited time, we'll pay for the shipping.
+- [01:04:01,110 - 01:04:03,110] I lost my shorts doing this.
+- [01:04:03,110 - 01:04:05,110] That's a technical term.
+- [01:04:05,110 - 01:04:06,110] Doing this.
+- [01:04:06,110 - 01:04:08,110] But I wanted the information.
+- [01:04:08,110 - 01:04:09,110] So would you care to reorder?
+- [01:04:09,110 - 01:04:11,110] Yes, indeed.
+- [01:04:11,110 - 01:04:14,110] And aren't you about out?
+- [01:04:14,110 - 01:04:17,610] And then one day we said,
+- [01:04:17,610 - 01:04:21,110] we're done with the free shipping.
+- [01:04:21,110 - 01:04:23,110] You can either pay the shipping, which is expensive.
+- [01:04:24,110 - 01:04:27,110] Or it might be more convenient for you
+- [01:04:27,110 - 01:04:30,110] to buy it where you buy your insulin.
+- [01:04:30,110 - 01:04:32,110] Where would that be?
+- [01:04:32,110 - 01:04:35,110] And they'd say, well, that's Janet's pharmacy.
+- [01:04:35,110 - 01:04:37,110] Well, gosh, do you mind if I call Janet?
+- [01:04:37,110 - 01:04:38,110] No.
+- [01:04:38,110 - 01:04:39,110] No.
+- [01:04:39,110 - 01:04:40,110] This is Mabel.
+- [01:04:40,110 - 01:04:42,110] Tell them Mabel's been buying from
+- [01:04:42,110 - 01:04:44,110] her for, you know, 27 years.
+- [01:04:44,110 - 01:04:45,110] And I'm coming in and
+- [01:04:45,110 - 01:04:46,110] I want to buy this product.
+- [01:04:46,110 - 01:04:47,610] And if she doesn't have it,
+- [01:04:47,610 - 01:04:49,110] by God, I'm going to be mad.
+- [01:04:49,110 - 01:04:51,110] Okay, Mabel.
+- [01:04:51,110 - 01:04:53,110] So remember the 12 seconds?
+- [01:04:54,110 - 01:04:55,110] Pharmacy.
+- [01:04:55,110 - 01:04:58,110] I'd say, we have a diabetes product that
+- [01:04:58,110 - 01:05:01,110] your patients have been asking for and you don't
+- [01:05:01,110 - 01:05:02,110] carry it.
+- [01:05:02,110 - 01:05:04,110] I'm calling to fix that.
+- [01:05:04,110 - 01:05:05,110] What?
+- [01:05:05,110 - 01:05:08,110] Who is this?
+- [01:05:08,110 - 01:05:09,110] Right.
+- [01:05:09,110 - 01:05:11,110] So permission to continue in sales parlance.
+- [01:05:11,110 - 01:05:13,110] So we'd walk them through the story.
+- [01:05:13,110 - 01:05:16,110] And they would say, well, you know, I
+- [01:05:16,110 - 01:05:19,110] can't do something like this without corporate approval.
+- [01:05:19,110 - 01:05:20,110] We're a Walgreens.
+- [01:05:20,110 - 01:05:22,110] I'd say, I know.
+- [01:05:22,110 - 01:05:23,110] I know.
+- [01:05:23,110 - 01:05:24,110] I know.
+- [01:05:24,110 - 01:05:25,110] I know.
+- [01:05:25,110 - 01:05:27,610] But I'm betting there's a number below
+- [01:05:27,610 - 01:05:30,110] which you can buy without corporate approval.
+- [01:05:30,110 - 01:05:32,110] And I'm guessing it's $100.
+- [01:05:32,110 - 01:05:34,110] Well, yeah, that's right.
+- [01:05:34,110 - 01:05:37,610] Well, you'll be pleased to know
+- [01:05:37,610 - 01:05:41,110] that our starter kit is $99.95.
+- [01:05:41,110 - 01:05:43,610] And by the way, if it doesn't sell,
+- [01:05:43,610 - 01:05:46,110] you don't have to ship it back to us.
+- [01:05:46,110 - 01:05:48,110] We'll take your word for it.
+- [01:05:48,110 - 01:05:49,110] Throw it in the trash.
+- [01:05:49,110 - 01:05:51,110] We'll send you a refund.
+- [01:05:51,110 - 01:05:53,110] No risk.
+- [01:05:53,110 - 01:05:59,110] And say, OK, I'll need a purchase order.
+- [01:05:59,110 - 01:06:01,110] And we'd ship it.
+- [01:06:01,110 - 01:06:05,110] And we'd call them up a few days later.
+- [01:06:05,110 - 01:06:07,610] But first we would call our customers
+- [01:06:07,610 - 01:06:10,110] and say, Janet's stock in the product.
+- [01:06:10,110 - 01:06:13,110] Go in there and get it.
+- [01:06:13,110 - 01:06:14,110] Then we'd call the pharmacy.
+- [01:06:14,110 - 01:06:16,610] We'd call Janet and say, Janet, I'm just
+- [01:06:16,610 - 01:06:19,110] checking to make sure you got that stuff.
+- [01:06:19,110 - 01:06:20,110] And she'd say, well, hold on.
+- [01:06:20,110 - 01:06:22,110] Let me check.
+- [01:06:22,110 - 01:06:23,110] Oh, my god.
+- [01:06:23,110 - 01:06:25,110] It's already sold out.
+- [01:06:25,110 - 01:06:28,110] So imagine that.
+- [01:06:28,110 - 01:06:32,110] Wouldn't you like a reorder?
+- [01:06:32,110 - 01:06:36,110] Well, pretty soon we ended up at corporate headquarters saying, you
+- [01:06:36,110 - 01:06:40,110] know, I got half a dozen of these pharmacies buying this stuff.
+- [01:06:40,110 - 01:06:42,110] Who are you guys?
+- [01:06:42,110 - 01:06:43,110] Right?
+- [01:06:43,110 - 01:06:47,110] Nobody ever mentioned slotting fees.
+- [01:06:47,110 - 01:06:50,110] Because what I did was buy a bunch of customers.
+- [01:06:50,110 - 01:06:54,110] And sold the customers to the retailers.
+- [01:06:54,110 - 01:06:59,110] Right?
+- [01:06:59,110 - 01:07:02,110] OK.
+- [01:07:02,110 - 01:07:04,110] Next step.
+- [01:07:04,110 - 01:07:09,110] Who knows what an SKU is?
+- [01:07:09,110 - 01:07:12,110] Stock Keeping Unit.
+- [01:07:12,110 - 01:07:15,110] So if you walk into a CVS and you
+- [01:07:15,110 - 01:07:18,110] look at all the things that are lined up.
+- [01:07:18,110 - 01:07:23,110] They have about 8,000 SKUs in the average CVS.
+- [01:07:23,110 - 01:07:27,110] They do not want 8,000 invoices.
+- [01:07:27,110 - 01:07:29,110] So they go through a
+- [01:07:29,110 - 01:07:31,110] wholesaler who buys all this stuff.
+- [01:07:31,110 - 01:07:33,110] Puts them in a big Tupperware container.
+- [01:07:33,110 - 01:07:35,110] Shows up in a big
+- [01:07:35,110 - 01:07:37,110] truck at 11 o'clock at night.
+- [01:07:37,110 - 01:07:38,110] Stocks the shelves.
+- [01:07:38,110 - 01:07:41,110] Sends them one invoice.
+- [01:07:41,110 - 01:07:43,110] That's what wholesalers do.
+- [01:07:43,110 - 01:07:46,110] And we said, you know.
+- [01:07:46,110 - 01:07:50,110] If we could get into wholesalers.
+- [01:07:50,110 - 01:07:51,110] My goodness.
+- [01:07:51,110 - 01:07:54,110] We'd make a lot of money.
+- [01:07:54,110 - 01:08:00,110] Might be time to change our customer definition again.
+- [01:08:00,110 - 01:08:04,110] So how do we do that?
+- [01:08:04,110 - 01:08:07,110] Well.
+- [01:08:07,110 - 01:08:09,110] If you think a pharmacy manager doesn't care
+- [01:08:09,110 - 01:08:11,110] that much about the health of his customers.
+- [01:08:11,110 - 01:08:15,110] Wait till you talk to a wholesaler.
+- [01:08:15,110 - 01:08:19,109] So we pulled off a bit of a stunt.
+- [01:08:19,109 - 01:08:20,609] We signed up to go to
+- [01:08:20,609 - 01:08:22,109] a trade show in New Orleans.
+- [01:08:22,109 - 01:08:25,109] That was going to be attended
+- [01:08:25,109 - 01:08:28,109] largely by consumers who had diabetes.
+- [01:08:28,109 - 01:08:32,609] And I said, find me the 25 pharmacies
+- [01:08:32,609 - 01:08:37,109] that are closest geographically to the convention center.
+- [01:08:37,109 - 01:08:39,109] And we called each of them up.
+- [01:08:39,109 - 01:08:41,109] And said, we're going to be at
+- [01:08:41,109 - 01:08:43,109] the convention center for these three days.
+- [01:08:43,109 - 01:08:45,609] We're going to be handing out samples of
+- [01:08:45,609 - 01:08:48,109] a product that's for your patients with diabetes.
+- [01:08:48,109 - 01:08:53,109] And our track record is that people like it.
+- [01:08:53,109 - 01:08:54,109] They buy it a lot.
+- [01:08:54,109 - 01:08:55,109] And they're going to want
+- [01:08:55,109 - 01:08:56,109] to come buy it from you.
+- [01:08:56,109 - 01:08:58,109] And you don't have it.
+- [01:08:58,109 - 01:08:59,109] I don't want you to be embarrassed.
+- [01:08:59,109 - 01:09:02,109] I don't want our new friends to be frustrated.
+- [01:09:02,109 - 01:09:04,109] I'd like to send you this stuff.
+- [01:09:04,109 - 01:09:08,109] And they said, okay.
+- [01:09:08,109 - 01:09:11,109] Then I called the wholesalers.
+- [01:09:11,109 - 01:09:13,109] And said, you don't know me.
+- [01:09:13,109 - 01:09:16,109] But I've just sent our product to 25
+- [01:09:16,109 - 01:09:19,109] of your pharmacies at no cost to you.
+- [01:09:19,109 - 01:09:20,609] And in fact, I'm going
+- [01:09:20,609 - 01:09:22,109] to make it better than that.
+- [01:09:22,109 - 01:09:26,109] Your margin is usually about this much per six pack.
+- [01:09:26,109 - 01:09:30,109] I'm going to send that money to you.
+- [01:09:30,109 - 01:09:34,109] What I want is to be in your system.
+- [01:09:34,109 - 01:09:37,609] So that when these 25 pharmacies decide it's time
+- [01:09:37,609 - 01:09:41,109] to reorder, I can say, McKesson's got your stuff.
+- [01:09:41,109 - 01:09:43,109] We're in McKesson's system.
+- [01:09:43,109 - 01:09:47,109] I said, well, okay.
+- [01:09:47,109 - 01:09:48,109] So I do nothing.
+- [01:09:48,109 - 01:09:49,109] You send me a check.
+- [01:09:49,109 - 01:09:51,109] And all I do is put it in the system.
+- [01:09:51,109 - 01:09:52,109] Deal.
+- [01:09:52,109 - 01:09:53,109] That's it.
+- [01:09:53,109 - 01:09:54,109] Okay.
+- [01:09:54,109 - 01:09:55,110] You're on.
+- [01:09:55,110 - 01:09:56,110] Boom.
+- [01:09:56,110 - 01:09:57,110] We're in the wholesalers.
+- [01:09:57,110 - 01:10:02,110] One more quick anecdote.
+- [01:10:02,110 - 01:10:05,110] You guys know what a planogram is?
+- [01:10:05,110 - 01:10:07,110] Normal people don't know this.
+- [01:10:07,110 - 01:10:09,610] You ever notice when you walk into a Walgreens or
+- [01:10:09,610 - 01:10:12,110] a CVS that just a little bit of a line of
+- [01:10:12,110 - 01:10:13,110] fabric is looking?
+- [01:10:13,110 - 01:10:26,610] Well, these�imos, regardless of the surface
+- [01:10:26,610 - 01:10:40,110] fabric, are filled with, of course, themsleG
+- [01:10:40,110 - 01:10:44,200] planograms, it's like a whole block. It's a big deal.
+- [01:10:44,200 - 01:10:48,290] One day we got a letter with like a stamp
+- [01:10:48,290 - 01:10:52,560] on it from a major retail chain headquartered in
+- [01:10:52,560 - 01:10:56,830] Florida. And they said, if you want to be
+- [01:10:56,830 - 01:11:01,070] in our planogram for the coming year, come to
+- [01:11:01,070 - 01:11:05,310] this meeting in Clearwater on either of these two dates
+- [01:11:05,310 - 01:11:09,660] for a 15-minute meeting. So I called
+- [01:11:09,660 - 01:11:14,010] around. I said, what's up with this?
+- [01:11:16,990 - 01:11:19,840] And they said, well, the guy you're going to
+- [01:11:19,840 - 01:11:22,690] meet with has a job that you don't ever want.
+- [01:11:23,310 - 01:11:26,760] He's got to sit there for an entire
+- [01:11:26,760 - 01:11:30,210] week listening to one 15-minute presentation after another from
+- [01:11:30,210 - 01:11:32,540] people who are practically foaming at
+- [01:11:32,540 - 01:11:34,870] the mouth to get on his shelves.
+- [01:11:36,110 - 01:11:40,019] I said, oh, God, how is he evaluated? Well,
+- [01:11:40,019 - 01:11:43,929] he's evaluated on how much slotting fees he can extort
+- [01:11:43,929 - 01:11:46,389] from each of these vendors that are coming in. How
+- [01:11:46,389 - 01:11:48,850] much will you pay me to be on these shelves?
+- [01:11:50,550 - 01:11:52,489] But, well, this isn't actually a decision
+- [01:11:52,489 - 01:11:54,429] for us because we don't have any money.
+- [01:11:55,570 - 01:11:59,760] But I'm feeling pugnacious. Let's go to the
+- [01:11:59,760 - 01:12:03,950] meeting. Well, the lobby looked like Cirque du Soleil.
+- [01:12:03,990 - 01:12:04,790] I mean,
+- [01:12:05,310 - 01:12:07,950] people in there with these mocked up end caps
+- [01:12:07,950 - 01:12:10,590] and people coming in saying, I'll pick up your dry
+- [01:12:10,590 - 01:12:12,640] cleaning for the rest of your life. I
+- [01:12:12,640 - 01:12:14,690] mean, whatever it takes, right? And we're just sitting
+- [01:12:14,690 - 01:12:19,610] there, the two of us. We had a briefcase.
+- [01:12:19,610 - 01:12:24,530] So when our time came, we sat down opposite Jeff.
+- [01:12:25,870 - 01:12:28,290] And we said, Jeff, this isn't going to be
+- [01:12:28,290 - 01:12:30,710] like any other 15-minute meeting you have this week
+- [01:12:30,710 - 01:12:32,150] because we don't have any money and
+- [01:12:32,150 - 01:12:33,590] we're not going to give you a dime.
+- [01:12:35,310 - 01:12:37,930] But we're going to take five minutes and tell you
+- [01:12:37,930 - 01:12:40,550] who we are, five minutes and tell you why the
+- [01:12:40,550 - 01:12:44,850] product is really good, and five minutes telling you
+- [01:12:44,850 - 01:12:49,150] why you want us anyway. And Jeff said, well,
+- [01:12:50,950 - 01:12:55,340] it's been kind of a hard week.
+- [01:12:55,340 - 01:12:59,730] It's your 15-minute sport. Knock yourself out.
+- [01:13:02,590 - 01:13:05,150] Literally. So, you know,
+- [01:13:05,310 - 01:13:08,170] the first five minutes and the second five minutes,
+- [01:13:08,170 - 01:13:11,030] we did all this stuff about how smart and
+- [01:13:11,030 - 01:13:14,240] fabulous we are and how wonderful and fabulous
+- [01:13:14,240 - 01:13:17,450] our product was. And for the last five minutes,
+- [01:13:17,450 - 01:13:20,850] we opened the briefcase and we started pulling
+- [01:13:20,850 - 01:13:24,250] out printouts. We said, these are the customers
+- [01:13:24,250 - 01:13:29,030] that we've been selling our product to in
+- [01:13:29,030 - 01:13:33,810] the states where you have pharmacies. There's 10,000
+- [01:13:33,810 - 01:13:34,150] of them.
+- [01:13:35,310 - 01:13:39,560] 10,000 customers with diabetes. And we're tired of being
+- [01:13:39,560 - 01:13:43,810] in the shipping business, so we're getting out of it.
+- [01:13:45,490 - 01:13:49,650] And all of these customers have one question. Which
+- [01:13:49,650 - 01:13:53,810] pharmacy can I go to to buy your product?
+- [01:13:54,870 - 01:13:56,960] So, Jeff, how would you
+- [01:13:56,960 - 01:13:59,050] like us to answer their question?
+- [01:14:05,310 - 01:14:08,830] Now, you know, it takes a lot of self-discipline
+- [01:14:08,830 - 01:14:12,350] to not say anything after you do something like that.
+- [01:14:12,990 - 01:14:15,590] There's kind of a rule of thumb in
+- [01:14:15,590 - 01:14:18,190] negotiating that the next person who speaks loses.
+- [01:14:19,650 - 01:14:24,470] So we pulled out the duct tape for a minute. And
+- [01:14:24,470 - 01:14:29,290] if you don't think that's a long time, hold your breath.
+- [01:14:31,390 - 01:14:32,620] The end of the minute,
+- [01:14:32,620 - 01:14:33,850] he said, all right, you're in.
+- [01:14:35,310 - 01:14:37,890] Big dinner for us that night.
+- [01:14:39,270 - 01:14:45,370] So what we had, customers.
+- [01:14:48,370 - 01:14:51,990] Okay, so we had an impressive growth in sales.
+- [01:14:53,450 - 01:14:56,230] Monsanto at one point, when they were in
+- [01:14:56,230 - 01:14:59,010] the food business and not in the pesticide business,
+- [01:14:59,429 - 01:15:02,059] did an exhaustive survey and
+- [01:15:02,059 - 01:15:04,690] found that our reuse rate was,
+- [01:15:05,310 - 01:15:08,310] slightly over 300 occasions per year.
+- [01:15:09,150 - 01:15:12,030] Most consumer products companies, people who make cereals, they
+- [01:15:12,030 - 01:15:14,910] will swoon if you use their stuff once a week.
+- [01:15:15,530 - 01:15:18,230] So these reorder numbers were like astonishing.
+- [01:15:20,210 - 01:15:21,530] We got a lot of publicity.
+- [01:15:22,450 - 01:15:25,530] We ended up selling the company to a
+- [01:15:25,530 - 01:15:28,610] billion dollar pharmaceutical firm in Costa Mesa, California.
+- [01:15:30,910 - 01:15:31,830] Could have been worse.
+- [01:15:33,110 - 01:15:33,610] So,
+- [01:15:35,310 - 01:15:38,310] some of these experiences were painful.
+- [01:15:38,310 - 01:15:40,310] I've learned some lessons.
+- [01:15:40,310 - 01:15:42,920] I'm sure there's some things, like Joe said,
+- [01:15:42,920 - 01:15:45,530] sometimes the problems come dressed in different clothes.
+- [01:15:45,530 - 01:15:48,530] You don't always recognize them when you see them again.
+- [01:15:48,530 - 01:15:50,530] Help me out here, because
+- [01:15:50,530 - 01:15:52,530] I am still in the game.
+- [01:15:52,530 - 01:15:55,700] What should I have learned from these
+- [01:15:55,700 - 01:15:58,870] experiences to help me build my next business?
+- [01:16:03,330 - 01:16:04,710] We need a microphone.
+- [01:16:04,710 - 01:16:06,710] Mumbling won't do at this point.
+- [01:16:06,710 - 01:16:08,710] Talk to your customers.
+- [01:16:08,710 - 01:16:10,710] Talk to your customers.
+- [01:16:10,710 - 01:16:12,710] Oh, that's a good one.
+- [01:16:12,710 - 01:16:14,710] Okay.
+- [01:16:20,710 - 01:16:22,710] Oh, yeah.
+- [01:16:22,710 - 01:16:24,210] As your business evolves, your
+- [01:16:24,210 - 01:16:25,710] customer definition may need to evolve.
+- [01:16:25,710 - 01:16:26,710] That's a good one.
+- [01:16:26,710 - 01:16:27,710] Thank you.
+- [01:16:29,710 - 01:16:30,710] I was wondering when you
+- [01:16:30,710 - 01:16:31,710] guys were going to wake up.
+- [01:16:31,710 - 01:16:33,710] I saw you getting a little glassy-eyed up there.
+- [01:16:34,710 - 01:16:36,710] Avoid slotting fees at all times.
+- [01:16:36,710 - 01:16:38,710] Avoid who at all times?
+- [01:16:38,710 - 01:16:40,710] Slotting fees at all times.
+- [01:16:40,710 - 01:16:42,710] Yes.
+- [01:16:42,710 - 01:16:45,710] Slotting fees are less ubiquitous than they
+- [01:16:45,710 - 01:16:48,710] were because Amazon has kind of come along.
+- [01:16:48,710 - 01:16:50,210] And you can say, by the
+- [01:16:50,210 - 01:16:51,710] way, getting into Amazon is not easy.
+- [01:16:51,710 - 01:16:54,210] I mean, for all that they're wonderful
+- [01:16:54,210 - 01:16:56,710] to buy from, they're terrible to sell to.
+- [01:16:56,710 - 01:16:59,710] They classified one nutrition product that I launched
+- [01:16:59,710 - 01:17:02,710] as a hazardous material and started sending it.
+- [01:17:02,710 - 01:17:04,710] Anyway, different story.
+- [01:17:04,710 - 01:17:06,710] But incredibly messed up.
+- [01:17:06,710 - 01:17:07,710] All right.
+- [01:17:07,710 - 01:17:08,710] What else?
+- [01:17:22,710 - 01:17:24,710] Let me rephrase that.
+- [01:17:24,710 - 01:17:28,710] In the early days, it might be worthwhile reinvesting
+- [01:17:28,710 - 01:17:32,710] some of your earnings into additional market and customer knowledge.
+- [01:17:32,710 - 01:17:33,710] Fair enough?
+- [01:17:33,710 - 01:17:34,710] Okay.
+- [01:17:34,710 - 01:17:35,710] Yes, sir?
+- [01:17:45,710 - 01:17:46,710] Yeah.
+- [01:17:46,710 - 01:17:49,710] Distribution affects your ability to grow a company.
+- [01:17:49,710 - 01:17:54,710] It's rarely thought about in the early days.
+- [01:17:54,710 - 01:17:55,710] Okay.
+- [01:17:55,710 - 01:17:57,710] Let me offer a couple.
+- [01:17:57,710 - 01:17:59,710] Figure out what they're really buying.
+- [01:17:59,710 - 01:18:02,710] So think about that a little bit.
+- [01:18:02,710 - 01:18:08,210] If you think your AI enhanced whatever it is you're working on
+- [01:18:08,210 - 01:18:13,710] is for everyone, I'm here to tell you, no, it's for no one.
+- [01:18:13,710 - 01:18:15,710] You have to have positioning.
+- [01:18:15,710 - 01:18:17,710] You have to be specific.
+- [01:18:17,710 - 01:18:20,710] People make jokes about you can't sell air.
+- [01:18:20,710 - 01:18:22,710] Well, yeah, you can.
+- [01:18:22,710 - 01:18:26,710] If there's scuba divers out there, they'll pay for air.
+- [01:18:26,710 - 01:18:27,710] Do you own a car?
+- [01:18:27,710 - 01:18:29,710] Does it have tires?
+- [01:18:29,710 - 01:18:32,710] Do you have to go throw quarters in that machine?
+- [01:18:32,710 - 01:18:34,710] You've just bought air.
+- [01:18:34,710 - 01:18:35,710] Right?
+- [01:18:35,710 - 01:18:36,710] Positioning.
+- [01:18:36,710 - 01:18:40,710] Everything.
+- [01:18:40,710 - 01:18:43,710] Nobody needs your product or service.
+- [01:18:43,710 - 01:18:46,710] Please don't burst into tears.
+- [01:18:46,710 - 01:18:49,710] I don't actually need these glasses.
+- [01:18:49,710 - 01:18:52,710] What I need is to see better.
+- [01:18:52,710 - 01:18:53,710] Right?
+- [01:18:53,710 - 01:18:55,710] So I hired glasses.
+- [01:18:55,710 - 01:18:57,710] Some of you hired contact lenses.
+- [01:18:57,710 - 01:19:00,210] And I bet some of you know somebody who
+- [01:19:00,210 - 01:19:02,710] hired the LASIK surgeon to do that little deal.
+- [01:19:02,710 - 01:19:03,710] Right?
+- [01:19:03,710 - 01:19:05,210] All of us want the same
+- [01:19:05,210 - 01:19:06,710] thing, which is to see better.
+- [01:19:06,710 - 01:19:09,710] But we don't specifically want the product.
+- [01:19:09,710 - 01:19:12,710] And nobody specifically wants your product.
+- [01:19:12,710 - 01:19:17,710] They want the benefits.
+- [01:19:17,710 - 01:19:22,710] What's market segmentation?
+- [01:19:22,710 - 01:19:24,710] I heard you.
+- [01:19:24,710 - 01:19:25,710] Do you have an answer?
+- [01:19:25,710 - 01:19:26,709] No?
+- [01:19:26,709 - 01:19:28,709] Okay.
+- [01:19:28,709 - 01:19:32,709] It's customary in the consumer world, and
+- [01:19:32,709 - 01:19:36,709] less common but still everywhere else, to say,
+- [01:19:36,709 - 01:19:39,209] well, if we're not going to chase
+- [01:19:39,209 - 01:19:41,709] everybody, let's divide the market up into segments.
+- [01:19:41,709 - 01:19:44,709] What do you think are the usual segments?
+- [01:19:51,709 - 01:19:54,709] Close caption for the hearing impaired.
+- [01:19:56,709 - 01:20:13,709] And the most common is the
+- [01:20:13,709 - 01:20:14,709] And thank you.
+- [01:20:14,709 - 01:20:15,710] And?
+- [01:20:15,710 - 01:20:18,710] Earlier offers, later offers, which show people
+- [01:20:18,710 - 01:20:21,710] who know what's the growth in the marketing,
+- [01:20:21,710 - 01:20:22,710] that is .
+- [01:20:22,710 - 01:20:23,210] And there's earlier offers who want
+- [01:20:23,210 - 01:20:23,710] to test the production as possible.
+- [01:20:23,710 - 01:20:24,710] And then there's the long-term.
+- [01:20:24,710 - 01:20:25,710] And then there's the long-term.
+- [01:20:25,710 - 01:20:29,710] Well, sometimes people segment by geography.
+- [01:20:29,710 - 01:20:31,710] That's right.
+- [01:20:31,710 - 01:20:36,710] I sell surfboards for people who ride really big waves.
+- [01:20:36,710 - 01:20:39,710] And the really big waves are in Portugal.
+- [01:20:39,710 - 01:20:41,710] Right?
+- [01:20:41,710 - 01:20:42,710] For example.
+- [01:20:42,710 - 01:20:47,710] Most common ways of segmenting a market are by income.
+- [01:20:47,710 - 01:20:50,710] And frequently by gender.
+- [01:20:50,710 - 01:20:52,710] And so it's not uncommon at
+- [01:20:52,710 - 01:20:54,710] all to say, we want winning.
+- [01:20:54,710 - 01:20:58,210] We want women shoppers in households that
+- [01:20:58,210 - 01:21:01,710] earn between 60 and 90,000 a year.
+- [01:21:01,710 - 01:21:04,710] Because they think that's a target-rich environment.
+- [01:21:04,710 - 01:21:11,710] I will argue that for you, as entrepreneurs, that's wrong.
+- [01:21:11,710 - 01:21:14,710] This is not the oracle speaking, but it's my opinion.
+- [01:21:14,710 - 01:21:18,710] That really what you need to do is segment by
+- [01:21:18,710 - 01:21:22,710] who is most motivated to spend money on your product.
+- [01:21:22,710 - 01:21:26,210] Let's say you and I have invented something
+- [01:21:26,210 - 01:21:29,710] that helps people not have their second heart attack.
+- [01:21:29,710 - 01:21:33,210] So if you had your first heart attack, and you
+- [01:21:33,210 - 01:21:36,710] lived through it, because if you didn't, you're not our customer.
+- [01:21:36,710 - 01:21:38,710] You're feeling the pain right now.
+- [01:21:38,710 - 01:21:40,710] You say, I don't ever want to do that again.
+- [01:21:40,710 - 01:21:42,710] Right?
+- [01:21:42,710 - 01:21:46,710] You're at the top of the motivation pile.
+- [01:21:46,710 - 01:21:48,710] If I'm your brother, I
+- [01:21:48,710 - 01:21:50,710] end up thinking, geez, you know,
+- [01:21:50,710 - 01:21:52,710] I kind of have the same DNA.
+- [01:21:52,710 - 01:21:54,710] I should be paying attention to this.
+- [01:21:54,710 - 01:21:56,710] Maybe I should look at this.
+- [01:21:56,710 - 01:21:59,710] Might be people down the street saying, you know,
+- [01:21:59,710 - 01:22:02,710] we all sort of eat in the same place,
+- [01:22:02,710 - 01:22:04,710] and we're part of the same
+- [01:22:04,710 - 01:22:06,710] pickleball club, or whatever it is.
+- [01:22:06,710 - 01:22:08,710] We'll pay attention.
+- [01:22:08,710 - 01:22:12,710] Many marketers are seduced by this big block down here,
+- [01:22:12,710 - 01:22:14,710] because they say it's just dumb not
+- [01:22:14,710 - 01:22:16,710] to go where all the business is.
+- [01:22:16,710 - 01:22:20,710] My reaction is, uh-uh, that's a graveyard.
+- [01:22:20,710 - 01:22:22,710] Because for our product,
+- [01:22:22,710 - 01:22:26,710] those are college kids who don't have the
+- [01:22:26,710 - 01:22:30,710] slightest concern about having their second heart attack.
+- [01:22:30,710 - 01:22:32,710] So forget it.
+- [01:22:32,710 - 01:22:36,710] As a startup with limited resources, you can't go there.
+- [01:22:36,710 - 01:22:40,710] You need to really focus and start there.
+- [01:22:40,710 - 01:22:43,710] And if there's one slide from tonight
+- [01:22:43,710 - 01:22:46,710] that I hope you will remember, that's it.
+- [01:22:46,710 - 01:22:50,710] Divide your market up by who wants it.
+- [01:22:50,710 - 01:22:54,710] And go after the ones who want it the most.
+- [01:22:54,710 - 01:22:56,710] If you want to change people's buying habits,
+- [01:22:56,710 - 01:22:58,710] it takes a lot of motivation.
+- [01:22:58,710 - 01:23:00,710] Right?
+- [01:23:00,710 - 01:23:02,710] Pain is pretty motivating.
+- [01:23:02,710 - 01:23:04,710] Greed, fear, vanity.
+- [01:23:04,710 - 01:23:06,710] But if you're selling virtue,
+- [01:23:06,710 - 01:23:08,710] that's a tough sell.
+- [01:23:08,710 - 01:23:10,710] And when I was selling Regain,
+- [01:23:10,710 - 01:23:12,710] the patients didn't feel any better.
+- [01:23:12,710 - 01:23:14,710] But when I was selling Regain,
+- [01:23:14,710 - 01:23:16,710] the patients didn't feel any better.
+- [01:23:16,710 - 01:23:18,710] They were like,
+- [01:23:18,710 - 01:23:20,710] it just didn't feel any better.
+- [01:23:20,710 - 01:23:22,710] What would happen was every six months,
+- [01:23:22,710 - 01:23:24,710] the doc would say, nice going.
+- [01:23:24,710 - 01:23:26,710] Your blood chemistries are improved.
+- [01:23:26,710 - 01:23:28,710] Right?
+- [01:23:28,710 - 01:23:30,710] When I was selling
+- [01:23:30,710 - 01:23:32,710] Night Bite,
+- [01:23:32,710 - 01:23:36,710] people would call me in the morning and say,
+- [01:23:36,710 - 01:23:38,710] I think it worked.
+- [01:23:38,710 - 01:23:40,710] I said, did you wake up dead?
+- [01:23:40,710 - 01:23:42,710] No. It worked.
+- [01:23:42,710 - 01:23:44,710] So there was feedback.
+- [01:23:44,710 - 01:23:46,710] It changed the way they felt.
+- [01:23:46,710 - 01:23:48,710] Sorry, I'm being a little facetious.
+- [01:23:48,710 - 01:23:50,710] But the point is,
+- [01:23:50,710 - 01:23:52,710] figure out who wants your offering.
+- [01:23:52,710 - 01:23:54,710] Not everybody.
+- [01:23:54,710 - 01:23:56,710] Who wants it?
+- [01:23:56,710 - 01:23:58,710] Find them. Tell them about it.
+- [01:23:58,710 - 01:24:00,710] Take their order.
+- [01:24:02,710 - 01:24:04,710] I love marketing.
+- [01:24:04,710 - 01:24:06,710] I have huge respect for marketers.
+- [01:24:06,710 - 01:24:08,710] There's all kinds of mechanics,
+- [01:24:08,710 - 01:24:10,710] multivariate factor analysis,
+- [01:24:10,710 - 01:24:12,710] etc. that go into marketing.
+- [01:24:12,710 - 01:24:14,710] I'm going to save you
+- [01:24:14,710 - 01:24:16,710] two years of graduate school
+- [01:24:16,710 - 01:24:18,710] and two bullet points for marketing.
+- [01:24:18,710 - 01:24:20,710] Find out what your customers want.
+- [01:24:20,710 - 01:24:22,710] Find out what your customers want.
+- [01:24:30,710 - 01:24:32,710] Obviously, there are a lot of
+- [01:24:32,710 - 01:24:34,710] sophisticated mechanics associated with doing that.
+- [01:24:34,710 - 01:24:36,710] But if you dig into the mechanics
+- [01:24:36,710 - 01:24:38,710] and overlook these,
+- [01:24:38,710 - 01:24:40,710] I fear for you.
+- [01:24:40,710 - 01:24:42,710] Okay.
+- [01:24:42,710 - 01:24:44,710] So in fact,
+- [01:24:44,710 - 01:24:46,710] what we're trying to do
+- [01:24:46,710 - 01:24:48,710] is find our customers.
+- [01:24:48,710 - 01:24:50,710] We're not putting ads on the sides of buses
+- [01:24:50,710 - 01:24:52,710] for everybody,
+- [01:24:52,710 - 01:24:54,710] because we're entrepreneurs.
+- [01:24:54,710 - 01:24:56,710] And the words startup and undercapitalized
+- [01:24:56,710 - 01:24:58,710] are synonymous.
+- [01:24:58,710 - 01:25:00,710] So use your money wisely
+- [01:25:00,710 - 01:25:02,710] at the top of that pyramid.
+- [01:25:10,710 - 01:25:12,710] I'm going to tell you one real quick story.
+- [01:25:12,710 - 01:25:14,710] A couple of us invented a product,
+- [01:25:14,710 - 01:25:16,710] a two and a half ounce truck.
+- [01:25:16,710 - 01:25:18,710] It's a nice drink.
+- [01:25:18,710 - 01:25:20,710] Helps you sleep at night.
+- [01:25:20,710 - 01:25:22,710] And we said, well,
+- [01:25:22,710 - 01:25:24,710] we have to put packaging around it.
+- [01:25:24,710 - 01:25:26,710] Who's this for?
+- [01:25:26,710 - 01:25:28,710] And we did,
+- [01:25:28,710 - 01:25:30,710] this was stupid,
+- [01:25:30,710 - 01:25:32,710] we should not have done it.
+- [01:25:32,710 - 01:25:34,710] But we did a top down analysis
+- [01:25:34,710 - 01:25:36,710] and we said our market is working moms.
+- [01:25:36,710 - 01:25:38,710] Because they're overworked,
+- [01:25:38,710 - 01:25:40,710] they're overscheduled,
+- [01:25:40,710 - 01:25:42,710] they're overcaffeinated,
+- [01:25:42,710 - 01:25:44,710] and they're fussy shoppers.
+- [01:25:44,710 - 01:25:46,710] So we invented a list of 100,000 moms
+- [01:25:46,710 - 01:25:48,710] who met these criteria,
+- [01:25:48,710 - 01:25:50,710] shopped at Whole Foods,
+- [01:25:50,710 - 01:25:52,710] all that stuff,
+- [01:25:52,710 - 01:25:54,710] and gave permission to get this kind of mailing.
+- [01:25:54,710 - 01:25:56,710] And we heard crickets.
+- [01:25:56,710 - 01:25:58,710] It was like nobody replied.
+- [01:26:02,710 - 01:26:04,710] After a while,
+- [01:26:04,710 - 01:26:06,710] there were a few who replied,
+- [01:26:06,710 - 01:26:08,710] and they ordered,
+- [01:26:08,710 - 01:26:10,710] and they reordered,
+- [01:26:10,710 - 01:26:12,710] and they reordered.
+- [01:26:12,710 - 01:26:14,710] And because we were shipping it out of our office,
+- [01:26:14,710 - 01:26:16,710] we had to come up.
+- [01:26:16,710 - 01:26:18,710] Hello, I'm Bob.
+- [01:26:18,710 - 01:26:20,710] I'm the CEO of this organization
+- [01:26:20,710 - 01:26:22,710] that you've been buying product from.
+- [01:26:22,710 - 01:26:24,710] I love you.
+- [01:26:24,710 - 01:26:26,710] Why are you buying our stuff?
+- [01:26:26,710 - 01:26:28,710] And the answer,
+- [01:26:28,710 - 01:26:30,710] in every case,
+- [01:26:30,710 - 01:26:32,710] was I run marathons.
+- [01:26:32,710 - 01:26:34,710] And I can't train hard
+- [01:26:34,710 - 01:26:36,710] if I can't recover.
+- [01:26:36,710 - 01:26:38,710] And better sleep
+- [01:26:38,710 - 01:26:40,710] helps me recover.
+- [01:26:40,710 - 01:26:42,710] Translation,
+- [01:26:42,710 - 01:26:44,710] I do a better job running my marathons
+- [01:26:44,710 - 01:26:46,710] when I buy your product.
+- [01:26:46,710 - 01:26:50,710] I thought I was selling sensitivity
+- [01:26:50,710 - 01:26:52,710] and products made with love
+- [01:26:52,710 - 01:26:54,710] and all this.
+- [01:26:54,710 - 01:26:56,710] I'm selling to warriors.
+- [01:26:56,710 - 01:26:58,710] Totally wrong.
+- [01:26:58,710 - 01:27:00,710] I would have died of old age
+- [01:27:00,710 - 01:27:02,710] before I smoked that out
+- [01:27:02,710 - 01:27:04,710] from a series of Google ads.
+- [01:27:04,710 - 01:27:06,710] Talk to them.
+- [01:27:10,710 - 01:27:12,710] That's self-evident.
+- [01:27:12,710 - 01:27:14,710] We've already done that.
+- [01:27:14,710 - 01:27:16,710] We've already covered that.
+- [01:27:16,710 - 01:27:18,710] Oh,
+- [01:27:18,710 - 01:27:20,710] you poor things,
+- [01:27:20,710 - 01:27:22,710] you're going to see me again next Tuesday night.
+- [01:27:22,710 - 01:27:24,710] Then we're going to talk about
+- [01:27:24,710 - 01:27:26,710] how you pitch your business.
+- [01:27:26,710 - 01:27:28,710] And
+- [01:27:28,710 - 01:27:30,710] I'm going to invite
+- [01:27:32,710 - 01:27:34,710] some brave volunteers
+- [01:27:34,710 - 01:27:36,710] to come up here
+- [01:27:36,710 - 01:27:38,710] with mics and pitch to you.
+- [01:27:40,710 - 01:27:42,710] And
+- [01:27:42,710 - 01:27:44,710] I submit a little piece of homework.
+- [01:27:44,710 - 01:27:46,710] Those of you who are prepared
+- [01:27:46,710 - 01:27:48,710] will do better at this
+- [01:27:48,710 - 01:27:50,710] than those of you who are not.
+- [01:27:50,710 - 01:27:52,710] Work on
+- [01:27:52,710 - 01:27:54,710] how you're going to pitch your idea
+- [01:27:54,710 - 01:27:56,710] in three minutes.
+- [01:27:56,710 - 01:27:58,710] We'll give you three minutes.
+- [01:27:58,710 - 01:28:00,710] Our TAs have agreed
+- [01:28:00,710 - 01:28:02,710] that they will time you.
+- [01:28:02,710 - 01:28:04,710] Bang on a garbage can lid
+- [01:28:04,710 - 01:28:06,710] when your time's up
+- [01:28:06,710 - 01:28:08,710] so you can't talk over them.
+- [01:28:08,710 - 01:28:10,710] The audience will give you feedback.
+- [01:28:10,710 - 01:28:12,710] It's an awesome opportunity
+- [01:28:12,710 - 01:28:14,710] to get feedback in an arena that's safe.
+- [01:28:14,710 - 01:28:16,710] Then I'm going to ask you
+- [01:28:16,710 - 01:28:18,710] if you can do it in 30 seconds.
+- [01:28:18,710 - 01:28:20,710] Way harder.
+- [01:28:20,710 - 01:28:22,710] And I'm on a tear now
+- [01:28:22,710 - 01:28:24,710] with some of the people I'm working with.
+- [01:28:24,710 - 01:28:26,710] Three sentences, 10 seconds.
+- [01:28:28,710 - 01:28:30,710] It's like boiling the ocean.
+- [01:28:30,710 - 01:28:32,710] If you can do that,
+- [01:28:32,710 - 01:28:34,710] what was the line from
+- [01:28:34,710 - 01:28:36,710] Karate Kid,
+- [01:28:36,710 - 01:28:38,710] man who catch fly with chopsticks can do anything.
+- [01:28:38,710 - 01:28:40,710] Right? If you can do this in
+- [01:28:40,710 - 01:28:42,710] 10 seconds, 3 sentences, you can do anything.
+- [01:28:44,710 - 01:28:46,710] If you can do this in 10 seconds,
+- [01:28:46,710 - 01:28:48,710] you can do anything.
+- [01:28:48,710 - 01:28:50,710] Thank you.
+- [01:28:50,710 - 01:28:52,710] That's all.
+- [01:28:52,710 - 01:28:54,710] Thank you.
+- [01:28:54,710 - 01:28:55,168] Thank you.
