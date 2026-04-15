@@ -1,0 +1,215 @@
+# Transcript
+
+Source: lazyearn/school-of-hard-knocks/hard-knocks-interviews/135 - Asking Texan’s Their Best Life Advice (DALLAS!) [8M5QEOicQKQ].mkv
+
+- [00:00:00,000 - 00:00:01,880] What's going on everyone? Welcome back to another
+- [00:00:01,880 - 00:00:03,760] video. I'm James with the School of Hard Knocks.
+- [00:00:04,000 - 00:00:06,140] We're out here in downtown Dallas, Texas, and this is
+- [00:00:06,140 - 00:00:08,280] going to be a part two to our last video
+- [00:00:08,280 - 00:00:10,770] of where we're asking millionaires in downtown
+- [00:00:10,770 - 00:00:13,260] Dallas the best financial decision that they've
+- [00:00:13,260 - 00:00:15,490] ever made. Stay tuned. A lot of amazing content
+- [00:00:15,490 - 00:00:17,720] on the way. Let's go talk to some people.
+- [00:00:17,840 - 00:00:19,660] What industry did you guys pursue a career in?
+- [00:00:19,820 - 00:00:22,240] Well, I got my first degree in psychology, and
+- [00:00:22,240 - 00:00:24,660] after I graduated, I realized I can't do much
+- [00:00:24,660 - 00:00:26,850] with it. I went back and got my
+- [00:00:26,850 - 00:00:29,040] master in management, and I got my information system
+- [00:00:29,040 - 00:00:31,419] degree, but now I'm an owner of four companies.
+- [00:00:31,720 - 00:00:33,310] As an entrepreneur, what is your best piece
+- [00:00:33,310 - 00:00:34,900] of advice to someone wanting to start a business
+- [00:00:34,900 - 00:00:35,560] in 2022?
+- [00:00:35,940 - 00:00:37,850] I mean, hard work pays off. If you want to
+- [00:00:37,850 - 00:00:39,760] be a business owner, you've got to put in the time.
+- [00:00:39,860 - 00:00:41,730] A lot of people think, hey, I want to be
+- [00:00:41,730 - 00:00:43,600] a business owner and work nine to five. It doesn't
+- [00:00:43,600 - 00:00:45,110] work that way. What you put in
+- [00:00:45,110 - 00:00:46,620] it is what you'll get out of it.
+- [00:00:46,780 - 00:00:48,370] What has been the best financial decision that
+- [00:00:48,370 - 00:00:49,960] you guys have ever made throughout your lifetime?
+- [00:00:50,140 - 00:00:52,009] Pay off all my credit card. I never
+- [00:00:52,009 - 00:00:53,879] wrecked up credit card debts again. Now I
+- [00:00:53,879 - 00:00:54,919] charge and I pay it
+- [00:00:54,919 - 00:00:55,960] by the end of the week.
+- [00:00:55,960 - 00:00:58,960] Unless you can pay with cash, don't go buy anything.
+- [00:00:59,040 - 00:01:01,140] Anything extravagant and go in debt.
+- [00:01:01,280 - 00:01:02,080] What industry are you in?
+- [00:01:02,260 - 00:01:04,379] Well, I'm in IT, technology.
+- [00:01:04,879 - 00:01:06,239] And what advice would you
+- [00:01:06,239 - 00:01:07,600] give someone pursuing the technology industry?
+- [00:01:07,980 - 00:01:10,400] It's not easy. It's easier for
+- [00:01:10,400 - 00:01:12,820] you now because everything's available online,
+- [00:01:12,940 - 00:01:15,310] but at the time for me, it wasn't. Stick
+- [00:01:15,310 - 00:01:17,680] with what you like to do, not necessarily what you
+- [00:01:17,680 - 00:01:19,730] think you should do. You have to love
+- [00:01:19,730 - 00:01:21,780] it so that you wake up in the morning,
+- [00:01:21,880 - 00:01:23,259] doesn't feel like you're going to work.
+- [00:01:23,259 - 00:01:25,299] From what you guys have seen throughout your
+- [00:01:25,299 - 00:01:27,340] career, whether it's a certain skill set or
+- [00:01:27,340 - 00:01:28,980] attribute for someone to possess when going out.
+- [00:01:29,040 - 00:01:32,190] Social skills. Oh my goodness. I hire a
+- [00:01:32,190 - 00:01:35,340] lot of people now. No social skills. Technology
+- [00:01:35,340 - 00:01:36,340] is not a social skill.
+- [00:01:36,340 - 00:01:37,840] What has been the best financial decision
+- [00:01:37,840 - 00:01:39,340] that you've ever made throughout your lifetime?
+- [00:01:39,340 - 00:01:41,340] Purchasing my house. Get your money back. Don't rent.
+- [00:01:41,340 - 00:01:42,840] How much is it appreciated since you bought it?
+- [00:01:42,840 - 00:01:43,840] About $200,000.
+- [00:01:43,840 - 00:01:45,640] In what industry did you decide to pursue a career?
+- [00:01:45,640 - 00:01:46,640] I'm a middle school counselor.
+- [00:01:46,640 - 00:01:48,340] What's been the most rewarding thing about that?
+- [00:01:48,340 - 00:01:49,990] I think seeing my students grow over the
+- [00:01:49,990 - 00:01:51,640] years. Like saying like, you know, eighth grade
+- [00:01:51,640 - 00:01:53,690] into like adults and being like, holy
+- [00:01:53,690 - 00:01:55,740] shit, like you, it's different. Brand new.
+- [00:01:55,740 - 00:01:57,010] What is your best piece of advice to
+- [00:01:57,010 - 00:01:58,280] someone starting out in the real world today?
+- [00:01:58,280 - 00:01:58,880] Don't make a mistake.
+- [00:01:58,880 - 00:02:00,380] Don't take risks. I think we all so comfortable
+- [00:02:00,380 - 00:02:01,880] and not taking a risk, but I think don't be
+- [00:02:01,880 - 00:02:02,880] afraid to take a risk.
+- [00:02:02,880 - 00:02:04,350] If you were to start from zero and you
+- [00:02:04,350 - 00:02:05,820] had one year to make a million dollars and your
+- [00:02:05,820 - 00:02:06,820] life depended on it, what would you do?
+- [00:02:06,820 - 00:02:08,850] At that point I'd probably be bank robbing, you
+- [00:02:08,850 - 00:02:10,880] know? I don't really know how to get a
+- [00:02:10,880 - 00:02:12,680] million, you know? So not that great at it.
+- [00:02:12,680 - 00:02:13,879] What is your best financial advice
+- [00:02:13,879 - 00:02:15,079] to younger people in college right now?
+- [00:02:15,079 - 00:02:16,819] Don't take loans and don't open credit
+- [00:02:16,819 - 00:02:18,560] cards. Yeah. That's, that's about it. You know?
+- [00:02:18,560 - 00:02:19,720] What industry did you pursue a
+- [00:02:19,720 - 00:02:20,880] career in other than being Spider-Man?
+- [00:02:20,880 - 00:02:23,380] Various odd jobs, you know,
+- [00:02:23,380 - 00:02:25,880] construction, you know, firefighting, garbage disposal,
+- [00:02:25,880 - 00:02:26,880] you know, usual.
+- [00:02:26,880 - 00:02:27,500] What's the best financial decision
+- [00:02:27,500 - 00:02:28,120] that you've made throughout your life?
+- [00:02:28,120 - 00:02:31,140] Investing in myself. I've paid for so many
+- [00:02:31,140 - 00:02:34,160] things that just wasn't it until I understood
+- [00:02:34,160 - 00:02:36,590] that it's, it's going to be me. Pay for
+- [00:02:36,590 - 00:02:39,020] me and then invest in yourself and get your equipment
+- [00:02:39,020 - 00:02:40,920] and get your, your tools so that you can
+- [00:02:40,920 - 00:02:42,820] be the best that you can be. Then you're going
+- [00:02:42,820 - 00:02:44,580] to win. So my best
+- [00:02:44,580 - 00:02:46,340] financial decision was investing in myself.
+- [00:02:46,340 - 00:02:48,000] So do you think a college degree
+- [00:02:48,000 - 00:02:49,660] is necessary for success in today's society?
+- [00:02:49,660 - 00:02:51,590] You might not like this answer, but no, no,
+- [00:02:51,590 - 00:02:53,520] I don't. You know, the things that they teach
+- [00:02:53,520 - 00:02:55,810] you in college, just the whole school system, they
+- [00:02:55,810 - 00:02:58,100] kind of like gear you to be a winner.
+- [00:02:58,100 - 00:03:00,000] You're a worker bee. Everybody's got their place
+- [00:03:00,000 - 00:03:01,900] in life. You know, you need the McDonald's
+- [00:03:01,900 - 00:03:04,330] managers, you need the worker bees. But if
+- [00:03:04,330 - 00:03:06,760] you're trying to make your own way and really
+- [00:03:06,760 - 00:03:09,130] put a stamp on your life and like leave
+- [00:03:09,130 - 00:03:11,500] a legacy for your family, you got to know what
+- [00:03:11,500 - 00:03:12,740] it is that you want to do
+- [00:03:12,740 - 00:03:13,980] and create some new shit for yourself.
+- [00:03:13,980 - 00:03:15,190] If you were to go back to when you
+- [00:03:15,190 - 00:03:16,400] were in high school or college, what's the best piece
+- [00:03:16,400 - 00:03:17,920] of advice you'd tell your younger self?
+- [00:03:17,920 - 00:03:20,450] Be intentional about what it is that
+- [00:03:20,450 - 00:03:22,980] you want to accomplish. When you're intentional about
+- [00:03:22,980 - 00:03:25,540] what it is you want to accomplish, you'll,
+- [00:03:25,540 - 00:03:28,100] you're more likely to set up the correct steps
+- [00:03:28,100 - 00:03:30,510] to make that come to fruition. If you're
+- [00:03:30,510 - 00:03:32,920] not, if you're flippy floppy, you don't know
+- [00:03:32,920 - 00:03:34,920] what it is that you want to do, then that's
+- [00:03:34,920 - 00:03:36,920] kind of going to kind of be your path. A flippy
+- [00:03:36,920 - 00:03:38,530] floppy, you don't know what to do path.
+- [00:03:38,530 - 00:03:40,140] But if you're intentional, you're zeroed in, laser
+- [00:03:40,140 - 00:03:41,630] focused on your goal, then
+- [00:03:41,630 - 00:03:43,120] you're probably going to get there.
+- [00:03:43,120 - 00:03:44,650] What has been the best financial decision
+- [00:03:44,650 - 00:03:46,180] that you've ever made throughout your lifetime?
+- [00:03:46,180 - 00:03:48,540] Marrying someone who has a good financial mind.
+- [00:03:48,540 - 00:03:50,900] In my case, it was just finding a partner
+- [00:03:50,900 - 00:03:54,060] who had similar aspirations and goals. And
+- [00:03:54,060 - 00:03:57,220] we just spent a lifetime working towards those
+- [00:03:57,220 - 00:03:58,100] aspirations and goals.
+- [00:03:58,100 - 00:03:59,870] And what industry did you
+- [00:03:59,870 - 00:04:01,640] decide to pursue a career in?
+- [00:04:01,640 - 00:04:03,220] I was a public servant.
+- [00:04:03,220 - 00:04:04,690] And throughout your career, what has been
+- [00:04:04,690 - 00:04:06,160] the best financial decision that you've ever
+- [00:04:06,160 - 00:04:06,780] made?
+- [00:04:06,780 - 00:04:09,190] Invested in my family because my daughters
+- [00:04:09,190 - 00:04:11,600] are the bombs. We raised them properly. They're
+- [00:04:11,600 - 00:04:14,159] awesome, awesome young ladies, probably your age. And
+- [00:04:14,159 - 00:04:16,719] my wife and I did the right thing.
+- [00:04:16,719 - 00:04:17,719] We invested in our family.
+- [00:04:17,719 - 00:04:19,269] Do you think a college degree is
+- [00:04:19,269 - 00:04:20,820] necessary to be successful in today's society?
+- [00:04:20,820 - 00:04:22,079] No. Why not?
+- [00:04:22,079 - 00:04:24,539] Because you can have a trade, you can have
+- [00:04:24,539 - 00:04:27,000] a work ethic. If you want to work and you
+- [00:04:27,000 - 00:04:28,000] can outwork anybody.
+- [00:04:28,000 - 00:04:29,840] Just a piece of paper that says you have
+- [00:04:29,840 - 00:04:31,680] a college degree doesn't fit at my end of
+- [00:04:31,680 - 00:04:32,800] the day. It means nothing.
+- [00:04:32,800 - 00:04:34,440] What industry did you decide to pursue a career in?
+- [00:04:34,440 - 00:04:35,440] Law enforcement.
+- [00:04:35,440 - 00:04:36,720] What has been the best financial
+- [00:04:36,720 - 00:04:38,000] decision that you've made throughout your lifetime?
+- [00:04:38,000 - 00:04:40,680] The best one is once I moved down here.
+- [00:04:40,680 - 00:04:41,680] Moving to Dallas?
+- [00:04:41,680 - 00:04:43,460] Yeah, moving to Dallas and just taking
+- [00:04:43,460 - 00:04:45,240] my money and not spending it on bull.
+- [00:04:45,240 - 00:04:46,680] Where did you move from?
+- [00:04:46,680 - 00:04:47,680] Mississippi.
+- [00:04:47,680 - 00:04:49,540] Mississippi. And I guess why was Dallas a
+- [00:04:49,540 - 00:04:51,400] good financial decision? Why was it a good
+- [00:04:51,400 - 00:04:52,400] investment to move down here?
+- [00:04:52,400 - 00:04:54,540] Because there ain't nothing in Mississippi at all.
+- [00:04:54,540 - 00:04:56,680] I mean, I love home, but I feel like
+- [00:04:56,680 - 00:04:57,180] if anybody wants to start a business, they
+- [00:04:57,180 - 00:04:57,680] can start a business. And I think that's what's
+- [00:04:57,680 - 00:04:58,680] going to be the best decision.
+- [00:04:58,680 - 00:04:59,680] If you want to start something,
+- [00:04:59,680 - 00:05:00,680] move. Move for your home town.
+- [00:05:00,680 - 00:05:02,900] What would you say is the best
+- [00:05:02,900 - 00:05:05,120] financial decision you've ever made in your lifetime?
+- [00:05:05,120 - 00:05:07,210] Paying off all my debts. Debt's not always
+- [00:05:07,210 - 00:05:09,300] a bad thing. You can always borrow money and
+- [00:05:09,300 - 00:05:11,470] invest it, but staying low debt and high
+- [00:05:11,470 - 00:05:13,640] income has always been the best because it allows
+- [00:05:13,640 - 00:05:15,360] me to move whenever I want to move. Like
+- [00:05:15,360 - 00:05:17,080] I'll sometimes fly to New York or I'll be here
+- [00:05:17,080 - 00:05:18,950] in Dallas for the weekend. It's just always
+- [00:05:18,950 - 00:05:20,820] having that income on the side to invest and
+- [00:05:20,820 - 00:05:22,430] jump when the opportunity presents itself. So
+- [00:05:22,430 - 00:05:24,040] basically just staying out of that hole
+- [00:05:24,040 - 00:05:25,040] of debt.
+- [00:05:25,040 - 00:05:27,080] What industry did you decide to pursue a career in?
+- [00:05:27,080 - 00:05:27,580] Music.
+- [00:05:27,680 - 00:05:29,790] Music for sure. Yeah. I would have beat subscription
+- [00:05:29,790 - 00:05:31,900] sites. I still beat some rappers all the time.
+- [00:05:31,900 - 00:05:33,550] We collab in the studio. We always bounce
+- [00:05:33,550 - 00:05:35,200] ideas off of each other and motivate each
+- [00:05:35,200 - 00:05:37,300] other. So that keeps me going every day for sure.
+- [00:05:37,300 - 00:05:38,820] And what advice would you have for
+- [00:05:38,820 - 00:05:40,340] someone looking to get into the music industry?
+- [00:05:40,340 - 00:05:42,760] Practice. Yeah, practice for sure. And don't be
+- [00:05:42,760 - 00:05:45,180] afraid of your creativity. A lot of people
+- [00:05:45,180 - 00:05:46,830] think that they're not good enough or like
+- [00:05:46,830 - 00:05:48,480] if they sing the song, they're going to get
+- [00:05:48,480 - 00:05:50,200] a bad review. They're going to hurt their
+- [00:05:50,200 - 00:05:51,920] ego. Don't worry about any of that because
+- [00:05:51,920 - 00:05:55,140] the originality is what people look for nowadays basically.
+- [00:05:55,140 - 00:05:56,380] If you were to go back to when you
+- [00:05:56,380 - 00:05:57,620] were in either high school or college, what is the
+- [00:05:57,620 - 00:05:59,300] best piece of advice you would tell your younger self?
+- [00:05:59,300 - 00:06:01,620] I would tell myself to get more involved with
+- [00:06:01,620 - 00:06:03,940] other people on campus. I mean you got to
+- [00:06:03,940 - 00:06:04,940] learn to be an adult.
+- [00:06:04,940 - 00:06:06,620] Thank you guys for tuning in to today's video.
+- [00:06:06,620 - 00:06:08,300] We hope you guys enjoyed it. This wraps up
+- [00:06:08,300 - 00:06:10,220] our trip to Dallas. We're headed back to Austin
+- [00:06:10,220 - 00:06:12,140] right now. Got to talk to some really cool
+- [00:06:12,140 - 00:06:13,840] people today, some business owners, find out
+- [00:06:13,840 - 00:06:15,540] about their best financial decision and their
+- [00:06:15,540 - 00:06:17,380] financial advice to you guys. So hope
+- [00:06:17,380 - 00:06:19,220] you guys enjoyed. Stay tuned for more content
+- [00:06:19,220 - 00:06:20,500] coming. Let's keep going.
