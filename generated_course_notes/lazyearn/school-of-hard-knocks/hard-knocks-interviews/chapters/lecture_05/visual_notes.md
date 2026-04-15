@@ -1,43 +1,26 @@
 # Visual Evidence
-
 ## Frame Inventory
-
-No asset filenames are available for this lecture. No screenshot should remain in the final notes, because no extracted frame survived validation as useful evidence for equations, diagrams, board layout, or notation.
+- None: no validated extracted frame assets remain for this lecture, so no screenshot should remain in the final notes.
 
 ## Equation Extraction
-
-None. No validated frame assets exist for this lecture, so there are no [visible] or [partially visible] equations to transcribe into LaTeX.
-
-Any arithmetic that appears in the final chapter, such as annual income figures, company volume, exit multiples, distressed-loan discounts, or private-jet cost and flight-time figures, should be treated as transcript-derived business arithmetic rather than frame-derived equation content.
+- [visible] No equations are visible, because no validated mathematical screenshots were kept.
+- [visible] No LaTeX transcription is possible from frames for this lecture.
+- [standard completion] If later notes compute quantities such as `64{,}000 / 1.6\times 10^6 = 0.04`, or summarize claims like `$1.5` billion in volume or `$20` million for the jet, those should be treated as transcript-based calculations, not visual equation extraction.
 
 ## Diagram Extraction
-
-None. No validated frame shows a diagram, board sketch, state layout, chart, caption card, or structured visual argument worth preserving.
-
-No figure should be preserved as a screenshot.
-No figure should be redrawn in TikZ on visual-evidence grounds alone for this lecture.
+- No board diagram, chart, state diagram, labeled sketch, or spatial board layout was preserved from frames.
+- No screenshot should be shown in the final notes as visual evidence for mathematics or structured diagram content.
+- No TikZ redraw is warranted on frame evidence alone; any later schematic should be explicitly presented as a transcript-based conceptual aid rather than a redraw of something seen on screen.
 
 ## Reconstruction Guidance
-
-Build the chapter from the transcript, not from absent visual material. The lecture’s mathematical spine is not blackboard mathematics but business arithmetic and operating schema: exit counts, annual earnings, company volume, distressed-loan pricing, ownership/exit percentages, and the repeated triads or maxims that structure the interviews.
-
-Because there is no surviving screenshot evidence, any clean formalization should be explicitly cautious. For example:
-- the distressed-loan purchase can be reconstructed from the transcript as a face-value versus purchase-price comparison;
-- the Jim Keys section can be formalized as a transcript-backed triad of cash, communications, and character;
-- the private-jet segment can be rendered as a time-allocation and cost ledger rather than as visual caption extraction;
-- concentration versus diversification should be presented as a prose table or compact causal schema, not as a frame-backed diagram.
-
-Do not claim that any equation placement, board ordering, label hierarchy, or diagram geometry was visually confirmed. If the final notes need structure, prefer compact tables and restrained transcript-backed notation over invented board-style derivations.
+- Build this chapter from the transcript, not from visuals: there is no retained frame evidence for equations, labels, or board structure.
+- Do not invent blackboard-style mathematics, physics notation, or diagram layouts to satisfy the format of the pipeline; this source is an interview-driven business video, not a chalkboard lecture.
+- If the final notes benefit from clean schematic aids, keep them minimal and clearly transcript-backed: for example, a boom-bust cycle, a reverse-engineering timeline, or a three-part framework such as cash, communications, and character.
+- Any numerical display math should come only from spoken quantities in the transcript and should be marked in the prose as a cautious reconstruction from claims made aloud.
+- Because no screenshot survived validation, there is no need to keep an “original frame nearby” in the final chapter.
 
 ## Uncertainties
-
-There is no visual uncertainty to resolve from frames, because no validated frames remain.
-
-The main uncertainties are transcript-side rather than image-side:
-- “Ball guy” is likely an ASR distortion and should not be treated as a reliable label.
-- “nine or a ten-year end-figure company” in the promotional section is almost certainly a garbled rendering of a nine- or ten-figure company.
-- In the jet-cost segment, “I bought the shoes” is clearly distorted ASR and should not be silently normalized into a precise transactional term without caution.
-- “paint a sample mint Porsche underneath it” is also garbled and should not be used as reliable design notation.
-- The lecture contains many strong business claims but no visible symbolic notation, indices, or stepwise derivations that can be checked against a board or slide.
-
-So the final notes should treat this lecture as figureless and transcript-led.
+- There are no legible symbols, indices, equations, or diagram labels because no validated frames are available.
+- The visual record is fully absent for note-writing purposes, so all structure must be inferred from transcript rhythm rather than from board layout.
+- The surrounding pipeline language suggests a mathematical lecture, but this source is not one; treating it like a physics blackboard lecture would create invented content.
+- Several useful quantitative claims exist in the transcript, but none are visually attested by frames, so they should not be described as on-screen mathematics or diagrams.
