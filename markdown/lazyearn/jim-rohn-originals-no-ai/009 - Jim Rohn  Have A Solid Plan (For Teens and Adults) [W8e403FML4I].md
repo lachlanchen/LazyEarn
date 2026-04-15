@@ -1,0 +1,1459 @@
+# Transcript
+
+Source: lazyearn/jim-rohn-originals-no-ai/009 - Jim Rohn  Have A Solid Plan (For Teens and Adults) [W8e403FML4I].webm
+
+- [00:00:00,000 - 00:00:18,120] Hi everybody, I'm Jim Rohn.
+- [00:00:18,820 - 00:00:20,970] What a pleasure it is for me to come and
+- [00:00:20,970 - 00:00:23,120] visit with you for just a few minutes here today,
+- [00:00:24,260 - 00:00:26,860] tell you briefly a little bit about my
+- [00:00:26,860 - 00:00:29,460] story, and share some ideas that might be beneficial.
+- [00:00:30,000 - 00:00:34,240] I've lectured in some high school classrooms in
+- [00:00:34,240 - 00:00:38,480] California and Arizona and some universities and colleges,
+- [00:00:39,280 - 00:00:42,170] Pepperdine University, San Diego
+- [00:00:42,170 - 00:00:45,060] State, Arizona State University,
+- [00:00:45,500 - 00:00:48,080] and so I've had a chance to talk to kids
+- [00:00:48,080 - 00:00:50,660] that are interested in themselves and interested in their future,
+- [00:00:51,300 - 00:00:53,680] interested in America, interested in what
+- [00:00:53,680 - 00:00:56,060] they can do with their lives,
+- [00:00:56,320 - 00:00:59,620] and listening to stories that might be beneficial.
+- [00:01:00,000 - 00:01:02,540] And I don't have a chance to, you know,
+- [00:01:02,540 - 00:01:05,080] visit all of the schools and universities around the world,
+- [00:01:05,080 - 00:01:08,230] so this is a great chance for me, by
+- [00:01:08,230 - 00:01:11,380] video, to have a chance to tell you my story.
+- [00:01:12,460 - 00:01:14,520] Just briefly, let me tell you my
+- [00:01:14,520 - 00:01:16,580] story. I grew up in Idaho, farm country.
+- [00:01:17,320 - 00:01:19,440] My father still lives on the old
+- [00:01:19,440 - 00:01:21,560] homestead where I grew up, southwestern Idaho.
+- [00:01:22,280 - 00:01:24,680] He'll be 91 his next birthday,
+- [00:01:24,680 - 00:01:27,080] and I'm very proud of him.
+- [00:01:27,380 - 00:01:29,380] I went to high school. I graduated.
+- [00:01:29,380 - 00:01:31,380] I went to college one year.
+- [00:01:32,440 - 00:01:34,020] Halfway through my second year, I decided
+- [00:01:34,020 - 00:01:35,600] I was smart enough, so I quit.
+- [00:01:36,640 - 00:01:38,330] One of my major mistakes.
+- [00:01:38,330 - 00:01:40,020] I should have stayed in school.
+- [00:01:40,600 - 00:01:41,899] But I thought, you know, heck,
+- [00:01:41,899 - 00:01:43,199] I'm smart enough to get a job.
+- [00:01:43,199 - 00:01:45,459] And back then I thought, you know, that was it. If
+- [00:01:45,459 - 00:01:47,720] you're smart enough to get a job, what else would you need?
+- [00:01:48,259 - 00:01:50,580] Found out later, a big mistake.
+- [00:01:51,160 - 00:01:54,779] But anyway, I quit school at age 19, went to work.
+- [00:01:54,779 - 00:01:58,399] A little while later, persuaded a beautiful young lady to marry me
+- [00:01:58,400 - 00:02:00,400] with a lot of fancy promises.
+- [00:02:00,400 - 00:02:03,620] And fortunately for me, we got married.
+- [00:02:04,260 - 00:02:07,140] Little while later, I started my family and I'm out
+- [00:02:07,140 - 00:02:10,020] there working hard, doing the best I thought I could.
+- [00:02:10,919 - 00:02:12,380] But year by year, I
+- [00:02:12,380 - 00:02:13,840] kept falling a little further behind.
+- [00:02:14,820 - 00:02:16,990] You know, buying a little more than
+- [00:02:16,990 - 00:02:19,160] I could conveniently pay for on time.
+- [00:02:20,860 - 00:02:23,190] And the creditors are finally starting to call saying,
+- [00:02:23,190 - 00:02:25,520] hey, you told us the check was in the mail.
+- [00:02:26,160 - 00:02:28,160] I'm not feeling at all good about that.
+- [00:02:28,400 - 00:02:32,940] About age 25, I've got pennies in my pocket.
+- [00:02:32,940 - 00:02:37,910] I've got nothing in the bank and way behind on my big mouth promises
+- [00:02:37,910 - 00:02:42,880] to my family and wondering what could I do to make my life better?
+- [00:02:43,820 - 00:02:44,960] I was willing to work hard.
+- [00:02:44,960 - 00:02:47,540] That was not my problem, but I just
+- [00:02:47,540 - 00:02:50,120] wasn't making the progress I wanted to make.
+- [00:02:50,840 - 00:02:52,820] And then good fortune came my way.
+- [00:02:53,660 - 00:02:55,940] Sometimes it's difficult to describe good fortune.
+- [00:02:55,940 - 00:02:58,360] Why something remarkable happens to you at a point.
+- [00:02:58,400 - 00:02:59,240] At a particular time.
+- [00:03:00,440 - 00:03:01,640] One of my friends says,
+- [00:03:01,640 - 00:03:02,840] well, hey, things don't just happen.
+- [00:03:03,380 - 00:03:04,640] Things happen just.
+- [00:03:05,500 - 00:03:06,460] And maybe that's it.
+- [00:03:06,460 - 00:03:07,000] I don't know.
+- [00:03:07,000 - 00:03:09,030] But my good fortune was I had
+- [00:03:09,030 - 00:03:11,060] a chance to meet a very wealthy man.
+- [00:03:11,080 - 00:03:13,240] His name was Mr. Shouf, Mr. Shouf.
+- [00:03:13,900 - 00:03:15,830] A friend of mine had gone to work for
+- [00:03:15,830 - 00:03:17,760] him and he started telling me about this man.
+- [00:03:17,760 - 00:03:19,040] He said, you've got to meet this man.
+- [00:03:19,040 - 00:03:20,960] He's rich, but he's easy to talk to.
+- [00:03:21,620 - 00:03:24,260] And he's got a remarkable philosophy of life.
+- [00:03:24,980 - 00:03:26,240] And he kept going on.
+- [00:03:26,240 - 00:03:28,180] And I thought, well, I've got to meet this man.
+- [00:03:28,400 - 00:03:30,050] So shortly after that, I had
+- [00:03:30,050 - 00:03:31,700] a chance to meet this Mr. Shouf.
+- [00:03:32,360 - 00:03:33,560] And I was impressed.
+- [00:03:33,920 - 00:03:34,920] He was rich.
+- [00:03:35,700 - 00:03:37,020] He was easy to talk to.
+- [00:03:37,940 - 00:03:39,740] Within a few minutes, I was dazzled.
+- [00:03:40,460 - 00:03:42,310] And I said to myself, I would
+- [00:03:42,310 - 00:03:44,160] give anything if I could be like that.
+- [00:03:44,660 - 00:03:46,020] Rich and easy to talk to.
+- [00:03:46,020 - 00:03:47,040] What would it take?
+- [00:03:47,700 - 00:03:51,730] And then I thought, if I could just get around somebody like him
+- [00:03:51,730 - 00:03:55,760] and if he would teach me and coach me, I would do it all.
+- [00:03:56,520 - 00:03:57,980] And that was my good fortune.
+- [00:03:57,980 - 00:03:58,380] A few months later.
+- [00:03:58,400 - 00:04:00,400] This wealthy man, Mr. Shouf, hired
+- [00:04:00,400 - 00:04:02,400] me and gave me a job.
+- [00:04:02,400 - 00:04:04,160] And I went to work for him.
+- [00:04:04,160 - 00:04:07,240] And I spent the next five years in his employ.
+- [00:04:08,120 - 00:04:10,900] And then, unfortunately, at age 49, he died.
+- [00:04:11,780 - 00:04:15,649] But I got to spend five years with this remarkable man, his last
+- [00:04:15,649 - 00:04:19,519] five years of his life and the first five years of my new life.
+- [00:04:20,459 - 00:04:23,660] And my dream came true during that five year period.
+- [00:04:24,260 - 00:04:25,990] This man took the time
+- [00:04:25,990 - 00:04:27,720] to teach me and coach me.
+- [00:04:28,400 - 00:04:29,900] He taught me the books to read.
+- [00:04:29,900 - 00:04:31,340] He taught me the disciplines
+- [00:04:31,340 - 00:04:32,780] and he taught me the skills.
+- [00:04:33,400 - 00:04:35,279] And he taught me the changes
+- [00:04:35,279 - 00:04:37,159] to make in my language and personality.
+- [00:04:38,159 - 00:04:42,529] And the things he shared with me during that five years changed
+- [00:04:42,529 - 00:04:46,900] my whole life, changed my income, changed my bank account, changed my future.
+- [00:04:47,440 - 00:04:48,640] I've never been the same.
+- [00:04:49,320 - 00:04:50,570] By the time I was 31
+- [00:04:50,570 - 00:04:51,820] years old, I was a millionaire.
+- [00:04:52,280 - 00:04:54,640] So he taught me economics as well.
+- [00:04:55,239 - 00:04:56,799] So how lucky can you
+- [00:04:56,799 - 00:04:58,359] get to meet the right person?
+- [00:04:58,400 - 00:04:59,560] At the right time?
+- [00:05:00,200 - 00:05:01,800] Who takes the time to share with
+- [00:05:01,800 - 00:05:03,400] you ideas that can change your life?
+- [00:05:04,159 - 00:05:05,280] A lot of rich people, right?
+- [00:05:05,280 - 00:05:06,440] Don't take the time.
+- [00:05:06,440 - 00:05:07,520] But he did.
+- [00:05:07,520 - 00:05:08,900] And he also had the ability.
+- [00:05:09,900 - 00:05:11,590] Some people want to share their experiences, but
+- [00:05:11,590 - 00:05:13,280] they don't quite know how to say it.
+- [00:05:13,280 - 00:05:14,479] But he had it all.
+- [00:05:15,020 - 00:05:17,200] And he used language that I could understand.
+- [00:05:17,900 - 00:05:21,560] And those ideas greatly affected my life.
+- [00:05:22,560 - 00:05:23,859] I wish he was still alive today.
+- [00:05:23,859 - 00:05:25,819] If he was, I'd be calling
+- [00:05:25,819 - 00:05:27,780] him today one more time thanking him.
+- [00:05:28,400 - 00:05:31,420] For the time he spent with me sharing his
+- [00:05:31,420 - 00:05:34,440] life and his experiences that so dramatically affected my life.
+- [00:05:35,400 - 00:05:37,020] Then how I really came to
+- [00:05:37,020 - 00:05:38,640] be invited to speak to you today.
+- [00:05:39,979 - 00:05:41,569] 30 plus years ago, I
+- [00:05:41,569 - 00:05:43,159] was living in Beverly Hills, California.
+- [00:05:44,060 - 00:05:46,709] And a friend of mine one day said, Jim, you've
+- [00:05:46,709 - 00:05:49,359] got to come and tell your story to my service club.
+- [00:05:49,359 - 00:05:50,900] He belonged to the Rotary Club.
+- [00:05:51,700 - 00:05:53,159] And he said, I know your story.
+- [00:05:53,159 - 00:05:55,640] Idaho farm boy makes it to Beverly Hills.
+- [00:05:56,400 - 00:05:57,300] But he said, I know my club
+- [00:05:57,300 - 00:05:58,200] members would love to hear your story.
+- [00:05:58,200 - 00:06:00,280] Would you come and and at
+- [00:06:00,280 - 00:06:02,360] our breakfast meeting and tell your story?
+- [00:06:02,360 - 00:06:03,240] And I said, OK.
+- [00:06:04,039 - 00:06:05,639] So I arranged a little talk,
+- [00:06:05,639 - 00:06:07,240] went and shared my story that morning.
+- [00:06:07,360 - 00:06:08,120] And guess what?
+- [00:06:08,700 - 00:06:09,320] They liked it.
+- [00:06:10,080 - 00:06:11,200] And my phone rang.
+- [00:06:11,400 - 00:06:12,779] Another club called and said, would
+- [00:06:12,779 - 00:06:14,159] you come and tell us that story?
+- [00:06:14,620 - 00:06:16,000] My phone rings.
+- [00:06:16,120 - 00:06:17,280] Another club calls.
+- [00:06:17,280 - 00:06:18,440] So we've heard about your story.
+- [00:06:18,440 - 00:06:19,500] We have a luncheon meeting.
+- [00:06:19,500 - 00:06:20,700] Would you come share your story?
+- [00:06:21,500 - 00:06:24,329] First thing I know, I'm spending a little piece
+- [00:06:24,329 - 00:06:27,159] of my time giving these breakfast talks and luncheon talks.
+- [00:06:28,200 - 00:06:31,530] And then one day a man who heard my talk about three
+- [00:06:31,530 - 00:06:34,860] times said, would you come and talk to my management and salespeople?
+- [00:06:35,159 - 00:06:36,740] He said, I've got this little company going.
+- [00:06:37,440 - 00:06:40,400] And if you he said, if you would spend some time
+- [00:06:40,400 - 00:06:43,360] talking with my management and salespeople, I'd be happy to pay you.
+- [00:06:44,240 - 00:06:46,900] And I thought, wow, wouldn't that be something?
+- [00:06:48,120 - 00:06:50,500] Tell my story and my experiences and get paid.
+- [00:06:50,500 - 00:06:51,580] He said, I'd be happy to.
+- [00:06:52,539 - 00:06:54,700] Little did I know that was the beginning.
+- [00:06:55,580 - 00:06:56,580] Of a whole new.
+- [00:06:57,039 - 00:06:58,039] Brand new adventure.
+- [00:06:58,040 - 00:06:58,540] For me.
+- [00:06:59,040 - 00:07:01,390] And sharing my story and speeches
+- [00:07:01,390 - 00:07:03,740] and talks and seminars and lectures.
+- [00:07:04,280 - 00:07:07,060] And now this business become one of my
+- [00:07:07,060 - 00:07:09,840] most flourishing enterprises takes me around the world.
+- [00:07:10,500 - 00:07:13,270] I went to many countries just this year,
+- [00:07:13,270 - 00:07:16,040] had my largest audience early this year in Spain.
+- [00:07:16,500 - 00:07:18,000] 12,000 people.
+- [00:07:18,880 - 00:07:22,080] 10 different languages being translated at the same time.
+- [00:07:22,620 - 00:07:25,280] The whole audience with the earphones on.
+- [00:07:25,840 - 00:07:27,700] It's interesting when you lecture with.
+- [00:07:28,040 - 00:07:29,040] Multi languages.
+- [00:07:29,420 - 00:07:31,480] You know, when you hit the punch line, you know,
+- [00:07:31,480 - 00:07:33,540] the Spanish laugh first and then the French get it.
+- [00:07:33,540 - 00:07:35,160] And then finally the Italians get it.
+- [00:07:35,500 - 00:07:37,660] And last, the Germans finally get it.
+- [00:07:38,460 - 00:07:41,080] And then I say, hey, the Germans finally got it.
+- [00:07:41,080 - 00:07:42,240] I guess we can continue.
+- [00:07:42,840 - 00:07:44,960] You know, some languages take long
+- [00:07:44,960 - 00:07:47,080] longer to translate than other languages.
+- [00:07:47,740 - 00:07:49,540] But what an exciting adventure for me.
+- [00:07:49,540 - 00:07:51,120] I was in Israel this year.
+- [00:07:51,660 - 00:07:53,500] I lectured in France.
+- [00:07:53,700 - 00:07:56,280] My first trip to Prague, Czechoslovakia.
+- [00:07:56,280 - 00:07:58,280] Lisbon, Portugal.
+- [00:07:59,280 - 00:08:01,780] Last year I was in London lecturing.
+- [00:08:01,780 - 00:08:03,530] Happened to be there the same
+- [00:08:03,530 - 00:08:05,280] night Pavarotti was singing in London.
+- [00:08:05,780 - 00:08:08,280] So, big dilemma for the people in London.
+- [00:08:08,780 - 00:08:10,530] Shall we go see Jim Rohn
+- [00:08:10,530 - 00:08:12,280] or shall we go listen to Pavarotti?
+- [00:08:12,780 - 00:08:14,030] Well, I must admit he
+- [00:08:14,030 - 00:08:15,280] had more people than I did.
+- [00:08:15,280 - 00:08:17,780] Like 150,000 more.
+- [00:08:18,280 - 00:08:20,780] He did a free concert in Hyde Park.
+- [00:08:21,280 - 00:08:23,280] And they expected a quarter of a million.
+- [00:08:23,280 - 00:08:25,780] But only 150,000 showed up because it rained.
+- [00:08:26,280 - 00:08:29,280] And they all got soaked from Prince Charles on down.
+- [00:08:29,280 - 00:08:32,280] But they sat in the rain and listened to Pavarotti.
+- [00:08:33,280 - 00:08:36,280] I would have been happy that evening, right, to cancel my
+- [00:08:36,280 - 00:08:39,280] seminar and go sit in the rain and listen to Pavarotti.
+- [00:08:39,280 - 00:08:41,280] Anyway, he and I have agreed now not to
+- [00:08:41,280 - 00:08:43,280] appear in the same city on the same day anymore.
+- [00:08:44,280 - 00:08:45,280] Not really.
+- [00:08:45,280 - 00:08:48,280] But how exciting for me to be able to
+- [00:08:48,280 - 00:08:51,280] travel all around the world and share my story.
+- [00:08:51,280 - 00:08:53,030] And then especially to have this chance
+- [00:08:53,030 - 00:08:54,780] today to come and visit with you.
+- [00:08:54,780 - 00:08:55,280] Thank you.
+- [00:08:55,280 - 00:08:59,280] And when I get a chance to speak at a high
+- [00:08:59,280 - 00:09:03,280] school class or a university class, I'm always excited about it.
+- [00:09:03,280 - 00:09:05,280] I'm limited in time.
+- [00:09:05,280 - 00:09:12,280] So I wanted to use this way to come and share my story with you and some ideas
+- [00:09:12,280 - 00:09:19,280] that might be helpful in your career for the future, in your now busy life as a student.
+- [00:09:19,280 - 00:09:21,780] And then wherever you find yourself in the years to
+- [00:09:21,780 - 00:09:24,280] come, some of the things I'm going to share with you.
+- [00:09:25,280 - 00:09:28,280] I want you to remember for a long, long time because
+- [00:09:28,280 - 00:09:31,280] the ideas I want to translate for you drastically affected my life.
+- [00:09:31,280 - 00:09:35,780] And if I can share now and affect your life and you write me a letter or
+- [00:09:35,780 - 00:09:40,280] tell me in person someday, Mr. Rohn, I listened to your video and I watched it carefully.
+- [00:09:40,280 - 00:09:42,780] And sure enough, some of the
+- [00:09:42,780 - 00:09:45,280] ideas that you shared greatly affected me.
+- [00:09:45,280 - 00:09:47,280] And here's what's happened to my bank account.
+- [00:09:47,280 - 00:09:49,280] Here's what happened to me in school.
+- [00:09:49,280 - 00:09:51,280] Here's what's happening to my future.
+- [00:09:51,280 - 00:09:53,280] That'll give me great, great satisfaction.
+- [00:09:53,280 - 00:09:54,280] So the man who shared my story.
+- [00:09:54,280 - 00:09:55,280] Thank you.
+- [00:09:55,280 - 00:09:57,280] He shared with me ideas that changed my life.
+- [00:09:57,280 - 00:09:59,280] I want to share with
+- [00:09:59,280 - 00:10:01,280] you three of those basic subjects.
+- [00:10:01,280 - 00:10:04,280] When I met him, I was 25 years old.
+- [00:10:04,280 - 00:10:07,280] And when I first got acquainted with him, I used
+- [00:10:07,280 - 00:10:10,280] a lot of excuses as to why I wasn't doing well.
+- [00:10:10,280 - 00:10:11,780] And he said, well, tell me
+- [00:10:11,780 - 00:10:13,280] a little bit about your story.
+- [00:10:13,280 - 00:10:16,280] And I told him, you know, I was behind on
+- [00:10:16,280 - 00:10:19,280] my bills, had pennies in my pocket, nothing in the bank.
+- [00:10:19,280 - 00:10:21,780] But I was embarrassed about being behind
+- [00:10:21,780 - 00:10:24,280] on my big mouth promises to my family.
+- [00:10:24,280 - 00:10:26,780] And then he gave me one little
+- [00:10:26,780 - 00:10:29,280] simple phrase that really forever changed my life.
+- [00:10:29,280 - 00:10:30,280] And here's what he said.
+- [00:10:30,280 - 00:10:33,280] Mr. Rohn, if you want the future
+- [00:10:33,280 - 00:10:36,280] to change for you, you've got to change.
+- [00:10:36,280 - 00:10:38,780] And he said, if you don't change, the next six years
+- [00:10:38,780 - 00:10:41,280] of your life is going to be just like the last six.
+- [00:10:41,280 - 00:10:43,280] You'll still be behind on your bills.
+- [00:10:43,280 - 00:10:46,280] You'll still be behind on your promises.
+- [00:10:46,280 - 00:10:47,780] But then he gave it to
+- [00:10:47,780 - 00:10:49,280] me in the form of a promise.
+- [00:10:49,280 - 00:10:50,780] When I was 25 years old,
+- [00:10:50,780 - 00:10:52,280] I've remembered it all these years.
+- [00:10:52,280 - 00:10:53,280] And I've shared this promise.
+- [00:10:53,280 - 00:10:56,280] And I've shared this promise now with probably over
+- [00:10:56,280 - 00:10:59,280] three million people in the last 30 plus years.
+- [00:10:59,280 - 00:11:01,280] And it's going to be valid for you.
+- [00:11:01,280 - 00:11:03,280] So listen carefully to this promise.
+- [00:11:03,280 - 00:11:06,780] My teacher said to me, young man, if
+- [00:11:06,780 - 00:11:10,280] you will change, everything will change for you.
+- [00:11:10,280 - 00:11:12,280] If you will get better,
+- [00:11:12,280 - 00:11:14,280] everything will get better for you.
+- [00:11:14,280 - 00:11:17,280] What a clear message that was for me.
+- [00:11:17,280 - 00:11:18,780] He said, if you'll change
+- [00:11:18,780 - 00:11:20,280] your philosophy, you'll change your habits.
+- [00:11:20,280 - 00:11:22,280] If you'll refine your thinking.
+- [00:11:22,280 - 00:11:25,280] If you'll change and accept some new disciplines.
+- [00:11:25,280 - 00:11:27,780] If you'll turn the corner where you've been in
+- [00:11:27,780 - 00:11:30,280] the past, go for a new life for the future.
+- [00:11:30,280 - 00:11:32,780] He said, all kinds of remarkable things
+- [00:11:32,780 - 00:11:35,280] will happen for you if you will change.
+- [00:11:35,280 - 00:11:37,780] Before I met Mr. Shouff, I used to cross
+- [00:11:37,780 - 00:11:40,280] my fingers and say, I sure hope things will change.
+- [00:11:40,280 - 00:11:43,780] I was hoping the government would change and the tax structure would
+- [00:11:43,780 - 00:11:47,280] change and that my boss would change and pay me more money.
+- [00:11:47,280 - 00:11:51,280] I was hoping that, you know, economics would change.
+- [00:11:51,280 - 00:11:53,280] And prices would come down.
+- [00:11:53,280 - 00:11:57,280] And I was hoping that circumstances would get better.
+- [00:11:57,280 - 00:11:59,780] And then I discovered from my teacher that
+- [00:11:59,780 - 00:12:02,280] those things are going to continue the same.
+- [00:12:02,280 - 00:12:05,280] In fact, all of those things that happen to
+- [00:12:05,280 - 00:12:08,280] us is kind of like the wind that blows.
+- [00:12:10,280 - 00:12:13,280] And the wind blows on us all.
+- [00:12:13,280 - 00:12:16,280] In fact, in America, especially, the last six
+- [00:12:16,280 - 00:12:19,280] and a half thousand years of recorded history,
+- [00:12:19,280 - 00:12:21,280] we've got probably the most famous story.
+- [00:12:21,280 - 00:12:23,280] The most favorable wind that's ever blown.
+- [00:12:23,280 - 00:12:27,780] Economics and circumstances, living in a free
+- [00:12:27,780 - 00:12:32,280] country, democracy and freedom, an excellent economy.
+- [00:12:32,280 - 00:12:34,280] Sure, we struggle at times.
+- [00:12:34,280 - 00:12:36,780] But compared to the rest of the world in the last
+- [00:12:36,780 - 00:12:39,280] six and a half thousand years, we've got the best wind ever.
+- [00:12:39,280 - 00:12:41,780] But if you just let the wind blow, I'm telling
+- [00:12:41,780 - 00:12:44,280] you, it won't take you where you want to go.
+- [00:12:44,280 - 00:12:47,280] All of us must use this wind to take us
+- [00:12:47,280 - 00:12:50,280] to the dreams we've got, to the equities we want,
+- [00:12:50,280 - 00:12:53,780] to the money we want, to the income we want,
+- [00:12:53,780 - 00:12:57,280] and to all the things we want our life to have.
+- [00:12:57,280 - 00:12:59,280] This is where we want to go.
+- [00:12:59,280 - 00:13:02,280] And we've got a good wind, but we must not
+- [00:13:02,280 - 00:13:05,280] leave our future just to the wind, just to the economy,
+- [00:13:05,280 - 00:13:06,780] just to the structure of
+- [00:13:06,780 - 00:13:08,280] the way things are happening today.
+- [00:13:08,280 - 00:13:10,280] Here's what we must learn to do,
+- [00:13:10,280 - 00:13:12,280] and that is set a good sail.
+- [00:13:13,280 - 00:13:15,780] And if you'll learn to set a good sail, and
+- [00:13:15,780 - 00:13:18,280] that's what my teacher taught me in those early days.
+- [00:13:18,280 - 00:13:19,280] He said, Mr. Rohn, the wind is going to blow.
+- [00:13:20,280 - 00:13:22,280] It's going to blow however it's going to blow.
+- [00:13:22,280 - 00:13:24,280] Politics are going to be politics, and
+- [00:13:24,280 - 00:13:26,280] the economy is going to be the economy.
+- [00:13:26,280 - 00:13:27,780] And however it turns out, that's
+- [00:13:27,780 - 00:13:29,280] the way it's going to be.
+- [00:13:29,280 - 00:13:31,280] What you must learn to do is
+- [00:13:31,280 - 00:13:33,280] not to wish for a better wind.
+- [00:13:33,280 - 00:13:35,280] That's naive.
+- [00:13:35,280 - 00:13:38,780] The key is to wish for the wisdom and the skills
+- [00:13:38,780 - 00:13:42,280] and the learning so that you can set a better sail.
+- [00:13:42,280 - 00:13:45,280] And so that's what I did at age 25.
+- [00:13:45,280 - 00:13:47,280] I went to work not on the economy.
+- [00:13:47,280 - 00:13:50,280] I went to work not on the community.
+- [00:13:50,280 - 00:13:51,280] I didn't go to work
+- [00:13:51,280 - 00:13:52,280] to try to change the government.
+- [00:13:52,280 - 00:13:53,780] I didn't go to work to try
+- [00:13:53,780 - 00:13:55,280] to change my boss or the company.
+- [00:13:55,280 - 00:13:57,280] I didn't go to work to try to change circumstances.
+- [00:13:57,280 - 00:14:00,280] I went to work to try to change myself.
+- [00:14:00,280 - 00:14:02,280] And I picked up that
+- [00:14:02,280 - 00:14:04,280] promise my teacher shared with me.
+- [00:14:04,280 - 00:14:07,280] That if I would change, my income would change.
+- [00:14:07,280 - 00:14:09,280] If I would change, my bank account would change.
+- [00:14:09,280 - 00:14:12,280] If I would change, my future would change.
+- [00:14:12,280 - 00:14:16,280] And sure enough, his promise came true for me.
+- [00:14:16,280 - 00:14:17,780] The first six years of my
+- [00:14:17,780 - 00:14:19,280] economic life, I wound up broke.
+- [00:14:19,280 - 00:14:21,280] Those pennies in my pocket, nothing
+- [00:14:21,280 - 00:14:23,280] in the bank, behind on my promises.
+- [00:14:23,280 - 00:14:25,280] The second six years of my
+- [00:14:25,280 - 00:14:27,280] economic life, I wound up rich.
+- [00:14:27,280 - 00:14:30,780] But interestingly enough, the second six years of my economic life, the
+- [00:14:30,780 - 00:14:34,280] government was about the same and the economy was about the same.
+- [00:14:34,280 - 00:14:36,280] You know, the companies were about the same.
+- [00:14:36,280 - 00:14:38,280] What they paid was the same.
+- [00:14:38,280 - 00:14:41,280] Circumstances around me were the same.
+- [00:14:41,280 - 00:14:43,280] You know, my negative relatives were the same.
+- [00:14:43,280 - 00:14:45,280] But I was not the same.
+- [00:14:45,280 - 00:14:47,280] That's how my life changed.
+- [00:14:47,280 - 00:14:49,280] That's how things changed.
+- [00:14:49,280 - 00:14:51,780] Things started working for me, changing
+- [00:14:51,780 - 00:14:54,280] my life all those years ago.
+- [00:14:54,280 - 00:14:55,780] So that's what I wanted to
+- [00:14:55,780 - 00:14:57,280] share with you to begin with.
+- [00:14:57,280 - 00:15:00,280] This beginning of what Mr. Shove shared with me that if I wanted
+- [00:15:00,280 - 00:15:03,280] my life to change, this was what I was going to have to do.
+- [00:15:03,280 - 00:15:07,280] And so he broke it down into three subjects that really made
+- [00:15:07,280 - 00:15:11,280] an impact on my life and I want to share those with you.
+- [00:15:11,280 - 00:15:17,280] The first subject he called personal development.
+- [00:15:17,280 - 00:15:20,280] And the second subject he called setting goals.
+- [00:15:20,280 - 00:15:26,280] And the third was how to become financially independent.
+- [00:15:26,280 - 00:15:30,280] And I'd like to give you just a few clues
+- [00:15:30,280 - 00:15:34,280] from those three major subjects that so dramatically affected my life.
+- [00:15:34,280 - 00:15:36,280] And let's get started.
+- [00:15:36,280 - 00:15:39,280] The first one is personal development.
+- [00:15:39,280 - 00:15:43,280] Now in illustrating personal development,
+- [00:15:43,280 - 00:15:45,280] Mr. Shove, my teacher, said,
+- [00:15:45,280 - 00:15:50,280] Mr. Shove, my teacher, started with money.
+- [00:15:50,280 - 00:15:52,780] You know, money's not the only
+- [00:15:52,780 - 00:15:55,280] place to start in talking personal development.
+- [00:15:55,280 - 00:15:58,280] But it's where he started, so let me
+- [00:15:58,280 - 00:16:01,280] share the thoughts he shared with me back then.
+- [00:16:01,280 - 00:16:03,280] Let me share them with you.
+- [00:16:03,280 - 00:16:07,280] Here's the best lesson I can give you on economics.
+- [00:16:07,280 - 00:16:09,280] It's very simple.
+- [00:16:09,280 - 00:16:13,280] We get paid for bringing value to the marketplace.
+- [00:16:13,280 - 00:16:15,280] That's about as simple as that.
+- [00:16:15,280 - 00:16:17,280] It's as simple as I can put economics.
+- [00:16:17,280 - 00:16:21,280] We get paid for bringing value to the marketplace.
+- [00:16:21,280 - 00:16:26,280] Now, it takes time to bring value to the marketplace.
+- [00:16:26,280 - 00:16:30,280] However, we do not get paid for time.
+- [00:16:30,280 - 00:16:33,280] So we cross that out.
+- [00:16:33,280 - 00:16:34,780] Mistakenly, the man says, I'm
+- [00:16:34,780 - 00:16:36,280] making about $20 for an hour.
+- [00:16:36,280 - 00:16:38,280] Not true.
+- [00:16:38,280 - 00:16:40,280] If that was true, you could just stay home, right?
+- [00:16:40,280 - 00:16:42,280] And have them send your money.
+- [00:16:42,280 - 00:16:43,280] So that's not true.
+- [00:16:43,280 - 00:16:44,280] We don't get paid for time.
+- [00:16:44,280 - 00:16:48,280] We get paid for value brought to the marketplace.
+- [00:16:48,280 - 00:16:50,780] Now, since that's true, here's one of the
+- [00:16:50,780 - 00:16:53,280] key questions of my talk to you today.
+- [00:16:53,280 - 00:16:57,280] Is it possible to become twice as valuable to the
+- [00:16:57,280 - 00:17:01,280] marketplace and make twice as much money in the same time?
+- [00:17:01,280 - 00:17:02,280] Is that possible?
+- [00:17:02,280 - 00:17:03,280] The answer is yes.
+- [00:17:03,280 - 00:17:07,280] Could you become three times as valuable as you might be right now
+- [00:17:07,280 - 00:17:11,280] to the marketplace and make three times as much money in the same time?
+- [00:17:11,280 - 00:17:12,280] And the answer is yes.
+- [00:17:12,280 - 00:17:13,280] Five times?
+- [00:17:13,280 - 00:17:14,280] Ten times?
+- [00:17:14,280 - 00:17:15,280] Of course.
+- [00:17:15,280 - 00:17:16,280] America is unique.
+- [00:17:16,280 - 00:17:18,280] It's a ladder decline.
+- [00:17:18,280 - 00:17:21,280] It starts down here, let's say, at
+- [00:17:21,280 - 00:17:24,280] $5 an hour and it keeps going up.
+- [00:17:24,280 - 00:17:29,280] Top income last year, $80 million.
+- [00:17:29,280 - 00:17:31,280] The guy who runs Coca-Cola.
+- [00:17:31,280 - 00:17:33,280] Now, that's a heck of a ladder.
+- [00:17:33,280 - 00:17:35,280] That's why everybody wants to come here, right?
+- [00:17:35,280 - 00:17:38,280] The boat people are not headed for Vietnam.
+- [00:17:38,280 - 00:17:40,280] People haven't plotted and schemed for 50 years saying if
+- [00:17:40,280 - 00:17:42,280] I could just get to Poland, everything would be fine.
+- [00:17:42,280 - 00:17:43,280] Not true.
+- [00:17:43,280 - 00:17:44,280] Everybody wants to come to America.
+- [00:17:44,280 - 00:17:46,780] And the reason is because we've got
+- [00:17:46,780 - 00:17:49,280] the best wind ever blowing in our favor.
+- [00:17:49,280 - 00:17:51,780] We've got the best economic opportunity anybody's
+- [00:17:51,780 - 00:17:54,280] had in six and a half thousand years.
+- [00:17:54,280 - 00:17:56,280] And all you have to do is
+- [00:17:56,280 - 00:17:58,280] understand it and take advantage of it.
+- [00:17:58,280 - 00:18:00,280] Now, there's some key questions to ask here.
+- [00:18:00,280 - 00:18:05,280] Why would the marketplace pay someone only $5 an hour?
+- [00:18:05,280 - 00:18:07,280] Very simple answer.
+- [00:18:07,280 - 00:18:09,280] They're not very valuable.
+- [00:18:09,280 - 00:18:10,280] They're not very valuable.
+- [00:18:10,280 - 00:18:11,280] They're not very valuable.
+- [00:18:11,280 - 00:18:14,280] They're not very valuable to the marketplace.
+- [00:18:14,280 - 00:18:17,280] Now, we must underline to the marketplace.
+- [00:18:17,280 - 00:18:19,280] This person might be a very valuable brother.
+- [00:18:19,280 - 00:18:20,280] Yes.
+- [00:18:20,280 - 00:18:22,280] Member of the family valuable.
+- [00:18:22,280 - 00:18:23,280] Yes.
+- [00:18:23,280 - 00:18:24,280] Valuable member of the church.
+- [00:18:24,280 - 00:18:25,280] Of course.
+- [00:18:25,280 - 00:18:27,280] Valuable citizen of the country.
+- [00:18:27,280 - 00:18:29,280] Yes.
+- [00:18:29,280 - 00:18:31,280] Valuable in the sight of God.
+- [00:18:31,280 - 00:18:32,280] No doubt.
+- [00:18:32,280 - 00:18:34,280] We're all of equal value in the sight of God.
+- [00:18:34,280 - 00:18:36,780] But if you're not very valuable to
+- [00:18:36,780 - 00:18:39,280] the marketplace, you don't get much money.
+- [00:18:39,280 - 00:18:41,280] You say, well, it shouldn't be that.
+- [00:18:41,280 - 00:18:44,280] Well, then you got to start your own country.
+- [00:18:44,280 - 00:18:46,780] You know, this one's been in process for 200 years, and this
+- [00:18:46,780 - 00:18:49,280] is the best we've been able to come up with so far.
+- [00:18:49,280 - 00:18:51,280] But here's the key.
+- [00:18:51,280 - 00:18:53,280] You don't have to stay here.
+- [00:18:53,280 - 00:18:55,280] Now, there was a big debate in Congress
+- [00:18:55,280 - 00:18:57,280] last year that this $5 was not enough.
+- [00:18:57,280 - 00:18:58,280] Should be six.
+- [00:18:58,280 - 00:18:59,280] Should be six.
+- [00:18:59,280 - 00:19:00,280] Should be six.
+- [00:19:00,280 - 00:19:02,280] But we don't need legislation.
+- [00:19:02,280 - 00:19:05,280] Six is already on this ladder.
+- [00:19:05,280 - 00:19:07,280] The next step up.
+- [00:19:07,280 - 00:19:09,280] You know, if you work for McDonald's, they'll pay
+- [00:19:09,280 - 00:19:11,280] you $5 an hour to take out the trash.
+- [00:19:11,280 - 00:19:13,280] If you whistle while you take out
+- [00:19:13,280 - 00:19:15,280] the trash, they'll pay you $6 an hour.
+- [00:19:15,280 - 00:19:17,280] So we don't need that legislation.
+- [00:19:17,280 - 00:19:19,280] You just need to take lessons on how to whistle.
+- [00:19:19,280 - 00:19:21,280] Have a good attitude.
+- [00:19:21,280 - 00:19:24,780] Now, as you begin to climb this ladder, why
+- [00:19:24,780 - 00:19:28,280] would the marketplace pay some people $50 an hour?
+- [00:19:28,280 - 00:19:31,780] Answer, evidently, they must be
+- [00:19:31,780 - 00:19:35,280] more valuable to the marketplace.
+- [00:19:35,280 - 00:19:37,280] Ten times more valuable.
+- [00:19:37,280 - 00:19:39,280] And is that possible for someone
+- [00:19:39,280 - 00:19:41,280] to be ten times more valuable?
+- [00:19:41,280 - 00:19:43,280] Men earn $50 an hour instead of five?
+- [00:19:43,280 - 00:19:44,280] And the answer is yes.
+- [00:19:44,280 - 00:19:47,280] That's what America is all about.
+- [00:19:47,280 - 00:19:50,280] Now, why would the marketplace
+- [00:19:50,280 - 00:19:53,280] pay some people $500 an hour?
+- [00:19:53,280 - 00:19:56,780] Evidently, this person must be
+- [00:19:56,780 - 00:20:00,280] much more valuable to the marketplace.
+- [00:20:00,280 - 00:20:04,280] That's what's important to understand, to the marketplace.
+- [00:20:04,280 - 00:20:06,780] And would the marketplace pay one
+- [00:20:06,780 - 00:20:09,280] person $80 million for one year's work?
+- [00:20:09,280 - 00:20:11,280] And the answer is, of course.
+- [00:20:11,280 - 00:20:13,780] If you helped a company make a
+- [00:20:13,780 - 00:20:16,280] billion dollars, would they pay you $80 million?
+- [00:20:16,280 - 00:20:19,280] I'm telling you, it is possible.
+- [00:20:19,280 - 00:20:21,280] And that's why America is so exciting.
+- [00:20:21,280 - 00:20:24,280] That's why this financial ladder is so exciting.
+- [00:20:24,280 - 00:20:26,780] It's possible for all of this to come true
+- [00:20:26,780 - 00:20:29,280] for all of you, no matter where you start.
+- [00:20:29,280 - 00:20:32,780] As a student in school, just getting started out
+- [00:20:32,780 - 00:20:36,280] there in the workplace, this is all possible for you.
+- [00:20:36,280 - 00:20:38,280] Now, Mr. Shouff gave me the
+- [00:20:38,280 - 00:20:40,280] clue on how to climb this ladder.
+- [00:20:40,280 - 00:20:42,280] I climbed this ladder as
+- [00:20:42,280 - 00:20:44,280] high as I wanted to climb.
+- [00:20:44,280 - 00:20:46,280] Now, we're talking primarily economics here.
+- [00:20:46,280 - 00:20:50,780] There's a lot of other ways to become valuable to your family,
+- [00:20:50,780 - 00:20:55,280] valuable to your friends, valuable to the community, valuable to the team, right?
+- [00:20:55,280 - 00:21:00,280] Valuable to the team effort, valuable to the concert.
+- [00:21:00,280 - 00:21:02,280] But here's what he said to me.
+- [00:21:02,280 - 00:21:05,780] In climbing this ladder economically, all you have to do
+- [00:21:05,780 - 00:21:09,280] is work harder on yourself than you do on your job.
+- [00:21:10,280 - 00:21:14,280] Once I heard that, it made sense to me.
+- [00:21:14,280 - 00:21:17,280] I kept hoping that everything else would change around me.
+- [00:21:17,280 - 00:21:22,280] Found out that if I went to work on myself, worked on my
+- [00:21:22,280 - 00:21:27,280] skills, worked on my language, if I became better than I was each year,
+- [00:21:27,280 - 00:21:31,780] if I grew in skills and language and vocabulary
+- [00:21:31,780 - 00:21:36,280] and competence, then I would become attractive to the marketplace.
+- [00:21:36,280 - 00:21:38,280] Not very long ago, a company called me and said,
+- [00:21:38,280 - 00:21:40,280] Mr. Rohn, we're expanding into the market.
+- [00:21:40,280 - 00:21:42,280] We're expanding internationally.
+- [00:21:42,280 - 00:21:43,780] We'd like to have a bit
+- [00:21:43,780 - 00:21:45,280] of your expertise to help us.
+- [00:21:45,280 - 00:21:47,280] Would you give us a bit of your time?
+- [00:21:47,280 - 00:21:49,280] We'll add some millions to your fortune.
+- [00:21:49,280 - 00:21:51,280] And I said, okay.
+- [00:21:51,280 - 00:21:53,280] And I thought later, isn't that interesting?
+- [00:21:53,280 - 00:21:54,280] They would call me.
+- [00:21:54,280 - 00:21:56,280] Then my second thought was, of course they'd call me.
+- [00:21:56,280 - 00:21:58,280] Who else would they call?
+- [00:21:58,280 - 00:22:00,280] I can get the job done.
+- [00:22:00,280 - 00:22:03,780] Now, what a contrast for me, farm boy from Idaho, raised
+- [00:22:03,780 - 00:22:07,280] in obscurity, parents of modest means, broke when I was 25.
+- [00:22:07,280 - 00:22:09,280] How come I would get a telephone call?
+- [00:22:09,280 - 00:22:11,780] Why would someone offer me a lot of
+- [00:22:11,780 - 00:22:14,280] money to help them in expanding around the world?
+- [00:22:14,280 - 00:22:17,780] Simple answer, evidently, something happened to me
+- [00:22:17,780 - 00:22:21,280] between age 25 and where I am today.
+- [00:22:21,280 - 00:22:23,280] And I can tell you where it all started.
+- [00:22:23,280 - 00:22:25,780] From my teacher, Mr. Shouff, who said to me,
+- [00:22:25,780 - 00:22:28,280] we don't have to change what's going on out there.
+- [00:22:28,280 - 00:22:30,280] That's the wind that's blowing.
+- [00:22:30,280 - 00:22:32,280] All we have to do is
+- [00:22:32,280 - 00:22:34,280] change what's going on in here.
+- [00:22:34,280 - 00:22:36,280] And now there are several ways
+- [00:22:36,280 - 00:22:38,280] to do that on personal development.
+- [00:22:38,280 - 00:22:40,280] And let me give you those ways.
+- [00:22:40,280 - 00:22:42,280] Here's the first one.
+- [00:22:42,280 - 00:22:46,280] We must learn from personal experience.
+- [00:22:46,280 - 00:22:48,280] Pretty simple.
+- [00:22:48,280 - 00:22:50,280] Learn from what happens to you.
+- [00:22:50,280 - 00:22:52,280] Take a look back over the last few months.
+- [00:22:52,280 - 00:22:54,280] Did you make some mistakes?
+- [00:22:54,280 - 00:22:56,280] How could you correct those for the future?
+- [00:22:56,280 - 00:22:58,280] Take a look back over the last year.
+- [00:22:58,280 - 00:23:00,280] Have you done it right or done it wrong?
+- [00:23:00,280 - 00:23:02,280] Let's correct it for the next year.
+- [00:23:02,280 - 00:23:04,280] Learn from your personal experience.
+- [00:23:04,280 - 00:23:06,280] Mr. Shouff asked me when I first met him.
+- [00:23:06,280 - 00:23:08,280] He said, Mr. Owen, how are you doing?
+- [00:23:08,280 - 00:23:10,280] You've been out there now six years.
+- [00:23:10,280 - 00:23:12,280] And I said, I'm not doing very well.
+- [00:23:12,280 - 00:23:15,280] He said, I suggest you not do that anymore.
+- [00:23:15,280 - 00:23:18,280] What a simple, swift analysis to my situation.
+- [00:23:18,280 - 00:23:20,280] He said, if you keep doing it, the
+- [00:23:20,280 - 00:23:22,280] next six years will be like the last six.
+- [00:23:22,280 - 00:23:24,280] You don't want that to happen.
+- [00:23:24,280 - 00:23:25,280] Let's make the changes.
+- [00:23:25,280 - 00:23:27,280] So learn from your personal experience.
+- [00:23:27,280 - 00:23:29,780] Now here's number two, why I came
+- [00:23:29,780 - 00:23:32,280] to share this video experience with you today.
+- [00:23:32,280 - 00:23:35,280] And that, I call it OPE.
+- [00:23:35,280 - 00:23:38,280] Other people's experiences.
+- [00:23:38,280 - 00:23:40,280] That's me.
+- [00:23:40,280 - 00:23:41,280] Other people.
+- [00:23:41,280 - 00:23:42,280] That's your teacher.
+- [00:23:42,280 - 00:23:43,280] Other people.
+- [00:23:43,280 - 00:23:45,280] That's your friends and colleagues.
+- [00:23:45,280 - 00:23:46,280] Other people.
+- [00:23:46,280 - 00:23:48,780] The people you meet that can
+- [00:23:48,780 - 00:23:51,280] pass along to you their experiences.
+- [00:23:51,280 - 00:23:55,280] What's happened to them, the mistakes they made, how they corrected them, how they changed
+- [00:23:55,280 - 00:23:59,280] their health and changed their bank account and changed their income and changed their future.
+- [00:23:59,280 - 00:24:00,280] That's it.
+- [00:24:00,280 - 00:24:01,280] Other people.
+- [00:24:01,280 - 00:24:03,280] Now there's two kinds of people to learn from.
+- [00:24:03,280 - 00:24:05,280] One is failures.
+- [00:24:05,280 - 00:24:07,280] It's too bad failures don't give success.
+- [00:24:07,280 - 00:24:09,280] Failures don't give seminars, right?
+- [00:24:09,280 - 00:24:10,280] That would be valuable.
+- [00:24:10,280 - 00:24:12,280] Bring your notebook.
+- [00:24:12,280 - 00:24:15,780] Have them tell you how they lost it all and threw it all away,
+- [00:24:15,780 - 00:24:19,280] threw their health away and threw their friendships away and things didn't work out well.
+- [00:24:19,280 - 00:24:21,280] That would be valuable.
+- [00:24:21,280 - 00:24:23,280] But now then we must also learn
+- [00:24:23,280 - 00:24:25,280] from positive people that have done well.
+- [00:24:25,280 - 00:24:27,280] They've got the health and so we
+- [00:24:27,280 - 00:24:29,280] ask them, how did you become so healthy?
+- [00:24:29,280 - 00:24:31,280] They've got the skills so we ask
+- [00:24:31,280 - 00:24:33,280] them, how did you become this skillful?
+- [00:24:33,280 - 00:24:35,280] They've got the income so we ask them, how did
+- [00:24:35,280 - 00:24:37,280] you get here in such a short period of time?
+- [00:24:37,280 - 00:24:41,280] So now here's what's important in personal development.
+- [00:24:41,280 - 00:24:43,280] In learning from other people,
+- [00:24:43,280 - 00:24:45,280] we learn number one by observation.
+- [00:24:45,280 - 00:24:48,280] We learn what we see.
+- [00:24:48,280 - 00:24:51,280] We watch people that are successful in what they do.
+- [00:24:51,280 - 00:24:54,280] In sports, we watch their disciplines.
+- [00:24:54,280 - 00:24:57,280] In business, we watch their disciplines.
+- [00:24:57,280 - 00:25:00,280] By observation, what we can see.
+- [00:25:00,280 - 00:25:03,280] The reason I created this video is something
+- [00:25:03,280 - 00:25:06,280] that you could see someone's experiences translated for you.
+- [00:25:06,280 - 00:25:09,280] Second, we learn by what we hear.
+- [00:25:09,280 - 00:25:13,280] I've got some of my lectures on cassette tapes so
+- [00:25:13,280 - 00:25:17,280] you know you can take them with you wherever you go.
+- [00:25:17,280 - 00:25:19,280] And learn by listening.
+- [00:25:19,280 - 00:25:23,280] Turn your car into a mobile classroom and listen.
+- [00:25:23,280 - 00:25:26,280] And then listen to the sermon on Sunday morning.
+- [00:25:26,280 - 00:25:27,280] Listen to the lectures.
+- [00:25:27,280 - 00:25:28,280] Listen to the teacher.
+- [00:25:28,280 - 00:25:31,280] Listen to someone who's got something good to say.
+- [00:25:31,280 - 00:25:33,280] And then number three is
+- [00:25:33,280 - 00:25:35,280] vitally important on personal development.
+- [00:25:35,280 - 00:25:38,280] And that is read all the books.
+- [00:25:38,280 - 00:25:42,280] All the books you can possibly read in your lifetime.
+- [00:25:42,280 - 00:25:44,280] Mr. Shoff got me started on my library.
+- [00:25:44,280 - 00:25:46,280] I've got one of the better libraries.
+- [00:25:46,280 - 00:25:47,780] Haven't read everything in it but
+- [00:25:47,780 - 00:25:49,280] I feel smarter just walking in it.
+- [00:25:49,280 - 00:25:50,280] My library.
+- [00:25:50,280 - 00:25:52,280] At least I was smart enough to buy it.
+- [00:25:52,280 - 00:25:54,280] Now I've got to be smart enough to read it.
+- [00:25:54,280 - 00:25:56,780] Then of course I've got to be smart
+- [00:25:56,780 - 00:25:59,280] enough to decide what's valuable and then do it.
+- [00:25:59,280 - 00:26:00,280] But this one is very important.
+- [00:26:00,280 - 00:26:02,280] Become a good reader.
+- [00:26:02,280 - 00:26:04,280] Some books that helped change my life.
+- [00:26:04,280 - 00:26:05,280] Mr. Shoff recommended them.
+- [00:26:05,280 - 00:26:07,280] He recommended of course the Bible.
+- [00:26:07,280 - 00:26:09,280] And my parents made sure I was a
+- [00:26:09,280 - 00:26:11,280] pretty good scholar by the time I was 18.
+- [00:26:11,280 - 00:26:13,280] That's been so beneficial for me.
+- [00:26:13,280 - 00:26:15,280] Drawing from those illustrations.
+- [00:26:15,280 - 00:26:17,280] Reading about those stories.
+- [00:26:17,280 - 00:26:19,280] People who made it and people who didn't make it.
+- [00:26:19,280 - 00:26:21,280] And what the difference was.
+- [00:26:21,280 - 00:26:22,780] And then other books that
+- [00:26:22,780 - 00:26:24,280] helped to really change my life.
+- [00:26:24,280 - 00:26:28,280] One called Think and Grow Rich by Napoleon Hill.
+- [00:26:28,280 - 00:26:30,780] And then a book that helped me become
+- [00:26:30,780 - 00:26:33,280] financially independent by the time I was 31.
+- [00:26:33,280 - 00:26:34,280] And that book is called
+- [00:26:34,280 - 00:26:38,280] The Richest Man in Babylon by George Clayson.
+- [00:26:38,280 - 00:26:40,280] And I'm going to share a little bit of that
+- [00:26:40,280 - 00:26:42,280] book with you when I get to financial independence today.
+- [00:26:42,280 - 00:26:44,280] Our third subject.
+- [00:26:44,280 - 00:26:46,280] But I started reading the books.
+- [00:26:46,280 - 00:26:48,280] Attending the classes.
+- [00:26:48,280 - 00:26:50,780] Making sure that I got in front
+- [00:26:50,780 - 00:26:53,280] of people that had something good to say.
+- [00:26:53,280 - 00:26:56,280] And then I started keeping a journal.
+- [00:26:56,280 - 00:26:57,780] One of the major things my teacher
+- [00:26:57,780 - 00:26:59,280] taught me was to keep a journal.
+- [00:26:59,280 - 00:27:01,280] He said don't trust your memory.
+- [00:27:01,280 - 00:27:03,280] If you hear something good just make a little note.
+- [00:27:03,280 - 00:27:05,280] And write it down.
+- [00:27:05,280 - 00:27:08,280] Now at first I took notes on pieces of paper.
+- [00:27:08,280 - 00:27:11,280] And torn off corners and backs of old envelopes.
+- [00:27:11,280 - 00:27:13,280] And it didn't serve me well.
+- [00:27:13,280 - 00:27:14,280] You know thrown in a drawer.
+- [00:27:14,280 - 00:27:17,280] Then I learned to keep a journal.
+- [00:27:17,280 - 00:27:19,280] A bound copy of all my notes.
+- [00:27:19,280 - 00:27:22,280] So I would suggest you do the same.
+- [00:27:22,280 - 00:27:23,280] Things that impress you.
+- [00:27:23,280 - 00:27:25,280] A poem that impresses you.
+- [00:27:25,280 - 00:27:27,280] When you attend a class.
+- [00:27:27,280 - 00:27:29,280] Some of the ideas that impressed you.
+- [00:27:29,280 - 00:27:30,280] Jot them down.
+- [00:27:30,280 - 00:27:32,280] You read something in a magazine.
+- [00:27:32,280 - 00:27:33,280] Right?
+- [00:27:33,280 - 00:27:34,280] Some ideas.
+- [00:27:34,280 - 00:27:35,280] Take those out.
+- [00:27:35,280 - 00:27:36,280] Put them in your journal.
+- [00:27:36,280 - 00:27:37,280] Keep a good journal the rest of your life.
+- [00:27:37,280 - 00:27:38,280] This will serve you well.
+- [00:27:38,280 - 00:27:40,280] My journals make up a
+- [00:27:40,280 - 00:27:42,280] significant portion of my own library.
+- [00:27:42,280 - 00:27:45,280] And if you saw my library and saw my journals.
+- [00:27:45,280 - 00:27:47,280] I tell you what you'd have to say.
+- [00:27:47,280 - 00:27:49,280] This is the library.
+- [00:27:49,280 - 00:27:51,280] And these are the journals of a very serious student.
+- [00:27:51,280 - 00:27:53,780] No wonder Mr. Rohn is invited to lecture
+- [00:27:53,780 - 00:27:56,280] and speak on his experiences around the world.
+- [00:27:56,280 - 00:27:58,280] So I want the same thing to happen to you.
+- [00:27:58,280 - 00:28:00,280] Value captured.
+- [00:28:00,280 - 00:28:02,280] That you can resort to later.
+- [00:28:02,280 - 00:28:04,280] And then go back over it and review it.
+- [00:28:04,280 - 00:28:06,280] And let it become valuable to you.
+- [00:28:06,280 - 00:28:08,280] So that's my first subject.
+- [00:28:08,280 - 00:28:09,280] Personal development.
+- [00:28:09,280 - 00:28:12,280] Work harder on yourself than you do on your job.
+- [00:28:12,280 - 00:28:14,280] Develop the skills.
+- [00:28:14,280 - 00:28:15,280] Learn the lessons.
+- [00:28:15,280 - 00:28:17,280] Take the classes.
+- [00:28:17,280 - 00:28:21,280] Absorb all that is being taught to you these days.
+- [00:28:21,280 - 00:28:22,280] And then later on of
+- [00:28:22,280 - 00:28:23,280] course you can sort it out.
+- [00:28:23,280 - 00:28:24,280] What's valuable to you.
+- [00:28:24,280 - 00:28:26,280] And how to refine it.
+- [00:28:26,280 - 00:28:27,280] For your business and for
+- [00:28:27,280 - 00:28:28,280] your life and for your future.
+- [00:28:28,280 - 00:28:30,280] But the main thing is to get it.
+- [00:28:30,280 - 00:28:32,280] And start this process of personal change.
+- [00:28:32,280 - 00:28:34,280] Personal development.
+- [00:28:34,280 - 00:28:36,280] And let me say it one more time.
+- [00:28:36,280 - 00:28:38,280] If you will change.
+- [00:28:38,280 - 00:28:40,280] Everything will change for you.
+- [00:28:40,280 - 00:28:41,280] You'll never be the same.
+- [00:28:41,280 - 00:28:42,280] You'll keep growing.
+- [00:28:42,280 - 00:28:44,280] As you look back on a few months.
+- [00:28:44,280 - 00:28:45,280] Look back on a few years.
+- [00:28:45,280 - 00:28:47,280] You won't believe the progress you can make.
+- [00:28:47,280 - 00:28:48,280] Economically.
+- [00:28:48,280 - 00:28:49,280] Your relationship with your family.
+- [00:28:49,280 - 00:28:51,280] Your friends.
+- [00:28:51,280 - 00:28:53,280] And whether you're in sports or economics or whatever.
+- [00:28:53,280 - 00:28:55,280] I'm telling you.
+- [00:28:55,280 - 00:28:57,280] That whole process of committing yourself.
+- [00:28:57,280 - 00:28:59,280] For personal change.
+- [00:28:59,280 - 00:29:00,280] Personal value.
+- [00:29:00,280 - 00:29:02,280] Can really make your life.
+- [00:29:02,280 - 00:29:04,280] Unique and worthwhile.
+- [00:29:04,280 - 00:29:06,280] Now let's cover the second subject.
+- [00:29:06,280 - 00:29:08,280] On setting goals.
+- [00:29:08,280 - 00:29:10,280] Mr. Shoff gave me some tips on setting goals.
+- [00:29:10,280 - 00:29:12,280] That changed my life forever.
+- [00:29:12,280 - 00:29:14,280] And I want to share those with you.
+- [00:29:20,280 - 00:29:22,280] So let's talk about setting goals.
+- [00:29:22,280 - 00:29:24,280] And I also want to tie it.
+- [00:29:24,280 - 00:29:26,280] To personal development.
+- [00:29:26,280 - 00:29:28,280] And you'll see how I'm going to do it.
+- [00:29:28,280 - 00:29:30,280] As I progress here.
+- [00:29:30,280 - 00:29:32,280] Setting goals.
+- [00:29:32,280 - 00:29:34,280] We need to take a look into the future.
+- [00:29:34,280 - 00:29:36,280] There are four things.
+- [00:29:36,280 - 00:29:38,280] To consider in terms of attitude.
+- [00:29:38,280 - 00:29:40,280] One is how you feel about the past.
+- [00:29:40,280 - 00:29:42,280] Best advice I can give you on that.
+- [00:29:42,280 - 00:29:44,280] Is treat the past as a school.
+- [00:29:44,280 - 00:29:46,280] Let it teach you.
+- [00:29:46,280 - 00:29:48,280] The mistakes you've made.
+- [00:29:48,280 - 00:29:50,280] The things that went wrong.
+- [00:29:50,280 - 00:29:52,280] The things that didn't work.
+- [00:29:52,280 - 00:29:54,280] Don't use the past as a burden to carry.
+- [00:29:54,280 - 00:29:56,280] And don't use the past as a club.
+- [00:29:56,280 - 00:29:58,280] To beat yourself to death.
+- [00:29:58,280 - 00:29:59,280] Past losses.
+- [00:29:59,280 - 00:30:00,280] Past failures.
+- [00:30:00,280 - 00:30:01,280] Past failures.
+- [00:30:01,280 - 00:30:03,280] Past mistakes.
+- [00:30:03,280 - 00:30:05,280] But let the past be a school.
+- [00:30:05,280 - 00:30:07,280] Tough school maybe.
+- [00:30:07,280 - 00:30:09,280] We've all been through some tough stuff.
+- [00:30:09,280 - 00:30:11,280] So if you feel good about the past.
+- [00:30:11,280 - 00:30:13,280] Draw from it for experience.
+- [00:30:13,280 - 00:30:15,280] And let it teach you.
+- [00:30:15,280 - 00:30:17,280] Then next is how you feel about the future.
+- [00:30:17,280 - 00:30:19,280] We've got to have the future well designed.
+- [00:30:19,280 - 00:30:21,280] The future is called the promise.
+- [00:30:21,280 - 00:30:23,280] The future is called the promise.
+- [00:30:23,280 - 00:30:25,280] And here's what we teach in our leadership series.
+- [00:30:25,280 - 00:30:27,280] And here's what we teach in our leadership series.
+- [00:30:27,280 - 00:30:29,280] The promise of the future can be an awesome force.
+- [00:30:29,280 - 00:30:31,280] The promise of the future can be an awesome force.
+- [00:30:31,280 - 00:30:33,280] For your own future.
+- [00:30:33,280 - 00:30:35,280] The promise of the future.
+- [00:30:35,280 - 00:30:37,280] Designing the future.
+- [00:30:37,280 - 00:30:39,280] There's two ways to face the future.
+- [00:30:39,280 - 00:30:41,280] One is with apprehension.
+- [00:30:41,280 - 00:30:43,280] And the other is with anticipation.
+- [00:30:43,280 - 00:30:45,280] I promise you in my travels around the world.
+- [00:30:45,280 - 00:30:47,280] Most people face the future with apprehension.
+- [00:30:47,280 - 00:30:49,280] And here's why.
+- [00:30:49,280 - 00:30:51,280] They don't have it well designed.
+- [00:30:51,280 - 00:30:52,280] They've sort of left that
+- [00:30:52,280 - 00:30:53,280] up to someone else to fix.
+- [00:30:53,280 - 00:30:55,280] But here's the best way to face the future.
+- [00:30:55,280 - 00:30:57,280] With anticipation.
+- [00:30:57,280 - 00:30:59,280] And you can face the future with anticipation.
+- [00:30:59,280 - 00:31:01,280] If.
+- [00:31:01,280 - 00:31:03,280] The future is clear.
+- [00:31:03,280 - 00:31:05,280] If the future is well designed.
+- [00:31:05,280 - 00:31:11,280] And I would like to have you consider some thoughts with me that help
+- [00:31:11,280 - 00:31:17,280] me to really change my future by giving it some thought and some consideration.
+- [00:31:17,280 - 00:31:19,280] And here it is.
+- [00:31:19,280 - 00:31:21,280] In setting goals it's very simple.
+- [00:31:21,280 - 00:31:23,280] Number one, decide what you want.
+- [00:31:23,280 - 00:31:25,280] You just take a little time.
+- [00:31:25,280 - 00:31:27,280] You sit down and say what do I want?
+- [00:31:27,280 - 00:31:29,280] What kind of skills do I want?
+- [00:31:29,280 - 00:31:31,280] What kind of income do I want for the future?
+- [00:31:31,280 - 00:31:33,280] What would I like?
+- [00:31:33,280 - 00:31:35,280] Where would I like to go?
+- [00:31:35,280 - 00:31:37,280] Places I'd like to visit?
+- [00:31:37,280 - 00:31:39,280] Habits I'd like to acquire?
+- [00:31:39,280 - 00:31:41,280] Skills I'd like to have?
+- [00:31:41,280 - 00:31:42,280] You just take a little time
+- [00:31:42,280 - 00:31:43,280] to think about what you want.
+- [00:31:43,280 - 00:31:45,280] Economics?
+- [00:31:45,280 - 00:31:47,280] Friendships?
+- [00:31:47,280 - 00:31:49,280] People you'd like to meet?
+- [00:31:49,280 - 00:31:51,280] Places you'd like to go?
+- [00:31:51,280 - 00:31:53,280] You just take some time.
+- [00:31:53,280 - 00:31:54,280] And then I suggest when you've thought about
+- [00:31:54,280 - 00:31:55,280] what you want for the future, make a list.
+- [00:31:55,280 - 00:31:57,280] Just jot it all down.
+- [00:31:57,280 - 00:31:59,280] It's really a very simple thing.
+- [00:31:59,280 - 00:32:01,280] It's a very simple process.
+- [00:32:01,280 - 00:32:03,280] And then here's number three.
+- [00:32:03,280 - 00:32:05,280] Keep all the old lists.
+- [00:32:05,280 - 00:32:07,280] I'm telling you this served me so well.
+- [00:32:07,280 - 00:32:09,280] Keeping my old list of goals.
+- [00:32:09,280 - 00:32:13,280] I look back now 10, 20 years ago at goals I set, lists
+- [00:32:13,280 - 00:32:17,280] I made, and I smile now because here's what I thought was so important.
+- [00:32:17,280 - 00:32:19,280] You know, 20 years ago.
+- [00:32:19,280 - 00:32:21,280] Now some of those things aren't even on my list.
+- [00:32:21,280 - 00:32:23,280] I've got a new list.
+- [00:32:23,280 - 00:32:25,280] I've grown.
+- [00:32:25,280 - 00:32:27,280] I've changed.
+- [00:32:27,280 - 00:32:29,280] I've matured.
+- [00:32:29,280 - 00:32:30,280] I've grown to be a good
+- [00:32:30,280 - 00:32:31,280] person, and I'll never forget that.
+- [00:32:31,280 - 00:32:33,280] So if you want number two, write it down.
+- [00:32:33,280 - 00:32:35,280] Number three, keep the old list.
+- [00:32:35,280 - 00:32:37,280] And then here's number four.
+- [00:32:37,280 - 00:32:38,280] When you get something that's on
+- [00:32:38,280 - 00:32:39,280] one of these lists, check it off.
+- [00:32:39,280 - 00:32:40,280] Part of the fun of having
+- [00:32:40,280 - 00:32:41,280] a list is checking it off.
+- [00:32:41,280 - 00:32:43,280] And then if you can add some drama
+- [00:32:43,280 - 00:32:45,280] to checking it off, see, that's what really helps.
+- [00:32:45,280 - 00:32:46,280] I set a goal to go
+- [00:32:46,280 - 00:32:47,280] to Spain many, many years ago.
+- [00:32:47,280 - 00:32:48,280] And when I finally made my first trip to Spain, I
+- [00:32:48,280 - 00:32:49,280] had that journal with me that had that list in it.
+- [00:32:49,280 - 00:32:50,280] And while I had my journal on my lap, waiting
+- [00:32:50,280 - 00:32:51,280] for the wheel, I went out and found a little copy.
+- [00:32:51,280 - 00:32:52,970] And there I was having
+- [00:32:52,970 - 00:32:54,660] dinner, and I could feel the
+- [00:32:54,660 - 00:32:55,660] time it took for just a single person in the room to
+- [00:32:55,660 - 00:32:56,660] read a book, or even write a book, or something like that.
+- [00:32:56,660 - 00:32:59,880] my journal on my lap waiting for the wheels
+- [00:32:59,880 - 00:33:03,100] to touch down in Madrid. I waited until the wheels
+- [00:33:03,100 - 00:33:06,070] touched the runway and I checked it off, just
+- [00:33:06,070 - 00:33:09,040] adding a little drama. So part of the fun of
+- [00:33:09,040 - 00:33:11,970] having a list is checking it off. Now
+- [00:33:11,970 - 00:33:14,900] here's what's important about the list and designing
+- [00:33:14,900 - 00:33:19,430] your future. If the future gets clear, the price
+- [00:33:19,430 - 00:33:23,960] gets easier because you got to remember for every
+- [00:33:23,960 - 00:33:27,710] promise, there's a price to pay. Everybody's got to
+- [00:33:27,710 - 00:33:31,460] pay the price. Everybody's got to do the deal.
+- [00:33:31,680 - 00:33:34,330] Everybody's got to do the disciplines. Everybody
+- [00:33:34,330 - 00:33:36,980] has to pay. But here's what I've discovered.
+- [00:33:36,980 - 00:33:40,890] If the promise is clear and powerful, the price
+- [00:33:40,890 - 00:33:44,800] is easy to pay. The price is some classes. The
+- [00:33:44,800 - 00:33:47,150] price is a few books. The price is
+- [00:33:47,150 - 00:33:49,500] a few disciplines. The price is finding something
+- [00:33:49,500 - 00:33:51,060] that'll make your life better, make you
+- [00:33:51,060 - 00:33:52,620] grow, make you change, make you develop.
+- [00:33:53,460 - 00:33:53,700] So the first thing I want to do is I want to
+- [00:33:53,700 - 00:33:53,940] make sure that I'm not just a book. I'm not just a book.
+- [00:33:53,940 - 00:33:56,310] The first part of the key is to design the
+- [00:33:56,310 - 00:33:58,680] promise. Then what is the price to pay? I'm telling you,
+- [00:33:58,780 - 00:34:01,970] the price will be easy. Anybody in my audience can
+- [00:34:01,970 - 00:34:05,160] pay it, no matter where you are, where you come
+- [00:34:05,160 - 00:34:07,080] from. Color doesn't matter. Religion doesn't
+- [00:34:07,080 - 00:34:09,000] matter. Where you grew up doesn't matter.
+- [00:34:09,179 - 00:34:11,779] Circumstances don't matter. I'm telling you, if you'll
+- [00:34:11,779 - 00:34:14,380] make the promise of the future clear for
+- [00:34:14,380 - 00:34:16,580] yourself, the things you want, the places you want to
+- [00:34:16,580 - 00:34:18,780] go, the things you want to have, the person you
+- [00:34:18,780 - 00:34:21,250] want to become, the skills you want, the homes
+- [00:34:21,250 - 00:34:23,719] you want, the future you want, the friends you want,
+- [00:34:23,940 - 00:34:26,900] all of the values of life that you could
+- [00:34:26,900 - 00:34:29,860] possibly want. If you'll make that clear, make those lists
+- [00:34:29,860 - 00:34:33,449] and be serious about it. I promise you it's an
+- [00:34:33,449 - 00:34:37,040] easy price to pay. Anybody can pay it. And the
+- [00:34:37,040 - 00:34:39,389] best advice I can give you is if I can do
+- [00:34:39,389 - 00:34:41,739] it, you can do it. Farm boy from Idaho raised in obscurity.
+- [00:34:42,100 - 00:34:45,139] I changed my life, turned it upside down,
+- [00:34:45,139 - 00:34:48,179] turned it all around, found economics, found future,
+- [00:34:48,179 - 00:34:50,639] found promise. And if I can do it,
+- [00:34:50,639 - 00:34:53,100] you can do it. So start setting your goals.
+- [00:34:53,940 - 00:34:56,920] And see if you can't get a better excitement
+- [00:34:56,920 - 00:34:59,900] going for the things you want to accomplish for the
+- [00:34:59,900 - 00:35:03,640] future. Now here's my third subject, and
+- [00:35:03,640 - 00:35:07,380] that's called financial independence. Oh, by the way,
+- [00:35:07,380 - 00:35:10,460] before I get to financial independence, let me cover
+- [00:35:10,460 - 00:35:13,540] one more point. One of the major reasons for
+- [00:35:13,540 - 00:35:17,780] setting goals is for what they make of you
+- [00:35:17,780 - 00:35:22,020] in achieving them. My teacher advised me when I first
+- [00:35:22,020 - 00:35:23,880] got started at age 25. He said, Jim,
+- [00:35:23,940 - 00:35:26,740] why don't you set a goal to become a
+- [00:35:26,740 - 00:35:29,540] millionaire? He said, it's got a nice ring to it.
+- [00:35:31,080 - 00:35:34,080] You know, enough zeros to impress your accountant.
+- [00:35:34,080 - 00:35:37,080] And he said, I'm here to help you.
+- [00:35:37,500 - 00:35:39,320] You're only 25 years old. You've been to
+- [00:35:39,320 - 00:35:41,140] one year of college. You've got a beautiful family,
+- [00:35:41,140 - 00:35:43,740] every reason to do it. Why don't you set a
+- [00:35:43,740 - 00:35:46,340] goal to become a millionaire? And he said, here's why.
+- [00:35:47,540 - 00:35:49,640] And I thought he doesn't need to teach me
+- [00:35:49,640 - 00:35:51,740] why. Wouldn't it be nice to have a million dollars?
+- [00:35:52,180 - 00:35:53,940] He said, no, then you'll miss it.
+- [00:35:53,940 - 00:35:57,700] He said, here's why. For what it will make
+- [00:35:57,700 - 00:36:01,460] of you to achieve it. I'm telling you that statement
+- [00:36:01,460 - 00:36:04,170] changed my life. Set the kind of goals
+- [00:36:04,170 - 00:36:06,880] that will make something of you to achieve them.
+- [00:36:07,700 - 00:36:09,820] He said, now, once you become a millionaire,
+- [00:36:09,820 - 00:36:11,940] what's important is not the money. I thought
+- [00:36:11,940 - 00:36:14,060] that's kind of strange teaching. He said, honest,
+- [00:36:14,060 - 00:36:16,180] it isn't important. He said, you could just give
+- [00:36:16,180 - 00:36:19,030] the money away. Now I did better than that. I lost
+- [00:36:19,030 - 00:36:21,880] it all. By the time I was 31, I was a millionaire.
+- [00:36:21,880 - 00:36:23,500] By the time I was 33, I was broke.
+- [00:36:23,940 - 00:36:26,440] And I'll tell you a little bit about that story
+- [00:36:26,440 - 00:36:28,940] later. But when I lost all my money, guess what?
+- [00:36:28,940 - 00:36:31,700] I found out Mr. Shouf was right. What was valuable
+- [00:36:31,700 - 00:36:34,460] was not the money. What was valuable was what I
+- [00:36:34,460 - 00:36:37,220] became to earn the money. The skills I
+- [00:36:37,220 - 00:36:39,980] had, the knowledge I had about the marketplace,
+- [00:36:40,700 - 00:36:42,900] the values that I had going for
+- [00:36:42,900 - 00:36:45,100] me, they were more valuable than the money.
+- [00:36:45,100 - 00:36:47,140] And here's an important statement to remember. It's
+- [00:36:47,140 - 00:36:49,180] not what you get that makes you valuable.
+- [00:36:49,820 - 00:36:50,800] It's what you become.
+- [00:36:51,760 - 00:36:52,730] So part of the key here is to set
+- [00:36:52,730 - 00:36:53,700] the kind of goals that will make you a millionaire.
+- [00:36:53,700 - 00:36:57,860] Don't set them too low so that you don't have to grow and you don't
+- [00:36:57,860 - 00:37:02,020] have to read and you don't have to try and you don't have to stretch.
+- [00:37:02,020 - 00:37:07,740] Don't set them too low. And then don't sell out. Don't go for something that's
+- [00:37:07,740 - 00:37:13,460] going to cost you your virtue or cost you your values or sell out your principles.
+- [00:37:14,120 - 00:37:18,130] There's a good middle road here to follow. Goals that will inspire, goals
+- [00:37:18,130 - 00:37:22,140] that will help you grow, change, develop and become better than you are.
+- [00:37:22,939 - 00:37:23,439] Okay.
+- [00:37:23,700 - 00:37:25,700] Now let's talk about financial independence.
+- [00:37:27,240 - 00:37:30,410] How to become rich by 40, 35 if you're extra
+- [00:37:30,410 - 00:37:33,580] bright, much sooner if you find an opportunity like I did.
+- [00:37:34,120 - 00:37:35,580] Let me show you how I did it.
+- [00:37:36,839 - 00:37:37,899] Financial independence.
+- [00:37:40,859 - 00:37:41,819] First of all,
+- [00:37:43,480 - 00:37:48,520] I like the phrase financial independence.
+- [00:37:48,819 - 00:37:51,019] Some people are a little bit
+- [00:37:51,019 - 00:37:53,220] concerned about using the word becoming rich.
+- [00:37:53,700 - 00:37:55,700] Or becoming wealthy.
+- [00:37:55,700 - 00:37:57,240] And I can understand that.
+- [00:37:57,240 - 00:37:58,839] I struggled a little bit with this.
+- [00:37:58,839 - 00:38:01,089] Is it okay to go for
+- [00:38:01,089 - 00:38:03,339] becoming rich, go for becoming wealthy?
+- [00:38:03,339 - 00:38:04,809] And maybe that's a bit too
+- [00:38:04,809 - 00:38:06,279] strong a word or strong a term.
+- [00:38:06,279 - 00:38:07,819] So here's what I've come up with
+- [00:38:07,819 - 00:38:09,359] that I think is comfortable for me.
+- [00:38:09,359 - 00:38:12,859] And that is how to become financially independent.
+- [00:38:12,859 - 00:38:16,189] I think it's every person's heritage here,
+- [00:38:16,189 - 00:38:19,520] especially in America, to become financially independent.
+- [00:38:19,520 - 00:38:21,229] Now, let me give you
+- [00:38:21,229 - 00:38:22,939] my definition of financial independence.
+- [00:38:22,940 - 00:38:26,190] Financial independence is the ability to live
+- [00:38:26,190 - 00:38:29,440] from the income of your own personal resources.
+- [00:38:30,580 - 00:38:31,580] Financial independence.
+- [00:38:31,580 - 00:38:33,580] Now it depends on how you want to live.
+- [00:38:33,580 - 00:38:36,230] If you need two, three thousand dollars a month, if you need
+- [00:38:36,230 - 00:38:38,880] four or five thousand a month, if you need ten thousand a month.
+- [00:38:38,880 - 00:38:40,380] Some people may need, you
+- [00:38:40,380 - 00:38:41,880] know, a hundred thousand a month.
+- [00:38:41,880 - 00:38:45,880] But whatever you would need to live and you could
+- [00:38:45,880 - 00:38:49,880] earn that living from the income of your own personal resources.
+- [00:38:49,880 - 00:38:51,880] That's what I call financial freedom.
+- [00:38:51,880 - 00:38:52,780] Financial independence.
+- [00:38:52,780 - 00:38:54,780] And let me show you how to acquire it.
+- [00:38:54,780 - 00:38:59,280] If you start at age fifteen, between
+- [00:38:59,280 - 00:39:03,780] ages fifteen and thirty-five is twenty years.
+- [00:39:03,780 - 00:39:08,280] And in my personal opinion, based on my own studies and my own
+- [00:39:08,280 - 00:39:12,780] experience, twenty years, in my opinion, is enough time to become financially independent.
+- [00:39:12,780 - 00:39:16,780] If you're not, you don't live in the wrong country.
+- [00:39:16,780 - 00:39:19,780] Probably what's happened is you have the wrong plan.
+- [00:39:19,780 - 00:39:22,420] And it's easy to be wrong.
+- [00:39:22,420 - 00:39:23,420] It's easy to be a
+- [00:39:23,420 - 00:39:24,420] nice person with the wrong plan.
+- [00:39:24,420 - 00:39:26,420] I found that when I was twenty-five years old.
+- [00:39:26,420 - 00:39:27,920] I was broke at age twenty-five
+- [00:39:27,920 - 00:39:29,420] and I was a nice guy.
+- [00:39:29,420 - 00:39:30,420] You would have liked me.
+- [00:39:30,420 - 00:39:33,420] But I'm telling you, my plans up until
+- [00:39:33,420 - 00:39:36,420] then, especially my financial plan, left me broke.
+- [00:39:36,420 - 00:39:38,420] I totally changed it the next
+- [00:39:38,420 - 00:39:40,420] six years and I became financially independent.
+- [00:39:40,420 - 00:39:42,420] So I know what I'm talking about.
+- [00:39:42,420 - 00:39:45,420] It is possible in a reasonable amount of time.
+- [00:39:45,420 - 00:39:47,420] Fifteen to thirty-five.
+- [00:39:47,420 - 00:39:48,420] Whatever.
+- [00:39:48,420 - 00:39:49,420] Twenty years time.
+- [00:39:49,420 - 00:39:50,420] Enough time.
+- [00:39:50,420 - 00:39:51,420] You can do it in
+- [00:39:51,420 - 00:39:52,420] a much shorter period of time.
+- [00:39:52,420 - 00:39:54,420] Like I did, if you want to.
+- [00:39:54,420 - 00:39:56,420] But this is a reasonable enough time.
+- [00:39:56,420 - 00:39:57,420] But here's number one.
+- [00:39:57,420 - 00:40:00,420] First of all, you've got to have the right philosophy.
+- [00:40:02,420 - 00:40:05,420] Philosophy is our ability to gather knowledge
+- [00:40:05,420 - 00:40:08,420] and sort through it and decide what's valuable.
+- [00:40:08,420 - 00:40:10,420] To develop a philosophy about life.
+- [00:40:10,420 - 00:40:12,420] A philosophy about our health.
+- [00:40:12,420 - 00:40:15,420] A philosophy about our family relationships.
+- [00:40:15,420 - 00:40:17,420] A philosophy about economics.
+- [00:40:17,420 - 00:40:19,920] And if you develop the right philosophy,
+- [00:40:19,920 - 00:40:22,420] that's what helps to set this sail.
+- [00:40:22,420 - 00:40:24,920] So that in six years it
+- [00:40:24,920 - 00:40:27,420] takes you where you want to go.
+- [00:40:27,420 - 00:40:28,920] Instead of winding up like I did
+- [00:40:28,920 - 00:40:30,420] that first six years of my economics.
+- [00:40:30,420 - 00:40:31,420] Broke.
+- [00:40:31,420 - 00:40:32,420] No money.
+- [00:40:32,420 - 00:40:33,420] Empty bank account.
+- [00:40:33,420 - 00:40:35,420] The right philosophy.
+- [00:40:35,420 - 00:40:36,420] Now let me give you
+- [00:40:36,420 - 00:40:37,420] a couple of philosophies to consider.
+- [00:40:37,420 - 00:40:38,420] Here's the first one.
+- [00:40:38,420 - 00:40:40,420] It's called the philosophy of the poor.
+- [00:40:40,420 - 00:40:43,420] And here it is.
+- [00:40:43,420 - 00:40:46,920] Poor people usually spend their
+- [00:40:46,920 - 00:40:50,420] money and invest what's left.
+- [00:40:50,420 - 00:40:51,420] That's the philosophy.
+- [00:40:51,420 - 00:40:53,420] That's the philosophy of the poor.
+- [00:40:53,420 - 00:40:56,420] Now here's the philosophy of the rich.
+- [00:40:56,420 - 00:41:01,420] Rich people invest their money and spend what's left.
+- [00:41:01,420 - 00:41:03,420] And here's the startling answer.
+- [00:41:03,420 - 00:41:06,420] It really doesn't matter what the amount is.
+- [00:41:06,420 - 00:41:08,420] What's most important is not the amount.
+- [00:41:08,420 - 00:41:11,420] What's really important is the philosophy.
+- [00:41:11,420 - 00:41:14,420] So I would ask you to adopt this philosophy.
+- [00:41:14,420 - 00:41:18,420] Of spending after you have invested.
+- [00:41:18,420 - 00:41:20,420] Invest first, then spend.
+- [00:41:20,420 - 00:41:22,420] And I've got a little formula
+- [00:41:22,420 - 00:41:24,420] that I'm going to share with you.
+- [00:41:24,420 - 00:41:27,420] Now what should a child do with a dollar?
+- [00:41:27,420 - 00:41:29,920] I mean there's a lot of debate going on I'm sure
+- [00:41:29,920 - 00:41:32,420] across the country on what a child should do with a dollar.
+- [00:41:32,420 - 00:41:33,420] Here's one opinion.
+- [00:41:33,420 - 00:41:35,420] It's only a child and it's only a dollar.
+- [00:41:35,420 - 00:41:36,420] What difference does it make?
+- [00:41:36,420 - 00:41:38,420] Well, in my opinion it makes
+- [00:41:38,420 - 00:41:40,420] all the difference in the world.
+- [00:41:40,420 - 00:41:43,420] A person's economic future starts
+- [00:41:43,420 - 00:41:46,420] with a child with a dollar.
+- [00:41:46,420 - 00:41:48,420] Somebody says, oh no, you're only young once.
+- [00:41:48,420 - 00:41:49,420] Let him spend it all.
+- [00:41:49,420 - 00:41:52,420] Well, when would you hope that would stop?
+- [00:41:52,420 - 00:41:54,420] Somebody says, well, wait till he's 50
+- [00:41:54,420 - 00:41:56,420] and broke like me and then he'll learn.
+- [00:41:56,420 - 00:41:59,420] Well, no, we don't want to wait that long.
+- [00:41:59,420 - 00:42:01,420] If I would have known earlier
+- [00:42:01,420 - 00:42:03,420] than age 25, I would have changed.
+- [00:42:03,420 - 00:42:06,420] In high school, if they would have had classes
+- [00:42:06,420 - 00:42:09,420] called Wealth 1, Wealth 2, I'd have taken both classes.
+- [00:42:09,420 - 00:42:12,420] I would not have waited until age 25.
+- [00:42:12,420 - 00:42:14,420] So, the earlier the better.
+- [00:42:14,420 - 00:42:16,420] So, what should a child do with a dollar?
+- [00:42:16,420 - 00:42:18,420] Here's the simple premise to begin with.
+- [00:42:18,420 - 00:42:20,420] Don't spend it all.
+- [00:42:20,420 - 00:42:22,420] And if a child wants to spend the whole
+- [00:42:22,420 - 00:42:24,420] dollar, you got to say, hey, don't spend it all.
+- [00:42:24,420 - 00:42:27,420] You know, don't spend it all.
+- [00:42:27,420 - 00:42:28,420] They'll say, why not?
+- [00:42:28,420 - 00:42:29,420] It's my dollar.
+- [00:42:29,420 - 00:42:30,420] I earned it.
+- [00:42:30,420 - 00:42:31,920] You say, I know you earned
+- [00:42:31,920 - 00:42:33,420] it, but don't spend it all.
+- [00:42:33,420 - 00:42:34,420] They'll still say, why not?
+- [00:42:34,420 - 00:42:36,420] Say, let me show you why not.
+- [00:42:36,420 - 00:42:39,420] So, you put them in your car, take them to the other side
+- [00:42:39,420 - 00:42:42,420] of town and show them where people live that spend the whole dollar.
+- [00:42:42,420 - 00:42:44,420] Just drive them around.
+- [00:42:44,420 - 00:42:45,420] Kids learn best by visual.
+- [00:42:45,420 - 00:42:46,420] Just drive around and say,
+- [00:42:46,420 - 00:42:47,420] would you like to live here?
+- [00:42:47,420 - 00:42:48,420] Kid says, no.
+- [00:42:48,420 - 00:42:50,420] Would you like to live like these people live?
+- [00:42:50,420 - 00:42:52,420] Kid says, no, no.
+- [00:42:52,420 - 00:42:55,420] Then you can't spend the whole dollar.
+- [00:42:55,420 - 00:42:57,420] So, kids will get the message.
+- [00:42:57,420 - 00:43:00,420] So, you know, take them to the other side of town and show
+- [00:43:00,420 - 00:43:03,420] them around, unless you already live there, and then just show them around.
+- [00:43:03,420 - 00:43:06,420] Anyway, don't spend the whole dollar.
+- [00:43:06,420 - 00:43:08,420] Now, let me give you my best
+- [00:43:08,420 - 00:43:10,420] view of what to do with a dollar.
+- [00:43:10,420 - 00:43:12,920] And I promise you, if you started at age 15, now,
+- [00:43:12,920 - 00:43:15,420] if you're over 15, right, you've still got to be a dollar.
+- [00:43:15,420 - 00:43:16,420] Right?
+- [00:43:16,420 - 00:43:18,420] You've still got plenty of time.
+- [00:43:18,420 - 00:43:19,420] You've still got 20 years.
+- [00:43:19,420 - 00:43:21,420] You know, if you're 30, you've still got 20 years.
+- [00:43:21,420 - 00:43:23,920] I mean, you know, you've still got plenty of
+- [00:43:23,920 - 00:43:26,420] time to start what I'm about to share with you.
+- [00:43:26,420 - 00:43:29,420] What to do with a dollar.
+- [00:43:29,420 - 00:43:31,420] Here's my first bit of advice.
+- [00:43:31,420 - 00:43:37,420] Never spend more than 70 cents.
+- [00:43:37,420 - 00:43:40,420] Never spend more than 70 cents.
+- [00:43:40,420 - 00:43:42,920] Now, you've got to pick some number, and the number
+- [00:43:42,920 - 00:43:45,420] you pick is going to be determined by your philosophy.
+- [00:43:46,420 - 00:43:48,420] It's going to be determined by what
+- [00:43:48,420 - 00:43:50,420] you've been taught or your experience teaching yourself.
+- [00:43:50,420 - 00:43:53,420] When I first met my teacher, Mr. Shouf,
+- [00:43:53,420 - 00:43:56,420] I was at about 110% of each dollar.
+- [00:43:56,420 - 00:43:58,920] You know, I'm down at budget finance, hawking
+- [00:43:58,920 - 00:44:01,420] my furniture and my car one more time.
+- [00:44:01,420 - 00:44:03,420] And then I learned a
+- [00:44:03,420 - 00:44:05,420] whole better formula for financial independence.
+- [00:44:05,420 - 00:44:09,420] Number one, don't spend more than 70 cents.
+- [00:44:09,420 - 00:44:12,420] Now, kids say to me, well, okay, what
+- [00:44:12,420 - 00:44:15,420] do I do with the other 30 cents?
+- [00:44:15,420 - 00:44:17,420] And here's what I teach them.
+- [00:44:17,420 - 00:44:21,420] Ten cents for charity.
+- [00:44:21,420 - 00:44:24,420] Charity or church or helping
+- [00:44:24,420 - 00:44:27,420] people that can't help themselves.
+- [00:44:27,420 - 00:44:31,420] Ten cents to support worthy projects.
+- [00:44:31,420 - 00:44:33,420] Projects that you feel good about.
+- [00:44:33,420 - 00:44:35,420] Ten cents out of every dollar.
+- [00:44:35,420 - 00:44:38,420] It's called being generous with part
+- [00:44:38,420 - 00:44:41,420] of what you've taken out of society.
+- [00:44:41,420 - 00:44:44,420] Now, in my opinion, nothing teaches us character.
+- [00:44:45,420 - 00:44:47,420] Better than generosity.
+- [00:44:47,420 - 00:44:49,420] No class, no teacher, no book.
+- [00:44:49,420 - 00:44:53,420] Teaches character better than generosity.
+- [00:44:53,420 - 00:44:54,920] And the best time to start
+- [00:44:54,920 - 00:44:56,420] is when the amounts are small.
+- [00:44:56,420 - 00:44:58,920] And I know if kids learn these lessons
+- [00:44:58,920 - 00:45:01,420] well, they'll give a dime out of a dollar.
+- [00:45:01,420 - 00:45:03,420] Help people that can't help themselves.
+- [00:45:03,420 - 00:45:04,420] Support worthy projects.
+- [00:45:04,420 - 00:45:05,920] Or if you belong to a
+- [00:45:05,920 - 00:45:07,420] church, they teach tithe, peace of.
+- [00:45:07,420 - 00:45:09,420] That's very important.
+- [00:45:09,420 - 00:45:11,920] Now, because when the amounts get
+- [00:45:11,920 - 00:45:14,420] larger, sometimes it's a little more difficult.
+- [00:45:15,420 - 00:45:17,420] You know, giving 100,000 out of a million.
+- [00:45:17,420 - 00:45:18,420] Someone says, oh, if I
+- [00:45:18,420 - 00:45:19,420] had a million, I'd give 100,000.
+- [00:45:19,420 - 00:45:20,420] I'm not sure.
+- [00:45:20,420 - 00:45:22,420] That's a lot of money.
+- [00:45:22,420 - 00:45:23,420] So the time to start
+- [00:45:23,420 - 00:45:24,420] is when the amounts are small.
+- [00:45:24,420 - 00:45:26,420] Ten cents out of the dollar.
+- [00:45:26,420 - 00:45:27,420] Okay.
+- [00:45:27,420 - 00:45:29,420] Next ten cents.
+- [00:45:29,420 - 00:45:32,420] I call active capital.
+- [00:45:32,420 - 00:45:37,420] Active capital means do something to make a profit.
+- [00:45:37,420 - 00:45:39,420] Active capital.
+- [00:45:39,420 - 00:45:42,420] Set aside a portion of your income.
+- [00:45:42,420 - 00:45:44,420] Wages are okay.
+- [00:45:44,420 - 00:45:45,420] But I'm telling you.
+- [00:45:45,420 - 00:45:46,420] Wages will make you a living.
+- [00:45:46,420 - 00:45:48,420] Profits will make you a fortune.
+- [00:45:48,420 - 00:45:51,420] So set aside part of your
+- [00:45:51,420 - 00:45:54,420] income as capital called active capital.
+- [00:45:54,420 - 00:45:56,420] Any kind of project you can possibly think of.
+- [00:45:56,420 - 00:45:58,420] You can possibly come up with.
+- [00:45:58,420 - 00:45:59,420] I'm going to write a
+- [00:45:59,420 - 00:46:00,420] new book, I think, for kids.
+- [00:46:00,420 - 00:46:02,420] I think the title is going to
+- [00:46:02,420 - 00:46:04,420] be, of course, kids should pay taxes.
+- [00:46:04,420 - 00:46:06,420] It's kind of an interesting title.
+- [00:46:06,420 - 00:46:08,420] In California, kids do pay taxes.
+- [00:46:08,420 - 00:46:09,920] When a child walks into 7-Eleven,
+- [00:46:09,920 - 00:46:11,420] buys something that costs a dollar,
+- [00:46:11,420 - 00:46:14,420] the proprietor says, give me seven more pennies.
+- [00:46:14,420 - 00:46:17,420] And the child says, hey, what's these seven pennies for?
+- [00:46:17,420 - 00:46:20,420] And the proprietor says, that's the taxes.
+- [00:46:20,420 - 00:46:22,420] Kid says, well, hey, I'm only eight years old.
+- [00:46:22,420 - 00:46:23,920] Proprietor says, congratulations,
+- [00:46:23,920 - 00:46:25,420] you're my youngest taxpayer.
+- [00:46:25,420 - 00:46:27,420] Give me the money.
+- [00:46:27,420 - 00:46:30,420] So in California where I live, kids do pay taxes.
+- [00:46:30,420 - 00:46:32,420] Big question is, should they?
+- [00:46:32,420 - 00:46:34,420] And my book will answer that question.
+- [00:46:34,420 - 00:46:36,420] Of course, kids should pay taxes.
+- [00:46:36,420 - 00:46:37,420] Nothing is for free.
+- [00:46:37,420 - 00:46:39,420] If you want to ride your bicycle
+- [00:46:39,420 - 00:46:41,420] on the sidewalk instead of in the mud,
+- [00:46:41,420 - 00:46:43,420] you got to pay the seven pennies.
+- [00:46:43,420 - 00:46:44,420] Nothing is free.
+- [00:46:44,420 - 00:46:46,420] So we all have to pay.
+- [00:46:46,420 - 00:46:50,420] So, ten cents out of your living, out
+- [00:46:50,420 - 00:46:54,420] of the money you earn, set aside for capital.
+- [00:46:54,420 - 00:46:59,420] Capital to try your best to show a profit.
+- [00:46:59,420 - 00:47:00,920] And in my book, it's going to be
+- [00:47:00,920 - 00:47:02,420] all kinds of ways kids can make money, right?
+- [00:47:02,420 - 00:47:04,420] Two bicycles, one to ride and one to rent.
+- [00:47:04,420 - 00:47:07,420] I mean, you know, it doesn't take long to
+- [00:47:07,420 - 00:47:10,420] figure out some enterprise that will start making a profit.
+- [00:47:10,420 - 00:47:11,420] Then you must jot this
+- [00:47:11,420 - 00:47:12,420] down if you're taking a bicycle.
+- [00:47:12,420 - 00:47:14,420] You must jot this down if you're taking notes.
+- [00:47:14,420 - 00:47:17,420] Profits are better than wages.
+- [00:47:17,420 - 00:47:19,920] One, you can't usually start wages
+- [00:47:19,920 - 00:47:22,420] until you're about 16, 15, 16.
+- [00:47:22,420 - 00:47:25,420] But you can make a profit long
+- [00:47:25,420 - 00:47:28,420] before you're eligible to start earning wages.
+- [00:47:28,420 - 00:47:30,420] And then there's no limit to profits.
+- [00:47:30,420 - 00:47:33,420] And they can double and triple and quadruple.
+- [00:47:33,420 - 00:47:35,420] You know, there's no limit.
+- [00:47:35,420 - 00:47:38,420] It's incredible how fast profits can grow.
+- [00:47:38,420 - 00:47:40,420] So profits are better than wages.
+- [00:47:40,420 - 00:47:41,420] Wages make you a living.
+- [00:47:41,420 - 00:47:43,420] Profits make you a fortune.
+- [00:47:43,420 - 00:47:46,420] Now, the third 10 cents is vitally important.
+- [00:47:46,420 - 00:47:50,420] I call it passive capital.
+- [00:47:50,420 - 00:47:53,420] Capital you let somebody else use.
+- [00:47:53,420 - 00:47:55,420] A financial institution, stocks
+- [00:47:55,420 - 00:47:57,420] and bonds, mutual funds, whatever.
+- [00:47:57,420 - 00:47:59,420] Let someone else use it.
+- [00:47:59,420 - 00:48:00,420] You furnish the money.
+- [00:48:00,420 - 00:48:02,920] They use it to make a profit, but they
+- [00:48:02,920 - 00:48:05,420] pay you for the use of it called interest.
+- [00:48:05,420 - 00:48:06,920] And here's one of the things that
+- [00:48:06,920 - 00:48:08,420] will make you financially independent fairly quickly.
+- [00:48:08,420 - 00:48:11,420] And that's called compound interest.
+- [00:48:11,420 - 00:48:13,420] And this is how you get it.
+- [00:48:13,420 - 00:48:15,920] Letting someone else use a
+- [00:48:15,920 - 00:48:18,420] portion of your money, your substance.
+- [00:48:18,420 - 00:48:20,420] They show the profit.
+- [00:48:20,420 - 00:48:22,420] They pay you interest.
+- [00:48:22,420 - 00:48:24,420] And this passive capital, I'm telling
+- [00:48:24,420 - 00:48:26,420] you, over a sustained period of time,
+- [00:48:26,420 - 00:48:28,920] if you'll develop this little 10, 10,
+- [00:48:28,920 - 00:48:31,420] 10 and 70, especially starting at age 15,
+- [00:48:31,420 - 00:48:33,420] I'm telling you, by the time
+- [00:48:33,420 - 00:48:35,420] you're 35, you will be financially independent.
+- [00:48:35,420 - 00:48:37,420] You'll have the ability to live
+- [00:48:37,420 - 00:48:39,420] from the income of your own resources.
+- [00:48:39,420 - 00:48:41,420] And then one more point.
+- [00:48:41,420 - 00:48:42,420] On passive capital.
+- [00:48:42,420 - 00:48:43,420] There's a Bible philosophy.
+- [00:48:43,420 - 00:48:45,420] I'm an amateur on the Bible.
+- [00:48:45,420 - 00:48:48,920] But there's a Bible philosophy that teaches
+- [00:48:48,920 - 00:48:52,420] the borrower is servant to the lender.
+- [00:48:52,420 - 00:48:55,420] And if you want to be in a powerful
+- [00:48:55,420 - 00:48:58,420] position as you grow older, finally, when you become mature,
+- [00:48:58,420 - 00:49:00,420] maybe have your own business, things have
+- [00:49:00,420 - 00:49:02,420] worked out for you for the future.
+- [00:49:02,420 - 00:49:03,920] The position you always want to
+- [00:49:03,920 - 00:49:05,420] be in is the power position.
+- [00:49:05,420 - 00:49:07,420] And that's called the lender.
+- [00:49:07,420 - 00:49:09,420] The lender is the power position.
+- [00:49:09,420 - 00:49:10,420] So if kids learn this,
+- [00:49:10,420 - 00:49:12,420] so if kids learn early enough and then you ask
+- [00:49:12,420 - 00:49:14,420] them what they'd like to be when they grow up,
+- [00:49:14,420 - 00:49:17,420] I'm telling you, once they understand, they'll say, well, one of
+- [00:49:17,420 - 00:49:20,420] the things I want to be is one of those lenders.
+- [00:49:20,420 - 00:49:23,420] That's the power position, not the spender.
+- [00:49:23,420 - 00:49:25,420] No, you'll be pitied the rest of
+- [00:49:25,420 - 00:49:27,420] your life if you just become a spender.
+- [00:49:27,420 - 00:49:28,420] You've got to become a lender.
+- [00:49:28,420 - 00:49:29,920] And I think this is
+- [00:49:29,920 - 00:49:31,420] one of the formulas to follow.
+- [00:49:31,420 - 00:49:33,420] Ten cents out of every dollar.
+- [00:49:33,420 - 00:49:34,420] Let someone else use it.
+- [00:49:34,420 - 00:49:35,420] Be the lender.
+- [00:49:35,420 - 00:49:36,420] Power position.
+- [00:49:36,420 - 00:49:38,420] Then try to show a profit.
+- [00:49:38,420 - 00:49:42,420] Can't we teach our children how to take a dollar, search the
+- [00:49:42,420 - 00:49:46,420] neighborhood, find a broken wagon, pay a dollar for it, bring it home,
+- [00:49:46,420 - 00:49:49,920] you know, clean it up, sand it until it's clean, paint
+- [00:49:49,920 - 00:49:53,420] it red till it shines, straighten out the wheels till they're true,
+- [00:49:53,420 - 00:49:54,920] take it back to the
+- [00:49:54,920 - 00:49:56,420] neighborhood, sell it for five dollars?
+- [00:49:56,420 - 00:49:58,420] Anybody can do that.
+- [00:49:58,420 - 00:50:00,420] Now, does the child deserve four dollars profit?
+- [00:50:00,420 - 00:50:01,420] And the answer is yes.
+- [00:50:01,420 - 00:50:04,420] Society now has a mended wagon.
+- [00:50:04,420 - 00:50:06,420] And that's what America is all about.
+- [00:50:06,420 - 00:50:08,420] Finding something, touching it.
+- [00:50:08,420 - 00:50:09,420] Making it better.
+- [00:50:09,420 - 00:50:10,420] Making a profit.
+- [00:50:10,420 - 00:50:12,420] Taking part of your resources.
+- [00:50:12,420 - 00:50:14,420] Helping people who can't help themselves.
+- [00:50:14,420 - 00:50:16,420] Let someone else use it to make a profit.
+- [00:50:16,420 - 00:50:19,420] Some projects require more capital than one person has.
+- [00:50:19,420 - 00:50:21,420] Exciting.
+- [00:50:21,420 - 00:50:22,920] And then let them pay
+- [00:50:22,920 - 00:50:24,420] you for the use of it.
+- [00:50:24,420 - 00:50:27,420] America's had this philosophy now all these years.
+- [00:50:27,420 - 00:50:30,420] Communism has taught all these years capital belongs in the
+- [00:50:30,420 - 00:50:33,420] hands of the state, not in the hands of the people.
+- [00:50:33,420 - 00:50:35,420] We've been teaching all these years capital
+- [00:50:35,420 - 00:50:37,420] belongs in the hands of the people,
+- [00:50:37,420 - 00:50:39,420] not in the hands of the state.
+- [00:50:39,420 - 00:50:41,420] And we turned out to be right.
+- [00:50:41,420 - 00:50:43,420] Capital in the hands of the kids.
+- [00:50:43,420 - 00:50:45,420] Capital in the hands of the people.
+- [00:50:45,420 - 00:50:47,420] Enterprises that make a profit.
+- [00:50:47,420 - 00:50:48,420] Enterprises that grow.
+- [00:50:48,420 - 00:50:50,420] It's the hope of our future.
+- [00:50:50,420 - 00:50:53,420] So that little simple formula I hope will help you.
+- [00:50:53,420 - 00:50:55,420] Now one more key on
+- [00:50:55,420 - 00:50:57,420] financial independence and that is attitude.
+- [00:50:57,420 - 00:51:00,420] Attitude.
+- [00:51:00,420 - 00:51:02,420] Here's number one.
+- [00:51:02,420 - 00:51:05,420] I used to say I hate to pay my bills.
+- [00:51:05,420 - 00:51:07,420] My teacher straightened me out on that.
+- [00:51:07,420 - 00:51:08,420] He said, let's see Mr. Rohn.
+- [00:51:08,420 - 00:51:10,920] What you hate to do is pay $100 on
+- [00:51:10,920 - 00:51:13,420] an account and reduce your liabilities and increase your assets.
+- [00:51:13,420 - 00:51:14,920] I said, well, no, not if
+- [00:51:14,920 - 00:51:16,420] you look at it that way.
+- [00:51:16,420 - 00:51:17,920] He said, well, it all depends
+- [00:51:17,920 - 00:51:19,420] on how you look at it.
+- [00:51:19,420 - 00:51:21,420] So wouldn't you love to pay your
+- [00:51:21,420 - 00:51:23,420] bills, reduce your liabilities, increase your assets?
+- [00:51:23,420 - 00:51:26,420] You've got to have that kind of attitude.
+- [00:51:26,420 - 00:51:28,420] I found out the same attitude about taxes.
+- [00:51:28,420 - 00:51:30,420] I used to say I hate to pay my taxes.
+- [00:51:30,420 - 00:51:32,420] And Mr. Shove said, well, that's one way to live.
+- [00:51:32,420 - 00:51:34,420] And I said, well, that's the other way.
+- [00:51:34,420 - 00:51:36,420] That's the other way to live.
+- [00:51:36,420 - 00:51:38,920] But don't you understand taxes is how we care
+- [00:51:38,920 - 00:51:41,420] and feed the goose that lays the golden eggs.
+- [00:51:41,420 - 00:51:43,420] Wouldn't you want to do your share?
+- [00:51:43,420 - 00:51:45,420] Someone says, yes, but the goose eats too much.
+- [00:51:45,420 - 00:51:46,420] Probably true.
+- [00:51:46,420 - 00:51:48,420] But hey, we all eat too much.
+- [00:51:48,420 - 00:51:49,420] We all need to go on a diet.
+- [00:51:49,420 - 00:51:52,420] Better a fat goose than no goose.
+- [00:51:52,420 - 00:51:54,420] So I finally became a happy taxpayer.
+- [00:51:54,420 - 00:51:56,920] Now I think taxes are too high, so I'm
+- [00:51:56,920 - 00:51:59,420] working to get taxes lowered for our economic future.
+- [00:51:59,420 - 00:52:01,420] But then whatever they turn out to
+- [00:52:01,420 - 00:52:03,420] be, I gladly pay and do my part.
+- [00:52:03,420 - 00:52:05,920] Because that's what makes the whole system
+- [00:52:05,920 - 00:52:08,420] run, each of us doing our part.
+- [00:52:08,420 - 00:52:10,420] Now, I want these three
+- [00:52:10,420 - 00:52:12,420] subjects to be valuable for you.
+- [00:52:12,420 - 00:52:15,420] I want them to have meaning for you.
+- [00:52:15,420 - 00:52:19,420] I want you someday to be financially independent.
+- [00:52:19,420 - 00:52:21,920] I want you to have the personal
+- [00:52:21,920 - 00:52:24,420] development so that you feel good about yourself.
+- [00:52:24,420 - 00:52:27,920] If I had a chance to meet you someday, I'd like to have you show me the
+- [00:52:27,920 - 00:52:31,420] list of goals that you got started and say, Mr. Rohn, here's some I've already checked off.
+- [00:52:31,420 - 00:52:33,420] Here's the books I'm reading.
+- [00:52:33,420 - 00:52:34,420] Here's what's happened.
+- [00:52:34,420 - 00:52:35,420] I'm developing the skills.
+- [00:52:35,420 - 00:52:38,420] I'm better this year than I was last year.
+- [00:52:38,420 - 00:52:40,420] I've got more self-confidence.
+- [00:52:40,420 - 00:52:42,420] My skills are developing.
+- [00:52:42,420 - 00:52:43,420] That's what I want for you.
+- [00:52:43,420 - 00:52:45,920] And that's why I took the time to
+- [00:52:45,920 - 00:52:48,420] come and share in this video message with you.
+- [00:52:48,420 - 00:52:50,420] I do seminars all around the world.
+- [00:52:50,420 - 00:52:53,920] But this is one way that I can reach out and touch
+- [00:52:53,920 - 00:52:57,420] you in case you can't come to my seminars wherever I am.
+- [00:52:57,420 - 00:52:59,420] Maybe this video will reach you somewhere
+- [00:52:59,420 - 00:53:01,420] and it'll have an impact on your life.
+- [00:53:01,420 - 00:53:02,420] And what I'd like to do is,
+- [00:53:03,420 - 00:53:07,420] I'd like to help you to create a website that you can use later, hear
+- [00:53:07,420 - 00:53:11,420] about it, a letter, phone call, or to have a chance to meet you in person.
+- [00:53:11,420 - 00:53:13,920] And now I'd like to leave you
+- [00:53:13,920 - 00:53:16,420] with these four questions called Questions to Ponder.
+- [00:53:16,420 - 00:53:19,420] These questions were valuable for me.
+- [00:53:19,420 - 00:53:21,420] And I want to make them valuable for you.
+- [00:53:21,420 - 00:53:22,420] Here's the first one.
+- [00:53:22,420 - 00:53:24,420] Why?
+- [00:53:24,420 - 00:53:27,420] We all ask why we should work this hard.
+- [00:53:27,420 - 00:53:29,420] Why take that many classes?
+- [00:53:29,420 - 00:53:31,420] Why go to school that many years?
+- [00:53:31,420 - 00:53:32,420] You know?
+- [00:53:32,420 - 00:53:33,420] Why read books?
+- [00:53:33,420 - 00:53:34,420] Why work that hard?
+- [00:53:34,420 - 00:53:37,420] Why put yourself through the push-ups and the disciplines?
+- [00:53:37,420 - 00:53:38,420] Why?
+- [00:53:38,420 - 00:53:40,420] Good question, why?
+- [00:53:40,420 - 00:53:43,420] Best answer to why, I think, is the second question.
+- [00:53:43,420 - 00:53:45,420] Why not?
+- [00:53:45,420 - 00:53:47,920] Why not see how many books you can read, how
+- [00:53:47,920 - 00:53:50,420] many classes you can take, how many skills you can develop?
+- [00:53:50,420 - 00:53:53,420] Why not see how valuable you can become to
+- [00:53:53,420 - 00:53:56,420] the marketplace and to your friends and to your family?
+- [00:53:56,420 - 00:53:58,420] Why not see what you can make of yourself?
+- [00:53:58,420 - 00:53:59,920] Why not see how far you
+- [00:53:59,920 - 00:54:01,420] can go, how much you can see,
+- [00:54:01,420 - 00:54:04,420] how much you can earn, how much you can share?
+- [00:54:04,420 - 00:54:06,420] Why not?
+- [00:54:06,420 - 00:54:08,420] That's the heritage all of us have.
+- [00:54:08,420 - 00:54:09,920] In America especially, is to see what
+- [00:54:09,920 - 00:54:11,420] we can make out of our lives
+- [00:54:11,420 - 00:54:15,420] now that we've been given this extraordinary opportunity.
+- [00:54:15,420 - 00:54:17,420] Now my third question I'd
+- [00:54:17,420 - 00:54:19,420] love to ask you in person.
+- [00:54:19,420 - 00:54:21,420] But since I can't do it in person,
+- [00:54:21,420 - 00:54:23,420] I want to ask it of all of you.
+- [00:54:23,420 - 00:54:25,420] But I want you to take it personally.
+- [00:54:25,420 - 00:54:28,420] And my third question is, why not you?
+- [00:54:28,420 - 00:54:29,420] Why not you?
+- [00:54:29,420 - 00:54:31,420] With good self-esteem.
+- [00:54:31,420 - 00:54:34,420] Why not you starting to change and setting goals?
+- [00:54:34,420 - 00:54:36,420] Why not you starting to
+- [00:54:36,420 - 00:54:38,420] make progress toward financial independence?
+- [00:54:38,420 - 00:54:41,420] If I can do it, you can do it.
+- [00:54:41,420 - 00:54:42,920] I wish I had a lot
+- [00:54:42,920 - 00:54:44,420] more testimonials here today besides mine.
+- [00:54:44,420 - 00:54:46,420] A whole steady stream that would
+- [00:54:46,420 - 00:54:48,420] come by and tell you their story.
+- [00:54:48,420 - 00:54:50,420] Someone who started with nothing,
+- [00:54:50,420 - 00:54:52,420] finally run a big enterprise.
+- [00:54:52,420 - 00:54:54,420] A mother who was on welfare,
+- [00:54:54,420 - 00:54:56,420] now she owns her own business.
+- [00:54:56,420 - 00:54:57,920] In addition to my story, I
+- [00:54:57,920 - 00:54:59,420] wish I had a lot more.
+- [00:54:59,420 - 00:54:59,920] And if I had a lot more,
+- [00:54:59,920 - 00:55:00,420] I wish I had a lot more.
+- [00:55:00,420 - 00:55:02,420] And if all of them told their story,
+- [00:55:02,420 - 00:55:04,420] guess how they would probably wind up their story.
+- [00:55:04,420 - 00:55:07,420] They'd probably say just like me, why not you?
+- [00:55:07,420 - 00:55:08,420] If we can read, you can read.
+- [00:55:08,420 - 00:55:10,420] If we can change, you can change.
+- [00:55:10,420 - 00:55:11,420] If we can figure it
+- [00:55:11,420 - 00:55:12,420] out, you can figure it out.
+- [00:55:12,420 - 00:55:13,920] If we can turn it
+- [00:55:13,920 - 00:55:15,420] around, you can turn it around.
+- [00:55:15,420 - 00:55:16,420] There isn't anything you can't accomplish.
+- [00:55:16,420 - 00:55:19,420] That's what those testimonials would say.
+- [00:55:19,420 - 00:55:21,420] And so I want to say it to you personally.
+- [00:55:21,420 - 00:55:22,420] Why not you?
+- [00:55:22,420 - 00:55:23,420] You've got the brains.
+- [00:55:23,420 - 00:55:25,420] You've got the stamina.
+- [00:55:25,420 - 00:55:26,420] You've got the vitality.
+- [00:55:26,420 - 00:55:28,420] You've got the interest.
+- [00:55:28,420 - 00:55:29,420] You've got your life ahead of you.
+- [00:55:29,420 - 00:55:31,420] You've got the future.
+- [00:55:31,420 - 00:55:32,420] You can do it.
+- [00:55:32,420 - 00:55:33,420] If anybody can do it, you can do it.
+- [00:55:33,420 - 00:55:34,920] If one of us can do
+- [00:55:34,920 - 00:55:36,420] it, hey, we all can do it.
+- [00:55:36,420 - 00:55:38,420] And now here's my last question.
+- [00:55:38,420 - 00:55:40,420] Why not now?
+- [00:55:40,420 - 00:55:44,420] This is a good time as the 20th century starts to wind
+- [00:55:44,420 - 00:55:48,420] down a few more years as we get ready for century 21.
+- [00:55:48,420 - 00:55:50,920] What a good time to set your
+- [00:55:50,920 - 00:55:53,420] goals, work on yourself, work on your skills.
+- [00:55:53,420 - 00:55:56,420] What a good time to get it together.
+- [00:55:56,420 - 00:55:59,420] What a good time to start this process.
+- [00:55:59,420 - 00:56:02,920] Personal development, growing, changing, developing, having a good plan for
+- [00:56:02,920 - 00:56:06,420] your money and for your life and for your future.
+- [00:56:06,420 - 00:56:08,420] Why not now?
+- [00:56:08,420 - 00:56:12,920] And I hope I have a chance to see you one of these days and share
+- [00:56:12,920 - 00:56:17,420] with you the experience, the reaction, the response you might have had from my message today.
+- [00:56:17,420 - 00:56:22,920] And until I get a chance to see you on this side of the world or the other side of the world in some school
+- [00:56:22,920 - 00:56:28,420] or some seminar, or maybe I'll come and speak for a company that you work for someday, I hope I get a chance to meet you.
+- [00:56:28,420 - 00:56:31,420] Until then, I wish you the best.
+- [00:56:31,420 - 00:56:33,420] I want all that I've gotten
+- [00:56:33,420 - 00:56:35,420] to be yours and much, much more.
+- [00:56:35,420 - 00:56:36,420] God bless.
+- [00:56:36,420 - 00:56:37,420] Goodbye.
