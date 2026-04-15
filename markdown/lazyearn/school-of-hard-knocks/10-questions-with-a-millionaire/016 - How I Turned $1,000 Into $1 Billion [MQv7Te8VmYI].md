@@ -1,0 +1,510 @@
+# Transcript
+
+Source: lazyearn/school-of-hard-knocks/hard-knocks-interviews/132 - How I Turned $1,000 Into $1 Billion [MQv7Te8VmYI].mkv
+
+- [00:00:00,000 - 00:00:03,480] Within the first month, we did $50,000 in business
+- [00:00:03,480 - 00:00:04,880] without any advertising.
+- [00:00:04,880 - 00:00:08,900] And within 11 months, we were doing almost as much
+- [00:00:08,900 - 00:00:10,800] as the security company.
+- [00:00:10,800 - 00:00:13,660] And within four years, we're doing 120 million in sales.
+- [00:00:14,980 - 00:00:16,040] What's going on, everyone?
+- [00:00:16,040 - 00:00:17,780] Welcome back to episode seven
+- [00:00:17,780 - 00:00:19,440] of 10 Questions with a Millionaire.
+- [00:00:19,440 - 00:00:20,920] I'm James with the School of Hard Knocks,
+- [00:00:20,920 - 00:00:22,180] and I'm here with Glen Boyd.
+- [00:00:22,180 - 00:00:24,460] He's a founder of a major tech company.
+- [00:00:24,460 - 00:00:25,920] We're super excited to be with you today.
+- [00:00:25,920 - 00:00:27,900] Just kind of ask you some questions about your journey.
+- [00:00:27,900 - 00:00:29,440] Could you kind of give us a little rundown
+- [00:00:29,440 - 00:00:30,340] about your story?
+- [00:00:30,340 - 00:00:32,920] I started my career really young,
+- [00:00:32,920 - 00:00:34,340] teaching myself to program.
+- [00:00:34,340 - 00:00:37,580] Then in my early 20s, started a tech company
+- [00:00:37,580 - 00:00:39,940] that ended up taking public in 99.
+- [00:00:39,940 - 00:00:41,860] It was one of the early dot-com companies.
+- [00:00:41,860 - 00:00:43,840] As they say, I got out before it all crashed
+- [00:00:43,840 - 00:00:46,000] and it did really well, but I took it public
+- [00:00:46,000 - 00:00:47,440] and then ended up selling
+- [00:00:47,440 - 00:00:48,880] it in a merger later on.
+- [00:00:48,880 - 00:00:51,240] Your first company was originally called EG Software,
+- [00:00:51,240 - 00:00:52,080] I believe?
+- [00:00:52,080 - 00:00:52,920] That's correct.
+- [00:00:52,920 - 00:00:54,140] At that time, how did you
+- [00:00:54,140 - 00:00:55,360] know that that was the idea,
+- [00:00:55,360 - 00:00:56,560] that you were gonna take it to market?
+- [00:00:56,560 - 00:00:58,320] And how did you know that that was the company
+- [00:00:58,320 - 00:00:59,440] that you wanted to kind of
+- [00:00:59,440 - 00:01:00,879] invest in and go all in with?
+- [00:01:00,879 - 00:01:02,160] The original product was not that.
+- [00:01:02,160 - 00:01:04,319] The original product was actually a security product.
+- [00:01:04,319 - 00:01:06,039] And what it does is
+- [00:01:06,039 - 00:01:07,759] it was like a surveillance system
+- [00:01:07,759 - 00:01:09,179] for internal networks,
+- [00:01:09,179 - 00:01:11,100] because the internet really hadn't been invented yet
+- [00:01:11,100 - 00:01:12,300] or it wasn't being utilized.
+- [00:01:12,300 - 00:01:14,220] But there was a lot of local area networks.
+- [00:01:14,220 - 00:01:16,300] Most of the banks and financial institutions
+- [00:01:16,300 - 00:01:18,060] were being pushed to put
+- [00:01:18,060 - 00:01:19,820] in some type of audit control
+- [00:01:19,820 - 00:01:21,920] as more and more things were becoming computerized.
+- [00:01:21,920 - 00:01:23,940] I saw an opportunity and wrote a product
+- [00:01:23,940 - 00:01:26,759] for logging and analyzing all the traffic
+- [00:01:26,759 - 00:01:28,640] and all the access of what goes on
+- [00:01:28,640 - 00:01:29,440] on a local area network.
+- [00:01:29,440 - 00:01:32,000] We had a great, amazing little business.
+- [00:01:32,000 - 00:01:33,420] We had the entire Federal Reserve.
+- [00:01:33,420 - 00:01:36,740] We had almost every major bank in the US.
+- [00:01:36,740 - 00:01:38,620] It was me, my partner, Ellie,
+- [00:01:38,620 - 00:01:40,560] and my wife worked in the business.
+- [00:01:40,560 - 00:01:42,440] And my brother-in-law, there was four of us,
+- [00:01:42,440 - 00:01:44,660] and we were banging out a million dollars a year
+- [00:01:44,660 - 00:01:46,020] out of a little office
+- [00:01:46,020 - 00:01:47,380] about the size of this room.
+- [00:01:47,380 - 00:01:49,460] All of a sudden, the internet comes along.
+- [00:01:49,460 - 00:01:51,500] Yahoo had gone public, Netscape,
+- [00:01:51,500 - 00:01:52,920] and I realized the world's gonna change.
+- [00:01:52,920 - 00:01:54,030] Here it is, I had
+- [00:01:54,030 - 00:01:55,140] been working in local area networks,
+- [00:01:55,140 - 00:01:55,979] but now all of a sudden,
+- [00:01:55,979 - 00:01:57,640] the whole world is becoming networked.
+- [00:01:57,640 - 00:01:59,039] And we looked at, like, well,
+- [00:01:59,440 - 00:02:00,580] how do we capitalize on that?
+- [00:02:00,580 - 00:02:02,250] And I think the analogy I
+- [00:02:02,250 - 00:02:03,920] gave at the time to Ellie
+- [00:02:03,920 - 00:02:04,840] is I said, look, you know,
+- [00:02:04,840 - 00:02:06,600] I see this train going past,
+- [00:02:06,600 - 00:02:08,199] and I see people on that train,
+- [00:02:08,199 - 00:02:10,120] and they're all got champagne glasses.
+- [00:02:10,120 - 00:02:11,620] I said, if we start running now,
+- [00:02:11,620 - 00:02:13,160] we might be able to catch
+- [00:02:13,160 - 00:02:14,700] the last car of that train,
+- [00:02:14,700 - 00:02:16,600] because this is going to be the future.
+- [00:02:16,600 - 00:02:18,380] So we spent the whole summer trying to figure out
+- [00:02:18,380 - 00:02:20,040] what product we were gonna go into
+- [00:02:20,040 - 00:02:21,100] and what we were going to do,
+- [00:02:21,100 - 00:02:25,400] almost willing to abandon our really successful business.
+- [00:02:25,400 - 00:02:26,720] Then, I don't know if it was him or me,
+- [00:02:26,720 - 00:02:29,240] but we had this epiphany that is that we pivoted
+- [00:02:29,440 - 00:02:30,280] from the company.
+- [00:02:30,280 - 00:02:31,660] So instead of having this product
+- [00:02:31,660 - 00:02:34,040] that analyzed local traffic and looking for,
+- [00:02:34,040 - 00:02:36,800] say, security violations in a bank, potential fraud,
+- [00:02:36,800 - 00:02:39,060] it started analyzing anonymous traffic
+- [00:02:39,060 - 00:02:40,260] that was coming into the web,
+- [00:02:40,260 - 00:02:42,120] and instead of producing, say, a security report,
+- [00:02:42,120 - 00:02:43,380] it produced a marketing report.
+- [00:02:43,380 - 00:02:45,000] So instead of trying to find somebody
+- [00:02:45,000 - 00:02:46,280] who was committing fraud, we said,
+- [00:02:46,280 - 00:02:48,260] what if you analyze all this anonymous data
+- [00:02:48,260 - 00:02:51,460] and identified how many people are interested in this,
+- [00:02:51,460 - 00:02:52,900] and how many people are interested in that?
+- [00:02:52,900 - 00:02:55,140] So some of our earliest clients and customers
+- [00:02:55,140 - 00:02:57,180] were people like Sports Illustrated Magazine.
+- [00:02:57,180 - 00:02:59,380] They had a website, everybody was brand new,
+- [00:02:59,440 - 00:03:02,120] but they didn't know if they had 100,000 people coming
+- [00:03:02,120 - 00:03:05,220] or 10,000 people coming and visiting it 10 times
+- [00:03:05,220 - 00:03:06,430] because there was no product to
+- [00:03:06,430 - 00:03:07,640] be able to tell them that.
+- [00:03:07,640 - 00:03:09,609] But I had this technology
+- [00:03:09,609 - 00:03:11,579] that we had spent years building
+- [00:03:11,579 - 00:03:14,440] that could analyze massive amounts of data very quickly,
+- [00:03:14,440 - 00:03:15,380] and we pivoted.
+- [00:03:15,380 - 00:03:16,510] We had no idea if
+- [00:03:16,510 - 00:03:17,640] the product was gonna be successful.
+- [00:03:17,640 - 00:03:18,400] We didn't know if the
+- [00:03:18,400 - 00:03:19,160] dogs would eat the dog food.
+- [00:03:19,160 - 00:03:22,640] Within the first month, we did $50,000 in business
+- [00:03:22,640 - 00:03:26,100] without any advertising, and within 11 months,
+- [00:03:26,100 - 00:03:28,060] we were doing almost as much
+- [00:03:28,060 - 00:03:29,260] as the security company.
+- [00:03:29,260 - 00:03:30,760] And within four years, we
+- [00:03:30,760 - 00:03:32,260] were doing 120 million in sales.
+- [00:03:32,260 - 00:03:33,600] A lot of people, they
+- [00:03:33,600 - 00:03:34,940] tend to have these great ideas,
+- [00:03:34,940 - 00:03:37,079] but they really struggle to get the funding for them.
+- [00:03:37,079 - 00:03:38,380] So what do you recommend to people
+- [00:03:38,380 - 00:03:39,579] that are trying to get that funding
+- [00:03:39,579 - 00:03:41,220] for their ideas to build companies?
+- [00:03:41,220 - 00:03:43,739] Well, it always helps to have something demonstrable
+- [00:03:43,739 - 00:03:45,380] and not just an idea.
+- [00:03:45,380 - 00:03:47,440] Ideas are really difficult to get funded,
+- [00:03:47,440 - 00:03:50,140] and if you can build something that's a sample,
+- [00:03:50,140 - 00:03:51,739] something that you can demonstrate,
+- [00:03:51,739 - 00:03:53,579] I mean, that goes a long, long way.
+- [00:03:53,579 - 00:03:55,880] There's an old expression that I think was founded
+- [00:03:55,880 - 00:03:57,780] in the 70s, and it happened to do
+- [00:03:57,780 - 00:03:58,980] with all these advertising companies.
+- [00:03:58,980 - 00:04:01,100] These advertising companies were creating,
+- [00:04:01,100 - 00:04:02,859] I think it was called the dog food wars,
+- [00:04:02,859 - 00:04:05,299] where they're creating all these different dog foods,
+- [00:04:05,299 - 00:04:06,200] and they spent all this money,
+- [00:04:06,200 - 00:04:07,780] and they put them on television,
+- [00:04:07,780 - 00:04:09,119] but it turns out the dogs
+- [00:04:09,119 - 00:04:10,459] just didn't like the dog food,
+- [00:04:10,459 - 00:04:13,660] and it didn't matter how great the advertising was
+- [00:04:13,660 - 00:04:15,299] or how flashy it was.
+- [00:04:15,299 - 00:04:17,399] So the expression, especially in the tech world,
+- [00:04:17,399 - 00:04:19,079] was will the dogs eat the dog food?
+- [00:04:19,079 - 00:04:20,589] And what that meant is
+- [00:04:20,589 - 00:04:22,099] will people actually use the product?
+- [00:04:22,099 - 00:04:24,260] So often, you don't know completely
+- [00:04:24,260 - 00:04:26,080] until you build a product or build some of it,
+- [00:04:26,080 - 00:04:28,020] and if you can get early adoption,
+- [00:04:28,020 - 00:04:28,960] even if it's a small amount,
+- [00:04:28,980 - 00:04:31,960] you can typically demonstrate a path
+- [00:04:31,960 - 00:04:34,660] to where somebody will be willing to invest in it,
+- [00:04:34,660 - 00:04:35,920] because they can say, wow,
+- [00:04:35,920 - 00:04:37,580] this is really not only a good idea,
+- [00:04:37,580 - 00:04:39,540] but I can see how people are using it,
+- [00:04:39,540 - 00:04:41,520] and they're really gravitating towards it,
+- [00:04:41,520 - 00:04:43,880] and there's a huge chance of it exploding.
+- [00:04:43,880 - 00:04:45,760] I mean, you just look at some of the examples,
+- [00:04:45,760 - 00:04:47,280] whether it was YouTube that started out
+- [00:04:47,280 - 00:04:50,060] with just cat videos, or Instagram that just started out
+- [00:04:50,060 - 00:04:53,800] with people wanting to share some of their personal photos
+- [00:04:53,800 - 00:04:54,980] to almost every tech company.
+- [00:04:54,980 - 00:04:57,060] They started as some little simple idea,
+- [00:04:57,060 - 00:04:58,100] but it really went viral,
+- [00:04:58,100 - 00:04:58,940] and it's a huge success.
+- [00:04:58,980 - 00:05:00,770] It really went to the level
+- [00:05:00,770 - 00:05:02,560] of the dogs love the dog food.
+- [00:05:02,560 - 00:05:04,580] In today's world, we're seeing a lot of light
+- [00:05:04,580 - 00:05:08,020] being shined on self-improvement, personal development.
+- [00:05:08,020 - 00:05:09,320] For you throughout your career,
+- [00:05:09,320 - 00:05:10,350] what would you say was
+- [00:05:10,350 - 00:05:11,380] some of the most pivotal things
+- [00:05:11,380 - 00:05:13,820] that you incorporated, whether it was into your routine
+- [00:05:13,820 - 00:05:14,900] or just throughout your life
+- [00:05:14,900 - 00:05:16,280] that led you to where you are today?
+- [00:05:16,280 - 00:05:18,220] For any entrepreneur, it's always a challenge,
+- [00:05:18,220 - 00:05:21,820] and it definitely was for me, keeping life-work balance.
+- [00:05:21,820 - 00:05:25,120] Even more so as I'm older, it's life-health-work balance.
+- [00:05:25,120 - 00:05:27,240] Started very young, had children very young,
+- [00:05:27,240 - 00:05:28,820] and I had a high-tech, super-high-tech dog,
+- [00:05:28,820 - 00:05:30,480] super-successful company very young.
+- [00:05:30,480 - 00:05:33,320] Through that process, I ended up divorced early on.
+- [00:05:33,320 - 00:05:34,630] Some of that was with
+- [00:05:34,630 - 00:05:35,940] the stress of starting a company
+- [00:05:35,940 - 00:05:38,420] and having young children and having a young marriage.
+- [00:05:38,420 - 00:05:41,360] That was where I think some of that life-work balance
+- [00:05:41,360 - 00:05:42,200] broke down.
+- [00:05:42,200 - 00:05:43,580] Later on in life, I
+- [00:05:43,580 - 00:05:44,960] ended up having a heart attack
+- [00:05:44,960 - 00:05:46,320] and a triple bypass surgery.
+- [00:05:46,320 - 00:05:47,410] Some of that led to me
+- [00:05:47,410 - 00:05:48,500] to realize that I have to,
+- [00:05:48,500 - 00:05:51,620] as I'm getting older, take my health almost as seriously
+- [00:05:51,620 - 00:05:53,190] as my physical health is
+- [00:05:53,190 - 00:05:54,760] as seriously as my mental health,
+- [00:05:54,760 - 00:05:57,400] as well as conquering the boredom of life.
+- [00:05:57,400 - 00:05:58,700] It's easy to find yourself
+- [00:05:58,700 - 00:06:01,200] working too much as an entrepreneur because you love it,
+- [00:06:01,200 - 00:06:04,140] but not everybody else around you can appreciate that,
+- [00:06:04,140 - 00:06:06,320] and that's where your relationships can suffer,
+- [00:06:06,320 - 00:06:07,900] whether it's with your significant other
+- [00:06:07,900 - 00:06:09,080] or with your family.
+- [00:06:09,080 - 00:06:11,340] How can someone prioritize their mental health?
+- [00:06:11,340 - 00:06:12,340] What were some of the
+- [00:06:12,340 - 00:06:13,340] steps that you learned to take
+- [00:06:13,340 - 00:06:15,200] during that process to focus on
+- [00:06:15,200 - 00:06:16,919] your personal and mental health?
+- [00:06:16,919 - 00:06:18,880] Anybody who's looking for a good
+- [00:06:18,880 - 00:06:20,960] entrepreneurial work-life balance,
+- [00:06:20,960 - 00:06:23,700] I would encourage them to partner with somebody.
+- [00:06:23,700 - 00:06:24,899] I think there's no way I
+- [00:06:24,899 - 00:06:26,099] could have ever built my company
+- [00:06:26,099 - 00:06:28,520] if I hadn't have a strong co-partner,
+- [00:06:28,520 - 00:06:29,770] and I think that's what
+- [00:06:29,770 - 00:06:31,020] I learned in founding the company,
+- [00:06:31,020 - 00:06:32,520] and we were able to offload
+- [00:06:32,520 - 00:06:34,020] a lot of things for each other,
+- [00:06:34,020 - 00:06:36,520] whether it was somebody has a personal emergency
+- [00:06:36,520 - 00:06:38,520] or just dividing up the work,
+- [00:06:38,520 - 00:06:41,400] and finding somebody you trust is critical,
+- [00:06:41,400 - 00:06:42,700] and somebody you enjoy working with,
+- [00:06:42,700 - 00:06:44,520] and also somebody who has not just complimentary,
+- [00:06:44,520 - 00:06:46,700] but even non-complementary skills
+- [00:06:46,700 - 00:06:48,700] so that you both bring something to the table
+- [00:06:48,700 - 00:06:50,200] that the other one doesn't have.
+- [00:06:50,200 - 00:06:52,200] What was the biggest risk that you ever took,
+- [00:06:52,200 - 00:06:54,200] and how important has risk been to you?
+- [00:06:54,200 - 00:06:56,859] I had a newborn on the way,
+- [00:06:56,860 - 00:06:59,620] and gotten down to probably the last,
+- [00:06:59,620 - 00:07:01,820] I think, $1,000 in my bank account.
+- [00:07:01,820 - 00:07:03,200] Oh, actually, I had some money saved up.
+- [00:07:03,200 - 00:07:05,820] I quit my job and started writing my first product,
+- [00:07:05,820 - 00:07:07,780] and got down to the
+- [00:07:07,780 - 00:07:09,740] last $1,000 into my bank account
+- [00:07:09,740 - 00:07:10,790] and went and sold the one
+- [00:07:10,790 - 00:07:11,840] asset I had at the time,
+- [00:07:11,840 - 00:07:12,860] which is a motorcycle.
+- [00:07:12,860 - 00:07:14,660] That got us through another month or two.
+- [00:07:14,660 - 00:07:17,480] Then my business partner, he came on board
+- [00:07:17,480 - 00:07:19,360] and put his personal money in,
+- [00:07:19,360 - 00:07:21,000] and the two of us together went on
+- [00:07:21,000 - 00:07:22,800] to make a very successful company,
+- [00:07:22,800 - 00:07:23,900] but to say that I
+- [00:07:23,900 - 00:07:25,000] put it all on the line
+- [00:07:25,000 - 00:07:26,060] is not an understatement.
+- [00:07:26,060 - 00:07:26,230] At the time, I had a lot of
+- [00:07:26,230 - 00:07:26,400] money, and I had a lot of money,
+- [00:07:26,400 - 00:07:26,410] and I had a lot of money,
+- [00:07:26,410 - 00:07:26,420] and I had a lot of money,
+- [00:07:26,420 - 00:07:26,470] and I had a lot of money,
+- [00:07:26,470 - 00:07:26,520] and I had a lot of money,
+- [00:07:26,520 - 00:07:26,770] and I had a lot of money,
+- [00:07:26,770 - 00:07:27,020] and I had a lot of money,
+- [00:07:27,020 - 00:07:27,390] and I had a lot of money,
+- [00:07:27,390 - 00:07:27,760] and I had a lot of money.
+- [00:07:27,760 - 00:07:30,380] My total risk mentality was the worst thing
+- [00:07:30,380 - 00:07:31,830] that can happen to me is
+- [00:07:31,830 - 00:07:33,280] I'll have to go get a job.
+- [00:07:33,700 - 00:07:34,890] For me, it was like,
+- [00:07:34,890 - 00:07:36,080] let me take all this risk,
+- [00:07:36,200 - 00:07:38,200] even though I had a newborn on the way.
+- [00:07:38,380 - 00:07:39,850] I knew that if I failed, I'll
+- [00:07:39,850 - 00:07:41,320] just have to go get a job,
+- [00:07:41,419 - 00:07:43,700] but I also knew that if I didn't try it,
+- [00:07:43,780 - 00:07:45,659] I would be sitting at a job someplace
+- [00:07:45,659 - 00:07:47,479] always wondering, why didn't I try?
+- [00:07:47,700 - 00:07:49,140] When you're creating a company,
+- [00:07:49,440 - 00:07:51,620] it's important to build a strong leadership team.
+- [00:07:51,799 - 00:07:53,760] What are the three most important traits
+- [00:07:53,760 - 00:07:56,140] that you look for in people when you're assembling,
+- [00:07:56,380 - 00:07:56,500] like a company?
+- [00:07:56,500 - 00:07:58,720] a leadership team or employing people for a
+- [00:07:58,720 - 00:08:00,940] company? Well, I think you have to work with
+- [00:08:00,940 - 00:08:03,150] honest people. You have to work with intelligent
+- [00:08:03,150 - 00:08:05,360] people. You have to work with people that they
+- [00:08:05,360 - 00:08:07,840] can take constructive feedback, and that includes
+- [00:08:07,840 - 00:08:10,320] yourself. I think that's critical. You're not
+- [00:08:10,320 - 00:08:12,680] always going to get along. Our wives at the time,
+- [00:08:12,680 - 00:08:15,040] in our first early days of the founding of the
+- [00:08:15,040 - 00:08:17,210] company, they thought that my partner and I were
+- [00:08:17,210 - 00:08:19,380] going to kill each other because we were constantly
+- [00:08:19,380 - 00:08:21,900] arguing. But what we were doing is really fleshing
+- [00:08:21,900 - 00:08:24,420] out the best path forward or the best idea
+- [00:08:24,420 - 00:08:27,230] forward. I remember in the early days, we
+- [00:08:27,230 - 00:08:30,040] had some horatious arguments over which shade of red
+- [00:08:30,040 - 00:08:32,000] we were going to make our first packaging on
+- [00:08:32,000 - 00:08:33,960] our product. And it turned out to be this inconsequential
+- [00:08:33,960 - 00:08:36,440] kind of thing. But eventually, through that
+- [00:08:36,440 - 00:08:38,919] process, we became closer and closer friends
+- [00:08:38,919 - 00:08:40,870] and trusted each other more and more to
+- [00:08:40,870 - 00:08:42,820] make independent decisions. And we needed to go
+- [00:08:42,820 - 00:08:45,260] through that early on to order get to that
+- [00:08:45,260 - 00:08:47,700] level of confidence with each other. What would you say
+- [00:08:47,700 - 00:08:49,500] is the worst financial decision that you've
+- [00:08:49,500 - 00:08:51,300] made throughout your life? Getting involved in things
+- [00:08:51,300 - 00:08:52,850] you don't want to be involved
+- [00:08:52,850 - 00:08:54,400] in. I had this misfortune of doing,
+- [00:08:54,420 - 00:08:57,429] a construction loan on a business that I really didn't
+- [00:08:57,429 - 00:09:00,439] want to be in. I got kind of talked into
+- [00:09:00,439 - 00:09:02,899] it with another friend of mine. It was
+- [00:09:02,899 - 00:09:05,360] supposed to be a temporary construction loan. Everything
+- [00:09:05,360 - 00:09:07,510] was collateralized. The management was failing. I had to
+- [00:09:07,510 - 00:09:09,660] step in and spend a couple of years of
+- [00:09:09,660 - 00:09:12,360] my life turning it around only to have the
+- [00:09:12,360 - 00:09:15,060] whole thing because of a tragic accident. And somebody,
+- [00:09:15,319 - 00:09:17,449] unfortunately, passed away. It ended up costing the
+- [00:09:17,449 - 00:09:19,579] entire company. I lost close to $3 million
+- [00:09:19,579 - 00:09:21,719] on that. And what that taught me is don't
+- [00:09:21,719 - 00:09:23,860] get involved in something you don't want to get
+- [00:09:23,860 - 00:09:24,400] involved in.
+- [00:09:24,420 - 00:09:26,490] My gut instinct was telling me from day one,
+- [00:09:26,490 - 00:09:28,560] don't do it. But I ended up doing it anyway.
+- [00:09:28,560 - 00:09:30,699] Then I powered through and thought. And by
+- [00:09:30,699 - 00:09:32,839] circumstance, I wished I'd just never done it.
+- [00:09:32,839 - 00:09:34,119] But what was the best
+- [00:09:34,119 - 00:09:35,400] financial decision that you've ever made?
+- [00:09:35,400 - 00:09:37,380] Probably for us, both my partner and I
+- [00:09:37,380 - 00:09:39,360] at the time when we founded the company,
+- [00:09:39,360 - 00:09:41,339] the best decision was the company
+- [00:09:41,339 - 00:09:43,319] was growing so fast. We were profitable,
+- [00:09:43,319 - 00:09:46,379] but we felt like we needed additional capital
+- [00:09:46,379 - 00:09:49,439] just to expand faster. And we sought out a
+- [00:09:49,439 - 00:09:51,879] venture capital firm. And we spent a lot of energy
+- [00:09:51,879 - 00:09:54,319] working with them because venture capital came out of the blue.
+- [00:09:54,420 - 00:09:55,920] You can spend and take a lot
+- [00:09:55,920 - 00:09:57,420] of attention. It's like there's a courtship
+- [00:09:57,420 - 00:09:59,850] that goes on. And in the end, they decided
+- [00:09:59,850 - 00:10:02,280] to pass on us. We were kind of glad because
+- [00:10:02,280 - 00:10:04,859] we were so frustrated with them and the process,
+- [00:10:04,859 - 00:10:07,439] so they ended up not investing in us. What that
+- [00:10:07,439 - 00:10:10,499] meant though is we didn't have that
+- [00:10:10,499 - 00:10:13,560] financial underpinning that you would with venture capital,
+- [00:10:13,560 - 00:10:15,900] but we also were way more frugal with
+- [00:10:15,900 - 00:10:18,240] the decisions we made going forward. And when
+- [00:10:18,240 - 00:10:20,050] we took the company public, he
+- [00:10:20,050 - 00:10:21,860] and I own 95% of the company.
+- [00:10:22,160 - 00:10:23,620] What is your best piece of advice to
+- [00:10:23,620 - 00:10:24,300] someone trying to scale?
+- [00:10:24,300 - 00:10:26,780] their business? Keep your expenses controlled. The
+- [00:10:26,780 - 00:10:29,260] problem with scaling is that expenses scale
+- [00:10:29,260 - 00:10:32,410] as well. The numbers become multiple. So, you
+- [00:10:32,410 - 00:10:35,560] know, one bad dip someplace can wipe out your
+- [00:10:35,560 - 00:10:37,350] whole business, especially if you're trying to
+- [00:10:37,350 - 00:10:39,140] stay profitable, especially if you're trying to
+- [00:10:39,140 - 00:10:41,479] grow really fast, you know, just keep
+- [00:10:41,479 - 00:10:43,819] your expenses under control. What are the three
+- [00:10:43,819 - 00:10:46,619] books that you'd recommend that any entrepreneur
+- [00:10:46,619 - 00:10:49,420] should read? My favorite that changed my, it
+- [00:10:49,420 - 00:10:51,699] probably saved my business or helped me understand
+- [00:10:51,699 - 00:10:53,979] my business. There's actually two of them, but one
+- [00:10:53,980 - 00:10:57,160] more than anything else. At the time, my business
+- [00:10:57,160 - 00:11:00,340] was growing so fast, but I couldn't quite put my
+- [00:11:00,340 - 00:11:02,640] finger on what the problems were. I would
+- [00:11:02,640 - 00:11:04,940] come home because I'd had these hellaciously stressful
+- [00:11:04,940 - 00:11:07,400] days and I would try to read some just so
+- [00:11:07,400 - 00:11:09,860] I could sleep. And I started reading into thin air and
+- [00:11:09,860 - 00:11:12,340] then it clicked for me what the problem was
+- [00:11:12,340 - 00:11:14,820] with my company. In the book, he talks about everybody
+- [00:11:14,820 - 00:11:17,570] has a level where they run out of oxygen when
+- [00:11:17,570 - 00:11:20,320] they go up in altitude. And even the simplest task,
+- [00:11:20,320 - 00:11:22,140] when you get up to a certain level,
+- [00:11:22,140 - 00:11:23,960] like tying your shoes becomes very, very difficult.
+- [00:11:23,980 - 00:11:26,480] And everybody's built differently. And unless you
+- [00:11:26,480 - 00:11:28,980] have supplemental oxygen, some people will tap out
+- [00:11:28,980 - 00:11:31,030] and it becomes deadly. And the only solution is
+- [00:11:31,030 - 00:11:33,080] to go down the mountain. There are some people that
+- [00:11:33,080 - 00:11:35,170] are natural athletes who can, you know, they're
+- [00:11:35,170 - 00:11:37,260] Sherpas because they were born with the genetics,
+- [00:11:37,460 - 00:11:39,360] their blood to carry the oxygen can go all
+- [00:11:39,360 - 00:11:41,260] the way to the top of Mount Everest without
+- [00:11:41,260 - 00:11:43,320] supplemental oxygen. Extremely rare, but it does happen.
+- [00:11:43,320 - 00:11:45,380] But what I was finding is because my
+- [00:11:45,380 - 00:11:48,140] company was growing so fast, somebody that was an employee
+- [00:11:48,140 - 00:11:50,900] six months ago or a year ago who I hired
+- [00:11:50,900 - 00:11:52,430] and was just an amazing employee was failing. And it
+- [00:11:52,430 - 00:11:53,960] dawned on me that I was going to have to
+- [00:11:53,960 - 00:11:55,320] have to go down the mountain. And so I was like,
+- [00:11:55,320 - 00:11:56,680] I'm going to have to go down the mountain. And I
+- [00:11:56,680 - 00:11:59,060] started out and they were working, maybe managing
+- [00:11:59,060 - 00:12:01,440] four people or six people or 10 people because
+- [00:12:01,440 - 00:12:03,270] that's what I hired them at that level to do.
+- [00:12:03,270 - 00:12:05,100] And then a year later or six months later, they're
+- [00:12:05,100 - 00:12:07,440] managing 20 people or 30 people. And it's the same
+- [00:12:07,440 - 00:12:09,780] analogy as if you're good at juggling and you can
+- [00:12:09,780 - 00:12:11,450] juggle three balls and I hand you a fourth and
+- [00:12:11,450 - 00:12:13,120] you're good at that and you hand you a fifth,
+- [00:12:13,200 - 00:12:14,620] a sixth, eventually you're going to reach the
+- [00:12:14,620 - 00:12:16,040] level where you're going to drop all the balls.
+- [00:12:16,180 - 00:12:18,860] And what I realized is it was my responsibility
+- [00:12:18,860 - 00:12:21,540] to stop handing them balls and also in some cases,
+- [00:12:21,540 - 00:12:22,700] take them down the mountain.
+- [00:12:23,960 - 00:12:26,380] My hiring practices so that when I would hire
+- [00:12:26,380 - 00:12:28,800] somebody, I would say, okay, so I know we were
+- [00:12:28,800 - 00:12:31,380] hiring you for to manage 20 people and you managed
+- [00:12:31,380 - 00:12:33,960] 50 in the past, but you'll be managing 50 people
+- [00:12:33,960 - 00:12:36,510] within a year. And I need somebody who can, who's
+- [00:12:36,510 - 00:12:39,060] already been up the mountain. So that book to me
+- [00:12:39,060 - 00:12:41,420] saved my company, you know, and once we
+- [00:12:41,420 - 00:12:43,780] identified that we changed our hiring practices across the
+- [00:12:43,780 - 00:12:45,900] company to hire above the level for the position
+- [00:12:45,900 - 00:12:48,020] that we were doing and people that were used to
+- [00:12:48,020 - 00:12:49,600] be good, that were starting to fail. We
+- [00:12:49,600 - 00:12:51,180] took them down the mountain and divided up their
+- [00:12:51,180 - 00:12:52,560] responsibilities. Another one, which
+- [00:12:52,560 - 00:12:53,940] is, it's great for marketing.
+- [00:12:53,960 - 00:12:56,650] And if we're launching a new product is
+- [00:12:56,650 - 00:12:59,340] called crossing the chasm. And it's talking about the
+- [00:12:59,340 - 00:13:01,650] process and there's this chasm in the bell curve
+- [00:13:01,650 - 00:13:03,960] of getting your product across before it gets into
+- [00:13:03,960 - 00:13:06,460] adoption. And it really resonated in the early days
+- [00:13:06,460 - 00:13:08,960] when we were trying to grow our product and
+- [00:13:08,960 - 00:13:11,320] how to launch it into new markets. You sold
+- [00:13:11,320 - 00:13:13,680] your company for over a billion dollars. So my question
+- [00:13:13,680 - 00:13:16,020] for you is, you know, you, you made a
+- [00:13:16,020 - 00:13:18,360] lot of money off that. Does money buy happiness? No.
+- [00:13:18,620 - 00:13:21,180] Why? It just doesn't. I think there's
+- [00:13:21,180 - 00:13:23,740] a certain level that money does. I mean,
+- [00:13:23,740 - 00:13:26,450] I grew up very poor. I roof houses as a child
+- [00:13:26,450 - 00:13:29,160] in the Texas heat to help my dad and then later
+- [00:13:29,160 - 00:13:31,000] washing dishes with my mother. Yes. Money
+- [00:13:31,000 - 00:13:32,840] definitely bought happiness when you reach a
+- [00:13:32,840 - 00:13:34,740] certain level beyond that. When I finally was able
+- [00:13:34,740 - 00:13:36,640] to feel secure enough that I could send my
+- [00:13:36,640 - 00:13:39,710] children to college. And that gave me a lot more
+- [00:13:39,710 - 00:13:42,780] freedom to try new things. But at a certain level,
+- [00:13:42,840 - 00:13:44,670] the champagne doesn't get any better. And
+- [00:13:44,670 - 00:13:46,500] a certain level, the women don't get prettier
+- [00:13:46,500 - 00:13:49,280] or a certain level, the beaches don't get
+- [00:13:49,280 - 00:13:52,060] any nicer. Just making more and more money doesn't
+- [00:13:52,060 - 00:13:53,620] buy happiness, but there is.
+- [00:13:53,740 - 00:13:55,470] Probably a base level somewhere between
+- [00:13:55,470 - 00:13:57,200] poverty and paying all your bills.
+- [00:13:57,440 - 00:13:59,410] If you were to go back to, you know, when
+- [00:13:59,410 - 00:14:01,380] you're 18 years old and you could have a conversation
+- [00:14:01,380 - 00:14:03,390] with a younger Glenn, what are the three pieces
+- [00:14:03,390 - 00:14:05,400] of advice that you would tell yourself in a
+- [00:14:05,400 - 00:14:07,120] conversation with your younger self? I
+- [00:14:07,120 - 00:14:08,840] mean, I definitely would have said,
+- [00:14:09,120 - 00:14:11,310] enjoy life a little bit more. I mean, I,
+- [00:14:11,310 - 00:14:13,500] I didn't really have a childhood, but that was also
+- [00:14:13,500 - 00:14:15,730] because I started working so young and
+- [00:14:15,730 - 00:14:17,960] was successful young, but I also, the intensity
+- [00:14:17,960 - 00:14:20,440] of it, I had to process that later in my
+- [00:14:20,440 - 00:14:22,920] life after I sold my company. It was like actually
+- [00:14:22,920 - 00:14:23,320] learning how to do it. And I think that's a
+- [00:14:23,320 - 00:14:23,720] really good point. I think that's a really good point.
+- [00:14:23,740 - 00:14:26,430] It's about learning how to enjoy life, you know, not
+- [00:14:26,430 - 00:14:29,120] just work, work, work, work. And so I think I would
+- [00:14:29,120 - 00:14:32,100] tell my 18 year old self is like, maybe not
+- [00:14:32,100 - 00:14:35,080] be so ambitious and finish college, maybe not be so
+- [00:14:35,080 - 00:14:37,830] ambitious and have a little bit deeper, meaningful
+- [00:14:37,830 - 00:14:40,580] relationships here or there. Other advice I'd give
+- [00:14:40,580 - 00:14:43,440] myself, I think I would tell myself to take
+- [00:14:43,440 - 00:14:46,300] care of my health better because I think that's the
+- [00:14:46,300 - 00:14:48,900] first and easiest thing to let go. As an
+- [00:14:48,900 - 00:14:51,500] entrepreneur, when you're working, you just can't get away from
+- [00:14:51,500 - 00:14:53,380] working 50, 60, 70 hours a week.
+- [00:14:53,480 - 00:14:53,720] Yeah.
+- [00:14:53,740 - 00:14:55,530] If you're not physically doing it, you're thinking
+- [00:14:55,530 - 00:14:57,320] about it when you're at home, you're here, you're
+- [00:14:57,320 - 00:14:59,570] there. That translates into your relationships. Don't
+- [00:14:59,570 - 00:15:01,820] spend so much money once you finally make
+- [00:15:01,820 - 00:15:04,550] it. Better yet would be get some really
+- [00:15:04,550 - 00:15:07,280] good financial advice once you finally do make good
+- [00:15:07,280 - 00:15:07,500] money.
+- [00:15:07,920 - 00:15:10,760] We've interviewed hundreds of millionaires and one of
+- [00:15:10,760 - 00:15:13,600] the biggest pieces of advice that they would
+- [00:15:13,600 - 00:15:15,730] tell their younger selves is they wish that
+- [00:15:15,730 - 00:15:17,860] they would have started sooner. For someone who has
+- [00:15:17,860 - 00:15:19,850] all these thoughts and great ideas and they're
+- [00:15:19,850 - 00:15:21,840] always saying, oh, I'll start tomorrow, I'll start
+- [00:15:21,840 - 00:15:22,660] tomorrow, whether it's a YouTube channel or the
+- [00:15:22,660 - 00:15:23,480] internet, I'm going to start tomorrow. I'm going
+- [00:15:23,480 - 00:15:24,130] to start tomorrow and I'm going to start tomorrow,
+- [00:15:24,130 - 00:15:24,780] I'm going to start tomorrow. It's a really good
+- [00:15:24,780 - 00:15:25,180] way to start that journey.
+- [00:15:25,180 - 00:15:26,630] You've created a channel or this company, but
+- [00:15:26,630 - 00:15:28,080] you actually executed, you created a company, you sold
+- [00:15:28,080 - 00:15:30,550] it for a lot of money. What is your
+- [00:15:30,550 - 00:15:33,020] advice to someone trying to really start and begin their
+- [00:15:33,020 - 00:15:33,660] business?
+- [00:15:33,660 - 00:15:36,250] Procrastination is your worst enemy, and I think
+- [00:15:36,250 - 00:15:38,840] that's what you're getting at. It's easy to always
+- [00:15:38,840 - 00:15:41,880] put it off and not do it and not take the
+- [00:15:41,880 - 00:15:44,920] risk. The one thing we do not have in life that's
+- [00:15:44,920 - 00:15:47,280] renewable is time. The longer you delay it, the longer
+- [00:15:47,280 - 00:15:49,640] it's going to take you to get to where you
+- [00:15:49,640 - 00:15:51,430] want to be. I think there's an
+- [00:15:51,430 - 00:15:53,220] old expression. I think it's even a fact.
+- [00:15:53,220 - 00:15:55,860] of if you're going to fail fail fast get in there
+- [00:15:55,860 - 00:15:58,500] try it it didn't work move on do the next thing
+- [00:15:58,500 - 00:16:00,100] because if you're an entrepreneur you're probably going
+- [00:16:00,100 - 00:16:01,700] to be an entrepreneur your whole life and if
+- [00:16:01,700 - 00:16:03,820] you're going to make a mistake and have a failure get
+- [00:16:03,820 - 00:16:05,940] it out of the way and go learn from that and
+- [00:16:05,940 - 00:16:08,820] do the next one and the longer you delay
+- [00:16:08,820 - 00:16:11,700] for that perfect idea that just means you're that much
+- [00:16:11,700 - 00:16:14,740] further away from a success well guys that wraps
+- [00:16:14,740 - 00:16:17,780] up today's episode of 10 questions with a millionaire
+- [00:16:17,780 - 00:16:20,020] we were super excited to be able to sit down
+- [00:16:20,020 - 00:16:22,260] here with glenn glenn thank you so much for coming on
+- [00:16:22,260 - 00:16:24,420] and it was great to meet you talk to you
+- [00:16:24,420 - 00:16:26,580] find out more about your story today so stay tuned
+- [00:16:26,580 - 00:16:28,259] guys for more content if you enjoyed this
+- [00:16:28,259 - 00:16:29,939] video make sure that you like leave us a
+- [00:16:29,939 - 00:16:32,242] subscribe we got a ton of
+- [00:16:32,242 - 00:16:34,545] great content coming let's get it
