@@ -1,0 +1,557 @@
+# Transcript
+
+Source: lazyearn/school-of-hard-knocks/hard-knocks-interviews/110 - He Turned $100k Into $25M [lAOliWexJgo].webm
+
+- [00:00:00,160 - 00:00:02,680] Meet Todd Napola. Over the last 25 years, he
+- [00:00:02,680 - 00:00:05,200] has created a commercial real estate empire in Miami,
+- [00:00:05,360 - 00:00:07,580] Florida. When Todd was 25 years old, he drained
+- [00:00:07,580 - 00:00:09,800] his bank account down to zero dollars to buy his
+- [00:00:09,800 - 00:00:11,940] first property. And now he has created one of
+- [00:00:11,940 - 00:00:14,080] the most prominent real estate businesses in all of
+- [00:00:14,080 - 00:00:15,830] South Florida. He brought me to his office to share
+- [00:00:15,830 - 00:00:17,580] some of his secrets on how he was able to
+- [00:00:17,580 - 00:00:19,410] become a real estate tycoon and how he
+- [00:00:19,410 - 00:00:21,240] was able to grow an eight-figure real estate portfolio.
+- [00:00:21,300 - 00:00:22,660] All right, so you're at my office right now.
+- [00:00:22,660 - 00:00:24,020] You said you want to learn about real estate
+- [00:00:24,020 - 00:00:26,110] and property management. Come on, I'm going to
+- [00:00:26,110 - 00:00:28,200] show you. In this interview, Todd revealed to
+- [00:00:28,200 - 00:00:30,140] me the most valuable piece of advice he
+- [00:00:30,140 - 00:00:32,080] was given throughout his career from his billionaire mentor.
+- [00:00:32,240 - 00:00:33,760] The richest people on the planet, I don't
+- [00:00:33,760 - 00:00:35,280] care if you want to talk, if they're in
+- [00:00:35,280 - 00:00:37,310] railroads and oil or technology,
+- [00:00:37,310 - 00:00:39,340] they all invest in real estate.
+- [00:00:39,500 - 00:00:41,650] He walked me through how he was able to
+- [00:00:41,650 - 00:00:43,800] close a $25 million deal this past December. In this
+- [00:00:43,800 - 00:00:45,769] episode, you will learn everything you need to
+- [00:00:45,769 - 00:00:47,739] know to start creating wealth in real estate today.
+- [00:00:47,960 - 00:00:49,550] If someone said to you, they'll sell
+- [00:00:49,550 - 00:00:51,140] you this property for a billion dollars,
+- [00:00:51,239 - 00:00:53,209] but you got to close tomorrow morning, anyone
+- [00:00:53,209 - 00:00:55,180] could find a billion dollars. You got to find
+- [00:00:55,180 - 00:00:56,680] the deal. I'm James Dumoulin, and
+- [00:00:56,680 - 00:00:58,180] this is 10 Questions with a Millionaire.
+- [00:00:58,680 - 00:01:00,220] So how long have you been an entrepreneur for?
+- [00:01:00,920 - 00:01:02,600] I think I've been an entrepreneur my whole life.
+- [00:01:02,600 - 00:01:04,280] I've always had my own businesses and done my
+- [00:01:04,280 - 00:01:06,860] own thing, but this particular company is 22 years old.
+- [00:01:07,160 - 00:01:08,660] And as an entrepreneur, if you were to
+- [00:01:08,660 - 00:01:10,160] go back and you started your first business,
+- [00:01:10,320 - 00:01:11,880] what's the number one piece of advice that
+- [00:01:11,880 - 00:01:13,440] you would tell yourself? What's your best advice
+- [00:01:13,440 - 00:01:16,120] to any entrepreneur starting a business in today's world?
+- [00:01:16,500 - 00:01:19,780] Find a mentor. And I would repeat that 10 times.
+- [00:01:19,780 - 00:01:23,060] I waited a long time to actually find a so-called
+- [00:01:23,060 - 00:01:25,370] mentor, and I was actually at a real
+- [00:01:25,370 - 00:01:27,680] estate convention, and a guy named Gary Rappaport was
+- [00:01:28,200 - 00:01:30,260] sitting there and he was a really cool teacher,
+- [00:01:30,260 - 00:01:32,320] and talks about the whole lecture, and he's an icon
+- [00:01:32,420 - 00:01:34,100] in the real estate business. He's been doing this
+- [00:01:34,100 - 00:01:35,780] a lot longer than me, and he's huge in this
+- [00:01:35,800 - 00:01:37,870] business. And he gives this speech, and I'm blown
+- [00:01:37,870 - 00:01:39,940] away. I'm like, this guy is great. And he said,
+- [00:01:39,940 - 00:01:42,530] what I've done now is I placed my business card
+- [00:01:42,530 - 00:01:45,120] on the corners of this room. Feel free to take my
+- [00:01:45,120 - 00:01:48,070] card and call me anytime, email me, text me. I'm
+- [00:01:48,070 - 00:01:51,020] happy to help anyone. And he said, here's what I
+- [00:01:51,020 - 00:01:53,720] know. By the end of this, all my cards will be
+- [00:01:53,720 - 00:01:56,420] gone, but none of you are going to call me. And he
+- [00:01:56,420 - 00:01:57,070] said, and I find it amazing
+- [00:01:57,070 - 00:01:57,720] because everybody says they want help.
+- [00:01:57,720 - 00:02:00,640] want help but they don't call and i said huh so
+- [00:02:00,640 - 00:02:03,560] i took his card and i wanted to be more proactive
+- [00:02:03,560 - 00:02:05,360] so what i did is he had a booth at
+- [00:02:05,360 - 00:02:07,160] this real estate convention i kind of went and stalked
+- [00:02:07,160 - 00:02:08,959] him out and i was waiting outside his booth
+- [00:02:08,959 - 00:02:10,759] because i wanted to go meet this guy because
+- [00:02:10,759 - 00:02:13,119] he just wowed me and he is an icon in
+- [00:02:13,119 - 00:02:15,480] our business and i was standing and people were actually walking
+- [00:02:15,480 - 00:02:17,360] by like saying what are you doing i'm like i'm
+- [00:02:17,360 - 00:02:19,240] waiting for that guy to stop talking so i can go
+- [00:02:19,240 - 00:02:22,080] meet him the minute he finished talking i went up to
+- [00:02:22,080 - 00:02:24,920] him and i said hi gary my name is todd napola i
+- [00:02:24,920 - 00:02:27,040] really love what you do and i love what you said
+- [00:02:27,040 - 00:02:29,160] i want to take you up on that offer but i don't
+- [00:02:29,160 - 00:02:31,479] have a specific question but i want to ask you if
+- [00:02:31,479 - 00:02:33,799] you would allow me to do something i said what you
+- [00:02:33,799 - 00:02:36,199] do is my dream i said this is what i do
+- [00:02:36,199 - 00:02:38,600] as well but you've been doing a long time and you're very
+- [00:02:38,600 - 00:02:41,279] successful i said can i come to your office see
+- [00:02:41,279 - 00:02:43,959] what you do and i'll take you to lunch and he's
+- [00:02:43,959 - 00:02:45,759] like yeah well you're you're he goes here in
+- [00:02:45,759 - 00:02:47,560] virginia i snow i'm in florida i said but i'll
+- [00:02:47,560 - 00:02:50,600] fly up to do this he goes if you fly up the
+- [00:02:50,600 - 00:02:53,640] only change is i'm going to buy you lunch i got on a
+- [00:02:53,640 - 00:02:54,269] plane i flew up to the airport and i was like i'm
+- [00:02:54,269 - 00:02:54,899] going to go to the airport and i'm going to go to
+- [00:02:54,900 - 00:02:55,180] the airport and i'm going to go to the airport and i'm
+- [00:02:55,180 - 00:02:55,460] going to go to the airport and i flew up to maryland
+- [00:02:55,460 - 00:02:58,220] i flew up to washington dc he was offices in
+- [00:02:58,220 - 00:03:00,980] virginia maryland area i met this guy i went into
+- [00:03:00,980 - 00:03:03,900] his office he didn't spend 15 minutes with me he
+- [00:03:03,900 - 00:03:06,820] spent the entire day and this is a guy with
+- [00:03:06,820 - 00:03:08,900] billions and billions and i mean many billions
+- [00:03:08,900 - 00:03:10,980] of dollars worth of real estate he spent this
+- [00:03:10,980 - 00:03:13,300] whole day with a total stranger he gave me his book
+- [00:03:13,300 - 00:03:15,620] which is part of the reason i wrote a book too
+- [00:03:15,620 - 00:03:18,140] we went to lunch i did insist on buying him lunch
+- [00:03:18,140 - 00:03:20,660] and i stayed in touch with this guy as a mentor
+- [00:03:20,660 - 00:03:22,620] and one of the things he said to
+- [00:03:22,620 - 00:03:24,580] me is why did it take you so long
+- [00:03:24,580 - 00:03:27,460] to find a mentor who does what you want to
+- [00:03:27,460 - 00:03:30,340] do versus mentors who just go to business like i had
+- [00:03:30,340 - 00:03:32,820] mentors who were you know ran a big you know a pr
+- [00:03:32,820 - 00:03:35,300] firm or this but he goes why did it take you so
+- [00:03:35,300 - 00:03:38,220] long and my answer was it was a stupid mistake but
+- [00:03:38,220 - 00:03:41,140] i got one now and i keep in touch with gary and
+- [00:03:41,140 - 00:03:43,300] it's funny because the last time i talked to him
+- [00:03:43,300 - 00:03:45,460] was in december and i said gary i just closed a
+- [00:03:45,460 - 00:03:48,340] 25 million dollar deal i'm so excited oh that's
+- [00:03:48,340 - 00:03:51,220] great he goes we just closed one too for 125.
+- [00:03:51,220 - 00:03:52,860] and i was like i know you're not saying to
+- [00:03:52,860 - 00:03:54,500] crush me he's like no i'm saying because keep going
+- [00:03:54,580 - 00:03:56,860] and i'll see him and made our real
+- [00:03:56,860 - 00:03:59,140] estate convention and what i learned from him is
+- [00:03:59,140 - 00:04:00,940] the more successful people are the more
+- [00:04:00,940 - 00:04:02,740] they really want to see other people win
+- [00:04:03,460 - 00:04:06,380] your competition is not necessarily wanting to see you
+- [00:04:06,380 - 00:04:09,300] win but the people who have really made it just
+- [00:04:09,300 - 00:04:11,620] ask them for help they will help you you will
+- [00:04:11,620 - 00:04:13,940] be amazed at how much they'll help you what was the
+- [00:04:13,940 - 00:04:16,220] best financial advice that you've ever received throughout
+- [00:04:16,220 - 00:04:18,500] your lifetime you know i was very lucky
+- [00:04:18,500 - 00:04:21,019] because as i told you earlier i started washing
+- [00:04:21,019 - 00:04:23,540] cars and boats for very wealthy people and what i
+- [00:04:24,580 - 00:04:27,100] learned from that is that the more people who are
+- [00:04:27,100 - 00:04:29,620] wealthy the more they want to help me as a young
+- [00:04:29,620 - 00:04:31,660] kid and maybe they saw a part of themselves
+- [00:04:31,660 - 00:04:33,700] in me and they wanted to give me that value
+- [00:04:33,700 - 00:04:35,940] and what they were telling me back then which
+- [00:04:35,940 - 00:04:38,180] is even more relevant today is don't count other
+- [00:04:38,180 - 00:04:40,419] people's money and so many people are looking
+- [00:04:40,419 - 00:04:42,659] at other people and they're seeing things that
+- [00:04:42,659 - 00:04:45,259] really aren't real and they kind of know it's
+- [00:04:45,259 - 00:04:47,860] not real and i specifically mean now you guys
+- [00:04:47,860 - 00:04:50,620] have social media back then it was you know it was
+- [00:04:50,620 - 00:04:53,380] the cars and boats all over things but a lot of
+- [00:04:53,380 - 00:04:53,860] this stuff isn't real and people get so caught
+- [00:04:53,860 - 00:04:54,340] up in what other people are doing and they're not
+- [00:04:54,340 - 00:04:56,300] really paying attention to what other people have
+- [00:04:56,300 - 00:04:58,260] and keeping up with the joneses and they're buying
+- [00:04:58,260 - 00:05:00,420] things and spending money on things they really can't
+- [00:05:00,420 - 00:05:02,580] afford and i don't want to say stay in your
+- [00:05:02,580 - 00:05:05,180] lane but worry about yourself worry about if
+- [00:05:05,180 - 00:05:07,780] you're good so much of what the young generation
+- [00:05:07,780 - 00:05:10,419] sees today all over the place it's fake and they
+- [00:05:10,419 - 00:05:13,059] know it's fake but they see it and they think it's
+- [00:05:13,059 - 00:05:15,499] real and they're trying to keep up and it's
+- [00:05:15,499 - 00:05:17,940] the young kids like you taking people out for dinners
+- [00:05:17,940 - 00:05:20,339] that you really can't afford because you saw somebody
+- [00:05:20,339 - 00:05:22,739] else do it it's just wrong stay in your
+- [00:05:22,739 - 00:05:23,499] own lane worry about yourself count your own money and
+- [00:05:23,499 - 00:05:24,260] i think that's what people do and i think it's
+- [00:05:24,340 - 00:05:26,140] not gonna be easy but it's gonna be
+- [00:05:26,140 - 00:05:27,940] hard and what's interesting about this is you're gonna
+- [00:05:27,940 - 00:05:29,140] be only able to sell yourself and you're
+- [00:05:29,140 - 00:05:30,340] gonna be able to sell yourself because you're gonna
+- [00:05:30,340 - 00:05:32,740] be able to use your own money and don't
+- [00:05:32,740 - 00:05:35,140] worry about what anybody else is doing just worry
+- [00:05:35,140 - 00:05:37,499] about yourself and it'll work out fine you
+- [00:05:37,499 - 00:05:39,859] start comparing yourself to other people there's always
+- [00:05:39,859 - 00:05:41,819] going to be someone richer there's always going to
+- [00:05:41,819 - 00:05:43,780] be someone faking it more it'll make you feel
+- [00:05:43,780 - 00:05:45,659] insecure because you're gonna go right now i could
+- [00:05:45,659 - 00:05:47,539] go with you on instagram and show you a thousand
+- [00:05:47,539 - 00:05:49,979] kids that look like they're doing great and it
+- [00:05:49,979 - 00:05:52,419] could make you feel bad about yourself worry about
+- [00:05:52,419 - 00:05:52,579] yourself go at your own pace and it'll work out
+- [00:05:52,579 - 00:05:52,739] fine and what was the biggest risk that you've ever
+- [00:05:52,739 - 00:05:53,459] taken throughout your business career the biggest risk i
+- [00:05:53,459 - 00:05:54,179] ever took which obviously i don't want to say
+- [00:05:54,180 - 00:05:56,500] I'm grateful I took and I wasn't even scared
+- [00:05:56,500 - 00:05:58,820] to take it was when I bought my first property.
+- [00:05:58,820 - 00:06:00,310] I was at the time, I was
+- [00:06:00,310 - 00:06:01,800] a stockbroker and I was doing very well.
+- [00:06:01,800 - 00:06:04,240] This was the 1990s, but I knew I wanted
+- [00:06:04,240 - 00:06:06,680] to invest in real estate because as a stockbroker,
+- [00:06:06,680 - 00:06:08,580] you get paid commissions, which means
+- [00:06:08,580 - 00:06:10,480] if there's no trade, there's no money.
+- [00:06:10,480 - 00:06:11,480] And that's great.
+- [00:06:11,480 - 00:06:13,220] People say you make a lot of money, but if
+- [00:06:13,220 - 00:06:14,960] I wanted to go on vacation for a week, I made
+- [00:06:14,960 - 00:06:15,960] zero.
+- [00:06:15,960 - 00:06:16,960] It was commission based.
+- [00:06:16,960 - 00:06:18,240] So I knew I wanted to buy real estate.
+- [00:06:18,240 - 00:06:20,600] So at 25 years old, I bought my first property.
+- [00:06:20,600 - 00:06:23,050] I drained out my entire bank account down to
+- [00:06:23,050 - 00:06:25,500] $50 and it was from six figure amount of
+- [00:06:25,500 - 00:06:27,640] money down to $50.
+- [00:06:27,640 - 00:06:29,680] And I got to the closing table, a
+- [00:06:29,680 - 00:06:31,720] 25 year old kid buying my first property.
+- [00:06:31,720 - 00:06:32,980] And this guy at the time seemed old.
+- [00:06:32,980 - 00:06:35,380] I guess he was my age at the time,
+- [00:06:35,380 - 00:06:37,780] but he was probably 45, 50 year old lawyer.
+- [00:06:37,780 - 00:06:39,980] He said, why are you buying this property?
+- [00:06:39,980 - 00:06:41,800] And I told him my plan for the property and
+- [00:06:41,800 - 00:06:43,620] he kind of left and he said, you think this
+- [00:06:43,620 - 00:06:45,080] is that easy?
+- [00:06:45,080 - 00:06:46,780] And then I went and told all my stockbroker
+- [00:06:46,780 - 00:06:48,480] friends, I took all my money and I bought
+- [00:06:48,480 - 00:06:49,680] a property.
+- [00:06:49,680 - 00:06:50,580] And they didn't just laugh at me.
+- [00:06:50,580 - 00:06:52,580] Some of them, they literally bullied me, telling
+- [00:06:52,580 - 00:06:54,580] me how stupid I was to buy this property.
+- [00:06:54,580 - 00:06:56,119] And I went home and I looked in my
+- [00:06:56,119 - 00:06:57,659] bank account and I saw all that money gone.
+- [00:06:57,659 - 00:06:59,239] And back then you used to like
+- [00:06:59,239 - 00:07:00,820] handwrite your account and it said $50.
+- [00:07:00,820 - 00:07:03,340] And I said, you know what?
+- [00:07:03,340 - 00:07:05,300] What's the worst that could happen if I lose everything?
+- [00:07:05,300 - 00:07:06,640] I still have a good job.
+- [00:07:06,640 - 00:07:11,500] However, I bought that property in June for $575,000.
+- [00:07:11,500 - 00:07:13,539] I went, I re-tenanted the whole property.
+- [00:07:13,539 - 00:07:14,539] I cleaned it up.
+- [00:07:14,539 - 00:07:16,080] I got my friends out there, cheap labor.
+- [00:07:16,080 - 00:07:17,080] We painted it.
+- [00:07:17,080 - 00:07:18,080] We made it look nice.
+- [00:07:18,080 - 00:07:19,280] I wrote leases for new tenants.
+- [00:07:19,280 - 00:07:20,280] And in December of that year.
+- [00:07:20,280 - 00:07:24,380] I refinanced that property to price for $800,000.
+- [00:07:24,380 - 00:07:26,460] I got a $600,000 loan.
+- [00:07:26,460 - 00:07:28,460] I got all my money back.
+- [00:07:28,460 - 00:07:30,629] I got all my closing costs back and I
+- [00:07:30,629 - 00:07:32,799] was getting $5,000 a month in free cashflow as
+- [00:07:32,799 - 00:07:34,539] of January, seven months later
+- [00:07:34,539 - 00:07:36,280] for the rest of my life.
+- [00:07:36,280 - 00:07:37,520] And that's been 25 years.
+- [00:07:37,520 - 00:07:39,380] I still own that same property today.
+- [00:07:39,380 - 00:07:42,179] So it was a huge risk, but pays off.
+- [00:07:42,179 - 00:07:44,140] You gotta be willing to take those shots.
+- [00:07:44,140 - 00:07:45,510] What was the number one
+- [00:07:45,510 - 00:07:46,880] book that ultimately changed your business?
+- [00:07:46,880 - 00:07:48,299] What is the number one book that
+- [00:07:48,299 - 00:07:49,719] you think every entrepreneur should read in today's
+- [00:07:49,719 - 00:07:50,080] world?
+- [00:07:50,280 - 00:07:52,780] It's not a business book.
+- [00:07:52,780 - 00:07:54,219] The book that changed my life for
+- [00:07:54,219 - 00:07:55,659] sure and got me on the straight path.
+- [00:07:55,659 - 00:07:57,839] And you know, I mean, not that I had a
+- [00:07:57,839 - 00:08:00,020] unstraight path, but the book that really got me motivated
+- [00:08:00,020 - 00:08:01,849] really was an old school book
+- [00:08:01,849 - 00:08:03,679] by Tony Robbins, Awaken the Giant Within.
+- [00:08:03,679 - 00:08:06,260] And he talks about that and unlimited power.
+- [00:08:06,260 - 00:08:08,529] And these books really get you to a point
+- [00:08:08,529 - 00:08:10,799] where you learn that we're capable of so much
+- [00:08:10,799 - 00:08:12,500] more than we think we are.
+- [00:08:12,500 - 00:08:15,299] But what he always teaches is everybody overestimates what
+- [00:08:15,299 - 00:08:18,099] they could do in one year, but we underestimate
+- [00:08:18,099 - 00:08:19,719] what we could do in five.
+- [00:08:19,720 - 00:08:21,340] And if you scale things out and figure
+- [00:08:21,340 - 00:08:22,960] out and just chunk it, it'll all add up.
+- [00:08:22,960 - 00:08:25,080] But you gotta be patient sometimes.
+- [00:08:25,080 - 00:08:26,830] But he really taught me in those books at
+- [00:08:26,830 - 00:08:28,580] a young age, in my 20s, that you could do
+- [00:08:28,580 - 00:08:29,580] anything.
+- [00:08:29,580 - 00:08:30,880] And that was his story.
+- [00:08:30,880 - 00:08:31,990] If you fast forward to now, there's
+- [00:08:31,990 - 00:08:33,100] a lot of great books out there.
+- [00:08:33,100 - 00:08:34,100] I'm a big reader.
+- [00:08:34,100 - 00:08:35,720] I read, last year I read 60 books.
+- [00:08:35,720 - 00:08:37,520] I'm still reading.
+- [00:08:37,520 - 00:08:39,240] It's the greatest thing you could do because
+- [00:08:39,240 - 00:08:40,960] anyone who writes a book probably has 25,
+- [00:08:40,960 - 00:08:42,909] 30 years of experience, and they're gonna
+- [00:08:42,909 - 00:08:44,860] give it to you in 200 pages.
+- [00:08:44,860 - 00:08:46,800] So even if you're a slow reader and
+- [00:08:46,800 - 00:08:48,740] you're gonna read one book a month, you're gonna
+- [00:08:48,740 - 00:08:49,720] get hundreds.
+- [00:08:49,720 - 00:08:51,680] Hundreds of years of experience in the
+- [00:08:51,680 - 00:08:53,640] course of one year from all these people.
+- [00:08:53,640 - 00:08:55,000] So if you wanna be a
+- [00:08:55,000 - 00:08:56,360] doctor, read books written by doctors.
+- [00:08:56,360 - 00:08:57,600] You wanna be a lawyer by lawyers.
+- [00:08:57,600 - 00:08:58,660] You wanna do real estate,
+- [00:08:58,660 - 00:08:59,720] read books by real estate guys.
+- [00:08:59,720 - 00:09:04,940] In fact, I'm gonna give you my book.
+- [00:09:04,940 - 00:09:07,040] I wrote a book all about that,
+- [00:09:07,040 - 00:09:09,140] keeping it real on commercial real estate.
+- [00:09:09,140 - 00:09:10,940] And I tell you what, this
+- [00:09:10,940 - 00:09:12,740] is the perfect example I'm saying.
+- [00:09:12,740 - 00:09:14,610] I'm a guy now, I bought so much
+- [00:09:14,610 - 00:09:16,480] real estate in my days, I've done so much.
+- [00:09:16,480 - 00:09:17,530] The greatest thing I could
+- [00:09:17,530 - 00:09:18,580] do now is helping give back.
+- [00:09:18,580 - 00:09:19,580] So I wrote a book.
+- [00:09:19,580 - 00:09:21,130] I'm gonna give all the proceeds to charity for
+- [00:09:21,130 - 00:09:22,680] this book, and I give the book away like
+- [00:09:22,680 - 00:09:25,140] crazy because I want other people to get involved.
+- [00:09:25,140 - 00:09:27,800] So I'm gonna give you a copy of that book.
+- [00:09:27,800 - 00:09:29,080] I really appreciate that.
+- [00:09:29,080 - 00:09:31,130] I wanna ask you, what would you say
+- [00:09:31,130 - 00:09:33,180] are the top three takeaways that everyone should get
+- [00:09:33,180 - 00:09:34,180] out of this book?
+- [00:09:34,180 - 00:09:35,610] What are the three biggest lessons that you
+- [00:09:35,610 - 00:09:37,040] think people should take away and learn from
+- [00:09:37,040 - 00:09:38,680] this book?
+- [00:09:38,680 - 00:09:41,270] The best three things you could get from that
+- [00:09:41,270 - 00:09:43,860] book is not how handsome I am on the cover.
+- [00:09:43,860 - 00:09:46,140] The top three things you could get out of
+- [00:09:46,140 - 00:09:48,420] that book is no matter what you do, and you
+- [00:09:48,420 - 00:09:49,460] can see this all around.
+- [00:09:49,460 - 00:09:51,530] The richest people on the planet, I don't
+- [00:09:51,530 - 00:09:53,600] care if you wanna talk, if they're in railroads
+- [00:09:53,600 - 00:09:57,400] and oil or technology, they all invest in real estate.
+- [00:09:57,400 - 00:09:58,800] They all wanna have real estate.
+- [00:09:58,800 - 00:10:00,820] It's one of the greatest things you could own.
+- [00:10:00,820 - 00:10:03,090] Whether it's a special house you wanna own
+- [00:10:03,090 - 00:10:05,360] or whether it's a piece of commercial property,
+- [00:10:05,360 - 00:10:06,840] you gotta learn real estate.
+- [00:10:06,840 - 00:10:09,350] The reason being is if you wanna be
+- [00:10:09,350 - 00:10:11,860] the greatest architect or the greatest dentist you could
+- [00:10:11,860 - 00:10:13,670] be, you're not gonna have continued
+- [00:10:13,670 - 00:10:15,480] cash flow in your retirement years.
+- [00:10:15,480 - 00:10:16,860] You're not gonna have something you could
+- [00:10:16,860 - 00:10:18,240] give your kids unless, of course, that's the
+- [00:10:18,240 - 00:10:19,340] same business they want.
+- [00:10:19,340 - 00:10:21,990] You buy one piece of real estate and you
+- [00:10:21,990 - 00:10:24,640] do everything else wrong but pay that one property
+- [00:10:24,640 - 00:10:28,100] off over 25 years, 20 years, you own it.
+- [00:10:28,100 - 00:10:29,100] You're set.
+- [00:10:29,100 - 00:10:30,720] You may not be rich off of one property,
+- [00:10:30,720 - 00:10:32,340] but if you just did one thing right and bought
+- [00:10:32,340 - 00:10:34,820] a piece of property, you could retire.
+- [00:10:34,820 - 00:10:36,950] And a lot of people get to an age where
+- [00:10:36,950 - 00:10:39,080] they're in their 60s, 70s, and 80s and they're broke.
+- [00:10:39,080 - 00:10:41,160] So the younger you are, you should buy property.
+- [00:10:41,160 - 00:10:43,360] That's the most important thing is to get started.
+- [00:10:43,360 - 00:10:45,240] The second most important thing you could learn
+- [00:10:45,240 - 00:10:47,120] from my book is what type of property
+- [00:10:47,120 - 00:10:48,120] works for you.
+- [00:10:48,120 - 00:10:49,220] As I said earlier, take a look at your life.
+- [00:10:49,220 - 00:10:49,300] Take a look at your life.
+- [00:10:49,340 - 00:10:50,840] Different things work for different people.
+- [00:10:50,840 - 00:10:52,290] If you are the dentist, you can't
+- [00:10:52,290 - 00:10:53,740] buy the value-add property because you don't have
+- [00:10:53,740 - 00:10:54,740] time.
+- [00:10:54,740 - 00:10:56,960] If you do have time, there's value-add property.
+- [00:10:56,960 - 00:10:59,140] And the third thing you'll get out of
+- [00:10:59,140 - 00:11:01,320] that book is it's much easier than people think.
+- [00:11:01,320 - 00:11:02,830] Many people come up to me and they
+- [00:11:02,830 - 00:11:04,340] say, oh yeah, but you can't buy commercial property.
+- [00:11:04,340 - 00:11:05,600] It's impossible.
+- [00:11:05,600 - 00:11:07,160] It's very possible.
+- [00:11:07,160 - 00:11:08,750] Just like you know how to manage your apartment
+- [00:11:08,750 - 00:11:10,340] and take care of your own apartment and do
+- [00:11:10,340 - 00:11:12,490] your laundry and take care of things,
+- [00:11:12,490 - 00:11:14,640] owning commercial property is very, very easy.
+- [00:11:14,640 - 00:11:16,520] And I tell everybody when they buy, and you'll
+- [00:11:16,520 - 00:11:18,400] get this out of the book too, buy a property
+- [00:11:18,400 - 00:11:19,220] you could manage yourself.
+- [00:11:19,220 - 00:11:21,020] And learn the business and you'll
+- [00:11:21,020 - 00:11:22,820] see just how easy it is.
+- [00:11:22,820 - 00:11:25,100] And once you buy one, I very rarely ever hear
+- [00:11:25,100 - 00:11:27,380] a person saying I don't want to own a second.
+- [00:11:27,380 - 00:11:28,820] They say I should have done it sooner.
+- [00:11:28,820 - 00:11:29,820] So start early.
+- [00:11:29,820 - 00:11:30,820] So start at your age.
+- [00:11:30,820 - 00:11:31,820] Yeah.
+- [00:11:31,820 - 00:11:33,140] It's kind of like you said, a lot of
+- [00:11:33,140 - 00:11:34,460] people think that it's really hard to get into.
+- [00:11:34,460 - 00:11:35,900] But I feel like there's kind of this misconception that
+- [00:11:35,900 - 00:11:37,340] you have to have a ton of money in order
+- [00:11:37,340 - 00:11:39,340] to buy property and invest in real estate.
+- [00:11:39,340 - 00:11:41,220] But what has been your secret to
+- [00:11:41,220 - 00:11:43,100] creating wealth in real estate throughout your career?
+- [00:11:43,100 - 00:11:44,340] Maybe it has to do with
+- [00:11:44,340 - 00:11:45,580] leveraging capital from not just yourself.
+- [00:11:45,580 - 00:11:47,340] But like, you know, there is that misconception
+- [00:11:47,340 - 00:11:49,100] in today's world that like people think that
+- [00:11:49,100 - 00:11:50,550] in order to invest in or buy
+- [00:11:50,550 - 00:11:52,000] property, they have to have all this money.
+- [00:11:52,000 - 00:11:53,000] Like what would you say to those people?
+- [00:11:53,000 - 00:11:55,160] Well, I would tell anybody who has no
+- [00:11:55,160 - 00:11:57,320] money, no credit and thinks that there's no shot
+- [00:11:57,320 - 00:12:00,100] they could buy a property, go find a deal.
+- [00:12:00,100 - 00:12:01,660] Because I tell this to young people all the time.
+- [00:12:01,660 - 00:12:02,640] We have a very big mall
+- [00:12:02,640 - 00:12:03,620] down the street from us here.
+- [00:12:03,620 - 00:12:04,620] It's called the Aventura Mall.
+- [00:12:04,620 - 00:12:07,960] And it's probably worth, if I guess, $3 billion.
+- [00:12:07,960 - 00:12:09,810] And I say to them, if someone said to
+- [00:12:09,810 - 00:12:11,660] you, they'll sell you this property for a billion
+- [00:12:11,660 - 00:12:13,600] dollars, but you got to close tomorrow
+- [00:12:13,600 - 00:12:15,540] morning, anyone could find a billion dollars.
+- [00:12:15,540 - 00:12:17,380] You got to find the deal.
+- [00:12:17,380 - 00:12:19,100] So if you're young and ambitious.
+- [00:12:19,100 - 00:12:21,520] Go out and find properties that make sense.
+- [00:12:21,520 - 00:12:23,420] There's a line of people 100 miles long that
+- [00:12:23,420 - 00:12:25,320] want to invest in good deals, but they can't
+- [00:12:25,320 - 00:12:26,400] find them.
+- [00:12:26,400 - 00:12:28,130] So if you find a really good deal and
+- [00:12:28,130 - 00:12:29,860] you bring it to me or someone else or somebody
+- [00:12:29,860 - 00:12:32,040] you know with money, the money is easy.
+- [00:12:32,040 - 00:12:33,320] The deal is hard.
+- [00:12:33,320 - 00:12:34,320] So go out and find a deal.
+- [00:12:34,320 - 00:12:35,320] Right.
+- [00:12:35,320 - 00:12:37,560] And real estate is an extremely competitive industry.
+- [00:12:37,560 - 00:12:38,870] So what would you say is the
+- [00:12:38,870 - 00:12:40,180] biggest thing that you've implemented throughout your company
+- [00:12:40,180 - 00:12:42,090] to really stand out against the competition
+- [00:12:42,090 - 00:12:44,000] and be able to find those deals?
+- [00:12:44,000 - 00:12:46,520] What makes us unique is we do it all in-house.
+- [00:12:46,520 - 00:12:47,760] So there are a lot of companies
+- [00:12:47,760 - 00:12:49,000] that want to go out and buy properties.
+- [00:12:49,100 - 00:12:51,510] And specifically doing what we
+- [00:12:51,510 - 00:12:53,920] do and buying larger properties.
+- [00:12:53,920 - 00:12:55,900] The catch is they'll say, I'm buying a property.
+- [00:12:55,900 - 00:12:57,690] I'm going to buy one in Ohio,
+- [00:12:57,690 - 00:12:59,480] one in Arizona, one in New York.
+- [00:12:59,480 - 00:13:01,080] I don't feel you have an edge.
+- [00:13:01,080 - 00:13:03,540] Every property that we own is within 250,
+- [00:13:03,540 - 00:13:06,000] 300 miles from where we are right now, which
+- [00:13:06,000 - 00:13:07,850] means I could wake up in the morning,
+- [00:13:07,850 - 00:13:09,700] drive to my property, see what's going on, take
+- [00:13:09,700 - 00:13:12,240] care of what I have to, understand it,
+- [00:13:12,240 - 00:13:14,780] have lunch and drive home, be home for dinner.
+- [00:13:14,780 - 00:13:16,590] Because I have that and I'm local
+- [00:13:16,590 - 00:13:18,400] to my properties, I understand the market.
+- [00:13:18,400 - 00:13:18,900] Now.
+- [00:13:19,100 - 00:13:21,080] Everything we do, we do in-house.
+- [00:13:21,080 - 00:13:22,520] My entire leasing team is here.
+- [00:13:22,520 - 00:13:23,620] My accounting team is here.
+- [00:13:23,620 - 00:13:25,540] My property management team is here.
+- [00:13:25,540 - 00:13:27,140] So we overlap one another.
+- [00:13:27,140 - 00:13:29,380] So this property knows what this property is doing.
+- [00:13:29,380 - 00:13:31,700] And this manager knows what this manager is doing.
+- [00:13:31,700 - 00:13:33,150] When you have everything
+- [00:13:33,150 - 00:13:34,600] in-house, you have absolute control.
+- [00:13:34,600 - 00:13:36,420] We have a ton of tenants.
+- [00:13:36,420 - 00:13:38,400] So because they're all nearby each other, we
+- [00:13:38,400 - 00:13:40,380] have the ability to say from one tenant,
+- [00:13:40,380 - 00:13:42,050] say they have a nail salon and
+- [00:13:42,050 - 00:13:43,720] have a vacancy in another nail salon.
+- [00:13:43,720 - 00:13:44,820] I could ask them for
+- [00:13:44,820 - 00:13:45,920] referrals to how to rent that.
+- [00:13:45,920 - 00:13:47,900] So those synergies go a long way.
+- [00:13:47,900 - 00:13:49,000] What was the biggest deal that you've ever created?
+- [00:13:49,100 - 00:13:50,780] Closed in commercial real estate.
+- [00:13:50,780 - 00:13:51,860] The biggest deal I ever
+- [00:13:51,860 - 00:13:52,940] did was actually this past December.
+- [00:13:52,940 - 00:13:54,070] We bought a property that
+- [00:13:54,070 - 00:13:55,200] had never been on the market.
+- [00:13:55,200 - 00:13:57,280] Same kind of example of what I do.
+- [00:13:57,280 - 00:13:59,920] A father and son built it 50 years ago.
+- [00:13:59,920 - 00:14:01,120] And they built it over 10
+- [00:14:01,120 - 00:14:02,320] years, so 40 to 50 years.
+- [00:14:02,320 - 00:14:03,640] So over 10 years span.
+- [00:14:03,640 - 00:14:07,060] They built 165,000 square feet of shopping centers.
+- [00:14:07,060 - 00:14:08,470] And unfortunately, the grandfather then
+- [00:14:08,470 - 00:14:09,880] passed, the father passed, and
+- [00:14:09,880 - 00:14:11,440] it went down to the heirs.
+- [00:14:11,440 - 00:14:13,440] And like a lot of things, as
+- [00:14:13,440 - 00:14:15,440] it dilutes to multiple people, it got challenging.
+- [00:14:15,440 - 00:14:18,400] So we bought that property in December for $25 million.
+- [00:14:18,400 - 00:14:18,980] Wow.
+- [00:14:19,100 - 00:14:20,690] And I wanted to ask you, what is
+- [00:14:20,690 - 00:14:22,280] your best investment advice to everyone out there?
+- [00:14:22,280 - 00:14:23,460] So let's say someone's in their
+- [00:14:23,460 - 00:14:24,640] career, they're finally starting to save money,
+- [00:14:24,640 - 00:14:25,280] put it to the side.
+- [00:14:25,280 - 00:14:26,380] They're looking to maybe get
+- [00:14:26,380 - 00:14:27,480] into the market, buy some property.
+- [00:14:27,480 - 00:14:28,810] What are those indicators that you look
+- [00:14:28,810 - 00:14:30,140] for in a market that tells you,
+- [00:14:30,140 - 00:14:30,900] now's the time to buy?
+- [00:14:30,900 - 00:14:31,960] You need to buy this property.
+- [00:14:31,960 - 00:14:33,720] What's the secret to investing in real estate?
+- [00:14:34,820 - 00:14:36,580] You gotta go against the grain.
+- [00:14:36,580 - 00:14:38,420] So like I said to you
+- [00:14:38,420 - 00:14:40,260] earlier before, everybody's afraid of office product.
+- [00:14:40,260 - 00:14:41,360] I don't buy office cuz
+- [00:14:41,360 - 00:14:42,460] at this stage in the game,
+- [00:14:42,460 - 00:14:44,940] I'm really good at retail and industrial product.
+- [00:14:44,940 - 00:14:46,620] But everybody's afraid of office.
+- [00:14:46,620 - 00:14:47,940] Nobody wants to buy it.
+- [00:14:47,940 - 00:14:49,100] When I buy a lot of retail,
+- [00:14:49,100 - 00:14:50,920] you probably heard the expression retail is dead.
+- [00:14:50,920 - 00:14:53,080] No one's gonna shop, they're only gonna buy on Amazon.
+- [00:14:53,080 - 00:14:55,060] Well, that proved incorrect.
+- [00:14:55,060 - 00:14:56,800] But if you follow the momentum,
+- [00:14:56,800 - 00:14:58,540] the herd mentality, everyone's saying, well,
+- [00:14:58,540 - 00:14:59,740] now you need to buy multifamily,
+- [00:14:59,740 - 00:15:00,940] you need to buy a house.
+- [00:15:00,940 - 00:15:02,640] That's probably the wrong way to go.
+- [00:15:02,640 - 00:15:05,680] So when people are really scared to make decisions,
+- [00:15:05,680 - 00:15:07,220] that's when you gotta be aggressive.
+- [00:15:07,220 - 00:15:08,800] And when they're very aggressively
+- [00:15:08,800 - 00:15:10,380] buying everything, you better get scared.
+- [00:15:10,380 - 00:15:12,260] So you'll see that play out over time.
+- [00:15:12,260 - 00:15:14,370] So find what you like, and it's always the
+- [00:15:14,370 - 00:15:16,480] right time to buy what you like if it's
+- [00:15:16,480 - 00:15:19,100] a good deal, but don't follow the herd mentality.
+- [00:15:19,100 - 00:15:20,850] Stick to what it is you like,
+- [00:15:20,850 - 00:15:22,600] and over time, it'll do just fine.
+- [00:15:22,600 - 00:15:23,980] What is the biggest mindset change that
+- [00:15:23,980 - 00:15:25,360] is needed in order to become a
+- [00:15:25,360 - 00:15:26,140] multimillionaire?
+- [00:15:27,200 - 00:15:29,300] I believe anyone could be a multimillionaire.
+- [00:15:29,300 - 00:15:31,220] You just gotta believe you wanna be a millionaire, and
+- [00:15:31,220 - 00:15:34,060] you gotta know why you want to be a millionaire.
+- [00:15:34,060 - 00:15:36,220] If you wanna be a millionaire
+- [00:15:36,220 - 00:15:38,380] because you saw something on Instagram or
+- [00:15:38,380 - 00:15:39,420] something like that, and you think
+- [00:15:39,420 - 00:15:40,460] people have a fancy car and
+- [00:15:40,460 - 00:15:42,580] they're millionaires, they may not be.
+- [00:15:42,580 - 00:15:44,110] If you wanna be a
+- [00:15:44,110 - 00:15:45,640] millionaire because you want financial freedom,
+- [00:15:45,640 - 00:15:47,080] you will find a way to do it.
+- [00:15:47,080 - 00:15:48,880] You gotta believe it, and I really believe you could
+- [00:15:49,100 - 00:15:52,060] talk things right into the universe and get them back.
+- [00:15:52,060 - 00:15:53,820] But you gotta have the right why.
+- [00:15:53,820 - 00:15:56,040] If you don't know your why, it won't happen.
+- [00:15:56,040 - 00:15:57,910] If your why is I want a
+- [00:15:57,910 - 00:15:59,780] fancy car and fancy dinner, it won't happen.
+- [00:15:59,780 - 00:16:01,380] If your why is I wanna make sure
+- [00:16:01,380 - 00:16:02,980] I can send my kids to college one day,
+- [00:16:02,980 - 00:16:04,560] I could take care of my parents if need
+- [00:16:04,560 - 00:16:06,140] be, and I wanna go to sleep every night
+- [00:16:06,140 - 00:16:07,730] knowing I'm not worried about next
+- [00:16:07,730 - 00:16:09,320] month's bills, you could get it done.
+- [00:16:10,620 - 00:16:12,110] If your bank account hit zero
+- [00:16:12,110 - 00:16:13,600] tomorrow, right, you went broke tomorrow,
+- [00:16:13,600 - 00:16:14,920] what would be the first step that you
+- [00:16:14,920 - 00:16:16,240] would take to build your empire back and
+- [00:16:16,240 - 00:16:17,200] become financially free again?
+- [00:16:17,200 - 00:16:18,200] You know, a lot of guys say that.
+- [00:16:18,200 - 00:16:21,360] What would happen if you went to zero?
+- [00:16:22,560 - 00:16:24,400] If your bank account goes to zero,
+- [00:16:24,400 - 00:16:26,240] you have built up so much knowledge and
+- [00:16:26,240 - 00:16:29,100] so many contacts, it does get a lot easier.
+- [00:16:29,100 - 00:16:30,810] Which is why you hear about the
+- [00:16:30,810 - 00:16:32,520] guy who has a billion dollar company,
+- [00:16:32,520 - 00:16:34,180] like the guy who said who owns this office building,
+- [00:16:34,180 - 00:16:35,800] we're making another billion dollars.
+- [00:16:35,800 - 00:16:38,600] That second billion dollars doesn't change his life one bit.
+- [00:16:38,600 - 00:16:40,280] He doesn't change in any way.
+- [00:16:40,280 - 00:16:42,410] So at this point, if I lost
+- [00:16:42,410 - 00:16:44,540] everything, the skill sets that I've learned,
+- [00:16:44,540 - 00:16:45,980] forgetting about the hundreds and hundreds
+- [00:16:45,980 - 00:16:47,420] and hundreds of books I've read,
+- [00:16:47,420 - 00:16:50,080] the contacts I have with banks, my reputation
+- [00:16:50,080 - 00:16:52,740] of what I am and what I stand for,
+- [00:16:52,740 - 00:16:53,820] I know I could build it
+- [00:16:53,820 - 00:16:54,900] all back up in no time.
+- [00:16:54,900 - 00:16:55,939] And you think you would get back into
+- [00:16:55,939 - 00:16:56,979] real estate if you had to start over?
+- [00:16:56,979 - 00:16:59,599] 100,000%, it's what I love.
+- [00:16:59,599 - 00:17:01,179] And people sometimes say this to me
+- [00:17:01,179 - 00:17:02,760] too, they're like, well, you have spaces,
+- [00:17:02,760 - 00:17:03,839] why don't you open a restaurant?
+- [00:17:03,839 - 00:17:06,180] Why don't you take a vacancy and open this?
+- [00:17:06,180 - 00:17:07,539] That's not what I do,
+- [00:17:07,539 - 00:17:08,899] I don't have passion for that.
+- [00:17:08,899 - 00:17:10,689] I invest in real estate, I
+- [00:17:10,689 - 00:17:12,480] love real estate, I eat, breathe, and
+- [00:17:12,480 - 00:17:13,970] sleep real estate, so it's
+- [00:17:13,970 - 00:17:15,460] exactly what I would do again.
