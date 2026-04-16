@@ -1,0 +1,105 @@
+# Transcript
+
+Source: lazyearn/school-of-hard-knocks/entrepreneurship/178 - Top 5 Cities to become an Entrepreneur in 2021! Perfect for aspiring entrepreneurs. [InwiIbuE3WQ].mkv
+
+- [00:00:00,240 - 00:00:02,180] What's going on y'all? Welcome back to
+- [00:00:02,180 - 00:00:04,120] another video with the School of Hard Knocks.
+- [00:00:04,240 - 00:00:08,520] I'm James and today we're going to be going over my top
+- [00:00:08,520 - 00:00:12,800] 5 best cities to start a business and become an entrepreneur in 2021.
+- [00:00:13,560 - 00:00:17,770] Now before we get started, let's start off by saying that there are
+- [00:00:17,770 - 00:00:21,980] an accumulation of a variety of factors that I decided when making this video.
+- [00:00:21,980 - 00:00:28,620] And that comes in terms of opportunities, startup cost, the cost of living, where I think
+- [00:00:28,620 - 00:00:35,260] you can maximize your growth and profits the most, as well as networking and client opportunities.
+- [00:00:35,640 - 00:00:39,130] Now before I get into the top 5, make sure you leave us a
+- [00:00:39,130 - 00:00:42,620] subscribe at the School of Hard Knocks and follow our other social media channels.
+- [00:00:43,080 - 00:00:44,330] And if you enjoy this video, be
+- [00:00:44,330 - 00:00:45,580] sure to leave us a like as well.
+- [00:00:45,820 - 00:00:47,340] Now without further ado, let's
+- [00:00:47,340 - 00:00:48,860] get started in our top 5.
+- [00:00:48,860 - 00:00:50,780] Starting with number 5, Seattle.
+- [00:00:50,780 - 00:00:52,480] Seattle is one of the fastest
+- [00:00:52,480 - 00:00:54,180] growing cities in the United States.
+- [00:00:54,540 - 00:00:59,060] While Seattle has always been known for being one of the biggest tech hubs in the
+- [00:00:59,060 - 00:01:03,580] United States, it is right now one of the fastest growing startup hubs all around the country.
+- [00:01:04,120 - 00:01:08,010] It's got a growing venture capital scene, so despite the high cost of living in
+- [00:01:08,010 - 00:01:11,900] Seattle, the economic development there is there to offset a lot of cost of living.
+- [00:01:12,040 - 00:01:15,360] Seattle has a very young, innovative, and vibrant crowd of
+- [00:01:15,360 - 00:01:18,680] people that have been leading the entrepreneurial movement in Seattle.
+- [00:01:18,860 - 00:01:19,900] Which is why Seattle has increasingly...
+- [00:01:20,780 - 00:01:23,680] become a more welcoming city for young entrepreneurs.
+- [00:01:23,900 - 00:01:26,260] At number 4 we have Denver, Colorado.
+- [00:01:26,740 - 00:01:29,960] Denver ranks in the top 10 for being a best city to
+- [00:01:29,960 - 00:01:33,180] start a business and is a top 10 city for startups as well.
+- [00:01:33,400 - 00:01:38,080] Denver, Colorado has been a place that has been increasingly attractive for businesses to move
+- [00:01:38,080 - 00:01:42,760] to due to tax incentives from the government that appealed for startups and businesses to...
+- [00:01:42,760 - 00:01:46,400] Denver has several multi-billion dollar investments moving towards
+- [00:01:46,400 - 00:01:50,040] particular industries from manufacturing to transportation to cannabis.
+- [00:01:50,040 - 00:01:50,290] Denver has several multi-billion dollar investments moving towards
+- [00:01:50,290 - 00:01:50,540] particular industries from manufacturing to transportation to cannabis.
+- [00:01:50,540 - 00:01:51,120] Denver has several multi-billion dollar investments moving towards particular industries
+- [00:01:51,120 - 00:01:51,700] from manufacturing to transportation to transportation to cannabis and more.
+- [00:01:51,860 - 00:01:55,650] Denver is not only a great place to live, but it's also a great
+- [00:01:55,650 - 00:01:59,440] place for young people to move to, to start a business, thrive, and progress.
+- [00:01:59,520 - 00:02:01,500] And that's why Denver is on this list.
+- [00:02:01,600 - 00:02:04,100] At number 3 we have Los Angeles.
+- [00:02:04,260 - 00:02:08,280] Los Angeles is known for being one of the largest cities for tech
+- [00:02:08,280 - 00:02:12,300] entrepreneurship and is the third largest city for startups in the United States.
+- [00:02:12,440 - 00:02:15,430] Despite having a very high cost of living in Southern California,
+- [00:02:15,430 - 00:02:18,420] at the end of the day, your network is your net worth.
+- [00:02:18,560 - 00:02:19,030] And quite frankly, there are
+- [00:02:19,030 - 00:02:19,500] thousands of like-minded people out there.
+- [00:02:19,500 - 00:02:19,890] And quite frankly, there are
+- [00:02:19,890 - 00:02:20,280] thousands of like-minded people out there.
+- [00:02:20,280 - 00:02:20,390] And quite frankly, there are
+- [00:02:20,390 - 00:02:20,500] thousands of like-minded people out there.
+- [00:02:20,540 - 00:02:23,120] people in Los Angeles. While Los Angeles is a city
+- [00:02:23,120 - 00:02:25,700] full of consumers, that is a very great place to
+- [00:02:25,700 - 00:02:28,359] connect with the right people, get your business
+- [00:02:28,359 - 00:02:31,019] growing, and appeal to a wide audience of a
+- [00:02:31,019 - 00:02:33,689] variety of different people. Some people may argue
+- [00:02:33,689 - 00:02:36,359] that Los Angeles is the best place for entrepreneurs
+- [00:02:36,359 - 00:02:39,119] and startup businesses to be because of all the
+- [00:02:39,119 - 00:02:41,880] city has to offer for business owners and just
+- [00:02:41,880 - 00:02:45,250] the access that they have to such a
+- [00:02:45,250 - 00:02:48,620] widely global market and just such special talent concentrated
+- [00:02:48,620 - 00:02:51,940] in a particular region or city. However, due to
+- [00:02:51,940 - 00:02:55,260] the very high cost of living, we're going to keep
+- [00:02:55,260 - 00:02:59,780] Los Angeles at number three and that will take us
+- [00:02:59,780 - 00:03:04,300] on to the number two, which is Miami. Miami is an
+- [00:03:04,300 - 00:03:06,590] incredible place to start a business and
+- [00:03:06,590 - 00:03:08,880] for entrepreneurs to thrive. It actually has the
+- [00:03:08,880 - 00:03:12,000] highest density of startups in the entire country
+- [00:03:12,000 - 00:03:15,120] out of any city. Miami is an extremely creative
+- [00:03:15,120 - 00:03:18,260] place and allows for tons of opportunities.
+- [00:03:18,620 - 00:03:33,610] Miami is a city full of people and it is known for a city full of collaborating, which makes it very appealing for businesses to be able to kind of go there and really innovate
+- [00:03:33,610 - 00:03:48,600] and develop and grow as a company. There's also support from major institutions, considering that Miami has 139 of the Inc. 5000 companies located in Miami. The support from them and the support from the
+- [00:03:48,600 - 00:04:03,219] venture capital endowment out in Miami is great for businesses to be able to gain investment and help themselves grow. Miami also ranks as a top five fastest growing city in the United States. And due to the accumulation of all these factors. That's why we have Miami ranked at number two leading us
+- [00:04:03,219 - 00:04:17,839] into the number one hole. We have none other than Austin, Texas. Austin, Texas is the fastest growing city in the United States. And it was ranked by CNBC as the number one city in the United States. And so we're going to take a look at that list and see what we can do.
+- [00:04:18,600 - 00:04:21,959] city to start a business in 2021. Austin has
+- [00:04:21,959 - 00:04:25,320] grown its startups faster than any city in the entire
+- [00:04:25,320 - 00:04:28,390] country by 81%. Austin is an extremely innovative
+- [00:04:28,390 - 00:04:31,460] city and while it's known for being an immense
+- [00:04:31,460 - 00:04:34,380] tech hub, it is also known for its
+- [00:04:34,380 - 00:04:37,300] startup and entrepreneurial culture throughout the entire city.
+- [00:04:37,520 - 00:04:40,080] Austin is also an extremely affordable city to be
+- [00:04:40,080 - 00:04:42,640] in considering all the city has that offers for
+- [00:04:42,640 - 00:04:45,130] the opportunities, for the networking, for
+- [00:04:45,130 - 00:04:47,620] the consumer availability. The thing about Austin
+- [00:04:47,620 - 00:04:50,030] that also makes it stand out so much is that it
+- [00:04:50,030 - 00:04:52,440] has no state income tax and it has a zero percent
+- [00:04:52,440 - 00:04:54,950] corporate tax rate which makes it very appealing
+- [00:04:54,950 - 00:04:57,460] for businesses to go there and maximize the amount
+- [00:04:57,460 - 00:04:59,510] of profit that they can make. The overall culture
+- [00:04:59,510 - 00:05:01,560] of Austin is known very well for being very
+- [00:05:01,560 - 00:05:04,030] supportive of fellow entrepreneurs and small
+- [00:05:04,030 - 00:05:06,500] businesses which makes it very appealing for
+- [00:05:06,500 - 00:05:09,330] businesses to move there or open up there
+- [00:05:09,330 - 00:05:12,160] and start up and really thrive as business owners
+- [00:05:12,160 - 00:05:14,880] and entrepreneurs just because of how supportive
+- [00:05:14,880 - 00:05:17,600] and collaborative everyone in the city really is.
+- [00:05:17,620 - 00:05:22,700] For that reason we have Austin, Texas taking the number one spot on our
+- [00:05:22,700 - 00:05:27,780] top five list of cities to become an entrepreneur and start a business in.
+- [00:05:27,780 - 00:05:33,180] With that all being said, that wraps up our top five. If you enjoyed this video please leave us a
+- [00:05:33,180 - 00:05:38,580] like, leave us a subscribe at the School of Hard Knocks and be sure to follow us on TikTok, on Instagram.
+- [00:05:38,580 - 00:05:42,060] And if you enjoyed this video go ahead and leave us a like. Until next time,
+- [00:05:42,060 - 00:05:45,540] I'm James, I'm with the School of Hard Knocks and I thank you for tuning in.
