@@ -1,0 +1,251 @@
+# Transcript
+
+Source: lazyearn/school-of-hard-knocks/entrepreneurship/179 - 5 BEST Tips For Beginner Entrepreneurs ｜ Understanding Business Basics [DkwsSB-B12Q].mkv
+
+- [00:00:00,720 - 00:00:03,860] Today, we're going to be talking about five tips for new entrepreneurs, but
+- [00:00:03,860 - 00:00:07,000] we're going to be doing something a little bit different in today's video.
+- [00:00:07,280 - 00:00:13,550] And what I mean by something different is we are actually going to be on a trail walk today doing this video
+- [00:00:13,550 - 00:00:19,820] just because I feel like a lot of the times videos on entrepreneurship, business and finance in general are always super serious.
+- [00:00:20,180 - 00:00:22,450] Instead of just like a conversation that people
+- [00:00:22,450 - 00:00:24,720] would have with their younger selves per se.
+- [00:00:24,720 - 00:00:28,009] And that's always the kind of content that I always look
+- [00:00:28,009 - 00:00:31,299] for is just just like a conversation, just real shit, honestly.
+- [00:00:31,919 - 00:00:34,319] So if you guys do enjoy this video, if you guys
+- [00:00:34,319 - 00:00:36,720] enjoy this type of content, please leave us a like and subscribe.
+- [00:00:37,000 - 00:00:39,360] I would really appreciate it. We have a ton of content coming
+- [00:00:39,360 - 00:00:41,720] out on this channel and something I want to talk about real quick.
+- [00:00:41,820 - 00:00:44,020] That's arguably more important than the tips I'll
+- [00:00:44,020 - 00:00:46,220] be giving later today is figuring out your why.
+- [00:00:46,220 - 00:00:50,460] And you don't if you don't understand what I mean by that, if you don't know what I'm saying, your
+- [00:00:50,460 - 00:00:54,700] why is pretty much why you do what you're doing and why you're working so hard to achieve said goal.
+- [00:00:54,720 - 00:00:59,330] Right. And the reason why figuring it out, figuring out your why is so
+- [00:00:59,330 - 00:01:03,940] important is because some days are going to be better than others in entrepreneurship.
+- [00:01:03,940 - 00:01:06,610] Some days you're going to wake up absolutely crushed today.
+- [00:01:06,610 - 00:01:09,280] Everything that you seem to do just works out great.
+- [00:01:09,400 - 00:01:11,030] Everything that you want to get
+- [00:01:11,030 - 00:01:12,660] done gets done. Everything's good. Right.
+- [00:01:13,039 - 00:01:15,379] But then you have the other side of the spectrum
+- [00:01:15,379 - 00:01:17,720] where everything you're doing maybe isn't working out so well.
+- [00:01:17,800 - 00:01:20,640] Maybe you get into a car accident before a big meeting
+- [00:01:20,640 - 00:01:23,480] or maybe you fall into a ditch before your big meeting.
+- [00:01:23,480 - 00:01:24,720] Who knows? Whatever it may be.
+- [00:01:24,720 - 00:01:26,160] Whatever life throws your way, some days
+- [00:01:26,160 - 00:01:27,600] are going to be better than others.
+- [00:01:27,800 - 00:01:30,780] And you're going to have negative self-talk that comes in
+- [00:01:30,780 - 00:01:33,760] occasionally and makes you question, why are you doing this?
+- [00:01:34,340 - 00:01:35,990] Why are you working so hard
+- [00:01:35,990 - 00:01:37,640] on this? You're not even seeing results.
+- [00:01:38,200 - 00:01:40,369] You can't do this. You know, all
+- [00:01:40,369 - 00:01:42,539] those negative self-talks and self-beliefs come in.
+- [00:01:42,900 - 00:01:46,290] And your why is ultimately going to pull you through that and be able
+- [00:01:46,290 - 00:01:49,680] to reassure you on why you're working so hard on what you're trying to achieve.
+- [00:01:49,680 - 00:01:52,180] One more thing that's not talked about enough for
+- [00:01:52,180 - 00:01:54,680] new entrepreneurs is that it is perfectly OK to work.
+- [00:01:54,720 - 00:01:56,800] Work a job when you start your business.
+- [00:01:57,220 - 00:01:58,430] And the reason being is
+- [00:01:58,430 - 00:01:59,640] because you need money for rent.
+- [00:01:59,640 - 00:02:00,690] You need money for food.
+- [00:02:00,690 - 00:02:01,740] You need money to live. Right.
+- [00:02:02,240 - 00:02:05,730] And a lot of businesses, when they first start, are not super profitable
+- [00:02:05,730 - 00:02:09,220] or maybe are not enough for you to live off of solely from that.
+- [00:02:09,639 - 00:02:12,429] So work a job. It's completely OK to
+- [00:02:12,429 - 00:02:15,220] help fund your lifestyle and where you're currently at.
+- [00:02:15,460 - 00:02:16,940] And then also put to inject
+- [00:02:16,940 - 00:02:18,420] money into the business as well.
+- [00:02:18,420 - 00:02:19,960] So that way it can grow and
+- [00:02:19,960 - 00:02:21,500] allowing you to actually quit the job.
+- [00:02:21,760 - 00:02:23,340] Let's go ahead and hop into these tips.
+- [00:02:23,480 - 00:02:24,680] Besides this first tip.
+- [00:02:24,840 - 00:02:27,060] The rest of the tips are no particular order.
+- [00:02:27,440 - 00:02:28,600] But this first one is
+- [00:02:28,600 - 00:02:29,760] like a golden rule of business.
+- [00:02:29,760 - 00:02:30,900] You need to know sales.
+- [00:02:31,280 - 00:02:33,750] Seriously, you need sales in order to
+- [00:02:33,750 - 00:02:36,220] grow your business and to maintain your business.
+- [00:02:36,220 - 00:02:39,000] Because if you cannot sell people into buying your
+- [00:02:39,000 - 00:02:41,780] product or service, then you don't have a business.
+- [00:02:42,060 - 00:02:45,360] You need to be able to find a way to consistently
+- [00:02:45,360 - 00:02:48,660] get new customers in the door for your company to grow.
+- [00:02:48,960 - 00:02:51,060] And one of the best quotes that I kind
+- [00:02:51,060 - 00:02:53,160] of live by is if you're not growing, you're dying.
+- [00:02:53,200 - 00:02:54,100] And it's true.
+- [00:02:54,100 - 00:02:56,100] Because customer turnover, customer churn
+- [00:02:56,100 - 00:02:58,100] is real and it will happen.
+- [00:02:58,100 - 00:03:00,979] And you just need to be finding a new
+- [00:03:00,979 - 00:03:03,859] way to constantly keep marketing yourself and selling your product.
+- [00:03:03,859 - 00:03:05,289] So that way you can continue
+- [00:03:05,289 - 00:03:06,720] to grow and stay in business.
+- [00:03:06,720 - 00:03:08,619] My final point on sales is actually
+- [00:03:08,619 - 00:03:10,519] a tip from my first mentor, Joe Soto.
+- [00:03:10,519 - 00:03:12,019] And at the time I was
+- [00:03:12,019 - 00:03:13,519] early on in my digital marketing company.
+- [00:03:13,519 - 00:03:15,559] And what he told me was
+- [00:03:15,559 - 00:03:17,600] to stop playing with my food.
+- [00:03:17,600 - 00:03:20,479] And what he meant by that is I was
+- [00:03:20,479 - 00:03:23,359] going into sales presentations and sales demos with potential clients.
+- [00:03:23,360 - 00:03:26,420] Without actually practicing my sales pitch.
+- [00:03:26,420 - 00:03:29,800] And he made the analogy of a professional athlete.
+- [00:03:29,800 - 00:03:31,300] A professional athlete is
+- [00:03:31,300 - 00:03:32,800] practicing and they're watching film.
+- [00:03:32,800 - 00:03:35,200] I need to be doing the same as a salesperson.
+- [00:03:35,200 - 00:03:36,700] I need to be role playing.
+- [00:03:36,700 - 00:03:38,480] I need to be practicing my pitch.
+- [00:03:38,480 - 00:03:39,680] I need to be watching film.
+- [00:03:39,680 - 00:03:40,920] I need to be rewatching
+- [00:03:40,920 - 00:03:42,160] these Zoom meetings that I have.
+- [00:03:42,160 - 00:03:45,000] Pitching to people and listening to how I talk.
+- [00:03:45,000 - 00:03:47,200] Listening to how I can handle certain scenarios better.
+- [00:03:47,200 - 00:03:50,120] So train your sales like a professional athlete will.
+- [00:03:50,120 - 00:03:52,120] And I guarantee you, you'll see results.
+- [00:03:52,120 - 00:03:53,160] Tip number two.
+- [00:03:53,160 - 00:03:54,500] Is to learn accounting.
+- [00:03:54,500 - 00:03:56,500] And I'm really shouting at my younger self here.
+- [00:03:56,500 - 00:03:58,710] Because I made so many poor
+- [00:03:58,710 - 00:04:00,920] financial decisions as a new entrepreneur.
+- [00:04:00,920 - 00:04:02,920] Because I didn't understand accounting.
+- [00:04:02,920 - 00:04:04,590] Or really just understand how the
+- [00:04:04,590 - 00:04:06,260] numbers worked in business at all.
+- [00:04:06,260 - 00:04:09,000] So what I recommend for all new entrepreneurs.
+- [00:04:09,000 - 00:04:11,000] Is to pick up a book.
+- [00:04:11,000 - 00:04:12,000] Hire someone.
+- [00:04:12,000 - 00:04:13,200] Or whatever.
+- [00:04:13,200 - 00:04:14,760] By any means necessary that you
+- [00:04:14,760 - 00:04:16,320] need to do to figure out accounting.
+- [00:04:16,320 - 00:04:18,500] And at least have a basic knowledge yourself.
+- [00:04:18,500 - 00:04:20,450] And this will allow you to
+- [00:04:20,450 - 00:04:22,400] make just much better decisions in business.
+- [00:04:22,400 - 00:04:24,520] And give you a much better
+- [00:04:24,520 - 00:04:26,640] picture of where your business actually is.
+- [00:04:26,640 - 00:04:28,239] Versus what you think it is.
+- [00:04:28,239 - 00:04:29,520] I'm not going to lie guys.
+- [00:04:29,520 - 00:04:31,839] This talking and shooting while
+- [00:04:31,839 - 00:04:34,159] on a hike is pretty exhausting.
+- [00:04:34,159 - 00:04:36,159] But it is pretty dope.
+- [00:04:36,159 - 00:04:37,440] Let's carry on to tip number three.
+- [00:04:37,440 - 00:04:39,320] Tip number three is what does
+- [00:04:39,320 - 00:04:41,200] your customer onboarding process look like?
+- [00:04:41,200 - 00:04:43,200] And what I'm really talking about here.
+- [00:04:43,200 - 00:04:45,420] Is after someone has decided to
+- [00:04:45,420 - 00:04:47,640] purchase from you or your business.
+- [00:04:47,640 - 00:04:49,640] What does it look like after that?
+- [00:04:49,640 - 00:04:51,400] And this is really useful.
+- [00:04:51,400 - 00:04:52,400] And something you should think about.
+- [00:04:52,400 - 00:04:53,400] For a couple reasons.
+- [00:04:53,400 - 00:04:56,400] One is you want to eliminate buyers remorse.
+- [00:04:56,400 - 00:04:59,400] And when people make decisions sometimes they regret it.
+- [00:04:59,400 - 00:05:00,900] And you want to make
+- [00:05:00,900 - 00:05:02,400] them feel comfortable with their decision.
+- [00:05:02,400 - 00:05:03,400] And why they bought from you.
+- [00:05:03,400 - 00:05:04,900] And the last thing you want to
+- [00:05:04,900 - 00:05:06,400] have is a chargeback a day later.
+- [00:05:06,400 - 00:05:07,400] Because they're like hey.
+- [00:05:07,400 - 00:05:09,400] Don't actually want to move forward with it.
+- [00:05:09,400 - 00:05:11,400] And you really just want to eliminate that.
+- [00:05:11,400 - 00:05:12,900] The second thing is really especially
+- [00:05:12,900 - 00:05:14,400] for people in service based businesses.
+- [00:05:14,400 - 00:05:17,400] To set expectations correctly.
+- [00:05:17,400 - 00:05:19,400] To eliminate problems in the future.
+- [00:05:19,400 - 00:05:21,400] So you want to set expectations.
+- [00:05:21,400 - 00:05:24,400] And the way to teach them what they can expect.
+- [00:05:24,400 - 00:05:26,400] How your relationship is going to work.
+- [00:05:26,400 - 00:05:27,400] How communication is handled.
+- [00:05:27,400 - 00:05:29,400] And what are those next steps.
+- [00:05:29,400 - 00:05:30,900] Implement this and think about
+- [00:05:30,900 - 00:05:32,400] this early on in your business.
+- [00:05:32,400 - 00:05:33,400] And you'll save yourself a
+- [00:05:33,400 - 00:05:34,400] lot of headaches down the line.
+- [00:05:34,400 - 00:05:37,400] Tip number four is investing in content and social media.
+- [00:05:37,400 - 00:05:39,400] And the reason I say this is
+- [00:05:39,400 - 00:05:41,400] because social media is so hot right now.
+- [00:05:41,400 - 00:05:43,400] This is where the majority of people
+- [00:05:43,400 - 00:05:45,400] are spending their time when they're at home.
+- [00:05:45,400 - 00:05:46,400] Or on their phones.
+- [00:05:46,400 - 00:05:47,400] Is they're looking at social media.
+- [00:05:47,400 - 00:05:49,400] They're looking at different feeds.
+- [00:05:49,400 - 00:05:50,900] And you can leverage this
+- [00:05:50,900 - 00:05:52,400] for your business to grow it.
+- [00:05:52,400 - 00:05:55,400] And especially utilizing your first three connections.
+- [00:05:55,400 - 00:05:57,400] Such as your friends, family, and people you know.
+- [00:05:57,400 - 00:05:59,400] If you just share the
+- [00:05:59,400 - 00:06:01,400] right content that's meaningful and useful.
+- [00:06:01,400 - 00:06:02,900] Giving people progress on the
+- [00:06:02,900 - 00:06:04,400] updates you're making to your business.
+- [00:06:04,400 - 00:06:06,400] And just things that you guys are doing.
+- [00:06:06,400 - 00:06:07,400] It can reach out to
+- [00:06:07,400 - 00:06:08,400] people and it will pay off.
+- [00:06:08,400 - 00:06:09,400] You just have to be consistent.
+- [00:06:09,400 - 00:06:11,400] One of the most creative ways
+- [00:06:11,400 - 00:06:13,400] that I have seen social media used.
+- [00:06:13,400 - 00:06:15,400] For someone to grow their business.
+- [00:06:15,400 - 00:06:18,400] Is through my good friend Austin Smith.
+- [00:06:18,400 - 00:06:20,400] Austin is a digital marketing owner.
+- [00:06:20,400 - 00:06:22,400] And pretty much what he did.
+- [00:06:22,400 - 00:06:24,400] Is he held up a stack of cash.
+- [00:06:25,400 - 00:06:27,400] And pretty much said the message along the lines of.
+- [00:06:27,400 - 00:06:29,400] Hey, if you'd like to get some of this cash.
+- [00:06:29,400 - 00:06:30,900] All you have to do is
+- [00:06:30,900 - 00:06:32,400] refer me to a friend or family.
+- [00:06:32,400 - 00:06:33,900] Or business owner that you
+- [00:06:33,900 - 00:06:35,400] think would benefit from my services.
+- [00:06:35,400 - 00:06:38,400] And I will gladly pay you for that referral.
+- [00:06:38,400 - 00:06:40,400] I wanted to jump on here.
+- [00:06:40,400 - 00:06:41,900] And say thank you to those
+- [00:06:41,900 - 00:06:43,400] who participated in my July giveaway.
+- [00:06:43,400 - 00:06:45,400] I gave away $10,000.
+- [00:06:45,400 - 00:06:46,400] The only thing you had to do is
+- [00:06:46,400 - 00:06:47,400] put me in touch with a business owner.
+- [00:06:47,400 - 00:06:49,400] And so what he did.
+- [00:06:49,400 - 00:06:52,400] Is he closed I think probably close to $100,000.
+- [00:06:52,400 - 00:06:53,400] Worth of business.
+- [00:06:53,400 - 00:06:56,400] Because the video went viral in his local area.
+- [00:06:56,400 - 00:06:57,400] And just think about what
+- [00:06:57,400 - 00:06:58,400] that could do for your business.
+- [00:06:58,400 - 00:07:00,400] Is if you just have one video go viral.
+- [00:07:00,400 - 00:07:02,400] It can change your business.
+- [00:07:02,400 - 00:07:04,400] And it can change your life forever.
+- [00:07:04,400 - 00:07:06,400] Tip number five is to go out and network.
+- [00:07:06,400 - 00:07:07,400] But I want you to network a
+- [00:07:07,400 - 00:07:08,400] little bit differently than the other people.
+- [00:07:08,400 - 00:07:10,400] A lot of people go out and network.
+- [00:07:10,400 - 00:07:12,400] And just go out and hand out their business card.
+- [00:07:12,400 - 00:07:13,900] And try to sell, sell,
+- [00:07:13,900 - 00:07:15,400] sell their own products and services.
+- [00:07:15,400 - 00:07:16,400] Without actually investing.
+- [00:07:16,400 - 00:07:18,400] Into other people.
+- [00:07:18,400 - 00:07:20,400] The best way to go out and network.
+- [00:07:20,400 - 00:07:21,900] Is to actually go out
+- [00:07:21,900 - 00:07:23,400] and invest in other people's stories.
+- [00:07:23,400 - 00:07:25,400] Hear about their products.
+- [00:07:25,400 - 00:07:26,400] Their service.
+- [00:07:26,400 - 00:07:27,400] Hear about their story of
+- [00:07:27,400 - 00:07:28,400] why they're doing what they're doing.
+- [00:07:28,400 - 00:07:31,400] And if you're able to give people some free advice.
+- [00:07:31,400 - 00:07:32,400] Some free value.
+- [00:07:32,400 - 00:07:35,400] They are not only much more likely to remember you.
+- [00:07:35,400 - 00:07:37,400] But they're also much more likely
+- [00:07:37,400 - 00:07:39,400] to refer you down the line.
+- [00:07:39,400 - 00:07:41,400] Even though they may not refer you immediately.
+- [00:07:41,400 - 00:07:42,400] Or that same day.
+- [00:07:42,400 - 00:07:44,400] Two months down the line.
+- [00:07:44,400 - 00:07:45,400] They're much more likely to give you a call.
+- [00:07:45,400 - 00:07:46,400] And say hey.
+- [00:07:46,400 - 00:07:47,400] I have a great connection for you.
+- [00:07:47,400 - 00:07:49,400] I think you guys should definitely meet up.
+- [00:07:49,400 - 00:07:51,400] And that's the power of networking.
+- [00:07:51,400 - 00:07:53,400] Is planting the seeds in other people.
+- [00:07:53,400 - 00:07:54,900] So that way you can
+- [00:07:54,900 - 00:07:56,400] grow your business passively over time.
+- [00:07:56,400 - 00:07:58,400] Just through the power of relationships.
+- [00:07:58,400 - 00:08:01,400] Some great books on how to build a better network.
+- [00:08:01,400 - 00:08:04,400] Is how to win friends and influence people.
+- [00:08:04,400 - 00:08:05,400] And then Giftology as well.
+- [00:08:05,400 - 00:08:07,400] Is another great book for networking.
+- [00:08:07,400 - 00:08:09,400] Hopefully you guys did enjoy today's video.
+- [00:08:09,400 - 00:08:10,900] I know it's a little bit different
+- [00:08:10,900 - 00:08:12,400] while doing it on the nature trail.
+- [00:08:12,400 - 00:08:13,400] But I just wanted to switch it up.
+- [00:08:13,400 - 00:08:15,400] So hopefully you guys did enjoy.
+- [00:08:15,400 - 00:08:16,400] If you guys did.
+- [00:08:16,400 - 00:08:18,400] Please leave us a like and subscribe.
+- [00:08:18,400 - 00:08:19,400] We'd really appreciate it.
+- [00:08:19,400 - 00:08:21,400] We'll catch you guys in the next one.
