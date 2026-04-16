@@ -1,0 +1,605 @@
+# Transcript
+
+Source: lazyearn/school-of-hard-knocks/hard-knocks-interviews/056 - He Made $7M⧸Year And Paid Zero Taxes! [22CjsRG0sTc].webm
+
+- [00:00:00,000 - 00:00:01,870] A couple months ago, I interviewed one of
+- [00:00:01,870 - 00:00:03,740] the biggest business owners out in Los Angeles.
+- [00:00:03,980 - 00:00:05,380] Excuse me, sir. Quick question for
+- [00:00:05,380 - 00:00:06,780] you, man. Is this your Ferrari?
+- [00:00:06,940 - 00:00:07,080] Yeah.
+- [00:00:07,220 - 00:00:08,330] And what do you do for living out in
+- [00:00:08,330 - 00:00:09,440] Los Angeles to be able to afford a Ferrari?
+- [00:00:09,560 - 00:00:10,840] I own my own consulting firm.
+- [00:00:11,060 - 00:00:11,820] So you're a business owner?
+- [00:00:12,000 - 00:00:12,120] Yeah.
+- [00:00:12,200 - 00:00:13,580] And how long have you been an entrepreneur for?
+- [00:00:13,660 - 00:00:14,080] Six years.
+- [00:00:14,280 - 00:00:15,850] And over these six years, what's been the most amount
+- [00:00:15,850 - 00:00:17,420] of money that you've ever made in a single year?
+- [00:00:17,520 - 00:00:19,480] Just over about $7.1 million last year.
+- [00:00:19,560 - 00:00:20,040] $7 million?
+- [00:00:20,540 - 00:00:20,720] Yeah.
+- [00:00:20,780 - 00:00:22,000] You're sitting in a Ferrari right now.
+- [00:00:22,000 - 00:00:23,220] This is a lot of people's dream car.
+- [00:00:23,320 - 00:00:24,720] Tell me the story of how you bought this thing.
+- [00:00:24,820 - 00:00:26,330] I'll be honest with you. I had
+- [00:00:26,330 - 00:00:27,840] already offsetted all my taxes for the year,
+- [00:00:27,840 - 00:00:29,420] and I just wanted a Christmas gift. So
+- [00:00:29,420 - 00:00:31,000] I just went and bought myself a Ferrari cash.
+- [00:00:31,440 - 00:00:33,310] When you don't pay taxes, a lot of these
+- [00:00:33,310 - 00:00:35,180] types of purchases start to become a little bit different.
+- [00:00:35,300 - 00:00:36,060] So you don't pay taxes?
+- [00:00:36,200 - 00:00:37,360] Oh, no. I don't pay any taxes.
+- [00:00:37,480 - 00:00:40,980] That video got over 60 million views across social media.
+- [00:00:41,140 - 00:00:43,710] And like he said, he made over $7 million in
+- [00:00:43,710 - 00:00:46,280] a single year and didn't pay any money in taxes.
+- [00:00:46,500 - 00:00:47,440] That's Carlton Dennis.
+- [00:00:47,580 - 00:00:50,220] And he invited us out to his house out in Los Angeles to give
+- [00:00:50,220 - 00:00:52,860] you guys the game on what it takes to make a lot of money,
+- [00:00:52,860 - 00:00:55,340] but more importantly, keep a lot of money and not have
+- [00:00:55,340 - 00:00:57,820] to pay thousands of dollars or millions of dollars in taxes.
+- [00:00:57,840 - 00:00:59,400] at the end of every year.
+- [00:00:59,560 - 00:01:00,920] So let's go link up with Carlton and go
+- [00:01:00,920 - 00:01:02,280] see what he has to say for you guys.
+- [00:01:02,440 - 00:01:04,980] He's got the G-Wagon out front, a Lamborghini truck.
+- [00:01:05,060 - 00:01:05,960] We got to go get this
+- [00:01:05,960 - 00:01:06,860] game from him. Come on, you guys.
+- [00:01:12,580 - 00:01:13,520] Carlton, what's going on, man?
+- [00:01:13,520 - 00:01:14,360] How are you?
+- [00:01:14,360 - 00:01:14,860] How you doing?
+- [00:01:15,020 - 00:01:15,580] Good to see you.
+- [00:01:15,680 - 00:01:16,570] Great to see you. Thank
+- [00:01:16,570 - 00:01:17,460] you for having us out here.
+- [00:01:17,660 - 00:01:18,400] Welcome to Orange County, man.
+- [00:01:18,520 - 00:01:19,220] Seriously, man.
+- [00:01:19,360 - 00:01:21,280] The last time I saw you, man,
+- [00:01:21,280 - 00:01:23,200] our video did 60 million views together.
+- [00:01:23,360 - 00:01:24,040] 60 million?
+- [00:01:24,160 - 00:01:24,640] 60 million.
+- [00:01:24,660 - 00:01:25,080] Are you serious?
+- [00:01:25,280 - 00:01:26,940] 48 million on Instagram.
+- [00:01:26,940 - 00:01:27,820] Another 50 million.
+- [00:01:27,900 - 00:01:29,140] Another 50 million on TikTok
+- [00:01:29,140 - 00:01:30,380] and however million on Facebook, man.
+- [00:01:30,400 - 00:01:31,140] Changing lives.
+- [00:01:31,200 - 00:01:31,700] Yes, sir.
+- [00:01:31,840 - 00:01:32,280] Let's go.
+- [00:01:32,500 - 00:01:33,500] I'm super happy to be out here, man.
+- [00:01:33,600 - 00:01:34,480] I'm glad to have you out here.
+- [00:01:34,620 - 00:01:35,800] We talked about it in the preview.
+- [00:01:36,080 - 00:01:36,240] Yeah.
+- [00:01:36,320 - 00:01:37,080] People saw the interview.
+- [00:01:37,380 - 00:01:37,620] Yes.
+- [00:01:37,740 - 00:01:39,080] You made how much money this last year?
+- [00:01:39,180 - 00:01:39,440] All right.
+- [00:01:39,480 - 00:01:41,980] I made 7.1 last year in 2023.
+- [00:01:42,360 - 00:01:44,860] 2024, we just crossed 11 and a half million.
+- [00:01:45,020 - 00:01:46,480] And how much money did you pay
+- [00:01:46,480 - 00:01:47,940] in taxes for those that don't know?
+- [00:01:48,040 - 00:01:50,430] Last year, I paid $0 in
+- [00:01:50,430 - 00:01:52,820] federal taxes, $26,000 in state taxes.
+- [00:01:52,820 - 00:01:55,280] And this year in 2024, I'm on
+- [00:01:55,280 - 00:01:57,740] pace to pay less than $92,000 in total.
+- [00:01:57,840 - 00:01:58,340] Taxes.
+- [00:01:58,440 - 00:02:00,160] Now, how the hell was this possible, man?
+- [00:02:00,220 - 00:02:00,980] Because that's insane.
+- [00:02:01,080 - 00:02:03,080] You're touching eight figures, high seven figures in a
+- [00:02:03,080 - 00:02:05,080] single year, and you're not paying anything in taxes.
+- [00:02:05,160 - 00:02:05,520] That's ridiculous.
+- [00:02:05,520 - 00:02:05,760] Yeah.
+- [00:02:05,980 - 00:02:06,720] How am I doing this?
+- [00:02:06,800 - 00:02:07,120] Okay, so.
+- [00:02:07,320 - 00:02:08,500] First of all, is that legal?
+- [00:02:08,680 - 00:02:09,680] Everything I'm doing is legal.
+- [00:02:09,960 - 00:02:11,080] Everything I'm doing is legal.
+- [00:02:11,080 - 00:02:12,740] So if the IRS wanted to come after you.
+- [00:02:12,800 - 00:02:13,560] I welcome them.
+- [00:02:13,800 - 00:02:15,960] IRS, you know who Carlton Dennis is.
+- [00:02:16,040 - 00:02:17,380] I have one of the
+- [00:02:17,380 - 00:02:18,720] largest YouTube channels for tax strategy.
+- [00:02:19,060 - 00:02:20,140] The IRS knows who I am.
+- [00:02:20,200 - 00:02:21,180] I'm not afraid of the IRS.
+- [00:02:21,380 - 00:02:22,440] I'm not afraid to use
+- [00:02:22,440 - 00:02:23,500] the tax code against the IRS.
+- [00:02:23,500 - 00:02:25,640] And everything that I do is by the book, which
+- [00:02:25,640 - 00:02:27,780] is why I have so much fun with the tax.
+- [00:02:27,780 - 00:02:27,820] Okay.
+- [00:02:27,840 - 00:02:30,200] I focus on income shifting strategies.
+- [00:02:30,280 - 00:02:32,160] How do I take money off of my tax returns?
+- [00:02:32,280 - 00:02:32,840] I focus on depreciation.
+- [00:02:33,640 - 00:02:34,820] How do I create a paper
+- [00:02:34,820 - 00:02:36,000] loss by investing in real estate?
+- [00:02:36,100 - 00:02:38,240] And most importantly, I'm philanthropic.
+- [00:02:38,320 - 00:02:40,340] I have a private family foundation that gives
+- [00:02:40,340 - 00:02:42,360] money back to other charities outside of my own.
+- [00:02:42,420 - 00:02:44,140] That allows for me to also reduce my tax bill.
+- [00:02:44,220 - 00:02:46,220] These are the three things that I do every single
+- [00:02:46,220 - 00:02:48,220] year that keep me at 0% on the federal side.
+- [00:02:48,300 - 00:02:49,660] And I do pay a little bit of
+- [00:02:49,660 - 00:02:51,020] that Cali tax, but I'm okay with it.
+- [00:02:51,140 - 00:02:51,240] Yeah.
+- [00:02:51,320 - 00:02:53,160] So I got to say this though, because I want
+- [00:02:53,160 - 00:02:55,000] to put this in perspective for everyone watching right now.
+- [00:02:55,120 - 00:02:55,280] Yeah.
+- [00:02:55,380 - 00:02:57,780] Some of your clients are some of the biggest business.
+- [00:02:57,780 - 00:02:58,480] Owners in the world.
+- [00:02:58,540 - 00:02:59,420] And I've interviewed guys.
+- [00:02:59,460 - 00:03:01,320] A lot of the people I've interviewed are his clients.
+- [00:03:01,320 - 00:03:03,120] So, you know, this stuff better than anybody else.
+- [00:03:03,120 - 00:03:06,250] And my goal for this video is to be a masterclass
+- [00:03:06,250 - 00:03:09,380] for anybody watching to understand the ins and outs to the loopholes,
+- [00:03:09,500 - 00:03:10,980] to being able to avoid these taxes.
+- [00:03:11,000 - 00:03:11,180] Yes.
+- [00:03:11,260 - 00:03:11,400] Right.
+- [00:03:11,440 - 00:03:12,940] Because as you know it, the biggest
+- [00:03:12,940 - 00:03:14,440] expense for most business owners is what?
+- [00:03:14,540 - 00:03:15,260] Their taxes, man.
+- [00:03:15,280 - 00:03:16,360] It's always the taxes, not
+- [00:03:16,360 - 00:03:17,440] your mortgage, not your car payment.
+- [00:03:17,540 - 00:03:18,160] It's not your payroll.
+- [00:03:18,340 - 00:03:18,820] It's your taxes.
+- [00:03:19,040 - 00:03:20,760] Have you seen people go broke with big tax bills?
+- [00:03:20,880 - 00:03:23,220] I have seen people go broke with a big tax bill because they
+- [00:03:23,220 - 00:03:25,560] spend more money than what they have left over to pay Uncle Sam.
+- [00:03:25,640 - 00:03:26,530] And by the time that they
+- [00:03:26,530 - 00:03:27,420] get the check from Uncle Sam,
+- [00:03:27,460 - 00:03:27,760] they don't have a lot of money left over.
+- [00:03:27,760 - 00:03:28,430] They don't have enough money in
+- [00:03:28,430 - 00:03:29,100] their bank account to pay it.
+- [00:03:29,220 - 00:03:29,359] Wow.
+- [00:03:29,540 - 00:03:30,459] So let's get right into it.
+- [00:03:30,579 - 00:03:33,779] What are some of the industries that you've invested in personally that's been able to
+- [00:03:33,779 - 00:03:36,980] allow you to alleviate that bill and not have to pay anything to offset that?
+- [00:03:37,060 - 00:03:39,019] It depends on the type of income that you're earning.
+- [00:03:39,140 - 00:03:43,040] If you're a full-time W-2 or 1099 taxpayer, highly recommend that you look at short-term
+- [00:03:43,040 - 00:03:46,940] rentals because the IRS will allow for you to manage the short-term rental for 100 hours.
+- [00:03:47,100 - 00:03:48,739] And it becomes an active business.
+- [00:03:48,739 - 00:03:52,589] If your tenants are staying in the property seven days or less, you can perform
+- [00:03:52,589 - 00:03:56,440] a strategy called the cost segregation study, which forces a paper loss on the tax returns.
+- [00:03:56,440 - 00:03:57,739] And that paper loss is what can.
+- [00:03:57,760 - 00:04:00,880] Offset somebody's W-2 or somebody's 1099 income.
+- [00:04:01,120 - 00:04:04,039] If you're somebody that maybe has a spouse that's not working, maybe it's
+- [00:04:04,039 - 00:04:06,959] like a husband that's working in the wife's home taking care of the kids.
+- [00:04:07,040 - 00:04:08,680] This is a perfect situation where you
+- [00:04:08,680 - 00:04:10,320] can make your wife a real estate professional.
+- [00:04:10,519 - 00:04:13,549] She manages over the real estate portfolio and you can
+- [00:04:13,549 - 00:04:16,579] then make the real estate portfolio an active real estate business.
+- [00:04:16,579 - 00:04:18,979] If you perform the cost segregation study strategy,
+- [00:04:18,979 - 00:04:21,380] it creates a large tax deduction on the paper.
+- [00:04:21,539 - 00:04:23,259] And then that paper tax deduction can
+- [00:04:23,259 - 00:04:24,980] offset your W-2 or your 1099 income.
+- [00:04:24,980 - 00:04:26,349] Now, I can speak for
+- [00:04:26,349 - 00:04:27,719] a lot of entrepreneurs this year.
+- [00:04:27,840 - 00:04:29,270] Our company will do this our
+- [00:04:29,270 - 00:04:30,700] first year that we're doing seven figures.
+- [00:04:30,900 - 00:04:31,580] Congratulations.
+- [00:04:31,580 - 00:04:32,219] Thank you, my friend.
+- [00:04:32,219 - 00:04:33,320] A 22.
+- [00:04:33,320 - 00:04:34,420] Not too bad for 22.
+- [00:04:34,420 - 00:04:35,080] Not at all.
+- [00:04:35,080 - 00:04:40,570] I wanted to ask, though, right, because most people that get into business, they don't realize the insane amount that you
+- [00:04:40,570 - 00:04:46,060] are going to have to pay in taxes if you're not smart about having a strategy to kind of avoid that.
+- [00:04:46,060 - 00:04:47,079] So let's talk to the
+- [00:04:47,079 - 00:04:48,099] people that are just starting out.
+- [00:04:48,099 - 00:04:50,180] Maybe let's say that they're making their first six figures.
+- [00:04:50,180 - 00:04:51,640] They're making $100,000 this year.
+- [00:04:51,640 - 00:04:52,080] Yes.
+- [00:04:52,080 - 00:04:53,640] And they maybe they didn't run
+- [00:04:53,640 - 00:04:55,200] super lean where they had some expenses.
+- [00:04:55,200 - 00:04:56,320] They didn't have great margins.
+- [00:04:56,320 - 00:04:56,620] Yeah.
+- [00:04:56,620 - 00:04:57,120] And they can't afford to.
+- [00:04:57,120 - 00:04:57,440] Yeah.
+- [00:04:57,440 - 00:04:57,700] Yeah.
+- [00:04:57,700 - 00:04:57,740] Yeah.
+- [00:04:57,760 - 00:04:58,899] And they're doing their business
+- [00:04:58,899 - 00:05:00,039] pay insane amounts in taxes.
+- [00:05:00,039 - 00:05:00,539] Yeah.
+- [00:05:00,539 - 00:05:01,240] We see this a lot.
+- [00:05:01,240 - 00:05:01,740] Yes.
+- [00:05:01,740 - 00:05:02,880] Especially for people that are just starting
+- [00:05:02,880 - 00:05:04,020] to kind of make a lot more money.
+- [00:05:04,020 - 00:05:05,380] Six figures, seven figures.
+- [00:05:05,380 - 00:05:05,880] Yeah.
+- [00:05:05,880 - 00:05:08,440] What are some of those initial steps that people should
+- [00:05:08,440 - 00:05:11,000] take to, again, avoid having to pay these crazy burdens?
+- [00:05:11,000 - 00:05:15,280] And maybe if they don't have the means to be able to start investing in real estate, are there any other things
+- [00:05:15,280 - 00:05:19,560] that people can do to be able to avoid having to pay crazy tax bills to save a lot more of that money?
+- [00:05:19,560 - 00:05:20,060] Yeah.
+- [00:05:20,060 - 00:05:22,290] The first thing that you want to do as a self-employed individual
+- [00:05:22,290 - 00:05:24,520] that's starting to come into some money is look at your entity structuring.
+- [00:05:24,520 - 00:05:26,110] Most self-employed individuals start out
+- [00:05:26,110 - 00:05:27,700] as sole proprietorships or single member.
+- [00:05:27,700 - 00:05:31,860] And that's great until you cross about $50,000 to $60,000.
+- [00:05:31,860 - 00:05:34,380] Once you're across that point, you need to look at
+- [00:05:34,380 - 00:05:36,900] switching to an S corporation to avoid paying self-employment taxes.
+- [00:05:36,900 - 00:05:40,940] It's this nasty 15.3% on all of your business's profits.
+- [00:05:40,940 - 00:05:42,410] If you just switch to an S
+- [00:05:42,410 - 00:05:43,880] corporation, you can give yourself a salary now.
+- [00:05:43,880 - 00:05:45,790] And now you only pay that 15.3%
+- [00:05:45,790 - 00:05:47,700] on whatever you took out of your business.
+- [00:05:47,700 - 00:05:49,670] You completely avoid 15.3% on
+- [00:05:49,670 - 00:05:51,640] the rest of your business's profits.
+- [00:05:51,640 - 00:05:53,460] That's step number one, entity structuring.
+- [00:05:53,460 - 00:05:55,550] Step number two is let's figure out, did you take
+- [00:05:55,550 - 00:05:57,640] advantage of all the things that you spent your money on?
+- [00:05:57,640 - 00:05:59,640] Because sometimes business owners spend money on
+- [00:05:59,640 - 00:06:01,640] things that they didn't know were write-offs.
+- [00:06:01,640 - 00:06:05,589] And so we can allocate expenses that we're taking on the personal card over to
+- [00:06:05,589 - 00:06:09,539] business if you forgot or didn't know that something was supposed to be a business write-off.
+- [00:06:09,539 - 00:06:11,809] This can include cell phones, laptops, travel that should
+- [00:06:11,809 - 00:06:14,080] have been business travel that you thought was personal.
+- [00:06:14,080 - 00:06:15,790] We can allocate those expenses over to
+- [00:06:15,790 - 00:06:17,500] your business to drop down that total liability.
+- [00:06:17,500 - 00:06:18,000] Wow.
+- [00:06:18,000 - 00:06:20,540] What's the biggest difference you notice in people's
+- [00:06:20,540 - 00:06:23,080] approach to taxes from middle class versus wealthy people?
+- [00:06:23,080 - 00:06:23,580] Speed.
+- [00:06:23,580 - 00:06:25,080] Speed, speed, speed, speed, speed.
+- [00:06:25,080 - 00:06:27,080] When you're wealthy, you're asking me, Carlton,
+- [00:06:27,080 - 00:06:28,580] where do I move the money to?
+- [00:06:28,580 - 00:06:30,180] When do we set up the foundation?
+- [00:06:30,180 - 00:06:31,219] Where do I send the wire?
+- [00:06:31,219 - 00:06:34,219] It happens in hours, not days, not weeks.
+- [00:06:34,219 - 00:06:36,539] When I'm dealing with middle class, they're nervous.
+- [00:06:36,539 - 00:06:38,219] They're analysis paralysis.
+- [00:06:38,219 - 00:06:39,449] They want to do more
+- [00:06:39,449 - 00:06:40,680] research than the tax professional did.
+- [00:06:40,680 - 00:06:42,500] And it comes down to the fact that they're
+- [00:06:42,500 - 00:06:44,320] scared to spend money in order to save money.
+- [00:06:44,320 - 00:06:46,670] Wealthy people understand I have to spend money in order to
+- [00:06:46,670 - 00:06:49,020] continue to play this game that Uncle Sam wants me to play.
+- [00:06:49,020 - 00:06:51,400] And so they're willing to invest money
+- [00:06:51,400 - 00:06:53,780] into different vehicles quickly to avoid taxes,
+- [00:06:53,780 - 00:06:55,330] whereas the person that's in the middle
+- [00:06:55,330 - 00:06:56,880] class is more attached to the money.
+- [00:06:56,880 - 00:06:58,980] And will take their time to determine if they're
+- [00:06:58,980 - 00:07:01,080] going to make an investment to offset their taxes,
+- [00:07:01,080 - 00:07:02,580] which could end up leading to them being
+- [00:07:02,580 - 00:07:04,080] in a situation where they just end up paying.
+- [00:07:04,080 - 00:07:06,520] How much money have you saved your clients in taxes?
+- [00:07:06,520 - 00:07:08,320] If you had to estimate, give me a number,
+- [00:07:08,320 - 00:07:10,120] how much money have you saved your clients in taxes?
+- [00:07:10,120 - 00:07:11,320] Well over $100 million.
+- [00:07:11,320 - 00:07:13,300] Do you have a specific scenario or example of a
+- [00:07:13,300 - 00:07:15,280] client that you've worked with where they were coming to you,
+- [00:07:15,280 - 00:07:18,020] stressing about how to pay crazy taxes?
+- [00:07:18,020 - 00:07:19,300] You don't have to say the person,
+- [00:07:19,300 - 00:07:20,580] but could you give me a scenario?
+- [00:07:20,580 - 00:07:21,580] We had a scenario of a
+- [00:07:21,580 - 00:07:22,580] woman who came into the office.
+- [00:07:22,580 - 00:07:24,410] This was previous to the pandemic where we
+- [00:07:24,410 - 00:07:26,240] used to meet with people face to face.
+- [00:07:26,240 - 00:07:26,510] And she was like, I'm
+- [00:07:26,510 - 00:07:26,780] going to pay you $100 million.
+- [00:07:26,780 - 00:07:28,580] She had an IRS audit where she
+- [00:07:28,580 - 00:07:30,380] had taken a vehicle on her tax returns.
+- [00:07:30,380 - 00:07:32,580] She had already visited seven other CPA firms.
+- [00:07:32,580 - 00:07:33,979] They said that they didn't want to work with her.
+- [00:07:33,979 - 00:07:35,379] When she came in, I looked at
+- [00:07:35,379 - 00:07:36,780] her tax returns and I saw the notice.
+- [00:07:36,780 - 00:07:39,030] They were disallowing a vehicle on her
+- [00:07:39,030 - 00:07:41,280] tax returns in the amount of $1 million.
+- [00:07:41,280 - 00:07:43,080] I asked her what the vehicle was.
+- [00:07:43,080 - 00:07:44,380] She told me it was a yacht.
+- [00:07:44,380 - 00:07:46,479] I said, why would we purchase a yacht for business?
+- [00:07:46,479 - 00:07:48,380] She said, I am a real estate agent.
+- [00:07:48,380 - 00:07:51,080] I speak on TV, million dollar listings.
+- [00:07:51,080 - 00:07:53,430] And I like to show my athletes and entertainers
+- [00:07:53,430 - 00:07:55,780] what it would look like to purchase a house
+- [00:07:55,780 - 00:07:56,679] from the views of the O.C.
+- [00:07:56,679 - 00:07:56,780] and the people who are watching this.
+- [00:07:56,780 - 00:07:58,430] I log all of the time that
+- [00:07:58,430 - 00:08:00,080] I go on and off of the boat.
+- [00:08:00,080 - 00:08:01,680] I have a captain that knows every single
+- [00:08:01,680 - 00:08:03,280] person that's come on and off the boat.
+- [00:08:03,280 - 00:08:04,479] And I've documented everything.
+- [00:08:04,479 - 00:08:07,229] By taking her captain's log booklet, some of the photos
+- [00:08:07,229 - 00:08:09,979] that she had, as well as the expenses from her P&L,
+- [00:08:09,979 - 00:08:13,080] we went into the audit and leveraging code section 162A,
+- [00:08:13,080 - 00:08:14,930] which states that a business owner can take
+- [00:08:14,930 - 00:08:16,780] a business deduction if the business deduction is ordinary,
+- [00:08:16,780 - 00:08:18,629] necessary, and reasonable to the business
+- [00:08:18,629 - 00:08:20,479] owner in the pursuit of income,
+- [00:08:20,479 - 00:08:21,679] we should be able to take the right off.
+- [00:08:21,679 - 00:08:24,679] We won that audit in less than an hour.
+- [00:08:24,679 - 00:08:25,679] And that was her ability to
+- [00:08:25,679 - 00:08:26,679] be able to write off a yacht.
+- [00:08:26,680 - 00:08:28,830] So when I have clients coming to me stressed
+- [00:08:28,830 - 00:08:30,980] out, sometimes it's stress around a one million dollar yacht.
+- [00:08:30,980 - 00:08:33,780] Sometimes it's stress around a $50,000 tax bill.
+- [00:08:33,780 - 00:08:34,630] But it's up to me to
+- [00:08:34,630 - 00:08:35,480] figure out how to mitigate it.
+- [00:08:35,480 - 00:08:37,380] Now, when I interviewed you out in Los
+- [00:08:37,380 - 00:08:39,280] Angeles the last time, you were in a Ferrari.
+- [00:08:39,280 - 00:08:39,580] Yes.
+- [00:08:39,580 - 00:08:41,679] And I know you also got the G-Wagon.
+- [00:08:41,679 - 00:08:42,880] You've got the Lamborghini Yuris.
+- [00:08:42,880 - 00:08:43,880] Are they here today?
+- [00:08:43,880 - 00:08:45,080] Yeah, those are outside.
+- [00:08:45,080 - 00:08:46,480] Can we go take a look at them real quick?
+- [00:08:46,480 - 00:08:47,180] Let's go take a look.
+- [00:08:47,180 - 00:08:49,080] We might be picking up a new whip today, actually.
+- [00:08:49,080 - 00:08:50,180] What are you going to be picking up?
+- [00:08:50,180 - 00:08:52,180] So my Ferrari is in the shop right now.
+- [00:08:52,180 - 00:08:54,230] And they called me and they're like, hey, we
+- [00:08:54,230 - 00:08:56,280] have another Ferrari or we have this Lamborghini SV.
+- [00:08:56,280 - 00:08:56,580] Which one would you like?
+- [00:08:56,580 - 00:08:57,580] Which one would you like more?
+- [00:08:57,580 - 00:08:58,580] I was like, I don't know.
+- [00:08:58,580 - 00:09:00,080] I kind of have a Lamborghini, but
+- [00:09:00,080 - 00:09:01,580] I'll come down and test drive the SV.
+- [00:09:01,580 - 00:09:04,580] And I went down and test drove the Lamborghini SV.
+- [00:09:04,580 - 00:09:05,580] And I think we might
+- [00:09:05,580 - 00:09:06,580] be picking the Lamborghini up soon.
+- [00:09:06,580 - 00:09:07,080] Yeah.
+- [00:09:07,080 - 00:09:09,330] Now, what's crazy is most people look
+- [00:09:09,330 - 00:09:11,580] at cars like this as the depreciating assets.
+- [00:09:11,580 - 00:09:13,580] How do you feel about that perspective that
+- [00:09:13,580 - 00:09:15,580] people give you whenever they say that about cars?
+- [00:09:15,580 - 00:09:16,880] Cars are depreciating assets.
+- [00:09:16,880 - 00:09:18,180] I 100% agree with them.
+- [00:09:18,180 - 00:09:21,980] But I also took 100% bonus depreciation on this car,
+- [00:09:21,980 - 00:09:25,780] which saved me, I don't know, about $92,000 in taxes.
+- [00:09:25,780 - 00:09:26,180] That $92,000.
+- [00:09:26,180 - 00:09:26,480] That's a lot.
+- [00:09:26,480 - 00:09:26,580] That's a lot.
+- [00:09:26,580 - 00:09:30,080] $92,000 got reinvested into a multifamily property in Texas.
+- [00:09:30,080 - 00:09:32,780] That's paying me cash flow of about $1,400 a month.
+- [00:09:32,780 - 00:09:39,730] So if you're somebody that knows how to do math, you can buy a vehicle like this, offset your taxes, reinvest the tax savings into a cash flow
+- [00:09:39,730 - 00:09:46,680] producing asset and not worry about the fact that this car is still losing value sitting here in the driveway because it losing value offset in my taxes.
+- [00:09:46,680 - 00:09:46,880] Right.
+- [00:09:46,880 - 00:09:48,130] So the G Wagon right here,
+- [00:09:48,130 - 00:09:49,380] why is it eligible for that deduction?
+- [00:09:49,380 - 00:09:50,180] Is it because of the size
+- [00:09:50,180 - 00:09:50,980] and the weight of it or?
+- [00:09:50,980 - 00:09:51,280] Yeah.
+- [00:09:51,280 - 00:09:53,730] So with this G Wagon, the gross
+- [00:09:53,730 - 00:09:56,180] vehicle weight ratio is over 6,000 pounds.
+- [00:09:56,180 - 00:09:58,090] And if you have a vehicle where the
+- [00:09:58,090 - 00:10:00,000] gross vehicle weight ratio is over 6,000 pounds,
+- [00:10:00,120 - 00:10:01,890] plus the vehicle is being
+- [00:10:01,890 - 00:10:03,660] used more than 50% for business,
+- [00:10:03,739 - 00:10:04,939] the IRS will allow for you
+- [00:10:04,939 - 00:10:06,140] to take the vehicle's purchase price
+- [00:10:06,140 - 00:10:08,739] and write it off on your tax returns
+- [00:10:08,739 - 00:10:11,339] under Code Section 179 plus Code Section 168K.
+- [00:10:11,339 - 00:10:15,569] So I utilized this strategy in 2022 on this
+- [00:10:15,569 - 00:10:19,800] vehicle right before bonus depreciation went to 80% in 2023.
+- [00:10:20,120 - 00:10:23,839] We're here in 2024. Bonus depreciation is at 60%.
+- [00:10:23,839 - 00:10:25,459] Donald Trump just got elected president.
+- [00:10:25,460 - 00:10:26,860] He's expected to get inaugurated here
+- [00:10:26,860 - 00:10:28,260] in the next couple of weeks.
+- [00:10:28,400 - 00:10:30,200] There's a possibility that bonus
+- [00:10:30,200 - 00:10:32,000] depreciation could go back to 100%.
+- [00:10:32,000 - 00:10:32,950] And as a tax professional,
+- [00:10:32,950 - 00:10:33,900] I'm waiting to hear about that.
+- [00:10:34,060 - 00:10:35,540] Now, a couple months ago, I actually
+- [00:10:35,540 - 00:10:37,020] interviewed a lady out in Beverly Hills,
+- [00:10:37,440 - 00:10:38,900] and she was coming out of a G-Wagon.
+- [00:10:38,900 - 00:10:40,140] I asked her what she did
+- [00:10:40,140 - 00:10:41,380] or how much money she made,
+- [00:10:41,500 - 00:10:42,700] and she let's just say at
+- [00:10:42,700 - 00:10:43,900] least 10 times what a G-Wagon is.
+- [00:10:44,380 - 00:10:46,400] And the reason why I'm asking this is, and
+- [00:10:46,400 - 00:10:48,420] I want to talk about business here for a second.
+- [00:10:48,540 - 00:10:50,320] What does it take? This is a lot of
+- [00:10:50,320 - 00:10:52,100] people's dream car, and you've got a lot of them.
+- [00:10:52,140 - 00:10:54,420] But let's just take the G-Wagon, for example, 100, 200,000,
+- [00:10:54,560 - 00:10:55,440] sometimes more than 200,000.
+- [00:10:55,480 - 00:10:56,260] Even that for this car.
+- [00:10:56,380 - 00:10:57,230] A lot of people dream to be
+- [00:10:57,230 - 00:10:58,080] able to afford a car like this.
+- [00:10:58,240 - 00:11:00,160] How can somebody get a G-Wagon in today's world?
+- [00:11:00,260 - 00:11:01,790] You can buy one of
+- [00:11:01,790 - 00:11:03,320] these cars if you understand leverage.
+- [00:11:03,460 - 00:11:04,970] As a business owner, I wasn't
+- [00:11:04,970 - 00:11:06,480] going to buy a car like this
+- [00:11:06,480 - 00:11:08,480] if I didn't get some type of
+- [00:11:08,480 - 00:11:10,480] benefit tax-wise, money coming back into my pocket.
+- [00:11:10,620 - 00:11:11,380] Here's an example.
+- [00:11:11,680 - 00:11:13,440] Let's just say that you're a
+- [00:11:13,440 - 00:11:15,200] business owner that's making $200,000 a year.
+- [00:11:15,320 - 00:11:17,120] You could put down a $20,000
+- [00:11:17,120 - 00:11:18,920] down payment on a car like this
+- [00:11:18,920 - 00:11:20,700] and be able to write off the
+- [00:11:20,700 - 00:11:22,480] entire purchase price, which was about 200K.
+- [00:11:22,580 - 00:11:24,380] If you have 200K of income,
+- [00:11:24,540 - 00:11:25,440] and you have a $200,000,
+- [00:11:25,480 - 00:11:26,900] write-off on your tax returns,
+- [00:11:27,020 - 00:11:28,060] you're essentially tax-free.
+- [00:11:28,360 - 00:11:30,930] Someone that has $200,000 of reportable
+- [00:11:30,930 - 00:11:33,500] income may pay $50,000 in taxes.
+- [00:11:33,720 - 00:11:37,240] So they're pocketing 50K and then put $20,000 down.
+- [00:11:37,360 - 00:11:39,140] They have a delta of about 30K.
+- [00:11:39,280 - 00:11:41,110] Now they can reinvest
+- [00:11:41,110 - 00:11:42,940] that 30K into cashflow-producing assets
+- [00:11:42,940 - 00:11:44,230] or back into their business that
+- [00:11:44,230 - 00:11:45,520] can help them make more money.
+- [00:11:45,600 - 00:11:47,300] For somebody that's going to buy a car like this,
+- [00:11:47,360 - 00:11:49,680] I would highly recommend that you do so with leverage.
+- [00:11:49,840 - 00:11:50,520] You brought up leverage.
+- [00:11:50,760 - 00:11:52,320] There's a big debate in business.
+- [00:11:52,480 - 00:11:53,640] Good debt versus bad debt.
+- [00:11:53,640 - 00:11:55,440] What's your thoughts on debt as a business owner?
+- [00:11:55,600 - 00:11:57,120] Yes, there's good debt and there's bad debt.
+- [00:11:57,260 - 00:11:58,820] There's bad debt, which is consumer debt,
+- [00:11:58,820 - 00:12:00,380] credit card debt, high interest rate debt.
+- [00:12:00,480 - 00:12:01,580] That's the type of debt you want to avoid.
+- [00:12:01,700 - 00:12:03,490] And then there's good debt, which is debt
+- [00:12:03,490 - 00:12:05,280] in the form of loans, like buying a house.
+- [00:12:05,420 - 00:12:07,160] The reason why that is considered good debt
+- [00:12:07,160 - 00:12:09,120] is because you're parking your money into
+- [00:12:09,120 - 00:12:11,080] an asset that could appreciate over time,
+- [00:12:11,120 - 00:12:13,800] and you have the ability to borrow against the property.
+- [00:12:14,000 - 00:12:16,040] The reason why I love real estate is because
+- [00:12:16,040 - 00:12:18,080] I can take out cash out refinances or HELOCs,
+- [00:12:18,140 - 00:12:19,980] which means that even though I put my
+- [00:12:19,980 - 00:12:21,820] money into a property and I took out leverage,
+- [00:12:21,820 - 00:12:23,290] I may be able to pull out
+- [00:12:23,290 - 00:12:24,760] more than what I put into the property
+- [00:12:25,460 - 00:12:26,400] and I can take out more
+- [00:12:26,400 - 00:12:27,340] than what I put into the property.
+- [00:12:27,340 - 00:12:28,700] And that's why I love leverage.
+- [00:12:28,700 - 00:12:30,140] And that's why I love real estate.
+- [00:12:30,140 - 00:12:32,740] Many wealthy entrepreneurs have built their wealth by reinvesting
+- [00:12:32,740 - 00:12:35,340] into real estate over and over and over again.
+- [00:12:35,340 - 00:12:37,120] And God forbid something happens to
+- [00:12:37,120 - 00:12:38,900] them, their heirs pick up those properties.
+- [00:12:38,900 - 00:12:40,680] But sometimes they pick up those
+- [00:12:40,680 - 00:12:42,460] properties with no debt on the deal.
+- [00:12:42,460 - 00:12:45,360] And so when you think about it, the person that was
+- [00:12:45,360 - 00:12:48,260] living leveraged debt to build up this entire real estate portfolio
+- [00:12:48,260 - 00:12:50,180] and then passes it off to their
+- [00:12:50,180 - 00:12:52,100] heirs, sometimes without any debt on the deal.
+- [00:12:52,100 - 00:12:53,780] So some of the wealthiest
+- [00:12:53,780 - 00:12:55,460] families got wealthy because of debt.
+- [00:12:55,460 - 00:12:57,960] Yeah, I have a client out in Miami
+- [00:12:57,960 - 00:13:00,460] owns several hundred million dollars worth of real estate.
+- [00:13:00,460 - 00:13:03,160] And he actually said that you can tell how wealthy someone
+- [00:13:03,160 - 00:13:05,860] is based on the amount of access to debt that they have,
+- [00:13:05,860 - 00:13:07,060] how much debt they're able to
+- [00:13:07,060 - 00:13:08,260] kind of pull out, which is fascinating.
+- [00:13:08,260 - 00:13:08,900] It's really interesting to be.
+- [00:13:08,900 - 00:13:11,080] Yeah, the more debt I take on, the
+- [00:13:11,080 - 00:13:13,260] more I'm actually able to increase my buying power,
+- [00:13:13,260 - 00:13:16,360] because if I'm able to keep more of my hard earned
+- [00:13:16,360 - 00:13:19,460] money in my pocket and not overextend myself while I'm leveraging debt,
+- [00:13:19,460 - 00:13:21,940] I can continue to increase my buying power because I'll
+- [00:13:21,940 - 00:13:24,420] be able to continue to take on more and more debt,
+- [00:13:24,420 - 00:13:25,340] but go into business.
+- [00:13:25,340 - 00:13:26,760] And so I think that's the biggest
+- [00:13:26,760 - 00:13:28,180] thing that I've learned about the bank.
+- [00:13:28,180 - 00:13:30,560] I think that's the biggest thing that I've learned about the bank
+- [00:13:30,560 - 00:13:32,940] is that you can actually get bigger and bigger investments because of it.
+- [00:13:32,940 - 00:13:35,840] What's the best way to kind of get access to that capital, that credit lines
+- [00:13:35,840 - 00:13:38,740] in today's world that you've seen has been efficient for yourself or other people as well?
+- [00:13:38,740 - 00:13:41,300] The best way to get access to credit is to use
+- [00:13:41,300 - 00:13:43,860] credit and to start establishing the right type of relationships with bankers.
+- [00:13:43,860 - 00:13:45,900] I know that for me, it was getting into
+- [00:13:45,900 - 00:13:47,940] the banks and actually having a relationship with a banker.
+- [00:13:47,940 - 00:13:50,440] And then after having a certain amount
+- [00:13:50,440 - 00:13:52,940] of deposits, then you earn a private banker.
+- [00:13:52,940 - 00:13:54,900] Once you have a private banking relationship,
+- [00:13:54,900 - 00:13:56,100] you're going to have a lot of people
+- [00:13:56,100 - 00:13:57,300] that will start to get into your bankers.
+- [00:13:57,300 - 00:13:58,619] So if you're in the bank, you're going to have a
+- [00:13:58,619 - 00:13:59,939] lot of people that will start to get into your bankers.
+- [00:13:59,939 - 00:14:02,219] I think if you don't want to, to pull out money,
+- [00:14:02,219 - 00:14:04,500] if you need transfers, you don't have to pay for the transfers.
+- [00:14:04,500 - 00:14:05,900] You don't have to pay for the wires.
+- [00:14:05,900 - 00:14:07,239] And most importantly, they understand your
+- [00:14:07,239 - 00:14:08,579] business because they're a partner with you.
+- [00:14:08,579 - 00:14:10,119] So if you need access to debt,
+- [00:14:10,119 - 00:14:11,660] they understand what you're using the debt for,
+- [00:14:11,660 - 00:14:12,920] because they have a pretty good
+- [00:14:12,920 - 00:14:14,180] understanding of what your business model is.
+- [00:14:14,180 - 00:14:16,699] Let's say someone is making $100,000 a year right now.
+- [00:14:16,699 - 00:14:18,639] Do you have any specific strategies they
+- [00:14:18,639 - 00:14:20,579] can implement like kind of a walkthrough,
+- [00:14:20,579 - 00:14:22,379] a blueprint on what they can do to
+- [00:14:22,379 - 00:14:24,180] be able to avoid paying crazy money in taxes?
+- [00:14:24,180 - 00:14:24,780] You want me to do a walkthrough right now?
+- [00:14:24,780 - 00:14:27,970] All right. So we said a hundred K, right? Yes.
+- [00:14:27,970 - 00:14:31,160] And this could be a hundred K W2, 1099 entrepreneur,
+- [00:14:31,400 - 00:14:33,350] entrepreneur. Okay. It's a hundred K. Now let's just
+- [00:14:33,350 - 00:14:35,300] say that I want to use a rental property
+- [00:14:35,300 - 00:14:37,030] to offset my taxes. I'm going to have to come
+- [00:14:37,030 - 00:14:38,760] up with a down payment, but here's what I could do.
+- [00:14:38,880 - 00:14:41,270] Let's just say that this property is $500,000 and
+- [00:14:41,270 - 00:14:43,660] I had a separate hundred thousand dollars that I
+- [00:14:43,660 - 00:14:45,780] saved up. So I'm going to take out a
+- [00:14:45,780 - 00:14:47,900] $400,000 loan. I could buy this hundred thousand dollar
+- [00:14:47,900 - 00:14:50,220] property. I just need one property. And what I'm
+- [00:14:50,220 - 00:14:52,540] going to do is I'm going to list this property
+- [00:14:52,540 - 00:14:54,869] as a short term rental. Here's the reason why,
+- [00:14:54,869 - 00:14:57,199] if I list this property as a short term rental,
+- [00:14:57,199 - 00:15:01,119] and if this property has tenants that stay in
+- [00:15:01,119 - 00:15:05,040] the property seven days or less, and I manage
+- [00:15:05,040 - 00:15:08,090] the property for a hundred hours, I can
+- [00:15:08,090 - 00:15:11,140] perform a strategy on this property called the cost
+- [00:15:11,140 - 00:15:14,929] segregation study. Now this property right here is
+- [00:15:14,929 - 00:15:18,719] worth 500 K, but with a cost segregation study,
+- [00:15:18,719 - 00:15:22,360] I can accelerate depreciation on average. When performing a
+- [00:15:22,360 - 00:15:22,440] cost segregation study, I can accelerate
+- [00:15:22,440 - 00:15:22,520] depreciation on average. When performing a
+- [00:15:22,520 - 00:15:26,160] segregation study you can get 20 of the building's
+- [00:15:26,160 - 00:15:29,800] purchase price as a year one tax write-off so with
+- [00:15:29,800 - 00:15:31,840] five hundred thousand dollar property twenty percent
+- [00:15:31,840 - 00:15:33,880] of that would equal a hundred thousand
+- [00:15:33,880 - 00:15:36,960] dollars if i had a hundred thousand dollars w-2
+- [00:15:36,960 - 00:15:40,040] income and i had a hundred thousand dollar loss
+- [00:15:40,040 - 00:15:43,400] on my tax returns from depreciation i'm tax free
+- [00:15:43,400 - 00:15:46,760] and this is how somebody can take a five hundred
+- [00:15:46,760 - 00:15:49,120] thousand dollar property convert it to a short-term rental
+- [00:15:49,120 - 00:15:51,480] manage it create a paper loss and offset a
+- [00:15:51,480 - 00:15:53,480] hundred percent of their w-2 or 299 income and
+- [00:15:53,480 - 00:15:55,480] this is just with an example of someone making
+- [00:15:55,480 - 00:15:57,520] 100k imagine if there's somebody that's making a
+- [00:15:57,520 - 00:15:59,560] million and we took this property to a million
+- [00:15:59,560 - 00:16:01,720] dollars or to two million dollars this game becomes
+- [00:16:01,720 - 00:16:03,880] so fun and that's why i need debt right
+- [00:16:03,880 - 00:16:06,280] because in order to buy this property i may not
+- [00:16:06,280 - 00:16:08,680] have 500k saved up but i may have 100k saved up
+- [00:16:08,680 - 00:16:11,200] and i'm going to take out leverage opm to get
+- [00:16:11,200 - 00:16:13,720] that other 400k people's money all day i've said it
+- [00:16:13,720 - 00:16:15,840] before i'll say it again you know they don't
+- [00:16:15,840 - 00:16:17,960] teach that in school right absolutely not bro this game
+- [00:16:17,960 - 00:16:19,680] of building wealth and buying real estate is not
+- [00:16:19,680 - 00:16:21,400] taught in schools i got to ask you a question
+- [00:16:21,400 - 00:16:21,430] you're going to ask me a question i'm going to
+- [00:16:21,430 - 00:16:21,460] ask you a question you're going to ask me a question
+- [00:16:21,460 - 00:16:23,650] ask you for one more what is a tax hack
+- [00:16:23,650 - 00:16:25,840] somebody watching this right now can take with them into
+- [00:16:25,840 - 00:16:27,880] their business their personal income that they can
+- [00:16:27,880 - 00:16:29,920] apply give them one more tax hack right now
+- [00:16:29,920 - 00:16:32,220] that is not taught that most people do not
+- [00:16:32,220 - 00:16:34,520] know most people don't know what the augusta rule is
+- [00:16:34,520 - 00:16:36,520] and it's funny how the augusta rule came to
+- [00:16:36,520 - 00:16:38,520] be it was a golf tournament called the masters golf
+- [00:16:38,520 - 00:16:40,580] tournament that was it's held every single year
+- [00:16:40,580 - 00:16:42,640] in augusta georgia the issue with augusta georgia is
+- [00:16:42,640 - 00:16:45,320] there's not enough hotels out there so homeowners
+- [00:16:45,320 - 00:16:48,000] had to open up their primary residences to
+- [00:16:48,000 - 00:16:49,690] travelers who are coming in to watch
+- [00:16:49,690 - 00:16:51,380] this golf tournament people have been watching tire
+- [00:16:51,380 - 00:16:54,220] woods play at the masters tournament for years the
+- [00:16:54,220 - 00:16:57,060] city of augusta georgia enacted a code that said
+- [00:16:57,060 - 00:16:59,820] if you rent out your property for 14 days or
+- [00:16:59,820 - 00:17:02,580] less you don't have to pay taxes on the rental income
+- [00:17:02,580 - 00:17:06,020] in the state of georgia it's funny because a year
+- [00:17:06,020 - 00:17:09,460] and a half later it became a federal tax code irc-280a
+- [00:17:09,460 - 00:17:12,300] now anybody whether you're a business owner or not
+- [00:17:12,300 - 00:17:15,140] can rent out your primary residence for 14 days
+- [00:17:15,140 - 00:17:17,619] charge rent and not pay taxes on the first 14
+- [00:17:17,619 - 00:17:20,099] days of rental income this has been a strategy we've
+- [00:17:20,099 - 00:17:20,699] utilized with business owners and we've been using
+- [00:17:20,699 - 00:17:21,300] this strategy for a long time and we've been
+- [00:17:21,300 - 00:17:21,339] using it for a long time and we've been using it for
+- [00:17:21,339 - 00:17:21,379] a long time and we've been using it for a long time
+- [00:17:21,379 - 00:17:23,739] because if you have an s corp the s corp
+- [00:17:23,739 - 00:17:26,099] is considered a separate person from who you are so
+- [00:17:26,099 - 00:17:28,819] you as a business owner who owns the s
+- [00:17:28,819 - 00:17:31,540] corp can rent your primary residence to your s corporation
+- [00:17:31,540 - 00:17:34,459] for 14 days charge rent and deduct it on
+- [00:17:34,459 - 00:17:37,379] your tax returns and it's like a tax-free distribution
+- [00:17:37,379 - 00:17:39,739] coming right back to you the individual definitely
+- [00:17:39,739 - 00:17:42,100] a strategy that most taxpayers are not implementing
+- [00:17:42,100 - 00:17:44,379] but is so easy and is low-hanging fruit
+- [00:17:44,379 - 00:17:46,659] and i absolutely recommend you get it implemented that's
+- [00:17:46,659 - 00:17:48,379] straight game right there for everybody that's
+- [00:17:48,379 - 00:17:50,100] watching where can everybody find you at right
+- [00:17:50,100 - 00:17:50,690] now yeah you guys can find our company on
+- [00:17:50,690 - 00:17:51,280] our website at the link in the description box below
+- [00:17:51,300 - 00:17:51,550] and if you want to get a free assessment of
+- [00:17:51,550 - 00:17:51,800] any of our tax questions please go to our website at
+- [00:17:51,800 - 00:17:53,820] taxalchemy.com visit our youtube channel at carlton dennis
+- [00:17:53,820 - 00:17:55,840] and go on instagram and send us a
+- [00:17:55,840 - 00:17:57,700] message if you have any tax questions we'd be
+- [00:17:57,700 - 00:17:59,560] more than happy to provide a free assessment amazing
+- [00:17:59,560 - 00:18:01,640] guys the links to connect with carlton check them
+- [00:18:01,640 - 00:18:03,720] out are down in the description below go check out
+- [00:18:03,720 - 00:18:05,880] his business go connect with carlton thank you so
+- [00:18:05,880 - 00:18:08,040] much for having us thank you this was exceptional
+- [00:18:08,040 - 00:18:09,060] the game was crazy my
+- [00:18:09,060 - 00:18:10,080] friend let's go thank you brother
