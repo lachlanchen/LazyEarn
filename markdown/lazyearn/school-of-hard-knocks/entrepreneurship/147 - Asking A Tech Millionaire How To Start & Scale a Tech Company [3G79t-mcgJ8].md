@@ -1,0 +1,416 @@
+# Transcript
+
+Source: lazyearn/school-of-hard-knocks/hard-knocks-interviews/114 - Asking A Tech Millionaire How To Start & Scale a Tech Company [3G79t-mcgJ8].webm
+
+- [00:00:00,000 - 00:00:01,840] What's going on guys? We're on the way right now
+- [00:00:01,840 - 00:00:03,680] to meet up with John Abraham, who's a startup founder.
+- [00:00:03,880 - 00:00:06,210] He started and sold a company a few years back, and
+- [00:00:06,210 - 00:00:08,540] he's back in the game founding another tech startup right now.
+- [00:00:08,680 - 00:00:10,860] So we're going to ask him some questions on how
+- [00:00:10,860 - 00:00:13,040] he was able to start, grow, and eventually sell his businesses,
+- [00:00:13,280 - 00:00:15,080] and what he implemented to make him successful.
+- [00:00:18,900 - 00:00:20,460] Hey James. What's going on John? How you doing?
+- [00:00:20,660 - 00:00:21,870] Good, good. Good to see you. Come
+- [00:00:21,870 - 00:00:23,080] on in. Hey. Good to see you.
+- [00:00:23,140 - 00:00:23,600] Good to see you.
+- [00:00:23,760 - 00:00:25,880] We launched our application in 2014
+- [00:00:25,880 - 00:00:28,000] and had an exit in 2018.
+- [00:00:28,000 - 00:00:30,740] And now I'm working on a new startup called Haymaker.
+- [00:00:31,080 - 00:00:33,270] What is the most efficient way to go
+- [00:00:33,270 - 00:00:35,460] about raising capital to fund people's ideas and businesses?
+- [00:00:35,680 - 00:00:38,550] As a business owner, what's the number one thing that you took
+- [00:00:38,550 - 00:00:41,420] from starting and selling that first company to your second company now?
+- [00:00:41,920 - 00:00:42,320] Oh gosh.
+- [00:00:46,200 - 00:00:48,480] What industry did you ultimately pursue a career in?
+- [00:00:48,580 - 00:00:50,750] I've since retired. I was in
+- [00:00:50,750 - 00:00:52,920] tech sales for about 15, 20 years.
+- [00:00:53,040 - 00:00:54,170] What was the most amount of money
+- [00:00:54,170 - 00:00:55,300] that you ever made in a single year?
+- [00:00:55,300 - 00:00:57,700] It's a lot of money because I got stock options.
+- [00:00:57,700 - 00:01:00,520] It was in the multi-million dollars of earnings in a
+- [00:01:00,520 - 00:01:03,340] single year because I cashed out a whole bunch of stock.
+- [00:01:03,340 - 00:01:05,340] Wow. Would you say eight figures?
+- [00:01:05,340 - 00:01:06,340] Yeah, eight figures.
+- [00:01:06,340 - 00:01:06,840] Eight figures.
+- [00:01:06,840 - 00:01:08,510] What does it take to go from a
+- [00:01:08,510 - 00:01:10,180] seven to eight figure net worth in today's world?
+- [00:01:10,180 - 00:01:12,970] Well, I think if you really want to make that kind of money,
+- [00:01:12,970 - 00:01:15,760] you got to find a company that is willing to invest in you,
+- [00:01:15,760 - 00:01:17,760] or you got to go build your own business.
+- [00:01:17,760 - 00:01:20,870] So investing in you would be giving you ownership in the
+- [00:01:20,870 - 00:01:23,980] company so that you're going out there and you're selling hard,
+- [00:01:23,980 - 00:01:25,440] but you're selling for the long term.
+- [00:01:25,440 - 00:01:27,180] Or you got to find your own business.
+- [00:01:27,180 - 00:01:30,520] You got to go learn early and take your learnings and
+- [00:01:30,520 - 00:01:33,860] go do a business of your own from what you've learned.
+- [00:01:33,860 - 00:01:35,940] That's something, what I know now, I
+- [00:01:35,940 - 00:01:38,020] would have spent more time thinking about.
+- [00:01:38,020 - 00:01:40,250] How do I take all my knowledge and instead
+- [00:01:40,250 - 00:01:42,480] of doing it for someone else, do it for myself?
+- [00:01:42,480 - 00:01:44,860] But only after you've built that base of knowledge.
+- [00:01:44,860 - 00:01:46,860] Be confident and be fearless.
+- [00:01:46,860 - 00:01:48,200] And then you need to go for it.
+- [00:01:48,200 - 00:01:49,200] Excuse me, sir.
+- [00:01:49,200 - 00:01:50,700] I just need to ask you a question.
+- [00:01:50,700 - 00:01:52,640] If you had to start over at the back of the business,
+- [00:01:52,640 - 00:01:54,580] if you were first starting out, what advice would you give yourself?
+- [00:01:57,180 - 00:01:57,980] Thank you anyway.
+- [00:01:57,980 - 00:01:58,560] No worries, sir.
+- [00:01:58,560 - 00:01:59,640] Excuse me, sir.
+- [00:01:59,640 - 00:02:00,800] Quick question for you.
+- [00:02:00,800 - 00:02:02,200] If you were to start from zero and go back
+- [00:02:02,200 - 00:02:03,600] to when you were first starting out in the real world,
+- [00:02:03,600 - 00:02:06,320] what's the best advice that you would tell yourself?
+- [00:02:06,320 - 00:02:07,900] You guys were here last time.
+- [00:02:07,900 - 00:02:08,600] Yes, sir.
+- [00:02:08,600 - 00:02:09,810] So as you can see,
+- [00:02:09,810 - 00:02:11,020] rejection is part of the process.
+- [00:02:11,020 - 00:02:12,800] We get a lot of funny rejections, a lot
+- [00:02:12,800 - 00:02:14,580] of stuff you don't even see behind the scenes.
+- [00:02:14,580 - 00:02:16,770] I got to ask you, what's
+- [00:02:16,770 - 00:02:18,960] the worst rejection you've ever had?
+- [00:02:18,960 - 00:02:22,080] Man, the worst rejection, there's been a lot of them.
+- [00:02:22,080 - 00:02:23,060] I think one of them was
+- [00:02:23,060 - 00:02:24,040] when we were in San Antonio.
+- [00:02:24,040 - 00:02:25,380] We were kind of at like a shopping center.
+- [00:02:25,380 - 00:02:26,220] I went up to a
+- [00:02:26,220 - 00:02:27,060] gentleman and asked him, you know,
+- [00:02:27,180 - 00:02:28,480] hey, could we do a quick interview with you?
+- [00:02:28,480 - 00:02:29,830] And he just kind of gave me
+- [00:02:29,830 - 00:02:31,180] the most staunch hand in the face.
+- [00:02:31,180 - 00:02:33,400] He's like, get that fucking camera out of my face.
+- [00:02:33,400 - 00:02:34,100] It happens, man.
+- [00:02:34,100 - 00:02:35,060] It's going to happen.
+- [00:02:35,060 - 00:02:36,900] The worst ones, they don't even say anything.
+- [00:02:36,900 - 00:02:38,340] They just put the hand up, and
+- [00:02:38,340 - 00:02:39,780] you just know to just keep it moving.
+- [00:02:39,780 - 00:02:41,760] But at the end of the day, as we
+- [00:02:41,760 - 00:02:43,740] always know, every no is closer to a yes.
+- [00:02:43,740 - 00:02:44,700] So we just keep going.
+- [00:02:44,700 - 00:02:46,700] What industry did you ultimately pursue a career in?
+- [00:02:46,700 - 00:02:48,060] I consult with governments around the
+- [00:02:48,060 - 00:02:49,420] country, with a lot of cities,
+- [00:02:49,420 - 00:02:51,500] mostly local governments, on specific issues
+- [00:02:51,500 - 00:02:53,580] that governments are facing these days.
+- [00:02:53,580 - 00:02:54,960] And what has been the most amount of
+- [00:02:54,960 - 00:02:56,340] money that you ever made in a single year?
+- [00:02:56,340 - 00:02:57,160] I worked in government.
+- [00:02:57,160 - 00:02:58,579] So I never made a whole lot of money.
+- [00:02:58,579 - 00:02:59,929] But being out on my own now, probably
+- [00:02:59,929 - 00:03:01,280] close to a half a million dollars a year.
+- [00:03:01,280 - 00:03:01,920] Absolutely.
+- [00:03:01,920 - 00:03:03,690] What would you say is the number one skill
+- [00:03:03,690 - 00:03:05,460] that's needed to be successful in the business world?
+- [00:03:05,460 - 00:03:07,820] I think to become truly successful, I think
+- [00:03:07,820 - 00:03:10,180] you have to have that magic connection between assertiveness,
+- [00:03:10,180 - 00:03:11,950] truly trying to assert yourself, to
+- [00:03:11,950 - 00:03:13,720] get out of your comfort zone,
+- [00:03:13,720 - 00:03:15,300] to try things that you haven't tried before.
+- [00:03:15,300 - 00:03:17,380] It's not just about diligence and focus.
+- [00:03:17,380 - 00:03:18,900] It's really just about trying new things.
+- [00:03:18,900 - 00:03:22,100] And at the same time, professionalism, follow through,
+- [00:03:22,100 - 00:03:23,830] viewing those relationships truly
+- [00:03:23,830 - 00:03:25,560] as relationships and not networking.
+- [00:03:25,560 - 00:03:27,140] It's not a transactional life.
+- [00:03:27,140 - 00:03:28,849] It's building relationships that you're going to
+- [00:03:28,849 - 00:03:30,559] grow throughout the rest of your life.
+- [00:03:30,559 - 00:03:33,099] I surround myself with large networks of people, and I
+- [00:03:33,099 - 00:03:35,640] pull them all the time about the things I'm doing.
+- [00:03:35,640 - 00:03:37,499] I talk to people about what I'm up to and
+- [00:03:37,499 - 00:03:39,359] making sure you have good people who are supporting you,
+- [00:03:39,359 - 00:03:41,200] who are kind and who are charitable.
+- [00:03:41,200 - 00:03:41,700] That's important.
+- [00:03:41,700 - 00:03:43,180] So we don't typically run into a
+- [00:03:43,180 - 00:03:44,660] lot of government employees down here in Austin,
+- [00:03:44,660 - 00:03:46,490] but it's really interesting his story, how he
+- [00:03:46,490 - 00:03:48,320] worked for the government, became a business consultant.
+- [00:03:48,320 - 00:03:50,239] Now he's got his own business, but loved his advice.
+- [00:03:50,239 - 00:03:51,500] And let's go catch some more.
+- [00:03:51,500 - 00:03:52,559] What was the most amount of money
+- [00:03:52,559 - 00:03:53,619] you ever made in a single year?
+- [00:03:54,459 - 00:03:55,839] What industry did you pursue a career in?
+- [00:03:55,839 - 00:03:57,019] I built jail cells.
+- [00:03:57,140 - 00:03:58,430] What is the blueprint that it takes
+- [00:03:58,430 - 00:03:59,720] to become a millionaire in today's world?
+- [00:03:59,720 - 00:04:01,830] I always was interested in a
+- [00:04:01,830 - 00:04:03,940] niche industry, which I am certainly in,
+- [00:04:03,940 - 00:04:05,460] because in New England, there's nobody
+- [00:04:05,460 - 00:04:06,980] else that does what I do.
+- [00:04:06,980 - 00:04:10,779] So find a niche, work hard, get the right people.
+- [00:04:10,779 - 00:04:12,279] I don't see how you could not be successful.
+- [00:04:12,279 - 00:04:14,820] When you see an opportunity, take advantage of it.
+- [00:04:14,820 - 00:04:16,760] If it's not working out, get out
+- [00:04:16,760 - 00:04:18,700] fast or pursue it right to the end.
+- [00:04:18,700 - 00:04:20,929] I've done that multiple times,
+- [00:04:20,929 - 00:04:23,159] and it's worked out pretty well.
+- [00:04:23,159 - 00:04:25,340] And I've also had, I went in one direction.
+- [00:04:25,340 - 00:04:27,120] I added a component to my company.
+- [00:04:27,140 - 00:04:28,140] It didn't work out.
+- [00:04:28,140 - 00:04:29,140] Cut ties, gone.
+- [00:04:29,140 - 00:04:31,640] You lose a little money, but in the long run,
+- [00:04:31,640 - 00:04:34,140] you lose a lot less than if you stay with it.
+- [00:04:34,140 - 00:04:36,320] A few weeks ago, we ran into and met
+- [00:04:36,320 - 00:04:38,500] a startup founder out here in Austin, Texas, who sold
+- [00:04:38,500 - 00:04:40,480] a company a few years ago and is
+- [00:04:40,480 - 00:04:42,460] now in the process of building another tech startup.
+- [00:04:42,460 - 00:04:43,580] Now the story of how we actually
+- [00:04:43,580 - 00:04:44,700] ran into him was kind of funny.
+- [00:04:44,700 - 00:04:46,619] Yeah, so we're at a Mexican restaurant called
+- [00:04:46,619 - 00:04:48,539] Puevos, and we're sitting next to this two
+- [00:04:48,539 - 00:04:49,539] people.
+- [00:04:49,539 - 00:04:50,999] It's John and this other lady,
+- [00:04:50,999 - 00:04:52,460] and we overhear them talking about business.
+- [00:04:52,460 - 00:04:54,300] So we're like, hey, James, I
+- [00:04:54,300 - 00:04:56,140] think these guys are business owners.
+- [00:04:56,140 - 00:04:57,140] Let's just go ask them.
+- [00:04:57,140 - 00:04:58,330] Let's ask them what they do
+- [00:04:58,330 - 00:04:59,520] and kind of like who they are.
+- [00:04:59,520 - 00:05:00,640] And so we go ahead,
+- [00:05:00,640 - 00:05:01,760] we ask them who they are.
+- [00:05:01,760 - 00:05:03,570] And we found out that this guy, John
+- [00:05:03,570 - 00:05:05,380] Abraham, he's actually a startup founder in Austin,
+- [00:05:05,380 - 00:05:07,489] Texas, who previously sold a company, is in
+- [00:05:07,489 - 00:05:09,599] the process of building a new company, and
+- [00:05:09,599 - 00:05:10,599] he's in the process of
+- [00:05:10,599 - 00:05:11,599] scaling and growing it right now.
+- [00:05:11,599 - 00:05:13,539] And so we said, hey, this is what we do.
+- [00:05:13,539 - 00:05:15,279] We connect with, we interview, we tell stories
+- [00:05:15,279 - 00:05:17,020] from big business owners and try to get their
+- [00:05:17,020 - 00:05:18,550] advice on how they became successful to
+- [00:05:18,550 - 00:05:20,080] help the younger generation of people that are
+- [00:05:20,080 - 00:05:22,219] out in the real world really become successful like them.
+- [00:05:22,219 - 00:05:24,179] So we actually just talked to him recently,
+- [00:05:24,179 - 00:05:26,140] and he said that, hey, let's film some more
+- [00:05:26,140 - 00:05:27,140] content.
+- [00:05:27,140 - 00:05:28,839] Let's give you guys some game on how
+- [00:05:28,839 - 00:05:30,539] you can really start, scale, grow a business to
+- [00:05:30,539 - 00:05:32,140] eventually be sold.
+- [00:05:32,140 - 00:05:33,640] So we're going to go talk to
+- [00:05:33,640 - 00:05:35,140] John Abraham now on how he became successful.
+- [00:05:35,140 - 00:05:36,140] Hey, James.
+- [00:05:36,140 - 00:05:37,140] What's going on, John?
+- [00:05:37,140 - 00:05:38,140] How you doing?
+- [00:05:38,140 - 00:05:39,140] Good, good.
+- [00:05:39,140 - 00:05:40,140] Good to see you.
+- [00:05:40,140 - 00:05:41,140] Good to see you.
+- [00:05:41,140 - 00:05:42,140] Come on in.
+- [00:05:42,140 - 00:05:43,140] Hey.
+- [00:05:43,140 - 00:05:44,140] Good to see you.
+- [00:05:44,140 - 00:05:45,140] Good to see you.
+- [00:05:45,140 - 00:05:47,450] What is your story as a startup founder and
+- [00:05:47,450 - 00:05:49,760] entrepreneur, and what all are you up to right
+- [00:05:49,760 - 00:05:50,760] now?
+- [00:05:50,760 - 00:05:52,640] I used to bartend in college, and a lot
+- [00:05:52,640 - 00:05:54,520] of folks would come in from Dell and from Applied
+- [00:05:54,520 - 00:05:56,140] Materials and Intel.
+- [00:05:56,140 - 00:05:57,640] And I knew I wanted in
+- [00:05:57,640 - 00:05:59,140] on that, on the tech space.
+- [00:05:59,140 - 00:06:01,390] And so I finally begged one of them into giving
+- [00:06:01,390 - 00:06:03,640] me a chance at sales, and that's how I started
+- [00:06:03,640 - 00:06:05,140] my sales career in tech.
+- [00:06:05,140 - 00:06:07,559] We launched our application in 2014
+- [00:06:07,559 - 00:06:09,979] and had an exit in 2018.
+- [00:06:09,979 - 00:06:12,059] And now I'm working on a new
+- [00:06:12,059 - 00:06:14,140] startup called Haymaker, which is like Airbnb.
+- [00:06:14,140 - 00:06:16,210] It's a marketplace, but except it's
+- [00:06:16,210 - 00:06:18,280] for on-demand and temporary office space.
+- [00:06:18,280 - 00:06:20,320] A lot of people have a lot of great ideas.
+- [00:06:20,320 - 00:06:22,480] What's the first step in order to turn
+- [00:06:22,480 - 00:06:24,640] that idea to actual action, execute on that?
+- [00:06:24,640 - 00:06:25,640] Well.
+- [00:06:26,140 - 00:06:28,960] Before you create anything, you need to understand
+- [00:06:28,960 - 00:06:31,780] the viability of the product and the total
+- [00:06:31,780 - 00:06:32,860] addressable market.
+- [00:06:32,860 - 00:06:35,039] So before you build anything, I would
+- [00:06:35,039 - 00:06:37,219] start with interviewing as many potential clients
+- [00:06:37,219 - 00:06:38,219] as you can.
+- [00:06:38,219 - 00:06:40,159] If you've recognized a need in some sort
+- [00:06:40,159 - 00:06:42,099] of industry or some space, you want to start
+- [00:06:42,099 - 00:06:44,380] with talking to the decision makers in that space.
+- [00:06:44,380 - 00:06:45,479] What are your challenges?
+- [00:06:45,479 - 00:06:46,760] What are you struggling with?
+- [00:06:46,760 - 00:06:47,940] And the more interviews, the better.
+- [00:06:47,940 - 00:06:49,959] And then go back to them and say, if
+- [00:06:49,959 - 00:06:51,979] we can solve this problem for you, what would that
+- [00:06:51,979 - 00:06:52,979] mean for your company?
+- [00:06:52,979 - 00:06:54,640] You're not quite asking for a sale yet.
+- [00:06:54,640 - 00:06:56,140] You're just trying to get them to help you.
+- [00:06:56,140 - 00:06:58,320] You understand what would that mean for them.
+- [00:06:58,320 - 00:07:00,500] And then if you can get somebody to
+- [00:07:00,500 - 00:07:02,680] commit to piloting that project early on, then you
+- [00:07:02,680 - 00:07:06,159] can go and build your MVP, your minimally viable product.
+- [00:07:06,159 - 00:07:07,159] That is the best approach.
+- [00:07:07,159 - 00:07:08,159] Yeah.
+- [00:07:08,159 - 00:07:09,159] And I kind of wanted to ask you.
+- [00:07:09,159 - 00:07:10,159] So you have that idea.
+- [00:07:10,159 - 00:07:11,719] You start to kind of get a team around it.
+- [00:07:11,719 - 00:07:13,320] You start to invest some money in it.
+- [00:07:13,320 - 00:07:14,910] At what point do you know that you have
+- [00:07:14,910 - 00:07:16,500] a good idea and that you should keep investing
+- [00:07:16,500 - 00:07:17,500] in it?
+- [00:07:17,500 - 00:07:18,810] You don't until you figure
+- [00:07:18,810 - 00:07:20,120] out a way to scale it.
+- [00:07:20,120 - 00:07:22,190] It could solve a really substantial problem, but
+- [00:07:22,190 - 00:07:24,260] until you figure out how to get customers,
+- [00:07:24,260 - 00:07:25,300] you don't really have a great idea.
+- [00:07:25,300 - 00:07:25,500] Yeah.
+- [00:07:25,500 - 00:07:25,539] Yeah.
+- [00:07:25,539 - 00:07:25,580] Yeah.
+- [00:07:25,580 - 00:07:25,599] Yeah.
+- [00:07:25,599 - 00:07:25,620] Yeah.
+- [00:07:25,620 - 00:07:25,680] Yeah.
+- [00:07:25,680 - 00:07:25,700] Yeah.
+- [00:07:25,700 - 00:07:25,740] Yeah.
+- [00:07:25,740 - 00:07:25,780] Yeah.
+- [00:07:25,780 - 00:07:25,800] Yeah.
+- [00:07:25,800 - 00:07:25,820] Yeah.
+- [00:07:25,820 - 00:07:25,840] Yeah.
+- [00:07:25,840 - 00:07:27,420] What is your best piece of advice
+- [00:07:27,420 - 00:07:29,000] for entrepreneurs that might be struggling with
+- [00:07:29,000 - 00:07:30,000] perfectionism?
+- [00:07:30,000 - 00:07:32,010] They're constantly in an analysis paralysis,
+- [00:07:32,010 - 00:07:34,020] working on their product, and they're not
+- [00:07:34,020 - 00:07:35,400] sending it out into the market.
+- [00:07:35,400 - 00:07:37,619] What would be your piece of advice for those entrepreneurs?
+- [00:07:37,619 - 00:07:40,469] I've maybe been guilty of this myself, but
+- [00:07:40,469 - 00:07:43,320] I think perfectionism is really a form of
+- [00:07:43,320 - 00:07:44,320] insecurity.
+- [00:07:44,320 - 00:07:45,720] So you don't want anybody calling the baby
+- [00:07:45,720 - 00:07:47,120] ugly, so you're never going to show anybody
+- [00:07:47,120 - 00:07:48,120] the baby.
+- [00:07:48,120 - 00:07:50,130] That's not a place where you can
+- [00:07:50,130 - 00:07:52,140] really get any constructive feedback and course correct
+- [00:07:52,140 - 00:07:53,140] if you need to.
+- [00:07:53,140 - 00:07:55,400] If you have a differentiator though that you can highlight.
+- [00:07:55,400 - 00:07:58,189] and then let your client buy in on helping you
+- [00:07:58,189 - 00:08:00,979] shape the product in a way that's maybe a better
+- [00:08:00,979 - 00:08:03,029] fit for them, now they're bought in. So it's
+- [00:08:03,029 - 00:08:05,080] a great opportunity for you to just show them
+- [00:08:05,080 - 00:08:07,159] something. You know it's not perfect. You even admit
+- [00:08:07,159 - 00:08:09,239] it's not perfect. What can we do to make
+- [00:08:09,239 - 00:08:11,159] this perfect for you? It's very common to face
+- [00:08:11,159 - 00:08:13,080] a lot of failure on your journey as an entrepreneur.
+- [00:08:13,580 - 00:08:15,689] But what is your advice to someone who
+- [00:08:15,689 - 00:08:17,799] is facing that failure maybe frequently as an entrepreneur?
+- [00:08:17,979 - 00:08:20,049] And how can you really overcome that
+- [00:08:20,049 - 00:08:22,120] adversity and those setbacks? Well, adversity and setbacks
+- [00:08:22,120 - 00:08:24,800] are part of the journey. And the journey is really
+- [00:08:24,800 - 00:08:27,480] what you should be in it for if you decide
+- [00:08:27,480 - 00:08:29,910] to become an entrepreneur. It's not the destination. I
+- [00:08:29,910 - 00:08:32,340] know we celebrate the money that comes with an
+- [00:08:32,340 - 00:08:34,640] exit or an IPO. But the thing that really
+- [00:08:34,640 - 00:08:36,940] changes you and the thing that will help your mindset
+- [00:08:36,940 - 00:08:40,159] through this journey is if you can realize that
+- [00:08:40,159 - 00:08:43,380] those are the things that will shape you into a
+- [00:08:43,380 - 00:08:46,180] really successful person who can overcome obstacles
+- [00:08:46,180 - 00:08:48,980] down the road, who can meet challenges head-on,
+- [00:08:48,980 - 00:08:50,450] who can help other people who
+- [00:08:50,450 - 00:08:51,920] are going through those challenges. That's
+- [00:08:51,920 - 00:08:52,100] the journey.
+- [00:08:52,120 - 00:08:54,280] Really the point of the entire journey. So
+- [00:08:54,280 - 00:08:56,440] one of the biggest struggles that business owners face
+- [00:08:56,440 - 00:08:58,720] is raising capital to fund their great ideas that
+- [00:08:58,720 - 00:09:01,000] they may have. What is the most efficient way to
+- [00:09:01,000 - 00:09:03,360] go about raising capital to fund people's ideas
+- [00:09:03,360 - 00:09:05,720] and businesses? But if you're just getting started,
+- [00:09:05,720 - 00:09:08,480] it is a lot cheaper now to build a product
+- [00:09:08,480 - 00:09:11,240] and test your product. Once you get that step done,
+- [00:09:11,240 - 00:09:13,400] hopefully you're generating some revenue where you
+- [00:09:13,400 - 00:09:15,560] can keep investing back into the business,
+- [00:09:15,560 - 00:09:18,040] build it out broader and broader, build traction, then
+- [00:09:18,040 - 00:09:20,520] take it out for investment. There is no magic
+- [00:09:20,520 - 00:09:21,920] number that you need to get to.
+- [00:09:21,920 - 00:09:24,800] But you just need to show that there's potential,
+- [00:09:24,800 - 00:09:27,680] there's repeatable customer acquisition. You have a plan for that.
+- [00:09:27,680 - 00:09:29,800] And ideally, you're moving up with
+- [00:09:29,800 - 00:09:31,920] your revenue and your MRR every month.
+- [00:09:31,920 - 00:09:34,840] What is the number one important thing that you can
+- [00:09:34,840 - 00:09:37,760] implement to scale your business from six to seven figures,
+- [00:09:37,760 - 00:09:39,080] from seven to eight, and
+- [00:09:39,080 - 00:09:40,400] maybe eventually eight to nine figures?
+- [00:09:40,400 - 00:09:43,160] The rule that I use is, one, if I could outsource
+- [00:09:43,160 - 00:09:45,920] this for less than my hourly rate, then I'm going to outsource.
+- [00:09:45,920 - 00:09:48,920] If it means bringing on someone permanent, that's something that
+- [00:09:48,920 - 00:09:51,920] you'll just have to budget for and build your forecast.
+- [00:09:51,920 - 00:09:53,119] And if you're going to do that, you're going to have
+- [00:09:53,119 - 00:09:54,319] to build your forecast on and continue to bring people on.
+- [00:09:54,319 - 00:09:56,679] What do you think is the absolute best
+- [00:09:56,679 - 00:09:59,040] way to go about marketing your product or service?
+- [00:09:59,040 - 00:10:00,920] If you're an enterprise play and you
+- [00:10:00,920 - 00:10:02,800] have enterprise clients, there's one strategy there.
+- [00:10:02,800 - 00:10:05,280] Email is actually still pretty prolific there, but it's going
+- [00:10:05,280 - 00:10:07,760] to be a mix, you know, a mix of social
+- [00:10:07,760 - 00:10:10,359] media. It's going to be a mix of direct
+- [00:10:10,359 - 00:10:12,959] outreach through emails. It might even be cold calling if
+- [00:10:12,959 - 00:10:15,559] you're doing enterprise stuff. If you're doing more
+- [00:10:15,559 - 00:10:18,160] of a consumer play, gosh, social media plays a
+- [00:10:18,160 - 00:10:19,680] pretty critical role there.
+- [00:10:19,680 - 00:10:21,920] You built and sold a company in 2018.
+- [00:10:21,920 - 00:10:24,400] What does that process look like of selling a company and
+- [00:10:24,400 - 00:10:26,880] how can you set up your company to be sold one day?
+- [00:10:26,880 - 00:10:28,799] Best way to set up your company to be
+- [00:10:28,799 - 00:10:30,719] sold is just to keep focusing on the bottom line.
+- [00:10:30,719 - 00:10:33,759] Keep building revenue, keep moving the needle. And if
+- [00:10:33,759 - 00:10:36,800] you keep doing it and it's efficient, people notice.
+- [00:10:36,800 - 00:10:38,999] Institutional investors will notice. They probably want to,
+- [00:10:38,999 - 00:10:41,199] you know, help you along and help promote
+- [00:10:41,199 - 00:10:43,439] the company in the form of an investment
+- [00:10:43,439 - 00:10:45,680] or an acquisition might take place. And, you know,
+- [00:10:45,680 - 00:10:47,999] because they want to be part of that or they
+- [00:10:47,999 - 00:10:50,319] want to roll your products into their services and offerings.
+- [00:10:50,319 - 00:10:51,920] And that happens every day.
+- [00:10:51,920 - 00:10:54,400] One of the things you mentioned is having
+- [00:10:54,400 - 00:10:56,880] that circle around you, that board of advisors.
+- [00:10:56,880 - 00:10:59,359] How important do you think it is to have a
+- [00:10:59,359 - 00:11:01,839] mentor and just that whatever advisors around you to give
+- [00:11:01,839 - 00:11:03,279] you that proper advice and guiding
+- [00:11:03,279 - 00:11:04,719] to where you really need to go?
+- [00:11:04,719 - 00:11:06,559] There's typically not one person that you go
+- [00:11:06,559 - 00:11:08,400] to for everything. You might have that one person
+- [00:11:08,400 - 00:11:10,480] that you go to to keep you motivated, like
+- [00:11:10,480 - 00:11:12,560] a business coach or some sort of motivational coach
+- [00:11:12,560 - 00:11:14,879] or something like that. But there's a lot of nuance
+- [00:11:14,879 - 00:11:17,199] to running a business and you're not going to be
+- [00:11:17,199 - 00:11:19,519] an expert at everything. So if possible, go out
+- [00:11:19,519 - 00:11:21,839] and try to find people who are experts in
+- [00:11:21,920 - 00:11:24,720] those categories. I still have sales mentors.
+- [00:11:24,720 - 00:11:27,520] I can't, you forget, you get rusty sometimes.
+- [00:11:27,520 - 00:11:29,359] And so you got to, you know, you got to
+- [00:11:29,359 - 00:11:31,199] go out and go back to your mentors and they'll steer
+- [00:11:31,199 - 00:11:32,160] you down the right ship.
+- [00:11:32,160 - 00:11:33,720] So the company you're currently building right now
+- [00:11:33,720 - 00:11:35,280] is called Haymaker. Can you tell us a little
+- [00:11:35,280 - 00:11:36,359] bit about that and what you're
+- [00:11:36,359 - 00:11:37,439] up to as the owner of it?
+- [00:11:37,439 - 00:11:40,319] Yeah. Haymaker is an online marketplace similar
+- [00:11:40,319 - 00:11:43,199] to Airbnb, but we specialize in temporary office
+- [00:11:43,199 - 00:11:45,639] and meeting spaces. This is actually one of
+- [00:11:45,639 - 00:11:48,079] our Haymaker spaces here. It's ideal for companies
+- [00:11:48,079 - 00:11:49,599] with distributed employees that don't
+- [00:11:49,599 - 00:11:51,120] have a ton of office space.
+- [00:11:51,920 - 00:11:54,199] To supplement that office space. So we have
+- [00:11:54,199 - 00:11:56,479] luxury homes like this one. We have flex spaces,
+- [00:11:56,479 - 00:11:58,879] studios, traditional commercial real estate. They're all
+- [00:11:58,879 - 00:12:01,280] available by the hour or by the day.
+- [00:12:01,280 - 00:12:02,959] What made you come up with this idea?
+- [00:12:02,959 - 00:12:04,919] Oh gosh. During the pandemic, actually
+- [00:12:04,919 - 00:12:06,880] pre-pandemic, my co-founder came up with the
+- [00:12:06,880 - 00:12:09,640] idea of launching more of an online marketplace
+- [00:12:09,640 - 00:12:12,400] for coworking. But then when the pandemic hit,
+- [00:12:12,400 - 00:12:14,480] we saw the number of people moving around
+- [00:12:14,480 - 00:12:16,560] and that really affirmed that we're headed down the
+- [00:12:16,560 - 00:12:18,999] right path. Pivoted a little bit from
+- [00:12:18,999 - 00:12:21,439] just coworking into meeting spaces since so many
+- [00:12:21,440 - 00:12:23,480] companies had dropped their real estate footprints or
+- [00:12:23,480 - 00:12:25,520] could just no longer justify carrying as much
+- [00:12:25,520 - 00:12:27,320] space as they had. John, thank you so much
+- [00:12:27,320 - 00:12:29,120] for having us out to your spot. We really enjoyed
+- [00:12:29,120 - 00:12:31,120] getting to talk to you today. Where can everybody
+- [00:12:31,120 - 00:12:33,120] find you and find out more about your company?
+- [00:12:33,120 - 00:12:35,600] Yeah. You can come to haymakerspace.com, check it
+- [00:12:35,600 - 00:12:38,080] out, look at our listings there. You can book
+- [00:12:38,080 - 00:12:40,520] directly through our app as well, which you can
+- [00:12:40,520 - 00:12:42,960] link to from the website. I'm also on LinkedIn,
+- [00:12:42,960 - 00:12:44,480] John Abraham. And if you guys want to learn
+- [00:12:44,480 - 00:12:46,000] more about how you can start and grow your
+- [00:12:46,000 - 00:12:47,600] first business, click this link right here.
