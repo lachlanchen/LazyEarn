@@ -1,0 +1,483 @@
+# Transcript
+
+Source: lazyearn/school-of-hard-knocks/hard-knocks-interviews/112 - Asking Orlando Millionaires How They Got Rich [C2lgZOIPp8c].mkv
+
+- [00:00:00,000 - 00:00:02,500] In what industry did you ultimately pursue a career in?
+- [00:00:02,500 - 00:00:03,300] Real estate.
+- [00:00:03,300 - 00:00:04,780] Well, I'm the CEO of
+- [00:00:04,780 - 00:00:06,260] insurance and risk management and academic.
+- [00:00:06,260 - 00:00:08,500] I manage 45,000 apartment units.
+- [00:00:08,500 - 00:00:09,900] What has been the biggest deal that
+- [00:00:09,900 - 00:00:11,300] you've ever closed in real estate so far?
+- [00:00:11,300 - 00:00:12,520] Eleven and a half million.
+- [00:00:12,520 - 00:00:13,750] What has been the most amount of money
+- [00:00:13,750 - 00:00:14,980] that you ever made in a single year?
+- [00:00:14,980 - 00:00:15,890] The most amount of money that
+- [00:00:15,890 - 00:00:16,800] I've ever made in a single year?
+- [00:00:16,800 - 00:00:17,760] Um...
+- [00:00:17,760 - 00:00:18,980] Is it like seven or eight figures?
+- [00:00:18,980 - 00:00:20,020] Yeah, in the right, yeah.
+- [00:00:22,600 - 00:00:24,280] Top of the morning.
+- [00:00:24,280 - 00:00:27,240] It's a beautiful day here in the Sunshine State.
+- [00:00:27,240 - 00:00:28,440] Orlando, Florida.
+- [00:00:28,440 - 00:00:29,240] Winter Park.
+- [00:00:29,240 - 00:00:31,400] What industry did you ultimately pursue a career in?
+- [00:00:31,400 - 00:00:32,780] I have a social media agency.
+- [00:00:32,780 - 00:00:34,079] It kind of happened by accident,
+- [00:00:34,079 - 00:00:35,379] but I've always been a hustler.
+- [00:00:35,379 - 00:00:36,709] And, you know, I've just
+- [00:00:36,709 - 00:00:38,040] always been really good with people.
+- [00:00:38,040 - 00:00:39,650] Something that kind of got me here
+- [00:00:39,650 - 00:00:41,260] was just really being able to take my
+- [00:00:41,260 - 00:00:43,470] expertise of people and being able to hang out with
+- [00:00:43,470 - 00:00:45,680] people that are 10 years or 20 years older than me.
+- [00:00:45,680 - 00:00:46,990] What has been the most amount of money
+- [00:00:46,990 - 00:00:48,300] that you ever made in a single year?
+- [00:00:48,300 - 00:00:50,199] The most amount of money that I just made in
+- [00:00:50,199 - 00:00:52,099] a single year was last year we did three million.
+- [00:00:52,099 - 00:00:53,519] That was the biggest year.
+- [00:00:53,519 - 00:00:55,289] And previous to that, you know, we
+- [00:00:55,289 - 00:00:57,060] had been continuously growing every single year.
+- [00:00:57,060 - 00:00:58,060] We haven't had a year we haven't
+- [00:00:58,060 - 00:00:59,060] grown, but that was our biggest year.
+- [00:00:59,060 - 00:01:00,020] And this year I want to do five.
+- [00:01:00,020 - 00:01:01,790] So what would you say is the biggest
+- [00:01:01,790 - 00:01:03,560] difference between a six and a seven figure business?
+- [00:01:03,560 - 00:01:05,670] That's where the leadership comes in, because you
+- [00:01:05,670 - 00:01:07,780] can run a six figure business all by yourself.
+- [00:01:07,780 - 00:01:09,180] You can be the chief executive of
+- [00:01:09,180 - 00:01:10,580] everything and have a six figure business.
+- [00:01:10,580 - 00:01:12,930] But once you hit that seven figure mark, you can,
+- [00:01:12,930 - 00:01:15,280] at least for me as an agency, really training people,
+- [00:01:15,280 - 00:01:17,600] building a team and just having the patience, you
+- [00:01:17,600 - 00:01:19,920] know, with people that, you know, are almost there.
+- [00:01:19,920 - 00:01:20,960] They're just stuck a little bit.
+- [00:01:20,960 - 00:01:24,170] Being able to also build that trust with your team to know that
+- [00:01:24,170 - 00:01:27,380] they're putting all their efforts in to build quality fulfillment for your clients.
+- [00:01:27,380 - 00:01:29,040] Excuse me, sir.
+- [00:01:29,060 - 00:01:30,820] Sir, question for you. Are you a business owner?
+- [00:01:30,820 - 00:01:32,180] I'm a CEO.
+- [00:01:32,180 - 00:01:32,780] A CEO.
+- [00:01:32,780 - 00:01:34,610] So we started a channel in Austin,
+- [00:01:34,610 - 00:01:36,440] Texas, that we have 1.4 million followers.
+- [00:01:36,440 - 00:01:37,940] Can we go around asking business owners
+- [00:01:37,940 - 00:01:39,440] a few questions on their advice to entrepreneurs?
+- [00:01:39,440 - 00:01:40,360] Can we ask you a few questions?
+- [00:01:40,360 - 00:01:40,860] Sure.
+- [00:01:40,860 - 00:01:41,360] Awesome.
+- [00:01:41,360 - 00:01:42,360] My first question for you, sir.
+- [00:01:42,360 - 00:01:44,280] What industry did you ultimately pursue a career in?
+- [00:01:44,280 - 00:01:45,040] Technology.
+- [00:01:45,040 - 00:01:46,240] Yeah. What are you doing exactly right now?
+- [00:01:46,240 - 00:01:49,220] Well, I'm the CEO of Frontline Performance Group, and
+- [00:01:49,220 - 00:01:52,200] we provide a software platform to the hospitality industry primarily.
+- [00:01:52,200 - 00:01:53,080] Also some travel.
+- [00:01:53,080 - 00:01:54,650] So what is your best advice to
+- [00:01:54,650 - 00:01:56,220] anybody starting a software company in today's world?
+- [00:01:56,220 - 00:01:59,040] Know the marketplace that you plan to sell it to.
+- [00:01:59,060 - 00:02:00,820] Better than you know the technology.
+- [00:02:00,820 - 00:02:02,670] Because anyone can build technology, but if you don't know how to
+- [00:02:02,670 - 00:02:04,520] sell it, you're not going to be able to make any money.
+- [00:02:04,520 - 00:02:06,560] What has been your secret to sales throughout your career?
+- [00:02:06,560 - 00:02:08,660] Knowing who you're selling to is critically important.
+- [00:02:08,660 - 00:02:09,970] So do a lot of
+- [00:02:09,970 - 00:02:11,280] research before you approach a customer.
+- [00:02:11,280 - 00:02:12,700] And you got to believe in what you're selling.
+- [00:02:12,700 - 00:02:14,430] If there's something in your product that you are
+- [00:02:14,430 - 00:02:16,160] not sure of, you won't be able to sell it.
+- [00:02:16,160 - 00:02:17,960] It'll show up in the pitch.
+- [00:02:17,960 - 00:02:19,200] And lastly, you have to be direct.
+- [00:02:19,200 - 00:02:20,870] You have to figure out how
+- [00:02:20,870 - 00:02:22,540] to be diplomatic and also very direct.
+- [00:02:22,540 - 00:02:24,420] Because the people that you're talking to
+- [00:02:24,420 - 00:02:26,300] hear a lot of stuff all the time.
+- [00:02:26,300 - 00:02:28,300] And if they don't believe what you're saying.
+- [00:02:28,300 - 00:02:29,040] And if you're not cutting to the chase.
+- [00:02:29,040 - 00:02:29,540] You're not cutting to the point.
+- [00:02:29,540 - 00:02:30,420] You're wasting their time.
+- [00:02:30,420 - 00:02:31,500] And I'll give you one tip.
+- [00:02:31,500 - 00:02:33,160] This is a very important tip that I
+- [00:02:33,160 - 00:02:34,820] learned from the best salesperson I've ever met.
+- [00:02:34,820 - 00:02:37,040] When you're in a meeting with a prospective client.
+- [00:02:37,040 - 00:02:38,100] And then you know it always
+- [00:02:38,100 - 00:02:39,160] goes, okay, we'll follow up with you.
+- [00:02:39,160 - 00:02:40,360] Pull out your phone and say,
+- [00:02:40,360 - 00:02:41,560] let's set that appointment right now.
+- [00:02:41,560 - 00:02:43,760] Even if you're on the phone, let's book it now.
+- [00:02:43,760 - 00:02:46,060] Even if it changes, you have them locked in.
+- [00:02:46,060 - 00:02:47,060] You don't have to chase them.
+- [00:02:47,060 - 00:02:48,670] In 60 seconds, what is the blueprint
+- [00:02:48,670 - 00:02:50,280] to becoming a millionaire in today's world?
+- [00:02:50,280 - 00:02:51,750] You have to own either equity
+- [00:02:51,750 - 00:02:53,220] in a business or start a business.
+- [00:02:53,220 - 00:02:54,930] So when you're young, go work for some
+- [00:02:54,930 - 00:02:56,640] young companies that are willing to give you some
+- [00:02:56,640 - 00:02:58,380] equity and then give them everything you've got.
+- [00:02:58,380 - 00:02:58,980] I did it twice.
+- [00:02:58,980 - 00:03:01,189] This is my second time where I didn't start
+- [00:03:01,189 - 00:03:03,399] the company, but I'm a partner in the company
+- [00:03:03,399 - 00:03:05,539] purely on sweat equity because of the
+- [00:03:05,539 - 00:03:07,679] skillset I've developed and the value I bring.
+- [00:03:07,679 - 00:03:09,660] But if you don't have equity, you don't have wealth.
+- [00:03:09,660 - 00:03:11,020] What do you think is the best industry that
+- [00:03:11,020 - 00:03:12,380] people should be looking to get into in today's
+- [00:03:12,380 - 00:03:13,380] world?
+- [00:03:13,380 - 00:03:14,380] Applied AI.
+- [00:03:14,380 - 00:03:15,380] Find something very simple.
+- [00:03:15,380 - 00:03:16,990] Think of it as a utility that can
+- [00:03:16,990 - 00:03:18,600] be fully automated by AI and then license it.
+- [00:03:18,600 - 00:03:19,600] Excuse me, sir.
+- [00:03:19,600 - 00:03:20,600] Yeah.
+- [00:03:20,600 - 00:03:21,600] Question for you.
+- [00:03:21,600 - 00:03:22,229] If you were to go back to when you
+- [00:03:22,229 - 00:03:22,859] were in either high school or college and you're having
+- [00:03:22,859 - 00:03:24,379] a conversation with your 20 year old self,
+- [00:03:24,379 - 00:03:25,899] what's the best piece of advice that you would
+- [00:03:25,899 - 00:03:26,899] tell your younger self?
+- [00:03:26,899 - 00:03:28,899] Don't become a nightclub promoter.
+- [00:03:28,899 - 00:03:28,940] Yeah.
+- [00:03:28,980 - 00:03:30,420] Is that what you're doing right now?
+- [00:03:30,420 - 00:03:31,579] That's what I did for 10 years.
+- [00:03:31,579 - 00:03:32,579] Yeah.
+- [00:03:32,579 - 00:03:33,579] What industry are you working in right now?
+- [00:03:33,579 - 00:03:35,600] Now I'm in the humanitarian space.
+- [00:03:35,600 - 00:03:36,600] Yeah.
+- [00:03:36,600 - 00:03:37,600] So I run a nonprofit.
+- [00:03:37,600 - 00:03:38,600] You're an entrepreneur.
+- [00:03:38,600 - 00:03:39,570] What's your best advice to anybody
+- [00:03:39,570 - 00:03:40,540] who's starting a business in today's world?
+- [00:03:40,540 - 00:03:41,959] We worked incredibly hard.
+- [00:03:41,959 - 00:03:43,399] My friend also is an entrepreneur.
+- [00:03:43,399 - 00:03:46,169] We worked a hundred hours a week and a
+- [00:03:46,169 - 00:03:48,940] lot of the people don't seem to be willing to
+- [00:03:48,940 - 00:03:49,940] work that hard these days.
+- [00:03:49,940 - 00:03:50,940] They want to play video games.
+- [00:03:50,940 - 00:03:52,720] They want to go to the movies.
+- [00:03:52,720 - 00:03:55,110] There's less drive and determination that
+- [00:03:55,110 - 00:03:57,500] I see in many of today's entrepreneurs.
+- [00:03:57,500 - 00:03:58,899] Look, we're just trying to go out for a spin.
+- [00:03:58,900 - 00:03:59,960] We're trying to go out for some
+- [00:03:59,960 - 00:04:01,020] lunch and it doesn't matter where we go.
+- [00:04:01,020 - 00:04:02,460] It doesn't matter if you're going to the bathroom.
+- [00:04:02,460 - 00:04:03,860] It doesn't matter if you're going to lunch.
+- [00:04:03,860 - 00:04:05,440] It doesn't matter if you're parking the car.
+- [00:04:05,440 - 00:04:07,170] If you have the look and we see you
+- [00:04:07,170 - 00:04:08,900] have a good energy, there's a good chance we're coming
+- [00:04:08,900 - 00:04:09,900] up to you for an interview.
+- [00:04:09,900 - 00:04:10,900] Yeah.
+- [00:04:10,900 - 00:04:11,900] Bill Holm.
+- [00:04:11,900 - 00:04:12,900] How are you?
+- [00:04:12,900 - 00:04:13,900] Jim.
+- [00:04:13,900 - 00:04:14,900] James.
+- [00:04:14,900 - 00:04:15,900] James.
+- [00:04:15,900 - 00:04:16,899] So Jack.
+- [00:04:16,899 - 00:04:17,899] Hey, Jack.
+- [00:04:17,899 - 00:04:18,899] How are you?
+- [00:04:18,899 - 00:04:19,899] Hey, I'm Josh.
+- [00:04:19,899 - 00:04:20,899] Hey, how are you?
+- [00:04:20,899 - 00:04:21,899] I'm good.
+- [00:04:21,899 - 00:04:22,900] In what industry did you ultimately pursue a career in?
+- [00:04:22,900 - 00:04:23,900] Insurance and risk management and academics.
+- [00:04:23,900 - 00:04:24,510] A little bit unusual because I do have a
+- [00:04:24,510 - 00:04:25,120] whole career in academics and then a whole career
+- [00:04:25,120 - 00:04:26,120] in business.
+- [00:04:26,120 - 00:04:27,120] So you're a business owner?
+- [00:04:27,120 - 00:04:28,120] Oh yeah.
+- [00:04:28,120 - 00:04:29,340] You're a business owner?
+- [00:04:29,340 - 00:04:30,340] Yeah.
+- [00:04:30,340 - 00:04:31,660] We developed over the years what's
+- [00:04:31,660 - 00:04:32,980] called the National Alliance for Insurance Education
+- [00:04:32,980 - 00:04:33,980] and Research.
+- [00:04:33,980 - 00:04:36,540] It's like a CPA type program for
+- [00:04:36,540 - 00:04:39,100] people in the business being agents, companies, adjusters.
+- [00:04:39,100 - 00:04:41,000] And now we have five different programs.
+- [00:04:41,000 - 00:04:42,470] What's your best advice to anybody
+- [00:04:42,470 - 00:04:43,940] who's starting a business in today's world?
+- [00:04:43,940 - 00:04:44,940] Show growth.
+- [00:04:44,940 - 00:04:46,840] You have to grow even if you're a little bit.
+- [00:04:46,840 - 00:04:49,060] Nobody wants to invest in a shrinking business, right?
+- [00:04:49,060 - 00:04:50,450] So you have to have a
+- [00:04:50,450 - 00:04:51,840] business that sort of inspires somebody.
+- [00:04:51,840 - 00:04:52,840] And keeping good people.
+- [00:04:52,840 - 00:04:54,590] That's a big thing because when you hire
+- [00:04:54,590 - 00:04:56,340] new people and they meet other people in your
+- [00:04:56,340 - 00:04:58,100] organization, they say, well, I've been here 14 years.
+- [00:04:58,100 - 00:04:59,480] I've been here 10 years.
+- [00:04:59,480 - 00:05:00,540] I've been here nine years.
+- [00:05:00,540 - 00:05:02,380] That has a big impact on people.
+- [00:05:02,380 - 00:05:04,980] Excellence is a lot of small things done well.
+- [00:05:04,980 - 00:05:06,850] And there's an old adage, you know, we
+- [00:05:06,850 - 00:05:08,720] don't trip over mountains, we trip over molehills.
+- [00:05:08,720 - 00:05:11,000] So it's the little things that make the big difference.
+- [00:05:11,000 - 00:05:12,390] How important has it been for you
+- [00:05:12,390 - 00:05:13,780] surrounding yourself with the right people throughout
+- [00:05:13,780 - 00:05:14,780] your career?
+- [00:05:14,780 - 00:05:15,780] Oh, it's crucial.
+- [00:05:15,780 - 00:05:18,360] People are your greatest asset and your greatest liability.
+- [00:05:18,360 - 00:05:19,780] Good people will build all
+- [00:05:19,780 - 00:05:21,200] around you, will make you better.
+- [00:05:21,200 - 00:05:23,500] And a few bad people will destroy your business.
+- [00:05:23,500 - 00:05:25,420] What has been your secret to sales throughout your career?
+- [00:05:25,420 - 00:05:26,690] So you have to be what
+- [00:05:26,690 - 00:05:27,960] I would call the uncommon man.
+- [00:05:28,100 - 00:05:29,600] Now you don't want to be weird.
+- [00:05:29,600 - 00:05:30,600] Weird is not good.
+- [00:05:30,600 - 00:05:32,720] There's a fine line between uncommon and weird.
+- [00:05:32,720 - 00:05:34,000] People have to respect you first.
+- [00:05:34,000 - 00:05:35,900] Now, why should I buy anything from you?
+- [00:05:35,900 - 00:05:36,900] That's it.
+- [00:05:36,900 - 00:05:38,110] If you were to go back to when you
+- [00:05:38,110 - 00:05:39,320] were in either high school or college and you're having
+- [00:05:39,320 - 00:05:40,850] a conversation with your 20 year old self,
+- [00:05:40,850 - 00:05:42,380] what is the best piece of advice that you
+- [00:05:42,380 - 00:05:43,540] would tell your younger self?
+- [00:05:43,540 - 00:05:44,860] Follow your passion.
+- [00:05:44,860 - 00:05:46,900] Your passion is always right.
+- [00:05:46,900 - 00:05:49,390] That will guide you more
+- [00:05:49,390 - 00:05:51,880] than school will, anybody's opinions will.
+- [00:05:51,880 - 00:05:53,300] If you can follow your gut,
+- [00:05:53,300 - 00:05:54,720] you don't have to follow anything else.
+- [00:05:54,720 - 00:05:56,540] What industry did you ultimately pursue a career in?
+- [00:05:56,540 - 00:05:57,540] So I actually pursued my career in marketing.
+- [00:05:57,540 - 00:05:58,040] I was in the marketing industry.
+- [00:05:58,040 - 00:06:00,080] I pursued a career in sport and exercise science.
+- [00:06:00,080 - 00:06:02,260] And now I'm a life alignment coach.
+- [00:06:02,260 - 00:06:04,850] So I kind of deal with everything
+- [00:06:04,850 - 00:06:07,440] from physical fitness to nutrition to life purpose.
+- [00:06:07,440 - 00:06:08,980] What's your best advice to any
+- [00:06:08,980 - 00:06:10,520] entrepreneur starting a business in today's world?
+- [00:06:10,520 - 00:06:11,600] You need to know more.
+- [00:06:11,600 - 00:06:13,310] You need to know that you know
+- [00:06:13,310 - 00:06:15,020] more about your business than anybody else does.
+- [00:06:15,020 - 00:06:16,940] Because people will try to tell you what
+- [00:06:16,940 - 00:06:18,860] they think you should do for your business, but
+- [00:06:18,860 - 00:06:20,760] you need to do what you know is best.
+- [00:06:20,760 - 00:06:21,840] Stack your knowledge.
+- [00:06:21,840 - 00:06:23,390] You can always learn more and
+- [00:06:23,390 - 00:06:24,940] you can always learn from other people.
+- [00:06:24,940 - 00:06:27,380] And I think that people don't understand that.
+- [00:06:27,380 - 00:06:29,460] You come to a point where help is okay.
+- [00:06:29,460 - 00:06:30,460] It's okay to ask for help.
+- [00:06:30,460 - 00:06:32,670] It took me a really long time to really
+- [00:06:32,670 - 00:06:34,880] understand that concept to where you learn from experience.
+- [00:06:34,880 - 00:06:36,460] And if you can't go out and get
+- [00:06:36,460 - 00:06:38,040] more experiences, then you're always going to plateau.
+- [00:06:38,040 - 00:06:39,040] What's going on guys?
+- [00:06:39,040 - 00:06:40,740] We are out here in Winter Park, Orlando.
+- [00:06:40,740 - 00:06:41,740] I'm here with Trey.
+- [00:06:41,740 - 00:06:43,640] He's a 17 year old beast already
+- [00:06:43,640 - 00:06:45,540] getting into the entrepreneurship game early on.
+- [00:06:45,540 - 00:06:47,099] And right now we're actually
+- [00:06:47,099 - 00:06:48,659] about to go interview his grandfather.
+- [00:06:48,659 - 00:06:49,829] Tell us a little bit about your grandfather,
+- [00:06:49,829 - 00:06:51,000] what we're going to talk to him about.
+- [00:06:51,000 - 00:06:53,090] So my grandfather's big in the commercial
+- [00:06:53,090 - 00:06:55,180] space for real estate in Winter Park.
+- [00:06:55,180 - 00:06:57,180] He owns a lot of a place called Park Ave.
+- [00:06:57,180 - 00:06:57,219] Which is a big, big place.
+- [00:06:57,380 - 00:06:58,940] It's a huge shopping district down here.
+- [00:06:58,940 - 00:07:00,750] There's a lot of commercial buildings that
+- [00:07:00,750 - 00:07:02,560] you'll see down later on Park Ave.
+- [00:07:02,560 - 00:07:03,859] I'm sure they'll show you all
+- [00:07:03,859 - 00:07:05,159] when they go around Winter Park.
+- [00:07:05,159 - 00:07:07,099] But he does just, he's big in real
+- [00:07:07,099 - 00:07:09,040] estate and he loves, you know, young kids starting
+- [00:07:09,040 - 00:07:10,960] businesses and that's where I am right now.
+- [00:07:10,960 - 00:07:13,320] In what industry did you ultimately pursue a career in?
+- [00:07:13,320 - 00:07:15,540] I didn't know what I wanted to do in college.
+- [00:07:15,540 - 00:07:17,470] I got my service obligation over with and
+- [00:07:17,470 - 00:07:19,400] then I went to the real estate business.
+- [00:07:19,400 - 00:07:21,830] It wasn't my dream, but it was a vehicle that
+- [00:07:21,830 - 00:07:24,260] I had and I liked the ability to deal with
+- [00:07:24,260 - 00:07:25,800] different people, different product.
+- [00:07:25,800 - 00:07:27,180] And I just grew it from there.
+- [00:07:27,180 - 00:07:29,270] Over a few mistakes, obviously, and
+- [00:07:29,270 - 00:07:31,360] just kept growing and meeting and growing.
+- [00:07:31,360 - 00:07:33,560] And here I am today, 50 years later, same business.
+- [00:07:33,560 - 00:07:34,560] Yeah.
+- [00:07:34,560 - 00:07:35,560] So you're a business owner?
+- [00:07:35,560 - 00:07:36,560] Yes.
+- [00:07:36,560 - 00:07:37,560] I own this building and I own the business.
+- [00:07:37,560 - 00:07:39,640] I manage 45,000 apartment units.
+- [00:07:39,640 - 00:07:41,030] What's the number one thing that you
+- [00:07:41,030 - 00:07:42,420] would tell someone who's pursuing starting out in
+- [00:07:42,420 - 00:07:43,680] real estate in today's world?
+- [00:07:43,680 - 00:07:45,520] You never spend what you don't
+- [00:07:45,520 - 00:07:47,360] have to get what you don't need.
+- [00:07:47,360 - 00:07:49,700] So you don't risk a lot of money.
+- [00:07:49,700 - 00:07:51,050] Take it a step at a
+- [00:07:51,050 - 00:07:52,400] time and you watch other people.
+- [00:07:52,400 - 00:07:54,080] Copy a successful person.
+- [00:07:54,080 - 00:07:55,700] What have they done to get where they are?
+- [00:07:55,700 - 00:07:56,980] And one of the rules is don't overthink.
+- [00:07:56,980 - 00:07:57,980] Don't over leverage.
+- [00:07:57,980 - 00:08:00,140] Don't get yourself backed up and then
+- [00:08:00,140 - 00:08:02,300] you can't make decisions if you have financial
+- [00:08:02,300 - 00:08:03,300] stress.
+- [00:08:03,300 - 00:08:04,300] You don't have to have a lot of money.
+- [00:08:04,300 - 00:08:05,300] Don't over leverage.
+- [00:08:05,300 - 00:08:06,300] Step at a time.
+- [00:08:06,300 - 00:08:07,300] Build a business.
+- [00:08:07,300 - 00:08:08,990] In 60 seconds, what is the blueprint
+- [00:08:08,990 - 00:08:10,680] to becoming a millionaire in today's world?
+- [00:08:10,680 - 00:08:12,600] Study successful people that are in the same
+- [00:08:12,600 - 00:08:14,520] market you're in or the same avenue you're
+- [00:08:14,520 - 00:08:17,260] in and learn what they do and try to
+- [00:08:17,260 - 00:08:20,000] emulate them and start in the bottom and work yourself
+- [00:08:20,000 - 00:08:21,980] up step by step by step.
+- [00:08:21,980 - 00:08:23,540] It's a two point game.
+- [00:08:23,540 - 00:08:24,880] No three pointers.
+- [00:08:24,880 - 00:08:26,000] Two point game.
+- [00:08:26,000 - 00:08:27,360] Once in a while you have a three pointer.
+- [00:08:27,360 - 00:08:28,880] There's no fast way to this.
+- [00:08:28,880 - 00:08:30,420] There is a few people but
+- [00:08:30,420 - 00:08:31,960] that's not the market there is today.
+- [00:08:31,960 - 00:08:32,960] What's going on guys?
+- [00:08:32,960 - 00:08:35,069] Yeah, we just wrapped up filming with a
+- [00:08:35,069 - 00:08:37,179] real estate mogul out here in Orlando, Florida.
+- [00:08:37,179 - 00:08:39,069] And actually when we were interviewing him
+- [00:08:39,069 - 00:08:40,960] at his office, there was a commercial real
+- [00:08:40,960 - 00:08:41,960] estate specialist.
+- [00:08:41,960 - 00:08:44,179] I think she may be a broker or an agent
+- [00:08:44,179 - 00:08:46,400] and we saw her in the office and she asked what
+- [00:08:46,400 - 00:08:48,320] we were kind of doing and what we were filming.
+- [00:08:48,320 - 00:08:49,620] She let us know about what she was doing.
+- [00:08:49,620 - 00:08:50,470] So she said, Hey, I want
+- [00:08:50,470 - 00:08:51,320] you guys to come to this location.
+- [00:08:51,320 - 00:08:52,320] We'll shoot an interview.
+- [00:08:52,320 - 00:08:53,320] She wants to give us some games.
+- [00:08:53,320 - 00:08:54,320] So let's go.
+- [00:08:54,320 - 00:08:56,400] What industry did you ultimately pursue a career in?
+- [00:08:56,400 - 00:08:57,400] Real estate.
+- [00:08:57,400 - 00:08:58,400] What are you doing exactly?
+- [00:08:58,400 - 00:09:00,090] So I was recently specializing in commercial
+- [00:09:00,090 - 00:09:01,780] real estate and investments, but now I have
+- [00:09:01,780 - 00:09:04,240] moved on to doing high end
+- [00:09:04,240 - 00:09:06,700] residential for entire subdivisions and golf communities.
+- [00:09:06,700 - 00:09:08,070] What has been the biggest deal that
+- [00:09:08,070 - 00:09:09,440] you've ever closed in real estate so far?
+- [00:09:09,440 - 00:09:10,700] 11 and a half million.
+- [00:09:10,700 - 00:09:12,850] This was through a client
+- [00:09:12,850 - 00:09:15,000] that I was working with consistently.
+- [00:09:15,000 - 00:09:17,440] He owned an asset portfolio which had hotels in it.
+- [00:09:17,440 - 00:09:19,200] So it was a country and in suites in Ocala.
+- [00:09:19,200 - 00:09:20,540] What has been the most amount of money
+- [00:09:20,540 - 00:09:21,880] that you ever made in a single year?
+- [00:09:21,880 - 00:09:23,100] After gross, I'm not sure.
+- [00:09:23,100 - 00:09:24,300] But I can tell you that there have been.
+- [00:09:24,300 - 00:09:25,300] I've made $75,000 a month.
+- [00:09:25,300 - 00:09:27,030] In your opinion, how can someone really
+- [00:09:27,030 - 00:09:28,760] break into the commercial real estate industry in
+- [00:09:28,760 - 00:09:29,760] today's world?
+- [00:09:29,760 - 00:09:32,169] So I own a commercial real estate leads team
+- [00:09:32,169 - 00:09:34,579] that I've had about 40 agents over the last
+- [00:09:34,579 - 00:09:35,620] two years or so.
+- [00:09:35,620 - 00:09:37,729] And I tell them because a lot of them
+- [00:09:37,729 - 00:09:39,839] are naturally new in the industry is that you
+- [00:09:39,839 - 00:09:42,339] can let people know that you're new, but don't
+- [00:09:42,339 - 00:09:44,839] be scared to either get back to that client
+- [00:09:44,839 - 00:09:46,560] when they ask questions that you don't know.
+- [00:09:46,560 - 00:09:48,810] And also use your resources, hire a mentor, get
+- [00:09:48,810 - 00:09:51,060] a coach for yourself to be able to make
+- [00:09:51,060 - 00:09:52,939] the movement through the process that you're going through.
+- [00:09:52,939 - 00:09:54,260] What has been your secret to sales?
+- [00:09:54,300 - 00:09:56,020] Throughout your career, providing high quality service
+- [00:09:56,020 - 00:09:57,740] to the clients because in the real
+- [00:09:57,740 - 00:09:59,060] estate industry, you don't have
+- [00:09:59,060 - 00:10:00,380] work if you don't have clients.
+- [00:10:00,380 - 00:10:01,580] And if you have clients,
+- [00:10:01,580 - 00:10:02,780] you need to service them effectively.
+- [00:10:02,780 - 00:10:04,420] So that way they're happy with the work,
+- [00:10:04,420 - 00:10:06,060] which is going to ultimately build a referral basis
+- [00:10:06,060 - 00:10:08,209] because you don't want to have to rely
+- [00:10:08,209 - 00:10:10,359] on having to stomp the pavement and having to
+- [00:10:10,359 - 00:10:12,299] be in front of people consistently because it's
+- [00:10:12,299 - 00:10:14,240] going to take away from the time that
+- [00:10:14,240 - 00:10:17,409] you need to be able to meet
+- [00:10:17,409 - 00:10:20,579] people that you are building relationships with.
+- [00:10:20,579 - 00:10:22,760] How many businesses in total have you ever owned before?
+- [00:10:22,760 - 00:10:23,760] Nine.
+- [00:10:23,760 - 00:10:24,920] What do you think are the best three
+- [00:10:24,920 - 00:10:26,080] industries that people should be looking to get into
+- [00:10:26,080 - 00:10:27,080] in 2023?
+- [00:10:27,080 - 00:10:28,080] I think AI is going to blow up.
+- [00:10:28,080 - 00:10:29,870] It's going to take a lot of market share
+- [00:10:29,870 - 00:10:31,660] from people's actual jobs and it's going to be
+- [00:10:31,660 - 00:10:33,520] able to support a lot of people's jobs.
+- [00:10:33,520 - 00:10:34,960] So I think AI is number one.
+- [00:10:34,960 - 00:10:36,590] Number two, I think being a creator,
+- [00:10:36,590 - 00:10:38,220] content creator, it's building a personal brand so
+- [00:10:38,220 - 00:10:40,480] you can monetize in so many different ways.
+- [00:10:40,480 - 00:10:42,720] And number three is always going to be real estate.
+- [00:10:42,720 - 00:10:43,720] It's always been here.
+- [00:10:43,720 - 00:10:45,320] It's going to stay here and it's going to
+- [00:10:45,320 - 00:10:46,920] continue to be one of the best and most lucrative
+- [00:10:46,920 - 00:10:47,920] things that you can do.
+- [00:10:47,920 - 00:10:49,420] What's your number one piece of advice
+- [00:10:49,420 - 00:10:50,920] to any content creator in today's world?
+- [00:10:50,920 - 00:10:51,920] Lose your ego.
+- [00:10:51,920 - 00:10:53,520] A lot of content creators start making money.
+- [00:10:53,520 - 00:10:55,340] They start being validated by the amount
+- [00:10:55,340 - 00:10:57,160] of people that are following them and they
+- [00:10:57,160 - 00:10:58,760] become egotistical.
+- [00:10:58,760 - 00:11:00,390] And one, the audience can feel that
+- [00:11:00,390 - 00:11:02,020] and they start kind of separating themselves.
+- [00:11:02,020 - 00:11:03,910] And two, like the problem is with that,
+- [00:11:03,910 - 00:11:05,800] you really don't think about your business because
+- [00:11:05,800 - 00:11:07,920] you're only thinking about yourself and your ego.
+- [00:11:07,920 - 00:11:09,860] And so you lose a lot of opportunities
+- [00:11:09,860 - 00:11:11,800] and you start getting lazy sometimes or you start
+- [00:11:11,800 - 00:11:14,319] thinking that you're above it or better than.
+- [00:11:14,319 - 00:11:15,669] And so I see a lot
+- [00:11:15,669 - 00:11:17,020] of people's demise happening from ego.
+- [00:11:17,020 - 00:11:18,410] What's your best advice to any creator kind
+- [00:11:18,410 - 00:11:19,800] of like seeking that they're trying to like
+- [00:11:19,800 - 00:11:21,180] monetize as a creator?
+- [00:11:21,180 - 00:11:22,600] The last one is brand deals.
+- [00:11:22,600 - 00:11:23,520] You think it's the first one.
+- [00:11:23,520 - 00:11:24,520] It's the last one.
+- [00:11:24,520 - 00:11:26,580] The first one is probably affiliate marketing
+- [00:11:26,580 - 00:11:28,640] because you can create great deals and from
+- [00:11:28,640 - 00:11:30,180] there get brand deals, right?
+- [00:11:30,180 - 00:11:32,059] The second one is creating your own
+- [00:11:32,059 - 00:11:33,939] stuff, creating your own course, creating your own
+- [00:11:33,939 - 00:11:36,259] offer, creating your own service, creating your
+- [00:11:36,259 - 00:11:38,579] own merch, but build something for yourself.
+- [00:11:38,579 - 00:11:40,339] You've done one of the hardest
+- [00:11:40,339 - 00:11:42,100] things there is in capturing attention.
+- [00:11:42,100 - 00:11:43,959] Now that you have attention, you've got
+- [00:11:43,959 - 00:11:45,819] to sell something that people want because they're
+- [00:11:45,819 - 00:11:47,360] following you for a reason, right?
+- [00:11:47,360 - 00:11:48,750] Whether it's because you're cool or whatever,
+- [00:11:48,750 - 00:11:50,140] then create merch, whether it's because you're
+- [00:11:50,140 - 00:11:51,830] solving problems, then create consulting
+- [00:11:51,830 - 00:11:53,520] or a service or a course.
+- [00:11:53,520 - 00:11:55,299] Like create something for yourself instead
+- [00:11:55,299 - 00:11:57,079] of just always focusing on like, hopefully
+- [00:11:57,079 - 00:11:59,019] I get a deal because you're going to be
+- [00:11:59,019 - 00:12:00,960] misrepresented and you're not going to be paid what you're
+- [00:12:00,960 - 00:12:02,640] worth if you're going for brand deals.
+- [00:12:02,640 - 00:12:04,960] How can someone really like leverage AI for their business?
+- [00:12:04,960 - 00:12:06,680] So right now there's so many different things
+- [00:12:06,680 - 00:12:08,400] happening with AI and it's just the beginning,
+- [00:12:08,400 - 00:12:09,400] right?
+- [00:12:09,400 - 00:12:10,400] Like ChatGPT was one thing.
+- [00:12:10,400 - 00:12:11,600] Now GPT-4 is another thing.
+- [00:12:11,600 - 00:12:13,110] Now you're seeing like automated
+- [00:12:13,110 - 00:12:14,620] like agents coming in through that.
+- [00:12:14,620 - 00:12:17,080] And so if you're in business, you can
+- [00:12:17,080 - 00:12:19,540] use AI to facilitate and systemize and make your
+- [00:12:19,540 - 00:12:20,540] job easier.
+- [00:12:20,540 - 00:12:22,180] Think of it as like an assistant, right?
+- [00:12:22,180 - 00:12:23,480] It can help you speed up.
+- [00:12:23,480 - 00:12:25,360] And make your stuff more efficient.
+- [00:12:25,360 - 00:12:28,120] And if you're in trying to create money from
+- [00:12:28,120 - 00:12:30,880] that, you can use AI to sell services by maximizing
+- [00:12:30,880 - 00:12:33,080] that with AI so you can simplify the time,
+- [00:12:33,080 - 00:12:35,280] the system and the effort and focus on getting
+- [00:12:35,280 - 00:12:36,280] more clients.
+- [00:12:36,280 - 00:12:37,280] Guys, that wraps up today's video.
+- [00:12:37,280 - 00:12:38,840] Make sure to leave a like and subscribe
+- [00:12:38,840 - 00:12:40,400] for tons of amazing content coming soon and click
+- [00:12:40,400 - 00:12:41,770] here to watch us going around Houston
+- [00:12:41,770 - 00:12:43,140] asking Houston millionaires how they became wealthy.
