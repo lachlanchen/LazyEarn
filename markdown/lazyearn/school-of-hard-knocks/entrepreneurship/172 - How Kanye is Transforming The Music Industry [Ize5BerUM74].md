@@ -1,0 +1,284 @@
+# Transcript
+
+Source: lazyearn/school-of-hard-knocks/entrepreneurship/172 - How Kanye is Transforming The Music Industry [Ize5BerUM74].mkv
+
+- [00:00:00,000 - 00:00:02,009] If you're not living under a rock, you
+- [00:00:02,009 - 00:00:04,019] probably know the man next to me, Kanye West.
+- [00:00:04,140 - 00:00:05,520] But as prolific as life as
+- [00:00:05,520 - 00:00:06,900] the man as Kanye West lives,
+- [00:00:07,140 - 00:00:09,240] I'm not here today to talk about his music,
+- [00:00:09,240 - 00:00:11,340] or his shoes, or anything going on in the media.
+- [00:00:11,540 - 00:00:14,070] What I'm going to talk about is the new device that
+- [00:00:14,070 - 00:00:16,600] Kanye West has released in his newest business venture, the Stem Player.
+- [00:00:16,800 - 00:00:18,960] Kanye and his new device, the Stem Player,
+- [00:00:18,960 - 00:00:21,120] could become a major disruptor in the music industry
+- [00:00:21,120 - 00:00:23,390] and really cause a lot of problems for a lot of the
+- [00:00:23,390 - 00:00:25,660] labels out there that hold a lot of the power in that industry.
+- [00:00:25,800 - 00:00:27,050] But before we get into how
+- [00:00:27,050 - 00:00:28,300] Kanye is disrupting the music industry,
+- [00:00:28,300 - 00:00:30,720] let's first talk about the device itself, the Stem Player.
+- [00:00:30,800 - 00:00:31,690] So if you haven't seen
+- [00:00:31,690 - 00:00:32,580] or heard of the Stem Player,
+- [00:00:32,740 - 00:00:34,910] essentially it's a circular device that can
+- [00:00:34,910 - 00:00:37,080] take a song that you upload to it,
+- [00:00:37,220 - 00:00:39,570] and it will break down its musical components so that you
+- [00:00:39,570 - 00:00:41,920] can manipulate the song to sound however you want it to.
+- [00:00:42,260 - 00:00:45,060] Essentially, it breaks it down into four key components,
+- [00:00:45,180 - 00:00:47,220] meaning the vocals, the bass, the
+- [00:00:47,220 - 00:00:49,260] drums, and any samples the song contains.
+- [00:00:49,540 - 00:00:51,510] It also adds special features to where you
+- [00:00:51,510 - 00:00:53,480] can make parts of a song faster, slower,
+- [00:00:53,840 - 00:00:56,200] or repeats different parts of a song in a loop.
+- [00:00:56,200 - 00:00:58,280] The concept of the device itself is revolutionary,
+- [00:00:58,300 - 00:01:01,400] because basically you can produce and manipulate your
+- [00:01:01,400 - 00:01:04,500] own remixes or even songs themselves from the device.
+- [00:01:04,500 - 00:01:06,800] So although this is a revolutionary tool for producers,
+- [00:01:06,800 - 00:01:09,100] how is this really shaking up the music industry?
+- [00:01:09,100 - 00:01:10,550] Well, for starters, after announcing
+- [00:01:10,550 - 00:01:12,000] the exclusivity of the device,
+- [00:01:12,000 - 00:01:14,900] Kanye sold three million dollars worth of Stem Players.
+- [00:01:14,900 - 00:01:16,660] This comes after an announcement saying that
+- [00:01:16,660 - 00:01:18,420] Kanye was only going to drop Donda 2
+- [00:01:18,759 - 00:01:21,000] specifically and exclusively on the Stem Player.
+- [00:01:21,000 - 00:01:22,430] Because of that announcement, this caused a
+- [00:01:22,430 - 00:01:23,860] ton of fans or people who are just
+- [00:01:24,140 - 00:01:25,530] fans of music in general to
+- [00:01:25,530 - 00:01:26,920] go out and buy the Stem Player,
+- [00:01:26,920 - 00:01:28,080] because they don't want to miss out on
+- [00:01:28,300 - 00:01:30,660] hearing this exclusive project that Kanye's dropping.
+- [00:01:30,660 - 00:01:32,709] Fans were even more serious to go and buy the
+- [00:01:32,709 - 00:01:34,759] Stem Player after hearing that Kanye West apparently turned down
+- [00:01:34,759 - 00:01:37,000] a 100 million dollar deal from Apple.
+- [00:01:37,000 - 00:01:38,600] All this hype built around this exclusive project
+- [00:01:38,600 - 00:01:40,200] that would be dropping on the Stem Player
+- [00:01:40,300 - 00:01:42,800] ultimately led to that three million dollar sales figure.
+- [00:01:42,800 - 00:01:44,050] To essentially put in perspective how
+- [00:01:44,050 - 00:01:45,300] brilliant of a move this was,
+- [00:01:45,460 - 00:01:48,160] to achieve three million dollars in streaming revenue,
+- [00:01:48,160 - 00:01:49,980] you would have had to have
+- [00:01:49,980 - 00:01:51,800] cumulated 500 million streams for this album.
+- [00:01:51,800 - 00:01:54,100] Even though these sales figures sound great for Kanye,
+- [00:01:54,179 - 00:01:55,589] why do the labels care
+- [00:01:55,589 - 00:01:57,000] about this? He's just one artist.
+- [00:01:57,000 - 00:01:58,300] Why does him taking
+- [00:01:58,300 - 00:02:00,250] his music off their platform and putting
+- [00:02:00,250 - 00:02:02,200] it on his own so important to them?
+- [00:02:02,200 - 00:02:03,840] And how is it disrupting the music industry?
+- [00:02:03,840 - 00:02:05,340] To see how this really shake things up,
+- [00:02:05,340 - 00:02:07,320] I'm going to break down what the
+- [00:02:07,320 - 00:02:09,300] traditional music streaming business model looks like.
+- [00:02:09,300 - 00:02:11,400] Essentially, artists make music for the label,
+- [00:02:11,560 - 00:02:14,300] then labels will lease out the music streaming platforms,
+- [00:02:14,540 - 00:02:16,370] and then the streaming platforms will
+- [00:02:16,370 - 00:02:18,200] give that music available to its users
+- [00:02:18,359 - 00:02:19,799] in exchange for money, which
+- [00:02:19,799 - 00:02:21,240] that money is then kicked back
+- [00:02:21,840 - 00:02:23,650] to the labels that is then
+- [00:02:23,650 - 00:02:25,460] hopefully would trickle down to the artists.
+- [00:02:25,460 - 00:02:26,800] Because in this model, the artists
+- [00:02:26,800 - 00:02:28,140] have to go through the label
+- [00:02:28,140 - 00:02:28,200] and the label itself to get the music
+- [00:02:28,200 - 00:02:28,260] they want. And that's why this is so important.
+- [00:02:28,300 - 00:02:30,030] And the streaming platforms just to
+- [00:02:30,030 - 00:02:31,760] deliver their product to the users,
+- [00:02:32,200 - 00:02:33,940] they're not going to get as much money in return,
+- [00:02:33,940 - 00:02:35,600] whether they had their own platform
+- [00:02:35,600 - 00:02:37,260] that they could release their music.
+- [00:02:37,360 - 00:02:39,150] This is completely different than what the
+- [00:02:39,150 - 00:02:40,940] stem player model is trying to accomplish.
+- [00:02:41,300 - 00:02:43,400] If we take Kanye, for example, as the artist,
+- [00:02:43,700 - 00:02:46,440] he owns the platform that he's distributing the music on.
+- [00:02:46,840 - 00:02:48,340] So essentially, he just uploads
+- [00:02:48,340 - 00:02:49,840] his music to his own platform,
+- [00:02:49,840 - 00:02:50,960] which is the stem player.
+- [00:02:51,200 - 00:02:54,070] And then the users of the platform already
+- [00:02:54,070 - 00:02:56,940] paid up front $200 for the stem player,
+- [00:02:57,100 - 00:02:58,140] and the money will get kicked back.
+- [00:02:58,140 - 00:02:59,810] And so the money will get kicked
+- [00:02:59,810 - 00:03:01,480] back directly to Kanye as the artist
+- [00:03:01,480 - 00:03:03,399] or anybody else involved in the company.
+- [00:03:03,399 - 00:03:04,889] No going through a streaming
+- [00:03:04,889 - 00:03:06,380] platform, no going through labels.
+- [00:03:06,380 - 00:03:07,809] All the money will get
+- [00:03:07,809 - 00:03:09,239] kicked back directly to the artist.
+- [00:03:09,239 - 00:03:11,119] Well, you may be thinking to yourself,
+- [00:03:11,119 - 00:03:13,000] great, Kanye has a better business model,
+- [00:03:13,000 - 00:03:14,190] but how is he going
+- [00:03:14,190 - 00:03:15,380] to be labels and streaming platforms
+- [00:03:15,380 - 00:03:16,979] that have been set up for the
+- [00:03:16,979 - 00:03:18,579] business with all these customers for years?
+- [00:03:18,579 - 00:03:20,389] Well, if you've been paying attention to
+- [00:03:20,389 - 00:03:22,200] anything going on in modern media culture,
+- [00:03:22,200 - 00:03:24,299] you can see that Kanye is a master marketer.
+- [00:03:24,299 - 00:03:26,139] His documentary is coming out at
+- [00:03:26,139 - 00:03:27,980] the same time as this exclusive album.
+- [00:03:27,980 - 00:03:30,540] Everybody that watches Netflix and those streaming platforms
+- [00:03:30,540 - 00:03:33,239] are already talking about him and noticing him
+- [00:03:33,239 - 00:03:36,040] because his documentary is out on the streaming platform.
+- [00:03:36,040 - 00:03:37,480] He also is always in the media,
+- [00:03:37,480 - 00:03:38,999] whether it's for something they're trying to
+- [00:03:38,999 - 00:03:40,519] portray him as being good or bad.
+- [00:03:40,519 - 00:03:41,869] But either way, him just being
+- [00:03:41,869 - 00:03:43,220] in the media for whatever story
+- [00:03:43,220 - 00:03:45,140] is just going to get the common people,
+- [00:03:45,140 - 00:03:46,489] whether they enjoy music or not,
+- [00:03:46,489 - 00:03:47,839] to know and hear his name.
+- [00:03:47,839 - 00:03:49,579] Plus, if you're a fan of Kanye,
+- [00:03:49,579 - 00:03:51,320] you're probably following him on social media.
+- [00:03:51,320 - 00:03:52,994] And if you follow his Instagram,
+- [00:03:52,994 - 00:03:53,494] 嘻
+- [00:03:53,538 - 00:03:55,178] clearly is someone that you have to keep up
+- [00:03:55,178 - 00:03:56,818] with if you want to see what he posts.
+- [00:03:57,178 - 00:03:59,938] He'll pretty much post a series of Instagram posts,
+- [00:04:00,058 - 00:04:02,198] and then we'll take them down after a few days.
+- [00:04:02,438 - 00:04:03,678] So if you're not constantly paying
+- [00:04:03,678 - 00:04:04,918] attention to what the guy's doing,
+- [00:04:05,238 - 00:04:06,598] you're going to miss what he's posting and
+- [00:04:06,598 - 00:04:07,958] keeping up to date with what he does.
+- [00:04:08,258 - 00:04:09,908] On top of all that, Kanye
+- [00:04:09,908 - 00:04:11,558] is really the only artist out there
+- [00:04:11,558 - 00:04:14,118] that is producing live updates of his
+- [00:04:14,118 - 00:04:16,678] album in person, in front of everybody.
+- [00:04:16,858 - 00:04:18,278] If you look over interviews over the years,
+- [00:04:18,358 - 00:04:19,478] you can see that Kanye is
+- [00:04:19,478 - 00:04:20,598] a big fan of Steve Jobs,
+- [00:04:20,598 - 00:04:22,867] and he kind of developed this concept that he
+- [00:04:22,867 - 00:04:25,137] learned from Steve Jobs as being the CEO of Apple,
+- [00:04:25,657 - 00:04:28,458] that the one reason that makes Apple so successful
+- [00:04:28,458 - 00:04:30,738] is they test their products in front of everybody.
+- [00:04:30,998 - 00:04:33,598] They want people to view and provide as much feedback
+- [00:04:33,598 - 00:04:36,088] and see a live demonstration of the
+- [00:04:36,088 - 00:04:38,578] products as they're making them and developing them.
+- [00:04:38,777 - 00:04:40,937] Kanye essentially took on that idea
+- [00:04:40,937 - 00:04:43,098] of producing things in front of everybody
+- [00:04:43,098 - 00:04:45,277] and getting live feedback when it comes to his albums.
+- [00:04:45,618 - 00:04:47,578] He's been doing it far earlier than people remember.
+- [00:04:47,578 - 00:04:49,078] He started the first listening
+- [00:04:49,078 - 00:04:50,578] party during the Life of Pablo
+- [00:04:50,578 - 00:04:51,838] era back in 2016.
+- [00:04:52,478 - 00:04:54,108] Basically, he wants to hear
+- [00:04:54,108 - 00:04:55,738] the way it sounds in stadium.
+- [00:04:55,898 - 00:04:57,718] He wants to see the expression and
+- [00:04:57,718 - 00:04:59,538] emotion on as many faces as possible.
+- [00:04:59,958 - 00:05:01,858] He wants to see the reaction on social media
+- [00:05:01,858 - 00:05:03,758] as he continues to make updates to
+- [00:05:03,758 - 00:05:05,658] the album until it's in its final form.
+- [00:05:06,038 - 00:05:07,368] If you look at the Life
+- [00:05:07,368 - 00:05:08,698] of Pablo, Kanye's album from 2016,
+- [00:05:09,258 - 00:05:10,958] he's not making any more changes to it.
+- [00:05:11,018 - 00:05:12,278] But back when that was dropped,
+- [00:05:12,598 - 00:05:13,928] so many different changes were made
+- [00:05:13,928 - 00:05:15,258] to it over and over again,
+- [00:05:15,258 - 00:05:16,758] even after he dropped it on Tidal,
+- [00:05:16,938 - 00:05:18,918] and then it was released on normal streaming platforms.
+- [00:05:19,238 - 00:05:20,518] He carried this process into,
+- [00:05:20,578 - 00:05:22,708] what was probably the most hyped
+- [00:05:22,708 - 00:05:24,838] up and anticipated album of 2021,
+- [00:05:25,018 - 00:05:25,918] which was Donda,
+- [00:05:26,138 - 00:05:28,368] with the several listening parties that
+- [00:05:28,368 - 00:05:30,598] he conducted in Atlanta and Chicago.
+- [00:05:30,718 - 00:05:32,578] Pretty much even at these listening parties,
+- [00:05:32,578 - 00:05:34,458] Kanye didn't even say a word into the mic.
+- [00:05:34,498 - 00:05:36,838] He just stood around in the stadium and
+- [00:05:36,838 - 00:05:39,178] let people listen to his album in its entirety.
+- [00:05:39,418 - 00:05:40,498] At the first listening party,
+- [00:05:40,498 - 00:05:42,238] the album wasn't even finished in time,
+- [00:05:42,438 - 00:05:45,158] but Kanye is just sitting there in the stadium listening,
+- [00:05:45,158 - 00:05:46,628] trying to get that feedback so he
+- [00:05:46,628 - 00:05:48,098] knows what to go and make changes to.
+- [00:05:48,678 - 00:05:50,578] Developing the same concept that Steve Jobs,
+- [00:05:50,578 - 00:05:51,778] applied to the tech at Apple.
+- [00:05:51,898 - 00:05:53,308] Because no artist is presenting their
+- [00:05:53,308 - 00:05:54,718] albums in this kind of form,
+- [00:05:54,718 - 00:05:56,128] where people are going to conjoin into
+- [00:05:56,128 - 00:05:57,538] a stadium and just spend their time
+- [00:05:57,538 - 00:05:58,808] listening to an artist's album
+- [00:05:58,808 - 00:06:00,078] that hasn't even released yet,
+- [00:06:00,338 - 00:06:02,388] it drums up so much hype and marketing
+- [00:06:02,388 - 00:06:04,438] around the album and for Kanye as an artist.
+- [00:06:04,558 - 00:06:06,358] That in addition to all the other factors,
+- [00:06:06,358 - 00:06:08,338] it's why Kanye's marketing plan is so
+- [00:06:08,338 - 00:06:10,318] genius and how he can drive $3 million
+- [00:06:10,318 - 00:06:13,378] worth of sales for his own platform.
+- [00:06:13,438 - 00:06:14,808] So is Kanye going to be
+- [00:06:14,808 - 00:06:16,178] the only artist with his own platform?
+- [00:06:16,378 - 00:06:17,118] Probably not.
+- [00:06:17,118 - 00:06:18,628] This is only the beginning of opening up
+- [00:06:18,628 - 00:06:20,138] Pandora's box when it comes to the album.
+- [00:06:20,578 - 00:06:21,957] It's only the beginning of the album
+- [00:06:21,957 - 00:06:23,337] when it comes to the exclusivity of music
+- [00:06:23,337 - 00:06:24,567] and artists retaining the rights
+- [00:06:24,567 - 00:06:25,798] for everything that they have.
+- [00:06:25,798 - 00:06:26,598] Time and time again,
+- [00:06:26,598 - 00:06:28,798] artists have just been screwed over by the music industry,
+- [00:06:28,798 - 00:06:30,718] not getting enough kickbacks and enough
+- [00:06:30,718 - 00:06:32,638] revenue from the music that they create.
+- [00:06:32,638 - 00:06:35,328] In addition to the development of NFTs and artists
+- [00:06:35,328 - 00:06:38,018] being able to sell their music as an exclusive asset,
+- [00:06:38,018 - 00:06:39,337] developing their own platform,
+- [00:06:39,337 - 00:06:41,078] Kanye is just the first to do so.
+- [00:06:41,078 - 00:06:42,178] Of course, if Kanye wanted to,
+- [00:06:42,178 - 00:06:44,007] he could drop other artists
+- [00:06:44,007 - 00:06:45,837] projects on the stem player platform,
+- [00:06:45,837 - 00:06:47,227] or other artists are going to
+- [00:06:47,227 - 00:06:48,617] go out and create their own.
+- [00:06:48,617 - 00:06:50,418] This would be no more label contracts.
+- [00:06:50,578 - 00:06:52,418] Artists would retain all the exclusive
+- [00:06:52,418 - 00:06:54,258] rights to everything that they produce,
+- [00:06:54,258 - 00:06:56,418] and they would receive all the money for it.
+- [00:06:56,418 - 00:06:58,298] Not to mention when you have your own platform,
+- [00:06:58,298 - 00:06:59,698] you get to choose what to do with it.
+- [00:06:59,698 - 00:07:01,338] You don't have to abide by
+- [00:07:01,338 - 00:07:02,978] any rules by a big tech company.
+- [00:07:02,978 - 00:07:04,698] In the case of Kanye's shoes,
+- [00:07:04,698 - 00:07:06,298] he's constantly updating,
+- [00:07:06,298 - 00:07:08,338] adding and dropping songs from the
+- [00:07:08,338 - 00:07:10,378] stem player platform day by day.
+- [00:07:10,378 - 00:07:12,658] So is this overall Kanye's goal for this?
+- [00:07:12,658 - 00:07:14,057] Well, I think it's part of it.
+- [00:07:14,057 - 00:07:16,298] He wants his exclusive rights for all his music,
+- [00:07:16,298 - 00:07:18,338] and he wants his own platform to be able to
+- [00:07:18,338 - 00:07:20,378] spread his voice and do what he wants with it.
+- [00:07:20,578 - 00:07:22,177] But I also think that there's
+- [00:07:22,177 - 00:07:23,777] another bigger thing at stake here.
+- [00:07:23,777 - 00:07:26,337] Apple offered him a $100 million deal,
+- [00:07:26,337 - 00:07:27,578] as so it says in the news.
+- [00:07:27,578 - 00:07:29,098] Well, Kanye turned that down.
+- [00:07:29,098 - 00:07:31,838] My thinking is Kanye wants to develop and
+- [00:07:31,838 - 00:07:34,578] produce as many albums for himself or other artists
+- [00:07:34,578 - 00:07:36,737] on his stem player platform to
+- [00:07:36,737 - 00:07:38,897] drive up sales for the stem player
+- [00:07:38,897 - 00:07:40,337] that would outpace the $100 million
+- [00:07:40,337 - 00:07:41,777] he would have made with Apple.
+- [00:07:41,777 - 00:07:42,978] Therefore saying,
+- [00:07:42,978 - 00:07:44,777] I don't really need the labels.
+- [00:07:44,777 - 00:07:46,777] I'm going to do what I want on my platform.
+- [00:07:46,777 - 00:07:49,178] So is this the best thing for the music industry?
+- [00:07:49,178 - 00:07:49,638] Are people really going to
+- [00:07:49,638 - 00:07:50,098] want to have to do this?
+- [00:07:50,098 - 00:07:51,638] Are people going to want to have to
+- [00:07:51,638 - 00:07:53,178] go get their music from all these different locations
+- [00:07:53,178 - 00:07:55,258] and platforms to listen to their favorite artists?
+- [00:07:55,258 - 00:07:56,498] Not necessarily,
+- [00:07:56,498 - 00:07:58,438] but as things are becoming more decentralized and
+- [00:07:58,438 - 00:08:00,378] artists are wanting to take their rights back
+- [00:08:00,378 - 00:08:02,378] for what they put out and produce,
+- [00:08:02,378 - 00:08:04,278] pretty much if you're a big fan of an
+- [00:08:04,278 - 00:08:06,178] artist and you really want to listen to their music,
+- [00:08:06,178 - 00:08:08,018] you're more than likely probably going to spend
+- [00:08:08,018 - 00:08:09,858] the money to be on their exclusive platform
+- [00:08:09,858 - 00:08:11,298] and hear what they have to say.
+- [00:08:11,298 - 00:08:13,718] What Kanye is doing with the stem player is only
+- [00:08:13,718 - 00:08:16,138] the first big step for decentralization in the music industry,
+- [00:08:16,138 - 00:08:18,098] and it's only going to affect all
+- [00:08:18,098 - 00:08:20,058] artists, labels, and streaming platforms to come.
+- [00:08:20,098 - 00:08:21,358] If you decided to watch the
+- [00:08:21,358 - 00:08:22,618] whole video, thanks so much for staying.
+- [00:08:22,618 - 00:08:24,438] If you enjoyed it, please comment
+- [00:08:24,438 - 00:08:26,258] down below your favorite Kanye West song
+- [00:08:26,258 - 00:08:27,698] and leave a subscribe on the channel.
+- [00:08:27,698 - 00:08:30,058] We've got great more business news,
+- [00:08:30,058 - 00:08:32,418] tech news, crypto news coming your way.
+- [00:08:32,418 - 00:08:34,418] And be sure to check out the School
+- [00:08:34,418 - 00:08:36,418] of Hard Knocks on TikTok, Instagram, and Facebook.
+- [00:08:36,418 - 00:08:37,410] Thank you.
