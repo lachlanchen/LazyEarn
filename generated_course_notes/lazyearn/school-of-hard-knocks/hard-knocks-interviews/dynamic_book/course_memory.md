@@ -2620,3 +2620,184 @@ All items below should be treated as transcript-backed editorial syntheses, not 
   - the effort ladder is rhetorical and qualitative, not empirical
   - no chapter should imply that any of this math was visually displayed on screen
 - Lecture 28 should be redistributed into operating discipline, competition, apprenticeship, accountability, and end-state chapters rather than left as a celebrity-athlete digest.
+
+## Lecture 29 integration: How I Turned $50,000 Into $20 Billion
+
+### New evidence
+- Lecture 29 adds the archive’s strongest current `single-product, high-repetition` restaurant case:
+  - Todd Graves states the business in its narrowest form: chicken fingers
+  - the menu is said to have remained essentially unchanged for 29 years
+  - scale reaches \(N>900\) locations
+  - reported personal ownership remains roughly \(s_{\text{Todd}} \approx 0.91\text{--}0.92\)
+  - this is one of the clearest cases yet where breadth is treated as dilution risk and focus is treated as the engine of scale
+
+- The lecture gives the manuscript one of its cleanest small-capital startup stacks:
+  - founder-raised equity \(E_0 \approx \$50{,}000\)
+  - SBA-backed loan \(L_0 \approx \$50{,}000\)
+  - first-store capital \(K_0 = E_0 + L_0 \approx \$100{,}000\)
+  - this is especially useful because it is not software, finance, or media; it is a capital-intensive physical business started with a modest and legible stack
+
+- The funding story adds a stronger `labor before finance` path than the book currently has in this exact form:
+  - local banks refuse
+  - founder self-funds through dangerous labor, including Alaska fishing
+  - public entrepreneurial infrastructure later helps close the gap
+  - this is a good counterweight to lectures where capital arrives later through exits, institutional access, or existing networks
+
+- Lecture 29 gives the archive one of its clearest underwriting/negotiation structures:
+  - low / medium / high forecast cases
+  - low case tied to break-even
+  - medium case tied to ordinary profitability
+  - high case tied to faster lender repayment
+  - this is one of the best current transcript-native examples of `numbers as conviction` rather than charisma
+
+- The lecture materially strengthens the book’s `debt as fragility under shock` theme:
+  - Graves says he overleveraged the business while growing
+  - Katrina then knocks out between \(21\) and \(28\) restaurants
+  - debt still has to be paid
+  - later doctrine becomes: do not overleverage; grow with more equity
+  - this is a particularly clean operating-business complement to lecture 21’s anti-debt resilience doctrine, because here the lesson comes from restaurant shutdowns rather than Ramsey-style philosophy
+
+- The lecture adds one of the archive’s clearest `product craveability` statements:
+  - in restaurants, the product must be something people think about and want often
+  - mediocre product cannot carry the machine
+  - this strengthens the manuscript’s existing product-first lanes by giving a frequency-of-desire version rather than only a better-solution or better-brand version
+
+- Graves provides one of the strongest current anti-diversification lines in the corpus:
+  - trying to be all things to all people satisfies nobody
+  - this should be treated as a major counterweight to market advice that equates adding options with reducing risk
+
+- Lecture 29 gives the book its clearest restaurant-margin heuristic so far:
+  - net margin is described as roughly \(\mu \in [0.05,0.10]\) on the dollar when doing very well
+  - profit is therefore naturally written as \(\Pi = \mu R\)
+  - the implication is explicit: large top-line sales are necessary because per-dollar retention is small
+  - this is one of the strongest transcript-native `volume matters because margin is thin` cases now in the manuscript
+
+- The lecture adds a useful founder-control case after major scale:
+  - a huge restaurant chain is still described as overwhelmingly founder-controlled
+  - this gives the book a new route where scale does not automatically imply dilution, public-market handoff, or investor domination
+
+- Lecture 29 strengthens the archive’s `competition as fuel` theme:
+  - competition is welcomed rather than feared
+  - rivals are treated as a reason to sharpen effort, service, and care for the crew
+  - this belongs beside Dana White’s repeated-proof severity and the archive’s anti-comfort material
+
+- The lecture adds a clear `progress over perfection` operating rule from a mentor:
+  - do not delay release because version one is not perfect
+  - the training-manual example gives the book a clean non-software versioning case
+  - this is one of the better current bridges between operating process and growth speed
+
+- Graves contributes a distinct `service after wealth` voice:
+  - people are not here to serve us; we are here to serve them
+  - scale is tied to greater ability to help people later
+  - this is a useful new variant inside the manuscript’s growing end-state chapter, distinct from freedom, winning, or pure family legacy language
+
+- The closing table-side coda matters structurally:
+  - the interview formally ends on values
+  - then returns to the meal, the unchanged menu, the sauce process, and the margin math
+  - this gives the archive another strong example of the series using glamour or rhetoric first, then coming back down to operating arithmetic
+
+### Conservative restructure plan
+- Deepen Chapter 6, **Customer Need, Buyer-Side Value, and Product Redesign**, with a `Craveability Beats Variety` subsection:
+  - one product done exceptionally well
+  - repetition of demand rather than broad menu coverage
+  - anti-diversification as operating discipline rather than dogma
+
+- Deepen Chapter 8, **Scale, Time, and the Ten-Year Game**, with a `One Unit Repeated` subsection:
+  - \(1 \to 10 \to 100 \to 900+\)
+  - scale through replication of a narrow strong unit
+  - this should sit near other scale transitions rather than being left as a food-business curiosity
+
+- Deepen Chapter 11, **Leverage, Capital Plumbing, Bank Trust, and the Shell Around the Machine**, with two short additions:
+  - `Bootstrap-to-SBA Capital Stack`
+  - `Debt Shock in a Physical Operating Business`
+  - lecture 29 now gives this chapter a clean pair: modest startup debt can be useful, but growth overleverage becomes dangerous under external shock
+
+- Deepen Chapter 12, **Boring Businesses, Bottlenecks, and Infrastructure Wealth**, with a `Plain-Demand Consumer Machine` subsection:
+  - this is not glamorous technology
+  - it is repetitive, operational, consumer-facing, and highly scalable
+  - the lecture helps broaden the chapter beyond industrial utility into plain everyday demand
+
+- Deepen Chapter 15, **Control, Speed, and Ownership of the Chain**, with a `Menu Simplicity and Quality Control` subsection:
+  - stable menu
+  - quality and service over line extension
+  - control of the core offer as a way to protect the operating chain
+
+- Deepen Chapter 18, **Competition, Comfort, and Repeated Proof**, with Graves’s `Competition Sharpens the Machine` lane:
+  - pair it with Dana White and the archive’s anti-comfort logic rather than treating it as generic bravado
+
+- Deepen Chapter 20, **What Money Is For**, with a short `Service Through Scale` subsection:
+  - purpose after wealth
+  - leadership as service
+  - scale as enlarged ability to help rather than as score alone
+
+- Add reusable `Question & Answer` blocks to the manuscript system:
+  - `How do you start a capital-intensive business when banks say no?`
+  - `Why does a narrow menu sometimes scale better than a broad one?`
+  - `What does overleverage actually look like when a shock hits?`
+  - `What matters more in a growing business: perfection or progress?`
+
+### New tensions or contradictions
+- Lecture 29 sharpens the manuscript’s live debt contradiction:
+  - modest debt plus founder equity can launch the first unit
+  - later debt-heavy growth can become fragility
+  - the book should preserve this as a sequencing problem rather than a fake pro-debt or anti-debt universal rule
+
+- It strengthens the product-versus-breadth tension in a new sector:
+  - earlier lectures often debated product versus distribution
+  - lecture 29 adds a distinct tension inside product itself: narrow depth versus broad variety
+  - the book should keep this separate from the distribution debate
+
+- The lecture adds a new unit-economics contrast inside the corpus:
+  - some routes in the archive rely on high-margin services, rights, finance, or exits
+  - Graves gives a low-margin, high-volume operating machine
+  - this is useful because it prevents the book from implying that all large fortunes require fat per-unit margins
+
+- It sharpens an existing contradiction between public simplicity and operational difficulty:
+  - the business sounds simple from the outside
+  - the lecture shows financing difficulty, leverage risk, quality control, staffing, and thin margins underneath
+  - this belongs beside the archive’s other `visible symbol versus hidden mechanism` cases
+
+- Graves also adds a useful tension between perfectionism and execution:
+  - the archive often praises discipline and high standards
+  - lecture 29 says high standards can become a brake if they delay release and iteration
+  - this should remain visible as a real operating tradeoff
+
+### Frame or diagram opportunities
+- No frame-backed additions should enter the course memory; lecture 29 still contributes no validated visual evidence.
+
+- Strong transcript-derived diagram or table candidates now justified by lecture 29:
+  - `bank rejection -> labor income -> founder equity -> SBA loan -> first store` funding funnel
+  - `low / medium / high` bank-negotiation forecast sketch
+  - `overleverage -> Katrina shutdowns -> fixed debt service -> equity-heavier growth` shock diagram
+  - `one craveable product -> repeatable execution -> 1/10/100/900+` scale diagram
+  - `thin margin / large revenue` restaurant arithmetic table
+
+### Next rewrite implications
+- Add lecture 29 to the processed lecture evidence index with explicit anchors:
+  - Todd Graves and Raising Cane’s
+  - founder date around 1996
+  - reported \(W > \$20\,\text{billion}\)
+  - reported \(Y_{\max} \approx \$400\,\text{million}\)
+  - \(E_0 \approx \$50{,}000\), \(L_0 \approx \$50{,}000\), \(K_0 \approx \$100{,}000\)
+  - low / medium / high forecast doctrine with low near break-even
+  - Katrina shutting down \(21\) to \(28\) restaurants
+  - shift from overleverage to equity-heavier growth
+  - \(N>900\) locations
+  - \(s_{\text{Todd}} \approx 0.91\text{--}0.92\)
+  - \(\mu \in [0.05,0.10]\) and \(\Pi=\mu R\)
+  - stable menu and anti-diversification doctrine
+  - progress-over-perfection mentor advice
+  - service-oriented purpose and leadership
+
+- The next rewrite should explicitly compare lecture 29 against at least three already-live tensions:
+  - Graves versus Ramsey on debt: startup borrowing can be useful, but growth overleverage can still become a near-fatal mistake
+  - Graves versus Binghatti / Gary / Todd Johnson / Repole on product, breadth, and discoverability: lecture 29 is one of the strongest `narrow product, repeated demand` counterweights in the archive
+  - Graves versus lecture 22 / lecture 27 founder-control cases: this is a rare example of very large scale with overwhelming founder control still retained
+
+- The next rewrite should keep several cautions explicit:
+  - no screenshot evidence exists for this lecture
+  - the Alaska place names and some small-business institutional names are transcript-noisy
+  - the host’s long mid-video promotional block should remain bracketed as interruption rather than folded into Graves’s doctrine
+  - the margin range should remain a heuristic operating claim, not audited disclosure
+
+- Lecture 29 should be redistributed into product, scale, leverage, founder control, operating-discipline, and end-state chapters rather than left as a standalone fast-food success digest.
