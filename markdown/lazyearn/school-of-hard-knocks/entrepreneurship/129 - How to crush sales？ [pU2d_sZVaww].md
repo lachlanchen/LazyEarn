@@ -1,0 +1,33 @@
+# Transcript
+
+Source: lazyearn/school-of-hard-knocks/entrepreneurship/129 - How to crush sales？ [pU2d_sZVaww].webm
+
+- [00:00:00,000 - 00:00:02,000] How could someone crush sales in 2022?
+- [00:00:02,320 - 00:00:03,980] My biggest advice to most salesmen
+- [00:00:03,980 - 00:00:05,790] is no one likes to be
+- [00:00:05,790 - 00:00:07,600] sold to, but everybody likes to buy.
+- [00:00:07,900 - 00:00:09,030] So what you do is you
+- [00:00:09,030 - 00:00:10,160] put something in front of them
+- [00:00:10,160 - 00:00:12,200] and I call it solution selling.
+- [00:00:12,320 - 00:00:13,380] There's lots of names for it.
+- [00:00:13,760 - 00:00:15,480] I sell by asking questions,
+- [00:00:15,740 - 00:00:18,460] understanding first what the real true need is,
+- [00:00:18,520 - 00:00:19,880] and then see if I
+- [00:00:19,880 - 00:00:21,240] can help them solve that need.
+- [00:00:21,540 - 00:00:22,720] I don't come in and say,
+- [00:00:22,860 - 00:00:25,200] a lot of young salespeople come in and say,
+- [00:00:25,580 - 00:00:26,520] hey, let me do a demo.
+- [00:00:26,680 - 00:00:27,640] Let me show you everything I got.
+- [00:00:27,720 - 00:00:29,140] And when you see something, stop me.
+- [00:00:29,140 - 00:00:30,420] And that's just the wrong way to sell.
+- [00:00:30,500 - 00:00:31,900] That's like throwing shit against the wall
+- [00:00:31,900 - 00:00:32,680] and seeing what sticks.
+- [00:00:32,860 - 00:00:34,640] What I'm saying is slow down,
+- [00:00:34,760 - 00:00:36,020] do a lot of homework on your client
+- [00:00:36,020 - 00:00:37,260] before you ever show up,
+- [00:00:37,300 - 00:00:38,240] because nobody does that,
+- [00:00:38,640 - 00:00:40,060] understand their pain points,
+- [00:00:40,120 - 00:00:41,460] and make sure you're talking to them
+- [00:00:41,460 - 00:00:43,920] about those pain points and mutually solve a problem
+- [00:00:43,920 - 00:00:45,700] as opposed to trying to sell them
+- [00:00:45,700 - 00:00:46,960] something like off the back of a truck.
