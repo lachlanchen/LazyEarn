@@ -1,0 +1,325 @@
+# Transcript
+
+Source: lazyearn/school-of-hard-knocks/hard-knocks-interviews/063 - Asking Houston Moguls How They Got Rich! [HEgFl6N2u4M].webm
+
+- [00:00:00,000 - 00:00:03,280] Alright
+- [00:00:03,280 - 00:00:03,960] Hey
+- [00:00:03,970 - 00:00:04,470] 謝謝
+- [00:00:04,514 - 00:00:05,514] Question for you, man.
+- [00:00:05,514 - 00:00:06,514] Is this your Lamborghini?
+- [00:00:06,514 - 00:00:07,514] Yeah, yeah.
+- [00:00:07,514 - 00:00:08,514] Thank you.
+- [00:00:08,514 - 00:00:09,514] Is this your Lamborghini?
+- [00:00:09,514 - 00:00:10,514] It is.
+- [00:00:10,514 - 00:00:11,514] Could I interview you real quick?
+- [00:00:11,514 - 00:00:12,514] I have a channel with 7 million followers.
+- [00:00:12,514 - 00:00:13,514] I interview business owners all over the country.
+- [00:00:13,514 - 00:00:14,764] I guess, what do you do
+- [00:00:14,764 - 00:00:16,014] for living out here in Houston?
+- [00:00:16,014 - 00:00:17,754] So I have a digital marketing company.
+- [00:00:17,754 - 00:00:19,514] How long have you been a business owner for?
+- [00:00:19,514 - 00:00:20,514] 12 years.
+- [00:00:20,514 - 00:00:22,014] What was the most amount of money
+- [00:00:22,014 - 00:00:23,514] that you ever made in a single year?
+- [00:00:23,514 - 00:00:24,514] Probably $4.3 million.
+- [00:00:24,514 - 00:00:26,514] Have you ever been broke before?
+- [00:00:26,514 - 00:00:28,514] Oh yeah, we donated plasma for gas money.
+- [00:00:28,514 - 00:00:30,014] I probably could have gone broke probably
+- [00:00:30,014 - 00:00:31,514] four times in the last 30 years.
+- [00:00:31,514 - 00:00:32,514] You just got to keep finding a way.
+- [00:00:32,514 - 00:00:34,014] What was the most amount of money
+- [00:00:34,014 - 00:00:35,514] that you've ever made in a single year?
+- [00:00:35,514 - 00:00:36,514] $1.7 million.
+- [00:00:36,514 - 00:00:37,514] $16 million.
+- [00:00:37,514 - 00:00:38,514] A lot.
+- [00:00:38,514 - 00:00:39,514] How old are you now?
+- [00:00:39,514 - 00:00:40,514] I'm 51.
+- [00:00:40,514 - 00:00:42,514] How old were you when you became a billionaire?
+- [00:00:42,514 - 00:00:43,514] Um.
+- [00:00:43,514 - 00:00:46,514] So since Houston, Texas is home
+- [00:00:46,514 - 00:00:49,514] to nearly 100,000 millionaires and 18 billionaires,
+- [00:00:49,514 - 00:00:51,394] we're back out in Houston to go
+- [00:00:51,394 - 00:00:53,274] find these millionaires and billionaires to figure out
+- [00:00:53,274 - 00:00:55,394] how they created their wealth in this city
+- [00:00:55,394 - 00:00:57,514] and how you can become financially free in
+- [00:00:58,514 - 00:01:00,014] So with that being said, let's
+- [00:01:00,014 - 00:01:01,514] get this video on the way.
+- [00:01:01,514 - 00:01:02,514] Okay.
+- [00:01:02,514 - 00:01:03,514] Excuse me, sir.
+- [00:01:03,514 - 00:01:04,513] Question for you.
+- [00:01:04,513 - 00:01:05,513] Have you ever been broke before?
+- [00:01:05,513 - 00:01:06,514] No.
+- [00:01:06,514 - 00:01:07,514] Well, when I was a kid, but not now.
+- [00:01:07,514 - 00:01:08,014] What do you do for a
+- [00:01:08,014 - 00:01:08,514] living out here in Houston, Texas?
+- [00:01:08,514 - 00:01:09,514] I'm a chiropractor.
+- [00:01:09,514 - 00:01:10,514] How long have you been in medicine for?
+- [00:01:10,514 - 00:01:11,514] 30 years.
+- [00:01:11,514 - 00:01:12,514] What's the biggest risk you took throughout your career?
+- [00:01:12,514 - 00:01:13,514] Opening my own business.
+- [00:01:13,514 - 00:01:14,514] How long have you been an entrepreneur for?
+- [00:01:16,514 - 00:01:17,514] 18 years.
+- [00:01:17,514 - 00:01:18,014] What's been the biggest challenge
+- [00:01:18,014 - 00:01:18,514] that you face as an entrepreneur?
+- [00:01:18,514 - 00:01:19,514] Insurance companies.
+- [00:01:19,514 - 00:01:20,514] Few people know this.
+- [00:01:20,514 - 00:01:22,014] 2010, when Obama signed the ACA, the
+- [00:01:22,014 - 00:01:23,514] stock price of UnitedHealthcare was $33 a share.
+- [00:01:23,514 - 00:01:26,514] I'll give you one guess what it is today.
+- [00:01:33,514 - 00:01:34,514] That's $213 a share.
+- [00:01:34,514 - 00:01:36,824] So over my career, the insurance
+- [00:01:36,824 - 00:01:39,134] industry has consolidated from 20-something different
+- [00:01:39,134 - 00:01:40,834] HMOs, PPOs, down to five.
+- [00:01:40,834 - 00:01:42,834] But all five of those are now Fortune 100 companies.
+- [00:01:42,834 - 00:01:43,834] You can't get rid of them.
+- [00:01:43,834 - 00:01:46,274] Blue Cross is not publicly traded.
+- [00:01:46,274 - 00:01:47,574] The other four are.
+- [00:01:47,574 - 00:01:49,754] Those four CEOs make $100 million a year.
+- [00:01:49,754 - 00:01:51,234] That's the problem with healthcare, not
+- [00:01:51,234 - 00:01:52,714] doctors, because we don't make the money.
+- [00:01:52,714 - 00:01:53,954] What was the most amount of money
+- [00:01:53,954 - 00:01:55,194] that you ever made in a single year?
+- [00:01:55,194 - 00:01:56,194] $1.7 million.
+- [00:01:56,194 - 00:01:57,674] How did you scale that out to a seven-figure company?
+- [00:01:57,674 - 00:01:59,144] A lot of entrepreneurs, they'll have
+- [00:01:59,144 - 00:02:00,614] a great idea, they'll start that business.
+- [00:02:00,614 - 00:02:01,614] They really struggle to scale.
+- [00:02:01,614 - 00:02:03,174] what took you from making six to seven
+- [00:02:03,174 - 00:02:04,734] figures at your business? Well the key to
+- [00:02:04,734 - 00:02:06,833] any business is if you give people what
+- [00:02:06,833 - 00:02:08,933] they want or need and this is not my
+- [00:02:08,933 - 00:02:11,123] quote, give people what they want or
+- [00:02:11,123 - 00:02:13,313] need you'll become successful. If you solve
+- [00:02:13,313 - 00:02:17,834] people's problems you'll become wealthy.
+- [00:02:17,834 - 00:02:20,004] So we just walked up on a
+- [00:02:20,004 - 00:02:22,174] multi-millionaire chiropractor out here in Houston Texas
+- [00:02:22,174 - 00:02:23,773] and he just dropped some straight games
+- [00:02:23,773 - 00:02:25,373] for you guys. That was a fascinating
+- [00:02:25,373 - 00:02:27,103] interview right there but what did he
+- [00:02:27,103 - 00:02:28,834] say? If you solve people's wants and needs
+- [00:02:28,834 - 00:02:30,394] you become rich but if you
+- [00:02:30,394 - 00:02:31,954] solve people's problems then you become
+- [00:02:31,954 - 00:02:33,364] wealthy. Great interview out here in
+- [00:02:33,364 - 00:02:34,774] Houston you guys. Let's keep it rolling
+- [00:02:34,774 - 00:02:37,984] go get this next one come on.
+- [00:02:37,984 - 00:02:41,194] Question for you man. Is this your Lamborghini?
+- [00:02:41,194 - 00:02:43,503] Yeah. Is this your Lamborghini? It is. Could I
+- [00:02:43,503 - 00:02:45,813] interview you real quick? I have a channel with
+- [00:02:45,813 - 00:02:47,193] seven million followers. I interview business
+- [00:02:47,193 - 00:02:48,574] owners all over the country. I
+- [00:02:48,574 - 00:02:50,314] guess what do you do for living out
+- [00:02:50,314 - 00:02:52,054] here in Houston? So I have a digital
+- [00:02:52,054 - 00:02:53,854] marketing company. How long have you been
+- [00:02:53,854 - 00:02:55,654] a business owner for? Twelve years. What
+- [00:02:55,654 - 00:02:56,974] was the most amount of money that
+- [00:02:56,974 - 00:02:58,294] you ever made in a single year? Probably
+- [00:02:58,294 - 00:02:58,813] 4.3 million.
+- [00:02:58,814 - 00:03:01,094] Do you come from a lot of money?
+- [00:03:01,094 - 00:03:03,374] No actually no. My mom is a Trinidadian
+- [00:03:03,374 - 00:03:05,834] woman. My dad's American. I wouldn't say it
+- [00:03:05,834 - 00:03:08,294] was poverty but it was tough but then
+- [00:03:08,294 - 00:03:10,184] you know we always put God first and
+- [00:03:10,184 - 00:03:12,074] you know with God everything is possible. How
+- [00:03:12,074 - 00:03:13,354] important has that faith been for you
+- [00:03:13,354 - 00:03:14,634] in the success of your business? Everything.
+- [00:03:14,634 - 00:03:16,254] Faith is everything to me. God is
+- [00:03:16,254 - 00:03:17,874] everything and I do believe when you
+- [00:03:17,874 - 00:03:20,314] don't have faith you lose excitement, you
+- [00:03:20,314 - 00:03:22,754] lose motivation, you lose passion and you
+- [00:03:22,754 - 00:03:24,014] don't really have much of anything. God
+- [00:03:24,014 - 00:03:25,274] can turn anything around in your life.
+- [00:03:25,274 - 00:03:27,024] Without faith you're dead in the water. Faith
+- [00:03:27,024 - 00:03:28,774] without works is dead so you have to
+- [00:03:28,774 - 00:03:30,304] have faith and you have to work
+- [00:03:30,304 - 00:03:31,834] and together you have success. What was that
+- [00:03:31,834 - 00:03:33,244] turning point to financial freedom for
+- [00:03:33,244 - 00:03:34,654] yourself? I believe it's when I graduated
+- [00:03:34,654 - 00:03:36,194] from college. I went to Howard University.
+- [00:03:36,194 - 00:03:37,734] I have a dual degree in business and
+- [00:03:37,734 - 00:03:40,094] communications. I think graduating with $150,000
+- [00:03:40,094 - 00:03:42,454] in student loans was crazy. Are
+- [00:03:42,454 - 00:03:44,224] you a buyer or a seller? I'm a licensed
+- [00:03:44,224 - 00:03:45,994] realtor in Florida and I will say this a
+- [00:03:45,994 - 00:03:48,304] lot of people think just oh don't rent.
+- [00:03:48,304 - 00:03:50,614] No you actually can rent where you live
+- [00:03:50,614 - 00:03:52,754] and you can rent what you own. So
+- [00:03:52,754 - 00:03:54,894] there's a different philosophy that I have when
+- [00:03:54,894 - 00:03:56,564] it comes down to building equity
+- [00:03:56,564 - 00:03:58,234] in real estate. It's building equity period
+- [00:03:58,234 - 00:04:00,064] because you have to make sure it's
+- [00:04:00,064 - 00:04:01,894] a cash flow, it's a good investment and
+- [00:04:01,894 - 00:04:03,814] there's so many other cash flow
+- [00:04:03,814 - 00:04:05,734] businesses that you shouldn't buy the
+- [00:04:05,734 - 00:04:07,413] building just rent it off. It'll be a
+- [00:04:07,413 - 00:04:09,093] tax write-off. So I've been able to learn a
+- [00:04:09,093 - 00:04:11,073] lot in business over the years and
+- [00:04:11,073 - 00:04:13,054] now I have my own philosophies through
+- [00:04:13,054 - 00:04:14,764] experience that actually work. You know
+- [00:04:14,764 - 00:04:16,474] they don't teach that in school right?
+- [00:04:16,474 - 00:04:17,764] They don't teach it in school so we got
+- [00:04:17,764 - 00:04:19,053] to talk more. What did you do to stand out
+- [00:04:19,053 - 00:04:20,733] against 99% of other people? I have
+- [00:04:20,733 - 00:04:22,413] a personal brand and I tell everyone I
+- [00:04:22,413 - 00:04:24,093] know I don't care what your occupation
+- [00:04:24,093 - 00:04:25,774] is you need to have a personal brand.
+- [00:04:28,234 - 00:04:29,824] People buy into you then they buy
+- [00:04:29,824 - 00:04:31,414] into whatever you sell. So regardless of
+- [00:04:31,414 - 00:04:33,214] whatever your network is called I'm gonna
+- [00:04:33,214 - 00:04:35,014] get to know you, we're gonna connect and
+- [00:04:35,014 - 00:04:36,874] then whatever else that you have I'll
+- [00:04:36,874 - 00:04:38,734] support that but I'm buying it to you
+- [00:04:38,734 - 00:04:40,624] first. So that's number one. Number two you
+- [00:04:40,624 - 00:04:42,514] cannot give up even if you don't get
+- [00:04:42,514 - 00:04:43,834] the ratings, you don't get the support
+- [00:04:43,834 - 00:04:45,154] you need, you got to keep on going
+- [00:04:45,154 - 00:04:46,654] because you never know in that
+- [00:04:46,654 - 00:04:48,154] one moment where someone will see what
+- [00:04:48,154 - 00:04:49,474] you're doing and it just has
+- [00:04:49,474 - 00:04:50,794] a breakthrough. People buy from people that
+- [00:04:50,794 - 00:04:52,474] they like. They do. You got amazing advice.
+- [00:04:52,474 - 00:04:54,154] Thank you. Thank you so much for your time.
+- [00:04:54,154 - 00:04:56,074] I really appreciate that. You're amazing. God bless.
+- [00:04:56,074 - 00:04:57,994] That was an amazing interview guys. She made
+- [00:04:58,234 - 00:04:59,734] four million dollars in a single
+- [00:04:59,734 - 00:05:01,234] year through digital marketing. We're headed
+- [00:05:01,234 - 00:05:02,494] to go get our next interview out in
+- [00:05:02,494 - 00:05:03,754] Houston but I want to talk a quick
+- [00:05:03,754 - 00:05:05,764] moment about what she just said. The
+- [00:05:05,764 - 00:05:07,774] way she stood out in business against 99%
+- [00:05:07,774 - 00:05:09,424] of people was building a personal brand
+- [00:05:09,424 - 00:05:11,074] and one thing that comes up time and
+- [00:05:11,074 - 00:05:12,394] time again when I interview the
+- [00:05:12,394 - 00:05:13,714] most successful people is the importance of
+- [00:05:13,714 - 00:05:15,544] building your brand in all aspects
+- [00:05:15,544 - 00:05:17,374] especially in an online presence. One of
+- [00:05:17,374 - 00:05:18,964] the most important components of this is
+- [00:05:18,964 - 00:05:20,554] securing a domain name for your business.
+- [00:05:20,554 - 00:05:22,624] Let's be real guys, finding a good
+- [00:05:22,624 - 00:05:24,694] .com domain these days is tough and that's
+- [00:05:24,694 - 00:05:27,874] why I recommend using a .online domain. Unlike .com,
+- [00:05:28,234 - 00:05:30,544] .online has a huge inventory of available names so
+- [00:05:30,544 - 00:05:32,854] you're much more likely to get the domain that
+- [00:05:32,854 - 00:05:35,074] you want. Whether you're launching a business
+- [00:05:35,074 - 00:05:37,294] or offering services or even freelancing, .online
+- [00:05:37,294 - 00:05:40,474] works for any industry and since the word online
+- [00:05:40,474 - 00:05:43,654] is searched over 500 million times a month globally,
+- [00:05:43,654 - 00:05:46,054] you're instantly tapping into a massive audience. And
+- [00:05:46,054 - 00:05:48,454] here's the thing guys, right now there's a
+- [00:05:48,454 - 00:05:51,244] special offer where you can get a .online domain for
+- [00:05:51,244 - 00:05:54,034] just 99 cents for the first year. So if you're
+- [00:05:54,034 - 00:05:56,104] serious about taking your business to the next
+- [00:05:56,104 - 00:05:58,174] level, securing the right domain is key. So
+- [00:05:58,234 - 00:06:02,194] use code SOHK to get your .online domain for
+- [00:06:02,194 - 00:06:06,154] just 99 cents for the first year at www.get.online
+- [00:06:06,154 - 00:06:08,374] slash SOHK1. But with that being
+- [00:06:08,374 - 00:06:10,594] said, let's go get this next interview.
+- [00:06:10,594 - 00:06:13,504] Excuse me sir. Sir, question for you. Have you
+- [00:06:13,504 - 00:06:16,414] ever been broke before? Oh yeah. What do you do
+- [00:06:16,414 - 00:06:17,914] for a living out here in Houston? I'm
+- [00:06:17,914 - 00:06:19,414] in the recycling business. You're in the recycling
+- [00:06:19,414 - 00:06:21,604] business? What is this? I started a channel in
+- [00:06:21,604 - 00:06:23,794] Austin. I go to about 7 million followers. I
+- [00:06:23,794 - 00:06:25,564] interview business owners all over the country.
+- [00:06:25,564 - 00:06:27,334] I've interviewed like Mark Cuban, the president of
+- [00:06:27,334 - 00:06:27,694] Nike. Could I ask you something? Yeah, go ahead. I'm
+- [00:06:27,694 - 00:06:28,054] a business owner. I'm a business owner. I'm a business owner.
+- [00:06:28,054 - 00:06:29,764] Just a couple quick questions for you. Sure, sure. Appreciate
+- [00:06:29,764 - 00:06:31,474] that. So how long have you been in recycling for?
+- [00:06:31,474 - 00:06:34,084] 30 years. How did you get into this business? Man,
+- [00:06:34,084 - 00:06:36,694] lucky. I thought I was going to be a trial attorney
+- [00:06:36,694 - 00:06:39,014] and just this opportunity came up and I fell in
+- [00:06:39,014 - 00:06:41,334] love with it and that was it. The path took me.
+- [00:06:41,734 - 00:06:43,564] It chose me. I didn't choose it. What was the
+- [00:06:43,564 - 00:06:45,394] most amount of money that you've ever made in a single
+- [00:06:45,394 - 00:06:48,744] year? Enough. Could you give me a range maybe? A
+- [00:06:48,744 - 00:06:52,094] lot. Did you have to borrow money from banks or
+- [00:06:52,094 - 00:06:54,144] take on a business? I borrow money from everywhere I
+- [00:06:54,144 - 00:06:56,194] can get. It didn't matter what I had to do or
+- [00:06:56,194 - 00:06:57,774] and then you got to get creative.
+- [00:06:58,054 - 00:07:03,274] And you know, had customers put in capital and I returned a certain way. I mean, I look, man, I, you know, I
+- [00:07:03,274 - 00:07:08,494] probably could have gone broke probably four times in the last 30 years and it's just you got to keep finding a way.
+- [00:07:08,654 - 00:07:10,054] What was the best financial advice
+- [00:07:10,054 - 00:07:11,454] that you ever received throughout your career?
+- [00:07:11,454 - 00:07:19,514] I did a mistake on the recycling. I put the second largest recycling company in the United States. So one of my advisors was the chairman, CEO, and he told me, Rick, why would I talk
+- [00:07:19,514 - 00:07:27,574] to number two when I could go talk to number one? So if you're ever going to talk about something, tell me where you're the best at, not where you're second best at, right? Nobody cares.
+- [00:07:27,574 - 00:07:27,794] So
+- [00:07:28,054 - 00:07:29,054] what are you the best at?
+- [00:07:29,054 - 00:07:29,954] Yeah. What's your name, sir?
+- [00:07:29,954 - 00:07:30,654] Rick Perez.
+- [00:07:30,654 - 00:07:32,294] Rick Perez, James Doolin. How old are you now?
+- [00:07:32,294 - 00:07:33,494] I'm 51.
+- [00:07:33,494 - 00:07:35,294] And how old were you when you became a billionaire?
+- [00:07:35,294 - 00:07:38,994] I know he's a billionaire right there, man.
+- [00:07:38,994 - 00:07:48,384] So we're walking around the River Oaks district and I catch my guy coming out of a Sprinter van going into a nice restaurant and he owns the second largest recycling company in the United States. But my biggest takeaway from that interview was how he talked about when he
+- [00:07:48,384 - 00:07:57,774] had to borrow money, he would get it from everybody. And there were almost three to four times where he went broke. It's that relentless mindset that a lot of these entrepreneurs had. And I think that's what I'm going to talk about today. So thank you for joining us.
+- [00:07:58,054 - 00:08:02,094] That have led him to building one of the biggest businesses in the entire country. Great interview out here in
+- [00:08:02,094 - 00:08:06,134] Houston. This video just keeps getting crazier and crazier. But let's get this next one to keep it rolling. Come on.
+- [00:08:07,594 - 00:08:09,574] Excuse me, sir. Is this your Rolls Royce?
+- [00:08:09,574 - 00:08:10,074] Yeah, bro.
+- [00:08:10,074 - 00:08:10,954] What do you do for
+- [00:08:10,954 - 00:08:11,834] living out here in Houston, Texas?
+- [00:08:11,834 - 00:08:13,464] I'm an entrepreneur. And I've been
+- [00:08:13,464 - 00:08:15,094] a business owner for about 14 years.
+- [00:08:15,094 - 00:08:17,934] And I go all over the country just asking business owners their best advice to new
+- [00:08:17,934 - 00:08:20,774] entrepreneurs. Is it cool if I ask you a couple of quick questions for the channel?
+- [00:08:20,774 - 00:08:21,514] Sure.
+- [00:08:21,514 - 00:08:22,734] What was the most amount of money
+- [00:08:22,734 - 00:08:23,954] that you ever made in a single year?
+- [00:08:23,954 - 00:08:26,554] 2020, 16 million.
+- [00:08:26,554 - 00:08:27,574] 16 million dollars.
+- [00:08:27,574 - 00:08:28,054] Yeah.
+- [00:08:28,054 - 00:08:31,274] What's the greatest lesson you've learned about entrepreneurship over these 14 years? Like, what's the
+- [00:08:31,274 - 00:08:34,494] lesson about business you give to somebody that doesn't have a great mentor right now?
+- [00:08:34,494 - 00:08:36,144] Believing that you can is way
+- [00:08:36,144 - 00:08:37,794] more profitable than believing that you can't.
+- [00:08:37,794 - 00:08:39,573] Have you ever been broke before?
+- [00:08:39,573 - 00:08:43,744] Oh, yeah. We donated plasma for gas money. We actually did. So for
+- [00:08:43,744 - 00:08:47,914] 14 years, we've been in business. But the first five, it wasn't so good.
+- [00:08:47,914 - 00:08:49,074] So what was that turning
+- [00:08:49,074 - 00:08:50,234] point towards financial freedom for you?
+- [00:08:50,234 - 00:08:53,904] At the time, my wife was like, we were donating plasma. And she said, not
+- [00:08:53,904 - 00:08:57,574] with her face, but with her, well, not with her words, but with her face.
+- [00:08:57,574 - 00:09:03,044] She said that if I had the opportunity to do it all over again, I would not, basically with her face.
+- [00:09:03,044 - 00:09:08,514] Like, I didn't sign up for this. And I read into that. And so it took me up. It turned me up.
+- [00:09:08,514 - 00:09:10,084] And then I had this daughter over
+- [00:09:10,084 - 00:09:11,654] here, and that changed the game for me.
+- [00:09:11,654 - 00:09:15,623] What's the best financial advice you ever got from a mentor? Like, if there's a lesson about money that a
+- [00:09:15,623 - 00:09:19,593] mentor taught you that always kind of stuck with you, what's that advice you'd pass on to the younger generation?
+- [00:09:19,593 - 00:09:22,993] Stay small enough, long enough, you'll be big enough soon enough.
+- [00:09:22,993 - 00:09:26,394] That means keep the expenses low whenever your money is high.
+- [00:09:26,394 - 00:09:31,084] Don't be in a rush to actually get the culling in and all the jewelry
+- [00:09:31,084 - 00:09:35,774] and everything like that. I was making $30,000 a month with about $3,000 or $4,000 overhead.
+- [00:09:35,774 - 00:09:40,274] It wasn't until I had millions saved where I was forced to go from a
+- [00:09:40,274 - 00:09:44,774] Kia Optima to a Maserati in that same year. That's when I bought this cash.
+- [00:09:44,774 - 00:09:46,074] So you ran lean for a while.
+- [00:09:46,074 - 00:09:47,314] Yeah, yeah, yeah, for sure.
+- [00:09:47,314 - 00:09:50,304] Now, one in four millionaires are living paycheck to paycheck in
+- [00:09:50,304 - 00:09:53,294] today's world. From your perspective, what keeps people broke in today's world?
+- [00:09:53,294 - 00:09:54,294] Scrolling.
+- [00:09:54,294 - 00:09:54,754] Watching other people live their
+- [00:09:54,754 - 00:09:55,214] life versus getting out of it.
+- [00:09:55,214 - 00:09:55,804] Scrolling. Watching other people live their
+- [00:09:55,804 - 00:09:56,394] life versus getting out of it.
+- [00:09:56,394 - 00:09:57,634] Getting it after themselves.
+- [00:09:57,634 - 00:09:58,864] And what was the deepest
+- [00:09:58,864 - 00:10:00,094] life quote that you've ever heard?
+- [00:10:00,094 - 00:10:02,564] I see you at the top because the bottom is too crowded, but
+- [00:10:02,564 - 00:10:05,034] we never look down on anybody unless we're willing to help them up.
+- [00:10:05,034 - 00:10:07,324] But more importantly, understand this, believing that you can
+- [00:10:07,324 - 00:10:09,614] is way more profitable than believing that you can't.
+- [00:10:09,614 - 00:10:10,914] You got amazing advice, sir.
+- [00:10:10,914 - 00:10:11,514] Appreciate it, bro.
+- [00:10:11,514 - 00:10:12,544] Thank you so much for your
+- [00:10:12,544 - 00:10:13,574] time. I appreciate you, man. Appreciate that.
+- [00:10:13,574 - 00:10:16,934] Hard Knocks family, that's a wrap on today's video. Be sure to
+- [00:10:16,934 - 00:10:20,294] like and subscribe for amazing content we've got coming very, very soon.
+- [00:10:20,294 - 00:10:23,204] And as I mentioned earlier, our official entrepreneur community
+- [00:10:23,204 - 00:10:26,114] gives people the ability to get mentored directly from the
+- [00:10:26,114 - 00:10:28,304] multi-millionaires and the billionaires that I
+- [00:10:28,304 - 00:10:30,494] interview on this channel every single week.
+- [00:10:30,494 - 00:10:31,954] So to join now, click the link
+- [00:10:31,954 - 00:10:33,414] down in the description of this video.
+- [00:10:33,414 - 00:10:35,474] And I can't wait to see you on the
+- [00:10:35,474 - 00:10:37,534] inside of our private entrepreneur community, the School of Mentors.
+- [00:10:37,534 - 00:10:38,694] With that being said, see
+- [00:10:38,694 - 00:10:39,854] you guys in the next video.
