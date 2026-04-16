@@ -1,0 +1,684 @@
+# Transcript
+
+Source: lazyearn/school-of-hard-knocks/hard-knocks-interviews/040 - Meet the Billionaire Who Created LinkedIn (Then Sold It for $26B) [q8u9vs2xjg4].webm
+
+- [00:00:00,000 - 00:00:00,900] It's great to meet you.
+- [00:00:00,920 - 00:00:01,700] Great to meet you as well.
+- [00:00:03,200 - 00:00:04,120] Who am I here with today?
+- [00:00:04,220 - 00:00:04,700] Reid Hoffman.
+- [00:00:04,840 - 00:00:05,740] And what was your business?
+- [00:00:05,980 - 00:00:06,960] I'm the co-founder of LinkedIn.
+- [00:00:07,120 - 00:00:07,940] You co-founded LinkedIn?
+- [00:00:08,220 - 00:00:08,420] Yes.
+- [00:00:08,500 - 00:00:09,550] What was the most amount of
+- [00:00:09,550 - 00:00:10,600] money you made in a single year?
+- [00:00:10,700 - 00:00:12,460] When I sold LinkedIn to Microsoft
+- [00:00:12,460 - 00:00:14,220] and we sold it for $26 billion.
+- [00:00:14,680 - 00:00:16,160] You sold LinkedIn for $26 billion?
+- [00:00:16,340 - 00:00:16,560] Yes.
+- [00:00:16,640 - 00:00:17,670] They think it's one of
+- [00:00:17,670 - 00:00:18,700] the best acquisitions they've ever done.
+- [00:00:18,800 - 00:00:19,640] And was it worth it for them?
+- [00:00:19,720 - 00:00:20,550] It was worth it for them
+- [00:00:20,550 - 00:00:21,380] and it was worth it for me.
+- [00:00:21,480 - 00:00:22,840] And you started LinkedIn in 2003.
+- [00:00:23,040 - 00:00:23,260] Yes.
+- [00:00:23,340 - 00:00:24,400] Did you have a lot of people that
+- [00:00:24,400 - 00:00:25,460] doubted you when you first started that business?
+- [00:00:25,460 - 00:00:25,700] Oh yeah.
+- [00:00:25,840 - 00:00:25,980] No.
+- [00:00:25,980 - 00:00:28,020] More than two-thirds of my smart friends thought I
+- [00:00:28,020 - 00:00:30,060] was going to be a complete failure with LinkedIn.
+- [00:00:30,280 - 00:00:30,600] Actually?
+- [00:00:30,700 - 00:00:30,880] Yes.
+- [00:00:30,980 - 00:00:31,980] Why did you not listen to them?
+- [00:00:32,119 - 00:00:32,700] Well, you do.
+- [00:00:32,820 - 00:00:33,490] You want to go to
+- [00:00:33,490 - 00:00:34,160] people and you want to say,
+- [00:00:34,340 - 00:00:35,080] what's wrong with my deal?
+- [00:00:35,140 - 00:00:35,800] Why would it fail?
+- [00:00:35,900 - 00:00:38,180] And then what do I know that they don't know?
+- [00:00:38,340 - 00:00:41,110] Because a VC looks at 600 to 800 deals a
+- [00:00:41,110 - 00:00:43,880] year and says yes to zero to two of them.
+- [00:00:43,940 - 00:00:45,600] So why would they take a bet on you?
+- [00:00:45,660 - 00:00:47,420] When I met with the Airbnb co-founders,
+- [00:00:47,500 - 00:00:48,710] I told them in two minutes I was
+- [00:00:48,710 - 00:00:49,920] going to make them an offer to invest.
+- [00:00:50,000 - 00:00:51,480] So if you had to start from zero and
+- [00:00:51,480 - 00:00:52,960] you had one year to make a billion dollars
+- [00:00:52,960 - 00:00:54,380] and your life depended on it, what would you do?
+- [00:00:55,980 - 00:00:58,429] Guys, this is about to be one
+- [00:00:58,429 - 00:01:00,879] of the craziest videos that I've ever done.
+- [00:01:00,980 - 00:01:02,979] I'm about to go meet up with and
+- [00:01:02,979 - 00:01:04,979] interview my 18th billionaire that I've ever interviewed.
+- [00:01:05,099 - 00:01:06,840] And it isn't just any ordinary billionaire.
+- [00:01:07,080 - 00:01:09,220] It's Reid Hoffman, the founder of LinkedIn.
+- [00:01:09,220 - 00:01:11,180] And he sold his company
+- [00:01:11,180 - 00:01:13,140] LinkedIn to Microsoft for $26 billion.
+- [00:01:13,679 - 00:01:15,020] $26 billion with a B.
+- [00:01:15,199 - 00:01:16,699] And Reid invited us out to
+- [00:01:16,699 - 00:01:18,199] Los Angeles to come interview him,
+- [00:01:18,259 - 00:01:19,539] to figure out what it takes
+- [00:01:19,539 - 00:01:20,820] to become a billionaire in today's world
+- [00:01:20,820 - 00:01:22,679] and how he became one of the
+- [00:01:22,679 - 00:01:24,539] most influential tech moguls of all time.
+- [00:01:24,640 - 00:01:25,780] So let's waste no more time.
+- [00:01:25,900 - 00:01:25,960] Let's go.
+- [00:01:25,980 - 00:01:26,950] Let's go meet up with Reid and
+- [00:01:26,950 - 00:01:27,920] go see what he has to say.
+- [00:01:36,560 - 00:01:38,580] All right, you guys, we just got to our destination
+- [00:01:38,580 - 00:01:40,680] where we're going to be linking up with Reid Hoffman
+- [00:01:40,680 - 00:01:41,710] and getting a billion dollars
+- [00:01:41,710 - 00:01:42,740] worth of game for you guys.
+- [00:01:42,840 - 00:01:43,560] Come on, let's go.
+- [00:01:43,700 - 00:01:44,080] Hi, Adam.
+- [00:01:44,360 - 00:01:45,080] It's great to meet you.
+- [00:01:45,140 - 00:01:45,880] Great to meet you as well.
+- [00:01:46,120 - 00:01:48,120] Thank you for having us out to do the interview.
+- [00:01:48,240 - 00:01:48,500] My pleasure.
+- [00:01:48,500 - 00:01:49,220] I really appreciate that.
+- [00:01:49,340 - 00:01:50,160] Who am I here with today?
+- [00:01:50,260 - 00:01:50,760] Reid Hoffman.
+- [00:01:50,860 - 00:01:51,760] And what was your business?
+- [00:01:52,020 - 00:01:53,020] I'm the co-founder of LinkedIn.
+- [00:01:53,200 - 00:01:54,000] You co-founded LinkedIn?
+- [00:01:54,260 - 00:01:54,520] Yes.
+- [00:01:54,520 - 00:01:55,120] In what year?
+- [00:01:56,140 - 00:01:57,240] But AI startups now.
+- [00:01:57,300 - 00:01:58,580] So you're getting into AI right now.
+- [00:01:58,720 - 00:02:00,160] Yeah, well, I've been in AI since
+- [00:02:00,160 - 00:02:01,600] I led the first round in OpenAI.
+- [00:02:01,780 - 00:02:02,660] So I've been in AI a bit.
+- [00:02:02,700 - 00:02:03,940] So let's go back to those
+- [00:02:03,940 - 00:02:05,180] early days when you're building LinkedIn.
+- [00:02:05,360 - 00:02:06,620] What was that initial moment that
+- [00:02:06,620 - 00:02:07,880] you knew that this was the thing
+- [00:02:07,880 - 00:02:08,840] that you were going to go all in on?
+- [00:02:08,880 - 00:02:10,250] What was that first moment
+- [00:02:10,250 - 00:02:11,620] building LinkedIn when you knew that,
+- [00:02:11,720 - 00:02:12,660] okay, I'm burning the boats.
+- [00:02:12,760 - 00:02:14,360] We're going all in on this thing right here.
+- [00:02:14,440 - 00:02:16,020] Well, actually, because I'd learned
+- [00:02:16,020 - 00:02:17,600] from social, PayPal, et cetera,
+- [00:02:17,600 - 00:02:19,000] you burn the boats early.
+- [00:02:19,180 - 00:02:20,960] You don't get confidence and then burn the boats.
+- [00:02:21,040 - 00:02:21,420] You go.
+- [00:02:21,700 - 00:02:22,260] Why do you say that?
+- [00:02:22,300 - 00:02:24,100] The key element of risk is
+- [00:02:24,100 - 00:02:25,900] take a risk that other people
+- [00:02:25,900 - 00:02:27,340] won't take that might fail.
+- [00:02:27,480 - 00:02:29,320] But if you win, you win huge.
+- [00:02:29,420 - 00:02:30,300] You weren't afraid of failure, though.
+- [00:02:30,480 - 00:02:32,780] No, but everyone's a little afraid of failure.
+- [00:02:32,940 - 00:02:34,320] But I knew that I could
+- [00:02:34,320 - 00:02:35,700] survive failure, that I could play again.
+- [00:02:35,780 - 00:02:36,810] That's the key thing is make
+- [00:02:36,810 - 00:02:37,840] sure that you can play again.
+- [00:02:37,940 - 00:02:39,160] So how did you find yourself
+- [00:02:39,160 - 00:02:40,380] believed to go make billions of dollars?
+- [00:02:40,520 - 00:02:42,250] I think it was that I had a
+- [00:02:42,250 - 00:02:43,980] good sense of I knew what strategic game
+- [00:02:43,980 - 00:02:45,110] I was playing and I
+- [00:02:45,110 - 00:02:46,240] knew I could play multiple times.
+- [00:02:46,240 - 00:02:49,000] And I knew that doing software things within Silicon Valley
+- [00:02:49,000 - 00:02:50,620] was a very good place to be doing it.
+- [00:02:50,700 - 00:02:51,730] If I was in New York,
+- [00:02:51,730 - 00:02:52,760] I might have been doing something else,
+- [00:02:52,880 - 00:02:53,620] finance, et cetera.
+- [00:02:53,740 - 00:02:54,640] If I was in LA,
+- [00:02:54,640 - 00:02:55,540] I might have been doing media.
+- [00:02:55,540 - 00:02:57,029] But like, no, no, this is
+- [00:02:57,029 - 00:02:58,519] the place where you can do software.
+- [00:02:58,620 - 00:02:59,920] You sort of linked it in 2003.
+- [00:03:00,140 - 00:03:00,359] Yes.
+- [00:03:00,440 - 00:03:01,520] Was that during a time where a
+- [00:03:01,520 - 00:03:02,600] lot of people were doubting the fact
+- [00:03:02,600 - 00:03:04,010] that those social networks would
+- [00:03:04,010 - 00:03:05,420] actually be prevalent years from then?
+- [00:03:05,540 - 00:03:07,029] Well, everybody in Silicon Valley
+- [00:03:07,029 - 00:03:08,519] thought the consumer internet was done.
+- [00:03:08,600 - 00:03:09,949] It was only like Amazon and
+- [00:03:09,949 - 00:03:11,299] Google and PayPal and so forth.
+- [00:03:11,380 - 00:03:13,059] And then actually, in fact, they
+- [00:03:13,059 - 00:03:14,739] thought it was enterprise software and cleantech.
+- [00:03:14,739 - 00:03:16,079] So it's like, oh, no, the Internet's over.
+- [00:03:16,299 - 00:03:17,199] And by the way, what
+- [00:03:17,199 - 00:03:18,100] are you doing this business thing?
+- [00:03:18,160 - 00:03:19,600] Is that like Friendster, but for business?
+- [00:03:19,720 - 00:03:20,200] What is that?
+- [00:03:20,280 - 00:03:21,089] So you had a lot of people
+- [00:03:21,089 - 00:03:21,899] that were telling you, no, I'm sure.
+- [00:03:22,079 - 00:03:22,320] Oh, yeah.
+- [00:03:22,440 - 00:03:23,860] No, more than two thirds of my
+- [00:03:23,860 - 00:03:25,280] smart friends thought I was going to be
+- [00:03:25,280 - 00:03:26,660] a complete failure with LinkedIn.
+- [00:03:26,920 - 00:03:27,520] Actually, yes.
+- [00:03:27,600 - 00:03:28,600] Why did you not listen to them?
+- [00:03:28,740 - 00:03:29,320] Well, you do.
+- [00:03:29,440 - 00:03:30,110] You want to go to
+- [00:03:30,110 - 00:03:30,780] people and you want to say,
+- [00:03:30,940 - 00:03:31,680] what's wrong with my idea?
+- [00:03:31,760 - 00:03:32,420] Why will it fail?
+- [00:03:32,500 - 00:03:33,680] So they give you permission to do that.
+- [00:03:33,740 - 00:03:36,020] And then what do I know that they don't know?
+- [00:03:36,080 - 00:03:38,280] Because if you have a good theory of that,
+- [00:03:38,340 - 00:03:39,380] that's the chance that you
+- [00:03:39,380 - 00:03:40,420] might have something that's really amazing.
+- [00:03:40,520 - 00:03:41,260] So what was it that
+- [00:03:41,260 - 00:03:42,000] you knew that they didn't know?
+- [00:03:42,000 - 00:03:43,960] The most common feedback was a network property.
+- [00:03:44,100 - 00:03:45,000] First person in, no value.
+- [00:03:45,080 - 00:03:46,280] We know each other now, no value.
+- [00:03:46,380 - 00:03:47,140] We already know each other.
+- [00:03:47,220 - 00:03:48,420] So no value, no value, no value.
+- [00:03:48,500 - 00:03:49,420] How does the thing ever grow?
+- [00:03:49,500 - 00:03:51,000] And I knew I could get it
+- [00:03:51,000 - 00:03:52,500] to grow even when people didn't actually,
+- [00:03:52,660 - 00:03:53,790] in fact, have any value
+- [00:03:53,790 - 00:03:54,920] in the system at the beginning.
+- [00:03:55,280 - 00:03:56,300] You come from a family of entrepreneurs?
+- [00:03:56,560 - 00:03:58,560] No, actually, I came from a family of civil servants.
+- [00:03:58,680 - 00:04:00,620] So like my grandfather was like,
+- [00:04:00,700 - 00:04:02,260] wait, why has he become an industrialist?
+- [00:04:02,280 - 00:04:02,940] This is terrible.
+- [00:04:03,140 - 00:04:05,040] So what was your turning point to entrepreneurship then?
+- [00:04:05,100 - 00:04:06,340] Like who was the most influential,
+- [00:04:06,640 - 00:04:08,520] most inspirational person on you that enabled you to build
+- [00:04:08,520 - 00:04:09,610] one of the most influential
+- [00:04:09,610 - 00:04:10,700] tech companies in the entire world?
+- [00:04:10,700 - 00:04:12,720] So what I decided, I went to Stanford University,
+- [00:04:12,900 - 00:04:13,580] majored in AI.
+- [00:04:13,900 - 00:04:15,320] And what I decided was
+- [00:04:15,320 - 00:04:16,740] I wanted to create new products.
+- [00:04:16,959 - 00:04:18,600] And that led me into entrepreneurship.
+- [00:04:18,820 - 00:04:20,620] I initially went and worked at
+- [00:04:20,620 - 00:04:22,420] Apple Computer and Fujitsu and other things.
+- [00:04:22,500 - 00:04:23,420] And I was like, no, no,
+- [00:04:23,420 - 00:04:24,340] I want to create a new product.
+- [00:04:24,480 - 00:04:25,260] And that's the thing that led me.
+- [00:04:25,280 - 00:04:26,780] Throughout your career,
+- [00:04:26,960 - 00:04:28,129] what was the most amount of money
+- [00:04:28,129 - 00:04:29,299] that you've made in a single year?
+- [00:04:29,440 - 00:04:30,489] One of the things that's
+- [00:04:30,489 - 00:04:31,539] amazing about having co-founded LinkedIn
+- [00:04:31,539 - 00:04:34,500] is last year it did $16 billion in revenue.
+- [00:04:34,599 - 00:04:36,099] LinkedIn did $16 billion last year?
+- [00:04:36,260 - 00:04:36,479] Yes, yes.
+- [00:04:36,559 - 00:04:37,900] How much did you sell LinkedIn for?
+- [00:04:37,960 - 00:04:39,440] We sold LinkedIn for $26 billion.
+- [00:04:39,880 - 00:04:40,239] To who?
+- [00:04:40,419 - 00:04:40,960] To Microsoft.
+- [00:04:41,159 - 00:04:42,340] What was that conversation like?
+- [00:04:42,380 - 00:04:43,700] How did you exit LinkedIn
+- [00:04:43,700 - 00:04:45,020] for over $20 billion to Microsoft?
+- [00:04:45,140 - 00:04:45,679] That's incredible.
+- [00:04:45,880 - 00:04:48,919] Well, so what happened is Satya Nadella, Bill Gates,
+- [00:04:48,960 - 00:04:50,840] came down the office and said, we're interested.
+- [00:04:51,080 - 00:04:52,820] I was like, well, okay, let's talk about it.
+- [00:04:52,840 - 00:04:53,870] They think it's one of
+- [00:04:53,870 - 00:04:54,900] the best acquisitions they've ever done.
+- [00:04:54,900 - 00:04:55,859] Was it worth it for them?
+- [00:04:55,940 - 00:04:56,769] It was worth it for them
+- [00:04:56,769 - 00:04:57,599] and it was worth it for me.
+- [00:04:57,679 - 00:04:58,859] What's your secret to networking
+- [00:04:58,859 - 00:05:00,039] with other billionaires like Bill Gates?
+- [00:05:00,140 - 00:05:01,820] Let's say somebody doesn't have a ton of credibility.
+- [00:05:01,979 - 00:05:03,960] Before you had all the credibility that you had,
+- [00:05:04,039 - 00:05:06,000] how did you build those relationships with those A players
+- [00:05:06,000 - 00:05:07,070] that were able to take you
+- [00:05:07,070 - 00:05:08,140] places that money can't take you?
+- [00:05:08,179 - 00:05:10,500] Guys, this interview with Reed has been amazing so far.
+- [00:05:10,560 - 00:05:11,840] We're about to get right back to it,
+- [00:05:11,900 - 00:05:12,950] but I've got a very
+- [00:05:12,950 - 00:05:14,000] special announcement to make real quick.
+- [00:05:14,120 - 00:05:16,010] See, 99% of people will
+- [00:05:16,010 - 00:05:17,900] never get mentored from a multimillionaire
+- [00:05:17,900 - 00:05:19,640] or a billionaire in their entire life.
+- [00:05:19,739 - 00:05:21,120] And you guys are always reaching out to me,
+- [00:05:21,219 - 00:05:23,859] asking me how I'm able to connect with and interview
+- [00:05:23,859 - 00:05:24,840] and build relationships.
+- [00:05:24,900 - 00:05:26,580] With the most successful and the
+- [00:05:26,580 - 00:05:28,260] wealthiest people in the entire world.
+- [00:05:28,400 - 00:05:29,599] And see, every single month,
+- [00:05:29,599 - 00:05:30,799] I give you guys direct access
+- [00:05:30,799 - 00:05:32,249] to four of the millionaires
+- [00:05:32,249 - 00:05:33,700] and billionaires that I interview
+- [00:05:33,700 - 00:05:35,820] inside of my private entrepreneur community.
+- [00:05:35,940 - 00:05:36,599] But here's the thing.
+- [00:05:36,700 - 00:05:39,620] I'm turning 23 years old this week on May 10th.
+- [00:05:39,620 - 00:05:40,780] And for that reason, I'm going
+- [00:05:40,780 - 00:05:41,940] to give you guys direct access
+- [00:05:41,940 - 00:05:45,239] to not four, but seven of the multimillionaires
+- [00:05:45,239 - 00:05:47,039] and the billionaires that I interview on this channel,
+- [00:05:47,140 - 00:05:49,700] including the CEO of a publicly traded company
+- [00:05:49,700 - 00:05:51,390] that sold his first business
+- [00:05:51,390 - 00:05:53,080] to Oracle for over nine figures.
+- [00:05:53,080 - 00:05:54,299] And I'm going to give you all that.
+- [00:05:54,300 - 00:05:57,000] Direct access to seven millionaires and billionaires
+- [00:05:57,000 - 00:05:58,920] on live calls for just $23.
+- [00:05:59,420 - 00:06:00,960] I've never done anything like this before,
+- [00:06:01,060 - 00:06:02,290] but since it's my birthday, I
+- [00:06:02,290 - 00:06:03,520] want to give back to you all.
+- [00:06:03,600 - 00:06:06,120] This is your chance to speak directly to the millionaires
+- [00:06:06,120 - 00:06:07,430] and billionaires that I
+- [00:06:07,430 - 00:06:08,740] interview and get personalized advice
+- [00:06:08,740 - 00:06:10,440] and one-on-one mentorship from them.
+- [00:06:10,480 - 00:06:11,800] Whether you're stuck in a nine to five
+- [00:06:11,800 - 00:06:12,740] and you want to learn
+- [00:06:12,740 - 00:06:13,680] the exact steps that it takes
+- [00:06:13,680 - 00:06:15,480] to leave that job and start building
+- [00:06:15,480 - 00:06:16,840] and creating the business of your dreams,
+- [00:06:16,860 - 00:06:18,500] or maybe you've already taken that leap,
+- [00:06:18,580 - 00:06:20,040] that risk and started that business,
+- [00:06:20,160 - 00:06:21,180] but you want to learn
+- [00:06:21,180 - 00:06:22,200] from the most successful business owners
+- [00:06:22,200 - 00:06:24,280] how to start scaling and making your first six,
+- [00:06:24,300 - 00:06:26,600] seven, or even eight figures at your business,
+- [00:06:26,740 - 00:06:28,260] then this is your opportunity to join
+- [00:06:28,260 - 00:06:30,280] and become a member of the number one community
+- [00:06:30,280 - 00:06:32,400] for business owners in the entire world.
+- [00:06:32,500 - 00:06:33,380] But here's the thing.
+- [00:06:33,520 - 00:06:35,940] You only have from now, you're watching this right now,
+- [00:06:36,000 - 00:06:37,580] until the end of my
+- [00:06:37,580 - 00:06:39,160] birthday on May 10th at midnight
+- [00:06:39,160 - 00:06:41,980] to join and become a member for just $23.
+- [00:06:42,480 - 00:06:44,300] Because after that, at the end of my birthday,
+- [00:06:44,360 - 00:06:45,500] it goes back up to 50.
+- [00:06:45,660 - 00:06:47,000] So to join now and become
+- [00:06:47,000 - 00:06:48,340] a member of the School of Mentors,
+- [00:06:48,420 - 00:06:50,000] the number one community for business owners
+- [00:06:50,000 - 00:06:50,860] in the entire world,
+- [00:06:50,920 - 00:06:52,100] go down to the link in
+- [00:06:52,100 - 00:06:53,280] the description of this video to join.
+- [00:06:53,280 - 00:06:54,180] I can't wait to see you on the show.
+- [00:06:54,300 - 00:06:54,780] I'll see you inside.
+- [00:06:54,860 - 00:06:56,620] With that being said, let's get back to the interview.
+- [00:06:56,820 - 00:06:57,650] You created the biggest social
+- [00:06:57,650 - 00:06:58,480] networking platform in the world.
+- [00:06:58,580 - 00:07:00,760] What's your best networking advice for anybody in business?
+- [00:07:00,880 - 00:07:02,980] The key thing is think what you can give someone.
+- [00:07:03,200 - 00:07:04,860] So what's something that you
+- [00:07:04,860 - 00:07:06,520] could do that would help them?
+- [00:07:06,600 - 00:07:08,260] So for example, Satya Nadella started calling me
+- [00:07:08,260 - 00:07:10,220] because I'm like, oh, here's what you need to understand
+- [00:07:10,220 - 00:07:10,940] about Silicon Valley.
+- [00:07:11,060 - 00:07:12,200] And he's like, that's really helpful.
+- [00:07:12,380 - 00:07:14,980] That helps me as Microsoft engage with Silicon Valley.
+- [00:07:15,060 - 00:07:17,340] And similar, when talking to Bill, I don't say,
+- [00:07:17,460 - 00:07:18,720] hey, Bill, you're just so great.
+- [00:07:18,860 - 00:07:19,440] He is great.
+- [00:07:19,460 - 00:07:21,680] But it's like, oh, here's something that's going on
+- [00:07:21,680 - 00:07:22,880] in the modern world of tech.
+- [00:07:22,880 - 00:07:24,280] Like, here's something about AI.
+- [00:07:24,300 - 00:07:25,920] That I see that you may not have seen yet.
+- [00:07:26,020 - 00:07:27,500] So has Bill Gates become a friend of yours?
+- [00:07:27,580 - 00:07:28,460] Yeah, Bill's great.
+- [00:07:28,580 - 00:07:29,760] What do you notice about these people?
+- [00:07:29,860 - 00:07:31,760] Among the most successful people that you've gotten
+- [00:07:31,760 - 00:07:32,660] to know really well, what
+- [00:07:32,660 - 00:07:33,560] do they all have in common
+- [00:07:33,560 - 00:07:36,540] that's enabled them to be part of that 0.00001%
+- [00:07:36,540 - 00:07:37,440] of the top 1%?
+- [00:07:37,520 - 00:07:39,080] Well, there's three different things I'm going to say.
+- [00:07:39,120 - 00:07:39,760] I'm going to give you three.
+- [00:07:39,920 - 00:07:41,240] So one is curiosity.
+- [00:07:41,420 - 00:07:42,920] So like intensely wanting to learn.
+- [00:07:43,000 - 00:07:43,960] That's like Satya, Bill.
+- [00:07:44,040 - 00:07:46,680] Another one is just raw grit.
+- [00:07:46,880 - 00:07:48,590] And kind of like, I am
+- [00:07:48,590 - 00:07:50,300] going to make this work, right?
+- [00:07:50,320 - 00:07:52,060] This is a whole stack of different people.
+- [00:07:52,060 - 00:07:54,020] But like, for example, Patrick Collison,
+- [00:07:54,020 - 00:07:54,440] or others.
+- [00:07:54,520 - 00:07:56,159] Then the last one is kind of understanding,
+- [00:07:56,280 - 00:07:58,060] what do I understand about the world
+- [00:07:58,060 - 00:07:59,840] that other people don't understand?
+- [00:07:59,940 - 00:08:01,159] And that's a little bit like, for example,
+- [00:08:01,320 - 00:08:03,620] frequently Peter Thiel is the contrarian hypothesis.
+- [00:08:03,919 - 00:08:05,180] You think a lot of networking is bullshit?
+- [00:08:05,359 - 00:08:06,799] The networking is bullshit that's kind of like,
+- [00:08:06,900 - 00:08:07,500] hi, I'm Reid.
+- [00:08:07,560 - 00:08:08,359] Here's my business card.
+- [00:08:08,419 - 00:08:10,599] The thing that's real is forming connections
+- [00:08:10,599 - 00:08:12,760] where actually, in fact, we are really helping each other.
+- [00:08:12,859 - 00:08:14,440] What's the biggest mistake you see people make
+- [00:08:14,440 - 00:08:15,260] when they are trying to network
+- [00:08:15,260 - 00:08:16,340] with other successful people?
+- [00:08:16,419 - 00:08:18,440] They ask for something versus offer something.
+- [00:08:18,539 - 00:08:20,060] So it's like, hey, what can you do for me?
+- [00:08:20,120 - 00:08:21,659] That happens all the time for people.
+- [00:08:21,740 - 00:08:22,880] It's like, no, no, here's something
+- [00:08:22,880 - 00:08:23,859] that could be useful to you.
+- [00:08:23,860 - 00:08:24,920] And by the way, maybe you're wrong.
+- [00:08:25,000 - 00:08:25,580] Maybe it's not useful.
+- [00:08:25,740 - 00:08:26,000] Fine.
+- [00:08:26,100 - 00:08:27,680] But when it is, you get attention.
+- [00:08:27,820 - 00:08:29,220] You get the beginnings of a relationship.
+- [00:08:29,420 - 00:08:30,680] You were talking about two-thirds of the people
+- [00:08:30,680 - 00:08:31,980] that have told you no in your network.
+- [00:08:32,200 - 00:08:32,380] Yes.
+- [00:08:32,400 - 00:08:33,480] You were part of the PayPal mafia.
+- [00:08:33,700 - 00:08:33,880] Yes.
+- [00:08:33,960 - 00:08:34,700] Can you explain what that
+- [00:08:34,700 - 00:08:35,440] is to people that don't know?
+- [00:08:35,539 - 00:08:37,900] I always say PayPal network, but PayPal mafia is sexier.
+- [00:08:38,000 - 00:08:38,919] So people really go with it.
+- [00:08:39,020 - 00:08:40,780] And it's basically the crew of people
+- [00:08:40,780 - 00:08:43,159] who turn PayPal from an encryption system
+- [00:08:43,159 - 00:08:45,460] on mobile devices to a worldwide payments network.
+- [00:08:45,580 - 00:08:48,200] You were a huge role in PayPal getting acquired
+- [00:08:48,200 - 00:08:49,980] for $1.5 billion from eBay.
+- [00:08:50,120 - 00:08:51,680] What's your best negotiation advice
+- [00:08:51,680 - 00:08:53,680] for any entrepreneur in business right now?
+- [00:08:53,680 - 00:08:55,180] You've been at the table with some very heavy hitters.
+- [00:08:55,300 - 00:08:56,900] Give me your best negotiation advice
+- [00:08:56,900 - 00:08:57,900] for anybody in business.
+- [00:08:58,040 - 00:08:59,500] So the way we're going to think about it is
+- [00:08:59,500 - 00:09:01,599] companies are bought, not sold.
+- [00:09:01,739 - 00:09:03,219] So if you're selling, you have a problem.
+- [00:09:03,319 - 00:09:04,880] You want them to come in and buy you.
+- [00:09:04,939 - 00:09:06,249] So the question is, how do
+- [00:09:06,249 - 00:09:07,560] you get that to be their idea
+- [00:09:07,560 - 00:09:08,680] that they are coming to buy you?
+- [00:09:08,719 - 00:09:09,939] I hadn't heard that perspective before,
+- [00:09:10,020 - 00:09:10,920] that they're bought, not sold.
+- [00:09:11,060 - 00:09:11,199] Yes.
+- [00:09:11,239 - 00:09:12,459] How did you get in that mindset shift?
+- [00:09:12,560 - 00:09:13,649] Well, because part of the
+- [00:09:13,649 - 00:09:14,739] thing is, it's like the dynamic.
+- [00:09:14,859 - 00:09:15,909] If you show up, just like
+- [00:09:15,909 - 00:09:16,959] you show up to a venture capitalist
+- [00:09:16,959 - 00:09:17,959] and you say, hey, I'm trying
+- [00:09:17,959 - 00:09:18,959] to sell you on this thing,
+- [00:09:19,020 - 00:09:20,760] then the person kind of rolls back and like,
+- [00:09:20,800 - 00:09:22,740] okay, now this is me being powerful.
+- [00:09:22,740 - 00:09:23,660] You're trying to sell your company.
+- [00:09:23,680 - 00:09:25,100] Where it's like, oh, well, I
+- [00:09:25,100 - 00:09:26,520] could be selling to somebody else
+- [00:09:26,520 - 00:09:27,839] and I've got this thing that I'm doing.
+- [00:09:28,040 - 00:09:29,060] And it's like, no, no, I want that.
+- [00:09:29,199 - 00:09:31,000] You have to think of the psychology of the person.
+- [00:09:31,140 - 00:09:32,099] So I want you to think back to you
+- [00:09:32,099 - 00:09:33,260] throughout your career real quick.
+- [00:09:33,359 - 00:09:34,519] What is the best advice
+- [00:09:34,519 - 00:09:35,680] you ever got from a mentor?
+- [00:09:35,939 - 00:09:37,459] So weirdly, it's from my dad.
+- [00:09:37,540 - 00:09:38,640] And it was when I was in high school.
+- [00:09:38,739 - 00:09:40,520] He said, the difficult thing about making decisions
+- [00:09:40,520 - 00:09:42,660] is that you reduce opportunity in the short term.
+- [00:09:42,699 - 00:09:43,540] Because when you make a decision,
+- [00:09:43,900 - 00:09:45,579] you've chosen door A and not door B.
+- [00:09:45,660 - 00:09:46,780] But it's the only way you
+- [00:09:46,780 - 00:09:47,900] get opportunity in the long term.
+- [00:09:47,979 - 00:09:49,199] And what's the most difficult decision
+- [00:09:49,199 - 00:09:50,000] you made that paid off?
+- [00:09:50,099 - 00:09:50,620] Oh, wow.
+- [00:09:51,939 - 00:09:53,599] Probably starting my first company
+- [00:09:53,600 - 00:09:54,180] is social net.
+- [00:09:54,240 - 00:09:55,680] And by the way, social net didn't pay off,
+- [00:09:55,680 - 00:09:57,340] but it got me into the journey of doing it.
+- [00:09:57,440 - 00:09:58,520] How did you deal with that adversity?
+- [00:09:58,700 - 00:10:00,520] Because a lot of people, they see social media nowadays
+- [00:10:00,520 - 00:10:02,300] that it's all glitz and glamours and entrepreneurship.
+- [00:10:02,700 - 00:10:03,500] But you had some adversity.
+- [00:10:03,660 - 00:10:04,700] You had some failures at the beginning.
+- [00:10:04,940 - 00:10:06,040] How did you overcome that?
+- [00:10:06,060 - 00:10:06,940] How did you learn how to pivot?
+- [00:10:07,120 - 00:10:08,840] Well, what you want to be doing is saying,
+- [00:10:09,000 - 00:10:10,600] I'm not just playing a one-time game.
+- [00:10:10,660 - 00:10:11,920] I'm playing a multi-time game.
+- [00:10:12,000 - 00:10:13,060] And I'm expecting that I'm
+- [00:10:13,060 - 00:10:14,120] going to fail along the way.
+- [00:10:14,260 - 00:10:14,500] Some.
+- [00:10:14,640 - 00:10:16,500] Because it's not that you want to fail.
+- [00:10:16,560 - 00:10:17,620] It's not that you celebrate failing,
+- [00:10:17,720 - 00:10:19,440] but you celebrate learning in order to win.
+- [00:10:19,520 - 00:10:20,640] I'm going to have you dig
+- [00:10:20,640 - 00:10:21,760] deep on this one right here.
+- [00:10:21,760 - 00:10:23,040] I'm going to ask one more piece of advice
+- [00:10:23,040 - 00:10:23,740] that you got from a mentor.
+- [00:10:23,840 - 00:10:24,540] Give me one from the dad.
+- [00:10:24,600 - 00:10:25,480] Give me one from somebody
+- [00:10:25,480 - 00:10:26,360] in that network that you had
+- [00:10:26,360 - 00:10:28,740] that really changed your life from a business standpoint.
+- [00:10:28,980 - 00:10:31,080] Well, when someone actually tells you something
+- [00:10:31,080 - 00:10:32,640] that you really need to hear
+- [00:10:32,640 - 00:10:34,439] that wasn't something you were originally planning.
+- [00:10:34,600 - 00:10:36,720] So I was networking my way to VCs early.
+- [00:10:37,040 - 00:10:38,210] And one of the lawyers
+- [00:10:38,210 - 00:10:39,380] that I actually talked to said,
+- [00:10:39,460 - 00:10:40,819] hey, look, you're a friend of Lori's.
+- [00:10:40,880 - 00:10:41,560] Let me just tell you,
+- [00:10:41,620 - 00:10:42,240] you're not going to be
+- [00:10:42,240 - 00:10:42,860] able to raise money right now.
+- [00:10:42,939 - 00:10:44,580] You need to go prove your credentials
+- [00:10:44,580 - 00:10:45,819] at launching products first.
+- [00:10:45,900 - 00:10:46,700] Go do that first.
+- [00:10:46,780 - 00:10:48,160] Then go try to raise money.
+- [00:10:48,260 - 00:10:48,880] And that's what I went.
+- [00:10:49,020 - 00:10:50,620] I actually went and ended up working
+- [00:10:50,620 - 00:10:51,720] at Apple Computer Year World.
+- [00:10:51,840 - 00:10:53,160] And then built a network around me.
+- [00:10:53,200 - 00:10:54,220] And that helped me.
+- [00:10:54,380 - 00:10:55,819] Did you take on a lot of capital to scale?
+- [00:10:56,000 - 00:10:57,720] Well, in today's term, de minimis.
+- [00:10:57,860 - 00:10:59,660] But it was $5 million in the first round.
+- [00:10:59,740 - 00:11:00,360] Nothing after that?
+- [00:11:00,620 - 00:11:01,100] Oh, no, no.
+- [00:11:01,300 - 00:11:03,740] Ultimately, we raised about $140 million.
+- [00:11:03,900 - 00:11:05,240] What was your secret to raising capital?
+- [00:11:05,380 - 00:11:06,110] It's one of the hardest
+- [00:11:06,110 - 00:11:06,840] things for business owners to do
+- [00:11:06,840 - 00:11:08,580] because investors, they invest in people
+- [00:11:08,580 - 00:11:10,180] and they invest in businesses, not ideas, right?
+- [00:11:10,260 - 00:11:11,620] So the best thing is,
+- [00:11:11,700 - 00:11:14,160] think about what kinds of things investors look.
+- [00:11:14,220 - 00:11:15,260] Investors are looking for something
+- [00:11:15,260 - 00:11:16,480] that's going to be amazingly big.
+- [00:11:16,560 - 00:11:18,660] And they're looking for things that they think
+- [00:11:18,660 - 00:11:20,360] is the current trend for what's going.
+- [00:11:20,460 - 00:11:21,740] So like AI, things are good to pay.
+- [00:11:21,880 - 00:11:23,660] Although if you say, hey, it's an AI milkshake,
+- [00:11:23,740 - 00:11:24,580] that won't work so well.
+- [00:11:24,660 - 00:11:25,340] So you're looking for that.
+- [00:11:25,400 - 00:11:26,080] And then you're looking for,
+- [00:11:26,180 - 00:11:27,090] why is it you're going
+- [00:11:27,090 - 00:11:28,000] to take a bet on me?
+- [00:11:28,100 - 00:11:29,820] So like a VC looks at
+- [00:11:29,820 - 00:11:31,540] 600 to 800 deals a year
+- [00:11:31,540 - 00:11:33,480] and says yes to zero to two of them.
+- [00:11:33,540 - 00:11:35,240] So why would they take a bet on you?
+- [00:11:35,300 - 00:11:37,180] And being edgy that way is really helpful.
+- [00:11:37,360 - 00:11:38,660] So what's the number one thing that you look for
+- [00:11:38,660 - 00:11:39,600] in a business or a person
+- [00:11:39,600 - 00:11:40,840] when you're deciding to make an investment?
+- [00:11:40,980 - 00:11:42,580] As somebody who's been one of the most successful VCs
+- [00:11:42,580 - 00:11:43,020] in the game.
+- [00:11:43,100 - 00:11:44,880] It's being surprised about something
+- [00:11:44,880 - 00:11:45,640] that could be amazing.
+- [00:11:45,640 - 00:11:46,320] So like for example,
+- [00:11:46,420 - 00:11:48,140] when I met with the Airbnb co-founders,
+- [00:11:48,240 - 00:11:49,240] I told them in two minutes,
+- [00:11:49,340 - 00:11:50,660] I was going to make them an offer to invest
+- [00:11:50,660 - 00:11:51,380] because they had gone,
+- [00:11:51,520 - 00:11:53,100] we've seen something no one else has seen,
+- [00:11:53,219 - 00:11:54,839] which is eBay, but for space.
+- [00:11:54,839 - 00:11:55,660] And here we go.
+- [00:11:55,819 - 00:11:57,120] What's your most contrarian opinion
+- [00:11:57,120 - 00:11:59,020] about the future of industries
+- [00:11:59,020 - 00:12:00,420] that venture capital will be investing in
+- [00:12:00,420 - 00:12:01,179] that maybe a lot of
+- [00:12:01,179 - 00:12:01,939] people will disagree with you on?
+- [00:12:02,000 - 00:12:03,819] Probably that the world of bits
+- [00:12:03,819 - 00:12:06,579] will be greatly accelerating the world of atoms.
+- [00:12:06,920 - 00:12:07,840] So part of the reason
+- [00:12:07,840 - 00:12:08,760] why I just co-founded a company
+- [00:12:08,760 - 00:12:10,020] curing cancer with AI
+- [00:12:10,020 - 00:12:13,180] is because AI will accelerate how we discover new drugs.
+- [00:12:13,319 - 00:12:14,819] That acceleration will also be like,
+- [00:12:14,819 - 00:12:15,620] for example, robots,
+- [00:12:15,699 - 00:12:17,620] that acceleration will be manufacturing.
+- [00:12:17,920 - 00:12:20,220] Like we will figure out how to build much better,
+- [00:12:20,220 - 00:12:23,160] cheaper, faster houses because of AI.
+- [00:12:23,360 - 00:12:24,300] What's the most common mistake
+- [00:12:24,300 - 00:12:25,880] you see business owners make in today's world?
+- [00:12:25,960 - 00:12:27,410] You became one of the
+- [00:12:27,410 - 00:12:28,860] most successful VCs in modern time.
+- [00:12:28,960 - 00:12:29,780] You've been on the board
+- [00:12:29,780 - 00:12:30,600] of a lot of successful companies.
+- [00:12:30,800 - 00:12:32,300] What's a blind spot that a lot of,
+- [00:12:32,460 - 00:12:33,960] maybe even successful founders have
+- [00:12:33,960 - 00:12:35,060] that you see across a
+- [00:12:35,060 - 00:12:36,160] lot of companies in today's world?
+- [00:12:36,260 - 00:12:37,840] It depends a little bit on which game you're playing,
+- [00:12:37,940 - 00:12:39,060] but within the tech startups,
+- [00:12:39,220 - 00:12:41,380] it's not taking the bold enough risk.
+- [00:12:41,480 - 00:12:43,220] You're trying to make sure that you're successful
+- [00:12:43,220 - 00:12:44,600] versus, hey, I'm going to try this
+- [00:12:44,600 - 00:12:46,230] and either it's going to be
+- [00:12:46,230 - 00:12:47,860] spectacular or I'm going to die.
+- [00:12:47,860 - 00:12:50,100] And that's okay if, or I'm going to die.
+- [00:12:50,220 - 00:12:51,840] You wrote a book called Blitzscaling.
+- [00:12:51,940 - 00:12:53,940] What is the most effective way to scale fast?
+- [00:12:54,000 - 00:12:55,800] The important thing to do when you're scaling,
+- [00:12:55,940 - 00:12:57,440] blitzscaling, going really fast,
+- [00:12:57,560 - 00:12:59,700] getting your company large, attacking a market,
+- [00:12:59,820 - 00:13:02,300] is to say, how do I make decisions
+- [00:13:02,300 - 00:13:03,790] in a way that I do
+- [00:13:03,790 - 00:13:05,280] not take my foot off the accelerator?
+- [00:13:05,460 - 00:13:06,660] It's like when you're driving, you say,
+- [00:13:06,820 - 00:13:08,020] am I going to get off this thing or not?
+- [00:13:08,120 - 00:13:09,420] The time that I can make the decision
+- [00:13:09,420 - 00:13:10,820] is by going full speed ahead.
+- [00:13:10,920 - 00:13:12,720] So you say, hey, should I go into this market?
+- [00:13:12,880 - 00:13:13,900] Should I launch this product?
+- [00:13:14,000 - 00:13:14,920] Should I hire this person?
+- [00:13:15,040 - 00:13:16,260] Well, what's the way that I do that?
+- [00:13:16,520 - 00:13:17,820] Not ever slowing down.
+- [00:13:17,820 - 00:13:18,720] Now, a lot of entrepreneurs,
+- [00:13:18,900 - 00:13:20,020] the reason why they struggle to scale
+- [00:13:20,220 - 00:13:21,640] is they want to be that solopreneur.
+- [00:13:21,760 - 00:13:23,220] They want to wear all the hats themselves.
+- [00:13:23,380 - 00:13:25,760] Who is the most important to hire in any business?
+- [00:13:25,960 - 00:13:27,520] So one of the things that's most important to hire
+- [00:13:27,520 - 00:13:30,400] or partner with are the people who add their strengths
+- [00:13:30,400 - 00:13:31,500] against your weaknesses.
+- [00:13:31,780 - 00:13:33,260] So for example, I'm a creative problem solver.
+- [00:13:33,520 - 00:13:34,240] That's really good.
+- [00:13:34,380 - 00:13:35,550] I need people who run
+- [00:13:35,550 - 00:13:36,720] like all the trains on time,
+- [00:13:36,800 - 00:13:39,340] who are very operationally tight and buttoned down.
+- [00:13:39,420 - 00:13:41,100] And so you're looking for the person
+- [00:13:41,100 - 00:13:42,480] who is a right partner for you.
+- [00:13:42,580 - 00:13:43,800] How important is vertical integration
+- [00:13:43,800 - 00:13:45,240] to whatever business somebody's involved in?
+- [00:13:45,300 - 00:13:47,240] Well, it's important to know what game you're playing.
+- [00:13:47,240 - 00:13:48,860] And if the game is vertical integration,
+- [00:13:49,000 - 00:13:49,600] then do it well.
+- [00:13:49,680 - 00:13:50,200] One of the things I got,
+- [00:13:50,220 - 00:13:52,440] I thought we would have individual subscriptions
+- [00:13:52,440 - 00:13:53,920] as the primary business initially,
+- [00:13:54,080 - 00:13:54,720] and it was enterprise.
+- [00:13:55,040 - 00:13:55,840] And you pivoted.
+- [00:13:55,900 - 00:13:57,120] And the way we learned it is we said,
+- [00:13:57,260 - 00:13:58,760] look, when we launch individual subscriptions,
+- [00:13:58,900 - 00:14:00,260] we had companies coming to us saying,
+- [00:14:00,380 - 00:14:01,000] we'd like to buy.
+- [00:14:01,080 - 00:14:02,620] And we're like, huh, the companies are coming to us.
+- [00:14:02,680 - 00:14:03,480] Customers are coming to us.
+- [00:14:03,580 - 00:14:05,600] All right, make a slide deck, complete image,
+- [00:14:05,820 - 00:14:06,620] and send it out saying,
+- [00:14:06,700 - 00:14:07,520] this is the product we're building.
+- [00:14:07,620 - 00:14:09,360] The sales guy came back with purchase orders.
+- [00:14:09,480 - 00:14:10,620] And we're like, okay, we're building that product.
+- [00:14:10,740 - 00:14:11,280] How old are you now?
+- [00:14:11,340 - 00:14:11,920] I'm 57.
+- [00:14:12,020 - 00:14:13,740] How old were you when you became a billionaire?
+- [00:14:14,420 - 00:14:16,250] Probably 38, but I'd have
+- [00:14:16,250 - 00:14:18,080] to really go look at it.
+- [00:14:18,140 - 00:14:19,380] So if you had to start from zero
+- [00:14:19,380 - 00:14:20,200] and you had one year,
+- [00:14:20,220 - 00:14:21,080] to make a billion dollars
+- [00:14:21,080 - 00:14:21,960] and your life depended on it,
+- [00:14:22,000 - 00:14:22,520] what would you do?
+- [00:14:22,860 - 00:14:24,460] Do something that's very different
+- [00:14:24,460 - 00:14:25,660] than what other people would be doing.
+- [00:14:25,840 - 00:14:27,500] Now, there's a lot of AI stuff right now,
+- [00:14:27,560 - 00:14:29,180] but what would be something that would be,
+- [00:14:29,280 - 00:14:30,980] I mean, I started a cancer drug discovery company,
+- [00:14:31,260 - 00:14:31,920] but that's not a year.
+- [00:14:32,060 - 00:14:33,280] That's like five, 10 years.
+- [00:14:33,400 - 00:14:34,460] So do you think in decades then?
+- [00:14:34,580 - 00:14:34,780] Oh, yeah.
+- [00:14:35,640 - 00:14:37,380] I almost never play a one-year game.
+- [00:14:37,440 - 00:14:38,140] I play a 10-year game.
+- [00:14:38,180 - 00:14:38,620] Why is that?
+- [00:14:38,700 - 00:14:40,360] Because part of, again, where it's contrarian
+- [00:14:40,360 - 00:14:42,020] is most other people don't think about 10 years.
+- [00:14:42,120 - 00:14:44,320] They don't think about how you compound to 10 years.
+- [00:14:44,680 - 00:14:45,960] And compounding to 10 years
+- [00:14:45,960 - 00:14:47,640] is one of the things that gives a differential edge.
+- [00:14:47,720 - 00:14:49,000] But even if you've already had an exit
+- [00:14:49,000 - 00:14:49,900] for over $20 billion,
+- [00:14:50,160 - 00:14:51,940] you still are still thinking that long-term.
+- [00:14:52,120 - 00:14:52,440] Yeah, absolutely.
+- [00:14:52,500 - 00:14:53,060] Why is that?
+- [00:14:53,120 - 00:14:53,660] Like, just because?
+- [00:14:53,900 - 00:14:55,800] Well, because that's actually how you create something
+- [00:14:55,800 - 00:14:57,380] that's epic, that changes industries.
+- [00:14:57,560 - 00:14:58,660] And looking back to that exit,
+- [00:14:58,780 - 00:14:59,820] what was the number one thing
+- [00:14:59,820 - 00:15:01,720] that led to an exit over $20 billion?
+- [00:15:02,080 - 00:15:04,700] It was a realization that building a network
+- [00:15:04,700 - 00:15:05,960] and getting growth in the network
+- [00:15:05,960 - 00:15:07,580] and then monetization could come later.
+- [00:15:07,680 - 00:15:09,400] So like frequently when people think of business,
+- [00:15:09,520 - 00:15:10,590] they think, well, I gotta
+- [00:15:10,590 - 00:15:11,660] have someone pay me right now.
+- [00:15:11,720 - 00:15:12,380] It's like, no, no, no, no.
+- [00:15:12,680 - 00:15:14,080] Actually, like, build the network
+- [00:15:14,080 - 00:15:14,910] and then the business will
+- [00:15:14,910 - 00:15:15,740] be built on top of it.
+- [00:15:15,820 - 00:15:16,700] So was the grind to become
+- [00:15:16,700 - 00:15:17,580] a billionaire worth it for you?
+- [00:15:17,660 - 00:15:18,000] Yes.
+- [00:15:18,140 - 00:15:18,780] But also,
+- [00:15:18,780 - 00:15:19,640] not just the money,
+- [00:15:19,880 - 00:15:21,620] it's the changing the world through the product.
+- [00:15:21,760 - 00:15:23,240] One more message for the younger generation
+- [00:15:23,240 - 00:15:24,500] aspiring to become successful
+- [00:15:24,500 - 00:15:25,939] and a self-made billionaire like you.
+- [00:15:26,060 - 00:15:27,060] Life is a team sport,
+- [00:15:27,160 - 00:15:28,079] not an individual sport.
+- [00:15:28,180 - 00:15:28,620] Pick your team.
+- [00:15:28,780 - 00:15:29,120] I love it.
+- [00:15:29,400 - 00:15:30,620] Reid, thank you so much, my friend.
+- [00:15:30,780 - 00:15:31,459] Really appreciate you.
+- [00:15:31,500 - 00:15:31,920] This is awesome.
+- [00:15:32,220 - 00:15:34,280] Guys, this interview with Reid Hoffman,
+- [00:15:34,339 - 00:15:35,260] the founder of LinkedIn,
+- [00:15:35,380 - 00:15:36,480] the multi-billionaire,
+- [00:15:36,540 - 00:15:37,180] was incredible.
+- [00:15:37,360 - 00:15:38,900] But I need you guys to like and subscribe
+- [00:15:38,900 - 00:15:39,819] for amazing content
+- [00:15:39,819 - 00:15:41,380] we've got coming every single week.
+- [00:15:41,500 - 00:15:43,220] And like I said earlier, you guys,
+- [00:15:43,339 - 00:15:45,339] you can right now join the number one community
+- [00:15:45,339 - 00:15:47,000] for business owners from now
+- [00:15:47,000 - 00:15:48,260] until the end of my birthday
+- [00:15:48,260 - 00:15:48,760] on May 12th.
+- [00:15:48,780 - 00:15:49,540] And you can get content that midnight
+- [00:15:49,540 - 00:15:50,500] for just $23
+- [00:15:50,500 - 00:15:53,880] and get access to seven of the multi-millionaires
+- [00:15:53,880 - 00:15:55,740] and the billionaires that I interview on this channel
+- [00:15:55,740 - 00:15:56,839] for the month of May
+- [00:15:56,839 - 00:15:58,540] and literally get mentored from them.
+- [00:15:58,640 - 00:16:00,220] You guys, there is nothing like this
+- [00:16:00,220 - 00:16:02,620] that exists anywhere else in the entire planet.
+- [00:16:02,699 - 00:16:03,939] Only at the School of Hard Knocks
+- [00:16:03,939 - 00:16:05,459] and inside the School of Mentors.
+- [00:16:05,600 - 00:16:06,529] So I can't wait to see
+- [00:16:06,529 - 00:16:07,459] you on the inside of the community.
+- [00:16:07,620 - 00:16:09,380] Go down to the link in the description to join.
+- [00:16:09,500 - 00:16:10,300] With that being said,
+- [00:16:10,380 - 00:16:11,300] I'll see you in the next video.
