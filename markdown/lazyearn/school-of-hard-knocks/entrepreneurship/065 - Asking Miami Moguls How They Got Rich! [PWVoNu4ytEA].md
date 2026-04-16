@@ -1,0 +1,772 @@
+# Transcript
+
+Source: lazyearn/school-of-hard-knocks/hard-knocks-interviews/066 - Asking Miami Moguls How They Got Rich! [PWVoNu4ytEA].webm
+
+- [00:00:00,240 - 00:00:02,140] Excuse me, sir. Sir, question
+- [00:00:02,140 - 00:00:04,040] for you. Have you ever been...
+- [00:00:04,040 - 00:00:04,580] Oh my God.
+- [00:00:05,520 - 00:00:06,280] I've seen your shit.
+- [00:00:06,420 - 00:00:08,320] Yeah? Could I interview you real quick?
+- [00:00:08,440 - 00:00:10,180] Okay, I'm totally rich. Relax.
+- [00:00:10,540 - 00:00:11,400] Is this your Rolls Royce?
+- [00:00:11,580 - 00:00:11,840] Yes.
+- [00:00:12,160 - 00:00:12,800] And what do you do for
+- [00:00:12,800 - 00:00:13,440] a living out here in Miami?
+- [00:00:13,680 - 00:00:14,760] I own Poppy Steak.
+- [00:00:14,860 - 00:00:15,920] Best restaurant in the world.
+- [00:00:16,020 - 00:00:17,450] What's the biggest issue you've had so far in terms
+- [00:00:17,450 - 00:00:18,880] of revenue? What's the most you've made in a year?
+- [00:00:19,160 - 00:00:20,800] 2021. Over $100 million.
+- [00:00:21,360 - 00:00:23,100] In business, I've done over $2 billion.
+- [00:00:23,620 - 00:00:24,080] $2 billion.
+- [00:00:24,480 - 00:00:24,880] $2 billion.
+- [00:00:25,000 - 00:00:26,340] But what if you have a bad month in business?
+- [00:00:26,340 - 00:00:29,840] I could never figure that out, and I haven't had a bad month ever
+- [00:00:29,840 - 00:00:33,340] since I put Juul cigarettes on the market and started doing $150 million a year.
+- [00:00:33,519 - 00:00:34,779] How can somebody become a
+- [00:00:34,779 - 00:00:36,040] multimillionaire like yourself in today's world?
+- [00:00:36,160 - 00:00:36,280] Listen.
+- [00:00:39,320 - 00:00:44,090] Hard Knocks family, it is 6.30 in the morning, and we are about to fly from
+- [00:00:44,090 - 00:00:48,860] Austin, Texas to Miami, Florida to go interview some of the wealthiest people in the entire city.
+- [00:00:49,019 - 00:00:50,749] Miami has 75% more millionaires now
+- [00:00:50,749 - 00:00:52,480] than it did a decade ago.
+- [00:00:52,480 - 00:00:54,400] So we're going to go find the hidden wealth in
+- [00:00:54,400 - 00:00:56,320] Miami and go figure out where these multimillionaires and billionaires are.
+- [00:00:56,340 - 00:00:58,840] So that way we can figure out how they got to where they were
+- [00:00:58,840 - 00:01:01,340] and how you can start your path to becoming financially free in today's world.
+- [00:01:01,340 - 00:01:02,840] So with that being said, let's head out
+- [00:01:02,840 - 00:01:04,340] to Miami and get this video on the way.
+- [00:01:15,340 - 00:01:18,840] All right, you guys, we just touched down in Miami, Florida, and we are at our first
+- [00:01:18,840 - 00:01:22,340] stop in the design district, home to some of the most expensive luxury stores in the city.
+- [00:01:22,340 - 00:01:23,840] So we're going to walk around, find some wealthy people,
+- [00:01:23,840 - 00:01:25,340] figure out how they created their wealth in the city.
+- [00:01:25,340 - 00:01:26,340] We're going to walk around.
+- [00:01:26,340 - 00:01:27,340] Looks like we got one right here.
+- [00:01:27,340 - 00:01:28,340] So come on, let's see.
+- [00:01:28,340 - 00:01:29,340] Excuse me, sir.
+- [00:01:29,340 - 00:01:30,340] Question for you.
+- [00:01:30,340 - 00:01:31,340] Have you ever been broke before?
+- [00:01:31,340 - 00:01:32,340] Real quick.
+- [00:01:32,340 - 00:01:33,340] No, I haven't.
+- [00:01:33,340 - 00:01:34,340] All right, my friend.
+- [00:01:34,340 - 00:01:35,340] All right.
+- [00:01:35,340 - 00:01:39,840] Hey, as you guys can see, since we're in Miami in the design district, like I said, this
+- [00:01:39,840 - 00:01:44,340] is home to some of the most successful people in the entire country, our base here in Miami.
+- [00:01:44,340 - 00:01:46,840] So all we can do is kind of keep tracking until we find these yeses and
+- [00:01:46,840 - 00:01:49,340] get some real game and real business advice from how these people created their wealth out here.
+- [00:01:49,340 - 00:01:50,340] Come on.
+- [00:01:50,340 - 00:01:51,340] Excuse me, sir.
+- [00:01:51,340 - 00:01:52,340] Question for you, sir.
+- [00:01:52,340 - 00:01:53,340] Have you ever been?
+- [00:01:53,340 - 00:01:54,340] No, thanks.
+- [00:01:54,340 - 00:01:55,340] No, thanks.
+- [00:01:55,340 - 00:01:56,340] No.
+- [00:01:56,340 - 00:01:57,340] Excuse me, sir.
+- [00:01:57,340 - 00:01:58,340] Excuse me, sir.
+- [00:01:58,340 - 00:01:59,340] Question for you.
+- [00:01:59,340 - 00:02:00,340] No, I know you.
+- [00:02:00,340 - 00:02:01,340] I know you.
+- [00:02:01,340 - 00:02:02,340] I know you.
+- [00:02:02,340 - 00:02:03,340] I'm not going to.
+- [00:02:03,340 - 00:02:04,340] I'll do it.
+- [00:02:04,340 - 00:02:05,340] I'll do it.
+- [00:02:05,340 - 00:02:06,340] I'll do it.
+- [00:02:06,340 - 00:02:07,340] I'll do it.
+- [00:02:07,340 - 00:02:08,340] No, no, no, no, no.
+- [00:02:08,340 - 00:02:09,340] You are not doing it.
+- [00:02:09,340 - 00:02:10,340] It's going to go on TikTok.
+- [00:02:10,340 - 00:02:11,340] Real quick.
+- [00:02:11,340 - 00:02:12,340] Real quick.
+- [00:02:12,340 - 00:02:13,340] I'll do it.
+- [00:02:13,340 - 00:02:14,340] I'll do it.
+- [00:02:14,340 - 00:02:15,340] No, no, honey.
+- [00:02:15,340 - 00:02:16,340] We cannot afford to do things like this.
+- [00:02:16,340 - 00:02:17,340] Excuse me, sir.
+- [00:02:17,340 - 00:02:18,340] Question for you.
+- [00:02:18,340 - 00:02:19,340] Have you ever been broke before?
+- [00:02:19,340 - 00:02:20,340] I know this one.
+- [00:02:20,340 - 00:02:21,340] I know this one.
+- [00:02:21,340 - 00:02:22,340] Real quick.
+- [00:02:22,340 - 00:02:23,340] I started a channel in Austin.
+- [00:02:23,340 - 00:02:24,340] I know.
+- [00:02:24,340 - 00:02:25,340] I know.
+- [00:02:25,340 - 00:02:26,340] I've seen it.
+- [00:02:26,340 - 00:02:27,340] You've seen it.
+- [00:02:27,340 - 00:02:28,340] I've seen it.
+- [00:02:28,340 - 00:02:29,340] Have you been broke before?
+- [00:02:29,340 - 00:02:30,340] Have you ever been broke before?
+- [00:02:30,340 - 00:02:31,340] What's your name?
+- [00:02:31,340 - 00:02:32,340] James.
+- [00:02:32,340 - 00:02:33,340] What are you guys?
+- [00:02:33,340 - 00:02:34,340] I started a channel.
+- [00:02:34,340 - 00:02:35,340] I grew it to 7 million followers in Austin, Texas.
+- [00:02:35,340 - 00:02:36,340] Okay.
+- [00:02:36,340 - 00:02:37,340] I'm totally rich.
+- [00:02:37,340 - 00:02:38,340] Relax.
+- [00:02:38,340 - 00:02:39,340] Real quick question for you.
+- [00:02:39,340 - 00:02:40,340] What line of business were you in?
+- [00:02:40,340 - 00:02:41,340] Money laundering.
+- [00:02:41,340 - 00:02:42,340] Actually, though.
+- [00:02:42,340 - 00:02:43,340] I don't want to get into it.
+- [00:02:43,340 - 00:02:44,340] Okay, one question.
+- [00:02:44,340 - 00:02:45,340] Yes.
+- [00:02:45,340 - 00:02:46,340] That's it.
+- [00:02:46,340 - 00:02:46,840] In 60 seconds, somebody wants to become financially
+- [00:02:46,840 - 00:02:47,340] free in today's world, give them the blueprint.
+- [00:02:47,340 - 00:02:47,970] What does it take to become successful
+- [00:02:47,970 - 00:02:48,600] like yourself in the business world today?
+- [00:02:48,600 - 00:02:49,600] Psychology.
+- [00:02:49,600 - 00:02:50,600] Understand human nature.
+- [00:02:50,600 - 00:02:51,600] And don't push people.
+- [00:02:51,600 - 00:02:53,180] But when it comes to sales, though,
+- [00:02:53,180 - 00:02:54,760] how do you leverage psychology in sales?
+- [00:02:54,760 - 00:02:56,260] How do you leverage psychology in sales?
+- [00:02:56,260 - 00:02:57,820] I'm just really fucking smart.
+- [00:02:57,820 - 00:02:58,820] Are you old money or new money?
+- [00:02:58,820 - 00:02:59,820] I did it myself.
+- [00:02:59,820 - 00:03:00,820] Could I walk with you?
+- [00:03:00,820 - 00:03:01,820] Huh?
+- [00:03:01,820 - 00:03:02,820] Could I walk with you real quick?
+- [00:03:02,820 - 00:03:03,910] In your opinion, what was the hardest skill
+- [00:03:03,910 - 00:03:05,000] for you to master in the business world?
+- [00:03:05,000 - 00:03:06,000] Waking up.
+- [00:03:06,000 - 00:03:07,000] What do you mean by that?
+- [00:03:07,000 - 00:03:08,280] I don't like to wake up in the morning.
+- [00:03:08,280 - 00:03:09,660] In terms of delegation, how important was
+- [00:03:09,660 - 00:03:11,040] it for you learning how to master delegation,
+- [00:03:11,040 - 00:03:12,579] building teams, and bringing the right people in?
+- [00:03:12,579 - 00:03:13,579] It's impossible.
+- [00:03:13,579 - 00:03:14,579] I do everything myself.
+- [00:03:14,579 - 00:03:15,769] What was the best financial advice
+- [00:03:15,769 - 00:03:16,959] you ever got from a mentor?
+- [00:03:16,959 - 00:03:17,959] Take the money.
+- [00:03:17,959 - 00:03:19,040] Don't keep putting it back in.
+- [00:03:19,040 - 00:03:20,040] Why is that?
+- [00:03:20,040 - 00:03:21,040] Because you keep spending your money.
+- [00:03:21,040 - 00:03:22,700] But what if you have a bad month in business?
+- [00:03:22,700 - 00:03:24,760] I could never figure that out, and I haven't
+- [00:03:24,760 - 00:03:26,820] had a bad month ever since I put Juul cigarettes
+- [00:03:26,820 - 00:03:29,839] on the market and started doing $150 million a year.
+- [00:03:29,839 - 00:03:30,839] You do $150 million a year?
+- [00:03:30,839 - 00:03:31,839] $170 million.
+- [00:03:31,839 - 00:03:33,920] I work with Tyson, Future, everybody.
+- [00:03:33,920 - 00:03:34,879] How did you scale from an
+- [00:03:34,879 - 00:03:35,839] eight to a nine figure company?
+- [00:03:35,839 - 00:03:36,839] That's incredible.
+- [00:03:36,839 - 00:03:39,679] When opportunity meets preparation, you have luck.
+- [00:03:39,679 - 00:03:41,239] What was your risk tolerance as a business owner?
+- [00:03:41,239 - 00:03:42,459] I just go for it.
+- [00:03:42,459 - 00:03:43,459] Yeah?
+- [00:03:43,459 - 00:03:44,599] Did you have to borrow money from
+- [00:03:44,599 - 00:03:45,739] banks or leverage any capital from investors?
+- [00:03:45,739 - 00:03:46,739] How did you get the money?
+- [00:03:46,739 - 00:03:47,739] I did it myself.
+- [00:03:47,739 - 00:03:48,739] Now I borrow money from banks.
+- [00:03:48,739 - 00:03:49,739] They're begging to give me money.
+- [00:03:49,739 - 00:03:51,700] At 8%, they'll do anything to give me money.
+- [00:03:51,700 - 00:03:52,700] What's your name, sir?
+- [00:03:52,700 - 00:03:53,700] Johnny.
+- [00:03:53,700 - 00:03:54,700] I appreciate you.
+- [00:03:54,700 - 00:03:55,700] What do I see this on?
+- [00:03:55,700 - 00:03:56,700] The School of Hard Knocks, all platforms.
+- [00:03:56,700 - 00:03:58,019] We do 120 million views a month.
+- [00:03:58,019 - 00:03:59,579] Real quick, one more for you, real quick.
+- [00:03:59,579 - 00:04:00,579] How old are you now?
+- [00:04:02,579 - 00:04:03,499] With everything you've learned, one message
+- [00:04:03,499 - 00:04:04,420] to the younger generation today that could
+- [00:04:04,420 - 00:04:06,820] help them start that path and that learning curve?
+- [00:04:06,820 - 00:04:07,820] I can't.
+- [00:04:07,820 - 00:04:08,919] I just had to go through what
+- [00:04:08,919 - 00:04:10,019] I had to go through to get here.
+- [00:04:10,019 - 00:04:11,019] I had to just do it.
+- [00:04:11,019 - 00:04:12,019] I had to do it,
+- [00:04:12,019 - 00:04:13,019] make mistakes, do it, make mistakes.
+- [00:04:13,019 - 00:04:14,600] But I learned, and I'm smart.
+- [00:04:14,600 - 00:04:16,459] Were you close to bankruptcy at any point in time?
+- [00:04:16,459 - 00:04:17,459] Twice.
+- [00:04:17,459 - 00:04:18,459] How'd you break that and overcome that?
+- [00:04:18,459 - 00:04:19,579] I started over again, a
+- [00:04:19,579 - 00:04:20,700] chunk of a car at 40.
+- [00:04:20,700 - 00:04:21,700] Incredible.
+- [00:04:21,700 - 00:04:22,700] Thank you for your time, sir.
+- [00:04:22,700 - 00:04:23,700] You're welcome.
+- [00:04:23,700 - 00:04:24,700] All right, you guys.
+- [00:04:24,700 - 00:04:26,410] That's got to be one of the
+- [00:04:26,410 - 00:04:28,120] wildest interactions I've ever had running this channel.
+- [00:04:28,120 - 00:04:30,030] That's that $150 million entrepreneur we just
+- [00:04:30,030 - 00:04:31,940] caught out here in Miami, Florida, and he
+- [00:04:31,940 - 00:04:34,080] just gave us some straight game for you guys.
+- [00:04:34,080 - 00:04:36,099] Crazy interview to get this video rolling.
+- [00:04:36,099 - 00:04:37,099] We got to keep it rolling.
+- [00:04:37,099 - 00:04:38,099] Go get this next one.
+- [00:04:38,099 - 00:04:39,099] Come on, you guys.
+- [00:04:39,099 - 00:04:40,099] Excuse me, sir.
+- [00:04:40,099 - 00:04:41,840] Sir, question for you.
+- [00:04:41,840 - 00:04:43,020] Have you ever been broke before?
+- [00:04:43,020 - 00:04:44,020] No.
+- [00:04:44,020 - 00:04:45,020] No?
+- [00:04:45,020 - 00:04:46,020] Bro, I started the channel in Austin.
+- [00:04:46,020 - 00:04:47,020] I grew up to 7 million followers.
+- [00:04:47,020 - 00:04:48,020] I interview business owners all over the country.
+- [00:04:48,020 - 00:04:49,020] Can I get just one
+- [00:04:49,020 - 00:04:50,020] minute of your time real quick?
+- [00:04:50,020 - 00:04:51,020] Please?
+- [00:04:51,020 - 00:04:52,020] It'll be worth it.
+- [00:04:52,020 - 00:04:52,520] I promise you.
+- [00:04:52,520 - 00:04:52,700] Question for you.
+- [00:04:52,700 - 00:04:53,700] Oh, I know you.
+- [00:04:53,700 - 00:04:54,700] Could I interview you real quick?
+- [00:04:54,700 - 00:04:55,700] Real quick.
+- [00:04:55,700 - 00:04:56,700] One minute.
+- [00:04:56,700 - 00:04:57,700] I'm about to walk into a meeting.
+- [00:04:57,700 - 00:04:58,700] One minute.
+- [00:04:58,700 - 00:04:59,700] Please.
+- [00:04:59,700 - 00:05:00,700] I've got a huge fan of yours.
+- [00:05:00,700 - 00:05:01,700] It'll be worth it.
+- [00:05:01,700 - 00:05:02,700] Trust me.
+- [00:05:02,700 - 00:05:03,700] One minute.
+- [00:05:03,700 - 00:05:04,700] Awesome, man.
+- [00:05:04,700 - 00:05:05,700] Thank you, bro.
+- [00:05:05,700 - 00:05:06,700] I appreciate that.
+- [00:05:06,700 - 00:05:07,700] All right, you guys.
+- [00:05:07,700 - 00:05:08,700] So yesterday was not easy, man.
+- [00:05:08,700 - 00:05:09,950] We got the one interview, but like I
+- [00:05:09,950 - 00:05:11,200] said, man, these are super high net worth individuals.
+- [00:05:11,200 - 00:05:12,900] We just tried to get that one right there.
+- [00:05:12,900 - 00:05:14,260] He likes the channel, but what is he doing?
+- [00:05:14,260 - 00:05:16,419] He's going into a meeting on a Saturday right now.
+- [00:05:16,419 - 00:05:18,209] We just got to keep up the pressure
+- [00:05:18,209 - 00:05:20,000] and go find where these multimillionaires and billionaires
+- [00:05:20,000 - 00:05:21,520] are out here in Miami, Florida.
+- [00:05:21,520 - 00:05:22,520] So come with me.
+- [00:05:22,520 - 00:05:23,520] We're going to tag these interviews.
+- [00:05:23,520 - 00:05:24,520] Come on.
+- [00:05:24,520 - 00:05:25,520] Is this your Rolls Royce?
+- [00:05:25,520 - 00:05:26,520] Yes.
+- [00:05:26,520 - 00:05:28,119] And what do you do for
+- [00:05:28,119 - 00:05:29,719] a living out here in Miami?
+- [00:05:29,719 - 00:05:31,080] I own Poppy Steak.
+- [00:05:31,080 - 00:05:32,080] So you own a restaurant.
+- [00:05:32,080 - 00:05:33,640] How long have you been- Best restaurant in the world.
+- [00:05:33,640 - 00:05:34,640] Haven't you heard of Poppy Steak?
+- [00:05:34,640 - 00:05:36,840] How long have you been in the restaurant business for?
+- [00:05:36,840 - 00:05:37,840] About five years.
+- [00:05:37,840 - 00:05:38,840] Five years.
+- [00:05:38,840 - 00:05:39,840] Yeah.
+- [00:05:39,840 - 00:05:40,340] And what's the biggest you've had
+- [00:05:40,340 - 00:05:40,840] so far in terms of revenue?
+- [00:05:40,840 - 00:05:41,840] What's the most you've made in a year?
+- [00:05:41,840 - 00:05:43,840] We made a lot during the COVID years.
+- [00:05:43,840 - 00:05:44,840] Florida's been good to us.
+- [00:05:44,840 - 00:05:45,840] Yeah.
+- [00:05:45,840 - 00:05:46,840] And then thank God, business is booming.
+- [00:05:46,840 - 00:05:47,840] Give me your range.
+- [00:05:47,840 - 00:05:48,840] We just keep going up
+- [00:05:48,840 - 00:05:49,840] and up and up and up.
+- [00:05:49,840 - 00:05:51,340] What's the biggest year you had at your restaurant?
+- [00:05:53,340 - 00:05:54,340] What'd you do in revenue?
+- [00:05:54,340 - 00:05:55,340] We don't like to say numbers, but a lot.
+- [00:05:55,340 - 00:05:56,340] A lot of money.
+- [00:05:56,340 - 00:05:57,340] Yeah.
+- [00:05:57,340 - 00:05:58,340] Enough.
+- [00:05:58,340 - 00:05:59,340] Enough to get this car.
+- [00:05:59,340 - 00:06:00,340] Yeah.
+- [00:06:00,340 - 00:06:01,340] You can see for yourself.
+- [00:06:01,340 - 00:06:02,340] Just keep driving, bro.
+- [00:06:02,340 - 00:06:03,340] Keep driving.
+- [00:06:03,340 - 00:06:04,090] So how did you scale to
+- [00:06:04,090 - 00:06:04,840] multiple locations and overall just the business?
+- [00:06:04,840 - 00:06:06,819] You got to always give the
+- [00:06:06,819 - 00:06:08,799] best service, best hospitality, the best team.
+- [00:06:08,799 - 00:06:10,200] You got to have the best team behind you.
+- [00:06:10,200 - 00:06:11,520] You got to put a lot of love
+- [00:06:11,520 - 00:06:12,840] into it and a lot of hard work.
+- [00:06:12,840 - 00:06:13,840] Yeah.
+- [00:06:13,840 - 00:06:14,840] Now when it comes to networking, a
+- [00:06:14,840 - 00:06:15,840] lot of people struggle to build relationships, build
+- [00:06:15,840 - 00:06:16,840] connections in the business world.
+- [00:06:16,840 - 00:06:18,580] You're in the hospitality, you're in the people business.
+- [00:06:18,580 - 00:06:20,159] What does it take to build
+- [00:06:20,159 - 00:06:21,739] winning relationships in the business world?
+- [00:06:21,740 - 00:06:23,890] You got to constantly stay honest, be honest
+- [00:06:23,890 - 00:06:26,040] with all your friends, be honest with all
+- [00:06:26,040 - 00:06:27,880] your investors and just keep
+- [00:06:27,880 - 00:06:29,720] printing money and make success.
+- [00:06:29,720 - 00:06:30,560] So how did you get
+- [00:06:30,560 - 00:06:31,400] the money to start this business?
+- [00:06:31,400 - 00:06:32,990] Did you have to borrow capital from banks
+- [00:06:32,990 - 00:06:34,580] or investors or how did you ultimately get
+- [00:06:34,580 - 00:06:35,580] the money?
+- [00:06:35,580 - 00:06:36,580] It's always like that.
+- [00:06:36,580 - 00:06:37,960] You know, in business you need friends,
+- [00:06:37,960 - 00:06:39,340] you need relationships, you need partners, but
+- [00:06:39,340 - 00:06:41,360] you got to stay true and loyal to your partner.
+- [00:06:41,360 - 00:06:42,780] And have you ever been broke before?
+- [00:06:42,780 - 00:06:43,780] Of course.
+- [00:06:43,780 - 00:06:44,780] What the fuck does that mean?
+- [00:06:44,780 - 00:06:45,780] So you don't-
+- [00:06:45,780 - 00:06:46,780] I'm self-made.
+- [00:06:46,780 - 00:06:48,720] I worked very hard to get to where I am.
+- [00:06:48,720 - 00:06:49,720] So what was the turning point?
+- [00:06:49,720 - 00:06:50,720] Many times.
+- [00:06:50,720 - 00:06:51,720] So what was the turning point to financial freedom?
+- [00:06:51,720 - 00:06:53,020] Like, what did you see that made you
+- [00:06:53,020 - 00:06:54,320] want to stand out and go create a multimillion
+- [00:06:54,320 - 00:06:55,320] dollar business?
+- [00:06:55,320 - 00:06:56,320] It's never, never ending.
+- [00:06:56,320 - 00:06:57,320] There's never financial freedom.
+- [00:06:57,320 - 00:06:59,180] You always got to work harder and you
+- [00:06:59,180 - 00:07:01,040] always got to thrive to get more and more.
+- [00:07:01,040 - 00:07:02,400] And your last message to somebody
+- [00:07:02,400 - 00:07:03,760] trying to become a multimillionaire in today's
+- [00:07:03,760 - 00:07:04,760] world?
+- [00:07:04,760 - 00:07:06,620] You got to stay true to your brand
+- [00:07:06,620 - 00:07:08,480] and believe in yourself and work very hard.
+- [00:07:08,480 - 00:07:09,480] Do you believe in God?
+- [00:07:09,480 - 00:07:10,480] Of course.
+- [00:07:10,480 - 00:07:11,480] And how important was faith for you?
+- [00:07:11,480 - 00:07:12,480] Very important.
+- [00:07:12,480 - 00:07:13,480] All these things are very important.
+- [00:07:13,480 - 00:07:14,480] Thank you, my friend.
+- [00:07:14,480 - 00:07:15,480] Have a great day.
+- [00:07:15,480 - 00:07:16,480] Have a great day, sir.
+- [00:07:16,480 - 00:07:17,480] Thank you.
+- [00:07:17,480 - 00:07:18,660] Hey, yo, we just interviewed, I think his
+- [00:07:18,660 - 00:07:19,840] name is David, but he's the owner of Poppy
+- [00:07:19,840 - 00:07:20,840] Steak.
+- [00:07:20,840 - 00:07:21,720] One of the largest steak houses in the area.
+- [00:07:21,720 - 00:07:23,100] He's the owner of the entire country.
+- [00:07:23,100 - 00:07:24,630] We just held up traffic for, I
+- [00:07:24,630 - 00:07:26,160] don't know, at least three to five minutes.
+- [00:07:26,160 - 00:07:27,880] Never sleep on Miami, you guys.
+- [00:07:27,880 - 00:07:28,880] Great interview.
+- [00:07:28,880 - 00:07:29,880] Let's keep the video rolling, man.
+- [00:07:29,880 - 00:07:30,880] Shout out Miami.
+- [00:07:30,880 - 00:07:31,880] Let's go.
+- [00:07:31,880 - 00:07:32,880] Excuse me, sir.
+- [00:07:32,880 - 00:07:33,880] Sir, question for you.
+- [00:07:33,880 - 00:07:34,880] Have you ever been...
+- [00:07:34,880 - 00:07:35,880] Oh my God.
+- [00:07:35,880 - 00:07:36,880] I've seen your shit.
+- [00:07:36,880 - 00:07:37,880] Yeah?
+- [00:07:37,880 - 00:07:38,880] That's crazy.
+- [00:07:38,880 - 00:07:39,880] Could I interview you real quick?
+- [00:07:39,880 - 00:07:40,880] I don't know.
+- [00:07:40,880 - 00:07:41,880] I don't know if I want to answer your questions.
+- [00:07:41,880 - 00:07:42,880] Yeah?
+- [00:07:42,880 - 00:07:43,880] What made you pick me out?
+- [00:07:43,880 - 00:07:44,880] Man, you just had to look.
+- [00:07:44,880 - 00:07:45,880] You just, you looked like you got money, bro.
+- [00:07:45,880 - 00:07:46,880] This is crazy.
+- [00:07:46,880 - 00:07:47,880] Are you filming this shit?
+- [00:07:47,880 - 00:07:48,880] Yeah.
+- [00:07:48,880 - 00:07:49,880] This is crazy.
+- [00:07:49,880 - 00:07:50,880] Are you filming this shit?
+- [00:07:50,880 - 00:07:51,380] Yeah.
+- [00:07:51,720 - 00:07:54,310] This guy at my gym comes up to
+- [00:07:54,310 - 00:07:56,900] me, David Genicello, yesterday and says to me, you've
+- [00:07:56,900 - 00:07:57,900] got to watch this guy.
+- [00:07:57,900 - 00:07:58,900] And I said, I watch him all the time.
+- [00:07:58,900 - 00:07:59,900] Wow.
+- [00:07:59,900 - 00:08:00,900] But I never thought I'd get interviewed.
+- [00:08:00,900 - 00:08:01,900] That's insane.
+- [00:08:01,900 - 00:08:02,900] Yeah.
+- [00:08:02,900 - 00:08:03,400] Well, I guess like what
+- [00:08:03,400 - 00:08:03,900] line of business are you in?
+- [00:08:03,900 - 00:08:05,220] I set up gyms around the world.
+- [00:08:05,220 - 00:08:06,900] I sell gym equipment around the world.
+- [00:08:06,900 - 00:08:08,900] So you have a, you're an entrepreneur.
+- [00:08:08,900 - 00:08:09,900] I'm an entrepreneur.
+- [00:08:09,900 - 00:08:10,900] How long have you been a business owner for?
+- [00:08:10,900 - 00:08:11,900] 18 years.
+- [00:08:11,900 - 00:08:13,330] And over these 18 years, what's
+- [00:08:13,330 - 00:08:14,760] the greatest lesson you've learned about entrepreneurship
+- [00:08:14,760 - 00:08:16,210] you pass off to someone about to
+- [00:08:16,210 - 00:08:17,660] start their first company in today's world?
+- [00:08:17,660 - 00:08:18,660] Believe in yourself.
+- [00:08:18,660 - 00:08:19,660] Always.
+- [00:08:19,660 - 00:08:20,370] How did you find that self-belief
+- [00:08:20,370 - 00:08:21,080] to go make millions of dollars?
+- [00:08:21,080 - 00:08:21,700] It's one of the biggest things.
+- [00:08:21,720 - 00:08:22,720] People struggle with.
+- [00:08:22,720 - 00:08:25,180] I think I had this burning desire inside of
+- [00:08:25,180 - 00:08:27,640] me from a young boy, but every time I was
+- [00:08:27,640 - 00:08:30,480] told no, I continued to push through.
+- [00:08:30,480 - 00:08:32,480] And the more people that talk shit about me,
+- [00:08:32,480 - 00:08:34,480] the more that made me even like, like it gets
+- [00:08:34,480 - 00:08:36,320] me emotional even thinking about it because I
+- [00:08:36,320 - 00:08:38,159] was one of them that like, you count me
+- [00:08:38,159 - 00:08:39,159] out.
+- [00:08:39,159 - 00:08:40,440] I'm going to do it point blank period.
+- [00:08:40,440 - 00:08:42,280] And so I just kept going and going and going.
+- [00:08:42,280 - 00:08:43,330] And I never in a million years
+- [00:08:43,330 - 00:08:44,380] thought I'd be where I'm at today.
+- [00:08:44,380 - 00:08:45,840] So you don't come from a lot of money.
+- [00:08:45,840 - 00:08:46,840] No, no.
+- [00:08:46,840 - 00:08:49,160] My dad's, uh, um, comes from
+- [00:08:49,160 - 00:08:51,480] Athens, Greece, uh, immigrant come from nothing.
+- [00:08:51,480 - 00:08:53,580] And then raised me to be who I am today.
+- [00:08:53,580 - 00:08:55,540] But you never took no for an answer.
+- [00:08:55,540 - 00:08:57,780] Did like when I say never took no, like
+- [00:08:57,780 - 00:09:00,020] 15 years ago, me and her were robbing Peter to
+- [00:09:00,020 - 00:09:02,660] pay Paul like eating peanut butter and jelly sandwiches.
+- [00:09:02,660 - 00:09:05,580] I'm trying to be on Mr. Olympia stage
+- [00:09:05,580 - 00:09:08,500] bodybuilder and fucking like, you know, kept going, literally
+- [00:09:08,500 - 00:09:10,200] taking cash to pay the electric bill.
+- [00:09:10,200 - 00:09:11,520] And then, you know, kept grinding.
+- [00:09:11,520 - 00:09:13,470] I used to run 400 ads literally
+- [00:09:13,470 - 00:09:15,420] a week on Craigslist to sell my equipment.
+- [00:09:15,420 - 00:09:16,420] Nobody knew who I was.
+- [00:09:16,420 - 00:09:18,630] And then 2015 hit a hundred thousand followers
+- [00:09:18,630 - 00:09:20,840] on Facebook and then just kept grinding, bro.
+- [00:09:20,840 - 00:09:21,340] Yeah.
+- [00:09:21,480 - 00:09:22,590] So out of 10 businesses, they
+- [00:09:22,590 - 00:09:23,700] won't make it past five years.
+- [00:09:23,700 - 00:09:25,210] From your perspective, what's the most common
+- [00:09:25,210 - 00:09:26,720] mistake you see business owners make in today's
+- [00:09:26,720 - 00:09:27,720] world?
+- [00:09:27,720 - 00:09:29,040] So it's funny in the gym world, about three,
+- [00:09:29,040 - 00:09:30,360] three out of 10 is going to make it.
+- [00:09:30,360 - 00:09:32,260] And so what I normally see them do
+- [00:09:32,260 - 00:09:34,160] is they fail before they even get open.
+- [00:09:34,160 - 00:09:35,620] Meaning they've got half a
+- [00:09:35,620 - 00:09:37,080] million dollars to open this gym.
+- [00:09:37,080 - 00:09:38,590] They want to go come to me
+- [00:09:38,590 - 00:09:40,100] and spend three, four or 500,000 on equipment.
+- [00:09:40,100 - 00:09:41,750] I say, Whoa, they went into the
+- [00:09:41,750 - 00:09:43,400] high dollar district like we're at right now.
+- [00:09:43,400 - 00:09:44,800] And they say their rent's
+- [00:09:44,800 - 00:09:46,200] $38,000 a month for a gym.
+- [00:09:46,200 - 00:09:48,080] They have no money in the bank to back them.
+- [00:09:48,080 - 00:09:49,620] They're setting themselves up for
+- [00:09:49,620 - 00:09:51,160] failure from the very get go.
+- [00:09:51,160 - 00:09:52,160] Before they even open.
+- [00:09:52,160 - 00:09:53,780] So I always tell them, I sit down with
+- [00:09:53,780 - 00:09:55,400] them and I say, okay, what budget are we working
+- [00:09:55,400 - 00:09:56,400] with?
+- [00:09:56,400 - 00:09:57,400] What is your rent?
+- [00:09:57,400 - 00:09:58,400] What is your paywall?
+- [00:09:58,400 - 00:09:59,720] Are you going to put into hours or are you
+- [00:09:59,720 - 00:10:01,040] trying to pawn it off and pay somebody a hundred
+- [00:10:01,040 - 00:10:02,040] grand a year?
+- [00:10:02,040 - 00:10:03,900] If you're not willing to put in the work,
+- [00:10:03,900 - 00:10:05,760] it is no businesses that get rich quick point
+- [00:10:05,760 - 00:10:06,760] blank period.
+- [00:10:06,760 - 00:10:08,669] So I always tell people, I'm like, if you
+- [00:10:08,669 - 00:10:10,579] want to put into work, you can make it, but
+- [00:10:10,579 - 00:10:11,789] you got to be able
+- [00:10:11,789 - 00:10:13,000] to fucking sleep at the business.
+- [00:10:13,000 - 00:10:14,319] I appreciate you, my friend.
+- [00:10:14,319 - 00:10:15,319] You got amazing advice.
+- [00:10:15,319 - 00:10:16,319] Pleasure.
+- [00:10:16,319 - 00:10:18,660] Arch, you guys, Miami has been insane so far.
+- [00:10:18,660 - 00:10:19,959] We're back out here for day three.
+- [00:10:19,959 - 00:10:20,959] Headed to go get our next interview.
+- [00:10:21,160 - 00:10:22,850] But I want to take a quick moment to
+- [00:10:22,850 - 00:10:24,540] talk to you about one of the greatest things I've
+- [00:10:24,540 - 00:10:25,939] learned running this channel.
+- [00:10:25,939 - 00:10:28,359] 45% of millionaires in the United States
+- [00:10:28,359 - 00:10:30,780] have a side hustle where they're making additional
+- [00:10:30,780 - 00:10:31,780] money.
+- [00:10:31,780 - 00:10:33,390] That's why I want to talk about
+- [00:10:33,390 - 00:10:35,000] the sponsor of today's video prize picks.
+- [00:10:35,000 - 00:10:36,830] Whether you're working a nine to five or
+- [00:10:36,830 - 00:10:38,660] running your own business, prize picks gives you the
+- [00:10:38,660 - 00:10:40,160] ability to make some extra money
+- [00:10:40,160 - 00:10:41,660] while you're already on the grind.
+- [00:10:41,660 - 00:10:43,830] If you're like me and have a passion
+- [00:10:43,830 - 00:10:46,000] for sports and play fantasy football every single year,
+- [00:10:46,000 - 00:10:47,390] you might as well learn how
+- [00:10:47,390 - 00:10:48,780] to turn that passion into profit.
+- [00:10:48,780 - 00:10:50,319] That's why with prize picks.
+- [00:10:50,319 - 00:10:51,160] All you need to do.
+- [00:10:51,160 - 00:10:53,170] Is pick two or more football players every
+- [00:10:53,170 - 00:10:55,180] week and pick more or less on their projected
+- [00:10:55,180 - 00:10:56,180] stats.
+- [00:10:56,180 - 00:10:57,480] Then you just have to place your entry.
+- [00:10:57,480 - 00:10:59,140] You're already spending the time
+- [00:10:59,140 - 00:11:00,800] watching and studying football for fantasy.
+- [00:11:00,800 - 00:11:02,170] So you may as well transfer some
+- [00:11:02,170 - 00:11:03,540] of that knowledge to make some extra money.
+- [00:11:03,540 - 00:11:06,340] And if you can make the right decisions, you
+- [00:11:06,340 - 00:11:09,140] have the ability to turn $10 into a thousand
+- [00:11:09,140 - 00:11:11,160] with just a few taps from your phone.
+- [00:11:11,160 - 00:11:13,470] So to join me and sign up for prize picks
+- [00:11:13,470 - 00:11:15,780] today, all you need to do is go to prizepicks.com
+- [00:11:15,780 - 00:11:17,780] slash S O H K and use code
+- [00:11:17,780 - 00:11:19,780] S O H K for a guaranteed $50.
+- [00:11:19,780 - 00:11:20,780] That's it.
+- [00:11:20,780 - 00:11:24,510] Once you play $5 in lineups, once again, go
+- [00:11:24,510 - 00:11:28,240] to prizepicks.com slash S O H K use code S
+- [00:11:28,240 - 00:11:30,780] O H K for a guaranteed $50.
+- [00:11:30,780 - 00:11:32,720] Once you play $5 in lineups with all that
+- [00:11:32,720 - 00:11:34,660] being said, go tap in with prize picks right
+- [00:11:34,660 - 00:11:35,730] now, but let's go ahead to
+- [00:11:35,730 - 00:11:36,800] our next destination out here in Miami.
+- [00:11:36,800 - 00:11:37,800] Come on.
+- [00:11:37,800 - 00:11:39,600] I've got a very special surprise for you guys.
+- [00:11:39,600 - 00:11:41,819] We're about to interview Anthony Powell.
+- [00:11:41,819 - 00:11:45,319] He's done over $2 billion in sales throughout his career.
+- [00:11:45,319 - 00:11:47,059] We're linking up with him at the Porsche
+- [00:11:47,059 - 00:11:48,800] design tower where he just got a new penthouse.
+- [00:11:48,800 - 00:11:50,699] This is one of the top five.
+- [00:11:50,700 - 00:11:52,160] With these buildings in the world, there's
+- [00:11:52,160 - 00:11:53,620] over 20 billionaires that live here and he's
+- [00:11:53,620 - 00:11:55,520] about to drop some serious game for you guys.
+- [00:11:55,520 - 00:11:57,310] So with that being said, let's go link up
+- [00:11:57,310 - 00:11:59,100] with Anthony and see what he has to say.
+- [00:11:59,100 - 00:12:00,460] Anthony, what's going on my friend?
+- [00:12:00,460 - 00:12:01,460] Hey buddy, how you doing?
+- [00:12:01,460 - 00:12:02,460] Good to see you.
+- [00:12:02,460 - 00:12:03,460] Good to see you as well.
+- [00:12:03,460 - 00:12:05,180] What industry did you decide to pursue a career in?
+- [00:12:05,180 - 00:12:07,260] I started in direct sales
+- [00:12:07,260 - 00:12:09,340] and contact management and lead distribution.
+- [00:12:09,340 - 00:12:10,340] Are you a business owner?
+- [00:12:10,340 - 00:12:11,340] Yes, I am.
+- [00:12:11,340 - 00:12:12,880] How long have you been an entrepreneur for?
+- [00:12:12,880 - 00:12:13,880] 25 years.
+- [00:12:13,880 - 00:12:15,170] Throughout your career, what has been the
+- [00:12:15,170 - 00:12:16,460] most amount of money that you've ever made
+- [00:12:16,460 - 00:12:17,460] in a single year?
+- [00:12:17,460 - 00:12:18,700] In business, I've done over $2 billion.
+- [00:12:18,700 - 00:12:19,700] $2 billion.
+- [00:12:19,700 - 00:12:20,700] $2 billion.
+- [00:12:20,700 - 00:12:22,300] What's your secret to selling in a competitive industry?
+- [00:12:22,300 - 00:12:23,760] Well, everyone knows McDonald's.
+- [00:12:23,760 - 00:12:25,320] Why is McDonald's successful?
+- [00:12:25,320 - 00:12:27,380] Because they have a systematic approach to their business.
+- [00:12:27,380 - 00:12:29,250] And number two, the system's so good that
+- [00:12:29,250 - 00:12:31,120] a 15 year old can run the business.
+- [00:12:31,120 - 00:12:33,140] I created that with digital products.
+- [00:12:33,140 - 00:12:35,480] I have a system that's so
+- [00:12:35,480 - 00:12:37,820] watertight with contact management, lead distribution, and
+- [00:12:37,820 - 00:12:39,690] LMS, no matter what product or
+- [00:12:39,690 - 00:12:41,560] service I put in, I just win.
+- [00:12:41,560 - 00:12:42,560] It's the system.
+- [00:12:42,560 - 00:12:43,870] You have to have a
+- [00:12:43,870 - 00:12:45,180] system if you want to win.
+- [00:12:45,180 - 00:12:46,180] They're a formula.
+- [00:12:46,180 - 00:12:47,500] Yeah, you got to have a system.
+- [00:12:47,500 - 00:12:49,620] I'm a master system creator.
+- [00:12:49,620 - 00:12:50,620] And I know.
+- [00:12:50,620 - 00:12:51,940] I just launched another business.
+- [00:12:51,940 - 00:12:52,940] Guess what?
+- [00:12:52,940 - 00:12:53,940] We launched it back in November.
+- [00:12:53,940 - 00:12:54,940] Boom.
+- [00:12:54,940 - 00:12:55,940] It's like this.
+- [00:12:55,940 - 00:12:56,940] Why?
+- [00:12:56,940 - 00:12:57,940] The system.
+- [00:12:57,940 - 00:12:58,760] What is the best financial decision
+- [00:12:58,760 - 00:12:59,580] somebody can make in today's world?
+- [00:12:59,580 - 00:13:01,760] Number one, find a vehicle that make lots of money.
+- [00:13:01,760 - 00:13:02,800] That's called earned income.
+- [00:13:02,800 - 00:13:04,860] Number two, don't spend your earned income.
+- [00:13:04,860 - 00:13:05,860] Invest it in assets.
+- [00:13:05,860 - 00:13:07,640] But everyone goes, okay, I've heard this 100 times.
+- [00:13:07,640 - 00:13:08,640] What do I do?
+- [00:13:08,640 - 00:13:09,640] Where do I put my first 10 grand, 20 grand?
+- [00:13:09,640 - 00:13:11,420] What do I do to compound cash?
+- [00:13:11,420 - 00:13:13,180] You got to get an S&P ETF.
+- [00:13:13,180 - 00:13:15,760] The S&P has outproduced everything over the years.
+- [00:13:15,760 - 00:13:18,160] For example, this year, it's already up 17%.
+- [00:13:18,160 - 00:13:19,499] That means if you had
+- [00:13:19,499 - 00:13:20,839] 100 grand, you're already up 17,000.
+- [00:13:20,839 - 00:13:23,339] You put 500, 1,000, 250, whatever you can
+- [00:13:23,339 - 00:13:25,839] afford every single month, you put it into
+- [00:13:25,839 - 00:13:28,479] an S&P ETF and let it grow and work
+- [00:13:28,479 - 00:13:31,120] your ass off in your vehicle and your business.
+- [00:13:31,120 - 00:13:32,960] Number three, once you get to a certain
+- [00:13:32,960 - 00:13:34,800] point and you have money compounding, start investing
+- [00:13:34,800 - 00:13:35,800] in multifamily.
+- [00:13:35,800 - 00:13:37,230] You know, one thing I did when I
+- [00:13:37,230 - 00:13:38,660] was broke, I needed my rent paid for.
+- [00:13:38,660 - 00:13:40,140] So I went and bought an 8-plex.
+- [00:13:40,140 - 00:13:41,630] The bank will lend you because
+- [00:13:41,630 - 00:13:43,120] you're not, it's not a personal residence.
+- [00:13:43,120 - 00:13:44,620] They want to see cash flow.
+- [00:13:44,620 - 00:13:47,480] Does those eight residential units pay the debt load?
+- [00:13:47,480 - 00:13:47,980] Yeah.
+- [00:13:48,160 - 00:13:49,160] The answer is yes.
+- [00:13:49,160 - 00:13:51,199] So therefore, those seven people paid the debt load.
+- [00:13:51,199 - 00:13:52,199] I got it for free.
+- [00:13:52,199 - 00:13:53,459] I was able to increase the
+- [00:13:53,459 - 00:13:54,719] value, sell it, and double the money.
+- [00:13:54,719 - 00:13:56,959] And when your passive residual income kicks off
+- [00:13:56,959 - 00:13:59,199] what you want as far as your goals and
+- [00:13:59,199 - 00:14:01,159] dreams, now you can start spending your money
+- [00:14:01,159 - 00:14:03,120] on Lambos and houses and Porsche Towers and
+- [00:14:03,120 - 00:14:04,120] all the fun stuff.
+- [00:14:04,120 - 00:14:05,219] I don't spend earned income.
+- [00:14:05,219 - 00:14:07,349] Whether I work or not, sitting here with
+- [00:14:07,349 - 00:14:09,480] this guy, I'm making money right now standing here.
+- [00:14:09,480 - 00:14:10,480] That's what you got to be doing.
+- [00:14:10,480 - 00:14:12,420] All right, you guys, my guy Anthony just dropped
+- [00:14:12,420 - 00:14:14,360] a billion dollars worth of game for you guys.
+- [00:14:14,360 - 00:14:16,400] But I've got another special surprise for you.
+- [00:14:16,400 - 00:14:18,060] We were about to go interview
+- [00:14:18,060 - 00:14:19,720] Miami legend Eric Spofford on his yacht.
+- [00:14:19,720 - 00:14:22,220] For those of you who don't know,
+- [00:14:22,220 - 00:14:24,720] Eric sold a company for over $100 million.
+- [00:14:24,720 - 00:14:25,680] And he wants to drop $100
+- [00:14:25,680 - 00:14:26,640] million worth of game for you guys.
+- [00:14:26,640 - 00:14:27,880] So we're going to head there right now.
+- [00:14:27,880 - 00:14:28,880] Come with us.
+- [00:14:28,880 - 00:14:29,880] Let's go see what Eric has to say.
+- [00:14:29,880 - 00:14:30,880] Yo, yo, what's going on, my friend?
+- [00:14:30,880 - 00:14:31,880] What's going on, man?
+- [00:14:31,880 - 00:14:32,880] How you doing?
+- [00:14:32,880 - 00:14:33,880] Man, this is fire.
+- [00:14:33,880 - 00:14:34,880] This is crazy, man.
+- [00:14:34,880 - 00:14:35,880] Sweet.
+- [00:14:35,880 - 00:14:36,880] Let's go.
+- [00:14:36,880 - 00:14:37,880] Who am I here with today?
+- [00:14:37,880 - 00:14:38,880] Eric Spofford, baby.
+- [00:14:38,880 - 00:14:39,380] Throughout your career, what has been
+- [00:14:39,380 - 00:14:39,880] the most exciting thing for you?
+- [00:14:39,880 - 00:14:40,880] What's been the most exciting thing for you?
+- [00:14:40,880 - 00:14:41,880] What's been the most exciting thing for you?
+- [00:14:41,880 - 00:14:42,880] What's been the most exciting thing for you?
+- [00:14:42,880 - 00:14:43,880] Who am I here with today?
+- [00:14:43,880 - 00:14:44,880] Eric Spofford, baby.
+- [00:14:44,880 - 00:14:46,180] Throughout your career, what has been the
+- [00:14:46,180 - 00:14:47,480] most amount of money that you've ever made
+- [00:14:47,480 - 00:14:48,480] in a single year?
+- [00:14:48,480 - 00:14:49,480] 2021, over $100 million.
+- [00:14:49,480 - 00:14:50,480] $100 million.
+- [00:14:50,480 - 00:14:51,480] Yeah.
+- [00:14:51,480 - 00:14:53,040] And what happened that year
+- [00:14:53,040 - 00:14:54,600] that you made over $100 million?
+- [00:14:54,600 - 00:14:57,440] I sold my business for $115 million
+- [00:14:57,440 - 00:15:00,280] on December 21st, four days before Christmas 2021.
+- [00:15:00,280 - 00:15:02,120] That's a crazy Christmas present.
+- [00:15:02,120 - 00:15:03,120] It was.
+- [00:15:03,120 - 00:15:04,120] And what was your business?
+- [00:15:04,120 - 00:15:05,440] It was the largest provider of
+- [00:15:05,440 - 00:15:06,760] addiction treatment services in New England.
+- [00:15:06,760 - 00:15:08,240] And why was that your vehicle?
+- [00:15:08,240 - 00:15:09,240] Like that's a niche business.
+- [00:15:09,240 - 00:15:10,280] Out of any business you could have been
+- [00:15:10,280 - 00:15:11,320] in, how did you end up in that business?
+- [00:15:11,320 - 00:15:12,860] I got sober and into recovery.
+- [00:15:12,860 - 00:15:13,860] I beat myself, man.
+- [00:15:13,860 - 00:15:16,020] I beat a drug habit, beat alcoholism at
+- [00:15:16,020 - 00:15:18,180] 21 years old and found a passion for helping
+- [00:15:18,180 - 00:15:19,740] other people, turned it into a
+- [00:15:19,740 - 00:15:21,300] business, blew it out of the water.
+- [00:15:21,300 - 00:15:22,300] Where are we at right now?
+- [00:15:22,300 - 00:15:24,550] Miami, Florida, Island Gardens Marina, standing in
+- [00:15:24,550 - 00:15:26,800] front of my boat, the bonus rounds.
+- [00:15:26,800 - 00:15:27,800] This is your yacht?
+- [00:15:27,800 - 00:15:28,800] That's my yacht.
+- [00:15:28,800 - 00:15:30,260] As a nine figure entrepreneur, what is
+- [00:15:30,260 - 00:15:31,720] the best financial decision that somebody can
+- [00:15:31,720 - 00:15:32,780] make in today's world?
+- [00:15:32,780 - 00:15:34,880] Get into Section 8 real estate right now.
+- [00:15:34,880 - 00:15:37,010] The reason I say Section 8 real estate
+- [00:15:37,010 - 00:15:39,140] is that people live with the delusion that they
+- [00:15:39,140 - 00:15:40,990] need hundreds of thousands of dollars and
+- [00:15:40,990 - 00:15:42,840] a lot of expertise to become successful.
+- [00:15:42,840 - 00:15:43,960] You always want to own an Alumeta zero SEA.
+- [00:15:43,960 - 00:15:45,000] If you're not as affluent as me and
+- [00:15:45,000 - 00:15:46,040] you have a sense of sanctity or serviceability you
+- [00:15:46,040 - 00:15:47,040] don't want to get into muy queers.
+- [00:15:47,040 - 00:15:47,780] That includes the illی doing a lot of
+- [00:15:47,780 - 00:15:48,520] money with opportunities and living in the suburbs
+- [00:15:48,520 - 00:15:49,420] but the fact that maybe you finally startedingo
+- [00:15:49,420 - 00:15:50,320] up a den and that means that's where you
+- [00:15:50,320 - 00:15:51,320] are now is a real asset class.
+- [00:15:51,320 - 00:15:52,320] Everybody wants to become a real estate investor.
+- [00:15:52,320 - 00:15:53,100] The beautiful thing about this asset class
+- [00:15:53,100 - 00:15:53,880] is our average price per property is under
+- [00:15:53,880 - 00:15:55,190] $100,000 and almost any ordinary average American
+- [00:15:55,190 - 00:15:56,500] can get into becoming a real estate
+- [00:15:56,500 - 00:15:57,900] investor in this asset class.
+- [00:15:57,900 - 00:16:00,830] And it also produces higher than average
+- [00:16:00,830 - 00:16:03,760] cash on cash returns because the federal government
+- [00:16:03,760 - 00:16:06,940] overpays on the rent to incentivize
+- [00:16:06,940 - 00:16:10,120] landlords to create more low-income housing, because
+- [00:16:10,120 - 00:16:11,320] there is a shortage of national crisis.
+- [00:16:11,320 - 00:16:12,320] What's the difference you'd say?
+- [00:16:12,320 - 00:16:15,510] crisis of not enough low-income housing for people
+- [00:16:15,510 - 00:16:18,700] that are at or below the poverty line.
+- [00:16:18,880 - 00:16:21,240] And so if you're watching this and
+- [00:16:21,240 - 00:16:23,600] you're like, I'm just an ordinary, average American,
+- [00:16:23,860 - 00:16:27,180] working middle-class type person, get out of
+- [00:16:27,180 - 00:16:30,500] the financial slave mindset. And instead of taking
+- [00:16:30,500 - 00:16:32,890] your earned income and spending it directly
+- [00:16:32,890 - 00:16:35,280] on your lifestyle, reduce your lifestyle a little
+- [00:16:35,280 - 00:16:38,480] bit, save your money, take your savings
+- [00:16:38,480 - 00:16:41,680] and put that savings into an appreciating cash-flowing
+- [00:16:41,680 - 00:16:44,309] asset that is going to pay you every month
+- [00:16:44,309 - 00:16:46,939] to earn it. And if you do that consistently enough,
+- [00:16:47,020 - 00:16:49,359] there'll become a breaking point where you have
+- [00:16:49,359 - 00:16:51,699] enough money coming from your real estate assets
+- [00:16:51,699 - 00:16:54,749] to pay for your lifestyle. And at that
+- [00:16:54,749 - 00:16:57,800] exact moment is when you will become financially free.
+- [00:16:57,959 - 00:17:00,439] The amount of stress you endure every day will
+- [00:17:00,439 - 00:17:02,920] go down substantially. And you get to do this very,
+- [00:17:02,920 - 00:17:05,159] very cool thing, which happened for me a long
+- [00:17:05,159 - 00:17:07,399] time ago as a result of investing in real estate.
+- [00:17:07,560 - 00:17:09,609] I do things because I want to, not because
+- [00:17:09,609 - 00:17:11,659] I have to. Most of you do things because you
+- [00:17:11,660 - 00:17:13,200] have to. You know they don't teach
+- [00:17:13,200 - 00:17:14,740] that in school, right? They certainly do not.
+- [00:17:14,900 - 00:17:17,359] Your last message to the younger generation,
+- [00:17:17,359 - 00:17:19,819] give them the blueprint. Give them a 60-second
+- [00:17:19,819 - 00:17:21,839] business masterclass right now. How can somebody
+- [00:17:21,839 - 00:17:23,859] become a multimillionaire like yourself in today's
+- [00:17:23,859 - 00:17:26,119] world? What does it take? Listen, there's a
+- [00:17:26,119 - 00:17:28,380] couple core principles before I get to the
+- [00:17:28,380 - 00:17:30,850] business masterclass that the young generation really
+- [00:17:30,850 - 00:17:33,320] needs to embrace and embody. Because if
+- [00:17:33,320 - 00:17:36,000] you miss this, you'll miss all of it. Drugs
+- [00:17:36,000 - 00:17:38,680] and alcohol are for losers. If you do drugs and
+- [00:17:38,680 - 00:17:41,480] alcohol, the chances of you ever being financially free...
+- [00:17:41,660 - 00:17:41,910] Drugs and alcohol are for losers. If you miss this,
+- [00:17:41,910 - 00:17:42,160] you'll miss all of it. Drugs and alcohol are for losers.
+- [00:17:42,160 - 00:17:44,960] are immensely financially successful are almost zero. You want to
+- [00:17:44,960 - 00:17:47,760] be successful, you want to live a life like this,
+- [00:17:47,760 - 00:17:50,240] drugs and alcohol are not involved. Here's another
+- [00:17:50,240 - 00:17:52,720] important thing for you. Your circle matters more
+- [00:17:52,720 - 00:17:55,690] than you realize. I see too many young
+- [00:17:55,690 - 00:17:58,660] people hanging out, being cool, hanging out with losers,
+- [00:17:58,900 - 00:18:01,560] doing loser stuff. If you want to be a winner,
+- [00:18:01,560 - 00:18:04,220] you have to look around the people around you and be
+- [00:18:04,220 - 00:18:06,840] honest with yourself. Are these my friends, my
+- [00:18:06,840 - 00:18:09,460] boys, people I love? Or are they actual winners?
+- [00:18:09,640 - 00:18:11,340] Why are you hanging out with them?
+- [00:18:11,660 - 00:18:14,780] You must have somewhat of a cold-hearted, ruthless nature
+- [00:18:14,780 - 00:18:17,900] to you and have your loyalty be to your
+- [00:18:17,900 - 00:18:20,460] future in how you surround yourself with your
+- [00:18:20,460 - 00:18:23,020] people. I'm not telling you to tell those people
+- [00:18:23,020 - 00:18:25,540] to get out of here and never talk to them again
+- [00:18:25,540 - 00:18:28,060] and break up with them and all that. Love them from
+- [00:18:28,060 - 00:18:31,020] a distance, but chase relationships with winners
+- [00:18:31,020 - 00:18:33,980] and successful people that are like-minded, that
+- [00:18:33,980 - 00:18:36,540] want the same things. If you do those two things,
+- [00:18:36,540 - 00:18:39,100] stay away from vices and hang out with people that
+- [00:18:39,100 - 00:18:40,360] are destined to be successful, it is almost guaranteed to be successful. If you do those two things, stay away
+- [00:18:40,360 - 00:18:41,620] from vices and hang out with people that are destined to be successful, it is almost guaranteed to be successful.
+- [00:18:41,660 - 00:18:42,900] If you do those two things, stay away from vices and hang out with people that
+- [00:18:42,900 - 00:18:44,140] are destined to be successful, it is almost guaranteed that you will find a level of success.
+- [00:18:44,140 - 00:18:45,220] Thank you so much for
+- [00:18:45,220 - 00:18:46,300] your time, sir. I appreciate that.
+- [00:18:46,300 - 00:18:48,700] So my guy, Eric, just came through again
+- [00:18:48,700 - 00:18:51,100] with the crazy interview at the yacht. But guys,
+- [00:18:51,100 - 00:18:53,300] that's a wrap on today's video. Be sure to
+- [00:18:53,300 - 00:18:55,500] like and subscribe for amazing content we've got coming
+- [00:18:55,500 - 00:18:58,060] very, very soon. And as I mentioned earlier
+- [00:18:58,060 - 00:19:00,620] in the video, our official entrepreneur community gives
+- [00:19:00,620 - 00:19:03,100] you guys the ability to join and get
+- [00:19:03,100 - 00:19:05,580] access to the multimillionaire and billionaires that I interview
+- [00:19:05,580 - 00:19:08,020] on this channel, where you can learn skills directly from
+- [00:19:08,020 - 00:19:10,460] them, like how to sell, how to market, how to
+- [00:19:10,460 - 00:19:12,420] build businesses, how to create wealth in different
+- [00:19:12,420 - 00:19:14,380] industries. You can talk to them directly on the
+- [00:19:14,380 - 00:19:16,300] live calls that I'm hosting every single week
+- [00:19:16,300 - 00:19:18,220] and get access to tons of exclusive content.
+- [00:19:18,220 - 00:19:20,060] So to join, click the link down in the description
+- [00:19:20,060 - 00:19:21,900] below. I can't wait to see on the inside of the
+- [00:19:21,900 - 00:19:23,500] School of Mentors. But with that being
+- [00:19:23,500 - 00:19:25,100] said, we'll see you in the next video.
