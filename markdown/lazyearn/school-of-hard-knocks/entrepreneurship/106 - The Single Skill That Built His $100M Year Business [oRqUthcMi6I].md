@@ -1,0 +1,469 @@
+# Transcript
+
+Source: lazyearn/school-of-hard-knocks/hard-knocks-interviews/108 - The Single Skill That Built His $100M Year Business [oRqUthcMi6I].mkv
+
+- [00:00:00,000 - 00:00:02,050] Meet Johnny Anton. Over the last decade,
+- [00:00:02,050 - 00:00:04,100] he's become one of the most successful salesmen
+- [00:00:04,100 - 00:00:06,130] in the entire country. He's helped scale
+- [00:00:06,130 - 00:00:08,160] multiple businesses to over nine figures in revenue.
+- [00:00:08,420 - 00:00:10,390] However, it didn't start out that way. His family
+- [00:00:10,390 - 00:00:12,360] were immigrants from Iraq and he grew up in one
+- [00:00:12,360 - 00:00:14,440] of the most poor parts of Detroit and was
+- [00:00:14,440 - 00:00:16,520] homeless for two years. But through all the trials and
+- [00:00:16,520 - 00:00:18,450] tribulations he dealt with, he learned the art
+- [00:00:18,450 - 00:00:20,380] of sales and became a multimillionaire. He brought
+- [00:00:20,380 - 00:00:22,080] me into his home to reveal some of his
+- [00:00:22,080 - 00:00:23,780] secrets on how he was able to become a nine-figure
+- [00:00:23,780 - 00:00:25,780] entrepreneur and one of the most renowned
+- [00:00:25,780 - 00:00:27,780] closers in the sales game. Above all else,
+- [00:00:27,780 - 00:00:30,010] the economy could crash, the crypto markets could
+- [00:00:30,010 - 00:00:32,240] go down, there could be fraud. But tomorrow,
+- [00:00:32,439 - 00:00:35,269] if you can fucking sharpen that ax and sharpen
+- [00:00:35,269 - 00:00:38,100] that sword and just slay sales for any business
+- [00:00:38,100 - 00:00:40,790] that has high demand, you can be recession-proof. You
+- [00:00:40,790 - 00:00:43,480] can be immune to anything that's going on with
+- [00:00:43,480 - 00:00:45,490] your mindset, your psychology, whatever's going
+- [00:00:45,490 - 00:00:47,500] on in the market. In this interview,
+- [00:00:47,720 - 00:00:49,560] Johnny revealed to me the most valuable piece
+- [00:00:49,560 - 00:00:51,400] of advice he was given from his billionaire mentor.
+- [00:00:51,600 - 00:00:53,670] You can't attract good leaders unless you have
+- [00:00:53,670 - 00:00:55,740] a very good product. Two things that I learned
+- [00:00:55,740 - 00:00:57,440] is that it comes down to,
+- [00:00:57,440 - 00:00:59,690] fundraising and recruiting. He also walked me
+- [00:00:59,690 - 00:01:01,940] through the biggest thing he implemented to take
+- [00:01:01,940 - 00:01:03,910] multiple businesses from eight to nine figures.
+- [00:01:03,910 - 00:01:05,880] I'm James Dumoulin, and this is Questions with
+- [00:01:05,880 - 00:01:07,440] a Millionaire. If you were to go back in
+- [00:01:07,440 - 00:01:09,000] time and have a conversation with your younger self,
+- [00:01:09,039 - 00:01:10,489] when you were starting from zero, what's the best
+- [00:01:10,489 - 00:01:11,940] piece of advice that you would tell your younger
+- [00:01:11,940 - 00:01:15,000] self? Fail faster and don't make it mean fucking
+- [00:01:15,000 - 00:01:18,060] shit. Yeah. Yeah. I love that. I think too many
+- [00:01:18,060 - 00:01:20,519] people think that they're like attached to some sort
+- [00:01:20,519 - 00:01:22,979] of result. They have to have it be some way.
+- [00:01:22,979 - 00:01:26,060] They think that if it doesn't go a certain way,
+- [00:01:26,060 - 00:01:29,290] that they're going to like fail and this like the
+- [00:01:29,290 - 00:01:32,520] end of the world is going to happen. Right. And so
+- [00:01:32,520 - 00:01:35,610] I think people create so much significance in the
+- [00:01:35,610 - 00:01:38,700] very, very small failures. When you look at Israel
+- [00:01:38,700 - 00:01:41,430] as a country per capita and how many
+- [00:01:41,430 - 00:01:44,160] businesses have flourished into the billion unicorn startup,
+- [00:01:44,560 - 00:01:47,480] they have way more billion dollar unicorn startups
+- [00:01:47,480 - 00:01:50,400] than any other country combined. Why is that?
+- [00:01:50,400 - 00:01:52,970] One thing they teach their kids is
+- [00:01:52,970 - 00:01:55,540] just failing forward intelligently, learning from their mistakes
+- [00:01:56,060 - 00:01:59,530] and compounding time and removing the significance of everything.
+- [00:01:59,530 - 00:02:03,000] So if I could go back to my young
+- [00:02:03,000 - 00:02:05,849] self and give advice, dude, fail fucking faster and
+- [00:02:05,849 - 00:02:08,699] it doesn't mean shit. What would you say is
+- [00:02:08,699 - 00:02:10,709] the biggest habit that led you to be able
+- [00:02:10,709 - 00:02:12,720] to become a millionaire? What would you say? Honestly,
+- [00:02:12,900 - 00:02:14,760] I think that you have multiple. So like, what
+- [00:02:14,760 - 00:02:16,620] would you say are the top three habits that
+- [00:02:16,620 - 00:02:18,460] really led to your success and allowed you
+- [00:02:18,460 - 00:02:20,300] to become a millionaire? I think the most important
+- [00:02:20,300 - 00:02:23,080] thing is reconditioning the mind by opening
+- [00:02:23,080 - 00:02:25,860] up the subconscious doors to the conscious,
+- [00:02:25,860 - 00:02:25,950] mind, and the subconscious. And I think that's
+- [00:02:25,950 - 00:02:26,040] the most important thing. I think the most important
+- [00:02:26,040 - 00:02:27,550] thing is reconditioning the mind through
+- [00:02:27,550 - 00:02:29,060] meditation. So I've been meditating consistently
+- [00:02:29,060 - 00:02:32,009] for over six years. And I first learned
+- [00:02:32,009 - 00:02:34,959] about meditation at a wrestling camp where we meditated
+- [00:02:34,959 - 00:02:37,769] every day about winning the state championship.
+- [00:02:37,769 - 00:02:40,579] I feel like everything about manifestation that
+- [00:02:40,579 - 00:02:44,539] they don't talk about is that every idea
+- [00:02:44,539 - 00:02:48,500] starts in what? Imagination. So you have to imagine
+- [00:02:48,500 - 00:02:52,170] Walt Disney, new Disney world in his mind before
+- [00:02:52,170 - 00:02:55,840] he actually created it. And in fact, 150 bankers
+- [00:02:55,840 - 00:02:59,320] bankers said no to his loan to be able to
+- [00:02:59,320 - 00:03:02,800] fund in the 50s Disney World, which was $5 million
+- [00:03:02,800 - 00:03:06,160] and ended up costing $15 million. Picture and
+- [00:03:06,160 - 00:03:09,520] imagine going to 100 banks and telling people
+- [00:03:09,520 - 00:03:11,940] that you want to create a fictitious
+- [00:03:11,940 - 00:03:14,360] amusement park where characters from cartoons are hanging
+- [00:03:14,360 - 00:03:17,570] out with adults and children and people riding
+- [00:03:17,570 - 00:03:20,780] rides back in the 50s. So everything starts in
+- [00:03:20,780 - 00:03:23,920] a thought through imagination. You have to be
+- [00:03:23,920 - 00:03:27,060] able to imagine what you don't actually know to
+- [00:03:27,060 - 00:03:30,020] be true in the material realm. You have to
+- [00:03:30,020 - 00:03:32,980] imagine something that you don't have in your possession.
+- [00:03:33,380 - 00:03:35,560] It's like Bob Proctor says, if you can hold it
+- [00:03:35,560 - 00:03:37,740] in your mind, you can hold it in your hand.
+- [00:03:37,740 - 00:03:41,030] So the first thing is meditating every
+- [00:03:41,030 - 00:03:44,320] single day and drawing in abundance and possibility
+- [00:03:44,320 - 00:03:46,890] and removing limitations from your past in
+- [00:03:46,890 - 00:03:49,460] your daily meditations. That's the first step.
+- [00:03:49,860 - 00:03:50,760] Second step,
+- [00:03:50,780 - 00:03:54,160] is taking actions consistent and documenting what's
+- [00:03:54,160 - 00:03:57,540] working, what's not working. So I do an
+- [00:03:57,540 - 00:04:00,480] end of day report for all people in my sales
+- [00:04:00,480 - 00:04:03,420] team and they have to look at who they talked to,
+- [00:04:03,540 - 00:04:06,030] what the result of the call was and what worked
+- [00:04:06,030 - 00:04:08,520] and what didn't work, not just from what they said,
+- [00:04:08,580 - 00:04:11,640] but who they were being behind what they
+- [00:04:11,640 - 00:04:14,700] said, because context is way more important than content.
+- [00:04:15,060 - 00:04:17,430] That's why when I give two salespeople the
+- [00:04:17,430 - 00:04:19,800] same script, one of them just outperforms the other
+- [00:04:19,800 - 00:04:20,760] and they're saying,
+- [00:04:20,779 - 00:04:21,779] I'm going to give this person the same script.
+- [00:04:21,779 - 00:04:25,509] They're saying virtually the same thing. Why? Well, a lot of who
+- [00:04:25,509 - 00:04:29,239] you are behind your words and your actions determines your actual result.
+- [00:04:29,299 - 00:04:32,619] It's not really the action itself. So why feedback loops
+- [00:04:32,619 - 00:04:35,940] are so critical. Why end of day reports are so critical.
+- [00:04:35,940 - 00:04:42,519] Why having beginning, middle end of day activities and then looking at what worked and what didn't work
+- [00:04:42,519 - 00:04:49,099] is the single greatest skill that you can master because you don't let time just get away from you.
+- [00:04:49,340 - 00:04:50,739] Too many people just let time.
+- [00:04:50,740 - 00:04:56,120] But we see that the best football players
+- [00:04:56,120 - 00:05:01,500] are people that covered their winnings really early.
+- [00:05:01,600 - 00:05:04,380] So sometimes they don't finish when they need it.
+- [00:05:05,500 - 00:05:05,860] No, no,
+- [00:05:05,880 - 00:05:06,560] that eats their foot.
+- [00:05:07,020 - 00:05:07,380] Right.
+- [00:05:07,380 - 00:05:08,980] I mean,
+- [00:05:08,980 - 00:05:11,200] my parents,
+- [00:05:11,200 - 00:05:20,580] and that's
+- [00:05:20,580 - 00:05:20,680] the.
+- [00:05:20,680 - 00:05:20,700] Mom.
+- [00:05:20,700 - 00:05:22,850] don't have that obsessive mindset to watch
+- [00:05:22,850 - 00:05:25,000] three hours of basketball and see what you
+- [00:05:25,000 - 00:05:27,049] can improve in the day-to-day interactions,
+- [00:05:27,049 - 00:05:29,099] especially if you won the game.
+- [00:05:29,099 - 00:05:30,909] So I think too many people are focused
+- [00:05:30,909 - 00:05:32,719] on winning the game and they're not looking at
+- [00:05:32,719 - 00:05:35,459] in the game, outside of the game and
+- [00:05:35,459 - 00:05:38,200] working on their actual skills and what's working
+- [00:05:38,200 - 00:05:39,200] and not working.
+- [00:05:39,200 - 00:05:40,200] Does that make sense?
+- [00:05:40,200 - 00:05:41,200] Yeah.
+- [00:05:41,200 - 00:05:43,539] So that's the second skill that you got to develop.
+- [00:05:43,539 - 00:05:46,079] The third skill is you got to cut checks
+- [00:05:46,079 - 00:05:48,620] faster, as fast as possible and as big as possible.
+- [00:05:48,620 - 00:05:49,910] And you have to pay people
+- [00:05:49,910 - 00:05:51,200] who have the results you're looking for.
+- [00:05:51,200 - 00:05:54,010] So go and find people and just cut the
+- [00:05:54,010 - 00:05:56,820] checks and cut them faster and cut them bigger.
+- [00:05:56,820 - 00:05:58,580] That's the single most
+- [00:05:58,580 - 00:06:00,340] important thing is pattern recognition.
+- [00:06:00,340 - 00:06:01,750] The moment you can be around the environment
+- [00:06:01,750 - 00:06:03,160] of people who have the results you're looking
+- [00:06:03,160 - 00:06:05,220] for, do not reinvent the wheel.
+- [00:06:05,220 - 00:06:06,800] Success leaves clues.
+- [00:06:06,800 - 00:06:08,780] If you just do what other people did,
+- [00:06:08,780 - 00:06:10,760] it's the single most important thing in life is
+- [00:06:10,760 - 00:06:13,040] that how I got to the state championship after
+- [00:06:13,040 - 00:06:15,320] wrestling only two years, how I got to top
+- [00:06:15,320 - 00:06:16,840] of my class in high school
+- [00:06:16,840 - 00:06:18,360] and college was all pattern recognition.
+- [00:06:18,360 - 00:06:20,920] I studied what I actually had to
+- [00:06:20,920 - 00:06:23,480] do in the moment to moment phenomenon.
+- [00:06:23,480 - 00:06:25,540] Everything comes down to stimulus and response.
+- [00:06:25,540 - 00:06:27,930] If you have a stimulus that you put
+- [00:06:27,930 - 00:06:30,320] out, you say something, the prospect says something.
+- [00:06:30,320 - 00:06:31,380] Stimulus response.
+- [00:06:31,380 - 00:06:32,730] If you take an action,
+- [00:06:32,730 - 00:06:34,080] there's an input, there's an output.
+- [00:06:34,080 - 00:06:37,760] It's all just a pattern recognition system.
+- [00:06:37,760 - 00:06:40,350] And I think too many people try to reinvent
+- [00:06:40,350 - 00:06:42,940] the wheel because they grew up not being loved.
+- [00:06:42,940 - 00:06:43,950] They grew up, or at
+- [00:06:43,950 - 00:06:44,960] least they perceived it that way.
+- [00:06:44,960 - 00:06:47,900] They grew up never feeling like they were good enough.
+- [00:06:47,900 - 00:06:49,999] And that's why if you don't meditate
+- [00:06:49,999 - 00:06:52,099] every day, none of the information from podcasts
+- [00:06:52,099 - 00:06:54,069] and books will help you because your subconscious
+- [00:06:54,069 - 00:06:56,039] mind will be trapped in a limitation from
+- [00:06:56,039 - 00:06:58,089] the past that you're not good enough, that
+- [00:06:58,089 - 00:07:00,140] you are less, that you'll never be successful.
+- [00:07:00,140 - 00:07:03,359] And so unconsciously you'll just sabotage.
+- [00:07:03,359 - 00:07:04,899] You won't even know that you're sabotaging
+- [00:07:04,899 - 00:07:06,440] because you're still living inside of the
+- [00:07:06,440 - 00:07:07,440] old identity.
+- [00:07:07,440 - 00:07:08,440] Does that make sense?
+- [00:07:08,440 - 00:07:09,440] Yeah, absolutely.
+- [00:07:09,440 - 00:07:10,440] Yeah.
+- [00:07:10,440 - 00:07:11,899] So this is where people really, really mess
+- [00:07:11,899 - 00:07:13,359] up and it's sort of sum it up.
+- [00:07:13,359 - 00:07:14,359] What did I say?
+- [00:07:14,359 - 00:07:15,359] I said meditation.
+- [00:07:15,359 - 00:07:16,359] Taking action consistently.
+- [00:07:16,359 - 00:07:17,859] Taking action consistently.
+- [00:07:17,900 - 00:07:20,059] And documenting what's working, what's
+- [00:07:20,059 - 00:07:22,219] not working, those feedback loops.
+- [00:07:22,219 - 00:07:23,999] And the last thing is hire people who
+- [00:07:23,999 - 00:07:25,780] already have the results you're looking for and just
+- [00:07:25,780 - 00:07:28,239] model their pattern recognition.
+- [00:07:28,239 - 00:07:29,699] So if you were to go back to when
+- [00:07:29,699 - 00:07:31,159] you started that first business, what is the number one
+- [00:07:31,159 - 00:07:32,659] piece of advice that you would give yourself?
+- [00:07:32,659 - 00:07:34,899] What is your best advice to anybody going
+- [00:07:34,899 - 00:07:37,140] out on their own, starting a business in 2023?
+- [00:07:37,140 - 00:07:38,960] Your ego is not your amigo.
+- [00:07:38,960 - 00:07:41,879] I thought because I helped the company
+- [00:07:41,879 - 00:07:44,799] go from high eight figures to almost multiple
+- [00:07:44,799 - 00:07:47,700] nine figures, I thought it was the absolute shit, dude.
+- [00:07:47,900 - 00:07:49,360] I thought it was like the fucking coolest
+- [00:07:49,360 - 00:07:50,820] thing like the other side of the pillow.
+- [00:07:50,820 - 00:07:53,219] I was like, bro, I'm going to dominate this.
+- [00:07:53,219 - 00:07:54,219] It's going to be easy.
+- [00:07:54,219 - 00:07:55,929] And I remember my boss
+- [00:07:55,929 - 00:07:57,640] very specifically, his name is Paul.
+- [00:07:57,640 - 00:07:58,640] He sat down with me.
+- [00:07:58,640 - 00:08:00,320] He's like, you sure you want to give
+- [00:08:00,320 - 00:08:02,000] up half a million dollars in 100% commission sales
+- [00:08:02,000 - 00:08:04,609] income where you don't have to do any marketing,
+- [00:08:04,609 - 00:08:07,219] take any risk on delivery and don't have to
+- [00:08:07,219 - 00:08:08,900] hire people or have operations or finance?
+- [00:08:08,900 - 00:08:10,299] Are you sure you really want to do that?
+- [00:08:10,299 - 00:08:12,060] And I said, it can't be that hard.
+- [00:08:12,060 - 00:08:13,799] I mean, I helped you scale and double your
+- [00:08:13,799 - 00:08:15,539] revenue inside of two years and I was single
+- [00:08:15,539 - 00:08:17,780] handedly the leader of this entire team.
+- [00:08:17,780 - 00:08:19,550] Building the training, the action plans,
+- [00:08:19,550 - 00:08:21,320] the sales processes, the advanced scripting,
+- [00:08:21,320 - 00:08:23,299] the storytelling, all of that stuff.
+- [00:08:23,299 - 00:08:25,409] I was a 24 year old kid teaching people
+- [00:08:25,409 - 00:08:27,520] at 20 years of experience with the top closers
+- [00:08:27,520 - 00:08:29,240] for Tony Robbins and I
+- [00:08:29,240 - 00:08:30,960] was literally running circles around them.
+- [00:08:30,960 - 00:08:32,309] And I was like in my mind,
+- [00:08:32,309 - 00:08:33,659] I was so much fucking ego and arrogance.
+- [00:08:33,659 - 00:08:35,860] I was such a fucking asshole in my twenties.
+- [00:08:35,860 - 00:08:37,260] I thought it was a shit.
+- [00:08:37,260 - 00:08:38,909] And if I have any advice for any
+- [00:08:38,909 - 00:08:40,559] of you guys, don't think you're the shit.
+- [00:08:40,559 - 00:08:42,479] Pay someone who has the results you're
+- [00:08:42,479 - 00:08:44,400] looking for and actually just model that.
+- [00:08:44,400 - 00:08:46,090] Too much of my time was spent
+- [00:08:46,090 - 00:08:47,780] trying to figure out on my own.
+- [00:08:47,780 - 00:08:50,059] I had so much ego and arrogance trying to
+- [00:08:50,059 - 00:08:52,339] prove my dad wrong because I didn't have the
+- [00:08:52,339 - 00:08:54,319] love and the appreciation and the
+- [00:08:54,319 - 00:08:56,300] attention from him that I wanted.
+- [00:08:56,300 - 00:08:59,410] So I let my daddy issues actually suppressed
+- [00:08:59,410 - 00:09:02,520] over time, invented self in ways of trying
+- [00:09:02,520 - 00:09:04,620] to have too much control of the process,
+- [00:09:04,620 - 00:09:06,720] having too much arrogance, not giving up the old
+- [00:09:06,720 - 00:09:08,959] identity for the new identity.
+- [00:09:08,959 - 00:09:10,529] That's the advice I have for
+- [00:09:10,529 - 00:09:12,100] you is give up your old identity.
+- [00:09:12,100 - 00:09:14,839] What do you have to give up
+- [00:09:14,839 - 00:09:17,579] to actually just give up that control?
+- [00:09:17,580 - 00:09:19,670] Give up what you think you know and
+- [00:09:19,670 - 00:09:21,760] really understand that you don't know what you don't
+- [00:09:21,760 - 00:09:22,760] know.
+- [00:09:22,760 - 00:09:25,140] You have blind spots and you don't actually
+- [00:09:25,140 - 00:09:27,520] understand how to get it because if you did,
+- [00:09:27,520 - 00:09:28,520] you'd have it.
+- [00:09:28,520 - 00:09:29,520] Right?
+- [00:09:29,520 - 00:09:32,110] And so that being said, get out of
+- [00:09:32,110 - 00:09:34,700] your comfort zone, hire someone and learn from someone
+- [00:09:34,700 - 00:09:36,660] who already has the results you're looking for.
+- [00:09:36,660 - 00:09:38,280] What is the number one thing that takes
+- [00:09:38,280 - 00:09:39,900] a business from seven to eight figures and then
+- [00:09:39,900 - 00:09:40,900] eight to nine figures?
+- [00:09:40,900 - 00:09:43,310] A mentor that I've really researched and
+- [00:09:43,310 - 00:09:45,720] understood his materials, Ryan Breslow, the guy's under
+- [00:09:45,720 - 00:09:46,720] 30 years old.
+- [00:09:46,720 - 00:09:47,560] And he owns two.
+- [00:09:47,560 - 00:09:51,739] Now almost three multi-billion dollar unicorn startups.
+- [00:09:51,739 - 00:09:55,089] How the hell did a sub 30
+- [00:09:55,089 - 00:09:58,439] year old guy build multiple billion dollar companies?
+- [00:09:58,439 - 00:10:00,979] And two things that I learned is
+- [00:10:00,979 - 00:10:03,520] that it comes down to fundraising and recruiting.
+- [00:10:03,520 - 00:10:06,340] I think too many people don't realize that
+- [00:10:06,340 - 00:10:09,160] how much cash you actually need to scale and
+- [00:10:09,160 - 00:10:11,590] you can only generate that cash and scale
+- [00:10:11,590 - 00:10:14,020] and hire when you have good leadership and
+- [00:10:14,020 - 00:10:15,379] you can only have good leadership
+- [00:10:15,379 - 00:10:16,739] when you have really good vision.
+- [00:10:16,739 - 00:10:16,780] Right?
+- [00:10:16,780 - 00:10:16,880] Yeah.
+- [00:10:16,880 - 00:10:16,939] Yeah.
+- [00:10:16,939 - 00:10:17,180] Yeah.
+- [00:10:17,180 - 00:10:17,199] Yeah.
+- [00:10:17,199 - 00:10:17,219] Yeah.
+- [00:10:17,219 - 00:10:17,260] Yeah.
+- [00:10:17,260 - 00:10:17,280] Yeah.
+- [00:10:17,280 - 00:10:17,300] Yeah.
+- [00:10:17,300 - 00:10:17,319] Yeah.
+- [00:10:17,319 - 00:10:17,380] Yeah.
+- [00:10:17,380 - 00:10:17,420] Yeah.
+- [00:10:17,420 - 00:10:17,439] Yeah.
+- [00:10:17,439 - 00:10:17,500] Yeah.
+- [00:10:17,560 - 00:10:17,739] Yeah.
+- [00:10:17,739 - 00:10:17,780] Yeah.
+- [00:10:17,780 - 00:10:17,839] Yeah.
+- [00:10:17,839 - 00:10:17,859] Yeah.
+- [00:10:17,859 - 00:10:17,920] Yeah.
+- [00:10:17,920 - 00:10:17,979] Yeah.
+- [00:10:17,979 - 00:10:18,020] Yeah.
+- [00:10:18,020 - 00:10:18,160] Yeah.
+- [00:10:18,160 - 00:10:18,219] Yeah.
+- [00:10:18,219 - 00:10:18,459] Yeah.
+- [00:10:19,079 - 00:10:19,099] Yeah.
+- [00:10:19,099 - 00:10:19,420] Yeah.
+- [00:10:19,420 - 00:10:20,239] Yeah.
+- [00:10:20,760 - 00:10:21,000] Yeah.
+- [00:10:21,880 - 00:10:22,060] Yeah.
+- [00:10:22,060 - 00:10:22,160] Yeah.
+- [00:10:25,160 - 00:10:25,619] Yeah.
+- [00:10:25,619 - 00:10:25,800] Yeah.
+- [00:10:25,800 - 00:10:26,040] Yeah.
+- [00:10:26,040 - 00:10:26,140] Yeah.
+- [00:10:26,140 - 00:10:26,219] Yeah.
+- [00:10:27,979 - 00:10:28,280] Yeah.
+- [00:10:30,000 - 00:10:30,180] Yeah.
+- [00:10:30,180 - 00:10:30,239] Yeah.
+- [00:10:30,239 - 00:10:30,300] Yeah.
+- [00:10:31,300 - 00:10:31,380] Yeah.
+- [00:10:32,180 - 00:10:32,260] Yeah.
+- [00:10:32,459 - 00:10:32,540] Yeah.
+- [00:10:32,839 - 00:10:33,000] Yeah.
+- [00:10:35,739 - 00:10:35,900] Yeah.
+- [00:10:36,819 - 00:10:37,020] Yeah.
+- [00:10:37,660 - 00:10:37,939] Yeah.
+- [00:10:37,939 - 00:10:38,000] Yeah.
+- [00:10:40,540 - 00:10:40,800] Yeah.
+- [00:10:44,380 - 00:10:44,660] Yeah.
+- [00:10:44,660 - 00:10:44,800] Yeah.
+- [00:10:44,800 - 00:10:44,839] Yeah.
+- [00:10:44,839 - 00:10:45,060] Yeah.
+- [00:10:45,060 - 00:10:45,140] Yeah.
+- [00:10:45,640 - 00:10:45,800] Yeah.
+- [00:10:46,380 - 00:10:46,520] Yeah.
+- [00:10:46,579 - 00:10:46,739] Yeah.
+- [00:10:46,900 - 00:10:47,079] Yeah.
+- [00:10:47,079 - 00:10:47,500] Yeah.
+- [00:10:47,560 - 00:10:49,870] banking and private equity and it all
+- [00:10:49,870 - 00:10:52,180] comes down to top tier talent in tech
+- [00:10:52,180 - 00:10:54,309] it's all top tier talent that's why
+- [00:10:54,309 - 00:10:56,439] the unicorn startups go and steal the talent
+- [00:10:56,439 - 00:10:58,829] from other companies it's really talent
+- [00:10:58,829 - 00:11:01,219] you cannot have talent without really
+- [00:11:01,219 - 00:11:03,029] good compensation packages and you can't
+- [00:11:03,029 - 00:11:04,839] have good compensation packages if you
+- [00:11:04,839 - 00:11:06,279] don't have a badass product that
+- [00:11:06,279 - 00:11:07,719] sells itself that makes sense yeah absolutely
+- [00:11:07,719 - 00:11:09,749] that's that's a key yeah if your
+- [00:11:09,749 - 00:11:11,780] bank account is zero tomorrow what would be
+- [00:11:11,780 - 00:11:12,960] the first step that you would take
+- [00:11:12,960 - 00:11:14,140] to build your empire back and become
+- [00:11:14,140 - 00:11:15,350] financially free again what's the first thing
+- [00:11:15,350 - 00:11:16,560] that you would do if you had to
+- [00:11:16,560 - 00:11:18,780] start from zero and I don't have
+- [00:11:18,780 - 00:11:21,000] all the psychology and conditioning you know
+- [00:11:21,000 - 00:11:23,030] the mindset you have your skill sets and
+- [00:11:23,030 - 00:11:25,060] your connections okay I would just go to
+- [00:11:25,060 - 00:11:27,050] whoever's selling the most expensive shit and
+- [00:11:27,050 - 00:11:29,040] go sell their shit until I fill
+- [00:11:29,040 - 00:11:31,139] my bank account up to pay my rent
+- [00:11:31,139 - 00:11:33,239] yeah so what once you have food and shelter
+- [00:11:33,239 - 00:11:34,889] it's like Maslow's hierarchy of needs
+- [00:11:34,889 - 00:11:36,540] food and shelter you're good once you
+- [00:11:36,540 - 00:11:38,420] have food and shelter then we want
+- [00:11:38,420 - 00:11:40,300] to psychologically belong we want to then
+- [00:11:40,300 - 00:11:42,470] actualize our potential right so you don't
+- [00:11:42,470 - 00:11:44,640] really like I lived in my car
+- [00:11:44,640 - 00:11:45,590] before for an entire year like I was a kid I
+- [00:11:45,590 - 00:11:46,540] was a kid I was a kid I was a kid
+- [00:11:46,540 - 00:11:48,189] like you don't really need material
+- [00:11:48,189 - 00:11:49,839] things and nice things and nice places
+- [00:11:49,839 - 00:11:52,449] like this to really really do well
+- [00:11:52,449 - 00:11:55,060] you just need skills and you connections and
+- [00:11:55,060 - 00:11:57,220] how you actually monetize those connections
+- [00:11:57,220 - 00:11:59,380] is you have to have skills
+- [00:11:59,380 - 00:12:01,280] that then adds value to people so
+- [00:12:01,280 - 00:12:03,180] they want to be around you because you
+- [00:12:03,180 - 00:12:04,860] provide them with some good energy you
+- [00:12:04,860 - 00:12:06,540] provide them with a skill set that then
+- [00:12:06,540 - 00:12:08,689] you can give away for free so that
+- [00:12:08,689 - 00:12:10,839] they can connect you to people who can then
+- [00:12:10,839 - 00:12:12,419] fill your bank account up by then
+- [00:12:12,419 - 00:12:14,000] solving those problems on a paid model
+- [00:12:14,000 - 00:12:15,190] so we could do it all
+- [00:12:15,190 - 00:12:16,380] over again I would just add
+- [00:12:16,540 - 00:12:18,580] value to people for free until they
+- [00:12:18,580 - 00:12:20,620] gave me testimonials and case studies and
+- [00:12:20,620 - 00:12:22,390] get an anchor client I would then take
+- [00:12:22,390 - 00:12:24,160] that anchor client and I would go to all
+- [00:12:24,160 - 00:12:25,910] their competitors and everybody in
+- [00:12:25,910 - 00:12:27,660] their niche and everybody that's first-degree
+- [00:12:27,660 - 00:12:29,420] separation to that and I would use
+- [00:12:29,420 - 00:12:31,180] that case study to sell the most expensive
+- [00:12:31,180 - 00:12:34,270] package with the most value and the
+- [00:12:34,270 - 00:12:37,360] least risk for the client and then from
+- [00:12:37,360 - 00:12:39,039] there I would then build a sales team
+- [00:12:39,039 - 00:12:40,719] around that to scale that up and then
+- [00:12:40,719 - 00:12:42,729] run ads and increase lead sources etc
+- [00:12:42,729 - 00:12:44,740] does that make sense perfect my next
+- [00:12:44,740 - 00:12:45,630] question for you so people in sales
+- [00:12:45,630 - 00:12:46,520] teams they're not going to be able to
+- [00:12:46,540 - 00:12:47,710] close their doors they're not going to
+- [00:12:47,710 - 00:12:48,880] be able to close their doors but they
+- [00:12:48,880 - 00:12:50,020] would be able to close their doors
+- [00:12:50,020 - 00:12:51,160] if they're not able to close their doors
+- [00:12:51,160 - 00:12:52,570] right so for you personally let's
+- [00:12:52,570 - 00:12:53,980] say that you're in negotiations right you
+- [00:12:53,980 - 00:12:55,180] have a potential client or a
+- [00:12:55,180 - 00:12:56,380] customer they're on the fence maybe they're
+- [00:12:56,380 - 00:12:57,970] leaning towards a no what's your strategy to
+- [00:12:57,970 - 00:12:59,560] turn a no into a yes how are
+- [00:12:59,560 - 00:13:00,970] you able to close successfully
+- [00:13:00,970 - 00:13:02,380] sales really comes down to understanding
+- [00:13:02,380 - 00:13:04,870] psychology and until you master your
+- [00:13:04,870 - 00:13:07,360] own psychology you cannot overcome someone
+- [00:13:07,360 - 00:13:09,279] else's psychology and their limitations right
+- [00:13:09,279 - 00:13:11,199] and that's where a lot of people
+- [00:13:11,199 - 00:13:13,209] mess up in sales is they consume
+- [00:13:13,209 - 00:13:15,219] content about sales they buy sales courses and
+- [00:13:15,219 - 00:13:16,300] all that does is create
+- [00:13:16,540 - 00:13:18,189] mental results you know how to overcome
+- [00:13:18,189 - 00:13:19,839] this objection even the nature of your
+- [00:13:19,839 - 00:13:22,059] question is how do I overcome the objection
+- [00:13:22,059 - 00:13:24,280] how do I turn a no into a yes
+- [00:13:24,280 - 00:13:26,200] well what if I told you that
+- [00:13:26,200 - 00:13:28,120] in your presentation you blocked every single
+- [00:13:28,120 - 00:13:29,919] possible objection because instead of just
+- [00:13:29,919 - 00:13:31,719] getting on the phone for the very
+- [00:13:31,719 - 00:13:33,829] first time with that avatar that you've
+- [00:13:33,829 - 00:13:35,939] broken down that ever avatar over and
+- [00:13:35,939 - 00:13:37,609] over from a demographic and
+- [00:13:37,609 - 00:13:39,280] a psychographic right the behaviors that
+- [00:13:39,280 - 00:13:41,280] they takes the psychographic so the
+- [00:13:41,280 - 00:13:43,280] interest the desires that who they are
+- [00:13:43,280 - 00:13:44,850] as a person and their actual
+- [00:13:44,850 - 00:13:46,420] psychology and how they make decisions
+- [00:13:46,540 - 00:13:49,100] is the psychographics demographics are who they
+- [00:13:49,100 - 00:13:51,660] who they are how old are they
+- [00:13:51,660 - 00:13:54,040] where they come from what is their background where they
+- [00:13:54,040 - 00:13:56,379] grow up what were their parents like
+- [00:13:56,379 - 00:13:58,719] right those two things are inside of
+- [00:13:58,719 - 00:14:00,509] every single person so until you
+- [00:14:00,509 - 00:14:02,300] understand who you're talking to and
+- [00:14:02,300 - 00:14:04,470] what they care about you can't
+- [00:14:04,470 - 00:14:06,640] solve problems on the phone solving problems
+- [00:14:06,640 - 00:14:08,859] on the phone is what sales it sales
+- [00:14:08,859 - 00:14:11,079] is just a transfer of certainty that you
+- [00:14:11,079 - 00:14:12,879] can take someone from their
+- [00:14:12,879 - 00:14:14,680] current situation to their desired situation
+- [00:14:14,680 - 00:14:14,699] right and their desired situation is real and
+- [00:14:14,699 - 00:14:14,719] you don't need a whol � 是 heats się无法解决一觸情况
+- [00:14:14,719 - 00:14:15,599] and their desired situation is real
+- [00:14:15,599 - 00:14:16,480] and you don't need a No‐ deve
+- [00:14:16,480 - 00:14:19,160] really them telling you what it is that they want
+- [00:14:19,160 - 00:14:21,840] so much of sales and people selling is trying to
+- [00:14:21,840 - 00:14:23,800] force your agenda on what you think people
+- [00:14:23,800 - 00:14:25,760] want instead of just really asking where they're
+- [00:14:25,760 - 00:14:28,360] starting from where they're looking to go and how
+- [00:14:28,360 - 00:14:30,960] is your product and service the gap between where
+- [00:14:30,960 - 00:14:32,920] they are today to where they want to be does
+- [00:14:32,920 - 00:14:34,880] that make sense yes wow that was great thank you guys
+- [00:14:34,880 - 00:14:36,840] so much for tuning in be sure to leave a
+- [00:14:36,840 - 00:14:38,800] like and subscribe for tons of amazing content coming soon
+- [00:14:38,800 - 00:14:41,080] johnny where can everybody find you johnny the
+- [00:14:41,080 - 00:14:43,360] closer on instagram and if you don't follow my
+- [00:14:43,360 - 00:14:46,760] boys you're all boom yes sir yes sir yes
+- [00:14:46,760 - 00:14:50,160] sir my man johnny hey johnny the closer tapping
+- [00:14:50,160 - 00:14:51,960] on instagram like subscribe we got amazing content
+- [00:14:51,960 - 00:14:53,760] coming soon see you in the next one
