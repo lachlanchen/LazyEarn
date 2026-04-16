@@ -1,0 +1,106 @@
+# Transcript
+
+Source: lazyearn/school-of-hard-knocks/entrepreneurship/177 - How To Upload Facebook Reels ｜ Grow Your FB Page RAPIDLY [pBzmIEVpSiI].mkv
+
+- [00:00:00,000 - 00:00:01,800] Hey what's up guys it's Josh here with the School
+- [00:00:01,800 - 00:00:03,600] of Hard Knocks. Hope you guys are having a great
+- [00:00:03,600 - 00:00:05,990] day. Today we're talking all about how to upload
+- [00:00:05,990 - 00:00:08,380] to Facebook Reels and how to get the maximum
+- [00:00:08,380 - 00:00:10,740] amount of exposure from those Reels as well.
+- [00:00:10,740 - 00:00:13,100] This is going to be a very straightforward
+- [00:00:13,100 - 00:00:15,600] and actionable video just showing you how to get
+- [00:00:15,600 - 00:00:18,100] it done. So I'm going to be hopping behind the
+- [00:00:18,100 - 00:00:20,580] computer doing a screen recording and getting into
+- [00:00:20,580 - 00:00:23,060] it. So if you guys enjoy content like this
+- [00:00:23,060 - 00:00:25,490] where it just gives you actionable simple advice
+- [00:00:25,490 - 00:00:27,920] that you can take action on, give a subscribe.
+- [00:00:27,920 - 00:00:30,110] I would really appreciate it. Let's go ahead hop into
+- [00:00:30,110 - 00:00:32,299] it. Just so you guys know this is the exact
+- [00:00:32,299 - 00:00:34,610] same process on the mobile app as it is
+- [00:00:34,610 - 00:00:36,920] on the desktop version. I'll be doing this example in
+- [00:00:36,920 - 00:00:39,100] the mobile app. So you're going to want to go
+- [00:00:39,100 - 00:00:41,280] ahead and log in and you're going to want to go
+- [00:00:41,280 - 00:00:43,680] to your pages and then select the page that you want
+- [00:00:43,680 - 00:00:46,080] to use. So I want to use the School of Hard
+- [00:00:46,080 - 00:00:48,320] Knocks. So I'm going to go ahead and scroll down
+- [00:00:48,320 - 00:00:50,560] and go to right here where you can create a post
+- [00:00:50,560 - 00:00:53,430] and I'm going to go ahead and create a Reel
+- [00:00:53,430 - 00:00:56,300] and you're going to go ahead and go to the bottom
+- [00:00:56,300 - 00:00:57,900] left and select the
+- [00:00:57,900 - 00:01:00,020] video that you want to use. I'm going to go
+- [00:01:00,020 - 00:01:02,140] ahead and select this one right here asking a social
+- [00:01:02,140 - 00:01:04,959] media expert and influencer the advice he gives
+- [00:01:04,959 - 00:01:07,780] himself. And so typically what I found and I've
+- [00:01:07,780 - 00:01:10,220] actually learned this from TikTok and creating content on
+- [00:01:10,220 - 00:01:12,660] there is you always want to add a sound.
+- [00:01:12,660 - 00:01:15,360] The reason being is because I have found in
+- [00:01:15,360 - 00:01:18,060] my experiences that typically when you add a sound
+- [00:01:18,060 - 00:01:20,730] that you genuinely just get more exposure for your
+- [00:01:20,730 - 00:01:23,400] videos. So I'm going to go ahead, click on the
+- [00:01:23,400 - 00:01:25,640] sound icon, add music and the music that
+- [00:01:25,640 - 00:01:27,880] you typically want to add, whether you're going to
+- [00:01:27,880 - 00:01:30,109] add a song or you want to listen to it or
+- [00:01:30,109 - 00:01:32,339] not, is I like to add a trending sound slash artist. I'm
+- [00:01:32,339 - 00:01:35,899] going to add Whoa by Lil Baby and because I
+- [00:01:35,899 - 00:01:39,460] don't want to actually listen to the sound in my video,
+- [00:01:39,460 - 00:01:42,020] I'm going to turn the volume all the way down just
+- [00:01:42,020 - 00:01:44,580] so you can barely hear it. And so that way the
+- [00:01:44,580 - 00:01:47,360] overall music or the overall sound of the video is
+- [00:01:47,360 - 00:01:50,140] the same, but I still get the added benefits of
+- [00:01:50,140 - 00:01:53,400] having the sound involved. So after I've added the
+- [00:01:53,400 - 00:01:56,660] sound, I like to go ahead and change this timeline
+- [00:01:56,660 - 00:01:57,260] bar to where I want to add the sound. So I'm
+- [00:01:57,260 - 00:01:57,860] going to go ahead and click on the sound icon and then
+- [00:01:57,880 - 00:02:00,470] I want to add the thumbnail slash the cover for this
+- [00:02:00,470 - 00:02:03,060] reel to be. So I'm going to change it to right
+- [00:02:03,060 - 00:02:06,580] here. Going to go to next. And so now that is
+- [00:02:06,580 - 00:02:10,100] my cover for my reel. So for the description, I like
+- [00:02:10,100 - 00:02:13,010] to add in some sort of call to action or
+- [00:02:13,010 - 00:02:15,920] thought provoking question to get people to watch the full
+- [00:02:15,920 - 00:02:18,310] amount of the video. So I typically lean towards
+- [00:02:18,310 - 00:02:20,700] a call to action, getting people to follow. So you
+- [00:02:20,700 - 00:02:24,260] get people to say, uh, follow for more content
+- [00:02:24,260 - 00:02:27,820] like this. And then I'm going to go ahead and
+- [00:02:27,880 - 00:02:30,110] like an emoji and you could do
+- [00:02:30,110 - 00:02:32,340] something like that I recommend you experiment
+- [00:02:32,340 - 00:02:34,110] with a bunch of different phrases
+- [00:02:34,110 - 00:02:35,880] questions or just call to actions in
+- [00:02:35,880 - 00:02:38,060] general and find what works for you
+- [00:02:38,060 - 00:02:40,240] and what gets traction so after you've added
+- [00:02:40,240 - 00:02:42,700] in your call to action you want to
+- [00:02:42,700 - 00:02:45,160] add in a relevant hashtags to the post
+- [00:02:45,160 - 00:02:47,900] itself as well as to the overall page
+- [00:02:47,900 - 00:02:50,640] and niche of your business in general so
+- [00:02:50,640 - 00:02:53,270] for this this is a social
+- [00:02:53,270 - 00:02:55,900] media and then influencer because this directly
+- [00:02:55,900 - 00:02:58,220] correlates to the title of the video and
+- [00:02:58,220 - 00:03:00,540] then you want to add in so business
+- [00:03:00,540 - 00:03:03,160] entrepreneur and like other stuff like
+- [00:03:03,160 - 00:03:05,780] that because that's relevant to my page
+- [00:03:05,780 - 00:03:07,750] itself because the school of hard
+- [00:03:07,750 - 00:03:09,720] knocks is a business entrepreneurship and like
+- [00:03:09,720 - 00:03:11,920] finance page right so you're gonna
+- [00:03:11,920 - 00:03:14,120] add in typically six to seven hashtags
+- [00:03:14,120 - 00:03:15,870] that's at least what I have been
+- [00:03:15,870 - 00:03:17,620] doing and then after you've done all that
+- [00:03:17,620 - 00:03:19,320] you're gonna want to go ahead and press
+- [00:03:19,320 - 00:03:21,020] share the real and you're good to go
+- [00:03:21,020 - 00:03:22,680] hopefully you guys enjoyed some of the
+- [00:03:22,680 - 00:03:24,340] tips that I shared on uploading your
+- [00:03:24,340 - 00:03:25,600] reels on a Facebook
+- [00:03:25,600 - 00:03:25,740] ultimately I'm going to be posting a
+- [00:03:25,740 - 00:03:25,880] video on Facebook and I'm going to be
+- [00:03:25,880 - 00:03:27,270] posting videos on my Twitter and I'm going
+- [00:03:27,270 - 00:03:28,660] to post my post there and I'll be
+- [00:03:28,660 - 00:03:30,460] posting a video on Instagram and on
+- [00:03:30,460 - 00:03:32,260] my Twitter but I personally think this
+- [00:03:32,260 - 00:03:34,510] video should be just one part
+- [00:03:34,510 - 00:03:36,760] of your brand strategy to build overall
+- [00:03:36,760 - 00:03:38,309] awareness around your brand if you're
+- [00:03:38,309 - 00:03:39,859] looking for more advanced and in-depth
+- [00:03:39,859 - 00:03:42,049] tips this week I'll be uploading a guide
+- [00:03:42,049 - 00:03:44,240] on how you can grow your brand on
+- [00:03:44,240 - 00:03:45,710] social media if you enjoyed this video
+- [00:03:45,710 - 00:03:47,180] please leave us a like and subscribe
+- [00:03:47,180 - 00:03:47,692] would really appreciate it catch
+- [00:03:47,692 - 00:03:48,205] you guys in the next one
