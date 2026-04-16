@@ -1,0 +1,318 @@
+# Transcript
+
+Source: lazyearn/school-of-hard-knocks/entrepreneurship/156 - 5 Sales Tips To Start Closing Deals Ft： Alex Hormozi’s Closer Jacob Hopkins [N_KjHR6cKC8].mkv
+
+- [00:00:00,000 - 00:00:02,930] What's going on everyone? I'm James with the School of Hard Knocks. I'm here with
+- [00:00:02,930 - 00:00:05,860] Josh and today we're linking up with a really good friend of mine, Jacob Hopkins.
+- [00:00:06,120 - 00:00:09,760] Jacob, at 19 years old, went from being a college dropout, took more
+- [00:00:09,760 - 00:00:13,400] than $10,000 in debt, and now making over $250,000 a year in sales.
+- [00:00:13,520 - 00:00:15,670] So today, here at Jacob's place, I'm going to talk to
+- [00:00:15,670 - 00:00:17,820] him, get some tips from him about sales in today's world.
+- [00:00:20,260 - 00:00:21,300] What's going on, big man?
+- [00:00:21,460 - 00:00:22,020] What up, James?
+- [00:00:22,140 - 00:00:22,800] How you doing, bro?
+- [00:00:23,040 - 00:00:23,560] What up, Josh?
+- [00:00:23,700 - 00:00:24,300] How you doing, man?
+- [00:00:24,600 - 00:00:25,680] Who are we here with right here?
+- [00:00:25,980 - 00:00:26,440] Right here?
+- [00:00:26,700 - 00:00:26,840] Yeah.
+- [00:00:26,840 - 00:00:28,910] This is Quinn Fulmer. I do all
+- [00:00:28,910 - 00:00:30,980] the YouTube side of stuff at acquisition.com.
+- [00:00:31,200 - 00:00:31,940] Alex and Layla.
+- [00:00:32,080 - 00:00:35,210] So you've been in content. You've seen a lot of creators grow. What would
+- [00:00:35,210 - 00:00:38,340] be your best piece of advice to a content creator starting out in 2022?
+- [00:00:38,700 - 00:00:41,880] I'd say short form is the way to get people into the door, but to the
+- [00:00:41,880 - 00:00:45,060] same extent, don't sell out and just try to be a bunch of different other people.
+- [00:00:45,260 - 00:00:47,420] Everyone's got their own unique way of doing things.
+- [00:00:47,420 - 00:00:49,580] Stay true to yourself because it's a long game.
+- [00:00:49,720 - 00:00:52,960] You can get followers doing all this short stuff and trying to build an audience really
+- [00:00:52,960 - 00:00:56,200] fast, but if you do that and you build it on a foundation that's not you,
+- [00:00:56,200 - 00:00:56,820] it's just not going to work.
+- [00:00:56,820 - 00:00:56,840] It's just not going to work.
+- [00:00:56,840 - 00:00:57,480] It's just not going to go anywhere.
+- [00:00:57,540 - 00:00:59,320] Except that it's going to be three, five
+- [00:00:59,320 - 00:01:01,100] years, 10 year game, and then you're good.
+- [00:01:01,220 - 00:01:01,840] How did you guys meet?
+- [00:01:01,960 - 00:01:03,340] He was editing the video and then I
+- [00:01:03,340 - 00:01:04,720] think we just started DMing back and forth.
+- [00:01:04,819 - 00:01:06,040] Two days ago or was it last night?
+- [00:01:06,080 - 00:01:07,380] You're just like, hey, let's meet up.
+- [00:01:07,380 - 00:01:08,680] Let's film some videos. Let's do it.
+- [00:01:08,760 - 00:01:10,730] And so I was kind of giving a brief little introduction
+- [00:01:10,730 - 00:01:12,700] to you before we came in here and started the video,
+- [00:01:12,820 - 00:01:15,630] but give a little rundown to everyone about yourself, kind of how
+- [00:01:15,630 - 00:01:18,440] you got to where you are today and started crushing the sales game.
+- [00:01:18,540 - 00:01:19,420] So I started out in high school.
+- [00:01:19,600 - 00:01:21,190] I was always super business minded,
+- [00:01:21,190 - 00:01:22,780] always looking for the next hustle.
+- [00:01:22,960 - 00:01:24,540] I never really wanted to go to college.
+- [00:01:24,580 - 00:01:26,820] I just didn't feel like it aligned with.
+- [00:01:26,820 - 00:01:29,660] Having the freedom that I wanted because I knew I never wanted
+- [00:01:29,660 - 00:01:32,500] to just live like a normal life or like an average life.
+- [00:01:32,580 - 00:01:34,759] As I was going through that, I started multiple businesses.
+- [00:01:34,960 - 00:01:36,639] I started a car detailing business.
+- [00:01:36,780 - 00:01:38,800] I started, you know, a drop shipping business.
+- [00:01:38,860 - 00:01:39,559] I did real estate.
+- [00:01:39,699 - 00:01:41,169] So I was just trying to
+- [00:01:41,169 - 00:01:42,639] figure out what I should do next.
+- [00:01:42,859 - 00:01:43,699] What's going to make the money?
+- [00:01:43,780 - 00:01:45,449] And I had a little bit of success
+- [00:01:45,449 - 00:01:47,119] with a couple of the companies, but nothing major.
+- [00:01:47,240 - 00:01:48,060] I made a couple grand.
+- [00:01:48,139 - 00:01:48,660] It was cool.
+- [00:01:48,780 - 00:01:49,440] It was fun.
+- [00:01:49,479 - 00:01:51,219] And then really figuring out which school,
+- [00:01:51,219 - 00:01:52,960] which college I was supposed to go to.
+- [00:01:53,060 - 00:01:53,820] I picked Pepperdine.
+- [00:01:53,899 - 00:01:55,199] It was the only school that didn't open.
+- [00:01:55,199 - 00:01:56,780] It ended up, you know, kind of giving me this.
+- [00:01:56,780 - 00:01:58,340] This opportunity to be able to get
+- [00:01:58,340 - 00:01:59,900] into sales and kind of start that career.
+- [00:02:00,020 - 00:02:01,160] It's been about two years since
+- [00:02:01,160 - 00:02:02,300] then and haven't looked back since.
+- [00:02:02,400 - 00:02:02,980] I love that, man.
+- [00:02:03,100 - 00:02:07,560] And the main reason we're here today is we want to get your five best sales tips and
+- [00:02:07,560 - 00:02:12,020] lessons that you've learned since you've been in sales for someone who's just now starting out in sales.
+- [00:02:12,140 - 00:02:12,540] Let's do it.
+- [00:02:12,560 - 00:02:13,740] You guys want to go chop it on the balcony?
+- [00:02:13,920 - 00:02:14,560] Let's check out the view.
+- [00:02:14,840 - 00:02:15,380] Let's do it.
+- [00:02:15,900 - 00:02:17,820] What would be your best five tips to
+- [00:02:17,820 - 00:02:19,740] someone who's just now starting out in sales?
+- [00:02:19,840 - 00:02:21,920] Number one would definitely be volume negates luck.
+- [00:02:21,920 - 00:02:23,690] The way I got my foot in the
+- [00:02:23,690 - 00:02:25,460] door was, you know, I had Alex Hermosi.
+- [00:02:25,860 - 00:02:26,760] He owns a company called.
+- [00:02:26,780 - 00:02:29,660] And I was losing so much money with my company.
+- [00:02:29,740 - 00:02:31,100] I was doing real estate and I
+- [00:02:31,100 - 00:02:32,460] was losing three, four grand a month.
+- [00:02:32,500 - 00:02:34,120] And he said, hey, man, the reason you're losing
+- [00:02:34,120 - 00:02:35,740] so much money is because you suck at sales.
+- [00:02:35,780 - 00:02:38,580] He said, if everyone's making 100 calls, make 200.
+- [00:02:38,820 - 00:02:41,650] Long story short, I hopped in and I made 200,
+- [00:02:41,650 - 00:02:44,480] 300, 400 dials a day when everyone else was making 100.
+- [00:02:44,700 - 00:02:47,360] Within two, three weeks, I was doing just as good
+- [00:02:47,360 - 00:02:50,020] as everyone else because I just was putting up more numbers.
+- [00:02:50,220 - 00:02:52,260] Sales is a really high performance job.
+- [00:02:52,320 - 00:02:53,380] It's really, you know, you got
+- [00:02:53,380 - 00:02:54,440] to be on it all the time.
+- [00:02:54,440 - 00:02:56,280] How do you maintain a high performance?
+- [00:02:56,280 - 00:02:58,140] It sounds kind of like cheesy, but just
+- [00:02:58,140 - 00:03:00,000] make sure you're taking care of your health.
+- [00:03:00,300 - 00:03:01,120] You're getting sleep.
+- [00:03:01,300 - 00:03:02,640] You're doing the things that you need to do.
+- [00:03:02,720 - 00:03:04,120] And I think the biggest thing
+- [00:03:04,120 - 00:03:05,520] that causes stress for me is inaction.
+- [00:03:05,660 - 00:03:07,960] So if I'm not hitting the phones, if I'm not doing
+- [00:03:07,960 - 00:03:10,260] what I know I need to do, then I get stressed out.
+- [00:03:10,360 - 00:03:11,680] I don't focus in on the result.
+- [00:03:11,860 - 00:03:12,920] I focus in on the action.
+- [00:03:13,060 - 00:03:15,530] And if you look at it like that, you just focus in on what
+- [00:03:15,530 - 00:03:18,000] you're doing day to day and then have the action kind of just happen.
+- [00:03:18,120 - 00:03:18,760] How about number two?
+- [00:03:18,880 - 00:03:21,340] So number two is listen more, talk less.
+- [00:03:21,520 - 00:03:23,040] So I feel like a lot of people get
+- [00:03:23,040 - 00:03:24,560] into sales and they feel like it's a talking job.
+- [00:03:24,560 - 00:03:25,680] Of course, you have to be articulate.
+- [00:03:25,680 - 00:03:27,740] You have to know what you're going to say.
+- [00:03:27,880 - 00:03:29,990] But people think, you know, in my experience that
+- [00:03:29,990 - 00:03:32,100] they're not really listening to what the person is saying.
+- [00:03:32,200 - 00:03:34,080] They're just trying to wait their turn to talk.
+- [00:03:34,160 - 00:03:38,460] And so really with that, just being able to practice active listening, really understanding what
+- [00:03:38,460 - 00:03:42,760] people's needs are, what they want, why they're actually doing the things or buying the product.
+- [00:03:42,860 - 00:03:45,640] You build so much trust and rapport with that person.
+- [00:03:45,640 - 00:03:47,300] And then you can close the sale.
+- [00:03:47,440 - 00:03:49,040] When I pitch, it's less than a minute.
+- [00:03:49,140 - 00:03:50,280] Say, hey, here's the three things
+- [00:03:50,280 - 00:03:51,420] based on what you told me.
+- [00:03:51,560 - 00:03:52,380] Customize a little bit.
+- [00:03:52,540 - 00:03:53,080] Short and sweet.
+- [00:03:53,300 - 00:03:54,180] Keep my powder dry.
+- [00:03:54,180 - 00:03:55,640] But I was able to listen and ask him.
+- [00:03:55,740 - 00:03:57,260] Such good questions that before I even
+- [00:03:57,260 - 00:03:58,780] pitched, they knew they wanted to buy.
+- [00:03:58,940 - 00:04:01,230] If you could go back in time and have a conversation with
+- [00:04:01,230 - 00:04:03,520] your younger self, what's the best piece of advice you'd give yourself?
+- [00:04:03,620 - 00:04:04,980] I think people just need to bet on themselves.
+- [00:04:05,320 - 00:04:07,000] Like if I were to tell my younger
+- [00:04:07,000 - 00:04:08,680] self, it's like just continue to bet on yourself.
+- [00:04:08,820 - 00:04:10,660] Look at things through a long time horizon.
+- [00:04:10,860 - 00:04:12,510] When I first started entrepreneurship, I tried
+- [00:04:12,510 - 00:04:14,160] to become a millionaire in 90 days.
+- [00:04:14,320 - 00:04:15,800] You can get very, very lucky.
+- [00:04:15,960 - 00:04:17,510] But if you want a safe bet
+- [00:04:17,510 - 00:04:19,060] on becoming a millionaire, think in 10 years.
+- [00:04:19,180 - 00:04:20,769] Think what skill sets do I need to acquire
+- [00:04:20,769 - 00:04:22,360] to be able to do what I need to do?
+- [00:04:22,360 - 00:04:23,280] What is your dream business?
+- [00:04:23,280 - 00:04:24,520] Do you need to be able to sell for it?
+- [00:04:24,560 - 00:04:25,220] Go learn sales.
+- [00:04:25,360 - 00:04:25,520] Stack.
+- [00:04:25,600 - 00:04:25,660] If you're a millionaire, go learn sales.
+- [00:04:25,660 - 00:04:25,680] Go learn sales.
+- [00:04:25,680 - 00:04:25,780] If you're a millionaire, go learn sales.
+- [00:04:25,780 - 00:04:25,820] If you're a millionaire, go learn sales.
+- [00:04:25,820 - 00:04:28,400] Then start buying the next skill sets.
+- [00:04:28,600 - 00:04:30,330] What I wanted to do did not
+- [00:04:30,330 - 00:04:32,060] align with my 10-year journey, my 10-year path.
+- [00:04:32,240 - 00:04:33,440] So that brings us into number three.
+- [00:04:33,620 - 00:04:35,580] So number three would be challenge people.
+- [00:04:35,760 - 00:04:38,480] In sales, people try to relationship sell.
+- [00:04:38,640 - 00:04:40,520] They try to be that person's friend.
+- [00:04:40,660 - 00:04:42,020] And in sales, I'm not your friend.
+- [00:04:42,100 - 00:04:43,450] But at the same time, I
+- [00:04:43,450 - 00:04:44,800] care about you enough to challenge you.
+- [00:04:44,880 - 00:04:47,060] A lot of people just try to be super, super
+- [00:04:47,060 - 00:04:49,240] agreeable and super, yeah, yeah, yeah, we can do that.
+- [00:04:49,280 - 00:04:49,860] We can do that.
+- [00:04:49,860 - 00:04:51,840] Not challenging their beliefs on how they
+- [00:04:51,840 - 00:04:53,820] should do something by asking the right questions.
+- [00:04:54,040 - 00:04:54,850] So if you're able to
+- [00:04:54,850 - 00:04:55,660] get the frame of the conversation,
+- [00:04:55,660 - 00:04:57,780] where you're the understanding expert,
+- [00:04:57,940 - 00:04:58,910] and then you're in a
+- [00:04:58,910 - 00:04:59,880] place where you can challenge them.
+- [00:05:00,080 - 00:05:01,370] I mean, think, your parents challenge you
+- [00:05:01,370 - 00:05:02,660] all the time because they care about you.
+- [00:05:02,760 - 00:05:04,700] You can't just, you know, be buddy-buddy with someone
+- [00:05:04,700 - 00:05:06,600] and expect them to buy a high-ticket product.
+- [00:05:06,680 - 00:05:07,890] And could you give me an example
+- [00:05:07,890 - 00:05:09,100] of like how you would challenge someone
+- [00:05:09,100 - 00:05:10,280] if you're on like a sales call?
+- [00:05:10,380 - 00:05:12,560] You know, in my market, we help gym owners grow.
+- [00:05:12,660 - 00:05:14,040] There's a lot of limiting beliefs in that.
+- [00:05:14,160 - 00:05:15,240] And they say, hey, you know,
+- [00:05:15,240 - 00:05:16,320] the way I'm going to grow
+- [00:05:16,320 - 00:05:17,880] is I'm just going to be doing word of mouth.
+- [00:05:18,020 - 00:05:20,080] And like the easiest way to challenge that is
+- [00:05:20,080 - 00:05:21,780] you said you want to double your gym
+- [00:05:21,780 - 00:05:23,480] membership in the next, you know, two years.
+- [00:05:23,480 - 00:05:25,440] Do you think you're going to gain 300 members?
+- [00:05:25,440 - 00:05:27,140] By word of mouth in the next two years?
+- [00:05:27,160 - 00:05:28,640] Or do you think there's a better way?
+- [00:05:28,740 - 00:05:30,740] You're challenging them on that rather than just saying,
+- [00:05:30,880 - 00:05:32,060] oh, yeah, yeah, that's great.
+- [00:05:32,120 - 00:05:32,620] You should do that.
+- [00:05:32,760 - 00:05:34,160] So for new people that are getting the sale,
+- [00:05:34,280 - 00:05:36,090] something that may intimidate them is
+- [00:05:36,090 - 00:05:37,900] the fact that it's primarily commission only.
+- [00:05:38,020 - 00:05:39,460] How did you get over that initially?
+- [00:05:39,700 - 00:05:40,680] There's nothing guaranteed.
+- [00:05:40,860 - 00:05:42,530] People have this unrealistic expectation that
+- [00:05:42,530 - 00:05:44,200] they're going to go to college.
+- [00:05:44,300 - 00:05:45,290] They're going to get a job
+- [00:05:45,290 - 00:05:46,280] and they just get a guaranteed salary.
+- [00:05:46,360 - 00:05:47,360] If you don't do a good
+- [00:05:47,360 - 00:05:48,360] job, you're going to get fired.
+- [00:05:48,460 - 00:05:49,860] Would you rather be put on a salary?
+- [00:05:50,040 - 00:05:51,220] Or would you rather go
+- [00:05:51,220 - 00:05:52,400] out and based on your performance,
+- [00:05:52,400 - 00:05:53,960] you get paid based on that.
+- [00:05:54,100 - 00:05:54,980] And it's not for everyone.
+- [00:05:54,980 - 00:05:57,420] But it's the closest thing to owning a business.
+- [00:05:57,600 - 00:05:58,790] And if you want to be an
+- [00:05:58,790 - 00:05:59,980] entrepreneur, you want to be a business owner,
+- [00:06:00,120 - 00:06:01,650] you can go in and learn how
+- [00:06:01,650 - 00:06:03,180] to manage your time, manage your schedule,
+- [00:06:03,320 - 00:06:04,140] be your own boss.
+- [00:06:04,220 - 00:06:05,490] And then you actually get paid
+- [00:06:05,490 - 00:06:06,760] for how much work you do.
+- [00:06:06,820 - 00:06:06,940] All right.
+- [00:06:06,940 - 00:06:07,860] And what about number four?
+- [00:06:08,020 - 00:06:09,000] Ask for money, right?
+- [00:06:09,120 - 00:06:10,210] I mean, I feel like
+- [00:06:10,210 - 00:06:11,300] too many people get into sales
+- [00:06:11,300 - 00:06:13,360] and they don't relentlessly ask for the order.
+- [00:06:13,440 - 00:06:14,980] So once you're in the position where
+- [00:06:14,980 - 00:06:16,520] don't pitch until you know you can close.
+- [00:06:16,640 - 00:06:18,040] Once you pitch and you know
+- [00:06:18,040 - 00:06:19,440] you can close, actually ask for it.
+- [00:06:19,540 - 00:06:20,790] I've had people tell me no
+- [00:06:20,790 - 00:06:22,040] five, ten times in a row,
+- [00:06:22,120 - 00:06:24,580] but I continue to solve the problem and ask again.
+- [00:06:24,580 - 00:06:24,960] How?
+- [00:06:25,000 - 00:06:26,670] High percentage of salespeople don't even ask
+- [00:06:26,670 - 00:06:28,340] for the order and ask for the deal.
+- [00:06:28,480 - 00:06:30,070] How important has networking been to
+- [00:06:30,070 - 00:06:31,660] your career so far in sales?
+- [00:06:31,780 - 00:06:33,510] I mean, I think networking is very important
+- [00:06:33,510 - 00:06:35,240] and it depends what type of sales, right?
+- [00:06:35,240 - 00:06:37,420] So the way my sales process works is,
+- [00:06:37,420 - 00:06:39,600] you know, I have clients that see an ad,
+- [00:06:39,680 - 00:06:40,640] they click on the ad and
+- [00:06:40,640 - 00:06:41,600] they jump on a call with me.
+- [00:06:41,620 - 00:06:42,760] So they jump into the program.
+- [00:06:42,860 - 00:06:44,420] But then I continue to follow up
+- [00:06:44,420 - 00:06:45,980] with the clients that are in the program
+- [00:06:45,980 - 00:06:47,320] and ask them if they know
+- [00:06:47,320 - 00:06:48,660] anyone else, if they have any referrals.
+- [00:06:49,020 - 00:06:50,840] And over the last week, I've closed just
+- [00:06:50,840 - 00:06:52,660] two deals from being able to do that.
+- [00:06:52,720 - 00:06:53,340] It is important.
+- [00:06:53,480 - 00:06:54,840] You want to make sure you kind of,
+- [00:06:54,980 - 00:06:56,460] nurture the relationship in the right way.
+- [00:06:56,540 - 00:06:58,220] When people are first getting started in sales,
+- [00:06:58,360 - 00:06:59,550] they're probably stressed out because
+- [00:06:59,550 - 00:07:00,740] they're probably not that good yet.
+- [00:07:00,820 - 00:07:02,680] How did you get over that initial stress?
+- [00:07:02,820 - 00:07:03,840] Stress is a normal feeling.
+- [00:07:03,960 - 00:07:04,960] Like first you got to register.
+- [00:07:05,100 - 00:07:06,190] It's like you're going to feel
+- [00:07:06,190 - 00:07:07,280] stressed even when you're doing good
+- [00:07:07,280 - 00:07:08,940] because you're always worried about what's next.
+- [00:07:09,160 - 00:07:10,940] So like humans just experience stress.
+- [00:07:11,020 - 00:07:12,230] So if you can just understand
+- [00:07:12,230 - 00:07:13,440] that's a feeling and it doesn't matter,
+- [00:07:13,520 - 00:07:14,320] that's like step one.
+- [00:07:14,460 - 00:07:17,140] Step two, if you're feeling stressed, just do more things.
+- [00:07:17,300 - 00:07:19,720] Like just put in more work, watch more game tape,
+- [00:07:19,820 - 00:07:21,220] listen to more sales calls,
+- [00:07:21,220 - 00:07:22,620] really just do whatever you can
+- [00:07:22,620 - 00:07:23,740] to be able to take action.
+- [00:07:23,740 - 00:07:24,970] Because the more action you're
+- [00:07:24,970 - 00:07:26,200] taking, the less bored you are.
+- [00:07:26,280 - 00:07:27,250] And the more bored you
+- [00:07:27,250 - 00:07:28,220] are, the more stressed I get.
+- [00:07:28,300 - 00:07:29,380] What would your fifth tip be
+- [00:07:29,380 - 00:07:30,460] to someone who's getting into sales?
+- [00:07:30,620 - 00:07:31,860] Closers ask hard questions.
+- [00:07:32,060 - 00:07:33,580] Too many people are scared, you
+- [00:07:33,580 - 00:07:35,100] know, to ask those hard questions.
+- [00:07:35,220 - 00:07:36,400] How much money is in your bank account?
+- [00:07:36,480 - 00:07:38,220] What happens if you don't fix this problem?
+- [00:07:38,300 - 00:07:39,820] What does your life look like in
+- [00:07:39,820 - 00:07:41,340] five years if you don't solve this?
+- [00:07:41,480 - 00:07:42,640] What does it look like if it
+- [00:07:42,640 - 00:07:43,800] does happen the way you want it to?
+- [00:07:43,820 - 00:07:45,720] You have to be able to ask these hard questions,
+- [00:07:46,120 - 00:07:47,840] the things that you need to know
+- [00:07:47,840 - 00:07:49,560] to put the prospect in the best position.
+- [00:07:49,660 - 00:07:51,280] I can't sign someone up into our program
+- [00:07:51,280 - 00:07:53,200] if they don't have enough money to be successful.
+- [00:07:53,200 - 00:07:55,680] But the only reason I can know that is because,
+- [00:07:55,800 - 00:07:57,219] hey, I'm going to ask that hard question.
+- [00:07:57,340 - 00:07:58,140] I'm going to really figure out.
+- [00:07:58,200 - 00:07:59,520] And it's awkward at first, right?
+- [00:07:59,520 - 00:07:59,979] It's hard.
+- [00:08:00,060 - 00:08:01,820] But once you, you know, get used to it,
+- [00:08:01,840 - 00:08:03,039] then you can ask hard questions.
+- [00:08:03,039 - 00:08:04,360] You can have hard conversations.
+- [00:08:04,380 - 00:08:05,840] And there's this saying in life,
+- [00:08:05,860 - 00:08:07,860] it's like the more hard conversations you have,
+- [00:08:07,880 - 00:08:09,039] the more successful you are.
+- [00:08:09,120 - 00:08:11,019] So if you can build that skill set
+- [00:08:11,019 - 00:08:12,919] of being able to ask those hard questions,
+- [00:08:12,960 - 00:08:14,280] then you can just get so much further.
+- [00:08:14,419 - 00:08:17,000] So that wraps up today's video with Jacob Hopkins
+- [00:08:17,000 - 00:08:18,880] and his five best tips to younger
+- [00:08:18,880 - 00:08:20,760] people who are starting out in sales today.
+- [00:08:20,760 - 00:08:21,919] Jacob, we learned a lot today.
+- [00:08:22,039 - 00:08:22,900] Thank you for joining us.
+- [00:08:23,200 - 00:08:24,000] School of Hard Knocks.
+- [00:08:24,140 - 00:08:24,760] I appreciate you.
+- [00:08:24,860 - 00:08:25,700] Where can everyone find you?
+- [00:08:25,800 - 00:08:26,979] Instagram, Jacob Hopkins.
+- [00:08:27,240 - 00:08:28,500] Make sure you like, leave us a
+- [00:08:28,500 - 00:08:29,760] subscribe at the School of Hard Knocks.
+- [00:08:29,820 - 00:08:31,060] A lot of amazing content on the way.
+- [00:08:31,219 - 00:08:31,640] Let's go.
