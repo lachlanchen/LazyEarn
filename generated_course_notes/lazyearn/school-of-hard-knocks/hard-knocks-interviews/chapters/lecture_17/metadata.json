@@ -5,20 +5,5 @@
   "lecture_number": 17,
   "lecture_slug": "lecture_17",
   "lecture_title": "Asking Wall Street Moguls How They Got Rich!",
-  "assets": [
-    {
-      "name": "lecture_17_figure_01.png",
-      "timestamp_seconds": 0.0,
-      "timestamp_hhmmss": "00:00:00.000",
-      "source_candidate": "lecture_17_window_01_candidate_03_000000520.png",
-      "recommended_use": "screenshot_only",
-      "rationale": "All four candidates are exterior establishing shots of the NYSE entrance with the host approaching someone behind a fence. They contain no blackboard mathematics, diagram, chart, or note-worthy on-screen layout, so they are not useful evidence frames for the manuscript.",
-      "subtitle_excerpt": "Excuse me, sir.",
-      "segment_start_seconds": 0.0,
-      "segment_start_hhmmss": "00:00:00.000",
-      "segment_end_seconds": 0.84,
-      "segment_end_hhmmss": "00:00:00.840",
-      "caption_hint": "Excuse me, sir."
-    }
-  ]
+  "assets": []
 }
