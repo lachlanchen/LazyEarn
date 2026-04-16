@@ -1,0 +1,624 @@
+# Transcript
+
+Source: lazyearn/school-of-hard-knocks/entrepreneurship/147 - School of Hard Knocks First Speaking Event! [__CY9eanfV4].mkv
+
+- [00:00:00,000 - 00:00:04,520] What's going on, everybody? We are here in Cedar Park, Texas, just north of Austin. We're here for
+- [00:00:04,520 - 00:00:09,260] our first speaking engagement. It's crazy to me thinking about a year ago what we were doing with
+- [00:00:09,260 - 00:00:13,000] this channel, going around interviewing people in downtown Austin, and now we're here getting
+- [00:00:13,000 - 00:00:16,360] our first speaking opportunity for the channel. How are we feeling today, man? We feel good,
+- [00:00:16,460 - 00:00:19,720] man. We're prepared. We're coming to hopefully provide some value for the audience here. You
+- [00:00:19,720 - 00:00:22,680] know, got a couple hundred people out there, so, you know, we're looking forward to just delivering
+- [00:00:22,680 - 00:00:25,980] a good message. That way, people can benefit from it. Yeah, and later on the video, we're pretty
+- [00:00:25,980 - 00:00:29,840] much going to be showing you guys what we talked about in our speech. Kind of our big thing today
+- [00:00:29,840 - 00:00:33,420] is we're going to be talking about how people can unleash greatness through content creation, so
+- [00:00:33,420 - 00:00:44,380] let's get it. All right, so my first question for you, Chris, is if you were to go back to when you
+- [00:00:44,380 - 00:00:47,540] were in either high school or college, what is the best piece of advice that you would tell yourself?
+- [00:00:47,840 - 00:00:53,480] I think that that person wouldn't necessarily have listened, but the reality is I would say
+- [00:00:53,480 - 00:00:58,420] that taking the time to go to either college, university, I would tell them don't do that.
+- [00:00:58,420 - 00:00:59,820] I instead would try to come up.
+- [00:00:59,840 - 00:01:04,640] With somebody who is super influential and spend as much time with them as they possibly could.
+- [00:01:04,860 - 00:01:08,660] Learn as much as they can so that at the time they actually enter the workforce,
+- [00:01:09,000 - 00:01:12,440] they've learned real life skills. What industry did you decide to pursue a career?
+- [00:01:12,560 - 00:01:17,820] Specifically got into K-12, so into the educational industry, really around consulting.
+- [00:01:18,020 - 00:01:22,080] Consulting is a great business because it really takes and leverages your expertise,
+- [00:01:22,280 - 00:01:26,540] which you can get. Like, you can acquire that expertise and then offer that to someone else.
+- [00:01:26,540 - 00:01:29,820] That served me, not just in that industry, but as I've diversified,
+- [00:01:29,980 - 00:01:34,940] into other industries. Now I know I can become an expert and then apply that same philosophy.
+- [00:01:34,940 - 00:01:37,020] What advice would you give to someone wanting to start a business?
+- [00:01:37,020 - 00:01:39,820] Be a disruptor. Trying to figure out like a better mousetrap.
+- [00:01:39,820 - 00:01:42,660] What's that one thing you're gonna be able to do better than anyone else?
+- [00:01:42,660 - 00:01:47,920] I would go at it from a perspective of how am I gonna disrupt an industry that have done it the same way
+- [00:01:48,160 - 00:01:53,700] for the last 20, 30 years. What can we do leveraging technology or leveraging expertise
+- [00:01:53,960 - 00:01:59,400] that'll completely disrupt? And even though that's probably one of the harder things to break into,
+- [00:01:59,400 - 00:02:03,800] in my opinion, it is by far the largest impact you can make.
+- [00:02:03,800 - 00:02:07,680] For younger people today, especially, whether it's a certain, you know, skill set or attribute,
+- [00:02:07,680 - 00:02:09,740] you know, for someone to possess when they're going out into the real world,
+- [00:02:09,740 - 00:02:12,080] how can someone become financially free in today's world?
+- [00:02:12,080 - 00:02:17,300] Risk everything. I say this all the time. As an entrepreneur, I take a lot of risks financially.
+- [00:02:17,300 - 00:02:21,800] People say, Chris, man, you have such a high risk tolerance. And I tell them yes and no.
+- [00:02:21,800 - 00:02:26,780] I do with money and it's because I can make more tomorrow. But I have a low risk tolerance with time.
+- [00:02:26,900 - 00:02:28,540] So I'm gonna go for it.
+- [00:02:28,540 - 00:02:34,720] The worst thing to me on the planet is if I watch a Major League Baseball player strike out while looking.
+- [00:02:34,720 - 00:02:37,780] Get that bat off your shoulder and swing away.
+- [00:02:37,780 - 00:02:40,300] I guess the next thing I'll ask you is a fun one we've been asking people.
+- [00:02:40,300 - 00:02:44,520] But if you had to start from zero and you had one year to make a million dollars and your life depended on it,
+- [00:02:44,520 - 00:02:45,060] what would you do?
+- [00:02:45,060 - 00:02:49,360] Real estate. Borrow other people's money, invest in a real estate, refinance, do it all over again.
+- [00:02:49,360 - 00:02:50,660] What market would you look to invest in?
+- [00:02:50,660 - 00:02:53,480] Any real estate that's available to you based on where you are.
+- [00:02:53,480 - 00:02:56,500] So it could be commercial, could be residential, could be flipping homes.
+- [00:02:56,500 - 00:02:58,500] But 86% of the wealth in the world is real estate.
+- [00:02:58,540 - 00:03:00,540] And the rest of the wealth in this country is tied up in real estate.
+- [00:03:00,540 - 00:03:01,540] That's where you want to go.
+- [00:03:01,540 - 00:03:03,540] Look 40 miles outside of Austin.
+- [00:03:03,540 - 00:03:05,540] Get outside the major metropolitan areas.
+- [00:03:05,540 - 00:03:07,540] Get into areas where there's still a lot of growth potential.
+- [00:03:07,540 - 00:03:09,540] It just hasn't been tapped yet.
+- [00:03:09,540 - 00:03:13,540] My last question for you is, you know, for someone who did decide to go to college or coming out of school,
+- [00:03:13,540 - 00:03:15,540] what is your best piece of advice to someone who is starting out in the real world today?
+- [00:03:15,540 - 00:03:18,540] Make sure that whatever you're gonna do, you're all in.
+- [00:03:18,540 - 00:03:20,540] Don't try things out.
+- [00:03:20,540 - 00:03:22,540] You have to go for it and you have to give it time.
+- [00:03:22,540 - 00:03:25,540] A year, two years, three years is not enough time.
+- [00:03:25,540 - 00:03:27,540] You gotta be shooting for at least five years where you are all in.
+- [00:03:27,540 - 00:03:28,540] So you're gonna have to give it time.
+- [00:03:28,540 - 00:03:29,540] Sleep on someone's couch.
+- [00:03:29,540 - 00:03:30,540] Don't go out to eat.
+- [00:03:30,540 - 00:03:36,540] Put all the money you have away so that you can go for it in a way that most people will never have the discipline to do.
+- [00:03:36,540 - 00:03:40,540] It's about 30 minutes before we're supposed to go on stage and speak at our first event.
+- [00:03:40,540 - 00:03:41,540] How we feeling?
+- [00:03:41,540 - 00:03:42,540] Feeling good, man.
+- [00:03:42,540 - 00:03:43,540] Feeling good.
+- [00:03:43,540 - 00:03:44,540] We prepared for this.
+- [00:03:44,540 - 00:03:47,540] So, you know, just looking forward to going out there and again, just providing some value for people.
+- [00:03:47,540 - 00:03:48,540] Oh no, are you nervous?
+- [00:03:48,540 - 00:03:49,540] Sure.
+- [00:03:49,540 - 00:03:51,540] I'm always a little nervous, you know, but hey, but we're built for this, man.
+- [00:03:51,540 - 00:03:52,540] You know what I'm saying?
+- [00:03:52,540 - 00:03:54,540] This is, I have never had an issue public speaking.
+- [00:03:54,540 - 00:03:56,540] So I'm kind of looking forward to it a little bit.
+- [00:03:56,540 - 00:03:57,540] Where'd you learn how to public speak?
+- [00:03:57,540 - 00:03:58,540] Yeah.
+- [00:03:58,540 - 00:03:59,540] And you know, I think that's enough.
+- [00:03:59,540 - 00:04:04,540] You know, we actually really got into public speaking because of Boy Scouts and really just seeing our dad speak in front of thousands of people.
+- [00:04:04,540 - 00:04:05,540] So yeah, we're looking forward to it, man.
+- [00:04:05,540 - 00:04:06,540] Let's crush it.
+- [00:04:06,540 - 00:04:07,540] 30 minutes, baby.
+- [00:04:07,540 - 00:04:08,540] Let's go.
+- [00:04:08,540 - 00:04:09,540] I don't know.
+- [00:04:09,540 - 00:04:11,540] I don't know how the boys are feeling right now, but I'm nervous myself.
+- [00:04:11,540 - 00:04:12,540] Let's get this bread though.
+- [00:04:12,540 - 00:04:13,540] Let's get this bread.
+- [00:04:28,540 - 00:04:43,540] Let's get this bread.
+- [00:04:43,540 - 00:04:44,540] All right.
+- [00:04:44,540 - 00:04:45,540] Yes, we are.
+- [00:04:45,540 - 00:04:46,540] All right.
+- [00:04:46,540 - 00:04:52,540] So we're the School of Hard Knocks and we actually have a question that we want to ask you guys kind of similar to what we do on our channel.
+- [00:04:52,540 - 00:04:54,540] And so I'm going to start over here.
+- [00:04:54,540 - 00:04:56,540] A question that we've been asking a lot of people recently is if you were to go back to when you were in high school, what would you do?
+- [00:04:56,540 - 00:04:58,540] And give yourself a piece of advice.
+- [00:04:58,540 - 00:05:00,540] What's the best piece of advice you tell your younger self?
+- [00:05:00,540 - 00:05:01,540] You got it.
+- [00:05:01,540 - 00:05:02,540] You got it.
+- [00:05:02,540 - 00:05:03,540] You got it.
+- [00:05:03,540 - 00:05:04,540] I'm going to break the rules or I'm going to bend them.
+- [00:05:04,540 - 00:05:05,540] I'm going to give three.
+- [00:05:05,540 - 00:05:06,540] Number one, I'm going to quote what Denzel Washington said, always put God first.
+- [00:05:06,540 - 00:05:07,540] I did not have God in high school and college.
+- [00:05:07,540 - 00:05:08,540] And I will tell you the minute I found in my life improved.
+- [00:05:08,540 - 00:05:09,540] That was my North Compass.
+- [00:05:09,540 - 00:05:10,540] I followed that.
+- [00:05:10,540 - 00:05:11,540] And I just stopped worrying about other stuff.
+- [00:05:11,540 - 00:05:12,540] The second thing is find someone that you can trust.
+- [00:05:12,540 - 00:05:13,540] And I think that's the most important thing.
+- [00:05:13,540 - 00:05:14,540] And I think that's the most important thing.
+- [00:05:14,540 - 00:05:15,540] And I think that's the most important thing.
+- [00:05:15,540 - 00:05:16,540] And I think that's the most important thing.
+- [00:05:16,540 - 00:05:17,540] And I think that's the most important thing.
+- [00:05:17,540 - 00:05:18,540] And I will tell you the minute I found in my life improved.
+- [00:05:18,540 - 00:05:19,540] And I will tell you the minute I found in my life improved.
+- [00:05:19,540 - 00:05:20,540] That was my North Compass.
+- [00:05:20,540 - 00:05:21,540] I followed that.
+- [00:05:21,540 - 00:05:22,540] And I just stopped worrying about other stuff.
+- [00:05:22,540 - 00:05:23,540] The second thing is find someone that loves you for who you are.
+- [00:05:23,540 - 00:05:24,540] The second thing is find someone that loves you for who you are.
+- [00:05:24,540 - 00:05:25,540] I've been happily married three years now.
+- [00:05:25,540 - 00:05:26,540] We have a beautiful 11 month deal to own.
+- [00:05:26,540 - 00:05:27,540] Here it is, Chris.
+- [00:05:27,540 - 00:05:28,540] I told you I was going to try not to cry.
+- [00:05:28,540 - 00:05:29,540] When I found that, I just unleashed full potential.
+- [00:05:29,540 - 00:05:30,540] I had someone that I could come home to and talk to.
+- [00:05:30,540 - 00:05:31,540] I had someone in the peaks and the valleys that was there.
+- [00:05:31,540 - 00:05:32,540] So that's my number one.
+- [00:05:32,540 - 00:05:33,540] Number two, I'm going to give God first.
+- [00:05:33,540 - 00:05:34,540] And I think that's the most important thing.
+- [00:05:34,540 - 00:05:37,160] The third piece of advice is find a really good mentor.
+- [00:05:37,160 - 00:05:38,780] And then find someone that you can pour into as well.
+- [00:05:38,780 - 00:05:44,000] Don't think just because you're only 18, you can't find someone to pour into you absolutely
+- [00:05:44,000 - 00:05:45,000] can.
+- [00:05:45,000 - 00:05:47,180] Whether you're in college, whether you're in high school.
+- [00:05:47,180 - 00:05:48,700] That platform should never stop.
+- [00:05:48,700 - 00:05:50,460] So find a good mentor that will pour into you and then gently pouring it into yourself and
+- [00:05:50,460 - 00:05:53,140] then know what the things you really need and I'm sure when you're at your lowest level
+- [00:05:53,140 - 00:05:54,140] it's been able to make it your only way forward.
+- [00:05:54,140 - 00:06:00,260] And then when that crochet comes together and you think, it's a small.
+- [00:06:00,260 - 00:06:01,840] There are many of us that are there that want to be impacted.
+- [00:06:01,840 - 00:06:02,840] And even if it's more of a 몇-page-per-page journey, each lesson you take is individual.
+- [00:06:02,840 - 00:06:03,840] For sure.
+- [00:06:03,840 - 00:06:04,340] Last, last, last.
+- [00:06:04,540 - 00:06:06,380] and then find someone that you can pour into as well
+- [00:06:06,380 - 00:06:08,260] because that's where the growing happens.
+- [00:06:08,260 - 00:06:09,220] That's incredible.
+- [00:06:09,220 - 00:06:10,060] Give it up for him.
+- [00:06:13,780 - 00:06:15,700] All right, and then I have a different question for you.
+- [00:06:15,700 - 00:06:17,660] With our interviews, we like to switch it up sometimes.
+- [00:06:17,660 - 00:06:20,480] So I'm gonna catch you off guard
+- [00:06:20,480 - 00:06:21,860] a little bit of a curve ball.
+- [00:06:21,860 - 00:06:24,220] So my question for you is,
+- [00:06:24,220 - 00:06:25,520] what's your best piece of advice
+- [00:06:25,520 - 00:06:27,420] for young entrepreneurs in 2022?
+- [00:06:29,040 - 00:06:30,420] A couple of things.
+- [00:06:30,420 - 00:06:33,320] One, don't listen to the world
+- [00:06:33,320 - 00:06:35,660] about what success looks like.
+- [00:06:35,660 - 00:06:37,440] That's pretty big.
+- [00:06:37,440 - 00:06:40,280] The second thing is, is do it in community.
+- [00:06:41,500 - 00:06:42,500] And the third thing is,
+- [00:06:42,500 - 00:06:46,400] is take time to enjoy life while you're doing it.
+- [00:06:46,400 - 00:06:47,660] It's a lonely place.
+- [00:06:47,660 - 00:06:49,460] Burnout is rampant.
+- [00:06:49,460 - 00:06:53,020] And the only person that you're racing is yourself.
+- [00:06:53,020 - 00:06:53,860] Incredible.
+- [00:06:53,860 - 00:06:54,700] Give it up for him.
+- [00:06:58,200 - 00:07:01,080] We can't let Mr. Mayor walk the hook here.
+- [00:07:01,080 - 00:07:02,660] We gotta ask you,
+- [00:07:02,660 - 00:07:03,320] kind of, we've been talking about this
+- [00:07:03,320 - 00:07:04,160] a couple of times,
+- [00:07:04,160 - 00:07:05,660] and I love your answer to this,
+- [00:07:05,660 - 00:07:07,740] but how can someone scale a business
+- [00:07:07,740 - 00:07:10,060] from five to six to seven, eight figures?
+- [00:07:10,060 - 00:07:11,080] Yeah.
+- [00:07:11,080 - 00:07:13,620] Scalability is always gonna come back
+- [00:07:13,620 - 00:07:16,780] to how important you think you are in that organization.
+- [00:07:18,740 - 00:07:20,900] I have, over the last five to six years,
+- [00:07:20,900 - 00:07:25,540] really tried to become as unnecessary as possible.
+- [00:07:25,540 - 00:07:27,080] And the way that I do that
+- [00:07:27,080 - 00:07:30,380] is I try to bring out the greatness in everybody on my team.
+- [00:07:31,280 - 00:07:32,260] Incredible.
+- [00:07:32,260 - 00:07:33,100] Give it up for him.
+- [00:07:33,320 - 00:07:34,160] Thank you.
+- [00:07:34,160 - 00:07:34,980] Thank you.
+- [00:07:34,980 - 00:07:36,080] All right, you guys are on.
+- [00:07:36,080 - 00:07:37,620] Yes, sir.
+- [00:07:37,620 - 00:07:39,900] Okay, everybody.
+- [00:07:39,900 - 00:07:41,320] My name is Jack Dumoulin.
+- [00:07:41,320 - 00:07:42,940] This is my brother, James Dumoulin,
+- [00:07:42,940 - 00:07:45,180] and our good friend, Joshua Smith.
+- [00:07:45,180 - 00:07:47,700] And we are the School of Hard Knocks.
+- [00:07:47,700 - 00:07:49,700] So basically, we are a media channel
+- [00:07:49,700 - 00:07:53,200] that just under a year grew to 1.1 million followers.
+- [00:07:53,200 - 00:07:55,700] Our content is centered around going around
+- [00:07:55,700 - 00:07:58,500] and asking people in different industries,
+- [00:07:58,500 - 00:08:00,780] professionals, business owners, entrepreneurs,
+- [00:08:00,780 - 00:08:02,480] basically trying to find financial literacy
+- [00:08:02,480 - 00:08:03,160] and career mentorship, and then, you know,
+- [00:08:03,160 - 00:08:04,500] we're trying to get people to give to young adults
+- [00:08:04,500 - 00:08:05,840] through short-form content.
+- [00:08:05,840 - 00:08:06,680] Wow.
+- [00:08:07,820 - 00:08:10,120] And so, pretty much we've had the...
+- [00:08:11,220 - 00:08:12,060] Thank you.
+- [00:08:14,600 - 00:08:16,080] And so, pretty much we've had the pleasure
+- [00:08:16,080 - 00:08:17,720] to interview the likes of Mark Cuban,
+- [00:08:17,720 - 00:08:19,400] the former president of Nike,
+- [00:08:19,400 - 00:08:20,920] the former CMO of T-Mobile,
+- [00:08:20,920 - 00:08:23,740] the CEO of HopDotty, and many, many more.
+- [00:08:23,740 - 00:08:25,780] And so today, we want to share with you
+- [00:08:25,780 - 00:08:28,380] a piece of our journey to 1.1 million followers
+- [00:08:28,380 - 00:08:30,240] by giving you three things that you can take
+- [00:08:30,240 - 00:08:32,700] to unleash greatness through content creation,
+- [00:08:33,160 - 00:08:34,920] and to build your brand.
+- [00:08:34,920 - 00:08:37,160] But before we do that, we have to take you back
+- [00:08:37,160 - 00:08:38,980] and kind of give you a little bit about how each of us
+- [00:08:38,980 - 00:08:41,160] on our own journeys unleash greatness.
+- [00:08:41,160 - 00:08:42,000] Absolutely.
+- [00:08:42,000 - 00:08:44,040] So I'm James Dumlin, very blessed
+- [00:08:44,040 - 00:08:46,040] and happy to be with you all today.
+- [00:08:46,040 - 00:08:47,540] The three of us, it kind of starts out with,
+- [00:08:47,540 - 00:08:49,780] we're all from the Washington, D.C. area.
+- [00:08:49,780 - 00:08:51,400] And we met actually because we were
+- [00:08:51,400 - 00:08:52,920] in the same Boy Scout troop.
+- [00:08:52,920 - 00:08:55,040] Now, we all became Eagle Scouts together,
+- [00:08:55,040 - 00:08:57,320] but ultimately, eagled out at different points.
+- [00:08:57,320 - 00:08:58,900] And because there's an age difference,
+- [00:08:58,900 - 00:09:01,660] Josh is 24, Jack's 22, and I'm 20,
+- [00:09:01,660 - 00:09:01,820] so ultimately, when we eagled out, we were kind of at 20.
+- [00:09:01,820 - 00:09:01,840] So ultimately, when we eagled out, we were kind of at 20.
+- [00:09:01,840 - 00:09:03,640] So ultimately, when we eagled out, we were kind of at different points
+- [00:09:03,640 - 00:09:04,660] in our lives.
+- [00:09:04,660 - 00:09:08,240] Now, Josh decided to go to college, but at the same time,
+- [00:09:08,240 - 00:09:10,160] him and a really good friend of his were growing
+- [00:09:10,160 - 00:09:12,820] and scaling a digital marketing agency that kind of took off
+- [00:09:12,820 - 00:09:13,900] and did really well.
+- [00:09:13,900 - 00:09:15,840] So we came to a crossroads, decided, hey,
+- [00:09:15,840 - 00:09:17,440] I'm putting a lot of time into school.
+- [00:09:17,440 - 00:09:20,540] What if I put all that into my marketing agency in 10x that?
+- [00:09:20,540 - 00:09:21,460] And that's what he did.
+- [00:09:21,460 - 00:09:24,760] Left college, had a lot of success with his marketing agency.
+- [00:09:24,760 - 00:09:28,600] Jack here had a dying, he had a crazy passion
+- [00:09:28,600 - 00:09:31,680] for baseball statistics and sports statistics.
+- [00:09:31,680 - 00:09:31,840] And he was a big fan of baseball statistics.
+- [00:09:31,840 - 00:09:35,160] And he turned that into, he became a mastermind with analytics.
+- [00:09:35,160 - 00:09:39,140] And at the end of high school, he ended up entering a competition
+- [00:09:39,140 - 00:09:41,580] that was held by Microsoft and ,
+- [00:09:41,580 - 00:09:45,060] which is pretty much through Microsoft Excel.
+- [00:09:45,060 - 00:09:47,640] And he went all the way to the world competition and competed
+- [00:09:47,640 - 00:09:49,520] in a world championship in Microsoft Excel.
+- [00:09:49,520 - 00:09:51,000] And out of 2 million people,
+- [00:09:51,000 - 00:09:52,920] he became the number one Microsoft Excel user
+- [00:09:52,920 - 00:09:53,600] in the world.
+- [00:09:53,600 - 00:09:54,720] It's crazy.
+- [00:09:54,720 - 00:09:55,680] It's crazy.
+- [00:09:55,680 - 00:09:57,560] Listen, listen, you got to look it up.
+- [00:09:57,560 - 00:09:58,300] I'm telling you.
+- [00:09:58,300 - 00:10:00,440] Jack Dumoulin, Microsoft Excel, this is the number one user
+- [00:10:00,440 - 00:10:01,840] of Microsoft Excel in the world.
+- [00:10:01,840 - 00:10:03,640] I'm serious.
+- [00:10:03,640 - 00:10:04,940] It's a real thing.
+- [00:10:04,940 - 00:10:07,360] But through the, I'm serious.
+- [00:10:07,360 - 00:10:09,920] It's a real thing.
+- [00:10:09,920 - 00:10:12,420] It's one of the craziest stories ever.
+- [00:10:12,420 - 00:10:15,460] Like, smartest kid I know, I promise you.
+- [00:10:15,460 - 00:10:18,620] And, but through that, it opened up so many opportunities
+- [00:10:18,620 - 00:10:19,640] and doors for him.
+- [00:10:19,640 - 00:10:22,000] He decided to ultimately, like I said, we're from DC.
+- [00:10:22,000 - 00:10:25,720] We moved out to, or he decided to move out to Austin
+- [00:10:25,720 - 00:10:26,680] and go to UT.
+- [00:10:26,680 - 00:10:29,880] But at the same time, he opened up his own, yeah,
+- [00:10:29,880 - 00:10:31,680] welcome, yeah, he opened up his own,
+- [00:10:31,680 - 00:10:33,520] kind of like tech consulting company
+- [00:10:33,520 - 00:10:35,120] where he was building out, you know,
+- [00:10:35,120 - 00:10:37,840] softwares and integrating that with Excel for companies
+- [00:10:37,840 - 00:10:39,040] in different states.
+- [00:10:39,040 - 00:10:40,900] And he also led to him having the opportunity.
+- [00:10:40,900 - 00:10:42,000] He was pretty much mentored.
+- [00:10:42,000 - 00:10:43,680] Everybody knows Bucky's, right?
+- [00:10:43,680 - 00:10:46,480] So Bucky, one of the CEOs, one of the owners of Bucky's,
+- [00:10:46,480 - 00:10:48,360] mentored him for about two years.
+- [00:10:48,360 - 00:10:53,360] And so for myself personally, you know, I was behind them.
+- [00:10:53,360 - 00:10:54,800] He was already out in Austin.
+- [00:10:54,800 - 00:10:56,560] And it was around when the pandemic hit
+- [00:10:56,560 - 00:10:58,220] and we really saw kind of the emergence
+- [00:10:58,220 - 00:10:59,880] of various social media platforms,
+- [00:10:59,880 - 00:11:01,320] and in particular TikTok.
+- [00:11:01,680 - 00:11:03,720] And I grew really fascinated about how
+- [00:11:03,720 - 00:11:05,640] there's all these people that are, you know,
+- [00:11:05,640 - 00:11:08,240] finding their passion and they're able to monetize it
+- [00:11:08,240 - 00:11:09,940] through just posting content around that.
+- [00:11:09,940 - 00:11:12,080] I mean, I was seeing how the creator economy
+- [00:11:12,080 - 00:11:14,180] was growing valuations in the next five years,
+- [00:11:14,180 - 00:11:15,760] it's going to be over a hundred billion dollars.
+- [00:11:15,760 - 00:11:17,920] And I was like, hey, this is something I could do.
+- [00:11:17,920 - 00:11:19,660] I studied the algorithms and I was able to grow
+- [00:11:19,660 - 00:11:21,540] my personal TikTok following to right around
+- [00:11:21,540 - 00:11:24,280] a million followers in less than a year.
+- [00:11:24,280 - 00:11:26,680] And, you know, through that, you know,
+- [00:11:26,680 - 00:11:29,680] as I mentioned before, we all grew up in the DC area.
+- [00:11:29,680 - 00:11:31,360] The thing about DC is it's a very strict
+- [00:11:31,360 - 00:11:32,300] and structured city.
+- [00:11:32,300 - 00:11:34,040] It's very centered around government jobs,
+- [00:11:34,040 - 00:11:35,400] contracting, defense.
+- [00:11:35,400 - 00:11:37,320] And I tell people, you want to work for Congress,
+- [00:11:37,320 - 00:11:39,940] you want to go into politics, DC is the place to be.
+- [00:11:39,940 - 00:11:42,040] But if you're entrepreneurial and have the desire
+- [00:11:42,040 - 00:11:43,940] to start your own business, you got to get out of DC.
+- [00:11:43,940 - 00:11:46,080] You got to get into a collaborative environment
+- [00:11:46,080 - 00:11:47,900] like Austin, where everyone's looking to provide value
+- [00:11:47,900 - 00:11:48,740] for one another.
+- [00:11:48,740 - 00:11:51,860] So that kind of us having a similar mindset in that sense
+- [00:11:51,860 - 00:11:54,720] is kind of what led to a further spark in our relationship.
+- [00:11:55,700 - 00:11:59,100] So how it all kind of came together is late 2020,
+- [00:11:59,100 - 00:12:01,360] we met at a mutual friend's house and really
+- [00:12:01,360 - 00:12:03,120] reconnected over a couple of years.
+- [00:12:03,120 - 00:12:04,920] It's been years since we've seen each other.
+- [00:12:04,920 - 00:12:09,020] And we realized we had a lot of similar interests and goals,
+- [00:12:09,020 - 00:12:10,420] and we knew we wanted to work on something,
+- [00:12:10,420 - 00:12:12,560] but we weren't sure what it was going to be.
+- [00:12:12,560 - 00:12:15,780] So the only problem with that is that Jack and James
+- [00:12:15,780 - 00:12:19,180] were about to move to Texas permanently a week later.
+- [00:12:19,180 - 00:12:22,220] So what we had to do is I was thinking of ideas
+- [00:12:22,220 - 00:12:24,980] of what we could do in a week or shortly after they moved
+- [00:12:24,980 - 00:12:27,680] to Texas, I called them and I pitched them on starting
+- [00:12:27,680 - 00:12:31,000] an e-sports and gaming channel and they agreed.
+- [00:12:31,360 - 00:12:34,160] And we started that and we grew it to about 10,000 followers
+- [00:12:34,160 - 00:12:35,520] after a couple of months.
+- [00:12:35,520 - 00:12:38,000] And even though the channel was going well,
+- [00:12:38,000 - 00:12:39,780] it wasn't something we were all passionate about.
+- [00:12:39,780 - 00:12:41,140] So we decided to pivot.
+- [00:12:41,140 - 00:12:43,600] And so what we decided to do is we all have a passion
+- [00:12:43,600 - 00:12:44,980] and interest in business.
+- [00:12:44,980 - 00:12:47,260] And we wanted to share some of the lessons that we've learned
+- [00:12:47,260 - 00:12:50,380] along the way from our mentors and just share ideas
+- [00:12:50,380 - 00:12:51,800] with other people.
+- [00:12:51,800 - 00:12:54,840] But we soon realized that people don't want to learn
+- [00:12:54,840 - 00:12:56,960] about business from some young 20 year old guys,
+- [00:12:56,960 - 00:12:58,520] no one knows who they are.
+- [00:12:58,520 - 00:13:01,120] So we had to make another change.
+- [00:13:01,360 - 00:13:03,360] And that's when we started to do street interviews.
+- [00:13:03,360 - 00:13:06,780] And we noticed after the first interview that we posted,
+- [00:13:06,780 - 00:13:09,760] our channel really started to get some really good traction.
+- [00:13:09,760 - 00:13:12,780] And so then we saw the greater vision for the company
+- [00:13:12,780 - 00:13:14,640] and we wanted to seek out the best of the best.
+- [00:13:14,640 - 00:13:16,140] And that's how we've been able to get interviews
+- [00:13:16,140 - 00:13:18,760] like Mark Cuban, CEO of HopDotty and others.
+- [00:13:18,760 - 00:13:23,760] And that's where we were really just able to grow the channel
+- [00:13:24,200 - 00:13:25,740] and it really took off after that point
+- [00:13:25,740 - 00:13:28,060] once we started doing the interviews.
+- [00:13:28,060 - 00:13:28,900] 100%.
+- [00:13:28,900 - 00:13:31,320] And so looking back at our journey of how that kind of
+- [00:13:31,360 - 00:13:33,420] brought us together to start the School of Hard Knocks,
+- [00:13:33,420 - 00:13:36,020] which is the name of our channel,
+- [00:13:36,020 - 00:13:37,600] we were able to comprise some of the lessons
+- [00:13:37,600 - 00:13:39,480] that we actually learned from content creation.
+- [00:13:39,480 - 00:13:41,320] And we want to bring that to you today.
+- [00:13:41,320 - 00:13:43,540] And so we have three major things.
+- [00:13:43,540 - 00:13:46,400] The first being is that when you want to create content
+- [00:13:46,400 - 00:13:49,840] and grow your brand, you need to find your why.
+- [00:13:49,840 - 00:13:51,920] And although find your why might sound kind of cliche,
+- [00:13:51,920 - 00:13:54,180] like, oh, find your why, what even is that?
+- [00:13:54,180 - 00:13:56,180] The reason why I say it's important is because
+- [00:13:56,180 - 00:13:57,980] if you don't have a why, if you don't have a mission
+- [00:13:57,980 - 00:14:00,620] for why you want to create content or grow your brand,
+- [00:14:00,620 - 00:14:01,360] there's going to, you're going to run into a lot of people
+- [00:14:01,360 - 00:14:04,120] who are going to run into two things as a content creator
+- [00:14:04,120 - 00:14:05,820] that stumbles every kind of creator early on
+- [00:14:05,820 - 00:14:06,860] in their journey.
+- [00:14:06,860 - 00:14:08,500] The first of that being is getting discouraged
+- [00:14:08,500 - 00:14:10,840] with views, likes, followers, the numbers.
+- [00:14:10,840 - 00:14:13,260] You get discouraged if you post a video
+- [00:14:13,260 - 00:14:14,360] and it just doesn't do well.
+- [00:14:14,360 - 00:14:15,720] James actually gave me great advice on this
+- [00:14:15,720 - 00:14:17,120] while he was growing his brand.
+- [00:14:17,120 - 00:14:20,120] Yeah, and this is something that I really tried to instill
+- [00:14:20,120 - 00:14:21,740] kind of in our mindset when we were going forward
+- [00:14:21,740 - 00:14:23,820] with Hard Knocks is that when you're starting out,
+- [00:14:23,820 - 00:14:25,120] when you're getting out of your comfort zone,
+- [00:14:25,120 - 00:14:27,860] you may not be used to putting yourself behind a camera,
+- [00:14:27,860 - 00:14:29,880] putting that content out to where potentially
+- [00:14:29,880 - 00:14:31,820] hundreds and thousands of people can see it.
+- [00:14:31,820 - 00:14:33,760] And, you know, therefore, you really just have to,
+- [00:14:33,760 - 00:14:35,200] like he said, you can't get discouraged.
+- [00:14:35,200 - 00:14:36,860] You can't care about what other people think.
+- [00:14:36,860 - 00:14:37,840] You just have to go for it.
+- [00:14:37,840 - 00:14:38,740] You know, if you have the vision,
+- [00:14:38,740 - 00:14:41,100] if you see the potential in it, just send it, go for it.
+- [00:14:41,100 - 00:14:42,980] And I'm telling you, as long as you remember
+- [00:14:42,980 - 00:14:44,380] why you're doing it and the greater purpose,
+- [00:14:44,380 - 00:14:46,180] it's going to pay off.
+- [00:14:46,180 - 00:14:47,020] Exactly.
+- [00:14:47,020 - 00:14:49,340] So the first thing being you have to overcome
+- [00:14:49,340 - 00:14:50,560] being discouraged about views.
+- [00:14:50,560 - 00:14:52,440] You could put one piece of content,
+- [00:14:52,440 - 00:14:54,320] three pieces of content, five pieces of content.
+- [00:14:54,320 - 00:14:55,460] It doesn't do well.
+- [00:14:55,460 - 00:14:57,740] If you ultimately decide to give up and quit
+- [00:14:57,740 - 00:14:59,860] just because not enough people saw your content at first,
+- [00:14:59,880 - 00:15:01,820] then you're never going to be able to start a channel.
+- [00:15:01,820 - 00:15:04,560] For us in particular, for the School of Hard Knocks,
+- [00:15:04,560 - 00:15:06,180] when we started doing business content,
+- [00:15:06,180 - 00:15:09,380] we had put out 200 pieces of content on our Instagram
+- [00:15:09,380 - 00:15:12,120] for over a month and only had about 35,
+- [00:15:12,120 - 00:15:13,320] 40 followers to begin with.
+- [00:15:13,320 - 00:15:15,880] That's not a lot of support for putting out 200 pieces
+- [00:15:15,880 - 00:15:18,120] of good quality content.
+- [00:15:18,120 - 00:15:21,280] And so if you don't have your why, you're just going to quit.
+- [00:15:21,280 - 00:15:23,680] The second being is you can't be afraid of failure.
+- [00:15:23,680 - 00:15:26,640] You can't be afraid of people judging you
+- [00:15:26,640 - 00:15:27,520] when you get on camera.
+- [00:15:27,520 - 00:15:29,560] You can't be afraid of what they think of you
+- [00:15:29,560 - 00:15:32,380] because if you ultimately have your mission, your why,
+- [00:15:32,380 - 00:15:34,580] and why you're making this great content for people,
+- [00:15:34,580 - 00:15:35,860] then that stuff's not going to matter to you.
+- [00:15:35,860 - 00:15:37,620] For us in particular, when we went up and interviewed
+- [00:15:37,620 - 00:15:40,120] Mark Cuban, we actually saw him at South by Southwest
+- [00:15:40,120 - 00:15:42,000] just after he gave a talk on the street.
+- [00:15:42,000 - 00:15:44,160] If we didn't have the courage to go up and ask him and say,
+- [00:15:44,160 - 00:15:45,880] hey, we run this channel.
+- [00:15:45,880 - 00:15:47,760] We want to give back to the younger generation.
+- [00:15:47,760 - 00:15:48,600] Could we ask you a question?
+- [00:15:48,600 - 00:15:51,060] What advice would you tell your younger self?
+- [00:15:51,060 - 00:15:53,520] If we were so afraid of getting rejected by him,
+- [00:15:53,520 - 00:15:55,160] then that video never would have gotten posted,
+- [00:15:55,160 - 00:15:57,080] never would have gotten the millions of views that it did
+- [00:15:57,080 - 00:15:58,580] and the people that it impacted.
+- [00:15:58,580 - 00:15:59,560] When we saw the impact
+- [00:15:59,560 - 00:16:01,420] of videos like our interview with Mark Cuban,
+- [00:16:01,420 - 00:16:03,800] we quickly realized that our impact spread
+- [00:16:03,800 - 00:16:05,020] beyond the United States.
+- [00:16:05,020 - 00:16:09,580] Over 50% of our 1.1 million following is outside of the US.
+- [00:16:09,580 - 00:16:11,800] And we even had people reaching out to us and saying,
+- [00:16:11,800 - 00:16:14,960] hey, I just started my dream business on the side of my job
+- [00:16:14,960 - 00:16:17,940] because of a video that we saw.
+- [00:16:18,780 - 00:16:22,060] We even saw that people were starting to save money.
+- [00:16:22,060 - 00:16:24,260] And so that ultimately is why you need to find your why.
+- [00:16:24,260 - 00:16:27,080] For us, we wanted to change the way that financial literacy
+- [00:16:27,080 - 00:16:29,080] and career mentorship is taught in schools.
+- [00:16:29,560 - 00:16:31,940] We also had great mentors around us.
+- [00:16:31,940 - 00:16:33,440] And we noticed that a lot of our peers didn't.
+- [00:16:33,440 - 00:16:35,120] And we wanted to bring that through our content.
+- [00:16:35,120 - 00:16:36,520] But ultimately, if things aren't going well,
+- [00:16:36,520 - 00:16:38,300] you can always change it up.
+- [00:16:38,300 - 00:16:41,700] Just like in business, in content is exactly the same.
+- [00:16:41,700 - 00:16:44,540] Is if things aren't working out, you need to pivot.
+- [00:16:44,540 - 00:16:47,840] And so in our business, we had to pivot twice.
+- [00:16:47,840 - 00:16:50,080] Like I said, we started as an e-sports company,
+- [00:16:50,080 - 00:16:51,420] switched to business.
+- [00:16:51,420 - 00:16:53,520] People don't want to learn business from young guys,
+- [00:16:53,520 - 00:16:55,260] switched it again to interviews.
+- [00:16:55,260 - 00:16:58,180] And this is where things finally started to click.
+- [00:16:58,180 - 00:16:59,400] And if things aren't working out for you,
+- [00:16:59,400 - 00:17:01,840] you're posting consistently and it's not working,
+- [00:17:01,840 - 00:17:03,200] here are some things that I would recommend
+- [00:17:03,200 - 00:17:05,000] that you can consider doing.
+- [00:17:05,000 - 00:17:07,800] The first thing would be change up the delivery
+- [00:17:07,800 - 00:17:08,820] of the actual content.
+- [00:17:08,820 - 00:17:10,840] Change up your storytelling and how you're approaching
+- [00:17:10,840 - 00:17:12,040] the content and the viewer.
+- [00:17:12,040 - 00:17:12,980] And that's the number one thing,
+- [00:17:12,980 - 00:17:15,260] is you actually have to focus on the viewer.
+- [00:17:15,260 - 00:17:18,380] And the second thing, also to add onto that, is the editing.
+- [00:17:18,380 - 00:17:19,980] The second thing you should consider doing
+- [00:17:19,980 - 00:17:22,880] is changing your niche or topic that you're talking about.
+- [00:17:22,880 - 00:17:24,780] Let's say you're talking about business overall.
+- [00:17:24,780 - 00:17:26,780] Maybe you need to go a little bit deeper
+- [00:17:26,780 - 00:17:28,660] and go into a sector like marketing.
+- [00:17:29,400 - 00:17:31,160] And then you can go a little bit deeper
+- [00:17:31,160 - 00:17:32,460] and talk about that.
+- [00:17:32,460 - 00:17:34,060] The third thing I would recommend doing
+- [00:17:34,060 - 00:17:35,600] is if things still aren't working out,
+- [00:17:35,600 - 00:17:37,720] is model someone that is successful
+- [00:17:37,720 - 00:17:40,600] within what you want to do and model after them.
+- [00:17:40,600 - 00:17:42,680] But ultimately, the most important thing you can do
+- [00:17:42,680 - 00:17:44,160] is be consistent.
+- [00:17:44,160 - 00:17:47,080] Hands down, for us in particular,
+- [00:17:47,080 - 00:17:49,600] the absolute most valuable trait and thing
+- [00:17:49,600 - 00:17:52,360] that we brought into our company and through our content
+- [00:17:52,360 - 00:17:54,400] is just being consistent.
+- [00:17:54,400 - 00:17:55,980] Early on, you don't have a lot of followers,
+- [00:17:55,980 - 00:17:57,080] you don't have a huge base.
+- [00:17:57,080 - 00:17:58,640] It's all about volume early on.
+- [00:17:58,640 - 00:18:01,360] You've got to be putting out numerous pieces of content.
+- [00:18:01,360 - 00:18:03,840] I love to give this analogy whenever I'm talking to people.
+- [00:18:03,840 - 00:18:06,000] You have person A and you have person B.
+- [00:18:06,000 - 00:18:07,900] Person A is getting into content,
+- [00:18:07,900 - 00:18:09,060] he's going through the motions, he's like,
+- [00:18:09,060 - 00:18:11,200] hey, I'm putting out a couple posts a week.
+- [00:18:11,200 - 00:18:12,360] And then you have person B.
+- [00:18:12,360 - 00:18:14,960] Person B, he's like, hey, this is my structured
+- [00:18:14,960 - 00:18:16,400] posting schedule, I'm gonna be putting up
+- [00:18:16,400 - 00:18:18,400] three to four pieces of content a day.
+- [00:18:18,400 - 00:18:19,580] When you look at the end of a week,
+- [00:18:19,580 - 00:18:22,280] that person's putting up 20 to 30 pieces of content
+- [00:18:22,280 - 00:18:23,300] as opposed to the other person
+- [00:18:23,300 - 00:18:24,720] just going through the motions.
+- [00:18:24,720 - 00:18:26,560] That person who's putting up all that content
+- [00:18:26,560 - 00:18:28,400] is gonna beat that person 10 times out of 10 times.
+- [00:18:28,640 - 00:18:31,680] Yeah, I even saw this with James' personal journey
+- [00:18:31,680 - 00:18:33,000] when he started posting content.
+- [00:18:33,000 - 00:18:36,480] Every single day, he was posting three, four times a day
+- [00:18:36,480 - 00:18:37,540] for 60 days straight.
+- [00:18:37,540 - 00:18:40,140] People might not think making TikToks and videos
+- [00:18:40,140 - 00:18:40,980] is difficult.
+- [00:18:40,980 - 00:18:42,960] Well, let me tell you, trying to make three or four videos
+- [00:18:42,960 - 00:18:45,100] a day with everything that you have going on
+- [00:18:45,100 - 00:18:48,200] for 60 days straight is difficult.
+- [00:18:48,200 - 00:18:50,740] And we ultimately saw that him, in that one month,
+- [00:18:50,740 - 00:18:53,160] that he was so consistent, he grew his personal following
+- [00:18:53,160 - 00:18:55,720] over half a million people within one month.
+- [00:18:55,720 - 00:18:58,520] Yeah, and so again, incorporating that
+- [00:18:58,520 - 00:19:00,340] and the biggest thing is,
+- [00:19:00,340 - 00:19:01,900] especially when it comes down to the algorithms,
+- [00:19:01,900 - 00:19:04,020] is that these social media algorithms,
+- [00:19:04,020 - 00:19:06,200] they will reward you for being consistent.
+- [00:19:06,200 - 00:19:08,760] They are built off of keeping people on their apps.
+- [00:19:08,760 - 00:19:10,720] If you can post consistently,
+- [00:19:10,720 - 00:19:12,680] get people to engage with your content,
+- [00:19:12,680 - 00:19:13,980] these algorithms will reward you.
+- [00:19:13,980 - 00:19:17,020] You will grow, you'll build your base of followers,
+- [00:19:17,020 - 00:19:18,160] and you'll scale your business.
+- [00:19:18,160 - 00:19:19,480] You'll start to see your views take off.
+- [00:19:19,480 - 00:19:23,100] So once again, if there's any one big lesson
+- [00:19:23,100 - 00:19:25,520] that I could give to you that's led to our success,
+- [00:19:25,520 - 00:19:27,820] my success in my personal content journey, it's that,
+- [00:19:27,820 - 00:19:29,940] you have to be consistent.
+- [00:19:29,940 - 00:19:33,580] Absolutely, and so finding your why for those times
+- [00:19:33,580 - 00:19:36,100] when you get discouraged or afraid of failure,
+- [00:19:36,100 - 00:19:37,580] pivoting when things aren't working out
+- [00:19:37,580 - 00:19:39,400] so you can find the piece of content that works,
+- [00:19:39,400 - 00:19:43,000] and being consistent, those three are the ultimate things
+- [00:19:43,000 - 00:19:46,540] that we believe will bring you success as a content creator.
+- [00:19:46,540 - 00:19:48,680] And so with that, we hope that you guys are able
+- [00:19:48,680 - 00:19:50,860] to now go out and unleash greatness through your content
+- [00:19:50,860 - 00:19:51,860] and growing your brand.
+- [00:19:51,860 - 00:19:53,380] We are the School of Hard Knocks.
+- [00:19:53,380 - 00:19:54,880] Thank you guys very much.
+- [00:19:57,820 - 00:19:58,660] Thank you.
+- [00:19:58,660 - 00:20:00,980] I'm gonna take a Be Real.
+- [00:20:00,980 - 00:20:02,980] Have you guys heard of Be Real?
+- [00:20:02,980 - 00:20:04,240] You guys heard of Be Real?
+- [00:20:05,240 - 00:20:06,220] Awesome, awesome.
+- [00:20:06,220 - 00:20:07,580] Thank you guys so much, yeah.
+- [00:20:07,580 - 00:20:08,420] Thank you.
+- [00:20:08,420 - 00:20:09,260] God bless you guys.
+- [00:20:09,260 - 00:20:11,140] Come on, let's go.
+- [00:20:11,140 - 00:20:13,140] We need to go back to you.
+- [00:20:18,860 - 00:20:20,460] I'll try to talk about, hey,
+- [00:20:20,460 - 00:20:21,860] this is my man Mariana right here.
+- [00:20:21,860 - 00:20:23,560] We just met up after the talk.
+- [00:20:23,560 - 00:20:24,840] Yeah, so what'd you think?
+- [00:20:24,840 - 00:20:25,680] Yeah, absolutely.
+- [00:20:25,680 - 00:20:27,140] So I thought, yeah, we're very well spoken.
+- [00:20:27,140 - 00:20:29,000] I really liked it a lot.
+- [00:20:29,000 - 00:20:30,680] You know, it took a lot of the crowd by surprise
+- [00:20:30,680 - 00:20:32,380] to see how young y'all are
+- [00:20:32,380 - 00:20:35,740] and how y'all have found success at such an early age.
+- [00:20:35,740 - 00:20:36,920] I had to come up here and say what's up
+- [00:20:36,920 - 00:20:38,420] because, you know, hook them.
+- [00:20:38,420 - 00:20:40,840] You know, I went to UT, just graduated,
+- [00:20:40,840 - 00:20:42,380] and I just wanted to hear a little bit more
+- [00:20:42,380 - 00:20:45,080] and see, you know, put a face to their brand
+- [00:20:45,080 - 00:20:47,020] and something that I just wanted to connect with them.
+- [00:20:47,020 - 00:20:47,860] If I have them there,
+- [00:20:47,860 - 00:20:49,220] why not take the opportunity, right?
+- [00:20:49,220 - 00:20:50,760] They talked about having courage
+- [00:20:50,760 - 00:20:53,980] and walking up to Mark Cuban in their speech up there,
+- [00:20:53,980 - 00:20:55,640] and what's the worst they could have said?
+- [00:20:55,640 - 00:20:56,480] No, right?
+- [00:20:56,480 - 00:20:58,140] I did come up here and we connected.
+- [00:20:58,140 - 00:20:59,340] We got each other's numbers.
+- [00:20:59,340 - 00:21:00,860] Very personable people.
+- [00:21:00,860 - 00:21:03,780] I really, really appreciate them for taking the time.
+- [00:21:03,780 - 00:21:06,700] We're gonna go get some coffee later sometime
+- [00:21:06,700 - 00:21:08,920] and talk about, you know, what it is they're doing,
+- [00:21:08,920 - 00:21:11,280] what it is that I'm doing, you know, bounce off ideas.
+- [00:21:11,280 - 00:21:12,940] And I just really appreciated the content
+- [00:21:12,940 - 00:21:13,780] that they put out there.
+- [00:21:13,780 - 00:21:15,740] They really know how to market to their audience.
+- [00:21:15,740 - 00:21:17,100] They know their niche.
+- [00:21:17,100 - 00:21:19,180] They know what they're doing and they have their why,
+- [00:21:19,180 - 00:21:20,900] and I think that's the most important part.
+- [00:21:20,900 - 00:21:23,300] And that's something that they really hit and talked about
+- [00:21:23,300 - 00:21:25,600] is just how their why is so important to them
+- [00:21:25,600 - 00:21:27,380] and what keeps them being consistent.
+- [00:21:27,380 - 00:21:29,980] And I think that's important, especially for our generation.
+- [00:21:29,980 - 00:21:31,500] You know, sometimes we could be looked down upon,
+- [00:21:31,500 - 00:21:33,360] especially with like social media
+- [00:21:33,360 - 00:21:34,760] and how it's all over the place.
+- [00:21:34,760 - 00:21:37,440] So, you know, make sure y'all have y'all's why too,
+- [00:21:37,440 - 00:21:38,280] and keep tuning in.
+- [00:21:38,280 - 00:21:40,180] And I know they have a lot of things coming in the future.
+- [00:21:40,180 - 00:21:41,320] So thank y'all so much.
+- [00:21:41,320 - 00:21:42,160] Mariana, great to meet you.
+- [00:21:42,160 - 00:21:43,000] It was a pleasure.
+- [00:21:43,000 - 00:21:44,840] All right guys, that was our first speaking engagement
+- [00:21:44,840 - 00:21:46,340] as the Hard Knocks team.
+- [00:21:46,340 - 00:21:47,400] Hope you guys enjoyed it.
+- [00:21:47,400 - 00:21:49,060] I mean, I had a great time.
+- [00:21:49,060 - 00:21:52,580] Dude, that was an incredible experience.
+- [00:21:52,580 - 00:21:55,360] I was honestly so nervous right before we got on stage.
+- [00:21:55,600 - 00:21:59,260] But once we got out there, man, it just, like Chris said,
+- [00:21:59,260 - 00:22:00,960] or Zach said, you just black out.
+- [00:22:00,960 - 00:22:03,100] You just get in the zone and you do it.
+- [00:22:03,100 - 00:22:05,440] So it was an amazing experience.
+- [00:22:05,440 - 00:22:08,560] And James, what was your final thoughts?
+- [00:22:08,560 - 00:22:11,960] Man, just super, super happy to, like they were saying,
+- [00:22:11,960 - 00:22:12,800] have this experience.
+- [00:22:12,800 - 00:22:14,500] And just blessed to be able to come out here,
+- [00:22:14,500 - 00:22:16,060] share some of our value for people.
+- [00:22:16,060 - 00:22:18,340] And like he said, man, it was a little nervous at first.
+- [00:22:18,340 - 00:22:19,460] But once we got in the zone, we feel
+- [00:22:19,460 - 00:22:20,400] like we clicked with the audience.
+- [00:22:20,400 - 00:22:21,400] So we really enjoyed that.
+- [00:22:21,400 - 00:22:24,160] If you guys enjoyed our speech or you enjoyed this video,
+- [00:22:24,160 - 00:22:25,580] make sure to leave a like and subscribe
+- [00:22:25,580 - 00:22:26,120] to the channel.
+- [00:22:26,120 - 00:22:27,500] We got a lot of great content coming.
+- [00:22:27,500 - 00:22:30,820] And we hope to see you at our next speaking engagement.
