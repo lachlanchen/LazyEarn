@@ -1,0 +1,340 @@
+# Transcript
+
+Source: lazyearn/school-of-hard-knocks/hard-knocks-interviews/121 - Asking Golf Course Millionaires How They Got Rich [RGt99we0cGA].webm
+
+- [00:00:00,000 - 00:00:02,140] We're going around the wealthiest golf courses in
+- [00:00:02,140 - 00:00:04,280] all of Texas asking millionaires how they became rich.
+- [00:00:04,280 - 00:00:07,940] I bought a landscape supply company in New Braunfels
+- [00:00:07,940 - 00:00:11,600] and I sold it after four years for $42 million.
+- [00:00:12,000 - 00:00:12,740] How much did you sell it for?
+- [00:00:12,920 - 00:00:14,460] We sold it for about $38 million.
+- [00:00:14,880 - 00:00:16,219] What was the most amount of money
+- [00:00:16,219 - 00:00:17,560] that you ever made in a single year?
+- [00:00:17,640 - 00:00:18,040] A lot.
+- [00:00:19,800 - 00:00:21,240] Is it in the seven digits?
+- [00:00:22,400 - 00:00:22,680] Yes.
+- [00:00:22,960 - 00:00:23,160] Okay.
+- [00:00:23,280 - 00:00:24,610] All right, guys, I think we're pulling up
+- [00:00:24,610 - 00:00:25,940] on the first country club slash golf course.
+- [00:00:26,060 - 00:00:27,940] We're going to Austin Country Club.
+- [00:00:28,080 - 00:00:28,940] It's going to be a long shot.
+- [00:00:28,940 - 00:00:29,820] We have no idea if
+- [00:00:29,820 - 00:00:30,700] this place is gated or not.
+- [00:00:30,980 - 00:00:32,950] We're going to try to maybe ask if we can get in
+- [00:00:32,950 - 00:00:34,920] and get some interviews just off the pure luck of our channel.
+- [00:00:35,140 - 00:00:36,340] So let's get to it.
+- [00:00:39,100 - 00:00:41,240] Hey, brother, quick question for you.
+- [00:00:41,300 - 00:00:42,300] I know it's a long shot.
+- [00:00:42,520 - 00:00:43,620] We were going to try to
+- [00:00:43,620 - 00:00:44,720] see if we could do some interviews.
+- [00:00:45,460 - 00:00:46,550] I can't let you unless
+- [00:00:46,550 - 00:00:47,640] you're a member or a resident.
+- [00:00:49,140 - 00:00:50,330] It's going to be tough today trying
+- [00:00:50,330 - 00:00:51,520] to go to these private golf courses.
+- [00:00:51,660 - 00:00:52,540] They don't know who we are.
+- [00:00:52,640 - 00:00:53,900] We're just trying to get in and get these interviews.
+- [00:00:54,060 - 00:00:54,860] But at the end of the day,
+- [00:00:54,860 - 00:00:55,660] we've got to mix up the game plan.
+- [00:00:55,800 - 00:00:57,820] Yeah, well, I already found the second course.
+- [00:00:57,960 - 00:00:58,900] It's kind of like a private.
+- [00:00:58,980 - 00:00:59,940] Resort that we're going to head to.
+- [00:01:00,120 - 00:01:01,780] So about 15 minutes away.
+- [00:01:01,900 - 00:01:03,289] But hopefully we can get in there
+- [00:01:03,289 - 00:01:04,679] and find out how these millionaires got rich.
+- [00:01:04,840 - 00:01:06,440] We're approaching the second golf course.
+- [00:01:06,440 - 00:01:08,440] And hopefully we're going to be able to get in
+- [00:01:08,440 - 00:01:10,440] and maybe snack some interviews with some multimillionaires while we're here.
+- [00:01:10,560 - 00:01:11,500] So the gate was open and
+- [00:01:11,500 - 00:01:12,440] we were able to sneak in.
+- [00:01:12,560 - 00:01:13,800] We just got to our next golf course.
+- [00:01:13,880 - 00:01:15,350] Only problem is it is a private
+- [00:01:15,350 - 00:01:16,820] course and there are attendants in every hole.
+- [00:01:16,820 - 00:01:18,000] So hopefully we can find a way
+- [00:01:18,000 - 00:01:19,180] to scheme and get some of these interviews.
+- [00:01:24,160 - 00:01:25,530] What was the most amount of money
+- [00:01:25,530 - 00:01:26,900] that you ever made in a single year?
+- [00:01:27,180 - 00:01:28,160] A little over a million.
+- [00:01:28,940 - 00:01:30,220] What was the importance of following
+- [00:01:30,220 - 00:01:31,500] your passion for you throughout your career?
+- [00:01:31,500 - 00:01:35,060] It made me a very successful hospital administrator doing something I love
+- [00:01:35,060 - 00:01:38,620] and it made a big difference in a lot of people's lives.
+- [00:01:38,620 - 00:01:40,380] What led to your success to be able
+- [00:01:40,380 - 00:01:42,140] to work your way up to run hospitals?
+- [00:01:42,140 - 00:01:43,020] Being street smart.
+- [00:01:43,020 - 00:01:45,180] Always taking a perspective that you can learn something
+- [00:01:45,180 - 00:01:47,340] every day and not be too full of yourself.
+- [00:01:47,340 - 00:01:49,100] How can someone really start their path
+- [00:01:49,100 - 00:01:50,860] to becoming financially free in today's world?
+- [00:01:50,860 - 00:01:52,060] Live within your means.
+- [00:01:52,060 - 00:01:55,299] My philosophy early on, I had a mentor who said, live on
+- [00:01:55,299 - 00:01:58,539] what you made five years ago and invest and bank the rest.
+- [00:01:58,940 - 00:02:00,140] What was the most amount of money
+- [00:02:00,140 - 00:02:01,340] that you ever made in a single year?
+- [00:02:02,860 - 00:02:04,460] Probably close to 1.5.
+- [00:02:04,460 - 00:02:05,660] 1.5 million.
+- [00:02:05,660 - 00:02:07,179] Were you ever a business owner?
+- [00:02:07,179 - 00:02:08,060] I am right now.
+- [00:02:08,060 - 00:02:09,660] Yeah. What kind of business are you running right now?
+- [00:02:09,660 - 00:02:11,340] We own a company that
+- [00:02:11,340 - 00:02:13,020] has a golf putting training aid.
+- [00:02:13,020 - 00:02:14,460] What advice would you tell someone
+- [00:02:14,460 - 00:02:15,900] who's starting a business this year?
+- [00:02:15,900 - 00:02:17,700] Make sure you have a number of
+- [00:02:17,700 - 00:02:19,500] people who have been successful at launching
+- [00:02:19,500 - 00:02:21,500] startups. Give you advice. Make sure
+- [00:02:21,500 - 00:02:23,500] you got a strong business plan.
+- [00:02:23,500 - 00:02:26,140] You got a strong marketing, social media presence and
+- [00:02:26,140 - 00:02:28,780] make sure you got your funding in place. One of
+- [00:02:28,780 - 00:02:31,780] my people that I really look up to is
+- [00:02:31,780 - 00:02:34,780] Sir Richard Branson. He says that customers or your clients
+- [00:02:34,780 - 00:02:37,220] aren't the most important priority. Your people are.
+- [00:02:37,220 - 00:02:39,660] If you take care of your people, they'll take
+- [00:02:39,660 - 00:02:42,140] care of your customers. So I really believe in that.
+- [00:02:42,140 - 00:02:43,900] We're taking a bit of an intermission in this
+- [00:02:43,900 - 00:02:45,660] video real quick. We got our boy James here from
+- [00:02:45,660 - 00:02:47,740] the school of hard knocks and our new friend Will.
+- [00:02:47,740 - 00:02:49,820] We are actually going to do a challenge real quick.
+- [00:02:49,820 - 00:02:51,660] First of three, Will's nice enough to let us
+- [00:02:51,660 - 00:02:53,500] play with him. So yeah, let's get to it boys.
+- [00:02:53,500 - 00:02:54,700] Oh my God.
+- [00:02:54,700 - 00:02:55,180] Ooh.
+- [00:02:55,180 - 00:02:56,780] Hey, he's a...
+- [00:02:56,780 - 00:02:57,900] He's a power up.
+- [00:02:57,900 - 00:02:58,300] He's a power up.
+- [00:02:58,300 - 00:02:58,620] He's a power up.
+- [00:02:58,620 - 00:02:58,700] He's a power up.
+- [00:02:58,700 - 00:03:02,380] Oh.
+- [00:03:02,380 - 00:03:05,260] Oh.
+- [00:03:05,260 - 00:03:06,459] Almost, almost.
+- [00:03:06,459 - 00:03:08,140] Geez. We may have to play the two, bro.
+- [00:03:08,140 - 00:03:09,420] Will could be the first one on the board.
+- [00:03:09,420 - 00:03:11,500] Woo.
+- [00:03:12,780 - 00:03:14,580] We're going to check in with James and Will
+- [00:03:14,580 - 00:03:16,380] later, but for now, let's go get some more interviews.
+- [00:03:16,380 - 00:03:18,620] What industry did you ultimately pursue a career in?
+- [00:03:18,620 - 00:03:20,539] So I was a golf professional for a while and
+- [00:03:20,539 - 00:03:22,459] then I got out of the business and now I'm in
+- [00:03:22,459 - 00:03:23,339] IT sales.
+- [00:03:23,339 - 00:03:25,500] What has been your secret to sales throughout your career?
+- [00:03:25,500 - 00:03:27,020] Just put myself in the customer's shoes.
+- [00:03:27,020 - 00:03:28,540] I really try to build relationships on
+- [00:03:28,540 - 00:03:30,940] just being so personal and real with folks and
+- [00:03:30,940 - 00:03:33,340] just try to listen to what their challenges are.
+- [00:03:33,340 - 00:03:34,899] When someone is a no though, what's
+- [00:03:34,899 - 00:03:36,459] your strategy to convert them to a yes?
+- [00:03:36,459 - 00:03:38,459] I like to find out why. Is it competition?
+- [00:03:38,459 - 00:03:40,459] Is it pricing? Where is it? It sets me up
+- [00:03:40,459 - 00:03:41,180] better for the next time.
+- [00:03:41,180 - 00:03:42,420] What would be your best
+- [00:03:42,420 - 00:03:43,660] financial advice to the younger generation?
+- [00:03:43,660 - 00:03:45,180] Stay out of debt and don't
+- [00:03:45,180 - 00:03:46,700] get divorced. It's cheaper to keep her.
+- [00:03:46,700 - 00:03:49,340] I love that.
+- [00:03:49,340 - 00:03:51,220] And that's true because I've been divorced and it
+- [00:03:51,220 - 00:03:53,100] cost me quite a bit. So I like that advice.
+- [00:03:53,100 - 00:03:54,459] Right. What are you doing exactly?
+- [00:03:54,459 - 00:03:56,059] I'm a project architect at a
+- [00:03:56,059 - 00:03:57,660] high-end design firm here in Austin.
+- [00:03:57,660 - 00:03:58,060] What would be your best advice for the younger generation?
+- [00:03:58,060 - 00:03:59,740] What would be your best financial advice to
+- [00:03:59,740 - 00:04:01,420] the younger generation that you wish someone told you
+- [00:04:01,420 - 00:04:02,540] when you were coming out of college?
+- [00:04:02,540 - 00:04:04,540] I went to school with a bunch
+- [00:04:04,540 - 00:04:06,540] of people that didn't go to college
+- [00:04:06,540 - 00:04:08,940] that are as financially free as I am.
+- [00:04:08,940 - 00:04:11,340] And that's because they made good investments. They became
+- [00:04:11,340 - 00:04:13,500] business owners and then quickly they understood that
+- [00:04:13,500 - 00:04:15,660] they needed to invest. So if you can invest
+- [00:04:15,660 - 00:04:18,059] your money early on, the earlier, the
+- [00:04:18,059 - 00:04:20,459] better. So professional golfer turned tech salesman,
+- [00:04:20,459 - 00:04:22,219] another tech salesman, and then an architect.
+- [00:04:22,219 - 00:04:23,980] Pretty cool interviews and some pretty insightful
+- [00:04:23,980 - 00:04:25,380] game from them. So we're going to keep
+- [00:04:25,380 - 00:04:26,780] running these interviews up and hope you guys are
+- [00:04:26,780 - 00:04:27,500] enjoying the content.
+- [00:04:27,500 - 00:04:27,540] Make sure that you subscribe to our channel and
+- [00:04:27,540 - 00:04:27,580] hit the bell so you don't miss any of our
+- [00:04:27,580 - 00:04:27,980] new videos. And we'll see you in the next video.
+- [00:04:27,980 - 00:04:29,780] You leave a like and you subscribe because we've
+- [00:04:29,780 - 00:04:31,580] got tons of amazing content on the way and stay
+- [00:04:31,580 - 00:04:32,820] tuned for the end for some real
+- [00:04:32,820 - 00:04:34,060] game. We've been getting some really good
+- [00:04:34,060 - 00:04:35,700] interviews today, but let's go tap in on Will
+- [00:04:35,700 - 00:04:37,340] and James and see how that golf game's going.
+- [00:04:41,260 - 00:04:43,020] Whoa, that's going to be a tough second one.
+- [00:04:45,740 - 00:04:49,180] Oh, no way. No way. No way.
+- [00:04:49,180 - 00:04:51,060] Come on, dad. I'm not the
+- [00:04:51,060 - 00:04:52,940] boy. Whoa, boys. Come on, dad.
+- [00:04:52,940 - 00:04:54,300] What was the most amount of money
+- [00:04:54,300 - 00:04:55,660] that you ever made in a single year?
+- [00:04:55,660 - 00:04:55,980] A lot.
+- [00:04:55,980 - 00:04:59,340] Is it in the seven digits?
+- [00:05:00,380 - 00:05:00,940] Yes.
+- [00:05:00,940 - 00:05:01,260] Okay.
+- [00:05:01,260 - 00:05:02,420] What is the best piece of advice
+- [00:05:02,420 - 00:05:03,580] that you would tell your younger self?
+- [00:05:03,580 - 00:05:05,740] Well, I would say, first of all,
+- [00:05:05,740 - 00:05:07,900] college degree is important, but it's not imperative.
+- [00:05:07,900 - 00:05:09,700] I think in this country, you can start
+- [00:05:09,700 - 00:05:11,500] a business. You can go to the SBA,
+- [00:05:11,500 - 00:05:14,060] you can borrow two or $300,000. And if you have
+- [00:05:14,060 - 00:05:16,620] a thing that you like to do, you can start it.
+- [00:05:16,620 - 00:05:19,540] I did not finish University of Texas. I started
+- [00:05:19,540 - 00:05:22,460] a company 50 years ago with $67 a bank. We're
+- [00:05:22,460 - 00:05:24,300] the largest company in town that what we do.
+- [00:05:24,300 - 00:05:24,860] What is the biggest mindset you
+- [00:05:24,860 - 00:05:25,420] have? What is your biggest mindset?
+- [00:05:25,420 - 00:05:26,940] Mindset change that is needed
+- [00:05:26,940 - 00:05:28,460] in order to become a multimillionaire?
+- [00:05:28,460 - 00:05:30,460] Humbleness. If you do everything right, it
+- [00:05:30,460 - 00:05:32,460] all takes care of itself. And if you
+- [00:05:32,460 - 00:05:34,620] live right and you believe there's a guy upstairs
+- [00:05:34,620 - 00:05:36,780] that takes care of you and you live down that
+- [00:05:36,780 - 00:05:38,500] channel, then a lot of good things come to
+- [00:05:38,500 - 00:05:40,220] you that you didn't even know were coming to you.
+- [00:05:40,220 - 00:05:42,020] What's your best financial advice to the younger
+- [00:05:42,020 - 00:05:43,820] generation that maybe you wish someone told you
+- [00:05:43,820 - 00:05:44,700] coming out of school?
+- [00:05:44,700 - 00:05:46,980] You have to find out what you're made of. I mean,
+- [00:05:46,980 - 00:05:49,260] are you an outgoing guy? Are you going to open a
+- [00:05:49,260 - 00:05:51,340] restaurant? Are you going to go to work for Dell?
+- [00:05:51,340 - 00:05:53,420] You have to decide who you are. You work for Dell,
+- [00:05:53,420 - 00:05:53,640] you make a couple hundred thousand dollars a year, and
+- [00:05:53,640 - 00:05:53,860] you're going to go to work for Dell. You're going
+- [00:05:53,860 - 00:05:55,200] to make a couple hundred thousand dollars a
+- [00:05:55,200 - 00:05:56,540] year, and you're going to enjoy your life.
+- [00:05:56,540 - 00:05:58,420] If you want to go into business, then
+- [00:05:58,420 - 00:06:00,300] you have to decide what are you interested in,
+- [00:06:00,300 - 00:06:02,540] and then you decide how do you build that. Then
+- [00:06:02,540 - 00:06:04,780] you go find out from other people that have done
+- [00:06:04,780 - 00:06:07,340] it. So there's no right answer. What
+- [00:06:07,340 - 00:06:09,900] industry did you ultimately pursue a career in?
+- [00:06:09,900 - 00:06:11,900] Software, where I was a CEO of a software company.
+- [00:06:11,900 - 00:06:12,620] What was the name of it?
+- [00:06:12,620 - 00:06:14,580] PostUp. It was sold to Upland Software
+- [00:06:14,580 - 00:06:16,540] here in Austin, Texas, a public company.
+- [00:06:16,540 - 00:06:17,500] How much did you sell it for?
+- [00:06:17,500 - 00:06:19,340] We sold it for about $38 million.
+- [00:06:19,340 - 00:06:20,780] What was the biggest thing that you
+- [00:06:20,780 - 00:06:22,220] implemented throughout your company to ultimately scale it
+- [00:06:22,220 - 00:06:23,020] to the point that it got to
+- [00:06:23,020 - 00:06:23,820] where you were able to sell it?
+- [00:06:23,820 - 00:06:24,980] We were able to sell it for millions of dollars.
+- [00:06:24,980 - 00:06:26,860] Built a great team. It's all about the
+- [00:06:26,860 - 00:06:28,740] people, all about putting good people in places that
+- [00:06:28,740 - 00:06:30,780] they're going to be successful at, and developing
+- [00:06:30,780 - 00:06:32,820] people, and getting everybody on the same page so
+- [00:06:32,820 - 00:06:34,300] that they're working together and communicating
+- [00:06:34,300 - 00:06:35,780] effectively. That's what it's all about.
+- [00:06:35,780 - 00:06:37,380] How did you break into the tech industry?
+- [00:06:37,380 - 00:06:38,740] Well, I worked at Sony first. I
+- [00:06:38,740 - 00:06:40,100] got my first job seven years at Sony,
+- [00:06:40,100 - 00:06:41,460] then I went to Dell Computers for
+- [00:06:41,460 - 00:06:42,820] seven years, and then I got into Suffer.
+- [00:06:42,820 - 00:06:44,220] What was the biggest challenge that
+- [00:06:44,220 - 00:06:45,620] you faced running a major company,
+- [00:06:45,620 - 00:06:46,820] and how were you able to overcome that?
+- [00:06:46,820 - 00:06:49,580] Challenges are getting people to focus on working
+- [00:06:49,580 - 00:06:52,340] together and not against each other. So I worked
+- [00:06:52,340 - 00:06:53,780] at big companies. We had a lot of power.
+- [00:06:53,780 - 00:06:53,800] Yeah.
+- [00:06:53,800 - 00:06:55,240] There was politics going on. It was hard to manage
+- [00:06:55,240 - 00:06:56,680] it. When you get to a small team and you
+- [00:06:56,680 - 00:06:58,640] own that small team, you can remove the politics
+- [00:06:58,640 - 00:07:00,600] of focus on things like the customer and putting
+- [00:07:00,600 - 00:07:02,480] out a good solution and a good product and
+- [00:07:02,480 - 00:07:04,360] things that are important. That's why I love working at
+- [00:07:04,360 - 00:07:05,560] smaller companies than large ones.
+- [00:07:05,560 - 00:07:07,040] Hey, I mean, sometimes you don't want all
+- [00:07:07,040 - 00:07:08,520] the bells and whistles. You don't want all the
+- [00:07:08,520 - 00:07:10,360] flashy stuff. Sometimes you really got to get down
+- [00:07:10,360 - 00:07:12,200] to the nitty gritty, the challenges. What are the
+- [00:07:12,200 - 00:07:14,080] hard things about running a company that we got
+- [00:07:14,080 - 00:07:15,960] to ask these people? Because ultimately, in order to
+- [00:07:15,960 - 00:07:18,000] get to that success, you got to get through
+- [00:07:18,000 - 00:07:20,040] all the bad stuff too. That was a great interview,
+- [00:07:20,040 - 00:07:21,900] but it's 1-1 right now in the golf game with
+- [00:07:21,900 - 00:07:23,760] James and Will. Let's go see who gets the next point.
+- [00:07:23,760 - 00:07:26,220] Look at that. That's a stroke right
+- [00:07:26,220 - 00:07:28,680] there. That was good. That was solid.
+- [00:07:28,680 - 00:07:32,599] Oh, man.
+- [00:07:32,599 - 00:07:34,680] Oh, my God. Get out of here.
+- [00:07:34,680 - 00:07:36,599] Give me that. Give me that. Let's go.
+- [00:07:36,599 - 00:07:38,759] Will just took the point to go up 2-1 on
+- [00:07:38,759 - 00:07:40,920] James. But for now, let's go check back in with
+- [00:07:40,920 - 00:07:42,320] the interviews and get some more game.
+- [00:07:42,320 - 00:07:43,459] What is the best piece of advice
+- [00:07:43,459 - 00:07:44,599] that you would tell your younger self?
+- [00:07:44,599 - 00:07:47,159] Fail. Fail a lot. Second, I would always say
+- [00:07:47,159 - 00:07:49,719] teach this to a lot of young athletes. As fast
+- [00:07:49,719 - 00:07:51,719] as you can, find a mentor that's specific to what
+- [00:07:51,719 - 00:07:53,719] you want to be, what you want to do. That'll let
+- [00:07:53,720 - 00:07:55,340] you know what allows you to excel. What was the
+- [00:07:55,340 - 00:07:56,960] most amount of money that you ever made in a
+- [00:07:56,960 - 00:07:59,720] single year? Reportable to the IRS was a little
+- [00:07:59,720 - 00:08:02,480] over a million. And with that, it's more money,
+- [00:08:02,480 - 00:08:04,460] more problems. If you don't learn how to manage
+- [00:08:04,460 - 00:08:06,440] the money, keep the money, and grow the money,
+- [00:08:06,440 - 00:08:08,450] you know, shame on you again. How can
+- [00:08:08,450 - 00:08:10,460] someone start their path to becoming wealthy in 2023?
+- [00:08:10,460 - 00:08:12,860] Remember, there's a tremendous amount of wealth that's
+- [00:08:12,860 - 00:08:15,260] out there that's above my age. So the
+- [00:08:15,260 - 00:08:17,090] challenge that I see with a lot of people that
+- [00:08:17,090 - 00:08:18,920] are younger than me and younger than you or at
+- [00:08:18,920 - 00:08:20,900] your age, they don't always have those personal
+- [00:08:20,900 - 00:08:22,880] skills. The faster they can develop those personal
+- [00:08:22,880 - 00:08:23,280] skills, the better they're going to be. And I
+- [00:08:23,280 - 00:08:23,680] think that's a great point. And I think that's
+- [00:08:23,680 - 00:08:24,940] where they're going to be. What's the best
+- [00:08:24,940 - 00:08:26,200] industry that people should be looking to get
+- [00:08:26,200 - 00:08:28,330] into? Or where should people really look to
+- [00:08:28,330 - 00:08:30,460] put their money? Industry-wise, as we get older,
+- [00:08:30,460 - 00:08:31,990] medical is never one of those things that's going
+- [00:08:31,990 - 00:08:33,520] to go away. Medical has always been one of those
+- [00:08:33,520 - 00:08:35,620] things that allowed me to expand and to grow.
+- [00:08:35,620 - 00:08:37,720] What is the best piece of advice that you would
+- [00:08:37,720 - 00:08:39,370] tell your younger self? Start your own business.
+- [00:08:39,370 - 00:08:41,020] Did you end up becoming a business owner?
+- [00:08:41,020 - 00:08:44,320] I graduated UT, then I went to Wharton, worked
+- [00:08:44,320 - 00:08:47,620] for KPMG, PWC, and then got hired by a company
+- [00:08:47,620 - 00:08:50,380] called Union Carbide. Then I became the president
+- [00:08:50,380 - 00:08:53,140] of Union Carbide. I got disenchanted over time
+- [00:08:53,140 - 00:08:53,660] with corporate
+- [00:08:53,660 - 00:08:56,119] America and decided to start my own business.
+- [00:08:56,119 - 00:08:58,579] And I bought a landscape supply company in
+- [00:08:58,579 - 00:09:00,889] New Braunfels. And I sold it
+- [00:09:00,889 - 00:09:03,199] after four years for $42 million.
+- [00:09:03,199 - 00:09:05,509] What is the first step that someone should really take
+- [00:09:05,509 - 00:09:07,819] to make it more than just an idea of wanting
+- [00:09:07,819 - 00:09:09,679] to start a business? The number one thing is
+- [00:09:09,679 - 00:09:11,540] that there's so much capital out there. With a good
+- [00:09:11,540 - 00:09:14,600] idea, you can get capital. And you don't
+- [00:09:14,600 - 00:09:17,660] need to have investors. Investors really are problematic.
+- [00:09:17,660 - 00:09:20,390] But you can go to the SBA and you
+- [00:09:20,390 - 00:09:23,120] can take out a $3 million loan with $150,000 down.
+- [00:09:23,120 - 00:09:25,070] You know, it's basically guaranteed by the
+- [00:09:25,070 - 00:09:27,020] government and that'll catapult you into kind
+- [00:09:27,020 - 00:09:28,670] of your starting spot. If you want to buy
+- [00:09:28,670 - 00:09:30,320] a business for a million, then you need 50 grand.
+- [00:09:30,320 - 00:09:32,180] How can someone really scale their business? Or
+- [00:09:32,180 - 00:09:34,040] what was the biggest thing that you did that
+- [00:09:34,040 - 00:09:36,350] scaled your business? Believing in growth, number
+- [00:09:36,350 - 00:09:38,660] one. Constantly looking forward, not being scared.
+- [00:09:38,660 - 00:09:40,730] Buying more trucks when people were not convinced trucks
+- [00:09:40,730 - 00:09:42,800] were a good idea. And every time we bought
+- [00:09:42,800 - 00:09:44,720] one, it made more money. Hiring more people
+- [00:09:44,720 - 00:09:46,640] when I could tell people were stressed out outside.
+- [00:09:46,640 - 00:09:48,920] Buying good gear. Outsourcing all the service size so we
+- [00:09:48,920 - 00:09:51,200] could focus on business. It is 2-1 in the golf game.
+- [00:09:51,200 - 00:09:53,900] It is 2-1 in the golf game between James and Will. Is
+- [00:09:53,900 - 00:09:56,600] Will going to be able to close it out? Let's go see.
+- [00:09:56,600 - 00:10:01,760] Oh man. Dang. All right. Good shot right there.
+- [00:10:01,760 - 00:10:08,000] Come on.
+- [00:10:08,000 - 00:10:12,710] Here we go. Oh, game.
+- [00:10:12,710 - 00:10:17,420] Good game. Wow. Good game, man.
+- [00:10:17,420 - 00:10:18,980] Make sure that you leave a like on the video
+- [00:10:18,980 - 00:10:20,540] and you subscribe to the channel because we have tons
+- [00:10:21,200 - 00:10:22,970] of great content coming on the way. And click
+- [00:10:22,970 - 00:10:24,740] the link right here to watch us go boon-nocking
+- [00:10:24,740 - 00:10:26,420] around one of the wealthiest neighborhoods in
+- [00:10:26,420 - 00:10:28,100] Texas asking millionaires how they got rich.
