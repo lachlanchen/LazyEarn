@@ -1,0 +1,362 @@
+# Transcript
+
+Source: lazyearn/school-of-hard-knocks/hard-knocks-interviews/120 - Asking Entrepreneurs How They Got RICH! (San Antonio) [Iw7huxwfHRM].mkv
+
+- [00:00:00,000 - 00:00:01,040] My man right here is in the RA.
+- [00:00:01,120 - 00:00:01,820] We're going to go see if we
+- [00:00:01,820 - 00:00:02,520] can get a quick interview with him.
+- [00:00:03,340 - 00:00:04,520] Hey, quick question for you, bro.
+- [00:00:04,840 - 00:00:06,060] What was the most amount of money
+- [00:00:06,060 - 00:00:07,280] that you ever made in a single year?
+- [00:00:07,360 - 00:00:08,140] About a million dollars.
+- [00:00:08,300 - 00:00:09,490] Today, we're going to be asking
+- [00:00:09,490 - 00:00:10,680] Texan millionaires how they got rich
+- [00:00:10,680 - 00:00:11,870] and how you can start your
+- [00:00:11,870 - 00:00:13,060] path to becoming wealthy in today's world.
+- [00:00:13,240 - 00:00:14,480] What was the most amount of money
+- [00:00:14,480 - 00:00:15,720] that you ever made in a single year?
+- [00:00:15,920 - 00:00:16,980] Over half a million dollars.
+- [00:00:17,120 - 00:00:19,360] In what industry did you ultimately pursue a career in?
+- [00:00:19,420 - 00:00:20,280] I've done a couple of things.
+- [00:00:20,320 - 00:00:21,380] I've actually been a wealth manager.
+- [00:00:21,520 - 00:00:23,000] I've been president and CEO of a company before.
+- [00:00:23,160 - 00:00:25,320] And I've also have my own construction company.
+- [00:00:25,660 - 00:00:26,770] What was the biggest thing
+- [00:00:26,770 - 00:00:27,880] that you implemented throughout your companies
+- [00:00:27,880 - 00:00:29,380] to ultimately scale your businesses?
+- [00:00:29,380 - 00:00:32,759] To scale a business, you got to crawl, walk, run.
+- [00:00:32,900 - 00:00:34,360] You don't want to go out there
+- [00:00:34,360 - 00:00:35,820] and go all out right from the start
+- [00:00:35,820 - 00:00:37,029] because you've got to be
+- [00:00:37,029 - 00:00:38,239] able to pick yourself back up.
+- [00:00:38,320 - 00:00:39,690] And if you're running too
+- [00:00:39,690 - 00:00:41,060] fast, you'll probably over leverage yourself.
+- [00:00:41,180 - 00:00:42,820] You'll go into debt too much, learn
+- [00:00:42,820 - 00:00:44,460] the industry and become an expert in it.
+- [00:00:44,680 - 00:00:46,070] What was the best financial decision
+- [00:00:46,070 - 00:00:47,460] that you ever made throughout your career?
+- [00:00:47,599 - 00:00:49,000] Getting married to this young lady right here.
+- [00:00:50,519 - 00:00:52,369] You got to have a happy and good
+- [00:00:52,369 - 00:00:54,220] personal life to be successful in your business life.
+- [00:00:54,400 - 00:00:55,819] If it's all about business, at the
+- [00:00:55,819 - 00:00:57,239] end of the road, you won't be happy.
+- [00:00:57,239 - 00:00:58,299] What is the best piece of
+- [00:00:58,299 - 00:00:59,360] advice that you would tell your young
+- [00:00:59,360 - 00:00:59,720] yourself?
+- [00:00:59,880 - 00:01:01,660] That every day is an interview.
+- [00:01:01,880 - 00:01:02,860] Every day is your resume.
+- [00:01:03,040 - 00:01:04,519] It's not what you do when you speak
+- [00:01:04,519 - 00:01:06,000] to somebody for 30 minutes in a conversation.
+- [00:01:06,180 - 00:01:07,560] It's everything that you do every day
+- [00:01:07,560 - 00:01:08,940] and how you live your life, your attitude,
+- [00:01:09,260 - 00:01:09,980] how you behave.
+- [00:01:10,220 - 00:01:12,850] Basically, an effect that allows you
+- [00:01:12,850 - 00:01:15,480] to address any questions or any circumstance
+- [00:01:15,480 - 00:01:17,150] you could have at any company
+- [00:01:17,150 - 00:01:18,820] or any individual during the interview process.
+- [00:01:18,920 - 00:01:19,720] Your quick intermission.
+- [00:01:20,060 - 00:01:21,010] He's going to be drawing
+- [00:01:21,010 - 00:01:21,960] a caricature of us real quick.
+- [00:01:22,039 - 00:01:23,260] He's got Josh here on the stool.
+- [00:01:23,960 - 00:01:25,060] We'll be checking back in with him
+- [00:01:25,060 - 00:01:26,160] just to see how the drawing's going.
+- [00:01:26,160 - 00:01:28,340] What industry did you ultimately pursue a career in?
+- [00:01:28,720 - 00:01:29,160] Bioinformatics.
+- [00:01:29,360 - 00:01:31,640] Computer science and medical school combined.
+- [00:01:31,860 - 00:01:31,920] Yeah.
+- [00:01:32,020 - 00:01:32,900] So are you a business owner?
+- [00:01:32,980 - 00:01:35,240] I actually just sold my business a few months ago.
+- [00:01:35,340 - 00:01:36,039] How much did you sell it for?
+- [00:01:36,280 - 00:01:38,920] I'm not at liberty to disclose, but I did okay.
+- [00:01:39,080 - 00:01:40,840] As an entrepreneur, what advice would you tell
+- [00:01:40,840 - 00:01:42,600] to someone starting a business in today's world?
+- [00:01:42,700 - 00:01:45,180] I would say that perseverance is one
+- [00:01:45,180 - 00:01:47,660] of the most underappreciated aspects of a business.
+- [00:01:47,840 - 00:01:49,500] It's this idea that in spite of everything,
+- [00:01:49,500 - 00:01:51,160] if it looks like things are going to fail,
+- [00:01:51,260 - 00:01:53,050] to stick with it and believe in yourself
+- [00:01:53,050 - 00:01:54,840] and your team's ability to overcome the adversity
+- [00:01:54,840 - 00:01:55,640] that's going to come your way.
+- [00:01:55,640 - 00:01:56,940] Everybody experiences friction.
+- [00:01:57,260 - 00:01:58,160] Growth only comes from that.
+- [00:01:58,320 - 00:01:58,830] And the people that make it
+- [00:01:58,830 - 00:01:59,340] are the ones that make it.
+- [00:01:59,360 - 00:02:00,850] And the ones that stick with it and just
+- [00:02:00,850 - 00:02:02,340] find a way in spite of all the odds.
+- [00:02:02,500 - 00:02:04,140] What do you think is the best industry that
+- [00:02:04,140 - 00:02:05,780] people should be looking to get into in today's world?
+- [00:02:05,860 - 00:02:06,700] It's in AI.
+- [00:02:07,020 - 00:02:08,609] There's huge advancements right now with
+- [00:02:08,609 - 00:02:10,199] chat, chat, GTP and other things.
+- [00:02:10,400 - 00:02:11,480] This is just the beginning.
+- [00:02:11,700 - 00:02:13,780] Your job won't be replaced by an AI.
+- [00:02:13,980 - 00:02:15,660] Your job will be replaced by someone who
+- [00:02:15,660 - 00:02:17,340] knows how to use AI for their job.
+- [00:02:17,460 - 00:02:19,040] Just wrapped up some interviews down at the Riverwalk.
+- [00:02:19,160 - 00:02:20,340] We're here at the Westin on
+- [00:02:20,340 - 00:02:21,520] the Riverwalk down in San Antonio.
+- [00:02:21,800 - 00:02:23,130] Going to go in real quick and see if
+- [00:02:23,130 - 00:02:24,460] we can snag a couple interviews inside the hotel.
+- [00:02:24,940 - 00:02:26,060] What was the most amount of money
+- [00:02:26,060 - 00:02:27,180] that you ever made in a single year?
+- [00:02:27,220 - 00:02:28,020] About a million dollars.
+- [00:02:28,020 - 00:02:28,520] That's amazing.
+- [00:02:28,600 - 00:02:29,180] What's your net worth?
+- [00:02:29,360 - 00:02:30,600] About 15 to 20 million.
+- [00:02:30,700 - 00:02:32,500] When someone is starting to make money in their careers,
+- [00:02:32,860 - 00:02:34,410] where do you think people should really look to
+- [00:02:34,410 - 00:02:35,960] invest or put their money to try and multiply
+- [00:02:35,960 - 00:02:37,420] and grow the income that they do have?
+- [00:02:37,500 - 00:02:39,010] Well, in real estate, I would say right
+- [00:02:39,010 - 00:02:40,520] now in land, they're not making any more.
+- [00:02:40,760 - 00:02:43,030] And the land development right
+- [00:02:43,030 - 00:02:45,300] now, the costs are always increasing.
+- [00:02:45,480 - 00:02:47,560] And you can always do something with the land.
+- [00:02:47,660 - 00:02:49,130] If you buy something that has
+- [00:02:49,130 - 00:02:50,600] what they call an agricultural use,
+- [00:02:50,700 - 00:02:52,280] you're not paying very much in taxes.
+- [00:02:52,720 - 00:02:54,640] Eventually, when you sell it and develop it,
+- [00:02:54,820 - 00:02:56,280] you'll get your return and your
+- [00:02:56,280 - 00:02:57,740] capital gains will come out of there.
+- [00:02:57,740 - 00:02:59,340] What's the greatest lesson that you've learned?
+- [00:02:59,360 - 00:03:01,180] Throughout your career as a real estate developer?
+- [00:03:01,540 - 00:03:02,180] Don't be afraid.
+- [00:03:02,400 - 00:03:03,160] Take the plunge.
+- [00:03:03,280 - 00:03:06,600] You'll always come up ahead if you take the risk.
+- [00:03:07,020 - 00:03:08,240] No matter if you fail,
+- [00:03:08,240 - 00:03:09,460] you'll always come ahead of yourself
+- [00:03:09,460 - 00:03:11,360] because you'll learn something from your failure.
+- [00:03:11,540 - 00:03:12,390] We're going to go check
+- [00:03:12,390 - 00:03:13,240] back in with Josh and Blas
+- [00:03:13,240 - 00:03:14,860] and see how the character drawing is going right now.
+- [00:03:14,980 - 00:03:16,160] So how long have you been
+- [00:03:16,160 - 00:03:17,340] drawing and doing character shows for?
+- [00:03:17,560 - 00:03:19,220] For about 35 years.
+- [00:03:19,340 - 00:03:20,520] Oh my God, that's incredible.
+- [00:03:20,920 - 00:03:21,100] Yeah.
+- [00:03:21,220 - 00:03:22,920] What is the most fascinating thing
+- [00:03:22,920 - 00:03:24,620] you've learned about people since drawing?
+- [00:03:25,020 - 00:03:26,720] People from all over are friendly.
+- [00:03:26,720 - 00:03:29,360] And, you know, most people are nice and generous.
+- [00:03:29,360 - 00:03:31,160] And everybody's excited.
+- [00:03:31,360 - 00:03:32,780] And they all want to know what
+- [00:03:32,780 - 00:03:34,200] they would look like in a caricature form.
+- [00:03:34,340 - 00:03:35,400] So I'm really grateful.
+- [00:03:35,580 - 00:03:37,140] And I feel very blessed to be here
+- [00:03:37,140 - 00:03:38,700] on the Riverwalk and drawing you guys especially.
+- [00:03:38,840 - 00:03:41,230] Why did you choose to go into
+- [00:03:41,230 - 00:03:43,620] art and drawing people for a living?
+- [00:03:43,880 - 00:03:45,600] I wanted to be like Picasso.
+- [00:03:45,860 - 00:03:47,160] That was my whole idea.
+- [00:03:47,260 - 00:03:48,200] When I was younger, I thought,
+- [00:03:48,560 - 00:03:50,020] geez, I'm going to be famous like Picasso.
+- [00:03:50,180 - 00:03:50,840] I love Picasso.
+- [00:03:50,960 - 00:03:51,740] He's a great guy.
+- [00:03:51,840 - 00:03:54,460] And he seems like a likable guy and everything else.
+- [00:03:54,520 - 00:03:56,000] So I never got it that far.
+- [00:03:56,120 - 00:03:57,380] But here I am.
+- [00:03:57,620 - 00:03:58,960] What was the most amount of money
+- [00:03:58,960 - 00:04:00,320] that you ever made in a single year?
+- [00:04:00,560 - 00:04:02,740] I'm in the like $300,000 to $400,000 range.
+- [00:04:02,840 - 00:04:04,960] What industry did you ultimately pursue a career in?
+- [00:04:05,120 - 00:04:05,640] I'm an architect.
+- [00:04:05,840 - 00:04:07,140] Are you a business owner by any chance?
+- [00:04:07,400 - 00:04:07,420] Yep.
+- [00:04:07,540 - 00:04:08,300] I own my own business.
+- [00:04:08,400 - 00:04:09,820] I work for myself, by myself.
+- [00:04:10,060 - 00:04:10,720] What's the business?
+- [00:04:10,880 - 00:04:12,180] Katie Hastings Architecture.
+- [00:04:12,280 - 00:04:13,800] What is your best financial advice
+- [00:04:13,800 - 00:04:15,160] that you would tell to the younger generation
+- [00:04:15,160 - 00:04:16,300] that you wish someone told you
+- [00:04:16,300 - 00:04:17,440] when you were coming out of school?
+- [00:04:17,600 - 00:04:19,320] Seek out your own destiny.
+- [00:04:19,480 - 00:04:21,600] There's many different jobs with many different incomes.
+- [00:04:21,779 - 00:04:23,580] You have to make choices based on
+- [00:04:23,580 - 00:04:25,380] the lifestyle that you want to live.
+- [00:04:25,460 - 00:04:25,820] All right, guys.
+- [00:04:25,900 - 00:04:27,540] Blast is finishing up right now with Jocelyn.
+- [00:04:27,600 - 00:04:28,900] We're going to go see how the drawing is ending.
+- [00:04:28,960 - 00:04:31,080] What would you say is the best piece of advice
+- [00:04:31,080 - 00:04:32,419] that you'd give to the younger generation?
+- [00:04:33,219 - 00:04:36,880] Oh, just it's so important nowadays to believe in yourself
+- [00:04:36,880 - 00:04:38,820] and not just believe in yourself, but
+- [00:04:38,820 - 00:04:40,760] continue, you know, just never give up.
+- [00:04:41,299 - 00:04:42,429] Because, I mean, I've been
+- [00:04:42,429 - 00:04:43,560] doing this for a long time
+- [00:04:43,560 - 00:04:44,780] and it took a lot to
+- [00:04:44,780 - 00:04:46,000] actually be at the level I'm at.
+- [00:04:46,280 - 00:04:48,679] I've drawn almost half a million people,
+- [00:04:49,099 - 00:04:50,659] not realizing that I was going
+- [00:04:50,659 - 00:04:52,219] to draw half a million people.
+- [00:04:52,539 - 00:04:53,599] And I never gave up.
+- [00:04:53,659 - 00:04:55,299] I never, I've always believed in myself.
+- [00:04:55,479 - 00:04:56,979] And it's very important.
+- [00:04:56,979 - 00:04:58,940] Just never give up and keep moving.
+- [00:04:59,020 - 00:05:00,620] And you'll get there eventually.
+- [00:05:01,219 - 00:05:02,299] My man right here is in the RA.
+- [00:05:02,380 - 00:05:03,100] We're going to go see if we
+- [00:05:03,100 - 00:05:03,820] can get a quick interview with him.
+- [00:05:04,340 - 00:05:05,500] Hey, quick question for you, bro.
+- [00:05:05,739 - 00:05:06,809] If you were to go back to when
+- [00:05:06,809 - 00:05:07,880] you were in either high school or college
+- [00:05:07,880 - 00:05:09,700] and you're having a conversation with your younger self,
+- [00:05:09,859 - 00:05:10,889] what is the best piece of
+- [00:05:10,889 - 00:05:11,919] advice you'd tell your younger self?
+- [00:05:12,099 - 00:05:14,919] I would say stay consistent 24-7.
+- [00:05:15,099 - 00:05:16,049] Because as you get older,
+- [00:05:16,049 - 00:05:17,000] things that get in your life,
+- [00:05:17,140 - 00:05:19,400] it's a discipline and just being consistent, man.
+- [00:05:19,419 - 00:05:20,380] And you can make it anywhere.
+- [00:05:20,520 - 00:05:21,480] I think I noticed you guys
+- [00:05:21,480 - 00:05:22,440] from the School of Hard Knocks.
+- [00:05:22,679 - 00:05:24,340] So I appreciate y'all, man.
+- [00:05:24,380 - 00:05:24,760] Yes, sir.
+- [00:05:24,799 - 00:05:25,780] And I live right here, man.
+- [00:05:25,780 - 00:05:27,140] So y'all want to check out the spot.
+- [00:05:27,419 - 00:05:28,780] Is that cool if we come up?
+- [00:05:28,960 - 00:05:29,659] Yeah, that's cool.
+- [00:05:29,880 - 00:05:30,580] Let's get it, bro.
+- [00:05:41,200 - 00:05:43,359] What industry did you ultimately pursue a career in?
+- [00:05:43,500 - 00:05:44,980] Real estate was the first
+- [00:05:44,980 - 00:05:46,460] big thing that I invested in.
+- [00:05:46,539 - 00:05:47,769] What's the most amount of money that
+- [00:05:47,769 - 00:05:49,000] you ever made in a single year?
+- [00:05:49,060 - 00:05:51,020] Probably 1.3 I did gross total.
+- [00:05:51,159 - 00:05:52,579] You know, how can someone really start
+- [00:05:52,579 - 00:05:54,000] their path to becoming wealthy in today's world?
+- [00:05:54,099 - 00:05:55,479] Finding something that you're
+- [00:05:55,479 - 00:05:56,859] really, really passionate about first.
+- [00:05:56,940 - 00:05:58,200] Because when you're passionate about it,
+- [00:05:58,200 - 00:06:01,280] you typically go pretty hard and then invest in it,
+- [00:06:01,620 - 00:06:03,039] learn everything around it.
+- [00:06:03,060 - 00:06:04,630] And then from there, duplicate
+- [00:06:04,630 - 00:06:06,200] that same deal every single time.
+- [00:06:06,260 - 00:06:09,580] Just take one platform and you just multiply that.
+- [00:06:09,640 - 00:06:10,800] How many units or how many pieces
+- [00:06:10,800 - 00:06:11,960] of property do you own right now?
+- [00:06:12,039 - 00:06:14,840] Units and properties together, about 38, 40.
+- [00:06:15,000 - 00:06:16,859] What is the biggest mindset change that
+- [00:06:16,859 - 00:06:18,719] is needed in order to become a multimillionaire?
+- [00:06:18,800 - 00:06:20,360] I would say staying humble.
+- [00:06:20,620 - 00:06:23,480] Staying humble is a very, very key to growth.
+- [00:06:23,480 - 00:06:25,520] With the humbleness, you never stop learning.
+- [00:06:25,719 - 00:06:27,880] I think being open and staying humble is like,
+- [00:06:27,880 - 00:06:30,049] the key that I would give a
+- [00:06:30,049 - 00:06:32,219] lot of people because there's endless growth.
+- [00:06:32,300 - 00:06:33,960] How did you get started doing Airbnb?
+- [00:06:34,020 - 00:06:35,760] It was a friend of mine that
+- [00:06:35,760 - 00:06:37,500] I saw on the internet, on YouTube.
+- [00:06:37,580 - 00:06:38,990] I reached out to him and
+- [00:06:38,990 - 00:06:40,400] he kind of gave me some pointers.
+- [00:06:40,440 - 00:06:43,260] I actually did a training, fitness training as
+- [00:06:43,260 - 00:06:46,080] an exchange instead of actually paying for the service.
+- [00:06:46,120 - 00:06:47,740] And then that's kind of how I got started.
+- [00:06:47,780 - 00:06:48,780] And then I met a lot
+- [00:06:48,780 - 00:06:49,780] of other people along the way.
+- [00:06:49,840 - 00:06:52,080] I got into another program with
+- [00:06:52,080 - 00:06:54,320] Sean, which is Airbnb Automated on YouTube.
+- [00:06:54,360 - 00:06:55,659] So I learned a lot from everybody.
+- [00:06:55,840 - 00:06:57,620] For you to go back to when you started
+- [00:06:57,620 - 00:07:00,820] getting into real estate and getting that initial knowledge,
+- [00:07:00,860 - 00:07:02,940] but you had zero property, zero rentals right now,
+- [00:07:02,980 - 00:07:04,360] what would be that first step you
+- [00:07:04,360 - 00:07:05,740] would take to acquire that first deal?
+- [00:07:05,780 - 00:07:07,220] Definitely research.
+- [00:07:07,380 - 00:07:08,860] I would research a whole lot.
+- [00:07:08,900 - 00:07:11,420] You know, go to certain websites, go to Airbnb itself.
+- [00:07:11,460 - 00:07:12,880] Look at the city that you're
+- [00:07:12,880 - 00:07:14,300] looking at and look at the area.
+- [00:07:14,340 - 00:07:16,100] Try to find something around that area,
+- [00:07:16,100 - 00:07:18,060] whether you're buying it or you're going to
+- [00:07:18,060 - 00:07:20,020] overcharge whatever it is and just dive into it.
+- [00:07:20,060 - 00:07:21,740] Then, I mean, I was fortunate to
+- [00:07:21,740 - 00:07:23,420] get to where I'm at with the properties,
+- [00:07:23,460 - 00:07:25,480] but I did do a little research, but I would have
+- [00:07:25,480 - 00:07:27,500] done more if I would have known what I know now.
+- [00:07:27,620 - 00:07:29,620] Someone's just looking to get into that first property.
+- [00:07:29,620 - 00:07:31,220] How much could they expect to try to be
+- [00:07:31,220 - 00:07:32,280] able to make them that in
+- [00:07:32,280 - 00:07:33,340] a year off of one property?
+- [00:07:33,380 - 00:07:33,940] Gross.
+- [00:07:33,980 - 00:07:35,900] I mean, it can be anywhere
+- [00:07:35,900 - 00:07:37,820] from 3000 to 5500 a month.
+- [00:07:37,860 - 00:07:39,760] I have houses that do 80,
+- [00:07:39,760 - 00:07:41,660] 85 a month, but those are houses.
+- [00:07:41,700 - 00:07:44,080] So it just depends on what you're offering, how
+- [00:07:44,080 - 00:07:46,460] big the house is, how small the unit is.
+- [00:07:46,500 - 00:07:47,500] We're here with the RA.
+- [00:07:47,540 - 00:07:49,700] You have an exotic car rental business.
+- [00:07:49,740 - 00:07:51,140] How did you get started in that?
+- [00:07:51,180 - 00:07:53,240] So I got started mainly with the properties and
+- [00:07:53,240 - 00:07:55,300] it's kind of like an enterprise in a way.
+- [00:07:55,340 - 00:07:57,140] They're booking a property as like a hotel.
+- [00:07:57,140 - 00:07:59,260] So then they need vehicles, they need transportation.
+- [00:07:59,300 - 00:08:01,300] So I offer regular vehicles and
+- [00:08:01,300 - 00:08:03,300] then I started getting exotic vehicles.
+- [00:08:03,340 - 00:08:05,380] So I just give the best experience possible.
+- [00:08:05,419 - 00:08:07,020] And that's where the cars come into play.
+- [00:08:07,020 - 00:08:08,119] So if someone wanted to rent
+- [00:08:08,119 - 00:08:09,219] from you, how does that process work?
+- [00:08:09,219 - 00:08:10,700] Like, do you drive the vehicle to them?
+- [00:08:10,740 - 00:08:11,659] Do they come pick it up?
+- [00:08:11,659 - 00:08:13,539] Most of them will come pick it up.
+- [00:08:13,580 - 00:08:14,780] But I mean, it's through Turo.
+- [00:08:14,820 - 00:08:16,820] So Turo is just like the Airbnb for cars.
+- [00:08:16,860 - 00:08:19,780] So once you have that, it's a very smooth process.
+- [00:08:19,820 - 00:08:20,940] What cars do you currently
+- [00:08:20,940 - 00:08:22,060] have in your fleet right now?
+- [00:08:22,099 - 00:08:24,459] Three series BMW have an i8
+- [00:08:24,459 - 00:08:26,820] on the supercar, not supercar side,
+- [00:08:26,820 - 00:08:26,940] but the i8 on the supercar side.
+- [00:08:26,940 - 00:08:26,980] So what cars do you currently
+- [00:08:26,980 - 00:08:27,020] have in your fleet right now?
+- [00:08:27,020 - 00:08:28,700] The exotic side, GT Mercedes,
+- [00:08:28,700 - 00:08:30,380] which is on the supercar exotic,
+- [00:08:30,419 - 00:08:32,419] the RA, which is on a supercar exotic.
+- [00:08:32,460 - 00:08:33,620] I have a few other
+- [00:08:33,620 - 00:08:34,780] like Toyotas and things like that.
+- [00:08:34,819 - 00:08:36,620] E400 as well, Mercedes.
+- [00:08:36,659 - 00:08:37,699] That's about it right now.
+- [00:08:37,740 - 00:08:39,100] About six cars in the fleet.
+- [00:08:39,140 - 00:08:41,219] So how much could you make off
+- [00:08:41,219 - 00:08:43,299] of, let's say, a rental for the RA?
+- [00:08:43,340 - 00:08:45,300] A month, you can make about eight to
+- [00:08:45,300 - 00:08:47,260] ten grand a month on some of the cars,
+- [00:08:47,300 - 00:08:48,020] if not more.
+- [00:08:48,060 - 00:08:50,860] RA typically goes for about six, seven hundred a day,
+- [00:08:50,900 - 00:08:53,420] depending on how long the person books it.
+- [00:08:53,460 - 00:08:55,260] But it's booked every weekend, just about.
+- [00:08:55,300 - 00:08:56,780] It's not booked right now because I need,
+- [00:08:56,780 - 00:08:57,780] I want to drive it.
+- [00:08:57,819 - 00:08:59,819] Yeah, I think that's the coolest
+- [00:08:59,819 - 00:09:01,819] thing about the exotic car business is
+- [00:09:01,860 - 00:09:02,779] you get to rent it
+- [00:09:02,779 - 00:09:03,699] out, make some profit on it,
+- [00:09:03,740 - 00:09:05,699] and you get the pleasure of driving it.
+- [00:09:05,740 - 00:09:07,520] So if someone wanted to get
+- [00:09:07,520 - 00:09:09,300] started in the exotic car rental business,
+- [00:09:09,339 - 00:09:11,140] how would you recommend them get started?
+- [00:09:11,180 - 00:09:13,240] Get your LLC going, learn how
+- [00:09:13,240 - 00:09:15,300] to get the vehicles in your LLC.
+- [00:09:15,339 - 00:09:16,980] You might have to build up some business credit,
+- [00:09:17,020 - 00:09:18,859] but some like Mercedes will allow you
+- [00:09:18,859 - 00:09:20,699] to get in without having the business credit.
+- [00:09:20,740 - 00:09:22,219] It's also going to be based on
+- [00:09:22,219 - 00:09:23,699] how much you kind of make, too.
+- [00:09:23,740 - 00:09:25,159] When it comes down to the
+- [00:09:25,159 - 00:09:26,579] down payment, you can grow really fast.
+- [00:09:26,580 - 00:09:28,640] Actually, in the exotic, if that's
+- [00:09:28,640 - 00:09:30,700] like your go to for me,
+- [00:09:30,740 - 00:09:32,520] it was just something to be another
+- [00:09:32,520 - 00:09:34,300] layer on top of something else already.
+- [00:09:34,340 - 00:09:35,620] Guys, that wraps up today's video.
+- [00:09:35,660 - 00:09:36,900] Thank you so much for tuning in.
+- [00:09:36,940 - 00:09:37,820] If you guys enjoyed, make
+- [00:09:37,820 - 00:09:38,700] sure that you leave a like
+- [00:09:38,740 - 00:09:40,900] and subscribe for tons of amazing content on the way.
+- [00:09:40,940 - 00:09:42,220] And if you guys want to see video
+- [00:09:42,220 - 00:09:43,500] of us going around to the wealthiest golf
+- [00:09:43,500 - 00:09:44,960] courses to ask millionaires how they got
+- [00:09:44,960 - 00:09:46,420] rich, click the link to watch the video
+- [00:09:46,460 - 00:09:46,860] right now.
