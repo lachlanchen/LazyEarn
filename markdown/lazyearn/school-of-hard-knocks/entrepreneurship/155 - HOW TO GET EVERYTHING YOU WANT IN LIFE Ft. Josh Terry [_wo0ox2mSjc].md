@@ -1,0 +1,288 @@
+# Transcript
+
+Source: lazyearn/school-of-hard-knocks/hard-knocks-interviews/122 - HOW TO GET EVERYTHING YOU WANT IN LIFE Ft. Josh Terry [_wo0ox2mSjc].mkv
+
+- [00:00:00,000 - 00:00:02,780] Today we're going to be talking about the three steps that you can take to
+- [00:00:02,780 - 00:00:05,560] get your life back on track and how to get everything you want out of life.
+- [00:00:05,800 - 00:00:08,029] We're here with Josh Terry today who's a coach
+- [00:00:08,029 - 00:00:10,260] for top entrepreneurs and content creators all around the country.
+- [00:00:13,360 - 00:00:17,170] So one of the most common things that people struggle with in their lives is
+- [00:00:17,170 - 00:00:20,980] really finding purpose and figuring out exactly what they want to do to make them happy.
+- [00:00:21,120 - 00:00:23,140] I want to ask you, maybe it's someone who's
+- [00:00:23,140 - 00:00:25,160] coming out of college or 20 years into their career.
+- [00:00:25,160 - 00:00:29,270] What is the first step that people need to take in order to really find something
+- [00:00:29,270 - 00:00:33,380] fulfilling, really get their life back on track and find what brings them that purpose in life?
+- [00:00:33,460 - 00:00:36,100] You have to figure out what you want. And I
+- [00:00:36,100 - 00:00:38,740] don't mean that in like a big life sort of way.
+- [00:00:38,880 - 00:00:41,190] I mean in the smallest possible thing. What do you want to
+- [00:00:41,190 - 00:00:43,500] do today? What do you want to do in the next hour?
+- [00:00:43,600 - 00:00:46,450] And then from there you can start to come up with a
+- [00:00:46,450 - 00:00:49,300] set of things that you're willing to do based on that desire.
+- [00:00:49,440 - 00:00:51,800] And then you can take action. And if you do it
+- [00:00:51,800 - 00:00:54,160] in a small enough process, then you can start getting results.
+- [00:00:54,160 - 00:00:57,059] What does that process look like for you?
+- [00:00:57,220 - 00:00:59,479] It's three steps. You have to figure out what you want. You have
+- [00:00:59,479 - 00:01:01,739] to figure out what you will do or give up to get it.
+- [00:01:01,839 - 00:01:04,469] And then you have to come up with the smallest
+- [00:01:04,469 - 00:01:07,100] reasonable next step that you can do in a cocky manner.
+- [00:01:07,380 - 00:01:09,740] That is a process that can work in
+- [00:01:09,740 - 00:01:12,100] 10 minutes or it can work in a lifetime.
+- [00:01:12,400 - 00:01:16,590] Oftentimes a lot of people struggle with falling into temptations, giving into those vices
+- [00:01:16,590 - 00:01:20,780] that ultimately leads to maybe a depressive state and falling into a rut in life.
+- [00:01:20,780 - 00:01:22,460] What do you emphasize with a lot of
+- [00:01:22,460 - 00:01:24,140] your clients and the people that you work with?
+- [00:01:24,259 - 00:01:26,259] To try and avoid giving into those vices
+- [00:01:26,259 - 00:01:28,259] and kind of falling back into that rut.
+- [00:01:28,259 - 00:01:29,860] There's a lot of people that want to be better.
+- [00:01:29,860 - 00:01:32,169] And kind of the first step for a lot
+- [00:01:32,169 - 00:01:34,479] of people in doing that is stopping doing bad things.
+- [00:01:34,479 - 00:01:36,579] But people get stuck there where they think, oh, I
+- [00:01:36,579 - 00:01:38,679] need to not do anything that I want to do.
+- [00:01:38,679 - 00:01:41,109] I need to discipline myself. I need to behave.
+- [00:01:41,109 - 00:01:43,539] I need to, you know, not do any bad stuff.
+- [00:01:43,539 - 00:01:47,139] But if you live that way where you're trying to
+- [00:01:47,139 - 00:01:50,740] never do anything that you find yourself like excited to do,
+- [00:01:50,740 - 00:01:52,240] not doing anything that you find yourself
+- [00:01:52,240 - 00:01:53,740] wanting to do, you start to lose enthusiasm.
+- [00:01:54,160 - 00:01:57,040] For life, you start to shrink. You start to
+- [00:01:57,040 - 00:01:59,920] lose sort of like a zest for life, a power.
+- [00:01:59,920 - 00:02:02,420] But if you go after something that you're really
+- [00:02:02,420 - 00:02:04,920] excited about, you get powerful, you turn into an animal.
+- [00:02:04,920 - 00:02:07,190] So the way to hack that is learn
+- [00:02:07,190 - 00:02:09,460] the difference between a desire and a craving,
+- [00:02:09,460 - 00:02:10,690] because now you can actually
+- [00:02:10,690 - 00:02:11,920] chase after stuff that you want.
+- [00:02:11,920 - 00:02:14,040] Just chase after the things that make you better.
+- [00:02:14,040 - 00:02:15,510] You are a coach
+- [00:02:15,510 - 00:02:16,980] for entrepreneurs, professionals, content creators.
+- [00:02:16,980 - 00:02:18,190] You're a content creator yourself.
+- [00:02:18,190 - 00:02:19,400] You've built a massive following.
+- [00:02:19,400 - 00:02:21,519] Joe Rogan actually follows you, which is pretty awesome.
+- [00:02:21,519 - 00:02:23,740] And so what's kind of your process for idea generation,
+- [00:02:23,740 - 00:02:24,120] whether it's for your business or for your career?
+- [00:02:24,120 - 00:02:24,130] I think it's really important to
+- [00:02:24,130 - 00:02:24,140] have a strong foundation for your business.
+- [00:02:24,140 - 00:02:25,390] For content creators or anything that
+- [00:02:25,390 - 00:02:26,640] people are wanting to do in life.
+- [00:02:26,640 - 00:02:28,200] Take a walk. And what I mean
+- [00:02:28,200 - 00:02:29,760] by that is create space for ideas.
+- [00:02:29,760 - 00:02:31,529] A lot of us are
+- [00:02:31,529 - 00:02:33,299] moving from one activity to another.
+- [00:02:33,299 - 00:02:34,760] We actually can't sit in silence.
+- [00:02:34,760 - 00:02:36,260] So it's like I'm working on
+- [00:02:36,260 - 00:02:37,760] my job, I'm working on my project,
+- [00:02:37,760 - 00:02:40,560] and now I'm taking a break from those things.
+- [00:02:40,560 - 00:02:41,750] But, you know, I don't know what
+- [00:02:41,750 - 00:02:42,940] activity I want to go to next.
+- [00:02:42,940 - 00:02:44,270] So I'm going to scroll on my
+- [00:02:44,270 - 00:02:45,600] phone until I get to that activity.
+- [00:02:45,600 - 00:02:46,949] Oh, now I know what activity I'm going
+- [00:02:46,949 - 00:02:48,299] to do. So now I'm going to do that.
+- [00:02:48,299 - 00:02:49,679] There's actually no real silence
+- [00:02:49,679 - 00:02:51,060] in there. There's no real break.
+- [00:02:51,060 - 00:02:54,100] So you have to sit in silence.
+- [00:02:54,100 - 00:02:55,100] You have to sit in silence for
+- [00:02:55,100 - 00:02:56,100] a long enough for something to come up,
+- [00:02:56,100 - 00:02:58,100] which is scary because that's where the demons are.
+- [00:02:58,100 - 00:02:59,600] You're going to think things, right? You
+- [00:02:59,600 - 00:03:01,100] got to hear what's in your own mind.
+- [00:03:01,100 - 00:03:03,600] So the number one rule for ideas
+- [00:03:03,600 - 00:03:06,100] is give yourself enough space for them.
+- [00:03:09,100 - 00:03:11,100] So someone has that idea.
+- [00:03:11,100 - 00:03:12,100] They found that theme that,
+- [00:03:12,100 - 00:03:13,100] you know, brings in that excitement,
+- [00:03:13,100 - 00:03:15,100] that gives them that burning desire and passion.
+- [00:03:15,100 - 00:03:17,100] But what is the first step that someone should
+- [00:03:17,100 - 00:03:19,100] really take to go all in with that theme?
+- [00:03:19,100 - 00:03:20,600] Don't go all in. Learn how
+- [00:03:20,600 - 00:03:22,100] to pull back a little bit.
+- [00:03:22,100 - 00:03:24,060] Look at your life. Maintain it.
+- [00:03:24,060 - 00:03:25,560] Live a good life and then take
+- [00:03:25,560 - 00:03:27,060] 10 minutes to commit fully to something.
+- [00:03:27,060 - 00:03:28,060] Most of us want to go
+- [00:03:28,060 - 00:03:29,060] all in as a way of escaping.
+- [00:03:29,060 - 00:03:31,560] Most of us want to go all in as a
+- [00:03:31,560 - 00:03:34,060] way of letting go of the real struggle of life.
+- [00:03:34,060 - 00:03:37,060] That is, you have to maintain a lot of things.
+- [00:03:37,060 - 00:03:38,560] The way to learn the skill of
+- [00:03:38,560 - 00:03:40,060] all in is to do it in segments.
+- [00:03:40,060 - 00:03:41,560] Is there a project that you
+- [00:03:41,560 - 00:03:43,060] can commit to for a week?
+- [00:03:43,060 - 00:03:45,060] And then can you do it again next week?
+- [00:03:45,060 - 00:03:46,060] Where it's like, yes, this is
+- [00:03:46,060 - 00:03:47,060] the thing that I care about.
+- [00:03:47,060 - 00:03:49,060] This is the thing I'm going to win at.
+- [00:03:49,060 - 00:03:50,560] But it's not going to take over
+- [00:03:50,560 - 00:03:52,060] my entire identity or my entire life.
+- [00:03:52,060 - 00:03:52,560] It's just, I'm going to learn how
+- [00:03:52,560 - 00:03:53,060] to put all of my life into it.
+- [00:03:54,060 - 00:03:55,060] And I'm going to put
+- [00:03:55,060 - 00:03:56,060] my energy into it and win.
+- [00:03:56,060 - 00:03:59,060] And from there, you develop the skill of all in.
+- [00:03:59,060 - 00:04:01,560] And this is how you can become a stable
+- [00:04:01,560 - 00:04:04,060] person who has the pillars of his life maintained.
+- [00:04:04,060 - 00:04:06,060] But at the same time is
+- [00:04:06,060 - 00:04:08,060] acting really powerfully in his passion.
+- [00:04:08,060 - 00:04:10,060] So if I'm somebody that I know what
+- [00:04:10,060 - 00:04:12,060] I want to do and I start executing,
+- [00:04:12,060 - 00:04:14,560] but I get to a certain point where
+- [00:04:14,560 - 00:04:17,060] things just aren't working, obstacles are coming up.
+- [00:04:17,060 - 00:04:19,060] It's becoming really challenging.
+- [00:04:19,060 - 00:04:20,560] Maybe I don't love the thing that I
+- [00:04:20,560 - 00:04:22,060] thought I wanted as much as I do.
+- [00:04:22,060 - 00:04:24,060] How do you kind of get there?
+- [00:04:24,060 - 00:04:27,060] How do you get through that maybe reflection period or that
+- [00:04:27,060 - 00:04:30,060] obstacle period of when you're actually trying to execute on something?
+- [00:04:30,060 - 00:04:32,060] The number one thing that I do is I ignore the
+- [00:04:32,060 - 00:04:34,060] problem completely with a lot of the people that I work with.
+- [00:04:34,060 - 00:04:36,060] Because right now, one of
+- [00:04:36,060 - 00:04:38,060] the biggest issues is overstimulation.
+- [00:04:38,060 - 00:04:40,060] And it's not actually that somebody doesn't like the thing.
+- [00:04:40,060 - 00:04:42,060] It's not actually that somebody's lost
+- [00:04:42,060 - 00:04:44,060] their passion and is not getting results.
+- [00:04:44,060 - 00:04:46,060] It's that they're staring at the phone for 16 hours.
+- [00:04:46,060 - 00:04:48,060] It's that they're addicted to Netflix.
+- [00:04:48,060 - 00:04:49,060] They're drinking too much.
+- [00:04:49,060 - 00:04:51,060] They're enjoying the fruits of their labor in
+- [00:04:51,060 - 00:04:53,060] some way that is making it impossible to labor.
+- [00:04:53,060 - 00:04:55,060] It's almost like they're coming up with an
+- [00:04:55,060 - 00:04:57,060] excuse and making a bigger problem out of like,
+- [00:04:57,060 - 00:04:58,060] oh, I don't really love
+- [00:04:58,060 - 00:04:59,060] the thing that I'm working on.
+- [00:04:59,060 - 00:05:00,560] Like I have all these issues and
+- [00:05:00,560 - 00:05:02,060] not really taking steps to overcome them,
+- [00:05:02,060 - 00:05:04,060] even though I'm trying to execute on what I want.
+- [00:05:04,060 - 00:05:06,060] And it's really it's just that they're
+- [00:05:06,060 - 00:05:08,060] doing other things to fill that void.
+- [00:05:08,060 - 00:05:10,060] Oftentimes, the fundamental part of people's success
+- [00:05:10,060 - 00:05:12,060] is having a really good support system
+- [00:05:12,060 - 00:05:14,560] and finding those people around them that are able to
+- [00:05:14,560 - 00:05:17,060] support their desires and the things that they're trying to achieve.
+- [00:05:17,060 - 00:05:19,060] What do you recommend to people to try and
+- [00:05:19,060 - 00:05:21,060] find that outlet of people in that strong support system?
+- [00:05:21,060 - 00:05:22,060] Start by believing that it's there.
+- [00:05:22,060 - 00:05:24,560] Because a lot of people don't even think that it's
+- [00:05:24,560 - 00:05:27,060] possible to have people around them that would support them
+- [00:05:27,060 - 00:05:30,060] because they're surrounded by people that tear them down.
+- [00:05:30,060 - 00:05:32,060] That's really common, sadly.
+- [00:05:32,060 - 00:05:34,560] So first, believe that it's possible and then try to
+- [00:05:34,560 - 00:05:37,060] get any exposure to the good stuff that you can,
+- [00:05:37,060 - 00:05:40,060] you know, whether that's books, podcasts, content, whatever.
+- [00:05:40,060 - 00:05:42,560] But then don't get addicted to that and then
+- [00:05:42,560 - 00:05:45,060] start finding communities where people are doing good stuff.
+- [00:05:45,060 - 00:05:47,060] If you guys are enjoying this video, make sure that you
+- [00:05:47,060 - 00:05:49,060] leave a like and subscribe for tons of great content coming
+- [00:05:49,060 - 00:05:50,060] and stay tuned because we're going
+- [00:05:50,060 - 00:05:51,060] to get into it with Josh.
+- [00:05:51,060 - 00:05:54,060] How once you find success, you can maintain it.
+- [00:05:57,060 - 00:05:59,060] We talked about how to find what
+- [00:05:59,060 - 00:06:01,060] you want and how to execute on that.
+- [00:06:01,060 - 00:06:04,060] But I want to ask you, once you find that success, what
+- [00:06:04,060 - 00:06:07,060] is the best thing that you can do in order to maintain that
+- [00:06:07,060 - 00:06:08,060] and not get complacent in your life?
+- [00:06:08,060 - 00:06:11,060] You have to figure out what makes you complacent.
+- [00:06:11,060 - 00:06:12,060] For some people, that's being bored.
+- [00:06:12,060 - 00:06:14,060] For some people, it's that they
+- [00:06:14,060 - 00:06:16,060] were only working because they were panicking
+- [00:06:16,060 - 00:06:18,060] and now they're working on something that they don't
+- [00:06:18,060 - 00:06:20,060] really care about, but their life is taken care of.
+- [00:06:20,060 - 00:06:21,060] So they don't need to panic anymore.
+- [00:06:21,060 - 00:06:22,060] You know, it's things like that.
+- [00:06:22,060 - 00:06:25,060] But the way you move out of complacency when you have success
+- [00:06:25,060 - 00:06:28,060] is to move towards desire as opposed to run away from pain.
+- [00:06:28,060 - 00:06:31,060] And so once you get success, you have to start asking
+- [00:06:31,060 - 00:06:34,060] yourself, actually, what would be nice to have in the world?
+- [00:06:34,060 - 00:06:35,060] What would be good?
+- [00:06:35,060 - 00:06:37,060] And then let's move towards it.
+- [00:06:37,060 - 00:06:39,060] And then let's chase after it.
+- [00:06:39,060 - 00:06:42,560] Not in this like hedonistic, I'm hollowly chasing
+- [00:06:42,560 - 00:06:46,060] after shallow things that don't get me satisfaction.
+- [00:06:46,060 - 00:06:47,060] It's not that.
+- [00:06:47,060 - 00:06:48,560] But it's where you're actually driving
+- [00:06:48,560 - 00:06:50,060] towards the thing that you really like.
+- [00:06:50,060 - 00:06:54,060] And when you do that, you develop a different type of motivation
+- [00:06:54,060 - 00:06:58,060] that works even when you're in the comfort of your 75 bedroom mansion.
+- [00:06:58,060 - 00:07:00,060] How can someone get over imposter syndrome?
+- [00:07:00,060 - 00:07:03,060] And what is imposter syndrome for anybody that doesn't know?
+- [00:07:03,060 - 00:07:07,560] So imposter syndrome is believing that you aren't the person that you think you should
+- [00:07:07,560 - 00:07:12,060] be or that other people believe you are or that maybe you don't deserve to be.
+- [00:07:12,060 - 00:07:15,560] If you are suddenly, you know, thrown into the forefront of public attention and
+- [00:07:15,560 - 00:07:19,060] from some song that you wrote, you know, everybody says you're this amazing musician.
+- [00:07:19,060 - 00:07:20,060] And you think, well, you
+- [00:07:20,060 - 00:07:21,060] know, like I didn't produce it.
+- [00:07:21,060 - 00:07:22,060] I just wrote this song.
+- [00:07:22,060 - 00:07:23,060] Or you think, you know, like
+- [00:07:23,060 - 00:07:24,060] I'm not that good of a musician.
+- [00:07:24,060 - 00:07:26,060] There's many other musicians that are better than me.
+- [00:07:26,060 - 00:07:27,060] It doesn't matter.
+- [00:07:27,060 - 00:07:28,060] Your song was a hit song.
+- [00:07:28,060 - 00:07:29,060] People were into it.
+- [00:07:29,060 - 00:07:30,060] People liked you.
+- [00:07:30,060 - 00:07:31,060] Now they like you.
+- [00:07:31,060 - 00:07:32,060] That's the way it is.
+- [00:07:32,060 - 00:07:34,060] And so you have to one, look at it from an evidence
+- [00:07:34,060 - 00:07:36,060] based framework where you go, okay, I have this level of attention.
+- [00:07:36,060 - 00:07:37,060] This is what's happening to me.
+- [00:07:37,060 - 00:07:38,060] And that's the way it is.
+- [00:07:38,060 - 00:07:40,560] And then two, you have to stop questioning about
+- [00:07:40,560 - 00:07:43,060] whether or not you deserve it and start questioning it.
+- [00:07:43,060 - 00:07:44,060] And that's the way it is.
+- [00:07:44,060 - 00:07:45,560] And then you have to stop questioning
+- [00:07:45,560 - 00:07:47,060] about whether or not you deserve it.
+- [00:07:47,060 - 00:07:48,060] And start questioning it.
+- [00:07:48,060 - 00:07:49,560] And start questioning what you're
+- [00:07:49,560 - 00:07:51,060] going to do moving forward.
+- [00:07:51,060 - 00:07:54,060] What are two to three self-improvement tips that you think everybody
+- [00:07:54,060 - 00:07:57,060] should implement throughout their lives to set themselves up for success?
+- [00:07:57,060 - 00:07:59,060] Learn breathwork, period.
+- [00:07:59,060 - 00:08:01,060] Find the right diet that works for you.
+- [00:08:01,060 - 00:08:03,060] For me, I started carnivore.
+- [00:08:03,060 - 00:08:05,060] And then take the pathetic next best step.
+- [00:08:05,060 - 00:08:06,060] Those are the three.
+- [00:08:06,060 - 00:08:08,060] Breathwork has had an insane effect on my life.
+- [00:08:08,060 - 00:08:11,060] You can learn to put yourself in ridiculous states.
+- [00:08:11,060 - 00:08:13,560] You can learn to relax yourself, heal
+- [00:08:13,560 - 00:08:16,060] yourself, sleep better, get smarter, have better ideas.
+- [00:08:16,060 - 00:08:17,060] All of that stuff is possible.
+- [00:08:17,060 - 00:08:18,060] Just keep going.
+- [00:08:18,060 - 00:08:19,060] Just do breathwork.
+- [00:08:19,060 - 00:08:20,060] And then diet.
+- [00:08:20,060 - 00:08:21,560] My life never took off
+- [00:08:21,560 - 00:08:23,060] until I got diet under control.
+- [00:08:23,060 - 00:08:25,060] There was a time when I was a sugar
+- [00:08:25,060 - 00:08:27,060] addict and I was very close to diabetes, I think.
+- [00:08:27,060 - 00:08:29,060] Extremely sick.
+- [00:08:29,060 - 00:08:30,060] Terrible situation.
+- [00:08:30,060 - 00:08:33,059] And now I'm extremely healthy.
+- [00:08:33,059 - 00:08:35,059] Like, you know, I can kick my 20-year-old self around.
+- [00:08:35,059 - 00:08:37,059] I do a pretty good job with it.
+- [00:08:37,059 - 00:08:38,059] For me, that was finding the carnivore diet.
+- [00:08:38,059 - 00:08:39,059] I lived off of beef,
+- [00:08:39,059 - 00:08:40,059] salt, and water for 14 months.
+- [00:08:40,059 - 00:08:41,559] Now I eat meat and a
+- [00:08:41,559 - 00:08:43,059] little bit of fruit here and there.
+- [00:08:43,059 - 00:08:44,059] And it saved my life.
+- [00:08:44,059 - 00:08:46,060] And for some people, that's probably terrible.
+- [00:08:46,060 - 00:08:47,060] You've got to find the thing that works for you.
+- [00:08:47,060 - 00:08:49,060] And then the last thing,
+- [00:08:49,060 - 00:08:51,060] take the pathetic next best step.
+- [00:08:51,060 - 00:08:53,060] Like, that's my favorite little saying
+- [00:08:53,060 - 00:08:55,060] for how to make progress, right?
+- [00:08:55,060 - 00:08:59,060] Is like, stop thinking about all the big things and can you take this tiny little
+- [00:08:59,060 - 00:09:03,060] thing that you know you need to do and then do it with your chest out?
+- [00:09:03,060 - 00:09:04,060] Like, do it cocky.
+- [00:09:04,060 - 00:09:05,560] And be like, yeah, that thing that
+- [00:09:05,560 - 00:09:07,060] I needed to do, I did it.
+- [00:09:07,060 - 00:09:08,060] It's done and I'm proud.
+- [00:09:08,060 - 00:09:10,060] Guys, that wraps up today's video.
+- [00:09:10,060 - 00:09:11,060] Thank you so much for tuning in.
+- [00:09:11,060 - 00:09:12,060] We're super pumped to be
+- [00:09:12,060 - 00:09:13,060] able to film with Josh today.
+- [00:09:13,060 - 00:09:15,060] Josh, where can everybody find you?
+- [00:09:15,060 - 00:09:16,060] Across all social media at Josh Terry Plays.
+- [00:09:16,060 - 00:09:17,560] And then if you're interested in working
+- [00:09:17,560 - 00:09:19,060] with me, just shoot me a DM.
+- [00:09:19,060 - 00:09:22,060] For more videos like these, click right here to go over the five
+- [00:09:22,060 - 00:09:25,060] skill sets that everyone needs to become a better man in today's world.
+- [00:09:25,060 - 00:09:27,060] If you enjoyed today's video, be sure to leave a
+- [00:09:27,060 - 00:09:29,060] like and subscribe for tons of amazing content coming soon.
