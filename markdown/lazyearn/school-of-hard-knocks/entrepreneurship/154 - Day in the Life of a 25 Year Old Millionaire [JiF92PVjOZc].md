@@ -1,0 +1,342 @@
+# Transcript
+
+Source: lazyearn/school-of-hard-knocks/entrepreneurship/154 - Day in the Life of a 25 Year Old Millionaire [JiF92PVjOZc].mkv
+
+- [00:00:00,000 - 00:00:02,080] what's going on guys welcome back to another day
+- [00:00:02,080 - 00:00:04,160] in the life video i'm here with robert miller he's
+- [00:00:04,160 - 00:00:06,280] a serial entrepreneur owns an eight-figure
+- [00:00:06,280 - 00:00:08,400] e-commerce agency he's also an investor rob
+- [00:00:08,400 - 00:00:10,120] thanks for having us yeah for sure man thanks
+- [00:00:10,120 - 00:00:11,840] for coming around could you give us a little quick
+- [00:00:11,840 - 00:00:13,520] intro about like what you're doing and everything you
+- [00:00:13,520 - 00:00:15,200] got going on yeah sure thing so i have a
+- [00:00:15,200 - 00:00:17,080] couple different businesses a lot in the digital
+- [00:00:17,080 - 00:00:18,960] marketing space first one has actually just been
+- [00:00:18,960 - 00:00:20,440] an agency we actually work with a lot
+- [00:00:20,440 - 00:00:21,920] of entrepreneurs work with a lot of businesses
+- [00:00:21,920 - 00:00:23,680] help them scale up but the other one that i've
+- [00:00:23,680 - 00:00:25,440] kind of been really known for has been our e-commerce
+- [00:00:25,440 - 00:00:27,320] investment company essentially where we've built brands
+- [00:00:27,320 - 00:00:29,200] we've sold brands and essentially we help
+- [00:00:29,200 - 00:00:31,080] people create their own stores and have exposure to ecom
+- [00:00:31,080 - 00:00:32,960] let's get to it just walk in i just have
+- [00:00:32,960 - 00:00:34,880] to ask i mean the library looks incredible could you
+- [00:00:34,880 - 00:00:36,800] just give me a rundown of some of your favorite
+- [00:00:36,800 - 00:00:38,760] books something you recommend and what are some
+- [00:00:38,760 - 00:00:40,720] must reads for people out there i've been
+- [00:00:40,720 - 00:00:42,640] in the books ever since i was like 17
+- [00:00:42,640 - 00:00:44,560] 18 years old really got into entrepreneurship because of
+- [00:00:44,560 - 00:00:46,520] books so i'm like super into them the first one
+- [00:00:46,520 - 00:00:48,480] i actually ever read was the 10x rule by grant
+- [00:00:48,480 - 00:00:50,320] cardone i actually ended up working with him
+- [00:00:50,320 - 00:00:52,160] for about seven to eight months in digital marketing
+- [00:00:52,160 - 00:00:53,920] space so i always recommend you know if people
+- [00:00:53,920 - 00:00:55,680] are just starting out have the right mindset so
+- [00:00:55,680 - 00:00:57,360] 10x rule is always you know a staple i
+- [00:00:57,360 - 00:00:59,040] think that's a really foundational book and then if
+- [00:00:59,040 - 00:00:59,080] you're looking for a book that's really good to read
+- [00:00:59,080 - 00:00:59,120] you can go to the 10x rule website and you can
+- [00:00:59,120 - 00:01:00,960] really just in entrepreneurship and wanting to get
+- [00:01:00,960 - 00:01:02,800] into marketing i think the whole dot com series
+- [00:01:02,800 - 00:01:05,000] by russell brunson is good as well as you
+- [00:01:05,000 - 00:01:07,200] can grow rich everyone talks about you know napoleon hill
+- [00:01:07,200 - 00:01:08,720] and the books that he's had yeah
+- [00:01:08,720 - 00:01:10,240] they're absolutely classic that's one of my favorite
+- [00:01:10,240 - 00:01:12,240] ones and something i actually revisit on an annual basis
+- [00:01:12,240 - 00:01:14,240] but other than that man i mean there's a lot
+- [00:01:14,240 - 00:01:16,440] of other businesses i'm really big into finance
+- [00:01:16,440 - 00:01:18,640] and so the biggest ones that actually started to
+- [00:01:18,640 - 00:01:20,480] shape the way that i thought about money
+- [00:01:20,480 - 00:01:22,320] was first unshakable by tony robbins kind of goes
+- [00:01:22,320 - 00:01:24,360] over the financial markets how they work and what
+- [00:01:24,360 - 00:01:26,400] fees you want to avoid and things like that and
+- [00:01:26,400 - 00:01:27,680] then i got into another
+- [00:01:27,680 - 00:01:28,960] book the history of central banking
+- [00:01:28,960 - 00:01:30,960] and the enslavement of mankind that one
+- [00:01:30,960 - 00:01:32,960] goes over the debasing of currencies and ultimately
+- [00:01:32,960 - 00:01:35,240] how we've gotten inflation and how we've actually
+- [00:01:35,240 - 00:01:37,520] seen nations rise and fall and then that staples
+- [00:01:37,520 - 00:01:39,560] into this one here called the fiat standard
+- [00:01:39,560 - 00:01:41,600] by safedina moose who's an economic theme when it
+- [00:01:41,600 - 00:01:43,520] comes to bitcoin and all that kind of stuff so i
+- [00:01:43,520 - 00:01:45,440] love all this stuff too i have to ask i saw this
+- [00:01:45,440 - 00:01:49,160] uh this award here you got a little two comic
+- [00:01:49,160 - 00:01:52,880] club award before winning this one i had won it six
+- [00:01:52,880 - 00:01:55,279] times for other people so when i was an advertising
+- [00:01:55,279 - 00:01:57,679] agency and the thing with the agency space is like
+- [00:01:57,679 - 00:01:58,800] you will have a client churn
+- [00:01:58,800 - 00:02:00,720] at some point depending if it's priced depending
+- [00:02:00,720 - 00:02:02,640] if this was what they're going through if they
+- [00:02:02,640 - 00:02:04,320] didn't budget things properly that's just part of the game
+- [00:02:04,320 - 00:02:06,000] so i was like you know what screw it i'm
+- [00:02:06,000 - 00:02:07,800] gonna go do it and get the award for myself
+- [00:02:07,800 - 00:02:09,600] and that's end of what happened we did it in about
+- [00:02:10,240 - 00:02:12,760] six months we got the award and we technically got two
+- [00:02:12,760 - 00:02:15,280] but we only got one on the uh i only paid for
+- [00:02:15,280 - 00:02:17,520] one just to reiterate what what exactly was the
+- [00:02:17,520 - 00:02:19,760] award just for people out there that don't don't
+- [00:02:19,760 - 00:02:22,000] really understand what that is so click funnels is
+- [00:02:22,000 - 00:02:24,240] a software essentially you know the books i was
+- [00:02:24,240 - 00:02:25,960] talking about the dot com series books and
+- [00:02:25,960 - 00:02:27,680] everything by russell brunson he has a software
+- [00:02:27,680 - 00:02:28,200] essentially it's called click funnels and it's
+- [00:02:28,200 - 00:02:28,720] a software that's basically a software that's
+- [00:02:28,720 - 00:02:28,960] basically a software that's designed to help people get a
+- [00:02:28,960 - 00:02:29,200] lot of money out of funnels if you do a
+- [00:02:29,200 - 00:02:31,560] million dollars through just one of their funnels uh
+- [00:02:31,560 - 00:02:33,920] then you actually can get an award so one
+- [00:02:33,920 - 00:02:36,120] website or one landing page for us did a
+- [00:02:36,120 - 00:02:38,320] million dollars you know you're working so hard throughout
+- [00:02:38,320 - 00:02:40,040] the day how do you kind of like let off steam like
+- [00:02:40,040 - 00:02:41,760] what do you what do you kind of do to relax and is
+- [00:02:41,760 - 00:02:43,520] there anything like from a meditation standpoint that
+- [00:02:43,520 - 00:02:45,280] you do to kind of clear your head first
+- [00:02:45,280 - 00:02:47,280] thing i wake up anywhere between five to
+- [00:02:47,280 - 00:02:49,280] six in the morning typically every morning i've been
+- [00:02:49,280 - 00:02:50,880] getting into like jiu jitsu and a couple
+- [00:02:50,880 - 00:02:52,480] other things recently so sometimes my body needs a
+- [00:02:52,480 - 00:02:54,279] little bit more rest but uh typically it's five to
+- [00:02:54,279 - 00:02:56,079] six in the morning and then i'll come out and
+- [00:02:56,079 - 00:02:56,799] i'll typically just grab water you know do the
+- [00:02:56,799 - 00:02:57,520] whole morning routine and then just get up and go
+- [00:02:57,520 - 00:02:59,460] you know do the whole morning routine of
+- [00:02:59,460 - 00:03:01,400] like protein shakes you know supplements all that
+- [00:03:01,400 - 00:03:03,450] once i'm done i'll come out here i'll read i'll
+- [00:03:03,450 - 00:03:05,500] meditate i even have a yoga mat sometimes if i
+- [00:03:05,500 - 00:03:07,380] need to stretch out roll out and really that's it then
+- [00:03:07,380 - 00:03:09,260] i'll go down we'll go on a walk just kind of
+- [00:03:09,260 - 00:03:11,130] get the body moving and then during that time
+- [00:03:11,130 - 00:03:13,000] usually i'm just either alone in my own thoughts
+- [00:03:13,000 - 00:03:14,670] and i'm just thinking through different exercises and
+- [00:03:14,670 - 00:03:16,340] stuff like that or i'll actually put on like
+- [00:03:16,340 - 00:03:18,380] a podcast and i'll listen to different news
+- [00:03:18,380 - 00:03:20,420] about finance or different news about marketing anything
+- [00:03:20,420 - 00:03:22,530] that i want to do but the view man it
+- [00:03:22,530 - 00:03:24,640] helps me to come out here decompress especially in between
+- [00:03:24,640 - 00:03:26,570] meetings if i need four to five minutes just to
+- [00:03:26,570 - 00:03:28,500] kind of you know let a meeting sit do a little
+- [00:03:28,500 - 00:03:30,300] bit of breath work and then come outside look at the
+- [00:03:30,300 - 00:03:32,100] view and then i'll go back at it if you could
+- [00:03:32,100 - 00:03:34,320] spend the day with one influential figure who would
+- [00:03:34,320 - 00:03:36,540] it be and why live i'd say grant cardone
+- [00:03:36,540 - 00:03:38,740] he's been a pretty influential person in my
+- [00:03:38,740 - 00:03:40,940] life just throughout all the different books and being
+- [00:03:40,940 - 00:03:42,540] able to work for him and all that kind of stuff
+- [00:03:42,540 - 00:03:44,140] it would kind of fulfill a whole prophecy if you will
+- [00:03:44,140 - 00:03:45,890] in my in my book being able to work alongside
+- [00:03:45,890 - 00:03:47,640] and collaborate with him that's a really big one that
+- [00:03:47,640 - 00:03:49,689] i would enjoy him and ray dahlia actually ray
+- [00:03:49,689 - 00:03:51,739] dahlia is you know a billionaire hedge fund guy
+- [00:03:51,739 - 00:03:53,059] and i read all of his books too so
+- [00:03:53,059 - 00:03:54,380] those two those would be really cool to meet
+- [00:03:54,380 - 00:03:57,460] dead i'd probably go back to uh earl schoaf
+- [00:03:57,460 - 00:04:00,540] jim rohn's original mentor jim rohn is known as kind
+- [00:04:00,540 - 00:04:02,000] of like the father of personal development
+- [00:04:02,000 - 00:04:03,460] he really made it mainstream right everyone loves
+- [00:04:03,460 - 00:04:05,670] jim rohn and stuff but earl schoaf was actually
+- [00:04:05,670 - 00:04:07,880] his original mentor and so if you go back and
+- [00:04:07,880 - 00:04:09,750] you listen to some of his tapes obviously you
+- [00:04:09,750 - 00:04:11,620] see what jim rohn has done and then what tony
+- [00:04:11,620 - 00:04:13,840] robbins has done and stuff to go back to
+- [00:04:13,840 - 00:04:16,060] the origin source that was really close to you know
+- [00:04:16,060 - 00:04:18,180] before all the media came out and everyone
+- [00:04:18,180 - 00:04:20,300] started repeating some of those you know core philosophies
+- [00:04:20,300 - 00:04:22,330] but like someone that actually embodied it way
+- [00:04:22,330 - 00:04:24,360] back in the day especially seeing how the dynamic
+- [00:04:24,360 - 00:04:26,080] so i would love to just chat with him to see
+- [00:04:26,080 - 00:04:27,800] what you know life was like back then and how those
+- [00:04:27,800 - 00:04:29,470] principles were different for the sector in the end of
+- [00:04:29,470 - 00:04:31,140] the era that he was in what are we doing
+- [00:04:31,140 - 00:04:33,050] now like you kind of basically you just either
+- [00:04:33,050 - 00:04:34,960] start your day or just sometime in the morning
+- [00:04:34,960 - 00:04:37,100] kind of go out on this trail yeah in the morning
+- [00:04:37,100 - 00:04:39,240] to be around like again like 6 a.m once i'm done
+- [00:04:39,240 - 00:04:41,010] with kind of the stuff in the morning up the unit
+- [00:04:41,010 - 00:04:42,780] i'll just come down on the trail you know i'm out
+- [00:04:42,780 - 00:04:44,770] here either for personal preferences of just not
+- [00:04:44,770 - 00:04:46,760] listening to anything and just kind of being in
+- [00:04:46,760 - 00:04:48,760] my own headspace really thinking through ideas of where
+- [00:04:48,760 - 00:04:50,760] i want to go in life or you know other
+- [00:04:50,760 - 00:04:52,550] things with the business going on different issues
+- [00:04:52,550 - 00:04:54,340] i try and step out to then come back
+- [00:04:54,360 - 00:04:55,960] and be able to tackle it gives you a
+- [00:04:55,960 - 00:04:57,560] different perspective a lot of the times when you're not
+- [00:04:57,560 - 00:05:00,120] in the weeds and it's also like that time for
+- [00:05:00,120 - 00:05:02,680] yourself too like i am super strict now with my
+- [00:05:02,680 - 00:05:04,480] time i used to always give time to people give
+- [00:05:04,480 - 00:05:06,280] time to people give time to people and at some
+- [00:05:06,280 - 00:05:08,000] point there's like the diminishing returns where your
+- [00:05:08,000 - 00:05:09,720] cup's not being filled and you're not even
+- [00:05:09,720 - 00:05:11,480] doing the bare minimum for yourself you know with mentors
+- [00:05:11,480 - 00:05:13,240] for me i was always like hey if you need
+- [00:05:13,240 - 00:05:14,560] anything let me know if you need anything let me
+- [00:05:14,560 - 00:05:15,880] know and i just you know provide a lot of value
+- [00:05:15,880 - 00:05:18,120] that way but at some point you stack
+- [00:05:18,120 - 00:05:20,360] enough responsibility in your business or in yourself
+- [00:05:20,360 - 00:05:22,360] that you need to put that 30 minutes
+- [00:05:22,360 - 00:05:24,360] aside for yourself in the morning or whatever you
+- [00:05:24,360 - 00:05:25,520] need to do to get that 30 minutes out of your
+- [00:05:25,520 - 00:05:26,680] day and then you can just go back and do whatever
+- [00:05:26,680 - 00:05:28,760] that is for me it's about 30 to 40 minutes then
+- [00:05:28,760 - 00:05:30,840] i get right to it in your instagram bio you have
+- [00:05:30,840 - 00:05:32,720] god first written how important has faith been
+- [00:05:32,720 - 00:05:34,600] to you throughout your lifetime been really important
+- [00:05:34,600 - 00:05:36,840] man actually my one of my first mentors very
+- [00:05:36,840 - 00:05:39,080] spiritual in regards to faith like he was very
+- [00:05:39,080 - 00:05:41,080] well connected to that and attribute a lot of his
+- [00:05:41,080 - 00:05:43,080] success to it and i still hop on calls them today
+- [00:05:43,080 - 00:05:45,920] where in the midst of a big crisis for
+- [00:05:45,920 - 00:05:48,760] him financially he gave a big chunk of money as
+- [00:05:48,760 - 00:05:50,920] tithes and offerings because you know the money
+- [00:05:50,920 - 00:05:53,080] and the resources that he's collected was was a
+- [00:05:53,080 - 00:05:53,600] pretty pretty good change you know he doesn't have
+- [00:05:53,600 - 00:05:54,120] to work anything or anymore he's set up for
+- [00:05:54,120 - 00:05:55,880] generations but he still gave up a big chunk
+- [00:05:55,880 - 00:05:57,640] because he knows that it's going to be better
+- [00:05:57,640 - 00:05:59,920] in god's hands than his for me you know i've
+- [00:05:59,920 - 00:06:02,200] had my ups and downs with faith and everything but i
+- [00:06:02,200 - 00:06:04,520] think the biggest thing is instead of just
+- [00:06:04,520 - 00:06:06,840] blindly going into a faith or religion like understanding
+- [00:06:06,840 - 00:06:09,120] why and also what that connection means because
+- [00:06:09,120 - 00:06:11,400] it's just like if you have something and it's
+- [00:06:11,400 - 00:06:13,480] taken away from you now you know the value it's
+- [00:06:13,480 - 00:06:15,560] the same thing if you don't pour into that for
+- [00:06:15,560 - 00:06:17,320] yourself spiritually and if you even don't
+- [00:06:17,320 - 00:06:19,080] go through some discovery sometimes and you just
+- [00:06:19,080 - 00:06:21,120] kind of blindly accept it you don't understand
+- [00:06:21,120 - 00:06:23,160] the true moral foundation of like the power of
+- [00:06:23,160 - 00:06:24,120] simple scripture or simple
+- [00:06:24,120 - 00:06:25,920] philosophy all right guys we just finished up on
+- [00:06:25,920 - 00:06:27,720] the trail with robert he actually had to step out
+- [00:06:27,720 - 00:06:29,440] real quick to take a quick phone call but when
+- [00:06:29,440 - 00:06:31,160] he comes back we're going to jump into a classic hard
+- [00:06:31,160 - 00:06:32,920] knock style street interview yeah we're just going
+- [00:06:32,920 - 00:06:34,680] to be asking a couple questions like we typically
+- [00:06:34,680 - 00:06:36,680] do like the advice he tells younger self
+- [00:06:36,680 - 00:06:38,680] and how someone can become financially free and wealthy
+- [00:06:38,680 - 00:06:41,520] in today's world so stay tuned and we're going
+- [00:06:41,520 - 00:06:44,360] to get the shotgun excuse me sir quick question for
+- [00:06:44,360 - 00:06:45,960] you if you were to go back to when you were
+- [00:06:45,960 - 00:06:47,560] either high school or college what is the best piece of
+- [00:06:47,560 - 00:06:49,640] advice you would tell your younger self invest
+- [00:06:49,640 - 00:06:51,720] into mentors get into the room whatever it is
+- [00:06:51,720 - 00:06:51,920] whether it's you don't really have a lot of money
+- [00:06:51,920 - 00:06:52,120] at that time so give you know you're going to have
+- [00:06:52,120 - 00:06:52,160] a lot of money at that time so give you know you're
+- [00:06:52,160 - 00:06:52,200] going to have a lot of money at that time so give you
+- [00:06:52,200 - 00:06:54,280] you don't really have a lot of money at that time
+- [00:06:54,280 - 00:06:56,360] so give your time to the actual mentor to help them
+- [00:06:56,360 - 00:06:58,240] with whatever they're doing so if they have
+- [00:06:58,240 - 00:07:00,120] multiple businesses if they are making a lot
+- [00:07:00,120 - 00:07:01,840] of money see how you can get in the door
+- [00:07:01,840 - 00:07:03,560] what is your best piece of advice to someone wanting to
+- [00:07:03,560 - 00:07:05,840] start a business in 2022 i would start
+- [00:07:05,840 - 00:07:08,120] out in services especially right now everyone needs
+- [00:07:08,120 - 00:07:10,079] you know everyone has problems if you can
+- [00:07:10,079 - 00:07:12,039] solve those problems the digital side and making it
+- [00:07:12,039 - 00:07:13,919] super sexy isn't the first place to start you
+- [00:07:13,919 - 00:07:15,800] want to actually solve a problem first and then
+- [00:07:15,800 - 00:07:17,440] once you figure out what that problem that you're solving
+- [00:07:17,440 - 00:07:19,080] is then you can go to scale it but first
+- [00:07:19,080 - 00:07:20,600] help people and that's how you can kind
+- [00:07:20,600 - 00:07:22,120] of take the service businesses to the next level
+- [00:07:22,200 - 00:07:23,959] next level for someone trying to scale from you
+- [00:07:23,959 - 00:07:25,719] know six to seven to potentially eight or nine
+- [00:07:25,719 - 00:07:27,399] figures what advice would you give to someone
+- [00:07:27,399 - 00:07:29,080] who's trying to scale well i haven't hit nine
+- [00:07:29,080 - 00:07:31,360] figures yet so i can't give advice there but uh
+- [00:07:31,360 - 00:07:33,640] first zero to six is the skill sets six to seven
+- [00:07:33,640 - 00:07:35,920] is then being able to get predictable new clients
+- [00:07:35,920 - 00:07:38,200] from your new service or from your new business
+- [00:07:38,200 - 00:07:40,160] and then seven to eight is following the
+- [00:07:40,160 - 00:07:42,120] graph whether that's ads people numbers don't lie people
+- [00:07:42,120 - 00:07:44,160] do what skillset have you seen what
+- [00:07:44,160 - 00:07:46,200] separates people from the rest copywriting sales and
+- [00:07:46,200 - 00:07:48,760] marketing if you can learn those three copywriting is
+- [00:07:48,760 - 00:07:51,320] sales in written form sales is doing it over
+- [00:07:51,320 - 00:07:52,120] the phone being able to
+- [00:07:52,200 - 00:07:53,959] persuade and then third is marketing how do you
+- [00:07:53,959 - 00:07:55,719] get more people to hear what you have to offer
+- [00:07:55,719 - 00:07:57,559] if you were to start from zero and you had
+- [00:07:57,559 - 00:07:59,400] one year to make a million dollars and your life
+- [00:07:59,400 - 00:08:01,320] dependent on it what would you do high
+- [00:08:01,320 - 00:08:03,240] ticket services and collaboration i would look for
+- [00:08:03,240 - 00:08:05,280] networks to be able to tap into that way i don't
+- [00:08:05,280 - 00:08:07,320] have to spend a lot on marketing and ads but i
+- [00:08:07,320 - 00:08:09,519] would collaborate with people provide a solution
+- [00:08:09,519 - 00:08:11,719] that has multiple services multiple customers at
+- [00:08:11,719 - 00:08:14,079] once rather than trying to go one at a time one
+- [00:08:14,079 - 00:08:16,440] two three go to a mastermind go to a network and
+- [00:08:16,440 - 00:08:18,480] try and roll something out that's beneficial to all
+- [00:08:18,480 - 00:08:20,520] parties i love that and what is the secret
+- [00:08:20,520 - 00:08:21,800] to sales in 2022
+- [00:08:22,200 - 00:08:24,080] just being authentic i think actually solving the
+- [00:08:24,080 - 00:08:25,960] problem number one if you're doing that then
+- [00:08:25,960 - 00:08:28,640] that's to solve it but two is uh how
+- [00:08:28,640 - 00:08:31,320] are you actually gonna build that relationship over time
+- [00:08:31,320 - 00:08:33,119] i think a lot of people are in it
+- [00:08:33,119 - 00:08:34,919] for the transaction and it can be hard sometimes when
+- [00:08:34,919 - 00:08:36,959] you're scaling out an offer to have relationships with
+- [00:08:36,959 - 00:08:39,000] every single person but if you try to at least
+- [00:08:39,000 - 00:08:40,919] build community and build trust and really
+- [00:08:40,919 - 00:08:42,840] understand that you have their best interest
+- [00:08:42,840 - 00:08:44,680] at mind or at heart that's what really matters and
+- [00:08:44,680 - 00:08:46,520] they'll feel that so you just got off a call
+- [00:08:47,240 - 00:08:49,160] what were you guys talking about yeah man
+- [00:08:49,160 - 00:08:51,080] so just going over with our leadership call essentially
+- [00:08:52,200 - 00:08:53,760] um i think the most important thing was our
+- [00:08:53,760 - 00:08:55,320] leadership calls so we got a lot of updates
+- [00:08:55,320 - 00:08:57,040] from our department on what's going on in the
+- [00:08:57,040 - 00:08:58,760] business world uh we're just keeping up on and
+- [00:08:58,760 - 00:09:00,680] we just make sure that each department's doing the
+- [00:09:00,680 - 00:09:02,600] right functions and got a lot of updates with some
+- [00:09:02,600 - 00:09:04,440] of the newer things we're rolling out
+- [00:09:04,440 - 00:09:06,280] in our shopify department which is recurring subscriptions
+- [00:09:06,280 - 00:09:08,280] and billing and things like that just leadership calls
+- [00:09:08,280 - 00:09:10,280] man what what does your typical start of the
+- [00:09:10,280 - 00:09:12,360] day end of the day look like so people can
+- [00:09:12,360 - 00:09:14,440] kind of really capture what it's like to be a serial
+- [00:09:14,440 - 00:09:16,080] entrepreneur what do you have to do on the daily basis
+- [00:09:16,080 - 00:09:17,720] to be able to meet your goals and be able to
+- [00:09:17,720 - 00:09:19,920] get done what you need to get done in the beginning of
+- [00:09:19,920 - 00:09:22,120] starting out i was very like i was 6 a.m till 10
+- [00:09:22,120 - 00:09:23,910] now to be like, yo, this is my meeting schedule
+- [00:09:23,910 - 00:09:25,700] here and here. But now I wake up at around like
+- [00:09:25,700 - 00:09:27,590] five to six. I'll go out for a little bit
+- [00:09:27,590 - 00:09:29,480] of a morning routine. I'll go out on a walk,
+- [00:09:29,620 - 00:09:31,380] listen to a podcast or just do my
+- [00:09:31,380 - 00:09:33,140] own thing. I'll journal, I'll meditate. So typically in
+- [00:09:33,140 - 00:09:35,520] the mornings, I'll just have a work block from
+- [00:09:35,520 - 00:09:37,900] like 7 a.m. till about maybe about 11. And my
+- [00:09:37,900 - 00:09:39,650] first call will be at about 11 or 12.
+- [00:09:39,650 - 00:09:41,400] And then subsequent calls after that, whether that be
+- [00:09:41,400 - 00:09:43,550] sales calls from time to time or partnership
+- [00:09:43,550 - 00:09:45,700] and collaboration calls, then I'll essentially go into
+- [00:09:45,700 - 00:09:47,600] another deep work session. Typically that's around three to
+- [00:09:47,600 - 00:09:49,500] four. If I have calls that fill up the
+- [00:09:49,500 - 00:09:51,450] rest of the day, then I'll stop at around five.
+- [00:09:51,450 - 00:09:53,400] I'll go hit the gym around like six, six thirty,
+- [00:09:53,580 - 00:09:55,700] come back, read and then, you know, go into course
+- [00:09:55,700 - 00:09:57,820] material or stuff like that that I want to learn
+- [00:09:57,820 - 00:09:59,860] and then go from there. I know we talked
+- [00:09:59,860 - 00:10:01,900] about reading a lot with personal development, but how
+- [00:10:01,900 - 00:10:04,240] big has been keeping up with, you know, just
+- [00:10:04,240 - 00:10:06,580] joining into new courses and stuff, even at the
+- [00:10:06,580 - 00:10:08,300] point of success where you're at now? Definitely always
+- [00:10:08,300 - 00:10:10,020] in courses. I think if you think that you
+- [00:10:10,020 - 00:10:12,020] know it all, you've already lost. At least for
+- [00:10:12,020 - 00:10:14,020] me, when I have business problems arise and I don't
+- [00:10:14,020 - 00:10:15,940] know the answer to them, I'll tap into my
+- [00:10:15,940 - 00:10:17,860] resource network. We always have a library. We have Google,
+- [00:10:17,860 - 00:10:19,160] we have the internet, but what's your
+- [00:10:19,160 - 00:10:21,239] internal library that you can actually draw from? Those
+- [00:10:21,239 - 00:10:23,319] are typically courses and a little bit of a
+- [00:10:23,319 - 00:10:24,779] system that you kind of build for yourself. So
+- [00:10:24,779 - 00:10:26,240] that's what I've done. That kind of wraps it up
+- [00:10:26,240 - 00:10:28,200] for a day in the life with Robert Miller.
+- [00:10:28,200 - 00:10:30,160] Robert, thanks so much for having us, man. Yeah. Really
+- [00:10:30,160 - 00:10:32,350] appreciate your time, bro. Yeah. Yeah. Where can
+- [00:10:32,350 - 00:10:34,540] everyone find you? Yeah. At the Robert J. Miller
+- [00:10:34,540 - 00:10:36,619] on Instagram. But guys, I actually got another meeting,
+- [00:10:36,619 - 00:10:38,699] so I need you guys to get out of here.
+- [00:10:39,500 - 00:10:41,880] Sounds good, man. I'm just playing, guys. Good seeing you.
