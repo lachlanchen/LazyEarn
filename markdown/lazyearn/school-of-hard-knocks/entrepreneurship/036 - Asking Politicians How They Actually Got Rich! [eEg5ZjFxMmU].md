@@ -1,0 +1,1057 @@
+# Transcript
+
+Source: lazyearn/school-of-hard-knocks/hard-knocks-interviews/037 - Asking Politicians How They Actually Got Rich! [eEg5ZjFxMmU].webm
+
+- [00:00:00,000 - 00:00:02,290] Excuse me, sir. Sir, question for you. How
+- [00:00:02,290 - 00:00:04,580] old were you when you made your first million?
+- [00:00:04,780 - 00:00:05,420] My million?
+- [00:00:05,580 - 00:00:06,060] Yes, sir.
+- [00:00:06,240 - 00:00:07,460] That's personal.
+- [00:00:07,680 - 00:00:08,650] If I ever made my million,
+- [00:00:08,650 - 00:00:09,620] you need to talk to him.
+- [00:00:09,660 - 00:00:11,430] Right here, sir. Real quick. Real quick, sir. What
+- [00:00:11,430 - 00:00:13,200] do you do for living out here in Washington, D.C.?
+- [00:00:13,200 - 00:00:14,040] I work in this building.
+- [00:00:14,200 - 00:00:14,440] Capitol?
+- [00:00:14,720 - 00:00:15,560] Yeah, in the Capitol building.
+- [00:00:15,580 - 00:00:15,920] What do you do?
+- [00:00:16,059 - 00:00:17,760] I'm a member of the United States Congress.
+- [00:00:17,980 - 00:00:19,800] I represent the 10th District of Georgia.
+- [00:00:19,940 - 00:00:20,540] Are you a representative?
+- [00:00:20,700 - 00:00:20,800] Yeah.
+- [00:00:21,120 - 00:00:21,700] What's your name?
+- [00:00:21,820 - 00:00:22,980] Mike. I'm Mike Collins.
+- [00:00:23,180 - 00:00:23,520] Mike Collins?
+- [00:00:23,720 - 00:00:25,320] Yeah. The Lake and Riley Act was
+- [00:00:25,320 - 00:00:26,920] my deal. I'm a member of Congress.
+- [00:00:27,300 - 00:00:28,100] You're a member of Congress?
+- [00:00:28,300 - 00:00:28,560] Yes.
+- [00:00:28,560 - 00:00:29,260] Are you serious?
+- [00:00:29,260 - 00:00:30,080] Yes. 100%.
+- [00:00:30,080 - 00:00:30,500] What's your name?
+- [00:00:30,640 - 00:00:31,320] Byron Donalds.
+- [00:00:31,360 - 00:00:32,490] Why did you want to become a
+- [00:00:32,490 - 00:00:33,620] member of Congress? Because you didn't have to.
+- [00:00:33,820 - 00:00:33,980] No.
+- [00:00:34,320 - 00:00:35,440] You had a business, and politics
+- [00:00:35,440 - 00:00:36,560] is a nasty game for people.
+- [00:00:36,880 - 00:00:37,860] Oh, it's hugely nasty.
+- [00:00:38,060 - 00:00:39,570] Well, you say politics is a nasty
+- [00:00:39,570 - 00:00:41,080] game, but politics is how you change things.
+- [00:00:41,140 - 00:00:42,810] I got into politics because people died for
+- [00:00:42,810 - 00:00:44,480] me to have the right to be here.
+- [00:00:44,560 - 00:00:46,320] You've seen some people get real rich off of politics.
+- [00:00:46,540 - 00:00:48,350] Former Speaker Pelosi has done quite well
+- [00:00:48,350 - 00:00:50,160] in the stock market. People don't know why.
+- [00:00:50,240 - 00:00:52,000] What was your first moment in Washington, D.C., when
+- [00:00:52,000 - 00:00:53,760] you were like, oh, this is how this really works?
+- [00:00:54,760 - 00:00:59,000] Oh, man. That was probably our third day here.
+- [00:00:59,120 - 00:00:59,240] Yeah?
+- [00:00:59,260 - 00:00:59,620] Yeah.
+- [00:00:59,720 - 00:01:00,059] What happened?
+- [00:01:00,220 - 00:01:01,260] Well, so actually...
+- [00:01:02,019 - 00:01:04,759] Guys, I'm in Washington, D.C. for
+- [00:01:04,759 - 00:01:07,500] the first time ever to do interviews.
+- [00:01:07,620 - 00:01:10,120] And today, I'm going to be going around
+- [00:01:10,120 - 00:01:12,620] Capitol Hill in D.C. to find and interview politicians
+- [00:01:12,620 - 00:01:14,439] to figure out how they became
+- [00:01:14,439 - 00:01:16,259] wealthy before and maybe even after politics
+- [00:01:16,860 - 00:01:18,780] and what the government knows that we don't.
+- [00:01:18,860 - 00:01:20,470] So stay tuned from start to finish
+- [00:01:20,470 - 00:01:22,080] because this video is about to be insane.
+- [00:01:22,200 - 00:01:23,660] But let's get this thing on the way. Come on.
+- [00:01:29,260 - 00:01:35,220] Excuse me, sir.
+- [00:01:35,300 - 00:01:37,020] How old were you when you made your first million?
+- [00:01:37,140 - 00:01:37,440] I don't know.
+- [00:01:37,520 - 00:01:38,680] Sorry. We don't have time for this.
+- [00:01:38,960 - 00:01:40,600] Real quick. So I have the biggest business
+- [00:01:40,600 - 00:01:42,240] media channel in the world with 14 million followers.
+- [00:01:42,360 - 00:01:43,560] I've interviewed Shaquille O'Neal, Mark
+- [00:01:43,560 - 00:01:44,760] Cuban, the CEO of Nike.
+- [00:01:44,880 - 00:01:46,280] Could we get 30 seconds with you for the channel?
+- [00:01:46,380 - 00:01:47,310] It's to help inspire the
+- [00:01:47,310 - 00:01:48,240] younger generation. Just career advice.
+- [00:01:48,440 - 00:01:49,280] All right. Thank you. Who are you guys with?
+- [00:01:49,480 - 00:01:51,010] The School of Hard Knocks. I started the
+- [00:01:51,010 - 00:01:52,540] biggest business media channel in the entire world.
+- [00:01:52,620 - 00:01:53,980] Congrats. We got to run to a meeting.
+- [00:01:54,160 - 00:01:55,320] All right. Real quick. Are you an entrepreneur?
+- [00:01:55,560 - 00:01:56,300] We got to run to a meeting.
+- [00:01:56,460 - 00:01:57,280] All right, brother. Have a good one.
+- [00:01:57,360 - 00:01:57,680] All right. Thank you.
+- [00:01:58,220 - 00:01:59,100] Excuse me, guys.
+- [00:01:59,260 - 00:01:59,500] Hi there.
+- [00:01:59,560 - 00:02:01,780] Question for you. Who is the richest person here?
+- [00:02:01,940 - 00:02:03,320] Oh, man. Good question.
+- [00:02:03,440 - 00:02:04,600] So you're talking financially?
+- [00:02:04,840 - 00:02:05,160] Financially.
+- [00:02:05,160 - 00:02:07,360] Or are you talking just in life?
+- [00:02:07,480 - 00:02:07,800] Financially.
+- [00:02:07,940 - 00:02:08,699] Any business owners here?
+- [00:02:08,960 - 00:02:09,160] No.
+- [00:02:09,539 - 00:02:10,479] No? What did you guys do?
+- [00:02:10,580 - 00:02:12,080] I'm not up for this right now.
+- [00:02:12,420 - 00:02:13,950] Excuse me, sir. How old were
+- [00:02:13,950 - 00:02:15,480] you when you made your first million?
+- [00:02:16,080 - 00:02:16,680] I'm good.
+- [00:02:16,800 - 00:02:17,880] What line of business were you in?
+- [00:02:17,960 - 00:02:18,880] What was I in? Am I in?
+- [00:02:18,900 - 00:02:19,540] What do you do for a living?
+- [00:02:19,660 - 00:02:20,160] What is that?
+- [00:02:20,360 - 00:02:20,780] It's a mic.
+- [00:02:21,300 - 00:02:22,650] So I started the biggest business
+- [00:02:22,650 - 00:02:24,000] media channel in the entire world.
+- [00:02:24,000 - 00:02:25,060] I go all over the world
+- [00:02:25,060 - 00:02:26,120] to get advice for the younger generation.
+- [00:02:26,280 - 00:02:27,220] Career mentorship advice from people
+- [00:02:27,220 - 00:02:28,160] that have been there before.
+- [00:02:28,280 - 00:02:28,920] What do you do for a living?
+- [00:02:29,260 - 00:02:32,160] Have a good one, guys. Have a good one.
+- [00:02:32,280 - 00:02:33,960] So as you guys can see, since
+- [00:02:33,960 - 00:02:35,640] we're in Washington, D.C., outside of the Capitol,
+- [00:02:35,760 - 00:02:36,960] it is very hard to get
+- [00:02:36,960 - 00:02:38,160] these people to stop and do interviews.
+- [00:02:38,340 - 00:02:40,120] They're coming and going from meeting to meeting.
+- [00:02:40,260 - 00:02:42,380] And these people do not want to give it away.
+- [00:02:42,560 - 00:02:44,399] But as you know, I'm not going to stop
+- [00:02:44,399 - 00:02:46,239] until I get a million dollars worth of gain
+- [00:02:46,239 - 00:02:47,369] from these politicians to figure out
+- [00:02:47,369 - 00:02:48,500] what they did to build their wealth
+- [00:02:48,500 - 00:02:51,260] before and even after politics just for you guys.
+- [00:02:51,340 - 00:02:51,620] Come on.
+- [00:02:52,120 - 00:02:52,880] Excuse me, sir.
+- [00:02:52,880 - 00:02:54,359] Sir, question for you.
+- [00:02:54,519 - 00:02:56,560] How old were you when you made your first million?
+- [00:02:56,739 - 00:02:57,380] My million?
+- [00:02:57,560 - 00:02:58,019] Yes, sir.
+- [00:02:58,280 - 00:02:59,180] So I started the big...
+- [00:02:59,260 - 00:03:00,410] You're the biggest business media channel
+- [00:03:00,410 - 00:03:01,560] in the world out of Austin, Texas
+- [00:03:01,560 - 00:03:03,100] to help inspire the younger generation.
+- [00:03:03,359 - 00:03:04,559] Could I get one minute with you
+- [00:03:04,559 - 00:03:05,760] on some advice for the younger generation?
+- [00:03:05,880 - 00:03:06,959] I haven't made my million.
+- [00:03:07,060 - 00:03:07,840] You need to talk to him.
+- [00:03:07,899 - 00:03:08,540] Right here, sir.
+- [00:03:08,560 - 00:03:08,920] Real quick.
+- [00:03:09,019 - 00:03:09,600] Real quick, sir.
+- [00:03:09,920 - 00:03:10,399] Thank you.
+- [00:03:10,579 - 00:03:12,229] So, sir, I go all
+- [00:03:12,229 - 00:03:13,880] over the world interviewing successful entrepreneurs,
+- [00:03:14,060 - 00:03:15,420] people that made it for the younger generation.
+- [00:03:15,640 - 00:03:16,840] What did you do to become wealthy?
+- [00:03:17,040 - 00:03:19,090] Well, I started my first business
+- [00:03:19,090 - 00:03:21,140] when I was 23 years old.
+- [00:03:21,160 - 00:03:21,799] Can we pause for a quick second?
+- [00:03:21,920 - 00:03:22,780] No, I've got to catch a plane.
+- [00:03:22,780 - 00:03:23,380] We'll walk with you.
+- [00:03:23,380 - 00:03:23,859] You don't have to walk.
+- [00:03:23,880 - 00:03:24,200] I got you.
+- [00:03:24,260 - 00:03:25,720] So what was that business that you started?
+- [00:03:25,720 - 00:03:26,780] I was in the trucking business.
+- [00:03:27,079 - 00:03:27,359] Still am.
+- [00:03:27,420 - 00:03:28,040] The trucking business.
+- [00:03:28,040 - 00:03:28,679] I own one truck.
+- [00:03:28,760 - 00:03:29,980] We run over 100 a day.
+- [00:03:30,140 - 00:03:31,579] I also have a brokerage company.
+- [00:03:31,640 - 00:03:32,780] How did you buy your first truck?
+- [00:03:32,859 - 00:03:33,459] How did you get the
+- [00:03:33,459 - 00:03:34,060] money to buy your first truck?
+- [00:03:34,060 - 00:03:34,540] You know what?
+- [00:03:34,600 - 00:03:36,040] I went to my community bank.
+- [00:03:36,160 - 00:03:36,280] Yeah?
+- [00:03:36,340 - 00:03:37,239] Small community bank.
+- [00:03:37,260 - 00:03:38,660] What was that conversation like with the bank?
+- [00:03:38,700 - 00:03:39,940] How did you get the money to buy that truck?
+- [00:03:40,120 - 00:03:41,680] Well, it's because the people...
+- [00:03:41,680 - 00:03:44,200] Back then, community banks knew their customer.
+- [00:03:44,320 - 00:03:45,220] They knew the people because
+- [00:03:45,220 - 00:03:46,120] they were part of the community.
+- [00:03:46,340 - 00:03:46,540] Yeah.
+- [00:03:46,660 - 00:03:47,990] I mean, that's the people you saw
+- [00:03:47,990 - 00:03:49,320] on the signs at the baseball fields
+- [00:03:49,320 - 00:03:50,540] or grilling the hamburgers.
+- [00:03:50,540 - 00:03:52,169] And that's been a huge problem
+- [00:03:52,169 - 00:03:53,799] because community banks have been decimated.
+- [00:03:54,019 - 00:03:56,009] And the federal government has been on a
+- [00:03:56,009 - 00:03:58,000] tear to get rid of all the community banks
+- [00:03:58,000 - 00:03:58,019] and the community banks.
+- [00:03:58,079 - 00:04:00,459] And just consolidate down to the point where one day,
+- [00:04:00,540 - 00:04:02,140] you're just going to be dealing with a government bank.
+- [00:04:02,260 - 00:04:02,359] Yeah.
+- [00:04:02,400 - 00:04:03,179] And when we get to that
+- [00:04:03,179 - 00:04:03,959] point, you're going to be in trouble.
+- [00:04:04,079 - 00:04:05,899] But I tell all young people, man,
+- [00:04:05,899 - 00:04:07,720] you know, if you have an idea
+- [00:04:07,720 - 00:04:09,520] or you want to do something, the
+- [00:04:09,520 - 00:04:11,320] best thing you can do is work hard.
+- [00:04:11,459 - 00:04:11,620] Yeah.
+- [00:04:11,680 - 00:04:12,600] Work every day.
+- [00:04:12,739 - 00:04:13,320] Work your ass off.
+- [00:04:13,440 - 00:04:14,420] Work your ass off.
+- [00:04:14,480 - 00:04:14,560] Yeah.
+- [00:04:14,579 - 00:04:15,560] So what are you doing in D.C.?
+- [00:04:15,560 - 00:04:17,420] I represent the 10th District of Georgia.
+- [00:04:17,579 - 00:04:18,140] Are you a representative?
+- [00:04:18,260 - 00:04:18,420] Yeah.
+- [00:04:18,420 - 00:04:19,360] In the U.S. level?
+- [00:04:19,659 - 00:04:19,760] Yeah.
+- [00:04:20,060 - 00:04:20,719] What's your name?
+- [00:04:20,839 - 00:04:21,140] Mike.
+- [00:04:21,240 - 00:04:21,980] I'm Mike Collins.
+- [00:04:22,200 - 00:04:22,560] Mike Collins?
+- [00:04:22,740 - 00:04:22,900] Yeah.
+- [00:04:23,140 - 00:04:24,960] The Lake and Riley Act was my bill.
+- [00:04:25,280 - 00:04:25,640] Actually.
+- [00:04:25,820 - 00:04:25,980] Yeah.
+- [00:04:26,120 - 00:04:28,000] So what's an economic truth that most...
+- [00:04:28,000 - 00:04:29,280] Most politicians are afraid to admit?
+- [00:04:29,320 - 00:04:31,420] The fact that free market works.
+- [00:04:31,640 - 00:04:34,720] The free marketplace is beyond unbelievable.
+- [00:04:35,060 - 00:04:35,380] Capitalism?
+- [00:04:35,660 - 00:04:35,980] Yes.
+- [00:04:36,140 - 00:04:37,460] And President Trump knows that.
+- [00:04:37,560 - 00:04:39,230] And the other fact that President Trump
+- [00:04:39,230 - 00:04:40,900] knows is that we need small businesses.
+- [00:04:41,120 - 00:04:42,800] A small business needs big business.
+- [00:04:42,980 - 00:04:43,140] Yeah.
+- [00:04:43,260 - 00:04:45,340] But without a small business and
+- [00:04:45,340 - 00:04:47,420] the ability to be an entrepreneur,
+- [00:04:47,420 - 00:04:48,610] to start from the ground
+- [00:04:48,610 - 00:04:49,800] up and work your way up,
+- [00:04:49,840 - 00:04:51,060] work your ass off to get there,
+- [00:04:51,160 - 00:04:52,740] you know, people really don't have an incentive.
+- [00:04:53,020 - 00:04:55,140] You think about what the Obama administration,
+- [00:04:55,320 - 00:04:56,530] what the Biden administration, both
+- [00:04:56,530 - 00:04:57,740] of them tried to accomplish.
+- [00:04:57,740 - 00:04:59,220] I mean, inflation went through the roof.
+- [00:04:59,280 - 00:05:00,320] They didn't want you owning a house.
+- [00:05:00,480 - 00:05:01,800] They don't want young people owning homes.
+- [00:05:01,940 - 00:05:02,960] They want you renting apartments.
+- [00:05:03,200 - 00:05:04,760] Hell, they don't even really want you owning an EV.
+- [00:05:05,020 - 00:05:06,440] They want you to ride on mass transit.
+- [00:05:06,520 - 00:05:07,940] They don't want you to have your own health care.
+- [00:05:08,120 - 00:05:09,560] They want you to have government health care.
+- [00:05:09,660 - 00:05:11,310] They want everything you do for you
+- [00:05:11,310 - 00:05:12,960] to look for the government for the answer.
+- [00:05:13,100 - 00:05:14,100] And that's not America.
+- [00:05:14,220 - 00:05:15,380] It's not in God we trust.
+- [00:05:15,500 - 00:05:16,960] We look to God for those answers.
+- [00:05:17,100 - 00:05:18,540] But if they feel like that
+- [00:05:18,540 - 00:05:19,980] they can get you into that position,
+- [00:05:20,100 - 00:05:22,440] all you'll work for is enough money to get by.
+- [00:05:22,520 - 00:05:22,940] Pay to rent.
+- [00:05:23,060 - 00:05:23,780] Pay to bus fare.
+- [00:05:23,900 - 00:05:24,900] That's not the American dream, though.
+- [00:05:25,020 - 00:05:25,260] No.
+- [00:05:25,520 - 00:05:26,100] No, it's not.
+- [00:05:26,100 - 00:05:26,140] It's not.
+- [00:05:26,220 - 00:05:27,720] So you've got to stand up.
+- [00:05:27,740 - 00:05:28,500] You've got to stand up for small business.
+- [00:05:28,600 - 00:05:29,940] You've got to stand up for the free market.
+- [00:05:30,240 - 00:05:32,100] At your business, in terms of revenue,
+- [00:05:32,300 - 00:05:33,260] what's the most amount of money
+- [00:05:33,260 - 00:05:34,220] you made in a single year?
+- [00:05:34,300 - 00:05:35,780] Well, somewhere between the $20 million and $50 million.
+- [00:05:35,920 - 00:05:36,700] I'll put it that way.
+- [00:05:36,820 - 00:05:38,100] So you're big millions.
+- [00:05:38,220 - 00:05:39,120] We've been very fortunate.
+- [00:05:39,200 - 00:05:39,840] How did you scale?
+- [00:05:39,960 - 00:05:41,320] I was willing to take the chance.
+- [00:05:41,460 - 00:05:42,120] You took some risks.
+- [00:05:42,260 - 00:05:42,420] Yeah.
+- [00:05:42,500 - 00:05:44,340] 99% of people won't take the risk.
+- [00:05:44,460 - 00:05:45,200] They just won't do it.
+- [00:05:45,260 - 00:05:46,700] Why did you want to become a member of Congress?
+- [00:05:46,760 - 00:05:47,520] Because you didn't have to.
+- [00:05:47,720 - 00:05:47,860] No.
+- [00:05:48,240 - 00:05:48,720] You had a business.
+- [00:05:48,920 - 00:05:50,480] And politics is a nasty game for people.
+- [00:05:50,780 - 00:05:51,800] It's hugely nasty.
+- [00:05:51,960 - 00:05:52,600] Is there a lot of corruption?
+- [00:05:52,840 - 00:05:54,100] I don't know about the corruption side.
+- [00:05:54,100 - 00:05:54,880] I really don't know.
+- [00:05:54,880 - 00:05:56,000] People ask me that all the time.
+- [00:05:56,300 - 00:05:58,320] I don't go for that, so I don't know.
+- [00:05:58,540 - 00:06:00,620] But I knew I could take my experience up here.
+- [00:06:00,740 - 00:06:03,040] I could serve the people, not just the 10th District,
+- [00:06:03,140 - 00:06:04,820] not just in Georgia, but the whole country,
+- [00:06:04,960 - 00:06:07,719] and try to get us back to where we were.
+- [00:06:07,820 - 00:06:10,540] Plus, I was in business during the Trump administration,
+- [00:06:10,659 - 00:06:11,000] the first one.
+- [00:06:11,040 - 00:06:11,659] We still are.
+- [00:06:11,740 - 00:06:12,510] I mean, I know what
+- [00:06:12,510 - 00:06:13,280] it felt like under Biden, too.
+- [00:06:13,360 - 00:06:14,620] But I also know what it
+- [00:06:14,620 - 00:06:15,880] felt like to win during Trump.
+- [00:06:16,140 - 00:06:18,920] I've been in business since George H.W. Bush.
+- [00:06:19,040 - 00:06:20,040] So I've been through them all.
+- [00:06:20,140 - 00:06:20,700] Do you believe in God?
+- [00:06:20,719 - 00:06:21,040] Oh, yeah.
+- [00:06:21,260 - 00:06:22,320] Has faith been important for you?
+- [00:06:22,440 - 00:06:23,180] Yeah, huge.
+- [00:06:23,540 - 00:06:23,900] How so?
+- [00:06:23,900 - 00:06:24,800] Well, I mean,
+- [00:06:24,880 - 00:06:25,740] think about it, man.
+- [00:06:25,920 - 00:06:27,620] You're going to have things happen in your life,
+- [00:06:27,740 - 00:06:28,440] good or bad.
+- [00:06:28,520 - 00:06:30,180] And if you don't have that rock to lean on,
+- [00:06:30,320 - 00:06:31,400] I don't know what you're going to lean on.
+- [00:06:31,460 - 00:06:32,740] There's things that's happened to me up here.
+- [00:06:32,800 - 00:06:33,900] I can't explain it.
+- [00:06:34,060 - 00:06:35,280] But hey, I know where it came from.
+- [00:06:35,320 - 00:06:36,219] So you see miracles happen.
+- [00:06:36,280 - 00:06:36,659] Oh, yeah.
+- [00:06:36,820 - 00:06:37,040] Yeah.
+- [00:06:37,159 - 00:06:39,480] I see things happen in my life that I'm like,
+- [00:06:39,700 - 00:06:41,440] dude, I don't know how that happened to me.
+- [00:06:41,540 - 00:06:42,480] But I was here, and
+- [00:06:42,480 - 00:06:43,420] I was in the right place.
+- [00:06:43,600 - 00:06:44,940] And the good Lord opened the door.
+- [00:06:45,020 - 00:06:46,260] He opened the door, you walked through it.
+- [00:06:46,360 - 00:06:47,560] The trucking business is competitive.
+- [00:06:47,740 - 00:06:49,240] What did you do to stand out?
+- [00:06:49,280 - 00:06:50,340] The number one thing you do?
+- [00:06:50,659 - 00:06:50,940] Service.
+- [00:06:51,180 - 00:06:52,120] Work your tail off.
+- [00:06:52,120 - 00:06:53,320] Beyond that, though, because you can work hard
+- [00:06:54,880 - 00:06:55,560] and beyond the hard work.
+- [00:06:55,700 - 00:06:57,020] People notice that, though.
+- [00:06:57,140 - 00:06:57,880] They notice that.
+- [00:06:58,020 - 00:06:59,760] I had people calling me asking me because
+- [00:06:59,760 - 00:07:00,800] maybe we weren't the biggest.
+- [00:07:00,920 - 00:07:01,280] We weren't.
+- [00:07:01,380 - 00:07:03,480] But when you deliver and you do what you say
+- [00:07:03,480 - 00:07:05,219] you're going to do, even if things happen
+- [00:07:05,219 - 00:07:07,080] and you compensate and you push things around,
+- [00:07:07,240 - 00:07:09,920] you do what you say and you do that continuously.
+- [00:07:10,120 - 00:07:11,400] People reward you for that.
+- [00:07:11,480 - 00:07:12,380] They do that up here, too.
+- [00:07:12,440 - 00:07:13,600] If we would just do our job.
+- [00:07:13,700 - 00:07:15,180] I mean, I'm the first freshman to get a bill
+- [00:07:15,180 - 00:07:15,880] signed into law.
+- [00:07:15,960 - 00:07:18,060] I've had two bills signed into law in two years
+- [00:07:18,060 - 00:07:20,000] by two different presidents for two different parties.
+- [00:07:20,180 - 00:07:20,820] I got a role, man.
+- [00:07:20,820 - 00:07:21,360] I got a plan.
+- [00:07:21,360 - 00:07:22,920] Your last message to the younger generation.
+- [00:07:23,120 - 00:07:24,260] Give them one more little nugget.
+- [00:07:24,260 - 00:07:24,860] Keep the faith.
+- [00:07:25,060 - 00:07:25,780] Keep the faith, man.
+- [00:07:26,219 - 00:07:26,980] It's available.
+- [00:07:27,219 - 00:07:27,860] It's hard.
+- [00:07:27,980 - 00:07:29,000] It's probably harder than what
+- [00:07:29,000 - 00:07:30,020] it was when I was there.
+- [00:07:30,100 - 00:07:30,780] We're going to do what
+- [00:07:30,780 - 00:07:31,460] we can to get this government
+- [00:07:31,460 - 00:07:32,800] off your back and out of your back pocket.
+- [00:07:32,940 - 00:07:34,000] But go for it, man.
+- [00:07:34,060 - 00:07:36,200] The number one lesson I learned, it's at the base
+- [00:07:36,200 - 00:07:37,980] of my flagpole in my office.
+- [00:07:38,200 - 00:07:39,219] It says, can't, never could.
+- [00:07:39,340 - 00:07:41,120] You believe you can't, you'll never do anything.
+- [00:07:41,300 - 00:07:42,800] Believing that you can is way more profitable
+- [00:07:42,800 - 00:07:43,760] than believing that you can't.
+- [00:07:43,780 - 00:07:44,680] Dang, she's getting me, man.
+- [00:07:44,780 - 00:07:45,260] I love it, man.
+- [00:07:45,280 - 00:07:45,540] Just believe it.
+- [00:07:45,560 - 00:07:46,600] Remind me your name one more time.
+- [00:07:46,780 - 00:07:47,100] Collins.
+- [00:07:47,180 - 00:07:48,180] Thank you for stopping, sir.
+- [00:07:48,180 - 00:07:49,960] Guys, we're right outside of the Capitol building
+- [00:07:49,960 - 00:07:52,700] and we just come up on an absolute business mogul
+- [00:07:52,700 - 00:07:53,800] in the trucking industry.
+- [00:07:53,800 - 00:07:55,360] And he's now a congressman.
+- [00:07:55,480 - 00:07:56,440] He's in the House of Representatives
+- [00:07:56,440 - 00:07:57,820] for the state of Georgia.
+- [00:07:58,000 - 00:08:00,020] And he passed one of the biggest and most known
+- [00:08:00,020 - 00:08:01,600] pieces of legislation that's gone through
+- [00:08:01,600 - 00:08:02,480] in the last couple of years.
+- [00:08:02,620 - 00:08:03,740] Mike Collins, I believe his name was,
+- [00:08:03,860 - 00:08:05,700] just gave an awesome interview for us here
+- [00:08:05,700 - 00:08:06,640] at the School of Hard Knocks.
+- [00:08:06,680 - 00:08:07,560] We got to keep this one rolling, man.
+- [00:08:07,580 - 00:08:08,420] Go get another one, you guys.
+- [00:08:08,500 - 00:08:09,140] Come on, let's go.
+- [00:08:09,260 - 00:08:09,900] Excuse me, sir.
+- [00:08:10,100 - 00:08:10,780] Question for you.
+- [00:08:11,620 - 00:08:12,260] Thank you, brother.
+- [00:08:12,480 - 00:08:13,120] Real quick, real quick.
+- [00:08:13,380 - 00:08:15,040] How old were you when you made your first million?
+- [00:08:16,120 - 00:08:17,220] I'm not old enough yet.
+- [00:08:17,340 - 00:08:17,540] Yeah?
+- [00:08:17,840 - 00:08:18,960] What line of business are you in?
+- [00:08:18,980 - 00:08:19,600] What do you do for a living?
+- [00:08:19,740 - 00:08:21,420] I'm a member of the United States Congress.
+- [00:08:21,520 - 00:08:22,120] House or Senate?
+- [00:08:22,500 - 00:08:22,820] House.
+- [00:08:22,980 - 00:08:23,300] Actually.
+- [00:08:23,300 - 00:08:24,080] Let me ask you this.
+- [00:08:24,100 - 00:08:25,380] What were you doing prior to getting into politics?
+- [00:08:25,520 - 00:08:26,280] Trying to help people.
+- [00:08:26,400 - 00:08:26,940] That's what I did.
+- [00:08:27,060 - 00:08:27,500] Started out.
+- [00:08:27,580 - 00:08:29,080] There's only like 500 or so people
+- [00:08:29,080 - 00:08:30,300] in the U.S. House of Representatives.
+- [00:08:30,440 - 00:08:31,940] What was the biggest driving factor of your success?
+- [00:08:32,039 - 00:08:33,320] A lot of people dream to do that one day.
+- [00:08:33,400 - 00:08:34,500] We're trying to inspire the younger generation.
+- [00:08:34,620 - 00:08:35,740] We've got 14 million followers.
+- [00:08:35,880 - 00:08:37,200] I've interviewed Shaquille O'Neal, Mark Cuban,
+- [00:08:37,260 - 00:08:38,780] the biggest business owners to help younger people.
+- [00:08:38,860 - 00:08:39,919] Just one minute of your time, real quick.
+- [00:08:40,000 - 00:08:40,959] Look, I just think to
+- [00:08:40,959 - 00:08:41,919] know that you're in this country,
+- [00:08:42,000 - 00:08:43,919] that you have a responsibility to give back to it,
+- [00:08:43,960 - 00:08:45,320] and that you can make a difference.
+- [00:08:45,460 - 00:08:47,480] I grew up in public housing, poor,
+- [00:08:47,620 - 00:08:49,620] but I saw changes that could be made
+- [00:08:49,620 - 00:08:51,500] by just contributing and working with people.
+- [00:08:51,500 - 00:08:53,400] What was that first actionable step that you took
+- [00:08:53,400 - 00:08:55,100] to start changing your family's trajectory?
+- [00:08:55,200 - 00:08:56,120] You said you didn't come from money,
+- [00:08:56,420 - 00:08:57,420] but you actually made it to
+- [00:08:57,420 - 00:08:58,420] one of the highest levels of offices
+- [00:08:58,420 - 00:08:59,700] that you can hold in the United States.
+- [00:08:59,760 - 00:09:01,240] Well, for me, the first thing was education,
+- [00:09:01,360 - 00:09:02,640] and my family was important,
+- [00:09:02,760 - 00:09:03,940] and then reading was important,
+- [00:09:04,040 - 00:09:06,780] and learning what was going on around my own environment,
+- [00:09:06,940 - 00:09:09,120] and then saying, how can I make a difference?
+- [00:09:09,260 - 00:09:10,720] And talking to some of my friends,
+- [00:09:10,800 - 00:09:12,080] and then seeing some of my friends
+- [00:09:12,080 - 00:09:13,820] who actually are not here anymore,
+- [00:09:13,880 - 00:09:15,660] who were killed, who started using drugs
+- [00:09:15,660 - 00:09:16,660] or something of that nature.
+- [00:09:16,760 - 00:09:17,200] You believe in God?
+- [00:09:18,140 - 00:09:19,640] I'm here only because of God.
+- [00:09:19,720 - 00:09:20,920] How important has faith been for you?
+- [00:09:20,920 - 00:09:21,480] Faith is real.
+- [00:09:21,520 - 00:09:22,100] Very important.
+- [00:09:22,340 - 00:09:24,360] For all of my life, faith has been important.
+- [00:09:24,400 - 00:09:25,780] Is it part of your decision-making process?
+- [00:09:25,980 - 00:09:26,440] It is.
+- [00:09:26,820 - 00:09:27,140] Absolutely.
+- [00:09:27,380 - 00:09:29,420] How have you leaned on his understanding
+- [00:09:29,420 - 00:09:30,260] as opposed to your own,
+- [00:09:30,320 - 00:09:32,540] and how do you incorporate that into your daily life?
+- [00:09:32,580 - 00:09:33,620] Because some people say that they believe in God,
+- [00:09:33,660 - 00:09:34,660] but really, how do you leverage
+- [00:09:34,660 - 00:09:35,660] and use that in your daily life?
+- [00:09:35,700 - 00:09:37,380] I think about what I'm doing,
+- [00:09:37,440 - 00:09:38,820] and I think about the Bible,
+- [00:09:39,000 - 00:09:41,440] and look at, for example, the works of Dr. King,
+- [00:09:41,520 - 00:09:43,500] who I believe was an angel from God,
+- [00:09:43,560 - 00:09:45,800] and how he lived his life in that regard.
+- [00:09:45,800 - 00:09:49,100] And I challenge myself to try to accomplish
+- [00:09:49,100 - 00:09:50,520] and to live up to those things,
+- [00:09:50,600 - 00:09:51,320] to do what I think,
+- [00:09:51,320 - 00:09:52,820] and to do what I believe
+- [00:09:52,820 - 00:09:54,320] is the right thing to do,
+- [00:09:54,320 - 00:09:55,700] the godly thing to do,
+- [00:09:55,700 - 00:09:57,560] the humanitarian thing to do.
+- [00:09:57,560 - 00:09:58,760] Politics is a nasty game.
+- [00:09:58,760 - 00:09:59,750] You know, like, why did
+- [00:09:59,750 - 00:10:00,740] you want to get into politics?
+- [00:10:00,740 - 00:10:02,440] Well, you say politics is a nasty game,
+- [00:10:02,440 - 00:10:03,900] but politics is how you change things.
+- [00:10:03,900 - 00:10:05,880] I got into politics because people died
+- [00:10:05,880 - 00:10:07,240] for me to have the right to be here.
+- [00:10:07,240 - 00:10:09,620] Ministers, rabbis, imams,
+- [00:10:09,620 - 00:10:11,420] arm and arm in the civil rights movement,
+- [00:10:11,420 - 00:10:13,800] and that whole movement was about getting more people here.
+- [00:10:13,800 - 00:10:16,300] So if folks would put their lives on the line
+- [00:10:16,300 - 00:10:17,650] and saying that that's how we
+- [00:10:17,650 - 00:10:19,000] make this place that we live in
+- [00:10:19,000 - 00:10:20,200] and this planet a better place,
+- [00:10:20,200 - 00:10:21,200] then that's for me to do.
+- [00:10:21,200 - 00:10:22,040] I'm 70.
+- [00:10:22,040 - 00:10:22,960] You look like 45.
+- [00:10:22,960 - 00:10:23,900] I wish I was.
+- [00:10:23,900 - 00:10:25,200] How do you look so good for 70 years old?
+- [00:10:25,200 - 00:10:26,160] You seem very young and fit.
+- [00:10:26,160 - 00:10:27,700] Number one, faith does happen,
+- [00:10:27,700 - 00:10:29,240] and two, you have to exercise,
+- [00:10:29,240 - 00:10:30,180] and you have to do
+- [00:10:30,180 - 00:10:31,120] those things that make the sacrifices
+- [00:10:31,120 - 00:10:32,080] that's good for your body.
+- [00:10:32,080 - 00:10:33,040] Take care of your body.
+- [00:10:33,040 - 00:10:33,880] Watch what you eat.
+- [00:10:33,880 - 00:10:35,080] You know, all of that's important.
+- [00:10:35,080 - 00:10:36,000] I'm in my early 20s,
+- [00:10:36,000 - 00:10:37,740] so you got 40 plus years on me.
+- [00:10:37,740 - 00:10:39,520] Let's break that learning curve right here.
+- [00:10:39,520 - 00:10:40,620] We can collapse time.
+- [00:10:40,620 - 00:10:41,850] Give me one piece of advice
+- [00:10:41,850 - 00:10:43,080] that you would pass on to me
+- [00:10:43,080 - 00:10:44,140] so that way when I'm 70 years old,
+- [00:10:44,140 - 00:10:45,230] I look forward and I'm proud
+- [00:10:45,230 - 00:10:46,320] of the life that I live.
+- [00:10:46,320 - 00:10:48,200] Give me a nugget, something that really helped you out,
+- [00:10:48,200 - 00:10:49,880] maybe some of the best advice that you got
+- [00:10:49,880 - 00:10:51,260] that you could pass on to somebody else as well
+- [00:10:51,260 - 00:10:52,190] to help them in whatever
+- [00:10:52,190 - 00:10:53,120] career or industry that they're in.
+- [00:10:53,120 - 00:10:54,560] I give you what I tell my daughters.
+- [00:10:54,560 - 00:10:56,160] The first thing is you gotta believe in yourself.
+- [00:10:56,160 - 00:10:57,720] How did you find that initial self-belief?
+- [00:10:57,720 - 00:10:59,400] What happened is when you start thinking,
+- [00:10:59,400 - 00:11:02,060] can I, can I accomplish, can I do this?
+- [00:11:02,060 - 00:11:03,160] Is this important?
+- [00:11:03,160 - 00:11:04,280] And believe that you can.
+- [00:11:04,280 - 00:11:05,400] Can I make a change?
+- [00:11:05,400 - 00:11:06,520] Can I make a difference?
+- [00:11:06,520 - 00:11:07,780] And believe that you can.
+- [00:11:07,780 - 00:11:09,420] If you think that it doesn't make a difference,
+- [00:11:09,420 - 00:11:10,300] that you're not there,
+- [00:11:10,300 - 00:11:11,570] and I think that one of
+- [00:11:11,570 - 00:11:12,840] the things that has impacted me,
+- [00:11:12,840 - 00:11:14,380] and I say to my daughter,
+- [00:11:14,380 - 00:11:16,640] I believe everybody has a purpose.
+- [00:11:16,640 - 00:11:18,250] And so one of the keys
+- [00:11:18,250 - 00:11:19,860] to life is finding your purpose.
+- [00:11:19,860 - 00:11:21,620] God's put you here for a reason.
+- [00:11:21,620 - 00:11:23,100] It's no accident that you're here.
+- [00:11:23,100 - 00:11:27,140] And the important part is finding what your purpose is.
+- [00:11:27,140 - 00:11:29,200] And when you find out what your purpose is,
+- [00:11:29,200 - 00:11:30,040] when you can feel it,
+- [00:11:30,040 - 00:11:30,880] because you can feel it,
+- [00:11:30,880 - 00:11:32,240] because you're destined to do it,
+- [00:11:32,240 - 00:11:33,920] some people know what their purpose is
+- [00:11:33,920 - 00:11:34,800] and run away from it.
+- [00:11:34,800 - 00:11:36,480] They get afraid of what their purpose is.
+- [00:11:36,480 - 00:11:38,500] They think it's too hard for them to accomplish
+- [00:11:38,500 - 00:11:39,540] what their purpose is.
+- [00:11:39,540 - 00:11:40,620] But once you find it,
+- [00:11:40,620 - 00:11:42,240] let nothing take you off track.
+- [00:11:42,240 - 00:11:43,420] You got amazing advice, my friend.
+- [00:11:43,420 - 00:11:44,260] Thank you so much for your time.
+- [00:11:44,260 - 00:11:45,100] Thank you for what you do.
+- [00:11:45,100 - 00:11:45,940] Gregory Meeks.
+- [00:11:45,940 - 00:11:47,020] Gregory Meeks, I appreciate you.
+- [00:11:47,020 - 00:11:47,860] All right, man.
+- [00:11:47,860 - 00:11:48,680] Seriously, that was a strong interview.
+- [00:11:48,680 - 00:11:49,520] I love that, man.
+- [00:11:49,520 - 00:11:49,820] Thank you. Thank you, my friend.
+- [00:11:49,860 - 00:11:50,700] Have a great day.
+- [00:11:50,700 - 00:11:51,520] Thank you.
+- [00:11:51,520 - 00:11:52,360] My man just...
+- [00:11:53,820 - 00:11:54,640] Sup, brother?
+- [00:11:54,640 - 00:11:55,480] Sup, brother?
+- [00:11:55,480 - 00:11:57,480] I love, love, love, love, love, love your Instagram.
+- [00:11:57,480 - 00:11:59,120] Gregory Meeks is actually a neighbor of mine.
+- [00:11:59,120 - 00:12:00,800] Man, he just gave an incredible interview.
+- [00:12:00,800 - 00:12:02,720] Oh, dude, he's been doing this for years.
+- [00:12:02,720 - 00:12:04,660] Guys, DC has been crazy so far.
+- [00:12:04,660 - 00:12:06,280] And I'm headed to go get my next congressman
+- [00:12:06,280 - 00:12:07,940] outside of the capital here in DC.
+- [00:12:07,940 - 00:12:09,960] But if you guys want direct access
+- [00:12:09,960 - 00:12:11,400] to the millionaires and the billionaires
+- [00:12:11,400 - 00:12:13,360] that I interview on this channel every single week,
+- [00:12:13,360 - 00:12:15,360] I've built and created the number one community
+- [00:12:15,360 - 00:12:17,140] for business owners in the entire world,
+- [00:12:17,140 - 00:12:18,330] where I give you the ability
+- [00:12:18,330 - 00:12:19,520] to hop on live Zoom calls
+- [00:12:19,520 - 00:12:21,520] every single week and get access to the minds
+- [00:12:21,520 - 00:12:23,439] and the skills of the millionaires and billionaires
+- [00:12:23,439 - 00:12:24,280] that I interview.
+- [00:12:24,280 - 00:12:25,120] And for a limited time,
+- [00:12:25,120 - 00:12:27,360] you can join this community right now for free
+- [00:12:27,360 - 00:12:28,460] to come see what it's like
+- [00:12:28,460 - 00:12:30,020] and how much your life would change
+- [00:12:30,020 - 00:12:31,880] if you had the ability to get mentored
+- [00:12:31,880 - 00:12:33,600] from a multimillionaire or billionaire.
+- [00:12:33,600 - 00:12:35,660] So whether you're in a nine to five right now
+- [00:12:35,660 - 00:12:37,360] and you wanna figure out the exact steps it takes
+- [00:12:37,360 - 00:12:38,860] to leave that job and start building
+- [00:12:38,860 - 00:12:40,199] and creating the business of your dreams,
+- [00:12:40,199 - 00:12:41,600] or maybe you've already taken that leap,
+- [00:12:41,600 - 00:12:42,439] you started that business,
+- [00:12:42,439 - 00:12:43,660] you started your entrepreneurial journey,
+- [00:12:43,660 - 00:12:44,860] and you wanna learn directly from somebody
+- [00:12:44,860 - 00:12:46,780] who's actually built and created an eight figure,
+- [00:12:46,780 - 00:12:48,240] nine figure, or billion dollar company,
+- [00:12:48,240 - 00:12:49,079] well, every week,
+- [00:12:49,520 - 00:12:51,380] I have the opportunity inside of my private community
+- [00:12:51,380 - 00:12:53,400] to hop on live calls and speak directly
+- [00:12:53,400 - 00:12:55,060] to the millionaires and billionaires that I interview.
+- [00:12:55,060 - 00:12:56,840] All you have to do to join for free today
+- [00:12:56,840 - 00:12:57,810] is go down to the link
+- [00:12:57,810 - 00:12:58,780] in the description of this video
+- [00:12:58,780 - 00:13:00,840] to become a member of the School of Mentors.
+- [00:13:00,840 - 00:13:02,240] I can't wait to see you on the inside.
+- [00:13:02,240 - 00:13:03,079] With that being said,
+- [00:13:03,079 - 00:13:04,460] let's go get this next interview.
+- [00:13:04,460 - 00:13:05,319] Excuse me, sir.
+- [00:13:05,319 - 00:13:06,160] Sir.
+- [00:13:06,160 - 00:13:08,079] How old were you when you made your first million?
+- [00:13:09,720 - 00:13:10,560] That's personal.
+- [00:13:10,560 - 00:13:11,640] Well, what line of business are you in?
+- [00:13:11,640 - 00:13:12,699] Right now, I'm a representative
+- [00:13:12,699 - 00:13:13,819] for the great state of Montana.
+- [00:13:13,819 - 00:13:15,040] Actually, what were you doing prior
+- [00:13:15,040 - 00:13:16,000] to getting into politics?
+- [00:13:16,000 - 00:13:16,840] And just for context,
+- [00:13:16,840 - 00:13:18,400] I started one of the biggest business media channels
+- [00:13:18,400 - 00:13:19,240] in the world to get advice
+- [00:13:19,240 - 00:13:20,080] for the younger generation.
+- [00:13:20,080 - 00:13:21,460] I'm not here to ask about politics,
+- [00:13:21,460 - 00:13:22,420] just for advice for younger people.
+- [00:13:22,420 - 00:13:23,260] Well, I'll tell you what,
+- [00:13:23,260 - 00:13:24,760] I grew up without anything.
+- [00:13:24,760 - 00:13:26,040] I managed to get to college,
+- [00:13:26,040 - 00:13:27,060] was successful there,
+- [00:13:27,060 - 00:13:28,720] got a job at New York University
+- [00:13:28,720 - 00:13:29,560] as a research scientist.
+- [00:13:29,560 - 00:13:30,400] NYU?
+- [00:13:30,400 - 00:13:31,240] Yeah, NYU.
+- [00:13:31,240 - 00:13:32,080] I taught there for a couple of years,
+- [00:13:32,080 - 00:13:32,920] left there,
+- [00:13:32,920 - 00:13:34,600] did a startup company that I merged with Yahoo
+- [00:13:34,600 - 00:13:35,620] when they first started out.
+- [00:13:35,620 - 00:13:36,820] So Yahoo bought your company?
+- [00:13:36,820 - 00:13:37,740] God bless America.
+- [00:13:37,740 - 00:13:38,640] You said Yahoo bought your company?
+- [00:13:38,640 - 00:13:40,960] We did a pooling of interest merger in the 90s.
+- [00:13:40,960 - 00:13:42,380] My company became Yahoo.
+- [00:13:42,380 - 00:13:44,300] We pooled our shares.
+- [00:13:44,300 - 00:13:45,140] Oh, my goodness.
+- [00:13:45,140 - 00:13:46,680] After that, I tried to help other people
+- [00:13:46,680 - 00:13:47,520] do the same thing,
+- [00:13:47,520 - 00:13:48,960] did a lot of angel financing,
+- [00:13:48,960 - 00:13:50,200] early stage tech venture.
+- [00:13:50,200 - 00:13:51,260] September 11th happened,
+- [00:13:51,260 - 00:13:52,600] I got upset, joined the Air Force,
+- [00:13:52,600 - 00:13:55,500] so I was doing combat search and rescue in Afghanistan,
+- [00:13:55,500 - 00:13:57,340] but I'll say this country's been good to me.
+- [00:13:57,340 - 00:13:58,600] Yeah, I was the unplanned pregnancy
+- [00:13:58,600 - 00:13:59,840] of an unwed teenage mom.
+- [00:13:59,840 - 00:14:00,860] Look what I was able to do.
+- [00:14:00,860 - 00:14:02,980] I think about that girl trying to figure out
+- [00:14:02,980 - 00:14:04,520] what was in store for her.
+- [00:14:04,520 - 00:14:06,100] Raising me obviously gave me life,
+- [00:14:06,100 - 00:14:07,200] gave me faith,
+- [00:14:07,200 - 00:14:08,720] this country gave me opportunity,
+- [00:14:08,720 - 00:14:10,040] God gave me a plan,
+- [00:14:10,040 - 00:14:11,200] and look what I was able to do.
+- [00:14:11,200 - 00:14:12,580] That girl, three months ago,
+- [00:14:12,580 - 00:14:13,740] flew to Washington, D.C.,
+- [00:14:13,740 - 00:14:15,460] and saw her son get sworn into Congress.
+- [00:14:15,460 - 00:14:16,300] God bless America.
+- [00:14:16,300 - 00:14:17,140] Congratulations, sir.
+- [00:14:17,140 - 00:14:17,980] Wait, real quick,
+- [00:14:17,980 - 00:14:18,820] let me ask you this then.
+- [00:14:18,820 - 00:14:20,140] What common mistake do you see business owners
+- [00:14:20,140 - 00:14:20,980] make in today's world
+- [00:14:20,980 - 00:14:21,820] that prevents them from having success?
+- [00:14:21,820 - 00:14:22,660] Well, here's the thing,
+- [00:14:22,660 - 00:14:24,400] the secret to overnight success
+- [00:14:24,400 - 00:14:25,800] is to keep turning the crank.
+- [00:14:25,800 - 00:14:26,940] People take their eye off the ball.
+- [00:14:26,940 - 00:14:28,300] You gotta just keep turning that crank,
+- [00:14:28,300 - 00:14:29,920] keep trying to get the ball down the field.
+- [00:14:29,920 - 00:14:31,480] What happens is people get distracted
+- [00:14:31,480 - 00:14:32,320] and they stop that,
+- [00:14:32,320 - 00:14:33,500] put in the time to do it.
+- [00:14:33,500 - 00:14:35,180] Every overnight success that I know
+- [00:14:35,180 - 00:14:37,020] took years to do it of turning that crank.
+- [00:14:37,020 - 00:14:37,880] So you thought in decades,
+- [00:14:37,880 - 00:14:38,720] not short term,
+- [00:14:38,720 - 00:14:39,540] you thought very long term.
+- [00:14:39,540 - 00:14:40,700] Well, I think you need to think in decades.
+- [00:14:40,700 - 00:14:41,940] You need to just keep working,
+- [00:14:41,940 - 00:14:42,980] pushing that ball forward,
+- [00:14:42,980 - 00:14:44,300] and eventually,
+- [00:14:44,300 - 00:14:46,020] if you have the discipline to do that,
+- [00:14:46,020 - 00:14:47,180] you're gonna look behind you and go,
+- [00:14:47,180 - 00:14:48,260] oh my gosh, look what I built.
+- [00:14:48,260 - 00:14:49,319] I think that's the biggest thing
+- [00:14:49,319 - 00:14:50,660] is they're not focused on that.
+- [00:14:50,660 - 00:14:52,100] You just gotta keep doing,
+- [00:14:52,100 - 00:14:52,939] keep building,
+- [00:14:52,939 - 00:14:53,760] keep showing up.
+- [00:14:53,760 - 00:14:54,800] Back in my tech days,
+- [00:14:54,800 - 00:14:56,030] it was not uncommon for us
+- [00:14:56,030 - 00:14:57,260] to work 20 hours a day.
+- [00:14:57,260 - 00:14:58,220] And I'm not exaggerating.
+- [00:14:58,220 - 00:14:59,700] I mean, you'd sleep here and there
+- [00:14:59,700 - 00:15:01,100] when you couldn't focus anymore.
+- [00:15:01,100 - 00:15:02,900] You'd get your four hours of sleep at night
+- [00:15:02,900 - 00:15:04,340] and you'd just be back working again.
+- [00:15:04,340 - 00:15:05,180] That's what we did.
+- [00:15:05,180 - 00:15:06,000] That's what we all did.
+- [00:15:06,000 - 00:15:06,819] Here's the thing,
+- [00:15:06,819 - 00:15:07,660] people say, oh, you got lucky.
+- [00:15:07,660 - 00:15:08,500] I'm gonna tell you,
+- [00:15:08,500 - 00:15:09,340] the harder you work,
+- [00:15:09,340 - 00:15:10,180] the luckier you get.
+- [00:15:10,180 - 00:15:11,020] But let me ask you this though.
+- [00:15:11,020 - 00:15:11,860] Oh my gosh.
+- [00:15:11,860 - 00:15:13,180] So what are you trying to accomplish in Capitol Hill?
+- [00:15:13,180 - 00:15:15,220] I wanna make sure that the America
+- [00:15:15,220 - 00:15:16,260] that was so good to me,
+- [00:15:16,260 - 00:15:18,090] that made it so that a
+- [00:15:18,090 - 00:15:19,920] kid born to a single mom,
+- [00:15:19,920 - 00:15:21,840] somebody that has no family connections,
+- [00:15:21,840 - 00:15:22,680] no family money,
+- [00:15:22,680 - 00:15:23,819] can do what I was able to do.
+- [00:15:23,819 - 00:15:24,920] And I think that's being squandered.
+- [00:15:24,920 - 00:15:25,880] I think that brass ring
+- [00:15:25,880 - 00:15:27,360] is farther and farther and farther away.
+- [00:15:27,360 - 00:15:29,040] I mean, lack of fiscal constraint.
+- [00:15:29,040 - 00:15:29,920] There's so many things
+- [00:15:29,920 - 00:15:31,500] that have made that harder and harder to do.
+- [00:15:31,500 - 00:15:32,460] We need to claw that back.
+- [00:15:32,460 - 00:15:34,600] I worry how a family starting out now,
+- [00:15:34,600 - 00:15:36,020] somebody starting a small business,
+- [00:15:36,020 - 00:15:37,080] doesn't have to be technology,
+- [00:15:37,080 - 00:15:37,920] any kind of business.
+- [00:15:37,920 - 00:15:40,080] I worry about how that family
+- [00:15:40,080 - 00:15:42,140] ever has a path to buy their first home,
+- [00:15:42,140 - 00:15:43,180] which is the bedrock,
+- [00:15:43,180 - 00:15:44,560] the cornerstone of the American dream.
+- [00:15:44,560 - 00:15:45,500] And we need to fight back.
+- [00:15:45,500 - 00:15:46,260] And I think a big part of it
+- [00:15:46,260 - 00:15:47,720] is just fiscal constraints,
+- [00:15:47,720 - 00:15:49,100] starting to reign things back
+- [00:15:49,100 - 00:15:50,760] so that the United States of America
+- [00:15:50,760 - 00:15:53,040] is the promise that it always has been.
+- [00:15:53,040 - 00:15:53,920] That shining beacon,
+- [00:15:53,920 - 00:15:55,800] that American dream is still possible.
+- [00:15:55,800 - 00:15:56,640] Thank you, sir.
+- [00:15:56,640 - 00:15:57,480] I appreciate you.
+- [00:15:57,480 - 00:15:58,300] Have a great day.
+- [00:15:58,300 - 00:15:59,439] We just got another congressman
+- [00:15:59,439 - 00:16:01,220] out here in the US House of Representatives.
+- [00:16:01,220 - 00:16:02,380] Went from being a professor
+- [00:16:02,380 - 00:16:04,700] to building a startup that was merged with Yahoo,
+- [00:16:04,700 - 00:16:06,120] a multi-billion dollar company.
+- [00:16:06,120 - 00:16:07,840] And again, just gave you guys some incredible advice
+- [00:16:07,840 - 00:16:08,720] for all the entrepreneurs
+- [00:16:08,720 - 00:16:09,880] and the younger generation out there, man.
+- [00:16:09,880 - 00:16:11,200] Washington DC has been crazy, man.
+- [00:16:11,200 - 00:16:12,100] These congressmen are dropping
+- [00:16:12,100 - 00:16:13,140] some straight game for you guys.
+- [00:16:13,140 - 00:16:13,980] Come on.
+- [00:16:13,980 - 00:16:14,819] Excuse me, sir.
+- [00:16:14,819 - 00:16:15,640] Question for you.
+- [00:16:15,640 - 00:16:16,960] Have you ever been broke before?
+- [00:16:16,960 - 00:16:17,800] Yes.
+- [00:16:17,800 - 00:16:18,640] Yeah?
+- [00:16:18,640 - 00:16:19,169] And what do you do for
+- [00:16:19,169 - 00:16:19,699] living out here in Washington DC?
+- [00:16:19,699 - 00:16:20,600] I work in this building.
+- [00:16:20,600 - 00:16:21,420] Capitol?
+- [00:16:21,420 - 00:16:22,260] Yeah, in the Capitol building.
+- [00:16:22,260 - 00:16:23,100] What do you do?
+- [00:16:23,100 - 00:16:23,939] I'm a member of Congress.
+- [00:16:23,939 - 00:16:24,880] You're a member of Congress?
+- [00:16:24,880 - 00:16:25,720] Yes.
+- [00:16:25,720 - 00:16:27,880] Like in the Senate or House of Representatives?
+- [00:16:27,880 - 00:16:29,060] Oh, House, House of Representatives.
+- [00:16:29,060 - 00:16:29,900] You're a representative?
+- [00:16:29,900 - 00:16:30,720] Yep.
+- [00:16:30,720 - 00:16:31,560] In the US level?
+- [00:16:31,560 - 00:16:32,400] Yes.
+- [00:16:32,400 - 00:16:33,240] Are you serious?
+- [00:16:34,060 - 00:16:34,900] What's your name?
+- [00:16:34,900 - 00:16:35,740] Byron Donalds.
+- [00:16:35,740 - 00:16:36,580] Byron Donalds?
+- [00:16:36,580 - 00:16:37,420] Could I interview you for a minute real quick?
+- [00:16:37,420 - 00:16:38,240] I go all over the world interviewing the most successful
+- [00:16:38,240 - 00:16:39,140] people to help the younger generation.
+- [00:16:39,140 - 00:16:39,980] You think I could get a minute
+- [00:16:39,980 - 00:16:40,819] of your time real quick?
+- [00:16:40,819 - 00:16:41,640] Yeah, sure, of course.
+- [00:16:41,640 - 00:16:42,460] Is that okay?
+- [00:16:42,460 - 00:16:44,100] What's the turning point like getting into politics?
+- [00:16:44,100 - 00:16:44,890] Did you always know that
+- [00:16:44,890 - 00:16:45,680] you were gonna become a member
+- [00:16:45,680 - 00:16:47,600] of Congress and work in one of the highest levels
+- [00:16:47,600 - 00:16:49,180] of office that you could possibly hold?
+- [00:16:49,180 - 00:16:51,340] No, my business was in finance.
+- [00:16:51,340 - 00:16:52,620] I was in life settlements,
+- [00:16:52,620 - 00:16:53,980] viaduct settlements at the time.
+- [00:16:53,980 - 00:16:55,450] And when the economy was
+- [00:16:55,450 - 00:16:56,920] kind of blowing up in 2008,
+- [00:16:56,920 - 00:16:58,660] I had to do research for my firm.
+- [00:16:58,660 - 00:17:00,920] And that's when I started watching politics
+- [00:17:00,920 - 00:17:01,940] and getting engaged.
+- [00:17:01,940 - 00:17:03,680] And I was about 30 at the time,
+- [00:17:03,680 - 00:17:04,819] but this was not a dream
+- [00:17:04,819 - 00:17:05,960] as a kid or in college
+- [00:17:05,960 - 00:17:06,800] or nothing like that.
+- [00:17:06,800 - 00:17:07,960] So you have a finance background?
+- [00:17:07,960 - 00:17:08,800] Mm-hmm.
+- [00:17:08,800 - 00:17:10,020] 17 years, I'm securities licensed.
+- [00:17:10,020 - 00:17:12,000] What's an economic truth that most politicians
+- [00:17:12,000 - 00:17:12,460] are afraid to say?
+- [00:17:12,460 - 00:17:13,579] Or that they're afraid to admit?
+- [00:17:13,579 - 00:17:15,119] Can't borrow money forever.
+- [00:17:15,119 - 00:17:17,339] The more money we borrow, the more it costs us.
+- [00:17:17,339 - 00:17:19,040] And what most people don't understand
+- [00:17:19,040 - 00:17:21,099] is when you increase the nation's debt,
+- [00:17:21,099 - 00:17:23,119] it actually destroys the purchasing power
+- [00:17:23,119 - 00:17:24,339] of every American.
+- [00:17:24,339 - 00:17:26,180] The people who suffer most are poor people,
+- [00:17:26,180 - 00:17:27,420] seniors on fixed incomes.
+- [00:17:27,420 - 00:17:29,040] So at some point we have to pay that back.
+- [00:17:29,040 - 00:17:31,640] Yeah, at some point we gotta stop borrowing as much.
+- [00:17:31,640 - 00:17:34,760] Right now, let's slow down the trajectory of our borrowings.
+- [00:17:34,760 - 00:17:37,320] Let's get there first and then really plan a way
+- [00:17:37,320 - 00:17:38,490] over the next couple of decades
+- [00:17:38,490 - 00:17:39,660] to start paying down the debt.
+- [00:17:39,660 - 00:17:40,620] How have you made your money work for you?
+- [00:17:40,620 - 00:17:41,660] What are you putting your money into right now?
+- [00:17:41,660 - 00:17:43,040] My firm trades on my behalf.
+- [00:17:43,040 - 00:17:44,100] I don't trade securities.
+- [00:17:44,100 - 00:17:44,360] Why not?
+- [00:17:44,360 - 00:17:46,400] Well, one, I think it's unethical for members to trade.
+- [00:17:46,400 - 00:17:47,840] Because I have information that people don't.
+- [00:17:47,840 - 00:17:48,830] Have you seen a lot of
+- [00:17:48,830 - 00:17:49,820] members of Congress do that before?
+- [00:17:49,820 - 00:17:50,320] Oh, yeah.
+- [00:17:50,320 - 00:17:51,140] Oh, yeah.
+- [00:17:51,140 - 00:17:52,520] Former Speaker Pelosi has done
+- [00:17:52,520 - 00:17:53,900] quite well in the stock market.
+- [00:17:53,900 - 00:17:54,800] People don't know why.
+- [00:17:54,800 - 00:17:56,200] You get a $150 billion
+- [00:17:56,200 - 00:17:57,600] net worth off a $100,000 salary.
+- [00:17:57,600 - 00:17:59,480] You've seen some people get real rich off of politics.
+- [00:17:59,480 - 00:17:59,900] Yeah.
+- [00:17:59,900 - 00:18:02,240] And I think that's really what's messed this place up.
+- [00:18:02,240 - 00:18:04,040] Because that's where I say it becomes about you
+- [00:18:04,040 - 00:18:05,280] and not about the people that sent you.
+- [00:18:05,280 - 00:18:06,330] If you do this job right,
+- [00:18:06,330 - 00:18:07,380] you lose money on this deal.
+- [00:18:07,380 - 00:18:09,080] What was your first moment in Washington, DC,
+- [00:18:09,080 - 00:18:10,130] when you were like, oh,
+- [00:18:10,130 - 00:18:11,180] this is how this really works?
+- [00:18:11,660 - 00:18:12,620] Oh, man.
+- [00:18:12,620 - 00:18:16,200] That was probably our third day here.
+- [00:18:16,200 - 00:18:16,700] Yeah?
+- [00:18:16,700 - 00:18:16,860] Yeah.
+- [00:18:16,860 - 00:18:17,360] What happened?
+- [00:18:17,360 - 00:18:18,900] Well, so actually, when I got sworn in,
+- [00:18:18,900 - 00:18:21,200] the third day I was here was January 6.
+- [00:18:21,200 - 00:18:22,220] So we got sworn in.
+- [00:18:22,220 - 00:18:24,380] Three days later, we were doing the certification
+- [00:18:24,380 - 00:18:25,280] of the 20 election.
+- [00:18:25,280 - 00:18:26,980] And that was a day.
+- [00:18:26,980 - 00:18:28,900] But what have you learned from being in Congress?
+- [00:18:28,900 - 00:18:30,190] Like, you've been behind doors
+- [00:18:30,190 - 00:18:31,480] that most Americans will never
+- [00:18:31,480 - 00:18:31,980] see.
+- [00:18:31,980 - 00:18:33,360] What's something that you've seen
+- [00:18:33,360 - 00:18:34,740] that would shock most people?
+- [00:18:34,740 - 00:18:35,780] I think what would shock people here
+- [00:18:35,780 - 00:18:37,160] is that most members are afraid.
+- [00:18:37,160 - 00:18:38,240] They're afraid of criticism.
+- [00:18:38,240 - 00:18:39,920] They're afraid of make the tough
+- [00:18:39,920 - 00:18:41,600] choice and do the right thing.
+- [00:18:41,600 - 00:18:43,020] It's a tough choice to make in the moment,
+- [00:18:43,020 - 00:18:44,219] but it's going to be the best thing
+- [00:18:44,219 - 00:18:45,360] for the future of the country.
+- [00:18:45,360 - 00:18:46,090] It's one of the things
+- [00:18:46,090 - 00:18:46,820] that makes me kind of sad
+- [00:18:46,820 - 00:18:47,540] about this place.
+- [00:18:47,540 - 00:18:50,000] Because if we just didn't worry about the fear quotient
+- [00:18:50,000 - 00:18:52,439] and actually just were bold and did the right things,
+- [00:18:52,439 - 00:18:54,060] the country would be significantly better off.
+- [00:18:54,060 - 00:18:55,219] Have you seen power corrupt people?
+- [00:18:55,219 - 00:18:55,580] Oh, yeah.
+- [00:18:55,580 - 00:18:56,860] That's why I believe in term limits.
+- [00:18:56,860 - 00:18:58,199] You should not stay here forever.
+- [00:18:58,199 - 00:18:58,899] You got to go home.
+- [00:18:58,899 - 00:19:00,439] Who holds the power in DC?
+- [00:19:00,439 - 00:19:01,600] The president, obviously.
+- [00:19:01,600 - 00:19:04,100] The president, speaker of the House, Senate majority leader.
+- [00:19:04,100 - 00:19:06,199] But I would argue that the real power in DC
+- [00:19:06,199 - 00:19:08,280] is really if a cluster of members
+- [00:19:08,280 - 00:19:10,600] are willing to stand firm for something.
+- [00:19:10,600 - 00:19:11,600] Because at the end of the day, it's
+- [00:19:11,600 - 00:19:14,060] going to be in Washington, everybody's counting votes.
+- [00:19:14,060 - 00:19:15,099] And if you don't have
+- [00:19:15,099 - 00:19:16,139] enough votes to get a majority
+- [00:19:16,139 - 00:19:18,199] to move something off the floor, nothing happens.
+- [00:19:18,199 - 00:19:20,240] What's the toughest decision you had to make in politics?
+- [00:19:20,240 - 00:19:21,219] Oh, man.
+- [00:19:21,219 - 00:19:23,240] When I got nominated for speaker at the beginning
+- [00:19:23,240 - 00:19:24,040] of my second term.
+- [00:19:24,040 - 00:19:24,740] You were at the House?
+- [00:19:24,740 - 00:19:25,740] Yeah, I got nominated.
+- [00:19:25,740 - 00:19:27,860] We were having a difference of agreement
+- [00:19:27,860 - 00:19:29,580] on how the House should operate.
+- [00:19:29,580 - 00:19:31,580] And there were a group of members
+- [00:19:31,580 - 00:19:34,120] that opposed Speaker McCarthy at the time.
+- [00:19:34,120 - 00:19:35,129] And the group was trying
+- [00:19:35,129 - 00:19:36,139] to figure out who to nominate.
+- [00:19:36,139 - 00:19:37,919] And they were like, we want to nominate you.
+- [00:19:37,919 - 00:19:38,820] And I'm like, what?
+- [00:19:38,820 - 00:19:41,219] And so I remember that day so well.
+- [00:19:41,220 - 00:19:42,670] I had to go into the
+- [00:19:42,670 - 00:19:44,120] side room, pray, call my wife.
+- [00:19:44,120 - 00:19:45,290] I think I could really
+- [00:19:45,290 - 00:19:46,460] sense the gravity at the moment.
+- [00:19:46,460 - 00:19:48,500] Because we're trying to select a speaker at the House.
+- [00:19:48,500 - 00:19:50,220] The whole world is watching this thing.
+- [00:19:50,220 - 00:19:51,720] And my name moves forward.
+- [00:19:51,720 - 00:19:52,560] And it's funny, too.
+- [00:19:52,560 - 00:19:53,720] We're over here by the steps.
+- [00:19:53,720 - 00:19:55,460] And I remember Manu Raju, CNN.
+- [00:19:55,460 - 00:19:57,040] We came out after I got nominated.
+- [00:19:57,040 - 00:19:58,080] And we come out on the steps.
+- [00:19:58,080 - 00:19:59,610] And the whole press corps
+- [00:19:59,610 - 00:20:01,140] is coming out this massive gaggle.
+- [00:20:01,140 - 00:20:03,050] And Manu Raju, CNN goes,
+- [00:20:03,050 - 00:20:04,960] are you concerned about retribution?
+- [00:20:04,960 - 00:20:05,840] And I looked at him.
+- [00:20:05,840 - 00:20:06,600] And I just deadpan.
+- [00:20:06,600 - 00:20:08,340] I go, man, I'm 6'2", 275.
+- [00:20:08,340 - 00:20:09,460] I'm not worried about that.
+- [00:20:09,460 - 00:20:10,220] Not worried about it.
+- [00:20:10,220 - 00:20:10,920] I love it.
+- [00:20:10,920 - 00:20:12,800] That was probably a defining moment for me.
+- [00:20:12,800 - 00:20:14,420] What's your long-term goal in politics?
+- [00:20:14,420 - 00:20:15,640] I'm running for governor now.
+- [00:20:15,640 - 00:20:16,870] So we'll see if the
+- [00:20:16,870 - 00:20:18,100] people of Florida will elect me.
+- [00:20:18,100 - 00:20:19,420] Running for governor of Florida?
+- [00:20:19,420 - 00:20:20,100] I am.
+- [00:20:20,100 - 00:20:21,300] So we'll see how that goes.
+- [00:20:21,300 - 00:20:21,920] We feel good.
+- [00:20:21,920 - 00:20:23,220] We feel confident about the race.
+- [00:20:23,220 - 00:20:24,510] But I think in politics, like
+- [00:20:24,510 - 00:20:25,800] in life, you're either moving up
+- [00:20:25,800 - 00:20:26,640] or you're moving out.
+- [00:20:26,640 - 00:20:29,100] And anything that is stagnant doesn't go well in life.
+- [00:20:29,100 - 00:20:30,880] I want you to think back to your career.
+- [00:20:30,880 - 00:20:32,840] What was that one conversation that really
+- [00:20:32,840 - 00:20:34,520] changed your trajectory in life?
+- [00:20:34,520 - 00:20:35,220] Oh, man.
+- [00:20:35,220 - 00:20:37,410] My boss, when I was 29,
+- [00:20:37,410 - 00:20:39,600] he said to me, he said, Byron,
+- [00:20:39,600 - 00:20:40,900] whatever you do, get to work.
+- [00:20:40,900 - 00:20:42,700] That's where you want to get to by 40.
+- [00:20:42,700 - 00:20:44,360] He goes, because by 40, that's where you're really
+- [00:20:44,360 - 00:20:45,140] going to make your money.
+- [00:20:45,140 - 00:20:46,500] That's really where you're going to make your mark.
+- [00:20:46,500 - 00:20:48,840] And when you're young, coming into your career,
+- [00:20:48,840 - 00:20:50,080] you want every promotion.
+- [00:20:50,080 - 00:20:51,160] You want every title.
+- [00:20:51,160 - 00:20:52,440] You want every raise.
+- [00:20:52,440 - 00:20:53,540] But I think those early years
+- [00:20:53,540 - 00:20:54,640] are really just a grind for you
+- [00:20:54,640 - 00:20:56,420] to really know how to work, learn about you,
+- [00:20:56,420 - 00:20:58,520] learn about how to work with other people.
+- [00:20:58,520 - 00:21:00,520] That advice really did sink in.
+- [00:21:00,520 - 00:21:01,240] It does matter.
+- [00:21:01,240 - 00:21:02,200] You really just want to kind of get
+- [00:21:02,200 - 00:21:03,560] to where you want to get to by 40.
+- [00:21:03,560 - 00:21:05,900] And then that's really when you take off.
+- [00:21:05,900 - 00:21:07,300] And so look at me.
+- [00:21:07,300 - 00:21:08,080] I'm 46.
+- [00:21:08,080 - 00:21:09,680] But you don't care about what anybody thinks about you.
+- [00:21:09,680 - 00:21:10,060] No.
+- [00:21:10,060 - 00:21:10,360] Why not?
+- [00:21:10,360 - 00:21:10,860] Haters going to hate you.
+- [00:21:10,860 - 00:21:10,880] Yeah.
+- [00:21:10,900 - 00:21:11,200] That's right, man.
+- [00:21:11,200 - 00:21:12,490] If I have it in my
+- [00:21:12,490 - 00:21:13,780] office, I subscribe to the mama mentality.
+- [00:21:13,780 - 00:21:15,300] Haters are a good problem to have.
+- [00:21:15,300 - 00:21:16,060] You got to learn to love it.
+- [00:21:16,060 - 00:21:16,860] Can't worry about it.
+- [00:21:16,860 - 00:21:17,500] Hey, I don't care if
+- [00:21:17,500 - 00:21:18,140] they love me or hate me
+- [00:21:18,140 - 00:21:18,980] as long as they call me.
+- [00:21:18,980 - 00:21:19,420] That's right.
+- [00:21:19,420 - 00:21:20,120] Do you believe in God?
+- [00:21:20,120 - 00:21:20,500] Yes.
+- [00:21:20,500 - 00:21:21,720] Has faith been important for you?
+- [00:21:21,720 - 00:21:22,640] It's been huge.
+- [00:21:22,640 - 00:21:24,460] I gave my life to Christ at 21.
+- [00:21:24,460 - 00:21:25,960] And I think that I was lost, man.
+- [00:21:25,960 - 00:21:26,920] Did you have some low points?
+- [00:21:26,920 - 00:21:27,360] Oh, yeah.
+- [00:21:27,360 - 00:21:29,660] 18, 19, 20, I had some real low points.
+- [00:21:29,660 - 00:21:30,160] Like what?
+- [00:21:30,160 - 00:21:31,140] Got arrested at 18.
+- [00:21:31,140 - 00:21:32,040] Got arrested at 20.
+- [00:21:32,040 - 00:21:33,880] Was really not where I needed to be.
+- [00:21:33,880 - 00:21:35,280] But you didn't fall into that victim mentality.
+- [00:21:35,280 - 00:21:36,560] Because obviously, you didn't let that stop you
+- [00:21:36,560 - 00:21:38,240] from achieving the kind of success you amounted to.
+- [00:21:38,240 - 00:21:38,740] No.
+- [00:21:38,740 - 00:21:39,240] No, no.
+- [00:21:39,240 - 00:21:41,240] Because I had to look myself in the mirror.
+- [00:21:41,240 - 00:21:42,800] And the first decision was, I'm not
+- [00:21:42,800 - 00:21:44,379] going to be in this position ever again.
+- [00:21:44,379 - 00:21:45,800] And that was a decision I made at 20.
+- [00:21:45,800 - 00:21:47,120] You hear the young people say all the time
+- [00:21:47,120 - 00:21:48,080] that the system is rigged.
+- [00:21:48,080 - 00:21:48,720] Do you think it's rigged?
+- [00:21:48,720 - 00:21:50,060] Or are they just missing the playbook?
+- [00:21:50,060 - 00:21:51,200] No, they're missing the playbook.
+- [00:21:51,200 - 00:21:52,159] They didn't open it up.
+- [00:21:52,159 - 00:21:52,679] Run the play.
+- [00:21:52,679 - 00:21:54,379] You gave your life to Christ at 21 years old.
+- [00:21:54,379 - 00:21:54,560] Yeah.
+- [00:21:54,560 - 00:21:55,960] Why did you make that decision that young?
+- [00:21:55,960 - 00:21:57,480] And why has that been such a consistent factor
+- [00:21:57,480 - 00:21:58,840] from 21 to 46 years old?
+- [00:21:58,840 - 00:22:00,800] When I gave my life to Christ, God really
+- [00:22:00,800 - 00:22:02,040] had been dealing with me and my spirit.
+- [00:22:02,040 - 00:22:03,240] At its core, he was
+- [00:22:03,240 - 00:22:04,440] basically like, stop running from me.
+- [00:22:04,440 - 00:22:05,520] What are you running from me for?
+- [00:22:05,520 - 00:22:06,600] I remember I was working.
+- [00:22:06,600 - 00:22:08,700] I was a waiter at Cracker Barrel in college.
+- [00:22:08,700 - 00:22:11,520] And the table I was waiting on was this revival,
+- [00:22:11,520 - 00:22:13,480] a bunch of ladies from a revival and the pastor.
+- [00:22:13,480 - 00:22:15,180] And I asked them to pray over my life.
+- [00:22:15,180 - 00:22:15,720] And they did.
+- [00:22:15,720 - 00:22:16,470] And I gave my life
+- [00:22:16,470 - 00:22:17,220] to Christ in the parking lot
+- [00:22:17,220 - 00:22:18,420] of Cracker Barrel at 21.
+- [00:22:18,420 - 00:22:20,080] And you see miracles happen after that.
+- [00:22:20,580 - 00:22:21,220] I love that.
+- [00:22:21,720 - 00:22:22,980] You got amazing advice, my friend.
+- [00:22:22,980 - 00:22:23,280] Thanks.
+- [00:22:23,280 - 00:22:24,220] Thank you so much for your time.
+- [00:22:24,220 - 00:22:24,780] What's your name?
+- [00:22:24,780 - 00:22:25,379] Byron.
+- [00:22:25,379 - 00:22:25,680] Byron?
+- [00:22:25,680 - 00:22:26,040] Yeah.
+- [00:22:26,040 - 00:22:26,540] It's great to meet you.
+- [00:22:26,540 - 00:22:27,040] Pleasure.
+- [00:22:27,040 - 00:22:29,500] Guys, Washington DC was amazing.
+- [00:22:29,500 - 00:22:30,899] This is my first time filming here,
+- [00:22:30,900 - 00:22:32,280] but it definitely won't be my last.
+- [00:22:32,280 - 00:22:33,610] But I need you guys to
+- [00:22:33,610 - 00:22:34,940] like and subscribe for amazing content
+- [00:22:34,940 - 00:22:36,420] I've got coming every single week.
+- [00:22:36,420 - 00:22:38,100] And if you are not a member yet, you
+- [00:22:38,100 - 00:22:39,290] need to go down to the
+- [00:22:39,290 - 00:22:40,480] link in the description of this video
+- [00:22:40,480 - 00:22:42,960] to join the School of Mentors, the number one community
+- [00:22:42,960 - 00:22:44,940] for business owners in the entire world.
+- [00:22:44,940 - 00:22:47,100] And the reason why I built the number one community
+- [00:22:47,100 - 00:22:49,220] for business owners is because every single week,
+- [00:22:49,220 - 00:22:52,520] I give you guys direct access to the multimillionaires
+- [00:22:52,520 - 00:22:54,520] and the billionaires that I interview, where literally you
+- [00:22:54,520 - 00:22:56,140] can join, come in, hop on
+- [00:22:56,140 - 00:22:57,760] live calls, and ask your questions,
+- [00:22:57,760 - 00:23:00,060] and speak directly to the people that I interview,
+- [00:23:00,060 - 00:23:00,880] the millionaires and billionaires
+- [00:23:00,880 - 00:23:02,420] and as you see me interview every week,
+- [00:23:02,420 - 00:23:05,020] I give you direct access to them every single week.
+- [00:23:05,020 - 00:23:07,640] Imagine connecting with a multimillionaire or a billionaire
+- [00:23:07,640 - 00:23:08,880] or getting mentored by one.
+- [00:23:08,880 - 00:23:10,180] Watch what would happen to your life.
+- [00:23:10,180 - 00:23:11,310] All you have to do is go
+- [00:23:11,310 - 00:23:12,440] down to the link in the description.
+- [00:23:12,440 - 00:23:13,640] I can't wait to see you on
+- [00:23:13,640 - 00:23:14,840] the inside of the School of Mentors.
+- [00:23:14,840 - 00:23:15,818] With that being said, I'll
+- [00:23:15,818 - 00:23:16,796] see you in the next video.
