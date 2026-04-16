@@ -1,0 +1,550 @@
+# Transcript
+
+Source: lazyearn/school-of-hard-knocks/hard-knocks-interviews/075 - Asking Salt Lake City Millionaires How They Got RICH! [90A-xjDipk4].webm
+
+- [00:00:00,680 - 00:00:02,650] Excuse me, sir. Good question for
+- [00:00:02,650 - 00:00:04,620] you, man. Is this your cyber truck?
+- [00:00:04,780 - 00:00:05,180] It is.
+- [00:00:05,300 - 00:00:06,530] And what do you do for living out here in
+- [00:00:06,530 - 00:00:07,760] Salt Lake City to be able to afford this car?
+- [00:00:07,960 - 00:00:09,300] So, ultimately, I started in
+- [00:00:09,300 - 00:00:10,640] the game of real estate and...
+- [00:00:10,640 - 00:00:12,580] Entrepreneurship, man. I'm 36 years
+- [00:00:12,580 - 00:00:14,520] old and I've built 35 companies.
+- [00:00:14,640 - 00:00:15,900] What has been the most amount of money
+- [00:00:15,900 - 00:00:17,160] that you've ever made in a single year?
+- [00:00:17,280 - 00:00:18,810] We've done over $600 million
+- [00:00:18,810 - 00:00:20,340] in the last decade or so.
+- [00:00:20,440 - 00:00:21,180] Over $10 million.
+- [00:00:21,660 - 00:00:22,940] Eight figures. Clear $10 million.
+- [00:00:23,460 - 00:00:24,480] How many companies do you own?
+- [00:00:24,740 - 00:00:25,220] A lot.
+- [00:00:25,440 - 00:00:25,740] How many?
+- [00:00:25,860 - 00:00:27,140] I'd have to count them up, but several dozen.
+- [00:00:27,140 - 00:00:28,960] I could start over today at a
+- [00:00:28,960 - 00:00:30,780] job that pays me $3,000 a month,
+- [00:00:30,860 - 00:00:32,150] and in less than a year, I
+- [00:00:32,150 - 00:00:33,440] would be back to being a millionaire.
+- [00:00:33,560 - 00:00:34,480] What is your net worth now?
+- [00:00:36,840 - 00:00:39,070] Salt Lake City is home to some of
+- [00:00:39,070 - 00:00:41,300] the most successful entrepreneurs in the entire world.
+- [00:00:41,580 - 00:00:43,020] And today, we're going to be going
+- [00:00:43,020 - 00:00:44,460] around the wealthiest parts of Salt Lake City
+- [00:00:44,460 - 00:00:46,010] to ask some of these successful
+- [00:00:46,010 - 00:00:47,560] business owners how they became wealthy
+- [00:00:47,560 - 00:00:49,300] and how you can start your
+- [00:00:49,300 - 00:00:51,040] path to becoming financially free in 2024.
+- [00:00:51,460 - 00:00:52,670] So, with that being said, let's
+- [00:00:52,670 - 00:00:53,880] get this video on the way.
+- [00:00:57,140 - 00:01:27,120] Salt Lake City
+- [00:01:27,140 - 00:01:29,140] Totally broke. Came to Utah with $50.
+- [00:01:29,700 - 00:01:31,680] So, how'd you turn $50 into $600 million?
+- [00:01:32,040 - 00:01:32,400] Execution.
+- [00:01:32,780 - 00:01:33,140] Execution.
+- [00:01:33,380 - 00:01:33,740] Execution.
+- [00:01:33,780 - 00:01:35,390] And I go all over the country just
+- [00:01:35,390 - 00:01:37,000] asking business owners their advice to young entrepreneurs.
+- [00:01:37,200 - 00:01:38,060] Is it cool if we ask
+- [00:01:38,060 - 00:01:38,920] you a few questions for the channel?
+- [00:01:39,080 - 00:01:39,720] Yeah, totally cool.
+- [00:01:39,840 - 00:01:41,180] What was the best financial decision
+- [00:01:41,180 - 00:01:42,520] that you made throughout your career?
+- [00:01:42,660 - 00:01:44,430] Building the biggest Bitcoin mining
+- [00:01:44,430 - 00:01:46,200] facility in Utah in 2014.
+- [00:01:46,520 - 00:01:48,240] You built the biggest Bitcoin mining facility?
+- [00:01:48,420 - 00:01:49,960] By mistake, because we're a computer company.
+- [00:01:50,120 - 00:01:51,700] We were sitting on a bunch of video
+- [00:01:51,700 - 00:01:53,280] cards, and we're like, well, let's hook them up.
+- [00:01:53,580 - 00:01:54,660] And we started mining Bitcoin.
+- [00:01:54,820 - 00:01:56,060] So, how long have you been in crypto for?
+- [00:01:56,060 - 00:01:57,060] Since 2004.
+- [00:01:57,140 - 00:01:57,480] Since 2013.
+- [00:01:57,740 - 00:01:58,940] Is crypto the future of our economy?
+- [00:01:59,100 - 00:02:00,140] I believe it's a big piece of it.
+- [00:02:00,200 - 00:02:00,560] How so?
+- [00:02:00,640 - 00:02:02,280] I believe the government is going
+- [00:02:02,280 - 00:02:03,920] to release the central bank, digital currency,
+- [00:02:04,160 - 00:02:07,180] and most real-world assets will all be tokenized.
+- [00:02:07,340 - 00:02:08,580] And we've already seen this
+- [00:02:08,580 - 00:02:09,820] with BlackRock starting to tokenize.
+- [00:02:09,919 - 00:02:11,100] Have you ever met a billionaire before?
+- [00:02:11,300 - 00:02:12,870] Yes, I have a few mentors that
+- [00:02:12,870 - 00:02:14,440] are, and they've taught me the ways.
+- [00:02:14,520 - 00:02:15,570] What was your lowest point
+- [00:02:15,570 - 00:02:16,620] in your career as an entrepreneur?
+- [00:02:16,880 - 00:02:19,890] I hired a very bad marketing manager, and
+- [00:02:19,890 - 00:02:22,900] he lost $800,000 of my money in 90 days.
+- [00:02:22,900 - 00:02:24,440] And this is when I didn't have a
+- [00:02:24,440 - 00:02:25,980] lot, and it almost put me out of business.
+- [00:02:26,120 - 00:02:27,120] How did you come back from that?
+- [00:02:27,179 - 00:02:29,139] We had to lay off 75 people
+- [00:02:29,139 - 00:02:31,100] because of that mistake that was made.
+- [00:02:31,459 - 00:02:33,599] And so, what I did is got back to
+- [00:02:33,599 - 00:02:35,739] basics, dotted all the I's, crossed all the T's,
+- [00:02:35,859 - 00:02:37,569] hired great tax people, accountants, all
+- [00:02:37,569 - 00:02:39,279] that, to look at all the books,
+- [00:02:39,480 - 00:02:41,600] talked to mentors, framed it out, executed.
+- [00:02:42,019 - 00:02:43,880] And within 12 months, we'd recovered.
+- [00:02:44,000 - 00:02:45,000] And if you lost everything tomorrow,
+- [00:02:45,000 - 00:02:46,000] could you make it all back?
+- [00:02:46,119 - 00:02:46,480] Absolutely.
+- [00:02:46,720 - 00:02:47,140] How so?
+- [00:02:47,320 - 00:02:47,579] Selling.
+- [00:02:47,779 - 00:02:48,779] And how can somebody break
+- [00:02:48,779 - 00:02:49,779] into the tech industry in 2024?
+- [00:02:49,980 - 00:02:51,340] Well, when I started in the
+- [00:02:51,340 - 00:02:52,700] early 90s, the internet was new,
+- [00:02:52,820 - 00:02:54,000] and everybody thought it was a scam.
+- [00:02:54,299 - 00:02:55,709] So, I embraced it because I thought a
+- [00:02:55,709 - 00:02:57,119] lot of people would be getting on there,
+- [00:02:57,179 - 00:02:58,920] and having problems they needed solved.
+- [00:02:59,040 - 00:03:00,559] That same thing is going to
+- [00:03:00,559 - 00:03:02,079] happen right now with blockchain and AI.
+- [00:03:02,260 - 00:03:05,859] It's 1992 all the way again now.
+- [00:03:06,000 - 00:03:08,250] So, that fresh opportunity is there
+- [00:03:08,250 - 00:03:10,500] with undiscovered billions to be made.
+- [00:03:10,619 - 00:03:11,619] You got amazing advice, sir.
+- [00:03:11,739 - 00:03:12,600] Thank you so much for your time.
+- [00:03:12,700 - 00:03:13,320] I appreciate you.
+- [00:03:13,420 - 00:03:15,099] So, my guy's done over $600
+- [00:03:15,099 - 00:03:16,779] million over the last 10 years,
+- [00:03:16,820 - 00:03:18,760] and he just dropped some amazing advice for you guys.
+- [00:03:18,859 - 00:03:20,600] We're on our way to go get our next interview,
+- [00:03:20,700 - 00:03:22,700] but I've got a very special announcement to make.
+- [00:03:22,700 - 00:03:24,840] Next week, on June 4th, we're launching
+- [00:03:24,840 - 00:03:26,980] the official School of Hard Knocks community.
+- [00:03:27,179 - 00:03:28,679] Otherwise known as the School of Mentors.
+- [00:03:28,859 - 00:03:30,839] In this community, you'll be able to hop
+- [00:03:30,839 - 00:03:32,820] on live calls with 7, 8, and 9-figure entrepreneurs
+- [00:03:32,820 - 00:03:34,410] to ask them questions about your
+- [00:03:34,410 - 00:03:36,000] career, your life, and your business.
+- [00:03:36,160 - 00:03:37,669] You'll be able to network with
+- [00:03:37,669 - 00:03:39,179] and learn directly from these multi-millionaires
+- [00:03:39,179 - 00:03:40,799] that we interview every single week.
+- [00:03:40,920 - 00:03:41,659] You do not want to
+- [00:03:41,659 - 00:03:42,399] miss out on any of this.
+- [00:03:42,480 - 00:03:44,150] So, click the link down in the description
+- [00:03:44,150 - 00:03:45,820] below to join the Hard Knocks community waitlist.
+- [00:03:45,980 - 00:03:47,109] We'll see you on the inside
+- [00:03:47,109 - 00:03:48,239] next week, but with that being said,
+- [00:03:48,320 - 00:03:49,440] let's go get this next interview.
+- [00:03:49,440 - 00:03:50,600] We are now in the
+- [00:03:50,600 - 00:03:51,760] hidden hills of Salt Lake City
+- [00:03:51,760 - 00:03:53,669] to interview one of the most
+- [00:03:53,669 - 00:03:55,579] renowned entrepreneurs out here, Chris Krohn.
+- [00:03:55,660 - 00:03:57,119] This guy has owned hundreds of millions of dollars,
+- [00:03:57,179 - 00:03:58,959] businesses, and has done billions of
+- [00:03:58,959 - 00:04:00,739] dollars in sales throughout his career.
+- [00:04:00,880 - 00:04:01,869] We're here at his estate right
+- [00:04:01,869 - 00:04:02,859] here out in Salt Lake City.
+- [00:04:02,980 - 00:04:03,790] We're going to go throughout
+- [00:04:03,790 - 00:04:04,600] what he was able to do
+- [00:04:04,600 - 00:04:05,699] to become one of the
+- [00:04:05,699 - 00:04:06,799] most successful entrepreneurs in the game.
+- [00:04:06,880 - 00:04:08,000] Let's go see what he has to say.
+- [00:04:11,220 - 00:04:12,299] What's up, guys? How are you doing?
+- [00:04:12,700 - 00:04:13,399] Good to see you, man.
+- [00:04:13,480 - 00:04:13,799] James?
+- [00:04:13,959 - 00:04:14,339] Yes, sir.
+- [00:04:14,540 - 00:04:16,899] What industry did you decide to pursue a career in?
+- [00:04:17,000 - 00:04:19,079] So, ultimately, I started in the game of real estate
+- [00:04:19,079 - 00:04:21,500] and started with a small portfolio of 25 homes
+- [00:04:21,500 - 00:04:22,790] that meant that when I graduated college,
+- [00:04:22,790 - 00:04:24,080] I didn't need to get a job.
+- [00:04:24,200 - 00:04:26,260] But then, from there, it turned into thousands of homes.
+- [00:04:26,380 - 00:04:26,919] Thousands of homes.
+- [00:04:26,940 - 00:04:27,120] Yeah.
+- [00:04:27,159 - 00:04:28,419] So, how long have you been in real estate for?
+- [00:04:28,520 - 00:04:28,979] 20 years.
+- [00:04:29,120 - 00:04:30,419] What has been the most amount of money
+- [00:04:30,419 - 00:04:31,719] that you've ever made in a single year?
+- [00:04:31,780 - 00:04:32,380] Clear $10 million.
+- [00:04:32,900 - 00:04:33,500] Over $10 million.
+- [00:04:34,000 - 00:04:35,680] And there's a big misconception in today's world
+- [00:04:35,680 - 00:04:36,940] that you have to have a ton of
+- [00:04:36,940 - 00:04:38,200] money to start creating wealth in real estate.
+- [00:04:38,300 - 00:04:39,539] What would you say is that first move,
+- [00:04:39,599 - 00:04:40,799] that first actionable step that somebody
+- [00:04:40,799 - 00:04:42,000] can take in real estate today
+- [00:04:42,000 - 00:04:43,099] to start generating some wealth?
+- [00:04:43,180 - 00:04:43,740] I house hacked.
+- [00:04:43,860 - 00:04:45,210] I mean, I put a 3%
+- [00:04:45,210 - 00:04:46,560] down payment on my very first house,
+- [00:04:46,659 - 00:04:47,539] bought it below market,
+- [00:04:47,659 - 00:04:49,080] so that meant that I could strip the equity out,
+- [00:04:49,140 - 00:04:50,500] and that house bought my next house
+- [00:04:50,500 - 00:04:52,080] because about how I bought the second house,
+- [00:04:52,159 - 00:04:53,260] that house bought my third house.
+- [00:04:53,380 - 00:04:55,039] And that's how it erupted into a big portfolio.
+- [00:04:55,140 - 00:04:56,000] And I just learned early on,
+- [00:04:56,060 - 00:04:56,860] you actually don't need money,
+- [00:04:57,140 - 00:04:59,539] credit to really transact real estate in high volume.
+- [00:04:59,659 - 00:05:00,380] Are you a business owner?
+- [00:05:00,520 - 00:05:00,680] Yeah.
+- [00:05:00,840 - 00:05:01,840] How many companies do you own?
+- [00:05:02,099 - 00:05:02,560] A lot.
+- [00:05:02,780 - 00:05:03,080] How many?
+- [00:05:03,200 - 00:05:04,520] I'd have to count them up, but several dozen.
+- [00:05:04,680 - 00:05:05,720] What's the most common mistake
+- [00:05:05,720 - 00:05:06,760] that you see business owners make
+- [00:05:06,760 - 00:05:08,680] that prevents them from scaling and having that longevity?
+- [00:05:08,940 - 00:05:09,820] They trust their accountants.
+- [00:05:09,900 - 00:05:10,979] They trust their CFOs.
+- [00:05:11,120 - 00:05:11,880] You're the CFO.
+- [00:05:11,979 - 00:05:12,820] If you're the business owner,
+- [00:05:12,940 - 00:05:14,340] the language of business is accounting,
+- [00:05:14,500 - 00:05:15,640] which means you have to
+- [00:05:15,640 - 00:05:16,780] learn to read your own financials.
+- [00:05:16,820 - 00:05:17,979] You have to understand what a margin is.
+- [00:05:18,000 - 00:05:19,260] You have to know what your gross revenue is.
+- [00:05:19,260 - 00:05:20,340] You have to know what your expenses are.
+- [00:05:20,440 - 00:05:22,340] And if you're trusting a controller or an accountant
+- [00:05:22,340 - 00:05:23,820] to basically serve that up to you,
+- [00:05:23,860 - 00:05:25,979] then you can be good at maybe making revenue,
+- [00:05:26,099 - 00:05:26,740] but the reality is,
+- [00:05:26,740 - 00:05:27,840] you're not going to keep very much of it
+- [00:05:27,840 - 00:05:28,780] if you're trusting someone else
+- [00:05:28,780 - 00:05:30,180] to help figure that component out for you.
+- [00:05:30,360 - 00:05:31,460] So what is a lesson about money
+- [00:05:31,460 - 00:05:32,380] that you would teach to somebody
+- [00:05:32,380 - 00:05:33,600] that they won't learn in business school?
+- [00:05:33,760 - 00:05:34,600] Financial arbitrage.
+- [00:05:34,760 - 00:05:35,800] So the game is,
+- [00:05:35,900 - 00:05:36,820] if I can borrow money
+- [00:05:36,820 - 00:05:37,740] at 3% or 5% or 7%,
+- [00:05:37,740 - 00:05:38,950] but I can earn 25%
+- [00:05:38,950 - 00:05:40,160] or 50% or 100% on it,
+- [00:05:40,200 - 00:05:41,420] all I'm really doing to build wealth
+- [00:05:41,420 - 00:05:43,180] is I'm borrowing money at cheap rates,
+- [00:05:43,220 - 00:05:44,980] and then I'm putting investments at high rates,
+- [00:05:45,040 - 00:05:46,500] and I'm just the arbitrage is the delta.
+- [00:05:46,640 - 00:05:47,180] It's the middle part.
+- [00:05:47,180 - 00:05:48,940] That part's for me for being smart enough
+- [00:05:48,940 - 00:05:51,040] to not trust other people with my money instead.
+- [00:05:51,260 - 00:05:52,340] I can learn how to play that game.
+- [00:05:52,480 - 00:05:54,260] And majority of Americans are living paycheck to paycheck.
+- [00:05:54,440 - 00:05:55,120] From your perspective,
+- [00:05:55,300 - 00:05:56,720] what keeps people broke in today's world?
+- [00:05:56,800 - 00:05:58,000] They're taking advice from poor people.
+- [00:05:58,120 - 00:05:59,240] Poor people are teaching poor people
+- [00:05:59,240 - 00:06:00,160] how to become more poor.
+- [00:06:00,560 - 00:06:00,960] And that's weird,
+- [00:06:01,020 - 00:06:01,880] because they're like crabs in a bucket,
+- [00:06:01,940 - 00:06:03,220] and they're basically pulling everyone down.
+- [00:06:03,320 - 00:06:04,420] And that's the nightmare of the game.
+- [00:06:04,520 - 00:06:05,920] You have to free yourself from that game.
+- [00:06:05,980 - 00:06:06,820] And the number one fear,
+- [00:06:06,980 - 00:06:08,080] when I really get down to it,
+- [00:06:08,120 - 00:06:09,760] like what keeps people from jumping in
+- [00:06:09,760 - 00:06:10,420] and finding a mentor
+- [00:06:10,420 - 00:06:11,860] and making very different financial choices
+- [00:06:11,860 - 00:06:12,780] and learning how to invest,
+- [00:06:12,860 - 00:06:13,760] is they're afraid they're going to lose
+- [00:06:13,760 - 00:06:14,480] their family and friends.
+- [00:06:14,620 - 00:06:15,740] And the truth is, you will.
+- [00:06:15,740 - 00:06:17,960] You will lose some of your family and friends.
+- [00:06:18,080 - 00:06:18,520] They're going to say,
+- [00:06:18,640 - 00:06:19,900] financially, that's too weird,
+- [00:06:19,920 - 00:06:20,540] and that's too different.
+- [00:06:20,600 - 00:06:22,020] But for every person you lose,
+- [00:06:22,160 - 00:06:22,880] you're going to open up
+- [00:06:22,880 - 00:06:24,360] into a whole new world of other people
+- [00:06:24,360 - 00:06:25,100] that are going to inspire
+- [00:06:25,100 - 00:06:26,240] even deeper greatness in you.
+- [00:06:26,260 - 00:06:27,320] Hey, that was phenomenal, bro.
+- [00:06:27,340 - 00:06:27,920] I appreciate you.
+- [00:06:27,980 - 00:06:28,840] That was awesome, man.
+- [00:06:28,940 - 00:06:30,000] So my guy Chris just dropped
+- [00:06:30,000 - 00:06:30,860] some incredible advice
+- [00:06:30,860 - 00:06:32,240] for all the young entrepreneurs out there,
+- [00:06:32,260 - 00:06:33,880] but I've got another special surprise for you.
+- [00:06:34,180 - 00:06:35,900] We are here at Keaton Hoskins' house.
+- [00:06:36,260 - 00:06:37,480] Keaton has owned and operated
+- [00:06:37,480 - 00:06:40,280] over 30 businesses over the last 20 years.
+- [00:06:40,320 - 00:06:41,700] And we're here to get his secrets
+- [00:06:41,700 - 00:06:42,480] on how he's became
+- [00:06:42,480 - 00:06:43,920] one of the most successful entrepreneurs
+- [00:06:43,920 - 00:06:45,460] in the entire country.
+- [00:06:45,760 - 00:06:46,620] So with that being said,
+- [00:06:46,880 - 00:06:48,280] come with me to see what Keaton has to say.
+- [00:06:54,360 - 00:07:00,920] What industry did you decide
+- [00:07:00,920 - 00:07:01,720] to pursue a career in?
+- [00:07:02,160 - 00:07:02,760] Entrepreneurship, man.
+- [00:07:02,800 - 00:07:04,060] I'm 36 years old
+- [00:07:04,060 - 00:07:05,760] and I've built 35 companies
+- [00:07:05,760 - 00:07:07,320] from the time I was 21.
+- [00:07:07,640 - 00:07:08,940] So all the industries,
+- [00:07:09,080 - 00:07:10,720] any industry I could start a business in,
+- [00:07:10,780 - 00:07:11,840] that was the industry I was in.
+- [00:07:11,980 - 00:07:13,360] What has been the most amount of money
+- [00:07:13,360 - 00:07:14,560] that you've ever made in a single year?
+- [00:07:14,560 - 00:07:16,040] This is going to sound really stupid,
+- [00:07:16,220 - 00:07:17,620] but I don't know how much money
+- [00:07:17,620 - 00:07:19,240] I've made in the last four years.
+- [00:07:19,420 - 00:07:20,000] I don't, I mean,
+- [00:07:20,000 - 00:07:21,160] I know that sounds really bad,
+- [00:07:21,220 - 00:07:22,840] but I still currently,
+- [00:07:22,840 - 00:07:24,340] I own four companies now.
+- [00:07:24,500 - 00:07:25,520] I have no idea.
+- [00:07:25,680 - 00:07:26,360] Over $10 million.
+- [00:07:26,840 - 00:07:27,520] I can say that.
+- [00:07:27,600 - 00:07:28,060] Over $10 million.
+- [00:07:28,160 - 00:07:28,380] Yeah.
+- [00:07:28,520 - 00:07:29,840] What's been the best financial advice
+- [00:07:29,840 - 00:07:30,800] that you've ever received
+- [00:07:30,800 - 00:07:31,500] throughout your career?
+- [00:07:31,640 - 00:07:32,140] Two things.
+- [00:07:32,280 - 00:07:33,520] I live and die by saying,
+- [00:07:33,620 - 00:07:35,360] you should learn how to downgrade your lifestyle
+- [00:07:35,360 - 00:07:36,580] so you can upgrade your life.
+- [00:07:36,700 - 00:07:38,420] Most people live paycheck to paycheck.
+- [00:07:38,720 - 00:07:40,040] One in four millionaires
+- [00:07:40,040 - 00:07:41,620] still live paycheck to paycheck
+- [00:07:41,620 - 00:07:43,160] because they refuse to downgrade
+- [00:07:43,160 - 00:07:44,640] their lifestyle for a moment
+- [00:07:44,640 - 00:07:46,220] so they can upgrade their life.
+- [00:07:46,340 - 00:07:48,160] Now, if you decide to do that,
+- [00:07:48,280 - 00:07:50,360] then my second piece of advice is
+- [00:07:50,360 - 00:07:52,200] you should only dump money
+- [00:07:52,200 - 00:07:53,140] into two things.
+- [00:07:53,260 - 00:07:54,120] Personal investment
+- [00:07:54,120 - 00:07:54,820] into you
+- [00:07:54,820 - 00:07:56,360] and investing into your company.
+- [00:07:56,520 - 00:07:56,980] That's it.
+- [00:07:57,040 - 00:07:57,920] You shouldn't be spending money
+- [00:07:57,920 - 00:07:58,620] anywhere else.
+- [00:07:58,940 - 00:08:00,260] If it's not to help you grow
+- [00:08:00,260 - 00:08:01,460] or your business grow,
+- [00:08:01,560 - 00:08:03,020] you should not be spending money
+- [00:08:03,020 - 00:08:04,340] until you have so much money
+- [00:08:04,340 - 00:08:05,640] that you don't know what to do with.
+- [00:08:05,740 - 00:08:07,000] The more money I put into me,
+- [00:08:07,100 - 00:08:07,980] the more money I make.
+- [00:08:08,060 - 00:08:09,320] The more money I put into my business,
+- [00:08:09,460 - 00:08:10,720] the more money my business makes.
+- [00:08:10,820 - 00:08:12,100] It's all about investing
+- [00:08:12,100 - 00:08:13,580] into two things.
+- [00:08:13,740 - 00:08:14,800] You and the business.
+- [00:08:15,020 - 00:08:15,980] Let's talk about that a little bit
+- [00:08:15,980 - 00:08:16,480] because a lot of people
+- [00:08:16,480 - 00:08:17,180] don't make some money
+- [00:08:17,180 - 00:08:18,560] and they'll instantly want to diversify
+- [00:08:18,560 - 00:08:19,720] and jump from industry to industry.
+- [00:08:19,860 - 00:08:20,600] How important for you
+- [00:08:20,600 - 00:08:21,860] has it been becoming an expert,
+- [00:08:21,960 - 00:08:22,540] the best in the world
+- [00:08:22,540 - 00:08:23,100] at one thing
+- [00:08:23,100 - 00:08:23,920] or just a few things?
+- [00:08:24,120 - 00:08:25,300] As opposed to trying to diversify
+- [00:08:25,300 - 00:08:26,320] and jump from industry to industry.
+- [00:08:26,360 - 00:08:27,620] Dude, fuck diversifying.
+- [00:08:27,800 - 00:08:28,820] Fuck portfolios.
+- [00:08:28,980 - 00:08:29,740] Go deep.
+- [00:08:29,880 - 00:08:31,200] That means find one thing
+- [00:08:31,200 - 00:08:31,780] and go deep.
+- [00:08:31,900 - 00:08:33,700] There's no person on this earth
+- [00:08:33,700 - 00:08:35,080] that did 40 things
+- [00:08:35,080 - 00:08:36,280] with a shotgun approach
+- [00:08:36,280 - 00:08:37,500] and made a ton of money
+- [00:08:37,500 - 00:08:38,320] in 40 different things.
+- [00:08:38,360 - 00:08:39,000] They didn't do it.
+- [00:08:39,120 - 00:08:40,919] Now, most people will tell you
+- [00:08:40,919 - 00:08:41,620] that's what they're doing.
+- [00:08:41,700 - 00:08:42,220] They're not.
+- [00:08:42,299 - 00:08:43,140] They made their money
+- [00:08:43,140 - 00:08:44,440] in one thing.
+- [00:08:44,700 - 00:08:45,700] They found one thing
+- [00:08:45,700 - 00:08:46,900] and they went hard as shit.
+- [00:08:47,020 - 00:08:47,840] Everybody comes to me
+- [00:08:47,840 - 00:08:48,100] and they're like,
+- [00:08:48,140 - 00:08:48,940] hey, I got 100 grand.
+- [00:08:49,160 - 00:08:50,140] I want to do stock market.
+- [00:08:50,340 - 00:08:51,120] I want to do Bitcoin.
+- [00:08:51,380 - 00:08:52,280] I want to start a business.
+- [00:08:52,280 - 00:08:53,240] I want to buy a business.
+- [00:08:53,340 - 00:08:53,840] I want to do this.
+- [00:08:53,900 - 00:08:54,100] I want to...
+- [00:08:54,100 - 00:08:54,780] No, no, no, no, no.
+- [00:08:54,920 - 00:08:55,940] Find one thing
+- [00:08:55,940 - 00:08:57,120] that you can get behind.
+- [00:08:57,280 - 00:08:58,040] As human beings,
+- [00:08:58,140 - 00:08:59,180] our capability is huge.
+- [00:08:59,280 - 00:09:00,340] But at 20%
+- [00:09:00,340 - 00:09:01,080] that I'm giving
+- [00:09:01,080 - 00:09:02,380] to five different things,
+- [00:09:02,460 - 00:09:03,320] I'll never be able
+- [00:09:03,320 - 00:09:04,240] to reach anything
+- [00:09:04,240 - 00:09:05,280] of significance
+- [00:09:05,280 - 00:09:06,220] in those things.
+- [00:09:06,340 - 00:09:07,300] If I put 100%
+- [00:09:07,300 - 00:09:08,080] in one thing,
+- [00:09:08,160 - 00:09:09,500] I'll crush that one thing.
+- [00:09:09,640 - 00:09:11,060] Have you ever been broke before?
+- [00:09:11,420 - 00:09:12,460] Honestly, no.
+- [00:09:12,640 - 00:09:13,020] I mean, dude,
+- [00:09:13,040 - 00:09:13,660] when I was 21,
+- [00:09:13,740 - 00:09:14,360] I had 100 bucks
+- [00:09:14,360 - 00:09:14,920] in my bank account.
+- [00:09:14,980 - 00:09:15,920] When my father passed away,
+- [00:09:15,940 - 00:09:16,600] I had 100 bucks
+- [00:09:16,600 - 00:09:17,280] in my bank account.
+- [00:09:17,400 - 00:09:18,260] That, I think,
+- [00:09:18,280 - 00:09:19,460] is as broke as you can be.
+- [00:09:19,460 - 00:09:20,860] And I just vowed
+- [00:09:20,860 - 00:09:21,800] to my dad
+- [00:09:21,800 - 00:09:22,660] that I would never
+- [00:09:22,660 - 00:09:23,460] in my life
+- [00:09:23,460 - 00:09:23,880] be in a place
+- [00:09:23,880 - 00:09:24,980] where I needed somebody
+- [00:09:24,980 - 00:09:25,520] to help me.
+- [00:09:25,600 - 00:09:26,300] That's why I decided
+- [00:09:26,300 - 00:09:26,939] I was going to build
+- [00:09:26,939 - 00:09:28,220] everything on my back.
+- [00:09:28,340 - 00:09:29,640] I've never been given money,
+- [00:09:29,860 - 00:09:30,120] ever.
+- [00:09:30,280 - 00:09:31,340] I've never had an investor
+- [00:09:31,340 - 00:09:31,920] do something.
+- [00:09:31,980 - 00:09:32,720] I mean, other than maybe
+- [00:09:32,720 - 00:09:33,860] buying a house or a car,
+- [00:09:33,960 - 00:09:35,220] I've never been given money.
+- [00:09:35,320 - 00:09:37,000] So, I've never been broke
+- [00:09:37,000 - 00:09:38,100] because I always knew
+- [00:09:38,100 - 00:09:39,040] how to manage money.
+- [00:09:39,160 - 00:09:40,020] I tell people this all the time.
+- [00:09:40,100 - 00:09:41,439] If you can't manage $100,
+- [00:09:41,860 - 00:09:43,260] you can't manage $100,000,
+- [00:09:43,340 - 00:09:44,340] you can't manage a million.
+- [00:09:44,500 - 00:09:44,960] Everybody says,
+- [00:09:45,020 - 00:09:45,700] well, if I had more money,
+- [00:09:45,720 - 00:09:46,260] I would do that.
+- [00:09:46,320 - 00:09:46,860] No, you wouldn't.
+- [00:09:46,860 - 00:09:47,920] You'd blow that shit
+- [00:09:47,920 - 00:09:48,560] and you'd be living
+- [00:09:48,560 - 00:09:49,400] paycheck to paycheck
+- [00:09:49,400 - 00:09:50,540] even if you had $10 million.
+- [00:09:51,020 - 00:09:51,660] So, for me,
+- [00:09:51,780 - 00:09:52,960] I always lived by that
+- [00:09:52,960 - 00:09:54,500] and I never wanted to be broke,
+- [00:09:54,680 - 00:09:55,500] so I wasn't.
+- [00:09:55,520 - 00:09:56,240] The majority of Americans
+- [00:09:56,240 - 00:09:57,320] are living paycheck to paycheck
+- [00:09:57,320 - 00:09:57,960] in today's world.
+- [00:09:58,080 - 00:09:58,480] You even brought up
+- [00:09:58,480 - 00:09:59,360] how one in four millionaires
+- [00:09:59,360 - 00:10:00,260] are living paycheck to paycheck.
+- [00:10:00,440 - 00:10:01,200] From your perspective,
+- [00:10:01,340 - 00:10:02,320] what keeps people broke
+- [00:10:02,320 - 00:10:02,940] in today's world?
+- [00:10:03,120 - 00:10:04,060] They spend too much money
+- [00:10:04,060 - 00:10:05,160] on shit that they don't need.
+- [00:10:05,280 - 00:10:06,280] You don't need to do that.
+- [00:10:06,420 - 00:10:06,800] Like, dude,
+- [00:10:06,840 - 00:10:08,040] I hear people all the time,
+- [00:10:08,180 - 00:10:08,800] the biggest problem
+- [00:10:08,800 - 00:10:09,640] we have in our culture
+- [00:10:09,640 - 00:10:10,620] right now is entitlement.
+- [00:10:10,780 - 00:10:11,420] Everybody thinks
+- [00:10:11,420 - 00:10:12,340] that they're owed something.
+- [00:10:12,460 - 00:10:13,360] You're not owed shit.
+- [00:10:13,360 - 00:10:14,820] No one's coming to save you.
+- [00:10:15,020 - 00:10:16,320] Stop living this fucking life
+- [00:10:16,320 - 00:10:17,660] that you think you deserve.
+- [00:10:17,780 - 00:10:19,040] You don't deserve shit.
+- [00:10:19,140 - 00:10:20,020] Dude, if I went back
+- [00:10:20,020 - 00:10:21,720] and I had to make $3,000 a month,
+- [00:10:21,780 - 00:10:22,420] I'm not kidding.
+- [00:10:22,960 - 00:10:23,980] I would find four roommates,
+- [00:10:24,140 - 00:10:24,860] a place that was
+- [00:10:24,860 - 00:10:25,920] $1,000 a month.
+- [00:10:26,000 - 00:10:26,840] We would split it.
+- [00:10:26,940 - 00:10:28,000] I would be driving Uber
+- [00:10:28,000 - 00:10:29,280] because I wouldn't have a car.
+- [00:10:29,560 - 00:10:30,820] I would be riding my bike.
+- [00:10:30,920 - 00:10:32,260] I would be cooking my meals.
+- [00:10:32,440 - 00:10:33,420] I wouldn't be spending money
+- [00:10:33,420 - 00:10:33,960] on anything.
+- [00:10:34,100 - 00:10:34,720] I'd probably have
+- [00:10:34,720 - 00:10:35,720] the same fucking outfit
+- [00:10:35,720 - 00:10:36,520] every day
+- [00:10:36,520 - 00:10:37,640] because I would stop
+- [00:10:37,640 - 00:10:38,740] spending money on shit
+- [00:10:38,740 - 00:10:39,400] that I don't need.
+- [00:10:39,700 - 00:10:40,760] Dude, you've got people
+- [00:10:40,760 - 00:10:41,620] in Africa wearing
+- [00:10:41,620 - 00:10:42,560] the same clothes,
+- [00:10:42,560 - 00:10:44,020] eating one meal a day.
+- [00:10:44,160 - 00:10:45,320] They're not spending any money.
+- [00:10:45,520 - 00:10:46,160] And you're telling me
+- [00:10:46,160 - 00:10:47,240] you can't live like that?
+- [00:10:47,320 - 00:10:48,140] That's garbage, dude.
+- [00:10:48,220 - 00:10:48,940] You just think
+- [00:10:48,940 - 00:10:50,040] because you live here
+- [00:10:50,040 - 00:10:51,460] that you're owed the house
+- [00:10:51,460 - 00:10:52,040] and the apartment
+- [00:10:52,040 - 00:10:52,660] and the car
+- [00:10:52,660 - 00:10:53,280] and the ring
+- [00:10:53,280 - 00:10:54,040] and the watch.
+- [00:10:54,140 - 00:10:54,680] That's bullshit.
+- [00:10:54,900 - 00:10:55,980] You're not owed any of that.
+- [00:10:56,060 - 00:10:56,880] You didn't earn it.
+- [00:10:56,939 - 00:10:57,900] And until you earn it,
+- [00:10:57,959 - 00:10:58,920] you can't have it.
+- [00:10:59,000 - 00:10:59,459] My assistant,
+- [00:10:59,600 - 00:11:00,160] he's from Mexico.
+- [00:11:00,439 - 00:11:01,219] All the people,
+- [00:11:01,459 - 00:11:01,900] usually,
+- [00:11:02,040 - 00:11:02,959] that come across from Mexico,
+- [00:11:03,120 - 00:11:03,839] they're the hardest workers.
+- [00:11:03,900 - 00:11:04,319] You know why?
+- [00:11:04,400 - 00:11:05,459] Because they're living
+- [00:11:05,459 - 00:11:06,439] in dirt huts.
+- [00:11:06,719 - 00:11:07,500] They have nothing.
+- [00:11:07,680 - 00:11:08,439] They're not expected
+- [00:11:08,439 - 00:11:09,040] to have anything.
+- [00:11:09,040 - 00:11:09,540] They don't have
+- [00:11:09,540 - 00:11:10,400] any entitlement.
+- [00:11:10,540 - 00:11:10,839] They're here,
+- [00:11:10,980 - 00:11:11,280] hey man,
+- [00:11:11,300 - 00:11:12,360] I'm just here to fucking work.
+- [00:11:12,540 - 00:11:13,760] I'm here to build something
+- [00:11:13,760 - 00:11:14,380] and I'm trying to make
+- [00:11:14,380 - 00:11:15,380] as much money as I can
+- [00:11:15,380 - 00:11:16,140] so I can send it back
+- [00:11:16,140 - 00:11:16,720] to my family.
+- [00:11:17,060 - 00:11:17,900] For some reason,
+- [00:11:18,240 - 00:11:19,540] people here in the United States
+- [00:11:19,540 - 00:11:20,939] think that we're owed something.
+- [00:11:20,940 - 00:11:22,000] We're not owed shit.
+- [00:11:22,180 - 00:11:23,420] You are owed nothing
+- [00:11:23,420 - 00:11:24,280] and your entitlement
+- [00:11:24,280 - 00:11:25,860] is going to keep you broke
+- [00:11:25,860 - 00:11:26,840] the rest of your life.
+- [00:11:26,920 - 00:11:28,300] Oh my God, yo.
+- [00:11:29,120 - 00:11:29,520] Wow.
+- [00:11:29,980 - 00:11:30,940] That was phenomenal.
+- [00:11:31,160 - 00:11:32,600] That's a wrap on today's video, guys.
+- [00:11:32,780 - 00:11:33,600] Salt Lake City's got
+- [00:11:33,600 - 00:11:35,300] some crazy business owners out here.
+- [00:11:35,380 - 00:11:36,120] But I want you to like
+- [00:11:36,120 - 00:11:36,500] and subscribe
+- [00:11:36,500 - 00:11:37,320] for amazing content
+- [00:11:37,320 - 00:11:38,260] coming very soon.
+- [00:11:38,360 - 00:11:39,360] And as I said earlier
+- [00:11:39,360 - 00:11:39,960] in this video,
+- [00:11:40,100 - 00:11:41,360] next week on June 4th,
+- [00:11:41,360 - 00:11:41,840] we're launching
+- [00:11:41,840 - 00:11:43,400] the official School of Hard Knocks
+- [00:11:43,400 - 00:11:43,740] community.
+- [00:11:44,000 - 00:11:45,120] You do not want to miss out on this
+- [00:11:45,120 - 00:11:46,080] because you'll be able to network
+- [00:11:46,080 - 00:11:47,140] with the multi-millionaires
+- [00:11:47,140 - 00:11:47,820] that we interview
+- [00:11:47,820 - 00:11:48,980] every single week.
+- [00:11:49,020 - 00:11:49,740] So click the link
+- [00:11:49,740 - 00:11:50,660] in the description below
+- [00:11:50,660 - 00:11:51,540] to join the Hard Knocks
+- [00:11:51,540 - 00:11:52,280] community today.
+- [00:11:52,560 - 00:11:53,520] We'll see you on the inside
+- [00:11:53,520 - 00:11:54,040] next week.
+- [00:11:54,100 - 00:11:54,880] And with that being said,
+- [00:11:55,020 - 00:11:56,120] we'll see you in the next video.
