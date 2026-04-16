@@ -1,0 +1,135 @@
+# Transcript
+
+Source: lazyearn/school-of-hard-knocks/entrepreneurship/168 - Your favorite rapper didn’t get rich off music [mQenPbfmECk].mkv
+
+- [00:00:00,000 - 00:00:01,970] Have you ever wondered why your favorite rap
+- [00:00:01,970 - 00:00:03,940] artists like Jay-Z and Kanye West became billionaires?
+- [00:00:04,160 - 00:00:06,080] Well, the truth is, your favorite rap artists
+- [00:00:06,080 - 00:00:08,000] didn't get rich off of their music catalog.
+- [00:00:08,420 - 00:00:10,790] Instead, they took strategic risks by making
+- [00:00:10,790 - 00:00:13,160] investments in companies or starting their own.
+- [00:00:13,260 - 00:00:16,340] In this video, I'm going to count down the five top investments
+- [00:00:16,340 - 00:00:19,420] that have been made by some of the wealthiest musicians on the planet.
+- [00:00:19,540 - 00:00:21,070] All these artists I'm going to mention
+- [00:00:21,070 - 00:00:22,600] are great entrepreneurs in their own right.
+- [00:00:22,960 - 00:00:25,300] But for this countdown specifically, I'm not going to
+- [00:00:25,300 - 00:00:27,640] include any companies that were founded by the artists,
+- [00:00:27,640 - 00:00:29,280] such as Kanye West's Yeezy
+- [00:00:29,280 - 00:00:30,920] or Dr. Dre's Beats by Dre.
+- [00:00:31,080 - 00:00:34,260] I'm doing this because I specifically want to point out how
+- [00:00:34,260 - 00:00:37,440] good these artists are at choosing investments to grow their wealth
+- [00:00:37,440 - 00:00:40,100] and how that they turned the money that they
+- [00:00:40,100 - 00:00:42,760] made off their great music catalog into becoming modern-day moguls.
+- [00:00:42,840 - 00:00:45,220] The last deal I'm going to be talking about in this list
+- [00:00:45,220 - 00:00:47,600] is so mind-boggling how the artist was able to land this deal.
+- [00:00:47,920 - 00:00:48,980] It's crazy to think about.
+- [00:00:49,140 - 00:00:51,579] Before we get into the video, comment down below who your favorite rap
+- [00:00:51,579 - 00:00:54,019] artist is and who you think is going to be on this list.
+- [00:00:54,340 - 00:00:55,960] Make sure to hit the subscribe button as well.
+- [00:00:55,960 - 00:00:57,620] First on the list, we got Dre.
+- [00:00:57,800 - 00:01:00,260] Investing into 100 Thieves, an esports company.
+- [00:01:00,460 - 00:01:03,620] In 2018, Drake put up money to be part of
+- [00:01:03,620 - 00:01:06,780] a $25 million fund going into esports company 100 Thieves.
+- [00:01:07,160 - 00:01:10,410] The rapper also partnered with music agent Scooter Braun and Dan
+- [00:01:10,410 - 00:01:13,660] Gilbert, owner of the Cleveland Cavaliers, to invest into this company.
+- [00:01:13,920 - 00:01:17,060] Currently today, 100 Thieves is worth about $460 million.
+- [00:01:17,580 - 00:01:19,620] So you can imagine that Drake has
+- [00:01:19,620 - 00:01:21,660] made a profitable return on his original investment.
+- [00:01:21,660 - 00:01:23,230] But out of all the investments
+- [00:01:23,230 - 00:01:24,800] made by all these wealthy musicians,
+- [00:01:25,200 - 00:01:26,410] why did Drake land on
+- [00:01:26,410 - 00:01:27,620] my list for the top 5?
+- [00:01:27,800 - 00:01:30,000] Well, when thinking about industries
+- [00:01:30,000 - 00:01:32,200] that are growing rapidly right now,
+- [00:01:32,200 - 00:01:34,680] esports is one of those in the entertainment and
+- [00:01:34,680 - 00:01:37,160] gaming industry that is really taking over the space.
+- [00:01:37,160 - 00:01:38,400] Drake is no doubt the
+- [00:01:38,400 - 00:01:39,640] most popular artist on the planet.
+- [00:01:39,640 - 00:01:43,520] But him partnering with an esports company in such a growing industry offers
+- [00:01:43,520 - 00:01:47,400] up a world of opportunities that's going to be around for a long time.
+- [00:01:47,400 - 00:01:48,920] Not only will he be able
+- [00:01:48,920 - 00:01:50,440] to secure brand deals in that space,
+- [00:01:50,440 - 00:01:53,970] but he'll also be able to keep promoting his music to a younger audience
+- [00:01:53,970 - 00:01:57,500] that catches on to games that follows 100 Thieves over the next coming years.
+- [00:01:57,640 - 00:02:00,080] There are already other esports companies that have been
+- [00:02:00,080 - 00:02:02,520] hitting a billion dollar valuation such as FaZe Clan.
+- [00:02:02,520 - 00:02:04,520] They've even taken their company public.
+- [00:02:04,520 - 00:02:06,719] So there's no telling what Drake and his investors
+- [00:02:06,719 - 00:02:08,919] into 100 Thieves are going to be able to do,
+- [00:02:08,919 - 00:02:10,559] taking this esports company to the
+- [00:02:10,559 - 00:02:12,200] next level over the next couple years.
+- [00:02:12,200 - 00:02:14,280] Next coming in at number 4 on the
+- [00:02:14,280 - 00:02:16,360] list is Jay-Z with his investment into Tidal.
+- [00:02:16,360 - 00:02:18,800] Tidal is a music streaming company that is best
+- [00:02:18,800 - 00:02:21,240] known for paying the highest royalties out to the artists.
+- [00:02:21,240 - 00:02:24,200] Jay-Z originally put a $56 million investment into
+- [00:02:24,200 - 00:02:27,160] a different streaming platform and rebranded it as Tidal.
+- [00:02:27,160 - 00:02:29,640] With other artists such as Kanye West,
+- [00:02:29,640 - 00:02:32,120] Rihanna, Nicki Minaj, Daft Punk, and Beyonce.
+- [00:02:32,120 - 00:02:35,640] Jay-Z recently sold the majority stake of Tidal to the
+- [00:02:35,640 - 00:02:39,160] former CEO of Twitter and current CEO of Square, Jack Dorsey.
+- [00:02:39,160 - 00:02:42,880] Through this deal, Jay-Z is partnering with Jack Dorsey as he will be
+- [00:02:42,880 - 00:02:46,600] sitting on the board of directors at Square and taking Tidal to another level.
+- [00:02:46,600 - 00:02:48,720] But how did this original investment of
+- [00:02:48,720 - 00:02:50,840] $56 million into Tidal turn out for Jay-Z?
+- [00:02:50,840 - 00:02:53,240] Square's acquisition of the majority stake
+- [00:02:53,240 - 00:02:55,640] in Tidal was for about $300 million.
+- [00:02:55,640 - 00:02:56,240] So Jay-Z was able to take that $300 million
+- [00:02:56,240 - 00:02:56,840] and put it on the board of directors at Square.
+- [00:02:56,840 - 00:03:00,360] Jay-Z then sold the majority stake in Tidal to another company
+- [00:03:00,360 - 00:03:03,880] and boosted his net worth from $1 billion to $1.4 billion.
+- [00:03:03,880 - 00:03:07,560] After two transactions, Jay-Z made about $400 million.
+- [00:03:07,560 - 00:03:13,480] This move is really great because Jay-Z and the other artists that are working with Tidal are able to elevate the
+- [00:03:13,480 - 00:03:19,400] streaming platform by partnering with a large tech company that has the resources and funds to take it to the next level.
+- [00:03:19,400 - 00:03:22,960] Nas founded a venture capital firm back in 2014 that is investing
+- [00:03:22,960 - 00:03:26,520] in companies like Coinbase and of course the one we're talking about, Ring.
+- [00:03:26,840 - 00:03:28,120] Ring, for example, is the developing partner
+- [00:03:28,120 - 00:03:29,400] of�� president Ali Yaraj behind his reputation.
+- [00:03:29,400 - 00:03:30,560] They are the national financial drives, coinbase orangutans
+- [00:03:30,560 - 00:03:31,720] of China and railway collaborators in the USA.
+- [00:03:31,720 - 00:03:40,650] Theしい are really lucky to have been able
+- [00:03:40,650 - 00:03:49,580] to invest in them because of playing Cardign to
+- [00:03:56,840 - 00:03:59,460] cent, $100 million when the company was
+- [00:03:59,460 - 00:04:02,080] bought by Coca-Cola. The acquisition deal that Coca-Cola
+- [00:04:02,080 - 00:04:05,100] made into Glaciu was for $4.1 billion and 50
+- [00:04:05,100 - 00:04:08,120] Cent's $100 million return off this came from a
+- [00:04:08,120 - 00:04:10,710] 10% investment that he had made into Glaciu back
+- [00:04:10,710 - 00:04:13,300] in 2004. I really like this investment because of
+- [00:04:13,300 - 00:04:15,849] the time that it was made in. In 2004, 50
+- [00:04:15,849 - 00:04:18,399] Cent was at the height of his rap career showing how
+- [00:04:18,399 - 00:04:20,769] important it is to take the earnings that you
+- [00:04:20,769 - 00:04:23,140] make from the thing you do so well and growing
+- [00:04:23,140 - 00:04:25,920] your portfolio. Even something as simple as just
+- [00:04:25,920 - 00:04:28,700] $1.99 water, you know, with different flavors can
+- [00:04:28,700 - 00:04:31,200] end up making you $100 million. Now coming in at
+- [00:04:31,200 - 00:04:33,700] number one on the list for what I think is the
+- [00:04:33,700 - 00:04:36,220] best investment made by a hip-hop artist and
+- [00:04:36,220 - 00:04:38,740] that's Diddy with Ciroc. Ciroc is an alcoholic
+- [00:04:38,740 - 00:04:40,870] beverage brand started by Diageo PLC. They
+- [00:04:40,870 - 00:04:43,000] originally wanted to partner with Diddy because
+- [00:04:43,000 - 00:04:44,920] they needed someone to help promote their new
+- [00:04:44,920 - 00:04:46,840] brand. Diddy maneuvered the deal so well that he
+- [00:04:46,840 - 00:04:49,740] was able to land a 50% stake into Ciroc. Absolutely
+- [00:04:49,740 - 00:04:52,640] blows my mind. So think about at the store whenever
+- [00:04:52,640 - 00:04:52,880] somebody buys a drink, they're like, oh, I want to buy
+- [00:04:52,880 - 00:04:53,120] a drink. I want to buy a drink. I want to
+- [00:04:53,120 - 00:04:53,150] buy a drink. I want to buy a drink. I want to buy
+- [00:04:53,150 - 00:04:53,180] a drink. I want to buy a drink. I want to buy a drink.
+- [00:04:53,180 - 00:04:55,680] If Diddy buys a bottle of Ciroc, Diddy makes
+- [00:04:55,680 - 00:04:58,180] 50% of the profits from that sale. Because of this
+- [00:04:58,180 - 00:05:00,570] initial investment, Diddy now makes eight figures as
+- [00:05:00,570 - 00:05:02,960] a monthly salary coming from Ciroc. And then
+- [00:05:02,960 - 00:05:05,490] he also would get a nine-figure payout if the
+- [00:05:05,490 - 00:05:08,020] company was ever sold. This to me just seems like
+- [00:05:08,020 - 00:05:10,020] one of the most lucrative deals I've ever heard of.
+- [00:05:10,020 - 00:05:12,020] Forget it that it's even a part of a music
+- [00:05:12,020 - 00:05:14,880] artist deal. That Diddy was able to secure
+- [00:05:14,880 - 00:05:17,740] 50% equity into a brand through his investment and
+- [00:05:17,740 - 00:05:20,290] partnership with Diageo PLC. So there you have
+- [00:05:20,290 - 00:05:22,840] it. Those are my five top investments by hip-hop
+- [00:05:22,840 - 00:05:22,970] artists. If you want to learn more about Ciroc, check
+- [00:05:22,970 - 00:05:23,100] out my video on Ciroc.com. And if you want to
+- [00:05:23,120 - 00:05:25,730] comment down below which investment deal made by an
+- [00:05:25,730 - 00:05:28,340] artist you think is the best one to date.
+- [00:05:28,920 - 00:05:31,070] And also give a subscribe to the channel
+- [00:05:31,070 - 00:05:33,220] if you enjoyed this video. And thanks for watching.
