@@ -1,27 +1,26 @@
 # Visual Evidence
 ## Frame Inventory
-- lecture_17_figure_01.png: Exterior NYSE establishing shot with the host approaching a fenced entrance while a guard and an older man stand near the gate; this screenshot should not remain in the final notes except, at most, as a purely contextual cold-open image.
+- No extracted frame assets are available for this lecture.
+- Because no validated screenshots survived selection, no screenshot should remain in the final notes for this chapter.
 
 ## Equation Extraction
-- None. No equations, symbolic expressions, axes, labels, or quantitative board notation are visible in the frame.
+- [visible] None. No board equations, symbolic notation, axis labels, or on-screen quantitative formulas are visible because no validated mathematical frames were kept.
+- [partially visible] None. There are no partial blackboard or slide fragments to transcribe.
+- [standard completion] If the chapter later needs a compact arithmetic expression drawn only from spoken content, the safest optional reconstruction is \( \text{notional value} = (\text{shares})(\text{price per share}) \), based on the transcript’s example of 1,000 shares of a \$400-\$500 stock. This is not frame-derived and should not be presented as visually extracted notation.
 
 ## Diagram Extraction
-- No mathematics diagram is visible.
-- No board structure is visible.
-- No chart, state diagram, flow diagram, or annotated layout is visible.
-- The only potentially preservable visual content is contextual: guarded NYSE facade, fence line, host approaching from the right, and editorial overlay text “Coming up..”.
-- This image should not be redrawn in TikZ, because it contains no formal structure worth reconstructing.
-- If the broader chapter wants one contextual figure for “access friction at Wall Street,” this screenshot could be preserved as a standalone screenshot only, not paired with any mathematical redraw.
+- No diagram should be preserved as a screenshot, because no validated visual asset remains.
+- No TikZ redraw is warranted from the frame set, because there is no board layout, chart, state diagram, or slide geometry to anchor a faithful redraw.
+- If the later notes need structure, use text-native devices rather than figures: a short quantity table for reported scale numbers, or a prose sequence for Tuchman’s “show up, stay visible, meet opportunity” story. These are editorial aids, not diagram extractions.
 
 ## Reconstruction Guidance
-- Do not derive equations from this frame.
-- Do not reconstruct any diagram from this frame.
-- If the chapter includes this asset at all, use it only to support prose about the lecture’s opening situation: approach, refusal risk, guarded financial space, and the host’s attempt to penetrate a wealthy institutional field.
-- Keep all actual mathematical or quasi-formal content transcript-backed rather than frame-backed for this lecture, because the available frame does not carry analytical markings.
-- Treat the image as evidentiary for scene-setting only, not for notation, mechanism diagrams, or quantitative exposition.
+- Build the notes from the transcript, not from absent visuals. Treat this lecture as interview-based commercial reasoning rather than a board-driven derivation.
+- Preserve only cautious quantitative reconstructions that are explicitly supported by spoken arithmetic: Gary Vee’s reported revenue scale, daily trading volume claims, the 1,000-share Visa example, the 1.2 billion shares figure, and the near-trillion-dollar floor estimate.
+- If LaTeX notation is needed, keep it minimal and clearly secondary to the transcript. A simple product formula for notional value is acceptable only as a clean restatement of spoken content, not as a recovered classroom equation.
+- Do not invent charts for AI adoption, attention, cash flow, or “stocks not stuff.” Those ideas are conceptual in the transcript, not visually diagrammed in evidence.
 
 ## Uncertainties
-- The small NYSE signage and ticker strip above the entrance are too distant to read reliably.
-- The “Coming up..” text is editorial packaging, not lecture-native analytical content.
-- The subtitle punctuation appears stylized and should not be treated as a precise textual artifact for formal notes.
-- Because there is no visible board, slide, or chart, any attempt to extract mathematics from this frame would be invention rather than reconstruction.
+- There is no visual evidence to resolve any ambiguity in the transcript.
+- Several transcript phrases are garbled and cannot be corrected from frames: “Find a money license,” “soccer exchange,” and “wave your dead” are likely transcription errors but remain visually uncheckable here.
+- The line “I built a trading strategy around what’s in here” gestures toward an internal method, but no visible notation, sketch, or formula survives to show what that method was.
+- The prompt framing refers to Leonard Susskind and mathematical lecture extraction, but this source is an interview-style Hard Knocks episode with no validated mathematical screenshots; the final notes should reflect that mismatch rather than manufacture physics-style board content.
