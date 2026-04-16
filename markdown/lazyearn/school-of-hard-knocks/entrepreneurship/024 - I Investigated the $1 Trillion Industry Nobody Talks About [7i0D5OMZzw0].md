@@ -1,0 +1,668 @@
+# Transcript
+
+Source: lazyearn/school-of-hard-knocks/hard-knocks-interviews/025 - I Investigated the $1 Trillion Industry Nobody Talks About [7i0D5OMZzw0].webm
+
+- [00:00:00,000 - 00:00:02,580] There's one industry that has quietly created more
+- [00:00:02,580 - 00:00:05,160] billionaires than tech, crypto, or even real estate.
+- [00:00:05,240 - 00:00:07,970] An industry that built dynasties, powered entire
+- [00:00:07,970 - 00:00:10,700] nations, and still fuels untouchable wealth today.
+- [00:00:10,780 - 00:00:13,000] That industry is oil and gas.
+- [00:00:13,120 - 00:00:15,340] And today, we're going straight to the source.
+- [00:00:15,460 - 00:00:18,620] I'm headed out to the literal Texas oil field to meet
+- [00:00:18,620 - 00:00:21,780] with one of the biggest oil moguls in the entire world.
+- [00:00:21,840 - 00:00:23,660] And his name, it's Brent Franklin.
+- [00:00:23,760 - 00:00:26,170] And he's been drilling oil wells all over the
+- [00:00:26,170 - 00:00:28,580] nation while making hundreds of millions of dollars doing so.
+- [00:00:28,580 - 00:00:30,220] We're going to be walking his
+- [00:00:30,220 - 00:00:31,860] rigs, hear how he built his empire,
+- [00:00:32,019 - 00:00:34,109] and how oil and gas continues to
+- [00:00:34,109 - 00:00:36,199] mint millionaires and billionaires even in today's world.
+- [00:00:36,300 - 00:00:37,750] So this video is about to
+- [00:00:37,750 - 00:00:39,200] be insane from start to finish.
+- [00:00:39,500 - 00:00:40,580] So stay tuned until the end.
+- [00:00:40,839 - 00:00:41,939] With that being said, let's
+- [00:00:41,939 - 00:00:43,040] get this video on the way.
+- [00:00:51,599 - 00:00:53,309] Alright you guys, so we just got to
+- [00:00:53,309 - 00:00:55,019] the oil rig out here in El Campo, Texas.
+- [00:00:55,140 - 00:00:56,300] Yes, we are in the middle of nowhere.
+- [00:00:56,300 - 00:00:58,000] But yes, this business.
+- [00:00:58,000 - 00:01:00,300] These oil rigs have made more millionaires and
+- [00:01:00,300 - 00:01:02,600] billionaires than just about any industry in the world.
+- [00:01:02,700 - 00:01:05,400] So I'm going to be interviewing one of the biggest oil moguls
+- [00:01:05,400 - 00:01:08,100] in not just Texas, but in the entire United States, you guys.
+- [00:01:08,180 - 00:01:10,360] So let's go meet up with Brent right now and go
+- [00:01:10,360 - 00:01:12,540] figure out how the hell he even got into this business.
+- [00:01:12,700 - 00:01:15,360] Why this business makes people so rich and how you can
+- [00:01:15,360 - 00:01:18,020] start investing your money and making it work for you in oil.
+- [00:01:18,080 - 00:01:20,430] I never in my life thought that I would
+- [00:01:20,430 - 00:01:22,780] ever be at a damn oil rig right now.
+- [00:01:22,800 - 00:01:24,190] But I got to learn about this
+- [00:01:24,190 - 00:01:25,580] business myself because the returns in oil.
+- [00:01:25,580 - 00:01:26,780] And I've heard it could be more
+- [00:01:26,780 - 00:01:27,980] than real estate, more than the stock market.
+- [00:01:28,060 - 00:01:29,620] So this is going to be a
+- [00:01:29,620 - 00:01:31,180] masterclass on all things oil and gas.
+- [00:01:31,180 - 00:01:32,040] You guys come on.
+- [00:01:32,040 - 00:01:33,040] There he is.
+- [00:01:33,040 - 00:01:35,040] What's going on, brother?
+- [00:01:35,040 - 00:01:36,040] How's it going?
+- [00:01:36,040 - 00:01:37,040] James.
+- [00:01:37,040 - 00:01:38,040] Brent Franklin.
+- [00:01:38,040 - 00:01:39,040] How are you?
+- [00:01:39,040 - 00:01:40,040] Good, man.
+- [00:01:40,040 - 00:01:41,040] It's good to meet you.
+- [00:01:41,040 - 00:01:42,040] Good to meet you as well.
+- [00:01:42,040 - 00:01:43,040] So you own this right here.
+- [00:01:43,040 - 00:01:44,039] I do.
+- [00:01:44,039 - 00:01:45,039] I do.
+- [00:01:45,039 - 00:01:45,539] How the hell did you
+- [00:01:45,539 - 00:01:46,039] even get into oil and gas?
+- [00:01:46,039 - 00:01:47,039] Man, it was crazy.
+- [00:01:47,039 - 00:01:47,539] I was mowing grass right after
+- [00:01:47,539 - 00:01:48,039] I got out of the Navy.
+- [00:01:48,039 - 00:01:48,539] And you know, I got a phone
+- [00:01:48,539 - 00:01:49,039] call from a buddy out in Midland, Odessa.
+- [00:01:49,039 - 00:01:49,539] He's like, hey, man, I got
+- [00:01:49,539 - 00:01:50,039] you a job on an oil rig.
+- [00:01:50,039 - 00:01:50,539] I packed my shit and I
+- [00:01:50,539 - 00:01:51,039] rolled out and got on a rig.
+- [00:01:51,039 - 00:01:51,539] And a couple of years
+- [00:01:51,539 - 00:01:52,039] later, ended up buying a couple.
+- [00:01:52,040 - 00:01:55,540] And you know, now we own
+- [00:01:55,540 - 00:01:59,040] oil and gas business and investment companies.
+- [00:01:59,040 - 00:02:00,820] Now for the people that don't understand how
+- [00:02:00,820 - 00:02:02,600] much money that they can actually make in
+- [00:02:02,600 - 00:02:03,600] oil and gas.
+- [00:02:03,600 - 00:02:04,680] How much money have you made in
+- [00:02:04,680 - 00:02:05,760] the last year through oil and gas?
+- [00:02:05,760 - 00:02:07,780] So our company did about $40 million
+- [00:02:07,780 - 00:02:09,800] last year across all of our platforms.
+- [00:02:09,800 - 00:02:10,800] $40 million.
+- [00:02:10,800 - 00:02:11,800] That's right.
+- [00:02:11,800 - 00:02:12,800] And you don't just own the rig.
+- [00:02:12,800 - 00:02:13,800] You own all aspects of it.
+- [00:02:13,800 - 00:02:14,800] Yeah.
+- [00:02:14,800 - 00:02:15,800] So what we do is simple.
+- [00:02:15,800 - 00:02:17,230] We buy distressed off market
+- [00:02:17,230 - 00:02:18,660] oil and gas investment properties.
+- [00:02:18,660 - 00:02:19,550] And then we go out
+- [00:02:19,550 - 00:02:20,440] there and we fix them up.
+- [00:02:20,440 - 00:02:21,440] We drill wells.
+- [00:02:21,440 - 00:02:22,040] We fix wells.
+- [00:02:22,040 - 00:02:23,960] A lot of people in oil and gas over
+- [00:02:23,960 - 00:02:25,880] leverage their properties or they don't know how to
+- [00:02:25,880 - 00:02:27,280] raise money properly.
+- [00:02:27,280 - 00:02:29,500] And so what we've done is we built a
+- [00:02:29,500 - 00:02:31,720] fund structure that allows people to not only understand,
+- [00:02:31,720 - 00:02:32,930] but invest in it without
+- [00:02:32,930 - 00:02:34,140] having to become an oil company.
+- [00:02:34,140 - 00:02:36,630] Now I want this video to serve as a
+- [00:02:36,630 - 00:02:39,120] masterclass for everybody watching that has no idea why
+- [00:02:39,120 - 00:02:41,220] people can get so rich off of oil and gas.
+- [00:02:41,220 - 00:02:42,320] Can you give us the
+- [00:02:42,320 - 00:02:43,420] blueprint today on how that's possible?
+- [00:02:43,420 - 00:02:44,420] Yeah.
+- [00:02:44,420 - 00:02:45,570] So a lot of people talk about getting
+- [00:02:45,570 - 00:02:46,720] rich off oil and gas and oil field money.
+- [00:02:46,720 - 00:02:48,580] One of my favorite sayings is if you want
+- [00:02:48,580 - 00:02:50,440] to make a small fortune in oil and gas, start
+- [00:02:50,440 - 00:02:51,440] with a large fortune.
+- [00:02:51,440 - 00:02:53,009] It takes a lot of loss, a
+- [00:02:53,009 - 00:02:54,579] lot of headaches in oil and gas.
+- [00:02:54,579 - 00:02:56,520] And it's not just a get rich quick deal.
+- [00:02:56,520 - 00:02:57,640] You have to be consistent.
+- [00:02:57,640 - 00:02:59,050] You have to diversify and you got to
+- [00:02:59,050 - 00:03:00,460] have a risk tolerance, but we're going to dive
+- [00:03:00,460 - 00:03:01,460] in all that today.
+- [00:03:01,460 - 00:03:02,510] And can we actually go up on
+- [00:03:02,510 - 00:03:03,560] the rig as well and check it out?
+- [00:03:03,560 - 00:03:04,560] You want to go up on the rig?
+- [00:03:04,560 - 00:03:05,560] Is that cool?
+- [00:03:05,560 - 00:03:06,560] All right.
+- [00:03:06,560 - 00:03:07,560] Sound of love man.
+- [00:03:07,560 - 00:03:08,560] Before that, is this the office right here?
+- [00:03:08,560 - 00:03:09,560] Yeah.
+- [00:03:09,560 - 00:03:10,560] Yeah.
+- [00:03:10,560 - 00:03:11,560] Let's take a look.
+- [00:03:11,560 - 00:03:12,560] Let's go check it out.
+- [00:03:12,560 - 00:03:13,560] Yeah.
+- [00:03:13,560 - 00:03:14,560] So right here is the camp house for our pusher.
+- [00:03:14,560 - 00:03:15,560] What's going on?
+- [00:03:15,560 - 00:03:16,560] Cameron is our tool pusher.
+- [00:03:16,560 - 00:03:18,000] What he does is he turns around and
+- [00:03:18,000 - 00:03:19,440] he makes sure that the rig is running.
+- [00:03:19,440 - 00:03:20,440] It's a 24 seven operation.
+- [00:03:20,440 - 00:03:21,440] Yeah.
+- [00:03:21,440 - 00:03:22,440] It's a 24 seven operation when we start drilling.
+- [00:03:22,440 - 00:03:23,210] So you've got to have a
+- [00:03:23,210 - 00:03:23,980] team when you're in this business.
+- [00:03:23,980 - 00:03:24,980] Oh man.
+- [00:03:24,980 - 00:03:25,980] You have to have an army.
+- [00:03:25,980 - 00:03:26,960] You have to have people that
+- [00:03:26,960 - 00:03:27,940] know what they're doing that are experienced.
+- [00:03:27,940 - 00:03:29,720] Safety is absolutely super important.
+- [00:03:29,720 - 00:03:31,500] You know, people see oil rigs and oil
+- [00:03:31,500 - 00:03:33,280] wells and they just think, you know, black gold
+- [00:03:33,280 - 00:03:34,280] and money.
+- [00:03:34,280 - 00:03:35,179] But in reality, this is the
+- [00:03:35,179 - 00:03:36,079] most dangerous job in the world.
+- [00:03:36,079 - 00:03:37,840] Is it too late to get into oil and gas?
+- [00:03:37,840 - 00:03:39,420] Right now is the actual perfect time.
+- [00:03:39,420 - 00:03:41,060] You know, what's a different market today?
+- [00:03:41,060 - 00:03:43,000] There's a lot of people that have invested in
+- [00:03:43,000 - 00:03:44,940] oil and gas the same way and it's not turned
+- [00:03:44,940 - 00:03:45,940] out good for them.
+- [00:03:45,940 - 00:03:47,660] Today's market, there's a lack of capital.
+- [00:03:47,660 - 00:03:49,860] There's not as many of these conventional rigs.
+- [00:03:49,860 - 00:03:51,440] People call this old school drilling.
+- [00:03:51,440 - 00:03:52,760] That there used to be.
+- [00:03:52,760 - 00:03:54,060] And it's a dying breed.
+- [00:03:54,060 - 00:03:56,240] You know, we're going to use oil and gas forever.
+- [00:03:56,240 - 00:03:58,280] Natural gas is the cleanest burning fossil fuel
+- [00:03:58,280 - 00:04:00,320] and people don't realize how to get in.
+- [00:04:00,320 - 00:04:02,360] They like the concept of oil and gas,
+- [00:04:02,360 - 00:04:04,400] but they don't know entry points and people can't
+- [00:04:04,400 - 00:04:06,320] invest in things that they don't understand.
+- [00:04:06,320 - 00:04:08,380] So me coming in as an investor, learning the
+- [00:04:08,380 - 00:04:10,440] hard way and taking a ton of losses, getting
+- [00:04:10,440 - 00:04:12,290] taken advantage of by scrupulous oil
+- [00:04:12,290 - 00:04:14,140] companies, being promised the dream by promoters.
+- [00:04:14,140 - 00:04:15,240] I said, you know what?
+- [00:04:15,240 - 00:04:17,060] Money doesn't come from chasing money.
+- [00:04:17,060 - 00:04:18,890] Money comes from chasing problems and
+- [00:04:18,890 - 00:04:20,720] monetizing the solution to those problems.
+- [00:04:20,720 - 00:04:21,320] So what I did is.
+- [00:04:21,320 - 00:04:22,630] I took every problem that I had
+- [00:04:22,630 - 00:04:23,940] as an investor in the oil field.
+- [00:04:23,940 - 00:04:25,890] I put my pen to the pad and I really
+- [00:04:25,890 - 00:04:27,840] wrote out a good plan that works because why do
+- [00:04:27,840 - 00:04:29,040] people invest in oil and gas?
+- [00:04:29,040 - 00:04:30,400] You see it on the ads, right?
+- [00:04:30,400 - 00:04:31,400] Tax benefits.
+- [00:04:31,400 - 00:04:33,540] Oil and gas is one of the only
+- [00:04:33,540 - 00:04:35,680] industries where you can actually write off your investments
+- [00:04:35,680 - 00:04:37,080] against your active income when
+- [00:04:37,080 - 00:04:38,480] the deals are structured properly.
+- [00:04:38,480 - 00:04:40,250] In addition to that, I don't see any
+- [00:04:40,250 - 00:04:42,020] of these multifamily deals or real estate deals that
+- [00:04:42,020 - 00:04:43,020] people are doing.
+- [00:04:43,020 - 00:04:45,230] They can actually get you 100% return of
+- [00:04:45,230 - 00:04:47,440] your investment in less than a year when structured
+- [00:04:47,440 - 00:04:48,440] properly.
+- [00:04:48,440 - 00:04:49,440] So what's going on right here?
+- [00:04:49,440 - 00:04:50,440] What's going on?
+- [00:04:50,440 - 00:04:51,320] Okay.
+- [00:04:51,320 - 00:04:52,320] So we're going to talk about this.
+- [00:04:52,320 - 00:04:54,090] It's called a PaceOn system and up on
+- [00:04:54,090 - 00:04:55,860] our rig floor, we've got our drilling rig equipped
+- [00:04:55,860 - 00:04:57,210] with electronics that let us
+- [00:04:57,210 - 00:04:58,560] know what's going into the ground.
+- [00:04:58,560 - 00:04:59,820] You can imagine going back
+- [00:04:59,820 - 00:05:01,080] into like the 1950s and 1960s.
+- [00:05:01,080 - 00:05:03,020] They didn't have anything like that.
+- [00:05:03,020 - 00:05:04,230] They're just throwing chains and I
+- [00:05:04,230 - 00:05:05,440] can show you some videos of it.
+- [00:05:05,440 - 00:05:06,820] It was really, really unsafe.
+- [00:05:06,820 - 00:05:08,940] But nowadays technology, we're watching everything.
+- [00:05:08,940 - 00:05:11,220] So right here up at the top left, you
+- [00:05:11,220 - 00:05:13,500] can see it tells us exactly our whole depth, which
+- [00:05:13,500 - 00:05:15,719] is 4,599.5 feet.
+- [00:05:15,719 - 00:05:17,659] It tells us exactly where our bit is
+- [00:05:17,659 - 00:05:19,600] and it tells us what we're doing right now.
+- [00:05:19,600 - 00:05:20,940] So right now what we're doing is called tripping.
+- [00:05:20,940 - 00:05:23,480] This is the process of going in or
+- [00:05:23,480 - 00:05:26,020] out of the hole where they're taking pipe joints
+- [00:05:26,020 - 00:05:27,600] and connecting them together.
+- [00:05:27,600 - 00:05:28,870] And we're about to actually go up on the
+- [00:05:28,870 - 00:05:30,140] rig floor and I'll show you all about tripping
+- [00:05:30,140 - 00:05:31,140] in a second.
+- [00:05:31,140 - 00:05:32,700] It also has logs on here.
+- [00:05:32,700 - 00:05:34,210] It tells us, you know, if we're going to
+- [00:05:34,210 - 00:05:35,720] hit any type of gas, what type of formations we're
+- [00:05:35,720 - 00:05:37,860] drilling in, whether it's rock, sand, shell.
+- [00:05:37,860 - 00:05:40,230] And so this is a really, really crucial piece
+- [00:05:40,230 - 00:05:42,600] for Cameron to be able to sit here and understand
+- [00:05:42,600 - 00:05:45,020] what's going on on the rig floor at all times.
+- [00:05:45,020 - 00:05:46,589] Because if you just look out there right
+- [00:05:46,589 - 00:05:48,159] now, you can't really tell what's going on.
+- [00:05:48,159 - 00:05:49,549] So this is kind of like our
+- [00:05:49,549 - 00:05:50,940] electronic eyes and ears on the floor.
+- [00:05:50,940 - 00:05:52,560] I got a bunch of questions for you, but
+- [00:05:52,560 - 00:05:54,180] before we get back into the interview, could we actually
+- [00:05:54,180 - 00:05:55,440] go check out and see the full
+- [00:05:55,440 - 00:05:56,700] operations on what's going on out there?
+- [00:05:56,700 - 00:05:57,700] Oh yeah.
+- [00:05:57,700 - 00:05:58,700] Let's rock and roll.
+- [00:05:58,700 - 00:05:59,700] Let's go.
+- [00:05:59,700 - 00:06:00,700] Let's go check it out.
+- [00:06:00,700 - 00:06:01,700] Save you first, bro.
+- [00:06:01,700 - 00:06:02,700] I got to get this off first.
+- [00:06:02,700 - 00:06:03,700] That's right.
+- [00:06:03,700 - 00:06:04,700] That's right.
+- [00:06:04,700 - 00:06:05,200] So a few things before
+- [00:06:05,200 - 00:06:05,700] we go up on the rig.
+- [00:06:05,700 - 00:06:06,700] Number one is typically you would wear FRC.
+- [00:06:06,700 - 00:06:07,700] These are fire retarded clothing.
+- [00:06:07,700 - 00:06:08,740] This is in case of any type
+- [00:06:08,740 - 00:06:09,780] of burns or heat comes to you.
+- [00:06:09,780 - 00:06:11,780] In oil and gas, everything is heavy.
+- [00:06:11,780 - 00:06:13,400] So there's a lot of sharp objects.
+- [00:06:13,400 - 00:06:14,560] There's a lot of heavy objects
+- [00:06:14,560 - 00:06:15,720] and there's a lot of moving parts.
+- [00:06:15,720 - 00:06:17,940] Right now we're going up on a live drilling rig.
+- [00:06:17,940 - 00:06:18,940] Okay.
+- [00:06:18,940 - 00:06:21,440] So I want to let people know that right now
+- [00:06:21,440 - 00:06:23,940] we're on a well site that has no H2S gas.
+- [00:06:23,940 - 00:06:25,630] Typically we'd wear a monitor called an
+- [00:06:25,630 - 00:06:27,320] H2S monitor, which is always best practice to
+- [00:06:27,320 - 00:06:28,320] have.
+- [00:06:28,320 - 00:06:30,280] But because this well is plugged off at the
+- [00:06:30,280 - 00:06:32,240] bottom and we have all of the well bore basically
+- [00:06:32,240 - 00:06:34,920] sealed off, we know that there's no H2S present.
+- [00:06:34,920 - 00:06:36,370] Typically I'd have you wear this, but today I'm
+- [00:06:36,370 - 00:06:37,820] going to just let you go up here and take
+- [00:06:37,820 - 00:06:38,820] a look at it.
+- [00:06:38,820 - 00:06:39,880] So we are doing this safely
+- [00:06:39,880 - 00:06:40,940] and let's go take a look.
+- [00:06:40,940 - 00:06:42,700] Guys, this video has been insane so far.
+- [00:06:42,700 - 00:06:44,300] We're about to get right back to it, but
+- [00:06:44,300 - 00:06:45,900] I need to let you guys know something real quick.
+- [00:06:45,900 - 00:06:48,940] Look, 99% of people will never in their entire life.
+- [00:06:48,940 - 00:06:51,570] Get the chance to meet with and learn from
+- [00:06:51,570 - 00:06:54,200] an oil mogul, a billionaire or any ultra successful
+- [00:06:54,200 - 00:06:56,700] entrepreneur and ask them questions directly.
+- [00:06:56,700 - 00:06:58,930] But over the last year, guys, I
+- [00:06:58,930 - 00:07:01,160] built the number one most powerful entrepreneur network
+- [00:07:01,160 - 00:07:03,390] in private community for business owners
+- [00:07:03,390 - 00:07:05,620] and entrepreneurs in the entire world.
+- [00:07:05,620 - 00:07:07,760] And it's called the school of mentors.
+- [00:07:07,760 - 00:07:09,970] Every single week, guys, I bring in the
+- [00:07:09,970 - 00:07:12,180] millionaires and billionaires I interview on this channel
+- [00:07:12,180 - 00:07:13,880] and they mentor our members live.
+- [00:07:13,880 - 00:07:16,190] When you join, you literally get one on
+- [00:07:16,190 - 00:07:18,500] one advice and direct mentorship from the most
+- [00:07:18,500 - 00:07:20,820] successful business owners in the entire world.
+- [00:07:20,820 - 00:07:22,920] You will collapse years of trial and
+- [00:07:22,920 - 00:07:25,020] error into just weeks because you're learning from
+- [00:07:25,020 - 00:07:26,920] the most successful people on the planet.
+- [00:07:26,920 - 00:07:28,890] This is the closest thing that you will
+- [00:07:28,890 - 00:07:30,860] ever have to having a billionaire in your corner
+- [00:07:30,860 - 00:07:33,920] and multimillionaires give you advice every single week.
+- [00:07:33,920 - 00:07:35,860] So if you want to join, listen, all you have
+- [00:07:35,860 - 00:07:37,800] to do is go down and click the link at the
+- [00:07:37,800 - 00:07:39,810] description of this video to join the number
+- [00:07:39,810 - 00:07:41,820] one community for business owners in the entire
+- [00:07:41,820 - 00:07:42,820] world.
+- [00:07:42,820 - 00:07:43,820] So I can't wait to see you on the inside.
+- [00:07:43,820 - 00:07:45,760] With that being said, let's get back to the video.
+- [00:07:45,760 - 00:07:46,260] I'm a new person right now, but I think it's
+- [00:07:46,260 - 00:07:46,760] time to go out to the room and see what's
+- [00:07:46,760 - 00:07:47,760] going on.
+- [00:07:47,760 - 00:07:49,020] Right now.
+- [00:07:49,020 - 00:07:50,020] All right, man, be careful.
+- [00:07:50,020 - 00:07:51,020] Hey, by the way, everything's dirty.
+- [00:07:51,020 - 00:07:52,020] Okay, so don't touch nothing.
+- [00:07:52,020 - 00:07:53,020] I got you.
+- [00:07:53,020 - 00:07:54,020] I got you.
+- [00:07:54,020 - 00:07:55,020] Before we head on out there, what exactly is this?
+- [00:07:55,020 - 00:07:56,020] So you know, a lot of
+- [00:07:56,020 - 00:07:57,020] people say, Hey, I got oil rig.
+- [00:07:57,020 - 00:07:58,020] I got oil.
+- [00:07:58,020 - 00:08:01,250] Well, a lot of people don't know
+- [00:08:01,250 - 00:08:04,480] the difference between a rig and a well.
+- [00:08:04,480 - 00:08:06,000] This is a drilling rig.
+- [00:08:06,000 - 00:08:08,360] Okay, back behind me over here.
+- [00:08:08,360 - 00:08:09,360] These are oil wells.
+- [00:08:09,360 - 00:08:10,860] So a lot of people you've heard
+- [00:08:10,860 - 00:08:12,360] him say, Oh, my auntie's got oil rigs.
+- [00:08:12,360 - 00:08:13,620] She probably has oil wells
+- [00:08:13,620 - 00:08:14,880] that are drilled by oil rigs.
+- [00:08:14,880 - 00:08:16,159] So today we're out here.
+- [00:08:16,159 - 00:08:17,159] This is our 850 horsepower.
+- [00:08:17,159 - 00:08:17,760] Okay.
+- [00:08:17,760 - 00:08:18,760] This is our top drive drilling rig.
+- [00:08:18,760 - 00:08:19,760] Let's go check it out.
+- [00:08:19,760 - 00:08:20,760] Let's go.
+- [00:08:20,760 - 00:08:25,760] How much does this thing make a day?
+- [00:08:25,760 - 00:08:28,700] So we charge our customers $15,500 a day
+- [00:08:28,700 - 00:08:31,640] every single day that we operate this drilling rig.
+- [00:08:31,640 - 00:08:33,480] So now we're inside of the doghouse.
+- [00:08:33,480 - 00:08:35,159] This is our main control area.
+- [00:08:35,159 - 00:08:37,720] Once again, this has computers where we can monitor.
+- [00:08:37,720 - 00:08:39,500] We've got the driller standing outside here.
+- [00:08:39,500 - 00:08:41,049] So this is where you know, this is
+- [00:08:41,049 - 00:08:42,600] where the magic happens whenever it comes to drilling.
+- [00:08:42,600 - 00:08:45,100] Did you have a mentor to get into this business?
+- [00:08:45,100 - 00:08:46,130] Whenever I first got into oil and gas,
+- [00:08:46,130 - 00:08:47,160] I was actually out on a drilling rig.
+- [00:08:47,160 - 00:08:48,160] Like this.
+- [00:08:48,160 - 00:08:49,160] I had applied for a job out in Midland, Odessa.
+- [00:08:49,160 - 00:08:50,160] I didn't really know anything about oil and gas.
+- [00:08:50,160 - 00:08:50,660] I just knew how to
+- [00:08:50,660 - 00:08:51,160] move your ass hand, you know?
+- [00:08:51,160 - 00:08:51,660] And so I didn't really
+- [00:08:51,660 - 00:08:52,160] know exactly what I was doing.
+- [00:08:52,160 - 00:08:52,660] I was just on the equipment and
+- [00:08:52,660 - 00:08:53,160] I actually started getting into the investing period
+- [00:08:53,160 - 00:08:54,160] about 2016, 2017.
+- [00:08:54,160 - 00:08:54,660] How much money does somebody need
+- [00:08:54,660 - 00:08:55,160] to start investing into oil and gas?
+- [00:08:55,160 - 00:08:55,660] So oil and gas investments are typically
+- [00:08:55,660 - 00:08:56,160] structured only where accredited investors can participate.
+- [00:08:56,160 - 00:08:56,660] There's a lot of oil and gas
+- [00:08:56,660 - 00:08:57,160] companies that structure their investments wrong and they
+- [00:08:57,160 - 00:08:57,660] try to sell you a piece of a lease
+- [00:08:57,660 - 00:08:58,160] as real estate, but us securities law states that
+- [00:08:58,160 - 00:08:58,660] you can't invest in oil and
+- [00:08:58,660 - 00:08:59,160] gas unless you're a licensed investor.
+- [00:08:59,160 - 00:08:59,660] So you can't invest in oil
+- [00:08:59,660 - 00:09:00,160] and gas unless you're a licensed investor.
+- [00:09:00,160 - 00:09:00,660] So you can't invest in oil
+- [00:09:00,660 - 00:09:01,160] and gas unless you're a licensed investor.
+- [00:09:01,160 - 00:09:11,179] But the first step is that somebody needs
+- [00:09:11,179 - 00:09:21,199] to be an accredited investor and have a substantial
+- [00:09:21,199 - 00:09:25,019] amount of capital and be able to bear
+- [00:09:25,019 - 00:09:28,839] total loss before ever getting in the industry,
+- [00:09:28,839 - 00:09:29,839] regardless of how it's structured.
+- [00:09:29,839 - 00:09:30,839] So $100,000 is a great investment.
+- [00:09:30,839 - 00:09:31,120] You need to go out and do that.
+- [00:09:31,160 - 00:09:33,760] spot to start and my deal is is i
+- [00:09:33,760 - 00:09:36,360] never recommend putting your whole hundred thousand dollars in one
+- [00:09:36,360 - 00:09:39,159] well in one new drill or in any single company
+- [00:09:39,159 - 00:09:41,959] due to the fact is there is a lot of volatility
+- [00:09:41,959 - 00:09:43,679] in here with that being said there's not a way
+- [00:09:43,679 - 00:09:45,400] to mitigate risk i believe that there's a way to
+- [00:09:45,400 - 00:09:48,119] mitigate loss whenever it comes to oil and gas as
+- [00:09:48,119 - 00:09:50,839] an investor what do investors ask for they say hey
+- [00:09:50,839 - 00:09:53,119] how do i get return of investment right you can
+- [00:09:53,119 - 00:09:55,400] put 100 grand in a well and it doesn't work out
+- [00:09:55,400 - 00:09:57,880] for whatever reason you hate the company oh
+- [00:09:57,880 - 00:10:00,360] they were terrible they lost my money tax deductions
+- [00:10:00,360 - 00:10:02,400] tax deductions that doesn't typically get people to
+- [00:10:02,400 - 00:10:04,440] where they need to be in investments how were
+- [00:10:04,440 - 00:10:06,520] the returns on oil and gas compared to let's
+- [00:10:06,520 - 00:10:08,600] say the stock market compared to real estate which one
+- [00:10:08,600 - 00:10:10,520] in your opinion has the most favorable returns for
+- [00:10:10,520 - 00:10:12,440] investors well i'm not in the oil and gas business
+- [00:10:12,440 - 00:10:14,640] for my health right so i've been doing real
+- [00:10:14,640 - 00:10:16,840] estate for over 10 years i started out wholesaling fixing
+- [00:10:16,840 - 00:10:19,080] up properties and flipping them and i created a lot
+- [00:10:19,080 - 00:10:21,320] of income for myself the problem was is i had
+- [00:10:21,320 - 00:10:23,600] huge capital gains huge tax liabilities and the
+- [00:10:23,600 - 00:10:25,880] depreciation didn't offset what i had coming in
+- [00:10:25,880 - 00:10:28,000] i love real estate real estate will always be
+- [00:10:28,000 - 00:10:30,120] one of my babies i like it for long-term
+- [00:10:30,120 - 00:10:30,200] approaches and i love it for long-term properties i like
+- [00:10:30,200 - 00:10:30,280] it for long-term approaches and i like it for long-term
+- [00:10:30,280 - 00:10:30,310] properties and i like it for long-term properties and i
+- [00:10:30,310 - 00:10:30,340] like it for long-term properties and i like it for long-term
+- [00:10:30,340 - 00:10:32,460] appreciations stock market that gets everybody's
+- [00:10:32,460 - 00:10:34,580] little gambling itch aside right doesn't really
+- [00:10:34,580 - 00:10:37,060] matter what stock you pick the people in the stock
+- [00:10:37,060 - 00:10:39,540] market are trying to buy in low capitalize on it
+- [00:10:39,540 - 00:10:41,820] and exit at the right time and i see
+- [00:10:41,820 - 00:10:44,100] people riding waves because they're not professional investors i
+- [00:10:44,100 - 00:10:46,380] think that every market has a spot for good
+- [00:10:46,380 - 00:10:48,660] smart sophisticated investors i think that you got to be
+- [00:10:48,660 - 00:10:50,540] diversified across everything you just have to know how
+- [00:10:50,540 - 00:10:52,420] to play the game and if you don't you
+- [00:10:52,420 - 00:10:54,380] got to partner with somebody that does and that's
+- [00:10:54,380 - 00:10:56,340] exactly why we created rise capital let's go check
+- [00:10:56,340 - 00:10:58,300] out over here let's do it man all right
+- [00:10:58,300 - 00:11:00,260] so first things first you want some roughneck starbucks for
+- [00:11:00,260 - 00:11:02,060] him no you want to take a shot i'm all good
+- [00:11:02,060 - 00:11:03,860] all right let's go check out the rig floor check it
+- [00:11:03,860 - 00:11:06,860] out so what is this right here and break it
+- [00:11:06,860 - 00:11:09,860] down for everybody yeah so right now we're on the rig
+- [00:11:09,860 - 00:11:11,940] floor and this is a top drive drilling rig there's
+- [00:11:11,940 - 00:11:14,020] two types of drilling rigs that we work with one
+- [00:11:14,020 - 00:11:15,900] is called a kelly rig the other one is
+- [00:11:15,900 - 00:11:17,780] called a top drive how expensive is this equipment well
+- [00:11:17,780 - 00:11:19,820] it depends if you buy a brand new this
+- [00:11:19,820 - 00:11:21,860] rig right here it costs about 6.5 million dollars
+- [00:11:21,860 - 00:11:24,060] did you drop that on that oh no bro so what we
+- [00:11:24,060 - 00:11:26,260] were able to do is we were able to find a seller
+- [00:11:26,260 - 00:11:28,220] who had a couple issues with their business and
+- [00:11:28,220 - 00:11:30,180] we actually bought this from a company that bought it
+- [00:11:30,180 - 00:11:32,340] from a bankruptcy so we paid about 15 cents on
+- [00:11:32,340 - 00:11:34,500] the dollar for the rig we inherited all the contracts
+- [00:11:34,500 - 00:11:36,380] and we picked it up for dirt cheap
+- [00:11:36,380 - 00:11:38,260] so you're always looking for opportunities absolutely money
+- [00:11:38,260 - 00:11:40,580] is saved by purchasing assets that are undervalued and
+- [00:11:40,580 - 00:11:42,900] usually from people that are in a bind because
+- [00:11:42,900 - 00:11:44,540] they probably bought that for way more money than
+- [00:11:44,540 - 00:11:46,180] you ended up buying it off yeah i believe they
+- [00:11:46,180 - 00:11:48,019] paid over five million dollars for this piece
+- [00:11:48,019 - 00:11:49,859] of equipment now you mentioned that you charge your
+- [00:11:49,859 - 00:11:52,299] i guess customers 14 000 a day for here who
+- [00:11:52,299 - 00:11:54,740] are you selling to is it gas stations like what what
+- [00:11:54,740 - 00:11:56,659] types of companies are you selling your oil to so
+- [00:11:56,659 - 00:11:58,579] a lot of people have the misconception on oil and
+- [00:11:58,579 - 00:11:59,339] gas that you just make gasoline and you're just
+- [00:11:59,339 - 00:12:00,099] selling gas to people who are selling oil to people
+- [00:12:00,100 - 00:12:01,540] who are sponsored they definitely do this business they
+- [00:12:01,540 - 00:12:02,980] only sell gas to people all the time and the
+- [00:12:02,980 - 00:12:04,140] claim is that honestly Cu this기자 is a bogus
+- [00:12:04,140 - 00:12:05,300] and they're aoous so i really don't want you to
+- [00:12:05,300 - 00:12:06,620] own fuel and gas from us you can
+- [00:12:06,620 - 00:12:07,940] don't see throughout the country so we're really worried
+- [00:12:08,740 - 00:12:10,220] all of us are sort of ice
+- [00:12:10,220 - 00:12:11,700] العاedarban thelaimedes that there's no money anyway
+- [00:12:11,700 - 00:12:16,290] chicken suck on we're sold
+- [00:12:16,290 - 00:12:20,880] on stephen i remember tailgating the
+- [00:12:20,880 - 00:12:23,450] look and with this we're basically buying some
+- [00:12:23,450 - 00:12:26,020] daily dash that people hire and then But hem
+- [00:12:26,020 - 00:12:27,980] have to spend all their money and then you
+- [00:12:27,980 - 00:12:29,940] buy equipment people can buy their scale and yours
+- [00:12:29,940 - 00:12:29,980] right that's the interface with my company
+- [00:12:29,980 - 00:12:30,020] what'sivalta理 because we 따라aw thing over here
+- [00:12:30,020 - 00:12:32,020] This is companies that are actually purchasing
+- [00:12:32,020 - 00:12:34,020] the product for us, using midstream companies
+- [00:12:34,020 - 00:12:35,970] to get it there, and they're turning
+- [00:12:35,970 - 00:12:37,920] around, they're refining it to gasoline, diesel, different
+- [00:12:37,920 - 00:12:38,660] types of products.
+- [00:12:38,819 - 00:12:40,300] There's three types of oil and gas.
+- [00:12:40,520 - 00:12:41,199] Upstream, drilling.
+- [00:12:41,199 - 00:12:41,380] That's right.
+- [00:12:41,540 - 00:12:42,319] Midstream, shipping.
+- [00:12:42,480 - 00:12:42,760] That's right.
+- [00:12:43,180 - 00:12:44,000] Downstream, produce.
+- [00:12:44,140 - 00:12:44,520] Look at you.
+- [00:12:44,600 - 00:12:45,439] You're a land man already.
+- [00:12:45,560 - 00:12:45,840] Come on, come on.
+- [00:12:45,880 - 00:12:46,300] Believe it.
+- [00:12:46,340 - 00:12:48,060] There's guys that make money in oil and gas.
+- [00:12:48,180 - 00:12:49,000] Some are the land man.
+- [00:12:49,079 - 00:12:50,919] Are these people going door to door, and they're
+- [00:12:50,919 - 00:12:52,760] finding people with a lot of acres, a lot
+- [00:12:52,760 - 00:12:54,560] of land, and being like, hey, our
+- [00:12:54,560 - 00:12:56,360] technology sees that you've got oil here.
+- [00:12:56,420 - 00:12:57,160] Let's strike a deal.
+- [00:12:57,400 - 00:12:57,720] What is it?
+- [00:12:57,720 - 00:12:59,579] 70-30 is the standard or something like that.
+- [00:12:59,580 - 00:13:01,680] Can you kind of explain what that process is like?
+- [00:13:01,780 - 00:13:01,920] Yeah.
+- [00:13:02,060 - 00:13:04,170] So what happens is most people that are
+- [00:13:04,170 - 00:13:06,280] in oil and gas upstream don't actually own the
+- [00:13:06,280 - 00:13:06,680] property.
+- [00:13:06,800 - 00:13:08,460] The people that own the surface are the
+- [00:13:08,460 - 00:13:10,120] surface owners, and the people that own below the
+- [00:13:10,120 - 00:13:11,300] surface are the mineral owners.
+- [00:13:11,440 - 00:13:12,620] There might be one mineral owner.
+- [00:13:12,740 - 00:13:14,620] There might be 1,000 mineral owners, literally.
+- [00:13:14,880 - 00:13:17,040] And so what happens is when there's an area
+- [00:13:17,040 - 00:13:19,200] of interest, the land man that you see on
+- [00:13:19,200 - 00:13:21,780] TV is a person that goes out and is
+- [00:13:21,780 - 00:13:24,360] typically finding out who owns the title and finding
+- [00:13:24,360 - 00:13:26,050] that area of interest, and they're going
+- [00:13:26,050 - 00:13:27,740] out and negotiating that oil and gas lease.
+- [00:13:27,740 - 00:13:29,540] Now, whenever it comes to trades, this is your...
+- [00:13:29,580 - 00:13:30,580] This is your oil and gas lease.
+- [00:13:30,580 - 00:13:32,310] You get to pick what you want to
+- [00:13:32,310 - 00:13:34,040] offer somebody just like you would in real estate.
+- [00:13:34,160 - 00:13:36,340] For instance, most mineral owners are
+- [00:13:36,340 - 00:13:38,520] looking for what's called a 25% royalty.
+- [00:13:38,780 - 00:13:41,110] This means that when you extract oil and
+- [00:13:41,110 - 00:13:43,440] gas, they're getting 25% of the gross proceeds
+- [00:13:43,440 - 00:13:44,500] before the expenses.
+- [00:13:44,740 - 00:13:45,840] This is your royalty interest.
+- [00:13:46,000 - 00:13:47,460] It's also known as the NRI.
+- [00:13:47,620 - 00:13:49,500] So if somebody tells you, hey, we got an oil
+- [00:13:49,500 - 00:13:51,380] and gas lease, and it's a 20% NRI, you know
+- [00:13:51,380 - 00:13:53,680] that the mineral owner is getting 20% of
+- [00:13:53,680 - 00:13:55,980] the gross revenue, and then the oil company gets
+- [00:13:55,980 - 00:13:57,280] that other 80%.
+- [00:13:57,280 - 00:13:59,560] That other 80% is known as the work-life balance.
+- [00:13:59,580 - 00:14:00,260] That's the working interest.
+- [00:14:00,420 - 00:14:01,960] And this is where people go
+- [00:14:01,960 - 00:14:03,500] in and they actually get to buy.
+- [00:14:03,600 - 00:14:05,620] Just like a tenant in common, they're buying a
+- [00:14:05,620 - 00:14:07,640] portion of the lease where they pay a portion
+- [00:14:07,640 - 00:14:09,710] of the drilling, but they get a portion
+- [00:14:09,710 - 00:14:11,780] of the proceeds if the well is commercially producible.
+- [00:14:11,920 - 00:14:13,360] So there's a lot of people in oil and gas.
+- [00:14:13,480 - 00:14:15,600] What separates you from 99% of other people?
+- [00:14:15,680 - 00:14:17,380] What's big about my company that a lot
+- [00:14:17,380 - 00:14:19,080] of people wish they could do that they can't
+- [00:14:19,080 - 00:14:20,710] is we understand investment, but
+- [00:14:20,710 - 00:14:22,340] we also understand the industry.
+- [00:14:22,520 - 00:14:24,310] Most people that go out and raise money
+- [00:14:24,310 - 00:14:26,100] for oil and gas, known as promoters, they're just
+- [00:14:26,100 - 00:14:27,340] trying to sell somebody's opportunity and
+- [00:14:27,340 - 00:14:28,580] make a big markup on it.
+- [00:14:28,580 - 00:14:28,740] Right.
+- [00:14:28,740 - 00:14:28,780] Right.
+- [00:14:28,780 - 00:14:28,820] Right.
+- [00:14:28,820 - 00:14:28,880] Right.
+- [00:14:28,880 - 00:14:28,900] Right.
+- [00:14:28,900 - 00:14:28,920] Right.
+- [00:14:28,920 - 00:14:28,940] Right.
+- [00:14:28,940 - 00:14:28,960] Right.
+- [00:14:28,960 - 00:14:28,980] Right.
+- [00:14:28,980 - 00:14:29,000] Right.
+- [00:14:29,000 - 00:14:29,020] Right.
+- [00:14:29,020 - 00:14:29,040] Right.
+- [00:14:29,040 - 00:14:29,060] Right.
+- [00:14:29,060 - 00:14:34,719] Right.
+- [00:14:38,719 - 00:14:50,579] Right.
+- [00:14:50,579 - 00:14:50,660] Right.
+- [00:14:50,660 - 00:14:51,020] Right.
+- [00:14:51,020 - 00:14:51,079] Right.
+- [00:14:51,080 - 00:14:52,500] to get the slips going. All right, so first things
+- [00:14:52,500 - 00:14:53,920] first, we're going to make sure you get some safety
+- [00:14:53,920 - 00:14:56,080] gloves on. Make sure you don't hit anything
+- [00:14:56,080 - 00:14:58,240] sharp, anything heavy. Everything out here is super heavy
+- [00:14:58,240 - 00:15:00,280] and it can kill you. Oh man, it'll crush you
+- [00:15:00,280 - 00:15:02,320] real quick. All right, so what they're doing right now
+- [00:15:02,320 - 00:15:03,540] is they're coming down with the top drive. You're
+- [00:15:03,540 - 00:15:04,760] going to help this hand right here. You're going
+- [00:15:04,760 - 00:15:06,310] to pull these slips. Get up there, grab that slip.
+- [00:15:06,310 - 00:15:07,860] It's going to pick up. Don't put your hand. Ready?
+- [00:15:08,380 - 00:15:11,390] Here we go. Now you're going to get ready. Whenever
+- [00:15:11,390 - 00:15:14,400] this comes up, they're going to pick it up past
+- [00:15:14,400 - 00:15:16,100] the joint, past the collar. You're going to throw
+- [00:15:16,100 - 00:15:17,800] the slips in there. What these slips do is it's
+- [00:15:17,800 - 00:15:19,420] got teeth in there. They grab the pipe and hold
+- [00:15:19,420 - 00:15:21,040] it so it doesn't go down. So we're going to pull
+- [00:15:21,040 - 00:15:24,020] out two joints at a time. This is a double
+- [00:15:24,020 - 00:15:27,000] rig. Get ready. There you go. Nice and heavy, ain't it?
+- [00:15:27,359 - 00:15:29,309] Ready to get on them tongs? Watch
+- [00:15:29,309 - 00:15:31,260] it, boy. Everything heavy, everything heavy. Watch out
+- [00:15:31,260 - 00:15:37,500] for that hole. YouTubers. Are you a good salesman?
+- [00:15:37,500 - 00:15:43,740] I'm a closer, baby. Million dollar closer. Give me
+- [00:15:43,740 - 00:15:45,460] your best sales and negotiation advice right here. You
+- [00:15:45,460 - 00:15:47,180] can make millions in sales, but you can make
+- [00:15:47,180 - 00:15:47,480] billions in marketing. You can make millions in
+- [00:15:47,480 - 00:15:47,780] sales, but you can make millions in marketing.
+- [00:15:47,800 - 00:15:49,509] I think that marketing is the most important part
+- [00:15:49,509 - 00:15:51,219] of any business. If you have the best product in
+- [00:15:51,219 - 00:15:52,649] the world and nobody knows what you have,
+- [00:15:52,649 - 00:15:54,079] you don't have anything. A lot of people downplay
+- [00:15:54,079 - 00:15:55,759] social media marketing, especially in the oil and
+- [00:15:55,759 - 00:15:57,439] gas industry because they're like 100 years old
+- [00:15:57,439 - 00:15:59,099] and they've done it the same way. But
+- [00:15:59,099 - 00:16:00,760] let me tell you something. Social media marketing knows
+- [00:16:00,760 - 00:16:02,619] everything about you. They know where you live,
+- [00:16:02,619 - 00:16:04,479] what you drive, your credit score, your race,
+- [00:16:04,760 - 00:16:06,750] everything. So if you're not marketing on social
+- [00:16:06,750 - 00:16:08,740] media, you're going to get left behind. And sales,
+- [00:16:09,020 - 00:16:10,689] that's just part of it. If you've got a
+- [00:16:10,689 - 00:16:12,359] good product that helps people, that is where it
+- [00:16:12,359 - 00:16:14,169] comes from. Money doesn't come from chasing
+- [00:16:14,169 - 00:16:15,979] money. Money comes from chasing problems and
+- [00:16:16,199 - 00:16:17,780] monetizing the solution to people's problems.
+- [00:16:17,800 - 00:16:20,260] Or providing a product or service that helps them.
+- [00:16:20,319 - 00:16:21,540] You know they don't teach this in school, right?
+- [00:16:21,620 - 00:16:23,099] No. So what school teaches you is to give
+- [00:16:23,099 - 00:16:24,579] your money away, right? They teach you to go borrow
+- [00:16:24,579 - 00:16:27,099] money, go to college, get a job, raise money,
+- [00:16:27,099 - 00:16:29,620] put it in your 401k, give it to big business.
+- [00:16:29,760 - 00:16:31,720] What they don't teach you is how to go
+- [00:16:31,720 - 00:16:33,680] out there and solve somebody's problem and show them that
+- [00:16:33,680 - 00:16:35,579] you have the solution and how to monetize that.
+- [00:16:35,579 - 00:16:37,479] So why is oil and gas such a billion dollar
+- [00:16:37,479 - 00:16:39,409] industry? Oil and gas is a multi-trillion
+- [00:16:39,409 - 00:16:41,339] dollar industry. It's always going to be needed.
+- [00:16:41,459 - 00:16:43,429] Everything that you touch today, the paint that's
+- [00:16:43,429 - 00:16:45,400] in these shirts, the gas that's in your car,
+- [00:16:45,479 - 00:16:46,839] everything. The phone.
+- [00:16:46,839 - 00:16:47,780] The phone, man. It has lithium.
+- [00:16:47,800 - 00:16:49,949] Somebody's got to get out here and do
+- [00:16:49,949 - 00:16:52,099] this work and you don't see the snowflakes today,
+- [00:16:52,199 - 00:16:54,059] especially in my generation, 35 years young, you
+- [00:16:54,059 - 00:16:55,920] don't see them out here trying to do this.
+- [00:16:56,000 - 00:16:57,900] People are lazy. They want to be
+- [00:16:57,900 - 00:16:59,800] YouTube influencers, but not everybody's got what it
+- [00:16:59,800 - 00:17:00,999] takes. You want to make money, you got
+- [00:17:00,999 - 00:17:02,199] to get out here and bust your ass.
+- [00:17:02,339 - 00:17:03,209] What's the best part of
+- [00:17:03,209 - 00:17:04,079] oil to get into right now?
+- [00:17:04,200 - 00:17:05,980] What I'm focused on 100% right
+- [00:17:05,980 - 00:17:07,760] now is natural gas exploration and production.
+- [00:17:07,980 - 00:17:08,540] So not oil?
+- [00:17:08,760 - 00:17:10,650] Not oil, man. Well, oil is a pain in the ass.
+- [00:17:10,650 - 00:17:12,540] You got to deal with pump jacks. You got to deal
+- [00:17:12,540 - 00:17:14,189] with a lot of mechanical failures. Some of
+- [00:17:14,189 - 00:17:15,839] the bigger companies, they make these big bursts of
+- [00:17:15,839 - 00:17:16,060] oil.
+- [00:17:16,280 - 00:17:17,560] Nobody talks about natural gas.
+- [00:17:17,800 - 00:17:19,760] Well, that's exactly why you should do it. You
+- [00:17:19,760 - 00:17:21,720] should always go for things that the media is not
+- [00:17:21,720 - 00:17:24,079] talking about. Natural gas is the cleanest burning
+- [00:17:24,079 - 00:17:26,440] fossil fuel. We have more LNG plants opening up
+- [00:17:26,440 - 00:17:28,919] and the export of natural gas and liquefied natural
+- [00:17:28,919 - 00:17:31,399] gas is massive right now. Anybody who is truly an
+- [00:17:31,399 - 00:17:33,169] oil and gas investor will tell you they're
+- [00:17:33,169 - 00:17:34,940] probably bullish on gas right now because that's where
+- [00:17:34,940 - 00:17:36,600] everything's coming from. You got electricity coming
+- [00:17:36,600 - 00:17:38,260] from it. You got heat coming from it.
+- [00:17:38,320 - 00:17:40,420] Hell, you got all kinds of these data centers.
+- [00:17:40,420 - 00:17:42,520] Let's talk about AI. And by the way, we're
+- [00:17:42,520 - 00:17:44,910] mining Bitcoin off of it. We take natural gas,
+- [00:17:44,910 - 00:17:47,300] run it into a generator, create electricity and have
+- [00:17:47,800 - 00:17:49,640] a power to mine cryptocurrency. Did you
+- [00:17:49,640 - 00:17:51,480] have anybody that doubted you in business?
+- [00:17:51,659 - 00:17:53,379] Man, I've always had people that doubted me.
+- [00:17:53,379 - 00:17:55,100] I think that people always doubt things, right? You
+- [00:17:55,100 - 00:17:56,869] get around people. They can't see your vision.
+- [00:17:56,869 - 00:17:58,639] They don't know what you're doing. They can't
+- [00:17:58,639 - 00:18:00,759] understand your mind. And only thing that matters is
+- [00:18:00,759 - 00:18:02,879] results. I've had to cut off so many friends.
+- [00:18:02,980 - 00:18:05,150] You can have good people around you that are the
+- [00:18:05,150 - 00:18:07,320] wrong people. And the faster you get rid of them,
+- [00:18:07,379 - 00:18:09,609] the better. Bad relationships, people getting the
+- [00:18:09,609 - 00:18:11,840] wrong girlfriend, hanging around the wrong people
+- [00:18:11,840 - 00:18:14,060] that are doing the wrong things. If you want to
+- [00:18:14,060 - 00:18:16,280] be successful, you have got to pay to be in the
+- [00:18:16,280 - 00:18:16,399] business.
+- [00:18:16,399 - 00:18:16,820] You have to be successful.
+- [00:18:16,919 - 00:18:17,000] You have to be successful.
+- [00:18:17,000 - 00:18:17,080] You have to be successful.
+- [00:18:17,080 - 00:18:17,120] You have to be successful.
+- [00:18:17,120 - 00:18:17,139] You have to be successful.
+- [00:18:17,139 - 00:18:17,159] You have to be successful.
+- [00:18:17,159 - 00:18:17,220] You have to be successful.
+- [00:18:17,220 - 00:18:47,200] You have to be successful.
+- [00:18:47,200 - 00:19:17,180] You have to be successful.
+- [00:19:17,180 - 00:19:17,420] You have to be successful.
+- [00:19:17,420 - 00:19:17,460] You have to be successful.
