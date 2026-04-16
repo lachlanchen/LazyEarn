@@ -1,0 +1,558 @@
+# Transcript
+
+Source: lazyearn/school-of-hard-knocks/hard-knocks-interviews/099 - Meet The Most Interesting Man On The Planet [3K43YBxUp0I].webm
+
+- [00:00:00,000 - 00:00:03,300] Excuse me bro, is this your Rolls-Royce?
+- [00:00:03,880 - 00:00:05,020] What do you do for a living?
+- [00:00:05,440 - 00:00:07,400] Meet the most interesting man on
+- [00:00:07,400 - 00:00:09,360] the planet, otherwise known as Abdullah Kudrath.
+- [00:00:09,740 - 00:00:11,380] Over the last decade, AK has
+- [00:00:11,380 - 00:00:13,020] not only been an emergency room doctor,
+- [00:00:13,280 - 00:00:15,020] but he has emerged as one of
+- [00:00:15,020 - 00:00:16,760] the most prominent entrepreneurs throughout Houston, Texas
+- [00:00:16,760 - 00:00:18,820] by creating over seven companies.
+- [00:00:19,040 - 00:00:20,580] We've got a Lamborghini Urus
+- [00:00:20,580 - 00:00:22,120] SUV with a wide body kit.
+- [00:00:22,860 - 00:00:26,120] Over here you see a red Ferrari 458 naturally aspirated.
+- [00:00:26,340 - 00:00:28,740] This is definitely my childhood dream car.
+- [00:00:28,740 - 00:00:30,939] So this is the Lamborghini Diablo.
+- [00:00:31,299 - 00:00:33,109] I sat down with him to figure out
+- [00:00:33,109 - 00:00:34,920] how he was able to build multiple eight-figure businesses
+- [00:00:34,920 - 00:00:36,360] all while being able to
+- [00:00:36,360 - 00:00:37,800] save lives on a weekly basis.
+- [00:00:38,160 - 00:00:39,999] The first time I felt like I needed
+- [00:00:39,999 - 00:00:41,839] to go from being a doctor to a businessman
+- [00:00:41,839 - 00:00:43,549] was actually when I was doing
+- [00:00:43,549 - 00:00:45,260] a medical trip in East Africa.
+- [00:00:45,420 - 00:00:47,110] I realized there's just one person,
+- [00:00:47,110 - 00:00:48,800] there's one doctor with a medical bag.
+- [00:00:48,879 - 00:00:51,300] I could barely scratch the surface of any real problem.
+- [00:00:51,480 - 00:00:53,920] But I realized if I could learn
+- [00:00:53,920 - 00:00:56,360] how to build institutions and understand operations,
+- [00:00:56,360 - 00:00:58,720] I can build entities that last a lot longer.
+- [00:00:58,740 - 00:01:00,700] AK revealed to me some of
+- [00:01:00,700 - 00:01:02,660] the most fascinating lessons that he's learned
+- [00:01:02,660 - 00:01:04,150] from being a doctor for some of
+- [00:01:04,150 - 00:01:05,640] the wealthiest people in the entire world.
+- [00:01:05,780 - 00:01:07,250] People don't care about anything when
+- [00:01:07,250 - 00:01:08,720] their health is on the line.
+- [00:01:09,060 - 00:01:10,350] And that's actually really important because
+- [00:01:10,350 - 00:01:11,640] we can really get caught up
+- [00:01:11,640 - 00:01:12,960] in our pursuit for business and money.
+- [00:01:13,180 - 00:01:14,820] Millions of dollars and they just struck
+- [00:01:14,820 - 00:01:16,460] it big and millions are coming in.
+- [00:01:16,600 - 00:01:17,830] And they're telling me, you know,
+- [00:01:17,830 - 00:01:19,060] doc, that means nothing to me.
+- [00:01:19,200 - 00:01:20,800] I wish I could just have my belly back.
+- [00:01:20,880 - 00:01:21,780] This guy had stomach cancer.
+- [00:01:21,880 - 00:01:22,590] He's like, trade it all if
+- [00:01:22,590 - 00:01:23,300] I could have my belly back.
+- [00:01:23,380 - 00:01:25,020] In this interview, you will learn
+- [00:01:25,020 - 00:01:26,660] from one of the most successful entrepreneurs
+- [00:01:26,660 - 00:01:27,960] throughout the entire country.
+- [00:01:27,960 - 00:01:28,720] How to find someone who can do it.
+- [00:01:28,740 - 00:01:30,190] Create success and create wealth no
+- [00:01:30,190 - 00:01:31,640] matter what industry you are in.
+- [00:01:31,899 - 00:01:32,699] What's going on, everyone?
+- [00:01:32,880 - 00:01:34,080] Welcome back to another episode
+- [00:01:34,080 - 00:01:35,280] of 10 questions with a millionaire.
+- [00:01:35,619 - 00:01:36,929] I'm James and I'm out in
+- [00:01:36,929 - 00:01:38,240] Houston, Texas with a very special guest.
+- [00:01:38,320 - 00:01:40,270] We're here with AK today, who's an ER
+- [00:01:40,270 - 00:01:42,220] doctor, but he's not just an ER doctor.
+- [00:01:42,320 - 00:01:43,950] He's also a serial entrepreneur, owns
+- [00:01:43,950 - 00:01:45,580] and has been building tons of businesses
+- [00:01:45,580 - 00:01:48,419] over the last numerous years out in Houston, Texas.
+- [00:01:48,539 - 00:01:49,949] So could you give a little bit
+- [00:01:49,949 - 00:01:51,360] of an introduction, a background on yourself,
+- [00:01:51,699 - 00:01:53,759] where you started and kind of what you're doing today?
+- [00:01:53,780 - 00:01:54,800] Because I will say you're
+- [00:01:54,800 - 00:01:55,820] probably one of the most interesting
+- [00:01:55,820 - 00:01:58,000] persons I've ever met and had a conversation with.
+- [00:01:58,000 - 00:01:58,419] Well,
+- [00:01:58,420 - 00:01:59,180] I appreciate that.
+- [00:01:59,640 - 00:02:00,560] Yeah, my name is AK.
+- [00:02:01,240 - 00:02:03,900] I am formally trained as an emergency room doctor.
+- [00:02:04,080 - 00:02:04,840] I still do that.
+- [00:02:05,080 - 00:02:08,060] I love being a doctor and working in the ERs.
+- [00:02:09,160 - 00:02:10,860] But I've also branched out.
+- [00:02:10,940 - 00:02:13,860] I've focused on business and
+- [00:02:13,860 - 00:02:16,780] entrepreneurship, started with emergency department
+- [00:02:16,780 - 00:02:18,100] and I've built several of those.
+- [00:02:18,880 - 00:02:20,430] Then I've diversified a little bit to
+- [00:02:20,430 - 00:02:21,980] create a physician group where I hire
+- [00:02:21,980 - 00:02:24,180] other doctors to work in outside hospitals.
+- [00:02:25,120 - 00:02:27,000] And then I diversified into other industries.
+- [00:02:27,000 - 00:02:28,400] So we have a limo.
+- [00:02:28,420 - 00:02:30,370] We have a limo company, an office
+- [00:02:30,370 - 00:02:32,320] space company, learning some real estate development,
+- [00:02:32,320 - 00:02:36,600] building some lake homes, a Botox and filler company.
+- [00:02:37,179 - 00:02:39,729] We built a lounge in Midtown
+- [00:02:39,729 - 00:02:42,279] and maybe a few more smaller ones.
+- [00:02:42,399 - 00:02:42,899] Definitely.
+- [00:02:43,299 - 00:02:44,320] That's amazing.
+- [00:02:44,540 - 00:02:46,200] And how long have you been an ER doctor for?
+- [00:02:47,200 - 00:02:49,790] Oh, man, I've been a doctor in
+- [00:02:49,790 - 00:02:52,380] practice for about seven or eight years now.
+- [00:02:52,579 - 00:02:53,709] So you've been a doctor
+- [00:02:53,709 - 00:02:54,839] the last, let's say, eight years.
+- [00:02:55,220 - 00:02:56,779] During that time, what's the most
+- [00:02:56,779 - 00:02:58,339] fascinating thing that you've learned about people?
+- [00:02:58,420 - 00:03:01,980] Oh, man, that's a great question.
+- [00:03:03,980 - 00:03:05,629] Actually, I don't know why this popped in
+- [00:03:05,629 - 00:03:07,279] my mind, but now I think about it.
+- [00:03:07,299 - 00:03:07,899] This is a good one.
+- [00:03:09,700 - 00:03:12,870] People don't care about anything when their health
+- [00:03:12,870 - 00:03:16,040] is on the line other than their health.
+- [00:03:16,459 - 00:03:18,009] And that's actually really important because we
+- [00:03:18,009 - 00:03:19,560] can really get caught up in our pursuit
+- [00:03:19,560 - 00:03:20,760] for business and money, right?
+- [00:03:20,859 - 00:03:22,259] And that's great because we talked
+- [00:03:22,259 - 00:03:23,660] about doing good things with it, right?
+- [00:03:24,420 - 00:03:25,900] But don't get so caught up that
+- [00:03:25,900 - 00:03:27,380] you forget the fact that you've got
+- [00:03:27,380 - 00:03:31,200] health and your family's got health.
+- [00:03:32,140 - 00:03:33,820] And that's something to be appreciated
+- [00:03:33,820 - 00:03:35,500] now because I've seen patients who have
+- [00:03:35,500 - 00:03:37,280] millions of dollars and they just struck
+- [00:03:37,280 - 00:03:39,060] it big and millions are coming in.
+- [00:03:39,600 - 00:03:41,479] And they're telling me, you know,
+- [00:03:41,479 - 00:03:43,359] Doc, that means nothing to me.
+- [00:03:43,500 - 00:03:45,760] I wish I could just have my belly back.
+- [00:03:45,840 - 00:03:47,599] This guy had stomach cancer because I'd trade it
+- [00:03:47,599 - 00:03:49,359] all if I could have my belly back, right?
+- [00:03:49,660 - 00:03:51,780] So I've learned that when it comes
+- [00:03:51,780 - 00:03:53,900] to humans, when it comes to people,
+- [00:03:53,900 - 00:03:55,500] we all want what we want and that's great.
+- [00:03:56,040 - 00:03:57,359] But let's not forget what we have.
+- [00:03:57,380 - 00:03:58,700] And what we have is health.
+- [00:04:00,560 - 00:04:02,850] So I think that is important to create
+- [00:04:02,850 - 00:04:05,140] a balance in our life as we pursue,
+- [00:04:05,280 - 00:04:06,520] as we take our health and
+- [00:04:06,520 - 00:04:07,760] make big things out of ourselves.
+- [00:04:08,140 - 00:04:09,280] Let's not forget our health too.
+- [00:04:09,700 - 00:04:12,250] So you had gone to school originally to become
+- [00:04:12,250 - 00:04:14,800] a medical professional and you are an ER doctor,
+- [00:04:14,800 - 00:04:16,399] but you also became an entrepreneur.
+- [00:04:16,760 - 00:04:18,079] So what was the turning point
+- [00:04:18,079 - 00:04:19,399] like in your life that told you,
+- [00:04:19,680 - 00:04:21,120] I kind of want to go out on
+- [00:04:21,120 - 00:04:22,560] my own, invest in myself and start creating companies?
+- [00:04:23,820 - 00:04:27,340] Well, I guess the first time I felt like,
+- [00:04:27,380 - 00:04:28,650] I needed to go from
+- [00:04:28,650 - 00:04:29,920] being a doctor to a businessman
+- [00:04:30,600 - 00:04:32,200] was actually when I was doing
+- [00:04:32,200 - 00:04:33,800] a medical trip in East Africa.
+- [00:04:33,980 - 00:04:36,230] I got invited with a small church
+- [00:04:36,230 - 00:04:38,480] to go and see people in the villages.
+- [00:04:39,260 - 00:04:41,100] And long story short is while I was out there,
+- [00:04:41,100 - 00:04:42,850] I realized it was just one person
+- [00:04:42,850 - 00:04:44,600] as one doctor with a medical bag.
+- [00:04:45,260 - 00:04:47,900] I could really scratch the surface of any real problem.
+- [00:04:48,260 - 00:04:49,640] Now, I'd like to think it's
+- [00:04:49,640 - 00:04:51,020] meaningful for the people we saw.
+- [00:04:51,020 - 00:04:52,820] We saw about 250 people a day.
+- [00:04:54,659 - 00:04:57,260] But I realized if I could learn how to build
+- [00:04:57,260 - 00:05:00,300] institutions and understand operations,
+- [00:05:00,300 - 00:05:01,870] I can build entities that last
+- [00:05:01,870 - 00:05:03,440] a lot longer than I can last.
+- [00:05:04,380 - 00:05:07,200] So I came back into the country with this
+- [00:05:07,200 - 00:05:10,020] inspiration to learn not just how to be a doctor,
+- [00:05:10,020 - 00:05:11,730] but how do I create the
+- [00:05:11,730 - 00:05:13,440] entire facility and then grow that.
+- [00:05:14,300 - 00:05:16,520] So in the previous answer, you brought up scaling,
+- [00:05:16,520 - 00:05:18,089] and that's something that a lot of
+- [00:05:18,089 - 00:05:19,659] entrepreneurs really struggle with in today's world.
+- [00:05:19,700 - 00:05:20,980] You know, maybe they have a great idea.
+- [00:05:20,980 - 00:05:22,569] They start that business, but they really don't
+- [00:05:22,569 - 00:05:24,159] know how to really scale it and grow it.
+- [00:05:24,380 - 00:05:25,730] So what's the biggest thing that
+- [00:05:25,730 - 00:05:27,080] you implement throughout the companies that
+- [00:05:27,080 - 00:05:28,130] you're a part of to really
+- [00:05:28,130 - 00:05:29,180] scale them in terms of growth?
+- [00:05:29,180 - 00:05:30,880] Maybe it's people, maybe it's capital.
+- [00:05:31,039 - 00:05:32,380] What's the secret to scaling?
+- [00:05:32,380 - 00:05:34,320] How can you really take a business
+- [00:05:34,320 - 00:05:36,260] from six to seven figures in today's world?
+- [00:05:36,300 - 00:05:38,500] If you're doing everything yourself, you only
+- [00:05:38,500 - 00:05:40,700] have so much hours in a day, right?
+- [00:05:41,260 - 00:05:43,320] So if you want to scale, you need
+- [00:05:43,320 - 00:05:45,380] to have somebody to replace some of your tasks.
+- [00:05:45,979 - 00:05:47,089] And even if it's not one
+- [00:05:47,089 - 00:05:48,200] person to do everything you can do,
+- [00:05:48,700 - 00:05:51,020] they need to be some of the parts, right?
+- [00:05:51,500 - 00:05:54,079] Like, for example, I've got a friend with a clothing store
+- [00:05:54,079 - 00:05:56,659] and is doing very well and he's there all the time.
+- [00:05:57,080 - 00:05:59,279] Now, how is he going to open more locations
+- [00:05:59,279 - 00:06:01,479] if he doesn't have somebody to work in that store?
+- [00:06:01,880 - 00:06:03,649] Right now, how are you going to get someone to work
+- [00:06:03,649 - 00:06:05,419] in that store if you don't know how to select people,
+- [00:06:05,719 - 00:06:06,919] if you don't know how to train people?
+- [00:06:07,320 - 00:06:09,350] So this comes into a new skill set,
+- [00:06:09,350 - 00:06:11,380] which is creating a standard operating procedure, right?
+- [00:06:11,380 - 00:06:13,660] If you look at some of the biggest
+- [00:06:13,660 - 00:06:15,940] companies in the world like McDonald's, even around here,
+- [00:06:15,940 - 00:06:19,159] Chick-fil-A, Microsoft, they have it written in a book.
+- [00:06:19,200 - 00:06:22,360] Everything you say, everything you do needs to be written and
+- [00:06:22,360 - 00:06:25,520] standardized so that you can hand this book to someone else
+- [00:06:25,520 - 00:06:27,080] who can then hire and do everything that you say.
+- [00:06:27,080 - 00:06:30,330] Now, that being said, while that's a requirement, no one's going
+- [00:06:30,330 - 00:06:33,580] to run the company the way you're going to run the company.
+- [00:06:33,580 - 00:06:36,040] That's why even with those same standard operating procedures,
+- [00:06:36,040 - 00:06:38,500] the CEO changes and the company goes down, right?
+- [00:06:38,500 - 00:06:42,840] So you still have to be able to provide supervision as the owner,
+- [00:06:42,840 - 00:06:47,180] as a CEO, to make sure the company is heading in the right direction.
+- [00:06:47,180 - 00:06:51,949] Sometimes that's as simple as, I say simple, but as
+- [00:06:51,949 - 00:06:56,719] seemingly simple as making sure you're inspiring all of your managers.
+- [00:06:57,080 - 00:07:01,270] And if you're an absentee leader, or if you're cracking the whip a
+- [00:07:01,270 - 00:07:05,460] little too hard, or you're not cracking it enough, or whatever the dynamic is,
+- [00:07:05,460 - 00:07:09,270] if you're not inspiring your people, providing the right benefits,
+- [00:07:09,270 - 00:07:13,080] or the right information, or the right tools they need,
+- [00:07:13,080 - 00:07:14,689] then your organization is going to
+- [00:07:14,689 - 00:07:16,299] keep suffering because you're not there.
+- [00:07:16,299 - 00:07:19,749] So to answer the question to scale, it's going to be understanding
+- [00:07:19,749 - 00:07:23,200] how to standardize what you do, how to train people what you do,
+- [00:07:23,200 - 00:07:24,850] and how to select the right people
+- [00:07:24,850 - 00:07:26,500] that can be the sum of your parts.
+- [00:07:26,500 - 00:07:27,000] Wow.
+- [00:07:27,080 - 00:07:28,969] What's the greatest lesson that you've ever
+- [00:07:28,969 - 00:07:30,859] learned from a mentor throughout your career?
+- [00:07:30,859 - 00:07:32,489] What's the best piece of advice
+- [00:07:32,489 - 00:07:34,120] that you've ever received from a mentor?
+- [00:07:34,120 - 00:07:37,250] Maybe it's an influential figure, a father, anybody in your life that
+- [00:07:37,250 - 00:07:40,380] gave you some advice, taught you a lesson, what would that be?
+- [00:07:40,380 - 00:07:42,350] I think the biggest thing I
+- [00:07:42,350 - 00:07:44,320] ever heard was from my father.
+- [00:07:44,320 - 00:07:46,519] And it was when I
+- [00:07:46,519 - 00:07:48,719] had got accepted into med school.
+- [00:07:48,719 - 00:07:50,589] I was ready for it, but he
+- [00:07:50,589 - 00:07:52,460] said, son, it's going to be difficult.
+- [00:07:52,460 - 00:07:54,159] And I'm like, eh, I got this, right?
+- [00:07:54,159 - 00:07:55,680] I'm ready.
+- [00:07:55,680 - 00:07:57,060] He goes, no, you don't know.
+- [00:07:57,060 - 00:07:59,340] You don't know yet, but it's going to be difficult.
+- [00:07:59,340 - 00:08:03,800] And he said, if you do it for yourself, when the going gets
+- [00:08:03,800 - 00:08:08,260] tough and you stumble and fall, you may not want to get back up.
+- [00:08:08,260 - 00:08:11,220] You might say to yourself, hey, it's comfortable down here.
+- [00:08:11,220 - 00:08:13,320] I'll just stick around for a while.
+- [00:08:13,320 - 00:08:17,480] He said, but if you do it carrying the flag of the
+- [00:08:17,480 - 00:08:21,640] people around you, your family, your community, your country, your world, then
+- [00:08:21,640 - 00:08:24,350] don't matter what, when you fall down and you look up and
+- [00:08:24,350 - 00:08:27,060] you see the flag you're carrying, then you'll always get back up.
+- [00:08:27,060 - 00:08:29,660] And he was right.
+- [00:08:29,660 - 00:08:32,340] When things got difficult, I thought about that.
+- [00:08:32,340 - 00:08:34,249] And then giving up or staying
+- [00:08:34,249 - 00:08:36,159] down was never an option for me.
+- [00:08:36,159 - 00:08:38,439] It was so much easier when you're doing
+- [00:08:38,439 - 00:08:40,720] it for somebody else or for a greater purpose.
+- [00:08:40,720 - 00:08:41,919] And it wasn't just for med school.
+- [00:08:41,919 - 00:08:44,389] I think in everything in my life, when I
+- [00:08:44,389 - 00:08:46,860] approach it that way, it's not just for myself.
+- [00:08:46,860 - 00:08:48,780] It's for a greater purpose.
+- [00:08:48,780 - 00:08:51,420] I think it's easier to accomplish the task or
+- [00:08:51,420 - 00:08:54,060] have the resolve that you need to never give up.
+- [00:08:54,060 - 00:08:55,340] It's a beautiful answer.
+- [00:08:55,340 - 00:08:56,300] And I wanted to ask.
+- [00:08:56,300 - 00:08:56,380] What is it?
+- [00:08:56,380 - 00:08:56,460] What is it?
+- [00:08:56,460 - 00:08:56,540] What is it?
+- [00:08:56,540 - 00:08:56,780] What is it?
+- [00:08:56,780 - 00:08:56,820] What is it?
+- [00:08:56,820 - 00:08:56,860] What is it?
+- [00:08:56,860 - 00:08:56,980] What is it?
+- [00:08:56,980 - 00:08:57,020] What is it?
+- [00:08:57,020 - 00:08:57,040] What is it?
+- [00:08:57,040 - 00:08:57,060] What is it?
+- [00:08:57,060 - 00:08:57,099] What is it?
+- [00:08:57,099 - 00:08:57,119] What is it?
+- [00:08:57,119 - 00:08:58,459] What has been the most amount of money
+- [00:08:58,459 - 00:08:59,800] that you've ever made in a single year?
+- [00:09:02,420 - 00:09:03,060] Oh, man.
+- [00:09:03,660 - 00:09:06,420] I actually don't like talking about finances, right?
+- [00:09:07,699 - 00:09:11,560] But there's some good years and there's some bad years.
+- [00:09:11,739 - 00:09:12,999] And sometimes people hear a couple million and
+- [00:09:12,999 - 00:09:14,260] they're like, oh, man, he's got all this money.
+- [00:09:15,119 - 00:09:17,180] It's great money and I'm super excited about it.
+- [00:09:17,400 - 00:09:19,150] But you've got to keep account how much goes to
+- [00:09:19,150 - 00:09:20,900] taxes and how much you're going to reinvest for growth.
+- [00:09:21,859 - 00:09:24,049] So it's not like I can necessarily,
+- [00:09:24,049 - 00:09:26,239] I want to spend it right away.
+- [00:09:26,240 - 00:09:28,490] You know, but we'll say a couple million
+- [00:09:28,490 - 00:09:30,740] in a year and we'll leave it at that.
+- [00:09:31,060 - 00:09:31,340] For sure.
+- [00:09:31,900 - 00:09:32,160] Okay.
+- [00:09:32,300 - 00:09:34,330] Over the last few years, what would you say
+- [00:09:34,330 - 00:09:36,360] is the best financial decision that you ever made?
+- [00:09:36,920 - 00:09:38,040] If there's one particular
+- [00:09:38,040 - 00:09:39,160] decision, maybe it's an investment.
+- [00:09:39,600 - 00:09:41,100] Maybe it was opening a particular business.
+- [00:09:41,240 - 00:09:42,480] What would you say was the
+- [00:09:42,480 - 00:09:43,720] best financial decision that you ever made?
+- [00:09:44,720 - 00:09:49,020] The best financial decision was the first one.
+- [00:09:49,260 - 00:09:50,520] The first business, right?
+- [00:09:52,140 - 00:09:53,240] Do you remember who said it?
+- [00:09:53,240 - 00:09:54,640] I know T. Boone Pickens might
+- [00:09:54,640 - 00:09:56,040] have repeated it in his book.
+- [00:09:56,040 - 00:09:57,199] Or maybe he has credit for saying it.
+- [00:09:57,300 - 00:09:59,860] But the saying goes, the first million is the hardest.
+- [00:10:00,699 - 00:10:00,860] Right?
+- [00:10:00,920 - 00:10:02,710] And it's so true because once
+- [00:10:02,710 - 00:10:04,500] you have money, then you've got comfort.
+- [00:10:04,660 - 00:10:06,060] You can start investing in other projects.
+- [00:10:06,160 - 00:10:09,379] You don't have to work like a dog for a couple years to
+- [00:10:09,379 - 00:10:12,599] get that initial money again to get that match to light the fire.
+- [00:10:14,020 - 00:10:16,619] So the best financial decision I made was
+- [00:10:16,619 - 00:10:19,219] to save a lot and take the risk.
+- [00:10:19,839 - 00:10:21,379] But, of course, you've got to calculate your risk
+- [00:10:21,379 - 00:10:22,920] and you've got to be prepared to lose it.
+- [00:10:23,219 - 00:10:24,520] You've got to have your backup plan.
+- [00:10:25,020 - 00:10:25,680] And you have to say.
+- [00:10:26,040 - 00:10:28,239] If you lose the ego, you say, I'm going to do whatever
+- [00:10:28,239 - 00:10:30,439] it takes to make sure this works and this ship does not sink.
+- [00:10:31,360 - 00:10:33,760] So you can't fear.
+- [00:10:34,319 - 00:10:35,640] Don't fear loss.
+- [00:10:35,740 - 00:10:36,909] Don't fear poverty is what
+- [00:10:36,909 - 00:10:38,079] my father used to tell me.
+- [00:10:38,719 - 00:10:41,909] That way you can work hard, take the money, and not
+- [00:10:41,909 - 00:10:45,099] be too afraid to take the money and invest in a business.
+- [00:10:45,760 - 00:10:46,780] Sometimes you're going to lose.
+- [00:10:47,680 - 00:10:48,660] Sometimes you're going to win.
+- [00:10:48,660 - 00:10:50,499] But if you don't try, you're never going to
+- [00:10:50,499 - 00:10:52,339] learn the skill set you need to keep growing.
+- [00:10:52,860 - 00:10:52,959] Wow.
+- [00:10:53,060 - 00:10:54,540] And what's been your secret
+- [00:10:54,540 - 00:10:56,020] to self-improvement throughout your career?
+- [00:10:56,040 - 00:11:00,340] Regardless of the industry you've been in, but just in general, how have you constantly been able
+- [00:11:00,340 - 00:11:04,640] to get better in terms of knowledge, in terms of perspective, in terms of the people around you?
+- [00:11:04,900 - 00:11:06,620] What is your secret to self-improvement?
+- [00:11:07,500 - 00:11:09,229] I think one thing my father
+- [00:11:09,229 - 00:11:10,959] taught me was to never point fingers.
+- [00:11:11,599 - 00:11:12,839] There's always blame to go around.
+- [00:11:13,719 - 00:11:15,199] But he always made me focus
+- [00:11:15,199 - 00:11:16,680] on what I could do differently.
+- [00:11:17,599 - 00:11:18,889] I mean, oh, that person did
+- [00:11:18,889 - 00:11:20,180] this or this person did that.
+- [00:11:20,839 - 00:11:21,540] Or who are they?
+- [00:11:22,300 - 00:11:23,240] That doesn't matter.
+- [00:11:23,240 - 00:11:23,560] Right?
+- [00:11:23,760 - 00:11:25,719] Because if now you're the one in charge.
+- [00:11:26,040 - 00:11:27,439] It's your project or it's your future.
+- [00:11:27,920 - 00:11:29,579] It doesn't really matter who's to blame.
+- [00:11:30,160 - 00:11:32,860] All that matters is, in a way, just blame yourself.
+- [00:11:32,959 - 00:11:34,159] Say, how could I have
+- [00:11:34,159 - 00:11:35,360] known that that wouldn't have worked?
+- [00:11:35,839 - 00:11:38,839] How could I have seen this disaster
+- [00:11:38,839 - 00:11:41,839] coming or this miscalculation or this failure?
+- [00:11:42,180 - 00:11:44,800] Instead of just blaming everybody else, say, okay, next
+- [00:11:44,800 - 00:11:47,420] time I'm going to make sure this doesn't happen.
+- [00:11:47,500 - 00:11:48,760] Either I'm going to train somebody better.
+- [00:11:48,819 - 00:11:49,819] I'm going to select them better.
+- [00:11:50,560 - 00:11:52,800] I need to do more background information.
+- [00:11:52,800 - 00:11:53,939] I should have worked harder.
+- [00:11:54,420 - 00:11:55,160] So I think always.
+- [00:11:55,160 - 00:11:58,980] Holding yourself accountable is the key to growth.
+- [00:11:59,000 - 00:12:01,849] Because if you always think that you didn't do anything wrong and
+- [00:12:01,849 - 00:12:04,699] everybody else did everything wrong, you're never going to get any better.
+- [00:12:05,439 - 00:12:07,629] Obviously, you've created a bunch of
+- [00:12:07,629 - 00:12:09,819] companies over a bunch of different industries.
+- [00:12:10,100 - 00:12:11,020] And entrepreneurship is hard.
+- [00:12:11,439 - 00:12:12,999] What would you say is the biggest
+- [00:12:12,999 - 00:12:14,560] challenge that you faced as an entrepreneur?
+- [00:12:14,800 - 00:12:16,400] How have you been able to overcome that ultimately?
+- [00:12:17,839 - 00:12:21,489] The biggest challenge as an
+- [00:12:21,489 - 00:12:25,140] entrepreneur is, I guess, different things.
+- [00:12:25,319 - 00:12:27,160] Different phases have different challenges.
+- [00:12:27,160 - 00:12:29,160] The first challenge is, how do I get started?
+- [00:12:29,160 - 00:12:31,160] How do I get the knowledge?
+- [00:12:31,160 - 00:12:33,160] How do I get the money?
+- [00:12:33,160 - 00:12:35,160] And then how do I become the person that's not
+- [00:12:35,160 - 00:12:37,160] going to squander it all if it was handed to me?
+- [00:12:37,160 - 00:12:39,160] How do I become an honest, good person?
+- [00:12:39,160 - 00:12:41,160] That's the hard step.
+- [00:12:41,160 - 00:12:43,160] Because I promise you, I can give somebody
+- [00:12:43,160 - 00:12:45,160] who's like, I want to be an entrepreneur.
+- [00:12:45,160 - 00:12:47,160] Here's $1 million.
+- [00:12:47,160 - 00:12:49,160] And then here's all the books you need.
+- [00:12:49,160 - 00:12:51,160] Or I'll teach you as you go.
+- [00:12:51,160 - 00:12:53,160] And they'll still screw it up.
+- [00:12:53,160 - 00:12:54,160] Because they'll get greedy.
+- [00:12:54,160 - 00:12:55,040] They'll get emotional.
+- [00:12:55,040 - 00:12:57,040] They won't do what they say.
+- [00:12:57,040 - 00:12:58,540] Or they'll sit on their butts
+- [00:12:58,540 - 00:13:00,040] instead of doing the next step.
+- [00:13:00,040 - 00:13:02,040] And they won't meet the deadlines.
+- [00:13:02,040 - 00:13:04,040] I promise you, I can do that.
+- [00:13:04,040 - 00:13:05,040] So you've got to have those things.
+- [00:13:05,040 - 00:13:08,040] But you've got to be the right person that's ready to accept
+- [00:13:08,040 - 00:13:11,040] those things, to build those things, and utilize them as a good leader.
+- [00:13:11,040 - 00:13:14,540] But then later, the hard thing about
+- [00:13:14,540 - 00:13:18,040] entrepreneur is, do I diversify now or later?
+- [00:13:18,040 - 00:13:20,040] Because now you're taking bigger bets.
+- [00:13:20,040 - 00:13:22,040] I might have needed a
+- [00:13:22,040 - 00:13:24,040] couple hundred thousand dollars to start.
+- [00:13:24,040 - 00:13:26,040] Or tens of thousands to start.
+- [00:13:26,040 - 00:13:28,040] Now I'm betting on a million dollar.
+- [00:13:28,040 - 00:13:30,040] And I could lose everything I started with.
+- [00:13:30,040 - 00:13:32,040] And I could financially ruin myself.
+- [00:13:32,040 - 00:13:34,040] Now the stakes are higher.
+- [00:13:34,040 - 00:13:36,040] So the challenge is now,
+- [00:13:36,040 - 00:13:38,040] how do I calculate these risks?
+- [00:13:38,040 - 00:13:42,040] And then I think the bigger challenge is, once you start making so
+- [00:13:42,040 - 00:13:46,040] much money, and you can retire, but you don't because you're built this way.
+- [00:13:46,040 - 00:13:47,040] OK, I've got $10 million in the bank.
+- [00:13:47,040 - 00:13:49,040] Do I retire now?
+- [00:13:49,040 - 00:13:50,040] Could.
+- [00:13:50,040 - 00:13:51,540] But I just spent my whole life
+- [00:13:51,540 - 00:13:53,040] trying to learn how to shake and move.
+- [00:13:53,040 - 00:13:55,040] I'm not built that way now.
+- [00:13:55,040 - 00:13:56,040] So now you've got to ask yourself, well,
+- [00:13:56,040 - 00:13:57,040] how do you find the balance in your life?
+- [00:13:57,040 - 00:13:59,040] That's the challenge.
+- [00:13:59,040 - 00:14:02,040] Are you spending so much time that you
+- [00:14:02,040 - 00:14:05,040] fail to get a relationship and have kids?
+- [00:14:05,040 - 00:14:06,540] Or you had kids and you
+- [00:14:06,540 - 00:14:08,040] didn't spend enough time with them?
+- [00:14:08,040 - 00:14:10,540] Or your parents are now getting older, and you could
+- [00:14:10,540 - 00:14:13,040] have called, you could have wrote, you could have visited.
+- [00:14:13,040 - 00:14:15,040] So then you have to ask yourself,
+- [00:14:15,040 - 00:14:17,040] OK, life is more to it than this.
+- [00:14:17,040 - 00:14:19,040] How do I put it all together?
+- [00:14:19,040 - 00:14:21,040] So I think the challenges for the entrepreneur are
+- [00:14:21,040 - 00:14:23,040] very, very different depending on what stage you're in.
+- [00:14:23,040 - 00:14:25,540] And if you could spend the day with one
+- [00:14:25,540 - 00:14:28,040] influential figure, dead or alive, who would that person be?
+- [00:14:28,040 - 00:14:32,040] Benjamin Franklin.
+- [00:14:32,040 - 00:14:33,040] Benjamin Franklin.
+- [00:14:33,040 - 00:14:35,040] Man, I would love to meet that guy.
+- [00:14:35,040 - 00:14:37,040] Because not only was he an
+- [00:14:37,040 - 00:14:39,040] intelligent dude that made all these inventions.
+- [00:14:39,040 - 00:14:41,040] We know him from like, oh,
+- [00:14:41,040 - 00:14:43,040] he discovered electricity and all these inventions.
+- [00:14:43,040 - 00:14:44,540] But he was also a
+- [00:14:44,540 - 00:14:46,040] very big statesman and a diplomat.
+- [00:14:46,040 - 00:14:48,540] He single-handedly stopped wars between the
+- [00:14:48,540 - 00:14:51,040] Americans, the French, and the British.
+- [00:14:51,040 - 00:14:52,040] Why?
+- [00:14:52,040 - 00:14:53,040] Because of the money.
+- [00:14:53,040 - 00:14:55,040] Because all three of them respected him.
+- [00:14:55,040 - 00:14:57,040] So if he said, guys, let's talk.
+- [00:14:57,040 - 00:14:59,040] They say, sure, Ben.
+- [00:14:59,040 - 00:15:01,040] For you, let's talk.
+- [00:15:01,040 - 00:15:03,040] So how do you get to that point?
+- [00:15:03,040 - 00:15:05,040] One, you've got to make something of yourself.
+- [00:15:05,040 - 00:15:06,040] One, you've got to be honest.
+- [00:15:06,040 - 00:15:08,040] And then second, you've got to be honest.
+- [00:15:08,040 - 00:15:09,040] You've got to treat everybody fairly.
+- [00:15:09,040 - 00:15:11,040] And people have got to know that,
+- [00:15:11,040 - 00:15:13,040] hey, if he talks, we should listen.
+- [00:15:13,040 - 00:15:17,540] And I think that kind of diplomacy and that type of understanding
+- [00:15:17,540 - 00:15:22,040] of people and that type of ambition to be able to sit,
+- [00:15:22,040 - 00:15:24,540] to bring three of the biggest superpowers back to
+- [00:15:24,540 - 00:15:27,040] the table when they're fighting, I think is very admirable.
+- [00:15:27,040 - 00:15:28,540] So I'd love to meet a guy like
+- [00:15:28,540 - 00:15:30,040] that and hear what he has to say.
+- [00:15:30,040 - 00:15:33,040] And how can I become more like him?
+- [00:15:33,040 - 00:15:36,040] I've never asked this to anyone before, but I'm curious because it
+- [00:15:36,040 - 00:15:39,040] seems like you're very renowned and versatile kind of on your world history.
+- [00:15:39,040 - 00:15:41,040] But what would you say is the best
+- [00:15:41,040 - 00:15:43,040] lesson that you've learned from studying world history?
+- [00:15:43,040 - 00:15:46,040] If there's one particular lesson that you focused on or
+- [00:15:46,040 - 00:15:49,040] that you've studied a lot, what would you say that is?
+- [00:15:49,040 - 00:15:51,040] We just keep getting duped.
+- [00:15:51,040 - 00:15:53,040] We just keep getting fooled
+- [00:15:53,040 - 00:15:55,040] as humans over and over again.
+- [00:15:55,040 - 00:15:58,040] It's the same old story in a new timeline.
+- [00:15:58,040 - 00:16:00,040] People want to rise to power.
+- [00:16:00,040 - 00:16:02,040] People want to take advantage of others.
+- [00:16:02,040 - 00:16:03,040] They want to take advantage
+- [00:16:03,040 - 00:16:04,040] of the poor and the weak.
+- [00:16:04,040 - 00:16:07,040] They want to pit people against each other.
+- [00:16:07,040 - 00:16:08,540] They're constantly making us fight
+- [00:16:08,540 - 00:16:10,040] so they can rise to power.
+- [00:16:10,040 - 00:16:13,040] And we keep falling for the same tricks.
+- [00:16:13,040 - 00:16:16,040] If you keep looking in history, the same tricks
+- [00:16:16,040 - 00:16:19,040] that they've done before we had TV and social media,
+- [00:16:19,040 - 00:16:21,040] whether they walked the streets and walked the streets,
+- [00:16:21,040 - 00:16:23,040] and sold a narrative,
+- [00:16:23,040 - 00:16:25,040] and then they gave yellow journalism
+- [00:16:25,040 - 00:16:27,040] and newspapers to sell a narrative,
+- [00:16:27,040 - 00:16:28,540] or they pushed things on
+- [00:16:28,540 - 00:16:30,040] social media to sell a narrative,
+- [00:16:30,040 - 00:16:33,040] we keep falling for these emotional decisions.
+- [00:16:33,040 - 00:16:35,040] And we keep fighting each other, and
+- [00:16:35,040 - 00:16:37,040] we keep drawing hard lines in the sand.
+- [00:16:37,040 - 00:16:39,540] And we argue over things all
+- [00:16:39,540 - 00:16:42,040] the time that don't really matter.
+- [00:16:42,040 - 00:16:43,540] Instead of doing that, we
+- [00:16:43,540 - 00:16:45,040] should actually find real solutions.
+- [00:16:45,040 - 00:16:47,540] But we can't because we've already determined that
+- [00:16:47,540 - 00:16:50,040] you are on the other side of this,
+- [00:16:50,040 - 00:16:52,040] this ideological argument.
+- [00:16:52,040 - 00:16:55,040] So whatever you say, I'm going to argue with you.
+- [00:16:55,040 - 00:16:56,540] And I wish that as humans we
+- [00:16:56,540 - 00:16:58,040] can look back in history and say,
+- [00:16:58,040 - 00:17:01,040] this is our nature to be tribal.
+- [00:17:01,040 - 00:17:03,540] How do we become more constructive and actually
+- [00:17:03,540 - 00:17:06,040] find it in our nature to work together
+- [00:17:06,040 - 00:17:08,040] and to understand each other and
+- [00:17:08,040 - 00:17:10,040] understand why you're coming from that position,
+- [00:17:10,040 - 00:17:12,040] why I'm coming from this position, and what do we
+- [00:17:12,040 - 00:17:14,040] do about it now to make it better for everybody?
+- [00:17:14,040 - 00:17:16,040] Beautiful answer. Wow.
+- [00:17:16,040 - 00:17:18,040] What's the greatest lesson that your father taught you?
+- [00:17:18,040 - 00:17:20,040] The greatest lesson?
+- [00:17:20,040 - 00:17:22,040] The greatest lesson I learned from my
+- [00:17:22,040 - 00:17:24,040] father is the one I keep saying,
+- [00:17:24,040 - 00:17:28,040] which is don't get caught up with the money.
+- [00:17:28,040 - 00:17:30,540] And you can't say it enough because I've
+- [00:17:30,540 - 00:17:33,040] seen so many people change because they got money.
+- [00:17:33,040 - 00:17:35,040] It's not about the money.
+- [00:17:35,040 - 00:17:37,040] It's about the personal growth.
+- [00:17:37,040 - 00:17:39,040] Who are you as a person?
+- [00:17:39,040 - 00:17:41,540] Because say I had $100 million right
+- [00:17:41,540 - 00:17:44,040] now, and you took it away from me.
+- [00:17:44,040 - 00:17:46,040] Who am I?
+- [00:17:46,040 - 00:17:48,040] How did I get that money?
+- [00:17:48,040 - 00:17:49,040] What's left?
+- [00:17:49,040 - 00:17:51,040] And I'm not saying that you're a man or a
+- [00:17:51,040 - 00:17:53,040] woman if you take away the money tomorrow that you've earned.
+- [00:17:53,040 - 00:17:55,040] Do people still say, man, I love that guy.
+- [00:17:55,040 - 00:17:56,040] He's a great person.
+- [00:17:56,040 - 00:17:57,040] He helped me with this.
+- [00:17:57,040 - 00:17:58,040] He helped me with that.
+- [00:17:58,040 - 00:18:00,040] He looks out for people around him.
+- [00:18:00,040 - 00:18:01,040] He's a good friend.
+- [00:18:01,040 - 00:18:02,040] He's a good family member.
+- [00:18:02,040 - 00:18:04,540] So the number one thing I learned from my father
+- [00:18:04,540 - 00:18:07,040] is, yes, you want to do good in everything you do,
+- [00:18:07,040 - 00:18:09,540] and then money will hopefully become
+- [00:18:09,540 - 00:18:12,040] a byproduct if it's written for you.
+- [00:18:12,040 - 00:18:16,040] But who are you as a person?
+- [00:18:16,040 - 00:18:17,040] That's way more important.
+- [00:18:17,040 - 00:18:18,540] So that way you don't
+- [00:18:18,540 - 00:18:20,040] get caught up in the money.
+- [00:18:20,040 - 00:18:23,040] You don't get caught up in the pursuit of things.
+- [00:18:23,040 - 00:18:26,040] You remember that as you acquire your
+- [00:18:26,040 - 00:18:29,040] businesses and financial strength and political strength,
+- [00:18:29,040 - 00:18:31,540] you're always protecting the most important thing,
+- [00:18:31,540 - 00:18:34,040] which is who you are as a person,
+- [00:18:34,040 - 00:18:35,540] so that when you get
+- [00:18:35,540 - 00:18:37,040] the money, it doesn't change you.
+- [00:18:37,040 - 00:18:38,040] Guys, that wraps up today's episode.
+- [00:18:38,040 - 00:18:40,040] Thank you so much for tuning in.
+- [00:18:40,040 - 00:18:41,540] Be sure to like and subscribe
+- [00:18:41,540 - 00:18:43,040] for tons of amazing content coming soon.
+- [00:18:43,040 - 00:18:45,040] AK, thank you so much for joining us today.
+- [00:18:45,040 - 00:18:46,040] My pleasure.
+- [00:18:46,040 - 00:18:47,040] Thank you.
+- [00:18:47,040 - 00:18:50,040] I guess I'm fairly active on Instagram.
+- [00:18:50,040 - 00:18:53,040] It's just my first initial A
+- [00:18:53,040 - 00:18:56,040] and then my last name, Kudrath, K-U-D-R-A-T-H.
+- [00:18:56,040 - 00:19:00,040] And I actually want to start doing some more
+- [00:19:00,040 - 00:19:04,040] video series on medical-related stuff for the general population
+- [00:19:04,040 - 00:19:05,040] and also car stuff because
+- [00:19:05,040 - 00:19:06,040] everyone's a fan of the cars.
+- [00:19:06,040 - 00:19:08,540] And then we can maybe get you guys
+- [00:19:08,540 - 00:19:11,040] back on to do more business-related things as well.
+- [00:19:11,040 - 00:19:12,040] There we go.
+- [00:19:12,040 - 00:19:12,568] Perfect.
