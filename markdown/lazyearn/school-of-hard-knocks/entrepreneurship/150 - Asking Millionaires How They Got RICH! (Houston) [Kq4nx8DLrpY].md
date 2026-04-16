@@ -1,0 +1,468 @@
+# Transcript
+
+Source: lazyearn/school-of-hard-knocks/hard-knocks-interviews/117 - Asking Millionaires How They Got RICH! (Houston) [Kq4nx8DLrpY].mkv
+
+- [00:00:00,000 - 00:00:02,110] I'm only 4,600 square feet, and I did
+- [00:00:02,110 - 00:00:04,220] a million dollars in revenue in one month.
+- [00:00:11,240 - 00:00:12,730] Houston is one of the top 10 cities
+- [00:00:12,730 - 00:00:14,220] in the entire world with the most millionaires.
+- [00:00:14,320 - 00:00:15,420] Today, we're going to be asking
+- [00:00:15,420 - 00:00:16,520] Houston millionaires how they became wealthy.
+- [00:00:16,720 - 00:00:17,860] What was the most amount of money
+- [00:00:17,860 - 00:00:19,000] that you ever made in a single year?
+- [00:00:19,140 - 00:00:21,660] Somewhere between 2.5 to 5 million.
+- [00:00:21,880 - 00:00:22,060] Yeah.
+- [00:00:22,160 - 00:00:23,040] That's incredible, man.
+- [00:00:23,040 - 00:00:23,160] Yeah.
+- [00:00:23,280 - 00:00:24,900] What industry did you ultimately pursue a career in?
+- [00:00:24,900 - 00:00:25,540] The concierge space.
+- [00:00:25,620 - 00:00:26,260] What exactly are you doing?
+- [00:00:26,260 - 00:00:28,260] So basically, private jet charter, yacht
+- [00:00:28,260 - 00:00:30,260] charter, exotic cars, the whole nine yards.
+- [00:00:30,400 - 00:00:31,440] What is the best piece of advice
+- [00:00:31,440 - 00:00:32,479] that you would tell your younger self?
+- [00:00:32,580 - 00:00:33,880] Your network is your network.
+- [00:00:33,980 - 00:00:35,150] Keep the right people around you who
+- [00:00:35,150 - 00:00:36,320] push you, and that's all that matters.
+- [00:00:36,440 - 00:00:37,540] You're going to go far in life that way.
+- [00:00:37,600 - 00:00:38,300] Where are you from originally?
+- [00:00:38,520 - 00:00:38,840] Nigeria.
+- [00:00:39,040 - 00:00:40,220] Came a long way from back there, right?
+- [00:00:40,300 - 00:00:41,260] Are you living in Houston now?
+- [00:00:41,400 - 00:00:41,580] Yeah.
+- [00:00:41,820 - 00:00:41,980] Yeah.
+- [00:00:42,020 - 00:00:43,380] What was the best financial decision
+- [00:00:43,380 - 00:00:44,740] that you ever made throughout your lifetime?
+- [00:00:44,900 - 00:00:46,380] Just learn to hold on to money.
+- [00:00:46,480 - 00:00:48,140] The trick to being financially well
+- [00:00:48,140 - 00:00:49,800] off is being able to hold money.
+- [00:00:49,900 - 00:00:51,370] A lot of people can make a lot of money, but
+- [00:00:51,370 - 00:00:52,840] the trick is being able to hold on to that money.
+- [00:00:52,900 - 00:00:54,120] So the moment I figured out how to
+- [00:00:54,120 - 00:00:55,340] keep a lot of money, I was good.
+- [00:00:55,340 - 00:00:56,200] First interview of the day.
+- [00:00:56,280 - 00:00:56,839] He goes crazy.
+- [00:00:56,940 - 00:00:58,979] Guy makes $2 to $5 million, has an
+- [00:00:58,979 - 00:01:01,019] exotic car business, and he's a private jet concierge.
+- [00:01:01,080 - 00:01:02,239] Let's see what else the day has in store.
+- [00:01:07,380 - 00:01:11,620] What industry did you ultimately pursue a career in?
+- [00:01:11,640 - 00:01:12,060] Great question.
+- [00:01:12,160 - 00:01:13,680] I started off doing computer science.
+- [00:01:13,860 - 00:01:15,540] I was going to college because my parents expected
+- [00:01:15,540 - 00:01:17,220] me to, but my heart really wasn't into it.
+- [00:01:17,280 - 00:01:18,590] I later found my passion was
+- [00:01:18,590 - 00:01:19,900] in the study of life and biology.
+- [00:01:20,000 - 00:01:20,979] So I ended up becoming a doctor.
+- [00:01:21,160 - 00:01:22,420] I'm an emergency room doctor now.
+- [00:01:22,479 - 00:01:24,120] But even then, I switched industries.
+- [00:01:24,120 - 00:01:25,120] I still am a doctor,
+- [00:01:25,120 - 00:01:26,120] but I wanted to learn business.
+- [00:01:26,260 - 00:01:27,100] I wanted to do business in real estate.
+- [00:01:27,180 - 00:01:28,710] So now I'm building some lake homes on
+- [00:01:28,710 - 00:01:30,240] the north side of town, but I'm still learning.
+- [00:01:30,340 - 00:01:32,140] I'm in the early first couple years of that process.
+- [00:01:32,220 - 00:01:33,200] So you are a business owner?
+- [00:01:33,300 - 00:01:33,940] I am now, yeah.
+- [00:01:34,000 - 00:01:36,510] So I think you got to follow your passion, but it's
+- [00:01:36,510 - 00:01:39,020] okay for passions to be redirected as you get a little older.
+- [00:01:39,120 - 00:01:41,080] I once heard a wise man say you should only have
+- [00:01:41,080 - 00:01:43,040] a job long enough to learn what you can from it.
+- [00:01:43,100 - 00:01:44,140] At that point, it's time to move on.
+- [00:01:44,200 - 00:01:45,290] What is the most amount of money
+- [00:01:45,290 - 00:01:46,380] that you ever made in a single year?
+- [00:01:47,960 - 00:01:50,260] I usually don't say that, but I guess for
+- [00:01:50,260 - 00:01:52,560] the purposes of education, there's years where I lost money.
+- [00:01:52,560 - 00:01:54,110] But the years where I made good
+- [00:01:54,110 - 00:01:55,660] money, let's say around $4 to $5 million,
+- [00:01:56,260 - 00:01:58,700] offset some losses and then reinvest that into growth.
+- [00:01:58,840 - 00:01:59,890] And if you were to go back
+- [00:01:59,890 - 00:02:00,940] to when you first started that business,
+- [00:02:01,080 - 00:02:01,950] what is the number one thing
+- [00:02:01,950 - 00:02:02,820] that you would have told yourself?
+- [00:02:03,000 - 00:02:04,240] Yeah, you know, the first one's always the hardest.
+- [00:02:04,680 - 00:02:06,180] It took me years to make it profitable.
+- [00:02:06,380 - 00:02:07,410] You know, there was times where
+- [00:02:07,410 - 00:02:08,440] I worked like 96 hours straight.
+- [00:02:08,580 - 00:02:10,330] I think the biggest piece of advice on your
+- [00:02:10,330 - 00:02:12,080] first business is going to be lose the ego.
+- [00:02:12,280 - 00:02:13,700] Everybody wants to have a business.
+- [00:02:13,780 - 00:02:14,680] Everybody wants to make money.
+- [00:02:14,740 - 00:02:16,140] But when things aren't going right,
+- [00:02:16,140 - 00:02:17,540] everybody wants to blame somebody else.
+- [00:02:17,640 - 00:02:18,920] It doesn't matter if it's anybody else's fault.
+- [00:02:18,960 - 00:02:19,480] It's your business.
+- [00:02:19,620 - 00:02:20,420] Take the blame for everything.
+- [00:02:20,420 - 00:02:21,580] Even if it's so-and-so that messed
+- [00:02:21,580 - 00:02:22,740] up on it, it doesn't matter.
+- [00:02:22,820 - 00:02:23,180] You picked them.
+- [00:02:23,240 - 00:02:24,120] You got to ask yourself, how
+- [00:02:24,120 - 00:02:25,000] could I have picked them better?
+- [00:02:25,000 - 00:02:26,060] How can I train them better?
+- [00:02:26,100 - 00:02:27,140] How can I motivate them better?
+- [00:02:27,200 - 00:02:29,300] So if you lose the ego, blame yourself for everything,
+- [00:02:29,420 - 00:02:30,610] then you'll always find the
+- [00:02:30,610 - 00:02:31,800] right corrections to make it work.
+- [00:02:31,880 - 00:02:32,680] Where do you think people
+- [00:02:32,680 - 00:02:33,480] should look to invest their money
+- [00:02:33,480 - 00:02:34,520] to try and grow and scale
+- [00:02:34,520 - 00:02:35,560] the income that they do have?
+- [00:02:35,600 - 00:02:37,020] I think rule number one in business is
+- [00:02:37,020 - 00:02:38,440] almost everybody will try to take advantage of you,
+- [00:02:38,500 - 00:02:39,600] especially when you're new and trusting.
+- [00:02:39,740 - 00:02:40,820] So before I say that, I
+- [00:02:40,820 - 00:02:41,900] say don't give it to anybody.
+- [00:02:42,120 - 00:02:42,960] Investments are very tricky.
+- [00:02:43,060 - 00:02:43,920] One is you got to save.
+- [00:02:44,080 - 00:02:45,840] We said when you become 20 is when you
+- [00:02:45,840 - 00:02:47,600] want to spend money on that new car right away.
+- [00:02:47,600 - 00:02:48,690] I didn't have my first nice
+- [00:02:48,690 - 00:02:49,780] car until I was 30 years old.
+- [00:02:49,840 - 00:02:51,580] If you spend all your money too fast,
+- [00:02:51,680 - 00:02:53,310] you won't be able to have the money
+- [00:02:53,310 - 00:02:54,940] to invest in something that might have an opportunity.
+- [00:02:55,180 - 00:02:56,900] What industry did you ultimately pursue a career in?
+- [00:02:56,900 - 00:02:57,820] I'm in the marine industry.
+- [00:02:57,920 - 00:02:58,580] I'm a ship captain.
+- [00:02:58,700 - 00:02:59,960] Offshore oil and gas.
+- [00:03:00,060 - 00:03:01,090] What is the best piece of advice
+- [00:03:01,090 - 00:03:02,120] that you would tell your younger self?
+- [00:03:02,160 - 00:03:02,940] Follow your dreams.
+- [00:03:03,060 - 00:03:05,240] You only have one life and life is finite.
+- [00:03:05,560 - 00:03:06,520] You're born, you die.
+- [00:03:06,640 - 00:03:07,500] Everybody dies.
+- [00:03:07,640 - 00:03:08,460] Follow your dreams.
+- [00:03:08,660 - 00:03:09,820] Do everything with passion,
+- [00:03:10,040 - 00:03:11,470] whether it's your work or
+- [00:03:11,470 - 00:03:12,900] your pursuits, your hobbies, whatever.
+- [00:03:13,120 - 00:03:13,360] Enjoy.
+- [00:03:13,480 - 00:03:15,600] We're one of the most popular restaurants in Houston, Texas,
+- [00:03:15,600 - 00:03:16,570] and we're going to go in and see
+- [00:03:16,570 - 00:03:17,540] if we can get an interview with the owner.
+- [00:03:17,660 - 00:03:19,700] What industry did you ultimately pursue a career in?
+- [00:03:20,040 - 00:03:21,040] Hospitality, restaurant business.
+- [00:03:21,140 - 00:03:22,510] I started wedding tables at age
+- [00:03:22,510 - 00:03:23,880] 16 and I worked my way up
+- [00:03:23,880 - 00:03:24,980] and now I own my own restaurant.
+- [00:03:25,420 - 00:03:26,900] So you own this restaurant right here?
+- [00:03:26,900 - 00:03:27,240] Yes, sir.
+- [00:03:27,280 - 00:03:28,350] What is the most amount of money
+- [00:03:28,350 - 00:03:29,420] that you ever made in a single year?
+- [00:03:29,520 - 00:03:32,620] Well, this past year, December, I'm only 4,600 square feet
+- [00:03:32,620 - 00:03:33,970] and I did a million
+- [00:03:33,970 - 00:03:35,320] dollars in revenue in one month.
+- [00:03:35,360 - 00:03:38,500] And that's like $2,300, $2,400 a square foot.
+- [00:03:38,600 - 00:03:40,100] Nobody in the city does that.
+- [00:03:40,160 - 00:03:40,940] And what about for the whole year?
+- [00:03:40,980 - 00:03:42,030] The whole year, I ended
+- [00:03:42,030 - 00:03:43,080] up doing right under $10 million.
+- [00:03:43,560 - 00:03:44,790] Most people would be happy doing
+- [00:03:44,790 - 00:03:46,020] $4 million out of this size.
+- [00:03:46,100 - 00:03:46,960] I did $10 million.
+- [00:03:47,220 - 00:03:49,340] My goal is next year is to grow.
+- [00:03:49,440 - 00:03:50,470] And what I do is
+- [00:03:50,470 - 00:03:51,500] I tell all my key employees,
+- [00:03:51,740 - 00:03:53,080] I will write you a check.
+- [00:03:53,160 - 00:03:54,540] It could be $5,000, it could be $10,000.
+- [00:03:54,540 - 00:03:54,760] If I reach out to
+- [00:03:54,760 - 00:03:54,980] you, I'll write you a check.
+- [00:03:54,980 - 00:03:55,630] If I reach this number
+- [00:03:55,630 - 00:03:56,280] at the end of the year.
+- [00:03:56,340 - 00:03:57,280] You were to go back to
+- [00:03:57,280 - 00:03:58,220] when you started that first business,
+- [00:03:58,359 - 00:03:59,199] what is the number one
+- [00:03:59,199 - 00:04:00,040] thing that you would tell yourself?
+- [00:04:00,100 - 00:04:02,019] Get everything written out in paperwork.
+- [00:04:02,200 - 00:04:03,519] When you open a business with a partner,
+- [00:04:03,660 - 00:04:05,480] always make sure there's a decision maker,
+- [00:04:05,720 - 00:04:06,910] someone on the board of
+- [00:04:06,910 - 00:04:08,100] directors that can make a decision
+- [00:04:08,100 - 00:04:09,240] if you and your partner
+- [00:04:09,240 - 00:04:10,380] do not agree on certain things.
+- [00:04:10,480 - 00:04:11,339] Communication is key.
+- [00:04:11,459 - 00:04:13,280] That's the number one thing in any successful business.
+- [00:04:13,359 - 00:04:15,980] You got to communicate with your partner or your vendors
+- [00:04:15,980 - 00:04:17,560] or whatever makes you successful.
+- [00:04:17,659 - 00:04:18,860] How can someone become wealthy today?
+- [00:04:19,019 - 00:04:21,079] I've heard from many wealthy billionaires.
+- [00:04:21,219 - 00:04:23,880] They don't invest in businesses, they invest in people.
+- [00:04:23,880 - 00:04:24,960] I'm here seven days a week.
+- [00:04:25,040 - 00:04:26,420] Seven lunches, seven dinners.
+- [00:04:26,540 - 00:04:27,100] I never leave.
+- [00:04:27,200 - 00:04:28,100] I rarely take a break.
+- [00:04:28,180 - 00:04:29,380] I got two Porsches in my garage.
+- [00:04:29,560 - 00:04:30,620] They have no miles on them
+- [00:04:30,620 - 00:04:31,680] because I'm never home to drive.
+- [00:04:31,780 - 00:04:32,780] But I love what I do.
+- [00:04:32,940 - 00:04:34,360] I wouldn't trade it for anything in the world.
+- [00:04:34,460 - 00:04:37,080] So I think showing up and being 100% yourself
+- [00:04:37,080 - 00:04:39,520] and being true to your business, just being there.
+- [00:04:39,640 - 00:04:40,960] I know every customer on this patio.
+- [00:04:41,100 - 00:04:42,220] I know every customer inside.
+- [00:04:42,300 - 00:04:43,680] And I touch every single table.
+- [00:04:43,780 - 00:04:45,140] I make everyone feel special.
+- [00:04:45,260 - 00:04:46,880] You had brought up earlier that you never say no.
+- [00:04:46,960 - 00:04:47,740] Can you kind of explain that?
+- [00:04:47,780 - 00:04:48,500] In the restaurant business,
+- [00:04:48,760 - 00:04:50,120] the last thing a customer wants to hear,
+- [00:04:50,220 - 00:04:51,210] especially when he pulls up in
+- [00:04:51,210 - 00:04:52,200] a Ferrari, is the word no.
+- [00:04:52,300 - 00:04:53,390] So when they come in,
+- [00:04:53,390 - 00:04:54,480] if we're fully booked with reservations,
+- [00:04:54,480 - 00:04:54,960] we say,
+- [00:04:54,980 - 00:04:57,060] we're fully committed at this point.
+- [00:04:57,140 - 00:04:58,400] I never use the word no
+- [00:04:58,400 - 00:04:59,660] because no one wants to hear that.
+- [00:04:59,760 - 00:05:01,380] So I said, I can make anything happen.
+- [00:05:01,460 - 00:05:02,120] That's my motto.
+- [00:05:02,200 - 00:05:04,580] They want a car from the Rolls-Royce dealer delivered here.
+- [00:05:04,680 - 00:05:06,460] I will go get it, add 20% to the check,
+- [00:05:06,520 - 00:05:07,520] and bring them a Rolls-Royce.
+- [00:05:07,640 - 00:05:08,460] I do not say no.
+- [00:05:08,580 - 00:05:10,380] Gotta be one of my favorite interviews I've ever done.
+- [00:05:10,460 - 00:05:11,600] An incredible guy all around
+- [00:05:11,600 - 00:05:13,160] and just very thankful for his time.
+- [00:05:13,300 - 00:05:14,710] I mean, this man is literally
+- [00:05:14,710 - 00:05:16,120] in the middle of a lunch rush
+- [00:05:16,120 - 00:05:18,360] right here on a Sunday afternoon at his restaurant
+- [00:05:18,360 - 00:05:19,460] and took the time to come
+- [00:05:19,460 - 00:05:20,560] answer a few questions for us.
+- [00:05:20,660 - 00:05:21,660] We're seeing, we were watching him.
+- [00:05:21,700 - 00:05:22,880] He's touching every table
+- [00:05:22,880 - 00:05:24,340] and talking to every customer in there.
+- [00:05:24,340 - 00:05:24,860] Damn, what a,
+- [00:05:24,980 - 00:05:26,740] what a great entrepreneur, entrepreneur spirit, man.
+- [00:05:26,860 - 00:05:27,800] We just saw Cam Jackson,
+- [00:05:27,800 - 00:05:29,800] who's a really big entrepreneur on social media,
+- [00:05:30,020 - 00:05:30,680] walking his dog.
+- [00:05:30,760 - 00:05:31,480] So we're going to go after him,
+- [00:05:31,500 - 00:05:32,680] see if we can get this interview real quick.
+- [00:05:38,300 - 00:05:40,680] And what industry did you ultimately pursue a career in?
+- [00:05:40,760 - 00:05:41,100] Real estate.
+- [00:05:41,220 - 00:05:42,220] Yeah, so I do real estate investing.
+- [00:05:42,320 - 00:05:43,680] And so are you a business owner by any chance?
+- [00:05:43,880 - 00:05:45,520] Yes, I actually have some restaurants in Louisiana
+- [00:05:45,520 - 00:05:47,080] and a shipping container park,
+- [00:05:47,140 - 00:05:48,480] basically is what it is in Louisiana.
+- [00:05:48,620 - 00:05:49,760] So what's your best advice to someone
+- [00:05:49,760 - 00:05:51,420] who's trying to start buying property today?
+- [00:05:51,500 - 00:05:52,820] I would say get into the areas
+- [00:05:52,820 - 00:05:54,120] that are starting to gentrify,
+- [00:05:54,120 - 00:05:54,960] but you got to get there early.
+- [00:05:55,120 - 00:05:55,780] Find those areas,
+- [00:05:55,880 - 00:05:57,120] find people that are investing already,
+- [00:05:57,200 - 00:05:57,960] see where they're investing
+- [00:05:57,960 - 00:05:59,500] and then get around schools,
+- [00:05:59,620 - 00:06:01,420] anywhere that they're doing new HEBs
+- [00:06:01,420 - 00:06:03,080] or doing, you know, Amazon shopping centers,
+- [00:06:03,140 - 00:06:04,140] get there when they're doing those
+- [00:06:04,140 - 00:06:05,280] and start getting some real estate there.
+- [00:06:05,340 - 00:06:05,840] You were to go back to
+- [00:06:05,840 - 00:06:06,920] when you started that first business,
+- [00:06:07,040 - 00:06:07,800] what is the number one thing
+- [00:06:07,800 - 00:06:08,560] that you would have told yourself?
+- [00:06:08,660 - 00:06:09,520] Get around more people
+- [00:06:09,520 - 00:06:10,720] that are doing what you want to do
+- [00:06:10,720 - 00:06:11,500] and find a mentor.
+- [00:06:11,700 - 00:06:12,460] Continue to get better.
+- [00:06:12,540 - 00:06:13,540] You're always going to continue to get better.
+- [00:06:13,620 - 00:06:14,580] Don't worry about being perfect.
+- [00:06:14,740 - 00:06:16,100] And advice I'll tell somebody today,
+- [00:06:16,180 - 00:06:16,560] just start.
+- [00:06:16,760 - 00:06:17,800] What was the most amount of money
+- [00:06:17,800 - 00:06:19,040] that you ever made in a single year?
+- [00:06:19,100 - 00:06:19,460] Most money?
+- [00:06:19,620 - 00:06:19,760] Yeah.
+- [00:06:19,860 - 00:06:20,440] Two million dollars.
+- [00:06:20,440 - 00:06:21,660] What is the best piece of advice
+- [00:06:21,660 - 00:06:22,640] that you would tell your younger self?
+- [00:06:22,700 - 00:06:24,760] I would say that they need to think
+- [00:06:24,760 - 00:06:26,600] in how to grow their own business
+- [00:06:26,600 - 00:06:27,780] and not to be an employee.
+- [00:06:27,860 - 00:06:28,860] So did you become a business owner?
+- [00:06:28,960 - 00:06:30,740] I was an employee for 23 years,
+- [00:06:30,800 - 00:06:32,280] but now I have my own company.
+- [00:06:32,400 - 00:06:33,580] And if somebody will teach me
+- [00:06:33,580 - 00:06:34,440] in the university
+- [00:06:34,440 - 00:06:35,460] that the best will be
+- [00:06:35,460 - 00:06:36,600] to have your own business,
+- [00:06:36,880 - 00:06:37,540] I will follow that.
+- [00:06:37,800 - 00:06:39,080] So what exactly is your company right now?
+- [00:06:39,080 - 00:06:40,320] We are in the propane business.
+- [00:06:40,580 - 00:06:42,140] We export propane into Mexico.
+- [00:06:42,240 - 00:06:42,860] If you were to go back
+- [00:06:42,860 - 00:06:44,080] to when you started that first business,
+- [00:06:44,220 - 00:06:45,080] what is the number one thing
+- [00:06:45,080 - 00:06:45,940] that you would have told yourself?
+- [00:06:45,980 - 00:06:47,900] I would say the most important in life
+- [00:06:47,900 - 00:06:48,600] is relationships.
+- [00:06:48,600 - 00:06:49,620] How to through relationships,
+- [00:06:49,780 - 00:06:50,340] do business.
+- [00:06:50,620 - 00:06:51,180] That's the best.
+- [00:06:51,460 - 00:06:51,640] What is the most important
+- [00:06:51,640 - 00:06:52,500] piece of advice
+- [00:06:52,500 - 00:06:53,479] that you would tell your younger self?
+- [00:06:53,719 - 00:06:54,599] I dropped out of college.
+- [00:06:54,740 - 00:06:55,580] I wouldn't really give myself
+- [00:06:55,580 - 00:06:56,599] a lot of advice.
+- [00:06:56,700 - 00:06:57,640] What industry did you ultimately
+- [00:06:57,640 - 00:06:58,340] pursue a career in?
+- [00:06:58,380 - 00:06:59,919] I mean, I was advertising sales
+- [00:06:59,919 - 00:07:01,460] and I sold Lexus at 23.
+- [00:07:01,659 - 00:07:03,020] Mortgage loan officer at 25.
+- [00:07:03,380 - 00:07:04,700] And then I opened a mortgage company
+- [00:07:04,700 - 00:07:05,700] and now I own a company,
+- [00:07:05,800 - 00:07:06,719] worldclass.com,
+- [00:07:06,780 - 00:07:07,599] where I import or sell
+- [00:07:07,599 - 00:07:08,479] to fine restaurants.
+- [00:07:08,560 - 00:07:09,400] So as an entrepreneur,
+- [00:07:09,599 - 00:07:10,219] if you were to go back
+- [00:07:10,219 - 00:07:10,659] to when you started
+- [00:07:10,659 - 00:07:11,479] that first business,
+- [00:07:11,599 - 00:07:12,440] what is the number one thing
+- [00:07:12,440 - 00:07:13,219] that you would have told yourself?
+- [00:07:13,300 - 00:07:14,500] I probably would have raised capital
+- [00:07:14,500 - 00:07:15,979] and I would have surrounded myself
+- [00:07:15,979 - 00:07:17,320] with really good people from day one.
+- [00:07:17,360 - 00:07:18,380] Things that I've never done.
+- [00:07:18,539 - 00:07:19,320] I've never raised capital.
+- [00:07:19,320 - 00:07:20,300] I've never surrounded myself
+- [00:07:20,300 - 00:07:21,419] day one with a great team.
+- [00:07:21,420 - 00:07:22,440] You have those two things,
+- [00:07:22,500 - 00:07:23,200] you're going to go.
+- [00:07:23,280 - 00:07:23,660] When you're starting
+- [00:07:23,660 - 00:07:24,400] to make that money though,
+- [00:07:24,460 - 00:07:25,300] you're looking to kind of invest,
+- [00:07:25,360 - 00:07:26,160] put it in different places.
+- [00:07:26,380 - 00:07:27,700] I mean, real estate is number one.
+- [00:07:27,860 - 00:07:29,480] And then you should have a cushion,
+- [00:07:29,620 - 00:07:31,240] six to 12 months of your spend.
+- [00:07:31,380 - 00:07:32,120] And then from there,
+- [00:07:32,200 - 00:07:33,760] as far as stocks, S&P 500.
+- [00:07:33,960 - 00:07:34,680] I mean, if Warren Buffett's
+- [00:07:34,680 - 00:07:35,860] going to bet a million dollars
+- [00:07:35,860 - 00:07:37,320] against the top 10 hedge funds
+- [00:07:37,320 - 00:07:38,660] and win 10 out of 10 times
+- [00:07:38,660 - 00:07:39,480] over a decade,
+- [00:07:39,600 - 00:07:40,860] why are you going to try to be better
+- [00:07:40,860 - 00:07:42,120] than the best Goldman Sachs?
+- [00:07:42,220 - 00:07:43,400] I mean, just buy the S&P 500.
+- [00:07:43,580 - 00:07:43,900] That's it.
+- [00:07:43,960 - 00:07:45,220] What's the number one mindset change
+- [00:07:45,220 - 00:07:46,020] that is needed in order
+- [00:07:46,020 - 00:07:47,180] to become a multimillionaire?
+- [00:07:47,220 - 00:07:48,200] You just can't be a sheep.
+- [00:07:48,200 - 00:07:49,300] Let's say you get off the freeway
+- [00:07:49,300 - 00:07:50,700] and you have 15 people in one lane.
+- [00:07:50,860 - 00:07:51,020] Yeah.
+- [00:07:51,140 - 00:07:52,099] And you can turn left
+- [00:07:52,099 - 00:07:53,180] and there's one or two here.
+- [00:07:53,240 - 00:07:54,120] Everyone just keeps lining up
+- [00:07:54,120 - 00:07:54,760] behind that 50.
+- [00:07:54,760 - 00:07:55,580] You can't just do
+- [00:07:55,580 - 00:07:56,620] what everyone else is doing.
+- [00:07:56,740 - 00:07:57,560] And you have to constantly
+- [00:07:57,560 - 00:07:58,840] change yourself all the time.
+- [00:07:58,979 - 00:07:59,599] What industry did you
+- [00:07:59,599 - 00:08:00,740] ultimately pursue a career in?
+- [00:08:00,840 - 00:08:02,000] I do medical sales.
+- [00:08:02,200 - 00:08:03,380] I do implant sales.
+- [00:08:03,620 - 00:08:04,760] I only do foot and ankle.
+- [00:08:05,060 - 00:08:06,300] I don't do anything exciting.
+- [00:08:06,380 - 00:08:07,380] What's the most amount of money
+- [00:08:07,380 - 00:08:08,560] that you ever made in a single year?
+- [00:08:08,640 - 00:08:10,300] About 400, 500,000.
+- [00:08:10,500 - 00:08:11,440] What has been your secret
+- [00:08:11,440 - 00:08:12,520] to sales throughout your career?
+- [00:08:12,640 - 00:08:14,060] You really have to push yourself
+- [00:08:14,060 - 00:08:15,599] and you never say no.
+- [00:08:15,740 - 00:08:16,780] You tell those doctors,
+- [00:08:16,940 - 00:08:18,180] you tell whoever you're selling.
+- [00:08:18,200 - 00:08:19,840] You want my product
+- [00:08:19,840 - 00:08:20,780] because it's the best.
+- [00:08:20,960 - 00:08:21,840] Keep showing them
+- [00:08:21,840 - 00:08:22,820] your customer service.
+- [00:08:22,979 - 00:08:24,140] You keep showing them yourself
+- [00:08:24,140 - 00:08:25,420] because in sales,
+- [00:08:25,640 - 00:08:26,800] it is you that they're buying.
+- [00:08:27,039 - 00:08:28,320] It's your customer service.
+- [00:08:28,420 - 00:08:29,700] It's your commitment to them
+- [00:08:29,700 - 00:08:30,820] and making sure that they have
+- [00:08:30,820 - 00:08:31,960] everything that they want
+- [00:08:31,960 - 00:08:33,299] and you never give up on them.
+- [00:08:33,500 - 00:08:34,120] Are you an investor?
+- [00:08:34,299 - 00:08:35,679] I invest all my money.
+- [00:08:35,799 - 00:08:37,059] What's your best investment advice
+- [00:08:37,059 - 00:08:37,939] to the younger generation?
+- [00:08:38,120 - 00:08:39,220] I think the key is that
+- [00:08:39,220 - 00:08:40,960] you never stop investing in yourself.
+- [00:08:41,059 - 00:08:43,220] You never stop investing in real estate.
+- [00:08:43,500 - 00:08:44,240] If you were to go back
+- [00:08:44,240 - 00:08:44,740] to when you were in either
+- [00:08:44,740 - 00:08:45,520] high school or college
+- [00:08:45,520 - 00:08:46,620] and you're having a conversation
+- [00:08:46,620 - 00:08:47,680] with your 20-year-old self,
+- [00:08:47,680 - 00:08:48,180] what is the most important
+- [00:08:48,180 - 00:08:49,140] piece of advice
+- [00:08:49,140 - 00:08:50,180] that you would tell your younger self?
+- [00:08:50,239 - 00:08:51,439] Do exactly what I did.
+- [00:08:51,500 - 00:08:52,020] Go to college
+- [00:08:52,020 - 00:08:53,280] and get a degree in engineering.
+- [00:08:53,439 - 00:08:54,160] Are you a business owner
+- [00:08:54,160 - 00:08:54,680] by any chance?
+- [00:08:54,760 - 00:08:55,120] No, no.
+- [00:08:55,219 - 00:08:56,400] Just an electrical engineer
+- [00:08:56,400 - 00:08:57,400] doing project management.
+- [00:08:57,439 - 00:08:58,540] What was the most amount of money
+- [00:08:58,540 - 00:08:59,719] that you ever made in a single year?
+- [00:09:02,120 - 00:09:03,040] And do you think a college degree
+- [00:09:03,040 - 00:09:04,239] is necessary to be successful
+- [00:09:04,239 - 00:09:04,959] in today's society?
+- [00:09:05,199 - 00:09:05,520] No.
+- [00:09:05,739 - 00:09:06,040] Why not?
+- [00:09:06,120 - 00:09:07,140] Depends on your skill set.
+- [00:09:07,239 - 00:09:07,859] So you might be
+- [00:09:07,859 - 00:09:09,140] a brilliant entrepreneur
+- [00:09:09,140 - 00:09:10,900] and be able to be an Elon Musk
+- [00:09:10,900 - 00:09:11,400] or whoever
+- [00:09:11,400 - 00:09:12,819] without having a college degree.
+- [00:09:12,900 - 00:09:13,819] I don't think you have one.
+- [00:09:14,140 - 00:09:14,859] And what industry
+- [00:09:14,859 - 00:09:15,620] did you guys ultimately
+- [00:09:15,620 - 00:09:16,380] pursue a career in?
+- [00:09:16,380 - 00:09:17,359] Both of us are in real estate.
+- [00:09:17,500 - 00:09:18,160] I built a home.
+- [00:09:18,439 - 00:09:19,260] Commercial real estate.
+- [00:09:19,439 - 00:09:20,280] What's your best advice
+- [00:09:20,280 - 00:09:21,439] to anybody starting out in sales
+- [00:09:21,439 - 00:09:22,180] in today's world?
+- [00:09:22,260 - 00:09:23,680] You always sell yourself first.
+- [00:09:23,859 - 00:09:24,620] If they like you,
+- [00:09:24,660 - 00:09:25,300] they'll buy from you.
+- [00:09:25,380 - 00:09:26,359] And ask a bunch of questions.
+- [00:09:26,540 - 00:09:26,660] You know,
+- [00:09:26,900 - 00:09:27,959] people will sell themselves
+- [00:09:27,959 - 00:09:29,099] on you
+- [00:09:29,099 - 00:09:30,540] if you ask enough questions.
+- [00:09:30,739 - 00:09:31,760] What is the number one skill
+- [00:09:31,760 - 00:09:32,239] that is needed
+- [00:09:32,239 - 00:09:32,939] to be successful
+- [00:09:32,939 - 00:09:33,739] in the business world?
+- [00:09:33,920 - 00:09:34,780] What you just talked about.
+- [00:09:34,839 - 00:09:35,660] If you can sell yourself,
+- [00:09:35,739 - 00:09:36,579] I don't care what industry
+- [00:09:36,579 - 00:09:37,280] you're in,
+- [00:09:37,359 - 00:09:38,120] you can be an accountant,
+- [00:09:38,199 - 00:09:38,839] you can be an engineer.
+- [00:09:39,040 - 00:09:40,260] If you cannot sell yourself,
+- [00:09:40,359 - 00:09:40,979] you're not going to be
+- [00:09:40,979 - 00:09:41,800] successful anywhere.
+- [00:09:41,959 - 00:09:42,479] That wraps up
+- [00:09:42,479 - 00:09:43,199] our weekend in Houston.
+- [00:09:43,199 - 00:09:44,060] Be sure to leave a like
+- [00:09:44,060 - 00:09:44,800] and subscribe for tons
+- [00:09:44,800 - 00:09:46,140] of amazing content coming soon.
+- [00:09:46,380 - 00:09:47,219] And click this video right here
+- [00:09:47,220 - 00:09:47,880] to watch us go around
+- [00:09:47,880 - 00:09:48,540] wealthy neighborhoods
+- [00:09:48,540 - 00:09:49,380] asking millionaires
+- [00:09:49,380 - 00:09:50,100] how they got rich.
