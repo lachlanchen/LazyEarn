@@ -1,0 +1,24 @@
+# Transcript
+
+Source: lazyearn/school-of-hard-knocks/entrepreneurship/110 - Asking a multi-millionaire CEO the biggest lesson he learned in the business. [oEty--1-O3Q].webm
+
+- [00:00:00,000 - 00:00:03,180] What was the biggest lesson that you learned from playing football that you kind
+- [00:00:03,180 - 00:00:06,360] of used to help adapt into the business owner and leader that you are today?
+- [00:00:06,540 - 00:00:07,960] First, you learn how to work with a
+- [00:00:07,960 - 00:00:09,380] team. You learn how to deal with adversity.
+- [00:00:09,640 - 00:00:11,280] But I would say those are all
+- [00:00:11,280 - 00:00:12,920] the common things that you see in sports.
+- [00:00:13,060 - 00:00:14,950] But I would say the best thing that
+- [00:00:14,950 - 00:00:16,840] I learned actually came from my mistakes in sports.
+- [00:00:17,160 - 00:00:18,540] So I played quarterback. I
+- [00:00:18,540 - 00:00:19,920] was a scrappy dual threat quarterback.
+- [00:00:20,500 - 00:00:23,360] And when I was at Long Beach City College, a junior college
+- [00:00:23,360 - 00:00:26,220] just outside of Los Angeles, I had these two coaches that were fantastic.
+- [00:00:26,220 - 00:00:28,169] I'm still talking to you. Brad
+- [00:00:28,169 - 00:00:30,119] Peabody and Ryan Flynn. Unbelievable coaches.
+- [00:00:30,400 - 00:00:32,540] But the problem was, is I was
+- [00:00:32,540 - 00:00:34,680] obsessed with trying to do everything my way.
+- [00:00:34,879 - 00:00:37,999] I thought, I didn't think I just knew more than them, but they would
+- [00:00:37,999 - 00:00:41,120] teach it to me and I was just always trying to do it my way.
+- [00:00:41,239 - 00:00:44,859] I didn't stick to the basics. And I worked very, very, very
+- [00:00:44,859 - 00:00:48,480] hard, but I never fully used my brain like I could have.
