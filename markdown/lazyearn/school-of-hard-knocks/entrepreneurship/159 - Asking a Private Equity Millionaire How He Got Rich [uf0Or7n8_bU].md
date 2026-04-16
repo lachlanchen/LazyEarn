@@ -1,0 +1,466 @@
+# Transcript
+
+Source: lazyearn/school-of-hard-knocks/hard-knocks-interviews/123 - Asking a Private Equity Millionaire How He Got Rich [uf0Or7n8_bU].mkv
+
+- [00:00:00,000 - 00:00:01,920] Welcome back to another video. We're here
+- [00:00:01,920 - 00:00:03,840] with episode eight, 10 questions with a millionaire.
+- [00:00:04,059 - 00:00:06,080] We're going to be linking with Mike Kessner here
+- [00:00:06,080 - 00:00:08,100] in Austin, Texas. Ask him a couple of questions
+- [00:00:08,100 - 00:00:09,930] on basically how he became successful. Hopefully you
+- [00:00:09,930 - 00:00:11,760] have a good time doing it as well. Yeah.
+- [00:00:11,800 - 00:00:13,590] Looking forward to it. Getting some expertise
+- [00:00:13,590 - 00:00:15,380] from Mike. Super successful guy. So we're going
+- [00:00:15,380 - 00:00:18,270] to get right into it. Mike, how you
+- [00:00:18,270 - 00:00:21,160] doing? What's going on, Jack? How you doing, buddy?
+- [00:00:21,780 - 00:00:23,870] Come on in. Good to see you. How you
+- [00:00:23,870 - 00:00:25,960] doing, buddy? Good. Awesome. Yeah. So we just got,
+- [00:00:26,040 - 00:00:27,800] we got like a couple of questions for you.
+- [00:00:27,800 - 00:00:29,560] Obviously we kind of met in kind of an interesting
+- [00:00:29,560 - 00:00:31,449] way. Pretty much we were out doing
+- [00:00:31,449 - 00:00:33,339] street interviews for hard knocks, just trying to
+- [00:00:33,339 - 00:00:35,159] find answers for, you know, younger people starting
+- [00:00:35,159 - 00:00:36,980] out in the real world and ended up
+- [00:00:36,980 - 00:00:38,630] running into you. And we did an interview. I
+- [00:00:38,630 - 00:00:40,280] believe like the big question that we had asked
+- [00:00:40,280 - 00:00:42,380] you that had gone kind of crazy viral on
+- [00:00:42,380 - 00:00:44,480] the channel was what industry is the best to get
+- [00:00:44,480 - 00:00:46,190] wealthy? And one of the answers you
+- [00:00:46,190 - 00:00:47,900] said was private equity. It went crazy viral.
+- [00:00:48,239 - 00:00:51,699] Over, I think well over 2 million views. Yeah. Well,
+- [00:00:51,699 - 00:00:55,160] I got a funny update to that. So now my
+- [00:00:55,160 - 00:00:57,290] son left his job in consulting and
+- [00:00:57,290 - 00:00:59,420] is now at a large private equity firm.
+- [00:00:59,420 - 00:00:59,480] And he's now a CEO of a company called, you
+- [00:00:59,480 - 00:00:59,540] know, the, the, the, the, the, the, the, the, the,
+- [00:00:59,540 - 00:01:03,020] New York. Amazing. And my son-in-law left
+- [00:01:03,020 - 00:01:06,500] investment banking and has now started a
+- [00:01:06,500 - 00:01:08,940] private equity firm. So that's kind of
+- [00:01:08,940 - 00:01:11,380] weird. There's very little chance. They probably didn't
+- [00:01:11,380 - 00:01:13,880] even watch the clip, but it's just serendipitous.
+- [00:01:13,880 - 00:01:16,380] Like, Oh, that's kind of weird. I said that.
+- [00:01:16,480 - 00:01:18,630] And all my insurance buddy said, Oh, thanks a
+- [00:01:18,630 - 00:01:20,780] lot. Don't you want people to get into insurance? I
+- [00:01:20,780 - 00:01:23,260] said, no, it's just my honest answer. What career
+- [00:01:23,260 - 00:01:25,740] did you originally go into out of high school and
+- [00:01:25,740 - 00:01:27,570] college? Like kind of, where did you go from there
+- [00:01:27,570 - 00:01:29,400] to get to where you are today? So I went to
+- [00:01:29,400 - 00:01:31,500] LSU many years ago, thought I was going to
+- [00:01:31,500 - 00:01:33,600] be a baseball player. Ended up sitting on the bench,
+- [00:01:33,720 - 00:01:36,080] learned how to chew tobacco. They're transferred
+- [00:01:36,080 - 00:01:38,440] to university of Denver. Ever since I transferred
+- [00:01:38,440 - 00:01:40,830] LSU has been like a top 10 team. I guess
+- [00:01:40,830 - 00:01:43,220] when I left, they became good. And then after college
+- [00:01:43,220 - 00:01:45,440] first job, I think I was a headhunter. I quit
+- [00:01:45,440 - 00:01:47,660] after a month because I, it was cold. I didn't
+- [00:01:47,660 - 00:01:50,070] like getting up at six in the morning, taking
+- [00:01:50,070 - 00:01:52,480] the train downtown Chicago. So I had to establish a
+- [00:01:52,480 - 00:01:54,790] little more grit in my life and I didn't have it
+- [00:01:54,790 - 00:01:57,100] then that ended quickly. Then I got a job with a
+- [00:01:57,100 - 00:01:59,100] large company and transferred to,
+- [00:01:59,100 - 00:02:01,469] and moved to St. Louis, which was great. I learned
+- [00:02:01,469 - 00:02:03,839] a lot. It was good experience. I met my wife in
+- [00:02:03,839 - 00:02:06,969] St. Louis 34 years ago. So I'll always be happy
+- [00:02:06,969 - 00:02:10,100] and think highly of St. Louis. Then I wanted to
+- [00:02:10,100 - 00:02:11,979] move home because my mom was a widow and I
+- [00:02:11,979 - 00:02:13,859] kind of felt guilty. Ended up getting in the insurance
+- [00:02:13,859 - 00:02:16,219] business. I've been in the insurance business for over
+- [00:02:16,219 - 00:02:18,579] 30 years. I was a producer. I didn't know
+- [00:02:18,579 - 00:02:21,149] what I was doing for the first three or four years,
+- [00:02:21,149 - 00:02:23,720] but I kind of always knew that if I just hung out
+- [00:02:23,720 - 00:02:26,089] with authentic, good, high energy people, they
+- [00:02:26,089 - 00:02:28,459] were eventually going to be successful. And then
+- [00:02:29,100 - 00:02:30,870] I was like, I'm going to be successful if I kind
+- [00:02:30,870 - 00:02:32,640] of play the long game and it worked out. So I did
+- [00:02:32,640 - 00:02:35,460] that for 25, you know, probably over 25 years, met
+- [00:02:35,460 - 00:02:38,280] a youngster, a young guy who's a CEO of an
+- [00:02:38,280 - 00:02:40,800] insurance firm five years ago, roughly, and thought my
+- [00:02:40,800 - 00:02:43,320] old firm would, we'd grown to be a large,
+- [00:02:43,320 - 00:02:45,540] you know, firm, 2000 people, private equity roll
+- [00:02:45,540 - 00:02:47,760] up, thought we'd purchase him and just became
+- [00:02:47,760 - 00:02:50,040] friends. A year later, went to dinner with him and
+- [00:02:50,040 - 00:02:52,320] my partner and myself, and he made us an offer.
+- [00:02:52,320 - 00:02:54,510] We couldn't refuse. And it's been the most enjoyable
+- [00:02:54,510 - 00:02:56,700] three and a half years of my career in
+- [00:02:56,700 - 00:02:57,749] the insurance industry. Just kind
+- [00:02:57,749 - 00:02:58,799] of coaching all the youngsters,
+- [00:02:59,100 - 00:03:01,080] leaving a legacy. What exactly has
+- [00:03:01,080 - 00:03:03,060] been your best and worst financial decision?
+- [00:03:03,060 - 00:03:05,190] Best one might've been pre-pandemic. I was
+- [00:03:05,190 - 00:03:07,320] just on an airplane reading about Nautilus,
+- [00:03:07,320 - 00:03:09,330] which when I was a kid, it was like
+- [00:03:09,330 - 00:03:11,340] the first gym, Nautilus machines. I was just reading about
+- [00:03:11,340 - 00:03:13,470] it pre-pandemic by like a month. I go, they own
+- [00:03:13,470 - 00:03:15,600] like a piece of Schwinn and some of these other
+- [00:03:15,600 - 00:03:17,910] companies. So I poured some money into Nautilus,
+- [00:03:17,910 - 00:03:20,220] pure luck. Then the pandemic happened. I poured
+- [00:03:20,220 - 00:03:21,810] more money into it, figuring, well, people are going
+- [00:03:21,810 - 00:03:23,400] to be stuck at home. It seems like they're
+- [00:03:23,400 - 00:03:25,770] going to buy this stuff. That was the best. The
+- [00:03:25,770 - 00:03:28,140] worst would be either Coinbase. So I gave a lot
+- [00:03:28,140 - 00:03:29,040] of that, those winnings.
+- [00:03:29,100 - 00:03:31,500] I would say Coinbase back, although I'm still holding
+- [00:03:31,500 - 00:03:33,900] on. I would also say our home that we
+- [00:03:33,900 - 00:03:36,000] raised the kids in. We were there for 20 plus
+- [00:03:36,000 - 00:03:38,100] years. I think I'm the only person that was in
+- [00:03:38,100 - 00:03:39,900] a house for 20 years that broke even.
+- [00:03:39,900 - 00:03:41,700] I wouldn't trade anything in the world though. Incredible
+- [00:03:41,700 - 00:03:43,440] memories. It was a beautiful house,
+- [00:03:43,440 - 00:03:45,180] good neighborhood. So nothing but good memories.
+- [00:03:45,180 - 00:03:47,430] And just, I guess the timing when we moved
+- [00:03:47,430 - 00:03:49,680] wasn't perfect. So I would say that and Coinbase,
+- [00:03:49,680 - 00:03:51,000] but Coinbase, I'm still fingers
+- [00:03:51,000 - 00:03:52,320] crossed that that'll be okay.
+- [00:03:52,320 - 00:03:54,780] I want to circle back to a question that we
+- [00:03:54,780 - 00:03:57,240] asked you a very long time ago and your answer might
+- [00:03:57,240 - 00:03:58,140] have changed a little bit, but what
+- [00:03:58,140 - 00:03:59,040] industry would you like to be in?
+- [00:03:59,040 - 00:04:00,540] What industry do you really think people need
+- [00:04:00,540 - 00:04:02,040] to be looking to get into when they're starting
+- [00:04:02,040 - 00:04:04,110] their career in today's day and age in 2023?
+- [00:04:04,110 - 00:04:06,180] And I am not an expert in this industry,
+- [00:04:06,180 - 00:04:08,310] but I would say data scientists. That would be
+- [00:04:08,310 - 00:04:10,440] an industry that I would look at. I know for
+- [00:04:10,440 - 00:04:13,380] our insurance firm, that's an area we want
+- [00:04:13,380 - 00:04:16,320] to grow greatly. Have some young studs crunch all
+- [00:04:16,320 - 00:04:19,019] the data and come to the old guys like me
+- [00:04:19,019 - 00:04:21,719] and say, hey, this is trending, that's trending. So kind of
+- [00:04:21,719 - 00:04:23,009] like Moneyball, which I know
+- [00:04:23,009 - 00:04:24,300] is one of your favorites. Absolutely.
+- [00:04:24,300 - 00:04:26,640] Yeah. It's kind of along those lines. Yeah.
+- [00:04:26,640 - 00:04:28,980] But you say analytics is massive now for companies.
+- [00:04:29,040 - 00:04:32,760] Analytics and any version of analytics I think.
+- [00:04:32,760 - 00:04:35,250] And before we change spots, I just wanted
+- [00:04:35,250 - 00:04:37,740] to ask, maybe talk about insurance just a little
+- [00:04:37,740 - 00:04:39,210] bit, since you're in there. What advice would
+- [00:04:39,210 - 00:04:40,680] you have to somebody wanting to go into the
+- [00:04:40,680 - 00:04:43,200] insurance industry? I would say advice to if you're
+- [00:04:43,200 - 00:04:45,720] going into the insurance industry or I would say
+- [00:04:45,720 - 00:04:48,240] any sales position, you'd want to be at a place
+- [00:04:48,240 - 00:04:50,970] where you're on a team because it's lonely to be
+- [00:04:50,970 - 00:04:53,700] in sales, a lot of sales companies or you're on an
+- [00:04:53,700 - 00:04:55,740] island. So to me, it's like try and make
+- [00:04:55,740 - 00:04:57,780] it like sports. If you can't be a professional athlete
+- [00:04:57,780 - 00:04:58,020] and you're in sales, try and make it like
+- [00:04:58,020 - 00:04:58,260] sports. If you can't be a professional athlete and you're
+- [00:04:58,260 - 00:04:58,560] in sales, try and make it like sports. And if
+- [00:04:58,560 - 00:04:58,860] you can't make it like sports, try and make it like
+- [00:04:58,860 - 00:04:58,940] a professional athlete and you're in sales. Just make
+- [00:04:58,940 - 00:04:59,020] sure that you're in a team and you're working
+- [00:04:59,020 - 00:05:01,830] be on a team that gets along and is really
+- [00:05:01,830 - 00:05:04,640] a team. So when you win, it's fucking fun to celebrate.
+- [00:05:04,780 - 00:05:07,689] And when you lose, you know, blame each other
+- [00:05:07,689 - 00:05:10,599] and blame, blame the prospective client. So I think
+- [00:05:10,599 - 00:05:12,649] team selling is huge. I'm going to kind of follow
+- [00:05:12,649 - 00:05:14,700] up with you since we're kind of on the topic of
+- [00:05:14,700 - 00:05:16,959] sales now, but what is your secret to sales when
+- [00:05:16,959 - 00:05:19,219] you're on a call and you're trying to close a
+- [00:05:19,219 - 00:05:21,739] deal? So one secret is they don't let me on
+- [00:05:21,739 - 00:05:24,260] the calls anymore. I run sales for our company. So
+- [00:05:24,260 - 00:05:27,209] we have like 25 sales folks and five
+- [00:05:27,209 - 00:05:30,159] or six different teams with specialized verticals. So
+- [00:05:30,159 - 00:05:32,899] I am rarely on the calls anymore. I'm just
+- [00:05:32,899 - 00:05:35,640] pretty much coaching on strategy. So some of our sales
+- [00:05:35,640 - 00:05:37,800] folks, they're technically brilliant. They're likable.
+- [00:05:37,800 - 00:05:39,960] They're personable. They care about the
+- [00:05:39,960 - 00:05:42,900] clients and they have very, very creative solutions that
+- [00:05:42,900 - 00:05:45,840] most of the folks in our industry just don't
+- [00:05:45,840 - 00:05:47,529] have because they're not as intelligent as
+- [00:05:47,529 - 00:05:49,219] our teams. What do you implement throughout your
+- [00:05:49,219 - 00:05:51,509] company to really stand out against competition that
+- [00:05:51,509 - 00:05:53,800] kind of sells you guys over other companies?
+- [00:05:53,800 - 00:05:54,240] Everyone.
+- [00:05:54,260 - 00:05:56,380] Everyone at our firm, if you're in sales, you're
+- [00:05:56,380 - 00:05:58,500] on a team and then you have a specialty. Our
+- [00:05:58,500 - 00:06:01,079] specialties are private equity. So we have like
+- [00:06:01,079 - 00:06:03,659] 10 people that could go to a private equity
+- [00:06:03,659 - 00:06:05,739] conference and they could talk about private equity
+- [00:06:05,739 - 00:06:07,820] almost as much as the private equity folks.
+- [00:06:08,300 - 00:06:10,400] So that's important. We have a hospitality team. So
+- [00:06:10,400 - 00:06:12,500] they go to a hotel resort conferences and they
+- [00:06:12,500 - 00:06:14,810] know that business. We have a construction team.
+- [00:06:14,810 - 00:06:17,120] We have a team that focuses on restaurants. Team
+- [00:06:17,120 - 00:06:19,079] ensures like 800 restaurants throughout the country.
+- [00:06:19,079 - 00:06:21,039] Like if you own restaurants and I
+- [00:06:21,039 - 00:06:22,599] could talk to you about restaurants and,
+- [00:06:22,599 - 00:06:24,159] hey, these five clients of mine, they're really,
+- [00:06:24,260 - 00:06:26,040] really good at dealing with these retention headaches
+- [00:06:26,040 - 00:06:27,820] at their restaurant or they're starting to use this
+- [00:06:27,820 - 00:06:30,489] company to do the paving, whatever. So it's a secret
+- [00:06:30,489 - 00:06:33,159] sauce also to really know how to talk the talk
+- [00:06:33,159 - 00:06:34,940] versus just being that generalist.
+- [00:06:34,940 - 00:06:37,690] What has been the book that has been the most impactful
+- [00:06:37,690 - 00:06:40,440] in your life that has led to the biggest change or
+- [00:06:40,440 - 00:06:41,180] influence for you?
+- [00:06:41,180 - 00:06:44,389] I would say and I read a boatload of books and now
+- [00:06:44,389 - 00:06:47,599] I listen to books on occasion as well. So I probably read or
+- [00:06:47,599 - 00:06:50,829] listen to three to five books a month. I'm embarrassed to
+- [00:06:50,829 - 00:06:54,060] say the one that was most impactful was Don't Sweat the
+- [00:06:54,060 - 00:06:57,260] Small Stuff. It's all small stuff. You know, I could say,
+- [00:06:57,260 - 00:07:00,460] oh, it's Exodus or it's the big fellow or Boys in the
+- [00:07:00,460 - 00:07:03,070] Boat, which is a great book about teamwork. But Don't
+- [00:07:03,070 - 00:07:05,680] Sweat the Small Stuff. It's all small stuff. It's just a
+- [00:07:05,680 - 00:07:09,090] reminder like stuff happens and 95% of stuff that happens isn't
+- [00:07:09,090 - 00:07:12,500] really a big deal. You know, on occasion you lose a
+- [00:07:12,500 - 00:07:14,890] loved one or someone, there's an accident. But even then, like,
+- [00:07:14,890 - 00:07:17,280] what are you going to do? You have to be calm during
+- [00:07:17,280 - 00:07:19,080] chaos. So, yeah, I sent that
+- [00:07:19,080 - 00:07:20,880] book to a lot of people.
+- [00:07:21,120 - 00:07:23,020] Okay, so we've talked about career a lot.
+- [00:07:23,360 - 00:07:23,680] I do
+- [00:07:23,680 - 00:07:26,730] know that you're a family man, husband and father. So
+- [00:07:26,730 - 00:07:29,780] for anybody that's becoming a father or anybody becoming a
+- [00:07:29,780 - 00:07:31,810] husband, what's your best piece of advice for
+- [00:07:31,810 - 00:07:33,840] any first time fathers or first time husbands?
+- [00:07:34,000 - 00:07:37,860] First time father, I'll take that. I think something my wife and
+- [00:07:37,860 - 00:07:41,720] I did a great job of and we are huge, huge believers in
+- [00:07:41,720 - 00:07:45,340] quantity of time with kids. That's we just just that safety
+- [00:07:45,340 - 00:07:48,960] of the kids when they're real little just kind of knowing that
+- [00:07:48,960 - 00:07:51,230] you as a parent, you're always around,
+- [00:07:51,230 - 00:07:53,500] you're always there. I think it's incredibly important.
+- [00:07:53,680 - 00:07:59,590] That's the first thing that comes to mind is just quantity versus quality. And then
+- [00:07:59,590 - 00:08:05,500] first time husband, it's hard. So the tip I would give is obviously all the basics,
+- [00:08:05,520 - 00:08:11,620] complete love and respect for your spouse. But I think it's really important if you're a hammer and you actually go to an office and work most days before you get home, maybe pulling
+- [00:08:11,620 - 00:08:17,720] over, taking a deep breath and remembering that, all right, good day, bad day at work, it's time to pay attention and be a partner to your spouse when you walk in those doors.
+- [00:08:17,720 - 00:08:18,680] Okay, so I'm going to give you a tip.
+- [00:08:18,680 - 00:08:18,760] Okay, so I'm going to give you a tip.
+- [00:08:18,760 - 00:08:18,920] Okay, so I'm going to give you a tip.
+- [00:08:18,920 - 00:08:19,020] Okay, so I'm going to give you a tip.
+- [00:08:19,020 - 00:08:19,160] Okay, so I'm going to give you a tip.
+- [00:08:19,160 - 00:08:19,580] Okay, so I'm going to give you a tip.
+- [00:08:19,580 - 00:08:19,640] Okay, so I'm going to give you a tip.
+- [00:08:19,640 - 00:08:21,780] I think you have to be authentic, obviously.
+- [00:08:21,840 - 00:08:24,040] And I'm not an affectionate person, except
+- [00:08:24,040 - 00:08:26,240] for with three people in the entire world.
+- [00:08:26,240 - 00:08:30,680] I'm not a guy that hugs guys or girls, but I think it's really, really important
+- [00:08:30,680 - 00:08:35,120] to be affectionate with your kids and your spouse and sadly, a lot of people aren't.
+- [00:08:35,220 - 00:08:38,000] And then I think it's really, really important as
+- [00:08:38,000 - 00:08:40,780] well, if you're silly, be silly with your kids.
+- [00:08:40,799 - 00:08:44,499] If you're serious, you have to be serious with people, especially if it's
+- [00:08:44,499 - 00:08:48,200] a non gaps model and then where will the kids be oh my God.
+- [00:08:48,200 - 00:08:49,060] I'm a little spill-song, this is in me
+- [00:08:49,060 - 00:08:49,580] with my kids.
+- [00:08:49,580 - 00:08:49,600] And getting me to the pink one is like going to an early school festival and I just remember like, oh Kevin and I
+- [00:08:49,600 - 00:08:49,620] are kids, I don't remember, it's like a marathon, dólares and yeah, and it's not only kids andеди at every day, they're even little kids.
+- [00:08:49,620 - 00:08:52,820] try and add a little humor and find common interests.
+- [00:08:52,820 - 00:08:54,010] You know, my son and
+- [00:08:54,010 - 00:08:55,200] I, we were all into reading.
+- [00:08:55,200 - 00:08:56,740] We'd go on reading trips sometimes.
+- [00:08:56,740 - 00:08:58,460] Sometimes we'd let my daughter and I
+- [00:08:58,460 - 00:09:00,360] would do more shopping trips.
+- [00:09:00,360 - 00:09:03,360] Obviously you have plenty of experience in your career,
+- [00:09:03,360 - 00:09:05,720] but is there one habit, it could be one habit
+- [00:09:05,720 - 00:09:08,300] or multiple habits that you keep every single day,
+- [00:09:08,300 - 00:09:10,460] whether it was when you were actively working heavily
+- [00:09:10,460 - 00:09:11,380] in your career when you were younger,
+- [00:09:11,380 - 00:09:14,140] or even to this day, that helps you become successful?
+- [00:09:14,140 - 00:09:15,740] I'm working harder now than I ever have,
+- [00:09:15,740 - 00:09:17,020] but it doesn't feel like work
+- [00:09:17,020 - 00:09:20,020] because surrounded by a bunch of energetic, youthful
+- [00:09:20,020 - 00:09:20,860] hammers.
+- [00:09:20,860 - 00:09:23,819] So I start off every day with a triple espresso
+- [00:09:23,819 - 00:09:25,699] in my parlor, which is just a chair,
+- [00:09:25,699 - 00:09:26,840] but I call it my parlor.
+- [00:09:26,840 - 00:09:28,560] And I do a few minutes of meditation
+- [00:09:28,560 - 00:09:31,439] and I literally for 30 seconds to five minutes,
+- [00:09:31,439 - 00:09:33,439] just gratitude towards my family,
+- [00:09:33,439 - 00:09:36,180] towards I get to work today.
+- [00:09:36,180 - 00:09:37,780] I get to live in Austin, Texas.
+- [00:09:37,780 - 00:09:39,880] I'm out of that terrible weather in Chicago.
+- [00:09:39,880 - 00:09:42,199] Every morning I started off with the espresso
+- [00:09:42,199 - 00:09:44,009] and some form of meditation,
+- [00:09:44,009 - 00:09:45,819] which a lot of people do.
+- [00:09:45,819 - 00:09:46,660] It works.
+- [00:09:46,660 - 00:09:47,500] I've been doing it for years.
+- [00:09:47,500 - 00:09:49,480] I feel like a lot of people mentioned meditation
+- [00:09:49,480 - 00:09:52,240] and gratitude stuff, but there's so many people out there
+- [00:09:52,240 - 00:09:55,079] that are thinking like, oh, meditation, gratitude, whatever.
+- [00:09:55,079 - 00:09:57,219] It's, is it overlooked in a way?
+- [00:09:57,219 - 00:09:58,839] Like it really works.
+- [00:09:58,839 - 00:10:01,699] To me, the espresso is the best part.
+- [00:10:01,699 - 00:10:03,780] Gratitude is I think pretty easy.
+- [00:10:03,780 - 00:10:05,200] Like just, you know, everyone
+- [00:10:05,200 - 00:10:06,620] has stuff to be thankful for.
+- [00:10:06,620 - 00:10:07,600] So that's pretty easy.
+- [00:10:07,600 - 00:10:10,100] And then meditation, I do a three minute meditation
+- [00:10:10,100 - 00:10:12,600] or sometimes an eight and 90% of the time
+- [00:10:12,600 - 00:10:14,480] I'm thinking about business or my family
+- [00:10:14,480 - 00:10:15,540] for 94% of the meditation, I'm thinking about business.
+- [00:10:15,540 - 00:10:15,999] And then I'm thinking about my
+- [00:10:15,999 - 00:10:16,459] family for 94% of the meditation.
+- [00:10:16,460 - 00:10:17,300] I don't know.
+- [00:10:17,300 - 00:10:19,000] But to me, it's a habit
+- [00:10:19,000 - 00:10:20,700] and I feel good when I'm done.
+- [00:10:20,700 - 00:10:22,640] So my next question for you is,
+- [00:10:22,640 - 00:10:24,880] what do you think is the biggest mindset change
+- [00:10:24,880 - 00:10:27,380] that people need in order to become a multimillionaire?
+- [00:10:27,380 - 00:10:29,500] I think they need to, A,
+- [00:10:29,500 - 00:10:31,620] actually come up with a plan
+- [00:10:31,620 - 00:10:35,100] and then they need to have the tenacity
+- [00:10:35,100 - 00:10:38,680] and the wherewithal to execute on that plan.
+- [00:10:38,680 - 00:10:40,440] It's, it's hard.
+- [00:10:40,440 - 00:10:42,080] So you come up with an idea
+- [00:10:42,080 - 00:10:43,720] and you come up with a plan,
+- [00:10:43,720 - 00:10:44,810] which a lot of people don't
+- [00:10:44,810 - 00:10:45,900] really come up with a plan.
+- [00:10:45,900 - 00:10:47,699] And then you just gotta stick with it.
+- [00:10:47,699 - 00:10:49,309] A lot of people give up, I
+- [00:10:49,309 - 00:10:50,920] think, a day, a week, a month
+- [00:10:50,920 - 00:10:54,620] before their business was gonna fricking go to the moon.
+- [00:10:54,620 - 00:10:56,740] But for you personally, you know, a lot of people,
+- [00:10:56,740 - 00:10:58,140] they find a lack of motivation
+- [00:10:58,140 - 00:10:59,780] or a lack of desire for success.
+- [00:10:59,780 - 00:11:02,060] What is your driving factor for success for you?
+- [00:11:02,060 - 00:11:04,180] So I think when I was younger,
+- [00:11:04,180 - 00:11:05,840] I was just trying to make a living.
+- [00:11:05,840 - 00:11:07,230] Then I wanted to be
+- [00:11:07,230 - 00:11:08,620] ultra successful and make more money
+- [00:11:08,620 - 00:11:10,020] and provide more for my family.
+- [00:11:10,020 - 00:11:12,780] I think now I'm kind of the second mountain.
+- [00:11:12,780 - 00:11:14,780] This is kind of my final mountain, if you will.
+- [00:11:14,780 - 00:11:15,280] My partner and I joined a
+- [00:11:15,280 - 00:11:15,780] group called the Mountain of Success.
+- [00:11:15,780 - 00:11:16,690] We joined Virtus, you know,
+- [00:11:16,690 - 00:11:17,600] three and a half years ago
+- [00:11:17,600 - 00:11:19,640] with a few other folks on our team.
+- [00:11:19,640 - 00:11:21,380] And now it's about legacy.
+- [00:11:21,380 - 00:11:22,980] We've quadrupled in three years
+- [00:11:22,980 - 00:11:25,720] and I can't even imagine where they're gonna be
+- [00:11:25,720 - 00:11:27,939] and you know, where we're gonna be in five years
+- [00:11:27,939 - 00:11:30,079] and in 10, 15, 20 years.
+- [00:11:30,079 - 00:11:33,480] So it's legacy having a small impact
+- [00:11:33,480 - 00:11:36,220] on a bunch of guys and girls your age
+- [00:11:36,220 - 00:11:37,560] who are on their way to
+- [00:11:37,560 - 00:11:38,900] making millions and millions of dollars.
+- [00:11:38,900 - 00:11:41,360] So hopefully they remember, you know,
+- [00:11:41,360 - 00:11:42,939] some little piece of advice I gave them
+- [00:11:42,939 - 00:11:44,880] to help them be more successful
+- [00:11:44,880 - 00:11:45,760] professionally and personally.
+- [00:11:45,780 - 00:11:49,060] Basically, a lot of people might define success
+- [00:11:49,060 - 00:11:50,060] in different ways.
+- [00:11:50,060 - 00:11:51,600] How do you define success?
+- [00:11:51,600 - 00:11:54,760] First and foremost, it's having a happy family life.
+- [00:11:54,760 - 00:11:56,500] That's the foundation to everything.
+- [00:11:56,500 - 00:11:58,600] And I am beyond lucky that I have it.
+- [00:11:58,600 - 00:12:00,120] So I'm the greatest wife in the world
+- [00:12:00,120 - 00:12:02,939] and two phenomenal kids and a great son-in-law.
+- [00:12:02,939 - 00:12:04,980] So that's first and foremost.
+- [00:12:04,980 - 00:12:08,140] And then right behind it is financial freedom.
+- [00:12:08,140 - 00:12:09,420] Being able to take a deep breath,
+- [00:12:09,420 - 00:12:11,339] not having to worry about paying the bills.
+- [00:12:11,339 - 00:12:12,339] Don't have to go to work.
+- [00:12:12,339 - 00:12:13,660] If they turn into bad people,
+- [00:12:13,660 - 00:12:15,220] you can just leave and get another job
+- [00:12:15,220 - 00:12:16,060] or start your own.
+- [00:12:16,060 - 00:12:17,620] To me, that success, you know,
+- [00:12:17,620 - 00:12:19,860] sprinkled in with a handful of good friends.
+- [00:12:19,860 - 00:12:21,760] If you had three guiding principles
+- [00:12:21,760 - 00:12:23,180] for the next generation,
+- [00:12:23,180 - 00:12:24,540] what would those three principles be?
+- [00:12:24,540 - 00:12:25,520] Try and be a hammer.
+- [00:12:25,520 - 00:12:28,860] So work hard, be a really good teammate,
+- [00:12:28,860 - 00:12:31,440] and get a lot of time alone.
+- [00:12:31,440 - 00:12:34,920] Spend time alone, thinking, reflecting, appreciating life.
+- [00:12:34,920 - 00:12:35,760] I just want to talk
+- [00:12:35,760 - 00:12:36,600] about two of those real quick,
+- [00:12:36,600 - 00:12:38,200] but I guess what is the significance
+- [00:12:38,200 - 00:12:40,020] of having that alone time with yourself?
+- [00:12:40,020 - 00:12:42,040] A lot of people, they're terrified of being lonely.
+- [00:12:42,040 - 00:12:43,640] They're terrified of being by themselves.
+- [00:12:43,640 - 00:12:44,760] But like, what would you say
+- [00:12:45,220 - 00:12:46,240] is the importance of that?
+- [00:12:46,240 - 00:12:48,280] I think it's just so important to,
+- [00:12:48,280 - 00:12:50,560] on the business side, to decompress,
+- [00:12:50,560 - 00:12:53,180] get away from your phone, get away from your computer.
+- [00:12:53,180 - 00:12:55,220] You know, our firm, we're doing that this month.
+- [00:12:55,220 - 00:12:57,360] We're spending a lot of time trying to get away
+- [00:12:57,360 - 00:13:00,380] and reflect on the year and plan for next year.
+- [00:13:00,380 - 00:13:01,720] Lock yourself in a room somewhere
+- [00:13:01,720 - 00:13:02,860] where no one's going to disturb you.
+- [00:13:02,860 - 00:13:05,120] Go to, you know, our CEO's going to, you know,
+- [00:13:05,120 - 00:13:08,660] a farm for eight hours and locking themselves up there
+- [00:13:08,660 - 00:13:11,200] just to get away and think and reflect.
+- [00:13:11,200 - 00:13:13,780] And I also believe alone time is when
+- [00:13:13,780 - 00:13:15,180] get hit with that random thought.
+- [00:13:15,220 - 00:13:17,780] And if the business is not going great,
+- [00:13:17,780 - 00:13:19,040] then I don't know what to do.
+- [00:13:19,040 - 00:13:20,360] I think if you're a leader in that,
+- [00:13:20,360 - 00:13:21,460] you're going to be the first person
+- [00:13:21,460 - 00:13:22,940] to get out of your business.
+- [00:13:22,940 - 00:13:24,220] You're going to be the first person
+- [00:13:24,220 - 00:13:25,830] to get out of that trap
+- [00:13:25,830 - 00:13:27,440] of how to make your business better.
+- [00:13:27,440 - 00:13:29,400] If your bank account hits zero tomorrow,
+- [00:13:29,400 - 00:13:31,300] what would be the first action that you would take
+- [00:13:31,300 - 00:13:32,840] to kind of build your empire back?
+- [00:13:32,840 - 00:13:34,760] I would get back into full-time sales
+- [00:13:34,760 - 00:13:37,620] because I know I could still hustle and out-hustle people
+- [00:13:37,620 - 00:13:41,860] and outwork them and get some commission checks quickly.
+- [00:13:41,860 - 00:13:43,140] And with those commission checks,
+- [00:13:43,140 - 00:13:44,080] you know, we talked about, like,
+- [00:13:44,080 - 00:13:46,240] putting money in real estate I think is
+- [00:13:46,240 - 00:13:48,400] really smart. I've also always put money in private
+- [00:13:48,400 - 00:13:50,400] companies so private equity or if you have friends
+- [00:13:50,400 - 00:13:52,400] or people you know that are starting companies and
+- [00:13:52,400 - 00:13:54,440] you can get invest in those and then
+- [00:13:54,440 - 00:13:56,480] maybe investing in your hobby whether it's like
+- [00:13:56,480 - 00:13:58,560] collecting cars or baseball cards or something like that.
+- [00:13:58,560 - 00:14:00,640] I've seen a lot of people that end up
+- [00:14:00,640 - 00:14:03,320] turning their hobby into something that becomes
+- [00:14:03,320 - 00:14:06,000] financially successful. So if you were to start
+- [00:14:06,000 - 00:14:07,840] a new company tomorrow what resources would
+- [00:14:07,840 - 00:14:09,680] you grab and what company would you start?
+- [00:14:09,680 - 00:14:12,400] What resources would I grab? So I'm old
+- [00:14:12,400 - 00:14:15,120] enough and I know enough people now where
+- [00:14:15,120 - 00:14:18,159] if I had that incredible idea I'm confident I
+- [00:14:18,159 - 00:14:21,199] could raise the money so that wouldn't be hard.
+- [00:14:21,199 - 00:14:23,719] The idea I think I would probably do and I've
+- [00:14:23,719 - 00:14:26,239] kind of been keeping in my back pocket for retirement.
+- [00:14:26,239 - 00:14:28,959] I would start a company that taught people how
+- [00:14:28,959 - 00:14:31,680] to be better parents. I've just always been fascinated
+- [00:14:31,680 - 00:14:35,639] that I think there's parenting in in general is subpar
+- [00:14:35,639 - 00:14:39,599] and I think my wife and I have made it our
+- [00:14:39,599 - 00:14:39,629] best. I think that's a great idea. I think that's
+- [00:14:39,629 - 00:14:39,660] a great idea. I think that's a great idea. I think
+- [00:14:39,660 - 00:14:39,670] that's a great idea. I think that's a great idea.
+- [00:14:39,670 - 00:14:39,680] I think that's a great idea. I think that's a great
+- [00:14:39,680 - 00:14:39,939] idea. I think that's a great idea. I think that's
+- [00:14:39,939 - 00:14:40,199] a great idea. I think that's a great idea. I think
+- [00:14:40,199 - 00:14:43,019] mission and I think we're pretty good at it. We've
+- [00:14:43,019 - 00:14:45,839] asked you a lot of questions today so thank you
+- [00:14:45,839 - 00:14:47,899] so much for your time and just your
+- [00:14:47,899 - 00:14:49,959] your mentorship and impact for some of these questions
+- [00:14:49,959 - 00:14:51,659] but I did want to ask just to wrap up
+- [00:14:51,659 - 00:14:53,360] the video how do you want to be remembered by?
+- [00:14:54,199 - 00:14:57,279] I've thought about that before and I
+- [00:14:57,279 - 00:15:00,360] think it's uh besides being an honorable hard-working
+- [00:15:00,360 - 00:15:02,820] incredible husband and father I would say authentic
+- [00:15:02,820 - 00:15:05,280] just real. I tell it like it is
+- [00:15:05,280 - 00:15:07,429] sometimes that's good sometimes it's not
+- [00:15:07,429 - 00:15:09,579] but uh just a nice authentic family
+- [00:15:09,580 - 00:15:12,120] man who also uh kicks some fucking ass in business.
+- [00:15:12,120 - 00:15:14,660] I love that. Guys that kind of wraps up episode
+- [00:15:14,660 - 00:15:17,440] eight of 10 questions. Mike thank you so much.
+- [00:15:17,440 - 00:15:20,220] I did want to get into your current company Virtus
+- [00:15:20,220 - 00:15:21,560] uh kind of what you guys are doing
+- [00:15:21,560 - 00:15:22,900] there if there's anything that you want to tell
+- [00:15:22,900 - 00:15:25,290] the audience kind of about Virtus and what you
+- [00:15:25,290 - 00:15:27,680] guys got going on. Yeah so our industry is uh
+- [00:15:27,680 - 00:15:30,250] male pale and stale uh Virtus
+- [00:15:30,250 - 00:15:32,820] Insurance headquartered Kansas City. We have offices
+- [00:15:32,820 - 00:15:36,060] Fort Collins Colorado, Chicago, St. Louis, Austin,
+- [00:15:36,060 - 00:15:39,300] Fort Worth and Memphis Tennessee. We're over 100
+- [00:15:39,300 - 00:15:39,430] people. We have offices in Fort Collins Colorado,
+- [00:15:39,430 - 00:15:39,560] Chicago, St. Louis, Austin, Fort Worth and Memphis.
+- [00:15:39,580 - 00:15:39,830] We have offices in Fort Collins Colorado,
+- [00:15:39,830 - 00:15:40,080] Chicago, St. Louis, Austin, Fort Worth and Memphis.
+- [00:15:40,080 - 00:15:50,260] And if you're stuck in a sales position or a service position and it's with a bunch of people my age or older and it's slow and boring we are the antithesis. We are
+- [00:15:50,260 - 00:16:00,440] shaking up the tired industry. Incredibly young, energetic, specialized. It's a game changer. So if you're bored and you want to have unlimited income potential and joy in your job track me down. Thank you.
+- [00:16:00,440 - 00:16:04,190] Thanks guys. Make sure to like and subscribe and comment down below what
+- [00:16:04,190 - 00:16:07,940] answer was your favorite and which question that Mike answered for us. Thanks guys.
+- [00:16:09,060 - 00:16:09,560] Thank you so much.
+- [00:16:09,580 - 00:16:11,250] Thank you so much for
+- [00:16:11,250 - 00:16:12,920] giving your insight and your success.
+- [00:16:12,920 - 00:16:13,420] Whew.
+- [00:16:13,420 - 00:16:14,920] Do we want to reshoot this?
+- [00:16:14,920 - 00:16:15,420] Yeah I'll put Scott away.
+- [00:16:15,420 - 00:16:17,420] Yeah let's just reshoot it real quick.
