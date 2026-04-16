@@ -1,0 +1,176 @@
+# Transcript
+
+Source: lazyearn/school-of-hard-knocks/entrepreneurship/175 - 5 Profitable Online Business Ideas 2022 [1SzDCdlUPCc].mkv
+
+- [00:00:00,060 - 00:00:03,770] The good news is, I'm not here to sell you anything. I'm just here to genuinely
+- [00:00:03,770 - 00:00:07,480] share my thoughts on what I think are my favorite online businesses to start in 2022.
+- [00:00:08,119 - 00:00:09,480] Let's go ahead, hop right in.
+- [00:00:09,560 - 00:00:11,390] Today, I'm going to be sharing my top
+- [00:00:11,390 - 00:00:13,220] 5 personal favorite online businesses you can start.
+- [00:00:13,260 - 00:00:16,530] But honestly, I really think you pick whichever one, as we
+- [00:00:16,530 - 00:00:19,800] go throughout this list, you're most passionate about or most interested in.
+- [00:00:20,100 - 00:00:23,580] And the reason being is because no matter what you pick, it's going to take a lot
+- [00:00:23,580 - 00:00:27,060] of hard work to become really good at it and to actually do it day over day.
+- [00:00:27,060 - 00:00:30,120] So when you're going through this list, just take into consideration, what
+- [00:00:30,120 - 00:00:33,180] am I most passionate about and what am I most interested in?
+- [00:00:33,300 - 00:00:34,920] Because that's the one you should probably pick.
+- [00:00:35,080 - 00:00:36,959] At number one, we have being a creator. And
+- [00:00:36,959 - 00:00:38,839] there's really two routes that you can take with this.
+- [00:00:39,120 - 00:00:42,270] You can either, one, create a personal brand around yourself, whether
+- [00:00:42,270 - 00:00:45,420] it be vlogs, gaming content, business content, whatever it may be.
+- [00:00:45,680 - 00:00:48,780] Or two, it's creating content for a brand.
+- [00:00:49,060 - 00:00:51,280] The reason I love a personal brand is because
+- [00:00:51,280 - 00:00:53,500] it gives you so many options for different income sources.
+- [00:00:53,800 - 00:00:55,420] You can get paid off of
+- [00:00:55,420 - 00:00:57,040] ad revenue anywhere from TikTok to YouTube.
+- [00:00:57,280 - 00:01:00,420] As well as getting brand deals from people paying
+- [00:01:00,420 - 00:01:03,560] you anywhere from $500 to $5,000 to promote their products.
+- [00:01:03,720 - 00:01:07,030] As well as, once you create a brand around yourself, people
+- [00:01:07,030 - 00:01:10,340] become really invested into who you are and really what you're doing.
+- [00:01:10,640 - 00:01:13,250] So what that can allow you to do is you
+- [00:01:13,250 - 00:01:15,860] can build other businesses off of your personal brand and name.
+- [00:01:16,200 - 00:01:19,700] Let's say a skincare company or a clothing line.
+- [00:01:19,940 - 00:01:22,010] Really, whatever you want to do, it gives you so
+- [00:01:22,010 - 00:01:24,080] many options because people are so invested in what you are.
+- [00:01:24,180 - 00:01:25,610] And it gives you a good
+- [00:01:25,610 - 00:01:27,040] audience and customer base for your network.
+- [00:01:27,320 - 00:01:29,070] The second way of being a
+- [00:01:29,070 - 00:01:30,820] creator is creating content for other brands.
+- [00:01:30,960 - 00:01:35,210] Right now, social media is so big and so many businesses need
+- [00:01:35,210 - 00:01:39,460] to create content daily that they need creators to create content for them.
+- [00:01:39,580 - 00:01:42,290] User-generated content, giving them reviews, talking about
+- [00:01:42,290 - 00:01:45,000] their brand and their products and upcoming events.
+- [00:01:45,220 - 00:01:46,830] One of my favorite people that actually talks
+- [00:01:46,830 - 00:01:48,440] about this is a guy named JT Barnett.
+- [00:01:48,780 - 00:01:52,580] And his whole role at his new company is connecting creators with companies
+- [00:01:52,580 - 00:01:56,380] so that way they can create content and be the face of new brands.
+- [00:01:56,380 - 00:01:57,040] I really like this.
+- [00:01:57,200 - 00:01:59,780] I really like this approach because while you're building up your own
+- [00:01:59,780 - 00:02:02,360] personal brand and maybe it's not able to support you full time yet,
+- [00:02:02,680 - 00:02:06,160] creating content for other brands is a great way to be able to do
+- [00:02:06,160 - 00:02:09,639] content creation as a career while you're building your personal brand in the back end.
+- [00:02:09,699 - 00:02:11,600] At number two, we have being a video editor.
+- [00:02:11,660 - 00:02:14,730] And this is great for people who want to work within the content creation
+- [00:02:14,730 - 00:02:17,800] space, but don't necessarily want to be in front of the camera all the time.
+- [00:02:18,100 - 00:02:19,990] But you probably should have a keen
+- [00:02:19,990 - 00:02:21,880] eye for what makes content good or enjoyable.
+- [00:02:22,000 - 00:02:24,220] I probably would recommend this to people
+- [00:02:24,220 - 00:02:26,440] who actually consume content on a regular basis.
+- [00:02:26,579 - 00:02:32,769] Every day, the skill becomes more sought after because more companies are switching to a heavier focus on the digital space, as well
+- [00:02:32,769 - 00:02:38,960] as creators just don't have the time to be able to break down their content to be able to post it on multiple platforms.
+- [00:02:39,220 - 00:02:41,020] Let's say someone is a YouTube vlogger.
+- [00:02:41,200 - 00:02:43,900] They don't have time to break up the clips of their
+- [00:02:43,900 - 00:02:46,600] videos and put it on TikTok, Instagram and a YouTube clips channel.
+- [00:02:46,640 - 00:02:48,040] They just don't have the time to do that.
+- [00:02:48,200 - 00:02:50,600] And that's where there's a perfect opportunity for you as
+- [00:02:50,600 - 00:02:53,000] an editor to come in and help them save some time.
+- [00:02:53,120 - 00:02:53,890] There's a ton of great resources out there online
+- [00:02:53,890 - 00:02:54,660] to be able to go ahead and start editing.
+- [00:02:54,760 - 00:02:55,660] I'm going to give you some tips.
+- [00:02:55,660 - 00:02:55,690] I'm going to give you some
+- [00:02:55,690 - 00:02:55,720] tips on how to do that.
+- [00:02:55,720 - 00:02:55,840] I'm going to give you some
+- [00:02:55,840 - 00:02:55,960] tips on how to do that.
+- [00:02:55,960 - 00:02:56,080] I'm going to give you some
+- [00:02:56,080 - 00:02:56,200] tips on how to do that.
+- [00:02:56,200 - 00:02:58,280] Go ahead and start learning how to video edit online.
+- [00:02:58,600 - 00:03:00,969] If you just look up on YouTube or Google how
+- [00:03:00,969 - 00:03:03,339] to get started in video editing, some great creators on there.
+- [00:03:03,660 - 00:03:05,630] One of my favorites is Hillier Smith,
+- [00:03:05,630 - 00:03:07,600] who's actually a video editor for Logan Paul.
+- [00:03:07,920 - 00:03:10,000] He dropped some great information on his channel.
+- [00:03:10,540 - 00:03:15,059] Or if you're looking for maybe some more advanced, in-depth tutorials, there's some
+- [00:03:15,059 - 00:03:19,579] great resources on Udemy and Skillshare, which you do typically have to pay for.
+- [00:03:19,920 - 00:03:21,780] But if you're really looking to level up your
+- [00:03:21,780 - 00:03:23,640] game, those are some great resources to look into.
+- [00:03:23,640 - 00:03:26,040] Great way to get started finding some work within video.
+- [00:03:26,200 - 00:03:28,350] And if you're looking to get started with video
+- [00:03:28,350 - 00:03:30,500] editing, is signing up for websites like Fiverr.com and Upwork.
+- [00:03:30,500 - 00:03:35,270] And the reason being is because these will give you a platform to be able to offer your services with
+- [00:03:35,270 - 00:03:40,040] a price, and you can earn your stripes, build your portfolio before you maybe approach some bigger creators and brands.
+- [00:03:40,040 - 00:03:41,760] And number three, we have e-commerce.
+- [00:03:41,760 - 00:03:46,260] E-commerce is great, especially if you're crafting and you want to sell one of the products that you
+- [00:03:46,260 - 00:03:50,760] make online, or if you just want to sell a particular product or start maybe a clothing brand online.
+- [00:03:50,760 - 00:03:53,440] I truly love e-commerce because the scalability of it.
+- [00:03:53,440 - 00:03:54,540] And you can really create a
+- [00:03:54,540 - 00:03:55,640] brand that becomes bigger than yourself.
+- [00:03:55,640 - 00:03:57,959] And you can pass it on to your
+- [00:03:57,959 - 00:04:00,279] kids and grandkids if you really make it big.
+- [00:04:00,279 - 00:04:02,779] But there is a couple of cons with this.
+- [00:04:02,779 - 00:04:05,629] And I'm going to be honest, it is actually one of the harder
+- [00:04:05,629 - 00:04:08,480] business models to start because you do have to be pretty business savvy.
+- [00:04:08,480 - 00:04:11,210] You have to be able to understand marketing and how to
+- [00:04:11,210 - 00:04:13,940] be able to understand and get customers on a consistent basis.
+- [00:04:13,940 - 00:04:17,029] Just because you get customers at launch doesn't mean you can
+- [00:04:17,029 - 00:04:20,120] get customers for the other 11 months out of the year.
+- [00:04:20,120 - 00:04:22,240] So you have to be able to understand marketing
+- [00:04:22,240 - 00:04:24,360] and how to get customers on a regular basis.
+- [00:04:24,360 - 00:04:25,560] As well as,
+- [00:04:25,640 - 00:04:28,200] you do need to have some startup capital to either
+- [00:04:28,200 - 00:04:30,760] order the products and also to market the products as well.
+- [00:04:30,760 - 00:04:32,959] That being said, if you are passionate about clothing or
+- [00:04:32,959 - 00:04:35,159] you have a brand that you really want to create,
+- [00:04:35,159 - 00:04:39,359] I highly recommend that you go for it because there's so many great learning resources
+- [00:04:39,359 - 00:04:43,560] that anyone can learn how to do these things, such as marketing and creating a store.
+- [00:04:43,560 - 00:04:48,600] All it takes is some research and some time spent looking at other people's websites and brands and
+- [00:04:48,600 - 00:04:53,640] seeing what they're doing and modeling what works and just going all in on it and doing it yourself.
+- [00:04:53,640 - 00:04:55,479] At number four, we have social media marketing.
+- [00:04:55,640 - 00:04:58,840] What this is is you would approach a business owner.
+- [00:04:58,840 - 00:05:01,560] Let's talk about a restaurant, for example, and
+- [00:05:01,560 - 00:05:04,280] offer to help them promote their products and services.
+- [00:05:04,280 - 00:05:08,920] So for a restaurant, you would go up to the owner and be like, hey, you
+- [00:05:08,920 - 00:05:13,560] guys are doing a great job of providing excellent food and providing a great customer service.
+- [00:05:13,560 - 00:05:15,500] But you guys aren't really showing off
+- [00:05:15,500 - 00:05:17,440] any of your products and food online.
+- [00:05:17,440 - 00:05:20,549] So what you would do is you'd come in and ask
+- [00:05:20,549 - 00:05:23,659] for a monthly fee of anywhere, let's say $500 to $1500 dollars.
+- [00:05:23,659 - 00:05:24,169] After you come to an agreement with the
+- [00:05:24,169 - 00:05:24,680] owner and you're like, okay, I'm gonna do this.
+- [00:05:24,680 - 00:05:25,060] After you come to an agreement with the
+- [00:05:25,060 - 00:05:25,440] owner and you're like, okay, I'm gonna do this.
+- [00:05:25,440 - 00:05:27,510] with the owner, what you would do is you
+- [00:05:27,510 - 00:05:29,580] would manage their social media on a monthly basis.
+- [00:05:30,120 - 00:05:32,610] So what you would do is go in, take pictures
+- [00:05:32,610 - 00:05:35,100] of their food and their menu, and really get notified
+- [00:05:35,100 - 00:05:37,510] of their upcoming events, and then post about that
+- [00:05:37,510 - 00:05:39,920] on their social media. And to really be able to
+- [00:05:39,920 - 00:05:42,340] upgrade and separate yourself from the rest,
+- [00:05:42,340 - 00:05:44,760] I would really recommend investing some money or
+- [00:05:44,760 - 00:05:47,280] some time in really learning how to do Facebook
+- [00:05:47,280 - 00:05:49,800] ads, Instagram ads, and learning some of the other
+- [00:05:49,800 - 00:05:51,830] social platforms on how to advertise on them. The
+- [00:05:51,830 - 00:05:53,860] main reason you really want to learn how to run
+- [00:05:53,860 - 00:05:56,190] ads is because let's say the company's
+- [00:05:56,190 - 00:05:58,520] starting from zero to little social media following,
+- [00:05:58,780 - 00:06:01,090] the best way to go ahead and improve
+- [00:06:01,090 - 00:06:03,400] that following and improve the reach is by actually
+- [00:06:03,400 - 00:06:05,960] advertising. Because if you're posting and
+- [00:06:05,960 - 00:06:08,520] getting zero engagement and zero views,
+- [00:06:08,860 - 00:06:10,730] you really haven't solved their problem. You're
+- [00:06:10,730 - 00:06:12,600] really just making them spend more money and
+- [00:06:12,600 - 00:06:14,830] getting zero return. At number five, we have
+- [00:06:14,830 - 00:06:17,060] creating an online course. And this is great for
+- [00:06:17,060 - 00:06:19,450] if you're an expert at something, or if you're
+- [00:06:19,450 - 00:06:21,840] already successful in a given field, you can go
+- [00:06:21,840 - 00:06:22,840] ahead and teach others and give them a free hand.
+- [00:06:22,840 - 00:06:23,840] And if you're an expert at something, you can go
+- [00:06:23,840 - 00:06:26,289] ahead and follow a framework of A to Z on
+- [00:06:26,289 - 00:06:28,739] how they can follow in your footsteps and create something
+- [00:06:28,739 - 00:06:32,099] similar in their own way. So let's say you
+- [00:06:32,099 - 00:06:35,460] want you have a custom shoe design business, you can
+- [00:06:35,460 - 00:06:38,009] go ahead and teach others on how to create
+- [00:06:38,009 - 00:06:40,559] their own business like the materials you need, how to
+- [00:06:40,559 - 00:06:42,909] get started how to work on Different shoes.
+- [00:06:42,909 - 00:06:45,260] Basically give everyone all the sauce on how
+- [00:06:45,260 - 00:06:47,510] you can go ahead and create that business. In
+- [00:06:47,510 - 00:06:49,760] a course I definitely do this as more of a
+- [00:06:49,760 - 00:06:51,429] side hustle. But I think it's a
+- [00:06:51,429 - 00:06:53,099] great way to get an additional income stream.
+- [00:06:53,100 - 00:06:59,730] I think a great way to expand your reach for the course rather than just your existing followers and people you know is signing up for websites
+- [00:06:59,730 - 00:07:06,360] such as Udemy and Skillshare, putting the course on there, and you have access to a lot more people who may be interested in purchasing the course.
+- [00:07:06,580 - 00:07:08,050] If you guys enjoyed today's video,
+- [00:07:08,050 - 00:07:09,520] please leave a like and subscribe.
+- [00:07:09,660 - 00:07:10,640] We'd really appreciate that.
+- [00:07:10,700 - 00:07:12,220] We have a lot of great content coming.
+- [00:07:12,580 - 00:07:13,700] Hope you guys have a great day.
+- [00:07:13,800 - 00:07:14,440] I'll see you later.
