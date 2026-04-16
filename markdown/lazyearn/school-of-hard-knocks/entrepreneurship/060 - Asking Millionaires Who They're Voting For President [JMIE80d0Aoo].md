@@ -1,0 +1,636 @@
+# Transcript
+
+Source: lazyearn/school-of-hard-knocks/hard-knocks-interviews/061 - Asking Millionaires Who They're Voting For President [JMIE80d0Aoo].webm
+
+- [00:00:00,000 - 00:00:02,160] Excuse me, sir. Question for you.
+- [00:00:02,160 - 00:00:02,540] Yeah.
+- [00:00:02,540 - 00:00:04,580] How old were you when you became a millionaire?
+- [00:00:04,580 - 00:00:05,760] I'm not a millionaire.
+- [00:00:05,760 - 00:00:06,040] Yeah?
+- [00:00:06,040 - 00:00:06,760] I wish I were.
+- [00:00:06,760 - 00:00:08,410] I'm a lawyer. I used to be a
+- [00:00:08,410 - 00:00:10,060] millionaire, but my ex-wife has most of the money.
+- [00:00:10,060 - 00:00:11,720] I got one quick minute with you real quick.
+- [00:00:11,720 - 00:00:12,260] Real quick.
+- [00:00:12,260 - 00:00:13,260] What was the most amount of money
+- [00:00:13,260 - 00:00:14,260] that you made in a single year?
+- [00:00:14,260 - 00:00:15,140] Six million.
+- [00:00:15,140 - 00:00:16,100] Six, seven million.
+- [00:00:16,100 - 00:00:17,440] That's for yourself or the business?
+- [00:00:17,440 - 00:00:19,220] No, the business is myself.
+- [00:00:19,220 - 00:00:20,980] I own like 20 companies still.
+- [00:00:20,980 - 00:00:22,020] $50 million.
+- [00:00:22,020 - 00:00:23,240] I was doing about eight million a year.
+- [00:00:23,240 - 00:00:24,780] $17 and a half million.
+- [00:00:24,780 - 00:00:26,320] $17 and a half million?
+- [00:00:26,320 - 00:00:27,520] You've got a big election coming up.
+- [00:00:27,520 - 00:00:29,660] Who are you voting for in this election?
+- [00:00:29,660 - 00:00:30,620] I'll give you one guess.
+- [00:00:30,620 - 00:00:31,770] Because we're asking millionaires who they're
+- [00:00:31,770 - 00:00:32,920] voting for just to get perspectives.
+- [00:00:32,920 - 00:00:34,960] I live in a split household.
+- [00:00:34,960 - 00:00:35,660] I'm going to leave it at that.
+- [00:00:35,660 - 00:00:36,460] Who are you pulling towards though?
+- [00:00:36,460 - 00:00:37,200] We have four daughters.
+- [00:00:37,200 - 00:00:38,160] I vote for the party.
+- [00:00:38,160 - 00:00:40,040] I don't vote for the individual.
+- [00:00:40,040 - 00:00:41,220] So you like the party?
+- [00:00:41,220 - 00:00:41,640] Yeah.
+- [00:00:41,640 - 00:00:42,460] Democrat or Republican?
+- [00:00:45,100 - 00:00:47,140] Today, we are in one of the
+- [00:00:47,140 - 00:00:49,180] wealthiest cities in the entire United States
+- [00:00:49,420 - 00:00:51,430] to go around asking millionaires
+- [00:00:51,430 - 00:00:53,440] and billionaires how they became wealthy
+- [00:00:53,519 - 00:00:55,309] and who they're going to be
+- [00:00:55,309 - 00:00:57,100] voting for in the 2024 presidential election
+- [00:00:57,100 - 00:00:59,240] between Donald Trump and Kamala Harris.
+- [00:00:59,240 - 00:00:59,560] We're in
+- [00:00:59,560 - 00:01:02,039] Austin, Texas, home to nearly
+- [00:01:02,039 - 00:01:04,519] 40,000 millionaires and over 10 billionaires.
+- [00:01:04,640 - 00:01:06,190] And we're going to be figuring
+- [00:01:06,190 - 00:01:07,740] out their secrets to becoming financially free
+- [00:01:07,900 - 00:01:09,170] and who they're going to be casting
+- [00:01:09,170 - 00:01:10,440] their vote for to run the country
+- [00:01:10,580 - 00:01:11,860] for the next four years.
+- [00:01:11,860 - 00:01:13,150] So with that being said, let's
+- [00:01:13,150 - 00:01:14,440] get this video on the way.
+- [00:01:19,160 - 00:01:20,580] Excuse me, sir.
+- [00:01:20,580 - 00:01:22,040] Quick question for you. Go ahead.
+- [00:01:22,040 - 00:01:23,840] Have you ever been broke before?
+- [00:01:23,840 - 00:01:24,880] No. No?
+- [00:01:24,880 - 00:01:26,540] In what line of business? I'm a very wealthy dude.
+- [00:01:26,540 - 00:01:27,340] Yeah? Yeah.
+- [00:01:27,340 - 00:01:28,680] What line of business did you end up in?
+- [00:01:28,680 - 00:01:29,260] I was.
+- [00:01:29,560 - 00:01:30,680] I was a builder developer.
+- [00:01:30,680 - 00:01:31,860] So you were in real estate.
+- [00:01:31,860 - 00:01:33,780] Real estate. Buy dirt.
+- [00:01:33,780 - 00:01:36,280] My father always told me, buy dirt.
+- [00:01:36,440 - 00:01:37,780] Any kind of dirt you can buy.
+- [00:01:37,780 - 00:01:39,160] Do you like commercial or residential?
+- [00:01:39,160 - 00:01:40,780] I do both. Yeah. Did both.
+- [00:01:40,780 - 00:01:42,440] What was the best real estate transaction you ever had?
+- [00:01:42,440 - 00:01:44,040] The best real estate deal you ever did?
+- [00:01:44,040 - 00:01:45,360] Take a look at that.
+- [00:01:45,360 - 00:01:47,240] Right there. Best transaction.
+- [00:01:47,240 - 00:01:50,380] Most expensive transaction, but my best.
+- [00:01:50,380 - 00:01:51,300] So give me one though.
+- [00:01:51,300 - 00:01:52,380] Tell me about one deal that
+- [00:01:52,380 - 00:01:53,460] you closed that you're really proud about.
+- [00:01:53,500 - 00:01:55,310] Well, I named a lot of
+- [00:01:55,310 - 00:01:57,120] streets after a lot of people.
+- [00:01:57,120 - 00:01:58,270] The thing I'm most proud of
+- [00:01:58,270 - 00:01:59,420] is naming my streets after my
+- [00:01:59,560 - 00:02:00,560] kids.
+- [00:02:00,560 - 00:02:01,060] Right.
+- [00:02:01,060 - 00:02:01,900] So that's forever.
+- [00:02:01,900 - 00:02:02,900] Yeah. Where are you from?
+- [00:02:02,900 - 00:02:04,600] As far as New York City.
+- [00:02:04,600 - 00:02:05,280] New York City?
+- [00:02:05,280 - 00:02:05,860] Yeah.
+- [00:02:05,860 - 00:02:06,940] Are you a billionaire?
+- [00:02:06,940 - 00:02:07,400] No.
+- [00:02:07,400 - 00:02:08,780] No? Close though.
+- [00:02:08,780 - 00:02:09,160] Maybe.
+- [00:02:09,160 - 00:02:10,240] Yeah. Well, real quick.
+- [00:02:10,240 - 00:02:11,480] Couple quick last ones real quick.
+- [00:02:11,480 - 00:02:12,940] So I started a channel here in Austin.
+- [00:02:12,940 - 00:02:14,240] I go all over the country
+- [00:02:14,240 - 00:02:15,540] interviewing the most successful business owners.
+- [00:02:15,540 - 00:02:15,900] Yes.
+- [00:02:15,900 - 00:02:17,620] What was your secret to creating wealth in real estate?
+- [00:02:17,620 - 00:02:18,580] Failure.
+- [00:02:18,580 - 00:02:19,080] Failure.
+- [00:02:19,080 - 00:02:20,960] Yes. You got to fail
+- [00:02:20,960 - 00:02:22,840] before you get hungry to make.
+- [00:02:22,840 - 00:02:23,080] Yeah.
+- [00:02:23,080 - 00:02:24,650] If you don't fail and you just
+- [00:02:24,650 - 00:02:26,220] keep, you know, and just roll and whatever,
+- [00:02:26,220 - 00:02:27,680] you're not the hungry. You got to be hungry.
+- [00:02:27,680 - 00:02:29,540] How did you find properties to close on and build?
+- [00:02:29,560 - 00:02:30,480] Like, how did you find deals?
+- [00:02:30,480 - 00:02:32,440] It's very hard for you kids nowadays.
+- [00:02:32,440 - 00:02:34,100] It was much easier.
+- [00:02:34,100 - 00:02:37,980] It used to be you can buy stuff subject to,
+- [00:02:37,980 - 00:02:39,170] and then it would gain wealth
+- [00:02:39,170 - 00:02:40,360] before you even closed on it.
+- [00:02:40,360 - 00:02:40,740] Yeah.
+- [00:02:40,740 - 00:02:42,040] That was the key.
+- [00:02:42,040 - 00:02:42,660] No more.
+- [00:02:42,660 - 00:02:44,960] Now it's a risk.
+- [00:02:44,960 - 00:02:45,320] Yeah.
+- [00:02:45,320 - 00:02:46,080] You know?
+- [00:02:46,080 - 00:02:49,000] But stay with it and you'll be successful.
+- [00:02:49,000 - 00:02:51,700] What's your best negotiation advice for anybody in business?
+- [00:02:51,700 - 00:02:53,260] You're at the table with a heavy hitter.
+- [00:02:53,260 - 00:02:54,160] How did you close all these deals?
+- [00:02:54,160 - 00:02:55,620] What was your best negotiation advice?
+- [00:02:55,620 - 00:02:57,080] Don't impulse it.
+- [00:02:57,080 - 00:02:59,540] Let them make it like you don't really want it.
+- [00:02:59,540 - 00:03:00,459] Or need it.
+- [00:03:00,459 - 00:03:01,700] You can't be desperate to get a deal done.
+- [00:03:01,700 - 00:03:02,420] No.
+- [00:03:02,420 - 00:03:03,500] Can't be desperate.
+- [00:03:03,500 - 00:03:04,220] Yeah.
+- [00:03:04,220 - 00:03:05,720] And you got to use your own money.
+- [00:03:05,720 - 00:03:06,990] Don't use the banks because they are
+- [00:03:06,990 - 00:03:08,260] the only ones that make the money.
+- [00:03:08,260 - 00:03:08,540] Yeah.
+- [00:03:08,540 - 00:03:09,669] So what's the lesson about money
+- [00:03:09,669 - 00:03:10,799] that banks don't want people to know?
+- [00:03:10,799 - 00:03:13,160] Don't always listen to what they say.
+- [00:03:13,160 - 00:03:15,110] If they say they want 6%,
+- [00:03:15,110 - 00:03:17,060] you make it that it's 4%.
+- [00:03:17,060 - 00:03:18,079] Otherwise you're not doing it.
+- [00:03:18,079 - 00:03:19,820] Then you start walking out.
+- [00:03:19,820 - 00:03:20,760] Oh, excuse me.
+- [00:03:20,760 - 00:03:21,380] No, no, no.
+- [00:03:21,380 - 00:03:21,940] Come back.
+- [00:03:21,940 - 00:03:23,519] Come back to the table.
+- [00:03:23,519 - 00:03:25,540] Never settle on your first offer.
+- [00:03:25,540 - 00:03:26,280] I love that.
+- [00:03:26,280 - 00:03:26,840] All right.
+- [00:03:26,840 - 00:03:28,170] In terms of revenue, what was the most
+- [00:03:28,170 - 00:03:29,500] amount of money you made in a single year?
+- [00:03:29,540 - 00:03:31,299] At your business revenue?
+- [00:03:31,299 - 00:03:32,200] 6 million.
+- [00:03:32,200 - 00:03:33,120] 6, 7 million.
+- [00:03:33,120 - 00:03:34,500] That's for yourself or the business?
+- [00:03:34,500 - 00:03:36,260] No, the business is myself.
+- [00:03:36,260 - 00:03:38,299] I own like 20 companies still.
+- [00:03:38,299 - 00:03:38,920] Actually.
+- [00:03:38,920 - 00:03:39,420] Actually.
+- [00:03:39,420 - 00:03:40,200] Thank you, my friend.
+- [00:03:40,200 - 00:03:41,160] And who are you voting
+- [00:03:41,160 - 00:03:42,120] for next week in the election?
+- [00:03:42,120 - 00:03:42,780] Trump.
+- [00:03:42,780 - 00:03:44,040] Why Trump?
+- [00:03:44,040 - 00:03:45,260] Why Trump?
+- [00:03:45,260 - 00:03:46,859] He's a dick, first of all.
+- [00:03:46,859 - 00:03:47,579] He really is.
+- [00:03:47,579 - 00:03:49,399] He's a pompous ass.
+- [00:03:49,399 - 00:03:51,620] But he gets it done.
+- [00:03:51,620 - 00:03:52,940] He's a businessman like me.
+- [00:03:52,940 - 00:03:53,440] Yeah.
+- [00:03:53,440 - 00:03:55,040] And he's crude, rude.
+- [00:03:55,040 - 00:03:55,579] Thank you, my friend.
+- [00:03:55,579 - 00:03:56,160] I appreciate you, man.
+- [00:03:56,160 - 00:03:56,780] Have a great day.
+- [00:03:56,780 - 00:03:57,299] You guys be good.
+- [00:03:57,299 - 00:03:59,480] So we just got our first interview out here.
+- [00:03:59,480 - 00:04:01,579] A wealthy real estate developer from New York
+- [00:04:01,579 - 00:04:03,679] City who just gave you guys the blueprint
+- [00:04:03,679 - 00:04:05,160] on how to negotiate.
+- [00:04:05,160 - 00:04:06,859] He said no impulses.
+- [00:04:06,859 - 00:04:08,559] You got to be willing to walk away
+- [00:04:08,559 - 00:04:10,260] from the deal because the most desperate person has
+- [00:04:10,260 - 00:04:12,239] no leverage in a negotiation.
+- [00:04:12,239 - 00:04:13,419] And he said he's going to be
+- [00:04:13,419 - 00:04:14,600] voting for Trump in this election next week.
+- [00:04:14,600 - 00:04:16,149] But we got to go find some more
+- [00:04:16,149 - 00:04:17,700] millionaires and figure out who they're voting for.
+- [00:04:17,700 - 00:04:18,700] Let's go see what they have to say.
+- [00:04:18,700 - 00:04:20,380] Excuse me, sir.
+- [00:04:20,380 - 00:04:21,380] Question for you.
+- [00:04:21,380 - 00:04:24,039] How old were you when you became a millionaire?
+- [00:04:24,039 - 00:04:25,039] I'm not a millionaire.
+- [00:04:25,039 - 00:04:25,539] Yeah?
+- [00:04:25,539 - 00:04:26,039] I wish I were.
+- [00:04:26,039 - 00:04:27,240] What line of business are you in?
+- [00:04:27,240 - 00:04:27,740] I'm a lawyer.
+- [00:04:27,740 - 00:04:29,120] I used to be a millionaire.
+- [00:04:29,120 - 00:04:31,080] My ex-wife has most of the money.
+- [00:04:31,080 - 00:04:31,580] Actually.
+- [00:04:31,580 - 00:04:33,080] So what did you learn from that divorce?
+- [00:04:33,080 - 00:04:34,740] Don't get divorced because in every
+- [00:04:34,740 - 00:04:36,400] state, the woman gets all the money.
+- [00:04:36,400 - 00:04:38,420] How much money did you lose from your divorce?
+- [00:04:38,420 - 00:04:39,420] Several million dollars.
+- [00:04:39,420 - 00:04:40,420] Several million dollars.
+- [00:04:40,420 - 00:04:41,080] What are you doing to
+- [00:04:41,080 - 00:04:41,740] kind of bounce back from that?
+- [00:04:41,740 - 00:04:43,580] And I ask because I started a channel.
+- [00:04:43,580 - 00:04:45,630] I grew it to a couple million followers
+- [00:04:45,630 - 00:04:47,680] where I asked successful people some advice to the
+- [00:04:47,680 - 00:04:49,360] younger generation and how they built
+- [00:04:49,360 - 00:04:51,040] their wealth and how they became successful.
+- [00:04:51,040 - 00:04:52,320] So just wanted to ask
+- [00:04:52,320 - 00:04:53,600] you a couple of quick questions.
+- [00:04:53,600 - 00:04:55,460] I'm a lawyer and I went out.
+- [00:04:55,460 - 00:04:56,460] I worked in big law.
+- [00:04:56,460 - 00:04:58,360] I made a lot of money in the dot-com era.
+- [00:04:58,360 - 00:04:59,100] The ex-wife has all of it.
+- [00:04:59,120 - 00:05:01,580] She has all of that money right now.
+- [00:05:01,580 - 00:05:03,360] She kept all the house and she
+- [00:05:03,360 - 00:05:05,140] lives very high on the hog in Florida.
+- [00:05:05,140 - 00:05:07,400] I got remarried and I'm now separated and
+- [00:05:07,400 - 00:05:09,660] decided not to get divorced even though we're
+- [00:05:09,660 - 00:05:11,170] separated because I don't want
+- [00:05:11,170 - 00:05:12,680] her to have all my retirement.
+- [00:05:12,680 - 00:05:15,540] So it's safe to say marriage is a business.
+- [00:05:15,540 - 00:05:17,600] Marriage is an important economic decision and
+- [00:05:17,600 - 00:05:19,660] you should be very careful about that.
+- [00:05:19,660 - 00:05:22,190] Particularly if you are the man or the
+- [00:05:22,190 - 00:05:24,720] money earner and the woman doesn't work, which is
+- [00:05:24,720 - 00:05:27,580] both of my wife fell into that category.
+- [00:05:27,580 - 00:05:28,580] Yeah.
+- [00:05:28,580 - 00:05:30,619] And if you are building wealth,
+- [00:05:30,619 - 00:05:32,659] you certainly have a prenuptial agreement.
+- [00:05:32,659 - 00:05:34,099] And even though you want to
+- [00:05:34,099 - 00:05:35,539] marry for love, just be careful.
+- [00:05:35,539 - 00:05:36,599] What was the most amount of money
+- [00:05:36,599 - 00:05:37,659] that you've made in a single year?
+- [00:05:37,659 - 00:05:40,549] It was paper money and I eventually lost
+- [00:05:40,549 - 00:05:43,440] it because I didn't convert it to real money
+- [00:05:43,440 - 00:05:44,440] soon enough.
+- [00:05:44,440 - 00:05:45,440] How much was that though?
+- [00:05:45,440 - 00:05:46,440] $17.5 million.
+- [00:05:46,440 - 00:05:47,440] $17.5 million?
+- [00:05:47,440 - 00:05:48,440] Yeah.
+- [00:05:48,440 - 00:05:50,820] What happened that you made $17 million?
+- [00:05:50,820 - 00:05:51,820] That's incredible.
+- [00:05:51,820 - 00:05:54,820] It was stock options in companies with IPOs
+- [00:05:54,820 - 00:05:57,820] in 1999 and 2000, the height of the dot-com
+- [00:05:57,820 - 00:05:58,460] era.
+- [00:05:58,580 - 00:06:00,500] The bubble, as they say.
+- [00:06:00,500 - 00:06:02,829] My shares were locked up because after
+- [00:06:02,829 - 00:06:05,159] the IPO, insiders have to wait six months.
+- [00:06:05,159 - 00:06:07,659] Six months was the middle of the crash.
+- [00:06:07,659 - 00:06:11,319] And by the time I convinced my Merrill
+- [00:06:11,319 - 00:06:14,979] Lynch broker to sell the shares, they had collapsed
+- [00:06:14,979 - 00:06:17,779] and it was worth $750,000 and
+- [00:06:17,779 - 00:06:20,580] he finally sold them for $350,000.
+- [00:06:20,580 - 00:06:24,620] So sell too soon.
+- [00:06:24,620 - 00:06:26,360] You never lose money selling too soon.
+- [00:06:26,360 - 00:06:27,659] You got amazing advice, sir.
+- [00:06:27,659 - 00:06:28,460] Real quick.
+- [00:06:28,460 - 00:06:29,460] You've got a big election coming up.
+- [00:06:29,460 - 00:06:31,640] Who are you voting for in this election?
+- [00:06:31,640 - 00:06:33,300] I don't talk politics in public
+- [00:06:33,300 - 00:06:34,960] just because it's so divisive now.
+- [00:06:34,960 - 00:06:36,580] Who do you think is going to win?
+- [00:06:36,580 - 00:06:38,430] Personally, I hope that Kamala Harris does not
+- [00:06:38,430 - 00:06:40,280] win for the same reason I did not want
+- [00:06:40,280 - 00:06:41,960] Hillary Clinton to be president.
+- [00:06:41,960 - 00:06:43,680] I don't think either of them are qualified.
+- [00:06:43,680 - 00:06:45,859] Did you know that for the first time ever
+- [00:06:45,859 - 00:06:48,039] in history, you can legally bet on the election?
+- [00:06:48,039 - 00:06:49,039] I did know that.
+- [00:06:49,039 - 00:06:50,039] Yeah.
+- [00:06:50,039 - 00:06:51,169] There's a platform called CalSheet where
+- [00:06:51,169 - 00:06:52,299] people can bet on who's winning.
+- [00:06:52,299 - 00:06:54,109] Right now, it's closer to like 50-50, so you
+- [00:06:54,109 - 00:06:55,919] can make some pretty good returns if you bet
+- [00:06:55,919 - 00:06:57,380] on using this platform called CalSheet.
+- [00:06:57,380 - 00:06:58,380] Yeah.
+- [00:06:58,460 - 00:07:01,780] I mean, look, there's only 1% or 2% at issue.
+- [00:07:01,780 - 00:07:02,770] We need to go, but there's
+- [00:07:02,770 - 00:07:03,760] only 1% or 2% at issue.
+- [00:07:03,760 - 00:07:04,760] It's going to be really close.
+- [00:07:04,760 - 00:07:05,760] Who knows?
+- [00:07:05,760 - 00:07:07,219] It depends upon how they count the ballots.
+- [00:07:07,219 - 00:07:09,700] Guys, you hear it time and time again.
+- [00:07:09,700 - 00:07:12,100] The most important decision that you will ever
+- [00:07:12,100 - 00:07:14,500] make is the person you decide to marry.
+- [00:07:14,500 - 00:07:16,310] And like I said at the end of that
+- [00:07:16,310 - 00:07:18,120] interview, guys, for the first time in history, you can
+- [00:07:18,120 - 00:07:21,220] legally bet on who you think will win
+- [00:07:21,220 - 00:07:24,320] the 2024 presidential election thanks to a platform
+- [00:07:24,320 - 00:07:25,320] called CalSheet.
+- [00:07:25,320 - 00:07:25,820] CalSheet makes it possible for you to bet on not just who you think
+- [00:07:25,820 - 00:07:26,320] will win the general election, but the people who will win the presidential election.
+- [00:07:26,320 - 00:07:26,820] CalSheet makes it possible for you to bet on not just who you think
+- [00:07:26,820 - 00:07:27,320] will win the general election, but the people who will win the general election.
+- [00:07:28,460 - 00:07:31,050] But who you think is going to win the
+- [00:07:31,050 - 00:07:33,640] individual swing states in places like Georgia or Arizona.
+- [00:07:33,640 - 00:07:34,630] Who you think is going to take
+- [00:07:34,630 - 00:07:35,620] control of the House or the Senate.
+- [00:07:35,620 - 00:07:36,840] And you can bet on way
+- [00:07:36,840 - 00:07:38,060] more than just politics in the election.
+- [00:07:38,060 - 00:07:40,570] This platform, CalSheet, has already facilitated
+- [00:07:40,570 - 00:07:43,080] a billion dollars worth of trades.
+- [00:07:43,080 - 00:07:45,230] And if you're at all invested in politics
+- [00:07:45,230 - 00:07:47,380] in the general election, and you have confidence
+- [00:07:47,380 - 00:07:50,480] behind which candidate you think you will win,
+- [00:07:50,480 - 00:07:53,580] waste no more time and head over to calsheet.com
+- [00:07:53,580 - 00:07:55,589] slash hard knocks to place your bet on who
+- [00:07:55,589 - 00:07:57,599] you think is going to win the general election.
+- [00:07:57,599 - 00:07:58,019] And if you use all of the options you
+- [00:07:58,019 - 00:07:58,440] have, you are going to win the general election.
+- [00:07:58,440 - 00:08:00,350] Go to our link at calsheet.com slash
+- [00:08:00,350 - 00:08:02,260] hard knocks and deposit a hundred dollars.
+- [00:08:02,260 - 00:08:05,740] You will receive a $20 credit to place your bet.
+- [00:08:05,740 - 00:08:07,840] And the beautiful thing is, is both candidates
+- [00:08:07,840 - 00:08:09,940] are trading about 50 50 meaning no matter
+- [00:08:09,940 - 00:08:12,480] which candidate you place a bet on, you
+- [00:08:12,480 - 00:08:15,020] can have some serious returns on your investment.
+- [00:08:15,020 - 00:08:17,240] So head over to calsheet.com using the
+- [00:08:17,240 - 00:08:19,460] link down in the description or calsheet.com slash
+- [00:08:19,460 - 00:08:21,110] hard knocks, but with that being
+- [00:08:21,110 - 00:08:22,760] said, let's go get this next interview.
+- [00:08:22,760 - 00:08:23,820] Excuse me, sir.
+- [00:08:23,820 - 00:08:25,000] What question for you?
+- [00:08:25,000 - 00:08:26,000] I know who you are.
+- [00:08:26,000 - 00:08:27,000] I see you online all the time.
+- [00:08:27,000 - 00:08:27,800] Yeah, it's not that I know you.
+- [00:08:27,800 - 00:08:28,240] You're just not here.
+- [00:08:28,440 - 00:08:30,840] Could I interview you real quick for the channel?
+- [00:08:30,840 - 00:08:32,840] How many followers do you have?
+- [00:08:32,840 - 00:08:34,539] Just so he knows. He doesn't know who you are.
+- [00:08:34,539 - 00:08:36,539] 9.1 million across social media.
+- [00:08:36,539 - 00:08:37,539] That's pretty good.
+- [00:08:37,539 - 00:08:38,539] Yeah? Shoot.
+- [00:08:38,539 - 00:08:40,740] How old were you when you became a millionaire?
+- [00:08:40,740 - 00:08:42,740] See, I'm 47 now.
+- [00:08:42,740 - 00:08:45,240] I was a millionaire once before when I was 27.
+- [00:08:45,240 - 00:08:46,540] Lost everything.
+- [00:08:46,540 - 00:08:48,540] Filed bankruptcy when I was 31.
+- [00:08:48,540 - 00:08:50,540] Took me about 10 years to build back up.
+- [00:08:50,540 - 00:08:52,040] Did you come from a lot of money?
+- [00:08:52,040 - 00:08:52,740] No.
+- [00:08:52,740 - 00:08:53,240] No?
+- [00:08:53,240 - 00:08:53,740] No.
+- [00:08:53,740 - 00:08:54,890] So what was that first
+- [00:08:54,890 - 00:08:56,040] business you started that went bankrupt?
+- [00:08:56,040 - 00:08:57,740] An excavation company.
+- [00:08:57,740 - 00:08:58,740] Excavation?
+- [00:08:58,740 - 00:08:59,240] Yeah.
+- [00:08:59,240 - 00:09:00,740] I was 24 years old.
+- [00:09:01,740 - 00:09:02,740] Yeah.
+- [00:09:02,740 - 00:09:03,240] Yeah.
+- [00:09:03,240 - 00:09:04,990] By the time I was 28, 29,
+- [00:09:04,990 - 00:09:06,740] I was doing about $8 million a year.
+- [00:09:06,740 - 00:09:07,740] Actually.
+- [00:09:07,740 - 00:09:10,740] 31, 2008, crisis happened.
+- [00:09:10,740 - 00:09:11,240] Lost everything.
+- [00:09:11,240 - 00:09:12,240] Had to file bankruptcy.
+- [00:09:12,240 - 00:09:13,740] Took two years off.
+- [00:09:13,740 - 00:09:15,240] Met my beautiful wife.
+- [00:09:15,240 - 00:09:16,740] Traveled the country and started over again.
+- [00:09:16,740 - 00:09:17,990] So what's the greatest lesson
+- [00:09:17,990 - 00:09:19,240] that you've learned about entrepreneurship?
+- [00:09:19,240 - 00:09:22,240] Building numerous companies to multi-million dollars.
+- [00:09:22,240 - 00:09:23,240] You lost it all at one point.
+- [00:09:23,240 - 00:09:24,240] Made it all back.
+- [00:09:24,240 - 00:09:25,490] What's the greatest lesson you've
+- [00:09:25,490 - 00:09:26,740] learned about entrepreneurship throughout your career?
+- [00:09:26,740 - 00:09:27,740] That you can tell people more about you.
+- [00:09:27,740 - 00:09:29,740] About what not to do than what they can do.
+- [00:09:29,740 - 00:09:30,740] Yeah.
+- [00:09:30,740 - 00:09:32,740] And find a good wife to support
+- [00:09:32,740 - 00:09:34,740] you through the million businesses that you'll start.
+- [00:09:34,740 - 00:09:36,740] The other thing is it just takes a
+- [00:09:36,740 - 00:09:38,740] whole lot more effort than what people realize.
+- [00:09:38,740 - 00:09:40,740] Because nobody else is going to do it for you.
+- [00:09:40,740 - 00:09:41,740] You have to do it yourself.
+- [00:09:41,740 - 00:09:43,240] There's nobody else.
+- [00:09:43,240 - 00:09:44,740] There's no owner.
+- [00:09:44,740 - 00:09:45,740] There's no VP.
+- [00:09:45,740 - 00:09:46,240] You're the owner.
+- [00:09:46,240 - 00:09:47,240] You're the VP.
+- [00:09:47,240 - 00:09:48,240] You have to make it happen.
+- [00:09:48,240 - 00:09:49,740] So in other words, nobody's coming to save you.
+- [00:09:49,740 - 00:09:50,740] Nobody's coming to save you.
+- [00:09:50,740 - 00:09:51,240] Yeah.
+- [00:09:51,240 - 00:09:52,740] How did you get the money to start your business?
+- [00:09:52,740 - 00:09:53,740] Sweat equity.
+- [00:09:53,740 - 00:09:54,740] Sweat equity.
+- [00:09:54,740 - 00:09:55,240] Yeah.
+- [00:09:55,240 - 00:09:56,240] You worked your ass off.
+- [00:09:56,240 - 00:09:56,740] Yeah.
+- [00:09:56,740 - 00:09:57,240] Yeah.
+- [00:09:57,240 - 00:09:59,490] I went to school at night to learn
+- [00:09:59,490 - 00:10:01,740] how to basically be a project manager, owner.
+- [00:10:01,740 - 00:10:02,990] I learned how to run
+- [00:10:02,990 - 00:10:04,240] the equipment at the trade school.
+- [00:10:04,240 - 00:10:06,240] So I worked the job of the day running equipment.
+- [00:10:06,240 - 00:10:08,740] And at night, I went to school to learn how
+- [00:10:08,740 - 00:10:11,240] to be a project manager, estimator, negotiate contracts, all that stuff.
+- [00:10:11,240 - 00:10:12,240] So I was hustling.
+- [00:10:12,240 - 00:10:13,740] But you ended up in excavation.
+- [00:10:13,740 - 00:10:14,240] Yeah.
+- [00:10:14,240 - 00:10:16,240] There's a saying, riches are in the niches.
+- [00:10:17,240 - 00:10:17,740] Yeah.
+- [00:10:17,740 - 00:10:18,740] You know what you're talking about.
+- [00:10:18,740 - 00:10:19,740] I'm pretty impressed.
+- [00:10:19,740 - 00:10:21,740] Did you almost kind of create your own market there?
+- [00:10:21,740 - 00:10:23,990] I'm just curious why excavation out of all
+- [00:10:23,990 - 00:10:26,240] the – why that niche particularly out of
+- [00:10:26,240 - 00:10:27,240] any business you could have been in?
+- [00:10:27,240 - 00:10:29,240] For me personally, I love being outside.
+- [00:10:29,240 - 00:10:32,240] I love building something.
+- [00:10:32,240 - 00:10:33,740] And I hate – that was
+- [00:10:33,740 - 00:10:35,240] the only kind of construction I liked.
+- [00:10:35,240 - 00:10:37,240] I tried every other trade.
+- [00:10:37,240 - 00:10:38,240] I love moving the earth.
+- [00:10:38,240 - 00:10:40,240] I love taking like a place
+- [00:10:40,240 - 00:10:42,240] like this and building into something new.
+- [00:10:42,240 - 00:10:42,740] Yeah.
+- [00:10:42,740 - 00:10:43,240] So, yeah.
+- [00:10:43,240 - 00:10:44,990] And, you know, we're doing a video
+- [00:10:44,990 - 00:10:46,740] where we're asking millionaires who they're voting for.
+- [00:10:46,740 - 00:10:48,240] We got a big election coming up next week.
+- [00:10:48,240 - 00:10:49,740] Who are you voting for next week?
+- [00:10:49,740 - 00:10:51,240] I'll give you one guess.
+- [00:10:51,240 - 00:10:53,240] You're voting for Trump.
+- [00:10:53,240 - 00:10:54,240] Donald J. Trump.
+- [00:10:54,240 - 00:10:54,740] All day.
+- [00:10:54,740 - 00:10:55,240] All day.
+- [00:10:55,240 - 00:10:55,740] All day.
+- [00:10:55,740 - 00:10:56,240] All day.
+- [00:10:56,240 - 00:10:56,740] Every day.
+- [00:10:56,740 - 00:10:57,740] Do you think he's going to win?
+- [00:10:57,740 - 00:10:58,240] I do.
+- [00:10:58,240 - 00:10:59,240] I think it's going to be a landslide.
+- [00:10:59,240 - 00:10:59,740] Yeah.
+- [00:10:59,740 - 00:11:00,490] And what's the number one
+- [00:11:00,490 - 00:11:01,240] reason why you're voting for Trump?
+- [00:11:01,240 - 00:11:01,740] I'm curious.
+- [00:11:01,740 - 00:11:03,240] First of all, he loves his country.
+- [00:11:03,240 - 00:11:04,740] And there's a lot of people in
+- [00:11:04,740 - 00:11:06,240] this country that don't love this country.
+- [00:11:06,240 - 00:11:06,740] Yeah.
+- [00:11:06,740 - 00:11:07,740] He loves what it stands for.
+- [00:11:07,740 - 00:11:08,740] He loves the foundation.
+- [00:11:08,740 - 00:11:10,240] He loves the Constitution.
+- [00:11:10,240 - 00:11:11,240] He loves freedom.
+- [00:11:11,240 - 00:11:13,240] He loves liberty.
+- [00:11:13,240 - 00:11:14,740] And he loves the pursuit of happiness.
+- [00:11:14,740 - 00:11:15,240] Yeah.
+- [00:11:15,240 - 00:11:15,740] Thank you so much for your time, Scott.
+- [00:11:15,740 - 00:11:16,240] Yeah.
+- [00:11:16,240 - 00:11:16,740] You bet, man.
+- [00:11:16,740 - 00:11:17,240] You got an amazing advice.
+- [00:11:17,240 - 00:11:17,740] You bet.
+- [00:11:17,740 - 00:11:19,240] We just got another multimillionaire out here.
+- [00:11:19,240 - 00:11:21,740] And he took his business to nearly
+- [00:11:21,740 - 00:11:24,240] $10 million before the time he was 30.
+- [00:11:24,240 - 00:11:25,240] But he went bankrupt.
+- [00:11:25,240 - 00:11:26,240] He lost it all.
+- [00:11:26,240 - 00:11:28,240] And it just goes to show, guys, that the
+- [00:11:28,240 - 00:11:30,240] realest entrepreneurs in the game, you can take everything
+- [00:11:30,240 - 00:11:33,740] away from them, their businesses, their money, everything.
+- [00:11:33,740 - 00:11:35,590] But you can't take away the skill sets
+- [00:11:35,590 - 00:11:37,440] and the mindsets that they developed to build
+- [00:11:37,440 - 00:11:39,240] million-dollar businesses.
+- [00:11:39,240 - 00:11:40,240] Great interview out here.
+- [00:11:40,240 - 00:11:41,740] And we got another business mogul that
+- [00:11:41,740 - 00:11:43,240] said he's going to be voting for Trump.
+- [00:11:43,240 - 00:11:44,740] And this is crazy surprising
+- [00:11:44,740 - 00:11:46,240] because we're in Austin right now.
+- [00:11:46,240 - 00:11:48,240] This is the most liberal city in Texas.
+- [00:11:48,240 - 00:11:50,090] The last couple of decades, it's gone
+- [00:11:50,090 - 00:11:51,940] blue for presidential candidates and other people
+- [00:11:51,940 - 00:11:53,240] running for office out here.
+- [00:11:53,240 - 00:11:54,740] But it's 3-0 Trump so far.
+- [00:11:54,740 - 00:11:55,240] We're going to win.
+- [00:11:55,240 - 00:11:56,490] We got to go get another one and see
+- [00:11:56,490 - 00:11:57,740] who these people out here are going to be voting
+- [00:11:57,740 - 00:11:58,240] for.
+- [00:11:58,240 - 00:11:58,740] Come on.
+- [00:11:58,740 - 00:11:59,240] Excuse me, sir.
+- [00:11:59,240 - 00:12:00,740] Question for you.
+- [00:12:00,740 - 00:12:02,740] I started a channel here in Austin at UT.
+- [00:12:02,740 - 00:12:03,740] I grew it to 9 million followers.
+- [00:12:03,740 - 00:12:04,740] A what?
+- [00:12:04,740 - 00:12:06,240] I started a channel at the University of Texas.
+- [00:12:06,240 - 00:12:07,240] I grew it to 9 million followers.
+- [00:12:07,240 - 00:12:08,240] Real quick.
+- [00:12:08,240 - 00:12:09,740] I go all over asking successful people two
+- [00:12:09,740 - 00:12:11,240] or three quick questions on their best advice
+- [00:12:11,240 - 00:12:12,240] to the younger generation.
+- [00:12:12,240 - 00:12:14,240] Can I get one quick minute with you real quick?
+- [00:12:14,240 - 00:12:14,740] Real quick.
+- [00:12:14,740 - 00:12:15,240] OK.
+- [00:12:15,240 - 00:12:16,240] What line of business are you in?
+- [00:12:16,240 - 00:12:17,240] I'm retired.
+- [00:12:17,240 - 00:12:18,240] What did you do?
+- [00:12:18,240 - 00:12:19,240] I was in finance.
+- [00:12:19,240 - 00:12:20,240] Did you ever own a
+- [00:12:20,240 - 00:12:21,240] business at any point in time?
+- [00:12:21,240 - 00:12:21,740] Yes, I did.
+- [00:12:21,740 - 00:12:22,240] What company?
+- [00:12:22,240 - 00:12:23,240] What type of company?
+- [00:12:23,240 - 00:12:24,740] I own a couple of restaurants.
+- [00:12:24,740 - 00:12:25,740] A couple of restaurants?
+- [00:12:25,740 - 00:12:26,240] I did.
+- [00:12:26,240 - 00:12:27,240] What type of restaurants?
+- [00:12:27,240 - 00:12:28,240] American Fair.
+- [00:12:28,240 - 00:12:28,740] Yeah?
+- [00:12:28,740 - 00:12:29,240] What was the name of it?
+- [00:12:29,240 - 00:12:30,240] Bogies Grill in Taproom.
+- [00:12:30,240 - 00:12:31,240] How many locations did you have?
+- [00:12:31,240 - 00:12:31,740] Three.
+- [00:12:31,740 - 00:12:33,240] There's tough margins in the restaurant business, right?
+- [00:12:34,240 - 00:12:34,740] Right?
+- [00:12:34,740 - 00:12:39,240] You're either hugely successful or you go out of business.
+- [00:12:39,240 - 00:12:42,240] That's why banks don't lend money to restaurants.
+- [00:12:42,240 - 00:12:43,240] It's all privately financed.
+- [00:12:43,240 - 00:12:45,240] So what were you doing in the finance business?
+- [00:12:45,240 - 00:12:47,240] I was a bond trader.
+- [00:12:47,240 - 00:12:48,240] In terms of revenue, right?
+- [00:12:48,240 - 00:12:49,940] Maybe either on Wall Street or when you
+- [00:12:49,940 - 00:12:51,640] were in the restaurant business, what was the most
+- [00:12:51,640 - 00:12:53,740] amount of money that you made in a single year?
+- [00:12:53,740 - 00:12:54,740] I'm not sure.
+- [00:12:54,740 - 00:12:55,740] I'm not going to share that with you.
+- [00:12:55,740 - 00:12:56,740] Just revenue, not personal income.
+- [00:12:56,740 - 00:12:57,740] Oh, revenue?
+- [00:12:57,740 - 00:12:58,740] $50 million.
+- [00:12:58,740 - 00:12:59,740] $50 million?
+- [00:12:59,740 - 00:13:00,240] Yes.
+- [00:13:00,240 - 00:13:01,240] You were in the money business.
+- [00:13:01,240 - 00:13:02,490] What's a lesson about money that
+- [00:13:02,490 - 00:13:03,740] banks don't want people to know?
+- [00:13:03,740 - 00:13:04,990] Give me some game right here, something that
+- [00:13:04,990 - 00:13:06,240] they won't learn in school right here, because
+- [00:13:06,240 - 00:13:07,240] I know that you have some insight and knowledge.
+- [00:13:07,240 - 00:13:08,240] You know what?
+- [00:13:08,240 - 00:13:09,740] Listen, I'm going to just tell you.
+- [00:13:09,740 - 00:13:10,990] What you're going to learn in
+- [00:13:10,990 - 00:13:12,240] school is really, really important, okay?
+- [00:13:12,240 - 00:13:15,490] What you learn in business, you learn
+- [00:13:15,490 - 00:13:18,740] hands-on, and you got to learn it yourself.
+- [00:13:18,740 - 00:13:20,490] And the best advice I can give a trader
+- [00:13:20,490 - 00:13:22,240] or people who get into trading, if any great
+- [00:13:22,240 - 00:13:23,240] trader tells you he never lost
+- [00:13:23,240 - 00:13:24,240] money, then he's lying to you.
+- [00:13:24,240 - 00:13:24,740] Yeah.
+- [00:13:24,740 - 00:13:26,740] So there's a lot of loss that comes with it.
+- [00:13:26,740 - 00:13:27,240] Of course.
+- [00:13:27,240 - 00:13:28,240] That's how you learn.
+- [00:13:28,240 - 00:13:28,740] Right.
+- [00:13:28,740 - 00:13:29,990] What separates the middle class from wealthy people
+- [00:13:29,990 - 00:13:31,240] in today's world in terms of how they
+- [00:13:31,240 - 00:13:32,240] perceive or look at money?
+- [00:13:32,240 - 00:13:35,740] So the middle class saves, the upper class invests.
+- [00:13:35,740 - 00:13:36,740] Into what?
+- [00:13:36,740 - 00:13:37,740] Whatever.
+- [00:13:37,740 - 00:13:38,990] What do you think is the best industry people
+- [00:13:38,990 - 00:13:40,240] should be looking to get into to make their
+- [00:13:40,240 - 00:13:41,240] money work for them?
+- [00:13:41,240 - 00:13:42,240] You know what?
+- [00:13:42,240 - 00:13:44,240] My philosophy is you invest by walking around.
+- [00:13:44,240 - 00:13:46,240] So it's kind of like the Peter Lynch model.
+- [00:13:46,240 - 00:13:48,240] So if you walk up this street right here,
+- [00:13:48,240 - 00:13:50,240] and I live in a house with five women, and
+- [00:13:50,240 - 00:13:53,240] everyone in my house has an Apple product.
+- [00:13:53,240 - 00:13:54,240] Everyone in my house wears Lulu.
+- [00:13:54,240 - 00:13:55,740] Everyone in my house wears Lulu Lemon.
+- [00:13:55,740 - 00:13:57,740] You know, so on and so forth.
+- [00:13:57,740 - 00:13:59,240] You don't have to, it's
+- [00:13:59,240 - 00:14:00,740] not any, it's not rocket science.
+- [00:14:00,740 - 00:14:01,740] Thank you, my friend.
+- [00:14:01,740 - 00:14:02,740] I really appreciate you.
+- [00:14:02,740 - 00:14:03,740] Good luck with everything.
+- [00:14:03,740 - 00:14:04,740] And real quick, who are you voting for?
+- [00:14:04,740 - 00:14:05,740] Because we're asking millionaires who they're
+- [00:14:05,740 - 00:14:06,740] voting for just to get perspectives.
+- [00:14:06,740 - 00:14:08,740] I live in a split household.
+- [00:14:08,740 - 00:14:09,740] I'm going to leave it at that.
+- [00:14:09,740 - 00:14:10,740] Who are you pulling towards though?
+- [00:14:10,740 - 00:14:11,740] We have four daughters.
+- [00:14:11,740 - 00:14:12,740] Yeah.
+- [00:14:12,740 - 00:14:13,740] Well, who are you pulling towards though?
+- [00:14:13,740 - 00:14:14,740] I vote for the party.
+- [00:14:14,740 - 00:14:15,740] I don't vote for the individual.
+- [00:14:15,740 - 00:14:16,740] You like the party?
+- [00:14:16,740 - 00:14:17,740] Yeah.
+- [00:14:17,740 - 00:14:18,740] Democrat or Republican?
+- [00:14:18,740 - 00:14:19,740] Republican.
+- [00:14:19,740 - 00:14:20,740] You're Republican, so you're going for Trump.
+- [00:14:20,740 - 00:14:21,740] Do you think he's going to win or?
+- [00:14:21,740 - 00:14:22,740] I don't know.
+- [00:14:22,740 - 00:14:23,740] Yeah.
+- [00:14:23,740 - 00:14:24,740] Okay, good.
+- [00:14:24,740 - 00:14:25,740] Have a great day.
+- [00:14:25,740 - 00:14:26,520] Look, you guys, we just got a feel for
+- [00:14:26,520 - 00:14:27,300] who the millionaires at who are going to be voting
+- [00:14:27,300 - 00:14:28,760] for in the general election, but
+- [00:14:28,760 - 00:14:30,220] that's a wrap on today's video.
+- [00:14:30,220 - 00:14:32,190] So be sure to leave a like and
+- [00:14:32,190 - 00:14:34,160] subscribe for amazing content we've got coming very, very
+- [00:14:34,160 - 00:14:37,110] soon because every week we're asking the wealthiest
+- [00:14:37,110 - 00:14:40,060] Americans, the top 1%, how they became financially
+- [00:14:40,060 - 00:14:42,480] free and how you can do the exact same thing.
+- [00:14:42,480 - 00:14:44,610] And if you haven't joined yet, I have
+- [00:14:44,610 - 00:14:46,740] a private entrepreneur community called the School of
+- [00:14:46,740 - 00:14:47,740] Mentors.
+- [00:14:47,740 - 00:14:49,520] We're inside of it every single week.
+- [00:14:49,520 - 00:14:51,430] I host live calls with the millionaires
+- [00:14:51,430 - 00:14:53,340] and the billionaires that I interview on this
+- [00:14:53,340 - 00:14:53,540] channel.
+- [00:14:53,740 - 00:14:55,670] I have a website where you can learn
+- [00:14:55,670 - 00:14:57,600] directly from them and ask questions about how they
+- [00:14:57,600 - 00:14:59,860] became successful and learn skills like how to
+- [00:14:59,860 - 00:15:02,120] sell, how to market, how to create wealth
+- [00:15:02,120 - 00:15:05,160] and real estate and a bunch of other different industries.
+- [00:15:05,160 - 00:15:06,260] You do not want to miss
+- [00:15:06,260 - 00:15:07,360] out on this opportunity at all.
+- [00:15:07,360 - 00:15:09,430] So to join my community, use the link down
+- [00:15:09,430 - 00:15:11,500] in the description of this video or use the
+- [00:15:11,500 - 00:15:13,120] link that's up here on the screen right now.
+- [00:15:13,120 - 00:15:14,200] I can't wait to see
+- [00:15:14,200 - 00:15:15,280] on the inside of the community.
+- [00:15:15,280 - 00:15:16,310] With that being said, we'll
+- [00:15:16,310 - 00:15:17,340] see you in the next video.
