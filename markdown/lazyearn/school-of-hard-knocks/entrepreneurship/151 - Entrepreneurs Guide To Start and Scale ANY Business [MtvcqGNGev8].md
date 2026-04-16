@@ -1,0 +1,310 @@
+# Transcript
+
+Source: lazyearn/school-of-hard-knocks/hard-knocks-interviews/118 - Entrepreneurs Guide To Start and Scale ANY Business [MtvcqGNGev8].mkv
+
+- [00:00:00,000 - 00:00:02,320] Now we are attracting professional athletes from the
+- [00:00:02,320 - 00:00:04,640] NBA, the NFL, Major League Baseball, and NHL,
+- [00:00:04,720 - 00:00:06,440] and that is the key to marketing.
+- [00:00:06,640 - 00:00:07,820] Welcome back to another video
+- [00:00:07,820 - 00:00:09,000] with the School of Hard Knocks.
+- [00:00:09,080 - 00:00:11,520] I'm here with serial entrepreneur Chris Meroff,
+- [00:00:11,600 - 00:00:13,550] and today we're going to be talking about how
+- [00:00:13,550 - 00:00:15,500] you can start and scale your business in 2023.
+- [00:00:16,360 - 00:00:18,120] Chris, we're so happy to be here with you today.
+- [00:00:18,200 - 00:00:19,840] I want to first start off by asking you,
+- [00:00:19,840 - 00:00:21,480] how many businesses do you currently own right now?
+- [00:00:21,740 - 00:00:23,680] I think in total about 12.
+- [00:00:23,840 - 00:00:25,540] What was the first business that you ever started?
+- [00:00:25,540 - 00:00:27,510] So the first business I ever started
+- [00:00:27,510 - 00:00:29,480] was with my parents back in 1996.
+- [00:00:29,480 - 00:00:31,150] I was 22, and I just
+- [00:00:31,150 - 00:00:32,820] sold that business two weeks ago.
+- [00:00:32,920 - 00:00:35,740] We were focused on consulting for public schools,
+- [00:00:35,860 - 00:00:37,770] so we would bring dollars back to help
+- [00:00:37,770 - 00:00:39,680] pay for services for students with special needs.
+- [00:00:39,980 - 00:00:41,450] Through all the businesses that you've
+- [00:00:41,450 - 00:00:42,920] opened up and investments that you've had,
+- [00:00:43,040 - 00:00:44,560] what was the best financial decision
+- [00:00:44,560 - 00:00:46,080] that you've ever made throughout your lifetime?
+- [00:00:46,220 - 00:00:49,780] That was easily my consulting business that I just exited.
+- [00:00:49,980 - 00:00:51,520] It was a scenario by which
+- [00:00:51,520 - 00:00:53,060] I could have played it safe
+- [00:00:53,060 - 00:00:55,239] in an environment that was really focused on
+- [00:00:55,240 - 00:00:57,840] kind of a lifestyle business that my parents had started,
+- [00:00:57,960 - 00:01:00,580] but they offered me kind of an opportunity
+- [00:01:00,580 - 00:01:03,200] to jump out into another state on my own
+- [00:01:03,200 - 00:01:04,220] and to see what I could do.
+- [00:01:04,500 - 00:01:06,240] I decided to make the leap, move to
+- [00:01:06,240 - 00:01:07,980] an area of the country I knew nobody,
+- [00:01:08,260 - 00:01:09,650] had no resources, knew I was going to
+- [00:01:09,650 - 00:01:11,040] lose a lot of money that first year,
+- [00:01:11,100 - 00:01:12,630] but I believed so much in the
+- [00:01:12,630 - 00:01:14,160] product and the service that we were offering
+- [00:01:14,160 - 00:01:16,440] in a much larger market, and again, I
+- [00:01:16,440 - 00:01:18,720] just am so thankful I made that jump.
+- [00:01:18,960 - 00:01:19,960] Can you give me an
+- [00:01:19,960 - 00:01:20,960] example of two or three businesses
+- [00:01:20,960 - 00:01:23,120] that maybe you'd like to talk about a lot?
+- [00:01:23,120 - 00:01:24,080] A little bit of the origin
+- [00:01:24,080 - 00:01:25,040] story of how you started that,
+- [00:01:25,240 - 00:01:26,130] what did you need to
+- [00:01:26,130 - 00:01:27,020] be able to start that business?
+- [00:01:27,160 - 00:01:28,960] First one is ROI physical therapy.
+- [00:01:29,179 - 00:01:30,839] So it's a great story
+- [00:01:30,839 - 00:01:32,500] for me because several years ago,
+- [00:01:32,679 - 00:01:34,660] I played a two-hour tournament with my nephews,
+- [00:01:34,759 - 00:01:35,859] and I wasn't about to
+- [00:01:35,859 - 00:01:36,960] let them win, so I cheated.
+- [00:01:37,479 - 00:01:40,539] And when I did, I completely destroyed my knee.
+- [00:01:40,679 - 00:01:42,869] Yeah, tore my ACL, MCL,
+- [00:01:42,869 - 00:01:45,060] fractured my patella, tore my meniscus.
+- [00:01:45,280 - 00:01:46,420] And so it went through the
+- [00:01:46,420 - 00:01:47,560] system when I got back to Texas,
+- [00:01:47,560 - 00:01:48,759] and you are just a number.
+- [00:01:48,979 - 00:01:51,160] And so I wanted to solve that problem.
+- [00:01:51,160 - 00:01:52,650] And so I went out, I
+- [00:01:52,650 - 00:01:54,140] recruited a bunch of physical therapists
+- [00:01:55,240 - 00:01:56,440] to join me in a
+- [00:01:56,440 - 00:01:57,640] quest to treat the whole athlete
+- [00:01:57,640 - 00:02:01,740] and not just what's broken, but psychologically, nutrition.
+- [00:02:01,740 - 00:02:03,100] We do a massage therapy.
+- [00:02:03,100 - 00:02:05,000] We do everything that we can for them.
+- [00:02:05,000 - 00:02:08,000] And so that, again, gave the physical therapists
+- [00:02:08,199 - 00:02:09,639] something bigger to shoot for.
+- [00:02:09,639 - 00:02:11,320] They weren't part of this machine.
+- [00:02:11,740 - 00:02:13,880] And I think my excitement for what we were doing
+- [00:02:13,880 - 00:02:16,420] and drawing them in allowed us to really take off.
+- [00:02:16,420 - 00:02:18,340] And now we have a 7,000
+- [00:02:18,340 - 00:02:20,260] square foot facility and a sports arena
+- [00:02:20,260 - 00:02:22,440] that we operate this physical therapy clinic in.
+- [00:02:22,440 - 00:02:23,759] And now we are attracting
+- [00:02:23,759 - 00:02:25,079] professional athletes from the NBA,
+- [00:02:25,079 - 00:02:25,220] the NFL, and the NBA.
+- [00:02:25,220 - 00:02:27,160] NFL, Major League Baseball, and NHL.
+- [00:02:27,280 - 00:02:29,720] Failure is something that a lot of successful entrepreneurs
+- [00:02:29,720 - 00:02:31,540] emphasize as something that it's going to happen
+- [00:02:31,540 - 00:02:33,020] and you have to get comfortable with failing.
+- [00:02:33,140 - 00:02:34,359] And as someone who's had
+- [00:02:34,359 - 00:02:35,579] a ton of success in business,
+- [00:02:35,700 - 00:02:37,260] I'm sure that there's also been some mistakes
+- [00:02:37,260 - 00:02:38,280] that you've made along the way.
+- [00:02:38,400 - 00:02:40,680] What would you say was the worst financial decision
+- [00:02:40,680 - 00:02:41,420] that you ever made?
+- [00:02:41,560 - 00:02:42,700] Wow, that's a great question.
+- [00:02:42,940 - 00:02:44,740] I would say that, yeah, failure, first of all,
+- [00:02:44,760 - 00:02:45,620] is a part of the game.
+- [00:02:45,740 - 00:02:47,660] You just know going in,
+- [00:02:47,740 - 00:02:50,300] you're going to throw money at bad ideas.
+- [00:02:50,560 - 00:02:52,360] I would say my greatest failure
+- [00:02:52,360 - 00:02:54,920] is still really throwing good money after bad.
+- [00:02:55,220 - 00:02:57,440] So I had an investment I made back in 2019.
+- [00:02:57,800 - 00:02:58,700] Didn't pan out.
+- [00:02:58,840 - 00:02:59,920] In fact, the pandemic hit.
+- [00:02:59,980 - 00:03:00,840] We had to shut it down.
+- [00:03:01,260 - 00:03:02,940] We came out of the pandemic and I'm like,
+- [00:03:02,980 - 00:03:04,160] I'm going to resurrect that thing
+- [00:03:04,160 - 00:03:05,640] because I don't want to lose all this money.
+- [00:03:05,780 - 00:03:06,420] Terrible idea.
+- [00:03:06,760 - 00:03:08,160] Lost so much more money.
+- [00:03:08,160 - 00:03:10,480] If I had just buried it back in 2020,
+- [00:03:10,700 - 00:03:12,460] I would have maybe lost a million dollars.
+- [00:03:12,640 - 00:03:14,060] Bringing it back, it cost me another million
+- [00:03:14,060 - 00:03:16,060] only to find out it was a terrible idea.
+- [00:03:16,160 - 00:03:17,290] So how do you really know
+- [00:03:17,290 - 00:03:18,420] if something is a good idea
+- [00:03:18,420 - 00:03:19,720] and that it can pan out and scale
+- [00:03:19,720 - 00:03:21,040] into a really successful business?
+- [00:03:21,200 - 00:03:23,180] It is always down to sales.
+- [00:03:23,360 - 00:03:25,140] I've had so many entrepreneurs come to me
+- [00:03:25,140 - 00:03:26,600] with their idea and they pitch it
+- [00:03:26,600 - 00:03:27,140] and they're like,
+- [00:03:27,200 - 00:03:29,299] we're going to sell millions of these things.
+- [00:03:29,519 - 00:03:30,600] And so I go back to,
+- [00:03:30,779 - 00:03:31,820] well, have you sold any?
+- [00:03:31,959 - 00:03:33,140] And in fact, how many,
+- [00:03:33,299 - 00:03:35,239] if you brought this to a thousand people,
+- [00:03:35,339 - 00:03:36,880] how many of those thousand people thought
+- [00:03:36,880 - 00:03:38,210] that your idea was as good
+- [00:03:38,210 - 00:03:39,540] as you think your idea is?
+- [00:03:39,619 - 00:03:41,339] So sales are your only indicator
+- [00:03:41,339 - 00:03:42,779] on whether you've got a great idea.
+- [00:03:42,899 - 00:03:44,420] Once you get those sales now,
+- [00:03:44,500 - 00:03:46,959] it's about pouring gasoline on more sales.
+- [00:03:47,140 - 00:03:49,739] I'd like to get to at least a thousand conversations
+- [00:03:49,739 - 00:03:51,600] to where it's more than just a pitch
+- [00:03:51,600 - 00:03:53,179] in order for me to understand,
+- [00:03:53,540 - 00:03:54,880] hey, this thing is a good idea
+- [00:03:54,880 - 00:03:55,519] or a bad idea.
+- [00:03:55,600 - 00:03:57,840] Now, a thousand conversations seems like way too many,
+- [00:03:58,200 - 00:03:59,820] but the reality is within six months,
+- [00:03:59,840 - 00:04:01,380] when you break it down, it's not that bad.
+- [00:04:01,600 - 00:04:03,540] So right now we're outside of Coffee and Crisp.
+- [00:04:03,640 - 00:04:04,980] This is one of Chris's brands.
+- [00:04:05,079 - 00:04:05,880] It's a coffee brand.
+- [00:04:06,079 - 00:04:07,780] Curious, what was the inspiration to start it?
+- [00:04:07,840 - 00:04:08,519] I love coffee.
+- [00:04:08,620 - 00:04:09,460] I love community.
+- [00:04:09,720 - 00:04:11,480] And I wanted to create a place
+- [00:04:11,480 - 00:04:12,420] that people would gather
+- [00:04:12,420 - 00:04:14,859] and enjoy the thing that I enjoy the most.
+- [00:04:14,940 - 00:04:15,530] In fact, we can go
+- [00:04:15,530 - 00:04:16,120] check it out if you want.
+- [00:04:16,180 - 00:04:16,659] Let's do it.
+- [00:04:16,719 - 00:04:17,800] Is this a business you knew
+- [00:04:17,800 - 00:04:18,980] that you always wanted to start?
+- [00:04:19,159 - 00:04:21,120] Yes, it's always been high on my list.
+- [00:04:21,260 - 00:04:22,900] I love when people can all come together
+- [00:04:22,900 - 00:04:23,960] and experience,
+- [00:04:23,960 - 00:04:24,860] at least for the most part,
+- [00:04:24,940 - 00:04:25,659] what everybody loves,
+- [00:04:25,740 - 00:04:26,520] a good cup of coffee.
+- [00:04:26,780 - 00:04:26,940] Yeah.
+- [00:04:28,940 - 00:04:30,000] You love coffee,
+- [00:04:30,100 - 00:04:31,620] plus someone who's looking to start a business.
+- [00:04:31,740 - 00:04:33,780] And maybe you have no prior experience
+- [00:04:33,780 - 00:04:35,020] of working within this business.
+- [00:04:35,180 - 00:04:36,620] How did you go about finding out
+- [00:04:36,620 - 00:04:38,120] how can I actually get started within this?
+- [00:04:38,240 - 00:04:39,760] Yeah, any industry that I've entered in
+- [00:04:39,760 - 00:04:40,719] has been the same thing.
+- [00:04:40,840 - 00:04:43,000] I really try to find an expert in that field.
+- [00:04:43,120 - 00:04:44,800] Somebody who's incredibly passionate
+- [00:04:44,800 - 00:04:47,040] about the products and services themselves.
+- [00:04:47,180 - 00:04:49,240] I can provide the passion around business.
+- [00:04:49,400 - 00:04:50,920] They can provide the passion
+- [00:04:50,920 - 00:04:52,540] around what we're actually producing.
+- [00:04:52,540 - 00:04:54,860] And so it's really finding those people,
+- [00:04:54,940 - 00:04:58,240] that enables me to start these kinds of businesses.
+- [00:04:58,240 - 00:05:00,640] I look for those passionate human beings.
+- [00:05:00,640 - 00:05:01,840] And that's how I've gotten myself
+- [00:05:01,840 - 00:05:03,520] from coffee shops to a record label.
+- [00:05:03,520 - 00:05:05,520] It's just finding incredibly passionate people.
+- [00:05:05,520 - 00:05:07,120] When you're starting your path on entrepreneurship,
+- [00:05:07,120 - 00:05:08,320] getting a mentor is something that
+- [00:05:08,320 - 00:05:09,520] a lot of people talk about.
+- [00:05:09,520 - 00:05:10,880] It's really helpful for them.
+- [00:05:10,880 - 00:05:12,640] Is that something that you had early on?
+- [00:05:12,640 - 00:05:13,920] And if so, how did
+- [00:05:13,920 - 00:05:15,200] you go about meeting that person
+- [00:05:15,200 - 00:05:16,400] or reaching out to that person?
+- [00:05:16,400 - 00:05:18,880] When I moved here in 2011 to start my business,
+- [00:05:18,880 - 00:05:21,040] it wasn't on my radar to get a mentor.
+- [00:05:21,040 - 00:05:22,320] Call me just super prideful,
+- [00:05:22,320 - 00:05:23,480] but I was like, I can do this.
+- [00:05:23,480 - 00:05:24,820] I had just left.
+- [00:05:24,820 - 00:05:26,340] I left my parents' company.
+- [00:05:26,340 - 00:05:28,060] Within a week, I ran into
+- [00:05:28,060 - 00:05:29,780] who would be my mentor accidentally.
+- [00:05:29,780 - 00:05:31,360] Met him, heard his story, and I'm like,
+- [00:05:31,360 - 00:05:33,300] man, I think this guy knows how to run business.
+- [00:05:33,300 - 00:05:35,340] And so he agreed to be my mentor.
+- [00:05:35,340 - 00:05:38,219] And yeah, it really proved incredibly valuable.
+- [00:05:38,219 - 00:05:39,860] And now I try to surround myself
+- [00:05:39,860 - 00:05:41,980] with as many mentors as I possibly can.
+- [00:05:41,980 - 00:05:44,580] So someone has an idea, they're launching a business.
+- [00:05:44,580 - 00:05:46,200] How do they generate awareness for that?
+- [00:05:46,200 - 00:05:47,500] Maybe if they don't have capital
+- [00:05:47,500 - 00:05:48,940] and they just want to get a proof of concept
+- [00:05:48,940 - 00:05:50,159] that people actually want this.
+- [00:05:50,159 - 00:05:51,460] Networking is everything.
+- [00:05:51,460 - 00:05:53,880] Something I actually learned way too late in the game,
+- [00:05:53,880 - 00:05:55,340] but now I'm dedicated to it.
+- [00:05:55,340 - 00:05:57,580] I am fine doing three to
+- [00:05:57,580 - 00:05:59,820] four days a week and just networking.
+- [00:05:59,820 - 00:06:02,480] It fights against my internal hustle mentality,
+- [00:06:02,480 - 00:06:03,440] but it's invaluable.
+- [00:06:03,440 - 00:06:04,540] Most of getting business going
+- [00:06:04,540 - 00:06:05,640] is all in who you know.
+- [00:06:05,640 - 00:06:07,480] So you really need to be known.
+- [00:06:07,480 - 00:06:09,800] And one of the businesses you own is a restaurant.
+- [00:06:09,800 - 00:06:11,259] How would you go about
+- [00:06:11,259 - 00:06:12,719] getting awareness in that local area
+- [00:06:12,719 - 00:06:13,789] and building like a drive for
+- [00:06:13,789 - 00:06:14,860] people to want to come there?
+- [00:06:14,860 - 00:06:18,180] We go out to everyone around that restaurant.
+- [00:06:18,180 - 00:06:20,380] We have flyers, we go to every apartment complex.
+- [00:06:20,380 - 00:06:22,260] We do everything we can to make sure
+- [00:06:22,260 - 00:06:23,680] that everybody in that general area
+- [00:06:23,680 - 00:06:24,520] is really aware.
+- [00:06:24,520 - 00:06:27,140] With a restaurant, it's very geographically centered.
+- [00:06:27,140 - 00:06:28,900] So you really need to understand
+- [00:06:28,900 - 00:06:31,340] that people don't really travel that far on the daily
+- [00:06:31,340 - 00:06:32,200] to get to a restaurant.
+- [00:06:32,200 - 00:06:33,640] So you kind of take a circumference
+- [00:06:33,640 - 00:06:34,920] around that particular restaurant,
+- [00:06:34,920 - 00:06:36,840] hit every door you can find.
+- [00:06:36,840 - 00:06:38,280] Marketing is one of those scenarios
+- [00:06:38,280 - 00:06:40,200] by which you've got to understand that marketing
+- [00:06:40,200 - 00:06:41,860] is really just to generate sales.
+- [00:06:41,860 - 00:06:42,740] And so if sales are not
+- [00:06:42,740 - 00:06:43,620] where you need them to be,
+- [00:06:43,620 - 00:06:45,100] that means your marketing plan is terrible.
+- [00:06:45,100 - 00:06:46,400] So throw it out, start over.
+- [00:06:46,400 - 00:06:47,710] The goal is to first identify
+- [00:06:47,710 - 00:06:49,020] who needs to hear about it.
+- [00:06:49,020 - 00:06:49,940] And then what you're going to
+- [00:06:49,940 - 00:06:50,860] do is you're going to create
+- [00:06:50,860 - 00:06:53,680] as many spaces as you can, both in print media,
+- [00:06:53,680 - 00:06:56,680] digital media, in-person conversations
+- [00:06:56,680 - 00:06:58,180] to where they can become aware
+- [00:06:58,180 - 00:07:00,560] that they are the perfect or ideal client.
+- [00:07:00,560 - 00:07:01,400] They just don't know it yet.
+- [00:07:01,400 - 00:07:02,560] What was the biggest challenge
+- [00:07:02,560 - 00:07:04,560] that you've ever faced as a business owner?
+- [00:07:04,560 - 00:07:06,340] And what did you implement to overcome that?
+- [00:07:06,340 - 00:07:08,760] Whether most entrepreneurs want to admit it or not,
+- [00:07:08,760 - 00:07:09,600] it's our pride.
+- [00:07:09,600 - 00:07:11,500] And so when you centralize everything,
+- [00:07:11,500 - 00:07:13,380] all the pressure to solve all the problems,
+- [00:07:13,380 - 00:07:14,480] manage all the crisis,
+- [00:07:14,480 - 00:07:17,340] you yourself are the biggest roadblock to success.
+- [00:07:17,340 - 00:07:18,880] And that was my biggest challenge.
+- [00:07:18,880 - 00:07:20,040] I take a lot of pride in
+- [00:07:20,040 - 00:07:21,200] what I do and how I do it.
+- [00:07:21,200 - 00:07:23,520] I also have a God-given ability
+- [00:07:23,520 - 00:07:25,440] to process very fast information.
+- [00:07:25,440 - 00:07:26,900] So for me, it just came naturally
+- [00:07:26,900 - 00:07:28,200] to solve problems on the fly.
+- [00:07:28,200 - 00:07:29,820] But what I figured out
+- [00:07:29,820 - 00:07:31,440] was that then everybody became quiet
+- [00:07:31,440 - 00:07:33,320] and dependent on me solving.
+- [00:07:33,320 - 00:07:34,299] I was the bottleneck.
+- [00:07:34,299 - 00:07:36,280] And so what I've discovered is in order to scale,
+- [00:07:36,280 - 00:07:38,099] I have to shut up and I have to listen
+- [00:07:38,099 - 00:07:40,039] and I have to give permission for other people
+- [00:07:40,039 - 00:07:42,340] to own the solutions to those problems
+- [00:07:42,340 - 00:07:43,500] and not just do it myself.
+- [00:07:43,500 - 00:07:45,120] What was your secret to marketing
+- [00:07:45,120 - 00:07:46,919] throughout your career as a business owner,
+- [00:07:46,919 - 00:07:48,640] regardless of the industry of the business?
+- [00:07:48,640 - 00:07:51,039] Secret to marketing to me is knowing
+- [00:07:51,039 - 00:07:53,260] and staying laser focused on the product
+- [00:07:53,260 - 00:07:54,560] or problem that you're trying to solve.
+- [00:07:54,560 - 00:07:57,240] And so when you define that really, really well,
+- [00:07:57,240 - 00:07:58,389] what we do is we create
+- [00:07:58,389 - 00:07:59,539] a purpose statement for our company.
+- [00:07:59,539 - 00:08:02,659] And that purpose statement is really designed
+- [00:08:02,659 - 00:08:05,219] to define what exactly is the story
+- [00:08:05,219 - 00:08:06,159] that we're trying to tell.
+- [00:08:06,159 - 00:08:07,840] And by the way, that story needs to change
+- [00:08:07,840 - 00:08:08,800] as your market changes.
+- [00:08:08,800 - 00:08:10,760] But if you know that story inside and out,
+- [00:08:10,760 - 00:08:13,900] now you can identify who exactly is the best person
+- [00:08:13,900 - 00:08:15,480] that you need to go and tell that story to.
+- [00:08:15,480 - 00:08:17,360] And that is the key to marketing
+- [00:08:17,360 - 00:08:20,120] is stop worrying about your websites, even content.
+- [00:08:20,120 - 00:08:21,680] Don't worry about any of that
+- [00:08:21,680 - 00:08:23,240] until your story is nailed down
+- [00:08:23,260 - 00:08:25,340] and that story has to be bought in
+- [00:08:25,340 - 00:08:26,980] with everyone else in the organization.
+- [00:08:26,980 - 00:08:29,080] They have to fully buy into that purpose
+- [00:08:29,080 - 00:08:30,860] in order for you to be successful marketing
+- [00:08:30,860 - 00:08:32,419] those products and services that you have.
+- [00:08:32,419 - 00:08:33,840] Thank you, Chris, so much for having us out
+- [00:08:33,840 - 00:08:35,020] to Wilco Workspaces today.
+- [00:08:35,020 - 00:08:36,140] Where can everybody find you at?
+- [00:08:36,140 - 00:08:38,760] They can find us at DCXcommunity.com.
+- [00:08:38,760 - 00:08:40,159] Awesome, and if you enjoyed today's video,
+- [00:08:40,159 - 00:08:42,100] click this video right here to learn the three steps
+- [00:08:42,100 - 00:08:43,400] that you can take to get
+- [00:08:43,400 - 00:08:44,700] everything you want out of life.
