@@ -1,0 +1,246 @@
+# Transcript
+
+Source: lazyearn/school-of-hard-knocks/entrepreneurship/170 - How to build self confidence [MRIJjEbJS7s].mkv
+
+- [00:00:00,000 - 00:00:01,520] If you struggle with a lack
+- [00:00:01,520 - 00:00:03,040] of self-confidence, you need to hear this.
+- [00:00:03,380 - 00:00:06,220] I feel like everyone at some point in their lives do
+- [00:00:06,220 - 00:00:09,060] deal with some sort of lack of self-confidence or lack of self-esteem,
+- [00:00:09,540 - 00:00:11,780] and that can cause a big hindrance on
+- [00:00:11,780 - 00:00:14,020] not only your relationship with your friends, but partners,
+- [00:00:14,180 - 00:00:15,740] as well as just networking
+- [00:00:15,740 - 00:00:17,300] in general if you're not self-confident.
+- [00:00:17,580 - 00:00:20,920] Self-confidence does come naturally to some, but for most people,
+- [00:00:20,920 - 00:00:24,260] it has to be attained and developed like any other skill.
+- [00:00:24,680 - 00:00:26,100] And before you can actually
+- [00:00:26,100 - 00:00:27,520] start working on your actual confidence,
+- [00:00:27,520 - 00:00:30,340] you have to find out where the root of the problem is
+- [00:00:30,340 - 00:00:33,160] and find out where the lack of self-confidence is actually coming from.
+- [00:00:33,460 - 00:00:34,120] Hold on, hold on, hold on.
+- [00:00:34,560 - 00:00:35,980] Before we hop into all the juicy stuff
+- [00:00:35,980 - 00:00:37,400] and everything we're going to talk about today,
+- [00:00:37,700 - 00:00:40,460] please, if you can, leave us a like and subscribe.
+- [00:00:40,600 - 00:00:41,519] We'd really appreciate it.
+- [00:00:41,780 - 00:00:43,500] Some great content coming in the future.
+- [00:00:43,860 - 00:00:44,540] Let's get into it.
+- [00:00:44,820 - 00:00:48,239] So what actually leads to a lack of self-confidence?
+- [00:00:48,840 - 00:00:50,640] And before we actually get into these points,
+- [00:00:50,920 - 00:00:53,160] something that you need to do while we're having this conversation
+- [00:00:53,160 - 00:00:55,400] is you really need to look at yourself in the mirror
+- [00:00:55,720 - 00:00:56,610] and really find out what
+- [00:00:56,610 - 00:00:57,500] the root of the problem is.
+- [00:00:57,800 - 00:00:59,930] And you need to really open up your heart
+- [00:00:59,930 - 00:01:02,060] and your mind and be open-minded to be like,
+- [00:01:02,120 - 00:01:03,790] okay, what's actually going on and
+- [00:01:03,790 - 00:01:05,459] why am I feeling this way, right?
+- [00:01:05,640 - 00:01:07,520] So at the beginning, it's going to be surface level.
+- [00:01:07,720 - 00:01:09,780] And these are things like your appearance.
+- [00:01:09,780 - 00:01:11,570] Are you comfortable with your own skin, the
+- [00:01:11,570 - 00:01:13,360] way you look, your haircuts, stuff like that?
+- [00:01:13,800 - 00:01:15,100] Two, your physical shape.
+- [00:01:15,480 - 00:01:17,530] Like, are you comfortable with, you know, maybe you
+- [00:01:17,530 - 00:01:19,580] want to lose weight, maybe you want to gain weight.
+- [00:01:19,840 - 00:01:21,370] Maybe you feel like you have skinny
+- [00:01:21,370 - 00:01:22,900] arms and you want to have bigger arms.
+- [00:01:22,900 - 00:01:25,180] That was actually an insecurity that I
+- [00:01:25,180 - 00:01:27,460] had growing up was I was always super,
+- [00:01:27,460 - 00:01:29,439] skinny, had a fast metabolism and was never
+- [00:01:29,439 - 00:01:31,419] really able to put on the weight, right?
+- [00:01:32,020 - 00:01:33,599] But I'll be talking about how
+- [00:01:33,599 - 00:01:35,179] I conquered that later on the video.
+- [00:01:35,440 - 00:01:38,980] Next one, this is a little bit deeper, is what
+- [00:01:38,980 - 00:01:42,520] are your peers and your family environment saying and influencing you?
+- [00:01:42,759 - 00:01:45,199] Maybe you're going down a different path than your
+- [00:01:45,199 - 00:01:47,639] siblings or family members expect you to go to,
+- [00:01:47,839 - 00:01:50,119] or you want to pursue a different dream that's
+- [00:01:50,119 - 00:01:52,399] different than what they had originally envisioned for you.
+- [00:01:52,660 - 00:01:55,060] And that is playing a role on your mental.
+- [00:01:55,479 - 00:01:57,440] Or maybe your friends aren't really being supportive of you.
+- [00:01:57,559 - 00:01:58,889] And your dreams and goals and ambitions
+- [00:01:58,889 - 00:02:00,220] and just what you're doing right now.
+- [00:02:00,279 - 00:02:01,000] That's another thing.
+- [00:02:01,119 - 00:02:04,099] But now to get into really a little bit deeper stuff
+- [00:02:04,099 - 00:02:07,080] and stuff that can really fuck up people's mental for being honest.
+- [00:02:07,360 - 00:02:10,419] And that's stuff like your bad breakup
+- [00:02:10,419 - 00:02:13,480] or bad academic and work performance, poor finances.
+- [00:02:13,600 - 00:02:15,100] Maybe you're living paycheck to paycheck.
+- [00:02:15,359 - 00:02:16,559] You're not sure how you're going to
+- [00:02:16,559 - 00:02:17,760] put food on the table next week.
+- [00:02:18,200 - 00:02:18,880] That's a big one.
+- [00:02:19,180 - 00:02:22,240] Your overall mindset and positive thinking.
+- [00:02:22,340 - 00:02:23,600] Are you practicing gratitude?
+- [00:02:23,900 - 00:02:24,579] Things like that.
+- [00:02:24,740 - 00:02:25,980] So everything we just talked about
+- [00:02:25,980 - 00:02:27,220] and listed off are all things.
+- [00:02:27,220 - 00:02:30,040] That can lead to a lack of self-confidence.
+- [00:02:30,100 - 00:02:32,810] But the things right now that we're going to talk about are some of
+- [00:02:32,810 - 00:02:35,520] the signs where you can kind of point out in your day to day.
+- [00:02:35,520 - 00:02:37,720] Like, hey, maybe I'm lacking some self-confidence here.
+- [00:02:37,720 - 00:02:38,020] Right.
+- [00:02:38,040 - 00:02:39,220] And one of those is
+- [00:02:39,220 - 00:02:40,400] thinking people are better than you.
+- [00:02:40,480 - 00:02:41,560] And that's a big one.
+- [00:02:41,740 - 00:02:46,610] And something that I struggled with growing up as well is not really being
+- [00:02:46,610 - 00:02:51,480] confident in your own abilities to accomplish a job, task, subject, whatever it may be.
+- [00:02:51,680 - 00:02:52,960] Because you think, oh, I'll
+- [00:02:52,960 - 00:02:54,240] never be as good as Janet.
+- [00:02:54,320 - 00:02:55,750] I'll never be as good as James
+- [00:02:55,750 - 00:02:57,180] because, you know, there's so much more.
+- [00:02:57,220 - 00:02:58,060] I'm not going to be as good as my parents.
+- [00:02:58,060 - 00:02:59,020] I'm not going to be as good as my parents.
+- [00:02:59,020 - 00:02:59,400] I'm not going to be as good as my parents.
+- [00:02:59,400 - 00:03:00,400] And yes, you know what?
+- [00:03:00,480 - 00:03:01,810] Maybe they are better than you
+- [00:03:01,810 - 00:03:03,140] at the current time and place.
+- [00:03:03,380 - 00:03:04,750] But that doesn't mean that you
+- [00:03:04,750 - 00:03:06,120] cannot get to that same point.
+- [00:03:06,180 - 00:03:09,270] And the reason I say that is because everyone is capable of doing anything you
+- [00:03:09,270 - 00:03:12,360] want to do as long as you put the time in and the work in.
+- [00:03:12,600 - 00:03:14,400] So no one is truly better than you.
+- [00:03:14,500 - 00:03:15,960] You can really accomplish anything.
+- [00:03:16,280 - 00:03:18,680] Two is being too self-critical.
+- [00:03:18,860 - 00:03:20,220] There is a fine line with this.
+- [00:03:20,220 - 00:03:22,850] And the reason being is because when it
+- [00:03:22,850 - 00:03:25,480] comes to self-improvement, being critical of yourself is important.
+- [00:03:25,740 - 00:03:26,760] But to a certain degree.
+- [00:03:27,220 - 00:03:30,039] Analyzing what you're doing wrong throughout the day or what
+- [00:03:30,039 - 00:03:32,859] you're doing wrong on an activity is a good practice.
+- [00:03:33,420 - 00:03:36,550] But being self-critical to the point where you are
+- [00:03:36,550 - 00:03:39,680] just critical, like you're just being in critical condition.
+- [00:03:39,800 - 00:03:40,900] You can't move forward because
+- [00:03:40,900 - 00:03:42,000] you're like, I'm not good enough.
+- [00:03:42,360 - 00:03:43,180] This isn't good enough.
+- [00:03:43,240 - 00:03:44,640] And it's just bullshit.
+- [00:03:44,980 - 00:03:47,380] Like you just have to realize that, hey,
+- [00:03:47,380 - 00:03:49,780] when you do something good enough is perfect.
+- [00:03:49,780 - 00:03:53,280] For 99% of things, good enough is perfect.
+- [00:03:53,440 - 00:03:54,770] Number three, we have not
+- [00:03:54,770 - 00:03:56,100] taking note of your accomplishments.
+- [00:03:56,100 - 00:03:57,680] And this is a big one.
+- [00:03:57,680 - 00:04:00,940] Like if you win a competition and maybe you do something really cool or
+- [00:04:00,940 - 00:04:04,200] you did something outstanding in the workplace, like you should be proud of that.
+- [00:04:04,240 - 00:04:06,920] You really should be, you know, own up to it, you know,
+- [00:04:06,920 - 00:04:09,600] treat yourself to something nice because what you did is actually awesome.
+- [00:04:09,600 - 00:04:16,390] But if you're not actually taking note of that and realizing that, hey, I did something good, like you really do need to practice some gratitude and
+- [00:04:16,390 - 00:04:23,180] be thankful for, hey, not only did I do a great job, other people are appreciating that I did a good job and I actually won something.
+- [00:04:23,380 - 00:04:24,500] Next one's a big one.
+- [00:04:24,580 - 00:04:25,900] And it's really just not.
+- [00:04:25,900 - 00:04:27,499] Not keeping up with your appearance,
+- [00:04:27,499 - 00:04:29,099] at least for the bare essentials.
+- [00:04:29,359 - 00:04:29,580] Right.
+- [00:04:29,979 - 00:04:39,589] And really from a guy's perspective, like just basic grooming, you know, like cutting your nails, wearing deodorant, you know, trying to smell a little bit good and trimming your beard,
+- [00:04:39,589 - 00:04:49,200] you know, getting a haircut every once in a while or whatever your hairstyle, you know, needs to at least, you know, look good and really just basic grooming, you know.
+- [00:04:49,200 - 00:04:52,540] And the reason being is because oftentimes if I was to go out and let's
+- [00:04:52,540 - 00:04:55,880] say, you know, maybe I haven't cut my nails or I forgot to put deodorant on.
+- [00:04:55,900 - 00:04:58,479] I don't feel comfortable in my own skin.
+- [00:04:58,840 - 00:05:01,420] So imagine like I give off a different
+- [00:05:01,420 - 00:05:04,000] energy and I don't come off nearly as confident.
+- [00:05:04,500 - 00:05:06,940] And it's really just something to consider is at least
+- [00:05:06,940 - 00:05:09,380] be doing the bare minimum to keep up with your appearance.
+- [00:05:09,700 - 00:05:12,020] And I feel like this one right
+- [00:05:12,020 - 00:05:14,340] here is a real hidden killer of self-confidence.
+- [00:05:14,340 - 00:05:16,009] And that is just not
+- [00:05:16,009 - 00:05:17,679] having plans for anything at all.
+- [00:05:18,159 - 00:05:21,919] And the reason I say this is because oftentimes when I talk to people
+- [00:05:21,919 - 00:05:25,679] and they don't have confidence is because they feel like they have no control.
+- [00:05:25,900 - 00:05:35,090] Over their lives and really the I think the best way to go about really fixing this is just by setting up a goal or dream finding something that
+- [00:05:35,090 - 00:05:44,280] you really want to work to and then create a plan and an accomplishable steps to actually achieve that because you really need to feel in control of your life.
+- [00:05:44,739 - 00:05:46,780] If you want to have a sense of confidence.
+- [00:05:46,960 - 00:05:49,300] Now that we've talked about, you know, what are some of the
+- [00:05:49,300 - 00:05:51,640] things that lead to a lack of self-confidence and some of the signs?
+- [00:05:51,640 - 00:05:53,280] Well, how do you actually bounce back?
+- [00:05:53,919 - 00:05:54,899] And so one of the
+- [00:05:54,899 - 00:05:55,880] first things that you can do.
+- [00:05:55,900 - 00:06:01,900] Is to stop comparing yourself to others like just cut it out and really just focus on you and
+- [00:06:01,900 - 00:06:07,900] the people that actually support you and because when you compare yourself to others people everyone has their own destination.
+- [00:06:07,900 - 00:06:09,150] Everyone has their own timeline
+- [00:06:09,150 - 00:06:10,400] and everyone is so different.
+- [00:06:10,400 - 00:06:12,900] Your time is coming and you really I think
+- [00:06:12,900 - 00:06:15,400] I'm social media is a big contributor to this.
+- [00:06:15,400 - 00:06:20,400] Like if you feel like people's, you know, maybe some of their tweets are bringing you down or
+- [00:06:20,400 - 00:06:25,400] like you keep comparing yourself to the Kardashians, whatever just hit that on a follow button, you know, stop.
+- [00:06:25,400 - 00:06:25,900] Stop.
+- [00:06:25,900 - 00:06:28,400] Stop putting that image in that picture in your mind.
+- [00:06:28,400 - 00:06:30,799] Just cut it out and just focus on you.
+- [00:06:30,799 - 00:06:34,449] The next thing is really you have to understand that
+- [00:06:34,449 - 00:06:38,099] you can only control yourself your actions and your decisions.
+- [00:06:38,599 - 00:06:40,899] The people around you and the events that
+- [00:06:40,899 - 00:06:43,200] happen to you are out of your control.
+- [00:06:43,200 - 00:06:45,500] You cannot control your brother's decisions.
+- [00:06:45,500 - 00:06:47,099] You can't control your roommates decisions.
+- [00:06:47,099 - 00:06:49,899] You can control your family's decisions and you sure as hell
+- [00:06:49,899 - 00:06:52,700] can't control the decision of some random guy on the street, right?
+- [00:06:53,099 - 00:06:55,400] All you can focus on and control is what?
+- [00:06:55,400 - 00:06:56,950] Your decisions are so you
+- [00:06:56,950 - 00:06:58,500] really just need to encompass that.
+- [00:06:58,500 - 00:07:01,700] Hey, all I can dictate is my personal life.
+- [00:07:01,700 - 00:07:04,200] So I'm going to make the decisions that work out best for
+- [00:07:04,200 - 00:07:06,700] me and it's going to make me a better version of me.
+- [00:07:06,700 - 00:07:15,800] This third one is a big one and it's really on touching on a point that we talked about earlier and that's just creating an environment of support and positivity
+- [00:07:15,800 - 00:07:24,900] for yourself because this is such a big role, especially on your mindset and just mental in general is because if you're around people who do nothing but bring you down.
+- [00:07:24,900 - 00:07:29,550] Bring you down call it, you know, your little dream or the little thing that you're trying
+- [00:07:29,550 - 00:07:34,200] to accomplish or they're not supportive of you and uplifting you and encouraging you to keep going.
+- [00:07:34,400 - 00:07:35,500] You need to cut them off.
+- [00:07:35,900 - 00:07:36,799] That's family.
+- [00:07:37,000 - 00:07:38,000] That's friends.
+- [00:07:38,099 - 00:07:39,700] That's just random people around you.
+- [00:07:39,799 - 00:07:41,099] You just need to get out of there.
+- [00:07:41,099 - 00:07:42,599] Like seriously, you need to cut them off.
+- [00:07:42,599 - 00:07:44,149] Even if they're old friends, you need
+- [00:07:44,149 - 00:07:45,700] to cut them off because trust me.
+- [00:07:45,900 - 00:07:50,300] There's so many people in the world that are going to that would be willing to
+- [00:07:50,300 - 00:07:54,700] support you and be positive uplift you and even give you ideas that better what you're doing.
+- [00:07:54,900 - 00:07:56,700] That there's no time for people
+- [00:07:56,700 - 00:07:58,500] that are just going to be toxic.
+- [00:07:58,599 - 00:07:59,500] Just cut them off.
+- [00:07:59,599 - 00:08:01,949] So now that we're on the balance back, how
+- [00:08:01,949 - 00:08:04,299] do we establish general self-confidence in everything that we do?
+- [00:08:04,599 - 00:08:07,949] So after you've had that conversation with yourself and you've recognized the flaws and
+- [00:08:07,949 - 00:08:11,299] the things you actually want to improve on it's time to create a plan.
+- [00:08:11,400 - 00:08:12,799] And that's really the step one of part.
+- [00:08:12,799 - 00:08:15,399] All of this is creating a plan to improve
+- [00:08:15,399 - 00:08:18,000] on the flaws that you have within your life.
+- [00:08:18,299 - 00:08:21,499] So you really want to do this by setting up a bigger
+- [00:08:21,499 - 00:08:24,700] vision and setting up the actual end result that you want to achieve.
+- [00:08:24,900 - 00:08:29,049] Whether that's a certain financial, you know, goal that you want to get to or you
+- [00:08:29,049 - 00:08:33,199] want to look a certain way appearance-wise, you have a fitness goal, whatever it may be.
+- [00:08:33,199 - 00:08:36,000] Right after you set up the final destination.
+- [00:08:36,000 - 00:08:40,700] It's time to set achievable and bite-sized goals that you can set along the way
+- [00:08:40,700 - 00:08:45,400] and actually track your progress and see the hey, I'm going on the right way.
+- [00:08:45,600 - 00:08:47,600] You know, I'm doing I'm doing the things that I need to
+- [00:08:47,600 - 00:08:49,600] be doing in order to get to where I want to be.
+- [00:08:49,600 - 00:08:50,000] Right?
+- [00:08:50,400 - 00:08:52,500] But something you have to understand throughout all of
+- [00:08:52,500 - 00:08:54,600] this is that even though you have a plan.
+- [00:08:54,900 - 00:08:56,250] And of where you want
+- [00:08:56,250 - 00:08:57,600] to be, it's okay to fail.
+- [00:08:57,600 - 00:09:01,199] Like you are going to fail throughout these processes.
+- [00:09:01,199 - 00:09:03,400] Why you're learning to be the best version of yourself.
+- [00:09:03,600 - 00:09:05,900] Like it is okay to fail.
+- [00:09:06,100 - 00:09:08,100] And that's just one of the things you
+- [00:09:08,100 - 00:09:10,100] have to understand it and really adopt within yourself.
+- [00:09:10,199 - 00:09:12,399] It's really just having a growth mindset that
+- [00:09:12,399 - 00:09:14,600] like, hey, there's going to be ups and downs.
+- [00:09:14,699 - 00:09:17,849] But at the end of this, I'm going to be the best
+- [00:09:17,849 - 00:09:21,000] version of myself and I'm going to be unrecognizable to the old me.
+- [00:09:21,100 - 00:09:22,950] Another thing that you really have to understand when
+- [00:09:22,950 - 00:09:24,800] it comes to confidence is that a lot of it.
+- [00:09:24,900 - 00:09:27,100] Is really through experience.
+- [00:09:27,500 - 00:09:29,599] So if I was a set up, you
+- [00:09:29,599 - 00:09:31,699] know sign up for a sales job tomorrow, right?
+- [00:09:32,100 - 00:09:35,700] If I was going to be selling decks and patios that first appointment
+- [00:09:35,700 - 00:09:39,300] that I go to even though I've gone through the training and everything.
+- [00:09:39,400 - 00:09:41,600] I'm not going to be super confident.
+- [00:09:41,600 - 00:09:45,950] I mean, yeah, maybe I believe in the product and I believe in myself, but
+- [00:09:45,950 - 00:09:50,300] I will be nowhere near as confident as I would be on my 500th appointment.
+- [00:09:50,300 - 00:09:52,450] And the reason being is just because experience
+- [00:09:52,450 - 00:09:54,600] is a big factor when it comes to confidence.
+- [00:09:54,900 - 00:09:57,850] So it's perfectly normal to be uncomfortable
+- [00:09:57,850 - 00:10:00,800] and nervous when you're trying something new.
+- [00:10:00,900 - 00:10:07,900] But just recognize the hey, I will never get to where I want to be unless I actually try to try
+- [00:10:07,900 - 00:10:14,900] things succeed at some and also fail at some but ultimately experience does have a big factor when it comes to self-confidence.
+- [00:10:15,000 - 00:10:17,300] So to sum up this video very shortly.
+- [00:10:17,400 - 00:10:21,049] It's really two things is first is to identify the problem
+- [00:10:21,049 - 00:10:24,699] and see where the lack of confidence is actually really coming from.
+- [00:10:24,900 - 00:10:33,299] And the second one is to assess the situation cut off anything that's actually, you know, the toxic friends the family, whatever it may be get them out and
+- [00:10:33,299 - 00:10:41,699] then create an actionable plan to actually get to where you want to be in terms of your self-confidence and really what you want to be and look like.
