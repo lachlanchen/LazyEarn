@@ -1,0 +1,96 @@
+# Transcript
+
+Source: lazyearn/school-of-hard-knocks/entrepreneurship/153 - Exclusive Interview with Former Nike President： Life Lessons and Advice for Success [1NvSd_heJxE].webm
+
+- [00:00:00,000 - 00:00:02,260] If you were to go back to when you were in either high school
+- [00:00:02,260 - 00:00:04,520] or college, what is the best piece of advice you tell your younger self?
+- [00:00:04,600 - 00:00:08,570] I'd probably be a little bolder than I was, and I'd probably be a little bit more
+- [00:00:08,570 - 00:00:12,540] confident in who I was to make certain that I always remain authentic to who I was.
+- [00:00:12,600 - 00:00:15,720] I guess for you at a younger age, like you said being bolder, what would be the
+- [00:00:15,720 - 00:00:18,840] importance of, I guess, taking more risks when you're younger that that may have had on your life?
+- [00:00:19,100 - 00:00:23,530] I took risks, don't get me wrong, but I think when you're young and you don't have all the anchors that
+- [00:00:23,530 - 00:00:27,960] you get over time, and I don't mean anchors in a bad way, but you have responsibilities the older you get.
+- [00:00:27,960 - 00:00:31,900] When you're young is when you should be trying as many different things as you can try, and by
+- [00:00:31,900 - 00:00:35,840] the way, do it in a very bold, audacious way, and to have the confidence to go do it.
+- [00:00:35,920 - 00:00:37,810] I love that. And just a few more questions, but
+- [00:00:37,810 - 00:00:39,700] what industry did you decide to pursue a career in?
+- [00:00:39,720 - 00:00:41,700] I sold sneakers and t-shirts for a living.
+- [00:00:41,780 - 00:00:43,300] So did you own your own company?
+- [00:00:43,500 - 00:00:44,220] No, I worked for Nike.
+- [00:00:44,300 - 00:00:45,160] And what were you doing exactly?
+- [00:00:45,320 - 00:00:47,870] I did a little bit of everything from sales to
+- [00:00:47,870 - 00:00:50,420] retail to product. I was ultimately the president of the company.
+- [00:00:50,540 - 00:00:50,960] No way.
+- [00:00:51,140 - 00:00:51,400] Way.
+- [00:00:51,560 - 00:00:52,540] You were the president of Nike.
+- [00:00:52,620 - 00:00:52,900] Yeah.
+- [00:00:53,160 - 00:00:54,400] Oh my goodness, that's amazing.
+- [00:00:54,600 - 00:00:56,040] That's why I saw the white whites there.
+- [00:00:56,200 - 00:00:56,340] Yeah.
+- [00:00:56,340 - 00:00:57,740] Do I know Phil Knight?
+- [00:00:57,960 - 00:00:59,120] Yeah, I know him real well.
+- [00:00:59,180 - 00:01:01,810] That's amazing. So as someone who's been an entrepreneur, what is
+- [00:01:01,810 - 00:01:04,440] your best piece of advice to someone starting a business in 2022?
+- [00:01:04,739 - 00:01:08,729] Super strong focus on the consumer. Who are you trying to serve, and what type of problems are
+- [00:01:08,729 - 00:01:12,720] you trying to solve for those people, or what type of products are you trying to create for them?
+- [00:01:12,760 - 00:01:15,060] But I think it all starts with having a really
+- [00:01:15,060 - 00:01:17,360] super strong focus on the consumer you're trying to serve.
+- [00:01:17,360 - 00:01:22,020] I guess another question would be, from what you've seen throughout your career, for younger people today especially, whether it's a
+- [00:01:22,020 - 00:01:26,680] certain skill set or attribute for someone to possess when coming out of school or going out into the real world,
+- [00:01:26,780 - 00:01:27,940] how can someone become financially successful?
+- [00:01:27,960 - 00:01:28,960] How can someone become financially free in 2022?
+- [00:01:29,339 - 00:01:32,189] First of all, here's what I would say. I'd say chase your dreams, get
+- [00:01:32,189 - 00:01:35,039] involved with something that you're passionate about, and then try to solve a problem.
+- [00:01:35,220 - 00:01:39,239] And remain curious, and if you do that, and you focus on a consumer, I think ultimately you're
+- [00:01:39,239 - 00:01:43,259] going to find something that works that's going to help you find that financial stability that you desire.
+- [00:01:43,440 - 00:01:48,130] And just two last questions. So for someone who's been a president and has overseen a company like
+- [00:01:48,130 - 00:01:52,820] Nike, what have you seen throughout Nike that's really enabled them to really grow and scale their brand?
+- [00:01:52,820 - 00:01:55,320] I guess, what is your advice to someone trying to scale
+- [00:01:55,320 - 00:01:57,820] and grow their brand and build a business into a renowned company?
+- [00:01:57,960 - 00:02:00,759] I think what great companies do, not just Nike, but
+- [00:02:00,759 - 00:02:03,559] great companies, it comes back to what I've already said.
+- [00:02:03,660 - 00:02:06,009] It's the consumer, in the case of Nike, it
+- [00:02:06,009 - 00:02:08,359] was athletes. We served athletes. We listened to those athletes.
+- [00:02:08,680 - 00:02:11,580] And the insights that they gave us, we translated
+- [00:02:11,580 - 00:02:14,480] into innovative product that people coveted and desired and wanted.
+- [00:02:14,740 - 00:02:17,370] And we told really emotional, cool stories that connected
+- [00:02:17,370 - 00:02:20,000] the consumer to the brand and to those products.
+- [00:02:20,160 - 00:02:22,509] And so I guess that is super sharp focus
+- [00:02:22,509 - 00:02:24,859] on the consumer. That then translates into a great product.
+- [00:02:24,980 - 00:02:26,440] And then you've got to tell emotional stories.
+- [00:02:26,440 - 00:02:27,620] I love that. I love that.
+- [00:02:27,960 - 00:02:29,690] It's real simple and logical.
+- [00:02:29,690 - 00:02:31,420] I think sometimes we overcomplicate things.
+- [00:02:31,600 - 00:02:32,790] And this is a fun one we've been
+- [00:02:32,790 - 00:02:33,980] asking people, but I'm curious to get your answer.
+- [00:02:34,100 - 00:02:36,980] But if you had to start from zero and you had one year to
+- [00:02:36,980 - 00:02:39,860] make a million dollars and your life depended on it, what would you do?
+- [00:02:39,900 - 00:02:42,320] A million dollars? Open a bar. No, I don't know.
+- [00:02:42,480 - 00:02:45,380] Geez, that's a tough one. Life depended on it.
+- [00:02:45,460 - 00:02:46,480] A GoFundMe page?
+- [00:02:46,580 - 00:02:48,860] I would probably do that. I would definitely, hey,
+- [00:02:48,860 - 00:02:51,140] my life depends on this. Help save me. How's that?
+- [00:02:51,140 - 00:02:53,740] And with this one then, I guess, what has been the
+- [00:02:53,740 - 00:02:56,340] worst and the best financial decision that you've made throughout your lifetime?
+- [00:02:56,440 - 00:02:57,620] Best was, I had a plan.
+- [00:02:57,620 - 00:02:59,150] When I started making enough money where
+- [00:02:59,150 - 00:03:00,680] I actually, I had a plan in place.
+- [00:03:00,800 - 00:03:02,080] I set goals out for myself
+- [00:03:02,080 - 00:03:03,360] and I stuck with that plan.
+- [00:03:03,460 - 00:03:05,060] So that's one of the things I would
+- [00:03:05,060 - 00:03:06,660] say every young person is have a plan.
+- [00:03:06,780 - 00:03:08,190] And I'd save 10% of my
+- [00:03:08,190 - 00:03:09,600] income. There's stuff that you, it works.
+- [00:03:09,800 - 00:03:10,400] That's what I'd say.
+- [00:03:10,580 - 00:03:12,080] Worst, when you listen to someone tell
+- [00:03:12,080 - 00:03:13,580] you, hey, there's this can't miss investment.
+- [00:03:13,660 - 00:03:15,010] I've had a few of those
+- [00:03:15,010 - 00:03:16,360] and I've missed almost every time.
+- [00:03:16,440 - 00:03:17,710] I think if there's a can't
+- [00:03:17,710 - 00:03:18,980] miss, it's probably because it's not true.
+- [00:03:19,120 - 00:03:20,980] I made some, probably some silly
+- [00:03:20,980 - 00:03:22,840] bets on some quote, can't miss investments.
+- [00:03:23,120 - 00:03:24,230] And that's when you get off
+- [00:03:24,230 - 00:03:25,340] track. Stay focused on your plan.
+- [00:03:25,440 - 00:03:26,360] Thank you so much for your time.
+- [00:03:26,360 - 00:03:26,560] Appreciate it.
