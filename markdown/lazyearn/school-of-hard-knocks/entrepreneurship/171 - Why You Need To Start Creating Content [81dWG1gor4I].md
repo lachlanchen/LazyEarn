@@ -1,0 +1,386 @@
+# Transcript
+
+Source: lazyearn/school-of-hard-knocks/entrepreneurship/171 - Why You Need To Start Creating Content [81dWG1gor4I].webm
+
+- [00:00:00,000 - 00:00:02,920] The creator economy as it stands now is worth
+- [00:00:02,920 - 00:00:05,840] over $100 billion and is one of the fastest growing
+- [00:00:05,840 - 00:00:08,610] and biggest booming economies of the 21st
+- [00:00:08,610 - 00:00:11,380] century. Investors are currently pouring in millions of
+- [00:00:11,380 - 00:00:13,320] dollars to the creator economy because of
+- [00:00:13,320 - 00:00:15,260] the need of fulfillment for content for companies
+- [00:00:15,260 - 00:00:18,060] and brands to execute quality and consistent
+- [00:00:18,060 - 00:00:20,860] content. Currently as it stands, there are an
+- [00:00:20,860 - 00:00:23,570] estimated over 50 million content creators who
+- [00:00:23,570 - 00:00:26,280] create content for a full-time job. The recent
+- [00:00:26,280 - 00:00:28,910] rapid growth of content monetization is a big
+- [00:00:28,910 - 00:00:31,540] reason why so many people are becoming content
+- [00:00:31,540 - 00:00:34,150] creators and the trends are showing that as time
+- [00:00:34,150 - 00:00:36,760] goes on, the creator economy is going to keep
+- [00:00:36,760 - 00:00:39,480] growing at a very fast rate due to the
+- [00:00:39,480 - 00:00:42,200] multitude of ways to monetize your content on platforms
+- [00:00:42,200 - 00:00:44,690] and the different ways to do so. A big
+- [00:00:44,690 - 00:00:47,180] reason why content creators are needed so much now in
+- [00:00:47,180 - 00:00:49,650] today's world at companies and brands is because
+- [00:00:49,650 - 00:00:52,120] as we all know, everything is going digital and
+- [00:00:52,120 - 00:00:54,150] everything is on demand now. Because
+- [00:00:54,150 - 00:00:56,180] of this, ad clutter is a prominent
+- [00:00:56,180 - 00:00:56,220] problem that is causing a lot of people to
+- [00:00:56,220 - 00:00:56,260] lose their content. So, as a result, content monetization
+- [00:00:56,260 - 00:00:58,340] is a big problem that a lot of companies
+- [00:00:58,340 - 00:01:00,420] and brands are facing when trying to advertise or
+- [00:01:00,420 - 00:01:03,170] market their products in today's world. This has
+- [00:01:03,170 - 00:01:05,920] created a strong need for content creators and
+- [00:01:05,920 - 00:01:08,890] influencers to help these brands and companies break
+- [00:01:08,890 - 00:01:11,860] through that ad clutter to enable them to
+- [00:01:11,860 - 00:01:14,320] uniquely market and advertise products and
+- [00:01:14,320 - 00:01:16,780] services for them. Brands and companies also
+- [00:01:16,780 - 00:01:19,210] realize that you cannot go wrong
+- [00:01:19,210 - 00:01:21,640] investing in relationships and communities and therefore
+- [00:01:21,640 - 00:01:23,900] building a strong team of content creators
+- [00:01:23,900 - 00:01:26,160] and influencers to connect with the community
+- [00:01:26,160 - 00:01:28,630] and help the stock of their brand.
+- [00:01:28,630 - 00:01:31,100] Content creators in today's world make on average
+- [00:01:31,100 - 00:01:34,700] anywhere from $50,000 to $150,000. On average, however,
+- [00:01:34,700 - 00:01:38,300] there really is no limit to that number
+- [00:01:38,300 - 00:01:40,620] due to the vast ways that creators are
+- [00:01:40,620 - 00:01:42,940] able to monetize their content and make money through
+- [00:01:42,940 - 00:01:45,819] social media. For creators such as Charli D'Amelio
+- [00:01:45,819 - 00:01:48,699] who has over 100 million followers, she's netted in
+- [00:01:48,699 - 00:01:51,419] a short span of time and only a few years at
+- [00:01:51,419 - 00:01:54,140] 17 years old over $8 million. And a lot of people
+- [00:01:54,140 - 00:01:55,100] think that making that insane kind of money is
+- [00:01:55,100 - 00:01:56,060] worth it. But that's not the case. Content creators
+- [00:01:56,060 - 00:01:57,330] are able to monetize their content and make
+- [00:01:57,330 - 00:01:58,600] money through social media. They can even make
+- [00:01:58,600 - 00:02:02,610] money through social media. And that's true. You can
+- [00:02:02,610 - 00:02:06,620] still make a very sustainable and I like to
+- [00:02:06,620 - 00:02:09,060] say limitless living if you are strategic and
+- [00:02:09,060 - 00:02:11,500] do all the things necessary in order to maximize
+- [00:02:11,500 - 00:02:14,130] your monetization as a creator. While you have
+- [00:02:14,130 - 00:02:16,760] your Charli D'Amelio's and Addison Rae's who are
+- [00:02:16,760 - 00:02:18,980] making millions of dollars per year off of
+- [00:02:18,980 - 00:02:21,200] hundreds of millions of followers, there are also
+- [00:02:21,200 - 00:02:23,590] those followers with only a couple
+- [00:02:23,590 - 00:02:25,980] hundred thousand subscribers or people who follow
+- [00:02:26,060 - 00:02:28,580] them that actually do earn hundreds of thousands of
+- [00:02:28,580 - 00:02:31,100] dollars a year based off of either the products
+- [00:02:31,100 - 00:02:33,260] and services that they sell, the ways that
+- [00:02:33,260 - 00:02:35,420] they're able to monetize their content and other various
+- [00:02:35,420 - 00:02:37,760] ways. Now let's talk about some of these ways
+- [00:02:37,760 - 00:02:40,100] that people are monetizing their content in 2022. For
+- [00:02:40,100 - 00:02:42,470] starters, building a brand around a product
+- [00:02:42,470 - 00:02:44,840] or service, building a brand and eventually launching
+- [00:02:44,840 - 00:02:47,660] a store to potentially sell a product. And when
+- [00:02:47,660 - 00:02:50,480] I mean sell a product, it doesn't necessarily have
+- [00:02:50,480 - 00:02:52,690] to be a product. It could be a service, you
+- [00:02:52,690 - 00:02:54,900] could be a consultant, you can market your own digital
+- [00:02:56,060 - 00:02:59,150] business and drive clients through social media by
+- [00:02:59,150 - 00:03:02,240] making content about running ads on a particular
+- [00:03:02,240 - 00:03:04,400] product or service. You can start an account
+- [00:03:04,400 - 00:03:06,560] just around a product, whether it's a t-shirts,
+- [00:03:06,560 - 00:03:09,530] whether it's shoes, whether it's a trending
+- [00:03:09,530 - 00:03:12,500] e-commerce products like lamps, like LED lights,
+- [00:03:12,500 - 00:03:15,530] there are really no limits on to the types
+- [00:03:15,530 - 00:03:18,560] of products that you can make a breakthrough and
+- [00:03:18,560 - 00:03:20,660] produce viral content around and scale it
+- [00:03:20,660 - 00:03:22,760] by marketing it to an audience. Selling products
+- [00:03:22,760 - 00:03:24,380] and services is a great way.
+- [00:03:24,380 - 00:03:26,000] And you can either start your account,
+- [00:03:26,060 - 00:03:29,090] around that product or service, or you can
+- [00:03:29,090 - 00:03:32,120] wait until you build a sustainable following with maybe
+- [00:03:32,120 - 00:03:34,190] it's 10,000 or a hundred thousand. You'll know
+- [00:03:34,190 - 00:03:36,260] when you have that community to when you can
+- [00:03:36,260 - 00:03:38,630] launch that product. And eventually you can
+- [00:03:38,630 - 00:03:41,000] drive sales through that community and that following
+- [00:03:41,000 - 00:03:43,250] that you built over time. One of the most
+- [00:03:43,250 - 00:03:45,500] common ways that we see this is when big influencers
+- [00:03:45,500 - 00:03:47,660] start selling merchandise built around them
+- [00:03:47,660 - 00:03:49,820] because the community and the relationships
+- [00:03:49,820 - 00:03:51,980] that they built with their followers will end
+- [00:03:51,980 - 00:03:54,140] up translating to them purchasing a product that
+- [00:03:54,140 - 00:03:55,940] they're selling to represent that.
+- [00:03:56,060 - 00:03:58,670] Another great example of this is
+- [00:03:58,670 - 00:04:01,280] finding those trending products and often controversial,
+- [00:04:01,280 - 00:04:03,380] that a lot of people are very passionate about
+- [00:04:03,380 - 00:04:05,480] tend to do very well along with selling products
+- [00:04:05,480 - 00:04:07,790] and services. A lot of these social media platforms
+- [00:04:07,790 - 00:04:10,100] are paying big money to creators. We've seen it
+- [00:04:10,100 - 00:04:12,710] with YouTube. We saw it with Snapchat spotlight
+- [00:04:12,710 - 00:04:15,320] in 2020. Now we're seeing it with Facebook and
+- [00:04:15,320 - 00:04:17,269] Tik TOK planning to further grow the amount
+- [00:04:17,269 - 00:04:19,220] of money that they're giving to creators. So now
+- [00:04:19,220 - 00:04:21,440] all of these platforms are starting to give
+- [00:04:21,440 - 00:04:23,660] away big money to creators, especially those who are
+- [00:04:23,660 - 00:04:24,830] competing with Tik TOK. Because when Tik TOK came
+- [00:04:24,830 - 00:04:26,000] on, they were like, man, this is what I'm doing.
+- [00:04:26,000 - 00:04:28,010] And when it came onto the scene, it really
+- [00:04:28,010 - 00:04:30,020] took out a lot of these other platforms and
+- [00:04:30,020 - 00:04:32,150] started their growth. So now in order for them
+- [00:04:32,150 - 00:04:34,280] to compete, they're giving away a lot of money
+- [00:04:34,280 - 00:04:36,380] to creators. While those are probably two of
+- [00:04:36,380 - 00:04:38,480] the most common ways that creators are monetizing their
+- [00:04:38,480 - 00:04:41,060] platforms and making money. There's so many other hidden
+- [00:04:41,060 - 00:04:43,640] gems out there, such as going live on Tik
+- [00:04:43,640 - 00:04:46,010] TOK. Now creators are making thousands of dollars
+- [00:04:46,010 - 00:04:48,380] going live because when they build up that big
+- [00:04:48,380 - 00:04:50,360] following and go live, their followers have the
+- [00:04:50,360 - 00:04:52,340] ability to send them gifts in the live stream.
+- [00:04:52,340 - 00:04:54,140] And some creators are making thousands
+- [00:04:54,140 - 00:04:55,940] of dollars per one live stream.
+- [00:04:56,000 - 00:04:58,460] And once you master your own way to create
+- [00:04:58,460 - 00:05:00,920] content for yourself and scale your own social media,
+- [00:05:00,920 - 00:05:03,290] you can then eventually offer that service to
+- [00:05:03,290 - 00:05:05,660] other clients who are struggling to do the same.
+- [00:05:05,660 - 00:05:08,480] I know for myself, a lot of these startups
+- [00:05:08,480 - 00:05:11,300] and companies are in major need of people who are
+- [00:05:11,300 - 00:05:13,220] able to create content for them. Because again, a
+- [00:05:13,220 - 00:05:15,140] lot of these people are a lot older and they
+- [00:05:15,140 - 00:05:17,240] have no desire to learn how to use these
+- [00:05:17,240 - 00:05:19,340] social media platforms and they don't understand how the
+- [00:05:19,340 - 00:05:21,470] algorithm works. So that's why people that do
+- [00:05:21,470 - 00:05:23,600] understand it and do have a history and success
+- [00:05:23,600 - 00:05:25,940] of creating content for themselves and other.
+- [00:05:26,000 - 00:05:28,340] Companies or brands that they built, they're able
+- [00:05:28,340 - 00:05:30,680] to then consult or work for some of these
+- [00:05:30,680 - 00:05:32,870] big companies and make a lot of money
+- [00:05:32,870 - 00:05:35,060] creating quality content for them because of the multitude
+- [00:05:35,060 - 00:05:37,670] of ways now in 2022 to monetize your content.
+- [00:05:37,670 - 00:05:40,280] This is why the number one piece of advice I
+- [00:05:40,280 - 00:05:42,560] give to everyone. You know, if you
+- [00:05:42,560 - 00:05:44,840] have a passion, start creating content around it,
+- [00:05:44,840 - 00:05:47,000] whether it's just your everyday life and
+- [00:05:47,000 - 00:05:49,160] your routine, just start documenting and just start
+- [00:05:49,160 - 00:05:51,260] creating the content. There are going to be
+- [00:05:51,260 - 00:05:53,360] so many opportunities for people who know how to
+- [00:05:53,360 - 00:05:54,620] successfully create content.
+- [00:05:54,620 - 00:05:54,920] Yeah.
+- [00:05:54,920 - 00:05:55,100] Yeah.
+- [00:05:55,100 - 00:05:55,340] Yeah.
+- [00:05:55,340 - 00:05:55,400] Yeah.
+- [00:05:55,400 - 00:05:55,700] Yeah.
+- [00:05:55,700 - 00:05:55,820] Yeah.
+- [00:05:55,820 - 00:05:55,940] Yeah.
+- [00:05:55,940 - 00:05:55,980] Yeah.
+- [00:05:55,980 - 00:05:56,340] Yay.
+- [00:05:56,340 - 00:05:56,440] Yeah.
+- [00:05:56,440 - 00:05:56,740] Yeah.
+- [00:05:56,740 - 00:05:56,880] Yeah.
+- [00:05:56,880 - 00:05:57,260] Yeah.
+- [00:05:58,720 - 00:06:00,480] Naturally we can make it with
+- [00:06:00,480 - 00:06:02,240] the crowd, and with the people involved,
+- [00:06:02,240 - 00:06:04,210] all the different platforms that
+- [00:06:04,210 - 00:06:06,180] we use right now, we areką.
+- [00:06:06,280 - 00:06:08,600] Opera is when they started making text.
+- [00:06:08,960 - 00:06:10,000] I love the.
+- [00:06:10,760 - 00:06:13,140] Obviously I've made my way on this.
+- [00:06:13,140 - 00:06:14,960] The Because it's just buttoned.
+- [00:06:15,860 - 00:06:17,200] What we do for people will
+- [00:06:17,200 - 00:06:18,540] be done, I'm gonna finally do
+- [00:06:18,540 - 00:06:19,600] £1,000 and,
+- [00:06:19,780 - 00:06:20,020] Yeah,
+- [00:06:20,560 - 00:06:21,820] And I just have to stop doing that already.
+- [00:06:21,820 - 00:06:23,440] I kinda wanted to grow in front of
+- [00:06:23,440 - 00:06:25,060] my camera and pay off more, but I'm like,
+- [00:06:25,060 - 00:06:25,380] well,
+- [00:06:25,380 - 00:06:27,620] own social media and the endless opportunities that can
+- [00:06:27,620 - 00:06:29,860] come with that. Now I know a lot of you
+- [00:06:29,860 - 00:06:32,300] who may be watching this video may not have a
+- [00:06:32,300 - 00:06:34,740] lot of experience or you've tried doing it in the past
+- [00:06:34,740 - 00:06:36,740] and you've struggled on how to grow a following,
+- [00:06:36,740 - 00:06:38,740] on how to create the content, and I'm going to
+- [00:06:38,740 - 00:06:41,100] give you a couple of the biggest tips and
+- [00:06:41,100 - 00:06:43,460] the biggest things that I've seen that has enabled
+- [00:06:43,460 - 00:06:46,220] me to accumulate over 1.5 million TikTok followers over
+- [00:06:46,220 - 00:06:48,980] the past two years. And I'm going to give you
+- [00:06:48,980 - 00:06:51,220] some of the skills that I've used in order to grow
+- [00:06:51,220 - 00:06:53,460] at a very fast rate. And I'm going to give you some
+- [00:06:53,460 - 00:06:56,460] of the skills and techniques that I've used in
+- [00:06:56,460 - 00:06:59,460] order to grow and scale your accounts while also
+- [00:06:59,460 - 00:07:01,939] finding ways to monetize at a very fast
+- [00:07:01,939 - 00:07:04,419] pace. If you're someone who really hasn't begun their
+- [00:07:04,419 - 00:07:07,019] content creating journey and the process of
+- [00:07:07,019 - 00:07:09,620] trying to grow on various social media platforms,
+- [00:07:09,620 - 00:07:11,940] the number one thing to note early on
+- [00:07:11,940 - 00:07:14,260] is the most important thing at the beginning,
+- [00:07:14,260 - 00:07:16,420] before you establish that following and
+- [00:07:16,420 - 00:07:18,580] you're putting out content, is volume.
+- [00:07:18,580 - 00:07:20,980] Putting out a lot of content early
+- [00:07:20,980 - 00:07:23,380] on is very helpful to increase views,
+- [00:07:23,380 - 00:07:23,410] and it's very helpful to increase views,
+- [00:07:23,410 - 00:07:23,440] and it's very helpful to increase views,
+- [00:07:23,440 - 00:07:25,520] and the thing is, is if you're putting out 10
+- [00:07:25,520 - 00:07:27,600] to 15 videos a week, you're much more likely to get
+- [00:07:27,600 - 00:07:29,480] traction off of a few of those instead of
+- [00:07:29,480 - 00:07:31,360] if you're just posting like three or four times
+- [00:07:31,360 - 00:07:34,120] throughout that week. It is extremely important
+- [00:07:34,120 - 00:07:36,880] to be consistent with your content and consistent
+- [00:07:36,880 - 00:07:39,880] in a variety of different ways. For starters, like
+- [00:07:39,880 - 00:07:42,880] I said, that volume early on, get a posting schedule,
+- [00:07:42,880 - 00:07:45,920] get disciplined with it, and figure out how and
+- [00:07:45,920 - 00:07:48,960] when you're going to be able to post and maximize
+- [00:07:48,960 - 00:07:51,160] your content output. I understand that some of the
+- [00:07:51,160 - 00:07:53,360] content might take a lot longer to make, so for
+- [00:07:53,360 - 00:07:55,640] that reason, it is okay. Oftentimes, you know, there's
+- [00:07:55,640 - 00:07:57,920] that big debate of whether you want to be
+- [00:07:57,920 - 00:08:00,120] quantity over quality or quality over quantity, and
+- [00:08:00,120 - 00:08:02,320] that's when it comes down to the type of
+- [00:08:02,320 - 00:08:04,560] content that you're going to be posting. If it's
+- [00:08:04,560 - 00:08:06,800] content that's quick to make, and it's just, like
+- [00:08:06,800 - 00:08:09,160] I said, you're filming a part of your
+- [00:08:09,160 - 00:08:11,520] day, whether it's workout, travel footage, or you're filming
+- [00:08:11,520 - 00:08:13,560] something that you do in your everyday life, you really
+- [00:08:13,560 - 00:08:15,600] want to try to put out as much content as
+- [00:08:15,600 - 00:08:18,520] you possibly can. However, for more in-depth and
+- [00:08:18,520 - 00:08:21,440] longer content that could potentially be shot with
+- [00:08:21,440 - 00:08:22,360] like an actual camera, that's not going to be a good
+- [00:08:22,360 - 00:08:23,280] idea. So, if you're going to be posting a lot of content,
+- [00:08:23,280 - 00:08:25,960] then I do understand that it may be a lot
+- [00:08:25,960 - 00:08:28,640] harder to produce content at a faster rate, but therefore,
+- [00:08:28,640 - 00:08:31,320] hopefully, you will be rewarded for the high
+- [00:08:31,320 - 00:08:34,000] quality content as opposed to the excess quantity.
+- [00:08:34,000 - 00:08:36,279] Another thing when you're posting your
+- [00:08:36,279 - 00:08:38,559] content, it's very important, especially early on,
+- [00:08:38,559 - 00:08:40,959] when you don't have that established base, to find
+- [00:08:40,959 - 00:08:43,360] a niche. And like I said, I don't mean just
+- [00:08:43,360 - 00:08:45,880] consistent with the volume of content that you're
+- [00:08:45,880 - 00:08:48,400] posting, but consistent with the type of content.
+- [00:08:48,400 - 00:08:50,760] Meaning that when you're starting out, you want to build
+- [00:08:50,760 - 00:08:53,120] a base, and a lot of the times that base is
+- [00:08:53,120 - 00:08:54,960] going to follow you for something specific that
+- [00:08:54,960 - 00:08:56,800] you're posting. So, if you're all over the place,
+- [00:08:56,800 - 00:08:59,240] if you're posting fitness and cooking content
+- [00:08:59,240 - 00:09:01,680] today, and then dancing content the next week,
+- [00:09:01,680 - 00:09:04,040] it's going to be very hard for TikTok to
+- [00:09:04,040 - 00:09:06,400] kind of establish you in a niche, and therefore,
+- [00:09:06,400 - 00:09:09,080] it's going to be very inconsistent for the algorithm. So, it
+- [00:09:09,080 - 00:09:11,760] is important to find a niche and go all in with it.
+- [00:09:11,760 - 00:09:14,560] As you begin to grow, and you begin to build your base
+- [00:09:14,560 - 00:09:17,360] of followers, it's going to be a lot easier to be able to
+- [00:09:17,360 - 00:09:19,520] differentiate your content and go outside of a
+- [00:09:19,520 - 00:09:21,680] specific niche. But early on, especially when you're
+- [00:09:21,680 - 00:09:22,400] starting out, find that niche, and then you're going
+- [00:09:22,400 - 00:09:23,120] to be able to build that base of followers.
+- [00:09:23,120 - 00:09:25,120] So, find that niche, get locked in, and
+- [00:09:25,120 - 00:09:27,120] grow, grow, grow. Take it, and run with it.
+- [00:09:27,120 - 00:09:28,600] One of the last things that I'm going
+- [00:09:28,600 - 00:09:30,080] to say that helped me the most early on
+- [00:09:30,080 - 00:09:31,760] was not getting discouraged. The thing that you have
+- [00:09:31,760 - 00:09:33,440] to keep in mind is that when you're starting
+- [00:09:33,440 - 00:09:35,800] out fresh, or even if you're starting with
+- [00:09:35,800 - 00:09:38,160] a small base, you know, a couple thousand followers,
+- [00:09:38,160 - 00:09:40,720] a couple hundred followers, and you're trying to
+- [00:09:40,720 - 00:09:43,280] scale it to 100,000, 500,000, whatever that number
+- [00:09:43,280 - 00:09:45,920] that you're looking for may be, it can get
+- [00:09:45,920 - 00:09:48,560] very discouraging. Because a lot of the times when
+- [00:09:48,560 - 00:09:50,440] you're starting out very low, or you're starting from
+- [00:09:50,440 - 00:09:52,320] scratch, or like I said, even a couple hundred
+- [00:09:52,320 - 00:09:52,640] or thousand, you might not be able to get that
+- [00:09:52,640 - 00:09:52,960] number. So, you might want to start out with a
+- [00:09:52,960 - 00:09:54,760] niche. You may not get hundreds of thousands or
+- [00:09:54,760 - 00:09:56,560] the millions of views that you want right out
+- [00:09:56,560 - 00:09:58,520] the gate. It's all a process. You know, you got
+- [00:09:58,520 - 00:10:00,480] to stay consistent. You got to get locked in that
+- [00:10:00,480 - 00:10:02,480] niche, and you got to create quality content
+- [00:10:02,480 - 00:10:04,480] that's going to appeal to the masses, create a
+- [00:10:04,480 - 00:10:06,120] hook that's going to get people entertained, and
+- [00:10:06,120 - 00:10:07,760] they're going to keep them coming back for your
+- [00:10:07,760 - 00:10:10,080] content. But it's very important to not
+- [00:10:10,080 - 00:10:12,400] get discouraged. Because if you get discouraged,
+- [00:10:12,400 - 00:10:14,240] and you just give up, then all of it's
+- [00:10:14,240 - 00:10:16,080] pointless. But as long as you realize that, you know,
+- [00:10:16,080 - 00:10:18,600] early on, it's all going to end up paying off
+- [00:10:18,600 - 00:10:21,120] if you just stay consistent, then you won't have any
+- [00:10:21,120 - 00:10:21,640] issues. So, do not listen to the critics.
+- [00:10:21,640 - 00:10:22,160] If you're not listening to the critics, then you're
+- [00:10:22,160 - 00:10:22,440] going to end up paying off. If you just stay consistent, then
+- [00:10:22,440 - 00:10:22,720] you won't have any issues. So, do not listen to the critics.
+- [00:10:22,720 - 00:10:25,840] or anyone that thinks you're crazy or funny
+- [00:10:25,840 - 00:10:28,960] for wanting to create content. Because like I said
+- [00:10:28,960 - 00:10:32,120] throughout the entire video, it has become a legit
+- [00:10:32,120 - 00:10:35,280] job and people have made a lot of money,
+- [00:10:35,280 - 00:10:37,560] and people are going to be making a lot of
+- [00:10:37,560 - 00:10:39,840] money for as long as the career economy is going to
+- [00:10:39,840 - 00:10:42,120] exist. But as I've already stressed in this
+- [00:10:42,120 - 00:10:44,400] video, I can't emphasize enough why I really
+- [00:10:44,400 - 00:10:46,280] encourage everyone, no matter what they're
+- [00:10:46,280 - 00:10:48,160] passionate about, to really dig deep down
+- [00:10:48,160 - 00:10:50,040] to what that passion is and just
+- [00:10:50,040 - 00:10:51,920] start documenting and creating content right now.
+- [00:10:51,920 - 00:10:52,200] You know, I'm not saying that you can't do that. I'm not saying
+- [00:10:52,200 - 00:10:52,480] that you can't do that. I'm not saying that you can't do that.
+- [00:10:52,480 - 00:10:52,560] You know, I'm not saying that you can't do that. I'm not saying
+- [00:10:52,560 - 00:10:52,640] that you can't do that. I'm not saying that you can't do that.
+- [00:10:52,640 - 00:10:54,440] You know, if you have a job and you're really
+- [00:10:54,440 - 00:10:56,240] trying to break that job or add a great supplemental
+- [00:10:56,240 - 00:10:58,880] income stream, there are so many ways to
+- [00:10:58,880 - 00:11:01,520] monetize your account. As we've talked about earlier,
+- [00:11:01,520 - 00:11:04,320] through career monetization funds or branding your own
+- [00:11:04,320 - 00:11:07,120] products, whatever it may be, it is a great
+- [00:11:07,120 - 00:11:09,520] supplemental income that you can add to an already
+- [00:11:09,520 - 00:11:11,920] existing job. And you know what, if you're currently
+- [00:11:11,920 - 00:11:14,320] working a job and you're trying to find your way
+- [00:11:14,320 - 00:11:16,720] out, this could be it. You know, just stay consistent
+- [00:11:16,720 - 00:11:19,560] and it's going to end. A big reason why this is so important right now
+- [00:11:19,560 - 00:11:22,400] is because there's social media platforms out there that are really trying to monetize your account.
+- [00:11:22,400 - 00:11:25,520] There's social media platforms out there that exist such as TikTok,
+- [00:11:25,520 - 00:11:28,640] which is by far the biggest social platform in the world today.
+- [00:11:28,640 - 00:11:31,799] It actually beat out Google's like 15 year run
+- [00:11:31,799 - 00:11:34,959] as being the number one search engine. TikTok has more
+- [00:11:34,959 - 00:11:37,199] watch time than YouTube, which is a longer form
+- [00:11:37,199 - 00:11:39,439] content app, which is just crazy to think about
+- [00:11:39,439 - 00:11:42,399] that in such a short amount of time TikTok came
+- [00:11:42,399 - 00:11:45,360] up and became this massive platform that is so widely
+- [00:11:45,360 - 00:11:48,200] used throughout the entire world. As Gary Vee said,
+- [00:11:48,200 - 00:11:51,040] what we're looking at with TikTok right now is 2015
+- [00:11:51,040 - 00:11:51,600] Instagram. It's still on the internet, but it's still on the
+- [00:11:51,600 - 00:11:52,160] internet. It's still on the internet, but it's still on the internet.
+- [00:11:52,160 - 00:11:54,999] It's still early, but you don't want to get on it
+- [00:11:54,999 - 00:11:57,839] before it's too late, before that organic reach and the algorithm
+- [00:11:57,839 - 00:11:59,839] isn't as great as it is because the more and
+- [00:11:59,839 - 00:12:01,839] more and more people that get in that are posting
+- [00:12:01,839 - 00:12:03,639] content, it's going to be harder to grow. That's
+- [00:12:03,639 - 00:12:05,439] just how these apps work. But while you still have
+- [00:12:05,439 - 00:12:07,839] time, in my opinion, I still think that there's two
+- [00:12:07,839 - 00:12:10,240] good years left. I can't emphasize enough to get in
+- [00:12:10,240 - 00:12:12,599] on it and start creating content, especially on
+- [00:12:12,599 - 00:12:14,959] TikTok. Another reason why I think creating content
+- [00:12:14,959 - 00:12:17,639] on social media is so important in today's world
+- [00:12:17,639 - 00:12:20,319] is that it can be an immense tool for networking.
+- [00:12:20,319 - 00:12:22,079] The amount of people that I've met with the school
+- [00:12:22,080 - 00:12:24,160] of hard knocks and just with my personal
+- [00:12:24,160 - 00:12:26,240] content as well, it's just unbelievable because some of
+- [00:12:26,240 - 00:12:27,760] the people that I've connected with, I didn't think
+- [00:12:27,760 - 00:12:29,280] that I would have ever been able to meet.
+- [00:12:29,280 - 00:12:31,480] So therefore, creating content can be
+- [00:12:31,480 - 00:12:33,680] a really great tool for networking,
+- [00:12:33,680 - 00:12:35,760] for building those connections and eventually
+- [00:12:35,760 - 00:12:37,840] strengthening those relationships. And you never
+- [00:12:37,840 - 00:12:39,760] know what doors could potentially open up by the
+- [00:12:39,760 - 00:12:41,680] people that you end up meeting. The last thing
+- [00:12:41,680 - 00:12:43,880] that I'm going to leave you guys with
+- [00:12:43,880 - 00:12:46,080] is that creating quality content and scaling on social
+- [00:12:46,080 - 00:12:48,960] media is one of the biggest skills, in my opinion,
+- [00:12:48,960 - 00:12:51,840] in today's world that can be carried with you for
+- [00:12:51,840 - 00:12:54,080] the rest of your life. As I mentioned earlier,
+- [00:12:54,080 - 00:12:56,320] knowing how to grow on social media through the
+- [00:12:56,320 - 00:12:59,400] creation of strategic content is a skill
+- [00:12:59,400 - 00:13:02,480] that companies and brands are needing every single
+- [00:13:02,480 - 00:13:04,720] day in today's world because they need
+- [00:13:04,720 - 00:13:06,960] that consistent quality content that they can break
+- [00:13:06,960 - 00:13:09,240] through that ad clutter and beat out other brands
+- [00:13:09,240 - 00:13:11,520] and companies. And like I said, if you're currently
+- [00:13:11,520 - 00:13:14,040] in a job where you're unhappy, if you
+- [00:13:14,040 - 00:13:16,560] can add this supplemental income stream, learn the skill,
+- [00:13:16,560 - 00:13:18,760] learn the ins and outs of content creation, you
+- [00:13:18,760 - 00:13:20,960] never know what doors that could open up for you
+- [00:13:20,960 - 00:13:21,390] down the line. But if you're in a job where you're
+- [00:13:21,390 - 00:13:21,820] not happy, if you're not able to do that, then you
+- [00:13:21,820 - 00:13:23,420] can't do it. That's going to be it for
+- [00:13:23,420 - 00:13:25,020] today's video. I hope you learned something new. I hope
+- [00:13:25,020 - 00:13:26,860] you're going to take me up on all that
+- [00:13:26,860 - 00:13:28,700] I've said and start documenting and creating content because
+- [00:13:28,700 - 00:13:30,660] you never know what opportunities it can lead to.
+- [00:13:30,660 - 00:13:32,620] If you learned something new, if you enjoyed the
+- [00:13:32,620 - 00:13:34,820] video, leave us a like and subscribe because we've
+- [00:13:34,820 - 00:13:37,020] got a ton of more fire content coming your
+- [00:13:37,020 - 00:13:38,700] guys way. Thanks for tuning in.
