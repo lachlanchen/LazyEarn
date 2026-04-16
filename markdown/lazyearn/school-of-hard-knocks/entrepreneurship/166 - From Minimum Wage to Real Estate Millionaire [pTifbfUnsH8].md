@@ -1,0 +1,265 @@
+# Transcript
+
+Source: lazyearn/school-of-hard-knocks/10-questions-with-a-millionaire/018 - From Minimum Wage to Real Estate Millionaire [pTifbfUnsH8].mkv
+
+- [00:00:00,000 - 00:00:03,000] From like 11 to 21, I was pretty much
+- [00:00:03,000 - 00:00:06,000] under the influence of alcohol and drugs the entire time.
+- [00:00:06,100 - 00:00:07,750] And by 21 years old,
+- [00:00:07,750 - 00:00:09,400] I was a full-blown heroin addict.
+- [00:00:13,460 - 00:00:15,080] Welcome back to episode 5
+- [00:00:15,080 - 00:00:16,700] of 10 Questions with a Millionaire.
+- [00:00:16,820 - 00:00:18,650] I'm here with Alex Kaufman, a real
+- [00:00:18,650 - 00:00:20,480] estate brokerage owner and real estate investor.
+- [00:00:20,860 - 00:00:22,930] Alex, could you go ahead and give us a brief background
+- [00:00:22,930 - 00:00:25,000] on your history and how you got to where you are today?
+- [00:00:25,120 - 00:00:27,170] So I got started in real estate about
+- [00:00:27,170 - 00:00:29,220] five years ago with my partner, Matt Teipke.
+- [00:00:29,220 - 00:00:31,360] We started off just investing in real estate
+- [00:00:31,360 - 00:00:33,500] together, and then we partnered on the brokerage side.
+- [00:00:33,640 - 00:00:34,850] And we've really grown and
+- [00:00:34,850 - 00:00:36,060] scaled that out here in Texas.
+- [00:00:36,360 - 00:00:37,980] Our goal is to be a
+- [00:00:37,980 - 00:00:39,600] global real estate brokerage for entrepreneurs.
+- [00:00:40,100 - 00:00:42,030] Today, Matt and I together,
+- [00:00:42,030 - 00:00:43,960] we own approximately 100 units together.
+- [00:00:44,080 - 00:00:46,040] And you just mentioned so many like entrepreneurs.
+- [00:00:46,720 - 00:00:48,350] Could you give us them like a brief
+- [00:00:48,350 - 00:00:49,980] background on what it means to be an entrepreneur?
+- [00:00:50,760 - 00:00:52,980] When you get your real estate license,
+- [00:00:52,980 - 00:00:55,200] typically you're taught to just do one thing.
+- [00:00:55,260 - 00:00:57,140] You're taught to just be a listing agent.
+- [00:00:57,140 - 00:00:58,700] You're taught to just do residential.
+- [00:00:58,879 - 00:00:59,200] You're taught.
+- [00:00:59,320 - 00:01:00,900] To just be a buyer's agent.
+- [00:01:00,900 - 00:01:03,820] You're taught to only do commercial, to not do residential,
+- [00:01:03,820 - 00:01:06,740] to not worry about investing in real estate, to not wholesale.
+- [00:01:06,860 - 00:01:11,630] What we call everybody with us here at TRE is entrepreneurs, because we feel that
+- [00:01:11,630 - 00:01:16,400] you should be the true real estate professional and not just limit yourself to one thing.
+- [00:01:16,440 - 00:01:19,570] Because if the market shifts, if you don't know how to do this or that, then
+- [00:01:19,570 - 00:01:22,700] you're going to be limited in how much money you can make and how successful you'll be.
+- [00:01:22,740 - 00:01:25,810] So we teach all of our entrepreneurs how to make money in and
+- [00:01:25,810 - 00:01:28,880] on real estate and how to make money in every aspect of real estate.
+- [00:01:28,880 - 00:01:31,160] What was kind of your career
+- [00:01:31,160 - 00:01:33,440] path to get into real estate?
+- [00:01:33,479 - 00:01:36,669] Sure. I mean, like I could tell the short or the long,
+- [00:01:36,669 - 00:01:39,860] but in short, I was going down the wrong path in high school.
+- [00:01:39,880 - 00:01:42,910] So from like 11 to 21, I was pretty much
+- [00:01:42,910 - 00:01:45,940] under the influence of alcohol and drugs the entire time.
+- [00:01:45,979 - 00:01:47,789] And by 21 years old, I
+- [00:01:47,789 - 00:01:49,600] was a full blown heroin addict.
+- [00:01:49,640 - 00:01:53,159] So I got sober at 21, worked at a firehouse
+- [00:01:53,159 - 00:01:56,679] subs to start my career off making $8.50 an hour.
+- [00:01:56,759 - 00:01:58,780] Then I was washing dishes at a.
+- [00:01:58,780 - 00:01:58,860] Yeah.
+- [00:01:58,880 - 00:02:00,800] Country club and worked in the kitchen.
+- [00:02:00,820 - 00:02:03,790] I worked for oil and gas company and ultimately just knew
+- [00:02:03,790 - 00:02:06,760] that I didn't want a job or to follow a career path.
+- [00:02:06,800 - 00:02:08,440] You know, I always knew that I
+- [00:02:08,440 - 00:02:10,080] could and would make money for myself.
+- [00:02:10,100 - 00:02:12,230] But after I got sober, it was how can
+- [00:02:12,230 - 00:02:14,360] I do it legally and not sell drugs illegally?
+- [00:02:14,380 - 00:02:16,800] And that's when I connected with Matt again.
+- [00:02:16,820 - 00:02:19,010] I've done Matt since I was about eight years
+- [00:02:19,010 - 00:02:21,200] old, and he showed me the path in real estate.
+- [00:02:21,220 - 00:02:23,990] And so how did you get started from your
+- [00:02:23,990 - 00:02:26,760] start in real estate to becoming a real estate broker?
+- [00:02:26,780 - 00:02:28,760] Matt's actually our real estate broker.
+- [00:02:28,760 - 00:02:30,420] But together we own the brokerage.
+- [00:02:30,440 - 00:02:37,240] And so he had his broker license and we said, hey, we want to create a place where people can come and get more out of real estate for themselves
+- [00:02:37,240 - 00:02:44,040] to do the opposite of what I was saying earlier, where the other traditional real estate brokerages put you down this path that you may not want to go down.
+- [00:02:44,079 - 00:02:46,579] At this point, we had been buying real estate together
+- [00:02:46,579 - 00:02:49,079] and we owned, I think, like 15 units at that time.
+- [00:02:49,120 - 00:02:51,690] And then we said, hey, well, let's
+- [00:02:51,690 - 00:02:54,260] create a real estate brokerage for true entrepreneurs.
+- [00:02:54,280 - 00:02:55,960] That's where we started forming
+- [00:02:55,960 - 00:02:57,640] TRE to where it is today.
+- [00:02:57,660 - 00:02:57,739] Yeah.
+- [00:02:57,780 - 00:02:57,820] Yeah.
+- [00:02:57,820 - 00:02:57,880] Yeah.
+- [00:02:57,899 - 00:02:57,940] Yeah.
+- [00:02:57,940 - 00:02:57,980] Yeah.
+- [00:02:57,980 - 00:02:58,040] Yeah.
+- [00:02:58,060 - 00:02:58,140] Yeah.
+- [00:02:58,140 - 00:02:58,160] Yeah.
+- [00:02:58,180 - 00:02:58,220] Yeah.
+- [00:02:58,220 - 00:02:58,260] Yeah.
+- [00:02:58,280 - 00:02:58,299] Yeah.
+- [00:02:58,320 - 00:02:58,340] Yeah.
+- [00:02:58,359 - 00:02:58,380] Yeah.
+- [00:02:58,380 - 00:02:58,399] Yeah.
+- [00:02:58,420 - 00:02:58,459] Yeah.
+- [00:02:58,459 - 00:02:58,480] Yeah.
+- [00:02:58,500 - 00:02:58,540] Yeah.
+- [00:02:58,540 - 00:02:58,579] Yeah.
+- [00:02:58,620 - 00:02:58,660] Yeah.
+- [00:02:58,760 - 00:02:58,799] Yeah.
+- [00:02:58,799 - 00:02:58,959] Yeah.
+- [00:02:59,299 - 00:02:59,320] Yeah.
+- [00:02:59,320 - 00:03:00,019] Yeah.
+- [00:03:00,019 - 00:03:01,340] Yeah.
+- [00:03:02,019 - 00:03:02,120] Yeah.
+- [00:03:02,239 - 00:03:02,420] Right.
+- [00:03:02,420 - 00:03:07,200] That's what I'm saying.
+- [00:03:07,200 - 00:03:09,189] So how quick we went about getting our first
+- [00:03:09,189 - 00:03:11,179] deal from you is path, because you have kilos
+- [00:03:11,179 - 00:03:14,919] and you had tons of money, it's a quick
+- [00:03:14,919 - 00:03:18,660] burn, you went through a little hard to get your
+- [00:03:18,660 - 00:03:19,640] first deal.
+- [00:03:19,640 - 00:03:21,990] So before we really went through any of
+- [00:03:21,990 - 00:03:24,340] these over the months, you figured that we didn't
+- [00:03:24,340 - 00:03:25,519] have have any money.
+- [00:03:25,560 - 00:03:27,020] And what we ended up getting
+- [00:03:27,020 - 00:03:28,480] was a lot of interest in condos.
+- [00:03:28,480 - 00:03:31,550] so you know 28,000 from me and Matt and I
+- [00:03:31,550 - 00:03:34,620] had never bought real estate before but Matt was like
+- [00:03:34,620 - 00:03:36,470] hey man just trust me like there's a good
+- [00:03:36,470 - 00:03:38,320] deal don't worry about it it'll be a great investment
+- [00:03:38,320 - 00:03:40,570] for us down the road ultimately I just placed all
+- [00:03:40,570 - 00:03:42,820] the trust in Matt that he knew what he was doing
+- [00:03:42,820 - 00:03:46,100] and he was looking out for us in this
+- [00:03:46,100 - 00:03:49,380] investment and today that thing's worth easy close to 400,000
+- [00:03:49,380 - 00:03:52,889] wow and we've pulled you know like 150k out of it
+- [00:03:52,889 - 00:03:56,399] too and we still own it and cash flow on the rent
+- [00:03:56,400 - 00:03:58,750] every single month that's that's amazing and how long
+- [00:03:58,750 - 00:04:01,100] has that been since that first deal I think
+- [00:04:01,100 - 00:04:04,160] December 2018 you were in a business partnership with
+- [00:04:04,160 - 00:04:07,220] Matt so how did that come about to being like
+- [00:04:07,220 - 00:04:09,220] hey I want to have you as my partner
+- [00:04:09,220 - 00:04:11,220] and what qualities would you say people should look for
+- [00:04:11,220 - 00:04:13,580] in terms of a business partner we didn't necessarily
+- [00:04:13,580 - 00:04:15,940] start off you know like hey let's partner on this
+- [00:04:15,940 - 00:04:18,320] and everything for the remainder of life right
+- [00:04:18,320 - 00:04:20,700] we just started to do deals together start working
+- [00:04:20,700 - 00:04:23,480] together I was learning from Matt I was doing
+- [00:04:23,480 - 00:04:26,260] some legwork and putting in action for us while he
+- [00:04:26,260 - 00:04:26,320] was doing some of the work that he was doing and
+- [00:04:26,320 - 00:04:26,380] I was doing some of the work that he was doing
+- [00:04:26,380 - 00:04:26,390] and I was doing some of the work that he was doing
+- [00:04:26,390 - 00:04:26,400] and I was doing some of the work that he was doing
+- [00:04:26,400 - 00:04:28,240] you know maybe at his commercial brokerage
+- [00:04:28,240 - 00:04:30,080] or working as property management company just
+- [00:04:30,080 - 00:04:32,200] ultimately trying to find deals and so that's how it
+- [00:04:32,200 - 00:04:34,320] started and it worked out really well I mean we
+- [00:04:34,320 - 00:04:36,999] work really well together we're very similar in a
+- [00:04:36,999 - 00:04:39,679] lot of ways but we're also very different with
+- [00:04:39,679 - 00:04:41,919] our skills and our attributes and what we
+- [00:04:41,919 - 00:04:44,159] enjoy doing and we're also brothers his family's my
+- [00:04:44,159 - 00:04:46,559] family his mom's my mom essentially and then
+- [00:04:46,559 - 00:04:48,960] it also really helped out that we were good
+- [00:04:48,960 - 00:04:51,080] partners on the business side of things I
+- [00:04:51,080 - 00:04:53,200] was talking about this on a podcast yesterday how
+- [00:04:53,200 - 00:04:54,790] just being brothers doesn't necessarily
+- [00:04:54,790 - 00:04:56,380] mean that we would be good
+- [00:04:56,380 - 00:04:59,049] business partners but the fact that we have both
+- [00:04:59,049 - 00:05:01,719] really makes it strong find someone who has the
+- [00:05:01,719 - 00:05:04,409] same values that you do like morally because
+- [00:05:04,409 - 00:05:07,100] if y'all disagree morally and with your values and
+- [00:05:07,100 - 00:05:09,540] where you align spiritually and things like that
+- [00:05:09,540 - 00:05:11,980] you're gonna be in conflict some point moving
+- [00:05:11,980 - 00:05:13,650] forward right make sure that y'all trust each
+- [00:05:13,650 - 00:05:15,320] other make sure that y'all have the same goals
+- [00:05:15,320 - 00:05:17,640] and the same vision and then on the other
+- [00:05:17,640 - 00:05:19,960] side make sure that y'all have different skill sets
+- [00:05:19,960 - 00:05:22,630] like Matt's very good at sales and networking
+- [00:05:22,630 - 00:05:25,300] and meeting people and relationships and ideas and
+- [00:05:25,300 - 00:05:25,830] vision and I'm very good at networking and
+- [00:05:25,830 - 00:05:26,360] meeting people and relationships and ideas and vision and
+- [00:05:26,360 - 00:05:28,670] I really enjoy putting all of that into action I
+- [00:05:28,670 - 00:05:30,980] don't want to go to meetings I want to run our
+- [00:05:30,980 - 00:05:33,320] business and run our operations grow and scale
+- [00:05:33,320 - 00:05:35,660] our operations and so we complement each other
+- [00:05:35,660 - 00:05:38,720] and in those ways what would you say
+- [00:05:38,720 - 00:05:41,780] is your best financial decision and your worst financial
+- [00:05:41,780 - 00:05:44,540] decision you've made in your life I'd say my
+- [00:05:44,540 - 00:05:47,300] best financial decision has been to just put every
+- [00:05:47,300 - 00:05:50,300] single penny that I've made and that we make
+- [00:05:50,300 - 00:05:53,300] into real estate and into our businesses and then the
+- [00:05:53,300 - 00:05:56,180] worst financial decision was to not take
+- [00:05:56,360 - 00:05:59,600] more risks how important is it to take risks
+- [00:05:59,600 - 00:06:02,840] in order to be successful not taking risks is also
+- [00:06:02,840 - 00:06:05,450] a risk even though you may not be putting all
+- [00:06:05,450 - 00:06:08,060] your money up and risking it on this investment you're
+- [00:06:08,060 - 00:06:10,130] taking a risk by not doing that because
+- [00:06:10,130 - 00:06:12,200] you're risking not reaping all the rewards that you're
+- [00:06:12,200 - 00:06:14,390] going to get from the upside there we put
+- [00:06:14,390 - 00:06:16,580] everything on the line at all times and we
+- [00:06:16,580 - 00:06:19,640] just have 110 belief that we're going to make it
+- [00:06:19,640 - 00:06:22,700] work no matter what where do you see yourself in
+- [00:06:22,700 - 00:06:24,200] 10 years I don't necessarily have
+- [00:06:24,200 - 00:06:25,700] a and we don't have like a
+- [00:06:26,360 - 00:06:29,750] unit number or financial number of cash flow or
+- [00:06:29,750 - 00:06:33,140] revenue or profit the goal is to have this
+- [00:06:33,140 - 00:06:35,360] Community and network of entrepreneurs under typekey
+- [00:06:35,360 - 00:06:37,580] real estate all across the globe in
+- [00:06:37,580 - 00:06:39,650] the world and all of us be doing deals and
+- [00:06:39,650 - 00:06:41,720] helping each other and growing with each other across the
+- [00:06:41,720 - 00:06:43,730] entire world and then when Elon gets to Mars
+- [00:06:43,730 - 00:06:45,740] we'll be doing it on Mars that's the ultimate
+- [00:06:45,740 - 00:06:48,230] goal is just buy as much real estate as we
+- [00:06:48,230 - 00:06:50,720] can help as many people as we can and continue to
+- [00:06:50,720 - 00:06:53,240] build this tight-knit community of entrepreneurs all
+- [00:06:53,240 - 00:06:55,760] over the world so that everybody can be
+- [00:06:55,760 - 00:06:57,460] helping each other out, growing with each other,
+- [00:06:57,460 - 00:06:59,219] and doing deals together.
+- [00:06:59,219 - 00:07:02,159] For anyone who feels like they're just not doing
+- [00:07:02,159 - 00:07:03,180] what they wanna do right now,
+- [00:07:03,180 - 00:07:05,260] whether it be following their passion,
+- [00:07:05,260 - 00:07:07,700] or they just maybe don't enjoy what they're doing,
+- [00:07:07,700 - 00:07:09,380] what advice would you give to that person?
+- [00:07:09,380 - 00:07:11,900] I think everybody's personal situations are different,
+- [00:07:11,900 - 00:07:14,360] and when I was working at Firehouse Subs,
+- [00:07:14,360 - 00:07:16,120] or one of the other
+- [00:07:16,120 - 00:07:17,880] jobs, I had no responsibility, right?
+- [00:07:17,880 - 00:07:19,170] Just me, like I didn't have
+- [00:07:19,170 - 00:07:20,460] kids, I didn't have a wife,
+- [00:07:20,460 - 00:07:22,039] I didn't have people relying on me,
+- [00:07:22,039 - 00:07:23,340] I just relied on myself.
+- [00:07:23,340 - 00:07:25,940] And so that allowed me to do more things
+- [00:07:25,940 - 00:07:27,659] that maybe somebody else couldn't,
+- [00:07:27,659 - 00:07:30,099] but I just ultimately believe that I think it's hard
+- [00:07:30,099 - 00:07:31,259] to come up with an
+- [00:07:31,259 - 00:07:32,419] excuse for why you can't accomplish
+- [00:07:32,419 - 00:07:33,389] what you wanna do, and I
+- [00:07:33,389 - 00:07:34,359] think that if you want it
+- [00:07:34,359 - 00:07:36,200] bad enough, you'll figure out a way to do it.
+- [00:07:36,200 - 00:07:37,719] And I mean, I sacrificed a lot.
+- [00:07:37,719 - 00:07:38,749] I did not go out and
+- [00:07:38,749 - 00:07:39,780] spend money on this or that,
+- [00:07:39,780 - 00:07:42,200] I did not do things that other people were doing.
+- [00:07:42,200 - 00:07:45,280] I was 100% bought into this way of life,
+- [00:07:45,280 - 00:07:47,479] and making this work, and being successful
+- [00:07:47,479 - 00:07:48,789] in a legal business, that I
+- [00:07:48,789 - 00:07:50,099] gave up a lot of things
+- [00:07:50,099 - 00:07:51,260] that other people were doing.
+- [00:07:51,260 - 00:07:53,340] Ultimately, like in short, just think it's about
+- [00:07:53,340 - 00:07:55,739] sacrificing whatever it is for your dream.
+- [00:07:55,739 - 00:07:57,239] I think that anything is possible,
+- [00:07:57,239 - 00:07:59,340] and anybody can achieve whatever they want to.
+- [00:07:59,340 - 00:08:02,500] I think that the moment we stop allowing people
+- [00:08:02,500 - 00:08:05,020] outside of us, or in our circle, or society,
+- [00:08:05,020 - 00:08:06,529] or whatever it is, to try
+- [00:08:06,529 - 00:08:08,039] and tell us what we can't do,
+- [00:08:08,039 - 00:08:09,419] or what we can do, or
+- [00:08:09,419 - 00:08:10,799] what we need to be, or whatever,
+- [00:08:10,799 - 00:08:12,000] as soon as we let go of that,
+- [00:08:12,000 - 00:08:13,539] and just start being true to ourself,
+- [00:08:13,539 - 00:08:15,520] and 100% accountable to ourself,
+- [00:08:15,520 - 00:08:17,580] I think we can make anything we want reality.
+- [00:08:17,580 - 00:08:20,080] Thank you so much for joining us for episode five
+- [00:08:20,080 - 00:08:21,419] of 10 Questions with a Millionaire.
+- [00:08:21,419 - 00:08:22,640] I'm here with Alex Kaufman.
+- [00:08:22,640 - 00:08:22,900] Where can people find us?
+- [00:08:22,900 - 00:08:24,020] Where can people find out
+- [00:08:24,020 - 00:08:25,140] more about how to reach you,
+- [00:08:25,140 - 00:08:26,620] and how to reach TRE?
+- [00:08:26,620 - 00:08:29,580] Teifke Real Estate, T-E-I-F-K-E.
+- [00:08:29,580 - 00:08:30,419] It's a hard one.
+- [00:08:30,419 - 00:08:33,640] Teifke Real Estate, you can find us on Instagram, YouTube.
+- [00:08:33,640 - 00:08:36,000] Go to our website, Facebook, TikTok,
+- [00:08:36,000 - 00:08:38,520] our headquarters here in Austin, Texas.
+- [00:08:38,520 - 00:08:39,419] Reach out to me.
+- [00:08:39,419 - 00:08:43,280] My phone number's 512-517-1360.
+- [00:08:43,280 - 00:08:45,060] We're here to help, and whatever we can do
+- [00:08:45,060 - 00:08:46,180] to help anybody out.
+- [00:08:46,180 - 00:08:47,900] Awesome, thank you guys so much again for watching.
+- [00:08:47,900 - 00:08:49,500] Please leave a like and subscribe.
