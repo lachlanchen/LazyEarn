@@ -1,0 +1,245 @@
+# Transcript
+
+Source: lazyearn/school-of-hard-knocks/hard-knocks-interviews/124 - Asking Millionaires How To Make $1,000,000! [O_pe_5L769E].mkv
+
+- [00:00:00,000 - 00:00:01,480] Today we're going to be going around
+- [00:00:01,480 - 00:00:02,960] one of the wealthiest neighborhoods in Texas asking
+- [00:00:02,960 - 00:00:04,400] millionaires how they became wealthy. Yeah, we're
+- [00:00:04,400 - 00:00:05,840] going to be going door to door finding
+- [00:00:05,840 - 00:00:07,560] out how they made their millions. Let's get to
+- [00:00:07,560 - 00:00:09,280] it. All right, so we're here at our first house.
+- [00:00:10,080 - 00:00:12,000] Looks beautiful. See if we can talk to the
+- [00:00:12,000 - 00:00:13,920] owner and kind of figure out what they did
+- [00:00:13,920 - 00:00:15,400] that's kind of led to their success and
+- [00:00:15,400 - 00:00:16,880] being able to own a multimillion dollar property like
+- [00:00:16,880 - 00:00:19,000] this one. So check it out. Just asking people
+- [00:00:19,000 - 00:00:21,120] a couple of questions on their advice to younger
+- [00:00:21,120 - 00:00:22,920] people who are coming out of college. I actually
+- [00:00:22,920 - 00:00:24,720] had a phone call. Sorry, not at this time, but
+- [00:00:24,720 - 00:00:28,799] no worries. All right, you guys. So next, let's
+- [00:00:28,799 - 00:00:32,879] see how this goes. What industry did you decide
+- [00:00:32,879 - 00:00:35,079] to pursue a career in natural gas?
+- [00:00:35,079 - 00:00:37,280] The most difficult, most challenging, most dangerous
+- [00:00:37,280 - 00:00:39,520] job you can find. And I proved it to a
+- [00:00:39,520 - 00:00:41,760] lot of people who couldn't believe that I was doing
+- [00:00:41,760 - 00:00:43,679] something like that. That's amazing. You can find
+- [00:00:43,679 - 00:00:45,599] something and what else is doing work harder than
+- [00:00:45,599 - 00:00:47,799] anybody else. And you're going to do just fine.
+- [00:00:47,799 - 00:00:50,000] Look under the rug. If you see a problem, don't
+- [00:00:50,000 - 00:00:52,040] say someone else is going to fix it. You find out
+- [00:00:52,040 - 00:00:54,080] what caused it and you find out a way to fix it.
+- [00:00:54,080 - 00:00:54,720] The most amount of money
+- [00:00:54,720 - 00:00:57,119] that you've ever made in a single year. I
+- [00:00:57,119 - 00:00:59,519] don't know. Cash flow is maybe half a million dollars
+- [00:00:59,519 - 00:01:00,160] a year. Wow.
+- [00:01:02,400 - 00:01:04,959] No, I'm a president of a software company
+- [00:01:04,959 - 00:01:07,520] that does industrial like IoT edge device management.
+- [00:01:07,520 - 00:01:10,000] Right. My first job out of college was a startup.
+- [00:01:10,000 - 00:01:12,480] It was a great experience because I got to learn
+- [00:01:12,480 - 00:01:14,160] a lot of things and learn a lot of things the
+- [00:01:14,160 - 00:01:15,840] hard way. If I had to do it again, I would have
+- [00:01:15,840 - 00:01:18,400] probably first gone to work for a large company
+- [00:01:18,400 - 00:01:20,960] to get exposed to kind of best practices and how
+- [00:01:20,960 - 00:01:22,800] things should be done. And then going back
+- [00:01:22,800 - 00:01:24,640] to a smaller company. When you start your career,
+- [00:01:24,640 - 00:01:28,440] do it in a city where there are a lot of
+- [00:01:28,440 - 00:01:32,240] options for you to, you know, be at one company for maybe
+- [00:01:32,240 - 00:01:33,120] three or four years and move on to the other.
+- [00:01:44,560 - 00:01:45,600] I think I'll pass.
+- [00:01:45,600 - 00:01:49,400] All right. We have been doing some, some decent
+- [00:01:49,400 - 00:01:53,200] amount of rejection so far, but the vibes are
+- [00:01:53,200 - 00:01:54,240] still high. We're going to go after theợ
+- [00:01:54,240 - 00:01:56,399] We're still sure that we're gonna get some good interviews.
+- [00:01:56,399 - 00:01:58,399] We should keep knocking. We're going one by one.
+- [00:01:58,399 - 00:01:59,639] Doesn't matter how many no's we're gonna get,
+- [00:01:59,639 - 00:02:00,880] you just gotta get to that next yes.
+- [00:02:00,880 - 00:02:02,880] We're back out here for day two.
+- [00:02:02,880 - 00:02:04,479] Last time didn't go as planned.
+- [00:02:04,479 - 00:02:05,759] Got a lot more rejections than people
+- [00:02:05,759 - 00:02:07,039] that were willing to do the interviews.
+- [00:02:07,039 - 00:02:08,879] So we're back out here trying to ask people, you know,
+- [00:02:08,879 - 00:02:10,720] how to run up a bag and get wealthy in today's world.
+- [00:02:10,720 - 00:02:13,060] I mean, it's tough, man. I don't know how many more doors
+- [00:02:13,060 - 00:02:15,400] we could knock on, get no's, and the door slammed on our face.
+- [00:02:15,400 - 00:02:16,480] But, you know, we're just trying
+- [00:02:16,480 - 00:02:17,560] to get these answers for you guys.
+- [00:02:17,560 - 00:02:19,920] So hopefully we have a better day today. Stay tuned.
+- [00:02:19,920 - 00:02:24,740] So I played professional basketball for 10 years and now I'm
+- [00:02:24,740 - 00:02:29,560] involved in a sports ownership group that owns teams around the world.
+- [00:02:29,560 - 00:02:31,839] As an entrepreneur, what is your best piece of advice
+- [00:02:31,839 - 00:02:34,119] to someone wanting to start a business going into 2023?
+- [00:02:34,119 - 00:02:37,119] What I would say to anyone and what I tell my kids
+- [00:02:37,119 - 00:02:40,119] and what I would tell my younger self is don't work for anyone.
+- [00:02:40,119 - 00:02:42,600] Find a way to find something you're passionate about.
+- [00:02:42,600 - 00:02:44,740] If you're gonna spend your time on something,
+- [00:02:44,740 - 00:02:46,880] spend your time growing something that's truly yours.
+- [00:02:46,880 - 00:02:48,920] And I understand that that's difficult when you're young.
+- [00:02:48,920 - 00:02:49,880] But whatever you have to do, put in the effort.
+- [00:02:49,880 - 00:02:53,940] Spend a few years, save as much money as you can, and then spend your time really putting
+- [00:02:53,940 - 00:02:58,000] the time in to build something that you can own as opposed to being an employee for someone else.
+- [00:02:58,000 - 00:02:59,420] Beautiful interview right there. Probably
+- [00:02:59,420 - 00:03:00,840] my favorite one so far.
+- [00:03:00,840 - 00:03:03,599] You know, he owns a basketball, a professional basketball
+- [00:03:03,599 - 00:03:06,359] team in New Zealand, serial entrepreneur, professional basketball player.
+- [00:03:06,359 - 00:03:08,079] Check out this court right here in his backyard, man.
+- [00:03:08,079 - 00:03:10,840] It don't get any better than that.
+- [00:03:10,840 - 00:03:14,200] Yeah, I had a group of like 350 radio stations.
+- [00:03:14,200 - 00:03:15,960] Wow. What was the name of it?
+- [00:03:15,960 - 00:03:17,160] Capstar Broadcasting.
+- [00:03:17,160 - 00:03:17,640] Wow.
+- [00:03:17,640 - 00:03:18,640] I bought my first station
+- [00:03:18,640 - 00:03:19,640] when I was 29 years old.
+- [00:03:19,640 - 00:03:19,840] So.
+- [00:03:19,840 - 00:03:20,200] Wow.
+- [00:03:20,200 - 00:03:21,560] What was the most amount of money
+- [00:03:21,560 - 00:03:22,920] that you've ever made in a single year?
+- [00:03:22,920 - 00:03:24,560] Selling the company, I made
+- [00:03:24,560 - 00:03:26,200] probably $50 million, something like that.
+- [00:03:26,200 - 00:03:26,680] Wow.
+- [00:03:26,680 - 00:03:27,320] So that's good.
+- [00:03:27,320 - 00:03:27,880] That's incredible.
+- [00:03:27,880 - 00:03:28,600] Good year.
+- [00:03:28,600 - 00:03:29,320] That's incredible.
+- [00:03:29,320 - 00:03:30,800] What advice would you tell someone
+- [00:03:30,800 - 00:03:32,280] wanting to start a business in 2023?
+- [00:03:32,280 - 00:03:37,780] You know, I think it's really about people you're connected to, learning how to communicate and build
+- [00:03:37,780 - 00:03:43,280] a great team of people, trusting them and having a good business plan and going for it.
+- [00:03:43,280 - 00:03:46,440] And what do you look for in, you know, various other employees or
+- [00:03:46,440 - 00:03:49,600] business partners that tells you, hey, this is someone I want to work with?
+- [00:03:49,600 - 00:03:52,000] Actually, I look for somebody who's had some failure.
+- [00:03:52,000 - 00:03:55,220] You learn more about the character of a person once they've fallen on their
+- [00:03:55,220 - 00:03:58,440] face and gotten back up and seeing what kind of business person they really are.
+- [00:03:58,440 - 00:04:00,120] How's today been so far?
+- [00:04:00,120 - 00:04:01,280] You know, not too bad.
+- [00:04:01,280 - 00:04:02,400] It's been a little slow.
+- [00:04:02,400 - 00:04:03,160] You know, it's kind of funny.
+- [00:04:03,160 - 00:04:06,640] One of the first houses we went up to, a lady had came out and after we gave her
+- [00:04:06,640 - 00:04:10,120] our pitch to do an interview, she kind of goes, it's kind of weird what you guys are doing.
+- [00:04:10,120 - 00:04:12,440] And to be honest, you know, it is a little insane that we're
+- [00:04:12,440 - 00:04:14,760] just going door to door in some of these like really nice neighborhoods.
+- [00:04:14,760 - 00:04:16,320] People are probably really caught off guard.
+- [00:04:16,320 - 00:04:17,779] They've probably never seen or kind
+- [00:04:17,779 - 00:04:19,240] of experienced something like it before.
+- [00:04:19,240 - 00:04:19,480] So.
+- [00:04:19,480 - 00:04:20,440] It does make sense.
+- [00:04:20,440 - 00:04:22,100] But yeah, just been trying to
+- [00:04:22,100 - 00:04:23,760] drive around, scout up these homes.
+- [00:04:23,760 - 00:04:26,800] I mean, we've been hitting every little pocket in Austin.
+- [00:04:26,800 - 00:04:27,900] It's got these nice homes
+- [00:04:27,900 - 00:04:29,000] and Austin's got plenty of them.
+- [00:04:29,000 - 00:04:31,200] We just got to get out more, maybe go across the other
+- [00:04:31,200 - 00:04:33,400] side of the city to try to find some more million dollar homes.
+- [00:04:33,400 - 00:04:35,320] I was lucky enough to become a trial lawyer.
+- [00:04:35,320 - 00:04:36,500] It's what I always wanted to
+- [00:04:36,500 - 00:04:37,680] be since I was in eighth grade.
+- [00:04:37,680 - 00:04:39,200] So I get to play with other
+- [00:04:39,200 - 00:04:40,720] people's money, which is pretty darn nice.
+- [00:04:40,720 - 00:04:42,840] I used to own part of three bars in Houston.
+- [00:04:42,840 - 00:04:44,480] What would be your best piece of
+- [00:04:44,480 - 00:04:46,120] advice to entrepreneurs going into next year?
+- [00:04:46,120 - 00:04:46,960] Do your homework.
+- [00:04:46,960 - 00:04:48,180] You know, I see businesses
+- [00:04:48,180 - 00:04:49,400] open in Austin all the time.
+- [00:04:49,400 - 00:04:49,440] And I'm like, I'm going to do this.
+- [00:04:49,440 - 00:04:49,480] I'm going to do this.
+- [00:04:49,480 - 00:04:51,380] And I'm kind of wondering, did
+- [00:04:51,380 - 00:04:53,280] anybody study the demographics of that location?
+- [00:04:53,280 - 00:04:55,200] We just got a new pizza parlor in
+- [00:04:55,200 - 00:04:57,120] Westlake and I was very excited about it.
+- [00:04:57,120 - 00:04:58,320] And then I went over
+- [00:04:58,320 - 00:04:59,520] there and discovered they sold slices.
+- [00:04:59,520 - 00:05:00,360] Slices.
+- [00:05:00,360 - 00:05:03,960] Well, that's great if you're in Times Square, but there's not
+- [00:05:03,960 - 00:05:07,560] enough foot traffic over by Randall's supermarket in Westlake to sell slices.
+- [00:05:07,560 - 00:05:09,280] So I kind of wondered to myself, who
+- [00:05:09,280 - 00:05:11,000] did their homework before they opened this business?
+- [00:05:11,000 - 00:05:15,220] These videos, especially this one in particular, is actually really hard
+- [00:05:15,220 - 00:05:19,440] to film because our success rate is easily less than 5%.
+- [00:05:19,440 - 00:05:22,420] Most people don't even answer the door and the people that do answer
+- [00:05:22,420 - 00:05:25,400] the door, it's a toss up if they're willing to do the interview.
+- [00:05:25,400 - 00:05:26,960] So if you guys did enjoy this video
+- [00:05:26,960 - 00:05:28,520] so far, please leave a like and subscribe.
+- [00:05:28,520 - 00:05:30,320] I would really appreciate that from you guys.
+- [00:05:30,320 - 00:05:31,260] Did you ever own a
+- [00:05:31,260 - 00:05:32,200] company at any point in time?
+- [00:05:32,200 - 00:05:36,200] Yes, I was CEO and founder of two technical companies.
+- [00:05:36,200 - 00:05:38,620] MRI Systems, it was acquired by
+- [00:05:38,620 - 00:05:41,040] Intel and one is called MyVest.
+- [00:05:41,040 - 00:05:42,600] It's in San Francisco.
+- [00:05:42,600 - 00:05:45,200] It was acquired by TIAA.
+- [00:05:45,200 - 00:05:47,100] What's your best piece of advice to someone wanting
+- [00:05:47,100 - 00:05:49,000] to start a business going into this next year?
+- [00:05:49,000 - 00:05:49,320] Learn a lot.
+- [00:05:49,320 - 00:05:51,280] Get a marketable skill and master it.
+- [00:05:51,280 - 00:05:54,560] What do you typically look for in a company that tells you, hey, I want to
+- [00:05:54,560 - 00:05:57,840] invest in this company and when do you know when it's a good time to buy?
+- [00:05:57,840 - 00:06:00,760] You know, timing is difficult, but generally you
+- [00:06:00,760 - 00:06:03,680] have to have a long term investment horizon.
+- [00:06:03,680 - 00:06:06,540] So you have to be willing to put some
+- [00:06:06,540 - 00:06:09,400] money away that you won't need for maybe ten years.
+- [00:06:09,400 - 00:06:10,700] What's the most amount of money that
+- [00:06:10,700 - 00:06:12,000] you've ever made in a single year?
+- [00:06:12,000 - 00:06:13,560] It's in the seven digits.
+- [00:06:13,560 - 00:06:16,200] I'd rather not get too specific about that.
+- [00:06:16,200 - 00:06:18,560] What industry did you decide to pursue a career in?
+- [00:06:18,560 - 00:06:18,880] IT.
+- [00:06:18,880 - 00:06:19,719] I studied at UT.
+- [00:06:19,719 - 00:06:21,800] And what were you doing before being a professor?
+- [00:06:21,800 - 00:06:24,140] I was a software engineer for ten years and I
+- [00:06:24,140 - 00:06:26,480] was a stay at home dad for five or ten years.
+- [00:06:26,480 - 00:06:28,480] What was the best financial decision that you ever made?
+- [00:06:28,480 - 00:06:30,200] I guess investing in real estate
+- [00:06:30,200 - 00:06:31,920] long term was a good decision.
+- [00:06:31,920 - 00:06:34,640] Also, marry a successful lawyer.
+- [00:06:34,640 - 00:06:36,320] That's a really good advice.
+- [00:06:36,320 - 00:06:36,640] OK.
+- [00:06:36,640 - 00:06:39,360] If you can do that, you're more than halfway there.
+- [00:06:39,360 - 00:06:42,000] In what industry did you ultimately pursue a career in?
+- [00:06:42,000 - 00:06:42,960] I was in sales.
+- [00:06:42,960 - 00:06:44,480] What do you think really separates people
+- [00:06:44,480 - 00:06:46,000] when they're in sales competing against other people?
+- [00:06:46,000 - 00:06:46,800] Persistence.
+- [00:06:46,800 - 00:06:48,840] And just keeping going and being relentless.
+- [00:06:48,880 - 00:06:50,860] If something isn't working, you know,
+- [00:06:50,860 - 00:06:52,840] reevaluate and be willing to change.
+- [00:06:52,840 - 00:06:54,120] Don't be stubborn about it.
+- [00:06:54,120 - 00:06:56,020] But also just power through
+- [00:06:56,020 - 00:06:57,920] because sometimes it's just really hard.
+- [00:06:57,920 - 00:07:00,580] I created a real estate development company
+- [00:07:00,580 - 00:07:03,240] here in Austin, Texas that's pretty successful.
+- [00:07:03,240 - 00:07:06,280] What is something that you've done among your competitors to really make you stand
+- [00:07:06,280 - 00:07:09,320] out and that you think other people should try and implement regardless of the industry?
+- [00:07:09,320 - 00:07:11,960] Know what you're going after, know your market and be
+- [00:07:11,960 - 00:07:14,600] able to make fast decisions and have conviction about them.
+- [00:07:14,600 - 00:07:16,600] What's the greatest lesson that you've learned through your career
+- [00:07:16,600 - 00:07:18,600] in real estate that you would want to tell someone else?
+- [00:07:18,880 - 00:07:20,820] There's just opportunity in all
+- [00:07:20,820 - 00:07:22,760] the different areas within real estate.
+- [00:07:22,760 - 00:07:24,239] If you want to cut
+- [00:07:24,239 - 00:07:25,719] lawn, you could be successful there.
+- [00:07:25,719 - 00:07:27,319] If you want to, you know,
+- [00:07:27,319 - 00:07:28,920] buy and sell properties, buy land.
+- [00:07:28,920 - 00:07:30,520] I mean, there's so many opportunities.
+- [00:07:30,520 - 00:07:35,800] It's just finding what you know and what you want to do and just doing it and
+- [00:07:35,800 - 00:07:41,080] working fast, having conviction, keeping a good name and good reputation and, you know, treat your investors properly.
+- [00:07:41,080 - 00:07:42,520] How can someone start their
+- [00:07:42,520 - 00:07:43,960] path to becoming wealthy in 2023?
+- [00:07:43,960 - 00:07:45,600] So going back to when I was younger,
+- [00:07:45,600 - 00:07:47,240] and I can just go from personal experience.
+- [00:07:47,240 - 00:07:48,040] You can always find a
+- [00:07:48,040 - 00:07:48,840] way to put your money in.
+- [00:07:48,840 - 00:07:49,719] Put money aside.
+- [00:07:49,719 - 00:07:54,139] And the way that I was able to break off and frankly, when we
+- [00:07:54,139 - 00:07:58,560] started the brokerage career, I started, you know, on my own with a partner.
+- [00:07:58,560 - 00:08:01,280] But the two of us were really young and I
+- [00:08:01,280 - 00:08:04,000] had enough savings that I was able to make that commitment.
+- [00:08:04,000 - 00:08:05,660] You know, without that savings, I would
+- [00:08:05,660 - 00:08:07,320] have never been able to have that choice.
+- [00:08:07,320 - 00:08:09,980] I feel like a lot of people going out to eat
+- [00:08:09,980 - 00:08:12,640] or going on vacations, and I know that's part of life.
+- [00:08:12,640 - 00:08:16,640] But without financial stability, you lose optionality.
+- [00:08:18,840 - 00:08:20,880] So I think that's the way I would go.
+- [00:08:20,880 - 00:08:22,799] Thank you guys so much for tuning in to today's video
+- [00:08:22,799 - 00:08:24,719] and stay tuned for tons of amazing content on the way.
+- [00:08:24,719 - 00:08:27,539] We spent the last few days asking multimillionaires their advice on how
+- [00:08:27,539 - 00:08:30,359] they became rich and how you can become successful in today's world.
