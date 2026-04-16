@@ -1,0 +1,17 @@
+# Transcript
+
+Source: lazyearn/school-of-hard-knocks/entrepreneurship/124 - Multi-millionaire shares tips on how to make money in every aspect of real estate [VOkuyQR4Udo].webm
+
+- [00:00:00,000 - 00:00:03,690] So in the real estate brokerage world, when you get your
+- [00:00:03,690 - 00:00:07,380] real estate license, typically you're taught to just do one thing.
+- [00:00:07,480 - 00:00:10,230] You're taught to just be a listing agent. You're taught to
+- [00:00:10,230 - 00:00:12,980] just do residential. You're taught to just be a buyer's agent.
+- [00:00:13,100 - 00:00:16,270] You're taught to only do commercial, to not do residential,
+- [00:00:16,270 - 00:00:19,440] to not worry about investing in real estate, to not wholesale.
+- [00:00:20,100 - 00:00:23,680] And so what we call everybody with us here at TRE is
+- [00:00:23,680 - 00:00:27,260] entrepreneurs, because we feel that you should be a true real estate professional
+- [00:00:27,260 - 00:00:30,740] and not just limit yourself to one thing, right?
+- [00:00:30,800 - 00:00:33,930] Because if the market shifts, if you don't know how to do this or that, then
+- [00:00:33,930 - 00:00:37,060] you're going to be limited in how much money you can make and how successful you'll be.
+- [00:00:37,420 - 00:00:40,710] So we teach all of our entrepreneurs how to make money in and
+- [00:00:40,710 - 00:00:44,000] on real estate and how to make money in every aspect of real estate.
