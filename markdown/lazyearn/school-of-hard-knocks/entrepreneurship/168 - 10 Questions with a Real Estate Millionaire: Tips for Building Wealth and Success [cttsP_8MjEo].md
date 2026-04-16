@@ -1,0 +1,356 @@
+# Transcript
+
+Source: lazyearn/school-of-hard-knocks/hard-knocks-interviews/138 - 10 Questions with a Real Estate Millionaire： Tips for Building Wealth and Success [cttsP_8MjEo].mkv
+
+- [00:00:00,000 - 00:00:02,320] This first guy that I met, local guy,
+- [00:00:02,320 - 00:00:04,640] he gets a $200,000 check while I'm sitting there.
+- [00:00:04,780 - 00:00:06,790] Flips it around, he says, hey, you'll get there
+- [00:00:06,790 - 00:00:08,800] one day. My mind was just blown. I was actually
+- [00:00:08,800 - 00:00:11,160] working at Papa John's delivering pizza. And
+- [00:00:11,160 - 00:00:13,520] I literally remember getting that first call while
+- [00:00:13,520 - 00:00:16,440] I was straight up mopping the floor. Dropped the
+- [00:00:16,440 - 00:00:19,360] mop, take the call, ended up closing. I made $7,000.
+- [00:00:19,740 - 00:00:21,680] Welcome back, guys, to another episode of
+- [00:00:21,680 - 00:00:23,620] 10 Questions with Millionaires. I'm sitting here
+- [00:00:23,620 - 00:00:26,270] with Matt Teifke, owner of Teifke Real Estate. Him
+- [00:00:26,270 - 00:00:28,920] and his partners have a goal to make the most
+- [00:00:28,920 - 00:00:30,660] entrepreneurial real estate brokerage on the
+- [00:00:30,660 - 00:00:32,400] planet. Thanks for coming on, Matt.
+- [00:00:32,500 - 00:00:34,390] Yeah, man. Thanks for the intro. I'm really excited
+- [00:00:34,390 - 00:00:36,280] to be here. I love seeing what you guys do.
+- [00:00:36,740 - 00:00:38,610] And that's right. That is the goal.
+- [00:00:38,610 - 00:00:40,480] We're very driven and motivated by that and
+- [00:00:40,480 - 00:00:42,760] couldn't be more excited about the future.
+- [00:00:43,180 - 00:00:45,080] I love it. I love it. And if you
+- [00:00:45,080 - 00:00:46,980] wouldn't mind, just give us a little introduction to yourself,
+- [00:00:47,140 - 00:00:49,240] maybe a little bit of your story, where you're
+- [00:00:49,240 - 00:00:51,340] from and what you kind of do on a day-to-day
+- [00:00:51,340 - 00:00:53,680] and what brought us to this moment here.
+- [00:00:53,720 - 00:00:55,150] Yeah, man. Absolutely. So born
+- [00:00:55,150 - 00:00:56,580] in Cleveland, Ohio, right here.
+- [00:00:57,060 - 00:00:58,900] Moved to Austin when I was two and a half.
+- [00:00:58,920 - 00:01:01,400] Two and a half years old and grew up
+- [00:01:01,400 - 00:01:03,880] single mom, brother, who ended up going to the Marines.
+- [00:01:04,099 - 00:01:06,269] My mom really inspired me on showing what's
+- [00:01:06,269 - 00:01:08,440] possible with real estate. So I got started
+- [00:01:08,440 - 00:01:11,830] at 17 years old. I went to Texas A&M
+- [00:01:11,830 - 00:01:15,220] Corpus Christi, Islanders, baby. And that was a great
+- [00:01:15,220 - 00:01:17,520] experience. I got my license when I was 17 years
+- [00:01:17,520 - 00:01:19,820] old and I started at a mom and pop brokerage.
+- [00:01:20,240 - 00:01:22,840] First one in, last one out, just hustling, man. I
+- [00:01:22,840 - 00:01:25,440] got rookie of the year. I was a full-time student.
+- [00:01:25,700 - 00:01:26,860] I was going to class
+- [00:01:26,860 - 00:01:28,020] and could care less about class.
+- [00:01:28,920 - 00:01:31,330] Wait to get out and do some deals.
+- [00:01:31,330 - 00:01:33,740] So that was great. Had a mentor, graduated,
+- [00:01:34,040 - 00:01:35,890] worked for a commercial brokerage in Round
+- [00:01:35,890 - 00:01:37,740] Rock until I got accepted to Texas A&M.
+- [00:01:38,320 - 00:01:40,110] And I went and got my master's degree
+- [00:01:40,110 - 00:01:41,900] in real estate, which was all financial based.
+- [00:01:42,400 - 00:01:43,980] Worked at an apartment, got an appraisal
+- [00:01:43,980 - 00:01:45,560] license. And I always wanted to learn as
+- [00:01:45,560 - 00:01:47,470] much as possible about real estate and then
+- [00:01:47,470 - 00:01:49,380] figure out how do I own real estate.
+- [00:01:50,200 - 00:01:51,830] Started a company right when
+- [00:01:51,830 - 00:01:53,460] I graduated school with my wife.
+- [00:01:53,460 - 00:01:55,490] We built up to 700 doors
+- [00:01:55,490 - 00:01:57,520] that we were managing, third-party management.
+- [00:01:57,520 - 00:02:00,060] We ended up selling that company two years ago
+- [00:02:00,060 - 00:02:02,600] and then teamed up with a longtime childhood friend,
+- [00:02:02,600 - 00:02:05,800] Alex Kaufman, AKA Coffee Black, true
+- [00:02:05,800 - 00:02:09,000] brother. And we built an entrepreneurial brokerage.
+- [00:02:09,199 - 00:02:11,159] That's amazing. You got a lot going on. And I
+- [00:02:11,159 - 00:02:13,120] heard that you mentioned that you did go to college.
+- [00:02:13,620 - 00:02:15,599] I do want to ask, do you think
+- [00:02:15,599 - 00:02:17,579] that that experience of going to college has
+- [00:02:17,579 - 00:02:19,879] been transferable in your skills today as owning
+- [00:02:19,879 - 00:02:22,180] a real estate brokerage and going out and finding
+- [00:02:22,180 - 00:02:24,550] deals? And in addition to that, do
+- [00:02:24,550 - 00:02:26,920] you think that that is necessary for success?
+- [00:02:27,520 - 00:02:28,320] In society?
+- [00:02:28,820 - 00:02:31,700] Necessary? No. It is what you make it. Just like
+- [00:02:31,700 - 00:02:34,580] anything, right? And so I teach a class now in
+- [00:02:34,580 - 00:02:36,940] college, which is really cool. But I told the
+- [00:02:36,940 - 00:02:39,300] students yesterday, hey, all of you guys in this
+- [00:02:39,300 - 00:02:42,160] room right now have a lot of ways to help
+- [00:02:42,160 - 00:02:45,020] each other out. And most people just don't go all in
+- [00:02:45,020 - 00:02:48,400] on that, right? Like you got 10 students there
+- [00:02:48,400 - 00:02:51,780] that are all interested in business. What can you 10
+- [00:02:51,780 - 00:02:53,880] people do together for the rest of your life? So
+- [00:02:53,880 - 00:02:55,980] many things. But most people maybe just show up to
+- [00:02:55,980 - 00:02:56,680] class and leave.
+- [00:02:56,680 - 00:02:57,140] Yeah.
+- [00:02:57,520 - 00:02:58,860] So it is what you make it.
+- [00:02:59,020 - 00:03:00,960] Yeah, that's great. And I do want to take
+- [00:03:00,960 - 00:03:02,900] back, you had mentioned earlier in kind of your intro,
+- [00:03:03,040 - 00:03:04,720] kind of how you got started in real estate.
+- [00:03:04,720 - 00:03:06,400] Maybe take us back there, dive a little bit
+- [00:03:06,400 - 00:03:08,320] more in the details of how you kind of
+- [00:03:08,320 - 00:03:10,240] got linked up into your first involvement in real estate.
+- [00:03:10,560 - 00:03:12,690] And also, what was your first deal or maybe not
+- [00:03:12,690 - 00:03:14,820] even first deal, but the first way that you made
+- [00:03:14,820 - 00:03:16,060] money in real estate?
+- [00:03:16,260 - 00:03:19,440] What I didn't realize at the time was
+- [00:03:19,440 - 00:03:22,620] almost every brokerage wants new agents, right? So I
+- [00:03:23,240 - 00:03:25,370] set up my interviews. I had a place
+- [00:03:25,370 - 00:03:27,500] called Guarandine. I had Kelly Williams. I had,
+- [00:03:27,520 - 00:03:30,290] I had Coldwell Bankers. I show up in a
+- [00:03:30,290 - 00:03:33,060] suit and tie. I'm interviewing because I want this job,
+- [00:03:33,060 - 00:03:36,020] right? It's the other way around. But I didn't
+- [00:03:36,020 - 00:03:38,980] know that. Like the brokers want you, but I'm like
+- [00:03:38,980 - 00:03:41,810] hoping that they'll give me the job, right? So I
+- [00:03:41,810 - 00:03:44,640] go and I'm not kidding. This first guy that I met,
+- [00:03:44,740 - 00:03:47,420] local guy, he just passed away a week and a
+- [00:03:47,420 - 00:03:50,100] half ago. He gets a $200,000 check while I'm sitting
+- [00:03:50,100 - 00:03:52,540] there. And like she brings it into him and
+- [00:03:52,540 - 00:03:54,980] he flips it around. He says, hey, you'll get there
+- [00:03:54,980 - 00:03:57,360] one day. My mind was just blown, right?
+- [00:03:57,520 - 00:03:58,980] Oh, that's so motivating.
+- [00:03:59,200 - 00:04:02,580] Dude. And he's like, you'll get there one day. So
+- [00:04:02,580 - 00:04:05,960] he said, you got the job. And I canceled the
+- [00:04:05,960 - 00:04:08,820] other interviews. You know, I just was like, hell yeah,
+- [00:04:08,820 - 00:04:11,680] I got the job. Let's go. And that's when I
+- [00:04:11,680 - 00:04:15,210] took that opportunity. And I was actually working
+- [00:04:15,210 - 00:04:18,740] at Papa John delivering pizza while I was working
+- [00:04:18,740 - 00:04:20,880] at the brokerage because I needed to make
+- [00:04:20,880 - 00:04:23,020] money. Right. And I literally remember getting that first
+- [00:04:23,020 - 00:04:25,620] call while I was straight up mopping the floor. Wow.
+- [00:04:25,900 - 00:04:27,460] Drop the mop, take the call.
+- [00:04:27,700 - 00:04:30,860] Ended up closing. I made $7,000 or $6,000. And it
+- [00:04:30,860 - 00:04:34,020] blew my mind because at the time I was getting,
+- [00:04:34,020 - 00:04:35,280] you know, $600 checks.
+- [00:04:35,419 - 00:04:36,669] I was going to say that's got to
+- [00:04:36,669 - 00:04:37,919] be way more than what you were bringing in.
+- [00:04:38,099 - 00:04:40,559] Way more. I've never seen a check like that,
+- [00:04:40,559 - 00:04:43,020] right? Even growing up, maybe full time I'd get
+- [00:04:43,020 - 00:04:45,999] like $1,500 or $2,000, right? And so $6,000 one
+- [00:04:45,999 - 00:04:48,979] time going to the bank, it blew my mind.
+- [00:04:49,479 - 00:04:50,180] And I was hooked.
+- [00:04:50,400 - 00:04:52,849] That was your start. And then now you own
+- [00:04:52,849 - 00:04:55,299] a real estate brokerage. How does that process look like
+- [00:04:55,299 - 00:04:57,500] once you're an agent trying to then move forward?
+- [00:04:57,520 - 00:04:58,990] How does that process move up to own a
+- [00:04:58,990 - 00:05:00,460] brokerage? That kind of transition? I know there's two
+- [00:05:00,460 - 00:05:02,650] different licenses. Could you kind of break that down?
+- [00:05:02,650 - 00:05:04,840] And how is that more specialized to you and
+- [00:05:04,840 - 00:05:07,439] your process in doing that? So every agent has to
+- [00:05:07,439 - 00:05:10,039] have a broker. You can't get in the real estate
+- [00:05:10,039 - 00:05:12,799] business as a licensed agent without having a broker.
+- [00:05:12,799 - 00:05:15,560] When I first got started, it was two years
+- [00:05:15,560 - 00:05:17,850] and a certain amount of sales to get your
+- [00:05:17,850 - 00:05:20,140] broker's license. So two years of experience as a sales
+- [00:05:20,140 - 00:05:22,760] person. Literally right before I got to the two
+- [00:05:22,760 - 00:05:25,380] year mark, they switched it to four. I'm like,
+- [00:05:25,380 - 00:05:26,799] oh gosh, two more years.
+- [00:05:26,800 - 00:05:29,220] So now it's four years. You have to have
+- [00:05:29,220 - 00:05:31,640] a certain amount of transactions. There's a point system to
+- [00:05:31,640 - 00:05:34,480] get up to, I believe, 900 points. Then
+- [00:05:34,480 - 00:05:37,320] you have to have certain qualifications from real estate
+- [00:05:37,320 - 00:05:40,750] classes. And college degree and the master's
+- [00:05:40,750 - 00:05:44,180] degree satisfied all those credit hours. And I
+- [00:05:44,180 - 00:05:46,850] had the amount of transactions needed, took the
+- [00:05:46,850 - 00:05:49,520] test, got licensed. And then you become the one
+- [00:05:49,520 - 00:05:52,180] that's responsible, that's on the hook, that
+- [00:05:52,180 - 00:05:54,840] trains, that's there to support the agents.
+- [00:05:55,100 - 00:05:56,780] And then there's a split structure.
+- [00:05:56,800 - 00:06:00,490] We do 90-10. So agent, you close the deal, you
+- [00:06:00,490 - 00:06:04,180] keep 90%, we take 10. My first brokerage, I was 50-50.
+- [00:06:04,180 - 00:06:05,530] What is the hardest part
+- [00:06:05,530 - 00:06:06,880] about owning a real estate brokerage?
+- [00:06:06,880 - 00:06:09,880] One of the hardest parts is when you're trying
+- [00:06:09,880 - 00:06:12,880] to lead the team. I've got challenges just like
+- [00:06:12,880 - 00:06:16,150] everybody else, right? And you kind of got to not
+- [00:06:16,150 - 00:06:19,420] worry about that and not let it show. So you've
+- [00:06:19,420 - 00:06:22,630] got to be a leader when deals are
+- [00:06:22,630 - 00:06:25,840] falling apart, when you got lawsuits, when you're getting
+- [00:06:25,840 - 00:06:26,310] complaints, when you're getting a lot of complaints,
+- [00:06:26,310 - 00:06:26,780] when you're getting a lot of complaints, when you're
+- [00:06:26,780 - 00:06:29,590] getting complaints to track, and you got to show
+- [00:06:29,590 - 00:06:32,400] up and still lead every day when you might be
+- [00:06:32,400 - 00:06:35,159] battling with some stuff, which we are all the
+- [00:06:35,159 - 00:06:37,919] time. And so separating the two is not something
+- [00:06:37,919 - 00:06:40,389] that you can really do. You got to just
+- [00:06:40,389 - 00:06:42,859] live through it and lead and show what's possible
+- [00:06:42,859 - 00:06:45,509] and be there to support people. You are a
+- [00:06:45,509 - 00:06:48,159] co-owner. You do have a partner, Alex, that we've
+- [00:06:48,159 - 00:06:50,249] met and we're going to be interviewing him later.
+- [00:06:50,249 - 00:06:52,340] What is it like working in that partnership? And
+- [00:06:52,340 - 00:06:53,819] what are the qualities that you look
+- [00:06:53,819 - 00:06:55,299] for when trying to find a business partner?
+- [00:06:56,780 - 00:06:59,640] One in 20 partnerships work out, if that. Alex
+- [00:06:59,640 - 00:07:02,500] and I grew up together. He doesn't talk about it
+- [00:07:02,500 - 00:07:05,179] that often, so I have to do that for him
+- [00:07:05,179 - 00:07:07,859] in some sense. But age 20 years old, full-blown heroin
+- [00:07:07,859 - 00:07:10,319] addict and in jail. I mean, straight up. Not
+- [00:07:10,319 - 00:07:12,780] somebody that I wanted to associate myself or be
+- [00:07:12,780 - 00:07:14,909] around, right? Because when you're on heroin and
+- [00:07:14,909 - 00:07:17,039] stuff like that, I mean, who knows what you're
+- [00:07:17,039 - 00:07:20,309] doing? We started working together after he had gotten
+- [00:07:20,309 - 00:07:23,580] sober. Still had my guard up a little bit.
+- [00:07:23,580 - 00:07:25,099] I knew him since he was like
+- [00:07:25,099 - 00:07:26,619] six years old, right? He's my brother's
+- [00:07:26,780 - 00:07:29,349] best friend. Always a hustler, always making money. Just
+- [00:07:29,349 - 00:07:31,919] got on this bad path for a little bit.
+- [00:07:32,580 - 00:07:34,899] And what I would do is say, Alex, you want
+- [00:07:34,899 - 00:07:37,219] to team up? Go knock on these doors. And I'd give
+- [00:07:37,219 - 00:07:39,659] him 10 doors and he'd go knock 100. And I'd
+- [00:07:39,659 - 00:07:42,099] say, hey, go call these people. He'd go call 10 times
+- [00:07:42,099 - 00:07:44,279] the amount of people. So over two, three years,
+- [00:07:44,279 - 00:07:46,460] we ended up having four or five properties that
+- [00:07:46,460 - 00:07:49,349] we owned together. And then I realized this
+- [00:07:49,349 - 00:07:52,239] guy's shaking that. He is stone cold sober,
+- [00:07:52,500 - 00:07:56,119] up at 4 a.m., pray, meditate, work out.
+- [00:07:56,780 - 00:07:58,990] He's extremely driven and sharp and realizes that
+- [00:07:58,990 - 00:08:01,200] he has an opportunity to do something totally
+- [00:08:01,200 - 00:08:03,809] different than where he was, which was working
+- [00:08:03,809 - 00:08:06,419] at Firehouse Sub, riding his bike to work,
+- [00:08:06,799 - 00:08:08,879] making minimum wage, literally living on pennies.
+- [00:08:08,879 - 00:08:10,960] He knows how to live on pennies.
+- [00:08:11,080 - 00:08:14,080] Wow. Straight up. So we teamed up and man,
+- [00:08:14,159 - 00:08:16,999] it has been beautiful. We've divided the roles
+- [00:08:16,999 - 00:08:19,840] where he's the operations guy. He counts the money.
+- [00:08:20,239 - 00:08:22,279] He makes sure we're profitable. He hires
+- [00:08:22,279 - 00:08:24,320] everybody. He fires someone if we have to.
+- [00:08:24,619 - 00:08:25,689] And I'm out there living what I've been doing for
+- [00:08:25,689 - 00:08:26,760] a long time. And I'm out there living what I've been
+- [00:08:26,780 - 00:08:26,810] doing for a long time. And I'm out there living what
+- [00:08:26,810 - 00:08:26,840] I've been doing for a long time. And I'm out there
+- [00:08:26,840 - 00:08:27,060] living what I've been doing for a long time. And
+- [00:08:27,060 - 00:08:27,280] I'm out there living what I've been doing for a long
+- [00:08:27,280 - 00:08:27,530] time. And I'm out there living what I've been doing
+- [00:08:27,530 - 00:08:27,780] for a long time. And I'm out there living what I
+- [00:08:27,780 - 00:08:29,759] believe is my best role, which
+- [00:08:29,759 - 00:08:31,739] is networking, building relationships, talking to people,
+- [00:08:31,840 - 00:08:33,799] drumming up new ideas. So we operate our
+- [00:08:33,799 - 00:08:35,760] business on a thing called traction. And he's the
+- [00:08:35,760 - 00:08:38,109] implementer and I'm the visionary in a
+- [00:08:38,109 - 00:08:40,459] sense. What's the best and worst financial decision
+- [00:08:40,459 - 00:08:43,019] you've ever made, if you're comfortable sharing that?
+- [00:08:43,019 - 00:08:45,579] And then also within that, what was your
+- [00:08:45,579 - 00:08:47,319] biggest deal that you've done? I know that's a lot
+- [00:08:47,319 - 00:08:49,060] of questions, but I'll take it. Tell me if I
+- [00:08:49,060 - 00:08:52,290] missed one, but biggest
+- [00:08:52,290 - 00:08:55,520] deal, $700,000, $780,000 wholesale fee.
+- [00:08:55,520 - 00:08:58,200] Oh my God. So we made that at one time
+- [00:08:58,200 - 00:09:00,880] between three partners. And it's great. It's a lot of
+- [00:09:00,880 - 00:09:02,440] money. And for those of you that don't
+- [00:09:02,440 - 00:09:04,000] know wholesaling, could you just explain that just
+- [00:09:04,000 - 00:09:06,240] really quickly? Put a property under contract. The
+- [00:09:06,240 - 00:09:08,480] lady hates brokers. Take off the broker hat.
+- [00:09:08,579 - 00:09:11,949] We're investors. $2 million. We had a 3% commission
+- [00:09:11,949 - 00:09:15,319] going to ourselves. And then we put it under
+- [00:09:15,319 - 00:09:17,809] contract. We put up the earnest money and option
+- [00:09:17,809 - 00:09:20,300] money, you know, 20 grand. We have control of this
+- [00:09:20,300 - 00:09:22,820] piece of paper, which is actual ownership.
+- [00:09:22,820 - 00:09:25,340] It's an ownership of the property. We started
+- [00:09:25,340 - 00:09:27,650] calling builders, developers, everyone we could think of
+- [00:09:27,650 - 00:09:29,960] to see if they were interested in this
+- [00:09:29,960 - 00:09:32,070] property. It's nine and a half acres in Round
+- [00:09:32,070 - 00:09:34,180] Rock. We're also sitting there like, we want to
+- [00:09:34,180 - 00:09:36,520] buy this. We want to own this property. It's
+- [00:09:36,520 - 00:09:38,860] a commercial property. Ended up getting an offer at
+- [00:09:38,860 - 00:09:42,850] 2.7. And it just, it wasn't real to me that
+- [00:09:42,850 - 00:09:46,840] like we were going to make this money at closing. Like
+- [00:09:46,840 - 00:09:49,900] I just didn't believe it. Closed it, made
+- [00:09:49,900 - 00:09:52,960] the 700K, made the 3% commission, split it between
+- [00:09:52,960 - 00:09:54,140] three partners, paid a huge tax on it. And then we
+- [00:09:54,140 - 00:09:55,320] had to go to a different place. And we had to
+- [00:09:55,340 - 00:09:55,590] go to a different place. And we had to go to
+- [00:09:55,590 - 00:09:55,840] a different place. And we had to go to a different place.
+- [00:09:55,840 - 00:09:58,370] Right. So it's not nearly as much as it seems,
+- [00:09:58,370 - 00:10:00,900] but it was a really big deal. And we just transferred
+- [00:10:00,900 - 00:10:03,540] the contract, utilize one skill set and one
+- [00:10:03,540 - 00:10:06,180] tool of real estate. That was the biggest deal.
+- [00:10:06,180 - 00:10:07,880] I do want to circle
+- [00:10:07,880 - 00:10:09,580] back. Best and worst financial decisions.
+- [00:10:09,800 - 00:10:12,440] Yeah. So, and then you also have properties.
+- [00:10:12,440 - 00:10:15,080] I think we have maybe 130 properties. Worst
+- [00:10:15,080 - 00:10:19,410] decision. And that is as of today is
+- [00:10:19,410 - 00:10:23,740] cannabis stock. Wow. Down multiple million on it.
+- [00:10:24,120 - 00:10:25,320] Do you know, was there like a specific?
+- [00:10:25,340 - 00:10:27,960] One or was it just the industry in general?
+- [00:10:28,200 - 00:10:31,020] In general, they're all down. But I have a company
+- [00:10:31,020 - 00:10:33,840] called Acreage and I still believe in it. And I'm
+- [00:10:33,840 - 00:10:35,790] really hoping, cause it's, that's been one of
+- [00:10:35,790 - 00:10:37,740] my struggles, right? It's like that, that thing going
+- [00:10:37,740 - 00:10:40,210] down. I don't talk about it often, but just
+- [00:10:40,210 - 00:10:42,680] full disclosure. I mean, it goes down 60K, 100K, like
+- [00:10:42,680 - 00:10:46,010] daily. Daily. Wow. And it's only been down. So
+- [00:10:46,010 - 00:10:49,340] that's been very hard to deal with, but I believe
+- [00:10:49,340 - 00:10:52,320] in the industry. I believe in that
+- [00:10:52,320 - 00:10:55,300] company. They're doing $67 million last quarter in
+- [00:10:55,300 - 00:10:58,170] revenue and the company's valued at 40 million.
+- [00:10:58,170 - 00:11:01,040] So it's just, it's just, you know, we're just
+- [00:11:01,040 - 00:11:03,800] early is how I view it. But I'm one
+- [00:11:03,800 - 00:11:06,560] of the largest shareholders. No way. Yeah. I mean,
+- [00:11:06,579 - 00:11:08,279] that's pretty cool. Yeah. It's pretty crazy.
+- [00:11:08,279 - 00:11:09,979] So hopefully that works out, but that's been
+- [00:11:09,979 - 00:11:13,739] very, very tough. And then best, best
+- [00:11:13,739 - 00:11:17,500] decision was partnering with Alex by far. Partner,
+- [00:11:17,699 - 00:11:20,269] finding the right partner to go try to accomplish
+- [00:11:20,269 - 00:11:22,839] a very, very clear goal that we're very driven on.
+- [00:11:22,959 - 00:11:24,079] Tell me the craziest real
+- [00:11:24,079 - 00:11:25,199] estate story that you've ever heard.
+- [00:11:25,200 - 00:11:26,720] You've experienced. The craziest thing I can think
+- [00:11:26,720 - 00:11:28,240] of, it has to do with my wife
+- [00:11:28,240 - 00:11:31,700] being pregnant and going to somebody's house on a
+- [00:11:31,700 - 00:11:35,160] property that we manage and the lady coming out
+- [00:11:35,160 - 00:11:37,730] and chasing her with a stick and her dog
+- [00:11:37,730 - 00:11:40,300] and she's running around pregnant. You know, I mean,
+- [00:11:40,300 - 00:11:42,690] that's like the craziest one. Cause that's just
+- [00:11:42,690 - 00:11:45,080] bizarre. But the thing about it is every day,
+- [00:11:45,080 - 00:11:47,320] there's something crazy. And then we just think
+- [00:11:47,320 - 00:11:49,560] it's normal. We're like, yeah, you know, that was,
+- [00:11:49,660 - 00:11:51,100] that was an interesting day. But when you
+- [00:11:51,100 - 00:11:52,540] stop and think about it, you're like, wow,
+- [00:11:52,660 - 00:11:53,920] we just met this guy at
+- [00:11:53,920 - 00:11:55,180] an RV park and we walked around.
+- [00:11:55,200 - 00:11:57,230] And sat down and had a beer and
+- [00:11:57,230 - 00:11:59,260] negotiated the deal. I was just like, you know,
+- [00:11:59,300 - 00:12:01,230] it just happened two weeks ago. Very spontaneous.
+- [00:12:01,230 - 00:12:03,160] Yeah. I'm like, that's very unique. That's pretty
+- [00:12:03,160 - 00:12:05,660] cool. So it's always something. Final question that I
+- [00:12:05,660 - 00:12:08,160] do want to just wrap up with is, you know,
+- [00:12:08,980 - 00:12:11,720] you are, you are, you know, fairly young. So what
+- [00:12:11,720 - 00:12:14,460] do you see for the next 10 years for yourself
+- [00:12:14,460 - 00:12:17,120] and what keeps you motivated to keep going?
+- [00:12:17,120 - 00:12:19,780] I'm just driven, just like being around my mom,
+- [00:12:19,780 - 00:12:22,460] I guess, you know, she was 24 seven. So a
+- [00:12:22,460 - 00:12:25,140] lot of that wore off on me, but there's no other
+- [00:12:25,200 - 00:12:28,490] path. I feel very, very blessed to have a
+- [00:12:28,490 - 00:12:31,780] clear vision. Like we know where we're trying to go
+- [00:12:31,780 - 00:12:34,000] and whether we do that or not. The one thing
+- [00:12:34,000 - 00:12:36,220] I'll be proud of is to know that we tried
+- [00:12:36,220 - 00:12:38,360] just having a clear goal. I'm a big believer that
+- [00:12:38,360 - 00:12:40,500] you got to have goals in life. If you don't have
+- [00:12:40,500 - 00:12:42,360] any kind of goal, like you can't be
+- [00:12:42,360 - 00:12:44,220] happy, like something that you're pushing towards and making
+- [00:12:44,220 - 00:12:46,750] progress to. And I'm not always, I'm not always
+- [00:12:46,750 - 00:12:49,280] on fire, but for the most part, like, man, I'm,
+- [00:12:49,520 - 00:12:51,710] I'm very clear on what we're trying to do. And
+- [00:12:51,710 - 00:12:53,900] it gets proven every day by agents that are with us
+- [00:12:53,900 - 00:12:55,040] that say, thank you.
+- [00:12:55,200 - 00:12:57,930] This changed my life. And I mean, daily,
+- [00:12:57,930 - 00:13:00,660] like really, really detailed and passionate text. And
+- [00:13:00,660 - 00:13:03,650] so that is what keeps us going. That's amazing.
+- [00:13:03,650 - 00:13:06,640] Well, that's going to wrap it up for 10 questions.
+- [00:13:06,860 - 00:13:08,900] Thank you so much, Matt. If you want to just
+- [00:13:08,900 - 00:13:10,940] real quick, how can people find your stuff? How can
+- [00:13:10,940 - 00:13:13,200] they find your, your guys' profiles and maybe even
+- [00:13:13,200 - 00:13:15,460] send you a DM, get started in real estate.
+- [00:13:15,720 - 00:13:18,610] Easy, man. We're the easiest ever.
+- [00:13:18,610 - 00:13:21,500] Every platform, TikTok, Instagram, Facebook, YouTube,
+- [00:13:21,500 - 00:13:24,380] follow us. Matt Teifeke at Gmail,
+- [00:13:24,380 - 00:13:27,180] teifekerealestate.com, cell phone number
+- [00:13:27,180 - 00:13:29,980] 512-914-4806. We're easy, man.
+- [00:13:30,340 - 00:13:30,740] Two times.
+- [00:13:30,900 - 00:13:33,840] Yeah. 512-914-4806.
+- [00:13:34,040 - 00:13:34,870] He taught me that. Always
+- [00:13:34,870 - 00:13:35,700] say the phone number two times.
+- [00:13:35,700 - 00:13:37,540] I love that you said that, man. I always
+- [00:13:37,540 - 00:13:39,380] do it too. I always do that, but yeah.
+- [00:13:39,700 - 00:13:41,400] Absolutely. Well, Matt, it's been a pleasure. Thank
+- [00:13:41,400 - 00:13:43,100] you much. Thank you so much for coming
+- [00:13:43,100 - 00:13:44,690] on 10 questions. Guys, we're going to catch you
+- [00:13:44,690 - 00:13:46,280] in the next one. We got a lot of great
+- [00:13:46,280 - 00:13:49,580] videos dropping and, and yeah, we'll see you guys soon.
