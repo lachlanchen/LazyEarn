@@ -1,0 +1,214 @@
+# Transcript
+
+Source: lazyearn/school-of-hard-knocks/entrepreneurship/167 - 7 Ways to Make a Full Time Income Traveling The World [Y3brjwOs3gA].webm
+
+- [00:00:00,000 - 00:00:03,060] There's a famous quote that says travel,
+- [00:00:03,060 - 00:00:06,120] your money will return, but your time won't.
+- [00:00:06,120 - 00:00:07,980] What if I told you that you could get
+- [00:00:07,980 - 00:00:09,840] paid thousands of dollars to travel the world today,
+- [00:00:09,840 - 00:00:11,800] we're going to talk about seven ways that you can
+- [00:00:11,800 - 00:00:13,760] earn money no matter where you are in the world.
+- [00:00:13,760 - 00:00:15,680] Before getting into today's video, I just want to
+- [00:00:15,680 - 00:00:17,600] say thank you for joining us with another video
+- [00:00:17,600 - 00:00:19,800] at the school of hard knocks. If you enjoy this
+- [00:00:19,800 - 00:00:22,000] video, make sure you leave us a like and subscribe
+- [00:00:22,000 - 00:00:24,080] because we've got a ton of more content coming
+- [00:00:24,080 - 00:00:26,160] your guys's way. Make sure if you aren't already
+- [00:00:26,160 - 00:00:28,240] give us a follow on TikTok, Instagram,
+- [00:00:28,240 - 00:00:30,320] and Facebook, but without further ado, starting with
+- [00:00:30,320 - 00:00:32,600] number one, freelancing online. Now I know a lot
+- [00:00:32,600 - 00:00:34,880] of you guys may be familiar with freelancing from
+- [00:00:34,880 - 00:00:37,920] Fiverr or Upwork or other platforms where you can
+- [00:00:37,920 - 00:00:40,960] pretty much sell your services to a customer who
+- [00:00:40,960 - 00:00:43,200] is in need of your service. In this case,
+- [00:00:43,200 - 00:00:45,440] whether it's digital marketing, if you know how to run
+- [00:00:45,440 - 00:00:47,960] ads, if you know how to run social
+- [00:00:47,960 - 00:00:50,480] media, social media management, running Google, running Facebook
+- [00:00:50,480 - 00:00:53,200] ads, creating content for people, creating statics,
+- [00:00:53,200 - 00:00:55,920] creating static posts, freelancing online is a
+- [00:00:55,920 - 00:00:56,030] great way to get started. If you're new to the
+- [00:00:56,030 - 00:00:56,140] field, I want to say thank you so much for joining
+- [00:00:56,140 - 00:00:56,390] me today. I'm going to be talking about the
+- [00:00:56,390 - 00:00:56,640] first two things that I want to talk about today.
+- [00:00:56,640 - 00:00:57,780] First, freelancing online is a great way to make
+- [00:00:57,780 - 00:00:58,920] money remote no matter where you are in the world.
+- [00:00:58,920 - 00:01:00,660] If you, if you have good writing skills, you
+- [00:01:00,660 - 00:01:02,400] could be a freelance writer. You could be a graphic
+- [00:01:02,400 - 00:01:04,920] designer, even helping people edit photography,
+- [00:01:04,920 - 00:01:07,440] edit YouTube videos, edit TikToks. There's really
+- [00:01:07,440 - 00:01:09,500] no limit on the types of services that you
+- [00:01:09,500 - 00:01:11,560] can sell on some of these platforms. So freelancing
+- [00:01:11,560 - 00:01:13,920] online is a great way to make money no matter
+- [00:01:13,920 - 00:01:16,280] where you are in the world. The second one is a
+- [00:01:16,280 - 00:01:18,020] fun one, but if you're trying to get out of
+- [00:01:18,020 - 00:01:19,760] your country and you want to really see the world,
+- [00:01:19,760 - 00:01:21,940] you can work in the hospitality industry, whether that's
+- [00:01:21,940 - 00:01:24,120] on a cruise ship, you're part of the yacht
+- [00:01:24,120 - 00:01:24,660] crew on someone's boat going from Miami to the
+- [00:01:24,660 - 00:01:25,200] United States, you can work on a cruise ship,
+- [00:01:25,200 - 00:01:25,210] you can work on a cruise ship, you can work
+- [00:01:25,210 - 00:01:25,220] on a cruise ship, you can work on a cruise ship,
+- [00:01:25,220 - 00:01:25,280] you can work on a cruise ship, you can work
+- [00:01:25,280 - 00:01:25,340] on a cruise ship, you can work on a cruise ship,
+- [00:01:25,340 - 00:01:27,240] going from Miami to the Virgin Islands. You
+- [00:01:27,240 - 00:01:29,140] could be a flight attendant. You can travel
+- [00:01:29,140 - 00:01:30,980] international. If you have a desire to go
+- [00:01:30,980 - 00:01:32,820] to Europe, you could become an international flight
+- [00:01:32,820 - 00:01:34,820] attendant and see all of the countries in Europe
+- [00:01:34,820 - 00:01:36,820] that you've been wanting to see. Because a lot of,
+- [00:01:36,820 - 00:01:38,520] a lot of these gigs, you're able to travel
+- [00:01:38,520 - 00:01:40,220] to these places and you spend a certain amount of
+- [00:01:40,220 - 00:01:42,580] time there all for free. And all that air travel is
+- [00:01:42,580 - 00:01:44,940] for free. You could also work at a resort or an
+- [00:01:44,940 - 00:01:47,220] international hotel. So if you say, Hey, you know, I'm,
+- [00:01:47,220 - 00:01:49,500] I'm tired of living in the States. I want to
+- [00:01:49,500 - 00:01:51,410] go work in the Bahamas. I want to go live in
+- [00:01:51,410 - 00:01:53,320] the Bahamas. You could go work at a resort in, at
+- [00:01:53,320 - 00:01:56,040] Atlantis in the Bahamas or various other countries,
+- [00:01:56,040 - 00:01:58,760] islands, wherever your heart's desire is to go and
+- [00:01:58,760 - 00:02:02,060] work and live. You know, working in hospitality is
+- [00:02:02,060 - 00:02:05,360] a great first step to getting to that point and
+- [00:02:05,360 - 00:02:07,460] being able to work there. The third way we have
+- [00:02:07,460 - 00:02:09,560] to make money anywhere in the world. The third way
+- [00:02:09,560 - 00:02:11,920] that we have to earn money anywhere in the world
+- [00:02:11,920 - 00:02:14,280] is to start an e-commerce brand. Now in this case,
+- [00:02:14,280 - 00:02:16,280] you find a product, whether that's through drop
+- [00:02:16,280 - 00:02:18,280] shipping or with a manufacturer that you know,
+- [00:02:18,280 - 00:02:18,880] and you come up with a product that you're
+- [00:02:18,880 - 00:02:19,480] willing to sell. And you can do that with a
+- [00:02:19,480 - 00:02:22,520] details behind the deal. For example, let's say
+- [00:02:22,520 - 00:02:25,560] it's t-shirts. You find a manufacturer that would
+- [00:02:25,560 - 00:02:28,500] sell you your product for a reasonable rate, let's
+- [00:02:28,500 - 00:02:31,440] say five, 10, 15 bucks, and you sell it for
+- [00:02:31,440 - 00:02:34,280] 2025, $30. So that way you can get that return
+- [00:02:34,280 - 00:02:37,120] on investment. Now it doesn't have to be just t-shirts.
+- [00:02:37,260 - 00:02:39,779] It can be any product. We're seeing e-commerce
+- [00:02:39,779 - 00:02:42,299] as one of the fastest growing industries in 2022.
+- [00:02:42,679 - 00:02:45,509] And that's thanks to how vast digital marketing and
+- [00:02:45,509 - 00:02:48,339] social media are in 2022. You see all the
+- [00:02:48,339 - 00:02:48,899] time people starting e-commerce. You see
+- [00:02:48,899 - 00:02:49,459] people starting e-commerce. You see people starting
+- [00:02:49,460 - 00:02:51,540] e-commerce brands through TikTok, producing that
+- [00:02:51,540 - 00:02:53,620] content, diversifying, putting it on other
+- [00:02:53,620 - 00:02:55,670] platforms and really growing these brands. Find
+- [00:02:55,670 - 00:02:57,720] a trending product, find a winning product,
+- [00:02:57,840 - 00:03:00,080] find a product that you're passionate about. Find
+- [00:03:00,080 - 00:03:02,320] a designer if you need one, get a manufacturer
+- [00:03:02,320 - 00:03:04,950] and sell that product and create that
+- [00:03:04,950 - 00:03:07,580] brand. Online platforms like Shopify are becoming more
+- [00:03:07,580 - 00:03:10,150] and more accessible and usable to people who
+- [00:03:10,150 - 00:03:12,720] want to start brands and build their own companies
+- [00:03:12,720 - 00:03:14,790] around a particular product. Once again, the great
+- [00:03:14,790 - 00:03:16,860] thing about e-commerce is once you get your store
+- [00:03:16,860 - 00:03:18,150] up and running, you find out the way that you
+- [00:03:18,150 - 00:03:19,440] want to market the product. You find out the way that
+- [00:03:19,460 - 00:03:21,310] you want to market the product, whether that's
+- [00:03:21,310 - 00:03:23,160] through running paid ads on Google or Facebook,
+- [00:03:23,540 - 00:03:26,230] TikTok, Instagram, or branded content. So creating the
+- [00:03:26,230 - 00:03:28,920] social media and producing a piece of viral
+- [00:03:28,920 - 00:03:31,130] content to help the product go viral. And once
+- [00:03:31,130 - 00:03:33,340] again, you can do this anywhere in the world.
+- [00:03:33,520 - 00:03:35,660] This next one, number four, is arguably the most
+- [00:03:35,660 - 00:03:37,800] fun way to get paid to travel. And that's becoming
+- [00:03:37,800 - 00:03:39,960] a content creator where you can get paid to
+- [00:03:39,960 - 00:03:42,120] create content for another brand or for your own personal
+- [00:03:42,120 - 00:03:44,310] brand. Now, the biggest thing about this though,
+- [00:03:44,310 - 00:03:46,500] is that it's very important to build up your
+- [00:03:46,500 - 00:03:49,180] following before leaving. Because if you just decide,
+- [00:03:49,460 - 00:03:51,160] hey, you know, I don't have a lot of money
+- [00:03:51,160 - 00:03:52,860] in the bank account, but I'm going to just start content.
+- [00:03:52,960 - 00:03:55,200] I'm going to start it out fresh and brand new
+- [00:03:55,200 - 00:03:57,440] at this new island, at this new country. There's a
+- [00:03:57,440 - 00:03:59,140] good chance that you could end up going
+- [00:03:59,140 - 00:04:00,840] broke and running out of money very quickly because
+- [00:04:00,840 - 00:04:03,290] it's important to have that base of followers. So
+- [00:04:03,290 - 00:04:05,740] that way brands will pay you a reasonable amount
+- [00:04:05,740 - 00:04:07,730] of money to promote products. And also so that you
+- [00:04:07,730 - 00:04:09,720] can get paid a good amount. So you can get
+- [00:04:09,720 - 00:04:12,180] paid a good amount of money for the content
+- [00:04:12,180 - 00:04:14,640] that you're posting. In 2022, the creator economy is
+- [00:04:14,640 - 00:04:16,660] massive. There's so many ways to get paid as
+- [00:04:16,660 - 00:04:18,680] a content creator. You could be an affiliate for a
+- [00:04:18,680 - 00:04:19,060] brand where you market the content you're posting. You
+- [00:04:19,060 - 00:04:19,440] could be an affiliate for a brand where you
+- [00:04:19,459 - 00:04:21,039] market their products and take a percentage of
+- [00:04:21,039 - 00:04:22,620] their sales. You can sell your own products,
+- [00:04:22,760 - 00:04:25,209] whether it's merchandise or, and we talked about
+- [00:04:25,209 - 00:04:27,659] e-commerce, but you can literally launch your own
+- [00:04:27,659 - 00:04:30,149] e-commerce brand as a content creator selling your
+- [00:04:30,149 - 00:04:32,640] own products. You could also take up travel blog,
+- [00:04:32,760 - 00:04:34,630] write about all your experiences and become a
+- [00:04:34,630 - 00:04:36,500] creator in that regards. And like I said,
+- [00:04:36,560 - 00:04:38,720] working with brands is huge. You can
+- [00:04:38,720 - 00:04:40,880] become a brand ambassador and some long-term ambassador
+- [00:04:40,880 - 00:04:44,060] programs will pay people 10, $20,000 just for
+- [00:04:44,060 - 00:04:47,240] a series of paid advertisements for their company
+- [00:04:47,240 - 00:04:48,840] to promote their products or service.
+- [00:04:48,840 - 00:04:50,479] Number five is another awesome
+- [00:04:50,479 - 00:04:52,119] one. And that's starting an agency.
+- [00:04:52,460 - 00:04:54,370] You know, if you've got a passion for
+- [00:04:54,370 - 00:04:56,280] photography, you've learned the ins and outs of digital
+- [00:04:56,280 - 00:04:58,409] marketing. You know how to grow on social media,
+- [00:04:58,409 - 00:05:00,539] you know how to program and you can produce code
+- [00:05:00,539 - 00:05:03,639] and written software for companies. These are all
+- [00:05:03,639 - 00:05:06,739] great ways to package your skills and, and start
+- [00:05:06,739 - 00:05:08,739] your own agency. All you need to do
+- [00:05:08,739 - 00:05:10,739] is market your skills to different brands, different companies,
+- [00:05:11,140 - 00:05:13,520] see where you can provide value for them
+- [00:05:13,520 - 00:05:15,900] and get paid anywhere around the world. Really,
+- [00:05:15,900 - 00:05:17,189] you know, if it's one
+- [00:05:17,189 - 00:05:18,479] thing, like you have to create,
+- [00:05:18,840 - 00:05:20,560] you know, content for them, then that might be an
+- [00:05:20,560 - 00:05:22,280] instance where like you have to be there for that.
+- [00:05:22,280 - 00:05:24,030] But if it's something where it could be
+- [00:05:24,030 - 00:05:25,780] remote and they just needed, you know, content strategy,
+- [00:05:25,780 - 00:05:28,080] starting an agency is a great way to get
+- [00:05:28,080 - 00:05:30,380] paid to travel the world. Number six is also really
+- [00:05:30,380 - 00:05:32,299] interesting and is a really cool way to
+- [00:05:32,299 - 00:05:34,219] earn income traveling all around the world. And it
+- [00:05:34,219 - 00:05:36,689] goes by the term of language tuition. If you
+- [00:05:36,689 - 00:05:39,159] are fluent in English and you learn the language of
+- [00:05:39,159 - 00:05:41,689] an opposing country where they may not speak English,
+- [00:05:41,689 - 00:05:44,219] you can get paid a lot of money. Also
+- [00:05:44,219 - 00:05:46,519] your relocation, you can get paid a lot
+- [00:05:46,519 - 00:05:48,820] of money to teach English in a foreign country.
+- [00:05:48,840 - 00:05:51,289] A lot of the time, there's a high demand
+- [00:05:51,289 - 00:05:53,739] for people who know English to teach to people,
+- [00:05:53,739 - 00:05:56,349] kids, adults, grownups, kids in school, teachers, oftentimes
+- [00:05:56,349 - 00:05:58,960] because of how high in demand they will
+- [00:05:58,960 - 00:06:01,469] even pay for your relocation. And they will also
+- [00:06:01,469 - 00:06:03,979] pay for you to live in that country while also
+- [00:06:03,979 - 00:06:06,759] earning income on top of that. So language
+- [00:06:06,759 - 00:06:09,539] tuition and teaching English to foreign countries is a
+- [00:06:09,539 - 00:06:11,999] great and a very unique way to earn money
+- [00:06:11,999 - 00:06:14,460] while traveling the world. And this will take us into
+- [00:06:14,460 - 00:06:15,650] our last way to make money in 2022 from anywhere
+- [00:06:15,650 - 00:06:16,840] in the world. And that is by making money from
+- [00:06:16,840 - 00:06:17,840] anywhere in the world. And that is by making
+- [00:06:17,840 - 00:06:18,840] money from anywhere in the world. And that is by
+- [00:06:18,840 - 00:06:18,860] making money from anywhere in the world. And that
+- [00:06:18,860 - 00:06:18,880] is by making money from anywhere in the world. And
+- [00:06:18,880 - 00:06:19,619] that is by making money from anywhere in
+- [00:06:19,619 - 00:06:20,359] the world. And that is being a sales representative,
+- [00:06:20,359 - 00:06:23,079] whether for information technology,
+- [00:06:23,079 - 00:06:25,799] defense, insurance, pharmaceutical industries,
+- [00:06:25,799 - 00:06:27,999] all of these people need strong salespersons and
+- [00:06:27,999 - 00:06:30,200] sales rep to sell their products or services to
+- [00:06:30,200 - 00:06:32,439] other companies. Some of these massive industries are
+- [00:06:32,439 - 00:06:34,679] willing to pay well over a hundred thousand
+- [00:06:34,679 - 00:06:36,719] dollars annually to people who put in the hard work
+- [00:06:36,719 - 00:06:38,760] on the road. If you know the sales game in
+- [00:06:38,760 - 00:06:40,959] and out and you have strong sales and
+- [00:06:40,959 - 00:06:43,159] interpersonal relationship skills, then this is a great way
+- [00:06:43,159 - 00:06:45,559] to make money remote on your own. With that being
+- [00:06:45,559 - 00:06:47,960] said, that wraps it up for our seven ways to make
+- [00:06:47,960 - 00:06:48,290] money and earn investment. If you have a
+- [00:06:48,290 - 00:06:48,620] business that is specifically focused on making money from
+- [00:06:48,620 - 00:06:50,860] earn an income living anywhere in the world.
+- [00:06:51,000 - 00:06:52,660] And if you learned something in this video,
+- [00:06:52,860 - 00:06:53,890] make sure to leave us
+- [00:06:53,890 - 00:06:54,920] a like, leave us a subscribe.
+- [00:06:55,100 - 00:06:56,940] We got tons of great new content coming out
+- [00:06:56,940 - 00:06:58,160] and make sure that you're following us
+- [00:06:58,160 - 00:06:59,080] on all of our platforms.
+- [00:06:59,280 - 00:06:59,900] Have a great day.
