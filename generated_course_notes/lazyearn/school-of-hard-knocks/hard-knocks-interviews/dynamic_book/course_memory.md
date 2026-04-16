@@ -1,5 +1,16 @@
 # Book North Star
 
+- Transcript-first rule: the matching lecture transcript remains the primary source of truth. Preserve order, rhythm, motivation, and narrative progression before cleaning anything into chapter prose.
+- Visual-evidence rule: frames and captions are secondary evidence only. They may stabilize names, on-screen text, charts, or interview setting, but they do not override the spoken record. At present, no validated reusable frames survive across the processed corpus.
+- Structural rule: when an interview naturally raises and resolves a local obstacle, keep that rhythm alive through a standalone `Question & Answer` subsection in the evolving book rather than flattening it into anonymous exposition.
+- Credit rule: keep explicit credit to School of Hard Knocks and curation by LazyingArt LLC. Reserve the website URL for front matter and production surfaces, not chapter body prose.
+- Dynamic-book rule: this memory serves a living thematic book, not a lecture digest. New lectures revise earlier thematic chapters, seed later ones, and may move evidence across the manuscript. Lecture 22 should deepen allocation, shell, founder-control, product-redesign, and end-state chapters rather than becoming a permanent standalone “billionaire women” chapter.
+- Analytical rule: preserve separate layers whenever possible:
+  - anecdote
+  - claim
+  - mechanism
+  - evidence
+
 ## Core thesis
 
 This book is converging on a durable claim about getting rich: the *Hard Knocks Interviews* series is rarely teaching that wealth comes from effort by itself. It is teaching that wealth appears when effort is attached to a position that gives control over future upside, durable cash flow, scarce distribution, a protected bottleneck, a trusted institution, a compoundable asset, a legal shell, or a field of demand that can be served at scale. The visible symbols vary wildly. The underlying grammar is surprisingly stable.
@@ -37,89 +48,81 @@ The book should therefore remain nonlinear and thematic. It should not harden in
 
 ## Candidate chapter system
 
-1. **The Theater of Wealth, and What It Hides**  
-   Cold-open montages, mansions, yachts, celebrity adjacency, private campuses, guards, abrupt scale claims, and why the archive keeps starting with spectacle before doctrine.
+The current live manuscript in `dynamic_book/how-you-got-rich.tex` has twenty-three real thematic chapters. This memory should track them as the active chapter system, while staying open to later merges, splits, and reordered emphasis.
 
-2. **Hidden Wealth, Privacy, and the Search Problem**  
-   Long Island gates, Palm Beach enclaves, Beverly Hills events, Philadelphia privacy, Wall Street timing, and why serious money is often geographically and socially concealed.
+1. **Go Where the Money Already Is**  
+   Geography as method rather than backdrop. This chapter holds the field logic of London, Miami, Beverly Hills, Palm Beach, Long Island, Wall Street, Scottsdale, Silicon Valley, Philadelphia, Dubai, Atlanta, and Nashville. Lecture 22 should revise this chapter by making Atlanta legible not just as a travel reset but as an allocation-and-founder-control field.
 
-3. **Access, Credibility, and the Right to Be Heard**  
-   Cold approaches, refusals, whispered referrals, timing tricks, credibility ladders, and the rule that useful answers are often earned rather than granted.
+2. **The Social Shell of Wealth**  
+   Privacy, guards, refusals, backstage timing, social permission, and the cost of getting a serious answer. Lecture 22 belongs here only lightly through its Beverly Hills partial-access beats and the host’s repeated search resets.
 
-4. **The Interviewer Becomes the Machine**  
-   The host as a case study in attention, access, comparative synthesis, agency work, consulting, brand partnerships, ad revenue, and paid access built around the archive itself.
+3. **The Interviewer Enters the Book**  
+   The host as operator: attention, access, credibility, synthesis, and monetized proximity to wealthy people. This chapter should keep absorbing later sponsor detours, recap monetization, and paid-community logic without letting them masquerade as interview evidence.
 
-5. **Attention, Distribution, and the Price of Being Seen**  
-   Organic reach, omnipresence, sponsor/tooling layers, audience as leverage, and the business penalty of being needed but unknown.
+4. **The Price of Being Seen**  
+   Visibility, omnipresence, demand capture, and the penalty of being useful but undiscovered. Lecture 22 revises this chapter through the beauty-founder Instagram pivot and Sarah Blakely’s hands-on retail placement logic.
 
-6. **Ownership, Position, and the Claim on Future Upside**  
-   Founder equity, public-stock exposure, non-founder operator wealth, rights ownership, intermediary positions, institutional seats, and the move from labor to claims.
+5. **Ownership, Position, and the Claim on Future Upside**  
+   The book’s core claim chapter: equity, rights, stock, institutions, audience ownership, and operating positions that convert effort into claims. Lecture 22 strengthens this chapter with the Atlanta founder’s ownership-over-wages framing and with two no-investor founder cases.
 
-7. **Founder Control, Dilution, and the Price of Outside Capital**  
-   No-investor cases, cap-table surrender, buying back control, dilution anxiety, investor tradeoffs, and the difference between raising capital and losing the machine.
+6. **The Window, the Operator, and the Hold**  
+   Early markets, response-speed edge, founder judgment under uncertainty, and the tension between acting fast and holding patiently. Sarah Blakely’s declining-category entry should now sit beside Sergio’s early-internet and AI window logic.
 
-8. **Customer Need, Buyer-Side Value, and Product Redesign**  
-   Solving neglected problems, editing old products, buyer economics, acquisition logic, and why stale categories can still hide extraordinary opportunity.
+7. **What the Buyer Is Buying**  
+   Buyer-side value, strategic savings, solved pain, redesign, and why neglected problems matter more than surface trends. Lecture 22 adds a major sub-case here: Spanx as a solved-problem entry into a declining category.
 
-9. **Allocation, Liquidity, and the Job Description of Money**  
-   Portfolio splits, marketable securities, alternatives, cash buffers, “money needs a job,” and the distinction between wealth storage and wealth growth.
+8. **The Company Is Other People**  
+   Hiring, trust, incentives, culture transfer, fairness, and counterparty selection. Lecture 22 contributes cautiously here through the Beverly Hills real-estate operator’s business-fairness and team-judgment remarks, but those lines should remain attributed rather than generalized.
 
-10. **Reinvestment, Compounding, and the Anti-Consumption Rule**  
-    Retained earnings, low draw, delayed lifestyle inflation, reinvestment loops, and the long flat stretch before scale becomes visible.
+9. **The Operating Math of Wealth**  
+   Low draw, reinvestment, retained earnings, asset accumulation, and the arithmetic distinction between saving, investing, and letting capital stay inside the machine. Lecture 22 materially expands this chapter through the beauty-founder reinvestment loop and the anti-idle-cash allocation logic.
 
-11. **Fragility, Debt, and the Price of Speed**  
-    Debt as fuel, debt as fixed-claim risk, cash as optionality, anti-debt doctrine, crisis buying, and the difference between fast growth and resilient growth.
+10. **Measured Operations and the Copyable Machine**  
+    Know-your-numbers doctrine, response speed, repeatability, store copying, process transfer, and scale that survives weaker operators. Lecture 22 belongs here through distribution widening, channel change, and social amplification as machine extensions rather than miracles.
 
-12. **Preservation, Trusts, and Keeping Wealth From Dissolving**  
-    Family systems, trusts, shells, restrained lifestyle, employee care, asset retention, succession, and the long fight against self-destruction.
+11. **The Long Flat Part**  
+    Lag, obscurity, endurance, one-step-at-a-time movement, and the years before the machine looks inevitable. Sarah Blakely’s seven fax-machine years and twenty-one-year self-funded span now give this chapter a sharper founder-control variant.
 
-13. **Real Estate, Land, and the Asset Where Wealth Comes to Rest**  
-    Hidden land wealth, gated estates, charter-school property, branded development, industrial property, block ownership, farmland, debt-free real-estate snowballs, and tax-aware structures.
+12. **Fragility, Debt, and the Price of Speed**  
+    Debt as accelerant versus debt as danger; reserves, optionality, and growth-path fragility. Lecture 22 should not overturn this chapter, but it should add a contrast between marketable-securities allocation, business reinvestment, and highly levered expansion.
 
-14. **Measured Operations and the Copyable Machine**  
-    Know-your-numbers doctrine, process transfer, franchise discipline, response speed, principal attention, and the conditions under which a business can be cloned.
+13. **Boring Businesses, Land, and Where Wealth Comes to Rest**  
+    Real estate, land, industrial property, campuses, schools, farmland, and other asset forms in which wealth settles. Lecture 22 strengthens this chapter through residential/coastal property logic and by placing real estate inside the alternatives bucket rather than treating it as a separate religion.
 
-15. **Marketing, Omnipresence, and Demand Capture**  
-    Visibility doctrine, discoverability, retail placement, delivery expansion, Instagram pivots, field sampling, and why distribution can rescue an otherwise ordinary position.
+14. **Sell the Future**  
+    Marketing, persuasion, distribution, problem framing, and the conversion of latent demand into movement. Lecture 22 revises this chapter through product photos, tutorials, creator circulation, retail positioning, and the distinction between telling a story and solving a visible pain.
 
-16. **Operating Discipline, Human Attention, and the AI Split**  
-    Repetitive versus judgment-heavy work, founder tempo, responsiveness, daily discipline, and why technology can increase the value of human attention at the top of the stack.
+15. **Capital Must Move**  
+    Deployed capital, asset allocation, money with a job description, and the difference between stored liquidity, compounding liquidity, and longer-horizon alternatives. Lecture 22 should now become one of this chapter’s main anchors rather than a side note.
 
-17. **Scale, Time, and the Ten-Year Game**  
-    Proof lag, forecast horizons, decade thinking, patience, delayed compounding, and the difference between visible acceleration and durable maturity.
+16. **The Shell Around the Machine**  
+    LLCs, trusts, legal containers, compartmentalized liabilities, and the architecture that keeps one failure from swallowing the whole machine. Lecture 22 upgrades this chapter directly through the one-LLC-per-property doctrine.
 
-18. **Leverage, Capital Plumbing, Bank Trust, and Protective Shells**  
-    Liability shields, one-asset-one-entity logic, friendly banks, extra principal, tax placement, debt structure, and the shell around the machine.
+17. **Trust Is a Slow Asset**  
+    Word-keeping, lender trust, employee trust, floor trust, and self-trust after interruption. Lecture 22 contributes indirectly here through founder conviction, anti-premature disclosure, and the need to protect a fragile idea from loose outside interpretation.
 
-19. **Boring Businesses, Bottlenecks, and Infrastructure Wealth**  
-    Mortgages, switchgear, plumbing, electrical work, internet ads, charter schools, sandwich delivery, hosiery, beauty distribution, and other ordinary-looking wealth engines.
+18. **The Arithmetic of the Floor**  
+    Stocks versus stuff, public-market scale, notional arithmetic, institutional role, and what a marketable claim does that a visible object cannot. Lecture 22 revises this chapter through explicit marketable-securities allocation and a cleaner bridge between public claims and other asset buckets.
 
-20. **Geography Is Not Background**  
-    London, Miami, Beverly Hills, Palm Beach, Long Island, New York, Wall Street, Scottsdale, Silicon Valley, Philadelphia, Las Vegas, Dubai, Atlanta, and Nashville as money grammars rather than scenery.
+19. **Stay in the Game**  
+    Persistence, anti-comfort doctrine, repeated proof, and the refusal to treat one win as terminal. Lecture 22 adds rejection weather, self-belief, and idea-protection patience without changing the chapter’s anti-comfort spine.
 
-21. **Control, Speed, and Ownership of the Chain**  
-    Vertical integration, venue control, process control, response-time advantage, distribution control, and control over the node that matters.
+20. **The Fresh Slate**  
+    Every big win resets the proving cycle. This chapter should keep Dana White, Gary Vee, Jimmy John, Charlie Sheen, and Sarah Blakely in dialogue around repeated proof, recovery, and recommitment.
 
-22. **Sales, Rejection, and Social Endurance**  
-    Embarrassment tolerance, asking anyway, every-no-gets-us-closer logic, reverse-pitch selling, retail hustle, and the selection of counterparties through truth rather than seduction.
+21. **Volatility, Reserves, and the Fresh Start**  
+    Rainy-day and rainy-decade logic, unstable income, buffers, and restart capacity after public interruption. Lecture 22 belongs here only as a contrast case in which money is deliberately partitioned before volatility arrives.
 
-23. **Reputation, Trust, and Counterparty Memory**  
-    Word-keeping, lender trust, employee loyalty, public credibility, private reliability, floor trust, and the asymmetry between long build and rapid destruction.
+22. **The Rule Stack**  
+    The archive’s compressed operating laws. Lecture 22 adds several rules that should move into this stack explicitly:
+    - money needs a job
+    - keep control when founder judgment still matters
+    - shield assets one shell at a time
+    - reinvest before displaying
+    - protect the idea while it is fragile
 
-24. **Competition, Comfort, Urgency, and Repeated Proof**  
-    Fresh slates after big wins, anti-comfort doctrine, war-every-day language, urgency in daily action, patience in ownership, and the risk of contentment.
-
-25. **Asset Choice, Public Markets, and Institutional Scale**  
-    Stocks versus stuff, private versus public timing, institutional flow, marketable securities, notional arithmetic, and why some operators prefer legible assets while others prefer asymmetric ones.
-
-26. **Volatility, Reserves, and the Fresh Start**  
-    Rainy-day versus rainy-decade logic, unstable income, reserve buffers, public collapse, internal restart capacity, and the refusal to internalize external timeout.
-
-27. **What Money Is For**  
-    God, freedom, winning, family, service, privacy, legacy, self-respect, fun, and mortality. The book should preserve disagreement rather than forcing a final creed.
-
-28. **The Rule Stack: What the Archive Repeats**  
-    Proof-based advice, credibility-before-access, deployed capital, low draw, long horizon, anti-comfort, problem-solving, self-trust, finite time, fragility management, and the recurring terminal rules.
+23. **When Money Stops Explaining Itself**  
+    God, freedom, winning, family, self-respect, service, fun, mortality, and the limits of financial explanation. Lecture 22 deepens this chapter through the beauty founder’s freedom-versus-fulfillment distinction and Sarah Blakely’s lighter but still serious closing creed.
 
 ## Evidence bank by theme
 
@@ -270,6 +273,51 @@ The book should therefore remain nonlinear and thematic. It should not harden in
   - intermediary position
   - audience ownership
   - high-income labor without equivalent control over future upside
+
+### Founder control, dilution, and the protected idea
+
+- Lecture 22 makes founder control too explicit to leave buried inside the broader ownership chapter.
+- The beauty-founder case is unusually clean on this point:
+  - started in 1997
+  - sold in 2018
+  - reports 100% ownership before sale
+  - attributes scale to reinvestment rather than outside capital
+- Sarah Blakely sharpens the same chapter from a different angle:
+  - initial self-funding of $5,000
+  - seven years selling fax machines before Spanx
+  - twenty-one years with no investors
+  - explicit warning that selling ownership means giving up control
+- Sergio’s Blackstone sale and later buyback remain essential counter-evidence. The manuscript should preserve that some operators do sell or partially surrender ownership and later decide that control is worth reclaiming.
+- Lecture 12 and lecture 13 preserve the opposing path:
+  - venture logic
+  - scale bottlenecks
+  - buyer-side value
+  - cases where outside capital or institutional partnership is part of the machine rather than a corruption of it
+- Sarah’s one-year secrecy rule adds a second control layer. Control is not only cap-table ownership; it is also control over interpretation while the idea is still weak.
+- Book implication:
+  founder control should now be treated as a full recurring system with three parts:
+  - ownership percentage
+  - decision control
+  - control over when the idea becomes socially exposed
+
+### Product redesign, neglected problems, and stale-category entry
+
+- Lecture 13 already established that large outcomes can come from identifying a real market opportunity more clearly than others do.
+- Lecture 15 adds another version through UFC: redesigning the product and its surrounding structure can create buyer value that did not exist in the old form.
+- Lecture 22 gives the book one of its clearest product-redesign cases:
+  - hosiery is described as being in double-digit decline
+  - incumbents are serving the category poorly
+  - the founder sees a real clothing problem that old products do not solve
+  - the new product is framed as lighter, smoother, and closer to a second skin
+- This matters because it complicates “go where the growth is.” Sometimes the right move is not to chase a hot market. It is to solve a neglected problem in a stale market whose existing products are still bad.
+- The beauty-founder section in lecture 22 adds another complementary redesign lesson:
+  - product proof alone is not enough
+  - the category has to be demonstrated, circulated, and distributed in a way customers can see and copy
+- Book implication:
+  `What the Buyer Is Buying` and `Sell the Future` should now preserve a sub-distinction between:
+  - frontier opportunity
+  - neglected problem inside an existing category
+  - distribution redesign that makes an old product newly legible
 
 ### Allocation, liquidity, and the job description of money
 
@@ -1180,6 +1228,9 @@ The book should therefore remain nonlinear and thematic. It should not harden in
 - **Marketing versus product-led pull**  
   Some speakers say the best product speaks for itself. Others say people may need you and still not know you. The book must preserve the need for both fit and visibility.
 
+- **Visibility for demand versus secrecy for incubation**  
+  Lecture 20 and the beauty-founder Instagram story argue for visibility, omnipresence, and discoverability. Sarah Blakely argues that a fragile early idea may need a year of privacy before broad disclosure. The book must keep these as different time-stage rules, not as a contradiction to be cleaned away.
+
 - **Digital reach versus physical presence**  
   One post can change demand; showing up in person can change a life. The archive keeps teaching both.
 
@@ -1197,6 +1248,9 @@ The book should therefore remain nonlinear and thematic. It should not harden in
 
 - **Growth versus resilience**  
   Faster scaling, bigger targets, and aggressive action can all be valid. Lecture 21 adds the counterweight that some paths are chosen because they survive interruption better.
+
+- **Markets versus land versus the operating machine**  
+  Lecture 22’s 80:10:10 allocation rule pushes toward marketable securities plus alternatives. Ramsey pushes toward land and debt-free holdings. Founder cases push toward reinvestment inside the machine. The book should preserve that money may be put to work in very different containers depending on regime, stage, and operator temperament.
 
 - **Understandable assets versus asymmetric but opaque opportunities**  
   Jimmy John’s one-page test favors legibility. Other lectures celebrate exploiting change, timing, or specialized markets that ordinary readers may not fully understand.
@@ -1225,69 +1279,104 @@ The book should therefore remain nonlinear and thematic. It should not harden in
 - **Outside capital versus retained control**  
   Some routes scale through investors, leverage, or private equity. Other routes insist that dilution, loss of control, or distance from founder spirit can damage the machine.
 
+- **Freedom versus fulfillment versus fun**  
+  Peter Tuchman separates money from happiness and ties it to freedom. The beauty founder says money creates freedom but not full fulfillment. Sarah Blakely closes with problem-solving, self-belief, and fun. The manuscript should not compress those into one sanitized end-state.
+
 - **Sell versus hold**  
   Some stories culminate in exits. Others warn not to sell too early, or emphasize buying back control, or treat land and cash-flow assets as things to keep.
 
 ## Revision agenda for the next rewrite
 
-- **Strengthen the opening chapters on spectacle, hidden wealth, and access friction.**  
-  Lecture 10 makes it clear that the book should not begin by leaping straight from mansion imagery to doctrine. The Long Island privacy thesis and the refusal scenes now justify a fuller chapter on why useful access is socially expensive.
+- **Revise `Capital Must Move` so it treats lecture 22 as core evidence, not a late insert.**  
+  Add a proper allocation subsection built around:
+  - 80% marketable securities
+  - 10% cash
+  - 10% alternatives
+  - the five-to-ten-year alternatives horizon
+  - the verbal rule that money needs a job description  
+  The chapter should also stage this against Ramsey’s reserve-heavy real-estate logic rather than pretending the corpus offers only one allocation regime.
 
-- **Create or materially deepen the chapter on founder control and dilution.**  
-  Sarah Blakely’s no-investor path, lecture 22’s 100% ownership beauty-founder case, and Sergio’s buyback together create enough evidence for a real chapter rather than scattered remarks.
+- **Expand `The Shell Around the Machine` with a standalone lecture 22 subsection.**  
+  Add:
+  - one LLC per property or business
+  - compartmentalized liability
+  - “veil of protection” logic
+  - a sharp distinction between the speaker’s actual structure claim and the host’s sponsor/recap expansion  
+  This chapter should also explicitly connect shells to trusts, reserves, and reputation rather than treating them as isolated legal trivia.
 
-- **Revise the operating-discipline chapter to include the AI split explicitly.**  
-  Lecture 10 now gives the book a clean repetitive-versus-judgment task partition. That should sit beside lecture 17’s AI adoption material rather than being left inside one lecture-specific section.
+- **Deepen `Ownership, Position, and the Claim on Future Upside` with founder-control evidence.**  
+  Add a new comparative block holding side by side:
+  - the beauty founder’s reported 100% ownership until sale
+  - Sarah Blakely’s twenty-one-year no-investor route
+  - Sergio’s partial surrender and later buyback
+  - public-market and non-founder counterexamples  
+  The goal is more nuance, not a simple anti-investor slogan.
 
-- **Deepen the preservation chapter so it combines trusts, shells, low draw, reserves, and reputation.**  
-  Jody’s trusts, lecture 22’s one-asset-one-LLC logic, lecture 21’s anti-fragility, and lecture 14’s reputation asymmetry now belong together.
+- **Revise `What the Buyer Is Buying` to include a full stale-category / solved-problem subsection.**  
+  Sarah Blakely’s case should become a major subchapter on why a declining category can still hide an extraordinary business if the underlying user problem remains poorly solved.
 
-- **Revise the compounding chapter so it includes patience as a structural variable, not just return arithmetic.**  
-  Teddy’s “fast money never lasts” and Scott’s “hold” doctrine should sit beside stock compounding and retained-earnings loops.
+- **Expand `Sell the Future` and `The Price of Being Seen` with lecture 22’s distribution mechanics.**  
+  Add:
+  - the beauty-founder Instagram pivot
+  - creator/tutorial circulation as demand proof
+  - Sarah’s hands-on retail placement logic
+  - the difference between early secrecy for incubation and later visibility for scale
 
-- **Strengthen the real-estate chapter by separating multiple real-estate grammars.**  
-  The next rewrite should distinguish:
-  - branded development
-  - tax-aware leveraged property
-  - industrial long-hold property
-  - debt-free snowball real estate
-  - hidden land wealth
-  - education-property specialization
-  - coastal / tax-favored holdings
+- **Strengthen `The Operating Math of Wealth` with lecture 22’s reinvestment loop.**  
+  Insert a founder-capital subsection that keeps separate:
+  - cash flow
+  - low draw
+  - retained capital
+  - production
+  - distribution widening
+  - scale  
+  This chapter should show how anti-consumption and founder control interact rather than treating them as separate moral themes.
 
-- **Expand the measured-operations chapter with lecture 10’s response-time material.**  
-  The Christmas-email story gives the book a human-tempo version of operational superiority that fits naturally beside Jimmy John’s measurement doctrine.
+- **Revise `The Arithmetic of the Floor` so marketable securities connect cleanly to the wider book.**  
+  Right now Wall Street can read too self-contained. Use lecture 22 to bridge public claims, liquidity, cash buffers, and alternative holdings into a single asset-choice chapter family.
 
-- **Revise the marketing chapter to include social-media platform pivots as genuine distribution events.**  
-  The beauty-founder Instagram expansion in lecture 22 should sit beside omnipresence, delivery, sampling, and discoverability.
+- **Sharpen `Go Where the Money Already Is` with Atlanta’s distinct role.**  
+  Atlanta should be written not only as travel reset and Sarah runway, but as a city where the book gets its cleanest wealth-allocation arithmetic and one of its strongest ownership-versus-wages formulations.
 
-- **Give the allocation chapter real weight instead of treating it as a late-book appendix.**  
-  The 80:10:10 split, anti-idle-cash doctrine, and alternatives horizon are now too explicit to leave in passing comments.
+- **Revise `When Money Stops Explaining Itself` with lecture 22’s end-state corrections.**  
+  Add a short subsection that holds together:
+  - money as freedom
+  - freedom versus fulfillment
+  - solve a problem
+  - bet on yourself
+  - have fun  
+  This should deepen the book’s plural end-state map rather than simplifying it.
 
-- **Keep the urgency-versus-patience contradiction visible rather than resolving it away.**  
-  The next rewrite should explicitly stage urgency in execution against patience in ownership as different variables on different time scales.
+- **Upgrade `The Rule Stack` with new lecture 22 rules and explicit counterweights.**  
+  Add:
+  - money needs a job
+  - one asset, one shell
+  - keep control while founder judgment matters
+  - protect the idea while it is fragile
+  - visibility is a later-stage scaling tool, not always an early-stage rule  
+  Each rule should sit beside its counterexample when one exists.
 
-- **Revise the “What Money Is For” chapter so it includes freedom, fulfillment, self-respect, and fun side by side.**  
-  Lecture 17, lecture 21, and lecture 22 now give the manuscript a more varied end-state map than happiness-versus-money alone.
-
-- **Add more standalone `Question & Answer` modules across the full book.**  
-  Lecture 10 and lecture 22 supply especially durable question forms:
-  - Why enter a field when nobody fully understands it?
-  - If fast money exists, why insist on patience?
-  - How do we keep wealth from dissolving across generations?
-  - Why one LLC per property?
-  - Where do the rich actually put their money?
-  - Should founders give away ownership?
+- **Add more `Question & Answer` modules at chapter level instead of burying them in prose.**  
+  Priority questions for the next rewrite:
+  - Why put each property in its own LLC?
+  - Where do the richest people actually put their money, and why not leave it in cash?
+  - Should founders give away ownership to investors?
   - Should early ideas be discussed or protected?
+  - Why can a declining category still produce a huge company?
+  - If speed matters, why do so many rich operators still talk about holding?
 
-- **Preserve side-by-side counterexamples instead of compressing them into one doctrine.**  
-  The book is getting better when it holds Harpin beside Blakely, Ramsey beside leveraged operators, Charlie beside founder-owners, and Long Island privacy beside Wall Street visibility.
+- **Keep lecture 22 integrated rather than isolated.**  
+  The next rewrite should not spin out a standalone “billionaire women” chapter. It should revise existing thematic chapters and preserve the lecture’s distinct evidence clusters inside those chapters.
 
-- **Keep the frame system explicitly empty.**  
-  No rewrite should quietly compensate for missing validated frames with decorative screenshots.
+- **Preserve side-by-side counterexamples instead of cleaning the corpus into one doctrine.**  
+  The next rewrite should keep:
+  - marketable securities beside land and internal reinvestment
+  - no-investor founders beside leveraged and private-equity paths
+  - visibility for scale beside secrecy for incubation
+  - freedom beside fulfillment, family, God, winning, and fun
 
-- **Bias the next rewrite toward richer comparison tables and transcript-backed schematics.**  
-  The corpus is now dense enough that cross-case tables, route maps, and contradiction ledgers will preserve more usable information than further prose compression.
+- **Keep the frame system explicitly empty and bias the rewrite toward schematics, tables, and contradiction ledgers.**  
+  No decorative screenshots should be introduced to fake evidentiary weight. The better next step is denser transcript-backed comparison tables, route maps, and chapter-level diagrams.
 
 ## Processed lecture evidence index
 
