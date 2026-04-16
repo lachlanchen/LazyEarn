@@ -1,0 +1,408 @@
+# Transcript
+
+Source: lazyearn/school-of-hard-knocks/hard-knocks-interviews/094 - Asking Orlando Millionaire’s How They Got RICH! [YU_58awAISY].webm
+
+- [00:00:00,000 - 00:00:01,840] So I got a mentor and I
+- [00:00:01,840 - 00:00:03,680] actually paid this person $55,000 for the year,
+- [00:00:03,680 - 00:00:05,160] but this person helped me scale my
+- [00:00:05,160 - 00:00:06,640] business to over $5 million a year.
+- [00:00:06,640 - 00:00:07,680] Let me ask you this, like, look,
+- [00:00:07,680 - 00:00:08,720] what has been the most amount of money
+- [00:00:08,720 - 00:00:09,840] that you've ever made in a single year?
+- [00:00:09,840 - 00:00:11,680] In all my companies combined, we've done
+- [00:00:11,680 - 00:00:13,520] about $25 million total in a year.
+- [00:00:13,520 - 00:00:14,720] In a single year, I want
+- [00:00:14,720 - 00:00:15,920] to say we did $18 million.
+- [00:00:15,920 - 00:00:17,840] Probably about $13 million.
+- [00:00:17,840 - 00:00:18,680] This is actually going to be
+- [00:00:18,680 - 00:00:19,520] our best year. We're looking at,
+- [00:00:19,520 - 00:00:21,000] we're going to finish right about
+- [00:00:21,000 - 00:00:22,480] eight figures, probably about like $10-11 million.
+- [00:00:22,480 - 00:00:24,560] What industry did you decide to pursue a career in?
+- [00:00:24,560 - 00:00:26,720] I own a marketing agency. That's my primary business.
+- [00:00:26,720 - 00:00:29,480] I spent roughly $500,000 on learning to
+- [00:00:29,480 - 00:00:32,240] sell, learning to market, going into masterminds.
+- [00:00:32,240 - 00:00:34,000] I turned that into $33 million.
+- [00:00:34,000 - 00:00:35,600] This year, I crossed the stage doing over
+- [00:00:35,600 - 00:00:37,200] $25 million. I got the same watch on,
+- [00:00:37,200 - 00:00:38,440] but it was a time in my
+- [00:00:38,440 - 00:00:39,680] life where this watch meant everything to me.
+- [00:00:39,680 - 00:00:41,120] When it comes to the way that people
+- [00:00:41,120 - 00:00:42,560] look at money, what's the biggest difference that
+- [00:00:42,560 - 00:00:44,320] separates the middle class from the wealthy?
+- [00:00:44,320 - 00:00:46,400] The number one thing between the rich and the
+- [00:00:46,400 - 00:00:48,480] poor when it comes to how they perceive money.
+- [00:00:48,480 - 00:00:50,359] Hand me that bag. If I said I will
+- [00:00:50,359 - 00:00:52,239] sell you this bag for $1,000, what would you say?
+- [00:00:52,239 - 00:00:52,879] Probably yours.
+- [00:00:52,879 - 00:00:54,639] Okay. That is how a poor
+- [00:00:54,639 - 00:00:56,400] person thinks. A rich person would ask...
+- [00:00:56,720 - 00:00:59,279] What's going on, everybody? We just landed in
+- [00:00:59,279 - 00:01:01,839] Orlando, Florida, and we are at one of the
+- [00:01:01,839 - 00:01:04,039] largest business conferences in the entire world.
+- [00:01:04,039 - 00:01:06,240] This is Russell Brunson's Funnel Hacking Live,
+- [00:01:06,240 - 00:01:08,080] where some of the biggest seven, eight,
+- [00:01:08,080 - 00:01:09,920] and nine figure entrepreneurs are gathered here today.
+- [00:01:09,920 - 00:01:11,479] We're going to be asking them how they
+- [00:01:11,479 - 00:01:13,039] became millionaires, what they did to create wealth in
+- [00:01:13,039 - 00:01:15,039] their industry, and how you can start
+- [00:01:15,039 - 00:01:17,039] your path to becoming financially free in 2023.
+- [00:01:17,039 - 00:01:18,279] What has been the most amount of money
+- [00:01:18,279 - 00:01:19,520] that you've ever made in a single year?
+- [00:01:19,520 - 00:01:22,480] In a single year, probably about $13 million.
+- [00:01:22,480 - 00:01:24,000] How long have you been a business owner for?
+- [00:01:24,000 - 00:01:24,800] 15 years.
+- [00:01:24,800 - 00:01:26,640] I spent roughly $500,000
+- [00:01:26,720 - 00:01:29,160] on learning to sell, learning to market, going
+- [00:01:29,160 - 00:01:31,600] into masterminds. I turned that into $33 million.
+- [00:01:31,600 - 00:01:33,319] When it comes to the way that people look
+- [00:01:33,319 - 00:01:35,039] at money, what would you say is the biggest thing
+- [00:01:35,039 - 00:01:36,479] that separates the middle class from those
+- [00:01:36,479 - 00:01:37,920] who really end up building that wealth?
+- [00:01:37,920 - 00:01:39,880] Okay. Hand me that bag. See this little bag right
+- [00:01:39,880 - 00:01:41,840] here? If I said I will sell you this bag
+- [00:01:41,840 - 00:01:43,200] for $1,000, what would you say?
+- [00:01:43,200 - 00:01:43,920] Probably yours.
+- [00:01:43,920 - 00:01:46,560] Okay. That is how a poor person thinks.
+- [00:01:46,560 - 00:01:49,200] A rich person would ask, what's inside? Because what
+- [00:01:49,200 - 00:01:52,960] if I had $100,000 in cash in this
+- [00:01:52,960 - 00:01:56,720] bag? You just lost $99,000 because you simply didn't
+- [00:01:56,720 - 00:01:59,520] ask what's inside. Rich people, they worry about what
+- [00:01:59,520 - 00:02:02,320] they get, not what it costs. And when they
+- [00:02:02,320 - 00:02:04,400] understand what they get, they understand what they
+- [00:02:04,400 - 00:02:06,480] stand to lose. Poor people never ask what's
+- [00:02:06,480 - 00:02:08,360] inside. They never ask what it's worth. They just
+- [00:02:08,360 - 00:02:10,240] ask what it's cost. That's all they care about.
+- [00:02:10,240 - 00:02:11,600] And that's why life goes
+- [00:02:11,600 - 00:02:12,960] by and it costs them everything.
+- [00:02:12,960 - 00:02:14,400] What would you say has been your secret
+- [00:02:14,400 - 00:02:15,840] to sales though? How have you been able to
+- [00:02:15,840 - 00:02:17,240] consistently sell tens of millions
+- [00:02:17,240 - 00:02:18,640] of dollars throughout your career?
+- [00:02:18,640 - 00:02:20,120] You want me to tell you how to
+- [00:02:20,120 - 00:02:21,600] create a personal brand that sells in 30 seconds?
+- [00:02:21,600 - 00:02:21,840] Yeah.
+- [00:02:21,840 - 00:02:23,840] Okay. So here's what you do. First, what
+- [00:02:23,840 - 00:02:25,840] is the most enduring personal brands of all time?
+- [00:02:25,840 - 00:02:26,560] Superheroes.
+- [00:02:26,720 - 00:02:28,960] Why superheroes? Because they clearly stand for and
+- [00:02:28,960 - 00:02:31,200] against something. A strong brand is when you
+- [00:02:31,200 - 00:02:33,639] know exactly what you stand for, exactly what you
+- [00:02:33,639 - 00:02:36,079] stand against. You make a list of the top 10
+- [00:02:36,079 - 00:02:37,959] superheroes. You list out what they stand for,
+- [00:02:37,959 - 00:02:39,840] what they stand against. You can easily get this
+- [00:02:39,840 - 00:02:42,920] list by asking ChadGBT. You pick the one that you
+- [00:02:42,920 - 00:02:46,000] resonate with the most. Then you modify it to suit
+- [00:02:46,000 - 00:02:48,880] you. I picked Iron Man. I changed it to
+- [00:02:48,880 - 00:02:51,760] Iron Dan. Tweaked it. Now everything you say, everything you
+- [00:02:51,760 - 00:02:54,080] do, it has to fall in alignment with
+- [00:02:54,080 - 00:02:56,400] for or against. As long as you do that,
+- [00:02:56,400 - 00:02:58,440] you can't not have a personal brand.
+- [00:02:58,440 - 00:03:00,480] You literally have to have a personal brand,
+- [00:03:00,480 - 00:03:02,280] even if you don't understand what a
+- [00:03:02,280 - 00:03:04,080] personal brand is, because everything you say
+- [00:03:04,080 - 00:03:06,480] fundamentally, fundamentally goes for or against
+- [00:03:06,480 - 00:03:08,880] something. Like for instance, I'm against
+- [00:03:08,880 - 00:03:11,720] ignorance. If you're a business owner and you
+- [00:03:11,720 - 00:03:14,560] have never read the shareholder letters of Steve Jobs
+- [00:03:14,560 - 00:03:16,800] to his company, if you've never watched Steve
+- [00:03:16,800 - 00:03:19,040] Jobs' presentations, then I'm sorry, I don't take
+- [00:03:19,040 - 00:03:21,600] you seriously as a business owner because you are
+- [00:03:21,600 - 00:03:24,160] not even remotely trying hard enough to grow a
+- [00:03:24,160 - 00:03:24,220] business. So like you're just a schmuck. I get that,
+- [00:03:24,220 - 00:03:24,280] but if you do, then you're just a piece of shit.
+- [00:03:24,280 - 00:03:24,420] And it's not just for the sake of it, you're
+- [00:03:24,420 - 00:03:24,560] just a piece of shit. And if you're a business owner,
+- [00:03:24,560 - 00:03:25,400] you're not even remotely trying hard enough to
+- [00:03:25,400 - 00:03:26,240] grow a business. So like you're just a schmuck.
+- [00:03:26,240 - 00:03:27,240] Wow.
+- [00:03:27,240 - 00:03:28,240] Dan, my man.
+- [00:03:28,240 - 00:03:29,560] That was phenomenal.
+- [00:03:29,560 - 00:03:31,120] That interview right there has got to be
+- [00:03:31,120 - 00:03:32,680] one of the craziest ones that I've ever done.
+- [00:03:32,680 - 00:03:34,260] Not only is Dan an eight figure entrepreneur,
+- [00:03:34,260 - 00:03:35,840] but the analogies that he used, he really
+- [00:03:35,840 - 00:03:37,030] just put into perspective of
+- [00:03:37,030 - 00:03:38,220] how a poor person really thinks.
+- [00:03:38,220 - 00:03:39,220] They don't ask the right questions.
+- [00:03:39,220 - 00:03:40,840] He made me look like a fool, but this
+- [00:03:40,840 - 00:03:42,460] video is going to be absolutely insane, so stay
+- [00:03:42,460 - 00:03:44,580] tuned because the best is yet to come.
+- [00:03:44,580 - 00:03:46,720] This year I crossed the stage doing over 25 million.
+- [00:03:46,720 - 00:03:48,230] I got the same watch on, but it was
+- [00:03:48,230 - 00:03:49,740] a time in my life where this watch meant everything
+- [00:03:49,740 - 00:03:50,740] to me.
+- [00:03:50,740 - 00:03:51,740] How long have you been a business owner for?
+- [00:03:51,740 - 00:03:54,160] I've been in the entrepreneur space since 2006.
+- [00:03:54,160 - 00:03:55,850] Throughout your career as an entrepreneur, what
+- [00:03:55,850 - 00:03:57,540] has been the most amount of money that
+- [00:03:57,540 - 00:03:58,540] you've ever made in a single year?
+- [00:03:58,540 - 00:03:59,760] In a single year, I want
+- [00:03:59,760 - 00:04:00,980] to say we did 18 million.
+- [00:04:00,980 - 00:04:02,880] Now I see the shirt, recession proof.
+- [00:04:02,880 - 00:04:04,880] What's the blueprint to creating a recession proof business?
+- [00:04:04,880 - 00:04:06,040] Because you can't control a pandemic.
+- [00:04:06,040 - 00:04:08,079] You can't control when the economy goes to shit.
+- [00:04:08,079 - 00:04:09,760] Everything has to make money three or four ways.
+- [00:04:09,760 - 00:04:10,770] Any business that you have should
+- [00:04:10,770 - 00:04:11,780] make money three or four ways.
+- [00:04:11,780 - 00:04:12,780] So I tell people, listen,
+- [00:04:12,780 - 00:04:13,780] it doesn't matter what you're in.
+- [00:04:13,780 - 00:04:15,780] You should have at least four verticals to your business.
+- [00:04:15,780 - 00:04:17,339] Always you should have a digital product.
+- [00:04:17,339 - 00:04:19,079] You should have some kind of in-person event.
+- [00:04:19,079 - 00:04:20,739] You should have the product or service or
+- [00:04:20,739 - 00:04:22,400] whatever it is that you actually do and specialize
+- [00:04:22,400 - 00:04:23,400] in.
+- [00:04:23,400 - 00:04:25,020] I don't want to be in some kind of
+- [00:04:25,020 - 00:04:26,640] program where it's like an apprentice program or a
+- [00:04:26,640 - 00:04:30,000] high level mentorship that's 25, 50K.
+- [00:04:30,000 - 00:04:31,890] It doesn't mean that you have to make millions off
+- [00:04:31,890 - 00:04:33,780] of each, but just say you got a 50K mentorship
+- [00:04:33,780 - 00:04:35,599] program and you take four people a year.
+- [00:04:35,599 - 00:04:37,079] That's an extra $200,000 to your
+- [00:04:37,079 - 00:04:38,560] business revenue to your bottom dollar.
+- [00:04:38,560 - 00:04:40,179] So those are things that you want to
+- [00:04:40,179 - 00:04:41,799] be mindful of when you're actually building your business.
+- [00:04:41,799 - 00:04:43,179] As an eight figure entrepreneur, what's been
+- [00:04:43,179 - 00:04:44,560] the best financial advice that you ever received
+- [00:04:44,560 - 00:04:45,679] throughout your career?
+- [00:04:45,679 - 00:04:47,840] Wealth is not determined by dollar amount.
+- [00:04:47,840 - 00:04:50,080] Wealth is determined by the way that you're structured.
+- [00:04:50,080 - 00:04:51,740] See what wealthy is that you can make
+- [00:04:51,740 - 00:04:53,400] a hundred thousand dollars a year and build wealth.
+- [00:04:53,400 - 00:04:54,400] You don't need to make millions.
+- [00:04:54,400 - 00:04:55,580] It's not a dollar amount.
+- [00:04:55,580 - 00:04:56,880] Like I got to go make X amount.
+- [00:04:56,880 - 00:04:58,649] You have to realistically, it's a numbers game
+- [00:04:58,649 - 00:05:00,419] and a percentage game and a growth game.
+- [00:05:00,419 - 00:05:02,479] If you can make a hundred thousand dollars a
+- [00:05:02,479 - 00:05:04,539] year and you can save, you know, 25% of
+- [00:05:04,539 - 00:05:06,779] it, 20% of it, but then you also, the
+- [00:05:06,779 - 00:05:09,020] part that you spend, Hey, I got a mortgage, but
+- [00:05:09,020 - 00:05:10,749] you know, my real estate portfolio where
+- [00:05:10,749 - 00:05:12,479] I'm investing into real estate, how much equity
+- [00:05:12,479 - 00:05:14,849] is it is growing is my investment
+- [00:05:14,849 - 00:05:17,219] portfolio, my insurance, the income that I make.
+- [00:05:17,219 - 00:05:18,759] If I can divide it properly, this
+- [00:05:18,759 - 00:05:20,299] is the way that we make wealth.
+- [00:05:20,299 - 00:05:21,549] It's not a dollar amount that I
+- [00:05:21,549 - 00:05:22,799] have to go out and generate per year.
+- [00:05:22,799 - 00:05:23,299] It's what I do.
+- [00:05:23,300 - 00:05:23,800] With the money.
+- [00:05:23,800 - 00:05:25,140] That's what separates everybody.
+- [00:05:25,140 - 00:05:27,030] The difference with the middle class and the
+- [00:05:27,030 - 00:05:28,920] wealthy is that they get educated on all of
+- [00:05:28,920 - 00:05:29,900] these different verticals.
+- [00:05:29,900 - 00:05:31,190] So that way they can make
+- [00:05:31,190 - 00:05:32,480] sound decisions when it comes to it.
+- [00:05:33,280 - 00:05:34,680] Marcus, that was phenomenal, bro.
+- [00:05:34,740 - 00:05:36,020] Shout out to my guy, Marcus, man.
+- [00:05:36,020 - 00:05:37,310] He's one of the most
+- [00:05:37,310 - 00:05:38,600] inspiring entrepreneurs that I've ever interviewed.
+- [00:05:38,600 - 00:05:39,920] And he's got a business that's
+- [00:05:39,920 - 00:05:41,240] going to do $18 million this year.
+- [00:05:41,260 - 00:05:42,980] You saw the t-shirt man recession proof.
+- [00:05:43,120 - 00:05:44,760] If you're going to create a business, it's
+- [00:05:44,760 - 00:05:46,400] got to last beyond no matter what's happening
+- [00:05:46,400 - 00:05:47,660] to the outside world and the economy.
+- [00:05:47,680 - 00:05:48,700] Let's go get this next one, man.
+- [00:05:48,700 - 00:05:49,520] Orlando has been crazy.
+- [00:05:49,520 - 00:05:50,140] We'll keep it rolling.
+- [00:05:50,180 - 00:05:52,180] What industry did you decide to pursue a career?
+- [00:05:52,240 - 00:05:53,300] I own a marketing agency.
+- [00:05:53,300 - 00:05:54,420] That's my primary business.
+- [00:05:54,440 - 00:05:56,360] And I basically run ads on social media
+- [00:05:56,360 - 00:05:58,280] and pretty much anytime you click on anything
+- [00:05:58,280 - 00:05:59,180] and you buy it on your
+- [00:05:59,180 - 00:06:00,080] phone, it's because of me right here.
+- [00:06:00,140 - 00:06:01,230] In the last 12 months, how
+- [00:06:01,230 - 00:06:02,320] much money is your business generated?
+- [00:06:02,420 - 00:06:04,110] In all my companies combined,
+- [00:06:04,110 - 00:06:05,800] we've done about $25 million total.
+- [00:06:06,060 - 00:06:07,450] When it comes to the way that people look
+- [00:06:07,450 - 00:06:08,840] at money, what would you say is the biggest
+- [00:06:08,840 - 00:06:10,310] thing that separates the middle class from
+- [00:06:10,310 - 00:06:11,780] those who really do end up building that
+- [00:06:11,780 - 00:06:13,880] generational wealth and becoming financially free?
+- [00:06:13,920 - 00:06:15,790] The number one thing between the rich and
+- [00:06:15,790 - 00:06:17,660] the poor when it comes to how they perceive
+- [00:06:17,660 - 00:06:18,830] money is the poor want
+- [00:06:18,830 - 00:06:20,000] to want to keep their money.
+- [00:06:20,420 - 00:06:21,720] It's like acorns, like squirrels.
+- [00:06:21,740 - 00:06:23,000] They take all these acorns.
+- [00:06:23,040 - 00:06:23,280] They put it in their pockets.
+- [00:06:23,280 - 00:06:23,739] They put it in a tree.
+- [00:06:23,859 - 00:06:25,249] There's only so much fucking room in this
+- [00:06:25,249 - 00:06:26,640] tree for acorns at the end of the day.
+- [00:06:26,719 - 00:06:27,739] The rich people do the opposite.
+- [00:06:27,919 - 00:06:29,780] They take their money and they find ways.
+- [00:06:29,880 - 00:06:31,419] They treat them like an army of soldiers, right?
+- [00:06:31,460 - 00:06:33,210] Every dollar is a soldier and they go put
+- [00:06:33,210 - 00:06:34,960] that soldier out to go and make more money
+- [00:06:34,960 - 00:06:36,020] at the end of the day and multiply.
+- [00:06:36,239 - 00:06:38,239] And I've never been scared the last five to
+- [00:06:38,239 - 00:06:40,239] six years to go and spend all the money I
+- [00:06:40,239 - 00:06:42,049] have to go build more businesses, to go
+- [00:06:42,049 - 00:06:43,859] make investments in my future, in my brain, in
+- [00:06:43,859 - 00:06:44,880] my company, whatever it is.
+- [00:06:44,919 - 00:06:46,369] Whereas I see all my friends that stay in
+- [00:06:46,369 - 00:06:47,820] the same spot, as much money as they make,
+- [00:06:47,880 - 00:06:48,920] they sit there and they hoard
+- [00:06:48,920 - 00:06:49,960] and they always play on defense.
+- [00:06:50,219 - 00:06:51,619] And I'll tell you this, whoever's listening,
+- [00:06:51,619 - 00:06:53,020] you'll look back in 20, 30 years.
+- [00:06:53,020 - 00:06:54,999] If you play your whole life on defense, saving
+- [00:06:54,999 - 00:06:56,979] and just trying to cut costs and cut corners,
+- [00:06:57,099 - 00:06:58,309] you'll look back and you'll really
+- [00:06:58,309 - 00:06:59,520] regret how you played your life.
+- [00:06:59,620 - 00:07:00,579] I think if you play your
+- [00:07:00,579 - 00:07:01,539] life on offense, you're a go-getter.
+- [00:07:01,599 - 00:07:02,949] You try to fucking shoot big,
+- [00:07:02,949 - 00:07:04,299] play big, roll the dice on yourself.
+- [00:07:04,460 - 00:07:05,409] I think you'll be a lot
+- [00:07:05,409 - 00:07:06,359] happier with the decisions that you make.
+- [00:07:06,539 - 00:07:08,419] For somebody who is stuck in that cycle
+- [00:07:08,419 - 00:07:10,299] of poverty, what are some actionable first steps
+- [00:07:10,299 - 00:07:11,829] that they can take to really get serious
+- [00:07:11,829 - 00:07:13,359] about creating the life that they want for themselves
+- [00:07:13,359 - 00:07:14,520] and becoming financially free?
+- [00:07:14,560 - 00:07:15,320] I'm going to give you a story.
+- [00:07:15,380 - 00:07:16,730] When I was 21, I was making
+- [00:07:16,730 - 00:07:18,080] about 150K a year in a sales job.
+- [00:07:18,159 - 00:07:19,549] I quit that sales job to
+- [00:07:19,549 - 00:07:20,940] go work a 30K a year job.
+- [00:07:20,940 - 00:07:22,820] And the reason I did that was because I understood.
+- [00:07:23,020 - 00:07:24,780] At that age, I could learn.
+- [00:07:24,960 - 00:07:26,730] I could invest in my brain and I
+- [00:07:26,730 - 00:07:28,500] could learn enough information from 21 to 29
+- [00:07:28,500 - 00:07:30,730] that just in year 30 alone, I can make
+- [00:07:30,730 - 00:07:32,960] more money than all my friends made those nine years.
+- [00:07:33,120 - 00:07:34,389] And so the problem is when you're young,
+- [00:07:34,389 - 00:07:35,659] you see a lot of people making money
+- [00:07:35,659 - 00:07:36,740] and you want to chase money.
+- [00:07:36,940 - 00:07:38,359] You want to find a job that's paying more.
+- [00:07:38,440 - 00:07:39,399] You want to do all these
+- [00:07:39,399 - 00:07:40,359] things and just chase money, money, money.
+- [00:07:40,500 - 00:07:41,899] But at the end of the day, if
+- [00:07:41,899 - 00:07:43,299] you change that perspective and you chase knowledge,
+- [00:07:43,440 - 00:07:45,220] information, skill sets for that, you know,
+- [00:07:45,220 - 00:07:47,000] especially that beginning part of your life,
+- [00:07:47,020 - 00:07:48,309] when you get to the age of 30,
+- [00:07:48,309 - 00:07:49,599] you can make more money in that one year
+- [00:07:49,599 - 00:07:50,839] than you made the last nine years
+- [00:07:50,839 - 00:07:52,080] and your friends made the last nine years.
+- [00:07:52,180 - 00:07:52,900] And it's only going to keep.
+- [00:07:52,900 - 00:07:53,440] It's compounding.
+- [00:07:53,440 - 00:07:55,160] So take every bit of time that you have,
+- [00:07:55,160 - 00:07:56,880] every dollar that you have at a young age,
+- [00:07:56,960 - 00:07:58,849] invest in knowledge, information,
+- [00:07:58,849 - 00:08:00,739] masterminds, YouTube video, online courses.
+- [00:08:00,900 - 00:08:01,659] Don't listen to your friends.
+- [00:08:01,820 - 00:08:02,859] That shit is not a scam, dude.
+- [00:08:02,919 - 00:08:04,260] That shit has absolutely changed my life.
+- [00:08:04,340 - 00:08:06,120] And in this last 12 months, I've made
+- [00:08:06,120 - 00:08:07,900] more money than I have the last nine years
+- [00:08:07,900 - 00:08:09,520] of working every single day because
+- [00:08:09,520 - 00:08:11,140] of those skills that compounded over time.
+- [00:08:11,260 - 00:08:12,000] Give me that shit, bro.
+- [00:08:12,219 - 00:08:12,880] All right, final thing.
+- [00:08:12,940 - 00:08:14,059] If you're sitting on your couch
+- [00:08:14,059 - 00:08:15,179] right now, you're sitting in your car,
+- [00:08:15,260 - 00:08:16,799] wherever the fuck you are watching this video right now,
+- [00:08:16,799 - 00:08:17,679] and you're not where you want to
+- [00:08:17,679 - 00:08:18,560] be in life, you've got to understand,
+- [00:08:18,620 - 00:08:19,889] you've got to look yourself in the
+- [00:08:19,889 - 00:08:21,159] fucking mirror and know it's all on you.
+- [00:08:21,239 - 00:08:22,299] It's on no one else out here.
+- [00:08:22,299 - 00:08:22,880] So get your ass.
+- [00:08:22,900 - 00:08:23,520] Get your ass off the phone.
+- [00:08:23,659 - 00:08:24,520] Open up some books.
+- [00:08:24,679 - 00:08:25,400] Watch some courses.
+- [00:08:25,700 - 00:08:26,840] And get your ass in the game.
+- [00:08:26,979 - 00:08:28,520] And let's start making some dollars, baby.
+- [00:08:28,840 - 00:08:29,159] Peace.
+- [00:08:29,479 - 00:08:31,700] That interview with Eddie was absolutely insane.
+- [00:08:31,799 - 00:08:33,129] His business is going to do
+- [00:08:33,129 - 00:08:34,459] $20 to $25 million this year.
+- [00:08:34,559 - 00:08:36,149] And his analogy about the acorns was
+- [00:08:36,149 - 00:08:37,740] one of the craziest that I've ever heard.
+- [00:08:37,880 - 00:08:39,319] Rich people do not hoard their money.
+- [00:08:39,400 - 00:08:40,220] They make it work for them.
+- [00:08:40,319 - 00:08:40,880] Shout out to Eddie.
+- [00:08:40,980 - 00:08:41,779] Let's go get this next
+- [00:08:41,779 - 00:08:42,579] one and keep this video rolling.
+- [00:08:42,699 - 00:08:43,939] How long have you been an entrepreneur for?
+- [00:08:44,020 - 00:08:44,980] This is going on my eighth year.
+- [00:08:45,120 - 00:08:47,199] What industry did you decide to pursue a career in?
+- [00:08:47,260 - 00:08:48,520] So what I do is I
+- [00:08:48,520 - 00:08:49,780] teach individuals and entrepreneurs how to start,
+- [00:08:49,900 - 00:08:51,780] grow, or scale any business by way of leveraging credit.
+- [00:08:51,780 - 00:08:52,880] So I created a software.
+- [00:08:52,900 - 00:08:54,100] That leverages Metro to
+- [00:08:54,100 - 00:08:55,300] compliance with artificial intelligence.
+- [00:08:55,500 - 00:08:57,660] And anybody, no matter what your credit scores look like,
+- [00:08:57,760 - 00:08:59,130] what's on your credit profile, you can use
+- [00:08:59,130 - 00:09:00,500] this software with a click of a button.
+- [00:09:00,620 - 00:09:01,660] It uploads your credit profile.
+- [00:09:01,760 - 00:09:02,920] And it'll do all of the work for you, bro.
+- [00:09:03,000 - 00:09:03,969] What's the number one
+- [00:09:03,969 - 00:09:04,939] lesson you've learned about entrepreneurship
+- [00:09:04,939 - 00:09:06,109] that you pass on to someone
+- [00:09:06,109 - 00:09:07,280] that they cannot learn in school?
+- [00:09:07,380 - 00:09:09,400] I think that we all fool from a society standpoint
+- [00:09:09,400 - 00:09:11,420] that we feel like college is like the way to go.
+- [00:09:11,500 - 00:09:12,560] But it's like when you look at
+- [00:09:12,560 - 00:09:13,620] it, you're learning from somebody that's making,
+- [00:09:13,760 - 00:09:15,160] what, $40,000 to $60,000 a year.
+- [00:09:15,260 - 00:09:17,050] So that means that they can only teach
+- [00:09:17,050 - 00:09:18,840] you how to make $40,000 to $60,000 a year.
+- [00:09:18,939 - 00:09:20,980] So what I realized is that when I graduated college,
+- [00:09:20,980 - 00:09:22,620] that I didn't get the right knowledge and information
+- [00:09:22,620 - 00:09:22,880] that I needed to be a entrepreneur.
+- [00:09:22,900 - 00:09:24,859] So I got a mentor, and I
+- [00:09:24,859 - 00:09:26,819] actually paid this person $55,000 for the year.
+- [00:09:26,980 - 00:09:28,350] But this person helped me scale my
+- [00:09:28,350 - 00:09:29,720] business to over $5 million a year.
+- [00:09:29,800 - 00:09:30,280] That's incredible.
+- [00:09:30,420 - 00:09:31,120] Let me ask you this.
+- [00:09:31,240 - 00:09:32,420] What has been the most amount of money
+- [00:09:32,420 - 00:09:33,600] that you've ever made in a single year?
+- [00:09:33,680 - 00:09:34,550] In a single year, this is
+- [00:09:34,550 - 00:09:35,420] actually going to be our best year.
+- [00:09:35,520 - 00:09:36,380] We're looking at, we're going
+- [00:09:36,380 - 00:09:37,240] to finish by about eight figures,
+- [00:09:37,340 - 00:09:38,680] probably about like $10,000, $11,000 million.
+- [00:09:38,900 - 00:09:40,300] Give a credit hack to the people out there.
+- [00:09:40,420 - 00:09:41,470] What's one thing that people don't
+- [00:09:41,470 - 00:09:42,520] know about how they can use credit
+- [00:09:42,520 - 00:09:44,720] to really generate wealth and become, you know?
+- [00:09:44,800 - 00:09:46,360] Yeah, one simple thing that most people don't
+- [00:09:46,360 - 00:09:47,920] know about is you can add trade lines.
+- [00:09:48,020 - 00:09:49,370] Trade lines, which is considered
+- [00:09:49,370 - 00:09:50,720] authorized users to your credit profile.
+- [00:09:50,720 - 00:09:51,800] And it'll boost up your
+- [00:09:51,800 - 00:09:52,880] credit profile because it's positive.
+- [00:09:52,900 - 00:09:53,850] It's positively affecting four out
+- [00:09:53,850 - 00:09:54,800] of your five credit metrics.
+- [00:09:54,939 - 00:09:56,600] So we're talking about adding a line of credit.
+- [00:09:56,699 - 00:09:57,360] Let's say you own.
+- [00:09:57,480 - 00:09:58,640] I add it to my credit profile.
+- [00:09:58,800 - 00:10:02,000] Let's say if it's a 20-year, $10,000 Discover card, right?
+- [00:10:02,160 - 00:10:03,820] If I add that to my credit profile, then it
+- [00:10:03,820 - 00:10:05,480] boosts me up from, let's say, a $600 to a $700.
+- [00:10:05,740 - 00:10:07,150] Now I can go with access
+- [00:10:07,150 - 00:10:08,560] to $50,000 to $100,000 in credit.
+- [00:10:08,800 - 00:10:09,680] So now I can go start
+- [00:10:09,680 - 00:10:10,560] and grow and scale my business.
+- [00:10:10,720 - 00:10:11,560] You crushed that shit, man.
+- [00:10:11,579 - 00:10:12,160] Let's go, bro.
+- [00:10:12,160 - 00:10:12,760] We're going to go crazy.
+- [00:10:12,880 - 00:10:13,579] We're going to go viral, man.
+- [00:10:13,579 - 00:10:13,959] Let's go.
+- [00:10:14,000 - 00:10:14,540] I love it.
+- [00:10:14,660 - 00:10:16,119] This video was absolutely insane, but
+- [00:10:16,119 - 00:10:17,579] I want you to like and subscribe
+- [00:10:17,579 - 00:10:19,280] for some amazing content coming soon.
+- [00:10:19,280 - 00:10:21,340] And click here to watch us going all
+- [00:10:21,340 - 00:10:23,400] over Miami asking multimillionaires how they became wealthy.
