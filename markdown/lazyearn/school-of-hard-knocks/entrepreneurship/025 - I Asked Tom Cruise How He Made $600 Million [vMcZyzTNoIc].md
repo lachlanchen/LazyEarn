@@ -1,0 +1,549 @@
+# Transcript
+
+Source: lazyearn/school-of-hard-knocks/hard-knocks-interviews/026 - I Asked Tom Cruise How He Made $600 Million [vMcZyzTNoIc].webm
+
+- [00:00:00,000 - 00:00:02,320] i'm about to interview one of the greatest movie
+- [00:00:02,320 - 00:00:04,640] stars of all time and his name it's tom cruise
+- [00:00:04,640 - 00:00:07,160] white industry did you decide to pursue
+- [00:00:07,160 - 00:00:09,680] a career movies which encompasses almost every industry
+- [00:00:09,680 - 00:00:12,120] i'm here with tom cruise it's nice to see you
+- [00:00:12,120 - 00:00:14,560] he's been the face of hollywood for over 40 years
+- [00:00:14,560 - 00:00:16,760] starring in blockbuster films like pop gun and
+- [00:00:16,760 - 00:00:18,960] mission impossible he's made billions at the box
+- [00:00:18,960 - 00:00:20,960] office while earning hundreds of millions of
+- [00:00:20,960 - 00:00:22,960] dollars personally and becoming one of the most
+- [00:00:22,960 - 00:00:25,840] iconic actors of all time so today i'm in my
+- [00:00:25,840 - 00:00:28,720] home state of texas to meet with the legend himself tom
+- [00:00:28,720 - 00:00:31,520] cruise to figure out his secrets ask him how
+- [00:00:31,520 - 00:00:34,320] he became one of the greatest actors in history all
+- [00:00:34,320 - 00:00:36,640] while building an empire in the process so this
+- [00:00:36,640 - 00:00:38,960] video is about to be insane from start to finish
+- [00:00:38,960 - 00:00:46,200] so stay tuned to the end with that being said
+- [00:00:46,200 - 00:00:53,440] let's get this video on the way all right you
+- [00:00:53,440 - 00:00:55,320] guys so we're gonna be meeting up with tom
+- [00:00:55,320 - 00:00:57,200] cruise very shortly but i need you guys to understand
+- [00:00:57,200 - 00:00:57,950] something look tom cruise is a great actor he's a
+- [00:00:57,950 - 00:00:58,700] great actor he's a great actor he's a great actor
+- [00:00:58,700 - 00:01:00,930] is one of the richest men in all of hollywood he's
+- [00:01:00,930 - 00:01:03,160] one of the richest actors of all time and i'm going
+- [00:01:03,160 - 00:01:05,180] to be interviewing him out in san antonio but
+- [00:01:05,180 - 00:01:07,200] right now i'm standing in one of the billionaire
+- [00:01:07,200 - 00:01:09,860] capitals of the world i'm in austin texas home
+- [00:01:09,860 - 00:01:12,520] to billionaires like elon musk michael dell guys worth
+- [00:01:12,520 - 00:01:14,220] billions of dollars and i'm going to be
+- [00:01:14,220 - 00:01:15,920] cold approaching some of the richest people in all
+- [00:01:15,920 - 00:01:17,760] of austin right now and one of the billionaire hot
+- [00:01:17,760 - 00:01:19,600] spots out here in downtown so we're going to go see
+- [00:01:19,600 - 00:01:21,740] who we can find and how they made their well
+- [00:01:21,740 - 00:01:23,880] not millions but billions out here you guys come on
+- [00:01:23,880 - 00:01:26,180] excuse me sir sir how old were you when you became
+- [00:01:26,180 - 00:01:28,480] a millionaire uh about 40 years old and how did you
+- [00:01:28,700 - 00:01:31,550] rich have you ever had one of these uh kind bar
+- [00:01:31,550 - 00:01:34,400] yes i found it you created the cod bar yeah and
+- [00:01:34,400 - 00:01:36,340] how much money did you make selling these we sold
+- [00:01:36,340 - 00:01:38,280] over a billion dollars a year are you a billionaire
+- [00:01:38,280 - 00:01:40,560] i guess so but i spent 30 years building
+- [00:01:40,560 - 00:01:42,840] my business prior to kind and then only last
+- [00:01:42,840 - 00:01:44,720] december i finally sold the company i got all
+- [00:01:44,720 - 00:01:46,600] over the world and even billionaires to help the younger
+- [00:01:46,600 - 00:01:48,240] generation can i get a minute with you for
+- [00:01:48,240 - 00:01:49,880] our channel real quick sure with pleasure who am i
+- [00:01:49,880 - 00:01:52,120] here with today daniel lubetsky how did you come up
+- [00:01:52,120 - 00:01:54,360] with the idea for kind 10 years of mistakes in
+- [00:01:54,360 - 00:01:56,140] the natural food industries i first started
+- [00:01:56,140 - 00:01:57,920] a company called peace works to bring neighbors
+- [00:01:57,920 - 00:01:58,300] in conflict region and i'm here with a billionaire
+- [00:01:58,300 - 00:01:58,680] who is a billionaire who is a billionaire who is
+- [00:01:58,680 - 00:01:58,930] a billionaire who is a billionaire who is a
+- [00:01:58,930 - 00:01:59,180] billionaire who is a billionaire who is a billionaire
+- [00:01:59,180 - 00:02:01,460] made so many mistakes but eventually had an idea
+- [00:02:01,460 - 00:02:03,740] for a healthy snack that you could travel with and
+- [00:02:03,740 - 00:02:05,300] that exploded and did really well did you
+- [00:02:05,300 - 00:02:06,860] have anybody that doubted you when you started this
+- [00:02:06,860 - 00:02:09,400] company everyone doubted me like even my parents who
+- [00:02:09,400 - 00:02:11,940] i love so much look what is this crazy mexican
+- [00:02:11,940 - 00:02:14,220] jewish lawyer doing selling sunday tomato spreads in
+- [00:02:14,220 - 00:02:16,500] the streets of manhattan what was the biggest
+- [00:02:16,500 - 00:02:18,420] risk that you took throughout your career i mean everything
+- [00:02:18,420 - 00:02:20,340] in my life was like that but i had a
+- [00:02:20,340 - 00:02:22,460] degree from stanford law school i could have gone work
+- [00:02:22,460 - 00:02:24,580] to a fancy law firm and instead i had my
+- [00:02:24,580 - 00:02:26,600] little legal suitcase emptied it from the books
+- [00:02:26,600 - 00:02:28,620] added all my products and i was walking around
+- [00:02:28,620 - 00:02:30,830] up and down the streets of manhattan 7 a.m
+- [00:02:30,830 - 00:02:33,040] in the morning letting people try my products door by
+- [00:02:33,040 - 00:02:35,470] door door by door from 7 a.m to 7 p.m and
+- [00:02:35,470 - 00:02:37,900] then the following day i would go and deliver the product
+- [00:02:37,900 - 00:02:40,260] to stores by myself and repeat and rinse rinse
+- [00:02:40,260 - 00:02:42,620] and repeat rinse and repeat for many many years
+- [00:02:42,620 - 00:02:44,560] you built a billion dollar brand what's your best
+- [00:02:44,560 - 00:02:46,500] branding advice for anybody out there what you see
+- [00:02:46,500 - 00:02:48,630] the consistent don't try to change things because
+- [00:02:48,630 - 00:02:50,760] if you try to please everybody you're going to
+- [00:02:50,760 - 00:02:53,090] please nobody always stay consistent with what
+- [00:02:53,090 - 00:02:55,420] your logo is marketers always want to change
+- [00:02:55,420 - 00:02:56,920] things which is cool but there's
+- [00:02:56,920 - 00:02:58,420] things that shouldn't change your value
+- [00:02:58,620 - 00:03:00,820] a value statement what does my brand stand for
+- [00:03:00,820 - 00:03:03,020] and very importantly what it is not and be true
+- [00:03:03,020 - 00:03:05,060] to that always be what you say you are never
+- [00:03:05,060 - 00:03:07,100] be what you say you're not and be consistent consistent
+- [00:03:07,100 - 00:03:09,250] consistent you know even after we were selling
+- [00:03:09,250 - 00:03:11,400] billions of dollars and worth billions of dollars
+- [00:03:11,400 - 00:03:13,440] sometimes people still didn't know that the brand
+- [00:03:13,440 - 00:03:15,480] was called kind they remember the colors but it
+- [00:03:15,480 - 00:03:18,030] takes a long time to build an iconic brand
+- [00:03:18,030 - 00:03:20,580] you just need to stay consistent like our logo we
+- [00:03:20,580 - 00:03:23,360] never changed it we were very very consistent
+- [00:03:23,360 - 00:03:26,140] so people develop the mental framework and understand
+- [00:03:26,140 - 00:03:27,370] it and what does it
+- [00:03:27,370 - 00:03:28,600] mean a brand is a promise
+- [00:03:28,620 - 00:03:31,060] a great brand is a promise well kept your
+- [00:03:31,060 - 00:03:33,500] school of hard knocks you know exactly what you're trying
+- [00:03:33,500 - 00:03:35,530] to do you know what your consumer what your viewer
+- [00:03:35,530 - 00:03:37,560] wants to get out of you and you're very consistent
+- [00:03:37,560 - 00:03:39,340] that's why you're succeeding because you know exactly
+- [00:03:39,340 - 00:03:41,120] what you need to deliver if one day you're
+- [00:03:41,120 - 00:03:42,570] gonna go philosophical and the other one you're
+- [00:03:42,570 - 00:03:44,020] gonna practical and the other way you're gonna
+- [00:03:44,020 - 00:03:45,980] talk to old people they'll do it's gonna be much
+- [00:03:45,980 - 00:03:47,940] harder for people to know what to look for so you
+- [00:03:47,940 - 00:03:50,300] need to be consistent whether you're creating
+- [00:03:50,300 - 00:03:52,660] a social media channel or product just consistency
+- [00:03:52,660 - 00:03:54,760] is everything now Warren Buffett one of the richest
+- [00:03:54,760 - 00:03:56,860] men on planet earth says that distribution is the
+- [00:03:56,860 - 00:03:57,730] key to everything you're in every store known
+- [00:03:57,730 - 00:03:58,600] to everyone you're gonna be successful you're gonna be
+- [00:03:58,620 - 00:04:00,330] in demand what was your secret to getting
+- [00:04:00,330 - 00:04:02,040] into distribution getting in every single retail store
+- [00:04:02,040 - 00:04:04,050] on the planet hard knocks that's the name of
+- [00:04:04,050 - 00:04:06,060] your channel right it's literally hard knocks like I
+- [00:04:06,060 - 00:04:08,470] was on a date with my wife and I would ask
+- [00:04:08,470 - 00:04:10,880] her before she was my wife hold on I need to check
+- [00:04:10,880 - 00:04:12,840] into this bodega I'm need to go into
+- [00:04:12,840 - 00:04:14,800] this convenience store and I would like sell or
+- [00:04:14,800 - 00:04:16,820] try to get the product the right shelves one at
+- [00:04:16,820 - 00:04:18,839] a time one at a time you build this thing
+- [00:04:18,839 - 00:04:21,420] it took years and years and years of knocking
+- [00:04:21,420 - 00:04:24,000] down all those doors and slowly but surely you
+- [00:04:24,000 - 00:04:26,010] just keep building it what's a lesson about money
+- [00:04:26,010 - 00:04:28,020] that is not taught in school that you would instill
+- [00:04:28,620 - 00:04:31,320] in the world watching right now my grandfather was
+- [00:04:31,320 - 00:04:34,020] a rancher in Mexico he was a cattleman and he
+- [00:04:34,020 - 00:04:36,420] said a man that's too proud to pick up a penny
+- [00:04:36,420 - 00:04:38,820] is not worth a penny and I think it's a really
+- [00:04:38,820 - 00:04:41,130] important lesson too don't feel like you're above saving
+- [00:04:41,130 - 00:04:43,440] that dollar and he used to also say mind
+- [00:04:43,440 - 00:04:45,510] the pennies and the dollars will mind themselves
+- [00:04:45,510 - 00:04:47,580] be humble enough to appreciate that one penny I'm
+- [00:04:47,580 - 00:04:49,710] walking on the street I will bend over and pick
+- [00:04:49,710 - 00:04:51,840] up the penny not just because it's a penny but
+- [00:04:51,840 - 00:04:53,940] it's because it says that you're never going to
+- [00:04:53,940 - 00:04:56,040] be above trying to hustle and trying to work hard
+- [00:04:56,040 - 00:04:58,380] and appreciate and stretch every dollar what is your best
+- [00:04:58,620 - 00:05:01,020] planning advice how do you know I'm 56. Daniel if
+- [00:05:01,020 - 00:05:03,420] me and you died tomorrow and you had one more
+- [00:05:03,420 - 00:05:05,040] guiding principle to leave with the younger generation
+- [00:05:05,040 - 00:05:06,660] what would that be be kind to every
+- [00:05:06,660 - 00:05:08,880] human being the reason the company is called kind
+- [00:05:08,880 - 00:05:11,100] is I named after my father he was a Holocaust
+- [00:05:11,100 - 00:05:13,350] survivor he was in the Dachau concentration
+- [00:05:13,350 - 00:05:15,600] camp American soldiers risked their lives to liberate
+- [00:05:15,600 - 00:05:17,640] him and in spite of all of the horrors
+- [00:05:17,640 - 00:05:19,680] that he went through he was kind to everybody whether
+- [00:05:19,680 - 00:05:21,930] it's the bank teller or the bank president
+- [00:05:21,930 - 00:05:24,180] who was a flight attendant everybody he told jokes
+- [00:05:24,180 - 00:05:26,370] he was kind he was loving to every
+- [00:05:26,370 - 00:05:28,560] human being he saw his role as bringing smiles
+- [00:05:28,620 - 00:05:30,990] to everybody and that's the very small way how
+- [00:05:30,990 - 00:05:33,360] what I tried to emulate to make this a better
+- [00:05:33,360 - 00:05:35,340] world than the way we found it that's
+- [00:05:35,340 - 00:05:37,320] beautiful right there how important was the entity structuring
+- [00:05:37,320 - 00:05:39,060] when you were building kind bar did you start like
+- [00:05:39,060 - 00:05:40,800] an LLC or an S corporate what did you end up
+- [00:05:40,800 - 00:05:43,530] starting it's super important we used to be an
+- [00:05:43,530 - 00:05:46,260] LLC and it was just passed through so it's efficient
+- [00:05:46,260 - 00:05:49,170] the disadvantage of an LLC is that if you do
+- [00:05:49,170 - 00:05:52,080] have profits and you're paying them every year and I
+- [00:05:52,080 - 00:05:54,480] was actually profitable and I was paying tax every
+- [00:05:54,480 - 00:05:56,880] year when you have a C Corp structure there's
+- [00:05:56,880 - 00:05:58,600] double taxation but if you're just
+- [00:05:58,620 - 00:06:00,870] focusing on growth not on profits every year
+- [00:06:00,870 - 00:06:03,120] it's a very good structure because then you're
+- [00:06:03,120 - 00:06:05,220] not paying taxes unless you have a distribution
+- [00:06:05,220 - 00:06:07,320] or a liquidity event and if you're not planning
+- [00:06:07,320 - 00:06:09,210] to do it if you're planning to grow for the
+- [00:06:09,210 - 00:06:11,100] future that a C Corp structure is good and you
+- [00:06:11,100 - 00:06:13,110] aim to just keep the money with the
+- [00:06:13,110 - 00:06:15,120] company reinvest reinvest grow grow grow and then
+- [00:06:15,120 - 00:06:17,250] you're compounding without having to pay taxes every
+- [00:06:17,250 - 00:06:19,380] year it's super important for you to get
+- [00:06:19,380 - 00:06:21,510] the right structure there's a company that we use
+- [00:06:21,510 - 00:06:23,640] called busy for all of our entity structuring for
+- [00:06:23,640 - 00:06:25,500] our businesses they make it super affordable
+- [00:06:25,500 - 00:06:27,360] and easy for any entrepreneur in Turkey yeah
+- [00:06:28,620 - 00:06:31,290] and the best part is you can do it like in
+- [00:06:31,290 - 00:06:33,960] seconds you can turn that ID into a business overnight in
+- [00:06:33,960 - 00:06:36,030] seconds so it's like super effective and efficient
+- [00:06:36,030 - 00:06:38,100] for all the entrepreneurs very cool I'll recommend
+- [00:06:38,100 - 00:06:40,050] it to my team guys we're gonna be meeting
+- [00:06:40,050 - 00:06:42,000] Tom Cruise very soon but we just interviewed a
+- [00:06:42,000 - 00:06:44,070] billionaire did you hear what he just told me
+- [00:06:44,070 - 00:06:46,140] he said one of the most important decisions you will
+- [00:06:46,140 - 00:06:48,600] ever make is how you structure your company
+- [00:06:48,600 - 00:06:51,060] not marketing not products setting up your business
+- [00:06:51,060 - 00:06:53,490] entity and he's right guys look if you don't set
+- [00:06:53,490 - 00:06:55,920] your business up the right way from day one you
+- [00:06:55,920 - 00:06:58,560] risk losing so much money paying way too much in
+- [00:06:58,620 - 00:07:00,990] taxes and even putting your personal assets on the
+- [00:07:00,990 - 00:07:03,360] line and that's exactly why when I built my
+- [00:07:03,360 - 00:07:05,730] multi-million dollar business I went through busy
+- [00:07:05,730 - 00:07:08,100] they handled setting up my LLC and they
+- [00:07:08,100 - 00:07:10,350] continue to handle my state compliance filings each
+- [00:07:10,350 - 00:07:12,600] year to keep my company in good standing
+- [00:07:12,600 - 00:07:15,300] with the state with busy not only can you form
+- [00:07:15,300 - 00:07:18,000] your LLC or S Corp in minutes you also get a
+- [00:07:18,000 - 00:07:20,280] free registered agent for a year and lifetime
+- [00:07:20,280 - 00:07:22,560] compliance alerts so you never miss a deadline
+- [00:07:22,560 - 00:07:25,320] no lawyers no confusion just the peace of mind
+- [00:07:25,320 - 00:07:28,080] for managing your business in one place so if you're
+- [00:07:28,620 - 00:07:31,260] turning your idea or side hustle into a real business
+- [00:07:31,260 - 00:07:33,900] guys do not wait all you have to do is
+- [00:07:33,900 - 00:07:36,090] go down and click the link in the description
+- [00:07:36,090 - 00:07:38,280] of this video to start your business with busy today
+- [00:07:38,280 - 00:07:39,840] but with that being said let's get back to the
+- [00:07:39,840 - 00:07:41,400] video all right you guys so I know we're going
+- [00:07:41,400 - 00:07:43,590] to be linking up and interviewing the legendary Tom
+- [00:07:43,590 - 00:07:45,780] Cruise very soon but before we do that I've
+- [00:07:45,780 - 00:07:48,270] got a crazy surprise for you guys so check
+- [00:07:48,270 - 00:07:50,760] this out most people spend their entire lives trying
+- [00:07:50,760 - 00:07:53,580] to make just one million dollars but Thomas Healy
+- [00:07:53,580 - 00:07:56,400] no no no no he became one of the youngest
+- [00:07:58,620 - 00:08:00,390] years old and I'm going to be meeting up with him
+- [00:08:00,390 - 00:08:02,160] right now to figure out exactly how he did it guys
+- [00:08:02,160 - 00:08:04,230] he literally went head to head with Tesla one
+- [00:08:04,230 - 00:08:06,300] of the biggest companies in the world and he built
+- [00:08:06,300 - 00:08:08,610] an electric trucking company took it public to the
+- [00:08:08,610 - 00:08:10,920] Nasdaq and became a billionaire before he turned 30
+- [00:08:10,920 - 00:08:13,080] years old so we're gonna be figuring out exactly how
+- [00:08:13,080 - 00:08:15,240] he did that and how you can turn an idea into
+- [00:08:15,240 - 00:08:17,250] an empire so let's waste no more time that's gonna be
+- [00:08:17,250 - 00:08:19,260] Thomas right now go see what he has to say all
+- [00:08:19,260 - 00:08:21,120] right you guys so we're right now here meeting
+- [00:08:21,120 - 00:08:22,980] up with that man Thomas right here the youngest
+- [00:08:22,980 - 00:08:25,110] self-made billionaire in the world you guys come on
+- [00:08:25,110 - 00:08:27,240] what's going on Thomas how you doing man it's
+- [00:08:28,620 - 00:08:30,810] coming out man we were letting them know
+- [00:08:30,810 - 00:08:33,000] man 28 years old you became the youngest self-made
+- [00:08:33,000 - 00:08:35,070] billionaire in the entire world I did great to
+- [00:08:35,070 - 00:08:37,140] meet you and looking forward to sharing a little
+- [00:08:37,140 - 00:08:39,089] advice with your audience I got one rule for this
+- [00:08:39,089 - 00:08:41,039] interview no hold them back I need you to give
+- [00:08:41,039 - 00:08:43,109] them a billion dollars worth of game can we make
+- [00:08:43,109 - 00:08:45,180] that happen at just 33 years old I've been through
+- [00:08:45,180 - 00:08:47,160] a lot in this short life and so I can't wait
+- [00:08:47,160 - 00:08:49,140] to share more let's make it happen who am I here
+- [00:08:49,140 - 00:08:51,780] with today have you heard of Kylie Jenner yes
+- [00:08:51,780 - 00:08:54,420] so in 2020 I dethroned her as the youngest self-made
+- [00:08:54,420 - 00:08:56,490] billionaire in the world are you serious so
+- [00:08:56,490 - 00:08:58,560] I took my company public we're trading on the
+- [00:08:58,620 - 00:09:01,530] New York Stock Exchange and in 2020 we hit a
+- [00:09:01,530 - 00:09:04,440] 10 billion dollar valuation so how old were you when
+- [00:09:04,440 - 00:09:06,600] you became a billionaire so I was 28 yeah so
+- [00:09:06,600 - 00:09:08,760] this is all new I became the youngest public company
+- [00:09:08,760 - 00:09:11,160] CEO that there was and we were going public
+- [00:09:11,160 - 00:09:13,560] on the New York Stock Exchange ringing the bell opening
+- [00:09:13,560 - 00:09:16,140] the uh markets now the average age of a billionaire
+- [00:09:16,140 - 00:09:18,720] is what is it like 70 80 years old or something
+- [00:09:18,720 - 00:09:21,000] most people get there later in their life I
+- [00:09:21,000 - 00:09:23,280] was super fortunate that I started this company I
+- [00:09:23,280 - 00:09:25,620] dropped out of college I was in Carnegie Mellon
+- [00:09:25,620 - 00:09:27,960] and I had this idea of let's go electrify commercial
+- [00:09:28,620 - 00:09:31,350] out and started this journey and a few years
+- [00:09:31,350 - 00:09:34,080] later we went public and have raised about 750
+- [00:09:34,080 - 00:09:36,180] million today you had an electric trucking company
+- [00:09:36,180 - 00:09:38,280] you were competing with Tesla were you ever afraid
+- [00:09:38,280 - 00:09:40,470] of competition we were now this has been a
+- [00:09:40,470 - 00:09:42,660] wild Journey so we went public focusing on electric
+- [00:09:42,660 - 00:09:44,790] powertrains but then the mark has changed
+- [00:09:44,790 - 00:09:46,920] electric vehicles have gotten decimated over the past
+- [00:09:46,920 - 00:09:49,290] handful of years and so we actually made the bold
+- [00:09:49,290 - 00:09:51,660] move of pivoting out of that industry and we went
+- [00:09:51,660 - 00:09:53,970] all in on a technology we acquired out
+- [00:09:53,970 - 00:09:56,280] of GE Aerospace where now we're actually making
+- [00:09:56,280 - 00:09:58,560] electricity we have what we think is the future
+- [00:09:58,620 - 00:10:00,720] of how electricity is going to be made so what's
+- [00:10:00,720 - 00:10:02,820] safe to say that you have to master the power of
+- [00:10:02,820 - 00:10:04,770] pivot in order to be a successful entrepreneur we
+- [00:10:04,770 - 00:10:06,720] did we saw that all of our competitors were
+- [00:10:06,720 - 00:10:09,000] going bankrupt they were running out of cash they
+- [00:10:09,000 - 00:10:11,280] weren't able to raise more and we said well we
+- [00:10:11,280 - 00:10:13,560] still have capital left on our balance sheet why
+- [00:10:13,560 - 00:10:15,840] don't we go into a different market where we see
+- [00:10:15,840 - 00:10:18,420] so much growth we saw AI
+- [00:10:18,420 - 00:10:21,000] we saw commercial buildings industrial applications needing
+- [00:10:21,000 - 00:10:23,190] more power and we have the solution for
+- [00:10:23,190 - 00:10:25,380] that now people that achieve that billionaire status what
+- [00:10:25,380 - 00:10:26,850] do they do differently in your eyes
+- [00:10:26,850 - 00:10:28,320] than millionaires one of our early investors
+- [00:10:28,620 - 00:10:30,900] he's a billionaire he said winning is your only
+- [00:10:30,900 - 00:10:33,180] option you can't think about what ways could I
+- [00:10:33,180 - 00:10:35,370] potentially lose at this how could we fail you got
+- [00:10:35,370 - 00:10:37,560] to put all your time and effort into figuring out
+- [00:10:37,560 - 00:10:39,720] how am I going to win and just work relentlessly at
+- [00:10:39,720 - 00:10:41,880] that it has to work or it has to work yeah
+- [00:10:41,880 - 00:10:44,250] winning is the only option most people spend their
+- [00:10:44,250 - 00:10:46,620] entire lives trying to make a million dollars you
+- [00:10:46,620 - 00:10:48,510] become a billionaire before 30. what's the best
+- [00:10:48,510 - 00:10:50,400] industry somebody can get into right now in today's
+- [00:10:50,400 - 00:10:52,950] world AI right now AI is booming it
+- [00:10:52,950 - 00:10:55,500] is unbelievable I think it will totally transform businesses
+- [00:10:55,500 - 00:10:57,000] Industries so what we're doing is we're
+- [00:10:57,000 - 00:10:58,500] saying well we got the way to power
+- [00:10:58,620 - 00:11:01,170] AI power data center so that's the industry I've chosen
+- [00:11:01,170 - 00:11:03,720] and I think it's a winner are you a good
+- [00:11:03,720 - 00:11:05,820] negotiator I think I'm decent at it I think it's
+- [00:11:05,820 - 00:11:07,920] tough to raise 750 million if you're not good at
+- [00:11:07,920 - 00:11:09,720] negotiating so give me a piece of
+- [00:11:09,720 - 00:11:11,520] negotiation advice right here that can change somebody's
+- [00:11:11,520 - 00:11:13,350] life never get into a position where
+- [00:11:13,350 - 00:11:15,180] you're desperate that's where things usually go wrong
+- [00:11:15,180 - 00:11:17,100] we have to have leverage absolutely leverage is
+- [00:11:17,100 - 00:11:19,020] everything in a negotiation and you need to be
+- [00:11:19,020 - 00:11:21,030] willing to walk away when it doesn't make sense I
+- [00:11:21,030 - 00:11:23,040] had remember it clear as day like it was yesterday
+- [00:11:23,040 - 00:11:25,170] a night where we were supposed to close the
+- [00:11:25,170 - 00:11:27,300] deal the following day the investor tried to change the
+- [00:11:28,620 - 00:11:30,630] deal this evening I flew to Florida met
+- [00:11:30,630 - 00:11:32,640] with a different investor and the following day signed
+- [00:11:32,640 - 00:11:35,040] the entire deal with a totally new investor because we
+- [00:11:35,040 - 00:11:37,440] had another option so it's safe to say that if
+- [00:11:37,440 - 00:11:39,270] somebody else won't somebody else will yeah
+- [00:11:39,270 - 00:11:41,100] absolutely and you got to have those people
+- [00:11:41,100 - 00:11:43,410] bought in around you that are willing to make that leap
+- [00:11:43,410 - 00:11:45,720] or jump with you and dive in you got to know
+- [00:11:45,720 - 00:11:47,490] your worth of business because you could have
+- [00:11:47,490 - 00:11:49,260] been comfortable with closing on that deal when they
+- [00:11:49,260 - 00:11:50,730] tried to change the turns up last minute so you
+- [00:11:50,730 - 00:11:52,200] got to know your worth you got to know your worth
+- [00:11:52,200 - 00:11:54,300] and you got to always keep a plan B right
+- [00:11:54,300 - 00:11:56,400] because the path that you're going on could change at any
+- [00:11:56,400 - 00:11:58,500] time and whether it's because of something you did
+- [00:11:58,620 - 00:12:00,930] or some factor that you have zero control over
+- [00:12:00,930 - 00:12:03,240] things change in this world and you got to have
+- [00:12:03,240 - 00:12:05,160] different options lined up to be able to jump
+- [00:12:05,160 - 00:12:07,080] on them in a second and your last message to
+- [00:12:07,080 - 00:12:09,180] the younger generation figure out what you want to do
+- [00:12:09,180 - 00:12:11,280] in your life and then go all in one of the
+- [00:12:11,280 - 00:12:13,470] mottos at Carnegie Mellon was my heart is in the
+- [00:12:13,470 - 00:12:15,660] work and I think that's a great thing to live by
+- [00:12:15,660 - 00:12:17,580] you got amazing advice my friend no I appreciate it
+- [00:12:17,580 - 00:12:19,500] thank you so much for your time man guys we
+- [00:12:19,500 - 00:12:21,660] just interviewed one of the youngest self-made billionaires
+- [00:12:21,660 - 00:12:23,820] in the entire world and he just gave
+- [00:12:23,820 - 00:12:25,740] a beautiful interview for all the entrepreneurs out
+- [00:12:25,740 - 00:12:27,660] there but listen to me very carefully you
+- [00:12:28,620 - 00:12:31,470] can now come I'm about to go head in and
+- [00:12:31,470 - 00:12:34,320] interview the legendary Tom Cruise guys he's one of the most
+- [00:12:34,320 - 00:12:36,390] renowned actors one of the greatest of all time
+- [00:12:36,390 - 00:12:38,460] and I'm gonna be getting the secrets on how he
+- [00:12:38,460 - 00:12:40,410] became one of the richest and most successful men in
+- [00:12:40,410 - 00:12:42,360] all of Hollywood so let's go meet up with Tom
+- [00:12:42,360 - 00:12:44,160] Cruise and go see what he has to say
+- [00:12:44,160 - 00:12:45,960] come on listen you guys I've done some crazy interviews
+- [00:12:45,960 - 00:12:48,210] before Shaquille O'Neal Mark Cuban the owner of the
+- [00:12:48,210 - 00:12:50,460] Texans the CEO of Nike but I don't think I've
+- [00:12:50,460 - 00:12:52,440] ever felt this way before an interview man because this
+- [00:12:52,440 - 00:12:54,420] is Tom Cruise man this is Top Gun Mavic this
+- [00:12:54,420 - 00:12:56,220] is Mission Impossible man you've all seen a Tom
+- [00:12:56,220 - 00:12:58,020] Cruise movie before this one's gonna be crazy you
+- [00:12:58,620 - 00:12:58,860] guys go
+- [00:13:05,460 - 00:13:07,560] aren't you guys so we're in the hotel in
+- [00:13:07,560 - 00:13:09,660] San Antonio Texas right now waiting to do the interview
+- [00:13:09,660 - 00:13:11,790] with Tom I want to put this in perspective for
+- [00:13:11,790 - 00:13:13,920] you guys of how crazy this interview actually is so
+- [00:13:13,920 - 00:13:15,930] this is probably going to be one of the
+- [00:13:15,930 - 00:13:17,940] last Mission Impossible movies of all time and here's
+- [00:13:17,940 - 00:13:19,590] the thing guys Mission Impossible comes out tomorrow
+- [00:13:19,590 - 00:13:21,240] so the fact that we're doing this the
+- [00:13:21,240 - 00:13:23,670] day before on his world tour is absolutely crazy in
+- [00:13:23,670 - 00:13:26,100] my home state of Texas you guys no better place
+- [00:13:28,620 - 00:13:29,790] than that guys we'll be linking up with
+- [00:13:29,790 - 00:13:30,960] Tom soon so get ready for this one
+- [00:13:31,620 - 00:13:34,350] great to meet you great to meet you how you
+- [00:13:34,350 - 00:13:37,080] doing great I'm happy to be here thanks for being here
+- [00:13:37,080 - 00:13:39,960] man absolutely this he was in the helicopter
+- [00:13:39,960 - 00:13:42,840] over here directing me doing that so he would
+- [00:13:42,840 - 00:13:44,820] be in the helicopter and he'd open the door
+- [00:13:44,820 - 00:13:46,800] he would hang out the helicopter in our first date
+- [00:13:46,800 - 00:13:48,630] he always had to remind him to put the
+- [00:13:48,630 - 00:13:50,460] seatbelt on but thanks for being happy I thought you'd
+- [00:13:50,460 - 00:13:52,560] give me a little insight yeah I appreciate that
+- [00:13:52,560 - 00:13:54,660] it means a lot thank you thank you what industry
+- [00:13:54,660 - 00:13:56,610] did you decide to pursue a
+- [00:13:56,610 - 00:13:58,560] career movies which encompasses almost every industry
+- [00:13:58,620 - 00:14:01,020] I'm here with Tom Cruz it's nice to see you
+- [00:14:01,020 - 00:14:03,420] and you've been a top actor for decades what's been
+- [00:14:03,420 - 00:14:05,190] the biggest driving factor of your success
+- [00:14:05,190 - 00:14:06,960] throughout your career I don't know what separates
+- [00:14:06,960 - 00:14:09,060] me necessarily I think everyone has their own
+- [00:14:09,060 - 00:14:11,160] their own things that they're interested in and
+- [00:14:11,160 - 00:14:13,410] it's passion and finding something you know that
+- [00:14:13,410 - 00:14:15,660] you're passionate about that it's not what I do
+- [00:14:15,660 - 00:14:18,030] it is who I am and so those things that
+- [00:14:18,030 - 00:14:20,400] I encourage that and others and I'm always asking people what
+- [00:14:20,400 - 00:14:22,860] is your passion and why did you pursue that
+- [00:14:22,860 - 00:14:25,320] and it's my passion to make films my interest in
+- [00:14:25,320 - 00:14:25,850] Humanity my interest in life and how it works
+- [00:14:25,850 - 00:14:26,380] my interest in my Open World it's really an amazing
+- [00:14:26,380 - 00:14:27,000] thing to work with you know I'm not an
+- [00:14:27,000 - 00:14:27,620] official director or a producer but it's important to know
+- [00:14:27,620 - 00:14:28,120] that you're an international film maker and see if I can help
+- [00:14:28,120 - 00:14:28,620] you just to be a part of this and you want to
+- [00:14:28,620 - 00:14:31,930] knowledge and knowledge that I can apply to attain the
+- [00:14:31,930 - 00:14:35,240] goals that I have set for myself and that of
+- [00:14:35,240 - 00:14:37,390] my filmmakers together. I'm just very
+- [00:14:37,390 - 00:14:39,540] passionate about learning, very passionate about storytelling.
+- [00:14:39,700 - 00:14:41,770] You've become obsessed with all aspects of film and
+- [00:14:41,770 - 00:14:43,840] movies. How important was it for you to become
+- [00:14:43,840 - 00:14:46,690] obsessed? It's not obsessed. It's interested.
+- [00:14:46,690 - 00:14:49,540] Obsession can have a negative connotation. It's
+- [00:14:49,540 - 00:14:51,540] an interest. As I said, you look at
+- [00:14:51,540 - 00:14:53,540] the amount of industries that it takes and encompasses
+- [00:14:53,540 - 00:14:56,069] all of life in terms of working with
+- [00:14:56,069 - 00:14:58,599] groups, working with individuals as a producer, as an
+- [00:14:58,599 - 00:15:01,349] actor. So it is a passion. It's something that
+- [00:15:01,349 - 00:15:04,099] just interests me. So I enjoy learning about it.
+- [00:15:04,180 - 00:15:06,999] I enjoy watching films in the theater. I enjoy
+- [00:15:06,999 - 00:15:09,819] the crews that I work with and being directed here,
+- [00:15:09,920 - 00:15:12,330] you know, with Christopher McQuarrie. And so I just,
+- [00:15:12,330 - 00:15:14,740] I love what I do and I feel very privileged
+- [00:15:14,740 - 00:15:16,810] to be able to do something that I love to
+- [00:15:16,810 - 00:15:18,880] do and have audiences accept me and want to be
+- [00:15:18,880 - 00:15:20,500] entertained by me. When you look at a lot
+- [00:15:20,500 - 00:15:22,120] of people, the number one reason I see that they
+- [00:15:22,120 - 00:15:23,459] fail is because they don't believe in themselves.
+- [00:15:23,620 - 00:15:25,940] But when you look at your career, you've
+- [00:15:25,940 - 00:15:28,260] done every death defying stunt imaginable. What was
+- [00:15:28,260 - 00:15:30,239] your perspective on fear and taking risks? Do you
+- [00:15:30,239 - 00:15:32,219] not fear anything? No, it's not a matter. I don't
+- [00:15:32,219 - 00:15:35,379] mind being afraid. I know fear is the unknown and
+- [00:15:35,379 - 00:15:38,540] I enjoy feeling that because it also puts me in a
+- [00:15:38,540 - 00:15:40,590] position of I want to know. And the way that
+- [00:15:40,590 - 00:15:42,640] I approach it is just, as I said, I look for
+- [00:15:42,640 - 00:15:45,239] knowledge that I can apply. And when it's applied,
+- [00:15:45,239 - 00:15:47,839] you get the correct results. So that's what I'm
+- [00:15:47,839 - 00:15:50,009] looking for in terms of everything in my life.
+- [00:15:50,009 - 00:15:52,180] And I'm someone who, if it's not true for me,
+- [00:15:52,180 - 00:15:54,329] it's not true for me. If something isn't real for
+- [00:15:54,329 - 00:15:56,479] me, no matter what, I have to know and experience
+- [00:15:56,479 - 00:15:59,289] it and understand it for myself. And when I
+- [00:15:59,289 - 00:16:02,099] do that, the fear goes away. The adrenaline is still
+- [00:16:02,099 - 00:16:04,569] there. The excitement, the adventure. I want an
+- [00:16:04,569 - 00:16:07,040] adventurous life. I want it. I like adventure. I
+- [00:16:07,040 - 00:16:09,199] like exploring things that, you know, you look
+- [00:16:09,199 - 00:16:11,359] at the aerial stuff that we're talking about here
+- [00:16:11,359 - 00:16:13,459] earlier, you know, when we're doing stuff like this,
+- [00:16:13,459 - 00:16:15,560] it's like how to figure out how to do
+- [00:16:15,560 - 00:16:17,360] something like this. How do we get to this? So
+- [00:16:17,360 - 00:16:19,160] the amount of... So this is you hanging off a plane,
+- [00:16:19,219 - 00:16:20,689] right? Oh yeah, it is. And the amount of knowledge that
+- [00:16:20,689 - 00:16:22,160] we need to do this, it's like, how do we get
+- [00:16:22,180 - 00:16:24,550] to know just to be able to get this shot?
+- [00:16:24,550 - 00:16:26,920] I'm an aerobatic pilot. I fly airplanes. I fly this
+- [00:16:26,920 - 00:16:28,960] airplane. I fly it in all different maneuvers.
+- [00:16:28,960 - 00:16:31,000] It's what piece of equipment to get this shot.
+- [00:16:31,099 - 00:16:33,119] So we had to understand the different
+- [00:16:33,119 - 00:16:35,140] camera equipment. We developed camera equipment and
+- [00:16:35,140 - 00:16:37,390] technology just to get this, the speed at which
+- [00:16:37,390 - 00:16:39,640] this aircraft is traveling. And I also have to
+- [00:16:39,640 - 00:16:41,809] understand what the pilot knows. Because I'm a
+- [00:16:41,809 - 00:16:43,979] pilot, I know the dangers and where we're getting
+- [00:16:43,979 - 00:16:46,339] this aircraft to a stall. So when I'm here,
+- [00:16:46,339 - 00:16:48,699] I'm not just acting and moving in between the wings.
+- [00:16:48,699 - 00:16:51,479] I'm also perceiving what he's going through and the
+- [00:16:52,180 - 00:16:54,059] fuel is coming over that wing. When
+- [00:16:54,059 - 00:16:55,939] you're approaching something like this, you don't know
+- [00:16:55,939 - 00:16:58,229] until you start really looking at it. So what I'll do
+- [00:16:58,229 - 00:17:00,520] is I'll set a goal and I'll write a list of all
+- [00:17:00,520 - 00:17:03,150] the things I think I need to know, to learn, to be
+- [00:17:03,150 - 00:17:05,780] in order to get a shot like this. And I align it
+- [00:17:05,780 - 00:17:08,130] with Christopher McQuarrie and our entire film group.
+- [00:17:08,130 - 00:17:10,480] And so we're also just exploring it. You
+- [00:17:10,480 - 00:17:12,199] don't just sit in a room and draw this
+- [00:17:12,199 - 00:17:13,919] up and think you can get this. There is physically,
+- [00:17:14,079 - 00:17:16,409] how do I train to get here? What kind
+- [00:17:16,409 - 00:17:18,740] of force? The wardrobe. There's so many different elements
+- [00:17:18,740 - 00:17:21,390] that an audience doesn't know why or how, but the
+- [00:17:21,390 - 00:17:24,040] amount of years to be able to get to this,
+- [00:17:24,200 - 00:17:26,650] to do a shot like this and the
+- [00:17:26,650 - 00:17:29,100] collaborative efforts between me and McHugh. The dreams that
+- [00:17:29,100 - 00:17:31,170] we have, and I'm hearing his dreams of what
+- [00:17:31,170 - 00:17:33,240] he wants to create. And I want to participate with
+- [00:17:33,240 - 00:17:35,590] that. And then he hears mine. It's just
+- [00:17:35,590 - 00:17:37,940] this wonderful back and forth with ourselves and with
+- [00:17:37,940 - 00:17:39,560] our whole film group. And that's what I
+- [00:17:39,560 - 00:17:41,180] love. What does your work ethic come from?
+- [00:17:41,280 - 00:17:44,050] Just my desire to be as competent and able
+- [00:17:44,050 - 00:17:46,820] as I can be. That interests me. Excellence interests
+- [00:17:46,820 - 00:17:48,660] me. And it's something that I know that...
+- [00:17:48,740 - 00:17:50,970] Absolutes are unattainable, but that I'm going to
+- [00:17:50,970 - 00:17:53,200] constantly strive for it. And it's my desire
+- [00:17:53,200 - 00:17:56,010] to entertain people. It is my desire to deliver
+- [00:17:56,010 - 00:17:58,820] the very best that I've always felt for myself.
+- [00:17:59,000 - 00:18:01,020] Even when I was a little kid before movies,
+- [00:18:01,020 - 00:18:03,040] it's when I had any job, I always wanted to
+- [00:18:03,040 - 00:18:05,810] understand how to do that job and then do it
+- [00:18:05,810 - 00:18:08,580] at the very highest level that I possibly can. I enjoy
+- [00:18:08,580 - 00:18:10,550] going for that level of perfection. And
+- [00:18:10,550 - 00:18:12,520] your last message to the younger generation.
+- [00:18:12,640 - 00:18:15,060] Man, that was it. You go. Look for knowledge
+- [00:18:15,060 - 00:18:17,480] that you can apply to your lives because there's so
+- [00:18:17,480 - 00:18:18,720] much information out there.
+- [00:18:18,740 - 00:18:21,160] That doesn't mean that it's accurate. I'm someone who
+- [00:18:21,160 - 00:18:23,580] says when I hear it can't be done, I'm like,
+- [00:18:23,640 - 00:18:25,560] I don't know, maybe, you know, how many times
+- [00:18:25,560 - 00:18:27,480] do you think the people weren't like, oh, you could
+- [00:18:27,480 - 00:18:30,630] do this. So it's how to accumulate knowledge that
+- [00:18:30,630 - 00:18:33,780] is applicable towards your goals. And don't be so
+- [00:18:33,780 - 00:18:36,430] afraid to be afraid or nervous. The important
+- [00:18:36,430 - 00:18:39,080] thing is to keep pursuing your dreams and finding
+- [00:18:39,080 - 00:18:41,100] accurate things that are going to add to your life
+- [00:18:41,100 - 00:18:43,120] and to others. You know, the way that I look at
+- [00:18:43,120 - 00:18:45,630] life, I don't live it for myself. I really know
+- [00:18:45,630 - 00:18:48,140] that to live my life, I'm thinking of others and
+- [00:18:48,140 - 00:18:48,620] to lead.
+- [00:18:48,740 - 00:18:51,560] Is to serve not to tell people what to do, but to
+- [00:18:51,560 - 00:18:54,380] help them to be better. So I'd focus on that in terms of
+- [00:18:54,740 - 00:18:56,960] yourself personally, but also others, how you can
+- [00:18:56,960 - 00:18:59,180] contribute to your friends, to your family, to your
+- [00:18:59,180 - 00:19:02,080] workplace in a very positive way. Those things are, you
+- [00:19:02,080 - 00:19:04,980] know, I look to improve every area that I'm in
+- [00:19:05,000 - 00:19:07,460] not not just myself, I'm looking at my decisions
+- [00:19:07,460 - 00:19:09,920] based on what are the ramifications and the effects of
+- [00:19:09,920 - 00:19:12,650] others. So I think we have to think of that when
+- [00:19:12,650 - 00:19:15,380] we're part of the group. So that's kind of what I do.
+- [00:19:15,480 - 00:19:17,240] You got amazing advice. Thank you so much.
+- [00:19:17,240 - 00:19:17,740] Thank you very much.
+- [00:19:17,740 - 00:19:18,620] It's a pleasure, James.
+- [00:19:18,740 - 00:19:19,340] My pleasure.
+- [00:19:19,460 - 00:19:22,000] Guys, we just interviewed the legendary Tom Cruise.
+- [00:19:22,040 - 00:19:24,380] I need you guys watching right now to like
+- [00:19:24,380 - 00:19:26,720] and subscribe for amazing content we got coming every week.
+- [00:19:26,720 - 00:19:28,740] Guys, because nobody's interviewing Tom Cruise.
+- [00:19:28,740 - 00:19:29,600] And we just did that.
+- [00:19:29,600 - 00:19:31,940] And we're going all over the world to bring
+- [00:19:31,940 - 00:19:34,280] you guys the craziest guests, the richest, most successful people.
+- [00:19:34,280 - 00:19:35,400] And I need you guys
+- [00:19:35,400 - 00:19:36,520] to also do yourself a favor.
+- [00:19:36,520 - 00:19:38,950] Go down and click the link in the description of this
+- [00:19:38,950 - 00:19:41,380] video to become a member of the number one most powerful
+- [00:19:41,380 - 00:19:44,000] entrepreneur community and network in the entire world.
+- [00:19:44,000 - 00:19:46,370] We launched it a year ago and have
+- [00:19:46,370 - 00:19:48,740] over 5000 hungry entrepreneurs that get direct access.
+- [00:19:48,740 - 00:19:51,710] And thanks to the millionaires and billionaires I interview every week
+- [00:19:51,710 - 00:19:54,680] on this channel where they mentor you and answer your questions directly.
+- [00:19:54,680 - 00:19:56,090] So I can't wait to see you
+- [00:19:56,090 - 00:19:57,500] on the inside of the school of mentors.
+- [00:19:57,500 - 00:19:58,490] With that being said, I'll
+- [00:19:58,490 - 00:19:59,480] see you in the next video.
