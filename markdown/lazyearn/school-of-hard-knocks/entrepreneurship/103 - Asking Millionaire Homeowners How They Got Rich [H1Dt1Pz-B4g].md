@@ -1,0 +1,560 @@
+# Transcript
+
+Source: lazyearn/school-of-hard-knocks/hard-knocks-interviews/105 - Asking Millionaire Homeowners How They Got Rich [H1Dt1Pz-B4g].webm
+
+- [00:00:00,000 - 00:00:01,770] All right, you guys, this is one of
+- [00:00:01,770 - 00:00:03,540] the craziest cribs I've ever seen in my life.
+- [00:00:03,600 - 00:00:04,560] I can't even call this a house.
+- [00:00:04,660 - 00:00:05,960] This is a little compound, but let's
+- [00:00:05,960 - 00:00:07,260] see if we can get some free game.
+- [00:00:07,400 - 00:00:08,780] I wanted to open it up to you, just
+- [00:00:08,780 - 00:00:10,160] a few questions for your advice to the younger generation.
+- [00:00:10,480 - 00:00:11,180] Sure, I'll take it.
+- [00:00:11,280 - 00:00:12,400] Thank you, sir. I appreciate that.
+- [00:00:12,460 - 00:00:13,040] Yeah, you want to come in?
+- [00:00:13,080 - 00:00:13,720] Yeah, thank you.
+- [00:00:14,540 - 00:00:14,820] Awesome.
+- [00:00:15,020 - 00:00:16,260] How long have you lived in Houston for?
+- [00:00:17,400 - 00:00:19,440] Got here in 1982.
+- [00:00:21,260 - 00:00:22,880] Houston, Texas is the number eight city
+- [00:00:22,880 - 00:00:24,500] in the world with the most millionaires.
+- [00:00:24,580 - 00:00:26,360] Today, we're going to be asking multimillionaire
+- [00:00:26,360 - 00:00:28,140] homeowners in Houston how they became wealthy.
+- [00:00:30,000 - 00:00:36,870] All right, guys, we just got to
+- [00:00:36,870 - 00:00:43,740] our first neighborhood out here in River Oaks.
+- [00:00:43,840 - 00:00:46,090] We're going to be going up to these doors, asking
+- [00:00:46,090 - 00:00:48,340] these multimillion dollar homeowners how they were able to become wealthy.
+- [00:00:48,480 - 00:00:49,249] Let's go in and see if
+- [00:00:49,249 - 00:00:50,019] we can ask them some questions.
+- [00:00:51,200 - 00:00:53,140] It's crazy, man, because we're not just anywhere.
+- [00:00:53,140 - 00:00:55,250] We're out in Texas, and you know how these Texas
+- [00:00:55,250 - 00:00:57,360] people are about just going up to their places and solicitors.
+- [00:00:57,500 - 00:00:58,740] And even though we're not soliciting, we're really
+- [00:00:58,740 - 00:00:59,980] just trying to do this for a good cause.
+- [00:01:00,000 - 00:01:01,760] You got to be very careful, because some people not take
+- [00:01:01,760 - 00:01:03,520] it the right way, going under the door with a camera.
+- [00:01:03,680 - 00:01:04,660] But we want to do our best
+- [00:01:04,660 - 00:01:05,640] to get this content for you guys.
+- [00:01:05,720 - 00:01:06,620] All right, guys, we're here at
+- [00:01:06,620 - 00:01:07,520] our first house in Houston, Texas.
+- [00:01:07,640 - 00:01:09,220] We're going to go up and ask this multimillion
+- [00:01:09,220 - 00:01:10,800] dollar homeowner how they were able to become successful.
+- [00:01:14,160 - 00:01:14,480] Hello.
+- [00:01:14,840 - 00:01:14,880] Hi.
+- [00:01:15,460 - 00:01:16,160] Question for you.
+- [00:01:16,240 - 00:01:17,740] Wanted to know if we could ask
+- [00:01:17,740 - 00:01:19,240] you or someone to add a few questions.
+- [00:01:19,440 - 00:01:20,000] Yeah, sure.
+- [00:01:20,180 - 00:01:22,420] I mean, where are you originally from?
+- [00:01:22,560 - 00:01:23,580] I'm originally from Pakistan.
+- [00:01:23,780 - 00:01:25,860] And what industry did you ultimately pursue a career in?
+- [00:01:26,440 - 00:01:26,720] Anesthesia.
+- [00:01:26,900 - 00:01:27,720] I'm a physician.
+- [00:01:27,720 - 00:01:28,340] Oh, my God.
+- [00:01:28,440 - 00:01:29,580] My journey is very, very long.
+- [00:01:29,580 - 00:01:31,420] Because I was a physician in my country.
+- [00:01:31,679 - 00:01:34,059] And then when I came here, I had
+- [00:01:34,059 - 00:01:36,440] to do all the licensing exams all over again.
+- [00:01:36,600 - 00:01:39,569] But, you know, the beauty about America is if you
+- [00:01:39,569 - 00:01:42,539] put your passion into something that you really want to do,
+- [00:01:42,660 - 00:01:43,600] people recognize that.
+- [00:01:43,740 - 00:01:45,100] And no matter what, they bring you up.
+- [00:01:45,200 - 00:01:46,420] What has been the most amount of money
+- [00:01:46,420 - 00:01:47,640] that you ever made in a single year?
+- [00:01:48,160 - 00:01:50,960] I've made, like, seven figures plus, yeah.
+- [00:01:51,120 - 00:01:52,920] And what would you say is the best
+- [00:01:52,920 - 00:01:54,720] financial advice that you've ever received throughout your lifetime?
+- [00:01:54,720 - 00:01:59,520] You know, somebody once told me that the seventh wonder,
+- [00:01:59,580 - 00:02:01,129] the fourth wonder of the
+- [00:02:01,129 - 00:02:02,679] world is the power of compounding.
+- [00:02:02,840 - 00:02:06,260] So that one dollar that you put into your 401k as
+- [00:02:06,260 - 00:02:09,680] a young person, when you retire, you will see the effect.
+- [00:02:09,780 - 00:02:12,420] So I always tell my kids, the minute you get a
+- [00:02:12,420 - 00:02:15,060] job, open your 401k account and put some money in it.
+- [00:02:15,160 - 00:02:17,130] And my final question for you, for someone
+- [00:02:17,130 - 00:02:19,100] who is, I guess, pursuing healthcare and medicine today,
+- [00:02:19,240 - 00:02:21,430] it takes a lot to be able to work your way up
+- [00:02:21,430 - 00:02:23,620] and make seven figures in any field, but let alone in medicine.
+- [00:02:23,760 - 00:02:24,200] It's competitive.
+- [00:02:24,680 - 00:02:26,540] What's the biggest thing that really made you stand
+- [00:02:26,540 - 00:02:28,400] out in that industry that is a competitive industry?
+- [00:02:28,400 - 00:02:29,460] That's honestly.
+- [00:02:29,580 - 00:02:31,340] It's 90% hard work.
+- [00:02:31,340 - 00:02:33,700] You know, the cream always rises to the top.
+- [00:02:33,700 - 00:02:35,920] For 10 years, I worked every
+- [00:02:35,920 - 00:02:38,140] Christmas, every Thanksgiving, holidays, nights, days.
+- [00:02:38,140 - 00:02:39,580] You get the reward in the end.
+- [00:02:39,580 - 00:02:40,660] Thank you so much for your time.
+- [00:02:40,660 - 00:02:41,420] I really appreciate that.
+- [00:02:41,420 - 00:02:42,220] I loved your answer.
+- [00:02:42,220 - 00:02:42,720] All right.
+- [00:02:42,720 - 00:02:43,220] Thank you very much.
+- [00:02:43,220 - 00:02:43,720] Thank you so much.
+- [00:02:43,720 - 00:02:44,600] That was our first house
+- [00:02:44,600 - 00:02:45,480] that we went up to today.
+- [00:02:45,480 - 00:02:46,420] She's killing it.
+- [00:02:46,420 - 00:02:49,140] Over seven figures in a single year as a physician.
+- [00:02:49,140 - 00:02:50,080] Came from Pakistan.
+- [00:02:50,080 - 00:02:51,220] Now lives in the United States.
+- [00:02:51,220 - 00:02:53,780] I loved her answer talking about compounding interests.
+- [00:02:53,780 - 00:02:54,680] But guess what?
+- [00:02:54,680 - 00:02:56,380] She said, that's the seventh wonder.
+- [00:02:56,380 - 00:02:57,430] Let's go find the eighth
+- [00:02:57,430 - 00:02:58,480] wonder and find this next house.
+- [00:02:58,480 - 00:02:59,080] Hey, sir.
+- [00:02:59,580 - 00:03:00,880] Quick question for you, sir.
+- [00:03:00,880 - 00:03:02,040] Are you the homeowner?
+- [00:03:02,040 - 00:03:02,540] Yeah.
+- [00:03:02,540 - 00:03:04,090] I would love to just ask you a
+- [00:03:04,090 - 00:03:05,640] few quick questions on how you became successful.
+- [00:03:05,640 - 00:03:07,120] No, I don't think I'm going to do that.
+- [00:03:07,120 - 00:03:07,740] No worries, sir.
+- [00:03:07,740 - 00:03:08,520] Have a great day, though.
+- [00:03:08,520 - 00:03:09,020] Thank you very much.
+- [00:03:09,020 - 00:03:09,520] Thank you.
+- [00:03:09,520 - 00:03:11,460] Even though we started the day off with a win,
+- [00:03:11,460 - 00:03:12,990] we had no idea what was coming
+- [00:03:12,990 - 00:03:14,520] our way over the next five hours.
+- [00:03:14,520 - 00:03:16,140] Country, but I'm based in Austin.
+- [00:03:16,140 - 00:03:17,370] Just asking beautiful homeowners a
+- [00:03:17,370 - 00:03:18,600] few questions on their advice
+- [00:03:18,600 - 00:03:19,520] to the younger generation.
+- [00:03:19,520 - 00:03:20,400] I have no interest in it.
+- [00:03:20,400 - 00:03:20,900] No worries.
+- [00:03:20,900 - 00:03:21,560] Have a nice day.
+- [00:03:21,560 - 00:03:23,220] Trying to become successful one day.
+- [00:03:23,220 - 00:03:23,860] No, have a good one.
+- [00:03:27,820 - 00:03:28,320] I'm sorry.
+- [00:03:28,320 - 00:03:29,120] I don't have any interest.
+- [00:03:29,120 - 00:03:29,580] No worries, sir.
+- [00:03:29,580 - 00:03:30,240] Have a nice day.
+- [00:03:30,240 - 00:03:30,740] Thank you.
+- [00:03:30,740 - 00:03:32,050] Hey, he didn't have any interest,
+- [00:03:32,050 - 00:03:33,360] but he would have had interest
+- [00:03:33,360 - 00:03:34,580] because he would have gotten a million views.
+- [00:03:34,580 - 00:03:35,960] But all that matters is that you're
+- [00:03:35,960 - 00:03:37,340] liked and you subscribe to this video
+- [00:03:37,340 - 00:03:39,080] and go follow the School of Hard Knocks everywhere.
+- [00:03:39,080 - 00:03:39,580] All right, you guys.
+- [00:03:39,580 - 00:03:40,990] We just pulled up to an
+- [00:03:40,990 - 00:03:42,400] absolute compound out here in Houston, Texas.
+- [00:03:42,400 - 00:03:43,250] We're going to go up and
+- [00:03:43,250 - 00:03:44,100] see if we can talk to them.
+- [00:03:44,100 - 00:03:45,340] But it's going to be hard because it's gated.
+- [00:03:45,340 - 00:03:47,400] We'll see if they can come down.
+- [00:03:47,400 - 00:03:48,480] I'm sorry.
+- [00:03:48,480 - 00:03:49,240] We can't talk right now.
+- [00:03:49,240 - 00:03:49,820] OK, no worries.
+- [00:03:49,820 - 00:03:50,520] Have a nice day, sir.
+- [00:03:50,520 - 00:03:51,460] Couldn't talk right now.
+- [00:03:51,460 - 00:03:52,060] It sucks.
+- [00:03:52,060 - 00:03:52,560] It's hard.
+- [00:03:52,560 - 00:03:53,830] You know, a lot of these guys
+- [00:03:53,830 - 00:03:55,100] are super busy people, very high class people.
+- [00:03:55,100 - 00:03:55,870] So it's going to be hard to
+- [00:03:55,870 - 00:03:56,640] get a lot of these people's times.
+- [00:03:56,640 - 00:03:57,890] But all we can do is keep
+- [00:03:57,890 - 00:03:59,140] going and go get the next one.
+- [00:03:59,140 - 00:04:00,460] This is one of the craziest
+- [00:04:00,460 - 00:04:01,780] cribs I've ever seen in my life.
+- [00:04:01,780 - 00:04:02,859] I can't even call this a house.
+- [00:04:02,859 - 00:04:03,920] This is a little compound.
+- [00:04:03,920 - 00:04:06,820] But let's see if we can get some free game.
+- [00:04:06,820 - 00:04:07,540] How you doing, sir?
+- [00:04:07,540 - 00:04:08,699] Just asking beautiful homeowners a
+- [00:04:08,699 - 00:04:09,859] few questions on their advice
+- [00:04:09,859 - 00:04:12,340] on how they became successful for the younger generation.
+- [00:04:12,340 - 00:04:13,200] Thought you had one of
+- [00:04:13,200 - 00:04:14,060] the most beautiful homes in Houston.
+- [00:04:14,060 - 00:04:15,540] Wanted to ask you just a few questions.
+- [00:04:15,540 - 00:04:16,200] Sure, I'll take it.
+- [00:04:16,200 - 00:04:16,700] Thank you, sir.
+- [00:04:16,700 - 00:04:17,420] I appreciate that.
+- [00:04:17,420 - 00:04:17,959] Yeah, you want to come in?
+- [00:04:17,959 - 00:04:18,839] Yeah, thank you.
+- [00:04:18,839 - 00:04:20,760] Awesome.
+- [00:04:20,760 - 00:04:22,980] Cool.
+- [00:04:22,980 - 00:04:25,060] What industry did you ultimately pursue a career in?
+- [00:04:25,060 - 00:04:25,100] Oh.
+- [00:04:25,100 - 00:04:27,840] I've actually had only one job in my life.
+- [00:04:27,840 - 00:04:29,230] I started out 17 years
+- [00:04:29,230 - 00:04:30,620] old, working part time at McDonald's,
+- [00:04:30,620 - 00:04:31,400] going to college.
+- [00:04:31,400 - 00:04:32,400] And I just stayed with it.
+- [00:04:32,400 - 00:04:33,440] And that created all this.
+- [00:04:33,440 - 00:04:35,480] And my children have their own restaurants as well.
+- [00:04:35,480 - 00:04:37,980] So you start in open McDonald's?
+- [00:04:37,980 - 00:04:39,720] Well, you become a franchisee.
+- [00:04:39,720 - 00:04:40,850] So how many McDonald's have
+- [00:04:40,850 - 00:04:41,980] you opened throughout your career?
+- [00:04:41,980 - 00:04:43,560] Well, that's a bigger number.
+- [00:04:43,560 - 00:04:44,980] We currently have 50.
+- [00:04:44,980 - 00:04:46,700] And my kids have 19.
+- [00:04:46,700 - 00:04:47,600] That's incredible.
+- [00:04:47,600 - 00:04:49,160] And how have you really
+- [00:04:49,160 - 00:04:50,720] been able to scale your business?
+- [00:04:50,720 - 00:04:52,040] A lot of people, they'll have a great idea,
+- [00:04:52,040 - 00:04:53,120] they'll start a business.
+- [00:04:53,120 - 00:04:54,100] But they struggle to scale.
+- [00:04:54,100 - 00:04:55,060] That's the edge.
+- [00:04:55,060 - 00:04:56,680] That's the energy that a franchise will give you.
+- [00:04:56,680 - 00:04:57,840] Of course, you have to
+- [00:04:57,840 - 00:04:59,000] have some experience and the will
+- [00:04:59,000 - 00:05:00,360] to work hard and get it done.
+- [00:05:00,360 - 00:05:01,860] That's really about perseverance.
+- [00:05:01,860 - 00:05:03,200] You've got to be with the right franchise too.
+- [00:05:03,200 - 00:05:03,700] Right.
+- [00:05:03,700 - 00:05:04,480] You're the ones that fail.
+- [00:05:04,480 - 00:05:06,760] Throughout your career, what's the best financial advice
+- [00:05:06,760 - 00:05:08,500] you've ever received throughout your lifetime?
+- [00:05:08,500 - 00:05:10,280] Well, I'd give the same advice to anybody else.
+- [00:05:10,280 - 00:05:11,060] I give to my kids.
+- [00:05:11,060 - 00:05:14,120] And advice I followed, I lived with enough money
+- [00:05:14,120 - 00:05:15,460] just to make ends meet.
+- [00:05:15,460 - 00:05:16,360] And all the rest of
+- [00:05:16,360 - 00:05:17,260] it went to pay down debt.
+- [00:05:17,260 - 00:05:19,180] Once you get out of debt, you become much freer
+- [00:05:19,180 - 00:05:19,960] in a lot of things.
+- [00:05:19,960 - 00:05:20,980] And I mean all kinds of debt.
+- [00:05:20,980 - 00:05:23,500] Car debt, house debt, business debt, of course, comes first.
+- [00:05:23,500 - 00:05:25,020] What's been your secret to sales as a business?
+- [00:05:25,020 - 00:05:26,560] McDonald's is a formula.
+- [00:05:26,560 - 00:05:29,780] So the advertising is nationwide as well as local.
+- [00:05:29,780 - 00:05:31,090] And I've done a lot of
+- [00:05:31,090 - 00:05:32,400] committee work on the national level.
+- [00:05:32,400 - 00:05:33,780] And that's been my whole career.
+- [00:05:33,780 - 00:05:35,039] And it's been great.
+- [00:05:35,039 - 00:05:35,940] It's a great business.
+- [00:05:35,940 - 00:05:37,320] It's hard working, very difficult.
+- [00:05:37,320 - 00:05:39,000] But you stay with it, you'll get the rewards.
+- [00:05:39,000 - 00:05:39,840] Final question for you.
+- [00:05:39,840 - 00:05:41,840] Any last words, any advice to the younger generation
+- [00:05:41,840 - 00:05:43,700] that's aspiring to own a multimillion dollar house
+- [00:05:43,700 - 00:05:44,039] like this?
+- [00:05:44,039 - 00:05:45,039] Well, this didn't come overnight.
+- [00:05:45,039 - 00:05:46,200] Let me just say that.
+- [00:05:46,200 - 00:05:47,539] We've been here 12 years now.
+- [00:05:47,539 - 00:05:48,919] And we built it from scratch.
+- [00:05:48,919 - 00:05:49,740] And it's our vision.
+- [00:05:49,740 - 00:05:50,700] We collect a lot of art.
+- [00:05:50,700 - 00:05:53,219] And that's the story.
+- [00:05:53,219 - 00:05:54,299] We just enjoy.
+- [00:05:54,299 - 00:05:54,979] And I want to pay attention to it.
+- [00:05:54,979 - 00:05:55,000] And I want to pay attention to it.
+- [00:05:55,000 - 00:05:55,920] And I want to pass
+- [00:05:55,920 - 00:05:56,840] on the wealth to other folks.
+- [00:05:56,840 - 00:05:57,800] Thank you so much for your time.
+- [00:05:57,800 - 00:05:58,520] I really appreciate that.
+- [00:05:58,520 - 00:05:58,600] Thank you.
+- [00:05:58,600 - 00:05:59,780] It means so much for you taking the time
+- [00:05:59,780 - 00:06:01,280] to answer some questions for us.
+- [00:06:01,280 - 00:06:02,560] Thank you, sir.
+- [00:06:02,560 - 00:06:05,140] I mean, that's one of the most insane houses
+- [00:06:05,140 - 00:06:06,640] that I've ever been in my entire life.
+- [00:06:06,640 - 00:06:08,600] My man owns McDonald's all over the country.
+- [00:06:08,600 - 00:06:09,520] Let us come into his home.
+- [00:06:09,520 - 00:06:10,940] Did you guys see the artwork in there?
+- [00:06:10,940 - 00:06:12,060] Did you guys see that house?
+- [00:06:12,060 - 00:06:13,030] I mean, that's got to
+- [00:06:13,030 - 00:06:14,000] be one of the craziest experiences
+- [00:06:14,000 - 00:06:15,300] I've ever had running this channel.
+- [00:06:15,300 - 00:06:16,180] Look at this house right here.
+- [00:06:16,180 - 00:06:17,220] Show them the house real quick.
+- [00:06:19,240 - 00:06:20,210] Part of the game of
+- [00:06:20,210 - 00:06:21,180] going up to these people's houses
+- [00:06:21,180 - 00:06:23,380] is you've got to make a good first impression.
+- [00:06:23,380 - 00:06:24,960] You're asking these people for the time
+- [00:06:24,960 - 00:06:25,880] to knock on their doors.
+- [00:06:25,880 - 00:06:27,060] You're bothering their day.
+- [00:06:27,060 - 00:06:28,679] You have got to sell yourself
+- [00:06:28,679 - 00:06:30,299] in the first five to 10 seconds
+- [00:06:30,299 - 00:06:31,140] that you get there.
+- [00:06:31,140 - 00:06:32,640] Making a good impression is super important.
+- [00:06:32,640 - 00:06:33,570] And we do just that
+- [00:06:33,570 - 00:06:34,500] at the School of Hard Knocks.
+- [00:06:34,500 - 00:06:35,280] All right, you guys.
+- [00:06:35,280 - 00:06:36,599] Just look at this crib right here.
+- [00:06:36,599 - 00:06:37,780] I don't know what this person had
+- [00:06:37,780 - 00:06:38,979] to do to be able to own this place.
+- [00:06:38,979 - 00:06:40,479] But regardless, we're going to go and find out.
+- [00:06:40,479 - 00:06:40,979] Hello?
+- [00:06:40,979 - 00:06:42,120] Yeah, can I help you?
+- [00:06:42,120 - 00:06:43,580] We wanted to know if we could just ask you
+- [00:06:43,580 - 00:06:45,539] a few quick questions on your advice to the younger
+- [00:06:45,539 - 00:06:47,460] generation and how you became successful.
+- [00:06:47,460 - 00:06:47,960] OK.
+- [00:06:47,960 - 00:06:49,020] Go ahead.
+- [00:06:49,020 - 00:06:50,099] Could we do it in person?
+- [00:06:50,099 - 00:06:51,400] Or if we could do it over there?
+- [00:06:51,400 - 00:06:52,400] It's totally up to you.
+- [00:06:52,400 - 00:06:53,880] Well, I'm not at home.
+- [00:06:53,880 - 00:06:54,919] I'm in California.
+- [00:06:54,920 - 00:06:55,420] Oh, OK.
+- [00:06:55,420 - 00:06:55,960] Yeah, I guess.
+- [00:06:55,960 - 00:06:57,340] What did you do for a living?
+- [00:06:57,340 - 00:06:58,420] I'm a physician.
+- [00:06:58,420 - 00:07:00,580] What's the best financial advice that you ever received
+- [00:07:00,580 - 00:07:01,580] throughout your lifetime?
+- [00:07:01,580 - 00:07:03,500] The most important thing probably
+- [00:07:03,500 - 00:07:05,560] is to not overextend yourself.
+- [00:07:05,560 - 00:07:08,020] So you have to live below your means.
+- [00:07:08,020 - 00:07:10,240] And if you can live below your means,
+- [00:07:10,240 - 00:07:12,580] I think you could get
+- [00:07:12,580 - 00:07:14,920] during bad times, you're pretty safe.
+- [00:07:14,920 - 00:07:17,800] But if you don't live below your means, what happens
+- [00:07:17,800 - 00:07:19,980] is you're going to have
+- [00:07:19,980 - 00:07:22,160] expenses that are beyond your capacity
+- [00:07:22,160 - 00:07:23,400] in bad times.
+- [00:07:23,400 - 00:07:24,740] Final question is, you know, you've
+- [00:07:24,740 - 00:07:26,500] really got one of the most beautiful houses
+- [00:07:26,500 - 00:07:27,620] I've ever seen in Houston.
+- [00:07:27,620 - 00:07:29,180] And to own a multimillion dollar home like this,
+- [00:07:29,180 - 00:07:30,660] it obviously took some incredible hard work.
+- [00:07:30,660 - 00:07:32,960] So maybe any last message for the younger generation
+- [00:07:32,960 - 00:07:34,640] on how they can really become successful,
+- [00:07:34,640 - 00:07:36,060] regardless of their industry?
+- [00:07:36,060 - 00:07:38,260] I think what happens is
+- [00:07:38,260 - 00:07:40,460] people look for the easy way.
+- [00:07:40,460 - 00:07:42,060] And if you look for the easy way,
+- [00:07:42,060 - 00:07:43,580] you're never going to find it.
+- [00:07:43,580 - 00:07:44,040] Thank you, sir.
+- [00:07:44,040 - 00:07:44,680] Have a great day.
+- [00:07:44,680 - 00:07:46,340] My man wasn't here, but he was nice enough
+- [00:07:46,340 - 00:07:47,460] to do a five-minute interview.
+- [00:07:47,460 - 00:07:48,800] He's out in California right now,
+- [00:07:48,800 - 00:07:50,520] and he took the time to actually join the call
+- [00:07:50,520 - 00:07:51,580] and talk to us while we
+- [00:07:51,580 - 00:07:52,640] were at his house in Houston.
+- [00:07:52,640 - 00:07:54,740] Second physician of the day, but that's crazy, man.
+- [00:07:54,740 - 00:07:55,940] The real gain that he gave.
+- [00:07:55,940 - 00:07:56,840] Don't overextend.
+- [00:07:56,840 - 00:07:57,980] Don't over-leverage yourself.
+- [00:07:57,980 - 00:07:58,700] Get your head in the game.
+- [00:07:58,700 - 00:07:59,870] Put your head down, and don't
+- [00:07:59,870 - 00:08:01,040] look for the easy way out.
+- [00:08:01,040 - 00:08:01,840] Let's keep going.
+- [00:08:01,840 - 00:08:02,640] All right, you guys.
+- [00:08:02,640 - 00:08:05,420] This house is listed at over $36 million on Zillow.
+- [00:08:05,420 - 00:08:06,440] We're going to go see if someone's home
+- [00:08:06,440 - 00:08:07,710] and figure out how they were
+- [00:08:07,710 - 00:08:08,980] really able to own this house.
+- [00:08:08,980 - 00:08:09,920] How you doing?
+- [00:08:09,920 - 00:08:10,120] Good.
+- [00:08:10,120 - 00:08:11,000] How about yourself, sir?
+- [00:08:11,000 - 00:08:12,620] Kind of ask, like, what'd you do for a living?
+- [00:08:12,620 - 00:08:14,960] I used to own and operate automobile dealerships
+- [00:08:14,960 - 00:08:15,980] in Houston, Texas.
+- [00:08:15,980 - 00:08:18,440] Yeah, I owned Champion Ford, Texan Ford, Texan Lincoln,
+- [00:08:18,440 - 00:08:21,020] Mercury, Zuzu, and a number of other stores.
+- [00:08:21,020 - 00:08:23,160] And then I sold my company to AutoNation
+- [00:08:23,160 - 00:08:24,720] and ran AutoNation for about a year.
+- [00:08:24,720 - 00:08:27,480] A year and a half until I basically resigned
+- [00:08:27,480 - 00:08:30,360] and then started doing some investment projects
+- [00:08:30,360 - 00:08:31,540] and other things like that.
+- [00:08:31,540 - 00:08:32,960] So I started to buy my own stores.
+- [00:08:32,960 - 00:08:34,059] If you were to go back
+- [00:08:34,059 - 00:08:35,159] to when you started your first business,
+- [00:08:35,159 - 00:08:35,929] what's the number one thing
+- [00:08:35,929 - 00:08:36,700] you wish you would have known?
+- [00:08:36,700 - 00:08:38,840] I wish I had an opportunity to learn more
+- [00:08:38,840 - 00:08:40,360] about operational businesses at
+- [00:08:40,360 - 00:08:41,880] school, at the business school
+- [00:08:41,880 - 00:08:43,559] at the University of Texas,
+- [00:08:43,559 - 00:08:45,240] and really attended a class that
+- [00:08:45,240 - 00:08:46,980] dealt with what you're going
+- [00:08:46,980 - 00:08:48,720] to deal with as a young
+- [00:08:48,720 - 00:08:50,440] entrepreneur when you go and start
+- [00:08:50,440 - 00:08:52,200] to operate your own business.
+- [00:08:52,200 - 00:08:54,180] You're not going to do it by the textbook.
+- [00:08:54,180 - 00:08:54,680] You're not going to read it.
+- [00:08:54,680 - 00:08:54,700] You're not going to read it.
+- [00:08:54,700 - 00:08:54,720] You're not going to read it.
+- [00:08:54,720 - 00:08:57,540] You're not going to really learn that in school itself.
+- [00:08:57,540 - 00:08:59,340] You're going to have to basically get
+- [00:08:59,340 - 00:09:01,480] with somebody who's willing to mentor you
+- [00:09:01,480 - 00:09:03,840] and take the time to instruct you on everything
+- [00:09:03,840 - 00:09:05,100] you've got to look at.
+- [00:09:05,100 - 00:09:06,270] The company I went to work
+- [00:09:06,270 - 00:09:07,440] for after I left Ford Motor Company
+- [00:09:07,440 - 00:09:10,160] in 1979 was broke within three months.
+- [00:09:10,160 - 00:09:12,020] And it went bankrupt, almost bankrupt.
+- [00:09:12,020 - 00:09:13,550] And we salvaged it to become
+- [00:09:13,550 - 00:09:15,080] the number one Ford dealer in truck
+- [00:09:15,080 - 00:09:16,760] sales in the country in a year and a half.
+- [00:09:16,760 - 00:09:20,460] We did that because we really organized a team
+- [00:09:20,460 - 00:09:21,990] to come together on one
+- [00:09:21,990 - 00:09:23,520] what I call biggest thing ever
+- [00:09:23,520 - 00:09:24,700] in my life is a rally.
+- [00:09:24,700 - 00:09:39,220] The motivational point.
+- [00:09:39,220 - 00:09:54,680] But I want to talk about something just
+- [00:09:54,680 - 00:09:56,140] Here's what's happening at that stage.
+- [00:09:56,260 - 00:09:58,929] When you sit in front of a bunch of people
+- [00:09:58,929 - 00:10:01,599] and you've got to make a payroll of $150,000 a week,
+- [00:10:01,959 - 00:10:05,319] $400,000 a week, a million dollars a week, you know,
+- [00:10:05,400 - 00:10:07,169] and you've got other families relying on
+- [00:10:07,169 - 00:10:08,939] you as the leader of that organization
+- [00:10:08,939 - 00:10:10,989] to try to achieve that and
+- [00:10:10,989 - 00:10:13,040] make that accomplishment come true for everybody,
+- [00:10:13,219 - 00:10:14,880] you've got to have that rallying point.
+- [00:10:14,959 - 00:10:16,339] You've got to have that motivational point.
+- [00:10:16,439 - 00:10:17,649] But there's one thing you guys
+- [00:10:17,649 - 00:10:18,859] need to learn coming out of school.
+- [00:10:18,859 - 00:10:20,740] You don't have to be the smartest guy, okay?
+- [00:10:20,800 - 00:10:21,079] Yes, sir.
+- [00:10:21,120 - 00:10:22,520] You don't have to be the biggest guy.
+- [00:10:22,640 - 00:10:24,120] You don't have to be the fastest guy.
+- [00:10:24,120 - 00:10:26,130] All you have to do is
+- [00:10:26,130 - 00:10:28,140] be the best guy you can be,
+- [00:10:28,300 - 00:10:30,360] and you can be that by
+- [00:10:30,360 - 00:10:32,420] outworking anybody else in that organization.
+- [00:10:32,660 - 00:10:34,670] You learn to outwork everybody else, and I
+- [00:10:34,670 - 00:10:36,680] promise you good things will happen for you.
+- [00:10:36,700 - 00:10:36,840] Wow.
+- [00:10:36,920 - 00:10:39,220] Hey, my man showed up to the gate and just dropped
+- [00:10:39,220 - 00:10:41,520] a five-minute bomb on us on how he was able to.
+- [00:10:41,520 - 00:10:43,510] He sold his company to AutoNation, ran
+- [00:10:43,510 - 00:10:45,500] multiple businesses in the automobile industry for years.
+- [00:10:45,580 - 00:10:46,140] This guy's a mogul.
+- [00:10:46,200 - 00:10:46,740] Look at his crib.
+- [00:10:46,820 - 00:10:47,500] Look at him going back in there.
+- [00:10:47,500 - 00:10:47,980] You've got to show him.
+- [00:10:48,386 - 00:10:48,886] 重來
+- [00:10:51,458 - 00:10:53,378] industry did you pursue a career in? Well, I
+- [00:10:53,378 - 00:10:55,298] was a professional touring musician. Then when I turned
+- [00:10:55,298 - 00:10:58,188] 40, I became a chef and owned restaurants and
+- [00:10:58,188 - 00:11:01,078] run restaurants. And now I cook for high profile
+- [00:11:01,078 - 00:11:03,018] clients. That's amazing. The food and
+- [00:11:03,018 - 00:11:04,958] hospitality restaurant business can be very competitive.
+- [00:11:05,118 - 00:11:06,558] What's the biggest thing you've implemented
+- [00:11:06,558 - 00:11:07,998] throughout your skillset as a business owner
+- [00:11:07,998 - 00:11:10,798] to really stand out? Your biggest asset is your
+- [00:11:10,798 - 00:11:13,598] staff. Treat them like gold and they'll treat you
+- [00:11:13,598 - 00:11:15,658] like gold. It's a team effort. You can't do it
+- [00:11:15,658 - 00:11:17,718] on your own. You got to treat your staff well
+- [00:11:17,718 - 00:11:19,498] and they'll bend over backwards for you. So I
+- [00:11:19,498 - 00:11:21,278] guess I'll kind of end on by asking you,
+- [00:11:21,638 - 00:11:23,208] for somebody coming out of school today, what's
+- [00:11:23,208 - 00:11:24,778] your best advice to someone starting out in the
+- [00:11:24,778 - 00:11:26,378] real world? How can they really put their
+- [00:11:26,378 - 00:11:27,978] head down, become successful and earn six figures?
+- [00:11:28,178 - 00:11:30,698] Work hard, play harder. How can you play harder?
+- [00:11:30,698 - 00:11:33,218] It's all about balance. You got to make time for
+- [00:11:33,218 - 00:11:35,108] it. If you burn yourself out and you let life
+- [00:11:35,108 - 00:11:36,998] pass you by, sure, you have a lot of money,
+- [00:11:37,178 - 00:11:39,658] but don't take that with you. Take experiences with
+- [00:11:39,658 - 00:11:42,138] you. What kind of cigar do we have right now?
+- [00:11:42,298 - 00:11:44,458] Oliva V. Oliva V? Have a good one, man. Thank
+- [00:11:44,458 - 00:11:46,618] you so much for your time. Have a great day,
+- [00:11:46,658 - 00:11:47,698] sir. Really appreciate that. It means a lot.
+- [00:11:47,797 - 00:11:51,137] Thank you, sir. Hey, the only thing I regret
+- [00:11:51,137 - 00:11:54,477] was not asking him for a hit of that Cuban,
+- [00:11:54,618 - 00:11:56,268] but a man came through. We stopped
+- [00:11:56,268 - 00:11:57,918] him on the street coming in, professional chef,
+- [00:11:57,997 - 00:11:59,837] owned restaurants around Houston. Man, Houston's crazy. You
+- [00:11:59,837 - 00:12:01,678] never know who you can run into out
+- [00:12:01,678 - 00:12:03,837] here, but let's keep trucking. Let's go get
+- [00:12:03,837 - 00:12:05,997] this next one. Okay. So what was his name?
+- [00:12:06,338 - 00:12:11,258] Just type in Tillman. Okay. F-E-R-T-I-T-T-A.
+- [00:12:13,378 - 00:12:15,498] Hey, that's a billionaire that lives there.
+- [00:12:15,498 - 00:12:17,618] Crazy. Oh my God, he owns the rocket.
+- [00:12:17,718 - 00:12:20,128] Are you serious? Yes. Security guard came
+- [00:12:20,128 - 00:12:22,538] to the door, asked what we were doing,
+- [00:12:22,738 - 00:12:24,358] trying to get an interview. He said, you
+- [00:12:24,358 - 00:12:25,978] can look up it. His name's Tillman Fertitta. This
+- [00:12:25,978 - 00:12:27,858] is the owner of the Houston Rockets that
+- [00:12:27,858 - 00:12:29,738] lives here. Are you serious? He's a billionaire. He
+- [00:12:29,738 - 00:12:32,218] owns Landry's Inc. and the Houston Rockets. I
+- [00:12:32,218 - 00:12:34,698] literally today said, what if we found the
+- [00:12:34,698 - 00:12:36,768] owner of the Houston Rockets now? He's gone
+- [00:12:36,768 - 00:12:38,838] home, but we found his house. That's fucking incredible.
+- [00:12:38,998 - 00:12:41,168] His net worth is $8.4 billion. My man's out
+- [00:12:41,168 - 00:12:43,338] here is pulling back into his driveway with a Rolls
+- [00:12:43,338 - 00:12:44,758] Royce. We're going to go and try and snag
+- [00:12:44,758 - 00:12:46,178] this interview real quick. See what the hell this guy
+- [00:12:46,178 - 00:12:46,918] did on how he was able to own a rocket. I'm
+- [00:12:46,918 - 00:12:47,658] going to go and snag this interview real quick. See what
+- [00:12:47,658 - 00:12:48,338] the hell this guy did on how he was
+- [00:12:48,338 - 00:12:49,018] able to own a Rolls Royce out in Houston, Texas.
+- [00:12:49,758 - 00:12:51,778] Excuse me, bro. Question for you. This is
+- [00:12:51,778 - 00:12:53,798] your Rolls Royce? Yeah. My friends and I,
+- [00:12:53,858 - 00:12:55,618] we started a channel in Austin, Texas. We grew
+- [00:12:55,618 - 00:12:57,378] up to 1.5 million followers. Is that cool? We
+- [00:12:57,378 - 00:12:59,328] ask you a few questions? Yeah, sure. That's fine.
+- [00:12:59,328 - 00:13:01,278] Okay. I guess my first question for you is,
+- [00:13:01,438 - 00:13:02,908] man, you're having a conversation with a young
+- [00:13:02,908 - 00:13:04,378] kid, 20 years old. He's fresh out of college.
+- [00:13:04,458 - 00:13:06,308] He wants to get serious about becoming financially
+- [00:13:06,308 - 00:13:08,158] free. What is the 60-second blueprint that it took
+- [00:13:08,158 - 00:13:10,338] for you to be able to own a Rolls Royce?
+- [00:13:10,338 - 00:13:12,518] Oh, man. It took about 10 years for me to
+- [00:13:12,518 - 00:13:15,068] really figure out business and how to
+- [00:13:15,068 - 00:13:17,618] become successful in business. 60 seconds might
+- [00:13:17,618 - 00:13:20,327] be tough, but I would say, if I had to sum
+- [00:13:20,327 - 00:13:23,037] it up, is you have to always want to learn. It's not
+- [00:13:23,037 - 00:13:24,387] just going to come easy. If you think it's going
+- [00:13:24,387 - 00:13:25,738] to come easy, you're not going to get it. But if
+- [00:13:25,738 - 00:13:27,728] you want it and you're willing to learn and
+- [00:13:27,728 - 00:13:29,718] you're willing to work, then you'll find out whatever it
+- [00:13:29,718 - 00:13:31,748] takes to get it. But if you want, we
+- [00:13:31,748 - 00:13:33,778] can talk more about business in general and elaborate a
+- [00:13:33,778 - 00:13:35,168] little bit more because I think it's going to be
+- [00:13:35,168 - 00:13:36,558] hard to explain it in 60 seconds. Would that be
+- [00:13:36,558 - 00:13:38,028] cool? Could we come in for a little bit? Yeah,
+- [00:13:38,028 - 00:13:39,498] if you guys want. I got a few minutes. All right,
+- [00:13:39,498 - 00:13:41,228] let's get it. Let's go, guys. Yeah. So if you
+- [00:13:41,228 - 00:13:42,958] guys want to come on in, there's a mic for me.
+- [00:13:43,078 - 00:13:45,307] Yeah. You guys came prepared. Welcome to my house.
+- [00:13:45,307 - 00:13:47,537] You can tell cars are my thing. I do
+- [00:13:47,538 - 00:13:50,008] love cars. Yeah. Could you kind of explain what
+- [00:13:50,008 - 00:13:52,478] cars you own right now? Yeah, I'm building a house
+- [00:13:52,478 - 00:13:54,548] for a bigger garage because I can't hold them all
+- [00:13:54,548 - 00:13:56,618] here. So a lot of them are at my warehouse. But
+- [00:13:56,618 - 00:13:59,208] you saw the Rolls Royce. We've got a Lamborghini
+- [00:13:59,208 - 00:14:01,798] Urus SUV with a wide body kit. I love classic
+- [00:14:01,798 - 00:14:04,628] cars. So you see a 1972 Chevelle with a 454
+- [00:14:04,628 - 00:14:07,458] big block in it. Over here, you see a red Ferrari
+- [00:14:07,458 - 00:14:10,368] 458, naturally aspirated, one of my favorite cars.
+- [00:14:10,368 - 00:14:13,278] But this is definitely my childhood dream car. So
+- [00:14:13,278 - 00:14:15,318] this is the Lamborghini Diablo. I have
+- [00:14:15,318 - 00:14:17,358] the poster of this car on my
+- [00:14:17,358 - 00:14:17,438] bedroom. I have the poster of this car on my
+- [00:14:17,438 - 00:14:17,518] bedroom. I have the poster of this car on my
+- [00:14:17,518 - 00:14:17,528] bedroom. I have the poster of this car on my bedroom. I
+- [00:14:17,528 - 00:14:17,538] have the poster of this car on my bedroom. I have the
+- [00:14:17,538 - 00:14:19,808] wall when I was a kid. So to drive it and to
+- [00:14:19,808 - 00:14:22,078] own it, to me, is like a dream come true. But come on
+- [00:14:22,078 - 00:14:24,608] and we'll talk a little bit more. So like
+- [00:14:24,608 - 00:14:27,138] what industry did you ultimately pursue a career in?
+- [00:14:27,238 - 00:14:29,908] Yes, I became a doctor and then I specialized
+- [00:14:29,908 - 00:14:32,578] in emergency medicine. So I handle all traumatic and
+- [00:14:32,578 - 00:14:34,258] medical emergencies that would come into an ER.
+- [00:14:34,258 - 00:14:35,938] And now how long have you been an entrepreneur
+- [00:14:35,938 - 00:14:40,348] for? So I started relatively early. My first
+- [00:14:40,348 - 00:14:44,758] year after graduating is when I started turning the
+- [00:14:44,758 - 00:14:46,138] way too long. I think a lot of
+- [00:14:46,138 - 00:14:47,518] people will say, oh, no, let me wait.
+- [00:14:47,518 - 00:14:48,938] Let me wait for this. Let me wait
+- [00:14:48,938 - 00:14:50,358] for that. Sometimes you have to, but sometimes you're
+- [00:14:50,358 - 00:14:52,668] just stalling. You're just delaying. And you might
+- [00:14:52,668 - 00:14:54,978] start saving up money. Then you're like, well,
+- [00:14:55,018 - 00:14:56,558] let me buy this first. Let me buy that first.
+- [00:14:56,558 - 00:14:58,098] And now you don't have the capital. But if you can
+- [00:14:58,098 - 00:15:00,258] focus and just save as much as you can. Like
+- [00:15:00,258 - 00:15:02,418] my first year out, I worked probably three times as
+- [00:15:02,418 - 00:15:04,298] much as a normal doctor would. It was nonstop because
+- [00:15:04,298 - 00:15:06,178] I knew I had to save to have enough money
+- [00:15:06,178 - 00:15:07,938] to take to a bank and get a
+- [00:15:07,938 - 00:15:09,698] loan to build my first facility. Throughout your lifetime,
+- [00:15:09,857 - 00:15:11,537] what was the best financial advice you
+- [00:15:11,537 - 00:15:13,218] ever received? You don't go for money,
+- [00:15:13,218 - 00:15:15,358] but think of money as a tool, as a
+- [00:15:15,358 - 00:15:17,498] tool to do something great. I think when you approach
+- [00:15:17,498 - 00:15:19,788] it that way, you're always happy, even when you
+- [00:15:19,788 - 00:15:22,078] don't have the money, even when you're trying to
+- [00:15:22,078 - 00:15:24,138] build yourself up and become successful in business.
+- [00:15:24,138 - 00:15:26,198] But if you focus on money and cars,
+- [00:15:26,418 - 00:15:27,708] you're never going to be happy. And if you're
+- [00:15:27,708 - 00:15:28,998] not happy, you're probably not going to have the drive
+- [00:15:28,998 - 00:15:31,098] and the passion you need to get there. So never
+- [00:15:31,098 - 00:15:33,198] focus on the money and think of money as a tool
+- [00:15:33,198 - 00:15:34,378] to do great things.
