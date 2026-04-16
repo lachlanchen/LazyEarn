@@ -1,0 +1,517 @@
+# Transcript
+
+Source: lazyearn/school-of-hard-knocks/hard-knocks-interviews/036 - I Asked Will Smith How He Made $350 Million [9iWLPlPFdBY].webm
+
+- [00:00:00,160 - 00:00:00,980] What's up, man?
+- [00:00:01,020 - 00:00:01,600] How you doing, Will?
+- [00:00:01,700 - 00:00:03,000] Man, it's all love.
+- [00:00:03,040 - 00:00:03,760] Great to meet you.
+- [00:00:03,880 - 00:00:04,300] How you feeling, brother?
+- [00:00:04,400 - 00:00:05,240] Great, man. Happy to be out here.
+- [00:00:05,240 - 00:00:06,560] Okay, okay, we got the color vibe.
+- [00:00:06,640 - 00:00:07,500] Who am I here with today?
+- [00:00:07,600 - 00:00:08,680] Will Smith in the building.
+- [00:00:08,840 - 00:00:09,720] Did you come from a lot of money?
+- [00:00:09,880 - 00:00:11,780] No, no. I came from the opposite.
+- [00:00:12,540 - 00:00:14,440] So what was your turning point to financial freedom?
+- [00:00:14,460 - 00:00:17,560] I realized that taking advice from somebody who hasn't
+- [00:00:17,560 - 00:00:20,660] done what you want to do is almost insanity.
+- [00:00:20,880 - 00:00:24,130] Like, listening to people who haven't done the thing
+- [00:00:24,130 - 00:00:27,380] that you want to do, that makes you crazy.
+- [00:00:27,380 - 00:00:30,160] Do you think money buys happiness?
+- [00:00:30,380 - 00:00:30,960] Hell no.
+- [00:00:31,080 - 00:00:33,150] There's an amount of money that
+- [00:00:33,150 - 00:00:35,220] once you pass it, it buys misery.
+- [00:00:35,360 - 00:00:36,430] So what was the most amount of
+- [00:00:36,430 - 00:00:37,500] money you made in a single year?
+- [00:00:37,620 - 00:00:38,420] In a single year.
+- [00:00:40,300 - 00:00:42,630] Guys, I'm about to interview the
+- [00:00:42,630 - 00:00:44,960] legendary Will Smith out in Los Angeles.
+- [00:00:45,180 - 00:00:47,200] From the Fresh Prince of Bel-Air to the
+- [00:00:47,200 - 00:00:49,220] Box Office King, Will Smith has done it all.
+- [00:00:49,420 - 00:00:52,780] And he's become one of the greatest entertainers, one of the greatest
+- [00:00:52,780 - 00:00:56,140] actors of not just my generation, but of all time, you guys.
+- [00:00:56,140 - 00:00:57,800] So this interview is about to
+- [00:00:57,800 - 00:00:59,460] be one of the best we've done.
+- [00:00:59,580 - 00:01:01,580] So make sure you stay tuned from start to finish.
+- [00:01:01,660 - 00:01:03,019] With that being said, let's go meet Will
+- [00:01:03,019 - 00:01:04,379] and go see what he has to say.
+- [00:01:13,020 - 00:01:13,700] All right, you guys.
+- [00:01:13,780 - 00:01:14,810] So we just got in the gate
+- [00:01:14,810 - 00:01:15,840] of where we're going to be interviewing Will.
+- [00:01:15,880 - 00:01:17,460] He's going to be coming out at any minute now.
+- [00:01:17,520 - 00:01:18,330] So we're going to be linking up
+- [00:01:18,330 - 00:01:19,140] with him in just a few minutes.
+- [00:01:19,220 - 00:01:19,780] Come on, you guys.
+- [00:01:21,140 - 00:01:21,840] What's up, man?
+- [00:01:21,900 - 00:01:22,500] How you doing, Will?
+- [00:01:22,960 - 00:01:23,900] It's all love.
+- [00:01:23,940 - 00:01:24,640] Great to meet you.
+- [00:01:24,640 - 00:01:25,180] How you feeling, brother?
+- [00:01:25,300 - 00:01:25,680] Great, man.
+- [00:01:25,700 - 00:01:26,080] Happy to be out.
+- [00:01:26,140 - 00:01:26,640] Okay, okay.
+- [00:01:26,680 - 00:01:27,480] We got the color vibes.
+- [00:01:27,600 - 00:01:28,480] We got the color vibes.
+- [00:01:28,700 - 00:01:29,200] I'm Jack.
+- [00:01:29,720 - 00:01:30,420] What's up, man?
+- [00:01:30,720 - 00:01:31,100] I'm Josh.
+- [00:01:31,180 - 00:01:31,580] Good to meet you.
+- [00:01:31,640 - 00:01:31,920] Josh.
+- [00:01:32,160 - 00:01:32,720] What's the deal?
+- [00:01:32,780 - 00:01:33,420] What's the deal?
+- [00:01:33,520 - 00:01:34,260] Happy to be out here.
+- [00:01:34,300 - 00:01:35,240] Man, it's all good.
+- [00:01:35,400 - 00:01:36,440] You on a big run lately.
+- [00:01:36,540 - 00:01:37,760] A little run right now.
+- [00:01:37,760 - 00:01:38,540] A little bit of a run.
+- [00:01:38,740 - 00:01:39,080] For sure.
+- [00:01:39,180 - 00:01:41,080] We had a great shoot yesterday with Tom.
+- [00:01:41,160 - 00:01:42,140] Tom, yeah, I saw that.
+- [00:01:42,240 - 00:01:43,120] I was telling him it was like three hours.
+- [00:01:43,200 - 00:01:44,020] We hit a million on IG.
+- [00:01:44,180 - 00:01:45,500] So just trying to keep on going, man.
+- [00:01:45,500 - 00:01:45,880] Love that.
+- [00:01:45,880 - 00:01:46,940] We're excited about this, man.
+- [00:01:47,000 - 00:01:48,240] We love all that you do, and we're
+- [00:01:48,240 - 00:01:49,480] just happy to be here with you right now.
+- [00:01:49,480 - 00:01:50,340] No, this is great.
+- [00:01:50,340 - 00:01:51,340] Who am I here with today?
+- [00:01:51,460 - 00:01:52,600] Will Smith in the building.
+- [00:01:52,880 - 00:01:54,500] And for those that don't know, what industry
+- [00:01:54,500 - 00:01:56,120] did you decide to pursue a career in?
+- [00:01:56,180 - 00:01:59,790] Well, I started in music, and then I
+- [00:01:59,790 - 00:02:03,400] went into television, and then into film, and ultimately
+- [00:02:03,400 - 00:02:05,620] into production and business.
+- [00:02:05,760 - 00:02:06,900] So you're a little diversified.
+- [00:02:07,020 - 00:02:07,970] Well, you know, man, I
+- [00:02:07,970 - 00:02:08,919] like to have a couple hyphens.
+- [00:02:08,919 - 00:02:10,310] Do you think people should hyper-focus on
+- [00:02:10,310 - 00:02:11,700] one thing when they're starting out, or do
+- [00:02:11,700 - 00:02:13,190] you like the idea of kind
+- [00:02:13,190 - 00:02:14,680] of diversifying your efforts into different ventures?
+- [00:02:14,780 - 00:02:15,940] How do you feel about diversification?
+- [00:02:16,040 - 00:02:16,820] Because you wear many hats.
+- [00:02:16,900 - 00:02:18,400] I think of it like an arrow.
+- [00:02:18,400 - 00:02:20,930] So if you think about the one thing you do
+- [00:02:20,930 - 00:02:23,460] really well at the tip of the arrow, and you
+- [00:02:23,460 - 00:02:26,170] got to do it really specifically and really
+- [00:02:26,170 - 00:02:28,880] well, and then after the arrow bursts through
+- [00:02:28,880 - 00:02:30,950] the universe, then all the other things
+- [00:02:30,950 - 00:02:33,020] you do can come through behind it.
+- [00:02:33,060 - 00:02:35,390] But I think it's really, really
+- [00:02:35,390 - 00:02:37,720] important to, like, master one thing.
+- [00:02:37,780 - 00:02:40,040] One of my favorite books growing up was The
+- [00:02:40,040 - 00:02:42,300] Alchemist, and it says the whole of the universe
+- [00:02:42,300 - 00:02:44,740] is contained in a single grain of sand.
+- [00:02:44,740 - 00:02:46,480] So I took that to be...
+- [00:02:46,480 - 00:02:49,469] If you learn how to do one thing really,
+- [00:02:49,469 - 00:02:52,459] really well, you can expand your knowledge base from
+- [00:02:52,459 - 00:02:54,299] the comprehension of that one thing.
+- [00:02:54,359 - 00:02:56,129] Now, you've become one of the greatest entertainers
+- [00:02:56,129 - 00:02:57,899] of all time, undoubtedly one of the greatest
+- [00:02:57,899 - 00:02:58,660] of all time actors.
+- [00:02:58,679 - 00:02:58,839] Thank you, brother.
+- [00:02:58,959 - 00:02:59,399] Thank you, thank you.
+- [00:02:59,399 - 00:03:00,819] What's been the biggest driving factor
+- [00:03:00,819 - 00:03:02,239] of your success throughout your career?
+- [00:03:02,280 - 00:03:04,080] If you can attribute it to one thing, or
+- [00:03:04,080 - 00:03:05,880] maybe it's a couple of things, what's really led
+- [00:03:05,880 - 00:03:07,449] to your success that separated you apart from
+- [00:03:07,449 - 00:03:09,019] 99% of people in one of the most competitive
+- [00:03:09,019 - 00:03:09,459] industries?
+- [00:03:09,459 - 00:03:12,519] One of the things I discovered really early is
+- [00:03:12,519 - 00:03:15,579] that the wind goes to the most hours committed.
+- [00:03:15,720 - 00:03:16,459] When I realized...
+- [00:03:16,480 - 00:03:19,859] I realized that how I spent my time and attention
+- [00:03:19,859 - 00:03:23,239] on a daily basis, if I do something for 10
+- [00:03:23,239 - 00:03:25,359] hours a day, and you only do it for 9
+- [00:03:25,359 - 00:03:27,480] hours a day, in a year, it's going to be really
+- [00:03:27,480 - 00:03:28,500] hard for you to beat me.
+- [00:03:28,620 - 00:03:32,750] So I realized very, very early, I was probably
+- [00:03:32,750 - 00:03:36,880] 18 by the time I knew that the time applied
+- [00:03:36,880 - 00:03:39,510] was cumulative, and even if you were more talented
+- [00:03:39,510 - 00:03:42,140] than me, if I put in more hours than
+- [00:03:42,140 - 00:03:43,030] you, it would be really
+- [00:03:43,030 - 00:03:43,920] hard for you to beat me.
+- [00:03:43,920 - 00:03:46,459] Now, you've played many roles in the entertainment business.
+- [00:03:46,480 - 00:03:48,070] As an actor, what's the most interesting
+- [00:03:48,070 - 00:03:49,660] thing that you've learned about people throughout
+- [00:03:49,660 - 00:03:50,079] your career?
+- [00:03:50,220 - 00:03:52,809] I guess one of the big things that I've
+- [00:03:52,809 - 00:03:55,399] learned is that even what we call people, what you
+- [00:03:55,399 - 00:03:57,560] say a person, is not actually a person.
+- [00:03:57,720 - 00:03:59,420] It's like a personality.
+- [00:03:59,739 - 00:04:03,309] It's a small constellation of ideas that a
+- [00:04:03,309 - 00:04:06,880] person has chosen to live within and say that
+- [00:04:06,880 - 00:04:07,579] that's us.
+- [00:04:07,579 - 00:04:10,089] And I guess the thing I've learned is
+- [00:04:10,089 - 00:04:12,600] that we're way bigger than we think we are.
+- [00:04:12,739 - 00:04:16,360] We're way bigger than we allow ourselves to be.
+- [00:04:16,480 - 00:04:20,620] We are way more than the little sliver
+- [00:04:20,620 - 00:04:24,760] of race, creed, color, city, country, you know,
+- [00:04:25,060 - 00:04:27,240] that we confine ourselves to.
+- [00:04:27,340 - 00:04:29,880] And that idea of a person can even
+- [00:04:29,880 - 00:04:32,420] become the prison that keeps us from excelling.
+- [00:04:32,520 - 00:04:34,480] Now, you starred in the movie The Pursuit of Happiness.
+- [00:04:34,740 - 00:04:37,860] It's one of the most perspective-shaping movies of all time.
+- [00:04:37,860 - 00:04:37,960] Yeah, for sure.
+- [00:04:38,100 - 00:04:39,980] Did that change your perspective when you were filming it?
+- [00:04:39,980 - 00:04:42,350] One of the big things that I learned
+- [00:04:42,350 - 00:04:44,720] from Chris Gardner and working on that movie is
+- [00:04:44,720 - 00:04:45,980] that suffering is...
+- [00:04:46,480 - 00:04:47,520] is a gift.
+- [00:04:47,700 - 00:04:50,260] The universe teaches through difficulty.
+- [00:04:50,500 - 00:04:53,800] God teaches through suffering and hard times.
+- [00:04:53,980 - 00:04:57,900] And the shaping of a person, the shaping
+- [00:04:57,900 - 00:05:01,820] of a willpower, the shaping of your energy is
+- [00:05:01,820 - 00:05:05,420] almost always exclusively in adversity.
+- [00:05:05,420 - 00:05:09,250] And with Chris Gardner, how he talked about
+- [00:05:09,250 - 00:05:13,080] the education of his suffering was one of
+- [00:05:13,080 - 00:05:16,000] the major lessons that I took away from that movie.
+- [00:05:16,000 - 00:05:16,420] Like...
+- [00:05:16,480 - 00:05:18,480] to get comfortable being uncomfortable
+- [00:05:18,480 - 00:05:20,480] if you want to achieve.
+- [00:05:20,480 - 00:05:21,240] Do you believe in God?
+- [00:05:21,340 - 00:05:21,780] Absolutely.
+- [00:05:22,000 - 00:05:23,660] How important has faith been for you throughout your career?
+- [00:05:23,780 - 00:05:26,500] The idea of God and people throw
+- [00:05:26,500 - 00:05:29,220] different words around and people have different definitions.
+- [00:05:29,220 - 00:05:33,440] I believe in an energy that is constantly
+- [00:05:33,440 - 00:05:37,660] creating in all things that if I cultivate
+- [00:05:37,660 - 00:05:40,120] a relationship with, I can
+- [00:05:40,120 - 00:05:42,580] be more powerful than I am.
+- [00:05:42,720 - 00:05:45,860] I can do things a hundredfold what will could do.
+- [00:05:45,860 - 00:05:49,940] If I tap into the movement and the
+- [00:05:49,940 - 00:05:54,020] energy and the flow and the creative intelligence
+- [00:05:54,020 - 00:05:56,610] that's making the sun and the
+- [00:05:56,610 - 00:05:59,200] stars and the trees that we're breathing.
+- [00:05:59,200 - 00:06:03,260] If I tap into that, I know I can be
+- [00:06:03,260 - 00:06:07,320] infinitely more powerful, creative than me with my ego construct.
+- [00:06:07,320 - 00:06:09,180] Another movie you starred in is Hitch.
+- [00:06:09,180 - 00:06:11,210] I think one of the greatest lessons of that,
+- [00:06:11,210 - 00:06:13,240] there's a quote that the world is overly cruel
+- [00:06:13,240 - 00:06:15,220] to shy men and it rewards the courageous.
+- [00:06:15,220 - 00:06:15,720] Mmm.
+- [00:06:15,860 - 00:06:17,980] Confidence and belief in oneself is one
+- [00:06:17,980 - 00:06:20,100] of the biggest things people that struggle with
+- [00:06:20,100 - 00:06:22,160] and it's what prevents them from finding success.
+- [00:06:22,160 - 00:06:23,990] How did you personally find the self belief
+- [00:06:23,990 - 00:06:25,820] and the confidence within to go out and make
+- [00:06:25,820 - 00:06:27,360] tens, hundreds of millions of dollars
+- [00:06:27,360 - 00:06:28,900] and be so successful in your industry?
+- [00:06:28,900 - 00:06:31,290] I think one of the biggest things I
+- [00:06:31,290 - 00:06:33,680] learned about confidence was on the Fresh Prince of
+- [00:06:33,680 - 00:06:34,680] Bel Air.
+- [00:06:34,680 - 00:06:37,280] The confidence is one side of it, but
+- [00:06:37,280 - 00:06:39,880] it's built on not being scared to look stupid.
+- [00:06:39,880 - 00:06:42,050] So it looks like confidence when
+- [00:06:42,050 - 00:06:44,220] you're not scared to fail, right?
+- [00:06:44,220 - 00:06:45,020] It's not actually confidence.
+- [00:06:45,020 - 00:06:45,520] It's not actually confidence.
+- [00:06:45,520 - 00:06:45,820] It's not actually confidence.
+- [00:06:45,820 - 00:06:47,599] It's confidence in its seeds.
+- [00:06:47,599 - 00:06:50,919] It becomes confidence after you get used to
+- [00:06:50,919 - 00:06:54,240] rejection, you get used to doing it wrong,
+- [00:06:54,240 - 00:06:56,570] you get used to being okay when you tell
+- [00:06:56,570 - 00:06:58,900] a joke and that one's not funny and you get
+- [00:06:58,900 - 00:07:00,860] comfortable if you hit three out of ten,
+- [00:07:00,860 - 00:07:02,820] you know, you're in the hall of fame.
+- [00:07:02,820 - 00:07:05,370] The comfort to fail in front of
+- [00:07:05,370 - 00:07:07,920] people is what is perceived as confidence.
+- [00:07:07,920 - 00:07:09,820] You stop worrying about what everybody else thinks.
+- [00:07:09,820 - 00:07:12,300] Taking advice from somebody who hasn't done
+- [00:07:12,300 - 00:07:14,780] what you want to do is almost insanity.
+- [00:07:14,780 - 00:07:15,780] Like.
+- [00:07:15,820 - 00:07:18,600] You know, you're talking to people who haven't done
+- [00:07:18,600 - 00:07:21,380] the thing that you want to do and ingesting
+- [00:07:21,380 - 00:07:24,780] the poison of their ignorant opinion.
+- [00:07:24,780 - 00:07:25,780] That makes you crazy.
+- [00:07:25,780 - 00:07:28,690] It reminds me of the saying, never take
+- [00:07:28,690 - 00:07:31,600] advice from someone you wouldn't trade places with.
+- [00:07:31,600 - 00:07:32,600] Right.
+- [00:07:32,600 - 00:07:33,600] Yes, exactly.
+- [00:07:33,600 - 00:07:34,990] And it was one, you know, I got that
+- [00:07:34,990 - 00:07:36,380] one time I was going through something and I called
+- [00:07:36,380 - 00:07:38,240] Quincy Jones and you know, I
+- [00:07:38,240 - 00:07:40,100] don't even remember what the problem was.
+- [00:07:40,100 - 00:07:42,020] And I asked him and Quincy was like, he said,
+- [00:07:42,020 - 00:07:43,940] man, how the fuck I'm going to give you advice.
+- [00:07:43,940 - 00:07:45,440] It was a little bit of a.
+- [00:07:45,440 - 00:07:47,060] It was like he said, I wouldn't
+- [00:07:47,060 - 00:07:48,680] have chose none of the shit you chose.
+- [00:07:48,680 - 00:07:50,000] He said, whatever, whatever you're
+- [00:07:50,000 - 00:07:51,320] doing, just keep doing that.
+- [00:07:51,320 - 00:07:54,460] And it was like that was a real vote
+- [00:07:54,460 - 00:07:57,600] of confidence that even somebody in his position backed
+- [00:07:57,600 - 00:08:01,560] off of giving advice in the understanding
+- [00:08:01,560 - 00:08:05,520] that everybody knows what they know and only
+- [00:08:05,520 - 00:08:06,980] they can know for them.
+- [00:08:06,980 - 00:08:08,940] Nobody can really know for you.
+- [00:08:08,940 - 00:08:11,410] And you know, you'll actually get to a point
+- [00:08:11,410 - 00:08:13,880] where you ask for advice less and you just
+- [00:08:13,880 - 00:08:15,200] sort of watch and listen.
+- [00:08:15,200 - 00:08:16,640] And then let people tell you
+- [00:08:16,640 - 00:08:18,080] what they think from their behavior.
+- [00:08:18,080 - 00:08:19,080] Yeah.
+- [00:08:19,080 - 00:08:20,080] And you kind of lean on your own intuition.
+- [00:08:20,080 - 00:08:21,080] Yes, absolutely.
+- [00:08:21,080 - 00:08:22,610] One time somebody told me that if a bird
+- [00:08:22,610 - 00:08:24,140] lands on a branch, does the bird trust the branch
+- [00:08:24,140 - 00:08:25,260] or does it trust its wings?
+- [00:08:25,260 - 00:08:26,970] I've seen many birds land on branches, but
+- [00:08:26,970 - 00:08:28,680] what I've never seen is the branch break and
+- [00:08:28,680 - 00:08:29,680] the bird fall and die.
+- [00:08:29,680 - 00:08:30,680] Yeah.
+- [00:08:30,680 - 00:08:32,850] So guys, listen very carefully because I'm about
+- [00:08:32,850 - 00:08:35,020] to drop one of the most insane offers
+- [00:08:35,020 - 00:08:37,539] that I've ever done for the next 24 hours only.
+- [00:08:37,539 - 00:08:39,639] So exactly one year ago today, I launched
+- [00:08:39,639 - 00:08:41,740] what has now become the number one community
+- [00:08:41,740 - 00:08:43,439] for entrepreneurs in the entire world.
+- [00:08:43,439 - 00:08:44,439] And it's called the school of mentors.
+- [00:08:44,440 - 00:08:47,410] And inside the school of mentor, I give
+- [00:08:47,410 - 00:08:50,380] you direct access to the hundreds of millionaires
+- [00:08:50,380 - 00:08:52,190] and billionaires that I interview and give
+- [00:08:52,190 - 00:08:54,000] you the opportunity to ask them questions
+- [00:08:54,000 - 00:08:55,000] live.
+- [00:08:55,000 - 00:08:56,710] And now in order to celebrate our one
+- [00:08:56,710 - 00:08:58,420] year anniversary, we are going to be doing something
+- [00:08:58,420 - 00:08:59,420] insane.
+- [00:08:59,420 - 00:09:01,320] We are giving you the opportunity to
+- [00:09:01,320 - 00:09:03,220] join the greatest entrepreneur community on the
+- [00:09:03,220 - 00:09:05,760] planet for just $1 a day.
+- [00:09:05,760 - 00:09:08,090] Guys, you can literally speak with millionaires
+- [00:09:08,090 - 00:09:10,420] and billionaires every single week and ask
+- [00:09:10,420 - 00:09:13,320] them questions live for just one freaking dollar a day.
+- [00:09:13,320 - 00:09:14,320] Let me be clear.
+- [00:09:14,320 - 00:09:15,320] This isn't a course.
+- [00:09:15,320 - 00:09:16,320] This isn't a mastermind that costs you $25,000.
+- [00:09:16,320 - 00:09:17,320] This isn't outdated information.
+- [00:09:17,320 - 00:09:17,820] This is live access to the people that
+- [00:09:17,820 - 00:09:18,320] have already built what you're trying to build.
+- [00:09:18,320 - 00:09:18,820] So if you're in a nine to five and
+- [00:09:18,820 - 00:09:19,320] you want to change your life, this is for you.
+- [00:09:19,320 - 00:09:19,820] If you have a business idea and you want
+- [00:09:19,820 - 00:09:20,320] to bring it to life, this is for you.
+- [00:09:20,320 - 00:09:20,820] And if you're already an entrepreneur and you
+- [00:09:20,820 - 00:09:21,320] want to scale to seven, eight, and even
+- [00:09:21,320 - 00:09:22,320] nine figures, this is for you.
+- [00:09:22,320 - 00:09:23,320] But here's the thing.
+- [00:09:23,320 - 00:09:23,820] The only catch is that this offer is only
+- [00:09:23,820 - 00:09:24,320] good for 24 hours after that, it's gone and
+- [00:09:24,320 - 00:09:25,320] we're raising the price again.
+- [00:09:25,320 - 00:09:26,320] Let me just make a quick note.
+- [00:09:26,320 - 00:09:26,820] I'm not going to go
+- [00:09:26,820 - 00:09:27,320] into too much detail on this.
+- [00:09:27,320 - 00:09:27,820] I'm just going to share some tips and tricks
+- [00:09:27,820 - 00:09:28,320] and tips and tricks that you can use to get
+- [00:09:28,320 - 00:09:29,320] your business going.
+- [00:09:29,320 - 00:09:31,090] you want to bring it to life, this is
+- [00:09:31,090 - 00:09:32,860] for you. And if you're already an entrepreneur and you
+- [00:09:32,860 - 00:09:35,130] want to scale to seven, eight, and even nine
+- [00:09:35,130 - 00:09:37,400] figures, this is for you. But here's the thing.
+- [00:09:37,500 - 00:09:40,490] The only catch is that this offer is only
+- [00:09:40,490 - 00:09:43,480] good for 24 hours. After that, it's gone and we're
+- [00:09:43,480 - 00:09:45,660] raising the price again. So if you're watching this
+- [00:09:45,660 - 00:09:47,840] right now, you still have time. All you have
+- [00:09:47,840 - 00:09:49,980] to do is go down and click the link
+- [00:09:49,980 - 00:09:52,120] in the description of this video to join the School
+- [00:09:52,120 - 00:09:54,530] of Mentors, the number one community for business owners
+- [00:09:54,530 - 00:09:56,940] in the entire world. I can't wait to see
+- [00:09:56,940 - 00:09:58,790] you on the inside of the community. But with
+- [00:09:58,790 - 00:10:00,640] that being said, let's get back to the interview
+- [00:10:00,640 - 00:10:02,530] with Will. What is the greatest piece of
+- [00:10:02,530 - 00:10:04,420] advice that Will Smith has ever received? There's one
+- [00:10:04,420 - 00:10:06,300] lesson that a mentor taught you throughout
+- [00:10:06,300 - 00:10:08,180] your career, right? You've networked with billionaires,
+- [00:10:08,260 - 00:10:09,900] you've networked with the most successful people
+- [00:10:09,900 - 00:10:11,540] across different industries. Give me one piece
+- [00:10:11,540 - 00:10:13,270] of advice you could give to somebody who may
+- [00:10:13,270 - 00:10:15,000] not have a great mentor. That's good. There's a couple
+- [00:10:15,000 - 00:10:17,240] of them. My grandmother, when we were going on tour,
+- [00:10:17,240 - 00:10:19,480] as we were getting on the tour bus and she
+- [00:10:19,480 - 00:10:22,180] were going away, she said, hey baby, just remember
+- [00:10:22,180 - 00:10:24,880] everywhere you go, one day you're going to have to
+- [00:10:24,880 - 00:10:26,920] go back. I didn't get it in that moment.
+- [00:10:26,940 - 00:10:30,910] But as I started to go in my career,
+- [00:10:30,910 - 00:10:34,880] I started to realize like, oh shit, it's all relationships.
+- [00:10:35,580 - 00:10:38,900] Everything is relationships. You never know. You
+- [00:10:38,900 - 00:10:42,220] meet somebody right now and they're 16,
+- [00:10:42,580 - 00:10:44,440] but when they're 24, they're going to
+- [00:10:44,440 - 00:10:46,300] be running the company that you're trying to
+- [00:10:46,300 - 00:10:48,940] sell something to. And when they're 34, your kids
+- [00:10:48,940 - 00:10:51,580] go to their kid's school and all of that,
+- [00:10:51,580 - 00:10:54,250] and it's like you start to
+- [00:10:54,250 - 00:10:56,920] develop a network of friends throughout,
+- [00:10:56,940 - 00:11:00,520] and you absolutely never know. We have no clue
+- [00:11:00,520 - 00:11:04,100] how we're going to cross paths in the future.
+- [00:11:04,220 - 00:11:07,340] And it's critical that even as small as a
+- [00:11:07,340 - 00:11:10,460] smile in a moment, you recognize that every person is
+- [00:11:10,460 - 00:11:14,350] going to be a part of the tapestry of your
+- [00:11:14,350 - 00:11:18,240] future. And just taking a minute to connect and to realize
+- [00:11:18,240 - 00:11:21,580] that what you're going to build, there's going to
+- [00:11:21,580 - 00:11:24,920] be a necessity for hundreds, if not thousands of
+- [00:11:24,920 - 00:11:26,860] other people to help you. People will take you places,
+- [00:11:26,940 - 00:11:27,540] that money can't.
+- [00:11:27,780 - 00:11:28,140] Amen.
+- [00:11:28,400 - 00:11:29,520] So did you come from a lot of money?
+- [00:11:29,660 - 00:11:31,580] No, no. I came from the opposite.
+- [00:11:32,300 - 00:11:33,920] So what was your turning point to financial
+- [00:11:33,920 - 00:11:35,540] freedom? Give me that turning point in your life.
+- [00:11:35,680 - 00:11:39,880] I realized that sometimes what you're good at
+- [00:11:39,880 - 00:11:44,080] is different than what you like. So I love
+- [00:11:44,080 - 00:11:48,300] making music. I love being on stage, but I'm
+- [00:11:48,300 - 00:11:52,520] actually better as an actor. And I had to make
+- [00:11:52,520 - 00:11:54,690] the choice to go with what I was
+- [00:11:54,690 - 00:11:56,860] better at. And I tried to mix the...
+- [00:11:56,860 - 00:12:00,990] Mix the music in there. But the real turning point
+- [00:12:00,990 - 00:12:05,120] for me was realizing that my greatest skill set was
+- [00:12:05,120 - 00:12:08,760] acting. And I chose to master that above all
+- [00:12:08,760 - 00:12:12,400] things in my career. And then finance came behind that,
+- [00:12:12,620 - 00:12:13,380] behind the mastery.
+- [00:12:13,500 - 00:12:14,560] So what was the most amount of
+- [00:12:14,560 - 00:12:15,620] money you made in a single year?
+- [00:12:15,760 - 00:12:17,380] Oh, I don't like to talk about that.
+- [00:12:17,400 - 00:12:19,200] Maybe revenue across all the businesses?
+- [00:12:19,200 - 00:12:21,850] Yeah, yeah. There was plenty of zeros, plenty of
+- [00:12:21,850 - 00:12:24,500] zeros, but I don't like to discuss the actual
+- [00:12:24,500 - 00:12:24,860] amount.
+- [00:12:25,000 - 00:12:26,700] Maybe an accomplishment financially.
+- [00:12:26,860 - 00:12:28,100] Even from like a box office
+- [00:12:28,100 - 00:12:29,340] standpoint that you're the most proud of?
+- [00:12:29,460 - 00:12:32,140] Hancock and I Am Legend were within six months
+- [00:12:32,140 - 00:12:34,820] of each other. That was one of the biggest years
+- [00:12:34,820 - 00:12:38,490] of my career and one of the most creative
+- [00:12:38,490 - 00:12:42,160] periods. I think Hancock was in June and then
+- [00:12:42,160 - 00:12:44,090] I Am Legend was in
+- [00:12:44,090 - 00:12:46,020] December. Christmas was nice that year.
+- [00:12:46,100 - 00:12:48,740] Right. Do you think money buys happiness?
+- [00:12:48,980 - 00:12:52,140] Hell no. Actually, there's an amount of money that
+- [00:12:52,140 - 00:12:55,300] once you pass it, it buys misery. Once you
+- [00:12:55,300 - 00:12:56,070] have a certain amount of money, you're going to
+- [00:12:56,070 - 00:12:56,840] have a lot of money. And I think that's
+- [00:12:56,860 - 00:12:57,860] the most important thing.
+- [00:12:57,860 - 00:12:58,860] I think that's the most important thing.
+- [00:12:58,860 - 00:12:59,360] The most important thing is that you're going to
+- [00:12:59,360 - 00:12:59,860] have a lot of money. And if you have a
+- [00:12:59,860 - 00:13:01,240] certain amount of money, you can change people's
+- [00:13:01,240 - 00:13:02,620] lives. So it's really all people can think
+- [00:13:02,620 - 00:13:07,140] about. So it's difficult to make new
+- [00:13:07,140 - 00:13:11,660] friendships at certain financial points, right? In America,
+- [00:13:11,660 - 00:13:14,630] somewhere around a million dollars a year, it
+- [00:13:14,630 - 00:13:17,600] starts going the other way where it's more
+- [00:13:17,600 - 00:13:19,630] problems beyond that. And you start
+- [00:13:19,630 - 00:13:21,660] getting into really an attack zone.
+- [00:13:21,660 - 00:13:23,060] You broke this down beautifully
+- [00:13:23,060 - 00:13:24,460] about clifftop versus rock bottom.
+- [00:13:24,460 - 00:13:25,460] Yeah, for sure.
+- [00:13:25,460 - 00:13:25,960] Everybody thinks when you hit
+- [00:13:25,960 - 00:13:26,460] rock bottom, that's when you change.
+- [00:13:26,460 - 00:13:26,660] Yeah, for sure.
+- [00:13:26,660 - 00:13:27,160] Everybody thinks when you hit rock bottom,
+- [00:13:27,160 - 00:13:27,660] that's when you change. Can you break that
+- [00:13:27,660 - 00:13:28,660] down real quick for them?
+- [00:13:28,660 - 00:13:31,140] The idea of clifftop, it's like a corresponding
+- [00:13:31,140 - 00:13:33,620] place to rock bottom. And after you've had
+- [00:13:33,620 - 00:13:36,140] all the money you've wanted and you've had
+- [00:13:36,140 - 00:13:38,660] all the sex you've wanted and you've created
+- [00:13:38,660 - 00:13:41,350] all the things and all the fame,
+- [00:13:41,350 - 00:13:44,040] there's a corresponding abyss that you can actually
+- [00:13:44,040 - 00:13:46,600] pop off of the top of the material
+- [00:13:46,600 - 00:13:49,160] world. And you're like, oh shit, there's literally
+- [00:13:49,160 - 00:13:52,710] nothing I want to buy. There's literally nobody
+- [00:13:52,710 - 00:13:56,260] that I want to have new sex with. There's
+- [00:13:56,260 - 00:13:57,260] nothing.
+- [00:13:57,260 - 00:14:00,660] And it's a terrifying place when you
+- [00:14:00,660 - 00:14:04,060] realize nothing material can actually satisfy you.
+- [00:14:04,060 - 00:14:07,110] And it's a similar abyss at rock bottom.
+- [00:14:07,110 - 00:14:10,160] And the realization is that what you're actually
+- [00:14:10,160 - 00:14:13,660] looking for is you. What you're actually looking
+- [00:14:13,660 - 00:14:17,160] for is a comfort that will only come with
+- [00:14:17,160 - 00:14:20,230] you totally by yourself with none of this
+- [00:14:20,230 - 00:14:23,300] shit. And then once you are stable in your
+- [00:14:23,300 - 00:14:23,780] place, you were talking about the bird and
+- [00:14:23,780 - 00:14:24,260] the branch. Once you're stable in your place,
+- [00:14:24,260 - 00:14:24,760] you were talking about the bird and the
+- [00:14:24,760 - 00:14:25,260] branch. Once you're stable, you're going to be able
+- [00:14:25,260 - 00:14:25,760] to get out of this shit. You're going to have
+- [00:14:25,760 - 00:14:26,260] a lot of fun, but you're not going to be able
+- [00:14:26,260 - 00:14:27,260] to get out of this shit.
+- [00:14:27,260 - 00:14:29,060] Once you're comfortable in your wings, the branch
+- [00:14:29,060 - 00:14:30,860] can be weak or strong. When you get
+- [00:14:30,860 - 00:14:32,610] a strong branch is great. When you get
+- [00:14:32,610 - 00:14:34,360] a weak branch, that's cool. It's another lesson.
+- [00:14:34,360 - 00:14:37,030] You'll find another one. But there's a
+- [00:14:37,030 - 00:14:39,700] certain stability in yourself that you trust yourself
+- [00:14:39,700 - 00:14:43,790] that you can handle whatever comes that is
+- [00:14:43,790 - 00:14:47,880] above any kind of false material safety comfort.
+- [00:14:47,880 - 00:14:49,810] Because it's not real. There are diseases
+- [00:14:49,810 - 00:14:51,740] that are not curable that your money won't
+- [00:14:51,740 - 00:14:54,000] be able to fix. There are relationships
+- [00:14:54,000 - 00:14:56,260] that break up that you can't buy.
+- [00:14:56,260 - 00:14:57,930] You're going T쟁 is back. When loved ones
+- [00:14:57,930 - 00:14:59,600] die, there's nothing you can do. So there's
+- [00:14:59,600 - 00:15:03,450] certain things in this life that only an
+- [00:15:03,450 - 00:15:07,300] absolute steadiness in yourself in the face of whatever
+- [00:15:07,300 - 00:15:08,970] life has to offer. That's the only
+- [00:15:08,970 - 00:15:10,640] thing that can make this place bare.
+- [00:15:10,640 - 00:15:12,319] Your last message to the younger generation
+- [00:15:12,319 - 00:15:13,319] in one sentence.
+- [00:15:13,319 - 00:15:18,260] Recognize the absolute infinite nature of
+- [00:15:18,260 - 00:15:20,780] what you could do. Consciousness is this crazy
+- [00:15:20,780 - 00:15:23,300] gift that literally can do anything. You don't
+- [00:15:23,300 - 00:15:25,100] just need a friend. You need a family.
+- [00:15:25,100 - 00:15:25,860] So should you sits with a girlfriend, what's
+- [00:15:25,860 - 00:15:27,710] You don't have to go to
+- [00:15:27,710 - 00:15:29,560] the job you went to today.
+- [00:15:29,680 - 00:15:31,680] You don't have to live where you live now.
+- [00:15:31,780 - 00:15:33,280] You don't have to be
+- [00:15:33,280 - 00:15:34,780] in the relationship that you're in.
+- [00:15:34,860 - 00:15:37,920] You literally can do anything that you choose.
+- [00:15:38,080 - 00:15:43,420] It just takes a certain amount of willingness to suffer.
+- [00:15:43,620 - 00:15:47,660] But this thing, whatever we are, is
+- [00:15:47,660 - 00:15:51,700] the crazy, infinite, magical tool of creation.
+- [00:15:51,840 - 00:15:53,300] Will, you got amazing advice, my friend.
+- [00:15:53,380 - 00:15:53,980] Appreciate you, brother.
+- [00:15:54,020 - 00:15:54,980] Thank you so much for your time.
+- [00:15:54,980 - 00:15:55,500] I appreciate you.
+- [00:15:55,500 - 00:15:55,960] That was great.
+- [00:15:56,040 - 00:15:58,680] Guys, we just wrapped up an interview with Will Smith.
+- [00:15:58,880 - 00:15:59,720] That's one of my favorite
+- [00:15:59,720 - 00:16:00,560] interviews I've ever done, you guys.
+- [00:16:00,640 - 00:16:03,010] He just gave so much incredible advice for
+- [00:16:03,010 - 00:16:05,380] people trying to break into any industry, man.
+- [00:16:05,440 - 00:16:06,360] The life advice there.
+- [00:16:06,480 - 00:16:08,200] Him talking about not taking advice
+- [00:16:08,200 - 00:16:09,920] from people you wouldn't trade places with.
+- [00:16:09,980 - 00:16:11,150] And the bigger you get, the less
+- [00:16:11,150 - 00:16:12,320] you have to listen to other people.
+- [00:16:12,480 - 00:16:14,460] But guys, like and subscribe for Amazing Condom.
+- [00:16:14,500 - 00:16:16,340] We've got coming every single week, guys.
+- [00:16:16,400 - 00:16:17,940] I'm bringing you guys the
+- [00:16:17,940 - 00:16:19,480] most successful, the wealthiest people,
+- [00:16:19,580 - 00:16:21,920] the biggest people in every industry directly to you
+- [00:16:21,920 - 00:16:22,890] to give you guys the advice
+- [00:16:22,890 - 00:16:23,860] on how to change your lives,
+- [00:16:23,860 - 00:16:25,160] become the best version of yourselves,
+- [00:16:25,160 - 00:16:28,520] and create financial freedom and build generational wealth.
+- [00:16:28,579 - 00:16:30,180] Great interview out here in Los Angeles.
+- [00:16:30,360 - 00:16:31,319] And one more thing, guys.
+- [00:16:31,380 - 00:16:32,430] Go down and click the link
+- [00:16:32,430 - 00:16:33,480] down in the description of this video
+- [00:16:33,480 - 00:16:34,900] to join the School of Mentors,
+- [00:16:35,000 - 00:16:36,810] the number one community for
+- [00:16:36,810 - 00:16:38,620] business owners in the entire world
+- [00:16:38,620 - 00:16:40,250] where you will get
+- [00:16:40,250 - 00:16:41,880] mentorship directly from the eight-figure,
+- [00:16:41,959 - 00:16:43,089] the nine-figure, and the
+- [00:16:43,089 - 00:16:44,219] billionaire entrepreneurs that I interview
+- [00:16:44,219 - 00:16:46,380] where you can get access to them every single week.
+- [00:16:46,480 - 00:16:48,380] Guys, every week, I bring in a different mentor
+- [00:16:48,380 - 00:16:50,500] to give you guys personalized one-on-one advice
+- [00:16:50,500 - 00:16:52,420] and answer all your questions on how to start,
+- [00:16:52,420 - 00:16:54,400] on how to scale your business, on how to sell,
+- [00:16:54,480 - 00:16:54,980] how to market,
+- [00:16:55,000 - 00:16:55,140] and how to grow your business.
+- [00:16:55,140 - 00:17:02,020] And I'll see you in the next video.
