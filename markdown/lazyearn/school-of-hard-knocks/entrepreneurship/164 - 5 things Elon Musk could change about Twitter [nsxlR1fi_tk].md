@@ -1,0 +1,275 @@
+# Transcript
+
+Source: lazyearn/school-of-hard-knocks/entrepreneurship/164 - 5 things Elon Musk could change about Twitter [nsxlR1fi_tk].mkv
+
+- [00:00:00,000 - 00:00:02,150] So Elon Musk bought Twitter, and it seems to
+- [00:00:02,150 - 00:00:04,300] be a pretty split decision on the populace of the
+- [00:00:04,300 - 00:00:06,500] people that use Twitter on whether they're excited that
+- [00:00:06,500 - 00:00:08,700] Elon bought it or they're not happy at all
+- [00:00:08,700 - 00:00:10,380] and kind of worried about where he's going to
+- [00:00:10,380 - 00:00:12,060] take the platform. Mr. Musk buying Twitter is an
+- [00:00:12,060 - 00:00:14,280] interesting move, especially considering that he is a
+- [00:00:14,280 - 00:00:16,500] top 10 most followed account on the platform
+- [00:00:16,500 - 00:00:18,910] and actively using. Some of his tweets have
+- [00:00:18,910 - 00:00:21,320] even shaken markets. But regardless of your opinions
+- [00:00:21,320 - 00:00:23,920] of Mr. Musk, him buying Twitter obviously comes with
+- [00:00:23,920 - 00:00:26,520] a certain purpose. The guy is the CEO of two
+- [00:00:26,520 - 00:00:28,389] of the biggest companies in the world and is
+- [00:00:28,389 - 00:00:30,259] also involved in a number of other things, and of
+- [00:00:30,259 - 00:00:32,569] course, keeping up his celebrity and personal brand.
+- [00:00:32,569 - 00:00:34,879] So any move he actively chooses to make
+- [00:00:34,879 - 00:00:37,549] in regards to buying companies and whatnot, obviously
+- [00:00:37,549 - 00:00:40,220] has to come with a deal of responsibility,
+- [00:00:40,700 - 00:00:42,950] purpose, and drive. If you look collectively of
+- [00:00:42,950 - 00:00:45,200] all the companies that Elon is the head of,
+- [00:00:45,420 - 00:00:47,310] and just kind of what the general purposes
+- [00:00:47,310 - 00:00:49,200] he's bringing behind them, pretty much all of them
+- [00:00:49,200 - 00:00:51,210] have in common that they want to further the
+- [00:00:51,210 - 00:00:53,220] human race and make the world a better place.
+- [00:00:53,220 - 00:00:54,710] Clearly, since he has so much going
+- [00:00:54,710 - 00:00:56,200] on in his time as a CEO,
+- [00:00:56,200 - 00:00:58,080] multiple companies, obviously him buying Twitter, he
+- [00:00:58,080 - 00:00:59,960] wants to try to bring that same
+- [00:00:59,960 - 00:01:02,220] approach to the platform. As an avid Twitter user
+- [00:01:02,220 - 00:01:04,480] myself, I use it every single day. I'm also
+- [00:01:04,480 - 00:01:06,670] curious as to what installments and changes Elon wants
+- [00:01:06,670 - 00:01:08,860] to make to this platform. So in this video,
+- [00:01:08,960 - 00:01:10,840] I want to break down five things that I think
+- [00:01:10,840 - 00:01:12,720] that Elon is going to bring to the platform to
+- [00:01:12,720 - 00:01:14,800] positively change it and make Twitter a better
+- [00:01:14,800 - 00:01:16,880] place for us all. Before jumping into number one,
+- [00:01:16,980 - 00:01:18,920] go ahead and comment down below what your thoughts
+- [00:01:18,920 - 00:01:20,860] are on Elon buying Twitter, if you're for it,
+- [00:01:20,880 - 00:01:22,560] if you're against it, and why. And be sure
+- [00:01:22,560 - 00:01:24,240] to subscribe to the channel for more videos like
+- [00:01:24,240 - 00:01:25,980] this and leave a like if you enjoy it.
+- [00:01:26,200 - 00:01:27,920] So the first major thing that Elon's kind
+- [00:01:27,920 - 00:01:29,640] of talked about and presented to the table in
+- [00:01:29,640 - 00:01:31,830] regards to buying Twitter is he wants to remove
+- [00:01:31,830 - 00:01:34,020] all the bots from the platform. If you ever looked
+- [00:01:34,020 - 00:01:36,160] in the comments under a post and see accounts
+- [00:01:36,160 - 00:01:38,300] that just look like there's not a lot of action
+- [00:01:38,300 - 00:01:40,270] going on their account when it comes to
+- [00:01:40,270 - 00:01:42,240] following, they seem like they're created pretty recently,
+- [00:01:42,700 - 00:01:44,990] almost maybe leaving kind of like a spammy or
+- [00:01:44,990 - 00:01:47,280] scammy type of comment. Well, Elon wants to put
+- [00:01:47,280 - 00:01:49,400] something in place that could take out this
+- [00:01:49,400 - 00:01:51,520] for good on Twitter. Currently on the platform,
+- [00:01:51,520 - 00:01:53,850] bots are thriving, being able to like,
+- [00:01:53,850 - 00:01:56,180] retweet, comment, and just tweet out random things,
+- [00:01:56,200 - 00:01:58,180] that might have been pre-coded in. And I think
+- [00:01:58,180 - 00:02:00,160] the reason because of this is because Twitter is a
+- [00:02:00,160 - 00:02:02,860] publicly traded company. And one of the reasons why
+- [00:02:02,860 - 00:02:05,560] Elon wants to take it private is because if
+- [00:02:05,560 - 00:02:07,490] you're a publicly traded company, you have
+- [00:02:07,490 - 00:02:09,419] to worry about shareholders and their opinions and
+- [00:02:09,419 - 00:02:11,770] what they think of Twitter and where it's going
+- [00:02:11,770 - 00:02:14,120] in the direction of its success. Well, if you have
+- [00:02:14,120 - 00:02:16,380] bots that are actively boosting engagement
+- [00:02:16,380 - 00:02:18,640] on the platform, retweeting, liking, commenting,
+- [00:02:19,260 - 00:02:21,460] pre-coded to tweet things out, well, it's going
+- [00:02:21,460 - 00:02:23,660] to boost the engagement numbers as well as elevate
+- [00:02:23,660 - 00:02:24,920] the active monthly user numbers that Twitter has. So if
+- [00:02:24,920 - 00:02:26,180] you're a bot that's going to be doing a lot of
+- [00:02:26,200 - 00:02:26,760] that, you're going to want to be able to
+- [00:02:26,760 - 00:02:27,320] get that information out there. So when presenting those
+- [00:02:27,320 - 00:02:29,199] to shareholders, it looks favorably on the
+- [00:02:29,199 - 00:02:31,079] company. So Elon taking the company private,
+- [00:02:31,079 - 00:02:33,759] this will give him the ability to leave shareholder
+- [00:02:33,759 - 00:02:36,440] opinions out of the discussion and cleaning up all
+- [00:02:36,440 - 00:02:39,199] the bots that are on the platform. This
+- [00:02:39,199 - 00:02:41,959] will also reinforce Elon's idea of creating more user
+- [00:02:41,959 - 00:02:44,399] authentication, verifying who certain people are when
+- [00:02:44,399 - 00:02:46,839] they join Twitter, that it's an actual human
+- [00:02:46,839 - 00:02:49,399] being on the account or a business or a new
+- [00:02:49,399 - 00:02:51,959] content page that people want to run and who's really
+- [00:02:51,959 - 00:02:54,039] attached to it. This is kind of similar
+- [00:02:54,039 - 00:02:56,120] how Facebook has Facebook pages, but you have to
+- [00:02:56,120 - 00:02:58,560] have an admin and a single account to be
+- [00:02:58,560 - 00:03:01,000] a part of that Facebook page. And hopefully this user
+- [00:03:01,000 - 00:03:03,720] authentication will incentivize the user and make it
+- [00:03:03,720 - 00:03:06,440] a better place to really want to create their
+- [00:03:06,440 - 00:03:08,520] own content and bring more to the table because
+- [00:03:08,520 - 00:03:10,600] they don't have to worry about bots spamming their
+- [00:03:10,600 - 00:03:12,960] posts or just when consuming content, bots trying to
+- [00:03:12,960 - 00:03:15,320] scam people. The next thing that I think Elon's
+- [00:03:15,320 - 00:03:17,080] trying to bring to the table when it comes to
+- [00:03:17,080 - 00:03:18,840] this has been talked about a lot is pulling back
+- [00:03:18,840 - 00:03:20,840] on censorship of the platform. I think there's
+- [00:03:20,840 - 00:03:22,840] some concern initially with this move for some
+- [00:03:22,840 - 00:03:24,440] people because maybe they don't want
+- [00:03:24,440 - 00:03:26,040] certain people allowed on the Twitter platform,
+- [00:03:26,120 - 00:03:28,280] to be able to have enough voice to talk
+- [00:03:28,280 - 00:03:30,440] to their community. But Elon stated that his mission and
+- [00:03:30,440 - 00:03:32,800] goal with pulling back on the censorship and free
+- [00:03:32,800 - 00:03:35,160] speech is because he wants both the most radical
+- [00:03:35,160 - 00:03:38,000] and polarized 10% on each side of the
+- [00:03:38,000 - 00:03:40,840] political spectrum to be equally unhappy with this decision,
+- [00:03:40,840 - 00:03:43,520] meaning that you're not going to be able to
+- [00:03:43,520 - 00:03:46,200] be able to cater to every single person's opinions,
+- [00:03:46,200 - 00:03:48,160] wants and needs, but he wants to be able
+- [00:03:48,160 - 00:03:50,120] to provide the same service and platform for all
+- [00:03:50,120 - 00:03:52,240] the users that are authenticated on the Twitter
+- [00:03:52,240 - 00:03:54,360] platform, regardless of where they stand on the
+- [00:03:54,360 - 00:03:54,880] political spectrum. Elon's mission and goal with
+- [00:03:54,880 - 00:03:55,400] pulling back on censorship and free speech is
+- [00:03:55,400 - 00:03:55,480] to provide the same service and platform for
+- [00:03:55,480 - 00:03:55,560] all the users that are authenticated on the Twitter
+- [00:03:55,560 - 00:03:55,800] platform, regardless of where they stand on
+- [00:03:55,800 - 00:03:56,040] the political spectrum. And this could go
+- [00:03:56,040 - 00:03:58,559] from beyond politics with any individual that maybe
+- [00:03:58,559 - 00:04:01,079] you don't agree with, or you don't like
+- [00:04:01,079 - 00:04:03,039] their platform, you just don't like them in
+- [00:04:03,039 - 00:04:05,000] general as a person. And Elon wants to make
+- [00:04:05,000 - 00:04:07,479] sure that every single individual person that's on
+- [00:04:07,479 - 00:04:09,959] the platform that's authenticated can have a voice.
+- [00:04:09,959 - 00:04:12,079] And if they have to be shut down, it's
+- [00:04:12,079 - 00:04:14,200] really only for specific reasons that are set in place.
+- [00:04:14,200 - 00:04:16,079] The next thing that I think Elon wants to add
+- [00:04:16,079 - 00:04:17,959] to the table is being able to pay creators better.
+- [00:04:17,959 - 00:04:19,959] I think the best way that Elon's going
+- [00:04:19,959 - 00:04:21,959] to go about this is using the current transformation
+- [00:04:21,959 - 00:04:23,999] from between web two to web three
+- [00:04:23,999 - 00:04:26,039] and using cryptocurrencies to be able to
+- [00:04:26,040 - 00:04:27,960] pay creators. You know, in the esports world,
+- [00:04:27,960 - 00:04:29,880] there's this thing kind of called play to earn,
+- [00:04:29,880 - 00:04:31,440] where, you know, you can play a
+- [00:04:31,440 - 00:04:33,000] game and there's developing companies doing this,
+- [00:04:33,000 - 00:04:35,160] where you can play games and earn cryptocurrency
+- [00:04:35,160 - 00:04:37,320] as you're playing them, depending on how well you
+- [00:04:37,320 - 00:04:39,760] do and the different types of content that
+- [00:04:39,760 - 00:04:42,200] you make within the realm. Well, bringing this to
+- [00:04:42,200 - 00:04:44,760] Twitter, you know, there might be a tweet to
+- [00:04:44,760 - 00:04:47,320] earn policy where the more content you create and the
+- [00:04:47,320 - 00:04:49,480] better engagement that it gets, the more you're going
+- [00:04:49,480 - 00:04:51,640] to be able to tweet to earn certain currencies
+- [00:04:51,640 - 00:04:53,400] that are allowed on the platform. And I'm sure
+- [00:04:53,400 - 00:04:55,160] that this is going to have to do with cryptocurrency.
+- [00:04:55,160 - 00:04:57,160] Another reason why I think Elon's going to
+- [00:04:57,160 - 00:04:59,160] bring this to the table is it's almost essential
+- [00:04:59,160 - 00:05:02,040] that really the only top accounts on Twitter are
+- [00:05:02,040 - 00:05:04,920] able to monetize themselves. And a lot of that has
+- [00:05:04,920 - 00:05:06,800] to go through their own marketing, their
+- [00:05:06,800 - 00:05:08,680] own affiliate marketing strategies that they bring
+- [00:05:08,680 - 00:05:10,920] to the table. There's not too much that Twitter
+- [00:05:10,920 - 00:05:13,160] is able to provide them in regards to monetary
+- [00:05:13,160 - 00:05:15,240] payment. It really is regarded on their audience.
+- [00:05:15,240 - 00:05:17,320] If you look at the current creator economy outside
+- [00:05:17,320 - 00:05:19,960] of Twitter, it prioritizes a lot of short
+- [00:05:19,960 - 00:05:22,600] form video content. So that's TikTok, Facebook reels,
+- [00:05:22,600 - 00:05:23,000] Instagram reels, even YouTube shorts and Snapchat reels.
+- [00:05:23,000 - 00:05:23,400] So that's a lot of content that they're
+- [00:05:23,400 - 00:05:23,520] going to be able to monetize. And a lot of
+- [00:05:23,520 - 00:05:23,640] that has to do with their own affiliate marketing strategies.
+- [00:05:23,640 - 00:05:24,240] So that's TikTok, Facebook reels, Instagram
+- [00:05:24,240 - 00:05:24,840] reels, even YouTube shorts and Snapchat reels.
+- [00:05:24,840 - 00:05:25,439] And a lot of that has to do
+- [00:05:25,439 - 00:05:26,039] with their own affiliate marketing strategies. So that's
+- [00:05:26,039 - 00:05:26,439] going to be a lot of content that they're going
+- [00:05:26,439 - 00:05:26,840] to be able to monetize. But if you look at the
+- [00:05:26,840 - 00:05:29,640] domain of kind of the power players in
+- [00:05:29,640 - 00:05:32,440] there, it's really TikTok and Facebook Instagram reels.
+- [00:05:32,440 - 00:05:35,119] And those platforms pay out creators based on
+- [00:05:35,119 - 00:05:37,799] the amount of views and engagement that they get,
+- [00:05:37,799 - 00:05:39,679] something that Twitter is kind of lacking
+- [00:05:39,679 - 00:05:41,559] on, especially since it's not really prioritizing
+- [00:05:41,559 - 00:05:43,599] short form video content. I think Elon might set
+- [00:05:43,599 - 00:05:45,640] something up like this to be able to pay
+- [00:05:45,640 - 00:05:47,839] creators similar to how those platforms pay, but it
+- [00:05:47,839 - 00:05:50,039] might be in the web three space and it
+- [00:05:50,039 - 00:05:52,159] might be more towards the written form Twitter
+- [00:05:52,159 - 00:05:54,280] SEO approved content versus the short form content.
+- [00:05:54,280 - 00:05:54,360] So I think that's a really good point. And I
+- [00:05:54,360 - 00:05:54,440] think that's a really good point. And I think that's
+- [00:05:54,440 - 00:05:54,480] a really good point. And I think that's a really
+- [00:05:54,480 - 00:05:54,520] good point. And I think that's a really good point.
+- [00:05:54,840 - 00:05:57,080] Maybe short form video content, but who knows
+- [00:05:57,080 - 00:05:59,320] Elon might bring a short form video content
+- [00:05:59,320 - 00:06:01,959] platform to the table for Twitter. I want to
+- [00:06:01,959 - 00:06:04,599] go back to this constant theme of user authentication.
+- [00:06:04,599 - 00:06:06,879] If you bring the user authentication
+- [00:06:06,879 - 00:06:09,159] more heavily to Twitter, then, you know,
+- [00:06:09,159 - 00:06:11,559] the company itself would be able to verify
+- [00:06:11,559 - 00:06:13,960] who certain creators are and with their account,
+- [00:06:13,960 - 00:06:16,120] how much engagement that they drive to the
+- [00:06:16,120 - 00:06:18,280] platform, how much good content that they create
+- [00:06:18,280 - 00:06:19,999] and being able to verify users, they'll be
+- [00:06:19,999 - 00:06:21,719] able to make sure that the right person
+- [00:06:21,719 - 00:06:24,280] gets their payment. And it's not just some bot collecting
+- [00:06:24,840 - 00:06:26,599] checks and trying to scam people. The fourth thing
+- [00:06:26,599 - 00:06:28,359] that I think Elon's going to bring to the
+- [00:06:28,359 - 00:06:30,639] Twitter platform is an open source algorithm.
+- [00:06:30,639 - 00:06:32,919] The benefit of adding an open source algorithm
+- [00:06:32,919 - 00:06:35,199] to the Twitter platform is one, it'll provide
+- [00:06:35,199 - 00:06:37,479] more transparency for creators and users on how
+- [00:06:37,479 - 00:06:39,719] the Twitter algorithm is working from a
+- [00:06:39,719 - 00:06:41,960] business stance. Since Elon's taking the company private,
+- [00:06:41,960 - 00:06:44,319] this will allow the change of the open
+- [00:06:44,319 - 00:06:46,679] source algorithm and it will reduce the maintenance
+- [00:06:46,679 - 00:06:48,799] costs for the software. It'll increase the speed
+- [00:06:48,799 - 00:06:50,919] and make it more flexible as well as increase
+- [00:06:50,919 - 00:06:52,799] security. Before we get into the last thing that
+- [00:06:52,799 - 00:06:54,679] I think Elon's going to add to the Twitter platform,
+- [00:06:54,840 - 00:06:56,599] go ahead and comment down below if there's
+- [00:06:56,599 - 00:06:58,359] anything that I haven't mentioned in this video
+- [00:06:58,359 - 00:07:00,559] that you think Elon's going to bring to the
+- [00:07:00,559 - 00:07:02,760] table in regards to just making the Twitter platform
+- [00:07:02,760 - 00:07:04,480] better. Is he going to add anything that
+- [00:07:04,480 - 00:07:06,200] you think will make the Twitter platform worse?
+- [00:07:06,200 - 00:07:08,160] Let us know in the comments. So last but
+- [00:07:08,160 - 00:07:10,120] not least, the final thing that I think Elon's
+- [00:07:10,120 - 00:07:12,600] going to bring to the Twitter platform, he even
+- [00:07:12,600 - 00:07:15,080] ran a poll of this on his Twitter account,
+- [00:07:15,080 - 00:07:17,800] and that is the infamous decision to bring
+- [00:07:17,800 - 00:07:20,520] an edit button to Twitter. I think the majority
+- [00:07:20,520 - 00:07:22,680] of Twitter users, especially looking at the results of
+- [00:07:22,680 - 00:07:24,840] that poll that Elon launched are in favor of
+- [00:07:24,840 - 00:07:26,920] adding an edit button to the Twitter platform,
+- [00:07:26,920 - 00:07:29,000] but the world still remains a little divided as
+- [00:07:29,000 - 00:07:31,079] there's still some users that probably are against this
+- [00:07:31,079 - 00:07:33,159] move. So what exactly would be the effects of
+- [00:07:33,159 - 00:07:35,039] implementing this change? Well, on the surface
+- [00:07:35,039 - 00:07:36,919] level, adding an edit button to Twitter seems
+- [00:07:36,919 - 00:07:39,239] like it'd be a simple thing, but in the
+- [00:07:39,239 - 00:07:41,559] reality, this might change the integrity of the platform
+- [00:07:41,559 - 00:07:44,199] of having the original stated tweets up there. My
+- [00:07:44,199 - 00:07:46,840] personal idea on this topic would be being able to
+- [00:07:46,840 - 00:07:49,120] add the edit button into Twitter, but implementing
+- [00:07:49,120 - 00:07:51,400] some sort of a blockchain technology that would
+- [00:07:51,400 - 00:07:52,559] be able to backtrack what the original or
+- [00:07:52,559 - 00:07:53,719] edited version of the Twitter platform would look like.
+- [00:07:53,719 - 00:07:54,199] So I'm going to go ahead and get started with
+- [00:07:54,199 - 00:07:54,679] the first thing that I think Elon's going to bring to
+- [00:07:54,679 - 00:07:54,719] the Twitter platform, and that is the fact that
+- [00:07:54,719 - 00:07:54,760] Elon's going to bring an edit button to Twitter.
+- [00:07:54,760 - 00:07:54,840] For the first thing, I'm going to go ahead and
+- [00:07:54,840 - 00:07:54,920] get started with the first thing that I think Elon's going
+- [00:07:54,920 - 00:07:54,979] to bring to Twitter. So I'm going to go ahead
+- [00:07:54,979 - 00:07:55,039] and get started with the first thing that I think Elon's
+- [00:07:55,039 - 00:07:55,399] going to bring to Twitter. For the first thing
+- [00:07:55,399 - 00:07:55,760] that I think Elon's going to bring to Twitter.
+- [00:07:55,760 - 00:07:57,800] But just having a backlog of everything that
+- [00:07:57,800 - 00:07:59,840] was originally added or deleted from the tweet,
+- [00:07:59,840 - 00:08:01,520] that way you keep the integrity of
+- [00:08:01,520 - 00:08:03,200] what was tweeted out on the platform,
+- [00:08:03,200 - 00:08:05,480] and you can't just make a sudden change
+- [00:08:05,480 - 00:08:07,760] to certain tweets for various reasons. This also
+- [00:08:07,760 - 00:08:10,040] falls in line with the user authentication thing
+- [00:08:10,040 - 00:08:12,320] that needs to be implemented into the platform.
+- [00:08:12,320 - 00:08:14,480] And keeping the authenticity in the original tweet
+- [00:08:14,480 - 00:08:16,640] by having that backlog will be able to
+- [00:08:16,640 - 00:08:18,640] show people that, hey, maybe they just needed to
+- [00:08:18,640 - 00:08:20,640] make a quick edit or what exactly was the
+- [00:08:20,640 - 00:08:22,619] change that they needed to make. But the
+- [00:08:22,619 - 00:08:24,599] current tweet is as it sits on the platform.
+- [00:08:24,600 - 00:08:26,870] platform can be updated and changed as needed,
+- [00:08:26,870 - 00:08:29,140] but there's still a backlog that people can check
+- [00:08:29,140 - 00:08:31,399] and to keep that authenticity with all the users
+- [00:08:31,399 - 00:08:33,659] in the community. So that's pretty much my thoughts
+- [00:08:33,659 - 00:08:35,219] on the five things that I think that Elon's
+- [00:08:35,219 - 00:08:36,780] going to bring to the platform that's going to
+- [00:08:36,780 - 00:08:39,330] positively impact it. If you want to comment
+- [00:08:39,330 - 00:08:41,880] down below anything of your comments on this topic,
+- [00:08:41,880 - 00:08:43,610] and if you enjoyed the video, please give
+- [00:08:43,610 - 00:08:45,340] a subscribe and a like to the video,
+- [00:08:45,780 - 00:08:47,560] and we'll see you in the next one. Thanks.
