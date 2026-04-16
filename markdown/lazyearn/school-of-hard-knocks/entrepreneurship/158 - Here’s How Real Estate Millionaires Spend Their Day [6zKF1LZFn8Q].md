@@ -1,0 +1,550 @@
+# Transcript
+
+Source: lazyearn/school-of-hard-knocks/entrepreneurship/158 - Here’s How Real Estate Millionaires Spend Their Day [6zKF1LZFn8Q].mkv
+
+- [00:00:00,000 - 00:00:01,660] How many pieces of real estate or how
+- [00:00:01,660 - 00:00:03,320] many properties do you currently own right now?
+- [00:00:04,100 - 00:00:06,660] We have right around 130 different properties.
+- [00:00:06,760 - 00:00:07,890] Wow, that's amazing. And how long
+- [00:00:07,890 - 00:00:09,020] have you been in real estate for?
+- [00:00:09,260 - 00:00:10,040] 13 years.
+- [00:00:10,160 - 00:00:11,650] 13 years. So, you know, for
+- [00:00:11,650 - 00:00:13,140] someone who's starting out in 2022,
+- [00:00:13,460 - 00:00:14,830] what is your best piece of advice
+- [00:00:14,830 - 00:00:16,200] to someone pursuing the real estate industry?
+- [00:00:16,379 - 00:00:19,069] The best piece of advice that I have is to
+- [00:00:19,069 - 00:00:21,760] take the risk, but find properties that are below value.
+- [00:00:22,120 - 00:00:24,690] And the leverage that you get with real estate
+- [00:00:24,690 - 00:00:27,260] is unreal. You might put $10,000 down on a property,
+- [00:00:27,260 - 00:00:29,660] but if it's worth $300,000 and it goes
+- [00:00:29,660 - 00:00:32,060] up 10% that year, you just tripled your money.
+- [00:00:32,280 - 00:00:35,200] It's on paper, but think very long term with it.
+- [00:00:35,280 - 00:00:37,650] I met a guy that bought a property
+- [00:00:37,650 - 00:00:40,020] for $11,000 that he got offered for $3 million.
+- [00:00:40,480 - 00:00:42,430] And that was 60 years ago. So the
+- [00:00:42,430 - 00:00:44,380] power of real estate over time, you know,
+- [00:00:44,420 - 00:00:45,510] you're never going to buy a
+- [00:00:45,510 - 00:00:46,600] house and it goes to zero.
+- [00:00:46,860 - 00:00:47,920] That might happen with a stock,
+- [00:00:47,920 - 00:00:48,980] that might happen with a business,
+- [00:00:49,480 - 00:00:51,420] but real estate does not go to zero.
+- [00:00:51,560 - 00:00:53,120] Today, we're going to be spending a day
+- [00:00:53,120 - 00:00:54,680] in the life with Matt Teufke and Alex Kaufman,
+- [00:00:54,680 - 00:00:56,900] who are two owners of a real estate brokerage.
+- [00:00:56,900 - 00:00:58,780] They have over a hundred properties and
+- [00:00:58,780 - 00:01:00,660] nearly 200 agents that work under them.
+- [00:01:00,920 - 00:01:02,450] They're one of the most entrepreneurial
+- [00:01:02,450 - 00:01:03,980] real estate brokerages in all of Texas.
+- [00:01:04,179 - 00:01:05,129] And we can't wait to take you
+- [00:01:05,129 - 00:01:06,080] guys through a day in the life.
+- [00:01:06,220 - 00:01:07,700] Yeah. I mean, I can show you around, man.
+- [00:01:07,800 - 00:01:08,320] Awesome, man.
+- [00:01:09,140 - 00:01:11,500] This is like hangout office. My wife's
+- [00:01:11,500 - 00:01:13,860] actually over here working. This is Lexi.
+- [00:01:15,100 - 00:01:15,920] Nice to meet you.
+- [00:01:16,460 - 00:01:18,090] And we really say like, Hey,
+- [00:01:18,090 - 00:01:19,720] this office is open to everybody.
+- [00:01:19,840 - 00:01:20,020] Right.
+- [00:01:20,120 - 00:01:21,540] So we'll give you the code. You want to
+- [00:01:21,540 - 00:01:22,960] throw an event? You want to throw a party?
+- [00:01:23,240 - 00:01:25,160] Have at it. This is their office.
+- [00:01:25,160 - 00:01:26,660] And how long have you guys had this?
+- [00:01:26,900 - 00:01:28,380] Kind of, I guess, spot right here.
+- [00:01:28,580 - 00:01:29,860] Moved in here August 1st.
+- [00:01:29,920 - 00:01:30,620] Wow. Okay.
+- [00:01:30,740 - 00:01:33,600] So we still got the Round Rock office, but
+- [00:01:33,600 - 00:01:36,460] we moved into this one a couple months ago.
+- [00:01:36,720 - 00:01:36,940] Right.
+- [00:01:37,280 - 00:01:39,240] Feels like we've been here for like six
+- [00:01:39,240 - 00:01:41,200] months, but it was just two months ago.
+- [00:01:41,220 - 00:01:42,200] We don't own it. We
+- [00:01:42,200 - 00:01:43,180] wish we did. We're renting it.
+- [00:01:43,380 - 00:01:45,500] Yeah, we'll show you around. We got two offices upstairs.
+- [00:01:45,660 - 00:01:48,020] We own a first right of refusal to buy it.
+- [00:01:48,020 - 00:01:50,320] Yeah, Alex got the, that's basically
+- [00:01:50,320 - 00:01:52,620] so for anybody who doesn't know,
+- [00:01:53,320 - 00:01:55,100] we get the opportunity to buy
+- [00:01:55,100 - 00:01:56,880] it if he gets any other offers.
+- [00:01:56,900 - 00:01:58,100] Oh, that's sweet.
+- [00:01:58,100 - 00:01:58,600] Yeah.
+- [00:01:58,600 - 00:01:59,100] Yeah.
+- [00:01:59,100 - 00:02:02,500] So this actually used to be
+- [00:02:02,500 - 00:02:05,900] a church, like a Bible study group.
+- [00:02:05,900 - 00:02:13,400] This is a spot where agents can come and work.
+- [00:02:13,400 - 00:02:17,600] This is Chris Sweeney, entrepreneur.
+- [00:02:17,600 - 00:02:19,400] Class is in session, Sweeney.
+- [00:02:19,400 - 00:02:22,700] Yeah. So we leave these offices open. We'll do trainings.
+- [00:02:22,700 - 00:02:23,300] Yeah.
+- [00:02:23,300 - 00:02:24,990] You know, sometimes people close the
+- [00:02:24,990 - 00:02:26,680] door when they're cold calling or something.
+- [00:02:26,900 - 00:02:27,400] We'll check in here.
+- [00:02:27,400 - 00:02:28,400] We'll talk to Elliot.
+- [00:02:29,300 - 00:02:30,800] That's my boy Elliot, cold calling.
+- [00:02:34,100 - 00:02:36,600] Okay. You know, that's my deal.
+- [00:02:36,600 - 00:02:38,000] Training room where we run
+- [00:02:38,000 - 00:02:39,400] classes and trainings and everything.
+- [00:02:40,000 - 00:02:44,600] And then there's just a office for Mr. Jonathan Richards.
+- [00:02:44,800 - 00:02:45,700] He's not in yet.
+- [00:02:45,800 - 00:02:46,400] Big country.
+- [00:02:46,400 - 00:02:47,500] AKA big country.
+- [00:02:47,500 - 00:02:48,500] You all meet him later.
+- [00:02:51,100 - 00:02:53,700] Jonathan does a lot of classes for us.
+- [00:02:54,200 - 00:02:55,300] He actually is big country.
+- [00:02:55,300 - 00:02:56,600] You'll see him and he'll be like, yeah.
+- [00:02:56,600 - 00:02:57,100] That's big country.
+- [00:02:57,100 - 00:02:58,299] I see it on the door.
+- [00:02:58,799 - 00:03:00,399] Every now and then, you know, come
+- [00:03:00,399 - 00:03:02,000] up here and celebrate a little tequila.
+- [00:03:02,799 - 00:03:03,400] Oh, that's sick.
+- [00:03:03,400 - 00:03:04,600] But these are all classes.
+- [00:03:04,600 - 00:03:05,500] We teach classes.
+- [00:03:06,200 - 00:03:08,400] If you look here, there's basically, there is
+- [00:03:08,400 - 00:03:10,600] actually a class every single day this month.
+- [00:03:10,600 - 00:03:12,600] You want to partner with your agents on deals.
+- [00:03:12,600 - 00:03:14,000] It's not just about the commissions.
+- [00:03:14,000 - 00:03:15,799] It's like you want to invest in real estate together.
+- [00:03:16,400 - 00:03:19,599] How is that process kind of work where you start getting commissions, but
+- [00:03:19,599 - 00:03:22,799] then eventually you guys partner together with the people you bring in on deals.
+- [00:03:22,799 - 00:03:24,799] How does that kind of look like that process?
+- [00:03:24,799 - 00:03:25,000] Yeah.
+- [00:03:25,000 - 00:03:25,799] At the end of the day, it's all about fun.
+- [00:03:26,600 - 00:03:27,700] Finding value.
+- [00:03:27,700 - 00:03:30,249] You don't have to go make commissions for
+- [00:03:30,249 - 00:03:32,799] two years and then buy real estate with us.
+- [00:03:32,799 - 00:03:34,700] You can just buy it with us right now.
+- [00:03:35,200 - 00:03:36,799] That is what's so cool, right?
+- [00:03:37,100 - 00:03:45,500] Is that never existed for me and ultimately what we're trying to create running into an opportunity that, you know, I was 24 years old and
+- [00:03:45,500 - 00:03:53,900] I know that there's value in this property and not being able to buy it or take it down because my broker didn't do commercial real estate.
+- [00:03:54,200 - 00:03:55,200] Right, right.
+- [00:03:55,299 - 00:03:56,500] And now looking back.
+- [00:03:56,600 - 00:03:58,200] I could have raised capital.
+- [00:03:58,200 - 00:04:00,050] I could have brought on partners, but you
+- [00:04:00,050 - 00:04:01,900] don't know that stuff when you're just getting started.
+- [00:04:02,299 - 00:04:07,349] So that type of agent can come here and find that opportunity and we'll buy it with them and we'll show them
+- [00:04:07,349 - 00:04:12,400] how to do it and we'll give them equity and then we'll create a new entity and then we'll have 10 properties.
+- [00:04:12,500 - 00:04:13,700] You guys create content, right?
+- [00:04:14,200 - 00:04:14,600] Yeah.
+- [00:04:14,600 - 00:04:15,400] Yeah, we do create.
+- [00:04:15,400 - 00:04:17,300] Do you have like a studio or something like that?
+- [00:04:17,300 - 00:04:17,500] Yeah.
+- [00:04:17,500 - 00:04:18,300] You want to check it out?
+- [00:04:18,300 - 00:04:18,500] Yeah.
+- [00:04:18,500 - 00:04:19,000] Let's do it.
+- [00:04:19,000 - 00:04:19,300] Let's do it.
+- [00:04:19,300 - 00:04:22,250] Preach you guys from other brokerages because it sounds like
+- [00:04:22,250 - 00:04:25,200] I love the working with and not for one another.
+- [00:04:25,200 - 00:04:25,400] Yeah.
+- [00:04:25,400 - 00:04:25,900] You know, whereas I feel
+- [00:04:25,900 - 00:04:26,400] like a lot of other people.
+- [00:04:26,600 - 00:04:29,450] The brokerages are a lot more very corporate and very kind of
+- [00:04:29,450 - 00:04:32,300] like cutthroat and strict as far as roles and stuff like that.
+- [00:04:32,300 - 00:04:34,000] Kind of what I guess
+- [00:04:34,000 - 00:04:35,700] separates you apart from other brokerages.
+- [00:04:35,700 - 00:04:36,750] Yeah, there's a lot right
+- [00:04:36,750 - 00:04:37,800] and I love talking about it.
+- [00:04:37,800 - 00:04:40,600] So the logistics side of things on
+- [00:04:40,600 - 00:04:43,400] what we encourage and how we approach things.
+- [00:04:44,200 - 00:04:45,300] It's very different, right?
+- [00:04:45,300 - 00:04:49,150] So most brokerages are like, hey, hey man, get your sales up, you know, get
+- [00:04:49,150 - 00:04:53,000] us more commissions and we go and say, hey, what are you really trying to do?
+- [00:04:53,400 - 00:04:54,700] And how can we support that?
+- [00:04:54,700 - 00:04:56,400] And we're a built-in business partner.
+- [00:04:56,400 - 00:04:59,300] So build your own brand, build your own team,
+- [00:04:59,300 - 00:05:02,200] wholesale, buy real estate, make commissions if you want to.
+- [00:05:02,200 - 00:05:04,700] It's creating generational wealth, but then
+- [00:05:04,700 - 00:05:07,200] utilizing the license as one tool.
+- [00:05:07,700 - 00:05:10,500] Unofficial core value, fucking supportive.
+- [00:05:11,200 - 00:05:13,400] And we've got special person in here.
+- [00:05:13,400 - 00:05:14,500] Her name is Killer.
+- [00:05:15,000 - 00:05:16,000] Is that Killer Kim?
+- [00:05:17,200 - 00:05:18,299] All right.
+- [00:05:18,299 - 00:05:19,000] How you doing?
+- [00:05:19,500 - 00:05:20,200] Say hello.
+- [00:05:20,700 - 00:05:21,500] Hello, everybody.
+- [00:05:21,500 - 00:05:22,500] Good morning.
+- [00:05:23,000 - 00:05:24,299] What are we working on today?
+- [00:05:24,700 - 00:05:25,700] Doing cold calls.
+- [00:05:25,700 - 00:05:26,299] All cold calls.
+- [00:05:26,400 - 00:05:26,900] This morning.
+- [00:05:26,900 - 00:05:28,900] This is my mom and she
+- [00:05:28,900 - 00:05:30,900] is the ultimate of the cold call.
+- [00:05:30,900 - 00:05:32,050] So a question for you
+- [00:05:32,050 - 00:05:33,200] then, and it'll be real quick.
+- [00:05:33,200 - 00:05:36,000] Cold calling primarily has to do with like sales, right?
+- [00:05:36,000 - 00:05:36,500] Correct.
+- [00:05:36,500 - 00:05:39,500] So what is your best piece of advice to someone who's getting into
+- [00:05:39,500 - 00:05:42,500] sales or what is your secret to sales when you're on a cold call?
+- [00:05:42,900 - 00:05:44,200] I just try and be authentic.
+- [00:05:44,599 - 00:05:45,099] You know what I mean?
+- [00:05:45,099 - 00:05:47,000] I don't, I'm just who I am.
+- [00:05:47,000 - 00:05:48,500] I love to talk to people.
+- [00:05:48,799 - 00:05:49,799] I'm just authentic.
+- [00:05:49,799 - 00:05:51,299] I think it's amazing that you
+- [00:05:51,299 - 00:05:52,799] guys like get to work together.
+- [00:05:52,799 - 00:05:55,000] Kind of like a mom and son thing.
+- [00:05:55,000 - 00:05:55,500] Exactly.
+- [00:05:55,500 - 00:05:56,500] Absolutely love that.
+- [00:05:56,500 - 00:06:00,800] She raised my brother and I, single mom, and she owns 16, 17 properties
+- [00:06:00,800 - 00:06:05,100] and worked a full-time job in construction and just did a really great job.
+- [00:06:05,100 - 00:06:06,900] You might hear someone's got 20 properties.
+- [00:06:07,300 - 00:06:09,000] It doesn't mean that they're just making all this money.
+- [00:06:09,000 - 00:06:11,200] They got to keep pushing forward and keep hustling.
+- [00:06:11,500 - 00:06:13,100] You have foundation problems.
+- [00:06:13,100 - 00:06:14,400] You have septic problems.
+- [00:06:14,400 - 00:06:15,700] You have roofing problems.
+- [00:06:15,700 - 00:06:18,100] I mean, there's a lot that goes into that, you
+- [00:06:18,100 - 00:06:20,500] know, and my goal was to pay them all off.
+- [00:06:20,800 - 00:06:21,200] Right.
+- [00:06:21,200 - 00:06:23,000] I have all of them paid off besides three.
+- [00:06:23,500 - 00:06:24,000] Wow.
+- [00:06:24,300 - 00:06:24,800] That's awesome.
+- [00:06:24,800 - 00:06:25,600] I'm very glad.
+- [00:06:25,600 - 00:06:27,100] Maybe she is making 20k a month.
+- [00:06:27,100 - 00:06:27,600] Yeah.
+- [00:06:29,700 - 00:06:30,900] 19 to be exact.
+- [00:06:31,300 - 00:06:32,300] We're building up this room right
+- [00:06:32,300 - 00:06:33,300] here, which is kind of cool.
+- [00:06:33,300 - 00:06:34,600] You guys might respect this.
+- [00:06:34,800 - 00:06:38,750] It's not there yet, but the goal is for agents to go in
+- [00:06:38,750 - 00:06:42,700] there and to go live on Instagram, TikTok, Facebook, YouTube at any time.
+- [00:06:42,800 - 00:06:44,100] Just record their own content.
+- [00:06:44,200 - 00:06:44,700] That's awesome.
+- [00:06:44,700 - 00:06:45,400] You going in there?
+- [00:06:45,400 - 00:06:46,000] I'm going to call.
+- [00:06:46,000 - 00:06:46,900] Come on, baby.
+- [00:06:47,000 - 00:06:48,700] Out back is actually the marketing.
+- [00:06:48,700 - 00:06:50,500] So this is, this is one
+- [00:06:50,500 - 00:06:52,300] of our secrets in a sense.
+- [00:06:52,800 - 00:06:53,700] So we got the machine.
+- [00:06:53,700 - 00:06:54,600] That's a big value.
+- [00:06:54,800 - 00:06:57,300] But then marketing, you know, we're constantly thinking, how
+- [00:06:57,300 - 00:06:59,800] can we be different and do things that nobody's doing?
+- [00:06:59,800 - 00:07:00,300] Yeah.
+- [00:07:00,300 - 00:07:01,800] We have a huge focus on this.
+- [00:07:01,800 - 00:07:03,800] The social media side is one of
+- [00:07:03,800 - 00:07:05,800] the most valuable things that we do.
+- [00:07:05,800 - 00:07:06,300] Yeah.
+- [00:07:06,300 - 00:07:08,200] And it's the backbone of a lot
+- [00:07:08,200 - 00:07:10,100] of stuff that happens here at Tiri.
+- [00:07:10,100 - 00:07:12,200] And have you guys kind of like emphasize that to
+- [00:07:12,200 - 00:07:14,300] some of the agents that are part of your business?
+- [00:07:14,300 - 00:07:14,800] Yeah, of course.
+- [00:07:14,800 - 00:07:15,600] We encourage it.
+- [00:07:15,600 - 00:07:18,300] We try to tell people, go be different, right?
+- [00:07:18,300 - 00:07:20,300] Like if you're doing an open house, don't just
+- [00:07:20,300 - 00:07:22,300] film yourself and say, hey, I'm at this open house.
+- [00:07:22,300 - 00:07:23,600] Like make it you.
+- [00:07:23,600 - 00:07:23,900] Yeah.
+- [00:07:23,900 - 00:07:26,099] And it's a bigger mission also.
+- [00:07:26,099 - 00:07:28,400] It lets people feel free in who they are.
+- [00:07:28,400 - 00:07:29,700] Let's show you the marketing team.
+- [00:07:29,700 - 00:07:30,099] Let's do it.
+- [00:07:30,099 - 00:07:32,900] They, these are the people who make everything happen.
+- [00:07:36,900 - 00:07:37,599] How you doing, bro?
+- [00:07:37,599 - 00:07:37,799] Good.
+- [00:07:37,799 - 00:07:38,200] How are you?
+- [00:07:38,700 - 00:07:39,200] Oh, hi.
+- [00:07:39,900 - 00:07:40,599] They're good.
+- [00:07:40,599 - 00:07:40,900] Check it.
+- [00:07:40,900 - 00:07:42,200] Andrew should be the one on film.
+- [00:07:42,400 - 00:07:43,599] He's actually the actor.
+- [00:07:43,599 - 00:07:46,700] No, I'm just behind the camera.
+- [00:07:46,700 - 00:07:47,799] What are you cooking up right here?
+- [00:07:48,700 - 00:07:51,400] So currently editing a video we recorded last week.
+- [00:07:51,400 - 00:07:53,299] It was a pretty big project.
+- [00:07:53,900 - 00:07:56,500] But we want to get our message out, right?
+- [00:07:56,500 - 00:07:58,900] That TRE is the home of the real entrepreneur.
+- [00:07:59,299 - 00:08:01,249] And so we want that message
+- [00:08:01,249 - 00:08:03,200] to be heard around the world.
+- [00:08:03,700 - 00:08:05,550] And so this is like a
+- [00:08:05,550 - 00:08:07,400] shorter, probably 60 to 90 second video.
+- [00:08:07,400 - 00:08:09,200] So now cooking it all up.
+- [00:08:09,200 - 00:08:11,649] What is the importance that you've seen of like
+- [00:08:11,649 - 00:08:14,099] leveraging content for the brand or TRE just in general?
+- [00:08:14,099 - 00:08:15,400] Yeah, it's the most important thing.
+- [00:08:15,400 - 00:08:19,550] I mean, we live in a digital age right now and you know, everything's
+- [00:08:19,550 - 00:08:23,700] online and you're able to be so much more effective through digital marketing, right?
+- [00:08:23,700 - 00:08:25,800] Like instead of going to a class and
+- [00:08:25,800 - 00:08:27,900] teaching last night, we reached 10 people last night.
+- [00:08:27,900 - 00:08:29,700] You put something on social media, you
+- [00:08:29,700 - 00:08:31,500] can read hundreds of thousands, millions of people.
+- [00:08:31,700 - 00:08:34,049] And so putting out digital content is I think
+- [00:08:34,049 - 00:08:36,400] the best way to do marketing in today's age.
+- [00:08:36,400 - 00:08:37,200] You know, this is cool.
+- [00:08:37,200 - 00:08:37,999] I'm going to take over
+- [00:08:37,999 - 00:08:38,799] the camera for a little bit.
+- [00:08:39,100 - 00:08:39,700] I'm just saying.
+- [00:08:40,500 - 00:08:41,100] What's up, guys?
+- [00:08:41,100 - 00:08:42,000] It's Jack here.
+- [00:08:42,700 - 00:08:43,700] I'm his twin now.
+- [00:08:44,800 - 00:08:45,800] But I'm kidding.
+- [00:08:45,800 - 00:08:46,600] I'm Josh.
+- [00:08:46,700 - 00:08:48,300] I've been working the camera today,
+- [00:08:48,300 - 00:08:49,900] but now we're ready to hop in.
+- [00:08:50,200 - 00:08:50,700] Come on.
+- [00:08:50,700 - 00:08:51,500] Welcome, Josh.
+- [00:08:51,800 - 00:08:53,500] This is where a lot of the magic happens.
+- [00:08:53,700 - 00:08:58,500] MTV Crib style.
+- [00:08:58,900 - 00:09:00,400] And we're live, boys.
+- [00:09:00,700 - 00:09:02,800] So this is where we record
+- [00:09:02,800 - 00:09:04,900] our podcast, a lot of our content.
+- [00:09:04,900 - 00:09:07,700] What was like the original inspiration to start the podcast?
+- [00:09:07,700 - 00:09:09,350] Was it really just to get to know people's
+- [00:09:09,350 - 00:09:11,000] story and kind of network or what was it?
+- [00:09:11,000 - 00:09:11,900] The original inspiration?
+- [00:09:11,900 - 00:09:17,300] Just maybe similar to y'all, you know, I have to dive in and I'd love to know more,
+- [00:09:17,300 - 00:09:22,700] but just believing that the only way to scale and to get a message out is through social media.
+- [00:09:23,100 - 00:09:23,600] So,
+- [00:09:23,700 - 00:09:26,200] we just constantly like Andrew saying instead of talking
+- [00:09:26,200 - 00:09:28,700] to 10 people, we'd like to talk to 10 million.
+- [00:09:28,800 - 00:09:30,700] What's your favorite podcast that you've ever done?
+- [00:09:31,200 - 00:09:31,700] Grant.
+- [00:09:31,800 - 00:09:32,200] Grant?
+- [00:09:32,200 - 00:09:32,700] Yeah.
+- [00:09:32,800 - 00:09:33,200] Why?
+- [00:09:33,700 - 00:09:35,400] Because it turned into a business meeting.
+- [00:09:36,400 - 00:09:36,900] So,
+- [00:09:38,000 - 00:09:38,900] it's a good story.
+- [00:09:39,700 - 00:09:41,800] Do you guys remember when Clubhouse was like super popular?
+- [00:09:41,800 - 00:09:42,000] Yeah.
+- [00:09:42,000 - 00:09:42,400] Yes.
+- [00:09:42,400 - 00:09:45,300] So Clubhouse came on, Grant was on it like 2 in the morning
+- [00:09:45,300 - 00:09:48,200] and he was only allowing a certain amount of people to talk to him.
+- [00:09:49,100 - 00:09:50,500] And somebody got up and like, hey,
+- [00:09:50,500 - 00:09:51,900] Grant, I'm really excited to be here.
+- [00:09:52,000 - 00:09:53,300] Would you come on my podcast?
+- [00:09:53,700 - 00:09:54,700] He said, absolutely.
+- [00:09:54,700 - 00:09:55,400] Yeah.
+- [00:09:55,400 - 00:09:56,500] Grantcardone.com.
+- [00:09:56,500 - 00:09:57,000] Grantcardone.com.
+- [00:09:57,300 - 00:09:59,450] So I emailed him and I was like, I kind
+- [00:09:59,450 - 00:10:01,600] of, you know, lied in the sense, but not really.
+- [00:10:01,600 - 00:10:05,850] I was like, hey, I heard that you mentioned you'd come on the podcast and he
+- [00:10:05,850 - 00:10:10,100] signed up to do our podcast and he was going to do it for 10, 15 minutes.
+- [00:10:10,100 - 00:10:10,500] Right?
+- [00:10:10,800 - 00:10:12,250] And we knew the night before we're
+- [00:10:12,250 - 00:10:13,700] like, dude, this is like our Super Bowl.
+- [00:10:13,700 - 00:10:15,700] We got Uncle G, right?
+- [00:10:15,700 - 00:10:17,750] And so we quickly like
+- [00:10:17,750 - 00:10:19,800] we like strategize the whole night.
+- [00:10:19,800 - 00:10:22,300] Like how do we approach this meeting?
+- [00:10:22,300 - 00:10:25,100] And we knew that he had certain things that he wanted
+- [00:10:25,100 - 00:10:27,900] to talk about and that he wanted to sell in a sense.
+- [00:10:27,900 - 00:10:29,350] So we just did it for
+- [00:10:29,350 - 00:10:30,800] him in the first five minutes.
+- [00:10:30,800 - 00:10:32,900] Like we're like, you know, your book just came out.
+- [00:10:32,900 - 00:10:34,099] You got your new show.
+- [00:10:34,099 - 00:10:35,449] We just said everything that
+- [00:10:35,449 - 00:10:36,800] he would have wanted to promote.
+- [00:10:36,800 - 00:10:38,900] And then we just start talking about other things.
+- [00:10:38,900 - 00:10:40,999] And in the middle of the podcast, he's
+- [00:10:40,999 - 00:10:43,099] like this turned into a business meeting, huh?
+- [00:10:43,099 - 00:10:45,000] Like, hell yeah, dude.
+- [00:10:45,000 - 00:10:45,400] Yeah.
+- [00:10:45,400 - 00:10:47,800] And so we talked for another 15 minutes.
+- [00:10:47,800 - 00:10:48,300] Yeah.
+- [00:10:48,300 - 00:10:49,949] And just got more out
+- [00:10:49,949 - 00:10:51,599] of it than we were hoping.
+- [00:10:51,600 - 00:10:53,500] We're more than we're hoping, honestly.
+- [00:10:53,500 - 00:10:55,000] But it was just funny because we
+- [00:10:55,000 - 00:10:56,500] had that strategy and it really worked out.
+- [00:10:56,500 - 00:10:58,600] Just shows you that if you're persistent and you
+- [00:10:58,600 - 00:11:00,700] just shoot your shot, doesn't matter who it is.
+- [00:11:00,700 - 00:11:01,000] Yeah.
+- [00:11:01,000 - 00:11:02,800] He might just say, yeah, didn't get creative.
+- [00:11:02,800 - 00:11:04,750] And then man, you know,
+- [00:11:04,750 - 00:11:06,700] everyone thought I knew Uncle G.
+- [00:11:06,700 - 00:11:08,050] So everyone's calling me trying to
+- [00:11:08,050 - 00:11:09,400] get deals in front of Grant.
+- [00:11:09,400 - 00:11:11,050] Like, like two days later, like
+- [00:11:11,050 - 00:11:12,700] I got to talk to Grant.
+- [00:11:12,700 - 00:11:15,200] I'm like, not right now, guys.
+- [00:11:15,200 - 00:11:17,400] I didn't let him know that I didn't really know.
+- [00:11:17,400 - 00:11:19,400] We actually do social media ourselves.
+- [00:11:19,400 - 00:11:21,500] I'm going to go record some TikToks with my boy.
+- [00:11:21,600 - 00:11:22,700] Andrew right now.
+- [00:11:22,700 - 00:11:25,400] Come on.
+- [00:11:33,500 - 00:11:34,950] Hey guys, Matt's actually right in
+- [00:11:34,950 - 00:11:36,400] the middle of doing a podcast.
+- [00:11:36,400 - 00:11:39,800] Let's go get some behind the scenes looks.
+- [00:11:51,600 - 00:11:53,600] How long have you been in real estate for?
+- [00:11:53,600 - 00:11:54,600] For about five years.
+- [00:11:54,600 - 00:11:55,100] Okay.
+- [00:11:55,100 - 00:11:57,200] And what is your best piece of advice
+- [00:11:57,200 - 00:11:59,300] to someone pursuing the real estate industry in 2022?
+- [00:11:59,300 - 00:12:01,700] Learn how to find value and find deals.
+- [00:12:01,700 - 00:12:04,500] Whether you're a real estate agent,
+- [00:12:04,500 - 00:12:07,300] a wholesaler, an investor, you're raising capital.
+- [00:12:07,300 - 00:12:11,100] If you can learn the one skill of how to identify value in anything
+- [00:12:11,100 - 00:12:14,900] that you're looking at and learn how to identify an opportunity and find deals,
+- [00:12:14,900 - 00:12:16,550] then you can go into any
+- [00:12:16,550 - 00:12:18,200] market in any condition and make money.
+- [00:12:18,200 - 00:12:18,700] Wow.
+- [00:12:18,700 - 00:12:20,050] If you had to start from zero and
+- [00:12:20,050 - 00:12:21,400] you had one year to make a million dollars,
+- [00:12:21,400 - 00:12:23,900] and your life depended on it, what would you do?
+- [00:12:23,900 - 00:12:26,400] Wholesale land here in Austin, Texas.
+- [00:12:26,400 - 00:12:28,600] We've wholesaled some land tracks and we've
+- [00:12:28,600 - 00:12:30,800] made a lot of money doing it.
+- [00:12:30,800 - 00:12:34,350] And so I'd go and I'd find some, find a good deal, find some
+- [00:12:34,350 - 00:12:37,900] good land, and I would get it on a contract at a good price.
+- [00:12:37,900 - 00:12:40,400] And then I'd go find a developer or another end buyer
+- [00:12:40,400 - 00:12:42,900] that'd be willing to pay more than I have it at.
+- [00:12:42,900 - 00:12:44,900] And I'd do that once, maybe twice.
+- [00:12:44,900 - 00:12:47,049] And I bet if I spent all my time
+- [00:12:47,049 - 00:12:49,199] doing that, I could make a million dollars easy.
+- [00:12:49,199 - 00:12:50,199] What we're going to do next is
+- [00:12:50,199 - 00:12:51,199] I got to head over to the roundabout.
+- [00:12:51,200 - 00:12:53,800] We're going to go meet with the machine
+- [00:12:53,800 - 00:12:56,400] in our call center, let you all meet Chris.
+- [00:12:56,400 - 00:12:59,300] But before we go, Jonathan Big Country is up there
+- [00:12:59,300 - 00:13:02,200] teaching a skills workshop to some of our coaching agents.
+- [00:13:02,200 - 00:13:03,700] So let's go check in and
+- [00:13:03,700 - 00:13:05,200] show you all behind the scenes there.
+- [00:13:05,200 - 00:13:09,200] So now I have my OCD right here, right?
+- [00:13:09,200 - 00:13:10,700] We have classes like Matt
+- [00:13:10,700 - 00:13:12,200] told you earlier every single day.
+- [00:13:12,200 - 00:13:16,200] That one there specifically is for coaching agents.
+- [00:13:16,200 - 00:13:18,200] These are entrepreneurs who joined, who
+- [00:13:18,200 - 00:13:20,200] don't have a bunch of experience.
+- [00:13:20,200 - 00:13:20,700] They're going to be doing a lot of things.
+- [00:13:20,700 - 00:13:21,200] They're going to be doing a lot of things.
+- [00:13:21,200 - 00:13:22,200] They're going to be doing a lot of things.
+- [00:13:22,200 - 00:13:24,200] So he's up there teaching them, I think,
+- [00:13:24,200 - 00:13:26,200] about listing appointments and how to secure a listing.
+- [00:13:26,200 - 00:13:27,700] We're going to go check out
+- [00:13:27,700 - 00:13:29,200] the machine over in Round Rock.
+- [00:13:29,200 - 00:13:31,200] We're going to take a quick little drive.
+- [00:13:31,200 - 00:13:33,950] We've had a full day today, but let's
+- [00:13:33,950 - 00:13:36,700] go meet up with Chris and the machine.
+- [00:13:36,700 - 00:13:37,950] So we just left one
+- [00:13:37,950 - 00:13:39,200] of your guys' offices in Austin.
+- [00:13:39,200 - 00:13:40,200] Where are we at right now?
+- [00:13:40,200 - 00:13:41,700] Right now we're in Round Rock, and
+- [00:13:41,700 - 00:13:43,200] this is where the machine is being built.
+- [00:13:43,200 - 00:13:44,700] I'll take you guys inside.
+- [00:13:44,700 - 00:13:45,700] We'll get to meet Chris.
+- [00:13:45,700 - 00:13:47,700] He's the department head for the machine.
+- [00:13:47,700 - 00:13:49,200] And I'll let him tell you guys what he's
+- [00:13:49,200 - 00:13:50,700] building and what we're doing here at TRE Rock.
+- [00:13:50,700 - 00:13:51,200] We're going to be doing some of the building
+- [00:13:51,200 - 00:13:51,700] and what we're doing here at TRE with the machine.
+- [00:14:00,700 - 00:14:01,700] Chris is on a call.
+- [00:14:01,700 - 00:14:02,700] We'll come back.
+- [00:14:05,700 - 00:14:07,700] So I help run, obviously, the machine.
+- [00:14:07,700 - 00:14:09,700] I'm head of sales here at TyfKey Realty.
+- [00:14:09,700 - 00:14:11,200] I help Alex and gang
+- [00:14:11,200 - 00:14:12,700] basically with all the lead generation.
+- [00:14:12,700 - 00:14:15,700] We do inbound, outbound, all that great kind of stuff.
+- [00:14:15,700 - 00:14:17,700] Basically, in a nutshell, if you're looking to see if
+- [00:14:17,700 - 00:14:19,700] a home has a pool or what the price is,
+- [00:14:19,700 - 00:14:20,700] we reach out to you.
+- [00:14:20,700 - 00:14:23,200] And we walk you through the whole home buying
+- [00:14:23,200 - 00:14:25,700] process from getting an agent, credit repair if needed,
+- [00:14:25,700 - 00:14:27,700] all the way to the financing portion.
+- [00:14:27,700 - 00:14:28,700] We take care of you.
+- [00:14:28,700 - 00:14:30,700] So we keep the money in-house.
+- [00:14:30,700 - 00:14:33,200] We send that client to a trusted partner, a
+- [00:14:33,200 - 00:14:35,700] trusted lending partner, and a trusted credit repair partner.
+- [00:14:35,700 - 00:14:38,200] And we make it a one-of-a-kind experience.
+- [00:14:38,200 - 00:14:39,700] Do you want to check out where the action happens?
+- [00:14:39,700 - 00:14:40,700] Brother, come on, man.
+- [00:14:40,700 - 00:14:41,700] Let's do this.
+- [00:14:41,700 - 00:14:42,700] Yeah, let's do it.
+- [00:14:42,700 - 00:14:43,700] MTV Cribs.
+- [00:14:43,700 - 00:14:44,700] All right.
+- [00:14:44,700 - 00:14:45,700] Thank you.
+- [00:14:45,700 - 00:14:46,700] All right.
+- [00:14:46,700 - 00:14:48,700] So this is good timing.
+- [00:14:48,700 - 00:14:49,700] So typically, we do a lot of our white boarding.
+- [00:14:49,700 - 00:14:54,700] We run numbers, processes, quality, all that good stuff.
+- [00:14:54,700 - 00:14:55,700] A little bit of secret sauce
+- [00:14:55,700 - 00:14:56,700] on the board, so watch out.
+- [00:14:56,700 - 00:14:57,700] I'm just kidding.
+- [00:14:57,700 - 00:14:58,700] So we got all that here.
+- [00:14:58,700 - 00:15:01,700] This is our head for the outbound side.
+- [00:15:01,700 - 00:15:02,700] This is Ryan Matthias.
+- [00:15:02,700 - 00:15:04,700] He helps us with all the outbound.
+- [00:15:09,700 - 00:15:10,700] All right, guys.
+- [00:15:10,700 - 00:15:12,200] We just pulled up to
+- [00:15:12,200 - 00:15:13,700] the Tyfkey Real Estate Happy Hour.
+- [00:15:13,700 - 00:15:15,700] We just finished up over at their
+- [00:15:15,700 - 00:15:17,700] call center over at the machine office.
+- [00:15:17,700 - 00:15:18,700] And yeah, Matt and Alex just invited me.
+- [00:15:18,700 - 00:15:20,200] Yeah, Matt and Alex just invited us
+- [00:15:20,200 - 00:15:21,700] over to their happy hour for their brokerage.
+- [00:15:21,700 - 00:15:23,200] So we're just going to be talking
+- [00:15:23,200 - 00:15:24,700] to some agents, maybe enjoying some good food.
+- [00:15:24,700 - 00:15:26,700] What industry did you decide to pursue a career in?
+- [00:15:26,700 - 00:15:30,200] So I got my law degree, and I
+- [00:15:30,200 - 00:15:33,700] practiced law for about 15 years and realized hour-for-hour
+- [00:15:33,700 - 00:15:35,700] work is only going to get you paid
+- [00:15:35,700 - 00:15:37,700] hour-for-hour, and there's 24 hours in a day.
+- [00:15:37,700 - 00:15:39,200] So I decided to move over into
+- [00:15:39,200 - 00:15:40,700] the real estate industry, started a title office.
+- [00:15:40,700 - 00:15:41,700] That's amazing.
+- [00:15:41,700 - 00:15:44,200] And so now I'm here doing this, having fun,
+- [00:15:44,200 - 00:15:46,700] and then my team's at the office making money.
+- [00:15:46,700 - 00:15:47,200] From what you've seen throughout your career,
+- [00:15:47,200 - 00:15:47,700] how can someone do something that they're not
+- [00:15:47,700 - 00:15:48,700] going to do in their career?
+- [00:15:48,700 - 00:15:49,700] How can someone become financially free in today's world?
+- [00:15:49,700 - 00:15:51,700] Sometimes you've got to jump out of a
+- [00:15:51,700 - 00:15:53,700] plane and build the parachute on the way down.
+- [00:15:53,700 - 00:15:55,200] It doesn't matter what horse you're on,
+- [00:15:55,200 - 00:15:56,700] just make sure you're on a horse.
+- [00:15:56,700 - 00:15:58,700] Surround yourself with people who are smarter than you.
+- [00:15:58,700 - 00:16:00,200] If some old dog is offering
+- [00:16:00,200 - 00:16:01,700] their time to you, take it.
+- [00:16:01,700 - 00:16:03,700] I was just talking with Mark.
+- [00:16:03,700 - 00:16:05,700] My 22-year-old was trying to figure out if he
+- [00:16:05,700 - 00:16:07,700] wanted to buy a house or not, and I just
+- [00:16:07,700 - 00:16:09,700] did everything I could to make him buy the house.
+- [00:16:09,700 - 00:16:10,700] You've just got to get started.
+- [00:16:10,700 - 00:16:13,200] Well, guys, that wraps up today's video, Day
+- [00:16:13,200 - 00:16:15,700] in the Life with Matt Tyfkey and Alex
+- [00:16:15,700 - 00:16:16,700] Kaufman, two co-owners of the Tyfkey Real Estate Happy Hour.
+- [00:16:16,700 - 00:16:17,200] We've got to talk to a lot of agents,
+- [00:16:17,200 - 00:16:17,700] brokerage owners, and just learned a lot about real
+- [00:16:17,700 - 00:16:18,200] estate, and I've really enjoyed
+- [00:16:18,200 - 00:16:18,700] spending the day with you guys.
+- [00:16:18,700 - 00:16:19,700] Thank you guys so much for having us.
+- [00:16:19,700 - 00:16:20,700] Yeah, man.
+- [00:16:20,700 - 00:16:21,700] That was a blast, dude.
+- [00:16:21,700 - 00:16:22,700] It was an eventful day, hopefully provided value.
+- [00:16:22,700 - 00:16:23,700] Appreciate you guys.
+- [00:16:23,700 - 00:16:24,200] Having fun at the happy
+- [00:16:24,200 - 00:16:24,700] hour, man, so it was great.
+- [00:16:24,700 - 00:16:25,700] Really fun.
+- [00:16:25,700 - 00:16:26,700] Yeah, bro.
+- [00:16:26,700 - 00:16:27,700] Answered a lot of questions.
+- [00:16:27,700 - 00:16:28,200] Hopefully, that got to bring you guys inside
+- [00:16:28,200 - 00:16:28,700] on what it actually looks like to run the
+- [00:16:28,700 - 00:16:29,700] real estate brokerage, and we appreciate you, guys.
+- [00:16:29,700 - 00:16:30,700] We appreciate you, guys.
+- [00:16:30,700 - 00:16:31,700] Have fun.
+- [00:16:31,700 - 00:16:32,700] Have fun.
+- [00:16:32,700 - 00:16:33,700] Have fun.
+- [00:16:33,700 - 00:16:34,700] Have fun.
+- [00:16:34,700 - 00:16:35,700] Have fun.
+- [00:16:35,700 - 00:16:36,700] Have fun.
+- [00:16:36,700 - 00:16:37,700] Have fun.
+- [00:16:37,700 - 00:16:38,700] Have fun.
+- [00:16:38,700 - 00:16:39,700] Have fun.
+- [00:16:39,700 - 00:16:40,700] Have fun.
+- [00:16:40,700 - 00:16:41,700] Have fun.
+- [00:16:41,700 - 00:16:48,700] Thanks, man.
+- [00:16:48,700 - 00:16:53,720] Let's不知道 what That's gonna be
+- [00:16:53,720 - 00:16:54,680] in real estate, bro.
+- [00:16:54,680 - 00:16:57,999] are all around the country and the world where
+- [00:16:57,999 - 00:17:01,319] can they find you guys right here baby 512-914-4806
+- [00:17:01,319 - 00:17:05,559] 512-914-4806 typekeyrealestate.com instagram youtube facebook
+- [00:17:05,559 - 00:17:09,800] we're easy man tick tock be
+- [00:17:09,800 - 00:17:12,719] real now we're easy man reach out let's get
+- [00:17:12,719 - 00:17:15,639] it let's get it hey appreciate you guys again man
+- [00:17:15,639 - 00:17:18,039] seriously hey if you guys enjoyed today's video
+- [00:17:18,039 - 00:17:20,440] make sure you leave us a like subscribe james
+- [00:17:20,440 - 00:17:22,640] from the school of hard knocks we're here with
+- [00:17:22,640 - 00:17:24,839] jack and josh had a blast today hey stay tuned
+- [00:17:24,839 - 00:17:25,720] for more a lot of good
+- [00:17:25,720 - 00:17:26,599] content on the way let's get it
