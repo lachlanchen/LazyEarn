@@ -1,0 +1,22 @@
+{
+  "tool": "scripts/book_cover_nanobanana.py",
+  "created_at": "2026-04-16T16:43:51+08:00",
+  "output_dir": "/home/lachlan/ProjectsLFS/LazyEarn/generated_course_notes/lazyearn/school-of-hard-knocks/hard-knocks-interviews/dynamic_book/cover",
+  "prompt_file": "/home/lachlan/ProjectsLFS/LazyEarn/generated_course_notes/lazyearn/school-of-hard-knocks/hard-knocks-interviews/dynamic_book/cover/prompt.txt",
+  "request_payload_redacted": "/home/lachlan/ProjectsLFS/LazyEarn/generated_course_notes/lazyearn/school-of-hard-knocks/hard-knocks-interviews/dynamic_book/cover/request_payload.redacted.json",
+  "host": "https://grsaiapi.com",
+  "model": "nano-banana-2",
+  "aspect_ratio": "2:3",
+  "image_size": "2K",
+  "reference_images": [],
+  "status": "succeeded",
+  "task_id": "11-385c9ff7-2275-4630-8751-e215ccecf53f",
+  "submitted_at": "2026-04-16T16:43:52+08:00",
+  "finished_at": "2026-04-16T16:45:32+08:00",
+  "downloaded_files": [
+    "/home/lachlan/ProjectsLFS/LazyEarn/generated_course_notes/lazyearn/school-of-hard-knocks/hard-knocks-interviews/dynamic_book/cover/how-you-got-rich-cover.png"
+  ],
+  "result_urls": [
+    "https://file5.aitohumanize.com/file/9bbebde7004e41c89da89a535b18c258.png"
+  ]
+}
