@@ -1,0 +1,543 @@
+# Transcript
+
+Source: lazyearn/school-of-hard-knocks/hard-knocks-interviews/103 - Asking Millionaires How They Got RICH! (Dallas) [jJxwJhdKb1s].webm
+
+- [00:00:00,000 - 00:00:01,390] Excuse me, man. Quick question for
+- [00:00:01,390 - 00:00:02,780] you. Is this your Rolls Royce?
+- [00:00:02,900 - 00:00:03,360] Yeah, yes, sir.
+- [00:00:03,420 - 00:00:04,120] What do you do for a living?
+- [00:00:04,240 - 00:00:05,650] This will be my 11th year in
+- [00:00:05,650 - 00:00:07,060] the NFL. My name is Tavon Austin.
+- [00:00:07,400 - 00:00:08,630] So what has been the most amount of
+- [00:00:08,630 - 00:00:09,860] money that you ever made in a single year?
+- [00:00:10,060 - 00:00:11,260] Multiple, multiple seven figures.
+- [00:00:11,460 - 00:00:13,380] The business, 60 million, and then
+- [00:00:13,380 - 00:00:15,300] a couple of million for myself.
+- [00:00:15,980 - 00:00:17,380] I probably made 11 million.
+- [00:00:17,640 - 00:00:19,720] In my last role, I was the chief
+- [00:00:19,720 - 00:00:21,800] operating officer for a $700 million business called
+- [00:00:21,800 - 00:00:22,820] Health Management Systems.
+- [00:00:23,040 - 00:00:24,380] And did you guys end up selling your company?
+- [00:00:24,500 - 00:00:25,770] We did. We sold it to
+- [00:00:25,770 - 00:00:27,040] a private equity company for about...
+- [00:00:27,040 - 00:00:29,560] Dallas, Texas is a top 20 city
+- [00:00:29,560 - 00:00:32,080] in the entire world with the most millionaires.
+- [00:00:32,200 - 00:00:33,840] We're out in Highland Park, Dallas, Texas,
+- [00:00:33,840 - 00:00:35,480] the wealthiest area in all of Dallas,
+- [00:00:35,600 - 00:00:37,100] asking multi-millionaires and luxury
+- [00:00:37,100 - 00:00:38,600] shoppers how they became successful.
+- [00:00:48,879 - 00:00:50,689] My first question, sir, what industry did
+- [00:00:50,689 - 00:00:52,500] you decide to pursue a career in?
+- [00:00:52,820 - 00:00:54,100] Consumer products industry.
+- [00:00:54,239 - 00:00:55,519] Are you a business owner by any chance?
+- [00:00:55,660 - 00:00:56,540] I am not.
+- [00:00:56,680 - 00:00:56,980] You're not?
+- [00:00:57,100 - 00:00:58,260] I'm the CEO of Frito-Lay.
+- [00:00:58,740 - 00:00:59,740] You're the CEO of Frito?
+- [00:00:59,920 - 00:01:00,160] Yeah.
+- [00:01:00,360 - 00:01:01,379] You're the CEO of Frito-Lay?
+- [00:01:01,680 - 00:01:02,040] Yeah.
+- [00:01:02,120 - 00:01:02,980] That is incredible.
+- [00:01:03,300 - 00:01:03,879] I mean, seriously.
+- [00:01:04,140 - 00:01:05,560] I mean, you guys have great tips, obviously.
+- [00:01:05,780 - 00:01:07,820] What's your best advice to anybody out there that's
+- [00:01:07,820 - 00:01:09,860] trying to build a company into a company like Frito-Lay?
+- [00:01:10,100 - 00:01:10,480] Wow.
+- [00:01:10,740 - 00:01:11,940] Well, sky's the limit.
+- [00:01:12,080 - 00:01:13,120] I mean, you can do anything.
+- [00:01:13,300 - 00:01:15,500] Frito-Lay started with one man, Herman Lay.
+- [00:01:15,759 - 00:01:15,940] Yeah.
+- [00:01:16,039 - 00:01:16,259] Right?
+- [00:01:16,360 - 00:01:18,039] Selling potato chips out of a truck.
+- [00:01:18,300 - 00:01:20,590] Hustled, worked hard, did it the right way, took
+- [00:01:20,590 - 00:01:22,880] care of his customers, took care of his employees.
+- [00:01:22,880 - 00:01:24,240] And the next thing you
+- [00:01:24,240 - 00:01:25,600] know, it's a multi-billion dollar business.
+- [00:01:25,840 - 00:01:25,980] Yeah.
+- [00:01:26,020 - 00:01:27,000] In today's environment.
+- [00:01:27,200 - 00:01:29,260] You've got to, one, understand your consumer.
+- [00:01:29,400 - 00:01:31,840] Who's buying your product better than anybody else?
+- [00:01:31,960 - 00:01:35,240] Technology is the way to make sure that you stay
+- [00:01:35,240 - 00:01:38,520] on top of consumer trends and you understand what consumers want.
+- [00:01:38,580 - 00:01:40,390] Being consumer obsessed is, I
+- [00:01:40,390 - 00:01:42,200] think, the most important thing.
+- [00:01:42,280 - 00:01:45,030] Now, what was the biggest driving factor of your success that
+- [00:01:45,030 - 00:01:47,780] enabled you to become a CEO of a multi-billion dollar company?
+- [00:01:47,780 - 00:01:50,820] Hey, preparation and a little bit of luck, man.
+- [00:01:50,900 - 00:01:51,980] Right place, right time.
+- [00:01:52,200 - 00:01:53,400] Doing it the right way.
+- [00:01:53,780 - 00:01:54,740] Being authentic.
+- [00:01:54,960 - 00:01:56,780] Treating people like you want to be treated.
+- [00:01:57,040 - 00:01:58,080] I mean, it really is.
+- [00:01:58,140 - 00:01:58,820] You've got to be smart.
+- [00:01:58,940 - 00:01:59,800] Everybody's got to be smart.
+- [00:02:00,020 - 00:02:00,820] You've got to want to hustle.
+- [00:02:01,160 - 00:02:01,380] Right?
+- [00:02:01,500 - 00:02:04,310] You've got to want to work harder than the next guy, but
+- [00:02:04,310 - 00:02:07,120] you can do all that and be a jerk and be failed.
+- [00:02:07,280 - 00:02:08,930] That's the CEO of Frito-Lay
+- [00:02:08,930 - 00:02:10,580] chips that we just interviewed, bro.
+- [00:02:10,620 - 00:02:11,860] You can't make this shit up, bro.
+- [00:02:12,000 - 00:02:13,120] I mean, we were just walking around in Dallas.
+- [00:02:13,240 - 00:02:15,420] We sued the man and asked him a few questions.
+- [00:02:15,540 - 00:02:17,400] He's the CEO of a multi-billion dollar company.
+- [00:02:17,560 - 00:02:18,640] Let's keep going to get some more, man.
+- [00:02:18,700 - 00:02:19,280] Shout out, Dallas.
+- [00:02:19,460 - 00:02:21,680] What industry did you decide to pursue a career in?
+- [00:02:21,680 - 00:02:23,480] I decided to go into the retail business.
+- [00:02:23,600 - 00:02:24,240] The retail business?
+- [00:02:24,340 - 00:02:25,200] What did you do exactly?
+- [00:02:25,460 - 00:02:27,040] Well, I ran a lot of different...
+- [00:02:27,040 - 00:02:27,980] I ran a lot of different retail companies.
+- [00:02:28,140 - 00:02:29,640] And what company were you the CEO of?
+- [00:02:29,720 - 00:02:30,500] Well, I was a lot of them.
+- [00:02:30,560 - 00:02:32,940] I was a penny company, the
+- [00:02:32,940 - 00:02:35,320] pennies company, Macy company, Barneys, Neiman Marcus.
+- [00:02:35,540 - 00:02:36,910] So a lot of different companies
+- [00:02:36,910 - 00:02:38,280] that had difficulties at the time.
+- [00:02:38,399 - 00:02:40,209] I was the CEO of the company, but
+- [00:02:40,209 - 00:02:42,019] it's not the CEO who makes a success.
+- [00:02:42,220 - 00:02:46,229] It's the people who work for that company, but it's the CEO's
+- [00:02:46,229 - 00:02:50,239] responsibility to make those people realize how important they are to the company.
+- [00:02:50,359 - 00:02:51,200] It's not one person.
+- [00:02:51,200 - 00:02:53,430] In one minute, tell me the blueprint that it
+- [00:02:53,430 - 00:02:55,660] takes to run a successful company, a multi-hundred-million-dollar company.
+- [00:02:55,820 - 00:02:57,019] What's the blueprint to creating a strong...
+- [00:02:57,140 - 00:02:58,040] A strong company in today's world?
+- [00:02:58,239 - 00:02:59,239] Understanding the culture.
+- [00:02:59,440 - 00:03:01,040] Understanding the culture of the company.
+- [00:03:01,239 - 00:03:02,239] Each company is different.
+- [00:03:02,440 - 00:03:04,239] Neiman Marcus is different than the penny company.
+- [00:03:04,440 - 00:03:06,240] So you have to go in, you have
+- [00:03:06,240 - 00:03:08,040] to understand who they are, not who you are.
+- [00:03:08,239 - 00:03:10,239] And then you also got to understand your customer.
+- [00:03:10,440 - 00:03:13,940] Because the number one thing that a person running a company has to know who his
+- [00:03:13,940 - 00:03:17,440] customer is and take care of them and make sure your people are taken care of.
+- [00:03:17,640 - 00:03:18,540] And then if you do that,
+- [00:03:18,540 - 00:03:19,440] you can take care of the shareholder.
+- [00:03:19,640 - 00:03:21,540] Even though people say the shareholder comes first, the
+- [00:03:21,540 - 00:03:23,440] shareholder does come first because they can fire you.
+- [00:03:23,640 - 00:03:24,840] But if you don't get...
+- [00:03:25,040 - 00:03:26,840] If you don't take care of the customer first...
+- [00:03:27,040 - 00:03:28,440] You're never going to take care of the shareholder.
+- [00:03:28,640 - 00:03:31,040] Yo, my man we just interviewed right there was
+- [00:03:31,040 - 00:03:33,440] the CEO of Petty's, Macy's and Neiman Marcus, bro.
+- [00:03:33,640 - 00:03:35,040] I couldn't hold it together, bro.
+- [00:03:35,239 - 00:03:36,939] We just interviewed the CEO of Frito-Lay
+- [00:03:36,939 - 00:03:38,640] and now we're going to be that mogul.
+- [00:03:38,840 - 00:03:40,040] That is a retail mogul right there.
+- [00:03:40,239 - 00:03:42,039] Just dropped some straight game on
+- [00:03:42,039 - 00:03:43,840] some serious entrepreneurship business advice, man.
+- [00:03:44,040 - 00:03:45,840] Dallas, Texas has been fucking insane, bro.
+- [00:03:45,840 - 00:03:46,440] Let's keep it going.
+- [00:03:46,640 - 00:03:47,640] My first question for you, man.
+- [00:03:47,840 - 00:03:49,640] What industry did you decide to pursue a career in?
+- [00:03:49,840 - 00:03:51,739] I'm a professional football player.
+- [00:03:51,940 - 00:03:52,540] Professional football player?
+- [00:03:52,739 - 00:03:52,940] Yeah.
+- [00:03:53,140 - 00:03:53,739] What team do you play for?
+- [00:03:53,940 - 00:03:55,140] I've played for several teams.
+- [00:03:55,340 - 00:03:56,840] And hopefully this will be my level game.
+- [00:03:57,040 - 00:03:57,540] NFL.
+- [00:03:57,739 - 00:03:58,840] My name is Tavon Austin.
+- [00:03:59,040 - 00:04:02,040] So I play for the Rams, Cowboys, Jacksonville.
+- [00:04:02,239 - 00:04:04,040] Bills for a little bit and Green Bay.
+- [00:04:04,239 - 00:04:05,140] West Virginia University.
+- [00:04:05,340 - 00:04:06,040] West Virginia University.
+- [00:04:06,239 - 00:04:06,640] You Tavon Austin?
+- [00:04:06,840 - 00:04:07,239] Yes, sir.
+- [00:04:07,440 - 00:04:08,140] Oh my goodness.
+- [00:04:08,340 - 00:04:10,040] That is amazing.
+- [00:04:10,239 - 00:04:10,940] This is crazy to me.
+- [00:04:11,140 - 00:04:12,040] I go to UT, so we're
+- [00:04:12,040 - 00:04:12,940] a little bit of a rival here.
+- [00:04:13,140 - 00:04:13,840] Okay, yeah, yeah.
+- [00:04:14,040 - 00:04:14,840] You all bust y'all up.
+- [00:04:15,040 - 00:04:15,640] I know you did.
+- [00:04:15,840 - 00:04:16,440] I know you did.
+- [00:04:16,640 - 00:04:18,039] And trust me, I've seen your returns though.
+- [00:04:18,240 - 00:04:18,839] I know you got it.
+- [00:04:19,039 - 00:04:20,339] So I guess I'll ask you, man.
+- [00:04:20,539 - 00:04:22,689] What's been the biggest driving factor of your
+- [00:04:22,689 - 00:04:24,840] success that's enabled you to become a professional athlete?
+- [00:04:25,039 - 00:04:26,039] Work your way into the NFL.
+- [00:04:26,240 - 00:04:26,840] What does it take?
+- [00:04:27,040 - 00:04:28,290] For number one, it takes a
+- [00:04:28,290 - 00:04:29,540] lot of discipline and hard work.
+- [00:04:29,740 - 00:04:31,290] I come from a place where a
+- [00:04:31,290 - 00:04:32,840] lot of us don't really make it out.
+- [00:04:33,040 - 00:04:33,540] You know what I mean?
+- [00:04:33,740 - 00:04:35,040] So my mindset is different.
+- [00:04:35,240 - 00:04:36,540] I want it better for myself.
+- [00:04:36,740 - 00:04:37,840] I want it better for my family.
+- [00:04:38,040 - 00:04:40,340] So with that being said, always stay focused.
+- [00:04:40,540 - 00:04:41,440] Always seeing the point.
+- [00:04:41,640 - 00:04:43,040] You got to have good people around you
+- [00:04:43,040 - 00:04:44,440] that's willing to tell you when you're wrong.
+- [00:04:44,640 - 00:04:46,140] You can't have no type of yes man around you.
+- [00:04:46,340 - 00:04:47,690] You got to have stand up strong people,
+- [00:04:47,690 - 00:04:49,040] either a woman or a man around you.
+- [00:04:49,240 - 00:04:50,540] What has been the most amount of money
+- [00:04:50,540 - 00:04:51,840] that you ever made in a single year?
+- [00:04:52,040 - 00:04:53,840] Probably me, $11 million.
+- [00:04:54,040 - 00:04:54,540] $11 million?
+- [00:04:54,740 - 00:04:55,340] Yeah, $11 million.
+- [00:04:55,540 - 00:04:56,940] What's your best financial advice to the young man?
+- [00:04:57,140 - 00:04:58,140] To the younger generation out there?
+- [00:04:58,340 - 00:04:59,590] Honestly, you got to get
+- [00:04:59,590 - 00:05:00,840] the right financial advisor around you.
+- [00:05:01,040 - 00:05:01,840] You got to get people.
+- [00:05:02,040 - 00:05:03,540] Even though it's your money, you got to have
+- [00:05:03,540 - 00:05:05,040] people carry it like it's their money as well.
+- [00:05:05,240 - 00:05:06,040] You know what I mean?
+- [00:05:06,240 - 00:05:08,340] Because you like nice things you'll spend, but
+- [00:05:08,340 - 00:05:10,440] you need somebody that's going to be that backbone.
+- [00:05:10,640 - 00:05:11,440] To be like, hey, hold on.
+- [00:05:11,640 - 00:05:12,340] Hold on right now.
+- [00:05:12,540 - 00:05:13,340] This is this, this is that.
+- [00:05:13,540 - 00:05:14,540] Got to put this away for this.
+- [00:05:14,740 - 00:05:15,140] I love it, man.
+- [00:05:15,340 - 00:05:16,140] Thank you so much, Tavon.
+- [00:05:16,340 - 00:05:17,240] We appreciate that, man.
+- [00:05:17,440 - 00:05:18,240] That is unbelievable.
+- [00:05:18,440 - 00:05:19,840] We just interviewed Tavon Austin.
+- [00:05:20,040 - 00:05:20,890] Tavon Austin, I used to play
+- [00:05:20,890 - 00:05:21,740] with that man's at Madden, bro.
+- [00:05:21,940 - 00:05:23,990] He's been in the NFL for over 10 years, and
+- [00:05:23,990 - 00:05:26,040] he was one of the best returners in all of football.
+- [00:05:26,040 - 00:05:27,640] He's probably got the best college football
+- [00:05:27,640 - 00:05:29,240] highlight tape on the entire planet, man.
+- [00:05:29,440 - 00:05:30,140] Shout out to Tavon Austin.
+- [00:05:30,340 - 00:05:31,340] Over 10 million in one year.
+- [00:05:31,540 - 00:05:33,340] What industry did you decide to pursue a career in?
+- [00:05:33,540 - 00:05:36,090] Well, my graduate degree is in public administration, but
+- [00:05:36,090 - 00:05:38,640] I ended up working in oncology, working in clinical trials.
+- [00:05:38,840 - 00:05:40,540] So I went in a completely different direction.
+- [00:05:40,740 - 00:05:41,540] Are you a business owner?
+- [00:05:41,740 - 00:05:42,740] Yeah, part owner.
+- [00:05:42,940 - 00:05:44,290] And what has been the most amount of
+- [00:05:44,290 - 00:05:45,640] money that you ever made in a single year?
+- [00:05:45,840 - 00:05:47,040] On average, we do, are you
+- [00:05:47,040 - 00:05:48,240] talking about me personally or the business?
+- [00:05:48,440 - 00:05:48,840] I guess both.
+- [00:05:49,040 - 00:05:51,140] The business is 60 million, and
+- [00:05:51,140 - 00:05:53,240] then a couple of million for myself.
+- [00:05:53,440 - 00:05:53,640] Wow.
+- [00:05:53,840 - 00:05:54,890] What's the secret to being able
+- [00:05:54,890 - 00:05:55,940] to scale from six to seven figures?
+- [00:05:56,140 - 00:05:57,540] In business or even just personal
+- [00:05:57,540 - 00:05:58,940] income, what's the secret to scaling?
+- [00:05:59,140 - 00:06:02,740] Well, part of our success is we started a business in late
+- [00:06:02,740 - 00:06:06,340] 1990s, and then we sold it for a nice chunk of change.
+- [00:06:06,540 - 00:06:07,640] How much did you sell it for?
+- [00:06:07,840 - 00:06:09,240] 365 million.
+- [00:06:09,440 - 00:06:10,940] So you sold a company for 365 million?
+- [00:06:11,140 - 00:06:12,040] Yeah, there was a group of us.
+- [00:06:12,240 - 00:06:12,340] Wow.
+- [00:06:12,540 - 00:06:16,890] So that was really very helpful in terms of making, really gave us an opportunity to sort of
+- [00:06:16,890 - 00:06:21,240] look in a different way and work in an industry that we still enjoy, but in a different way.
+- [00:06:21,440 - 00:06:23,640] So I think if you can create something that's successful,
+- [00:06:23,640 - 00:06:25,840] and then find someone who's going to do it for you,
+- [00:06:26,040 - 00:06:27,490] and then find someone who's interested in
+- [00:06:27,490 - 00:06:28,940] purchasing it, that'd go a long way.
+- [00:06:29,140 - 00:06:30,590] What's the best financial advice that
+- [00:06:30,590 - 00:06:32,040] you've ever received throughout your lifetime?
+- [00:06:32,240 - 00:06:32,840] Invest.
+- [00:06:33,040 - 00:06:35,040] Invest in different companies.
+- [00:06:35,240 - 00:06:37,240] Just have a nice investment plan for yourself.
+- [00:06:37,440 - 00:06:38,640] And you can never start, as they
+- [00:06:38,640 - 00:06:39,840] always say, you can never start too young.
+- [00:06:40,040 - 00:06:40,840] And I think that's true.
+- [00:06:41,040 - 00:06:42,590] And is there a particular industry that you think
+- [00:06:42,590 - 00:06:44,140] people should really be looking to get into right now?
+- [00:06:44,340 - 00:06:46,190] Maybe it's in healthcare, that's a sector that you're in,
+- [00:06:46,190 - 00:06:48,040] or where do you think people should really be looking to?
+- [00:06:48,240 - 00:06:51,690] Well, I think the tech world continues to be a good
+- [00:06:51,690 - 00:06:55,140] part of a successful portfolio, but healthcare definitely, and especially drug development.
+- [00:06:55,140 - 00:06:56,940] And I guess why drug development,
+- [00:06:56,940 - 00:06:58,740] and that sector of healthcare in particular?
+- [00:06:58,940 - 00:07:00,740] Well, because we're just in an exciting phase.
+- [00:07:00,940 - 00:07:04,940] I mean, when I started 22 years ago doing what I'm doing, there
+- [00:07:04,940 - 00:07:08,940] were maybe 12 or 15 good oncology drugs, and now they're over 40.
+- [00:07:09,140 - 00:07:11,040] So there's this real breakthrough that
+- [00:07:11,040 - 00:07:12,940] we've had, especially with immune therapy.
+- [00:07:13,140 - 00:07:14,940] And that'll just continue to move forward.
+- [00:07:15,140 - 00:07:16,140] I love that. Thank you so much for your time.
+- [00:07:16,340 - 00:07:17,140] Thank you. Nice to meet you.
+- [00:07:17,340 - 00:07:18,140] Great to meet you as well.
+- [00:07:18,340 - 00:07:19,140] Good luck with your project.
+- [00:07:19,340 - 00:07:19,840] Thank you.
+- [00:07:20,039 - 00:07:20,640] Thank you, sir.
+- [00:07:20,840 - 00:07:21,340] Thank you.
+- [00:07:21,539 - 00:07:24,340] My man sold a company for over $360 million.
+- [00:07:24,539 - 00:07:25,039] His company was really good.
+- [00:07:25,240 - 00:07:26,740] Right now, he's doing $60 million a year.
+- [00:07:26,940 - 00:07:27,640] What do you got to
+- [00:07:27,640 - 00:07:28,340] say about Dallas so far, man?
+- [00:07:28,539 - 00:07:28,940] What the fuck?
+- [00:07:29,140 - 00:07:29,940] Dallas has been unreal.
+- [00:07:30,140 - 00:07:32,140] We got Cowboys player Tavon Austin.
+- [00:07:32,340 - 00:07:34,039] We got two major former CEOs.
+- [00:07:34,240 - 00:07:38,790] But my biggest lesson about that last interview is the takeaway that all the money that he's made, the $100 million that he sold
+- [00:07:38,790 - 00:07:43,340] the company for, and the millions that he's bringing home a year, he made it because he did it with a team of people.
+- [00:07:43,539 - 00:07:44,539] Like he said, he didn't just
+- [00:07:44,539 - 00:07:45,539] own all the wealth for himself.
+- [00:07:45,740 - 00:07:47,540] He said, there was a group of us
+- [00:07:47,540 - 00:07:49,340] that came together, and we made something special happen.
+- [00:07:49,539 - 00:07:50,740] They made a shit ton of money doing it.
+- [00:07:50,940 - 00:07:52,989] So if you're out there, you're thinking you could do it alone,
+- [00:07:52,989 - 00:07:55,039] just remember the saying, if you want to go fast, go alone.
+- [00:07:55,240 - 00:07:56,740] But if you want to go far, go together.
+- [00:07:56,940 - 00:07:57,740] Let's go, motherfuckers.
+- [00:07:57,940 - 00:07:59,440] My man right here out in Dallas, he's
+- [00:07:59,440 - 00:08:00,940] parked in the Cullen in the Rolls Royce.
+- [00:08:01,140 - 00:08:02,390] This is a multi-hundred-thousand-dollar
+- [00:08:02,390 - 00:08:03,640] car out in Dallas, Texas.
+- [00:08:03,840 - 00:08:04,540] Let's go up and try
+- [00:08:04,540 - 00:08:05,240] and get this interview real quick.
+- [00:08:05,440 - 00:08:06,039] Excuse me, man.
+- [00:08:06,240 - 00:08:07,240] Quick question for you.
+- [00:08:07,440 - 00:08:08,140] Is this your Rolls Royce?
+- [00:08:08,340 - 00:08:08,940] Yeah, yes, sir.
+- [00:08:09,140 - 00:08:09,840] What do you do for a living?
+- [00:08:10,039 - 00:08:13,039] I own a Sunspot tanning franchise that
+- [00:08:13,039 - 00:08:16,039] has 75 plus locations in 13 states.
+- [00:08:16,240 - 00:08:17,440] And how long have you been a business owner for?
+- [00:08:17,640 - 00:08:19,440] Since 2009.
+- [00:08:20,440 - 00:08:21,190] Is it cool if we
+- [00:08:21,190 - 00:08:21,940] could ask you a few questions?
+- [00:08:22,140 - 00:08:23,240] We go all over the country just
+- [00:08:23,240 - 00:08:24,340] asking business owners their advice to young entrepreneurs.
+- [00:08:24,539 - 00:08:25,039] Yeah.
+- [00:08:25,240 - 00:08:25,740] Is it cool?
+- [00:08:25,940 - 00:08:26,590] Can we ask you a couple
+- [00:08:26,590 - 00:08:27,240] questions outside of the car real quick?
+- [00:08:27,440 - 00:08:27,740] No.
+- [00:08:27,940 - 00:08:28,440] Yes, obviously.
+- [00:08:28,640 - 00:08:29,640] Yeah, yeah, for sure.
+- [00:08:29,840 - 00:08:30,140] Awesome.
+- [00:08:30,340 - 00:08:30,539] Cool.
+- [00:08:30,740 - 00:08:31,839] What has been the most amount of money
+- [00:08:31,839 - 00:08:32,939] that you ever made in a single year?
+- [00:08:33,140 - 00:08:34,340] Multiple, multiple seven figures.
+- [00:08:34,539 - 00:08:36,039] For someone out there, they're trying to
+- [00:08:36,039 - 00:08:37,539] scale their income from six to seven figures.
+- [00:08:37,740 - 00:08:38,740] What advice would you give them?
+- [00:08:38,939 - 00:08:40,439] The biggest thing is everybody
+- [00:08:40,439 - 00:08:41,939] wants to, people are control freaks.
+- [00:08:42,140 - 00:08:43,939] And there's a really good book.
+- [00:08:44,140 - 00:08:45,840] It's like super short, but it's called Great
+- [00:08:45,840 - 00:08:47,540] CEOs Are Lazy or Good CEOs Are Lazy.
+- [00:08:47,740 - 00:08:50,440] And basically says that if you can delegate and somebody can
+- [00:08:50,440 - 00:08:53,140] do the task 70% as well as you can delegate it.
+- [00:08:53,340 - 00:08:54,540] So, like, I'm a master delegator.
+- [00:08:54,740 - 00:08:55,040] So, I feel like I'm a master.
+- [00:08:55,240 - 00:08:56,540] I find people and I put
+- [00:08:56,540 - 00:08:57,840] them in positions to do things.
+- [00:08:58,040 - 00:09:01,790] Also, the other thing is I also give people opportunities that also benefit myself
+- [00:09:01,790 - 00:09:05,540] in a sense of like I will buy a company and give somebody equity.
+- [00:09:05,740 - 00:09:07,040] So, therefore, that's their baby.
+- [00:09:07,240 - 00:09:08,240] It's an opportunity that they
+- [00:09:08,240 - 00:09:09,240] would have never had previously.
+- [00:09:09,439 - 00:09:11,240] And they're doing 95% of the work.
+- [00:09:11,439 - 00:09:13,339] I use my team and my resources to help
+- [00:09:13,339 - 00:09:15,240] set everything up, you know, the books and all that.
+- [00:09:15,439 - 00:09:18,589] And then that's ways to, you know, essentially it's actually truly, there's
+- [00:09:18,589 - 00:09:21,740] no such thing as passive income, but that's as passive as it gets.
+- [00:09:21,939 - 00:09:23,239] Because that person is doing the work, you're giving them
+- [00:09:23,239 - 00:09:24,540] an opportunity to make more money than they ever would.
+- [00:09:24,640 - 00:09:27,140] And you're benefiting from it as well.
+- [00:09:27,339 - 00:09:29,989] Because, you know, if it's a, say, six-figure profit business
+- [00:09:29,989 - 00:09:32,640] where it's, you know, it's making 600,000, you're 50-50 partners.
+- [00:09:32,839 - 00:09:33,839] Now you're making 300,000.
+- [00:09:34,040 - 00:09:34,640] You're literally doing nothing.
+- [00:09:34,839 - 00:09:37,439] Next thing I was going to ask you is that, you know,
+- [00:09:37,439 - 00:09:40,040] there's a big debate for entrepreneurship, whether they should diversify into different industries.
+- [00:09:40,240 - 00:09:41,640] But do you think entrepreneurs
+- [00:09:41,640 - 00:09:43,040] in today's world, should they diversify?
+- [00:09:43,240 - 00:09:44,690] Or how important has that focus on
+- [00:09:44,690 - 00:09:46,140] one thing been for you throughout your career?
+- [00:09:46,339 - 00:09:46,439] Yeah.
+- [00:09:46,640 - 00:09:48,140] So, this is like an amazing question.
+- [00:09:48,339 - 00:09:50,839] And actually, so, concentration builds wealth, right?
+- [00:09:51,040 - 00:09:52,640] Diversification keeps it.
+- [00:09:52,839 - 00:09:53,589] I don't know whose quote that is,
+- [00:09:53,589 - 00:09:54,339] but I use it all the time.
+- [00:09:54,540 - 00:09:55,839] So, it's like concentrating on one thing.
+- [00:09:56,040 - 00:09:58,890] So, I concentrated on one thing and obviously made enough money where I can,
+- [00:09:58,890 - 00:10:01,740] there's nothing that I see or want to do that I can't afford to do.
+- [00:10:01,939 - 00:10:03,489] So, now what I'm doing is
+- [00:10:03,489 - 00:10:05,040] I'm vertically integrating my whole business.
+- [00:10:05,240 - 00:10:07,039] So, you know, we're constantly, right
+- [00:10:07,039 - 00:10:08,839] now we're building 20 new locations.
+- [00:10:09,040 - 00:10:12,040] So, like this month I'm spending like $200,000 on HVAC.
+- [00:10:12,240 - 00:10:15,289] So, I'm going to buy an HVAC company, an electric
+- [00:10:15,289 - 00:10:18,339] company, a plumbing company, you know, an MEP architectural company.
+- [00:10:18,540 - 00:10:20,989] Because we use so much, you know, the amount of people that are
+- [00:10:20,989 - 00:10:23,439] making money off of us on the real estate commissions and stuff like that.
+- [00:10:23,640 - 00:10:24,040] Also.
+- [00:10:24,540 - 00:10:25,790] I'm building a ton of
+- [00:10:25,790 - 00:10:27,040] commercial buildings, like commercial strips.
+- [00:10:27,240 - 00:10:28,740] And every single one of them
+- [00:10:28,740 - 00:10:30,240] has my business in it, right?
+- [00:10:30,439 - 00:10:31,889] What that does, that's also
+- [00:10:31,889 - 00:10:33,339] vertically integrating and that's diversification.
+- [00:10:33,540 - 00:10:34,890] But it's like, instead of me paying rent
+- [00:10:34,890 - 00:10:36,240] to someone else, I'm paying rent to myself.
+- [00:10:36,439 - 00:10:37,839] So, like that's my sense of diversification.
+- [00:10:38,040 - 00:10:41,090] But when it comes to somebody who is new and like an
+- [00:10:41,090 - 00:10:44,140] entrepreneur, everybody says, oh, we want three streams of income and all that.
+- [00:10:44,339 - 00:10:45,240] That's all just kind of bullshit.
+- [00:10:45,439 - 00:10:48,239] It's like, you know, if you make $1,000 on a rent house
+- [00:10:48,239 - 00:10:51,040] and then you go and have a drop shipping company, you make $1,000.
+- [00:10:51,240 - 00:10:51,839] What is that?
+- [00:10:52,040 - 00:10:53,640] You can literally just focus on one thing.
+- [00:10:53,640 - 00:10:54,740] And kind of scale that up.
+- [00:10:54,939 - 00:10:58,439] And once you have enough cash flow to where you can replace your day job and you can also do
+- [00:10:58,439 - 00:11:01,939] anything you want to go do, then take that money and then diversify into whatever else you want to do.
+- [00:11:02,140 - 00:11:02,340] Yeah.
+- [00:11:02,540 - 00:11:02,840] So.
+- [00:11:03,040 - 00:11:03,340] There you go.
+- [00:11:03,540 - 00:11:03,740] There you go.
+- [00:11:03,939 - 00:11:04,240] My man.
+- [00:11:04,439 - 00:11:05,040] You crushed that.
+- [00:11:05,240 - 00:11:06,340] Thank you so much.
+- [00:11:06,540 - 00:11:06,640] Appreciate it.
+- [00:11:06,840 - 00:11:07,140] Appreciate it.
+- [00:11:07,340 - 00:11:08,040] Appreciate it fellas.
+- [00:11:08,240 - 00:11:09,490] Dallas has been one of the craziest
+- [00:11:09,490 - 00:11:10,740] cities that I've shot in so far.
+- [00:11:10,939 - 00:11:11,640] This video has been crazy.
+- [00:11:11,840 - 00:11:13,790] But I want you to comment down below who's
+- [00:11:13,790 - 00:11:15,740] been your favorite person we've interviewed so far and why.
+- [00:11:15,939 - 00:11:16,840] We'd love to connect with you guys.
+- [00:11:17,040 - 00:11:17,940] I want to know all your
+- [00:11:17,940 - 00:11:18,840] thoughts on this video so far.
+- [00:11:19,040 - 00:11:19,439] All right, you guys.
+- [00:11:19,640 - 00:11:21,490] A few months ago, we actually interviewed
+- [00:11:21,490 - 00:11:23,340] a healthcare executive at a $4 billion company.
+- [00:11:23,640 - 00:11:24,140] He was sold.
+- [00:11:24,340 - 00:11:25,340] He's now an angel investor.
+- [00:11:25,540 - 00:11:27,390] But he invited us out to his house in Dallas,
+- [00:11:27,390 - 00:11:29,240] Texas to give us some game to the young entrepreneur.
+- [00:11:29,439 - 00:11:30,540] You're the investor question guy.
+- [00:11:30,740 - 00:11:31,040] Yes, sir.
+- [00:11:31,240 - 00:11:31,740] Good shit, man.
+- [00:11:31,939 - 00:11:32,340] What's your name?
+- [00:11:32,540 - 00:11:33,040] Dante.
+- [00:11:33,240 - 00:11:33,740] Dante James.
+- [00:11:33,939 - 00:11:34,340] Nice to meet you, bro.
+- [00:11:34,540 - 00:11:34,640] Nice to meet you, man.
+- [00:11:34,840 - 00:11:35,340] You do good work.
+- [00:11:35,540 - 00:11:36,040] Appreciate you, man.
+- [00:11:36,240 - 00:11:38,340] Hey, any advice to the younger generation out there?
+- [00:11:38,540 - 00:11:39,040] Oh, man.
+- [00:11:39,240 - 00:11:40,240] I'm not the one to
+- [00:11:40,240 - 00:11:41,240] give advice to the younger generation.
+- [00:11:41,439 - 00:11:42,640] Everybody's got their own perspective.
+- [00:11:42,840 - 00:11:43,940] You know, like if you could
+- [00:11:43,940 - 00:11:45,040] tell anybody any message out there.
+- [00:11:45,240 - 00:11:47,040] What is the biggest life lesson you've ever learned?
+- [00:11:47,240 - 00:11:48,939] The biggest life lesson I've ever learned.
+- [00:11:49,140 - 00:11:50,340] Shit, right now it's to
+- [00:11:50,340 - 00:11:51,540] search peace instead of financial gain.
+- [00:11:51,540 - 00:11:53,540] What would you say is the importance of finding that
+- [00:11:53,540 - 00:11:55,540] peace in yourself as opposed to serving money and serving people?
+- [00:11:55,740 - 00:11:57,240] Well, if you're not right in here, then
+- [00:11:57,240 - 00:11:58,740] whatever you do out here doesn't fucking matter.
+- [00:11:58,939 - 00:11:59,839] Hey, that's some real spill right there.
+- [00:12:00,040 - 00:12:01,439] Dante, appreciate you for stopping by, man.
+- [00:12:01,640 - 00:12:02,040] Have a good one, man.
+- [00:12:02,240 - 00:12:02,740] Have a good one.
+- [00:12:02,939 - 00:12:03,339] Have a good one.
+- [00:12:03,540 - 00:12:03,939] Thank you.
+- [00:12:04,140 - 00:12:04,740] You know what?
+- [00:12:04,939 - 00:12:06,040] I love that advice right there.
+- [00:12:06,240 - 00:12:06,939] You can't serve money.
+- [00:12:07,140 - 00:12:08,289] We want to be super successful, but
+- [00:12:08,289 - 00:12:09,439] you got to find that inner peace inside.
+- [00:12:09,640 - 00:12:10,590] If all you're looking for is the
+- [00:12:10,590 - 00:12:11,540] money, you're never going to find peace.
+- [00:12:11,740 - 00:12:12,540] You're never going to find happiness.
+- [00:12:12,740 - 00:12:13,640] That's some real spill right there.
+- [00:12:13,839 - 00:12:14,739] That was a really cool
+- [00:12:14,739 - 00:12:15,640] interaction we just had with Dante.
+- [00:12:15,839 - 00:12:16,939] He recognized us from the channel in
+- [00:12:16,939 - 00:12:18,040] some of the interviews that we had done.
+- [00:12:18,040 - 00:12:19,040] But right now, we're on
+- [00:12:19,040 - 00:12:20,040] the way to the executive's house.
+- [00:12:20,240 - 00:12:23,039] He's going to give us some game on how entrepreneurs can really thrive in
+- [00:12:23,039 - 00:12:25,839] today's business world and what he looks for in companies as an angel investor.
+- [00:12:26,040 - 00:12:27,040] So let's head out right now.
+- [00:12:27,240 - 00:12:28,439] Can't wait to get this content for you guys.
+- [00:12:28,640 - 00:12:30,839] What industry did you decide to pursue a career in?
+- [00:12:31,040 - 00:12:31,439] Healthcare.
+- [00:12:31,640 - 00:12:34,140] In my last role, I was the chief operating
+- [00:12:34,140 - 00:12:36,640] officer for a $700 million business called Health Management Systems.
+- [00:12:36,839 - 00:12:38,439] And did you guys end up selling your company?
+- [00:12:38,640 - 00:12:38,839] We did.
+- [00:12:39,040 - 00:12:40,840] We sold it to a private
+- [00:12:40,840 - 00:12:42,640] equity company for about $3.5 billion.
+- [00:12:42,839 - 00:12:44,239] And it was a very successful
+- [00:12:44,239 - 00:12:45,640] exit at the end of 2020.
+- [00:12:45,839 - 00:12:46,640] That is incredible.
+- [00:12:46,839 - 00:12:47,740] My next question for you.
+- [00:12:47,740 - 00:12:49,340] What was the best financial advice
+- [00:12:49,340 - 00:12:50,940] that you ever received throughout your lifetime?
+- [00:12:51,140 - 00:12:54,240] If you had a mentor or somebody that taught you a lesson about money that
+- [00:12:54,240 - 00:12:57,340] has kind of always stuck with you, what's the best financial advice you ever received?
+- [00:12:57,540 - 00:12:58,740] Spend about half of what you make.
+- [00:12:58,940 - 00:13:01,240] And always keep your powder dry because there's always an
+- [00:13:01,240 - 00:13:03,540] investment that you could use a little bit of money on.
+- [00:13:03,740 - 00:13:06,040] There's always something you could, a person you
+- [00:13:06,040 - 00:13:08,340] can invest in, an idea you can invest in.
+- [00:13:08,540 - 00:13:10,740] And if you don't have any dry powder, we call it
+- [00:13:10,740 - 00:13:12,940] our cash on the sideline, then you're always short of doing that.
+- [00:13:13,140 - 00:13:15,240] So always keep enough cash on the sideline
+- [00:13:15,240 - 00:13:17,340] for any kind of liquid requirements that you have.
+- [00:13:17,340 - 00:13:19,540] And so and I think in this market in
+- [00:13:19,540 - 00:13:21,740] healthcare today, a lot of the valuations have come down.
+- [00:13:21,940 - 00:13:24,440] So over the next two or three years, you're going to see
+- [00:13:24,440 - 00:13:26,940] a multitude of investments that weren't there two to three years ago.
+- [00:13:27,140 - 00:13:28,740] So you should have some money in cash today.
+- [00:13:28,940 - 00:13:31,040] What do you think is the biggest thing that takes
+- [00:13:31,040 - 00:13:33,140] a business from seven to eight and eventually nine figures?
+- [00:13:33,340 - 00:13:34,940] A lot of people don't have a great business idea.
+- [00:13:35,140 - 00:13:36,340] They'll start that business, but
+- [00:13:36,340 - 00:13:37,540] they struggle to scale and grow.
+- [00:13:37,740 - 00:13:39,240] How were you guys able to
+- [00:13:39,240 - 00:13:40,740] scale into a multi-billion dollar business?
+- [00:13:40,940 - 00:13:44,040] I think the biggest challenge was scaling is
+- [00:13:44,040 - 00:13:47,140] just getting enough infrastructure to drive enough business.
+- [00:13:47,340 - 00:13:49,640] Where you need more people, more technology,
+- [00:13:49,640 - 00:13:51,940] you need more sales, you need more marketing,
+- [00:13:52,140 - 00:13:54,540] you need more commercialization of the product and
+- [00:13:54,540 - 00:13:56,940] ultimately you need to make it a industry utility.
+- [00:13:57,140 - 00:13:59,940] So everybody that's not using it is at a disadvantage.
+- [00:14:00,140 - 00:14:01,440] Once you can get to that
+- [00:14:01,440 - 00:14:02,740] tipping point, then you really scale.
+- [00:14:02,940 - 00:14:04,340] What would you say was the biggest
+- [00:14:04,340 - 00:14:05,740] driving factor that really led to your success,
+- [00:14:05,940 - 00:14:08,840] that enabled you to work your way up and become an executive
+- [00:14:08,840 - 00:14:11,740] out of nine and eventually ten figure company in a booming industry?
+- [00:14:11,940 - 00:14:12,940] Helping others succeed.
+- [00:14:13,140 - 00:14:15,140] I think your biggest focus is if you can
+- [00:14:15,140 - 00:14:17,140] help your direct reports get to their next level,
+- [00:14:17,340 - 00:14:18,740] if you can mentor people
+- [00:14:18,740 - 00:14:20,140] on the line, up the ladder.
+- [00:14:20,340 - 00:14:23,440] You can reach down and pull people up the ladder and always
+- [00:14:23,440 - 00:14:26,540] be focused on really giving them constructive criticism on what they did,
+- [00:14:26,740 - 00:14:27,940] what they didn't do, what they could
+- [00:14:27,940 - 00:14:29,140] do, how they should go about it.
+- [00:14:29,340 - 00:14:31,840] Because hiring the best people and lifting them up
+- [00:14:31,840 - 00:14:34,340] always kept me on the top of the food chain.
+- [00:14:34,540 - 00:14:35,340] So that's how I raised.
+- [00:14:35,540 - 00:14:37,840] And so the better you can surround yourself with
+- [00:14:37,840 - 00:14:40,140] great people, the better you can mentor those great people,
+- [00:14:40,340 - 00:14:41,840] the more opportunity you have to
+- [00:14:41,840 - 00:14:43,340] grow in your career as well.
+- [00:14:43,540 - 00:14:44,940] You crushed that. Thank you so much.
+- [00:14:45,140 - 00:14:46,540] Thank you so much for watching this video.
+- [00:14:46,740 - 00:14:47,140] And like it,
+- [00:14:47,340 - 00:14:49,640] subscribe and click here to watch us going all
+- [00:14:49,640 - 00:14:51,940] around Houston asking multimillionaire homeowners how they became successful.
