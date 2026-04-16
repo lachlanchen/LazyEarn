@@ -1,0 +1,251 @@
+# Transcript
+
+Source: lazyearn/school-of-hard-knocks/10-questions-with-a-millionaire/021 - 10 Questions with a Millionaire： Investor & Executive Doug Williams [VNtZfU84euk].mkv
+
+- [00:00:00,000 - 00:00:01,860] ultimately ended up as chief operating officer
+- [00:00:01,860 - 00:00:03,720] for HMS Holdings, which is another healthcare
+- [00:00:03,720 - 00:00:05,900] company that we sold for $3.5
+- [00:00:05,900 - 00:00:08,080] billion. So it was a great run.
+- [00:00:08,340 - 00:00:11,300] Welcome back. We are here with episode two with
+- [00:00:11,300 - 00:00:14,260] Mr. Doug Williams. He was the former COO of HMS
+- [00:00:14,260 - 00:00:16,830] Holdings and is currently an investor and a board
+- [00:00:16,830 - 00:00:19,400] member. He's had an amazing career and we have a
+- [00:00:19,400 - 00:00:20,430] couple of great questions for
+- [00:00:20,430 - 00:00:21,460] him today. Thanks for joining us.
+- [00:00:21,700 - 00:00:22,120] Thank you.
+- [00:00:22,320 - 00:00:24,140] Currently, you're an investor and a board
+- [00:00:24,140 - 00:00:25,960] member looking at different startups. What are some
+- [00:00:25,960 - 00:00:27,280] things that you look for in a
+- [00:00:27,280 - 00:00:28,600] company that you really want to invest in?
+- [00:00:28,600 - 00:00:31,120] We've created a company that has about
+- [00:00:31,120 - 00:00:33,640] $50 million to invest. We're considered venture,
+- [00:00:33,880 - 00:00:36,850] so we do very early rounds. We
+- [00:00:36,850 - 00:00:39,820] look for really interesting ideas, really thoughtful management
+- [00:00:39,820 - 00:00:42,550] teams, and we look for large kind of
+- [00:00:42,550 - 00:00:45,280] target markets. Most of the investments we make are
+- [00:00:45,280 - 00:00:46,980] somewhere between a half a million dollars and
+- [00:00:46,980 - 00:00:48,680] maybe two or three million dollars. There are
+- [00:00:48,680 - 00:00:50,790] companies that are generating probably less than
+- [00:00:50,790 - 00:00:52,900] $2 million in revenue. We focus those,
+- [00:00:53,060 - 00:00:55,140] get them organized, help them hire really good
+- [00:00:55,140 - 00:00:57,220] talent, and make sure they stay focused on the
+- [00:00:57,220 - 00:00:57,700] things.
+- [00:00:57,840 - 00:00:58,210] As a young entrepreneur, I've been working with a
+- [00:00:58,210 - 00:00:58,580] lot of companies that are doing a lot of
+- [00:00:58,580 - 00:00:58,590] things. As a young entrepreneur, I've been working
+- [00:00:58,590 - 00:00:58,600] with a lot of things. As a young entrepreneur,
+- [00:00:58,600 - 00:01:01,070] as a CEO, sometimes there's so many things coming at
+- [00:01:01,070 - 00:01:03,540] you at once, and you have so few people to deal
+- [00:01:03,540 - 00:01:05,760] with that you really don't know what matters. What I
+- [00:01:05,760 - 00:01:07,980] love to do is coach CEOs, even when I'm on the
+- [00:01:07,980 - 00:01:10,110] board, just work with them or their direct reports
+- [00:01:10,110 - 00:01:12,240] to make sure that they're focused and they're on
+- [00:01:12,240 - 00:01:14,360] the right target. They do things that are
+- [00:01:14,360 - 00:01:16,480] really impactful for the company, but we focus on
+- [00:01:16,480 - 00:01:19,950] behavioral health and digital health. And so
+- [00:01:19,950 - 00:01:23,420] we've done things from concussion monitors, we've done
+- [00:01:23,420 - 00:01:26,000] for anxiety for troops, we've done different drug
+- [00:01:26,000 - 00:01:28,580] studies. And so there's just a vast variety of
+- [00:01:28,580 - 00:01:31,090] new companies that are coming up. And it's just
+- [00:01:31,090 - 00:01:33,600] really exciting to work with them and all the new
+- [00:01:33,600 - 00:01:35,340] energy and new ideas. It just keeps
+- [00:01:35,340 - 00:01:37,080] me young and excited and out there.
+- [00:01:37,080 - 00:01:39,220] Obviously, working with certain CEOs and coaching them,
+- [00:01:39,220 - 00:01:41,360] is there a particular example that you could
+- [00:01:41,360 - 00:01:43,220] give? There's a CEO of a startup that
+- [00:01:43,220 - 00:01:45,080] you're working with, and they needed just a slight
+- [00:01:45,080 - 00:01:46,580] adjustment or a piece of coaching that
+- [00:01:46,580 - 00:01:48,080] could help steer them in the right direction?
+- [00:01:48,259 - 00:01:50,209] I think what I've done, I have a couple
+- [00:01:50,209 - 00:01:52,160] of examples, but one that comes to mind, individual,
+- [00:01:52,840 - 00:01:55,299] super smart, understands the market, understands the
+- [00:01:55,299 - 00:01:57,759] product set that they're bringing. But the
+- [00:01:57,759 - 00:01:58,159] message and the message that I've gotten from them
+- [00:01:58,159 - 00:01:58,560] is that they're going to be the ones that are
+- [00:01:58,560 - 00:01:58,810] going to be the ones that are going to be the
+- [00:01:58,810 - 00:01:59,060] ones that are going to be the ones that are going to
+- [00:01:59,060 - 00:02:01,530] trying to sell it and get in front of people
+- [00:02:01,530 - 00:02:04,000] was just not going to ring the bell. It just wasn't
+- [00:02:04,000 - 00:02:06,519] going to be focused enough. I believe you
+- [00:02:06,519 - 00:02:09,039] sell through fear, not foresight. People are afraid
+- [00:02:09,039 - 00:02:11,499] of failing. They're not afraid of success. CEOs, the
+- [00:02:11,499 - 00:02:13,960] worst thing that can happen to them is that
+- [00:02:13,960 - 00:02:16,860] they fail. And so if you can focus their clients
+- [00:02:16,860 - 00:02:19,760] on things that they need this company for so they
+- [00:02:19,760 - 00:02:21,850] don't fail, everybody wins. I'm not trying to scare
+- [00:02:21,850 - 00:02:23,940] anybody, but I'm trying to say if you don't
+- [00:02:23,940 - 00:02:26,040] take care of this in your business, this is going
+- [00:02:26,040 - 00:02:28,140] to hurt you. And when you have a $2 million company
+- [00:02:28,560 - 00:02:30,880] and you're selling on a $50 billion company,
+- [00:02:30,880 - 00:02:33,200] there's a different level of dynamic that goes on.
+- [00:02:33,580 - 00:02:35,740] And then there's the whole credibility. So what I
+- [00:02:35,740 - 00:02:37,900] try to do is add credibility. Since I've been
+- [00:02:37,900 - 00:02:39,860] around the market a long time, if the company
+- [00:02:39,860 - 00:02:41,820] that we're selling to trusts me, then they will
+- [00:02:41,820 - 00:02:43,460] trust the company that I'm trying to bring
+- [00:02:43,460 - 00:02:45,100] to them. And it's trust that I've established over
+- [00:02:45,100 - 00:02:47,950] many, many years. But the CEOs to me are, again,
+- [00:02:47,950 - 00:02:50,800] is your message on track? Is it going to matter
+- [00:02:50,800 - 00:02:53,430] to the people you're trying to sell to?
+- [00:02:53,430 - 00:02:56,060] And what is your unique differentiating proposition so that
+- [00:02:56,060 - 00:02:57,300] why can't I buy from anybody else? And most
+- [00:02:57,300 - 00:02:58,540] people don't buy from anybody else. And most people don't
+- [00:02:58,560 - 00:03:00,600] spend enough time focused on those
+- [00:03:00,600 - 00:03:02,640] three measures to really make it matter.
+- [00:03:02,880 - 00:03:04,580] I remember when you were talking about your
+- [00:03:04,580 - 00:03:06,280] journey through HMS, you brought up that sales
+- [00:03:06,280 - 00:03:08,470] was a big aspect of some of your
+- [00:03:08,470 - 00:03:10,660] positions. How could someone crush sales in 2022?
+- [00:03:10,960 - 00:03:13,750] My biggest advice to most salesmen is no one likes
+- [00:03:13,750 - 00:03:16,540] to be sold to, but everybody likes to buy. So what
+- [00:03:16,540 - 00:03:18,610] you do is you put something in front of
+- [00:03:18,610 - 00:03:20,680] them. I call it solution selling. There's lots of names
+- [00:03:20,680 - 00:03:23,620] for it. I sell by asking questions, understanding first
+- [00:03:23,620 - 00:03:26,560] what the real true need is, and then see if
+- [00:03:26,560 - 00:03:28,540] I can help them solve that need.
+- [00:03:28,560 - 00:03:30,940] A lot of young salespeople come in and say, hey, let
+- [00:03:30,940 - 00:03:33,320] me show you, let me do a demo. Let me show you
+- [00:03:33,320 - 00:03:35,130] everything I got. And when you see something, stop
+- [00:03:35,130 - 00:03:36,940] me. And that's just the wrong way to sell. That's
+- [00:03:36,940 - 00:03:39,440] like throwing shit against the wall and seeing what
+- [00:03:39,440 - 00:03:41,940] sticks. What I'm saying is slow down, do a
+- [00:03:41,940 - 00:03:43,940] lot of homework on your client before you
+- [00:03:43,940 - 00:03:45,940] ever show up, because nobody does that. Understand their
+- [00:03:45,940 - 00:03:48,020] pain points and make sure you're talking to
+- [00:03:48,020 - 00:03:50,100] them about those pain points and mutually solve a
+- [00:03:50,100 - 00:03:51,820] problem as opposed to trying to sell them
+- [00:03:51,820 - 00:03:53,540] something like off the back of a truck.
+- [00:03:53,540 - 00:03:55,860] How can a business scale from potentially six
+- [00:03:55,860 - 00:03:58,180] figures to seven figures to eight and then all
+- [00:03:58,560 - 00:03:59,810] those ten figures that you
+- [00:03:59,810 - 00:04:01,060] were able to sell HMS for?
+- [00:04:01,060 - 00:04:04,060] We sold from multiple of revenue or EBITDA, right?
+- [00:04:04,060 - 00:04:07,060] So that's what all companies kind of do. But to
+- [00:04:07,060 - 00:04:10,260] move a company to scale, I feel like you have
+- [00:04:10,260 - 00:04:13,460] to get the basics right. You have to figure out the
+- [00:04:13,460 - 00:04:15,400] value proposition. You have to figure out the
+- [00:04:15,400 - 00:04:17,339] total addressable market. You have to figure out who
+- [00:04:17,339 - 00:04:19,779] you're selling to. You have to figure out the
+- [00:04:19,779 - 00:04:22,220] key message. When that wheel starts to spin, so if
+- [00:04:22,220 - 00:04:25,180] you'd hold this for a second, I want to give you an
+- [00:04:25,180 - 00:04:28,140] idea, a visual. So what I do is I create a company.
+- [00:04:28,140 - 00:04:28,350] Here's my business. Here's my business. Here's
+- [00:04:28,350 - 00:04:28,560] my business. Here's my business. Here's my business.
+- [00:04:28,560 - 00:04:30,760] Here's my organizational structure with the size I am
+- [00:04:30,760 - 00:04:32,960] today. Then I think about what happens when it
+- [00:04:32,960 - 00:04:35,030] doubles and then what happens when it doubles and
+- [00:04:35,030 - 00:04:37,100] think about a folding piece of paper. So I've
+- [00:04:37,100 - 00:04:39,870] planned my paper to where we are today. As we grow,
+- [00:04:39,870 - 00:04:42,640] I know exactly what I'm going to do then. And then
+- [00:04:42,640 - 00:04:44,330] when it grows again, I know exactly what
+- [00:04:44,330 - 00:04:46,020] I'm going to do then. And my organizational structure,
+- [00:04:46,520 - 00:04:49,030] my metrics, my alignment, my relationships, my channels,
+- [00:04:49,030 - 00:04:51,540] all those are designed. So I kind of
+- [00:04:51,540 - 00:04:55,030] know the playbook in advance. And that really takes
+- [00:04:55,030 - 00:04:58,520] a lot of the wasted time and space out of
+- [00:04:58,520 - 00:04:58,540] school.
+- [00:04:58,560 - 00:05:04,530] So I think that's a really good way to scale. If you're going to go raise more money to scale or you need another to leverage a relationship with a bank
+- [00:05:04,530 - 00:05:10,500] or something, the guy's got a plan and it makes sense. And it's much easier and much faster than just trying to scale by doing it more and more and more.
+- [00:05:10,500 - 00:05:17,480] In early 2020, you released a book called Shift, a playbook for positive change. Here's the book. We're going to tag it in the description. So if you want to
+- [00:05:17,480 - 00:05:24,460] check out the book, go ahead and check it out on Amazon. It's great. I read it. What was the most important thing that you learned about being an author?
+- [00:05:24,460 - 00:05:26,390] The original working title of the book
+- [00:05:26,390 - 00:05:28,320] was Enjoy the Walk or Enjoy the Journey.
+- [00:05:28,320 - 00:05:43,310] And I feel like everyone's career. I'm 63. I'm still looking ahead for super exciting stuff as an investor and a board member. But if I look back, it's the skills I learned and the people I met along the way that really mattered and changed my life. It's not the job that you have. It's not the company you work for. But if you have
+- [00:05:43,310 - 00:05:58,300] great mentors and you have great people and you really care about the people that you work with, helping them get better, helping them move up the food chain, helping them be successful, even if they change careers outside of your role. I just tell everybody, learn what you're doing, where you're going, where you're going. And if you're not, then you're not going to be successful.
+- [00:05:58,320 - 00:06:00,630] You are today. Enjoy what you're doing today. And it
+- [00:06:00,630 - 00:06:02,940] will definitely come back and help you in the future.
+- [00:06:03,260 - 00:06:06,920] Do you think people can have work-life balance and still be successful? If you had
+- [00:06:06,920 - 00:06:10,580] work-life balance throughout your career, what did you do to kind of balance between work?
+- [00:06:10,659 - 00:06:18,079] That's a tough question. So work-life balance for me was always front of mind. Now, I have five and a half million American miles. So I flew
+- [00:06:18,079 - 00:06:25,500] a lot, flew more than most people. But when I was away from the family in the house, I worked. When I got home, I was home.
+- [00:06:25,500 - 00:06:26,900] I feel like I could set my briefcase
+- [00:06:26,900 - 00:06:28,300] down and I was home with the family.
+- [00:06:28,320 - 00:06:42,610] I wouldn't take calls all day Saturday. After everybody went to bed on Sunday, I may spend an hour, hour and a half just getting ready for the next week. But I wanted to be home. I wanted to coach my kids. I wanted to be there for them. So that, to me, was vastly important. And I feel like if
+- [00:06:42,610 - 00:06:56,900] you, all you do is work your ass off. I've seen a lot of professionals end up at 65 or 70 and they retire and basically they haven't built the relationships. They haven't built the network of friends. They haven't built family relationships. And all they have is money. Money by yourself is not very fun. People think it is. It's not.
+- [00:06:56,900 - 00:07:03,779] Once you can afford anything you want, anytime you want it, then it's like, okay, then what's next? And I think today's businesses are more focused on work-life balance.
+- [00:07:03,779 - 00:07:10,659] I think everybody has their own place that they have to be comfortable with. But I would focus on when you're home with the family, be home with the family.
+- [00:07:10,919 - 00:07:15,189] How has managing your mental health and making sure that you manage your stress in your
+- [00:07:15,189 - 00:07:19,460] positions, but then also through that kind of work-life balance dynamic that you just talked about?
+- [00:07:19,460 - 00:07:23,069] You have to have more than one focus in life. So my rhythm is I
+- [00:07:23,069 - 00:07:26,679] get up at 4.30 in the morning. I'm in the gym by 5. I work out.
+- [00:07:26,900 - 00:07:41,900] I'm generally seven days a week. Some days I do a couple workouts. It's mind space. It's me, my, myself. It's me, you know, shooting for my goals in that area. And then I also have hobbies. I play golf. Not very well, but I do like to play golf. I sail. I love to sail. I love to hike. I love to road bike. And so to me, all those are ways to get away from the office. When Abraham Lincoln, you know, had four hours to
+- [00:07:41,900 - 00:07:56,900] chop down a tree, he said, you know, spend the first three sharpening the ax. And so to me, those other things that you do sharpen the ax. And I also think that people don't spend enough time trying to get away from the office. And I think that's a big part of it. I think that's a big part of it. I think that's a big part of it. I think that's a big part of it. I think that's a big part of it. I think that
+- [00:07:56,900 - 00:08:07,370] training or being good at what they're good at, they're looking ahead for what they can do next. Those two things add a lot of mental balance versus always being stressed out about, am I good enough? Am I going to do it
+- [00:08:07,370 - 00:08:17,840] right? Is it the right focus? Once you know you can do it, your pressure goes down. And it's key. You can't live in a pressure cooker your whole life. I think that contributes a lot to people's drinking and everything else that happens.
+- [00:08:17,900 - 00:08:22,330] You had originally gone to school for computer science. How does that lead you to where you are now?
+- [00:08:22,330 - 00:08:26,760] And are those tech skills that you kind of learned early in your career transferable to what you do?
+- [00:08:26,900 - 00:08:35,260] I started as a computer programmer. And when I got to my first job, they allowed me to actually take a computer and go program all sorts of devices. I got to work
+- [00:08:35,260 - 00:08:43,620] on B-1 bombers. I got to work on Disneyland. Everybody wins a prize every day. I got to take a box out to a device and have the devices talk to each other.
+- [00:08:43,620 - 00:08:50,090] So it taught me a lot about protocols and working with companies and working with people. And I love being in the field. And
+- [00:08:50,090 - 00:08:56,560] so working with people in the field on specific kinds of problems led me to my career at Arthur Anderson, where I was a partner.
+- [00:08:56,560 - 00:09:03,060] I headed up healthcare technology for them. I headed up healthcare IBM consulting worldwide. Ultimately ended up as chief operating
+- [00:09:03,060 - 00:09:09,560] officer for HMS Holdings, which is another healthcare company that we sold for $3.5 billion. So it was a great run.
+- [00:09:09,959 - 00:09:11,459] What is the best and worst
+- [00:09:11,459 - 00:09:12,959] financial decision that you've ever made?
+- [00:09:13,520 - 00:09:19,970] The worst decision I made was not buying enough Bitcoin. No. Or Tesla. I invested in both, but not
+- [00:09:19,970 - 00:09:26,420] enough. And probably the worst financial decision. You know, I can't say I've really made any really bad financial decisions.
+- [00:09:26,420 - 00:09:40,980] I've lost money on one. But, you know, when I go back and look at the data I had at the time and the people that I was betting on, I felt like it was still a good bet. But if everything you invest in is successful, I don't think your risk meter is high enough. Trust your gut
+- [00:09:40,980 - 00:09:55,540] and get to know people before you invest with them. And not just through a demo or PowerPoint presentation. I mean, get to know them a little bit, meet their family, talk to them, you know, get offline a little bit. And to me, then you really see what people are made of because no business plan goes off flawlessly.
+- [00:09:55,540 - 00:09:55,629] And you want to know the future.
+- [00:09:55,629 - 00:09:55,719] And I think that's what I've learned.
+- [00:09:55,720 - 00:10:04,870] And you want to know the character of the people that you're doing business with. Boards I sit on and same with the folks that we bring in to help these companies. You want to make sure that everybody's got
+- [00:10:04,870 - 00:10:14,020] a shared mutual respect and a shared goal. And that's to make the play successful, not necessarily being the brightest light or the smartest guy in the room. Some people have different objectives. You want to make sure you're all aligned.
+- [00:10:14,340 - 00:10:17,800] What is the most important part about taking risks to be successful? Are there any risks maybe
+- [00:10:17,800 - 00:10:21,260] outside of finance that you had to take in order to get to where you are today?
+- [00:10:21,260 - 00:10:22,980] Yeah. So to me, risk, there's lots
+- [00:10:22,980 - 00:10:24,700] of different ways to think about risk.
+- [00:10:24,840 - 00:10:25,220] Yeah.
+- [00:10:25,220 - 00:10:25,280] Yeah.
+- [00:10:25,280 - 00:10:25,300] Yeah.
+- [00:10:25,300 - 00:10:25,320] Yeah.
+- [00:10:25,320 - 00:10:25,360] Yeah.
+- [00:10:25,360 - 00:10:25,420] Yeah.
+- [00:10:25,420 - 00:10:25,440] Yeah.
+- [00:10:25,440 - 00:10:25,460] Yeah.
+- [00:10:25,460 - 00:10:25,480] Yeah.
+- [00:10:25,480 - 00:10:25,540] Yeah.
+- [00:10:25,540 - 00:10:25,680] Yeah.
+- [00:10:25,680 - 00:10:25,700] Yeah.
+- [00:10:25,700 - 00:10:25,780] Yeah.
+- [00:10:27,240 - 00:10:27,560] Yeah.
+- [00:10:27,560 - 00:10:29,640] Yeah.
+- [00:10:42,000 - 00:10:42,300] Yeah.
+- [00:10:42,380 - 00:10:42,560] Yeah.
+- [00:10:42,560 - 00:10:43,040] Yeah.
+- [00:10:46,740 - 00:10:47,640] Yeah.
+- [00:10:49,060 - 00:10:49,720] Yeah.
+- [00:10:50,620 - 00:10:52,680] Yeah.
+- [00:10:52,680 - 00:10:52,800] Yeah.
+- [00:10:52,800 - 00:10:54,380] Yeah.
+- [00:10:54,560 - 00:10:54,620] Yeah.
+- [00:10:54,620 - 00:10:54,680] Yeah.
+- [00:10:54,680 - 00:10:54,980] Yeah.
+- [00:10:54,980 - 00:10:56,920] into another deal and it hit huge. He could have
+- [00:10:56,920 - 00:10:58,860] just put a little bit in and then he wouldn't be
+- [00:10:58,860 - 00:11:01,330] worth $250 billion. So, I mean, different people
+- [00:11:01,330 - 00:11:03,800] have different risk profiles and you got to be
+- [00:11:03,800 - 00:11:06,490] comfortable with yours. What's something that my generation,
+- [00:11:06,490 - 00:11:09,180] Gen Z, should know as we look forward
+- [00:11:09,180 - 00:11:11,270] to start our careers as well as wanting
+- [00:11:11,270 - 00:11:13,360] to become leaders in the business world? What's something
+- [00:11:13,360 - 00:11:15,370] that we should know or advice that you have? Ask
+- [00:11:15,370 - 00:11:17,380] what you can do to help versus ask what you can
+- [00:11:17,380 - 00:11:19,710] do to get ahead. And I think just that you
+- [00:11:19,710 - 00:11:22,040] help others, it all comes back to you. You're focused
+- [00:11:22,040 - 00:11:23,869] on your career the whole time. It can be
+- [00:11:23,869 - 00:11:25,699] successful. It might not be successful. A lot of
+- [00:11:25,699 - 00:11:27,989] step on toes. So, my issue is ask what you
+- [00:11:27,989 - 00:11:30,280] can do to help others and always look for a situation
+- [00:11:30,280 - 00:11:32,400] where you can lift somebody else up. The more
+- [00:11:32,400 - 00:11:34,520] people see you lifting others up, the more people
+- [00:11:34,520 - 00:11:36,580] are going to lift you up. I'm not saying it's
+- [00:11:36,580 - 00:11:38,640] karma, but the more you are by yourself, the more
+- [00:11:38,640 - 00:11:40,530] you'll be by yourself. So, I think lift others up
+- [00:11:40,530 - 00:11:42,420] and really ask what you can do to help. Well,
+- [00:11:42,420 - 00:11:44,439] there you have it. There's our last episode of
+- [00:11:44,439 - 00:11:46,459] 10 questions. Make sure that you tune into the
+- [00:11:46,459 - 00:11:48,489] next one. Uncle Doug, thank you so much for joining
+- [00:11:48,489 - 00:11:50,520] us. Yeah, if you want to check out our next episode,
+- [00:11:50,939 - 00:11:51,819] be sure to tune in to...
+- [00:11:52,040 - 00:11:53,330] Our next episode of 10 questions
+- [00:11:53,330 - 00:11:54,620] on our Hard Knock YouTube channel.
