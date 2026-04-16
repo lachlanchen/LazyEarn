@@ -1,0 +1,241 @@
+# Transcript
+
+Source: lazyearn/school-of-hard-knocks/hard-knocks-interviews/115 - Asking Denver Millionaires How Much Money They Make [w1bpdHouHpI].webm
+
+- [00:00:00,000 - 00:00:01,120] What's the most amount of money that
+- [00:00:01,120 - 00:00:02,240] you ever made in a single year?
+- [00:00:02,320 - 00:00:03,020] Over $10 million.
+- [00:00:03,200 - 00:00:04,019] $1.4 million.
+- [00:00:04,440 - 00:00:05,340] $1.7 million.
+- [00:00:05,520 - 00:00:06,680] Last year I did $1.2 million.
+- [00:00:06,680 - 00:00:07,840] That was the most I made.
+- [00:00:07,940 - 00:00:09,980] The greatest amount of revenue that any of my
+- [00:00:09,980 - 00:00:12,020] companies has generated in a single year is $30 million.
+- [00:00:12,380 - 00:00:13,950] So we did $50 million in
+- [00:00:13,950 - 00:00:15,520] revenue in one of our e-commerce businesses.
+- [00:00:15,520 - 00:00:16,059] So it's $50.
+- [00:00:16,200 - 00:00:16,760] Yeah, $50 million.
+- [00:00:16,900 - 00:00:17,900] What's going on everyone? We
+- [00:00:17,900 - 00:00:18,900] just landed in Denver, Colorado,
+- [00:00:19,060 - 00:00:20,390] and today we're going to be
+- [00:00:20,390 - 00:00:21,720] asking Denver millionaires how they got rich.
+- [00:00:21,980 - 00:00:24,080] And what industry did you ultimately pursue a career in?
+- [00:00:24,120 - 00:00:25,420] So I was a pastor for 13 years.
+- [00:00:25,580 - 00:00:26,990] After occupational ministry now, I
+- [00:00:26,990 - 00:00:28,400] am a coach and consultant.
+- [00:00:28,400 - 00:00:29,610] I travel, I speak, and I
+- [00:00:29,610 - 00:00:30,820] sit on the board of eight companies.
+- [00:00:31,020 - 00:00:31,640] Internet marketing.
+- [00:00:31,779 - 00:00:32,460] Are you a business owner?
+- [00:00:32,680 - 00:00:33,199] Yes, sir.
+- [00:00:33,300 - 00:00:34,980] Digital marketing and also real estate.
+- [00:00:35,120 - 00:00:36,900] On the real estate side, Airbnb.
+- [00:00:37,379 - 00:00:39,069] And then on the digital marketing side,
+- [00:00:39,069 - 00:00:40,760] coaching people how to get started in Airbnb.
+- [00:00:41,000 - 00:00:43,020] So we have a fitness
+- [00:00:43,020 - 00:00:45,040] coaching company called Warrior Babe, warriorbabe.com.
+- [00:00:45,300 - 00:00:48,050] We have 50 coaches that
+- [00:00:48,050 - 00:00:50,800] all do one-on-one coaching with clients.
+- [00:00:51,080 - 00:00:52,820] I have a successful short-form content agency.
+- [00:00:53,080 - 00:00:54,700] We work with a lot of the huge influencers.
+- [00:00:54,900 - 00:00:57,000] We make close to 4,000 videos a month right now.
+- [00:00:57,000 - 00:00:57,630] If you were to go back
+- [00:00:57,630 - 00:00:58,260] to when you were not there,
+- [00:00:58,260 - 00:00:58,980] high school or college,
+- [00:00:59,080 - 00:01:01,059] and you're having a conversation with your 20-year-old self,
+- [00:01:01,140 - 00:01:02,230] what is the best piece of advice
+- [00:01:02,230 - 00:01:03,320] that you would tell your younger self?
+- [00:01:03,420 - 00:01:05,209] So what's funny about that is I don't know if
+- [00:01:05,209 - 00:01:07,000] the 20-year-old me would have taken any advice from me.
+- [00:01:07,080 - 00:01:08,920] 20-year-old me thought he had everything figured out.
+- [00:01:09,039 - 00:01:10,349] So I think if I would say
+- [00:01:10,349 - 00:01:11,660] anything, it would be take more time.
+- [00:01:11,780 - 00:01:12,920] Take more time to find yourself.
+- [00:01:13,080 - 00:01:15,060] I think we get so busy climbing other people's mountains,
+- [00:01:15,220 - 00:01:17,320] trying to define success based on what other people have,
+- [00:01:17,400 - 00:01:19,150] that we don't take the time to really fully articulate
+- [00:01:19,150 - 00:01:20,900] who it is that we want to be for ourselves.
+- [00:01:21,160 - 00:01:23,000] It's the same advice that is on my
+- [00:01:23,000 - 00:01:24,840] wall at my office, which is keep going.
+- [00:01:24,840 - 00:01:26,439] There will be times that
+- [00:01:26,439 - 00:01:28,039] you're going to want to stop.
+- [00:01:28,260 - 00:01:28,950] There's going to be times where
+- [00:01:28,950 - 00:01:29,640] you're going to want to quit.
+- [00:01:29,800 - 00:01:31,250] And those are the times where
+- [00:01:31,250 - 00:01:32,700] you have to really remind yourself that
+- [00:01:32,700 - 00:01:34,650] this is just a part of the process
+- [00:01:34,650 - 00:01:36,600] and you just need to keep moving forward.
+- [00:01:36,880 - 00:01:38,460] Focus on delayed gratification.
+- [00:01:38,700 - 00:01:40,040] I feel like when I first
+- [00:01:40,040 - 00:01:41,380] started out, I really wanted results immediately.
+- [00:01:41,560 - 00:01:42,450] And I took a lot of
+- [00:01:42,450 - 00:01:43,340] shortcuts to try to get there.
+- [00:01:43,420 - 00:01:45,500] Those shortcuts kind of show themselves later
+- [00:01:45,500 - 00:01:47,580] on and cause more problems than good.
+- [00:01:47,660 - 00:01:49,040] Building a brand that's going to
+- [00:01:49,040 - 00:01:50,420] last long term doesn't happen overnight.
+- [00:01:50,540 - 00:01:51,520] 100% learn sales.
+- [00:01:51,720 - 00:01:53,680] Become the absolute best person in sales.
+- [00:01:53,680 - 00:01:55,290] I think that is the
+- [00:01:55,290 - 00:01:56,900] greatest skill any individual can have.
+- [00:01:57,080 - 00:01:58,240] As long as you learn skills,
+- [00:01:58,360 - 00:01:59,500] you can go sell anything.
+- [00:01:59,600 - 00:02:01,750] Honestly, if I could go back, if I could start
+- [00:02:01,750 - 00:02:03,900] learning sales at like 14, 15, 16 years old, I would.
+- [00:02:04,000 - 00:02:05,270] The skill of sales, talking
+- [00:02:05,270 - 00:02:06,540] to strangers about buying things,
+- [00:02:06,540 - 00:02:08,340] really accelerated how like my ability
+- [00:02:08,340 - 00:02:10,139] to talk to people in life.
+- [00:02:10,199 - 00:02:12,020] And as you get older, you realize
+- [00:02:12,020 - 00:02:13,840] your ability to communicate is worth everything.
+- [00:02:13,940 - 00:02:14,740] It's made me so much
+- [00:02:14,740 - 00:02:15,540] money to know how to sell.
+- [00:02:15,760 - 00:02:17,250] What's your best advice to
+- [00:02:17,250 - 00:02:18,740] anybody starting a business in 2023?
+- [00:02:18,760 - 00:02:20,300] Well, focus, number one, because
+- [00:02:20,300 - 00:02:21,840] I think Internet marketers like ourselves,
+- [00:02:21,840 - 00:02:23,940] we always get like kind of distracted
+- [00:02:23,940 - 00:02:26,040] with shiny object syndrome all the time.
+- [00:02:26,040 - 00:02:28,260] What's the next best product I can sell or whatever?
+- [00:02:28,359 - 00:02:30,579] Focus on one specific product, get really
+- [00:02:30,579 - 00:02:32,799] good at it and go for it.
+- [00:02:32,859 - 00:02:34,040] Jump in, dive in.
+- [00:02:34,040 - 00:02:36,410] I think too many people spend too much time
+- [00:02:36,410 - 00:02:38,780] alone and just kind of like dabbling in things.
+- [00:02:38,840 - 00:02:41,270] So new entrepreneurs, I'd say you're going to fail in the beginning,
+- [00:02:41,270 - 00:02:43,700] but it's all right because that's how anything new is going to be.
+- [00:02:43,700 - 00:02:45,440] Whether you go get a new job, you go get
+- [00:02:45,440 - 00:02:47,180] a new job at Planet Fitness or a pizza shop.
+- [00:02:47,180 - 00:02:50,280] Everything takes time and you have to learn something and you have to go
+- [00:02:50,280 - 00:02:53,380] through those experiences in order to see the success that you want to see.
+- [00:02:53,380 - 00:02:54,660] So you're going to fail at something.
+- [00:02:54,720 - 00:02:56,220] So you may as well just continuously
+- [00:02:56,220 - 00:02:57,720] fail and have the failure be worthwhile.
+- [00:02:57,720 - 00:02:58,220] Figure out what you're doing.
+- [00:02:58,220 - 00:02:59,359] What your six month goal is.
+- [00:02:59,420 - 00:03:00,380] What's your one year goal?
+- [00:03:00,420 - 00:03:01,520] What's your five year goal?
+- [00:03:01,680 - 00:03:03,120] And reward yourself along the way.
+- [00:03:03,180 - 00:03:05,770] So whether it's like going out to a fancy dinner
+- [00:03:05,770 - 00:03:08,360] or going on a trip along the way, just reward yourself.
+- [00:03:08,420 - 00:03:10,320] If your bank account hits zero tomorrow, what would be
+- [00:03:10,320 - 00:03:12,220] the first step that you would take to become wealthy again?
+- [00:03:12,380 - 00:03:13,100] Start a business.
+- [00:03:13,160 - 00:03:13,900] I have skills.
+- [00:03:13,940 - 00:03:14,620] I have knowledge.
+- [00:03:14,660 - 00:03:15,380] I have expertise.
+- [00:03:15,460 - 00:03:16,540] I could just start a company.
+- [00:03:16,720 - 00:03:21,670] Probably get financing because if there's nothing in the bank, then you can't really run a
+- [00:03:21,670 - 00:03:26,620] business and then figure out how to leverage that financing to turn that into a profit.
+- [00:03:26,680 - 00:03:27,780] If I'm starting off at zero.
+- [00:03:27,980 - 00:03:28,180] I'd say zero.
+- [00:03:28,260 - 00:03:29,420] I'd say I just lean on my skills.
+- [00:03:29,460 - 00:03:34,030] So like the skills I've developed so far are definitely marketing, branding, and I would probably start with the
+- [00:03:34,030 - 00:03:38,600] service business just because like you can always package up your skills and sell it to someone who needs it.
+- [00:03:38,720 - 00:03:40,550] If you can fill any gap in any
+- [00:03:40,550 - 00:03:42,380] company, there's room for you to make money from.
+- [00:03:42,420 - 00:03:44,520] As long as you can solve a problem, have a skill
+- [00:03:44,520 - 00:03:46,620] that's unique, there's always room for a business to be going down.
+- [00:03:46,660 - 00:03:48,780] If your bank account hits zero tomorrow, what would be the
+- [00:03:48,780 - 00:03:50,900] first step that you would take to become financially free again?
+- [00:03:50,940 - 00:03:52,840] I would throw a party because
+- [00:03:52,840 - 00:03:54,740] your network is your net worth.
+- [00:03:54,780 - 00:03:56,350] So you want to throw a party and you
+- [00:03:56,350 - 00:03:57,920] want to see what are the biggest issues that
+- [00:03:57,920 - 00:03:59,389] people are having problems with
+- [00:03:59,389 - 00:04:00,859] and then you find the trends.
+- [00:04:00,899 - 00:04:02,299] Is it a problem with sales?
+- [00:04:02,339 - 00:04:04,540] Is it a problem with customer service?
+- [00:04:04,579 - 00:04:06,709] Is it a problem with team members on
+- [00:04:06,709 - 00:04:08,839] hiring the right people or maybe company culture?
+- [00:04:08,859 - 00:04:09,079] Right.
+- [00:04:09,100 - 00:04:11,630] You want to find whatever those issues are and then you create
+- [00:04:11,630 - 00:04:14,160] a product for that based on whatever that party came out with.
+- [00:04:14,299 - 00:04:16,789] I would call all of my friends that have high ticket
+- [00:04:16,789 - 00:04:19,279] offers and I would say, I'm going to sell for you.
+- [00:04:19,360 - 00:04:20,430] Give me a lead list and give
+- [00:04:20,430 - 00:04:21,500] me to the end of the week.
+- [00:04:21,620 - 00:04:22,700] What has been the importance of
+- [00:04:22,700 - 00:04:23,780] surrounding yourself with the right people?
+- [00:04:23,840 - 00:04:25,760] I mean, I wouldn't, I would not be where
+- [00:04:25,760 - 00:04:27,680] I'm at without the quality of relationships that I have
+- [00:04:27,680 - 00:04:27,840] in my life.
+- [00:04:27,840 - 00:04:27,900] Yeah.
+- [00:04:27,920 - 00:04:32,440] The men specifically that I have that hold me accountable to who I say that I am, that hold me accountable to the vision
+- [00:04:32,440 - 00:04:36,960] that I have for my life, that hold me accountable to the vision that I have as a family man and as a dad.
+- [00:04:37,140 - 00:04:40,130] The way that we have fun together, the way that iron sharpens iron, the way
+- [00:04:40,130 - 00:04:43,120] that we are constantly in competition with one another in really fun and healthy ways.
+- [00:04:43,260 - 00:04:44,080] That is everything.
+- [00:04:44,420 - 00:04:46,460] A man is not to be an island unto himself.
+- [00:04:46,720 - 00:04:51,440] And so when you can surround yourself with like-minded individuals that want the same things, that are driven towards the
+- [00:04:51,440 - 00:04:56,160] same things, that have the same values and ethics that you have, it just pushes the needle so much faster.
+- [00:04:56,160 - 00:04:57,720] And it's more fun.
+- [00:04:57,720 - 00:04:57,920] Yeah.
+- [00:04:57,960 - 00:05:01,800] You never know what's possible until you're sitting on a table with a group of people and
+- [00:05:01,800 - 00:05:05,640] they're telling you the numbers that they're doing, how their life changed because nobody sees that it's real.
+- [00:05:05,780 - 00:05:07,560] But when you get into a room like that and you network
+- [00:05:07,560 - 00:05:09,340] with a bunch of people, you can actually be like, okay, cool.
+- [00:05:09,400 - 00:05:10,480] Like this is actually attainable.
+- [00:05:10,520 - 00:05:12,020] I can go and do this myself as well.
+- [00:05:12,080 - 00:05:14,280] So it expands your mind and expands your belief.
+- [00:05:14,480 - 00:05:16,480] Basically, I started like, I always used to
+- [00:05:16,480 - 00:05:18,480] get like maybe like to like a million dollars.
+- [00:05:18,560 - 00:05:19,480] Most of my business is
+- [00:05:19,480 - 00:05:20,400] always seven figures, never anything more.
+- [00:05:20,560 - 00:05:21,920] And as soon as we joined a
+- [00:05:21,920 - 00:05:23,280] mastermind, it was a big jump for us.
+- [00:05:23,280 - 00:05:25,280] Next year, we did $10 million because we
+- [00:05:25,280 - 00:05:27,280] were able to surround ourselves with people that were.
+- [00:05:27,720 - 00:05:29,260] Just already there, right?
+- [00:05:29,320 - 00:05:30,720] We were able to get advice so easily
+- [00:05:30,720 - 00:05:32,120] and we were just able to see the potential.
+- [00:05:32,280 - 00:05:34,050] We were able to eliminate so many
+- [00:05:34,050 - 00:05:35,820] of those like self-limiting beliefs that we had.
+- [00:05:36,060 - 00:05:38,020] What has been your secret to sales throughout your career?
+- [00:05:38,160 - 00:05:39,000] Be okay with rejection.
+- [00:05:39,180 - 00:05:41,360] Too many people are afraid of rejection.
+- [00:05:41,580 - 00:05:43,220] And I think rejection is the greatest
+- [00:05:43,220 - 00:05:44,860] thing that we can have and learn from.
+- [00:05:45,000 - 00:05:46,450] So if we're okay with
+- [00:05:46,450 - 00:05:47,900] getting rejected, we can become better.
+- [00:05:48,000 - 00:05:51,350] We can grow from those things and we can become stronger in whatever
+- [00:05:51,350 - 00:05:54,700] our pitch is or who we are and what we're selling, what we're doing.
+- [00:05:54,780 - 00:05:56,200] Just continue to keep pushing forward.
+- [00:05:56,200 - 00:05:57,700] And I would say get on as many calls.
+- [00:05:57,820 - 00:06:00,270] As many sales calls as you can, because when
+- [00:06:00,270 - 00:06:02,720] you do that, you're just taking a lot of reps.
+- [00:06:02,720 - 00:06:03,920] I come from a sports background.
+- [00:06:03,920 - 00:06:06,320] I understand the benefit of taking a lot of reps.
+- [00:06:06,320 - 00:06:07,970] So if I were to go back, I would
+- [00:06:07,970 - 00:06:09,620] just take more and more sales calls every day.
+- [00:06:09,720 - 00:06:11,520] I think leading with results for one.
+- [00:06:11,520 - 00:06:12,620] Like, you know, I have
+- [00:06:12,620 - 00:06:13,720] a successful short form content agency.
+- [00:06:13,720 - 00:06:15,620] We work with a lot of the huge influencers.
+- [00:06:15,620 - 00:06:17,820] We make close to 4,000 videos a month right now.
+- [00:06:17,820 - 00:06:19,520] The only way I've been able to do that and
+- [00:06:19,520 - 00:06:21,220] work with the biggest people is I lead with results.
+- [00:06:21,220 - 00:06:23,120] And if I don't get them results, I'm not afraid
+- [00:06:23,120 - 00:06:25,020] to have the conversation of like, you probably shouldn't work together.
+- [00:06:25,020 - 00:06:26,270] You know, how can someone really scale
+- [00:06:26,270 - 00:06:27,520] and grow a business in today's world?
+- [00:06:27,720 - 00:06:28,620] Build a personal brand.
+- [00:06:28,620 - 00:06:29,520] Develop content.
+- [00:06:29,520 - 00:06:30,820] Be comfortable speaking on camera.
+- [00:06:30,820 - 00:06:31,920] If you're not, keep doing it.
+- [00:06:31,920 - 00:06:32,620] It'll get easier.
+- [00:06:32,620 - 00:06:35,920] So developing content and being consistent with your industry and
+- [00:06:35,920 - 00:06:39,220] continuously putting out free value to your audience around your business.
+- [00:06:39,220 - 00:06:40,020] Reoccurring revenue.
+- [00:06:40,520 - 00:06:43,670] When we have reoccurring revenue in our business, we're
+- [00:06:43,670 - 00:06:46,820] not necessarily worried about our cost per acquisition going up.
+- [00:06:46,820 - 00:06:48,820] In our business, sometimes we'll actually go
+- [00:06:48,820 - 00:06:50,820] in the red to acquire a customer.
+- [00:06:50,820 - 00:06:54,020] We can outspend our competition because we're not looking to
+- [00:06:54,020 - 00:06:57,220] make that initial profit because we know our lifetime value.
+- [00:06:57,220 - 00:06:57,620] It's just something.
+- [00:06:57,620 - 00:06:58,520] Numbers game.
+- [00:06:58,520 - 00:06:59,720] Reoccurring revenue has been an
+- [00:06:59,720 - 00:07:00,920] absolute game changer in our business.
+- [00:07:00,920 - 00:07:04,070] Be sure to leave a like on the video and subscribe for tons of amazing
+- [00:07:04,070 - 00:07:07,220] content coming soon and click here to watch us asking Houston millionaires how they became wealthy.
