@@ -110,7 +110,7 @@ The lecture then turns the bookkeeping into geometry. If we plot standard deviat
 
 \begin{figure}[h]
 \centering
-\begin{tikzpicture}[x=0.85cm,y=0.55cm]
+\begin{tikzpicture}[x=0.85cm,y=0.55cm,scale=0.95,transform shape]
 \draw[->] (0,0) -- (10,0) node[below] {$\sigma_p$};
 \draw[->] (0,-4) -- (0,8) node[left] {$E[r_p]$};
 
@@ -138,7 +138,7 @@ The lecture then turns the bookkeeping into geometry. If we plot standard deviat
 \node[left] at (0,7) {$35\%$};
 \node[left] at (0,-2) {$-25\%$};
 \end{tikzpicture}
-\caption{Transcript-based reconstruction of the one-risky-one-riskless opportunity set.}
+\caption{Reconstruction of the one-risky-one-riskless opportunity set.}
 \end{figure}
 
 This is where the lecture makes its first big philosophical move. If a client asks for \(100\%\) expected return, one can produce it by leverage. That does not make the portfolio manager a genius. It only means that the menu is already wide. There is no single best investment here, only a tradeoff between return and standard deviation. That is why the lecture says that before we have multiple risky assets, we have not yet fully gotten into Markowitz.
@@ -179,15 +179,15 @@ Substituting the solved expression for \(x_1\) produces the visible frontier for
 \right)^2
 \sigma_2^2
 +
-2
-\frac{(r_p-r_2)(r_1-r_p)}{(r_1-r_2)^2}
-\sigma_{12}.
+\frac{2(r_p-r_2)(r_1-r_p)}{(r_1-r_2)^2}\\
+&\qquad \times \sigma_{12}.
 \end{align}
 
 This is the lecture's first genuine hyperbola. The covariance term is not an afterthought. It is the reason the curve bends inward. If the two assets do not move perfectly together, then combining them can reduce risk in a way that no single-asset comparison could have revealed.
 
 \begin{figure}[h]
 \centering
+\resizebox{\linewidth}{!}{%
 \begin{tikzpicture}[x=0.48cm,y=0.55cm]
 \draw[->] (0,0) -- (22,0) node[below] {$\sigma_p$};
 \draw[->] (0,0) -- (0,10) node[left] {$E[r_p]$};
@@ -208,7 +208,8 @@ This is the lecture's first genuine hyperbola. The covariance term is not an aft
 \draw[dotted] (7.0,0) -- (7.0,5.4);
 \node[below] at (7.0,0) {$\sigma_{\min}$};
 \node[above right] at (13.2,7.8) {efficient frontier};
-\end{tikzpicture}
+\end{tikzpicture}%
+}
 \caption{Simplified redraw of the two-asset opportunity set. The efficient frontier is the upper branch above the minimum-variance point.}
 \end{figure}
 
@@ -246,7 +247,7 @@ x_3^2 \sigma_3^2
 +
 2x_1x_3 \sigma_{13}
 +
-2x_2x_3 \sigma_{23}.
+2x_2 x_3 \sigma_{23}.
 \end{align}
 The lecture's chart should then be read as follows: for each target expected return, solve for the minimum-variance mixture of stocks, bonds, and oil. The resulting set of minimizing portfolios traces a new frontier.
 
@@ -264,8 +265,9 @@ The visible labels on the slide support the narrative. We can still see benchmar
 
 \begin{figure}[h]
 \centering
+\resizebox{\linewidth}{!}{%
 \begin{tikzpicture}[x=0.62cm,y=0.62cm]
-\draw[->] (5,8) -- (20.8,8) node[below] {Standard Deviation of Annual Return};
+\draw[->] (5,8) -- (20.8,8) node[below] {Std.\ Dev.\ of Annual Return};
 \draw[->] (5,8) -- (5,16.6) node[left] {Expected Annual Return};
 
 \foreach \x in {5,10,15,20}
@@ -299,8 +301,9 @@ The visible labels on the slide support the narrative. We can still see benchmar
 
 \node[right] at (17.0,14.8) {With Oil};
 \node[right] at (17.0,12.7) {W/O Oil};
-\end{tikzpicture}
-\caption{Simplified redraw of the frontier comparison, preserving the lecture's truncated horizontal axis beginning at \(5\%\).}
+\end{tikzpicture}%
+}
+\caption{Simplified redraw of the frontier comparison, preserving the truncated horizontal axis beginning at \(5\%\).}
 \end{figure}
 
 The lecture then turns back from mathematics to institutions. Norway is described as having far too much implicit oil exposure, not because its statisticians cannot do the arithmetic, but because oil is politically and symbolically charged. The lecturer's argument is that Norway need not literally sell the oil in the ground in order to diversify; it could reduce exposure with derivative transactions, for example by shorting oil futures. Yet politics makes such hedging difficult. Mexico appears as a similar example. The lesson is that correct geometry does not automatically become actual policy.
