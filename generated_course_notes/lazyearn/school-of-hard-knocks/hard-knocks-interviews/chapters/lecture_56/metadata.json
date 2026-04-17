@@ -1,0 +1,24 @@
+{
+  "course_rel": "lazyearn/school-of-hard-knocks/hard-knocks-interviews",
+  "transcript_rel": "lazyearn/school-of-hard-knocks/hard-knocks-interviews/056 - He Made $7M\u29f8Year And Paid Zero Taxes! [22CjsRG0sTc].md",
+  "video_rel": "lazyearn/school-of-hard-knocks/hard-knocks-interviews/056 - He Made $7M\u29f8Year And Paid Zero Taxes! [22CjsRG0sTc].webm",
+  "lecture_number": 56,
+  "lecture_slug": "lecture_56",
+  "lecture_title": "He Made $7M\u29f8Year And Paid Zero Taxes!",
+  "assets": [
+    {
+      "name": "lecture_56_figure_03.png",
+      "timestamp_seconds": 933.635,
+      "timestamp_hhmmss": "00:15:33.635",
+      "source_candidate": "lecture_56_window_06_candidate_04_001533635.png",
+      "recommended_use": "screenshot_plus_equation",
+      "rationale": "This is the best frame because the whiteboard content is at its most complete and readable in the sequence. It shows the key handwritten elements together: a visible \"$50,000\" figure, the note \"STR = 7 days or less,\" the requirement \"Manage for 100 hrs,\" and the \"Cost segregation study\" line, while the subtitle preserves the spoken numerical payoff that the example equals $100,000. Earlier candidates are slightly more occluded or capture a less finished board state.",
+      "subtitle_excerpt": "of that would equal a hundred thousand",
+      "segment_start_seconds": 931.84,
+      "segment_start_hhmmss": "00:15:31.840",
+      "segment_end_seconds": 933.88,
+      "segment_end_hhmmss": "00:15:33.880",
+      "caption_hint": "cost-segregation and STR-hour example"
+    }
+  ]
+}
