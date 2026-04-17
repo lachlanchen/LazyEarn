@@ -34,10 +34,14 @@
   \KOMAoptions{parskip=half}}
 \makeatother
 \usepackage{xcolor}
+\usepackage{graphicx}
+\usepackage{tikz}
 \IfFileExists{xurl.sty}{\usepackage{xurl}}{} % add URL line breaks if available
 \IfFileExists{bookmark.sty}{\usepackage{bookmark}}{\usepackage{hyperref}}
 \hypersetup{
   hidelinks,
+  pdftitle={High-Growth U.S. Stocks},
+  pdfauthor={LazyingArt LLC},
   pdfcreator={LaTeX via pandoc}}
 \urlstyle{same} % disable monospaced font for URLs
 \usepackage{longtable,booktabs,array}
@@ -59,11 +63,51 @@
 \fi
 
 \title{High-Growth U.S. Stocks}
-\author{LayzingArt}
+\author{LazyingArt LLC}
 \date{}
 
 \begin{document}
-\maketitle
+\hypersetup{pageanchor=false}
+\begin{titlepage}
+\thispagestyle{empty}
+\begin{tikzpicture}[remember picture,overlay]
+  \node[anchor=south west,inner sep=0] at (current page.south west) {%
+    \includegraphics[width=\paperwidth,height=\paperheight]{cover-art.png}%
+  };
+  \node[
+    anchor=north west,
+    align=left,
+    text width=0.72\paperwidth,
+    fill=white,
+    fill opacity=0.86,
+    text opacity=1,
+    rounded corners=6pt,
+    inner sep=14pt
+  ] at ([xshift=0.08\paperwidth,yshift=-0.09\paperheight]current page.north west) {%
+    {\fontsize{28}{31}\selectfont\bfseries\color{black!88} High-Growth U.S. Stocks\par}
+    \vspace{0.8em}
+    {\Large\color{black!72} AI, biotech, semiconductors, clean energy, and software\par}
+  };
+  \node[
+    anchor=south west,
+    align=left,
+    text width=0.62\paperwidth,
+    fill=white,
+    fill opacity=0.84,
+    text opacity=1,
+    rounded corners=6pt,
+    inner sep=12pt
+  ] at ([xshift=0.08\paperwidth,yshift=0.08\paperheight]current page.south west) {%
+    {\normalsize\color{black!82} Investment research dossier\par}
+    \vspace{0.35em}
+    {\small\color{black!72} Written and published by \href{https://lazying.art}{LazyingArt LLC}.\par}
+    {\small\color{black!72} November 2025\par}
+  };
+\end{tikzpicture}
+\mbox{}
+\end{titlepage}
+\hypersetup{pageanchor=true}
+\setcounter{page}{1}
 
 \hypertarget{high-growth-u.s.-stocks-in-ai-biotech-semiconductors-clean-energy-software}{%
 \section{High-Growth U.S. Stocks in AI, Biotech, Semiconductors, Clean
@@ -343,8 +387,8 @@ Rank & Company & Current Price & Avg Target & Potential Upside \\
 5 & Vertex (VRTX) & \$434.52 & \$482.53 & \textbf{+11.0\%} \\
 6 & Palantir (PLTR) & \$172.14 & \$187.87 & \textbf{+9.1\%} \\
 7 & Snowflake (SNOW) & \$256.92 & \$270.02 & \textbf{+5.1\%} \\
-8 & AMD (AMD) & \$247.96 & \$240.03 & \textbf{−3.2\%} \\
-9 & Tesla (TSLA) & \$401.99 & \$382.54 & \textbf{−4.8\%} \\
+8 & AMD (AMD) & \$247.96 & \$240.03 & \textbf{-3.2\%} \\
+9 & Tesla (TSLA) & \$401.99 & \$382.54 & \textbf{-4.8\%} \\
 \bottomrule
 \end{longtable}
 

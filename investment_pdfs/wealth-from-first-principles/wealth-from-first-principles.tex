@@ -5,6 +5,7 @@
 \geometry{paper=a4paper, margin=1in}
 \usepackage{xcolor}
 \usepackage{graphicx}
+\usepackage{tikz}
 \usepackage{booktabs}
 \usepackage{tabularx}
 \usepackage{array}
@@ -88,22 +89,57 @@
 \frontmatter
 
 \begin{titlepage}
-\pagecolor{paper}
-\color{ink}
-\vspace*{2.8cm}
-{\sffamily\Huge\bfseries Wealth From First Principles\par}
-\vspace{0.4cm}
-{\Large A practical field guide to money, value, ownership, and financial independence\par}
-\vspace{1.4cm}
-\begin{signalbox}
-\textbf{Core thesis}\par
-Money is a claim on resources. Wealth is durable control over assets, cash flow, capabilities, and time. Most lasting wealth comes from ownership, compounding, and staying in the game long enough for good decisions to matter.
-\end{signalbox}
-\vfill
-{\large LazyingArt LLC\par}
-{\large April 2026\par}
+\thispagestyle{empty}
+\begin{tikzpicture}[remember picture,overlay]
+  \node[anchor=south west,inner sep=0] at (current page.south west) {%
+    \includegraphics[width=\paperwidth,height=\paperheight]{cover-art.png}%
+  };
+  \node[
+    anchor=north west,
+    align=left,
+    text width=0.7\paperwidth,
+    fill=white,
+    fill opacity=0.86,
+    text opacity=1,
+    rounded corners=6pt,
+    inner sep=14pt
+  ] at ([xshift=0.08\paperwidth,yshift=-0.09\paperheight]current page.north west) {%
+    {\fontsize{30}{33}\selectfont\sffamily\bfseries\color{ink} Wealth From\\First Principles\par}
+    \vspace{0.85em}
+    {\large\color{black!72} A practical field guide to money, value, ownership, and financial independence\par}
+  };
+  \node[
+    anchor=south west,
+    align=left,
+    text width=0.58\paperwidth,
+    fill=white,
+    fill opacity=0.88,
+    text opacity=1,
+    rounded corners=6pt,
+    inner sep=12pt
+  ] at ([xshift=0.08\paperwidth,yshift=0.19\paperheight]current page.south west) {%
+    {\normalsize\bfseries\color{ink} Core thesis\par}
+    \vspace{0.35em}
+    {\small\color{black!78} Money is a claim on resources. Wealth is durable control over assets, cash flow, capabilities, and time. Most lasting wealth comes from ownership, compounding, and staying in the game long enough for good decisions to matter.\par}
+  };
+  \node[
+    anchor=south west,
+    align=left,
+    text width=0.62\paperwidth,
+    fill=white,
+    fill opacity=0.82,
+    text opacity=1,
+    rounded corners=6pt,
+    inner sep=12pt
+  ] at ([xshift=0.08\paperwidth,yshift=0.08\paperheight]current page.south west) {%
+    {\normalsize\color{black!82} Research edition\par}
+    \vspace{0.35em}
+    {\small\color{black!72} Written and published by \href{https://lazying.art}{LazyingArt LLC}.\par}
+    {\small\color{black!72} April 2026\par}
+  };
+\end{tikzpicture}
+\mbox{}
 \end{titlepage}
-\nopagecolor
 
 \tableofcontents
 
