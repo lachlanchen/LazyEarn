@@ -25,6 +25,7 @@ Risk enters at once. Anything large or important that we do is uncertain. That i
 
 \begin{figure}[h]
 \centering
+\resizebox{0.92\linewidth}{!}{%
 \begin{tikzpicture}[>=stealth, every node/.style={font=\small}]
 \node[draw, rectangle, minimum width=3cm, minimum height=1cm, align=center] (f) at (0,0) {Finance};
 \node[draw, rectangle, minimum width=3.6cm, minimum height=1cm, align=center] (a) at (-4,-2) {Allocation across\\time and uncertainty};
@@ -35,8 +36,9 @@ Risk enters at once. Anything large or important that we do is uncertain. That i
 \draw[->] (f) -- (i);
 \draw[->] (f) -- (v);
 \draw[->] (f) -- (r);
-\end{tikzpicture}
-\caption{An explanatory reconstruction of Shiller's opening picture of finance as a social technology.}
+\end{tikzpicture}%
+}
+\caption{Reconstruction of Shiller's opening picture of finance as a social technology.}
 \end{figure}
 
 That large opening claim is not left hanging. Shiller's next move is to say how such a subject must be studied.
@@ -84,9 +86,10 @@ which is just a formal way of saying that many independent fluctuations tend to 
 
 At this point the lecture makes its crucial turn. The attractive theory becomes dangerous when it is trusted too much. The financial crisis is narrated as a failure of the independence assumption. Portfolio theory had encouraged people to think that perhaps one investment might go bad, but not all of them together. The crisis showed that this was false. In the language above, the neglected covariance terms return precisely in the bad states:
 \begin{equation}
-\operatorname{Cov}(X_i,X_j)>0 \quad \text{in crisis states}
-\quad \Longrightarrow \quad
-\text{losses do not average out.}
+\begin{aligned}
+\operatorname{Cov}(X_i,X_j) &>0 \quad \text{in crisis states} \\
+&\Longrightarrow \text{losses do not average out.}
+\end{aligned}
 \end{equation}
 
 This is all Shiller needs at this stage. He does not derive modern portfolio theory in full. He isolates its intuitive core, shows why it is attractive, and then shows why overconfidence in that core contributed to a worldwide crisis. The Great Depression enters here as the historical benchmark: by 1933 U.S.\ unemployment was about \(25\%\), and the recent crisis is presented as a near miss rather than a trivial disturbance.
@@ -109,7 +112,9 @@ The lecture reinforces this with an occupational comparison reconstructed from a
 
 \begin{table}[h]
 \centering
-\begin{tabular}{|l|r|}
+\begingroup
+\setlength{\tabcolsep}{4pt}
+\begin{tabular}{|p{0.62\linewidth}|r|}
 \hline
 Occupation mentioned in the lecture & Approximate magnitude \\
 \hline
@@ -119,7 +124,8 @@ Personal financial advisors & \(250{,}000\) \\
 Economists & \(20{,}000\) \\
 \hline
 \end{tabular}
-\caption{Approximate occupational magnitudes emphasized in the lecture, reconstructed from Shiller's spoken Bureau of Labor Statistics comparison.}
+\endgroup
+\caption{Approximate occupational magnitudes cited in the lecture.}
 \end{table}
 
 The deeper point is larger than employment statistics. Finance should be understood as a general-purpose technology for action. If we want to organize households, firms, charities, cities, universities, or long-term projects, we cannot remain mystified by the financial language in which those things are arranged. That broad claim of usefulness now gives way to a harder question, because finance is also associated with great fortunes.
@@ -162,9 +168,11 @@ The outside speakers are not mere course logistics. They are embodiments of the 
 
 David Swensen is the clearest case. The lecture gives an explicit quantitative marker for the Yale endowment:
 \begin{equation}
-E_{1985}<\$1\text{ billion},\qquad
-E_{2008}=\$22.9\text{ billion},\qquad
-E_{2010.06}=\$16.7\text{ billion}.
+\begin{aligned}
+E_{1985} &< \$1\text{ billion}, \\
+E_{2008} &= \$22.9\text{ billion}, \\
+E_{2010.06} &= \$16.7\text{ billion}.
+\end{aligned}
 \end{equation}
 These numbers are used for more than admiration. They show the scale on which financial judgment can transform an institution. Swensen could have taken larger private compensation on Wall Street; the lecture presents his continued service at Yale as an example of finance directed toward a public purpose.
 
