@@ -1,0 +1,24 @@
+{
+  "course_rel": "lazyearn/school-of-hard-knocks/hard-knocks-interviews",
+  "transcript_rel": "lazyearn/school-of-hard-knocks/hard-knocks-interviews/043 - Asking Texan Billionaires How They Got Rich! [uMXIsDecZ3s].md",
+  "video_rel": "lazyearn/school-of-hard-knocks/hard-knocks-interviews/043 - Asking Texan Billionaires How They Got Rich! [uMXIsDecZ3s].webm",
+  "lecture_number": 43,
+  "lecture_slug": "lecture_43",
+  "lecture_title": "Asking Texan Billionaires How They Got Rich!",
+  "assets": [
+    {
+      "name": "lecture_43_figure_02.png",
+      "timestamp_seconds": 472.197,
+      "timestamp_hhmmss": "00:07:52.197",
+      "source_candidate": "lecture_43_window_04_candidate_02_000752197.png",
+      "recommended_use": "screenshot_plus_tikz",
+      "rationale": "This is the clearest and most complete frame of the on-screen production-team overlay. It cleanly shows the host centered with the School of Hard Knocks logo and the role icons for people, editing, and camera work, without the fade-out present in candidate 4 or the less complete icon set in candidate 1. It is the most useful frame for documenting the host's explanation of the staff stack behind the channel.",
+      "subtitle_excerpt": "editors, my videographers, to even the strategists.",
+      "segment_start_seconds": 471.35,
+      "segment_start_hhmmss": "00:07:51.350",
+      "segment_end_seconds": 473.58,
+      "segment_end_hhmmss": "00:07:53.580",
+      "caption_hint": "host names his production team"
+    }
+  ]
+}
