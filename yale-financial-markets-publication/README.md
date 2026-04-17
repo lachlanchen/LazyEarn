@@ -9,6 +9,8 @@ This folder exists at the repo root on purpose. It is the direct publication sur
 ## What is here
 
 - [yale-financial-markets.pdf](yale-financial-markets.pdf): the complete course book in one file
+- [yale-financial-markets-pocket-1.0x.pdf](yale-financial-markets-pocket-1.0x.pdf): pocket edition with the standard compact tuning
+- [yale-financial-markets-pocket-1.2x.pdf](yale-financial-markets-pocket-1.2x.pdf): pocket edition with the 1.2x readability preset
 - [lecture_01.pdf](lecture_01.pdf) to [lecture_23.pdf](lecture_23.pdf): one PDF per lecture
 - [cover-art.png](cover-art.png): the current publication cover art
 
@@ -16,8 +18,20 @@ This folder exists at the repo root on purpose. It is the direct publication sur
 
 - [Inline reader](index.html)
 - [Full course PDF](yale-financial-markets.pdf)
+- [Pocket PDF 1.0x](yale-financial-markets-pocket-1.0x.pdf)
+- [Pocket PDF 1.2x](yale-financial-markets-pocket-1.2x.pdf)
 - [Generated source tree](../generated_course_notes/lazyearn/yale-financial-markets/)
+- [all_notes full course](../all_notes/yale-financial-markets.pdf)
+- [all_notes pocket 1.0x](../all_notes/pocket_books/yale-financial-markets_pocket.pdf)
+- [all_notes pocket 1.2x](../all_notes/pocket_books_1_2x/yale-financial-markets_pocket_1_2x.pdf)
 - [Website viewer](https://earn.lazying.art/pdf-viewer.html#yale-financial-markets-notes)
+
+## Pocket editions
+
+These pocket exports come from the shared `Video2Book` pocket layout pipeline. They keep the wrapped running-header behavior, preserve the book-like chapter openings, and use the compact export tuning rather than a separate handwritten TeX branch.
+
+- `1.0x` pocket uses the standard compact preset
+- `1.2x` pocket uses the larger readability preset
 
 ## Publication note
 
