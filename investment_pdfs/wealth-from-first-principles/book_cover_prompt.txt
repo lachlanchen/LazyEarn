@@ -1,0 +1,14 @@
+Design a polished front-cover image for a serious nonfiction book titled "Wealth From First Principles".
+This should feel like a real bookstore-ready cover, not a poster, slide, thumbnail, or social graphic.
+Render a flat front-cover artwork only, not a photographed book, not a 3D mockup, and not a product render.
+Portrait composition with aspect ratio 2:3.
+Overall tone: rigorous, calm, elegant, editorial, and intellectually serious with a Japanese minimalist sensibility.
+Use a restrained palette of warm paper cream, soft charcoal, deep indigo, muted slate, and one small vermilion accent.
+Build the image from disciplined abstract forms that suggest money, debt, ownership, compounding, institutional structure, and real-world constraints without using literal currency symbols.
+Use sparse geometric fields, measured flow lines, quiet balance-sheet-like blocks, subtle arc structures, and one or two exact markers that suggest durable control rather than speculation.
+No skyline montage, no coins, no banknotes, no businessmen, no handshake imagery, no piggy bank, no clutter, and no busy infographic collage.
+Leave a large clean typographic field in the upper portion for title and subtitle overlay.
+If any lines or marks are used, they must be sparse, balanced, and exact, with strong negative space and no messy linework.
+Do not render any title, subtitle, author name, logo, seal text, numerals, letters, or readable typography inside the image.
+The image should contain only abstract visual forms and empty editorial space for later overlay text.
+Front cover only. No spine. No back cover. No watermark. No fake readable text inside the art itself.
