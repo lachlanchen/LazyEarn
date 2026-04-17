@@ -1,147 +1,139 @@
 # Math Bank
 ## Core Equations
-- [transcript-backed] $T \to R$  
-  with $T=\text{attention}$ and $R=\text{revenue}$.
+No [visible] equations survive for this lecture; all items below are transcript-backed relations or cautious editorial reconstructions.
 
-- [transcript-backed] $\text{Goal} := \text{Objective} + \text{Deadline}$.
-
-- [transcript-backed] $\text{Intention} := \{x : x \text{ moves the needle in your favor}\}$.
-
-- [transcript-backed] $\text{Distraction} := \{x : x \text{ does not move the needle in your favor}\}$.
-
-- [transcript-backed] $\text{Solve}(\text{their problem}) \Rightarrow \text{Solve}(\text{your money problem})$.
-
-- [transcript-backed] $\$1 \to \$10 \to \$100 \to \$1000$  
-  before spending the original dollar.
-
-- [transcript-backed] $Y \leftarrow A$  
-  with $Y=\text{income}$ and $A=\text{assets}$, matching “income follows assets.”
-
-- [transcript-backed] $E \lesssim 0.1\,Y$  
-  as the stated survival heuristic for living expenses $E$ relative to income or revenue $Y$.
-
-- [transcript-backed] $\text{WealthLever}(t)=\begin{cases}
-\text{land}, & t\in[\text{beginning of time},\text{mid-1700s}]\\
-\text{machines}, & t\in[\text{mid-1700s},\text{mid-1900s}]\\
-\text{outlets}, & t\in[1955,1978]\\
-\text{AI}, & t=\text{now}
-\end{cases}$
-
-- [standard reconstruction] $T \to \text{trust} \to \text{relationship} \to \text{offer} \to \text{transaction} \to A$.
-
-- [transcript-backed] $\text{Sales} := \text{reveal value so well that exchange becomes welcome}$.
-
-- [transcript-backed] $\text{Greatness} := \text{ability to serve the masses}$.
-
-- [standard reconstruction] $\text{price resistance} \Rightarrow V\uparrow \text{ before } P\downarrow$  
-  with $V=\text{revealed value}$ and $P=\text{price}$.
+- [transcript-backed] \(G := O + \tau\)
+- [transcript-backed] \(A \to Y\)
+- [transcript-backed] \(C \le 0.1X\)
+- [transcript-backed] \(\text{correlation} \neq \text{causation}\)
+- [transcript-backed] \(\text{Attention} \rightarrow \text{Trust} \rightarrow \text{Transaction} \rightarrow \text{Investment}\)
+- [transcript-backed] \(\text{Agricultural Age}: \text{Land} \leftrightarrow \text{Wealth}\)
+- [transcript-backed] \(\text{Industrial Age}: \text{Machines} \leftrightarrow \text{Wealth}\)
+- [transcript-backed] \(\text{Distribution Age}: \text{Outlets} \leftrightarrow \text{Wealth}\)
+- [transcript-backed] \(\text{AI Age}: \text{AI participation} \leftrightarrow \text{future wealth creation}\)
+- [standard reconstruction] \(W_{t+1} = W_t + \Pi_t - C_t\)
+- [standard reconstruction] \(I(a)=1 \iff a\text{ moves the needle in your favor}\)
+- [standard reconstruction] \(D(a)=1 \iff a\text{ does not move the needle in your favor}\)
 
 ## Definitions And Objects
-- Intention: anything that moves the needle in one’s favor.
-- Distraction: anything one focuses on that does not move the needle in one’s favor.
-- Goal: an objective with a deadline.
-- Assets: owned or built things that continue to pay, e.g. books, businesses, financial claims.
-- Income: downstream cashflow that “follows assets.”
-- Expenses: current consumption and burn; dangerous when they rise as fast as income.
-- Wealth lever: the dominant thing that converts into wealth in a given era.
-- Economic eras used in the lecture: agricultural, industrial, distribution, AI.
-- Money-purpose classes: poor $\to$ pay bills; middle class $\to$ maintain credit/status consumption; rich $\to$ turn money into more money.
-- Sales: not talking people into purchases, but uncovering value for people who already desire the outcome.
-- Findability: becoming visible to people who already want what one wants to sell.
-- Mentorship: purchased compression of somebody else’s lifetime of trial and discovery.
-- Unknown unknowns: the hidden space of things one does not yet know one is missing.
-- Greatness: service at scale rather than private excellence alone.
-- Attention: the non-cash input that can later convert into transactions and assets.
+- \(G\): goal.
+- \(O\): objective.
+- \(\tau\): deadline or imposed time horizon.
+- \(A\): asset stock or “asset column”; includes bought assets and built assets such as books or intellectual property.
+- \(Y\): income stream generated downstream of assets.
+- \(X\): current inflow when the transcript blurs “revenue” and “income.”
+- \(C\): consumption, withdrawals, or lifestyle spend.
+- \(W_t\): wealth or retained capital at time \(t\).
+- \(\Pi_t\): retained earnings plus returns available for reinvestment.
+- \(a\): candidate activity.
+- \(I(a)\): intention-status of activity \(a\).
+- \(D(a)\): distraction-status of activity \(a\).
+- “Intention”: anything that moves the needle in one’s favor.
+- “Distraction”: anything one focuses on that does not move the needle in one’s favor.
+- “Primary purpose of money”: class-dependent use rule.
+- Poor rule: money is for paying bills.
+- Middle-class rule: money is for maintaining credit and status consumption.
+- Rich rule: money is for turning money into more money.
+- “Economic era”: historical regime defined by the dominant leverage that most directly creates wealth.
+- “Mentorship shortcut”: transfer mechanism for reducing unknown unknowns.
+- “Sales”: uncovering value clearly enough that the exchange becomes welcome rather than forced.
 
 ## Derivation Steps
-Wealth from other people’s problems
+Money-to-wealth chain
+1. Reclassify money by purpose, not by amount.
+2. Replace “money pays bills” with “money makes more money.”
+3. Ask what lets money multiply.
+4. Answer: perceive what is valuable to other people.
+5. Solve their problem rather than fixating on your own shortage.
+6. Receive income from that solved problem.
+7. Retain and reinvest instead of immediately consuming.
+8. Let asset stock grow.
 
-1. Redefine money away from bill-paying and toward multiplication.
-2. Treat current cash as seed capital rather than immediate consumption.
-3. Ask what other people value.
-4. Solve their problem first.
-5. Let the solution to their problem become the mechanism that solves yours.
+Resilience and low-burn argument
+1. Income rises.
+2. Early lifestyle expansion tempts spending to rise with it.
+3. Rising consumption shortens survival time under shock.
+4. Golden therefore imposes a low-consumption rule.
+5. The transcript gives the concrete benchmark \(C \le 0.1X\).
+6. Lower burn creates runway.
+7. Runway keeps the system alive long enough for compounding and asset accumulation.
 
-Fragility after early income growth
+Focus filter
+1. Start with a candidate activity \(a\).
+2. Ask whether \(a\) moves the needle in your favor.
+3. If yes, classify it as intention.
+4. If no, classify it as distraction.
+5. Remove distraction to preserve scarce attention.
+6. Concentrate attention on intention-bearing moves.
 
-1. Early high income creates the illusion that money will not run out.
-2. Lifestyle upgrades cause expenses to rise with income.
-3. Rising expenses reduce retained capital.
-4. Low retention makes shocks catastrophic.
-5. Constraining spending restores survival time and future compounding.
+Goal versus objective
+1. Define goal as objective plus deadline.
+2. Observe that deadlines are often outside one’s control.
+3. An uncontrollable deadline creates artificial failure signals.
+4. Replace deadline-bound goals with objectives for inputs.
+5. Also set objectives for outcomes.
+6. Let timing float with “times and seasons.”
+7. Reduce frustration and quitting caused by premature self-judgment.
 
-Economic-era opportunity
+Economic-era opportunity sequence
+1. Wealth creation is tied to the dominant leverage of an era.
+2. In the agricultural era, leverage is land.
+3. In the industrial era, leverage is machines.
+4. In the distribution era, leverage is outlets.
+5. In the current era, leverage is AI.
+6. Therefore new wealth formation should cluster around AI-adjacent activity.
 
-1. Wealth creation is tied to the dominant economic era.
-2. Each era has a privileged leverage object: land, machines, outlets, AI.
-3. We locate the present lecture in the AI era.
-4. Therefore present opportunity is framed as AI-adjacent leverage.
-5. This motivates the host’s urgency question about starting from zero now.
+Poverty-escape argument
+1. Reject the slogan “the rich get richer, the poor get poorer” as causal explanation.
+2. Reframe it as correlation rather than causation.
+3. Ask what actually changed trajectory.
+4. Stop centering labor-for-pay and bill-paying.
+5. Start centering the accumulation of assets.
+6. Use the rule \(A \to Y\).
+7. Buy assets where possible.
+8. Build assets where possible.
+9. Let income follow the enlarged asset base.
 
-Why deadlines are rejected
+Sales mechanism
+1. Do not begin from “what do I want to sell?”
+2. Begin from “what do people already desire to buy?”
+3. Make yourself findable to that demand.
+4. Reveal value rather than dropping price first.
+5. Solve expensive problems for buyers who can and want to pay.
+6. Build relationship over time through attention and help.
+7. Convert relationship into premium transaction.
 
-1. The host imposes a fixed-output, fixed-time challenge.
-2. Golden redefines a goal as “objective plus deadline.”
-3. He denies control over timing.
-4. He replaces deadline goals with controllable inputs and desired outcomes.
-5. The farmer analogy is used to show that output timing is not fully commandable.
-
-Sales model
-
-1. Start with a buyer who already desires the result.
-2. Make yourself findable to that buyer.
-3. Reveal value rather than merely naming a price.
-4. Build trust and relationship over time.
-5. Premium exchange becomes possible once value and trust are established.
-
-Poverty escape through assets
-
-1. Reject crude causality in “rich get richer, poor get poorer.”
-2. Replace poor-person behaviors with rich-person behaviors.
-3. Stop centering labor-for-pay as the whole model.
-4. Accumulate or build assets.
-5. Let income arise from the asset base rather than only from hours worked.
-
-Mentorship and enlarged perception
-
-1. Buy access to someone else’s tested knowledge.
-2. Use that access to discover what you did not know you were missing.
-3. Apply the borrowed method.
-4. Observe that results become possible that once seemed invisible.
-5. Scale expands when perception expands.
-
-Attention-to-asset funnel
-
-1. Offer real help in public.
-2. People pay with attention first.
-3. Continued attention creates trust and felt relationship.
-4. Some of that trust converts into paid offers.
-5. Paid offers can then be retained or recycled into assets.
+Mentorship and scale reset
+1. Treat knowledge gaps as partly hidden rather than merely absent.
+2. Use mentorship to expose unknown unknowns.
+3. Apply what is taught even before full intuitive belief arrives.
+4. Let successful application reset one’s scale assumptions.
+5. Replace “I am doing well” with “I am still below larger available scales.”
+6. Expand perceived abundance and opportunity set.
 
 ## Notation Choices
-- Use $T$ for attention and $R$ for revenue.
-- Use $A$ for assets, $Y$ for income, and $E$ for expenses.
-- Use $V$ for revealed value and $P$ for price.
-- Use $t$ only for calendar-era indexing, not for continuous mathematical time evolution.
-- Use $\to$ for qualitative flow, sequence, or directional dependence, not for a proved deterministic law.
-- Use $\Rightarrow$ for stronger practical implication inside the lecture’s own reasoning.
-- Use $:=$ for explicit spoken definitions.
-- Use $\lesssim$ instead of hard $=$ when rendering rules of thumb such as the 10% living-expense rule.
-- Prefer $\text{...}$ labels over dense symbolic notation; this lecture supports conceptual equations better than abstract algebra.
-- Keep class labels in roman text: $\text{poor}, \text{middle class}, \text{rich}$.
-- Keep era labels in roman text: $\text{agricultural}, \text{industrial}, \text{distribution}, \text{AI}$.
-- Do not introduce calculus, optimization, or probabilistic notation; the transcript does not support that level of formalism.
+- Use \(X\) for inflow whenever the lecture mixes “revenue” and “income.”
+- Use \(Y\) only when the point is downstream income generated by assets.
+- Use \(A\) for assets and “asset column.”
+- Use \(W_t\) for total retained wealth/capital over time.
+- Use \(C\) for consumption, withdrawals, or lifestyle spending.
+- Use \(\Pi_t\) for retained earnings plus returns that stay inside the growth process.
+- Use \(G, O, \tau\) for goal, objective, and deadline respectively.
+- Use \(a\) for an activity under evaluation.
+- Use \(I(a)\) and \(D(a)\) as binary lecture-note operators for intention and distraction.
+- Use \(=\) only for explicit lecture definitions or cautious bookkeeping identities.
+- Use \(\to\) for directional process flow or “follows” relations.
+- Use \(\leftrightarrow\) for the era slogans “X equaled wealth,” since these are regime associations rather than strict algebraic identities.
+- Keep money-function comparisons and era sequences as labeled mappings or tables, not as heavy symbolic systems.
+- Prefer words over single-letter symbols for the sales funnel: Attention, Trust, Transaction, Investment.
 
 ## Uncertain Mathematics
-- No item is [visible]; all formal content is transcript-backed or editorial reconstruction.
-- $T \to R$ is a slogan-level causal claim, not a measured quantitative model.
-- $Y \leftarrow A$ is qualitative; no functional form, elasticity, or lag structure is given.
-- $E \lesssim 0.1Y$ is a heuristic survival rule, and the speaker alternates between “income” and “revenue.”
-- $\$1 \to \$10 \to \$100 \to \$1000$ is a leverage mindset example, not a guaranteed return sequence.
-- The economic-era piecewise map is the speaker’s framing, not a verified historical periodization.
-- The correlation/causation correction around “rich get richer, poor get poorer” should be stated cautiously; the transcript gives the logical distinction, not a formal statistical model.
-- The value-first pricing rule is tactical, not an algebraic identity.
-- The line “They’re all free” in the pricing passage is almost certainly corrupted and should not be mathematized.
-- “They don’t like access to abundance” is likely a transcript error for “lack access to abundance.”
-- The first-million age should be taken as $45$, because the speaker self-corrects from $43$ to $45$.
-- Quantitative anchors that are safe to preserve: $\$15$ million in a year, eight figures last year, first million at $45$, about $\$5.5$ million in a day, about $\$1.7$ million spent on mentorship, coaching at $\$40{,}000$ per hour, and the earlier $\$30{,}000$ per month inflection point.
+- No equation is visually confirmed from a board, slide, or validated screenshot.
+- \(A \to Y\) is faithful to “income follows assets,” but it should be presented as a directional thesis, not as an estimated functional law.
+- \(C \le 0.1X\) is a quoted heuristic benchmark, not an optimized theorem.
+- \(W_{t+1} = W_t + \Pi_t - C_t\) is a bookkeeping reconstruction added for note clarity; it is not stated verbatim.
+- The era statements “land/machines/outlets equaled wealth” are slogan-level identifications, not literal ontological equalities.
+- The “AI Age” relation should be presented as Golden’s current strategic claim, not as a rigorously established economic model.
+- “Same energy, different buyer” in the premium-sales section is qualitative; do not turn it into a literal conservation law of effort.
+- The transcript contains ASR noise, especially “Only objective applies” and the likely corruption around “They don’t like access to abundance.” Any formula built from those lines should remain cautious.
+- The lecture’s theological claims can be formalized structurally, but not mathematized beyond simple mappings without overreach.
