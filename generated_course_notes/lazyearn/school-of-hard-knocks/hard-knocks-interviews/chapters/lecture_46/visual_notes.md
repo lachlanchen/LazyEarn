@@ -1,33 +1,30 @@
 # Visual Evidence
 ## Frame Inventory
-- No asset filenames are available for this lecture. No screenshot should remain in the final notes, because no validated extracted frame assets were kept.
-- The prior candidate screenshots were rejected as exterior or interview-context shots rather than equation, diagram, or board evidence.
+- No validated asset filenames are available for this lecture; no screenshot should remain in the final notes as visual mathematical evidence.
 
 ## Equation Extraction
-- [visible] None. No retained frame contains blackboard writing, equations, symbols, or legible notation.
-- [partially visible] None. There is no surviving visual fragment from which a board derivation can be safely transcribed.
-- [standard completion] No equation should be presented as visually extracted for this lecture.
-- [standard completion] If the final notes use compact formal statements such as $\text{income} \to \text{assets}$ or $\$1 \to \$10 \to \$100 \to \$1000$, they must be identified as transcript-based editorial reconstructions, not frame-backed transcriptions.
+- No visible equations were extracted because no validated lecture-frame assets were kept.
+- No visible notation, labels, or board-written formulas are available for LaTeX transcription.
+- Transcript-level relations such as “income follows assets” or “goal = objective + deadline” are not tagged here as visual evidence, because they are not visible in any retained frame.
 
 ## Diagram Extraction
-- No visible diagrams, sketches, axis layouts, state diagrams, or board partitions survive in retained assets.
-- No screenshot should be preserved alongside the chapter, because there is no validated instructional frame to anchor a figure.
-- If diagrams are added to the final notes, they should be transcript-derived only. The strongest candidates are:
-- A timeline of economic eras: agricultural, industrial, distribution, AI.
-- A two-branch decision sketch contrasting intention and distraction.
-- A simple flow diagram from attention to trust to transaction to asset accumulation.
-- An asset loop showing retained capital feeding resilience and future income.
+- No validated diagrams, charts, board layouts, or figure structures were preserved from extracted frames.
+- No screenshot should be redrawn in TikZ on the basis of frame evidence, because there is no surviving visual source to anchor such a redraw.
+- Any later timeline, flowchart, or comparison table for the notes must be treated as transcript-derived editorial reconstruction rather than frame-backed diagram extraction.
 
 ## Reconstruction Guidance
-- Treat this lecture as having zero visual mathematics. All clean equations, tables, and diagrams must be reconstructed from the transcript rather than from any screenshot.
-- Keep the reconstructed visuals modest and explicitly conceptual. This is a business interview, not a board lecture, so the figures should clarify spoken logic rather than imitate nonexistent chalkboard notation.
-- Prefer verbal equations or labeled arrows over aggressive symbolic formalization. For example, “income follows assets,” “attention leads to revenue,” and “solve their problem before solving your money problem” work better as relation diagrams or compact tables than as pseudo-mathematical formulas.
-- The economic-era sequence is the safest candidate for a full diagram, because the transcript gives explicit period breaks and explicit wealth levers: land, machines, outlets, AI.
-- The poor/middle-class/rich comparison is better rendered as a table than as a formula.
-- Since no screenshot survives, there is no need to place any frame nearby as visual evidence; every figure in the final chapter should be labeled as transcript-based reconstruction.
+- Build all formal content for this lecture from the transcript, not from screenshots.
+- If the final chapter includes clean diagrams, they should be explicitly framed as transcript-backed reconstructions, for example:
+  - a timeline of economic eras,
+  - a three-part comparison of what poor, middle-class, and rich people think money is for,
+  - a flow diagram linking attention, trust, and purchase,
+  - a compact schematic for assets leading to income.
+- Do not imply that any such diagram reproduces board layout, on-screen graphics, or written notation from the video.
+- Because there is no validated screenshot evidence, there is no case where an original screenshot must be kept nearby as proof of an equation or sketch.
+- Keep any formalization minimal and faithful: use short identities, classification tables, and process arrows only where the transcript clearly supports them.
 
 ## Uncertainties
-- The task template refers to a Leonard Susskind lecture and mathematical frame extraction, but the actual source is a School of Hard Knocks interview with no validated mathematical frames.
-- No symbols, indices, equation lines, or board layouts are legible because no retained assets exist.
-- Several transcript segments are noisy and should not be over-formalized: “100 billion” is immediately corrected, “Tika” is unclear, “They’re all free” in the pricing passage is likely mistranscribed, and “They don’t like access to abundance” appears to mean “lack access.”
-- Any formal diagram introduced later will necessarily be an interpretive reconstruction of spoken business logic, not a direct reproduction of visible lecture notation.
+- The main uncertainty is not symbolic legibility but total absence of validated visual mathematical evidence.
+- The workflow metadata describes a lecture-frame math extraction task, but this specific source is an interview without retained board content, so the usual equation-and-diagram pipeline does not apply.
+- Some transcript phrases may still require cautious normalization later, but those are transcript issues rather than visual-reading issues.
+- No symbol, index, or drawn step can be confirmed visually for this lecture.
