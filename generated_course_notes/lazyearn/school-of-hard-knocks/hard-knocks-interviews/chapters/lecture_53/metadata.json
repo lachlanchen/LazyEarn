@@ -1,0 +1,24 @@
+{
+  "course_rel": "lazyearn/school-of-hard-knocks/hard-knocks-interviews",
+  "transcript_rel": "lazyearn/school-of-hard-knocks/hard-knocks-interviews/053 - I Was on Food Stamps... Now I Make $100M\u29f8Year [QJP9OXmI5_4].md",
+  "video_rel": "lazyearn/school-of-hard-knocks/hard-knocks-interviews/053 - I Was on Food Stamps... Now I Make $100M\u29f8Year [QJP9OXmI5_4].webm",
+  "lecture_number": 53,
+  "lecture_slug": "lecture_53",
+  "lecture_title": "I Was on Food Stamps... Now I Make $100M\u29f8Year",
+  "assets": [
+    {
+      "name": "lecture_53_figure_02.png",
+      "timestamp_seconds": 173.745,
+      "timestamp_hhmmss": "00:02:53.745",
+      "source_candidate": "lecture_53_window_02_candidate_04_000253745.png",
+      "recommended_use": "screenshot_plus_equation",
+      "rationale": "This is the clearest and most self-contained frame in the window because it captures the completed quantitative claim \"$25 million\" in large readable text while keeping both the interviewer and speaker visible in a stable interview layout. The earlier frames show the preceding \"$90-100 million\" figure, but this frame best preserves the direct answer to the host's follow-up question and is the most useful for note writing.",
+      "subtitle_excerpt": "million actually and how about for yourself 25 million",
+      "segment_start_seconds": 171.29,
+      "segment_start_hhmmss": "00:02:51.290",
+      "segment_end_seconds": 174.08,
+      "segment_end_hhmmss": "00:02:54.080",
+      "caption_hint": "personal income claim: $25 million"
+    }
+  ]
+}
