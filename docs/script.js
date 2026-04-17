@@ -1,11 +1,32 @@
 const fallbackStrings = {
   "language.label": `Language`,
+  "nav.books": `Books`,
   "nav.earnFromScratch": `Earn From Scratch`,
   "nav.lazyEarn": `Lazy Earn`,
   "nav.lazyMoney": `Lazy Money`,
   "nav.ideaLab": `Idea Lab`,
   "nav.research": `Research`,
   "nav.startLazy": `Start Lazy`,
+  "hero.eyebrowBooks": `LazyingArt research shelf`,
+  "hero.titleLeadBooks": `Books, notes, and field guides for`,
+  "hero.titleHighlightBooks": `money, wealth, markets, and entrepreneurship`,
+  "hero.copyBooks": `LazyEarn is the public shelf for mechanism-first books, market notes, and practical study material. Start with the published PDFs, then move into the synced readers, markdown sources, and research route.`,
+  "hero.primaryCTABooks": `Browse the shelf`,
+  "hero.secondaryCTABooks": `Open the research route`,
+  "stats.booksShelf": `published books`,
+  "stats.notesShelf": `transcripts and notes`,
+  "stats.readersShelf": `live readers`,
+  "hero.insightTitle": `What this site gives you`,
+  "hero.insight1Label": `Publication-grade books`,
+  "hero.insight1Sub": `PDF + on-site reader`,
+  "hero.insight2Label": `Source-linked research`,
+  "hero.insight2Sub": `markdown + methods + references`,
+  "hero.insight3Label": `Course note pipelines`,
+  "hero.insight3Sub": `download, transcribe, write, publish`,
+  "hero.insightFoot": `The goal is simple: make the best material easy to open, easy to compare, and easy to continue studying from the repo itself.`,
+  "books.tag": `Featured shelf`,
+  "books.heading": `Open the books first.`,
+  "books.copy": `The shelf surfaces the core PDFs at the top of the site with real first-page covers, clean metadata, and direct actions for reading, downloading, and opening the source.`,
   "hero.eyebrow": `Earn From Scratch • Lazy Earn • Lazy Money`,
   "hero.titleLead": `Building wealthy daydreams with`,
   "hero.titleHighlight": `effortless experiments`,
@@ -169,6 +190,74 @@ const syncedEnglishResearchStrings = {
   "research.routeAction": "Open the 30D-SW execution plan and reversibility checks",
 };
 
+const syncedEnglishSiteStrings = {
+  "section1.tag": "Build from scratch",
+  "section1.heading": "A clear path from curiosity to durable asset",
+  "section1.copy":
+    "Start with a real question, turn it into notes, publish the useful artifact, then let later iterations compound around the same core work.",
+  "section1.card1Title": "01 · Observe",
+  "section1.card1Body":
+    "Start with questions that matter: money creation, wealth transfer, business models, ownership, or market structure.",
+  "section1.card2Title": "02 · Distill",
+  "section1.card2Body":
+    "Extract the mechanism, keep the source trail, and turn raw transcripts or research into structured notes and diagrams.",
+  "section1.card3Title": "03 · Publish",
+  "section1.card3Body":
+    "Ship the markdown, TeX, PDF, and site reader together so the work becomes reusable instead of staying buried in drafts.",
+  "section2.tag": "Pipeline",
+  "section2.heading": "From source material to published book.",
+  "section2.copy":
+    "LazyEarn combines playlist download, transcription, note writing, TeX compilation, and website publishing in one repo-level pipeline.",
+  "section2.feature1": "Publication-grade PDFs paired with on-site readers.",
+  "section2.feature2": "Transcript-to-notes workflows with reusable prompts and structure.",
+  "section2.feature3": "A git-backed source trail from raw material to final publication.",
+  "section2.button": "Browse the publication shelf",
+  "section2.meterLabel": "Pipeline coverage",
+  "section2.meterCopy":
+    "The current shelf already spans field guides, investing playbooks, equity dossiers, and full course publications.",
+  "section3.tag": "Study lenses",
+  "section3.heading": "Use the site by lens, not by hype",
+  "section3.copy":
+    "Each lens points to a different kind of output: field guides for money, playbooks for execution, dossiers for markets, and course notes for deep study.",
+  "idea.card1Title": "Money and credit",
+  "idea.card1Body":
+    "Use the field guide to separate money creation, debt transmission, asset prices, and real capacity before forming a view.",
+  "idea.card1Tag": "macro",
+  "idea.card2Title": "Markets and cycles",
+  "idea.card2Body":
+    "Move from broad market narratives into route-based notes, dashboards, and linked evidence before making timing claims.",
+  "idea.card2Tag": "markets",
+  "idea.card3Title": "Business and entrepreneurship",
+  "idea.card3Body":
+    "Mine interviews and course material for durable mechanisms: sales, incentives, leverage, risk, and business model design.",
+  "idea.card3Tag": "business",
+  "idea.card4Title": "Course publications",
+  "idea.card4Body":
+    "Turn lecture series into shelf-ready books with clear covers, structured chapters, and direct reader routes.",
+  "idea.card4Tag": "books",
+  "idea.card5Title": "Transcripts and note systems",
+  "idea.card5Body":
+    "Keep subtitles, markdown, frames, figures, and chapter notes aligned so every future book has a usable archive behind it.",
+  "idea.card5Tag": "notes",
+  "idea.card6Title": "Execution checklists",
+  "idea.card6Body":
+    "Convert theory into compact checklists and method sheets that survive repeated use instead of one-off inspiration.",
+  "idea.card6Tag": "methods",
+  "section4.heading": "Generate a new research or product angle",
+  "section4.copy":
+    "Use the idea lab as a prompt generator for future briefs, courses, utilities, and monetizable side products.",
+  "section5.tag": "Join the loop",
+  "section5.heading": "Keep the shelf and pipeline moving.",
+  "section5.copy":
+    "Subscribe if you want updates when a new book, course publication, or research brief lands on the site.",
+  "panel.title": "Publication rhythm",
+  "panel.step1": "Collect the source: playlist, paper, or transcript set.",
+  "panel.step2": "Distill the mechanism into notes and visual structure.",
+  "panel.step3": "Publish the PDF, reader, and repo source together.",
+  "panel.step4": "Iterate from the next source instead of restarting from zero.",
+  "footer.tagline": "earn.lazying.art · books, notes, and field guides from LazyingArt.",
+};
+
 const fallbackIdeas = {
   lazySprint: `Launch a 5-day Lazy Earn sprint teaching people to automate one newsletter ad slot, then sell replay access.`,
   dreamDesk: `Bundle your workflows into a 'Dream Desk OS' Notion template that pairs automations with nap reminders.`,
@@ -201,7 +290,7 @@ const ideaOutput = document.querySelector(".idea-output");
 const languageSelect = document.getElementById("language-select");
 const themeToggle = document.getElementById("theme-toggle");
 const form = document.querySelector(".cta-form");
-const parallaxItems = document.querySelectorAll(".orb, .hero-card");
+const parallaxItems = document.querySelectorAll(".orb, .hero-insight");
 const THEME_KEY = "lazyearn_theme";
 
 const pdfEntries = {
@@ -356,6 +445,7 @@ function buildViewerHref(slug, useQuery = false) {
   setupObserver();
   setupParallax();
   setupResearchCatalog();
+  setupBookCarousel();
   setupStandaloneViewer();
   setFooterYear();
 })();
@@ -393,6 +483,7 @@ async function loadTranslations() {
       strings: {
         ...(translationsData.en.strings || {}),
         ...syncedEnglishResearchStrings,
+        ...syncedEnglishSiteStrings,
       },
     };
     ideaKeys = Object.keys(translationsData.en?.ideas || fallbackIdeas);
@@ -648,7 +739,7 @@ function setupObserver() {
     { threshold: 0.15 },
   );
 
-  document.querySelectorAll(".section, .card, .idea-card").forEach((el) => {
+  document.querySelectorAll(".section, .card, .idea-card, .book-slide").forEach((el) => {
     el.classList.add("fade");
     observer.observe(el);
   });
@@ -754,6 +845,84 @@ function setupResearchCatalog() {
       console.warn(`[research-catalog] Entry "${slug}" has no matching .asset-card in index.html`);
     }
   });
+}
+
+function setupBookCarousel() {
+  const carousel = document.querySelector("[data-book-carousel]");
+  const track = carousel?.querySelector("[data-book-track]");
+  const slides = track ? Array.from(track.children) : [];
+  const prev = carousel?.querySelector("[data-book-prev]");
+  const next = carousel?.querySelector("[data-book-next]");
+  const dots = Array.from(document.querySelectorAll("[data-book-dot]"));
+
+  if (!carousel || !track || !slides.length) {
+    return;
+  }
+
+  let activeIndex = 0;
+
+  const updateDots = (index) => {
+    dots.forEach((dot, dotIndex) => {
+      dot.classList.toggle("is-active", dotIndex === index);
+      dot.setAttribute("aria-pressed", dotIndex === index ? "true" : "false");
+    });
+  };
+
+  const updateButtons = (index) => {
+    if (prev) {
+      prev.disabled = index <= 0;
+    }
+    if (next) {
+      next.disabled = index >= slides.length - 1;
+    }
+  };
+
+  const syncState = (index) => {
+    activeIndex = Math.max(0, Math.min(index, slides.length - 1));
+    updateDots(activeIndex);
+    updateButtons(activeIndex);
+  };
+
+  const scrollToIndex = (index) => {
+    const boundedIndex = Math.max(0, Math.min(index, slides.length - 1));
+    slides[boundedIndex].scrollIntoView({
+      behavior: "smooth",
+      inline: "start",
+      block: "nearest",
+    });
+    syncState(boundedIndex);
+  };
+
+  const readIndexFromScroll = () => {
+    if (!track.clientWidth) {
+      return 0;
+    }
+    return Math.round(track.scrollLeft / track.clientWidth);
+  };
+
+  prev?.addEventListener("click", () => scrollToIndex(activeIndex - 1));
+  next?.addEventListener("click", () => scrollToIndex(activeIndex + 1));
+
+  dots.forEach((dot) => {
+    dot.addEventListener("click", () => {
+      const index = Number(dot.getAttribute("data-book-dot") || "0");
+      scrollToIndex(index);
+    });
+  });
+
+  let scrollTimer = null;
+  track.addEventListener("scroll", () => {
+    window.clearTimeout(scrollTimer);
+    scrollTimer = window.setTimeout(() => {
+      syncState(readIndexFromScroll());
+    }, 80);
+  });
+
+  window.addEventListener("resize", () => {
+    scrollToIndex(activeIndex);
+  });
+
+  syncState(0);
 }
 
 function getCatalogText(entry, type) {
