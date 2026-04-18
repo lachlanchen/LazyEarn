@@ -10704,3 +10704,81 @@ All items below should be treated as transcript-backed editorial syntheses, not 
   - education as decision tool rather than destiny
   - confidence as accumulated evidence from promises kept
 - Keep the numerical caution attached in future rewrites: the opening `\$25M / \$30M / \$19M profit / \$10M` fragments are montage-like and should not be flattened into one clean record.
+
+## Lecture 87 integration: Asking Holiday Shoppers How They Got RICH!
+
+### New evidence
+- This lecture materially strengthens the book’s existing shift from visible wealth to mechanism by giving one unusually clean sequence of mechanisms inside a single Houston field episode: recurring revenue, trust, knowledge transfer, capital literacy, commission sales, people leverage, and execution.
+- The wealth-management case is now one of the clearest transcript-backed anchors for a course-level subsection on revenue quality. It gives:
+  - delayed gratification as a horizon discipline,
+  - trustworthiness and articulate knowledge as preconditions for being sought out,
+  - recurring, non-transactional revenue as the preferred business form,
+  - a concrete scalability example: one set of work applied across roughly 100 paying people.
+- Lecture 87 adds a stronger explicit contrast between transactional deal-chasing and repeatable retained revenue than many prior lectures. This should now be treated as core book evidence, not just supporting color.
+- The cybersecurity case adds a sharper form of the series-wide “buying time with knowledge” thesis:
+  - what keeps people broke is framed as ignorance rather than fate,
+  - the route out is to find people who already got where one wants to go,
+  - knowledge reduces search cost and failed iterations,
+  - high-value protection work is presented as a direct wealth path.
+- The energy founder adds a particularly useful capital-plumbing claim: pure technical specialization often leaves one working for somebody else, while finance or banking teaches where money comes from and expands what actions are possible. This is a valuable bridge between expertise and ownership.
+- The solar case adds stronger support for commission sales as a legitimate wealth engine even outside full founder ownership. It also adds a good immigrant-sales-self-investment arc and a clear mentor-over-guru distinction.
+- The lumber case gives one of the bluntest transcript-backed formulations in the corpus for late-stage operating logic:
+  - “I’m not in the lumber business. I’m in the people business.”
+  - scale requires identifying people, letting go of low-level control, and treating execution as the scarce variable.
+- This lecture is unusually useful because the host repeatedly pauses to convert interview detail into explicit takeaway statements. Those recap beats are strong memory evidence for what the series itself thinks its doctrines are.
+
+### Conservative restructure plan
+- Strengthen the existing chapter material on compounding and revenue quality by adding a new case cluster around recurring versus transactional income, with lecture 87 as the cleanest explicit example. The wealth-manager material justifies a dedicated subsection on retained revenue, repeatability, and scalability.
+- Add lecture 87 to the existing sales and social endurance material, but with a narrower distinction:
+  - sales as commission cashflow,
+  - sales as access to people,
+  - sales as an alternative to vague “entrepreneurship.”
+  The solar case is the justification.
+- Strengthen the book’s capital-access chapter by inserting the energy founder’s banking-first retrospective as a direct argument that capital literacy expands optionality beyond technical competence.
+- Fold the lumber ending into the existing operating-discipline and scale chapter rather than creating a new execution chapter. The new material is not “execution matters” in the abstract; it is specifically that scale shifts the owner’s task from doing everything to building a people system.
+- Treat lecture 87 as a multi-mechanism support lecture for the broader revenue-quality, leverage, and execution spine of the book, not as a standalone permanent chapter.
+
+### New tensions or contradictions
+- Lecture 87 sharpens a tension that the book should preserve rather than smooth out: some cases argue for the long game and delayed gratification, while others argue that the right knowledge can collapse a decade into a year. The book should present these as different time structures of wealth-building, not as a contradiction to be erased.
+- The solar interview pushes against any book drift toward founder romanticism. It explicitly suggests that high commission sales can be a legitimate path to wealth even without traditional entrepreneurship.
+- The lecture also adds a useful tension between visible luxury and actual commercial intent: one speaker wants to make money in a way that lets him disappear. This supports a broader book distinction between performative wealth and durable economic position.
+- Preserve caution around the energy sale amount: the lecture gives “over \$740 million” and also a contingent higher number. Do not collapse this into a falsely precise single exit figure in course memory.
+- Preserve caution around garbled transcript segments:
+  - the cybersecurity “72 months ago” line should not become exact chronology,
+  - the “40\% of GDP / hundreds of billions” claim should not become formal economic fact,
+  - the solar section should be stored mainly as mechanism, not as tight quotation.
+
+### Frame or diagram opportunities
+- No new validated frame-backed equations, diagrams, or screenshots survived for lecture 87, so the course memory should not imply any visual evidence upgrade.
+- This lecture does, however, justify two transcript-derived editorial schematics for later book drafting:
+  - recurring retained revenue versus one-off transactional revenue,
+  - a people-knowledge-capital-execution pipeline showing different routes from expertise to scale.
+- If a future pass needs one compact comparative table, lecture 87 strongly supports a cross-case layout separating:
+  - peak personal annual income,
+  - company revenue,
+  - exit value,
+  - age at millionaire status,
+  - years in industry,
+  - stated wealth mechanism.
+  This lecture repeatedly moves among those categories and therefore helps discipline book-wide quantity handling.
+
+### Next rewrite implications
+- When the dynamic book next rewrites its revenue-quality and leverage chapters, lecture 87 should be used as one of the clearest pedagogical anchors because it contains explicit Q\&A beats that already separate problem, answer, and mechanism.
+- Preserve the lecture’s internal order when borrowing from it:
+  - delayed gratification,
+  - broke-to-trustworthy method,
+  - recurring revenue,
+  - host recap,
+  - knowledge compression,
+  - host recap,
+  - capital literacy and timing,
+  - sales and mentorship,
+  - delegation and execution.
+  That sequence is part of why the lecture reads coherently.
+- Use lecture 87 to reinforce that “people” is not one vague series cliché but several distinct variables:
+  - trustworthy expertise attracts clients,
+  - the right people shorten learning time,
+  - good people expand operational capacity,
+  - care for people stabilizes the business,
+  - scale ultimately becomes a people problem.
+- Use this lecture as stronger evidence that the book should keep host recap passages in adapted form. Here they function almost like theorem statements extracted from field interviews, and that rhythm is worth preserving in nonlinear chapter construction.
