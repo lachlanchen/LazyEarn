@@ -9718,3 +9718,117 @@ All items below should be treated as transcript-backed editorial syntheses, not 
   restaurant owner on fearlessness, failure tolerance, product quality, and roughly \$12M revenue;
   Ferrari founder on \(R_{\text{company}}\approx \$300\text{M}\), \(R_{\text{solo}}\approx \$3\text{M}\), ROI discipline, \(Y_{\text{paper}}\approx \$3\text{M}\), \(T\approx \$950\text{k}\), \(C_{\text{personal}}\approx \$10\text{k}\), \(r_{\text{factor}}\approx 21\%\), \(r_{\text{bank}}\approx 6\%-8\%\), and \(\Delta \Pi_{\text{monthly}}\approx \$20\text{k}-\$25\text{k}\);
   doctor-owner on \(A_{\text{medicine}}\approx \$600\text{k}-\$700\text{k}\), \(A_{\text{practice}}\approx \$6\text{M}\), and \(N_{\text{employees}}\approx 300\).
+
+## Lecture 74 integration: Young Entrepreneur Interviews Millionaire Justin Waller
+
+### New evidence
+- Justin Waller adds one of the cleanest current `focus before optionality` statements in the corpus. The mechanism is explicit rather than merely motivational:
+  - stay in one fight long enough to create freedom;
+  - only after freedom do you go water other plants;
+  - energy is finite, so diversification too early is an allocation error rather than a sign of ambition.
+- This sharpens existing anti-diversification material from lectures 36, 59, 67, and 69 by giving it a compact resource model:
+  - finite entrepreneurial energy;
+  - concentration first;
+  - branching later.
+- Lecture 74 adds a particularly usable early-stage financing sequence that should sit beside later Scottsdale and bankruptcy-credit material:
+  - no starting money;
+  - win contracts first;
+  - bring contracts to the bank as evidence;
+  - get a line of credit against that evidence;
+  - survive the first payroll cycles through bridge credit.
+- The named numbers matter because they keep this mechanism concrete:
+  - first line of credit about `$15,000`;
+  - early payroll about `$2,500/week`;
+  - about two guys;
+  - backyard buildings.
+- The lecture gives the real-estate chapter more transcript-native underwriting vocabulary than most prior episodes:
+  - more than `400 doors`;
+  - net operating income;
+  - cap rate;
+  - debt service;
+  - cycle position;
+  - long-term versus short-term debt cycle;
+  - five- to seven-year ARM risk;
+  - explicit fear of a reset from roughly `7.5%--8%` toward `16`.
+- This is valuable because Waller simultaneously demystifies and disciplines leverage:
+  - the math is “third grade math”;
+  - the real task is attention to debt service, cycle timing, and rates before the reset arrives.
+- Lecture 74 adds a strong management-side expansion of the ownership theme:
+  - ownership here is not only equity or legal title;
+  - if employees are handed a plan, they have no ownership and “sit in the boat with their arms crossed waiting for it to go wrong”;
+  - if they help build the systems, they gain ownership, autonomy, and real buy-in.
+- This lecture also gives a sharper incentive-alignment line than the memory currently has:
+  - manage from the stance `I should be paying you more money`, not `you should be making me richer`.
+- Waller is also a reinforcing named case for the course-wide `repeatability is the real asset` doctrine:
+  - started in steel at `24`;
+  - about `15` years in construction;
+  - more than `200` men coast to coast;
+  - about `$5M` take-home in a year;
+  - business scale around `$35M`;
+  - explicit rebuild confidence tied not to confidence alone but to repeated competence in one field.
+
+### Conservative restructure plan
+- Deepen the existing concentration / anti-diversification architecture with a short subsection such as `Finite Energy, Single Fight, Optionality Later`. Pair lecture 74 with lecture 67’s `portable system -> diversification scales` logic, but keep the distinction explicit:
+  - lecture 67 is about system portability as the threshold for expansion;
+  - lecture 74 is about finite energy as the reason not to expand too early.
+- Deepen Chapter 11, **Leverage, Capital Plumbing, Bank Trust, and the Shell Around the Machine**, with an `Evidence Before Credit` subsection. Put lecture 74 beside lecture 69’s factoring / retained-earnings / line-of-credit sequence:
+  - lecture 69 is later-stage working-capital repair;
+  - lecture 74 is earlier-stage contract-backed bootstrap credit.
+- Deepen Chapter 14, **Land, Real Estate, and the Asset Where Wealth Comes to Rest**, with a `Third-Grade Underwriting` subsection:
+  - keep the variables named in the lecture;
+  - emphasize that the risk is not leverage in the abstract but poorly watched reset timing and debt-service pressure.
+- Deepen the ownership chapter with a short `Psychological Ownership Inside the Firm` subsection:
+  - earlier memory mostly treats ownership as equity, rights, land, stock, or control of a junction;
+  - lecture 74 adds ownership as a behavioral condition for staff initiative and scale.
+- Deepen the systems / scale chapter with a `Co-Built Systems vs Handed-Down Plans` block:
+  - this should sit near lecture 45’s indigestion point, lecture 67’s portable systems, and lecture 69’s fulfillment/process chain;
+  - lecture 74’s special contribution is the sabotage/passivity risk when people execute systems they did not help build.
+
+### New tensions or contradictions
+- Lecture 74 sharpens the book’s diversification contradiction in a particularly usable way:
+  - diversification is not rejected outright;
+  - it is delayed until freedom has been earned.
+  This helps reconcile earlier archive conflicts between concentration doctrine and later-stage multiple-stream advice.
+- The lecture adds a new split inside the ownership theme:
+  - ownership as legal/economic claim on upside;
+  - ownership as internal participation and autonomy inside a company.
+  The book should keep both meanings visible rather than flattening ownership to equity alone.
+- Waller’s leverage discussion is a useful counterweight to more glamorous real-estate talk elsewhere in the archive:
+  - buying property is not presented as automatic wealth;
+  - it only works if debt service, rate resets, and cycle position are understood in advance.
+- The lecture also reinforces a recurring tension between `simple math` and `hard discipline`:
+  - the formulas are not presented as elite finance;
+  - the hard part is emotional and operational consistency.
+
+### Frame or diagram opportunities
+- No validated screenshots survive from lecture 74; nothing visual should be treated as frame-backed evidence.
+- Strong transcript-native diagram or table candidates now justified by this lecture are:
+  - `finite energy -> many plants -> thin results` allocation sketch;
+  - `contracts -> bank evidence -> line of credit -> payroll bridge` startup financing flow;
+  - `outside money + bank debt` minimal capital-stack diagram;
+  - `NOI / cap rate / debt service / cycle / ARM reset` underwriting checklist table;
+  - `handed-down plan -> passive staff` versus `co-built system -> ownership/autonomy` management schematic.
+- These should be labeled as editorial reconstructions from transcript logic, not as redraws of visible board content.
+
+### Next rewrite implications
+- Justin Waller should not become a standalone permanent book chapter. His lecture should be redistributed across at least four live thematic systems:
+  - concentration before diversification;
+  - bootstrap credit and bankability;
+  - real-estate underwriting and reset risk;
+  - internal ownership and incentive alignment.
+- Add lecture 74 to the evidence index with explicit anchors:
+  - steel start at `24`;
+  - about `15` years in construction;
+  - more than `200` men;
+  - more than `400` doors;
+  - first line of credit about `$15,000`;
+  - payroll about `$2,500/week`;
+  - take-home around `$5M`;
+  - business scale around `$35M`;
+  - underwriting variables named directly;
+  - ARM reset stress from roughly `7.5%--8%` toward `16`;
+  - `stay in the same fight`;
+  - `water other plants` only after freedom;
+  - `systems + competent people with intent`;
+  - `no ownership -> arms crossed in the boat`.
+- When the nonlinear book next expands, use lecture 74 as a bridge lecture between the archive’s asset-side ownership cases and its people/systems cases. It is unusually good at showing that wealth compounds through both financial structure and human structure, and that the same word `ownership` governs both.
