@@ -10782,3 +10782,52 @@ All items below should be treated as transcript-backed editorial syntheses, not 
   - care for people stabilizes the business,
   - scale ultimately becomes a people problem.
 - Use this lecture as stronger evidence that the book should keep host recap passages in adapted form. Here they function almost like theorem statements extracted from field interviews, and that rhythm is worth preserving in nonlinear chapter construction.
+
+## Lecture 88 integration: Asking Texas Millionaires How They Got RICH!
+
+### New evidence
+- Lecture 88 gives the course one of its few retained frame-backed quantitative field images: Highland Park is not only named as the sixth-wealthiest city, but shown with a household-income histogram whose dominant mass sits in the terminal `>200` bin. This is useful new evidence that the series sometimes quantifies a prestige field before interviewing inside it.
+- The hearing-aid / eyeglass operator adds one of the archive’s clearest exogenous-demand cases:
+  - American Airlines bankruptcy;
+  - about `13,000` local employees fearing benefit loss;
+  - hearing-benefit usage pulled forward;
+  - annual revenue jump from about `$1.5M` to `$16.7M`.
+  Keep this as a strong boring-business / shock-response case rather than as generic luck.
+- The lecture reuses the ribbon arithmetic in a normal street-interview episode, not just in a recap-style compression lecture. That matters structurally: mortality arithmetic is confirmed again as portable course doctrine rather than a one-off flourish.
+- The insurance interview adds a simple planning scaffold the current memory does not yet hold explicitly: `{1,3,5}` as staged goals that create motivation by successive hits.
+- The former 7-Eleven / Blockbuster CEO adds an unusually clean corporate-world phrasing for several existing themes:
+  - `change = opportunity`
+  - confidence comes from preparation
+  - clarity is operational, not cosmetic
+  - salary sustains life, but equity creates wealth
+
+### Conservative restructure plan
+- Do not create a standalone lecture-88 chapter in the dynamic book.
+- Deepen **The Theater of Wealth, and What It Hides** with a short Highland Park opener that pairs visible luxury with the rare validated histogram overlay. Use it to show that geography in the series is occasionally quantified, not just aesthetic.
+- Add the American Airlines / hearing-aid case to **Operating Discipline, Human Attention, and Opportunity Exposure** or the nearest shock/opportunity chapter. Its special contribution is the full chain `external shock -> behavioral pull-forward -> demand spike -> revenue windfall`.
+- Add the `{1,3,5}` rule to the existing horizon / motivation material in **Scale, Time, and the Ten-Year Game**, but keep it small; it is a planning scaffold, not a new theory.
+- Fold the CEO close into **Ownership, Position, and the Claim on Future Upside** and the rule-stack material rather than into an executive-profile section. The contribution is conceptual clarity, not biography.
+- Treat the ribbon recurrence as reinforcement for **What Money Is For**, not as a new mortality chapter.
+
+### New tensions or contradictions
+- Lecture 88 sharpens a tension the book should keep visible: the same lecture that gives a clean market-shock growth mechanism also insists on faith and gratitude as the stabilizer when things are not okay. Do not collapse one language into the other.
+- The opening histogram may tempt a false unification of the interviewees. Resist that. The affluent field is shared; the mechanisms are heterogeneous: finance, insurance, hearing aids, large-company equity, mentorship, and delayed consumption.
+- The lecture again presses urgency and patience at the same time:
+  - the ribbon says usable life is short
+  - the `{1,3,5}` ladder says goals should be staged
+  - the reinvestment advice says first success must not harden into fear
+  Keep these as complementary pressures, not contradictions to be ironed out.
+
+### Frame or diagram opportunities
+- Preserve `lecture_88_figure_02.png` as a course-wide figure candidate under rare validated quantitative overlays. It is more valuable as evidence of the series’ method than as standalone demographic data.
+- If the book needs a reusable editorial diagram, the best new lecture-88 candidate is the hearing-aid case: `bankruptcy shock -> benefits panic -> usage surge -> $16.7M year`.
+- Secondary transcript-only diagram candidates:
+  - `{1,3,5}` goal ladder
+  - `change -> confidence -> clarity` triad
+  - the ribbon redraw, now explicitly justified as recurring archive doctrine rather than a one-off
+
+### Next rewrite implications
+- When the dynamic book next rewrites its opening chapters, lecture 88 should be used to tighten the transition from visible wealth to quantified field to divergent mechanisms.
+- When revising boring-business and demand-capture material, this lecture should supply the clearest current case where a non-glamorous service business catches a large institutional shock and converts it into a windfall year.
+- When revising ownership material, use lecture 88 as reinforcement rather than as the primary anchor; its value is that a major corporate operator states the salary-versus-equity rule in plain language.
+- Preserve the host’s repeated interview template if this material is redistributed later. Lecture 88 is especially useful because it shows the series’ method: wealth signal first, mechanism second, broke test third, then advice.
