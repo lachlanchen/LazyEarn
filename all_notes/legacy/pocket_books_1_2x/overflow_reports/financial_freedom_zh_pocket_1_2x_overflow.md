@@ -1,8 +1,8 @@
 # LaTeX Overflow Report
 
-- Generated: 2026-04-18T10:20:39+08:00
+- Generated: 2026-04-18T10:42:07+08:00
 - Variant: financial_freedom_zh_pocket_1_2x.pdf
-- Log: `/tmp/tmp.zl10RkilaU/build/financial_freedom_zh.log`
+- Log: `/tmp/tmp.N5vtjjFQAW/build/financial_freedom_zh.log`
 - Actionable overfull warnings: `63`
 - Page-builder overfull warnings: `0`
 - Underfull paragraph warnings: `4`

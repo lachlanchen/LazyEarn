@@ -1,6 +1,6 @@
 # Investment PDF Build Notes
 
-Each dossier folder (e.g. `wealth-from-first-principles`, `high-growth-stocks`, `financial_freedom`) ships with a `build/` subdirectory. The `financial_freedom` folder now contains both the English and Chinese editions (`financial_freedom.tex` and `financial_freedom_zh.tex`). Run XeLaTeX so every artifact (`.aux`, `.log`, `.out`, `.pdf`) lands inside that folder, then copy the finished PDF back to the folder root (and into `docs/investment_pdfs/...` for GitHub Pages).
+Each dossier folder (e.g. `wealth-from-first-principles`, `high-growth-stocks`, `financial_freedom`) ships with a `build/` subdirectory. The `financial_freedom` folder keeps the English edition at the folder root and the Chinese edition under `zh/`, with scratch files confined to `build/` and `zh/build/`. Run XeLaTeX so every artifact (`.aux`, `.log`, `.out`, `.pdf`) lands inside those build folders, then copy the finished PDFs back to the stable source paths (and into `docs/investment_pdfs/...` for GitHub Pages).
 
 ```bash
 cd investment_pdfs/wealth-from-first-principles
