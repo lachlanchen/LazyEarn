@@ -4,6 +4,8 @@
 \usepackage{geometry}
 \geometry{paper=a4paper, margin=1in}
 \usepackage{xcolor}
+\usepackage{graphicx}
+\usepackage{tikz}
 \usepackage{hyperref}
 \usepackage{xurl}
 \usepackage{titlesec}
@@ -28,7 +30,7 @@
   colorlinks=true,
   linkcolor=ink,
   urlcolor=ember,
-  pdftitle={Quad Tango Muto},
+  pdftitle={Quod Tango Muto},
   pdfauthor={LazyingArt LLC}
 }
 
@@ -47,7 +49,7 @@
 \pagestyle{fancy}
 \fancyhf{}
 \fancyhead[LE,RO]{\sffamily\small\thepage}
-\fancyhead[RE]{\sffamily\small Quad Tango Muto}
+\fancyhead[RE]{\sffamily\small Quod Tango Muto}
 \fancyhead[LO]{\sffamily\small LazyingArt LLC}
 \setlength{\headheight}{14pt}
 
@@ -100,32 +102,64 @@
 \frontmatter
 
 \begin{titlepage}
-\pagecolor{paper}
-\color{ink}
 \thispagestyle{empty}
-\vspace*{2.2cm}
-{\sffamily\Large\color{ember}\textsc{LazyingArt LLC}\par}
-\vspace{1.6cm}
-{\sffamily\bfseries\fontsize{34}{38}\selectfont Quad Tango Muto\par}
-\vspace{0.45cm}
-{\Large A manuscript scaffold for later writing\par}
-\vspace{1.4cm}
-\begin{coverbox}
-\textbf{Starter brief}\par
-This volume is initialized as a clean, expandable writing surface. It is built to hold the first statement of the book, the shape of its chapters, its fragments, and the notes that will later become a finished manuscript.
-\end{coverbox}
-\vfill
-{\large Author: LazyingArt LLC\par}
-{\large April 2026\par}
+\begin{tikzpicture}[remember picture,overlay]
+  \node[anchor=center,inner sep=0] at (current page.center) {%
+    \includegraphics[height=\paperheight,keepaspectratio]{build/cover-art.png}%
+  };
+  \node[
+    anchor=north west,
+    align=left,
+    text width=0.7\paperwidth,
+    fill=white,
+    fill opacity=0.86,
+    text opacity=1,
+    rounded corners=6pt,
+    inner sep=14pt
+  ] at ([xshift=0.08\paperwidth,yshift=-0.09\paperheight]current page.north west) {%
+    {\fontsize{30}{33}\selectfont\sffamily\bfseries\color{ink} Quod Tango Muto\par}
+    \vspace{0.85em}
+    {\large\color{black!72} A manuscript scaffold for later writing\par}
+  };
+  \node[
+    anchor=south west,
+    align=left,
+    text width=0.58\paperwidth,
+    fill=white,
+    fill opacity=0.88,
+    text opacity=1,
+    rounded corners=6pt,
+    inner sep=12pt
+  ] at ([xshift=0.08\paperwidth,yshift=0.19\paperheight]current page.south west) {%
+    {\normalsize\bfseries\color{ink} Working premise\par}
+    \vspace{0.35em}
+    {\small\color{black!78} From the repo's source motto, \emph{quod tango muto}: what I touch, I change. This manuscript is a four-part scaffold for motion, contact, and transformation.\par}
+  };
+  \node[
+    anchor=south west,
+    align=left,
+    text width=0.62\paperwidth,
+    fill=white,
+    fill opacity=0.82,
+    text opacity=1,
+    rounded corners=6pt,
+    inner sep=12pt
+  ] at ([xshift=0.08\paperwidth,yshift=0.08\paperheight]current page.south west) {%
+    {\normalsize\color{black!82} Scaffold edition\par}
+    \vspace{0.35em}
+    {\small\color{black!72} Written and published by \href{https://lazying.art}{LazyingArt LLC}.\par}
+    {\small\color{black!72} April 2026\par}
+  };
+\end{tikzpicture}
+\mbox{}
 \end{titlepage}
-\nopagecolor
 
 \tableofcontents
 
 \mainmatter
 
 \chapter{Opening position}
-\chapterprompt{Write the first true sentence of the book here. Name the tension, motion, or atmosphere that justifies the title \textit{Quad Tango Muto}.}
+\chapterprompt{Write the first true sentence of the book here. Name the tension, motion, or atmosphere that justifies the title \textit{Quod Tango Muto}.}
 
 Use this opening chapter to establish what kind of book this is, what world it enters, and what kind of attention it asks from the reader.
 

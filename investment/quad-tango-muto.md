@@ -1,4 +1,4 @@
-# Quad Tango Muto
+# Quod Tango Muto
 
 _A manuscript scaffold for later writing_
 
@@ -6,14 +6,14 @@ _Author: LazyingArt LLC_
 
 ## Opening position
 
-This file is the working foundation for the future book **Quad Tango Muto**.
+This file is the working foundation for the future book **Quod Tango Muto**.
 
 It is designed to stay simple at the start while giving you enough structure to begin writing immediately, expand chapters later, and collect sources without losing the shape of the manuscript.
 
 ## Core prompts
 
 - What is this book really about?
-- What does the title **Quad Tango Muto** imply in tone, movement, tension, or structure?
+- What does the title **Quod Tango Muto** imply in tone, movement, tension, or structure?
 - What should a reader understand, feel, or be able to do after finishing it?
 - What kinds of evidence belong in the book: narrative scenes, history, philosophy, technical explanation, memoir, criticism, or synthesis?
 - Which ideas deserve full chapters and which should remain motifs, interludes, or notes?
