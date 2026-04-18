@@ -1,104 +1,74 @@
 # Math Bank
-
 ## Core Equations
-
-- [transcript-backed] \(M_{\text{Miami, now}} \approx 1.75\,M_{\text{Miami, decade ago}}\)
-- [transcript-backed] \(P(\text{side hustle}\mid \text{millionaire}) \approx 0.45\)
-- [standard reconstruction] \(S_t = Y_{\text{earned},t} - C_t\)
-- [standard reconstruction] \(V_{t+1} = V_t(1+r_t) + c_t\)
-- [standard reconstruction] \(100{,}000 \times 1.17 = 117{,}000\), hence \(\Delta V = 17{,}000\)
-- [standard reconstruction] \(B_{\text{monthly}} = R_{\text{rent}} + P_{\text{payroll}} + O_{\text{fixed}}\)
-- [standard reconstruction] \(\text{Runway} = \dfrac{C_{\text{reserve}}}{B_{\text{monthly}}}\)
-- [standard reconstruction] \(CF_{\text{net}} = I_{\text{rent}} - D_{\text{debt}} - O_{\text{ops}}\)
-- [standard reconstruction] \(I_{\text{rent}} \ge D_{\text{debt}} + O_{\text{ops}}\)
-- [standard reconstruction] \(Y_{\text{CoC}} = \dfrac{CF_{\text{net}}}{E_0}\)
-- [standard reconstruction] \(I_{\text{passive}} \ge E_{\text{lifestyle}}\)
-- [standard reconstruction] \(\mathcal{S}: \text{lead} \to \text{contact management} \to \text{distribution} \to \text{LMS} \to \text{sale} \to \text{reinvestment}\)
+- No [visible] equations survived screenshot validation; every item below is transcript-backed or a cautious formalization.
+- \(M_{\text{Miami, now}} \approx 1.75\,M_{\text{Miami, 10y}}\). [standard reconstruction]
+- \(p(\text{side hustle}\mid \text{millionaire}) \approx 0.45\). [standard reconstruction]
+- \(R_{\text{Johnny, 2021}} > \$100\,\text{M}\). [transcript-backed]
+- \(R_{\text{Johnny, annual}} \in [\$150\,\text{M},\,\$170\,\text{M}]\). [transcript-backed]
+- \(S_{\text{Anthony, career}} > \$2\,\text{B}\). [transcript-backed]
+- \(\Delta V = 0.17 \times \$100{,}000 = \$17{,}000\). [transcript-backed]
+- \(V_1 = V_0 + \Delta V = \$117{,}000\) when \(V_0=\$100{,}000\). [standard reconstruction]
+- \(\Delta V = rV_0\). [standard reconstruction]
+- \(S_t = Y_{e,t} - C_t\). [standard reconstruction]
+- \(A_{t+1} = A_t + S_t\). [standard reconstruction]
+- \(n=8,\qquad n_{\text{paying}}=7\). [standard reconstruction]
+- \(7c_u \ge D_m\). [standard reconstruction]
+- \(I_p \ge C_l\). [standard reconstruction]
+- \(B_{0,\text{gym}} \approx \$500{,}000\). [transcript-backed]
+- \(E_{\text{gym}} \in [\$300{,}000,\$500{,}000]\). [transcript-backed]
+- \(L_{m,\text{gym}} = \$38{,}000/\text{month}\). [transcript-backed]
+- \(P_{\text{Section 8, avg}} < \$100{,}000\). [transcript-backed]
 
 ## Definitions And Objects
-
-- \(M_{\text{Miami}}\): millionaire count in Miami; use only for the host’s comparative framing claim.
-- \(Y_{\text{earned},t}\): earned or active income in period \(t\).
-- \(C_t\): consumption or lifestyle spending in period \(t\).
-- \(S_t\): savings available for deployment after consumption.
-- \(V_t\): invested portfolio value at time \(t\).
-- \(r_t\): return rate on invested capital over period \(t\); use \(r=0.17\) only for Powell’s spoken example.
-- \(c_t\): recurring contribution to invested assets.
-- \(R_{\text{rent}}\): monthly rent expense; gym example gives \(R_{\text{rent}} \approx 38{,}000\).
-- \(P_{\text{payroll}}\): payroll expense; use this even though the transcript likely mishears the word once.
-- \(O_{\text{fixed}}\): other fixed operating costs.
-- \(B_{\text{monthly}}\): monthly business burn.
-- \(C_{\text{reserve}}\): cash reserve or runway capital.
-- \(I_{\text{rent}}\): rental income from a multifamily property.
-- \(D_{\text{debt}}\): debt service on the property.
-- \(O_{\text{ops}}\): property operating costs.
-- \(CF_{\text{net}}\): net cash flow after debt and operating costs.
-- \(E_0\): initial equity invested in the property.
-- \(Y_{\text{CoC}}\): cash-on-cash yield.
-- \(I_{\text{passive}}\): passive or residual asset income.
-- \(E_{\text{lifestyle}}\): recurring lifestyle expense that must be covered for “financial freedom.”
-- \(N=8\): unit count in Powell’s 8-plex example; the spoken “seven people paid the debt load” suggests an owner-occupied or one-unit-excluded narrative case, not a formal theorem.
-- \(\mathcal{S}\): Powell’s scalable operating system, not a physical operator but a business process map.
+- \(M_{\text{Miami, 10y}}, M_{\text{Miami, now}}\): millionaire counts used only to formalize the host’s “75% more millionaires” framing.
+- \(Y_{e,t}\): earned income at time \(t\), from job, business, or other active vehicle.
+- \(C_t\): consumption or lifestyle spending at time \(t\).
+- \(S_t\): savings or investable surplus after consumption.
+- \(A_t\): asset base accumulated through reinvested surplus.
+- \(V_0, \Delta V, V_1\): principal, gain, and post-return value in the ETF example.
+- \(r\): return rate in the ETF example; use only for percentage return, not for rent.
+- \(n\): number of units in the multifamily property; here \(n=8\).
+- \(c_u\): average monthly net contribution of one paying unit toward debt service; chosen to avoid collision with \(r\).
+- \(D_m\): monthly debt load or debt service on the 8-plex.
+- \(I_p\): passive monthly or periodic income generated by assets.
+- \(C_l\): lifestyle cost threshold that must be covered for “financial freedom” in the Anthony/Eric sense.
+- \(B_{0,\text{gym}}\): initial startup budget in the gym example.
+- \(E_{\text{gym}}\): equipment spend in the gym example.
+- \(L_{m,\text{gym}}\): monthly lease/rent burden in the gym example.
+- \(W_{\text{gym}}\): working-capital reserve; not given numerically, but needed conceptually in the budget sketch.
+- \(P_{\text{gym}}\): payroll reserve; again conceptual rather than numerically given.
+- “System”: verbal object, not symbolic; preserve as a business-operations concept rather than forcing mathematical notation onto it.
+- “Financial freedom”: use as a threshold condition in Anthony/Eric; flag separately that the Poppy Steak interview rejects it as a stable endpoint.
 
 ## Derivation Steps
-
-Powell compounding example
-1. Start with \(V_0 = 100{,}000\).
-2. Take the spoken annual gain rate \(r = 0.17\).
-3. Compute gain as \(\Delta V = rV_0 = 17{,}000\).
-4. Add gain to principal: \(V_1 = V_0 + \Delta V = 117{,}000\).
-5. Generalize to recurring investing with \(V_{t+1} = V_t(1+r_t) + c_t\).
-
-Gym startup failure mechanism
-1. Start from opening capital near \(500{,}000\).
-2. Allocate a large fraction to equipment, roughly \(300{,}000\) to \(500{,}000\).
-3. Add luxury-district rent \(R_{\text{rent}} \approx 38{,}000\) per month.
-4. Add payroll and other fixed costs to form \(B_{\text{monthly}}\).
-5. If reserve capital \(C_{\text{reserve}}\) is too small, runway \(= C_{\text{reserve}}/B_{\text{monthly}}\) is short.
-6. Conclude that failure can occur before opening, not only after revenue disappoints.
-
-8-plex coverage mechanism
-1. Buy a multifamily property with \(N=8\) units.
-2. Treat the loan as underwritten on property cash flow rather than pure personal residence logic.
-3. Sum rent receipts into \(I_{\text{rent}}\).
-4. Compare against debt and operating burden: \(I_{\text{rent}} \ge D_{\text{debt}} + O_{\text{ops}}\).
-5. If coverage holds, ownership cost is effectively carried by tenant cash flow.
-6. Improve the asset, raise value, then exit at a higher valuation.
-
-Financial freedom threshold
-1. Separate earned income from passive asset income.
-2. Keep earned income from being fully consumed: \(S_t = Y_{\text{earned},t} - C_t\).
-3. Convert savings into compounding or cash-flowing assets.
-4. Let passive income rise over time: \(I_{\text{passive}}\uparrow\).
-5. The threshold event is \(I_{\text{passive}} \ge E_{\text{lifestyle}}\).
-6. After that point, work becomes optional in the narrow financial sense used by the lecture.
-
-Systems-scaling logic
-1. Replace personality-dependent selling with a repeatable pipeline \(\mathcal{S}\).
-2. Standardize lead intake, routing, training, and execution.
-3. Reduce dependence on any single operator’s brilliance.
-4. Increase transferability of the system across products and services.
-5. Treat scale as a property of process quality, not only revenue volume.
+1. Miami wealth-growth framing: start with a decade-ago millionaire count \(M_{\text{Miami, 10y}}\); apply the stated 75% increase; write \(M_{\text{Miami, now}} \approx 1.75\,M_{\text{Miami, 10y}}\); use only as contextual framing, not as a model of causation.
+2. ETF gain example: set \(V_0=\$100{,}000\); use the stated annual gain rate \(r=0.17\); compute \(\Delta V=rV_0=\$17{,}000\); infer \(V_1=V_0+\Delta V=\$117{,}000\) before fees, taxes, or withdrawals.
+3. Earned-income allocation logic: begin with earned income \(Y_{e,t}\); subtract consumption \(C_t\) to define \(S_t=Y_{e,t}-C_t\); move the surplus into assets via \(A_{t+1}=A_t+S_t\); interpret this as Anthony’s “make money, do not spend it, invest it in assets” sequence.
+4. 8-plex debt-load mechanism: set unit count \(n=8\); treat one unit as the owner-benefit position; count seven paying units; define each paying unit’s debt-service contribution as \(c_u\); test the condition \(7c_u \ge D_m\); if the inequality holds, the owner’s effective housing cost is absorbed by tenant cash flow.
+5. Multifamily upside sequence: acquire the 8-plex; ensure debt coverage from rents; improve the property’s value; sell after value increase; state “double the money” only as the interviewee’s claimed outcome, not as a computed ROI.
+6. Financial-freedom threshold: accumulate cash-flowing assets until passive income \(I_p\) grows; compare \(I_p\) against lifestyle cost \(C_l\); mark the threshold at \(I_p \ge C_l\); connect that threshold to Eric’s verbal claim that one then acts because one wants to, not because one must.
+7. Gym failure-before-opening sketch: begin with \(B_{0,\text{gym}} \approx \$500{,}000\); allocate \(E_{\text{gym}} \in [\$300{,}000,\$500{,}000]\) to equipment; add \(L_{m,\text{gym}}=\$38{,}000/\text{month}\); note the missing reserve variables \(W_{\text{gym}}, P_{\text{gym}}\); conclude that fixed commitments can absorb viability before any revenue stabilizes.
 
 ## Notation Choices
-
-- Use \(Y_{\text{earned}}\) for active income and \(I_{\text{passive}}\) for passive income; do not mix “income” and “cash flow” unless the transcript specifically shifts to property operations.
-- Use \(V_t\) for market portfolio value and \(CF_{\text{net}}\) for real-estate cash flow.
-- Use \(r\) for asset return rates and \(i\) only if borrowing-rate discussion is formalized; if used, set \(i_{\text{borrow}} \approx 0.08\) as an attributed anecdotal rate.
-- Use \(\approx\) rather than \(=\) for spoken statistics, rates, and market claims that are not derived in the source.
-- Use inequalities for threshold claims: debt coverage, runway adequacy, and financial-freedom conditions are better expressed as \(\ge\) or \(\le\) than exact equalities.
-- Keep “system” as \(\mathcal{S}\) only when a compact pipeline notation is useful; otherwise write it out in prose to avoid over-formalizing the interview.
-- Reserve \(N=8\) for the 8-plex example and avoid treating “seven people paid the debt load” as a universal formula.
-- Use \(P_{\text{payroll}}\), not the transcript’s apparent “paywall.”
-- Do not introduce economics notation for utility, optimization, or stochastic processes; the lecture does not support that level of formalism.
+- Use \(Y_e\) for earned income, \(C\) for consumption, \(S\) for savings, \(A\) for asset base, \(I_p\) for passive income, and \(C_l\) for lifestyle cost.
+- Use \(V_0, \Delta V, V_1, r\) only in the ETF-return example.
+- Use \(c_u\) for per-unit monthly contribution in the 8-plex example; do not use \(R\), because it could mean return, rent, or revenue.
+- Use \(D_m\) for monthly debt load; the lecture’s language is “debt load,” so avoid introducing more technical mortgage notation than needed.
+- Use \(L_{m,\text{gym}}\) for monthly lease/rent in the gym example; keep gym rent distinct from multifamily unit contributions.
+- Use \(\ge\) to mean “covers” or “meets threshold.”
+- Use \(\to\) only for process flow, not as a causal theorem; for example, earned income \(\to\) savings \(\to\) assets \(\to\) passive income.
+- Reserve dollar figures in math mode as \(\$100{,}000\), \(\$17{,}000\), etc., with commas for readability.
+- Do not introduce DSCR, cap rate, IRR, NPV, or tax notation; the lecture never reaches that level of formal detail.
+- Treat “system,” “psychology,” and “honesty” as verbal mechanisms, not symbolic operators.
 
 ## Uncertain Mathematics
-
-- No [visible] mathematics survives from frame evidence; every formal item here is transcript-backed or editorial reconstruction.
-- The claims \(75\%\) more millionaires, \(45\%\) with side hustles, \(17\%\) S&P growth, and \(8\%\) borrowing should be stated as source claims, not verified facts.
-- The Section 8 passage is garbled in the transcript around the affordability explanation; only the high-confidence pieces should be mathematized: sub-\$100k entry claim, higher cash-on-cash rhetoric, and the passive-income argument.
-- The 8-plex line “those seven people paid the debt load” is a narrative simplification; the final notes should not imply a full pro forma was given.
-- \(Y_{\text{CoC}} = CF_{\text{net}}/E_0\) is standard finance reconstruction; the lecture names “cash on cash returns” but does not write or derive the formula.
-- The system map \(\mathcal{S}\) is a compact editorial formalization of Powell’s McDonald’s analogy plus lead-management stack, not lecture-native notation.
-- The gym failure model depends on an inferred reserve variable \(C_{\text{reserve}}\); the transcript gives the logic, not a complete balance sheet.
-- “Financial freedom” is used inconsistently across guests: one speaker treats it as never-ending striving, another as the passive-income threshold. Keep those as competing definitions in the final chapter.
+- No equation is frame-backed; all formulas are transcript-derived or editorial reconstructions.
+- \(M_{\text{Miami, now}} \approx 1.75\,M_{\text{Miami, 10y}}\) is a clean translation of the host’s framing statistic, but the statistic itself is not derived inside the lecture.
+- \(p(\text{side hustle}\mid \text{millionaire}) \approx 0.45\) is a host/sponsor claim, not an internally justified result.
+- Johnny’s figures are self-reported and internally uneven; preserve them as claims, not as a consistent audited revenue series.
+- The general business-failure statistic near “out of 10 businesses” is too ambiguous to formalize confidently; only the gym-world “about three out of 10” claim is somewhat clearer, and even that should be treated cautiously.
+- The ETF example supports simple arithmetic only; it does not justify broader claims like “the S&P has outproduced everything” as a theorem.
+- The 8-plex inequality \(7c_u \ge D_m\) is a very thin abstraction; it ignores vacancy, repairs, taxes, insurance, management, and financing terms.
+- “I got it for free” should be treated as rhetorical shorthand for effective housing cost being covered by tenants, not literal zero cost.
+- Eric’s Section 8 explanation is partly garbled; avoid formalizing cash-on-cash return, subsidy mechanics, or poverty-threshold details beyond the clearly recoverable claims.
+- \(I_p \ge C_l\) is the cleanest summary of the lecture’s version of financial freedom, but one speaker explicitly denies that financial freedom is ever final; preserve that conceptual tension in the written chapter.
