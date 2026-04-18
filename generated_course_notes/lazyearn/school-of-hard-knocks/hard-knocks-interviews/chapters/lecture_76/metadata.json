@@ -1,0 +1,24 @@
+{
+  "course_rel": "lazyearn/school-of-hard-knocks/hard-knocks-interviews",
+  "transcript_rel": "lazyearn/school-of-hard-knocks/hard-knocks-interviews/076 - Asking Scottsdale Millionaires How They Got Rich [sExOe8q1QBc].md",
+  "video_rel": "lazyearn/school-of-hard-knocks/hard-knocks-interviews/076 - Asking Scottsdale Millionaires How They Got Rich [sExOe8q1QBc].webm",
+  "lecture_number": 76,
+  "lecture_slug": "lecture_76",
+  "lecture_title": "Asking Scottsdale Millionaires How They Got Rich",
+  "assets": [
+    {
+      "name": "lecture_76_figure_02.png",
+      "timestamp_seconds": 506.722,
+      "timestamp_hhmmss": "00:08:26.722",
+      "source_candidate": "lecture_76_window_05_candidate_01_000826722.png",
+      "recommended_use": "screenshot_only",
+      "rationale": "This frame is the best evidence-bearing option because the on-screen product mockup is fully visible, legible, and least affected by motion. It preserves the key visual context for the speaker's explanation: a birthday gift flow inside the Fabric by Gerber Life interface, including the $25 card example and send button, which makes the spoken point more concrete for later note writing.",
+      "subtitle_excerpt": "So instead of them bringing them toys on their birthdays,",
+      "segment_start_seconds": 506.52,
+      "segment_start_hhmmss": "00:08:26.520",
+      "segment_end_seconds": 508.2,
+      "segment_end_hhmmss": "00:08:28.200",
+      "caption_hint": "Fabric gift-card app mockup"
+    }
+  ]
+}
