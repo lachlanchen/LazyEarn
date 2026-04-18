@@ -1,9 +1,9 @@
 {
   "tool": "scripts/book_cover_nanobanana.py",
   "created_at": "2026-04-18T10:53:53+08:00",
-  "output_dir": "/home/lachlan/ProjectsLFS/LazyEarn/investment_pdfs/quad-tango-muto/build/cover_run",
-  "prompt_file": "/home/lachlan/ProjectsLFS/LazyEarn/investment_pdfs/quad-tango-muto/build/cover_run/prompt.txt",
-  "request_payload_redacted": "/home/lachlan/ProjectsLFS/LazyEarn/investment_pdfs/quad-tango-muto/build/cover_run/request_payload.redacted.json",
+  "output_dir": "/home/lachlan/ProjectsLFS/LazyEarn/investment_pdfs/quod-tango-muto/build/cover_run",
+  "prompt_file": "/home/lachlan/ProjectsLFS/LazyEarn/investment_pdfs/quod-tango-muto/build/cover_run/prompt.txt",
+  "request_payload_redacted": "/home/lachlan/ProjectsLFS/LazyEarn/investment_pdfs/quod-tango-muto/build/cover_run/request_payload.redacted.json",
   "host": "https://grsaiapi.com",
   "model": "nano-banana-2",
   "aspect_ratio": "2:3",
@@ -14,7 +14,7 @@
   "submitted_at": "2026-04-18T10:53:54+08:00",
   "finished_at": "2026-04-18T10:54:43+08:00",
   "downloaded_files": [
-    "/home/lachlan/ProjectsLFS/LazyEarn/investment_pdfs/quad-tango-muto/build/cover_run/quad-tango-muto-cover.png"
+    "/home/lachlan/ProjectsLFS/LazyEarn/investment_pdfs/quod-tango-muto/build/cover_run/quod-tango-muto-cover.png"
   ],
   "result_urls": [
     "https://file2.aitohumanize.com/file/d2821533b4e9482b9667cb69ec8b9d1d.png"

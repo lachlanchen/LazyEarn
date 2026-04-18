@@ -14,7 +14,7 @@ books=(
   "investment_pdfs/financial_freedom|financial_freedom.tex|financial_freedom"
   "investment_pdfs/financial_freedom/zh|financial_freedom_zh.tex|financial_freedom_zh"
   "investment_pdfs/high-growth-stocks|high-growth-stocks.tex|high-growth-stocks"
-  "investment_pdfs/quad-tango-muto|quad-tango-muto.tex|quad-tango-muto"
+  "investment_pdfs/quod-tango-muto|quod-tango-muto.tex|quod-tango-muto"
 )
 
 run_export() {
