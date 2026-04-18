@@ -9507,3 +9507,62 @@ All items below should be treated as transcript-backed editorial syntheses, not 
   and `cash equals freedom, not happiness`.
 - Use lecture 70 to strengthen one sentence that now deserves to recur across the book:
   wealth survives by buffer, grows by motion, and lasts by reputation.
+
+## Lecture 71 integration: Asking Millionaires How They Got RICH! (Dallas)
+
+### New evidence
+- This lecture materially strengthens one course-level claim: cash flow is not merely one recurring business topic but one of the clearest cross-industry invariants in the series. In Dallas, both the bank operator and the retired consultant independently identify failure to manage cash flow as the common reason otherwise promising businesses fail to scale or survive.
+- The bank operator adds a clean operating mechanism that should now sit more explicitly inside the book’s scale chapter: growth by acquisition, followed by cost stripping, rather than growth only through organic invention. This is one of the sharper transcript-backed formulations of acquisition-led scaling in the series.
+- The same banking case adds a compact governance rule that is useful for the persistent capital chapter: use equity, but do not let any one investor become so large that the founder is effectively working for that investor. This sharpens the book’s existing treatment of capital structure by making investor concentration, not just debt burden, part of the control problem.
+- The consultant case gives unusually usable evidence for the book’s labor-versus-ownership distinction. The lecture explicitly separates salary, bonus, and dividends, with approximate reported figures of about \$500,000 salary, about \$250,000 bonus, and the move into roughly \$8\text{--}10 million personal income coming mainly through dividends from equity ownership.
+- The consultant also gives a clean social-mobility sequence that should be reinforced in the book: learn the trade inside large firms for years, then spend the next decades building owned companies. This is one of the clearest transcript-backed apprenticeship-to-ownership transitions in the corpus.
+- The restaurant executive case adds a useful corrective to the series’ pro-ownership tendency: he argues that rushing into ownership can be inferior to working for someone else if ownership forces one to pledge house and assets. This is one of the bluntest owner-downside formulations in the course.
+- The same restaurant segment adds more evidence that household conditions belong inside the book’s wealth model. The claim is not only that work performance matters, but that support at home materially affects work quality, health, and long-duration business functioning.
+- The final Rolls-Royce entrepreneur contributes one of the clearest reserve-capital mechanisms in the corpus: save cash in good times, then use stress periods to buy assets from forced sellers at discounts described in the lecture as roughly 20\%\text{--}50\%.
+- That final case also clarifies what “invest back into yourself” means in operational terms: skills, associations, relationships, and reputation. This is more specific than many earlier self-investment slogans in the series.
+- The billionaire-habit claim in the last case is worth preserving as reasoning method rather than motivation: high performers ask more questions and enter rooms assuming they may be wrong. That belongs near the book’s sections on judgment, error correction, and commercial learning.
+
+### Conservative restructure plan
+- Do not create a new standalone thematic chapter for lecture 71. Feed it into existing dynamic chapters as reinforcing evidence.
+- Expand the book’s chapter on cash survival and scale with a Dallas case cluster built from two independent confirmations:
+  - bank operator: rapid growth can outstrip capital;
+  - consultant: good product or service still fails without cash-flow management.
+- Add a short subsection inside the ownership chapter on “Three ways wealth outruns salary in Dallas”:
+  - acquisition plus cost stripping;
+  - dividends from equity ownership;
+  - cash reserves converted into distressed-asset purchases.
+- Strengthen the capital-and-control chapter by adding the banker’s investor-concentration warning alongside existing debt-versus-equity material.
+- Strengthen the mobility/apprenticeship chapter with the consultant’s sequence: learn inside big firms, then build owned companies over the next decades.
+- Add the restaurant executive as a counterweight case inside the ownership chapter, not as a new chapter: ownership creates upside, but also concentrates collateral risk.
+- Add the final Dallas entrepreneur inside the reserve-capital/optionality chapter as a clean city-level illustration of liquidity converting downturns into buying windows.
+
+### New tensions or contradictions
+- This lecture contains a particularly useful internal contradiction that the book should preserve rather than smooth away:
+  - the banker and consultant imply that real money usually comes from ownership;
+  - the restaurant executive warns not to rush into ownership because the owner’s downside can be far worse than the employee’s downside.
+- That contradiction suggests the book should keep distinguishing ownership as wealth engine from ownership as risk concentration, rather than treating “own the business” as an unconditional rule.
+- The restaurant executive’s “real estate never goes down” claim should remain testimonial only. The more defensible follow-up in the same segment is the land-ownership logic: the people who really made money owned properties and land instead of merely leasing.
+- The final lecture segment braids two explanatory languages that should remain distinct in the book:
+  - spiritual interpretation of ruin and rebuilding;
+  - commercial interpretation through savings, liquidity, and forced-sale optionality.
+  Both are part of the testimony, but they should not be collapsed into one argument.
+
+### Frame or diagram opportunities
+- No validated screenshots, board equations, or frame-backed diagrams survive for lecture 71.
+- Do not add lecture-71-specific screenshot evidence to the persistent memory.
+- If a future book diagram is needed, it should remain explicitly transcript-derived only, with likely candidates being:
+  - apprenticeship \(\rightarrow\) ownership \(\rightarrow\) dividend income;
+  - good times save cash \(\rightarrow\) bad times buy distressed assets.
+
+### Next rewrite implications
+- When the nonlinear book is next expanded, use lecture 71 as a bridge lecture rather than a destination lecture. Its value is that it ties together three already-emerging book systems in one city:
+  - cash-flow survival,
+  - ownership income,
+  - reserve-capital optionality.
+- Preserve the host’s recap rhythm around the banker case. The spoken compression “cash flow is king” is one of the cleanest transitions from anecdote to portable rule in the later part of the series.
+- Keep the refusal montage alive in the book’s opening logic for this evidence cluster. Here it is not filler; it shows that access to wealthy operators is scarce, and that each useful case is obtained rather than staged.
+- Dallas should now be treated not just as another rich-city backdrop, but as a field where professionalized wealth shows up in distinct forms: bank acquisition, consulting equity, restaurant scale, and financial-services entrepreneurship.
+- Lecture 71 is especially useful for case-pairing in later book drafts:
+  - pair the banker and consultant on cash-flow failure;
+  - pair the consultant and final entrepreneur on ownership versus reinvestment;
+  - pair the restaurant executive and final entrepreneur on risk exposure versus reserve optionality.
