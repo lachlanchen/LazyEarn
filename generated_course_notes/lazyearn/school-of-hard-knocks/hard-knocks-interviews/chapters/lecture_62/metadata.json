@@ -1,0 +1,24 @@
+{
+  "course_rel": "lazyearn/school-of-hard-knocks/hard-knocks-interviews",
+  "transcript_rel": "lazyearn/school-of-hard-knocks/hard-knocks-interviews/062 - Asking San Francisco Millionaires How They Got Rich! [G_GZbtj0uP8].md",
+  "video_rel": "lazyearn/school-of-hard-knocks/hard-knocks-interviews/062 - Asking San Francisco Millionaires How They Got Rich! [G_GZbtj0uP8].webm",
+  "lecture_number": 62,
+  "lecture_slug": "lecture_62",
+  "lecture_title": "Asking San Francisco Millionaires How They Got Rich!",
+  "assets": [
+    {
+      "name": "lecture_62_figure_02.png",
+      "timestamp_seconds": 353.618,
+      "timestamp_hhmmss": "00:05:53.618",
+      "source_candidate": "lecture_62_window_05_candidate_04_000553618.png",
+      "recommended_use": "screenshot_plus_tikz",
+      "rationale": "This is the clearest and most self-contained of the candidate swing-state graphics. Arizona is fully visible, the state label is large and centered, the flag marker is unobstructed, and surrounding city labels make the geography legible. It avoids the blown-out look of the Nevada frame and reads more cleanly as a finished map graphic than the Georgia alternative.",
+      "subtitle_excerpt": "and even who will win the swing states.",
+      "segment_start_seconds": 351.84,
+      "segment_start_hhmmss": "00:05:51.840",
+      "segment_end_seconds": 353.86,
+      "segment_end_hhmmss": "00:05:53.860",
+      "caption_hint": "Arizona swing-state map"
+    }
+  ]
+}
