@@ -47,7 +47,9 @@ The completed Yale `Financial Markets` notes are now published from a repo-root 
 
 This publication contains a root-level cover, one full-course PDF, two pocket-size PDF variants (`1.0x` and `1.2x`) for 10-inch e-ink or iPad reading, and one PDF per lecture for Robert J. Shiller's full Yale sequence.
 
-## 🖼️ Publication shelf
+## 🖼️ Wealth research shelf
+
+This shelf is mirrored in the repo at [all_notes/wealth-research](all_notes/wealth-research) and synced to the local LazyingArtBooks `wealth-research` shelf.
 
 | Wealth from first principles | Financial freedom playbook | High-growth dossier | Quod Tango Muto | Yale Financial Markets notes |
 | --- | --- | --- | --- | --- |
