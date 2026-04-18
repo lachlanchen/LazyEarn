@@ -141,6 +141,8 @@ body::before {
 }
 
 .hero {
+  display: flex;
+  flex-direction: column;
   padding: 2.25rem clamp(1.25rem, 3vw, 4rem) 1.5rem;
 }
 
@@ -299,10 +301,12 @@ body::before {
 }
 
 .hero-grid {
+  order: 2;
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(270px, 1fr));
   gap: 3rem;
   align-items: center;
+  margin-top: 2.6rem;
 }
 
 .hero-copy h1 {
@@ -678,6 +682,7 @@ body::before {
 }
 
 .hero-library {
+  order: 1;
   margin-top: 2.6rem;
   padding: 2rem;
   border-radius: 34px;
