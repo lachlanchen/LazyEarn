@@ -8307,3 +8307,110 @@ All items below should be treated as transcript-backed editorial syntheses, not 
 - Use Steve Madden as a named anchor whenever the manuscript needs a high-scale founder saying that product is prior to distribution and that help/partners matter without erasing product primacy.
 - Use the construction mogul when the book needs a short field-tested sentence for delegated control. `People respect what you inspect` is stronger and more portable than generic founder-control language.
 - Use the older trader to keep the book’s public-markets chapter from sounding only institutional. Lecture 60 is one of the cleaner current bridges from elite market machinery to ordinary-entry compounding over \(30\text{--}40\) years.
+
+## Lecture 61 integration: Asking Millionaires Who They're Voting For President
+
+### New evidence
+- Lecture 61 adds one of the clearest course-level examples of the series running on two tracks at once: commercial method first, electoral preference second. The political question is structurally constant, but the durable book material remains leverage, realization, recovery, and investment behavior.
+- The New York real-estate developer strengthens the existing real-estate and negotiation chapters with a compact rule stack:
+  - ``buy dirt'' as the inherited asset heuristic;
+  - failure as the engine that creates hunger;
+  - an older ``subject to'' environment in which value could rise before closing;
+  - explicit bargaining arithmetic:
+    \[
+    r_{\text{ask}}=6\%,\qquad r_{\text{counter}}=4\%.
+    \]
+  - host recap worth preserving verbatim in spirit: the most desperate person has no leverage.
+- The lawyer segment adds one of the strongest course-wide cases for a dedicated ``paper wealth versus realized wealth'' subsection. The lecture gives a clean collapse sequence:
+  \[
+  V_{\text{peak}} \approx \$17.5\,\text{M},\qquad
+  \Delta t_{\text{lockup}}=6\ \text{months},
+  \]
+  \[
+  V_{\text{post-crash}} \approx \$750{,}000,\qquad
+  V_{\text{sale}} \approx \$350{,}000.
+  \]
+  This is stronger than a generic warning about timing; it is a named case where lockup constraints make visible wealth unrealizable.
+- The same lawyer segment adds another explicit course-level theme: marriage, divorce, and prenuptial agreements are being treated in this archive not as side biography but as part of capital preservation architecture.
+- The sponsor interruption is unusually useful for the dynamic book because it briefly turns politics into priced probability. Stable transcript-backed claims:
+  \[
+  p_{\text{general}} \approx 50\text{--}50,\qquad
+  \delta_{\text{margin}} \approx 1\%\text{--}2\%,\qquad
+  V_{\text{platform}} \approx \$1\,\text{billion}.
+  \]
+  It also gives a host-side promotional arithmetic:
+  \[
+  D=\$100 \Rightarrow C=\$20.
+  \]
+- Lecture 61 contributes one of the few validated screenshot-backed market interfaces in the whole course. The frame supports a compact public-markets notation:
+  \[
+  p_{s,c}=\Pr(\text{candidate }c\text{ wins state }s),
+  \]
+  with visible state-level examples for California, Iowa, New Mexico, Washington, D.C., and Indiana.
+- The excavation entrepreneur reinforces a major series claim: money and businesses can be lost while operating capacity survives. New timeline evidence:
+  \[
+  a_{\text{startup}}=24,\qquad
+  a_{\text{millionaire}}=27,\qquad
+  a_{\text{bankruptcy}}=31,
+  \]
+  \[
+  R_{\text{excavation}} \approx \$8\,\text{M/year at } a\approx 28\text{--}29,\qquad
+  T_{\text{rebuild}} \approx 10\ \text{years}.
+  \]
+  The rebuild mechanism is especially useful: sweat equity, night school, learning equipment, project management, estimating, and contract negotiation.
+- The final restaurant/finance operator strengthens two already-emerging themes with unusually compact phrasing:
+  - downside and loss are part of learning in both trading and operating;
+  - the class distinction:
+    \[
+    \text{middle class} \to \text{saves},\qquad
+    \text{upper class} \to \text{invests}.
+    \]
+  This lecture gives the cleanest simple arithmetic version yet:
+  \[
+  W_{t+1}^{\text{save}} = W_t + s_t,\qquad
+  W_{t+1}^{\text{invest}} = W_t + s_t + r_t W_t.
+  \]
+
+### Conservative restructure plan
+- Do not create a standalone politics chapter from lecture 61. The lecture does not justify that structurally; politics is the repeating interview prompt, not the deepest explanatory engine.
+- Fold the real-estate developer into the existing negotiation/leverage chapter and, if not already present, add a short ``walk-away power'' subsection anchored by the host's recap and the \(6\%\to4\%\) anecdote.
+- Add a distinct subsection in the capital-fragility or wealth-preservation chapter for ``quoted wealth versus captured wealth,'' using the lawyer's \(\$17.5\text{M}\to\$750\text{k}\to\$350\text{k}\) sequence as a flagship case.
+- Add a small crossover subsection in the public-markets chapter for ``beliefs with prices beyond stocks,'' using the election-market interruption not as a politics digression but as evidence that the series now explicitly prices uncertain outcomes in market form.
+- Strengthen the failure/rebuild chapter with the excavation case as a clean example of retained capability after bankruptcy, especially the founder's forced absorption of many roles.
+- Use the final speaker to reinforce, not replace, the book's ongoing save-versus-invest thread. The lecture adds a particularly economical verbal formula and a Peter Lynch-style observational method.
+
+### New tensions or contradictions
+- Lecture 61 sharpens a recurring series tension: the interview format keeps attaching political preference to business success, but the richer explanatory content still lies elsewhere. The dynamic book should preserve that asymmetry rather than smoothing it away.
+- The lawyer's dot-com story directly corrects the series' frequent teaser habit of spending large numbers before the reader knows whether they are income, company revenue, marked equity, or realizable cash. This lecture should be used as a corrective lens on earlier scale claims.
+- The first speaker's bank posture adds useful friction to the course memory: some interviews treat lenders as counterparties to be pushed hard or bypassed, while other lectures rely on leverage, financing, and institutional trust. Keep this as a contextual tension, not a universal anti-bank doctrine.
+- The final speaker's ``banks don't lend money to restaurants'' is useful as operator sentiment but should remain marked as a heuristic rather than promoted to a financing law.
+- The subtitle around the market screenshot mentions Georgia and Arizona, but the visible frame does not show those states. This is a good reminder that visual support in the book must remain evidence-led and narrower than the spoken example when necessary.
+
+### Frame or diagram opportunities
+- `lecture_61_figure_02.png` is now one of the most reusable course-level figures because it provides explicit priced beliefs in a multi-card market layout rather than a generic interview still.
+- Reuse that frame whenever the book needs evidence for:
+  - politics recast as probability pricing;
+  - state-level market granularity;
+  - the broader theme that markets organize uncertain beliefs into visible prices.
+- Pair the screenshot with a compact table or displayed list of the visible state odds, not with an electoral map. The frame's real content is card structure and percentages, not geography.
+- If a small schematic is later useful, the safest form is:
+  \[
+  \text{general-election uncertainty}
+  \longrightarrow
+  \text{state-level market cards}
+  \longrightarrow
+  \text{priced beliefs}.
+  \]
+- The dollar figures beneath the cards are worth mentioning only cautiously as possible volume, liquidity, or traded-amount markers; the screenshot does not settle their exact meaning.
+
+### Next rewrite implications
+- When this lecture is folded into the dynamic book, preserve its actual narrative rhythm:
+  teaser splice, Austin reset, real-estate leverage, host recap, marriage and paper wealth, prediction-market interruption, excavation rebuild, second host recap, restaurant/trader/save-versus-invest close.
+- Keep the host recaps. In this lecture they are not filler; they are the mechanism that turns raw street anecdotes into portable doctrine.
+- The strongest reusable `Question & Answer` blocks contributed or reinforced by this lecture are:
+  - Why does willingness to walk away create leverage?
+  - When is wealth only paper wealth?
+  - What survives bankruptcy when the money does not?
+  - Why do restaurants and traders both force respect for loss?
+- Use lecture 61 to strengthen the book's through-line that wealth in this archive is not a static possession but a moving sequence of negotiations, constraints, exposures, losses, and rebuilds.
+- Keep all electoral judgments speaker-attributed. The durable book thesis added by lecture 61 is not partisan alignment; it is the sharper contrast between leverage and desperation, paper wealth and realized wealth, bankruptcy and retained capability, saving and investing.
