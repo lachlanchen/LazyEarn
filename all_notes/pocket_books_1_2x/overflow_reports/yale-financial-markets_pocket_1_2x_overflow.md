@@ -1,9 +1,9 @@
 # LaTeX Overflow Report
 
-- Generated: 2026-04-17T22:37:48+08:00
+- Generated: 2026-04-18T10:03:20+08:00
 - Variant: pocket_1_2x (onepointtwo, 6in x 9in, margin 0.55in)
-- Log: `/tmp/tmp.JynrYpEfQp/build/pdflatex.log`
-- Actionable overfull warnings: `107`
+- Log: `/tmp/tmp.qOyDa0tF55/build/pdflatex.log`
+- Actionable overfull warnings: `104`
 - Page-builder overfull warnings: `0`
 - Underfull paragraph warnings: `11`
 
@@ -11,14 +11,11 @@
 
 | Width | File | Line | Kind | Suggestion |
 | --- | --- | --- | --- | --- |
-| 68.69406pt too wide | /home/lachlan/ProjectsLFS/LazyEarn/generated_course_notes/lazyearn/yale-financial-markets/chapters/lecture_03/content.tex | 177 | paragraph | Rewrite the sentence around the long span or apply a local `\sloppypar` only where the warning occurs. |
-| 52.84471pt too wide | /home/lachlan/ProjectsLFS/LazyEarn/generated_course_notes/lazyearn/yale-financial-markets/chapters/lecture_03/content.tex | 185 | paragraph | Rewrite the sentence around the long span or apply a local `\sloppypar` only where the warning occurs. |
-| 114.40005pt too wide | /home/lachlan/ProjectsLFS/LazyEarn/generated_course_notes/lazyearn/yale-financial-markets/chapters/lecture_03/content.tex | 217 | paragraph | Rewrite the sentence around the long span or apply a local `\sloppypar` only where the warning occurs. |
-| 27.51263pt too wide | /home/lachlan/ProjectsLFS/LazyEarn/generated_course_notes/lazyearn/yale-financial-markets/chapters/lecture_04/content.tex | 140-141 | figure | Scale the figure or TikZ block to `\linewidth`, shorten labels, or move wide captions out of the narrow layout. |
-| 53.8051pt too wide | /home/lachlan/ProjectsLFS/LazyEarn/generated_course_notes/lazyearn/yale-financial-markets/chapters/lecture_04/content.tex | 185 | paragraph | Rewrite the sentence around the long span or apply a local `\sloppypar` only where the warning occurs. |
-| 59.49864pt too wide | /home/lachlan/ProjectsLFS/LazyEarn/generated_course_notes/lazyearn/yale-financial-markets/chapters/lecture_04/content.tex | 211-212 | figure | Scale the figure or TikZ block to `\linewidth`, shorten labels, or move wide captions out of the narrow layout. |
-| 48.51964pt too wide | /home/lachlan/ProjectsLFS/LazyEarn/generated_course_notes/lazyearn/yale-financial-markets/chapters/lecture_04/content.tex | 250 | unbreakable-text | Insert discretionary breaks, shorten the unbreakable token, or move it out of the narrow paragraph. |
-| 251.91615pt too wide | /home/lachlan/ProjectsLFS/LazyEarn/generated_course_notes/lazyearn/yale-financial-markets/chapters/lecture_04/content.tex | 302-303 | figure | Scale the figure or TikZ block to `\linewidth`, shorten labels, or move wide captions out of the narrow layout. |
+| 11.73123pt too wide | /home/lachlan/ProjectsLFS/LazyEarn/generated_course_notes/lazyearn/yale-financial-markets/chapters/lecture_03/content.tex | 181 | paragraph | Rewrite the sentence around the long span or apply a local `\sloppypar` only where the warning occurs. |
+| 15.44582pt too wide | /home/lachlan/ProjectsLFS/LazyEarn/generated_course_notes/lazyearn/yale-financial-markets/chapters/lecture_03/content.tex | 224 | paragraph | Rewrite the sentence around the long span or apply a local `\sloppypar` only where the warning occurs. |
+| 11.68199pt too wide | /home/lachlan/ProjectsLFS/LazyEarn/generated_course_notes/lazyearn/yale-financial-markets/chapters/lecture_04/content.tex | 140-141 | figure | Scale the figure or TikZ block to `\linewidth`, shorten labels, or move wide captions out of the narrow layout. |
+| 32.87202pt too wide | /home/lachlan/ProjectsLFS/LazyEarn/generated_course_notes/lazyearn/yale-financial-markets/chapters/lecture_04/content.tex | 184 | paragraph | Rewrite the sentence around the long span or apply a local `\sloppypar` only where the warning occurs. |
+| 48.51964pt too wide | /home/lachlan/ProjectsLFS/LazyEarn/generated_course_notes/lazyearn/yale-financial-markets/chapters/lecture_04/content.tex | 251 | unbreakable-text | Insert discretionary breaks, shorten the unbreakable token, or move it out of the narrow paragraph. |
 | 46.99672pt too wide | /home/lachlan/ProjectsLFS/LazyEarn/generated_course_notes/lazyearn/yale-financial-markets/chapters/lecture_05/content.tex | 65 | paragraph | Rewrite the sentence around the long span or apply a local `\sloppypar` only where the warning occurs. |
 | 229.28061pt too wide | /home/lachlan/ProjectsLFS/LazyEarn/generated_course_notes/lazyearn/yale-financial-markets/chapters/lecture_05/content.tex | 115 | paragraph | Rewrite the sentence around the long span or apply a local `\sloppypar` only where the warning occurs. |
 | 8.86551pt too wide | /home/lachlan/ProjectsLFS/LazyEarn/generated_course_notes/lazyearn/yale-financial-markets/chapters/lecture_05/content.tex | 152 | paragraph | Rewrite the sentence around the long span or apply a local `\sloppypar` only where the warning occurs. |
@@ -121,99 +118,63 @@
 
 ## Source Excerpts
 
-### `/home/lachlan/ProjectsLFS/LazyEarn/generated_course_notes/lazyearn/yale-financial-markets/chapters/lecture_03/content.tex:177`
+### `/home/lachlan/ProjectsLFS/LazyEarn/generated_course_notes/lazyearn/yale-financial-markets/chapters/lecture_03/content.tex:181`
 
-- Width: `68.69406pt too wide`
+- Width: `11.73123pt too wide`
 - Kind: `paragraph`
 - Suggestion: Rewrite the sentence around the long span or apply a local `\sloppypar` only where the warning occurs.
 
 ```tex
-\text{payment in pesos at time } t = q \times (\text{peso value of }1\,\mathrm{UF}\text{ at time } t).
+\end{aligned}
 \end{equation}
 The real promise remains stable even while the peso drifts.
 ```
 
-### `/home/lachlan/ProjectsLFS/LazyEarn/generated_course_notes/lazyearn/yale-financial-markets/chapters/lecture_03/content.tex:185`
+### `/home/lachlan/ProjectsLFS/LazyEarn/generated_course_notes/lazyearn/yale-financial-markets/chapters/lecture_03/content.tex:224`
 
-- Width: `52.84471pt too wide`
+- Width: `15.44582pt too wide`
 - Kind: `paragraph`
 - Suggestion: Rewrite the sentence around the long span or apply a local `\sloppypar` only where the warning occurs.
 
 ```tex
-1\ \mathrm{UF}_{\text{lecture date}}\approx 21{,}468\ \text{pesos}.
-\end{equation}
-Thus the peso value attached to one UF rose by roughly
-```
-
-### `/home/lachlan/ProjectsLFS/LazyEarn/generated_course_notes/lazyearn/yale-financial-markets/chapters/lecture_03/content.tex:217`
-
-- Width: `114.40005pt too wide`
-- Kind: `paragraph`
-- Suggestion: Rewrite the sentence around the long span or apply a local `\sloppypar` only where the warning occurs.
-
-```tex
-\text{protection seller} &\rightarrow \text{protection buyer}: \text{payment if a credit event occurs}.
+&\qquad \text{payment if a credit event occurs}.
 \end{align}
 The event may be bankruptcy or some other contractually defined default-type event. The lecture insists on the obvious economic intuition: the buyer is purchasing protection against credit risk.
 ```
 
 ### `/home/lachlan/ProjectsLFS/LazyEarn/generated_course_notes/lazyearn/yale-financial-markets/chapters/lecture_04/content.tex:140-141`
 
-- Width: `27.51263pt too wide`
+- Width: `11.68199pt too wide`
 - Kind: `figure`
 - Suggestion: Scale the figure or TikZ block to `\linewidth`, shorten labels, or move wide captions out of the narrow layout.
 
 ```tex
 \node[left] at (0,-2) {$-25\%$};
 \end{tikzpicture}
-\caption{Transcript-based reconstruction of the one-risky-one-riskless opportunity set.}
+\caption{Reconstruction of the one-risky-one-riskless opportunity set.}
 ```
 
-### `/home/lachlan/ProjectsLFS/LazyEarn/generated_course_notes/lazyearn/yale-financial-markets/chapters/lecture_04/content.tex:185`
+### `/home/lachlan/ProjectsLFS/LazyEarn/generated_course_notes/lazyearn/yale-financial-markets/chapters/lecture_04/content.tex:184`
 
-- Width: `53.8051pt too wide`
+- Width: `32.87202pt too wide`
 - Kind: `paragraph`
 - Suggestion: Rewrite the sentence around the long span or apply a local `\sloppypar` only where the warning occurs.
 
 ```tex
-\sigma_{12}.
+&\qquad \times \sigma_{12}.
 \end{align}
 ```
 
-### `/home/lachlan/ProjectsLFS/LazyEarn/generated_course_notes/lazyearn/yale-financial-markets/chapters/lecture_04/content.tex:211-212`
-
-- Width: `59.49864pt too wide`
-- Kind: `figure`
-- Suggestion: Scale the figure or TikZ block to `\linewidth`, shorten labels, or move wide captions out of the narrow layout.
-
-```tex
-\node[above right] at (13.2,7.8) {efficient frontier};
-\end{tikzpicture}
-\caption{Simplified redraw of the two-asset opportunity set. The efficient frontier is the upper branch above the minimum-variance point.}
-```
-
-### `/home/lachlan/ProjectsLFS/LazyEarn/generated_course_notes/lazyearn/yale-financial-markets/chapters/lecture_04/content.tex:250`
+### `/home/lachlan/ProjectsLFS/LazyEarn/generated_course_notes/lazyearn/yale-financial-markets/chapters/lecture_04/content.tex:251`
 
 - Width: `48.51964pt too wide`
 - Kind: `unbreakable-text`
 - Suggestion: Insert discretionary breaks, shorten the unbreakable token, or move it out of the narrow paragraph.
 
 ```tex
-2x_2x_3 \sigma_{23}.
+2x_2 x_3 \sigma_{23}.
 \end{align}
 The lecture's chart should then be read as follows: for each target expected return, solve for the minimum-variance mixture of stocks, bonds, and oil. The resulting set of minimizing portfolios traces a new frontier.
-```
-
-### `/home/lachlan/ProjectsLFS/LazyEarn/generated_course_notes/lazyearn/yale-financial-markets/chapters/lecture_04/content.tex:302-303`
-
-- Width: `251.91615pt too wide`
-- Kind: `figure`
-- Suggestion: Scale the figure or TikZ block to `\linewidth`, shorten labels, or move wide captions out of the narrow layout.
-
-```tex
-\node[right] at (17.0,12.7) {W/O Oil};
-\end{tikzpicture}
-\caption{Simplified redraw of the frontier comparison, preserving the lecture's truncated horizontal axis beginning at \(5\%\).}
 ```
 
 ### `/home/lachlan/ProjectsLFS/LazyEarn/generated_course_notes/lazyearn/yale-financial-markets/chapters/lecture_05/content.tex:65`
