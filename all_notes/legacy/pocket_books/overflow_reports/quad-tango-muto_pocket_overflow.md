@@ -1,8 +1,8 @@
 # LaTeX Overflow Report
 
-- Generated: 2026-04-18T10:20:59+08:00
+- Generated: 2026-04-18T10:48:05+08:00
 - Variant: quad-tango-muto_pocket.pdf
-- Log: `/tmp/tmp.JXax3jCn7B/build/quad-tango-muto.log`
+- Log: `/tmp/tmp.EKNRZRfbxE/build/quad-tango-muto.log`
 - Actionable overfull warnings: `0`
 - Page-builder overfull warnings: `0`
 - Underfull paragraph warnings: `1`

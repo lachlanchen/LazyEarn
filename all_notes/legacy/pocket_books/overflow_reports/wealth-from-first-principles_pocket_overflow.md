@@ -1,8 +1,8 @@
 # LaTeX Overflow Report
 
-- Generated: 2026-04-18T10:19:23+08:00
+- Generated: 2026-04-18T10:48:14+08:00
 - Variant: wealth-from-first-principles_pocket.pdf
-- Log: `/tmp/tmp.kheW1EkM4s/build/wealth-from-first-principles.log`
+- Log: `/tmp/tmp.LlpbcnNNAq/build/wealth-from-first-principles.log`
 - Actionable overfull warnings: `18`
 - Page-builder overfull warnings: `0`
 - Underfull paragraph warnings: `225`

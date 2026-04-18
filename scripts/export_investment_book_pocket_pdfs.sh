@@ -23,13 +23,18 @@ run_export() {
   local stem="$3"
   local font_mode="$4"
   local suffix="$5"
+  local project_root="$repo_root/$project_rel"
+  local overflow_report="$project_root/build/${stem}_${suffix}_overflow.md"
+
+  mkdir -p "$project_root/build"
 
   "$exporter" \
     --repo-root "$repo_root" \
-    --project-root "$repo_root/$project_rel" \
+    --project-root "$project_root" \
     --main-tex "$main_tex" \
     --font-mode "$font_mode" \
-    --suffix "$suffix"
+    --suffix "$suffix" \
+    --overflow-report "$overflow_report"
 
   printf '[book-pocket] %s %s done\n' "$stem" "$suffix"
 }

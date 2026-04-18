@@ -1,8 +1,8 @@
 # LaTeX Overflow Report
 
-- Generated: 2026-04-18T10:20:48+08:00
+- Generated: 2026-04-18T10:48:22+08:00
 - Variant: high-growth-stocks_pocket.pdf
-- Log: `/tmp/tmp.vxnAQ6T6Kn/build/high-growth-stocks.log`
+- Log: `/tmp/tmp.RigFKhQcQc/build/high-growth-stocks.log`
 - Actionable overfull warnings: `6`
 - Page-builder overfull warnings: `0`
 - Underfull paragraph warnings: `2`
