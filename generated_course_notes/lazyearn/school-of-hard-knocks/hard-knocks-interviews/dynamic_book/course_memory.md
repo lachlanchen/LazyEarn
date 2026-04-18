@@ -9832,3 +9832,61 @@ All items below should be treated as transcript-backed editorial syntheses, not 
   - `systems + competent people with intent`;
   - `no ownership -> arms crossed in the boat`.
 - When the nonlinear book next expands, use lecture 74 as a bridge lecture between the archive’s asset-side ownership cases and its people/systems cases. It is unusually good at showing that wealth compounds through both financial structure and human structure, and that the same word `ownership` governs both.
+
+## Lecture 75 integration: Asking Salt Lake City Millionaires How They Got RICH!
+
+### New evidence
+- Salt Lake adds a clean three-case bundle that sharpens three different wealth mechanisms already present across the series but not usually this tightly in one lecture:
+  - frontier-timing and execution: a speaker says he came to Utah with \$50, later did over \$600 million in roughly a decade, calls the core method “execution,” and treats 2014 Bitcoin mining in Utah as an early infrastructure bet that later widens into a blockchain-and-AI thesis;
+  - recursive capital motion in real estate: Chris Krohn gives one of the clearest transcript-backed compounding ladders in the corpus, with a 3\% down payment, below-market purchase, equity stripped out, and one house helping buy the next;
+  - anti-consumption and concentration: Keaton Hoskins compresses wealth-building into lifestyle downgrade, reinvestment only into self and company, rejection of diversification, and a strict money-management ethic.
+- This lecture adds one of the strongest named recovery cases in the series: \$800,000 lost in 90 days through a bad hire, 75 layoffs, and recovery within 12 months through operational cleanup, better accounting/tax support, mentors, and renewed execution.
+- The lecture gives unusually compact “portable doctrines” that can be reused across the book:
+  - “selling” as the claimed rebuild skill if everything is lost;
+  - “the language of business is accounting” as a direct owner-literacy thesis;
+  - “financial arbitrage” as borrow-low, earn-high, keep-the-delta;
+  - “go deep” as a concentration doctrine against shotgun diversification;
+  - “if you can’t manage \$100, you can’t manage \$100{,}000 or \$1{,}000{,}000” as a behavioral scaling rule.
+- New transcript-backed arithmetic worth preserving in course memory:
+  - real-estate ladder: \(D_1 = 0.03P_1\), \(P_1 < V_1\), embedded equity recycled into the next asset;
+  - accounting primitives: gross revenue, expenses, margin;
+  - arbitrage spread examples: borrow at 3\% / 5\% / 7\%, earn 25\% / 50\% / 100\%;
+  - concentration arithmetic: 20\% across five things versus 100\% in one thing;
+  - austerity sketch: if income fell to \$3,000 per month, compress housing, transport, clothing, and food costs to rebuild surplus.
+- Salt Lake also reinforces the series-wide contrast between visible wealth signals and hidden operating discipline: the lecture opens with estates, cars, and eight-figure claims, then spends most of its useful time on layoffs, books, margins, down payments, spreads, and austerity.
+
+### Conservative restructure plan
+- Add a Salt Lake case cluster to the existing compounding / anti-consumption material, but do not create a new standalone lecture chapter in the nonlinear book. The strongest reusable subsection is: lifestyle compression is not moralizing; it is capital concentration.
+- Fold Chris Krohn’s sequence into the book’s existing real-estate / capital-plumbing material as the clearest current transcript-backed “house-to-house” equity recycling chain. Keep it explicitly simpler than a full BRRRR or underwriting model, because this lecture gives direction, not full deal structure.
+- Strengthen the book’s owner-literacy thread with the Krohn line that the owner is the real CFO. This lecture adds a particularly sharp bridge between entrepreneurship and accounting: revenue without retained margin is not treated as success.
+- Add the first entrepreneur’s loss-and-recovery story to the operating-discipline thread. The new value is not just “execution” as a slogan, but execution after a specific operational shock.
+- Keep the Keaton material inside the existing concentration / reinvestment architecture rather than a generic “mindset” chapter. Its real contribution is an allocation rule, not motivational color.
+
+### New tensions or contradictions
+- Lecture 75 is one of the most openly anti-diversification entries in the corpus. The future book should not flatten this into a universal law. It is better framed as an early-stage concentration doctrine that may conflict with later-stage diversification or portfolio preservation logic found elsewhere in the series.
+- The first entrepreneur’s blockchain / CBDC / tokenization thesis is much more speculative than the real-estate, accounting, and cash-management material. The book should preserve it as a frontier-timing claim, not as settled institutional fact.
+- “Never been broke” is redefined behaviorally rather than by account balance. That reframing is useful, but it should be marked as a speaker’s definition, not the book’s unexamined one.
+- “One in four millionaires live paycheck to paycheck” is a quoted claim in the lecture, not a verified corpus statistic.
+
+### Frame or diagram opportunities
+- No validated screenshots or frame-backed diagrams are added by lecture 75, so the course-wide figure inventory remains unchanged.
+- If the nonlinear book later needs a visual from this lecture, the safest transcript-derived schematic is the real-estate capital ladder:
+  - House 1 with 3\% down and below-market purchase
+  - embedded equity extraction
+  - House 2, then House 3
+- A second optional schematic is the arbitrage spread sketch:
+  - cheap borrowing
+  - higher-yield deployment
+  - operator keeps the delta
+- Both should be treated as explanatory reconstructions, not visual evidence.
+
+### Next rewrite implications
+- The next dynamic-book rewrite should make clearer that this lecture contributes three different wealth mechanisms, not one:
+  - entering a new infrastructure wave early and selling into it;
+  - making capital move recursively through asset ownership and equity extraction;
+  - defending surplus through concentration, anti-consumption, and low-entitlement living.
+- Preserve three local Question \& Answer beats as reusable nonlinear inserts:
+  - How does someone recover after a catastrophic business loss?
+  - What is the first real-estate move if you do not already have much capital?
+  - What financial principle does business school miss?
+- Use Salt Lake as strong supporting evidence for a book-level through-line already emerging across the series: the external image of wealth is repeatedly less informative than the internal discipline of execution, accounting control, capital recycling, and refusal of premature lifestyle inflation.
