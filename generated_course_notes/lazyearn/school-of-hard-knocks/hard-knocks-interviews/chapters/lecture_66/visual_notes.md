@@ -1,32 +1,23 @@
 # Visual Evidence
-
 ## Frame Inventory
-
-- No validated frame assets were available for this lecture.
-- No screenshot should remain in the final notes, because all candidate images were previously rejected as visually irrelevant to equations, diagrams, or board structure.
+- No validated frame assets are available for this lecture, so no screenshot should remain in the final notes.
 
 ## Equation Extraction
-
-- No [visible] equations were extractable from frame evidence.
-- No [partially visible] equations were extractable from frame evidence.
-- No [standard completion] equations should be justified from screenshots for this lecture, because there is no surviving visual mathematics to complete.
+- No frame-visible equations were extracted because no validated mathematical screenshots remain. [visible]
+- If the chapter later uses compact relations such as \(100{,}000 \times 0.17 = 17{,}000\), \(7R \ge D\), or \(I_{\text{passive}} \ge C_{\text{lifestyle}}\), those should be treated as transcript-derived formalizations rather than visual transcriptions. [standard completion]
 
 ## Diagram Extraction
-
-- No validated diagram, board layout, flowchart, axis sketch, or labeled figure was visible in the retained frame set.
-- No screenshot should be preserved as visual evidence in the final notes.
-- If the chapter later includes editorial diagrams, they should be redrawn from transcript content only, not presented as redraws of a visible lecture figure.
+- No validated diagrams, board layouts, or annotated visual structures were preserved from frames, so there is no screenshot to keep and no frame-backed TikZ redraw to produce.
+- Any later schematic, such as an earned-income-to-assets flow, an 8-plex cash-flow sketch, or a freedom-threshold diagram, would be a transcript-derived editorial reconstruction rather than a redraw of a visible lecture figure.
 
 ## Reconstruction Guidance
-
-- Treat this lecture as transcript-only for mathematical and diagrammatic purposes.
-- Any note-quality equations should be built from explicit spoken quantitative claims, not from supposed board evidence.
-- Any clean diagrams should be labeled as editorial reconstructions, for example a cash-flow schematic, a startup-budget breakdown, or a wealth-compounding flow, because no original lecture diagram survives.
-- Do not imply that any board notation, written formula, or on-screen schematic was visible when it was not.
-- Since there is no validated screenshot evidence, there is no requirement to place a screenshot beside a TikZ redraw in the final chapter for this lecture.
+- Build this chapter from the transcript, not from visuals: preserve only claims that are spoken clearly, and label any algebraic or schematic cleanup as reconstruction.
+- When turning spoken numerics into note-quality mathematics, keep the formalization minimal and faithful; for example, Anthony Powell’s ETF example may be rendered as \(100{,}000 \times 0.17 = 17{,}000\), but only as a compact restatement of what he says aloud.
+- For the 8-plex passage, the safest reconstruction is a verbal or symbolic cash-flow condition such as \(7R \ge D\), explicitly marked as a standard compression of the spoken idea that seven tenants cover the debt load.
+- For Eric Spofford’s definition of financial freedom, a clean threshold relation like \(I_{\text{passive}} \ge C_{\text{lifestyle}}\) is acceptable if clearly presented as transcript-backed synthesis rather than copied board notation.
+- Because no screenshot evidence exists, do not imply there was a board, slide, or on-screen diagram; if a diagram is later added, label it as an editorial schematic derived from interview content.
 
 ## Uncertainties
-
-- The absence of validated frames means there is no reliable visual basis for symbols, labels, indices, or layout.
-- Several transcript segments are garbled, especially in the Section 8 real-estate portion, so later reconstructions must be cautious and explicitly transcript-derived rather than frame-derived.
-- Because the source is an interview video rather than a genuine board lecture, any formal equations introduced in the final notes will necessarily be editorial summaries of spoken financial mechanisms rather than literal transcriptions of visible mathematics.
+- There is no visual evidence to inspect, so nothing can be claimed about visible notation, labels, arrows, axes, or board structure.
+- Several transcript segments in Eric Spofford’s Section 8 discussion are garbled, so any more detailed reconstruction beyond the clearly recoverable claims would be unreliable.
+- The lecture is not mathematically presented on screen; its quantitative content is spoken business reasoning, so later equations should remain sparse and explicitly marked as reconstructed summaries rather than original lecture mathematics.
