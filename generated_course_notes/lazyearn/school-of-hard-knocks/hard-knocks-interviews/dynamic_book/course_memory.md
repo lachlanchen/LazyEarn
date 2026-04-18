@@ -10567,3 +10567,77 @@ All items below should be treated as transcript-backed editorial syntheses, not 
   - \(G=\$5.5\text{M},\ N=\$2.4\text{M}\);
   - orthodontic practice cash flow into shopping centers and medical buildings;
   - final jet operator at roughly \(\$752\text{M}\) 2023 revenue with `feed the business` and `get free first` doctrine.
+
+## Lecture 84 integration: Asking Luxury Shoppers How They Got RICH! (Dallas)
+
+### New evidence
+- Lecture 84 gives the archive one of its clearest single-episode compressions of the series’ basic contrast: visible luxury first, durable mechanism second. Highland Park is framed as the sixth-wealthiest city in the United States, but the usable payload is not the cars or the income claims. It is word-keeping, patience, working-capital control, retention, and risk tolerance.
+- The retired supply-chain owner adds a sharp Dallas restatement of the trust chapter: tell the truth; if you do not keep your word in business, you have no business; in sales, honesty is still the edge. This is useful because it compresses truth, sales, and continuity into one explicit commercial claim rather than leaving honesty as vague character language.
+- The same supply-chain case adds a compact three-part operator rule that should stay together:
+  - expertise matters: do the homework and know more than others;
+  - scaling requires money management: `don’t be the bank`;
+  - AI may replace commonality, so sameness becomes weaker while creativity, inventiveness, and `another angle in` become more valuable.
+- The private-equity speaker gives a stronger anti-imitation mechanism than the memory currently holds in one place:
+  - nothing comes overnight;
+  - people buy things they cannot afford because social media distorts how they think they should live;
+  - the correct sequence is to learn from somebody who has done it, accept the lower-paid learning phase, then execute on your own.
+- The lecture adds a particularly clean horizon ladder against the fantasy of instant wealth:
+  \[
+  40\text{ years},\quad 18\text{ years},\quad 10\text{ years},\quad 14\text{ years}
+  \qquad \text{vs.} \qquad
+  \text{overnight}.
+  \]
+  This is one of the best single-episode supports for the book’s time-horizon chapter because the contrast is repeated across several speakers, not just asserted once.
+- The restaurant-owner case adds a distinct rock-bottom logic that should be preserved as more than motivational testimony:
+  - sleeping in parking lots;
+  - once already `in the ground`, perceived downside collapses;
+  - the actionable answer is to put God in the heart and keep moving forward;
+  - the business path runs from a gas-station taco start to five locations and roughly \(85\) to \(100\) employees, with a reported year around \(\$10\) million.
+- Von Miller adds one of the archive’s cleanest preservation formulas in spoken form:
+  - `save bread`;
+  - `don’t spend it`;
+  - hold it for the right circumstances;
+  - get the financial education while retaining the money.
+  This is especially useful because the lecture immediately ties financial preservation to human durability: resilience, bodily preparation, mental health, self-awareness, grace, and a roughly \(14\)-year career.
+- The final older-owner case strengthens the help-seeking lane with a more concrete failure mode than generic networking advice: many people struggle because they are afraid to pick up the phone, call someone they worked with before, ask for advice, or ask for support. Silence itself is treated as a commercial handicap.
+
+### Conservative restructure plan
+- Do not create a standalone `Dallas luxury shoppers` chapter. Lecture 84 should be redistributed into existing chapters.
+- Deepen Chapter 17, **Reputation, Trust, and Counterparty Memory**, with a short `Word-Keeping Is Business Existence` subsection. Pair the supply-chain owner’s `tell the truth / keep your word` compression with existing lender-trust, employee-trust, and counterparty-memory material.
+- Deepen the cash-survival / operating-scale material with a `Don’t Be the Bank` subsection. Lecture 84 belongs beside lecture 71’s Dallas cash-flow material as a second city-level confirmation that growth fails when money management fails.
+- Deepen the horizon / apprenticeship material with an `Imitation Spending and the Apprentice Pay Gap` subsection. The private-equity contribution is not generic patience alone, but patience tied to social-media distortion and the acceptance of a lower-paid learning phase.
+- Deepen the reinvestment / anti-consumption chapter with a `Save Bread` subsection, but keep it explicitly paired with the archive’s existing `you cannot save your way to wealth` doctrine so the two are read as stage-specific, not contradictory.
+- Add the restaurant-owner case to the small-format scaling evidence bank rather than making it a standalone restaurant chapter: gas station start, founder plus one worker, five locations, \(85\) to \(100\) employees, reported \(\$10\) million year.
+- Deepen the rock-bottom / recovery material with an `Already in the Ground` subsection. This lecture’s distinctive contribution is the perceived-downside-collapse logic, not rock-bottom rhetoric by itself.
+
+### New tensions or contradictions
+- Lecture 84 sharpens a distinction the book should now state more explicitly:
+  - `save bread` is a preservation rule;
+  - `you cannot save your way to wealth` is a creation rule.
+  Both can be true at different stages. The manuscript should stop treating them as if they were speaking about the same moment in the wealth path.
+- It also sharpens the archive’s education tension:
+  - the private-equity speaker says go to school, learn from somebody who has done it, and accept the learning phase;
+  - the restaurant owner is skeptical that business school can teach business if the teacher has never owned a business.
+  The common denominator is not credentials. It is proximity to real operators and real operating knowledge.
+- The lecture again braids faith and technique without resolving them:
+  - the restaurant owner attributes recovery to God in the heart;
+  - Von Miller attributes longevity partly to grace and partly to physical and mental preparation;
+  - the supply-chain and private-equity speakers explain success through truth, homework, patience, and cash discipline.
+  Keep these explanatory languages adjacent rather than forcing one synthesis.
+- The security interruption is structurally useful because it sharpens a recurring contradiction in the series: luxury footage looks frictionless, but the host’s actual method keeps requiring small social and situational risk. Access is still obtained, not granted.
+
+### Frame or diagram opportunities
+- No new validated frame assets enter course memory from lecture 84.
+- Safe transcript-derived editorial visuals later:
+  - a `visible wealth -> hidden mechanism` teaser-to-method table;
+  - a `40 / 18 / 10 / 14 year` horizon line against `overnight`;
+  - a `truth -> trust -> business continuity` causal chain;
+  - a `gas station -> 5 locations -> 85-100 employees` scale ladder;
+  - a minimal `income -> savings -> retained capital` preservation sketch, clearly marked as editorial rather than lecture-native.
+
+### Next rewrite implications
+- Preserve the lecture’s pivot structure if it is redistributed later: reputation -> patience -> rock bottom and scale -> interruption and risk -> preservation -> final synthesis on honesty, sacrifice, and help-seeking. The host recaps after major interviews are doing real interpretive work and should not be dropped.
+- Dallas should now carry two complementary book functions:
+  - lecture 71 = cash flow, ownership, reserve optionality;
+  - lecture 84 = word-keeping, anti-imitation, rock-bottom asymmetry, and preservation discipline.
+- When the nonlinear book next revises its middle chapters, use lecture 84 as a bridge lecture across trust, time horizon, preservation, and support-seeking rather than as a glamour-heavy city episode. Its reusable value is the way it turns luxury display back into operating rules.
