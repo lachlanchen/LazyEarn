@@ -91,8 +91,8 @@
 \begin{titlepage}
 \thispagestyle{empty}
 \begin{tikzpicture}[remember picture,overlay]
-  \node[anchor=south west,inner sep=0] at (current page.south west) {%
-    \includegraphics[width=\paperwidth,height=\paperheight]{cover-art.png}%
+  \node[anchor=center,inner sep=0] at (current page.center) {%
+    \includegraphics[height=\paperheight,keepaspectratio]{cover-art.png}%
   };
   \node[
     anchor=north west,

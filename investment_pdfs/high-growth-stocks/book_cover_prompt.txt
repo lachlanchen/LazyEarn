@@ -1,15 +1,17 @@
-Design a polished front-cover image for a serious investment dossier titled "High-Growth U.S. Stocks".
-This should feel like a real bookstore-ready financial research cover, not a pitch deck, poster, or social graphic.
+Design a polished front-cover image for a serious editorial research book about high-growth innovation sectors in the United States.
+The final overlaid book title will be "High-Growth U.S. Stocks", but do not render any text inside the image.
+This book compares companies across AI, semiconductors, biotech, clean energy, enterprise software, and research tables. The cover should reflect those contents.
+This should feel like a premium research volume, not a pitch deck, poster, or social graphic.
 Render a flat front-cover artwork only, not a photographed book, not a 3D mockup, and not a product render.
 Portrait composition with aspect ratio 2:3.
-Overall tone: sharp, disciplined, contemporary, and editorial, with a technology-and-markets sensibility but strong restraint.
-Use a restrained palette of warm paper cream, graphite, deep cobalt, muted emerald, and one small electric orange accent.
-Build the image from clean sector-like blocks and precise abstract forms that suggest AI, semiconductors, biotech, clean energy, and software without using logos or literal product illustrations.
-Use subtle rising structures, modular grids, flowing data-like contours, and measured signal bands that imply growth, research depth, and sector comparison.
-No neon charts, no ticker tape, no candlestick clutter, no traders, no city skyline, no circuit-board overload, and no messy tech collage.
-Leave a large clean typographic field in the upper portion for title and subtitle overlay.
-If any lines or marks are used, they must be sparse, balanced, and exact, with strong negative space and no tangled linework.
-Absolutely do not render the book title, subtitle, author name, logo, seal text, numerals, letters, words, initials, abbreviations, ticker-like labels, or any readable typography anywhere inside the image.
-The image should contain only abstract visual forms and empty editorial space for later overlay text.
+Overall tone: sharp, disciplined, contemporary, and editorial, with a serious innovation-research feel.
+Use a vivid but controlled palette of cool paper white, graphite black, saturated cobalt, deep emerald, and one disciplined electric orange accent.
+Build the image around one strong forward-moving composition that suggests research depth, technological leadership, and multiple innovation frontiers. Think crystalline modules, stacked research blocks, semiconductor-like precision, biotech-like cellular structures, and clean analytical architecture without literal charts.
+This cover should feel more energetic and higher-contrast than the other books, but still clean and premium.
+Keep the top portion very clean for later title and subtitle overlay.
+Avoid generic wave ribbons, split quadrants, ticker tape, candlesticks, glowing HUD graphics, circuit-board overload, trader imagery, skylines, people, and messy tech collages.
+If structure lines or grids appear, they must be crisp and intentional, not decorative wallpaper. No tangled contours, no template-style finance background, and no fake data clutter.
+Absolutely do not render the book title, subtitle, author name, logo, seal text, numerals, letters, words, initials, abbreviations, ticker labels, or readable typography anywhere inside the image.
+The image should contain only visual forms and clean editorial space for later overlay text.
 If the model is inclined to place text at the top, leave that area blank instead.
 Front cover only. No spine. No back cover. No watermark. No fake readable text inside the art itself.

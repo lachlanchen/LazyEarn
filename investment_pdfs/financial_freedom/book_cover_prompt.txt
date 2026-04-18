@@ -1,14 +1,15 @@
 Design a polished front-cover image for a practical nonfiction book titled "Financial Freedom".
-This should feel like a real bookstore-ready cover, not a poster, app banner, or social graphic.
+This book is about budgeting, living below your means, regular saving, diversification, discipline, passive income, stocks and bonds, real estate and REITs, digital products, online business, peer-to-peer lending, and the path toward financial independence. The cover should reflect those contents.
+This should feel like a premium practical-life and personal-finance title with editorial restraint, not a poster, app banner, or social graphic.
 Render a flat front-cover artwork only, not a photographed book, not a 3D mockup, and not a product render.
 Portrait composition with aspect ratio 2:3.
-Overall tone: warm, clear, optimistic, modern, and editorial, with restraint rather than self-help excess.
-Use a restrained palette of warm paper cream, deep navy, muted teal, soft amber, and one small coral accent.
-Show the idea of freedom through quiet upward structure, compounding paths, steady horizons, and layered progression rather than luxury clichés.
-Build the image from calm arcs, measured steps, subtle horizon bands, and precise abstract forms that suggest long-term discipline, optionality, and increasing room to breathe.
-No yachts, no mansions, no palm trees, no sports cars, no dollar signs, no lifestyle photography, no people, no clutter, and no busy motivational iconography.
-Leave a large clean typographic field in the upper portion for title and subtitle overlay.
-If any marks are used, they should be sparse, balanced, and exact, with strong negative space and no messy lines.
+Overall tone: warm, open, optimistic, modern, and serene, with clarity rather than self-help hype.
+Use a brighter but still tasteful palette of soft sunrise cream, sea teal, deep navy, apricot gold, and a restrained coral accent.
+Build the image around a spacious metaphor of room opening up through discipline and compounding. Think terraces, horizon light, ascending pathways, calm architectural thresholds, and layered structures that suggest savings, optionality, and multiple passive-income channels.
+The cover should feel lighter and more expansive than the wealth book, with more air, more warmth, and less institutional weight.
+Keep the top portion very clean for later title and subtitle overlay.
+Avoid generic wave ribbons, split quadrants, luxury cliches, yachts, mansions, sports cars, dollar signs, lifestyle photos, people, clutter, and noisy motivational iconography.
+If lines or arcs appear, they must support the main structure and remain sparse. No messy linework, no template-like abstract finance pattern, and no overdesigned infographic look.
 Do not render any title, subtitle, author name, logo, seal text, numerals, letters, or readable typography inside the image.
-The image should contain only abstract visual forms and empty editorial space for later overlay text.
+The image should contain only visual forms and clean editorial space for later overlay text.
 Front cover only. No spine. No back cover. No watermark. No fake readable text inside the art itself.
