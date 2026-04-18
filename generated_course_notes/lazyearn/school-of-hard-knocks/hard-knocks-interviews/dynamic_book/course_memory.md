@@ -9634,3 +9634,87 @@ All items below should be treated as transcript-backed editorial syntheses, not 
 - Keep at least three standalone `Question \& Answer` candidates alive in future nonlinear rewrites: `Passion or the thing that pays?`, `If products are similar, what are we actually selling?`, and `What do we do first when chaos hits?`
 - Do not reduce lecture 72 to `bankruptcy comeback` language. Its distinctive contribution is that it explains how inner sales capacity, documentary proof, team credit-sharing, rebuilt borrowing power, and controllable-action discipline fit together.
 - Add lecture 72 to the evidence index with explicit anchors: \$1 billion ten-year promise, just shy of \$800 million realized, \$58,000 social-work salary, first \$1 million year around age 41, roughly \$752 million 2023 revenue, the `P\&L / net / EBITDA` proof filter, the belief-work-self-image sales chain, daily voicemail and 24-hour callback discipline, the three-legged stool rule, post-bankruptcy \$1 million line of credit, hard money at roughly \$200,000 / 12\% / 10 points per six months, the `companies starve of credit` line, the restraining-order and incinerator control cases, and the \$150,000 monthly jet carrying-cost reminder.
+
+## Lecture 73 integration: Asking Billionaires How They Got RICH!
+
+### New evidence
+- Lecture 73 should not be treated as the primary source for the Ferrari operator's financing mechanics; lecture 68 remains the deep-dive source. What lecture 73 adds is field confirmation that the same doctrine survives compression inside a multi-interview episode, so it belongs to the book's core operating grammar rather than to a one-off founder profile.
+- The Texans-owner segment gives the archive a cleaner high-status ownership version of a rule the book already uses but has not yet anchored to a major franchise operator:
+  \[
+  \text{persistence} \neq \text{desperation},\qquad
+  \text{persistence} + \text{cash conservation} + \text{leverage} + \text{walk-away option}.
+  \]
+  New transcript-backed details worth indexing are: prior success in the power business, sale of that business, franchise expansion entry, `conserve your cash`, and `you want the deal, but not that bad`.
+- The doctor-owner segment is the lecture's most genuinely new course-level contribution. It adds a `profession -> practice -> payroll machine` case with explicit distinctions
+  \[
+  A_{\text{medicine}} \approx \$600\text{k} - \$700\text{k},\qquad
+  A_{\text{practice}} \approx \$6\text{M},\qquad
+  N_{\text{employees}} \approx 300.
+  \]
+  The new value is not another healthcare scale boast; it is the claim that doctors must learn the business of medicine in order to serve patients efficiently and keep the practice alive.
+- This doctor case sharpens an ethical-operating doctrine the memory does not yet hold cleanly enough:
+  \[
+  \text{care quality} \land \text{practice solvency},
+  \]
+  rather than `care versus money` as a false binary. The lecture's wording is especially useful because it insists that money is not the point, yet money problems sink practices.
+- The restaurant-owner exchange is light on mechanism but still adds supporting evidence for an early-stage founder triad the book already tracks: fearlessness, tolerance for failure, and product quality beneath scale rhetoric. Keep it as reinforcement, not as a main chapter driver.
+- Lecture 73 also strengthens the archive's field-method thread inside Houston specifically: refusals are left in, then converted into doctrine. This is reinforcing evidence for the book's access-friction chapter, not a standalone new chapter.
+
+### Conservative restructure plan
+- Do not build a standalone nonlinear chapter from lecture 73. Redistribute it conservatively:
+  - Texans owner into negotiation, reserve capital, and high-stakes persistence.
+  - Ferrari operator as reinforcing support inside the existing lecture-68 working-capital and retained-earnings architecture.
+  - doctor-owner into healthcare, professional-practice economics, and payroll survival.
+- Deepen the negotiation-and-cash chapter with a short `Persistence Needs an Outside Option` subsection using the Texans owner. Pair it with existing walk-away material, but keep the new distinction visible: this is franchise-owner doctrine tied to prior liquidity and leverage, not only generic salesmanship.
+- Deepen the healthcare/business chapter with a `The Business of Medicine` subsection. Pair lecture 73 with lecture 39's healthcare-service machine and lecture 69's founder-owned healthcare machine, but keep the layers explicit:
+  lecture 39 = infrastructure healthcare funnel;
+  lecture 69 = sole-owner large-scale healthcare machine;
+  lecture 73 = private-practice economics, payroll, efficiency, and staying afloat.
+- If the book needs a short bridge section between visible wealth and hidden mechanism, lecture 73 is useful as a compact three-level sequence:
+  aphorism (restaurant) -> owner doctrine (Texans) -> operating-finance mechanism (Ferrari) -> professional-practice economics (doctor).
+- Keep lecture 68 as the primary source for Louis's detailed financing grammar. Lecture 73 should be cited as corroborating compression, not as the main source of that machinery.
+
+### New tensions or contradictions
+- Lecture 73 sharpens a useful contradiction the book should keep visible:
+  \[
+  \text{never quit}
+  \qquad \text{but} \qquad
+  \text{do not need the deal so badly that you cannot walk away}.
+  \]
+  Persistence here is disciplined, not blind.
+- The doctor interview adds a second valuable contradiction:
+  \[
+  \text{money is not the goal}
+  \qquad \text{but} \qquad
+  \text{lack of money sinks the practice}.
+  \]
+  This helps the book avoid turning healthcare-business material into either cynicism or moral-purity theater.
+- The lecture again opposes visible wealth to hidden structure, but in a more braided way than many city montages:
+  Ferrari and G-Wagon on the surface,
+  delegation, ROI, retained earnings, and payroll underneath.
+  This makes lecture 73 more useful as connective tissue than as a new thesis episode.
+- The Ferrari close also adds a mild correction to the book's passion material. Here passion is not presented as sufficient; it is paired with refusal to quit only after a long block on capital discipline. Future rewrites should keep that order.
+
+### Frame or diagram opportunities
+- No new frame-backed course-memory material should be added from lecture 73. There are no validated screenshots.
+- Safe transcript-led editorial visuals now justified:
+  - a compact comparison table: Texans owner / Ferrari founder / doctor-owner; wealth symbol / underlying mechanism / operative number.
+  - a short `profession vs practice` box:
+    \[
+    \text{clinical income} \quad / \quad \text{business scale} \quad / \quad \text{payroll burden}.
+    \]
+  - a one-line bridge figure for the lecture's sequence:
+    \[
+    \text{refusal} \to \text{access} \to \text{aphorism} \to \text{mechanism} \to \text{operating burden}.
+    \]
+  Any such visual should be labeled as transcript-led reconstruction, not visual evidence.
+
+### Next rewrite implications
+- Preserve the lecture's exact rhythm if it is redistributed: teaser montage, Houston/River Oaks setup, refusals, restaurant aphorisms, Texans owner plus host recap, Ferrari scale and finance, Ferrari's `passion + do not quit` compression, promotional interruption, doctor-owner close.
+- Do not let the teaser numbers double-count later material. The Texans and doctor claims appear in prologue form before they are paid off later.
+- Do not flatten the doctor segment into `medicine pays well.` Its durable contribution is the business-of-practice point: efficiency, payroll, niche, and solvency are conditions for patient care.
+- Add lecture 73 to the evidence index with explicit anchors:
+  Texans owner on prior power-business success, `conserve your cash`, leverage, and walk-away negotiation;
+  restaurant owner on fearlessness, failure tolerance, product quality, and roughly \$12M revenue;
+  Ferrari founder on \(R_{\text{company}}\approx \$300\text{M}\), \(R_{\text{solo}}\approx \$3\text{M}\), ROI discipline, \(Y_{\text{paper}}\approx \$3\text{M}\), \(T\approx \$950\text{k}\), \(C_{\text{personal}}\approx \$10\text{k}\), \(r_{\text{factor}}\approx 21\%\), \(r_{\text{bank}}\approx 6\%-8\%\), and \(\Delta \Pi_{\text{monthly}}\approx \$20\text{k}-\$25\text{k}\);
+  doctor-owner on \(A_{\text{medicine}}\approx \$600\text{k}-\$700\text{k}\), \(A_{\text{practice}}\approx \$6\text{M}\), and \(N_{\text{employees}}\approx 300\).
