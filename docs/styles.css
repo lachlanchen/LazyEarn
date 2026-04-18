@@ -800,6 +800,13 @@ body::before {
   color: var(--muted);
 }
 
+.book-format-note {
+  margin: -0.2rem 0 0;
+  font-size: 0.94rem;
+  color: var(--muted);
+  max-width: 56ch;
+}
+
 .book-highlights {
   margin: 0;
   padding-left: 1.15rem;

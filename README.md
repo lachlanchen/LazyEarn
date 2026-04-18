@@ -41,9 +41,11 @@ The completed Yale `Financial Markets` notes are now published from a repo-root 
 
 - [Publication shelf](yale-financial-markets-publication/README.md)
 - [Full course PDF](yale-financial-markets-publication/yale-financial-markets.pdf)
+- [Pocket-size PDF 1.0x](yale-financial-markets-publication/yale-financial-markets-pocket-1.0x.pdf)
+- [Pocket-size PDF 1.2x](yale-financial-markets-publication/yale-financial-markets-pocket-1.2x.pdf)
 - [Website viewer](https://earn.lazying.art/pdf-viewer.html#yale-financial-markets-notes)
 
-This publication contains a root-level cover, one full-course PDF, and one PDF per lecture for Robert J. Shiller's full Yale sequence.
+This publication contains a root-level cover, one full-course PDF, two pocket-size PDF variants (`1.0x` and `1.2x`) for 10-inch e-ink or iPad reading, and one PDF per lecture for Robert J. Shiller's full Yale sequence.
 
 ## 🧭 Mission and operating method
 
