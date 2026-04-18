@@ -1,6 +1,6 @@
 # Yale Financial Markets Publication
 
-![Yale Financial Markets cover](cover-art.png)
+![Yale Financial Markets first page](cover-page-1.png)
 
 A published shelf for the completed `Financial Markets` companion notes based on Robert J. Shiller's Yale lectures.
 
@@ -12,7 +12,7 @@ This folder exists at the repo root on purpose. It is the direct publication sur
 - [yale-financial-markets-pocket-1.0x.pdf](yale-financial-markets-pocket-1.0x.pdf): pocket-size PDF with the standard compact tuning
 - [yale-financial-markets-pocket-1.2x.pdf](yale-financial-markets-pocket-1.2x.pdf): pocket-size PDF with the 1.2x readability preset
 - [lecture_01.pdf](lecture_01.pdf) to [lecture_23.pdf](lecture_23.pdf): one PDF per lecture
-- [cover-art.png](cover-art.png): the current publication cover art
+- [cover-page-1.png](cover-page-1.png): the first page preview from the published full-course PDF
 
 ## Quick links
 

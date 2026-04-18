@@ -47,6 +47,13 @@ The completed Yale `Financial Markets` notes are now published from a repo-root 
 
 This publication contains a root-level cover, one full-course PDF, two pocket-size PDF variants (`1.0x` and `1.2x`) for 10-inch e-ink or iPad reading, and one PDF per lecture for Robert J. Shiller's full Yale sequence.
 
+## 🖼️ Publication shelf
+
+| Wealth from first principles | Financial freedom playbook | High-growth dossier | Yale Financial Markets notes |
+| --- | --- | --- | --- |
+| [<img src="docs/publications/wealth-from-first-principles/cover-page-1.png" alt="Wealth from first principles first page" width="180">](docs/investment_pdfs/wealth-from-first-principles/wealth-from-first-principles.pdf) | [<img src="docs/publications/financial-freedom/cover-page-1.png" alt="Financial freedom playbook first page" width="180">](docs/investment_pdfs/financial_freedom/financial_freedom.pdf) | [<img src="docs/publications/high-growth-stocks/cover-page-1.png" alt="High-growth dossier first page" width="180">](docs/investment_pdfs/high-growth-stocks/high-growth-stocks.pdf) | [<img src="docs/publications/yale-financial-markets/cover-page-1.png" alt="Yale Financial Markets first page" width="180">](yale-financial-markets-publication/yale-financial-markets.pdf) |
+| [PDF](docs/investment_pdfs/wealth-from-first-principles/wealth-from-first-principles.pdf) · [Markdown](investment/wealth-from-first-principles.md) | [PDF](docs/investment_pdfs/financial_freedom/financial_freedom.pdf) | [PDF](docs/investment_pdfs/high-growth-stocks/high-growth-stocks.pdf) · [Markdown](investment/high-growth-stocks.md) | [Full PDF](yale-financial-markets-publication/yale-financial-markets.pdf) · [Pocket 1.0x](yale-financial-markets-publication/yale-financial-markets-pocket-1.0x.pdf) · [Pocket 1.2x](yale-financial-markets-publication/yale-financial-markets-pocket-1.2x.pdf) |
+
 ## 🧭 Mission and operating method
 
 LazyEarn is a source-aware, mechanism-first pipeline for money and wealth education. It keeps four things in one loop:
