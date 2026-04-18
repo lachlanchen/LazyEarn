@@ -10875,3 +10875,105 @@ All items below should be treated as transcript-backed editorial syntheses, not 
 - Preserve the lecture’s internal rhythm if redistributed later: cold-open scale and broke memory, Miami framing, Patrick on scale and fragility, poverty-entry Q\&A, e-commerce stage ladder, host resourcefulness recap, Eric on allocation and freedom, planning-horizon asymmetry, temporary-income warning, then Wes on recurring revenue and habits.
 - Two Q\&A blocks now deserve stronger standing in the nonlinear book because lecture 89 states them unusually cleanly: `If capital is scarce, what does entry actually look like?` and `What keeps people poor after they start making money?`
 - Use lecture 89 as added evidence for one of the archive’s strongest structural habits: giant headline numbers are repeatedly paired with broke stories, overdraft memories, prison years, or loss years before the lecture will trust itself to offer doctrine.
+
+## Lecture 90 integration: How He Built A $200 Million⧸Year Security Company
+
+### New evidence
+- Edwin Arroyave adds one of the archive’s clearest `visible wealth -> hidden operating rules` cases. The cold open uses the house and cars only to pose the real question: what decisions, pressures, and rules produced this outcome.
+- Preserve the quantitative anchors as attributed interview claims:
+  - more than \$600 million generated over 25 years in the core business
+  - age 21 at first business, age 46 at interview time
+  - projected \$200 million year
+  - one-and-a-half-year-old solar company framed as the 20th fastest-growing company in Inc. 5000 Magazine
+- The lecture gives a clean scaling mechanism that should be added to the course memory as more than generic motivation:
+  - scale comes from influence
+  - good people have options
+  - a dream must be large enough to contain other people’s dreams
+- It also gives one of the cleanest `action before resources` stories in the corpus:
+  - minivan purchased before the team existed
+  - faith defined as taking action before you have what you need
+- The lecture sharpens the book’s pressure theme with unusually direct language:
+  - `necessity level` as urgency that unlocks hidden ability
+  - `low stress is low performance`
+- It adds a compact sequencing rule for portfolio behavior:
+  - build one bread-and-butter cash-flow engine first
+  - diversify later from strength
+  - the security-to-solar comparison matters here: 17 years to do \$40 million in a year for security, then 1 year to do \$40 million in solar because the prior price had already been paid
+- It contributes one of the strongest transcript-backed personal-finance operating rules in the series:
+  - split every check three ways
+  - one third for living
+  - one third for IRS plus savings
+  - one third for an untouchable reserve account
+- The mother’s-house story is one of the archive’s cleanest `dream -> arithmetic -> quota -> deadline` cases:
+  - \$12,000 down payment
+  - \$1,400 monthly payment
+  - 90-day promise
+  - 8 to 10 sales per week for 12 weeks
+  - standard reconstruction: 96 to 120 sales across the window
+- The post-sponsor return adds a sharper money-psychology structure than the current memory holds in one place:
+  - scarcity-hoarding loop: fear of not enough money leads to hoarding, distance from the dream, weak action, setback, and repetition
+  - abundance sequence: `Become -> Act -> Have`
+  - inside `Become`, preserve the speaker’s own sub-sequence of hope, faith, and belief
+  - action generates the blueprint rather than waiting for the full blueprint first
+- The final turn adds useful attributed interior language:
+  - faith as projection of the best possible future
+  - fear as projection of the worst possible future
+  - pleasure as unstable sensation
+  - happiness as inside-out practice through gratitude and reframing
+  - reticular activating system as a filter model around dreams, self-worth, and survival
+
+### Conservative restructure plan
+- Deepen Chapter 10, **Operating Discipline, Human Attention, and Opportunity Exposure**, with a `Necessity Level` subsection.
+  - Use lecture 90 for minivan-before-team, pressure as self-imposed activation, `low stress is low performance`, and the later RAS explanation of why obsession changes what opportunities become visible.
+- Deepen Chapter 7, **Reinvestment, Compounding, and the Anti-Consumption Rule**, with a `Three Buckets and the Untouchable Reserve` subsection.
+  - Place lecture 90 beside prior low-draw and reserve material, but keep clear that this is resilience architecture, not the whole wealth engine.
+- Deepen Chapter 8, **Scale, Time, and the Ten-Year Game**, with a `Master One Engine Before Adjacent Expansion` subsection.
+  - The security-to-solar comparison is strong evidence that later speed may rest on earlier concentrated mastery.
+- Deepen Chapter 20, **What Money Is For**, with a `Faith, Fear, Pleasure, Happiness` subsection.
+  - Lecture 90 adds unusually explicit language on projection, inside-out living, gratitude, and the dissatisfaction that can survive visible success.
+- Preserve two reusable Q\&A beats for later nonlinear insertion:
+  - `How do we turn a dream into a concrete 90-day blueprint?`
+  - `Why does waiting until we have enough money usually keep us stuck?`
+
+### New tensions or contradictions
+- Lecture 90 sharpens a tension the book should preserve rather than smooth away: visible-luxury aspiration and financial discipline are not treated as opposites here. The speaker wants rare things and status markers, but still imposes thirds-splitting and an untouchable reserve. This is `disciplined ambition`, not clean austerity.
+- It also sharpens the tension between saving and action:
+  - reserve capital matters as shock protection
+  - but the lecture’s expansion logic still says action often comes before complete resources
+- The lecture carries stronger God-language than many adjacent business interviews, but its real payload remains operational. Do not let the spiritual language erase the arithmetic: dates, quotas, partition, and persistence are doing real work.
+- Treat the reticular activating system carefully in the book. It should be preserved as the speaker’s explanatory mindset model, not as settled neuroscience.
+
+### Frame or diagram opportunities
+- No validated screenshot assets survive from this lecture. Do not add any frame-backed figure claims.
+- The lecture is still a strong source for transcript-based diagrams later:
+  - three-bucket income allocation
+  - 90-day planning ladder from house dream to weekly sales target
+  - scarcity loop versus abundance sequence
+  - action -> test/setback -> revert or persist branch
+  - RAS filter diagram organized around dreams, self-worth, and survival
+
+### Next rewrite implications
+- When lecture 90 is redistributed into the nonlinear book, preserve its spoken order rather than extracting only slogans:
+  - spectacle as puzzle
+  - compressed biography and scale claims
+  - influence
+  - faith as action before resources
+  - pressure / necessity
+  - focus before diversification
+  - thirds split and reserve
+  - mother’s-house arithmetic
+  - scarcity versus abundance
+  - faith/fear and pleasure/happiness
+  - RAS as retrospective explanation
+- Use Edwin Arroyave as a named case for `family promise as operating pressure`.
+  - promise to father
+  - mother’s house
+  - family-tree reversal
+  These give the book a stronger example of family obligation functioning as survival-grade commitment rather than as soft sentiment.
+- Preserve the sponsor break only as a light editorial seam. The real post-break contribution is the scarcity/abundance sequence.
+- Add lecture 90 to the processed-evidence logic around:
+  - action before full certainty
+  - pressure as chosen operating condition
+  - one core cash-flow engine before diversification
+  - dreams translated into arithmetic and dates
+  - attention filters shaping what opportunities can even be seen
