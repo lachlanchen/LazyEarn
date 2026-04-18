@@ -10039,3 +10039,41 @@ All items below should be treated as transcript-backed editorial syntheses, not 
 - Add the following lecture-77 anchors to the course-level evidence bank for later thematic rewrites: Tampa “over 50,000 millionaires,” 28 years in business, multiple eight figures, \$78 available balance, less than 1\% over \$10 million revenue, the ambiguous “0.07,” 10--11 years and \$4.5 million for the hedge-fund owner, since 2019 and \$2.5 million for the woman entrepreneur, age 40, 15 years and \$1.4 million for the lobbyist/publicist, first million at 35, current age 38.
 - When folding this lecture into the book, keep the lecture’s widening rhythm intact: wealth signal to operational rule, then from business mechanism to support structure, then from support structure to public power, then to faith testimony. That widening causal frame is one of the genuinely new organizational gifts of lecture 77.
 - Treat the lobbyist/publicist section as especially valuable for future book chapters that want to connect commercial negotiation, image discipline, and political realism without collapsing them into generic “mindset” language.
+
+## Lecture 78 integration: Asking Millionaire Golfers How They Got RICH!
+
+### New evidence
+- This lecture adds one of the cleanest ownership formulations in the series so far: salary lets you live, but equity builds wealth. Keep this as explicit support for the book’s recurring distinction between income and upside participation, with the stronger phrasing that ownership is not just helpful but “number one.”
+- It adds a sharp financing principle that should now be treated as core course memory rather than incidental advice: do not finance a long-term venture with short-term money. The speaker’s warning is concrete and memorable: the asset can be taken away before the venture matures.
+- The mansion interview contributes a strong concentration case: stockbroker diversification training is explicitly opposed to the billionaire pattern of concentrating capital into one believed-in, controlled opportunity. This is reinforced by self-funding and retained control.
+- The lecture adds a clean replication case for scale: prove the model in one state, bring in reps, serve hospitals and surgery centers, then repeat until the operation reaches 43 states. This is one of the clearest transcript-backed “copy-paste” growth models in the corpus.
+- It adds a particularly usable growth-failure mechanism: the company almost died not from lack of sales but from growing so fast that it ran out of money because it could not make enough product quickly enough. This is strong support for the theme that growth can destroy a firm when capacity and working capital lag demand.
+- It adds a sequential product-discovery account that is more procedural than inspirational: years of talking to doctors and surgery centers, finding a neglected problem, improving the product month by month over three to six years, then reaching the tipping point where customers seek the product out.
+- The later golf-course interview adds explicit public-philosophy material that should be preserved as attributed speaker worldview: “don’t waste time,” America as an opportunity system, 87\% belief in free enterprise across party lines, and the claim that 750 billionaires among 350 million people are a natural consequence of that system.
+- The retired lawyer adds a clean behavioral-finance statement for the public-markets strand: buy low, sell high is simple in theory and hard in practice because crowd psychology pushes people to do the reverse.
+- The same lawyer also strengthens the series-wide practical-judgment motif: persistence through low periods, faith as emotional ballast, and “street smarts” over abstract school prestige, with the differential-equation line working as rhetoric against overvaluing formalism in commercial life.
+
+### Conservative restructure plan
+- Strengthen the book’s ownership chapter by inserting a short new subsection built around the lecture’s explicit contrast: salary sustains life; equity captures upside. This lecture does not change the thesis, but it gives the cleanest wording yet for it.
+- Add a new subsection or case block under the capital-structure / leverage chapter on duration matching. Justification: lecture 78 gives a concise, reusable rule about long-term ventures requiring long-term financing, with rollover risk stated plainly enough to become a recurring book principle.
+- Expand the scaling chapter with a dedicated “prove it once, then duplicate it” case cluster. The 1-state to 43-state medical-device rollout is concrete enough to sit beside other systematization cases already in memory.
+- Add a “growth by indigestion” block to the scale chapter or the capital chapter. This lecture gives a better articulation than usual of why sales growth, production bottlenecks, and cash strain belong in the same analytical frame.
+- Strengthen the customer-development / product-market-fit chapter with a short subsection on repeated user contact as product discovery: doctor and surgery-center conversations, neglected problem selection, monthly iteration, then demand-side pull.
+- Add a small attributed subsection in the worldview / public-narratives part of the book for “free enterprise, resentment, and legitimacy of outsized outcomes.” Keep the statistics and political claims clearly attributed to the interviewee rather than normalized into background fact.
+
+### New tensions or contradictions
+- The lecture again sharpens a tension already present in the corpus between diversification as prudent portfolio advice and concentration as the route to extraordinary business outcomes. This should remain unresolved in the book and be treated as context-dependent: diversification for outside investors, concentration for owner-operators with control.
+- It adds a useful internal contradiction inside the growth story itself: the same replication logic that creates scale can also create fatal strain if fulfillment and capital do not keep pace.
+- The free-enterprise and anti-billionaire segment should be treated carefully. It is strong source material for the series’ civic philosophy, but its numerical claims are speaker claims rather than validated course facts.
+- The lawyer’s “street smarts” preference reinforces the series’ practical bias, but it should not be allowed to collapse into anti-education rhetoric. In this lecture the better contrast is abstract formalism versus situational commercial judgment.
+
+### Frame or diagram opportunities
+- No new validated frame assets enter course memory from lecture 78.
+- If a later book pass wants a transcript-only schematic, the best candidate is not a screenshot-derived figure but a simple process chain: prove model in one state \(\rightarrow\) add reps and service coverage \(\rightarrow\) repeat geographically.
+- A second possible editorial schematic is the growth-paradox chain: sales acceleration \(\rightarrow\) production lag \(\rightarrow\) cash strain \(\rightarrow\) near-failure.
+
+### Next rewrite implications
+- When the dynamic book next revisits the ownership chapter, lecture 78 should be used as a clean anchoring case because it states the salary-versus-equity distinction more directly than many prior interviews.
+- When revising the scaling material, do not summarize this lecture as generic “focus and scale.” Preserve the sequence: concentration, self-funding, turnkey duplication, indigestion risk, then product discovery and market pull.
+- Keep the sponsor interruption quarantined in future rewrites. Its 90\% automation and 30\% cost-reduction numbers are useful as evidence of the series’ leverage rhetoric, but not as validated doctrine.
+- Preserve the narrator’s recap function in any later synthesis. This lecture is useful not only for the interviewees’ claims but also for how the host translates them into takeaway language: he explicitly turns customer conversation into a lesson about building winning products.
