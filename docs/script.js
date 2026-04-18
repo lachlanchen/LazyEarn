@@ -365,8 +365,8 @@ const pdfEntries = {
     title: "Financial freedom playbook (Chinese edition)",
     description:
       "Chinese edition covering rational spending, compounding, diversified income, and automation routines with a Lazy Money-style allocation table.",
-    pdf: "investment_pdfs/financial_freedom_zh/financial_freedom_zh.pdf",
-    download: "investment_pdfs/financial_freedom_zh/financial_freedom_zh.pdf",
+    pdf: "investment_pdfs/financial_freedom/financial_freedom_zh.pdf",
+    download: "investment_pdfs/financial_freedom/financial_freedom_zh.pdf",
     markdown:
       "https://github.com/lachlanchen/LazyEarn/blob/main/investment/financial_freedom_zh.md",
     grid: false,
