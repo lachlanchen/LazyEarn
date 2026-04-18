@@ -10077,3 +10077,129 @@ All items below should be treated as transcript-backed editorial syntheses, not 
 - When revising the scaling material, do not summarize this lecture as generic “focus and scale.” Preserve the sequence: concentration, self-funding, turnkey duplication, indigestion risk, then product discovery and market pull.
 - Keep the sponsor interruption quarantined in future rewrites. Its 90\% automation and 30\% cost-reduction numbers are useful as evidence of the series’ leverage rhetoric, but not as validated doctrine.
 - Preserve the narrator’s recap function in any later synthesis. This lecture is useful not only for the interviewees’ claims but also for how the host translates them into takeaway language: he explicitly turns customer conversation into a lesson about building winning products.
+
+## Lecture 79 integration: Asking Atlanta Millionaires How They Got RICH!
+
+### New evidence
+- Lecture 79 adds one of the cleanest four-step field sequences in the recent run:
+  - visible wealth as bait
+  - producer/consumer and marketing as the first mechanism
+  - capital judgment and life-fit as the second mechanism
+  - rock-bottom repair, mindset, and second-order wealth costs as the closing mechanism
+- Atlanta adds a fresh city-scale anchor for the book’s geography layer:
+  - \(N_{\text{ATL,millionaires}} \approx 20{,}000\)
+  - the host explicitly uses that density to justify moving from one anecdote to a wider survey of wealthy operators
+- The lecture gives a very usable new producer-orientation statement:
+  - buy information if it helps
+  - but prefer being a producer over a consumer
+  - this is strengthened by the horse-blinder metaphor: focus on your own race rather than lateral comparison
+- It adds one of the strongest transcript-backed `marketing as survival infrastructure` statements in the corpus:
+  - more than \(90\%\) of businesses fail to survive five years
+  - the stated common cause is not bad product alone, but lack of marketing and low awareness
+  - the portable mechanism is: excellent work with low visibility can still die commercially
+- The lecture adds a particularly sharp advice-filter refinement:
+  - the fastest way to kill a big dream is to introduce it to a small mind
+  - loving family or coworkers may protect you emotionally, but that does not make them valid strategic guides for building a business
+- The real-estate developer contributes a new capital-market inversion that should be preserved:
+  - there is more money looking for good business plans than there are good business plans
+  - investors are said to screen quickly for margins, cost structure, growth path, and return story
+- The same interview gives a clean definitional pair worth preserving for later thematic reuse:
+  - beliefs are what one thinks is true
+  - values are what one thinks is important
+- Lecture 79 adds a useful `wealth versus happiness bookkeeping` correction:
+  - the developer refuses to fetishize the exact age at which he became a millionaire
+  - he instead emphasizes being happy for roughly 40 years and finding a field that fit his actual transferable skill set
+- The returning mansion interview adds a compact market-positioning heuristic:
+  - more people got rich during the gold rush selling shovels than looking for gold
+  - this is good reinforcing evidence for the book’s recurring `sell into the scramble` / picks-and-shovels logic
+- The late interview adds a stronger staged recovery ladder than the current memory seems to hold in one place:
+  - first million at \(29\)
+  - homeless and broke earlier
+  - roughly ages \(24\) to \(26\) spent getting back on his feet
+  - poverty is framed first as trauma, bad habits, and bad daily decisions rather than as cash shortage alone
+  - then comes subtraction, self-stabilization, learning to sell, and only after that proper building
+- The closing material adds a clear priority claim:
+  - mindset \(>\) skill set because mindset determines which skill set is actually appropriate
+  - this is sharper than earlier generic mindset talk because the lecture explicitly ties bad mindset to misreading one’s own capacities
+- The final answer also adds a useful end-state complication:
+  - money buys access and optionality
+  - but it also changes relationships, judgment, and the emotional burden of daily life
+  - this is one of the stronger recent `wealth creates new problems` formulations in the series
+
+### Conservative restructure plan
+- Deepen the existing marketing / demand-capture chapter with a short `Visibility Is Survival Infrastructure` subsection using lecture 79’s explicit failure logic:
+  - strong offer plus low awareness still fails
+  - pair this carefully with prior product-pull and no-paid-marketing cases rather than replacing them
+- Deepen the judgment / source-selection chapter with a `Protect Big Ambition From Small Minds` subsection:
+  - place it beside lecture 77’s domain-specific advice filter
+  - lecture 79’s new value is the distinction between emotional care and strategically useful counsel
+- Add a small `Producer Orientation and Attention Discipline` subsection to the ownership / attention / leverage material:
+  - producer over consumer
+  - blinders / own race
+  - gold-rush shovels heuristic
+- Deepen the capital-plumbing / investor-gating chapter with a `Capital Is Not Scarce, Credible Plans Are` subsection:
+  - use lecture 79 for the capital-abundance claim
+  - keep the investor screen explicit: margins, cost structure, growth path, return
+- Deepen the adversity / self-command / sales material with a `Repair Before Build` subsection:
+  - trauma and habits upstream of bad decisions
+  - subtraction before addition
+  - learn to sell after stabilization, not before
+- Add a small end-state subsection on `Second-Order Costs of Wealth`:
+  - lecture 79’s real contribution is not just “more money, more problems” as a slogan
+  - it is the explanation that success alters relationships, judgment, and one’s surrounding social field
+
+### New tensions or contradictions
+- Lecture 79 sharpens the book’s ongoing `product versus marketing` tension without resolving it:
+  - some earlier cases say product pull or retellable experience can substitute for paid promotion
+  - lecture 79 says great work without awareness still dies
+  - the right treatment remains stage-dependent rather than doctrinally uniform
+- It creates a useful two-level capital tension:
+  - real estate is described as expensive and requiring money to start
+  - yet the same lecture says there is abundant capital for good plans
+  - the book should preserve both by separating `entry barrier for the operator` from `capital abundance once credibility exists`
+- It adds a third layer to the emerging liking / trust / guidance problem:
+  - lecture 76 emphasized trust in result over mere likability
+  - lecture 77 used liking as a conversion aid
+  - lecture 79 says love and support still do not qualify someone as a valid strategic advisor
+- The `poverty is a personal issue` framing should remain clearly attributed to the speaker:
+  - it is useful as part of the series’ self-command lane
+  - but it should not erase structural or institutional explanations that appear elsewhere in the corpus
+- The lecture also sharpens the end-state contradiction already building across the series:
+  - wealth is pursued as freedom
+  - but once achieved it can increase judgment, alienation, and relationship strain
+
+### Frame or diagram opportunities
+- No validated screenshot assets survive from lecture 79, so the persistent figure inventory remains unchanged.
+- Safe transcript-derived redraws later:
+  - a producer-versus-consumer contrast table
+  - a blinder / own-race focus diagram
+  - a capital-flow sketch: money searching for credible plans
+  - a staged ladder: trauma / bad habits \(\to\) bad decisions \(\to\) self-repair \(\to\) selling \(\to\) stronger foundation
+- These should be treated as editorial reconstructions only, not as reproductions of visible lecture mathematics.
+
+### Next rewrite implications
+- Do not create a permanent standalone `Atlanta millionaires` chapter in the nonlinear book. Lecture 79 is more valuable redistributed across:
+  - visibility and marketing
+  - judgment and source selection
+  - capital credibility
+  - adversity and self-repair
+  - mindset and fit
+  - end-state costs of wealth
+- Preserve two reusable `Question & Answer` beats for later nonlinear insertion:
+  - `Why do most businesses fail to scale?`
+  - `What should someone at rock bottom actually do?`
+- Add lecture 79 to the evidence index with these anchors:
+  - \(N_{\text{ATL,millionaires}} \approx 20{,}000\)
+  - \(B_{\text{serial}} = 6\)
+  - \(Y^{\max}_{\text{serial}} = \$15\,\mathrm{M}\)
+  - \(Y^{\max}_{\text{marketing}} > \$10\,\mathrm{M}\) per year
+  - \(p_{\text{fail by 5 yr}} > 0.9\) as a lecture claim
+  - \(T_{\text{RE}} = 25\,\text{yr}\)
+  - \(Y^{\max}_{\text{RE}} = \$100\,\mathrm{M}\)
+  - “happy for 40 years”
+  - \(a_{\text{first million}} = 29\)
+  - ages \(24\) to \(26\) spent recovering after homelessness
+- When the next dynamic-book pass revisits recent lectures 76 to 79 together, Atlanta should be used as the bridge that ties three strands into one sequence:
+  - visibility and distribution matter
+  - capital follows credible plans
+  - internal repair and fit determine whether the operator can actually use either of the first two
