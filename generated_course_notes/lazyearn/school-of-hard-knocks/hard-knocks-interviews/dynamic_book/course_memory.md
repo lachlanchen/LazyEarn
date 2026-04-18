@@ -8506,3 +8506,106 @@ All items below should be treated as transcript-backed editorial syntheses, not 
   `How can a portfolio survive when most companies fail?`
   `What is the real buying signal in a real-estate downturn?`
 - Lecture 62 should not become a permanent standalone San Francisco chapter inside the nonlinear book. Its best material belongs redistributed across geography, founder conviction, venture asymmetry, delegation ceilings, negotiation posture, and distressed real-estate timing.
+
+## Lecture 63 integration: Asking Houston Moguls How They Got Rich!
+
+### New evidence
+- Lecture 63 adds a different Houston field than the earlier Texas-richness material. The city is not used here as an oil-billionaire backdrop or a founder-only ecosystem, but as a mixed operator field with transcript-backed setup counts
+  \[
+  N_{\text{millionaires}} \approx 100{,}000,\qquad N_{\text{billionaires}} = 18,
+  \]
+  then service, marketing, recycling, and lean-scale business cases beneath that surface.
+- The chiropractor segment gives the book a stronger `small operator inside a concentrated buyer market` case than the memory currently holds. New transcript-backed healthcare arithmetic:
+  \[
+  P_{\text{UNH},2010}=\$33,\qquad P_{\text{UNH},\text{now}}=\$213,
+  \]
+  \[
+  N_{\text{payors,early}}>20,\qquad N_{\text{payors,late}}=5,\qquad N_{\text{public payors}}=4,
+  \]
+  together with the speaker-attributed claim that those four CEOs make roughly \(\$100\) million per year. This matters because the wealth/problem-size theme is here grounded in a local service business whose real bottleneck sits at the insurer layer rather than at the practitioner layer.
+- The same chiropractor segment clarifies an already-live archive theme rather than inventing a new one:
+  \[
+  \text{solve wants or needs} \Rightarrow \text{success},\qquad
+  \text{solve problems} \Rightarrow \text{wealth}.
+  \]
+  Lecture 55 already pulled the Houston chiropractor into the `problem size` theme; lecture 63 now supplies the fuller surrounding mechanism and the insurer-concentration context that gives the line more force.
+- The digital-marketing founder adds a useful property distinction not yet held cleanly enough in course memory:
+  \[
+  \text{rent where you live},\qquad \text{own what you can rent},
+  \]
+  with the explicit filter
+  \[
+  \text{goal}=\text{equity building},\qquad \text{buy only if cash flow}>0.
+  \]
+  This is materially useful because it separates residence from investment rather than repeating generic pro-property rhetoric.
+- The same segment reinforces the archive’s personal-brand line with a cleaner sales formulation: people buy into the person before they buy the offer. This is not wholly new, but it is strong supporting evidence from a speaker with
+  \[
+  T_{\text{owner}}=12\ \text{years},\qquad Y_{\text{max}} \approx \$4.3\,\text{million},\qquad D_{\text{student loans}}\approx \$150{,}000.
+  \]
+- The recycling operator adds a distinct `capital improvisation under stress` case:
+  \[
+  T_{\text{recycling}}=30\ \text{years},\qquad N_{\text{near-broke}}\approx 4,
+  \]
+  with borrowing described as coming from everywhere possible, including customer capital. This is worth keeping separate from clean bank-finance or refinance-recycling cases already in memory.
+- The same recycling segment gives the book a strong positioning rule not yet visible enough elsewhere:
+  \[
+  \text{rank}=2 \Rightarrow \text{weak positioning},\qquad
+  \text{rank}=1 \Rightarrow \text{stronger positioning}.
+  \]
+  The important point is not market-share truth but story grammar: do not introduce yourself by placing your business behind a rival.
+- The final Rolls-Royce entrepreneur does not add a brand-new doctrine so much as finally grounds an already-live one in a fuller case. The memory already holds the generic Houston line `stay small enough, long enough`; lecture 63 supplies the source case:
+  \[
+  T_{\text{business}} \approx 14\ \text{years},\qquad T_{\text{bad years}} \approx 5,\qquad Y_{2020}\approx \$16\,\text{million},
+  \]
+  \[
+  R_{\text{monthly}} \approx \$30{,}000,\qquad O_{\text{monthly}} \approx \$3{,}000\text{--}\$4{,}000,
+  \]
+  \[
+  \frac{O_{\text{monthly}}}{R_{\text{monthly}}}\approx 0.10\text{--}0.13.
+  \]
+  This gives the anti-consumption / low-overhead chapter a better anchored witness than the current floating `Houston multimillionaire` shorthand.
+
+### Conservative restructure plan
+- Deepen **Geography Is Not Background** with a short `Houston as mixed operator field` subsection. Keep it distinct from the older Texas-billionaire material: this lecture’s Houston is a place where wealth sits inside healthcare friction, digital services, recycling, and lean entrepreneurial scaling.
+- Deepen the customer-need / problem-size chapter with a `Concentrated buyers can trap local operators` subsection using the chiropractor case. Keep the UNH price path and `>20 to 5` payor compression speaker-attributed, but use the segment to show that a profitable problem can still sit underneath a locally squeezed operator.
+- Deepen the real-estate chapter with a `Residence is not automatically the investment` subsection. Lecture 63 now gives a clean verbal filter for separating where one lives from what one buys for equity and cash flow.
+- Deepen the sales / positioning chapter with a `Do not market yourself as number two` subsection. This should sit near walk-away leverage and message-market-fit material, but it solves a different problem: first-sentence subordination.
+- Deepen the anti-consumption / reinvestment chapter by replacing generic `Houston multimillionaire` references with an explicit anchor to lecture 63’s Rolls-Royce operator and his \(30\text{k}/3\text{k--}4\text{k}\) monthly arithmetic.
+- Deepen the operating-discipline chapter with a short `spectatorship versus action` subsection using the lecture’s closing `scrolling` diagnosis.
+
+### New tensions or contradictions
+- Lecture 63 sharpens a valuable split inside the book’s attention chapter:
+  - personal brand, online presence, and searchable identity are treated as wealth-building assets when owned;
+  - scrolling and watching other people live are treated as wealth-destroying habits when merely consumed.  
+  This should stay visible as a real distinction between owning attention and being captured by it.
+- The lecture adds a useful correction to the archive’s property enthusiasm. Many earlier cases praise buying, refinancing, or controlling real estate; lecture 63 says the personal residence may be the wrong object to own if it does not meet the equity/cash-flow test.
+- The sponsor interruption is structurally justified by the personal-brand recap, but it remains a host-side monetization block rather than guest doctrine. Keep it quarantined inside the dynamic book rather than blending it into the entrepreneur’s own philosophy.
+- The Rolls-Royce close sharpens an existing archive tension between external spectacle and internal machine. The same lecture that opens with luxury-car signals ends by saying low overhead, delayed consumption, and not scrolling other people’s lives are what protect the path.
+
+### Frame or diagram opportunities
+- No new frame-backed course-memory material should be added from lecture 63. There are no validated screenshots.
+- Safe transcript-led editorial visuals now justified:
+  - a small healthcare concentration table or strip:
+    \[
+    >20\ \text{payors} \to 5,\qquad 4\ \text{public};
+    \]
+  - a compact residence-versus-investment box:
+    \[
+    \text{rent where you live} \;/\; \text{own what you can rent};
+    \]
+  - a lean-overhead ratio box around
+    \[
+    \$30{,}000\ \text{revenue} \quad \text{vs.} \quad \$3{,}000\text{--}\$4{,}000\ \text{overhead}.
+    \]
+- Any such visual should be labeled as transcript-led reconstruction, not visual evidence.
+
+### Next rewrite implications
+- Do not create a permanent standalone `Houston moguls` chapter. Lecture 63 is most useful when redistributed into geography, problem-size, real-estate filtering, positioning, attention, and anti-consumption chapters.
+- Normalize the already-live `Houston multimillionaire` references so they point explicitly to lecture 63’s Rolls-Royce operator rather than remaining as anonymous Houston shorthand.
+- Keep the chiropractor’s healthcare arithmetic speaker-attributed in future rewrites. The book should use it as operator testimony about concentration, not as independently certified industry data.
+- The strongest reusable Q\&A blocks strengthened by lecture 63 are:
+  - `Why does solving problems create more wealth than satisfying wants?`
+  - `Can renting be rational inside a serious wealth-building strategy?`
+  - `Why is being second largest a weak way to frame a business?`
+  - `How does staying small long enough make later scale possible?`
+  - `What is the difference between owning attention and consuming it?`
