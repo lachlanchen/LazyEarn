@@ -446,6 +446,7 @@ function buildViewerHref(slug, useQuery = false) {
   setupParallax();
   setupResearchCatalog();
   setupBookCarousel();
+  setupShelfCarousel();
   setupStandaloneViewer();
   setFooterYear();
 })();
@@ -923,6 +924,60 @@ function setupBookCarousel() {
   });
 
   syncState(0);
+}
+
+function setupShelfCarousel() {
+  const carousel = document.querySelector("[data-shelf-carousel]");
+  const track = carousel?.querySelector("[data-shelf-track]");
+  const prev = carousel?.querySelector("[data-shelf-prev]");
+  const next = carousel?.querySelector("[data-shelf-next]");
+
+  if (!carousel || !track) {
+    return;
+  }
+
+  const updateButtons = () => {
+    const maxScrollLeft = Math.max(0, track.scrollWidth - track.clientWidth - 4);
+    if (prev) {
+      prev.disabled = track.scrollLeft <= 4;
+    }
+    if (next) {
+      next.disabled = track.scrollLeft >= maxScrollLeft;
+    }
+  };
+
+  const getScrollStep = () => {
+    const firstCard = track.firstElementChild;
+    if (!firstCard) {
+      return track.clientWidth * 0.9;
+    }
+    const firstRect = firstCard.getBoundingClientRect();
+    const secondCard = firstCard.nextElementSibling;
+    if (!secondCard) {
+      return firstRect.width;
+    }
+    const secondRect = secondCard.getBoundingClientRect();
+    const cardSpan = secondRect.left - firstRect.left;
+    const cardsVisible = Math.max(1, Math.floor(track.clientWidth / Math.max(cardSpan, 1)));
+    return Math.max(track.clientWidth * 0.9, cardSpan * cardsVisible);
+  };
+
+  prev?.addEventListener("click", () => {
+    track.scrollBy({ left: -getScrollStep(), behavior: "smooth" });
+  });
+
+  next?.addEventListener("click", () => {
+    track.scrollBy({ left: getScrollStep(), behavior: "smooth" });
+  });
+
+  let scrollTimer = null;
+  track.addEventListener("scroll", () => {
+    window.clearTimeout(scrollTimer);
+    scrollTimer = window.setTimeout(updateButtons, 70);
+  });
+
+  window.addEventListener("resize", updateButtons);
+  updateButtons();
 }
 
 function getCatalogText(entry, type) {
