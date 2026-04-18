@@ -1,0 +1,24 @@
+{
+  "course_rel": "lazyearn/school-of-hard-knocks/hard-knocks-interviews",
+  "transcript_rel": "lazyearn/school-of-hard-knocks/hard-knocks-interviews/088 - Asking Texas Millionaires How They Got RICH! [exeXKslPiDI].md",
+  "video_rel": "lazyearn/school-of-hard-knocks/hard-knocks-interviews/088 - Asking Texas Millionaires How They Got RICH! [exeXKslPiDI].mkv",
+  "lecture_number": 88,
+  "lecture_slug": "lecture_88",
+  "lecture_title": "Asking Texas Millionaires How They Got RICH!",
+  "assets": [
+    {
+      "name": "lecture_88_figure_02.png",
+      "timestamp_seconds": 54.221,
+      "timestamp_hhmmss": "00:00:54.221",
+      "source_candidate": "lecture_88_window_02_candidate_04_000054221.png",
+      "recommended_use": "screenshot_plus_tikz",
+      "rationale": "This frame keeps the on-screen income-distribution chart fully visible and readable while the presenter is relatively still and centered, so it preserves both the quantitative evidence and the interview setting without the heavier gesture blur seen in nearby frames.",
+      "subtitle_excerpt": "wealthiest city in all of the United States. And",
+      "segment_start_seconds": 51.88,
+      "segment_start_hhmmss": "00:00:51.880",
+      "segment_end_seconds": 54.54,
+      "segment_end_hhmmss": "00:00:54.540",
+      "caption_hint": "Highland Park income distribution overlay"
+    }
+  ]
+}
