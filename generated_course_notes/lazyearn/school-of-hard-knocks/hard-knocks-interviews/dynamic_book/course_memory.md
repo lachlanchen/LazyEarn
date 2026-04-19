@@ -11560,3 +11560,59 @@ All items below should be treated as transcript-backed editorial syntheses, not 
   - James: about `250,000` followers and nine-digit revenue claim;
   - Justin Waller: about `\$30M` revenue, about `\$5M` personal income, about `15` years in business, schedule-premium sales logic.
 - Treat lecture 97 as a bridge lecture for the book’s architecture. Its strongest contribution is not one isolated doctrine, but the unusually clean side-by-side display of multiple wealth machines under the same visible supercar frame.
+
+## Lecture 98 integration: Asking Millionaires How They Got RICH! (Austin)
+
+### New evidence
+- Austin gives one of the clearest `numbers first, explanation second` openings in the series. The teaser reel cleanly separates wealth claims that are often rhetorically flattened elsewhere: personal annual earnings (`~$11.2M`), peak day (`~$1M`), company revenue (`~$30M` solar), capital raised (`~$87M`), valuation (`~$1B`), first-company exit (`~$150M`), later go-private round (`~$7B`), real-estate AUM (`hundreds of millions`), and projected developed value (`~$2.5B`). This is strong evidence for a recurring book move that distinguishes kinds of big numbers before discussing causes.
+- The Josh material overlaps earlier e-commerce evidence, but lecture 98 makes the mechanism much cleaner. `WWAD` is no longer just a garbled Apple hint; it becomes an explicit premium-pricing rule: do not reinvent the wheel, study the strongest premium operator, then outvalue the competition.
+- Josh also gives one of the archive’s clearest buyer-feedback operating loops: sort reviews into `1–3` versus `4–5`, preserve what buyers praise, and obsess over repeated complaints and missing features. This is stronger than generic “add value” language because it provides an actual information filter for product redesign.
+- The line `answer one question that a billion people have` sharpens a recurring scale theme: breadth comes not from doing more tasks, but from solving one widely shared problem.
+- Austin adds named language for attention allocation that should stay in memory: `MWA` (`minimum wage activities`) as the delegated low-leverage bucket; seven-to-eight-figure growth is tied to isolating the `one thing` that actually moves revenue under an 80/20 logic.
+- The solar founder gives one of the archive’s cleanest anti-ruin statements: `50%` loss requires a `100%` gain to recover. Keep this as explicit arithmetic support for the compounding chapter, not just as Buffett paraphrase.
+- The same solar segment usefully braids three archive themes that are often separated: bootstrapped sales hustle, automated index-fund compounding (`8%` to `10%` rough market-growth band), and the `pick something boring and become excellent at it` doctrine with plumbing / roofing / flooring examples.
+- Ari adds a materially new sales grammar for institutional capital: clients are not only chasing upside; they are afraid of losing money or being sold a sham. Real-estate sales is framed as fear reduction through risk controls, co-investment, aligned incentives, and a `performance business` rather than a `fee business`.
+- Renji adds a clean startup sequence that does not appear elsewhere in memory in this compact form: product people actually want -> team that can build it -> funding or internal cash generation that keeps the team alive. He also reinforces the bookkeeping rule that valuation is not revenue.
+- The final Austin founder gives a strong closing correction to founder mythology, with concrete company history attached: first exit `~$150M`, later go-private round `~$7B`, later-company revenue `> $0.5B`, and roughly `2,500` employees. After a lecture full of flashy scale claims, the ending explicitly says outsized outcomes come from self-awareness and complementary teams, not lone-genius heroics.
+
+### Conservative restructure plan
+- Strengthen Chapter 3, **Customer need, buyer-side value, and the redesign loop**, with a short Austin subsection built around Josh:
+  - `WWAD` / Apple as explicit premium-pricing doctrine
+  - `price is only an issue when value is absent` as quoted maxim, not theorem
+  - the `1–3 / 4–5` review triage loop as operational redesign method
+- Deepen the compounding / anti-consumption chapter with a small `Anti-Ruin Arithmetic` insert:
+  - use the solar founder’s `50% loss -> 100% recovery gain` line as the cleanest spoken drawdown example
+  - place his `boring business -> mastered craft -> reinvest into appreciating assets` sequence beside earlier Vanguard / index-fund material
+- Add a short subsection to the trust / sales material on `Fear reduction as institutional selling` using Ari:
+  - investors fear downside and sham-risk more than they desire abstract upside
+  - aligned incentives and co-investment should sit beside existing lender-trust and counterparty-memory material
+- Add Renji primarily to the startup / valuation chapter, not as a standalone tech profile:
+  - keep `valuation != revenue`
+  - keep the product-team-funding triad
+- Use the final founder mainly in the teams chapter or late-book synthesis chapter as anti-myth closure, not as another city-profile case.
+
+### New tensions or contradictions
+- Austin sharpens a recurring series contradiction between visible spectacle and actual mechanism. The lecture opens with Lamborghinis, million-dollar days, billion-dollar valuations, and huge exits, then repeatedly resolves those claims into boring craft, index funds, review spreadsheets, risk controls, and team construction.
+- The host again asks what a company will `generate`, and the answer is valuation. This is useful recurring evidence that the book must keep separating operating output, private-market pricing, and liquid personal wealth.
+- Josh and Ari expose two different sales grammars that should not be merged:
+  - consumer e-commerce: win by raising perceived value faster than price resistance
+  - institutional real estate: win by lowering fear through alignment, risk control, and shared downside
+- The lecture also strengthens a tension already present elsewhere: self-belief matters, but the closing founder insists that self-belief without complementarity is not enough at scale.
+
+### Frame or diagram opportunities
+- No validated screenshots survive from lecture 98, so this lecture should add no screenshot-backed evidence to course memory.
+- If the book needs visuals, Austin justifies transcript-derived diagrams only:
+  - a `kinds of big numbers` taxonomy for revenue / earnings / valuation / capital raised / exit / AUM
+  - Josh’s `collect reviews -> classify -> preserve strengths / repair complaints -> relaunch` loop
+  - a small `50% loss -> 100% recovery` strip paired with a compounding curve
+  - a `fee business vs performance business` incentive-alignment sketch
+  - a `product -> team -> funding` startup triangle
+
+### Next rewrite implications
+- When lecture 98 is redistributed into the dynamic book, do not let it survive as an Austin digest. Its best material belongs in customer-value, compounding, trust, startup, and team chapters.
+- Restore the host’s reset rhythm when rewriting. Austin is especially good at `headline number -> mechanism question -> local answer -> host recap -> relocation`. That cadence helps the book feel like guided extraction rather than a pile of quotes.
+- Keep the lecture’s Q&A beats available for later chapter architecture:
+  - `How can a business charge more and still grow?`
+  - `Why does boring compounding beat flashy wins?`
+  - `What is the blueprint for a startup that survives and scales?`
+- Treat Josh’s Austin appearance as a clarification pass on earlier memory, not a wholly new case: it upgrades `WWAD` from uncertain hint to a clean premium-pricing / review-loop doctrine.
