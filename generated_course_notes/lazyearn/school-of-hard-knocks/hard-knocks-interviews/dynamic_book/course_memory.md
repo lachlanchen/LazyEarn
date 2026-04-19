@@ -13427,3 +13427,107 @@ All items below should be treated as transcript-backed editorial syntheses, not 
 - When revising the access chapter, prefer the Julian Studley story over generic networking advice because it gives a concrete sequence: study the person, find a real opening, accept repeated contact, then let the assignment arrive.
 - When revising the patience / delayed-payoff thread, use commercial brokerage as a vivid anti-fantasy case: long barren periods, side-job support, slow deal clocks, then eventual compounding.
 - When revising the wealth-conversion thread, use the \$54,000 first-check story as a clean example of commission income becoming seed capital for ownership rather than mere lifestyle spending.
+
+## Lecture 120 integration: Asking Entrepreneurs How They Got RICH! (San Antonio)
+
+### New evidence
+
+- Lecture 120 gives the cleanest non-institutional reputation formula in the course so far: `every day is an interview` and `every day is your resume`. This should now be treated as core evidence for the claim that opportunity compounds through repeated daily conduct rather than one-off performance.
+
+- The diversified operator adds a compact scaling rule worth preserving almost verbatim:
+  - `crawl -> walk -> run`
+  - learn the industry first
+  - become expert before adding leverage
+  - running too fast means over-leveraging and losing recoverability  
+  This is reinforcing evidence for anti-debt / anti-overleverage material, but newly useful because it is stated as a clear ordered sequence rather than as a generic warning.
+
+- The same opening case adds a valuable correction to the book’s operator model: a happy personal life is presented as part of business success, not something external to it. This belongs near the freedom / burden / family material rather than being left as a sentimental aside.
+
+- The bioinformatics founder strengthens the `friction is part of growth` lane and adds a crisp AI labor-market line: jobs are not simply replaced by AI, but by people who know how to use AI. Useful as a transcript-native formulation of adaptation pressure.
+
+- The Westin real-estate developer adds one of the clearest carrying-cost / land-holding heuristics in the course:
+  - land is scarce;
+  - development costs keep rising;
+  - agricultural use lowers taxes while holding;
+  - development or sale later realizes the upside.  
+  This is materially new because the land chapter already had scarcity and appreciation, but not this specific `ag-use lowers carry cost and buys time` rule.
+
+- The caricature artist adds a strong long-horizon craft case the book does not yet have in this exact form:
+  - about `35` years in the trade
+  - nearly `500,000` people drawn
+  - annual earnings roughly `\$300k-\$400k` at peak
+  - public friendliness / generosity as operating texture  
+  This is unusually valuable because it ties persistence, output volume, public service work, and self-belief together without requiring a software, finance, or institutional real-estate machine.
+
+- The architect case adds another `lifestyle optimization` line worth retaining: many jobs, many incomes, and the choice should be made against desired life, not income alone.
+
+- The R8 owner block adds one of the clearest late-course stacked-business examples:
+  - real estate first
+  - Airbnb units as base
+  - guest transportation demand next
+  - Turo as the routing layer
+  - exotic vehicles as the monetized upper tier  
+  Quantitatively:
+  - about `38` to `40` units / properties
+  - about `6` cars in the fleet
+  - some cars at about `\$8k-\$10k/month`
+  - R8 around `\$600-\$700/day`  
+  This is materially new because the course has many luxury-car lectures, but this one converts the supercar into inventory inside a service stack rather than treating it as a consumption endpoint or a pure status symbol.
+
+### Conservative restructure plan
+
+- Deepen **Reputation, Trust, and Counterparty Memory** with a short `Every Day Is an Interview` subsection. The value here is not only the quote, but the logic that reputation accrues as repeated daily evidence before any formal opportunity arrives.
+
+- Deepen **Scale, Time, and the Ten-Year Game** or the anti-overleverage material with a `Crawl, Walk, Run` block:
+  - expertise before leverage
+  - recoverability as the hidden variable
+  - speed becomes dangerous when it outruns understanding
+
+- Deepen **Land, Real Estate, and the Asset Where Wealth Comes to Rest** with an `Agricultural Use Buys Holding Time` subsection. The new payload is not just land scarcity, but reduced tax drag as a way to preserve optionality before development or sale.
+
+- Deepen **The Theater of Wealth, and What It Hides** and/or **Control, Speed, and Ownership of the Chain** with a `Supercar as Yield Layer` case. The R8 should be used as another strong witness that visible luxury in the archive often turns out to be a working asset or the outer shell of a larger operating machine.
+
+- Add a small `Long-Horizon Public Craft` subsection somewhere between **Operating Discipline, Human Attention, and Opportunity Exposure** and **What Money Is For**. The caricature artist material helps the book avoid implying that all serious wealth paths look like software, brokerage, or institutional real estate.
+
+- Do not create a standalone permanent San Antonio chapter. Redistribute lecture 120 into reputation, land-holding, persistence craft, AI adaptation, and layered-service-business sections already forming.
+
+### New tensions or contradictions
+
+- This lecture makes the tension between courage and caution unusually clear:
+  - the land developer says `take the plunge` and do not be afraid of risk;
+  - the R8 / Airbnb operator says the first step is heavy research of city, area, and platform.  
+  Keep both. The archive’s real doctrine here is not contradiction but sequence: courage gets us into the field; research governs execution.
+
+- The lecture explicitly ties personal life to business performance. This pushes back against any book draft that treats wealth-building as a purely technical operator problem.
+
+- The San Antonio episode also widens the internal definition of `rich`:
+  - multimillionaire developer and R8 operator on one side;
+  - architect and caricature artist on the other.  
+  This should remain visible. The series is not only cataloging the largest outcomes; it is mapping different stable wealth configurations and lifestyle choices.
+
+- The R8 case sharpens the glamour-versus-mechanism split. The supercar appears first as spectacle, then resolves into a demand-capture instrument built on top of property bookings. This is one of the clearest late-course cases where the visible luxury object is not the source of wealth but the monetized outer layer of a deeper service machine.
+
+### Frame or diagram opportunities
+
+- No new frame-backed memory material should be added from lecture 120. No validated screenshots survived review.
+
+- Safe transcript-derived editorial visuals later:
+  - a `crawl -> walk -> run` scale ladder with `expertise < leverage`;
+  - a `land hold` box: lower tax burden under agricultural use -> more time to wait -> development / sale optionality;
+  - a `property bookings -> transport demand -> vehicle rentals` stack diagram;
+  - a `city -> area -> platform -> first deal` beginner-research ladder;
+  - a `500,000 drawings / 35 years` output-rate box for the caricature case.
+
+- Any such figure should be labeled as transcript-derived explanatory structure, not recovered visual evidence.
+
+### Next rewrite implications
+
+- When the nonlinear book next revises the reputation chapter, lecture 120 should be used to give that chapter a cleaner plain-language spine. `Every day is an interview` is one of the strongest course-wide lines for turning reputation from a vague virtue into a compounding mechanism.
+
+- When the land chapter is next revised, pair the new `agricultural use lowers carry cost` rule with earlier land-resting-place material so the chapter stops treating land only as end-state wealth. Lecture 120 makes land also a time-buying instrument.
+
+- When the glamour chapter is next revised, use the R8 material as a counterexample to luxury-consumption readings. The book should show that some luxury objects in the series are actually cash-flow nodes inside a larger stack.
+
+- When the operating-discipline chapter is next revised, add the caricature artist as a cross-case against founder-tech bias. The important new evidence is that persistence, friendliness, and repeated public-facing craft can compound into serious earnings and social durability.
+
+- When the AI / adaptation material is next revised, use the bioinformatics founder’s phrasing to keep the section grounded: the archive is not predicting total technological replacement; it is showing competitive displacement by better tool users.
