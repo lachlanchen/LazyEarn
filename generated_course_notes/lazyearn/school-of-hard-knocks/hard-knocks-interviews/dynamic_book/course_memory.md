@@ -12412,3 +12412,39 @@ All items below should be treated as transcript-backed editorial syntheses, not 
 - In the final book architecture, lecture 106 should strengthen the recurring Q\&A rhythm around local conceptual obstacles, especially:
   - How does ordinary income become wealth?
   - What does ``money made in a year'' mean when wealth sits in assets?
+
+## Lecture 107 integration: 6 Questions With A Public CEO
+
+### New evidence
+- Mark White adds one of the clearest low-capital origin mechanisms in the series: valet work at a Houston hotel, customer cars sitting idle during dinner, a highly visible improvement made possible by new detailing products, and a low-friction first offer at \$20. This is a strong additional case for the book’s recurring rule that wealth-building often starts with noticing dead time, underused assets, or overlooked customer windows rather than with breakthrough invention.
+- This lecture sharpens an existing sales theme by stating the communication loop explicitly: ask questions, listen to the response, tailor the message, meet the listener’s needs. White also adds a useful pre-pitch diagnostic question: “why would they say no?” That makes sales less about pressure and more about calibrated entry into another person’s constraints.
+- White gives a strong named example of humility as a sales tool rather than as mere character polish: when speaking to rooms with medical professionals, he says he first identifies domain experts and avoids pretending to know healthcare better than they do. This is good evidence for a broader archive claim that credibility is often built by respecting the listener’s prior knowledge instead of overpowering it.
+- The lecture adds a new conceptual structure around trauma and mental-health entrepreneurship. White classifies trauma into toxic, physical, and emotional forms, then explains the brain through a two-system model (electrical and chemical), with trauma triggering fight-or-flight protection and sometimes leaving lingering dysregulation. This is important course memory, but it must be stored as White’s explanatory model, not as settled neuroscience.
+- White contributes a concrete treatment-order worldview that does not show up as cleanly in many other interviews: start with non-invasive technologies, nutrition, talk/support, and spiritual community before medication-first intervention. This is useful not because it resolves the issue, but because it reveals how some entrepreneurial operators in health-related businesses frame institutional failure and opportunity.
+- On accomplishment, White supplies a major corrective to the series’ usual external markers of success. His “greatest accomplishment” is not taking a company public; it is surviving collapse, going through bankruptcy, facing creditors directly, and learning humility through accountability. The named bankruptcy attorney Nelson Hemsley is important here as the person who turned failure into an education rather than a cleanup operation.
+- The Haas story adds a compact self-repair algorithm: structure first, one small controllable action completed successfully, reflection at day’s end, confidence, repetition, then gradual scaling. This is especially valuable because it explicitly contrasts small repeatable wins against the shame spiral of all-at-once self-reinvention.
+
+### Conservative restructure plan
+- Add White’s car-detailing story to the existing early-method / opportunity-recognition material as a clean service-window case: observed idle time, visible result, low trial price, repeat work.
+- Add White’s ask-listen-tailor model to the book’s persuasion / access / credibility material as a more explicit mechanism for respectful selling, especially in rooms where the audience already has domain expertise.
+- Add the bankruptcy-and-creditors material to the archive’s growing chapter cluster on loss, accountability, and post-failure reconstruction. White is a useful named case because he directly says the education came from facing the harmed parties rather than escaping them.
+- Add the Haas routine and “one successful act” logic to any emerging chapter on habit formation, operating discipline, or self-command. This lecture gives unusually clean procedural language for how confidence is rebuilt.
+- Add the trauma section conservatively to a chapter on health, instability, or institutional trust only if it is clearly labeled as speaker-attributed explanatory framing rather than authoritative medical doctrine.
+
+### New tensions or contradictions
+- White is a public-company CEO in brain-health technology who speaks in direct opposition to medication-first mental-health treatment as a routine response. This should remain a live contradiction in the archive: entrepreneurial authority and health-system skepticism are braided together here.
+- The lecture intensifies a recurring series tension between visible prestige and moral seriousness. The host frames White first as a public CEO, but White later says his greatest accomplishment was bankruptcy-era accountability and humility, not public-company status.
+- White combines confidence, aggression, and high energy with repeated calls for humility, reduced speech, and deference to what others know. This strengthens the course-wide claim that the better operators in the series often pair force with self-limitation.
+
+### Frame or diagram opportunities
+- No validated screenshot evidence survived for this lecture, so any future figure should be a transcript-backed editorial diagram only.
+- Best redraw candidates if the book later needs them:
+  - valet context \(\to\) customer dwell time \(\to\) \$20 detailing offer \(\to\) visible result \(\to\) repeat business
+  - ask \(\to\) listen \(\to\) tailor \(\to\) meet needs
+  - trauma taxonomy plus electrical/chemical brain model plus fight-or-flight / lingering dysregulation
+  - one small act \(\to\) completion \(\to\) reflection \(\to\) confidence \(\to\) next act
+
+### Next rewrite implications
+- When this lecture is absorbed into the dynamic book, do not isolate it as “the public CEO interview.” Its real value is that it links five existing book threads in one place: opportunity recognition, calibrated sales, humility, accountability after failure, and structured self-repair.
+- Use White as a named bridge case between entrepreneurship and mental-health claims, but keep the trauma/treatment material carefully attributed and non-doctrinal.
+- Preserve the lecture’s strong internal order in any future synthesis: origin story \(\to\) sales method \(\to\) humility and money discipline \(\to\) trauma model \(\to\) bankruptcy as education \(\to\) small wins as recovery method. That order is part of the evidence, not just the presentation.
