@@ -1,0 +1,24 @@
+{
+  "course_rel": "lazyearn/school-of-hard-knocks/hard-knocks-interviews",
+  "transcript_rel": "lazyearn/school-of-hard-knocks/hard-knocks-interviews/113 - Asking Strangers How Much MONEY They Make (Austin, Texas) [1m7ERHu13sc].md",
+  "video_rel": "lazyearn/school-of-hard-knocks/hard-knocks-interviews/113 - Asking Strangers How Much MONEY They Make (Austin, Texas) [1m7ERHu13sc].mkv",
+  "lecture_number": 113,
+  "lecture_slug": "lecture_113",
+  "lecture_title": "Asking Strangers How Much MONEY They Make (Austin, Texas)",
+  "assets": [
+    {
+      "name": "lecture_113_figure_02.png",
+      "timestamp_seconds": 96.237,
+      "timestamp_hhmmss": "00:01:36.237",
+      "source_candidate": "lecture_113_window_03_candidate_02_000136237.png",
+      "recommended_use": "screenshot_plus_tikz",
+      "rationale": "This is the clearest and most complete visual articulation of the speaker\u2019s point about horizontal managers. His hands are spread flat at the same level, which directly matches the spoken organizational concept and makes the frame useful as a layout anchor for notes or a simple redraw.",
+      "subtitle_excerpt": "And then you have your horizontal managers, where we",
+      "segment_start_seconds": 95.5,
+      "segment_start_hhmmss": "00:01:35.500",
+      "segment_end_seconds": 97.44,
+      "segment_end_hhmmss": "00:01:37.440",
+      "caption_hint": "horizontal managers layout"
+    }
+  ]
+}
