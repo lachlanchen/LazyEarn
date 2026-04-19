@@ -13153,3 +13153,77 @@ All items below should be treated as transcript-backed editorial syntheses, not 
 - Use Denver to make the book sound more like a comparative field manual than a stack of inspirational quotations: when cash disappears, what exactly can still be sold, financed, or recombined?
 - When revising recurring-revenue material, prefer Denver’s transcript-native logic over abstract jargon: the first transaction can lose money if lifetime economics are known and recurring revenue carries the recovery.
 - In the evolving manuscript, lecture 115 should reinforce the claim that rich-field interviews are most valuable when they reveal what part of the wealth machine survives after the headline number is stripped away.
+
+## Lecture 117 integration: Asking Millionaires How They Got RICH! (Houston)
+
+### New evidence
+
+- Lecture 117 adds one of the cleanest `income is not yet wealth` formulations in the series. The concierge operator reports a peak year somewhere between \$2.5 million and \$5 million, then immediately says the real trick is learning to hold money. This is reinforcing evidence for the anti-consumption / retention chapter, but it is unusually clean because it comes from a visibly high-income luxury-service intermediary rather than from a frugality-first speaker.
+- The doctor-to-real-estate segment adds a strong `first business as correction machine` case. The new evidence is not only the good-year band of roughly \$4 million to \$5 million; it is the sequence:
+  loss years \(\rightarrow\) profitable years offset losses \(\rightarrow\) reinvestment into growth, paired with 96-hour stretches and the explicit rule `lose the ego, take the blame, improve hiring / training / motivation`. This is one of the better transcript-backed archive examples of accountability being treated as an operating mechanism rather than as motivational language.
+- The restaurant-owner sequence adds a materially new Houston hospitality case that should be preserved as a compact operating model rather than just another rich-restaurant anecdote:
+  - \(A=4600\) square feet;
+  - \$1 million revenue in one month;
+  - full-year revenue said to be right under \$10 million;
+  - owner-claimed `\$2300-\$2400 a square foot`;
+  - key-employee threshold bonuses of roughly \$5,000 or \$10,000 at year-end target;
+  - explicit partnership-governance advice: get everything in paperwork, define a decision maker, and keep communication central;
+  - owner-presence doctrine: seven lunches, seven dinners, rare breaks, knows the room, touches every table;
+  - premium-service doctrine: never say no, and if an extraordinary request must be fulfilled, fulfill it and charge for it.
+- The same restaurant case gives the archive a clean `premium service -> markup` micro-rule. The Rolls-Royce example is especially reusable because it is concrete rather than abstract:
+  \[
+  P_{\mathrm{client}} = 1.2\,P_{\mathrm{source}}.
+  \]
+  This is useful book evidence that concierge-style service logic can sit inside a restaurant business rather than only in luxury transport, luxury retail, or creator-side access businesses.
+- Lecture 117 also adds a sharper `invest in people, not businesses` witness than some earlier generic people-first claims, because here it is tied to observed owner presence, employee incentives, and customer contact rather than to vague networking language.
+- The later entrepreneur cluster adds a compact allocation ladder worth storing exactly as a heuristic:
+  \[
+  \text{real estate first} \;\rightarrow\; \text{six to twelve months of spend as cushion} \;\rightarrow\; \text{S\&P 500}.
+  \]
+  This is not new in theme, but it is one of the cleanest later-course transcript-native compressions of the archive’s `deploy surplus, but keep liquidity` doctrine.
+- The real-estate operator adds more concrete neighborhood-entry signals than the memory currently holds in one place: get into areas beginning to gentrify, see where active investors are already moving, and watch for schools, new HEBs, and Amazon-centered development. This is useful as a field heuristic, not as a formal model.
+- The late medical-sales and real-estate exchanges strengthen the archive’s portable-sales doctrine with unusually blunt phrasing: `it is you that they’re buying` and `sell yourself first`. This is reinforcing evidence, but useful because it arrives after real estate, investing, and education questions, making persuasion the closing universal rather than merely an early-career sales tip.
+
+### Conservative restructure plan
+
+- Add the restaurant owner to the existing restaurant / operating-discipline / trust-and-service material as a new `small-footprint, high-density hospitality` case. Do not make a standalone restaurant chapter from it. Its best contribution is the combination of density arithmetic, owner presence, premium fulfillment, and incentive design inside one operator.
+- Add the doctor segment to the loss / accountability / reinvestment material as a compact `first business correction loop` subsection:
+  loss years, good years, offset, reinvest, remove ego, improve team selection and training.
+- Add the concierge line to the anti-consumption / retention chapter as supporting evidence for the now-stable series claim that the decisive break is often not earning more, but leaking less.
+- Add the later entrepreneur’s allocation ladder to the capital-deployment chapter as a compact witness for `real estate + liquidity buffer + broad index` ordering. Keep it clearly attributed as interviewee doctrine, not house financial advice.
+- Fold lecture 117 into the existing Houston material as another distinct Houston sub-environment: not mansion-gates, and not only River Oaks affluent public space, but a mixed field where hospitality density, physician-to-operator redirection, neighborhood real-estate heuristics, and high-touch salesmanship all sit close together.
+- Do not create a permanent standalone `Houston millionaires` chapter. Lecture 117 is strongest when redistributed into compounding, restaurant operations, geography, real-estate heuristics, sales, and accountability chapters already in motion.
+
+### New tensions or contradictions
+
+- The restaurant arithmetic should be stored as an open tension, not normalized away. The spoken `\$2300-\$2400 a square foot` does not align neatly with both
+  \[
+  \frac{\$1{,}000{,}000}{4600} \approx \$217.4 \text{ per sq ft per month}
+  \]
+  and
+  \[
+  \frac{\$10{,}000{,}000}{4600} \approx \$2173.9 \text{ per sq ft per year}.
+  \]
+  This is useful because it shows the archive’s usual pattern: striking operator shorthand plus editorial arithmetic that clarifies but does not fully reconcile the claim.
+- The lecture strengthens a live archive split around education. One speaker says the correct advice to his younger self is to do exactly what he did and get an engineering degree; later, the degree itself is explicitly said not to be universally necessary. Preserve this as another `path is contingent, mechanism is not` case rather than forcing a single doctrine about school.
+- The lecture again mixes high-income spectacle with anti-status restraint. We move from private-jet concierge money and Ferrari-pulling-up restaurant clientele to `hold money`, delay the nice car, keep a cash cushion, and avoid herd behavior. That tension belongs to the book’s larger argument rather than being edited out.
+- Several transcript lines remain visibly unstable or garbled, especially `Your network is your network` and `I started wedding tables`. Keep future rewrites semantically clear, but do not promote those phrasings into canon.
+
+### Frame or diagram opportunities
+
+- No new frame-backed memory material should be added from lecture 117. No validated screenshots survived review.
+- Safe transcript-led editorial visuals now justified by this lecture are:
+  - a `restaurant density` box using footprint, one-month revenue, full-year revenue, and the owner’s unmatched spoken `per square foot` claim;
+  - a `first business correction loop` diagram:
+    failure \(\rightarrow\) self-blame \(\rightarrow\) better hiring/training/motivation \(\rightarrow\) corrected operation;
+  - a short `capital allocation ladder`:
+    retain cash \(\rightarrow\) preserve 6--12 months of spend \(\rightarrow\) real estate \(\rightarrow\) S\&P 500.
+- Any such figure should be labeled as editorial reconstruction from transcript, not as recovered visual evidence.
+
+### Next rewrite implications
+
+- When the nonlinear book next revises the compounding chapter, lecture 117 should be used to make the section more sequential: earn, hold, absorb losses, reinvest, then only later enlarge lifestyle. This lecture is especially good at giving that sequence human witnesses in the right order.
+- When the restaurant material is next expanded, use lecture 117 to keep the section from collapsing into generic hospitality advice. The transcript’s actual order matters:
+  origin story \(\rightarrow\) revenue density \(\rightarrow\) employee incentives \(\rightarrow\) paperwork and decision rights \(\rightarrow\) owner presence \(\rightarrow\) never-say-no premium service.
+- When the Houston material is next revised, do not merge lecture 117 completely into lecture 106. Lecture 106 is wealthy-district / River Oaks social space with trust-and-detail service; lecture 117 is a more explicit commercial recursion lecture with stronger `hold money`, `offset losses`, `restaurant density`, and `allocation ladder` content.
+- When the sales chapter is next revised, use lecture 117 as another late-course proof that the archive often ends at the same universal: across medicine, real estate, engineering, and hospitality, people buy the operator before they buy the product.
