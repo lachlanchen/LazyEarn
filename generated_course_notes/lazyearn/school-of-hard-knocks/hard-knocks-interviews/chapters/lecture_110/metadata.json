@@ -1,0 +1,38 @@
+{
+  "course_rel": "lazyearn/school-of-hard-knocks/hard-knocks-interviews",
+  "transcript_rel": "lazyearn/school-of-hard-knocks/hard-knocks-interviews/110 - He Turned $100k Into $25M [lAOliWexJgo].md",
+  "video_rel": "lazyearn/school-of-hard-knocks/hard-knocks-interviews/110 - He Turned $100k Into $25M [lAOliWexJgo].webm",
+  "lecture_number": 110,
+  "lecture_slug": "lecture_110",
+  "lecture_title": "He Turned $100k Into $25M",
+  "assets": [
+    {
+      "name": "lecture_110_figure_02.png",
+      "timestamp_seconds": 21.02,
+      "timestamp_hhmmss": "00:00:21.020",
+      "source_candidate": "lecture_110_window_02_candidate_04_000021020.png",
+      "recommended_use": "screenshot_only",
+      "rationale": "This frame has the full on-screen quantitative caption and the most finished version of the money-bag graphic. It is sharp, legible, and more complete than the earlier animation states, making it the best evidence anchor for the claim about an eight-figure real estate portfolio.",
+      "subtitle_excerpt": "was able to grow an eight-figure real estate portfolio.",
+      "segment_start_seconds": 19.41,
+      "segment_start_hhmmss": "00:00:19.410",
+      "segment_end_seconds": 21.24,
+      "segment_end_hhmmss": "00:00:21.240",
+      "caption_hint": "8-figure portfolio graphic"
+    },
+    {
+      "name": "lecture_110_figure_03.png",
+      "timestamp_seconds": 596.944,
+      "timestamp_hhmmss": "00:09:56.944",
+      "source_candidate": "lecture_110_window_05_candidate_04_000956944.png",
+      "recommended_use": "screenshot_only",
+      "rationale": "This frame is the strongest evidence anchor because it contains the full on-screen emphasis caption matching the spoken claim. It is sharper and more complete than candidate 03, where the caption is still cut off, and more useful for note writing than the earlier plain interview shots.",
+      "subtitle_excerpt": "and oil or technology, they all invest in real estate.",
+      "segment_start_seconds": 593.6,
+      "segment_start_hhmmss": "00:09:53.600",
+      "segment_end_seconds": 597.4,
+      "segment_end_hhmmss": "00:09:57.400",
+      "caption_hint": "They all invest in real estate"
+    }
+  ]
+}
