@@ -1,0 +1,24 @@
+{
+  "course_rel": "lazyearn/school-of-hard-knocks/hard-knocks-interviews",
+  "transcript_rel": "lazyearn/school-of-hard-knocks/hard-knocks-interviews/108 - The Single Skill That Built His $100M Year Business [oRqUthcMi6I].md",
+  "video_rel": "lazyearn/school-of-hard-knocks/hard-knocks-interviews/108 - The Single Skill That Built His $100M Year Business [oRqUthcMi6I].mkv",
+  "lecture_number": 108,
+  "lecture_slug": "lecture_108",
+  "lecture_title": "The Single Skill That Built His $100M Year Business",
+  "assets": [
+    {
+      "name": "lecture_108_figure_02.png",
+      "timestamp_seconds": 221.425,
+      "timestamp_hhmmss": "00:03:41.425",
+      "source_candidate": "lecture_108_window_03_candidate_01_000341425.png",
+      "recommended_use": "screenshot_only",
+      "rationale": "This is the only candidate with concrete note-useful visual evidence: a sharp, fully legible on-screen step caption that directly anchors the spoken point about daily practice and abundance. The other frames are similar interview shots without the explanatory text overlay.",
+      "subtitle_excerpt": "single day and drawing in abundance and possibility",
+      "segment_start_seconds": 221.03,
+      "segment_start_hhmmss": "00:03:41.030",
+      "segment_end_seconds": 224.32,
+      "segment_end_hhmmss": "00:03:44.320",
+      "caption_hint": "Step 1: meditating everyday"
+    }
+  ]
+}
