@@ -11107,3 +11107,115 @@ All items below should be treated as transcript-backed editorial syntheses, not 
 - Use the Scottsdale density numbers plus the later case diversity as support for a recurring book move:
   - affluent geography is the stage
   - but the mechanisms inside that stage remain heterogeneous and must not be collapsed into one generic `mindset` story
+
+## Lecture 92 integration: Asking Calabasas Millionaires How They Got RICH!
+
+### New evidence
+- Lecture 92 adds one of the clearest current `speed under shock` cases in the processed corpus:
+  - fashion manufacturer pivots an entire factory into gowns and masks during COVID
+  - claims to be the only factory in Los Angeles making them at that moment
+  - reports a best year of about `\$30M`
+  - explicitly attributes the edge to small-firm speed over slower large corporations
+- This is not just another COVID-pivot story. The new value is the speaker’s plain-English mechanism:
+  - preexisting manufacturing capability
+  - rapid repurposing
+  - temporary scarcity
+  - first-mover advantage before larger firms catch up
+- The same interview strengthens the archive’s `control without premature dilution` lane:
+  - founder says he sold too early
+  - the sold company later ended up on Nasdaq
+  - warns against bringing in venture capital or investors too early
+  - allows share issuance in principle, but treats loss of control as the real mistake
+- The real-estate interview adds one of the clearest `diversify within the field, not outside it` statements yet:
+  - about `\$2.5B` in assets under management
+  - nearly `50` years in the business
+  - diversification named explicitly as commercial vs residential, large vs small residential, different states, different cities
+  - this is materially useful because it resolves focus-versus-diversification from inside one competence set rather than through later-stage portfolio language
+- The same real-estate interview gives a new `law as analytic operating discipline` formulation:
+  - “go to law school” is not meant literally as a career prescription
+  - it functions as a statement that legal structure and analytical thinking are core business tools in real estate
+- The jewelry manufacturer gives the book a genuinely new operating-mechanism case:
+  - best year about `\$35M`
+  - explicit claim that diamonds and gold are transparent to the customer
+  - therefore the business “sold labor”
+  - automation and mechanization matter because they lower internal labor cost
+  - this is one of the strongest current transcript-native `margin lives in labor spread, not in visible commodity markup` cases
+- The same jewelry segment adds supporting evidence for `stay in the field you know`:
+  - reinvest in the operating business rather than wandering into unrelated assets
+  - pair it with the integrity line; trust and cost structure are treated as linked rather than separable
+- The closing software founder reinforces the archive’s early-stage concentration doctrine with unusually clean stage language:
+  - founder age `22`
+  - about `30` employees
+  - current-year top line above `\$4M`
+  - when young, put your eggs in one basket
+  - work `12–13` hour days
+  - screen partners and employees by intensity
+- Lecture 92 is also a useful `metric hygiene` episode:
+  - assets under management, business top line, and best-year income-style claims all appear in one lecture
+  - this is good reinforcing evidence that the book must keep revenue, AUM, and personal-income-like claims distinct
+
+### Conservative restructure plan
+- Deepen Chapter 15, **Control, Speed, and Ownership of the Chain**, with a `Shock Windows Reward Reconfigurable Operators` subsection.
+  - Place lecture 92 beside lecture 54’s medical-supplies pivot, but keep the distinction explicit:
+    - lecture 54 is a larger revenue swing case
+    - lecture 92 is the cleaner small-firm-speed explanation
+- Deepen Chapter 5, **Ownership, Position, and the Claim on Future Upside**, with a short `Sold Too Early` subsection.
+  - Use the Nasdaq-after-sale regret as reinforcing evidence for control retention without turning it into absolute anti-investor ideology
+- Deepen Chapter 8, **Scale, Time, and the Ten-Year Game**, or the existing concentration/diversification architecture, with a `Diversify Inside Competence` subsection.
+  - Lecture 92 gives a cleaner real-estate expression of this than most earlier lectures
+- Deepen Chapter 12, **Boring Businesses, Bottlenecks, and Infrastructure Wealth**, or the hidden-operating-layer material, with a `Transparent Inputs, Hidden Margin` subsection.
+  - The jewelry interview is now one of the best plain-English cases for cost structure, labor spread, and operational leverage
+- Add lecture 92 as supporting evidence to the `professional labor versus owned upside` material, but do not over-promote it there.
+  - The plastic surgeon is useful mainly as a high-ticket labor/craft case, not as the lecture’s main conceptual contribution
+
+### New tensions or contradictions
+- Lecture 92 sharpens the manuscript’s concentration-versus-diversification contradiction in a more usable way:
+  - the young software founder says one basket when young
+  - the real-estate veteran says diversify within one mastered field
+  - keep this as a stage-and-context distinction rather than forcing one universal doctrine
+- It also sharpens the archive’s `bootstrap purity` contradiction:
+  - the fashion manufacturer warns against early outside capital
+  - but he does not say “never issue shares”
+  - the real rule is `do not lose control`, not `never take capital under any circumstances`
+- The real-estate interview complicates the archive’s recurring founder/product mythology:
+  - some fortunes are not explained mainly by product brilliance or sales aggression
+  - they are explained by analytical thinking, legal structure, and durable domain knowledge
+- The jewelry interview deepens the `visible product versus hidden margin source` contradiction:
+  - the customer sees diamonds and gold
+  - the manufacturer actually earns through labor spread and process control
+  - this should sit beside other cases where glamour hides the true economics
+- The software founder’s `\$4M` figure is explicitly top-line revenue.
+  - Use this lecture as reinforcing evidence that the book should keep company revenue separate from personal income or owner wealth
+
+### Frame or diagram opportunities
+- No validated screenshot assets survive from lecture 92. No course-wide figure inventory change is needed.
+- Strong transcript-derived editorial diagrams now justified by this lecture are:
+  - `existing capability -> rapid pivot -> temporary scarcity -> outsized payoff`
+  - `one mastered field -> property-type variation / size variation / geography variation`
+  - `transparent commodity input -> labor spread -> automation -> wider margin`
+  - `best year -> regret of early sale -> control-retention doctrine`
+- No frame-backed mathematics or screenshot-paired redraws should be added from this lecture.
+
+### Next rewrite implications
+- Do not let lecture 92 become a standalone Calabasas chapter in the nonlinear book. Its value is distributive:
+  - shock-response speed
+  - control retention
+  - nested diversification
+  - labor-margin arithmetic
+  - early-stage concentration
+- Preserve the lecture’s actual order if its material is redistributed:
+  - teaser montage of wealth signals
+  - fashion/COVID pivot
+  - equity-control regret
+  - real-estate/law surprise
+  - diversification within competence
+  - plastic-surgery differentiation
+  - jewelry cost-structure explanation
+  - young software-founder concentration doctrine
+- Promote three Q\&A beats from this lecture into later thematic chapters:
+  - `Why can a small entrepreneur win when a shock hits?`
+  - `How do we diversify without leaving our area of expertise?`
+  - `If customers know the input prices, where does the manufacturer actually make money?`
+- Use lecture 92 as additional support that the host’s recap passages are performing theorem-like work:
+  - they convert one operator’s biography into a portable mechanism
+  - later rewrites should preserve that rhythm instead of flattening the lecture into anonymous advice bullets
