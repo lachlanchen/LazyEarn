@@ -13923,3 +13923,44 @@ All items below should be treated as transcript-backed editorial syntheses, not 
 - Preserve the host recaps and the day-two reset when rewriting. This lecture loses too much if reduced to a bag of millionaire tips; the search process is part of the doctrine.
 - Keep the sports-owner exchange as a standalone `Question & Answer` in the nonlinear book. It is one of the clearest current places where the archive raises a real obstacle — `if ownership is the goal, what do we do when we are still young and constrained?` — and then answers it with a sequence rather than a slogan.
 - Treat the final real-estate answer as reinforcing evidence for a course-level thesis already forming elsewhere: savings matter not because they are glamorous, but because they preserve the ability to choose.
+
+## Lecture 125 integration: Entrepreneurs interesting perspective to building wealth
+
+### New evidence
+- Lecture 125 adds the clearest transcript-backed macro sector-allocation thesis yet aimed directly at a builder: an engineer asks what industry to pursue, and the answer is immediate that the next `1,000` unicorns will be in green tech.
+- New transcript-backed scale chain:
+  - \(W_{2022} \approx \$90\text{T}\)
+  - fossil-fuel dependence stated at roughly `80%`
+  - \(W_{2050} \approx 2W_{2022} \approx \$180\text{T}\)
+  - 2050 endpoint stated as net zero
+- This lecture matters because it upgrades earlier solar / energy material from company cases and sales cases into a world-scale mechanism: wealth may concentrate where the economy must both expand and replace its energy base.
+- The clip also adds a clean `answer first, proof second` sequence that is useful for the book’s rhetoric: thesis (`green tech`) first, then justification by scale, horizon, and constraint.
+
+### Conservative restructure plan
+- Do not create a standalone permanent green-tech chapter from lecture 125.
+- Use it to strengthen an existing subsection inside **Scale, Time, and the Ten-Year Game** or **Boring Businesses, Bottlenecks, and Infrastructure Wealth** with a compact insert such as `The 28-Year Rebuild` or `Bigger and Cleaner at Once`.
+- When the solar / energy material from lectures 96, 98, and 101 is next rewritten, use lecture 125 as the macro frame that explains why those cases keep recurring. Earlier lectures give operator-level evidence; lecture 125 gives the archive’s clearest top-down reason.
+- Add lecture 125 to the existing `problem size` doctrine, but mark it as a different scale class:
+  - earlier problem-size cases: large customer pain, concentrated bottlenecks, insurer layers, etc.
+  - lecture 125: civilization-scale replacement plus growth
+
+### New tensions or contradictions
+- Keep the `next 1,000 unicorns` claim explicitly speaker-attributed. The interview gives a forceful forecast, not a model that literally derives the count.
+- This lecture is much narrower and more sector-specific than the archive’s broader claim that there are many routes to wealth. Preserve it as a strong directional bet, not as a replacement for the rest of the book’s machinery around real estate, sales, ownership, law, finance, and distribution.
+- There is a useful time-structure tension here: the question is how to become wealthy in `2022`, but the justification runs through a `2050` horizon. That should be kept as evidence that present wealth positioning may depend on committing to a long transition rather than chasing immediate cash tactics.
+- Preserve caution around the `80%` fossil statement and `net zero` language; the transcript does not define denominators, accounting rules, or sector boundaries.
+
+### Frame or diagram opportunities
+- No validated screenshots or frame-backed equations survive from lecture 125.
+- Safe transcript-derived editorial figure now justified:
+  - `2022`: \(\$90\text{T}\) economy, roughly `80%` fossil-fuel dependent
+  - `2050`: \(\$180\text{T}\) economy, net zero
+  - connecting claim: green-tech build-out / `next 1,000 unicorns`
+- This should be treated as a transcript-derived schematic, not as recovered board evidence.
+
+### Next rewrite implications
+- Strengthen the book’s `problem size` thread by separating:
+  - solving a large local bottleneck
+  - solving a world-scale transition burden
+- Use lecture 125 as a bridge sentence or short opener before future solar / energy case clusters: lecture 96 shows one solar machine; lecture 125 explains why such machines may be part of a much larger repeatable field.
+- Preserve the engineer-directed framing and the standalone Q\&A beat when this material is redistributed. The clip is unusually clean as `builder asks where to go` rather than `operator explains what he already built`.
