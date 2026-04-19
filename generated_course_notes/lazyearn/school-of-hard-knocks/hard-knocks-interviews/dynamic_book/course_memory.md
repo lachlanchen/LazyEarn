@@ -12292,3 +12292,74 @@ All items below should be treated as transcript-backed editorial syntheses, not 
   - The cleanest reusable blocks are the `$10k -> $100k -> $1M` ladder and the income-to-assets loop.
 - When the nonlinear book next rewrites the scale material, lecture 104 should be used as the archive’s cleaner `small-number calm-down` case.
   - It is the right counterweight whenever the manuscript becomes too dominated by billion-dollar exits, Cardone-scale rhetoric, or institutional scale language.
+
+## Lecture 105 integration: Asking Millionaire Homeowners How They Got Rich
+
+### New evidence
+- This lecture adds an unusually clean three-part mechanism stack inside one homeowner episode:
+  - delayed professional payoff: the physician from Pakistan had to relicence in the United States, later reports seven-figure-plus annual income, and ties success in medicine to a decade of holiday/night work rather than quick prestige
+  - repeatable scale plus debt discipline: the McDonald’s franchisee reports \(50\) current units and \(19\) more under his children, describes franchising as a scale system rather than a one-off idea, and gives a very clear rule of living on enough to make ends meet and sending the rest to debt reduction, with business debt first
+  - downside survival plus capital formation: the remote physician says not to overextend and to live below one’s means so bad times remain survivable; the final physician-entrepreneur says he worked roughly three times a normal doctor’s load in his first year to save enough capital to get a bank loan for his first facility
+- The lecture gives one of the clearest transcript-backed compounding lines in the homeowner corpus: early \(401(k)\) saving is framed as a materially asymmetric move because the dollar invested young has time to grow.
+- It adds a concrete host-side field-sales rule that should now be treated as course-level evidence, not just episode color: the first five to ten seconds at the door matter, and the interviewer must sell himself immediately to earn the conversation.
+- It deepens the “operations over textbook theory” strand through the auto dealer case: business school is said not to teach live operating pressure well; mentorship is the bridge; weekly payroll burdens of \(\$150{,}000\), \(\$400{,}000\), and \(\$1{,}000{,}000\) are used to explain why leadership requires a rallying point rather than private ambition alone.
+- It adds a clean staffing mechanism from the chef: staff are the greatest asset, treatment of staff feeds performance, and team quality is a real business multiplier.
+- The lecture strengthens the series-wide “money is not the terminal object” line with a particularly usable formulation from the final physician-entrepreneur: money should be treated as a tool to do something great, not as the end itself.
+- Houston is used here not just as scenery but as a hidden-operator field: behind the mansions sit physicians, franchise operators, dealership owners, a chef-operator, and the Tillman Fertitta reveal. This strengthens the idea that the house is bait and the real subject is the machinery behind it.
+
+### Conservative restructure plan
+- Add lecture 105 evidence to the existing course-level chapter on compounding, reinvestment, and anti-consumption:
+  - early \(401(k)\) compounding from the first physician
+  - “make ends meet, send the rest to debt paydown” from the McDonald’s operator
+  - “do not overextend” from the remote physician
+  - early overwork-to-equity-to-bank-financing from the final physician-entrepreneur
+- Add this lecture to the existing access / credibility / right-to-be-heard chapter as the clearest homeowner-field evidence that access is itself a sales skill:
+  - refusals matter structurally
+  - first-impression performance in the first five to ten seconds should become an explicit sub-point
+- Add the McDonald’s segment to the scale / operating systems chapter as a clean repeated-unit case:
+  - scale comes from a standardized formula with brand and advertising support, not just a “good idea”
+- Add the auto dealer segment to the operations / organizational burden chapter:
+  - mentorship over textbook abstraction
+  - payroll pressure as the point where entrepreneurship becomes responsibility for other families
+  - rallying point as a coordination device, not just motivational rhetoric
+- Fold the chef and final physician-entrepreneur into the existing “what money is for” cluster rather than opening a new chapter:
+  - staff quality
+  - balance / experiences
+  - money-as-tool rather than money-as-idol
+
+### New tensions or contradictions
+- This lecture places three wealth grammars side by side in one neighborhood without collapsing them into one doctrine:
+  - elite profession with delayed payoff
+  - franchise scale through repeatable systems
+  - operator-led business with payroll pressure and mentorship
+  This is useful counterevidence against any future rewrite that implies the series believes in only one route to wealth.
+- The host continues to use spectacle first and mechanism second. That tension should remain visible in the book: the series needs the mansion and the Rolls-Royce to open the door, but the interviewees often answer by demoting visible wealth and pointing back to compounding, debt discipline, staff, systems, and time.
+- “Hard work” appears again, but this lecture ties it more concretely than many others to specific mechanisms:
+  - relicensing delay
+  - holiday/night medical labor
+  - franchised replication
+  - payroll obligations
+  - first-year capital accumulation for bankability
+
+### Frame or diagram opportunities
+- No validated screenshots survive for lecture 105, so this lecture adds no frame-backed visual memory.
+- It does, however, strengthen four course-level editorial diagram candidates:
+  - early-versus-late contribution compounding timeline
+  - household slack diagram for \(Y - E - DS\)
+  - repeated-unit franchise ladder
+  - payroll-burden-to-rallying-point organizational schematic
+
+### Next rewrite implications
+- When the nonlinear book is next expanded, lecture 105 should not become a standalone permanent chapter. It should feed named evidence into the evolving thematic chapters on:
+  - compounding and early positioning
+  - debt discipline and downside survival
+  - franchising and repeatable scale
+  - access, first impressions, and field-sales method
+  - operations, payroll, and organizational leadership
+  - money as tool, not terminal score
+- The homeowner subcorpus should now be written more explicitly as a bait-and-switch form:
+  - visible estate as hook
+  - field access as trial
+  - biography converted into mechanism
+  - host recap converted into portable rule
+- Houston-specific rewrite note: lecture 105 strengthens Houston as a city where the series repeatedly finds hidden operators behind residential spectacle; this can support a future city-cluster subsection rather than being left as isolated local color.
