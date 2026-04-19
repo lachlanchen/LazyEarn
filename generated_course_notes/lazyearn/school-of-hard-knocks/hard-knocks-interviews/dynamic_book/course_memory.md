@@ -12956,3 +12956,41 @@ All items below should be treated as transcript-backed editorial syntheses, not 
   - the `70/30` rule is not universal;
   - the Apple/AirPods segment is evidence for brand power, not reliable product-level arithmetic;
   - the Celsius story and location logic are transcript-backed named cases, not independently verified history or routing analysis.
+
+## Lecture 112 integration: Asking Orlando Millionaires How They Got Rich
+
+### New evidence
+- Lecture 112 is most useful as a synthesis lecture on operational wealth-building rather than as a single standout profile. Its recurring movement is especially clean: visible scale claim, field reset, mechanism question, then a short reusable rule.
+- The social-media-agency segment adds one of the clearest current scale-threshold statements in the corpus: a six-figure business can stay owner-operated, but a seven-figure business requires leadership, training, patience, and trust in delegated client fulfillment. Keep the explicit pair together: `$3M` last year, `$5M` target this year.
+- The Frontline Performance Group CEO gives a sharper sales chain than many earlier clips: know the marketplace better than the technology; research the buyer; believe the product; be direct; book the next appointment immediately so follow-up does not turn into chase.
+- The same software segment is strong new support for non-founder ownership. This is not the lecture 41 corporate-ascent lane; it is a `sweat equity because of the skillset and value I bring` lane, capped by the blunt rule: `if you don't have equity, you don't have wealth`.
+- The insurance / risk management / academics operator, tied to the National Alliance for Insurance Education and Research, gives a durable-business test that should stay grouped: show growth because nobody invests in a shrinking business; keep good people long enough that tenure becomes social proof; excellence is many small things done well; people are both greatest asset and greatest liability.
+- Trey’s grandfather adds a notably clean real-estate temperament rule: real estate was not the dream but the vehicle. His phrasing on leverage is strong enough to preserve almost verbatim: do not spend what you do not have to get what you do not need; do not over-leverage; build step by step; it is a `two point game`, not a three-point game.
+- The closing real-estate specialist adds a modern service / creator / AI synthesis in one place: `$11.5M` largest deal, `$75k` months, `9` businesses owned, mentoring of new agents, and a usable referral mechanism: high-quality service -> client satisfaction -> referrals -> less dependence on constant cold prospecting.
+- The same closing segment adds a clean creator-monetization order that should be kept separate from generic creator hype: affiliate marketing first, owned offer / service / merch second, brand deals last. It also adds a useful failure mode: ego turns audience validation into business decay.
+- AI appears twice in operational form and the book should preserve both roles: applied AI as a simple licensable utility, and AI as assistant-like infrastructure that systemizes work and frees capacity.
+
+### Conservative restructure plan
+- Deepen Chapter 8, **Scale, Time, and the Ten-Year Game**, with a subsection such as `Six Figures Is Solo; Seven Figures Is Organizational`. Lecture 112 gives the cleanest short form now in memory for the solo-to-team threshold.
+- Deepen Chapter 16, **Sales, Rejection, and Social Endurance**, with a `Book the Next Appointment Now` subsection. The value here is not generic persistence but the specific rule that the next step should be scheduled before the current conversation dissolves.
+- Deepen Chapter 5, **Ownership, Position, and the Claim on Future Upside**, with a `Sweat Equity Without Founding` subsection. Pair lecture 112 with the existing `Employee to CEO Without Founding` material so the book distinguishes institutional ascent from value-based partnership inside someone else’s company.
+- Deepen Chapter 14, **Land, Real Estate, and the Asset Where Wealth Comes to Rest**, with a `Real Estate as Vehicle, Not Dream` subsection. Pair lecture 112’s grandfather with lecture 110: lecture 110 explains where wealth rests; lecture 112 explains the anti-glamour temperament that gets someone there.
+- Deepen Chapter 17, **Reputation, Trust, and Counterparty Memory**, or the service-practice lane, with a `Service Quality Lowers Prospecting Load` subsection. Earlier memory already has care -> trust -> referrals; lecture 112 adds a real-estate version tied explicitly to time saved from constant pavement-stomping.
+- Deepen Chapter 4, **Attention, Distribution, and the Price of Being Seen**, with a short `Brand Deals Last` subsection. This should function as a correction inside the book’s broader attention-to-ownership logic, not as a standalone creator chapter.
+- Add reusable `Question & Answer` blocks for later nonlinear chapters: `What actually changes between a six-figure business and a seven-figure business?`, `Why can strong technology still fail to make money?`, `What makes a business look durable rather than fragile?`, and `How do we enter an industry we do not yet fully understand without pretending expertise?`
+
+### New tensions or contradictions
+- This lecture reinforces a route contradiction the book should keep alive: large revenue, large monthly cash, and visible scale are still repeatedly demoted beneath ownership. Income is everywhere in lecture 112, but wealth is explicitly reserved for equity.
+- Real estate is framed here as an unromantic vehicle rather than a dream. That is a useful counterweight to more status-heavy property episodes elsewhere in the series.
+- Creator work is named one of the best industries in 2023, but the same speaker demotes brand deals to the last monetization layer and treats ego as a common destroyer. Keep both claims together.
+- AI is not one thing in this lecture. It is both a product category and an operating layer. Do not collapse those two functions into a single AI claim in the book.
+- The host’s aside about approaching people with the right look and energy is worth keeping as a small methodological tension: access may begin in vibe, but the interview’s own substance keeps returning to boring discipline, trust, and stepwise process.
+
+### Frame or diagram opportunities
+- No validated frame assets or screenshot-backed diagrams should be added from lecture 112.
+- If a later rewrite wants a small editorial schematic, keep it transcript-backed and visibly secondary: `solo throughput -> team throughput`, `market knowledge -> credible pitch -> direct ask -> scheduled next step`, `service quality -> client satisfaction -> referrals -> less cold prospecting`, or `affiliate -> owned offer -> brand deal`.
+
+### Next rewrite implications
+- Do not let lecture 112 become a lecture-local Orlando chapter in the dynamic book. It is more valuable as connective tissue across the rule stack: scaling, selling, owning, retaining people, avoiding leverage, and monetizing attention.
+- When excerpting from this lecture, preserve the internal rhythm: teaser montage first, Orlando / Winter Park reset second, then the repeated question machine. That rhythm is how the lecture turns spectacle into method.
+- Lecture 112 is especially useful for strengthening the book’s recurring move from anecdote to mechanism. Nearly every interview here produces a short rule that can be reused elsewhere without carrying the full profile.
