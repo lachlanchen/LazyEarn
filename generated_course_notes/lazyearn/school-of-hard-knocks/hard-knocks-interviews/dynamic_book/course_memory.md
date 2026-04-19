@@ -12040,3 +12040,125 @@ All items below should be treated as transcript-backed editorial syntheses, not 
     - one-unit fragility versus multi-unit scale
     - investor and buyer funnel corrections
   - The archive is increasingly rich enough to support these brief quantitative punctures without turning the book into textbook economics.
+
+## Lecture 103 integration: Asking Millionaires How They Got RICH! (Dallas)
+
+### New evidence
+- This lecture gives Dallas a new course-level function. Earlier Dallas material already carried cash-flow failure, reserve optionality, trust, and preservation discipline. Lecture 103 adds a different Dallas cluster: consumer-goods scale, retail culture design, athlete guardrails, oncology-sector timing, delegated ownership, adjacent vertical integration, dry powder, and people-development as leadership method.
+- The Frito-Lay CEO adds one of the archive’s clearest big-consumer-brand doctrines:
+  - founder myth: Herman Lay selling chips from a truck;
+  - modern rule: know the consumer better than anyone else;
+  - technology is named as the tool for staying on top of consumer trends;
+  - preparation, authenticity, humane treatment, and hustle are presented as co-requisites rather than separate virtues.
+- The retail mogul adds a cleaner anti-heroic company model than the memory currently holds in one place:
+  - the company is not made successful by the CEO alone;
+  - culture differs by firm and must be understood on its own terms;
+  - customer care and employee care are explicitly treated as the operational path to shareholder value.
+- Tavon Austin is reinforcing rather than revolutionary, but he gives a useful athlete case for the making-versus-keeping lane:
+  - roughly `\$11M` in a peak year;
+  - no `yes men`;
+  - advisors and close operators should handle the money as if it were their own.
+- The oncology entrepreneur adds a new kind of sector-timing evidence:
+  - business at roughly `\$60M`;
+  - earlier group sale at roughly `\$365M`;
+  - healthcare, especially drug development, is recommended not as generic optimism but because the field itself widened from roughly `12--15` good oncology drugs to `40+`, with immune therapy named as a breakthrough driver.
+- The tanning-franchise owner adds one of the cleanest mid-scale ownership architectures in the corpus:
+  - `75+` locations in `13` states;
+  - delegate when someone can do the task at about `70%` of your level;
+  - buy a company, give the operator equity, and let them treat it as their baby;
+  - explicit arithmetic: `\$600,000` profit at `50/50` split gives `\$300,000` per side;
+  - literal passive income is rejected, but delegated equity cash flow is presented as the closest practical equivalent.
+- The same owner gives the archive a sharper concentration/diversification doctrine than it currently holds:
+  - `concentration builds wealth; diversification keeps it`;
+  - early-stage entrepreneurs should not scatter into weak side streams;
+  - later diversification is strongest when it remains adjacent and controlling rather than random.
+- The lecture also gives the control chapter a new service-business form of vertical integration:
+  - roughly `20` new locations under construction;
+  - roughly `\$200,000` monthly HVAC spend;
+  - plan to own HVAC, electrical, plumbing, architecture, commissions, and eventually the buildings themselves;
+  - `pay rent to yourself` is the clearest verbal line for converting operating outflow into owned margin.
+- The final healthcare executive adds two genuinely new book mechanisms:
+  - dry-powder doctrine: spend about half of what you make, keep cash on the sideline, and use lower valuations as opportunity windows over the next `2--3` years;
+  - scale-threshold doctrine: people + technology + sales + marketing + commercialization push a business toward `industry utility`, where non-users are disadvantaged.
+- The same final case adds a strong people-development formulation for the leadership chapter:
+  - helping direct reports get to their next level;
+  - reaching down and pulling people up;
+  - hiring the best people and lifting them is presented as the mechanism by which the executive himself rose.
+- Dante’s brief interruption is worth keeping as a structural correction, not as filler:
+  - seek peace instead of financial gain;
+  - if the inside is not right, outside achievement does not repair it.
+
+### Conservative restructure plan
+- Do not create a standalone `Dallas millionaires` chapter for lecture 103. Redistribute it into existing thematic chapters.
+- Deepen **Customer Need, Buyer-Side Value, and Product Redesign** with a `Consumer Obsession at Scale` subsection using the Frito-Lay case. Its special contribution is that consumer knowledge and technology are joined explicitly at multi-billion-dollar scale.
+- Deepen the people / culture / leadership chapter with a `The Company Is Not the CEO` subsection. Lecture 103 is one of the clearest current sources for the causal order:
+  - culture;
+  - customer;
+  - employees;
+  - shareholder outcome.
+- Keep Tavon inside the athlete-money material as reinforcement rather than as a new anchor case. His value is not a new theory of wealth, but a compact case where elite earnings are immediately tied to discipline, anti-yes-man structure, and financial-advisor guardrails.
+- Add the oncology entrepreneur to the capital-allocation / sector-timing chapter with a short `Healthcare as Technical Progress, Not Just Defensive Safety` subsection. The `12--15 -> 40+` oncology-drug shift is the durable payload.
+- Deepen the delegation / ownership chapter with a `Delegated Equity Is the Closest Thing to Passive Income` subsection. Pair lecture 103 with Shaq-scale delegation, lecture 60 inspection doctrine, and other founder-time bottleneck material, but keep this case distinct because it formalizes shared upside, not only task offloading.
+- Deepen Chapter 15, **Control, vertical integration, and response speed**, with a `Pay Rent to Yourself` or `Adjacent Margin Capture` subsection. Lecture 103 adds a service-franchise version of vertical integration that is different from earlier factory, venue, or platform-control cases.
+- Add a standalone `Question & Answer` block inside the ownership chapter:
+  - `Should we diversify early, or concentrate first?`
+  - Use lecture 103 as the clearest current source for `concentration builds wealth; diversification preserves it`.
+- Add the final executive to the reserve-capital / optionality chapter with a short `Dry Powder for Falling Valuations` subsection. This lecture gives the cleanest current version of cash-on-the-sideline as both safety buffer and opportunity weapon.
+- Add the final executive to the scale chapter with a short `From Infrastructure to Industry Utility` subsection. This is new because the lecture names the tipping point explicitly rather than speaking only in generic growth terms.
+- Add Dante briefly to **What Money Is For** as a reset beat between acquisition logic and stewardship logic, not as a standalone spiritual chapter.
+
+### New tensions or contradictions
+- Lecture 103 sharpens a valuable management contradiction the book should keep visible:
+  - shareholder primacy exists formally because shareholders can fire management;
+  - customer care and employee care still come first causally if shareholder value is to survive.
+- It also gives a cleaner diversification contradiction than the memory currently states:
+  - early random diversification is mocked as weak and distracting;
+  - later adjacent diversification through vertical integration is praised.
+  The book should therefore distinguish `diversification by dilution` from `diversification by deepened control`.
+- The tanning-owner case sharpens the passive-income theme:
+  - literal passive income is rejected;
+  - equity in a delegated, operator-run business is still treated as near-passive cash flow.
+  Keep this as a refinement, not a resolution.
+- The lecture contains a direct transcript-side contradiction that must remain explicit in later rewrites:
+  - the entrepreneur states a group sale at roughly `\$365M`;
+  - the host recap later compresses this to roughly `\$100M`.
+  The earlier direct interview figure should remain primary.
+- The two healthcare exits in this lecture must stay separated:
+  - roughly `\$365M` group sale in the oncology case;
+  - roughly `\$3.5B` private-equity exit in the final executive case.
+- Dante’s peace-over-money line also sharpens a book-wide end-state contradiction:
+  - many operators still speak in scale, growth, and acquisition terms;
+  - this lecture interrupts that flow to say inner disorder makes outer winnings secondary.
+
+### Frame or diagram opportunities
+- No validated frame assets survive for lecture 103, so this lecture adds no screenshot-backed memory item.
+- Safe transcript-derived editorial visuals later:
+  - `consumer obsession -> technology feedback -> scale`;
+  - `culture -> customer care + employee care -> shareholder outcome`;
+  - `delegate at 70% -> give equity -> operator effort -> shared profit`;
+  - `concentration -> cash flow -> adjacent control -> diversification that preserves wealth`;
+  - `people + tech + sales + marketing + commercialization -> industry utility`.
+- Because lecture 103 has no validated board or overlay evidence, these should remain optional editorial diagrams only.
+
+### Next rewrite implications
+- When lecture 103 is redistributed into the nonlinear book, preserve its actual rhythm. It is unusually good at stepping from one social position to another:
+  - consumer-goods executive;
+  - retail turnaround leader;
+  - athlete;
+  - healthcare entrepreneur;
+  - host recap;
+  - franchise owner;
+  - peace interruption;
+  - healthcare investor-executive.
+  That sequence is part of the teaching method.
+- Dallas should now carry a third book function beyond earlier cash-flow and trust clusters:
+  - lecture 71 = cash survival, ownership income, reserve optionality;
+  - lecture 84 = word-keeping, patience, preservation, rock-bottom asymmetry;
+  - lecture 103 = consumer scale, delegated ownership, adjacent vertical integration, and dry-powder infrastructure logic.
+- Keep the host recap beats alive when this lecture is mined later. Here they do real interpretive work:
+  - team-made wealth after the oncology sale;
+  - peace-before-money after Dante.
+- Good reusable Q\&A blocks justified by this lecture:
+  - `If shareholders come first, what should management put first in practice?`
+  - `Should an entrepreneur diversify early?`
+  - `What actually takes a business from seven figures to eight and nine?`
