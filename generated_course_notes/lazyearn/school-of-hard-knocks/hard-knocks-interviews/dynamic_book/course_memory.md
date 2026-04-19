@@ -12994,3 +12994,61 @@ All items below should be treated as transcript-backed editorial syntheses, not 
 - Do not let lecture 112 become a lecture-local Orlando chapter in the dynamic book. It is more valuable as connective tissue across the rule stack: scaling, selling, owning, retaining people, avoiding leverage, and monetizing attention.
 - When excerpting from this lecture, preserve the internal rhythm: teaser montage first, Orlando / Winter Park reset second, then the repeated question machine. That rhythm is how the lecture turns spectacle into method.
 - Lecture 112 is especially useful for strengthening the book’s recurring move from anecdote to mechanism. Nearly every interview here produces a short rule that can be reused elsewhere without carrying the full profile.
+
+## Lecture 113 integration: Asking Strangers How Much MONEY They Make (Austin, Texas)
+
+### New evidence
+- Lecture 113 is useful less as another city-wealth montage and more as a `money-disclosure taboo` lecture. The opening sequence of refusals, evasions, and partial disclosures adds fresh support to the book’s privacy / visibility material: even ordinary public money talk is socially gated before any mechanism is explained.
+- The first substantive guest adds a very clean early-business financing rule: self-fund if possible, then use friends/family or modern fundraising platforms, and treat bank borrowing as the biggest regret. This is one of the archive’s bluntest anti-bank-debt statements from an operator rather than from a generic finance clip.
+- The same interview adds a genuinely new management topology to the course memory: `vertical managers` who sit on top and bark versus `horizontal managers` who sit at the table and work together, with rank reserved for a `critical moment`. This is one of the clearest scale-through-structure distinctions in the series.
+- The software-marketing interview gives a compact career-breadth mechanism that is sharper than many earlier tech clips: multiple startups and short runs across different roles can accelerate learning more than an early comfortable high-paying job.
+- Lecture 113 gives one of the archive’s clearest resolutions of the `who you know` versus `what you know` tension: access may begin with network, but continued access depends on value provided. The host states the bridge explicitly enough that it should become a reusable rule in the book rather than remain a loose slogan.
+- The same cluster adds two useful companion lines for the access / reputation material: `healthy relationships in the role you are in create later opportunities` and `you are a brand`, meaning ordinary public conduct is already commercially consequential.
+- The medical-business-owner segment is reinforcing rather than wholly new, but it is unusually compressed: entrepreneurship is not for everyone, chances matter, school prestige fades quickly after the first job, people buy from people they like, and one should control the controllables. Keep the exact quantitative anchors with it: `26` years in medical, `17` years running the stem-cell company, and `>$4M` in revenue.
+- The military-to-consulting investor gives a clean portfolio-state sequence that the current memory should retain as a named case: house at each duty station -> rentals around military bases -> several properties -> `asset rich, cash poor` -> planned liquidation to regain optionality. The `4` properties and peak-year range of `$500,000-$600,000` make this more concrete than a generic real-estate praise clip.
+- The younger entrepreneur adds a good wealth-creation triad that is not yet held this tightly in one place: create something new, fix what is broken, or recreate something already working and add your own spin. He also gives a clean backward-planning example through pool building: start from the target business, decompose the required trades, then identify the first step. Keep the volatility anchors with him: `~$650,000` best year, with months swinging from `$75,000` to `$10,000`.
+- The late LAPD interview adds a calm institutional counterexample to the series’ usual entrepreneurial heat: pension plus deferred compensation as `two buckets` for later life. The law-enforcement example also preserves an unexpected earnings case inside a conventional institution: about `30` years with LAPD and a peak around `$300,000` through celebrity weddings and security.
+- The closing cybersecurity/privacy interview adds reinforcing evidence for `portable technical cognition`: an engineering degree matters not because it locks one into engineering, but because it teaches problem solving that travels across roles.
+
+### Conservative restructure plan
+- Deepen Chapter 11, **Leverage, Capital Plumbing, Bank Trust, and the Shell Around the Machine**, with a short subsection such as `When Bank Debt Enters Too Early`. Use the neurotechnology operator as a named regret case, and pair it with the lecture’s later real-estate credit talk so the chapter distinguishes operating debt from asset-backed leverage.
+- Deepen Chapter 8, **Scale, Time, and the Ten-Year Game**, with a small `Horizontal Managers, Critical Moments` subsection. This lecture gives the archive a rare explicit management-shape rule: collaboration by default, rank only when necessary.
+- Deepen Chapter 2, **Access, Credibility, and the Right to Be Heard**, with a `Network Opens the Door; Value Keeps You in the Room` subsection. Pair it with Chapter 17, **Reputation, Trust, and Counterparty Memory**, so the book keeps the full chain: access, usefulness, repeated contact.
+- Deepen Chapter 4, **Attention, Distribution, and the Price of Being Seen**, with a short `You Are a Brand Even Offstage` insert. This lecture’s contribution is not creator monetization but the permeability between ordinary social behavior and later commercial opportunity.
+- Deepen Chapter 14, **Land, Real Estate, and the Asset Where Wealth Comes to Rest**, with an `Asset Rich, Cash Poor` subsection built around the duty-station rental case. The key new point is not simply that real estate compounds; it is that accumulated property can create a liquidity problem that later requires deliberate reversal.
+- Deepen Chapter 6, **Customer Need, Buyer-Side Value, and Product Redesign**, or Chapter 12, **Boring Businesses, Bottlenecks, and Infrastructure Wealth**, with a short `Create / Fix / Recreate, Then Plan Backward` subsection. The pool-building decomposition is a useful procedural example of designing a business from the endpoint backward.
+- Add the LAPD pension-plus-deferred-comp material conservatively to Chapter 20, **What Money Is For**, or Chapter 11’s calmer late section, as a reminder that the archive’s wealth logic is not only entrepreneurial upside but also bucket design and future withdrawal structure.
+
+### New tensions or contradictions
+- Lecture 113 creates an important internal debt contradiction that the book should keep alive rather than smooth away:
+  - early business bank debt is described as the speaker’s biggest mistake
+  - later in the same lecture, a younger operator recommends real-estate leverage or a line of credit for acquiring an appreciating asset
+  Keep the distinction explicit: fragile operating machines and collateralized asset acquisition are being judged differently.
+- The lecture sharpens the archive’s recurring network contradiction:
+  - one answer says `who you know, 100%`
+  - the lecture then immediately qualifies that claim by insisting on value provision
+  This should remain a staged tension, not be flattened into either pure meritocracy or pure relationship determinism.
+- The series often romanticizes entrepreneurship, but this lecture adds a direct limiter: working for yourself is not for everybody. That should remain visible as a correction to broader hustle rhetoric elsewhere in the archive.
+- The series often treats asset accumulation as success in itself; this lecture insists that a full portfolio can still leave someone strategically constrained by low liquidity.
+- The macho command style present elsewhere in the corpus is implicitly challenged here by the `horizontal managers` model, where listening and shared vision matter more than constant barking.
+
+### Frame or diagram opportunities
+- Add `lecture_113_figure_02.png` to the course-level frame memory as a rare non-spectacle image that supports a real conceptual distinction. Its value is not wealth display but management topology.
+- If the dynamic book later needs a small diagram in the scale chapter, pair the screenshot with a minimal redraw:
+  - horizontal row of peers as frame-backed evidence
+  - vertical stack as transcript-backed contrast only
+  - final-rank override marked as `critical moment`
+- This lecture also justifies small transcript-derived editorial diagrams elsewhere:
+  - `network access -> value provided -> repeated access`
+  - `duty-station houses -> rentals -> asset rich / cash poor -> liquidation for optionality`
+  - `target business -> required trades/capabilities -> first step`
+- Do not create any equation figure from the screenshot itself. The frame supports only the horizontal-management layout, and even that should stay explicitly marked as gesture-based interpretation rather than literal on-screen charting.
+
+### Next rewrite implications
+- Do not let lecture 113 survive in the nonlinear book as merely `the Austin money-disclosure episode`. Its strongest use is as connective tissue across disclosure/privacy, capital structure, management design, network logic, liquidity management, and institutional wealth buckets.
+- Preserve the lecture’s internal unfolding when redistributing material: refusal montage -> financing caution -> management topology -> host method reset -> networking / brand -> competition / conduct -> asset-liquidity case -> creation and backward planning -> retirement buckets -> engineering portability.
+- This lecture is especially good source material for standalone `Question & Answer` inserts in the book:
+  - `How do we scale without turning management into command-and-control?`
+  - `Which matters more, who you know or what you know?`
+- Keep the quantitative anchors exact and unattractive rather than rounding them into myth: `1.4M` followers claim, `high six figures`, `>$4M` revenue, `4` properties, `$500,000-$600,000`, `~$650,000`, `$75,000` versus `$10,000` months, `~$300,000`, and the career-duration markers `17`, `26`, `27`, and `30` years.
+- When this lecture is mined later, preserve the distinction between anecdote, claim, and mechanism. The neurotechnology / FDA / mental-health material should stay speaker-attributed, while the financing rule, network-value rule, asset-liquidity rule, and backward-planning rule are the portable mechanisms.
