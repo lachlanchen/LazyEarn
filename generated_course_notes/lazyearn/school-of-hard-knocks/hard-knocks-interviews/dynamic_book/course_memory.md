@@ -13052,3 +13052,54 @@ All items below should be treated as transcript-backed editorial syntheses, not 
   - `Which matters more, who you know or what you know?`
 - Keep the quantitative anchors exact and unattractive rather than rounding them into myth: `1.4M` followers claim, `high six figures`, `>$4M` revenue, `4` properties, `$500,000-$600,000`, `~$650,000`, `$75,000` versus `$10,000` months, `~$300,000`, and the career-duration markers `17`, `26`, `27`, and `30` years.
 - When this lecture is mined later, preserve the distinction between anecdote, claim, and mechanism. The neurotechnology / FDA / mental-health material should stay speaker-attributed, while the financing rule, network-value rule, asset-liquidity rule, and backward-planning rule are the portable mechanisms.
+
+## Lecture 114 integration: Asking A Tech Millionaire How To Start & Scale a Tech Company
+
+### New evidence
+- This lecture adds one of the clearest explicit founder procedures in the series. John Abraham is less useful here as a raw wealth anecdote than as a named operator case: bartending \(\rightarrow\) tech sales \(\rightarrow\) product launch in 2014 \(\rightarrow\) exit in 2018 \(\rightarrow\) Haymaker.
+- Strong new evidence for a pre-build discovery pipeline, stated in unusually clean order: product viability + \(\mathrm{TAM}\) + decision-maker interviews + pain-point mapping + business-value test + pilot commitment + only then \(\mathrm{MVP}\). Compact memory form:
+  \[
+  D \rightarrow P \rightarrow V \rightarrow \Pi \rightarrow \mathrm{MVP}.
+  \]
+- This lecture sharpens a major course-level rule: a substantial problem is not enough. The idea becomes worth continued investment only when there is a path to customers and scale. Compact memory form:
+  \[
+  G \Leftarrow A_{\mathrm{cust}} \land S,\qquad G \not\Leftarrow \text{problem importance alone}.
+  \]
+- New evidence for a useful buyer-side interview question that should be preserved verbatim in future rewrites: after surfacing pain, ask, “If we solve this problem for you, what would that mean for your company?”
+- Strong new anti-perfectionism mechanism: perfectionism is framed as insecurity, then resolved operationally by showing imperfect work early and letting clients help shape the product. This is better than the series-average “just start” advice because it gives a concrete feedback loop.
+- Clear fundraising clarification: there is “no magic number” for investment readiness; what matters is visible potential, repeatable customer acquisition, an operating plan, and ideally rising revenue/\(\mathrm{MRR}\). Compact memory form:
+  \[
+  R_{\mathrm{raise}} \Leftarrow U \land A_{\mathrm{rep}} \land \mathcal{P} \land (\Delta \mathrm{MRR} > 0).
+  \]
+- New practical scaling heuristic worth retaining as a compact operator rule:
+  \[
+  \text{outsource if } c_{\mathrm{task}} < r_{\mathrm{founder}},
+  \]
+  with the important addendum that permanent hires are forecast commitments, not casual add-ons.
+- New clean channel split: enterprise sales use email, direct outreach, and sometimes cold calling; consumer products rely much more heavily on social media.
+- New exit-readiness formulation: stop narrating the sale and keep improving the bottom line, revenue, and efficiency until institutions notice.
+- New named marketplace case: Haymaker as a post-pandemic pivot from broader coworking toward temporary meeting spaces and office inventory bookable by the hour or day, justified by distributed work and reduced permanent real-estate footprints.
+
+### Conservative restructure plan
+- In the existing customer-need / buyer-side value / product redesign chapter, add a new subsection built around John Abraham’s discovery-before-build sequence. This lecture is strong enough to justify a compact table or numbered schematic there.
+- In the existing scale / leverage / capital-plumbing material, add a short “no magic number” fundraising block built around repeatable acquisition, plan quality, and rising \(\mathrm{MRR}\), not around a fixed threshold.
+- In the existing exposure / rejection / sales-endurance material, add a Q\&A-style block on perfectionism as insecurity and on the need to show imperfect product early.
+- Add Haymaker as a named case inside any evolving chapter on marketplace design, flexible demand, or business pivots under changed labor patterns; do not make it a standalone permanent chapter.
+
+### New tensions or contradictions
+- This lecture pushes against any residual tendency in the book to treat “important problem” as sufficient. John’s standard is harsher: no customer-acquisition path, no real business yet.
+- It also pushes against any romantic treatment of perfectionism. Here, hiding the unfinished product is not prudence; it is refusal of judgment.
+- The lecture’s opening montage includes equity, rejection, niche strategy, and relationship advice, but the main analytic core is much narrower and more procedural. Future rewrites should keep the montage as prologue pressure, not as the lecture’s center.
+- Exit talk is demoted relative to operating performance. The lecture insists that acquisition interest should be narrated as a downstream consequence of efficient revenue movement, not as a founder’s primary target.
+
+### Frame or diagram opportunities
+- No validated screenshot assets survived for lecture 114. Do not add frame-backed figures.
+- If the book later wants visual structure from this lecture, use only transcript-derived schematics: the discovery pipeline, the fundraising-readiness checklist, or the enterprise-vs-consumer channel split.
+
+### Next rewrite implications
+- Treat lecture 114 as a procedural anchor lecture for the whole series, not as another wealth-vignette episode.
+- Preserve the montage-to-reset rhythm: teaser questions and street interviews first, then the explicit pivot into a founder case study.
+- Preserve at least two standalone `Question & Answer` beats in future book drafting:
+  - When does an idea become worth continued investment?
+  - What should a perfectionist founder do with an imperfect product?
+- Keep the money anecdotes from the street interviews separate from John Abraham’s founder method; they are contextual pressure, not proof.
