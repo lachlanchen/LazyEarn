@@ -12807,3 +12807,152 @@ All items below should be treated as transcript-backed editorial syntheses, not 
   - recovered equity and closing costs are asserted but not fully itemized,
   - the screenshots are evidentiary slogans, not analytic diagrams,
   - the `they all invest in real estate` line should remain a speaker-attributed thesis, not an empirical law.
+
+## Lecture 111 integration: Asking Miami Millionaires How They Got Rich
+
+### New evidence
+- Lecture 111 is a consolidation lecture, but it still adds several genuinely new course-level mechanisms rather than merely repeating existing Miami material.
+- The strongest new scale addition is an explicit `tranche misestimation` doctrine:
+  - scaling has three levels rather than one continuous motion;
+  - the second hundred million is not generated the same way as the third;
+  - each next tranche requires a different source, structure, or capability.
+  This should now sit beside lecture 96’s `7 -> 8 -> 9` staircase and lecture 108’s product-leadership-talent chain.
+- The lecture adds a cleaner `market size before effort` test for the seven-to-eight-figure jump:
+  - the first million may come from luck,
+  - friends and family,
+  - or a good but non-scalable idea;
+  - the next question is whether a real `green field` / addressable market exists.
+  This is one of the clearest current archive statements that scale can fail because the market is not there, not only because the founder is weak.
+- The business-development operator contributes a useful `protected baseline bucket` rule:
+  - put `10%` of income into a stock index fund;
+  - keep all other investments outside that bucket.
+  This is worth storing separately from generic index-fund praise because the real payload is `fixed floor before opportunistic bets`.
+- The spymaster segment adds a genuinely new sequence to the book’s investment architecture:
+  - competitive intelligence as watching the external environment before acting,
+  - pay yourself first into retirement,
+  - identify where there is traction,
+  - invest only after the signal looks real and not fly-by-night.
+  This is the clearest current street-level `attention -> traction -> allocation` rule in the memory.
+- The Brickell software-engineer interview gives a sharper field rule for relationship capital than the memory currently holds in one place:
+  - every new city should be approached by finding people one can offer something to;
+  - the relationship starts with value brought to the table, not just with the ask.
+- The same software-engineer segment adds a new speaker-specific savings doctrine:
+  \[
+  s=0.70,\qquad c=0.30
+  \]
+  together with `leverage your credit so you can save your cash`. Keep this clearly speaker-attributed rather than promoting it into house policy.
+- The e-commerce founder gives the archive a much sharper local hierarchy than the current memory states cleanly in one place:
+  \[
+  \text{product} \succ \text{marketing} \succ \text{sales}
+  \]
+  together with two directional claims:
+  - if the product is strong, the marketing burden falls;
+  - if the marketing is strong, the sales burden falls.
+- The commercial real-estate close adds a strong named adjacency case the archive does not yet hold this concretely:
+  - office ownership created tenant contact,
+  - tenant contact created acquisition opportunity,
+  - the illustration is the Celsius story.
+  This is strong new evidence that some assets matter because of the people and businesses they expose the owner to, not only because of direct cash flow.
+- The same real-estate segment adds a cleaner `location as operating control` case:
+  - office between I-95 and the Florida Turnpike,
+  - properties reachable within roughly three hours,
+  - geographic positioning used to reduce friction across the portfolio.
+- Miami is clarified here as two things at once:
+  - an ambition amplifier where overwork is normalized and higher tiers of the game become visible;
+  - a comparison trap where fake wealth and Instagram optics distort spending and self-perception.
+  That paired reading is stronger here than in earlier Miami lectures.
+- The anti-comparison close is reinforcing rather than wholly new, but useful:
+  - `don’t count other people’s money`
+  - fake status display
+  - insecurity
+  - spending distortion.
+  This is a good non-Napola real-estate-operator variant of the same warning.
+
+### Conservative restructure plan
+- Deepen the scale chapter with a short `Tranche Misestimation` subsection:
+  - lecture 111 should be paired with lecture 96’s staircase and lecture 108’s chain, not treated as a replacement for either.
+- Add a reusable Q\&A block to the scale material:
+  - `How do we know whether a first million is actually scalable?`
+  - use lecture 111’s sequence:
+    - luck / friends-and-family / one-off idea diagnosis,
+    - market-size test,
+    - right approach,
+    - outside expertise.
+- Deepen the allocation chapter with a `Floor Before Bets` subsection:
+  - use the `10% into an index fund` rule as a protected baseline bucket,
+  - explicitly contrast it with the archive’s more aggressive reinvestment and go-to-zero doctrines.
+- Deepen the investing / market-reading chapter with an `Observation Before Allocation` subsection:
+  - competitive intelligence,
+  - traction filter,
+  - retirement-first saving,
+  - then capital commitment.
+- Deepen the brand / product / demand chapter with a `Product First, Marketing Second, Sales Third` subsection.
+  - Pair lecture 111 with lecture 101’s `marketing -> leads -> sales -> revenue` material.
+  - Keep the disagreement explicit rather than reconciling it prematurely.
+- Deepen the geography / access / real-estate material with an `Adjacency Is Part of the Asset` subsection:
+  - I-95 / Turnpike control geometry,
+  - three-hour operating radius,
+  - office-to-tenant-to-Celsius opportunity chain.
+- Keep lecture 111 distributed across existing thematic chapters rather than creating another permanent Miami chapter.
+
+### New tensions or contradictions
+- Lecture 111 sharpens the archive’s already-live conflict among money doctrines:
+  - `10%` protected index bucket,
+  - `70/30` aggressive saving rule,
+  - long-horizon compounding doctrines from earlier lectures,
+  - aggressive redeployment and capital-velocity doctrines elsewhere.
+  The book should now state more clearly that the series does not believe in one universal allocation formula.
+- It sharpens the archive’s `product vs marketing vs sales` contradiction in a more useful way:
+  - lecture 101 says marketing controls lead flow upstream of sales;
+  - lecture 108 says strong product underwrites leadership, talent, and scale;
+  - lecture 111’s e-commerce founder says product first, then marketing, then sales.
+  This should now be treated as an industry- and stage-specific disagreement rather than as a simple hierarchy.
+- Miami is framed here in two opposite but compatible ways:
+  - exposure to bigger players increases ambition,
+  - exposure to staged wealth increases insecurity.
+  Keep both; the city functions as both force multiplier and distortion field.
+- The lecture also strengthens an important brake on pure hustle rhetoric:
+  - some episodes imply that more effort or better sales fixes everything;
+  - lecture 111 says the next jump may fail because the market itself is not there.
+  This is useful pressure against oversimplified self-help readings.
+- The penthouse fail-faster / Israel / Breslow material mostly reinforces scale-and-failure architecture already stored from lecture 108. Do not duplicate it as though lecture 111 invented that chain; use it instead as evidence that the doctrine recurs inside a broader field lecture.
+
+### Frame or diagram opportunities
+- No new frame or screenshot material. Lecture 111 adds no validated visual assets and should remain transcript-driven in course memory.
+- Best later editorial diagrams:
+  - `G_1 -> G_2 -> G_3` with different sources and requirements at each tranche;
+  - `first million -> market test -> expert guidance -> 8-figure path`;
+  - `observation -> traction -> investment`;
+  - `office asset -> tenant contact -> acquisition opportunity -> equity upside`;
+  - `product -> marketing -> sales`, explicitly labeled as a speaker-attributed e-commerce heuristic.
+
+### Next rewrite implications
+- Add lecture 111 to the processed evidence index with compact anchors:
+  - `10%` index-fund floor with other investments outside the bucket;
+  - `three levels of scaling`;
+  - `second hundred million != third hundred million`;
+  - `first million may be luck / friends and family / non-scalable idea`;
+  - `market first, then approach, then outside expertise`;
+  - competitive intelligence and traction-first investing;
+  - `70/30` save/operate rule as speaker-specific advice;
+  - `product > marketing > sales`;
+  - I-95 / Florida Turnpike three-hour portfolio radius;
+  - Celsius adjacency story;
+  - anti-comparison close: `don’t count other people’s money`.
+- When the nonlinear book next rewrites Miami material, use lecture 111 as a braid lecture rather than a destination chapter. Its value is that it ties savings, scaling, attention, product, relationships, place, and comparison into one ordered sequence.
+- Preserve the lecture’s actual order if redistributed later:
+  - montage of wealth paths;
+  - business-development operator on savings and staged scale;
+  - seven-to-eight-figure market test;
+  - comic reset;
+  - spymaster on competitive intelligence and traction;
+  - penthouse environment / failure reinforcement;
+  - Brickell software-engineer relationship and credit rules;
+  - e-commerce brand/product hierarchy;
+  - Miami mindset and pressure;
+  - mentor-modeling rule;
+  - real-estate location, Celsius, and anti-comparison close.
+- Keep the cautions visible in later rewrites:
+  - the `70/30` rule is not universal;
+  - the Apple/AirPods segment is evidence for brand power, not reliable product-level arithmetic;
+  - the Celsius story and location logic are transcript-backed named cases, not independently verified history or routing analysis.
