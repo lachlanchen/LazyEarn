@@ -1,0 +1,52 @@
+{
+  "course_rel": "lazyearn/jim-rohn-originals-no-ai",
+  "transcript_rel": "lazyearn/jim-rohn-originals-no-ai/019 - Jim Rohn Speaks at one of Greg Herder's MegaManaging seminars for sales managers\uff1a Part 2 [d8eA6kWWEe0].md",
+  "video_rel": "lazyearn/jim-rohn-originals-no-ai/019 - Jim Rohn Speaks at one of Greg Herder's MegaManaging seminars for sales managers\uff1a Part 2 [d8eA6kWWEe0].webm",
+  "lecture_number": 19,
+  "lecture_slug": "lecture_19",
+  "lecture_title": "Jim Rohn Speaks at one of Greg Herder's MegaManaging seminars for sales managers\uff1a Part 2",
+  "assets": [
+    {
+      "name": "lecture_19_figure_02.png",
+      "timestamp_seconds": 448.14,
+      "timestamp_hhmmss": "00:07:28.140",
+      "source_candidate": "lecture_19_window_02_candidate_04_000728140.png",
+      "recommended_use": "screenshot_plus_tikz",
+      "rationale": "This is the most useful of the four nearly identical frames because it appears to catch the arrow after it has been more fully drawn, while still keeping the surrounding whiteboard layout visible. The board is messy and the handwriting is not reliably legible, so the value here is diagram evidence rather than exact text transcription. Among the candidates, this one gives the clearest finished directional gesture for later note-writing or a cautious TikZ redraw.",
+      "subtitle_excerpt": "Just draw you an arrow.",
+      "segment_start_seconds": 446.38,
+      "segment_start_hhmmss": "00:07:26.380",
+      "segment_end_seconds": 448.38,
+      "segment_end_hhmmss": "00:07:28.380",
+      "caption_hint": "hand-drawn arrow on whiteboard"
+    },
+    {
+      "name": "lecture_19_figure_03.png",
+      "timestamp_seconds": 930.74,
+      "timestamp_hhmmss": "00:15:30.740",
+      "source_candidate": "lecture_19_window_03_candidate_01_001530740.png",
+      "recommended_use": "screenshot_plus_tikz",
+      "rationale": "This frame gives the clearest and most complete view of the flip-chart while keeping Jim Rohn visibly engaged with it. The board is less occluded than in the later candidates, and the overall layout of boxes, circled regions, and directional strokes is easier to read as a diagrammatic structure. The handwriting remains too messy for exact transcription, so its main value is as layout evidence for a cautious redraw.",
+      "subtitle_excerpt": "And upside down winds and storms like hit Florida.",
+      "segment_start_seconds": 930.38,
+      "segment_start_hhmmss": "00:15:30.380",
+      "segment_end_seconds": 933.38,
+      "segment_end_hhmmss": "00:15:33.380",
+      "caption_hint": "whiteboard layout during wind-and-storm analogy"
+    },
+    {
+      "name": "lecture_19_figure_04.png",
+      "timestamp_seconds": 1042.14,
+      "timestamp_hhmmss": "00:17:22.140",
+      "source_candidate": "lecture_19_window_04_candidate_04_001722140.png",
+      "recommended_use": "screenshot_plus_tikz",
+      "rationale": "This is the strongest frame because it appears to catch the marker placement at the end of the \"little star\" instruction, with the board content already established and the local pointing gesture most readable. The handwriting is still too messy for exact transcription, but the frame is useful as diagram evidence for a marked location within a larger flow layout. Earlier candidates are slightly less finished and do not show the local emphasis as clearly.",
+      "subtitle_excerpt": "Just draw your little star, you're here.",
+      "segment_start_seconds": 1040.38,
+      "segment_start_hhmmss": "00:17:20.380",
+      "segment_end_seconds": 1042.38,
+      "segment_end_hhmmss": "00:17:22.380",
+      "caption_hint": "\"you are here\" star on the whiteboard"
+    }
+  ]
+}
