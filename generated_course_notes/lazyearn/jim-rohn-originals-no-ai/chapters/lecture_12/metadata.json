@@ -1,0 +1,38 @@
+{
+  "course_rel": "lazyearn/jim-rohn-originals-no-ai",
+  "transcript_rel": "lazyearn/jim-rohn-originals-no-ai/012 - Jim Rohn - The Major KEY to Your Better Future is YOU - Full Seminar (Greek Subtitles) [YF75cLE-6hI].md",
+  "video_rel": "lazyearn/jim-rohn-originals-no-ai/012 - Jim Rohn - The Major KEY to Your Better Future is YOU - Full Seminar (Greek Subtitles) [YF75cLE-6hI].webm",
+  "lecture_number": 12,
+  "lecture_slug": "lecture_12",
+  "lecture_title": "Jim Rohn - The Major KEY to Your Better Future is YOU - Full Seminar (Greek Subtitles)",
+  "assets": [
+    {
+      "name": "lecture_12_figure_01.png",
+      "timestamp_seconds": 3.52,
+      "timestamp_hhmmss": "00:00:03.520",
+      "source_candidate": "lecture_12_window_01_candidate_04_000003520.png",
+      "recommended_use": "screenshot_only",
+      "rationale": "This is the best usable frame in the window because it shows the actual seminar setting rather than a black transition frame, keeps Jim Rohn and the chalkboard together in view, and makes the board heading and overall board layout more legible than the other similar candidates. It does not contain mathematics, but it is still useful contextual evidence for the lecture opening and board setup.",
+      "subtitle_excerpt": "Here's the big challenge of life. You can have more",
+      "segment_start_seconds": 0.0,
+      "segment_start_hhmmss": "00:00:00.000",
+      "segment_end_seconds": 4.0,
+      "segment_end_hhmmss": "00:00:04.000",
+      "caption_hint": "opening board with chalk heading"
+    },
+    {
+      "name": "lecture_12_figure_03.png",
+      "timestamp_seconds": 3222.112,
+      "timestamp_hhmmss": "00:53:42.112",
+      "source_candidate": "lecture_12_window_04_candidate_02_005342112.png",
+      "recommended_use": "screenshot_plus_tikz",
+      "rationale": "This frame is the clearest of the four for the board content. It preserves the visible comparison layout on the chalkboard, including the minus sign on the left, the plus sign on the right, and the underlined chalk word in the middle-right, while keeping the speaker from occluding more of the board than necessary. The other candidates are slightly more blurred or less settled.",
+      "subtitle_excerpt": "going to save up my energy.",
+      "segment_start_seconds": 3221.462,
+      "segment_start_hhmmss": "00:53:41.462",
+      "segment_end_seconds": 3222.962,
+      "segment_end_hhmmss": "00:53:42.962",
+      "caption_hint": "plus-minus board comparison"
+    }
+  ]
+}
