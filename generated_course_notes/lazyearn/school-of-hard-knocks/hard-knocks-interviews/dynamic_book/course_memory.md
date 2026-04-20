@@ -14776,3 +14776,48 @@ All items below should be treated as transcript-backed editorial syntheses, not 
   - closing inevitability that one gets better.
 - Do not overformalize this lecture in later passes. Its value is not hidden quantitative theory; it is the unusually compact way it links sales, rejection, composure, communication, and entrepreneurial readiness.
 - Use it as a corrective whenever the sales material starts sounding too slick or too online. Lecture 137 is strong evidence that the archive repeatedly treats sales as lived exposure, not merely as copy, scripts, or content.
+
+## Lecture 138 integration: 10 Questions with a Real Estate Millionaire： Tips for Building Wealth and Success
+
+### New evidence
+- This lecture adds a strong named case for wealth through temporary deal control rather than full long-term ownership. Matt Teifke’s wholesaling example is the clearest transcript-backed mechanism so far for: seller resistance to brokers, switching to the “investor” posture, putting a property under contract at roughly \$2.0M, posting about \$20k in earnest and option money, controlling the paper, shopping it to builders and developers, finding a buyer at roughly \$2.7M, then monetizing the spread through a stated wholesale fee plus a separate 3\% commission.
+- This lecture sharpens the distinction between owning property and owning contractual leverage. The useful line for the book is not “real estate makes money” but “control of the contract can itself be monetized.”
+- It adds unusually concrete brokerage-ladder mechanics: every agent needs a broker; the broker threshold reportedly moved from 2 years to 4 years; the speaker reports a point system of about 900 points; coursework and transaction history are part of the gate; once licensed, the broker becomes the person who is legally and operationally “on the hook.”
+- It adds a clean split-economics comparison for brokerage incentives: current 90/10 versus earlier 50/50. This is useful evidence for how institutional design changes agent economics and recruiting attractiveness.
+- It adds a stronger real-estate origin story than many prior lectures: seeing a broker receive a \$200,000 check, then receiving a first commission of roughly \$6k–\$7k while still working at Papa John’s and usually seeing checks around \$600. This is another strong example of “scale shock” as the moment when a profession becomes believable.
+- It adds a practical labor-market asymmetry: a beginner thinks he is begging for a brokerage job, but “almost every brokerage wants new agents.” This is useful as a recurring series motif that institutional gates often recruit from the other side.
+- It adds a high-signal partnership case: Teifke says maybe one in twenty partnerships work; he initially distrusted Alex because of prior heroin addiction and jail; trust was built by repeated effort tests; the durable result was role partition rather than personality affinity.
+- It adds a clearer operator split than most prior interviews: Alex as operations/profitability/hiring-firing/money discipline, Teifke as networking/relationships/new ideas. This is good evidence for “wealth machines need differentiated functions, not duplicated ambition.”
+- It adds a new downside case in the public-markets bucket: cannabis-stock losses down multiple millions, daily swings of \$60k–\$100k, with the speaker still defending the position via a claimed \$67M quarterly revenue against a \$40M valuation. This is useful as another example of interviewee conviction under drawdown, not as validated market analysis.
+- It adds a strong closing motivation pattern: clear goals, visible progress, and daily reinforcement from agents who say the brokerage changed their lives. This strengthens the series theme that meaning is often narrated as downstream impact rather than consumption.
+
+### Conservative restructure plan
+- Add a new subsection or case cluster inside the existing ownership/control chapter on “contract control as monetizable leverage.” This lecture justifies it because the wholesaling sequence is more precise than generic real-estate talk and shows low initial capital controlling a much larger asset.
+- Add a short sub-arc inside the real-estate / institutional chapter on “brokerage as a machine, not just a license.” Use this lecture’s evidence on broker dependence, threshold rules, point systems, training responsibility, and split structures.
+- Add this lecture to the partnership/trust material as a role-differentiation case, not just a “find the right partner” anecdote. The new evidence is the repeated testing of effort and the implementer/visionary split.
+- Add the college answer as supporting evidence in the existing access/opportunity chapter, but only as reinforcement: college is framed here as opportunity density and peer coordination, not as mandatory credential.
+
+### New tensions or contradictions
+- First commission is unstable in the transcript: \$7,000 in the cold open, then \$7,000 or \$6,000 in the later retelling.
+- Biggest wholesale fee is unstable: the speaker says \$700,000 and also \$780,000.
+- The broker threshold is partly hedged: “I believe, 900 points.”
+- The exact base for the stated 3\% commission in the wholesale deal is not fully pinned down.
+- The relation between the raw price spread (\$2.0M to \$2.7M) and the stated wholesale fee should stay cautious; the lecture supports related proceeds, not a clean accounting identity.
+- The cannabis-stock segment should be handled as speaker-reported conviction under loss, not as evidence that the market is objectively mispricing Acreage.
+
+### Frame or diagram opportunities
+- None from validated visual evidence. No screenshot-backed equations, charts, or diagrams survived review, so this lecture should not add any frame-dependent visual obligations to the course memory.
+- If later book drafting needs a visual aid, the safest transcript-derived editorial diagrams are:
+  - a simple wholesaling flow: seller \(\rightarrow\) contract control \(\rightarrow\) buyer outreach \(\rightarrow\) closing proceeds \(\rightarrow\) partner split \(\rightarrow\) taxes
+  - a brokerage split comparison table: 90/10 versus 50/50
+  - a partnership role matrix: operations/profitability/hiring-firing versus networking/relationships/new ideas
+
+### Next rewrite implications
+- When this material is absorbed into the nonlinear book, do not isolate it as “the Matt Teifke chapter.” Its best use is as evidence in larger thematic chapters on control, institutional ladders, partnership design, and real-estate deal mechanics.
+- Preserve the lecture’s rhythm in any rewrite: cold-open scale shock first, then biography, then college-as-network, then rewind into actual entry, then broker structure, then leadership burden, then partnership, then wholesaling arithmetic, then losses and long-horizon motivation.
+- Keep the local `Question & Answer` rhythm when reused. This lecture naturally supports at least three reusable Q&A blocks:
+  - how a young agent actually breaks in
+  - what changes when an agent becomes a broker
+  - what wholesaling is actually selling
+- Do not let the large wholesale headline number float free. The useful teaching sequence is: contract control, buyer search, fee, commission, partner split, taxes, then “not nearly as much as it seems.”
+- Use this lecture as a strong supporting case for the book’s recurring claim that visible wealth often sits on top of hidden institutional plumbing: licensing rules, split incentives, contract rights, recruiting asymmetries, role partitions, and tax drag.
