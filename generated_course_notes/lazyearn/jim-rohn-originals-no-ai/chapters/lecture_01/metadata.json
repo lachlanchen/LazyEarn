@@ -1,0 +1,38 @@
+{
+  "course_rel": "lazyearn/jim-rohn-originals-no-ai",
+  "transcript_rel": "lazyearn/jim-rohn-originals-no-ai/001 - Diseases of Attitude - Jim Rohn [0sG31mTbHJU].md",
+  "video_rel": "lazyearn/jim-rohn-originals-no-ai/001 - Diseases of Attitude - Jim Rohn [0sG31mTbHJU].webm",
+  "lecture_number": 1,
+  "lecture_slug": "lecture_01",
+  "lecture_title": "Diseases of Attitude - Jim Rohn",
+  "assets": [
+    {
+      "name": "lecture_01_figure_03.png",
+      "timestamp_seconds": 301.979,
+      "timestamp_hhmmss": "00:05:01.979",
+      "source_candidate": "lecture_01_window_03_candidate_04_000501979.png",
+      "recommended_use": "screenshot_only",
+      "rationale": "Candidate 04 shows the most complete board state in this window: the underlined heading ending in \"Diseases\" is clearly visible, and the next line has progressed far enough to show the opening letters of the first item. Earlier frames are slightly cleaner but contain less finished chalk content.",
+      "subtitle_excerpt": "Here's the list. Attitude diseases. Number one is indifference.",
+      "segment_start_seconds": 299.48,
+      "segment_start_hhmmss": "00:04:59.480",
+      "segment_end_seconds": 302.32,
+      "segment_end_hhmmss": "00:05:02.320",
+      "caption_hint": "Attitude diseases list"
+    },
+    {
+      "name": "lecture_01_figure_04.png",
+      "timestamp_seconds": 1056.06,
+      "timestamp_hhmmss": "00:17:36.060",
+      "source_candidate": "lecture_01_window_06_candidate_02_001736060.png",
+      "recommended_use": "screenshot_only",
+      "rationale": "Candidate 02 is the clearest and least occluded board close-up in this window. The word \"pessimism\" is the most legible here, and the surrounding handwritten structure above it remains visible enough to preserve the local chalkboard layout without the speaker blocking the view.",
+      "subtitle_excerpt": "Pessimism, the deadly disease of always looking on the bad side, the problem",
+      "segment_start_seconds": 1054.54,
+      "segment_start_hhmmss": "00:17:34.540",
+      "segment_end_seconds": 1058.54,
+      "segment_end_hhmmss": "00:17:38.540",
+      "caption_hint": "Pessimism chalkboard entry"
+    }
+  ]
+}
