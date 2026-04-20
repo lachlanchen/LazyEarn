@@ -1,34 +1,37 @@
 # Figure Notes
 ## Image Inventory
-- `lecture_01_figure_03.png`: Medium shot of Jim Rohn writing on the chalkboard. The top line is a large underlined heading whose right half clearly reads `Diseases`. On the line below, the next entry begins with `Ind`, but the rest is unfinished or blocked by his body and arm. The board is organized as a list rather than a diagram.
-- `lecture_01_figure_04.png`: Close-up of the chalkboard with `pessimism` written large across the lower middle. Above it is a parenthetical handwritten word that appears to read `timid`, plus a cropped upper line and a partly cut-off cursive term on the right. Short horizontal emphasis strokes separate the stacked lines.
+- `lecture_01_figure_02.png` shows Jim Rohn from behind while writing on the chalkboard. A large cursive heading runs across the top of the board, with the right-hand word clearly reading as a form of “Diseases.” A second line begins below the heading, but the speaker’s body blocks much of it.
+- `lecture_01_figure_03.png` is a close-up of the chalkboard. The word `pessimism` is clearly legible near the lower middle. Above it are cropped and partly legible chalk labels, including a parenthesized or curved-initial word and another partial word at right. Short double horizontal strokes appear between the stacked labels.
 
 ## Blackboard Equations
-- No mathematical equations are visible in either image; the board contains handwritten labels, list entries, and emphasis marks.
-- `\underline{\text{Diseases}}` `[visible]` in `lecture_01_figure_03.png`.
-- `\text{Ind}` `[visible]` in `lecture_01_figure_03.png`.
-- `\text{indifference}` `[standard reconstruction]` for `lecture_01_figure_03.png`; the transcript supports this completion, but only the opening letters are visible in the screenshot.
-- `\text{pessimism}` `[visible]` in `lecture_01_figure_04.png`.
-- `(\text{timid})` `[partially visible]` in `lecture_01_figure_04.png`; this reading fits the letter shapes and the nearby lecture context, but the chalk is not fully crisp.
+- `lecture_01_figure_02.png`: [partially visible] `\text{... Diseases}`
+- `lecture_01_figure_02.png`: [standard reconstruction] `\text{Attitude Diseases}`
+- `lecture_01_figure_02.png`: [standard reconstruction] `\text{Indifference}`
+- `lecture_01_figure_03.png`: [visible] `\text{pessimism}`
+- `lecture_01_figure_03.png`: [partially visible] `(\text{...})`
+- `lecture_01_figure_03.png`: [partially visible] `\text{... approach}`
+- `lecture_01_figure_03.png`: [standard reconstruction] `\text{timid approach}`
+- `lecture_01_figure_03.png`: [standard reconstruction] `\text{over caution}`
 
 ## Diagram And Layout Reading
-- `lecture_01_figure_03.png` shows a chalkboard list being built live. The important visual fact is the board organization: a large underlined heading at the top, then the first item beginning directly beneath it. There are no arrows, axes, or geometric sketches.
-- `lecture_01_figure_04.png` shows a stacked board layout rather than a formal diagram. A cropped upper term sits at the top edge, a parenthetical middle label sits below it, and `pessimism` is written as the lower, most legible entry. The short horizontal chalk marks act like separators or emphasis strokes, not equals signs or operators.
-- Together, the images document the lecture’s movement from naming the list of attitude diseases to one later disease entry. They are evidence of board sequencing and list structure, not of mathematical development.
+- `lecture_01_figure_02.png` is organized as the start of a board list: a broad title line across the top, then the beginning of the first entry below it. The board is not being used for mathematics or arrows here; it is functioning as a chapter-style list heading.
+- `lecture_01_figure_03.png` reads as a narrow vertical stack of chalk labels rather than a formal equation. The short horizontal double marks between lines could be separator strokes or emphatic underlines, not necessarily equality signs.
+- In `lecture_01_figure_03.png`, the visible arrangement suggests that earlier disease labels remain on the board above the newly legible `pessimism`, so the figure is useful as evidence of board organization and sequencing, not just of a single isolated word.
 
 ## TeX Reconstruction Plan
-- `lecture_01_figure_03.png` must remain visible. The speaker’s body blocks part of the board, and the live-writing context matters for understanding that this is the start of a list. If a clean companion rendering is helpful, reconstruct only a simple displayed heading and first item, such as `\text{Diseases}` and `\text{indifference}`, placed nearby as plain text rather than as a diagram.
-- `lecture_01_figure_04.png` must remain visible. The close-up preserves the chalk texture and layered board state, including older notes above `pessimism`. Reconstruct only the clearly readable entry `\text{pessimism}` as plain displayed text if needed for legibility.
-- No TikZ figure is necessary for either image. These are list fragments, not geometric or relational diagrams.
-- Do not invent arrows, boxes, or explicit logical relations that are not visible on the board. Keep any typeset reconstruction minimal and subordinate to the screenshot.
+- `lecture_01_figure_02.png` should remain visible as the primary figure. Do not replace it with a pure LaTeX redraw, because the title line is partly blocked and the screenshot is the strongest evidence for the lecture’s shift into a numbered disease list.
+- For `lecture_01_figure_02.png`, keep any nearby reconstruction minimal: use ordinary prose or a numbered list in the chapter text to introduce “Attitude Diseases” and “Indifference,” rather than a displayed equation.
+- `lecture_01_figure_03.png` should also remain visible. It is the best evidence for the chalkboard stack and the legible `pessimism` label.
+- For `lecture_01_figure_03.png`, add a compact nearby TikZ or text-stack reconstruction only if it stays narrow and readable. The redraw should emphasize vertical stacking, not algebra.
+- In that reconstruction, preserve `pessimism` explicitly. Only include upper labels such as `over caution` or `timid approach` if you want a cautious transcript-assisted completion; otherwise omit them or mark them as partial in surrounding text.
+- Do not silently convert the separator marks in `lecture_01_figure_03.png` into mathematical `=` signs unless another frame confirms that they are meant as equality.
 
 ## Caption Drafts
-- `lecture_01_figure_03.png`: Attitude-disease list as the first item begins.
-- `lecture_01_figure_04.png`: `Pessimism` added beneath earlier chalkboard notes.
+- `lecture_01_figure_02.png`: Chalkboard heading for the disease list
+- `lecture_01_figure_03.png`: Stacked chalk labels ending in pessimism
 
 ## Uncertainties
-- In `lecture_01_figure_03.png`, the word before `Diseases` is obscured; the transcript strongly suggests `Attitude`, but that full word is not readable in the image.
-- In `lecture_01_figure_03.png`, only `Ind` is visibly written for the first item; completing it to `indifference` requires cautious transcript-based reconstruction.
-- In `lecture_01_figure_04.png`, the parenthetical middle word looks like `timid`, but the chalk strokes are soft enough that this should be treated as probable rather than fully certain.
-- In `lecture_01_figure_04.png`, the cropped upper line and the looping cursive word on the right are not securely legible and should not be confidently typeset without checking adjacent frames.
-- The short horizontal marks in both images function visually as emphasis or separation, but they are not formal notation and should not be misread as arithmetic symbols.
+- In `lecture_01_figure_02.png`, the first word of the title line is not fully legible from the image alone, and the first list item is mostly hidden by the speaker’s body.
+- In `lecture_01_figure_03.png`, the upper labels are cropped and blurred. The transcript suggests they may be residue from the earlier “over caution” and “timid approach” section, but the image alone does not make that fully secure.
+- The short double horizontal strokes in `lecture_01_figure_03.png` may be underlines, separators, or equality-like marks. They should be treated cautiously in any redraw.
+- The right-side chalk fragments in `lecture_01_figure_03.png` are too incomplete to transcribe confidently and should not be expanded into full phrases without corroboration from other frames.
