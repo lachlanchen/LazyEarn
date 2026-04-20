@@ -1,0 +1,24 @@
+{
+  "course_rel": "lazyearn/jim-rohn-originals-no-ai",
+  "transcript_rel": "lazyearn/jim-rohn-originals-no-ai/016 - How to Take Charge of Your Life   Jim Rohn Personal Development [pUz06GHWWuM].md",
+  "video_rel": "lazyearn/jim-rohn-originals-no-ai/016 - How to Take Charge of Your Life   Jim Rohn Personal Development [pUz06GHWWuM].webm",
+  "lecture_number": 16,
+  "lecture_slug": "lecture_16",
+  "lecture_title": "How to Take Charge of Your Life Jim Rohn Personal Development",
+  "assets": [
+    {
+      "name": "lecture_16_figure_01.png",
+      "timestamp_seconds": 3.326,
+      "timestamp_hhmmss": "00:00:03.326",
+      "source_candidate": "lecture_16_window_01_candidate_04_000003326.png",
+      "recommended_use": "screenshot_only",
+      "rationale": "This is the clearest and most settled frame in the subtitle window. It keeps Jim Rohn and the chalkboard together, makes the chalk heading most legible, and preserves the opening seminar layout better than the blurrier earlier candidates. The board does not yet show a worked equation or diagram, but it is still useful as contextual evidence for the lecture opening and the personal-development heading.",
+      "subtitle_excerpt": "Here's the big challenge of life. You can have more",
+      "segment_start_seconds": 0.0,
+      "segment_start_hhmmss": "00:00:00.000",
+      "segment_end_seconds": 3.7800000000000002,
+      "segment_end_hhmmss": "00:00:03.780",
+      "caption_hint": "opening board with Personal Dev."
+    }
+  ]
+}
