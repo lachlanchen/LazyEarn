@@ -14378,3 +14378,75 @@ All items below should be treated as transcript-backed editorial syntheses, not 
 - The book’s course-wide thesis should now state more clearly that wealth can come from `redeploying an existing capability into a larger regime`, not only from inventing something from scratch.
 - This lecture is one of the best bridges in the archive between early product-market proof and later organizational fragility. Use it when the book needs to show how success creates a second, different class of problems.
 - Deduplicate carefully against lectures 130 and 131. Lecture 132 is most valuable as continuity and connective structure, not as wholly separate doctrine.
+
+## Lecture 133 integration: Life After Selling Your Company For $1 Billion
+
+### New evidence
+- Glenn Boyd now becomes a much fuller cross-lecture case for the archive’s `post-success does not end the proving cycle` theme. This lecture adds the missing after-exit sequence: profitable dot-com founding, IPO in `1999`, later merger at about `\$1.03B` for the whole company, retirement, yacht-and-world-travel freedom, boredom, and a return to startup work because money did not remove the need for purposeful activity.
+- The lecture adds a clean `skill before capital` origin chain that should stay attached to Boyd’s name across lectures `130` to `133`: roofing and dishwashing poverty -> busboy work -> self-taught programming around `1980` -> contracting while still a teenager -> early companies -> decisive founding move in `1991/92`.
+- This is stronger evidence for `geography as commercial calibration`, not just travel as lifestyle. Boyd explicitly ties travel to seeing how large the world and its markets are, then grounds that in foreign sales offices and distributorships rather than in generic “broadening horizons” language.
+- The lecture adds a useful operating-discipline refinement: remote work creates long isolated stretches that can deplete creativity. This is a cleaner `attention is scarce even after liquidity` case than many earlier work-ethic clips because it links email, lists, sketches, movement, workspace changes, and creativity preservation inside one present-day routine.
+- Lecture 133 gives the archive one of its clearest cautious Web3 formulations:
+  - blockchains may have a real use,
+  - proof-of-stake / proof-of-work is mentioned only briefly,
+  - the real motivation is privacy concern plus frustration with ad-monetized platforms,
+  - the demand side is distributed applications, distributed social interaction, and easier transactions in a more decentralized work world.
+- The cybersecurity material is stronger than the Web3 material and should be stored as major new support evidence:
+  - Boyd explicitly recommends information security as a durable career path,
+  - he frames the industry as structurally necessary because systems were built “without locks,”
+  - he adds a concrete institutional history: training the FBI, CIA, and IRS in early digital forensics,
+  - the file-cabinet-to-computer shift becomes a clean bridge from paper evidence to cloud-era attack surface.
+- The lecture adds a compact founder selection filter that is worth preserving book-wide:
+  - ideas are easy,
+  - doing is hard,
+  - viability matters,
+  - and one must ask whether a successful version of the company is a business one actually wants to inhabit for `3–5 years`.
+- It also adds a practical low-capital / downturn bundle:
+  - with roughly `\$100k`, start in services or build the product yourself if technically able,
+  - recessions are temporary but can reprice labor and services downward,
+  - savings create optionality,
+  - domain depth beats late, scattered chasing.
+
+### Conservative restructure plan
+- Deepen **Competition, comfort, and repeated proof** with a short `after the exit` subsection built around Boyd. The specific contribution is not “rich people still work,” but `large liquidity -> temporary freedom -> boredom -> renewed building`.
+- Fold the travel material into **Geography as a force multiplier** as a founder-side subsection such as `Travel makes market size visible`. Keep the emphasis on foreign sales offices, distributorships, Shanghai/Hong Kong scale, and the correction of US-only thinking.
+- Add the routine / creativity-depletion material to **Operating discipline, human attention, and opportunity exposure**. The special value here is not generic productivity advice; it is a late-career operator saying that isolated remote work can destroy creativity if not broken up.
+- Add the Web3 material to **Visibility, privacy, and gated access**, but keep it narrow and speaker-attributed. Its value is the archive’s cleanest `privacy concern + anti-advertising + distributed interaction` chain, not a new crypto chapter.
+- Add the cybersecurity material primarily to **Boring businesses, bottlenecks, and utility wealth**, with a smaller cross-reference in **Leverage, capital plumbing, bank trust, and protection**. The new evidence justifies treating digital protection as a durable infrastructure layer rather than as hype-sector commentary.
+- Add the `\$100k`, `3–5 years`, recession, and domain-depth material to **Scale, time, and the operating math of growth** and **Reinvestment, compounding, and the anti-consumption rule** as a practical subsection on `survivable starting conditions and deployment windows`.
+- Do not create a standalone permanent lecture-133 chapter. Its best use is to extend the existing Glenn Boyd thread from lectures `130` to `132` into post-exit life, present-day operating rhythm, privacy/security doctrine, and recession deployment logic.
+
+### New tensions or contradictions
+- Lecture 133 sharpens the difference between `money solves deprivation` and `money solves purpose`. Lecture `130` already established a sufficiency threshold; lecture `133` adds the next regime: abundance can still leave boredom and the need to work.
+- The lecture productively pairs decentralization rhetoric with conservative operator advice. Boyd is not stored here as a crypto-utopian; he talks about privacy and distributed systems, then immediately recommends cybersecurity, service revenue, self-built products, and domain depth.
+- Recession is treated in two registers at once and the book should preserve both:
+  - recessions are painful and psychologically distort time perception,
+  - recessions are also moments when the same capital buys more labor or services.
+- The lecture pushes against any archive drift toward generalized hustle. Boyd’s closing rule is anti-shotgun: do not chase what is merely exciting; go deep where you actually know the terrain.
+
+### Frame or diagram opportunities
+- No validated screenshots or frame-backed equations should be added from lecture `133`.
+- Safe transcript-derived editorial diagrams now justified:
+  - `sale -> retirement/travel -> boredom -> return to work`,
+  - `privacy concern -> anti-advertising frustration -> distributed apps/social interaction -> easier transactions`,
+  - `file cabinets -> computers -> forensics -> cloud interconnection -> larger attack surface -> security demand`.
+- A small editorial comparison table would also be defensible later:
+  - `condition | constraint | implied move`
+  - `\$100k | not enough for capital-heavy buildout | services or self-built product`
+  - `recession | pain + cheaper inputs | deploy if liquid`
+  - `new industry excitement | low informational edge | stay in domain depth`.
+
+### Next rewrite implications
+- Stop treating Glenn Boyd as three or four disconnected billionaire clips. After lecture `133`, he is a continuous archive case: scarcity -> self-taught technical skill -> founding -> IPO/exit -> post-exit boredom -> return to building -> present-day doctrines on attention, privacy, security, and capital deployment.
+- When this lecture is redistributed, preserve its spoken progression:
+  - surprise exit hook,
+  - compressed origin story,
+  - travel as market-size lesson,
+  - mundane routine and attention management,
+  - Web3 as a real-problem question,
+  - cybersecurity as structural demand,
+  - founder filters and family-time scarcity,
+  - low-capital and recession advice,
+  - domain-depth close.
+- Keep the task-prioritization passage cautious in any future rewrite. The transcript is garbled there; the reliable payload is only that Boyd uses easy or appealing tasks to break inertia and then bounces across multiple threads.
+- Use lecture `133` to strengthen one course-level claim that now appears repeatedly across the archive: after a certain point, the scarce resource is not money but judgment about time, attention, and what kinds of work are still worth entering.
