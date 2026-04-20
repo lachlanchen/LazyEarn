@@ -1,0 +1,38 @@
+{
+  "course_rel": "lazyearn/jim-rohn-originals-no-ai",
+  "transcript_rel": "lazyearn/jim-rohn-originals-no-ai/018 - The Challenge to Succeed (Part 1) - Jim Rohn [X9-PxHfCwVM].md",
+  "video_rel": "lazyearn/jim-rohn-originals-no-ai/018 - The Challenge to Succeed (Part 1) - Jim Rohn [X9-PxHfCwVM].webm",
+  "lecture_number": 18,
+  "lecture_slug": "lecture_18",
+  "lecture_title": "The Challenge to Succeed (Part 1) - Jim Rohn",
+  "assets": [
+    {
+      "name": "lecture_18_figure_03.png",
+      "timestamp_seconds": 1127.942,
+      "timestamp_hhmmss": "00:18:47.942",
+      "source_candidate": "lecture_18_window_04_candidate_01_001847942.png",
+      "recommended_use": "screenshot_plus_tikz",
+      "rationale": "This frame is the sharpest and most stable of the set while showing the largest readable portion of the chalkboard. The board contains a stacked outline rather than an equation, and candidate 1 preserves that layout most clearly before later motion introduces more blur.",
+      "subtitle_excerpt": "going to consider tonight is called...",
+      "segment_start_seconds": 1127.542,
+      "segment_start_hhmmss": "00:18:47.542",
+      "segment_end_seconds": 1129.042,
+      "segment_end_hhmmss": "00:18:49.042",
+      "caption_hint": "chalkboard outline of development themes"
+    },
+    {
+      "name": "lecture_18_figure_04.png",
+      "timestamp_seconds": 1486.192,
+      "timestamp_hhmmss": "00:24:46.192",
+      "source_candidate": "lecture_18_window_06_candidate_01_002446192.png",
+      "recommended_use": "screenshot_only",
+      "rationale": "This frame gives the clearest and most complete view of the chalkboard sentence while keeping the lecturer from obscuring the key words. The text is readable enough to support note writing directly, and there is no need to prefer the later frames, which add small gesture changes without improving the board content.",
+      "subtitle_excerpt": "We're going to consider it tonight.",
+      "segment_start_seconds": 1486.042,
+      "segment_start_hhmmss": "00:24:46.042",
+      "segment_end_seconds": 1487.042,
+      "segment_end_hhmmss": "00:24:47.042",
+      "caption_hint": "chalkboard maxim on the future"
+    }
+  ]
+}
