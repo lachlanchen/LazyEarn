@@ -1,0 +1,24 @@
+{
+  "course_rel": "lazyearn/school-of-hard-knocks/hard-knocks-interviews",
+  "transcript_rel": "lazyearn/school-of-hard-knocks/hard-knocks-interviews/139 - Asking Millionaires What They Are Investing in [67T9EMIvOlA].md",
+  "video_rel": "lazyearn/school-of-hard-knocks/hard-knocks-interviews/139 - Asking Millionaires What They Are Investing in [67T9EMIvOlA].mkv",
+  "lecture_number": 139,
+  "lecture_slug": "lecture_139",
+  "lecture_title": "Asking Millionaires What They Are Investing in",
+  "assets": [
+    {
+      "name": "lecture_139_figure_02.png",
+      "timestamp_seconds": 10.241,
+      "timestamp_hhmmss": "00:00:10.241",
+      "source_candidate": "lecture_139_window_02_candidate_02_000010241.png",
+      "recommended_use": "screenshot_only",
+      "rationale": "This frame is the clearest and most complete visual summary of the on-screen investment categories being introduced. All three inserts are fully visible and sharp, with less motion distraction than the neighboring frames, so it is the strongest evidence frame for note writing about the opening asset-allocation setup.",
+      "subtitle_excerpt": "estate, cryptocurrency, we're looking for a wide",
+      "segment_start_seconds": 9.42,
+      "segment_start_hhmmss": "00:00:09.420",
+      "segment_end_seconds": 11.58,
+      "segment_end_hhmmss": "00:00:11.580",
+      "caption_hint": "crypto real estate and market graphic montage"
+    }
+  ]
+}
