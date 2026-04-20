@@ -1,0 +1,66 @@
+{
+  "course_rel": "lazyearn/mit-nuts-and-bolts-of-new-ventures",
+  "transcript_rel": "lazyearn/mit-nuts-and-bolts-of-new-ventures/001 - Session 1, Part 1\uff1a Introduction\uff1a Most Startups Fail; How to Improve Your Odds [5gtR7IjtcFE].md",
+  "video_rel": "lazyearn/mit-nuts-and-bolts-of-new-ventures/001 - Session 1, Part 1\uff1a Introduction\uff1a Most Startups Fail; How to Improve Your Odds [5gtR7IjtcFE].webm",
+  "lecture_number": 1,
+  "lecture_slug": "lecture_01",
+  "lecture_title": "Session 1, Part 1\uff1a Introduction\uff1a Most Startups Fail; How to Improve Your Odds",
+  "assets": [
+    {
+      "name": "lecture_01_figure_02.png",
+      "timestamp_seconds": 1285.146,
+      "timestamp_hhmmss": "00:21:25.146",
+      "source_candidate": "lecture_01_window_02_candidate_04_002125146.png",
+      "recommended_use": "screenshot_plus_equation",
+      "rationale": "Candidates 3 and 4 are the only useful frames because they show the full slide with the equation and audience breakdown; candidate 4 is slightly cleaner and fully unobstructed. Candidates 1 and 2 are lecturer shots with no usable equation or slide text.",
+      "subtitle_excerpt": "have to have an equation. H equals R",
+      "segment_start_seconds": 1280.8,
+      "segment_start_hhmmss": "00:21:20.800",
+      "segment_end_seconds": 1285.739,
+      "segment_end_hhmmss": "00:21:25.739",
+      "caption_hint": "Who Are You? with H=R/E"
+    },
+    {
+      "name": "lecture_01_figure_03.png",
+      "timestamp_seconds": 2908.98,
+      "timestamp_hhmmss": "00:48:28.980",
+      "source_candidate": "lecture_01_window_04_candidate_04_004828980.png",
+      "recommended_use": "screenshot_plus_tikz",
+      "rationale": "Candidate 4 is the only frame that shows the actual slide content for this moment: a four-part overlap diagram above a time-versus-relative-importance graph layout. It is sharp, complete, and unobstructed, while candidates 1 through 3 are lecturer-only shots with no usable diagram.",
+      "subtitle_excerpt": "So now, this is a curve graph.",
+      "segment_start_seconds": 2904.58,
+      "segment_start_hhmmss": "00:48:24.580",
+      "segment_end_seconds": 2909.58,
+      "segment_end_hhmmss": "00:48:29.580",
+      "caption_hint": "Ideas, execution, timing, people"
+    },
+    {
+      "name": "lecture_01_figure_04.png",
+      "timestamp_seconds": 3014.48,
+      "timestamp_hhmmss": "00:50:14.480",
+      "source_candidate": "lecture_01_window_05_candidate_03_005014480.png",
+      "recommended_use": "screenshot_plus_tikz",
+      "rationale": "All four candidates show the same completed slide, but candidate 3 is the cleanest centered capture of the full diagram and lower graph with both arrows and labels fully legible. It is the most useful frame for reconstructing the visual argument that startup success depends on multiple factors and that business importance rises as technical importance falls over time.",
+      "subtitle_excerpt": "But when I put this graph together and they realize, you know, it really takes a team to make",
+      "segment_start_seconds": 3010.58,
+      "segment_start_hhmmss": "00:50:10.580",
+      "segment_end_seconds": 3016.58,
+      "segment_end_hhmmss": "00:50:16.580",
+      "caption_hint": "team-based startup success factors"
+    },
+    {
+      "name": "lecture_01_figure_05.png",
+      "timestamp_seconds": 3888.048,
+      "timestamp_hhmmss": "01:04:48.048",
+      "source_candidate": "lecture_01_window_06_candidate_03_010448048.png",
+      "recommended_use": "screenshot_plus_tikz",
+      "rationale": "All four candidates show the same completed slide, but candidate 3 is the clearest full-frame capture with the pyramid tiers and all right-side labels legible. It best preserves the visual hierarchy from concise mission statement to fuller pitch materials.",
+      "subtitle_excerpt": "know, be a sentence or a paragraph.",
+      "segment_start_seconds": 3886.949,
+      "segment_start_hhmmss": "01:04:46.949",
+      "segment_end_seconds": 3888.64,
+      "segment_end_hhmmss": "01:04:48.640",
+      "caption_hint": "supported vision pyramid"
+    }
+  ]
+}
