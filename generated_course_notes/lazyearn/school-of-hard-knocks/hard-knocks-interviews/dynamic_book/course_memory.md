@@ -14333,3 +14333,48 @@ All items below should be treated as transcript-backed editorial syntheses, not 
 - Do not rewrite this as generic `read books` advice. Its durable value is the management mechanism, not the recommendation itself.
 - Do not quote the garbled `go down the mountain` segment literally in the book. Preserve only the semantic move: sometimes the correct intervention is to lower the role’s altitude.
 - Use lecture 131 as a clarifying witness rather than a standalone pillar. It has little visual or numeric density, but it gives the archive one of its cleanest explanations of why scale can damage a company through people before it damages it through markets or money.
+
+## Lecture 132 integration: How I Turned $1,000 Into $1 Billion
+
+### New evidence
+- Glen Boyd is now one of the clearest named cases for `pivot without discarding the core engine`: the original company analyzed LAN traffic for security, audit, and fraud detection; the winning company reused that analytic machinery on anonymous web traffic and emitted marketing intelligence instead.
+- This lecture adds a very clean quantitative traction spine for that pivot:
+  - \(R_{1\text{ mo}}=\$50{,}000\) without advertising
+  - \(R_{11\text{ mo}}\approx R_{\text{legacy security business}}\)
+  - \(S_{4\text{ yr}}=\$120\,\text{M}\) in sales
+- The legacy business was already real before the pivot: the Federal Reserve, nearly every major US bank, a four-person office, and roughly \$1M/year. This matters because it frames the pivot as redeployment of a working machine, not a desperate reset.
+- The Sports Illustrated example gives a rare transcript-backed counting problem that belongs in the book’s business-arithmetic layer: the customer needs to distinguish \(100{,}000\) people visiting once from \(10{,}000\) people visiting \(10\) times. Equal visit totals can hide different market realities.
+- The lecture gives a particularly clear `proof before funding` ladder: idea -> demonstrable sample -> early adoption -> investor confidence. This is one of the strongest explicit formulations in the series for why traction matters more than pitch polish.
+- The VC non-deal now has a hard founder-outcome number attached to it: after the venture-capital pass, forced frugality helped leave the founders with about \(95\%\) ownership at IPO.
+- The risk story is concrete and portable: last \(\$1{,}000\) in the bank, motorcycle sold, newborn on the way, partner adds personal money, worst case = go get a job. This is a strong archive example of bounded downside versus lifelong regret.
+
+### Conservative restructure plan
+- Do not treat lecture 132 as a new permanent chapter in the dynamic book. Use it as connective tissue that strengthens several existing thematic chapters with one continuous founder case.
+- In **Customer Need, Buyer-Side Value, and Product Redesign**, add a subsection like `Same Engine, New Market` centered on Boyd’s move from LAN security analytics to web-marketing analytics.
+- In **Reinvestment, Compounding, and the Anti-Consumption Rule** or **Leverage, Capital Plumbing, Bank Trust, and the Shell Around the Machine**, add the sequence `profitable growth -> VC courtship -> VC passes -> forced frugality -> high founder ownership` as a clean anti-dilution case.
+- In **Scale, Time, and the Ten-Year Game** or **Operating Discipline, Human Attention, and Opportunity Exposure**, keep the `Into Thin Air` management-threshold model attached to the Glen Boyd case rather than leaving it as isolated wisdom.
+- Where lecture 130 and lecture 131 currently contribute clipped material on money/happiness and `Into Thin Air`, re-anchor those fragments inside the fuller Glen Boyd arc supplied here: pivot, traction, funding logic, frugality, overload, and anti-procrastination.
+
+### New tensions or contradictions
+- This lecture pushes against founder-myth purity: the successful company is not the original product.
+- It pushes against the simple assumption that more outside capital is always better; here a VC rejection becomes strategically valuable because it enforces discipline and preserves ownership.
+- It sharpens an internal contradiction in the archive’s talent story: a strong employee is not a fixed quantity, because company growth changes the job faster than the person.
+- It adds a useful nuance to the book’s money/happiness material: money is denied ultimate happiness value, but it is granted real force at the security layer, especially around family, education, and freedom to experiment.
+- It reinforces the archive’s anti-perfection rule with especially clean examples: cat videos, personal-photo sharing, and real user pull beat grand but unproven ideas.
+
+### Frame or diagram opportunities
+- `lecture_132_figure_03.png` should feed the book’s proof/adoption material as evidence for Instagram’s narrow initial use-case: personal photo sharing, not a grand initial vision.
+- `lecture_132_figure_05.png` should sit near VC courtship and pitch-theater material as contextual evidence for fundraising atmosphere, not as a literal archival board from Boyd’s company.
+- This lecture now supplies several reusable transcript-backed diagrams:
+  - pivot map: LAN traffic analysis -> security report becomes anonymous web traffic analysis -> marketing report
+  - audience-counting split: \(100{,}000 \times 1\) versus \(10{,}000 \times 10\)
+  - funding ladder: idea -> demo -> early adoption -> investable company
+  - VC pass flow: profitable growth -> VC courtship -> VC passes -> forced frugality -> high founder ownership
+  - management-capacity threshold and `Crossing the Chasm` adoption sketch
+- Keep the source-conscious distinction explicit: the screenshots are contextual anchors; the formal diagrams come from transcript-backed reconstruction, not from visible board equations.
+
+### Next rewrite implications
+- Glen Boyd should become a recurring cross-chapter case rather than a one-location anecdote. He now supports at least five persistent book themes: technical repurposing, proof-before-funding, frugal scale, management overload, and time/regret.
+- The book’s course-wide thesis should now state more clearly that wealth can come from `redeploying an existing capability into a larger regime`, not only from inventing something from scratch.
+- This lecture is one of the best bridges in the archive between early product-market proof and later organizational fragility. Use it when the book needs to show how success creates a second, different class of problems.
+- Deduplicate carefully against lectures 130 and 131. Lecture 132 is most valuable as continuity and connective structure, not as wholly separate doctrine.
