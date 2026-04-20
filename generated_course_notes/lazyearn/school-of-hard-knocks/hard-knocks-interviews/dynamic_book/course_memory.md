@@ -14450,3 +14450,96 @@ All items below should be treated as transcript-backed editorial syntheses, not 
   - domain-depth close.
 - Keep the task-prioritization passage cautious in any future rewrite. The transcript is garbled there; the reliable payload is only that Boyd uses easy or appealing tasks to break inertia and then bounces across multiple threads.
 - Use lecture `133` to strengthen one course-level claim that now appears repeatedly across the archive: after a certain point, the scarce resource is not money but judgment about time, attention, and what kinds of work are still worth entering.
+
+## Lecture 134 integration: 10 Questions with a Millionaire： Founder & E-commerce Entrepreneur Robert Miller
+
+### New evidence
+- Robert Miller adds one of the archive’s cleanest `brand survives the vehicle` cases:
+  - first agency built alongside personal brand, then shut down
+  - second agency also shut down, partly because there were too many partners
+  - third business reached multiple seven figures within roughly `6 months`
+  - later business reached a seven-figure runway within about `60 days`
+  This is stronger than generic branding advice because the claim is specifically about relaunch speed after failure.
+- The lecture gives the book a very clean `capital gains are not cash flow` distinction. Miller says early crypto money was real, but it was `just capital gains`, not recurring business income. That separation directly motivates his move into digital marketing and the search for a real cash-flow machine.
+- It adds a compact scaling triad that should remain in this order:
+  - marketing / content / traffic strategy
+  - sales conversion
+  - finance / understanding cash flow
+  This is useful because finance appears here as an explicit third scaling skill rather than as an afterthought.
+- The three-book sequence gives a neat `tactics -> frameworks -> team multiplication -> sales system` ladder:
+  - `The Road Less Stupid`
+  - `Multipliers`
+  - `Predictable Revenue`
+  This is reinforcing evidence for the manuscript’s move from operator skill to managerial architecture.
+- The lecture materially sharpens the partnership-governance lane:
+  - about `2-3` partners max
+  - each partner must bring something crucial
+  - no partner should hold the business captive
+  - aligned values matter most when the business hits a hiccup
+  - mutual accountability matters more than founder ego
+- Miller adds a distinct speaker-attributed crypto intuition not yet stated this cleanly elsewhere in memory:
+  - value may not come from rarity alone
+  - it may come from scarcity backed by real extraction or verification cost
+  - Bitcoin mining and gold mining are used as the analogy
+- The crypto origin story gives the course a named early-windfall case with concrete prices and scale:
+  - timeframe `2015–2016`
+  - Bitcoin around `\$800–\$1,000`
+  - Ethereum around `\$17`
+  - initial position around `\$1.5k–\$2k`
+  - later value around `\$250k` in roughly `4 months`
+  The important narrative turn is not just the gain, but that it pushed him into teaching, courses, and stages.
+- The worst-decision / best-decision pair is especially useful:
+  - worst: short-term borrowing for payroll during payment-processor stress exposed weak partnership commitment
+  - best: about `\$30k–\$40k` reinvested into courses and later mentorships
+  - strongest mechanism: the final mastermind or mentorship may look catalytic only because earlier learning layers were already stacked
+- The lecture also reinforces two existing end-state themes with unusually crisp tests:
+  - relationships: who are the `three numbers` you would dial if it were life or death?
+  - health: burnout and sleep deprivation are hidden balance-sheet failures, not side issues
+  - motivation: the `why` evolves from escaping lack to family support, human potential, and impact
+
+### Conservative restructure plan
+- Deepen the reputation chapter with a short subsection such as `The Company Can Die Before the Name Does`. Robert Miller should be used as a named case for reputation carrying commercial momentum across failed entities.
+- Deepen the cash-flow chapter with a compact subsection such as `Capital Gains Are Not a Business`. Pair Miller’s crypto-to-marketing transition with earlier founder / exit material so the book distinguishes appreciation from operating income more explicitly.
+- In the scaling chapter, add the transcript-backed triad `marketing -> sales -> finance`. The new point is not just that marketing matters, but that cash-flow literacy belongs inside scaling doctrine.
+- In the partnerships / governance chapter, add Miller’s tighter founder rule set:
+  - `2-3` partners max
+  - crucial but non-captive contribution
+  - aligned values
+  - reciprocal call-outs on execution
+- In the mastermind / paid-learning chapter, add a short subsection like `Catalyst After Accumulation`. Miller’s line clarifies that later breakthroughs often depend on prior unseen layers of education rather than one magical room.
+- In the crypto / money-value chapter, add only a small speaker-attributed block for `scarcity plus cost`. Keep it cautious and place it beside other crypto/privacy material rather than turning it into settled doctrine.
+- Use Miller as connective tissue across several dynamic chapters rather than as a permanent standalone chapter: reputation, cash flow, scaling, partnerships, crypto, compounding education, and end-state motivation.
+
+### New tensions or contradictions
+- This lecture sharpens a useful contradiction inside the archive’s wealth stories: a large windfall can arrive before a real business exists. The gain is real, but the machine is still missing.
+- It also clarifies a tension inside `personal brand` talk. Here brand is not just visibility or aesthetics; it is a carry-forward commercial asset that survives the death of particular offers and companies.
+- The crypto section introduces a tension worth preserving: Miller frames crypto as a new way of thinking about money, yet his own strongest practical lesson is to convert speculative gains into education, operating skill, and later business traction.
+- The lecture strengthens the book’s anti-magic-room position. Masterminds matter, but their effect is often cumulative and lagged, not instant.
+- `Flash loan` should remain treated as Miller’s label for emergency short-term borrowing unless later evidence verifies the stricter technical meaning.
+
+### Frame or diagram opportunities
+- No validated screenshots or frame-backed equations should be added from lecture 134.
+- Safe transcript-derived editorial diagrams are now justified:
+  - `capital gains -> not cash flow -> real business search`
+  - `marketing -> sales -> finance`
+  - `failed company + surviving personal brand -> faster relaunch`
+  - `courses / mentorships -> skill accumulation -> later revenue traction`
+  - `scarcity + energy cost -> perceived value`
+- Any such diagram should be labeled as editorial synthesis from transcript logic, not as lecture-recovered visual evidence.
+
+### Next rewrite implications
+- Preserve the lecture’s exact internal order when redistributing it:
+  - teaser payoff on personal brand
+  - formal introduction and school question
+  - scaling triad
+  - books / frameworks
+  - brand, failure, and partnership structure
+  - crypto as a money-and-value question
+  - crypto origin story and first gain
+  - worst decision before best decision
+  - relationships, health, and the evolving why
+- Keep the strongest Q&A beats available for future nonlinear rewriting:
+  - `What does it mean to move from tactics to frameworks?`
+  - `Is value grounded in rarity alone, or in scarcity backed by real cost?`
+  - `What distinguishes destructive leverage from compounding self-investment?`
+- Do not let the book flatten this into generic e-commerce or crypto enthusiasm. Its real value is the braid: reputation durability, cash-flow realism, governance under strain, education as compounding, and money finally being subordinated to family, health, and human potential.
