@@ -1,0 +1,38 @@
+{
+  "course_rel": "lazyearn/jim-rohn-originals-no-ai",
+  "transcript_rel": "lazyearn/jim-rohn-originals-no-ai/017 - Jim Rohn - Increasing your value [XY5nulJAIn4].md",
+  "video_rel": "lazyearn/jim-rohn-originals-no-ai/017 - Jim Rohn - Increasing your value [XY5nulJAIn4].webm",
+  "lecture_number": 17,
+  "lecture_slug": "lecture_17",
+  "lecture_title": "Jim Rohn - Increasing your value",
+  "assets": [
+    {
+      "name": "lecture_17_figure_02.png",
+      "timestamp_seconds": 141.734,
+      "timestamp_hhmmss": "00:02:21.734",
+      "source_candidate": "lecture_17_window_03_candidate_04_000221734.png",
+      "recommended_use": "screenshot_plus_equation",
+      "rationale": "This is the strongest frame because the flipchart writing is at its most complete and least occluded. In the earlier candidates, Jim Rohn's hand and body cover more of the key words while he is still writing. Here he has just stepped back enough for the board layout to read more clearly, which makes it the most useful evidence for the lecture's contrast between value and time.",
+      "subtitle_excerpt": "It takes time to bring value to the marketplace.",
+      "segment_start_seconds": 139.34,
+      "segment_start_hhmmss": "00:02:19.340",
+      "segment_end_seconds": 142.06,
+      "segment_end_hhmmss": "00:02:22.060",
+      "caption_hint": "flipchart on value and time"
+    },
+    {
+      "name": "lecture_17_figure_03.png",
+      "timestamp_seconds": 232.34,
+      "timestamp_hhmmss": "00:03:52.340",
+      "source_candidate": "lecture_17_window_04_candidate_04_000352340.png",
+      "recommended_use": "screenshot_plus_equation",
+      "rationale": "This is the best of the four because the handwritten example is at its most finished state while remaining sharp enough to read the main numeric mark. The earlier frames catch the writing slightly earlier in progress, with the right-edge notation less complete. Although Jim Rohn still occludes part of the board, this frame preserves the fullest usable board content from the window.",
+      "subtitle_excerpt": "It doesn't need to be five.",
+      "segment_start_seconds": 231.46,
+      "segment_start_hhmmss": "00:03:51.460",
+      "segment_end_seconds": 232.52,
+      "segment_end_hhmmss": "00:03:52.520",
+      "caption_hint": "flipchart numeric example"
+    }
+  ]
+}
