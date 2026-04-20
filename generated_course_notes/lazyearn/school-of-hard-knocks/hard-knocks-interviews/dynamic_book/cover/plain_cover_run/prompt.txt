@@ -1,0 +1,16 @@
+Design a polished front-cover image for a serious nonfiction book on how wealth is actually built.
+This cover is for the dynamic book distilled from the full Hard Knocks Interviews corpus. The book is not a lecture digest. It extracts the deeper through-line: ownership, scale, leverage, reinvestment, distribution, strategic exits, bottlenecks, capital discipline, and the transformation of repeated contact with reality into durable wealth.
+This should feel like a premium bookstore-ready economic field book, not a poster, thumbnail, motivational graphic, or social-media asset.
+Render a flat front-cover artwork only, not a photographed book, not a 3D mockup, and not a product render.
+Portrait composition with aspect ratio 2:3.
+Overall tone: elegant, vivid, rigorous, and slightly mysterious, with a strong editorial calm.
+Use a refined palette of dark indigo, mineral cream, graphite black, muted brass, and one restrained ember accent.
+Build the image around one compelling metaphor: commercial force becoming durable structure. Think of capital flow condensing into ownership architecture, layered thresholds becoming stable form, reservoirs and channels becoming institutional weight, or contact becoming transformation through ordered geometry.
+The cover should feel more distilled and concept-driven than the direct-notes edition. It should imply compounding, scale, and transformation without becoming abstract wallpaper.
+Favor one bold central structure over many small decorative ideas. The result should feel inevitable, expensive, and intellectually serious.
+Keep the upper portion and title area very clean for later overlay text.
+Avoid people, faces, city skylines, coins, banknotes, candlesticks, corporate dashboards, handshake symbolism, sports imagery, loud collage fragments, or messy decorative linework.
+If grids, channels, or layered forms appear, they must be sparse, exact, and architectural rather than ornamental.
+Do not render any title, subtitle, author name, logo, seal text, numerals, letters, or readable typography inside the image.
+The image should contain only visual forms and clean editorial space for later overlay text.
+Front cover only. No spine. No back cover. No watermark. No fake readable text inside the art itself.
