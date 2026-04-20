@@ -14590,3 +14590,111 @@ All items below should be treated as transcript-backed editorial syntheses, not 
 - Use lecture 135 whenever the nonlinear book needs a low-glamour synthesis case. Its value is not novelty of mechanism but clarity of compression.
 - The chapter on wealth grammar should now say even more plainly that in this archive a “financial decision” can mean liabilities, assets, skills, spouse, family, city, or creative differentiation.
 - When the book next needs a short ordinary-reader bridge between elite-scale cases and practical field advice, lecture 135 is now one of the best available sources.
+
+## Lecture 136 integration: I Asked Texan Millionaires Their Best Financial Decision
+
+### New evidence
+- This lecture gives one of the cleanest transcript-level definitions of financial freedom in the series: money arriving when you are not actively working. The same speaker immediately names the adjacent mechanisms clearly enough to reuse later without much paraphrase:
+  - investing
+  - owned property producing rent
+  - inventing or building something that can be sold
+- It adds a named pre-Google analytics case that is worth preserving even though the reported sale figure is unstable:
+  - Webtrends Web Analytics
+  - web-traffic analysis before Google dominance
+  - speaker says the best decision was working for himself
+  - reported sale wording is unstable (`1 billion, 30 million`), but the case still supports analytics / information infrastructure as a route to wealth
+- The lecture sharpens the ownership chapter with unusually explicit language about human capital as asset:
+  - one speaker’s best decision was walking away when her contribution was undervalued
+  - another line makes the principle plain: in entrepreneurial settings, `you are the value creation`
+  This is stronger than generic confidence talk; it is a transcript-backed self-pricing / value-capture rule.
+- It adds a compact scaling quartet that should be stored as a reusable later-series formulation:
+  - leverage
+  - money
+  - cash flow
+  - delivery capacity
+  The `plateau -> next hockey stick` phrasing is useful because it turns scale into a bottleneck problem rather than a motivational slogan.
+- It gives a particularly clean anti-speculation warning:
+  - study investing first
+  - do not just do what the herd is doing
+  - Robinhood / Reddit / meme-stock behavior is framed as gambling rather than investing
+  - `slow and steady` is reasserted even while praising stocks and real estate
+- The real-estate lane is clarified in a useful two-sided way inside one episode:
+  - long-term real estate is called a `consistent good play`
+  - Austin real estate is also said to have `bubble tendencies`, so patience may mean waiting rather than buying immediately
+- The lecture adds a crisp geography / signaling contrast:
+  - Austin is described as a place where people with very large wealth can look ordinary and unflashy
+  - Dallas is described as more visibly status-oriented and more `keeping up with the Joneses`
+- The host recap adds a named access-and-hustle witness:
+  - entrepreneurs are said to respect hustle because they remember asking for meetings, networking, and trying to prove themselves
+  - Mark Cuban is cited by the hosts as a rich operator who said yes because he likes young hustlers
+- The late real-estate interview adds another compact time-plus-risk pairing:
+  - Bee Caves property held for about 25 years became very valuable
+  - the same speaker repeats that getting rich takes time
+  - and says plainly that wealth required taking chances
+
+### Conservative restructure plan
+- Do not create a standalone `lecture_136` book chapter. Redistribute it into existing dynamic chapters:
+  - freedom threshold / passive income
+  - ownership, self-pricing, and bargaining power
+  - scale bottlenecks and cash survival
+  - investing versus speculation
+  - geography and wealth signaling
+  - access, hustle, and operator memory
+- In the freedom chapter, add a short `Question & Answer` block built from this lecture’s especially clean two-step sequence:
+  - `What actually makes someone financially free?`
+  - `Where should that money go once it starts accumulating?`
+  This lecture is useful because the transcript itself moves in exactly that order.
+- In the ownership chapter, add a subsection such as `When the operator is the asset`. Pair the walk-away-from-undervaluation case with the line that the entrepreneur is the value creation.
+- In the scaling chapter, add a transcript-backed constraint set using lecture 136’s order:
+  - leverage
+  - money
+  - cash flow
+  - delivery capacity
+  Keep the plateau / hockey-stick language close to the original rather than translating it into sterile management prose.
+- In the geography chapter, add a short `Hidden wealth versus visible wealth` subsection using Austin and Dallas as a contrast pair.
+- In the access chapter, add a small `Rich operators remember the hustle` subsection. Lecture 136 gives a usable host-side explanation for why entrepreneurs are often more receptive than status people who have forgotten the proving stage.
+
+### New tensions or contradictions
+- The lecture sharpens a useful archive contradiction between hidden wealth and visible wealth signaling:
+  - Austin wealth is framed as understated and ordinary-looking
+  - Dallas wealth is framed as more immediately legible and performative
+  Keep both because the series is not teaching one stable aesthetic of richness.
+- It also preserves an important prudence-versus-risk pair inside a single episode:
+  - one interviewee emphasizes job security, sensible investing, and living below one’s means
+  - another says nothing meaningful is accomplished without taking risks
+  The book should keep these as adjacent stages or temperaments, not force them into one doctrine.
+- Real estate appears in two different roles at once:
+  - consistent long-term asset class
+  - locally overheated market that may require waiting
+  This is useful because it prevents the book from collapsing into `buy property` sloganism.
+- Financial freedom is defined via income detached from labor, but the lecture also keeps returning to ordinary discipline:
+  - save
+  - diversify
+  - do not overspend
+  - do not touch retirement capital
+  The book should keep this distinction between threshold freedom and base discipline explicit.
+
+### Frame or diagram opportunities
+- No validated screenshots or frame-backed equations should be added from lecture 136.
+- Safe editorial diagrams are still justified later if the nonlinear rewrite needs them:
+  - `earned income -> retained savings -> asset ownership -> passive income >= living expenses`
+  - `scale bottleneck = min\{leverage, money, cash flow, delivery\}`
+  - `Austin hidden wealth` versus `Dallas visible wealth` as a simple social-signaling strip
+- Any such diagram should be labeled as editorial synthesis from transcript logic, not as recovered lecture visual evidence.
+
+### Next rewrite implications
+- Preserve the lecture’s exact narrative order when mining it later:
+  - opening freedom question
+  - early stock / savings discipline
+  - self-pricing and undervaluation
+  - scaling constraints
+  - passive-income definition
+  - allocation follow-up
+  - anti-gambling correction
+  - competition and city-signaling recap
+  - time / risk / connections closing cluster
+- Use lecture 136 whenever the book risks drifting too far toward either of two simplifications:
+  - wealth is only about picking the right assets
+  - wealth is only about founder glamour
+  This lecture is valuable because it says both asset ownership and correct positioning of oneself inside value creation matter.
+- Keep the reported `1 billion, 30 million` figure flagged as unstable wherever this case is reused. The named Webtrends example is useful even if the exact sale number stays cautious.
