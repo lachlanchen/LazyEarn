@@ -1422,3 +1422,76 @@
 - Use “past as necessary knowledge” versus “past covering the present” as the cleanest bridge between earlier knowledge/image chapters and Part III wakefulness.
 - When revising desire material, let Lecture 12 carry the basic anatomy of desire and Lecture 21 carry the meditative ending: not suppression, not yielding, but full watchfulness through flowering.
 - Keep the final movement open. The next dynamic-book step should not close the meditation arc too early; Lecture 21 explicitly points forward to more inquiry.
+
+## Lecture 22 integration: Part III - Meditation And The Sacred Mind
+
+### New evidence
+
+- Completes the Part III meditation sequence by making control the decisive entry point: controller = controlled; control implies direction; direction implies will; will implies decision, achievement, and duration; therefore psychological control contains time.
+- Adds the sharpest meditation-specific distinction between practical direction and inward choiceless perception:
+  - practical knowledge needs direction, calculation, decision, and choice for driving, language, technical work, and ordinary navigation;
+  - inwardly, choice indicates confusion because perception is absent.
+- Clarifies meditation as a question of living, not a separate practice: if life cannot be lived without psychological control, will, direction, and achievement, then what is called meditation remains superficial or escapist.
+- Extends Lecture 21’s flowering motif: desire, will, and later suffering are not suppressed or indulged but watched as they flower and wither in choiceless awareness.
+- Adds a major space sequence for Part III: direction means time; where there is direction there is no inward space; occupation by thought, knowledge, family, business, God, pleasure, sex, experience, and fear fills the field of mind.
+- Defines inward space more precisely than earlier lectures: not “my” inner room, but the emptying of consciousness of its content; thought creates only the little enclosed space of “me,” “you,” “we,” and “they.”
+- Adds concrete support for space: crowded apartments, spreading cities, shared television/books/church/beliefs/fears, and the careful spacing of birds. The exact bird setting is transcript-uncertain, but the point is exact spacing.
+- Adds the key transition `space -> silence`, then protects silence by negation: not the interval between noises, not cessation of noise, not thought-made quiet, not induced practice, not church or temple atmosphere.
+- Adds the “two rivers flowing” image for the central Part III tension: silence and the necessary field of knowledge can move together in daily life without division.
+- Adds creation as “creation in living,” not first expression, art, production, childbirth, psychological pressure, or the pressed-out product of tension.
+- Adds the measure/immeasurable pivot: thought is measure, so the immeasurable cannot be reached by thought, speculation, assertion, or thought-made religious language.
+- Adds the strongest sacred-mind formulation so far: silence gathers energy because conflict, control, reaching, searching, asking, demanding, waiting, and praying no longer dissipate it; that gathered silence is sacred, but not a sacred thing invented by thought.
+- Adds secondary powers as a late danger: healing, miracles, extrasensory capacities, and talents may occur, but they are secondary and dangerous because they strengthen the “me.” Anderson’s walk-on-water story and the boat answer are useful concrete support.
+- Adds prayer as petition to the meditation critique: prayer as begging, asking, supplication, praise-then-request, refrigerator prayer, prayer for peace while living violently, and prayer for country while sustaining division all belong to conflict and becoming.
+- Adds the positive no-petition sequence: no petition -> no asking -> looking -> real peace.
+- Adds the second-hand mind critique in the sacred context: books, teachers, scriptures, and other people’s experiences of reality cannot bring the original; “the teacher is the taught” and “the disciple is the teacher” extend the earlier non-separation identities.
+- Gives the closing Part III chain: meditation means attention, care, seriousness, and responsibility; perception is action; wisdom is the ending of suffering; suffering flowers under choiceless observation and withers away.
+- Adds the final culmination: in silence, time stops. Keep this as Krishnamurti’s concluding formulation about psychological time, not a technical claim.
+
+### Conservative restructure plan
+
+- Add Lecture 22 as the culminating Part III movement after Lectures 18-21. It should not replace the earlier meditation sequence; it gathers it into space, silence, energy, sacredness, prayer, attention, and suffering.
+- Add or strengthen a late Part III section titled along the lines of “Space, Silence, And The Sacred Mind.” This section should follow the already-earned arc: listening -> order -> not-searching -> not-knowing -> whole-life meditation -> control/time -> space/silence -> sacred.
+- Move the control chain into the book’s core treatment of psychological time. It now joins the “verb to be,” search/image/recognition, and choice/confusion material as a clean structural spine.
+- Add a dedicated two-field table in the dynamic book: practical knowledge versus inward perception. This lecture provides the clearest justification for preserving practical choice while rejecting psychological choice.
+- Add a subsection on “The Little Space Of The Self” under the Part III space/silence material, not under general metaphysics. It should move from crowded outward space to inward occupation and only then to consciousness emptied of content.
+- Add a standalone `Question & Answer` beat: “Can silence operate in daily life?” Use the “two rivers flowing” answer and keep knowledge/silence as two movements without division.
+- Add a late Part III subsection on “Prayer As Petition.” Keep it after sacredness and secondary powers, because in the transcript prayer is tested only after the sacred mind and powers have been discussed.
+- Add a final Part III closing movement on suffering flowering and withering, linking back to Lectures 14, 19, 21, and 22. The closing should not become motivational; it should remain observation, perception, action, wisdom, ending of suffering.
+
+### New tensions or contradictions
+
+- The lecture rejects psychological direction but preserves practical direction. Do not write “direction is bad” or “choice is bad.”
+- Silence is said to operate with knowledge in daily life, but only without division. This is subtler than withdrawal, quietism, or a private meditative state.
+- “Space” and “time” can be misread as physics terms. Here they refer to psychological direction, occupation, inward openness, and the ending of becoming.
+- “Energy” is high-risk language. Keep it as Krishnamurti’s term for undissipated attention/seriousness, not measurable energy or a theory of mind.
+- The sacred is affirmed, but thought-made sacredness is denied. Avoid devotional inflation, doctrine, or claims about God as an object of knowledge.
+- Powers and healing are not denied as possible occurrences, but they are made irrelevant and dangerous when they feed identity, money, position, or worship.
+- Prayer is rejected as petition, but the lecture does not build a replacement doctrine of prayer. The safe positive formulation is “no asking allows looking.”
+- “Time stops” must remain a concluding source phrase about silence and psychological time, not a metaphysical or scientific thesis.
+
+### Frame or diagram opportunities
+
+- No validated figure assets exist for Lecture 22. Do not include screenshots, talking-head frames, blank frames, or dialogue-only images in the dynamic book.
+- Use transcript-based reconstructions only, clearly captioned as editorial diagrams from the dialogue.
+- Strong pocket-safe diagram candidates:
+  - vertical chain: `controller = controlled -> control -> direction -> will -> decision/achievement -> time`
+  - two-column table: `field of knowledge` versus `inward perception`
+  - `direction -> time -> no inward space`
+  - `occupation by thought/knowledge -> no space`
+  - compact “little space” diagram: thought makes `me/you/we/they`; movement beyond it appears as fear; emptying consciousness gives space not owned by anyone
+  - negative-definition table for silence: not interval, not cessation, not thought-made, not induced practice, not temple/church atmosphere
+  - `silence + practical knowledge -> two rivers flowing without division`
+  - energy diagram: `conflict/control/seeking/asking/praying -> dissipation`; `silence without those movements -> gathered energy -> attention/care/seriousness`
+  - final chain: `perception -> action -> wisdom -> ending of suffering`
+- Keep all diagrams narrow, vertical, and labelled as conceptual maps rather than blackboard evidence.
+
+### Next rewrite implications
+
+- Part III can now close with a coherent arc from attention to the sacred without becoming devotional: silence gathers energy; attention is care and responsibility; the sacred is not thought-made.
+- Preserve the lecture’s sequential pivots. The dynamic book should let control become direction, direction become time, time become space, space become silence, silence become creation, and silence/energy become sacredness.
+- Use the “two rivers” image as the book’s best answer to the practical objection that silence cannot coexist with work, language, memory, and daily function.
+- When revising the meditation chapters, place prayer, powers, books, and teachers as late-stage temptations after silence and sacredness, not as early anti-authority material.
+- Keep the refrigerator prayer, prayer for peace while living violently, prayer for country while sustaining division, and walk-on-water/boat story as concrete cases supporting the critique of petition and secondary powers.
+- The final chapter movement should return to daily living: speech, conduct, relationship, care for earth/trees/animals, seriousness, perception as action, and suffering observed without escape.
+- Let “in silence, time stops” serve as the Part III capstone only after the reader has followed the opening control/time chain. Without that setup, the phrase risks sounding mystical rather than structurally earned.
