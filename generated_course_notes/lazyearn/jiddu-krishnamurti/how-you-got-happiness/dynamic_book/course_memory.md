@@ -840,3 +840,69 @@
 - Preserve the opening rhythm: thought is not rejected; its limit leads into religion, attention, and then the question of what blocks attention.
 - Use this lecture to deepen the book’s no-method guardrail. Attention, meditation, and healing must not become techniques, because technique reintroduces time, will, and the divided center.
 - Let the next love material inherit this chapter’s final formulation: love first appears not as sentiment, belief, or ideal, but as changed relationship where hurt is seen together.
+
+## Lecture 14 integration: Part II - Sorrow Passion And Beauty
+
+### New evidence
+
+- Adds beauty as a new test of the false-map problem: beauty is not settled by museums, paintings, poems, cathedrals, expert commentary, guided tours, or inherited aesthetic judgment.
+- Gives a precise starting condition for beauty: humility and not-knowing. “I don’t know what beauty is” should be treated as an active opening of inquiry, not as ignorance awaiting expert information.
+- Adds sorrow as the necessary doorway into beauty: beauty, passion, and sorrow are related, but the lecture explicitly rejects the false reading that one must cultivate suffering.
+- Clarifies passion as non-cultivated: not lust, not excitement, not artificial intensity, but born when the mind does not withdraw from sorrow.
+- Widens sorrow from private grief into the sorrow of mankind: war, hunger, poverty, tyranny, bereavement, execution for ideologies, and the ordinary suffering of human beings.
+- Adds the escape structure in its cleanest sorrow-specific form: delegation to a religious figure, karma explanation, belief, identification, ritual, drink, sex, comfort, and rationalization are different contents but the same movement away from what is.
+- Reinforces the energy thread from the fear lectures: any movement away from what is dissipates energy and prevents understanding. Here the fact is sorrow.
+- Adds Anderson’s “disconsolate” exchange as a key obstacle: the ordinary impulse is to seek consolation, while Krishnamurti asks whether the mind can remain without escape.
+- Adds nature and sensitivity as central to beauty, not scenery: Grand Canyon, sunset, loss of intimate relation with nature, killing for food/amusement/sport, and modern artificiality support the claim that sensitivity has withered.
+- Adds beauty in conduct as a new course-level category: behaviour, language, voice, walking, humility, gentleness, quietness, mind, heart, body, and relationship.
+- Extends the education thread: schools may train reading, writing, memory, profession, science, and technique while omitting beauty, fear, pleasure, relationship, order, affection, care, and the whole field of life.
+- Adds the Vedic-hymn exchange as a concrete critique of measurement: scholarship may count occurrences while missing quality, disclosure, and beauty.
+- Adds the four-term cluster near the action pivot: action, sorrow, passion, and beauty are “all together,” not a linear ladder with beauty at the end.
+- Sharpens action as acting now, not having acted or will act. Ordinary action is shown as formula, concept, ideology, pattern, past memory, future aim, resolution, or decision carried out.
+- Adds the interval mechanism for conflict: idea and action are separated by a lag of time; in that interval division and conflict enter, so action is not complete.
+- Reinforces “seeing is doing” with a new formulation: action without idea, formula, belief, past, or future is freedom in action.
+- Repeats the precipice example in a more explicit action context: seeing danger is instant action, while the mind is also conditioned to believe action requires formula.
+- Repeats the 1928 dissolution case with a new emphasis: it is not only evidence against spiritual authority or success, but an example of seeing falseness and acting without comparison, conclusion, dependence, or regret.
+
+### Conservative restructure plan
+
+- Add a Part II movement after hurt and before the later love/death material, titled along the lines of “Sorrow, Passion, And Beauty.” It should function as the bridge from hurt into love, beauty, sensitivity, and action.
+- Keep the beauty material close to Part II rather than moving it wholly into Part III. Its immediate function is sorrow, escape, passion, and relationship; its later implications can seed attention, meditation, and the sacred.
+- Add a subsection on “Beauty As Not-Knowing” to extend Part I’s false-map architecture: expert knowledge, aesthetic recognition, and cultural measurement are not the same as beauty.
+- Add a standalone `Question & Answer` beat: “Does this mean one must suffer?” Use Krishnamurti’s correction that the inquiry must go slowly and begin with not-knowing.
+- Add a second `Question & Answer` beat: “What happens when sorrow is not consoled?” Use the disconsolate exchange and non-withdrawal from sorrow.
+- Treat the education passage as a continuation of beauty and sensitivity, not as a digression. It should connect earlier education material to the question of whether a human being can grow in beauty, goodness, affection, and care.
+- Add the action section as a bridge into Part III’s attention/action material, but preserve its Part II origin: action is introduced because beauty, sorrow, and passion cannot be understood apart from it.
+
+### New tensions or contradictions
+
+- Beauty is approached through sorrow, but sorrow must not become a spiritual requirement, method, or virtue.
+- Passion is indispensable to beauty, yet it is not produced by effort, cultivation, enthusiasm, or emotional intensity.
+- Art, poetry, cathedrals, and music are not rejected; dependence on expression, expertise, and second-hand recognition is questioned.
+- The sorrow of mankind must not erase personal sorrow, and personal sorrow must not shrink the inquiry away from mankind.
+- Education is criticized sharply, but the issue is not literacy or skill as such; it is training that omits the whole field of life.
+- The action section can look like a late topic change. It should be written as the structural tightening of the whole lecture.
+- “Seeing is doing” should remain a compact transcript phrase, not a formal psychological equation or a method.
+- The 1928 dissolution example should be used carefully as source testimony, not as a heroic biographical model imposed on the reader.
+
+### Frame or diagram opportunities
+
+- No validated figure assets exist for Lecture 14. Do not include screenshots or talking-head frames.
+- Use transcript-based reconstructions only, clearly captioned as such.
+- Strong pocket-safe diagram candidates:
+  - `sorrow -> non-withdrawal -> passion -> sensitivity -> beauty`
+  - `what is / sorrow -> movement away -> dissipation of energy -> failure to understand`
+  - grouped cluster: `action`, `sorrow`, `passion`, `beauty` as one field, not a ladder
+  - `perception -> idea / belief / formula / conclusion -> action`
+  - `idea -> interval -> action -> conflict`
+  - `observer as past / formula / concept / belief` between `perception` and `doing`
+  - contrast table: action according to idea versus seeing as doing
+
+### Next rewrite implications
+
+- Part II should now include sorrow explicitly, not merely fear, desire, and hurt. Sorrow is the field in which escape, consolation, passion, beauty, and action are tested together.
+- When revising the beauty material, keep the museum opening slow and non-polemical. The point is not “art is false,” but “expression is not the same as direct beauty.”
+- Carry forward the exact escape mechanism from this lecture into fear, hurt, and death: movement away from what is dissipates energy and blocks understanding.
+- Use beauty in conduct to broaden the book’s treatment of relationship: relationship is not only image, hurt, dependence, and fear; it also concerns sensitivity in speech, body, humility, and care.
+- Let the education thread accumulate rather than merge: Lecture 14’s contribution is education for beauty, affection, care, and the whole field of life.
+- In later attention and meditation chapters, connect “seeing is doing” with earlier “learning is doing” and “attention is not method,” but keep all three source-bound and non-systematic.
