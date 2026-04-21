@@ -1,0 +1,38 @@
+{
+  "course_rel": "lazyearn/mit-nuts-and-bolts-of-new-ventures",
+  "transcript_rel": "lazyearn/mit-nuts-and-bolts-of-new-ventures/009 - Session 6, Part 1\uff1a Why Do You Want to Be an Entrepreneur\uff1f [p-f5S31pjTA].md",
+  "video_rel": "lazyearn/mit-nuts-and-bolts-of-new-ventures/009 - Session 6, Part 1\uff1a Why Do You Want to Be an Entrepreneur\uff1f [p-f5S31pjTA].webm",
+  "lecture_number": 9,
+  "lecture_slug": "lecture_09",
+  "lecture_title": "Session 6, Part 1\uff1a Why Do You Want to Be an Entrepreneur\uff1f",
+  "assets": [
+    {
+      "name": "lecture_09_figure_02.png",
+      "timestamp_seconds": 842.205,
+      "timestamp_hhmmss": "00:14:02.205",
+      "source_candidate": "lecture_09_window_03_candidate_04_001402205.png",
+      "recommended_use": "screenshot_plus_equation",
+      "rationale": "This frame cleanly preserves the full slide title and the centered equation with attribution. The four candidates are effectively identical, so the latest frame is the safest stable choice and gives the most finished version for note writing.",
+      "subtitle_excerpt": "Hadzima, articulated an equation for you guys.",
+      "segment_start_seconds": 839.16,
+      "segment_start_hhmmss": "00:13:59.160",
+      "segment_end_seconds": 842.62,
+      "segment_end_hhmmss": "00:14:02.620",
+      "caption_hint": "Hadzima equation slide"
+    },
+    {
+      "name": "lecture_09_figure_05.png",
+      "timestamp_seconds": 3631.65,
+      "timestamp_hhmmss": "01:00:31.650",
+      "source_candidate": "lecture_09_window_06_candidate_04_010031650.png",
+      "recommended_use": "screenshot_only",
+      "rationale": "All four candidates show the same slide with essentially identical content and clarity. The latest frame is the safest stable choice and cleanly preserves the full title, the central statistic, and the overall slide layout for note writing.",
+      "subtitle_excerpt": "And other industries use different metrics, but",
+      "segment_start_seconds": 3629.714,
+      "segment_start_hhmmss": "01:00:29.714",
+      "segment_end_seconds": 3631.914,
+      "segment_end_hhmmss": "01:00:31.914",
+      "caption_hint": "startup failure rate slide"
+    }
+  ]
+}
