@@ -1353,3 +1353,72 @@
 - When writing about experience, connect Lecture 20 with earlier knowledge/past material: recognition makes experience old, so the craving for “higher” experience remains within the known.
 - When writing about attention, preserve the exact anti-technique shape: attention is not practised, not maintained for reward, not concentration, and not the result of battling wandering.
 - The final Part III movement toward the sacred should now be written with stronger restraint. The book may point, but it should not describe the unnameable or make claims of knowledge about it.
+
+## Lecture 21 integration: Part III - Attention That Pervades Life
+
+### New evidence
+
+- Adds the clearest Part III starting formula for meditation so far: do not begin with the “right kind” of meditation; begin with the question “what is meditation?” and with the admission “I do not know.”
+- Gives “I do not know” a precise function: it is humility and freedom from the established known, not confusion, passivity, or a new doctrine.
+- Adds Anderson’s useful distinction between an activity whose goal lies outside itself and an activity whose end is intrinsic to itself. Use this to clarify why method-based meditation makes truth into an imagined fixed endpoint.
+- Strengthens the anti-method case with concrete inherited forms: Indian, Japanese, Chinese, Zen, Christian contemplative orders, Sufi traditions, prayer, mantra, breathing systems, gurus, discipline, fasting, silence, and repetition.
+- Adds the lecture’s central whole-life test: meditation has no meaning if divorced from daily conduct, desire, ambition, greed, envy, competition, imitation, conformity, sensuous and sexual appetite, pleasure, anxiety, fear, death, work, art, and relationship.
+- Adds the “perfume” or pervasive-quality formulation: meditation is not an achievement or attainment of a goal, but a beauty that pervades all activities. Keep this as metaphorical source-language, not a definition to systematize.
+- Adds a practical test for false spirituality: claims of love, truth, knowledge, or wisdom are empty if conduct is unchanged and fear, ambition, greed, envy, and success-seeking remain.
+- Adds a major fragmentation bridge for Part III: artist, businessperson, politician, priest, scholar, and scientist are presented as expressions of divided consciousness, not merely social roles.
+- Adds the artist discussion as concrete support: sensitivity to beauty or talent does not make a whole human being; “first be a total human being” becomes the condition for creative action.
+- Adds a sharper waking/sleep sequence: inquiry into sleep must first ask what it means to be awake. Wakefulness is not crisis, shock, challenge, peak experience, stimulation, fear, illusion, or burden.
+- Adds the clean past/present distinction: the past is necessary as knowledge, but when the past covers or dominates the present, one is asleep now.
+- Adds a balance formulation for Part III knowledge material: awareness and knowledge can move without contradiction when knowledge functions in its proper field and does not overflow into the present.
+- Adds the dream/order sequence in fuller form: daily disorder unwatched continues into sleep; the brain seeks order through dreams or intimations; order during waking allows quiet sleep and rest.
+- Adds the “two boats from a height” image for future-pointing dreams: seeing from a wider vantage is distinguished from subjective unfinished business. Use cautiously and do not turn it into psychic doctrine.
+- Adds Anderson’s swordsman story and the word “prajna” as supporting dialogue material: understanding is ahead and behind in the total movement of one act. This can support the theme that technical brilliance is not understanding.
+- Adds the strongest desire ending for Part III so far: seeing, contact, sensation, desire; then suppression/control, yielding, or flowering under choiceless watchfulness.
+- Clarifies that the flowering of desire is not indulgence and not suppression. The very flowering, watched without yielding or resisting, is said to be the ending of that desire.
+- Ends deliberately unfinished: meditation has “lots more involved.” The dynamic book should preserve this open edge rather than making Lecture 21 a complete doctrine.
+
+### Conservative restructure plan
+
+- Add Lecture 21 as the next major Part III movement after Lecture 20. Its distinct role is to move from “what meditation is not” into meditation as attention that embraces the whole field of living.
+- Add a Part III section titled along the lines of “Beginning From Not-Knowing.” Use Lecture 21 to deepen Lecture 20’s anti-search material: not-knowing is the positive starting freedom after method, authority, and inherited experience are discarded.
+- Add a Part III section or subsection on “Meditation And Daily Living.” This should gather Lecture 19’s living/love/death prerequisite and Lecture 21’s broader list of conduct, desire, ambition, fear, pleasure, death, work, art, and relationship.
+- Add a dedicated passage on cultural fragmentation using the artist/business/scholar/scientist material. This belongs after the daily-living test, because the lecture moves from personal conduct to divided social roles.
+- Strengthen the sleep material already seeded by Lecture 20 with Lecture 21’s fuller sequence: awake -> past/knowledge -> dreams -> waking order -> rested brain.
+- Add a late Part III subsection on “Control And The Flowering Of Desire,” but connect it backward to Part II desire material. Its new function is meditative: desire is watched without suppression or yielding.
+- Preserve standalone `Question & Answer` beats for:
+  - If practice aims at truth, must truth become fixed?
+  - Can art or scholarship be whole if the human being is fragmented?
+  - Can the past function as knowledge without covering the present?
+  - Are dreams unfinished disorder, or can wider seeing be different?
+  - Can desire flower without control?
+
+### New tensions or contradictions
+
+- The lecture refuses tradition and method, but it is not casually anti-religious. Anderson’s theological reflections function as dialogue tests; Krishnamurti keeps returning to life, conduct, and freedom from mediated authority.
+- “I do not know” can easily become a slogan. It must remain an actual clearing of authority, belief, hope, method, and borrowed experience.
+- Meditation is said to include daily living, but this must not become generic “mindfulness in everyday life.” The transcript’s concrete list should stay visible.
+- The sleep material risks becoming neuroscience. Keep “brain,” “dream,” “regeneration,” “order,” and “rest” in Krishnamurti’s inquiry-language.
+- The controller/controlled identity is reinforced, but the new desire passage prevents a permissive reading: yielding to desire also fragments life into getting and losing.
+- “Flowering of desire” is metaphorical and source-bound. Do not turn it into a technique for managing desire.
+- The lecture’s discussion of professions can sound anti-art, anti-scholarship, or anti-science if flattened. The point is prior wholeness of the human being, not rejection of talent or work.
+
+### Frame or diagram opportunities
+
+- No validated figure assets exist for Lecture 21. Do not include blank frames, talking-head shots, conversation-setting shots, or invented board evidence.
+- Use transcript-backed conceptual diagrams only.
+- Strong pocket-safe diagram candidates:
+  - `tradition -> method/practice -> imagined goal -> fixed/static truth`
+  - two-column contrast: `How to meditate? / external goal` versus `What is meditation? / intrinsic inquiry`
+  - containment diagram: meditation includes conduct, desire, ambition, pleasure, fear, death, relationship, work, and art
+  - fragmentation diagram: whole human question versus artist, businessperson, politician, priest, scholar, scientist
+  - sleep/order sequence: `daily disorder unwatched -> dreams/intimations` contrasted with `daily disorder understood -> order -> quiet sleep/rest`
+  - desire sequence: `seeing -> contact -> sensation -> desire`, with side branches for suppression/control and yielding, and main line toward flowering under watchfulness
+- Label all diagrams as schematic reconstructions from the dialogue, not visual evidence.
+
+### Next rewrite implications
+
+- Part III should now have a clear arc: seeing/listening, order, not-searching, not-knowing, whole-life meditation, wakefulness/sleep, no control, flowering of desire.
+- Do not let the dynamic book treat meditation as a private inward chapter. Lecture 21 requires meditation to be tested against relationship, work, art, conduct, fear, pleasure, death, and cultural fragmentation.
+- Use “past as necessary knowledge” versus “past covering the present” as the cleanest bridge between earlier knowledge/image chapters and Part III wakefulness.
+- When revising desire material, let Lecture 12 carry the basic anatomy of desire and Lecture 21 carry the meditative ending: not suppression, not yielding, but full watchfulness through flowering.
+- Keep the final movement open. The next dynamic-book step should not close the meditation arc too early; Lecture 21 explicitly points forward to more inquiry.
