@@ -1959,3 +1959,53 @@
 - The relationship section needs room because the strong claim lands only after parent-child transmission, the rope analogy, and the admitted resentment at hearing ``no relationship.''
 - The closing should remain anti-methodical: transformation is tied to remaining with the fact without commentary, not to practice, proof, evidence, or a future state.
 - The final open question should be preserved for the next arc: if consciousness is filled with image-making, conclusions, ideas, and running away, what is consciousness without image-making?
+
+## Lecture 30 integration: Part III - The Ending Of Image
+
+### New evidence
+
+- Lecture 30 gives the clearest “bring it nearer” bridge from the large question of radical transformation to the ordinary viewer: office, factory, family, poverty, fatigue, nagging, and the “whole structure of misery.” This should become a key Part III transition: transformation is not introduced as doctrine but as the question of where daily life can actually be touched.
+- Relationship is newly sharpened as the practical field where image is exposed. The lecture names office, factory, home, sex, children, disappointment, hope, insult, hurt, and the desire for “more” as the ordinary places where image operates.
+- The strongest relationship formula from this lecture is: self-image plus image of the other plus claim or expectation forces relationship into a model, producing conflict or disappointment.
+- Energy is explicitly ordinary energy, not scientific energy: vitality, seriousness, drive, and available attention. The lecture adds a concrete account of energy wasted through drink, smoke, chatter, pub-crawling, despair, ambition, and dependency.
+- A new dependency-image should be retained: “you are going to do it for me” and “I cannot do it myself.” The pub example shows the loop: despair leads to escape, escape confirms incapacity, and incapacity demands rescue.
+- The lecture gives the clearest mechanism for pleasure and hurt as one image-process: insult or flattery is registered in the brain, thought and memory take it over, and the image becomes hurt or pleasure depending on content.
+- Past hurt and future hurt are clarified as the same process, not separate principles. The instruction is to look at the image in its general structure, not at each hurt by date or content.
+- The observer/observed insight is rebuilt from several steps: assumed division creates interval, interval becomes psychological time, time sustains conflict, and the observer is discovered as past, memory, thought, and image.
+- The discussion of reality adds a useful distinction for the book: the self is ordinarily felt as though it were independent of thought, but the dialogue treats it as thought-made. Nature is used as the contrast case for reality independent of thought.
+- The conjuring-trick analogy is a strong narrative case: before the trick is seen, the false perception appears real; when the missing point is seen, the old perception no longer stands.
+- Lecture 30 extends Lecture 29’s critique of the unconscious: “there is no unconscious” belongs only inside the local logic that the observer is the observed and the image-maker is not separate. It should not become a general psychological doctrine.
+- The ending adds a decisive meditation threshold: practices, gurus, and systems remain inside the same area if they proceed from consciousness filled with fear, anxiety, image, and image-maker. The lecture stops at “what then?” when thought as image-making time ends.
+
+### Conservative restructure plan
+
+- Strengthen the Part II to Part III bridge around relationship: relationship should not only belong to fear, hurt, and love; it should also become the field through which attention and meditation are made concrete.
+- Pair Lecture 29 and Lecture 30 as a two-step image sequence. Lecture 29 exposes the invention and authority of hidden layers; Lecture 30 shows how image ends through the observer/observed insight.
+- Add a compact Part III subsection on “The Trap Of How.” The new evidence is explicit: asking “how do I do it?” restores the “me” who will apply a method, and that “me” is the image-maker.
+- Preserve the ending as open. Do not turn the death of the self into a promised state, a technique, or a devotional conclusion. The book should leave the question of meditation here as Krishnamurti leaves it: thought has its right place, but thought as image-making time ends.
+
+### New tensions or contradictions
+
+- Scientific authority is set aside without rejecting science. The text should say that expertise has no authority in this inward question, not that science is false.
+- Energy must not be rewritten as discipline or moral self-control. In this lecture it means seriousness and vitality available when the importance of relationship is actually seen.
+- “No image” must not be treated as blankness or social withdrawal. The lecture connects no image with the greatest responsibility in relationship.
+- “Thought comes to an end” must be qualified by the lecture’s own caveat: thought still has its right place in knowledge and practical functioning.
+- “There is no unconscious” is especially sensitive. It should be presented only as a consequence of the observer-is-observed inquiry, not as a clinical claim.
+
+### Frame or diagram opportunities
+
+- No validated frame assets exist for this lecture, and no screenshots should be preserved as evidence.
+- Use only transcript-backed editorial diagrams:
+  - insult/flattery to registration to thought/memory to image to hurt/pleasure;
+  - self-image and image of the other to claim/expectation to forced relationship to conflict;
+  - observer separated from observed to interval/time/conflict, then observer is observed to no separate image-maker;
+  - past memories to me-as-image to projected future.
+- Keep all diagrams narrow, vertical, and pocket-safe. No wide matrix diagrams are needed.
+
+### Next rewrite implications
+
+- Make the dynamic book’s image thread more cumulative: pleasure, hurt, fear, relationship, self, observer, and meditation are not separate topics but stages in one image-making movement.
+- Use the concrete insult/flattery example as the book’s main worked mechanism for how image becomes hurt and pleasure.
+- Keep the “ordinary viewer” alive in the prose. This lecture repeatedly returns to the person who has no time, is tired, wants help, and suspects the inquiry is too remote.
+- Preserve the local Q&A rhythm in future chapters: why relationship, why no method, how hurt and pleasure are one process, whether the observer is separate, and whether the death of the self is destruction.
+- When integrating meditation material, make clear that Lecture 30 does not sell meditation as a practice. It asks what remains when the image-maker and psychological time are absent.
