@@ -1,0 +1,1129 @@
+# Transcript
+
+Source: lazyearn/jiddu-krishnamurti/ending-all-fear/005 - Audio ｜ J. Krishnamurti – San Diego 1970 – Students Discussion – How can the mind free itself of... [MV0tuEXTA-A].mkv
+
+- [00:00:00,000 - 00:00:07,520] This is J. Krishnamurti's discussion with students in San Diego, California, 1970.
+- [00:00:07,520 - 00:00:13,840] Krishnamurti What shall we talk over together this morning?
+- [00:00:13,840 - 00:00:22,240] This is supposed to be a discussion and I think the word discussion is not right.
+- [00:00:23,240 - 00:00:36,240] It is more a dialogue, exchange, not of opinions, because that will lead us nowhere.
+- [00:00:36,240 - 00:00:47,240] Or indulging in mere intellectual cleverness will have very little meaning.
+- [00:00:48,240 - 00:00:58,240] Because truth is not to be found through exchange of opinions or of ideas.
+- [00:00:59,240 - 00:01:10,240] So, if we are to talk over together any problem,
+- [00:01:10,240 - 00:01:20,240] it must be on the level which is not intellectual or emotional or sentimental,
+- [00:01:20,240 - 00:01:27,240] but problems that really affect one in one's daily living.
+- [00:01:27,240 - 00:01:32,240] And from there go into it. Yes, sir.
+- [00:01:32,240 - 00:01:36,240] Questioner I live in conflict with myself.
+- [00:01:36,240 - 00:01:39,240] I am a vegetarian from Rofnuda. I don't kill.
+- [00:01:39,240 - 00:01:44,240] But to solve the problem that communism takes not over,
+- [00:01:44,240 - 00:01:52,240] I think this war against communism is in a certain sense of self-mortgaging justified.
+- [00:01:52,240 - 00:01:57,240] I would like to find out with you if I am right or wrong.
+- [00:01:57,240 - 00:02:03,240] The gentleman says that he is a vegetarian, doesn't kill,
+- [00:02:03,240 - 00:02:10,240] and the fight against communism is self-protective response. Is that it, sir?
+- [00:02:10,240 - 00:02:13,240] Q. Yes.
+- [00:02:16,240 - 00:02:19,240] K. That's really very funny.
+- [00:02:19,240 - 00:02:22,240] Q. You must understand, I lived ten years under communism.
+- [00:02:22,240 - 00:02:26,240] I was in a Russian concentration camp when I was in a communist prison.
+- [00:02:26,240 - 00:02:32,240] They understand only one language and it is power.
+- [00:02:35,240 - 00:02:38,240] K. So what is the question, sir?
+- [00:02:38,240 - 00:02:43,240] Q. The question is, is this war self-protection or not?
+- [00:02:44,240 - 00:02:49,240] K. I believe every war, every group that lead to war,
+- [00:02:49,240 - 00:02:52,240] the politicians that bring about wars,
+- [00:02:52,240 - 00:02:57,240] they always say, don't they, that it is self-protective war.
+- [00:02:59,240 - 00:03:04,240] Is that what you want to really discuss?
+- [00:03:08,240 - 00:03:15,240] Wars have always been, whether they are offensive or defensive, but they are wars.
+- [00:03:16,240 - 00:03:22,240] Killing each other has been a kind of peculiar, monstrous game
+- [00:03:22,240 - 00:03:25,240] throughout the centuries.
+- [00:03:26,240 - 00:03:32,240] And we are still, unfortunately, those so-called educated, cultured,
+- [00:03:32,240 - 00:03:38,240] still indulging in the most savage form of butchery.
+- [00:03:39,240 - 00:03:44,240] Could we go into the question of,
+- [00:03:44,240 - 00:03:49,240] if that is what interests some of you,
+- [00:03:50,240 - 00:03:57,240] what is deep violence, this aggression in man,
+- [00:03:57,240 - 00:04:01,240] and whether it is at all possible to be free of it?
+- [00:04:01,240 - 00:04:04,240] Could we discuss that?
+- [00:04:08,240 - 00:04:11,240] Do you really want to go into it?
+- [00:04:12,240 - 00:04:15,240] No?
+- [00:04:21,240 - 00:04:29,240] You know, there have been groups
+- [00:04:29,240 - 00:04:38,240] who have said that they will, under no circumstances, express violence,
+- [00:04:39,240 - 00:04:47,240] live a peaceful life, surrounded by people who are very aggressive, violent,
+- [00:04:48,240 - 00:04:59,240] a kind of nucleus amongst people who are savage, brutal, violent.
+- [00:05:00,240 - 00:05:03,240] And if one has observed,
+- [00:05:04,240 - 00:05:08,240] and if you'll forgive me talking about it a little bit about myself,
+- [00:05:08,240 - 00:05:11,240] I don't read books.
+- [00:05:12,240 - 00:05:16,240] I don't read, the speaker doesn't read the Gita,
+- [00:05:16,240 - 00:05:21,240] the Upanishads, the Bible, you know, all the philosophy and all that.
+- [00:05:21,240 - 00:05:25,240] But I think what is important is,
+- [00:05:25,240 - 00:05:30,240] if we could go into this deeply,
+- [00:05:30,240 - 00:05:34,240] into this question of aggression and violence,
+- [00:05:34,240 - 00:05:38,240] then perhaps it would be worthwhile
+- [00:05:38,240 - 00:05:45,240] and see how far the mind can be absolutely rid of this.
+- [00:05:45,240 - 00:05:48,240] Could we go into it?
+- [00:05:52,240 - 00:05:57,240] Because you see, I feel very strongly
+- [00:05:59,240 - 00:06:03,240] that there is no love in any form,
+- [00:06:03,240 - 00:06:10,240] if there is any spark or touch of violence in the mind.
+- [00:06:12,240 - 00:06:23,240] And how does the mind free itself of its accumulated violence,
+- [00:06:25,240 - 00:06:30,240] cultured violence, self-protective violence,
+- [00:06:31,240 - 00:06:35,240] the violence of aggression,
+- [00:06:36,240 - 00:06:39,240] the violence of competition,
+- [00:06:40,240 - 00:06:46,240] the violence of trying to be somebody,
+- [00:06:47,240 - 00:06:54,240] the violence of trying to discipline oneself according to a pattern.
+- [00:06:55,240 - 00:06:57,240] Please follow all this.
+- [00:06:58,240 - 00:07:02,240] Trying to become somebody,
+- [00:07:02,240 - 00:07:06,240] trying to suppress, trying to bully oneself,
+- [00:07:06,240 - 00:07:10,240] brutalise oneself in order to be,
+- [00:07:10,240 - 00:07:14,240] all such forms of violence,
+- [00:07:15,240 - 00:07:20,240] killing animals, killing the neighbour, killing the – you know.
+- [00:07:20,240 - 00:07:23,240] So,
+- [00:07:24,240 - 00:07:29,240] there are so many different kinds of violence.
+- [00:07:31,240 - 00:07:34,240] Shall we go into each violence,
+- [00:07:35,240 - 00:07:41,240] or shall we take the whole structure of violence?
+- [00:07:43,240 - 00:07:46,240] Not bit by bit.
+- [00:07:47,240 - 00:07:53,240] Can you look at the whole spectrum of violence?
+- [00:07:56,240 - 00:07:59,240] Not one part of it.
+- [00:08:01,240 - 00:08:04,240] Q. May I ask you the source?
+- [00:08:04,240 - 00:08:09,240] May I ask you what you feel is the source of violence?
+- [00:08:09,240 - 00:08:13,240] K. What is the source of violence?
+- [00:08:16,240 - 00:08:20,240] The source of violence is the me,
+- [00:08:21,240 - 00:08:25,240] the ego, the self,
+- [00:08:27,240 - 00:08:34,240] which expresses itself in so many ways,
+- [00:08:35,240 - 00:08:38,240] in division,
+- [00:08:39,240 - 00:08:42,240] in trust,
+- [00:08:42,240 - 00:08:45,240] in division,
+- [00:08:46,240 - 00:08:51,240] in trying to become or be somebody,
+- [00:08:53,240 - 00:08:59,240] in dividing the me and the not-me,
+- [00:09:01,240 - 00:09:07,240] the me that divides itself as the unconscious and the conscious,
+- [00:09:08,240 - 00:09:15,240] the me that identifies with the family and not the family,
+- [00:09:16,240 - 00:09:21,240] the community and not the community, and so on and on.
+- [00:09:21,240 - 00:09:26,240] It's like a drop of a stone in a lake,
+- [00:09:26,240 - 00:09:29,240] the waves spread, spread, spread,
+- [00:09:29,240 - 00:09:33,240] but the centre is the me.
+- [00:09:38,240 - 00:09:43,240] And as long as that in any form survives,
+- [00:09:43,240 - 00:09:49,240] very subtly or grossly, there must be violence.
+- [00:09:51,240 - 00:09:54,240] You see, you asked a question,
+- [00:09:55,240 - 00:09:59,240] what is the root cause of violence,
+- [00:10:00,240 - 00:10:05,240] but that is a question
+- [00:10:05,240 - 00:10:12,240] which by trying to find out what the cause is,
+- [00:10:12,240 - 00:10:16,240] we think we shall be rid of it.
+- [00:10:17,240 - 00:10:20,240] So shall we tackle that first thing?
+- [00:10:20,240 - 00:10:27,240] By thinking or enquiring into the cause of violence,
+- [00:10:27,240 - 00:10:32,240] we think we shall be able to get rid of it.
+- [00:10:32,240 - 00:10:35,240] Don't we?
+- [00:10:38,240 - 00:10:41,240] I say to myself, if I know why I am brutal,
+- [00:10:41,240 - 00:10:45,240] I have finished with brutality.
+- [00:10:47,240 - 00:10:54,240] And I spend weeks and months and years searching for the cause,
+- [00:10:54,240 - 00:11:00,240] or reading the explanations given by experts, specialists
+- [00:11:00,240 - 00:11:06,240] or specialists of the various causes of violence or aggression.
+- [00:11:06,240 - 00:11:08,240] But at the end of the volume,
+- [00:11:08,240 - 00:11:11,240] whether it's a small volume or ten volumes,
+- [00:11:11,240 - 00:11:14,240] I am still violent.
+- [00:11:14,240 - 00:11:17,240] Right?
+- [00:11:19,240 - 00:11:26,240] So, do we enquire into this question of violence
+- [00:11:26,240 - 00:11:32,240] through the discovery of the cause and the effect,
+- [00:11:32,240 - 00:11:38,240] or take the cause, the effect,
+- [00:11:38,240 - 00:11:43,240] and take the whole of it and look at it?
+- [00:11:43,240 - 00:11:49,240] Because the cause becomes the effect,
+- [00:11:49,240 - 00:11:53,240] and the effect becomes the cause.
+- [00:11:53,240 - 00:11:56,240] It's a chain process, isn't it?
+- [00:11:56,240 - 00:11:59,240] I don't know if you...
+- [00:12:00,240 - 00:12:07,240] There is no cause and effect so markedly different.
+- [00:12:07,240 - 00:12:10,240] It is a chain,
+- [00:12:10,240 - 00:12:13,240] a cause becoming the effect,
+- [00:12:13,240 - 00:12:18,240] and the effect becoming the cause.
+- [00:12:18,240 - 00:12:22,240] And we can go along this process indefinitely,
+- [00:12:22,240 - 00:12:27,240] but whereas if we could, I suggest,
+- [00:12:27,240 - 00:12:34,240] if we could look at this whole problem of violence in man
+- [00:12:34,240 - 00:12:37,240] and see how to resolve it, how to end it,
+- [00:12:37,240 - 00:12:43,240] how to put a... comprehend it so vitally that you come to an end.
+- [00:12:43,240 - 00:12:46,240] Could we do that?
+- [00:12:53,240 - 00:12:56,240] The me and the not me,
+- [00:12:56,240 - 00:12:59,240] is it the effect of the culture,
+- [00:12:59,240 - 00:13:03,240] the society in which we live,
+- [00:13:03,240 - 00:13:07,240] or is it innate,
+- [00:13:07,240 - 00:13:15,240] or is it born with us?
+- [00:13:15,240 - 00:13:20,240] Again, can you divide the culture from yourself and yourself
+- [00:13:20,240 - 00:13:22,240] from the society?
+- [00:13:22,240 - 00:13:27,240] Are they both the same, interrelated?
+- [00:13:28,240 - 00:13:35,240] The me, my greed, my problems, my desires, my anxieties,
+- [00:13:35,240 - 00:13:41,240] my fears, my hopes, my anguishing fulfilments and desires,
+- [00:13:41,240 - 00:13:48,240] my hopes, my anguishing fulfilments and despairs, deep sorrows,
+- [00:13:48,240 - 00:13:52,240] are also the product of my neighbour,
+- [00:13:52,240 - 00:13:56,240] of the community I live in.
+- [00:13:56,240 - 00:14:00,240] They are both interrelated, I cannot separate it
+- [00:14:00,240 - 00:14:05,240] and say, this is me and that is society.
+- [00:14:05,240 - 00:14:09,240] Once the separation has taken place,
+- [00:14:09,240 - 00:14:12,240] as in the case of most people,
+- [00:14:12,240 - 00:14:18,240] then this me becomes more self-centred, more active,
+- [00:14:18,240 - 00:14:23,240] more divisive and so on.
+- [00:14:25,240 - 00:14:28,240] So again we come to the question,
+- [00:14:28,240 - 00:14:32,240] can we take violence as a whole,
+- [00:14:32,240 - 00:14:35,240] including the me, which is the origin of violence,
+- [00:14:35,240 - 00:14:39,240] and the society in which we live is the origin of violence.
+- [00:14:39,240 - 00:14:44,240] Can we do that? Not separate it.
+- [00:14:47,240 - 00:14:51,240] We have built a society which is violent,
+- [00:14:51,240 - 00:14:55,240] and we, as human beings, are violent,
+- [00:14:55,240 - 00:14:58,240] and so the environment in which we live,
+- [00:14:58,240 - 00:15:03,240] the culture in which we live is the product of our endeavour,
+- [00:15:03,240 - 00:15:06,240] is the product of our struggle, of our pain,
+- [00:15:06,240 - 00:15:11,240] of our appalling brutalities.
+- [00:15:15,240 - 00:15:21,240] For me, the most important thing is,
+- [00:15:22,240 - 00:15:26,240] is it possible to end?
+- [00:15:26,240 - 00:15:32,240] Can one end this tremendous violence in one?
+- [00:15:32,240 - 00:15:36,240] That is really the question.
+- [00:15:38,240 - 00:15:43,240] Shall we do that? Can we discuss that?
+- [00:15:44,240 - 00:15:50,240] So don't let's go back to the cause again at the end of it.
+- [00:15:50,240 - 00:15:55,240] Q. Is it possible to transform by not eliminating or ending
+- [00:15:55,240 - 00:15:58,240] the sense of each other's intentions?
+- [00:15:58,240 - 00:16:05,240] K. Is it possible to transform it, not end it?
+- [00:16:05,240 - 00:16:09,240] We are going to find out.
+- [00:16:09,240 - 00:16:16,240] Because, look, violence is a form of energy.
+- [00:16:20,240 - 00:16:29,240] And that energy, utilised in a certain way, becomes aggression.
+- [00:16:33,240 - 00:16:39,240] So we are not trying to transform or change, but understand it,
+- [00:16:39,240 - 00:16:43,240] comprehend it so fully that one is free of it,
+- [00:16:43,240 - 00:16:46,240] the mind has gone beyond it,
+- [00:16:46,240 - 00:16:50,240] whether it has transcended it or transformed it and ended it,
+- [00:16:50,240 - 00:16:52,240] that is irrelevant.
+- [00:16:52,240 - 00:16:55,240] Those are verbal means of communication.
+- [00:16:55,240 - 00:16:59,240] So can we discuss this?
+- [00:17:00,240 - 00:17:06,240] Is it possible – not possible, it is possible –
+- [00:17:06,240 - 00:17:10,240] these words –
+- [00:17:10,240 - 00:17:23,240] to enquire together into this question of violence and going beyond it?
+- [00:17:24,240 - 00:17:27,240] Shall we do this, sir? Yes, sir?
+- [00:17:28,240 - 00:17:35,240] Q. If our action, which we say is the effect, is the act of violence,
+- [00:17:35,240 - 00:17:44,240] then the cause is violence in us, which the action is an expression of.
+- [00:17:44,240 - 00:17:52,240] Now, we are violent and the me is violent,
+- [00:17:52,240 - 00:17:58,240] so what is that doing for the me, for me to be violent?
+- [00:17:58,240 - 00:18:03,240] What is that thing that is being expressed when I am violent?
+- [00:18:04,240 - 00:18:08,240] K. I see what you mean, sir. Is this what you mean?
+- [00:18:08,240 - 00:18:11,240] And please correct it.
+- [00:18:14,240 - 00:18:23,240] The me is, we said, the centre of violence.
+- [00:18:24,240 - 00:18:28,240] How does that me come into being,
+- [00:18:29,240 - 00:18:35,240] which then protects itself in order to survive,
+- [00:18:35,240 - 00:18:40,240] and in the protection of itself, in the security of itself,
+- [00:18:40,240 - 00:18:46,240] it must bring about violence?
+- [00:18:49,240 - 00:18:55,240] So you are asking, how does this me come about?
+- [00:18:56,240 - 00:19:01,240] Which is the very centre of aggression.
+- [00:19:01,240 - 00:19:05,240] And aggression is the effect of the me
+- [00:19:05,240 - 00:19:13,240] who is separating itself from the you
+- [00:19:15,240 - 00:19:18,240] and therefore resisting you,
+- [00:19:18,240 - 00:19:23,240] and therefore becoming aggressive.
+- [00:19:23,240 - 00:19:28,240] So you are asking, are you not, sir,
+- [00:19:29,240 - 00:19:33,240] how does the me come into being,
+- [00:19:33,240 - 00:19:41,240] and if that is the cause of all violence in humanity,
+- [00:19:43,240 - 00:19:50,240] then the very transformation of the me
+- [00:19:51,240 - 00:19:55,240] will end all violence.
+- [00:19:55,240 - 00:20:00,240] That is what we are trying to find out,
+- [00:20:00,240 - 00:20:04,240] to enquire into the ending
+- [00:20:04,240 - 00:20:09,240] or drying up the source of aggression.
+- [00:20:09,240 - 00:20:11,240] Now let's proceed, sir, let's get going,
+- [00:20:11,240 - 00:20:16,240] otherwise we can go on verbalisation forever.
+- [00:20:16,240 - 00:20:26,240] Now, how do we grapple with this question?
+- [00:20:29,240 - 00:20:37,240] Abstractly or directly realising that human beings are violent.
+- [00:20:37,240 - 00:20:41,240] How do you think about violence?
+- [00:20:41,240 - 00:20:43,240] How do you look at violence?
+- [00:20:43,240 - 00:20:49,240] Do you look at violence in another or violence in yourself?
+- [00:20:49,240 - 00:20:53,240] Please do watch it, please listen to the question.
+- [00:20:53,240 - 00:20:58,240] How do you know you are violent?
+- [00:21:07,240 - 00:21:11,240] Conflict is violence.
+- [00:21:11,240 - 00:21:17,240] And when there is conflict, is one aware that one is violent?
+- [00:21:17,240 - 00:21:23,240] How do you know violence?
+- [00:21:25,240 - 00:21:31,240] This is really a complex question, knowing.
+- [00:21:32,240 - 00:21:40,240] Look, sir, when I say, I know you,
+- [00:21:40,240 - 00:21:44,240] what does that mean, I know?
+- [00:21:44,240 - 00:21:50,240] I know you as you were yesterday when I met you,
+- [00:21:50,240 - 00:21:54,240] or ten years ago when I met you.
+- [00:21:54,240 - 00:21:58,240] But between ten years ago and now,
+- [00:21:58,240 - 00:22:00,240] you might have changed and I might have changed,
+- [00:22:00,240 - 00:22:04,240] therefore I don't know you.
+- [00:22:04,240 - 00:22:09,240] I know you only ten years ago or ten days ago,
+- [00:22:09,240 - 00:22:13,240] therefore I can never say I know you.
+- [00:22:13,240 - 00:22:20,240] Do please understand this simple thing first.
+- [00:22:20,240 - 00:22:23,240] Therefore I can never say,
+- [00:22:23,240 - 00:22:26,240] I can always say I have been violent,
+- [00:22:26,240 - 00:22:29,240] but I don't know what violence now is.
+- [00:22:29,240 - 00:22:33,240] You understand what I am talking?
+- [00:22:33,240 - 00:22:38,240] Are we...
+- [00:22:38,240 - 00:22:43,240] So how do you know violence
+- [00:22:43,240 - 00:22:47,240] when you say, I am violent, I am angry,
+- [00:22:47,240 - 00:22:51,240] I hate somebody – I hope you don't –
+- [00:22:51,240 - 00:22:58,240] but when you say these things, what do you mean by it?
+- [00:22:58,240 - 00:23:03,240] Right?
+- [00:23:09,240 - 00:23:18,240] Look, sir, I am angry.
+- [00:23:18,240 - 00:23:22,240] You say something to me which irritates my nerves
+- [00:23:22,240 - 00:23:27,240] and all the rest of the organical process,
+- [00:23:27,240 - 00:23:30,240] I am angry.
+- [00:23:30,240 - 00:23:33,240] And then I say afterwards, second later,
+- [00:23:33,240 - 00:23:37,240] I say, by Jove, I have been angry.
+- [00:23:37,240 - 00:23:41,240] At the moment of anger I don't recognise it,
+- [00:23:41,240 - 00:23:44,240] only later I recognise it.
+- [00:23:44,240 - 00:23:47,240] Now, the recognition,
+- [00:23:47,240 - 00:23:53,240] you have to examine the structure of recognition,
+- [00:23:53,240 - 00:23:59,240] because if you don't understand the structure of recognition
+- [00:23:59,240 - 00:24:04,240] you won't be able to meet anger afresh.
+- [00:24:04,240 - 00:24:06,240] I don't know if you...
+- [00:24:06,240 - 00:24:13,240] Look, I am angry,
+- [00:24:13,240 - 00:24:18,240] and I realise I am angry a moment later.
+- [00:24:18,240 - 00:24:24,240] The realisation is the recognition, I have been angry.
+- [00:24:24,240 - 00:24:31,240] The recognition takes place when I have been angry before,
+- [00:24:31,240 - 00:24:34,240] otherwise I don't know it is anger.
+- [00:24:34,240 - 00:24:38,240] So when I recognise it,
+- [00:24:38,240 - 00:24:42,240] I recognise it only because I have known it before.
+- [00:24:42,240 - 00:24:46,240] See what has happened.
+- [00:24:46,240 - 00:24:52,240] The past interferes with the present,
+- [00:24:52,240 - 00:24:57,240] and then I say I am angry.
+- [00:24:57,240 - 00:25:02,240] So I am always translating the present reaction
+- [00:25:02,240 - 00:25:05,240] in terms of the past.
+- [00:25:05,240 - 00:25:15,240] So can I, without translating the present response with the past,
+- [00:25:15,240 - 00:25:19,240] can I look at the response anew,
+- [00:25:19,240 - 00:25:23,240] you understand, with a fresh mind?
+- [00:25:23,240 - 00:25:27,240] Are we meeting each other?
+- [00:25:27,240 - 00:25:31,240] No, please do it.
+- [00:25:31,240 - 00:25:36,240] Look, you call me a fool,
+- [00:25:37,240 - 00:25:42,240] and my whole blood, every thing,
+- [00:25:42,240 - 00:25:48,240] comes to the surface and says, you are another.
+- [00:25:50,240 - 00:25:59,240] And what has taken place in me, emotionally, inwardly?
+- [00:25:59,240 - 00:26:04,240] I have an image about myself.
+- [00:26:04,240 - 00:26:09,240] And that image says, I am not a fool,
+- [00:26:09,240 - 00:26:12,240] I have made that image into something
+- [00:26:12,240 - 00:26:15,240] which I think is desirable, noble, worthwhile,
+- [00:26:15,240 - 00:26:19,240] and you are insulting that image.
+- [00:26:19,240 - 00:26:25,240] And that image responds, which is the old.
+- [00:26:25,240 - 00:26:28,240] You are following?
+- [00:26:28,240 - 00:26:34,240] And so the old responds.
+- [00:26:34,240 - 00:26:39,240] So the next question is, can the response,
+- [00:26:39,240 - 00:26:45,240] can the response not be related to the old,
+- [00:26:45,240 - 00:26:51,240] therefore an interval between the old and the new response?
+- [00:26:51,240 - 00:26:54,240] You follow?
+- [00:26:54,240 - 00:27:01,240] Can the old be dormant, be hesitant,
+- [00:27:01,240 - 00:27:06,240] so as to allow the new to take place?
+- [00:27:06,240 - 00:27:09,240] You understand?
+- [00:27:11,240 - 00:27:17,240] I think that is where the whole problem is.
+- [00:27:18,240 - 00:27:24,240] I think that is where the whole problem is.
+- [00:27:26,240 - 00:27:29,240] Q. Are you saying then that violence, the root of violence,
+- [00:27:29,240 - 00:27:33,240] all violence is just confusion of what isn't and what is?
+- [00:27:33,240 - 00:27:37,240] K. No, sir, no, sir, no, sir.
+- [00:27:37,240 - 00:27:41,240] Look, let's begin again.
+- [00:27:42,240 - 00:27:46,240] We are violent.
+- [00:27:46,240 - 00:27:50,240] Throughout man's existence,
+- [00:27:50,240 - 00:27:54,240] human beings have been violent and are violent.
+- [00:27:55,240 - 00:27:59,240] I want to find out as a human being
+- [00:27:59,240 - 00:28:05,240] how to transcend this violence, how to go beyond it.
+- [00:28:07,240 - 00:28:11,240] What am I to do?
+- [00:28:12,240 - 00:28:19,240] Because I see what violence has done in the world,
+- [00:28:22,240 - 00:28:26,240] how it has destroyed every form of friendship,
+- [00:28:26,240 - 00:28:30,240] every form of relationship,
+- [00:28:30,240 - 00:28:36,240] how it has brought deep agony in oneself, misery.
+- [00:28:36,240 - 00:28:38,240] I see all that.
+- [00:28:38,240 - 00:28:41,240] And I say to myself,
+- [00:28:41,240 - 00:28:45,240] I want to live really a peaceful life
+- [00:28:45,240 - 00:28:48,240] in which there is deep abundance of love,
+- [00:28:48,240 - 00:28:53,240] and the violence must disappear, or must go, etc.
+- [00:28:53,240 - 00:28:57,240] Now, what am I to do?
+- [00:29:00,240 - 00:29:04,240] First, I mustn't escape from it.
+- [00:29:04,240 - 00:29:07,240] Right?
+- [00:29:08,240 - 00:29:10,240] Let's be sure of that.
+- [00:29:10,240 - 00:29:15,240] I must not escape from the fact I am violent.
+- [00:29:15,240 - 00:29:20,240] Escaping being, condemning it.
+- [00:29:20,240 - 00:29:23,240] Right?
+- [00:29:24,240 - 00:29:27,240] Justifying it,
+- [00:29:27,240 - 00:29:31,240] or even naming that I am violent.
+- [00:29:32,240 - 00:29:33,240] You are following?
+- [00:29:33,240 - 00:29:38,240] Because the naming is a form of condemnation,
+- [00:29:41,240 - 00:29:44,240] is a form of justification.
+- [00:29:44,240 - 00:29:48,240] So, first I have to realise
+- [00:29:48,240 - 00:29:55,240] the mind must not be distracted from this fact of violence,
+- [00:29:55,240 - 00:30:00,240] either in seeking the cause
+- [00:30:00,240 - 00:30:05,240] or in the explanation of the cause,
+- [00:30:05,240 - 00:30:09,240] or naming the fact that I am violent,
+- [00:30:09,240 - 00:30:13,240] or justifying it, condemning it, trying to get rid of it.
+- [00:30:13,240 - 00:30:16,240] Those are all forms of distraction
+- [00:30:16,240 - 00:30:21,240] from the fact of violence. Right?
+- [00:30:23,240 - 00:30:25,240] This is clear, is it?
+- [00:30:25,240 - 00:30:31,240] So, the mind must be absolutely clear
+- [00:30:31,240 - 00:30:35,240] that there is no escape from it.
+- [00:30:38,240 - 00:30:42,240] Not the exercise of will, who says, I will conquer it,
+- [00:30:42,240 - 00:30:47,240] because will is the very essence of violence.
+- [00:30:48,240 - 00:30:51,240] I don't know if you are...
+- [00:30:51,240 - 00:30:55,240] Q. Are we trying to find some order in it, order in the violence?
+- [00:30:55,240 - 00:30:56,240] K. What, sir?
+- [00:30:56,240 - 00:30:58,240] Q. Order in why we are violent?
+- [00:30:58,240 - 00:31:03,240] K. Are we trying to bring order into violence? Is that it?
+- [00:31:03,240 - 00:31:06,240] Q. Well, basically, are we trying to find what violence is
+- [00:31:06,240 - 00:31:10,240] by finding order in it, or the order in ourselves?
+- [00:31:10,240 - 00:31:15,240] K. No, sir, no, sir. How can there be order in violence?
+- [00:31:15,240 - 00:31:18,240] Violence is disorder.
+- [00:31:18,240 - 00:31:21,240] Do please go with me a little bit.
+- [00:31:21,240 - 00:31:27,240] First, no escape from it, of any kind,
+- [00:31:27,240 - 00:31:34,240] intellectual, explanatory, justification.
+- [00:31:34,240 - 00:31:37,240] See the difficulty of this,
+- [00:31:37,240 - 00:31:44,240] because our mind is so cunning, so sharp to escape,
+- [00:31:44,240 - 00:31:48,240] because it doesn't know what to do with it.
+- [00:31:48,240 - 00:31:51,240] It is not capable of dealing with it,
+- [00:31:51,240 - 00:31:57,240] or it thinks it is not capable, therefore it escapes.
+- [00:31:57,240 - 00:32:05,240] Look, sir, most of us know what loneliness is, don't we?
+- [00:32:05,240 - 00:32:10,240] Don't you? Being lonely.
+- [00:32:11,240 - 00:32:15,240] And being lonely, not knowing what to do with it,
+- [00:32:15,240 - 00:32:19,240] being afraid of it, we move away from it.
+- [00:32:19,240 - 00:32:24,240] Right? We escape from it.
+- [00:32:28,240 - 00:32:31,240] Or try to fill that emptiness by knowledge,
+- [00:32:31,240 - 00:32:34,240] by all kinds of things.
+- [00:32:34,240 - 00:32:40,240] All those are distractions from the fact of loneliness.
+- [00:32:41,240 - 00:32:47,240] Right? And therefore it is still there.
+- [00:32:47,240 - 00:32:55,240] So what one has to realise first is not to escape.
+- [00:32:56,240 - 00:33:02,240] Realise that every form of escape, distraction,
+- [00:33:02,240 - 00:33:11,240] a movement away, only sustains violence.
+- [00:33:14,240 - 00:33:20,240] So the mind then is confronted with the fact,
+- [00:33:20,240 - 00:33:23,240] with what is, and nothing else.
+- [00:33:23,240 - 00:33:25,240] Right?
+- [00:33:26,240 - 00:33:28,240] Are we doing this, please?
+- [00:33:28,240 - 00:33:32,240] This is a discussion, not a talk by me.
+- [00:33:32,240 - 00:33:38,240] Q. The thought of loneliness, it's felt that if you say it and I hear it,
+- [00:33:38,240 - 00:33:40,240] and I say to myself, I am lonely,
+- [00:33:40,240 - 00:33:44,240] I immediately feel that I have escaped in saying that.
+- [00:33:44,240 - 00:33:48,240] K. Of course, of course you have escaped when you say, I am lonely.
+- [00:33:48,240 - 00:33:53,240] You know the fact of loneliness, you know what it means.
+- [00:33:54,240 - 00:33:57,240] Don't you?
+- [00:33:57,240 - 00:34:01,240] Look, sir, it's so simple.
+- [00:34:06,240 - 00:34:09,240] Look, sir, when you look at a tree – do watch it –
+- [00:34:09,240 - 00:34:13,240] when you look at a tree, if you say, what a beautiful tree that is,
+- [00:34:13,240 - 00:34:19,240] your mind has already gone away from observing the tree, isn't it?
+- [00:34:19,240 - 00:34:22,240] No?
+- [00:34:23,240 - 00:34:28,240] So to look at the tree is not to say it's a beautiful tree.
+- [00:34:30,240 - 00:34:34,240] Therefore your attention is completely looking.
+- [00:34:34,240 - 00:34:37,240] Right?
+- [00:34:39,240 - 00:34:43,240] So when you say, what a beautiful river that is,
+- [00:34:43,240 - 00:34:48,240] what a lovely view that is, you have already gone.
+- [00:34:53,240 - 00:34:57,240] Yes, sir, yes. Behind you, sir, behind.
+- [00:34:57,240 - 00:35:00,240] Q. So whether it's violence or loneliness, you don't name it.
+- [00:35:00,240 - 00:35:02,240] K. We are going to find out, sir.
+- [00:35:02,240 - 00:35:08,240] Do it, sir, do it, and you will have answered it yourself.
+- [00:35:08,240 - 00:35:15,240] When you name it, you are relating it, the name, to the past.
+- [00:35:15,240 - 00:35:18,240] Therefore you are looking at it
+- [00:35:18,240 - 00:35:22,240] with the eyes that have been touched by the past.
+- [00:35:22,240 - 00:35:28,240] Therefore you are not looking at it afresh. That's all.
+- [00:35:28,240 - 00:35:31,240] You get the point?
+- [00:35:33,240 - 00:35:36,240] You look at violence – please do listen to this –
+- [00:35:36,240 - 00:35:43,240] you look at violence with eyes that have condemned,
+- [00:35:43,240 - 00:35:47,240] that are conditioned, that are justifying,
+- [00:35:47,240 - 00:35:52,240] that say violence is necessary to live in this monstrous society,
+- [00:35:52,240 - 00:35:58,240] violence is part of nature, part – look, nature kills, and so on.
+- [00:35:58,240 - 00:35:59,240] You follow?
+- [00:35:59,240 - 00:36:04,240] With the eyes that are conditioned to look,
+- [00:36:04,240 - 00:36:10,240] with condemnation or justification or resistance,
+- [00:36:10,240 - 00:36:16,240] what we are saying is to look at it afresh,
+- [00:36:17,240 - 00:36:21,240] anew, and you can only do that when you become aware
+- [00:36:21,240 - 00:36:30,240] that you are identifying what you see with what you already know,
+- [00:36:30,240 - 00:36:35,240] and therefore not looking at it afresh. Right?
+- [00:36:35,240 - 00:36:39,240] Just get this point, please.
+- [00:36:40,240 - 00:36:45,240] Just a minute, sir, your turn will come. Just a minute, sir.
+- [00:36:47,240 - 00:36:57,240] Look, sir, I look at my wife or my husband – I'm not married –
+- [00:36:57,240 - 00:37:01,240] I look at my wife or my husband.
+- [00:37:02,240 - 00:37:07,240] Do I ever really look at her or him,
+- [00:37:07,240 - 00:37:14,240] or do I look at her with the image that I have so carefully built
+- [00:37:14,240 - 00:37:20,240] for 30, 40, 50 years, or 10 days,
+- [00:37:23,240 - 00:37:27,240] and she does the same with me?
+- [00:37:28,240 - 00:37:34,240] And therefore our relationship is between the images
+- [00:37:34,240 - 00:37:38,240] and not actual relationship.
+- [00:37:38,240 - 00:37:41,240] You are following this?
+- [00:37:41,240 - 00:37:46,240] Do you? If you do, then break the image.
+- [00:37:53,240 - 00:37:56,240] So the question then arises,
+- [00:37:57,240 - 00:38:02,240] how is the image formed,
+- [00:38:02,240 - 00:38:07,240] what is the mechanism that forms images?
+- [00:38:07,240 - 00:38:16,240] Q. There is a space between your perception and your response.
+- [00:38:16,240 - 00:38:18,240] That would be time, I suppose.
+- [00:38:18,240 - 00:38:23,240] K. Yes, sir, that's right, but go into it a little more, you will see it.
+- [00:38:25,240 - 00:38:29,240] My wife says to me, you are an ass.
+- [00:38:32,240 - 00:38:35,240] I don't like it.
+- [00:38:36,240 - 00:38:42,240] And that has left a mark on my mind.
+- [00:38:43,240 - 00:38:48,240] Do this, sir, you have left a mark on my mind.
+- [00:38:49,240 - 00:38:53,240] And she says something else, that also leaves a mark on my mind.
+- [00:38:53,240 - 00:38:58,240] So these marks are the images.
+- [00:38:58,240 - 00:39:03,240] Now when she says to me, I am a fool,
+- [00:39:03,240 - 00:39:08,240] if I am aware at that minute – you understand? – aware,
+- [00:39:08,240 - 00:39:15,240] give attention, then there is no marking at all.
+- [00:39:15,240 - 00:39:20,240] You follow it? Because she may be right.
+- [00:39:20,240 - 00:39:25,240] Therefore I am attentive, watching.
+- [00:39:25,240 - 00:39:31,240] So inattention breeds images.
+- [00:39:31,240 - 00:39:37,240] Attention frees the mind from the image. Got this?
+- [00:39:38,240 - 00:39:42,240] You understand, sir? This is very simple.
+- [00:39:42,240 - 00:39:47,240] In the same way, when I am angry,
+- [00:39:47,240 - 00:39:51,240] when I am angry,
+- [00:39:52,240 - 00:39:55,240] to be completely attentive,
+- [00:39:55,240 - 00:39:59,240] not let inattention come in,
+- [00:39:59,240 - 00:40:05,240] which is to allow the past to come and interfere
+- [00:40:05,240 - 00:40:09,240] with the actual perception of anger at the moment.
+- [00:40:09,240 - 00:40:12,240] Got it?
+- [00:40:12,240 - 00:40:15,240] Right?
+- [00:40:16,240 - 00:40:20,240] Q. Is that not an act of will? K. No, we said that.
+- [00:40:20,240 - 00:40:23,240] Is that not an act of will?
+- [00:40:23,240 - 00:40:28,240] We said will is in essence violence.
+- [00:40:28,240 - 00:40:32,240] You know what? Wait a minute, let's examine what will is.
+- [00:40:32,240 - 00:40:35,240] What is will?
+- [00:40:35,240 - 00:40:39,240] I want to do that, I won't have that,
+- [00:40:39,240 - 00:40:42,240] I shall do that.
+- [00:40:44,240 - 00:40:50,240] I have resisted, I demand – will, desire.
+- [00:40:52,240 - 00:40:54,240] Which is what?
+- [00:40:54,240 - 00:40:57,240] Which is a form of resistance, isn't it?
+- [00:40:57,240 - 00:41:00,240] When you say, I will that,
+- [00:41:00,240 - 00:41:02,240] it is a form of resistance.
+- [00:41:02,240 - 00:41:06,240] And resistance is violence.
+- [00:41:09,240 - 00:41:11,240] Yes, sir?
+- [00:41:11,240 - 00:41:15,240] Q. Can you suggest a way of going about
+- [00:41:15,240 - 00:41:19,240] answering the questions which you raise?
+- [00:41:19,240 - 00:41:24,240] I refer to, number one,
+- [00:41:24,240 - 00:41:29,240] your comments that it is better to be aware
+- [00:41:29,240 - 00:41:31,240] than to rationalise.
+- [00:41:31,240 - 00:41:33,240] Perhaps I am paraphrasing you wrong,
+- [00:41:33,240 - 00:41:38,240] but as soon as you use words to rationalise
+- [00:41:38,240 - 00:41:42,240] and try to determine an answer,
+- [00:41:42,240 - 00:41:46,240] you are defeating your own attempts
+- [00:41:46,240 - 00:41:52,240] to arrive at an answer to the questions that you raise.
+- [00:41:52,240 - 00:41:55,240] K. I don't quite follow, sir.
+- [00:41:55,240 - 00:41:58,240] Q. I am asking possibly
+- [00:41:58,240 - 00:42:02,240] if there is some non-verbal internal communication
+- [00:42:02,240 - 00:42:05,240] that you are referring to
+- [00:42:05,240 - 00:42:11,240] in order to answer some of the questions that you ask.
+- [00:42:13,240 - 00:42:15,240] K. I don't quite understand this.
+- [00:42:15,240 - 00:42:17,240] Wait a minute, sir.
+- [00:42:17,240 - 00:42:20,240] Q. I was going to say what he is saying.
+- [00:42:20,240 - 00:42:23,240] Is there – if I may say so.
+- [00:42:23,240 - 00:42:25,240] Q. Go right ahead. I hope so.
+- [00:42:25,240 - 00:42:29,240] I hope you can describe it better than I do.
+- [00:42:29,240 - 00:42:33,240] Q. What you are saying is the what is,
+- [00:42:33,240 - 00:42:37,240] and then there is the response to the what is, which is the memory.
+- [00:42:37,240 - 00:42:39,240] Now he is saying,
+- [00:42:39,240 - 00:42:43,240] is there something else besides the memory of the past
+- [00:42:43,240 - 00:42:50,240] in which there is a non-verbal communication of knowing?
+- [00:42:50,240 - 00:42:58,240] Is there another way of knowing other than being the past?
+- [00:42:58,240 - 00:43:01,240] Is there another communication, another...?
+- [00:43:01,240 - 00:43:10,240] Are you trying to say, ask, sir, is there a communion which is non-verbal?
+- [00:43:12,240 - 00:43:15,240] Q. I guess what I am really trying to say is
+- [00:43:15,240 - 00:43:19,240] that you are trying to talk to something that is in the essence
+- [00:43:19,240 - 00:43:22,240] within a person, within each one of us.
+- [00:43:22,240 - 00:43:25,240] K. No, sir, I don't know...
+- [00:43:25,240 - 00:43:28,240] Q. Maybe I am...
+- [00:43:28,240 - 00:43:31,240] Q. Is there a time to describe that which is indescribable?
+- [00:43:31,240 - 00:43:32,240] Is that not it?
+- [00:43:32,240 - 00:43:35,240] K. No, sir, don't let's go off, please.
+- [00:43:35,240 - 00:43:39,240] I am trying to... Look, we are trying to find out
+- [00:43:39,240 - 00:43:45,240] whether violence can end.
+- [00:43:45,240 - 00:43:48,240] That's all. Don't let's go off to something else.
+- [00:43:48,240 - 00:43:50,240] May I take my coat off?
+- [00:43:50,240 - 00:43:53,240] Q. Can I try that question another way?
+- [00:43:53,240 - 00:43:57,240] I follow you when you say that we avoid the problem often
+- [00:43:57,240 - 00:43:58,240] of seeking an answer.
+- [00:43:58,240 - 00:43:59,240] K. That's right, sir.
+- [00:43:59,240 - 00:44:01,240] Q. That gets us away from the what is.
+- [00:44:01,240 - 00:44:03,240] K. That's right, sir.
+- [00:44:03,240 - 00:44:07,240] Q. And in your writings you said the answer is in the problem.
+- [00:44:07,240 - 00:44:09,240] K. That's right, sir.
+- [00:44:09,240 - 00:44:12,240] Now, I want to know how to look at that what is.
+- [00:44:12,240 - 00:44:17,240] Q. Okay. And how do I know the answer when I found the answer?
+- [00:44:17,240 - 00:44:18,240] What is the knowing process?
+- [00:44:18,240 - 00:44:21,240] Or do I only know what the answer was since thought is old?
+- [00:44:21,240 - 00:44:23,240] K. That's part of my question.
+- [00:44:23,240 - 00:44:24,240] What is the question, sir?
+- [00:44:24,240 - 00:44:27,240] Q. If I know the answer, if I focus on an attention,
+- [00:44:27,240 - 00:44:29,240] my attention on a problem,
+- [00:44:29,240 - 00:44:32,240] whether it's violence or loneliness or whatever,
+- [00:44:32,240 - 00:44:36,240] how is it if I really pay attention to the problem,
+- [00:44:36,240 - 00:44:38,240] to say, that's the answer,
+- [00:44:38,240 - 00:44:40,240] or am I thinking then and thought is old?
+- [00:44:40,240 - 00:44:43,240] K. Then there is no problem, sir.
+- [00:44:45,240 - 00:44:48,240] No, no, no, please, please, please, do...
+- [00:44:48,240 - 00:44:51,240] Please don't waste your energy clapping.
+- [00:44:51,240 - 00:44:53,240] It's not worth it.
+- [00:44:54,240 - 00:44:58,240] No, please, sir, do listen to this.
+- [00:44:59,240 - 00:45:04,240] You see, we are looking at life,
+- [00:45:04,240 - 00:45:06,240] living and everything with the eyes
+- [00:45:06,240 - 00:45:10,240] that have been so burdened with the past
+- [00:45:10,240 - 00:45:14,240] that our eyes never see anything new.
+- [00:45:15,240 - 00:45:20,240] Now, we are trying to find out
+- [00:45:20,240 - 00:45:26,240] what the transcending of violence is.
+- [00:45:26,240 - 00:45:31,240] I am saying, don't escape from it first,
+- [00:45:32,240 - 00:45:34,240] verbally or non-verbally,
+- [00:45:34,240 - 00:45:40,240] don't move away from that central fact of violence.
+- [00:45:41,240 - 00:45:44,240] Then the next question is,
+- [00:45:44,240 - 00:45:49,240] how do you know it is violence?
+- [00:45:50,240 - 00:45:55,240] You understand?
+- [00:45:55,240 - 00:46:00,240] You only know it because you are able to recognise it
+- [00:46:00,240 - 00:46:04,240] because you have been violent.
+- [00:46:04,240 - 00:46:08,240] But when you look at it without naming,
+- [00:46:08,240 - 00:46:11,240] without justifying, condemning,
+- [00:46:11,240 - 00:46:14,240] which are all the conditioning of the past,
+- [00:46:14,240 - 00:46:20,240] then you are looking at it with fresh eyes, aren't you?
+- [00:46:20,240 - 00:46:23,240] Then is it violence?
+- [00:46:23,240 - 00:46:25,240] Oh, no, don't say, no, sir,
+- [00:46:25,240 - 00:46:30,240] this is one of the most difficult things to do,
+- [00:46:30,240 - 00:46:35,240] because all our living is the past.
+- [00:46:36,240 - 00:46:41,240] Do you know what it is to live in the present?
+- [00:46:41,240 - 00:46:45,240] Q. Why is it important?
+- [00:46:45,240 - 00:46:49,240] K. Why is it important?
+- [00:46:49,240 - 00:46:52,240] Why do you ask that question, why is it important?
+- [00:46:52,240 - 00:46:54,240] Q. Why are we trying to understand
+- [00:46:54,240 - 00:46:56,240] why do we want to lead a life of love?
+- [00:46:56,240 - 00:47:01,240] K. Why do you want to lead a life of love?
+- [00:47:01,240 - 00:47:05,240] I don't.
+- [00:47:05,240 - 00:47:09,240] I want to lead – not even I don't want to –
+- [00:47:09,240 - 00:47:14,240] I see violence and I see the misery it brings about
+- [00:47:14,240 - 00:47:21,240] to the mother, to the man, to human beings,
+- [00:47:21,240 - 00:47:27,240] and I ask myself, as a human being, can this end?
+- [00:47:27,240 - 00:47:32,240] And in enquiring into the question of ending,
+- [00:47:32,240 - 00:47:36,240] I find out what it is to live peacefully, that's all.
+- [00:47:36,240 - 00:47:43,240] Not that I want to end, which is another form of action of will.
+- [00:47:44,240 - 00:47:50,240] Sir, look, therefore, then the next question is,
+- [00:47:50,240 - 00:47:57,240] the mind is the result of the past.
+- [00:47:57,240 - 00:48:00,240] Right?
+- [00:48:00,240 - 00:48:05,240] The mind recognises violence, names it,
+- [00:48:05,240 - 00:48:09,240] and it moves away from it.
+- [00:48:09,240 - 00:48:13,240] Now, when the mind doesn't name it,
+- [00:48:13,240 - 00:48:20,240] can the mind look at what it has called violence?
+- [00:48:22,240 - 00:48:27,240] Then is there such a thing as violence?
+- [00:48:27,240 - 00:48:34,240] And to look, your mind must be extraordinarily free of the past.
+- [00:48:34,240 - 00:48:38,240] Right?
+- [00:48:38,240 - 00:48:42,240] To look at my wife or my husband,
+- [00:48:42,240 - 00:48:47,240] the mind must be free of the image that it has built,
+- [00:48:47,240 - 00:48:51,240] the image being the past.
+- [00:48:51,240 - 00:48:55,240] To understand that,
+- [00:48:55,240 - 00:49:00,240] and to be aware at the moment of the insult or the flattery,
+- [00:49:00,240 - 00:49:04,240] to be aware at that moment.
+- [00:49:05,240 - 00:49:08,240] If the mind is not aware,
+- [00:49:08,240 - 00:49:14,240] it has already become inattentive and therefore building an image.
+- [00:49:14,240 - 00:49:18,240] This is clear, is it?
+- [00:49:18,240 - 00:49:21,240] Are you doing this?
+- [00:49:21,240 - 00:49:25,240] Q. You say free, be free of it, that includes a lot more.
+- [00:49:25,240 - 00:49:27,240] How far does that go?
+- [00:49:27,240 - 00:49:32,240] Q. Would you mind freedom, would you go into that?
+- [00:49:33,240 - 00:49:37,240] K. Would you go into freedom? What does it mean?
+- [00:49:37,240 - 00:49:41,240] We'll come to that, sir, presently.
+- [00:49:41,240 - 00:49:48,240] So, there are all the deep down
+- [00:49:49,240 - 00:49:54,240] angers, frustrations, resistances.
+- [00:49:54,240 - 00:49:59,240] The mind must also be free of that, mustn't it?
+- [00:49:59,240 - 00:50:05,240] The mind can be free of active violence in the present.
+- [00:50:05,240 - 00:50:08,240] Right?
+- [00:50:08,240 - 00:50:09,240] Are you following this?
+- [00:50:09,240 - 00:50:14,240] I am asking, can the mind be free
+- [00:50:14,240 - 00:50:19,240] of all the unconscious accumulations
+- [00:50:19,240 - 00:50:24,240] of hate, anger, bitterness,
+- [00:50:25,240 - 00:50:29,240] which are there deep down?
+- [00:50:29,240 - 00:50:33,240] You follow? How is this to be done?
+- [00:50:33,240 - 00:50:36,240] Q. Why is this to be done?
+- [00:50:36,240 - 00:50:39,240] K. The gentleman says, why should it be done?
+- [00:50:39,240 - 00:50:41,240] Q. Why not? Well, why not, too?
+- [00:50:41,240 - 00:50:45,240] K. Oh, no, come off it.
+- [00:50:49,240 - 00:50:52,240] Why should it be done and why not?
+- [00:50:52,240 - 00:50:55,240] Then we end up in – you know.
+- [00:50:55,240 - 00:50:57,240] It should be done because, sir,
+- [00:50:57,240 - 00:51:00,240] a man who wants to live at peace
+- [00:51:00,240 - 00:51:03,240] and to bring about a world that is peaceful
+- [00:51:03,240 - 00:51:07,240] must enquire into all this,
+- [00:51:07,240 - 00:51:13,240] must, as a human being, see if he can be free from it.
+- [00:51:13,240 - 00:51:16,240] And that's what we are trying to do.
+- [00:51:16,240 - 00:51:19,240] Q. But if one sees his violence in oneself
+- [00:51:19,240 - 00:51:21,240] and outside of oneself,
+- [00:51:21,240 - 00:51:25,240] how does one keep from being depressed or disturbed by it?
+- [00:51:25,240 - 00:51:26,240] K. Excuse me?
+- [00:51:26,240 - 00:51:33,240] Q. How does one keep from being depressed or disturbed by it?
+- [00:51:33,240 - 00:51:38,240] K. How does one keep from being depressed or disturbed by it?
+- [00:51:38,240 - 00:51:45,240] K. How do – if one is clear and is free of this violence,
+- [00:51:45,240 - 00:51:51,240] you are asking, how can one be free of depression?
+- [00:51:51,240 - 00:51:53,240] Q. No, one sees the violence.
+- [00:51:53,240 - 00:51:55,240] K. About you.
+- [00:51:55,240 - 00:51:57,240] Ah, I see.
+- [00:51:57,240 - 00:52:02,240] If one is free of this violence in oneself,
+- [00:52:02,240 - 00:52:05,240] and when you see violence outside of you,
+- [00:52:05,240 - 00:52:08,240] doesn't it depress you?
+- [00:52:08,240 - 00:52:11,240] What are you to do?
+- [00:52:11,240 - 00:52:13,240] Is that it?
+- [00:52:13,240 - 00:52:18,240] What are you to do is to teach another.
+- [00:52:22,240 - 00:52:28,240] Sir, teaching another is the highest profession in the world,
+- [00:52:28,240 - 00:52:32,240] not for money,
+- [00:52:33,240 - 00:52:36,240] not for your big bank account,
+- [00:52:36,240 - 00:52:38,240] just to teach, to tell another,
+- [00:52:38,240 - 00:52:43,240] tell another, look, you can live differently, for God's sake, look.
+- [00:52:43,240 - 00:52:45,240] Q. What is the easiest way to teach that?
+- [00:52:45,240 - 00:52:50,240] K. What is the easiest way? Go to college.
+- [00:52:56,240 - 00:53:01,240] No, no, no, this is becoming a circus.
+- [00:53:01,240 - 00:53:06,240] Sir, you teach another
+- [00:53:06,240 - 00:53:13,240] by teaching him and therefore learning yourself.
+- [00:53:13,240 - 00:53:18,240] In teaching him, you are learning.
+- [00:53:18,240 - 00:53:19,240] You understand?
+- [00:53:19,240 - 00:53:23,240] First you have learnt, accumulated knowledge,
+- [00:53:23,240 - 00:53:25,240] then you inform,
+- [00:53:25,240 - 00:53:29,240] whereas you are not learning.
+- [00:53:29,240 - 00:53:35,240] You inform, whereas you yourself are violent,
+- [00:53:35,240 - 00:53:41,240] understanding yourself is to help another to understand it.
+- [00:53:41,240 - 00:53:47,240] And therefore the teaching is the learning.
+- [00:53:48,240 - 00:53:51,240] Sir, you don't see all the beauty of all this.
+- [00:53:51,240 - 00:53:54,240] Too bad.
+- [00:53:54,240 - 00:53:58,240] So let's go on.
+- [00:53:58,240 - 00:54:09,240] Sir, I mean, don't you want to know from your heart what love is?
+- [00:54:10,240 - 00:54:14,240] Don't you? No?
+- [00:54:14,240 - 00:54:17,240] He doesn't know.
+- [00:54:18,240 - 00:54:23,240] Isn't it a human cry, which has been for millennia,
+- [00:54:23,240 - 00:54:26,240] to find out how to live peacefully,
+- [00:54:26,240 - 00:54:31,240] how to have real abundance, compassion?
+- [00:54:31,240 - 00:54:36,240] And that can only come into being when there is no violence,
+- [00:54:36,240 - 00:54:44,240] when there is real sense of non-me.
+- [00:54:44,240 - 00:54:46,240] You understand?
+- [00:54:46,240 - 00:54:52,240] And that's what we are enquiring into.
+- [00:54:52,240 - 00:54:59,240] And we say, look, to find that out, don't escape,
+- [00:55:00,240 - 00:55:02,240] whether it is loneliness, whether it is anger,
+- [00:55:02,240 - 00:55:08,240] whether it is bitterness, look at it without any escape.
+- [00:55:08,240 - 00:55:13,240] The escape is the naming of it also.
+- [00:55:13,240 - 00:55:17,240] So when you are bitter, don't name it, look at it.
+- [00:55:17,240 - 00:55:23,240] And then, see, if you don't name, does bitterness exist?
+- [00:55:23,240 - 00:55:26,240] You understand? Yes, sir?
+- [00:55:26,240 - 00:55:30,240] Q. Why is the animal, which apparently has no name but not me,
+- [00:55:30,240 - 00:55:33,240] why is it violent?
+- [00:55:33,240 - 00:55:39,240] K. Why is the animal, which apparently doesn't name,
+- [00:55:39,240 - 00:55:42,240] why is it violent?
+- [00:55:42,240 - 00:55:44,240] Is the animal asking the question
+- [00:55:44,240 - 00:55:48,240] or the human being asking the question?
+- [00:55:49,240 - 00:55:53,240] I am not being insulting, sir, but I am asking.
+- [00:55:53,240 - 00:55:57,240] The animal is hungry.
+- [00:55:57,240 - 00:56:03,240] We are supposed to be intelligent and attack the animal
+- [00:56:03,240 - 00:56:09,240] to eat it, for sport and all the rest of the ugly business.
+- [00:56:09,240 - 00:56:15,240] With our violent eyes, we look at the animal.
+- [00:56:16,240 - 00:56:21,240] So, sir, please, let's stick to... Yes, madame?
+- [00:56:21,240 - 00:56:24,240] Q. Excuse me. I'd like to ask two questions.
+- [00:56:24,240 - 00:56:27,240] We've established there's violence in all of our lives,
+- [00:56:27,240 - 00:56:31,240] but what I'm waiting for is how do we get rid of this violence?
+- [00:56:31,240 - 00:56:35,240] I'm showing it to you, madame.
+- [00:56:36,240 - 00:56:39,240] I'm showing it to you.
+- [00:56:39,240 - 00:56:41,240] Q. I'm missing the point that I'm afraid.
+- [00:56:41,240 - 00:56:44,240] You mean merely by facing the fact that there is violence.
+- [00:56:44,240 - 00:56:49,240] No, madame, it's much more complex than that.
+- [00:56:50,240 - 00:56:52,240] Q. And one more question.
+- [00:56:52,240 - 00:56:54,240] Do you advocate getting rid of all violence
+- [00:56:54,240 - 00:56:59,240] or is some violence healthy in everyone's life?
+- [00:56:59,240 - 00:57:01,240] Q. I don't mean physical violence.
+- [00:57:01,240 - 00:57:03,240] I mean getting rid of frustrations.
+- [00:57:03,240 - 00:57:05,240] Can this be helpful?
+- [00:57:05,240 - 00:57:09,240] Or are you trying to keep you from being frustrated?
+- [00:57:09,240 - 00:57:14,240] K. No, madame. Look, answer the second question.
+- [00:57:15,240 - 00:57:19,240] Why are we frustrated?
+- [00:57:19,240 - 00:57:24,240] Have you ever asked yourself why you are frustrated?
+- [00:57:24,240 - 00:57:29,240] To answer that question, have you ever asked what is fulfilment?
+- [00:57:29,240 - 00:57:33,240] Why you want to fulfil?
+- [00:57:34,240 - 00:57:39,240] And is there such a thing as fulfilment?
+- [00:57:46,240 - 00:57:48,240] Please, answer it.
+- [00:57:48,240 - 00:57:51,240] This is a discreet question.
+- [00:57:51,240 - 00:57:56,240] Please, answer it. This is a discussion.
+- [00:57:57,240 - 00:58:00,240] Is there such a thing as fulfilment?
+- [00:58:00,240 - 00:58:03,240] What is it that is fulfilling?
+- [00:58:03,240 - 00:58:06,240] The me?
+- [00:58:06,240 - 00:58:09,240] The me that is violent?
+- [00:58:09,240 - 00:58:12,240] The me that is separating?
+- [00:58:12,240 - 00:58:16,240] The me that says, I'm bigger than you?
+- [00:58:16,240 - 00:58:20,240] The me that pursues ambition, fame, notoriety,
+- [00:58:20,240 - 00:58:24,240] what it will, and because it wants to achieve,
+- [00:58:24,240 - 00:58:28,240] therefore it's frustrated when it cannot achieve,
+- [00:58:28,240 - 00:58:30,240] and therefore becomes bitter,
+- [00:58:30,240 - 00:58:35,240] therefore is there such a thing as fulfilment?
+- [00:58:35,240 - 00:58:42,240] Or only the me wanting to expand itself,
+- [00:58:42,240 - 00:58:46,240] and when it cannot expand it feels frustrated,
+- [00:58:46,240 - 00:58:49,240] and therefore bitter.
+- [00:58:49,240 - 00:58:55,240] And that bitterness, that desire to expand is violence.
+- [00:58:58,240 - 00:59:04,240] Now, when you see that, the truth of that,
+- [00:59:04,240 - 00:59:07,240] then there is no fulfilment at all,
+- [00:59:07,240 - 00:59:12,240] therefore there is no frustration. Oh, Lord!
+- [00:59:15,240 - 00:59:16,240] Yes, sir?
+- [00:59:16,240 - 00:59:19,240] Plants and animals are both living things,
+- [00:59:19,240 - 00:59:21,240] they both try to survive.
+- [00:59:21,240 - 00:59:27,240] Do you draw a distinction between killing animals to eat
+- [00:59:27,240 - 00:59:31,240] and killing plants to eat, if so, why?
+- [00:59:33,240 - 00:59:39,240] Personally, I have never eaten meat in all my life.
+- [00:59:39,240 - 00:59:44,240] One has to survive, I don't know why,
+- [00:59:44,240 - 00:59:51,240] so one needs, kills the least thing that is a vegetable.
+- [00:59:51,240 - 00:59:53,240] Right?
+- [00:59:55,240 - 00:59:58,240] And I believe some scientists are gradually coming
+- [00:59:58,240 - 01:00:01,240] to that point of view also.
+- [01:00:01,240 - 01:00:04,240] Then you'll all accept it.
+- [01:00:04,240 - 01:00:08,240] It seems to me the part of the past is the mental pattern of thinking.
+- [01:00:08,240 - 01:00:11,240] And all these questions are Aristotelian thinking,
+- [01:00:11,240 - 01:00:14,240] and you are using non-Aristotelian thinking,
+- [01:00:14,240 - 01:00:16,240] and that seems to be why there is such a gap.
+- [01:00:16,240 - 01:00:19,240] In other words, to look at something is to use a non-Aristotelian...
+- [01:00:19,240 - 01:00:20,240] That's right, sir.
+- [01:00:20,240 - 01:00:23,240] Well, then everyone here is talking Aristotelian thinking,
+- [01:00:23,240 - 01:00:26,240] and you are using a non-Aristotelian thinking.
+- [01:00:26,240 - 01:00:29,240] And that is the reason why there is such a gap.
+- [01:00:30,240 - 01:00:31,240] That's right, sir.
+- [01:00:31,240 - 01:00:33,240] Well, then everyone here is talking Aristotelian
+- [01:00:33,240 - 01:00:35,240] and thinking Aristotelian,
+- [01:00:35,240 - 01:00:37,240] and you are using non-Aristotelian tactics,
+- [01:00:37,240 - 01:00:40,240] and therefore the gap is so complete, I'm amazed.
+- [01:00:40,240 - 01:00:42,240] And I suggest that we all get non-Aristotelian
+- [01:00:42,240 - 01:00:44,240] and then we can commune very closely.
+- [01:00:44,240 - 01:00:47,240] That is the difficulty, sir. I know this.
+- [01:00:49,240 - 01:00:52,240] Just a minute, sir, one moment.
+- [01:00:52,240 - 01:00:55,240] Just a minute, sir, please look at it.
+- [01:00:56,240 - 01:01:00,240] What that gentleman said was,
+- [01:01:01,240 - 01:01:06,240] you are used to one particular formula,
+- [01:01:06,240 - 01:01:10,240] particular series of languages with a certain meaning,
+- [01:01:10,240 - 01:01:18,240] and the speaker has not that particular view.
+- [01:01:18,240 - 01:01:22,240] So the difficulty lies in communication.
+- [01:01:22,240 - 01:01:24,240] And we went into that.
+- [01:01:24,240 - 01:01:28,240] He said the word is not the thing,
+- [01:01:28,240 - 01:01:32,240] the description is not the described,
+- [01:01:32,240 - 01:01:36,240] the explanation is not the explained,
+- [01:01:36,240 - 01:01:40,240] and you keep on sticking to the explanation,
+- [01:01:40,240 - 01:01:43,240] holding on to the word,
+- [01:01:43,240 - 01:01:47,240] and that's why our difficulty is.
+- [01:01:55,240 - 01:02:00,240] We see what violence is in the world.
+- [01:02:00,240 - 01:02:03,240] It's part of fear, part of pleasure,
+- [01:02:03,240 - 01:02:10,240] part of this tremendous drive for excitement.
+- [01:02:12,240 - 01:02:16,240] And we want that,
+- [01:02:16,240 - 01:02:23,240] and therefore we encourage society to give that to us.
+- [01:02:24,240 - 01:02:28,240] And we blame the society,
+- [01:02:29,240 - 01:02:34,240] whereas we are responsible for all this.
+- [01:02:34,240 - 01:02:38,240] And we are saying, asking ourselves,
+- [01:02:38,240 - 01:02:44,240] whether this violence which is such terrific energy,
+- [01:02:44,240 - 01:02:48,240] can that energy be used differently?
+- [01:02:48,240 - 01:02:51,240] Right?
+- [01:02:51,240 - 01:02:56,240] To be violent needs energy.
+- [01:02:58,240 - 01:03:03,240] Now, can that energy be transformed
+- [01:03:03,240 - 01:03:06,240] or moved in another direction?
+- [01:03:06,240 - 01:03:10,240] We are putting the same thing differently.
+- [01:03:14,240 - 01:03:20,240] Now, look, any form of resistance is a waste of energy.
+- [01:03:20,240 - 01:03:23,240] Right?
+- [01:03:24,240 - 01:03:28,240] Because that breeds violence.
+- [01:03:29,240 - 01:03:35,240] Resisting one nation against another nation,
+- [01:03:35,240 - 01:03:39,240] one nation saying, I am better than you,
+- [01:03:39,240 - 01:03:42,240] and so on, resisting.
+- [01:03:42,240 - 01:03:45,240] The resistance between wife and husband,
+- [01:03:45,240 - 01:03:48,240] resistance, you understand,
+- [01:03:48,240 - 01:03:56,240] is energy which breeds division and therefore violence.
+- [01:03:56,240 - 01:04:01,240] Now, understanding that, seeing the truth of that,
+- [01:04:01,240 - 01:04:06,240] that energy now becomes entirely different, doesn't it?
+- [01:04:06,240 - 01:04:09,240] No?
+- [01:04:09,240 - 01:04:12,240] Mark, K.
+- [01:04:12,240 - 01:04:17,240] Q. How can a person observe the balance between
+- [01:04:17,240 - 01:04:21,240] the power of the mind and the existence of the person?
+- [01:04:21,240 - 01:04:23,240] K. All right, that's a good question.
+- [01:04:23,240 - 01:04:29,240] How can one observe the total process,
+- [01:04:29,240 - 01:04:31,240] the totality of anything,
+- [01:04:31,240 - 01:04:39,240] without the division, without resistance?
+- [01:04:39,240 - 01:04:42,240] Right?
+- [01:04:45,240 - 01:04:51,240] Have you ever observed totally anything?
+- [01:04:52,240 - 01:04:56,240] Anything, it doesn't matter what.
+- [01:04:56,240 - 01:05:04,240] An ant moving across the floor, have you watched it totally?
+- [01:05:04,240 - 01:05:10,240] Or do you step on it, or throw it out?
+- [01:05:10,240 - 01:05:15,240] Have you watched it very, very closely?
+- [01:05:15,240 - 01:05:19,240] I am afraid you haven't.
+- [01:05:20,240 - 01:05:24,240] Have you ever watched a tree totally?
+- [01:05:24,240 - 01:05:27,240] Which means not saying how beautiful it is,
+- [01:05:27,240 - 01:05:31,240] or how ugly it is, or I wish I had it in my garden.
+- [01:05:31,240 - 01:05:35,240] Have you ever watched it totally?
+- [01:05:35,240 - 01:05:39,240] Have you ever watched the cloud with the light on it,
+- [01:05:39,240 - 01:05:42,240] marvellous sight, completely?
+- [01:05:42,240 - 01:05:47,240] Or you say, this lovely cloud, let's go and have tea.
+- [01:05:48,240 - 01:05:50,240] No, sir, do look at it.
+- [01:05:50,240 - 01:05:54,240] Have you ever watched your wife totally, or husband?
+- [01:05:54,240 - 01:05:57,240] No, sir.
+- [01:05:57,240 - 01:06:03,240] And therefore if you watch totally there is no resistance.
+- [01:06:03,240 - 01:06:08,240] It is this inattention that breeds resistance.
+- [01:06:08,240 - 01:06:11,240] Oh, come on, sir.
+- [01:06:11,240 - 01:06:14,240] Q. When you look at another person totally,
+- [01:06:14,240 - 01:06:17,240] doesn't it seem to make them uncomfortable?
+- [01:06:17,240 - 01:06:21,240] K. Ah, when you watch a person totally,
+- [01:06:21,240 - 01:06:25,240] you make the other person rather uncomfortable.
+- [01:06:25,240 - 01:06:28,240] I am afraid you do,
+- [01:06:28,240 - 01:06:33,240] because they don't want you to look at him totally.
+- [01:06:33,240 - 01:06:37,240] But you can do it casually.
+- [01:06:49,240 - 01:06:52,240] So, please, sir, come back.
+- [01:06:53,240 - 01:06:56,240] What we are discussing is really quite serious,
+- [01:06:56,240 - 01:06:59,240] I wish you would pay attention to it.
+- [01:06:59,240 - 01:07:01,240] You want to be entertained, I am afraid,
+- [01:07:01,240 - 01:07:06,240] I am not the kind of person who wants to entertain.
+- [01:07:07,240 - 01:07:14,240] Q. Sir, non-violence that is absolute is another thing.
+- [01:07:14,240 - 01:07:19,240] Violence itself is an aberration of what it could be.
+- [01:07:20,240 - 01:07:24,240] K. Yes, if you want to put it that way.
+- [01:07:25,240 - 01:07:29,240] Sir, look, what we are saying is,
+- [01:07:29,240 - 01:07:33,240] violence is a form of energy.
+- [01:07:39,240 - 01:07:43,240] And love is also a form of energy.
+- [01:07:43,240 - 01:07:48,240] Love without jealousy, without anxiety, without fear,
+- [01:07:48,240 - 01:07:55,240] without bitterness, without all the agony that goes with love.
+- [01:07:58,240 - 01:08:02,240] Now, violence is energy,
+- [01:08:02,240 - 01:08:08,240] love hedged about, surrounded, contained with jealousy,
+- [01:08:08,240 - 01:08:12,240] all that, is another form of energy.
+- [01:08:12,240 - 01:08:17,240] Now, to transcend both, go beyond both,
+- [01:08:17,240 - 01:08:20,240] is also another energy.
+- [01:08:20,240 - 01:08:24,240] It is the same energy moving totally in a different direction
+- [01:08:24,240 - 01:08:28,240] and dimension. Right?
+- [01:08:28,240 - 01:08:31,240] Q. But wouldn't both of those energies be the same?
+- [01:08:31,240 - 01:08:36,240] K. We are saying that, sir. No, we are saying, look, sir.
+- [01:08:36,240 - 01:08:40,240] Non-Aristotelian language.
+- [01:08:40,240 - 01:08:45,240] Q. No, I am saying, is love with jealousy, is actually violence?
+- [01:08:45,240 - 01:08:47,240] K. Of course it is.
+- [01:08:47,240 - 01:08:50,240] Q. So in other words, you have two energies and you have the violence.
+- [01:08:50,240 - 01:08:53,240] K. It is the same energy, sir.
+- [01:08:53,240 - 01:08:56,240] Madame, let's say more...
+- [01:08:56,240 - 01:09:04,240] Q. At what stage and under what conditions is a certain individual
+- [01:09:04,240 - 01:09:08,240] to go into psychic practices and experiences,
+- [01:09:08,240 - 01:09:13,240] and to what extent? Please.
+- [01:09:16,240 - 01:09:20,240] K. What are you saying, madame?
+- [01:09:20,240 - 01:09:23,240] Q. When should we have psychic experience?
+- [01:09:23,240 - 01:09:29,240] K. When should we have psychic experience?
+- [01:09:29,240 - 01:09:33,240] What has that to do with violence?
+- [01:09:33,240 - 01:09:36,240] Do, please, just listen.
+- [01:09:36,240 - 01:09:41,240] When should you have psychic experience?
+- [01:09:44,240 - 01:09:48,240] Never.
+- [01:09:50,240 - 01:09:54,240] Do you know what it means to have psychic experiences?
+- [01:09:55,240 - 01:10:00,240] Do you know what it means to have psychic experiences?
+- [01:10:00,240 - 01:10:08,240] To have the experience, extra-sensory, perceptive experience,
+- [01:10:08,240 - 01:10:13,240] you must be extraordinarily mature,
+- [01:10:14,240 - 01:10:17,240] you must be extraordinarily sensitive,
+- [01:10:17,240 - 01:10:21,240] and therefore extraordinarily intelligent.
+- [01:10:21,240 - 01:10:24,240] And if you are extraordinarily intelligent,
+- [01:10:24,240 - 01:10:28,240] you don't want psychic experiences.
+- [01:10:34,240 - 01:10:37,240] Sirs, do look.
+- [01:10:37,240 - 01:10:41,240] Give your heart to this, please,
+- [01:10:41,240 - 01:10:48,240] because human beings are destroying each other through violence.
+- [01:10:48,240 - 01:10:50,240] The husband is destroying the wife,
+- [01:10:50,240 - 01:10:53,240] and the wife is destroying the husband,
+- [01:10:53,240 - 01:10:57,240] though they sleep together, walk together.
+- [01:11:00,240 - 01:11:04,240] Each lives in isolation,
+- [01:11:04,240 - 01:11:08,240] with his own problems, with his own anxieties,
+- [01:11:08,240 - 01:11:12,240] and this isolation is violence.
+- [01:11:13,240 - 01:11:17,240] Now, when you see all this so clearly in front of you,
+- [01:11:17,240 - 01:11:21,240] see it, not just think about it.
+- [01:11:22,240 - 01:11:27,240] When you see the danger of it, you act, don't you?
+- [01:11:27,240 - 01:11:33,240] Look, when you see a dangerous animal, you act, don't you?
+- [01:11:33,240 - 01:11:35,240] There is no hesitation,
+- [01:11:35,240 - 01:11:39,240] there is no argument between you and the animal.
+- [01:11:39,240 - 01:11:44,240] You just act, you run away or do something.
+- [01:11:44,240 - 01:11:48,240] Here we are arguing.
+- [01:11:48,240 - 01:11:53,240] You don't see the tremendous danger of violence.
+- [01:11:53,240 - 01:11:58,240] You only see the end result of violence, which is the bomb.
+- [01:12:03,240 - 01:12:06,240] So if you actually, with your heart,
+- [01:12:06,240 - 01:12:11,240] see the nature of violence and see the danger of it,
+- [01:12:11,240 - 01:12:15,240] you are finished with it.
+- [01:12:16,240 - 01:12:21,240] But you see, now how can one point out the danger of it
+- [01:12:21,240 - 01:12:25,240] if you don't want to see it?
+- [01:12:25,240 - 01:12:32,240] Either Aristotelian, non-Aristotelian language won't help you.
+- [01:12:32,240 - 01:12:35,240] Yes, sir?
+- [01:12:35,240 - 01:12:40,240] Q. There have been groups in India, here and other places
+- [01:12:40,240 - 01:12:44,240] where living in a society which is violent,
+- [01:12:44,240 - 01:12:49,240] they said, we will not be violent.
+- [01:12:49,240 - 01:12:52,240] K. Yes, sir.
+- [01:12:52,240 - 01:12:56,240] Q. There are groups in India, here and other places
+- [01:12:56,240 - 01:12:59,240] where living in a society which is violent,
+- [01:12:59,240 - 01:13:03,240] they said, we will not be violent.
+- [01:13:03,240 - 01:13:07,240] But we are going much further than that.
+- [01:13:07,240 - 01:13:11,240] They may not have violence against the community,
+- [01:13:11,240 - 01:13:16,240] but they are violent in themselves.
+- [01:13:16,240 - 01:13:19,240] You don't see the point.
+- [01:13:19,240 - 01:13:24,240] Q. Sir, I feel that I see what you are saying,
+- [01:13:24,240 - 01:13:28,240] and I have tried that, of watching violence in myself
+- [01:13:28,240 - 01:13:31,240] about naming.
+- [01:13:31,240 - 01:13:33,240] The gentleman who asked the first question
+- [01:13:33,240 - 01:13:36,240] about having been in a concentration camp,
+- [01:13:36,240 - 01:13:41,240] being a vegetarian, how do we meet violence?
+- [01:13:41,240 - 01:13:48,240] I feel like, how do we meet violence in other people?
+- [01:13:48,240 - 01:13:50,240] Do we do it in the same way?
+- [01:13:50,240 - 01:13:53,240] K. How do you meet violence in other people?
+- [01:13:53,240 - 01:13:58,240] That is really quite a difficult problem, isn't it?
+- [01:14:00,240 - 01:14:05,240] My neighbour is violent, violent towards me,
+- [01:14:05,240 - 01:14:10,240] how shall I deal with him?
+- [01:14:10,240 - 01:14:15,240] Turn the other cheek? He is delighted.
+- [01:14:18,240 - 01:14:21,240] What shall I do?
+- [01:14:21,240 - 01:14:25,240] If you ask that question – do please, I am asking this seriously –
+- [01:14:25,240 - 01:14:32,240] would you ask that question if there was no violence in you?
+- [01:14:34,240 - 01:14:38,240] No, do listen, sir, please do listen to this question.
+- [01:14:38,240 - 01:14:44,240] If in your heart, in your mind there is no violence at all,
+- [01:14:44,240 - 01:14:48,240] not a spot, no hate, no bitterness,
+- [01:14:48,240 - 01:14:52,240] no sense of fulfilment, no wanting to be famous,
+- [01:14:52,240 - 01:14:57,240] you know, no violence at all.
+- [01:14:58,240 - 01:15:02,240] Would you ask that question how you would meet the neighbour
+- [01:15:02,240 - 01:15:04,240] who is violent,
+- [01:15:04,240 - 01:15:10,240] or you would know then what to do with your neighbour?
+- [01:15:10,240 - 01:15:15,240] Others may call what you do violent,
+- [01:15:15,240 - 01:15:20,240] but you may not be violent. You follow?
+- [01:15:20,240 - 01:15:23,240] You have no violence.
+- [01:15:23,240 - 01:15:27,240] And at the moment your neighbour acts violently,
+- [01:15:27,240 - 01:15:31,240] you will know how to deal with it.
+- [01:15:31,240 - 01:15:34,240] But the third person watching you might say,
+- [01:15:34,240 - 01:15:38,240] by Jove, you are also violent.
+- [01:15:38,240 - 01:15:43,240] But you know you are not violent.
+- [01:15:43,240 - 01:15:48,240] So what is important is to be for yourself
+- [01:15:48,240 - 01:15:52,240] completely without violence.
+- [01:15:52,240 - 01:15:56,240] And it doesn't matter what another calls you.
+- [01:15:56,240 - 01:16:00,240] You know it, you know it, you know it.
+- [01:16:00,240 - 01:16:04,240] It doesn't matter what another calls you.
+- [01:16:04,240 - 01:16:08,240] You know in your heart you are not.
+- [01:16:12,240 - 01:16:18,240] Q. Isn't the belief in the unity of all things
+- [01:16:18,240 - 01:16:24,240] just as human as the belief in the division of all things?
+- [01:16:24,240 - 01:16:29,240] K. Belief in the unity of all human beings.
+- [01:16:30,240 - 01:16:34,240] No, sir, don't believe.
+- [01:16:34,240 - 01:16:40,240] Why do you want to believe in the unity of all human beings?
+- [01:16:42,240 - 01:16:47,240] We are not united, that is a fact.
+- [01:16:47,240 - 01:16:53,240] Why do you want to believe in something which is non-factual?
+- [01:16:53,240 - 01:16:57,240] Sir, that brings up the whole question of belief.
+- [01:16:57,240 - 01:16:59,240] You see, that is just it.
+- [01:16:59,240 - 01:17:04,240] You have your belief and another has his belief.
+- [01:17:04,240 - 01:17:09,240] And we are fighting, killing each other for belief.
+- [01:17:09,240 - 01:17:13,240] The communist has his belief, Stalin had his belief,
+- [01:17:13,240 - 01:17:17,240] and he destroyed millions.
+- [01:17:18,240 - 01:17:23,240] Now, why do you have any belief at all?
+- [01:17:24,240 - 01:17:28,240] You have belief because you are afraid.
+- [01:17:30,240 - 01:17:33,240] No?
+- [01:17:33,240 - 01:17:37,240] Do you believe that the sun rises?
+- [01:17:37,240 - 01:17:42,240] It is there to see it, you don't have to believe.
+- [01:17:42,240 - 01:17:47,240] So belief is a form of division,
+- [01:17:47,240 - 01:17:52,240] therefore belief is violence.
+- [01:17:56,240 - 01:18:04,240] So the mind, to be free of violence, implies all this,
+- [01:18:04,240 - 01:18:11,240] freedom from everything that man has put into another man.
+- [01:18:12,240 - 01:18:18,240] Belief, dogma, rituals, my country, your country,
+- [01:18:18,240 - 01:18:24,240] your god and my god, my opinion, your opinion, my ideal,
+- [01:18:24,240 - 01:18:29,240] all those help to divide human beings
+- [01:18:29,240 - 01:18:34,240] and therefore breed violence.
+- [01:18:34,240 - 01:18:38,240] And though religions have said, organised religions have said,
+- [01:18:38,240 - 01:18:43,240] have said, preached unity of mankind,
+- [01:18:45,240 - 01:18:49,240] each religion thinks it is far superior than the other,
+- [01:18:49,240 - 01:18:55,240] the Baptists against the – you know, you know it all very well.
+- [01:18:57,240 - 01:19:02,240] Q. Sir, who said unity of all things?
+- [01:19:03,240 - 01:19:07,240] K. Who said unity of all things?
+- [01:19:07,240 - 01:19:11,240] Sir, there is a unity of all things
+- [01:19:11,240 - 01:19:14,240] only when you know what love is.
+- [01:19:14,240 - 01:19:17,240] When there is love in your heart you will know it,
+- [01:19:17,240 - 01:19:19,240] don't talk about unity.
+- [01:19:19,240 - 01:19:24,240] When you are destroying your neighbour, don't talk about unity.
+- [01:19:24,240 - 01:19:29,240] Q. But sir, you have spoken now of freedom,
+- [01:19:29,240 - 01:19:32,240] you have spoken of freedom from.
+- [01:19:32,240 - 01:19:36,240] Can you tell us about freedom to?
+- [01:19:36,240 - 01:19:40,240] K. You have talked about freedom from.
+- [01:19:40,240 - 01:19:45,240] Will you say something about freedom to?
+- [01:19:45,240 - 01:19:50,240] Freedom from or freedom to is not freedom.
+- [01:19:50,240 - 01:19:55,240] Freedom is freedom, not from something towards something.
+- [01:19:55,240 - 01:19:58,240] Right?
+- [01:19:58,240 - 01:20:01,240] Q. I interpreted what you were talking about in unity
+- [01:20:01,240 - 01:20:05,240] that those who preach unity are actually aiding the division.
+- [01:20:05,240 - 01:20:08,240] K. Quite right, sir.
+- [01:20:08,240 - 01:20:11,240] Q. Is the actual understanding of this
+- [01:20:11,240 - 01:20:15,240] the relative scene and the effect that you actually understand?
+- [01:20:15,240 - 01:20:18,240] K. Yes, sir.
+- [01:20:18,240 - 01:20:23,240] Sir, look, when you see danger you do, you act.
+- [01:20:23,240 - 01:20:29,240] If you see the danger of violence, see it, you then act,
+- [01:20:29,240 - 01:20:32,240] but you don't see the danger of violence
+- [01:20:32,240 - 01:20:35,240] because you are used to it, like belief.
+- [01:20:35,240 - 01:20:39,240] You say, yes, why shouldn't I believe?
+- [01:20:39,240 - 01:20:42,240] My opinion is as good as yours,
+- [01:20:43,240 - 01:20:47,240] my opinion is as good as your opinion.
+- [01:20:47,240 - 01:20:54,240] So, any divisive, dividing element in human beings
+- [01:20:54,240 - 01:20:58,240] is productive of violence.
+- [01:20:58,240 - 01:21:03,240] If one realises, understands that,
+- [01:21:03,240 - 01:21:10,240] and then one watches – belief, will, desire to fulfil, to become,
+- [01:21:10,240 - 01:21:16,240] you follow? – all these are breed violence,
+- [01:21:16,240 - 01:21:18,240] which doesn't mean at the end of it
+- [01:21:18,240 - 01:21:22,240] you live a vegetable kind of life.
+- [01:21:22,240 - 01:21:29,240] On the contrary, you live in a totally different dimension,
+- [01:21:29,240 - 01:21:34,240] which we'll talk about tomorrow when we talk about meditation.
+- [01:21:34,240 - 01:21:39,240] Q. Sir, you've established that elimination of violence
+- [01:21:39,240 - 01:21:43,240] will make it possible for everyone to be able to cope
+- [01:21:43,240 - 01:21:45,240] with the material existence much easier.
+- [01:21:45,240 - 01:21:49,240] In other words, to be able to completely eliminate the ego self.
+- [01:21:49,240 - 01:21:53,240] Well, that's all very fine and it's very good,
+- [01:21:53,240 - 01:21:56,240] but are you saying that this is the purpose for human life,
+- [01:21:56,240 - 01:21:59,240] this is our purpose for living,
+- [01:21:59,240 - 01:22:03,240] is just to be able to cope with the material existence?
+- [01:22:03,240 - 01:22:10,240] Partly, sir, but also when you say,
+- [01:22:10,240 - 01:22:14,240] is this the purpose of living?
+- [01:22:15,240 - 01:22:19,240] Why do you want a purpose for living?
+- [01:22:19,240 - 01:22:24,240] Living is its own purpose.
+- [01:22:24,240 - 01:22:27,240] Why do you want a purpose?
+- [01:22:27,240 - 01:22:33,240] You see, again, look at it. Look, sir, what we have done.
+- [01:22:33,240 - 01:22:39,240] Each one has his own purpose. Right?
+- [01:22:39,240 - 01:22:44,240] The religious man, his purpose, the scientist, his purpose,
+- [01:22:44,240 - 01:22:50,240] the family, its purpose, and so on, divide it.
+- [01:22:50,240 - 01:22:57,240] So, the life of a man who has a purpose is breeding violence,
+- [01:22:57,240 - 01:23:00,240] because they divide.
+- [01:23:00,240 - 01:23:06,240] Sir, it's all so clear and simple when you see the fact.
+- [01:23:06,240 - 01:23:11,240] Q. Sir, you've employed the tool of reason and logic up to this point,
+- [01:23:11,240 - 01:23:13,240] and probably throughout your entire lifetime,
+- [01:23:13,240 - 01:23:16,240] to answer the questions that have come up in your mind.
+- [01:23:16,240 - 01:23:19,240] Have you never reached a point to where you have found
+- [01:23:19,240 - 01:23:23,240] a definite limitation to reason and logic?
+- [01:23:23,240 - 01:23:27,240] K. Sir, I hope I'm not logical.
+- [01:23:27,240 - 01:23:32,240] Logic must go to a certain extent.
+- [01:23:32,240 - 01:23:39,240] One must think logically, sanely, healthily, up to a point, reason.
+- [01:23:39,240 - 01:23:44,240] But after that, beyond that, there is much more.
+- [01:23:44,240 - 01:23:47,240] Q. And you're saying that there is such a thing as an intuitional life.
+- [01:23:47,240 - 01:23:49,240] K. Ah, wait a minute.
+- [01:23:49,240 - 01:23:54,240] Now, when you use the word intuition, that's a dangerous word.
+- [01:23:57,240 - 01:24:02,240] Intuition may be your own desire, your own wish,
+- [01:24:02,240 - 01:24:07,240] saying, and you can say, that's my intuition.
+- [01:24:07,240 - 01:24:13,240] What we are talking about is living a life in this world,
+- [01:24:13,240 - 01:24:20,240] not escaping from this world, a life of non-violence,
+- [01:24:20,240 - 01:24:26,240] a life, a really truly religious life,
+- [01:24:26,240 - 01:24:30,240] not an intuitive life,
+- [01:24:31,240 - 01:24:37,240] a life in which there is no conflict,
+- [01:24:37,240 - 01:24:42,240] and a mind that's completely silent.
+- [01:24:42,240 - 01:24:46,240] Again, we'll go into that when we talk about meditation.
+- [01:24:46,240 - 01:24:50,240] Q. You said that life should be complete order,
+- [01:24:50,240 - 01:24:54,240] and that complete order is precise in mathematics.
+- [01:24:54,240 - 01:24:58,240] Therefore, wouldn't life in complete order be logical,
+- [01:24:58,240 - 01:25:01,240] because mathematics is logical?
+- [01:25:01,240 - 01:25:05,240] K. Sir, sir, when I said mathematical, I said in the sense,
+- [01:25:05,240 - 01:25:12,240] you know, the highest form of mathematics is surely order.
+- [01:25:16,240 - 01:25:19,240] Only in that sense. Yes, madame?
+- [01:25:19,240 - 01:25:22,240] Q. Last night you spoke of disorder,
+- [01:25:22,240 - 01:25:26,240] and when one realises it is disorder,
+- [01:25:26,240 - 01:25:34,240] and, you know, he can learn, if he looks at disorder,
+- [01:25:34,240 - 01:25:39,240] and he can find order through that, and learn the discipline,
+- [01:25:39,240 - 01:25:43,240] and in a way become enlightened, because you are just being aware,
+- [01:25:43,240 - 01:25:46,240] you're not naming it like when somebody calls you an ass,
+- [01:25:46,240 - 01:25:48,240] and you become aware.
+- [01:25:48,240 - 01:25:51,240] But then, why sometimes do people,
+- [01:25:51,240 - 01:25:53,240] even when they're endowed with this new freshness,
+- [01:25:53,240 - 01:25:57,240] all of a sudden there's a lack of carrying it out,
+- [01:25:57,240 - 01:26:02,240] carrying out the action, kind of falls back and becomes stagnant?
+- [01:26:03,240 - 01:26:05,240] K. You are asking, are you, madame,
+- [01:26:05,240 - 01:26:09,240] why isn't one enlightened all the time?
+- [01:26:09,240 - 01:26:11,240] Q. Why?
+- [01:26:11,240 - 01:26:14,240] K. Isn't that it?
+- [01:26:14,240 - 01:26:17,240] Q. Well, it seems like it's a ladder.
+- [01:26:17,240 - 01:26:23,240] K. Why doesn't enlightenment last a long time?
+- [01:26:23,240 - 01:26:28,240] Why doesn't intelligence function all the time?
+- [01:26:29,240 - 01:26:33,240] Why does one occasionally become stupid?
+- [01:26:37,240 - 01:26:41,240] You know, you see, at the end of this talk
+- [01:26:41,240 - 01:26:45,240] you will go away being violent.
+- [01:26:46,240 - 01:26:50,240] What's the point of meeting together
+- [01:26:50,240 - 01:26:56,240] if this remains in your heart and in your mind?
+- [01:26:57,240 - 01:27:03,240] We spent an hour and a half trying to see what violence is,
+- [01:27:03,240 - 01:27:10,240] and understanding it and really eliminating it, going beyond it.
+- [01:27:11,240 - 01:27:16,240] Sir, it's half past twelve. Don't you think we'd better stop?
+- [01:27:16,240 - 01:27:20,240] Yes, sir. Just one more question, that'll be enough.
+- [01:27:20,240 - 01:27:25,240] Q. I would like to hear you express yourself.
+- [01:27:25,240 - 01:27:32,240] You said there you receive energy from violence.
+- [01:27:32,240 - 01:27:37,240] Isn't the selfless love of one brother to another
+- [01:27:37,240 - 01:27:41,240] the deadliest weapon in the world
+- [01:27:41,240 - 01:27:47,240] because of people's total inability to energise themselves in this?
+- [01:27:47,240 - 01:27:51,240] And can you not take the hate
+- [01:27:51,240 - 01:27:56,240] and energise that hate and return love?
+- [01:27:56,240 - 01:27:58,240] K. I don't quite understand, sir.
+- [01:27:58,240 - 01:28:00,240] Q. I don't quite understand it myself.
+- [01:28:00,240 - 01:28:04,240] I'm trying to get my head in this place.
+- [01:28:05,240 - 01:28:09,240] Love, I'm convinced, is the deadliest weapon in the world.
+- [01:28:09,240 - 01:28:13,240] And when you're coping with a neighbour that's violent,
+- [01:28:13,240 - 01:28:16,240] can you not take that violence
+- [01:28:16,240 - 01:28:20,240] and use it as a source of energy to return love?
+- [01:28:20,240 - 01:28:24,240] K. No, sir, I don't quite see this point.
+- [01:28:24,240 - 01:28:33,240] Look, sir, I'm your neighbour, you hate me, or I hate you.
+- [01:28:34,240 - 01:28:40,240] And you say to me, you're asking whether you cannot take my hate
+- [01:28:40,240 - 01:28:43,240] and turn that energy into love
+- [01:28:43,240 - 01:28:50,240] and respond to man who hates with love. Is that it?
+- [01:28:50,240 - 01:28:56,240] Q. When you return love, if the only way you can...
+- [01:28:56,240 - 01:29:02,240] Really, when I asked this question, I wanted your awareness on this.
+- [01:29:02,240 - 01:29:08,240] To be able to take violence and hatred and use that as a...
+- [01:29:08,240 - 01:29:11,240] K. Why should I use it, sir?
+- [01:29:11,240 - 01:29:13,240] Q. To be able to cope with it.
+- [01:29:13,240 - 01:29:20,240] K. We dealt with that question just now when the gentleman asked,
+- [01:29:20,240 - 01:29:24,240] what shall I do if there is no violence in me
+- [01:29:24,240 - 01:29:28,240] when my neighbour is violent?
+- [01:29:28,240 - 01:29:31,240] To that we said,
+- [01:29:31,240 - 01:29:35,240] if you really have no sense of violence,
+- [01:29:35,240 - 01:29:39,240] then you will know what to do when your neighbour is violent.
+- [01:29:39,240 - 01:29:45,240] Don't determine now what you will do.
+- [01:29:45,240 - 01:29:52,240] Don't have a formula for a life which is not violent.
+- [01:29:52,240 - 01:29:58,240] If you have a formula, then that very formula is breeding violence.
+- [01:29:58,240 - 01:30:01,240] I think you better stop, sir.
