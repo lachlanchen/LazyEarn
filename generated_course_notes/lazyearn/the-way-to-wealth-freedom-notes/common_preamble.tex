@@ -15,6 +15,7 @@
 \usepackage{float}
 \usepackage{adjustbox}
 \usepackage{tikz}
+\usetikzlibrary{arrows.meta,calc,positioning,shapes.geometric}
 
 \setmainfont{Latin Modern Roman}
 \newfontfamily\cjkfont{Noto Serif CJK SC}
@@ -37,6 +38,10 @@
 
 \newenvironment{sourceinsight}{\begin{quote}\small\itshape}{\end{quote}}
 \newcommand{\chapterdivider}{\par\medskip\hrule\medskip}
+\tikzset{
+  materialbox/.style={draw=black!18, rounded corners=5pt, fill=blue!4, inner sep=6pt, align=center},
+  materialarrow/.style={-{Latex[length=2.5mm]}, line width=0.55pt, draw=black!55}
+}
 
 \makeatletter
 \newcommand{\material@headerfont}{\normalfont\footnotesize\itshape}
