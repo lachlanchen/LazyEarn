@@ -1,0 +1,24 @@
+{
+  "course_rel": "lazyearn/mit-nuts-and-bolts-of-new-ventures",
+  "transcript_rel": "lazyearn/mit-nuts-and-bolts-of-new-ventures/004 - Session 3, Part 1\uff1a Legal Issues [OAEGRRcwt9M].md",
+  "video_rel": "lazyearn/mit-nuts-and-bolts-of-new-ventures/004 - Session 3, Part 1\uff1a Legal Issues [OAEGRRcwt9M].webm",
+  "lecture_number": 4,
+  "lecture_slug": "lecture_04",
+  "lecture_title": "Session 3, Part 1\uff1a Legal Issues",
+  "assets": [
+    {
+      "name": "lecture_04_figure_04.png",
+      "timestamp_seconds": 4698.66,
+      "timestamp_hhmmss": "01:18:18.660",
+      "source_candidate": "lecture_04_window_06_candidate_03_011818660.png",
+      "recommended_use": "screenshot_plus_tikz",
+      "rationale": "Candidate 03 is the first frame in which the slide's diagram is no longer empty: the axes are fully visible and the first plotted label, \"TECHNICAL,\" has appeared. That makes it more useful than candidates 01 and 02, which show only a blank chart, while candidate 04 offers no meaningful improvement over 03. This frame is sharp, complete, and captures both the slide text and the partially built diagram the lecturer is referring to.",
+      "subtitle_excerpt": "who gets what I showed you this diagram the other",
+      "segment_start_seconds": 4696.86,
+      "segment_start_hhmmss": "01:18:16.860",
+      "segment_end_seconds": 4699.63,
+      "segment_end_hhmmss": "01:18:19.630",
+      "caption_hint": "Section 83 trap timing-priority chart"
+    }
+  ]
+}
