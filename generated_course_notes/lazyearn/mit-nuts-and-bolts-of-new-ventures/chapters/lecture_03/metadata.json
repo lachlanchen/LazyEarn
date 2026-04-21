@@ -1,0 +1,24 @@
+{
+  "course_rel": "lazyearn/mit-nuts-and-bolts-of-new-ventures",
+  "transcript_rel": "lazyearn/mit-nuts-and-bolts-of-new-ventures/003 - Session 2, Part 2\uff1a How Are You Going to Make Money\uff1f\u2014The Business\u29f8Venture Model [wzC4PddpFnA].md",
+  "video_rel": "lazyearn/mit-nuts-and-bolts-of-new-ventures/003 - Session 2, Part 2\uff1a How Are You Going to Make Money\uff1f\u2014The Business\u29f8Venture Model [wzC4PddpFnA].webm",
+  "lecture_number": 3,
+  "lecture_slug": "lecture_03",
+  "lecture_title": "Session 2, Part 2\uff1a How Are You Going to Make Money\uff1f\u2014The Business\u29f8Venture Model",
+  "assets": [
+    {
+      "name": "lecture_03_figure_02.png",
+      "timestamp_seconds": 2577.002,
+      "timestamp_hhmmss": "00:42:57.002",
+      "source_candidate": "lecture_03_window_06_candidate_01_004257002.png",
+      "recommended_use": "screenshot_plus_tikz",
+      "rationale": "This frame shows the full slide sharply and completely, with all four surrounding labels legible and the central MedTech diagram unobstructed. The other candidates appear essentially identical, so the earliest clean full-slide frame is the best pick.",
+      "subtitle_excerpt": "or brand new company that's going to be spinning out",
+      "segment_start_seconds": 2576.678,
+      "segment_start_hhmmss": "00:42:56.678",
+      "segment_end_seconds": 2579.377,
+      "segment_end_hhmmss": "00:42:59.377",
+      "caption_hint": "MedTech slide with four value dimensions"
+    }
+  ]
+}
