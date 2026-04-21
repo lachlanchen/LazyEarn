@@ -1,0 +1,22 @@
+{
+  "tool": "scripts/book_cover_nanobanana.py",
+  "created_at": "2026-04-22T07:19:47+08:00",
+  "output_dir": "/home/lachlan/ProjectsLFS/LazyEarn/generated_course_notes/lazyearn/jiddu-krishnamurti/how-you-got-happiness/dynamic_book/cover",
+  "prompt_file": "/home/lachlan/ProjectsLFS/LazyEarn/generated_course_notes/lazyearn/jiddu-krishnamurti/how-you-got-happiness/dynamic_book/cover/prompt.txt",
+  "request_payload_redacted": "/home/lachlan/ProjectsLFS/LazyEarn/generated_course_notes/lazyearn/jiddu-krishnamurti/how-you-got-happiness/dynamic_book/cover/request_payload.redacted.json",
+  "host": "https://grsaiapi.com",
+  "model": "nano-banana-2",
+  "aspect_ratio": "2:3",
+  "image_size": "2K",
+  "reference_images": [],
+  "status": "succeeded",
+  "task_id": "7-abac58fc-33ab-4641-ab21-90b0de87b54d",
+  "submitted_at": "2026-04-22T07:19:47+08:00",
+  "finished_at": "2026-04-22T07:20:41+08:00",
+  "downloaded_files": [
+    "/home/lachlan/ProjectsLFS/LazyEarn/generated_course_notes/lazyearn/jiddu-krishnamurti/how-you-got-happiness/dynamic_book/cover/cover-art.png"
+  ],
+  "result_urls": [
+    "https://file4.aitohumanize.com/file/0b4fd10e470b496cbb68b2bf5ccf8ddb.png"
+  ]
+}

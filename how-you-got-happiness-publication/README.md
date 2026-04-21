@@ -8,6 +8,8 @@ This shelf publishes the completed Krishnamurti happiness book built from three 
 - [How You Got Happiness? pocket 1.2x PDF](how-you-got-happiness-pocket-1.2x.pdf)
 - [Lecture-by-lecture source notes PDF](how-you-got-happiness-course-notes.pdf)
 
+The dynamic book uses a dedicated Video2Book nanobanana cover. The lecture-by-lecture source notes keep the original clean TeX cover.
+
 ## Preview
 
 [![How You Got Happiness? first page](cover-page-1.png)](how-you-got-happiness.pdf)

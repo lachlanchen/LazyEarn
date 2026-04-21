@@ -1,0 +1,40 @@
+\hypersetup{pageanchor=false}
+\begin{titlepage}
+\thispagestyle{empty}
+\begin{tikzpicture}[remember picture,overlay]
+  \node[anchor=center,inner sep=0] at (current page.center) {%
+    \includegraphics[width=\paperwidth,height=\paperheight]{cover-art.png}%
+  };
+  \node[
+    anchor=north west,
+    align=left,
+    text width=0.76\paperwidth,
+    fill=white,
+    fill opacity=0.78,
+    text opacity=1,
+    rounded corners=10pt,
+    inner xsep=14pt,
+    inner ysep=12pt
+  ] at ([xshift=0.09\paperwidth,yshift=-0.075\paperheight]current page.north west) {%
+    {\fontsize{34}{38}\selectfont\bfseries\color{black!90} How You Got\\Happiness?\\[0.5em]}
+    {\large\color{black!72} A nonlinear Krishnamurti book on pleasure, fear, attention, meditation, transformation, and the sacred}
+  };
+  \node[
+    anchor=south west,
+    align=left,
+    text width=0.70\paperwidth,
+    fill=white,
+    fill opacity=0.72,
+    text opacity=1,
+    rounded corners=8pt,
+    inner xsep=12pt,
+    inner ysep=10pt
+  ] at ([xshift=0.09\paperwidth,yshift=0.075\paperheight]current page.south west) {%
+    {\normalsize\color{black!80} J. Krishnamurti\\[0.35em]}
+    {\small\color{black!72} Dynamic manuscript organized by \href{https://lazying.art}{LazyingArt LLC} with \href{https://github.com/lachlanchen/Video2Book}{Video2Book}. Source material preserved by the Krishnamurti Foundation Trust.}
+  };
+\end{tikzpicture}
+\mbox{}
+\end{titlepage}
+\hypersetup{pageanchor=true}
+\clearpage
