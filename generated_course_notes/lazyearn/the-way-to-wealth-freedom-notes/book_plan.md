@@ -1,6 +1,6 @@
 # The Way to Wealth Freedom - Material Book Plan
 
-This book is written one source note at a time, but each chapter must keep the full corpus arc in view.
+This book is written one reference entry at a time, but each chapter must keep the full corpus arc in view.
 
 ## Whole-Corpus Context
 
@@ -9,7 +9,7 @@ This book is written one source note at a time, but each chapter must keep the f
 - README path: `/home/lachlan/ProjectsLFS/LazyEarn/materials/the-way-to-wealth-freedom-notes/README.md`
 - Before writing a chapter, inspect the full ordered source list and the already generated chapters.
 - Preserve the source sequence as evidence, but write the book as a coherent wealth-freedom argument.
-- Repetition across source notes can become reinforcing evidence; do not delete prior substance just to avoid repetition.
+- Repetition across reference entries can become reinforcing evidence; do not delete prior substance just to avoid repetition.
 - Structural moves are allowed only when they clearly improve the reader's route through the whole book.
 
 ## Ordered Source Notes
