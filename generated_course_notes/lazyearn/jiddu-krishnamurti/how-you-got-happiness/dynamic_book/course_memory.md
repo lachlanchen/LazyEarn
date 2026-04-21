@@ -654,3 +654,67 @@
 - When writing the fear chapter, keep the elimination rhythm: will fails, analysis fails, dreams fail, time fails; only then turn to thought, memory, pleasure, and the centre.
 - Avoid making “thought causes fear” too blunt. The lecture’s sharper sequence is memory, image, projection, time, and repetition.
 - The next dynamic-book append should treat the centre/me as a major Part II hinge: it is not just psychological security, but the observer that strengthens fear by separating itself from fear.
+
+## Lecture 11 integration: Part II - The Nature And Eradication Of Fear
+
+### New evidence
+
+- Extends Lecture 10’s fear inquiry by giving it a slower outer-to-inner order: physical security, food, clothing, shelter, work, pain, public opinion, death, poverty, dependency, loneliness, achievement, identification, hidden inherited fears.
+- Adds the explicit “two sides of the same coin” bridge: fear and pleasure belong together, but pleasure is deferred to the next inquiry. This should keep Part II connected to Part I’s pleasure material without prematurely building a fear-pleasure system.
+- Sharpens physical security as a root human fact: the brain needs security, yet national division, sovereign governments, war, competition, consumerism, and occupational dependence destroy the security sought.
+- Adds concrete physical-security evidence: science has the means to feed people, but plans, ideologies, national divisions, and lack of responsibility make plans more important than starvation.
+- Adds the India poverty scene as a concrete support case: a child says she is hungry and the mother answers that she has already eaten for the day.
+- Adds public opinion as a transitional fear between outer and inner: reputation, neighbour, religious/social conformity, and job dependence show how outward pressure becomes inward fear.
+- Adds dependency examples that should feed Part II relationship material: wife, guru, priest, belief, saviour, country, God, and self-image.
+- Adds the loneliness case from television: a woman says the only fear in life is loneliness; Krishnamurti uses this to show attachment, belief, and guru-dependence as compensatory images.
+- Adds spiritual achievement to the fear architecture: fear of not arriving appears as worldly success, enlightenment, expanding consciousness, and “doing my own thing.”
+- Adds identification as a response to the fear of not being: country and God are used to feel that one is; Krishnamurti’s reversal “man has made God in his image” belongs here as source evidence.
+- Adds the branch/root obstacle in its clearest form: dealing with each fear one by one takes a lifetime; analysis of fragments becomes paralysis.
+- Adds hidden fears as “more active” when unconscious, but blocks a formal psychology expansion: conscious thought can deal with what it knows, but cannot summon and expose what it does not know.
+- Adds Anderson’s university/professor example as dialogue evidence: fear of reputation prevents listening even while one appears sincere or intelligent.
+- Sharpens negation into an energy pivot: escape, analysis, rationalization, identification, and religious refuge dissipate energy; when their futility is seen, energy is gathered for direct inquiry.
+- Adds the “I cannot do anything” turn: the self that wants to act on fear is implicated in producing fear, so the inquiry changes from “what shall I do?” to “what has brought fear about?”
+- Clarifies recognition as a fear mechanism: fear is made old when recognized; naming through memory and association sustains continuity.
+- Adds the exact late distinction between intelligent self-protection and psychological fear: stepping away from a rushing bus or dangerous animal is intelligence operating, not the psychological fear under inquiry.
+- Adds the final knowledge/freedom clarification: practical knowledge is necessary for language, driving, science, mathematics, and ordinary function; accumulated psychological knowledge has no place in the transformation of fear.
+
+### Conservative restructure plan
+
+- Keep Lecture 11 in Part II as the expansion and deepening of Lecture 10’s fear chapter, not as a separate “second fear chapter” with the same structure.
+- Add a Part II subsection on “Physical Security And Psychological Disorder” before the inner fear material. This lecture justifies treating food, shelter, work, poverty, nation, and war as part of the fear inquiry, not as social commentary.
+- Add a standalone `Question & Answer` beat: “Can fear be dealt with one by one?” Use the leaf/branch/root and analysis/paralysis material as its spine.
+- Add a second standalone `Question & Answer` beat: “What is fear when escape ends?” Place it after description, rationalization, analysis, and hidden-fear routes are rejected.
+- Strengthen the relationship chapter with this lecture’s dependency material: wife, guru, priest, belief, saviour, and country should appear as cases where attachment masks loneliness and produces fear.
+- Move the knowledge/freedom closing into the later Part III bridge as well as Part II: practical knowledge has a place, but psychological accumulation becomes ignorance before “what is.”
+- Keep pleasure visibly deferred. The next dynamic-book movement should connect the fear/pleasure coin with Lecture 1 and Lecture 10 without making this lecture do the full pleasure analysis.
+
+### New tensions or contradictions
+
+- Physical and psychological fear are distinguished for inquiry, but Krishnamurti later insists they are interrelated. Do not write them as sealed categories.
+- Physical self-protection can be called “natural fear” in passing, yet Krishnamurti immediately says the bus/dangerous-animal response is not fear but intelligence. Preserve that correction.
+- The lecture says the brain needs security, but avoid importing neuroscience. Keep it as Krishnamurti’s observational claim.
+- Energy is central but must remain non-physical: gathered attention after dissipation ends, not a physics term or mystical substance.
+- Hidden fear should not become psychoanalytic theory. The transcript supports hidden, inherited, racial, social, and family-imposed fears, but not a formal unconscious model.
+- “Observer = thought” is transcript-backed here, but should remain a local inquiry claim tied to recognition, naming, projection, and fear.
+- Freedom is not born of knowledge, but practical knowledge is not rejected. This distinction must remain explicit.
+
+### Frame or diagram opportunities
+
+- No validated figure assets exist for Lecture 11. Do not include blank frames, talking-head frames, or screenshots as evidence.
+- Use only transcript-backed schematic reconstructions, labeled clearly as such.
+- Strong pocket-safe diagram candidates:
+  - `many fears -> branch-by-branch analysis -> paralysis -> root inquiry -> observation of whole movement`
+  - `past pain -> memory/emotional trace -> projection into tomorrow -> fear now`
+  - `loneliness -> attachment/image -> dependence -> fear of loss`
+  - `escape/analysis/identification/resistance seen as futile -> dissipation ends -> energy to inquire`
+  - `recognition -> naming -> observer as thought -> projection in time -> fear sustained`
+  - two-column table: self-protective intelligence versus psychological fear
+  - two-column table: practical knowledge versus psychological accumulation
+
+### Next rewrite implications
+
+- Part II should now let fear unfold through accumulation before abstraction: list the fears long enough for the root question to become necessary.
+- Do not jump directly from fear to thought. This lecture earns that turn through physical security, public opinion, dependency, loneliness, hidden fear, negation, and the failure of analysis.
+- Anderson’s role should stay visible at the pivots: fragmentation, common taste, university listening, energy leaks, and the refrigerator/ice-cube image of thought freezing a living movement.
+- Use the “analysis becomes paralysis” phrase as a recurring Part II guardrail against therapeutic, intellectual, or self-improvement readings.
+- Preserve the late knowledge passage as a bridge from fear to freedom: looking at “what is” does not require accumulated psychological knowledge; freedom appears when burdens are absent, not as something searched for.
