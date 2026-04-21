@@ -1,0 +1,52 @@
+{
+  "course_rel": "lazyearn/mit-nuts-and-bolts-of-new-ventures",
+  "transcript_rel": "lazyearn/mit-nuts-and-bolts-of-new-ventures/007 - Session 4, Part 2\uff1a Negotiation Skills [41xcHr9jkV8].md",
+  "video_rel": "lazyearn/mit-nuts-and-bolts-of-new-ventures/007 - Session 4, Part 2\uff1a Negotiation Skills [41xcHr9jkV8].webm",
+  "lecture_number": 7,
+  "lecture_slug": "lecture_07",
+  "lecture_title": "Session 4, Part 2\uff1a Negotiation Skills",
+  "assets": [
+    {
+      "name": "lecture_07_figure_02.png",
+      "timestamp_seconds": 578.02,
+      "timestamp_hhmmss": "00:09:38.020",
+      "source_candidate": "lecture_07_window_02_candidate_04_000938020.png",
+      "recommended_use": "screenshot_plus_tikz",
+      "rationale": "This frame cleanly captures the full slide layout at the moment the speaker explains the circle-and-sticks method. The central circle, both connector lines, and both founders' interest lists are all visible and legible. The candidate set is very similar, but this latest frame is the most finished and stable while preserving the complete diagrammatic structure needed for note writing.",
+      "subtitle_excerpt": "circle and then you put each person's you know a little stick for each person and write their interests down.",
+      "segment_start_seconds": 573.33,
+      "segment_start_hhmmss": "00:09:33.330",
+      "segment_end_seconds": 578.62,
+      "segment_end_hhmmss": "00:09:38.620",
+      "caption_hint": "Circle of interests for two founders"
+    },
+    {
+      "name": "lecture_07_figure_03.png",
+      "timestamp_seconds": 1454.41,
+      "timestamp_hhmmss": "00:24:14.410",
+      "source_candidate": "lecture_07_window_04_candidate_04_002414410.png",
+      "recommended_use": "screenshot_only",
+      "rationale": "This frame preserves the full overview slide cleanly and legibly at a stable moment. The candidates are nearly identical, so the latest frame is the safest choice: the title and all bullets are fully visible, with no occlusion, and the slide is useful as source evidence for the case setup that drives the later negotiation analysis.",
+      "subtitle_excerpt": "devastated more.",
+      "segment_start_seconds": 1453.58,
+      "segment_start_hhmmss": "00:24:13.580",
+      "segment_end_seconds": 1454.54,
+      "segment_end_hhmmss": "00:24:14.540",
+      "caption_hint": "Overview of the Sandra-undergraduates negotiation case"
+    },
+    {
+      "name": "lecture_07_figure_04.png",
+      "timestamp_seconds": 2441.217,
+      "timestamp_hhmmss": "00:40:41.217",
+      "source_candidate": "lecture_07_window_06_candidate_04_004041217.png",
+      "recommended_use": "screenshot_only",
+      "rationale": "This frame cleanly preserves the full slide with all four bullets visible and legible. The candidates are essentially identical, so the latest frame is the safest stable choice. Although it contains no mathematics, it is useful note evidence for the lecture's structured list of ways internal company negotiations differ from simpler two-party cases.",
+      "subtitle_excerpt": "with someone I always draw my little",
+      "segment_start_seconds": 2439.29,
+      "segment_start_hhmmss": "00:40:39.290",
+      "segment_end_seconds": 2441.48,
+      "segment_end_hhmmss": "00:40:41.480",
+      "caption_hint": "Complications of negotiation within a company"
+    }
+  ]
+}
