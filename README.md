@@ -60,15 +60,15 @@ This shelf is mirrored in the repo at [all_notes/wealth-research](all_notes/weal
 
 ### Flagship shelf
 
-| Wealth from first principles | Financial freedom playbook | The Way to Wealth Freedom | How You Got Rich? | How You Got Successful? |
-| --- | --- | --- | --- | --- |
-| [<img src="docs/publications/wealth-from-first-principles/cover-page-1.png" alt="Wealth from first principles first page" width="180">](docs/investment_pdfs/wealth-from-first-principles/wealth-from-first-principles.pdf) | [<img src="docs/publications/financial-freedom/cover-page-1.png" alt="Financial freedom playbook first page" width="180">](docs/investment_pdfs/financial_freedom/financial_freedom.pdf) | [<img src="docs/publications/the-way-to-wealth-freedom-notes/cover-page-1.png" alt="The Way to Wealth Freedom first page" width="180">](the-way-to-wealth-freedom-notes-publication/the-way-to-wealth-freedom-notes.pdf) | [<img src="docs/publications/how-you-got-rich/cover-page-1.png" alt="How You Got Rich first page" width="180">](how-you-got-rich-publication/how-you-got-rich.pdf) | [<img src="docs/publications/how-you-got-successful/cover-page-1.png" alt="How You Got Successful first page" width="180">](how-you-got-successful-publication/how-you-got-successful.pdf) |
-| [PDF](docs/investment_pdfs/wealth-from-first-principles/wealth-from-first-principles.pdf) · [Pocket 1.0x](docs/investment_pdfs/wealth-from-first-principles/wealth-from-first-principles_pocket.pdf) · [Pocket 1.2x](docs/investment_pdfs/wealth-from-first-principles/wealth-from-first-principles_pocket_1_2x.pdf) · [Markdown](investment/wealth-from-first-principles.md) | [PDF](docs/investment_pdfs/financial_freedom/financial_freedom.pdf) · [Pocket 1.0x](docs/investment_pdfs/financial_freedom/financial_freedom_pocket.pdf) · [Pocket 1.2x](docs/investment_pdfs/financial_freedom/financial_freedom_pocket_1_2x.pdf) | [PDF](the-way-to-wealth-freedom-notes-publication/the-way-to-wealth-freedom-notes.pdf) · [Pocket 1.2x](the-way-to-wealth-freedom-notes-publication/the-way-to-wealth-freedom-notes-pocket-1.2x.pdf) · [Source notes](materials/the-way-to-wealth-freedom-notes/README.md) | [PDF](how-you-got-rich-publication/how-you-got-rich.pdf) · [Pocket 1.2x](how-you-got-rich-publication/how-you-got-rich-pocket-1.2x.pdf) | [PDF](how-you-got-successful-publication/how-you-got-successful.pdf) · [Pocket 1.0x](how-you-got-successful-publication/how-you-got-successful-pocket-1.0x.pdf) · [Pocket 1.2x](how-you-got-successful-publication/how-you-got-successful-pocket-1.2x.pdf) |
-
-| High-growth dossier | Yale Financial Markets notes | Hard Knocks Interviews | Quod Tango Muto |
+| Wealth from first principles | The Way to Wealth Freedom | How You Got Rich? | How You Got Successful? |
 | --- | --- | --- | --- |
-| [<img src="docs/publications/high-growth-stocks/cover-page-1.png" alt="High-growth dossier first page" width="180">](docs/investment_pdfs/high-growth-stocks/high-growth-stocks.pdf) | [<img src="docs/publications/yale-financial-markets/cover-page-1.png" alt="Yale Financial Markets first page" width="180">](yale-financial-markets-publication/yale-financial-markets.pdf) | [<img src="docs/publications/hard-knocks-interviews/cover-page-1.png" alt="Hard Knocks Interviews first page" width="180">](hard-knocks-interviews-publication/hard-knocks-interviews.pdf) | [<img src="docs/publications/quod-tango-muto/cover-page-1.png" alt="Quod Tango Muto first page" width="180">](docs/investment_pdfs/quod-tango-muto/quod-tango-muto.pdf) |
-| [PDF](docs/investment_pdfs/high-growth-stocks/high-growth-stocks.pdf) · [Pocket 1.0x](docs/investment_pdfs/high-growth-stocks/high-growth-stocks_pocket.pdf) · [Pocket 1.2x](docs/investment_pdfs/high-growth-stocks/high-growth-stocks_pocket_1_2x.pdf) · [Markdown](investment/high-growth-stocks.md) | [Full PDF](yale-financial-markets-publication/yale-financial-markets.pdf) · [Pocket 1.0x](yale-financial-markets-publication/yale-financial-markets-pocket-1.0x.pdf) · [Pocket 1.2x](yale-financial-markets-publication/yale-financial-markets-pocket-1.2x.pdf) | [PDF](hard-knocks-interviews-publication/hard-knocks-interviews.pdf) · [Pocket 1.2x](hard-knocks-interviews-publication/hard-knocks-interviews-pocket-1.2x.pdf) | [PDF](docs/investment_pdfs/quod-tango-muto/quod-tango-muto.pdf) · [Pocket 1.0x](docs/investment_pdfs/quod-tango-muto/quod-tango-muto_pocket.pdf) · [Pocket 1.2x](docs/investment_pdfs/quod-tango-muto/quod-tango-muto_pocket_1_2x.pdf) · [Markdown](investment/quod-tango-muto.md) |
+| [<img src="docs/publications/wealth-from-first-principles/cover-page-1.png" alt="Wealth from first principles first page" width="180">](docs/investment_pdfs/wealth-from-first-principles/wealth-from-first-principles.pdf) | [<img src="docs/publications/the-way-to-wealth-freedom-notes/cover-page-1.png" alt="The Way to Wealth Freedom first page" width="180">](the-way-to-wealth-freedom-notes-publication/the-way-to-wealth-freedom-notes.pdf) | [<img src="docs/publications/how-you-got-rich/cover-page-1.png" alt="How You Got Rich first page" width="180">](how-you-got-rich-publication/how-you-got-rich.pdf) | [<img src="docs/publications/how-you-got-successful/cover-page-1.png" alt="How You Got Successful first page" width="180">](how-you-got-successful-publication/how-you-got-successful.pdf) |
+| [PDF](docs/investment_pdfs/wealth-from-first-principles/wealth-from-first-principles.pdf) · [Pocket 1.0x](docs/investment_pdfs/wealth-from-first-principles/wealth-from-first-principles_pocket.pdf) · [Pocket 1.2x](docs/investment_pdfs/wealth-from-first-principles/wealth-from-first-principles_pocket_1_2x.pdf) · [Markdown](investment/wealth-from-first-principles.md) | [PDF](the-way-to-wealth-freedom-notes-publication/the-way-to-wealth-freedom-notes.pdf) · [Pocket 1.2x](the-way-to-wealth-freedom-notes-publication/the-way-to-wealth-freedom-notes-pocket-1.2x.pdf) · [Source notes](materials/the-way-to-wealth-freedom-notes/README.md) | [PDF](how-you-got-rich-publication/how-you-got-rich.pdf) · [Pocket 1.2x](how-you-got-rich-publication/how-you-got-rich-pocket-1.2x.pdf) | [PDF](how-you-got-successful-publication/how-you-got-successful.pdf) · [Pocket 1.0x](how-you-got-successful-publication/how-you-got-successful-pocket-1.0x.pdf) · [Pocket 1.2x](how-you-got-successful-publication/how-you-got-successful-pocket-1.2x.pdf) |
+
+| Yale Financial Markets notes | Hard Knocks Interviews |
+| --- | --- |
+| [<img src="docs/publications/yale-financial-markets/cover-page-1.png" alt="Yale Financial Markets first page" width="180">](yale-financial-markets-publication/yale-financial-markets.pdf) | [<img src="docs/publications/hard-knocks-interviews/cover-page-1.png" alt="Hard Knocks Interviews first page" width="180">](hard-knocks-interviews-publication/hard-knocks-interviews.pdf) |
+| [Full PDF](yale-financial-markets-publication/yale-financial-markets.pdf) · [Pocket 1.0x](yale-financial-markets-publication/yale-financial-markets-pocket-1.0x.pdf) · [Pocket 1.2x](yale-financial-markets-publication/yale-financial-markets-pocket-1.2x.pdf) | [PDF](hard-knocks-interviews-publication/hard-knocks-interviews.pdf) · [Pocket 1.2x](hard-knocks-interviews-publication/hard-knocks-interviews-pocket-1.2x.pdf) |
 
 | MIT Nuts and Bolts of New Ventures |
 | --- |
@@ -79,10 +79,6 @@ This shelf is mirrored in the repo at [all_notes/wealth-research](all_notes/weal
 | --- |
 | [<img src="docs/publications/how-you-got-happiness/cover-page-1.png" alt="How You Got Happiness first page" width="180">](how-you-got-happiness-publication/how-you-got-happiness.pdf) |
 | [PDF](how-you-got-happiness-publication/how-you-got-happiness.pdf) · [Pocket 1.2x](how-you-got-happiness-publication/how-you-got-happiness-pocket-1.2x.pdf) · [Course notes](how-you-got-happiness-publication/how-you-got-happiness-course-notes.pdf) |
-
-Additional working editions:
-
-- [Financial freedom playbook (中文)](docs/investment_pdfs/financial_freedom/zh/financial_freedom_zh.pdf) · [Pocket 1.0x](docs/investment_pdfs/financial_freedom/zh/financial_freedom_zh_pocket.pdf) · [Pocket 1.2x](docs/investment_pdfs/financial_freedom/zh/financial_freedom_zh_pocket_1_2x.pdf)
 
 ## 🧭 Mission and operating method
 
@@ -256,7 +252,7 @@ Primary production domain (from `docs/CNAME`): `earn.lazying.art`.
 - Cadence-aware stress classification panel guidance (release-cadence integrity, charge-off and delinquency drift, access friction, and capacity concentration checks) synced into markdown and TeX guide surfaces.
 - Money, debt, and physical-constraint decision map guidance (sovereign risk, access frictions, valuation, debt burden, and throughput sequencing) synced into markdown and TeX guide surfaces.
 - A codex-driven wealth refinery loop with a question bank, methods playbook, side-product catalog, and source ledger.
-- PDF viewer routing via hash/query (`#high-growth`, `#financial-freedom`, `?file=financial-freedom-zh`, etc.).
+- PDF viewer routing via hash/query for the published shelf.
 - GitHub Pages-compatible static distribution with no build step for the website shell.
 
 ## 🧭 Reader pathways
@@ -297,12 +293,6 @@ Primary production domain (from `docs/CNAME`): `earn.lazying.art`.
 | --- | --- | --- |
 | **Wealth From First Principles** | A practical field guide to what money is, where it comes from, what wealth is, who can build it, why wealth gaps persist, and which books, courses, tutorials, datasets, and repositories are worth your time.
 [`Open markdown`](https://github.com/lachlanchen/LazyEarn/blob/main/investment/wealth-from-first-principles.md) | [Open PDF](https://earn.lazying.art/pdf-viewer.html#wealth-from-first-principles) |
-| **High-Growth Dossier** | Nine U.S. equities coverage with upside tables and source-linked analysis.
-Narrative rundowns for AI, biotech, semiconductors, clean energy, and cloud.
-[`Open markdown`](https://github.com/lachlanchen/LazyEarn/blob/main/investment/high-growth-stocks.md) | [Open PDF](https://earn.lazying.art/pdf-viewer.html#high-growth) |
-| **Financial Freedom Playbook** | Principles + automation ideas, capital allocation tables, quarterly rituals, and new idea seeds.
-[`Open markdown`](https://github.com/lachlanchen/LazyEarn/blob/main/investment/financial_freedom.md) | [Open PDF](https://earn.lazying.art/pdf-viewer.html#financial-freedom) |
-[`打开 Markdown`](https://github.com/lachlanchen/LazyEarn/blob/main/investment/financial_freedom_zh.md) | [打开 PDF](https://earn.lazying.art/pdf-viewer.html?file=financial-freedom-zh) |
 | **Yale Financial Markets Notes** | A published root-level course edition of Robert J. Shiller's lecture sequence, with one full-course PDF, one PDF per lecture, and a dedicated publication shelf README.
 [`Open publication`](https://github.com/lachlanchen/LazyEarn/blob/main/yale-financial-markets-publication/README.md) | [Open PDF](https://earn.lazying.art/pdf-viewer.html#yale-financial-markets-notes) |
 | **MIT Nuts and Bolts of New Ventures** | A published root-level course edition of Joseph Hadzima's MIT entrepreneurship sequence, with a full-course PDF, 1.2x pocket edition, generated cover, and dedicated publication shelf README.
@@ -656,9 +646,6 @@ xdg-open docs/index.html
 
 - Inline viewer examples:
   - `docs/pdf-viewer.html#wealth-from-first-principles`
-  - `docs/pdf-viewer.html#high-growth`
-  - `docs/pdf-viewer.html#financial-freedom`
-  - `docs/pdf-viewer.html?file=financial-freedom-zh`
 - Direct PDFs in `docs/investment_pdfs/...`
 - Source Markdown in `investment/...`
 
@@ -670,16 +657,6 @@ mkdir -p build
 xelatex -output-directory=build wealth-from-first-principles.tex
 cp build/wealth-from-first-principles.pdf ./wealth-from-first-principles.pdf
 cp build/wealth-from-first-principles.pdf ../../docs/investment_pdfs/wealth-from-first-principles/wealth-from-first-principles.pdf
-```
-
-### 4) Regenerate another dossier PDF (example)
-
-```bash
-cd investment_pdfs/high-growth-stocks
-mkdir -p build
-xelatex -output-directory=build high-growth-stocks.tex
-cp build/high-growth-stocks.pdf ./high-growth-stocks.pdf
-cp build/high-growth-stocks.pdf ../../docs/investment_pdfs/high-growth-stocks/high-growth-stocks.pdf
 ```
 
 The repository `.gitignore` already excludes LaTeX scratch outputs and `investment_pdfs/**/build/*` (except `.gitkeep`).
@@ -701,11 +678,8 @@ Use direct viewer slugs for quick deep links:
 
 ```text
 # Hash-based
-https://earn.lazying.art/pdf-viewer.html#high-growth
-https://earn.lazying.art/pdf-viewer.html#financial-freedom
-
-# Query-based
-https://earn.lazying.art/pdf-viewer.html?file=financial-freedom-zh
+https://earn.lazying.art/pdf-viewer.html#yale-financial-markets-notes
+https://earn.lazying.art/pdf-viewer.html#mit-nuts-and-bolts-of-new-ventures
 ```
 
 Known slugs from site behavior:
@@ -713,9 +687,8 @@ Known slugs from site behavior:
 | Canonical slug | Accepted aliases |
 | --- | --- |
 | `wealth-from-first-principles` | `wealth`, `wealth-guide`, `wealth_from_first_principles`, `wealth-field-guide` |
-| `high-growth` | `high-growth-stocks`, `high_growth_stocks` |
-| `financial-freedom` | `financial_freedom` |
-| `financial-freedom-zh` | `financial_freedom_zh`, `financial-freedom-zh-cn` |
+| `yale-financial-markets-notes` | `yale-financial-markets`, `yale-markets`, `financial-markets` |
+| `mit-nuts-and-bolts-of-new-ventures` | `mit-new-ventures`, `new-ventures`, `nuts-and-bolts` |
 
 ## 🛠️ Development notes
 
