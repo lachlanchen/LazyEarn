@@ -1697,3 +1697,75 @@
 - Use “seeing acting seeing acting” as the rhythmic core of the perception/action material.
 - When returning to death, route the reader through consciousness as content and common content before discussing belief, reincarnation, or continuity.
 - End the lecture’s dynamic-book contribution with an open edge: the death inquiry is not completed here; it is carried forward through consciousness, continuity, action, postponement, and hypocrisy.
+
+## Lecture 26 integration: Part III - The Mechanical Way Of Living
+
+### New evidence
+
+- Returns to an unresolved point from Lecture 25: psychological security had been called delusion, but this lecture asks why it is delusion rather than merely asserting it.
+- Sharpens psychological security as something one can count on, hold on to, cling to, or treat as imperishable: belief in heaven, communism, God, reincarnation, scientific law, medical knowledge, professional status, motherhood, house, union, money, gold, wife, work, tradition, and reputation.
+- Adds the clearest security-as-time formulation so far: security is not only possession but anticipation that everything will become good in the future. This strengthens the book-wide thread from pleasure-continuity and the “verb to be” into projected psychological tomorrow.
+- Adds the “no psychological tomorrow” obstacle as a major Q&A beat: if there is no deep psychological security, hope appears to be taken away. The dynamic book should distinguish practical chronological tomorrow from psychological becoming.
+- Deepens the idea/fact distinction with concrete objects: “there is no security” may remain an idea rather than an actual fact like a table, hand, or flowers. This reinforces Part III’s warning that correct statements can still become abstractions.
+- Adds a strong perception/action formulation in the security context: action comes through perception, not through ideation. Premature “how do I destroy this?” questions already enter time, method, and action-as-plan.
+- Gives the doctor example as the clearest named case for separating actual fact from psychological conclusion: training, knowledge, experience, and daily operation are actual; status, comparison, fear of loneliness, continuity, and “I am a doctor” as identity are the added conclusion.
+- Adds occupation as a new Part III mechanism: the image or conclusion must be kept in motion. Occupation is not merely work; it is psychological absorption that gives the brain apparent order.
+- Adds the encephalograph/arithmetic anecdote as a transcript-only support case: a disturbed brain appears “wild” until occupied with arithmetic, then becomes smooth, then goes wild again when occupation stops. Use cautiously as anecdote, not as neuroscience.
+- Adds the central title mechanism: occupation gives mechanical order, and mechanical order gives security “for the time being,” but it becomes dull, repetitious, disturbed, or threatened.
+- Adds the strongest phrase for the false-order theme: mechanical order is “mechanical disorder masking itself as order.”
+- Adds the repeated habit loop: mechanical process -> disturbance -> fear -> another mechanical habit. Krishnamurti’s phrase “and you call that living” should support the Part III critique of ordinary life as mechanism.
+- Sharpens why the brain remains mechanical: the brain wants total order, accepts mechanical order because it is safe for the time being, then fears that everything built up will go to pieces if the mechanism stops.
+- Adds conditioning examples specific to mechanism: tradition, education, childhood obedience, professional structure, communities, and “do as you are told” all train the brain toward mechanical living.
+- Adds the “thirteenth book” anecdote as a concrete status/reputation case: the desperate announcement of achievement shows past accumulation becoming identity.
+- Returns the whole inquiry to relationship and time: the past meets the present through memory, image, reputation, words, picture, and symbol; if that movement continues, it becomes time movement, bondage, fear, and disorder.
+- Ends with an explicitly unresolved root question: why does the brain live in disturbance, turmoil, travail, anxiety, and wild disorder? The lecture gives “time” as a compact double answer but does not complete the inquiry.
+
+### Conservative restructure plan
+
+- Place Lecture 26 after Lecture 25 as a Part III continuation of “A Different Way Of Living.” Lecture 25 asks whether ordinary living as battle can end; Lecture 26 shows one major mechanism by which ordinary living remains mechanical: the search for psychological security.
+- Add a Part III movement titled along the lines of “Mechanical Security And The Need For Order.” Its spine should be: psychological security -> becoming in time -> idea versus fact -> image/conclusion -> occupation -> mechanical order -> disturbance -> fear -> new habit -> past meeting present.
+- Backfill Part I’s false-map architecture with this lecture’s new security examples: heaven, communism, gold, professional status, knowledge, motherhood, and future improvement all function as maps of happiness through permanence.
+- Backfill Part II’s fear and relationship material with the new mechanism: fear is not only fear of objects or hurt, but fear that the mechanical structure of identity will collapse.
+- Pair the doctor example with earlier knowledge/image chapters. It should become a compact dynamic-book case for distinguishing functional knowledge from psychological identity.
+- Add a subsection in the Part III order/meditation arc distinguishing mechanical order from total order. This lecture makes clear that order produced by occupation is not the order required for meditation.
+- Preserve standalone `Question & Answer` beats for:
+  - Does no psychological security mean no psychological tomorrow and no hope?
+  - Why does “there is no security” become an idea rather than a fact?
+  - Why does the brain go wild without occupation, and why is occupation only mechanical order?
+  - If the mechanical way of living is seen, does instant action necessarily follow?
+
+### New tensions or contradictions
+
+- Physical security remains necessary, while psychological security is questioned. Do not let the book sound as if food, shelter, bodily safety, or practical work are being dismissed.
+- Practical time remains valid, while psychological tomorrow is challenged. This distinction must be kept clean wherever “time” appears.
+- The empirical impermanence argument is acknowledged but called superficial. Do not reduce the lecture to “everything changes, therefore no security.”
+- The image is rationally exposed as insecure, yet it still feels more real than actuality. This tension should remain central rather than being explained away.
+- Functional identity and psychological identity must not be confused: the doctor’s training and daily work are actual; the status-self built from them is the conclusion.
+- Occupation can produce real temporary smoothness or order, but this does not make it total order. The lecture’s phrase “for the time being” is essential.
+- The encephalograph story is useful but risky. It should remain a spoken illustration of occupation and apparent order, not a claim about brain science.
+- Krishnamurti claims that actual perception brings non-fragmentary or instant action, but a participant objects that this does not yet follow logically. Preserve the objection beside the claim.
+- “Indestructible order” is a late claim, not a completed derivation. Keep it provisional and tied to further inquiry.
+- The final “time” answer is deliberately compressed. Do not treat it as a finished theory of disorder.
+
+### Frame or diagram opportunities
+
+- No validated figure assets exist for Lecture 26. Do not include screenshots, conversation stills, title cards, or invented board evidence.
+- Use transcript-derived diagrams only, labelled as editorial reconstructions.
+- Strong pocket-safe diagram candidates:
+  - `conditioning -> search for psychological security -> clinging -> threat -> insecurity`
+  - `present discomfort + anticipated future safety -> felt security now`
+  - two-column table: `actual doctor function` versus `psychological conclusion`
+  - `unoccupied brain -> instability/fear -> occupation -> mechanical order`
+  - loop diagram: `mechanical process -> disturbance -> fear -> another mechanical habit`
+  - `brain wants total order -> accepts mechanical order -> fears collapse -> maintains mechanism`
+  - relationship diagram: `past: memory/image/reputation/word/symbol -> present person -> continuation as time/fear/bondage` versus `complete awareness -> movement stops`
+- Do not draw an EEG waveform for the encephalograph anecdote.
+
+### Next rewrite implications
+
+- The dynamic book should now make psychological security a bridge concept across all three parts: false happiness in Part I, fear and relationship in Part II, and mechanical order/time in Part III.
+- Strengthen the book’s treatment of time by adding this lecture’s version of becoming: anticipation of future safety gives present comfort.
+- Use the doctor example as the main concrete case for how actual knowledge becomes psychological identity.
+- In the Part III meditation/order material, explicitly contrast occupation-based order with attention-based or total order. Mechanical order may steady the brain temporarily but does not end disorder.
+- Let the past-meets-present passage connect backward to the earlier image-in-relationship chapters and forward to the next root inquiry into why the brain lives in turmoil.
+- Keep the ending open. Lecture 26 should not close the book’s inquiry into disorder; it prepares the next question: why human beings live in time, disturbance, and mechanical security.
