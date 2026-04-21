@@ -592,3 +592,65 @@
 - Carry the “awareness without conflict” question forward into later attention and meditation chapters; do not answer it here.
 - In fear chapters, avoid making fear the first cause. Lecture 9 supports a more careful relation: fragmentation and the search for security may generate fear.
 - Let the chapter’s ending remain unresolved. The “me” as greatest psychological security should point forward, not close the argument.
+
+## Lecture 10 integration: Part II - Can Fear End
+
+### New evidence
+
+- Opens Part II by making fear the immediate obstruction to seriousness, enjoyment, and joy. Earlier lectures treated pleasure, knowledge, order, and fragmentation; this lecture states directly that a mind living with fear cannot live wholly.
+- Adds an urgent temporal pressure: the inquiry is not to be taken home as theory or postponed into gradual practice. Krishnamurti frames freedom from fear as something to be looked at completely “this evening,” through attention.
+- Reapplies communication to fear specifically: shared inquiry requires neither acceptance nor denial, and attention is blocked by interpreting, translating, comparing, judging, agreeing, or disagreeing.
+- Gives the first full fear inventory for Part II: physical, psychological, psychosomatic, conscious, hidden, fear of dark, wife/husband, public opinion, loneliness, emptiness, meaningless existence, future, insecurity, the bomb, death, old age, dependence, failure, non-fulfilment, and not being somebody.
+- Adds the central Part II formulation: fear is a movement away from what is. Escape, avoidance, flight, comparison, and movement away from the actual are not secondary responses to fear; they are part of the structure by which fear operates.
+- Connects Lecture 7’s comparison/measurement theme directly to fear: comparison of oneself with another, or of what one is with what one should be, breeds fear.
+- Adds a clear rejected-instruments sequence for the fear inquiry: will, analysis, dreams, time, and progressive change are set aside.
+- Sharpens the analyser problem in fear-specific terms: analysis implies time, an analyser, and division; the analyser is a fragment of the “me” and analyses fear that it has itself helped create.
+- Adds dreams as a new rejected route: dreams are not a privileged exposure of hidden fear but a continuation of waking movement, action, and happening.
+- Gives the cleanest causal chain for fear so far: past pain, memory, thought about repetition, and fear of tomorrow.
+- Strengthens the Part I pleasure material by making pleasure and fear inseparable: thought sustains pleasure through image and repetition, and the possible loss or frustration of pleasure becomes fear.
+- Restates joy against pleasure in a fear context: joy is not the product of thought; when thought tries to cultivate it, it becomes remembered pleasure and therefore something one fears losing.
+- Adds the central thought tension for Part II: thought is necessary for daily and technological function, but the same thought breeds fear when it moves through memory, image, time, and projection.
+- Extends Lecture 9’s “me” material into fear: thought creates a centre as the “me”; that centre divides, names, judges, resists, and strengthens fear by trying to get rid of it.
+- Adds naming as a precise fear mechanism: the moment the mind names fear, the past enters, division is created, and resistance/conflict continue.
+- Adds the closing condition for Part II’s fear chapter: observation without the centre and without naming, with care, affection, and attention, is presented as the ending of both hidden and open fear.
+
+### Conservative restructure plan
+
+- Begin Part II with this lecture’s movement rather than a taxonomy of fears: seriousness and joy blocked by fear, communication as shared inquiry, many fears, then fear as movement away from what is.
+- Add a dedicated Part II section titled along the lines of “Fear As Movement Away From What Is.” This should become the structural doorway into fear, desire, hurt, relationship, and death.
+- Move Lecture 1’s pleasure-as-repetition material into closer conversation with this lecture: pleasure should not remain only a Part I false map; it also becomes one side of the pleasure-fear circuit in Part II.
+- Use Lecture 10 to bridge Lecture 9’s “me as greatest psychological security” into Part II: the “me” becomes the centre that observes, names, divides, resists, and thereby strengthens fear.
+- Preserve two standalone `Question & Answer` beats in the dynamic book:
+  - Can will, analysis, or dreams expose and end hidden fear?
+  - If thought is necessary yet breeds fear, what is the mind to do?
+- Keep the rejected-routes table or equivalent compact structure in the dynamic book, but label it as transcript-based conceptual notation, not a formal method.
+- Carry the final observation-without-centre material forward into Part III, but do not move the whole lecture there. Its main home is Part II; its ending seeds attention and meditation.
+
+### New tensions or contradictions
+
+- The lecture’s urgency can be distorted into a promise or motivational claim. Preserve it as Krishnamurti’s demand for immediate attention, not as a guaranteed technique.
+- Fear is described both through many concrete forms and through one structural movement. Do not let the structure erase the felt range of the listed fears.
+- Thought is neither condemned nor liberated wholesale: it is required for practical function and dangerous in psychological projection.
+- Pleasure and fear must remain interrelated, not reduced to a simple one-way formula.
+- Analysis fails not only because it takes time, but because it creates division through the analyser.
+- Observation without naming can sound mystical if detached from the prior logic. Keep it grounded: naming brings the past; naming divides; division breeds resistance, conflict, and fear.
+- “Discipline” at the close means learning from oneself with care and attention, not imposed practice or control.
+
+### Frame or diagram opportunities
+
+- No validated figure assets exist for Lecture 10; do not include screenshots, blank frames, or lecturer-only frames.
+- Use only transcript-backed, pocket-safe conceptual diagrams:
+  - `past pain -> memory -> thought of repetition -> fear of tomorrow`
+  - `past pleasure -> image/thought -> desire for repetition -> fear of loss`
+  - `analysis -> time + analyser + division -> not ending fear`
+  - `centre/me -> naming/judging -> division -> resistance/conflict -> fear strengthened`
+  - `observation without centre + without naming -> ending of fear`
+- Captions should state that these are reconstructions from the transcript, not visible board diagrams.
+
+### Next rewrite implications
+
+- Part II should not begin with fear as a generic emotion. It should begin with fear as the condition that blocks seriousness, joy, relationship, and whole living.
+- When revising the book’s pleasure chapters, add a forward reference: the same thought that seeks repeated pleasure later appears as fear of loss, frustration, and tomorrow.
+- When writing the fear chapter, keep the elimination rhythm: will fails, analysis fails, dreams fail, time fails; only then turn to thought, memory, pleasure, and the centre.
+- Avoid making “thought causes fear” too blunt. The lecture’s sharper sequence is memory, image, projection, time, and repetition.
+- The next dynamic-book append should treat the centre/me as a major Part II hinge: it is not just psychological security, but the observer that strengthens fear by separating itself from fear.
