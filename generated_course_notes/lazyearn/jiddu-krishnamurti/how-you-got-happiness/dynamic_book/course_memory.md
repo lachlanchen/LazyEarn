@@ -1048,3 +1048,77 @@
 - The analysis/paralysis mechanism should become a major book-wide guardrail against turning attention, meditation, or self-understanding into method.
 - The map metaphor should feed Part III’s attention/meditation chapters: seeing the whole without direction is not concentration, analysis, or effortful discernment.
 - The education thread should accumulate here as “knowledge as safety,” distinct from Lecture 13’s hurt teacher/child and Lecture 14’s education for beauty and care.
+
+## Lecture 17 integration: Part II - Freedom From Violence
+
+### New evidence
+
+- Adds violence as an explicit Part II capstone after fear, desire, hurt, sorrow, love, and death. Earlier lectures repeatedly touched violence through pleasure, fear, hurt, nationalism, killing, and image; this lecture makes violence itself the direct field of inquiry.
+- Gives a concrete opening moral pressure: a vegetarian who does not kill asks whether war against communism can be justified as self-protection. Krishnamurti uses this not to debate politics but to show that every war is called self-protective by its makers.
+- Extends violence beyond obvious war and killing into a “whole spectrum”: cultured violence, self-protective violence, aggression, competition, trying to be somebody, self-discipline according to a pattern, suppression, bullying oneself, and brutalising oneself in order to become.
+- Adds the clearest violence-specific “me as centre” formulation: the source of violence is the me, ego, self, which radiates division into me/not-me, conscious/unconscious, family/not-family, community/not-community, and so on. The stone-in-the-lake image is a strong reusable anchor.
+- Adds a new caution about cause-hunting: asking for the root cause may itself become postponement. Cause becomes effect, effect becomes cause, and the chain can continue indefinitely while one remains violent.
+- Reinforces the “human being is society” theme with violence-specific evidence: the me and society cannot be cleanly separated; we have built a violent society, and the culture in which we live is the product of our struggle, pain, and brutality.
+- Adds a precise recognition/naming sequence in the violence context: at the moment of anger there may be no recognition; a moment later memory says “I have been angry.” Recognition depends on the past, so naming imports the past into the present response.
+- Sharpens image formation in relationship: insult or flattery under inattention leaves a mark; accumulated marks become images; relationship becomes image-to-image. Attention at the moment of insult or flattery means no marking.
+- Adds the explicit formula trap for attention: attention is not an act of will. Will is desire, demand, and resistance; resistance is violence.
+- Adds frustration as a violence mechanism: the me seeks fulfilment and expansion; blocked expansion becomes frustration, bitterness, and violence.
+- Adds communication/language evidence: “the word is not the thing,” “the description is not the described,” and “the explanation is not the explained” are applied directly to violence, naming, and explanation.
+- Adds a late energy formulation: violence is energy; resistance wastes energy and breeds division; seeing the truth of resistance changes the movement of energy. Keep this as Krishnamurti’s phenomenological language, not physics.
+- Adds the “danger” criterion: when danger is actually seen, action follows without argument. Violence continues partly because its danger is not seen directly, only its end result such as the bomb.
+- Adds the inward/non-inward nonviolence distinction: groups may refuse outward violence against the community while still being violent in themselves.
+- Adds a practical closing test: how to meet violence in another. Krishnamurti refuses a rule and says that if there is no violence in oneself, one will know what to do; a predetermined formula for non-violence breeds violence.
+- Adds belief, unity, freedom, and purpose as late violence tests: belief divides and is therefore violence; talking about unity while destroying the neighbour is false; freedom is not “from” or “to”; psychological purpose can divide and breed violence.
+- Adds a small but sharp guardrail around psychic experience: Krishnamurti says “never” in response to when one should have psychic experience, then returns the inquiry to violence. This should prevent Part III from becoming experience-seeking.
+
+### Conservative restructure plan
+
+- Add a late Part II movement titled along the lines of “Violence, Division, And The Formula Trap.” It should gather prior Part II themes rather than start a new isolated topic.
+- Place this movement after death/love material from Lecture 16, because Lecture 17 tests the whole Part II field in action: fear, pleasure, desire, hurt, image, belief, purpose, love, and relationship all become forms or conditions of violence.
+- Preserve the opening war exchange as a standalone `Question & Answer` beat: “Is war self-protection?” This gives the chapter its moral pressure and prevents violence from becoming abstract.
+- Add a second `Question & Answer` beat: “Does finding the cause end violence?” Use the cause-effect recurrence as the spine.
+- Add a third `Question & Answer` beat: “How is the image formed?” Use insult/flattery, inattention, mark, image, and attention/no mark.
+- Add a final `Question & Answer` beat near the close: “How do we meet violence in another?” Preserve the refusal of a precomputed nonviolent response.
+- Use Lecture 17 to strengthen the Part II-to-Part III bridge: attention, meditation, and freedom must arise from seeing violence, not from will, belief, formula, psychic experience, or spiritual ambition.
+
+### New tensions or contradictions
+
+- The lecture begins with a political war question but refuses to remain political. The book should preserve the political pressure without turning the chapter into political theory.
+- “The source of violence is the me” can sound like a final doctrine, but Krishnamurti immediately warns that causal explanation can itself become evasion.
+- The lecture says violence is energy, but this must not become a theory of energy, transformation, sublimation, or conservation.
+- Attention prevents marking, but attention is not a technique, practice, or act of will. This is a major no-method guardrail.
+- Non-violence is not outward pacifist identity. Groups may be outwardly nonviolent while inwardly violent.
+- The violent neighbour passage should not become a rule-based ethics. Krishnamurti refuses advance formulas while still allowing intelligent action in the situation.
+- Belief in unity is treated as divisive if it is not fact. The book must distinguish living love from belief in unity.
+- Freedom language is delicate: “freedom from violence” is the chapter title, but the lecture later says freedom from and freedom to are not freedom.
+- Some transcript phrases are garbled and should not be used as doctrinal labels without audio review.
+
+### Frame or diagram opportunities
+
+- No validated figure assets exist for Lecture 17. Do not include rejected lecturer-only screenshots.
+- Use transcript-derived reconstructions only, clearly captioned as conceptual diagrams rather than visual evidence.
+- Strong pocket-safe diagram candidates:
+  - `war as self-protection? -> every war claims protection -> inquiry into violence itself`
+  - `me -> divisions -> resistance -> violence`
+  - concentric “stone in lake” diagram: `me`, `not-me`, `family`, `community`, `nation`, `belief`
+  - cause-effect loop: `cause -> effect -> new cause -> new effect`
+  - `present response + memory -> recognition/name -> past enters present`
+  - two-branch diagram: `fact -> naming/condemning/justifying -> escape -> violence continues` versus `fact -> attention without naming -> fresh seeing`
+  - image formation: `insult/flattery -> inattention -> mark -> image -> image-to-image relationship`, with parallel branch `attention -> no mark`
+  - `will -> desire/demand/resistance -> violence`
+  - `fulfilment-seeking -> frustration -> bitterness -> violence`
+  - `belief / purpose / formula -> division -> violence`
+
+### Next rewrite implications
+
+- Part II should now culminate not merely in death and love, but in the question of whether violence can end in oneself. This lecture provides the practical test of the whole Part II architecture.
+- When revising the dynamic book, connect Lecture 17 backward to:
+  - Lecture 10 and 11: naming, fear, and the centre;
+  - Lecture 12: desire, control, and freedom not being “from”;
+  - Lecture 13: hurt, image, and attention;
+  - Lecture 15: love, killing, and intelligent action;
+  - Lecture 16: the me as content and the ending of the known.
+- Keep the chapter’s rhythm dialogical. Many conceptual advances occur because students misunderstand, redirect, or ask for a practical answer.
+- Do not compress the recognition section. The sequence anger -> later recognition -> past -> naming -> image -> relationship is one of this lecture’s central contributions.
+- Use the late belief/freedom/purpose passages as concise closing tests, not as separate full chapters. Their function is to show how division hides in respectable ideas.
+- Prepare Part III by ending Part II with the danger of formula. Meditation and attention must enter as freedom from will and image, not as a system for becoming nonviolent.
