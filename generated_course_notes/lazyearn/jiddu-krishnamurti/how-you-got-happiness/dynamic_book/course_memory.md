@@ -1280,3 +1280,76 @@
 - Let Lecture 19 consolidate earlier Part II themes rather than replace them: fear, pleasure, desire, hurt, love, sex, violence, and death now reappear as prerequisites for meditation.
 - In later rewrites, keep the lecture’s delay structure. The reader should feel meditation repeatedly approached and deferred until the ground is clear.
 - Preserve “emptying the mind of everything known” as a Part III bridge to the sacred/enlightenment material, but avoid presenting enlightenment as an achieved state or guaranteed result.
+
+## Lecture 20 integration: Part III - What Is Meditation
+
+### New evidence
+
+- Adds a new Part III threshold before any definition of meditation: meditation cannot begin as search, because search already contains an image, contour, or idea by which the sought thing will be recognized. This sharpens earlier false-map material into a meditation-specific claim: `search -> image -> recognition -> already known`.
+- Gives meditation a stronger anti-consolation edge: the unhappy or lonely mind may seek hope, companionship, or something sustaining and “find it inevitably,” but that finding remains predetermined by desire.
+- Reinforces Lecture 19’s “meditation requires order” with a new negative form: order is not according to blueprint, authority, or one’s own experience; order comes through understanding disorder, and effort distorts.
+- Reintroduces the controller/controlled and observer/observed identities in direct service of meditation: if the one who controls anger is not different from anger, control cannot be the basis of meditative order.
+- Adds a new prerequisite cluster for meditation: order/virtue, love untouched by pleasure/desire/jealousy/competition, no fear, and harmony of mind, brain, and emotions. Without this, meditation becomes self-hypnosis.
+- Adds concrete anti-authority evidence: do not join groups or organizations; enlightenment does not come through leader or teacher; religious organizations may promise nirvana or God “for five dollars” or give a talisman in the shape of words.
+- Adds the most explicit distinction so far between observation, exploration, analysis, accumulation, and experience:
+  - observation is continuous learning, not accumulation;
+  - exploration/analysis involves an explorer/analyser;
+  - experience involves recognition and therefore belongs to the past.
+- Adds a new experience trap for Part III: wanting mystical, mysterious, profound, transcendental, godly, or spiritual experiences is often escape from the shoddiness or pettiness of daily life.
+- Adds a direct method critique with concrete timing: ten-minute meditation, concentration on an image, pulling the mind back and forth, and forty years of controlling the mind are rejected as mechanical conflict.
+- Adds the attention/inattention formulation: when the mind wanders, know it is inattentive; the very awareness of inattention is attention. This is not a technique and should be protected from becoming one.
+- Adds a bodily dimension to meditation: silence of mind is not possible if the organism remains restless. Stillness, sensitivity, bodily intelligence, food, overindulgence, physical pain, and thought’s interference with the body all enter the meditation inquiry.
+- Adds a pleasure/joy distinction inside the meditation chapter: pleasure has motive; joy has none and is timeless. Seeking the cause of joy in order to repeat it destroys joy.
+- Adds the “point of all this?” obstacle: if the question is asked as utility, the life of harmony has no point; if the thing is actual, it is everything. This should become a `Question & Answer` beat rather than a passing aside.
+- Adds the sleep extension of attention: waking disorder continues in dreams, but if every movement of thought is watched during the day, then sleep is not merely continuation; attention during the day implies attention in sleep.
+- Ends with the strongest no-description close in Part III so far: description is not the described; one can point to the door, but nobody can describe the unnameable, and one who says he knows does not know.
+
+### Conservative restructure plan
+
+- Add Lecture 20 as the next major Part III movement after Lecture 18’s “The Art Of Listening” and Lecture 19’s “Meditation Requires Order.” Its distinct function is to answer “What is meditation?” by showing why search, method, experience, control, and description must end.
+- Add a Part III subsection before the method critique titled along the lines of “Meditation Is Not Search.” Use Lecture 20’s new evidence that search presupposes image and recognition.
+- Merge Lecture 19 and Lecture 20 carefully around order:
+  - Lecture 19 supplies “complete order” as a condition of meditation;
+  - Lecture 20 adds that order is not blueprint, authority, experience, or effort, but understanding disorder.
+- Add a meditation-facing `Question & Answer` sequence:
+  - “How can order come about without control?”
+  - “Why do we want deeper experiences?”
+  - “What happens when the mind wanders?”
+  - “What is the point of such a life?”
+  - “Why should there be dreams at all?”
+- Move only the relevant search/recognition mechanism back into Part I as a cross-reference. Do not relocate the meditation lecture to Part I; its new role is to show how the false maps return at the threshold of meditation.
+- Add a late Part III subsection on “Attention In Sleep,” but keep it source-bound. Do not expand it into dream theory, psychology, or neuroscience.
+- Add a short bridge from love/pleasure in Part II to meditation in Part III: Lecture 20 makes love without pleasure-distortion part of the meditative ground.
+
+### New tensions or contradictions
+
+- Meditation is named as the topic, then repeatedly deferred. Preserve this delay; it is the structure of the lecture, not throat-clearing.
+- Asking the “impossible” is encouraged, but not as hope, achievement, or becoming. This needs careful phrasing so it does not become a motivational ideal.
+- Stillness of the body is discussed, but the lecture rejects method and greed for duration. Do not turn “sit still for two minutes” into a practice prescription.
+- The sleep claim conflicts with conventional psychological claims that dreams are necessary. Keep Krishnamurti’s statement as part of the inquiry, not as scientific doctrine.
+- Love becomes joy, and joy is timeless, but pleasure still exists. Avoid writing “no pleasure”; the point is that pleasure must not distort the mind or become motive.
+- Attention includes awareness of inattention, but action from inattention must also be seen. Do not simplify this into “inattention is attention.”
+- “Description is not the described” becomes especially important at the end: do not let the dynamic book explain the sacred or unnameable as a doctrine.
+
+### Frame or diagram opportunities
+
+- No validated screenshot assets exist for this lecture. Do not include lecturer-only frames, title cards, or blank frames as evidence.
+- Use transcript-based diagrams only, clearly treated as conceptual reconstructions.
+- Strong pocket-safe diagram candidates:
+  - `search -> image -> recognition -> already known -> predetermined desire`
+  - `division -> contradiction -> conflict -> distortion -> disorder`
+  - `control -> controller/controlled -> division -> conflict`
+  - `method -> practice -> practitioner/practised -> division -> disorder`
+  - `experience -> recognition -> past`
+  - `inattention known choicelessly -> awareness of inattention -> attention`
+  - `attention during the day -> watching thought -> sleep without mere continuation -> attention in sleep`
+- Keep diagrams narrow and vertical for 6x9 export; use them as reading aids, not as formal doctrine.
+
+### Next rewrite implications
+
+- The dynamic book’s Part III should now make meditation feel earned through repeated clearing: seeing/listening, order, freedom, love/death, search, method, experience, attention, body, sleep, and finally silence before the unnameable.
+- Avoid opening any meditation chapter with “meditation means...” Lecture 20 confirms that the question must be delayed until false movements are seen.
+- When discussing spiritual systems, use Lecture 20’s concrete cases: ten-minute meditation, fixed image, formula, mind-control battle, five-dollar nirvana, talisman of words, and forty years of control.
+- When writing about experience, connect Lecture 20 with earlier knowledge/past material: recognition makes experience old, so the craving for “higher” experience remains within the known.
+- When writing about attention, preserve the exact anti-technique shape: attention is not practised, not maintained for reward, not concentration, and not the result of battling wandering.
+- The final Part III movement toward the sacred should now be written with stronger restraint. The book may point, but it should not describe the unnameable or make claims of knowledge about it.
