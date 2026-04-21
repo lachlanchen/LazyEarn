@@ -119,3 +119,63 @@
 - When developing relationship in Part II, reuse Lecture 2’s precise mechanism: the image meets the person, so direct relationship is absent.
 - When developing attention and meditation in Part III, connect Lecture 2 with Lecture 1: seeing/action/understanding are concurrent, not products of practice, theory, or time.
 - Carry forward the final open edge: the next inquiry should begin with actual freedom from the known, not verbal or speculative freedom.
+
+## Lecture 3 integration: Part I - Learning About Oneself
+
+### New evidence
+
+- Reinforces the world-diagnosis from Lecture 2 with a sharper action-question: seeing worldwide division, misery, contradiction, and war, the immediate problem becomes “what is one to do?”
+- Adds a fuller list of rejected courses of action: left/center/right politics, ideology, belief, authoritarian dictum, guru, teacher, priest, organized religion, personal inclination, personal experience, self-reliance, confidence, and purpose can all still operate as fragments.
+- Clarifies “whole action” as the answer to the action-question: action that is not broken up, not contradictory, continuous in daily life, complete, total, and not productive of more sorrow or confusion.
+- Adds a lecture-specific redefinition of religion: not belief in God/no-God or conceptual ideation, but a way of life in which every action is whole, complete, and “full of ecstasy.” Keep this local and source-bound.
+- Adds the speaker-as-mirror structure: the speaker is not teaching in the ordinary informational sense; the listener uses the words to watch inner reactions, responses, and conditioning.
+- Strengthens the course distinction between information-learning and self-learning: mathematics/scientific information can be taught, but self-understanding cannot be handed over by a teacher.
+- Adds the precise observation problem: if the self is fragmented, one fragment may become observer, examiner, censor, or analyser over the other fragments; this repeats contradiction rather than ending it.
+- Adds the authority-of-the-analyser problem: professional analysis and self-analysis can follow the same pattern if one fragment assumes authority over the rest.
+- Adds the local formulation “the observer is the observed” through the concrete case of violence: anger, jealousy, brutality, ambition, comparison, condemnation, justification, and escape.
+- Adds a new learning difficulty: even what one has just observed can become accumulated knowledge, and then the next observation is made through that accumulation.
+- Adds concrete non-accumulation cases: flattery and insult become friend/enemy images if accumulated; anger creates image if not observed at the moment; cloud, hills, and light on water show observing without naming.
+
+### Conservative restructure plan
+
+- Keep Lecture 3 in Part I as the bridge from false maps of pleasure/knowledge into the larger false map of action through authority, ideology, experience, and self-analysis.
+- Add or strengthen a Part I subsection on “What Is One To Do?” before the later observation material. This lecture justifies treating the action-question as a major hinge, not a rhetorical aside.
+- Move only seeded material into later parts:
+  - Part II should inherit the observer/image/violence material when developing relationship, hurt, conflict, and separation.
+  - Part III should inherit observation without the observer, learning without accumulation, and real meditation as no image between observer and observed.
+- Preserve standalone `Question & Answer` beats for:
+  - Can any course of action avoid further contradiction?
+  - If the world is not outside oneself, what changes in the question “what shall I do?”
+  - Can one fragment observe the rest without becoming authority?
+  - Is the observer different from violence?
+  - Can observation continue without accumulating what was just learned?
+
+### New tensions or contradictions
+
+- The lecture refuses both external authority and private self-authority: guru, priest, teacher, ideology, and one’s own experience can all become fragments.
+- “No teacher” is not anti-learning; it sharpens learning as direct observation of oneself.
+- Whole action is called the only religious way, but “religious” here must not be written as belief, devotion, practice, or doctrine.
+- The observer problem complicates self-knowledge: trying to understand oneself through an inner censor may preserve the same division it intends to resolve.
+- “Observer = observed” must remain tied to violence, image, separation, and thought; do not generalize it into a slogan or metaphysical identity.
+- Learning has a built-in danger: yesterday’s observation can become today’s image, so accumulation can return inside the very act called learning.
+
+### Frame or diagram opportunities
+
+- No validated figure assets exist for Lecture 3; do not include title cards, lecturer-only frames, or blank frames in the dynamic book.
+- Use only transcript-derived conceptual diagrams for this lecture.
+- Strong pocket-safe diagram candidates:
+  - `world disorder -> what is one to do? -> rejected fragmentary answers -> whole action`
+  - `speaker's words -> listener's reactions -> observation of oneself`
+  - `one fragment -> observer/censor/analyser -> authority over fragments -> contradiction`
+  - `knowledge -> image -> observer -> separation -> conflict`
+  - `violence -> censor/condemnation/escape -> false separation -> observer is observed`
+  - `flattery/insult -> accumulation -> image -> friend/enemy -> separation`
+
+### Next rewrite implications
+
+- The dynamic book should let Part I move from pleasure as repetition to knowledge as past, then to action as fragmentation when guided by authority, ideology, experience, or the inner censor.
+- Preserve the slow opening diagnosis; it motivates the action-question and prevents “learning about oneself” from becoming private introspection.
+- When revising the book’s treatment of religion, include Lecture 3’s distinction between organized belief and a life of whole action, but keep it source-specific and non-devotional.
+- In later relationship chapters, connect Lecture 2’s “image meets the person” with Lecture 3’s “the image becomes the observer.”
+- In later meditation chapters, define “real meditation” cautiously from this evidence: observation without the observer and without image, where conflict ends.
+- Carry forward the final edge for future lectures: learning must be fresh observation, not accumulated knowledge carried into the next moment.
