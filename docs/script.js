@@ -347,6 +347,19 @@ const pdfEntries = {
     publication:
       "https://github.com/lachlanchen/LazyEarn/blob/main/yale-financial-markets-publication/README.md",
   },
+  "mit-nuts-and-bolts-of-new-ventures": {
+    aliases: ["mit-new-ventures", "nuts-and-bolts-of-new-ventures", "new-ventures"],
+    title: "MIT Nuts and Bolts of New Ventures",
+    description:
+      "A published course edition of Joseph Hadzima's MIT entrepreneurship sequence with a generated cover, full-course PDF, and 1.2x pocket companion edition.",
+    pdf: "publications/mit-nuts-and-bolts-of-new-ventures/mit-nuts-and-bolts-of-new-ventures.pdf",
+    download:
+      "publications/mit-nuts-and-bolts-of-new-ventures/mit-nuts-and-bolts-of-new-ventures.pdf",
+    markdown:
+      "https://github.com/lachlanchen/LazyEarn/blob/main/mit-nuts-and-bolts-of-new-ventures-publication/README.md",
+    publication:
+      "https://github.com/lachlanchen/LazyEarn/blob/main/mit-nuts-and-bolts-of-new-ventures-publication/README.md",
+  },
   "financial-freedom": {
     aliases: ["financial_freedom"],
     titleKey: "research.asset2Title",

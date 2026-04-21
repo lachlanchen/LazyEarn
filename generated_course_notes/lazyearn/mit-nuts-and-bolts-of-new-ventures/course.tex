@@ -4,13 +4,44 @@
 \begin{document}
 \frontmatter
 
-\title{Nuts and Bolts of New Ventures}
-\author{Joseph Hadzima}
-\date{MIT 15.393 OpenCourseWare entrepreneurship course \\ Lecture notes organized by \href{https://lazying.art}{LazyingArt LLC} with \href{https://github.com/lachlanchen/Video2Book}{Video2Book}}
-\maketitle
-\begin{center}
-\small Original lectures by Joseph Hadzima for MIT OpenCourseWare. Lecture notes organized by \href{https://lazying.art}{LazyingArt LLC}.
-\end{center}
+\hypersetup{pageanchor=false}
+\begin{titlepage}
+\thispagestyle{empty}
+\begin{tikzpicture}[remember picture,overlay]
+  \node[anchor=center,inner sep=0] at (current page.center) {%
+    \includegraphics[height=\paperheight,keepaspectratio]{assets/cover-art.png}%
+  };
+  \node[
+    anchor=north west,
+    align=left,
+    text width=0.78\paperwidth,
+    fill=white,
+    fill opacity=0.9,
+    text opacity=1,
+    rounded corners=8pt,
+    inner xsep=10pt,
+    inner ysep=8pt
+  ] at ([xshift=0.08\paperwidth,yshift=-0.06\paperheight]current page.north west) {%
+    {\fontsize{30}{33}\selectfont\bfseries\color{black!88} Nuts and Bolts\\of New Ventures\\[0.8em]}
+    {\large\color{black!72} LazyEarn track, MIT 15.393 OpenCourseWare entrepreneurship course}
+  };
+  \node[
+    anchor=south west,
+    align=left,
+    text width=0.68\paperwidth,
+    fill=white,
+    fill opacity=0.84,
+    text opacity=1,
+    rounded corners=6pt,
+    inner sep=12pt
+  ] at ([xshift=0.08\paperwidth,yshift=0.08\paperheight]current page.south west) {%
+    {\normalsize\color{black!78} Original lectures by Joseph Hadzima\\[0.35em]}
+    {\small\color{black!72} Transcript-derived course notes organized by \href{https://lazying.art}{LazyingArt LLC} with \href{https://github.com/lachlanchen/Video2Book}{Video2Book}.}
+  };
+\end{tikzpicture}
+\mbox{}
+\end{titlepage}
+\hypersetup{pageanchor=true}
 \clearpage
 \tableofcontents
 \mainmatter

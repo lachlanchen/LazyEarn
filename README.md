@@ -35,17 +35,21 @@ The public language layer still includes **Lazy Money**, **Lazy Earn**, and **Ea
 
 > _“Build less. Live more.”_ — LazyEarn ethos
 
-## 🏛️ Featured publication
+## 🏛️ Featured course publications
 
-The completed Yale `Financial Markets` notes are now published from a repo-root shelf:
+The completed course-note editions are published from repo-root shelves:
 
 - [Publication shelf](yale-financial-markets-publication/README.md)
 - [Full course PDF](yale-financial-markets-publication/yale-financial-markets.pdf)
 - [Pocket-size PDF 1.0x](yale-financial-markets-publication/yale-financial-markets-pocket-1.0x.pdf)
 - [Pocket-size PDF 1.2x](yale-financial-markets-publication/yale-financial-markets-pocket-1.2x.pdf)
 - [Website viewer](https://earn.lazying.art/pdf-viewer.html#yale-financial-markets-notes)
+- [MIT New Ventures shelf](mit-nuts-and-bolts-of-new-ventures-publication/README.md)
+- [MIT New Ventures full PDF](mit-nuts-and-bolts-of-new-ventures-publication/mit-nuts-and-bolts-of-new-ventures.pdf)
+- [MIT New Ventures pocket-size PDF 1.2x](mit-nuts-and-bolts-of-new-ventures-publication/mit-nuts-and-bolts-of-new-ventures-pocket-1.2x.pdf)
+- [MIT New Ventures website viewer](https://earn.lazying.art/pdf-viewer.html#mit-nuts-and-bolts-of-new-ventures)
 
-This publication contains a root-level cover, one full-course PDF, two pocket-size PDF variants (`1.0x` and `1.2x`) for 10-inch e-ink or iPad reading, and one PDF per lecture for Robert J. Shiller's full Yale sequence.
+These publications contain root-level covers, full-course PDFs, and pocket-size editions for 10-inch e-ink or iPad reading. Yale also includes one PDF per lecture for Robert J. Shiller's full sequence; MIT New Ventures publishes the consolidated Joseph Hadzima course edition.
 
 ## 🖼️ Wealth research shelf
 
@@ -62,6 +66,11 @@ This shelf is mirrored in the repo at [all_notes/wealth-research](all_notes/weal
 | --- | --- | --- | --- |
 | [<img src="docs/publications/high-growth-stocks/cover-page-1.png" alt="High-growth dossier first page" width="180">](docs/investment_pdfs/high-growth-stocks/high-growth-stocks.pdf) | [<img src="docs/publications/yale-financial-markets/cover-page-1.png" alt="Yale Financial Markets first page" width="180">](yale-financial-markets-publication/yale-financial-markets.pdf) | [<img src="docs/publications/hard-knocks-interviews/cover-page-1.png" alt="Hard Knocks Interviews first page" width="180">](hard-knocks-interviews-publication/hard-knocks-interviews.pdf) | [<img src="docs/publications/quod-tango-muto/cover-page-1.png" alt="Quod Tango Muto first page" width="180">](docs/investment_pdfs/quod-tango-muto/quod-tango-muto.pdf) |
 | [PDF](docs/investment_pdfs/high-growth-stocks/high-growth-stocks.pdf) · [Pocket 1.0x](docs/investment_pdfs/high-growth-stocks/high-growth-stocks_pocket.pdf) · [Pocket 1.2x](docs/investment_pdfs/high-growth-stocks/high-growth-stocks_pocket_1_2x.pdf) · [Markdown](investment/high-growth-stocks.md) | [Full PDF](yale-financial-markets-publication/yale-financial-markets.pdf) · [Pocket 1.0x](yale-financial-markets-publication/yale-financial-markets-pocket-1.0x.pdf) · [Pocket 1.2x](yale-financial-markets-publication/yale-financial-markets-pocket-1.2x.pdf) | [PDF](hard-knocks-interviews-publication/hard-knocks-interviews.pdf) · [Pocket 1.2x](hard-knocks-interviews-publication/hard-knocks-interviews-pocket-1.2x.pdf) | [PDF](docs/investment_pdfs/quod-tango-muto/quod-tango-muto.pdf) · [Pocket 1.0x](docs/investment_pdfs/quod-tango-muto/quod-tango-muto_pocket.pdf) · [Pocket 1.2x](docs/investment_pdfs/quod-tango-muto/quod-tango-muto_pocket_1_2x.pdf) · [Markdown](investment/quod-tango-muto.md) |
+
+| MIT Nuts and Bolts of New Ventures |
+| --- |
+| [<img src="docs/publications/mit-nuts-and-bolts-of-new-ventures/cover-page-1.png" alt="Nuts and Bolts of New Ventures first page" width="180">](mit-nuts-and-bolts-of-new-ventures-publication/mit-nuts-and-bolts-of-new-ventures.pdf) |
+| [Full PDF](mit-nuts-and-bolts-of-new-ventures-publication/mit-nuts-and-bolts-of-new-ventures.pdf) · [Pocket 1.2x](mit-nuts-and-bolts-of-new-ventures-publication/mit-nuts-and-bolts-of-new-ventures-pocket-1.2x.pdf) |
 
 Additional working editions:
 
@@ -288,6 +297,8 @@ Narrative rundowns for AI, biotech, semiconductors, clean energy, and cloud.
 [`打开 Markdown`](https://github.com/lachlanchen/LazyEarn/blob/main/investment/financial_freedom_zh.md) | [打开 PDF](https://earn.lazying.art/pdf-viewer.html?file=financial-freedom-zh) |
 | **Yale Financial Markets Notes** | A published root-level course edition of Robert J. Shiller's lecture sequence, with one full-course PDF, one PDF per lecture, and a dedicated publication shelf README.
 [`Open publication`](https://github.com/lachlanchen/LazyEarn/blob/main/yale-financial-markets-publication/README.md) | [Open PDF](https://earn.lazying.art/pdf-viewer.html#yale-financial-markets-notes) |
+| **MIT Nuts and Bolts of New Ventures** | A published root-level course edition of Joseph Hadzima's MIT entrepreneurship sequence, with a full-course PDF, 1.2x pocket edition, generated cover, and dedicated publication shelf README.
+[`Open publication`](https://github.com/lachlanchen/LazyEarn/blob/main/mit-nuts-and-bolts-of-new-ventures-publication/README.md) | [Open PDF](https://earn.lazying.art/pdf-viewer.html#mit-nuts-and-bolts-of-new-ventures) |
 
 ## 🔁 Book sync highlights (cycle_006)
 
