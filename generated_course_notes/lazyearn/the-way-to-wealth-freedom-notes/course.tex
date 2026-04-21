@@ -1,0 +1,46 @@
+\documentclass[oneside]{book}
+\input{common_preamble.tex}
+\graphicspath{{assets/source-img/}{assets/}}
+\begin{document}
+\frontmatter
+\hypersetup{pageanchor=false}
+\begin{titlepage}
+\thispagestyle{empty}
+\begin{tikzpicture}[remember picture,overlay]
+  \node[anchor=center,inner sep=0] at (current page.center) {\includegraphics[width=\paperwidth,height=\paperheight,keepaspectratio]{assets/source-img/cover1.jpeg}};
+  \node[
+    anchor=north west,
+    align=left,
+    text width=0.78\paperwidth,
+    fill=white,
+    fill opacity=0.9,
+    text opacity=1,
+    rounded corners=8pt,
+    inner xsep=10pt,
+    inner ysep=8pt
+  ] at ([xshift=0.08\paperwidth,yshift=-0.07\paperheight]current page.north west) {%
+    {\fontsize{24}{28}\selectfont\bfseries The Way to Wealth Freedom\\[0.5em]}
+    {\large\color{black!70} A pocket-size LazyEarn book from the source markdown notes}
+  };
+  \node[
+    anchor=south west,
+    align=left,
+    text width=0.72\paperwidth,
+    fill=white,
+    fill opacity=0.84,
+    text opacity=1,
+    rounded corners=6pt,
+    inner sep=10pt
+  ] at ([xshift=0.08\paperwidth,yshift=0.08\paperheight]current page.south west) {%
+    {\small\color{black!72} Based on the local material corpus the-way-to-wealth-freedom-notes.\\[0.35em]}
+    {\footnotesize\color{black!68} Book edition organized by LazyingArt LLC with Video2Book.}
+  };
+\end{tikzpicture}
+\mbox{}
+\end{titlepage}
+\hypersetup{pageanchor=true}
+\clearpage
+\tableofcontents
+\mainmatter
+\input{chapters/001-1-00-20160727/content.tex}
+\end{document}

@@ -1,0 +1,67 @@
+\usepackage{fontspec}
+\usepackage{microtype}
+\usepackage[paperwidth=6in,paperheight=9in,margin=0.55in]{geometry}
+\usepackage{scrextend}
+\changefontsizes[16pt]{13.2pt}
+\usepackage{graphicx}
+\usepackage{xcolor}
+\usepackage{booktabs}
+\usepackage{longtable}
+\usepackage{array}
+\usepackage{enumitem}
+\usepackage{hyperref}
+\usepackage{fancyhdr}
+\usepackage{caption}
+\usepackage{float}
+\usepackage{adjustbox}
+\usepackage{tikz}
+
+\setmainfont{Latin Modern Roman}
+\newfontfamily\cjkfont{Noto Serif CJK SC}
+\setsansfont{Latin Modern Sans}
+\setmonofont{Latin Modern Mono}
+
+\hypersetup{colorlinks=true,linkcolor=blue!45!black,urlcolor=blue!45!black}
+\setlength{\parindent}{0pt}
+\setlength{\parskip}{0.55em}
+\setlength{\emergencystretch}{1.8em}
+\setlength{\hfuzz}{1.5pt}
+\setlength{\tabcolsep}{3pt}
+\pretolerance=1000
+\tolerance=3200
+\hbadness=3200
+\sloppy
+\setlist[itemize]{topsep=0.25em,itemsep=0.2em,leftmargin=*}
+\setlist[enumerate]{topsep=0.25em,itemsep=0.2em,leftmargin=*}
+\setlength{\headheight}{42pt}
+
+\newenvironment{sourceinsight}{\begin{quote}\small\itshape}{\end{quote}}
+\newcommand{\sourcenote}[1]{\par\smallskip{\footnotesize\color{black!60}Source note: #1}\par}
+\newcommand{\chapterdivider}{\par\medskip\hrule\medskip}
+
+\makeatletter
+\newcommand{\material@headerfont}{\normalfont\footnotesize\itshape}
+\newcommand{\material@pagefont}{\normalfont\footnotesize}
+\newcommand{\material@headerraise}{14pt}
+\newlength{\material@headerboxheight}
+\setlength{\material@headerboxheight}{\dimexpr\headheight-\material@headerraise-12pt\relax}
+\newcommand{\material@leftheadbox}[1]{%
+  \raisebox{\material@headerraise}{%
+    \parbox[t][\material@headerboxheight][t]{0.76\textwidth}{%
+      \raggedright\material@headerfont\strut\MakeUppercase{#1}\strut%
+    }%
+  }%
+}
+\renewcommand{\chaptermark}[1]{\markboth{\MakeUppercase{\chaptername\ \thechapter.\ #1}}{}}
+\fancyhf{}
+\fancyhead[L]{\material@leftheadbox{\leftmark}}
+\fancyhead[R]{\material@pagefont\thepage}
+\renewcommand{\headrulewidth}{0.45pt}
+\pagestyle{fancy}
+\fancypagestyle{plain}{%
+  \fancyhf{}
+  \fancyhead[L]{\material@leftheadbox{\leftmark}}
+  \fancyhead[R]{\material@pagefont\thepage}
+  \renewcommand{\headrulewidth}{0.45pt}
+}
+\makeatother
