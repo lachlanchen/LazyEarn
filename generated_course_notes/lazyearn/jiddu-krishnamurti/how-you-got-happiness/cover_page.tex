@@ -1,0 +1,54 @@
+\begingroup
+\thispagestyle{empty}
+\definecolor{coverCream}{HTML}{F7F1E3}
+\definecolor{coverInk}{HTML}{17202A}
+\definecolor{coverSaffron}{HTML}{C9862C}
+\definecolor{coverTeal}{HTML}{2F6F73}
+\definecolor{coverRose}{HTML}{9D3F45}
+\begin{tikzpicture}[remember picture,overlay]
+  \fill[coverCream] (current page.south west) rectangle (current page.north east);
+  \fill[coverInk] (current page.south west) rectangle ($(current page.north west)+(0.23\paperwidth,0)$);
+  \fill[coverTeal!14] ($(current page.south west)+(0.23\paperwidth,0)$) rectangle (current page.north east);
+  \draw[coverSaffron,line width=1.1pt] ($(current page.south west)+(0.29\paperwidth,0.22\paperheight)$) -- ($(current page.south west)+(0.91\paperwidth,0.22\paperheight)$);
+  \draw[coverInk!32,line width=0.8pt] ($(current page.south west)+(0.29\paperwidth,0.58\paperheight)$) -- ($(current page.south west)+(0.88\paperwidth,0.58\paperheight)$);
+  \draw[coverInk!20,line width=0.7pt] ($(current page.south west)+(0.33\paperwidth,0.51\paperheight)$) -- ($(current page.south west)+(0.76\paperwidth,0.51\paperheight)$);
+  \draw[coverRose,line width=1.2pt] ($(current page.south west)+(0.31\paperwidth,0.34\paperheight)$)
+    .. controls ($(current page.south west)+(0.47\paperwidth,0.42\paperheight)$) and ($(current page.south west)+(0.63\paperwidth,0.28\paperheight)$)
+    .. ($(current page.south west)+(0.83\paperwidth,0.38\paperheight)$);
+  \draw[coverInk,line width=1.1pt] ($(current page.south west)+(0.54\paperwidth,0.67\paperheight)$) circle (0.92in);
+  \draw[coverSaffron,line width=1.0pt] ($(current page.south west)+(0.54\paperwidth,0.67\paperheight)$) circle (0.54in);
+  \draw[coverTeal,line width=1.0pt] ($(current page.south west)+(0.54\paperwidth,0.67\paperheight)$) -- ($(current page.south west)+(0.76\paperwidth,0.79\paperheight)$);
+  \node[anchor=north west,text=coverCream,align=left,text width=0.17\paperwidth] at ($(current page.north west)+(0.04\paperwidth,-0.08\paperheight)$) {%
+    \sffamily\fontsize{10}{13}\selectfont
+    ATTENTION\\
+    FEAR\\
+    PLEASURE\\
+    LOVE\\
+    FREEDOM%
+  };
+  \node[anchor=north west,text=coverInk,align=left,text width=0.62\paperwidth] at ($(current page.north west)+(0.30\paperwidth,-0.12\paperheight)$) {%
+    \sffamily\bfseries\fontsize{42}{46}\selectfont
+    How You Got\\Happiness?%
+  };
+  \node[anchor=north west,text=coverInk!78,align=left,text width=0.62\paperwidth] at ($(current page.north west)+(0.31\paperwidth,-0.32\paperheight)$) {%
+    \sffamily\fontsize{15}{19}\selectfont
+    A three-part Krishnamurti reader on pleasure, fear, attention,\\
+    meditation, transformation, and the sacred%
+  };
+  \node[anchor=south west,text=coverInk,align=left,text width=0.56\paperwidth] at ($(current page.south west)+(0.31\paperwidth,0.09\paperheight)$) {%
+    \sffamily\fontsize{12}{16}\selectfont
+    J. Krishnamurti\\[0.45em]
+    \fontsize{9}{12}\selectfont
+    Source material preserved by the Krishnamurti Foundation Trust\\
+    Notes organized by LazyingArt LLC with Video2Book%
+  };
+  \node[anchor=south west,text=coverCream,align=left,text width=0.16\paperwidth] at ($(current page.south west)+(0.04\paperwidth,0.07\paperheight)$) {%
+    \sffamily\fontsize{8}{11}\selectfont
+    HAPPINESS\\
+    WITHOUT\\
+    A PATH%
+  };
+\end{tikzpicture}
+\vspace*{\fill}
+\clearpage
+\endgroup

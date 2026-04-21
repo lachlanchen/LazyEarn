@@ -48,8 +48,11 @@ The completed course-note editions are published from repo-root shelves:
 - [MIT New Ventures full PDF](mit-nuts-and-bolts-of-new-ventures-publication/mit-nuts-and-bolts-of-new-ventures.pdf)
 - [MIT New Ventures pocket-size PDF 1.2x](mit-nuts-and-bolts-of-new-ventures-publication/mit-nuts-and-bolts-of-new-ventures-pocket-1.2x.pdf)
 - [MIT New Ventures website viewer](https://earn.lazying.art/pdf-viewer.html#mit-nuts-and-bolts-of-new-ventures)
+- [How You Got Happiness? shelf](how-you-got-happiness-publication/README.md)
+- [How You Got Happiness? PDF](how-you-got-happiness-publication/how-you-got-happiness.pdf)
+- [How You Got Happiness? pocket-size PDF 1.2x](how-you-got-happiness-publication/how-you-got-happiness-pocket-1.2x.pdf)
 
-These publications contain root-level covers, full-course PDFs, and pocket-size editions for 10-inch e-ink or iPad reading. Yale also includes one PDF per lecture for Robert J. Shiller's full sequence; MIT New Ventures publishes the consolidated Joseph Hadzima course edition.
+These publications contain root-level covers, full-course PDFs, and pocket-size editions for 10-inch e-ink or iPad reading. Yale also includes one PDF per lecture for Robert J. Shiller's full sequence; MIT New Ventures publishes the consolidated Joseph Hadzima course edition; How You Got Happiness? publishes both the nonlinear Krishnamurti book and the lecture-by-lecture source notes.
 
 ## 🖼️ Wealth research shelf
 
@@ -71,6 +74,11 @@ This shelf is mirrored in the repo at [all_notes/wealth-research](all_notes/weal
 | --- |
 | [<img src="docs/publications/mit-nuts-and-bolts-of-new-ventures/cover-page-1.png" alt="Nuts and Bolts of New Ventures first page" width="180">](mit-nuts-and-bolts-of-new-ventures-publication/mit-nuts-and-bolts-of-new-ventures.pdf) |
 | [Full PDF](mit-nuts-and-bolts-of-new-ventures-publication/mit-nuts-and-bolts-of-new-ventures.pdf) · [Pocket 1.2x](mit-nuts-and-bolts-of-new-ventures-publication/mit-nuts-and-bolts-of-new-ventures-pocket-1.2x.pdf) |
+
+| How You Got Happiness? |
+| --- |
+| [<img src="docs/publications/how-you-got-happiness/cover-page-1.png" alt="How You Got Happiness first page" width="180">](how-you-got-happiness-publication/how-you-got-happiness.pdf) |
+| [PDF](how-you-got-happiness-publication/how-you-got-happiness.pdf) · [Pocket 1.2x](how-you-got-happiness-publication/how-you-got-happiness-pocket-1.2x.pdf) · [Course notes](how-you-got-happiness-publication/how-you-got-happiness-course-notes.pdf) |
 
 Additional working editions:
 

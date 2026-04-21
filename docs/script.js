@@ -383,6 +383,18 @@ const pdfEntries = {
     publication:
       "https://github.com/lachlanchen/LazyEarn/blob/main/the-way-to-wealth-freedom-notes-publication/README.md",
   },
+  "how-you-got-happiness": {
+    aliases: ["krishnamurti-happiness", "jiddu-krishnamurti", "how-you-got-happy"],
+    title: "How You Got Happiness?",
+    description:
+      "A three-part Krishnamurti book on pleasure, fear, attention, meditation, transformation, and the sacred, published with a full PDF, lecture-note source PDF, and 1.2x pocket edition.",
+    pdf: "publications/how-you-got-happiness/how-you-got-happiness.pdf",
+    download: "publications/how-you-got-happiness/how-you-got-happiness.pdf",
+    markdown:
+      "https://github.com/lachlanchen/LazyEarn/blob/main/how-you-got-happiness-publication/README.md",
+    publication:
+      "https://github.com/lachlanchen/LazyEarn/blob/main/how-you-got-happiness-publication/README.md",
+  },
   "financial-freedom-zh": {
     aliases: ["financial_freedom_zh", "financial-freedom-zh-cn", "financial-freedom-cn"],
     titleKey: "research.asset2ZhTitle",
