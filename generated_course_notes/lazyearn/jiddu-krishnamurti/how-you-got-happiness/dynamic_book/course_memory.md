@@ -718,3 +718,68 @@
 - Anderson’s role should stay visible at the pivots: fragmentation, common taste, university listening, energy leaks, and the refrigerator/ice-cube image of thought freezing a living movement.
 - Use the “analysis becomes paralysis” phrase as a recurring Part II guardrail against therapeutic, intellectual, or self-improvement readings.
 - Preserve the late knowledge passage as a bridge from fear to freedom: looking at “what is” does not require accumulated psychological knowledge; freedom appears when burdens are absent, not as something searched for.
+
+## Lecture 12 integration: Part II - Understanding Desire
+
+### New evidence
+
+- Adds the clearest distinction so far between freedom itself and “freedom from,” “freedom for,” or “freedom in” something. This extends the fear inquiry: even “freedom from fear” may still be organized by fear as the reference point.
+- Carries forward Lecture 11’s fear/pleasure bridge by making pleasure the promised topic, then delaying it until desire is understood. This gives Part II a stronger order: fear opens into pleasure, but pleasure requires desire.
+- Adds desire as a common movement beneath changing objects: house, car, coat, tie, sex, knowledge, God, enlightenment, truth, power, ritual, and possession differ, but desire remains the same movement.
+- Gives the central desire-process sequence: visual perception, contact/sensation, desire; if desire is frustrated, anger and further reactions follow. The transcript gives contact and sensation in two nearby orders, so keep the middle stage cautious.
+- Adds commercialism, consumerism, propaganda, fashion, planned obsolescence, and instant fulfilment as social systems that inflame desire. Treat this as stimulation evidence, not an economic theory.
+- Adds ritual and religious beauty as desire-stimulation cases: chants, symbols, images, incense, color, flowers, language, and theatrical setting may become appetite for stimulation rather than attention to meaning.
+- Adds appetite as a related term to desire: physical appetite, psychological appetite, sexual appetite, intellectual appetite, and ritual appetite are all brought into the same field.
+- Sharpens the control critique: suppression, discipline, avoidance, and transfer to God/truth/enlightenment are not freedom from desire but may narrow perception and squeeze out free energy.
+- Adds concrete control/substitution evidence:
+  - priests using the Bible as a “blinker” against attraction;
+  - monks refusing to look at sky, trees, water, and passers-by;
+  - the young monk who violently acted on his body to control sexual appetite;
+  - Anderson’s Origen parallel;
+  - the man meditating on truth for twenty-five years and discovering self-hypnosis;
+  - the seventy-five-year-old seeker who spent fifty-five years going from teacher to teacher.
+- Adds the direct practical question for Part II: after seeing the cruelty of control and substitution, how can one live with desire without control?
+- Returns to pleasure with new precision: power may be the search to secure a pleasure not yet realized; society splits into religious control and commercial indulgence, while both leave desire unexamined.
+- Opens the next inquiry into pleasure, enjoyment, joy, and happiness. Krishnamurti identifies joy with happiness in this passage, but leaves the relation among pleasure, enjoyment, joy, and happiness unresolved.
+- Adds the mountain/lake/tree beauty scene as a threshold example: in direct perception there is delight, purity, enjoyment, and no division between “me” and “that.”
+
+### Conservative restructure plan
+
+- Add a Part II movement after the fear chapters titled along the lines of “Desire, Control, And Substitution.” It should not repeat Part I’s pleasure chapter; it should show why pleasure cannot be understood without desire.
+- Strengthen the transition from Lecture 11 to this lecture: fear and pleasure are two sides of one active pattern, but the path into pleasure runs through desire, appetite, stimulation, and control.
+- Add a standalone `Question & Answer` beat near the opening: “Why is freedom from fear not freedom?” Use the new from/for/in distinction.
+- Add a standalone `Question & Answer` beat in the desire section: “Is desire a sense of absence?” Answer by returning to the observable process of perception, contact/sensation, and desire.
+- Add a standalone `Question & Answer` beat in the control section: “Need there be control of desire at all?” Use the monks, Bible/blinker, and free-energy material.
+- Keep the named stories as evidence in the desire/control chapter, not as a general attack on religion. Their function is substitution, control, fear, and self-deception.
+- Let the final beauty passage feed Part III later, but do not move the whole lecture there. Its main home is Part II; its ending points toward attention, direct perception, and the absence of division.
+
+### New tensions or contradictions
+
+- “Freedom from fear” sounds like the natural aim of the fear inquiry, but this lecture warns that “from” may still carry conflict.
+- Pleasure is neither condemned nor justified, yet it cannot be understood directly until desire has been examined.
+- Appetite is related to desire, but the lecture does not turn this into a clean natural/artificial distinction.
+- Desire-process notation is useful but unstable: the transcript alternates between “sensation then contact” and “contact, sensation.” Use `contact/sensation` rather than forcing precision.
+- Control is presented as the traditional solution to desire, but the lecture treats control as another movement of fear, suppression, and desire.
+- Spiritual desire is not dismissed by object alone; the warning is structural. God, truth, enlightenment, or heaven can become substitutes if the movement of desire remains unchanged.
+- “Free energy” must remain Krishnamurti’s experiential language, not physics, psychology, or mystical substance.
+- The closing triad of pleasure, enjoyment, and joy/happiness is deliberately unfinished. Do not convert it into a hierarchy or theory.
+
+### Frame or diagram opportunities
+
+- No validated figure assets exist for Lecture 12. Do not include screenshots, title cards, or talking-head frames.
+- Use only transcript-backed editorial reconstructions:
+  - `freedom from / freedom for / freedom in` contrasted with freedom itself;
+  - `visual perception -> contact/sensation -> desire -> frustration -> anger`;
+  - `object varies -> desire remains`;
+  - `stimulation -> desire -> fulfilment -> fading -> stronger stimulation`;
+  - `desire -> fear of temptation -> control/suppression -> narrowed perception -> desire continues`;
+  - `worldly object` versus `spiritual object` as substitution, not transformation.
+- Keep all diagrams pocket-safe, vertical, and clearly captioned as transcript-based schematics.
+
+### Next rewrite implications
+
+- Part II should now move from fear into desire before attempting a full account of pleasure. This preserves the lecture’s rhythm and prevents pleasure from being treated as an isolated topic.
+- When revising the dynamic book’s freedom language, avoid making “freedom from” the final aim. Use this lecture to distinguish escape from intrinsic freedom.
+- In the desire chapter, preserve the social examples of commercialism and ritual only as evidence for stimulation; do not expand them into modern advertising theory or sociology.
+- In the control chapter, make substitution the central analytic thread: control may merely change the object of desire while preserving the movement.
+- The final beauty passage should be saved as a bridge into later attention and meditation material: direct perception briefly appears without division, but the next inquiry must ask what happens afterward.
