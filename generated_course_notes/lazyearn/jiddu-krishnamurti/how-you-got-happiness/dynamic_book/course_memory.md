@@ -783,3 +783,60 @@
 - In the desire chapter, preserve the social examples of commercialism and ritual only as evidence for stimulation; do not expand them into modern advertising theory or sociology.
 - In the control chapter, make substitution the central analytic thread: control may merely change the object of desire while preserving the movement.
 - The final beauty passage should be saved as a bridge into later attention and meditation material: direct perception briefly appears without division, but the next inquiry must ask what happens afterward.
+
+## Lecture 13 integration: Part II - Being Hurt And Hurting Others
+
+### New evidence
+
+- Adds the first sustained Part II treatment of psychological hurt as a distinct obstacle to attention, innocence, relationship, and wholeness.
+- Reopens “religion” through Anderson’s correction that thought and knowledge are not being abolished, then Krishnamurti’s definition: religion as gathering all energy into attention, not belief, ritual, fear, pleasure, image, propaganda, or organized authority.
+- Adds a historical-psychological account of false religion: loss of direct contact with nature allows the priest to become mediator, interpreter, exploiter, and generator of fear.
+- Sharpens attention by contrast: concentration excludes, focuses, builds barriers, and involves effort; attention has no exclusion, resistance, effort, frontier, or limit.
+- Adds a new anti-duality test for language: “receptive” implies a receiver, and “waiting” implies one who waits for something. Both are rejected as hidden division.
+- Gives the central hurt mechanism: comparison or imitation produces self-image; image becomes a resistance wall; when the wall is touched at a tender point, hurt occurs.
+- Clarifies name/image: a name alone is not the problem; identification with name, body, social status, class, tradition, superiority, inferiority, or inherited prestige sustains the image.
+- Adds the two-question structure for hurt: can past hurt be healed without leaving a mark, and can future hurt end without resistance, withdrawal, escape, or defensive wall-building?
+- Adds a crucial no-method correction: attention cannot be used as a technique to wipe away hurt; understanding image, hurt, family, education, and society gives rise to attention.
+- Adds education as the concrete test of relationship: hurt teacher and hurt child must see together that both are hurt; then relationship changes and teaching is not merely information transfer.
+- Adds the first explicit bridge from hurt to love: helping each other wipe out hurt in relationship is called “the act of love,” preparing the next lecture without defining love prematurely.
+
+### Conservative restructure plan
+
+- Add a major Part II movement after fear and desire titled along the lines of “Hurt, Image, And The Wall Between Us.”
+- Keep the lecture’s religion material split carefully:
+  - use false religion and priestly fear as reinforcement for Part I’s false maps;
+  - use religion as gathered energy/attention as a Part III seed;
+  - keep the immediate lecture function in Part II, where hurt blocks attention and relationship.
+- Expand the existing relationship architecture with this lecture’s more precise woundable-image mechanism. Earlier lectures showed image blocks relationship; this lecture shows how image becomes hurt.
+- Add a standalone `Question & Answer` beat: “Is hurt merely thinking about being hurt?” Answer through comparison, imitation, image, name, and social identification.
+- Add another `Question & Answer` beat: “Can attention be used to heal hurt?” Preserve the reversal: understanding hurt gives rise to attention, not attention as a tool applied to hurt.
+- Treat education as a recurring relational field, but do not merge all education passages. Lecture 13’s education material specifically concerns shared awareness of hurt and the teacher-child relationship.
+
+### New tensions or contradictions
+
+- The lecture defines religion as attention, yet says religions have hurt people. Preserve this as a distinction between living religion and organized religious comparison, imitation, fear, and image.
+- Attention is necessary for perception, but a hurt mind cannot attend. The book should keep this circular-looking difficulty visible: hurt must be understood, not bypassed by a practice of attention.
+- “Innocence” is central but etymologically uncertain in the transcript. Use only the conceptual sense: a mind not hurt or incapable of being hurt.
+- “No future hurt” must not be written as withdrawal, resistance, monastery escape, drugged retreat, or defensive invulnerability.
+- Krishnamurti’s claim that he has never been hurt should be presented as source testimony, not as a general standard imposed on the reader.
+- The educational ending can look practical, but structurally it is the test of the whole inquiry: relationship exists only where image is absent.
+
+### Frame or diagram opportunities
+
+- No validated figure assets exist for Lecture 13; do not include rejected blank, lecturer-only, or dialogue frames.
+- Use transcript-based reconstructions only, clearly captioned as such.
+- Strong pocket-safe diagram candidates:
+  - `religion -> gathering of total energy -> attention without frontier -> what thought cannot capture`
+  - two-column table: concentration versus attention
+  - `comparison / imitation -> self-image -> resistance wall -> tender point touched -> hurt`
+  - `name alone` versus `identification with name/body/status/tradition`
+  - two-branch diagram: past hurt healed without mark; future hurt not added without resistance
+  - `hurt teacher + hurt child + shared awareness -> changed relationship -> act of love`
+
+### Next rewrite implications
+
+- Part II should now move from fear and desire into hurt before love. Hurt is the bridge: it shows why love is misread, resisted, or made impossible by image.
+- When rewriting the dynamic book, do not reduce hurt to “ego.” Use the lecture’s exact structure: comparison, imitation, name, form, class, tradition, propaganda, image, wall, tender point.
+- Preserve the opening rhythm: thought is not rejected; its limit leads into religion, attention, and then the question of what blocks attention.
+- Use this lecture to deepen the book’s no-method guardrail. Attention, meditation, and healing must not become techniques, because technique reintroduces time, will, and the divided center.
+- Let the next love material inherit this chapter’s final formulation: love first appears not as sentiment, belief, or ideal, but as changed relationship where hurt is seen together.
