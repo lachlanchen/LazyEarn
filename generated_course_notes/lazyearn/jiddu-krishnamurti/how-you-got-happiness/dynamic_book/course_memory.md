@@ -327,3 +327,75 @@
 - When writing Part II, reuse this lecture’s account of interposition: plan, conclusion, fear, pleasure, and past come between the person and the problem just as image comes between persons.
 - When writing Part III, connect attention, negation, and action carefully: actual negation is the attention that sees the whole movement, not a practice to maintain.
 - Keep the chapter’s unfinished edge: the next inquiry should clarify why “being responsible for my action” is still wide of Krishnamurti’s meaning of responsibility.
+
+## Lecture 6 integration: Part I - The Responsible Human Being
+
+### New evidence
+
+- Resolves Lecture 5’s unfinished responsibility edge by distinguishing `responsible for X` from `being responsible`: responsibility “for” implies direction, will, object, and preconceived action; being responsible is total, undirected, and the ground in which action takes place.
+- Adds the phrase-level danger in “my action”: if action is put outside oneself, responsibility can become abstraction. Anderson’s “I am my action” should be retained as a bridge between crisis, action, and responsibility.
+- Sharpens the action/time thread: responsible action is “doing now,” while action from a handed-down formula is repetition of the past.
+- Adds concrete formula cases: responsibility to the state, worship of the state, education into conformity, success, nationality, and war.
+- Adds authority-free responsibility as a test: even if there were no books, leaders, teachers, or scriptures, the problem would remain; the mind must still be clear and not rooted in the past.
+- Adds a major choice/freedom distinction: choice is not freedom but a sign of confusion between alternatives; a mind that sees clearly does not decide, it acts.
+- Adds relationship as the field where responsibility must be tested: children, family, neighbor, wife/husband, nature, animals, the earth, air, sea, enemies, and distant human beings.
+- Reinforces the image mechanism with a sharper responsibility claim: if I have an image of another, I have no actual relationship; the images relate. Responsibility in relationship means no image.
+- Adds the “if” versus “when” grammatical clue: “if” can mark abstraction, postponement, and escape from what is.
+- Adds the clearest fact/ideal mechanism so far: the fact is violence; the ideal of nonviolence is an abstraction from the fact, a non-fact; trying to live the non-fact produces conflict, misery, confusion, and delayed action.
+- Clarifies “fact” as “what is” and as something actually done or present, not merely a record or “facts and figures.”
+- Adds the care/prohibition distinction: negation is not prohibition; care is not “I must” or “I must not,” but affection, consideration, attention, and diligence.
+- Adds dependence as a responsibility problem: dependence on mother, father, teacher, guru, spouse, or authority makes one incapable of standing alone.
+- Adds a concrete guru/dependence case: the New Delhi anecdote of an American Christian becoming Tibetan, leaving a sick child with “liberated Tibetans,” and the child becoming a Tibetan monk at seven.
+- Adds permissiveness as another false map of freedom: doing what one wants is not freedom; it breeds irresponsibility.
+- Adds the late education structure: teacher as informer creates division; teacher and student learning together creates companionship, sharing, and a journey together.
+- Adds the mathematics/order reference: mathematics appears only as an example of order and as a test of whether teaching awakens intelligence and attention, not as technical content.
+- Adds the social-responsibility problem: what does a serious person do among the irresponsible? Krishnamurti rejects attack, propaganda, planned intervention, and designed operation on another.
+- Adds a cautious late mechanism: care may reach where direct attack produces resistance, but the “conscious/unconscious” passage should remain tentative and not become psychology.
+- Adds Krishnamurti’s 50-year public-speaking evidence: resistance to new statements, especially against sacred-book dependence, may slowly give way through repeated pointing out without propaganda.
+- Adds the final handoff: responsibility and care lead naturally toward love, fear, pleasure, and the next question, “What is order in freedom?”
+
+### Conservative restructure plan
+
+- Strengthen the responsibility thread across Part I by placing this lecture after communication: Lecture 5 defines responsibility as adequate response to challenge; Lecture 6 distinguishes directed responsibility-for from total being responsible.
+- Add a Part I subsection or chapter movement titled along the lines of “Responsible For, Or Being Responsible.” It should not replace earlier responsibility material, but clarify it.
+- Add “Action Now, Not Action From Formula” as a bridge between knowledge-as-past and relationship: this lecture gives the cleanest sequence from formula to repetition to irresponsible action.
+- Move the choice/freedom material into the transition from Part I to Part II: it belongs with false maps of freedom before the book enters fear, desire, hurt, and love.
+- Expand Part II’s relationship architecture with this lecture’s no-image responsibility claim, especially the wife/husband and images-relating-not-persons formulation.
+- Strengthen the abstraction chapter in Part I with the violence/nonviolence passage. This is now the strongest evidence for treating ideals as escapes from fact.
+- Keep education material split in two places:
+  - early education as evidence of action from inherited formula;
+  - late education as evidence of care, attention, teacher-student companionship, and order.
+- Reserve “order in freedom” for a later Part III threshold rather than answering it here.
+
+### New tensions or contradictions
+
+- Responsibility is total, yet it must express itself concretely in education, politics, behavior, relationship, nature, and society. Avoid making it vague universality.
+- Freedom is not choice, yet action is not mechanical. The book must preserve the distinction: clear seeing acts without choosing between alternatives.
+- Negation is not prohibition, but it still denies dependence, conformity, permissiveness, and irresponsibility. This denial comes from seeing implications, not will.
+- Care is not sentimental softness: it includes diligence, attention, and watchfulness not to hurt, while also refusing propaganda and attack.
+- The lecture treats “being responsible” as undirected, but not passive. It becomes action now.
+- The “unconscious” passage can easily be overbuilt. Keep it as Krishnamurti’s tentative practical contrast between attack/resistance and care/possible inward seeing.
+- The transcript phrase “freedom means responsibility and indifference” remains unstable because it is immediately followed by “Infinite care.” Do not make indifference a concept.
+
+### Frame or diagram opportunities
+
+- No validated figure assets exist for Lecture 6. Do not include screenshots, blank frames, or talking-head frames in the dynamic book.
+- Use transcript-derived conceptual diagrams only, labeled as reconstructions.
+- Strong pocket-safe diagram candidates:
+  - `responsible for X -> direction -> directed will`
+  - `being responsible -> total responsibility -> ground of action`
+  - `inherited formula -> action according to idea -> repetition -> irresponsible action`
+  - `confusion -> choice -> conflict` versus `clarity -> no choice -> action`
+  - `person -> image -> image -> person` versus direct relationship without image
+  - `fact of violence -> ideal of nonviolence -> postponement -> conflict`
+  - `teacher as informer -> division` versus `teacher + student learning -> companionship`
+  - `designed attack -> resistance` versus `careful pointing out -> possible inward seeing`
+
+### Next rewrite implications
+
+- When rewriting the dynamic book, make responsibility a major Part I hinge rather than a passing moral term. It now joins pleasure, knowledge, success, authority, and abstraction as a false-map problem.
+- Preserve the order of the lecture’s motivation: responsibility distinction, action from formula, authority-free clarity, relationship, choice, image, abstraction, care, education, responsible action among the irresponsible.
+- Do not merge all education passages. Their functions differ and should remain distinct in the book’s architecture.
+- Use the violence/nonviolence passage as the book’s clearest explanation of why ideals can be evasions of fact.
+- Use this lecture to sharpen the later Part II relationship chapters: responsibility in relationship is not duty toward another image, but freedom from image.
+- Carry forward the next threshold exactly as unresolved: fear and pleasure go together, and before entering fear the inquiry must ask what order in freedom means.
