@@ -371,6 +371,18 @@ const pdfEntries = {
     download: "investment_pdfs/financial_freedom/financial_freedom.pdf",
     markdown: "https://github.com/lachlanchen/LazyEarn/blob/main/investment/financial_freedom.md",
   },
+  "the-way-to-wealth-freedom-notes": {
+    aliases: ["wealth-freedom-notes", "way-to-wealth-freedom", "wealth-freedom-material-book"],
+    title: "The Way to Wealth Freedom",
+    description:
+      "A 55-chapter material-book edition on attention, capital, time, compounding, personal business models, and the practice of wealth freedom, published as a pocket-first 1.2x PDF.",
+    pdf: "publications/the-way-to-wealth-freedom-notes/the-way-to-wealth-freedom-notes.pdf",
+    download: "publications/the-way-to-wealth-freedom-notes/the-way-to-wealth-freedom-notes.pdf",
+    markdown:
+      "https://github.com/lachlanchen/LazyEarn/blob/main/the-way-to-wealth-freedom-notes-publication/README.md",
+    publication:
+      "https://github.com/lachlanchen/LazyEarn/blob/main/the-way-to-wealth-freedom-notes-publication/README.md",
+  },
   "financial-freedom-zh": {
     aliases: ["financial_freedom_zh", "financial-freedom-zh-cn", "financial-freedom-cn"],
     titleKey: "research.asset2ZhTitle",
