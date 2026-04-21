@@ -1902,3 +1902,60 @@
 - The fear chapter should be revised to include the final fact/image distinction: fear is not in the actuality of the fact but in thought’s picture of it.
 - The attention/meditation material should be careful not to sell a state. Lecture 28 insists on remaining with the fact, even sorrow, without movement into method, consolation, or self-pity.
 - Use this lecture’s named cases as evidence anchors, but keep them subordinate to the inquiry. The conceptual contribution is the sequence from false belonging to aloneness, order, and fact.
+
+## Lecture 29 integration: Part III - The Image Of Yourself
+
+### New evidence
+- This lecture adds a direct critique of the word ``unconscious'': the term is useful only provisionally, because it already suggests a split between surface and depth. The stronger source-backed distinction is:
+  \[
+  \text{avoided fact} \not\Rightarrow \text{separate consciousness}.
+  \]
+- The lecture gives a sharper mechanism for hurt: a wound may be avoided until avoidance becomes habitual, so one forgets that one has forgotten. The wound remains and continues to govern response.
+- The central new formulation is that the self-image is felt as ``me'':
+  \[
+  \mathcal{I}_{\text{self}} \equiv \text{``me''}, \qquad
+  \text{injury to }\mathcal{I}_{\text{self}} \Rightarrow \text{``I am hurt.''}
+  \]
+- It adds the pleasure-pain symmetry of image: the same image that gives pleasure when confirmed gives pain when contradicted. The book should not present image as merely defensive; it is also attractive because it promises pleasure.
+- It clarifies the feedback loop between hurt and image:
+  \[
+  H_{\text{past}} \to \mathcal{I}_{\text{stronger}}, \qquad
+  \mathcal{I} \to \text{forgetting or hiding }H.
+  \]
+- The parent-child material adds a concrete transmission claim: where the parent has an image about himself or herself, the child receives an image-making field. Neglect itself can communicate an image; it is not merely absence.
+- The relationship claim becomes harder than before: Krishnamurti resists ``wrong relationship'' and insists on relationship or no relationship. Image-governed relation is not actual relationship.
+- The rope analogy is new support for apparent freedom or apparent relationship: one may move freely within a range, but the cord eventually reaches its limit or is yanked back. Moments of openness do not equal freedom from image.
+- The closing links image-making to thought and love:
+  \[
+  \text{thought} \to \text{image} \to \text{division} \to \text{no love}.
+  \]
+  This should feed Part III's account of attention and transformation without turning it into a method.
+
+### Conservative restructure plan
+- Add a focused dynamic-book section on ``image-making'' as the bridge between Part II's hurt/relationship material and Part III's attention/transformation material.
+- Place the critique of the ``unconscious'' near the book's broader treatment of fragmentation, not as a separate psychology chapter.
+- Let the self-image mechanism become the main explanation of psychological hurt in the evolving book, while preserving earlier material on fear, desire, pleasure, and attachment.
+- Preserve the lecture's Q\&A beats in future chapters: unconscious as layer or avoidance; can the psychological brain never be hurt; relationship or no relationship; how can image-making stop?
+
+### New tensions or contradictions
+- The lecture uses ``unconscious'' while undermining the word. Future drafts should keep quotation marks or otherwise mark the term as provisional.
+- Biological dependence must remain distinct from psychological image. Do not import developmental psychology; the source only tests whether hurt requires an image.
+- Image appears both as protection against hurt and as the very basis on which hurt occurs.
+- The proposal that image-making can stop risks becoming another piece of knowledge or another future image. The lecture explicitly blocks that move.
+- Asking ``how'' is treated as part of the machinery: method, system, practice, and evidence can all become new images.
+
+### Frame or diagram opportunities
+- No validated frame-backed figures exist for this lecture. Do not preserve title cards or conversation close-ups as evidence.
+- Transcript-backed diagrams are useful if kept narrow and pocket-safe:
+  - split layer model versus avoided fact within one movement
+  - hurt-image feedback loop
+  - image to pleasure/pain to hurt to withdrawal to no relationship
+  - parent image to child image, including neglect as communicated image
+  - rope-limit schematic for apparent freedom
+  - fact plus thought/commentary to new image versus fact without commentary to transformation
+
+### Next rewrite implications
+- Future dynamic-book prose should not flatten this lecture into ``self-image causes hurt.'' The lecture keeps both directions active: hurt strengthens image, and image makes further hurt possible.
+- The relationship section needs room because the strong claim lands only after parent-child transmission, the rope analogy, and the admitted resentment at hearing ``no relationship.''
+- The closing should remain anti-methodical: transformation is tied to remaining with the fact without commentary, not to practice, proof, evidence, or a future state.
+- The final open question should be preserved for the next arc: if consciousness is filled with image-making, conclusions, ideas, and running away, what is consciousness without image-making?
