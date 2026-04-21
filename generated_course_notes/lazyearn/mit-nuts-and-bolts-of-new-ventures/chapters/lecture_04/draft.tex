@@ -1,0 +1,249 @@
+\chapter{Legal Issues}
+
+This lecture is deliberately practical. We are not being trained to become our own lawyers; we are being trained to recognize the places where a new venture can lose ownership, lose optionality, or create tax and financing trouble simply by moving in the wrong order. Hadzima therefore proceeds as an engineer of legal timing. He starts from the life cycle of the venture, moves through intellectual property and ownership, and closes on entity choice, tax elections, and the Section~83 trap, where a few lines of arithmetic determine whether founder stock is a gift or a disaster.
+
+\section{Framing Legal Issues Along the Venture Life Cycle}
+
+Hadzima opens with two warnings. First, this is background information, not legal advice, because legal outcomes depend on facts and because the law changes. Second, he intends to overload the audience. That warning is not rhetorical. It tells us how to read the chapter: not as a complete treatise on doctrine, but as a map of decision points that arise in sequence as a venture forms, hires, raises money, and eventually exits.
+
+The organizing device is the life cycle of the venture. Across the top we move from idea, to pre-financing, to first and second rounds of financing, and beyond. Down the side come the recurring legal domains: intellectual property, entity choice, people, and financing. The point is not merely to classify topics. The point is to force us to ask, at each stage, what can already go wrong before outside capital arrives.
+
+The first two phases therefore matter disproportionately: we have an idea, and we are getting ready for outside financing. In that interval we must decide who owns what, how it is protected, and what legal form is supposed to hold it. Later investors will ask these questions as diligence. The lecture asks us to ask them earlier.
+
+\section{Why Intellectual Property Matters, and What Protection Means}
+
+The first serious quantitative claim in the lecture is the motivation for everything that follows:
+
+\begin{equation}
+\text{Intellectual property}\subset \text{Intellectual capital}\subset \text{Intangible assets},
+\qquad
+\text{Intangibles}\approx 84\%\ \text{of S\&P 500 market cap in 2015}.
+\end{equation}
+
+This is the structural move. We begin with market value, then narrow to intangible assets, then to intellectual capital, and then to the subset that can actually be protected. That nesting matters. Not every intangible is property, and not every valuable idea is automatically protected.
+
+\begin{definition}
+Intellectual property is the legally protectable subset of the venture's intellectual capital. In the lecture's register, it is the part of the venture's intangible value that can be owned, fenced, licensed, assigned, or lost.
+\end{definition}
+
+Hadzima then organizes the field by levels of protection. At one end there is no protection at all: one simply has an idea and lets the world use it. Then come trade secrets, which are strong so long as the secret is genuinely maintained. Trademark and copyright protect in a different way: they add value and distinctiveness, but they do not generally block others from making functionally similar products. Patent is different again. It provides actual exclusion rights, but only in exchange for disclosure.
+
+A compact way to summarize the duration logic is
+
+\begin{align}
+\text{Term}_{\text{trade secret}} &= \infty \quad \text{while secrecy is maintained},\\
+\text{Term}_{\text{patent, U.S.}} &= 20\ \text{years from filing},\\
+\text{Intent-to-use use window} &\le 3\ \text{years},\\
+\text{Copyright duration} &\approx 70+\ \text{years}.
+\end{align}
+
+The cost curve runs in the opposite direction: trade secrets are cheap in the narrow filing sense but costly if the business requires heavy secrecy infrastructure; patents are the most expensive to obtain and maintain. This inverse relation between duration, exclusion strength, and cost is one of the mathematical spines of the lecture.
+
+Trademark and copyright also come with timing rules. Trademark rights arise through use, and federal registration strengthens them. Copyright arises upon creation, but registration becomes crucial if one actually wants to sue to stop copying. Hadzima's examples insist on the distinction between idea and expression: a trademark does not stop Pepsi from making cola; it stops Pepsi from calling it Coke. A copyright does not stop anyone from writing a love-triangle story; it stops them from copying Shakespeare's particular expression.
+
+The copyright discussion ends with two founder-facing warnings. First, for software and similar works, registration may require deposit of material one would rather keep obscure, and so procedure matters. Second, and much more important for ventures, the person who authors a work owns it unless employment law or a valid work-for-hire arrangement says otherwise. A company can spend real money to build software and still not own it.
+
+\subsection{Question \& Answer}
+
+Why worry about intellectual property if we only have an idea?
+
+Because the early venture is mostly idea, process, know-how, and team. If the value of firms is increasingly intangible, then the venture's first legal problem is not merely ``can we build this?'' but also ``who owns the build, and what kind of legal fence, if any, surrounds it?'' Without that question, later financing is built on vapor.
+
+A short contemporary aside in the lecture concerns copyright and artificial intelligence. The lecture-era rule is cautious but clear in one direction: copyright requires human authorship. AI alone does not become an author. The unresolved question is how much human authorship is sufficient when AI tools are heavily used. That issue is not resolved here, but the note to preserve is simple: human creative control remains the legal fulcrum.
+
+\section{Patents as Exclusion Rights and Timing Constraints}
+
+Patent is the lecture's central analytic object, because it is the regime in which legal structure most plainly resembles a mathematical boundary. Hadzima repeatedly says that a patent is not simply an approval to use an invention. It is a right to prevent others from making, using, selling, or importing what falls inside the claims.
+
+\begin{proposition}
+A patent is an exclusion right, not a complete affirmative permission to practice an invention.
+\end{proposition}
+
+\begin{proof}
+Suppose one inventor patents a ``vessel to hold a liquid,'' and a second inventor later patents a ``handle.'' The combined commercial product, a handled cup, uses both inventions. The owner of the vessel patent cannot lawfully commercialize the combined product without the handle patent. The owner of the handle patent cannot lawfully commercialize the combined product without the vessel patent. Thus each can exclude, but neither has complete freedom to practice. A cross-license is required.
+\end{proof}
+
+This is why Hadzima uses the real-estate analogy. A fence tells us what land is ours; it does not guarantee a road to get there. Patent claims function the same way.
+
+The basic patentability conditions in the lecture are standard and should be kept together: novelty, non-obviousness, usefulness, and patentable subject matter. The lecture is careful to add a practical timing rule:
+
+\begin{equation}
+\text{U.S. filing window after enabling disclosure or offer for sale} = 1\ \text{year}.
+\end{equation}
+
+An enabling disclosure is not any public sentence. It is a disclosure detailed enough that someone skilled in the relevant art could understand how to carry out the invention. ``I have anti-gravity boots'' is not enough. A technically complete public explanation may be enough. Once that threshold is crossed, the clock begins.
+
+Hadzima also emphasizes the shift to first-inventor-to-file. This is a timing race. It especially matters in joint ventures and collaborations, where each party may think of the middle ground as shared until one side files first.
+
+\subsection{Question \& Answer}
+
+If we have a patent, are we free to practice the invention?
+
+Not necessarily. We are free only relative to the claims we own. If other claims sit upstream, downstream, or orthogonally around the commercial product, then we may still be blocked. This is why the lecture joins patentability to freedom to operate: one concerns obtaining rights; the other concerns navigating a landscape already populated by rights.
+
+A venture therefore needs both ownership and clearance. The venture must own the invention it thinks it owns, and it must also ask whether another patent prevents commercialization. Hadzima mentions the freedom-to-operate opinion in exactly this setting. It does not guarantee non-infringement, but it reduces uncertainty and matters especially because willful infringement can multiply damages.
+
+\section{Patent Strategy, Mapping, and Cost Discipline}
+
+Once patents are understood as exclusion rights in a crowded field, the lecture shifts from doctrine to navigation. This is where patent mapping enters. Hadzima's motivating anecdote is itself an arithmetic argument: a prior-art search took six months, and during that interval the environment changed too fast.
+
+Using the lecture's round numbers, we get the back-of-the-envelope estimate
+
+\begin{equation}
+5000\ \text{new U.S. patents/week}\times 26\ \text{weeks}\approx 1.3\times 10^5\ \text{new patents}.
+\end{equation}
+
+The precise total is only a rough extrapolation, but the point is exact enough: a static search can be stale before it is useful.
+
+A patent map, in the lecture's description, is a timeline-and-citation picture. Boxes are patents or published applications. The left edge marks publication or issue date. A tail to the left marks filing date. The lines are citations. The map lets us see prior art, clusters of activity, continuation behavior, and, above all, where a venture may choose to enter or avoid.
+
+That strategic use of the map appears in two complementary stories. In one, a dense thicket suggests an area to avoid; a sparser region suggests a better beachhead. In another, the dense thicket is exactly where the founders want to go, because they believe they have solved the problem all those clustered patents are straining toward. The map is not an answer machine. It is a structured way to ask where the commercial and legal terrain is crowded.
+
+Timing then returns in a different form: when should we file? Hadzima's answer is layered. File before losing rights through disclosure. File in time to beat other inventors to the office. File early enough that potential licensees and acquirers see a real protectable position. This is why the lecture places provisional applications at the center of startup patent practice.
+
+\begin{align}
+\text{Provisional priority period} &= 1\ \text{year},\\
+\text{Provisional filing fee}_{\text{micro}} &\approx \$64.
+\end{align}
+
+The legal point is subtle. The provisional establishes a filing date, but only for subject matter actually described there. If one files on fruits and vegetables and later discovers protein matters too, the later insight does not inherit the earlier date unless the provisional already described it. This is a precise containment problem: the later claim must fit inside the earlier disclosure.
+
+The lecture is equally explicit about cost:
+
+\begin{align}
+\text{Patent preparation cost} &\approx \$5{,}000-\$15{,}000,\\
+\text{Outlier application bill} &\approx \$35{,}000,\\
+\text{Foreign patent cost}_{10\text{ major countries}} &\approx \$330{,}000-\$500{,}000.
+\end{align}
+
+This is where the lecture's engineering temperament becomes most visible. Cost is not treated as mere complaint. It is an optimization constraint. Startups must decide what to patent, not what they could in principle patent.
+
+\subsection{Question \& Answer}
+
+Should we patent the idea, or disclose parts of it to block others?
+
+The lecture's answer is strategic rather than universal. If we have a strong core patent, it may be cheaper and smarter to disclose peripheral variants so that others cannot later patent a picket fence around us. Hadzima's cup example makes the logic transparent: if others can patent the top, the sleeve, the handle, and the insulation around our core cup patent, they may block commercialization even though we own the center. Disclosure can therefore be used to create prior art against those outer claims.
+
+Tesla enters here as an ecosystem example. The lecture's point is not simply that Tesla made patents available. It is that IP strategy can aim at control of a whole market architecture rather than direct exclusion at every point. If the business objective is to build an electric-vehicle ecosystem, opening some patent access may stimulate the complementary infrastructure the core business needs.
+
+\section{Working With Lawyers, and Moving University IP into a Startup}
+
+Before shifting to university licensing, Hadzima compresses the patent material into founder operating rules. Employees should sign invention disclosure and assignment agreements. Consultants should sign proper work-for-hire agreements where appropriate. One should use non-disclosure agreements selectively, while also recognizing that venture investors often refuse them. One should delay disclosure of the true secret sauce until the last responsible moment. These are not side comments; they are the practical grammar of ownership.
+
+The lecture's advice on dealing with lawyers is similarly structural. Legal expertise is purchased by the hour. If founders bring chaos, they will buy expensive chaos. If they bring invention disclosures, prior art reading, technical drafts, and a clear filing schedule, they buy something closer to leverage. This is why the lecture insists that founders should do as much technical preparation as possible and let the patent lawyer specialize in claims.
+
+The Bayh-Dole discussion then reintroduces ownership at the institutional scale. Before Bayh-Dole, federally funded university inventions were owned by the federal government and were typically licensed only non-exclusively. Since a serious startup usually wants exclusive control, that system commercialized very little. Bayh-Dole shifted ownership and licensing authority to universities and required active commercialization.
+
+\begin{equation}
+\text{Pre-Bayh-Dole commercially licensed patents} \approx 5\%.
+\end{equation}
+
+At MIT, in the lecture's account, the Technology Licensing Office is designed not only to capture royalties but also to get inventions into the world. The details matter. MIT does not assign ownership outright; it licenses. Significant use of MIT facilities or funds matters. Sponsors may have first rights. The founder must know whether the company is building around licensed university IP, personally owned IP, or some murky mixture of the two.
+
+\subsection{Question \& Answer}
+
+How do we take university IP into a startup without quietly mis-owning it?
+
+By refusing to treat ownership as implicit. If the invention belongs to the university, the startup must bring it out through the front door, typically by option and then license. The option buys time: time to test the market, time to talk with investors, and time to raise money without pretending that the IP has already been smuggled into the company.
+
+The lecture's numerical ranges for university startup licenses are worth preserving:
+
+\begin{align}
+\text{Issue fee} &\approx \$50\text{K}-\$150\text{K},\\
+\text{Running royalty} &\approx 3\%-5\%,\\
+\text{University equity} &\approx \text{single-digit }\%.
+\end{align}
+
+The further structural point is that the university's equity can remain fixed through the first financing round in the sense described in the lecture. If MIT receives, say, a five-percent stake, it is not diluted away by the first investor in the simple way founders might initially assume. That detail belongs in the notes because it changes capitalization logic.
+
+\section{Entity Choice, Tax Elections, and the Section 83 Trap}
+
+At this point the lecture pivots from ownership of technology to ownership of the company itself. If founders do nothing, they may already have a general partnership, and with it joint and several liability. That is a disastrous default for a growth venture. Hence Hadzima's repeated advice: incorporate sooner rather than later, and if the business is likely to raise venture money, Delaware is usually the cleanest corporate home.
+
+The tax discussion is introduced in the same spirit. A corporation is a legal person, and if one does nothing it is taxed under Subchapter~C. An S election changes the structure by making the tax pass through to shareholders. The lecture's important point is not the mechanics alone, but why founders should care before they are profitable.
+
+\begin{align}
+\text{C-corp asset sale} &: \text{corporate-level tax} + \text{shareholder-level tax},\\
+\text{S-corp asset sale} &: \text{pass-through tax at the owner level only}.
+\end{align}
+
+The constraints are real:
+
+\begin{equation}
+\text{S-corp eligibility:}\qquad \#\text{shareholders}<100,\qquad \text{classes of stock}=1.
+\end{equation}
+
+A venture capital investor will typically terminate the S status by failing the eligibility conditions. But Hadzima's point is that the election can still matter before that, especially if the company exits early through an asset sale. His lecture-era example suggests an exit-tax difference on the order of thirteen percent, and he gives the DIVA example as a case in which an early S election reportedly saved roughly two million dollars.
+
+Then comes the climax. If the room has been drifting, Hadzima wakes it up: Section~83 is a trap. The rule is simple in form and painful in application.
+
+\begin{equation}
+I_{\text{ordinary}}=\mathrm{FMV}-P.
+\end{equation}
+
+Here \(I_{\text{ordinary}}\) is ordinary income, \(\mathrm{FMV}\) is the fair market value of the property received, and \(P\) is what the recipient paid. If the property is founder or employee stock received for services, this can create a tax bill long before there is liquidity.
+
+A worked example captures the point. The transcript is partially garbled around the worse valuation case, so we keep the clean arithmetic and state the second step cautiously.
+
+\begin{align}
+I_{\text{ordinary}} &\approx \$500{,}000,
+&
+T &= 0.40\times \$500{,}000=\$200{,}000,\\
+I_{\text{ordinary}} &\approx \$1{,}000{,}000,
+&
+T &= 0.40\times \$1{,}000{,}000=\$400{,}000.
+\end{align}
+
+The logic is straightforward. If an investor pays one million dollars for half the company, the founder's half is no longer plausibly worth pennies. If the founder received that half for services and paid little or nothing, the difference is ordinary income. The lecture's deliberately alarming point is that one can owe tax on founder stock without having cash to pay it.
+
+The second blow is vesting. Stock often vests over time, and absent an \(83(b)\) election the measurement of income can be deferred until vesting. That can make the tax base rise with the success of the company.
+
+\begin{figure}[h]
+\centering
+\includegraphics[width=0.92\linewidth]{lecture_04_figure_04.png}
+\caption{Section~83 trap slide with timing-versus-priority chart.}
+\end{figure}
+
+The slide that accompanies this part of the lecture is useful precisely because it is not numerical. It says: issue the stock earlier, separate that issuance from the later financing event that will value it, and make the \(83(b)\) election. It also asks why the stock is not issued in time. The visible reasons are plain and embarrassing: the founders are too busy, or they are still negotiating who should get what.
+
+\begin{figure}[h]
+\centering
+\begin{tikzpicture}[x=0.9cm,y=0.9cm]
+\draw[thick] (0,0) -- (0,5.8);
+\draw[thick] (0,0) -- (7.2,0);
+\node[align=center,anchor=east] at (-0.25,4.9) {Relative\\importance};
+\node[anchor=north] at (6.5,-0.2) {Time};
+\node[red] at (1.8,5.1) {Technical};
+\end{tikzpicture}
+\caption{A pocket-scale reconstruction of the lecture's timing sketch: early technical urgency crowds out timely founder-stock allocation.}
+\end{figure}
+
+\subsection{Question \& Answer}
+
+Why does stock not get issued in time, and how does an \(83(b)\) election avoid the trap?
+
+Because the founders postpone the unpleasant conversation about split and ownership while they are consumed by technical work, customer work, and fundraising. The result is that stock issuance drifts forward in time until an outside investment or other valuation event makes the stock expensive for tax purposes. The \(83(b)\) election is the mechanism that moves the tax measurement back toward the early low-value moment. But the election works properly only if the stock has actually been issued, and only if issuance is separated in time from the later financing event that reveals a much higher fair market value.
+
+The lecture's garbled audio around this section should not tempt us to overstate detail. The robust structure is clear enough: incorporate early, issue stock early, let later cash investment occur later, and file \(83(b)\) promptly.
+
+\section{Founder Equity as Negotiated Structure}
+
+After the tax climax, the lecture does not end with doctrine. It swings back to culture. Founder equity is not presented as a formula that spits out a fair split. It is presented as a negotiated structure that encodes views about past contribution, future work, ownership of IP, sacrifice, and commitment.
+
+The Keenan Systems example makes the point by contrast. One founder kept essentially all the stock, paid employees well, and later gave bonuses at acquisition. That was not a universal model. It was a culture. The lecture uses it to break the habit of treating equity allocation as if there were a single canonical fairness theorem.
+
+What does remain quantitative is the option pool logic. If we ask how much stock should be reserved for future hires, the answer is not ``whatever sounds normal.'' It is tied to the hiring plan for the next two to three years, and the lecture gives a practical range for the first outside round:
+
+\begin{equation}
+\text{Equity compensation pool after the first outside round}\approx 12\%-18\%.
+\end{equation}
+
+The lower end corresponds to a company that already has senior people in place. The higher end corresponds to a company that still must recruit substantial experience. Here again the lecture treats equity as a timed resource. One reserves not for abstract need, but for the next hiring horizon.
+
+The most useful qualitative advice in this closing segment is the exercise Hadzima gives to founders who cannot decide how to split stock. Each side should write down what it is contributing, what it is giving up, and over what period. The professor contributes reputation, access, and perhaps one consulting day a week. The postdoc or early employee may be giving up a market salary, a safer job, or an academic career. The virtue of the exercise is not that it produces a formula. It makes the variables visible.
+
+\section{Summary}
+
+The lecture proceeds from a broad claim about intangible value to a narrow trap in founder taxation, but the connective tissue is timing. We ask when an idea becomes property, when a disclosure becomes enabling, when a provisional becomes insufficient, when university ownership must be formalized by license, when an entity choice changes exit taxation, and when founder stock becomes taxable income.
+
+If we keep only one structural lesson, it should be this: the venture is damaged not only by bad legal rules, but by good legal rules encountered in the wrong order. Patents, licenses, assignments, corporate forms, vesting schedules, and \(83(b)\) elections all become intelligible once we treat them as part of one temporal architecture. The founders who move early preserve optionality. The founders who postpone, improvise, or assume ownership after the fact often discover that arithmetic has already taken control.
