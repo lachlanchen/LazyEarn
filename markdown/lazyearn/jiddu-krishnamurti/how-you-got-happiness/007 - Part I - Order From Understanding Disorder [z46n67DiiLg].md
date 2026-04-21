@@ -1,0 +1,1 @@
+../wholly-different-way-of-living/005 - J. Krishnamurti - San Diego 1974 - Convers. 5 - Order comes from the understanding of our disorder [z46n67DiiLg].md

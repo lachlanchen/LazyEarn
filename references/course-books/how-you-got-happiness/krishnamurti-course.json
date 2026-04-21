@@ -1,0 +1,22 @@
+{
+  "course_rel": "lazyearn/jiddu-krishnamurti/how-you-got-happiness",
+  "course_title": "How You Got Happiness?",
+  "course_descriptor": "A three-part Krishnamurti reader from Ending All Fear, A Wholly Different Way of Living, and The Transformation of Man",
+  "dynamic_book_enabled": true,
+  "dynamic_book_title": "How You Got Happiness?",
+  "dynamic_book_descriptor": "A nonlinear book on happiness, fear, attention, relationship, meditation, and freedom from J. Krishnamurti's official talks and dialogues",
+  "dynamic_book_target": "build a coherent book from the full Krishnamurti corpus rather than a playlist digest; each chapter should feed the three-part architecture in references/course-books/how-you-got-happiness/krishnamurti-book-plan.md.",
+  "dynamic_book_style_target": "write as a clear, serious, source-conscious philosophical companion: vivid and readable, but never motivational, devotional, or method-selling.",
+  "dynamic_book_structure_target": "maintain the three-part architecture: Part I, The False Map Of Happiness; Part II, Fear, Desire, Hurt, Love, Death; Part III, Attention, Meditation, Transformation, The Sacred. Structural changes are allowed only when new evidence from the current chapter makes the plan clearer without deleting existing substance.",
+  "lecturer_name": "J. Krishnamurti",
+  "deliverable_target": "a faithful, source-conscious chapter in the planned How You Got Happiness? book, plus a compiled course PDF and dynamic book.",
+  "visual_target": "selected frames are supporting evidence for speaker identity, conversation setting, on-screen titling, and dialogue structure; use them sparingly and never let images override the spoken inquiry.",
+  "mathematical_standard": "preserve conceptual distinctions precisely, especially fear, pleasure, desire, thought, image, time, meditation, attention, relationship, and freedom; do not invent formal psychology, neuroscience, or philosophy beyond the source.",
+  "style_target": "chapters should read like polished book chapters inside a three-part Krishnamurti inquiry into happiness. Keep the whole plan in view: Part I exposes false maps of happiness, Part II examines fear and relationship, and Part III moves toward attention, meditation, transformation, and the sacred. Do not write generic self-help. Do not flatten repetition when a new talk adds new evidence or a sharper distinction. Keep diagrams and tables pocket-safe.",
+  "credit_target": "keep explicit credit to J. Krishnamurti, the Krishnamurti Foundation Trust source material, and curation by LazyingArt LLC; reserve website URLs for front matter, not body prose.",
+  "front_matter_single": "Original talk by J. Krishnamurti. Source material preserved by the Krishnamurti Foundation Trust. Notes organized by \\href{https://lazying.art}{LazyingArt LLC} with \\href{https://github.com/lachlanchen/Video2Book}{Video2Book}.",
+  "front_matter_plural": "Original talks and dialogues by J. Krishnamurti. Source material preserved by the Krishnamurti Foundation Trust. Notes organized by \\href{https://lazying.art}{LazyingArt LLC} with \\href{https://github.com/lachlanchen/Video2Book}{Video2Book}.",
+  "reference_missing_text": "No directly matching reference PDF is available for this Krishnamurti chapter.",
+  "reference_no_match_text": "Matching reference files were found, but no strong topical excerpt was automatically matched for this Krishnamurti chapter.",
+  "reference_budget_text": "Matching reference files were found, but no excerpt fit within the current prompt budget."
+}

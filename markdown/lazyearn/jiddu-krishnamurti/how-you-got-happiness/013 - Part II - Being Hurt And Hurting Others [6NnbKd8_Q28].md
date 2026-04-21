@@ -1,0 +1,1 @@
+../wholly-different-way-of-living/011 - J. Krishnamurti - San Diego 1974 - Conversation 11 - Being hurt and hurting others [6NnbKd8_Q28].md

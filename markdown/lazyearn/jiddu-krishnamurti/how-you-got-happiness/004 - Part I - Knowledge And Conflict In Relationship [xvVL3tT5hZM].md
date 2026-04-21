@@ -1,0 +1,1 @@
+../wholly-different-way-of-living/002 - J. Krishnamurti - San Diego 1974 - Conversation 2 - Knowledge and conflict in human relationships [xvVL3tT5hZM].md
