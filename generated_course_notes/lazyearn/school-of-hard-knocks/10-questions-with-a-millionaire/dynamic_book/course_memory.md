@@ -974,3 +974,108 @@
 - The risk/financing chapter should add “network trust as restart capital,” but with a caveat: this is not available to everyone at zero; it is a later asset created by prior relationships.
 
 - Keep Victor’s evidence distributed across the dynamic spine rather than making him a standalone chapter: first mechanism, attention, scale arithmetic, bootstrapping, sales, network, reinvestment, time discipline, restart, and legacy each receive one useful new witness.
+
+## Lecture 12 integration: 6 Questions With A Public CEO
+
+### New evidence
+
+- **Named witness for public-company entrepreneurship and health-tech claims:** Mark White adds a public-company CEO case tied in the transcript to Nexalyn Technologies, Houston headquarters, mental-health frequencies, and claims about helping people get off psychiatric medication. Keep the company/product material as source framing and attributed claim, not independent medical validation.
+
+- **First-money mechanism from controlled access:** White’s first business was car detailing while working as a valet in late-1970s Houston during the oil boom. The useful mechanism is unusually clean:
+  \[
+  \text{Opportunity}\approx \text{access}+\text{idle time}+\text{visible proof}+\text{small offer}.
+  \]
+  Concrete evidence: hotel valet access, dinner-time waiting, new Armor All, wheel/tire cleaning that made cars look refreshed, and a \(\$20\) trial offer.
+
+- **Visible proof before scale:** The car-detailing story adds a simple “show me” service mechanism. White and the doorman used the dinner window to demonstrate value, then White later picked up Lincoln Mark Fives and Cadillac Eldorados from offices, took them home, cleaned wheels with a toothbrush, and Armor Alled tires.
+
+- **Sales as respectful diagnosis:** White rejects hard-close sales as his primary model. His stated move is to enter a room asking why the buyer might say no, then ask questions, listen, tailor the message, and avoid telling people what they already know better than he does:
+  \[
+  \text{Ask}\rightarrow \text{Listen}\rightarrow \text{Tailor}\rightarrow \text{Respect}\rightarrow \text{Engage}.
+  \]
+
+- **Humility as sales infrastructure:** In healthcare rooms, White says he does not pretend to know healthcare better than medical professionals. This reinforces the course’s people-leverage and trust themes with a specific sales behavior: deference to expertise can make the pitch more credible.
+
+- **Capital leakage from good weeks:** White gives a concrete money-discipline warning: a founder has a big week, a few thousand dollars come in, and suddenly that money becomes a Saks suit or a \(\$200\) bottle of wine. Mechanism:
+  \[
+  \text{business income}+\text{personal spending impulse}\rightarrow \text{capital leakage}.
+  \]
+  This strengthens the distinction between revenue arriving and enterprise capital being preserved.
+
+- **Knowledge/wisdom distinction:** White states knowledge as firsthand experience and wisdom as listening to those with knowledge:
+  \[
+  \text{knowledge}\approx \text{firsthand experience},\qquad
+  \text{wisdom}\approx \text{listening to those with knowledge}.
+  \]
+  This belongs in the advice and relationships chapters, especially beside Morgan’s giving/trust and Victor/Zane’s value-before-access material.
+
+- **Attributed trauma framework:** White broadens trauma beyond major injury and names toxic, physical, and emotional trauma:
+  \[
+  \text{Trauma}=\{\text{toxic},\text{ physical},\text{ emotional}\}.
+  \]
+  He claims the brain has chemical and electrical systems, and that trauma may manifest as chemical imbalance or EEG/frequency disturbance. Preserve dopamine, serotonin, acetylcholine, EEG/frequencies, PTSD beyond military contexts, non-invasive technology, nutrition, talk support, and spiritual community as White’s claims only.
+
+- **Failure as greatest accomplishment:** White does not name going public as his greatest accomplishment. He names recovering from failure and bankruptcy: seeing his life’s work loaded into trucks, facing creditors, giving assets back, and learning humility through bankruptcy attorney Nelson Hemsley. This is strong new evidence for the failure/humiliation chapter:
+  \[
+  \text{failure}+\text{creditor-facing accountability}+\text{humility}\rightarrow \text{practical wisdom}.
+  \]
+
+- **Small-promise structure:** White’s Haas story adds one of the clearest beginner routines so far: alarm at 8 a.m., make the bed, shower, be ready at 9, eat lunch at noon, dinner at six, prepare for bed, and succeed at one small promise. The mechanism is:
+  \[
+  \text{small promise kept today}\rightarrow \text{self-trust}\rightarrow \text{larger discipline}.
+  \]
+
+### Conservative restructure plan
+
+- Add White’s car-detailing story to **Question 1: What was the first real money-making mechanism?** as the “controlled access plus visible proof” case.
+
+- Add hotel dinner downtime and the customer’s already-entrusted car to **Question 2: What painful bottleneck or customer problem created the opportunity?** The problem is not pain in the dramatic sense; it is an underused time window and a neglected visible improvement.
+
+- Add valet access, customer trust, and later office pickup of cars to **Question 3: What did the person actually own or control?** White did not initially own a shop; he controlled access, time, and service execution.
+
+- Add the ask/listen/tailor/respect loop to **Question 4: How did customers, distribution, reputation, or attention arrive?** It should sit beside Victor’s pull-based sales, Zane’s conviction, Louis’s consultative selling, and Cardone’s closing-as-service.
+
+- Add capital leakage from personal spending to **Question 5** and **Question 7** as a retained-capital warning. This is the beginner-scale complement to Louis’s retained earnings and Morgan’s no-debt resilience.
+
+- Add humility, fewer words, and knowledge/wisdom to **Question 6**, **Question 10**, and **Question 11** as communication discipline and teachability.
+
+- Add White’s mental-health and trauma material lightly to **Question 2** as the claimed customer problem behind his current company, and to **Question 12** only if the book later discusses health/mental health as part of what wealth is for. Keep attribution strict.
+
+- Add bankruptcy, creditor meetings, liquidation, family repair, and humility to **Question 9: What failure, loss, or humiliation taught the rule?** This is the lecture’s strongest contribution.
+
+- Add the Haas routine to **Question 11: What advice would survive for a beginner or younger self?** It is a concrete antidote to overlarge self-improvement promises.
+
+### New tensions or contradictions
+
+- **Public-company status vs failure as accomplishment:** The title gives status, but White’s deepest success claim is surviving failure and facing creditors. Use this as a reversal, not a contradiction to smooth away.
+
+- **Confidence vs humility:** White describes himself as energetic, confident, and aggressive, yet repeatedly returns to knowing what he does not know. This should sharpen the book’s treatment of sales and leadership.
+
+- **Revenue vs retained capital:** The “few thousand dollars” week shows how quickly business income can become personal display spending. This is a small-scale version of the course-wide warning that cash received is not the same as durable wealth.
+
+- **Medical claims vs source discipline:** The trauma and frequency material is useful for understanding White’s business and worldview, but it must remain attributed. Do not turn it into medical exposition or evidence of treatment efficacy.
+
+- **Transformation vs one small promise:** White’s self-improvement advice resists heroic overhaul. The tension is deliberate: large life change begins with a tiny unit of kept structure.
+
+### Frame or diagram opportunities
+
+- No lecture 12 screenshot assets should be retained. The validated notes report no mathematical screenshots, no board equations, and no diagram evidence.
+
+- Best transcript-derived pocket-safe visuals:
+  - Vertical car-detailing flow: valet access -> dinner idle time -> Armor All visible proof -> \(\$20\) trial -> repeatable service.
+  - Sales loop: ask why they would say no -> ask questions -> listen -> tailor -> respect expertise -> engage.
+  - Attributed trauma map: toxic/physical/emotional trauma -> fight-or-flight -> claimed chemical or EEG/frequency disturbance.
+  - Bankruptcy accountability chain: failure -> creditors -> asset liquidation -> humility -> practical wisdom.
+  - Haas routine ladder: alarm -> make bed -> ready by 9 -> meals -> bedtime prep -> one kept promise.
+
+### Next rewrite implications
+
+- The first-mechanism chapter should include a subsection on **access as the first asset**. White is the cleanest small-scale example: he did not start with capital, inventory, or a storefront, but with trusted access and a visible improvement.
+
+- The sales chapter should preserve White’s diagnostic question, “why would they say no?”, because it gives the sales loop its engine.
+
+- The risk and wealth-building chapters should add **capital leakage** as a recurring early-founder danger: personal spending can drain the same pool needed for growth.
+
+- The failure chapter should use White as a high-emotion accountability case. Do not compress it to “failure taught humility”; keep the trucks, creditors, attorney challenge, restitution, and family repair.
+
+- The beginner-advice chapter should include the Haas routine as a Q&A block on why one small promise can matter more than a full life overhaul.
