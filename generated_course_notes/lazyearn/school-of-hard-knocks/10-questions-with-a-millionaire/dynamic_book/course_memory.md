@@ -148,3 +148,58 @@
 - Use `Question & Answer` blocks later for: how a failed project becomes an asset; why a top salesperson can be fired; what keeps financing alive when revenue goes to zero; and why silence after the ask can matter in negotiation.
 
 - The book’s “customer” theme should broaden after this lecture: customers are not only legal clients or hotel guests, but also lenders, employees, tourists, and, in Klubeck’s political analogy, citizens/businesses of a state.
+
+## Lecture 3 integration: I Was on Food Stamps... Now I Make $100M∕Year
+
+### New evidence
+
+- TJ adds a small-business acquisition witness to the book: he claims roughly \(\$90\text{M}\) to \(\$100\text{M}\) in annual company revenue, about \(\$25\text{M}\) personally, just under ten companies, a sold tech services business, a sold construction business, and a current supplement business.
+- His origin story adds a sharper scarcity-to-ownership case: no rich parents, mother pregnant at fourteen, Southern childhood with food stamps and government cheese, later bankruptcy, and the distinction between being broke financially and having a “broke mindset.”
+- The clearest new mechanism is “buy the playbook”: instead of building from zero, acquire an existing cash-flowing business whose customers, operations, and performance are already visible.
+- TJ gives the first compact acquisition arithmetic in the processed corpus:
+  \[
+  S_{\text{monthly}}=C_{\text{monthly}}-D_{\text{monthly}},
+  \]
+  with the spoken example \(C_{\text{monthly}}=\$20{,}000\), debt service of \(\$7{,}000\) or \(\$10{,}000\), and the emphasized surplus \(\$20{,}000-\$10{,}000=\$10{,}000\).
+- The lecture adds concrete target categories for acquisition: laundromats, pool companies, and vending machine businesses, described by TJ as cash-flowing, less labor-intensive, less know-how-intensive, and “recession-proof.” Treat “recession-proof” as an interview claim, not a demonstrated result.
+- It adds a new risk-financing source: SBA 7A, creative financing, and the imprecise claim that the buyer is buying based on the acquired business’s credit. This should be stated cautiously.
+- Seller supply becomes a thematic opportunity: portals such as BizBuySell, business brokers, cold calls, and the “gray tsunami” of older owners without successors.
+- Marketing becomes a new attention mechanism: people may need the product, but “they just don’t know who you are.” This reinforces the Morgan and Klubeck material on brand, distribution, and visibility.
+- College is framed as useful but insufficient: it did not make TJ a millionaire, but it gave him programming skill and a job.
+- The LA/Beverly Park sequence adds an environment mechanism: seeing larger examples expands the perceived action set; “you can’t unsee” what becomes possible.
+
+### Conservative restructure plan
+
+- Add TJ under Question 1 as the cleanest processed example so far of “buy an existing cash-flowing mechanism” rather than inventing one from scratch.
+- Add his food-stamps/government-cheese origin and bankruptcy under Question 9 as a named case where hardship becomes motivation but not the mechanism itself.
+- Add “seller exit need” under Question 2: the customer problem is not only a consumer need, but an owner’s need to leave a business.
+- Add “just under ten companies,” sold tech services, sold construction, and supplement business under Question 3 as evidence of ownership/control.
+- Add marketing visibility under Question 4, alongside Morgan’s advertising machine and Klubeck’s brand/trust ledger.
+- Add SBA 7A, creative financing, and the \(C>D\) condition under Question 5 and Question 8 as a small-business leverage example.
+- Add the monthly spread arithmetic under Question 7 as a concrete bridge from operating income to owned cash-flowing assets.
+- Add programming skill from college, acquisition screening, and marketing under Question 6 as practical disciplines.
+- Add brokers, portals, cold calls, and succession gaps under Question 10 as relationship and deal-sourcing evidence.
+- Add “don’t trade dollars for hours,” “buy the playbook,” and “market so people know who you are” under Question 11.
+
+### New tensions or contradictions
+
+- The course now has three debt stances: Morgan’s zero-debt posture, Klubeck’s bank-trust borrowing posture, and TJ’s acquisition-financing posture. Do not collapse these into one rule. The common test is whether risk is survivable and whether cash flow supports the obligation.
+- TJ contrasts what he did with what he would do today. The book should preserve that distinction: his advice is acquisition-first now, even though his own path included building and selling businesses.
+- “Recession-proof” and “buying based on the other business’s credit” need cautious handling. Keep them as TJ’s claims, not general lending or underwriting doctrine.
+- The mindset/faith material should not become a substitute for the arithmetic. In this lecture, belief is presented as something that drives action, thought, and relationships.
+- The LA celebrity-neighbor material should be used as evidence for environment and expanded possibility, not as celebrity trivia.
+
+### Frame or diagram opportunities
+
+- No validated figure assets exist for this lecture. Do not use mansion, car, exterior, or talking-head screenshots as mathematical evidence.
+- Best pocket-safe diagram: vertical acquisition flow:
+  seller exit need \(\rightarrow\) cash-flowing business \(\rightarrow\) SBA 7A or creative financing \(\rightarrow\) debt service \(\rightarrow\) residual cash flow.
+- Useful compact table: laundromat, pool company, vending machines; columns for why TJ mentions it, mechanism, and caution.
+- Useful small display: \(S_{\text{monthly}}=C_{\text{monthly}}-D_{\text{monthly}}\), followed by \(\$20{,}000-\$10{,}000=\$10{,}000\).
+
+### Next rewrite implications
+
+- The dynamic book can now support a full “buy versus build” subsection inside the wealth-mechanism chapter.
+- Leverage should be framed through a cash-flow coverage condition, not as inherently good or bad.
+- Add Q\&A blocks where the interview naturally creates tension: why buy instead of build, when leverage helps, where sellers come from, and what business school misses.
+- Keep TJ distributed across the book spine rather than making him a standalone biography: acquisition, risk, attention, failure, skill, relationships, and advice all receive new evidence here.
