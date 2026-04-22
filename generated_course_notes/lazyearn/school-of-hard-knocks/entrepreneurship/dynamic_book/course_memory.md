@@ -85,3 +85,44 @@
   - Claim: sales experience helped translate into company ownership.
   - Mechanism: repeated rejection trains steady attitude, clear message delivery, and flexible communication across different people.
 - Use lecture 112 to sharpen the book’s anti-shortcut motif: information can be searched, but entrepreneurial judgment is built through repeated contact with the market.
+
+## Lecture 104 integration: Asking Millionaires How They Got RICH! (Houston)
+
+### New evidence
+
+- Houston gives the book a strong opening example for classifying wealth claims: a claimed `$420 million` portfolio, a multi-billion-dollar insurance brokerage, industrial real estate income, champagne entrepreneurship, Lamborghini ownership, and the host's claim that Houston is a millionaire-heavy city. Use this as evidence that visible wealth, income, business scale, and portfolio value must be separated.
+- The insurance executive adds foundation-before-speed evidence: leadership, people, problem-solving, education, four or five years learning a discipline, saving `10--20 percent`, and a claimed millionaire path by age 30 or 40 even on `$70,000--$80,000` income.
+- The oil-and-gas/project-manager interview adds the strongest ownership-leverage case so far: project management to angel investing, exits, private equity, and a claimed portfolio value around `$420 million`.
+- The same interview gives a clean risk-exposure example: a claimed `$20,000` Snapchat seed investment while earning `$80,000`, or `25 percent` of one year's salary. The later `$72 million` outcome must be described as from Snap and other portfolio companies, not a clean Snap-only return.
+- The host's recap adds a capital-access version of networking: wealthier people, rooms, companies, deals, and connected investors. This complements Lecture 179's networking-as-referrals and Lecture 112's sales-through-rejection.
+- Restaurant and industrial real estate interviews reinforce operations as trust: showing up, being reliable like clockwork, remembering customer details, handwritten notes, working `60 hours/week`, and listening to close deals.
+- The champagne founder adds a premium-product case: passion becomes a business case only after research, competitor knowledge, price-point clarity, margin discipline, relationships, quality, and contingency planning.
+
+### Conservative restructure plan
+
+- Add Lecture 104 evidence into existing thematic chapters rather than treating Houston as one permanent chapter.
+- Strengthen the capital and ownership chapter with the distinction between salary, dividends, portfolio value, realized gains, and net worth.
+- Use the Snapchat anecdote as a compact worked example in the risk/asymmetry chapter.
+- Fold the restaurant and industrial real estate material into operations and sales/listening.
+- Fold the champagne material into brand, product positioning, premium pricing, and margin control.
+- Keep tax/entity/write-off comments in a cautious real-estate or asset-structure section, explicitly as interview claims rather than advice.
+
+### New tensions or contradictions
+
+- Saving discipline matters, but Lecture 104 shows that ownership and deal access change the scale of possible outcomes.
+- Marketing is praised as the route from seven to eight and nine figures, but the champagne founder complicates that with product quality, relationships, margins, and contingencies.
+- The Lamborghini visualization segment should remain present but subordinate to concrete mechanisms: action, persistence, decisions, operating trust, and research.
+- Tax breaks, REITs, entity structures, lease-to-yourself comments, and write-offs are legally sensitive and partially garbled in the transcript. Treat them as cautionary prompts, not instructions.
+- Extraordinary claims such as `$420 million`, `$72 million`, and multi-billion-dollar company scale should remain source-conscious interview claims.
+
+### Frame or diagram opportunities
+
+- No validated screenshot assets exist for this lecture.
+- Useful transcript-derived visuals: a narrow vertical flow from earned income to savings, ownership bets, portfolio value, and access; a compact claim/mechanism/caution table; a small distinction chart for income, portfolio value, realized gain, business value, and tax effect.
+- Keep all visuals pocket-safe: vertical, wrapped labels, no wide equations.
+
+### Next rewrite implications
+
+- Add recurring `Question & Answer` beats around: “What kind of number is being claimed?”, “Can savings alone become wealth?”, and “Are tax structures the mechanism or secondary?”
+- Let Lecture 104 become the book's clearest evidence bank for wealth classification and repeated leverage.
+- Preserve School of Hard Knocks credit and LazyingArt LLC curation in the chapter ecosystem, with website URLs reserved for front matter.
