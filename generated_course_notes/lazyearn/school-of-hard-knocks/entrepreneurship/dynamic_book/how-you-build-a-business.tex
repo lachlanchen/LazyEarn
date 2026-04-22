@@ -1192,4 +1192,144 @@ The final diagnostic step is the Achilles heel. White lists examples such as sug
 \]
 This ties founder discipline back to business judgment. A company improves when the owner stops hiding the constraint, names it accurately, and chooses the next action small enough to be done.
 
+% --- Lecture 111 additions: Asking a multi-millionaire CEO how he avoids burnout and keeps motivated. ---
+% restructure plan: add a short operator-capacity chapter because lecture 111 opens the book's missing burnout and attention-allocation theme.
+% new evidence: burnout is framed as loss of control over energy and emotion; every communication, interaction, and decision drains a finite daily reserve.
+
+\chapter{The Energy Budget of the Operator}
+
+A business can fail because the founder cannot sell, cannot read the numbers, cannot choose an arena, cannot hire, or cannot survive a bad financing decision. Lecture 111 adds a quieter constraint: the operator can also run out of usable energy. The interview opens with a direct question about burnout and motivation, and the answer treats both as an allocation problem. Energy and emotion have to be controlled before the day spends them for us.
+
+\section{Burnout as Lost Control}
+
+The speaker's first move is not motivational. He says burnout happens when we do not control energy and emotions. That claim should stay in its proper register: it is an interview-based operating rule, not a clinical theory. Its value for this book is that it gives founders a practical model for scarcity inside the person.
+
+Let \(E_0\) denote the usable energy available at the beginning of a day. The lecture gives no units and no measurement procedure, so the notation is only a bookkeeping reconstruction. If \(c_i\) is the cost of the \(i\)-th demand on attention, then the day's remaining reserve can be represented as
+\[
+E_{\mathrm{remain}}
+=
+E_0-\sum_i c_i.
+\]
+The important part is the sum. One communication may not seem expensive. One interaction may not seem decisive. One decision may not break the day. But the speaker's point is that each one drains a little bit, and repeated small drains become the operator's real constraint.
+
+\subsection{Question \& Answer}
+
+\paragraph{Question.}
+How does a founder avoid burnout and stay motivated?
+
+\paragraph{Answer.}
+By controlling energy and emotion, then refusing to spend them on interactions that do not add value. In the speaker's sequence, the issue is not work in the abstract. The issue is uncontrolled expenditure: communications, interactions, and decisions all pull from the same finite reserve.
+
+\section{Every Interaction Has a Cost}
+
+The lecture names the drains in order: communication, interaction, decision. Keeping the categories separate helps preserve the rhythm of the answer:
+\[
+E_{\mathrm{remain}}
+=
+E_0
+-
+\sum_j C_j
+-
+\sum_k I_k
+-
+\sum_{\ell} D_{\ell}.
+\]
+Here \(C_j\) is the cost of communication \(j\), \(I_k\) is the cost of interaction \(k\), and \(D_{\ell}\) is the cost of decision \(\ell\). This is not a productivity formula. It is a way to keep the interview's mechanism visible: the founder is not only managing tasks; the founder is managing the cost of being available.
+
+\begin{figure}
+\centering
+\begin{tikzpicture}[x=1cm,y=1cm,font=\small]
+\node[draw, align=center, text width=0.66\linewidth] (a) at (0,0) {Daily energy\\reserve \(E_0\)};
+\node[draw, align=center, text width=0.66\linewidth] (b) at (0,-1.25) {Communications\\\(\sum_j C_j\)};
+\node[draw, align=center, text width=0.66\linewidth] (c) at (0,-2.50) {Interactions\\\(\sum_k I_k\)};
+\node[draw, align=center, text width=0.66\linewidth] (d) at (0,-3.75) {Decisions\\\(\sum_{\ell}D_{\ell}\)};
+\node[draw, align=center, text width=0.66\linewidth] (e) at (0,-5.00) {Remaining capacity\\for valuable work};
+\draw[->] (a) -- (b);
+\draw[->] (b) -- (c);
+\draw[->] (c) -- (d);
+\draw[->] (d) -- (e);
+\end{tikzpicture}
+\caption{Lecture 111's energy-budget mechanism, reconstructed from the transcript. No validated screenshot asset accompanies this diagram.}
+\end{figure}
+
+This connects directly to the capital chapter. A venture courtship can consume attention before it produces money. A bad financing deal can consume years. A young CEO in an early-stage company can face too many demands with too few people. Lecture 111 gives the internal reason those external pressures matter: each demand spends a piece of the same reserve.
+
+\section{Sales Makes the Budget Visible}
+
+The speaker then pivots to business owners, company leaders, real estate operators, and people in sales. He broadens the word ``sales'' beyond a formal job title. In his usage, everyone operating commercially is in sales because each interaction asks for attention, judgment, emotional control, and some form of persuasion.
+
+That creates a useful tension with the earlier sales chapters. Lecture 179 says the founder must practice sales. Lecture 112 says live rejection builds the experience that cannot be Googled. Lecture 105 says selling means asking, listening, and tailoring the message. Lecture 111 adds the mature filter: not every interaction deserves a yes.
+
+Let \(r\) be an incoming request, meeting, conversation, or sales-like demand. Let \(c(r)\) be its cost, and let \(V(r)\) be the value it adds to the person, the business, or the team. The phrase ``worth your time'' can be written as
+\[
+\mathrm{Engage}(r)=1
+\quad\Longleftrightarrow\quad
+V(r)>c(r).
+\]
+The opposite rule is the one the speaker emphasizes:
+\[
+\mathrm{Decline}(r)=1
+\quad\Longleftrightarrow\quad
+V(r)\leq c(r).
+\]
+These are reconstructed decision rules, not transcript equations. They preserve the lecture's practical claim: the operator should not spend scarce energy on demands that do not add value.
+
+\begin{figure}
+\centering
+\begin{tikzpicture}[x=1cm,y=1cm,font=\small]
+\node[draw, align=center, text width=0.66\linewidth] (a) at (0,0) {Incoming interaction\\or request \(r\)};
+\node[draw, align=center, text width=0.66\linewidth] (b) at (0,-1.35) {Does it add value\\to self, business,\\or team?};
+\node[draw, align=center, text width=0.46\linewidth] (c) at (-2.0,-2.95) {Yes:\\engage};
+\node[draw, align=center, text width=0.46\linewidth] (d) at (2.0,-2.95) {No:\\decline};
+\node[draw, align=center, text width=0.66\linewidth] (e) at (0,-4.45) {Protect energy\\for higher-value work};
+\draw[->] (a) -- (b);
+\draw[->] (b) -- node[left] {\(V(r)>c(r)\)} (c);
+\draw[->] (b) -- node[right] {\(V(r)\leq c(r)\)} (d);
+\draw[->] (c) -- (e);
+\draw[->] (d) -- (e);
+\end{tikzpicture}
+\caption{The value filter behind the word no, reconstructed from lecture 111.}
+\end{figure}
+
+\section{No Is an Allocation Rule}
+
+The final claim is simple: the word no is more important. In this book's terms, no is not a personality style. It is an allocation rule. It keeps the founder from converting availability into depletion.
+
+A short example makes the mechanism concrete. Suppose the operator begins with
+\[
+E_0=100.
+\]
+Suppose known daily drains are
+\[
+\sum_j C_j=20,
+\qquad
+\sum_k I_k=35,
+\qquad
+\sum_{\ell}D_{\ell}=25.
+\]
+Then
+\begin{align}
+E_{\mathrm{remain}}
+&=
+100-20-35-25\\
+&=
+20.
+\end{align}
+Now suppose one more request costs \(c(r)=15\) but adds only \(V(r)=5\) of value. Then
+\[
+V(r)<c(r),
+\]
+so the reconstructed rule says to decline it. The issue is not that meetings, conversations, or sales interactions are bad. The issue is that a low-value yes can reduce the remaining reserve from \(20\) to \(5\), leaving little energy for work that actually compounds.
+
+This is where burnout and judgment meet. A founder who says yes to every possible interaction is not being generous with an infinite resource. He is spending a finite one. The practical doctrine from Lecture 111 is therefore:
+\[
+\text{protect the reserve}
+\quad\Longleftrightarrow\quad
+\text{say no to non-value-adding demands}.
+\]
+
+\begin{remark}
+Lecture 111 should not be read as an argument against sales volume, networking, or market contact. Beginners still need enough contact to learn. The distinction is stage and intent: contact that creates learning, customers, trust, or evidence may be worth the cost; contact that merely consumes attention without adding value should be filtered out.
+\end{remark}
+
 \end{document}

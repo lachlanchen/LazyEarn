@@ -435,3 +435,46 @@
   - Anecdote: valet car detailing, mentor advice, bankruptcy attorney, Haas’s routine.
   - Claim: sales is communication; business and personal money come together; humility matters; one small completed promise rebuilds traction.
   - Mechanism: timed service offers, feedback-shaped messaging, spending restraint, direct accountability, and self-trust through completion.
+
+## Lecture 111 integration: Asking a multi-millionaire CEO how he avoids burnout and keeps motivated.
+
+### New evidence
+
+- Adds the clearest founder-energy mechanism so far: burnout is framed as what happens when a person does not control energy and emotions.
+- Introduces a daily finite-resource model: each person wakes up with a certain amount of energy, and each communication, interaction, and decision drains a little of it.
+- Strengthens the book’s sales theme by broadening “sales” beyond formal selling: business owners, leaders, real estate operators, and “whatever you’re doing” are all in sales because every interaction consumes attention and judgment.
+- Adds a concise operating rule: each interaction must be worth the time because low-value interactions drain energy without adding value to the person, business, or team.
+- Gives the book a strong “no as allocation” principle: no is not just refusal or attitude; it is how the operator protects scarce energy for higher-value work.
+
+### Conservative restructure plan
+
+- Add this lecture to a founder-discipline or operating-capacity chapter rather than making it a standalone permanent chapter.
+- Cross-link with Lecture 114’s fundraising-attention cost: VC courtship is one specific case of energy spent on an interaction that may or may not be worth it.
+- Cross-link with Lecture 130’s young-CEO scarcity problem: too many demands and too few people become more dangerous when every communication and decision drains limited energy.
+- Cross-link with the sales chapter from Lectures 105, 112, and 179: sales requires communication, practice, rejection, and listening, but Lecture 111 adds the mature filter that not every interaction deserves a yes.
+- Use the lecture as a `Question & Answer` beat: “How do you avoid burnout and stay motivated?” Answer: control energy and emotion, then protect the day by saying no to interactions that do not add value.
+
+### New tensions or contradictions
+
+- Sales training lectures emphasize repetition, cold calls, networking, and relationship-building; Lecture 111 warns that each interaction drains energy. Reconcile by stage and intent: beginners need enough market contact to learn, while operators need filters to avoid low-value contact.
+- The “everyone is in sales” claim should not be expanded into a full sales-funnel model. Here it means every business interaction carries attention, persuasion, and emotional cost.
+- The energy-budget notation is a reconstruction, not a transcript equation. Keep it as a compact explanatory tool, not a measurable productivity formula.
+- Avoid treating the burnout claim as medical or psychological advice; it is an interview-based business operating rule.
+
+### Frame or diagram opportunities
+
+- No validated screenshot assets exist for this lecture.
+- Useful transcript-derived visuals:
+  - Narrow energy-budget chain: daily energy → communications → interactions → decisions → remaining capacity for valuable work.
+  - Value-filter flow: interaction request → does it add value to self/business/team? → yes: engage → no: decline.
+  - Compact expression: `remaining energy = starting energy - communication/interaction/decision costs`, clearly labeled as a reconstruction.
+- Keep diagrams vertical and pocket-safe; no screenshot pairing is needed.
+
+### Next rewrite implications
+
+- Use Lecture 111 to make the book’s discipline material less motivational and more operational: founder energy is a scarce resource that must be allocated.
+- Preserve anecdote/claim/mechanism separation:
+  - Claim: burnout happens when energy and emotions are not controlled.
+  - Mechanism: daily energy is drained by communications, interactions, and decisions.
+  - Rule: say no to things that do not add value to you, your business, or your team.
+- In the dynamic book arc, this lecture should feed resilience, sales, operations, leadership, and judgment. It is especially useful as connective tissue between selling more, raising capital, networking, and protecting focus.
