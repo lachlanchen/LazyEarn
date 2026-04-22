@@ -566,3 +566,51 @@
   - Claim: entrepreneurs face a persistent life-work balance challenge, later widened to life-health-work balance.
   - Mechanism: simultaneous high-demand roles consume the same attention, energy, time, and emotional reserve.
 - In the dynamic book arc, this evidence should feed resilience, risk, judgment, operations, and ownership. It should not become a standalone chapter unless later lectures add more family-system or life-balance evidence.
+
+## Lecture 126 integration: How to manage stress and mental health？
+
+### New evidence
+
+- Adds a second direct stress/mental-health answer to the founder-capacity thread, but with a different mechanism from Lectures 111, 121, and 122: the speaker says one must have “more than one focus in life.”
+- Gives concrete routine evidence: wake at `4:30 a.m.`, gym by `5:00 a.m.`, generally work out seven days a week, sometimes six, and sometimes two workouts in one day.
+- Clarifies the function of exercise as “mind space” and a separate arena for self-directed goals, not merely physical health.
+- Adds a non-work focus portfolio: golf, sailing, hiking, and road biking are named as ways to get away from the office.
+- Adds the “sharpening the axe” metaphor as a compact founder-capacity mechanism: activities outside the office maintain the person who must do the work.
+- The Lincoln anecdote includes a concrete ratio, `3` of `4` hours spent sharpening, but this should remain an anecdotal preparation metaphor, not a literal time-allocation rule.
+
+### Conservative restructure plan
+
+- Add this lecture to the founder-capacity/resilience chapter beside Lectures 111, 121, and 122:
+  - Lecture 111: energy and emotions are finite; say no to low-value interactions.
+  - Lecture 121: exercise matters but is often treated as fungible; co-founder structure can reduce overload.
+  - Lecture 122: life, health, work, marriage, children, and company-building can compete for the same reserve.
+  - Lecture 126: multiple life focuses, scheduled exercise, and hobbies create mind space and sharpen the operator.
+- Add or strengthen a subsection called “Maintenance before output” or “Sharpening the operator.” Use Lecture 126 as the cleanest evidence for recovery practices as productive capacity maintenance.
+- Use a `Question & Answer` beat: “If the business matters most, why deliberately focus outside the business?” Answer: because the person doing the work must be maintained.
+- Keep this lecture as reinforcing evidence inside the resilience/judgment arc rather than a standalone permanent chapter.
+
+### New tensions or contradictions
+
+- Lecture 121 says exercise is often the first commitment founders move or cancel; Lecture 126 shows the opposite operating choice: exercise is placed early enough in the day to become structurally protected.
+- Lecture 111 protects energy by saying no; Lecture 126 protects capacity by saying yes to recurring non-work domains. Preserve both as complementary filters, not competing advice.
+- Lecture 122 shows work-life balance failing under family and company pressure; Lecture 126 offers personal routines and hobbies, but no family-system or co-founder remedy. Do not overstate it as a complete solution.
+- The routine is highly specific and personal. Avoid turning `4:30 a.m.`, daily workouts, or double workouts into universal entrepreneurial doctrine.
+- The mental-health material should remain interview-based business evidence, not medical advice.
+
+### Frame or diagram opportunities
+
+- No validated screenshot assets exist for this lecture.
+- Useful transcript-derived visuals:
+  - Narrow flow: demanding role → stress risk → more than one focus → morning training and hobbies → sharpened axe / renewed capacity.
+  - Compact table: gym rhythm / hobbies / office work, with functions: mind space, distance, and sustained responsibility.
+  - Cautious capacity sketch: `capacity tomorrow = capacity today - strain + recovery`, clearly labeled as a reconstruction.
+- Keep visuals vertical and pocket-safe; no screenshot pairing is needed.
+
+### Next rewrite implications
+
+- Use Lecture 126 to make the resilience chapter less generic: founder health is not only “avoid burnout,” but a portfolio of protected attention domains.
+- Preserve anecdote/claim/mechanism separation:
+  - Anecdote: 4:30 wakeup, gym by 5, frequent workouts, golf, sailing, hiking, road biking.
+  - Claim: a person needs more than one focus in life.
+  - Mechanism: non-office domains create mind space, distance, and capacity maintenance.
+- This lecture should feed resilience, judgment, operations, and ownership themes. It strengthens the book’s broader rule that entrepreneurial output depends on maintaining the operator, not only pushing the operator harder.
