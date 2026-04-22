@@ -1,0 +1,196 @@
+\documentclass[11pt,oneside]{book}
+\input{../common_preamble.tex}
+\graphicspath{{../figures/}{../assets/}}
+\begin{document}
+\frontmatter
+\title{How You Build a Business?}
+\author{School of Hard Knocks}
+\date{A thematic LazyEarn field book on entrepreneurship built from the unique School of Hard Knocks entrepreneurship interviews \\ Lecture notes organized by \href{https://lazying.art}{LazyingArt LLC} with \href{https://github.com/lachlanchen/Video2Book}{Video2Book}}
+\maketitle
+\begin{center}
+\small Original interviews by School of Hard Knocks. Lecture notes organized by \href{https://lazying.art}{LazyingArt LLC}.
+\end{center}
+\clearpage
+\tableofcontents
+\mainmatter
+
+% --- Lecture 179 additions: 5 BEST Tips For Beginner Entrepreneurs : Understanding Business Basics ---
+% restructure plan: seed the first thematic chapter around the beginner baseline.
+% new evidence: lecture 179 adds survival cash, sales/churn, accounting, onboarding, content, and relationship leverage as one ordered operating sequence.
+
+\chapter{The Beginner's Baseline: Survival Before Scale}
+
+A beginner business does not start with a clean theory of growth. It starts with a founder trying to keep going, pay ordinary bills, find customers, understand the numbers, and make the first relationships compound. Lecture 179 is useful because it refuses to begin with glamor. The speaker frames the lesson as a trail-walk conversation with a younger self, then gives five practical tips only after two preconditions: know why you are doing the work, and do not be ashamed to fund the early stage with a job.
+
+\section{The First Constraint Is Not Inspiration}
+
+The speaker's first serious point is ``your why.'' This can sound soft until we place it where he places it: before the tips, before sales, before accounting. The claim is that entrepreneurship contains uneven feedback. Some days everything seems to work; other days the founder gets hit by delays, accidents, bad meetings, or negative self-talk. The founder asks why the work is worth continuing when results are not yet visible.
+
+A compact way to represent the mechanism is
+\[
+M_{t+1}\approx M_t+Y_t-D_t,
+\]
+where \(M_t\) is the founder's commitment at time \(t\), \(Y_t\) is the force of the founder's reason for continuing, and \(D_t\) is discouragement from stalled progress or self-doubt. This is not a formula spoken in the lecture; it is a cautious reconstruction of the logic. If discouragement is a real subtraction term, then the founder's reason for continuing is not decoration. It is part of the operating system.
+
+\subsection{Question \& Answer}
+
+\paragraph{Question.}
+If the business is not yet producing visible results, why keep working so hard?
+
+\paragraph{Answer.}
+The lecture's answer is that a founder needs a reason strong enough to carry the project through low-feedback periods. Motivation does not replace sales, customers, or accounting. But before those signals stabilize, the founder needs an internal reason that keeps the work alive long enough for the business to be tested.
+
+\section{The Job Is Part of the Runway}
+
+The second precondition is cash. The speaker says it is perfectly acceptable to work a job while starting a business, because rent, food, and ordinary living costs still have to be paid. Early businesses often are not profitable enough to support the founder. In that case, employment is not the opposite of entrepreneurship; it is runway.
+
+We can write the beginner survival constraint as
+\[
+W_t+B_t\geq R_t+F_t+P_t,
+\]
+where \(W_t\) is job income, \(B_t\) is available business or startup cash, \(R_t\) is rent, \(F_t\) is food, and \(P_t\) is other personal expense. If the left side is too small, the business may fail for reasons that have nothing to do with the product.
+
+The same wage income can also create a small reinvestment channel:
+\[
+W_t=\text{living support}+\text{possible business injection}.
+\]
+The doctrine is practical: protect the founder's ability to continue, then use surplus carefully to feed the company.
+
+\section{Sales Is the First Operating Constraint}
+
+Only one of the five tips is explicitly ranked first. The speaker calls sales the golden rule of business. If the founder cannot sell people into buying the product or service, there is no functioning business.
+
+\[
+\text{no ability to sell}
+\;\Longrightarrow\;
+\text{no functioning business}.
+\]
+
+The point becomes sharper when the speaker introduces customer turnover. Customers churn. They leave, stop buying, or age out of the need. So sales is not merely a launch skill. It is a maintenance skill.
+
+Let
+\[
+C_t=\text{customers at time }t,\qquad
+N_t=\text{new customers acquired},\qquad
+L_t=\text{customers lost}.
+\]
+A simple customer-base update is
+\[
+C_{t+1}\approx C_t+N_t-L_t.
+\]
+Growth requires
+\[
+N_t>L_t.
+\]
+This is the mathematical spine of the speaker's line that if the business is not growing, it is dying. The business has to keep adding because churn keeps subtracting.
+
+\subsection{The Joe Soto Sales Discipline}
+
+The speaker then gives a named mentor story. Joe Soto told him to stop ``playing with my food.'' In context, this means he was going into sales presentations and demos without practicing the pitch. The corrective analogy is athletics: a professional athlete practices and watches film; a salesperson should role play, practice the pitch, rewatch calls, listen to tone, and improve handling of scenarios.
+
+\begin{figure}
+\centering
+\begin{tikzpicture}
+\node[draw, align=center, text width=0.62\linewidth] (a) at (0,0) {Live sales\\conversation};
+\node[draw, align=center, text width=0.62\linewidth] (b) at (0,-1.35) {Review pitch, tone,\\questions, objections};
+\node[draw, align=center, text width=0.62\linewidth] (c) at (0,-2.70) {Practice and role play\\the corrected version};
+\node[draw, align=center, text width=0.62\linewidth] (d) at (0,-4.05) {Return to the next\\sales opportunity};
+\draw[->] (a) -- (b);
+\draw[->] (b) -- (c);
+\draw[->] (c) -- (d);
+\draw[->] (d.east) .. controls (2.2,-3.25) and (2.2,-0.80) .. (a.east);
+\end{tikzpicture}
+\caption{Sales as a practice loop, reconstructed from the Joe Soto anecdote in lecture 179.}
+\end{figure}
+
+The distinction matters for the whole book: exposure is not the same as training. More calls may give repetition, but improvement comes from review and correction.
+
+\section{Accounting and Onboarding: Reality After the Sale}
+
+Tip two is accounting. The speaker says he made poor early financial decisions because he did not understand accounting or how the numbers worked in business. The theme is not advanced finance. It is reality correction:
+\[
+\text{felt condition of the business}
+\neq
+\text{measured condition of the business}.
+\]
+Basic accounting gives the founder a clearer picture of where the business actually is.
+
+Tip three moves from internal visibility to customer stability. Once someone purchases, the business has entered a new interval of risk. The speaker names buyer's remorse, chargebacks, unclear expectations, poor communication, and uncertain next steps. The sale is not the end of the customer problem.
+
+\subsection{Question \& Answer}
+
+\paragraph{Question.}
+Is the customer problem solved once the customer buys?
+
+\paragraph{Answer.}
+No. The sale opens a post-purchase interval in which the customer needs reassurance and structure. The onboarding process should explain what happens next, how communication works, what the relationship will look like, and what the customer can expect.
+
+\[
+\text{purchase}
+\;\longrightarrow\;
+\text{reassurance}
+\;\longrightarrow\;
+\text{expectations}
+\;\longrightarrow\;
+\text{next steps}.
+\]
+
+\begin{figure}
+\centering
+\begin{tikzpicture}
+\node[draw, align=center, text width=0.64\linewidth] (a) at (0,0) {Customer buys};
+\node[draw, align=center, text width=0.64\linewidth] (b) at (0,-1.25) {Onboarding gives\\immediate reassurance};
+\node[draw, align=center, text width=0.64\linewidth] (c) at (0,-2.50) {Expectations, communication,\\relationship, next steps};
+\node[draw, align=center, text width=0.64\linewidth] (d) at (0,-3.75) {Lower buyer's remorse\\and fewer chargebacks};
+\node[draw, align=center, text width=0.64\linewidth] (e) at (0,-5.00) {More stable customer\\relationship};
+\draw[->] (a) -- (b);
+\draw[->] (b) -- (c);
+\draw[->] (c) -- (d);
+\draw[->] (d) -- (e);
+\end{tikzpicture}
+\caption{Onboarding as post-sale risk control, reconstructed from lecture 179.}
+\end{figure}
+
+\section{Attention and Relationship Leverage}
+
+Tip four is content and social media. The speaker's argument begins with where attention already lives: people spend time on social feeds, especially at home and on their phones. A beginner business can use that attention by sharing useful content, meaningful updates, and visible progress with friends, family, and people already close to the founder.
+
+The lecture gives a concrete anecdote about Austin Smith, described as a digital marketing owner. According to the speaker, Austin held up a stack of cash and offered payment for referrals to business owners who could benefit from his services. The claimed numbers are specific but approximate:
+\[
+\text{claimed giveaway}=\$10{,}000,\qquad
+\text{claimed closed business}\approx \$100{,}000.
+\]
+A rough gross comparison is
+\[
+\frac{\$100{,}000}{\$10{,}000}\approx 10.
+\]
+This is not net profit, audited return, or a general law of social media. It is an anecdotal example of a clear referral offer amplified by local attention.
+
+The mechanism is:
+\[
+\text{clear referral offer}
++
+\text{local attention}
++
+\text{credible incentive}
+\;\longrightarrow\;
+\text{introductions}
+\;\longrightarrow\;
+\text{closed business}.
+\]
+
+Tip five extends the same logic into networking. The speaker contrasts shallow networking, handing out business cards and selling immediately, with a slower relationship strategy: learn other people's stories, ask about their products and services, give useful advice when possible, and let the payoff mature later.
+
+\[
+\text{attention to another person}
++
+\text{useful free value}
+\;\longrightarrow\;
+\text{memory and trust}
+\;\longrightarrow\;
+\text{future referral}.
+\]
+
+He names \emph{How to Win Friends and Influence People} and \emph{Giftology} as resources for building a better network. In this book's terms, those references belong to the same operating principle: opportunity travels through people, and people remember who invested in them before asking for the sale.
+
+\end{document}
