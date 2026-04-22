@@ -1734,3 +1734,83 @@
 - Do not make this a standalone Grant Mitt chapter in the final dynamic book. Distribute his evidence across base rates, concentration, attention, risk, sales, scaling, energy, industry selection, and hiring.
 
 - When using Mitt’s numbers, keep attribution visible: “Mitt claims,” “in the interview,” or “his stated figures.” The numbers are powerful as testimony and argument structure, but they should not be presented as independently verified statistics.
+
+## Lecture 21 integration: 10 Questions with a Millionaire： Investor & Executive Doug Williams
+
+### New evidence
+
+- Doug Williams adds an investor/operator witness rather than another founder-only story: former COO of HMS Holdings, a healthcare company he says sold for about \(\$3.5\) billion, now an investor and board member working with early-stage companies.
+
+- Add a concrete venture-filter data point: Williams describes a roughly \(\$50\) million venture pool, early rounds, typical checks of about \(\$0.5\) million to \(\$2\)-\(\$3\) million, and target companies often below \(\$2\) million in revenue. His filter is idea, thoughtful management team, large target market, and then investor help with focus, organization, and hiring.
+
+- Williams clarifies the investor-as-coach mechanism: young CEOs have too many choices, too few people, and weak prioritization. This supports the book’s operating-discipline thread: capital becomes useful when it is paired with focus.
+
+- Add a sales/reputation mechanism: Williams says to “sell through fear, not foresight,” meaning the buyer must see the failure risk that the product prevents. The sharp numeric case is a \(\$2\) million company trying to sell into a \(\$50\) billion company; the credibility gap is the point. His remedy is trust transfer: if the buyer trusts Williams, the small company can borrow enough credibility to be heard.
+
+- Add three message tests for the customer/distribution chapter: Is the message on track? Does it matter to the buyer? Does it explain why the buyer cannot buy from someone else?
+
+- Add a second, distinct sales mechanism: sales as diagnosis, not demonstration. Williams’s sequence is homework on the client, questions, pain-point discovery, true need, then solution. This reinforces the series-wide pattern that selling is not showing everything; it is narrowing the buyer’s problem until the offer has a reason to exist.
+
+- Add the strongest new scale model from this lecture: the “folding piece of paper” theory. Williams briefly mentions sale valuation as a multiple of revenue or EBITDA, but the real lesson is operational: define value proposition, total addressable market, buyer, and key message, then predesign the next doubling and the doubling after that. Each stage should have organization, metrics, alignment, relationships, and channels already thought through.
+
+- Add a career-capital witness: Williams’s book discussion says the durable residue of a career is the skills learned and people met, not merely the job title or company name. This belongs with the book’s questions about skill, relationships, and advice to a younger self.
+
+- Add a wealth-purpose and work-life data point: Williams says he had about \(5.5\) million American Airlines miles, worked when away, was home when home, avoided Saturday calls, and used roughly \(1\) to \(1.5\) hours on Sunday night to prepare. His warning is explicit: retiring with money but without family relationships, friends, or a network is not an attractive end state.
+
+- Add mental-health/renewal evidence: Williams’s routine includes waking around \(4{:}30\), gym by \(5{:}00\), generally seven days a week, plus hobbies such as golf, sailing, hiking, and road biking. He uses the Lincoln axe metaphor to make renewal part of performance rather than a soft digression.
+
+- Add a technical-skill transfer story: computer programming led to work with devices, protocols, B-1 bombers, Disneyland devices, companies, and people; that field problem-solving path led to Arthur Andersen, healthcare technology, healthcare IBM consulting, and HMS.
+
+- Add a risk/process distinction: Williams says he has lost money on an investment, but still judged it a good bet based on the data and the people at the time. A bad outcome is not automatically a bad decision.
+
+- Add a due-diligence mechanism: if every investment succeeds, the risk meter may be too low; before investing, get beyond the demo or PowerPoint, know the people, meet family or context where appropriate, and look for character because no business plan goes flawlessly.
+
+- Add a closing advice witness: ask what you can do to help, not only what you can do to get ahead. Williams frames lifting others up as a practical career mechanism: people who see you helping others are more likely to help you.
+
+### Conservative restructure plan
+
+- Add Williams mainly to the chapters on risk, operating discipline, enterprise value, relationships, beginner advice, and wealth purpose. Do not make him a standalone chapter.
+
+- In the “How was risk financed, survived, or transferred?” chapter, add Williams’s distinction between decision quality and outcome quality, plus the warning that a zero-loss investment record may indicate insufficient risk.
+
+- In the “Which skill or operating discipline compounded fastest?” chapter, add the folding-paper model as a named mechanism: predesign the next doubling before the business reaches it. Pair it with existing evidence on SOPs, delegation, and founder independence.
+
+- In the “How did income become enterprise value?” chapter, add only the cautious valuation notation that companies may sell on revenue or EBITDA multiples. Do not invent an HMS multiple.
+
+- In the “How did customers, distribution, reputation, or attention arrive?” chapter, add Williams’s small-company-to-giant-buyer credibility problem and his trust-transfer solution.
+
+- In the “Which relationships, networks, trust, or teams mattered?” chapter, add three Williams threads: trust transfer in sales, offline character diligence in investing, and the advice to lift others up.
+
+- In the “What is wealth for after the number is reached?” chapter, add the direct warning that money by itself is not very fun after needs are met, especially if relationships were neglected.
+
+### New tensions or contradictions
+
+- Money is not enough: Williams’s investor role is capital plus focus, hiring discipline, and coaching.
+
+- Sales through fear needs careful framing. The ethical version is not scare tactics; it is naming a real failure risk the buyer already has reason to avoid.
+
+- Valuation is not the same as scale. Williams mentions revenue or EBITDA multiples, then shifts immediately to operating design. The book should preserve that pivot.
+
+- Loss is not the same as error. Williams’s risk section supports a process-based view of judgment.
+
+- The risk transcript is corrupted around the later example and the \(\$250\) billion reference. Use only the reliable endpoint: different people have different risk profiles and must be comfortable with their own.
+
+### Frame or diagram opportunities
+
+- No validated lecture 21 screenshots or frame assets should be retained.
+
+- Reconstructed diagrams worth carrying forward:
+  - Venture filter funnel: \(\$50M\) pool \(\rightarrow\) early checks \(\rightarrow\) idea/team/market \(\rightarrow\) focus/hiring.
+  - Sales diagnosis ladder: homework \(\rightarrow\) pain point \(\rightarrow\) questions \(\rightarrow\) true need \(\rightarrow\) solution/trust.
+  - Folding-paper scale ladder: \(S_0 \rightarrow 2S_0 \rightarrow 4S_0\), with each stage paired with organization, metrics, alignment, relationships, and channels.
+  - Due-diligence trust flow: pitch/demo \(\rightarrow\) offline context \(\rightarrow\) character under imperfect plans \(\rightarrow\) shared respect and goal.
+
+### Next rewrite implications
+
+- Use Williams as the clearest witness so far for “scale by predesign, not by doing more.” This can become a compact Q&A block in the scale chapter.
+
+- Add a Q&A block in the customer/distribution chapter: “Why would a giant buyer listen to a tiny company?” Answer with failure risk, credibility transfer, and clear differentiation.
+
+- Strengthen the risk chapter with a “bad outcome vs bad decision” paragraph and a due-diligence table separating data, people, character, and alignment.
+
+- Strengthen the final advice chapter by linking Williams’s “ask how to help” to the series-wide pattern of value-before-access, generosity, mentorship, and reputation compounding.
