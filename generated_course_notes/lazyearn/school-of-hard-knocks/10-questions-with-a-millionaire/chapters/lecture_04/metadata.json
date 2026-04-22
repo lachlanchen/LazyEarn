@@ -1,0 +1,24 @@
+{
+  "course_rel": "lazyearn/school-of-hard-knocks/10-questions-with-a-millionaire",
+  "transcript_rel": "lazyearn/school-of-hard-knocks/10-questions-with-a-millionaire/004 - He Made $7M\u2215Year And Paid Zero Taxes! [22CjsRG0sTc].md",
+  "video_rel": "lazyearn/school-of-hard-knocks/hard-knocks-interviews/056 - He Made $7M\u29f8Year And Paid Zero Taxes! [22CjsRG0sTc].webm",
+  "lecture_number": 4,
+  "lecture_slug": "lecture_04",
+  "lecture_title": "He Made $7M\u2215Year And Paid Zero Taxes!",
+  "assets": [
+    {
+      "name": "lecture_04_figure_02.png",
+      "timestamp_seconds": 932.615,
+      "timestamp_hhmmss": "00:15:32.615",
+      "source_candidate": "lecture_04_window_06_candidate_02_001532615.png",
+      "recommended_use": "screenshot_plus_equation",
+      "rationale": "This frame has the clearest view of the whiteboard content: the STR condition, management-hours note, and dollar figures are visible with less motion blur and slightly less obstruction than the other candidates.",
+      "subtitle_excerpt": "of that would equal a hundred thousand",
+      "segment_start_seconds": 931.84,
+      "segment_start_hhmmss": "00:15:31.840",
+      "segment_end_seconds": 933.88,
+      "segment_end_hhmmss": "00:15:33.880",
+      "caption_hint": "STR tax example"
+    }
+  ]
+}
