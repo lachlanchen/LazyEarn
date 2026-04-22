@@ -482,3 +482,89 @@
 - Add Q\&A blocks for: why outside capital costs control; why a profitable contract can require cash before it creates wealth; what has to compound at the same time when scaling; and how to negotiate when the buyer only cares about price.
 
 - Keep all lecture 6 quantitative claims approximate and transcript-backed: `\$300M`, `\$3M`, `100x`, `\$9M`, `30` days, five weeks, `\$1M`, `21%`, `90%`, `\$14M`, `21` cars, about `14` Ferraris, about six Lamborghinis, and the “one in four millionaires” claim.
+
+## Lecture 7 integration: How He Built A $200 Million∕Year Security Company
+
+### New evidence
+
+- **Named witness for home-security and solar scale:** Edwin Arroyave adds a door-to-door sales and home-services operator to the corpus. The transcript frames him as a Los Angeles entrepreneur in home security for `25` years, with over `\$600M` in generated business revenue and a projected `\$200M` single year. Keep these as revenue claims, not profit, valuation, or personal wealth.
+
+- **Pressure source as operating context:** Edwin’s childhood story adds a sharper survival-pressure case: born in Colombia, poverty, parents jailed, head of household at `15`, early work, and a promise to take care of the house. Use this as context for his later claims about urgency and necessity, not as the business mechanism by itself.
+
+- **Recruiting belief as scale mechanism:** Edwin says good people have options and must believe in the leader; the leader’s dream has to be large enough that other people’s dreams fit inside it. This reinforces the people-leverage thread from Morgan, Shaq, and Louis, but adds a new angle: ambition functions as recruiting infrastructure.
+
+- **Commitment before complete resources:** The minivan story is the lecture’s clearest risk-action mechanism. Edwin bought the van before he had the team because the door-to-door model required vans. Money-backed commitment created what he calls a “necessity level,” raising urgency and performance.
+
+- **Focus-before-diversification evidence:** Edwin answers the diversification question by sequence: build one cash-flowing core business first, then diversify from earned operating capacity. Preserve the comparison:
+  \[
+  R_{\text{security}}=\$40\text{M/year after }17\text{ years},\qquad
+  R_{\text{solar}}=\$40\text{M/year after }1\text{ year}.
+  \]
+  Treat this as a transfer-of-discipline claim, not a universal scaling law.
+
+- **Personal reserve as survival design:** Edwin’s three-way check split adds a practical cash-discipline rule:
+  \[
+  I_{\text{living}}\approx I/3,\quad
+  I_{\text{IRS+savings}}\approx I/3,\quad
+  I_{\text{reserve}}\approx I/3.
+  \]
+  The reserve account “did not exist” for ordinary requests. This belongs beside Morgan’s no-debt posture, Louis’s retained earnings, and Shaq’s 75/25 saving rule.
+
+- **Dream-to-quota arithmetic:** The mother’s house story is the strongest new evidence for turning aspiration into operational math: `\$12,000` down, `\$1,400/month`, `90` days, and `8--10` sales per week for `12` weeks. This is a durable named case for the advice chapter.
+
+- **Abundance formula:** Edwin’s formula is not just “think positive.” It is a sequence: become \(\rightarrow\) act \(\rightarrow\) have, with hope, faith, belief, action before full resources, breakdown into attainable units, a deadline, a test, persistence, and right people appearing.
+
+- **Attention filter model:** Edwin’s reticular activating system passage adds a cautionary mindset model: dreams, self-worth, and survival determine which opportunities become visible. Present this as Edwin’s explanatory frame, not as neuroscience.
+
+- **Wealth after visible status:** Edwin complicates the opening luxury imagery by saying exterior factors such as cars and houses brought pleasure, not stable happiness. He points instead to inside-out practices: gratitude and turning negatives into positives.
+
+### Conservative restructure plan
+
+- Add Edwin to **Question 1** as a sales/operator witness: home security begins as the core money-making mechanism, with door-to-door selling and team deployment as the implied operating base.
+
+- Add childhood pressure, parents jailed, head of household at `15`, and the promise to his parents to **Question 9** as hardship context, then cross-reference it in **Question 5** where pressure becomes designed urgency.
+
+- Add the minivan story to **Question 5: How was risk financed, survived, or transferred?** The key distinction is commitment before certainty when the operating path is known, not reckless spending.
+
+- Add “dream big enough for other dreams” to **Question 10** and **Question 6** as recruiting and leadership evidence.
+
+- Add focus-first/diversify-later and the security-to-solar speed comparison to **Question 6** and **Question 7** as evidence that operating discipline can transfer into a second business.
+
+- Add the three-way check split to **Question 5**, **Question 7**, and **Question 8** as cash survival and tax/savings discipline. Do not turn it into tax optimization.
+
+- Add the mother’s house target to **Question 11** as one of the cleanest beginner-facing mechanisms so far: promise \(\rightarrow\) deadline \(\rightarrow\) weekly quota \(\rightarrow\) daily persistence.
+
+- Add pleasure-versus-happiness and inside-out gratitude to **Question 12: What is wealth for after the number is reached?**
+
+### New tensions or contradictions
+
+- **Commitment versus recklessness:** Edwin praises acting before having what is needed, but the minivan was tied to a known door-to-door sales process. The book should preserve that boundary.
+
+- **Hoarding versus reserves:** Edwin warns that hoarding can block action, yet he also protects a reserve account as untouchable. The distinction is useful: fear-based paralysis differs from deliberate survival capital.
+
+- **Focus versus diversification:** Edwin does diversify into solar, but only after building a cash-flowing security base. This should temper any simple “always diversify” or “never diversify” rule.
+
+- **Luxury as motivation versus unstable pleasure:** The same lecture opens with cars and a house, then later warns that exterior status produces pleasure rather than stable happiness. This is a strong Question 12 tension.
+
+- **Mindset framework versus evidence discipline:** The RAS passage has narrative value but should remain Edwin’s model. Do not expand it into unsupported cognitive science.
+
+### Frame or diagram opportunities
+
+- No lecture 7 screenshot assets should be retained. The validator rejected candidate frames, and there are no board equations or diagram screenshots.
+
+- Best transcript-derived pocket-safe visuals:
+  - Vertical commitment chain: dream \(\rightarrow\) first step \(\rightarrow\) money committed \(\rightarrow\) necessity level \(\rightarrow\) urgency \(\rightarrow\) action.
+  - Three-column check-split table: living, IRS/savings, untouchable reserve.
+  - Dream-to-quota diagram: mother’s house \(\rightarrow\) `90` days \(\rightarrow\) `12` weeks \(\rightarrow\) `8--10` sales/week.
+  - Abundance formula as process: become \(\rightarrow\) act \(\rightarrow\) have.
+  - RAS filter diagram: all signals \(\rightarrow\) dreams/self-worth/survival \(\rightarrow\) conscious attention.
+
+### Next rewrite implications
+
+- The dynamic book now has enough evidence for a “dreams made operational” subsection. Edwin should anchor it with the mother’s house arithmetic, while other guests can supply supporting examples of vision, environment, or goal-setting.
+
+- The risk chapter should include a distinction between **survival reserves** and **action capital**. Edwin uniquely supplies both in one interview.
+
+- The operating-discipline chapter should now track transfer across businesses: Edwin’s `17` years to `\$40M` in security versus one year to `\$40M` in solar is the clearest processed case so far.
+
+- Add Q\&A blocks later for: how acting before resources can be rational; when focus should come before diversification; why a reserve is not the same as fear-based hoarding; and how a large dream becomes a weekly quota.
