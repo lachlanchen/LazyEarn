@@ -298,3 +298,49 @@
   - Evidence: target companies are probably under `$2M` in revenue and screened for ideas, teams, and markets.
   - Mechanism: after investment, organization, hiring, and focus help a young CEO handle scarce attention and limited staff.
 - Add a `Question & Answer` beat in the capital/judgment arc: “What makes a young company investable?” Answer: mandate fit, early-stage fit, idea quality, thoughtful management, large market, and a plausible path for investor support.
+
+## Lecture 114 integration: Asking a Multi-millionaire CEO about the best financial decision he ever made
+
+### New evidence
+
+- Adds a capital-discipline story where the “best financial decision” begins as self-investment, then becomes a company-founding episode about not receiving venture capital.
+- The company was already growing fast and profitable before seeking outside capital, so the capital motive was acceleration, not survival.
+- Adds a clear attention-cost mechanism for fundraising: venture capital is described as a “courtship” that can spend and take a lot of founder attention.
+- Adds a useful reversal: the VC firm passed, and the founders were “kind of glad” because the process had become frustrating and costly.
+- Strengthens the book’s capital chapter with the idea that outside money should be evaluated by net value, not only by the amount of cash available.
+- Adds the phrase-level tension “wasn’t really our decision, but it kind of was”: the investor made the formal rejection, but the founders later interpreted that rejection as preserving focus.
+
+### Conservative restructure plan
+
+- Insert this lecture into the capital/funding arc after Lecture 123 and Lecture 130:
+  - Lecture 123: ideas need evidence before capital.
+  - Lecture 130: investors qualify idea, team, market, stage, and support needs.
+  - Lecture 114: even when capital is plausible, the fundraising process can consume attention and become negative value.
+- Add or strengthen a subsection in the capital chapter around “capital as acceleration versus distraction.”
+- Use Lecture 114 as a `Question & Answer` beat: “If capital was meant to accelerate growth, why was losing it useful?” Answer: because the courtship exposed hidden attention costs while the company still had growth, profit, and focus.
+- Do not create a standalone anti-VC chapter. The evidence supports a narrower principle: outside capital has process costs, especially when the company is not desperate for survival cash.
+
+### New tensions or contradictions
+
+- Lecture 123 and Lecture 130 make funding look useful when the founder has evidence and fits investor criteria; Lecture 114 adds that a fundraise can still be too costly in attention.
+- Lecture 179 emphasizes survival cash and job-funded runway; Lecture 114 concerns a later-stage situation where the business was already profitable and seeking speed.
+- The story should not be overstated as “never raise venture capital.” The transcript gives no valuation, dilution, control terms, investment amount, or later company outcome.
+- The best decision is partly external: the VC firm passed. The founder’s agency lies in the initial pursuit, the experience of the process, and the later judgment that the rejection was beneficial.
+
+### Frame or diagram opportunities
+
+- No validated screenshot assets exist for this lecture.
+- Useful transcript-derived visuals:
+  - Narrow vertical flow: profitable growth → desire for faster expansion → VC courtship → attention cost → VC passes → founders recognize the benefit.
+  - Compact decision expression: `net value of capital = growth acceleration - attention cost - other capital costs`.
+  - Small table: cash gained, speed gained, attention spent, ownership/control affected, with clear caveat that ownership/control terms are standard reconstruction, not transcript facts.
+- Label diagrams as reconstructed from the transcript; no screenshot pairing is needed.
+
+### Next rewrite implications
+
+- Use Lecture 114 to make the capital section less one-sided: the book should teach both how to become fundable and when funding pursuit may not be worth the founder attention it consumes.
+- Preserve anecdote/claim/mechanism separation:
+  - Anecdote: profitable founders sought VC, spent energy courting a firm, were passed over, and felt relief.
+  - Claim: investing in oneself was the broad answer; the company-specific best decision involved not taking outside capital.
+  - Mechanism: capital may accelerate growth, but fundraising consumes scarce founder attention before any money arrives.
+- In the dynamic book arc, connect this lecture to capital, ownership, operations, and judgment: the practical asset preserved by the rejection was not only equity or control, but focus.
