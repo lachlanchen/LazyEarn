@@ -203,3 +203,92 @@
 - Leverage should be framed through a cash-flow coverage condition, not as inherently good or bad.
 - Add Q\&A blocks where the interview naturally creates tension: why buy instead of build, when leverage helps, where sellers come from, and what business school misses.
 - Keep TJ distributed across the book spine rather than making him a standalone biography: acquisition, risk, attention, failure, skill, relationships, and advice all receive new evidence here.
+
+## Lecture 4 integration: He Made $7M∕Year And Paid Zero Taxes!
+
+### New evidence
+
+- **Named witness for tax strategy as wealth retention:** Carlton Dennis adds the first processed case where the central mechanism is not making revenue, buying a business, or scaling operations, but keeping more of high income through legal tax planning. The transcript frames him with claimed 2023 income of \(\$7.1\text{M}\), \(\$0\) federal tax, \(\$26{,}000\) state tax, and 2024 income above \(\$11.5\text{M}\) with projected total tax below \(\$92{,}000\).
+
+- **Three-part tax mechanism:** Carlton explicitly names income shifting, depreciation/paper losses from real estate, and philanthropy through a private family foundation as the three recurring mechanisms he uses to keep federal tax low. This is the first lecture that makes taxes and legal structure the organizing topic rather than a side note.
+
+- **Short-term rental paper-loss machinery:** Add Carlton’s STR example to the tax/leverage chapter: for W-2 or 1099 income, he claims a short-term rental may become active if tenant stays are \(7\) days or less and the taxpayer manages it for \(100\) hours, allowing cost segregation to create a paper loss that can offset income.
+
+- **Whiteboard arithmetic for depreciation strategy:** Preserve the worked example:
+  \[
+  P=\$500{,}000,\quad D=\$100{,}000,\quad L=\$400{,}000,\quad 20\%\times \$500{,}000=\$100{,}000.
+  \]
+  Carlton’s claimed conclusion is:
+  \[
+  \$100{,}000\ \text{income}-\$100{,}000\ \text{paper loss}\approx \$0
+  \]
+  in the example. Treat the \(20\%\) cost-segregation figure as transcript-backed; it is not fully visible in the frame.
+
+- **Entity structure for early earners:** Carlton adds a beginner-facing tax structure rule: after roughly \(\$50{,}000\) to \(\$60{,}000\), he recommends considering an S corporation to reduce exposure to the \(15.3\%\) self-employment tax on all business profit. This belongs in the advice chapter and in the legal-structure chapter.
+
+- **Audit defense as documentation discipline:** The yacht audit anecdote adds a named pattern for defending aggressive deductions: business purpose, ordinary/necessary/reasonable fit, captain logs, photos, and P\&L expenses. Preserve the transcript uncertainty around “code section 162A,” likely referring to Section 162(a), rather than silently normalizing it.
+
+- **Vehicle depreciation and reinvestment:** Carlton’s G-Wagon/Ferrari segment adds a compact reinvestment case: he claims \(100\%\) bonus depreciation saved about \(\$92{,}000\), then says that money was reinvested into a Texas multifamily property producing about \(\$1{,}400/month\). This is useful evidence for “tax savings as deployable capital,” not merely avoided cost.
+
+- **Vehicle deduction conditions:** Preserve his stated conditions for vehicle write-off examples: gross vehicle weight over \(6{,}000\) pounds and more than \(50\%\) business use, under Section 179 plus Section 168(k). Current-law claims about bonus depreciation percentages and political changes should remain time-stamped interview claims.
+
+- **Leverage as tax-enabled buying power:** Carlton adds a fourth debt posture to the processed corpus: leverage is useful when it lets the owner control depreciable or appreciating assets while retaining cash. He names OPM, HELOCs, cash-out refinances, and banking relationships as tools for expanding buying power.
+
+- **Augusta rule as low-hanging tactic:** Carlton’s closing tactic is the Augusta rule: rent a primary residence for \(14\) days or less and exclude the rental income, with an S-corporation meeting-rental example. Keep this as a compact tactic, not a full statutory treatment.
+
+### Conservative restructure plan
+
+- Add Carlton primarily to **Question 8: What did taxes, leverage, legal structure, or financial engineering change?** He is the strongest processed witness so far for tax strategy as a wealth-retention mechanism.
+
+- Add the STR/cost-segregation worked example to **Question 5** and **Question 8**: it shows leverage financing the asset and tax structure converting depreciation into a claimed income offset.
+
+- Add the \(\$92{,}000\) vehicle-depreciation-to-\(\$1{,}400/month\) multifamily example to **Question 7: How did income become enterprise value, equity, or durable wealth?** The key movement is tax saving \(\rightarrow\) reinvestment \(\rightarrow\) cash-flowing asset.
+
+- Add entity structuring, S corporations, and overlooked business expenses to **Question 11: What advice would survive for a beginner or younger self?** This is the lecture’s practical beginner material.
+
+- Add the yacht audit story to **Question 9** as a failure/risk/audit-pressure case and to **Question 6** as documentation discipline.
+
+- Add banker/private-banking relationships to **Question 10** alongside TJ’s brokers and Klubeck’s lenders. This broadens “relationships” from customers and partners to capital-access gatekeepers.
+
+- Keep the lecture distributed across the dynamic spine. Do not make it a standalone “tax tricks” chapter; use it to sharpen recurring themes about retained capital, legal structure, risk documentation, and leverage.
+
+### New tensions or contradictions
+
+- **Debt doctrine now has four variants:** Morgan prefers no debt; Klubeck survives by keeping banks informed; TJ uses acquisition financing; Carlton uses debt/OPM to control assets and create tax effects. The book should state the common test as survivability, cash-flow support, and strategic purpose rather than “debt good” or “debt bad.”
+
+- **Luxury assets as waste vs mechanism:** Carlton agrees cars depreciate, then argues depreciation can be used as a tax mechanism. This complicates the simple “avoid liabilities” advice common in wealth content. The book should preserve the distinction between lifestyle consumption and documented business-use depreciation.
+
+- **Legal tax strategy vs universal advice:** Carlton speaks confidently about strategies, but the notes must not present the claims as tax advice. Keep all tax outcomes as interview claims unless independently sourced later.
+
+- **Speed vs prudence:** Carlton praises wealthy clients for acting quickly, but the yacht audit story shows that speed must be paired with records and defensible business purpose. Do not turn “speed” into recklessness.
+
+- **Visible wealth vs invisible structure:** The Ferrari and G-Wagon are visual hooks, but the deeper mechanism is paperwork, eligibility, tax treatment, and financing. The dynamic book should use the cars as entry points, not conclusions.
+
+### Frame or diagram opportunities
+
+- Keep `lecture_04_figure_02.png` in the course figure inventory. It is the first validated visual asset in the processed course and should remain near the STR/cost-segregation explanation.
+
+- Best pocket-safe visual: the original screenshot paired with a narrow vertical flow:
+  \[
+  \$500{,}000\ \text{property}
+  \rightarrow \text{STR}
+  \rightarrow 7\text{-day stays}
+  \rightarrow 100\text{ management hours}
+  \rightarrow \text{cost segregation}
+  \rightarrow \$100{,}000\ \text{paper loss}
+  \rightarrow \text{income offset}.
+  \]
+
+- Useful compact table: “Tax mechanism / condition / claimed effect / caution,” with rows for S corporation, STR cost segregation, vehicle depreciation, ordinary business deduction, and Augusta rule.
+
+### Next rewrite implications
+
+- The dynamic book now needs a dedicated subsection on **retention as wealth creation**: not every wealth mechanism creates revenue; some preserve cash that can be redeployed into assets.
+
+- The tax/leverage chapter should open with caution and evidence discipline. Carlton’s material is vivid and useful, but it must be framed as claimed strategy, example arithmetic, and legal-structure logic rather than guaranteed outcomes.
+
+- Add Q\&A blocks for these local obstacles: how high income can coexist with low reported federal tax; what a beginner can do before real estate; why depreciation can create a paper loss without a cash loss; and when debt increases buying power rather than fragility.
+
+- The recurring “customer problem” theme should broaden again: here the painful problem is not customer acquisition but the business owner’s largest recurring expense, taxes. The “customer” for this expertise is the earner facing a large tax bill.
+
+- Keep the book’s numerical evidence tables source-conscious: include \(\$7.1\text{M}\), \(\$0\) federal, \(\$26{,}000\) state, \(\$11.5\text{M}\), \(<\$92{,}000\), \(15.3\%\), \(\$50{,}000\text{--}\$60{,}000\), \(6{,}000\) pounds, \(50\%\) business use, \(\$92{,}000\), \(\$1{,}400/month\), \(\$500{,}000\), \(\$100{,}000\), \(\$400{,}000\), \(20\%\), and \(14\) days.
