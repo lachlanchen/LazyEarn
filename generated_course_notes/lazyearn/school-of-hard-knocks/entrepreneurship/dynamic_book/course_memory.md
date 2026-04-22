@@ -389,3 +389,49 @@
   - Claim: do not get involved in things you do not want to be involved in.
   - Mechanism: apparently bounded financial exposure can expand into time, operating, and tail-risk exposure.
 - In the dynamic book arc, this lecture should feed capital, risk, ownership, operations, and judgment. It gives the book a concrete counterweight to wealth-building and funding advice: every opportunity must be tested against the role it may force the entrepreneur to occupy if things go wrong.
+
+## Lecture 105 integration: 6 Questions With A Public CEO
+
+### New evidence
+
+- Adds a clean first-business origin story: Mark White’s car-detailing business began as a valet-parking observation in late-1970s Houston, near the Galleria, while hotel guests left cars idle during dinner.
+- Adds a concrete micro-offer: Armor All was new, cleaned wheels and treated tires made the car look refreshed, and the offer was a `$20` detail performed while the customer was already occupied. Do not infer margin, costs, volume, or profit.
+- Strengthens the sales chapter with a “communication over closing” case: White contrasts sales-school language with asking questions, listening, tailoring the message, and avoiding explanations the listener either does not want or already knows better.
+- Adds expertise-humility evidence: in presentations, White asks whether medical professionals are in the room and avoids pretending to know health care better than they do.
+- Adds a personal/business finance coupling example: after “a few thousand dollars” of business in a strong week, the entrepreneur may be tempted into lifestyle spending, such as Saks Fifth Avenue or a `$200` bottle of wine.
+- Adds a major accountability-through-failure story: bankruptcy, Nelson Hemsley’s advice, facing creditors, returning assets, watching life’s work loaded into trucks, and emerging with humility.
+- Adds a small-structure self-improvement mechanism: Haas’s advice to set an alarm, make the bed, keep a simple schedule, complete one promise, reflect on completion, then add another small step.
+
+### Conservative restructure plan
+
+- Add the car-detailing story to the “starting” or “first offer” chapter as the book’s clearest current example of opportunity recognition through idle time, visible value, and a simple price.
+- Strengthen the sales chapter by pairing Lecture 105 with Lectures 112 and 179: practice and rejection matter, but White adds listening, message tailoring, and respect for the room.
+- Add the finance-spending example to the capital/discipline thread: revenue spikes are not durable wealth, and business cash can leak into personal lifestyle.
+- Add the bankruptcy story to the risk/failure chapter as a counterpoint to Lecture 115: Lecture 115 warns against unwanted exposure; Lecture 105 shows accountability after failure has already happened.
+- Use the small-steps section in the founder-discipline chapter, not as generic motivation but as a self-trust loop: complete one controllable promise, register the win, repeat.
+
+### New tensions or contradictions
+
+- White is introduced as a public-company CEO, but his “greatest accomplishment” is not going public; it is facing creditors after failure. Preserve this reversal.
+- The sales answer rejects closing theater while still valuing energy and confidence. The synthesis should keep both: conviction attracts attention, but listening shapes the sale.
+- The trauma and brain-health material is part of White’s company worldview, but it should remain interview claim, not medical advice.
+- “Nexalyn” and related company terms may be transcript-spelling issues. Keep naming cautious unless verified elsewhere.
+- Several transcript stretches are garbled; do not build course memory or diagrams from those fragments.
+
+### Frame or diagram opportunities
+
+- No validated screenshot assets exist for this lecture.
+- Useful transcript-derived visuals:
+  - Idle-time offer chain: parked car → dinner window → visible detail → `$20` offer → first business.
+  - Sales loop: ask → listen → tailor → meet need → avoid unwanted/already-known content.
+  - Failure accountability chain: loss → face creditors → return assets → humility → renewed judgment.
+  - Small-step loop: choose one action → complete it → reflect → repeat.
+- Keep all visuals narrow, vertical, and explicitly transcript-derived.
+
+### Next rewrite implications
+
+- This lecture should feed multiple thematic chapters rather than stand alone: starting, selling, money discipline, humility, failure, and founder structure.
+- Preserve anecdote/claim/mechanism separation:
+  - Anecdote: valet car detailing, mentor advice, bankruptcy attorney, Haas’s routine.
+  - Claim: sales is communication; business and personal money come together; humility matters; one small completed promise rebuilds traction.
+  - Mechanism: timed service offers, feedback-shaped messaging, spending restraint, direct accountability, and self-trust through completion.
