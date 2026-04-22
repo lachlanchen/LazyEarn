@@ -1305,3 +1305,121 @@
 - Treat the parenting-company idea as an entrepreneurial seed he says he has kept for retirement, not a proven business.
 
 - Use Mike’s story to complicate the book’s spine: the “best industry” may open attention, but durable wealth in this case appears through choosing the right room, staying long enough, specializing deeply, and retaining the ability to generate cash flow from skill.
+
+## Lecture 16 integration: How I Turned $1,000 Into $1 Billion
+
+### New evidence
+
+- **Named witness for technology pivot and reusable capability:** Glen Boyd adds the strongest processed case so far where the first wealth mechanism is not a law firm, hotel brand, acquisition, tax strategy, real estate, sales team, or insurance specialization, but a software capability redirected when the market changed. EG Software began with local-area-network security/audit software for banks and financial institutions, including the Federal Reserve and almost every major U.S. bank, then pivoted that same traffic-analysis engine into web analytics.
+
+- **Proof-point-first revenue validation:** Preserve Boyd’s opening numbers as interview claims:
+  \[
+  \$50{,}000\ \text{in month 1 without advertising}
+  \rightarrow
+  \text{near old security-business level by month 11}
+  \rightarrow
+  \$120{,}000{,}000\ \text{in sales by year 4}.
+  \]
+  The old security business was described as roughly `\$1M/year` from a four-person office, but the “near old-business level” claim should not be converted into an exact month-11 revenue number.
+
+- **Customer problem as measurement ambiguity:** Boyd adds a clean internet-era customer bottleneck: early website owners such as Sports Illustrated did not know whether they had `100,000` visitors or `10,000` visitors returning ten times. This belongs under the customer-problem chapter as “measurement blindness” rather than generic demand.
+
+- **Mechanism of pivot:** The compact before/after should enter the dynamic book:
+  \[
+  \text{local traffic logs}\rightarrow \text{security/audit report}
+  \]
+  becomes
+  \[
+  \text{anonymous web traffic}\rightarrow \text{marketing report}.
+  \]
+  This is a new version of “own the mechanism, then change the market application.”
+
+- **Funding readiness through use, not just idea:** Boyd’s “will the dogs eat the dog food?” test reinforces the course-wide traction theme with a memorable formulation: an idea is hard to fund; a demonstrable product is better; early adoption is stronger. Use as another witness for:
+  \[
+  \text{idea}+\text{demonstrable product}+\text{early adoption}
+  \Rightarrow
+  \text{more credible funding path}.
+  \]
+
+- **Risk runway with personal downside:** Boyd’s risk story adds a startup runway case: newborn on the way, job quit, about `\$1,000` left, motorcycle sold for another month or two, then partner cash. His fallback model was “go get a job,” while the regret model was “why didn’t I try?”
+
+- **Partner as survivability infrastructure:** Boyd adds another strong co-founder/trust case. A partner helped divide work, cover emergencies, and bring different skills. His leadership traits were honesty, intelligence, and the ability to take constructive feedback, including oneself. The early arguments with his partner should support the trust chapter as conflict converted into confidence.
+
+- **Bad-fit capital loss:** The construction-loan story adds a new failure case: Boyd entered a business he did not want to be in, management failed, he spent years turning it around, a tragic accident occurred, and he says he lost close to `\$3M`. The rule is direct: do not get involved in something your gut tells you to avoid.
+
+- **Failed VC as best financial decision:** Boyd adds one of the clearest ownership/dilution reversals so far. The company was profitable and growing quickly, sought venture capital to expand faster, spent energy in a courtship, and the VC firm passed. The result was less financial cushion but more frugality and, according to Boyd, `95%` founder ownership at IPO:
+  \[
+  \text{sought VC}
+  \rightarrow
+  \text{VC passed}
+  \rightarrow
+  \text{frugality}
+  \rightarrow
+  95\%\ \text{founder ownership at IPO}.
+  \]
+
+- **Scaling capacity metaphor:** Boyd’s *Into Thin Air* analogy adds a durable people-scaling model. Employees hired to manage `4--10` people may fail when growth turns the role into `20--30` people. The operating rule is to hire above the present role and stop handing responsibility to people after they have reached their altitude.
+
+- **Money threshold and time scarcity:** Boyd adds another witness for diminishing returns to money: money helps between poverty and paying the bills, including security and sending children to college, but beyond that more money does not keep buying happiness. His final beginner advice reinforces time as non-renewable: procrastination delays both failure and learning.
+
+### Conservative restructure plan
+
+- Add Boyd to **Question 1: What was the first real money-making mechanism?** as the first processed “software capability reused in a new market” case: bank network security analytics became web marketing analytics.
+
+- Add the Sports Illustrated visitor-count ambiguity to **Question 2: What painful bottleneck or customer problem created the opportunity?** This is the measurement-problem version of customer pain.
+
+- Add EG Software’s analysis engine, institutional customers, small four-person team, and later `95%` ownership at IPO to **Question 3: What did the person actually own or control?**
+
+- Add the no-ad first-month `\$50,000`, the dog-food test, YouTube/Instagram adoption examples, and demonstrable-product logic to **Question 4: How did customers, distribution, reputation, or attention arrive?**
+
+- Add the `\$1,000` runway story, motorcycle sale, partner cash, fallback job model, and failed VC courtship to **Question 5: How was risk financed, survived, or transferred?**
+
+- Add expense control, *Into Thin Air*, hiring above role, and the `4--10` to `20--30` management jump to **Question 6: Which skill or operating discipline compounded fastest?**
+
+- Add the `\$120M` sales claim, IPO, merger, and `95%` ownership claim to **Question 7: How did income become enterprise value, equity, or durable wealth?**
+
+- Add VC rejection and cap-table preservation to **Question 8** only as financing structure/dilution evidence, not as a tax or legal-engineering case.
+
+- Add the construction-loan loss and gut-instinct lesson to **Question 9: What failure, loss, or humiliation taught the rule?**
+
+- Add co-founder trust, constructive conflict, and partner workload-sharing to **Question 10: Which relationships, networks, trust, or teams mattered?**
+
+- Add “demonstrate, don’t just pitch,” “fail fast,” “protect health,” “don’t overspend after making money,” and “get financial advice” to **Question 11**.
+
+- Add Boyd’s poverty-to-security threshold, children’s college, freedom to try things, and diminishing returns to money to **Question 12: What is wealth for after the number is reached?**
+
+### New tensions or contradictions
+
+- **Capital wanted vs capital rejected:** Boyd wanted VC to expand faster, yet later frames the rejection as the best financial decision. This should sharpen the book’s financing chapter: outside capital can increase speed and cushion, but it can also reduce ownership and soften frugality.
+
+- **No VC versus other debt/capital doctrines:** Boyd now sits between Morgan’s no-debt posture, Klubeck’s bank-trust borrowing, TJ’s acquisition financing, Carlton’s tax/leverage strategy, Cardone’s audience capital, Todd’s refinance cycle, and Mike’s sales-first restart. The common question is not “raise or don’t raise,” but what capital does to control, survival, discipline, and upside.
+
+- **Fast growth validates product but breaks people:** The same growth that proves demand can overload managers. This is a useful cross-book tension for scaling: product-market pull creates organizational altitude.
+
+- **Demonstration beats idea, but the initial pivot still required judgment:** Boyd did not have certainty before the pivot. He had a working capability, a visible market shift, and a hypothesis. The validation arrived afterward.
+
+- **Work love versus health and relationships:** Boyd says entrepreneurs can work too much because they love it, but his divorce, heart attack, triple bypass, and younger-self advice complicate any simple glorification of long hours.
+
+- **Money buys happiness and does not buy happiness:** Preserve Boyd’s bounded answer. Money buys security and optionality up to a base level; after that, more money has diminishing emotional return.
+
+### Frame or diagram opportunities
+
+- Preserve `lecture_16_figure_05.png` as the only validated lecture 16 visual. It is startup-pitch b-roll with visible “START UP” board text, sticky notes, and unreadable chart sheets. Use it only near the VC discussion as contextual evidence; do not infer chart values or treat it as proof of Boyd’s company history.
+
+- Best pocket-safe transcript-derived diagrams:
+  - Vertical pivot flow: local network audit product -> security/fraud report -> internet arrives -> anonymous web traffic -> marketing report.
+  - VC ownership flow: sought VC -> VC passed -> less cushion -> frugality -> `95%` founder ownership at IPO.
+  - Scaling-capacity table: current span, new span, failure signal, management response.
+  - Adoption test ladder: idea -> demonstrable product -> early adoption -> fundable path.
+
+### Next rewrite implications
+
+- Add a dynamic-book subsection on **reusable capability meeting market discontinuity**. Boyd should anchor it because the transcript cleanly shows the same technical engine changing from security to marketing.
+
+- Add a Q&A block in the customer/problem chapter: “Why was early web traffic measurement valuable?” Use the `100,000` visitors versus `10,000` returning ten times example.
+
+- Add a Q&A block in the financing chapter: “How can failing to raise capital become the best financial decision?” Boyd’s answer should be paired with the `95%` ownership claim and contrasted with Cardone, Carlton, TJ, and Todd.
+
+- Add a Q&A block in the scaling chapter: “Why do good employees suddenly fail during growth?” Use Boyd’s altitude metaphor and the `4--10` to `20--30` responsibility jump.
+
+- Use Boyd’s story to keep the dynamic book from over-indexing on sales, real estate, or finance. This lecture adds a technology/product-pivot path where the main asset is an analytic engine, the main opportunity is a new data environment, and the main wealth outcome comes from retaining ownership through a rapid market shift.
