@@ -614,3 +614,53 @@
   - Claim: a person needs more than one focus in life.
   - Mechanism: non-office domains create mind space, distance, and capacity maintenance.
 - This lecture should feed resilience, judgment, operations, and ownership themes. It strengthens the book’s broader rule that entrepreneurial output depends on maintaining the operator, not only pushing the operator harder.
+
+## Lecture 127 integration: How to have a life-work balance？
+
+### New evidence
+
+- Adds a second direct life-work balance case, distinct from Lecture 122: this speaker says balance was always “front of mind” and then proves the point against a demanding travel career rather than a low-pressure lifestyle.
+- Adds a concrete workload scale marker: the speaker reports `5.5 million American miles` and says he flew more than most people. Preserve “American miles” cautiously because the transcript does not clarify whether it means American Airlines miles.
+- Adds the clearest boundary rule so far: when away from family and the house, work; when home, be home.
+- Adds a physical transition cue: setting the briefcase down marks the shift from work mode to home/family mode.
+- Adds a bounded-weekend mechanism: no calls all day Saturday, then possibly `1` to `1.5` hours of Sunday-night preparation after everyone went to bed.
+- Adds family-presence evidence: the speaker specifically wanted to be home, coach his kids, and be there for them.
+- Adds a retirement-endpoint warning: professionals may reach `65` or `70` with money but without relationships, friends, or family ties; “money by yourself” is presented as an incomplete outcome.
+
+### Conservative restructure plan
+
+- Place this lecture in the founder-capacity/resilience chapter beside Lectures 111, 121, 122, and 126, but give it a distinct subsection on boundary design.
+- Sequence the resilience material as:
+  - Lecture 111: energy and emotion are finite, so say no to low-value interactions.
+  - Lecture 121: exercise is fragile unless protected; co-founder structure can reduce overload.
+  - Lecture 122: business, young family, marriage, and health can compress the same reserve.
+  - Lecture 126: multiple non-work focuses and exercise create mind space.
+  - Lecture 127: heavy travel can coexist with balance only if work and home are separated by explicit boundaries.
+- Add a `Question & Answer` beat: “Can someone have work-life balance and still be successful?” Answer: yes, when balance is treated as a deliberate operating constraint rather than leftover time.
+- Add the retirement warning to the wealth/judgment arc as a counterweight to money-only success: financial capital and relationship capital should be kept distinct.
+
+### New tensions or contradictions
+
+- Lecture 122 shows life-work balance breaking down under young-family and company pressure; Lecture 127 gives a contrasting case where the speaker claims balance was preserved through boundaries.
+- Lecture 126 protects capacity through early exercise and hobbies; Lecture 127 protects family through spatial and temporal separation. Treat them as complementary remedies, not one universal routine.
+- Heavy travel appears to threaten family presence, but the speaker’s mechanism is concentration: work while away, then be home when home.
+- The retirement warning should remain an observed professional pattern, not a statistical claim about all entrepreneurs or retirees.
+- The transcript fragment after “I wouldn’t take calls all day Saturday” is garbled. Preserve only the clear Saturday no-calls rule.
+
+### Frame or diagram opportunities
+
+- No validated screenshot assets exist for this lecture.
+- Useful transcript-derived visuals:
+  - Narrow boundary flow: away from home → concentrated work → briefcase down → home mode → family presence.
+  - Compact weekly table: Saturday protected from calls; Sunday night limited to `1--1.5` hours of preparation.
+  - Two-stock caution model: financial capital can grow while relationship capital is neglected.
+- Label any visual as transcript-derived; no screenshot pairing is needed.
+
+### Next rewrite implications
+
+- Use Lecture 127 to make the resilience/balance chapter more operational: balance is not just exercise, hobbies, or co-founder support, but also a clear rule for when work is allowed to occupy attention.
+- Preserve anecdote/claim/mechanism separation:
+  - Anecdote: heavy travel, briefcase transition, protected Saturday, Sunday-night preparation, coaching kids.
+  - Claim: work-life balance can coexist with success.
+  - Mechanism: explicit domain separation, bounded exceptions, and protected relationship time.
+- In the dynamic book arc, this evidence should feed resilience, judgment, operations, ownership, and wealth-definition themes. It strengthens the book’s recurring warning that entrepreneurial success measured only in money can leave the builder with the wrong endpoint.
