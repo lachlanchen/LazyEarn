@@ -126,3 +126,44 @@
 - Add recurring `Question & Answer` beats around: “What kind of number is being claimed?”, “Can savings alone become wealth?”, and “Are tax structures the mechanism or secondary?”
 - Let Lecture 104 become the book's clearest evidence bank for wealth classification and repeated leverage.
 - Preserve School of Hard Knocks credit and LazyingArt LLC curation in the chapter ecosystem, with website URLs reserved for front matter.
+
+## Lecture 109 integration: Asking a multi-millionaire CEO about the factors to look for when venturing into a business.
+
+### New evidence
+
+- Adds the clearest hiring/team-selection evidence so far: when building a company or launching a venture, the question is not only whether someone is talented, but whether they belong on the early team.
+- Introduces a role-fit screen: people may naturally present as sales, engineering, or operations types. Treat this as practical founder shorthand, not a formal personality taxonomy.
+- Adds a strong skill-versus-trait distinction: the speaker claims skills can be taught, but traits cannot be reliably changed.
+- Names the non-negotiable trait set for hiring: coachable, humble, and persistent.
+- Demotes prestige signals in hiring: talent, school, referrals, and prior success at “XYZ company” do not by themselves imply success inside this venture.
+- Strengthens the broader judgment theme: entrepreneurial selection is about whether a person can be corrected, taught, and kept moving under pressure, not whether their resume looks impressive.
+
+### Conservative restructure plan
+
+- Add a team-building or hiring subsection to the operations/judgment part of the book. This lecture opens a new people-selection thread that is distinct from founder self-discipline, sales, accounting, and networking.
+- Pair this lecture with Lecture 112 and Lecture 179 in the sales chapter only where relevant: sales talent matters, but Lecture 109 adds that even a talented sales rep must clear the trait filter.
+- Use this lecture as a compact `Question & Answer` beat: “Can talent substitute for character?” Answer: no; talent becomes usable only after coachability, humility, and persistence are present.
+- Do not make Lecture 109 a standalone permanent chapter unless later lectures add more hiring evidence. For now, it should seed a recurring book theme: who belongs inside the venture.
+
+### New tensions or contradictions
+
+- Lecture 112 says sales experience cannot be Googled and must be earned through live rejection; Lecture 109 says skill can be taught. Preserve both by distinguishing preparation and trainability from the traits that allow someone to absorb training.
+- The speaker makes a strong claim that traits cannot be taught or changed. Treat this as a hiring judgment from the interview, not as a universal psychological law.
+- The lecture demotes school and referrals, while other lectures emphasize networking and access. Reconcile carefully: relationships may create opportunities, but they do not replace the internal trait screen once a person is being evaluated for the team.
+
+### Frame or diagram opportunities
+
+- No validated screenshot assets exist for this lecture.
+- Useful transcript-derived visuals:
+  - Narrow hiring-filter flowchart: role fit → talent is incomplete → skill can be taught → traits must clear → candidate worth serious consideration.
+  - Compact table: signal, what it may show, what it does not prove.
+- Label any diagram as reconstructed from the transcript; no screenshot pairing is needed.
+
+### Next rewrite implications
+
+- Use Lecture 109 to expand the book from “how the founder develops” into “how the founder chooses people.”
+- Keep anecdote/claim/mechanism separation:
+  - Anecdote: a talented sales rep from a generic “XYZ company.”
+  - Claim: talent, school, and referrals do not guarantee success here.
+  - Mechanism: coachability and humility allow skill improvement; persistence keeps the person moving through difficulty.
+- In future synthesis, make the early-team rule explicit: role fit opens the door, but trait fit decides whether the company can actually build with the person.

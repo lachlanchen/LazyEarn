@@ -417,4 +417,90 @@ A serious owner may need to understand all three, but they are not the same obje
 Lecture 104 should not be read as a formula for getting rich. It is better evidence for a repeated pattern: discipline creates capital, ownership creates exposure, access changes the opportunity set, operations create trust, and product economics keep the story from floating away from the numbers.
 \end{remark}
 
+% --- Lecture 109 additions: Asking a multi-millionaire CEO about the factors to look for when venturing into a business. ---
+% restructure plan: add a short people-selection chapter because lecture 109 opens a missing team-building theme not covered by sales, runway, capital, or product economics.
+% new evidence: the speaker separates role fit from the non-negotiable traits that make talent usable inside a venture.
+
+\chapter{Who Belongs Inside the Venture}
+
+A founder eventually has to stop asking only, ``How do I get better?'' and ask, ``Who can we build with?'' Lecture 109 adds that missing people-selection layer. The interview question is direct: when building a company or launching a venture, what traits make someone worth bringing onto the team?
+
+The answer begins with role fit. People have natural lanes. One person may look like a sales type, another like an engineering type, another like an operations type:
+\[
+\operatorname{RoleType}(c)
+\in
+\{\text{sales},\ \text{engineering},\ \text{operations},\ldots\},
+\]
+where \(c\) is a candidate for the team. That first classification matters. A company needs people who can actually contribute somewhere. But the speaker does not let role fit become the whole decision:
+\[
+\operatorname{RoleFit}(c)
+\nRightarrow
+\operatorname{Hire}(c).
+\]
+A useful lane is evidence, not a verdict.
+
+\subsection{Question \& Answer}
+
+\paragraph{Question.}
+Can talent, school, referrals, or prior success substitute for character inside an early company?
+
+\paragraph{Answer.}
+No. The speaker's distinction is blunt: skills can be taught, but traits cannot be reliably changed. In book terms, talent is only usable when the person can receive correction, keep learning, and persist through difficulty.
+
+The non-negotiable trait set named in the interview is:
+\[
+\mathcal{T}
+=
+\{\text{coachable},\ \text{humble},\ \text{persistent}\}.
+\]
+The hiring screen is therefore not merely ``is this person impressive?'' It is:
+\[
+\operatorname{TraitClear}(c)
+=
+\operatorname{Coachable}(c)
+\land
+\operatorname{Humble}(c)
+\land
+\operatorname{Persistent}(c).
+\]
+Only after that screen does visible ability become operationally useful.
+
+\begin{figure}
+\centering
+\begin{tikzpicture}
+\node[draw, align=center, text width=0.66\linewidth] (a) at (0,0) {Notice role fit:\\ sales, engineering, operations};
+\node[draw, align=center, text width=0.66\linewidth] (b) at (0,-1.35) {Do not stop at aptitude:\\ talent is incomplete evidence};
+\node[draw, align=center, text width=0.66\linewidth] (c) at (0,-2.70) {Separate the categories:\\ skill can be taught};
+\node[draw, align=center, text width=0.66\linewidth] (d) at (0,-4.05) {Apply the trait screen:\\ coachable, humble, persistent};
+\node[draw, align=center, text width=0.66\linewidth] (e) at (0,-5.40) {Treat talent as usable\\ only after the screen clears};
+\draw[->] (a) -- (b);
+\draw[->] (b) -- (c);
+\draw[->] (c) -- (d);
+\draw[->] (d) -- (e);
+\end{tikzpicture}
+\caption{A transcript-derived hiring filter from lecture 109. No validated screenshot accompanies this reconstruction.}
+\end{figure}
+
+The sales example makes the rule concrete. A person may be the strongest sales rep at a generic ``XYZ company,'' and the speaker grants that this shows talent. But it still does not prove success here:
+\[
+\operatorname{Talent}(c)
+\lor
+\operatorname{School}(c)
+\lor
+\operatorname{Referral}(c)
+\nRightarrow
+\operatorname{SuccessHere}(c).
+\]
+This creates a useful tension with the earlier sales chapters. Lecture 112 says experience cannot be Googled; lecture 179 says sales should be practiced and reviewed. Lecture 109 adds the condition underneath both claims: the person must be teachable enough for practice to work and humble enough for experience to correct them.
+
+The practical hiring rule is:
+\[
+\operatorname{Hire}(c)
+\Rightarrow
+\operatorname{RoleFit}(c)
+\land
+\operatorname{TraitClear}(c).
+\]
+Role fit opens the door. Trait fit decides whether the company can actually build with the person.
+
 \end{document}
