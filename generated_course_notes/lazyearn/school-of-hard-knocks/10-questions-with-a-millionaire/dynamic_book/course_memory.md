@@ -786,3 +786,91 @@
 - The wealth-purpose chapter should open or close with a bodily and moral constraint: health can outrank money instantly, and character is what remains if the money is removed.
 
 - Add source-conscious caution around AK’s Franklin and world-history claims. Their value is narrative and moral: reputation, diplomacy, anti-tribal judgment, and constructive problem-solving.
+
+## Lecture 10 integration: Young Entrepreneur Interviews Billionaire Grant Cardone
+
+### New evidence
+
+- **Named witness for audience-to-capital financing:** Grant Cardone adds the strongest processed case so far where audience itself becomes a capital source. He claims \(\$1.1\text{B}\) raised by internet crowdfunding, explicitly contrasting this with asking Mark Cuban, Blackstone, or a small circle of wealthy institutions. Mechanism:
+  \[
+  \text{audience}+\text{trust}+\text{offer}\rightarrow \text{capital}.
+  \]
+
+- **Funnel arithmetic for attention becoming money:** Preserve the claimed funnel: `16M` online audience, `154,000` product/service buyers, `450,000` interested investors, `13,000` actual investors, and \(\$1.1\text{B}\) raised. The investor conversion is:
+  \[
+  \frac{13{,}000}{450{,}000}\approx 2.89\%.
+  \]
+  The transcript says both `0.28%` and `2.8%`; keep the arithmetic correction.
+
+- **Stock-to-flow warning about “a million dollars”:** Cardone gives the cleanest processed calculation showing why a headline net worth can fail as freedom:
+  \[
+  \frac{\$1{,}000{,}000}{(80-21)\times12}
+  =\frac{\$1{,}000{,}000}{708}
+  \approx \$1{,}412/month.
+  \]
+  This should anchor a cross-book distinction between symbolic money, monthly draw, income, and durable wealth.
+
+- **Rich versus wealthy as survival after the worker stops:** Cardone adds a sharp narrative case: his father died at `52`, and he says everything changed within about `72` hours because income, decision-making, and the economic engine stopped. Pair this with his Sam Walton contrast: wealth is ownership/enterprise/brand that continues after the person.
+
+- **Small-money defensiveness:** The Undercover Billionaire story adds a provocative risk/action case: \(\$100\rightarrow \$10\text{M}\) in `90` days, a factor of `100,000`, without using his name. His “go to zero” rule should be treated as his operating doctrine about escaping defensive money management, not universal financial advice.
+
+- **One-unit real estate fragility:** Cardone’s Janet story gives the clearest single-tenant bottleneck so far:
+  \[
+  1\text{ tenant leaves }1\text{ unit}\Rightarrow \$0\text{ rent from that asset}.
+  \]
+  The correction matters: first single-family, another single-family `28` days later, then `48` units three years later.
+
+- **Asset-backed/entity lending frame:** The `48`-unit example adds a new debt variant: the bank lends against the LLC/apartment complex and its income stream, not simply against “Grant” as a personal borrower. Preserve the narrow supported mechanism and avoid adding loan-covenant detail.
+
+- **Real estate scale numbers:** Keep the transcript-backed deal arithmetic: \(\$350{,}000\) raised/invested, \(\$1.9\text{M}\) note, \(\$3.7\text{M}\) claimed net profit, and the mental extrapolation
+  \[
+  10\times \$3.7\text{M}=\$37\text{M}.
+  \]
+
+- **Closing as service plus repeat purchase:** Cardone reframes closing as the first moment the buyer is actually served. Preserve the repeat-buyer arithmetic:
+  \[
+  \frac{45{,}000}{154{,}000}\approx 29.2\%.
+  \]
+  This supports the existing sales chapter with a relationship-continuation metric.
+
+### Conservative restructure plan
+
+- Add Cardone’s crowdfunding funnel to **Question 4: How did customers, distribution, reputation, or attention arrive?** and **Question 5: How was risk financed, survived, or transferred?** Audience now joins banks, brokers, advertisers, celebrity, door-to-door teams, and proximity as a source of capital access.
+
+- Add the million-dollar drawdown to **Question 7** and **Question 12** as the clearest stock-versus-flow calculation so far.
+
+- Add father/Walton material to **Question 7: How did income become enterprise value, equity, or durable wealth?** It sharpens the recurring distinction between high income and wealth that survives.
+
+- Add “go to zero” and reinvestment into skill, marketing, brand, speed, confidence, and later real assets to **Question 11** and **Question 5**, with a caution note that this is rhetorical operating doctrine.
+
+- Add one-unit fragility and the `48`-unit deal to **Question 2**, **Question 3**, **Question 5**, and **Question 7**. It is both a customer/tenant bottleneck and an asset-control lesson.
+
+- Add “follow the money” yacht story to **Question 4** and **Question 10** as a companion to Zane’s proximity-to-money evidence: visible capital concentration can be treated as information, but not as proof.
+
+### New tensions or contradictions
+
+- **Debt doctrine broadens again:** Cardone adds entity/asset-backed borrowing to Morgan’s no-debt posture, Klubeck’s bank-trust borrowing, TJ’s acquisition financing, Carlton’s tax/leverage strategy, Louis’s factoring, Edwin’s reserves, and Zane’s staged deployment. The book should frame debt by asset income, survivability, control, and purpose.
+
+- **Save versus deploy:** Cardone rejects stacking small money and says to reinvest, but later says to bank money for real estate opportunities. Resolve by stage: idle hoarding is criticized; readiness for asset purchase is not.
+
+- **Audience is not enough:** Cardone’s funnel shows that huge audiences convert at small percentages. This is a useful correction to any simple “build an audience” rule.
+
+- **Scale as freedom versus scale as pressure:** He says small companies are controlled by a few employees or customers, but scale requires people, systems, and offers that can actually absorb growth.
+
+### Frame or diagram opportunities
+
+- No lecture 10 screenshot assets should be retained.
+
+- Best pocket-safe visuals:
+  - Audience funnel: `16M` audience → `154k` buyers → `450k` interested investors → `13k` investors → \(\$1.1\text{B}\).
+  - One-unit versus `48`-unit real estate diagram.
+  - Stock-to-flow box for the million-dollar drawdown.
+  - Anecdote/claim/mechanism table: father’s death, Undercover Billionaire, Janet vacancy, yacht cluster, sales funnel.
+
+### Next rewrite implications
+
+- The dynamic book should now make **audience as financing infrastructure** a major subsection, with Cardone as anchor and Morgan/Zane/Shaq as supporting attention cases.
+
+- Add a “fragility by concentration” subsection: one income producer, one tenant, a few customers, or a few employees can control the owner.
+
+- Add Q&A blocks later for: why a million dollars is not freedom; why one tenant can invalidate a rental strategy; why returning the \(\$100\) can make sense in Cardone’s story; and why closing should be measured by repeat service, not just first payment.
