@@ -1079,3 +1079,55 @@
 - The failure chapter should use White as a high-emotion accountability case. Do not compress it to “failure taught humility”; keep the trucks, creditors, attorney challenge, restitution, and family repair.
 
 - The beginner-advice chapter should include the Haas routine as a Q&A block on why one small promise can matter more than a full life overhaul.
+
+## Lecture 13 integration: The Single Skill That Built His $100M Year Business
+
+### New evidence
+
+- Johnny Anton adds a strong named case for **sales as portable economic insurance**: immigrant-family background, poor Detroit upbringing, two years homeless, then sales skill and multiple businesses scaled past nine figures. The new mechanism is not “charisma,” but the ability to create revenue for a high-demand business even when markets, crypto, or trust conditions deteriorate.
+- Adds a clean failure loop for the advice chapter: action, result, remove identity-level significance, lesson, next action. His phrase “fail faster” should be preserved as a mechanism of compounding time, not as a generic slogan.
+- Adds the strongest course evidence so far for **feedback loops as operating discipline**: daily sales calls, end-of-day reports, what worked, what did not, and the salesperson’s state behind the words.
+- Adds the “same script, different result” puzzle. This supports a useful Q&A block: content alone does not determine outcome; context, identity, presence, and certainty alter the result.
+- Adds a paid-proximity rule: cut checks to people who already have the result, then model their pattern recognition. Johnny explicitly reduces skill to stimulus and response.
+- Adds a sharp ownership-risk reversal. Johnny had a half-million-dollar, 100% commission sales role, but Paul warned that the role spared him marketing, delivery risk, hiring, operations, and finance. This is a concrete distinction between being a closer and owning the full business system.
+- Adds a scale chain attributed to Johnny’s reading of Ryan Breslow: product quality, vision, leadership, fundraising, recruiting, compensation, top-tier talent, scale. The Ryan Breslow claims should remain attributed.
+- Adds a practical rebuild-from-zero ladder: sell expensive offers for rent and food, add free value, earn testimonials and case studies, secure an anchor client, sell adjacent competitors or niches, package high value with low client risk, then build a sales team and lead sources.
+- Adds a sales psychology bridge: understand demographics and psychographics, diagnose current situation and desired situation, then position the product or service as the credible bridge. “Turning no into yes” is reframed as preventing objections through better diagnosis.
+- Concrete details to preserve as attributed interview evidence: over six years meditating; Disney anecdote with 150 banker rejections, a $5 million loan, and $15 million cost; high eight figures toward multiple nine figures; 24-year-old teaching people with 20 years of experience; Ryan Breslow under 30 with two or almost three multibillion-dollar startups.
+
+### Conservative restructure plan
+
+- Add Johnny primarily to Question 6, **Which skill or operating discipline compounded fastest?** His end-of-day report loop is a durable cross-lecture mechanism and should become one of the spine examples for compounding skill.
+- Add Johnny to Question 11, **What advice would survive for a beginner or younger self?** Use “fail faster,” remove significance, document what worked, and pay for proven pattern recognition.
+- Add Johnny to Question 3, **What did the person actually own or control?** Use Paul’s warning to separate control of a sales function from ownership of the whole risk-bearing enterprise.
+- Add Johnny to Question 5, **How was risk financed, survived, or transferred?** His zero-bank-account sequence starts with survival cash before enterprise-building.
+- Add Johnny to Question 4, **How did customers, distribution, reputation, or attention arrive?** The anchor-client, testimonial, case-study, adjacent-market sequence is new concrete evidence.
+- Add Johnny to Question 10, **Which relationships, networks, trust, or teams mattered?** Paid mentors, recruiting, talent, and anchor-client trust all belong here.
+- Add a brief Johnny thread to Question 12 only if useful: he says material things and nice places are not required once food and shelter are covered; skills and connections matter more.
+
+### New tensions or contradictions
+
+- Sales is framed as recession-proof, but later scale depends on product quality, leadership, cash, compensation, and talent. The book should preserve the tension: a portable skill creates cash, but an enterprise requires a system.
+- Johnny’s meditation and subconscious-conditioning claims should be kept as attributed claims, while the feedback loop and reporting discipline can carry the operational weight.
+- The lecture argues for confidence in sales but against ego in ownership. This is a useful contradiction: confidence closes, but ego blinds the operator to missing business functions.
+- “Pay people who have the results” reinforces prior mentorship themes, but it also pushes against bootstrap purity and self-reliance narratives from other interviews.
+- Claims about Israel, Disney, Ryan Breslow, and manifestation should not be promoted into external facts unless independently sourced later.
+
+### Frame or diagram opportunities
+
+- No lecture 13 screenshots should be retained; the validated asset list is empty.
+- Useful pocket-safe diagrams:
+  - Failure loop: attempt, result, remove significance, lesson, next attempt.
+  - Sales feedback loop: calls, end-of-day report, adjustment, next calls.
+  - Same-script model: offer, prospect, script, context, salesperson state, outcome.
+  - Ownership decomposition: sales versus marketing, delivery, hiring, operations, finance, and risk.
+  - Scale chain: product, vision/leadership, fundraising/recruiting, talent, scale.
+  - Starting-from-zero ladder: expensive offer, food/shelter, free value, case study, anchor client, adjacent sales, team/leads.
+  - Sales bridge: current situation to desired situation, with demographics and psychographics feeding diagnosis.
+
+### Next rewrite implications
+
+- Do not make Johnny a standalone video chapter in the dynamic book. Distribute him across skill, advice, risk, ownership, distribution, and relationships.
+- Preserve three Q&A blocks from this lecture: why failing faster matters, why two people with the same script perform differently, and how “turning no into yes” becomes buyer diagnosis.
+- Use Johnny as a named witness for “skill as insurance,” but avoid letting sales swallow the rest of the book’s mechanisms such as acquisition, tax structure, leverage, legal expertise, and brand.
+- Treat the best mathematical payload as process notation, not formal math: learning loops, feedback loops, stimulus-response, ownership decomposition, scale chains, and buyer-state bridges.
