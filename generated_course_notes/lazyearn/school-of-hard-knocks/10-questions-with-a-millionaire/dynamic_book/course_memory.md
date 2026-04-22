@@ -292,3 +292,85 @@
 - The recurring “customer problem” theme should broaden again: here the painful problem is not customer acquisition but the business owner’s largest recurring expense, taxes. The “customer” for this expertise is the earner facing a large tax bill.
 
 - Keep the book’s numerical evidence tables source-conscious: include \(\$7.1\text{M}\), \(\$0\) federal, \(\$26{,}000\) state, \(\$11.5\text{M}\), \(<\$92{,}000\), \(15.3\%\), \(\$50{,}000\text{--}\$60{,}000\), \(6{,}000\) pounds, \(50\%\) business use, \(\$92{,}000\), \(\$1{,}400/month\), \(\$500{,}000\), \(\$100{,}000\), \(\$400{,}000\), \(20\%\), and \(14\) days.
+
+## Lecture 5 integration: Young Entrepreneur Interviews SHAQ
+
+### New evidence
+
+- **Named witness for athlete-to-operator wealth:** Shaquille O’Neal adds the first processed case where the starting advantage is explicitly athletic income and celebrity reach, but the durable lesson is not fame itself. Shaq says he was paid to play sports, then “leveraged it and did certain things,” while also saying that part of his outcome was luck.
+
+- **Franchise scale and delegation:** Preserve the 155 Five Guys claim as the cleanest new scale constraint:
+  \[
+  N_{\text{Five Guys}}=155.
+  \]
+  Shaq says he sold them, then gives the operating rule: the secret to scaling is “delegation” because he cannot be in 155 places at once but knows somebody who can.
+
+- **Team logic as business mechanism:** Shaq connects delegation to championships: great teammates help you win. This reinforces Morgan’s partners/profit-sharing, Klubeck’s staff/service standards, and TJ’s acquisition operators, but adds a sports-team witness for the same principle.
+
+- **Model theft as skill transfer:** Shaq’s “I was a thief” answer gives a memorable learning mechanism for the skill chapter: copy Michael Jordan, Magic Johnson, Kareem Abdul-Jabbar, and Muhammad Ali, internalize useful patterns, then create one’s own version.
+
+- **Wealth preservation keyword:** Shaq answers the “how do you keep hundreds of millions?” question with “annuity.” Treat this as a transcript-backed preservation keyword, not a developed financial lesson. It supports a compact preservation mechanism: lump sum \(\rightarrow\) governed income stream.
+
+- **First-million mistake:** Shaq says the first time he got a million dollars he spent it in about 30 minutes on cars, jewelry/unclear “juries,” and suits, because he did not know what FICO was. This is strong new evidence for the failure/literacy chapter.
+
+- **Savings and hiring rules:** Shaq says one mentor advised saving 75 and having fun with 25, and another advised hiring people smarter than himself:
+  \[
+  S=0.75I,\qquad F=0.25I.
+  \]
+
+- **Negotiation arithmetic:** Add Shaq’s high-anchor example to the negotiation subsection:
+  \[
+  \$200\text{M}\rightarrow \$110\text{M}\rightarrow \$140\text{M}\rightarrow \$125\text{M},
+  \]
+  and the low-anchor loss:
+  \[
+  \$200\text{M}-\$50\text{M}=\$150\text{M}.
+  \]
+  This is the clearest processed example so far of anchoring framed as explicit opportunity loss.
+
+- **Missed opportunity case:** Shaq names not pulling the trigger on Howard Schultz’s Starbucks-in-the-hood opportunity as his biggest business risk, saying he misunderstood redevelopment/re-beautification dynamics. He contrasts this with Magic Johnson allegedly opening many Starbucks. Treat the Magic Johnson number as anecdotal interview language.
+
+- **Investment criterion:** Shaq says he changed his investment strategy after hearing Jeff Bezos say to invest in things that change people’s lives. He also says he invests in people when he can believe in what they believe in.
+
+### Conservative restructure plan
+
+- Add Shaq to **Question 1** as evidence for the mechanism “turn unusual initial income into leverage,” but keep the caveat that he names athletic advantage and luck.
+- Add 155 Five Guys and “I sold them” to **Question 3: What did the person actually own or control?**
+- Add delegation, teams, and smarter hires to **Question 6** and **Question 10** as recurring people-leverage evidence.
+- Add annuity, 75/25 saving, first-million spending, and FICO ignorance to **Question 5**, **Question 7**, and **Question 9** as wealth-preservation material.
+- Add high-anchor negotiation arithmetic to **Question 6** or a dedicated negotiation subsection inside **Question 11**.
+- Add the Howard Schultz / Starbucks missed trigger story to **Question 9** as a missed-opportunity lesson and to **Question 2** as evidence that opportunity may come from misunderstood neighborhood change.
+- Add “invest in things that change people’s lives” and “believe in what they believe in” to **Question 2**, **Question 10**, and **Question 11**.
+- Keep the mentorship advertisement as host-side context only; do not merge it with Shaq’s testimony.
+
+### New tensions or contradictions
+
+- **Athletic advantage vs universal advice:** Shaq gives beginner advice, but he also says his own path included unusual athletic income and luck. The book should preserve this tension instead of turning his story into a universal bootstrap formula.
+
+- **Exact ownership vs conversational scale:** Shaq says he does not know how many businesses he owns, then says “let’s just say I own a thousand businesses” while worrying about sounding like he is bragging. Use the line as evidence of diffuse ownership, not as an audited count.
+
+- **Delegation vs knowing the work:** Shaq emphasizes delegation; Klubeck emphasizes knowing every layer down to making a bed. The synthesis should be: delegate execution, but do not abdicate judgment about operators and standards.
+
+- **Luxury spending vs disciplined preservation:** Shaq’s first-million mistake sharpens a recurring course distinction: receiving money does not imply financial literacy.
+
+- **High confidence vs humility:** Shaq offers blunt rules, but repeatedly points to faith, luck, his mother, and missed opportunities. Keep those as checks against overconfident formula-writing.
+
+### Frame or diagram opportunities
+
+- No lecture 5 screenshots should be retained. Candidate frames were exterior, in-car, title-like, or talking-head shots with no durable diagram/equation value.
+
+- Useful transcript-derived diagrams:
+  - Narrow delegation chain: owner \(\rightarrow\) operators \(\rightarrow\) many locations.
+  - 75/25 savings bar.
+  - Negotiation anchor ladder showing the high-anchor path versus the \$50M low-anchor loss.
+  - “Model theft” loop: observe \(\rightarrow\) copy \(\rightarrow\) combine \(\rightarrow\) personalize.
+
+### Next rewrite implications
+
+- The dynamic book can now make “people leverage” a stronger through-line: Morgan’s partners, Klubeck’s service teams, TJ’s acquired operators, and Shaq’s championship/delegation analogy all point to scale through trusted people.
+
+- Add a compact “keeping money is different from getting money” subsection using Morgan’s warning, Carlton’s tax retention, and Shaq’s annuity/first-million mistake.
+
+- The advice chapter should now include a repeatable pattern: write the plan, study someone already doing it, copy the useful moves, add personal style, and expect ups and downs.
+
+- The negotiation chapter has enough evidence to become more than a side note: Klubeck contributes silence after the ask; Shaq contributes high anchoring and explicit opportunity-loss arithmetic.
