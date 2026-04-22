@@ -856,4 +856,128 @@ The venture firm made the visible decision to pass. That is why the speaker says
 
 The doctrine is narrow. This is not an argument that venture capital is bad. It is an argument that capital has a process cost, especially when the business is already alive, profitable, and seeking speed rather than survival. In that situation, the founder must ask not only, ``Can this money help us grow?'' but also, ``What does pursuing it take us away from?''
 
+% --- Lecture 115 additions: Multi-millionaire business owner shares his worst financial decision. ---
+% restructure plan: append a risk subsection to the capital chapter because lecture 115 gives the negative counterpart to lecture 114.
+% new evidence: a temporary, collateralized construction loan became unwanted operating responsibility, then a near-\$3M loss.
+
+\section{When Financing Becomes Unwanted Ownership}
+
+Lecture 114 showed a best financial decision: not taking outside capital, or more precisely being passed over by a venture firm and later recognizing that the company preserved focus. Lecture 115 gives the mirror image. The question is now the worst financial decision, and the answer comes before the details: getting involved in something one does not want to be involved in.
+
+The case is a construction loan on a business the speaker says he really did not want to be in. He was talked into it by a friend. The loan was supposed to be temporary, and everything was collateralized. On paper, those words are meant to make exposure look bounded:
+\[
+E_{\mathrm{nominal}}
+=
+E_{\mathrm{capital\ under\ loan\ terms}}.
+\]
+But the transcript's lesson is that the nominal exposure was not the total exposure. The company ended up with failing management, and the speaker says he had to step in and spend a couple of years turning it around.
+
+\subsection{Question \& Answer}
+
+\paragraph{Question.}
+Why can a temporary, collateralized loan still become a disastrous entrepreneurial decision?
+
+\paragraph{Answer.}
+Because collateral and term structure do not necessarily remove the practical obligation attached to a failing business. If management fails, the financier may no longer be choosing only between repayment and collateral. He may be choosing whether to enter the business operationally, spend years inside the problem, and absorb risks that were not visible in the clean loan description.
+
+The useful distinction is
+\[
+\text{nominal loan risk}
+\neq
+\text{total entrepreneurial exposure}.
+\]
+For this case, the broader exposure can be written as
+\[
+E_{\mathrm{total}}
+=
+E_{\mathrm{capital}}
++
+E_{\mathrm{time}}
++
+E_{\mathrm{operating}}
++
+E_{\mathrm{tail}}.
+\]
+This is a reconstruction, not a formal equation from the interview. It keeps the categories separate: capital at risk, years of attention, operating responsibility, and severe events attached to the business.
+
+The exposure widened in stages:
+\begin{align}
+E_{\mathrm{total}}^{(0)}
+&=
+E_{\mathrm{capital}},
+\\
+E_{\mathrm{total}}^{(1)}
+&=
+E_{\mathrm{capital}}
++
+E_{\mathrm{operating}},
+\\
+E_{\mathrm{total}}^{(2)}
+&=
+E_{\mathrm{capital}}
++
+E_{\mathrm{operating}}
++
+E_{\mathrm{time}},
+\\
+E_{\mathrm{total}}^{(3)}
+&=
+E_{\mathrm{capital}}
++
+E_{\mathrm{operating}}
++
+E_{\mathrm{time}}
++
+E_{\mathrm{tail}}.
+\end{align}
+
+The transcript then reaches its hard endpoint. A tragic accident occurred, somebody died, and the speaker says it ended up costing the entire company. He reports:
+\[
+L\approx \text{\$}3{,}000{,}000.
+\]
+Here \(L\) is only the reported personal loss. The source gives no loan amount, collateral value, insurance detail, legal structure, ownership percentage, or precise causal mechanics.
+
+\begin{figure}
+\centering
+\begin{tikzpicture}[x=1cm,y=1cm, font=\small]
+\node[draw, align=center, text width=0.68\linewidth] (a) at (0,0) {Unwanted\\involvement};
+\node[draw, align=center, text width=0.68\linewidth] (b) at (0,-1.20) {Construction loan\\on unwanted business};
+\node[draw, align=center, text width=0.68\linewidth] (c) at (0,-2.40) {Temporary and\\collateralized premise};
+\node[draw, align=center, text width=0.68\linewidth] (d) at (0,-3.60) {Management\\failure};
+\node[draw, align=center, text width=0.68\linewidth] (e) at (0,-4.80) {Couple of years\\turning it around};
+\node[draw, align=center, text width=0.68\linewidth] (f) at (0,-6.00) {Tragic accident\\and death};
+\node[draw, align=center, text width=0.68\linewidth] (g) at (0,-7.20) {Company lost;\\near-\$3M loss};
+\draw[->] (a) -- (b);
+\draw[->] (b) -- (c);
+\draw[->] (c) -- (d);
+\draw[->] (d) -- (e);
+\draw[->] (e) -- (f);
+\draw[->] (f) -- (g);
+\end{tikzpicture}
+\caption{Lecture 115 reconstructs how a protected-looking financing decision can widen into unwanted operating exposure. No validated screenshot accompanies this transcript-derived diagram.}
+\end{figure}
+
+\begin{table}
+\centering
+\small
+\begin{tabular}{p{0.27\linewidth}p{0.31\linewidth}p{0.29\linewidth}}
+\hline
+Stated protection & Exposure not removed & Transcript outcome\\
+\hline
+Temporary loan & Time cost if the business fails & A couple of years spent turning it around\\
+Collateralized deal & Operating responsibility beyond paper security & Management was failing\\
+Passive financing role & Severe business event risk & Accident, death, company loss\\
+\hline
+\end{tabular}
+\caption{Lecture 115 separates the apparent protection from the exposure that remained.}
+\end{table}
+
+This section should not be read as a claim that every collateralized loan is dangerous. The doctrine is narrower. Before accepting a deal, the founder or financier should ask what role the downside could force him to occupy. In symbols:
+\[
+\text{reject the deal if}
+\qquad
+E_{\mathrm{total}}>W_{\mathrm{own}},
+\]
+where \(W_{\mathrm{own}}\) is the real willingness to own the problem if the optimistic description fails. Lecture 115's point is that the speaker already knew the answer from day one. He did not want to be in that business, but proceeded anyway.
+
 \end{document}

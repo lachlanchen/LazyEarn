@@ -344,3 +344,48 @@
   - Claim: investing in oneself was the broad answer; the company-specific best decision involved not taking outside capital.
   - Mechanism: capital may accelerate growth, but fundraising consumes scarce founder attention before any money arrives.
 - In the dynamic book arc, connect this lecture to capital, ownership, operations, and judgment: the practical asset preserved by the rejection was not only equity or control, but focus.
+
+## Lecture 115 integration: Multi-millionaire business owner shares his worst financial decision.
+
+### New evidence
+
+- Adds the clearest negative financial-decision case so far: the speaker’s worst decision was “getting involved” in something he did not want to be involved in.
+- Concrete case: a construction loan on a business he did not want to be in, entered partly because a friend talked him into it.
+- Adds a strong hidden-exposure mechanism: the loan was supposed to be temporary and collateralized, but management failure forced the speaker to step in and spend a couple of years turning the company around.
+- Adds a hard loss anchor: the speaker reports losing close to `$3 million`.
+- Adds a sober tail-risk event: a tragic accident occurred, someone died, and the speaker says it ended up costing the entire company.
+- Strengthens the judgment/gut-check thread: his instinct told him from day one not to do it, but he proceeded anyway.
+
+### Conservative restructure plan
+
+- Pair Lecture 115 with Lecture 114 as a “best decision / worst decision” capital-judgment contrast:
+  - Lecture 114: not taking outside capital preserved focus when the company was already profitable.
+  - Lecture 115: entering a seemingly protected financing deal created unwanted operating exposure.
+- Add this evidence to the risk, ownership, and judgment chapters rather than making it only a finance anecdote.
+- Add a `Question & Answer` beat in the risk chapter: “Why can a temporary, collateralized loan still be dangerous?” Answer: because collateral and term structure do not remove management failure, time burden, operating responsibility, or tail events.
+- Use this lecture to sharpen the book’s distinction between capital exposure and total entrepreneurial exposure.
+
+### New tensions or contradictions
+
+- Collateralized and temporary financing appears safer on paper, but this lecture shows those protections may not cover the real downside if the founder/lender becomes responsible for the business.
+- Lecture 123 and Lecture 130 frame funding and venture support as useful when evidence, team, and market fit exist; Lecture 115 adds the caution that financing can become unwanted ownership or operational captivity.
+- The tragic accident and death must remain transcript-bound. Do not infer legal liability, insurance failure, collateral insufficiency, ownership percentage, or loan terms.
+- “Trust your gut” should not be flattened into motivational advice. The sharper point is role refusal: do not enter a deal whose failure mode forces you into a business or crisis you already know you do not want.
+
+### Frame or diagram opportunities
+
+- No validated screenshot assets exist for this lecture.
+- Useful transcript-derived visuals:
+  - Narrow vertical exposure chain: unwanted involvement → construction loan → temporary/collateralized premise → management failure → couple of years turning it around → tragic accident/death → company lost → near-`$3M` loss.
+  - Compact table: stated protection, exposure not removed, transcript outcome.
+  - Simple exposure expression: `total exposure = capital + time + operating responsibility + tail risk`.
+- Label diagrams as reconstructed from the transcript; no screenshot pairing is needed.
+
+### Next rewrite implications
+
+- Use Lecture 115 to make the risk chapter practical and concrete: the danger is not only losing money, but inheriting responsibility for a problem one never wanted.
+- Preserve anecdote/claim/mechanism separation:
+  - Anecdote: construction loan, friend persuasion, failed management, turnaround effort, tragic accident, near-`$3M` loss.
+  - Claim: do not get involved in things you do not want to be involved in.
+  - Mechanism: apparently bounded financial exposure can expand into time, operating, and tail-risk exposure.
+- In the dynamic book arc, this lecture should feed capital, risk, ownership, operations, and judgment. It gives the book a concrete counterweight to wealth-building and funding advice: every opportunity must be tested against the role it may force the entrepreneur to occupy if things go wrong.
