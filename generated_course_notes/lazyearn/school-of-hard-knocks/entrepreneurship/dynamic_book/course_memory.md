@@ -46,3 +46,42 @@
   - Claim: sales is required for a functioning business; accounting improves decisions; onboarding prevents avoidable post-sale problems.
   - Mechanism: feedback loops, churn replacement, expectation-setting, referral incentives, and delayed relationship payoff.
 - When compiling the course-level book, avoid making this one lecture a standalone permanent chapter unless needed; its evidence can feed multiple thematic chapters: starting, selling, capital/runway, operations, media leverage, and networking.
+
+## Lecture 112 integration: Asking a multi-millionaire CEO on how to become a company owner.
+
+### New evidence
+
+- Adds a compact CEO interview answer linking sales experience directly to company ownership: the transferable skill is not a sales trick but communication under live rejection.
+- Strong reinforcement for the book’s selling chapter: “you can’t Google experience” frames sales ability as field exposure, not searchable information or classroom knowledge.
+- Adds a concrete pressure sequence: taught tricks, polished dress, and good phrases are incomplete until the salesperson has been told no, cussed out, screamed at, and still must deliver the message correctly.
+- Adds repetition evidence: “thousands and thousands of cold calls” and door knocking should be treated as qualitative volume, not a measured statistic.
+- Adds communication-range evidence: sales forces contact with different ethnicities, backgrounds, ages, and experiences, making adaptability part of the ownership skill set.
+- Clarifies a mechanism already suggested by lecture 179: practice and role-play prepare the salesperson, but live rejection is where the behavior becomes durable.
+
+### Conservative restructure plan
+
+- Strengthen the sales chapter by pairing lecture 179’s “practice like athletics” evidence with lecture 112’s “live rejection pressure” evidence.
+- Sequence the sales theme as: practice the pitch → enter live encounters → absorb rejection → maintain attitude → deliver clearly → adapt across different people.
+- Use lecture 112 in the ownership/judgment thread as evidence that company ownership depends on emotional steadiness and message clarity, not only strategy or capital.
+- Do not make lecture 112 a standalone permanent chapter unless the compiled book needs a very short bridge section between “selling” and “ownership.”
+
+### New tensions or contradictions
+
+- The lecture claims no textbook can teach the relevant experience, while lecture 179 supports deliberate sales practice and review. Preserve both: practice prepares the behavior, but field exposure tests and hardens it.
+- The speaker connects sales experience to company ownership but gives no specific company details, revenue, age, industry, or ownership path. Avoid inventing biographical context.
+- The phrase “thousands and thousands” is rhetorically concrete but not audited data. Keep it as evidence of high repetition, not a numeric claim.
+
+### Frame or diagram opportunities
+
+- No validated screenshot assets exist for this lecture.
+- Useful transcript-derived diagram for the compiled book: live sales attempt → rejection or resistance → maintain attitude → deliver message clearly → repeat through cold calls and doors → communicate better across difference.
+- Any diagram should be narrow and vertical for 6x9 export, with no screenshot pairing.
+
+### Next rewrite implications
+
+- In the dynamic book, treat sales as an apprenticeship in pressure, not just a revenue function.
+- Keep anecdote/claim/mechanism separation:
+  - Anecdote: repeated no’s, hostile reactions, cold calls, and door knocking.
+  - Claim: sales experience helped translate into company ownership.
+  - Mechanism: repeated rejection trains steady attitude, clear message delivery, and flexible communication across different people.
+- Use lecture 112 to sharpen the book’s anti-shortcut motif: information can be searched, but entrepreneurial judgment is built through repeated contact with the market.
