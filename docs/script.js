@@ -360,6 +360,18 @@ const pdfEntries = {
     publication:
       "https://github.com/lachlanchen/LazyEarn/blob/main/mit-nuts-and-bolts-of-new-ventures-publication/README.md",
   },
+  "10-questions-with-a-millionaire": {
+    aliases: ["ten-questions-with-a-millionaire", "10-questions", "millionaire-questions"],
+    title: "10 Questions With a Millionaire",
+    description:
+      "A published School of Hard Knocks interview field book with twenty-two millionaire conversations, a new Video2Book NanoBanana cover, full PDF, and 1.2x pocket edition.",
+    pdf: "publications/10-questions-with-a-millionaire/10-questions-with-a-millionaire.pdf",
+    download: "publications/10-questions-with-a-millionaire/10-questions-with-a-millionaire.pdf",
+    markdown:
+      "https://github.com/lachlanchen/LazyEarn/blob/main/10-questions-with-a-millionaire-publication/README.md",
+    publication:
+      "https://github.com/lachlanchen/LazyEarn/blob/main/10-questions-with-a-millionaire-publication/README.md",
+  },
   "financial-freedom": {
     aliases: ["financial_freedom"],
     titleKey: "research.asset2Title",

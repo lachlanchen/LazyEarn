@@ -1,0 +1,38 @@
+\hypersetup{pageanchor=false}
+\begin{titlepage}
+\thispagestyle{empty}
+\begin{tikzpicture}[remember picture,overlay]
+  \fill[black!92!blue] (current page.south west) rectangle (current page.north east);
+  \node[anchor=center,inner sep=0] at (current page.center) {%
+    \includegraphics[height=\paperheight,width=\paperwidth,keepaspectratio]{assets/cover-art.png}%
+  };
+  \node[
+    anchor=north west,
+    align=left,
+    text width=0.78\paperwidth,
+    inner xsep=0pt,
+    inner ysep=0pt
+  ] at ([xshift=0.09\paperwidth,yshift=-0.07\paperheight]current page.north west) {%
+    {\fontsize{34}{36}\selectfont\bfseries\color{black!85}10 Questions\\[-0.05em]with a Millionaire}\\[0.95em]
+    {\Large\color{black!62}A School of Hard Knocks interview field book}\\[0.35em]
+    {\large\color{black!58}wealth, risk, ownership, cash flow, and business judgment}%
+  };
+  \node[
+    anchor=south,
+    align=center,
+    text width=0.82\paperwidth,
+    fill=white,
+    fill opacity=0.86,
+    text opacity=1,
+    rounded corners=5pt,
+    inner xsep=10pt,
+    inner ysep=8pt
+  ] at ([yshift=0.055\paperheight]current page.south) {%
+    {\large\bfseries\color{black!78}LazyingArt LLC}\\[0.2em]
+    {\small\color{black!60}Original interviews by School of Hard Knocks. Organized with Video2Book.}%
+  };
+\end{tikzpicture}
+\mbox{}
+\end{titlepage}
+\clearpage
+\hypersetup{pageanchor=true}
