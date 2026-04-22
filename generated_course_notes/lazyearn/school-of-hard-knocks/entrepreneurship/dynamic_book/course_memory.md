@@ -210,3 +210,46 @@
   - Mechanism: access, discernment, and prior knowledge.
   - Caution: no numerical returns, legal/tax guidance, or technology evaluation criteria are provided in the excerpt.
 - The best dynamic-book placement is likely near the beginning of the “starting” or “judgment” arc, after survival/runway basics and before specialized chapters on sales, hiring, operations, or media leverage.
+
+## Lecture 123 integration: Asking a CEO how can entrepreneurs get funding for their ideas？
+
+### New evidence
+
+- Adds the clearest funding-specific evidence so far: ideas are “really difficult” to fund, and the speaker says it helps to have something demonstrable rather than just an idea.
+- Adds a practical pre-capital mechanism: a sample, prototype, mockup, or other demonstrable artifact reduces investor uncertainty because the founder gives people something real to inspect.
+- Adds the “dog food wars” anecdote as a product-validation caution: companies allegedly created many dog foods, spent money, and put them on television, but the dogs did not like the food.
+- Strengthens the book’s market-truth theme: advertising flash and spending do not substitute for user acceptance.
+- The phrase transcribed as “especially an attack” is likely garbled. Preserve only the certain claim: even a sample or demonstrable thing can go a long way.
+
+### Conservative restructure plan
+
+- Add Lecture 123 into the capital/funding chapter as the compact rule “evidence before capital.”
+- Place this material after arena selection and survival/runway basics, but before larger-scale funding, investing, or ownership leverage.
+- Cross-link this lecture with Lecture 179’s sales and onboarding material: both argue that the market must respond after the pitch, not merely admire the presentation.
+- Cross-link with Lecture 104’s marketing and premium-product examples: marketing can amplify a product, but product quality, margin discipline, and customer acceptance still decide whether the business case holds.
+- Use the opening as a `Question & Answer` beat: “Can an idea get funded?” Answer: ideas are hard to fund; a demonstrable sample materially improves the case.
+
+### New tensions or contradictions
+
+- Lecture 104 includes claims that marketing can help move companies from seven to eight or nine figures; Lecture 123 adds the counterweight that advertising cannot rescue a product the user rejects.
+- Lecture 179’s social-media referral story shows attention can create business, but Lecture 123 warns that attention is not the same as product acceptance. Future synthesis should distinguish attention generation from validation.
+- The “dog food wars” story is anecdotal and uncertainly named by the speaker. Do not treat it as verified business history without outside sourcing.
+- The lecture gives no specific funding route, investor type, valuation method, or capital amount. Avoid expanding it into a fundraising playbook.
+
+### Frame or diagram opportunities
+
+- No validated screenshot assets exist for this lecture.
+- Useful transcript-derived visuals:
+  - Narrow evidence ladder: idea only → sample/prototype → investor can evaluate → stronger funding case.
+  - Narrow dog-food caution chain: advertising spend → television visibility → user trial → dogs reject product → promotion cannot replace acceptance.
+  - Compact two-column table: weak evidence versus stronger evidence, with “idea,” “presentation,” and “advertising” on one side and “sample,” “demonstration,” and “user acceptance” on the other.
+- Label diagrams as transcript-derived; no screenshot pairing is needed.
+
+### Next rewrite implications
+
+- Use Lecture 123 to give the book’s capital section a practical starting point: before asking for money, reduce uncertainty.
+- Preserve anecdote/claim/mechanism separation:
+  - Anecdote: dog-food advertising and television exposure failed because the dogs did not like the product.
+  - Claim: ideas are difficult to fund; demonstrable artifacts help.
+  - Mechanism: investors and markets respond to observable evidence more strongly than to abstract claims or polished presentation.
+- In the dynamic book arc, this lecture should feed the themes of capital, validation, selling, marketing caution, and judgment rather than becoming a standalone permanent chapter.
