@@ -2,109 +2,153 @@
 
 ## Core Equations
 
-- [visible] No visible board equations or handwritten notation were validated for this lecture.
+- [visible] No visible equations were preserved from frames.
 
-- [transcript-backed] \( \text{micro-business test} \approx \text{idle customer asset} + \text{visible improvement} + \text{clear price} \)  
-  Use for the car-detailing story: dinner-time idle cars, cleaned wheels/Armor All, and a \( \$20 \) offer.
+- [transcript-backed] First-offer revenue floor, only as stated:
+  \(P_{\text{detail}} = \$20\)
 
-- [transcript-backed] \( \text{sales fit} \approx \text{questions} + \text{listening} + \text{tailored message} + \text{respect for expertise} \)  
-  Schematic only; do not present as a literal formula.
+- [transcript-backed] Sales communication loop:
+  \[
+  \text{Ask} \rightarrow \text{Listen} \rightarrow \text{Tailor} \rightarrow \text{Meet Need}
+  \]
 
-- [transcript-backed] \( \text{early business cash} \longleftrightarrow \text{personal spending temptation} \)  
-  Use for the warning about business wins turning into suits, restaurants, and \( \$200 \) wine.
+- [transcript-backed] Avoid irrelevant explanation:
+  \[
+  \text{Message Fit} = \text{Relevant to Need} - \text{Known or Unwanted Content}
+  \]
+  Use only as a conceptual notation, not a literal measurable formula.
 
-- [transcript-backed] \( \text{wisdom} \approx \text{listening to people with knowledge} \), while \( \text{knowledge} \approx \text{firsthand experience} \).  
-  Keep this as Mark’s distinction.
+- [transcript-backed] Entrepreneurial spending risk:
+  \[
+  \text{Business Win} \rightarrow \text{Personal Spending Temptation}
+  \]
+  Concrete transcript examples: “a few thousand dollars” of business, a suit at Saks Fifth Avenue, and a \(\$200\) bottle of wine.
 
-- [transcript-backed] \( \text{trauma} \in \{\text{toxic},\text{physical},\text{emotional}\} \)  
-  Direct taxonomy from the interview.
+- [transcript-backed] Trauma categories:
+  \[
+  \text{Trauma} \in \{\text{toxic},\ \text{physical},\ \text{emotional}\}
+  \]
 
-- [transcript-backed] \( \text{brain response} \approx \text{chemical system} + \text{electrical system} \)  
-  Mark’s company-worldview claim; state cautiously.
+- [transcript-backed] Claimed brain-system split:
+  \[
+  \text{Brain State} \approx (\text{Electrical System},\ \text{Chemical System})
+  \]
 
-- [standard reconstruction] \( \text{small kept promise} \rightarrow \text{felt success} \rightarrow \text{self-trust} \rightarrow \text{next small step} \)  
-  Useful for a narrow habit-structure diagram.
+- [transcript-backed] Claimed trauma manifestation channels:
+  \[
+  \text{Trauma Response} \rightarrow
+  \begin{cases}
+  \text{chemical imbalance}\\
+  \text{EEG/frequency pattern}
+  \end{cases}
+  \]
+
+- [standard reconstruction] Small-step self-improvement loop:
+  \[
+  \text{Choose One Action} \rightarrow \text{Complete It} \rightarrow \text{Reflect} \rightarrow \text{Repeat}
+  \]
 
 ## Definitions And Objects
 
-- Public-company context: Mark White is presented as a public CEO associated with Nexalyn Technologies.
+- **First business:** car detailing while hotel guests were at dinner; late 1970s Houston oil-boom setting.
 
-- First business: car detailing built from valet-parking access, restaurant waiting time, visible tire/wheel improvement, and a simple \( \$20 \) pitch.
+- **Offer:** a \(\$20\) wash/detail proposition made when the customer’s car was already idle.
 
-- Sales object: not “closing,” but communication with the buyer through questions, listening, and tailored relevance.
+- **Visible value:** cleaned wheels and Armor All on tires, described as making the car look brand new.
 
-- Humility: awareness of what one does not know; especially important when presenting to experts.
+- **Sales method:** not closing technique; communication through questions, listening, confidence, product belief, and message tailoring.
 
-- Money discipline: careful separation of business momentum from personal spending impulses.
+- **Room expertise:** presence of medical professionals changes the presentation stance; White claims humility is required before offering a healthcare vision.
 
-- Trauma categories: toxic trauma, physical trauma, emotional trauma.
+- **Money discipline:** business income and personal spending become intertwined in entrepreneurial life.
 
-- Brain systems: Mark describes chemical and electrical systems, with examples including dopamine, serotonin, acetylcholine, EEG, and frequencies.
+- **Humility:** awareness of what one does not know; a repeated operating trait in sales, finance, expertise, and failure recovery.
 
-- Failure mechanism: facing creditors and consequences after business failure as a practical education.
+- **Trauma taxonomy:** toxic, physical, emotional. These are White’s stated categories, not a clinical taxonomy for independent medical instruction.
 
-- Structure: small scheduled actions used to rebuild trust in one’s own follow-through.
+- **Brain systems:** electrical and chemical systems, as White describes them.
+
+- **Failure recovery object:** bankruptcy/creditor-facing episode, with assets returned and sold; treated as an entrepreneurial learning mechanism.
+
+- **Structure:** daily routine and small controllable commitments, not a total overhaul.
 
 ## Derivation Steps
 
-1. First business mechanism  
-   1. Customers leave cars idle during dinner.  
-   2. Valet/doorman access makes the service reachable.  
-   3. Wheel and tire cleaning creates visible value.  
-   4. A \( \$20 \) offer lowers the decision barrier.  
-   5. A repeatable service emerges.
+1. **Car-detailing opportunity**
+   1. Observe guests leave cars idle during dinner.
+   2. Notice a new product/visual effect: Armor All makes tires look new.
+   3. Make a simple offer: \(\$20\) for a detail while they eat.
+   4. Deliver visible transformation.
+   5. Convert a service window into the first business.
 
-2. Sales mechanism  
-   1. Enter the room asking why the buyer might say no.  
-   2. Ask questions first.  
-   3. Listen to the response.  
-   4. Tailor the message to the buyer’s actual interest.  
-   5. Avoid telling experts what they already know.
+2. **Sales communication loop**
+   1. Enter the room asking why the prospect might say no.
+   2. Ask questions first.
+   3. Listen to the response.
+   4. Tailor the message to the listener’s needs.
+   5. Avoid saying what they do not want to know.
+   6. Avoid repeating what they already know better than the seller.
 
-3. Capital discipline mechanism  
-   1. Business revenue arrives unevenly.  
-   2. Personal and business finances blur for entrepreneurs.  
-   3. A strong week can trigger status spending.  
-   4. Spending discipline protects the business from emotional overconfidence.
+3. **Humility with experts**
+   1. Identify expertise in the room.
+   2. Avoid pretending to know the field better than specialists.
+   3. Offer a vision rather than a superior claim.
+   4. Preserve respect before persuasion.
 
-4. Trauma-to-business-thesis mechanism  
-   1. Trauma is framed as abnormal life experience.  
-   2. Trauma is categorized as toxic, physical, or emotional.  
-   3. Mark claims trauma can affect chemical and/or electrical brain systems.  
-   4. Medication is described as partly trial-and-error.  
-   5. Non-invasive technology, nutrition, talk therapy, and life foundations are proposed as preferred starting points.
+4. **Money discipline**
+   1. Entrepreneur has a strong week.
+   2. Personal confidence/spending rises.
+   3. Personal purchases consume business momentum.
+   4. Lesson: keep funding and spending disciplined.
 
-5. Failure-to-humility mechanism  
-   1. Business failure creates debts and damaged trust.  
-   2. Bankruptcy counsel offers avoidance or direct accountability.  
-   3. Facing creditors becomes the hard lesson.  
-   4. Giving back what can be given restores a form of responsibility.  
-   5. Humility becomes the stated accomplishment.
+5. **Trauma claim sequence**
+   1. Define trauma broadly as abnormal day-to-day experience.
+   2. Classify it as toxic, physical, or emotional.
+   3. Claim the brain has electrical and chemical systems.
+   4. Say trauma can overwhelm protective response.
+   5. Connect lingering stress after trauma to PTSD.
+   6. Claim manifestation may appear chemically or in EEG/frequency patterns.
 
-6. Structure mechanism  
-   1. Choose one small schedule.  
-   2. Complete it for one day.  
-   3. Notice the kept promise.  
-   4. Use that success to build the next step.
+6. **Failure recovery sequence**
+   1. Lose money and business assets.
+   2. Face creditors rather than outsource the process.
+   3. Give back what remains.
+   4. Endure the humiliation directly.
+   5. Convert the experience into humility, respect, and renewed judgment.
+
+7. **Small-step structure**
+   1. Pick one controllable daily action.
+   2. Complete it.
+   3. Sit quietly and register completion.
+   4. Avoid all-at-once resolution overload.
+   5. Add another small step only after proof of follow-through.
 
 ## Notation Choices
 
-- Avoid Susskind-style physics notation; there are no operators, commutators, state vectors, fields, or board equations here.
+- Use \(P_{\text{detail}}\) only for the stated \(\$20\) price; do not introduce costs, margins, demand curves, or profit.
 
-- Use plain-text schematic equations sparingly and label them as transcript-backed mechanisms, not mathematical laws.
+- Use arrows \(\rightarrow\) for process logic, not causality proven by data.
 
-- Use \( \$20 \) and \( \$200 \) only where the transcript gives those concrete values.
+- Use “claimed” or “White’s claim” around health/brain formulas and diagrams.
 
-- For trauma diagrams, use prose node labels: “toxic,” “physical,” “emotional,” “chemical system,” “electrical system.”
+- Use set notation only for compact taxonomy:
+  \(\text{Trauma} \in \{\text{toxic}, \text{physical}, \text{emotional}\}\).
 
-- For habit diagrams, prefer arrows over equations: \( A \rightarrow B \rightarrow C \).
+- Use two-column or tuple notation for the brain-system split:
+  \((\text{Electrical System}, \text{Chemical System})\).
+
+- Avoid symbols like \(R\), \(C\), \(\pi\), ROI, conversion rate, or LTV unless the final chapter explicitly labels them as absent from the transcript.
 
 ## Uncertain Mathematics
 
-- There is no literal mathematics in the validated visual evidence.
+- No blackboard mathematics exists for this lecture.
 
-- Brain-system language should not be upgraded into medical or neuroscientific formalism beyond the transcript.
+- The \(\$20\) offer is the only clear numerical business detail in the first-business story; do not infer cost structure or profitability.
 
-- “Dopamine, serotonin, acetylcholine” are named in the transcript as brain chemicals/hormones, but the final notes should avoid technical corrections or expansions unless separately sourced.
+- “A few thousand dollars” and “\(\$200\) bottle of wine” are anecdotal finance examples, not quantitative budgeting rules.
 
-- The garbled transcript spans should not support precise claims, formulas, or diagrams.
+- The brain-system and trauma material is interview testimony, not a medically validated model within the notes.
+
+- “Nexalyn” and “unique mind care” may reflect transcript spelling uncertainty; verify before treating as official names.
+
+- Garbled transcript spans should not support equations, diagrams, or named mechanisms.
