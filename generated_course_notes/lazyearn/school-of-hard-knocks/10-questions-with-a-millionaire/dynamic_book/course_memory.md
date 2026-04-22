@@ -1423,3 +1423,100 @@
 - Add a Q&A block in the scaling chapter: “Why do good employees suddenly fail during growth?” Use Boyd’s altitude metaphor and the `4--10` to `20--30` responsibility jump.
 
 - Use Boyd’s story to keep the dynamic book from over-indexing on sales, real estate, or finance. This lecture adds a technology/product-pivot path where the main asset is an analytic engine, the main opportunity is a new data environment, and the main wealth outcome comes from retaining ownership through a rapid market shift.
+
+## Lecture 17 integration: 10 Questions with a Millionaire: Founder & E-commerce Entrepreneur Robert Miller
+
+### New evidence
+
+- **Named witness for crypto windfall becoming operating education:** Robert Miller adds a case where early crypto gains supplied capital and confidence, but the transcript’s first key distinction is that capital gains were “not cashflow.” This should sharpen the book’s recurring distinction between asset appreciation, income, and repeatable business machinery.
+
+- **Concrete early crypto numbers:** Preserve the approximate claims as Robert’s recollection: crypto entry around `2015--2016`, Bitcoin around `\$800--\$1,000`, Ethereum around `\$17`, AntShares converting into Neo, and about `\$1,500--\$2,000` becoming roughly `\$250,000` in about four months. Useful cautious arithmetic:
+  \[
+  \frac{250{,}000}{2{,}000}\approx 125,\qquad \frac{250{,}000}{1{,}500}\approx 167.
+  \]
+
+- **Personal brand as the asset that survives failed vehicles:** Robert gives the cleanest processed case so far where two agencies close but a reputation asset keeps compounding. He claims a third business scaled to multiple seven figures within about six months because the personal brand was already built, and a newer business reached a “seven figure runway” within roughly `60` days. Keep “runway” cautious; likely means run rate, but do not silently correct close paraphrase.
+
+- **Scaling stack in transcript order:** Robert’s business-scaling sequence is marketing/content/traffic first, sales second, finance third. This reinforces prior sales and distribution chapters, but adds a compact operator formula:
+  \[
+  R \approx L\cdot c\cdot P
+  \]
+  as a standard reconstruction, where attention/leads, close rate, and average value feed revenue, while finance determines whether revenue becomes useful cashflow.
+
+- **Books as operating framework evidence:** Robert names *The Road Less Stupid* for strategic thinking, *Multipliers* for team leverage and aligned interests, and *Predictable Revenue* for sales-team structure. This belongs in the advice and operating-discipline chapters as a framework stack: thinking, people, revenue.
+
+- **Partner count and captive-risk rule:** Robert adds a sharper partner-selection rule than generic “choose good partners”: `2--3` partners max in his experience, not `4--5`; partners must bring something crucial such as capital, execution, people, connections, or network, but must not hold the business captive. Values alignment and direct accountability are the stress-test conditions.
+
+- **Failure lesson from too many partners:** The second-agency shutdown is tied to too many partners and wrong fit. Robert also says name and offer do not matter unless executed. This supports the failure chapter with a rule: ego around the idea can hide execution failure.
+
+- **Flash-loan stress test:** Robert’s worst financial decision was a flash loan for payroll during payment-processor holds or an “implosion” in payment processing. He says it was paid off in about a month, but the real lesson was that no one else vouched for it or pitched in. The story should be used as partnership-risk evidence, not merely “debt is bad.”
+
+- **Self-education as time compression:** After crypto gains, Robert says he invested roughly `\$30,000--\$40,000` into courses, then later mentorships and masterminds, to learn stocks, e-commerce, marketing, and broader skill sets. His mechanism is paying to “condense time,” with the illustrative claim that a final mastermind might catalyze a move from `\$1M` to `\$7M` in revenue after earlier learning laid the groundwork.
+
+- **Crypto value claim:** Robert frames crypto as a question about money, CBDCs, storage of wealth, scarcity, mining, electricity, verification, and gold as an analogy. Use carefully as his valuation intuition:
+  \[
+  \text{scarcity}+\text{costly verification/extraction}\rightarrow \text{possible store-of-value claim}.
+  \]
+  Do not present this as settled monetary theory.
+
+- **Relationships, health, and purpose:** Robert adds concrete “wealth for what” evidence: the three-numbers-to-call test for core relationships; relationships requiring time, money, and helping others; burnout from `16`-hour days, `4 a.m.` to midnight schedules, and a `24--48` hour no-sleep stretch; a mother making roughly `\$30,000--\$40,000/year`; food insecurity; later helping his mother with a couple thousand dollars; and the why evolving from basic needs to potential, impact, identity, and family support.
+
+### Conservative restructure plan
+
+- Add Robert to **Question 1** as a crypto-to-business bridge: asset appreciation created a first break, but the real money-making mechanism became digital marketing, e-commerce, sales, and cashflow.
+
+- Add the capital-gains-versus-cashflow distinction to **Question 7** as a recurring stock/flow clarification beside Cardone’s million-dollar drawdown and Zane’s income-versus-deployed-assets distinction.
+
+- Add personal brand surviving agency closures to **Question 4** and **Question 7**: reputation is both distribution and durable asset, but only as Robert’s claimed mechanism.
+
+- Add the marketing-sales-finance stack to **Question 6** as a compact operating discipline, with finance preserved as Robert’s “unconventional” third item.
+
+- Add the partner filter to **Question 3**, **Question 9**, and **Question 10**: ownership/control depends not only on equity split, but on whether partners are crucial, aligned, accountable, and non-capturing.
+
+- Add the flash-loan payroll story to **Question 5** and **Question 9** as risk financing under stress and as a partnership-revelation event.
+
+- Add the crypto energy-cost discussion to **Question 8** only as monetary/financial worldview evidence, not as tax/legal engineering. It may also lightly support a “where should wealth be stored?” subsection.
+
+- Add `\$30K--\$40K` in courses and mentorships to **Question 6** and **Question 11** as the course’s clearest “education as time compression” case.
+
+- Add relationships, health, family provision, and evolving why to **Question 12**, with a cross-reference to **Question 10** for the three-numbers relationship test.
+
+### New tensions or contradictions
+
+- **Capital gains versus business cashflow:** Robert’s first big break comes from crypto appreciation, but his own interpretation says that was not yet a business. This is a useful correction against treating windfalls as durable wealth.
+
+- **College unnecessary versus education essential:** Robert says college is not necessary for entrepreneurship, while also saying his best financial decision was investing heavily into courses and mentorship. The distinction is credentialed schooling versus targeted skill acquisition.
+
+- **Personal brand versus changing offers:** Robert says offers, mechanisms, and businesses change, but the personal brand persists. This should sit beside the caution that reputation must be tied to actual execution, not just visibility.
+
+- **Partner leverage versus partner captivity:** Robert insists he could not do everything alone, yet warns that too many partners and poorly structured partners can trap the company. The book should frame partners as leverage only when function, values, and accountability align.
+
+- **Debt as bad decision versus diagnostic event:** The flash loan did not primarily fail because it could not be repaid; it revealed partner commitment. This complicates any simple debt doctrine.
+
+- **Crypto scarcity claim versus source discipline:** Robert’s energy-cost and gold analogy is vivid but should remain an interview claim. Do not upgrade it into a proof of value or a general crypto investment thesis.
+
+- **Hunger-driven why versus evolved why:** Robert begins with literal scarcity and family provision, then says the why changes once basic needs are met. This reinforces the course-wide movement from survival to potential, impact, and stewardship.
+
+### Frame or diagram opportunities
+
+- No lecture 17 screenshots should be retained. The figure and visual notes report no validated mathematical screenshots, board equations, or diagram frames.
+
+- Best transcript-derived pocket-safe visuals:
+  - Capital gains versus cashflow contrast: crypto gain -> capital -> education/skill -> business cashflow.
+  - Business scaling stack: content/traffic -> leads -> sales -> revenue -> finance/cashflow understanding.
+  - Durable personal brand chain: agency 1 closes -> agency 2 closes -> reputation persists -> later business faster traction.
+  - Partner filter: crucial contribution -> non-captive structure -> values alignment -> execution accountability.
+  - Crypto analogy diagram: mining/electricity/verification -> scarce crypto asset; mining/energy/extraction -> gold bar; caption as Robert’s analogy only.
+  - Self-education compounding chain: crypto gains -> `\$30K--\$40K` courses -> broader skills -> traction -> mentorship catalyst.
+
+### Next rewrite implications
+
+- Add a Q&A block in the dynamic book around: “Why was the crypto win not enough?” Robert’s answer should anchor the distinction between capital gains and repeatable cashflow.
+
+- Add a Q&A block around: “What survives when a company fails?” Use Robert’s personal-brand sequence, but pair it with execution and reputation cautions from Morgan, Klubeck, and Boyd.
+
+- The operating-discipline chapter should now include a short “marketing, sales, finance” stack as a plain business model, not an MBA abstraction.
+
+- The relationships chapter should include Robert’s “three numbers to call” test because it makes trust concrete and emotionally memorable.
+
+- The wealth-purpose chapter should use Robert as a strong closing witness for the shift from hunger/basic needs to helping family, protecting health, expanding identity, and pursuing impact.
