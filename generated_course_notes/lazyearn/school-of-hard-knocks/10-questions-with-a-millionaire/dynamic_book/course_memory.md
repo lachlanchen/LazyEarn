@@ -1659,3 +1659,78 @@
 - Consider opening the dynamic first-money chapter with the desk-check/mop-call contrast because it gives a vivid transition from hourly work to transaction income.
 - Preserve three local Q&A blocks in later prose: “Is college necessary?”, “How does an agent become a broker?”, and “What is wholesaling here?”
 - Keep all licensing, investment, and wholesale arithmetic source-conscious: transcript-backed claims, cautious reconstructions, no current legal or financial advice.
+
+## Lecture 20 integration: 10 Questions with a Millionaire： Founder & Investor Grant Mitt
+
+### New evidence
+
+- **Named witness for concentration before diversification:** Grant Mitt gives the clearest anti-premature-diversification case so far. He says he did not start diversifying until his solar company was doing over \(\$10\) million in revenue, and even then most of his focus stayed on solar. His claimed sequence is \(>\$10\text{M} \rightarrow \$30\text{M} \rightarrow \$90\text{M--}\$120\text{M}\), which should be treated as interview testimony rather than audited financial fact.
+
+- **Base-rate argument against casual entrepreneurship:** Mitt adds a rare counterweight to founder mythology: he claims \(86\%\) of U.S. companies break even or lose money, only about \(0.5\%\) ever pass \(\$10\) million in revenue, and employees average roughly \(\$3{,}000\) to \(\$4{,}000\) more than business operators, summarized as “58 to 55.” This belongs in the book’s “Should you start a business at all?” tension, not as verified macro data.
+
+- **Entrepreneur versus intrapreneur:** Mitt explicitly distinguishes owning the venture from building inside a strong company. He says some Mitt Group employees can become multimillionaires as intrapreneurs if the company gives them opportunity, authority, and upside. This adds a useful alternative path for the ownership/control chapter.
+
+- **Necessity threshold:** Mitt’s decision to start was not framed as generic optimism. He says people depended on him, he had time, resources, prepared capital, and willingness to lose every penny rather than spend two or three more years on the wrong path. This sharpens the recurring pattern: risk becomes acceptable when necessity, preparation, and loss tolerance converge.
+
+- **Attention as recruiting and credibility:** Mitt’s social media evidence is concrete: about \(145{,}000\) TikTok followers, \(25{,}000\) Instagram followers, and roughly \(30\%\) to \(40\%\) of a new-start group reportedly following him before finding the company. He also says public visibility helped produce Fox Business appearances and other credibility moments. This is not generic “build a brand” advice; it is attention as labor-market distribution, trust, and opportunity flow.
+
+- **Sales as portable skill capital:** Mitt reinforces the series-wide sales theme with a new scene: selling DirecTV in Walmart at 18 or 19 to people who were tired, irritated, or buying groceries. His phrase “you can’t Google experience” supports the book’s skill-compounding chapter: repeated rejection, cold calls, and varied customer contact make risk more rational because the operator trusts a repeatable skill.
+
+- **Scaling is people doing fundamentals:** Mitt Group was closing solar deals in 17 states. Mitt defines scaling as “doing the little things right at scale” and says CRM, technology, or one smart hire may improve performance by \(10\%\) to \(20\%\), but will not double, triple, or quadruple revenue by itself. The larger claim is that scale requires trained people operating without founder shadowing.
+
+- **Energy as an operating resource:** Burnout is framed as finite daily energy drained by communications, interactions, decisions, and emotional carryover. The practical mechanism is saying no, staying level-headed after bad appointments, and preventing one emotional loss from contaminating the next revenue event.
+
+- **Emerging-industry selection:** Mitt chose solar by asking what would be bigger in 20 years than today. He names tech, AI, robotics, renewable energy, and crypto as emerging fields he noticed around 2014–2016. The lesson is not “solar is always right,” but “enter a growing field early enough to learn before the crowd.”
+
+- **Hiring filter:** Mitt adds a blunt team rule: talent, school, and referrals are not enough. He looks for coachability, humility, persistence, and lack of an easy fallback. This fits the team/trust chapter as a founder’s operating filter rather than a universal hiring law.
+
+### Conservative restructure plan
+
+- Add Mitt to the chapter on **What was the first real money-making mechanism?** as a solar-sales/company-building case, with earlier DirecTV sales as the skill apprenticeship rather than the wealth engine.
+
+- Add a strong subsection to **Should you start a business at all?** using Mitt’s base-rate claims and the entrepreneur/intrapreneur distinction. Preserve the Q&A tension: if ownership has poor average outcomes, why start? His answer is necessity plus readiness.
+
+- Expand **What did the person actually own or control?** with the contrast between owning the venture and creating intrapreneur upside inside a company. Mitt’s evidence helps avoid making ownership sound like the only route to wealth.
+
+- Strengthen **How did customers, distribution, reputation, or attention arrive?** with Mitt’s social-media recruiting evidence. This should sit near other attention/reputation cases, but framed as hiring and credibility infrastructure.
+
+- In **Which skill or operating discipline compounded fastest?**, place Mitt beside the sales-heavy lectures as another witness that sales experience is acquired through rejection and repetition, not information alone.
+
+- In **How did income become enterprise value, equity, or durable wealth?**, use Mitt’s “big pile, then buckets” model as a clean concentration-before-allocation sequence.
+
+- In **Which relationships, networks, trust, or teams mattered?**, use Mitt’s scaling and hiring material: people, not CRM alone, carry fundamentals across states.
+
+- Add Mitt lightly to **What is wealth for after the number is reached?** through the Ferrari-at-75 line: his point is not luxury alone, but timing, family, and usefulness while life is still active.
+
+### New tensions or contradictions
+
+- **Bad base rates versus founder confidence:** Mitt gives discouraging business statistics, then explains why he still started. Keep this contradiction alive; it is the chapter’s most useful tension.
+
+- **Seven income streams versus one wealth engine:** Mitt rejects the common slogan by separating wealth creation from later allocation. The final book should not flatten this into “diversify” or “never diversify”; the order is the lesson.
+
+- **Helping people versus commercial payoff:** Mitt says he gives free information to help people, but the same public presence produces recruiting, credibility, and media access. Treat this as a productive dual-use mechanism, not hypocrisy.
+
+- **Tools versus scale:** Mitt allows CRM and technology to help, but assigns them limited impact compared with people executing fundamentals. This should temper any book section that over-credits software or systems without trained operators.
+
+- **Transcript uncertainty:** Normalize “Make Group,” “Maker,” and “MittGroup” cautiously as Mitt Group. Treat all numerical claims as interview claims unless independently verified elsewhere.
+
+### Frame or diagram opportunities
+
+- No validated screenshots or frame assets are available for lecture 20. Do not preserve talking-head frames as evidence.
+
+- Good pocket-safe reconstructed visuals:
+  - A narrow “one thing first” flowchart: solar focus \(\rightarrow\) large cash-producing base \(\rightarrow\) later allocation buckets.
+  - A compact entrepreneur versus intrapreneur table.
+  - A scaling diagram: fundamentals \(\rightarrow\) trained people \(\rightarrow\) delegation \(\rightarrow\) multi-state execution; CRM/technology as support, not engine.
+  - A small energy-budget diagram: daily energy drained by decisions, communications, low-value interactions, and emotional leakage.
+  - A hiring filter table: coachable, humble, persistent, no easy fallback.
+
+### Next rewrite implications
+
+- Use Mitt to sharpen the book’s anti-romantic entrepreneurship thread: business ownership can be lower-probability than employment unless the person has a real reason, preparation, and loss tolerance.
+
+- Preserve the spoken rhythm of obstacle then answer. This lecture supplies at least three natural Q&A blocks for the dynamic book: “Should I start a business?”, “Should I diversify?”, and “What actually scales a business?”
+
+- Do not make this a standalone Grant Mitt chapter in the final dynamic book. Distribute his evidence across base rates, concentration, attention, risk, sales, scaling, energy, industry selection, and hiring.
+
+- When using Mitt’s numbers, keep attribution visible: “Mitt claims,” “in the interview,” or “his stated figures.” The numbers are powerful as testimony and argument structure, but they should not be presented as independently verified statistics.
