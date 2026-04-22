@@ -1,0 +1,358 @@
+\documentclass[11pt,oneside]{book}
+\input{../common_preamble.tex}
+\graphicspath{{../figures/}{../assets/}}
+\begin{document}
+\frontmatter
+\title{Ten Questions That Build Wealth}
+\author{School of Hard Knocks}
+\date{A question-organized dynamic field book from the full 10 Questions with a Millionaire playlist \\ Lecture notes organized by \href{https://lazying.art}{LazyingArt LLC} with \href{https://github.com/lachlanchen/Video2Book}{Video2Book}}
+\maketitle
+\begin{center}
+\small Original interviews by School of Hard Knocks. Lecture notes organized by \href{https://lazying.art}{LazyingArt LLC}.
+\end{center}
+\clearpage
+\tableofcontents
+\mainmatter
+
+% --- Lecture 01 additions: Asking A Billionaire Lawyer How To Make $1,000,000! ---
+% restructure plan: initialize the nonlinear question spine with John Morgan as the first named witness, distributed by durable book question rather than preserved as a lecture chapter.
+% new evidence: contingency-fee law firm economics, Tim's injury as motive, partner/profit-sharing scale, Google-law-firm distribution, $400M advertising against $5B settlements/verdicts, 200 weekly dockets, no-debt Black Swan posture.
+
+\chapter{What Was the First Real Money-Making Mechanism?}
+
+\section{John Morgan: Owning the Outcome Instead of the Hour}
+
+The first witness in this book is John Morgan, introduced by School of Hard Knocks as a Forbes-listed billionaire who built his fortune through personal injury law. The unusual feature is not simply that a lawyer made money. The unusual feature is that a professional-service business, normally tied to hours and individual capacity, became a scale machine.
+
+Morgan's first economic distinction is between charging for time and getting paid for outcomes. In the transcript, the wording around billable time is imperfect, but the meaning is clear: he does not want the capped upside of charging by the hour. His model is contingency work: the client does not pay unless the firm wins.
+
+A cautious reconstruction is
+
+\begin{align}
+R_{\mathrm{hourly}} &= r h,\\
+R_{\mathrm{contingency}} &=
+\begin{cases}
+0, & \mathrm{if\ the\ case\ loses},\\
+\alpha S, & \mathrm{if\ the\ case\ wins},
+\end{cases}
+\end{align}
+
+where \(r\) is an hourly rate, \(h\) is billable time, \(S\) is settlement or verdict value, and \(\alpha\) is an unspecified contingency share. The transcript does not give \(\alpha\), so the share should remain unspecified.
+
+\subsection{Question \& Answer}
+
+\paragraph{Question.}
+Why would a lawyer reject the safer, more predictable hourly model?
+
+\paragraph{Answer.}
+Because predictability can cap the result. In Morgan's telling, hourly billing creates revenue that is roughly linear in hours. Contingency fees transfer risk onto the firm, but they also create outcome-linked upside. The first mechanism, then, is not merely ``practice law.'' It is to own a share of the result while building a firm capable of producing that result.
+
+\chapter{What Painful Bottleneck or Customer Problem Created the Opportunity?}
+
+\section{The Client Was Not an Abstraction}
+
+Morgan's origin story is not presented as a market analysis. He says his brother Tim was paralyzed at C6--C7 while Morgan was in college, and that the way Tim was treated changed his life. The client problem became personal before it became commercial.
+
+\paragraph{Anecdote.}
+Tim's injury gives Morgan a recurring image: when he sees an injured client, he says he sees Tim.
+
+\paragraph{Claim.}
+Morgan says he turned pain into passion and purpose.
+
+\paragraph{Mechanism.}
+The customer problem is injured people needing protection, leverage, and representation against insurers or larger defendants. The business opportunity is attached to a painful asymmetry: a hurt person faces institutions with money, process, and data.
+
+This should remain a concrete source story in later rewrites. It prevents the personal injury firm from becoming an abstract ``legal services'' example.
+
+\chapter{What Did the Person Actually Own or Control?}
+
+\section{Partners, Trust, and the Send-Delete Test}
+
+Morgan's answer to the scaling question is delegation. He says to get partners one can trust, share the business with them, and let them make money with the founder, not merely for the founder.
+
+The founder-only constraint can be written as
+
+\begin{equation}
+\mathrm{Output}_{\mathrm{solo}}
+\leq
+\mathrm{capacity}_{\mathrm{founder}}.
+\end{equation}
+
+The firm becomes a different object when reliable partners carry work:
+
+\begin{equation}
+\mathrm{Output}_{\mathrm{firm}}
+\approx
+\sum_{i=1}^{n} q_i c_i,
+\end{equation}
+
+where \(c_i\) is the operating capacity of partner \(i\), and \(q_i\) is a rough trust-and-quality factor. This is an interpretive notation, not Morgan's own. It captures the practical point: more people only create scale if they reduce, rather than multiply, the founder's supervision burden.
+
+Morgan's test is the ``send-delete'' person: someone who can receive a task and let the sender stop worrying about it.
+
+\begin{equation}
+\mathrm{Attention\ returned}
+=
+\mathrm{Task\ delegated}
+-
+\mathrm{Followup\ required}.
+\end{equation}
+
+This belongs in the ownership chapter because the owned asset is not only a law firm brand. It is a network of trusted operators with shared upside.
+
+\chapter{How Did Customers, Distribution, Reputation, or Attention Arrive?}
+
+\section{The Google Law Firm}
+
+Morgan says he asked what Google would do if it were a law firm. His answer was distribution: everywhere for everyone, all 50 states, 24/7, with phone intake in about two minutes.
+
+\begin{equation}
+\mathrm{Coverage}=50\ \mathrm{states},
+\qquad
+\mathrm{Availability}=24/7,
+\qquad
+\mathrm{Intake}\approx 2\ \mathrm{minutes}.
+\end{equation}
+
+These are transcript-backed customer-access claims. They should be treated as distribution architecture, not independent legal verification.
+
+\subsection{Question \& Answer}
+
+\paragraph{Question.}
+How does a national legal brand avoid being only a slogan?
+
+\paragraph{Answer.}
+Morgan gives the sequence. He says he went from Orlando to Tampa, from Orlando to Jacksonville, and from Orlando to Naples, then kept building brick by brick. The vision is national; the construction is local.
+
+\begin{figure}
+\centering
+\begin{tikzpicture}[x=1cm,y=1cm]
+\node[draw, text width=.70\linewidth, align=center, rounded corners] (vision) at (0,0) {Vision:\\ a ``Google law firm''\\ everywhere for everyone};
+\node[draw, text width=.70\linewidth, align=center, rounded corners] (base) at (0,-1.55) {Base:\\ Orlando};
+\node[draw, text width=.70\linewidth, align=center, rounded corners] (bricks) at (0,-3.10) {Next bricks:\\ Tampa, Jacksonville, Naples};
+\node[draw, text width=.70\linewidth, align=center, rounded corners] (system) at (0,-4.65) {System:\\ 50 states, 24/7, phone intake};
+
+\draw[->] (vision) -- (base);
+\draw[->] (base) -- (bricks);
+\draw[->] (bricks) -- (system);
+\end{tikzpicture}
+\caption{Morgan's national distribution model, reconstructed from the transcript as a narrow, pocket-safe build sequence.}
+\end{figure}
+
+The host's promotional interlude about School of Mentors and Millionaire Week should stay separate from Morgan's evidence. It may later support a broader theme about proximity and networks, but it is not Morgan's answer about building the law firm.
+
+\chapter{How Was Risk Financed, Survived, or Transferred?}
+
+\section{No Debt, Insurance, and the Black Swan}
+
+Morgan repeatedly says he has no debt. The statement appears beside a much more aggressive operating fact: he also says the firm spends about \$400 million a year on advertising. The distinction matters. Morgan rejects leverage, not bold spending itself.
+
+\begin{equation}
+D_{\mathrm{debt}}=0.
+\end{equation}
+
+When the firm itself makes mistakes, Morgan describes another risk-transfer mechanism: admit the error, tell the client, use insurance, and make the client whole even if the client must sue the firm. The risk rule is not denial. It is controlled liability.
+
+Morgan's Black Swan lesson is similarly practical. He names \emph{Black Swan}, but extracts one operational doctrine: be prepared.
+
+\begin{equation}
+\mathrm{Preparedness}
+=
+\mathrm{savings}
++
+\mathrm{no\ debt}
++
+\mathrm{readiness\ for\ discontinuity}.
+\end{equation}
+
+\subsection{Question \& Answer}
+
+\paragraph{Question.}
+How can someone be aggressive in business and still anti-leverage?
+
+\paragraph{Answer.}
+Morgan's distinction is between operating risk and balance-sheet fragility. Advertising risk can be chosen, measured, and stopped. Debt can remove choice when conditions change. His musical-chairs metaphor is the business version of the Black Swan rule: one day the music stops, and the question is whether one still has a chair.
+
+\chapter{Which Skill or Operating Discipline Compounded Fastest?}
+
+\section{Catching Fish and Cooking Fish}
+
+The strongest operating metaphor in Morgan's interview is that the business has two parts: catching fish and cooking fish. Catching fish means advertising, brand, and incoming cases. Cooking fish means lawyers, trial readiness, verdicts, and settlement leverage.
+
+Morgan says insurers know who wins, and he names Colossus as software used by insurance companies. Keep this as a transcript-backed institutional detail. The mechanism is that reputation changes the opponent's expectation.
+
+\begin{figure}
+\centering
+\begin{tikzpicture}[x=1cm,y=1cm]
+\node[draw, text width=.70\linewidth, align=center, rounded corners] (catch) at (0,0) {Catching fish\\ advertising, brand, incoming cases};
+\node[draw, text width=.70\linewidth, align=center, rounded corners] (cook) at (0,-1.55) {Cooking fish\\ lawyers, trials, verdict capacity};
+\node[draw, text width=.70\linewidth, align=center, rounded corners] (cred) at (0,-3.10) {Credibility\\ insurers know verdict history};
+\node[draw, text width=.70\linewidth, align=center, rounded corners] (outcome) at (0,-4.65) {Outcomes\\ settlements and verdicts};
+\node[draw, text width=.70\linewidth, align=center, rounded corners] (reinvest) at (0,-6.20) {Reinvestment\\ brand and legal capacity};
+
+\draw[->] (catch) -- (cook);
+\draw[->] (cook) -- (cred);
+\draw[->] (cred) -- (outcome);
+\draw[->] (outcome) -- (reinvest);
+\draw[->] (reinvest.east) .. controls (2.2,-4.6) and (2.2,-1.6) .. (catch.east);
+\end{tikzpicture}
+\caption{The Morgan operating loop: marketing creates cases, but legal capacity makes those cases valuable.}
+\end{figure}
+
+Morgan says the firm has about 200 trial dockets each week:
+
+\begin{equation}
+d_{\mathrm{trial\ dockets}}
+\approx
+200\ \mathrm{per\ week}.
+\end{equation}
+
+This number belongs with the discipline chapter because it is evidence of readiness. Advertising without trial capacity is, in Morgan's phrase, a paper tiger.
+
+\chapter{How Did Income Become Enterprise Value or Durable Wealth?}
+
+\section{The Arithmetic of Attention Backed by Capacity}
+
+Morgan states that the firm spends about \$400 million per year on advertising and did about \$5 billion in settlements and verdicts. The host observes that this is less than 10 percent. The simple arithmetic is
+
+\begin{align}
+A_{\mathrm{advertising}} &= \$400\mathrm{M},\\
+V_{\mathrm{settlements+verdicts}} &= \$5\mathrm{B},\\
+\frac{A_{\mathrm{advertising}}}{V_{\mathrm{settlements+verdicts}}}
+&=
+\frac{400\mathrm{M}}{5\mathrm{B}}
+=
+0.08
+=
+8\%
+<
+10\%.
+\end{align}
+
+This ratio should not be called profit, margin, or audited return on advertising. It is a transcript-backed comparison between stated advertising spend and stated settlements plus verdicts. Its value in the book is diagnostic: it shows how Morgan thinks about large spend when there is a credible operating machine behind it.
+
+\begin{table}
+\centering
+\begin{tabular}{|p{.43\linewidth}|p{.43\linewidth}|}
+\hline
+Transcript-backed quantity & Role in the mechanism\\
+\hline
+\(\$1.5\mathrm{B}\) Forbes-attributed net worth & Opening status claim\\
+\hline
+\(\$2\mathrm{B}\) annual fees & Firm scale claim\\
+\hline
+\(\$400\mathrm{M}\) advertising & Client acquisition engine\\
+\hline
+\(\$5\mathrm{B}\) settlements and verdicts & Outcome scale claim\\
+\hline
+\(8\%\) advertising-to-outcome ratio & Simple comparison, not audited ROI\\
+\hline
+\(200\) weekly dockets & Trial readiness claim\\
+\hline
+\(50\) states, \(24/7\) & Distribution model\\
+\hline
+\(4\%\) to \(4.5\%\) tax-free bond yield & Wealth-preservation claim\\
+\hline
+\end{tabular}
+\caption{Selected Morgan interview claims to preserve as source-grounded business arithmetic.}
+\end{table}
+
+\chapter{What Did Taxes, Leverage, Legal Structure, or Financial Engineering Change?}
+
+\section{The Conservative Side of an Aggressive Builder}
+
+Morgan's personal allocation is conservative compared with the firm's advertising aggression. He mentions \emph{A Random Walk Down Wall Street} and \emph{Black Swan}, then names index funds for equities, tax-free bonds yielding about 4 to 4.5 percent, U.S. Treasuries, and operating assets he understands: attractions, hotels, shopping centers, and apartments.
+
+\begin{equation}
+\mathcal{P}
+=
+\{
+\mathrm{index\ funds},
+\mathrm{tax\mbox{-}free\ bonds},
+\mathrm{Treasuries},
+\mathrm{owned\ operating\ assets}
+\}.
+\end{equation}
+
+The doctrine is not financial complexity. It is comprehensibility. Morgan says that if he does not understand something, he does not do it, using crypto as the example in this interview. The book should preserve that as a counterweight to later material if other witnesses praise leverage, speculation, or financial engineering.
+
+\chapter{What Failure, Loss, or Humiliation Taught the Rule?}
+
+\section{Greed as the Failure Mode}
+
+Morgan says it is hard to make money and harder to keep it. His stated failure mode is greed: doing something one already suspects is wrong because the upside looks too attractive. The rule he gives is blunt: if it is too good to be true, it is too good to be true.
+
+He also gives two operating responses to damage:
+
+\begin{enumerate}
+\item Pay destructive people to leave when keeping them inside the business would cost more.
+\item Admit professional mistakes, use insurance, and protect the client rather than hiding the error.
+\end{enumerate}
+
+This material belongs in the failure chapter because the lesson is not that mistakes disappear at scale. The lesson is that scale requires a procedure for absorbing mistakes without destroying reputation.
+
+\chapter{Which Relationships, Networks, Trust, or Teams Mattered?}
+
+\section{Trust as Infrastructure}
+
+Morgan's relationship evidence begins with partners and ends with giving. He says to share profit with great people, keep one's word, and build a brand that people can trust for the long haul. The repeated mechanism is trust.
+
+\begin{equation}
+\mathrm{Trust}_{t+1}
+=
+\mathrm{Trust}_{t}
++
+\mathrm{promises\ kept}_{t}
+-
+\mathrm{promises\ broken}_{t}.
+\end{equation}
+
+That equation is schematic, but it preserves the business idea: reputation is cumulative, and one broken promise can travel.
+
+Morgan's final network lesson comes through \emph{Give and Take}. He says most people are takers, but people who give without expecting anything in return often end up receiving the most.
+
+\begin{equation}
+\mathrm{Giving}
+\longrightarrow
+\mathrm{trust}
+\longrightarrow
+\mathrm{relationships}
+\longrightarrow
+\mathrm{opportunity}.
+\end{equation}
+
+\chapter{What Advice Would Survive for a Beginner or Younger Self?}
+
+\section{Listen, Plant the Tree, Keep the Word}
+
+Morgan's beginner advice comes in several forms, and the book should keep them distinct.
+
+\paragraph{Business-model advice.}
+Do not assume the standard professional path has enough upside. For Morgan, charging by the hour was too capped.
+
+\paragraph{Negotiation advice.}
+Whoever speaks first loses. In context, this means listen first, size up the person and the deal, and negotiate from a larger information set.
+
+\begin{equation}
+\mathrm{Move}_{t+1}
+=
+f(\mathrm{information\ heard}_{t},\ \mathrm{person}_{t},\ \mathrm{deal}_{t}).
+\end{equation}
+
+\paragraph{Timing advice.}
+Morgan uses the tree saying: the best time to plant a tree was 20 years ago; the next best time is today. In the book, this belongs with action under regret. The missed start is not a reason to keep waiting.
+
+\paragraph{Character advice.}
+Keep your word. The golden rule and reputation appear at the end of the interview, but they also explain the beginning: the firm could not scale without trusted people and repeat trust from clients.
+
+\chapter{What Is Wealth For After the Number Is Reached?}
+
+\section{Comfort, Karma, and Giving}
+
+Morgan resists making net worth too precise. He says Forbes called him a billionaire, but also tells a story about how people who claim to know exactly what they are worth may not be worth much. His own word is more modest: comfortable.
+
+That posture matters. In this first witness, wealth after the number is not presented as a higher-consumption game. It becomes a test of whether the rules still hold: no debt, prepare for shocks, avoid greed, keep one's word, follow the golden rule, and give without immediate extraction.
+
+The useful closing doctrine is therefore not a trick for getting rich. It is a rule for remaining trusted after one has enough power to take more than one gives.
+
+\end{document}
