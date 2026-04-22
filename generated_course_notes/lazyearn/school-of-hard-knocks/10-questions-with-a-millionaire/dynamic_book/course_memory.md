@@ -1616,3 +1616,46 @@
 - Add a Q&A block around: “How can not taking risk be risky?” Pair Alex with Boyd’s “why didn’t I try?” regret framing and with more conservative witnesses who treat risk as survivability first.
 
 - Do not make this a standalone biography chapter in the dynamic book. Distribute Alex across the spine: recovery and legal ambition, first deal, ownership/cash-out/rent, partnership, multi-lane skill, risk, and wealth as community.
+
+## Lecture 19 integration: 10 Questions with a Real Estate Millionaire: Tips for Building Wealth and Success
+
+### New evidence
+
+- Matt Teifke gives the book a second linked real-estate brokerage witness after Alex Kaufman, but from the partner-owner side: licensing, brokerage liability, split structure, contract control, and the operating division between visionary and implementer.
+- First money-making mechanism: the emotional hinge is a wage-to-commission jump. Matt sees a local broker receive a `$200,000` check, then later drops a Papa John’s mop to take the call that becomes a `$6,000` or `$7,000` first commission, compared with roughly `$600` checks from pizza work.
+- College is framed as optional but potentially powerful when converted into network and deal environment. Matt’s useful example is not the diploma itself, but ten business-minded students who could help one another for life.
+- The ownership path is cumulative: license at 17, mom-and-pop brokerage, commercial brokerage, financial real estate master’s work, appraisal license, third-party property management, `700` managed doors, sale of that company, then brokerage ownership with Alex.
+- Agent-to-broker structure adds a concrete institutional mechanism: as Matt describes it, every licensed agent needs a broker; the broker path moved from two years to four years, involves transactions, a point system he remembers as about `900` points, classes, credit hours, and a test; the payoff is responsibility, training, support, and being “on the hook.”
+- Brokerage economics: Matt’s firm uses a `90-10` split in favor of the agent, contrasted with his first brokerage’s `50-50` split.
+- Partnership evidence reinforces lecture 18 from Matt’s perspective: Alex was tested through behavior, including `10` assigned doors becoming `100` knocked, calls multiplied by `10`, and `4` or `5` jointly owned properties over `2` or `3` years before the roles settled into Alex as implementer/operations and Matt as visionary/relationships.
+- The wholesale deal is the lecture’s cleanest “control before ownership” example: `$2 million` contract, about `$20,000` earnest/option money, `9.5` Round Rock acres, outreach to builders/developers, `$2.7 million` offer, reported `$700,000` to `$780,000` wholesale fee, stated `3%` commission, three partners, and heavy taxes.
+- Risk evidence: Matt names cannabis stock as his worst decision, says he is down multiple millions, describes daily moves of `$60,000` to `$100,000`, and cites Acreage as doing `$67 million` last-quarter revenue against a `$40 million` valuation.
+- Wealth purpose/motivation: the close is not lifestyle consumption; it is clear goals, agent impact, and daily messages from agents saying the brokerage changed their lives.
+
+### Conservative restructure plan
+
+- Add Matt to the book spine under first money-making mechanisms, ownership/control, risk, skill compounding, relationships, taxes/legal structure, and wealth purpose.
+- Pair lecture 18 and lecture 19 as a two-sided real estate partnership case: Alex’s minimum-wage/addiction-to-owner arc plus Matt’s broker/license/contract-control arc.
+- Add a “control before ownership” thread to the ownership chapter: broker responsibility, contract position, earnest/option money, and transferable opportunity.
+- Use Matt’s college answer under the relationships/network chapter, not as a generic education debate.
+- Use the wholesale example under taxes and financial engineering only with clear caveats: gross spread, commission, partner split, and tax drag are different numbers.
+
+### New tensions or contradictions
+
+- College is “not necessary,” but Matt still treats it as valuable when converted into relationships and financial fluency.
+- A `90-10` agent-friendly split sounds generous, but the broker still bears training, complaints, lawsuits, failed deals, and leadership pressure.
+- Matt calls contract control a kind of ownership; final prose should phrase this cautiously as control of the contract/economic opportunity rather than broad legal ownership.
+- The headline wholesale fee is large, but the transcript immediately complicates it with three partners, commission ambiguity, and taxes.
+- Acreage is presented as both painful loss and continued conviction; keep this as a risk psychology case, not investment analysis.
+
+### Frame or diagram opportunities
+
+- No validated lecture-19 screenshots should be used.
+- Useful transcript-grounded diagrams: wage check to commission check, agent-to-broker ladder, partnership proof-of-work ladder, and vertical wholesale-control flow.
+- Useful compact tables: `90-10` vs `50-50` split; broker licensing as Matt describes it; wholesale arithmetic; cannabis-stock risk claims.
+
+### Next rewrite implications
+
+- Consider opening the dynamic first-money chapter with the desk-check/mop-call contrast because it gives a vivid transition from hourly work to transaction income.
+- Preserve three local Q&A blocks in later prose: “Is college necessary?”, “How does an agent become a broker?”, and “What is wholesaling here?”
+- Keep all licensing, investment, and wholesale arithmetic source-conscious: transcript-backed claims, cautious reconstructions, no current legal or financial advice.
