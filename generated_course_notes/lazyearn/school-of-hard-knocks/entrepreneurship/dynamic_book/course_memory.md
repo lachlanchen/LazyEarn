@@ -253,3 +253,48 @@
   - Claim: ideas are difficult to fund; demonstrable artifacts help.
   - Mechanism: investors and markets respond to observable evidence more strongly than to abstract claims or polished presentation.
 - In the dynamic book arc, this lecture should feed the themes of capital, validation, selling, marketing caution, and judgment rather than becoming a standalone permanent chapter.
+
+## Lecture 130 integration: How to qualify a good company to invest in？
+
+### New evidence
+
+- Adds the clearest investor-side qualification screen so far: a group with about `$50 million` to invest, described as venture and focused on very early rounds.
+- Adds concrete early-stage venture numbers: typical investments are roughly `$500,000` to `$2 million` or `$3 million`, into companies probably generating less than `$2 million` in revenue.
+- Adds a three-part investment filter: really interesting ideas, thoughtful management teams, and large target markets.
+- Strengthens Lecture 109’s team-selection theme from the investor side: the management team must be thoughtful, not merely talented or credentialed.
+- Strengthens Lecture 123’s funding theme by showing what the capital provider looks for after the founder has moved beyond a bare idea: stage fit, team judgment, market size, and enough operating reality to evaluate.
+- Adds post-investment mechanism evidence: the investor does not only provide money; they help companies get organized, hire good talent, and stay focused.
+- Adds a strong operating-scarcity claim: young CEOs face many simultaneous demands with too few people and may not know what matters most.
+
+### Conservative restructure plan
+
+- Add Lecture 130 to the capital/funding chapter as the investor-side counterpart to Lecture 123’s “evidence before capital.”
+- Sequence the capital arc as: idea is hard to fund → demonstrable evidence helps → investor evaluates idea, team, market, stage, and check size → post-investment support turns capital into focus and organization.
+- Cross-link this lecture with Lecture 109 in the team chapter: founder hiring judgment and investor management-team judgment are two sides of the same people-selection problem.
+- Cross-link with Lecture 179’s beginner operating basics: accounting, onboarding, sales, and focus all become more important when the CEO has too few people and too many demands.
+- Do not make Lecture 130 a standalone permanent chapter unless the dynamic book needs a short bridge chapter on venture qualification; its evidence should feed capital, judgment, team, and operations themes.
+
+### New tensions or contradictions
+
+- Lecture 123 says ideas are difficult to fund, while Lecture 130 says investors look for interesting ideas. Preserve the distinction: the idea matters, but only alongside team quality, market size, stage fit, and evidence of operating reality.
+- “Very early rounds” does not necessarily mean pre-revenue here; the speaker’s target companies may already generate less than about `$2 million` in revenue.
+- The check-size range is approximate and should not be turned into a fixed investment policy or valuation rule.
+- The lecture gives no equity terms, valuation method, expected return, fund structure, or due-diligence process. Avoid expanding it into a full venture-capital manual.
+
+### Frame or diagram opportunities
+
+- No validated screenshot assets exist for this lecture.
+- Useful transcript-derived visuals:
+  - Narrow vertical venture screen: `$50M` mandate → venture/early rounds → idea → thoughtful team → large market → `$0.5M-$3M` check → `<$2M` revenue → organize/hire/focus.
+  - Compact table: criterion, transcript evidence, book theme, and caution.
+  - Founder-scarcity loop: too many demands → too few people → unclear priorities → investor support through organization, talent, and focus.
+- Label diagrams as reconstructed from the transcript; no screenshot pairing is needed.
+
+### Next rewrite implications
+
+- Use Lecture 130 to make the book’s capital section two-sided: founders must create evidence, and investors must qualify stage, team, market, and support needs.
+- Preserve anecdote/claim/mechanism separation:
+  - Claim: the group invests in very early venture rounds with typical checks around `$500K-$2M/$3M`.
+  - Evidence: target companies are probably under `$2M` in revenue and screened for ideas, teams, and markets.
+  - Mechanism: after investment, organization, hiring, and focus help a young CEO handle scarce attention and limited staff.
+- Add a `Question & Answer` beat in the capital/judgment arc: “What makes a young company investable?” Answer: mandate fit, early-stage fit, idea quality, thoughtful management, large market, and a plausible path for investor support.
