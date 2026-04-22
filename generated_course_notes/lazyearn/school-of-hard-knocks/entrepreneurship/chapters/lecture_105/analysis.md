@@ -2,75 +2,69 @@
 
 ## Lecture Arc
 
-The lecture opens as an interview introduction: James frames Mark White as a public-company CEO, names Nexalyn Technologies, and gives the business premise of using frequencies and brain-related technology in mental health. It then moves backward into Mark’s first business, a late-1970s Houston car-detailing hustle built around seeing unused time, a simple visible improvement, and a $20 offer.
+The lecture opens by naming the interview context: James Newman revisits Mark White of Nexalyn Technologies, framing him as a public-company CEO who connects business experience with mental-health technology. It then pivots immediately from credential to origin story: White’s first business was not abstract strategy, but car detailing built from observing hotel guests, new Armor All demand, and a $20 offer during dinner.
 
-The first major pivot is from origin story to sales philosophy. Mark rejects “closing” as the core mechanism and replaces it with communication: ask questions, listen, tailor the message, and avoid pretending expertise in front of people who know more than you.
+From there the interviewer moves to sales, and White redirects the expected “closing technique” answer into communication: passion for the product, asking questions, listening, tailoring the message, and showing humility around domain experts. The next pivot is mentor advice, where the lesson becomes compression, financial restraint, and humility: talk less, spend carefully, and stay aware of what one does not know.
 
-The next pivot is mentor advice: speak with fewer words, manage money carefully, and keep humility as an operating principle. That humility theme becomes the bridge into knowledge versus wisdom, where firsthand experience and listening to experienced people become two circles he says he tries to play in.
+The interview then leaves narrow entrepreneurship and enters trauma, brain health, and treatment philosophy. White classifies trauma, distinguishes electrical and chemical systems in the brain, and argues that traumatic response can persist as PTSD beyond military contexts; this section should be handled as interview claim, not medical authority.
 
-The host then shifts into trauma and mental health through the Kanye West example. Mark gives a broad, source-conscious model of trauma as abnormal experience, separates toxic, physical, and emotional trauma, and explains his company’s worldview around electrical and chemical brain systems, PTSD, EEG frequencies, and the limits of trial-and-error medication.
-
-The final business pivot turns from the company’s treatment philosophy to Mark’s greatest accomplishment: not going public or making money, but facing creditors after failure, bankruptcy, and loss. The chapter should close with his self-improvement advice: structure, small wins, and the discipline of doing one promised thing before trying to overhaul a life.
+The final movement returns to entrepreneurship through failure and recovery. White answers “greatest accomplishment” not with going public, but with facing creditors after failure, bankruptcy, and loss, then closes with self-improvement as structure: small commitments, daily proof, and honest identification of one’s own weak point.
 
 ## Section Outline
 
-1. Public Company, Practical Lessons  
-Introduce the interview setting, Mark White/Nexalyn context, and the promise that the material is business evidence rather than a textbook lecture. Keep the School of Hard Knocks and LazyingArt LLC credit in front matter or chapter header, not body exposition.
+1. **The CEO Frame and the First Offer**  
+   Open with the School of Hard Knocks interview setting and Mark White’s public-company context, then move directly into the valet-parking car-detailing story. Treat the $20 dinner-time detail as the first concrete business mechanism: observe idle time, create visible value, make the offer simple.
 
-2. The First Business: Dinner-Time Car Detailing  
-Retell the valet-parking story in order: Houston oil-boom hotel, Armor All, dinner-time idle cars, a $20 offer, and morning pickups of Lincoln Mark Vs and Cadillac Eldorados. Use this as the chapter’s first mechanism: opportunity appears where a customer’s asset is idle and a visible before/after improvement can be sold simply.
+2. **Sales as Communication, Not Closing Theater**  
+   Present White’s contrast between sales schools and his own method: energy, confidence, belief in the product, questions, listening, and message tailoring. Add a standalone `Question & Answer` subsection here: “If selling is not mainly closing, what is the practical substitute?”
 
-3. Sales As Communication, Not Pressure  
-Preserve Mark’s contrast between sales schools, closing tactics, and his own approach: enthusiasm, product belief, asking why a buyer would say no, listening, and tailoring. Include a standalone `Question & Answer` subsection here: “If sales is psychology, why does Mark avoid the standard close-the-deal frame?”
+3. **Humility Around Expertise**  
+   Use the presentation-room example with medical professionals to show how White avoids pretending to know more than specialists. The local lesson is commercial humility: respect the room before trying to persuade the room.
 
-4. Mentor Advice: Fewer Words, Better Money Habits, More Humility  
-Move from sales communication into mentor advice: talk less, slow down, be careful with funding and spending, and do not let short-term business wins become personal consumption. Treat humility as an operating discipline: knowing what one does not know and sharing knowledge without overclaiming.
+4. **Mentor Advice: Fewer Words, Better Money Discipline**  
+   Preserve the mentor beat: “Talk too much,” slow down, say fewer words, and remember that entrepreneurs often blur personal and business spending. Include the concrete examples of a big week, Saks Fifth Avenue, and a $200 bottle of wine as cautionary business details.
 
-5. Trauma, Brain Systems, And The Company’s Claim  
-Follow the host’s Kanye-related question into Mark’s explanation of trauma as abnormal life experience, then toxic, physical, and emotional categories. Include a standalone `Question & Answer` subsection: “How does Mark connect trauma to a business thesis about brain technology?”
+5. **Trauma, Brain Systems, and Treatment Claims**  
+   Move into the Kanye West question as the interviewer’s conceptual pivot from entrepreneurship into brain health. Keep White’s taxonomy of toxic, physical, and emotional trauma, plus his claim that the brain has electrical and chemical systems, but explicitly label medical treatment statements as interview claims.
 
-6. Failure As The Greatest Accomplishment  
-Preserve the surprise that Mark names recovery from failure, not wealth or public-company status, as his greatest accomplishment. The key sequence is loss of money, bankruptcy counsel, facing creditors, apologetic accountability, giving back what could be given, and emerging with humility and family repair.
+6. **Failure as the Accomplishment**  
+   Return to business through the “greatest accomplishment” question. Build the section around White’s bankruptcy story, Nelson Hemsley’s advice, facing creditors, giving assets back, and emerging with humility and restored family life.
 
-7. Structure And Small Wins  
-Close with the self-improvement advice: set an alarm, make the bed, prepare for the day, keep simple times, and become successful at one promised thing. Tie this back to entrepreneurship as operational self-command rather than motivation.
+7. **Structure as Self-Improvement Infrastructure**  
+   Close with the “average modern man” prompt and White’s answer: structure, small steps, making the bed, water, walking, punctuality, and honest identification of one’s Achilles heel. Add a standalone `Question & Answer` subsection here: “Why start with one small task instead of a total life overhaul?”
 
 ## Mathematical Content To Include
 
-- [transcript-backed] Simple opportunity model: idle customer asset plus visible improvement plus low-friction offer produces a first sale. This can be written informally as: customer downtime + immediate visible value + clear price = testable micro-business.
+- [transcript-backed] A compact unit-economics note for the first business: the offer was a $20 car detail performed while customers were already occupied at dinner; avoid inventing costs, margins, or volumes not stated.
 
-- [transcript-backed] Sales mechanism: ask questions, listen, tailor, respect expertise, and avoid irrelevant information. This should be treated as a process model, not a formula.
+- [transcript-backed] A sales-process loop: ask questions, listen to responses, tailor the message, meet needs, and avoid telling the prospect what they do not want or already know.
 
-- [transcript-backed] Capital discipline model: business cash and personal spending merge in early entrepreneurship, so one good week can create bad personal habits if not constrained.
+- [transcript-backed] A simple personal/business finance risk relation: entrepreneurial income spikes can trigger personal spending, so business cash and personal lifestyle must be treated as coupled systems.
 
-- [transcript-backed] Knowledge/wisdom distinction: knowledge comes from firsthand experience; wisdom comes from listening to those with knowledge. Keep this as Mark’s formulation, not a universal theory.
+- [transcript-backed] Trauma classification as White states it: toxic trauma, physical trauma, and emotional trauma. Keep examples close to the transcript.
 
-- [transcript-backed] Trauma classification: toxic trauma, physical trauma, and emotional trauma. This is a taxonomy from the interview and should be presented as Mark’s explanatory frame.
+- [transcript-backed] Brain-health claim structure: “electrical system” plus “chemical system,” with PTSD described as stress after trauma and possible manifestation through chemical imbalance or EEG/frequency patterns.
 
-- [transcript-backed] Brain-system claim: the brain is described as having electrical and chemical systems; trauma can affect one or both, with EEG frequencies and neurotransmitter/hormone language used as examples. Keep this as an interview claim, not verified medical instruction.
+- [transcript-backed] Recovery mechanism from failure: face creditors, accept loss, return assets, rebuild humility, and convert failure into judgment.
 
-- [transcript-backed] Recovery mechanism: failure plus accountability plus facing creditors becomes a form of business education. The causal claim is anecdotal and should be labeled as Mark’s experience.
+- [standard reconstruction] Pocket-safe decision flow for self-improvement: choose one controllable action, complete it, reflect on completion, then add the next small step. This is a reconstruction of White’s routine advice, not a formal model.
 
-- [standard reconstruction] A narrow vertical flowchart can summarize “small structure → one kept promise → felt success → more self-trust → next small step.” This is a cautious abstraction from the transcript, not a visual from the lecture.
+- [frame-backed] None. No validated mathematical or diagram screenshots remain.
 
 ## Diagram And Figure Plan
 
-No screenshot assets should remain visible in the final notes. The available extracted frames were rejected as talking-head, title-card, or interview-context images without equations, diagrams, charts, or board layout.
+No screenshot asset filenames should remain visible in the final notes. The only previously considered frame, `lecture_105_figure_01.png`, was rejected and should not be used.
 
-Do not include `lecture_105_figure_01.png`; it was rejected and should not appear in the chapter.
+Use TikZ sparingly, based on transcript-backed content only. Recommended redrawn figures: a narrow vertical sales loop; a three-branch trauma taxonomy; a two-column “electrical / chemical” brain-systems schematic; and a vertical small-steps self-improvement flow. Since no original screenshots were accepted, do not present these as frame-backed reconstructions.
 
-Optional TikZ redraws may be used because they are transcript-derived, not frame-backed: a vertical “first business” flowchart, a compact sales-listening loop, a three-part trauma taxonomy, and a small-wins habit ladder. Keep each diagram narrow, vertical, wrapped, and within `\linewidth` for 6x9 pocket export.
-
-No screenshot needs to sit beside these TikZ diagrams because there is no validated visual evidence. Label them explicitly as transcript-derived schematics if included.
+Avoid wide tables. If a table is needed, use short wrapped rows: “Anecdote,” “Claim,” and “Mechanism” for each major business lesson.
 
 ## Caution Notes
 
-The transcript contains several garbled regions, especially around 00:05:00 to 00:05:28, 00:06:54, 00:14:39, and 00:16:08. Avoid building claims from those segments unless the surrounding context clearly supports them.
+The transcript is badly garbled around 00:05:05-00:05:28, 00:06:54, 00:14:39, 00:16:08, and 00:17:38; do not build claims from those fragments unless supported by surrounding coherent lines.
 
-There are no blackboard equations, mathematical diagrams, or validated screenshots. The “mathematical spine” here should be an analytical business spine: opportunity, communication, capital discipline, humility, trauma taxonomy, resilience, and structure.
+“Nexalyn” may be a transcript spelling issue relative to the company name; preserve transcript wording cautiously unless verified elsewhere in the production pipeline.
 
-Medical and mental-health claims must be handled as Mark’s claims and company framing, not as independent medical advice. Be careful with phrases about Prozac, Xanax, EEG, dopamine, serotonin, acetylcholine, PTSD, and “frequencies,” and avoid expanding beyond the transcript.
+Medical statements about psychiatric medication, trauma, PTSD, chemical imbalance, EEG, frequencies, Prozac, and Xanax must be framed as White’s interview claims, not as established medical advice.
 
-The host appears to say “James Newman” in the transcript, while earlier visual/title context may suggest a different name spelling. Use the transcript cautiously or avoid overemphasizing the host’s surname unless verified elsewhere.
-
-The chapter should not become a playlist-style transcript dump. It should preserve the interview order while letting each segment feed the broader Entrepreneurship book themes: starting, selling, capital, judgment, resilience, and disciplined self-management.
+The chapter is for Entrepreneurship, not physics or mathematics. The “mathematical spine” here is commercial logic, process structure, and causal reasoning, not blackboard derivation.
