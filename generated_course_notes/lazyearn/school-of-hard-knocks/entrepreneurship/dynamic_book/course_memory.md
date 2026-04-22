@@ -522,3 +522,47 @@
   - Claim: exercise matters, but founders tend to cut it first.
   - Mechanism: urgent work makes exercise feel fungible; a trusted co-founder creates coverage, division of labor, and reduced single-point failure.
 - In the dynamic book arc, this lecture should feed resilience, ownership, operations, team design, and judgment rather than becoming a standalone permanent chapter.
+
+## Lecture 122 integration: Asking a multi-millionaire how he keeps a healthy life-work balance
+
+### New evidence
+
+- Adds a direct life-work balance case to the founder-capacity thread: the speaker reframes a question about self-improvement routines into the harder constraint of keeping life and work in balance.
+- Extends Lectures 111 and 121 by adding the phrase `life-health-work balance`: with age, health becomes an explicit third domain rather than an implied background condition.
+- Adds a concrete pressure-stack anecdote: the speaker says he started very young, had children very young, and had a high-tech, super-successful company very young.
+- Adds household/family-risk evidence: the speaker says that through this process he ended up divorced early on, and attributes some of the breakdown to the stress of starting a company while having young children and a young marriage.
+- Clarifies a mechanism for the resilience chapter: entrepreneurial stress is not only workload inside the company; it is the compression of company formation, family responsibility, marriage, health, and limited reserve.
+
+### Conservative restructure plan
+
+- Place this lecture in the founder-capacity/resilience chapter beside Lectures 111 and 121:
+  - Lecture 111: daily energy and emotional control.
+  - Lecture 121: exercise and co-founder load-sharing.
+  - Lecture 122: life-work balance can break down when business, marriage, children, and health compete for the same capacity.
+- Add a short subsection on “household risk” or “life-system risk” in the risk/judgment arc. This lecture gives the clearest evidence so far that entrepreneurial cost can show up outside the balance sheet.
+- Use a `Question & Answer` beat: “Is self-improvement mainly a better routine?” Answer: not here; the speaker treats balance as the constraint that determines whether routines can survive.
+
+### New tensions or contradictions
+
+- Prior lectures often frame success through sales, capital, ownership, or discipline; this lecture adds that a high-tech, super-successful company can coexist with serious personal breakdown.
+- Lecture 121 offers co-founder structure as a remedy for overload; Lecture 122 shows the kind of life pressure that makes structural support necessary, but it does not say whether a co-founder was present or absent.
+- The divorce explanation must remain the speaker’s own account, not a universal claim that entrepreneurship causes divorce.
+- The company is unnamed and unquantified. Do not infer industry details, valuation, revenue, dates, or operating structure from “high-tech, super-successful.”
+
+### Frame or diagram opportunities
+
+- No validated screenshot assets exist for this lecture.
+- Useful transcript-derived visuals:
+  - Narrow pressure-stack table: young founder → young children → young marriage → high-tech company → balance breakdown.
+  - Compact three-domain balance model: life, health, work, with reserve as the vulnerable buffer.
+  - Anecdote/claim/mechanism table: early success and family pressure; balance as the challenge; compressed responsibilities as the mechanism.
+- Label all diagrams as transcript-derived; no screenshot pairing is needed.
+
+### Next rewrite implications
+
+- Use this lecture to make the book’s resilience material more concrete and less motivational: founder health and balance are operating constraints, not lifestyle decoration.
+- Preserve anecdote/claim/mechanism separation:
+  - Anecdote: young children, young marriage, young high-tech company, early divorce.
+  - Claim: entrepreneurs face a persistent life-work balance challenge, later widened to life-health-work balance.
+  - Mechanism: simultaneous high-demand roles consume the same attention, energy, time, and emotional reserve.
+- In the dynamic book arc, this evidence should feed resilience, risk, judgment, operations, and ownership. It should not become a standalone chapter unless later lectures add more family-system or life-balance evidence.
