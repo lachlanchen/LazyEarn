@@ -1814,3 +1814,88 @@
 - Strengthen the risk chapter with a “bad outcome vs bad decision” paragraph and a due-diligence table separating data, people, character, and alignment.
 
 - Strengthen the final advice chapter by linking Williams’s “ask how to help” to the series-wide pattern of value-before-access, generosity, mentorship, and reputation compounding.
+
+## Lecture 22 integration: 10 Questions with a Millionaire： Insurance CEO Lavon Perrin
+
+### New evidence
+
+- **Named witness for mindset converted into operating tests:** Lavon/Levon Perrin adds a compact interview where mindset is not left as motivation. His sequence is: avoid negative inputs, look in the mirror, take accountability, then convert the attitude into concrete action such as evening sales calls, licensing, and peer selection.
+
+- **Time-zone side-hustle mechanism:** Perrin gives a useful new time-arbitrage example for the opportunity and operating-discipline chapters: an East Coast worker can get licensed on the West Coast, keep a 9-to-5 job and family routine, then call from about `8 p.m.` to `11 p.m.` because the West Coast market is still open. Preserve the arithmetic:
+  \[
+  8{:}00\ \mathrm{p.m.}+3\ \mathrm{hours}=11{:}00\ \mathrm{p.m.}
+  \]
+  This is one of the course’s clearest “buy a second work window before quitting” examples.
+
+- **Scale target as plan design:** Perrin adds a simple goal-sizing claim: many people want `\$100,000/year`, but if they plan for `\$500,000/year` and miss, they may still end near `\$100,000/year`. Use cautiously as a planning heuristic:
+  \[
+  G_{\mathrm{plan}}=\$500{,}000=5\times \$100{,}000.
+  \]
+
+- **Replication test for operator quality:** His “what if they had 10 of me?” question is a strong new scale heuristic. It belongs near SOP/team material from AK, Louis, and other operators, but adds a personal unit-quality test before scaling:
+  \[
+  N_{\mathrm{copies}}=10.
+  \]
+
+- **Peer environment as probability shifter:** Perrin reinforces the course-wide proximity theme with the “nine broke friends” / “nine guys that drive Ferraris” maxim and the downtown move to be around people living the lifestyle he wanted. This supports Zane’s opportunity-density argument, TJ’s “you can’t unsee” Beverly Park point, and Cardone’s follow-the-money theme, but with a family proverb as the memorable form:
+  \[
+  9+1=10.
+  \]
+
+- **Personal development as sales discipline:** Perrin says the sales secret is personal development, not a script. Concrete details: online classes in the early 2000s, a degree earned through online study, probably `15` books read the previous year, and named books: `Think and Grow Rich`, `Rich Dad Poor Dad`, and `Go for No`.
+
+- **Failure reframed as learning, with a maintenance-plan story:** Perrin’s worst-financial-decision answer resists pure regret. He wanted a BMW 750, owned two, and says the mistake was not the desire itself but failing to do it better with a maintenance plan. This adds a small, concrete consumer-asset lesson to the failure chapter.
+
+- **Money buys freedom only with management skill:** Perrin’s money answer reinforces Edwin and Boyd on bounded happiness, but gives a clean management threshold:
+  \[
+  \$1{,}000{,}000=1000\times \$1{,}000.
+  \]
+  His claim: if someone cannot manage `\$1,000`, they cannot manage `\$1,000,000`.
+
+### Conservative restructure plan
+
+- Add the East Coast/West Coast license example to **Question 1** and **Question 6** as a transcript-backed mechanism for creating a second income track without immediately quitting employment.
+
+- Add the `\$500K` plan versus `\$100K` wish and the “10 of me” test to **Question 7: How did income become enterprise value, equity, or durable wealth?** Use them as planning and replication heuristics, not formulas.
+
+- Add Perrin’s peer-environment maxim and downtown move to **Question 10: Which relationships, networks, trust, or teams mattered?** It should sit beside Zane, TJ, Cardone, Victor, and Johnny as another version of paid or chosen proximity.
+
+- Add the gradual corporate-misfit story to **Question 3** and **Question 9**: Perrin’s path to ownership was not a single lightning moment, but accumulation of sales skill, leadership ability, discomfort with corporate America, and a family constraint from car-business life.
+
+- Add personal development and the named book list to **Question 6** and **Question 11**. Keep his “start younger” advice distinct from guests who emphasize college, masterminds, or paid mentorship.
+
+- Add the BMW 750 maintenance-plan anecdote to **Question 9** as a lower-stakes but concrete example of learning from a financial decision without rewriting it as total failure.
+
+- Add the `\$1,000` before `\$1,000,000` threshold to **Question 12**, near other “money buys security/freedom but not automatic happiness” evidence.
+
+### New tensions or contradictions
+
+- **Mindset versus mechanism:** Perrin’s “mindset means everything” could become generic if isolated. The dynamic book should keep it tied to the mechanisms he actually names: news avoidance, mirror accountability, time-zone licensing, bigger goals, replication, and peer environment.
+
+- **Environment as odds, not law:** The “nine broke friends” and Ferrari contrast is vivid but anecdotal. Present it as Perrin’s lived heuristic about standards and proximity, not as a deterministic social formula.
+
+- **Bigger targets versus guaranteed outcomes:** The `\$500K` target argument should be written as a planning-design claim. Do not imply that setting a larger goal by itself produces `\$100K`.
+
+- **Freedom versus happiness:** Perrin does not say money straightforwardly buys happiness. His answer is narrower: it can buy freedom if the person knows how to manage it.
+
+- **Name uncertainty:** Metadata uses `Lavon Perrin`; transcript text uses `Levon Perrin`. Resolve spelling from the source title/video before final compiled front matter.
+
+### Frame or diagram opportunities
+
+- No validated screenshot assets remain for lecture 22. Do not include the rejected couch/interview frames as visual evidence.
+
+- Best pocket-safe diagrams:
+  - Vertical side-hustle time-window flow: day job -> family routine -> `8 p.m.` local stop -> West Coast license -> three extra calling hours -> second career.
+  - Two-row target table: `\$100K wish` versus `\$500K plan`, with caution that the larger target changes design but does not guarantee results.
+  - Compact replication box: one reliable operator -> “would they want 10 of me?” -> scale signal.
+  - Money-management ladder: manage `\$1K` -> manage larger sums -> possible freedom.
+
+### Next rewrite implications
+
+- The dynamic book now has a clean “time arbitrage before quitting” subsection. Perrin should be the named witness for licensing into a later time zone to create a second career while still employed.
+
+- The scale chapter should add a small “unit quality before multiplication” section. Perrin’s “10 of me” question is a reader-friendly bridge between personal accountability and enterprise scale.
+
+- The relationships/proximity chapter should not only discuss elite rooms and rich cities. Perrin adds the everyday version: choose the people and places that normalize the life you are trying to build.
+
+- Add Q&A blocks later for: what mindset changes if it is not just a slogan; why a larger goal changes the plan; whether the turning point was one event or accumulated mismatch; and whether money buys happiness or only managed freedom.
