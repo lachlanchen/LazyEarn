@@ -9,7 +9,7 @@ Localization scope split (synced for this round):
 - Runtime website locales in `docs/translations.json`: `9` (`en`, `zh-Hant`, `zh-Hans`, `ja`, `ko`, `vi`, `ar`, `fr`, `es`).
 - Translated README variants in `i18n/`: `10` (`ar`, `es`, `fr`, `ja`, `ko`, `vi`, `zh-Hans`, `zh-Hant`, `de`, `ru`) plus English source README.
 
-# LazyEarn — Money, Wealth, and Earn From Scratch
+# LazyEarn — The secrets to earn from scratch?
 
 [![Site](https://img.shields.io/badge/Site-earn.lazying.art-0ea5e9?logo=googlechrome&logoColor=white)](https://earn.lazying.art)
 [![Audience](https://img.shields.io/badge/Audience-Investing%20%2F%20Entrepreneurs-8b5cf6?logo=bookstack&logoColor=white)](https://github.com/lachlanchen/LazyEarn)
@@ -45,7 +45,7 @@ The repository keeps a single claim pipeline through shared artifacts:
 
 The public language layer still includes **Lazy Money**, **Lazy Earn**, and **Earn From Scratch**, while core content emphasizes evidence, mechanism, and decision quality.
 
-> _“Build less. Live more.”_ — LazyEarn ethos
+> _“The secrets to earn from scratch?”_ — LazyEarn slogan
 
 ## 🏛️ Featured course publications
 

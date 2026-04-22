@@ -8,7 +8,7 @@ const fallbackStrings = {
   "nav.research": `Research`,
   "nav.startLazy": `Start Lazy`,
   "hero.eyebrowBooks": `LazyingArt research shelf`,
-  "hero.titleLeadBooks": `Books, notes, and field guides for`,
+  "hero.titleLeadBooks": `The secrets to earn from scratch?`,
   "hero.titleHighlightBooks": `money, wealth, markets, and entrepreneurship`,
   "hero.copyBooks": `LazyEarn is the public shelf for mechanism-first books, market notes, and practical study material. Start with the published PDFs, then move into the synced readers, markdown sources, and research route.`,
   "hero.primaryCTABooks": `Browse the shelf`,
@@ -103,7 +103,7 @@ const fallbackStrings = {
   "panel.step2": `Pick one Earn From Scratch spark.`,
   "panel.step3": `Automate a single repeatable piece.`,
   "panel.step4": `Share the loop, gather lazy revenue.`,
-  "footer.tagline": `earn.lazying.art · built for effortless expression.`,
+  "footer.tagline": `earn.lazying.art · The secrets to earn from scratch?`,
   "footer.top": `Back to top`,
   "footer.github": `GitHub`,
   "footer.pages": `GitHub Pages`,
@@ -130,7 +130,7 @@ const fallbackStrings = {
   "research.stat2": `official sources`,
   "research.stat3": `synced surfaces`,
   "research.asset1Title": `Wealth from first principles`,
-  "research.asset1Desc": `A practical field guide to money, wealth, debt, and physical capacity with distinction checklists, evidence ladders, stress dashboards, credit channel maps, ownership-entry execution loops, entry-and-property-price pulse checks, credit-access-and-burden bridge checks, cadence-aware stress classification checks, debt-throughput sequencing, historical transmission checks (Great Recession and 1973-74), and source-linked methods you can apply immediately.`,
+  "research.asset1Desc": `The secrets to earn from scratch? A practical field guide to money, wealth, debt, and physical capacity with distinction checklists, evidence ladders, stress dashboards, credit channel maps, ownership-entry execution loops, entry-and-property-price pulse checks, credit-access-and-burden bridge checks, cadence-aware stress classification checks, debt-throughput sequencing, historical transmission checks (Great Recession and 1973-74), and source-linked methods you can apply immediately.`,
   "research.asset1Route": `Viewer slug: <code>wealth-from-first-principles</code> (aliases: <code>wealth</code>, <code>wealth-guide</code>, <code>wealth_from_first_principles</code>, <code>wealth-field-guide</code>).`,
   "research.asset2Title": `Financial freedom playbook`,
   "research.asset2Desc": `Timeless principles blended with modern automation ideas—capital allocation tables, quarterly rituals, and name ideas for future Lazy Money drops.`,
@@ -174,7 +174,7 @@ const syncedEnglishResearchStrings = {
     "Cycle_025 execution layer: markdown, TeX/PDF, README, and website surfaces remain aligned through 9.11.6, 9.11.7 portability checks, CHM-6 claim mapping, and 30D-SW execution checks.",
   "research.stat1": "research questions",
   "research.asset1Desc":
-    "A practical field guide to money, wealth, debt, and physical capacity with distinction checklists, evidence ladders, stress dashboards, credit channel maps, ownership-entry execution loops, entry-and-property-price pulse checks, credit-access-and-burden bridge checks, cadence-aware stress classification checks, debt-throughput sequencing, historical transmission checks (Great Recession and 1973-74), and source-linked methods you can apply immediately.",
+    "The secrets to earn from scratch? A practical field guide to money, wealth, debt, and physical capacity with distinction checklists, evidence ladders, stress dashboards, credit channel maps, ownership-entry execution loops, entry-and-property-price pulse checks, credit-access-and-burden bridge checks, cadence-aware stress classification checks, debt-throughput sequencing, historical transmission checks (Great Recession and 1973-74), and source-linked methods you can apply immediately.",
   "research.asset1Route":
     "Viewer slug: <code>wealth-from-first-principles</code> (aliases: <code>wealth</code>, <code>wealth-guide</code>, <code>wealth_from_first_principles</code>, <code>wealth-field-guide</code>).",
   "research.routeIntro": "Start with the Chapter 9 transmission sequence, then open the 30D-SW execution gate before allocation or leverage conclusion.",
@@ -255,7 +255,7 @@ const syncedEnglishSiteStrings = {
   "panel.step2": "Distill the mechanism into notes and visual structure.",
   "panel.step3": "Publish the PDF, reader, and repo source together.",
   "panel.step4": "Iterate from the next source instead of restarting from zero.",
-  "footer.tagline": "earn.lazying.art · books, notes, and field guides from LazyingArt.",
+  "footer.tagline": "earn.lazying.art · The secrets to earn from scratch?",
 };
 
 const fallbackIdeas = {
@@ -317,7 +317,7 @@ const pdfEntries = {
     },
     title: "Wealth from first principles",
     description:
-      "A practical field guide to money, wealth, debt, and physical capacity with distinction checklists, evidence ladders, stress dashboards, credit channel maps, ownership-entry execution loops, entry-and-property-price pulse checks, credit-access-and-burden bridge checks, cadence-aware stress classification checks, debt-throughput sequencing, historical transmission checks (Great Recession and 1973-74), and source-linked methods you can apply immediately.",
+      "The secrets to earn from scratch? A practical field guide to money, wealth, debt, and physical capacity with distinction checklists, evidence ladders, stress dashboards, credit channel maps, ownership-entry execution loops, entry-and-property-price pulse checks, credit-access-and-burden bridge checks, cadence-aware stress classification checks, debt-throughput sequencing, historical transmission checks (Great Recession and 1973-74), and source-linked methods you can apply immediately.",
     pdf: "investment_pdfs/wealth-from-first-principles/wealth-from-first-principles.pdf",
     download: "investment_pdfs/wealth-from-first-principles/wealth-from-first-principles.pdf",
     markdown: "https://github.com/lachlanchen/LazyEarn/blob/main/investment/wealth-from-first-principles.md",

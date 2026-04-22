@@ -1,6 +1,6 @@
 # Wealth From First Principles
 
-_A practical field guide to money, value, ownership, and financial independence_
+_The secrets to earn from scratch?_
 
 _Author: LazyingArt LLC_
 
