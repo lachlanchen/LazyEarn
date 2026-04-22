@@ -374,3 +374,111 @@
 - The advice chapter should now include a repeatable pattern: write the plan, study someone already doing it, copy the useful moves, add personal style, and expect ups and downs.
 
 - The negotiation chapter has enough evidence to become more than a side note: Klubeck contributes silence after the ask; Shaq contributes high anchoring and explicit opportunity-loss arithmetic.
+
+## Lecture 6 integration: I Had to Beg Borrow & Steal.. Now I Make $300 Million
+
+### New evidence
+
+- **Named witness for working-capital scale:** Louis adds the clearest processed case so far where growth is bottlenecked by cash timing rather than demand alone. The transcript frames him as a Houston labor-force management entrepreneur with about `\$300M/year` in revenue, `21` years in business, and a private car collection used as visible outcome rather than mechanism.
+
+- **Delegation as a measurable scale contrast:** Preserve Louis’s claim that the company does about `\$300M/year`, but if he were still doing everything himself it might do about `\$3M/year`. This supports the recurring people-leverage theme with a rough ratio:
+  \[
+  L_{\text{delegation}}\approx \frac{300}{3}=100.
+  \]
+  Treat this as rhetorical managerial leverage, not a controlled causal calculation.
+
+- **Labor-force management as the owned/control mechanism:** Louis says FX partners with companies across the U.S. and those companies outsource their entire labor force to FX. This adds a new business type to the corpus: managed labor operations, not just law, hospitality, acquisition, tax planning, or franchises.
+
+- **Spending trap as bridge into business discipline:** Louis warns that spending and consumer leverage can keep even high earners broke, then immediately maps that discipline into the company: every dollar stayed in the business to reduce next week’s debt liabilities and build retained earnings.
+
+- **Seed money versus proof-of-concept capital:** Louis gives a sharp ownership-control rule: if a founder brings only an idea, the investor bears the financial downside and therefore wants control, possibly `51%+` or a `70/30` split where the founder receives `30%`. This reinforces ownership as the consequence of financing choices.
+
+- **Core working-capital arithmetic:** Preserve the first-deal example as a major evidence anchor:
+  \[
+  R_1\approx \$9\text{M/year},\quad T_{\text{pay}}=30\text{ days},\quad T_{\text{cash}}\approx 5\text{ weeks},\quad B_{\text{needed}}\approx \$1\text{M}.
+  \]
+  The cautious reconstruction is:
+  \[
+  B_{\text{needed}}\approx E_{\text{week}}N_{\text{weeks}}.
+  \]
+  Do not reverse-engineer payroll or margin.
+
+- **Invoice factoring as expensive bridge capital:** Louis says he used invoice/accounts-receivable factoring at about `21%` all-in cost, with the factor advancing around `90%` of invoice value:
+  \[
+  A_{\text{cash}}\approx 0.90I,\qquad i_{\text{factoring}}\approx 21\%.
+  \]
+  The key mechanism is painful financing that preserves ownership while forcing retained-earnings discipline.
+
+- **Bank line as later-stage transition:** Factoring was a bridge toward traditional bank credit. Louis says borrowing needs were almost `\$14M` when the company was roughly three years old, and that early banker relationships helped the lender see retained earnings, credibility, and “wise risk.”
+
+- **Customer demand plus capital:** Louis’s answer to the `\$10M` to `\$100M` question is dual: customers had to believe enough to sign contracts, and the company needed enough retained earnings/balance-sheet strength to fund delivery. This gives a clean growth formula:
+  \[
+  \text{scalable growth}\approx \text{signed demand}+\text{capital to fund delivery}.
+  \]
+
+- **SOPs, culture, and authority:** Louis adds a strong governance mechanism to the delegation theme: consistent sites require SOPs and training, but accountability requires authority. His “I’m number six” executive-room principle adds a vivid case where the founder intentionally makes dissent and expertise part of the operating system.
+
+- **Results-based negotiation:** Louis adds a new negotiation mechanism beyond Klubeck’s silence and Shaq’s anchoring: when procurement is price-driven, let the buyer win today if needed, then tie future compensation to measurable savings, cost reduction, profit improvement, or growth:
+  \[
+  \text{seller upside}\propto \text{measured customer savings or growth}.
+  \]
+
+- **Wealth after the number:** The Gentleman’s Garage material adds a light but usable Question 12 note: cars began as inspiration, and later become a vehicle for mentoring, motivation, and “how did you make that happen?” conversations with younger people. Keep as purpose/mentoring evidence, not as the business mechanism.
+
+### Conservative restructure plan
+
+- Add Louis to **Question 2: What painful bottleneck or customer problem created the opportunity?** as the labor-force management case: companies outsourced an entire labor-force function, implying a customer problem large enough to create recurring operational responsibility.
+
+- Add FX/labor-force outsourcing and retained 100% ownership to **Question 3: What did the person actually own or control?** Emphasize control over workforce management, contracts, SOPs, and equity.
+
+- Add consultative selling and “make the customer more profitable/competitive” to **Question 4: How did customers, distribution, reputation, or attention arrive?** This complements Morgan’s advertising, Klubeck’s brand trust, TJ’s marketing, and Shaq’s celebrity reach with B2B consultative trust.
+
+- Add the `\$9M` deal, `30`-day terms, five-week gap, `\$1M` need, `21%` factoring, `90%` advance, retained earnings, and later `\$14M` bank need to **Question 5: How was risk financed, survived, or transferred?** This is the strongest processed working-capital example so far.
+
+- Add SOPs, training, authority before accountability, and “I’m number six” to **Question 6: Which skill or operating discipline compounded fastest?** This sharpens the people-leverage thread from Morgan, Klubeck, TJ, and Shaq into a governance system.
+
+- Add retained earnings reducing next week’s borrowing and preserving 100% ownership to **Question 7: How did income become enterprise value, equity, or durable wealth?**
+
+- Add factoring-to-bank-line transition to **Question 8** only lightly: it is financial engineering, but less legal/tax-specific than Carlton’s material.
+
+- Add entrepreneurship mental toll and Louis’s tendency to talk some people out of entrepreneurship to **Question 9** or **Question 11** as a counterweight to simple motivational advice.
+
+- Add bankers before need, non-soliciting peer groups, and results-based customer negotiation to **Question 10** and **Question 11**.
+
+- Add the car passion and mentoring motive to **Question 12**, keeping the wealth display secondary to “what the wealth is for after the number.”
+
+### New tensions or contradictions
+
+- **Debt doctrine now gets a fifth variant:** Morgan avoids debt, Klubeck survives through bank transparency, TJ uses acquisition financing, Carlton uses debt/OPM for tax-enabled asset control, and Louis uses painful factoring to preserve ownership and fund working-capital gaps. The book should frame debt by purpose, timing, survivability, and control consequences.
+
+- **Luxury display versus anti-consumption warning:** Louis owns a major car collection, but explicitly warns against buying cars, watches, second homes, and other low-ROI items too early. Preserve the sequence: cars are outcome/inspiration here, not the operating mechanism.
+
+- **Delegation versus control:** Louis says the business would be much smaller if he did everything himself, yet he also emphasizes SOPs, culture, authority, and executive challenge. The synthesis is delegation with governance, not abdication.
+
+- **Investor capital is not wrong, but raw-idea capital is expensive:** Louis says investment can be useful, but the founder’s negotiating position changes dramatically after revenue/proof. Do not turn this into “never raise money.”
+
+- **Growth as survival versus growth as risk:** Louis says a business that stops growing begins to die, but the working-capital story shows growth itself can create cash danger. The book should preserve the two-sided lesson: growth is necessary but must be funded.
+
+- **Mindset versus mental health:** Louis values mindset, passion, and drive, but also says entrepreneurship is not for everyone and can be unhealthy. This is a useful correction to generic hustle language.
+
+### Frame or diagram opportunities
+
+- No lecture 6 screenshot assets should be retained. The available candidate frames were rejected as talking-head, exterior, or interview-context shots with no board content, equations, or diagrams.
+
+- Best transcript-derived pocket-safe visuals:
+  - Vertical **Capital Path**: raw idea → investor risk → investor control → founder dilution; proof of concept → funding scale → stronger founder position.
+  - Vertical **Working-Capital Bridge**: `\$9M` annualized deal → `30`-day terms → fifth week of expenses → `\$1M` need → factoring at `90%` advance and `21%` cost → retained earnings reduce future borrowing.
+  - Compact **Results-Based Negotiation** fork: price-only procurement → margin fight, or near-term price concession → measurable savings/growth → back-end margin.
+  - Narrow **Authority/Accountability** loop: SOPs → training → authority → accountable action → repeatable sites.
+
+### Next rewrite implications
+
+- The dynamic book now needs a dedicated working-capital subsection under the risk-financing chapter. Louis is the best anchor because the transcript gives the actual timing numbers.
+
+- The people-leverage chapter should evolve from “hire/delegate” into “delegate with authority, SOPs, culture, and dissent.” Louis’s “I’m number six” line is the strongest processed phrase for this governance idea.
+
+- The negotiation material is now substantial enough for a compact cross-case section: Klubeck contributes silence after the ask, Shaq contributes high anchoring, and Louis contributes results-based back-end pricing.
+
+- Add Q\&A blocks for: why outside capital costs control; why a profitable contract can require cash before it creates wealth; what has to compound at the same time when scaling; and how to negotiate when the buyer only cares about price.
+
+- Keep all lecture 6 quantitative claims approximate and transcript-backed: `\$300M`, `\$3M`, `100x`, `\$9M`, `30` days, five weeks, `\$1M`, `21%`, `90%`, `\$14M`, `21` cars, about `14` Ferraris, about six Lamborghinis, and the “one in four millionaires” claim.
