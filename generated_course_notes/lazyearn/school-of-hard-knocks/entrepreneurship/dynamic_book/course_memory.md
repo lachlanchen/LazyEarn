@@ -856,3 +856,42 @@
   - Claim: people dislike being sold to but like buying.
   - Mechanism: homework and questions reveal pain points, which allow the seller to present only solutions that fit.
 - In the dynamic book arc, this lecture feeds selling, judgment, operations, and trust. It gives the sales chapter a clean rule: strong selling is not louder persuasion; it is better diagnosis before presentation.
+
+## Lecture 106 integration: Asking a multi-millionaire CEO about the importance of leveraging social media.
+
+### New evidence
+
+- Adds a focused standalone version of the Grant social-media recruiting case already surfaced in Lecture 170, with sharper scene detail: the evidence comes from a company-wide meeting with `six or seven` new starters where a director asked how they found the company and got the job.
+- Clarifies the attributed recruiting share: the speaker says `30%--40%` of that small starting group had followed Grant or discovered him through TikTok before seeing the job. Treated literally, this implies about `2--3` people, but only as approximate arithmetic from an anecdotal cohort.
+- Adds concrete geography to the recruiting mechanism: people cite places such as Portland, Tennessee, and Florida, which supports social media as a nonlocal discovery surface rather than only local reputation.
+- Adds a time-lag mechanism: at least one person reportedly followed Grant on TikTok for `six months` before seeing the job, then joining the company.
+- Reinforces the “moderate audience can still matter” theme: the speaker frames TikTok at about `145,000` followers and Instagram at about `25,000` as not massive, yet still commercially useful.
+
+### Conservative restructure plan
+
+- Strengthen the media/leverage chapter with a dedicated recruiting subsection: public content → sustained awareness → job visibility → applicant/new starter → talent inside the company.
+- Keep this evidence separate from Lecture 179’s Austin Smith referral story. Lecture 179 supports social content as local referral/business development; Lecture 106 supports social content as recruiting infrastructure.
+- Place Lecture 106 after the broader Lecture 170 synthesis if the book uses Grant Mitt as a recurring case. Lecture 170 can introduce media leverage generally; Lecture 106 can provide the focused proof scene.
+- Add a `Question & Answer` beat in the media chapter: “Does social media matter if the following is not massive?” Answer: in this case, yes, because a moderate following reportedly produced recruiting visibility.
+
+### New tensions or contradictions
+
+- The episode reinforces social media as leverage, but the evidence is a small, self-reported hiring anecdote. Do not turn `30%--40%` of `six or seven` starters into a universal hiring conversion rate.
+- The speaker says the following is not massive, while the combined platform count is still about `170,000`. The book should preserve that relative framing: not celebrity scale, but enough niche distribution to affect operations.
+- This lecture makes social media look operationally useful, while Lecture 123 warns that attention does not replace product validation. Keep the distinction: attention can create discovery, but it does not prove product-market fit or hiring quality by itself.
+
+### Frame or diagram opportunities
+
+- No validated screenshot assets exist for this lecture.
+- Useful transcript-derived visual: narrow vertical recruiting chain from audience stock to repeated awareness, job visibility, candidate/new starter, and company talent.
+- Optional compact arithmetic note: `N in {6,7}`, `p approx 30%--40%`, so `pN approx 2--3`; label as approximate reconstruction, not source-stated count.
+- Keep any diagram pocket-safe and transcript-derived; no screenshot pairing is needed.
+
+### Next rewrite implications
+
+- Use Lecture 106 to make the media chapter less generic. The strongest new contribution is not “post content,” but “content creates a warm talent pool before the company formally recruits.”
+- Preserve anecdote/claim/mechanism separation:
+  - Anecdote: company-wide meeting with six or seven new starters describing how they found the company.
+  - Claim: `30%--40%` had followed Grant or found the company through social media.
+  - Mechanism: months of attention create familiarity; a job opening appears; a follower becomes reachable talent.
+- Cross-reference this evidence with hiring/team material from Lecture 109: social media may widen the candidate pool, but the company still needs role fit, coachability, humility, and persistence once candidates arrive.
