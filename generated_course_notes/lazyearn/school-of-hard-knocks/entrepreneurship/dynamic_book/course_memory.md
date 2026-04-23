@@ -814,3 +814,45 @@
   - Claim: entrepreneurs and creative people often cannot sit still and will keep creating.
   - Mechanism: boredom creates risk; interesting work gives the creative drive a healthier object.
 - In the dynamic book arc, this evidence belongs with resilience, judgment, wealth endpoints, and entrepreneurial identity. It helps the book argue that financial success is not the end of the operating problem; it changes the problem from survival to direction.
+
+## Lecture 129 integration: How to crush sales？
+
+### New evidence
+
+- Adds the clearest “solution selling” statement so far: people dislike being sold to, but they like to buy when the purchase solves a real need.
+- Strengthens the sales chapter with a diagnostic sequence: ask questions → understand the real true need → decide whether the seller can help → solve the problem together.
+- Adds a concrete anti-pattern: young salespeople lead with a demo, show everything they have, and ask the prospect to stop them when something looks interesting. The speaker frames this as random selling rather than disciplined diagnosis.
+- Adds pre-call preparation as a sales mechanism: slow down, do homework on the client before showing up, understand pain points, and talk directly about those pain points.
+- Reinforces Lecture 105’s “ask and listen” sales evidence and Lecture 179’s sales-practice theme, but gives them a sharper target: practice should improve need discovery, not just pitch delivery.
+- Adds a trust/positioning contrast: mutual problem-solving versus opportunistic selling “off the back of a truck.”
+
+### Conservative restructure plan
+
+- Strengthen the sales chapter around “diagnosis before presentation.” Use Lecture 129 as the core bridge between Lecture 105’s communication/listening, Lecture 112’s live rejection pressure, and Lecture 179’s sales practice.
+- Sequence the sales material conservatively as: buyer resistance → ask/listen → homework → pain-point discovery → relevant solution → practice/repetition → post-sale onboarding.
+- Add a `Question & Answer` beat: “If no one likes being sold to, how can sales work?” Answer: by making the process need-led and buyer-centered rather than demo-led.
+- Do not make Lecture 129 a standalone permanent chapter unless the final book needs a very short chapter on sales diagnosis. Its evidence is best folded into the broader selling and commercial judgment arc.
+
+### New tensions or contradictions
+
+- Lecture 112 emphasizes high-volume live rejection, cold calls, and door knocking; Lecture 129 says slow down and do homework. Reconcile by separating market-contact volume from prospect-conversation quality.
+- Lecture 179 emphasizes practicing the pitch; Lecture 129 warns that showing everything too early is bad selling. Practice should include questioning, discovery, and restraint, not only demo fluency.
+- Product demos are not rejected entirely; the transcript rejects demos before need discovery. Preserve that ordering distinction.
+
+### Frame or diagram opportunities
+
+- No validated screenshot assets exist for this lecture.
+- Useful transcript-derived visuals:
+  - Narrow vertical flow: homework → questions → true need → pain points → relevant solution → mutual problem-solving.
+  - Compact contrast table: demo-first selling versus solution selling.
+  - Optional fit-map reconstruction: solution features mapped against client pain points, with only relevant features presented.
+- Label all diagrams as transcript-derived; no screenshot pairing is needed.
+
+### Next rewrite implications
+
+- Use Lecture 129 to make the book’s sales material less pitch-centered and more diagnostic.
+- Preserve anecdote/claim/mechanism separation:
+  - Anecdote: young salespeople lead with a demo and wait for the prospect to react.
+  - Claim: people dislike being sold to but like buying.
+  - Mechanism: homework and questions reveal pain points, which allow the seller to present only solutions that fit.
+- In the dynamic book arc, this lecture feeds selling, judgment, operations, and trust. It gives the sales chapter a clean rule: strong selling is not louder persuasion; it is better diagnosis before presentation.
