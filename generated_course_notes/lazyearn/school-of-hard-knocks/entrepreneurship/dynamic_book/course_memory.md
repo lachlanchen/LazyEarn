@@ -1275,3 +1275,42 @@
   - Claim: entrepreneurs should not diversify early.
   - Mechanism: early diversification can mask weak mastery by cushioning failure rather than forcing excellence.
 - Cross-link this lecture with Lecture 170 rather than treating it as separate doctrine; together they form the strongest current evidence bank for the book's ``focus before spread'' rule.
+
+## Lecture 108 integration: Multi-millionaire CEO shares tips when building a solar sales company.
+
+### New evidence
+
+- Adds a compact arena-selection clip centered on solar sales: the speaker traces the choice back to his short college period around `2014--2016`, when he was asking which industries would be bigger in `20` years.
+- Reinforces Lecture 170’s Grant Mitt solar-selection evidence, but clarifies the early reasoning sequence in a shorter form: emerging-industry scan → limited knowledge → study → foot in the door → fit test → build around the opportunity.
+- Adds a useful opinion-filter phrase: the speaker brackets personal feeling and political view before judging whether an industry is likely to grow.
+- The candidate industry set is explicit: tech, AI, robotics, renewable energy, and crypto. Treat this as an example list “off the top of my head,” not a ranked market thesis.
+- Adds a strong “involvement before founding” principle: the first move did not have to be starting a business; it only had to be getting involved in the right growing industries.
+
+### Conservative restructure plan
+
+- Fold Lecture 108 into the arena-selection chapter beside Lecture 125 and the related Lecture 170 material.
+- Use this lecture to sharpen the sequence before business formation: choose a growing field, enter it, learn from proximity, test fit, then decide whether to build.
+- Add a short `Question & Answer` beat: “How do we evaluate an industry when opinions around it are noisy?” Answer: first ask whether the field will likely be larger over a long horizon, then test personal fit after gaining access.
+- Do not make Lecture 108 a standalone permanent chapter; it is best used as a clean supporting fragment for starting, judgment, market selection, and renewable-energy/solar context.
+
+### New tensions or contradictions
+
+- The speaker names high-growth sectors without claiming expertise in any of them. Preserve the humility: the mechanism is learnability and access, not prediction certainty.
+- This lecture makes “starting a business” secondary to “getting involved,” which should temper founder-first narratives elsewhere in the book.
+- The sector list includes crypto, AI, robotics, tech, and renewable energy, but the transcript provides no market data, returns, or comparative risk analysis. Avoid turning the list into external investment advice.
+
+### Frame or diagram opportunities
+
+- No validated screenshot assets exist for this lecture.
+- Useful transcript-derived visual: emerging industry scan → bracket opinion → study → foot in the door → fit test → build or stay involved.
+- A compact table could compare: transcript beat, business mechanism, and caution. Keep labels wrapped and vertical/narrow for 6x9 export.
+- Any figure must be labeled transcript-derived; no screenshot pairing is needed.
+
+### Next rewrite implications
+
+- Use Lecture 108 to make the opening “choosing the arena” material less abstract: solar sales appears as a doorway into renewable energy after a broader emerging-industry scan.
+- Preserve anecdote/claim/mechanism separation:
+  - Anecdote: college-era search around `2014--2016`.
+  - Claim: look for industries likely to be bigger in `20` years.
+  - Mechanism: study, gain access, test fit, then build or participate.
+- When synthesizing with Lecture 170, avoid duplicate exposition. Let Lecture 108 supply the clean entry-sequence phrasing, while Lecture 170 supplies the broader Grant Mitt context around concentration, scale, social media, people, and risk.
