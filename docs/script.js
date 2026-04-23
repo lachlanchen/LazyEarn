@@ -360,30 +360,6 @@ const pdfEntries = {
     publication:
       "https://github.com/lachlanchen/LazyEarn/blob/main/mit-nuts-and-bolts-of-new-ventures-publication/README.md",
   },
-  "10-questions-with-a-millionaire": {
-    aliases: ["ten-questions-with-a-millionaire", "10-questions", "millionaire-questions"],
-    title: "10 Questions With a Millionaire",
-    description:
-      "A published School of Hard Knocks interview field book with twenty-two millionaire conversations, a new Video2Book NanoBanana cover, full PDF, and 1.2x pocket edition.",
-    pdf: "publications/10-questions-with-a-millionaire/10-questions-with-a-millionaire.pdf",
-    download: "publications/10-questions-with-a-millionaire/10-questions-with-a-millionaire.pdf",
-    markdown:
-      "https://github.com/lachlanchen/LazyEarn/blob/main/10-questions-with-a-millionaire-publication/README.md",
-    publication:
-      "https://github.com/lachlanchen/LazyEarn/blob/main/10-questions-with-a-millionaire-publication/README.md",
-  },
-  "ten-questions-that-build-wealth": {
-    aliases: ["10-questions-dynamic", "questions-that-build-wealth", "millionaire-dynamic-book"],
-    title: "Ten Questions That Build Wealth",
-    description:
-      "A dynamic question-led field book synthesized from the same School of Hard Knocks millionaire-interview notes, with its own NanoBanana cover and 1.2x pocket edition.",
-    pdf: "publications/10-questions-with-a-millionaire/ten-questions-that-build-wealth.pdf",
-    download: "publications/10-questions-with-a-millionaire/ten-questions-that-build-wealth.pdf",
-    markdown:
-      "https://github.com/lachlanchen/LazyEarn/blob/main/10-questions-with-a-millionaire-publication/README.md",
-    publication:
-      "https://github.com/lachlanchen/LazyEarn/blob/main/10-questions-with-a-millionaire-publication/README.md",
-  },
   "financial-freedom": {
     aliases: ["financial_freedom"],
     titleKey: "research.asset2Title",
@@ -418,6 +394,30 @@ const pdfEntries = {
       "https://github.com/lachlanchen/LazyEarn/blob/main/how-you-got-happiness-publication/README.md",
     publication:
       "https://github.com/lachlanchen/LazyEarn/blob/main/how-you-got-happiness-publication/README.md",
+  },
+  "10-questions-with-a-millionaire": {
+    aliases: ["ten-questions-with-a-millionaire", "10-questions", "millionaire-questions"],
+    title: "10 Questions With a Millionaire",
+    description:
+      "A published School of Hard Knocks interview field book with twenty-two millionaire conversations, a new Video2Book NanoBanana cover, full PDF, and 1.2x pocket edition.",
+    pdf: "publications/10-questions-with-a-millionaire/10-questions-with-a-millionaire.pdf",
+    download: "publications/10-questions-with-a-millionaire/10-questions-with-a-millionaire.pdf",
+    markdown:
+      "https://github.com/lachlanchen/LazyEarn/blob/main/10-questions-with-a-millionaire-publication/README.md",
+    publication:
+      "https://github.com/lachlanchen/LazyEarn/blob/main/10-questions-with-a-millionaire-publication/README.md",
+  },
+  "ten-questions-that-build-wealth": {
+    aliases: ["10-questions-dynamic", "questions-that-build-wealth", "millionaire-dynamic-book"],
+    title: "Ten Questions That Build Wealth",
+    description:
+      "A dynamic question-led field book synthesized from the same School of Hard Knocks millionaire-interview notes, with its own NanoBanana cover and 1.2x pocket edition.",
+    pdf: "publications/10-questions-with-a-millionaire/ten-questions-that-build-wealth.pdf",
+    download: "publications/10-questions-with-a-millionaire/ten-questions-that-build-wealth.pdf",
+    markdown:
+      "https://github.com/lachlanchen/LazyEarn/blob/main/10-questions-with-a-millionaire-publication/README.md",
+    publication:
+      "https://github.com/lachlanchen/LazyEarn/blob/main/10-questions-with-a-millionaire-publication/README.md",
   },
   "financial-freedom-zh": {
     aliases: ["financial_freedom_zh", "financial-freedom-zh-cn", "financial-freedom-cn"],
