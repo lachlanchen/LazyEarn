@@ -2275,3 +2275,55 @@
   - claim: scale slowly, reputation compounds daily, land scarcity matters, duplication beats novelty, and adjacent services can be layered on the same customer trip;
   - mechanism: staged leverage, personal stability, research and market scanning, repeated deal structure, and same-customer monetization.
 - Best dynamic-book use is not a standalone permanent “San Antonio” chapter. Its evidence should feed at least four existing arcs: reputation and judgment, capital allocation, real-estate operations, and layered entrepreneurial leverage.
+
+## Lecture 154 integration: Asking Golf Course Millionaires How They Got Rich
+
+### New evidence
+
+- Adds the clearest household-discipline rule in the processed entrepreneurship set so far: a mentor says to live on what you made five years ago and invest and bank the rest. Keep the cautious reconstruction `C_t \approx Y_{t-5}` and `S_t \approx Y_t - Y_{t-5}` as a source-conscious savings rule, not a universal finance law.
+- Adds a strong same-scene comparison of wealth paths inside one roaming lecture: hospital administration with a little over `\$1 million` in a year, a current product/business owner at about `\$1.5 million`, IT sales, architecture/design, a software CEO who sold PostUp for about `\$38 million`, and an acquisition entrepreneur who sold a landscape supply company for about `\$42 million` after four years. This is useful evidence that the book should not collapse wealth into a single founder archetype.
+- Adds another clean diagnostic-sales subcase that is narrower than the broader sales lectures: when the customer says no, classify the friction as competition, pricing, or something else, then let that diagnosis shape the next attempt. This reinforces the existing diagnosis-before-presentation theme with a simpler refusal-specific decision rule.
+- Adds the strongest operating-business acquisition arithmetic currently in the course memory that is distinct from real-estate leverage: a speaker claims you can control a `\$3 million` business with `\$150,000` down or a `\$1 million` business with `\$50,000` down. Preserve the implied `5\%` equity fraction and `20x` asset-control multiple as interview arithmetic, not as a general SBA rule.
+- Adds a named anti-investor stance that should remain explicit and speaker-bound: investors are described as problematic, while arranged debt-like capital is presented as the preferred ownership entry path.
+- Adds a two-sided scale mechanism that connects organization design and operating reinvestment more cleanly than many earlier montage lectures:
+  - software side: put good people in the right places, develop them, align them, improve communication, and reduce internal politics;
+  - landscape-business side: believe in growth, buy more trucks, hire before people are overloaded, buy good gear, and outsource service-side work so attention stays on the business.
+- Adds a strong self-knowledge fork that should feed the judgment chapter: some people should work for a company like Dell, earn a few hundred thousand dollars, and enjoy life; others should build or buy a business. This is one of the clearest anti-one-size-fits-all moments in the series.
+- Adds a sharp money-management warning that belongs near the savings and capital-formation material: a million-dollar year is not enough if the person does not know how to manage, keep, and grow the money.
+
+### Conservative restructure plan
+
+- Strengthen a chapter-level thread around `multiple wealth paths, shared disciplines`. Lecture 154 is especially useful as the bridge between high-income professional paths, sales paths, and ownership/acquisition paths.
+- Put the five-years-ago spending rule into the book’s capital-formation or wealth-discipline chapter, not the startup chapter. It is a personal balance-sheet rule that sits underneath later ownership and leverage choices.
+- Add the `competition / pricing / other` refusal logic as a short supporting beat in the sales chapter after the stronger diagnosis material from Lectures 129 and 156. Lecture 154 should reinforce that diagnosis survives even when the immediate sale is lost.
+- Place the anti-investor / down-payment arithmetic in the ownership-and-capital chapter beside, but clearly separate from, the real-estate leverage material from Lecture 158. Lecture 154 is about acquiring or buying operating businesses, not property appreciation arithmetic.
+- Use the PostUp and landscape-supply cases as named anchors in the scale-and-exit chapter rather than as standalone case chapters. Their best value is the operating logic behind the exits, not the exit numbers alone.
+- Add a short field-method note near the beginning of the dynamic book: Lecture 154 makes the access motif unusually explicit. Wealth in this series is approached through gates, permissions, and improvisation before it is explained through mechanism.
+
+### New tensions or contradictions
+
+- Lecture 123 and Lecture 147 push toward evidence-before-funding and traction-before-investor conversations; Lecture 154 adds a speaker who says capital is abundant and investors are problematic. Preserve these as different financing contexts rather than forcing one universal rule.
+- Do not merge Lecture 154’s operating-business borrowing examples with Lecture 158’s asset-backed real-estate leverage arithmetic. The book needs a sharper distinction between operating-business acquisition leverage and property leverage.
+- The lecture repeatedly places professional income and ownership exits side by side. This reinforces the earlier need from Lecture 104 to distinguish annual earnings, exit value, business gross, and personal wealth rather than treating all large numbers as the same category.
+- The lecture explicitly rejects an entrepreneurship-only ideology: college is important but not imperative, and some people are better suited to salaried employment than ownership. Keep that branch visible wherever the book starts sounding too uniformly founder-centric.
+- The speaker’s `\$3 million / \$150,000` and `\$1 million / \$50,000` examples are useful, but they are easy to over-read as general lending conditions. Future rewrites should keep them source-conscious and example-bound.
+
+### Frame or diagram opportunities
+
+- No validated screenshot assets exist for Lecture 154.
+- Best transcript-derived visual is a narrow three-path comparison table: professional-income path, sales-and-relationship path, owner-operator acquisition path.
+- A small savings-rule box would be useful: older-income lifestyle on one side, current-income surplus on the other.
+- A compact refusal tree would fit well in pocket layout: `no -> competition / pricing / other -> next attempt`.
+- A small capital-structure table can present the two speaker examples and the implied `5\%` down / `20x` control arithmetic, with an explicit note that this is interview arithmetic rather than a general financing formula.
+- A short scale-chain visual could pair `people fit -> alignment -> communication -> less politics -> focus` with `growth belief -> trucks -> hiring -> gear -> outsourced service work`.
+
+### Next rewrite implications
+
+- Preserve the failed first-club attempt whenever this lecture is used in prose. It explains why the evidence arrives as short field encounters and gives the lecture its search rhythm.
+- Keep all quoted numbers tightly attached to the correct speaker. This lecture is especially vulnerable to false composite-entrepreneur writing because it contains several unrelated high-value figures.
+- Use Lecture 154 to make the full book less CEO-monolithic. It is one of the best processed lectures for showing that the same entrepreneurial field can contain administrators, salespeople, solo professionals, product owners, software executives, and acquisition entrepreneurs.
+- Keep the strongest `Question & Answer` beats available for downstream chapter assembly:
+  - How do we respond when a customer says no?
+  - Do we need investors to start or buy a business?
+  - What actually scales a company once it exists?
+- Treat the mathematics here as bookkeeping and decision arithmetic, not as visual lecture mathematics. There is no validated frame evidence, so later visuals should remain transcript-derived and modest.
