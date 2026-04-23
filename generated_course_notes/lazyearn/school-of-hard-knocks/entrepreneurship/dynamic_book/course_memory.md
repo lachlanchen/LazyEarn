@@ -1234,3 +1234,44 @@
   - Claims: take risks, monetize passion, start sooner, build a network, let money work through assets.
   - Mechanisms: feedback from failure, sustained energy plus market path, learning cycles, relationship leverage, and possible appreciation versus inflation-eroded idle cash.
 - In the compiled book, use this lecture as a synthesis layer that ties multiple chapters together rather than as fresh case evidence. It is strongest as reinforcement and structure, not as a source of new named entrepreneurs or audited business numbers.
+
+## Lecture 107 integration: Asking a multi-millionaire CEO about the importance of diversifying businesses.
+
+### New evidence
+
+- This short clip adds the cleanest compact formulation yet of the concentration-before-diversification argument already associated with Grant Mitt: early diversification can be a way of ``limiting failures'' because the founder is not yet great at one thing.
+- It reinforces the same sequence marker already present in Lecture 170: Mitt says he did not diversify until his solar company was doing more than `$10 million` in revenue. Keep this as corroborating support for the concentration-first theme, not as a new independent case.
+- It gives a very strong `Question & Answer` shape for the book: the interviewer asks whether entrepreneurs should go beyond one or two things, and the answer lands immediately as no. This is useful for preserving the lecture's tension-and-reversal rhythm inside the focus/risk chapter.
+
+### Conservative restructure plan
+
+- Do not create a standalone diversification chapter from Lecture 107. Fold it into the existing concentration-before-diversification section anchored by Lecture 170.
+- Use Lecture 107 near the start of that section as the concise objection-and-answer clip, then let Lecture 170 carry the fuller build-out with ``big pile first,'' base rates, and scaling detail.
+- Add one short mechanism paragraph to the existing focus chapter: diversification is not only about spreading risk; at the wrong stage it can spread underdeveloped execution.
+
+### New tensions or contradictions
+
+- This lecture sharpens the book-wide tension between ``multiple streams'' advice and founder-focus advice. The synthesis should remain sequential: one engine first, allocation and additional buckets later.
+- The repeated `$10 million` threshold is still anecdotal founder evidence, not a general benchmark for all businesses or industries.
+- The ``Mark Cuban or someone'' reference is explicitly uncertain and should stay that way if mentioned at all.
+
+### Frame or diagram opportunities
+
+- No validated screenshot assets exist for this lecture.
+- If the compiled book needs one compact visual, use a transcript-derived narrow vertical flow:
+  - one business
+  - get good at it
+  - prove revenue
+  - diversify later
+- A small contrast table could also help:
+  - premature diversification = failure-limiting spread
+  - earned diversification = post-proof optionality
+
+### Next rewrite implications
+
+- Add Mitt's ``limiting failures'' wording to the course memory around concentration, because it gives the clearest mechanism for why early diversification is being criticized.
+- Preserve anecdote/claim/mechanism separation when this evidence is reused:
+  - Anecdote: the solar company was already above `$10 million` in revenue before diversification.
+  - Claim: entrepreneurs should not diversify early.
+  - Mechanism: early diversification can mask weak mastery by cushioning failure rather than forcing excellence.
+- Cross-link this lecture with Lecture 170 rather than treating it as separate doctrine; together they form the strongest current evidence bank for the book's ``focus before spread'' rule.
