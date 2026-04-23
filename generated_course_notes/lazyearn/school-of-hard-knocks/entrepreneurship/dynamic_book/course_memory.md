@@ -1659,3 +1659,67 @@
   - Claim: BAYC assets are scarce, expensive, and socially exclusive.
   - Mechanism: blockchain verification supports recognized ownership; recognized ownership can support status/access; project-level investment creates a different exposure from asset ownership.
 - This lecture should feed capital, ownership, technology judgment, asset selection, and market-design themes rather than becoming a playlist-style crypto chapter.
+
+## Lecture 175 integration: 5 Profitable Online Business Ideas 2022
+
+### New evidence
+
+- Adds a practical online-business taxonomy: creator work, video editing, e-commerce, social media marketing, and online courses.
+- Adds a clear selection rule for beginner entrepreneurs: choose the model tied to genuine interest because each option requires repeated daily work before competence and income appear.
+- Strengthens the book’s media-leverage theme with a two-route creator distinction:
+  - personal brand as an owned audience asset,
+  - content creation for brands as a service bridge while the personal brand is still too small to support full-time income.
+- Adds concrete creator monetization evidence: ad revenue on TikTok/YouTube, brand deals, and downstream businesses such as skincare or clothing built from audience trust.
+- Adds an example brand-deal range of about `$500-$5,000` per product promotion. Treat as speaker example, not expected earnings.
+- Adds video editing as a behind-camera service model: creators and companies need long-form content broken into TikTok, Instagram, and YouTube clips, but often lack the time to do it.
+- Adds Fiverr and Upwork as first-market channels for video editors to earn proof and build portfolios before approaching larger creators or brands.
+- Adds e-commerce as a product-ownership model with a caveat: scale and brand durability are attractive, but the model demands marketing skill, steady customer acquisition beyond launch, and startup capital for products and promotion.
+- Adds a local-business social media marketing example: a restaurant may already have strong food and service but weak online visibility.
+- Adds example social-media retainer pricing of about `$500-$1,500` per month for managing a business’s social media. Treat as illustrative, not normative pricing.
+- Adds the “posting alone is not enough” mechanism: if a business has zero engagement or views, the marketer has not solved the client’s problem; ads and reach-building may be necessary.
+- Adds online courses as packaged expertise, framed cautiously as an additional income stream or side hustle rather than necessarily a primary company. Udemy and Skillshare appear as marketplace reach beyond existing followers.
+
+### Conservative restructure plan
+
+- Add this lecture to an early “choosing the vehicle” or “online business models” section after survival/runway and arena-selection material.
+- Use the lecture’s sequence as a compact taxonomy, but do not make it a permanent standalone chapter unless the book needs a short online-business map.
+- Fold creator work, video editing, and online courses into the media/leverage chapter:
+  - creator work builds audience,
+  - editing sells time back to creators,
+  - courses package expertise for distribution.
+- Fold e-commerce into the ownership/operations chapter, especially where the book distinguishes product brand upside from marketing and capital demands.
+- Fold social media marketing into sales/local service/media chapters, using the restaurant example as a practical bridge from service offer to measurable client outcome.
+- Pair this lecture with Lectures 176 and 177: Lecture 175 explains why social media marketing can be a business; Lectures 176 and 177 show tactical platform execution.
+
+### New tensions or contradictions
+
+- The lecture encourages online business entry, but repeatedly adds constraints: interest, daily work, marketing skill, capital, customer acquisition, portfolio proof, and platform reach.
+- Personal brand is praised as an owned audience asset, but the speaker also admits it may not support the creator full time early on. Preserve the bridge: sell content services while building the owned asset.
+- E-commerce is framed as scalable and durable, but also as one of the harder models. Avoid flattening it into either easy dropshipping optimism or avoidance.
+- Online courses are presented as valuable, but mostly as an additional income stream. Do not overstate them as a standalone business system without further evidence.
+- Dollar figures are concrete interview claims but not guarantees: brand deals `$500-$5,000`, retainers `$500-$1,500`.
+
+### Frame or diagram opportunities
+
+- No validated screenshot assets exist for this lecture.
+- Useful transcript-derived visuals:
+  - Vertical selection chain: interest → repeated work → skill/audience/portfolio → income path.
+  - Five-model comparison: model → asset built → buyer/audience → first channel → main bottleneck.
+  - Creator bridge: personal brand under construction + brand content services → cash flow while audience grows.
+  - Social media marketing chain: good local product/service → weak online visibility → monthly management → content plus ads → reach/possible return.
+- Label diagrams as transcript-derived; no screenshot pairing is needed.
+
+### Next rewrite implications
+
+- Use Lecture 175 to give the dynamic book a clear online-business map without turning the book into a listicle.
+- Preserve anecdote/claim/mechanism separation:
+  - Claim: five online models are plausible starting points.
+  - Evidence: named platforms and example dollar ranges.
+  - Mechanism: each model converts a different asset into income through a different channel and bottleneck.
+- Strengthen the book’s recurring “asset, buyer, channel, constraint” framework:
+  - creator work: audience/content skill,
+  - editing: portfolio and saved time,
+  - e-commerce: product and brand,
+  - social media marketing: visibility and reach for local businesses,
+  - courses: packaged expertise.
+- This lecture is especially useful as connective tissue between starting, media leverage, selling services, product ownership, and course/knowledge monetization.
