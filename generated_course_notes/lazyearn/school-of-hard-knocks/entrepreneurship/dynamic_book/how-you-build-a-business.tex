@@ -4887,4 +4887,119 @@ It is helpful to keep the layers distinct:
 
 That is why this short lecture belongs in the scale-and-credibility chapter rather than in a generic technology chapter. Its lesson is not that technical people can someday become executives by abandoning technical work. Its lesson is that technical work, when repeatedly tested against real systems and real people, can widen into operating judgment.
 
+% --- Lecture 147 additions: Asking A Tech Millionaire How To Start & Scale a Tech Company ---
+% restructure plan: strengthen \chapter{Evidence Before Capital} with the missing founder-side sequence between lecture 123's demonstrable-artifact rule and lecture 130's investor-side screen.
+% new evidence: lecture 147 adds viability/TAM interviews, pilot-before-MVP, the distinction between a substantial problem and a scalable business, and a no-magic-number traction rule with revenue/MRR direction.
+% placement note: move \section{Pilot Before the MVP} after \section{The Funding Question}, and \section{No Magic Number, Only Direction} after \section{What the Investor Screens For}.
+
+\section{Pilot Before the MVP}
+
+Lecture 123 established an evidence rule for funding: an idea becomes easier to back once it can be demonstrated. Lecture 147 pushes the book one stage earlier. John Abraham is not speaking as a first-time enthusiast. He describes a company launched in \(2014\), exited in \(2018\), and then a second startup, Haymaker, built afterward. From that second-pass position, his first rule is not ``build faster.'' It is ``understand the market before you create anything.''
+
+The lecture names two early objects. One is the viability of the product. The other is the total addressable market, or \(\mathrm{TAM}\). Neither is treated as a spreadsheet exercise first. The practical move is to interview as many potential clients as possible, especially the decision-makers in the relevant space. The founder asks what they are struggling with and what solving the problem would mean for the company.
+
+The sequence is earlier and narrower than a prototype pitch:
+\[
+\text{need observed}
+\;\longrightarrow\;
+\text{decision-maker interviews}
+\;\longrightarrow\;
+\text{pain and value clarified}
+\;\longrightarrow\;
+\text{pilot commitment}
+\;\longrightarrow\;
+\mathrm{MVP}.
+\]
+In that order, the operative gate is
+\[
+\text{build the }\mathrm{MVP}
+\;\Leftarrow\;
+\text{early pilot commitment}.
+\]
+
+\subsection{Question \& Answer}
+
+\paragraph{Question.}
+What is the first step from idea to action?
+
+\paragraph{Answer.}
+Not immediate construction. Abraham's answer is to test whether the market itself can describe the pain in a way that makes the business case legible. That is why the first ask is not yet, ``Will you buy this?'' It is closer to, ``What are your challenges, and what would solving them mean for your company?'' Only after that does the founder try to secure a pilot.
+
+This adds a useful refinement to the capital chapter. Lecture 123 said demonstrable evidence beats idea-only fundraising. Lecture 147 shows that one of the strongest early forms of evidence may arrive before a polished demo: a decision-maker is willing to pilot the solution once the pain and value are clear.
+
+\begin{figure}
+\centering
+\begin{tikzpicture}
+\node[draw, align=center, text width=0.64\linewidth] (a) at (0,0) {Recognize a need\\in some market};
+\node[draw, align=center, text width=0.64\linewidth] (b) at (0,-1.45) {Interview many potential clients,\\especially decision-makers};
+\node[draw, align=center, text width=0.64\linewidth] (c) at (0,-2.90) {Clarify the pain and the\\business value of solving it};
+\node[draw, align=center, text width=0.64\linewidth] (d) at (0,-4.35) {Secure an early\\pilot commitment};
+\node[draw, align=center, text width=0.64\linewidth] (e) at (0,-5.80) {Then build the\\\(\mathrm{MVP}\)};
+\draw[->] (a) -- (b);
+\draw[->] (b) -- (c);
+\draw[->] (c) -- (d);
+\draw[->] (d) -- (e);
+\end{tikzpicture}
+\caption{Lecture 147 adds a transcript-derived customer-development ladder: decision-maker evidence and pilot commitment come before the \(\mathrm{MVP}\).}
+\end{figure}
+
+\section{No Magic Number, Only Direction}
+
+The next contribution of lecture 147 is that it tightens what the book means by ``evidence.'' A founder may have a real problem, a team, and money already being spent, and still not yet have a business in the stronger sense. Abraham's correction is sharp:
+\[
+\text{substantial problem alone}
+\;\not\Rightarrow\;
+\text{great business}.
+\]
+What is missing is not seriousness of the pain. What is missing is a repeatable path to customers:
+\[
+\text{great business idea}
+\;\Rightarrow\;
+\bigl(\text{substantial problem}\bigr)
+\land
+\bigl(\text{customer acquisition can scale}\bigr).
+\]
+
+That distinction belongs in this chapter because it bridges lectures 123 and 130. Lecture 123 said the founder should reduce uncertainty before asking for money. Lecture 130 said the investor looks at idea, team, market, stage, and support needs. Lecture 147 fills the middle: the founder should not confuse a meaningful problem with an investable business until customer acquisition starts to look repeatable.
+
+\subsection{Question \& Answer}
+
+\paragraph{Question.}
+What do investors really need to see before funding a young business?
+
+\paragraph{Answer.}
+Abraham's answer is notable because it refuses a sacred threshold. There is no magic number that automatically makes a company fundable. The stronger rule is directional:
+\[
+\text{ready for investment}
+\;\Rightarrow\;
+\bigl(\text{potential}\bigr)
+\land
+\bigl(\text{repeatable customer acquisition}\bigr)
+\land
+\bigl(\text{plan}\bigr).
+\]
+The lecture then makes the directional evidence slightly more concrete. Ideally both revenue and monthly recurring revenue move upward month by month:
+\[
+R_{t+1}>R_t,
+\qquad
+\mathrm{MRR}_{t+1}>\mathrm{MRR}_t.
+\]
+
+This improves the book's capital arc in a careful way. Lecture 130 gave approximate venture ranges and stage bands. Lecture 147 says those ranges should not be mistaken for a universal threshold. The business becomes more fundable not because it has crossed one mystical number, but because the investor can now see direction: the company can acquire customers repeatedly, the founder has a plan, and the commercial surface is moving the right way.
+
+The interview's final correction is strategic. Fundraising should follow traction, not replace it. Build and test as cheaply as possible, generate some revenue if possible, reinvest into broader traction, and only then take the company out for outside capital. In compact form,
+\[
+\text{market evidence}
+\;\longrightarrow\;
+\text{traction}
+\;\longrightarrow\;
+\text{repeatability}
+\;\longrightarrow\;
+\text{capital conversation}.
+\]
+
+\begin{remark}
+Lecture 147 should sit beside lectures 123, 130, and 114, not replace them. Lecture 123 says ideas need demonstrable evidence. Lecture 130 says investors screen idea, team, market, and stage. Lecture 114 warns that capital pursuit itself can consume attention. Lecture 147 adds the missing founder-side progression from interviews, to pilots, to traction, to a funding case that is directional rather than magical.
+\end{remark}
+
 \end{document}
