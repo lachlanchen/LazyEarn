@@ -768,3 +768,49 @@
   - Claim: most businesses do not produce large owner upside; diversification should wait; tools alone do not create real scale.
   - Mechanism: concentrated competence creates surplus, media expands trust, sales builds judgment, people multiply execution, and energy control preserves operating capacity.
 - Add `Question & Answer` beats around: “Should everyone start a business?”, “Why not diversify immediately?”, and “Why can’t sales skill be learned from a textbook?”
+
+## Lecture 120 integration: CEO shares tips on how to keep motivated in creating more companies？
+
+### New evidence
+
+- Adds the clearest post-exit motivation case so far: the speaker worked very hard while young, sold his company, burned out, bought a large yacht, and traveled the world for years before realizing that leisure alone would not be a durable life structure.
+- Strengthens the resilience thread by showing the opposite side of burnout: after overwork comes escape, but after escape can come boredom. Founder health is not only avoiding too much work; it is also avoiding unstructured drift after success.
+- Adds a concrete boredom-risk warning: “happy hour can get earlier and earlier every day.” Treat this as an interview-based behavioral warning, not medical advice.
+- Adds a temperament claim: creative entrepreneurs “can’t sit still” and are “always going to create.” Keep this as the speaker’s self-reading and a useful pattern, not a universal rule about all founders.
+- Adds a clean mechanism for motivation after success: acknowledge the creative drive and choose work that is genuinely interesting, which explains the speaker’s different businesses and sub-careers.
+
+### Conservative restructure plan
+
+- Add Lecture 120 to the founder-capacity/resilience chapter after the material on burnout, balance, and protected routines:
+  - Lecture 111: energy and emotion must be allocated.
+  - Lecture 121: exercise and co-founder structure protect capacity.
+  - Lecture 122/127/165: life, family, health, and time boundaries shape sustainable work.
+  - Lecture 120: after an exit, freedom itself needs creative structure or it can become boredom.
+- Add a short “after the exit” subsection in the wealth/judgment arc. Use this lecture beside Lecture 127’s warning that money alone can leave a person without relationships or meaning.
+- Use this as a `Question & Answer` beat: “If financial freedom was the goal, why did it become unstable?” Answer: because freedom without structure became boredom, and boredom created risk until creative work was chosen again.
+- Do not make Lecture 120 a permanent standalone chapter unless the book needs a brief bridge between wealth outcomes and resilience. Its evidence should feed motivation, post-exit judgment, life design, and creative fit.
+
+### New tensions or contradictions
+
+- Several balance lectures protect the founder from too much work; Lecture 120 adds that too little structured work after success can also become dangerous.
+- Lecture 114 treats not taking outside capital as preserving focus inside a growing company; Lecture 120 shows what happens after the company is gone and focus must be rebuilt around chosen work.
+- The yacht/travel story can sound like a success fantasy, but in the transcript it functions as evidence that leisure was tried seriously and still did not solve the motivation problem.
+- Avoid converting “entrepreneurs always create” into doctrine. The book should frame it as one speaker’s entrepreneurial temperament and a recurring pattern across builders, not a moral obligation to keep starting companies.
+
+### Frame or diagram opportunities
+
+- No validated screenshot assets exist for this lecture.
+- Useful transcript-derived visuals:
+  - Narrow vertical causal chain: intense early work → company sale → burnout → yacht/travel → boredom → risk drift → acknowledge creative drive → interesting work.
+  - Compact distinction table: anecdote, claim, mechanism.
+  - Post-exit tension model: financial freedom removes pressure, but does not automatically create direction.
+- Label any visual as transcript-derived; no screenshot pairing is needed.
+
+### Next rewrite implications
+
+- Use Lecture 120 to make the book’s resilience material more complete: the goal is not simply less work, but the right structure for energy, attention, and creative drive.
+- Preserve anecdote/claim/mechanism separation:
+  - Anecdote: early hard work, company sale, burnout, large yacht, years of travel.
+  - Claim: entrepreneurs and creative people often cannot sit still and will keep creating.
+  - Mechanism: boredom creates risk; interesting work gives the creative drive a healthier object.
+- In the dynamic book arc, this evidence belongs with resilience, judgment, wealth endpoints, and entrepreneurial identity. It helps the book argue that financial success is not the end of the operating problem; it changes the problem from survival to direction.
