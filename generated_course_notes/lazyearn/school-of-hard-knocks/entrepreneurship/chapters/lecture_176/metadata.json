@@ -1,0 +1,24 @@
+{
+  "course_rel": "lazyearn/school-of-hard-knocks/entrepreneurship",
+  "transcript_rel": "lazyearn/school-of-hard-knocks/entrepreneurship/176 - How To Grow FAST On Instagram and Facebook \uff5c Social Media Strategy [yQfItKAlNIM].md",
+  "video_rel": "lazyearn/school-of-hard-knocks/entrepreneurship/176 - How To Grow FAST On Instagram and Facebook \uff5c Social Media Strategy [yQfItKAlNIM].mkv",
+  "lecture_number": 176,
+  "lecture_slug": "lecture_176",
+  "lecture_title": "How To Grow FAST On Instagram and Facebook : Social Media Strategy",
+  "assets": [
+    {
+      "name": "lecture_176_figure_02.png",
+      "timestamp_seconds": 300.702,
+      "timestamp_hhmmss": "00:05:00.702",
+      "source_candidate": "lecture_176_window_04_candidate_04_000500702.png",
+      "recommended_use": "screenshot_only",
+      "rationale": "This frame keeps both analytics layouts fully visible and readable: the Reel Insights panel on the left and the Post Insights reach breakdown on the right. It is more useful than the talking-head-only candidate because it preserves concrete social media performance evidence and a visible reach chart.",
+      "subtitle_excerpt": "demographic of people. And the second thing is,",
+      "segment_start_seconds": 298.44,
+      "segment_start_hhmmss": "00:04:58.440",
+      "segment_end_seconds": 301.01,
+      "segment_end_hhmmss": "00:05:01.010",
+      "caption_hint": "Reel and post insights comparison"
+    }
+  ]
+}
