@@ -1444,3 +1444,42 @@
   - Claim: smaller commitment would have meant less upside.
   - Mechanism: controllable variables and risk tolerance determine whether and how much to commit.
 - Avoid presenting \(c/n\) as formal mathematics beyond a pocket-safe explanatory reconstruction.
+
+## Lecture 124 integration: Multi-millionaire shares tips on how to make money in every aspect of real estate
+
+### New evidence
+
+- Adds the cleanest real-estate-operator capability-stack evidence so far: after getting a real estate license, agents are often taught to do only one thing, such as listing, residential, buyer-side, commercial, investing avoidance, or no wholesaling.
+- Introduces TRE’s explicit reclassification of its people as `entrepreneurs`, meaning broader real estate professionals rather than one-lane agents.
+- Adds a practical market-shift mechanism: if the market changes and the agent does not know “this or that,” earning capacity and success become limited.
+- Adds the phrase “make money in and on real estate” as a compact real-estate wealth-building frame. Treat the split as meaningful but undefined; brokerage, investing, and wholesaling are transcript-backed, but any fuller taxonomy is editorial.
+- Strengthens Lecture 125’s real-estate arena-selection material by showing what operating breadth inside that arena can mean after entry.
+
+### Conservative restructure plan
+
+- Fold this lecture into the arena-selection and real-estate wealth-building material rather than making it a standalone chapter.
+- Place it after Lecture 125’s “real estate as accessible arena” evidence: Lecture 125 says real estate can be a recommended arena; Lecture 124 explains that entering the arena through a license is not enough if the operator stays trapped in one lane.
+- Add a short subsection in the operations/judgment arc around “capability breadth inside one chosen arena.” Use real estate as the named case.
+- Add a `Question & Answer` beat: “Why not simply specialize in one real estate lane?” Answer: because a market shift can cap the income of a professional who cannot move across adjacent lanes.
+
+### New tensions or contradictions
+
+- This lecture appears to favor breadth, while Lectures 107 and 170 argue against early diversification. Reconcile by distinguishing horizontal diversification across businesses from vertical capability stacking inside one chosen business arena.
+- The speaker critiques one-lane brokerage training, but gives no detailed curriculum, revenue examples, commission rates, deal economics, or proof that every lane should be pursued equally.
+- “In and on real estate” should not be over-defined. The transcript supports brokerage, investing, and wholesaling as relevant lanes, but does not provide a complete map of all real estate income paths.
+
+### Frame or diagram opportunities
+
+- No validated screenshot assets exist for this lecture; rejected frames were talking-head subtitle shots.
+- Useful transcript-derived visual: narrow vertical flow from license → one-lane training → market shift → income ceiling → TRE entrepreneur → money in/on real estate.
+- Optional compact two-column comparison: one-lane agent versus capability-stack real estate entrepreneur.
+- Keep any diagram narrow, vertical, and explicitly transcript-derived; no screenshot pairing is needed.
+
+### Next rewrite implications
+
+- Use Lecture 124 to sharpen the book’s real-estate section: real estate is not only an asset class or recommended industry, but also a field where the operator’s capability set determines adaptability.
+- Preserve anecdote/claim/mechanism separation:
+  - Anecdote/context: TRE calls its people entrepreneurs after observing narrow brokerage training.
+  - Claim: a true real estate professional should not be limited to one thing.
+  - Mechanism: market shifts expose single-lane operators; broader capability stacking gives more ways to earn in and on real estate.
+- In the dynamic book arc, this evidence should feed starting, arena selection, operations, wealth building, risk, and judgment.
