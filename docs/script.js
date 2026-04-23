@@ -395,6 +395,95 @@ const pdfEntries = {
     publication:
       "https://github.com/lachlanchen/LazyEarn/blob/main/how-you-got-happiness-publication/README.md",
   },
+  "how-you-got-happiness-course-notes": {
+    aliases: ["krishnamurti-course-notes", "how-you-got-happiness-notes"],
+    title: "How You Got Happiness? (Course Notes)",
+    description:
+      "The lecture-by-lecture source-course edition behind the dynamic Krishnamurti book, published as its own readable PDF.",
+    pdf: "publications/how-you-got-happiness/how-you-got-happiness-course-notes.pdf",
+    download: "publications/how-you-got-happiness/how-you-got-happiness-course-notes.pdf",
+    markdown:
+      "https://github.com/lachlanchen/LazyEarn/blob/main/how-you-got-happiness-publication/README.md",
+    publication:
+      "https://github.com/lachlanchen/LazyEarn/blob/main/how-you-got-happiness-publication/README.md",
+    grid: false,
+  },
+  "how-you-got-happiness-pocket-1-2x": {
+    aliases: ["how-you-got-happiness-pocket-1.2x", "how-you-got-happiness-pocket-1_2x"],
+    title: "How You Got Happiness? (Pocket 1.2x)",
+    description:
+      "The 1.2x pocket edition of the Krishnamurti dynamic book, tuned for e-ink and tablet reading.",
+    pdf: "publications/how-you-got-happiness/how-you-got-happiness-pocket-1.2x.pdf",
+    download: "publications/how-you-got-happiness/how-you-got-happiness-pocket-1.2x.pdf",
+    markdown:
+      "https://github.com/lachlanchen/LazyEarn/blob/main/how-you-got-happiness-publication/README.md",
+    publication:
+      "https://github.com/lachlanchen/LazyEarn/blob/main/how-you-got-happiness-publication/README.md",
+    grid: false,
+  },
+  "how-you-got-rich": {
+    aliases: ["hard-knocks-dynamic-book", "how-you-got-rich-book"],
+    title: "How You Got Rich?",
+    description:
+      "A nonlinear wealth-and-business manuscript distilled from the Hard Knocks interview corpus into recurring mechanisms, judgment patterns, and commercial lessons.",
+    pdf: "publications/how-you-got-rich/how-you-got-rich.pdf",
+    download: "publications/how-you-got-rich/how-you-got-rich.pdf",
+    markdown:
+      "https://github.com/lachlanchen/LazyEarn/tree/main/generated_course_notes/lazyearn/school-of-hard-knocks/hard-knocks-interviews/dynamic_book",
+    publication:
+      "https://github.com/lachlanchen/LazyEarn/tree/main/how-you-got-rich-publication",
+  },
+  "how-you-got-rich-pocket-1-2x": {
+    aliases: ["how-you-got-rich-pocket-1.2x", "how-you-got-rich-pocket-1_2x"],
+    title: "How You Got Rich? (Pocket 1.2x)",
+    description:
+      "The 1.2x pocket edition of the Hard Knocks dynamic wealth manuscript for tablet and e-ink reading.",
+    pdf: "publications/how-you-got-rich/how-you-got-rich-pocket-1.2x.pdf",
+    download: "publications/how-you-got-rich/how-you-got-rich-pocket-1.2x.pdf",
+    markdown:
+      "https://github.com/lachlanchen/LazyEarn/tree/main/generated_course_notes/lazyearn/school-of-hard-knocks/hard-knocks-interviews/dynamic_book",
+    publication:
+      "https://github.com/lachlanchen/LazyEarn/tree/main/how-you-got-rich-publication",
+    grid: false,
+  },
+  "how-you-got-successful": {
+    aliases: ["jim-rohn-success", "how-you-got-successful-book"],
+    title: "How You Got Successful?",
+    description:
+      "A reordered Jim Rohn lecture book on discipline, agency, planning, salesmanship, value, and durable personal growth.",
+    pdf: "publications/how-you-got-successful/how-you-got-successful.pdf",
+    download: "publications/how-you-got-successful/how-you-got-successful.pdf",
+    markdown:
+      "https://github.com/lachlanchen/LazyEarn/tree/main/generated_course_notes/lazyearn/jim-rohn-originals-no-ai",
+    publication:
+      "https://github.com/lachlanchen/LazyEarn/tree/main/how-you-got-successful-publication",
+  },
+  "how-you-got-successful-pocket-1-0x": {
+    aliases: ["how-you-got-successful-pocket-1.0x", "how-you-got-successful-pocket-1_0x"],
+    title: "How You Got Successful? (Pocket 1.0x)",
+    description:
+      "The 1.0x pocket edition of the Jim Rohn success book, optimized for smaller devices while keeping the full manuscript intact.",
+    pdf: "publications/how-you-got-successful/how-you-got-successful-pocket-1.0x.pdf",
+    download: "publications/how-you-got-successful/how-you-got-successful-pocket-1.0x.pdf",
+    markdown:
+      "https://github.com/lachlanchen/LazyEarn/tree/main/generated_course_notes/lazyearn/jim-rohn-originals-no-ai",
+    publication:
+      "https://github.com/lachlanchen/LazyEarn/tree/main/how-you-got-successful-publication",
+    grid: false,
+  },
+  "how-you-got-successful-pocket-1-2x": {
+    aliases: ["how-you-got-successful-pocket-1.2x", "how-you-got-successful-pocket-1_2x"],
+    title: "How You Got Successful? (Pocket 1.2x)",
+    description:
+      "The 1.2x pocket edition of the Jim Rohn success book, tuned for e-ink and tablet reading.",
+    pdf: "publications/how-you-got-successful/how-you-got-successful-pocket-1.2x.pdf",
+    download: "publications/how-you-got-successful/how-you-got-successful-pocket-1.2x.pdf",
+    markdown:
+      "https://github.com/lachlanchen/LazyEarn/tree/main/generated_course_notes/lazyearn/jim-rohn-originals-no-ai",
+    publication:
+      "https://github.com/lachlanchen/LazyEarn/tree/main/how-you-got-successful-publication",
+    grid: false,
+  },
   "10-questions-with-a-millionaire": {
     aliases: ["ten-questions-with-a-millionaire", "10-questions", "millionaire-questions"],
     title: "10 Questions With a Millionaire",
@@ -407,6 +496,23 @@ const pdfEntries = {
     publication:
       "https://github.com/lachlanchen/LazyEarn/blob/main/10-questions-with-a-millionaire-publication/README.md",
   },
+  "10-questions-with-a-millionaire-pocket-1-2x": {
+    aliases: [
+      "10-questions-with-a-millionaire-pocket-1.2x",
+      "10-questions-with-a-millionaire-pocket-1_2x",
+    ],
+    title: "10 Questions With a Millionaire (Pocket 1.2x)",
+    description:
+      "The 1.2x pocket edition of the millionaire interview field book, published for tablet and e-ink reading.",
+    pdf: "publications/10-questions-with-a-millionaire/10-questions-with-a-millionaire-pocket-1.2x.pdf",
+    download:
+      "publications/10-questions-with-a-millionaire/10-questions-with-a-millionaire-pocket-1.2x.pdf",
+    markdown:
+      "https://github.com/lachlanchen/LazyEarn/blob/main/10-questions-with-a-millionaire-publication/README.md",
+    publication:
+      "https://github.com/lachlanchen/LazyEarn/blob/main/10-questions-with-a-millionaire-publication/README.md",
+    grid: false,
+  },
   "ten-questions-that-build-wealth": {
     aliases: ["10-questions-dynamic", "questions-that-build-wealth", "millionaire-dynamic-book"],
     title: "Ten Questions That Build Wealth",
@@ -418,6 +524,137 @@ const pdfEntries = {
       "https://github.com/lachlanchen/LazyEarn/blob/main/10-questions-with-a-millionaire-publication/README.md",
     publication:
       "https://github.com/lachlanchen/LazyEarn/blob/main/10-questions-with-a-millionaire-publication/README.md",
+  },
+  "ten-questions-that-build-wealth-pocket-1-2x": {
+    aliases: [
+      "ten-questions-that-build-wealth-pocket-1.2x",
+      "ten-questions-that-build-wealth-pocket-1_2x",
+    ],
+    title: "Ten Questions That Build Wealth (Pocket 1.2x)",
+    description:
+      "The 1.2x pocket edition of the dynamic question-led wealth book synthesized from the millionaire interviews.",
+    pdf: "publications/10-questions-with-a-millionaire/ten-questions-that-build-wealth-pocket-1.2x.pdf",
+    download:
+      "publications/10-questions-with-a-millionaire/ten-questions-that-build-wealth-pocket-1.2x.pdf",
+    markdown:
+      "https://github.com/lachlanchen/LazyEarn/blob/main/10-questions-with-a-millionaire-publication/README.md",
+    publication:
+      "https://github.com/lachlanchen/LazyEarn/blob/main/10-questions-with-a-millionaire-publication/README.md",
+    grid: false,
+  },
+  "yale-financial-markets-pocket-1-0x": {
+    aliases: ["yale-financial-markets-pocket-1.0x", "yale-financial-markets-pocket-1_0x"],
+    title: "Yale Financial Markets notes (Pocket 1.0x)",
+    description:
+      "The 1.0x pocket edition of the Yale Financial Markets course publication with the shared Video2Book narrow-page layout fixes.",
+    pdf: "publications/yale-financial-markets/yale-financial-markets-pocket-1.0x.pdf",
+    download: "publications/yale-financial-markets/yale-financial-markets-pocket-1.0x.pdf",
+    markdown:
+      "https://github.com/lachlanchen/LazyEarn/blob/main/yale-financial-markets-publication/README.md",
+    publication:
+      "https://github.com/lachlanchen/LazyEarn/blob/main/yale-financial-markets-publication/README.md",
+    grid: false,
+  },
+  "yale-financial-markets-pocket-1-2x": {
+    aliases: ["yale-financial-markets-pocket-1.2x", "yale-financial-markets-pocket-1_2x"],
+    title: "Yale Financial Markets notes (Pocket 1.2x)",
+    description:
+      "The 1.2x pocket edition of the Yale Financial Markets course publication for e-ink and tablet reading.",
+    pdf: "publications/yale-financial-markets/yale-financial-markets-pocket-1.2x.pdf",
+    download: "publications/yale-financial-markets/yale-financial-markets-pocket-1.2x.pdf",
+    markdown:
+      "https://github.com/lachlanchen/LazyEarn/blob/main/yale-financial-markets-publication/README.md",
+    publication:
+      "https://github.com/lachlanchen/LazyEarn/blob/main/yale-financial-markets-publication/README.md",
+    grid: false,
+  },
+  "mit-nuts-and-bolts-of-new-ventures-pocket-1-2x": {
+    aliases: [
+      "mit-nuts-and-bolts-of-new-ventures-pocket-1.2x",
+      "mit-nuts-and-bolts-of-new-ventures-pocket-1_2x",
+    ],
+    title: "MIT Nuts and Bolts of New Ventures (Pocket 1.2x)",
+    description:
+      "The 1.2x pocket edition of the MIT New Ventures course publication for e-ink and tablet reading.",
+    pdf: "publications/mit-nuts-and-bolts-of-new-ventures/mit-nuts-and-bolts-of-new-ventures-pocket-1.2x.pdf",
+    download:
+      "publications/mit-nuts-and-bolts-of-new-ventures/mit-nuts-and-bolts-of-new-ventures-pocket-1.2x.pdf",
+    markdown:
+      "https://github.com/lachlanchen/LazyEarn/blob/main/mit-nuts-and-bolts-of-new-ventures-publication/README.md",
+    publication:
+      "https://github.com/lachlanchen/LazyEarn/blob/main/mit-nuts-and-bolts-of-new-ventures-publication/README.md",
+    grid: false,
+  },
+  "the-way-to-wealth-freedom-notes-pocket-1-2x": {
+    aliases: [
+      "the-way-to-wealth-freedom-notes-pocket-1.2x",
+      "the-way-to-wealth-freedom-notes-pocket-1_2x",
+    ],
+    title: "The Way to Wealth Freedom (Pocket 1.2x)",
+    description:
+      "The 1.2x pocket edition of the 55-chapter wealth-freedom material book, tuned for tablet and e-ink reading.",
+    pdf: "publications/the-way-to-wealth-freedom-notes/the-way-to-wealth-freedom-notes-pocket-1.2x.pdf",
+    download:
+      "publications/the-way-to-wealth-freedom-notes/the-way-to-wealth-freedom-notes-pocket-1.2x.pdf",
+    markdown:
+      "https://github.com/lachlanchen/LazyEarn/blob/main/the-way-to-wealth-freedom-notes-publication/README.md",
+    publication:
+      "https://github.com/lachlanchen/LazyEarn/blob/main/the-way-to-wealth-freedom-notes-publication/README.md",
+    grid: false,
+  },
+  "hard-knocks-interviews": {
+    aliases: ["hard-knocks", "hard-knocks-corpus"],
+    title: "Hard Knocks Interviews",
+    description:
+      "The full interview-corpus source volume behind the richer Hard Knocks synthesis books, preserved as a direct lecture-by-lecture evidence record.",
+    pdf: "publications/hard-knocks-interviews/hard-knocks-interviews.pdf",
+    download: "publications/hard-knocks-interviews/hard-knocks-interviews.pdf",
+    markdown:
+      "https://github.com/lachlanchen/LazyEarn/tree/main/generated_course_notes/lazyearn/school-of-hard-knocks/hard-knocks-interviews",
+    publication:
+      "https://github.com/lachlanchen/LazyEarn/tree/main/hard-knocks-interviews-publication",
+  },
+  "hard-knocks-interviews-pocket-1-2x": {
+    aliases: ["hard-knocks-interviews-pocket-1.2x", "hard-knocks-interviews-pocket-1_2x"],
+    title: "Hard Knocks Interviews (Pocket 1.2x)",
+    description:
+      "The 1.2x pocket edition of the Hard Knocks interview corpus for e-ink and tablet reading.",
+    pdf: "publications/hard-knocks-interviews/hard-knocks-interviews-pocket-1.2x.pdf",
+    download: "publications/hard-knocks-interviews/hard-knocks-interviews-pocket-1.2x.pdf",
+    markdown:
+      "https://github.com/lachlanchen/LazyEarn/tree/main/generated_course_notes/lazyearn/school-of-hard-knocks/hard-knocks-interviews",
+    publication:
+      "https://github.com/lachlanchen/LazyEarn/tree/main/hard-knocks-interviews-publication",
+    grid: false,
+  },
+  "wealth-from-first-principles-pocket-1-0x": {
+    aliases: [
+      "wealth-from-first-principles-pocket-1.0x",
+      "wealth-from-first-principles-pocket-1_0x",
+      "wealth-pocket-1.0x",
+    ],
+    title: "Wealth from first principles (Pocket 1.0x)",
+    description:
+      "The 1.0x pocket edition of the field guide on money, wealth, debt, and ownership.",
+    pdf: "investment_pdfs/wealth-from-first-principles/wealth-from-first-principles_pocket.pdf",
+    download: "investment_pdfs/wealth-from-first-principles/wealth-from-first-principles_pocket.pdf",
+    markdown: "https://github.com/lachlanchen/LazyEarn/blob/main/investment/wealth-from-first-principles.md",
+    grid: false,
+  },
+  "wealth-from-first-principles-pocket-1-2x": {
+    aliases: [
+      "wealth-from-first-principles-pocket-1.2x",
+      "wealth-from-first-principles-pocket-1_2x",
+      "wealth-pocket-1.2x",
+    ],
+    title: "Wealth from first principles (Pocket 1.2x)",
+    description:
+      "The 1.2x pocket edition of the field guide on money, wealth, debt, and ownership.",
+    pdf: "investment_pdfs/wealth-from-first-principles/wealth-from-first-principles_pocket_1_2x.pdf",
+    download:
+      "investment_pdfs/wealth-from-first-principles/wealth-from-first-principles_pocket_1_2x.pdf",
+    markdown: "https://github.com/lachlanchen/LazyEarn/blob/main/investment/wealth-from-first-principles.md",
+    grid: false,
   },
   "financial-freedom-zh": {
     aliases: ["financial_freedom_zh", "financial-freedom-zh-cn", "financial-freedom-cn"],
@@ -432,6 +669,54 @@ const pdfEntries = {
       "https://github.com/lachlanchen/LazyEarn/blob/main/investment/financial_freedom_zh.md",
     grid: false,
   },
+};
+
+const readerRouteRewrites = {
+  "investment_pdfs/wealth-from-first-principles/wealth-from-first-principles.pdf":
+    "wealth-from-first-principles",
+  "investment_pdfs/wealth-from-first-principles/wealth-from-first-principles_pocket.pdf":
+    "wealth-from-first-principles-pocket-1-0x",
+  "investment_pdfs/wealth-from-first-principles/wealth-from-first-principles_pocket_1_2x.pdf":
+    "wealth-from-first-principles-pocket-1-2x",
+  "publications/the-way-to-wealth-freedom-notes/the-way-to-wealth-freedom-notes.pdf":
+    "the-way-to-wealth-freedom-notes",
+  "publications/the-way-to-wealth-freedom-notes/the-way-to-wealth-freedom-notes-pocket-1.2x.pdf":
+    "the-way-to-wealth-freedom-notes-pocket-1-2x",
+  "publications/how-you-got-rich/how-you-got-rich.pdf": "how-you-got-rich",
+  "publications/how-you-got-rich/how-you-got-rich-pocket-1.2x.pdf":
+    "how-you-got-rich-pocket-1-2x",
+  "publications/how-you-got-successful/how-you-got-successful.pdf": "how-you-got-successful",
+  "publications/how-you-got-successful/how-you-got-successful-pocket-1.0x.pdf":
+    "how-you-got-successful-pocket-1-0x",
+  "publications/how-you-got-successful/how-you-got-successful-pocket-1.2x.pdf":
+    "how-you-got-successful-pocket-1-2x",
+  "all_notes/pocket_books/how-you-got-successful_pocket.pdf":
+    "how-you-got-successful-pocket-1-0x",
+  "publications/how-you-got-happiness/how-you-got-happiness.pdf": "how-you-got-happiness",
+  "publications/how-you-got-happiness/how-you-got-happiness-pocket-1.2x.pdf":
+    "how-you-got-happiness-pocket-1-2x",
+  "publications/how-you-got-happiness/how-you-got-happiness-course-notes.pdf":
+    "how-you-got-happiness-course-notes",
+  "publications/10-questions-with-a-millionaire/10-questions-with-a-millionaire.pdf":
+    "10-questions-with-a-millionaire",
+  "publications/10-questions-with-a-millionaire/10-questions-with-a-millionaire-pocket-1.2x.pdf":
+    "10-questions-with-a-millionaire-pocket-1-2x",
+  "publications/10-questions-with-a-millionaire/ten-questions-that-build-wealth.pdf":
+    "ten-questions-that-build-wealth",
+  "publications/10-questions-with-a-millionaire/ten-questions-that-build-wealth-pocket-1.2x.pdf":
+    "ten-questions-that-build-wealth-pocket-1-2x",
+  "publications/yale-financial-markets/yale-financial-markets.pdf": "yale-financial-markets-notes",
+  "publications/yale-financial-markets/yale-financial-markets-pocket-1.0x.pdf":
+    "yale-financial-markets-pocket-1-0x",
+  "publications/yale-financial-markets/yale-financial-markets-pocket-1.2x.pdf":
+    "yale-financial-markets-pocket-1-2x",
+  "publications/mit-nuts-and-bolts-of-new-ventures/mit-nuts-and-bolts-of-new-ventures.pdf":
+    "mit-nuts-and-bolts-of-new-ventures",
+  "publications/mit-nuts-and-bolts-of-new-ventures/mit-nuts-and-bolts-of-new-ventures-pocket-1.2x.pdf":
+    "mit-nuts-and-bolts-of-new-ventures-pocket-1-2x",
+  "publications/hard-knocks-interviews/hard-knocks-interviews.pdf": "hard-knocks-interviews",
+  "publications/hard-knocks-interviews/hard-knocks-interviews-pocket-1.2x.pdf":
+    "hard-knocks-interviews-pocket-1-2x",
 };
 
 const DEFAULT_RESEARCH_SLUG = "wealth-from-first-principles";
@@ -506,6 +791,7 @@ function buildViewerHref(slug, useQuery = false) {
   setupObserver();
   setupParallax();
   setupResearchCatalog();
+  setupReaderRouteRewrites();
   setupBookCarousel();
   setupShelfCarousel();
   setupStandaloneViewer();
@@ -906,6 +1192,19 @@ function setupResearchCatalog() {
     if (!wiredSlugs.has(slug)) {
       console.warn(`[research-catalog] Entry "${slug}" has no matching .asset-card in index.html`);
     }
+  });
+}
+
+function setupReaderRouteRewrites() {
+  document.querySelectorAll("a[href]").forEach((anchor) => {
+    const rawHref = anchor.getAttribute("href");
+    const targetSlug = readerRouteRewrites[rawHref];
+    if (!targetSlug) {
+      return;
+    }
+    anchor.setAttribute("href", buildViewerHref(targetSlug));
+    anchor.removeAttribute("target");
+    anchor.removeAttribute("rel");
   });
 }
 
