@@ -1352,3 +1352,47 @@
   - Claim: if he failed, he could get a job.
   - Mechanism: when failure is recoverable, the cost of not trying may dominate the perceived downside.
 - In the dynamic book arc, this evidence should feed risk, judgment, starting, resilience, and life-system risk rather than becoming a standalone permanent chapter.
+
+## Lecture 119 integration: CEO shares the importance of risk to entrepreneurs
+
+### New evidence
+
+- Adds a more concrete runway version of the risk story already touched in Lecture 118: the speaker had a newborn on the way and was down to approximately \(\$1{,}000\) in his or his wife’s bank account.
+- Adds the clearest asset-to-runway mechanism so far: after quitting to write his first product, he sold the one asset he names, a motorcycle, and says that got them through “another month or two.”
+- Adds partner-capital evidence: after the motorcycle bridge, a future business partner came on board and contributed personal money. Treat this as shared financial exposure, not just emotional support or operating backup.
+- Clarifies that the entrepreneurial risk was tied to a productive bet: quitting was paired with writing the first product, not merely leaving employment.
+- Adds a compact capital sequence for the risk chapter: \(C_0 \approx \$1{,}000\) → \(C_1=C_0+A_{\mathrm{moto}}\) → \(C_2=C_1+K_{\mathrm{partner}}\). Keep all variables as reconstruction; the transcript does not give motorcycle proceeds, burn rate, or partner contribution.
+- The closing claim “all on the line” should be preserved as a retrospective claim after the cash, asset sale, partner money, and successful company sequence, not as generic motivational language.
+
+### Conservative restructure plan
+
+- Add Lecture 119 to the risk/capital chapter as a “runway under obligation” case, placed near Lecture 118’s downside-floor material and Lecture 179’s survival-before-scale baseline.
+- Use Lecture 118 for the failure-state framing: venture failure versus job fallback and regret.
+- Use Lecture 119 for the resource-conversion framing: limited cash, product work, selling an asset for time, and partner capital.
+- Pair Lecture 119 with Lecture 123 in the capital section: Lecture 119 shows self-funded runway before outside validation; Lecture 123 shows why a demonstrable product or sample helps when seeking funding.
+- Pair Lecture 119 cautiously with Lecture 121’s co-partner material: Lecture 121 frames a strong partner as operating redundancy and life-balance support; Lecture 119 frames partner participation as personal capital and shared exposure.
+- Do not make Lecture 119 a standalone permanent chapter unless the final book needs a short case study on founder runway; its evidence should feed risk, starting, capital, ownership, and judgment.
+
+### New tensions or contradictions
+
+- Lecture 118 frames the downside as recoverable employment, while Lecture 119 reveals severe near-term liquidity stress: a newborn, roughly \(\$1{,}000\), and selling a motorcycle for one or two more months. Preserve both; a recoverable ultimate downside does not erase short-term household pressure.
+- The story ended in a successful company, but the success should not be used to prove the initial risk was objectively rational. It should remain a retrospective outcome after a fragile runway sequence.
+- The partner line is transcript-garbled. Preserve only the reliable claim that a business partner came on board and put in personal money.
+- This may overlap heavily with Lecture 118’s risk episode; treat it as a second angle or deeper detail on the same risk theme unless later source review confirms it is a distinct speaker/story.
+
+### Frame or diagram opportunities
+
+- No validated screenshot assets exist for this lecture.
+- Useful transcript-derived visual: narrow vertical runway chain: newborn and \(\$1{,}000\) → quit and write first product → sell motorcycle → another month or two → partner contributes personal money → successful company.
+- Useful compact equation block: \(C_0 \approx \$1{,}000\), \(\Delta R_{\mathrm{moto}} \approx 1\text{--}2\) months, and \(R\approx(C_0+A_{\mathrm{moto}}+K_{\mathrm{partner}})/B\), with an explicit caveat that \(A_{\mathrm{moto}}\), \(K_{\mathrm{partner}}\), and \(B\) are not given.
+- No screenshot pairing is needed because no validated visual evidence remains.
+
+### Next rewrite implications
+
+- Use Lecture 119 to make the risk chapter less abstract: risk is not only a mindset or fear-of-failure loop; it can be modeled as cash, burn, asset conversion, and time.
+- Add a `Question & Answer` beat: “Was this calculated risk or recklessness?” Answer narrowly: the transcript does not prove rationality, but it shows the risk was carried through staged runway extensions.
+- Preserve anecdote/claim/mechanism separation:
+  - Anecdote: newborn on the way, last \(\$1{,}000\), quitting, motorcycle sale, partner contribution.
+  - Claim: saying he put it all on the line is not an understatement.
+  - Mechanism: remaining cash and liquidated assets buy time for product work until shared capital appears.
+- Avoid adding probability, valuation, equity split, motorcycle price, company name, revenue, or burn-rate calculations.
