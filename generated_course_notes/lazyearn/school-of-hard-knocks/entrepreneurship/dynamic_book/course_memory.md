@@ -1483,3 +1483,76 @@
   - Claim: a true real estate professional should not be limited to one thing.
   - Mechanism: market shifts expose single-lane operators; broader capability stacking gives more ways to earn in and on real estate.
 - In the dynamic book arc, this evidence should feed starting, arena selection, operations, wealth building, risk, and judgment.
+
+## Lecture 146 integration: Asking Strangers How Much MONEY They Make (Austin, Texas)
+
+### New evidence
+
+- The Austin street-interview format adds a useful cross-section around one guarded variable: `most money made in a single year`. The new book-wide distinction should be sharpened:
+  \[
+  I_{\text{year}} \neq R \neq \Pi \neq \text{net worth}
+  \]
+  This lecture supplies refusals, ranges, annual income claims, revenue claims, asset holdings, and retirement structures that should not be collapsed into one “wealth” category.
+
+- A neurotechnology entrepreneur adds a capital-structure warning: his biggest mistake was letting banks lend him money. He recommends self-funding, friends/family, and platform-based funding before bank debt. This should reinforce the funding chapter after Lecture 123’s “evidence before capital” theme: once funding is possible, the type of capital still matters.
+
+- The same entrepreneur adds an operations/leadership mechanism: “vertical managers” command from above, while “horizontal managers” sit at the table and work together. The important exception is preserved: in a critical moment, the leader may still pull rank and decide.
+
+- The VP of marketing adds a career-leverage case: startups let him touch many areas instead of being pigeonholed, and he reports “high six figures” while avoiding exact disclosure. This strengthens a skills chapter around role surface area, exposure, and faster learning.
+
+- The networking sequence gives the cleanest relationship principle so far: access gets a person into circles with people ahead of them, but value is what lets the relationship continue. Use the tension as a `Question & Answer` beat in the relationship chapter.
+
+- A medical-business owner adds quantified self-employment evidence: 26 years in medical, 17 years owning a stem-cell company, and over $4 million in revenue. Keep `R > \$4,000,000` as revenue only, not profit or personal income. His father’s advice, “people buy from people they like,” belongs with sales trust and relationship-based buying.
+
+- A former military professional adds the clearest asset-liquidity case: buying houses at duty stations, renting prior homes, holding four properties, and describing himself as cash poor but asset rich. This is strong support for an ownership/assets chapter:
+  \[
+  \text{net worth}=\text{liquid cash}+\text{illiquid assets}-\text{liabilities}.
+  \]
+
+- The construction entrepreneur adds volatility evidence: about \$650,000 in a year, but some months around \$75,000 and others around \$10,000. This should be used to distinguish entrepreneurial upside from salary smoothness.
+
+- The final interviews add durable-structure evidence outside pure entrepreneurship: LAPD plus celebrity weddings/security topping \$300,000, pension plus deferred compensation as two later-life buckets, and engineering as transferable problem-solving training for cybersecurity/privacy work.
+
+### Conservative restructure plan
+
+- Strengthen the funding chapter by adding a small subsection after proof/prototype funding: “capital as money plus obligation.” Use the bank-debt warning as one attributed case, not a universal rule.
+
+- Add a short operations subsection near the hiring/team material from Lecture 109: horizontal collaboration as the default, final authority reserved for critical moments.
+
+- In the networking chapter, preserve a standalone Q\&A: “Is success about who you know or what you can do?” Answer: access opens the door; value keeps the relationship alive.
+
+- In the ownership/assets chapter, combine this lecture’s real-estate case with prior wealth-classification material. The new emphasis is liquidity: owning assets is not the same as having usable cash.
+
+- Add the create/fix/replicate blueprint to the starting or opportunity-recognition chapter, then connect it to the construction entrepreneur’s “start at the end and work backward” planning method.
+
+### New tensions or contradictions
+
+- Do not merge the bank-debt warning with the real-estate leverage advice into one debt rule. The transcript presents bank debt for an uncertain operating business differently from asset-backed real-estate leverage.
+
+- The 5x to 10x recession opportunity claim must stay attributed and speculative. It should illustrate timing ambition, not a guaranteed investment model.
+
+- “Who you know, 100%” is immediately qualified by the value-exchange speaker. The book should keep both halves rather than choosing one slogan.
+
+- “Working for yourself is not for everybody” complicates the risk-taking advice. This is useful: the book should present self-employment as a pressure system, not as automatic freedom.
+
+- Neurotechnology, FDA-related, and stem-cell business claims should remain attributed interview claims, not verified scientific or regulatory conclusions.
+
+### Frame or diagram opportunities
+
+- No validated assets remain for this lecture. Do not include screenshots.
+
+- Transcript-derived, pocket-safe diagrams are useful:
+  - income vs revenue vs profit vs net worth;
+  - fixed debt obligation against uncertain surplus cash flow;
+  - vertical vs horizontal management with a critical-decision exception;
+  - access plus provided value;
+  - create, fix, replicate, then work backward;
+  - pension plus deferred compensation as two buckets.
+
+### Next rewrite implications
+
+- Use this lecture as a bridge chapter source rather than a standalone video chapter: it touches capital, operations, networking, risk, assets, planning, credentials, and retirement structures.
+
+- Preserve the street-interview rhythm where useful. The repeated income question is not a gimmick; it is the measuring device that reveals why income alone is a weak business metric.
+
+- When adding the evidence to thematic chapters, keep numbers close to speaker context: high six figures, over \$4 million revenue, four properties, \$500,000 to \$600,000, about \$650,000 with volatile months, topping \$300,000, 30 years LAPD, 17 years business ownership.
