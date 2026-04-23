@@ -1396,3 +1396,51 @@
   - Claim: saying he put it all on the line is not an understatement.
   - Mechanism: remaining cash and liquidated assets buy time for product work until shared capital appears.
 - Avoid adding probability, valuation, equity split, motorcycle price, company name, revenue, or burn-rate calculations.
+
+## Lecture 128 integration: How is important to take risks to become successful？
+
+### New evidence
+
+- Adds the clearest controllability heuristic so far: before taking a risk, ask whether it can be mitigated, fixed, or controlled.
+- Adds a concrete variable-counting contrast for the risk chapter: controlling `2` of `6` risky variables is framed as a bad “flyer,” while controlling `2` of `3` risky variables gives “a pretty good shot.”
+- Adds an explicit risk-tolerance layer: even after controllability is assessed, different entrepreneurs will accept different levels of remaining uncertainty.
+- Adds a named concentration-risk example: Elon Musk is described as putting basically what he made at PayPal into Tesla, with the speaker claiming that a smaller bet would not have led to being worth `$250 billion`. Treat this as a spoken interview claim, not verified valuation analysis.
+- Clarifies that risk is broader than finance: the answer begins from risks outside finance but resolves into a general control-and-tolerance mechanism that can apply to operations, capital, household pressure, and career choices.
+
+### Conservative restructure plan
+
+- Add a “Can we control enough variables?” subsection near the front of the risk/judgment chapter, before downside-floor and runway examples from Lectures 118 and 119.
+- Use Lecture 128 as the risk-filter bridge between:
+  - Lecture 174’s learning-through-risk loop.
+  - Lecture 115’s warning that exposure can expand beyond money.
+  - Lecture 118’s recoverable-downside framing.
+  - Lecture 119’s cash/runway-under-obligation case.
+  - Lecture 170 and Lecture 171’s risk-profile and due-diligence material.
+- Keep the variable ratio as cautious shorthand only: \(c/n\), where \(c\) is controllable variables and \(n\) is material risk variables. Do not convert it into a probability model or fixed threshold.
+- Use the Musk anecdote in a concentration/bet-size subsection, not as generic advice to go all-in.
+
+### New tensions or contradictions
+
+- This lecture praises risk only after filtering for controllability, which should temper any “take risks while young” or “risk creates learning” language from other lectures.
+- The Musk example can sound like all-in encouragement, but the surrounding mechanism is risk tolerance plus controllability; preserve the caution that not every founder has the same tolerance or downside capacity.
+- The transcript gives no probabilities, expected returns, market analysis, or exact PayPal/Tesla allocation. Avoid turning the anecdote into investment doctrine.
+- The opening asks about risks outside finance, while the closing example is financial concentration. The synthesis should keep the broader mechanism visible rather than narrowing the chapter to investing.
+
+### Frame or diagram opportunities
+
+- No validated screenshot assets exist for this lecture.
+- Useful transcript-derived visuals:
+  - Vertical risk filter: risky decision → identify variables → can they be mitigated/fixed/controlled? → mostly no: avoid flyer → enough yes: compare risk tolerance → choose bet size.
+  - Compact table: `2/6` controlled variables versus `2/3` controlled variables, with “flyer” versus “pretty good shot.”
+  - Narrow concentration-risk chain: PayPal proceeds → large Tesla bet → large exposure → large possible upside.
+- Label diagrams as transcript-derived; no screenshot pairing is needed.
+
+### Next rewrite implications
+
+- Add a `Question & Answer` beat to the risk chapter: “When is a risk worth taking?” Answer: when enough of the important variables can be controlled or mitigated, and the remaining uncertainty fits the entrepreneur’s tolerance.
+- Use Lecture 128 to sharpen the book’s risk sequence: controllability screen → downside floor → runway/resources → total exposure → tolerance → bet size.
+- Preserve anecdote/claim/mechanism separation:
+  - Anecdote: Musk’s PayPal-to-Tesla concentration.
+  - Claim: smaller commitment would have meant less upside.
+  - Mechanism: controllable variables and risk tolerance determine whether and how much to commit.
+- Avoid presenting \(c/n\) as formal mathematics beyond a pocket-safe explanatory reconstruction.

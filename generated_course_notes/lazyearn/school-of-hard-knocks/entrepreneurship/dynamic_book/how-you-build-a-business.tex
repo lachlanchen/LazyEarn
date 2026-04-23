@@ -3409,4 +3409,98 @@ C_0+A_{\mathrm{moto}}+K_{\mathrm{partner}}.
 \]
 So the complete lesson is not simply ``take the risk if you can get a job afterward.'' It is more precise: name the final downside, then ask whether the near-term runway can carry the product long enough to reach the next support point. The phrase ``all on the line'' belongs after that sequence. It is the speaker's retrospective summary of cash, family timing, asset liquidation, partner contribution, and uncertain outcome, not a generic motivational slogan.
 
+% --- Lecture 128 additions: How is important to take risks to become successful？ ---
+% --- Lecture 128 additions: How is important to take risks to become successful？ ---
+% insertion plan: in a later structural pass, place this before ``The Downside Floor'' as the opening risk screen.
+% new evidence: Lecture 128 adds the controllability test, the \(2/6\) versus \(2/3\) variable contrast, risk tolerance, and Musk's PayPal-to-Tesla concentration example.
+
+\section{The Controllability Test}
+
+The previous risk sections asked what the downside floor is and whether the founder has enough runway to cross the hard part. Lecture 128 adds the prior screen: before we ask whether the downside is survivable, we should ask how much of the risk can be acted on at all.
+
+The interviewer asks what matters most about taking risks to become successful, including risks outside finance. The speaker does not answer with bravado. He begins by saying there are many ways to think about risk, then gives the operational test he uses in companies: is this a risk that can be mitigated or fixed?
+
+\subsection{Question \& Answer}
+
+\paragraph{Question.}
+When is a risk worth taking?
+
+\paragraph{Answer.}
+A risk is worth considering when enough of the important variables are controllable, mitigable, or fixable. If the risk is far outside one's control, then it remains outside one's control. The speaker's phrase for the bad version is a flyer: a bet where too many variables are loose and the founder cannot honestly say what can be done about them.
+
+A compact reconstruction is:
+\begin{align}
+n&=\text{material risk variables},\\
+c&=\text{variables the founder can control, mitigate, or fix},\\
+u&=n-c,\\
+\rho&=\frac{c}{n}.
+\end{align}
+Here \(\rho\) is not a probability of success. It is a descriptive controllability ratio. Its job is to preserve the interview's distinction between risk that can be worked and risk that can only be hoped through.
+
+The speaker's two examples give the contrast:
+\begin{align}
+\rho_{\mathrm{flyer}}&=\frac{2}{6}=\frac{1}{3},\\
+\rho_{\mathrm{better}}&=\frac{2}{3}.
+\end{align}
+In both cases the founder can control two variables. The difference is the denominator. Two controllable variables inside a six-variable risk leaves four variables loose. Two controllable variables inside a three-variable risk leaves only one.
+
+\begin{table}
+\centering
+\begin{tabular}{p{0.27\linewidth} p{0.27\linewidth} p{0.34\linewidth}}
+Risk structure & Compact reading & Interview judgment \\
+Six risky variables, control two & \(\rho=2/6\), many loose variables & Do not take a flyer \\
+Three risky variables, control two & \(\rho=2/3\), most variables workable & Generally a pretty good shot \\
+\end{tabular}
+\caption{Lecture 128's controllability heuristic. The ratio is a transcript-derived reconstruction, not a formal success model.}
+\end{table}
+
+The book should not turn this into a hard threshold such as \(\rho>1/2\). The evidence is more modest and more useful: a founder should identify the variables before admiring the courage.
+
+\begin{figure}
+\centering
+\begin{tikzpicture}
+\node[draw, align=center, text width=0.68\linewidth] (a) at (0,0) {A risky decision\\appears};
+\node[draw, align=center, text width=0.68\linewidth] (b) at (0,-1.30) {Name the material\\risk variables};
+\node[draw, align=center, text width=0.68\linewidth] (c) at (0,-2.60) {Ask which variables can\\be mitigated, fixed,\\or controlled};
+\node[draw, align=center, text width=0.68\linewidth] (d) at (0,-4.05) {Mostly outside control:\\avoid the flyer};
+\node[draw, align=center, text width=0.68\linewidth] (e) at (0,-5.55) {Enough controllable:\\compare the remainder\\with risk tolerance};
+\node[draw, align=center, text width=0.68\linewidth] (f) at (0,-7.05) {Choose whether to proceed\\and how large the bet\\should be};
+\draw[->] (a) -- (b);
+\draw[->] (b) -- (c);
+\draw[->] (c) -- (d);
+\draw[->] (d) -- (e);
+\draw[->] (e) -- (f);
+\end{tikzpicture}
+\caption{The Lecture 128 risk screen, reconstructed from the transcript. No validated screenshot accompanies this reconstruction.}
+\end{figure}
+
+\subsection{Risk Tolerance and Bet Size}
+
+After the variable examples, the speaker adds a human constraint: everyone has a risk tolerance. That line keeps the controllability screen from becoming mechanical. Two founders can face the same \(\rho\) and still make different choices, because the unresolved part of the risk may sit differently inside their lives, obligations, cash position, and temperament.
+
+Let \(\tau\) denote tolerance for the unresolved part of the risk. Then the decision is better described as
+\begin{equation}
+\text{risk judgment}
+\approx
+(\rho,\tau,\text{downside floor},\text{runway}).
+\end{equation}
+This expression is not from the interview; it is a synthesis of the book's risk material so far. Lecture 128 supplies \(\rho\) and \(\tau\). Lectures 118 and 119 supply the downside floor and runway mechanics.
+
+The closing example is Elon Musk after PayPal. The speaker says Musk took basically all he made at PayPal, put it into Tesla, and the bet hit huge. He adds that if Musk had put only a little bit in, he would not be worth \(\$250\) billion. The number should remain a spoken interview claim, not an audited valuation analysis.
+
+The useful mechanism is bet size:
+\begin{equation}
+B_{\mathrm{small}}<B_{\mathrm{large}}.
+\end{equation}
+A small bet limits exposure, but it also limits participation in the upside. A large concentrated bet increases both:
+\begin{equation}
+B_{\mathrm{large}}
+\longrightarrow
+\text{larger possible upside}
++
+\text{larger exposure}.
+\end{equation}
+
+This example should not become doctrine that founders should go all in. It belongs beside the earlier warnings: unwanted financing can force a person into a business he did not want, household stress can become part of the exposure, and runway can be painfully thin even when the final downside is recoverable. Lecture 128 sharpens the sequence. First ask what can be controlled. Then ask what failure means. Then ask whether the runway and the person can carry the part that remains unresolved.
+
 \end{document}
