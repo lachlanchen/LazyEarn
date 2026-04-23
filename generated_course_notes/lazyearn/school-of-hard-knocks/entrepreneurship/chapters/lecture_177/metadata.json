@@ -1,0 +1,24 @@
+{
+  "course_rel": "lazyearn/school-of-hard-knocks/entrepreneurship",
+  "transcript_rel": "lazyearn/school-of-hard-knocks/entrepreneurship/177 - How To Upload Facebook Reels \uff5c Grow Your FB Page RAPIDLY [pBzmIEVpSiI].md",
+  "video_rel": "lazyearn/school-of-hard-knocks/entrepreneurship/177 - How To Upload Facebook Reels \uff5c Grow Your FB Page RAPIDLY [pBzmIEVpSiI].mkv",
+  "lecture_number": 177,
+  "lecture_slug": "lecture_177",
+  "lecture_title": "How To Upload Facebook Reels : Grow Your FB Page RAPIDLY",
+  "assets": [
+    {
+      "name": "lecture_177_figure_02.png",
+      "timestamp_seconds": 139.864,
+      "timestamp_hhmmss": "00:02:19.864",
+      "source_candidate": "lecture_177_window_03_candidate_03_000219864.png",
+      "recommended_use": "screenshot_only",
+      "rationale": "This frame gives a sharp, complete view of the Facebook New Reel upload screen, with the description field, visibility setting, and keyboard all legible. It is useful as interface evidence for the upload workflow being described.",
+      "subtitle_excerpt": "a call to action, getting people to follow. So you",
+      "segment_start_seconds": 138.31,
+      "segment_start_hhmmss": "00:02:18.310",
+      "segment_end_seconds": 140.7,
+      "segment_end_hhmmss": "00:02:20.700",
+      "caption_hint": "New Reel description and visibility"
+    }
+  ]
+}
