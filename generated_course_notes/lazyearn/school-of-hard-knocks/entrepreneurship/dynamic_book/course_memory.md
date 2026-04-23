@@ -1314,3 +1314,41 @@
   - Claim: look for industries likely to be bigger in `20` years.
   - Mechanism: study, gain access, test fit, then build or participate.
 - When synthesizing with Lecture 170, avoid duplicate exposition. Let Lecture 108 supply the clean entry-sequence phrasing, while Lecture 170 supplies the broader Grant Mitt context around concentration, scale, social media, people, and risk.
+
+## Lecture 118 integration: CEO shares about the importance of risk to be successful.
+
+### New evidence
+
+- Adds the cleanest “downside floor” phrasing so far: the speaker’s risk mentality was that the worst thing that could happen was having to get a job.
+- Adds a practical opportunity-cost version of risk: trying and failing returns to employment, but not trying leaves the speaker employed while wondering why he never attempted the venture.
+- Adds responsibility context to the risk chapter: the speaker says he took this risk even with a newborn on the way. Use this as risk-under-obligation evidence, not as casual risk-taking bravado.
+- Reinforces the book’s distinction between recoverable failure and lasting regret. This lecture’s mechanism is not “take every risk,” but “ask whether the downside is survivable and compare it with the cost of inaction.”
+- Provides a strong `Question & Answer` beat: “Was venture failure the real risk?” Answer: in the speaker’s frame, failure was recoverable through work; the more durable risk was never trying.
+
+### Conservative restructure plan
+
+- Add Lecture 118 to the risk/judgment chapter as a short bridge between Lecture 174’s “risk creates learning” theme and Lecture 115’s warning that bad exposure can expand into unwanted operating and tail risk.
+- Use the lecture to introduce or sharpen a “downside floor” subsection: define the failure state before deciding whether the risk is worth taking.
+- Cross-link with the survival/runway theme from Lecture 179: fallback employment can function as a personal risk buffer, but it is not the same as a fully funded runway or a guarantee.
+- Cross-link with household/life-system risk material from later balance and mental-health lectures: the newborn detail shows that risk decisions often occur under family constraints, not in isolated financial abstraction.
+
+### New tensions or contradictions
+
+- The speaker treats failure as recoverable employment, while other lectures show that some risks can create divorce stress, company-ending accidents, unwanted operating responsibility, or expanded financial exposure. Preserve the contrast: Lecture 118 is a bounded-downside case, not a universal rule.
+- The newborn detail complicates any simple “take risks while young” message. The decision was made under responsibility, so the final book should avoid turning it into generic encouragement.
+- No revenue, savings, probability, business type, or outcome is given. Any formula such as `recoverable downside < regret of inaction` should be labeled as a reconstruction of the speaker’s reasoning.
+
+### Frame or diagram opportunities
+
+- No validated screenshot assets exist for this lecture.
+- Useful transcript-derived visual: narrow vertical flow from career-wide risk question → downside floor → newborn responsibility → try/fail/job fallback versus do-not-try/job-plus-regret.
+- No screenshot pairing is needed; any diagram should be labeled as reconstructed from the transcript.
+
+### Next rewrite implications
+
+- Use Lecture 118 to make the risk chapter more precise: risk analysis begins by naming the actual failure state, not by praising courage.
+- Preserve anecdote/claim/mechanism separation:
+  - Anecdote: the speaker had a newborn on the way.
+  - Claim: if he failed, he could get a job.
+  - Mechanism: when failure is recoverable, the cost of not trying may dominate the perceived downside.
+- In the dynamic book arc, this evidence should feed risk, judgment, starting, resilience, and life-system risk rather than becoming a standalone permanent chapter.
