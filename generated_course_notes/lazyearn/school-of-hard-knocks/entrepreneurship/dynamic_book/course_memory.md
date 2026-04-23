@@ -1863,3 +1863,50 @@
   - Claim: the best business lesson from football came from mistakes, not generic sports virtues.
   - Mechanism: self-directed stubbornness blocks basics; basics make hard work compound.
 - This evidence should feed judgment, operations, resilience, founder discipline, and team-building themes.
+
+## Lecture 113 integration: Asking a multi-millionaire CEO how to maintain a healthy work-life environment.
+
+### New evidence
+
+- Adds the clearest employee-retention mechanism so far: the speaker grounds the answer in repeated interviews with people leaving companies, then says workers do not mainly stay for perks; they stay when they feel the company cares about them as people and gives them room to grow.
+- Adds a market-regime explanation for weak culture persistence: for roughly the last decade, companies could treat people “like numbers” and still keep them because compensation and broader conditions were good enough to mask the problem.
+- Adds a turbulence trigger to the people-operations chapter: when times get turbulent, people “wake up” and reevaluate their jobs instead of continuing on inertia.
+- Adds a COVID-specific pause mechanism: the pause forced workers to ask whether they liked the job, why they were doing it, and whether they were actually happy where they were.
+- Adds a strong false-solution correction for culture/retention: free food and similar tech-company perks are presented as insufficient once workers are evaluating meaning, treatment, and future direction.
+- Adds the language of `trajectory` to the book’s employment/culture thread: workers care not only about present conditions, but whether their life is getting better through the company.
+
+### Conservative restructure plan
+
+- Do not file this lecture primarily under founder balance or mental health just because the title mentions work-life environment. Its strongest contribution is to people operations, retention, and company culture.
+- Add a retention subsection after the hiring/team-selection material from Lecture 109:
+  - Lecture 109: who belongs on the team.
+  - Lecture 113: what keeps people once they are on the team.
+- Add a `Question & Answer` beat in the operations/leadership arc: “What actually keeps employees during turbulent periods?” Answer: not perks, but care plus visible growth trajectory.
+- Cross-link this lecture with Lecture 132’s and Lecture 171’s service/helping-others material. Those lectures show leaders helping coworkers improve and advance; Lecture 113 adds the employee-side reason that this matters.
+- Keep the COVID discussion local and source-conscious: use it as the named pause that exposed dissatisfaction, not as a universal labor-market theorem.
+
+### New tensions or contradictions
+
+- The title suggests a founder routine or personal balance answer, but the transcript is mostly a company-side retention diagnosis. Preserve that mismatch because it matters for where the material belongs in the nonlinear book.
+- Earlier lectures emphasize hustle, sales repetition, risk, and survival; Lecture 113 adds that even decent pay and perks do not secure loyalty if workers feel depersonalized.
+- Lecture 127 shows a leader protecting home/work boundaries for himself; Lecture 113 shifts the lens outward and asks what workers need from the company itself.
+- The “last decade” framing is broad and informal. Treat it as speaker framing, not periodized labor-market data.
+- The perks critique should not be overstated into “perks never matter.” The narrower source-backed claim is that they are not the main reason people stay once reevaluation begins.
+
+### Frame or diagram opportunities
+
+- No validated screenshot assets exist for this lecture.
+- Useful transcript-derived visuals:
+  - Narrow vertical flow: easy market and enough pay → weak culture remains hidden → turbulence/COVID pause → worker self-questioning → retention depends on care and growth.
+  - Compact comparison table: `perks-first retention` versus `care-and-trajectory retention`.
+  - Small question cascade from the transcript: “Why do I do what I do?” → “Do I like my job?” → “Am I happy where I’m at?”
+- Keep visuals vertical and pocket-safe; no screenshot pairing is needed.
+
+### Next rewrite implications
+
+- Use this lecture to stop the book from becoming founder-only. Entrepreneurship in this series is also about whether a company can keep good people once conditions become less forgiving.
+- Preserve anecdote/claim/mechanism separation:
+  - Observation: repeated interviews reveal why people leave and what they want.
+  - Claim: firms could temporarily retain people while treating them impersonally; perks are not the main retention tool.
+  - Mechanism: turbulence and COVID trigger reevaluation; care plus growth improve retention.
+- In the dynamic book arc, this lecture should feed operations, leadership, team design, employee retention, and judgment. It should not become a standalone permanent chapter unless later lectures add more explicit culture/retention evidence.
