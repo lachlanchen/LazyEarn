@@ -1823,3 +1823,43 @@
 - Use Lecture 178 to make the book’s “starting” material less abstract: founders do not start in empty space; they start inside a local market with costs, people, customers, capital, and policy.
 - Add a `Question & Answer` beat in the location section: “Why can an expensive city still be good for entrepreneurs?” Answer: because market access, talent, network, capital, and clients can sometimes compensate for high cost.
 - Preserve the lecture’s countdown rhythm when quoting or adapting it, but fold the evidence into the thematic book under location strategy rather than treating it as a playlist-style city chapter.
+
+## Lecture 110 integration: Asking a multi-millionaire CEO the biggest lesson he learned in the business.
+
+### New evidence
+
+- Adds a named sports-to-business case: the speaker played quarterback at Long Beach City College, a junior college outside Los Angeles, and names Brad Peabody and Ryan Flynn as strong coaches.
+- Reinforces the coachability thread from Lectures 109 and 170, but shifts the target from hiring/team selection to the founder’s own learning posture.
+- Adds a sharper version of the “hard work is not enough” rule: the speaker says he worked very hard, but did not stick to the basics and did not fully use his brain because he kept trying to do things his own way.
+- Adds a concrete mistake-based learning mechanism: teamwork and adversity are acknowledged as common sports lessons, but the real transferable lesson came from his own mistakes.
+- Strengthens the book’s basics/fundamentals theme: capability compounds only when effort is joined to instruction, fundamentals, and judgment.
+
+### Conservative restructure plan
+
+- Fold this lecture into a founder-discipline or judgment section rather than treating it as a standalone chapter.
+- Pair it with Lecture 109:
+  - Lecture 109: hire people who are coachable, humble, and persistent.
+  - Lecture 110: the founder also has to be coachable enough to absorb strong instruction.
+- Pair it with Lecture 179’s “practice like athletics” sales advice: practice matters, but practice must be directed by basics and correction.
+- Use this lecture as a `Question & Answer` beat: “Why was very hard work not enough?” Answer: because effort separated from coaching and fundamentals can be sincere but under-leveraged.
+
+### New tensions or contradictions
+
+- The lecture values hard work but warns that hard work can be misapplied. Preserve the distinction: the problem is not effort, but effort governed by ego instead of fundamentals.
+- The founder’s need for independent judgment should not be flattened into blind obedience. The narrower claim is that capable coaches and known basics should not be ignored just because the learner prefers his own way.
+- The transcript phrase near the coach names, “I’m still talking to you,” appears garbled. Treat the stable evidence as the named coaches and the speaker’s praise for them.
+
+### Frame or diagram opportunities
+
+- No validated screenshot assets exist for this lecture.
+- Useful transcript-derived visual: a narrow vertical flowchart showing “doing it my way” → “coaching not fully absorbed” → “basics missed” → “hard work underused” → “business lesson: teachability plus fundamentals.”
+- Label any diagram as transcript-derived; no screenshot pairing is needed.
+
+### Next rewrite implications
+
+- Use this lecture to deepen the book’s anti-shortcut motif: information, effort, and ambition do not become business judgment unless the learner can accept correction.
+- Preserve anecdote/claim/mechanism separation:
+  - Anecdote: quarterback at Long Beach City College with coaches Brad Peabody and Ryan Flynn.
+  - Claim: the best business lesson from football came from mistakes, not generic sports virtues.
+  - Mechanism: self-directed stubbornness blocks basics; basics make hard work compound.
+- This evidence should feed judgment, operations, resilience, founder discipline, and team-building themes.
