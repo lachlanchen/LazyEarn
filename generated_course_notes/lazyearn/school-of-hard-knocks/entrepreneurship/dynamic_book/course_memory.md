@@ -2503,3 +2503,51 @@
   - platform may or may not pay creators natively
   - platform owner chooses rules for identity, moderation, metrics, and record integrity
 - Preserve the lecture’s rhythm in any rewrite: public controversy -> motive -> bots/metrics -> authentication -> censorship rules -> creator pay -> open-source algorithm -> edit-history puzzle.
+
+## Lecture 168 integration: 10 Questions with a Real Estate Millionaire: Tips for Building Wealth and Success
+
+### New evidence
+
+- Adds the clearest current real-estate scale-shock case in the course: the speaker first sees a local broker receive a `\$200,000` check, then later closes his own first deal for about `\$6,000` to `\$7,000` while still delivering pizza and receiving roughly `\$600` paychecks. Use this as order-of-magnitude conversion evidence, not as a wage model.
+- Adds a concrete ladder from entry to ownership inside one arena: licensed at `17`, later trained through appraisal, apartments, and property management, built a management company to about `700` doors, sold it, and later says he has about `130` properties. This strengthens the book’s “skill stack before ownership” theme.
+- Adds the most formal broker-transition evidence currently in the real-estate material: every agent must operate under a broker; the requirement reportedly changed from `2` years to `4` years; there is a transaction point system of about `900` points; and class requirements can be satisfied by prior degree work. This is new institutional structure, not just another real-estate anecdote.
+- Adds quantified brokerage platform economics: `90--10` split now versus `50--50` at the first brokerage, paired with the claim that the broker is responsible, on the hook, trains agents, and supports them. This sharpens the ownership chapter by showing burden plus economics together.
+- Adds a stronger partner-selection case than the course memory currently has: the partnership is framed as low-probability, tested through repeated overperformance, sobriety, reliability, and eventually a clean role split. The named operational division is especially useful: Alex handles money, profitability, hiring, firing, and operations; Teifke handles networking, relationships, and new ideas.
+- Adds the clearest transcript-backed wholesaling arithmetic case now available in the course: property under contract at about `\$2.0M`, earnest plus option money of about `\$20,000`, exit offer around `\$2.7M`, headline fee stated around `\$700,000` to `\$780,000`, plus a separate `3\%` commission mention, then split among `3` partners and reduced by “a huge tax.” This is strong leverage and gross-to-net evidence.
+- Adds a public-markets risk case that is different from the course’s founder-risk material: cannabis stock down multiple millions, with daily moves of about `\$60K` to `\$100K`, while the speaker justifies conviction with about `\$67M` quarterly revenue and a `\$40M` valuation. Treat this as the speaker’s own reasoning under drawdown, not endorsed analysis.
+- Adds a useful closing turn from transaction size to mission: the speaker says the sustaining motivation is a clear long-range goal and daily proof from agents saying the brokerage changed their lives.
+
+### Conservative restructure plan
+
+- Sequence the real-estate arc more explicitly as: Lecture 125 for arena selection, Lecture 124 for capability breadth inside real estate, Lecture 168 for the step from agent to broker/platform owner plus wholesaling arithmetic, and Lecture 158 for the brokerage machine and agent-to-equity infrastructure.
+- Strengthen the ownership chapter with a short `agent -> broker -> brokerage` subsection built from this lecture’s new evidence: years, points, classes, legal responsibility, and split structure.
+- Add a compact leverage subsection in the capital/risk arc around `control of the contract versus ownership of the asset`, using this lecture’s `\$2.0M -> \$2.7M` wholesale example and the `\$20,000` contract-control outlay.
+- Expand the partnership chapter rather than creating a new one. Lecture 121 gives operating redundancy; Lecture 163 gives partner-count and values alignment; Lecture 168 adds tested trust, role separation, and the unusually strong claim that choosing the right partner was the best financial decision.
+- Feed the opening commission shock into the book’s early “starting” material as a named real-estate case of entrepreneurial money arriving discontinuously rather than smoothly.
+
+### New tensions or contradictions
+
+- Lecture 125 says real estate is accessible; Lecture 168 adds that progressing from agent to broker and brokerage owner is not frictionless but thresholded by years, points, classes, and supervision burden. Preserve entry accessibility and institutional advancement as separate claims.
+- Lecture 124 argues against one-lane real-estate training; Lecture 168 now gives a concrete personal path that moves across lanes: brokerage, appraisal, management, wholesaling, and ownership. This supports capability breadth with a named case rather than only with principle.
+- The course already values strong partners, but Lecture 168 makes the filter harsher: partnership is explicitly low-probability and must be earned through repeated trust tests, not just complementary résumés or emotional compatibility.
+- The lecture resists wealth theater from inside the transaction: the headline wholesale number sounds huge, but partner splits and taxes materially reduce retained wealth. This should refine how the book handles all large deal claims, not just this one.
+- The cannabis-stock segment introduces a conviction-under-drawdown logic that can easily be overstated. Keep the revenue-versus-valuation comparison as a transcript-backed justification used by the speaker, not as a book-level investment framework.
+
+### Frame or diagram opportunities
+
+- No validated screenshot assets exist for lecture 168.
+- If later editorial work needs visual aids, prefer narrow transcript-derived tables over diagrams:
+- broker-transition thresholds and responsibilities;
+- `90--10` versus `50--50` split economics;
+- wholesale deal cashflow from contract price to spread to partner split and tax;
+- implementer versus visionary role division.
+- If a diagram is still needed, keep it explicitly transcript-derived and vertical: scale shock -> first commission -> broker threshold -> platform responsibility -> wholesale leverage. No screenshot pairing is possible.
+
+### Next rewrite implications
+
+- Preserve this lecture’s interview rhythm when reusing it: cold-open money shock -> formal introduction -> biographical accumulation -> college reframing -> first entry -> broker structure -> leadership burden -> partnership -> biggest deal -> worst drawdown -> motivation.
+- Keep anecdote/claim/mechanism separation especially clear:
+- anecdote: `\$200,000` check, mopping-floor phone call, Alex turning `10` doors into `100`, nine-and-a-half-acre Round Rock wholesale;
+- claim: platform economics, partner choice, and contract control matter more than headline glamour alone;
+- mechanism: licensing thresholds, split structures, supervisory burden, contract leverage, partner role separation, and gross-to-net reduction.
+- Use Lecture 168 to make the course-wide real-estate material less generic. It now has a named path from first commission to brokerage ownership, the strongest wholesaling arithmetic in the course so far, and a partnership case strong enough to anchor ownership, leverage, and judgment chapters.
