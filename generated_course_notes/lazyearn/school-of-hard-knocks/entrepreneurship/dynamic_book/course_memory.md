@@ -717,3 +717,54 @@
   - Claim: balance improves mental health, prevents burnout, and improves motivation at work.
   - Mechanism: reflection identifies stress and priorities; time blocking limits drift; prepared environment reduces interruptions; hobbies and close people restore energy.
 - In the dynamic book arc, this lecture should feed resilience, operations, focus, judgment, and life-system risk. It gives the existing balance thread a clear organizing question: what must be protected inside a fixed `24-hour` day?
+
+## Lecture 170 integration: 10 Questions with a Millionaire: Founder & Investor Grant Mitt
+
+### New evidence
+
+- Adds the strongest concentration-before-diversification case so far: Grant Mitt says he did not diversify until his solar company was revenueing over `$10 million`, and even then solar remained the main focus.
+- Adds a useful wealth-sequencing phrase: make the “big pile” first, then allocate into buckets that can produce more money. This sharpens the book’s distinction between wealth creation and wealth allocation.
+- Adds unusually explicit base-rate claims against entrepreneurship romanticism: Mitt claims `86%` of U.S. companies break even or lose money, and only one half of `1%` ever revenue over `$10 million`.
+- Adds an entrepreneur/intrapreneur distinction tied to Mitt Group: some people may become multimillionaires inside the right company without founding the company themselves.
+- Adds social-media leverage numbers: TikTok about `145,000`, Instagram about `25,000`, and a claim that `30%--40%` of several new starters had followed Grant or found the company through social media.
+- Adds a named recruiting-and-credibility mechanism: social media is not merely content or sales; it can attract talent, create trust, and open media opportunities such as Fox Business appearances.
+- Adds scaling arithmetic from an operating founder: Mitt Group is closing solar deals in `17` states; CRM, technology, or one smart hire may help by `10%--20%`, but doubling, tripling, or quadrupling revenue requires people executing fundamentals at scale.
+- Adds a market-selection case for solar: around `2014--2016`, Mitt looked for industries likely to be bigger in `20` years, naming tech, AI, robotics, renewable energy, and crypto, then chose a direction where peers were not crowding in.
+- Reinforces the hiring filter from Lecture 109 with the same named founder context: coachable, humble, persistent, and driven by necessity; talent, school, referrals, and prior success do not clear the filter by themselves.
+
+### Conservative restructure plan
+
+- Add a core chapter or major subsection around “one engine before many buckets.” Use Lecture 170 as the anchor, then connect it to Lecture 179’s survival/runway and Lecture 104’s wealth-classification material.
+- Strengthen the ownership chapter by adding the three-path choice: employee, intrapreneur, entrepreneur. Place it near the base-rate warning so entrepreneurship is treated as a conditional path, not an identity.
+- Move social media out of any generic “marketing tips” treatment and into a leverage chapter after concentration: content compounds the main business through credibility, recruiting, and access.
+- Expand the scaling/operations chapter with the distinction between incremental tools and order-of-magnitude scale: CRM and technology may improve a process, but people multiply execution.
+- Add Lecture 170’s solar choice to the arena-selection chapter beside Lecture 125: future growth matters, but so does room to enter and a willingness to learn before mastery.
+- Use Mitt’s risk answer in the resilience/judgment arc: risk becomes more rational when backed by earned capability, repeated execution, and self-trust.
+
+### New tensions or contradictions
+
+- The lecture praises risk-taking but also says there are times to be risk-on and risk-off. Preserve the tension: risk is not recklessness; it depends on preparation, capability, and timing.
+- Mitt argues against early diversification, while other wealth material mentions multiple streams, portfolios, and investing. The synthesis should sequence them: concentrated engine first, allocation later.
+- The base-rate claims make entrepreneurship look unattractive on average, while Mitt’s own story celebrates ownership. The resolution is the entrepreneur/intrapreneur/employee distinction.
+- The “no easy fallback” hiring claim is strong and should be treated as Mitt’s operating judgment, not a universal social rule.
+- Revenue claims “30” and “90, 120” likely mean millions but are not explicitly unit-labeled in the transcript. Keep the unit cautious.
+- The transcript sometimes says “Make Group,” but metadata and introduction support “Mitt Group.” Use “Mitt Group” unless quoting transcript wording directly.
+
+### Frame or diagram opportunities
+
+- No validated screenshot assets exist for this lecture.
+- Useful transcript-derived visuals:
+  - Vertical concentration chain: one engine → surplus → big pile → allocation buckets.
+  - Three-path table: employee, intrapreneur, entrepreneur.
+  - Scaling contrast table: CRM/tool improvement `10%--20%` versus people-driven `2x--4x` growth.
+  - Media leverage chain: public content → trust → recruiting surface → credibility opportunities.
+- Keep all visuals transcript-derived, narrow, and pocket-safe; no screenshot pairing is needed.
+
+### Next rewrite implications
+
+- Use Lecture 170 as a synthesis lecture, not a standalone transcript chapter: it connects starting, ownership choice, concentration, media leverage, sales, risk, scaling, energy, industry selection, and hiring.
+- Preserve anecdote/claim/mechanism separation:
+  - Anecdote: Mitt’s solar company, TikTok recruiting, DirecTV in Walmart, Sahara Desert rebuild confidence.
+  - Claim: most businesses do not produce large owner upside; diversification should wait; tools alone do not create real scale.
+  - Mechanism: concentrated competence creates surplus, media expands trust, sales builds judgment, people multiply execution, and energy control preserves operating capacity.
+- Add `Question & Answer` beats around: “Should everyone start a business?”, “Why not diversify immediately?”, and “Why can’t sales skill be learned from a textbook?”
