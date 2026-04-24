@@ -1,0 +1,9 @@
+{
+  "model": "nano-banana-2",
+  "prompt": "Create portrait book cover background artwork only, 2:3 aspect ratio. No visible words of any kind. No typography. No letters. No numbers. No symbols that resemble letters. No logos. No author line. No subtitle. No title. Abstract premium nonfiction visual: a calm ivory paper field, a single warm gold diagonal path suggesting compounding time, translucent deep ink-blue and muted jade rectangular planes suggesting attention, choices, capital, and future structure. Clean Japanese-minimal editorial composition, spacious negative space, beautiful and attractive, modern, vivid but restrained, high-resolution, front-cover artwork only. Avoid messy lines, dense diagrams, stock money imagery, people, books, laptops, coins, charts, watermarks, text, labels, handwriting.",
+  "urls": [],
+  "aspectRatio": "2:3",
+  "imageSize": "2K",
+  "webHook": "-1",
+  "shutProgress": false
+}
