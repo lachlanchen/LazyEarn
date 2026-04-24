@@ -360,6 +360,65 @@ const pdfEntries = {
     publication:
       "https://github.com/lachlanchen/LazyEarn/blob/main/mit-nuts-and-bolts-of-new-ventures-publication/README.md",
   },
+  entrepreneurship: {
+    aliases: [
+      "school-of-hard-knocks-entrepreneurship",
+      "entrepreneurship-course-book",
+      "hard-knocks-entrepreneurship",
+    ],
+    title: "Entrepreneurship",
+    description:
+      "A lecture-by-lecture field book from the completed unique School of Hard Knocks entrepreneurship interview sequence, focused on offers, sales, leverage, distribution, and founder judgment.",
+    pdf: "publications/entrepreneurship/entrepreneurship.pdf",
+    download: "publications/entrepreneurship/entrepreneurship.pdf",
+    markdown:
+      "https://github.com/lachlanchen/LazyEarn/tree/main/generated_course_notes/lazyearn/school-of-hard-knocks/entrepreneurship",
+    publication:
+      "https://github.com/lachlanchen/LazyEarn/blob/main/entrepreneurship-publication/README.md",
+  },
+  "entrepreneurship-pocket-1-2x": {
+    aliases: ["entrepreneurship-pocket-1.2x", "entrepreneurship-pocket-1_2x"],
+    title: "Entrepreneurship (Pocket 1.2x)",
+    description:
+      "The 1.2x pocket edition of the School of Hard Knocks entrepreneurship field book for tablet and e-ink reading.",
+    pdf: "publications/entrepreneurship/entrepreneurship-pocket-1.2x.pdf",
+    download: "publications/entrepreneurship/entrepreneurship-pocket-1.2x.pdf",
+    markdown:
+      "https://github.com/lachlanchen/LazyEarn/tree/main/generated_course_notes/lazyearn/school-of-hard-knocks/entrepreneurship",
+    publication:
+      "https://github.com/lachlanchen/LazyEarn/blob/main/entrepreneurship-publication/README.md",
+    grid: false,
+  },
+  "how-you-build-a-business": {
+    aliases: [
+      "entrepreneurship-dynamic-book",
+      "how-you-build-business",
+      "how-you-build-a-business-book",
+    ],
+    title: "How You Build a Business?",
+    description:
+      "A nonlinear entrepreneurship field book synthesized from the same unique School of Hard Knocks interviews into recurring systems of sales, leverage, distribution, capital, hiring, and execution.",
+    pdf: "publications/how-you-build-a-business/how-you-build-a-business.pdf",
+    download: "publications/how-you-build-a-business/how-you-build-a-business.pdf",
+    markdown:
+      "https://github.com/lachlanchen/LazyEarn/tree/main/generated_course_notes/lazyearn/school-of-hard-knocks/entrepreneurship/dynamic_book",
+    publication:
+      "https://github.com/lachlanchen/LazyEarn/blob/main/entrepreneurship-publication/README.md",
+  },
+  "how-you-build-a-business-pocket-1-2x": {
+    aliases: ["how-you-build-a-business-pocket-1.2x", "how-you-build-a-business-pocket-1_2x"],
+    title: "How You Build a Business? (Pocket 1.2x)",
+    description:
+      "The 1.2x pocket edition of the dynamic entrepreneurship field book synthesized from the School of Hard Knocks interview sequence.",
+    pdf: "publications/how-you-build-a-business/how-you-build-a-business-pocket-1.2x.pdf",
+    download:
+      "publications/how-you-build-a-business/how-you-build-a-business-pocket-1.2x.pdf",
+    markdown:
+      "https://github.com/lachlanchen/LazyEarn/tree/main/generated_course_notes/lazyearn/school-of-hard-knocks/entrepreneurship/dynamic_book",
+    publication:
+      "https://github.com/lachlanchen/LazyEarn/blob/main/entrepreneurship-publication/README.md",
+    grid: false,
+  },
   "financial-freedom": {
     aliases: ["financial_freedom"],
     titleKey: "research.asset2Title",
@@ -714,6 +773,13 @@ const readerRouteRewrites = {
     "mit-nuts-and-bolts-of-new-ventures",
   "publications/mit-nuts-and-bolts-of-new-ventures/mit-nuts-and-bolts-of-new-ventures-pocket-1.2x.pdf":
     "mit-nuts-and-bolts-of-new-ventures-pocket-1-2x",
+  "publications/entrepreneurship/entrepreneurship.pdf": "entrepreneurship",
+  "publications/entrepreneurship/entrepreneurship-pocket-1.2x.pdf":
+    "entrepreneurship-pocket-1-2x",
+  "publications/how-you-build-a-business/how-you-build-a-business.pdf":
+    "how-you-build-a-business",
+  "publications/how-you-build-a-business/how-you-build-a-business-pocket-1.2x.pdf":
+    "how-you-build-a-business-pocket-1-2x",
   "publications/hard-knocks-interviews/hard-knocks-interviews.pdf": "hard-knocks-interviews",
   "publications/hard-knocks-interviews/hard-knocks-interviews-pocket-1.2x.pdf":
     "hard-knocks-interviews-pocket-1-2x",

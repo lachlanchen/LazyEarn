@@ -1,8 +1,46 @@
 \documentclass[11pt,oneside]{book}
 \input{../common_preamble.tex}
-\graphicspath{{../figures/}{../assets/}}
+\graphicspath{{../figures/}{../assets/}{cover/}}
 \begin{document}
 \frontmatter
+\hypersetup{pageanchor=false}
+\begin{titlepage}
+\thispagestyle{empty}
+\begin{tikzpicture}[remember picture,overlay]
+  \node[anchor=center,inner sep=0] at (current page.center) {%
+    \includegraphics[height=\paperheight,keepaspectratio]{cover/cover-art.png}%
+  };
+  \node[
+    anchor=north west,
+    align=left,
+    text width=0.78\paperwidth,
+    fill=white,
+    fill opacity=0.9,
+    text opacity=1,
+    rounded corners=8pt,
+    inner xsep=10pt,
+    inner ysep=8pt
+  ] at ([xshift=0.08\paperwidth,yshift=-0.06\paperheight]current page.north west) {%
+    {\fontsize{30}{33}\selectfont\bfseries\color{black!88} How You Build a Business?\\[0.85em]}
+    {\large\color{black!72} A thematic field book synthesized from the unique School of Hard Knocks entrepreneurship interviews}
+  };
+  \node[
+    anchor=south west,
+    align=left,
+    text width=0.68\paperwidth,
+    fill=white,
+    fill opacity=0.82,
+    text opacity=1,
+    rounded corners=6pt,
+    inner sep=12pt
+  ] at ([xshift=0.08\paperwidth,yshift=0.08\paperheight]current page.south west) {%
+    {\normalsize\color{black!78} Original interviews by School of Hard Knocks\\[0.35em]}
+    {\small\color{black!72} Dynamic book organized by \href{https://lazying.art}{LazyingArt LLC} with \href{https://github.com/lachlanchen/Video2Book}{Video2Book}}
+  };
+\end{tikzpicture}
+\mbox{}
+\end{titlepage}
+\hypersetup{pageanchor=true}
 \title{How You Build a Business?}
 \author{School of Hard Knocks}
 \date{A thematic LazyEarn field book on entrepreneurship built from the unique School of Hard Knocks entrepreneurship interviews \\ Lecture notes organized by \href{https://lazying.art}{LazyingArt LLC} with \href{https://github.com/lachlanchen/Video2Book}{Video2Book}}
