@@ -2551,3 +2551,54 @@
 - claim: platform economics, partner choice, and contract control matter more than headline glamour alone;
 - mechanism: licensing thresholds, split structures, supervisory burden, contract leverage, partner role separation, and gross-to-net reduction.
 - Use Lecture 168 to make the course-wide real-estate material less generic. It now has a named path from first commission to brokerage ownership, the strongest wholesaling arithmetic in the course so far, and a partnership case strong enough to anchor ownership, leverage, and judgment chapters.
+
+## Lecture 169 integration: Top 5 Takeaways from “The social network”
+
+### New evidence
+
+- Adds a rare film-derived synthesis lecture rather than a direct founder interview. Its value is not new industry detail, but a compact five-part entrepreneurial framework built around one named case: Mark Zuckerberg, FaceMash, Facebook, the Winklevoss twins, ConnectU, and Eduardo Saverin.
+- Adds a clear opening scale anchor for the entrepreneurship book: Zuckerberg is presented as a billionaire at age `23`. Use this as scene-setting evidence for outsized outcome, not as valuation math.
+- Adds a strong failed-first-product case: FaceMash is framed as an early wrong idea that created trouble with Harvard and academic probation, yet still sits upstream of Facebook. This is good reinforcing evidence for the book’s “wrong first attempt is not final failure” theme.
+- Adds one of the cleanest execution-versus-idea examples in the course: the Winklevoss twins wanted a similar social platform, but the lecture insists the core issue was execution capacity, not concept possession.
+- Adds a named institutional fact that belongs in ownership/dispute material: the twins reportedly received a `\$65M` settlement in `2008`.
+- Adds a rare explicit self-correction by the speaker: the breakup-origin story from the movie is said to be false historically, but the lecturer keeps the scene as a thematic model. This is strong source-conscious evidence for separating literal anecdote from useful entrepreneurial mechanism.
+- Adds a compact redirection principle that strengthens the resilience chapter: “when one door closes, another one opens,” supported by both the movie theme and the speaker’s own claim that failed businesses led him to School of Hard Knocks.
+- Adds a clean social-cost-of-scale claim: “you can’t be ultra successful without having a few enemies.” This fits the judgment/resilience arc as a reminder that visible success attracts opposition.
+- Adds one of the clearest movie-derived legal/ownership warnings in the course: Eduardo Saverin’s shares were diluted after blindly signing papers, which the lecturer converts into an explicit “lawyer up” lesson.
+
+### Conservative restructure plan
+
+- Do not give Lecture 169 a permanent standalone chapter in the dynamic book unless a short synthesis/interlude chapter is later needed. Its best use is as reinforcing evidence across existing chapters.
+- Feed the FaceMash-to-Facebook sequence into the “starting” chapter as a named case of failed first idea -> larger second opportunity.
+- Feed the Winklevoss/ConnectU material into the “execution” chapter as a clean contrast between idea ownership and realization capacity.
+- Feed the breakup-scene correction and “one door closes” material into the resilience/judgment arc as a `Question & Answer` beat about false anecdote versus true mechanism.
+- Feed the “few enemies” claim into the resilience/media/status-cost thread, where visibility and scale produce friction.
+- Feed the Saverin dilution warning into the ownership/risk/legal chapter as a source-conscious case for why founders need counsel before signing share-related documents.
+
+### New tensions or contradictions
+
+- This lecture is one step further removed from operating reality than most of the processed course: it is commentary on a film about a founder, not direct operating testimony from the founder himself. Preserve that distance in the book.
+- The lecture explicitly says the breakup-to-FaceMash story is false, but still keeps the theme. This is useful, but only if the book clearly separates anecdote, claim, and mechanism.
+- The `\$65M` settlement can be retained as a concrete institutional number, but the later speaker speculation that Saverin’s settlement was “probably somewhere in the billions” should not be upgraded into fact.
+- The lecture’s five takeaways reinforce many existing course themes rather than opening a wholly new theme. Its contribution is coherence and named case material, not a new doctrine.
+
+### Frame or diagram opportunities
+
+- No validated screenshot assets exist for Lecture 169.
+- If the compiled book needs transcript-derived visuals, the safest narrow inserts would be:
+  - failed first idea -> trouble -> larger platform;
+  - idea -> execution capacity -> realized business;
+  - blocked outcome -> disruption -> new attempt -> larger opportunity;
+  - ownership fraction before and after dilution.
+- Because there is no validated frame evidence, treat any such diagram as editorial reconstruction, not lecture-visual recovery.
+
+### Next rewrite implications
+
+- Use Lecture 169 as a bridge lecture when the book needs a compact recap of multiple entrepreneurship themes in one place: persistence, execution, resilience, social friction, and ownership protection.
+- Preserve the lecture’s countdown rhythm if it is reused. The numbered structure is part of how the argument lands.
+- Preserve a standalone `Question & Answer` beat around: “If the movie scene is fictional, why keep the lesson?” This is the strongest local tension in the lecture and a useful model for source-conscious writing across the whole book.
+- When integrating this lecture into book prose, keep the evidence hierarchy clear:
+  - film anecdote as illustration,
+  - transcript-backed numbers as bounded facts,
+  - speaker self-report as personal application,
+  - dilution notation as cautious reconstruction rather than documentary proof.
