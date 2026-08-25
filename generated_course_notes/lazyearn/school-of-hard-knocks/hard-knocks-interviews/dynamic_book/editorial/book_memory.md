@@ -64,10 +64,10 @@ interview evidence or import unsupported facts into a speaker's story.
 ## Draft State
 
 Evidence mapping and architecture are complete. The front matter, introduction,
-Chapter 1, Chapter 2, and Chapter 3 are accepted. Source rows remain `mapped`
-until all of their primary and secondary material has been integrated or
-explicitly classified. Drafting continues in reading order so voice,
-definitions, and recurring cases accumulate rather than reset.
+and Chapters 1--4 are accepted. Source rows remain `mapped` until all of their
+primary and secondary material has been integrated or explicitly classified.
+Drafting continues in reading order so voice, definitions, and recurring cases
+accumulate rather than reset.
 
 Chapter 1 defines wealth through security, choice, time, and enough. Chapter 2
 places agency inside unequal feasible sets and establishes capacity, capability,
@@ -75,7 +75,10 @@ and access as distinct constraints. The opportunity inventory and loss budget
 are now recurring decision tools. Chapter 3 makes capability economically
 concrete through feedback, buyer evidence, apprenticeship, household margin,
 high-cost debt, reserves, and a bounded next experiment. Chapter 4 must decide
-what kind of life those choices are meant to protect.
+what kind of life those choices are meant to protect; it supplies the
+desired-week budget, health, relationship and material boundaries, bounded
+seasons, the five-year process test, and the life-first constraint sheet. Part
+II can now turn outward from purpose toward customer value.
 
 ## Reserved Recurrences
 
@@ -91,6 +94,14 @@ what kind of life those choices are meant to protect.
   alignment, and creative practice in Chapter 3. The reported home appreciation
   remains a contingent property case for Chapter 17 or 18, not a general rule;
   family investment and vocational meaning return in Part V.
+- Source 120 supplies lifestyle-first career design, meaningful craft, staged
+  ambition, daily conduct, and the tension between persistence and survivable
+  risk in Chapter 4. Its property, land-tax, rental-platform, vehicle, business
+  credit, gross-revenue, and tool-prediction claims remain reserved for Parts
+  II--IV.
+- Source 129 supplies the inherited-career script and the corrected relation
+  among capability, access, and people skills in Chapter 4. Its network claim
+  has already been bounded by Chapter 2's access analysis.
 
 ## Acceptance Rule
 
