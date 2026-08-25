@@ -31,8 +31,6 @@ Status: accepted on 2026-08-25.
 
 - Complete the duplicate-lesson, factual-attribution, cadence, transition,
   exercise, and ending passes across the assembled manuscript.
-- Reverify every retained documentary frame and its ledger entry against the
-  source video and subtitle timestamp.
 - Inspect the complete full-size PDF, build and inspect the 1.2x 6x9 edition,
   publish canonical copies, refresh the first-page preview, and verify the
   atomic Nutstore checksum.

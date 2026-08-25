@@ -16,6 +16,8 @@ These files keep source completeness separate from reader-facing prose.
   before they enter reader-facing prose.
 - `figure_ledger.csv` blocks every frame from publication until its image,
   timestamp, context, usefulness, and duplication status are verified.
+- `figure_review.md` records the final source-frame hashes, subtitle windows,
+  and rendered-page inspection for every published figure.
 - `baseline_audit.md` records the inherited edition without duplicating it.
 - `book_memory.md` preserves the accepted argument, voice, recurring cases,
   unresolved tensions, and continuity decisions.
