@@ -64,7 +64,7 @@ interview evidence or import unsupported facts into a speaker's story.
 ## Draft State
 
 Evidence mapping and architecture are complete. The front matter, introduction,
-and Chapters 1--13 are accepted. Source rows remain `mapped` until all of their
+and Chapters 1--14 are accepted. Source rows remain `mapped` until all of their
 primary and secondary material has been integrated or explicitly classified.
 Drafting continues in reading order so voice, definitions, and recurring cases
 accumulate rather than reset.
@@ -162,6 +162,20 @@ leaders rather than performed invulnerability. The people-and-governance charter
 turns these duties into a usable operating constitution. Its closing distinction
 between operating the company and controlling its critical rights prepares
 Chapter 14.
+
+Chapter 14 maps those critical rights without confusing possession with usable
+control. It traces physical, legal, contractual, and relational layers across
+music masters, industry access, factories, travel-media windows, adjacent
+distribution, mineral interests, founder voting power, entity separation, and
+small-business acquisition. Bottleneck ownership and vertical integration are
+tested against coordination benefit, capital, complexity, propagation risk,
+substitution, and fairness. Legal ownership, economic participation, and
+control remain separate ledgers; popular asset labels do not replace the
+governing instruments. The final control map tests transferability,
+counterparties, substitutes, obligations, and ethical consequence before a
+choice to own, contract, diversify, back up, redesign, or accept dependence.
+Its closing question turns from control today to transfer, succession, and sale
+in Chapter 15.
 
 ## Reserved Recurrences
 
@@ -279,9 +293,11 @@ Chapter 14.
   by review, accessibility, and worker safety. Its primary substantive role is
   complete, subject to final whole-book coverage review.
 - Source 6 supplies need-first pen diagnosis and the corrected distinction
-  between unresolved concern and refusal in Chapter 8. Its acquisition,
-  property, availability, recruiting, sobriety, regret, and other operating
-  evidence remains reserved for Parts III--V.
+  between unresolved concern and refusal in Chapter 8. Its food-distributor
+  purchase returns in Chapter 14 to distinguish acquired income from access,
+  employees, procurement, products, service, and customer relationships, all
+  bounded by transfer risk. Its property, availability, recruiting, sobriety,
+  regret, and remaining evidence stays reserved for Parts III--V.
 - Source 126 supplies sincere personal service in Chapter 8 and remains
   available for relationship-based distribution in Chapter 9, with privacy and
   emotional-labor limits intact.
@@ -485,6 +501,47 @@ Chapter 14.
   captivity, complementary temperament, and values alignment in Chapter 13.
   Its marketing, personal-brand, crypto, credit, family, purpose, and remaining
   risk material stays reserved for Chapters 14--23.
+- Source 11 supplies the in-house construction workforce, seven factories, and
+  reported speed benefit in Chapter 14, bounded by capital, utilization,
+  management, labor, compliance, and concentration. Its ownership biography,
+  property, debt, family, purpose, and later-life material remains reserved for
+  Chapters 15--23.
+- Source 22 supplies the corrected separate-entity case and Sara Blakely's
+  reported retained-control path in Chapter 14. Its sales, property, hiring,
+  concentration, health, purpose, family, and remaining women-founder evidence
+  stays reserved for Chapters 15--23.
+- Source 25 supplies the oil-and-gas chain, split title and mineral rights,
+  leases, royalties, working interests, drilling duties, and corrected net-
+  revenue-interest terminology in Chapter 14. Its land-access, operating,
+  commodity, capital, risk, and remaining industry evidence stays reserved for
+  Chapters 16--20 and final classification.
+- Source 27 supplies integrated product, brand, and data, the bounded platform-
+  copycat case, an early two-percent grant, and retained voting control in
+  Chapter 14. Its origin, health, performance, hiring, capital, leadership, and
+  meaning material remains reserved for Chapters 15--23.
+- Source 31 supplies Russ's music-master catalog and the Arizona beverage
+  founder's factory, debt, and package-price account in Chapter 14. Its broader
+  cash, investment, market-cycle, relationship, identity, happiness, and enough
+  material stays reserved for Parts IV and V.
+- Source 47 supplies the central dry-cleaning factory and the travel-media
+  rights window in Chapter 14, with reported reach and acquisition claims
+  bounded by contract, concession, measurement, renewal, and substitution.
+  Its markets, property, financial services, risk, and life material remains
+  reserved for Chapters 16--23.
+- Source 51 supplies the beauty founder's reported partner buyout and sole-
+  original-founder ownership in Chapter 14, treated as a cash-and-control choice
+  rather than a template. Its product, reinvestment, leadership, family,
+  purpose, and remaining evidence stays reserved for Chapters 15--23.
+- Source 53 supplies the retirement-transfer acquisition thesis, sourcing
+  routes, and reported SBA 7(a) financing example in Chapter 14. Current rules,
+  guarantees, eligibility, equity, valuation, and underwriting are expressly
+  left for transaction-specific verification; its remaining wealth and life
+  claims stay reserved for final classification.
+- Source 55 supplies School of Hard Knocks' audience-to-adjacent-offer account
+  in Chapter 14 as an example of distribution reuse rather than unrelated
+  expansion. Its interviewing, relationships, creator economics, risk,
+  education, purpose, and community material remains reserved for Chapters
+  15--23.
 
 ## Acceptance Rule
 
