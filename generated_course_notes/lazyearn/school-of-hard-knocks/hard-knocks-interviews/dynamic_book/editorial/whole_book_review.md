@@ -29,8 +29,7 @@ Status: accepted on 2026-08-25.
 
 ## Remaining Gates
 
-- Commit and push the accepted publication, then reconcile it with `main`
-  without changing the read-only source worktree.
+- None. All acceptance gates are complete.
 
 ## Pass 2: Prose, Attribution, and Claims
 
@@ -107,3 +106,15 @@ Status: accepted on 2026-08-25.
   one of the accepted published full-size PDF and visually inspected.
 - Reader-facing repository and website labels now use the final title and
   describe the book as a coherent synthesis rather than a dynamic artifact.
+
+## Pass 6: Repository Integration
+
+Status: accepted on 2026-08-25.
+
+- The complete publication branch was pushed and fast-forwarded into `main`;
+  no conflict resolution or history rewrite was required.
+- The original `/home/lachlan/ProjectsLFS/LazyEarn` source worktree remained
+  read-only throughout the project.
+- The parent repository records Video2Book commit `7d3cfdc`, which is also the
+  current Video2Book `main` commit and contains the validated standalone pocket
+  export repairs.
