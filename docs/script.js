@@ -484,7 +484,7 @@ const pdfEntries = {
     aliases: ["hard-knocks-dynamic-book", "how-you-got-rich-book"],
     title: "How You Got Rich",
     description:
-      "A coherent book drawn from 135 School of Hard Knocks interviews about earning, ownership, value, risk, freedom, and enough.",
+      "A coherent book drawn from 135 School of Hard Knocks interviews about building abundance, finding fulfillment, and retaining the freedom to know enough.",
     pdf: "publications/how-you-got-rich/how-you-got-rich.pdf",
     download: "publications/how-you-got-rich/how-you-got-rich.pdf",
     markdown:

@@ -4,8 +4,11 @@
 
 A well-lived life is the end. Wealth is infrastructure: it can buy time,
 resilience, choice, care, and room to act, but it cannot decide what deserves a
-life. Leadership is stewardship of the people and systems that make durable
-business, freedom, and happiness possible.
+life. Abundance is sufficient resources, capabilities, relationships, time,
+and options. Fulfillment is the use of those capacities for purposes worth the
+effort. Contentment is the freedom to recognize enough rather than become
+owned by accumulation. Leadership is stewardship of the people and systems
+that make durable business and all three goods possible.
 
 ## Evidence Hierarchy
 
@@ -24,6 +27,8 @@ interview evidence or import unsupported facts into a speaker's story.
 - One lucid, humane authorial intelligence; never a fake interviewee.
 - Concrete story before abstraction when a good source scene exists.
 - Claims proportional to evidence; practical without promising wealth.
+- Investigative rather than preachy: ask what works, for whom, under which
+  conditions, at what cost, and when enough becomes enough.
 - Economical paragraphs with varied rhythm and few ornamental headings.
 - No production language, source-processing narration, or mechanical recap.
 
@@ -35,6 +40,9 @@ interview evidence or import unsupported facts into a speaker's story.
 - Persistence raises encounter probability but does not guarantee success.
 - Visibility creates distribution and exposure.
 - Ambition can enlarge agency while consuming the life it was meant to free.
+- Abundance without fulfillment can become managed excess; fulfillment without
+  a material floor can remain fragile; contentment must not become an excuse
+  for deprivation or injustice.
 - Advice from winners is evidence, not proof that luck and starting conditions
   did not matter.
 
@@ -69,7 +77,9 @@ primary and secondary material has been integrated or explicitly classified.
 Drafting continues in reading order so voice, definitions, and recurring cases
 accumulate rather than reset.
 
-Chapter 1 defines wealth through security, choice, time, and enough. Chapter 2
+Chapter 1 defines wealth through security, choice, time, and enough, and
+separates abundance, fulfillment, and contentment as complementary goods.
+Chapter 2
 places agency inside unequal feasible sets and establishes capacity, capability,
 and access as distinct constraints. The opportunity inventory and loss budget
 are now recurring decision tools. Chapter 3 makes capability economically
@@ -318,9 +328,10 @@ citizenship, and friendship remain equally available. Gratitude affects
 attention but does not command events or replace care and structural change.
 Enough joins a priced material floor to ethical boundaries, legitimate claims,
 work worth inhabiting, survivable risk, and the things no amount may purchase.
-The final enough statement and stewardship argument return the entire machine
-to its purpose: accumulated agency should protect and share a worthwhile life,
-not become its author.
+The final enough statement tests abundance, fulfillment, and contentment
+together. The stewardship argument returns the entire machine to its purpose:
+accumulated agency should protect and share a worthwhile life, not become its
+author.
 
 ## Reserved Recurrences
 

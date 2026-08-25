@@ -9,16 +9,21 @@ transitions.
 
 A well-lived life is the end. Wealth is infrastructure: it can buy time,
 resilience, choice, care, and room to act, but it cannot decide what deserves a
-life. Leadership is stewardship of the people and systems that make durable
-business, freedom, and happiness possible.
+life. The governing human goods are linked but distinct: abundance means
+sufficient resources, capabilities, relationships, time, and options;
+fulfillment means using life and work toward purposes worth the effort; and
+contentment means retaining the freedom to recognize enough. Leadership is
+stewardship of the people and systems that make durable business and all three
+goods possible.
 
 The book therefore moves in one direction:
 
-1. Choose what money is for.
+1. Decide what kind of life money is meant to support.
 2. Make something another person genuinely values.
 3. Turn repeated value into responsible ownership.
 4. Make capital survive risk and time.
-5. Use freedom for a life worth living.
+5. Use financial freedom to widen abundance, fulfillment, and contentment
+   without letting accumulation become the purpose.
 
 ## Opening Contract
 
@@ -160,7 +165,7 @@ Place taxes, entities, contracts, disclosure, insurance, advisers, and
 professional duties around the risks they are meant to contain. Primary
 sources: 1, 56.
 
-## Part V: Enough
+## Part V: Freedom and Enough
 
 ### 21. The Cost of the Game
 
@@ -177,8 +182,9 @@ Primary sources: 83, 123, 133.
 ### 23. Enough
 
 Return to scarcity, diminishing returns, happiness, meaning, faith, family,
-service, and stewardship without imposing one answer. Primary sources: 3, 4,
-90.
+service, and stewardship without imposing one answer. Distinguish abundance,
+fulfillment, and contentment, then join them in an actionable definition of
+financial freedom and enough. Primary sources: 3, 4, 90.
 
 ## Ending Contract
 
@@ -191,11 +197,21 @@ than a wealth promise.
 ## Drafting Rules
 
 - A chapter opens with a scene or decision only when it advances the argument.
+- Money, markets, marketing, business, finance, economics, entrepreneurship,
+  leadership, relationships, health, meaning, happiness, and freedom are all
+  in scope when they clarify how a reader can build and use a richer life. A
+  subject is excluded when it adds breadth without changing understanding or
+  practice.
 - A recurring person returns only when a later decision changes what the first
   appearance meant.
+- Ask what works, for whom, under which conditions, at what cost, and where the
+  lesson stops. Put luck, incentives, starting conditions, survivorship,
+  ethics, and credible contrary evidence beside the attractive claim.
 - Reported numbers are labeled by category and attribution; none is decorative.
 - Contradictions appear where the attractive claim appears, not in a disclaimer
   appendix.
+- Outside books and course material may explain mechanisms, but the School of
+  Hard Knocks interviews remain the narrative and evidentiary spine.
 - Practical tools grow from the chapter's evidence and remain proportionate to
   it.
 - No chapter ends with a mechanical summary. Its last paragraph changes the

@@ -23,6 +23,10 @@ Localization scope split (synced for this round):
 
 This shelf is mirrored in the repo at [all_notes/wealth-research](all_notes/wealth-research) and synced to the local LazyingArtBooks `wealth-research` shelf.
 
+**How You Got Rich** turns all 135 School of Hard Knocks interviews into one
+source-traceable inquiry into abundance, fulfillment, contentment, and
+financial freedom.
+
 | Wealth from first principles | How You Got Rich | How You Got Successful? | How You Got Happiness? |
 | --- | --- | --- | --- |
 | [<img src="docs/publications/wealth-from-first-principles/cover-page-1.png" alt="Wealth from first principles first page" width="180">](https://earn.lazying.art/pdf-viewer.html#wealth-from-first-principles) | [<img src="docs/publications/how-you-got-rich/cover-page-1.png" alt="How You Got Rich first page" width="180">](https://earn.lazying.art/pdf-viewer.html#how-you-got-rich) | [<img src="docs/publications/how-you-got-successful/cover-page-1.png" alt="How You Got Successful first page" width="180">](https://earn.lazying.art/pdf-viewer.html#how-you-got-successful) | [<img src="docs/publications/how-you-got-happiness/cover-page-1.png" alt="How You Got Happiness first page" width="180">](https://earn.lazying.art/pdf-viewer.html#how-you-got-happiness) |
