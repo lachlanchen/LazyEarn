@@ -64,7 +64,7 @@ interview evidence or import unsupported facts into a speaker's story.
 ## Draft State
 
 Evidence mapping and architecture are complete. The front matter, introduction,
-and Chapters 1--6 are accepted. Source rows remain `mapped` until all of their
+and Chapters 1--7 are accepted. Source rows remain `mapped` until all of their
 primary and secondary material has been integrated or explicitly classified.
 Drafting continues in reading order so voice, definitions, and recurring cases
 accumulate rather than reset.
@@ -86,8 +86,16 @@ ethical problem brief. Chapter 6 tests that brief rather than treating it as
 settled product truth, using event-based interviews, substitute mapping,
 frontline observation,
 paired review analysis, an evidence ladder, safe pilot scope, transition tests,
-disconfirming evidence, and a learning record. Chapter 7 can price the credible
+disconfirming evidence, and a learning record. Chapter 7 prices the credible
 outcome without pretending that attention, interest, or one pilot proves value.
+It distinguishes gross revenue from risk-adjusted contribution, models
+buyer-specific gain, avoided loss, time, option value, implementation burden,
+and downside, and places a sustainable seller floor beside the buyer's
+alternative. Strategic fit, a hidden-value thought experiment, accumulated
+product evidence, paid-sales testing, premium positioning, payment convenience,
+and ROI language are all bounded by proof, disclosure, agency, duty of care,
+and distribution of harm. Chapter 8 can now place this defensible value case in
+a conversation where the buyer can question it, refuse it, or buy.
 
 ## Reserved Recurrences
 
@@ -139,10 +147,10 @@ outcome without pretending that attention, interest, or one pilot proves value.
   commitment, MVP, and safe exposure to judgment in Chapter 6. Its acquisition,
   MRR, fundraising, outsourcing, channel, exit, advisor, and pandemic-pivot
   material remains reserved for Parts II--IV.
-- Source 98 supplies paired review analysis in Chapter 6. Its premium-price
-  argument belongs in Chapter 7; delegation and team complementarity belong in
-  Part III; drawdown, index, incentive, AUM, funding, and metric distinctions
-  remain reserved for Parts III and IV.
+- Source 98 supplies paired review analysis in Chapter 6 and the bounded
+  premium-price argument in Chapter 7. Delegation and team complementarity
+  belong in Part III; drawdown, index, incentive, AUM, funding, and metric
+  distinctions remain reserved for Parts III and IV.
 - Source 10 supplies early-market observation in Chapter 6. Its service,
   automation, founder judgment, patience, trusts, concentration, verification,
   urgency, and holding-period material remains reserved for Parts II--IV.
@@ -157,6 +165,33 @@ outcome without pretending that attention, interest, or one pilot proves value.
 - Source 58's listening and operating-detail material returns in Chapter 6.
   Its remaining reinvestment, acquisition, bank, crisis, relationship, and
   capital-fit evidence stays reserved for Parts III and IV.
+- Source 45 supplies the three-month regulatory-pathway value case in Chapter 7.
+  Its risk sizing, field-service operation, and other capital material remain
+  reserved for Parts III and IV.
+- Source 13 supplies buyer-specific strategic fit and the reported point-of-sale
+  acquisition arithmetic in Chapter 7. Its employee stock, satellite, capacity,
+  government-contract, and later-company material remains reserved for Parts
+  III and IV.
+- Source 94 supplies the corrected hidden-value bag thought experiment in
+  Chapter 7. Its brand, revenue-vertical, allocation, mentorship, credit, and
+  leverage claims remain reserved for the distribution and capital chapters.
+- Source 78 supplies long customer discovery, repeated medical-device
+  improvement, and reported demand pull as outcome evidence in Chapter 7. Its
+  replication, fast-growth cash crisis, financing, and ownership evidence
+  remains reserved for Parts III and IV.
+- Source 118 supplies paid-sales evidence and the thousand-conversation
+  heuristic in Chapter 7. Its sunk-cost failure, domain partners, local
+  marketing, delegation, purpose, and organizational alignment remain reserved
+  for Chapters 8--13 and Part IV.
+- Source 54 supplies buyer requirement, budget, benefits, return language,
+  questioning, and payment convenience in Chapter 7, with explicit agency and
+  disclosure limits. Its direct closing, pandemic pivot, product recognition,
+  development, commission, and mindset material remains reserved for Chapters
+  8--12 and Part V.
+- Source 98's premium-price analogy returns in Chapter 7 only to distinguish
+  evidence-backed performance from prestige and scarcity theater. Its remaining
+  delegation, drawdown, index, incentive, funding, and metric material stays
+  reserved for Parts III and IV.
 
 ## Acceptance Rule
 
