@@ -17,7 +17,8 @@
 - Chapter 12, Working Capital Is the Price of Growth, is accepted.
 - Chapter 13, The Company Is Other People, is accepted.
 - Chapter 14, Own the Rights and Critical Links, is accepted.
-- Chapters 15--23 in manuscript-v3 remain V2 baselines until individually
+- Chapter 15, Build Something That Can Outlive You, is accepted.
+- Chapters 16--23 in manuscript-v3 remain V2 baselines until individually
   reviewed; their presence in a compiling V3 PDF is not V3 acceptance.
 
 ## Live Argument
@@ -164,6 +165,18 @@ records each critical link's function, bundle, validity and transfer,
 dependency and failure, cost and duty, and deliberate choice among ownership,
 contract, diversification, backup, redesign, or bounded acceptance.
 
+Chapter 15 separates continuity, succession, transfer, and sale from kinship,
+ownership, employment, and authority. A willing successor must demonstrate
+capability in real decisions, receive matching authority and support, renew
+nonassignable trust, remain challengeable and removable, and have a responsible
+fallback. Material provision and cultivated capacity complement one another;
+declining a family occupation is not betrayal. Record 3 now contains one
+transferability and succession review covering purpose and protected people,
+demand and economics, rights and obligations, roles and candidates, transition
+evidence, trust and choice, the transaction bridge, and failure and review.
+Record 5 opens only family purpose, protected people, role boundaries, and
+freedom to decline.
+
 ## Recurring Cases
 
 - Glenn Boyd may return only when life design, founder dependence, growth
@@ -211,16 +224,31 @@ contract, diversification, backup, redesign, or bounded acceptance.
 - The Dallas bank operator belongs to Chapter 14 for equity that fits
   acquisition growth and the danger of one dominant investor. His no-Plan-B
   claim is rejected as general risk guidance and should not recur.
+- TJ's acquisition case belongs to Chapter 14 for diligence and Chapter 15 for
+  owners whose children do not want the business. The financing arithmetic,
+  target categories, portals, and transfer-wave label do not recur.
+- The London businessman's sale thesis belongs to Chapter 15 as a buyer-horizon
+  heuristic. It must not become the book's purpose or a later valuation rule.
+- Jody Lorenzo belongs to Chapter 15 for provision, money management, worker
+  care, and the planning question raised by a long-lived company. Chapter 20
+  may mention legal planning only after current primary review; no later
+  chapter may infer a trust design from his answer.
+- Tim Tebow belongs to Chapter 15 for the complement between material resources
+  and cultivated capacity. Chapter 23 may return only when purpose and
+  intergenerational stewardship change the question, without repeating the
+  phrasing as a slogan.
+- Robert Miller belongs to Chapter 15 for portable reputation after two agency
+  closures. Chapter 22 may use his evolving purpose only without repeating the
+  closure or launch account.
 
 ## Handoff
 
-Chapter 15 must ask whether a willing and capable next steward can carry the
-customer promise, rights, duties, relationships, and judgment across absence,
-transfer, sale, disability, or death. Continuity, succession, transfer, and
-sale remain separate decisions. Kinship, economic ownership, employment, and
-authority must not collapse into a family title; a relative may decline, an
-outside buyer or employee group may be the better steward, and orderly closure
-remains legitimate. Record 3 should add transferability, successor evidence,
-authority, removal, fallback, and transition tests. Record 5 may receive only
-family purpose, protected people, role boundaries, and freedom to decline; it
-must not duplicate the later inheritance and enough chapters.
+Chapter 16 must address every reported number before interpreting it. Give the
+claim an entity, period, category, gross or net status, ownership share,
+liquidity, conditions, source, and confidence. Reconcile attention, qualified
+decision, exchange, delivery, acceptance, and collection to revenue,
+contribution, working capital, available cash, debt, and owner distribution.
+Industrial-property success, an Austin paper loss, and a New York margin call
+may enter only as differently addressed numbers; Chapter 18 owns the risk
+judgment. Record 4 opens with the number address and its reconciliation to
+Record 3. A valuation remains a proposition, not spendable money.
