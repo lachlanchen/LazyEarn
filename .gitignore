@@ -21,5 +21,9 @@ references/wealth-engine/wealth-refinery.lock
 # Repo-local external media downloads
 downloads/
 
+# Python tooling caches
+__pycache__/
+*.py[cod]
+
 # Repo-local reference materials
 materials/
