@@ -6,7 +6,8 @@
 - Chapter 1, A Number Cannot Tell You What Rich Means, is accepted.
 - Chapter 2, The Unequal Starting Line, is accepted.
 - Chapter 3, Skills, Work, and the First Margin, is accepted.
-- Chapters 4--23 in manuscript-v3 remain V2 baselines until individually
+- Chapter 4, Choose the Life Before the Income, is accepted.
+- Chapters 5--23 in manuscript-v3 remain V2 baselines until individually
   reviewed; their presence in a compiling V3 PDF is not V3 acceptance.
 
 ## Live Argument
@@ -52,6 +53,12 @@ reserve with one job, and a review date with explicit continue, change, and
 stop evidence. A multigenerational horizon enters only as a reason to leave
 later people options rather than present status claims.
 
+Chapter 4 completes Record 1 with the desired ordinary week, present output
+and future capability, protected health and relationships, tolerable work
+texture and uncertainty, a bounded season, place and consent, contribution,
+and a revision date. Freedom now has positive content rather than merely an
+exit from compulsory work.
+
 ## Recurring Cases
 
 - Glenn Boyd may return only when life design, founder dependence, growth
@@ -70,10 +77,15 @@ later people options rather than present status claims.
   horizon and high-income overspending mechanism. Chapter 23 may return to the
   horizon, but not to his employment hierarchy, gendered status example, or
   unaudited figures.
+- Mike Kessner first appears in Chapter 4 to keep home, family time, and the
+  ability to leave bad work visible before income is chosen. Later returns may
+  address relationship cost, role transition, or enough without turning his
+  household form into a prescription.
 
 ## Handoff
 
-Chapter 4 must decide what ordinary life the new margin is meant to protect.
-It must price the week rather than compare job titles, preserve vocation
-without pretending passion creates demand, and set a season and revision date
-for work that affects health, care, relationships, place, and uncertainty.
+Chapter 5 opens Record 2 by choosing a costly customer problem rather than a
+founder identity. It must separate user, payer, approver, champion, retailer,
+and regulator; define the reference alternative and promised change; name
+non-goals and proof burden; and preserve evidence that would disconfirm the
+choice.
