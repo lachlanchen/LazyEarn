@@ -23,6 +23,8 @@ These files keep source completeness separate from reader-facing prose.
   architecture.
 - `chapter_reviews/` records the evidence, prose, figure, continuity, and PDF
   checks completed before a chapter is accepted.
+- `whole_book_review.md` records cross-chapter editorial and publication gates
+  that cannot be established by any one chapter review.
 
 Run the deterministic audit from the repository root:
 
