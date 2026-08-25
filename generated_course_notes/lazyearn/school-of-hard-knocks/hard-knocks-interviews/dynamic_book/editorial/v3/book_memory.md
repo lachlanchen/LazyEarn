@@ -177,6 +177,17 @@ evidence, trust and choice, the transaction bridge, and failure and review.
 Record 5 opens only family purpose, protected people, role boundaries, and
 freedom to decline.
 
+Chapter 16 opens Record 4 by giving each reported number an entity and ownership
+share, time, category, scope, economic state, prior claims, source and
+confidence, and decision. Record 3's operating route now reconciles attention,
+exchange, delivery, acceptance, and collection to collected contribution,
+available company cash, financing, authorized owner distribution, and personal
+available resources. A successful financed exposure, a marked loss, and a
+creditor's cash demand remain distinct observations until later risk judgment.
+Valuation remains a proposition, unknown remains an admissible field, and no
+peak company or portfolio number enters a household decision without its rights,
+liquidity, duties, and consequence of error.
+
 ## Recurring Cases
 
 - Glenn Boyd may return only when life design, founder dependence, growth
@@ -240,15 +251,31 @@ freedom to decline.
 - Robert Miller belongs to Chapter 15 for portable reputation after two agency
   closures. Chapter 22 may use his evolving purpose only without repeating the
   closure or launch account.
+- The Miami industrial-property founder belongs to Chapter 16 for the address
+  of household collateral and revolving credit. Chapter 18 may return only to
+  survivorship, consent, and the household floor; success cannot validate an
+  all-in rule.
+- Matt Teifke belongs to Chapter 16 for the distinction among a personal marked
+  loss, company revenue, company value, and ownership rights. Chapter 18 may
+  return only for concentration, disconfirming evidence, and loss capacity,
+  without promoting or condemning the named security.
+- The anonymous New York trader belongs to Chapter 16 for a margin call as a
+  dated cash demand. Chapter 18 may return only to forced-sale timing and
+  willingness versus capacity. Sensitive secondhand death material remains
+  excluded.
+- The Austin lawyer's restricted-stock sequence belongs to Chapter 16. Its
+  three dated values and personal sell-early conclusion do not recur as a
+  universal investment rule.
 
 ## Handoff
 
-Chapter 16 must address every reported number before interpreting it. Give the
-claim an entity, period, category, gross or net status, ownership share,
-liquidity, conditions, source, and confidence. Reconcile attention, qualified
-decision, exchange, delivery, acceptance, and collection to revenue,
-contribution, working capital, available cash, debt, and owner distribution.
-Industrial-property success, an Austin paper loss, and a New York margin call
-may enter only as differently addressed numbers; Chapter 18 owns the risk
-judgment. Record 4 opens with the number address and its reconciliation to
-Record 3. A valuation remains a proposition, not spendable money.
+Chapter 17 must take one addressed obligation and ask whether the complete asset
+and capital stack can carry it through the path received rather than only the
+expected path. Match debt to conservative cash flow, collateral, maturity,
+rate path, covenants, guarantees, vacancy or demand loss, maintenance,
+refinancing, recovery, and every person exposed. Interview financing heuristics
+remain testimony. Any precise regulated or current claim requires date,
+jurisdiction, and primary-source review. Record 4 receives the capital stack,
+timing, bearer, guarantees, stress paths, maturity, recovery, and reasons not to
+borrow. The next handoff must show why an asset can carry debt while the
+household remains too concentrated in one thesis.
