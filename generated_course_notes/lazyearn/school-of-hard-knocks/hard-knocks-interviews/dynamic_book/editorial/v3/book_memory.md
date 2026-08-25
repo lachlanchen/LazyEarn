@@ -10,7 +10,8 @@
 - Chapter 5, Find the Expensive Problem, is accepted.
 - Chapter 6, Listen Before You Build, is accepted.
 - Chapter 7, Price the Outcome, is accepted.
-- Chapters 8--23 in manuscript-v3 remain V2 baselines until individually
+- Chapter 8, Sales Is a Test of Reality, is accepted.
+- Chapters 9--23 in manuscript-v3 remain V2 baselines until individually
   reviewed; their presence in a compiling V3 PDF is not V3 acceptance.
 
 ## Live Argument
@@ -86,6 +87,15 @@ rung and role, commercial terms, and consent. Proceed, decline, defer, and use
 another route remain legitimate; consent is not inferred from conversation or
 urgency.
 
+Chapter 8 completes those four blocks through a voluntary decision. Record 2
+now retains the buyer's criteria and authorized stopping point; the evidence
+rung, concern, disconfirmation, and next test; the actual terms discussed; and
+material disclosure, safeguards, affected people, consent, and the seller's
+delivery obligation. Agreement, invoice, collected cash, accepted delivery,
+repeat use, renewal, and healthy economics remain separate observations. A
+material deadline may be stated with its source, date, consequence, and
+alternatives; it may not be manufactured into fear.
+
 ## Recurring Cases
 
 - Glenn Boyd may return only when life design, founder dependence, growth
@@ -108,24 +118,27 @@ urgency.
   ability to leave bad work visible before income is chosen. Later returns may
   address relationship cost, role transition, or enough without turning his
   household form into a prescription.
-- Chris Meroff first appears in Chapter 5 for the failed revival and the need
-  for evidence capable of ending an idea. Chapter 8 may return to paid demand,
-  but must not repeat the loss account.
+- Chris Meroff appears in Chapter 5 for the failed revival and the need for
+  evidence capable of ending an idea, then in Chapter 8 for the sales-only
+  counterclaim. The second use does not repeat the loss account and bounds one
+  sale to the conditions reproduced. Do not return to either anecdote unless a
+  later scale test advances the evidence rather than restating it.
 - John Abraham first appears in Chapter 5 for role-specific discovery and a
   pilot commitment. Chapter 6 advances that commitment into the evidence
   ladder and experiment contract. Chapter 8 may return only to what one sale
   establishes, not repeat his interview or pilot sequence.
-- Elliot Hill first appears in Chapter 5 for the customer--product--story
-  sequence. Chapter 6 advances the listening method without restating his
-  career summary. Chapter 8 may return only to the direct ask.
+- Elliot Hill appears in Chapter 5 for the customer--product--story sequence,
+  Chapter 6 for listening without a career summary, and Chapter 8 for the
+  direct ask. His contracted recurrence is complete.
 - Josh's paired-review method belongs to Chapter 6. Chapter 7 may use it only
   to distinguish evidence-backed premium value from copying a famous price.
 
 ## Handoff
 
-Chapter 8 must complete the reciprocal exchange record through a voluntary
-decision. Chris Meroff returns only to qualify the claim that sales are the sole
-indicator. A sale validates only the person, decision, terms, evidence, and
-delivery reproduced; it does not prove scale, margin, collected cash,
-retention, safety, or durability. Preparation never creates presumed consent,
-and urgency may state real consequences but may not manufacture fear.
+Chapter 9 must turn the accepted exchange into one attention-to-cash operating
+flow: attention, qualified decision, exchange, delivery, acceptance,
+collection, return, referral, complaint, and repair. Each channel must perform
+a named job, and each delay must identify its constraint, waiting time, and
+carrier. Record 2 closes with channel and trust evidence, then hands the flow
+identifier and unresolved constraint to Record 3. A bottleneck limits the
+whole promise; it is not permission to maximize a local activity.
