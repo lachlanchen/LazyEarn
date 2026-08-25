@@ -64,7 +64,7 @@ interview evidence or import unsupported facts into a speaker's story.
 ## Draft State
 
 Evidence mapping and architecture are complete. The front matter, introduction,
-and Chapters 1--11 are accepted. Source rows remain `mapped` until all of their
+and Chapters 1--12 are accepted. Source rows remain `mapped` until all of their
 primary and secondary material has been integrated or explicitly classified.
 Drafting continues in reading order so voice, definitions, and recurring cases
 accumulate rather than reset.
@@ -134,6 +134,19 @@ an eight-function, weakest-link absence audit turn founder independence into a
 safe test rather than a slogan. Its closing mismatch between demand, collection,
 inventory, payroll, and capacity now prepares Chapter 12 to price growth in
 working capital.
+
+Chapter 12 prices that growth carry. It separates revenue, gross profit,
+operating profit, cash, and balance-sheet capacity; places receipts and payments
+on a weekly cash calendar; and defines the peak cumulative deficit plus a named
+reserve. Purchase orders, up-front collection, deposits, milestones, supplier
+terms, staged capacity, retained earnings, bank lines, factoring, and equity
+allocate rather than eliminate the timing gap. Each is judged by full cost,
+control, recourse, and failure consequence. Clean books and owner literacy make
+truthful bank relationships possible; emergency sales count as liquidity only
+when collection precedes the obligations they create. The growth-carry worksheet
+joins demand, unit economics, peak cash, capacity, stress cases, stop conditions,
+and weekly variance. Its ending turns from numbers to the people who must carry
+the work, preparing Chapter 13's leadership and governance argument.
 
 ## Reserved Recurrences
 
@@ -368,6 +381,57 @@ working capital.
   failure, and leadership responsibility as roles expand. Its primary growth,
   working-capital, partnership, ownership, risk, health, enough, and regret
   material remains reserved for Chapters 12, 13, and 21--23.
+- Source 35 supplies retailer margin, up-front collection, consignment risk, and
+  distribution cash architecture in Chapter 12. Its e-cigarette health claims
+  are explicitly rejected. Bootstrap, technology timing, mentors, portfolio,
+  insurance, property finance, severe loss, identity, and recovery remain
+  reserved for Chapters 14--23.
+- Source 39 supplies trustworthy books, accounting support, credit, and
+  sale-readiness in Chapter 12, paired with owner understanding. Its health,
+  service, operating team, technology, scarcity, luxury-asset cost, access,
+  negotiation, consistency, and later-life claims remain reserved for Chapters
+  13--23.
+- Source 41 supplies staged industrial growth, lender track record,
+  asset-supported acquisition, repayment from business cash flow, and
+  margin-velocity interaction in Chapter 12. Its customer repair, visibility,
+  specialist hiring, career apprenticeship, AI-power demand, relationship
+  selling, and remaining risk material stays reserved for Chapters 13--23.
+- Source 42 supplies transparent bank communication, additional borrowing, and
+  the capacity-character-credit framework during a zero-revenue shock in
+  Chapter 12. Its distressed-system repair, brand, culture, operating literacy,
+  negotiation, and public-governance testimony remain reserved for Chapters
+  13--23.
+- Source 65 supplies the purchase-order capacity gap, unit economics, and
+  production-finance warning in Chapter 12. Its seller-problem diligence,
+  acquisition scale, community, generational ownership, customer selection,
+  legal dispute, property, team, faith, and loss material remains reserved for
+  Chapters 14--23.
+- Source 68 supplies the opening working-capital case, factoring burden,
+  retained-earnings path, bank-guided balance-sheet building, and staged growth
+  in Chapter 12. Its delegation, customer acquisition, standardized delivery,
+  site leadership, peer relationships, and results-based compensation remain
+  reserved for Chapters 13--15 and final recurrence review.
+- Source 73 supplies the distinction among reported earnings, retained company
+  cash, tax obligation, personal liquidity, expensive financing, bank credit,
+  payroll, and solvency in Chapter 12. Its product quality, football-owner
+  testimony, delegation, team, persistence, medicine, professional practice,
+  education, family, and time remain reserved for Chapters 13--23.
+- Source 75 supplies owner financial literacy and the governance consequence of
+  a reported marketing loss in Chapter 12. Its frontier technology, layoffs,
+  mentors, property, leverage, concentration, lifestyle, status, structural
+  constraint, and household material remains reserved for Parts IV and V.
+- Source 76 supplies the emergency cash-gap and rapid-sale case in Chapter 12,
+  bounded by collection and fulfillment obligations. Its property, scale,
+  delegation, purchasing, sponsored investment, trust, sales practice,
+  resilience, client care, and unlived-life material remains reserved for
+  Chapters 13--23.
+- Source 131 is classified in Chapter 12 as a duplicate excerpt of source 132
+  and contributes no independent corroboration. Its overload mechanism is
+  represented once through the controlling full interview.
+- Source 132 supplies financing rejection, frugality, retained ownership, and
+  expense multiplication in Chapter 12. Its partnership, role capacity,
+  product adoption, household risk, health, enough, regret, and time material
+  remains reserved for Chapters 13 and 21--23.
 
 ## Acceptance Rule
 
