@@ -482,9 +482,9 @@ const pdfEntries = {
   },
   "how-you-got-rich": {
     aliases: ["hard-knocks-dynamic-book", "how-you-got-rich-book"],
-    title: "How You Got Rich?",
+    title: "How You Got Rich",
     description:
-      "A nonlinear wealth-and-business manuscript distilled from the Hard Knocks interview corpus into recurring mechanisms, judgment patterns, and commercial lessons.",
+      "A coherent book drawn from 135 School of Hard Knocks interviews about earning, ownership, value, risk, freedom, and enough.",
     pdf: "publications/how-you-got-rich/how-you-got-rich.pdf",
     download: "publications/how-you-got-rich/how-you-got-rich.pdf",
     markdown:
@@ -494,9 +494,9 @@ const pdfEntries = {
   },
   "how-you-got-rich-pocket-1-2x": {
     aliases: ["how-you-got-rich-pocket-1.2x", "how-you-got-rich-pocket-1_2x"],
-    title: "How You Got Rich? (Pocket 1.2x)",
+    title: "How You Got Rich (Pocket 1.2x)",
     description:
-      "The 1.2x pocket edition of the Hard Knocks dynamic wealth manuscript for tablet and e-ink reading.",
+      "The 1.2x 6x9 edition of How You Got Rich for tablet and e-ink reading.",
     pdf: "publications/how-you-got-rich/how-you-got-rich-pocket-1.2x.pdf",
     download: "publications/how-you-got-rich/how-you-got-rich-pocket-1.2x.pdf",
     markdown:

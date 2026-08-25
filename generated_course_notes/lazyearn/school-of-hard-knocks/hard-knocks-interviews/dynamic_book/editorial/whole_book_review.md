@@ -29,8 +29,8 @@ Status: accepted on 2026-08-25.
 
 ## Remaining Gates
 
-- Publish canonical copies, refresh the first-page preview, and verify the
-  atomic Nutstore checksum.
+- Commit and push the accepted publication, then reconcile it with `main`
+  without changing the read-only source worktree.
 
 ## Pass 2: Prose, Attribution, and Claims
 
@@ -90,3 +90,20 @@ Status: accepted on 2026-08-25.
   sheets. The cover, credits, contents, running heads, chapter and part pages,
   equations, tables, lists, both documentary frames, captions, links, blank
   versos, and ending are legible and free of clipping or collisions.
+
+## Pass 5: Publication and Synchronization
+
+Status: accepted on 2026-08-25.
+
+- The canonical dynamic-book PDFs, `all_notes`, root publication shelf, and
+  website publication copies match byte for byte.
+- The full-size SHA-256 is
+  `dfbcd49f251b89e33f5e646025cf97e4d9fec76aba5cf3392f843a40b378b931`.
+  The 1.2x pocket SHA-256 is
+  `16e41abf985885639a6aa3758cf3d370922596ece054b95858cba827d71fcb8a`.
+- The Nutstore Share copies were replaced atomically and match those accepted
+  checksums.
+- The 1275x1650 README and website preview was extracted at 150 dpi from page
+  one of the accepted published full-size PDF and visually inspected.
+- Reader-facing repository and website labels now use the final title and
+  describe the book as a coherent synthesis rather than a dynamic artifact.
