@@ -213,6 +213,18 @@ dependants, institutions, currency, location, platform, and customers. Record 4
 now contains one household risk map with dated duties, capital jobs, path tests,
 and operating rules that protect the right to wait.
 
+Chapter 19 turns that right to wait into controlled time. Cash, dated receipts,
+convertible assets, conditional access, and illiquid value remain separate;
+credit is mapped but never counted as cash already controlled. Household
+continuity, operating runway, committed projects, and opportunity capital are
+reserve jobs rather than mandatory accounts or percentages, and no dollar can
+serve two jobs at once. A long-cycle bridge must preserve future capability as
+well as current cash, with evidence, a maximum season, and an explicit extend,
+redesign, or stop condition. Record 4 now contains one interruption map covering
+dated claims, controlled and incoming cash, reserve jobs, conditional access,
+shock paths, recovery capacity, replenishment, and release. Record 1 changes
+only when the protected floor or capability plan changes explicitly.
+
 ## Recurring Cases
 
 - Glenn Boyd may return only when life design, founder dependence, growth

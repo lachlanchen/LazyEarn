@@ -54,7 +54,7 @@ V3 is developed in parallel so the accepted V2 edition remains unchanged:
   acceptance.
 - `book_memory.md` carries only durable argument and continuity decisions.
 
-Chapters 1--18 are accepted for V3. Chapters 19--23 remain V2 baselines until their
+Chapters 1--19 are accepted for V3. Chapters 20--23 remain V2 baselines until their
 individual reviews pass; a compiling working PDF does not imply their
 acceptance.
 
