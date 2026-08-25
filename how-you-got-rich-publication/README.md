@@ -41,7 +41,7 @@ takes command.
   larger type for compact screens and e-readers.
 - [V2 archive](v2/README.md), preserving the accepted full-size and pocket
   editions even after a later edition becomes canonical.
-- [Standalone source repository](https://github.com/lachlanchen/how-you-got-rich)
+- [Standalone source repository](https://github.com/lachlanchen/HowYouGotRich)
   with reproducible build scripts and figure attribution.
 - [Read on LazyEarn](https://earn.lazying.art/pdf-viewer.html#how-you-got-rich).
 
@@ -56,8 +56,8 @@ by School of Hard Knocks, its host, or any interviewee.
 ## Build
 
 ```bash
-git clone https://github.com/lachlanchen/how-you-got-rich.git
-cd how-you-got-rich
+git clone https://github.com/lachlanchen/HowYouGotRich.git
+cd HowYouGotRich
 ./scripts/build.sh
 ./scripts/build-pocket.sh
 ```

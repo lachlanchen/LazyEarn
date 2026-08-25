@@ -202,5 +202,5 @@ Status: accepted on 2026-08-25.
   those checksums. The 1360x1760 preview was rendered from page one of the
   accepted full-size PDF.
 - The dedicated public repository is
-  `https://github.com/lachlanchen/how-you-got-rich`, with its local curated
-  checkout at `/home/lachlan/ProjectsLFS/how-you-got-rich`.
+  `https://github.com/lachlanchen/HowYouGotRich`, with its local curated
+  checkout at `/home/lachlan/ProjectsLFS/HowYouGotRich`.
