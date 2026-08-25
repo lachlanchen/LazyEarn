@@ -15,6 +15,19 @@ Distribution is often reduced to promotion, as though its purpose were to
 produce a large number above a post. A business needs a longer path:
 
 \begin{equation}
+\ifdim\paperwidth<450pt
+\begin{aligned}
+\text{attention}&\longrightarrow\text{qualified decision}
+  \longrightarrow\text{exchange}\\
+&\longrightarrow\text{delivery},\\
+\text{delivery}&\longrightarrow\text{acceptance}
+  \longrightarrow\text{collection}\\
+&\longrightarrow\text{return or referral},\\
+\text{delivery}&\longrightarrow\text{complaint}
+  \longrightarrow\text{repair}\\
+&\longrightarrow\text{acceptance or exit}.
+\end{aligned}
+\else
 \begin{aligned}
 &\text{attention}\longrightarrow\text{qualified decision}
   \longrightarrow\text{exchange}\\
@@ -26,6 +39,7 @@ produce a large number above a post. A business needs a longer path:
   \longrightarrow\text{acceptance or exit}.
 \end{cases}
 \end{aligned}
+\fi
 \end{equation}
 
 Every arrow can fail. The wrong people can see the message. The promise can

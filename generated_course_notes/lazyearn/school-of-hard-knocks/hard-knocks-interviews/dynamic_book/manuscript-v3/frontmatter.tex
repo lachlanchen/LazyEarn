@@ -13,7 +13,13 @@
     {\fontsize{38}{42}\selectfont\bfseries\color{wealthink} HOW YOU\\GOT RICH\par}
     \vspace{1.0em}
     {\large\itshape\color{wealthink!78}
-      From Abundance to \mbox{Fulfillment} and Contentment\par}
+      \ifdim\paperwidth<450pt
+      \makebox[\linewidth][r]{From Abundance to}\\
+      \makebox[\linewidth][r]{Fulfillment and Contentment}\par
+      \else
+      From Abundance to \mbox{Fulfillment} and Contentment\par
+      \fi
+    }
   };
   \node[
     anchor=south east,

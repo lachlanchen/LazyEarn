@@ -35,6 +35,15 @@ fragile when one clock demands cash before another can produce it.
 Begin with collected operating cash. For a property, a simplified bridge is
 
 \begin{equation}
+\ifdim\paperwidth<450pt
+\begin{aligned}
+NOI_t={}&\text{collected operating revenue}_t\\
+        &-\text{ordinary operating expense}_t,\\
+CF_t^{\mathrm{owner}}={}&NOI_t-\text{debt service}_t\\
+        &-\text{capital work}_t-\text{income tax}_t\\
+        &-\text{other required cash}_t.
+\end{aligned}
+\else
 \begin{aligned}
 NOI_t={}&\text{collected operating revenue}_t
           -\text{ordinary operating expense}_t,\\
@@ -42,6 +51,7 @@ CF_t^{\mathrm{owner}}={}&NOI_t-\text{debt service}_t
           -\text{capital work}_t\\
         &-\text{income tax and other required cash}_t.
 \end{aligned}
+\fi
 \end{equation}
 
 Net operating income commonly leaves out financing, income tax, and capital
@@ -83,11 +93,20 @@ failure to the largest source of money.
 A complete stack begins with uses, not merely the purchase price:
 
 \begin{equation}
+\ifdim\paperwidth<450pt
+\begin{aligned}
+&\text{purchase}+\text{closing}+\text{repair}\\
+&\quad+\text{working capital}+\text{reserve}\\
+={}&\text{equity}+\text{senior debt}\\
+&\quad+\text{other committed capital}.
+\end{aligned}
+\else
 \begin{gathered}
 \text{purchase}+\text{closing}+\text{repair}+\text{working capital}
  +\text{reserve}\\
 =\text{equity}+\text{senior debt}+\text{other committed capital}.
 \end{gathered}
+\fi
 \end{equation}
 
 Include diligence, legal work, equipment, initial vacancy, interest before
@@ -161,11 +180,22 @@ or complete cash-flow calculation, so the return cannot be reconstructed.
 The mechanism is still clear:
 
 \begin{equation}
+\ifdim\paperwidth<450pt
+\begin{aligned}
+\text{cash released}={}&\text{new debt}\\
+ &-\text{old debt repaid}-\text{closing cost}\\
+ &-\text{required reserve},\\
+&\text{remaining equity}\\
+&\quad=\text{supported asset value}\\
+&\qquad-\text{new debt}.
+\end{aligned}
+\else
 \begin{aligned}
 \text{cash released}={}&\text{new debt}-\text{old debt repaid}\\
  &-\text{closing cost}-\text{required reserve},\\
 \text{remaining equity}={}&\text{supported asset value}-\text{new debt}.
 \end{aligned}
+\fi
 \end{equation}
 
 The refinance does not create profit. It releases borrowed cash against value

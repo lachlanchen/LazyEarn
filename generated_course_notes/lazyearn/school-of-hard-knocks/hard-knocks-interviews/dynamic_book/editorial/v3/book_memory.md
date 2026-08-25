@@ -381,10 +381,12 @@ has completed its task.
 
 ## Handoff
 
-All twenty-three chapters, the whole-book cadence and continuity pass, and the
-full-size edition are accepted. The argument, recurrence, attribution,
+All twenty-three chapters, the whole-book cadence and continuity pass, and both
+reader editions are accepted. The argument, recurrence, attribution,
 transitions, five living records, exercises, and ending cohere in order.
 Deterministic evidence, PDF, font, repetition, and leak checks pass. All 163
-pages and all 33 equation-bearing pages have been inspected. Next build and
-inspect the 1.2x edition from the same source. Preserve V2 and promote V3 only
-after pocket, publication, and synchronization gates pass together.
+full-size pages, all 349 pocket pages, and every equation-bearing page in both
+editions have been inspected. The responsive pocket displays retain the
+accepted full-size forms and remove narrow-page overflow without shortening the
+book. Preserve V2 and promote V3 only through distinct versioned publication
+and synchronization paths with verified checksums.

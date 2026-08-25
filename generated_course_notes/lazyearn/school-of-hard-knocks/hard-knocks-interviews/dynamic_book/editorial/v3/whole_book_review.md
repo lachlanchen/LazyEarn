@@ -1,7 +1,7 @@
 # V3 Whole-Book Review
 
-Status: full-size edition accepted; pocket-edition and publication review
-remain open.
+Status: full-size and 1.2x pocket editions accepted; versioned publication and
+synchronization remain open.
 
 ## Argument and Continuity
 
@@ -74,11 +74,33 @@ remain open.
   captions remain readable, and neither image is stretched, cropped, or placed
   beside an unrelated claim.
 
+## Pocket-Edition Acceptance
+
+- The 1.2x edition is 349 pages at 6 by 9 inches. It is built from the same
+  accepted V3 manuscript rather than a shortened or PDF-derived source.
+- Responsive display branches reflow the distribution route, collected
+  contribution, owner-cash bridge, capital stack, and refinance bridge within
+  the narrow measure while retaining the accepted full-size forms. The
+  full-size edition remains 163 pages.
+- All 349 physical pages were rendered and inspected in order. All 40
+  equation-bearing pages received a second enlarged review; equations,
+  numbers, running heads, chapter openings, figures, captions, links, and the
+  final page remain readable and inside the page boundary.
+- Every sparse page was reconciled to an intentional cover, verso, part
+  divider, recto chapter start, or short chapter transition. No content is
+  missing.
+- `qpdf --check` reports no syntax or stream errors. Every listed font is
+  embedded, subset, and Unicode-mapped. The exporter reports zero actionable
+  overfull, page-builder overfull, or underfull paragraph warnings.
+- The accepted build hashes are
+  `a9546b238b427d11873263444ed1d522a298536e38a10ca21bb88d7fe51cd996`
+  for the full-size PDF and
+  `33f16fc568a563236733f32532797076aeb09a20681ac54d71cb6c51ade88dc5`
+  for the 1.2x pocket PDF.
+
 ## Remaining Acceptance Work
 
-1. Build the versioned 1.2x pocket edition from the same accepted V3 source;
-   inspect all pages and clear actionable layout warnings locally.
-2. Preserve V2, publish V3 under distinct names, refresh previews only from the
+1. Preserve V2, publish V3 under distinct names, refresh previews only from the
    accepted PDF first page, synchronize atomically, and verify checksums.
-3. Promote curated V3 materials to the standalone publication repository only
+2. Promote curated V3 materials to the standalone publication repository only
    after the full-size and pocket gates pass together.

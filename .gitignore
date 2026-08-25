@@ -9,6 +9,7 @@
 investment_pdfs/**/build/*
 !investment_pdfs/**/build/.gitkeep
 generated_course_notes/**/dynamic_book/build/
+generated_course_notes/lazyearn/school-of-hard-knocks/hard-knocks-interviews/build/
 
 # Wealth refinery runtime artifacts
 runtime/logs/wealth-engine/
