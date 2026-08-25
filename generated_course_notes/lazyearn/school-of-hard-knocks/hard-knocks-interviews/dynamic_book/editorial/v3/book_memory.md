@@ -11,7 +11,8 @@
 - Chapter 6, Listen Before You Build, is accepted.
 - Chapter 7, Price the Outcome, is accepted.
 - Chapter 8, Sales Is a Test of Reality, is accepted.
-- Chapters 9--23 in manuscript-v3 remain V2 baselines until individually
+- Chapter 9, Distribution Opens the Door; Trust Keeps It Open, is accepted.
+- Chapters 10--23 in manuscript-v3 remain V2 baselines until individually
   reviewed; their presence in a compiling V3 PDF is not V3 acceptance.
 
 ## Live Argument
@@ -96,6 +97,15 @@ repeat use, renewal, and healthy economics remain separate observations. A
 material deadline may be stated with its source, date, consequence, and
 alternatives; it may not be manufactured into fear.
 
+Chapter 9 closes Record 2 with channel and trust evidence and gives one real
+route a short identifier. The operating flow runs from attention through
+qualified decision, exchange, delivery, acceptance and collection, with
+complaint, repair, return, referral, and exit kept visible. Each handoff names
+the responsible person, promised and actual waiting time, current constraint,
+and person who waits, pays, or bears risk. That route identifier and its
+unresolved constraint now open Record 3. A local metric cannot be enlarged by
+shifting an unrecorded queue, cash burden, or risk to someone else.
+
 ## Recurring Cases
 
 - Glenn Boyd may return only when life design, founder dependence, growth
@@ -135,10 +145,9 @@ alternatives; it may not be manufactured into fear.
 
 ## Handoff
 
-Chapter 9 must turn the accepted exchange into one attention-to-cash operating
-flow: attention, qualified decision, exchange, delivery, acceptance,
-collection, return, referral, complaint, and repair. Each channel must perform
-a named job, and each delay must identify its constraint, waiting time, and
-carrier. Record 2 closes with channel and trust evidence, then hands the flow
-identifier and unresolved constraint to Record 3. A bottleneck limits the
-whole promise; it is not permission to maximize a local activity.
+Chapter 10 must name the precise claim that can extend participation beyond the
+next hour worked without erasing the labor and duties beneath it. Ownership is
+defined through economics, rights, authority, liquidity, obligations, and
+downside rather than a percentage alone. Record 3 takes Chapter 9's route and
+adds one ownership claim: what returns, who decides, what can transfer, which
+duties continue, how liquid the claim is, and who bears loss.
