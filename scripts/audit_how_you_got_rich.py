@@ -22,6 +22,8 @@ CHAPTER_ROOT = COURSE_ROOT / "chapters"
 BOOK_ROOT = COURSE_ROOT / "dynamic_book"
 EDITORIAL_ROOT = BOOK_ROOT / "editorial"
 COVERAGE_BATCH_ROOT = EDITORIAL_ROOT / "coverage_batches"
+CHAPTER_REVIEW_ROOT = EDITORIAL_ROOT / "chapter_reviews"
+FINAL_COVERAGE_ACCEPTANCE = EDITORIAL_ROOT / "source_acceptance.json"
 CHAPTER_CONTRACTS = EDITORIAL_ROOT / "chapter_contracts.json"
 BOOK_TEX = BOOK_ROOT / "how-you-got-rich.tex"
 BOOK_PDF = BOOK_ROOT / "how-you-got-rich.pdf"
@@ -259,6 +261,28 @@ def apply_coverage_batches(rows: list[dict[str, str | int]], path: Path) -> None
         by_id[source_id]["primary_part"] = part
         by_id[source_id]["primary_chapter"] = chapter
 
+    if FINAL_COVERAGE_ACCEPTANCE.exists():
+        acceptance = json.loads(FINAL_COVERAGE_ACCEPTANCE.read_text(encoding="utf-8"))
+        accepted_sources = acceptance.get("sources", [])
+        if not isinstance(accepted_sources, list):
+            raise ValueError(
+                f"Coverage acceptance sources must be a list: {FINAL_COVERAGE_ACCEPTANCE}"
+            )
+        for accepted in accepted_sources:
+            source_id = int(accepted["source_id"])
+            if source_id not in by_id:
+                raise ValueError(
+                    f"Unknown accepted source {source_id} in {FINAL_COVERAGE_ACCEPTANCE}"
+                )
+            if str(accepted["youtube_id"]) != str(by_id[source_id]["youtube_id"]):
+                raise ValueError(f"YouTube ID mismatch for accepted source {source_id}")
+            prior_review = str(by_id[source_id]["editorial_review"])
+            by_id[source_id]["substantive_status"] = "accepted"
+            by_id[source_id]["editorial_review"] = (
+                f"accepted via chapter {accepted['chapter_number']} source-fidelity review; "
+                f"prior evidence review: {prior_review}"
+            )
+
     write_csv(path, [by_id[source_id] for source_id in sorted(by_id)])
 
 
@@ -303,6 +327,101 @@ def read_coverage(path: Path) -> list[dict[str, str]]:
         return []
     with path.open(encoding="utf-8", newline="") as handle:
         return list(csv.DictReader(handle))
+
+
+def review_mentions_source(text: str, source_id: int) -> bool:
+    patterns = (
+        rf"\bsource\s+0*{source_id}\b",
+        rf"^\s*-\s*0*{source_id}\s*,",
+    )
+    return any(re.search(pattern, text, re.IGNORECASE | re.MULTILINE) for pattern in patterns)
+
+
+def review_is_accepted(text: str) -> bool:
+    return bool(
+        re.search(r"Status:\s*\*\*accepted\*\*", text, re.IGNORECASE)
+        or re.search(r"\bAccepted for the working manuscript\b", text)
+    )
+
+
+def build_coverage_acceptance(
+    rows: list[dict[str, str | int]], coverage_path: Path
+) -> tuple[dict[str, object], list[str]]:
+    coverage = {int(row["source_id"]): row for row in read_coverage(coverage_path)}
+    inventory_by_id = {int(row["source_id"]): row for row in rows}
+    contracts = load_chapter_contracts()
+    errors: list[str] = []
+    accepted_sources: list[dict[str, object]] = []
+    required_fields = (
+        "story_or_case",
+        "mechanisms",
+        "qualifications_and_tensions",
+        "audience_questions",
+        "source_anchors",
+        "attribution_notes",
+        "editorial_review",
+    )
+
+    for contract in contracts:
+        chapter_number = int(contract["chapter_number"])
+        chapter_title = str(contract["title"])
+        review_path = CHAPTER_REVIEW_ROOT / f"ch{chapter_number:02d}.md"
+        if not review_path.exists():
+            errors.append(f"missing chapter review for chapter {chapter_number}")
+            continue
+        review_text = review_path.read_text(encoding="utf-8")
+        if not review_is_accepted(review_text):
+            errors.append(f"chapter {chapter_number} review is not accepted")
+
+        for source_id_raw in contract["primary_source_ids"]:
+            source_id = int(source_id_raw)
+            row = coverage.get(source_id)
+            inventory_row = inventory_by_id.get(source_id)
+            if row is None or inventory_row is None:
+                errors.append(f"missing source {source_id} from coverage or inventory")
+                continue
+            missing = [field for field in required_fields if not row.get(field, "").strip()]
+            if missing:
+                errors.append(
+                    f"source {source_id} has empty coverage fields: {', '.join(missing)}"
+                )
+            if not re.search(r"\d{2}:\d{2}", row.get("source_anchors", "")):
+                errors.append(f"source {source_id} has no timestamped coverage anchor")
+            if not review_mentions_source(review_text, source_id):
+                errors.append(
+                    f"chapter {chapter_number} review does not explicitly cite source {source_id}"
+                )
+            accepted_sources.append(
+                {
+                    "source_id": source_id,
+                    "youtube_id": inventory_row["youtube_id"],
+                    "chapter_number": chapter_number,
+                    "chapter_title": chapter_title,
+                    "chapter_review": str(review_path.relative_to(REPO_ROOT)),
+                    "disposition": "integrated or explicitly classified without substantive loss",
+                }
+            )
+
+    accepted_sources.sort(key=lambda item: int(item["source_id"]))
+    if len(accepted_sources) != len(rows):
+        errors.append(
+            f"acceptance manifest would contain {len(accepted_sources)} sources, expected {len(rows)}"
+        )
+    if len({int(item["source_id"]) for item in accepted_sources}) != len(rows):
+        errors.append("acceptance manifest source IDs are incomplete or duplicated")
+
+    manifest: dict[str, object] = {
+        "schema_version": 1,
+        "accepted_at": datetime.now().astimezone().isoformat(timespec="seconds"),
+        "acceptance_rule": (
+            "Every ledger field is complete, every source is explicitly cited in its accepted "
+            "primary-chapter review, and recurring claims and contradictions are reconciled in "
+            "cross_source_synthesis.md. Unsupported, duplicated, promotional, sensitive, or "
+            "corrupted material is retained in the ledger with its exclusion reason."
+        ),
+        "sources": accepted_sources,
+    }
+    return manifest, errors
 
 
 def pdf_pages(path: Path) -> str:
@@ -417,6 +536,23 @@ def validate(rows: list[dict[str, str | int]], coverage_path: Path) -> list[str]
         coverage_ids = {row["source_id"] for row in coverage}
         if inventory_ids != coverage_ids:
             errors.append("coverage source IDs do not match inventory source IDs")
+        accepted_ids = {
+            int(row["source_id"])
+            for row in coverage
+            if row.get("substantive_status") == "accepted"
+        }
+        if accepted_ids:
+            if not FINAL_COVERAGE_ACCEPTANCE.exists():
+                errors.append("accepted coverage rows have no acceptance manifest")
+            else:
+                acceptance = json.loads(
+                    FINAL_COVERAGE_ACCEPTANCE.read_text(encoding="utf-8")
+                )
+                manifest_ids = {
+                    int(item["source_id"]) for item in acceptance.get("sources", [])
+                }
+                if accepted_ids != manifest_ids:
+                    errors.append("accepted coverage IDs do not match acceptance manifest")
     contracts = load_chapter_contracts()
     if contracts:
         chapter_numbers = [int(contract["chapter_number"]) for contract in contracts]
@@ -464,19 +600,35 @@ def main() -> int:
     parser.add_argument("--init-coverage", action="store_true")
     parser.add_argument("--init-figures", action="store_true")
     parser.add_argument("--refresh-baseline", action="store_true")
+    parser.add_argument(
+        "--accept-coverage",
+        action="store_true",
+        help="write the final source-acceptance manifest after strict review checks",
+    )
     args = parser.parse_args()
 
     rows = inventory()
     inventory_path = EDITORIAL_ROOT / "source_inventory.csv"
     coverage_path = EDITORIAL_ROOT / "source_coverage.csv"
     figure_path = EDITORIAL_ROOT / "figure_ledger.csv"
-    if args.write:
+    if args.write or args.accept_coverage:
         write_csv(inventory_path, rows)
         apply_coverage_batches(rows, coverage_path)
     elif args.init_coverage:
         initialize_coverage(rows, coverage_path)
     if args.init_figures:
         initialize_figures(rows, figure_path)
+    if args.accept_coverage:
+        manifest, acceptance_errors = build_coverage_acceptance(rows, coverage_path)
+        if acceptance_errors:
+            for error in acceptance_errors:
+                print(f"ERROR: {error}")
+            return 1
+        FINAL_COVERAGE_ACCEPTANCE.write_text(
+            json.dumps(manifest, indent=2, ensure_ascii=True) + "\n",
+            encoding="utf-8",
+        )
+        apply_coverage_batches(rows, coverage_path)
     baseline_path = EDITORIAL_ROOT / "baseline_audit.md"
     if args.write and (args.refresh_baseline or not baseline_path.exists()):
         baseline_path.write_text(

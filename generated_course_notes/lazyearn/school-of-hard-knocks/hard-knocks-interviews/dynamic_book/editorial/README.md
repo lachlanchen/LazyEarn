@@ -8,6 +8,8 @@ These files keep source completeness separate from reader-facing prose.
   mechanisms, qualifications, tensions, and questions are integrated.
 - `coverage_batches/` holds the reviewed human-readable source updates from
   which `source_coverage.csv` is rebuilt.
+- `source_acceptance.json` records the final one-to-one link from every source
+  to the accepted chapter review that verifies its substantive disposition.
 - `chapter_contracts.json` assigns all 135 sources exactly once to the final
   23-chapter architecture and defines each chapter's contradiction and payoff.
 - `cross_source_synthesis.md` resolves recurrent claims against counterevidence
@@ -28,5 +30,12 @@ Run the deterministic audit from the repository root:
 python3 scripts/audit_how_you_got_rich.py --write
 ```
 
-File presence is not evidence of substantive coverage. Only a reviewed row in
-`source_coverage.csv` can become `accepted`.
+After all chapter reviews are accepted, rebuild the final acceptance manifest:
+
+```bash
+python3 scripts/audit_how_you_got_rich.py --accept-coverage
+```
+
+The command fails if a ledger row is incomplete, lacks a timestamp, is absent
+from its assigned chapter review, or points to a review that is not accepted.
+File presence alone can never produce an `accepted` row.

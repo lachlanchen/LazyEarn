@@ -1,0 +1,1087 @@
+{
+  "schema_version": 1,
+  "accepted_at": "2026-08-25T16:50:58+08:00",
+  "acceptance_rule": "Every ledger field is complete, every source is explicitly cited in its accepted primary-chapter review, and recurring claims and contradictions are reconciled in cross_source_synthesis.md. Unsupported, duplicated, promotional, sensitive, or corrupted material is retained in the ledger with its exclusion reason.",
+  "sources": [
+    {
+      "source_id": 1,
+      "youtube_id": "4uFVDpGTHPQ",
+      "chapter_number": 20,
+      "chapter_title": "The Shell Around the Risk",
+      "chapter_review": "generated_course_notes/lazyearn/school-of-hard-knocks/hard-knocks-interviews/dynamic_book/editorial/chapter_reviews/ch20.md",
+      "disposition": "integrated or explicitly classified without substantive loss"
+    },
+    {
+      "source_id": 2,
+      "youtube_id": "mRJN1l_w-Co",
+      "chapter_number": 15,
+      "chapter_title": "Build Something That Can Outlive You",
+      "chapter_review": "generated_course_notes/lazyearn/school-of-hard-knocks/hard-knocks-interviews/dynamic_book/editorial/chapter_reviews/ch15.md",
+      "disposition": "integrated or explicitly classified without substantive loss"
+    },
+    {
+      "source_id": 3,
+      "youtube_id": "npnyOvchXZs",
+      "chapter_number": 23,
+      "chapter_title": "Enough",
+      "chapter_review": "generated_course_notes/lazyearn/school-of-hard-knocks/hard-knocks-interviews/dynamic_book/editorial/chapter_reviews/ch23.md",
+      "disposition": "integrated or explicitly classified without substantive loss"
+    },
+    {
+      "source_id": 4,
+      "youtube_id": "dK5bG5ZE3yI",
+      "chapter_number": 23,
+      "chapter_title": "Enough",
+      "chapter_review": "generated_course_notes/lazyearn/school-of-hard-knocks/hard-knocks-interviews/dynamic_book/editorial/chapter_reviews/ch23.md",
+      "disposition": "integrated or explicitly classified without substantive loss"
+    },
+    {
+      "source_id": 5,
+      "youtube_id": "rrDdi0vZn00",
+      "chapter_number": 13,
+      "chapter_title": "The Company Is Other People",
+      "chapter_review": "generated_course_notes/lazyearn/school-of-hard-knocks/hard-knocks-interviews/dynamic_book/editorial/chapter_reviews/ch13.md",
+      "disposition": "integrated or explicitly classified without substantive loss"
+    },
+    {
+      "source_id": 6,
+      "youtube_id": "lU-bh2xPl4Y",
+      "chapter_number": 14,
+      "chapter_title": "Own the Rights and Critical Links",
+      "chapter_review": "generated_course_notes/lazyearn/school-of-hard-knocks/hard-knocks-interviews/dynamic_book/editorial/chapter_reviews/ch14.md",
+      "disposition": "integrated or explicitly classified without substantive loss"
+    },
+    {
+      "source_id": 7,
+      "youtube_id": "uwh4gWNgb1w",
+      "chapter_number": 1,
+      "chapter_title": "A Number Cannot Tell You What Rich Means",
+      "chapter_review": "generated_course_notes/lazyearn/school-of-hard-knocks/hard-knocks-interviews/dynamic_book/editorial/chapter_reviews/ch01.md",
+      "disposition": "integrated or explicitly classified without substantive loss"
+    },
+    {
+      "source_id": 8,
+      "youtube_id": "AUaEd3_JbP8",
+      "chapter_number": 5,
+      "chapter_title": "Find the Expensive Problem",
+      "chapter_review": "generated_course_notes/lazyearn/school-of-hard-knocks/hard-knocks-interviews/dynamic_book/editorial/chapter_reviews/ch05.md",
+      "disposition": "integrated or explicitly classified without substantive loss"
+    },
+    {
+      "source_id": 9,
+      "youtube_id": "DmDeNuTUetE",
+      "chapter_number": 11,
+      "chapter_title": "A Business That Can Leave the Room",
+      "chapter_review": "generated_course_notes/lazyearn/school-of-hard-knocks/hard-knocks-interviews/dynamic_book/editorial/chapter_reviews/ch11.md",
+      "disposition": "integrated or explicitly classified without substantive loss"
+    },
+    {
+      "source_id": 10,
+      "youtube_id": "E_9nX5ReMcY",
+      "chapter_number": 6,
+      "chapter_title": "Listen Before You Build",
+      "chapter_review": "generated_course_notes/lazyearn/school-of-hard-knocks/hard-knocks-interviews/dynamic_book/editorial/chapter_reviews/ch06.md",
+      "disposition": "integrated or explicitly classified without substantive loss"
+    },
+    {
+      "source_id": 11,
+      "youtube_id": "yUCRSAWh_ls",
+      "chapter_number": 14,
+      "chapter_title": "Own the Rights and Critical Links",
+      "chapter_review": "generated_course_notes/lazyearn/school-of-hard-knocks/hard-knocks-interviews/dynamic_book/editorial/chapter_reviews/ch14.md",
+      "disposition": "integrated or explicitly classified without substantive loss"
+    },
+    {
+      "source_id": 12,
+      "youtube_id": "z810EM7Q5Mg",
+      "chapter_number": 17,
+      "chapter_title": "Debt Must Be Carried by an Asset",
+      "chapter_review": "generated_course_notes/lazyearn/school-of-hard-knocks/hard-knocks-interviews/dynamic_book/editorial/chapter_reviews/ch17.md",
+      "disposition": "integrated or explicitly classified without substantive loss"
+    },
+    {
+      "source_id": 13,
+      "youtube_id": "wOsnxJCy2p8",
+      "chapter_number": 7,
+      "chapter_title": "Price the Outcome",
+      "chapter_review": "generated_course_notes/lazyearn/school-of-hard-knocks/hard-knocks-interviews/dynamic_book/editorial/chapter_reviews/ch07.md",
+      "disposition": "integrated or explicitly classified without substantive loss"
+    },
+    {
+      "source_id": 14,
+      "youtube_id": "hJYkUMV8I_s",
+      "chapter_number": 18,
+      "chapter_title": "Compounding Is Slow; Risk Is Fast",
+      "chapter_review": "generated_course_notes/lazyearn/school-of-hard-knocks/hard-knocks-interviews/dynamic_book/editorial/chapter_reviews/ch18.md",
+      "disposition": "integrated or explicitly classified without substantive loss"
+    },
+    {
+      "source_id": 15,
+      "youtube_id": "ZdUmqGB-XpA",
+      "chapter_number": 10,
+      "chapter_title": "From Skill to Ownership",
+      "chapter_review": "generated_course_notes/lazyearn/school-of-hard-knocks/hard-knocks-interviews/dynamic_book/editorial/chapter_reviews/ch10.md",
+      "disposition": "integrated or explicitly classified without substantive loss"
+    },
+    {
+      "source_id": 17,
+      "youtube_id": "AATw4YRFSw8",
+      "chapter_number": 9,
+      "chapter_title": "Distribution Opens the Door; Trust Keeps It Open",
+      "chapter_review": "generated_course_notes/lazyearn/school-of-hard-knocks/hard-knocks-interviews/dynamic_book/editorial/chapter_reviews/ch09.md",
+      "disposition": "integrated or explicitly classified without substantive loss"
+    },
+    {
+      "source_id": 20,
+      "youtube_id": "aGrMOowjMag",
+      "chapter_number": 1,
+      "chapter_title": "A Number Cannot Tell You What Rich Means",
+      "chapter_review": "generated_course_notes/lazyearn/school-of-hard-knocks/hard-knocks-interviews/dynamic_book/editorial/chapter_reviews/ch01.md",
+      "disposition": "integrated or explicitly classified without substantive loss"
+    },
+    {
+      "source_id": 21,
+      "youtube_id": "t8FXPpfkxQY",
+      "chapter_number": 19,
+      "chapter_title": "Cash Buys the Right to Survive",
+      "chapter_review": "generated_course_notes/lazyearn/school-of-hard-knocks/hard-knocks-interviews/dynamic_book/editorial/chapter_reviews/ch19.md",
+      "disposition": "integrated or explicitly classified without substantive loss"
+    },
+    {
+      "source_id": 22,
+      "youtube_id": "2Q2JgVDvHV0",
+      "chapter_number": 14,
+      "chapter_title": "Own the Rights and Critical Links",
+      "chapter_review": "generated_course_notes/lazyearn/school-of-hard-knocks/hard-knocks-interviews/dynamic_book/editorial/chapter_reviews/ch14.md",
+      "disposition": "integrated or explicitly classified without substantive loss"
+    },
+    {
+      "source_id": 23,
+      "youtube_id": "nOL-StM6QnU",
+      "chapter_number": 8,
+      "chapter_title": "Sales Is a Test of Reality",
+      "chapter_review": "generated_course_notes/lazyearn/school-of-hard-knocks/hard-knocks-interviews/dynamic_book/editorial/chapter_reviews/ch08.md",
+      "disposition": "integrated or explicitly classified without substantive loss"
+    },
+    {
+      "source_id": 24,
+      "youtube_id": "zN087p7dHN0",
+      "chapter_number": 18,
+      "chapter_title": "Compounding Is Slow; Risk Is Fast",
+      "chapter_review": "generated_course_notes/lazyearn/school-of-hard-knocks/hard-knocks-interviews/dynamic_book/editorial/chapter_reviews/ch18.md",
+      "disposition": "integrated or explicitly classified without substantive loss"
+    },
+    {
+      "source_id": 25,
+      "youtube_id": "7i0D5OMZzw0",
+      "chapter_number": 14,
+      "chapter_title": "Own the Rights and Critical Links",
+      "chapter_review": "generated_course_notes/lazyearn/school-of-hard-knocks/hard-knocks-interviews/dynamic_book/editorial/chapter_reviews/ch14.md",
+      "disposition": "integrated or explicitly classified without substantive loss"
+    },
+    {
+      "source_id": 26,
+      "youtube_id": "vMcZyzTNoIc",
+      "chapter_number": 9,
+      "chapter_title": "Distribution Opens the Door; Trust Keeps It Open",
+      "chapter_review": "generated_course_notes/lazyearn/school-of-hard-knocks/hard-knocks-interviews/dynamic_book/editorial/chapter_reviews/ch09.md",
+      "disposition": "integrated or explicitly classified without substantive loss"
+    },
+    {
+      "source_id": 27,
+      "youtube_id": "lXitjVjEhEs",
+      "chapter_number": 14,
+      "chapter_title": "Own the Rights and Critical Links",
+      "chapter_review": "generated_course_notes/lazyearn/school-of-hard-knocks/hard-knocks-interviews/dynamic_book/editorial/chapter_reviews/ch14.md",
+      "disposition": "integrated or explicitly classified without substantive loss"
+    },
+    {
+      "source_id": 28,
+      "youtube_id": "cTs9SgRk4SI",
+      "chapter_number": 21,
+      "chapter_title": "The Cost of the Game",
+      "chapter_review": "generated_course_notes/lazyearn/school-of-hard-knocks/hard-knocks-interviews/dynamic_book/editorial/chapter_reviews/ch21.md",
+      "disposition": "integrated or explicitly classified without substantive loss"
+    },
+    {
+      "source_id": 29,
+      "youtube_id": "n5EmUiLNVjg",
+      "chapter_number": 11,
+      "chapter_title": "A Business That Can Leave the Room",
+      "chapter_review": "generated_course_notes/lazyearn/school-of-hard-knocks/hard-knocks-interviews/dynamic_book/editorial/chapter_reviews/ch11.md",
+      "disposition": "integrated or explicitly classified without substantive loss"
+    },
+    {
+      "source_id": 30,
+      "youtube_id": "iRgdOE8Fags",
+      "chapter_number": 9,
+      "chapter_title": "Distribution Opens the Door; Trust Keeps It Open",
+      "chapter_review": "generated_course_notes/lazyearn/school-of-hard-knocks/hard-knocks-interviews/dynamic_book/editorial/chapter_reviews/ch09.md",
+      "disposition": "integrated or explicitly classified without substantive loss"
+    },
+    {
+      "source_id": 31,
+      "youtube_id": "gBBlX7v0910",
+      "chapter_number": 14,
+      "chapter_title": "Own the Rights and Critical Links",
+      "chapter_review": "generated_course_notes/lazyearn/school-of-hard-knocks/hard-knocks-interviews/dynamic_book/editorial/chapter_reviews/ch14.md",
+      "disposition": "integrated or explicitly classified without substantive loss"
+    },
+    {
+      "source_id": 32,
+      "youtube_id": "TllMBc9YvKk",
+      "chapter_number": 18,
+      "chapter_title": "Compounding Is Slow; Risk Is Fast",
+      "chapter_review": "generated_course_notes/lazyearn/school-of-hard-knocks/hard-knocks-interviews/dynamic_book/editorial/chapter_reviews/ch18.md",
+      "disposition": "integrated or explicitly classified without substantive loss"
+    },
+    {
+      "source_id": 33,
+      "youtube_id": "9QTBl0R_cs8",
+      "chapter_number": 9,
+      "chapter_title": "Distribution Opens the Door; Trust Keeps It Open",
+      "chapter_review": "generated_course_notes/lazyearn/school-of-hard-knocks/hard-knocks-interviews/dynamic_book/editorial/chapter_reviews/ch09.md",
+      "disposition": "integrated or explicitly classified without substantive loss"
+    },
+    {
+      "source_id": 34,
+      "youtube_id": "EF6-Ed2H2cE",
+      "chapter_number": 10,
+      "chapter_title": "From Skill to Ownership",
+      "chapter_review": "generated_course_notes/lazyearn/school-of-hard-knocks/hard-knocks-interviews/dynamic_book/editorial/chapter_reviews/ch10.md",
+      "disposition": "integrated or explicitly classified without substantive loss"
+    },
+    {
+      "source_id": 35,
+      "youtube_id": "7Yx6-8nMbkc",
+      "chapter_number": 12,
+      "chapter_title": "Working Capital Is the Price of Growth",
+      "chapter_review": "generated_course_notes/lazyearn/school-of-hard-knocks/hard-knocks-interviews/dynamic_book/editorial/chapter_reviews/ch12.md",
+      "disposition": "integrated or explicitly classified without substantive loss"
+    },
+    {
+      "source_id": 36,
+      "youtube_id": "9iWLPlPFdBY",
+      "chapter_number": 3,
+      "chapter_title": "Skills, Work, and the First Margin",
+      "chapter_review": "generated_course_notes/lazyearn/school-of-hard-knocks/hard-knocks-interviews/dynamic_book/editorial/chapter_reviews/ch03.md",
+      "disposition": "integrated or explicitly classified without substantive loss"
+    },
+    {
+      "source_id": 37,
+      "youtube_id": "eEg5ZjFxMmU",
+      "chapter_number": 21,
+      "chapter_title": "The Cost of the Game",
+      "chapter_review": "generated_course_notes/lazyearn/school-of-hard-knocks/hard-knocks-interviews/dynamic_book/editorial/chapter_reviews/ch21.md",
+      "disposition": "integrated or explicitly classified without substantive loss"
+    },
+    {
+      "source_id": 38,
+      "youtube_id": "uUwf3HM_bBg",
+      "chapter_number": 13,
+      "chapter_title": "The Company Is Other People",
+      "chapter_review": "generated_course_notes/lazyearn/school-of-hard-knocks/hard-knocks-interviews/dynamic_book/editorial/chapter_reviews/ch13.md",
+      "disposition": "integrated or explicitly classified without substantive loss"
+    },
+    {
+      "source_id": 39,
+      "youtube_id": "4fOaAGCuuJU",
+      "chapter_number": 12,
+      "chapter_title": "Working Capital Is the Price of Growth",
+      "chapter_review": "generated_course_notes/lazyearn/school-of-hard-knocks/hard-knocks-interviews/dynamic_book/editorial/chapter_reviews/ch12.md",
+      "disposition": "integrated or explicitly classified without substantive loss"
+    },
+    {
+      "source_id": 40,
+      "youtube_id": "q8u9vs2xjg4",
+      "chapter_number": 18,
+      "chapter_title": "Compounding Is Slow; Risk Is Fast",
+      "chapter_review": "generated_course_notes/lazyearn/school-of-hard-knocks/hard-knocks-interviews/dynamic_book/editorial/chapter_reviews/ch18.md",
+      "disposition": "integrated or explicitly classified without substantive loss"
+    },
+    {
+      "source_id": 41,
+      "youtube_id": "gotxAQD0YkE",
+      "chapter_number": 12,
+      "chapter_title": "Working Capital Is the Price of Growth",
+      "chapter_review": "generated_course_notes/lazyearn/school-of-hard-knocks/hard-knocks-interviews/dynamic_book/editorial/chapter_reviews/ch12.md",
+      "disposition": "integrated or explicitly classified without substantive loss"
+    },
+    {
+      "source_id": 42,
+      "youtube_id": "9YldQVM4u-I",
+      "chapter_number": 12,
+      "chapter_title": "Working Capital Is the Price of Growth",
+      "chapter_review": "generated_course_notes/lazyearn/school-of-hard-knocks/hard-knocks-interviews/dynamic_book/editorial/chapter_reviews/ch12.md",
+      "disposition": "integrated or explicitly classified without substantive loss"
+    },
+    {
+      "source_id": 43,
+      "youtube_id": "uMXIsDecZ3s",
+      "chapter_number": 13,
+      "chapter_title": "The Company Is Other People",
+      "chapter_review": "generated_course_notes/lazyearn/school-of-hard-knocks/hard-knocks-interviews/dynamic_book/editorial/chapter_reviews/ch13.md",
+      "disposition": "integrated or explicitly classified without substantive loss"
+    },
+    {
+      "source_id": 44,
+      "youtube_id": "DwrRvp_qsRk",
+      "chapter_number": 17,
+      "chapter_title": "Debt Must Be Carried by an Asset",
+      "chapter_review": "generated_course_notes/lazyearn/school-of-hard-knocks/hard-knocks-interviews/dynamic_book/editorial/chapter_reviews/ch17.md",
+      "disposition": "integrated or explicitly classified without substantive loss"
+    },
+    {
+      "source_id": 45,
+      "youtube_id": "8wU_31Wamcw",
+      "chapter_number": 7,
+      "chapter_title": "Price the Outcome",
+      "chapter_review": "generated_course_notes/lazyearn/school-of-hard-knocks/hard-knocks-interviews/dynamic_book/editorial/chapter_reviews/ch07.md",
+      "disposition": "integrated or explicitly classified without substantive loss"
+    },
+    {
+      "source_id": 46,
+      "youtube_id": "GCXhTFKVHkg",
+      "chapter_number": 5,
+      "chapter_title": "Find the Expensive Problem",
+      "chapter_review": "generated_course_notes/lazyearn/school-of-hard-knocks/hard-knocks-interviews/dynamic_book/editorial/chapter_reviews/ch05.md",
+      "disposition": "integrated or explicitly classified without substantive loss"
+    },
+    {
+      "source_id": 47,
+      "youtube_id": "bfIJxp9ckKU",
+      "chapter_number": 14,
+      "chapter_title": "Own the Rights and Critical Links",
+      "chapter_review": "generated_course_notes/lazyearn/school-of-hard-knocks/hard-knocks-interviews/dynamic_book/editorial/chapter_reviews/ch14.md",
+      "disposition": "integrated or explicitly classified without substantive loss"
+    },
+    {
+      "source_id": 48,
+      "youtube_id": "nswPe9PAgjo",
+      "chapter_number": 17,
+      "chapter_title": "Debt Must Be Carried by an Asset",
+      "chapter_review": "generated_course_notes/lazyearn/school-of-hard-knocks/hard-knocks-interviews/dynamic_book/editorial/chapter_reviews/ch17.md",
+      "disposition": "integrated or explicitly classified without substantive loss"
+    },
+    {
+      "source_id": 49,
+      "youtube_id": "_sAyC_CLqzg",
+      "chapter_number": 17,
+      "chapter_title": "Debt Must Be Carried by an Asset",
+      "chapter_review": "generated_course_notes/lazyearn/school-of-hard-knocks/hard-knocks-interviews/dynamic_book/editorial/chapter_reviews/ch17.md",
+      "disposition": "integrated or explicitly classified without substantive loss"
+    },
+    {
+      "source_id": 50,
+      "youtube_id": "gZ0RTpQZf8A",
+      "chapter_number": 18,
+      "chapter_title": "Compounding Is Slow; Risk Is Fast",
+      "chapter_review": "generated_course_notes/lazyearn/school-of-hard-knocks/hard-knocks-interviews/dynamic_book/editorial/chapter_reviews/ch18.md",
+      "disposition": "integrated or explicitly classified without substantive loss"
+    },
+    {
+      "source_id": 51,
+      "youtube_id": "5E-lydM23gU",
+      "chapter_number": 14,
+      "chapter_title": "Own the Rights and Critical Links",
+      "chapter_review": "generated_course_notes/lazyearn/school-of-hard-knocks/hard-knocks-interviews/dynamic_book/editorial/chapter_reviews/ch14.md",
+      "disposition": "integrated or explicitly classified without substantive loss"
+    },
+    {
+      "source_id": 52,
+      "youtube_id": "vUumRjZX0n8",
+      "chapter_number": 6,
+      "chapter_title": "Listen Before You Build",
+      "chapter_review": "generated_course_notes/lazyearn/school-of-hard-knocks/hard-knocks-interviews/dynamic_book/editorial/chapter_reviews/ch06.md",
+      "disposition": "integrated or explicitly classified without substantive loss"
+    },
+    {
+      "source_id": 53,
+      "youtube_id": "QJP9OXmI5_4",
+      "chapter_number": 14,
+      "chapter_title": "Own the Rights and Critical Links",
+      "chapter_review": "generated_course_notes/lazyearn/school-of-hard-knocks/hard-knocks-interviews/dynamic_book/editorial/chapter_reviews/ch14.md",
+      "disposition": "integrated or explicitly classified without substantive loss"
+    },
+    {
+      "source_id": 54,
+      "youtube_id": "Latp0XujNXk",
+      "chapter_number": 7,
+      "chapter_title": "Price the Outcome",
+      "chapter_review": "generated_course_notes/lazyearn/school-of-hard-knocks/hard-knocks-interviews/dynamic_book/editorial/chapter_reviews/ch07.md",
+      "disposition": "integrated or explicitly classified without substantive loss"
+    },
+    {
+      "source_id": 55,
+      "youtube_id": "bPPc2coTClU",
+      "chapter_number": 14,
+      "chapter_title": "Own the Rights and Critical Links",
+      "chapter_review": "generated_course_notes/lazyearn/school-of-hard-knocks/hard-knocks-interviews/dynamic_book/editorial/chapter_reviews/ch14.md",
+      "disposition": "integrated or explicitly classified without substantive loss"
+    },
+    {
+      "source_id": 56,
+      "youtube_id": "22CjsRG0sTc",
+      "chapter_number": 20,
+      "chapter_title": "The Shell Around the Risk",
+      "chapter_review": "generated_course_notes/lazyearn/school-of-hard-knocks/hard-knocks-interviews/dynamic_book/editorial/chapter_reviews/ch20.md",
+      "disposition": "integrated or explicitly classified without substantive loss"
+    },
+    {
+      "source_id": 57,
+      "youtube_id": "0I0EPRu3DJ0",
+      "chapter_number": 11,
+      "chapter_title": "A Business That Can Leave the Room",
+      "chapter_review": "generated_course_notes/lazyearn/school-of-hard-knocks/hard-knocks-interviews/dynamic_book/editorial/chapter_reviews/ch11.md",
+      "disposition": "integrated or explicitly classified without substantive loss"
+    },
+    {
+      "source_id": 58,
+      "youtube_id": "qQIKf7YQBbA",
+      "chapter_number": 5,
+      "chapter_title": "Find the Expensive Problem",
+      "chapter_review": "generated_course_notes/lazyearn/school-of-hard-knocks/hard-knocks-interviews/dynamic_book/editorial/chapter_reviews/ch05.md",
+      "disposition": "integrated or explicitly classified without substantive loss"
+    },
+    {
+      "source_id": 59,
+      "youtube_id": "ZX_BJKKyDXo",
+      "chapter_number": 19,
+      "chapter_title": "Cash Buys the Right to Survive",
+      "chapter_review": "generated_course_notes/lazyearn/school-of-hard-knocks/hard-knocks-interviews/dynamic_book/editorial/chapter_reviews/ch19.md",
+      "disposition": "integrated or explicitly classified without substantive loss"
+    },
+    {
+      "source_id": 60,
+      "youtube_id": "JKkwS6FT7wY",
+      "chapter_number": 9,
+      "chapter_title": "Distribution Opens the Door; Trust Keeps It Open",
+      "chapter_review": "generated_course_notes/lazyearn/school-of-hard-knocks/hard-knocks-interviews/dynamic_book/editorial/chapter_reviews/ch09.md",
+      "disposition": "integrated or explicitly classified without substantive loss"
+    },
+    {
+      "source_id": 61,
+      "youtube_id": "JMIE80d0Aoo",
+      "chapter_number": 16,
+      "chapter_title": "Know What the Number Means",
+      "chapter_review": "generated_course_notes/lazyearn/school-of-hard-knocks/hard-knocks-interviews/dynamic_book/editorial/chapter_reviews/ch16.md",
+      "disposition": "integrated or explicitly classified without substantive loss"
+    },
+    {
+      "source_id": 62,
+      "youtube_id": "G_GZbtj0uP8",
+      "chapter_number": 18,
+      "chapter_title": "Compounding Is Slow; Risk Is Fast",
+      "chapter_review": "generated_course_notes/lazyearn/school-of-hard-knocks/hard-knocks-interviews/dynamic_book/editorial/chapter_reviews/ch18.md",
+      "disposition": "integrated or explicitly classified without substantive loss"
+    },
+    {
+      "source_id": 63,
+      "youtube_id": "HEgFl6N2u4M",
+      "chapter_number": 5,
+      "chapter_title": "Find the Expensive Problem",
+      "chapter_review": "generated_course_notes/lazyearn/school-of-hard-knocks/hard-knocks-interviews/dynamic_book/editorial/chapter_reviews/ch05.md",
+      "disposition": "integrated or explicitly classified without substantive loss"
+    },
+    {
+      "source_id": 64,
+      "youtube_id": "oDJEZ-n9TCM",
+      "chapter_number": 10,
+      "chapter_title": "From Skill to Ownership",
+      "chapter_review": "generated_course_notes/lazyearn/school-of-hard-knocks/hard-knocks-interviews/dynamic_book/editorial/chapter_reviews/ch10.md",
+      "disposition": "integrated or explicitly classified without substantive loss"
+    },
+    {
+      "source_id": 65,
+      "youtube_id": "D0utmFm1l0o",
+      "chapter_number": 12,
+      "chapter_title": "Working Capital Is the Price of Growth",
+      "chapter_review": "generated_course_notes/lazyearn/school-of-hard-knocks/hard-knocks-interviews/dynamic_book/editorial/chapter_reviews/ch12.md",
+      "disposition": "integrated or explicitly classified without substantive loss"
+    },
+    {
+      "source_id": 66,
+      "youtube_id": "PWVoNu4ytEA",
+      "chapter_number": 18,
+      "chapter_title": "Compounding Is Slow; Risk Is Fast",
+      "chapter_review": "generated_course_notes/lazyearn/school-of-hard-knocks/hard-knocks-interviews/dynamic_book/editorial/chapter_reviews/ch18.md",
+      "disposition": "integrated or explicitly classified without substantive loss"
+    },
+    {
+      "source_id": 67,
+      "youtube_id": "IUIG4YG0T-Q",
+      "chapter_number": 11,
+      "chapter_title": "A Business That Can Leave the Room",
+      "chapter_review": "generated_course_notes/lazyearn/school-of-hard-knocks/hard-knocks-interviews/dynamic_book/editorial/chapter_reviews/ch11.md",
+      "disposition": "integrated or explicitly classified without substantive loss"
+    },
+    {
+      "source_id": 68,
+      "youtube_id": "d4Yuq3iP5eI",
+      "chapter_number": 12,
+      "chapter_title": "Working Capital Is the Price of Growth",
+      "chapter_review": "generated_course_notes/lazyearn/school-of-hard-knocks/hard-knocks-interviews/dynamic_book/editorial/chapter_reviews/ch12.md",
+      "disposition": "integrated or explicitly classified without substantive loss"
+    },
+    {
+      "source_id": 69,
+      "youtube_id": "O5R1z_gPCSo",
+      "chapter_number": 16,
+      "chapter_title": "Know What the Number Means",
+      "chapter_review": "generated_course_notes/lazyearn/school-of-hard-knocks/hard-knocks-interviews/dynamic_book/editorial/chapter_reviews/ch16.md",
+      "disposition": "integrated or explicitly classified without substantive loss"
+    },
+    {
+      "source_id": 70,
+      "youtube_id": "OtWKuR2hU68",
+      "chapter_number": 9,
+      "chapter_title": "Distribution Opens the Door; Trust Keeps It Open",
+      "chapter_review": "generated_course_notes/lazyearn/school-of-hard-knocks/hard-knocks-interviews/dynamic_book/editorial/chapter_reviews/ch09.md",
+      "disposition": "integrated or explicitly classified without substantive loss"
+    },
+    {
+      "source_id": 71,
+      "youtube_id": "JsEUa3mMGe0",
+      "chapter_number": 10,
+      "chapter_title": "From Skill to Ownership",
+      "chapter_review": "generated_course_notes/lazyearn/school-of-hard-knocks/hard-knocks-interviews/dynamic_book/editorial/chapter_reviews/ch10.md",
+      "disposition": "integrated or explicitly classified without substantive loss"
+    },
+    {
+      "source_id": 72,
+      "youtube_id": "9aBfrKtWJc8",
+      "chapter_number": 8,
+      "chapter_title": "Sales Is a Test of Reality",
+      "chapter_review": "generated_course_notes/lazyearn/school-of-hard-knocks/hard-knocks-interviews/dynamic_book/editorial/chapter_reviews/ch08.md",
+      "disposition": "integrated or explicitly classified without substantive loss"
+    },
+    {
+      "source_id": 73,
+      "youtube_id": "PN9Z4QH8X2w",
+      "chapter_number": 12,
+      "chapter_title": "Working Capital Is the Price of Growth",
+      "chapter_review": "generated_course_notes/lazyearn/school-of-hard-knocks/hard-knocks-interviews/dynamic_book/editorial/chapter_reviews/ch12.md",
+      "disposition": "integrated or explicitly classified without substantive loss"
+    },
+    {
+      "source_id": 74,
+      "youtube_id": "6lmwLam3f4k",
+      "chapter_number": 17,
+      "chapter_title": "Debt Must Be Carried by an Asset",
+      "chapter_review": "generated_course_notes/lazyearn/school-of-hard-knocks/hard-knocks-interviews/dynamic_book/editorial/chapter_reviews/ch17.md",
+      "disposition": "integrated or explicitly classified without substantive loss"
+    },
+    {
+      "source_id": 75,
+      "youtube_id": "90A-xjDipk4",
+      "chapter_number": 12,
+      "chapter_title": "Working Capital Is the Price of Growth",
+      "chapter_review": "generated_course_notes/lazyearn/school-of-hard-knocks/hard-knocks-interviews/dynamic_book/editorial/chapter_reviews/ch12.md",
+      "disposition": "integrated or explicitly classified without substantive loss"
+    },
+    {
+      "source_id": 76,
+      "youtube_id": "sExOe8q1QBc",
+      "chapter_number": 12,
+      "chapter_title": "Working Capital Is the Price of Growth",
+      "chapter_review": "generated_course_notes/lazyearn/school-of-hard-knocks/hard-knocks-interviews/dynamic_book/editorial/chapter_reviews/ch12.md",
+      "disposition": "integrated or explicitly classified without substantive loss"
+    },
+    {
+      "source_id": 77,
+      "youtube_id": "n7FLA5IZkWA",
+      "chapter_number": 8,
+      "chapter_title": "Sales Is a Test of Reality",
+      "chapter_review": "generated_course_notes/lazyearn/school-of-hard-knocks/hard-knocks-interviews/dynamic_book/editorial/chapter_reviews/ch08.md",
+      "disposition": "integrated or explicitly classified without substantive loss"
+    },
+    {
+      "source_id": 78,
+      "youtube_id": "9FZ7chhIfUM",
+      "chapter_number": 7,
+      "chapter_title": "Price the Outcome",
+      "chapter_review": "generated_course_notes/lazyearn/school-of-hard-knocks/hard-knocks-interviews/dynamic_book/editorial/chapter_reviews/ch07.md",
+      "disposition": "integrated or explicitly classified without substantive loss"
+    },
+    {
+      "source_id": 79,
+      "youtube_id": "2tRPK9s4p5k",
+      "chapter_number": 21,
+      "chapter_title": "The Cost of the Game",
+      "chapter_review": "generated_course_notes/lazyearn/school-of-hard-knocks/hard-knocks-interviews/dynamic_book/editorial/chapter_reviews/ch21.md",
+      "disposition": "integrated or explicitly classified without substantive loss"
+    },
+    {
+      "source_id": 80,
+      "youtube_id": "PFvRtVvP-Bo",
+      "chapter_number": 18,
+      "chapter_title": "Compounding Is Slow; Risk Is Fast",
+      "chapter_review": "generated_course_notes/lazyearn/school-of-hard-knocks/hard-knocks-interviews/dynamic_book/editorial/chapter_reviews/ch18.md",
+      "disposition": "integrated or explicitly classified without substantive loss"
+    },
+    {
+      "source_id": 81,
+      "youtube_id": "n3_QuKa208w",
+      "chapter_number": 2,
+      "chapter_title": "The Unequal Starting Line",
+      "chapter_review": "generated_course_notes/lazyearn/school-of-hard-knocks/hard-knocks-interviews/dynamic_book/editorial/chapter_reviews/ch02.md",
+      "disposition": "integrated or explicitly classified without substantive loss"
+    },
+    {
+      "source_id": 82,
+      "youtube_id": "6WweLDK6oiY",
+      "chapter_number": 19,
+      "chapter_title": "Cash Buys the Right to Survive",
+      "chapter_review": "generated_course_notes/lazyearn/school-of-hard-knocks/hard-knocks-interviews/dynamic_book/editorial/chapter_reviews/ch19.md",
+      "disposition": "integrated or explicitly classified without substantive loss"
+    },
+    {
+      "source_id": 83,
+      "youtube_id": "ZFkKWGnm1PA",
+      "chapter_number": 22,
+      "chapter_title": "Freedom Needs a Use",
+      "chapter_review": "generated_course_notes/lazyearn/school-of-hard-knocks/hard-knocks-interviews/dynamic_book/editorial/chapter_reviews/ch22.md",
+      "disposition": "integrated or explicitly classified without substantive loss"
+    },
+    {
+      "source_id": 84,
+      "youtube_id": "ts5-LCzCUuE",
+      "chapter_number": 18,
+      "chapter_title": "Compounding Is Slow; Risk Is Fast",
+      "chapter_review": "generated_course_notes/lazyearn/school-of-hard-knocks/hard-knocks-interviews/dynamic_book/editorial/chapter_reviews/ch18.md",
+      "disposition": "integrated or explicitly classified without substantive loss"
+    },
+    {
+      "source_id": 85,
+      "youtube_id": "hRFCQAIa0gA",
+      "chapter_number": 11,
+      "chapter_title": "A Business That Can Leave the Room",
+      "chapter_review": "generated_course_notes/lazyearn/school-of-hard-knocks/hard-knocks-interviews/dynamic_book/editorial/chapter_reviews/ch11.md",
+      "disposition": "integrated or explicitly classified without substantive loss"
+    },
+    {
+      "source_id": 87,
+      "youtube_id": "eSkosEaDnDw",
+      "chapter_number": 11,
+      "chapter_title": "A Business That Can Leave the Room",
+      "chapter_review": "generated_course_notes/lazyearn/school-of-hard-knocks/hard-knocks-interviews/dynamic_book/editorial/chapter_reviews/ch11.md",
+      "disposition": "integrated or explicitly classified without substantive loss"
+    },
+    {
+      "source_id": 88,
+      "youtube_id": "exeXKslPiDI",
+      "chapter_number": 21,
+      "chapter_title": "The Cost of the Game",
+      "chapter_review": "generated_course_notes/lazyearn/school-of-hard-knocks/hard-knocks-interviews/dynamic_book/editorial/chapter_reviews/ch21.md",
+      "disposition": "integrated or explicitly classified without substantive loss"
+    },
+    {
+      "source_id": 89,
+      "youtube_id": "BaxpJArMn9Y",
+      "chapter_number": 18,
+      "chapter_title": "Compounding Is Slow; Risk Is Fast",
+      "chapter_review": "generated_course_notes/lazyearn/school-of-hard-knocks/hard-knocks-interviews/dynamic_book/editorial/chapter_reviews/ch18.md",
+      "disposition": "integrated or explicitly classified without substantive loss"
+    },
+    {
+      "source_id": 90,
+      "youtube_id": "prPvzJwgHqg",
+      "chapter_number": 23,
+      "chapter_title": "Enough",
+      "chapter_review": "generated_course_notes/lazyearn/school-of-hard-knocks/hard-knocks-interviews/dynamic_book/editorial/chapter_reviews/ch23.md",
+      "disposition": "integrated or explicitly classified without substantive loss"
+    },
+    {
+      "source_id": 91,
+      "youtube_id": "nReWQdfRSC8",
+      "chapter_number": 9,
+      "chapter_title": "Distribution Opens the Door; Trust Keeps It Open",
+      "chapter_review": "generated_course_notes/lazyearn/school-of-hard-knocks/hard-knocks-interviews/dynamic_book/editorial/chapter_reviews/ch09.md",
+      "disposition": "integrated or explicitly classified without substantive loss"
+    },
+    {
+      "source_id": 92,
+      "youtube_id": "kJ7HiO27n1g",
+      "chapter_number": 9,
+      "chapter_title": "Distribution Opens the Door; Trust Keeps It Open",
+      "chapter_review": "generated_course_notes/lazyearn/school-of-hard-knocks/hard-knocks-interviews/dynamic_book/editorial/chapter_reviews/ch09.md",
+      "disposition": "integrated or explicitly classified without substantive loss"
+    },
+    {
+      "source_id": 93,
+      "youtube_id": "_5yi6XW4Av8",
+      "chapter_number": 18,
+      "chapter_title": "Compounding Is Slow; Risk Is Fast",
+      "chapter_review": "generated_course_notes/lazyearn/school-of-hard-knocks/hard-knocks-interviews/dynamic_book/editorial/chapter_reviews/ch18.md",
+      "disposition": "integrated or explicitly classified without substantive loss"
+    },
+    {
+      "source_id": 94,
+      "youtube_id": "YU_58awAISY",
+      "chapter_number": 7,
+      "chapter_title": "Price the Outcome",
+      "chapter_review": "generated_course_notes/lazyearn/school-of-hard-knocks/hard-knocks-interviews/dynamic_book/editorial/chapter_reviews/ch07.md",
+      "disposition": "integrated or explicitly classified without substantive loss"
+    },
+    {
+      "source_id": 95,
+      "youtube_id": "xe3GmH-mBQI",
+      "chapter_number": 9,
+      "chapter_title": "Distribution Opens the Door; Trust Keeps It Open",
+      "chapter_review": "generated_course_notes/lazyearn/school-of-hard-knocks/hard-knocks-interviews/dynamic_book/editorial/chapter_reviews/ch09.md",
+      "disposition": "integrated or explicitly classified without substantive loss"
+    },
+    {
+      "source_id": 96,
+      "youtube_id": "V6I3R5Z-YZI",
+      "chapter_number": 11,
+      "chapter_title": "A Business That Can Leave the Room",
+      "chapter_review": "generated_course_notes/lazyearn/school-of-hard-knocks/hard-knocks-interviews/dynamic_book/editorial/chapter_reviews/ch11.md",
+      "disposition": "integrated or explicitly classified without substantive loss"
+    },
+    {
+      "source_id": 97,
+      "youtube_id": "G2kqG3kDdGo",
+      "chapter_number": 18,
+      "chapter_title": "Compounding Is Slow; Risk Is Fast",
+      "chapter_review": "generated_course_notes/lazyearn/school-of-hard-knocks/hard-knocks-interviews/dynamic_book/editorial/chapter_reviews/ch18.md",
+      "disposition": "integrated or explicitly classified without substantive loss"
+    },
+    {
+      "source_id": 98,
+      "youtube_id": "pBjoezYFA0Y",
+      "chapter_number": 6,
+      "chapter_title": "Listen Before You Build",
+      "chapter_review": "generated_course_notes/lazyearn/school-of-hard-knocks/hard-knocks-interviews/dynamic_book/editorial/chapter_reviews/ch06.md",
+      "disposition": "integrated or explicitly classified without substantive loss"
+    },
+    {
+      "source_id": 99,
+      "youtube_id": "3K43YBxUp0I",
+      "chapter_number": 21,
+      "chapter_title": "The Cost of the Game",
+      "chapter_review": "generated_course_notes/lazyearn/school-of-hard-knocks/hard-knocks-interviews/dynamic_book/editorial/chapter_reviews/ch21.md",
+      "disposition": "integrated or explicitly classified without substantive loss"
+    },
+    {
+      "source_id": 100,
+      "youtube_id": "ZHFNlM0xG4U",
+      "chapter_number": 10,
+      "chapter_title": "From Skill to Ownership",
+      "chapter_review": "generated_course_notes/lazyearn/school-of-hard-knocks/hard-knocks-interviews/dynamic_book/editorial/chapter_reviews/ch10.md",
+      "disposition": "integrated or explicitly classified without substantive loss"
+    },
+    {
+      "source_id": 101,
+      "youtube_id": "BP548td2dds",
+      "chapter_number": 19,
+      "chapter_title": "Cash Buys the Right to Survive",
+      "chapter_review": "generated_course_notes/lazyearn/school-of-hard-knocks/hard-knocks-interviews/dynamic_book/editorial/chapter_reviews/ch19.md",
+      "disposition": "integrated or explicitly classified without substantive loss"
+    },
+    {
+      "source_id": 102,
+      "youtube_id": "yOSsd1Tpno4",
+      "chapter_number": 1,
+      "chapter_title": "A Number Cannot Tell You What Rich Means",
+      "chapter_review": "generated_course_notes/lazyearn/school-of-hard-knocks/hard-knocks-interviews/dynamic_book/editorial/chapter_reviews/ch01.md",
+      "disposition": "integrated or explicitly classified without substantive loss"
+    },
+    {
+      "source_id": 103,
+      "youtube_id": "jJxwJhdKb1s",
+      "chapter_number": 10,
+      "chapter_title": "From Skill to Ownership",
+      "chapter_review": "generated_course_notes/lazyearn/school-of-hard-knocks/hard-knocks-interviews/dynamic_book/editorial/chapter_reviews/ch10.md",
+      "disposition": "integrated or explicitly classified without substantive loss"
+    },
+    {
+      "source_id": 104,
+      "youtube_id": "7Cxfg0N_MUw",
+      "chapter_number": 9,
+      "chapter_title": "Distribution Opens the Door; Trust Keeps It Open",
+      "chapter_review": "generated_course_notes/lazyearn/school-of-hard-knocks/hard-knocks-interviews/dynamic_book/editorial/chapter_reviews/ch09.md",
+      "disposition": "integrated or explicitly classified without substantive loss"
+    },
+    {
+      "source_id": 105,
+      "youtube_id": "H1Dt1Pz-B4g",
+      "chapter_number": 18,
+      "chapter_title": "Compounding Is Slow; Risk Is Fast",
+      "chapter_review": "generated_course_notes/lazyearn/school-of-hard-knocks/hard-knocks-interviews/dynamic_book/editorial/chapter_reviews/ch18.md",
+      "disposition": "integrated or explicitly classified without substantive loss"
+    },
+    {
+      "source_id": 106,
+      "youtube_id": "FLgy1LvYTDI",
+      "chapter_number": 16,
+      "chapter_title": "Know What the Number Means",
+      "chapter_review": "generated_course_notes/lazyearn/school-of-hard-knocks/hard-knocks-interviews/dynamic_book/editorial/chapter_reviews/ch16.md",
+      "disposition": "integrated or explicitly classified without substantive loss"
+    },
+    {
+      "source_id": 107,
+      "youtube_id": "bmQRL82f-5I",
+      "chapter_number": 21,
+      "chapter_title": "The Cost of the Game",
+      "chapter_review": "generated_course_notes/lazyearn/school-of-hard-knocks/hard-knocks-interviews/dynamic_book/editorial/chapter_reviews/ch21.md",
+      "disposition": "integrated or explicitly classified without substantive loss"
+    },
+    {
+      "source_id": 108,
+      "youtube_id": "oRqUthcMi6I",
+      "chapter_number": 8,
+      "chapter_title": "Sales Is a Test of Reality",
+      "chapter_review": "generated_course_notes/lazyearn/school-of-hard-knocks/hard-knocks-interviews/dynamic_book/editorial/chapter_reviews/ch08.md",
+      "disposition": "integrated or explicitly classified without substantive loss"
+    },
+    {
+      "source_id": 109,
+      "youtube_id": "efJj9j2NRJg",
+      "chapter_number": 13,
+      "chapter_title": "The Company Is Other People",
+      "chapter_review": "generated_course_notes/lazyearn/school-of-hard-knocks/hard-knocks-interviews/dynamic_book/editorial/chapter_reviews/ch13.md",
+      "disposition": "integrated or explicitly classified without substantive loss"
+    },
+    {
+      "source_id": 110,
+      "youtube_id": "lAOliWexJgo",
+      "chapter_number": 17,
+      "chapter_title": "Debt Must Be Carried by an Asset",
+      "chapter_review": "generated_course_notes/lazyearn/school-of-hard-knocks/hard-knocks-interviews/dynamic_book/editorial/chapter_reviews/ch17.md",
+      "disposition": "integrated or explicitly classified without substantive loss"
+    },
+    {
+      "source_id": 111,
+      "youtube_id": "O_FWBldliEo",
+      "chapter_number": 18,
+      "chapter_title": "Compounding Is Slow; Risk Is Fast",
+      "chapter_review": "generated_course_notes/lazyearn/school-of-hard-knocks/hard-knocks-interviews/dynamic_book/editorial/chapter_reviews/ch18.md",
+      "disposition": "integrated or explicitly classified without substantive loss"
+    },
+    {
+      "source_id": 112,
+      "youtube_id": "C2lgZOIPp8c",
+      "chapter_number": 5,
+      "chapter_title": "Find the Expensive Problem",
+      "chapter_review": "generated_course_notes/lazyearn/school-of-hard-knocks/hard-knocks-interviews/dynamic_book/editorial/chapter_reviews/ch05.md",
+      "disposition": "integrated or explicitly classified without substantive loss"
+    },
+    {
+      "source_id": 113,
+      "youtube_id": "1m7ERHu13sc",
+      "chapter_number": 13,
+      "chapter_title": "The Company Is Other People",
+      "chapter_review": "generated_course_notes/lazyearn/school-of-hard-knocks/hard-knocks-interviews/dynamic_book/editorial/chapter_reviews/ch13.md",
+      "disposition": "integrated or explicitly classified without substantive loss"
+    },
+    {
+      "source_id": 114,
+      "youtube_id": "3G79t-mcgJ8",
+      "chapter_number": 6,
+      "chapter_title": "Listen Before You Build",
+      "chapter_review": "generated_course_notes/lazyearn/school-of-hard-knocks/hard-knocks-interviews/dynamic_book/editorial/chapter_reviews/ch06.md",
+      "disposition": "integrated or explicitly classified without substantive loss"
+    },
+    {
+      "source_id": 115,
+      "youtube_id": "w1bpdHouHpI",
+      "chapter_number": 2,
+      "chapter_title": "The Unequal Starting Line",
+      "chapter_review": "generated_course_notes/lazyearn/school-of-hard-knocks/hard-knocks-interviews/dynamic_book/editorial/chapter_reviews/ch02.md",
+      "disposition": "integrated or explicitly classified without substantive loss"
+    },
+    {
+      "source_id": 117,
+      "youtube_id": "Kq4nx8DLrpY",
+      "chapter_number": 16,
+      "chapter_title": "Know What the Number Means",
+      "chapter_review": "generated_course_notes/lazyearn/school-of-hard-knocks/hard-knocks-interviews/dynamic_book/editorial/chapter_reviews/ch16.md",
+      "disposition": "integrated or explicitly classified without substantive loss"
+    },
+    {
+      "source_id": 118,
+      "youtube_id": "MtvcqGNGev8",
+      "chapter_number": 7,
+      "chapter_title": "Price the Outcome",
+      "chapter_review": "generated_course_notes/lazyearn/school-of-hard-knocks/hard-knocks-interviews/dynamic_book/editorial/chapter_reviews/ch07.md",
+      "disposition": "integrated or explicitly classified without substantive loss"
+    },
+    {
+      "source_id": 119,
+      "youtube_id": "3aG9DVb6vBs",
+      "chapter_number": 19,
+      "chapter_title": "Cash Buys the Right to Survive",
+      "chapter_review": "generated_course_notes/lazyearn/school-of-hard-knocks/hard-knocks-interviews/dynamic_book/editorial/chapter_reviews/ch19.md",
+      "disposition": "integrated or explicitly classified without substantive loss"
+    },
+    {
+      "source_id": 120,
+      "youtube_id": "Iw7huxwfHRM",
+      "chapter_number": 4,
+      "chapter_title": "Choose the Life Before the Income",
+      "chapter_review": "generated_course_notes/lazyearn/school-of-hard-knocks/hard-knocks-interviews/dynamic_book/editorial/chapter_reviews/ch04.md",
+      "disposition": "integrated or explicitly classified without substantive loss"
+    },
+    {
+      "source_id": 121,
+      "youtube_id": "RGt99we0cGA",
+      "chapter_number": 17,
+      "chapter_title": "Debt Must Be Carried by an Asset",
+      "chapter_review": "generated_course_notes/lazyearn/school-of-hard-knocks/hard-knocks-interviews/dynamic_book/editorial/chapter_reviews/ch17.md",
+      "disposition": "integrated or explicitly classified without substantive loss"
+    },
+    {
+      "source_id": 122,
+      "youtube_id": "_wo0ox2mSjc",
+      "chapter_number": 21,
+      "chapter_title": "The Cost of the Game",
+      "chapter_review": "generated_course_notes/lazyearn/school-of-hard-knocks/hard-knocks-interviews/dynamic_book/editorial/chapter_reviews/ch21.md",
+      "disposition": "integrated or explicitly classified without substantive loss"
+    },
+    {
+      "source_id": 123,
+      "youtube_id": "uf0Or7n8_bU",
+      "chapter_number": 22,
+      "chapter_title": "Freedom Needs a Use",
+      "chapter_review": "generated_course_notes/lazyearn/school-of-hard-knocks/hard-knocks-interviews/dynamic_book/editorial/chapter_reviews/ch22.md",
+      "disposition": "integrated or explicitly classified without substantive loss"
+    },
+    {
+      "source_id": 124,
+      "youtube_id": "O_pe_5L769E",
+      "chapter_number": 3,
+      "chapter_title": "Skills, Work, and the First Margin",
+      "chapter_review": "generated_course_notes/lazyearn/school-of-hard-knocks/hard-knocks-interviews/dynamic_book/editorial/chapter_reviews/ch03.md",
+      "disposition": "integrated or explicitly classified without substantive loss"
+    },
+    {
+      "source_id": 125,
+      "youtube_id": "RI8aZSK1Nr4",
+      "chapter_number": 6,
+      "chapter_title": "Listen Before You Build",
+      "chapter_review": "generated_course_notes/lazyearn/school-of-hard-knocks/hard-knocks-interviews/dynamic_book/editorial/chapter_reviews/ch06.md",
+      "disposition": "integrated or explicitly classified without substantive loss"
+    },
+    {
+      "source_id": 126,
+      "youtube_id": "Kl2_ddXq0QU",
+      "chapter_number": 9,
+      "chapter_title": "Distribution Opens the Door; Trust Keeps It Open",
+      "chapter_review": "generated_course_notes/lazyearn/school-of-hard-knocks/hard-knocks-interviews/dynamic_book/editorial/chapter_reviews/ch09.md",
+      "disposition": "integrated or explicitly classified without substantive loss"
+    },
+    {
+      "source_id": 127,
+      "youtube_id": "94KT6kW4qQ0",
+      "chapter_number": 13,
+      "chapter_title": "The Company Is Other People",
+      "chapter_review": "generated_course_notes/lazyearn/school-of-hard-knocks/hard-knocks-interviews/dynamic_book/editorial/chapter_reviews/ch13.md",
+      "disposition": "integrated or explicitly classified without substantive loss"
+    },
+    {
+      "source_id": 128,
+      "youtube_id": "bFnlLPuGoIM",
+      "chapter_number": 16,
+      "chapter_title": "Know What the Number Means",
+      "chapter_review": "generated_course_notes/lazyearn/school-of-hard-knocks/hard-knocks-interviews/dynamic_book/editorial/chapter_reviews/ch16.md",
+      "disposition": "integrated or explicitly classified without substantive loss"
+    },
+    {
+      "source_id": 129,
+      "youtube_id": "fEX1Oy51iJs",
+      "chapter_number": 4,
+      "chapter_title": "Choose the Life Before the Income",
+      "chapter_review": "generated_course_notes/lazyearn/school-of-hard-knocks/hard-knocks-interviews/dynamic_book/editorial/chapter_reviews/ch04.md",
+      "disposition": "integrated or explicitly classified without substantive loss"
+    },
+    {
+      "source_id": 130,
+      "youtube_id": "48TQYZOgE1s",
+      "chapter_number": 1,
+      "chapter_title": "A Number Cannot Tell You What Rich Means",
+      "chapter_review": "generated_course_notes/lazyearn/school-of-hard-knocks/hard-knocks-interviews/dynamic_book/editorial/chapter_reviews/ch01.md",
+      "disposition": "integrated or explicitly classified without substantive loss"
+    },
+    {
+      "source_id": 131,
+      "youtube_id": "8GgL-uvICKY",
+      "chapter_number": 12,
+      "chapter_title": "Working Capital Is the Price of Growth",
+      "chapter_review": "generated_course_notes/lazyearn/school-of-hard-knocks/hard-knocks-interviews/dynamic_book/editorial/chapter_reviews/ch12.md",
+      "disposition": "integrated or explicitly classified without substantive loss"
+    },
+    {
+      "source_id": 132,
+      "youtube_id": "MQv7Te8VmYI",
+      "chapter_number": 12,
+      "chapter_title": "Working Capital Is the Price of Growth",
+      "chapter_review": "generated_course_notes/lazyearn/school-of-hard-knocks/hard-knocks-interviews/dynamic_book/editorial/chapter_reviews/ch12.md",
+      "disposition": "integrated or explicitly classified without substantive loss"
+    },
+    {
+      "source_id": 133,
+      "youtube_id": "BT6YGOROV6c",
+      "chapter_number": 22,
+      "chapter_title": "Freedom Needs a Use",
+      "chapter_review": "generated_course_notes/lazyearn/school-of-hard-knocks/hard-knocks-interviews/dynamic_book/editorial/chapter_reviews/ch22.md",
+      "disposition": "integrated or explicitly classified without substantive loss"
+    },
+    {
+      "source_id": 134,
+      "youtube_id": "TpVlJpiV6U8",
+      "chapter_number": 15,
+      "chapter_title": "Build Something That Can Outlive You",
+      "chapter_review": "generated_course_notes/lazyearn/school-of-hard-knocks/hard-knocks-interviews/dynamic_book/editorial/chapter_reviews/ch15.md",
+      "disposition": "integrated or explicitly classified without substantive loss"
+    },
+    {
+      "source_id": 135,
+      "youtube_id": "8M5QEOicQKQ",
+      "chapter_number": 3,
+      "chapter_title": "Skills, Work, and the First Margin",
+      "chapter_review": "generated_course_notes/lazyearn/school-of-hard-knocks/hard-knocks-interviews/dynamic_book/editorial/chapter_reviews/ch03.md",
+      "disposition": "integrated or explicitly classified without substantive loss"
+    },
+    {
+      "source_id": 136,
+      "youtube_id": "Q0cgOMI5gn0",
+      "chapter_number": 18,
+      "chapter_title": "Compounding Is Slow; Risk Is Fast",
+      "chapter_review": "generated_course_notes/lazyearn/school-of-hard-knocks/hard-knocks-interviews/dynamic_book/editorial/chapter_reviews/ch18.md",
+      "disposition": "integrated or explicitly classified without substantive loss"
+    },
+    {
+      "source_id": 137,
+      "youtube_id": "LdMyHHbDdaM",
+      "chapter_number": 8,
+      "chapter_title": "Sales Is a Test of Reality",
+      "chapter_review": "generated_course_notes/lazyearn/school-of-hard-knocks/hard-knocks-interviews/dynamic_book/editorial/chapter_reviews/ch08.md",
+      "disposition": "integrated or explicitly classified without substantive loss"
+    },
+    {
+      "source_id": 138,
+      "youtube_id": "cttsP_8MjEo",
+      "chapter_number": 13,
+      "chapter_title": "The Company Is Other People",
+      "chapter_review": "generated_course_notes/lazyearn/school-of-hard-knocks/hard-knocks-interviews/dynamic_book/editorial/chapter_reviews/ch13.md",
+      "disposition": "integrated or explicitly classified without substantive loss"
+    },
+    {
+      "source_id": 139,
+      "youtube_id": "67T9EMIvOlA",
+      "chapter_number": 18,
+      "chapter_title": "Compounding Is Slow; Risk Is Fast",
+      "chapter_review": "generated_course_notes/lazyearn/school-of-hard-knocks/hard-knocks-interviews/dynamic_book/editorial/chapter_reviews/ch18.md",
+      "disposition": "integrated or explicitly classified without substantive loss"
+    },
+    {
+      "source_id": 140,
+      "youtube_id": "jR6g__ogNkc",
+      "chapter_number": 6,
+      "chapter_title": "Listen Before You Build",
+      "chapter_review": "generated_course_notes/lazyearn/school-of-hard-knocks/hard-knocks-interviews/dynamic_book/editorial/chapter_reviews/ch06.md",
+      "disposition": "integrated or explicitly classified without substantive loss"
+    }
+  ]
+}
