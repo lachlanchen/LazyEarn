@@ -13,7 +13,8 @@
 - Chapter 8, Sales Is a Test of Reality, is accepted.
 - Chapter 9, Distribution Opens the Door; Trust Keeps It Open, is accepted.
 - Chapter 10, From Skill to Ownership, is accepted.
-- Chapters 11--23 in manuscript-v3 remain V2 baselines until individually
+- Chapter 11, A Business That Can Leave the Room, is accepted.
+- Chapters 12--23 in manuscript-v3 remain V2 baselines until individually
   reviewed; their presence in a compiling V3 PDF is not V3 acceptance.
 
 ## Live Argument
@@ -116,6 +117,15 @@ none erases labor, ranks human worth, or guarantees freedom. The next credible
 claim begins with the smallest inspectable participation term whose return,
 authority, obligations, transfer, liquidity, and possible loss are visible.
 
+Chapter 11 applies a two-part absence test to every critical stage in Record 3.
+Expected work names its invariant, reason, interface, owner, measure, and
+inspection. Unexpected conditions name boundaries, stop and decision rights,
+escalation, support, expiry of temporary authority, and review. Delegated scope
+expands only with evidence and direct customer response. Record 3 now includes
+accountable outcomes, resources, ordinary and exception authority, customer
+feedback, founder interruptions, the unresolved constraint, and bounded
+permission to grow. A critical zero cannot be averaged away.
+
 ## Recurring Cases
 
 - Glenn Boyd may return only when life design, founder dependence, growth
@@ -155,10 +165,9 @@ authority, obligations, transfer, liquidity, and possible loss are visible.
 
 ## Handoff
 
-Chapter 11 must test whether the organization can deliver expected work and
-respond to an unexpected condition while the founder is absent. Expected work
-needs an invariant, reason, interface, owner, measure, and inspection;
-exceptions need boundaries, escalation, expiring authority, support, and
-review. Record 3 adds accountable outcomes, resources, authority, customer
-feedback, exception paths, founder dependence, and explicit permission to
-grow.
+Chapter 12 must identify who finances the delay between demand, delivery,
+acceptance, collection, payroll, maintenance, and repair. Stock and flow remain
+separate before the weekly cash calendar and peak-carry calculation. Record 3
+adds timing, capacity, duties, peak carry, stress path, stop condition, and the
+capital-fit question; Record 1 changes only if capability or the protected
+household floor changes.
