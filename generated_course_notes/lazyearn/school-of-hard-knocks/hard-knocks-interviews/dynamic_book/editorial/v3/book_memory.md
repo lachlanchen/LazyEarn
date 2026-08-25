@@ -14,7 +14,8 @@
 - Chapter 9, Distribution Opens the Door; Trust Keeps It Open, is accepted.
 - Chapter 10, From Skill to Ownership, is accepted.
 - Chapter 11, A Business That Can Leave the Room, is accepted.
-- Chapters 12--23 in manuscript-v3 remain V2 baselines until individually
+- Chapter 12, Working Capital Is the Price of Growth, is accepted.
+- Chapters 13--23 in manuscript-v3 remain V2 baselines until individually
   reviewed; their presence in a compiling V3 PDF is not V3 acceptance.
 
 ## Live Argument
@@ -126,6 +127,16 @@ accountable outcomes, resources, ordinary and exception authority, customer
 feedback, founder interruptions, the unresolved constraint, and bounded
 permission to grow. A critical zero cannot be averaged away.
 
+Chapter 12 separates period flows from dated stocks before drawing the weekly
+cash calendar and calculating peak carry. Growth must now join real demand,
+collected contribution, capacity, cash timing, legitimate duties, and
+recoverability under stress. Present output and future capability are recorded
+separately. Record 3 receives one growth-permission decision with diagnosis,
+evidence, coherent change, carrier and full financing burden, boundaries, stop
+conditions, and the observed result required for another stage. The final
+choice among retained earnings, customer or supplier terms, debt, equity, and
+hybrids remains open for the capital-fit record.
+
 ## Recurring Cases
 
 - Glenn Boyd may return only when life design, founder dependence, growth
@@ -165,9 +176,9 @@ permission to grow. A critical zero cannot be averaged away.
 
 ## Handoff
 
-Chapter 12 must identify who finances the delay between demand, delivery,
-acceptance, collection, payroll, maintenance, and repair. Stock and flow remain
-separate before the weekly cash calendar and peak-carry calculation. Record 3
-adds timing, capacity, duties, peak carry, stress path, stop condition, and the
-capital-fit question; Record 1 changes only if capability or the protected
-household floor changes.
+Chapter 13 must ask how contribution, authority, information, upside, and
+residual risk should be shared among the people carrying the company. Bounded
+responsibility names outcome, authority, resources, limits, information,
+support, review, and remedy. Decision closure, dissent, expiring emergency
+authority, truthful crisis communication, safety, invisible risk, and leader
+support remain visible without turning governance into consensus theater.
