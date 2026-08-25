@@ -1,12 +1,14 @@
 # How You Got Rich
 
+### From Abundance to Fulfillment and Contentment
+
 [![How You Got Rich cover](../docs/publications/how-you-got-rich/cover-page-1.png)](how-you-got-rich.pdf)
 
-*How You Got Rich* asks what 135 School of Hard Knocks conversations reveal
-when their success stories, failures, contradictions, and costs are allowed to
-challenge one another. The result is a candid book about earning, ownership,
-risk, time, and freedom rather than a collection of profiles or a promise that
-one path to wealth can be copied.
+*How You Got Rich* is a rigorous, candid search for how people become rich,
+how wealth is created, kept, and deployed, and how it can become freedom,
+abundance, fulfillment, and contentment rather than status without an end. It
+tests 135 School of Hard Knocks conversations against one another instead of
+promising that any interviewee's route can simply be copied.
 
 The book treats financial freedom as room for three related goods:
 **abundance**, or sufficient resources, capabilities, relationships, time, and
@@ -37,7 +39,7 @@ takes command.
   larger tablets.
 - [Pocket 1.2x PDF](how-you-got-rich-pocket-1.2x.pdf), a 6x9 edition with
   larger type for compact screens and e-readers.
-- [Standalone source repository](https://github.com/lachlanchen/HowYouGotRich)
+- [Standalone source repository](https://github.com/lachlanchen/how-you-got-rich)
   with reproducible build scripts and figure attribution.
 - [Read on LazyEarn](https://earn.lazying.art/pdf-viewer.html#how-you-got-rich).
 
@@ -52,8 +54,8 @@ by School of Hard Knocks, its host, or any interviewee.
 ## Build
 
 ```bash
-git clone https://github.com/lachlanchen/HowYouGotRich.git
-cd HowYouGotRich
+git clone https://github.com/lachlanchen/how-you-got-rich.git
+cd how-you-got-rich
 ./scripts/build.sh
 ./scripts/build-pocket.sh
 ```

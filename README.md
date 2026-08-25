@@ -27,7 +27,7 @@ This shelf is mirrored in the repo at [all_notes/wealth-research](all_notes/weal
 source-traceable inquiry into abundance, fulfillment, contentment, and
 financial freedom.
 
-[Book source, editions, and contribution guide](https://github.com/lachlanchen/HowYouGotRich)
+[Book source, editions, and contribution guide](https://github.com/lachlanchen/how-you-got-rich)
 are maintained in a focused publication repository.
 
 | Wealth from first principles | How You Got Rich | How You Got Successful? | How You Got Happiness? |
