@@ -64,7 +64,7 @@ interview evidence or import unsupported facts into a speaker's story.
 ## Draft State
 
 Evidence mapping and architecture are complete. The front matter, introduction,
-and Chapters 1--15 are accepted. Source rows remain `mapped` until all of their
+and Chapters 1--16 are accepted. Source rows remain mapped until all of their
 primary and secondary material has been integrated or explicitly classified.
 Drafting continues in reading order so voice, definitions, and recurring cases
 accumulate rather than reset.
@@ -190,6 +190,19 @@ environmental, professional, lender, supplier, community, and mission duties
 remain visible beside price. The ten-point transferability review completes the
 owned machine and prepares Part IV to judge whether capital makes it resilient
 or fragile.
+
+Chapter 16 opens Part IV by refusing to let size substitute for classification.
+Every decision-relevant figure receives a category, owner, period, state,
+source, and date. Revenue is followed through gross and operating profit toward
+cash without implying that company cash is owner spending; annual recurring
+revenue is qualified by collection, retention, service burden, concentration,
+and contract; and an eighteen-month forecast horizon is kept distinct from
+eighteen months of runway. The restaurant case preserves rather than repairs
+its inconsistent month, year, area, and density claims. Portfolio marks,
+restricted public shares, sale proceeds, and usable liquidity occupy separate
+records. High episodic income is tested against recurring commitments and a
+weak year. The resulting number card prepares Chapter 17 to judge debt by the
+cash flow, collateral, obligations, and downside that carry it.
 
 ## Reserved Recurrences
 
