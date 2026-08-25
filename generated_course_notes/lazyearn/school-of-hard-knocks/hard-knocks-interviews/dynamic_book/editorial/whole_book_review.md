@@ -178,3 +178,29 @@ Status: accepted on 2026-08-25.
   `bab7360e59c682a9f13b675d5626fb2bbcd9f157d240e6f383535ec35cee6e8a`.
   The superseding pocket SHA-256 is
   `186d1ac0e36acd9dbe1746c165a3f128be092df59f5528354169c3256a9cab5e`.
+
+## Pass 9: Final Identity and Dedicated Publication
+
+Status: accepted on 2026-08-25.
+
+- The title remains *How You Got Rich*. The accepted subtitle, *From
+  Abundance to Fulfillment and Contentment*, now appears on the cover, title
+  page, PDF metadata, citation record, and reader documentation.
+- The full-size edition remains 162 pages and the 1.2x 6x9 pocket edition
+  remains 312 pages. Both pass `qpdf --check`, embed every listed font, and
+  preserve the source-audit result of `135/135` interviews and two verified
+  documentary figures.
+- The full build has no overfull or fatal diagnostic. Its four underfull lines
+  are confined to the deliberately ragged cover overlay and were visually
+  inspected. The pocket build has no overfull or underfull box warning; its
+  subtitle breaks before the complete word “Fulfillment” without hyphenation.
+- The accepted full-size SHA-256 is
+  `6781241008a821036e34fe3fbcc3c1afa353c3ea7b0b2b2dbff5eba9d2016b3e`.
+  The accepted pocket SHA-256 is
+  `ec9cf4a35ae4ce0fb3643788c819f78c3cef7076098b8411d6b5b54128b8898e`.
+- Canonical, publication-shelf, website, standalone, and Nutstore copies match
+  those checksums. The 1360x1760 preview was rendered from page one of the
+  accepted full-size PDF.
+- The dedicated public repository is
+  `https://github.com/lachlanchen/how-you-got-rich`, with its local curated
+  checkout at `/home/lachlan/ProjectsLFS/how-you-got-rich`.
