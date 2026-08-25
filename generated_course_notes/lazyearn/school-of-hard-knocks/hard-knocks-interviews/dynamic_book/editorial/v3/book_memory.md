@@ -18,7 +18,10 @@
 - Chapter 13, The Company Is Other People, is accepted.
 - Chapter 14, Own the Rights and Critical Links, is accepted.
 - Chapter 15, Build Something That Can Outlive You, is accepted.
-- Chapters 16--23 in manuscript-v3 remain V2 baselines until individually
+- Chapter 16, A Number Needs an Address, is accepted.
+- Chapter 17, Debt Must Be Carried by an Asset, is accepted.
+- Chapter 18, Compounding Is Slow; Risk Is Fast, is accepted.
+- Chapters 19--23 in manuscript-v3 remain V2 baselines until individually
   reviewed; their presence in a compiling V3 PDF is not V3 acceptance.
 
 ## Live Argument
@@ -199,6 +202,17 @@ one leverage decision covering the right and operation, cash clock, capital
 stack, stress path, recovery clock, protected boundaries, and the option to
 change terms or decline debt entirely.
 
+Chapter 18 distinguishes capacity, willingness, and necessity before assigning
+capital to continuity, compounding, creation, or opportunity. Broad low-cost
+productive ownership is the default for suitable long-horizon household
+capital; concentration must earn a written exception through rights, mechanism,
+evidence, disconfirmation, correlated exposures, forced-sale actors, maximum
+loss, consent, and a survivable complete-loss path. The nonfinancial balance
+sheet includes work, skill, private equity, guarantees, housing, health,
+dependants, institutions, currency, location, platform, and customers. Record 4
+now contains one household risk map with dated duties, capital jobs, path tests,
+and operating rules that protect the right to wait.
+
 ## Recurring Cases
 
 - Glenn Boyd may return only when life design, founder dependence, growth
@@ -263,17 +277,17 @@ change terms or decline debt entirely.
   closures. Chapter 22 may use his evolving purpose only without repeating the
   closure or launch account.
 - The Miami industrial-property founder belongs to Chapter 16 for the address
-  of household collateral and revolving credit. Chapter 18 may return only to
-  survivorship, consent, and the household floor; success cannot validate an
-  all-in rule.
+  of household collateral and revolving credit. Chapter 18 completes the
+  return through survivorship, consent, and the household floor; success does
+  not validate an all-in rule, and the case should not recur.
 - Matt Teifke belongs to Chapter 16 for the distinction among a personal marked
-  loss, company revenue, company value, and ownership rights. Chapter 18 may
-  return only for concentration, disconfirming evidence, and loss capacity,
-  without promoting or condemning the named security.
+  loss, company revenue, company value, and ownership rights. Chapter 18
+  completes the return through concentration, disconfirming evidence, and loss
+  capacity without promoting or condemning the named security.
 - The anonymous New York trader belongs to Chapter 16 for a margin call as a
-  dated cash demand. Chapter 18 may return only to forced-sale timing and
-  willingness versus capacity. Sensitive secondhand death material remains
-  excluded.
+  dated cash demand. Chapter 18 completes the return through forced-sale timing
+  and willingness versus capacity. Sensitive secondhand death material remains
+  excluded, and the case should not recur.
 - The Austin lawyer's restricted-stock sequence belongs to Chapter 16. Its
   three dated values and personal sell-early conclusion do not recur as a
   universal investment rule.
@@ -288,24 +302,26 @@ change terms or decline debt entirely.
   reported gross and residual, and no-cash claim do not recur as proof of a
   guarantee, tax outcome, or generally safe structure.
 - Todd Nepola's first-property refinance belongs to Chapter 17 for the
-  before-and-after capital claim. Chapter 18 may use only his long-horizon or
-  recurring-cash thesis without restating the refinance figures or mechanism.
+  before-and-after capital claim. Chapter 18 uses only his long-horizon
+  recurring-cash thesis without restating refinance figures or mechanism. That
+  recurrence is complete.
 - Justin Waller's adjustable-rate scenario belongs to Chapter 17 as a maturity
   stress case, never a rate forecast. Later risk discussion should use the
   general forced-sale mechanism rather than repeat his figures.
 - The landscape-supply acquisition belongs to Chapter 17 for debt and
   equipment timing. The government-program figures remain excluded, and its
   growth story should not return without a different narrative purpose.
+- Jameis Winston belongs to Chapter 18 for an athlete-specific income partition.
+  Chapter 23 may return only to multigenerational intention and willing
+  stewardship, without salary spectacle, a prescribed family form, or a
+  never-give-up rule.
 
 ## Handoff
 
-Chapter 18 must distinguish capacity, willingness, and necessity after one
-asset passes Chapter 17's financing test. Build survival from dated household
-needs, liquidity, income fragility, concentration, correlation, time horizon,
-forced-sale risk, fees, tax, and recovery rather than a generic risk score.
-Interview winner stories remain selected paths, not expected returns. Record 4
-must receive a household floor, loss and liquidity budget, concentration map,
-rebalancing or exit evidence, and a policy that protects the right to remain
-invested. Do not repeat property underwriting, refinance mechanics, or the
-capital-stack checklist. The handoff to Chapter 19 must show that surviving the
-path is necessary but does not determine which claims deserve trust.
+Chapter 19 must turn continuity capital into distinct household, operating,
+committed-project, and opportunity reserves without counting the same cash
+twice. Credit remains conditional access rather than cash. Each reserve needs a
+job, owner, target, trigger, access path, replenishment rule, and boundary;
+income interruption, collection delay, health, payroll, tax, care, and recovery
+must meet on a dated calendar. Preserve cash's inflation and opportunity cost,
+and do not repeat Chapter 18's capital-role or concentration exercise.
