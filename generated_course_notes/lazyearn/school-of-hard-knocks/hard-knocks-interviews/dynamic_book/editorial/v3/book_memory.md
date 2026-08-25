@@ -9,7 +9,8 @@
 - Chapter 4, Choose the Life Before the Income, is accepted.
 - Chapter 5, Find the Expensive Problem, is accepted.
 - Chapter 6, Listen Before You Build, is accepted.
-- Chapters 7--23 in manuscript-v3 remain V2 baselines until individually
+- Chapter 7, Price the Outcome, is accepted.
+- Chapters 8--23 in manuscript-v3 remain V2 baselines until individually
   reviewed; their presence in a compiling V3 PDF is not V3 acceptance.
 
 ## Live Argument
@@ -78,6 +79,13 @@ the next decision for a positive, negative, or ambiguous result. Afterward,
 Record 2 receives the rung reached, role-specific result, what failed, and the
 strategy field changed.
 
+Chapter 7 adds a buyer-specific value range, assumptions, promised change,
+proof, delivery floor, price range, duties, and smallest mutually useful next
+step to Record 2. The same page now separates the decision, current evidence
+rung and role, commercial terms, and consent. Proceed, decline, defer, and use
+another route remain legitimate; consent is not inferred from conversation or
+urgency.
+
 ## Recurring Cases
 
 - Glenn Boyd may return only when life design, founder dependence, growth
@@ -110,12 +118,14 @@ strategy field changed.
 - Elliot Hill first appears in Chapter 5 for the customer--product--story
   sequence. Chapter 6 advances the listening method without restating his
   career summary. Chapter 8 may return only to the direct ask.
+- Josh's paired-review method belongs to Chapter 6. Chapter 7 may use it only
+  to distinguish evidence-backed premium value from copying a famous price.
 
 ## Handoff
 
-Chapter 7 must price the tested change for a particular buyer against the real
-alternative and under explicit uncertainty. It carries buyer, reference
-alternative, promised change, and proof into one reciprocal exchange record
-that separates decision, evidence step, commercial terms, consent, and duties
-created by the price. Record 2 adds a value range, assumptions, buyer-specific
-terms, proof, duties, and the smallest mutually useful next step.
+Chapter 8 must complete the reciprocal exchange record through a voluntary
+decision. Chris Meroff returns only to qualify the claim that sales are the sole
+indicator. A sale validates only the person, decision, terms, evidence, and
+delivery reproduced; it does not prove scale, margin, collected cash,
+retention, safety, or durability. Preparation never creates presumed consent,
+and urgency may state real consequences but may not manufacture fear.
