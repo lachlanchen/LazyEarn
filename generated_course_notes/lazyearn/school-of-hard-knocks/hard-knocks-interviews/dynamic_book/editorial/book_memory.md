@@ -64,7 +64,7 @@ interview evidence or import unsupported facts into a speaker's story.
 ## Draft State
 
 Evidence mapping and architecture are complete. The front matter, introduction,
-and Chapters 1--8 are accepted. Source rows remain `mapped` until all of their
+and Chapters 1--9 are accepted. Source rows remain `mapped` until all of their
 primary and secondary material has been integrated or explicitly classified.
 Drafting continues in reading order so voice, definitions, and recurring cases
 accumulate rather than reset.
@@ -99,9 +99,17 @@ conversation where the buyer can question it, refuse it, or buy, using
 diagnosis before description, direct asking, known/expected/
 unknown distinctions, a seven-part concern taxonomy, mutual walk-away rights,
 practice with review, safe-work boundaries, consensual follow-up, and an
-explicit stopping point. One sale remains one observed exchange. Chapter 9 can
-now ask how an honest proof reaches enough appropriate people without consuming
-more trust than the company earns.
+explicit stopping point. One sale remains one observed exchange. Chapter 9
+extends that exchange into a complete route from awareness through qualified
+attention, trust, transaction, delivery, return, referral, and recovery. It
+separates audience size from allegiance, recognition from reputation, and
+speed from a credible release cadence; treats platform access as rented; joins
+product truth to distribution access; defines brand through a promise ledger;
+bounds personal service and relationship routes by consent, privacy, access
+inequality, and reciprocal value; and measures route contribution after
+acquisition, service, and recovery costs. The resulting nine-step loop ends at
+the threshold of Part III: repeated demand now raises the question of who owns
+the stream and whether it can continue without the original worker.
 
 ## Reserved Recurrences
 
@@ -228,6 +236,46 @@ more trust than the company earns.
 - Source 140's direct ask returns in Chapter 8 with an explicit option to
   decline. Its remaining team, household, career, education, saving, insurance,
   passion, and persistence material stays reserved for Parts III--V.
+- Source 17 supplies human attention, organic distribution, and the corrected
+  limits of platform access in Chapter 9. Its operating-scale, education-debt,
+  mortality, identity, and urgency arguments remain reserved for Parts III--V.
+- Source 26 supplies Daniel Lubetzky's street selling, incremental placement,
+  brand boundary, and kept-promise doctrine in Chapter 9. Its entity structure,
+  capital-market pivot, negotiation optionality, craft, fear, and contribution
+  material remains reserved for Parts III--V.
+- Source 30 supplies the loyal-audience distinction and short-to-long creator
+  route in Chapter 9, with volatility, parasocial, and platform limits. Its
+  earlier sales, competition, access, defensive-asset, property, and fear cases
+  remain reserved for the relevant ownership, capital, and risk chapters.
+- Source 33 supplies competition as demand evidence and differentiation as a
+  survival test in Chapter 9. Its income-versus-wealth, ownership, exit,
+  crisis, screening, and durable-asset evidence remains reserved for Parts III
+  and IV.
+- Source 60 supplies product-before-distribution and the corrected complement
+  between value and access in Chapter 9. Its help, partnership, focus,
+  epistemic humility, banking, prison, and generational-access material remains
+  reserved for Parts III--V.
+- Source 70 supplies integrity and delivered work as accumulated reputation in
+  Chapter 9. Its construction operation, client satisfaction, repeated-game,
+  investing, and other capital material remains reserved for Parts III and IV.
+- Source 91 supplies relationship routes, communication, repeated customer
+  choice, and the bounded customer-as-investor analogy in Chapter 9. Its team,
+  giving, ownership, finance, and later life material remains reserved for
+  Parts III--V.
+- Source 92 supplies the pandemic factory pivot as a bounded demand-shock case
+  in Chapter 9. Its law, property, specialization, diversification, and capital
+  evidence remains reserved for Parts III and IV.
+- Source 95 supplies apprenticeship, craft, accumulated trust, distribution,
+  and reinvested brand access in Chapter 9. Its risk, delegation, partner,
+  education, and institutional-access evidence remains reserved for Parts III
+  and IV.
+- Source 104 supplies rapid product cadence as a learning and visibility loop
+  in Chapter 9, bounded by quality, waste, safety, and worker strain. Its
+  origin, scaling, capital, operations, and remaining discipline evidence stays
+  reserved for Parts III and IV.
+- Source 126 completes its primary role through sincere personal service,
+  return, and word of mouth in Chapter 9, bounded by consent, privacy, and
+  emotional labor; it remains available only for final recurrence review.
 
 ## Acceptance Rule
 
