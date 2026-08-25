@@ -16,7 +16,8 @@
 - Chapter 11, A Business That Can Leave the Room, is accepted.
 - Chapter 12, Working Capital Is the Price of Growth, is accepted.
 - Chapter 13, The Company Is Other People, is accepted.
-- Chapters 14--23 in manuscript-v3 remain V2 baselines until individually
+- Chapter 14, Own the Rights and Critical Links, is accepted.
+- Chapters 15--23 in manuscript-v3 remain V2 baselines until individually
   reviewed; their presence in a compiling V3 PDF is not V3 acceptance.
 
 ## Live Argument
@@ -151,6 +152,18 @@ people-and-governance charter covering promise and exposure, responsibilities,
 economics, decisions and truth, protection and support, and repair and
 continuity.
 
+Chapter 14 traces the customer route through physical, legal, contractual, and
+relational layers before asking which critical links should be owned.
+Bottlenecks and integration must improve the promise after propagated failure,
+fairness, substitution, utilization, capital, management, and duty are counted.
+Every asset returns to Record 3's six-field ownership claim rather than opening
+a second rights taxonomy. Chapter 12's peak carry feeds one capital-fit record:
+constraint, productive use, timing, rights and control, pace and reporting,
+failure, alternatives, and stop or renegotiation evidence. Record 3 now also
+records each critical link's function, bundle, validity and transfer,
+dependency and failure, cost and duty, and deliberate choice among ownership,
+contract, diversification, backup, redesign, or bounded acceptance.
+
 ## Recurring Cases
 
 - Glenn Boyd may return only when life design, founder dependence, growth
@@ -187,12 +200,27 @@ continuity.
   direct ask. His contracted recurrence is complete.
 - Josh's paired-review method belongs to Chapter 6. Chapter 7 may use it only
   to distinguish evidence-backed premium value from copying a famous price.
+- Russ belongs to Chapter 14 for the distinction among recordings,
+  compositions, masters, publishing, licensing, advances, and recoupment. A
+  later return must concern identity or the meaning of a sale, not repeat the
+  catalog count or turn a reported offer into a valuation.
+- The Arizona beverage founder belongs to Chapter 14 for self-financed
+  industrial control, pricing discretion, and payroll anxiety. Chapter 23 may
+  return only to his preference for happiness over billionaire status without
+  repeating the capital case.
+- The Dallas bank operator belongs to Chapter 14 for equity that fits
+  acquisition growth and the danger of one dominant investor. His no-Plan-B
+  claim is rejected as general risk guidance and should not recur.
 
 ## Handoff
 
-Chapter 14 must identify which rights, interfaces, bottlenecks, and capital
-terms protect the promise and which merely collect control. Recording,
-composition, license, advance, recoupment, and transfer remain distinct. The
-capital-fit record must resolve timing, contribution, rights surrendered,
-control, guarantees, information duties, failure, and exit without declaring
-bootstrap control or outside capital universally superior.
+Chapter 15 must ask whether a willing and capable next steward can carry the
+customer promise, rights, duties, relationships, and judgment across absence,
+transfer, sale, disability, or death. Continuity, succession, transfer, and
+sale remain separate decisions. Kinship, economic ownership, employment, and
+authority must not collapse into a family title; a relative may decline, an
+outside buyer or employee group may be the better steward, and orderly closure
+remains legitimate. Record 3 should add transferability, successor evidence,
+authority, removal, fallback, and transition tests. Record 5 may receive only
+family purpose, protected people, role boundaries, and freedom to decline; it
+must not duplicate the later inheritance and enough chapters.
