@@ -64,7 +64,7 @@ interview evidence or import unsupported facts into a speaker's story.
 ## Draft State
 
 Evidence mapping and architecture are complete. The front matter, introduction,
-and Chapters 1--4 are accepted. Source rows remain `mapped` until all of their
+and Chapters 1--5 are accepted. Source rows remain `mapped` until all of their
 primary and secondary material has been integrated or explicitly classified.
 Drafting continues in reading order so voice, definitions, and recurring cases
 accumulate rather than reset.
@@ -78,7 +78,12 @@ high-cost debt, reserves, and a bounded next experiment. Chapter 4 must decide
 what kind of life those choices are meant to protect; it supplies the
 desired-week budget, health, relationship and material boundaries, bounded
 seasons, the five-year process test, and the life-first constraint sheet. Part
-II can now turn outward from purpose toward customer value.
+II now turns outward from purpose toward customer value. Chapter 5 separates
+human pain, user benefit, payment, and captured income; distinguishes affected
+person, user, decision-maker, and payer; prices a problem through direct cost,
+time, delay, and risk; narrows TAM to reachable decisions; and ends with an
+ethical problem brief. Chapter 6 must test that brief through observation and
+listening rather than treating it as settled product truth.
 
 ## Reserved Recurrences
 
@@ -102,6 +107,26 @@ II can now turn outward from purpose toward customer value.
 - Source 129 supplies the inherited-career script and the corrected relation
   among capability, access, and people skills in Chapter 4. Its network claim
   has already been bounded by Chapter 2's access analysis.
+- Source 46 supplies other-person value, expensive problems, controllable
+  discovery inputs, and the warning against arbitrary outcome deadlines in
+  Chapter 5. Its asset doctrine, sales mechanics, scale, reserve discipline,
+  mentorship, faith, and service remain reserved for Parts II--V.
+- Source 63 supplies wants versus painful problems, split payer power, and
+  narrow category positioning in Chapter 5. Its personal-brand, debt,
+  property, repeated-near-failure, and overhead material remains reserved for
+  the distribution, ownership, capital, and risk chapters.
+- Source 8 supplies equal dignity, unequal market rewards, and the corrected
+  limits of market compensation in Chapter 5. Its giving, courage, ownership,
+  leadership, capital deployment, diversification, and mission material
+  remains reserved for Parts III--V.
+- Source 58 supplies TAM and place-dependent value in Chapter 5. Its listening
+  and customer-detail cases belong in Chapter 6; reinvestment, acquisition,
+  bank relationships, crisis discipline, and capital fit remain reserved for
+  Parts III and IV.
+- Source 112 supplies buyer research and market-before-technology reasoning in
+  Chapter 5. Its direct sales process belongs in Chapter 8; training, trust,
+  equity, retention, hiring, property, referrals, and automation remain
+  reserved for Parts II--IV.
 
 ## Acceptance Rule
 
