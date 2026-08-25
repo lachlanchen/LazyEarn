@@ -64,7 +64,7 @@ interview evidence or import unsupported facts into a speaker's story.
 ## Draft State
 
 Evidence mapping and architecture are complete. The front matter, introduction,
-and Chapters 1--10 are accepted. Source rows remain `mapped` until all of their
+and Chapters 1--11 are accepted. Source rows remain `mapped` until all of their
 primary and secondary material has been integrated or explicitly classified.
 Drafting continues in reading order so voice, definitions, and recurring cases
 accumulate rather than reset.
@@ -120,8 +120,20 @@ property. None is automatically superior to stable employment. Medical
 ownership, personal branding, patent value, complementary assets, and
 operator equity are bounded by professional duty, personhood, demand,
 liquidity, labor fairness, and explicit agreement terms. The seven-step
-ownership map ends by asking what can survive a missed day, preparing Chapter
-11 to turn an owned claim into a system.
+ownership map ends by asking what can survive a missed day. Chapter 11 turns
+that owned claim into an absence-tolerant system. It follows the complete route
+from lead through sale, delivery, collection, renewal, repair, and learning;
+requires a named outcome owner, standard, decision rights, escalation, backup,
+and evidence for each critical function; and separates routine, judgment,
+exception, and emergency work. Delegation transfers authority, resources, and
+visibility with responsibility rather than making worker time cheap. Recurring
+revenue is tested through voluntary cohort retention and contribution after
+service and recovery cost, not confused with lock-in. Narrow focus reduces
+operating variation while concentrating risk. Lawful organizational memory and
+an eight-function, weakest-link absence audit turn founder independence into a
+safe test rather than a slogan. Its closing mismatch between demand, collection,
+inventory, payroll, and capacity now prepares Chapter 12 to price growth in
+working capital.
 
 ## Reserved Recurrences
 
@@ -319,6 +331,43 @@ ownership map ends by asking what can survive a missed day, preparing Chapter
   culture, employee care, athlete guardrails, healthcare exits, delegation,
   concentration, vertical integration, liquidity, infrastructure, mentoring,
   promotion, and peace material remains reserved for Chapters 11--23.
+- Source 9 supplies the sale-side consequence of key-person risk and the wish
+  to remove the founder operationally before transfer in Chapter 11. Its
+  bootstrapping, logistics-property growth, low-debt resilience, athlete-income
+  preservation, leverage, rebuilding, status, and enough material remains
+  reserved for Chapters 12--23.
+- Source 29 supplies narrow-menu repeatability, reported operating scale, and
+  retained ownership in Chapter 11, bounded by concentration and adaptation
+  risk. Its lender scenarios, startup capital, margins, overleverage, shock,
+  equity-funded growth, control, and service remain reserved for Parts IV and
+  V.
+- Source 57 supplies the physical necessity of delegation across reported
+  franchise holdings in Chapter 11. Its selective imitation, sudden-income
+  preservation, hiring, negotiation, written planning, family motivation,
+  faith, regret, luck, generosity, and identity remain reserved for Chapters
+  13--23.
+- Source 67 supplies common process, shared data, and empowered people in
+  Chapter 11, bounded by local context, regulation, decision rights, and
+  central accountability. Its bootstrapping, capital cycle, acquisition,
+  metrics, wealth claims, purpose, faith, and happiness remain reserved for
+  Chapters 12--23.
+- Source 85 supplies released founder time and delegation in Chapter 11. Its
+  cheap-labor hierarchy is explicitly rejected; its broader execution,
+  planning, self-management, scale, reported numbers, and lifestyle material
+  remains reserved for final coverage classification.
+- Source 87 supplies retained-client economics, voluntary renewal, operating
+  focus, and released low-level decisions in Chapter 11. Its sales, specialist
+  knowledge, banking, capital, property, search tools, wealth definitions, and
+  other montage material remains reserved for Parts IV and V.
+- Source 96 supplies the systems ladder, documented functions, backup, and
+  founder-absence test in Chapter 11, with revenue thresholds treated as
+  examples. Its sales-force claims, mobility, self-investment, networking,
+  reciprocal access, spending, conviction, persistence, and rich-versus-wealthy
+  language remains reserved for Chapters 12--23.
+- Source 132 recurs in Chapter 11 for workload subtraction, span-of-control
+  failure, and leadership responsibility as roles expand. Its primary growth,
+  working-capital, partnership, ownership, risk, health, enough, and regret
+  material remains reserved for Chapters 12, 13, and 21--23.
 
 ## Acceptance Rule
 
