@@ -2,6 +2,10 @@
 
 These files keep source completeness separate from reader-facing prose.
 
+The [`v3/`](v3/) controls extend the audit from the original 135-interview
+spine to all 422 regular LazyEarn transcript records while preserving this V2
+acceptance record unchanged.
+
 - `source_inventory.csv` is generated from the 135 transcripts, subtitles,
   chapter evidence directories, and read-only source videos.
 - `source_coverage.csv` records where each source's substantive stories,
