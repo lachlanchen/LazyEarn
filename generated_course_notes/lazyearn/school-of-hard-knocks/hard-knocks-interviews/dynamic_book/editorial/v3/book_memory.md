@@ -12,7 +12,8 @@
 - Chapter 7, Price the Outcome, is accepted.
 - Chapter 8, Sales Is a Test of Reality, is accepted.
 - Chapter 9, Distribution Opens the Door; Trust Keeps It Open, is accepted.
-- Chapters 10--23 in manuscript-v3 remain V2 baselines until individually
+- Chapter 10, From Skill to Ownership, is accepted.
+- Chapters 11--23 in manuscript-v3 remain V2 baselines until individually
   reviewed; their presence in a compiling V3 PDF is not V3 acceptance.
 
 ## Live Argument
@@ -106,6 +107,15 @@ and person who waits, pays, or bears risk. That route identifier and its
 unresolved constraint now open Record 3. A local metric cannot be enlarged by
 shifting an unrecorded queue, cash burden, or risk to someone else.
 
+Chapter 10 opens Record 3 by joining that route to one precise ownership claim.
+Every claim has six fields: current cash, residual economics, control,
+information, liquidity and transfer, and duties and downside. Employee equity,
+partner terms, intellectual property, and professional ownership all use this
+same ledger. Knowledge, tools, systems, teams, and capital may extend output;
+none erases labor, ranks human worth, or guarantees freedom. The next credible
+claim begins with the smallest inspectable participation term whose return,
+authority, obligations, transfer, liquidity, and possible loss are visible.
+
 ## Recurring Cases
 
 - Glenn Boyd may return only when life design, founder dependence, growth
@@ -145,9 +155,10 @@ shifting an unrecorded queue, cash burden, or risk to someone else.
 
 ## Handoff
 
-Chapter 10 must name the precise claim that can extend participation beyond the
-next hour worked without erasing the labor and duties beneath it. Ownership is
-defined through economics, rights, authority, liquidity, obligations, and
-downside rather than a percentage alone. Record 3 takes Chapter 9's route and
-adds one ownership claim: what returns, who decides, what can transfer, which
-duties continue, how liquid the claim is, and who bears loss.
+Chapter 11 must test whether the organization can deliver expected work and
+respond to an unexpected condition while the founder is absent. Expected work
+needs an invariant, reason, interface, owner, measure, and inspection;
+exceptions need boundaries, escalation, expiring authority, support, and
+review. Record 3 adds accountable outcomes, resources, authority, customer
+feedback, exception paths, founder dependence, and explicit permission to
+grow.
