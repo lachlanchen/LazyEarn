@@ -63,10 +63,17 @@ interview evidence or import unsupported facts into a speaker's story.
 
 ## Draft State
 
-Evidence mapping and architecture are complete. No source is substantively
-accepted yet. Acceptance begins with the introduction and Chapter 1, then moves
-in reading order so voice, definitions, and recurring cases accumulate rather
-than reset.
+Evidence mapping and architecture are complete. The front matter, introduction,
+Chapter 1, and Chapter 2 are accepted. Source rows remain `mapped` until all of
+their primary and secondary material has been integrated or explicitly
+classified. Drafting continues in reading order so voice, definitions, and
+recurring cases accumulate rather than reset.
+
+Chapter 1 defines wealth through security, choice, time, and enough. Chapter 2
+places agency inside unequal feasible sets and establishes capacity, capability,
+and access as distinct constraints. The opportunity inventory and loss budget
+are now recurring decision tools. Chapter 3 must make practiced capability
+economically concrete without repeating Chapter 2's structural argument.
 
 ## Acceptance Rule
 
