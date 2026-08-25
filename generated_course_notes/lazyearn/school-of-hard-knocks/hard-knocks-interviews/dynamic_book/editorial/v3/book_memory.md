@@ -237,6 +237,17 @@ consent, refusal and prevention, retained capital and capability, promises and
 containment, insurance and transfer, review and repair, and the final bearer.
 Record 5 receives materially exposed people and harms money cannot fully repair.
 
+Chapter 21 separates replaceable or reversible costs, repairable but
+path-dependent costs, and non-substitutable or irrecoverable costs without
+denying money's power to fund care, compensation, and restitution. Useful
+difficulty requires purpose, bounded exposure, recovery, informed refusal, and
+the capacity to choose again. Meaning never licenses preventable harm, visible
+success does not overrule bodily and relational evidence, and a bank balance is
+neither a character test nor a clinical history. Record 5 now contains the
+eight-account cost review together with the season's result, dates, protected
+floors, exposed people, recovery, stop authority, repair, renewal evidence, and
+renewed consent.
+
 ## Recurring Cases
 
 - Glenn Boyd may return only when life design, founder dependence, growth
@@ -342,10 +353,8 @@ Record 5 receives materially exposed people and harms money cannot fully repair.
 
 ## Handoff
 
-Chapter 19 must turn continuity capital into distinct household, operating,
-committed-project, and opportunity reserves without counting the same cash
-twice. Credit remains conditional access rather than cash. Each reserve needs a
-job, owner, target, trigger, access path, replenishment rule, and boundary;
-income interruption, collection delay, health, payroll, tax, care, and recovery
-must meet on a dated calendar. Preserve cash's inflation and opportunity cost,
-and do not repeat Chapter 18's capital-role or concentration exercise.
+Chapter 22 must give the protected life a positive use without prescribing one
+family form, faith, career, or public role. Distinguish release from recovery,
+chosen work, relationship, service, mastery, play, and contribution. Every
+chosen obligation needs credible exit, rest, and revision, and Record 5 must
+become one freedom portfolio rather than another productivity schedule.

@@ -54,8 +54,8 @@ V3 is developed in parallel so the accepted V2 edition remains unchanged:
   acceptance.
 - `book_memory.md` carries only durable argument and continuity decisions.
 
-Chapters 1--20 are accepted for V3. Chapters 21--23 remain V2 baselines until their
-individual reviews pass; a compiling working PDF does not imply their
+Chapters 1--21 are accepted for V3. Chapters 22--23 remain V2 baselines until
+their individual reviews pass; a compiling working PDF does not imply their
 acceptance.
 
 Compile the full-size working edition from the dynamic book directory:

@@ -1,7 +1,7 @@
 # Problem 08: What Ambition May Not Consume
 
-Status: focused close read accepted for V3 architecture; manuscript change
-deferred until the purpose and enough cards are reconciled with Chapters 21--23.
+Status: focused close read accepted for V3 architecture; Chapter 21
+implementation accepted on 2026-08-26.
 
 ## Question
 
