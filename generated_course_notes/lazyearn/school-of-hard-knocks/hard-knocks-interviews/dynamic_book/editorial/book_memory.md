@@ -64,16 +64,33 @@ interview evidence or import unsupported facts into a speaker's story.
 ## Draft State
 
 Evidence mapping and architecture are complete. The front matter, introduction,
-Chapter 1, and Chapter 2 are accepted. Source rows remain `mapped` until all of
-their primary and secondary material has been integrated or explicitly
-classified. Drafting continues in reading order so voice, definitions, and
-recurring cases accumulate rather than reset.
+Chapter 1, Chapter 2, and Chapter 3 are accepted. Source rows remain `mapped`
+until all of their primary and secondary material has been integrated or
+explicitly classified. Drafting continues in reading order so voice,
+definitions, and recurring cases accumulate rather than reset.
 
 Chapter 1 defines wealth through security, choice, time, and enough. Chapter 2
 places agency inside unequal feasible sets and establishes capacity, capability,
 and access as distinct constraints. The opportunity inventory and loss budget
-are now recurring decision tools. Chapter 3 must make practiced capability
-economically concrete without repeating Chapter 2's structural argument.
+are now recurring decision tools. Chapter 3 makes capability economically
+concrete through feedback, buyer evidence, apprenticeship, household margin,
+high-cost debt, reserves, and a bounded next experiment. Chapter 4 must decide
+what kind of life those choices are meant to protect.
+
+## Reserved Recurrences
+
+- Source 36 supplies specialization, comparative advantage, visible failure,
+  and advice limits in Chapter 3. Its relationship-capital material belongs in
+  the leadership chapters; its claims about suffering, faith, material
+  saturation, self-trust, and freedom remain reserved for Chapters 21--23.
+- Source 124 supplies buyer evidence, apprenticeship, reputation, marketable
+  skill, savings, and optionality in Chapter 3. Its radio-team evidence belongs
+  in Chapter 13, long-horizon capital in Chapter 18, and real-estate operating
+  detail in the ownership and risk chapters.
+- Source 135 supplies education routes, tools, debt, mobility, household
+  alignment, and creative practice in Chapter 3. The reported home appreciation
+  remains a contingent property case for Chapter 17 or 18, not a general rule;
+  family investment and vocational meaning return in Part V.
 
 ## Acceptance Rule
 
