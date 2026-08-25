@@ -64,7 +64,7 @@ interview evidence or import unsupported facts into a speaker's story.
 ## Draft State
 
 Evidence mapping and architecture are complete. The front matter, introduction,
-and Chapters 1--12 are accepted. Source rows remain `mapped` until all of their
+and Chapters 1--13 are accepted. Source rows remain `mapped` until all of their
 primary and secondary material has been integrated or explicitly classified.
 Drafting continues in reading order so voice, definitions, and recurring cases
 accumulate rather than reset.
@@ -147,6 +147,21 @@ when collection precedes the obligations they create. The growth-carry worksheet
 joins demand, unit economics, peak cash, capacity, stress cases, stop conditions,
 and weekly variance. Its ending turns from numbers to the people who must carry
 the work, preparing Chapter 13's leadership and governance argument.
+
+Chapter 13 builds that human architecture without treating people as units of
+leverage. Hiring begins with a missing contribution, observable evidence,
+decision rights, resources, and a test for role-design failure. Partnership is
+staged through reversible work before equity and then governed through explicit
+contribution, economics, information, authority, capital, conflict, deadlock,
+and exit terms. Collaboration remains compatible with one accountable decision
+owner and narrowly bounded emergency authority. Culture is read from what the
+company protects under pressure: truthful dissent, customer promises, fair
+credit and pay, safe work, relevant information, and freedom from retaliation.
+Calibrated crisis communication is paired with a private support structure for
+leaders rather than performed invulnerability. The people-and-governance charter
+turns these duties into a usable operating constitution. Its closing distinction
+between operating the company and controlling its critical rights prepares
+Chapter 14.
 
 ## Reserved Recurrences
 
@@ -432,6 +447,44 @@ the work, preparing Chapter 13's leadership and governance argument.
   expense multiplication in Chapter 12. Its partnership, role capacity,
   product adoption, household risk, health, enough, regret, and time material
   remains reserved for Chapters 13 and 21--23.
+- Source 5 supplies capable hiring, shared upside, hiring for a specific
+  weakness, and crisis communication in Chapter 13. Its concentration, cycles,
+  reverse planning, recovery, faith, luxury-time claim, relationship loss, and
+  remaining leadership material stays reserved for Chapters 14--23.
+- Source 38 supplies shared responsibility with one accountable owner and the
+  relation between team-member experience and continued investment in Chapter
+  13. The illegal-enterprise case is not used as an operating model; its other
+  biography, scale, brand-control, and capital claims remain reserved for final
+  coverage classification.
+- Source 43 supplies safe, meaningful employee experience as a route to customer
+  knowledge in Chapter 13. Its enterprise sales, career experimentation,
+  identity, health, faith, and market-evolution material remains reserved for
+  Chapters 14--23.
+- Source 109 supplies the bounded hire-slow/fire-fast heuristic and the move
+  from solo work to specialists in Chapter 13. Its reported income, risk,
+  skills, networking, property, and remaining career material stays reserved
+  for Chapters 14--23.
+- Source 113 supplies horizontal collaboration, listening, and narrowly bounded
+  critical authority in Chapter 13. Its financing, medical, career, network,
+  personal-brand, and income material remains reserved for later classification.
+- Source 127 supplies the opening time constraint and partnership relief in
+  Chapter 13. Its refusal rhetoric is corrected by consent and lawful boundaries;
+  its primary substantive role is complete subject to final coverage review.
+- Source 138 supplies staged trust, complementary operating roles, leadership
+  pressure, and the field-safety warning in Chapter 13. Sensitive biographical
+  details unnecessary to those mechanisms are excluded; its licensing, college,
+  deal, property, loss, and goal material remains reserved for Chapters 14--23.
+- Source 42 returns in Chapter 13 for the reported removal of a high-producing
+  salesperson who violated a customer promise, explicitly without treating
+  later growth as proof of causation. Its remaining operating and governance
+  material stays reserved for later chapters.
+- Source 132 returns in Chapter 13 for honest leadership, constructive feedback,
+  early founder conflict, and earned independent decision rights. Its remaining
+  household, health, enough, regret, and time material stays reserved for Part V.
+- Source 134 supplies failed over-partnering, essential contribution without
+  captivity, complementary temperament, and values alignment in Chapter 13.
+  Its marketing, personal-brand, crypto, credit, family, purpose, and remaining
+  risk material stays reserved for Chapters 14--23.
 
 ## Acceptance Rule
 
