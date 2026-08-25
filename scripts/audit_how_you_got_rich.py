@@ -21,6 +21,7 @@ COURSE_ROOT = REPO_ROOT / "generated_course_notes" / COURSE_REL
 CHAPTER_ROOT = COURSE_ROOT / "chapters"
 BOOK_ROOT = COURSE_ROOT / "dynamic_book"
 EDITORIAL_ROOT = BOOK_ROOT / "editorial"
+COVERAGE_BATCH_ROOT = EDITORIAL_ROOT / "coverage_batches"
 BOOK_TEX = BOOK_ROOT / "how-you-got-rich.tex"
 BOOK_PDF = BOOK_ROOT / "how-you-got-rich.pdf"
 ORIGINAL_ROOT = Path("/home/lachlan/ProjectsLFS/LazyEarn")
@@ -144,7 +145,9 @@ def write_csv(path: Path, rows: list[dict[str, object]]) -> None:
     if not rows:
         raise ValueError(f"Cannot write an empty CSV: {path}")
     with path.open("w", encoding="utf-8", newline="") as handle:
-        writer = csv.DictWriter(handle, fieldnames=list(rows[0]))
+        writer = csv.DictWriter(
+            handle, fieldnames=list(rows[0]), lineterminator="\n"
+        )
         writer.writeheader()
         writer.writerows(rows)
 
@@ -174,6 +177,51 @@ def initialize_coverage(rows: list[dict[str, str | int]], path: Path) -> None:
             }
         )
     write_csv(path, coverage)
+
+
+def apply_coverage_batches(rows: list[dict[str, str | int]], path: Path) -> None:
+    """Rebuild the coverage ledger from inventory plus reviewed batch files."""
+    by_id: dict[int, dict[str, object]] = {}
+    for row in rows:
+        source_id = int(row["source_id"])
+        by_id[source_id] = {
+            "source_id": source_id,
+            "title": row["title"],
+            "youtube_id": row["youtube_id"],
+            "substantive_status": "inventory-only",
+            "primary_part": "",
+            "primary_chapter": "",
+            "secondary_placements": "",
+            "story_or_case": "",
+            "mechanisms": "",
+            "qualifications_and_tensions": "",
+            "audience_questions": "",
+            "source_anchors": row["transcript_rel"],
+            "attribution_notes": "",
+            "editorial_review": "pending",
+            "updated_at": "",
+        }
+
+    seen_updates: set[int] = set()
+    for batch_path in sorted(COVERAGE_BATCH_ROOT.glob("*.json")):
+        updates = json.loads(batch_path.read_text(encoding="utf-8"))
+        if not isinstance(updates, list):
+            raise ValueError(f"Coverage batch must contain a list: {batch_path}")
+        for update in updates:
+            source_id = int(update["source_id"])
+            if source_id not in by_id:
+                raise ValueError(f"Unknown source {source_id} in {batch_path}")
+            if source_id in seen_updates:
+                raise ValueError(f"Duplicate coverage update for source {source_id}")
+            seen_updates.add(source_id)
+            unknown = set(update) - set(by_id[source_id])
+            if unknown:
+                raise ValueError(
+                    f"Unknown fields for source {source_id}: {', '.join(sorted(unknown))}"
+                )
+            by_id[source_id].update(update)
+
+    write_csv(path, [by_id[source_id] for source_id in sorted(by_id)])
 
 
 def initialize_figures(rows: list[dict[str, str | int]], path: Path) -> None:
@@ -339,6 +387,7 @@ def main() -> int:
     parser.add_argument("--write", action="store_true", help="write generated audit files")
     parser.add_argument("--init-coverage", action="store_true")
     parser.add_argument("--init-figures", action="store_true")
+    parser.add_argument("--refresh-baseline", action="store_true")
     args = parser.parse_args()
 
     rows = inventory()
@@ -347,12 +396,14 @@ def main() -> int:
     figure_path = EDITORIAL_ROOT / "figure_ledger.csv"
     if args.write:
         write_csv(inventory_path, rows)
-    if args.init_coverage:
+        apply_coverage_batches(rows, coverage_path)
+    elif args.init_coverage:
         initialize_coverage(rows, coverage_path)
     if args.init_figures:
         initialize_figures(rows, figure_path)
-    if args.write:
-        (EDITORIAL_ROOT / "baseline_audit.md").write_text(
+    baseline_path = EDITORIAL_ROOT / "baseline_audit.md"
+    if args.write and (args.refresh_baseline or not baseline_path.exists()):
+        baseline_path.write_text(
             baseline_markdown(rows, coverage_path), encoding="utf-8"
         )
 

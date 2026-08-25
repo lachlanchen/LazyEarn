@@ -6,6 +6,8 @@ These files keep source completeness separate from reader-facing prose.
   chapter evidence directories, and read-only source videos.
 - `source_coverage.csv` records where each source's substantive stories,
   mechanisms, qualifications, tensions, and questions are integrated.
+- `coverage_batches/` holds the reviewed human-readable source updates from
+  which `source_coverage.csv` is rebuilt.
 - `figure_ledger.csv` blocks every frame from publication until its image,
   timestamp, context, usefulness, and duplication status are verified.
 - `baseline_audit.md` records the inherited edition without duplicating it.
