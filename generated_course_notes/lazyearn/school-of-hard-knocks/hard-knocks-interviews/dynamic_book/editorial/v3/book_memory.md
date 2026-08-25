@@ -15,7 +15,8 @@
 - Chapter 10, From Skill to Ownership, is accepted.
 - Chapter 11, A Business That Can Leave the Room, is accepted.
 - Chapter 12, Working Capital Is the Price of Growth, is accepted.
-- Chapters 13--23 in manuscript-v3 remain V2 baselines until individually
+- Chapter 13, The Company Is Other People, is accepted.
+- Chapters 14--23 in manuscript-v3 remain V2 baselines until individually
   reviewed; their presence in a compiling V3 PDF is not V3 acceptance.
 
 ## Live Argument
@@ -137,6 +138,19 @@ conditions, and the observed result required for another stage. The final
 choice among retained earnings, customer or supplier terms, debt, equity, and
 hybrids remains open for the capital-fit record.
 
+Chapter 13 treats a company as distributed judgment around a promise. A
+bounded responsibility joins outcome, authority, resources, limits,
+information, support, review, and remedy; a field-service example demonstrates
+that transferring only a task is not delegation. Partnership commitment grows
+from reversible evidence and extends the existing six-field ownership claim.
+One role closes a consequential decision after consultation proportionate to
+knowledge, rights, exposure, irreversibility, and uncertainty. Durable
+shareholder return remains legitimate without silently subordinating safety,
+consent, contract, debt, supplier, or public duties. Record 3 now contains one
+people-and-governance charter covering promise and exposure, responsibilities,
+economics, decisions and truth, protection and support, and repair and
+continuity.
+
 ## Recurring Cases
 
 - Glenn Boyd may return only when life design, founder dependence, growth
@@ -176,9 +190,9 @@ hybrids remains open for the capital-fit record.
 
 ## Handoff
 
-Chapter 13 must ask how contribution, authority, information, upside, and
-residual risk should be shared among the people carrying the company. Bounded
-responsibility names outcome, authority, resources, limits, information,
-support, review, and remedy. Decision closure, dissent, expiring emergency
-authority, truthful crisis communication, safety, invisible risk, and leader
-support remain visible without turning governance into consensus theater.
+Chapter 14 must identify which rights, interfaces, bottlenecks, and capital
+terms protect the promise and which merely collect control. Recording,
+composition, license, advance, recoupment, and transfer remain distinct. The
+capital-fit record must resolve timing, contribution, rights surrendered,
+control, guarantees, information duties, failure, and exit without declaring
+bootstrap control or outside capital universally superior.
