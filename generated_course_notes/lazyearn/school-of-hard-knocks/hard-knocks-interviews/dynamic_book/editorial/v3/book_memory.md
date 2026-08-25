@@ -225,6 +225,18 @@ dated claims, controlled and incoming cash, reserve jobs, conditional access,
 shock paths, recovery capacity, replenishment, and release. Record 1 changes
 only when the protected floor or capability plan changes explicitly.
 
+Chapter 20 tests every consequential shell for legal permissibility, economic
+soundness, and ethical legitimacy without allowing one test to substitute for
+another. The response order is refuse, prevent, retain and fund, transfer a
+defined part, then contain where law permits. A tax treatment does not make a
+purchase free; an entity is not immunity; a contract cannot make unsafe work
+safe; insurance responds only to defined loss; and advice must expose its
+authority, assumptions, incentives, implementation, and failure path. Record 4
+now completes one residual-loss line covering activity and upside, exposure and
+consent, refusal and prevention, retained capital and capability, promises and
+containment, insurance and transfer, review and repair, and the final bearer.
+Record 5 receives materially exposed people and harms money cannot fully repair.
+
 ## Recurring Cases
 
 - Glenn Boyd may return only when life design, founder dependence, growth
