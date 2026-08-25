@@ -101,8 +101,10 @@ The clean compounding formula assumes that every period's result remains in
 the account:
 
 \begin{equation}
-W_T=W_0\prod_{t=1}^{T}(1+r_t-d_t)+
-    \sum_{k=1}^{T}C_k\prod_{t=k+1}^{T}(1+r_t-d_t),
+\begin{aligned}
+W_T={}&W_0\prod_{t=1}^{T}(1+r_t-d_t)\\
+&+\sum_{k=1}^{T}C_k\prod_{t=k+1}^{T}(1+r_t-d_t),
+\end{aligned}
 \end{equation}
 
 where \(r_t\) is the asset return, \(d_t\) is the total proportional drag, and
@@ -191,9 +193,9 @@ It is not a general shortcut around realizing gains.
 
 The rule is simple enough to write and hard enough to honor:
 
-\begin{equation}
-\text{Do not fund a long horizon with a claim that can end it early.}
-\end{equation}
+\begin{center}
+\emph{Do not fund a long horizon with a claim that can end it early.}
+\end{center}
 
 Debt maturity, collateral rights, withdrawal restrictions, margin rules, and
 known spending dates must all fit the investment horizon. Expected return is

@@ -20,7 +20,7 @@ Status: accepted on 2026-08-25.
   paraphrase from checked quotation; and does not convert reported revenue or
   transaction values into personal wealth.
 - The deterministic source audit reports `135/135` accepted with zero errors.
-- The full-size build is 155 pages. `qpdf --check` passes, every listed font is
+- The full-size build is 161 pages. `qpdf --check` passes, every listed font is
   embedded, extracted text contains the revised opening-to-ending link, and the
   only log diagnostics are three intentional underfull cover lines.
 - The cover, credit page, and final five pages were rendered and visually
@@ -29,8 +29,8 @@ Status: accepted on 2026-08-25.
 
 ## Remaining Gates
 
-- Build and inspect the 1.2x 6x9 edition, publish canonical copies, refresh the
-  first-page preview, and verify the atomic Nutstore checksum.
+- Publish canonical copies, refresh the first-page preview, and verify the
+  atomic Nutstore checksum.
 
 ## Pass 2: Prose, Attribution, and Claims
 
@@ -61,7 +61,7 @@ Status: accepted on 2026-08-25.
 
 Status: accepted on 2026-08-25.
 
-- All 155 physical pages were rendered in order and inspected in thirteen
+- All 161 physical pages were rendered in order and inspected in seven final
   contact sheets. Chapter and part openings, contents, running heads, equations,
   lists, figures, captions, links, page breaks, and the final page are legible
   and visually consistent.
@@ -71,3 +71,22 @@ Status: accepted on 2026-08-25.
 - The final full-size build passes `qpdf --check`, embeds every listed font, and
   has no overfull or page-builder warning. The only diagnostics are the three
   intentional underfull lines created by the designed cover typography.
+
+## Pass 4: Complete 1.2x Pocket PDF
+
+Status: accepted on 2026-08-25.
+
+- The 6x9 edition contains 310 physical pages at 1.2x body scale. It is built
+  from the same accepted manuscript as the full-size edition.
+- Dense conceptual displays were divided into readable multiline equations in
+  the canonical source. No global font, margin, or prose-width workaround was
+  used, and both editions retain the complete argument.
+- The final compiler report and a separately preserved two-pass log contain
+  zero overfull boxes, page-builder overfulls, and underfull boxes.
+- `qpdf --check` passes, every listed font is embedded, the rendered-token audit
+  reports zero issues, and extracted text contains all 23 chapters without a
+  TeX or production-process leak.
+- All 310 pages were rendered in order and inspected in thirteen contact
+  sheets. The cover, credits, contents, running heads, chapter and part pages,
+  equations, tables, lists, both documentary frames, captions, links, blank
+  versos, and ending are legible and free of clipping or collisions.

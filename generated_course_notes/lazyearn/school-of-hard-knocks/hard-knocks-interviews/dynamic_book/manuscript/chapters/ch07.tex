@@ -66,10 +66,10 @@ particular buyer and use, write
 \begin{aligned}
 V_{\mathrm{buyer}}={}&
   \mathbb{E}[\text{incremental gain}]
-  + \mathbb{E}[\text{loss avoided}]
-  + V_{\mathrm{time}} + V_{\mathrm{option}} \\
- &- \text{implementation burden}
-  - \mathbb{E}[\text{downside caused}].
+  + \mathbb{E}[\text{loss avoided}]\\
+ &+ V_{\mathrm{time}} + V_{\mathrm{option}} \\
+ &- \text{implementation burden}\\
+ &- \mathbb{E}[\text{downside caused}].
 \end{aligned}
 \end{equation}
 
@@ -108,11 +108,13 @@ by risk-adjusted value, available alternatives, implementation burden, budget,
 and the value of waiting. A possible agreement lies where those ranges overlap:
 
 \begin{equation}
-\underbrace{C_{\mathrm{delivery}}+C_{\mathrm{capacity}}
-  +C_{\mathrm{risk}}+M_{\mathrm{sustainable}}}_{\text{seller's floor}}
-\ \leq\ P\ \leq\
-\underbrace{V_{\mathrm{buyer}}-V_{\mathrm{best\ alternative}}}_{
-  \text{buyer-specific room}}.
+\begin{aligned}
+P_{\mathrm{floor}}={}&C_{\mathrm{delivery}}+C_{\mathrm{capacity}}\\
+&+C_{\mathrm{risk}}+M_{\mathrm{sustainable}},\\
+P_{\mathrm{ceiling}}={}&V_{\mathrm{buyer}}
+  -V_{\mathrm{best\ alternative}},\\
+P_{\mathrm{floor}}\ &\leq P\leq P_{\mathrm{ceiling}}.
+\end{aligned}
 \end{equation}
 
 The right side is deliberately simplified. A budget can prevent a sensible
