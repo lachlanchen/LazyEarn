@@ -20,6 +20,12 @@ reader edition is not changed merely because a source exists.
 - `research_horizon_summary.md` explains the breadth and the inclusion gate.
 - `source_cards/` records problem-led close readings, contradictions, and
   chapter decisions before any V3 prose is accepted.
+- `decision_placement.csv` assigns every accepted V3 decision to a concrete
+  chapter, control ledger, or exclusion gate.
+- `recurring_case_map.csv` controls when an interview story may return and what
+  new narrative work the later appearance must perform.
+- `architecture.md` locks the five-part, twenty-three-chapter argument and the
+  five living wealth-notebook records used across the book.
 
 A source advances beyond `inventory-verified` only after its substantive
 claims, stories, mechanisms, qualifications, contradictions, and useful
@@ -29,3 +35,9 @@ reason.
 
 The accepted V2 control files remain one directory above. V3 additions must not
 rewrite that historical record.
+
+Validate the architecture against the evidence ledgers before drafting:
+
+```bash
+python scripts/validate_how_you_got_rich_v3_architecture.py
+```
