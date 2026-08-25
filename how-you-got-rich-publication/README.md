@@ -39,6 +39,8 @@ takes command.
   larger tablets.
 - [Pocket 1.2x PDF](how-you-got-rich-pocket-1.2x.pdf), a 6x9 edition with
   larger type for compact screens and e-readers.
+- [V2 archive](v2/README.md), preserving the accepted full-size and pocket
+  editions even after a later edition becomes canonical.
 - [Standalone source repository](https://github.com/lachlanchen/how-you-got-rich)
   with reproducible build scripts and figure attribution.
 - [Read on LazyEarn](https://earn.lazying.art/pdf-viewer.html#how-you-got-rich).
