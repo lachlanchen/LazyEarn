@@ -18,6 +18,8 @@ reader edition is not changed merely because a source exists.
 - `research_priority_status.csv` records close-reading cards and integrate,
   retain, or reject decisions without rewriting the generated queue.
 - `research_horizon_summary.md` explains the breadth and the inclusion gate.
+- `source_cards/` records problem-led close readings, contradictions, and
+  chapter decisions before any V3 prose is accepted.
 
 A source advances beyond `inventory-verified` only after its substantive
 claims, stories, mechanisms, qualifications, contradictions, and useful
