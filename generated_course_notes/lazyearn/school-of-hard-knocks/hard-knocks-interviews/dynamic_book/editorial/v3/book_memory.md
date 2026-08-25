@@ -7,7 +7,8 @@
 - Chapter 2, The Unequal Starting Line, is accepted.
 - Chapter 3, Skills, Work, and the First Margin, is accepted.
 - Chapter 4, Choose the Life Before the Income, is accepted.
-- Chapters 5--23 in manuscript-v3 remain V2 baselines until individually
+- Chapter 5, Find the Expensive Problem, is accepted.
+- Chapters 6--23 in manuscript-v3 remain V2 baselines until individually
   reviewed; their presence in a compiling V3 PDF is not V3 acceptance.
 
 ## Live Argument
@@ -59,6 +60,14 @@ texture and uncertainty, a bounded season, place and consent, contribution,
 and a revision date. Freedom now has positive content rather than merely an
 exit from compulsory work.
 
+Chapter 5 opens Record 2, Value and Evidence, with a chosen person and problem;
+explicit non-goals; separate user, payer, approver, champion, channel,
+regulator, and affected-person decisions; the reference alternative; burden
+and urgency; promised change; proof burden; reachable channel; operating and
+economic fit; ethical limits; and a disconfirming observation with review and
+stop-spending rules. Product design remains premature until these choices form
+a coherent, revisable claim.
+
 ## Recurring Cases
 
 - Glenn Boyd may return only when life design, founder dependence, growth
@@ -81,11 +90,20 @@ exit from compulsory work.
   ability to leave bad work visible before income is chosen. Later returns may
   address relationship cost, role transition, or enough without turning his
   household form into a prescription.
+- Chris Meroff first appears in Chapter 5 for the failed revival and the need
+  for evidence capable of ending an idea. Chapter 8 may return to paid demand,
+  but must not repeat the loss account.
+- John Abraham first appears in Chapter 5 for role-specific discovery and a
+  pilot commitment. Chapter 6 must advance from commitment to an evidence
+  ladder rather than repeat the interview sequence.
+- Elliot Hill first appears in Chapter 5 for the customer--product--story
+  sequence. Chapter 6 may advance the listening method, and Chapter 8 the
+  direct ask, without restating the career summary.
 
 ## Handoff
 
-Chapter 5 opens Record 2 by choosing a costly customer problem rather than a
-founder identity. It must separate user, payer, approver, champion, retailer,
-and regulator; define the reference alternative and promised change; name
-non-goals and proof burden; and preserve evidence that would disconfirm the
-choice.
+Chapter 6 must turn the selected problem into an evidence ladder: past
+behavior, workaround, costly commitment, bounded pilot, viable delivery, and
+repeated exchange. It must add an experiment contract with claim, prediction,
+boundary, observation, disconfirmation, and next decision. No role validates
+another role's decision.
