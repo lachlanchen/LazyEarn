@@ -248,6 +248,15 @@ eight-account cost review together with the season's result, dates, protected
 floors, exposed people, recovery, stop authority, repair, renewal evidence, and
 renewed consent.
 
+Chapter 22 turns released constraint into usable agency. Freedom first reduces
+coercion, may then protect recovery, and becomes constructive through people,
+play, learning, mastery, making, service, place, and obligations that remain
+chosen. Work is chosen only while exit, rest, and revision remain credible;
+common purpose never erases another person's belief, schedule, money, or right
+to change. Record 5 now contains one freedom portfolio with current holdings,
+desired uses, deliberate limits, calendar evidence, and review after material
+changes in health, household, work, wealth, place, or desire.
+
 ## Recurring Cases
 
 - Glenn Boyd may return only when life design, founder dependence, growth
@@ -353,8 +362,8 @@ renewed consent.
 
 ## Handoff
 
-Chapter 22 must give the protected life a positive use without prescribing one
-family form, faith, career, or public role. Distinguish release from recovery,
-chosen work, relationship, service, mastery, play, and contribution. Every
-chosen obligation needs credible exit, rest, and revision, and Record 5 must
-become one freedom portfolio rather than another productivity schedule.
+Chapter 23 must decide enough without repeating the freedom portfolio. Complete
+Record 5 with a material floor, family and stewardship boundaries, resources
+and capability transferred, plural succession paths, contribution beyond the
+household, and permission to stop. Return to a finite ordinary day and close
+with agency and duty rather than a guarantee, dynasty, or anti-wealth sermon.
