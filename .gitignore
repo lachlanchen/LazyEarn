@@ -8,6 +8,7 @@
 # Ignore in-repo LaTeX build folders (but keep .gitkeep so dirs exist)
 investment_pdfs/**/build/*
 !investment_pdfs/**/build/.gitkeep
+generated_course_notes/**/dynamic_book/build/
 
 # Wealth refinery runtime artifacts
 runtime/logs/wealth-engine/

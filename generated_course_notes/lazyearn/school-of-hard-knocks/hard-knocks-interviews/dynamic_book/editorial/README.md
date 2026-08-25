@@ -19,6 +19,8 @@ These files keep source completeness separate from reader-facing prose.
   unresolved tensions, and continuity decisions.
 - `architecture.md` is the human-readable map of the accepted drafting
   architecture.
+- `chapter_reviews/` records the evidence, prose, figure, continuity, and PDF
+  checks completed before a chapter is accepted.
 
 Run the deterministic audit from the repository root:
 
