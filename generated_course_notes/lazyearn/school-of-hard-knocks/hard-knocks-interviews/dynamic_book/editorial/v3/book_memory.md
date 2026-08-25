@@ -5,7 +5,8 @@
 - The architecture lock is accepted.
 - Chapter 1, A Number Cannot Tell You What Rich Means, is accepted.
 - Chapter 2, The Unequal Starting Line, is accepted.
-- Chapters 3--23 in manuscript-v3 remain V2 baselines until individually
+- Chapter 3, Skills, Work, and the First Margin, is accepted.
+- Chapters 4--23 in manuscript-v3 remain V2 baselines until individually
   reviewed; their presence in a compiling V3 PDF is not V3 acceptance.
 
 ## Live Argument
@@ -45,6 +46,12 @@ The record must keep peace, public infrastructure, institutions, and household
 care visible without using structural limits to erase the next available
 decision.
 
+Chapter 3 carries that bounded move into a first-margin cycle: one capability
+and promised result, a short proof cycle, a named buyer, household margin, a
+reserve with one job, and a review date with explicit continue, change, and
+stop evidence. A multigenerational horizon enters only as a reason to leave
+later people options rather than present status claims.
+
 ## Recurring Cases
 
 - Glenn Boyd may return only when life design, founder dependence, growth
@@ -59,10 +66,14 @@ decision.
   father, mentors, teammates, specialists, health maintenance, and limited
   practice opportunities. Chapter 21 may return only to trained difficulty,
   recovery, integrity, and the boundary between difficulty and damage.
+- The Chicago operator appears in Chapter 3 only for the great-grandchild
+  horizon and high-income overspending mechanism. Chapter 23 may return to the
+  horizon, but not to his employment hierarchy, gendered status example, or
+  unaudited figures.
 
 ## Handoff
 
-Chapter 3 must show how practiced capability becomes buyer evidence, income,
-and a first durable margin. It inherits one bounded move from Chapter 2 and
-must add feedback, proof, household economics, and a stopping rule rather than
-treating learning or hard work as payment by themselves.
+Chapter 4 must decide what ordinary life the new margin is meant to protect.
+It must price the week rather than compare job titles, preserve vocation
+without pretending passion creates demand, and set a season and revision date
+for work that affects health, care, relationships, place, and uncertainty.
