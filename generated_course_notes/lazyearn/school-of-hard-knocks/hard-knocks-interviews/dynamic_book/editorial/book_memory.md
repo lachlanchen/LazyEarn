@@ -285,6 +285,25 @@ people's exposure, downside, identity, and desire; stop rules prevent a
 temporary imbalance from becoming an undated life. The close turns from the
 freedom to stop toward Chapter 22's positive question of what freedom is for.
 
+Chapter 22 makes that positive use concrete without turning retirement or
+continued work into a universal answer. Glenn Boyd's reported whole-company
+transaction, retirement at thirty-three, family travel, boredom, and return to
+ordinary startup work expose the gap between release from compulsion and a
+direction for life. His short poverty-to-bills account establishes a material
+threshold while refusing unlimited returns from more expensive leisure. The
+Miami cases distinguish being rich from having enough security to refuse, and
+a post-exit couple's “preferment” names work whose people, activity, and timing
+can be chosen. Mike Kessner adds later-career coaching, family-time quantity, a
+boundary between work and home, imperfect reflection, friendship, a financially
+flat but memory-rich family house, and a possible retirement venture. Rest is a
+valid first use; boredom is information rather than a command to produce.
+Chosen work must preserve rights to alter scope, share authority, decline
+growth, and stop. The freedom portfolio separates rest, health, people,
+learning, making, service, place, and chosen obligations so one role does not
+carry every reason to live. Its close treats freedom as usable room and
+prepares Chapter 23 to ask what deserves to enter before the line called enough
+is drawn.
+
 ## Reserved Recurrences
 
 - Source 36 supplies specialization, comparative advantage, visible failure,
