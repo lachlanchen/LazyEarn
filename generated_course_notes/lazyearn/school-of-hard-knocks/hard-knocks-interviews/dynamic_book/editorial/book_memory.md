@@ -249,6 +249,23 @@ productive, but assigned cash is not idle and zero liquidity can make delay
 fatal. The survival-and-recovery sheet closes Part IV’s liquidity argument and
 prepares Chapter 20 to contain losses too large or entangled to absorb.
 
+Chapter 20 builds that containment as a layered shell rather than a tax hack,
+entity label, policy purchase, or disclaimer. Carlton Dennis's reported low-tax
+results are placed beside Richard Harpin's reported nearly \pounds100 million
+exit tax and a UAE-resident family-business operator's different outcome;
+transaction, owner, period, residence, law, and civic judgment remain separate.
+A deduction is shown as a possible reduction in tax after real cash is spent,
+while basis, economic value, financing, recapture, and reinvestment performance
+remain distinct. The verified short-term-rental board frame makes the central
+correction visible: arithmetic can explain a claim without establishing legal
+eligibility. Entities receive operational jobs but no immunity; family roles,
+vendor finance, contracts, insurance, advisers, fees, commissions, and
+non-waivable duties remain inside the analysis. The eight-line risk shell maps
+each serious loss through prevention, promise, reserve, entity, insurance,
+disclosure, advice, and residual exposure. Its close leaves Part IV's machinery
+intact and turns to Part V's question: what finite life is the machinery meant
+to free?
+
 ## Reserved Recurrences
 
 - Source 36 supplies specialization, comparative advantage, visible failure,
