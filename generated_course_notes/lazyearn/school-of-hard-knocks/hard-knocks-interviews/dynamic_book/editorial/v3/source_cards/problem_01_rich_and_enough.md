@@ -1,7 +1,7 @@
 # Problem 01: What Rich Means, and How Enough Becomes Operational
 
-Status: focused close read accepted for V3 architecture; manuscript change
-deferred until the adjacent money, risk, and meaning cards are reconciled.
+Status: focused close read accepted; Chapters 1, 22, and 23 implementation
+accepted for V3.
 
 ## Question
 

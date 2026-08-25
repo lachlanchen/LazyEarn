@@ -257,6 +257,17 @@ to change. Record 5 now contains one freedom portfolio with current holdings,
 desired uses, deliberate limits, calendar evidence, and review after material
 changes in health, household, work, wealth, place, or desire.
 
+Chapter 23 gives enough a material floor, a positive use, and a stopping
+judgment. Contribution beyond the household remains distinct across lawful
+obligation, fair compensation, repair, public service, and voluntary giving.
+Across generations, provision and capability are complements; kinship,
+ownership, employment, and authority remain separate; recipients may decline;
+and qualified non-family stewardship remains legitimate. Record 5 closes with
+seven questions covering floor, freedom, claims, work, risk, transfer, and what
+money may never purchase. The ending returns wealth to an ordinary finite day:
+accumulated agency has work to do, people to serve, and a point at which money
+has completed its task.
+
 ## Recurring Cases
 
 - Glenn Boyd may return only when life design, founder dependence, growth
@@ -362,8 +373,10 @@ changes in health, household, work, wealth, place, or desire.
 
 ## Handoff
 
-Chapter 23 must decide enough without repeating the freedom portfolio. Complete
-Record 5 with a material floor, family and stewardship boundaries, resources
-and capability transferred, plural succession paths, contribution beyond the
-household, and permission to stop. Return to a finite ordinary day and close
-with agency and duty rather than a guarantee, dynasty, or anti-wealth sermon.
+All twenty-three chapters are individually accepted. Begin the whole-book pass
+without treating chapter acceptance as publication acceptance. Read the book
+in order for argument, recurrence, attribution, pacing, transitions, exercises,
+and ending; reconcile the introduction and five records with their final uses;
+then inspect every rendered page and build the full-size and 1.2x editions from
+the same accepted source. Preserve V2 and promote V3 only after source,
+editorial, layout, publication, and synchronization gates pass together.

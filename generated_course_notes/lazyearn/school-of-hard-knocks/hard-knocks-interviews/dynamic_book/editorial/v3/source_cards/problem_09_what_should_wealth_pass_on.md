@@ -1,8 +1,8 @@
 # Problem 09: What Should Wealth Pass On
 
-Status: focused close read accepted for V3 architecture; manuscript change
-deferred until the succession, family, freedom, and enough chapters are revised
-as one continuous argument.
+Status: focused close read accepted; Chapters 15 and 21--23 implementation
+accepted for V3 as one continuous succession, family, freedom, and enough
+argument.
 
 ## Question
 
