@@ -64,7 +64,7 @@ interview evidence or import unsupported facts into a speaker's story.
 ## Draft State
 
 Evidence mapping and architecture are complete. The front matter, introduction,
-and Chapters 1--18 are accepted. Source rows remain mapped until all of their
+and Chapters 1--19 are accepted. Source rows remain mapped until all of their
 primary and secondary material has been integrated or explicitly classified.
 Drafting continues in reading order so voice, definitions, and recurring cases
 accumulate rather than reset.
@@ -232,6 +232,22 @@ reserves, human-capital exposure, loss capacity, concentration limits,
 contributions, rebalancing, costs, sell rules, and adviser conflicts. Its close
 turns to Chapter 19: a reserve is what prevents an interruption from selling
 time at the worst moment.
+
+Chapter 19 gives that reserve a structure. Current cash, dated receipts,
+convertible assets, conditional access, and illiquid value occupy distinct
+levels; an undrawn credit line is never counted silently as cash. Household
+reserve, operating runway, committed project cash, and opportunity capital each
+receive a purpose, owner, target, access rule, replenishment order, and stop
+condition. Kevin Salmon’s delayed first commission turns career patience into a
+financed transition rather than an endurance slogan. Brandon Carter’s employee
+promise makes runway a duty to people and delivery, while Dave Ramsey’s slower
+cash-funded growth shows the survival purchased by forgone speed. Patrick
+Bet-David’s auction and Ramsey’s crisis purchases are bounded by obligation,
+underwriting, diligence, and hold-capacity tests. Grant Cardone’s “go to zero”
+doctrine is preserved as the explicit contradiction: reinvestment may be
+productive, but assigned cash is not idle and zero liquidity can make delay
+fatal. The survival-and-recovery sheet closes Part IV’s liquidity argument and
+prepares Chapter 20 to contain losses too large or entangled to absorb.
 
 ## Reserved Recurrences
 
