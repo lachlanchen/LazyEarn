@@ -27,8 +27,10 @@
 - Chapter 22, Freedom Needs a Use, is accepted.
 - Chapter 23, Enough, is accepted.
 - The whole-book cadence and continuity milestone is accepted. The accepted
-  working book is 163 pages; final all-page and pocket-edition review remains
-  open.
+  working book is 163 pages.
+- The full-size edition is accepted after an all-page visual review and a
+  second enlarged review of all 33 equation-bearing pages. Pocket-edition,
+  publication, and synchronization review remain open.
 
 ## Live Argument
 
@@ -379,10 +381,10 @@ has completed its task.
 
 ## Handoff
 
-All twenty-three chapters and the whole-book cadence and continuity pass are
-accepted. The argument, recurrence, attribution, transitions, five living
-records, exercises, and ending cohere in order. Deterministic evidence, PDF,
-font, repetition, and leak checks pass, and every page touched by the cadence
-pass has been inspected. Next inspect all 163 full-size pages, then build and
+All twenty-three chapters, the whole-book cadence and continuity pass, and the
+full-size edition are accepted. The argument, recurrence, attribution,
+transitions, five living records, exercises, and ending cohere in order.
+Deterministic evidence, PDF, font, repetition, and leak checks pass. All 163
+pages and all 33 equation-bearing pages have been inspected. Next build and
 inspect the 1.2x edition from the same source. Preserve V2 and promote V3 only
-after full-size, pocket, publication, and synchronization gates pass together.
+after pocket, publication, and synchronization gates pass together.

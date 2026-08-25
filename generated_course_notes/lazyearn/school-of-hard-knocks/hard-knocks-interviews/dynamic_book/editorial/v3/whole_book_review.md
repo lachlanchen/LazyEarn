@@ -1,7 +1,7 @@
 # V3 Whole-Book Review
 
-Status: cadence and continuity milestone accepted; final all-page and pocket
-edition review remains open.
+Status: full-size edition accepted; pocket-edition and publication review
+remain open.
 
 ## Argument and Continuity
 
@@ -59,14 +59,26 @@ edition review remains open.
 - No edited page introduces clipping, header collision, malformed equation,
   orphaned heading, accidental blank page, or broken chapter flow.
 
+## Full-Page Acceptance
+
+- All 163 pages were rendered from the accepted PDF and inspected in order.
+  Contents pages, five part openers, twenty-three chapter openers, figures,
+  captions, exercises, running heads, links, and the final page are intact.
+- All 33 equation-bearing physical pages received a second enlarged review.
+  Displays remain legible and inside the text measure, with equation numbers
+  clear of prose and page edges.
+- Every low-text page was reconciled to the design. Empty pages are intentional
+  versos used by the cover, front matter, part openers, or recto chapter starts;
+  no reader content has disappeared.
+- Both documentary figures were inspected in their final page context. Their
+  captions remain readable, and neither image is stretched, cropped, or placed
+  beside an unrelated claim.
+
 ## Remaining Acceptance Work
 
-1. Inspect all 163 full-size pages, with full-resolution checks for every
-   contents page, part opener, chapter opener, equation, figure, caption,
-   exercise, and the ending.
-2. Build the versioned 1.2x pocket edition from the same accepted V3 source;
+1. Build the versioned 1.2x pocket edition from the same accepted V3 source;
    inspect all pages and clear actionable layout warnings locally.
-3. Preserve V2, publish V3 under distinct names, refresh previews only from the
+2. Preserve V2, publish V3 under distinct names, refresh previews only from the
    accepted PDF first page, synchronize atomically, and verify checksums.
-4. Promote curated V3 materials to the standalone publication repository only
+3. Promote curated V3 materials to the standalone publication repository only
    after the full-size and pocket gates pass together.
