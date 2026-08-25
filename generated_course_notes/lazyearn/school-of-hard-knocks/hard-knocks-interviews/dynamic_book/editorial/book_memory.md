@@ -266,6 +266,25 @@ disclosure, advice, and residual exposure. Its close leaves Part IV's machinery
 intact and turns to Part V's question: what finite life is the machinery meant
 to free?
 
+Chapter 21 opens Part V by adding the costs omitted from ordinary company and
+household accounts. AK's physician story makes health a non-substitutable
+constraint, then his later-stage questions expose the relationships, children,
+parents, and identity that larger bets can displace. Brady's pressure rehearsal
+is joined to bodily maintenance, accountability to valued people, fatherhood,
+and integrity; selected success does not make injury or extreme strain
+necessary. Josh Terry's bounded-commitment correction distinguishes fierce
+attention from “all in” as escape. Mark White's bankruptcy account keeps
+creditors, surrendered assets, divorce, repair, and humility inside the comeback
+story. Atlanta and Texas cases preserve changed relationships, judgment, wasted
+time, and the irreducibility of time quantity. Washington's business-to-public-
+service routes test purpose against information asymmetry, criticism,
+oversight, and private gain. The trauma discussion is narrowed to safe
+recognition and qualified care rather than diagnosis or medication advice. A
+seven-account review covers body, attention, close people, integrity, other
+people's exposure, downside, identity, and desire; stop rules prevent a
+temporary imbalance from becoming an undated life. The close turns from the
+freedom to stop toward Chapter 22's positive question of what freedom is for.
+
 ## Reserved Recurrences
 
 - Source 36 supplies specialization, comparative advantage, visible failure,
