@@ -64,7 +64,7 @@ interview evidence or import unsupported facts into a speaker's story.
 ## Draft State
 
 Evidence mapping and architecture are complete. The front matter, introduction,
-and Chapters 1--7 are accepted. Source rows remain `mapped` until all of their
+and Chapters 1--8 are accepted. Source rows remain `mapped` until all of their
 primary and secondary material has been integrated or explicitly classified.
 Drafting continues in reading order so voice, definitions, and recurring cases
 accumulate rather than reset.
@@ -94,8 +94,14 @@ and downside, and places a sustainable seller floor beside the buyer's
 alternative. Strategic fit, a hidden-value thought experiment, accumulated
 product evidence, paid-sales testing, premium positioning, payment convenience,
 and ROI language are all bounded by proof, disclosure, agency, duty of care,
-and distribution of harm. Chapter 8 can now place this defensible value case in
-a conversation where the buyer can question it, refuse it, or buy.
+and distribution of harm. Chapter 8 places this defensible value case in a
+conversation where the buyer can question it, refuse it, or buy, using
+diagnosis before description, direct asking, known/expected/
+unknown distinctions, a seven-part concern taxonomy, mutual walk-away rights,
+practice with review, safe-work boundaries, consensual follow-up, and an
+explicit stopping point. One sale remains one observed exchange. Chapter 9 can
+now ask how an honest proof reaches enough appropriate people without consuming
+more trust than the company earns.
 
 ## Reserved Recurrences
 
@@ -192,6 +198,36 @@ a conversation where the buyer can question it, refuse it, or buy.
   evidence-backed performance from prestige and scarcity theater. Its remaining
   delegation, drawdown, index, incentive, funding, and metric material stays
   reserved for Parts III and IV.
+- Source 23 supplies the corrected awareness-to-trust sequence and the opening
+  clear-refusal counterexample in Chapter 8. Its property, refinance, household
+  cash flow, recurring revenue, and saleability material remains reserved for
+  Chapters 9 and 14--18.
+- Source 72 supplies practiced calls, truthful competence boundaries, and the
+  buyer's fear of being misled in Chapter 8. Its training, delegation,
+  credit-sharing, reinvestment, bankruptcy, debt, banking, crisis, leadership,
+  and humility evidence remains reserved for Parts III--V.
+- Source 77 supplies the bounded assumed-close, rapport, and walk-away cases in
+  Chapter 8. Its advice filter, insurance, downside protection, stress,
+  overextension, reputation, political testimony, and faith remain reserved
+  for Parts III--V.
+- Source 108 supplies upstream concern prevention, individual buyer context,
+  and present-to-desired-state reasoning in Chapter 8. Its recoverable failure,
+  daily review, paid expertise, founder ego, case study, anchor client,
+  recruiting, fundraising, and scale evidence remains reserved for Parts III
+  and IV.
+- Source 137 supplies embodied practice under rejection in Chapter 8, bounded
+  by review, accessibility, and worker safety. Its primary substantive role is
+  complete, subject to final whole-book coverage review.
+- Source 6 supplies need-first pen diagnosis and the corrected distinction
+  between unresolved concern and refusal in Chapter 8. Its acquisition,
+  property, availability, recruiting, sobriety, regret, and other operating
+  evidence remains reserved for Parts III--V.
+- Source 126 supplies sincere personal service in Chapter 8 and remains
+  available for relationship-based distribution in Chapter 9, with privacy and
+  emotional-labor limits intact.
+- Source 140's direct ask returns in Chapter 8 with an explicit option to
+  decline. Its remaining team, household, career, education, saving, insurance,
+  passion, and persistence material stays reserved for Parts III--V.
 
 ## Acceptance Rule
 
