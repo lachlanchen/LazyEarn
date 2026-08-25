@@ -1,0 +1,108 @@
+\documentclass[11pt,twoside,openright]{book}
+\input{../common_preamble.tex}
+\usepackage{mathpazo}
+\usepackage{titlesec}
+\usepackage{lettrine}
+\usepackage{xurl}
+\usepackage{emptypage}
+
+\definecolor{wealthink}{HTML}{191A24}
+\definecolor{wealthfire}{HTML}{C7502A}
+\definecolor{wealthgold}{HTML}{9A783D}
+\definecolor{wealthpaper}{HTML}{F3EFE4}
+
+\hypersetup{
+  pdftitle={How You Got Rich},
+  pdfauthor={LazyingArt · LazyLearn},
+  pdfsubject={From Abundance to Fulfillment and Contentment},
+  colorlinks=true,
+  linkcolor=wealthfire!75!black,
+  urlcolor=wealthfire!75!black,
+  citecolor=wealthgold!70!black
+}
+
+\graphicspath{{cover/}{manuscript-v3/figures/}}
+\setlength{\parindent}{1.15em}
+\setlength{\parskip}{0.18em}
+\setlength{\emergencystretch}{1.5em}
+\raggedbottom
+
+\titleformat{\chapter}[display]
+  {\normalfont\color{wealthink}}
+  {\Large\scshape\color{wealthgold}\chaptertitlename\ \thechapter}
+  {0.55em}
+  {\Huge\bfseries\raggedright}
+  [\vspace{0.7em}{\color{wealthfire}\titlerule[1.1pt]}]
+\titleformat{name=\chapter,numberless}[display]
+  {\normalfont\color{wealthink}}
+  {}
+  {0pt}
+  {\Huge\bfseries\raggedright}
+  [\vspace{0.7em}{\color{wealthfire}\titlerule[1.1pt]}]
+\titlespacing*{\chapter}{0pt}{-20pt}{28pt}
+\titleformat{\section}
+  {\normalfont\Large\bfseries\color{wealthink}}
+  {\thesection}{0.7em}{}
+\titleformat{name=\section,numberless}
+  {\normalfont\Large\bfseries\color{wealthink}}
+  {}{0pt}{}
+
+\makeatletter
+\renewcommand{\chaptermark}[1]{\markboth{\thechapter\enspace #1}{}}
+\makeatother
+\fancyhf{}
+\fancyhead[LE,RO]{\small\thepage}
+\fancyhead[LO]{\small\itshape\nouppercase{\leftmark}}
+\fancyhead[RE]{\small\scshape How You Got Rich}
+\renewcommand{\headrulewidth}{0.45pt}
+\fancypagestyle{plain}{%
+  \fancyhf{}
+  \fancyhead[LE,RO]{\small\thepage}
+  \renewcommand{\headrulewidth}{0pt}
+}
+\setlength{\headheight}{18pt}
+
+\begin{document}
+\frontmatter
+\hypersetup{pageanchor=false}
+\input{manuscript-v3/frontmatter}
+\hypersetup{pageanchor=true}
+\tableofcontents
+
+\mainmatter
+\input{manuscript-v3/introduction}
+
+\part{What Money Is For}
+\input{manuscript-v3/chapters/ch01}
+\input{manuscript-v3/chapters/ch02}
+\input{manuscript-v3/chapters/ch03}
+\input{manuscript-v3/chapters/ch04}
+
+\part{Make Something Valuable}
+\input{manuscript-v3/chapters/ch05}
+\input{manuscript-v3/chapters/ch06}
+\input{manuscript-v3/chapters/ch07}
+\input{manuscript-v3/chapters/ch08}
+\input{manuscript-v3/chapters/ch09}
+
+\part{Own the Machine}
+\input{manuscript-v3/chapters/ch10}
+\input{manuscript-v3/chapters/ch11}
+\input{manuscript-v3/chapters/ch12}
+\input{manuscript-v3/chapters/ch13}
+\input{manuscript-v3/chapters/ch14}
+\input{manuscript-v3/chapters/ch15}
+
+\part{Capital, Risk, and Time}
+\input{manuscript-v3/chapters/ch16}
+\input{manuscript-v3/chapters/ch17}
+\input{manuscript-v3/chapters/ch18}
+\input{manuscript-v3/chapters/ch19}
+\input{manuscript-v3/chapters/ch20}
+
+\part{Freedom and Enough}
+\input{manuscript-v3/chapters/ch21}
+\input{manuscript-v3/chapters/ch22}
+\input{manuscript-v3/chapters/ch23}
+
+\end{document}
