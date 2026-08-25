@@ -64,7 +64,7 @@ interview evidence or import unsupported facts into a speaker's story.
 ## Draft State
 
 Evidence mapping and architecture are complete. The front matter, introduction,
-and Chapters 1--5 are accepted. Source rows remain `mapped` until all of their
+and Chapters 1--6 are accepted. Source rows remain `mapped` until all of their
 primary and secondary material has been integrated or explicitly classified.
 Drafting continues in reading order so voice, definitions, and recurring cases
 accumulate rather than reset.
@@ -82,8 +82,12 @@ II now turns outward from purpose toward customer value. Chapter 5 separates
 human pain, user benefit, payment, and captured income; distinguishes affected
 person, user, decision-maker, and payer; prices a problem through direct cost,
 time, delay, and risk; narrows TAM to reachable decisions; and ends with an
-ethical problem brief. Chapter 6 must test that brief through observation and
-listening rather than treating it as settled product truth.
+ethical problem brief. Chapter 6 tests that brief rather than treating it as
+settled product truth, using event-based interviews, substitute mapping,
+frontline observation,
+paired review analysis, an evidence ladder, safe pilot scope, transition tests,
+disconfirming evidence, and a learning record. Chapter 7 can price the credible
+outcome without pretending that attention, interest, or one pilot proves value.
 
 ## Reserved Recurrences
 
@@ -127,6 +131,32 @@ listening rather than treating it as settled product truth.
   Chapter 5. Its direct sales process belongs in Chapter 8; training, trust,
   equity, retention, hiring, property, referrals, and automation remain
   reserved for Parts II--IV.
+- Source 140 supplies Elliot Hill's consumer-insight sequence and the corrected
+  duty of product comparison in Chapter 6. Its direct ask belongs in Chapter 8;
+  household honesty, career adaptation, saving, education, passion, insurance,
+  team training, and persistence remain reserved for Parts III--V.
+- Source 114 supplies role-specific interviews, outcome discovery, pilot
+  commitment, MVP, and safe exposure to judgment in Chapter 6. Its acquisition,
+  MRR, fundraising, outsourcing, channel, exit, advisor, and pandemic-pivot
+  material remains reserved for Parts II--IV.
+- Source 98 supplies paired review analysis in Chapter 6. Its premium-price
+  argument belongs in Chapter 7; delegation and team complementarity belong in
+  Part III; drawdown, index, incentive, AUM, funding, and metric distinctions
+  remain reserved for Parts III and IV.
+- Source 10 supplies early-market observation in Chapter 6. Its service,
+  automation, founder judgment, patience, trusts, concentration, verification,
+  urgency, and holding-period material remains reserved for Parts II--IV.
+- Source 52 supplies the corrected tension between future-state imagination and
+  profitable boring businesses in Chapter 6. Its rejection drills, sales,
+  relationships, execution, digital scale, capital timing, team alignment,
+  concentration, diversification, and loss learning remain reserved for Parts
+  II--IV.
+- Source 125 supplies the structural-transition test in Chapter 6. Its dated
+  green-technology forecast is fully bounded by physical, policy, capital,
+  adoption, lifecycle, and profitability constraints.
+- Source 58's listening and operating-detail material returns in Chapter 6.
+  Its remaining reinvestment, acquisition, bank, crisis, relationship, and
+  capital-fit evidence stays reserved for Parts III and IV.
 
 ## Acceptance Rule
 
