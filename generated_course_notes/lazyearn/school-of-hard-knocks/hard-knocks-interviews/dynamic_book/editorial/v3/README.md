@@ -11,6 +11,13 @@ reader edition is not changed merely because a source exists.
   reading, chapter placement, and rejection decisions.
 - `source_inventory_summary.md` records corpus totals and the reproducible
   rebuild command.
+- `research_horizon_inventory.csv` fingerprints the relevant read-only local
+  book, lecture, and research collections without pretending they were read.
+- `research_priority_queue.csv` ties a deliberately narrow first reading queue
+  to exact unresolved book questions.
+- `research_priority_status.csv` records close-reading cards and integrate,
+  retain, or reject decisions without rewriting the generated queue.
+- `research_horizon_summary.md` explains the breadth and the inclusion gate.
 
 A source advances beyond `inventory-verified` only after its substantive
 claims, stories, mechanisms, qualifications, contradictions, and useful
