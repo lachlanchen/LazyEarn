@@ -64,7 +64,7 @@ interview evidence or import unsupported facts into a speaker's story.
 ## Draft State
 
 Evidence mapping and architecture are complete. The front matter, introduction,
-and Chapters 1--17 are accepted. Source rows remain mapped until all of their
+and Chapters 1--18 are accepted. Source rows remain mapped until all of their
 primary and secondary material has been integrated or explicitly classified.
 Drafting continues in reading order so voice, definitions, and recurring cases
 accumulate rather than reset.
@@ -216,6 +216,22 @@ rent-roll failure, reported seller-financed property, first-property refinance,
 adjustable-rate stress, and acquisition-equipment cases culminate in a
 nine-step survival test. The closing turns from one leveraged outcome to
 Chapter 18's time, preservation, and diversification.
+
+Chapter 18 makes survival the missing term in compounding. Liquidity buys the
+right to remain invested; high or body-dependent income is not allowed to make
+a weak year unaffordable. Founder concentration, venture power laws, and
+long-held public-equity winners are treated as selected testimony, then placed
+beside diversification for preservation. A twenty-period doubling example is
+corrected to distinguish recurring drag from actual tax or fee mechanics.
+Public securities, property, recurring business cash, dividends, cash,
+retirement products, and borrowing against securities remain attributed
+instruments rather than recommendations. A home's lived value is separated from
+income-property economics, and tax deferral or refinancing cannot rescue a weak
+asset. The resulting portfolio policy joins life purpose, dated liquidity,
+reserves, human-capital exposure, loss capacity, concentration limits,
+contributions, rebalancing, costs, sell rules, and adviser conflicts. Its close
+turns to Chapter 19: a reserve is what prevents an interruption from selling
+time at the worst moment.
 
 ## Reserved Recurrences
 
