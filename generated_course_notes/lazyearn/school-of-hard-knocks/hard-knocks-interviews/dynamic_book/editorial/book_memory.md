@@ -64,7 +64,7 @@ interview evidence or import unsupported facts into a speaker's story.
 ## Draft State
 
 Evidence mapping and architecture are complete. The front matter, introduction,
-and Chapters 1--19 are accepted. Source rows remain mapped until all of their
+and Chapters 1--23 are accepted. Source rows remain mapped until all of their
 primary and secondary material has been integrated or explicitly classified.
 Drafting continues in reading order so voice, definitions, and recurring cases
 accumulate rather than reset.
@@ -303,6 +303,24 @@ learning, making, service, place, and chosen obligations so one role does not
 carry every reason to live. Its close treats freedom as usable room and
 prepares Chapter 23 to ask what deserves to enter before the line called enough
 is drawn.
+
+Chapter 23 keeps the interviews' disagreement about happiness intact. The
+beverage founder's ecstasy, John's challenge without contentment, Scooter
+Braun's emotional ebb and flow after passing a once-important target, and Edwin
+Arroyave's distinction between pleasure and happiness become different answers
+to different human questions. Money remains decisive at the material floor:
+Boyd's poverty-to-paid-bills threshold and Arroyave's ninety-day plan to buy his
+mother a home prevent the ending from treating security lightly. Above that
+floor, each target must name its practical job and what follows achievement.
+Faith testimony from Arroyave, Tebow, and a veteran investor is preserved as
+interpretation rather than proof; secular accounts of family, craft, service,
+citizenship, and friendship remain equally available. Gratitude affects
+attention but does not command events or replace care and structural change.
+Enough joins a priced material floor to ethical boundaries, legitimate claims,
+work worth inhabiting, survivable risk, and the things no amount may purchase.
+The final enough statement and stewardship argument return the entire machine
+to its purpose: accumulated agency should protect and share a worthwhile life,
+not become its author.
 
 ## Reserved Recurrences
 
