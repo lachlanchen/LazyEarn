@@ -53,10 +53,13 @@ V3 is developed in parallel so the accepted V2 edition remains unchanged:
 - `chapter_reviews/` records source, prose, continuity, figure, and PDF
   acceptance.
 - `book_memory.md` carries only durable argument and continuity decisions.
+- `whole_book_review.md` records whole-book editorial, evidence, figure,
+  typography, and publication gates without treating a compiling PDF as final.
 
-Chapters 1--23 are individually accepted for V3. Whole-book editorial,
-attribution, layout, pocket-edition, publication, and synchronization review
-remain required; a compiling working PDF does not imply final acceptance.
+Chapters 1--23 are individually accepted for V3. The whole-book cadence and
+continuity milestone is also accepted. Complete all-page inspection,
+pocket-edition, publication, and synchronization review before calling V3
+final; a compiling working PDF does not imply final acceptance.
 
 Compile the full-size working edition from the dynamic book directory:
 

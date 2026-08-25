@@ -21,8 +21,14 @@
 - Chapter 16, A Number Needs an Address, is accepted.
 - Chapter 17, Debt Must Be Carried by an Asset, is accepted.
 - Chapter 18, Compounding Is Slow; Risk Is Fast, is accepted.
-- Chapters 19--23 in manuscript-v3 remain V2 baselines until individually
-  reviewed; their presence in a compiling V3 PDF is not V3 acceptance.
+- Chapter 19, Cash Buys the Right to Survive, is accepted.
+- Chapter 20, The Shell Around the Risk, is accepted.
+- Chapter 21, The Cost of the Game, is accepted.
+- Chapter 22, Freedom Needs a Use, is accepted.
+- Chapter 23, Enough, is accepted.
+- The whole-book cadence and continuity milestone is accepted. The accepted
+  working book is 163 pages; final all-page and pocket-edition review remains
+  open.
 
 ## Live Argument
 
@@ -373,10 +379,10 @@ has completed its task.
 
 ## Handoff
 
-All twenty-three chapters are individually accepted. Begin the whole-book pass
-without treating chapter acceptance as publication acceptance. Read the book
-in order for argument, recurrence, attribution, pacing, transitions, exercises,
-and ending; reconcile the introduction and five records with their final uses;
-then inspect every rendered page and build the full-size and 1.2x editions from
-the same accepted source. Preserve V2 and promote V3 only after source,
-editorial, layout, publication, and synchronization gates pass together.
+All twenty-three chapters and the whole-book cadence and continuity pass are
+accepted. The argument, recurrence, attribution, transitions, five living
+records, exercises, and ending cohere in order. Deterministic evidence, PDF,
+font, repetition, and leak checks pass, and every page touched by the cadence
+pass has been inspected. Next inspect all 163 full-size pages, then build and
+inspect the 1.2x edition from the same source. Preserve V2 and promote V3 only
+after full-size, pocket, publication, and synchronization gates pass together.
