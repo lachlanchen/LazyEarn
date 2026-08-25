@@ -64,7 +64,7 @@ interview evidence or import unsupported facts into a speaker's story.
 ## Draft State
 
 Evidence mapping and architecture are complete. The front matter, introduction,
-and Chapters 1--9 are accepted. Source rows remain `mapped` until all of their
+and Chapters 1--10 are accepted. Source rows remain `mapped` until all of their
 primary and secondary material has been integrated or explicitly classified.
 Drafting continues in reading order so voice, definitions, and recurring cases
 accumulate rather than reset.
@@ -109,7 +109,19 @@ bounds personal service and relationship routes by consent, privacy, access
 inequality, and reciprocal value; and measures route contribution after
 acquisition, service, and recovery costs. The resulting nine-step loop ends at
 the threshold of Part III: repeated demand now raises the question of who owns
-the stream and whether it can continue without the original worker.
+the stream and whether it can continue without the original worker. Chapter 10
+begins Part III by separating wages, bonus or commission, profit share,
+distribution, and equity; keeping current cash distinct from uncertain claim
+value; and treating ownership as residual rights joined to capital, downside,
+governance, information, transfer, and duty. Professional skill can support
+outcome participation, minority ownership, a portable reputation, packaged
+judgment, intellectual property, a practice, a facility, a network, or
+property. None is automatically superior to stable employment. Medical
+ownership, personal branding, patent value, complementary assets, and
+operator equity are bounded by professional duty, personhood, demand,
+liquidity, labor fairness, and explicit agreement terms. The seven-step
+ownership map ends by asking what can survive a missed day, preparing Chapter
+11 to turn an owned claim into a system.
 
 ## Reserved Recurrences
 
@@ -276,6 +288,37 @@ the stream and whether it can continue without the original worker.
 - Source 126 completes its primary role through sincere personal service,
   return, and word of mouth in Chapter 9, bounded by consent, privacy, and
   emotional labor; it remains available only for final recurrence review.
+- Source 15 supplies intellectual-property rights, use-linked payment, and the
+  paper-value distinction in Chapter 10. Its missed optionality, entity shell,
+  bonds, industrial property, intermediary deal, faith, UFC product redesign,
+  crisis distribution, employee loyalty, competition, and repeated-proof
+  material remains reserved for Chapters 11--23.
+- Source 34 supplies contingent professional participation and shared upside
+  with trusted partners in Chapter 10. Its send-delete test, listening,
+  reputation, mistake repair, geographic scale, acquisition-delivery split,
+  trial capacity, cash, debt, investment, service, luck, and giving material
+  remains reserved for Chapters 11--23.
+- Source 64 supplies portable professional reputation, the limits of
+  self-commodification, and reusable judgment in Chapter 10. Its employee
+  care, partnership capital calls, historical debt, diversification, property,
+  household restraint, loss, professional boundaries, faith, health, and time
+  material remains reserved for Chapters 12--23.
+- Source 71 supplies apprenticeship, salary, bonus, equity, and dividends as
+  distinct claims in Chapter 10. Its bank acquisition, investor dispersion,
+  cash flow, leadership, spouse support, property, ruin, reserves, self-
+  investment, and downturn buying evidence remains reserved for Chapters
+  11--23.
+- Source 100 supplies professional skill joined to practice, facility, network,
+  and property ownership, plus institutional career capital and minority
+  equity, in Chapter 10. Its reinvestment, tools, labor capacity, lending,
+  delegation, sales, crypto claims, compensation, boss selection, AUM,
+  property, proximity, and modeled learning remains reserved for Chapters
+  11--23.
+- Source 103 supplies operator equity, the labor-capital asymmetry, and the
+  bounded equal-profit-split example in Chapter 10. Its consumer understanding,
+  culture, employee care, athlete guardrails, healthcare exits, delegation,
+  concentration, vertical integration, liquidity, infrastructure, mentoring,
+  promotion, and peace material remains reserved for Chapters 11--23.
 
 ## Acceptance Rule
 
