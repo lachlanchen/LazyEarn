@@ -64,7 +64,7 @@ interview evidence or import unsupported facts into a speaker's story.
 ## Draft State
 
 Evidence mapping and architecture are complete. The front matter, introduction,
-and Chapters 1--16 are accepted. Source rows remain mapped until all of their
+and Chapters 1--17 are accepted. Source rows remain mapped until all of their
 primary and secondary material has been integrated or explicitly classified.
 Drafting continues in reading order so voice, definitions, and recurring cases
 accumulate rather than reset.
@@ -203,6 +203,19 @@ restricted public shares, sale proceeds, and usable liquidity occupy separate
 records. High episodic income is tested against recurring commitments and a
 weak year. The resulting number card prepares Chapter 17 to judge debt by the
 cash flow, collateral, obligations, and downside that carry it.
+
+Chapter 17 tests that debt against collected asset cash rather than price,
+scheduled rent, appreciation, or the availability of a lender. A simplified
+NOI bridge is followed by owner cash, stressed debt-service coverage, the full
+sources-and-uses stack, lien priority, guarantees, covenants, maturity, balloon,
+and default remedies. Owner-occupied multiunit property is bounded by actual
+collection, operating cost, housing law, and current program rules. Seller
+finance changes the lender while preserving underwriting and default;
+refinancing releases borrowed cash while increasing the fixed claim. The motel
+rent-roll failure, reported seller-financed property, first-property refinance,
+adjustable-rate stress, and acquisition-equipment cases culminate in a
+nine-step survival test. The closing turns from one leveraged outcome to
+Chapter 18's time, preservation, and diversification.
 
 ## Reserved Recurrences
 
