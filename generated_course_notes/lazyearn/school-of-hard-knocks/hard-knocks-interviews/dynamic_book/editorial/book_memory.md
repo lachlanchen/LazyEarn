@@ -64,7 +64,7 @@ interview evidence or import unsupported facts into a speaker's story.
 ## Draft State
 
 Evidence mapping and architecture are complete. The front matter, introduction,
-and Chapters 1--14 are accepted. Source rows remain `mapped` until all of their
+and Chapters 1--15 are accepted. Source rows remain `mapped` until all of their
 primary and secondary material has been integrated or explicitly classified.
 Drafting continues in reading order so voice, definitions, and recurring cases
 accumulate rather than reset.
@@ -176,6 +176,20 @@ counterparties, substitutes, obligations, and ethical consequence before a
 choice to own, contract, diversify, back up, redesign, or accept dependence.
 Its closing question turns from control today to transfer, succession, and sale
 in Chapter 15.
+
+Chapter 15 closes Part III by making saleability a stewardship test rather than
+the company's purpose. Continuity, succession, transfer, and sale remain
+distinct destinations. A successor rehearsal tests documented steps together
+with evidence, judgment, exceptions, permissions, authority, and unresolved
+risk. Enterprise value is separated from pre-tax seller proceeds and from one
+owner's eventual cash; recurring economics are tested through voluntary
+retention, service cost, cohorts, and assignability. Portable personal trust is
+joined to product and institutional trust so public reputation does not become
+another single point of failure. Customer, worker, privacy, safety,
+environmental, professional, lender, supplier, community, and mission duties
+remain visible beside price. The ten-point transferability review completes the
+owned machine and prepares Part IV to judge whether capital makes it resilient
+or fragile.
 
 ## Reserved Recurrences
 
@@ -334,9 +348,10 @@ in Chapter 15.
   in Chapter 9. Its law, property, specialization, diversification, and capital
   evidence remains reserved for Parts III and IV.
 - Source 95 supplies apprenticeship, craft, accumulated trust, distribution,
-  and reinvested brand access in Chapter 9. Its risk, delegation, partner,
-  education, and institutional-access evidence remains reserved for Parts III
-  and IV.
+  and reinvested brand access in Chapter 9. Its word, honor, values, morals, and
+  rebuild-from-reputation case returns in Chapter 15 to distinguish personal,
+  product, and institutional trust. Its risk, delegation, partner, education,
+  and institutional-access evidence remains reserved for Parts IV and V.
 - Source 104 supplies rapid product cadence as a learning and visibility loop
   in Chapter 9, bounded by quality, waste, safety, and worker strain. Its
   origin, scaling, capital, operations, and remaining discipline evidence stays
@@ -376,7 +391,8 @@ in Chapter 15.
   concentration, vertical integration, liquidity, infrastructure, mentoring,
   promotion, and peace material remains reserved for Chapters 11--23.
 - Source 9 supplies the sale-side consequence of key-person risk and the wish
-  to remove the founder operationally before transfer in Chapter 11. Its
+  to remove the founder operationally before transfer in Chapter 11, then
+  returns in Chapter 15 as a successor-rehearsal case. Its
   bootstrapping, logistics-property growth, low-debt resilience, athlete-income
   preservation, leverage, rebuilding, status, and enough material remains
   reserved for Chapters 12--23.
@@ -391,8 +407,9 @@ in Chapter 15.
   faith, regret, luck, generosity, and identity remain reserved for Chapters
   13--23.
 - Source 67 supplies common process, shared data, and empowered people in
-  Chapter 11, bounded by local context, regulation, decision rights, and
-  central accountability. Its bootstrapping, capital cycle, acquisition,
+  Chapter 11 and returns as a transfer mechanism in Chapter 15, bounded by
+  local context, regulation, tacit craft, dissent, decision rights, and central
+  accountability. Its bootstrapping, capital cycle, acquisition,
   metrics, wealth claims, purpose, faith, and happiness remain reserved for
   Chapters 12--23.
 - Source 85 supplies released founder time and delegation in Chapter 11. Its
@@ -400,12 +417,15 @@ in Chapter 15.
   planning, self-management, scale, reported numbers, and lifestyle material
   remains reserved for final coverage classification.
 - Source 87 supplies retained-client economics, voluntary renewal, operating
-  focus, and released low-level decisions in Chapter 11. Its sales, specialist
-  knowledge, banking, capital, property, search tools, wealth definitions, and
-  other montage material remains reserved for Parts IV and V.
+  focus, and released low-level decisions in Chapter 11. Its recurring-revenue
+  and contingent-sale evidence returns in Chapter 15 to test demand quality and
+  headline price. Its sales, specialist knowledge, banking, capital, property,
+  search tools, wealth definitions, and other montage material remains reserved
+  for Parts IV and V.
 - Source 96 supplies the systems ladder, documented functions, backup, and
-  founder-absence test in Chapter 11, with revenue thresholds treated as
-  examples. Its sales-force claims, mobility, self-investment, networking,
+  founder-absence test in Chapter 11 and returns for the harder successor test
+  in Chapter 15, with revenue thresholds treated as examples. Its sales-force
+  claims, mobility, self-investment, networking,
   reciprocal access, spending, conviction, persistence, and rich-versus-wealthy
   language remains reserved for Chapters 12--23.
 - Source 132 recurs in Chapter 11 for workload subtraction, span-of-control
@@ -492,15 +512,18 @@ in Chapter 15.
   deal, property, loss, and goal material remains reserved for Chapters 14--23.
 - Source 42 returns in Chapter 13 for the reported removal of a high-producing
   salesperson who violated a customer promise, explicitly without treating
-  later growth as proof of causation. Its remaining operating and governance
-  material stays reserved for later chapters.
+  later growth as proof of causation. Its enterprise-value correction returns
+  in Chapter 15 to separate a deal headline from seller proceeds. Its remaining
+  operating and governance material stays reserved for later chapters.
 - Source 132 returns in Chapter 13 for honest leadership, constructive feedback,
   early founder conflict, and earned independent decision rights. Its remaining
   household, health, enough, regret, and time material stays reserved for Part V.
 - Source 134 supplies failed over-partnering, essential contribution without
   captivity, complementary temperament, and values alignment in Chapter 13.
-  Its marketing, personal-brand, crypto, credit, family, purpose, and remaining
-  risk material stays reserved for Chapters 14--23.
+  Its agency closures and portable-reputation account return in Chapter 15,
+  explicitly bounded by platform, truth, health, departure, and key-person
+  risk. Its remaining marketing, crypto, education, processor, credit, family,
+  health, purpose, and risk material stays reserved for Chapters 16--23.
 - Source 11 supplies the in-house construction workforce, seven factories, and
   reported speed benefit in Chapter 14, bounded by capital, utilization,
   management, labor, compliance, and concentration. Its ownership biography,
@@ -542,6 +565,15 @@ in Chapter 15.
   expansion. Its interviewing, relationships, creator economics, risk,
   education, purpose, and community material remains reserved for Chapters
   15--23.
+- Source 2 supplies buyer identification, a four-year exit heuristic, client-
+  base and turnover development, sale at a multiple, recurring-revenue
+  predictability, and institutional valuation testimony in Chapter 15. Sale is
+  explicitly rejected as a universal purpose, and subscriptions are bounded by
+  voluntary renewal, cohort behavior, service and recovery cost, assignability,
+  and lock-in. Its Simon Squibb time and agency material remains reserved for
+  Part V; leverage, compounding, reported bank mechanics, the fifty-five-
+  million-dollar collapse, rebuilding, and remaining capital material stays
+  reserved for Part IV.
 
 ## Acceptance Rule
 
