@@ -146,3 +146,35 @@ Status: accepted on 2026-08-25.
   accepted documentary figures. The full edition has no overfull warning and
   only three designed cover underfull lines; the pocket edition has no
   overfull or underfull warning.
+
+## Pass 8: Selective Intellectual Breadth
+
+Status: accepted on 2026-08-25.
+
+- Read-only Classical Chinese, literary, and physics collections were tested
+  against specific unresolved questions rather than surveyed for names to add.
+  The accepted source decisions and rejections are recorded in
+  `broadened_research_horizon.md`.
+- Chapter 23 now uses the *Laozi* to distinguish recognizing sufficiency from
+  knowing when to stop, and Mencius to explain why a stable material floor can
+  support practical agency. Neither passage romanticizes deprivation or
+  displaces the interview evidence.
+- Chapter 21 distinguishes recoverable bets from losses that cannot be
+  practically unwound, then adds reversibility to the reader's cost account.
+  Statistical-mechanics reasoning sharpened the test, but no forced physics
+  analogy entered reader-facing prose.
+- *Walden*, *Zhuangzi*, *Han Feizi*, and *Huainanzi* supplied useful checks but
+  no missing mechanism. They remain research context rather than ornamental
+  references in the book.
+- The deterministic source audit remains `135/135`. The leak scan, normalized
+  sentence scan, and eight-word cross-chapter scan remain clean.
+- The 162-page full edition and 312-page 1.2x pocket edition were rebuilt from
+  the accepted TeX. Changed prose and exercise pages were rendered and
+  inspected in both formats. There is no clipping, collision, bad page break,
+  or running-head defect.
+- Both PDFs pass `qpdf --check` and embed all listed fonts. The full build has
+  only the three designed cover underfull lines; the pocket build has no box
+  warning. The superseding full-size SHA-256 is
+  `bab7360e59c682a9f13b675d5626fb2bbcd9f157d240e6f383535ec35cee6e8a`.
+  The superseding pocket SHA-256 is
+  `186d1ac0e36acd9dbe1746c165a3f128be092df59f5528354169c3256a9cab5e`.
