@@ -188,6 +188,17 @@ Valuation remains a proposition, unknown remains an admissible field, and no
 peak company or portfolio number enters a household decision without its rights,
 liquidity, duties, and consequence of error.
 
+Chapter 17 tests one addressed obligation against operating, contract, and
+recovery clocks. Collected cash makes payments, reserves carry interruptions,
+and collateral supports lender recovery; none substitutes for the others. The
+complete capital stack records all uses, capital sources, rights, maturities,
+balloons, covenants, guarantees, recourse, remedies, and ultimate bearers.
+Owner-occupied rent, seller finance, refinancing, acquisition debt, and
+equipment finance remain variations of that same structure. Record 4 now holds
+one leverage decision covering the right and operation, cash clock, capital
+stack, stress path, recovery clock, protected boundaries, and the option to
+change terms or decline debt entirely.
+
 ## Recurring Cases
 
 - Glenn Boyd may return only when life design, founder dependence, growth
@@ -266,16 +277,35 @@ liquidity, duties, and consequence of error.
 - The Austin lawyer's restricted-stock sequence belongs to Chapter 16. Its
   three dated values and personal sell-early conclusion do not recur as a
   universal investment rule.
+- Barbara Corcoran's motel and owner-occupied two-family suggestion belong to
+  Chapter 17. Later chapters may use her wider business judgment or life
+  perspective without repeating the rent-roll failure or treating early entry
+  as a universal property rule.
+- Ben Mallah's hotel stack and small-multiunit entry belong to Chapter 17. His
+  rough leverage and historical program figures must not recur as current
+  underwriting instructions.
+- Pace Morby's seller-finance case belongs to Chapter 17. Its payment stream,
+  reported gross and residual, and no-cash claim do not recur as proof of a
+  guarantee, tax outcome, or generally safe structure.
+- Todd Nepola's first-property refinance belongs to Chapter 17 for the
+  before-and-after capital claim. Chapter 18 may use only his long-horizon or
+  recurring-cash thesis without restating the refinance figures or mechanism.
+- Justin Waller's adjustable-rate scenario belongs to Chapter 17 as a maturity
+  stress case, never a rate forecast. Later risk discussion should use the
+  general forced-sale mechanism rather than repeat his figures.
+- The landscape-supply acquisition belongs to Chapter 17 for debt and
+  equipment timing. The government-program figures remain excluded, and its
+  growth story should not return without a different narrative purpose.
 
 ## Handoff
 
-Chapter 17 must take one addressed obligation and ask whether the complete asset
-and capital stack can carry it through the path received rather than only the
-expected path. Match debt to conservative cash flow, collateral, maturity,
-rate path, covenants, guarantees, vacancy or demand loss, maintenance,
-refinancing, recovery, and every person exposed. Interview financing heuristics
-remain testimony. Any precise regulated or current claim requires date,
-jurisdiction, and primary-source review. Record 4 receives the capital stack,
-timing, bearer, guarantees, stress paths, maturity, recovery, and reasons not to
-borrow. The next handoff must show why an asset can carry debt while the
-household remains too concentrated in one thesis.
+Chapter 18 must distinguish capacity, willingness, and necessity after one
+asset passes Chapter 17's financing test. Build survival from dated household
+needs, liquidity, income fragility, concentration, correlation, time horizon,
+forced-sale risk, fees, tax, and recovery rather than a generic risk score.
+Interview winner stories remain selected paths, not expected returns. Record 4
+must receive a household floor, loss and liquidity budget, concentration map,
+rebalancing or exit evidence, and a policy that protects the right to remain
+invested. Do not repeat property underwriting, refinance mechanics, or the
+capital-stack checklist. The handoff to Chapter 19 must show that surviving the
+path is necessary but does not determine which claims deserve trust.
