@@ -22,6 +22,7 @@ CHAPTER_ROOT = COURSE_ROOT / "chapters"
 BOOK_ROOT = COURSE_ROOT / "dynamic_book"
 EDITORIAL_ROOT = BOOK_ROOT / "editorial"
 COVERAGE_BATCH_ROOT = EDITORIAL_ROOT / "coverage_batches"
+CHAPTER_CONTRACTS = EDITORIAL_ROOT / "chapter_contracts.json"
 BOOK_TEX = BOOK_ROOT / "how-you-got-rich.tex"
 BOOK_PDF = BOOK_ROOT / "how-you-got-rich.pdf"
 ORIGINAL_ROOT = Path("/home/lachlan/ProjectsLFS/LazyEarn")
@@ -44,6 +45,8 @@ LEAK_PATTERNS = {
     "book should": r"\bbook should\b",
     "current book": r"\bcurrent book\b",
 }
+
+PART_ROMANS = {1: "I", 2: "II", 3: "III", 4: "IV", 5: "V"}
 
 
 def sha256(path: Path) -> str:
@@ -179,6 +182,35 @@ def initialize_coverage(rows: list[dict[str, str | int]], path: Path) -> None:
     write_csv(path, coverage)
 
 
+def load_chapter_contracts() -> list[dict[str, object]]:
+    if not CHAPTER_CONTRACTS.exists():
+        return []
+    contracts = json.loads(CHAPTER_CONTRACTS.read_text(encoding="utf-8"))
+    if not isinstance(contracts, list):
+        raise ValueError(f"Chapter contracts must contain a list: {CHAPTER_CONTRACTS}")
+    return contracts
+
+
+def chapter_placements() -> dict[int, tuple[str, str]]:
+    placements: dict[int, tuple[str, str]] = {}
+    for contract in load_chapter_contracts():
+        part_number = int(contract["part_number"])
+        try:
+            part_roman = PART_ROMANS[part_number]
+        except KeyError as exc:
+            raise ValueError(f"Unsupported part number: {part_number}") from exc
+        part = f"Part {part_roman}: {contract['part_title']}"
+        chapter = str(contract["title"])
+        for source_id_raw in contract["primary_source_ids"]:
+            source_id = int(source_id_raw)
+            if source_id in placements:
+                raise ValueError(
+                    f"Source {source_id} has more than one primary chapter contract"
+                )
+            placements[source_id] = (part, chapter)
+    return placements
+
+
 def apply_coverage_batches(rows: list[dict[str, str | int]], path: Path) -> None:
     """Rebuild the coverage ledger from inventory plus reviewed batch files."""
     by_id: dict[int, dict[str, object]] = {}
@@ -220,6 +252,12 @@ def apply_coverage_batches(rows: list[dict[str, str | int]], path: Path) -> None
                     f"Unknown fields for source {source_id}: {', '.join(sorted(unknown))}"
                 )
             by_id[source_id].update(update)
+
+    for source_id, (part, chapter) in chapter_placements().items():
+        if source_id not in by_id:
+            raise ValueError(f"Unknown source {source_id} in chapter contracts")
+        by_id[source_id]["primary_part"] = part
+        by_id[source_id]["primary_chapter"] = chapter
 
     write_csv(path, [by_id[source_id] for source_id in sorted(by_id)])
 
@@ -379,6 +417,44 @@ def validate(rows: list[dict[str, str | int]], coverage_path: Path) -> list[str]
         coverage_ids = {row["source_id"] for row in coverage}
         if inventory_ids != coverage_ids:
             errors.append("coverage source IDs do not match inventory source IDs")
+    contracts = load_chapter_contracts()
+    if contracts:
+        chapter_numbers = [int(contract["chapter_number"]) for contract in contracts]
+        if chapter_numbers != list(range(1, len(contracts) + 1)):
+            errors.append("chapter contract numbers are not sequential")
+        inventory_ids_int = {int(row["source_id"]) for row in rows}
+        primary_ids = [
+            int(source_id)
+            for contract in contracts
+            for source_id in contract["primary_source_ids"]
+        ]
+        if len(primary_ids) != len(set(primary_ids)):
+            errors.append("chapter contracts contain duplicate primary source IDs")
+        if set(primary_ids) != inventory_ids_int:
+            missing = sorted(inventory_ids_int - set(primary_ids))
+            unknown = sorted(set(primary_ids) - inventory_ids_int)
+            errors.append(
+                "chapter contract source IDs do not match inventory "
+                f"(missing={missing}, unknown={unknown})"
+            )
+        recurring_ids = {
+            int(source_id)
+            for contract in contracts
+            for source_id in contract.get("recurring_source_ids", [])
+        }
+        unknown_recurring = sorted(recurring_ids - inventory_ids_int)
+        if unknown_recurring:
+            errors.append(
+                f"chapter contracts contain unknown recurring sources: {unknown_recurring}"
+            )
+        if coverage:
+            expected_placements = chapter_placements()
+            actual_placements = {
+                int(row["source_id"]): (row["primary_part"], row["primary_chapter"])
+                for row in coverage
+            }
+            if actual_placements != expected_placements:
+                errors.append("coverage placements do not match chapter contracts")
     return errors
 
 

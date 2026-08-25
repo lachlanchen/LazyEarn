@@ -38,6 +38,36 @@ interview evidence or import unsupported facts into a speaker's story.
 - Advice from winners is evidence, not proof that luck and starting conditions
   did not matter.
 
+## Accepted Architecture
+
+- Five parts: purpose, value, ownership, capital, and enough.
+- Twenty-three chapters, plus an introduction and an ending.
+- All 135 sources have exactly one primary chapter contract; recurring use is
+  allowed only when a later mechanism changes the meaning of the first story.
+- The inherited 73-chapter manuscript is evidence and diagnostic material, not
+  a prose baseline. New chapters are written from the ledgers and transcripts.
+
+## Continuity Rules
+
+- Introduce a person's biography once. Later appearances carry only the fact
+  needed for the new decision.
+- Keep income, revenue, profit, cash flow, deal size, company value, paper
+  wealth, liquidity, and spending visibly distinct.
+- Pair persistence with evidence and a stopping rule.
+- Pair ownership with duty to workers, customers, counterparties, and family.
+- Pair concentration stories with survival and preservation evidence.
+- Pair every tax, legal, insurance, or investment mechanism with jurisdiction,
+  date, conflicts, limits, and qualified-review language.
+- Let exercises arise from the chapter's reasoning; never append generic
+  motivation or a mechanical summary.
+
+## Draft State
+
+Evidence mapping and architecture are complete. No source is substantively
+accepted yet. Acceptance begins with the introduction and Chapter 1, then moves
+in reading order so voice, definitions, and recurring cases accumulate rather
+than reset.
+
 ## Acceptance Rule
 
 No chapter is accepted until its sources are traceable, its contradictions are

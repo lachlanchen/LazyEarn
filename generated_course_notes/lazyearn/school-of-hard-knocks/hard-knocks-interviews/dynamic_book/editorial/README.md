@@ -8,12 +8,17 @@ These files keep source completeness separate from reader-facing prose.
   mechanisms, qualifications, tensions, and questions are integrated.
 - `coverage_batches/` holds the reviewed human-readable source updates from
   which `source_coverage.csv` is rebuilt.
+- `chapter_contracts.json` assigns all 135 sources exactly once to the final
+  23-chapter architecture and defines each chapter's contradiction and payoff.
+- `cross_source_synthesis.md` resolves recurrent claims against counterevidence
+  before they enter reader-facing prose.
 - `figure_ledger.csv` blocks every frame from publication until its image,
   timestamp, context, usefulness, and duplication status are verified.
 - `baseline_audit.md` records the inherited edition without duplicating it.
 - `book_memory.md` preserves the accepted argument, voice, recurring cases,
   unresolved tensions, and continuity decisions.
-- `architecture.md` defines the current part and chapter contracts.
+- `architecture.md` is the human-readable map of the accepted drafting
+  architecture.
 
 Run the deterministic audit from the repository root:
 
