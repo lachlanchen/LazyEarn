@@ -19,6 +19,23 @@ Localization scope split (synced for this round):
 [![i18n](https://img.shields.io/badge/i18n-9%20languages-f59e0b)](#configuration)
 [![Mode](https://img.shields.io/badge/Mode-Static%20Frontend-10b981?logo=javascript&logoColor=white)](#overview)
 
+## 📕 Flagship book
+
+<p align="center">
+  <a href="https://lachlanchen.github.io/HowYouGotRich/chapters/note-on-the-conversations.html">
+    <img src="docs/publications/how-you-got-rich/cover-page-1.png" alt="How You Got Rich first page" width="440">
+  </a>
+</p>
+
+<p align="center">
+  <strong>How You Got Rich</strong><br>
+  <em>From Abundance to Fulfillment and Contentment</em><br><br>
+  <a href="https://lachlanchen.github.io/HowYouGotRich/chapters/note-on-the-conversations.html">Read the native web book</a> ·
+  <a href="https://github.com/lachlanchen/HowYouGotRich/blob/main/editions/how-you-got-rich.pdf">Full-size PDF</a> ·
+  <a href="https://github.com/lachlanchen/HowYouGotRich/blob/main/editions/how-you-got-rich-pocket-1.2x.pdf">Pocket 1.2x PDF</a> ·
+  <a href="https://github.com/lachlanchen/HowYouGotRich">Book repository</a>
+</p>
+
 ## 🖼️ Wealth research shelf
 
 This shelf is mirrored in the repo at [all_notes/wealth-research](all_notes/wealth-research) and synced to the local LazyingArtBooks `wealth-research` shelf.
