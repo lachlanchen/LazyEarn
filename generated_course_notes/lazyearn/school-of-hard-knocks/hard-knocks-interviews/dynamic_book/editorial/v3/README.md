@@ -58,9 +58,10 @@ V3 is developed in parallel so the accepted V2 edition remains unchanged:
 
 Chapters 1--23, the whole-book cadence and continuity pass, the complete
 163-page full-size inspection, and the complete 349-page 1.2x pocket inspection
-are accepted for V3. Complete versioned publication and synchronization review
-before calling V3 final; a compiling working PDF does not imply final
-acceptance.
+are accepted for V3. Versioned publication, standalone rebuilding, GitHub
+release, public-site deployment, and atomic Nutstore synchronization have also
+passed. V3 is final; the accepted V2 controls and reader editions remain
+preserved for comparison.
 
 Compile the full-size working edition from the dynamic book directory:
 

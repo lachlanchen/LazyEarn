@@ -388,5 +388,12 @@ Deterministic evidence, PDF, font, repetition, and leak checks pass. All 163
 full-size pages, all 349 pocket pages, and every equation-bearing page in both
 editions have been inspected. The responsive pocket displays retain the
 accepted full-size forms and remove narrow-page overflow without shortening the
-book. Preserve V2 and promote V3 only through distinct versioned publication
-and synchronization paths with verified checksums.
+book.
+
+V3 is published in the evidence-rich repository and the curated
+`lachlanchen/HowYouGotRich` repository, released as `v3.0.0`, deployed at
+<https://lachlanchen.github.io/HowYouGotRich/>, and synchronized to Nutstore.
+The standalone source rebuilds independently and all public and synchronized
+copies match the accepted hashes. V2 remains preserved as a fixed historical
+edition. Future work begins from this accepted V3 record and must create a new
+version rather than silently replacing it.

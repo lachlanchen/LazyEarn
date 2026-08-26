@@ -1,7 +1,7 @@
 # V3 Whole-Book Review
 
-Status: full-size and 1.2x pocket editions accepted; versioned publication and
-synchronization remain open.
+Status: final. The full-size and 1.2x pocket editions are accepted, published,
+released, and synchronized with verified checksums.
 
 ## Argument and Continuity
 
@@ -98,9 +98,25 @@ synchronization remain open.
   `33f16fc568a563236733f32532797076aeb09a20681ac54d71cb6c51ade88dc5`
   for the 1.2x pocket PDF.
 
-## Remaining Acceptance Work
+## Publication and Synchronization
 
-1. Preserve V2, publish V3 under distinct names, refresh previews only from the
-   accepted PDF first page, synchronize atomically, and verify checksums.
-2. Promote curated V3 materials to the standalone publication repository only
-   after the full-size and pocket gates pass together.
+- The evidence-rich V3 publication was accepted on the development branch in
+  commits `a01d5658` and `3f2c1a78`. Current reader paths now resolve to V3,
+  while fixed V2 and V3 archives remain available for comparison.
+- The curated standalone repository was published at
+  <https://github.com/lachlanchen/HowYouGotRich> in commit `4a37a0c`. Its
+  independently rebuilt full-size and pocket editions pass source, checksum,
+  PDF, font, text-leak, and website validation.
+- GitHub release `v3.0.0` contains both accepted PDFs. GitHub's asset digests
+  match the accepted full-size and pocket hashes above.
+- The public book site at <https://lachlanchen.github.io/HowYouGotRich/> serves
+  the V3 landing page, chapter map, PDF reader, downloads, source boundary, and
+  long-term accessible web-edition scaffold. The deployment completed
+  successfully and the live page returns HTTP 200.
+- The first-page preview was rendered from the accepted full-size PDF rather
+  than raw cover art.
+- Nutstore current and fixed V3 copies were written atomically under
+  `Share/LazyEarn`; all four copies match the accepted hashes. The retained V2
+  full-size and pocket copies still match
+  `6781241008a821036e34fe3fbcc3c1afa353c3ea7b0b2b2dbff5eba9d2016b3e` and
+  `ec9cf4a35ae4ce0fb3643788c819f78c3cef7076098b8411d6b5b54128b8898e`.
