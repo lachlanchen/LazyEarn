@@ -35,12 +35,14 @@ takes command.
 
 ## Editions
 
-- [Full-size PDF](how-you-got-rich.pdf), designed for desktop, print, and
-  larger tablets.
-- [Pocket 1.2x PDF](how-you-got-rich-pocket-1.2x.pdf), a 6x9 edition with
-  larger type for compact screens and e-readers.
+- [Full-size PDF](how-you-got-rich.pdf), the accepted 163-page V3 edition for
+  desktop, print, and larger tablets.
+- [Pocket 1.2x PDF](how-you-got-rich-pocket-1.2x.pdf), the accepted 349-page
+  6x9 V3 edition with larger type for compact screens and e-readers.
+- [V3 archive](v3/README.md), preserving the current full-size and pocket
+  editions under fixed versioned names.
 - [V2 archive](v2/README.md), preserving the accepted full-size and pocket
-  editions even after a later edition becomes canonical.
+  editions for direct comparison.
 - [Standalone source repository](https://github.com/lachlanchen/HowYouGotRich)
   with reproducible build scripts and figure attribution.
 - [Read on LazyEarn](https://earn.lazying.art/pdf-viewer.html#how-you-got-rich).
@@ -67,7 +69,7 @@ under `build/`.
 
 ## Status and Collaboration
 
-The first reader edition covers all 135 indexed conversations. Corrections are
+The third reader edition covers all 135 indexed conversations. Corrections are
 welcome when they identify the chapter, source video, timestamp, disputed
 wording or fact, and proposed repair. Contributions that improve source
 fidelity, prose, accessibility, typography, or practical usefulness are
