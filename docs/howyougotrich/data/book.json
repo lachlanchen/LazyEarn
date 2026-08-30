@@ -1,0 +1,100 @@
+{
+  "title": "How You Got Rich",
+  "subtitle": "From Abundance to Fulfillment and Contentment",
+  "version": "3.0.0",
+  "status": "accepted",
+  "webEdition": {
+    "status": "complete",
+    "start": "chapters/note-on-the-conversations.html",
+    "manifest": "data/web-edition.json",
+    "searchIndex": "data/search-index.json",
+    "readings": 25,
+    "alignedBlocks": 1164,
+    "languages": ["en", "ja", "zh"],
+    "modes": ["en", "ja", "zh", "all"]
+  },
+  "editions": {
+    "full": {
+      "label": "Full size",
+      "file": "https://lachlanchen.github.io/HowYouGotRich/editions/how-you-got-rich.pdf",
+      "pages": 163
+    },
+    "pocket": {
+      "label": "Pocket 1.2x",
+      "file": "https://lachlanchen.github.io/HowYouGotRich/editions/how-you-got-rich-pocket-1.2x.pdf",
+      "pages": 349
+    }
+  },
+  "preface": {
+    "title": "A Note on the Conversations",
+    "web": "chapters/note-on-the-conversations.html",
+    "question": "How should success stories be read without turning experience into law?"
+  },
+  "introduction": {
+    "title": "Introduction: The Question Under the Question",
+    "web": "chapters/introduction.html",
+    "pageFull": 13,
+    "pagePocket": 17,
+    "question": "What do people really mean when they say that someone is rich?"
+  },
+  "parts": [
+    {
+      "number": "I",
+      "title": "What Money Is For",
+      "question": "What kind of life should wealth support?",
+      "chapters": [
+        {"number": 1, "title": "A Number Cannot Tell You What Rich Means", "pageFull": 19, "pagePocket": 25, "question": "Which capabilities should a balance make possible?"},
+        {"number": 2, "title": "The Unequal Starting Line", "pageFull": 25, "pagePocket": 37, "question": "How should agency be understood when opportunity is uneven?"},
+        {"number": 3, "title": "Skills, Work, and the First Margin", "pageFull": 31, "pagePocket": 51, "question": "How does useful ability become the first durable margin?"},
+        {"number": 4, "title": "Choose the Life Before the Income", "pageFull": 37, "pagePocket": 65, "question": "What should the work preserve while it produces income?"}
+      ]
+    },
+    {
+      "number": "II",
+      "title": "Make Something Valuable",
+      "question": "What will people choose, trust, and pay for?",
+      "chapters": [
+        {"number": 5, "title": "Find the Expensive Problem", "pageFull": 45, "pagePocket": 81, "question": "Which burden is real, reachable, and worth solving?"},
+        {"number": 6, "title": "Listen Before You Build", "pageFull": 51, "pagePocket": 95, "question": "What evidence should change the solution before it becomes expensive?"},
+        {"number": 7, "title": "Price the Outcome", "pageFull": 57, "pagePocket": 111, "question": "What change is the buyer actually choosing?"},
+        {"number": 8, "title": "Sales Is a Test of Reality", "pageFull": 63, "pagePocket": 125, "question": "Can an offer discover truth without taking away consent?"},
+        {"number": 9, "title": "Distribution Opens the Door; Trust Keeps It Open", "pageFull": 69, "pagePocket": 139, "question": "How does attention become remembered, repeated trust?"}
+      ]
+    },
+    {
+      "number": "III",
+      "title": "Own the Machine",
+      "question": "How can effort become an asset that survives you?",
+      "chapters": [
+        {"number": 10, "title": "From Skill to Ownership", "pageFull": 77, "pagePocket": 153, "question": "Which claim can extend participation beyond the next hour worked?"},
+        {"number": 11, "title": "A Business That Can Leave the Room", "pageFull": 83, "pagePocket": 165, "question": "Can the promise survive the founder's absence?"},
+        {"number": 12, "title": "Working Capital Is the Price of Growth", "pageFull": 89, "pagePocket": 177, "question": "Who finances the delay created by growth?"},
+        {"number": 13, "title": "The Company Is Other People", "pageFull": 95, "pagePocket": 189, "question": "How should authority, contribution, and invisible risk be shared?"},
+        {"number": 14, "title": "Own the Rights and Critical Links", "pageFull": 101, "pagePocket": 205, "question": "Which rights and bottlenecks truly protect the promise?"},
+        {"number": 15, "title": "Build Something That Can Outlive You", "pageFull": 107, "pagePocket": 221, "question": "What can transfer without selling a person or erasing judgment?"}
+      ]
+    },
+    {
+      "number": "IV",
+      "title": "Capital, Risk, and Time",
+      "question": "How should money compound without destroying its owner?",
+      "chapters": [
+        {"number": 16, "title": "Know What the Number Means", "pageFull": 115, "pagePocket": 239, "question": "What does a financial number include, exclude, and permit?"},
+        {"number": 17, "title": "Debt Must Be Carried by an Asset", "pageFull": 121, "pagePocket": 251, "question": "Can the asset carry the obligation through a bad path?"},
+        {"number": 18, "title": "Compounding Is Slow; Risk Is Fast", "pageFull": 125, "pagePocket": 261, "question": "How can time remain an ally without making ruin possible?"},
+        {"number": 19, "title": "Cash Buys the Right to Survive", "pageFull": 131, "pagePocket": 277, "question": "Which reserves protect recovery, people, and future choice?"},
+        {"number": 20, "title": "The Shell Around the Risk", "pageFull": 137, "pagePocket": 289, "question": "Which loss should be refused, prevented, retained, transferred, or contained?"}
+      ]
+    },
+    {
+      "number": "V",
+      "title": "Freedom and Enough",
+      "question": "What is wealth for once survival is no longer the only question?",
+      "chapters": [
+        {"number": 21, "title": "The Cost of the Game", "pageFull": 145, "pagePocket": 305, "question": "Which costs of ambition cannot be repaired with money?"},
+        {"number": 22, "title": "Freedom Needs a Use", "pageFull": 151, "pagePocket": 319, "question": "What chosen obligations make freedom worth having?"},
+        {"number": 23, "title": "Enough", "pageFull": 157, "pagePocket": 333, "question": "How can wealth be stewarded without becoming another captivity?"}
+      ]
+    }
+  ]
+}

@@ -1,0 +1,76 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="theme-color" content="#18332f">
+    <meta name="description" content="Open or download the full-size and pocket PDF editions of How You Got Rich.">
+    <title>PDF Editions · How You Got Rich</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=DM+Mono:wght@400;500&family=Fraunces:opsz,wght@9..144,400;9..144,600&family=Public+Sans:wght@400;500;600;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="styles.css">
+    <link rel="icon" href="favicon.svg" type="image/svg+xml">
+    <script src="app.js" defer></script>
+  </head>
+  <body class="reader-page">
+    <a class="skip-link" href="#pdf-frame">Skip to the PDF</a>
+    <header class="reader-header">
+      <a class="reader-brand" href="index.html">
+        <span>HOW YOU GOT RICH</span>
+        <strong>PDF Editions</strong>
+      </a>
+      <div class="edition-switch">
+        <label for="edition-select">Edition</label>
+        <select id="edition-select">
+          <option value="full">Full size</option>
+          <option value="pocket">Pocket 1.2x</option>
+        </select>
+      </div>
+      <div class="reader-utilities">
+        <button id="outline-toggle" type="button" aria-expanded="false" aria-controls="reader-outline">Contents</button>
+        <details class="language-edition-menu">
+          <summary>Languages</summary>
+          <div>
+            <p>FULL SIZE</p>
+            <a href="https://lachlanchen.github.io/HowYouGotRich/editions/languages/how-you-got-rich-en.pdf">English</a>
+            <a href="https://lachlanchen.github.io/HowYouGotRich/editions/languages/how-you-got-rich-ja.pdf">日本語 · furigana</a>
+            <a href="https://lachlanchen.github.io/HowYouGotRich/editions/languages/how-you-got-rich-zh.pdf">中文 · pinyin</a>
+            <a href="https://lachlanchen.github.io/HowYouGotRich/editions/languages/how-you-got-rich-en-ja-zh.pdf">EN · 日本語 · 中文</a>
+            <p>6×9 POCKET · 1.2X</p>
+            <a href="https://lachlanchen.github.io/HowYouGotRich/editions/languages/how-you-got-rich-en-pocket-1.2x.pdf">English</a>
+            <a href="https://lachlanchen.github.io/HowYouGotRich/editions/languages/how-you-got-rich-ja-pocket-1.2x.pdf">日本語 · furigana</a>
+            <a href="https://lachlanchen.github.io/HowYouGotRich/editions/languages/how-you-got-rich-zh-pocket-1.2x.pdf">中文 · pinyin</a>
+            <a href="https://lachlanchen.github.io/HowYouGotRich/editions/languages/how-you-got-rich-en-ja-zh-pocket-1.2x.pdf">EN · 日本語 · 中文</a>
+          </div>
+        </details>
+        <a id="download-link" href="https://lachlanchen.github.io/HowYouGotRich/editions/how-you-got-rich.pdf" download>Download</a>
+        <a href="chapters/note-on-the-conversations.html">Read HTML</a>
+      </div>
+    </header>
+
+    <main class="pdf-shell">
+      <aside id="reader-outline" class="reader-outline" aria-label="Book contents">
+        <div class="outline-intro">
+          <p>FROM ABUNDANCE TO FULFILLMENT AND CONTENTMENT</p>
+          <h1>Choose a chapter</h1>
+        </div>
+        <nav id="reader-toc" aria-label="Parts and chapters"></nav>
+      </aside>
+      <section class="pdf-stage" aria-label="PDF reader">
+        <div class="reader-status">
+          <span id="reader-location">Opening the book</span>
+          <a id="external-pdf-link" href="https://lachlanchen.github.io/HowYouGotRich/editions/how-you-got-rich.pdf" target="_blank" rel="noopener">Open in a new tab</a>
+        </div>
+        <iframe
+          id="pdf-frame"
+          title="How You Got Rich PDF"
+          src="about:blank"
+        ></iframe>
+        <noscript>
+          <p class="noscript">JavaScript is required for chapter navigation. <a href="https://lachlanchen.github.io/HowYouGotRich/editions/how-you-got-rich.pdf">Open the PDF directly.</a></p>
+        </noscript>
+      </section>
+    </main>
+  </body>
+</html>

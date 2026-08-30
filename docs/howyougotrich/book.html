@@ -1,0 +1,99 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="theme-color" content="#efe7d7">
+    <meta name="description" content="Explore the web edition and complete argument of How You Got Rich.">
+    <title>Web Edition · How You Got Rich</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=DM+Mono:wght@400;500&family=Fraunces:opsz,wght@9..144,400;9..144,600;9..144,700&family=Public+Sans:wght@400;500;600;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="styles.css">
+    <link rel="icon" href="favicon.svg" type="image/svg+xml">
+    <script src="app.js" defer></script>
+  </head>
+  <body class="book-page">
+    <a class="skip-link" href="#book-main">Skip to the chapters</a>
+    <header class="site-header compact">
+      <a class="wordmark" href="index.html"><span>HOW YOU</span><strong>GOT RICH</strong></a>
+      <button class="menu-button" type="button" aria-expanded="false" aria-controls="site-nav">Menu</button>
+      <nav id="site-nav" class="site-nav" aria-label="Primary navigation">
+        <a href="index.html">Home</a>
+        <a href="chapters/note-on-the-conversations.html">Start reading</a>
+        <a href="reader.html">PDF editions</a>
+        <a href="https://github.com/lachlanchen/HowYouGotRich">GitHub</a>
+      </nav>
+    </header>
+
+    <main id="book-main">
+      <header class="web-book-hero section-shell">
+        <p class="eyebrow">COMPLETE NATIVE WEB EDITION</p>
+        <h1>The book, made for reading online</h1>
+        <p>
+          Read every accepted V3 chapter as responsive English, Japanese, or
+          Chinese HTML, or place all three together block by block. Equations,
+          verified figures, search, section links, and reading progress remain
+          part of the same continuous book.
+        </p>
+        <div class="hero-actions">
+          <a class="button button-primary" href="chapters/note-on-the-conversations.html">Start at the beginning</a>
+          <a class="button button-quiet" href="#chapters">Explore 23 chapters</a>
+        </div>
+        <a id="resume-reading" class="resume-reading" href="chapters/note-on-the-conversations.html" hidden><span>YOUR LAST READING</span><strong>Continue reading</strong></a>
+      </header>
+
+      <section class="web-progress" aria-label="Publication status">
+        <div><span>AVAILABLE NOW</span><strong>EN · 日本語 · 中文 · Together</strong></div>
+        <div><span>ONE SOURCE</span><strong>Native web, full-size, and pocket editions</strong></div>
+        <div><span>PUBLIC METHOD</span><strong>Source records and corrections</strong></div>
+      </section>
+
+      <section class="section-shell book-search-section" aria-labelledby="book-search-heading">
+        <div>
+          <p class="eyebrow">SEARCH THE ACTUAL BOOK</p>
+          <h2 id="book-search-heading">Find the idea you need.</h2>
+        </div>
+        <div class="book-search-box">
+          <label for="book-search">Search all chapter prose</label>
+          <input id="book-search" type="search" placeholder="Try ownership, cash, risk, freedom…" autocomplete="off">
+          <p id="book-search-status">Search the complete native text by idea, mechanism, or phrase.</p>
+        </div>
+        <div id="book-search-results" class="book-search-results" aria-live="polite"></div>
+      </section>
+
+      <section id="chapters" class="section-shell chapter-atlas">
+        <div class="atlas-heading">
+          <p class="eyebrow">THE BOOK IN 23 QUESTIONS</p>
+          <h2>Follow the argument, not a pile of advice</h2>
+          <p>Each chapter changes the question the next chapter is able to ask. Open any native chapter directly, or follow the sequence from the beginning.</p>
+        </div>
+        <section class="book-part opening-part">
+          <header class="book-part-heading">
+            <span>OPENING</span>
+            <h3>How to read the evidence</h3>
+            <p>Begin with the source boundary and the question beneath the title.</p>
+          </header>
+          <div id="opening-list" class="chapter-list"></div>
+        </section>
+        <div id="book-outline" class="book-outline" aria-live="polite"></div>
+      </section>
+
+      <section class="section-shell web-principle">
+        <p class="eyebrow">ONE SOURCE, MULTIPLE FORMS</p>
+        <h2>The HTML edition is the book, not a summary of it.</h2>
+        <p>
+          Native HTML and all monolingual or aligned PDFs are generated from
+          the same 1,164 reviewed source blocks. Every web page records its
+          source checksum; publication validation rejects missing chapters,
+          stale prose, broken figures, raw TeX, or a drifting reading order.
+        </p>
+      </section>
+    </main>
+
+    <footer class="site-footer">
+      <div><strong>How You Got Rich</strong><p>LazyingArt · LazyLearn</p></div>
+      <nav aria-label="Footer navigation"><a href="index.html">Home</a><a href="chapters/note-on-the-conversations.html">Start reading</a><a href="reader.html">PDF editions</a><a href="https://github.com/lachlanchen/HowYouGotRich">Contribute</a></nav>
+    </footer>
+  </body>
+</html>

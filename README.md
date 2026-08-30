@@ -22,7 +22,7 @@ Localization scope split (synced for this round):
 ## 📕 Flagship book
 
 <p align="center">
-  <a href="https://lachlanchen.github.io/HowYouGotRich/chapters/note-on-the-conversations.html">
+  <a href="https://earn.lazying.art/howyougotrich/">
     <img src="docs/publications/how-you-got-rich/cover-page-1.png" alt="How You Got Rich first page" width="440">
   </a>
 </p>
@@ -30,7 +30,7 @@ Localization scope split (synced for this round):
 <p align="center">
   <strong>How You Got Rich</strong><br>
   <em>From Abundance to Fulfillment and Contentment</em><br><br>
-  <a href="https://lachlanchen.github.io/HowYouGotRich/chapters/note-on-the-conversations.html">Read the native web book</a> ·
+  <a href="https://earn.lazying.art/howyougotrich/">Read the native web book</a> ·
   <a href="https://github.com/lachlanchen/HowYouGotRich/blob/main/editions/how-you-got-rich.pdf">Full-size PDF</a> ·
   <a href="https://github.com/lachlanchen/HowYouGotRich/blob/main/editions/how-you-got-rich-pocket-1.2x.pdf">Pocket 1.2x PDF</a> ·
   <a href="https://github.com/lachlanchen/HowYouGotRich">Book repository</a>
