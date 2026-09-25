@@ -11,6 +11,10 @@ Localization scope split (synced for this round):
 
 # LazyEarn — The secrets to earn from scratch?
 
+## Read selected books in Bunko
+
+Nine edited LazyEarn books are available now in the [Bunko web reader](https://lachlan.lazying.art/Bunko/), with downloadable chapters and local equation rendering where needed. The direct Jim Rohn transcript book and raw Hard Knocks interview corpus remain on this site only. [Bunko on the App Store](https://apps.apple.com/us/app/bunko-classics-with-ruby/id6815137919) is live, but the Finance shelf is currently in its internal test build; use the web reader until that update is public. Google Play package `art.lazying.bunko` is awaiting public release.
+
 [![Site](https://img.shields.io/badge/Site-earn.lazying.art-0ea5e9?logo=googlechrome&logoColor=white)](https://earn.lazying.art)
 [![Audience](https://img.shields.io/badge/Audience-Investing%20%2F%20Entrepreneurs-8b5cf6?logo=bookstack&logoColor=white)](https://github.com/lachlanchen/LazyEarn)
 [![Deploy](https://img.shields.io/badge/Deploy-GitHub%20Pages-222222?logo=githubpages&logoColor=white)](https://pages.github.com/)
