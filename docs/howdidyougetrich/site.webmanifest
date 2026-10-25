@@ -1,0 +1,17 @@
+{
+  "name": "How Did You Get Rich?",
+  "short_name": "Get Rich?",
+  "description": "From Abundance to Fulfillment and Contentment",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#efe7d7",
+  "theme_color": "#18332f",
+  "icons": [
+    {
+      "src": "favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ]
+}

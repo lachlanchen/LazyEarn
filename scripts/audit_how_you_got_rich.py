@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Audit the source and publication state of the How You Got Rich book."""
+"""Audit the source and publication state of the How Did You Get Rich? book."""
 
 from __future__ import annotations
 
@@ -26,7 +26,7 @@ CHAPTER_REVIEW_ROOT = EDITORIAL_ROOT / "chapter_reviews"
 FINAL_COVERAGE_ACCEPTANCE = EDITORIAL_ROOT / "source_acceptance.json"
 CHAPTER_CONTRACTS = EDITORIAL_ROOT / "chapter_contracts.json"
 BOOK_TEX = BOOK_ROOT / "how-you-got-rich.tex"
-BOOK_PDF = BOOK_ROOT / "how-you-got-rich.pdf"
+BOOK_PDF = BOOK_ROOT / "how-did-you-get-rich.pdf"
 ORIGINAL_ROOT = Path("/home/lachlan/ProjectsLFS/LazyEarn")
 ORIGINAL_DOWNLOADS = ORIGINAL_ROOT / "downloads"
 ORIGINAL_MEMORY_ROOT = ORIGINAL_ROOT / ".lecture-notes-work" / COURSE_REL
@@ -448,9 +448,9 @@ def baseline_markdown(rows: list[dict[str, str | int]], coverage_path: Path) -> 
     coverage = read_coverage(coverage_path)
     accepted = sum(row.get("substantive_status") == "accepted" for row in coverage)
     publication_paths = [
-        REPO_ROOT / "all_notes/how-you-got-rich.pdf",
-        REPO_ROOT / "how-you-got-rich-publication/how-you-got-rich.pdf",
-        REPO_ROOT / "docs/publications/how-you-got-rich/how-you-got-rich.pdf",
+        REPO_ROOT / "all_notes/how-did-you-get-rich.pdf",
+        REPO_ROOT / "how-did-you-get-rich-publication/how-did-you-get-rich.pdf",
+        REPO_ROOT / "docs/publications/how-did-you-get-rich/how-did-you-get-rich.pdf",
     ]
     canonical_hash = sha256(BOOK_PDF) if BOOK_PDF.exists() else "missing"
     publication_match = all(
@@ -458,7 +458,7 @@ def baseline_markdown(rows: list[dict[str, str | int]], coverage_path: Path) -> 
     )
 
     lines = [
-        "# How You Got Rich Baseline Audit",
+        "# How Did You Get Rich? Baseline Audit",
         "",
         f"Generated: {datetime.now().astimezone().isoformat(timespec='seconds')}",
         f"Baseline commit: `{git('rev-parse', 'HEAD')}`",

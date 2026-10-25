@@ -480,29 +480,29 @@ const pdfEntries = {
       "https://github.com/lachlanchen/LazyEarn/blob/main/how-you-got-happiness-publication/README.md",
     grid: false,
   },
-  "how-you-got-rich": {
-    aliases: ["hard-knocks-dynamic-book", "how-you-got-rich-book"],
-    title: "How You Got Rich",
+  "how-did-you-get-rich": {
+    aliases: ["hard-knocks-dynamic-book", "how-did-you-get-rich-book", "how-you-got-rich", "how-you-got-rich-book"],
+    title: "How Did You Get Rich?",
     description:
       "A coherent book drawn from 135 School of Hard Knocks interviews about building abundance, finding fulfillment, and retaining the freedom to know enough.",
-    pdf: "publications/how-you-got-rich/how-you-got-rich.pdf",
-    download: "publications/how-you-got-rich/how-you-got-rich.pdf",
+    pdf: "publications/how-did-you-get-rich/how-did-you-get-rich.pdf",
+    download: "publications/how-did-you-get-rich/how-did-you-get-rich.pdf",
     markdown:
       "https://github.com/lachlanchen/LazyEarn/tree/main/generated_course_notes/lazyearn/school-of-hard-knocks/hard-knocks-interviews/dynamic_book",
     publication:
-      "https://github.com/lachlanchen/LazyEarn/tree/main/how-you-got-rich-publication",
+      "https://github.com/lachlanchen/LazyEarn/tree/main/how-did-you-get-rich-publication",
   },
-  "how-you-got-rich-pocket-1-2x": {
-    aliases: ["how-you-got-rich-pocket-1.2x", "how-you-got-rich-pocket-1_2x"],
-    title: "How You Got Rich (Pocket 1.2x)",
+  "how-did-you-get-rich-pocket-1-2x": {
+    aliases: ["how-did-you-get-rich-pocket-1.2x", "how-did-you-get-rich-pocket-1_2x", "how-you-got-rich-pocket-1-2x", "how-you-got-rich-pocket-1.2x", "how-you-got-rich-pocket-1_2x"],
+    title: "How Did You Get Rich? (Pocket 1.2x)",
     description:
-      "The 1.2x 6x9 edition of How You Got Rich for tablet and e-ink reading.",
-    pdf: "publications/how-you-got-rich/how-you-got-rich-pocket-1.2x.pdf",
-    download: "publications/how-you-got-rich/how-you-got-rich-pocket-1.2x.pdf",
+      "The 1.2x 6x9 edition of How Did You Get Rich? for tablet and e-ink reading.",
+    pdf: "publications/how-did-you-get-rich/how-did-you-get-rich-pocket-1.2x.pdf",
+    download: "publications/how-did-you-get-rich/how-did-you-get-rich-pocket-1.2x.pdf",
     markdown:
       "https://github.com/lachlanchen/LazyEarn/tree/main/generated_course_notes/lazyearn/school-of-hard-knocks/hard-knocks-interviews/dynamic_book",
     publication:
-      "https://github.com/lachlanchen/LazyEarn/tree/main/how-you-got-rich-publication",
+      "https://github.com/lachlanchen/LazyEarn/tree/main/how-did-you-get-rich-publication",
     grid: false,
   },
   "how-you-got-successful": {
@@ -741,9 +741,9 @@ const readerRouteRewrites = {
     "the-way-to-wealth-freedom-notes",
   "publications/the-way-to-wealth-freedom-notes/the-way-to-wealth-freedom-notes-pocket-1.2x.pdf":
     "the-way-to-wealth-freedom-notes-pocket-1-2x",
-  "publications/how-you-got-rich/how-you-got-rich.pdf": "how-you-got-rich",
-  "publications/how-you-got-rich/how-you-got-rich-pocket-1.2x.pdf":
-    "how-you-got-rich-pocket-1-2x",
+  "publications/how-did-you-get-rich/how-did-you-get-rich.pdf": "how-did-you-get-rich",
+  "publications/how-did-you-get-rich/how-did-you-get-rich-pocket-1.2x.pdf":
+    "how-did-you-get-rich-pocket-1-2x",
   "publications/how-you-got-successful/how-you-got-successful.pdf": "how-you-got-successful",
   "publications/how-you-got-successful/how-you-got-successful-pocket-1.0x.pdf":
     "how-you-got-successful-pocket-1-0x",

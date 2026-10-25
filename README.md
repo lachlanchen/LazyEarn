@@ -26,35 +26,35 @@ Nine edited LazyEarn books are available now in the [Bunko web reader](https://l
 ## 📕 Flagship book
 
 <p align="center">
-  <a href="https://earn.lazying.art/howyougotrich/">
-    <img src="docs/publications/how-you-got-rich/cover-page-1.png" alt="How You Got Rich first page" width="440">
+  <a href="https://earn.lazying.art/howdidyougetrich/">
+    <img src="docs/publications/how-did-you-get-rich/cover-page-1.png" alt="How Did You Get Rich? first page" width="440">
   </a>
 </p>
 
 <p align="center">
-  <strong>How You Got Rich</strong><br>
+  <strong>How Did You Get Rich?</strong><br>
   <em>From Abundance to Fulfillment and Contentment</em><br><br>
-  <a href="https://earn.lazying.art/howyougotrich/">Read the native web book</a> ·
-  <a href="https://github.com/lachlanchen/HowYouGotRich/blob/main/editions/how-you-got-rich.pdf">Full-size PDF</a> ·
-  <a href="https://github.com/lachlanchen/HowYouGotRich/blob/main/editions/how-you-got-rich-pocket-1.2x.pdf">Pocket 1.2x PDF</a> ·
-  <a href="https://github.com/lachlanchen/HowYouGotRich">Book repository</a>
+  <a href="https://earn.lazying.art/howdidyougetrich/">Read the native web book</a> ·
+  <a href="https://github.com/lachlanchen/HowDidYouGetRich/blob/main/editions/how-did-you-get-rich.pdf">Full-size PDF</a> ·
+  <a href="https://github.com/lachlanchen/HowDidYouGetRich/blob/main/editions/how-did-you-get-rich-pocket-1.2x.pdf">Pocket 1.2x PDF</a> ·
+  <a href="https://github.com/lachlanchen/HowDidYouGetRich">Book repository</a>
 </p>
 
 ## 🖼️ Wealth research shelf
 
 This shelf is mirrored in the repo at [all_notes/wealth-research](all_notes/wealth-research) and synced to the local LazyingArtBooks `wealth-research` shelf.
 
-**How You Got Rich** turns all 135 School of Hard Knocks interviews into one
+**How Did You Get Rich?** turns all 135 School of Hard Knocks interviews into one
 source-traceable inquiry into abundance, fulfillment, contentment, and
 financial freedom.
 
-[Book source, editions, and contribution guide](https://github.com/lachlanchen/HowYouGotRich)
+[Book source, editions, and contribution guide](https://github.com/lachlanchen/HowDidYouGetRich)
 are maintained in a focused publication repository.
 
-| Wealth from first principles | How You Got Rich | How You Got Successful? | How You Got Happiness? |
+| Wealth from first principles | How Did You Get Rich? | How You Got Successful? | How You Got Happiness? |
 | --- | --- | --- | --- |
-| [<img src="docs/publications/wealth-from-first-principles/cover-page-1.png" alt="Wealth from first principles first page" width="180">](https://earn.lazying.art/pdf-viewer.html#wealth-from-first-principles) | [<img src="docs/publications/how-you-got-rich/cover-page-1.png" alt="How You Got Rich first page" width="180">](https://earn.lazying.art/pdf-viewer.html#how-you-got-rich) | [<img src="docs/publications/how-you-got-successful/cover-page-1.png" alt="How You Got Successful first page" width="180">](https://earn.lazying.art/pdf-viewer.html#how-you-got-successful) | [<img src="docs/publications/how-you-got-happiness/cover-page-1.png" alt="How You Got Happiness first page" width="180">](https://earn.lazying.art/pdf-viewer.html#how-you-got-happiness) |
-| [PDF](https://earn.lazying.art/pdf-viewer.html#wealth-from-first-principles) · [Pocket 1.0x](https://earn.lazying.art/pdf-viewer.html#wealth-from-first-principles-pocket-1-0x) · [Pocket 1.2x](https://earn.lazying.art/pdf-viewer.html#wealth-from-first-principles-pocket-1-2x) · [Markdown](investment/wealth-from-first-principles.md) | [PDF](https://earn.lazying.art/pdf-viewer.html#how-you-got-rich) · [Pocket 1.2x](https://earn.lazying.art/pdf-viewer.html#how-you-got-rich-pocket-1-2x) | [PDF](https://earn.lazying.art/pdf-viewer.html#how-you-got-successful) · [Pocket 1.0x](https://earn.lazying.art/pdf-viewer.html#how-you-got-successful-pocket-1-0x) · [Pocket 1.2x](https://earn.lazying.art/pdf-viewer.html#how-you-got-successful-pocket-1-2x) | [PDF](https://earn.lazying.art/pdf-viewer.html#how-you-got-happiness) · [Pocket 1.2x](https://earn.lazying.art/pdf-viewer.html#how-you-got-happiness-pocket-1-2x) · [Course notes](https://earn.lazying.art/pdf-viewer.html#how-you-got-happiness-course-notes) |
+| [<img src="docs/publications/wealth-from-first-principles/cover-page-1.png" alt="Wealth from first principles first page" width="180">](https://earn.lazying.art/pdf-viewer.html#wealth-from-first-principles) | [<img src="docs/publications/how-did-you-get-rich/cover-page-1.png" alt="How Did You Get Rich? first page" width="180">](https://earn.lazying.art/pdf-viewer.html#how-did-you-get-rich) | [<img src="docs/publications/how-you-got-successful/cover-page-1.png" alt="How You Got Successful first page" width="180">](https://earn.lazying.art/pdf-viewer.html#how-you-got-successful) | [<img src="docs/publications/how-you-got-happiness/cover-page-1.png" alt="How You Got Happiness first page" width="180">](https://earn.lazying.art/pdf-viewer.html#how-you-got-happiness) |
+| [PDF](https://earn.lazying.art/pdf-viewer.html#wealth-from-first-principles) · [Pocket 1.0x](https://earn.lazying.art/pdf-viewer.html#wealth-from-first-principles-pocket-1-0x) · [Pocket 1.2x](https://earn.lazying.art/pdf-viewer.html#wealth-from-first-principles-pocket-1-2x) · [Markdown](investment/wealth-from-first-principles.md) | [PDF](https://earn.lazying.art/pdf-viewer.html#how-did-you-get-rich) · [Pocket 1.2x](https://earn.lazying.art/pdf-viewer.html#how-did-you-get-rich-pocket-1-2x) | [PDF](https://earn.lazying.art/pdf-viewer.html#how-you-got-successful) · [Pocket 1.0x](https://earn.lazying.art/pdf-viewer.html#how-you-got-successful-pocket-1-0x) · [Pocket 1.2x](https://earn.lazying.art/pdf-viewer.html#how-you-got-successful-pocket-1-2x) | [PDF](https://earn.lazying.art/pdf-viewer.html#how-you-got-happiness) · [Pocket 1.2x](https://earn.lazying.art/pdf-viewer.html#how-you-got-happiness-pocket-1-2x) · [Course notes](https://earn.lazying.art/pdf-viewer.html#how-you-got-happiness-course-notes) |
 | **10 Questions With a Millionaire** | **The Way to Wealth Freedom** | **MIT Nuts and Bolts of New Ventures** | **Hard Knocks Interviews** |
 | [<img src="docs/publications/10-questions-with-a-millionaire/cover-page-1.png" alt="10 Questions With a Millionaire first page" width="180">](https://earn.lazying.art/pdf-viewer.html#10-questions-with-a-millionaire) | [<img src="docs/publications/the-way-to-wealth-freedom-notes/cover-page-1.png" alt="The Way to Wealth Freedom first page" width="180">](https://earn.lazying.art/pdf-viewer.html#the-way-to-wealth-freedom-notes) | [<img src="docs/publications/mit-nuts-and-bolts-of-new-ventures/cover-page-1.png" alt="Nuts and Bolts of New Ventures first page" width="180">](https://earn.lazying.art/pdf-viewer.html#mit-nuts-and-bolts-of-new-ventures) | [<img src="docs/publications/hard-knocks-interviews/cover-page-1.png" alt="Hard Knocks Interviews first page" width="180">](https://earn.lazying.art/pdf-viewer.html#hard-knocks-interviews) |
 | [PDF](https://earn.lazying.art/pdf-viewer.html#10-questions-with-a-millionaire) · [Pocket 1.2x](https://earn.lazying.art/pdf-viewer.html#10-questions-with-a-millionaire-pocket-1-2x) · [Dynamic PDF](https://earn.lazying.art/pdf-viewer.html#ten-questions-that-build-wealth) · [Dynamic pocket](https://earn.lazying.art/pdf-viewer.html#ten-questions-that-build-wealth-pocket-1-2x) | [PDF](https://earn.lazying.art/pdf-viewer.html#the-way-to-wealth-freedom-notes) · [Pocket 1.2x](https://earn.lazying.art/pdf-viewer.html#the-way-to-wealth-freedom-notes-pocket-1-2x) · [Source notes](materials/the-way-to-wealth-freedom-notes/README.md) | [Full PDF](https://earn.lazying.art/pdf-viewer.html#mit-nuts-and-bolts-of-new-ventures) · [Pocket 1.2x](https://earn.lazying.art/pdf-viewer.html#mit-nuts-and-bolts-of-new-ventures-pocket-1-2x) | [PDF](https://earn.lazying.art/pdf-viewer.html#hard-knocks-interviews) · [Pocket 1.2x](https://earn.lazying.art/pdf-viewer.html#hard-knocks-interviews-pocket-1-2x) |
